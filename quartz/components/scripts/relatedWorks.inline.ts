@@ -103,29 +103,73 @@ async function init() {
   }
 }
 
-// Per-page language toggle. preprocess injects a `<div class="sb-langswitch"
-// data-other-lang="it|en">` marker into any page that has an Italian sibling
-// ("<slug>.it"). We render a button that navigates to the sibling, deriving its
-// URL from the current path (append/remove ".it" before the trailing slash) and
-// remembering the reader's choice so the button label stays consistent.
+// Bilingual language switch (the OlimpiadiMatematica/qlang pattern). preprocess
+// merges the translated body into the page after a `<span class="qlang-split"
+// data-lang>` marker, preceded by a `<div class="qlang-switch" data-default>`
+// placeholder. Partition the article DOM at the marker into two language groups,
+// draw flag buttons, toggle visibility, and persist the choice. Fully client-side
+// — no navigation, no server call.
 function initLangToggle() {
-  const mark = document.querySelector(".sb-langswitch") as HTMLElement | null
-  if (!mark || mark.querySelector(".sb-lang-btn")) return
-  const other = mark.dataset.otherLang
-  if (other !== "it" && other !== "en") return
-  const p = location.pathname.replace(/\/+$/, "")
-  const target = other === "it" ? p + ".it/" : p.replace(/\.it$/, "") + "/"
-  const btn = document.createElement("a")
-  btn.className = "sb-lang-btn"
-  btn.href = target
-  btn.textContent = other === "it" ? "Italiano" : "English"
-  btn.setAttribute("aria-label", other === "it" ? "Leggi in italiano" : "Read in English")
-  btn.addEventListener("click", () => {
-    try {
-      localStorage.setItem("sb-lang", other)
-    } catch {}
-  })
-  mark.appendChild(btn)
+  const ISO: Record<string, string> = { it: "it", en: "gb" }
+  const LABEL: Record<string, string> = { it: "Italiano", en: "English" }
+  const sw = document.querySelector(".qlang-switch") as HTMLElement | null
+  if (!sw || sw.querySelector(".qlang-btn")) return
+  const container = sw.parentElement
+  const split = container?.querySelector(".qlang-split") as HTMLElement | null
+  if (!container || !split) return
+
+  const defaultLang = sw.dataset.default || "en"
+  const otherLang = split.dataset.lang || (defaultLang === "en" ? "it" : "en")
+  const langs = [defaultLang, otherLang]
+
+  const groups: Record<string, HTMLElement[]> = { [defaultLang]: [], [otherLang]: [] }
+  let cur = defaultLang
+  for (const node of Array.from(container.children) as HTMLElement[]) {
+    if (node === sw) continue
+    if (node.classList.contains("qlang-split") || node.contains(split)) {
+      cur = otherLang
+      continue
+    }
+    groups[cur].push(node)
+  }
+
+  const bp = document.body.dataset.basepath || ""
+  const stored = localStorage.getItem("qlang")
+  let active = stored && langs.includes(stored) ? stored : defaultLang
+
+  function apply(lang: string) {
+    for (const l of langs) for (const n of groups[l]) n.style.display = l === lang ? "" : "none"
+    sw.querySelectorAll("button").forEach((b) =>
+      b.classList.toggle("active", (b as HTMLElement).dataset.lang === lang),
+    )
+    active = lang
+  }
+
+  sw.replaceChildren()
+  for (const l of langs) {
+    const b = document.createElement("button")
+    b.type = "button"
+    b.dataset.lang = l
+    b.className = "qlang-btn"
+    b.title = LABEL[l] || l
+    const iso = ISO[l]
+    if (iso) {
+      const img = document.createElement("img")
+      img.className = "qlang-flag"
+      img.src = `${bp}/static/flags/${iso}.svg`
+      img.alt = LABEL[l] || l
+      img.loading = "lazy"
+      b.appendChild(img)
+    } else {
+      b.textContent = l.toUpperCase()
+    }
+    b.addEventListener("click", () => {
+      localStorage.setItem("qlang", l)
+      apply(l)
+    })
+    sw.appendChild(b)
+  }
+  apply(active)
 }
 
 document.addEventListener("nav", () => {

@@ -254,7 +254,11 @@ async function walk(dir, base = dir, out = []) {
   for (const ent of await fs.readdir(dir, { withFileTypes: true })) {
     const full = path.join(dir, ent.name)
     if (ent.isDirectory()) await walk(full, base, out)
-    else if (ent.name.endsWith(".md")) out.push(path.relative(base, full))
+    // Skip ".it.md" siblings: these are Italian reading copies kept in the vault
+    // for Obsidian. The site's Italian pages are emitted separately from the
+    // translation store, so preprocess must NOT publish vault .it.md as units.
+    else if (ent.name.endsWith(".md") && !ent.name.endsWith(".it.md"))
+      out.push(path.relative(base, full))
   }
   return out
 }
@@ -313,7 +317,21 @@ function classifyUnit(relParts, fileName) {
 // Publish all atomized excerpts, play scenes and long-poem sections as pages.
 // Returns { unitHref, excerpts } where unitHref maps "Authors/.../x[.md]" -> slug,
 // and excerpts is the excerpt-level index for the Brani page.
-async function publishUnits(rawSourceToWork, translations = new Map(), LANGMARK = () => "") {
+// Merge English + Italian into one page (the OlimpiadiMatematica/qlang pattern):
+// the default (EN) body, a hidden `<span class="qlang-split">` marker, then the
+// translated (IT) body — all plain markdown so it renders normally. qlang.inline.ts
+// partitions the article DOM at the marker and toggles language client-side (no
+// navigation, no server call).
+function bilingualBody(en, it) {
+  return (
+    `<div class="qlang-switch" data-default="en"></div>\n\n` +
+    en +
+    `\n\n<span class="qlang-split" data-lang="it"></span>\n\n` +
+    it
+  )
+}
+
+async function publishUnits(rawSourceToWork, translations = new Map()) {
   const unitHref = new Map()
   const excerpts = []
   const excerptsKw = {}
@@ -448,16 +466,9 @@ async function publishUnits(rawSourceToWork, translations = new Map(), LANGMARK 
           await fs.mkdir(path.dirname(dest), { recursive: true })
           const tr = translations.get(unitRel)
           if (tr) {
-            // EN page + toggle marker, and the IT sibling from the translation store.
-            await fs.writeFile(dest, fm + LANGMARK("it") + outBody)
-            const itFm = fm.replace(
-              `title: ${JSON.stringify(title)}`,
-              `title: ${JSON.stringify(tr.title_it || title)}\nlang: it`,
-            )
-            await fs.writeFile(
-              dest.replace(/\.md$/, ".it.md"),
-              itFm + LANGMARK("en") + (tr.body_it || outBody),
-            )
+            // One bilingual page; the toggle swaps EN/IT client-side (no sibling
+            // page, no navigation).
+            await fs.writeFile(dest, fm + bilingualBody(outBody, tr.body_it || outBody))
           } else {
             await fs.writeFile(dest, fm + outBody)
           }
@@ -561,10 +572,9 @@ async function main() {
   } catch (e) {
     if (e.code !== "ENOENT") throw e
   }
-  const LANGMARK = (other) => `<div class="sb-langswitch" data-other-lang="${other}"></div>\n\n`
 
   // ---- Publish atomized excerpts / play scenes / long-poem sections ----
-  const { unitHref, excerpts, excerptsKw, copied: unitsCopied, workUnits } = await publishUnits(rawSourceToWork, translations, LANGMARK)
+  const { unitHref, excerpts, excerptsKw, copied: unitsCopied, workUnits } = await publishUnits(rawSourceToWork, translations)
   await fs.writeFile(
     path.join(ROOT, "quartz", "static", "excerpts.json"),
     JSON.stringify(excerpts),
@@ -654,17 +664,13 @@ async function main() {
     await fs.mkdir(path.dirname(dest), { recursive: true })
     const trPage = translations.get(relU.toLowerCase())
     if (trPage) {
-      await fs.writeFile(dest, matter.stringify(LANGMARK("it") + newContent, { ...data }))
       let itBody = trPage.body_it || newContent
       if (workTocMd) {
         itBody = /\n##\s+Connections/.test(itBody)
           ? itBody.replace(/\n##\s+Connections/, `\n${workTocMd}## Connections`)
           : itBody.trimEnd() + "\n\n" + workTocMd
       }
-      await fs.writeFile(
-        dest.replace(/\.md$/, ".it.md"),
-        matter.stringify(LANGMARK("en") + itBody, { ...data, lang: "it", title: trPage.title_it || data.title }),
-      )
+      await fs.writeFile(dest, matter.stringify(bilingualBody(newContent, itBody), { ...data }))
     } else {
       await fs.writeFile(dest, matter.stringify(newContent, { ...data }))
     }

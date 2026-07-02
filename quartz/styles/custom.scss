@@ -497,3 +497,20 @@ ul.tags {
 }
 .sb-lang-btn::before { content: "🌐 "; }
 .sb-lang-btn:hover { background: var(--secondary); color: var(--light); border-color: var(--secondary); }
+
+// in-place bilingual toggle: keep the hidden language block collapsed
+.sb-lang[hidden] { display: none !important; }
+.sb-lang-btn { cursor: pointer; font-family: inherit; }
+
+// ---- qlang bilingual switch (OlimpiadiMatematica pattern) ----
+.qlang-switch { display: flex; gap: 0.4rem; margin: 0 0 0.8rem; }
+.qlang-btn {
+  display: inline-flex; align-items: center; padding: 0.15rem 0.35rem; cursor: pointer;
+  border: 1px solid var(--lightgray); border-radius: 6px; background: var(--light);
+  filter: grayscale(0.7); opacity: 0.6;
+  transition: opacity 0.15s, filter 0.15s, border-color 0.15s;
+}
+.qlang-btn:hover { opacity: 0.9; }
+.qlang-btn.active { filter: none; opacity: 1; border-color: var(--secondary); }
+.qlang-flag { display: block; width: 1.5rem; height: auto; border-radius: 2px; }
+.qlang-split { display: none; }
