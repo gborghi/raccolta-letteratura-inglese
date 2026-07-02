@@ -39,6 +39,32 @@ tags:
 > [!abstract] 
 > A late tragicomic romance (with Fletcher) from Chaucer's Knight's Tale, in which kinsmen Palamon and Arcite, sworn friends, fall in love with Emilia and fight to the death for her; themes are the conflict of love and friendship, fortune's paradoxes, and chivalric ritual.
 
+## Capitoli / Chapters
+
+- [Act I, Scene 2](/testi/shakespeare/plays/the_two_noble_kinsmen/act_1/scene_2)
+- [Act I, Scene 3](/testi/shakespeare/plays/the_two_noble_kinsmen/act_1/scene_3)
+- [Act I, Scene 4](/testi/shakespeare/plays/the_two_noble_kinsmen/act_1/scene_4)
+- [Act I, Scene 5](/testi/shakespeare/plays/the_two_noble_kinsmen/act_1/scene_5)
+- [Act II, Scene 1](/testi/shakespeare/plays/the_two_noble_kinsmen/act_2/scene_1)
+- [Act II, Scene 2](/testi/shakespeare/plays/the_two_noble_kinsmen/act_2/scene_2)
+- [Act II, Scene 3](/testi/shakespeare/plays/the_two_noble_kinsmen/act_2/scene_3)
+- [Act II, Scene 4](/testi/shakespeare/plays/the_two_noble_kinsmen/act_2/scene_4)
+- [Act II, Scene 5](/testi/shakespeare/plays/the_two_noble_kinsmen/act_2/scene_5)
+- [Act II, Scene 6](/testi/shakespeare/plays/the_two_noble_kinsmen/act_2/scene_6)
+- [Act III, Scene 1](/testi/shakespeare/plays/the_two_noble_kinsmen/act_3/scene_1)
+- [Act III, Scene 2](/testi/shakespeare/plays/the_two_noble_kinsmen/act_3/scene_2)
+- [Act III, Scene 3](/testi/shakespeare/plays/the_two_noble_kinsmen/act_3/scene_3)
+- [Act III, Scene 4](/testi/shakespeare/plays/the_two_noble_kinsmen/act_3/scene_4)
+- [Act III, Scene 5](/testi/shakespeare/plays/the_two_noble_kinsmen/act_3/scene_5)
+- [Act III, Scene 6](/testi/shakespeare/plays/the_two_noble_kinsmen/act_3/scene_6)
+- [Act IV, Scene 1](/testi/shakespeare/plays/the_two_noble_kinsmen/act_4/scene_1)
+- [Act IV, Scene 3](/testi/shakespeare/plays/the_two_noble_kinsmen/act_4/scene_3)
+- [Act V, Scene 2](/testi/shakespeare/plays/the_two_noble_kinsmen/act_5/scene_2)
+- [Act V, Scene 3](/testi/shakespeare/plays/the_two_noble_kinsmen/act_5/scene_3)
+- [Act V, Scene 4](/testi/shakespeare/plays/the_two_noble_kinsmen/act_5/scene_4)
+- [Act V, Scene 5](/testi/shakespeare/plays/the_two_noble_kinsmen/act_5/scene_5)
+- [Act V, Scene 6](/testi/shakespeare/plays/the_two_noble_kinsmen/act_5/scene_6)
+
 ## Connections
 
 **Topoi:** [[Fortune's Wheel]], [[Combat Strife]]

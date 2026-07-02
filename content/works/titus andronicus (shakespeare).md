@@ -37,6 +37,21 @@ tags:
 > [!abstract] 
 > Bloody Senecan revenge tragedy set in late Rome: the cycle of mutilation, rape and cannibalistic vengeance between Titus and Tamora. Central themes: revenge, the grotesque and horror, justice and barbarism.
 
+## Capitoli / Chapters
+
+- [Act II, Scene 2](/testi/shakespeare/plays/titus_andronicus/act_2/scene_2)
+- [Act II, Scene 3](/testi/shakespeare/plays/titus_andronicus/act_2/scene_3)
+- [Act II, Scene 4](/testi/shakespeare/plays/titus_andronicus/act_2/scene_4)
+- [Act III, Scene 1](/testi/shakespeare/plays/titus_andronicus/act_3/scene_1)
+- [Act III, Scene 2](/testi/shakespeare/plays/titus_andronicus/act_3/scene_2)
+- [Act IV, Scene 1](/testi/shakespeare/plays/titus_andronicus/act_4/scene_1)
+- [Act IV, Scene 2](/testi/shakespeare/plays/titus_andronicus/act_4/scene_2)
+- [Act IV, Scene 3](/testi/shakespeare/plays/titus_andronicus/act_4/scene_3)
+- [Act IV, Scene 4](/testi/shakespeare/plays/titus_andronicus/act_4/scene_4)
+- [Act V, Scene 1](/testi/shakespeare/plays/titus_andronicus/act_5/scene_1)
+- [Act V, Scene 2](/testi/shakespeare/plays/titus_andronicus/act_5/scene_2)
+- [Act V, Scene 3](/testi/shakespeare/plays/titus_andronicus/act_5/scene_3)
+
 ## Connections
 
 **Topoi:** [[Fortune's Wheel]]

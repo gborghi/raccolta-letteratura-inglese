@@ -39,6 +39,11 @@ tags:
 > [!abstract] 
 > An apologetic history arguing that man is unique among creatures and Christ unique among myths; attacks evolutionary gradualism, defends the Incarnation as the centre of history.
 
+## Capitoli / Chapters
+
+- [Part 1: On the Creature Called Man](/testi/chesterton/atomized/the_everlasting_man/chapter_01_on_the_creature_called_man)
+- [Part 2: On the Man Called [[Christ](/testi/chesterton/atomized/the_everlasting_man/chapter_02_on_the_man_called_christ)
+
 ## Connections
 
 **Topoi:** [[Book of Nature]], [[Paradise Lost]]

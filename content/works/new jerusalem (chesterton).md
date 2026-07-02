@@ -29,6 +29,22 @@ tags:
 > [!abstract] 
 > A 1920 travel book recording Chesterton's journey to Palestine and Jerusalem, weaving impressions of the Holy City with meditations on Christianity, Islam, Judaism, the Crusades, Zionism and the meaning of the pilgrim's quest.
 
+## Capitoli / Chapters
+
+- [Chapter 1](/testi/chesterton/atomized/new_jerusalem/chapter_01)
+- [Chapter 2](/testi/chesterton/atomized/new_jerusalem/chapter_02)
+- [Chapter 3](/testi/chesterton/atomized/new_jerusalem/chapter_03)
+- [Chapter 4](/testi/chesterton/atomized/new_jerusalem/chapter_04)
+- [Chapter 5](/testi/chesterton/atomized/new_jerusalem/chapter_05)
+- [Chapter 6](/testi/chesterton/atomized/new_jerusalem/chapter_06)
+- [Chapter 7](/testi/chesterton/atomized/new_jerusalem/chapter_07)
+- [Chapter 8](/testi/chesterton/atomized/new_jerusalem/chapter_08)
+- [Chapter 9](/testi/chesterton/atomized/new_jerusalem/chapter_09)
+- [Chapter 10](/testi/chesterton/atomized/new_jerusalem/chapter_10)
+- [Chapter 11](/testi/chesterton/atomized/new_jerusalem/chapter_11)
+- [Chapter 12](/testi/chesterton/atomized/new_jerusalem/chapter_12)
+- [Chapter 13](/testi/chesterton/atomized/new_jerusalem/chapter_13)
+
 ## Connections
 
 **Topoi:** [[Quest]]

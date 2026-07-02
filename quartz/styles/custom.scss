@@ -475,3 +475,25 @@ ul.tags {
     word-break: keep-all;
   }
 }
+
+// ---- per-page language toggle (EN <-> IT sibling) ----
+.sb-langswitch {
+  display: flex;
+  justify-content: flex-end;
+  margin: 0 0 0.4rem;
+}
+.sb-lang-btn {
+  display: inline-block;
+  font-size: 0.8rem;
+  font-weight: 600;
+  line-height: 1;
+  padding: 0.3rem 0.7rem;
+  border: 1px solid var(--lightgray);
+  border-radius: 999px;
+  color: var(--secondary);
+  background: var(--light);
+  text-decoration: none;
+  white-space: nowrap;
+}
+.sb-lang-btn::before { content: "🌐 "; }
+.sb-lang-btn:hover { background: var(--secondary); color: var(--light); border-color: var(--secondary); }

@@ -53,6 +53,34 @@ tags:
 > [!abstract] 
 > Dickens's unfinished detective/mystery novel set in the cathedral town of Cloisterham: John Jasper, an opium-addicted choirmaster, is secretly obsessed with Rosa Bud and implicated in the disappearance of his nephew Edwin Drood, framing a double-life study of guilt, the divided self, and respectable hypocrisy amid imagery of decay, crypts, opium dens, and the gritty city.
 
+## Capitoli / Chapters
+
+- [Chapter 1](/testi/dickens/atomized/the_mystery_of_edwin_drood/chapter_01)
+- [Chapter 2](/testi/dickens/atomized/the_mystery_of_edwin_drood/chapter_02)
+- [Chapter 3](/testi/dickens/atomized/the_mystery_of_edwin_drood/chapter_03)
+- [Part 4: there is not any other young—”](/testi/dickens/atomized/the_mystery_of_edwin_drood/chapter_04_there_is_not_any_other_young)
+- [Chapter 4](/testi/dickens/atomized/the_mystery_of_edwin_drood/chapter_05)
+- [Chapter 5](/testi/dickens/atomized/the_mystery_of_edwin_drood/chapter_06)
+- [Chapter 6](/testi/dickens/atomized/the_mystery_of_edwin_drood/chapter_07)
+- [Chapter 7](/testi/dickens/atomized/the_mystery_of_edwin_drood/chapter_08)
+- [Chapter 8](/testi/dickens/atomized/the_mystery_of_edwin_drood/chapter_09)
+- [Chapter 9](/testi/dickens/atomized/the_mystery_of_edwin_drood/chapter_10)
+- [Chapter 10](/testi/dickens/atomized/the_mystery_of_edwin_drood/chapter_11)
+- [Chapter 11](/testi/dickens/atomized/the_mystery_of_edwin_drood/chapter_12)
+- [Chapter 12](/testi/dickens/atomized/the_mystery_of_edwin_drood/chapter_13)
+- [Chapter 13](/testi/dickens/atomized/the_mystery_of_edwin_drood/chapter_14)
+- [Chapter 14](/testi/dickens/atomized/the_mystery_of_edwin_drood/chapter_15)
+- [Chapter 15](/testi/dickens/atomized/the_mystery_of_edwin_drood/chapter_16)
+- [Chapter 16](/testi/dickens/atomized/the_mystery_of_edwin_drood/chapter_17)
+- [Chapter 17](/testi/dickens/atomized/the_mystery_of_edwin_drood/chapter_18)
+- [Chapter 18](/testi/dickens/atomized/the_mystery_of_edwin_drood/chapter_19)
+- [Chapter 19](/testi/dickens/atomized/the_mystery_of_edwin_drood/chapter_20)
+- [Chapter 20](/testi/dickens/atomized/the_mystery_of_edwin_drood/chapter_21)
+- [Chapter 21](/testi/dickens/atomized/the_mystery_of_edwin_drood/chapter_22)
+- [Chapter 22](/testi/dickens/atomized/the_mystery_of_edwin_drood/chapter_23)
+- [Part 1: hear Neville moving too. Are you going back?”](/testi/dickens/atomized/the_mystery_of_edwin_drood/chapter_24_hear_neville_moving_too_are_yo)
+- [Chapter 23](/testi/dickens/atomized/the_mystery_of_edwin_drood/chapter_25)
+
 ## Connections
 
 **Topoi:** [[Double]], [[Memento Mori]], [[Night Journey Vision]], [[Unattainable Beloved]]

@@ -27,6 +27,45 @@ tags:
 > [!abstract] 
 > A late collection of controversial Catholic essays (1935) defending the Church against modern materialism, sex reform, and the Reformation legacy; argues conversion is a return to the deep well of tradition rather than the modern shallows.
 
+## Capitoli / Chapters
+
+- [Introduction](/testi/chesterton/atomized/well_and_shallows/story_01_introduction)
+- [Introductory Note](/testi/chesterton/atomized/well_and_shallows/story_02_introductory_note)
+- [An Apology For Buffoons](/testi/chesterton/atomized/well_and_shallows/story_03_an_apology_for_buffoons)
+- [My Six Conversions](/testi/chesterton/atomized/well_and_shallows/story_04_my_six_conversions)
+- [My Six Conversions](/testi/chesterton/atomized/well_and_shallows/story_05_my_six_conversions)
+- [My Six Conversions](/testi/chesterton/atomized/well_and_shallows/story_06_my_six_conversions)
+- [My Six Conversions](/testi/chesterton/atomized/well_and_shallows/story_07_my_six_conversions)
+- [My Six Conversions](/testi/chesterton/atomized/well_and_shallows/story_08_my_six_conversions)
+- [My Six Conversions](/testi/chesterton/atomized/well_and_shallows/story_09_my_six_conversions)
+- [My Six Conversions](/testi/chesterton/atomized/well_and_shallows/story_10_my_six_conversions)
+- [The Return To Religion](/testi/chesterton/atomized/well_and_shallows/story_11_the_return_to_religion)
+- [The Reaction Of The Intellectuals](/testi/chesterton/atomized/well_and_shallows/story_12_the_reaction_of_the_intellectuals)
+- [Levity--Or Levitation](/testi/chesterton/atomized/well_and_shallows/story_13_levity_or_levitation)
+- [The Case For Hermits](/testi/chesterton/atomized/well_and_shallows/story_14_the_case_for_hermits)
+- [Killing The Nerve](/testi/chesterton/atomized/well_and_shallows/story_15_killing_the_nerve)
+- [The Case Of Claudel](/testi/chesterton/atomized/well_and_shallows/story_16_the_case_of_claudel)
+- [The Higher Nihilism](/testi/chesterton/atomized/well_and_shallows/story_17_the_higher_nihilism)
+- [The Backward Bolshie](/testi/chesterton/atomized/well_and_shallows/story_18_the_backward_bolshie)
+- [The Last Turn](/testi/chesterton/atomized/well_and_shallows/story_19_the_last_turn)
+- [The New Luther](/testi/chesterton/atomized/well_and_shallows/story_20_the_new_luther)
+- [Three Foes Of The Family](/testi/chesterton/atomized/well_and_shallows/story_21_three_foes_of_the_family)
+- [The Don And The Cavalier](/testi/chesterton/atomized/well_and_shallows/story_22_the_don_and_the_cavalier)
+- [The Church And Agoraphobia](/testi/chesterton/atomized/well_and_shallows/story_23_the_church_and_agoraphobia)
+- [Back In The Fog](/testi/chesterton/atomized/well_and_shallows/story_24_back_in_the_fog)
+- [A Century Of Emancipation](/testi/chesterton/atomized/well_and_shallows/story_25_a_century_of_emancipation)
+- [Trade Terms](/testi/chesterton/atomized/well_and_shallows/story_26_trade_terms)
+- [Frozen Free Thought](/testi/chesterton/atomized/well_and_shallows/story_27_frozen_free_thought)
+- [Shocking The Modernists](/testi/chesterton/atomized/well_and_shallows/story_28_shocking_the_modernists)
+- [A Grammar Of Knighthood](/testi/chesterton/atomized/well_and_shallows/story_29_a_grammar_of_knighthood)
+- [Reflections On A Rotten Apple](/testi/chesterton/atomized/well_and_shallows/story_30_reflections_on_a_rotten_apple)
+- [Sex And Property](/testi/chesterton/atomized/well_and_shallows/story_31_sex_and_property)
+- [St.  Thomas More](/testi/chesterton/atomized/well_and_shallows/story_32_st_thomas_more)
+- [The Return Of Caesar](/testi/chesterton/atomized/well_and_shallows/story_33_the_return_of_caesar)
+- [Austria](/testi/chesterton/atomized/well_and_shallows/story_34_austria)
+- [The Scripture Reader](/testi/chesterton/atomized/well_and_shallows/story_35_the_scripture_reader)
+- [An Explanation](/testi/chesterton/atomized/well_and_shallows/story_36_an_explanation)
+
 ## Connections
 
 **Motifs:** [[Well]]

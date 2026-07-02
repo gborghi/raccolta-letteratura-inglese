@@ -31,6 +31,50 @@ tags:
 > [!abstract] 
 > A posthumous collection of Chesterton's journalistic essays on manners, culture, civilization, travel and everyday wonders; paradoxical, satirical prose celebrating the common life and gratitude while criticizing modern society and progress.
 
+## Capitoli / Chapters
+
+- [IN GENERAL](/testi/chesterton/atomized/wild_ducks/story_01_in_general)
+- [On Manners](/testi/chesterton/atomized/wild_ducks/story_02_on_manners)
+- [For Persons of the Name of Smith](/testi/chesterton/atomized/wild_ducks/story_03_for_persons_of_the_name_of_smith_smith)
+- [The True Vanity of Vanities](/testi/chesterton/atomized/wild_ducks/story_04_the_true_vanity_of_vanities)
+- [Written in the Sand](/testi/chesterton/atomized/wild_ducks/story_05_written_in_the_sand)
+- [A Case of Comrades](/testi/chesterton/atomized/wild_ducks/story_06_a_case_of_comrades)
+- [Something](/testi/chesterton/atomized/wild_ducks/story_07_something)
+- [Asparagus](/testi/chesterton/atomized/wild_ducks/story_08_asparagus_asparagus)
+- [The English Spirit and the Flea](/testi/chesterton/atomized/wild_ducks/story_09_the_english_spirit_and_the_flea)
+- [The Hobby and the Head Waiter](/testi/chesterton/atomized/wild_ducks/story_10_the_hobby_and_the_head_waiter)
+- [In Praise of Pie](/testi/chesterton/atomized/wild_ducks/story_11_in_praise_of_pie)
+- [Culture versus Civilisation](/testi/chesterton/atomized/wild_ducks/story_12_culture_versus_civilisation)
+- [The Winter Feast](/testi/chesterton/atomized/wild_ducks/story_13_the_winter_feast)
+- [They Tell a Story](/testi/chesterton/atomized/wild_ducks/story_14_they_tell_a_story)
+- [HERE AND THERE](/testi/chesterton/atomized/wild_ducks/story_15_here_and_there)
+- [The Blindness of the Sightseer](/testi/chesterton/atomized/wild_ducks/story_16_the_blindness_of_the_sightseer)
+- [The Aesthetes in the Kitchen Garden](/testi/chesterton/atomized/wild_ducks/story_17_the_aesthetes_in_the_kitchen_garden)
+- [The Need of Personalities in Politics](/testi/chesterton/atomized/wild_ducks/story_18_the_need_of_personalities_in_politics)
+- [The Largest Window in the World](/testi/chesterton/atomized/wild_ducks/story_19_the_largest_window_in_the_world)
+- [The Apostle and the Wild Ducks](/testi/chesterton/atomized/wild_ducks/story_20_the_apostle_and_the_wild_ducks)
+- [Travellers' Joys](/testi/chesterton/atomized/wild_ducks/story_21_travellers_joys)
+- [Understanding France](/testi/chesterton/atomized/wild_ducks/story_22_understanding_france)
+- [Salute to New York](/testi/chesterton/atomized/wild_ducks/story_23_salute_to_new_york)
+- [The British Beech](/testi/chesterton/atomized/wild_ducks/story_24_the_british_beech)
+- [Public Monuments](/testi/chesterton/atomized/wild_ducks/story_25_public_monuments)
+- [THE MAKING OF HISTORY](/testi/chesterton/atomized/wild_ducks/story_26_the_making_of_history_history)
+- [A Theory of Tyrants](/testi/chesterton/atomized/wild_ducks/story_27_a_theory_of_tyrants)
+- [The Return of Pageantry](/testi/chesterton/atomized/wild_ducks/story_28_the_return_of_pageantry)
+- [The Unknown Warrior](/testi/chesterton/atomized/wild_ducks/story_29_the_unknown_warrior)
+- [William Penn and his Royalist Friends](/testi/chesterton/atomized/wild_ducks/story_30_william_penn_and_his_royalist_friends)
+- [ON LITERATURE](/testi/chesterton/atomized/wild_ducks/story_31_on_literature)
+- [Literature of Information](/testi/chesterton/atomized/wild_ducks/story_32_literature_of_information)
+- [Eulogy of Robin Hood](/testi/chesterton/atomized/wild_ducks/story_33_eulogy_of_robin_hood)
+- [A Plea for Hasty Journalism](/testi/chesterton/atomized/wild_ducks/story_34_a_plea_for_hasty_journalism)
+- [The Voice of Shelley](/testi/chesterton/atomized/wild_ducks/story_35_the_voice_of_shelley)
+- [The Great Translation](/testi/chesterton/atomized/wild_ducks/story_36_the_great_translation)
+- [Jane Austen's Juvenilia](/testi/chesterton/atomized/wild_ducks/story_37_jane_austen_s_juvenilia)
+- [The Countrymen of Mary Webb and Thomas Hardy](/testi/chesterton/atomized/wild_ducks/story_38_the_countrymen_of_mary_webb_and_thomas_h)
+- [The Words of Strong Poetry](/testi/chesterton/atomized/wild_ducks/story_39_the_words_of_strong_poetry)
+- [The Refrain of the Rover](/testi/chesterton/atomized/wild_ducks/story_40_the_refrain_of_the_rover)
+- [ON REFLECTION](/testi/chesterton/atomized/wild_ducks/story_41_on_reflection)
+
 ## Connections
 
 **Topoi:** [[Vanitas]], [[Beatus Ille (Happy the Man Rural Retreat)]]

@@ -25,6 +25,17 @@ tags:
 > [!abstract] 
 > A linked cycle of detective/mystery stories featuring the poet Gabriel Gale, who solves crimes through imaginative sympathy; explores sanity, madness, the supernatural and good vs evil.
 
+## Capitoli / Chapters
+
+- [THE FANTASTIC FRIENDS](/testi/chesterton/atomized/poet_and_lunatics/story_01_the_fantastic_friends)
+- [THE YELLOW BIRD](/testi/chesterton/atomized/poet_and_lunatics/story_02_the_yellow_bird)
+- [THE SHADOW OF THE SHARK](/testi/chesterton/atomized/poet_and_lunatics/story_03_the_shadow_shadow_of_the_shark)
+- [THE CRIME OF GABRIEL GALE](/testi/chesterton/atomized/poet_and_lunatics/story_04_the_crime_of_gabriel_gale)
+- [THE FINGER OF STONE](/testi/chesterton/atomized/poet_and_lunatics/story_05_the_finger_of_stone)
+- [THE HOUSE OF THE PEACOCK](/testi/chesterton/atomized/poet_and_lunatics/story_06_the_house_house_of_the_peacock)
+- [THE PURPLE JEWEL](/testi/chesterton/atomized/poet_and_lunatics/story_07_the_purple_jewel_jewel)
+- [THE ASYLUM OF ADVENTURE](/testi/chesterton/atomized/poet_and_lunatics/story_08_the_asylum_of_adventure)
+
 ## Connections
 
 **Archetypes:** [[Detective]], [[Fool]]

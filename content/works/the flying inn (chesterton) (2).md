@@ -30,6 +30,35 @@ tags:
 > [!abstract] 
 > Chesterton's 1914 comic-satirical novel in which an innkeeper and an Irish adventurer flout a creeping puritanical prohibition imposed by a Turcophile aristocrat, carrying a roving inn-sign and a barrel of rum across England. Central themes: defence of the common man's liberties and pleasures, satire of progressive faddism and teetotalism, distributist Englishness, and song.
 
+## Capitoli / Chapters
+
+- [Chapter 1](/testi/chesterton/atomized/the_flying_inn_2/chapter_01)
+- [Chapter 1](/testi/chesterton/atomized/the_flying_inn_2/chapter_02)
+- [Chapter 2](/testi/chesterton/atomized/the_flying_inn_2/chapter_03)
+- [Chapter 3](/testi/chesterton/atomized/the_flying_inn_2/chapter_04)
+- [Chapter 4](/testi/chesterton/atomized/the_flying_inn_2/chapter_05)
+- [Chapter 5](/testi/chesterton/atomized/the_flying_inn_2/chapter_06)
+- [Chapter 6](/testi/chesterton/atomized/the_flying_inn_2/chapter_07)
+- [Chapter 7](/testi/chesterton/atomized/the_flying_inn_2/chapter_08)
+- [Chapter 8](/testi/chesterton/atomized/the_flying_inn_2/chapter_09)
+- [Chapter 9](/testi/chesterton/atomized/the_flying_inn_2/chapter_10)
+- [Chapter 10](/testi/chesterton/atomized/the_flying_inn_2/chapter_11)
+- [Chapter 11](/testi/chesterton/atomized/the_flying_inn_2/chapter_12)
+- [Chapter 12](/testi/chesterton/atomized/the_flying_inn_2/chapter_13)
+- [Chapter 13](/testi/chesterton/atomized/the_flying_inn_2/chapter_14)
+- [Chapter 14](/testi/chesterton/atomized/the_flying_inn_2/chapter_15)
+- [Chapter 15](/testi/chesterton/atomized/the_flying_inn_2/chapter_16)
+- [Chapter 16](/testi/chesterton/atomized/the_flying_inn_2/chapter_17)
+- [Chapter 17](/testi/chesterton/atomized/the_flying_inn_2/chapter_18)
+- [Chapter 18](/testi/chesterton/atomized/the_flying_inn_2/chapter_19)
+- [Chapter 19](/testi/chesterton/atomized/the_flying_inn_2/chapter_20)
+- [Chapter 20](/testi/chesterton/atomized/the_flying_inn_2/chapter_21)
+- [Chapter 21](/testi/chesterton/atomized/the_flying_inn_2/chapter_22)
+- [Chapter 22](/testi/chesterton/atomized/the_flying_inn_2/chapter_23)
+- [Chapter 23](/testi/chesterton/atomized/the_flying_inn_2/chapter_24)
+- [Chapter 24](/testi/chesterton/atomized/the_flying_inn_2/chapter_25)
+- [Chapter 25](/testi/chesterton/atomized/the_flying_inn_2/chapter_26)
+
 ## Connections
 
 **Topoi:** [[Open Road Homecoming]], [[World Upside Down]]

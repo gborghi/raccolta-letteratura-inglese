@@ -23,6 +23,18 @@ tags:
 > [!abstract] 
 > An old man recalls tending the wounded and dying in army hospitals, dressing terrible wounds with impassive hand and burning heart; compassion, suffering and the human cost of war.
 
+## Capitoli / Chapters
+
+- [story edifices, sometimes ranged along in a row, with their heads to](/testi/whitman/atomized/the_wound_dresser/story_01_story_edifices_sometimes_ranged_along_in)
+- [He remained very sick--vomiting much every day, frequent diarrhoea,](/testi/whitman/atomized/the_wound_dresser/story_02_he_remained_very_sick_vomiting_much_ever)
+- [In Ward E of Armory hospital I found a member of Company C of](/testi/whitman/atomized/the_wound_dresser/story_03_in_ward_e_of_armory_hospital_i_found_a_m)
+- [pound bag of gingersnaps I bought at a baker's in Seventh street.](/testi/whitman/atomized/the_wound_dresser/story_04_pound_bag_of_gingersnaps_i_bought_at_a_b)
+- [Good-bye, dear mother.](/testi/whitman/atomized/the_wound_dresser/story_05_good_bye_dear_mother)
+- [class success. I have known Tennessee Union men here in hospital,](/testi/whitman/atomized/the_wound_dresser/story_06_class_success_i_have_known_tennessee_uni)
+- [class battle; he told me if I would only stay around here three or](/testi/whitman/atomized/the_wound_dresser/story_07_class_battle_he_told_me_if_i_would_only)
+- [Our men rescued it, and tore it from the breast of a dead](/testi/whitman/atomized/the_wound_dresser/story_08_our_men_rescued_it_and_tore_it_from_the)
+- [fourths of them quite slightly wounded, and the rest hurt pretty](/testi/whitman/atomized/the_wound_dresser/story_09_fourths_of_them_quite_slightly_wounded_a)
+
 ## Connections
 
 **Archetypes:** [[Outsider]]

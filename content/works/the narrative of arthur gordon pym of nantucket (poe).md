@@ -34,6 +34,33 @@ tags:
 > [!abstract] 
 > Poe's only completed novel: a frame-tale sea adventure of stowaway, mutiny, shipwreck, starvation, cannibalism and a hallucinatory voyage to a mysterious all-white Antarctic region. Central themes are terror, the quest into the unknown, and the dissolution of identity at the white limit of the world.
 
+## Capitoli / Chapters
+
+- [Chapter 2](/testi/poe/atomized/the_narrative_of_arthur_gordon_pym_of_nantucket/chapter_01)
+- [Chapter 3](/testi/poe/atomized/the_narrative_of_arthur_gordon_pym_of_nantucket/chapter_02)
+- [Chapter 4](/testi/poe/atomized/the_narrative_of_arthur_gordon_pym_of_nantucket/chapter_03)
+- [Chapter 5](/testi/poe/atomized/the_narrative_of_arthur_gordon_pym_of_nantucket/chapter_04)
+- [Chapter 6](/testi/poe/atomized/the_narrative_of_arthur_gordon_pym_of_nantucket/chapter_05)
+- [Chapter 7](/testi/poe/atomized/the_narrative_of_arthur_gordon_pym_of_nantucket/chapter_06)
+- [Chapter 8](/testi/poe/atomized/the_narrative_of_arthur_gordon_pym_of_nantucket/chapter_07)
+- [Chapter 9](/testi/poe/atomized/the_narrative_of_arthur_gordon_pym_of_nantucket/chapter_08)
+- [Chapter 10](/testi/poe/atomized/the_narrative_of_arthur_gordon_pym_of_nantucket/chapter_09)
+- [Chapter 11](/testi/poe/atomized/the_narrative_of_arthur_gordon_pym_of_nantucket/chapter_10)
+- [Chapter 12](/testi/poe/atomized/the_narrative_of_arthur_gordon_pym_of_nantucket/chapter_11)
+- [Chapter 13](/testi/poe/atomized/the_narrative_of_arthur_gordon_pym_of_nantucket/chapter_12)
+- [Chapter 14](/testi/poe/atomized/the_narrative_of_arthur_gordon_pym_of_nantucket/chapter_13)
+- [Chapter 15](/testi/poe/atomized/the_narrative_of_arthur_gordon_pym_of_nantucket/chapter_14)
+- [Chapter 16](/testi/poe/atomized/the_narrative_of_arthur_gordon_pym_of_nantucket/chapter_15)
+- [Chapter 17](/testi/poe/atomized/the_narrative_of_arthur_gordon_pym_of_nantucket/chapter_16)
+- [Chapter 18](/testi/poe/atomized/the_narrative_of_arthur_gordon_pym_of_nantucket/chapter_17)
+- [Chapter 19](/testi/poe/atomized/the_narrative_of_arthur_gordon_pym_of_nantucket/chapter_18)
+- [Chapter 20](/testi/poe/atomized/the_narrative_of_arthur_gordon_pym_of_nantucket/chapter_19)
+- [Chapter 21](/testi/poe/atomized/the_narrative_of_arthur_gordon_pym_of_nantucket/chapter_20)
+- [Chapter 22](/testi/poe/atomized/the_narrative_of_arthur_gordon_pym_of_nantucket/chapter_21)
+- [Chapter 23](/testi/poe/atomized/the_narrative_of_arthur_gordon_pym_of_nantucket/chapter_22)
+- [Chapter 24](/testi/poe/atomized/the_narrative_of_arthur_gordon_pym_of_nantucket/chapter_23)
+- [Chapter 25](/testi/poe/atomized/the_narrative_of_arthur_gordon_pym_of_nantucket/chapter_24)
+
 ## Connections
 
 **Topoi:** [[Quest]], [[Night Journey Vision]], [[Katabasis Descent]]

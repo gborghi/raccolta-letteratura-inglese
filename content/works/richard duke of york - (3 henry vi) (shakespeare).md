@@ -51,6 +51,35 @@ tags:
 > [!abstract] 
 > History play of the full Wars of the Roses: the see-saw struggle between York and Lancaster, the murder of York, the savagery of Margaret, the brief reign of Edward IV, and the emergence of the scheming Richard of Gloucester. Themes of revenge, ambition, kingship, fate, and the horror of civil war.
 
+## Capitoli / Chapters
+
+- [Act I, Scene 1](/testi/shakespeare/plays/richard_duke_of_york_3_henry_vi/act_1/scene_1)
+- [Act I, Scene 2](/testi/shakespeare/plays/richard_duke_of_york_3_henry_vi/act_1/scene_2)
+- [Act I, Scene 3](/testi/shakespeare/plays/richard_duke_of_york_3_henry_vi/act_1/scene_3)
+- [Act I, Scene 4](/testi/shakespeare/plays/richard_duke_of_york_3_henry_vi/act_1/scene_4)
+- [Act II, Scene 1](/testi/shakespeare/plays/richard_duke_of_york_3_henry_vi/act_2/scene_1)
+- [Act II, Scene 3](/testi/shakespeare/plays/richard_duke_of_york_3_henry_vi/act_2/scene_3)
+- [Act II, Scene 5](/testi/shakespeare/plays/richard_duke_of_york_3_henry_vi/act_2/scene_5)
+- [Act II, Scene 6](/testi/shakespeare/plays/richard_duke_of_york_3_henry_vi/act_2/scene_6)
+- [Act III, Scene 1](/testi/shakespeare/plays/richard_duke_of_york_3_henry_vi/act_3/scene_1)
+- [Act III, Scene 2](/testi/shakespeare/plays/richard_duke_of_york_3_henry_vi/act_3/scene_2)
+- [Act IV, Scene 1](/testi/shakespeare/plays/richard_duke_of_york_3_henry_vi/act_4/scene_1)
+- [Act IV, Scene 2](/testi/shakespeare/plays/richard_duke_of_york_3_henry_vi/act_4/scene_2)
+- [Act IV, Scene 3](/testi/shakespeare/plays/richard_duke_of_york_3_henry_vi/act_4/scene_3)
+- [Act IV, Scene 4](/testi/shakespeare/plays/richard_duke_of_york_3_henry_vi/act_4/scene_4)
+- [Act IV, Scene 5](/testi/shakespeare/plays/richard_duke_of_york_3_henry_vi/act_4/scene_5)
+- [Act IV, Scene 6](/testi/shakespeare/plays/richard_duke_of_york_3_henry_vi/act_4/scene_6)
+- [Act IV, Scene 7](/testi/shakespeare/plays/richard_duke_of_york_3_henry_vi/act_4/scene_7)
+- [Act IV, Scene 8](/testi/shakespeare/plays/richard_duke_of_york_3_henry_vi/act_4/scene_8)
+- [Act IV, Scene 9](/testi/shakespeare/plays/richard_duke_of_york_3_henry_vi/act_4/scene_9)
+- [Act V, Scene 1](/testi/shakespeare/plays/richard_duke_of_york_3_henry_vi/act_5/scene_1)
+- [Act V, Scene 2](/testi/shakespeare/plays/richard_duke_of_york_3_henry_vi/act_5/scene_2)
+- [Act V, Scene 3](/testi/shakespeare/plays/richard_duke_of_york_3_henry_vi/act_5/scene_3)
+- [Act V, Scene 4](/testi/shakespeare/plays/richard_duke_of_york_3_henry_vi/act_5/scene_4)
+- [Act V, Scene 5](/testi/shakespeare/plays/richard_duke_of_york_3_henry_vi/act_5/scene_5)
+- [Act V, Scene 6](/testi/shakespeare/plays/richard_duke_of_york_3_henry_vi/act_5/scene_6)
+- [Act V, Scene 7](/testi/shakespeare/plays/richard_duke_of_york_3_henry_vi/act_5/scene_7)
+
 ## Connections
 
 **Topoi:** [[Fortune's Wheel]], [[World Upside Down]], [[Theatrum Mundi]]

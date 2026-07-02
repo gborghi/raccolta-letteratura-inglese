@@ -8,6 +8,8 @@ tags:
   - author/Sayers
 ---
 
+<div class="sb-langswitch" data-other-lang="it"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Sayers · <a href="/works/the-mind-of-the-maker-(sayers)">The Mind of the Maker</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/sayers/atomized/the_mind_of_the_maker/chapter_03_the_image_of_god">‹ Chapter 03 The Image of God</a><a class="ex-next" href="/testi/sayers/atomized/the_mind_of_the_maker/chapter_05_the_energy_revealed_in_creatio">Chapter 05 The Energy Revealed in Creatio ›</a></div>

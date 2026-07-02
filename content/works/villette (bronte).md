@@ -45,6 +45,53 @@ tags:
 > [!abstract] 
 > Charlotte Bronte's first-person psychological bildungsroman: the isolated Lucy Snowe teaches at Mme Beck's school in the foreign city of Villette, enduring repression, surveillance, unrequited love and the spectral nun. Central themes are loneliness, self-suppression, Protestant/Catholic conflict and the ambiguous, storm-shadowed close.
 
+## Capitoli / Chapters
+
+- [Chapter 1](/testi/bronte/atomized/villette/chapter_01)
+- [Chapter 2](/testi/bronte/atomized/villette/chapter_02)
+- [Chapter 3](/testi/bronte/atomized/villette/chapter_03)
+- [Chapter 4](/testi/bronte/atomized/villette/chapter_04)
+- [Chapter 5](/testi/bronte/atomized/villette/chapter_05)
+- [Chapter 6](/testi/bronte/atomized/villette/chapter_06)
+- [Chapter 7](/testi/bronte/atomized/villette/chapter_07)
+- [Chapter 8](/testi/bronte/atomized/villette/chapter_08)
+- [Chapter 9](/testi/bronte/atomized/villette/chapter_09)
+- [Chapter 10](/testi/bronte/atomized/villette/chapter_10)
+- [Chapter 11](/testi/bronte/atomized/villette/chapter_11)
+- [Chapter 12](/testi/bronte/atomized/villette/chapter_12)
+- [Chapter 13](/testi/bronte/atomized/villette/chapter_13)
+- [Chapter 14](/testi/bronte/atomized/villette/chapter_14)
+- [Chapter 15](/testi/bronte/atomized/villette/chapter_15)
+- [Chapter 16](/testi/bronte/atomized/villette/chapter_16)
+- [Chapter 17](/testi/bronte/atomized/villette/chapter_17)
+- [Chapter 18](/testi/bronte/atomized/villette/chapter_18)
+- [Chapter 19](/testi/bronte/atomized/villette/chapter_19)
+- [Chapter 20](/testi/bronte/atomized/villette/chapter_20)
+- [Chapter 21](/testi/bronte/atomized/villette/chapter_21)
+- [Chapter 22](/testi/bronte/atomized/villette/chapter_22)
+- [Chapter 23](/testi/bronte/atomized/villette/chapter_23)
+- [Chapter 24](/testi/bronte/atomized/villette/chapter_24)
+- [Chapter 25](/testi/bronte/atomized/villette/chapter_25)
+- [Book 26: some illustrated work of natural history. Often had I seen her](/testi/bronte/atomized/villette/chapter_26_some_illustrated_work_of_natur)
+- [Chapter 26](/testi/bronte/atomized/villette/chapter_27)
+- [Chapter 27](/testi/bronte/atomized/villette/chapter_28)
+- [Chapter 28](/testi/bronte/atomized/villette/chapter_29)
+- [Chapter 29](/testi/bronte/atomized/villette/chapter_30)
+- [Volume 31: never hazarded a second. With all this, I had never yet been](/testi/bronte/atomized/villette/chapter_31_never_hazarded_a_second_with_a)
+- [Chapter 30](/testi/bronte/atomized/villette/chapter_32)
+- [Chapter 31](/testi/bronte/atomized/villette/chapter_33)
+- [Chapter 32](/testi/bronte/atomized/villette/chapter_34)
+- [Chapter 33](/testi/bronte/atomized/villette/chapter_35)
+- [Chapter 34](/testi/bronte/atomized/villette/chapter_36)
+- [Chapter 35](/testi/bronte/atomized/villette/chapter_37)
+- [Chapter 36](/testi/bronte/atomized/villette/chapter_38)
+- [Chapter 37](/testi/bronte/atomized/villette/chapter_39)
+- [Chapter 38](/testi/bronte/atomized/villette/chapter_40)
+- [Chapter 39](/testi/bronte/atomized/villette/chapter_41)
+- [Chapter 40](/testi/bronte/atomized/villette/chapter_42)
+- [Chapter 41](/testi/bronte/atomized/villette/chapter_43)
+- [Chapter 42](/testi/bronte/atomized/villette/chapter_44)
+
 ## Connections
 
 **Archetypes:** [[Outsider]], [[Ghost]]

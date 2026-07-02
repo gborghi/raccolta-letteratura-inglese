@@ -40,6 +40,27 @@ tags:
 > [!abstract] 
 > A polemical popular history of England from Roman Britain through the Crusades, the medieval guilds, the Reformation and beyond, defending the common man, medieval Christendom and distributist property against Whig and aristocratic narratives.
 
+## Capitoli / Chapters
+
+- [Chapter 1](/testi/chesterton/atomized/history/chapter_01)
+- [Chapter 2](/testi/chesterton/atomized/history/chapter_02)
+- [Chapter 3](/testi/chesterton/atomized/history/chapter_03)
+- [Chapter 4](/testi/chesterton/atomized/history/chapter_04)
+- [Chapter 5](/testi/chesterton/atomized/history/chapter_05)
+- [Chapter 6](/testi/chesterton/atomized/history/chapter_06)
+- [Chapter 7](/testi/chesterton/atomized/history/chapter_07)
+- [Chapter 8](/testi/chesterton/atomized/history/chapter_08)
+- [Chapter 9](/testi/chesterton/atomized/history/chapter_09)
+- [Chapter 10](/testi/chesterton/atomized/history/chapter_10)
+- [Chapter 11](/testi/chesterton/atomized/history/chapter_11)
+- [Chapter 12](/testi/chesterton/atomized/history/chapter_12)
+- [Chapter 13](/testi/chesterton/atomized/history/chapter_13)
+- [Chapter 14](/testi/chesterton/atomized/history/chapter_14)
+- [Chapter 15](/testi/chesterton/atomized/history/chapter_15)
+- [Chapter 16](/testi/chesterton/atomized/history/chapter_16)
+- [Chapter 17](/testi/chesterton/atomized/history/chapter_17)
+- [Chapter 18](/testi/chesterton/atomized/history/chapter_18)
+
 ## Connections
 
 **Topoi:** [[Ages of the World]], [[Golden Age]], [[Fortune's Wheel]]

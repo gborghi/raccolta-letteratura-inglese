@@ -26,6 +26,15 @@ tags:
 > [!abstract] 
 > A 1922 mystery novella set on the Cornish coast: peasant legends of poisonous 'peacock trees', a squire's disappearance, a faked murder unravelled by a detective doctor; pits rational scepticism against folk wisdom.
 
+## Capitoli / Chapters
+
+- [THE TALE OF THE PEACOCK TREES](/testi/chesterton/atomized/trees_of_pride/story_01_the_tale_of_the_peacock_trees)
+- [THE MYSTERY OF THE WELL](/testi/chesterton/atomized/trees_of_pride/story_02_the_mystery_of_the_well_well)
+- [THE TALE OF THE PEACOCK TREES](/testi/chesterton/atomized/trees_of_pride/story_03_the_tale_of_the_peacock_trees)
+- [THE WAGER OF SQUIRE VANE](/testi/chesterton/atomized/trees_of_pride/story_04_the_wager_of_squire_vane)
+- [THE MYSTERY OF THE WELL](/testi/chesterton/atomized/trees_of_pride/story_05_the_mystery_of_the_well_well)
+- [THE CHASE AFTER THE TRUTH](/testi/chesterton/atomized/trees_of_pride/story_06_the_chase_after_the_truth_truth)
+
 ## Connections
 
 **Archetypes:** [[Detective]], [[Villain]]

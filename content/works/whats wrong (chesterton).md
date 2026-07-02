@@ -32,6 +32,18 @@ tags:
 > [!abstract] 
 > Chesterton's 1910 book-length work of social criticism arguing that modern society misdiagnoses its ills; it defends the family, property and tradition against industrialism, imperialism, feminism and mechanical schooling, and advances his distributist programme.
 
+## Capitoli / Chapters
+
+- [Part 1: THE HOMELESSNESS OF MAN](/testi/chesterton/atomized/whats_wrong/chapter_01_the_homelessness_of_man)
+- [Part 2: IMPERIALISM, OR THE MISTAKE ABOUT MAN](/testi/chesterton/atomized/whats_wrong/chapter_02_imperialism_or_the_mistake_abo)
+- [Part 3: FEMINISM, OR THE MISTAKE ABOUT WOMAN](/testi/chesterton/atomized/whats_wrong/chapter_03_feminism_or_the_mistake_about)
+- [Part 5: THE HOME OF MAN](/testi/chesterton/atomized/whats_wrong/chapter_04_the_home_home_of_man)
+- [Part 1](/testi/chesterton/atomized/whats_wrong/chapter_05)
+- [Part 2](/testi/chesterton/atomized/whats_wrong/chapter_06)
+- [Part 3](/testi/chesterton/atomized/whats_wrong/chapter_07)
+- [Part 4](/testi/chesterton/atomized/whats_wrong/chapter_08)
+- [Part 5](/testi/chesterton/atomized/whats_wrong/chapter_09)
+
 ## Connections
 
 **Topoi:** [[World Upside Down]]

@@ -43,6 +43,33 @@ tags:
 > [!abstract] 
 > Austen's last completed novel, in which Anne Elliot is reunited with Captain Wentworth years after being persuaded to break their engagement; themes of constancy, second chances, regret, class and the rising navy, with an autumnal, melancholy tone.
 
+## Capitoli / Chapters
+
+- [Chapter 1](/testi/austen/atomized/persuasion/chapter_01)
+- [Chapter 2](/testi/austen/atomized/persuasion/chapter_02)
+- [Chapter 3](/testi/austen/atomized/persuasion/chapter_03)
+- [Chapter 4](/testi/austen/atomized/persuasion/chapter_04)
+- [Chapter 5](/testi/austen/atomized/persuasion/chapter_05)
+- [Chapter 6](/testi/austen/atomized/persuasion/chapter_06)
+- [Chapter 7](/testi/austen/atomized/persuasion/chapter_07)
+- [Chapter 8](/testi/austen/atomized/persuasion/chapter_08)
+- [Chapter 9](/testi/austen/atomized/persuasion/chapter_09)
+- [Chapter 10](/testi/austen/atomized/persuasion/chapter_10)
+- [Chapter 11](/testi/austen/atomized/persuasion/chapter_11)
+- [Chapter 12](/testi/austen/atomized/persuasion/chapter_12)
+- [Chapter 13](/testi/austen/atomized/persuasion/chapter_13)
+- [Chapter 14](/testi/austen/atomized/persuasion/chapter_14)
+- [Chapter 15](/testi/austen/atomized/persuasion/chapter_15)
+- [Chapter 16](/testi/austen/atomized/persuasion/chapter_16)
+- [Chapter 17](/testi/austen/atomized/persuasion/chapter_17)
+- [Chapter 18](/testi/austen/atomized/persuasion/chapter_18)
+- [Chapter 19](/testi/austen/atomized/persuasion/chapter_19)
+- [Chapter 20](/testi/austen/atomized/persuasion/chapter_20)
+- [Chapter 21](/testi/austen/atomized/persuasion/chapter_21)
+- [Chapter 22](/testi/austen/atomized/persuasion/chapter_22)
+- [Chapter 23](/testi/austen/atomized/persuasion/chapter_23)
+- [Chapter 24](/testi/austen/atomized/persuasion/chapter_24)
+
 ## Connections
 
 **Archetypes:** [[Lover]]

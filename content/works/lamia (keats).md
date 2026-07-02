@@ -30,6 +30,11 @@ tags:
 > [!abstract] 
 > A narrative poem in heroic couplets in which the serpent-woman Lamia, restored to female form, weds Lycius until the sage Apollonius's cold gaze dissolves her and kills him; enchantment, illusion versus philosophy, and destructive supernatural love from Greek myth.
 
+## Capitoli / Chapters
+
+- [Part I](/testi/keats/long/lamia/section_01_part_i)
+- [Part II](/testi/keats/long/lamia/section_02_part_ii)
+
 ## Connections
 
 **Topoi:** [[Love as Religion]]

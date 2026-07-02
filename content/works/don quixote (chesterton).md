@@ -30,6 +30,29 @@ tags:
 > [!abstract] 
 > Satirical novel and 'parable for social reformers' in which a librarian reenacts the Middle Ages and becomes a quixotic knight-errant, blending medievalist romance, distributist politics, and conversion.
 
+## Capitoli / Chapters
+
+- [Chapter 1](/testi/chesterton/atomized/don_quixote/chapter_01)
+- [Chapter 1](/testi/chesterton/atomized/don_quixote/chapter_02)
+- [Chapter 2](/testi/chesterton/atomized/don_quixote/chapter_03)
+- [Chapter 3](/testi/chesterton/atomized/don_quixote/chapter_04)
+- [Chapter 4](/testi/chesterton/atomized/don_quixote/chapter_05)
+- [Chapter 5](/testi/chesterton/atomized/don_quixote/chapter_06)
+- [Chapter 6](/testi/chesterton/atomized/don_quixote/chapter_07)
+- [Chapter 7](/testi/chesterton/atomized/don_quixote/chapter_08)
+- [Chapter 8](/testi/chesterton/atomized/don_quixote/chapter_09)
+- [Chapter 9](/testi/chesterton/atomized/don_quixote/chapter_10)
+- [Chapter 10](/testi/chesterton/atomized/don_quixote/chapter_11)
+- [Chapter 11](/testi/chesterton/atomized/don_quixote/chapter_12)
+- [Chapter 12](/testi/chesterton/atomized/don_quixote/chapter_13)
+- [Chapter 13](/testi/chesterton/atomized/don_quixote/chapter_14)
+- [Chapter 14](/testi/chesterton/atomized/don_quixote/chapter_15)
+- [Chapter 15](/testi/chesterton/atomized/don_quixote/chapter_16)
+- [Chapter 16](/testi/chesterton/atomized/don_quixote/chapter_17)
+- [Chapter 17](/testi/chesterton/atomized/don_quixote/chapter_18)
+- [Chapter 18](/testi/chesterton/atomized/don_quixote/chapter_19)
+- [Chapter 19](/testi/chesterton/atomized/don_quixote/chapter_20)
+
 ## Connections
 
 **Topoi:** [[Quest]]

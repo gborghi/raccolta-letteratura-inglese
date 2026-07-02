@@ -42,6 +42,41 @@ tags:
 > [!abstract] 
 > A coming-of-age novel and burlesque of Gothic fiction in which naive Catherine Morland confuses romance with reality at Bath and Northanger Abbey; themes of imagination versus reality, reading, social satire, and maturation.
 
+## Capitoli / Chapters
+
+- [Chapter 31](/testi/austen/atomized/northanger_abbey/chapter_01)
+- [Chapter 1](/testi/austen/atomized/northanger_abbey/chapter_02)
+- [Chapter 2](/testi/austen/atomized/northanger_abbey/chapter_03)
+- [Chapter 3](/testi/austen/atomized/northanger_abbey/chapter_04)
+- [Chapter 4](/testi/austen/atomized/northanger_abbey/chapter_05)
+- [Chapter 5](/testi/austen/atomized/northanger_abbey/chapter_06)
+- [Chapter 6](/testi/austen/atomized/northanger_abbey/chapter_07)
+- [Chapter 7](/testi/austen/atomized/northanger_abbey/chapter_08)
+- [Chapter 8](/testi/austen/atomized/northanger_abbey/chapter_09)
+- [Chapter 9](/testi/austen/atomized/northanger_abbey/chapter_10)
+- [Chapter 10](/testi/austen/atomized/northanger_abbey/chapter_11)
+- [Chapter 11](/testi/austen/atomized/northanger_abbey/chapter_12)
+- [Chapter 12](/testi/austen/atomized/northanger_abbey/chapter_13)
+- [Chapter 13](/testi/austen/atomized/northanger_abbey/chapter_14)
+- [Chapter 14](/testi/austen/atomized/northanger_abbey/chapter_15)
+- [Chapter 15](/testi/austen/atomized/northanger_abbey/chapter_16)
+- [Chapter 16](/testi/austen/atomized/northanger_abbey/chapter_17)
+- [Chapter 17](/testi/austen/atomized/northanger_abbey/chapter_18)
+- [Chapter 18](/testi/austen/atomized/northanger_abbey/chapter_19)
+- [Chapter 19](/testi/austen/atomized/northanger_abbey/chapter_20)
+- [Chapter 20](/testi/austen/atomized/northanger_abbey/chapter_21)
+- [Chapter 21](/testi/austen/atomized/northanger_abbey/chapter_22)
+- [Chapter 22](/testi/austen/atomized/northanger_abbey/chapter_23)
+- [Chapter 23](/testi/austen/atomized/northanger_abbey/chapter_24)
+- [Chapter 24](/testi/austen/atomized/northanger_abbey/chapter_25)
+- [Chapter 25](/testi/austen/atomized/northanger_abbey/chapter_26)
+- [Chapter 26](/testi/austen/atomized/northanger_abbey/chapter_27)
+- [Chapter 27](/testi/austen/atomized/northanger_abbey/chapter_28)
+- [Chapter 28](/testi/austen/atomized/northanger_abbey/chapter_29)
+- [Chapter 29](/testi/austen/atomized/northanger_abbey/chapter_30)
+- [Chapter 30](/testi/austen/atomized/northanger_abbey/chapter_31)
+- [Chapter 31](/testi/austen/atomized/northanger_abbey/chapter_32)
+
 ## Connections
 
 **Archetypes:** [[Innocent]], [[Lover]]

@@ -31,6 +31,17 @@ tags:
 > [!abstract] 
 > A collection of Father Brown detective stories in which the priest-sleuth solves crimes by reason and human insight while debunking false miracles and superstition; detective fiction with theological undercurrents.
 
+## Capitoli / Chapters
+
+- [The Resurrection of Father Brown](/testi/chesterton/atomized/incredulity/story_01_the_resurrection_of_father_brown)
+- [The Arrow of Heaven](/testi/chesterton/atomized/incredulity/story_02_the_arrow_of_heaven)
+- [The Oracle of the Dog](/testi/chesterton/atomized/incredulity/story_03_the_oracle_of_the_dog)
+- [The Miracle of Moon Crescent](/testi/chesterton/atomized/incredulity/story_04_the_miracle_of_moon_crescent)
+- [The Curse of the Golden Cross](/testi/chesterton/atomized/incredulity/story_05_the_curse_of_the_golden_cross)
+- [The Dagger with Wings](/testi/chesterton/atomized/incredulity/story_06_the_dagger_with_wings)
+- [The Doom of the Darnaways](/testi/chesterton/atomized/incredulity/story_07_the_doom_of_the_darnaways)
+- [The Ghost of Gideon Wise](/testi/chesterton/atomized/incredulity/story_08_the_ghost_of_gideon_wise)
+
 ## Connections
 
 **Archetypes:** [[Detective]]

@@ -28,6 +28,17 @@ tags:
 > [!abstract] 
 > A cycle of interlinked detective stories whose sleuth, Horne Fisher, 'knows too much' about the hidden corruption of the English governing class; murders are solved but justice is suppressed for reasons of state, giving the book a bleak political-mystery tone.
 
+## Capitoli / Chapters
+
+- [THE MAN WHO KNEW TOO MUCH:](/testi/chesterton/atomized/manwho/story_01_the_man_who_knew_too_much)
+- [THE VANISHING PRINCE](/testi/chesterton/atomized/manwho/story_02_the_vanishing_prince)
+- [THE SOUL OF THE SCHOOLBOY](/testi/chesterton/atomized/manwho/story_03_the_soul_soul_of_the_schoolboy)
+- [THE BOTTOMLESS WELL](/testi/chesterton/atomized/manwho/story_04_the_bottomless_well_well)
+- [THE FAD OF THE FISHERMAN](/testi/chesterton/atomized/manwho/story_05_the_fad_of_the_fisherman)
+- [THE HOLE IN THE WALL](/testi/chesterton/atomized/manwho/story_06_the_hole_in_the_wall)
+- [THE TEMPLE OF  SILENCE](/testi/chesterton/atomized/manwho/story_07_the_temple_of_silence_silence)
+- [THE VENGEANCE OF THE STATUE](/testi/chesterton/atomized/manwho/story_08_the_vengeance_of_the_statue)
+
 ## Connections
 
 **Archetypes:** [[Detective]], [[Corrupt Official]]

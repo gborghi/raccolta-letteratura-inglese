@@ -38,6 +38,31 @@ tags:
 > [!abstract] 
 > A late dramatic romance (with George Wilkins) tracing Pericles' wanderings, shipwrecks, the loss and miraculous reunion with his daughter Marina and wife; central to it are the quest/sea-journey, suffering and patience, and providential restoration of the family.
 
+## Capitoli / Chapters
+
+- [Scene 1](/testi/shakespeare/plays/pericles/scenes/scene_1)
+- [Scene 2](/testi/shakespeare/plays/pericles/scenes/scene_2)
+- [Scene 3](/testi/shakespeare/plays/pericles/scenes/scene_3)
+- [Scene 4](/testi/shakespeare/plays/pericles/scenes/scene_4)
+- [Scene 5](/testi/shakespeare/plays/pericles/scenes/scene_5)
+- [Scene 6](/testi/shakespeare/plays/pericles/scenes/scene_6)
+- [Scene 7](/testi/shakespeare/plays/pericles/scenes/scene_7)
+- [Scene 8](/testi/shakespeare/plays/pericles/scenes/scene_8)
+- [Scene 9](/testi/shakespeare/plays/pericles/scenes/scene_9)
+- [Scene 10](/testi/shakespeare/plays/pericles/scenes/scene_10)
+- [Scene 11](/testi/shakespeare/plays/pericles/scenes/scene_11)
+- [Scene 12](/testi/shakespeare/plays/pericles/scenes/scene_12)
+- [Scene 13](/testi/shakespeare/plays/pericles/scenes/scene_13)
+- [Scene 14](/testi/shakespeare/plays/pericles/scenes/scene_14)
+- [Scene 15](/testi/shakespeare/plays/pericles/scenes/scene_15)
+- [Scene 16](/testi/shakespeare/plays/pericles/scenes/scene_16)
+- [Scene 17](/testi/shakespeare/plays/pericles/scenes/scene_17)
+- [Scene 18](/testi/shakespeare/plays/pericles/scenes/scene_18)
+- [Scene 19](/testi/shakespeare/plays/pericles/scenes/scene_19)
+- [Scene 20](/testi/shakespeare/plays/pericles/scenes/scene_20)
+- [Scene 21](/testi/shakespeare/plays/pericles/scenes/scene_21)
+- [Scene 22](/testi/shakespeare/plays/pericles/scenes/scene_22)
+
 ## Connections
 
 **Topoi:** [[Quest]], [[Fortune's Wheel]]

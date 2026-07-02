@@ -22,6 +22,13 @@ tags:
 > [!abstract] 
 > A book-length critical survey of Victorian literature, treating the Victorian Compromise, its great novelists and poets, and the breakup of that compromise; argues that a writer's creed and moral attitude are inseparable from his art.
 
+## Capitoli / Chapters
+
+- [Chapter 1](/testi/chesterton/atomized/victorian_age/chapter_01)
+- [Chapter 2](/testi/chesterton/atomized/victorian_age/chapter_02)
+- [Chapter 3](/testi/chesterton/atomized/victorian_age/chapter_03)
+- [Chapter 4](/testi/chesterton/atomized/victorian_age/chapter_04)
+
 ## Connections
 
 **Themes & Concepts:** [[Artist and Society]], [[Faith and Doubt]], [[Order vs Chaos]], [[Reform]]

@@ -43,6 +43,12 @@ tags:
 > [!abstract] 
 > Keats's unfinished blank-verse epic on the fall of the Titans and the rise of the Olympians, dramatizing a cosmic succession of powers where the fallen Saturn and Hyperion give way to a new order whose claim rests on superior beauty, and Apollo dies into godhead through knowledge and sorrow.
 
+## Capitoli / Chapters
+
+- [Book I](/testi/keats/long/hyperion/section_01_book_i)
+- [Book II](/testi/keats/long/hyperion/section_02_book_ii)
+- [Book III](/testi/keats/long/hyperion/section_03_book_iii)
+
 ## Connections
 
 **Topoi:** [[Ages of the World]], [[Paradise Lost]], [[Fortune's Wheel]], [[Sic Transit Gloria Mundi]], [[Golden Age]]

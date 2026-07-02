@@ -54,6 +54,17 @@ tags:
 > [!abstract] 
 > Shakespeare's late romance on the magician Prospero, exiled duke who raises a storm to bring his usurpers to his island, tests the lovers Ferdinand and Miranda, and finally forgives; central are magic and the supernatural, usurpation, forgiveness, nature versus civilization, and art.
 
+## Capitoli / Chapters
+
+- [Act I, Scene 1](/testi/shakespeare/plays/the_tempest/act_1/scene_1)
+- [Act I, Scene 2](/testi/shakespeare/plays/the_tempest/act_1/scene_2)
+- [Act II, Scene 1](/testi/shakespeare/plays/the_tempest/act_2/scene_1)
+- [Act III, Scene 1](/testi/shakespeare/plays/the_tempest/act_3/scene_1)
+- [Act III, Scene 2](/testi/shakespeare/plays/the_tempest/act_3/scene_2)
+- [Act III, Scene 3](/testi/shakespeare/plays/the_tempest/act_3/scene_3)
+- [Act IV, Scene 1](/testi/shakespeare/plays/the_tempest/act_4/scene_1)
+- [Act V, Scene 1](/testi/shakespeare/plays/the_tempest/act_5/scene_1)
+
 ## Connections
 
 **Topoi:** [[Paradise Lost]], [[Theatrum Mundi]]

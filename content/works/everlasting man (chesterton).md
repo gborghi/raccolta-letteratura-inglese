@@ -36,6 +36,12 @@ tags:
 > [!abstract] 
 > Apologetic history of mankind and of Christ, arguing the uniqueness of man among creatures and of Christ among mythologies; traces the journey from cave-paintings and paganism to the Incarnation and the survivals of the Faith.
 
+## Capitoli / Chapters
+
+- [Part 2: ON THE MAN CALLED [[Christ|CHRIST](/testi/chesterton/atomized/everlasting_man/chapter_01_on_the_man_called_christ_chris)
+- [Part 1](/testi/chesterton/atomized/everlasting_man/chapter_02)
+- [Part 2](/testi/chesterton/atomized/everlasting_man/chapter_03)
+
 ## Connections
 
 **Topoi:** [[Paradise Lost]], [[Ages of the World]], [[Pastoral Retreat]]

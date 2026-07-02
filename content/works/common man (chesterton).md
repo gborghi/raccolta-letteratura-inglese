@@ -26,6 +26,43 @@ tags:
 > [!abstract] 
 > A posthumous collection of essays whose title piece argues that modern emancipation has actually persecuted the common man and common sense; ranges over literary criticism (Dickens, Tolstoi, Henry James, Browning), faith, philosophy and democracy.
 
+## Capitoli / Chapters
+
+- [On Reading](/testi/chesterton/atomized/common_man/story_01_on_reading)
+- [Monsters And The Middle Ages](/testi/chesterton/atomized/common_man/story_02_monsters_and_the_middle_ages)
+- [What Novelists Are For](/testi/chesterton/atomized/common_man/story_03_what_novelists_are_for)
+- [The Superstition Of School](/testi/chesterton/atomized/common_man/story_04_the_superstition_of_school)
+- [Paying For Patriotism](/testi/chesterton/atomized/common_man/story_05_paying_for_patriotism)
+- [The Pantomime](/testi/chesterton/atomized/common_man/story_06_the_pantomime)
+- [A Tale Of Two Cities](/testi/chesterton/atomized/common_man/story_07_a_tale_of_two_cities)
+- [God And Goods](/testi/chesterton/atomized/common_man/story_08_god_and_goods)
+- [From Meredith To Rupert Brooke](/testi/chesterton/atomized/common_man/story_09_from_meredith_to_rupert_brooke)
+- [The Dangers Of Necromancy](/testi/chesterton/atomized/common_man/story_10_the_dangers_of_necromancy)
+- [Giotto And St.  Francis](/testi/chesterton/atomized/common_man/story_11_giotto_and_st_francis)
+- [The New Groove](/testi/chesterton/atomized/common_man/story_12_the_new_groove)
+- [The Real Dr.  Johnson](/testi/chesterton/atomized/common_man/story_13_the_real_dr_johnson)
+- [Rabelaisian Regrets](/testi/chesterton/atomized/common_man/story_14_rabelaisian_regrets)
+- [The Hound Of Heaven](/testi/chesterton/atomized/common_man/story_15_the_hound_of_heaven)
+- [The Frivolous Man](/testi/chesterton/atomized/common_man/story_16_the_frivolous_man)
+- [Two Stubborn Pieces Of Iron](/testi/chesterton/atomized/common_man/story_17_two_stubborn_pieces_of_iron)
+- [Henry James](/testi/chesterton/atomized/common_man/story_18_henry_james)
+- [The Strange Talk Of Two Victorians](/testi/chesterton/atomized/common_man/story_19_the_strange_talk_of_two_victorians)
+- [Laughter](/testi/chesterton/atomized/common_man/story_20_laughter)
+- [Tales From Tolstoi](/testi/chesterton/atomized/common_man/story_21_tales_from_tolstoi)
+- [The New Case For Catholic Schools](/testi/chesterton/atomized/common_man/story_22_the_new_case_for_catholic_schools)
+- [Vulgarity](/testi/chesterton/atomized/common_man/story_23_vulgarity)
+- [Vandalism](/testi/chesterton/atomized/common_man/story_24_vandalism)
+- [Elizabeth Barrett Browning](/testi/chesterton/atomized/common_man/story_25_elizabeth_barrett_browning)
+- [The Erastian On The Establishment](/testi/chesterton/atomized/common_man/story_26_the_erastian_on_the_establishment)
+- [The Meaning Of Metre](/testi/chesterton/atomized/common_man/story_27_the_meaning_of_metre)
+- [The Epitaph Of Pierpont Morgan](/testi/chesterton/atomized/common_man/story_28_the_epitaph_of_pierpont_morgan)
+- [The New Bigotry](/testi/chesterton/atomized/common_man/story_29_the_new_bigotry)
+- [Books For Boys](/testi/chesterton/atomized/common_man/story_30_books_for_boys)
+- [The Outline Of Liberty](/testi/chesterton/atomized/common_man/story_31_the_outline_of_liberty)
+- [A Note On Nudism](/testi/chesterton/atomized/common_man/story_32_a_note_on_nudism)
+- [Consulting The Encyclopaedia](/testi/chesterton/atomized/common_man/story_33_consulting_the_encyclopaedia)
+- [If I Had Only One Sermon To Preach](/testi/chesterton/atomized/common_man/story_34_if_i_had_only_one_sermon_to_preach)
+
 ## Connections
 
 **Themes & Concepts:** [[Common Man]], [[Critique of Progress]], [[Satire of Society]], [[Distributism]], [[Faith]], [[Paradox]], [[Artist and Society]]

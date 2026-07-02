@@ -35,6 +35,12 @@ tags:
 > [!abstract] 
 > Dickens's Christmas Book, a love story set on an old battlefield in rural England; central themes are self-sacrificing love, the metaphor of life as a daily battle, sisterly devotion, and the contrast of war's bloodshed with nature's recovery.
 
+## Capitoli / Chapters
+
+- [Part 1](/testi/dickens/atomized/the_battle_of_life/chapter_01)
+- [Part 2](/testi/dickens/atomized/the_battle_of_life/chapter_02)
+- [Part 3](/testi/dickens/atomized/the_battle_of_life/chapter_03)
+
 ## Connections
 
 **Topoi:** [[Life as a Battle]]

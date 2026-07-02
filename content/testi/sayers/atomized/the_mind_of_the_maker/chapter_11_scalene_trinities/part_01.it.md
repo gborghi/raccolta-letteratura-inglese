@@ -1,0 +1,38 @@
+---
+title: "La mente del creatore capitolo 11: Trinità scalene (parte 1)"
+lang: it
+author: "Sayers"
+unitType: excerpt
+parentWork: "works/the-mind-of-the-maker-(sayers)"
+tags:
+  - graph/excerpt
+  - author/Sayers
+---
+
+<div class="sb-langswitch" data-other-lang="en"></div>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Sayers · <a href="/works/the-mind-of-the-maker-(sayers)">The Mind of the Maker</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/sayers/atomized/the_mind_of_the_maker/chapter_10_the_love_of_the_creature/part_05">‹ part 05</a><a class="ex-next" href="/testi/sayers/atomized/the_mind_of_the_maker/chapter_11_scalene_trinities/part_02">part 02 ›</a></div>
+</nav>
+
+
+Capitolo 11. Trinità Scalene
+
+*Dio ha fatto l'uomo a Sua immagine. - Il libro di Genesi.*
+
+*Che pezzo di lavoro è un uomo! . . . in apprensione come un dio!* - WILLIAM SHAKESPEARE: *Hamlet.*
+
+Ho pensato che alcuni dei viaggiatori della natura avessero creato gli uomini e non li avessero fatti bene, imitavano l'umanità così orribilmente.
+
+*Se un uomo non crede correttamente, non può essere salvato.-Quicunque Vult.*
+
+
+La somiglianza del padre di Dio indica il padre umano perfetto; sebbene questo fenomeno sia raro come quella vista normale con la quale, come ideale mai testimoniato ma fedelmente adorato, l'oculista misura tutta la visione reale con cui deve affrontare. Quindi la somiglianza del Creatore indica l'artista umano perfetto. Non esistono, tuttavia, artisti perfetti - un fatto su cui la critica letteraria (una forma d'arte con un forte pregiudizio verso la morte e la distruzione) tende a mettere un'enfasi quasi esagerata. Le imperfezioni dell'artista possono essere convenientemente classificate come imperfezioni nella sua trinità - una trinità che, come quella Altra a cui serve come analogia, deve, se l'opera deve essere salvata, essere considerata come avendo tutte le sue persone consistenti e co-uguali. La coeguaglianza della Trinità Divina è rappresentata in immagini e in embleme massoniche come un triangolo equilaterale; ma la trinità dello scrittore è raramente qualsiasi cosa ma scalena, e a volte è di un'irregolarità piuttosto fantastica.
+
+Alla fine del capitolo VIII, ho citato un verso del "Quicunque Vult". Quando ero bambina, ricordo di aver sentito che questo versetto formava una grave macchia su un affascinante e maestoso mistero. Sentivo che era assolutamente inutile avvertire chiunque che ci fosse "un Padre, non tre padri; un Figlio, non tre figli; uno Spirito Santo, non tre spiriti santi". Il suggerimento mi sembrava piuttosto stupido. Era abbastanza difficile immaginare un Dio che fosse Tre eppure Uno; esisteva qualcuno così demente da concepire una divinità nove volte? Tre padri era una pluralità eccessiva anche all'assurdità; mi ritrovò rossendo debilmente alla recitazione di parole così selvaggiamente non correlate a nulla che il pagano più strano nella sua cecità era probabile immaginare per se stesso. Ma l'esperienza critica mi ha convinto che i Padri della Chiesa occidentale conoscevano la natura umana meglio di me. Per quanto riguarda l'analogia del creatore umano, il loro avvertimento è giustificato. Scrittore dopo scrittore si affligge attraverso l'illusione che ciò che Chesterfield chiama un "Attività schiacciante" farà il lavoro dell'idea; che il potere dell'idea nella sua mente compenserà un'energia disordinata in manifestazione; o che un'idea è un libro a sé, anche se espressa senza energia e sperimentata senza potere. Molti dei monumenti di studi non leggibili sono esposti come la creatura di tre padri; molte colonne di sostanze che piangono tradiscono la sensibilità incontrollata di tre fantasmi impressionabili; molti turbodi di episodi incoerenti indicano la presenza di tre figli alla testa delle cose. Nessuna delle opere così prodotte deve essere un libro cattivo nel senso che sia stata scritta con intenzionale negligenza o con aperto disprezzo per la verità artistica: "ci sono molti modi in cui la poesia può andare storta, e un'impurità nell'intenzione è solo uno di questi". I loro scrittori non sono atei artistici, ma solo eretici, attaccati con invincibile ignoranza a una dottrina unitaria della creazione. E è vero che anche in loro una trinità completa deve essere in qualche misura impegnata nell'opera, altrimenti non potrebbero scrivere affatto. Ma la loro opera è ostacolata dalla loro dottrina imparziale, e creano erroneamente perché non "credono correttamente". Possiamo divertirci correttamente e in modo utile distinguendo tra gli scrittori che sono rispettivamente "paternati", "figli" e "fantasmi". È il segno del padre-ridden che si sforzano di imporre l'idea direttamente alla mente e ai sensi, credendo che questo sia l'intero lavoro. In modi molto diversi, lo studioso secco-come-polvere è un tipo di questi, e così Blake lotta con le enormi cosmogonie nuvolose e i simboli altamente personali dei Libri Profetici. È come se stessero cercando di ottenere il loro messaggio senza la piena mediazione del figlio; mentre il loro fantasma murmura solo alle loro anime nei luoghi segreti del più profondo, e non viene mai versato in potenza sulla terra. Anche quella persona molto familiare e poco comicissima, che "ha l'idea più meravigliosa di un libro, se solo avesse il tempo di sedersi e scriverlo", è incantata dal padre. Crede sinceramente che per l'operazione dell'Energia il tempo e una sedia siano le uniche necessità, e che il figlio, come il padre, non ha né sudore né passione.
+
+Tra i figli-ridden, possiamo collocare scrittori come Swinburne, in cui l'immensa ingegnosità e l'innata bellezza del modo si sviluppa fuori da ogni proporzione alla tenuezza dell'idea dominante; i loro fantasmi godono di una sorta di falsa Pentecoste, emozionando e muovendo i sensi ma non producendo alcuna vera rinascita dello spirito. Tra questi, anche, ci sono gli Eufisti e gli intelligenti vuoti; i prestidigitatori di arabesco verbale e rime leonine; gli alembicati, i pretenziosi e i preziosi, e coloro che (come Meredith al suo peggio) avvolge il comune luogo in complessità tortuose - tutti quelli, in effetti, il cui modo di comportarsi è degenerato in manierismo. Così sono anche i poeti che spaventano l'occhio con piacevoli distorsioni di lettere maiuscole e epiteti scalpati sulla pagina. Qui, credo, dobbiamo classificare la combinazione di parole di James Joyce, in cui l'uso dell'associazione verbale e silabia è portato così lontano che il suo potere di persuasione inconscia viene perso e la risposta del lettore viene deviata da un'estasi consapevole di caccia all'enigma, come un maiale che radicano per i tartufi.
+
+Anna Livia Plurabelle è allo stesso tempo femminile e il fiume Liffey (*amnis Livia* in latino) e la bellezza fatta di molte bellezze, poiché il fiume è la confluenza di molti ruscelli. Mentre le due lavatrici - loro stesse figure semi-mitologiche - raccontano la sua storia a padellare i vestiti sporchi sulle pietre, portano i nomi di centinaia di fiumi nel loro discorso. Una di loro non può sentire bene, per il cotone nelle sue orecchie: "E' che irrawaddy ho acceso nelle mie orecchie. Tutto tranne che il suono più letale", dice. Questa non è una semplice traduzione in un broggio lisciante delle parole: "Questo è l'acqua che ho intrappolato nelle mie orecchie. Tutto ciò non fa che silenziare il minimo suono": è l'evocazione di Lethe, il ruscello che scorre attraverso l'Hades, del fiume Aar in Svizzera, dello Stoke in Inghilterra e di un fiume indo-cinese, l'Irawaddy.

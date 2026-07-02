@@ -49,6 +49,15 @@ tags:
 > [!abstract] 
 > A ballad recounting the execution of a condemned guardsman, meditating on guilt, mercy, the cruelty of prison and Man's justice, and the redemptive figure of Christ, framed by the refrain that each man kills the thing he loves.
 
+## Capitoli / Chapters
+
+- [Part I](/testi/wilde/long/the_ballad_of_reading_gaol/section_01_part_i)
+- [Part II](/testi/wilde/long/the_ballad_of_reading_gaol/section_02_part_ii)
+- [Part III](/testi/wilde/long/the_ballad_of_reading_gaol/section_03_part_iii)
+- [Part IV](/testi/wilde/long/the_ballad_of_reading_gaol/section_04_part_iv)
+- [Part V](/testi/wilde/long/the_ballad_of_reading_gaol/section_05_part_v)
+- [Part VI](/testi/wilde/long/the_ballad_of_reading_gaol/section_06_part_vi)
+
 ## Connections
 
 **Topoi:** [[Memento Mori]], [[Dance of Death]], [[Fortune's Wheel]]

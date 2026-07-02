@@ -53,6 +53,14 @@ tags:
 > [!abstract] 
 > A 'Ghost Story of Christmas': the miser Scrooge is visited by Marley's ghost and three Spirits who lead him through past, present and future to moral conversion. Central themes: grace and redemption, charity versus avarice, social injustice and poverty, memory, mortality, set in Victorian London — a redemptive ghostly fable.
 
+## Capitoli / Chapters
+
+- [Stave 1: MARLEY'S [[Ghost|GHOST](/testi/dickens/atomized/a_christmas_carol/chapter_01_marley_s_ghost_ghost)
+- [Stave 2: THE FIRST OF THE THREE SPIRITS](/testi/dickens/atomized/a_christmas_carol/chapter_02_the_first_of_the_three_spirits)
+- [Stave 3: THE SECOND OF THE THREE SPIRITS](/testi/dickens/atomized/a_christmas_carol/chapter_03_the_second_of_the_three_spirit)
+- [Stave 4: THE LAST OF THE SPIRITS](/testi/dickens/atomized/a_christmas_carol/chapter_04_the_last_of_the_spirits)
+- [Stave 5: THE END OF IT](/testi/dickens/atomized/a_christmas_carol/chapter_05_the_end_of_it)
+
 ## Connections
 
 **Topoi:** [[Memento Mori]], [[Fall from Innocence]]

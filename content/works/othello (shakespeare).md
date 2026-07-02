@@ -51,6 +51,24 @@ tags:
 > [!abstract] 
 > A domestic tragedy in which the Moorish general Othello is poisoned by Iago's deception into murderous jealousy of his innocent wife Desdemona; central themes of jealousy, deception, the outsider, and appearance versus reality.
 
+## Capitoli / Chapters
+
+- [Act I, Scene 1](/testi/shakespeare/plays/othello/act_1/scene_1)
+- [Act I, Scene 2](/testi/shakespeare/plays/othello/act_1/scene_2)
+- [Act I, Scene 3](/testi/shakespeare/plays/othello/act_1/scene_3)
+- [Act II, Scene 1](/testi/shakespeare/plays/othello/act_2/scene_1)
+- [Act II, Scene 2](/testi/shakespeare/plays/othello/act_2/scene_2)
+- [Act II, Scene 3](/testi/shakespeare/plays/othello/act_2/scene_3)
+- [Act III, Scene 1](/testi/shakespeare/plays/othello/act_3/scene_1)
+- [Act III, Scene 2](/testi/shakespeare/plays/othello/act_3/scene_2)
+- [Act III, Scene 3](/testi/shakespeare/plays/othello/act_3/scene_3)
+- [Act III, Scene 4](/testi/shakespeare/plays/othello/act_3/scene_4)
+- [Act IV, Scene 1](/testi/shakespeare/plays/othello/act_4/scene_1)
+- [Act IV, Scene 2](/testi/shakespeare/plays/othello/act_4/scene_2)
+- [Act IV, Scene 3](/testi/shakespeare/plays/othello/act_4/scene_3)
+- [Act V, Scene 1](/testi/shakespeare/plays/othello/act_5/scene_1)
+- [Act V, Scene 2](/testi/shakespeare/plays/othello/act_5/scene_2)
+
 ## Connections
 
 **Topoi:** [[Combat Strife]]

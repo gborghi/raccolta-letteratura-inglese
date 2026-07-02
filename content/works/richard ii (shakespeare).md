@@ -41,6 +41,26 @@ tags:
 > [!abstract] 
 > Lyrical history play, entirely in verse, on the deposition and murder of the introverted King Richard II by Bolingbroke. Central themes: kingship and legitimacy, the divine right and fall of a king, identity, time, and the deposition's political resonance.
 
+## Capitoli / Chapters
+
+- [Act I, Scene 1](/testi/shakespeare/plays/richard_ii/act_1/scene_1)
+- [Act I, Scene 2](/testi/shakespeare/plays/richard_ii/act_1/scene_2)
+- [Act I, Scene 3](/testi/shakespeare/plays/richard_ii/act_1/scene_3)
+- [Act I, Scene 4](/testi/shakespeare/plays/richard_ii/act_1/scene_4)
+- [Act II, Scene 1](/testi/shakespeare/plays/richard_ii/act_2/scene_1)
+- [Act II, Scene 2](/testi/shakespeare/plays/richard_ii/act_2/scene_2)
+- [Act II, Scene 3](/testi/shakespeare/plays/richard_ii/act_2/scene_3)
+- [Act II, Scene 4](/testi/shakespeare/plays/richard_ii/act_2/scene_4)
+- [Act III, Scene 1](/testi/shakespeare/plays/richard_ii/act_3/scene_1)
+- [Act III, Scene 3](/testi/shakespeare/plays/richard_ii/act_3/scene_3)
+- [Act III, Scene 4](/testi/shakespeare/plays/richard_ii/act_3/scene_4)
+- [Act IV, Scene 1](/testi/shakespeare/plays/richard_ii/act_4/scene_1)
+- [Act V, Scene 1](/testi/shakespeare/plays/richard_ii/act_5/scene_1)
+- [Act V, Scene 2](/testi/shakespeare/plays/richard_ii/act_5/scene_2)
+- [Act V, Scene 3](/testi/shakespeare/plays/richard_ii/act_5/scene_3)
+- [Act V, Scene 4](/testi/shakespeare/plays/richard_ii/act_5/scene_4)
+- [Act V, Scene 5](/testi/shakespeare/plays/richard_ii/act_5/scene_5)
+
 ## Connections
 
 **Topoi:** [[Fortune's Wheel]], [[Great Chain of Being]]

@@ -30,6 +30,10 @@ tags:
 > [!abstract] 
 > The complete nine-chapter text of Chesterton's 1919 travel-essay on Ireland: Irish nationalism and the green symbol, the family and the land, the paradox of labour, the Anglo-Irish and Belfast religious problem, framed by his distributist and Catholic ideals against industrial England.
 
+## Testo / Text
+
+- [Chapter 1](/testi/chesterton/atomized/irish_impressions_2/chapter_01)
+
 ## Connections
 
 **Motifs:** [[Sea]]

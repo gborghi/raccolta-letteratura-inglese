@@ -48,6 +48,47 @@ tags:
 > [!abstract] 
 > Charlotte Bronte's 1847 first-person Gothic Bildungsroman tracing an orphaned, plain governess from abuse at Gateshead and Lowood to passionate love for the Byronic Rochester, the secret madwoman Bertha, flight, and a marriage of moral and spiritual equality; themes of conscience, faith, independence and self-respect.
 
+## Capitoli / Chapters
+
+- [Chapter 1](/testi/bronte/atomized/jane_eyre/chapter_01)
+- [Chapter 2](/testi/bronte/atomized/jane_eyre/chapter_02)
+- [Chapter 3](/testi/bronte/atomized/jane_eyre/chapter_03)
+- [Chapter 4](/testi/bronte/atomized/jane_eyre/chapter_04)
+- [Chapter 5](/testi/bronte/atomized/jane_eyre/chapter_05)
+- [Chapter 6](/testi/bronte/atomized/jane_eyre/chapter_06)
+- [Chapter 7](/testi/bronte/atomized/jane_eyre/chapter_07)
+- [Chapter 8](/testi/bronte/atomized/jane_eyre/chapter_08)
+- [Chapter 9](/testi/bronte/atomized/jane_eyre/chapter_09)
+- [Chapter 10](/testi/bronte/atomized/jane_eyre/chapter_10)
+- [Chapter 11](/testi/bronte/atomized/jane_eyre/chapter_11)
+- [Chapter 12](/testi/bronte/atomized/jane_eyre/chapter_12)
+- [Chapter 13](/testi/bronte/atomized/jane_eyre/chapter_13)
+- [Chapter 14](/testi/bronte/atomized/jane_eyre/chapter_14)
+- [Chapter 15](/testi/bronte/atomized/jane_eyre/chapter_15)
+- [Chapter 16](/testi/bronte/atomized/jane_eyre/chapter_16)
+- [Chapter 17](/testi/bronte/atomized/jane_eyre/chapter_17)
+- [Chapter 18](/testi/bronte/atomized/jane_eyre/chapter_18)
+- [Chapter 19](/testi/bronte/atomized/jane_eyre/chapter_19)
+- [Chapter 20](/testi/bronte/atomized/jane_eyre/chapter_20)
+- [Chapter 21](/testi/bronte/atomized/jane_eyre/chapter_21)
+- [Chapter 22](/testi/bronte/atomized/jane_eyre/chapter_22)
+- [Chapter 23](/testi/bronte/atomized/jane_eyre/chapter_23)
+- [Chapter 24](/testi/bronte/atomized/jane_eyre/chapter_24)
+- [Chapter 25](/testi/bronte/atomized/jane_eyre/chapter_25)
+- [Chapter 26](/testi/bronte/atomized/jane_eyre/chapter_26)
+- [Chapter 27](/testi/bronte/atomized/jane_eyre/chapter_27)
+- [Chapter 28](/testi/bronte/atomized/jane_eyre/chapter_28)
+- [Chapter 29](/testi/bronte/atomized/jane_eyre/chapter_29)
+- [Chapter 30](/testi/bronte/atomized/jane_eyre/chapter_30)
+- [Chapter 31](/testi/bronte/atomized/jane_eyre/chapter_31)
+- [Chapter 32](/testi/bronte/atomized/jane_eyre/chapter_32)
+- [Chapter 33](/testi/bronte/atomized/jane_eyre/chapter_33)
+- [Chapter 34](/testi/bronte/atomized/jane_eyre/chapter_34)
+- [Chapter 35](/testi/bronte/atomized/jane_eyre/chapter_35)
+- [Chapter 36](/testi/bronte/atomized/jane_eyre/chapter_36)
+- [Chapter 37](/testi/bronte/atomized/jane_eyre/chapter_37)
+- [Chapter 38: CONCLUSION](/testi/bronte/atomized/jane_eyre/chapter_38_conclusion)
+
 ## Connections
 
 **Archetypes:** [[Orphan]], [[Outsider]], [[Lover]], [[Madwoman]]

@@ -37,6 +37,18 @@ tags:
 > [!abstract] 
 > Witty courtly comedy in which the King of Navarre and his lords forswear women for study, then fall in love with the visiting Princess of France and her ladies; ends unconventionally with deferred marriage and the song of spring and winter. Central themes: love vs learning, wit and language, the play of appearance and vow-breaking.
 
+## Capitoli / Chapters
+
+- [Act I, Scene 1](/testi/shakespeare/plays/loves_labours_lost/act_1/scene_1)
+- [Act I, Scene 2](/testi/shakespeare/plays/loves_labours_lost/act_1/scene_2)
+- [Act II, Scene 1](/testi/shakespeare/plays/loves_labours_lost/act_2/scene_1)
+- [Act III, Scene 1](/testi/shakespeare/plays/loves_labours_lost/act_3/scene_1)
+- [Act IV, Scene 1](/testi/shakespeare/plays/loves_labours_lost/act_4/scene_1)
+- [Act IV, Scene 2](/testi/shakespeare/plays/loves_labours_lost/act_4/scene_2)
+- [Act IV, Scene 3](/testi/shakespeare/plays/loves_labours_lost/act_4/scene_3)
+- [Act V, Scene 1](/testi/shakespeare/plays/loves_labours_lost/act_5/scene_1)
+- [Act V, Scene 2](/testi/shakespeare/plays/loves_labours_lost/act_5/scene_2)
+
 ## Connections
 
 **Topoi:** [[Love as Religion]]

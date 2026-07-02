@@ -27,6 +27,18 @@ tags:
 > [!abstract] 
 > Chesterton's critical biography of Browning, celebrating the poet's optimism, vitality, marriage and the grotesque density of his art; a study of imagination and the artist.
 
+## Capitoli / Chapters
+
+- [Chapter 1](/testi/chesterton/atomized/robert_browning/chapter_01)
+- [Chapter 2](/testi/chesterton/atomized/robert_browning/chapter_02)
+- [Chapter 3](/testi/chesterton/atomized/robert_browning/chapter_03)
+- [Chapter 4](/testi/chesterton/atomized/robert_browning/chapter_04)
+- [Chapter 5](/testi/chesterton/atomized/robert_browning/chapter_05)
+- [Chapter 6](/testi/chesterton/atomized/robert_browning/chapter_06)
+- [Chapter 7](/testi/chesterton/atomized/robert_browning/chapter_07)
+- [Chapter 8](/testi/chesterton/atomized/robert_browning/chapter_08)
+- [Book 9: _Interpretations of Poetry and Religion_. He, in contradistinction](/testi/chesterton/atomized/robert_browning/chapter_09_interpretations_of_poetry_and)
+
 ## Connections
 
 **Themes & Concepts:** [[Artist and Society]], [[Imagination]], [[Joy]], [[Romantic Love]], [[Marriage and Fidelity]], [[Grotesque]], [[Wonder and Gratitude]], [[Paradox]]

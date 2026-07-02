@@ -43,6 +43,19 @@ tags:
 > [!abstract] 
 > A festive romantic comedy in which four Athenian lovers, a fairy king and queen, and a troupe of rude mechanicals are entangled by love-magic in an enchanted wood; it celebrates imagination, dream, and the irrationality of desire while mocking theatrical illusion.
 
+## Capitoli / Chapters
+
+- [Act I, Scene 1](/testi/shakespeare/plays/a_midsummer_nights_dream/act_1/scene_1)
+- [Act I, Scene 2](/testi/shakespeare/plays/a_midsummer_nights_dream/act_1/scene_2)
+- [Act II, Scene 1](/testi/shakespeare/plays/a_midsummer_nights_dream/act_2/scene_1)
+- [Act II, Scene 2](/testi/shakespeare/plays/a_midsummer_nights_dream/act_2/scene_2)
+- [Act III, Scene 1](/testi/shakespeare/plays/a_midsummer_nights_dream/act_3/scene_1)
+- [Act III, Scene 2](/testi/shakespeare/plays/a_midsummer_nights_dream/act_3/scene_2)
+- [Act IV, Scene 1](/testi/shakespeare/plays/a_midsummer_nights_dream/act_4/scene_1)
+- [Act IV, Scene 2](/testi/shakespeare/plays/a_midsummer_nights_dream/act_4/scene_2)
+- [Act V, Scene 1](/testi/shakespeare/plays/a_midsummer_nights_dream/act_5/scene_1)
+- [Act V, Scene 2](/testi/shakespeare/plays/a_midsummer_nights_dream/act_5/scene_2)
+
 ## Connections
 
 **Topoi:** [[Combat Strife]], [[Unattainable Beloved]], [[Theatrum Mundi]]

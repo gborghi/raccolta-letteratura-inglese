@@ -37,6 +37,35 @@ tags:
 > [!abstract] 
 > Anne Bronte's 1847 first-person novel of a poor clergyman's daughter who becomes a governess, enduring the cruelty and snobbery of her employers before finding love and a quiet pious marriage; a realist social novel on the dignity of work, faith and moral integrity.
 
+## Capitoli / Chapters
+
+- [Chapter 1](/testi/bronte/atomized/agnes_grey/chapter_01)
+- [Chapter 2](/testi/bronte/atomized/agnes_grey/chapter_02)
+- [Chapter 3](/testi/bronte/atomized/agnes_grey/chapter_03)
+- [Chapter 4](/testi/bronte/atomized/agnes_grey/chapter_04)
+- [Chapter 5](/testi/bronte/atomized/agnes_grey/chapter_05)
+- [Chapter 6](/testi/bronte/atomized/agnes_grey/chapter_06)
+- [Chapter 7](/testi/bronte/atomized/agnes_grey/chapter_07)
+- [Chapter 8](/testi/bronte/atomized/agnes_grey/chapter_08)
+- [Chapter 9](/testi/bronte/atomized/agnes_grey/chapter_09)
+- [Chapter 10](/testi/bronte/atomized/agnes_grey/chapter_10)
+- [Chapter 11](/testi/bronte/atomized/agnes_grey/chapter_11)
+- [Chapter 12](/testi/bronte/atomized/agnes_grey/chapter_12)
+- [Chapter 13](/testi/bronte/atomized/agnes_grey/chapter_13)
+- [Chapter 14](/testi/bronte/atomized/agnes_grey/chapter_14)
+- [Volume 1: ’ll come and meet you when I’ve done it. Be quick, will](/testi/bronte/atomized/agnes_grey/chapter_15_ll_come_and_meet_you_when_ive)
+- [Chapter 15](/testi/bronte/atomized/agnes_grey/chapter_16)
+- [Chapter 16](/testi/bronte/atomized/agnes_grey/chapter_17)
+- [Chapter 17](/testi/bronte/atomized/agnes_grey/chapter_18)
+- [Chapter 18](/testi/bronte/atomized/agnes_grey/chapter_19)
+- [Chapter 19](/testi/bronte/atomized/agnes_grey/chapter_20)
+- [Chapter 20](/testi/bronte/atomized/agnes_grey/chapter_21)
+- [Chapter 21](/testi/bronte/atomized/agnes_grey/chapter_22)
+- [Chapter 22](/testi/bronte/atomized/agnes_grey/chapter_23)
+- [Chapter 23](/testi/bronte/atomized/agnes_grey/chapter_24)
+- [Chapter 24](/testi/bronte/atomized/agnes_grey/chapter_25)
+- [Chapter 25](/testi/bronte/atomized/agnes_grey/chapter_26)
+
 ## Connections
 
 **Archetypes:** [[Outsider]]

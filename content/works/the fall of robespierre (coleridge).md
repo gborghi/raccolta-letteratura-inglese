@@ -28,6 +28,12 @@ tags:
 > [!abstract] 
 > A historic closet drama by Coleridge and Southey on the fall of Robespierre, dramatizing tyranny, conspiracy, the rhetoric of Liberty, ambition and the bloody self-consuming course of the French Revolution.
 
+## Capitoli / Chapters
+
+- [Act I, Scene 1](/testi/coleridge/plays/the_fall_of_robespierre/act_1/scene_1)
+- [Act II, Scene 1](/testi/coleridge/plays/the_fall_of_robespierre/act_2/scene_1)
+- [Act III, Scene 1](/testi/coleridge/plays/the_fall_of_robespierre/act_3/scene_1)
+
 ## Connections
 
 **Topoi:** [[Fortune's Wheel]]

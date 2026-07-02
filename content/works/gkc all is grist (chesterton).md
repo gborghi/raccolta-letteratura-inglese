@@ -24,6 +24,13 @@ tags:
 > [!abstract] 
 > A 1931 book of Chesterton essays on slang, divorce, nudism, behaviourism, the Renaissance, Dante, Swinburne and modern fads; satire of fashionable opinion and literary criticism built on paradox and the defence of tradition.
 
+## Capitoli / Chapters
+
+- [Chapter 1](/testi/chesterton/atomized/gkc_all_is_grist/chapter_01)
+- [Chapter 1](/testi/chesterton/atomized/gkc_all_is_grist/chapter_02)
+- [Chapter 2](/testi/chesterton/atomized/gkc_all_is_grist/chapter_03)
+- [Chapter 3](/testi/chesterton/atomized/gkc_all_is_grist/chapter_04)
+
 ## Connections
 
 **Themes & Concepts:** [[Paradox]], [[Satire of Society]], [[Critique of Progress]], [[Artist and Society]], [[Marriage and Fidelity]]

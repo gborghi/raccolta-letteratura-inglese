@@ -26,6 +26,17 @@ tags:
 > [!abstract] 
 > A framed collection of Father Brown stories in which the priest reveals his 'secret' method: solving crime by imaginative empathy with the criminal's soul rather than scientific deduction. Detective fiction with theological depth.
 
+## Capitoli / Chapters
+
+- [THE MIRROR OF THE MAGISTRATE](/testi/chesterton/atomized/secret_fr_brown/story_01_the_mirror_mirror_of_the_magistrate)
+- [THE MAN WITH TWO BEARDS](/testi/chesterton/atomized/secret_fr_brown/story_02_the_man_with_two_beards)
+- [THE SONG OF THE FLYING FISH](/testi/chesterton/atomized/secret_fr_brown/story_03_the_song_song_of_the_flying_fish)
+- [THE ACTOR AND THE ALIBI](/testi/chesterton/atomized/secret_fr_brown/story_04_the_actor_and_the_alibi)
+- [THE VANISHING OF VAUDREY](/testi/chesterton/atomized/secret_fr_brown/story_05_the_vanishing_of_vaudrey)
+- [THE WORST CRIME IN THE WORLD](/testi/chesterton/atomized/secret_fr_brown/story_06_the_worst_crime_in_the_world)
+- [THE RED MOON OF MERU](/testi/chesterton/atomized/secret_fr_brown/story_07_the_red_moon_moon_of_meru)
+- [THE CHIEF MOURNER OF MARNE](/testi/chesterton/atomized/secret_fr_brown/story_08_the_chief_mourner_of_marne)
+
 ## Connections
 
 **Archetypes:** [[Detective]]

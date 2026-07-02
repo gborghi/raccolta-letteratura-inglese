@@ -39,6 +39,31 @@ tags:
 > [!abstract] 
 > A middle-class citizen comedy set in Windsor in which Falstaff's attempts to seduce two married women are turned against him by the wives' ingenious tricks; a farce of disguise, jealousy, and bourgeois domestic life.
 
+## Capitoli / Chapters
+
+- [Act I, Scene 1](/testi/shakespeare/plays/the_merry_wives_of_windsor/act_1/scene_1)
+- [Act I, Scene 2](/testi/shakespeare/plays/the_merry_wives_of_windsor/act_1/scene_2)
+- [Act I, Scene 3](/testi/shakespeare/plays/the_merry_wives_of_windsor/act_1/scene_3)
+- [Act I, Scene 4](/testi/shakespeare/plays/the_merry_wives_of_windsor/act_1/scene_4)
+- [Act II, Scene 1](/testi/shakespeare/plays/the_merry_wives_of_windsor/act_2/scene_1)
+- [Act II, Scene 2](/testi/shakespeare/plays/the_merry_wives_of_windsor/act_2/scene_2)
+- [Act II, Scene 3](/testi/shakespeare/plays/the_merry_wives_of_windsor/act_2/scene_3)
+- [Act III, Scene 1](/testi/shakespeare/plays/the_merry_wives_of_windsor/act_3/scene_1)
+- [Act III, Scene 2](/testi/shakespeare/plays/the_merry_wives_of_windsor/act_3/scene_2)
+- [Act III, Scene 3](/testi/shakespeare/plays/the_merry_wives_of_windsor/act_3/scene_3)
+- [Act III, Scene 4](/testi/shakespeare/plays/the_merry_wives_of_windsor/act_3/scene_4)
+- [Act III, Scene 5](/testi/shakespeare/plays/the_merry_wives_of_windsor/act_3/scene_5)
+- [Act IV, Scene 1](/testi/shakespeare/plays/the_merry_wives_of_windsor/act_4/scene_1)
+- [Act IV, Scene 2](/testi/shakespeare/plays/the_merry_wives_of_windsor/act_4/scene_2)
+- [Act IV, Scene 3](/testi/shakespeare/plays/the_merry_wives_of_windsor/act_4/scene_3)
+- [Act IV, Scene 4](/testi/shakespeare/plays/the_merry_wives_of_windsor/act_4/scene_4)
+- [Act IV, Scene 5](/testi/shakespeare/plays/the_merry_wives_of_windsor/act_4/scene_5)
+- [Act V, Scene 1](/testi/shakespeare/plays/the_merry_wives_of_windsor/act_5/scene_1)
+- [Act V, Scene 2](/testi/shakespeare/plays/the_merry_wives_of_windsor/act_5/scene_2)
+- [Act V, Scene 3](/testi/shakespeare/plays/the_merry_wives_of_windsor/act_5/scene_3)
+- [Act V, Scene 4](/testi/shakespeare/plays/the_merry_wives_of_windsor/act_5/scene_4)
+- [Act V, Scene 5](/testi/shakespeare/plays/the_merry_wives_of_windsor/act_5/scene_5)
+
 ## Connections
 
 **Topoi:** [[World Upside Down]]

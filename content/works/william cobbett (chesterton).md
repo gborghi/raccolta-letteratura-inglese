@@ -35,6 +35,16 @@ tags:
 > [!abstract] 
 > Chesterton's critical biography of the radical pamphleteer and rural reformer William Cobbett, championing him as a self-made patriot and prophet of the common Englishman against industrialism, and a forerunner of distributist ideals.
 
+## Capitoli / Chapters
+
+- [Chapter 1](/testi/chesterton/atomized/william_cobbett/chapter_01)
+- [Chapter 2](/testi/chesterton/atomized/william_cobbett/chapter_02)
+- [Chapter 2](/testi/chesterton/atomized/william_cobbett/chapter_03)
+- [Chapter 4](/testi/chesterton/atomized/william_cobbett/chapter_04)
+- [Chapter 5](/testi/chesterton/atomized/william_cobbett/chapter_05)
+- [Chapter 6](/testi/chesterton/atomized/william_cobbett/chapter_06)
+- [Chapter 7](/testi/chesterton/atomized/william_cobbett/chapter_07)
+
 ## Connections
 
 **Topoi:** [[World Upside Down]]

@@ -24,6 +24,28 @@ tags:
 > [!abstract] 
 > Long programmatic chant proclaiming the new American bard of democracy, body and soul, sex, religion and comradeship across the continent; sprawling catalogue free verse.
 
+## Capitoli / Chapters
+
+- [Chapter 1](/testi/whitman/atomized/025_starting_from_paumanok/chapter_01)
+- [Chapter 2](/testi/whitman/atomized/025_starting_from_paumanok/chapter_02)
+- [Chapter 3](/testi/whitman/atomized/025_starting_from_paumanok/chapter_03)
+- [Chapter 4](/testi/whitman/atomized/025_starting_from_paumanok/chapter_04)
+- [Chapter 5](/testi/whitman/atomized/025_starting_from_paumanok/chapter_05)
+- [Chapter 6](/testi/whitman/atomized/025_starting_from_paumanok/chapter_06)
+- [Chapter 7](/testi/whitman/atomized/025_starting_from_paumanok/chapter_07)
+- [Chapter 8](/testi/whitman/atomized/025_starting_from_paumanok/chapter_08)
+- [Chapter 9](/testi/whitman/atomized/025_starting_from_paumanok/chapter_09)
+- [Chapter 10](/testi/whitman/atomized/025_starting_from_paumanok/chapter_10)
+- [Chapter 11](/testi/whitman/atomized/025_starting_from_paumanok/chapter_11)
+- [Chapter 12](/testi/whitman/atomized/025_starting_from_paumanok/chapter_12)
+- [Chapter 13](/testi/whitman/atomized/025_starting_from_paumanok/chapter_13)
+- [Chapter 14](/testi/whitman/atomized/025_starting_from_paumanok/chapter_14)
+- [Chapter 15](/testi/whitman/atomized/025_starting_from_paumanok/chapter_15)
+- [Chapter 16](/testi/whitman/atomized/025_starting_from_paumanok/chapter_16)
+- [Chapter 17](/testi/whitman/atomized/025_starting_from_paumanok/chapter_17)
+- [Chapter 18](/testi/whitman/atomized/025_starting_from_paumanok/chapter_18)
+- [Chapter 19](/testi/whitman/atomized/025_starting_from_paumanok/chapter_19)
+
 ## Connections
 
 **Topoi:** [[Poet as Prophet]], [[Open Road Homecoming]]

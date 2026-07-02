@@ -103,9 +103,36 @@ async function init() {
   }
 }
 
+// Per-page language toggle. preprocess injects a `<div class="sb-langswitch"
+// data-other-lang="it|en">` marker into any page that has an Italian sibling
+// ("<slug>.it"). We render a button that navigates to the sibling, deriving its
+// URL from the current path (append/remove ".it" before the trailing slash) and
+// remembering the reader's choice so the button label stays consistent.
+function initLangToggle() {
+  const mark = document.querySelector(".sb-langswitch") as HTMLElement | null
+  if (!mark || mark.querySelector(".sb-lang-btn")) return
+  const other = mark.dataset.otherLang
+  if (other !== "it" && other !== "en") return
+  const p = location.pathname.replace(/\/+$/, "")
+  const target = other === "it" ? p + ".it/" : p.replace(/\.it$/, "") + "/"
+  const btn = document.createElement("a")
+  btn.className = "sb-lang-btn"
+  btn.href = target
+  btn.textContent = other === "it" ? "Italiano" : "English"
+  btn.setAttribute("aria-label", other === "it" ? "Leggi in italiano" : "Read in English")
+  btn.addEventListener("click", () => {
+    try {
+      localStorage.setItem("sb-lang", other)
+    } catch {}
+  })
+  mark.appendChild(btn)
+}
+
 document.addEventListener("nav", () => {
   init()
+  initLangToggle()
 })
 init()
+initLangToggle()
 
 export {}

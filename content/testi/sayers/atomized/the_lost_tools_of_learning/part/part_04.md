@@ -8,6 +8,8 @@ tags:
   - author/Sayers
 ---
 
+<div class="sb-langswitch" data-other-lang="it"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Sayers · <a href="/works/the-lost-tools-of-learning-(sayers)">The Lost Tools of Learning</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/sayers/atomized/the_lost_tools_of_learning/part/part_03">‹ part 03</a><a class="ex-next" href="/testi/sayers/atomized/the_lost_tools_of_learning/part/part_05">part 05 ›</a></div>

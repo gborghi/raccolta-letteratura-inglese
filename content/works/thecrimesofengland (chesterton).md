@@ -22,6 +22,19 @@ tags:
 > [!abstract] 
 > A 1916 satirical historical-polemical essay charging England's real crime as its long collusion with Prussia; an ironic patriotic critique tied to the First World War.
 
+## Capitoli / Chapters
+
+- [Chapter 1](/testi/chesterton/atomized/thecrimesofengland/chapter_01)
+- [Chapter 2](/testi/chesterton/atomized/thecrimesofengland/chapter_02)
+- [Chapter 3](/testi/chesterton/atomized/thecrimesofengland/chapter_03)
+- [Chapter 4](/testi/chesterton/atomized/thecrimesofengland/chapter_04)
+- [Chapter 5](/testi/chesterton/atomized/thecrimesofengland/chapter_05)
+- [Chapter 6](/testi/chesterton/atomized/thecrimesofengland/chapter_06)
+- [Chapter 7](/testi/chesterton/atomized/thecrimesofengland/chapter_07)
+- [Chapter 8](/testi/chesterton/atomized/thecrimesofengland/chapter_08)
+- [Chapter 9](/testi/chesterton/atomized/thecrimesofengland/chapter_09)
+- [Chapter 10](/testi/chesterton/atomized/thecrimesofengland/chapter_10)
+
 ## Connections
 
 **Themes & Concepts:** [[Satire of Society]], [[War and its Cost]], [[Nationalism and Patriotism]], [[Power and Corruption]]

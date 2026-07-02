@@ -58,7 +58,7 @@
     "content-index": {
       "source": "github:gborghi/content-index",
       "resolved": "https://github.com/gborghi/content-index.git",
-      "commit": "c4fb9c7fa62ad4cdcfccd17930a5f29d535e3347",
+      "commit": "1c7ee2177ae9f1b86b95dc66bf8187d0f27fc203",
       "installedAt": "2026-06-30T15:24:03.431Z"
     },
     "content-meta": {

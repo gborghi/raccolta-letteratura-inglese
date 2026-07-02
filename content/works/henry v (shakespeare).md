@@ -41,6 +41,35 @@ tags:
 > [!abstract] 
 > A patriotic history play following the matured King Henry's invasion of France and victory at Agincourt; framed by a Chorus, it celebrates kingship, national unity, and heroic war while glancing at its human cost.
 
+## Capitoli / Chapters
+
+- [Act I, Scene 1](/testi/shakespeare/plays/henry_v/act_1/scene_1)
+- [Act I, Scene 2](/testi/shakespeare/plays/henry_v/act_1/scene_2)
+- [Act II, Scene 0](/testi/shakespeare/plays/henry_v/act_2/scene_0)
+- [Act II, Scene 1](/testi/shakespeare/plays/henry_v/act_2/scene_1)
+- [Act II, Scene 2](/testi/shakespeare/plays/henry_v/act_2/scene_2)
+- [Act II, Scene 3](/testi/shakespeare/plays/henry_v/act_2/scene_3)
+- [Act II, Scene 4](/testi/shakespeare/plays/henry_v/act_2/scene_4)
+- [Act III, Scene 1](/testi/shakespeare/plays/henry_v/act_3/scene_1)
+- [Act III, Scene 2](/testi/shakespeare/plays/henry_v/act_3/scene_2)
+- [Act III, Scene 3](/testi/shakespeare/plays/henry_v/act_3/scene_3)
+- [Act III, Scene 4](/testi/shakespeare/plays/henry_v/act_3/scene_4)
+- [Act III, Scene 5](/testi/shakespeare/plays/henry_v/act_3/scene_5)
+- [Act III, Scene 6](/testi/shakespeare/plays/henry_v/act_3/scene_6)
+- [Act III, Scene 7](/testi/shakespeare/plays/henry_v/act_3/scene_7)
+- [Act IV, Scene 0](/testi/shakespeare/plays/henry_v/act_4/scene_0)
+- [Act IV, Scene 1](/testi/shakespeare/plays/henry_v/act_4/scene_1)
+- [Act IV, Scene 2](/testi/shakespeare/plays/henry_v/act_4/scene_2)
+- [Act IV, Scene 3](/testi/shakespeare/plays/henry_v/act_4/scene_3)
+- [Act IV, Scene 4](/testi/shakespeare/plays/henry_v/act_4/scene_4)
+- [Act IV, Scene 5](/testi/shakespeare/plays/henry_v/act_4/scene_5)
+- [Act IV, Scene 6](/testi/shakespeare/plays/henry_v/act_4/scene_6)
+- [Act IV, Scene 7](/testi/shakespeare/plays/henry_v/act_4/scene_7)
+- [Act IV, Scene 8](/testi/shakespeare/plays/henry_v/act_4/scene_8)
+- [Act V, Scene 0](/testi/shakespeare/plays/henry_v/act_5/scene_0)
+- [Act V, Scene 1](/testi/shakespeare/plays/henry_v/act_5/scene_1)
+- [Act V, Scene 2](/testi/shakespeare/plays/henry_v/act_5/scene_2)
+
 ## Connections
 
 **Topoi:** [[War as Glory]], [[Last Stand]], [[Theatrum Mundi]]

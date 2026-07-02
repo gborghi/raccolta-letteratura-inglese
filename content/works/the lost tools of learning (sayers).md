@@ -34,6 +34,8 @@ tags:
   - character/the_child
   - character/milton
 ---
+<div class="sb-langswitch" data-other-lang="it"></div>
+
 
 *by Sayers*  ·  **Cluster:** [[Classical Education · The Trivium · Critique Of Progress]]
 

@@ -45,6 +45,36 @@ tags:
 > [!abstract] 
 > History/tragedy charting the deformed Machiavel Richard of Gloucester's murderous rise to the throne and his fall at Bosworth. Central themes: ambition, power and corruption, conscience and guilt, the providential end of the Wars of the Roses.
 
+## Capitoli / Chapters
+
+- [Act I, Scene 1](/testi/shakespeare/plays/richard_iii/act_1/scene_1)
+- [Act I, Scene 2](/testi/shakespeare/plays/richard_iii/act_1/scene_2)
+- [Act I, Scene 3](/testi/shakespeare/plays/richard_iii/act_1/scene_3)
+- [Act I, Scene 4](/testi/shakespeare/plays/richard_iii/act_1/scene_4)
+- [Act II, Scene 1](/testi/shakespeare/plays/richard_iii/act_2/scene_1)
+- [Act II, Scene 2](/testi/shakespeare/plays/richard_iii/act_2/scene_2)
+- [Act II, Scene 3](/testi/shakespeare/plays/richard_iii/act_2/scene_3)
+- [Act II, Scene 4](/testi/shakespeare/plays/richard_iii/act_2/scene_4)
+- [Act III, Scene 1](/testi/shakespeare/plays/richard_iii/act_3/scene_1)
+- [Act III, Scene 2](/testi/shakespeare/plays/richard_iii/act_3/scene_2)
+- [Act III, Scene 3](/testi/shakespeare/plays/richard_iii/act_3/scene_3)
+- [Act III, Scene 4](/testi/shakespeare/plays/richard_iii/act_3/scene_4)
+- [Act III, Scene 6](/testi/shakespeare/plays/richard_iii/act_3/scene_6)
+- [Act III, Scene 7](/testi/shakespeare/plays/richard_iii/act_3/scene_7)
+- [Act IV, Scene 1](/testi/shakespeare/plays/richard_iii/act_4/scene_1)
+- [Act IV, Scene 2](/testi/shakespeare/plays/richard_iii/act_4/scene_2)
+- [Act IV, Scene 3](/testi/shakespeare/plays/richard_iii/act_4/scene_3)
+- [Act IV, Scene 4](/testi/shakespeare/plays/richard_iii/act_4/scene_4)
+- [Act IV, Scene 5](/testi/shakespeare/plays/richard_iii/act_4/scene_5)
+- [Act V, Scene 1](/testi/shakespeare/plays/richard_iii/act_5/scene_1)
+- [Act V, Scene 2](/testi/shakespeare/plays/richard_iii/act_5/scene_2)
+- [Act V, Scene 3](/testi/shakespeare/plays/richard_iii/act_5/scene_3)
+- [Act V, Scene 4](/testi/shakespeare/plays/richard_iii/act_5/scene_4)
+- [Act V, Scene 5](/testi/shakespeare/plays/richard_iii/act_5/scene_5)
+- [Act V, Scene 6](/testi/shakespeare/plays/richard_iii/act_5/scene_6)
+- [Act V, Scene 7](/testi/shakespeare/plays/richard_iii/act_5/scene_7)
+- [Act V, Scene 8](/testi/shakespeare/plays/richard_iii/act_5/scene_8)
+
 ## Connections
 
 **Topoi:** [[Fortune's Wheel]], [[Theatrum Mundi]]

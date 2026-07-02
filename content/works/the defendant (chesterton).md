@@ -32,6 +32,27 @@ tags:
 > [!abstract] 
 > A collection of paradoxical 'defence' essays (penny dreadfuls, detective stories, skeletons, baby-worship, patriotism) defending despised or common things; wonder, paradox, social satire.
 
+## Capitoli / Chapters
+
+- [IN DEFENCE OF A NEW EDITION](/testi/chesterton/atomized/the_defendant/story_01_in_defence_of_a_new_edition)
+- [INTRODUCTION](/testi/chesterton/atomized/the_defendant/story_02_introduction)
+- [A DEFENCE OF PENNY DREADFULS](/testi/chesterton/atomized/the_defendant/story_03_a_defence_of_penny_dreadfuls)
+- [A DEFENCE OF RASH VOWS](/testi/chesterton/atomized/the_defendant/story_04_a_defence_of_rash_vows)
+- [A DEFENCE OF SKELETONS](/testi/chesterton/atomized/the_defendant/story_05_a_defence_of_skeletons)
+- [A DEFENCE OF PUBLICITY](/testi/chesterton/atomized/the_defendant/story_06_a_defence_of_publicity)
+- [A DEFENCE OF NONSENSE](/testi/chesterton/atomized/the_defendant/story_07_a_defence_of_nonsense)
+- [A DEFENCE OF PLANETS](/testi/chesterton/atomized/the_defendant/story_08_a_defence_of_planets)
+- [A DEFENCE OF CHINA SHEPHERDESSES](/testi/chesterton/atomized/the_defendant/story_09_a_defence_of_china_shepherdesses)
+- [A DEFENCE OF USEFUL INFORMATION](/testi/chesterton/atomized/the_defendant/story_10_a_defence_of_useful_information)
+- [A DEFENCE OF HERALDRY](/testi/chesterton/atomized/the_defendant/story_11_a_defence_of_heraldry)
+- [A DEFENCE OF UGLY THINGS](/testi/chesterton/atomized/the_defendant/story_12_a_defence_of_ugly_things)
+- [A DEFENCE OF FARCE](/testi/chesterton/atomized/the_defendant/story_13_a_defence_of_farce)
+- [A DEFENCE OF HUMILITY](/testi/chesterton/atomized/the_defendant/story_14_a_defence_of_humility_humility)
+- [A DEFENCE OF SLANG](/testi/chesterton/atomized/the_defendant/story_15_a_defence_of_slang)
+- [A DEFENCE OF BABY-WORSHIP](/testi/chesterton/atomized/the_defendant/story_16_a_defence_of_baby_worship)
+- [A DEFENCE OF DETECTIVE STORIES](/testi/chesterton/atomized/the_defendant/story_17_a_defence_of_detective_detective_stories)
+- [A DEFENCE OF PATRIOTISM](/testi/chesterton/atomized/the_defendant/story_18_a_defence_of_patriotism)
+
 ## Connections
 
 **Topoi:** [[Book of Nature]], [[World Upside Down]]

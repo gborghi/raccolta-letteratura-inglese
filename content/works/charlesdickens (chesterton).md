@@ -28,6 +28,24 @@ tags:
 > [!abstract] 
 > Chesterton's critical biography of Charles Dickens, celebrating his greatness, his common humanity, his comedy and his social conscience while placing him in Victorian England and the radical tradition.
 
+## Capitoli / Chapters
+
+- [Part 1](/testi/chesterton/atomized/charlesdickens/chapter_01)
+- [Chapter 1](/testi/chesterton/atomized/charlesdickens/chapter_02)
+- [Chapter 2](/testi/chesterton/atomized/charlesdickens/chapter_03)
+- [Chapter 3](/testi/chesterton/atomized/charlesdickens/chapter_04)
+- [Chapter 4](/testi/chesterton/atomized/charlesdickens/chapter_05)
+- [Chapter 5](/testi/chesterton/atomized/charlesdickens/chapter_06)
+- [Chapter 6](/testi/chesterton/atomized/charlesdickens/chapter_07)
+- [Part 2](/testi/chesterton/atomized/charlesdickens/chapter_08)
+- [Part 2](/testi/chesterton/atomized/charlesdickens/chapter_09)
+- [Chapter 7](/testi/chesterton/atomized/charlesdickens/chapter_10)
+- [Chapter 8](/testi/chesterton/atomized/charlesdickens/chapter_11)
+- [Chapter 9](/testi/chesterton/atomized/charlesdickens/chapter_12)
+- [Chapter 10](/testi/chesterton/atomized/charlesdickens/chapter_13)
+- [Chapter 11](/testi/chesterton/atomized/charlesdickens/chapter_14)
+- [Chapter 12](/testi/chesterton/atomized/charlesdickens/chapter_15)
+
 ## Connections
 
 **Motifs:** [[City]], [[Money and Gold]]

@@ -1,0 +1,116 @@
+---
+title: "La mente del creatore capitolo 8: creatore di tutte le cose creatore di cose cattive"
+lang: it
+author: "Sayers"
+unitType: chapter
+parentWork: "works/the-mind-of-the-maker-(sayers)"
+tags:
+  - graph/excerpt
+  - author/Sayers
+---
+
+<div class="sb-langswitch" data-other-lang="en"></div>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Sayers · <a href="/works/the-mind-of-the-maker-(sayers)">The Mind of the Maker</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/sayers/atomized/the_mind_of_the_maker/chapter_07_the_energy_incarnate_in_self_e">‹ Chapter 07 The Energy Incarnate in Self E</a><a class="ex-next" href="/testi/sayers/atomized/the_mind_of_the_maker/chapter_09_pentecost">Chapter 09 Pentecost ›</a></div>
+</nav>
+
+
+Capitolo 8. Il Creatore di tutte le cose
+
+Chi ti ha creato?
+
+MEPHISTOPHELES: *Dio; come la luce fa l'ombra.*
+
+FAUSTUS: "Dio è dunque malvagio?"
+
+MEPHISTOPHELES: *Dio è solo luce,*
+
+E nel cuore della luce non c'è ombra
+
+# E non posso vivere nella luce del cielo #
+
+# Dove Dio è tutto #
+
+Cosa sei tu, Mefistofele?
+
+MEPHISTOPHELES: *Sono il prezzo che tutte le cose pagano per essere,*
+
+# L'ombra sul mondo, gettata dal mondo #
+
+*Stando nella sua luce, che luce è Dio.*
+
+*Il diavolo deve pagare.*
+
+*E' stato . . . dichiarato da Aquino che era della natura di Dio conoscere tutte le possibilità, e determinare quale possibilità dovesse diventare realtà. "Dio non conoscerebbe perfettamente le cose buone se non conoscesse anche le cose cattive . . . poiché, poiché il male non è conoscibile di per sé, poiché 'il male è la privazione del bene', come dice Agostino, perciò il male non può essere definito né conosciuto se non con il bene". Le cose che non sono e non saranno mai Egli conosce "non per visione", come Egli fa tutte le cose che sono o saranno, "ma con la semplice intelligenza". Fa dunque parte di quella conoscenza che Egli dovrebbe comprendere il bene nella sua privazione, l'identità del cielo nella sua identità opposta dell'inferno, ma senza "approvazione", senza chiamarla ad esistere affatto.*
+
+*Non era così possibile per l'uomo . . . Essere come gli dei significava per Adamo morire, per loro conoscere il male, non per pura intelligenza ma per esperienza.* - CHARLES WILLIAMS: *E' Sceso dal Cielo.*
+
+
+"Se Dio ha fatto tutto, ha fatto il Diavolo?"
+
+Questo è il tipo di domanda imbarazzante che ogni bambino può fare prima della colazione, e per la quale il Manuale dei genitori non fornisce una formula pulita e pratica. In modo molto più leggero, un mio cugino una volta chiese: "Madre, dove è andato ieri?" Mia zia coraggiosamente si impegnò a scoprire; ma quando tornò, primato con l'opinione di un eminente filosofo di Oxford, l'inquirente aveva perso l'interesse e, come scherzando Pilato, non voleva rimanere per una risposta.
+
+In seguito, tuttavia, il problema del tempo e del male diventano disperatamente urgenti, e non serve a nulla dirci di fuggire e giocare e che capiremo quando saremo più grandi. Il mondo è diventato disordinato, e le domande sono ancora senza risposta.
+
+La risposta manicheana alla domanda sul Diavolo ha il merito di apparire molto ragionevole e di offrire una ragionevole spiegazione dei fenomeni superficiali di questo mondo turbato. Allah, che è buono, non ha fatto il male e non è onnipotente. Ci sono due principi nel mondo, sempre in guerra, e più o meno uguali: Dio, equiparato a Luce e Bene, e l'Arcone, equiparato a Oscurità e Materia. Secondo il mito, i poteri dell'Oscurità attaccarono i poteri della Luce e portarono in cattività il Raggio di Luce o l'Uomo Ideale. Dio contrattaccò e liberò la parte più grande e migliore dell'Uomo, ma lasciò la parte più debole - la *Jesus patibilis* - schiava ai poteri Oscuri, che, da questa parte formarono l'Uomo Mortale. "All'inizio l'uomo fu creato a immagine di Satana, ma conteneva in sé una scintilla della luce celeste, che aspetta la sua liberazione finale separandosi dalle tenebre che lo avvolgono". Secondo questa dottrina, la materia (e quindi il corpo) è del tutto malefica, e la vittoria del bene può essere assicurata solo da un rigoroso ascetismo. Il sacramentalismo non trova posto nella religione di Mani. Si noterà che il trionfo del Bene è tenuto per essere finalmente assicurato; questo sembra essere un presupposto necessario, o perché dovremmo chiamarlo Bene? Questa dottrina spiega ragionevolmente abbastanza per l'inextricabile miscelazione del Bene e del Male nell'Uomo, ma non per l'esistenza del Male stesso. Il bambino potrebbe continuare a chiedere: Chi ha creato il Diavolo? e anche: Chi ha creato Dio, e come possiamo essere sicuri che Dio vincerà alla fine?
+
+Un'altra teoria è che il Male non ha un'esistenza positiva, ma è solo una privazione del Bene. Il diavolo è una negazione . Questo è confuso e difficile, ma molto più in armonia con il sentimento occidentale che con la teoria contraria dei buddisti, che il bene supremo è il raggiungimento del nulla; quest'ultimo porta anche a un modo di vita totalmente asceta e a una condanna del corpo materiale.
+
+Infine, c'è la dottrina secondo cui la divinità suprema non è né buona né cattiva, ma "oltre il bene e il male".
+
+Questo non è il posto per esaminare tutte queste teorie in base ai loro meriti. Possiamo, tuttavia, vedere se possiamo trovare nella nostra analogia letteraria qualcosa che possa far luce sulla natura del Male.
+
+Anche qui, dobbiamo dare un avvertimento all'inizio. "Il male", per il nostro scopo, non deve essere considerato come un male morale. Il creatore umano, vivendo e camminando all'interno di un universo in cui il Male (qualunque esso sia) fa parte della natura delle cose, è obbligato a prendere sia il Bene che il Male come parte della sua Idea. Sono il mezzo con cui lavora. Possiamo considerare solo il tipo speciale di Male che può apparire in relazione al suo particolare atto di creazione, il tipo che è brevemente riassunto nell'espressione "Bad Art". Nella scelta delle parole, ad esempio, la parola "giusta" non sarà la parola moralmente edificante, ma la parola che "giustamente" incarna la sua Idea, che l'idea stessa sia moralmente buona, cattiva o "oltre il bene e il male". Per lui, impegnato nel suo atto creativo, "bene" è buona artigianato, "bellezza" è bellezza artistica, e "verità" è verità strutturale. Non dobbiamo confondere le nostre menti, lasciando che la nostra analogia si estuda al di fuori dei suoi termini di riferimento.
+
+Ricorderemo anche che non stiamo, per il momento, discutendo cosa succede a un cattivo scrittore. Un cattivo scrittore è così chiaramente l'autore della cattiveria nei suoi libri che il punto non ha quasi bisogno di essere fatto. Se il Creatore del mondo è malvagio, allora non siamo obbligati a pensare risposte difficili alla domanda: "Chi ha creato il Diavolo?" La difficoltà sorge solo quando diciamo: "Dio ha creato tutto e Dio è buono: allora da dove è venuto il Male?" C'è, dunque, nei termini della nostra analogia, alcun senso in cui possiamo dire che un buon scrittore è il creatore del male artistico - o dell'"errore" artistico?
+
+È qui che ci troviamo ad affrontare una serie di speculazioni affascinanti sul "on kai me on" - essere e non essere. E' molto bene che il Faustus di Marlowe esclami impazientemente: "Bid oncaymeon fare farewell" - la mente curiosa trova molto difficile dire addio a questo argomento intrigante. "Essere" possiamo fare un cambiamento per capire, ma cosa è "non essere"? Se ci proponiamo di "pensare a nulla", ci troviamo impegnati in un esercizio molto difficile. Sembra che non sia esattamente la stessa cosa di "non pensare a nulla". "Nulla" sembra rimanere soltanto nulla finché ci asteniamo dal pensarci; ogni pensiero attivo è propenso a trasformarlo in una "sorta di qualcosa"- acquisisce, infatti, proprio quel vagho e inquietante tipo di realtà che siamo abituati ad associare ai segni meno nell'algebra. Il professore Eddington ci ha posto il problema in modo chiaro nella domanda enigmatica: "È il buco del barile?" dipende, come dice, da ciò che si intende con "parte"; può anche dipendere, in una certa misura, da ciò che si intende con "barrile". E' qui che ci impigliamo sulla definizione del male come la "privazione del bene"; dobbiamo spiegare a noi stessi perché questo concetto totalmente negativo assume l'aspetto di un fenomeno molto positivo e attivo.
+
+"Ha creato il mondo dal nulla" - niente esisteva prima che fosse fatto; cioè, colloquialmente parlando, facile. È meno facile se si presenta sotto forma: prima della creazione di qualcosa, il nulla esisteva. La coscienza del nulla raggiunge nella mente di alcuni filosofi un aspetto della realtà così convincente, che gli attribuiscono qualità e un modo di esistenza. Berdyaev trova nel nulla che precede la creazione l'origine e la dimora della libertà, compresa la libertà di volontà.
+
+Il mondo e il centro del mondo-uomo, è la creazione di Dio attraverso la Saggezza, attraverso le Idee Divine, e allo stesso tempo è il figlio della libertà non creata meonica, il figlio dell'infinito non-essere. L'elemento della libertà non proviene da Dio Padre, perché è stato prima dell'esistenza. . . . La libertà infinita che nasce dal non essere entrò nel mondo creato, consenta l'atto della creazione.
+
+E aggiunge:
+
+Se pensiamo profondamente e coerentemente siamo costretti a identificare il male con il non essere e ad ammettere il suo significato positivo. Il male è un ritorno al non essere, un rifiuto del mondo, e allo stesso tempo ha un significato positivo perché richiama come reazione contro se stesso il potere creativo supremo del bene.
+
+La frase di tutto questo che è sconcertante è, penso, quella che afferma che la libertà meonica è "prima dell'essere". Se Dio è l'Essere ultimo e assoluto, allora la suggestione non è semplicemente che "nulla è precedente a Dio" (che, nel senso puramente negativo, è un truismo ortodosso), ma che questo nulla è un nulla, con una proprietà propria, vale a dire la Libertà, e un modo di esistenza proprio, vale a dire il Tempo. Perché le parole "prima di" suggeriscono una priorita' nel Tempo. La conclusione sembra essere che ci fu un tempo in cui Dio (che è Essere) non era presente. In un'altra parte, tuttavia, Berdyaev sostiene che Dio esiste nella modalità dell'Eternità, che non ha alcun collegamento con il Tempo.
+
+Il tempo è così intimamente il modo della nostra stessa esistenza che è altrettanto difficile concepire il Tempo separato dall'Essere o l'Essere separato dal Tempo. Forse questo significa che non dovremmo cercare di concepirli separatamente, poiché gli scienziati ci avvertono spesso che le domande che producono risposte senza significato si rivelano di solito essere state domande senza significato. Può essere più feconde considerare il Tempo come parte della creazione, o forse che il Tempo sia necessariamente associato all'Essere in Attività - cioè non con Dio Padre ma con Dio Figlio; con l'Energia e non con l'Idea.
+
+È qui che la nostra analogia può essere utile per noi, dimostrando la curiosa associazione del Non Essere con l'Essere, e l'effetto ancora più curioso che entrambi esercitano sul Tempo. Quello che voglio suggerire è che l'Essere (semplicemente *per* essere) crea il Non-Essere, non solo contemporaneamente nel mondo dello Spazio, ma anche nell'intera estensione del Tempo dietro di esso. Quindi, sebbene, in assenza di Essere, sarebbe insensato dire che il Non Essere precede l'Essere; tuttavia, in presenza dell'Essere quella proposizione diventa sia significativa che vera, perché l'Essere l'ha fatta così. Oppure, per usare la metafora più familiare di tutte, "prima" della luce, non c'era né luce né tenebra; l'oscurità non è tenebra finché la luce non ha reso possibile il concetto di tenebra. Le tenebre non possono dire: "Io precedo la luce che viene", ma c'è un senso in cui la luce può dire: "Le tenebre mi precedevano".
+
+Shakespeare scrive "Hamlet". Questo atto di creazione arricchisce il mondo con una nuova categoria di Essere, vale a dire: *Hamlet* . Ma allo stesso tempo arricchisce il mondo con una nuova categoria di Non-Essere, vale a dire: Non-Hamlet. Tutto l'altro che *Hamlet* , ai confini più lontani dell'universo, acquisisce oltre alle sue caratteristiche precedenti, la caratteristica di essere Non-Hamlet; tutto il passato diventa immediatamente e automaticamente Non-Hamlet.
+
+Ora, in un certo senso, è vero dire che il passato era Non-Hamlet prima che *Hamlet* fosse creato o pensato; è vero, ma è senza significato, poiché a parte *Hamlet* non c'è alcun significato che possiamo possibilmente attribuire al termine Non-Hamlet. C'è senza dubbio un evento, X, nel futuro, in riferimento al quale possiamo dire che siamo attualmente in una categoria di Non-X, ma finché non si verifica X, la categoria di Non-X è priva di realtà. Solo X può dare la realtà a Non-X; cioè, il Non Essere dipende per la sua realtà dall'Essere. In questo modo potremmo vedere vagamente come si possa dire che la creazione del Tempo creò automaticamente un tempo in cui il Tempo non era, e come si possa dire che l'Essere di Dio creò un Non-Essere che non è Dio. Il bunghole è reale come il barile, ma la sua realtà dipende dalla realtà del barile.
+
+Argumentando in base a queste linee, possiamo cercare di affrontare la definizione del Male come la privazione o la negazione del Bene. Se il male appartiene alla categoria del Non Essere, allora seguono due cose. In primo luogo: la realtà del male è contingente alla realtà del bene; e in secondo luogo, il bene, semplicemente accadendo, crea automaticamente e inevitabilmente il suo corrispondente male. In questo senso, dunque, Dio, Creatore di tutte le cose, crea il Male così come il Bene, perché la creazione di una categoria di Bene crea necessariamente una categoria di Non-Bene. Da questo punto di vista, coloro che dicono che Dio è "oltre il Bene e il Male" hanno perfetta ragione: Egli trascende entrambi, perché entrambi sono inclusi nel Suo Essere. Ma il male è solo nel bene di sé. E il male è negare il bene.
+
+Ma non abbiamo ancora finito con l'esempio di Amleto. Finché il Non Essere rimane negativo e inattivo, non produce effetti particolari, dannosi o altrimenti. Ma se non-Hamlet diventa associato alla coscienza e alla volontà, otteniamo qualcosa che non è semplicemente non-Hamlet: otteniamo Anti-Hamlet. Qualcuno è diventato consapevole della sua Non-Hamletness, e questa consapevolezza diventa un centro di volontà e di attività. La volontà creativa, libera e attiva come Dio, è in grado di voler non-essere in essere, e quindi produrre un male che non è più negativo ma positivo. Questo, secondo l'antico mito della Caduta, è quello che è successo agli Uomini. Desideravano essere "come dei, conoscendo il bene e il male". Tommaso d'Aquino conosce il Male "per semplice intelligenza", cioè nella categoria del Non Essere. Ma gli uomini, non essendo puramente intelligenti, ma creati all'interno di un quadro spaziale-temporale, non potevano "conoscere" il Male come Non-Essere - potevano solo "conoscerlo" per esperienza; cioè associando le loro volontà con esso e quindi chiamandolo in Essere attivo. Così la Caduta è stata descritta come la "caduta nella coscienza di sé", e anche come la "caduta nella volontà di sé". E possiamo vedere perché i Manicheani erano in una certa misura giustificati nel collegare il Male alla Materia; non che la Materia in sé sia il Male, ma che sia il mezzo in cui il Male attivo viene sperimentato.
+
+Ancora una volta, la nostra analogia letteraria può essere usata per illustrare questa distinzione tra il Male conosciuto dalla pura intelligenza e il Male conosciuto dall'esperienza.
+
+Il nostro perfetto scrittore è nell'atto di comporre un'opera, chiamiamola la poesia perfetta. A un certo punto di questo atto creativo seleziona la parola "giusta" per un determinato luogo nella poesia. C'è solo una parola che è "morto giusto" in quel luogo per l'espressione perfetta dell'idea. L'atto stesso di scegliere quella parola "giusta", automaticamente e necessariamente rende ogni altra parola nel dizionario una parola "errata". La "errore" non è inerente alle parole stesse - ognuna di esse può essere una parola "giusta" in un altro luogo - la loro "errore" è contingente alla "giustizia" della parola scelta. È il poeta che ha creato il "errore" nell'atto di creare il "giusto". Nel fare un bene che non esisteva prima, ha simultaneamente fatto un male che non esisteva prima. E non c'era modo per lui di fare il bene senza fare anche il male.
+
+Ora, il solo fatto che la scelta della parola "giusta" sia una scelta implica che lo scrittore sia potenzialmente consapevole di tutte le parole sbagliate e di quella giusta. Nell'atto creativo, la sua Energia (consapevole o inconsapevole) passò tutte le possibilità "errate" in esame come accompagnamento della selezione della giusta. Può aver preso immediatamente la parola giusta come se fosse ispirata, o forse ha giocato con un certo numero di persone sbagliate prima di fare la scelta. Non importa cosa abbia fatto, l'Energia deve dare più sudore e passione in alcuni momenti che in altri. Ma potenzialmente e contingentemente, la sua intelligenza "sa" tutte le parole sbagliate. Egli è libero, se vuole, di chiamare tutte o alcune di queste parole sbagliate all'interno della sua poesia, come Allah è libero, se vuole, di chiamare il male all'interno della sua poesia. Ma il poeta perfetto non lo fa, perché la sua volontà è sottomessa alla sua idea, e associarla alla parola sbagliata sarebbe contraria alla legge del suo essere. Egli procede con la sua creazione in una perfetta unità di volontà e di idea, e ecco, è molto buono.
+
+Purtroppo la sua creazione è al sicuro solo dall'interferenza di altre volontà finché rimane nella sua testa. Attraverso la materializzazione della sua poesia, cioè scrivendola e pubblicandola, la sottopone all'impatto delle volontà aliene. Queste volontà aliene possono, se vogliono, diventare attivamente consapevoli di tutte le possibili parole sbagliate e chiamare a essere positivi. Per esempio, possono citare male, interpretare male o alterare deliberatamente la poesia. Questo male dipende dal bene originale del poeta: non si può citare male una poesia che non c'è, e il poeta è (in quel senso) responsabile di tutte le ulteriori mis citazioni del suo lavoro. Ma si può scarsamente ritenerlo colpevole di loro.
+
+Citazioni errate, interpretazioni errate e distorsioni intenzionali producono lo stesso tipo di male in modi diversi. Potremmo pensare che si tratti di reati molto diversi. La cattiva citazione nasce dalla negligenza o dal cattivo ricordo; la cattiva interpretazione dalla mancanza di comprensione; la distorsione deliberata da un intento perverso: possiamo definirle difetti meccanici (o materiali), errori intellettuali e malvagità morale. In realtà, tuttavia, hanno tanto in comune, che tutti derivano dalla circostanza che l'altra persona non è Dio e sta cercando di essere "come Dio". Il poeta (nei termini dell'analogia) è Dio - l'unico Dio di quella particolare creazione. E' l'unico spirito che conosce la propria idea. Se qualcun altro potesse essere il dio della poesia, la sua idea sarebbe identica all'idea del poeta, e la sua energia uscirebbe nella stessa "buona" creazione. Ma poiché questo non è il caso, la nuova volontà è contraria all'idea "di Dio", e associandosi a parole "errate" produce un Erro attivo.
+
+Certo, la nuova volontà può essere piena di ottime intenzioni. Più le intenzioni sono buone, più forte è la volontà di associarsi a esse, e i risultati sono più disastrosi. Dire, con scurdità, "caviare alla folla" invece di "caviare al generale" è un errore fatto quasi senza intenzione, che fa relativamente poco male a *Hamlet* . E' più dannoso per *Hamlet* citare:
+
+più onorato nella violazione che nel rispetto
+
+Come se significasse "più spesso onorato" piuttosto che "più adeguatamente onorato", perché l'idea è più violentemente distorta, e la perdita del Potere è maggiore. Ma infinitamente più dannoso di entrambi per il Potere di *Hamlet* è comportarsi come David Garrick, e riscrivere *Hamlet* deliberatamente allo scopo esplicito di migliorarlo. Questo tipo di aggrappamento all'uguaglianza con Dio fa davvero incredibile danno. Riduce una nobile opera di creazione a sciocchezze; e la scusa che Garrick pensava di averlo trasformato in un gioco migliore aggrava solo la presunzione.
+
+La mente dell'uomo ha sempre apprezzato questa scala ascendente del Male, dal materiale attraverso l'intellettuale al morale. Riconosce che il Male morale è il peggio, perché è associato a più volontà e più coscienza di sé, e di conseguenza a più Potere. Il potere può procedere dal Male, non appena il Male è chiamato in Essere attivo, perché allora torna come se fosse in contatto con Dio, l'essere ultimo e fonte del Potere. Per questa ragione si dice che ogni attività è di Dio - anche attività cattiva. Tale Potenza come l'anti-Hamlet possiede deriva originariamente dal Potere che è in *Hamlet* , senza il quale non potrebbe avere alcun Essere.
+
+Cosa faremo con gli anti-Hamlet? In questo particolare caso possiamo, in una certa misura, controllare il male e impedirgli di fare del male in futuro, anche se il suo record del male passato rimane. Ma c'è un'altra cosa che possiamo fare. Possiamo riscattarlo. Cioè, è possibile prendere il suo potere maligno e trasformarlo in un bene attivo. Possiamo, ad esempio, divertirci bene a ridere di David Garrick. Così facendo, assorbiamo il Male nell'anti-Hamlet e lo trasmutiamo in una forma del Bene completamente nuova. Questo è un atto creativo, ed è l'unico atto che trasformerà il male positivo in bene positivo. Oppure, possiamo usare il terribile esempio di David Garrick per edificare, che è quello che ho cercato di fare qui, nella speranza che questa si rivelerà una buona attività creativa.
+
+Possiamo farlo, solo se rimettiamo a contatto con la grande idea originale che era in *Hamlet* - poiché non possiamo mai vedere quanto sbagliato fosse Garrick finché non ci rendiamo conto di quanto giusto fosse Shakespeare. In questi modi, possiamo (mentre pensiamo ancora che sia un peccato che David Garrick abbia mai messo la penna sulla carta) arricchire il mondo con una bontà sempre più variata di quanto sarebbe stato possibile senza l'interferenza malvagia di David Garrick. Quello che non dobbiamo fare e' fingere che non ci sia mai stato un Garrick, o che le sue attività non fossero del Male. Non dobbiamo, cioè, cercare di comportarci come se la caduta non si fosse mai verificata né ancora dire che la caduta era una cosa buona in sé. Ma possiamo riscattare la Caduta con un atto creativo.
+
+Secondo la dottrina cristiana, questo è il modo in cui Dio si comportava, e l'unico modo in cui possiamo comportarci se vogliamo essere "come dei". La Caduta ebbe luogo e il Male era stato chiamato in esistenza attiva; l'unico modo per trasmutare il Male in Bene era redimerlo attraverso la creazione. Ma, il Male essendo stato sperimentato, poteva essere riscattato solo nel mezzo dell'esperienza, cioè attraverso un'incarnazione in cui l'esperienza era pienamente e liberamente in accordo con l'idea.

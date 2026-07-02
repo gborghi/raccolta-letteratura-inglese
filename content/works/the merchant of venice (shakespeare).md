@@ -42,6 +42,26 @@ tags:
 > [!abstract] 
 > A tragicomedy in which the merchant Antonio borrows from the Jewish moneylender Shylock on a bond of a pound of flesh; it turns on the conflict of justice and mercy, the casket-test courtship of Portia, and the trial scene resolved by Portia disguised as a lawyer.
 
+## Capitoli / Chapters
+
+- [Act I, Scene 1](/testi/shakespeare/plays/the_merchant_of_venice/act_1/scene_1)
+- [Act I, Scene 2](/testi/shakespeare/plays/the_merchant_of_venice/act_1/scene_2)
+- [Act I, Scene 3](/testi/shakespeare/plays/the_merchant_of_venice/act_1/scene_3)
+- [Act II, Scene 2](/testi/shakespeare/plays/the_merchant_of_venice/act_2/scene_2)
+- [Act II, Scene 3](/testi/shakespeare/plays/the_merchant_of_venice/act_2/scene_3)
+- [Act II, Scene 4](/testi/shakespeare/plays/the_merchant_of_venice/act_2/scene_4)
+- [Act II, Scene 5](/testi/shakespeare/plays/the_merchant_of_venice/act_2/scene_5)
+- [Act II, Scene 8](/testi/shakespeare/plays/the_merchant_of_venice/act_2/scene_8)
+- [Act II, Scene 9](/testi/shakespeare/plays/the_merchant_of_venice/act_2/scene_9)
+- [Act III, Scene 1](/testi/shakespeare/plays/the_merchant_of_venice/act_3/scene_1)
+- [Act III, Scene 2](/testi/shakespeare/plays/the_merchant_of_venice/act_3/scene_2)
+- [Act III, Scene 3](/testi/shakespeare/plays/the_merchant_of_venice/act_3/scene_3)
+- [Act III, Scene 4](/testi/shakespeare/plays/the_merchant_of_venice/act_3/scene_4)
+- [Act III, Scene 5](/testi/shakespeare/plays/the_merchant_of_venice/act_3/scene_5)
+- [Act IV, Scene 1](/testi/shakespeare/plays/the_merchant_of_venice/act_4/scene_1)
+- [Act IV, Scene 2](/testi/shakespeare/plays/the_merchant_of_venice/act_4/scene_2)
+- [Act V, Scene 1](/testi/shakespeare/plays/the_merchant_of_venice/act_5/scene_1)
+
 ## Connections
 
 **Topoi:** [[Love as Religion]]

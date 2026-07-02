@@ -21,6 +21,12 @@ tags:
 > [!abstract] 
 > Transcribed public debate (Belloc in the chair) between Chesterton and Shaw on property, socialism vs distributism: Shaw would distribute wealth, Chesterton would distribute power and ownership.
 
+## Capitoli / Chapters
+
+- [Do We Agree?](/testi/chesterton/atomized/debate/story_01_do_we_agree)
+- [Hilaire Belloc](/testi/chesterton/atomized/debate/story_02_hilaire_belloc)
+- [Cecil Palmer](/testi/chesterton/atomized/debate/story_03_cecil_palmer)
+
 ## Connections
 
 **Themes & Concepts:** [[Distributism]], [[Class Conflict]], [[Power and Corruption]], [[Reform]], [[Common Man]], [[Anti-Industrialism]]

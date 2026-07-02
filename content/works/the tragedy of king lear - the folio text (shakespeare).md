@@ -49,6 +49,29 @@ tags:
 > [!abstract] 
 > Shakespeare's great tragedy in blank verse on the aged King Lear who divides his kingdom by flattery, descends into madness and the storm, and is broken by filial ingratitude; central are kingship, the natural order, madness, suffering, and the question of justice in a pitiless world.
 
+## Capitoli / Chapters
+
+- [Act I, Scene 1](/testi/shakespeare/plays/the_tragedy_of_king_lear_folio_text/act_1/scene_1)
+- [Act I, Scene 2](/testi/shakespeare/plays/the_tragedy_of_king_lear_folio_text/act_1/scene_2)
+- [Act I, Scene 3](/testi/shakespeare/plays/the_tragedy_of_king_lear_folio_text/act_1/scene_3)
+- [Act I, Scene 4](/testi/shakespeare/plays/the_tragedy_of_king_lear_folio_text/act_1/scene_4)
+- [Act I, Scene 5](/testi/shakespeare/plays/the_tragedy_of_king_lear_folio_text/act_1/scene_5)
+- [Act II, Scene 1](/testi/shakespeare/plays/the_tragedy_of_king_lear_folio_text/act_2/scene_1)
+- [Act III, Scene 1](/testi/shakespeare/plays/the_tragedy_of_king_lear_folio_text/act_3/scene_1)
+- [Act III, Scene 2](/testi/shakespeare/plays/the_tragedy_of_king_lear_folio_text/act_3/scene_2)
+- [Act III, Scene 3](/testi/shakespeare/plays/the_tragedy_of_king_lear_folio_text/act_3/scene_3)
+- [Act III, Scene 4](/testi/shakespeare/plays/the_tragedy_of_king_lear_folio_text/act_3/scene_4)
+- [Act III, Scene 5](/testi/shakespeare/plays/the_tragedy_of_king_lear_folio_text/act_3/scene_5)
+- [Act III, Scene 6](/testi/shakespeare/plays/the_tragedy_of_king_lear_folio_text/act_3/scene_6)
+- [Act III, Scene 7](/testi/shakespeare/plays/the_tragedy_of_king_lear_folio_text/act_3/scene_7)
+- [Act IV, Scene 1](/testi/shakespeare/plays/the_tragedy_of_king_lear_folio_text/act_4/scene_1)
+- [Act IV, Scene 2](/testi/shakespeare/plays/the_tragedy_of_king_lear_folio_text/act_4/scene_2)
+- [Act IV, Scene 3](/testi/shakespeare/plays/the_tragedy_of_king_lear_folio_text/act_4/scene_3)
+- [Act IV, Scene 4](/testi/shakespeare/plays/the_tragedy_of_king_lear_folio_text/act_4/scene_4)
+- [Act IV, Scene 5](/testi/shakespeare/plays/the_tragedy_of_king_lear_folio_text/act_4/scene_5)
+- [Act V, Scene 2](/testi/shakespeare/plays/the_tragedy_of_king_lear_folio_text/act_5/scene_2)
+- [Act V, Scene 3](/testi/shakespeare/plays/the_tragedy_of_king_lear_folio_text/act_5/scene_3)
+
 ## Connections
 
 **Topoi:** [[World Upside Down]], [[Fortune's Wheel]], [[Seven Ages of Man]]

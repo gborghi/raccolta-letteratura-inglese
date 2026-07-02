@@ -36,6 +36,16 @@ tags:
 > [!abstract] 
 > Despite the filename, this Markdown contains Dickens's 'The Mudfog and Other Sketches' — comic satirical sketches (Mr. Tulrumble of Mudfog, the Mudfog Association for the Advancement of Everything, The Pantomime of Life). Central matter: satire of provincial officialdom, pseudo-scientific learned societies, and the new railway age, in a parodic-journalistic prose form.
 
+## Capitoli / Chapters
+
+- [The Mudfog And Other Sketches](/testi/dickens/atomized/a_childs_history_of_england/story_01_the_mudfog_and_other_sketches)
+- [Great Room, Pig And Tinder-Box.](/testi/dickens/atomized/a_childs_history_of_england/story_02_great_room_pig_and_tinder_box)
+- [Hay-Loft, Original Pig.](/testi/dickens/atomized/a_childs_history_of_england/story_03_hay_loft_original_pig)
+- [Front Parlour, Black Boy And Stomach-Ache.](/testi/dickens/atomized/a_childs_history_of_england/story_04_front_parlour_black_boy_and_stomach_ache)
+- [Large Room, Boot-Jack And Countenance.](/testi/dickens/atomized/a_childs_history_of_england/story_05_large_room_boot_jack_and_countenance)
+- [Bar Room, Black Boy And Stomach-Ache.](/testi/dickens/atomized/a_childs_history_of_england/story_06_bar_room_black_boy_and_stomach_ache)
+- [The Pantomime Of Life](/testi/dickens/atomized/a_childs_history_of_england/story_07_the_pantomime_of_life)
+
 ## Connections
 
 **Topoi:** [[World Upside Down]], [[Theatrum Mundi]]

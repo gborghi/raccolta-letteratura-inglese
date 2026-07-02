@@ -40,6 +40,15 @@ tags:
 > [!abstract] 
 > Dickens's third Christmas Book (1845), a domestic fairy-tale novella in which the chirping hearth-cricket acts as a household guardian spirit; centres on the carrier John Peerybingle, his young wife Dot, a mysterious lodger, and a near-mistaken jealousy resolved into marital fidelity, charity, and festive reconciliation.
 
+## Capitoli / Chapters
+
+- [Introduction](/testi/dickens/atomized/the_cricket_on_the_hearth/story_01_introduction)
+- [The Cricket On The Hearth](/testi/dickens/atomized/the_cricket_on_the_hearth/story_02_the_cricket_on_the_hearth)
+- [The Cricket On The Hearth](/testi/dickens/atomized/the_cricket_on_the_hearth/story_03_the_cricket_on_the_hearth)
+- [Chirp The First](/testi/dickens/atomized/the_cricket_on_the_hearth/story_04_chirp_the_first)
+- [Chirp The Second](/testi/dickens/atomized/the_cricket_on_the_hearth/story_05_chirp_the_second)
+- [Chirp The Third](/testi/dickens/atomized/the_cricket_on_the_hearth/story_06_chirp_the_third)
+
 ## Connections
 
 **Topoi:** [[Locus Amoenus]]

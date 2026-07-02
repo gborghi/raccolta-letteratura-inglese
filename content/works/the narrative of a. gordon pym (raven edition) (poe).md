@@ -34,6 +34,34 @@ tags:
 > [!abstract] 
 > A first-person sea-voyage adventure novel of stowaway, mutiny, shipwreck, starvation, cannibalism and a southward quest ending in an apocalyptic Antarctic vision of a white shrouded figure and a silent cataract.
 
+## Capitoli / Chapters
+
+- [Chapter 1](/testi/poe/atomized/the_narrative_of_a_gordon_pym_raven_edition/chapter_01)
+- [Chapter 2](/testi/poe/atomized/the_narrative_of_a_gordon_pym_raven_edition/chapter_02)
+- [Chapter 3](/testi/poe/atomized/the_narrative_of_a_gordon_pym_raven_edition/chapter_03)
+- [Chapter 4](/testi/poe/atomized/the_narrative_of_a_gordon_pym_raven_edition/chapter_04)
+- [Chapter 5](/testi/poe/atomized/the_narrative_of_a_gordon_pym_raven_edition/chapter_05)
+- [Chapter 6](/testi/poe/atomized/the_narrative_of_a_gordon_pym_raven_edition/chapter_06)
+- [Chapter 7](/testi/poe/atomized/the_narrative_of_a_gordon_pym_raven_edition/chapter_07)
+- [Chapter 8](/testi/poe/atomized/the_narrative_of_a_gordon_pym_raven_edition/chapter_08)
+- [Chapter 9](/testi/poe/atomized/the_narrative_of_a_gordon_pym_raven_edition/chapter_09)
+- [Chapter 10](/testi/poe/atomized/the_narrative_of_a_gordon_pym_raven_edition/chapter_10)
+- [Chapter 11](/testi/poe/atomized/the_narrative_of_a_gordon_pym_raven_edition/chapter_11)
+- [Chapter 12](/testi/poe/atomized/the_narrative_of_a_gordon_pym_raven_edition/chapter_12)
+- [Chapter 13](/testi/poe/atomized/the_narrative_of_a_gordon_pym_raven_edition/chapter_13)
+- [Chapter 14](/testi/poe/atomized/the_narrative_of_a_gordon_pym_raven_edition/chapter_14)
+- [Chapter 15](/testi/poe/atomized/the_narrative_of_a_gordon_pym_raven_edition/chapter_15)
+- [Chapter 16](/testi/poe/atomized/the_narrative_of_a_gordon_pym_raven_edition/chapter_16)
+- [Chapter 17](/testi/poe/atomized/the_narrative_of_a_gordon_pym_raven_edition/chapter_17)
+- [Chapter 18](/testi/poe/atomized/the_narrative_of_a_gordon_pym_raven_edition/chapter_18)
+- [Chapter 19](/testi/poe/atomized/the_narrative_of_a_gordon_pym_raven_edition/chapter_19)
+- [Chapter 20](/testi/poe/atomized/the_narrative_of_a_gordon_pym_raven_edition/chapter_20)
+- [Chapter 21](/testi/poe/atomized/the_narrative_of_a_gordon_pym_raven_edition/chapter_21)
+- [Chapter 22](/testi/poe/atomized/the_narrative_of_a_gordon_pym_raven_edition/chapter_22)
+- [Chapter 23](/testi/poe/atomized/the_narrative_of_a_gordon_pym_raven_edition/chapter_23)
+- [Chapter 24](/testi/poe/atomized/the_narrative_of_a_gordon_pym_raven_edition/chapter_24)
+- [Chapter 25](/testi/poe/atomized/the_narrative_of_a_gordon_pym_raven_edition/chapter_25)
+
 ## Connections
 
 **Topoi:** [[Quest]], [[Night Journey Vision]], [[Katabasis Descent]]

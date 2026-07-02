@@ -40,6 +40,35 @@ tags:
 > [!abstract] 
 > Charlotte Bronte's first novel (written before Jane Eyre, published 1857), the first-person account of William Crimsworth who works his way from trade through teaching in Brussels, falling in love with his pupil-teacher Frances; a sober realist Bildungsroman on self-reliance, work earned by merit, love and self-discipline.
 
+## Capitoli / Chapters
+
+- [Chapter 25](/testi/bronte/atomized/the_professor/chapter_01)
+- [Chapter 1: INTRODUCTORY](/testi/bronte/atomized/the_professor/chapter_02_introductory)
+- [Chapter 2](/testi/bronte/atomized/the_professor/chapter_03)
+- [Chapter 3](/testi/bronte/atomized/the_professor/chapter_04)
+- [Chapter 4](/testi/bronte/atomized/the_professor/chapter_05)
+- [Chapter 5](/testi/bronte/atomized/the_professor/chapter_06)
+- [Chapter 6](/testi/bronte/atomized/the_professor/chapter_07)
+- [Chapter 7](/testi/bronte/atomized/the_professor/chapter_08)
+- [Chapter 8](/testi/bronte/atomized/the_professor/chapter_09)
+- [Chapter 9](/testi/bronte/atomized/the_professor/chapter_10)
+- [Chapter 10](/testi/bronte/atomized/the_professor/chapter_11)
+- [Chapter 11](/testi/bronte/atomized/the_professor/chapter_12)
+- [Chapter 12](/testi/bronte/atomized/the_professor/chapter_13)
+- [Chapter 13](/testi/bronte/atomized/the_professor/chapter_14)
+- [Chapter 14](/testi/bronte/atomized/the_professor/chapter_15)
+- [Chapter 15](/testi/bronte/atomized/the_professor/chapter_16)
+- [Chapter 16](/testi/bronte/atomized/the_professor/chapter_17)
+- [Chapter 17](/testi/bronte/atomized/the_professor/chapter_18)
+- [Chapter 18](/testi/bronte/atomized/the_professor/chapter_19)
+- [Chapter 19](/testi/bronte/atomized/the_professor/chapter_20)
+- [Chapter 20](/testi/bronte/atomized/the_professor/chapter_21)
+- [Chapter 21](/testi/bronte/atomized/the_professor/chapter_22)
+- [Chapter 22](/testi/bronte/atomized/the_professor/chapter_23)
+- [Chapter 23](/testi/bronte/atomized/the_professor/chapter_24)
+- [Chapter 24](/testi/bronte/atomized/the_professor/chapter_25)
+- [Chapter 25](/testi/bronte/atomized/the_professor/chapter_26)
+
 ## Connections
 
 **Archetypes:** [[Self-Made Man]], [[Lover]], [[Outsider]]

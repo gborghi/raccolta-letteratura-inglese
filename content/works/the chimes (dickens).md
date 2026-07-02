@@ -37,6 +37,13 @@ tags:
 > [!abstract] 
 > Dickens's Christmas 'Goblin Story' in which a poor ticket-porter, Trotty Veck, is shown by the spirits of the bells visions of despair and degradation among the poor; central themes are social injustice, poverty, the dignity of the common man, and redemption from despair into hope.
 
+## Capitoli / Chapters
+
+- [Chapter 1: First Quarter](/testi/dickens/atomized/the_chimes/chapter_01_first_quarter)
+- [Chapter 2: The Second Quarter](/testi/dickens/atomized/the_chimes/chapter_02_the_second_quarter)
+- [Chapter 3: Third Quarter](/testi/dickens/atomized/the_chimes/chapter_03_third_quarter)
+- [Chapter 4: Fourth Quarter](/testi/dickens/atomized/the_chimes/chapter_04_fourth_quarter)
+
 ## Connections
 
 **Archetypes:** [[Ghost]]

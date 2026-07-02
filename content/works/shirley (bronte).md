@@ -43,6 +43,46 @@ tags:
 > [!abstract] 
 > Charlotte Bronte's 1849 social-historical novel set in Yorkshire during the Luddite frame-breaking riots of the Napoleonic-war years; through mill-owner Robert Moore and the heiress Shirley Keeldar and Caroline Helstone it treats industrial unrest, the condition and constraint of women, class conflict and love.
 
+## Capitoli / Chapters
+
+- [Chapter 1](/testi/bronte/atomized/shirley/chapter_01)
+- [Chapter 2](/testi/bronte/atomized/shirley/chapter_02)
+- [Chapter 3](/testi/bronte/atomized/shirley/chapter_03)
+- [Chapter 4](/testi/bronte/atomized/shirley/chapter_04)
+- [Chapter 5](/testi/bronte/atomized/shirley/chapter_05)
+- [Chapter 6](/testi/bronte/atomized/shirley/chapter_06)
+- [Chapter 7](/testi/bronte/atomized/shirley/chapter_07)
+- [Chapter 8](/testi/bronte/atomized/shirley/chapter_08)
+- [Chapter 9](/testi/bronte/atomized/shirley/chapter_09)
+- [Chapter 10](/testi/bronte/atomized/shirley/chapter_10)
+- [Chapter 11](/testi/bronte/atomized/shirley/chapter_11)
+- [Chapter 12](/testi/bronte/atomized/shirley/chapter_12)
+- [Chapter 13](/testi/bronte/atomized/shirley/chapter_13)
+- [Chapter 14](/testi/bronte/atomized/shirley/chapter_14)
+- [Chapter 15](/testi/bronte/atomized/shirley/chapter_15)
+- [Chapter 16](/testi/bronte/atomized/shirley/chapter_16)
+- [Chapter 17](/testi/bronte/atomized/shirley/chapter_17)
+- [Chapter 18](/testi/bronte/atomized/shirley/chapter_18)
+- [Chapter 19](/testi/bronte/atomized/shirley/chapter_19)
+- [Chapter 20](/testi/bronte/atomized/shirley/chapter_20)
+- [Chapter 21](/testi/bronte/atomized/shirley/chapter_21)
+- [Chapter 22](/testi/bronte/atomized/shirley/chapter_22)
+- [Chapter 23](/testi/bronte/atomized/shirley/chapter_23)
+- [Chapter 24](/testi/bronte/atomized/shirley/chapter_24)
+- [Chapter 25](/testi/bronte/atomized/shirley/chapter_25)
+- [Chapter 26](/testi/bronte/atomized/shirley/chapter_26)
+- [Chapter 27](/testi/bronte/atomized/shirley/chapter_27)
+- [Chapter 28](/testi/bronte/atomized/shirley/chapter_28)
+- [Chapter 29](/testi/bronte/atomized/shirley/chapter_29)
+- [Chapter 30](/testi/bronte/atomized/shirley/chapter_30)
+- [Chapter 31](/testi/bronte/atomized/shirley/chapter_31)
+- [Chapter 32](/testi/bronte/atomized/shirley/chapter_32)
+- [Chapter 33](/testi/bronte/atomized/shirley/chapter_33)
+- [Chapter 34](/testi/bronte/atomized/shirley/chapter_34)
+- [Chapter 35](/testi/bronte/atomized/shirley/chapter_35)
+- [Chapter 36](/testi/bronte/atomized/shirley/chapter_36)
+- [Chapter 37](/testi/bronte/atomized/shirley/chapter_37)
+
 ## Connections
 
 **Archetypes:** [[Self-Made Man]], [[Rebel]]

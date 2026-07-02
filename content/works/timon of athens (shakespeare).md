@@ -46,6 +46,28 @@ tags:
 > [!abstract] 
 > A bitter, schematic tragedy/satire in which the lavishly generous Timon, abandoned by flattering friends once his wealth fails, turns misanthrope and curses humanity from the wilderness; themes of money, false friendship, ingratitude and misanthropy.
 
+## Capitoli / Chapters
+
+- [Act I, Scene 1](/testi/shakespeare/plays/timon_of_athens/act_1/scene_1)
+- [Act I, Scene 2](/testi/shakespeare/plays/timon_of_athens/act_1/scene_2)
+- [Act II, Scene 1](/testi/shakespeare/plays/timon_of_athens/act_2/scene_1)
+- [Act II, Scene 2](/testi/shakespeare/plays/timon_of_athens/act_2/scene_2)
+- [Act III, Scene 1](/testi/shakespeare/plays/timon_of_athens/act_3/scene_1)
+- [Act III, Scene 2](/testi/shakespeare/plays/timon_of_athens/act_3/scene_2)
+- [Act III, Scene 3](/testi/shakespeare/plays/timon_of_athens/act_3/scene_3)
+- [Act III, Scene 4](/testi/shakespeare/plays/timon_of_athens/act_3/scene_4)
+- [Act III, Scene 5](/testi/shakespeare/plays/timon_of_athens/act_3/scene_5)
+- [Act III, Scene 6](/testi/shakespeare/plays/timon_of_athens/act_3/scene_6)
+- [Act III, Scene 7](/testi/shakespeare/plays/timon_of_athens/act_3/scene_7)
+- [Act IV, Scene 1](/testi/shakespeare/plays/timon_of_athens/act_4/scene_1)
+- [Act IV, Scene 2](/testi/shakespeare/plays/timon_of_athens/act_4/scene_2)
+- [Act IV, Scene 3](/testi/shakespeare/plays/timon_of_athens/act_4/scene_3)
+- [Act V, Scene 1](/testi/shakespeare/plays/timon_of_athens/act_5/scene_1)
+- [Act V, Scene 2](/testi/shakespeare/plays/timon_of_athens/act_5/scene_2)
+- [Act V, Scene 3](/testi/shakespeare/plays/timon_of_athens/act_5/scene_3)
+- [Act V, Scene 4](/testi/shakespeare/plays/timon_of_athens/act_5/scene_4)
+- [Act V, Scene 5](/testi/shakespeare/plays/timon_of_athens/act_5/scene_5)
+
 ## Connections
 
 **Topoi:** [[Fortune's Wheel]], [[Contemptus Mundi]], [[World Upside Down]]

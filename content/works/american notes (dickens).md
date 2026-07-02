@@ -33,6 +33,28 @@ tags:
 > [!abstract] 
 > Dickens's travel book recording his 1842 journey through the United States (and, in this edition, Pictures from Italy), observing American institutions, prisons, factory life, and above all delivering a sustained indictment of slavery. Central matter: travel writing as social observation and reformist satire of institutions, with a strong moral critique of slavery and social injustice.
 
+## Capitoli / Chapters
+
+- [Chapter 18](/testi/dickens/atomized/american_notes/chapter_01)
+- [Chapter 1](/testi/dickens/atomized/american_notes/chapter_02)
+- [Chapter 2](/testi/dickens/atomized/american_notes/chapter_03)
+- [Chapter 3](/testi/dickens/atomized/american_notes/chapter_04)
+- [Chapter 4](/testi/dickens/atomized/american_notes/chapter_05)
+- [Chapter 5](/testi/dickens/atomized/american_notes/chapter_06)
+- [Chapter 6](/testi/dickens/atomized/american_notes/chapter_07)
+- [Chapter 7](/testi/dickens/atomized/american_notes/chapter_08)
+- [Chapter 8](/testi/dickens/atomized/american_notes/chapter_09)
+- [Chapter 9](/testi/dickens/atomized/american_notes/chapter_10)
+- [Chapter 10](/testi/dickens/atomized/american_notes/chapter_11)
+- [Chapter 11](/testi/dickens/atomized/american_notes/chapter_12)
+- [Chapter 12](/testi/dickens/atomized/american_notes/chapter_13)
+- [Chapter 13](/testi/dickens/atomized/american_notes/chapter_14)
+- [Chapter 14](/testi/dickens/atomized/american_notes/chapter_15)
+- [Chapter 15](/testi/dickens/atomized/american_notes/chapter_16)
+- [Chapter 16](/testi/dickens/atomized/american_notes/chapter_17)
+- [Chapter 17](/testi/dickens/atomized/american_notes/chapter_18)
+- [Chapter 18](/testi/dickens/atomized/american_notes/chapter_19)
+
 ## Connections
 
 **Topoi:** [[Open Road Homecoming]]

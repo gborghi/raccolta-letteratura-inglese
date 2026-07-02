@@ -27,6 +27,17 @@ tags:
 > [!abstract] 
 > A long supernatural ballad in which a mariner who kills an albatross suffers a spectral voyage of guilt, penance and reluctant redemption; themes of sin, guilt, the supernatural, providence and the sea.
 
+## Capitoli / Chapters
+
+- [Argument](/testi/coleridge/long/the_rime_of_the_ancient_mariner/section_00_argument)
+- [Part I](/testi/coleridge/long/the_rime_of_the_ancient_mariner/section_01_part_i)
+- [Part II](/testi/coleridge/long/the_rime_of_the_ancient_mariner/section_02_part_ii)
+- [Part III](/testi/coleridge/long/the_rime_of_the_ancient_mariner/section_03_part_iii)
+- [Part IV](/testi/coleridge/long/the_rime_of_the_ancient_mariner/section_04_part_iv)
+- [Part V](/testi/coleridge/long/the_rime_of_the_ancient_mariner/section_05_part_v)
+- [Part VI](/testi/coleridge/long/the_rime_of_the_ancient_mariner/section_06_part_vi)
+- [Part VII](/testi/coleridge/long/the_rime_of_the_ancient_mariner/section_07_part_vii)
+
 ## Connections
 
 **Topoi:** [[Quest]]

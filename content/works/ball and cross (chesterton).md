@@ -46,6 +46,25 @@ tags:
 > [!abstract] 
 > A philosophical adventure novel in which a devout Catholic Highlander (MacIan) and an atheist (Turnbull) try to fight a duel over God's existence while a sceptical, indifferent modern society and the Satanic Professor Lucifer conspire to stop them, ending in an apocalyptic asylum fire; dramatizes faith vs doubt, good vs evil and the modern flight from belief.
 
+## Capitoli / Chapters
+
+- [A Discussion Somewhat in the Air](/testi/chesterton/atomized/ball_and_cross/story_01_a_discussion_somewhat_in_the_air)
+- [The Religion of the Stipendiary Magistrate](/testi/chesterton/atomized/ball_and_cross/story_02_the_religion_of_the_stipendiary_magistra)
+- [Some Old Curiosities](/testi/chesterton/atomized/ball_and_cross/story_03_some_old_curiosities)
+- [The Peacemaker](/testi/chesterton/atomized/ball_and_cross/story_04_the_peacemaker)
+- [The Other Philosopher](/testi/chesterton/atomized/ball_and_cross/story_05_the_other_philosopher)
+- [The Village of Grassley-in-the-Hole](/testi/chesterton/atomized/ball_and_cross/story_06_the_village_of_grassley_in_the_hole)
+- [An Interlude of Argument](/testi/chesterton/atomized/ball_and_cross/story_07_an_interlude_of_argument)
+- [The Strange Lady](/testi/chesterton/atomized/ball_and_cross/story_08_the_strange_lady)
+- [The Swords Rejoined](/testi/chesterton/atomized/ball_and_cross/story_09_the_swords_rejoined)
+- [A Scandal in the Village](/testi/chesterton/atomized/ball_and_cross/story_10_a_scandal_in_the_village)
+- [A Museum of Souls](/testi/chesterton/atomized/ball_and_cross/story_11_a_museum_of_souls)
+- [The Dream of MacIan](/testi/chesterton/atomized/ball_and_cross/story_12_the_dream_of_macian)
+- [The Dream of Turnbull](/testi/chesterton/atomized/ball_and_cross/story_13_the_dream_of_turnbull)
+- [The Idiot](/testi/chesterton/atomized/ball_and_cross/story_14_the_idiot)
+- [The Last Parley](/testi/chesterton/atomized/ball_and_cross/story_15_the_last_parley)
+- [Dies Irae](/testi/chesterton/atomized/ball_and_cross/story_16_dies_irae)
+
 ## Connections
 
 **Topoi:** [[Quest]], [[World Upside Down]], [[Combat Strife]]

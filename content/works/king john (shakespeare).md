@@ -38,6 +38,19 @@ tags:
 > [!abstract] 
 > A history play on the contested reign of King John, dramatizing dynastic legitimacy, political expediency (commodity), the murder of the boy Arthur, and conflict with Rome and France; the bastard Faustconbridge voices its cynical patriotism.
 
+## Capitoli / Chapters
+
+- [Act II, Scene 2](/testi/shakespeare/plays/king_john/act_2/scene_2)
+- [Act III, Scene 2](/testi/shakespeare/plays/king_john/act_3/scene_2)
+- [Act III, Scene 3](/testi/shakespeare/plays/king_john/act_3/scene_3)
+- [Act III, Scene 4](/testi/shakespeare/plays/king_john/act_3/scene_4)
+- [Act IV, Scene 1](/testi/shakespeare/plays/king_john/act_4/scene_1)
+- [Act IV, Scene 3](/testi/shakespeare/plays/king_john/act_4/scene_3)
+- [Act V, Scene 2](/testi/shakespeare/plays/king_john/act_5/scene_2)
+- [Act V, Scene 3](/testi/shakespeare/plays/king_john/act_5/scene_3)
+- [Act V, Scene 6](/testi/shakespeare/plays/king_john/act_5/scene_6)
+- [Act V, Scene 7](/testi/shakespeare/plays/king_john/act_5/scene_7)
+
 ## Connections
 
 **Topoi:** [[Fortune's Wheel]]

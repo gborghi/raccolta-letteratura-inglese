@@ -29,6 +29,28 @@ tags:
 > [!abstract] 
 > An essay arguing that Christianity's break from Paganism lay not in asceticism but in the mystical, paradoxical virtues of faith, hope, charity and humility; the pagan golden age of reason could not be recovered.
 
+## Capitoli / Chapters
+
+- [Introductory Remarks on the Importance of Orthodoxy](/testi/chesterton/atomized/heret12/story_01_introductory_remarks_on_the_importance_o)
+- [On the Negative Spirit](/testi/chesterton/atomized/heret12/story_02_on_the_negative_spirit)
+- [On Mr. Rudyard Kipling and Making the World Small](/testi/chesterton/atomized/heret12/story_03_on_mr_rudyard_kipling_and_making_the_wor)
+- [Mr. Bernard Shaw](/testi/chesterton/atomized/heret12/story_04_mr_bernard_shaw)
+- [Mr. H. G. Wells and the Giants](/testi/chesterton/atomized/heret12/story_05_mr_h_g_wells_and_the_giants)
+- [Omar and the Sacred Vine](/testi/chesterton/atomized/heret12/story_06_omar_and_the_sacred_vine)
+- [The Mildness of the Yellow Press](/testi/chesterton/atomized/heret12/story_07_the_mildness_of_the_yellow_press)
+- [The Moods of Mr. George Moore](/testi/chesterton/atomized/heret12/story_08_the_moods_of_mr_george_moore)
+- [On Sandals and Simplicity](/testi/chesterton/atomized/heret12/story_09_on_sandals_and_simplicity)
+- [Science and the Savages](/testi/chesterton/atomized/heret12/story_10_science_and_the_savages)
+- [Paganism and Mr. Lowes Dickinson](/testi/chesterton/atomized/heret12/story_11_paganism_and_mr_lowes_dickinson)
+- [Celts and Celtophiles](/testi/chesterton/atomized/heret12/story_12_celts_and_celtophiles)
+- [On Certain Modern Writers and the Institution of the Family](/testi/chesterton/atomized/heret12/story_13_on_certain_modern_writers_and_the_instit)
+- [On Smart Novelists and the Smart Set](/testi/chesterton/atomized/heret12/story_14_on_smart_novelists_and_the_smart_set)
+- [On Mr. McCabe and a Divine Frivolity](/testi/chesterton/atomized/heret12/story_15_on_mr_mccabe_and_a_divine_frivolity)
+- [On the Wit of Whistler](/testi/chesterton/atomized/heret12/story_16_on_the_wit_of_whistler)
+- [The Fallacy of the Young Nation](/testi/chesterton/atomized/heret12/story_17_the_fallacy_of_the_young_nation)
+- [Slum Novelists and the Slums](/testi/chesterton/atomized/heret12/story_18_slum_novelists_and_the_slums)
+- [Concluding Remarks on the Importance of Orthodoxy](/testi/chesterton/atomized/heret12/story_19_concluding_remarks_on_the_importance_of)
+
 ## Connections
 
 **Topoi:** [[Golden Age]], [[Paradise Lost]]

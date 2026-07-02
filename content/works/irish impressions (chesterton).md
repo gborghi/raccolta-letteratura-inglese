@@ -25,6 +25,18 @@ tags:
 > [!abstract] 
 > A travel-essay on Ireland during WWI: meditates on Irish nationalism, the Anglo-Irish question, religion, the family and the land, and distributist ideals against industrial England.
 
+## Capitoli / Chapters
+
+- [Two Stones in a Square](/testi/chesterton/atomized/irish_impressions/story_01_two_stones_in_a_square)
+- [The Root of Reality](/testi/chesterton/atomized/irish_impressions/story_02_the_root_of_reality)
+- [The Family and the Feud](/testi/chesterton/atomized/irish_impressions/story_03_the_family_and_the_feud)
+- [The Paradox of Labour](/testi/chesterton/atomized/irish_impressions/story_04_the_paradox_of_labour)
+- [The Englishman in Ireland](/testi/chesterton/atomized/irish_impressions/story_05_the_englishman_in_ireland)
+- [The Mistake of England](/testi/chesterton/atomized/irish_impressions/story_06_the_mistake_of_england)
+- [The Mistake of Ireland](/testi/chesterton/atomized/irish_impressions/story_07_the_mistake_of_ireland)
+- [An Example and a Question](/testi/chesterton/atomized/irish_impressions/story_08_an_example_and_a_question)
+- [Belfast and the Religious Problem](/testi/chesterton/atomized/irish_impressions/story_09_belfast_and_the_religious_problem)
+
 ## Connections
 
 **Themes & Concepts:** [[Nationalism and Patriotism]], [[Distributism]], [[Anti-Industrialism]], [[Social Injustice]], [[War and its Cost]]

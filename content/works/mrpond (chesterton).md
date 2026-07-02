@@ -25,6 +25,14 @@ tags:
 > [!abstract] 
 > A 1937 collection of detective short stories in which the mild civil servant Mr Pond utters seemingly self-contradictory remarks that prove literally true, each unfolding into a mystery of crime, espionage and logical paradox.
 
+## Capitoli / Chapters
+
+- [The Three Horsemen of Apocalypse](/testi/chesterton/atomized/mrpond/story_01_the_three_horsemen_of_apocalypse)
+- [When Doctors Agree](/testi/chesterton/atomized/mrpond/story_02_when_doctors_agree)
+- [Ring of Lovers](/testi/chesterton/atomized/mrpond/story_03_ring_of_lovers_lovers)
+- [A Tall Story](/testi/chesterton/atomized/mrpond/story_04_a_tall_story)
+- [Louis; and shouted as if on parade:](/testi/chesterton/atomized/mrpond/story_05_louis_and_shouted_as_if_on_parade)
+
 ## Connections
 
 **Archetypes:** [[Detective]]

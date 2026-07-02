@@ -34,6 +34,16 @@ tags:
 > [!abstract] 
 > Chesterton's popular biography and apologetic study of St. Thomas Aquinas, presenting Thomism as a philosophy that affirms Creation, reconciles faith and reason through the Aristotelian revolution, and stands against both Manichee pessimism and the later Augustinian-Lutheran revolt.
 
+## Capitoli / Chapters
+
+- [Chapter 1](/testi/chesterton/atomized/aquinas/chapter_01)
+- [Chapter 2](/testi/chesterton/atomized/aquinas/chapter_02)
+- [Chapter 3](/testi/chesterton/atomized/aquinas/chapter_03)
+- [Chapter 4](/testi/chesterton/atomized/aquinas/chapter_04)
+- [Chapter 6](/testi/chesterton/atomized/aquinas/chapter_05)
+- [Chapter 7](/testi/chesterton/atomized/aquinas/chapter_06)
+- [Chapter 8](/testi/chesterton/atomized/aquinas/chapter_07)
+
 ## Connections
 
 **Archetypes:** [[Wise Old Man Sage]], [[Martyr Saint]]

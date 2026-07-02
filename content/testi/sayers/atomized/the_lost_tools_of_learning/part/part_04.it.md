@@ -1,0 +1,37 @@
+---
+title: "Gli strumenti di insegnamento persi (parte 4)"
+lang: it
+author: "Sayers"
+unitType: excerpt
+parentWork: "works/the-lost-tools-of-learning-(sayers)"
+tags:
+  - graph/excerpt
+  - author/Sayers
+---
+
+<div class="sb-langswitch" data-other-lang="en"></div>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Sayers · <a href="/works/the-lost-tools-of-learning-(sayers)">The Lost Tools of Learning</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/sayers/atomized/the_lost_tools_of_learning/part/part_03">‹ part 03</a><a class="ex-next" href="/testi/sayers/atomized/the_lost_tools_of_learning/part/part_05">part 05 ›</a></div>
+</nav>
+
+
+##
+
+possono avere una posizione nello spazio, ma non una estensione. Una analogia potrebbe essere tratta dal pensiero umano, che è altrettanto immateriale e altrettanto limitato. Quindi, se il tuo pensiero è concentrato su una cosa - diciamo, il punto di un ago - si trova lì nel senso che non è altrove; ma anche se è 'ci', non occupa spazio lì, e non c'è nulla che impedisca un numero infinito di pensieri di persone diverse di essere concentrato sullo stesso punto di ago allo stesso tempo. Il soggetto proprio dell'argomento è quindi visto come la distinzione tra la posizione e l'estensione nello spazio; la materia su cui l'argomento è esercitato è la natura degli angeli (anche se, come abbiamo visto, potrebbe essere altrettanto bene stato qualcos'altro); la lezione pratica da trarre dall'argomento è non usare parole come "ci" in modo scivolo e non scientifico, senza specificare se si intende "ci" o "occupare spazio lì".
+
+Perché abbiamo lasciato che i nostri giovani uomini e donne uscissero disarmati, in un giorno in cui l'armatura non era mai così necessaria. Insegnandoli tutti a leggere, li abbiamo lasciati alla mercé della parola stampata. Con l'invenzione del cinema e della radio, abbiamo assicurato che nessuna avversione alla lettura li protegga dalla batteria incessante di parole, parole, parole. Non sanno cosa significano le parole; non sanno come respingerle o abbatterle o rimetterle indietro; sono preda delle parole nelle loro emozioni invece di essere padroni di esse nel loro intelletto. Noi che siamo stati scandalizzati nel 1940 quando uomini sono stati inviati a combattere i carri armati con fucili, non siamo scandalizzati quando giovani uomini e donne sono stati inviati nel mondo per combattere la propaganda di massa con un po' di 'soggetti'; e quando intere classi e nazioni sono state ipnotizzate dalle arti dell'incantesimo, abbiamo l'impudenza di stupirci. Dimostramo il peso dell'istruzione e, solo occasionalmente, una piccola sovvenzione di denaro; postichiamo l'età di abbandono scolastico e pianifichiamo di costruire scuole più grandi e migliori; gli insegnanti si rendono schiavi di coscienza durante e fuori l'orario scolastico, finché la responsabilità non diventa un peso e un incubo; eppure, come credo, tutto questo sforzo dedicato è in gran parte frustrato, perché abbiamo perso gli strumenti di apprendimento, e in loro assenza possiamo solo farne un lavoro rovinato e frammentato.
+
+Cosa dobbiamo fare allora? Non possiamo tornare al Medioevo. Questo è un grido a cui siamo abituati. Non possiamo tornare indietro, o possiamo?
+
+Distinguo . Vorrei definire ogni termine di questa proposizione. 'Ritornare' significa un retrocesso nel tempo, o la revisione di un errore? La prima è chiaramente impossibile per sé; la seconda è una cosa che i saggi fanno ogni giorno. 'Non può' questo significare che il nostro comportamento è determinato da un meccanismo cosmico irreversibile, o semplicemente che tale azione sarebbe molto difficile in considerazione dell'opposizione che provocerebbe? "Il Medioevo" ovviamente il ventesimo secolo non è e non può essere il quattordicesimo; ma se "il Medioevo" è, in questo contesto, semplicemente una frase pittoresca che denota una particolare teoria educativa, non sembra esserci una ragione a priori per cui non dovremmo "tornare" a esso - con modifiche - come abbiamo già "tornato" con modifiche, a, diciamo, l'idea di suonare le opere di Shakespeare come li ha scritti, e non nelle versioni "modernizzate" di Cibber e Garrick, che una volta sembravano essere la cosa più recente nel progresso teatrale.
+
+Diamoci il divertimento immaginando che un tale progressivo retrocesso sia possibile. Facciamo un giro pulito di tutte le autorità educative, e furnitiamoci di una bella piccola scuola di ragazzi e ragazze che possiamo provare sperimentalmente per il conflitto intellettuale lungo le linee scelte da noi stessi. Noi daremo loro genitori eccezionalmente docili; doteremo la nostra scuola di insegnanti che conoscono perfettamente gli obiettivi e i metodi del Trivium; avremo gli edifici e il personale abbastanza grandi da permettere alle nostre classi di essere abbastanza piccole per una gestione adeguata; e postuleremo un Consiglio di Esaminatori disposti e qualificati a testare i prodotti che esaminiamo. Così preparati, cercheremo di disegnare un programma - un moderno Trivium 'con modifiche'; e vedremo dove arriviamo.
+
+Ma prima di tutto: a che età avranno i bambini? Beh, se si vuole educarli su nuove linee, sarà meglio che non abbiano nulla da disimparare; inoltre, non si può iniziare una buona cosa troppo presto, e il Trivium non è per sua natura un apprendimento, ma una preparazione per l'apprendimento. Per questo motivo 'li cattureremo giovani', richiedendo solo ai nostri alunni di saper leggere, scrivere e codificare.
+
+Le mie opinioni sulla psicologia infantile sono, ammetto, né ortodosse né illuminate. Guardando indietro su me stesso (perché sono il bambino che conosco meglio e l'unico bambino che posso fingere di conoscere dall'interno) riconosco in me stesso tre stati di sviluppo. Questi, in modo approssimativo, chiamerò il pappagallo Poll, il Pert e il Poetic - quest'ultimo coincide, approssimativamente, con l'inizio della pubertà. La fase del pappagallo è quella in cui imparare a memoria è facile e, in generale, piacevole, mentre il ragionamento è difficile e, in generale, poco gradito. A quest'età si memorizza facilmente
+
+le forme e l'aspetto delle cose; si piace recitare le targhe delle auto; si rallegra del canto di rime e del rumore e del tuono di poliglodi incomprensibili; si gode del semplice accumulo di cose. L'Età di Pert, che ne segue (e naturalmente si sovrappone in una certa misura), è troppo familiare a tutti coloro che hanno a che fare con i bambini: si caratterizza per la contraddizione, la risposta di ritorno, il gusto di "captare le persone fuori" (specialmente i propri anziani), e la proposizione di enigmi (specialmente quelli con una cattiva cattura verbale in essi). Il suo valore di fastidio è estremamente elevato. Di solito si trova intorno alla Quarta Inferiore. L'età poetica è conosciuta come l'età 'difficile'. È egocentrico; desidera esprimersi; si specializza piuttosto nel non essere compreso; è inquieto e cerca di raggiungere l'indipendenza; e, con buona fortuna e buona guida, dovrebbe mostrare le origini della creatività, una ricerca verso una sintesi di ciò che già sa, e una volontà deliberata di conoscere e fare una cosa in preferenza a tutte le altre. Ora mi sembra che il layout del Trivium si adatti con una singolare appropriatezza a queste tre epoche: Gramatica per il pappagallo, Dialettica per il Pert e Retorica per l'età poetica.

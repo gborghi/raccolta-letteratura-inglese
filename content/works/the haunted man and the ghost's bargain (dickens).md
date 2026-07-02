@@ -48,6 +48,12 @@ tags:
 > [!abstract] 
 > Dickens's last Christmas Book (1848), a supernatural moral allegory in which the chemist Redlaw accepts a phantom double's bargain to forget all sorrow, wrong and trouble, only to spread coldness and lose his humanity until love and memory restore him; themes of memory, grief, redemption and the prayer 'Lord keep my Memory green.'
 
+## Capitoli / Chapters
+
+- [Chapter 1](/testi/dickens/atomized/the_haunted_man_and_the_ghosts_bargain/chapter_01)
+- [Chapter 2](/testi/dickens/atomized/the_haunted_man_and_the_ghosts_bargain/chapter_02)
+- [Chapter 3](/testi/dickens/atomized/the_haunted_man_and_the_ghosts_bargain/chapter_03)
+
 ## Connections
 
 **Topoi:** [[Double]], [[Fall from Innocence]], [[Sleeper Awakes]]

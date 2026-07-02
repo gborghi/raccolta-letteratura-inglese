@@ -44,6 +44,21 @@ tags:
 > [!abstract] 
 > The first collection of Father Brown detective stories (The Blue Cross, The Secret Garden, The Invisible Man, etc.), in which the unassuming priest solves crimes by understanding the human heart and sin, often pitted against the master-thief Flambeau; detective fiction with moral and theological insight.
 
+## Capitoli / Chapters
+
+- [The Blue Cross](/testi/chesterton/atomized/innocence/story_01_the_blue_cross)
+- [The Secret Garden](/testi/chesterton/atomized/innocence/story_02_the_secret_garden)
+- [The Queer Feet](/testi/chesterton/atomized/innocence/story_03_the_queer_feet)
+- [The Flying Stars](/testi/chesterton/atomized/innocence/story_04_the_flying_stars)
+- [The Invisible Man](/testi/chesterton/atomized/innocence/story_05_the_invisible_man)
+- [The Honour of Israel Gow](/testi/chesterton/atomized/innocence/story_06_the_honour_of_israel_gow)
+- [The Wrong Shape](/testi/chesterton/atomized/innocence/story_07_the_wrong_shape)
+- [The Sins of Prince Saradine](/testi/chesterton/atomized/innocence/story_08_the_sins_of_prince_saradine)
+- [The Hammer of God](/testi/chesterton/atomized/innocence/story_09_the_hammer_of_god)
+- [The Eye of Apollo](/testi/chesterton/atomized/innocence/story_10_the_eye_of_apollo)
+- [The Sign of the Broken Sword](/testi/chesterton/atomized/innocence/story_11_the_sign_of_the_broken_sword)
+- [The Three Tools of Death](/testi/chesterton/atomized/innocence/story_12_the_three_tools_of_death)
+
 ## Connections
 
 **Archetypes:** [[Detective]], [[Villain]], [[Trickster]]

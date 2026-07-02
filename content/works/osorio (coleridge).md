@@ -29,6 +29,19 @@ tags:
 > [!abstract] 
 > Coleridge's tragedy (later 'Remorse'), set in Inquisition-era Granada: the villainous brother Osorio plots his returned brother Albert's death to seize his love and lands; a verse tragedy of fratricide, guilt, remorse, revenge and the Inquisition.
 
+## Capitoli / Chapters
+
+- [Act I, Scene 1](/testi/coleridge/plays/osorio/act_1/scene_1)
+- [Act II, Scene 1](/testi/coleridge/plays/osorio/act_2/scene_1)
+- [Act II, Scene 2](/testi/coleridge/plays/osorio/act_2/scene_2)
+- [Act III, Scene 1](/testi/coleridge/plays/osorio/act_3/scene_1)
+- [Act III, Scene 2](/testi/coleridge/plays/osorio/act_3/scene_2)
+- [Act IV, Scene 1](/testi/coleridge/plays/osorio/act_4/scene_1)
+- [Act IV, Scene 2](/testi/coleridge/plays/osorio/act_4/scene_2)
+- [Act IV, Scene 3](/testi/coleridge/plays/osorio/act_4/scene_3)
+- [Act V, Scene 1](/testi/coleridge/plays/osorio/act_5/scene_1)
+- [Act V, Scene 2](/testi/coleridge/plays/osorio/act_5/scene_2)
+
 ## Connections
 
 **Archetypes:** [[Villain]], [[Avenger]]

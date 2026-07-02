@@ -37,6 +37,12 @@ tags:
 > [!abstract] 
 > A 1911 collection of whimsical familiar essays built on paradox, defending the ordinary, the English countryside and 'Merry England' against industrialism, plutocracy and the cult of progress, with recurrent imagery of grey weather, gargoyles, and the legend of King Alfred at Ethandune; central concerns are anti-industrialism, paradox, the common man, and the critique of progress.
 
+## Capitoli / Chapters
+
+- [Chapter 1](/testi/chesterton/atomized/alarms_and_discursions/chapter_01)
+- [Chapter 2](/testi/chesterton/atomized/alarms_and_discursions/chapter_02)
+- [Chapter 3](/testi/chesterton/atomized/alarms_and_discursions/chapter_03)
+
 ## Connections
 
 **Topoi:** [[Beatus Ille (Happy the Man Rural Retreat)]], [[Golden Age]]

@@ -35,6 +35,50 @@ tags:
 > [!abstract] 
 > Dickens's early collection of sketches and tales of London everyday life and people; its centre is the comic, satirical and sympathetic observation of the city, its streets, characters, and social types.
 
+## Capitoli / Chapters
+
+- [Preface](/testi/dickens/atomized/sketches_by_boz/story_01_preface)
+- [Our Parish](/testi/dickens/atomized/sketches_by_boz/story_02_our_parish)
+- [Mr Bung’S Narrative](/testi/dickens/atomized/sketches_by_boz/story_03_mr_bungs_narrative)
+- [Scenes](/testi/dickens/atomized/sketches_by_boz/story_04_scenes)
+- [Characters](/testi/dickens/atomized/sketches_by_boz/story_05_characters)
+- [Tales](/testi/dickens/atomized/sketches_by_boz/story_06_tales)
+- [Chapter I.](/testi/dickens/atomized/sketches_by_boz/story_07_chapter_i)
+- [Chapter The Second.](/testi/dickens/atomized/sketches_by_boz/story_08_chapter_the_second)
+- [Chapter The First](/testi/dickens/atomized/sketches_by_boz/story_09_chapter_the_first)
+- [Chapter The Second](/testi/dickens/atomized/sketches_by_boz/story_10_chapter_the_second)
+- [Sketches Of Young Gentlemen](/testi/dickens/atomized/sketches_by_boz/story_11_sketches_of_young_gentlemen)
+- [The Bashful Young Gentleman](/testi/dickens/atomized/sketches_by_boz/story_12_the_bashful_young_gentleman)
+- [The Out-And-Out Young Gentleman](/testi/dickens/atomized/sketches_by_boz/story_13_the_out_and_out_young_gentleman)
+- [The Very Friendly Young Gentleman](/testi/dickens/atomized/sketches_by_boz/story_14_the_very_friendly_young_gentleman)
+- [The Military Young Gentleman](/testi/dickens/atomized/sketches_by_boz/story_15_the_military_young_gentleman)
+- [The Political Young Gentleman](/testi/dickens/atomized/sketches_by_boz/story_16_the_political_young_gentleman)
+- [The Domestic Young Gentleman](/testi/dickens/atomized/sketches_by_boz/story_17_the_domestic_young_gentleman)
+- [The Censorious Young Gentleman](/testi/dickens/atomized/sketches_by_boz/story_18_the_censorious_young_gentleman)
+- [The Funny Young Gentleman](/testi/dickens/atomized/sketches_by_boz/story_19_the_funny_young_gentleman)
+- [The Theatrical Young Gentleman](/testi/dickens/atomized/sketches_by_boz/story_20_the_theatrical_young_gentleman)
+- [The Poetical Young Gentleman](/testi/dickens/atomized/sketches_by_boz/story_21_the_poetical_young_gentleman)
+- [The Young Ladies’ Young Gentleman](/testi/dickens/atomized/sketches_by_boz/story_22_the_young_ladies_young_gentleman)
+- [Conclusion](/testi/dickens/atomized/sketches_by_boz/story_23_conclusion)
+- [Sketches Of Young Couples](/testi/dickens/atomized/sketches_by_boz/story_24_sketches_of_young_couples)
+- [The Young Couple](/testi/dickens/atomized/sketches_by_boz/story_25_the_young_couple)
+- [The Formal Couple](/testi/dickens/atomized/sketches_by_boz/story_26_the_formal_couple)
+- [The Loving Couple](/testi/dickens/atomized/sketches_by_boz/story_27_the_loving_couple)
+- [The Contradictory Couple](/testi/dickens/atomized/sketches_by_boz/story_28_the_contradictory_couple)
+- [The Couple Who Dote Upon Their Children](/testi/dickens/atomized/sketches_by_boz/story_29_the_couple_who_dote_upon_their_children)
+- [The Cool Couple](/testi/dickens/atomized/sketches_by_boz/story_30_the_cool_couple)
+- [The Plausible Couple](/testi/dickens/atomized/sketches_by_boz/story_31_the_plausible_couple)
+- [The Nice Little Couple](/testi/dickens/atomized/sketches_by_boz/story_32_the_nice_little_couple)
+- [The Egotistical Couple](/testi/dickens/atomized/sketches_by_boz/story_33_the_egotistical_couple)
+- [The Couple Who Coddle Themselves](/testi/dickens/atomized/sketches_by_boz/story_34_the_couple_who_coddle_themselves)
+- [The Old Couple](/testi/dickens/atomized/sketches_by_boz/story_35_the_old_couple)
+- [Conclusion](/testi/dickens/atomized/sketches_by_boz/story_36_conclusion)
+- [The Mudfog And Other Sketches](/testi/dickens/atomized/sketches_by_boz/story_37_the_mudfog_and_other_sketches)
+- [7,943](/testi/dickens/atomized/sketches_by_boz/story_38_7_943)
+- [2,845](/testi/dickens/atomized/sketches_by_boz/story_39_2_845)
+- [21,407](/testi/dickens/atomized/sketches_by_boz/story_40_21_407)
+- [The Pantomime Of Life](/testi/dickens/atomized/sketches_by_boz/story_41_the_pantomime_of_life)
+
 ## Connections
 
 **Archetypes:** [[Self-Made Man]], [[Fool]]

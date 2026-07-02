@@ -22,6 +22,18 @@ tags:
 > [!abstract] 
 > Book-length polemic defending the permanence of the marriage vow as the foundation of the free family and a bulwark against slavery, attacking divorce as a plutocratic superstition.
 
+## Capitoli / Chapters
+
+- [Chapter 1](/testi/chesterton/atomized/divorce/chapter_01)
+- [Chapter 2](/testi/chesterton/atomized/divorce/chapter_02)
+- [Chapter 3](/testi/chesterton/atomized/divorce/chapter_03)
+- [Chapter 4](/testi/chesterton/atomized/divorce/chapter_04)
+- [Chapter 5](/testi/chesterton/atomized/divorce/chapter_05)
+- [Chapter 6](/testi/chesterton/atomized/divorce/chapter_06)
+- [Chapter 7](/testi/chesterton/atomized/divorce/chapter_07)
+- [Chapter 8](/testi/chesterton/atomized/divorce/chapter_08)
+- [Chapter 9](/testi/chesterton/atomized/divorce/chapter_09)
+
 ## Connections
 
 **Motifs:** [[Marriage]]

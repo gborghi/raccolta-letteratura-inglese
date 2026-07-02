@@ -54,6 +54,30 @@ tags:
 > [!abstract] 
 > Gothic novel of aestheticism in which a Faustian wish keeps Dorian beautiful while a hidden portrait bears the corruption of his soul, exploring beauty, sin, the double, and conscience.
 
+## Capitoli / Chapters
+
+- [Chapter 20](/testi/wilde/atomized/009_the_picture_of_dorian_gray/chapter_01)
+- [Chapter 1](/testi/wilde/atomized/009_the_picture_of_dorian_gray/chapter_02)
+- [Chapter 2](/testi/wilde/atomized/009_the_picture_of_dorian_gray/chapter_03)
+- [Chapter 3](/testi/wilde/atomized/009_the_picture_of_dorian_gray/chapter_04)
+- [Chapter 4](/testi/wilde/atomized/009_the_picture_of_dorian_gray/chapter_05)
+- [Chapter 5](/testi/wilde/atomized/009_the_picture_of_dorian_gray/chapter_06)
+- [Chapter 6](/testi/wilde/atomized/009_the_picture_of_dorian_gray/chapter_07)
+- [Chapter 7](/testi/wilde/atomized/009_the_picture_of_dorian_gray/chapter_08)
+- [Chapter 8](/testi/wilde/atomized/009_the_picture_of_dorian_gray/chapter_09)
+- [Chapter 9](/testi/wilde/atomized/009_the_picture_of_dorian_gray/chapter_10)
+- [Chapter 10](/testi/wilde/atomized/009_the_picture_of_dorian_gray/chapter_11)
+- [Chapter 11](/testi/wilde/atomized/009_the_picture_of_dorian_gray/chapter_12)
+- [Chapter 12](/testi/wilde/atomized/009_the_picture_of_dorian_gray/chapter_13)
+- [Chapter 13](/testi/wilde/atomized/009_the_picture_of_dorian_gray/chapter_14)
+- [Chapter 14](/testi/wilde/atomized/009_the_picture_of_dorian_gray/chapter_15)
+- [Chapter 15](/testi/wilde/atomized/009_the_picture_of_dorian_gray/chapter_16)
+- [Chapter 16](/testi/wilde/atomized/009_the_picture_of_dorian_gray/chapter_17)
+- [Chapter 17](/testi/wilde/atomized/009_the_picture_of_dorian_gray/chapter_18)
+- [Chapter 18](/testi/wilde/atomized/009_the_picture_of_dorian_gray/chapter_19)
+- [Chapter 19](/testi/wilde/atomized/009_the_picture_of_dorian_gray/chapter_20)
+- [Chapter 20](/testi/wilde/atomized/009_the_picture_of_dorian_gray/chapter_21)
+
 ## Connections
 
 **Topoi:** [[Double]], [[Fall from Innocence]], [[Carpe Diem]], [[Vanitas]], [[Paradise Lost]]

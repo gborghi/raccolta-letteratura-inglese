@@ -8,6 +8,8 @@ tags:
   - author/Sayers
 ---
 
+<div class="sb-langswitch" data-other-lang="it"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Sayers · <a href="/works/the-mind-of-the-maker-(sayers)">The Mind of the Maker</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/sayers/atomized/the_mind_of_the_maker/chapter_12_problem_picture/part_08">‹ part 08</a><a class="ex-next" href="/testi/sayers/atomized/the_mind_of_the_maker/chapter_13_postscript_the_worth_of_the_wo/part_01">part 01 ›</a></div>

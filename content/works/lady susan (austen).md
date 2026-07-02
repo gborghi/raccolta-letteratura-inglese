@@ -34,6 +34,43 @@ tags:
 > [!abstract] 
 > An early epistolary novella whose anti-heroine, the beautiful, scheming widow Lady Susan, manipulates suitors and her own daughter; themes of deception, seduction, marriage as strategy, and feminine cunning.
 
+## Capitoli / Chapters
+
+- [Conclusion](/testi/austen/atomized/lady_susan/story_01_conclusion)
+- [S. Vernon.](/testi/austen/atomized/lady_susan/story_02_s_vernon)
+- [S. Vernon.](/testi/austen/atomized/lady_susan/story_03_s_vernon)
+- [R. De Courcy.](/testi/austen/atomized/lady_susan/story_04_r_de_courcy)
+- [S. Vernon.](/testi/austen/atomized/lady_susan/story_05_s_vernon)
+- [S. Vernon.](/testi/austen/atomized/lady_susan/story_06_s_vernon)
+- [Alicia.](/testi/austen/atomized/lady_susan/story_07_alicia)
+- [S. Vernon.](/testi/austen/atomized/lady_susan/story_08_s_vernon)
+- [C. De Courcy.](/testi/austen/atomized/lady_susan/story_09_c_de_courcy)
+- [R. De Courcy.](/testi/austen/atomized/lady_susan/story_10_r_de_courcy)
+- [S. Vernon.](/testi/austen/atomized/lady_susan/story_11_s_vernon)
+- [C. Vernon](/testi/austen/atomized/lady_susan/story_12_c_vernon)
+- [S. Vernon.](/testi/austen/atomized/lady_susan/story_13_s_vernon)
+- [C. Vernon.](/testi/austen/atomized/lady_susan/story_14_c_vernon)
+- [F. S. V.](/testi/austen/atomized/lady_susan/story_15_f_s_v)
+- [S. Vernon.](/testi/austen/atomized/lady_susan/story_16_s_vernon)
+- [Cath. Vernon.](/testi/austen/atomized/lady_susan/story_17_cath_vernon)
+- [S. Vernon.](/testi/austen/atomized/lady_susan/story_18_s_vernon)
+- [Alicia.](/testi/austen/atomized/lady_susan/story_19_alicia)
+- [C. Vernon.](/testi/austen/atomized/lady_susan/story_20_c_vernon)
+- [Alicia.](/testi/austen/atomized/lady_susan/story_21_alicia)
+- [S. Vernon.](/testi/austen/atomized/lady_susan/story_22_s_vernon)
+- [S. Vernon](/testi/austen/atomized/lady_susan/story_23_s_vernon)
+- [S. Vernon.](/testi/austen/atomized/lady_susan/story_24_s_vernon)
+- [Alicia.](/testi/austen/atomized/lady_susan/story_25_alicia)
+- [S. V.](/testi/austen/atomized/lady_susan/story_26_s_v)
+- [R. De Courcy.](/testi/austen/atomized/lady_susan/story_27_r_de_courcy)
+- [S. V.](/testi/austen/atomized/lady_susan/story_28_s_v)
+- [R. De Courcy.](/testi/austen/atomized/lady_susan/story_29_r_de_courcy)
+- [S. V.](/testi/austen/atomized/lady_susan/story_30_s_v)
+- [Alicia.](/testi/austen/atomized/lady_susan/story_31_alicia)
+- [S. Vernon](/testi/austen/atomized/lady_susan/story_32_s_vernon)
+- [C. De Courcy.](/testi/austen/atomized/lady_susan/story_33_c_de_courcy)
+- [C. Vernon.](/testi/austen/atomized/lady_susan/story_34_c_vernon)
+
 ## Connections
 
 **Archetypes:** [[Femme Fatale]], [[Temptress]]

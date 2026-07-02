@@ -1,0 +1,35 @@
+---
+title: "La mente del Creatore  Capitolo 12: Immagine del problema (parte 3)"
+lang: it
+author: "Sayers"
+unitType: excerpt
+parentWork: "works/the-mind-of-the-maker-(sayers)"
+tags:
+  - graph/excerpt
+  - author/Sayers
+---
+
+<div class="sb-langswitch" data-other-lang="en"></div>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Sayers · <a href="/works/the-mind-of-the-maker-(sayers)">The Mind of the Maker</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/sayers/atomized/the_mind_of_the_maker/chapter_12_problem_picture/part_02">‹ part 02</a><a class="ex-next" href="/testi/sayers/atomized/the_mind_of_the_maker/chapter_12_problem_picture/part_04">part 04 ›</a></div>
+</nav>
+
+
+Eppure l'uomo comune, ossessionato dalla pratica di un periodo matematico e scientifico, è tuttavia oscuramente consapevole che quella figura enigmatica, l'artista creativo, possiede un certo potere di interpretazione che non ha, un certo accesso alle cose nascoste dietro quella sconcertante cortina di fenomeni che non può penetrare. A volte egli semplicemente si offende a questo, come spesso gli uomini si offendono a una superiorità inspiegabile e incomunicabile. A volte lo respinge: "E' un sognatore; lasciamola. Ma in altri momenti, soprattutto quando le disarmonie dell'esistenza contemporanea si costringono alla sua attenzione con un'urgenza che non può essere ignorata, egli afferra l'artista e chiede di essere lasciato nel suo segreto. "Ecco, tu!" griderà, "hai qualche trucco, qualche password, qualche formula magica che sblocca il puzzle dell'universo. Applicaci. Dacci la soluzione ai problemi della civiltà".
+
+Questo, sebbene giustificabile, è a malapena giusto, poiché l'artista non vede la vita come un problema da risolvere, ma come un mezzo per la creazione. Gli viene chiesto di risolvere gli affari dell'uomo comune per lui; ma è ben consapevole che la creazione non risolve nulla. La cosa che è stabilita è finita e morta, e la sua preoccupazione non è con la morte ma con la vita: "che possiate avere la vita e averla in abbondanza". È vero che l'artista può, sulla base della sua esperienza, raccontare molto all'uomo comune dell'adempimento della natura dell'uomo nella vita; ma può produrre il tipo di risposta più insoddisfacente solo se gli viene persistentemente posta la domanda sbagliata. E, come ho sostenuto (forse con un po' di ardore) nella mia prefazione, l'incapacità di porre la domanda giusta è cresciuta, nel nostro tempo e nel nostro paese, alle proporzioni di una malattia endemica.
+
+Il desiderio di essere convinti che tutta l'esperienza umana possa essere presentata in termini di un problema che abbia una soluzione prevedibile, definitiva, completa e unica possibile spiega, in gran parte, la popolarità straordinaria della detective fiction. Questo, riteniamo, sia il concetto di vita che vogliamo che l'artista ci mostri. È significativo che i lettori accogliano così spesso la storia del detective come una via d'uscita dai problemi dell'esistenza. "Le toglie la mente dai loro problemi". Naturalmente lo fa, perché li convince dolcemente che l'amore e l'odio, la povertà e la disoccupazione, le finanze e la politica internazionale, sono problemi, capaci di essere affrontati e risolti nello stesso modo della Morte nella Biblioteca. La bella finalità con cui il sipario si abbatte alla fine dell'indagine nasconde dal lettore che nessuna parte del "problema" è stata "risolta" * tranne quella che è stata presentata in termini problematici* . Il motivo dell'assassino è stato rilevato, ma non è stato detto nulla sulla guarigione della sua anima assassina. Infatti, una grande necessità tecnica della scrittura è quella di impedire che questo aspetto della questione si presenti mai alla mente del lettore. (Perché se sappiamo troppo in anticipo dell'anima dell'assassino, anticiperemo la soluzione, e se simpatizziamo troppo con lui dopo la scoperta, risentiremo della sua esposizione e della sua condanna. Se non si può evitare la simpatia, l'autore è in difficoltà, o per lasciare fuggire il criminale, o per organizzare il suo suicidio, e quindi trasferire l'intero inconsueto affare ad un tribunale superiore, le cui decisioni non sono pubblicate apertamente.)
+
+Poiché, come ho già spiegato, conosco meglio le mie opere che quelle di altri, permettimi di illustrare questo punto dal romanzo *Gaudy Night* . Questo contiene tre problemi paralleli, uno risolto, uno parzialmente risolto e il terzo insolubile. Tutti e tre sono legati allo stesso tema, che è l'"idea-padre" del libro.
+
+Il primo problema è presentato in termini puramente problematici: "Chi ha causato i disturbi al Shrewsbury College, e perché?" Questo è risolto, nei termini in cui è stato stabilito, dalla risposta prevedibile, definitiva, completa e unica possibile: "Il colpevole era la cameriera Annie; e il suo motivo era la vendetta per un atto di giustizia svolto contro suo marito da una certa donna accademica nell'interesse dell'integrità professionale".
+
+Il secondo "problema" non è affatto un problema: si tratta di una perplessità umana: "Come possono Peter e Harriet recuperare la loro relazione da una falsa situazione emotiva in cui è stata costretta da una serie di difetti da entrambe le parti?" Qui, mediante un esercizio da entrambe le parti di una stretta integrità intellettuale, la situazione è così modificata che si permette loro di entrare in una nuova relazione, presentando nuove situazioni con la prospettiva di ulteriori errori e incomprensioni. Questa "soluzione" non è né definitiva né completa; e sebbene sia sia prevedibile e necessaria sotto la legge della natura del libro come struttura artistica, non è né in quanto riguarda la legge generale della natura.
+
+Il terzo "problema" (se ci piace chiamarlo così) viene presentato, sia al lettore che alla donna accademica che ha compiuto l'atto di giustizia contro il marito di Annie, in termini di confronto di valori: l'integrità professionale è così importante che la sua conservazione deve superare ogni considerazione delle conseguenze emotive e materiali? A questo problema morale non viene offerta alcuna soluzione, tranne in termini di situazione e carattere. L'argomento di entrambe le parti è presentato; ma il giudizio è pronunciato solo nella forma: ecco questa vita e quella vita, questi standard e quelle norme, queste persone e quelle persone, bloccate in un conflitto che non può che essere catastrofico. Dovunque si arricchisca la qualità dell'esperienza, c'è la vita. L'unico giudizio che questo libro può offrirti è il libro stesso.
+
+La qualità arricchente (e anche catastrofica) dell'integrità è quindi il padre-idea del libro, fornendo la meccanica del problema detective, il catalizzatore che precipita l'instabilità della situazione emotiva, e anche un tema che unisce il microcosmo del libro al macrocosmo dell'universo. Ho trattato questa storia con una lunghezza piuttosto egoistica a causa di una critica fatta da un lettore intelligente, anche uno scrittore di detective fiction. E lui disse:

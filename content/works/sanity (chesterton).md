@@ -22,6 +22,26 @@ tags:
 > [!abstract] 
 > Chesterton's central Distributist treatise arguing for widely-distributed private property against both Capitalist monopoly and Socialism, attacking big business, machinery and the distrust of the common man.
 
+## Capitoli / Chapters
+
+- [SOME GENERAL IDEAS--](/testi/chesterton/atomized/sanity/story_01_some_general_ideas)
+- [THE PERIL OF THE HOUR](/testi/chesterton/atomized/sanity/story_02_the_peril_of_the_hour)
+- [ON A SENSE OF PROPORTION](/testi/chesterton/atomized/sanity/story_03_on_a_sense_of_proportion)
+- [SOME ASPECTS OF BIG BUSINESS--](/testi/chesterton/atomized/sanity/story_04_some_aspects_of_big_business)
+- [A MISUNDERSTANDING ABOUT METHOD](/testi/chesterton/atomized/sanity/story_05_a_misunderstanding_about_method)
+- [SOME ASPECTS OF THE LAND--](/testi/chesterton/atomized/sanity/story_06_some_aspects_of_the_land)
+- [THE SIMPLE TRUTH](/testi/chesterton/atomized/sanity/story_07_the_simple_truth_truth)
+- [VOWS AND VOLUNTEERS](/testi/chesterton/atomized/sanity/story_08_vows_and_volunteers)
+- [THE REAL LIFE ON THE LAND](/testi/chesterton/atomized/sanity/story_09_the_real_life_on_the_land)
+- [SOME ASPECTS OF MACHINERY--](/testi/chesterton/atomized/sanity/story_10_some_aspects_of_machinery)
+- [THE WHEEL OF FATE](/testi/chesterton/atomized/sanity/story_11_the_wheel_wheel_of_fate)
+- [THE ROMANCE OF MACHINERY](/testi/chesterton/atomized/sanity/story_12_the_romance_romance_of_machinery)
+- [THE HOLIDAY OF THE SLAVE](/testi/chesterton/atomized/sanity/story_13_the_holiday_of_the_slave)
+- [THE FREE MAN AND THE FORD CAR](/testi/chesterton/atomized/sanity/story_14_the_free_man_and_the_ford_car)
+- [A NOTE ON EMIGRATION--](/testi/chesterton/atomized/sanity/story_15_a_note_on_emigration)
+- [THE RELIGION OF SMALL PROPERTY](/testi/chesterton/atomized/sanity/story_16_the_religion_of_small_property)
+- [A SUMMARY](/testi/chesterton/atomized/sanity/story_17_a_summary)
+
 ## Connections
 
 **Themes & Concepts:** [[Distributism]], [[Anti-Industrialism]], [[Common Man]], [[Reform]], [[Power and Corruption]], [[Critique of Progress]]

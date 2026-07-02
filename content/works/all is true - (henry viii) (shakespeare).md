@@ -41,6 +41,20 @@ tags:
 > [!abstract] 
 > A late history play (with Fletcher) dramatizing the fall of Buckingham, Wolsey's rise and disgrace, Katherine's repudiation and Anne Boleyn's rise toward Elizabeth's birth; themes are the falls of the great, power and ambition, conscience, and providential history.
 
+## Capitoli / Chapters
+
+- [Act I, Scene 2](/testi/shakespeare/plays/all_is_true_henry_viii/act_1/scene_2)
+- [Act I, Scene 3](/testi/shakespeare/plays/all_is_true_henry_viii/act_1/scene_3)
+- [Act I, Scene 4](/testi/shakespeare/plays/all_is_true_henry_viii/act_1/scene_4)
+- [Act II, Scene 2](/testi/shakespeare/plays/all_is_true_henry_viii/act_2/scene_2)
+- [Act II, Scene 3](/testi/shakespeare/plays/all_is_true_henry_viii/act_2/scene_3)
+- [Act II, Scene 4](/testi/shakespeare/plays/all_is_true_henry_viii/act_2/scene_4)
+- [Act III, Scene 2](/testi/shakespeare/plays/all_is_true_henry_viii/act_3/scene_2)
+- [Act IV, Scene 1](/testi/shakespeare/plays/all_is_true_henry_viii/act_4/scene_1)
+- [Act V, Scene 1](/testi/shakespeare/plays/all_is_true_henry_viii/act_5/scene_1)
+- [Act V, Scene 3](/testi/shakespeare/plays/all_is_true_henry_viii/act_5/scene_3)
+- [Act V, Scene 4](/testi/shakespeare/plays/all_is_true_henry_viii/act_5/scene_4)
+
 ## Connections
 
 **Topoi:** [[Fortune's Wheel]], [[Sic Transit Gloria Mundi]]

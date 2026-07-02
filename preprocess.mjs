@@ -313,10 +313,11 @@ function classifyUnit(relParts, fileName) {
 // Publish all atomized excerpts, play scenes and long-poem sections as pages.
 // Returns { unitHref, excerpts } where unitHref maps "Authors/.../x[.md]" -> slug,
 // and excerpts is the excerpt-level index for the Brani page.
-async function publishUnits(rawSourceToWork) {
+async function publishUnits(rawSourceToWork, translations = new Map(), LANGMARK = () => "") {
   const unitHref = new Map()
   const excerpts = []
   const excerptsKw = {}
+  const workUnits = new Map() // work href -> [{ slug, title, relU }] reading units (TOC)
   let copied = 0
 
   const authors = await fs.readdir(AUTHORS_DIR, { withFileTypes: true })
@@ -383,6 +384,15 @@ async function publishUnits(rawSourceToWork) {
           const { body, title: h1Title } = splitUnit(raw)
           const title = cleanWikilinks(h1Title) || prettyFromFilename(it.fileName)
 
+          // Collect reading units (chapters/scenes/stories/sections — not the
+          // whole-work container nor paragraph fragments) so the parent work page
+          // can render a chapter index. This is the primary way to reach the text
+          // now that the Explorer sidebar is off.
+          if (parentWorkHref && ["chapter", "scene", "story", "section"].includes(it.unitType)) {
+            if (!workUnits.has(parentWorkHref)) workUnits.set(parentWorkHref, [])
+            workUnits.get(parentWorkHref).push({ slug: it.slug, title, relU: it.relU })
+          }
+
           // prev/next within the reading sequence
           let prevHref = "",
             nextHref = "",
@@ -436,7 +446,21 @@ async function publishUnits(rawSourceToWork) {
           const unitRel = `${TESTI_REL}/${author}/${sub}/${it.relU}`.toLowerCase()
           const dest = path.join(CONTENT, unitRel.split("/").join(path.sep))
           await fs.mkdir(path.dirname(dest), { recursive: true })
-          await fs.writeFile(dest, fm + outBody)
+          const tr = translations.get(unitRel)
+          if (tr) {
+            // EN page + toggle marker, and the IT sibling from the translation store.
+            await fs.writeFile(dest, fm + LANGMARK("it") + outBody)
+            const itFm = fm.replace(
+              `title: ${JSON.stringify(title)}`,
+              `title: ${JSON.stringify(tr.title_it || title)}\nlang: it`,
+            )
+            await fs.writeFile(
+              dest.replace(/\.md$/, ".it.md"),
+              itFm + LANGMARK("en") + (tr.body_it || outBody),
+            )
+          } else {
+            await fs.writeFile(dest, fm + outBody)
+          }
           copied++
 
           if (it.unitType !== "work") {
@@ -456,7 +480,7 @@ async function publishUnits(rawSourceToWork) {
       }
     }
   }
-  return { unitHref, excerpts, excerptsKw, copied }
+  return { unitHref, excerpts, excerptsKw, copied, workUnits }
 }
 
 async function main() {
@@ -521,8 +545,26 @@ async function main() {
     }
   }
 
+  // ---- Load precomputed IT translations (data/translations_pages.jsonl) ----
+  // Keyed by lowercased content-relative path. When a page has a translation we
+  // also emit a "<slug>.it.md" sibling and inject a per-page language-toggle
+  // marker into both the EN page and its IT sibling.
+  const translations = new Map()
+  try {
+    const raw = await fs.readFile(path.join(ROOT, "data", "translations_pages.jsonl"), "utf8")
+    for (const ln of raw.split("\n")) {
+      if (!ln.trim()) continue
+      const e = JSON.parse(ln)
+      translations.set(e.rel.toLowerCase(), e)
+    }
+    console.log(`translations: ${translations.size} pages`)
+  } catch (e) {
+    if (e.code !== "ENOENT") throw e
+  }
+  const LANGMARK = (other) => `<div class="sb-langswitch" data-other-lang="${other}"></div>\n\n`
+
   // ---- Publish atomized excerpts / play scenes / long-poem sections ----
-  const { unitHref, excerpts, excerptsKw, copied: unitsCopied } = await publishUnits(rawSourceToWork)
+  const { unitHref, excerpts, excerptsKw, copied: unitsCopied, workUnits } = await publishUnits(rawSourceToWork, translations, LANGMARK)
   await fs.writeFile(
     path.join(ROOT, "quartz", "static", "excerpts.json"),
     JSON.stringify(excerpts),
@@ -578,11 +620,54 @@ async function main() {
       }
     }
 
+    // Chapter index on work pages: with the Explorer sidebar off, this is how a
+    // reader reaches the atomized chapters/scenes/stories from a work. Insert it
+    // before "## Connections" (so: byline, abstract, chapters, connections), else
+    // append. Strip the repeated "<Work> — " prefix from each unit title.
+    let workTocMd = ""
+    if (data.type === "work") {
+      const units = workUnits.get(slugFromRel(rel))
+      if (units && units.length) {
+        const sorted = [...units].sort((a, b) =>
+          a.relU.localeCompare(b.relU, undefined, { numeric: true }))
+        const label = sorted.length > 1 ? "Capitoli / Chapters" : "Testo / Text"
+        workTocMd =
+          `## ${label}\n\n` +
+          sorted
+            .map((u) => {
+              const t = u.title.includes(" — ")
+                ? u.title.slice(u.title.indexOf(" — ") + 3)
+                : u.title
+              return `- [${t}](/${u.slug})`
+            })
+            .join("\n") +
+          "\n\n"
+        newContent = /\n##\s+Connections/.test(newContent)
+          ? newContent.replace(/\n##\s+Connections/, `\n${workTocMd}## Connections`)
+          : newContent.trimEnd() + "\n\n" + workTocMd
+      }
+    }
+
     // Lowercase the output path (v5 link-case fix): pages emit at the file path,
     // and our hrefs are lowercased in sluggify(), so the files must be lowercase too.
     const dest = path.join(CONTENT, rel.toLowerCase())
     await fs.mkdir(path.dirname(dest), { recursive: true })
-    await fs.writeFile(dest, matter.stringify(newContent, { ...data }))
+    const trPage = translations.get(relU.toLowerCase())
+    if (trPage) {
+      await fs.writeFile(dest, matter.stringify(LANGMARK("it") + newContent, { ...data }))
+      let itBody = trPage.body_it || newContent
+      if (workTocMd) {
+        itBody = /\n##\s+Connections/.test(itBody)
+          ? itBody.replace(/\n##\s+Connections/, `\n${workTocMd}## Connections`)
+          : itBody.trimEnd() + "\n\n" + workTocMd
+      }
+      await fs.writeFile(
+        dest.replace(/\.md$/, ".it.md"),
+        matter.stringify(LANGMARK("en") + itBody, { ...data, lang: "it", title: trPage.title_it || data.title }),
+      )
+    } else {
+      await fs.writeFile(dest, matter.stringify(newContent, { ...data }))
+    }
     written++
   }
 

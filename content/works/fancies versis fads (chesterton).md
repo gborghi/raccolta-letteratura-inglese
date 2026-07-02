@@ -23,6 +23,10 @@ tags:
 > [!abstract] 
 > A 1923 collection of Chesterton essays defending traditional common sense and wonder against modern fads (psycho-analysis, free verse, prohibition, divorce, evolutionary theory); literary criticism and social satire built on paradox.
 
+## Testo / Text
+
+- [Book 1: MANUFACTURERS](/testi/chesterton/atomized/fancies_versis_fads/chapter_01_manufacturers)
+
 ## Connections
 
 **Themes & Concepts:** [[Paradox]], [[Satire of Society]], [[Critique of Progress]], [[Artist and Society]], [[Wonder and Gratitude]], [[Anti-Industrialism]]

@@ -23,6 +23,12 @@ tags:
 > [!abstract] 
 > Book-length polemic against the pseudo-science of eugenics as a tyranny of the rich over the poor, defending liberty, the family, and the common man against scientific despotism.
 
+## Capitoli / Chapters
+
+- [Part 2: THE REAL AIM](/testi/chesterton/atomized/eugenics/chapter_01_the_real_aim)
+- [Part 1](/testi/chesterton/atomized/eugenics/chapter_02)
+- [Part 2](/testi/chesterton/atomized/eugenics/chapter_03)
+
 ## Connections
 
 **Themes & Concepts:** [[Social Injustice]], [[Power and Corruption]], [[Critique of Progress]], [[Common Man]], [[Poverty]], [[Class Conflict]], [[Distributism]], [[Doubt]]

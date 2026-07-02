@@ -25,6 +25,17 @@ tags:
 > [!abstract] 
 > A cycle of detective stories whose disillusioned sleuth Horne Fisher 'knows too much' about the corruption of the governing class to expose the crimes he solves. Themes: political corruption, the cost of knowledge, justice frustrated, and patriotic self-sacrifice.
 
+## Capitoli / Chapters
+
+- [The Face in the Target](/testi/chesterton/atomized/the_man_who_knew_too_much/story_01_the_face_in_the_target)
+- [The Vanishing Prince](/testi/chesterton/atomized/the_man_who_knew_too_much/story_02_the_vanishing_prince)
+- [The Soul of the Schoolboy](/testi/chesterton/atomized/the_man_who_knew_too_much/story_03_the_soul_of_the_schoolboy)
+- [The Bottomless Well](/testi/chesterton/atomized/the_man_who_knew_too_much/story_04_the_bottomless_well)
+- [The Fad of the Fisherman](/testi/chesterton/atomized/the_man_who_knew_too_much/story_05_the_fad_of_the_fisherman)
+- [The Hole in the Wall](/testi/chesterton/atomized/the_man_who_knew_too_much/story_06_the_hole_in_the_wall)
+- [The Temple of Silence](/testi/chesterton/atomized/the_man_who_knew_too_much/story_07_the_temple_of_silence)
+- [The Vengeance of the Statue](/testi/chesterton/atomized/the_man_who_knew_too_much/story_08_the_vengeance_of_the_statue)
+
 ## Connections
 
 **Archetypes:** [[Detective]], [[Corrupt Official]]

@@ -8,6 +8,8 @@ tags:
   - author/Sayers
 ---
 
+<div class="sb-langswitch" data-other-lang="it"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Sayers · <a href="/works/the-mind-of-the-maker-(sayers)">The Mind of the Maker</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/sayers/atomized/the_mind_of_the_maker/chapter_04_idea_energy_power">‹ Chapter 04 Idea Energy Power</a><a class="ex-next" href="/testi/sayers/atomized/the_mind_of_the_maker/chapter_06_free_will_and_miracle">Chapter 06 Free Will and Miracle ›</a></div>

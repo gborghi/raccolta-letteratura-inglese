@@ -28,6 +28,20 @@ tags:
 > [!abstract] 
 > A collection of Father Brown detective stories in which the humble priest-detective solves crimes through moral and psychological insight rather than mere ratiocination, exposing deception and defending sin's penitents.
 
+## Capitoli / Chapters
+
+- [The Scandal of Father Brown](/testi/chesterton/atomized/scandal_fr_brown/story_01_the_scandal_of_father_brown)
+- [The Quick One](/testi/chesterton/atomized/scandal_fr_brown/story_02_the_quick_one)
+- [The Blast of the Book](/testi/chesterton/atomized/scandal_fr_brown/story_03_the_blast_of_the_book)
+- [The Green Man](/testi/chesterton/atomized/scandal_fr_brown/story_04_the_green_man)
+- [The Pursuit of Mr Blue](/testi/chesterton/atomized/scandal_fr_brown/story_05_the_pursuit_of_mr_blue)
+- [The Crime of the Communist](/testi/chesterton/atomized/scandal_fr_brown/story_06_the_crime_of_the_communist)
+- [The gardens had been tended so carefully as to achieve the final](/testi/chesterton/atomized/scandal_fr_brown/story_07_the_gardens_had_been_tended_so_carefully)
+- [The Point of a Pin](/testi/chesterton/atomized/scandal_fr_brown/story_08_the_point_of_a_pin)
+- [I mean, it's easy to say you've thrown it in, because it might be](/testi/chesterton/atomized/scandal_fr_brown/story_09_i_mean_it_s_easy_to_say_you_ve_thrown_it)
+- [The Insoluble Problem](/testi/chesterton/atomized/scandal_fr_brown/story_10_the_insoluble_problem)
+- [The Vampire of the Village](/testi/chesterton/atomized/scandal_fr_brown/story_11_the_vampire_of_the_village)
+
 ## Connections
 
 **Archetypes:** [[Detective]]

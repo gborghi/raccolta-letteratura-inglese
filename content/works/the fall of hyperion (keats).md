@@ -25,6 +25,11 @@ tags:
 > [!abstract] 
 > An unfinished blank-verse dream-vision in which the poet, guided by the priestess Moneta, beholds fallen Saturn's titanic ruin and is interrogated on the difference between poet and dreamer; meditation on poetry, suffering and the fall of the gods.
 
+## Capitoli / Chapters
+
+- [Canto I](/testi/keats/long/the_fall_of_hyperion/section_01_canto_i)
+- [Canto II](/testi/keats/long/the_fall_of_hyperion/section_02_canto_ii)
+
 ## Connections
 
 **Topoi:** [[Poet as Prophet]], [[Ages of the World]], [[Paradise Lost]]

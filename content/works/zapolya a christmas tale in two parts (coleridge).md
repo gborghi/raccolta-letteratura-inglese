@@ -36,6 +36,15 @@ tags:
 > [!abstract] 
 > Coleridge's romance verse-drama in blank verse, modelled on Shakespeare's Winter's Tale: a usurper (Emerick) seizes the throne of Illyria, the rightful queen and infant heir are driven into exile, and after twenty years legitimacy is restored. Central themes are kingship and legitimacy, usurpation, fate and providence, exile, and the restoration of the natural order.
 
+## Capitoli / Chapters
+
+- [Act I, Scene 1](/testi/coleridge/plays/zapolya_a_christmas_tale_in_two_parts/act_1/scene_1)
+- [Act II, Scene 1](/testi/coleridge/plays/zapolya_a_christmas_tale_in_two_parts/act_2/scene_1)
+- [Act III, Scene 1](/testi/coleridge/plays/zapolya_a_christmas_tale_in_two_parts/act_3/scene_1)
+- [Act IV, Scene 1](/testi/coleridge/plays/zapolya_a_christmas_tale_in_two_parts/act_4/scene_1)
+- [Act V, Scene 1](/testi/coleridge/plays/zapolya_a_christmas_tale_in_two_parts/act_5/scene_1)
+- [Act V, Scene 2](/testi/coleridge/plays/zapolya_a_christmas_tale_in_two_parts/act_5/scene_2)
+
 ## Connections
 
 **Topoi:** [[Sleeper Awakes]], [[Fortune's Wheel]]

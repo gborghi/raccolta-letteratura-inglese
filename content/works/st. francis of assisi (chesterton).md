@@ -37,6 +37,20 @@ tags:
 > [!abstract] 
 > Chesterton's biography of St. Francis, presenting the saint's poverty, humility, love of nature and conversion as a divine paradox; a devotional and apologetic life-study.
 
+## Capitoli / Chapters
+
+- [Chapter 1](/testi/chesterton/atomized/st_francis_of_assisi/chapter_01)
+- [Chapter 2](/testi/chesterton/atomized/st_francis_of_assisi/chapter_02)
+- [Chapter 3](/testi/chesterton/atomized/st_francis_of_assisi/chapter_03)
+- [Chapter 4](/testi/chesterton/atomized/st_francis_of_assisi/chapter_04)
+- [Chapter 1: have but outlined it from the outside. And in concluding](/testi/chesterton/atomized/st_francis_of_assisi/chapter_05_have_but_outlined_it_from_the)
+- [Chapter 5: LE](/testi/chesterton/atomized/st_francis_of_assisi/chapter_06_le)
+- [Chapter 6](/testi/chesterton/atomized/st_francis_of_assisi/chapter_07)
+- [Chapter 7](/testi/chesterton/atomized/st_francis_of_assisi/chapter_08)
+- [Chapter 8](/testi/chesterton/atomized/st_francis_of_assisi/chapter_09)
+- [Chapter 9](/testi/chesterton/atomized/st_francis_of_assisi/chapter_10)
+- [Chapter 10](/testi/chesterton/atomized/st_francis_of_assisi/chapter_11)
+
 ## Connections
 
 **Topoi:** [[World Upside Down]]

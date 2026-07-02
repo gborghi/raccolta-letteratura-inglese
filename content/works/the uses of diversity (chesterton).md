@@ -24,6 +24,44 @@ tags:
 > [!abstract] 
 > A 1920 collection of light familiar essays on literature, society, religion and modern fads, defending wonder, paradox and orthodoxy against pseudo-scientific seriousness; satirical social criticism in the essay form.
 
+## Capitoli / Chapters
+
+- [On Seriousness](/testi/chesterton/atomized/the_uses_of_diversity/story_01_on_seriousness)
+- [Lamp-Posts](/testi/chesterton/atomized/the_uses_of_diversity/story_02_lamp_posts)
+- [The Spirits](/testi/chesterton/atomized/the_uses_of_diversity/story_03_the_spirits)
+- [Tennyson](/testi/chesterton/atomized/the_uses_of_diversity/story_04_tennyson)
+- [The Domesticity of Detectives](/testi/chesterton/atomized/the_uses_of_diversity/story_05_the_domesticity_of_detectives)
+- [George Meredith](/testi/chesterton/atomized/the_uses_of_diversity/story_06_george_meredith)
+- [The Irishman](/testi/chesterton/atomized/the_uses_of_diversity/story_07_the_irishman)
+- [Ireland and the Domestic Drama](/testi/chesterton/atomized/the_uses_of_diversity/story_08_ireland_and_the_domestic_drama)
+- [The Japanese](/testi/chesterton/atomized/the_uses_of_diversity/story_09_the_japanese)
+- [Christian Science](/testi/chesterton/atomized/the_uses_of_diversity/story_10_christian_science)
+- [The Lawlessness of Lawyers](/testi/chesterton/atomized/the_uses_of_diversity/story_11_the_lawlessness_of_lawyers)
+- [Our Latin Relations](/testi/chesterton/atomized/the_uses_of_diversity/story_12_our_latin_relations)
+- [On Pigs as Pets](/testi/chesterton/atomized/the_uses_of_diversity/story_13_on_pigs_as_pets)
+- [The Romance of Rostand](/testi/chesterton/atomized/the_uses_of_diversity/story_14_the_romance_of_rostand)
+- [Wishes](/testi/chesterton/atomized/the_uses_of_diversity/story_15_wishes)
+- [The Futurists](/testi/chesterton/atomized/the_uses_of_diversity/story_16_the_futurists)
+- [The Evolution of Emma](/testi/chesterton/atomized/the_uses_of_diversity/story_17_the_evolution_of_emma)
+- [The Pseudo-Scientific Books](/testi/chesterton/atomized/the_uses_of_diversity/story_18_the_pseudo_scientific_books)
+- [The Humour of King Herod](/testi/chesterton/atomized/the_uses_of_diversity/story_19_the_humour_of_king_herod)
+- [The Silver Goblets](/testi/chesterton/atomized/the_uses_of_diversity/story_20_the_silver_goblets)
+- [The Duty of the Historian](/testi/chesterton/atomized/the_uses_of_diversity/story_21_the_duty_of_the_historian)
+- [Questions of Divorce](/testi/chesterton/atomized/the_uses_of_diversity/story_22_questions_of_divorce_divorce)
+- [Mormonism](/testi/chesterton/atomized/the_uses_of_diversity/story_23_mormonism)
+- [Pageants and Dress](/testi/chesterton/atomized/the_uses_of_diversity/story_24_pageants_and_dress)
+- [On Stage Costume](/testi/chesterton/atomized/the_uses_of_diversity/story_25_on_stage_costume)
+- [The Yule Log and the Democrat](/testi/chesterton/atomized/the_uses_of_diversity/story_26_the_yule_log_and_the_democrat)
+- [More Thoughts on Christmas](/testi/chesterton/atomized/the_uses_of_diversity/story_27_more_thoughts_on_christmas)
+- [Dickens Again](/testi/chesterton/atomized/the_uses_of_diversity/story_28_dickens_again)
+- [Taffy](/testi/chesterton/atomized/the_uses_of_diversity/story_29_taffy)
+- ["Ego et Shavius Meus"](/testi/chesterton/atomized/the_uses_of_diversity/story_30_ego_et_shavius_meus)
+- [The Plan for a New Universe](/testi/chesterton/atomized/the_uses_of_diversity/story_31_the_plan_for_a_new_universe)
+- [George Wyndham](/testi/chesterton/atomized/the_uses_of_diversity/story_32_george_wyndham)
+- [Stupidities](/testi/chesterton/atomized/the_uses_of_diversity/story_33_stupidities)
+- [On Historical Novels](/testi/chesterton/atomized/the_uses_of_diversity/story_34_on_historical_novels)
+- [On Monsters](/testi/chesterton/atomized/the_uses_of_diversity/story_35_on_monsters)
+
 ## Connections
 
 **Themes & Concepts:** [[Paradox]], [[Wonder and Gratitude]], [[Satire of Society]], [[Critique of Progress]], [[Faith]], [[Artist and Society]], [[Joy]]

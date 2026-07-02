@@ -26,6 +26,49 @@ tags:
 > [!abstract] 
 > A 1909 collection of familiar essays finding the marvellous in commonplace objects and events; teaches wonder, gratitude and the renewing of perception against habitual blindness.
 
+## Capitoli / Chapters
+
+- [Chapter 1](/testi/chesterton/atomized/tremendous_trifles/chapter_01)
+- [Chapter 1](/testi/chesterton/atomized/tremendous_trifles/chapter_02)
+- [Chapter 2](/testi/chesterton/atomized/tremendous_trifles/chapter_03)
+- [Chapter 3](/testi/chesterton/atomized/tremendous_trifles/chapter_04)
+- [Chapter 4](/testi/chesterton/atomized/tremendous_trifles/chapter_05)
+- [Chapter 5](/testi/chesterton/atomized/tremendous_trifles/chapter_06)
+- [Chapter 6](/testi/chesterton/atomized/tremendous_trifles/chapter_07)
+- [Chapter 7](/testi/chesterton/atomized/tremendous_trifles/chapter_08)
+- [Chapter 8](/testi/chesterton/atomized/tremendous_trifles/chapter_09)
+- [Chapter 9](/testi/chesterton/atomized/tremendous_trifles/chapter_10)
+- [Chapter 10](/testi/chesterton/atomized/tremendous_trifles/chapter_11)
+- [Chapter 11](/testi/chesterton/atomized/tremendous_trifles/chapter_12)
+- [Chapter 12](/testi/chesterton/atomized/tremendous_trifles/chapter_13)
+- [Chapter 13](/testi/chesterton/atomized/tremendous_trifles/chapter_14)
+- [Chapter 14](/testi/chesterton/atomized/tremendous_trifles/chapter_15)
+- [Chapter 15](/testi/chesterton/atomized/tremendous_trifles/chapter_16)
+- [Chapter 16](/testi/chesterton/atomized/tremendous_trifles/chapter_17)
+- [Chapter 17](/testi/chesterton/atomized/tremendous_trifles/chapter_18)
+- [Chapter 18](/testi/chesterton/atomized/tremendous_trifles/chapter_19)
+- [Chapter 19](/testi/chesterton/atomized/tremendous_trifles/chapter_20)
+- [Chapter 20](/testi/chesterton/atomized/tremendous_trifles/chapter_21)
+- [Chapter 21](/testi/chesterton/atomized/tremendous_trifles/chapter_22)
+- [Chapter 22](/testi/chesterton/atomized/tremendous_trifles/chapter_23)
+- [Chapter 23](/testi/chesterton/atomized/tremendous_trifles/chapter_24)
+- [Chapter 24](/testi/chesterton/atomized/tremendous_trifles/chapter_25)
+- [Chapter 25](/testi/chesterton/atomized/tremendous_trifles/chapter_26)
+- [Chapter 26](/testi/chesterton/atomized/tremendous_trifles/chapter_27)
+- [Chapter 27](/testi/chesterton/atomized/tremendous_trifles/chapter_28)
+- [Chapter 28](/testi/chesterton/atomized/tremendous_trifles/chapter_29)
+- [Chapter 29](/testi/chesterton/atomized/tremendous_trifles/chapter_30)
+- [Chapter 30](/testi/chesterton/atomized/tremendous_trifles/chapter_31)
+- [Chapter 31](/testi/chesterton/atomized/tremendous_trifles/chapter_32)
+- [Chapter 32](/testi/chesterton/atomized/tremendous_trifles/chapter_33)
+- [Chapter 33](/testi/chesterton/atomized/tremendous_trifles/chapter_34)
+- [Chapter 34](/testi/chesterton/atomized/tremendous_trifles/chapter_35)
+- [Chapter 35](/testi/chesterton/atomized/tremendous_trifles/chapter_36)
+- [Chapter 36](/testi/chesterton/atomized/tremendous_trifles/chapter_37)
+- [Chapter 37](/testi/chesterton/atomized/tremendous_trifles/chapter_38)
+- [Chapter 38](/testi/chesterton/atomized/tremendous_trifles/chapter_39)
+- [Chapter 39](/testi/chesterton/atomized/tremendous_trifles/chapter_40)
+
 ## Connections
 
 **Motifs:** [[Eyes and Sight]], [[Journey]]

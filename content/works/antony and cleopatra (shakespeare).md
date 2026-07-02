@@ -43,6 +43,51 @@ tags:
 > [!abstract] 
 > Shakespeare's Roman tragedy in blank verse dramatizing the ruinous passion of Mark Antony and the Egyptian queen Cleopatra, set against the disintegrating triumvirate; its themes are love as empire-destroying desire, the conflict of Rome and Egypt, and transcendent death.
 
+## Capitoli / Chapters
+
+- [Act I, Scene 1](/testi/shakespeare/plays/antony_and_cleopatra/act_1/scene_1)
+- [Act I, Scene 2](/testi/shakespeare/plays/antony_and_cleopatra/act_1/scene_2)
+- [Act I, Scene 3](/testi/shakespeare/plays/antony_and_cleopatra/act_1/scene_3)
+- [Act I, Scene 4](/testi/shakespeare/plays/antony_and_cleopatra/act_1/scene_4)
+- [Act I, Scene 5](/testi/shakespeare/plays/antony_and_cleopatra/act_1/scene_5)
+- [Act II, Scene 1](/testi/shakespeare/plays/antony_and_cleopatra/act_2/scene_1)
+- [Act II, Scene 2](/testi/shakespeare/plays/antony_and_cleopatra/act_2/scene_2)
+- [Act II, Scene 3](/testi/shakespeare/plays/antony_and_cleopatra/act_2/scene_3)
+- [Act II, Scene 4](/testi/shakespeare/plays/antony_and_cleopatra/act_2/scene_4)
+- [Act II, Scene 5](/testi/shakespeare/plays/antony_and_cleopatra/act_2/scene_5)
+- [Act II, Scene 6](/testi/shakespeare/plays/antony_and_cleopatra/act_2/scene_6)
+- [Act II, Scene 7](/testi/shakespeare/plays/antony_and_cleopatra/act_2/scene_7)
+- [Act III, Scene 1](/testi/shakespeare/plays/antony_and_cleopatra/act_3/scene_1)
+- [Act III, Scene 2](/testi/shakespeare/plays/antony_and_cleopatra/act_3/scene_2)
+- [Act III, Scene 3](/testi/shakespeare/plays/antony_and_cleopatra/act_3/scene_3)
+- [Act III, Scene 4](/testi/shakespeare/plays/antony_and_cleopatra/act_3/scene_4)
+- [Act III, Scene 5](/testi/shakespeare/plays/antony_and_cleopatra/act_3/scene_5)
+- [Act III, Scene 6](/testi/shakespeare/plays/antony_and_cleopatra/act_3/scene_6)
+- [Act III, Scene 7](/testi/shakespeare/plays/antony_and_cleopatra/act_3/scene_7)
+- [Act III, Scene 8](/testi/shakespeare/plays/antony_and_cleopatra/act_3/scene_8)
+- [Act III, Scene 9](/testi/shakespeare/plays/antony_and_cleopatra/act_3/scene_9)
+- [Act III, Scene 10](/testi/shakespeare/plays/antony_and_cleopatra/act_3/scene_10)
+- [Act III, Scene 11](/testi/shakespeare/plays/antony_and_cleopatra/act_3/scene_11)
+- [Act III, Scene 12](/testi/shakespeare/plays/antony_and_cleopatra/act_3/scene_12)
+- [Act III, Scene 13](/testi/shakespeare/plays/antony_and_cleopatra/act_3/scene_13)
+- [Act IV, Scene 1](/testi/shakespeare/plays/antony_and_cleopatra/act_4/scene_1)
+- [Act IV, Scene 2](/testi/shakespeare/plays/antony_and_cleopatra/act_4/scene_2)
+- [Act IV, Scene 3](/testi/shakespeare/plays/antony_and_cleopatra/act_4/scene_3)
+- [Act IV, Scene 4](/testi/shakespeare/plays/antony_and_cleopatra/act_4/scene_4)
+- [Act IV, Scene 5](/testi/shakespeare/plays/antony_and_cleopatra/act_4/scene_5)
+- [Act IV, Scene 6](/testi/shakespeare/plays/antony_and_cleopatra/act_4/scene_6)
+- [Act IV, Scene 7](/testi/shakespeare/plays/antony_and_cleopatra/act_4/scene_7)
+- [Act IV, Scene 8](/testi/shakespeare/plays/antony_and_cleopatra/act_4/scene_8)
+- [Act IV, Scene 9](/testi/shakespeare/plays/antony_and_cleopatra/act_4/scene_9)
+- [Act IV, Scene 10](/testi/shakespeare/plays/antony_and_cleopatra/act_4/scene_10)
+- [Act IV, Scene 11](/testi/shakespeare/plays/antony_and_cleopatra/act_4/scene_11)
+- [Act IV, Scene 12](/testi/shakespeare/plays/antony_and_cleopatra/act_4/scene_12)
+- [Act IV, Scene 14](/testi/shakespeare/plays/antony_and_cleopatra/act_4/scene_14)
+- [Act IV, Scene 15](/testi/shakespeare/plays/antony_and_cleopatra/act_4/scene_15)
+- [Act IV, Scene 16](/testi/shakespeare/plays/antony_and_cleopatra/act_4/scene_16)
+- [Act V, Scene 1](/testi/shakespeare/plays/antony_and_cleopatra/act_5/scene_1)
+- [Act V, Scene 2](/testi/shakespeare/plays/antony_and_cleopatra/act_5/scene_2)
+
 ## Connections
 
 **Topoi:** [[Combat Strife]], [[Fortune's Wheel]]
