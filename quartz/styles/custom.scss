@@ -433,3 +433,45 @@ details.cerca-facet > summary { cursor: pointer; font-weight: 600; padding: 0.25
   font-size: 0.85rem;
   font-family: var(--bodyFont);
 }
+
+// ---- tag-list: horizontal wrapped chips ----
+// v5's base.scss styles the individual a.tag-link chip but drops the v4
+// `ul.tags` flex layout, so the <li>s default to block → tags stack vertically.
+// Restore the inline wrapped-chip row.
+ul.tags {
+  list-style: none;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.4rem;
+  padding-left: 0;
+  margin: 0.75rem 0 1.25rem;
+
+  li {
+    display: inline-block;
+    margin: 0;
+  }
+
+  a.tag-link {
+    display: inline-block;
+    white-space: nowrap;
+    overflow-wrap: anywhere;
+  }
+}
+
+// ---- note-properties (Obsidian-style Properties table): tag cell ----
+// The value column lives in a `table-layout:fixed` table (key 35% / value 65%)
+// whose cell sets `word-break:break-word`; the v5 tag renderer uses
+// `display:inline-flex` with NO wrap, so when the chips don't fit the fixed
+// cell the chip TEXT breaks character-by-character and renders vertically.
+// Force the container to wrap chip-by-chip and keep each chip on one line.
+.note-properties .note-properties-tags {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.3rem;
+
+  .tag-link {
+    white-space: nowrap;
+    overflow-wrap: normal;
+    word-break: keep-all;
+  }
+}
