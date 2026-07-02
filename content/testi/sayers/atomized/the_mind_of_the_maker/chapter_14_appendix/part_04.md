@@ -71,47 +71,48 @@ NORWICH
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/sayers/atomized/the_mind_of_the_maker/chapter_14_appendix/part_03">‹ part 03</a><span></span></div>
 </nav>
 
+Jane Cave: *Poems on Various Subjects, Entertaining, Elegiac, and Religious*, 1783. J. C. Squire è il benefattore che ha salvato questo tesoro dall'oblio: *Life and Letters*, art. «Jane Cave».
 
- Jane Cave: *Poesi su vari argomenti, intrattenenti, eleggici e religiosi* , 1783. J. C. Squire è il benefattore che ha salvato questo tesoro dall'oblio. "Jane Cave".
+In questo contesto, s'intende, bene e male artistici; i senza-spirito delle lettere sono spesso persone di rigidissimo giudizio critico nella sfera della morale.
 
- In questo contesto, ovviamente, il bene e il male artistici; i non fantasmati delle lettere sono spesso persone di un giudizio critico rigido nella sfera della morale.
+«Spirituale» non è proprio la parola giusta da contrapporre a «materiale»; e nemmeno lo sono «vitale» o «mentale». Ciascuna è troppo limitata, mentre «non materiale» è troppo puramente negativo. Come dice R. O. Kapp (*op. cit.*), «ci occorre una parola che suggerisca che la realtà non materiale possiede attributi che mancano alla materia»; e ci occorre che questa parola copra l'*intero* campo della realtà non materiale. La parola che egli propone è «*diatetico*», nel senso di «capace di disporre secondo una specificazione». Poiché questo utile termine non è ancora moneta corrente, dobbiamo arrangiarci con una delle altre parole, avvertendo che intendiamo con essa ciò che è finalizzato e ordinato nei suoi rapporti con la materia, in opposizione all'abitudine casuale e caotica della materia inanimata lasciata a se stessa.
 
- "Spirituale" non è la parola perfetta per opporsi a "materiale"; né è "vitale" o "mental". Ciascuno è troppo limitato, mentre il "non materiale" è troppo puramente negativo. As R. O. Kapp dice ( * op. cit.*) "ci serve una parola che suggerisca che la realtà non materiale possieda attributi che mancano di materia"; e richiediamo che questa parola copra l'intero campo della realtà non materiale. La parola che suggerisce è " *diatetica * ", che significa "capace di disporre di una specifica". Dato che questo termine utile non è ancora una moneta comune, dobbiamo farci conto di uno degli altri, insinuando che intendiamo con esso ciò che è intenzionale e ordinato nei suoi rapporti con la materia, al contrario dell'abitudine casuale e caotica della materia inanimata quando viene lasciata a se stessa.
+A. D. Lindsay: *The Two Moralities*.
 
- A. D. Le Due Moralità .
+Dixon Mann: *Forensic Medicine*: voce «Antagonism of Poisons».
 
- Dixon Mann: *Medicina forense*: Art. "L'antagonismo dei veleni".
+*Begin Here*: capitolo 2.
 
- * Comincia qui*: Capitolo 2.
+Reinhold Niebuhr: *Beyond Tragedy*.
 
- Reinhold Niebuhr: * Oltre alla tragedia * .
+Si veda il [Poscritto](20140909_split_026.html#c12) alla fine di questo capitolo.
 
- Si veda [Postscript](20140909_split_026.html#c12) alla fine di questo capitolo.
+[La teoria utopistica] immagina che al termine del processo sociale stia una perfetta innocenza, una nuova infanzia. Si crede capace di creare una società in cui tutte le tensioni siano risolte e la radice ultima dell'anarchia umana sia eliminata. Se ciò fosse davvero possibile, la sua nuova società non sarebbe l'inizio della storia, come essa si compiace di immaginare, ma la sua fine... Il problema del bene e del male non può essere risolto per intero dentro la storia. — Reinhold Niebuhr: *Beyond Tragedy*.
 
- [Teoria utopia] immagina che la perfetta innocenza, una nuova infanzia, si trova alla fine del processo sociale. Si ritiene capace di creare una società in cui tutte le tensioni siano risolte e la radice finale dell'anarchia umana venga eliminata. Se ciò fosse davvero possibile, la sua nuova società non sarebbe l'inizio della storia, come immagina con affetto, ma la sua fine. . . . Il problema del bene e del male non può essere completamente risolto nella storia. - Reinhold Niebuhr: *Beyond Tragedy* .
+Il casuale «assestarsi» della materia inanimata agisce producendo stati di stabilità crescente, e ci si può attendere che raggiunga uno stato finale in cui la stabilità è completa e nessun ulteriore sviluppo è possibile. Quando, in presenza della vita, la materia viene costruita in una struttura ordinata, essa vi si mantiene soltanto in uno stato di instabilità o di tensione. Così, nell'universo quale lo conosciamo, la volontà di stabilità è volontà di morte.
 
-La casuale "tremazione" della materia inanimata agisce per produrre stati di stabilità crescente, e si può aspettare di raggiungere uno stato finale in cui la stabilità è completa e nessun ulteriore sviluppo è possibile. Quando, in presenza di vita, la materia è costruita in un modello ordinato, si mantiene lì solo in uno stato di instabilità o tensione. Così, nell'universo come lo conosciamo, la volontà di stabilità è la volontà di morte.
+«In patria [nel 1939] il Foreign Office condivideva senza riserve l'opinione generale di Whitehall, secondo cui la guerra doveva essere una guerra di funzionari, fatta dai funzionari, per i funzionari. Nel conflitto precedente [1914-1918] molti estranei — semplici intellettuali e giornalisti — erano stati introdotti nella macchina amministrativa. Senza dubbio avevano contribuito in modo sostanziale alla vittoria, ma con le loro idee anticonvenzionali erano stati una maledetta seccatura. Questo non doveva ripetersi e, come abbiamo visto, la 'bottega chiusa' divenne l'ordine del giorno. A questo errore iniziale si dovettero tutti gli sbagli successivi, i quali a loro volta contribuirono in modo sostanziale ai disastri della primavera e dell'estate seguenti.» — Sir Charles Petrie: *Twenty Years' Armistice and After*.
 
- "A casa [nel 1939], il Ministero degli Esteri condivideva con tutto il cuore la visione generale di Whitehall che la guerra doveva essere una guerra di funzionari, di funzionari, per funzionari. Nel precedente conflitto [1914-1918] molti stranieri - semplici intellettuali e giornalisti - erano stati introdotti nella macchina amministrativa. Senza dubbio avevano contribuito in modo materiale alla vittoria della guerra, ma erano stati un fastidio confuso con le loro idee non convenzionali. Non si deve permettere che ciò accada nuovamente e, come abbiamo visto, la "vendita chiusa" è diventata l'ordine del giorno. A questo errore iniziale sono dovuti tutti gli errori successivi, e questi a loro volta hanno contribuito in modo materiale ai disastri della primavera e dell'estate successive. "- Sir Charles Petrie: *Twenty Years' Armistice and After* .
+Ecclesiastico xxxviii, 24-34.
 
- Ecclesiasticus xxxviii. 24-34.
+Middleton Murry: *The Betrayal of Christ by the Churches*.
 
- Middleton Murry: * Il tradimento di Cristo dalle Chiese * .
+Ibid.
 
- Ibid.
+Ecco perché lo Stato socialista pienamente industrializzato deve ricorrere al lavoro forzato per tenere in funzione le macchine.
 
- È per questo che lo Stato socialista pienamente industrializzato deve ricorrere al lavoro forzato per mantenere le macchine al lavoro.
+Articolo sul *Sunday Times*, 1.12.40.
 
- Art. nel Sunday Times, 1.12.40.
-
- È tuttavia giusto aggiungere che i capi delle Chiese in Gran Bretagna, nel loro Manifesto del 21 dicembre 1940, si sono distinti inserendo tra le loro aggiunte ai "cinque punti" del Papa la seguente dichiarazione:
+È tuttavia doveroso aggiungere che i capi delle Chiese di Gran Bretagna, nel loro Manifesto del 21 dicembre 1940, si sono distinti includendo, fra le loro aggiunte ai «Cinque Punti» del Papa, il seguente pronunciamento:
 
 Il senso di una vocazione divina deve essere restituito al lavoro quotidiano dell'uomo.
 
-Questa è una delle "cinque norme con cui si possono verificare le situazioni e le proposte economiche". I firmatari di questo Manifesto sono l'Arcivescovo cattolico romano di Westminster, gli Arcivescovi anglicani di Canterbury e York e il Moderatore del Consiglio federale della Chiesa Libera.
+Questo viene proposto come uno dei «cinque criteri alla stregua dei quali si possono vagliare le situazioni e le proposte economiche». I firmatari di questo Manifesto sono l'arcivescovo cattolico romano di Westminster, gli arcivescovi anglicani di Canterbury e di York e il moderatore del Free Church Federal Council.
 
- C. S. Lewis: *Il problema del dolore * .
+C. S. Lewis: *Il problema della sofferenza*.
 
- [Capitolo IX](20140909_split_020.html#c9) .
+[Capitolo IX](20140909_split_020.html#c9).
 
-Stampato da JARROLD AND SONS LTD. Norvegia
+STAMPATO DA
+JARROLD AND SONS LTD.
+NORWICH

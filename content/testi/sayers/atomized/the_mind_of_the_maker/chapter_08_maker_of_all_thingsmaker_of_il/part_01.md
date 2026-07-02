@@ -74,52 +74,50 @@ We will also remember that we are not, for the moment, discussing what happens t
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/sayers/atomized/the_mind_of_the_maker/chapter_06_free_will_and_miracle/part_05">‹ part 05</a><a class="ex-next" href="/testi/sayers/atomized/the_mind_of_the_maker/chapter_08_maker_of_all_thingsmaker_of_il/part_02">part 02 ›</a></div>
 </nav>
 
+CAPITOLO 8. Creatore di tutte le cose — Creatore delle cose malvagie
 
-Capitolo 8. Il Creatore di tutte le cose
-
-Chi ti ha creato?
+FAUSTUS: *Chi ti ha fatto?*
 
 MEPHISTOPHELES: *Dio; come la luce fa l'ombra.*
 
-FAUSTUS: "Dio è dunque malvagio?"
+FAUSTUS: *Dio è dunque malvagio?*
 
-MEPHISTOPHELES: *Dio è solo luce,*
+MEPHISTOPHELES: *Dio è soltanto luce,*
 
-E nel cuore della luce non c'è ombra
+*e nel cuore della luce nessun'ombra dimora,*
 
-# E non posso vivere nella luce del cielo #
+*né io posso abitare entro la luce del cielo*
 
-# Dove Dio è tutto #
+*dove Dio è tutto.*
 
-Cosa sei tu, Mefistofele?
+FAUSTUS: *Che cosa sei tu, Mephistopheles?*
 
-MEPHISTOPHELES: *Sono il prezzo che tutte le cose pagano per essere,*
+MEPHISTOPHELES: *Io sono il prezzo che tutte le cose pagano per essere,*
 
-# L'ombra sul mondo, gettata dal mondo #
+*l'ombra sul mondo, gettata dal mondo*
 
-*Stando nella sua luce, che luce è Dio.*
+*che sta nella propria luce, la quale luce è Dio.*
 
-*Il diavolo deve pagare.*
+*The Devil to Pay.*
 
-*E' stato . . . dichiarato da Aquino che era della natura di Dio conoscere tutte le possibilità, e determinare quale possibilità dovesse diventare realtà. "Dio non conoscerebbe perfettamente le cose buone se non conoscesse anche le cose cattive . . . poiché, poiché il male non è conoscibile di per sé, poiché 'il male è la privazione del bene', come dice Agostino, perciò il male non può essere definito né conosciuto se non con il bene". Le cose che non sono e non saranno mai Egli conosce "non per visione", come Egli fa tutte le cose che sono o saranno, "ma con la semplice intelligenza". Fa dunque parte di quella conoscenza che Egli dovrebbe comprendere il bene nella sua privazione, l'identità del cielo nella sua identità opposta dell'inferno, ma senza "approvazione", senza chiamarla ad esistere affatto.*
+*Fu . . . dichiarato dall'Aquinate che era nella natura di Dio conoscere tutte le possibilità, e determinare quale possibilità dovesse divenire fatto. "Dio non conoscerebbe perfettamente le cose buone se non conoscesse anche le cose cattive . . . poiché, non essendo il male di per sé conoscibile, in quanto 'il male è privazione del bene' come dice Agostino, il male non può essere né definito né conosciuto se non mediante il bene". Le cose che non sono e mai saranno Egli le conosce "non per visione", come conosce tutte le cose che sono o saranno, "ma per semplice intelligenza". Fa dunque parte di quella conoscenza che Egli comprenda il bene nella sua privazione, l'identità del cielo nell'identità opposta dell'inferno, ma senza "approvazione", senza affatto chiamarlo all'essere.*
 
-*Non era così possibile per l'uomo . . . Essere come gli dei significava per Adamo morire, per loro conoscere il male, non per pura intelligenza ma per esperienza.* - CHARLES WILLIAMS: *E' Sceso dal Cielo.*
+*Ciò non fu così possibile per l'uomo . . . Essere come dèi significava, per l'Adamo, morire, poiché conoscere il male, per loro, era conoscerlo non per pura intelligenza ma per esperienza.* - CHARLES WILLIAMS : *He Came Down from Heaven.*
 
+"Se Dio ha fatto ogni cosa, ha fatto anche il Diavolo?"
 
-"Se Dio ha fatto tutto, ha fatto il Diavolo?"
+È questo il genere di domanda imbarazzante che qualunque bambino sa porre prima di colazione, e per la quale i Manuali per i genitori non forniscono alcuna formula ordinata e maneggevole. Con lo stesso spirito spensierato, un mio cugino domandò una volta: "Mamma, dov'è andato a finire ieri?" Mia zia si assunse coraggiosamente l'impegno di scoprirlo; ma quando fece ritorno, munita del parere di un eminente filosofo di Oxford, l'interrogante aveva perso ogni interesse e, come il Pilato celiante, non volle attendere la risposta.
 
-Questo è il tipo di domanda imbarazzante che ogni bambino può fare prima della colazione, e per la quale il Manuale dei genitori non fornisce una formula pulita e pratica. In modo molto più leggero, un mio cugino una volta chiese: "Madre, dove è andato ieri?" Mia zia coraggiosamente si impegnò a scoprire; ma quando tornò, primato con l'opinione di un eminente filosofo di Oxford, l'inquirente aveva perso l'interesse e, come scherzando Pilato, non voleva rimanere per una risposta.
+Più avanti nella vita, tuttavia, il problema del tempo e il problema del male si fanno disperatamente urgenti, ed è inutile dirci di andare a giocare e che capiremo quando saremo più grandi. Il mondo è ormai incanutito, e le domande restano ancora senza risposta.
 
-In seguito, tuttavia, il problema del tempo e del male diventano disperatamente urgenti, e non serve a nulla dirci di fuggire e giocare e che capiremo quando saremo più grandi. Il mondo è diventato disordinato, e le domande sono ancora senza risposta.
+La risposta manichea alla domanda sul Diavolo ha il merito di apparire assai sensata e di offrire una spiegazione ragionevole dei fenomeni superficiali di questo mondo travagliato. Il Dio buono non ha fatto il male e non è onnipotente. Vi sono nel mondo due princìpi, perennemente in guerra e più o meno di pari forza: Dio, identificato con la Luce e il Bene, e l'Arconte, identificato con le Tenebre e la Materia. Secondo il mito, le potenze delle Tenebre attaccarono le potenze della Luce e trascinarono prigioniero il Raggio di Luce, ossia l'Uomo Ideale. Dio contrattaccò e liberò la parte maggiore e migliore dell'Uomo, ma lasciò la parte più debole — il *Jesus patibilis* — schiava delle potenze oscure, le quali da questa parte formarono l'Uomo Mortale. "Così l'Uomo fu in origine formato a immagine di Satana, ma conteneva in sé una scintilla della luce celeste, che attende la sua liberazione finale mediante la separazione dalle tenebre che la avvolgono". Secondo questa dottrina la materia (e quindi il corpo) è interamente malvagia, e la vittoria del bene può essere assicurata soltanto da un rigoroso ascetismo. Il sacramentalismo non può trovare posto nella religione di Mani. Si noterà che il trionfo del Bene è ritenuto in ultimo assicurato; questo pare un presupposto necessario: altrimenti, perché dovremmo chiamarlo Bene? Questa dottrina rende conto abbastanza ragionevolmente dell'inestricabile mescolanza di Bene e Male nell'Uomo, ma non dell'esistenza del Male in sé. Il bambino può continuare a chiedere: chi ha fatto il Diavolo? e anche: chi ha fatto Dio, e come possiamo essere certi che alla fine Dio vincerà?
 
-La risposta manicheana alla domanda sul Diavolo ha il merito di apparire molto ragionevole e di offrire una ragionevole spiegazione dei fenomeni superficiali di questo mondo turbato. Allah, che è buono, non ha fatto il male e non è onnipotente. Ci sono due principi nel mondo, sempre in guerra, e più o meno uguali: Dio, equiparato a Luce e Bene, e l'Arcone, equiparato a Oscurità e Materia. Secondo il mito, i poteri dell'Oscurità attaccarono i poteri della Luce e portarono in cattività il Raggio di Luce o l'Uomo Ideale. Dio contrattaccò e liberò la parte più grande e migliore dell'Uomo, ma lasciò la parte più debole - la *Jesus patibilis* - schiava ai poteri Oscuri, che, da questa parte formarono l'Uomo Mortale. "All'inizio l'uomo fu creato a immagine di Satana, ma conteneva in sé una scintilla della luce celeste, che aspetta la sua liberazione finale separandosi dalle tenebre che lo avvolgono". Secondo questa dottrina, la materia (e quindi il corpo) è del tutto malefica, e la vittoria del bene può essere assicurata solo da un rigoroso ascetismo. Il sacramentalismo non trova posto nella religione di Mani. Si noterà che il trionfo del Bene è tenuto per essere finalmente assicurato; questo sembra essere un presupposto necessario, o perché dovremmo chiamarlo Bene? Questa dottrina spiega ragionevolmente abbastanza per l'inextricabile miscelazione del Bene e del Male nell'Uomo, ma non per l'esistenza del Male stesso. Il bambino potrebbe continuare a chiedere: Chi ha creato il Diavolo? e anche: Chi ha creato Dio, e come possiamo essere sicuri che Dio vincerà alla fine?
+Un'altra teoria è che il Male non abbia esistenza positiva, ma sia soltanto una privazione del Bene. Il Diavolo è una negazione — *der Geist der stets verneint*. Ciò è confuso e difficile, ma assai più in armonia con il sentire occidentale che non la teoria contraria dei buddisti, secondo cui il bene supremo è il conseguimento del Nulla; anche quest'ultima conduce a un modo di vita interamente ascetico e a una condanna del corpo materiale.
 
-Un'altra teoria è che il Male non ha un'esistenza positiva, ma è solo una privazione del Bene. Il diavolo è una negazione . Questo è confuso e difficile, ma molto più in armonia con il sentimento occidentale che con la teoria contraria dei buddisti, che il bene supremo è il raggiungimento del nulla; quest'ultimo porta anche a un modo di vita totalmente asceta e a una condanna del corpo materiale.
+Vi è infine la dottrina secondo cui la Divinità ultima non è né buona né malvagia, ma "al di là del bene e del male".
 
-Infine, c'è la dottrina secondo cui la divinità suprema non è né buona né cattiva, ma "oltre il bene e il male".
+Non è questa la sede per esaminare tutte queste teorie nel merito. Possiamo tuttavia vedere se nella nostra analogia letteraria si trovi qualcosa che possa gettare luce sulla natura del Male.
 
-Questo non è il posto per esaminare tutte queste teorie in base ai loro meriti. Possiamo, tuttavia, vedere se possiamo trovare nella nostra analogia letteraria qualcosa che possa far luce sulla natura del Male.
+Anche qui dobbiamo premettere un avvertimento. Il "Male", ai nostri fini, non va inteso come *male morale*. L'artefice umano, che vive e cammina entro un universo in cui il Male (qualunque cosa esso sia) fa parte della natura delle cose, è costretto ad assumere tanto il Bene quanto il Male come parte della sua Idea. Essi sono il mezzo con cui egli lavora. Possiamo considerare soltanto quel tipo particolare di Male che può fare la sua comparsa in rapporto al suo specifico atto di creazione — il tipo che si riassume in breve nell'espressione "cattiva Arte". Nella scelta delle parole, per esempio, la parola "giusta" non sarà la parola moralmente edificante, ma la parola che incarna "giustamente" la sua Idea, sia che l'Idea stessa sia moralmente buona, malvagia o "al di là del bene e del male". Per lui, impegnato nel suo atto creativo, il "bene" è la buona fattura artigianale, la "bellezza" è la bellezza artistica e la "verità" è la verità strutturale. Non dobbiamo, cioè, confondere le nostre menti lasciando che l'analogia sconfini fuori dai propri termini di riferimento.
 
-Anche qui, dobbiamo dare un avvertimento all'inizio. "Il male", per il nostro scopo, non deve essere considerato come un male morale. Il creatore umano, vivendo e camminando all'interno di un universo in cui il Male (qualunque esso sia) fa parte della natura delle cose, è obbligato a prendere sia il Bene che il Male come parte della sua Idea. Sono il mezzo con cui lavora. Possiamo considerare solo il tipo speciale di Male che può apparire in relazione al suo particolare atto di creazione, il tipo che è brevemente riassunto nell'espressione "Bad Art". Nella scelta delle parole, ad esempio, la parola "giusta" non sarà la parola moralmente edificante, ma la parola che "giustamente" incarna la sua Idea, che l'idea stessa sia moralmente buona, cattiva o "oltre il bene e il male". Per lui, impegnato nel suo atto creativo, "bene" è buona artigianato, "bellezza" è bellezza artistica, e "verità" è verità strutturale. Non dobbiamo confondere le nostre menti, lasciando che la nostra analogia si estuda al di fuori dei suoi termini di riferimento.
-
-Ricorderemo anche che non stiamo, per il momento, discutendo cosa succede a un cattivo scrittore. Un cattivo scrittore è così chiaramente l'autore della cattiveria nei suoi libri che il punto non ha quasi bisogno di essere fatto. Se il Creatore del mondo è malvagio, allora non siamo obbligati a pensare risposte difficili alla domanda: "Chi ha creato il Diavolo?" La difficoltà sorge solo quando diciamo: "Dio ha creato tutto e Dio è buono: allora da dove è venuto il Male?" C'è, dunque, nei termini della nostra analogia, alcun senso in cui possiamo dire che un buon scrittore è il creatore del male artistico - o dell'"errore" artistico?
+Ricorderemo inoltre che, per il momento, non stiamo discutendo di ciò che accade a un cattivo scrittore. Un cattivo scrittore è così palesemente l'autore della cattiveria dei suoi libri che quasi non occorre rilevarlo. Se il Creatore del mondo è malvagio, allora non siamo tenuti a escogitare risposte difficili alla domanda: "Chi ha fatto il Diavolo?" La difficoltà sorge soltanto quando diciamo: "Dio ha fatto ogni cosa e Dio è buono: da dove è venuto allora il Male?" Esiste dunque, entro i termini della nostra analogia, un senso in cui possiamo dire che un buon scrittore è il creatore del male artistico — o dell'"errore" artistico?

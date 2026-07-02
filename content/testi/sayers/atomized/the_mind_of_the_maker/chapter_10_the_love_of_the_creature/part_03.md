@@ -67,45 +67,44 @@ That no human maker can create a self-conscious being, we have already seen; and
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/sayers/atomized/the_mind_of_the_maker/chapter_10_the_love_of_the_creature/part_02">‹ part 02</a><a class="ex-next" href="/testi/sayers/atomized/the_mind_of_the_maker/chapter_10_the_love_of_the_creature/part_04">part 04 ›</a></div>
 </nav>
 
+È perché, dietro le restrizioni del codice morale, riconosciamo istintivamente la maggiore validità della legge di natura, che nel fondo del cuore preferiamo sempre i figli della grazia ai figli della legalità. Riconosciamo un suono falso nella voce pretenziosa che proclama: «Ho sacrificato i migliori anni della mia vita alla mia professione (alla mia famiglia, al mio paese, o che altro sia), e ho diritto di aspettarmi qualche contraccambio». Il codice ci costringe ad ammettere la pretesa, ma c'è qualcosa, nel modo in cui è espressa, che ci respinge. Per converso, però, i figli della legalità restano scandalizzati dal risoluto rifiuto dei figli della luce di far valere pretese di questo genere e — cosa ancor più sconcertante — dalla loro irosa rivendicazione del diritto dell'amore al sacrificio di sé. Coloro, per esempio, che premurosamente informano gli artisti creativi dei metodi coi quali (a prezzo di una piccola corruzione del loro proposito creativo) potrebbero guadagnare più denaro, restano spesso, molto scusabilmente, scandalizzati dalla furia con cui vengono mandati a quel paese. L'amore creativo, in verità, ha i suoi aspetti più oscuri, e sacrificherà non soltanto se stesso, ma anche gli altri, ai propri fini soverchianti. Somerset Maugham, in *La luna e sei soldi*, ha dato espressione convincente a questi cupi fuochi della passione divorante dell'artista; e il senso della storia va perduto se non riconosciamo che i terribili sacrifici di Strickland, subiti e imposti, sono l'affermazione di un amore così tremendo da aver oltrepassato perfino il desiderio della felicità. Una passione di questa tempra non si rassegna al sacrificio, ma lo abbraccia, e travolge il mondo nello stesso abbraccio. Non senza ragione proviamo un certo inquieto sospetto verso quella frase inerte, «rassegnazione cristiana»; una voce interiore ci ricorda che il Dio cristiano è Amore, e che amore e rassegnazione non possono trovare alcun terreno comune su cui stare. Tanto può dirci il creatore umano, se ci piace ascoltarlo. La nostra confusione in materia nasce da una dissipazione e da un eclettismo nelle nostre associazioni con la parola «amore». La colleghiamo troppo esclusivamente alle passioni sessuali e materiali, la cui anti-passione è la possessività, e all'affetto indulgente, la cui anti-passione è il sentimentalismo. Concentrato, e liberato dalle sue anti-passioni, l'amore è l'Energia della creazione:
 
-E' perché, dietro le restrizioni del codice morale, riconosciamo istintivamente la maggiore validità della legge della natura, che nel nostro cuore preferimmo sempre i figli della grazia ai figli della legalità. Riconosciamo un falso anello nella voce esigente che proclama: "Ho sacrificato i migliori anni della mia vita alla mia professione (la mia famiglia, il mio paese, o qualunque cosa possa essere), e ho il diritto di aspettarmi qualche ritorno". Il codice ci costringe ad ammettere la rivendicazione, ma c'è qualcosa nell'espressione che ci respinge. Al contrario, tuttavia, i figli della legalità sono scioccati dal deciso rifiuto dei figli della luce di insistere su questo tipo di rivendicazione e - ancora più sconcertante - dalla loro rabbia affermazione del diritto dell'amore al sacrificio. Quelli, ad esempio, che obbligatoriamente informano gli artisti creativi dei metodi con cui (con un po' di corruzione del loro scopo creativo) potrebbero guadagnare più soldi, sono spesso molto scusati dalla furia con cui vengono inviati per il loro lavoro. In effetti, l'amore creativo ha i suoi aspetti più oscuri, e sacrificherà non solo se stesso, ma anche altri per i suoi fini troppo dominanti. Somerset Maugham, in *La Luna e il Seipence* , ha dato espressione convincente a questi fuochi oscuri della passione divorante dell'artista; e il significato della storia è perso a meno che non riconosciamo che i terribili sacrifici di Strickland, sofferti e richiesti, sono l'affermazione di un amore così tremendo che è superato anche il desiderio di felicità. Una passione di questo temperamento non si rinuncia al sacrificio, ma lo abbraccia, e spazza il mondo nello stesso abbraccio. Non è senza ragione che sentiamo un certo sospetto inquietante di quella frase inerte, "risignazione cristiana"; una voce interiore ci ricorda che il Dio cristiano è Amore, e che amore e risignazione non possono trovare un terreno comune su cui stare. Tanto può dirci il creatore umano, se vogliamo ascoltarlo. La nostra confusione sull'argomento è causata da una dispersione ed ecletticismo nelle nostre associazioni con la parola "amore". Lo colleghiamo troppo esclusivamente alle passioni sessuali e materiali, la cui anti-passione è possessività, e con l'affetto indulgente, la cui anti-passione è sentimentalità. Concentrata e liberata dalle sue anti-passioni, l'amore è l'energia della creazione:
+Nella giovinezza dell'anno
 
-In gioventù dell'anno
+Venne Cristo la tigre —
 
-E' venuto Cristo, il tigre...
+pensiero inquietante.
 
-un pensiero inquietante.
+Tigre, tigre, che ardi fulgente
 
-Tigre, tigre, brillante
+Nelle foreste della notte,
 
-Nei boschi della notte,
+Quale mano immortale, quale occhio
 
-Che mano immortale o occhio
+Poté foggiare la tua tremenda simmetria? . . .
 
-Potrebbe incastrare la tua spaventosa simmetria? . . .
+E quale spalla, e quale arte,
 
-E che spalla e che arte,
+Poté torcere i tendini del tuo cuore?
 
-Potrebbe torcere i nervi del tuo cuore?
+E quando il tuo cuore prese a battere,
 
-E quando il tuo cuore cominciò a battere,
+Quale tremenda mano? e quali tremendi piedi? . . .
 
-Che mano spaventosa? e che piedi spaventosi? . . .
+Quando le stelle scagliarono giù le loro lance,
 
-Quando le stelle gettarono le lance,
+E bagnarono il cielo delle loro lacrime,
 
-E acqua'd cielo con le loro lacrime,
+Sorrise egli nel contemplare la sua opera?
 
-Ha sorriso per vedere il suo lavoro?
+Colui che fece l'Agnello, fece anche te?
 
-Ti ha fatto colui che ha fatto l'Agnello?
+A questa domanda l'artista creatore risponde con un Sì senza riserve, suscitando con ciò la costernazione dei custodi del codice morale, e la frettolosa approvazione, da parte loro, di risoluzioni secondo cui gli artisti sono gente pericolosa e un elemento sovversivo dello Stato.
 
-A questa domanda, l'artista creativo risponde con un certo sì, eccitando così la consternazione, e la rapida adozione di risoluzioni da parte dei custodi del codice morale che gli artisti sono persone pericolose e un elemento sovversivo nello stato.
+E i re della terra, e i grandi, e i ricchi, e i capitani, e i potenti, e ogni servo e ogni uomo libero si nascosero nelle spelonche e fra le rocce dei monti; e dicevano ai monti e alle rocce: Cadete su di noi e nascondeteci dal cospetto di colui che siede sul trono e dall'ira dell'Agnello; perché è venuto il gran giorno della sua ira, e chi può reggere in piedi?
 
-E i re della terra, e i grandi, e i ricchi, e i capi dei comandanti, e i potenti, e ogni schiavo, e ogni libero, si nasconderono nelle grotte e nelle rocce dei monti, e dissero ai monti e alle rocce: Cadete su di noi, e nascondeteci dalla faccia di colui che è seduto sul trono, e dalla ira dell'Agnello; perché è giunto il grande giorno della sua ira, e chi può stare?
+Chi, davvero? Né la resistenza né la rassegnazione servono qui a qualcosa. All'Amore-in-Energia l'unica risposta efficace è l'Amore-in-Potenza, che abbraccia con slancio il proprio sacrificio. In altre parole, l'opera perfetta dell'amore esige la cooperazione della creatura, che risponde secondo la legge della propria natura.
 
-Chi è? Né la resistenza né le dimissioni faranno nulla qui. All'Amore-in-Energia, l'unica risposta efficace è l'Amore-in-Potenza, che accoglie con entusiasmo il proprio sacrificio. In altre parole, l'opera perfetta dell'amore richiede la cooperazione della creatura, rispondendo secondo la legge della sua natura.
+Per l'artista che maneggia la materia inanimata, questa cooperazione è assicurata senza autocoscienza né volontà da parte della creatura, purché il creatore abbia rettamente concepito l'opera in rapporto alla natura del suo materiale. La materia inanimata, lasciata a se stessa, tende a scivolare nella casualità lungo le linee di minor resistenza, e questa tendenza ne determina la struttura naturale. È compito dell'artista far sì che questo moto della struttura naturale cooperi con la struttura della sua opera. La struttura della sabbia, per esempio, non si presta alla fabbricazione di corde, e la follia dell'artista che tenti un'impresa così poco cooperativa è passata in proverbio. Certi tipi di sabbia, tuttavia, si prestano volentieri alla fabbricazione del vetro, benché a prezzo del sacrificio della loro struttura originaria. Con la materia vivente, ancorché priva di coscienza, il creatore deve pur sempre adattare l'opera al materiale, benché qui egli sperimenti qualcosa che, senza indebito antropomorfismo, si può chiamare «risposta»: le piante «rispondono» alla coltivazione e alla fecondazione incrociata in un senso alquanto diverso da quello in cui si può dire che il ferro «risponda» al martello. La materia animale, a sua volta, «risponde» lungo una scala ascendente di coscienza, finché, con gli animali domestici, ci accostiamo assai da vicino alla piena cooperazione autocosciente. Nei rapporti dell'uomo con l'uomo, la cooperazione contiene la più alta proporzione di autocoscienza.
 
-Per l'artista che gestisce la materia inanimata, questa cooperazione è assicurata senza la coscienza o la volontà della creatura, a condizione che il creatore abbia concepito correttamente l'opera in relazione alla natura del suo materiale. La materia inanimata, lasciata a se stessa, tende a cadere in casualità lungo le linee di minore resistenza, e questa tendenza determina la sua struttura naturale. È compito dell'artista vedere che questo movimento della struttura naturale collabori con la struttura della sua opera. La struttura della sabbia, ad esempio, non si adatta alla fabbricazione di corde, e la follia dell'artista che cerca di fare un progetto così non cooperativo è diventata un proverbio. Alcune specie di sabbia, tuttavia, si adattano facilmente alla fabbricazione del vetro, pur sacrificando la loro struttura originaria. Con la materia vivente, anche se inconscia, il creatore deve ancora adattare l'opera al materiale, anche se qui sperimenta qualcosa che può senza un eccessivo antropomorfismo essere chiamato una "risposta"; le piante "rispondevano" alla coltivazione e alla fertilizzazione incrociata in un senso piuttosto diverso da quello in cui si può dire che il ferro "risponda" al martellamento. La materia animale, ancora una volta, "risponde" su una scala crescente di coscienza, fino a quando, con le bestie domestiche, ci avviciniamo molto vicino alla piena cooperazione consapevole di sé. Nel rapporto tra l'uomo e l'uomo, la cooperazione contiene la più alta percentuale di autocoscienza.
-
-Che nessun creatore umano possa creare un essere consapevole di sé, abbiamo già visto; e abbiamo visto anche che è sempre spinto da un desiderio interiore a farlo, trovando approssimative soddisfazioni per questo desiderio nella procreazione, in tali relazioni come quelle di un drammaturgo con i suoi attori, e nella creazione di personaggi immaginari. In tutte queste relazioni, egli è consapevole dello stesso bisogno paradossale, vale a dire, della completa indipendenza della creatura combinata con la sua volontaria cooperazione nel suo scopo in conformità con la legge della sua natura. In questa necessità insistente egli vede l'immagine della perfetta relazione del Creatore e della creatura, e la perfetta riconciliazione della predestinazione divina con il libero arbitrio creato.
+Che nessun artefice umano possa creare un essere autocosciente, l'abbiamo già visto; e abbiamo visto anche che egli è sempre sospinto da un'intima brama di farlo, e che trova soddisfazioni approssimative di questo desiderio nella procreazione, in rapporti come quelli del drammaturgo con i suoi attori, e nella creazione di personaggi immaginari. In tutti questi rapporti egli avverte lo stesso paradossale bisogno: la completa indipendenza della creatura, unita alla sua volenterosa cooperazione al suo disegno, in conformità con la legge della propria natura. In questo bisogno insistente egli vede l'immagine della perfetta relazione fra Creatore e creatura, e la perfetta riconciliazione della predestinazione divina con la libera volontà creata.

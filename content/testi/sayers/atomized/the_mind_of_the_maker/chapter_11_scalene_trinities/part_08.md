@@ -51,29 +51,28 @@ All this, indeed, comes back to that which is the very essence of the ghost's *p
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/sayers/atomized/the_mind_of_the_maker/chapter_11_scalene_trinities/part_07">‹ part 07</a><a class="ex-next" href="/testi/sayers/atomized/the_mind_of_the_maker/chapter_12_problem_picture/part_01">part 01 ›</a></div>
 </nav>
 
+Lo scrittore senza-spirito è dunque non soltanto privo d'ispirazione, ma anche privo di senso critico. L'idea che l'autocritica sia necessariamente una zavorra per l'ispirazione è del tutto erronea, e trova credito soltanto nella mente del poetastro di quint'ordine. La critica creativa è la risposta continua dello Spirito alla propria creazione; la critica puramente distruttiva e inibitoria è invece, come tutte le forze distruttive, il mero antitipo diabolico del suo archetipo divino.
 
-L'autore non fantasma non è quindi solo non ispirato, ma anche non critico. L'idea che l'autocritica sia necessariamente un ostruzione dell'ispirazione è erronea e viene onorata solo nella mente del poeta di quinto grado. La critica creativa è la continua risposta dello Spirito alla sua stessa creazione; il tipo di critica puramente distruttiva e inibente è, come tutte le forze distruttive, semplicemente l'antitipo diabolico del suo archetipo divino.
+È la mortezza dei senza-spirito che pende come una macina sull'eloquenza dei politici pedestri e dei parroci coscienziosi privi del dono della predicazione. Parole che dovrebbero essere vive cadono dalle loro labbra come pietre, mancanti dello spirito di sapienza, che è la vita. È come se l'oratore non potesse udire ciò che sta dicendo — e tanto meno udire se stesso con le orecchie dei suoi ascoltatori. Lo spirito non è effuso né in cielo né in terra. Nel teatro della creazione il padre siede in disparte, isolato da ogni contatto; il figlio, come un automa, esibisce un disegno insensato di parole e di gesti; la platea è vuota, con le fodere antipolvere tirate sulle poltrone.
 
-E' la morte dei non fantasmi che appende come una pietra di mulino all'eloquenza dei politici pedonali e dei paroni di coscienza che non hanno il dono di predicare. Le parole che dovrebbero essere vive cadono dalle loro labbra come pietre, senza lo spirito della saggezza, che è la vita. È come se il relatore non potesse sentire ciò che diceva - e ancora meno, sentirsi con le orecchie dei suoi ascoltatori. Lo spirito non viene versato né in cielo né sulla terra. Nel teatro della creazione, il padre si trova a distanza, isolato dal contatto; il figlio, come un automazzo, mostra un modello di parola e gesto senza senso; le bancarelle sono vuote e le coperture di polvere si rivestono sopra di loro.
+Che cosa leggete, mio signore? - Parole, parole, parole.
 
-- Cosa leggi, mio signore?
+Un tratto penoso dei senza-spirito è la loro compiacenza: camminano e parlano, e non sanno di essere morti. Né, s'intende, sono desti alla mortezza della loro propria creazione. E come potrebbero? Solo i vivi possono tracciare una qualche distinzione fra la morte e la vita. Di qui i sermoni esanimi, i discorsi inanimati, ingombri delle carcasse di metafore logore e di fiori di retorica calpestati a morte; di qui la marcia verso l'urgente battaglia delle mummie imbalsamate del sentimento, issate a cavallo come il Cid morto, rigide nelle loro bende funebri sotto l'imponente panoplia. Di qui (più divertente) quelle giustapposizioni prive di umorismo d'immagini morte e vive che — con stupito scorno del loro perpetratore — vengono salutate come metafore miste dall'orecchio gioioso e beffardo del lettore vivo:
 
-Una caratteristica angosciante dei non fantasma è la loro compiacimento; camminano e parlano, e non sanno che sono morti. Né, ovviamente, sono vivi fino alla morte della loro stessa creazione. Come dovrebbero essere? Solo i vivi possono distinguere la morte dalla vita. Da qui i sermoni senza vita, i discorsi inanimati, carichi di carcasse di metafora esaurite e fiori di retorica calpestati a morte; da qui il movimento in battaglia urgente delle mummie imbalsamate di sentimento, cavalcati come il morto Cid, e rigidi nelle loro grave-banda sotto l'imponente panoply. Da qui (più divertente) quelle giustaposizioni senza umorismo di immagini morte e viventi che - per il sorpreso del colpevole - sono acclamate come metafora miscelata dall'orecchio gioioso e ribaldo del lettore vivo:
+Non v'è dubbio che egli abbia un desiderio d'azione da falco, senza briglia e senza sella, attraverso l'Atlantico;
 
-Senza dubbio ha un desiderio di azione simile a quello di falco, senza freno e senza sella, attraverso l'Atlantico;
+le sfortunate associazioni verbali:
 
-Le sfortunate associazioni verbali:
+Il torrente [tal dei tali], balzando nell'aria,
 
-Il torrente, che salta nell'aria,
+Lasciò nudo il fondo attonito del fiume;
 
-Lasciato il fondo del fiume stupefatto nudo;
+le inconsapevoli bestemmie dei pii:
 
-le blasfemie dei timorati,
+Che Dio, di evo in evo, possa proseguire
 
-Che Dio da sì a sì possa continuare
+L'opera stupefacente che HARRIS ha incominciato;
 
-Th' incredibile lavoro che Harris ha iniziato;
+di qui anche la pomposità, la pedestrità, l'anticlimax, e quelle «battute» intempestive nei drammi teatrali che provocano il riso nel punto sbagliato.
 
-E quindi anche la pomposità, il pedonismo, l'anti-climax e quelle "linee" mal tempate in spettacoli che provocano risate nel posto sbagliato.
-
-Tutto questo, infatti, rientra in ciò che è l'essenza stessa della personalità del fantasma: il potere di distinguere il bene dal male. È l'insuccesso di questo potere che taglia l'ispirazione tagliando il contatto con il padre, che è la bontà positiva nella creazione, e che distrugge il giudizio critico distruggendo la discongione tra negativo e positivo, tra caos e creazione.
+Tutto questo, in verità, riconduce a ciò che è l'essenza stessa della *persona* dello spirito: il potere di distinguere il bene dal male. È il venir meno di questo potere che recide l'ispirazione recidendo il contatto col padre, il quale *è* la bontà positiva nella creazione, e che distrugge il giudizio critico distruggendo la disgiunzione fra negativo e positivo, fra caos e creazione.

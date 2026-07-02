@@ -97,75 +97,74 @@ Who had an affair with a darkie;
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/sayers/atomized/the_mind_of_the_maker/chapter_13_postscript_the_worth_of_the_wo/part_02">‹ part 02</a><a class="ex-next" href="/testi/sayers/atomized/the_mind_of_the_maker/chapter_14_appendix/part_02">part 02 ›</a></div>
 </nav>
 
+CAPITOLO 14. Appendice
 
-Capitolo 14. Appendice
-
-Le porzioni pertinenti del Credo degli Apostoli, del Credo di Nicea e del *Quicunque Vult* (comunemente chiamato Credo Atanasiano).
+Le parti pertinenti del Credo degli Apostoli, del Credo Niceno e del *Quicunque Vult* (comunemente detto Credo Atanasiano).
 
 1. *Il Credo degli Apostoli*
 
-Io credo in Dio Padre Onnipotente, Creatore del cielo e della terra;
+Io credo in Dio, Padre onnipotente, Creatore del cielo e della terra;
 
-e nel suo Figlio unico Gesù Cristo nostro Signore, concepito dallo Spirito Santo;
+E in Gesù Cristo, suo unico Figlio, nostro Signore, il quale fu concepito di Spirito Santo;
 
 Io credo nello Spirito Santo.
 
-2. *Il Credo di Nicene*
+2. *Il Credo Niceno*
 
-Io credo in un solo Dio, il Padre Onnipotente, Creatore del cielo e della terra e di tutte le cose visibili e invisibili;
+Io credo in un solo Dio, Padre onnipotente, Creatore del cielo e della terra e di tutte le cose visibili e invisibili;
 
-e in un solo Signore Gesù Cristo, l'unigenito Figlio di Dio, nato dal Padre prima che tutti i mondi,
+E in un solo Signore, Gesù Cristo, unigenito Figlio di Dio, generato dal Padre prima di tutti i secoli,
 
-Dio di Dio, Luce di Luce, Dio Verissimo di Dio Verissimo, non nato creato, essendo di una sola sostanza con il Padre.
+Dio da Dio, Luce da Luce, Dio vero da Dio vero, generato, non creato, della stessa sostanza del Padre;
 
-In Lui sono state fatte tutte le cose;
+Per mezzo del quale tutte le cose sono state fatte;
 
-Che è scesa dal Cielo ed e' stata incarnata dallo Spirito Santo ed e' diventata uomo.
+Il quale discese dal cielo, e per opera dello Spirito Santo si è incarnato, e si è fatto uomo.
 
-E io credo nello Spirito Santo, il Signore, il Datore di vita, che proviene dal Padre e dal Figlio,
+E credo nello Spirito Santo, il Signore, il Datore di vita, che procede dal Padre e dal Figlio,
 
-che è adorato e glorificato insieme al Padre e al Figlio.
+Il quale con il Padre e il Figlio è adorato e glorificato;
 
-Che hanno parlato per mezzo dei profeti.
+Il quale ha parlato per mezzo dei profeti.
 
-3. Il Vult di Quicunque
+3. *Il Quicunque Vult*
 
-La Fede Cattolica è questa: che noi adoriamo un solo Dio in Trinità, e Trinità in Unità, né confondendo le Persone né dividendo la sostanza.
+La fede cattolica è questa: che veneriamo un solo Dio nella Trinità e la Trinità nell'Unità, senza confondere le Persone né dividere la Sostanza.
 
-Poiché c'è una Persona del Padre, un'altra del Figlio e un'altra dello Spirito Santo; ma la Divinità del Padre, del Figlio e dello Spirito Santo è tutta una - la gloria è uguale, la maestà coeterna.
+Poiché una è la Persona del Padre, altra quella del Figlio, altra quella dello Spirito Santo; ma la divinità del Padre, del Figlio e dello Spirito Santo è una sola: uguale la gloria, coeterna la maestà.
 
-Come il Padre è, così è il Figlio e così è lo Spirito Santo: il Padre incréato, il Figlio incréato e lo Spirito Santo incréato; il Padre incomprensibile, il Figlio incomprensibile e lo Spirito Santo incomprensibile; il Padre eterno, il Figlio eterno e lo Spirito Santo eterno;
+Quale è il Padre, tale è il Figlio e tale lo Spirito Santo: increato il Padre, increato il Figlio, increato lo Spirito Santo; incomprensibile il Padre, incomprensibile il Figlio, incomprensibile lo Spirito Santo; eterno il Padre, eterno il Figlio, eterno lo Spirito Santo;
 
-Eppure non ci sono tre eterni, ma uno eterno; così come non ci sono tre incomprensibili né tre non creati, ma uno non creato e uno incomprensibile.
+E tuttavia non vi sono tre eterni, ma un solo eterno; come pure non vi sono tre incomprensibili né tre increati, ma un solo increato e un solo incomprensibile.
 
-Allo stesso modo il Padre è onnipotente, il Figlio onnipotente e lo Spirito Santo onnipotente; eppure non sono tre onnipotenti ma uno onnipotente. Così il Padre è Dio, il Figlio è Dio, e lo Spirito Santo è Dio; eppure non sono tre Dei ma un Dio; così anche il Padre è Signore, il Figlio Signore e lo Spirito Santo Signore; eppure non tre Signori ma un Signore.
+Allo stesso modo onnipotente è il Padre, onnipotente il Figlio, onnipotente lo Spirito Santo; e tuttavia non vi sono tre onnipotenti, ma un solo onnipotente. Così il Padre è Dio, il Figlio è Dio, lo Spirito Santo è Dio; e tuttavia non vi sono tre Dèi, ma un solo Dio; allo stesso modo il Padre è Signore, il Figlio è Signore, lo Spirito Santo è Signore; e tuttavia non tre Signori, ma un solo Signore.
 
-Poiché come la verità cristiana ci costringe a riconoscere ogni Persona da sola come Dio e Signore, così ci è vietato dalla religione cattolica di dire che ci sono tre Dei o tre Signori.
+Poiché, come la verità cristiana ci obbliga a riconoscere che ciascuna Persona, presa per sé, è Dio e Signore, così la religione cattolica ci vieta di dire che vi sono tre Dèi o tre Signori.
 
-Il Padre non è fatto di nessuno, né creato né nato.
+Il Padre non è stato fatto da alcuno: né creato, né generato;
 
-Il Figlio è l'unico del Padre, non è né creato né creato, ma generato.
+Il Figlio è dal solo Padre: non fatto, né creato, ma generato;
 
-Lo Spirito Santo è del Padre e del Figlio, non è né creato né generato, ma procede.
+Lo Spirito Santo è dal Padre e dal Figlio: non fatto, né creato, né generato, ma procedente;
 
-Quindi c'è un Padre, non tre Padri; un Figlio, non tre Figli; uno Spirito Santo, non tre Spiriti Santi.
+Vi è dunque un solo Padre, non tre Padri; un solo Figlio, non tre Figli; un solo Spirito Santo, non tre Spiriti Santi.
 
-E in questa Trinità nessuno è prima o dopo l'altro, nessuno è più grande o meno di un altro; ma tutte e tre le Persone sono co-eterne insieme e co-uguali.
+E in questa Trinità nessuno è prima o dopo l'altro, nessuno maggiore o minore di un altro; ma tutte e tre le Persone sono fra loro coeterne e coeguali.
 
-Colui che sarà salvato deve dunque pensare alla Trinità.
+Chi dunque vuole essere salvato, così pensi della Trinità.
 
-Inoltre, per la salvezza eterna è necessario che egli creda anche giustamente nell'Incarnazione del nostro Signore Gesù Cristo. Perché la vera fede è questa: che crediamo e confessiamo che il nostro Signore Gesù Cristo, il Figlio di Dio, è Dio e uomo.
+È inoltre necessario alla salvezza eterna che egli creda rettamente anche nell'Incarnazione del Signore nostro Gesù Cristo. Poiché la retta fede è che crediamo e confessiamo che il Signore nostro Gesù Cristo, Figlio di Dio, è Dio e Uomo:
 
-Dio, dalla sostanza del Padre, nato prima dei mondi; e l'uomo, dalla sostanza della madre, nato nel mondo. Dio perfetto, e Uomo perfetto di un'anima ragionevole e carne umana sussistente; uguale al Padre come toccando la sua Divinità e inferiore al Padre come toccando la sua Umanità. che, sebbene sia Dio e Uomo, non è più due, ma un solo Cristo.
+Dio, della sostanza del Padre, generato prima dei secoli; e Uomo, della sostanza della Madre, nato nel mondo. Dio perfetto e Uomo perfetto, sussistente di anima razionale e di carne umana; uguale al Padre secondo la divinità, inferiore al Padre secondo l'umanità. Il quale, benché sia Dio e Uomo, non è tuttavia due, ma un solo Cristo.
 
-**Noti di piè di pagina**
+**Note**
 
- Se si deve usare questa strana espressione. La teoria secondo cui ciò che scrive non è il sé, ma qualche aspetto del sé è popolare in questi giorni. Aiuta il colpo di piccione. È, naturalmente, eretico, una forma di sabellianismo, senza dubbio. Eppure è molto poco usato. "Mr. Jones scrive come minatore di carbone" significa di solito che il critico conosce il signor Jones per essere un minatore, e prende per scontato che capisce l'estrazione mineraria. Ma "il signor Smith scrive come un cristiano" può solo significare che il critico percepisce Mr. Smith ha una certa comprensione del cristianesimo, e prende per scontato che è un cristiano. "Questo [ *che avevo molti amici cristiani* ]", dice il signor. Herbert Read, plaintivamente, "insieme al mio interesse intellettuale per la religione, e a una volta il mio frequente riferimento allo scolasticismo, ha spesso portato alla presunzione che io ero almeno in simpatia con la Chiesa cattolica, e forse un neo-Thomista" ( *Annals of Innocence and Experience*). Naturalmente; cosa altro poteva aspettarsi?
+Se proprio si deve usare questa curiosa espressione. La teoria secondo cui a scrivere non è l'io, ma qualche aspetto dell'io, è oggi assai popolare. Facilita le classificazioni. È, naturalmente, eretica: una forma di sabellianismo, senza dubbio. Anche così, la si usa con molta approssimazione. «Il signor Jones scrive da minatore» significa di solito che il critico sa che il signor Jones è un minatore, e dà per scontato che egli s'intenda di miniere. Ma «il signor Smith scrive da cristiano» può voler dire soltanto che il critico si avvede che il signor Smith possiede una qualche comprensione del cristianesimo, e dà per scontato che sia cristiano. «Questo fatto [*che io avessi molti amici cristiani*]», dice il signor Herbert Read in tono lamentoso, «insieme con il mio interesse intellettuale per la religione e, a un certo periodo, i miei frequenti riferimenti alla scolastica, ha spesso indotto a supporre che io fossi quanto meno in simpatia con la Chiesa cattolica, e forse un neotomista» (*Annals of Innocence and Experience*). Naturalmente: che altro poteva aspettarsi?
 
- Le conclusioni raggiunte dai fisici sembrano mostrare che le "leggi" che regolano il comportamento della materia inanimata possono essere ridotte a una "legge", cioè: che non esiste "legge" o codice nel senso arbitrario; che la materia "scende a caso", "va comunque", "fa come vuole", "fa tutto ciò che è statisticamente più probabile". Questo è solo un altro modo di dire che le "leggi" dell'universo fisico sono osservazioni di fatto; diciamo che la materia è tenuta a comportarsi come si comporta perché è così che vediamo che la materia si comporta. Di conseguenza, non possiamo usare le "leggi" della fisica per costruire un ipotetico universo di un tipo fisico diverso; quelle "leggi" sono osservazioni di fatto su *questo* universo, in modo che, secondo loro, nessun altro tipo di universo fisico è possibile. La natura animale, d'altra parte, pur obbedendo alla "legge" della casualità, sembra essere caratterizzata da un insieme aggiuntivo di "leggi", comprese, tra le altre cose, le proprietà di utilizzare la casualità fisica per la costruzione di un ordine proposto e di promulgare codici arbitrari per regolare il proprio comportamento. Vedi Reginald O. Kapp: *Scienza contro materialismo* , Sezione II, "Doppia determinazione".
+Le conclusioni cui sono giunti i fisici sembrano mostrare che le «leggi» che governano il comportamento della materia inanimata possono ridursi a un'unica «legge», e cioè: che non esiste «legge» o codice in senso arbitrario; che la materia «si assesta a caso», «va come capita», «fa quel che le pare», «fa ciò che è statisticamente più probabile». È solo un altro modo di dire che le «leggi» dell'universo fisico sono osservazioni di fatto; diciamo che la materia è tenuta a comportarsi come si comporta perché è così che vediamo comportarsi la materia. Di conseguenza non possiamo servirci delle «leggi» della fisica per costruire un ipotetico universo di natura fisica diversa; quelle «leggi» sono osservazioni di fatto su *questo* universo, sicché, stando ad esse, nessun altro genere di universo fisico è possibile. La natura animata, invece, pur obbedendo alla «legge» della casualità, appare caratterizzata da un insieme supplementare di «leggi», fra cui, tra l'altro, la proprietà di servirsi della casualità fisica per la costruzione di un ordine finalizzato, e quella di promulgare codici arbitrari per regolare il proprio comportamento. Si veda Reginald O. Kapp: *Science versus Materialism*, Sezione II, «Double Determinateness».
 
- Riassunto comodamente per la comodità mnemonica nel famoso Limerick:
+Comodamente riassunto, a uso mnemonico, nel celebre limerick:
 
-C'era una giovane donna di nome Starkie,
+C'era una giovane signora di nome Starkie,
 
-Che aveva una relazione con un negro;
+che ebbe una tresca con un moretto;

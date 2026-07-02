@@ -55,11 +55,10 @@ tags:
 
 <span class="qlang-split" data-lang="it"></span>
 
-
 *by Sayers*  ·  **Cluster:** [[Classical Education · The Trivium · Critique Of Progress]]
 
 > [!abstract] 
-> In questa conferenza di Oxford del 1947, Sayers sostiene che l'istruzione moderna insegna una moltitudine di "soggetti", ma non insegna ai bambini come pensare, lasciandoli indifesi contro la propaganda, la pubblicità e le discussioni sconsiderate. Il suo rimedio è quello di far rivivere il trivio medievale Gramatica, Dialettica e Retorica come veri strumenti di apprendimento, corrispondendo ciascuno a una fase naturale dello sviluppo del bambino (la Poll-pappagallo, il Pert e le età poetica). L'unico scopo dell'istruzione, insiste, è quello di insegnare alle persone come imparare da sole, in modo che qualsiasi argomento diventi una porta aperta.
+> In questa conferenza tenuta a Oxford nel 1947, Sayers sostiene che la scuola moderna insegna una moltitudine di "materie" ma non insegna ai ragazzi a pensare, lasciandoli indifesi di fronte alla propaganda, alla pubblicità e alle argomentazioni sciatte. Il suo rimedio è far rivivere il Trivio medievale—Grammatica, Dialettica e Retorica—quali veri strumenti dell'apprendimento, facendo corrispondere ciascuno a una fase naturale dello sviluppo del bambino (l'età del Pappagallo, l'età Impertinente e l'età Poetica). L'unico fine dell'educazione, insiste, è insegnare alle persone a imparare da sé, così che ogni materia diventi una porta aperta.
 
 ## Connections
 

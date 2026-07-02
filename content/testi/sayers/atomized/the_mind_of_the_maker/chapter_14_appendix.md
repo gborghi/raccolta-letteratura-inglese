@@ -301,277 +301,278 @@ NORWICH
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/sayers/atomized/the_mind_of_the_maker/chapter_13_postscript_the_worth_of_the_wo">‹ Chapter 13 Postscript The Worth of the Wo</a><a class="ex-next" href="/testi/sayers/atomized/the_mind_of_the_maker/chapter_02_the_laws_of_nature_and_opinion/part_01">part 01 ›</a></div>
 </nav>
 
+CAPITOLO 14. Appendice
 
-Capitolo 14. Appendice
-
-Le porzioni pertinenti del Credo degli Apostoli, del Credo di Nicea e del *Quicunque Vult* (comunemente chiamato Credo Atanasiano).
+Le parti pertinenti del Credo degli Apostoli, del Credo Niceno e del *Quicunque Vult* (comunemente detto Credo Atanasiano).
 
 1. *Il Credo degli Apostoli*
 
-Io credo in Dio Padre Onnipotente, Creatore del cielo e della terra;
+Io credo in Dio, Padre onnipotente, Creatore del cielo e della terra;
 
-e nel suo Figlio unico Gesù Cristo nostro Signore, concepito dallo Spirito Santo;
+E in Gesù Cristo, suo unico Figlio, nostro Signore, il quale fu concepito di Spirito Santo;
 
 Io credo nello Spirito Santo.
 
-2. *Il Credo di Nicene*
+2. *Il Credo Niceno*
 
-Io credo in un solo Dio, il Padre Onnipotente, Creatore del cielo e della terra e di tutte le cose visibili e invisibili;
+Io credo in un solo Dio, Padre onnipotente, Creatore del cielo e della terra e di tutte le cose visibili e invisibili;
 
-e in un solo Signore Gesù Cristo, l'unigenito Figlio di Dio, nato dal Padre prima che tutti i mondi,
+E in un solo Signore, Gesù Cristo, unigenito Figlio di Dio, generato dal Padre prima di tutti i secoli,
 
-Dio di Dio, Luce di Luce, Dio Verissimo di Dio Verissimo, non nato creato, essendo di una sola sostanza con il Padre.
+Dio da Dio, Luce da Luce, Dio vero da Dio vero, generato, non creato, della stessa sostanza del Padre;
 
-In Lui sono state fatte tutte le cose;
+Per mezzo del quale tutte le cose sono state fatte;
 
-Che è scesa dal Cielo ed e' stata incarnata dallo Spirito Santo ed e' diventata uomo.
+Il quale discese dal cielo, e per opera dello Spirito Santo si è incarnato, e si è fatto uomo.
 
-E io credo nello Spirito Santo, il Signore, il Datore di vita, che proviene dal Padre e dal Figlio,
+E credo nello Spirito Santo, il Signore, il Datore di vita, che procede dal Padre e dal Figlio,
 
-che è adorato e glorificato insieme al Padre e al Figlio.
+Il quale con il Padre e il Figlio è adorato e glorificato;
 
-Che hanno parlato per mezzo dei profeti.
+Il quale ha parlato per mezzo dei profeti.
 
-3. Il Vult di Quicunque
+3. *Il Quicunque Vult*
 
-La Fede Cattolica è questa: che noi adoriamo un solo Dio in Trinità, e Trinità in Unità, né confondendo le Persone né dividendo la sostanza.
+La fede cattolica è questa: che veneriamo un solo Dio nella Trinità e la Trinità nell'Unità, senza confondere le Persone né dividere la Sostanza.
 
-Poiché c'è una Persona del Padre, un'altra del Figlio e un'altra dello Spirito Santo; ma la Divinità del Padre, del Figlio e dello Spirito Santo è tutta una - la gloria è uguale, la maestà coeterna.
+Poiché una è la Persona del Padre, altra quella del Figlio, altra quella dello Spirito Santo; ma la divinità del Padre, del Figlio e dello Spirito Santo è una sola: uguale la gloria, coeterna la maestà.
 
-Come il Padre è, così è il Figlio e così è lo Spirito Santo: il Padre incréato, il Figlio incréato e lo Spirito Santo incréato; il Padre incomprensibile, il Figlio incomprensibile e lo Spirito Santo incomprensibile; il Padre eterno, il Figlio eterno e lo Spirito Santo eterno;
+Quale è il Padre, tale è il Figlio e tale lo Spirito Santo: increato il Padre, increato il Figlio, increato lo Spirito Santo; incomprensibile il Padre, incomprensibile il Figlio, incomprensibile lo Spirito Santo; eterno il Padre, eterno il Figlio, eterno lo Spirito Santo;
 
-Eppure non ci sono tre eterni, ma uno eterno; così come non ci sono tre incomprensibili né tre non creati, ma uno non creato e uno incomprensibile.
+E tuttavia non vi sono tre eterni, ma un solo eterno; come pure non vi sono tre incomprensibili né tre increati, ma un solo increato e un solo incomprensibile.
 
-Allo stesso modo il Padre è onnipotente, il Figlio onnipotente e lo Spirito Santo onnipotente; eppure non sono tre onnipotenti ma uno onnipotente. Così il Padre è Dio, il Figlio è Dio, e lo Spirito Santo è Dio; eppure non sono tre Dei ma un Dio; così anche il Padre è Signore, il Figlio Signore e lo Spirito Santo Signore; eppure non tre Signori ma un Signore.
+Allo stesso modo onnipotente è il Padre, onnipotente il Figlio, onnipotente lo Spirito Santo; e tuttavia non vi sono tre onnipotenti, ma un solo onnipotente. Così il Padre è Dio, il Figlio è Dio, lo Spirito Santo è Dio; e tuttavia non vi sono tre Dèi, ma un solo Dio; allo stesso modo il Padre è Signore, il Figlio è Signore, lo Spirito Santo è Signore; e tuttavia non tre Signori, ma un solo Signore.
 
-Poiché come la verità cristiana ci costringe a riconoscere ogni Persona da sola come Dio e Signore, così ci è vietato dalla religione cattolica di dire che ci sono tre Dei o tre Signori.
+Poiché, come la verità cristiana ci obbliga a riconoscere che ciascuna Persona, presa per sé, è Dio e Signore, così la religione cattolica ci vieta di dire che vi sono tre Dèi o tre Signori.
 
-Il Padre non è fatto di nessuno, né creato né nato.
+Il Padre non è stato fatto da alcuno: né creato, né generato;
 
-Il Figlio è l'unico del Padre, non è né creato né creato, ma generato.
+Il Figlio è dal solo Padre: non fatto, né creato, ma generato;
 
-Lo Spirito Santo è del Padre e del Figlio, non è né creato né generato, ma procede.
+Lo Spirito Santo è dal Padre e dal Figlio: non fatto, né creato, né generato, ma procedente;
 
-Quindi c'è un Padre, non tre Padri; un Figlio, non tre Figli; uno Spirito Santo, non tre Spiriti Santi.
+Vi è dunque un solo Padre, non tre Padri; un solo Figlio, non tre Figli; un solo Spirito Santo, non tre Spiriti Santi.
 
-E in questa Trinità nessuno è prima o dopo l'altro, nessuno è più grande o meno di un altro; ma tutte e tre le Persone sono co-eterne insieme e co-uguali.
+E in questa Trinità nessuno è prima o dopo l'altro, nessuno maggiore o minore di un altro; ma tutte e tre le Persone sono fra loro coeterne e coeguali.
 
-Colui che sarà salvato deve dunque pensare alla Trinità.
+Chi dunque vuole essere salvato, così pensi della Trinità.
 
-Inoltre, per la salvezza eterna è necessario che egli creda anche giustamente nell'Incarnazione del nostro Signore Gesù Cristo. Perché la vera fede è questa: che crediamo e confessiamo che il nostro Signore Gesù Cristo, il Figlio di Dio, è Dio e uomo.
+È inoltre necessario alla salvezza eterna che egli creda rettamente anche nell'Incarnazione del Signore nostro Gesù Cristo. Poiché la retta fede è che crediamo e confessiamo che il Signore nostro Gesù Cristo, Figlio di Dio, è Dio e Uomo:
 
-Dio, dalla sostanza del Padre, nato prima dei mondi; e l'uomo, dalla sostanza della madre, nato nel mondo. Dio perfetto, e Uomo perfetto di un'anima ragionevole e carne umana sussistente; uguale al Padre come toccando la sua Divinità e inferiore al Padre come toccando la sua Umanità. che, sebbene sia Dio e Uomo, non è più due, ma un solo Cristo.
+Dio, della sostanza del Padre, generato prima dei secoli; e Uomo, della sostanza della Madre, nato nel mondo. Dio perfetto e Uomo perfetto, sussistente di anima razionale e di carne umana; uguale al Padre secondo la divinità, inferiore al Padre secondo l'umanità. Il quale, benché sia Dio e Uomo, non è tuttavia due, ma un solo Cristo.
 
-**Noti di piè di pagina**
+**Note**
 
- Se si deve usare questa strana espressione. La teoria secondo cui ciò che scrive non è il sé, ma qualche aspetto del sé è popolare in questi giorni. Aiuta il colpo di piccione. È, naturalmente, eretico, una forma di sabellianismo, senza dubbio. Eppure è molto poco usato. "Mr. Jones scrive come minatore di carbone" significa di solito che il critico conosce il signor Jones per essere un minatore, e prende per scontato che capisce l'estrazione mineraria. Ma "il signor Smith scrive come un cristiano" può solo significare che il critico percepisce Mr. Smith ha una certa comprensione del cristianesimo, e prende per scontato che è un cristiano. "Questo [ *che avevo molti amici cristiani* ]", dice il signor. Herbert Read, plaintivamente, "insieme al mio interesse intellettuale per la religione, e a una volta il mio frequente riferimento allo scolasticismo, ha spesso portato alla presunzione che io ero almeno in simpatia con la Chiesa cattolica, e forse un neo-Thomista" ( *Annals of Innocence and Experience*). Naturalmente; cosa altro poteva aspettarsi?
+Se proprio si deve usare questa curiosa espressione. La teoria secondo cui a scrivere non è l'io, ma qualche aspetto dell'io, è oggi assai popolare. Facilita le classificazioni. È, naturalmente, eretica: una forma di sabellianismo, senza dubbio. Anche così, la si usa con molta approssimazione. «Il signor Jones scrive da minatore» significa di solito che il critico sa che il signor Jones è un minatore, e dà per scontato che egli s'intenda di miniere. Ma «il signor Smith scrive da cristiano» può voler dire soltanto che il critico si avvede che il signor Smith possiede una qualche comprensione del cristianesimo, e dà per scontato che sia cristiano. «Questo fatto [*che io avessi molti amici cristiani*]», dice il signor Herbert Read in tono lamentoso, «insieme con il mio interesse intellettuale per la religione e, a un certo periodo, i miei frequenti riferimenti alla scolastica, ha spesso indotto a supporre che io fossi quanto meno in simpatia con la Chiesa cattolica, e forse un neotomista» (*Annals of Innocence and Experience*). Naturalmente: che altro poteva aspettarsi?
 
- Le conclusioni raggiunte dai fisici sembrano mostrare che le "leggi" che regolano il comportamento della materia inanimata possono essere ridotte a una "legge", cioè: che non esiste "legge" o codice nel senso arbitrario; che la materia "scende a caso", "va comunque", "fa come vuole", "fa tutto ciò che è statisticamente più probabile". Questo è solo un altro modo di dire che le "leggi" dell'universo fisico sono osservazioni di fatto; diciamo che la materia è tenuta a comportarsi come si comporta perché è così che vediamo che la materia si comporta. Di conseguenza, non possiamo usare le "leggi" della fisica per costruire un ipotetico universo di un tipo fisico diverso; quelle "leggi" sono osservazioni di fatto su *questo* universo, in modo che, secondo loro, nessun altro tipo di universo fisico è possibile. La natura animale, d'altra parte, pur obbedendo alla "legge" della casualità, sembra essere caratterizzata da un insieme aggiuntivo di "leggi", comprese, tra le altre cose, le proprietà di utilizzare la casualità fisica per la costruzione di un ordine proposto e di promulgare codici arbitrari per regolare il proprio comportamento. Vedi Reginald O. Kapp: *Scienza contro materialismo* , Sezione II, "Doppia determinazione".
+Le conclusioni cui sono giunti i fisici sembrano mostrare che le «leggi» che governano il comportamento della materia inanimata possono ridursi a un'unica «legge», e cioè: che non esiste «legge» o codice in senso arbitrario; che la materia «si assesta a caso», «va come capita», «fa quel che le pare», «fa ciò che è statisticamente più probabile». È solo un altro modo di dire che le «leggi» dell'universo fisico sono osservazioni di fatto; diciamo che la materia è tenuta a comportarsi come si comporta perché è così che vediamo comportarsi la materia. Di conseguenza non possiamo servirci delle «leggi» della fisica per costruire un ipotetico universo di natura fisica diversa; quelle «leggi» sono osservazioni di fatto su *questo* universo, sicché, stando ad esse, nessun altro genere di universo fisico è possibile. La natura animata, invece, pur obbedendo alla «legge» della casualità, appare caratterizzata da un insieme supplementare di «leggi», fra cui, tra l'altro, la proprietà di servirsi della casualità fisica per la costruzione di un ordine finalizzato, e quella di promulgare codici arbitrari per regolare il proprio comportamento. Si veda Reginald O. Kapp: *Science versus Materialism*, Sezione II, «Double Determinateness».
 
- Riassunto comodamente per la comodità mnemonica nel famoso Limerick:
+Comodamente riassunto, a uso mnemonico, nel celebre limerick:
 
-C'era una giovane donna di nome Starkie,
+C'era una giovane signora di nome Starkie,
 
-Che aveva una relazione con un negro;
+che ebbe una tresca con un moretto;
 
-Il risultato dei suoi peccati
+il frutto dei suoi peccati
 
-E' stato quadruple, non gemelli.
+furono quattro gemelli, non due,
 
-Uno nero e uno bianco e due khaki.
+uno nero, uno bianco e due color cachi.
 
- *Chambers' Encyclopaedia*: Art. Grimm (Jakob).
+*Chambers' Encyclopaedia*: voce Grimm (Jakob).
 
- cf. E. H. Carr: *La crisi dei vent'anni* , Cap. X.
+cfr. E. H. Carr: *The Twenty Years' Crisis*, cap. X.
 
- *Libertà nel mondo moderno.*
+*Freedom in the Modern World.*
 
- "La legge naturale può essere descritta brevemente come una forza operante nella storia che tende a mantenere gli esseri umani umani". - J. V. Langmead Casserley: *Il destino della cultura moderna* .
+«La legge naturale può descriversi in breve come una forza operante nella storia che tende a mantenere umani gli esseri umani.» — J. V. Langmead Casserley: *The Fate of Modern Culture*.
 
- cf. il concetto virgiliano del destino: "logia cosmica, che gli uomini sono liberi di disprezzare se scelgono, anche se, così facendo, si espongono ad una pena inevitabile". N. Cochrane: *Il cristianesimo e la cultura classica * .
+cfr. il concetto virgiliano di Destino: «una logica cosmica, che gli uomini sono liberi di sfidare, se così scelgono, benché, facendolo, si espongano a una pena inevitabile». — C. N. Cochrane: *Cristianesimo e cultura classica*.
 
- Lord David Cecil: "Valuti veri e falsi": *Il Quattro Settimanale* , marzo 1940.
+Lord David Cecil: «True and False Values»: *The Fortnightly*, marzo 1940.
 
- Jefferson: Dichiarazione dei rappresentanti degli Stati Uniti
+Jefferson: Dichiarazione dei rappresentanti degli Stati Uniti d'America.
 
- Chiesa d'Inghilterra: *Articles of Religion* , IX.
+Chiesa d'Inghilterra: *Articles of Religion*, IX.
 
- cf. St. Agostino: *Sulla Trinità*; Bk. XII, cap. V.
+cfr. sant'Agostino: *La Trinità*; libro XII, cap. V.
 
- St. Giovanni IV, 24.
+San Giovanni iv, 24.
 
- *Articoli di Religione* , I.
+*Articles of Religion*, I.
 
- Esodo IV. 14.
+Esodo iv, 14.
 
- La ricerca ci costringe a pensare ben oltre i limiti dell'immaginazione. Le formule permettono di esprimere le nuove scoperte, ma l'immaginazione non è in grado di trasmettere la particolare realtà alla nostra mente. Il sicuro "è" si riduce a un esitante "sembra esserlo". Un processo sembra essere l'azione di onde o di particelle a seconda dell'angolo da cui viene visto. Dispensare di formule per esprimere una generalizzazione scientifica e rimane solo l'analogia.-Huizinga: *In the Shadow of Tomorrow* .
+La ricerca ci costringe a pensare ben oltre i limiti dell'immaginazione. Le formule offrono il mezzo per esprimere le nuove scoperte, ma l'immaginazione è incapace di trasmettere alla nostra mente la realtà particolare. Il fiducioso «è» si riduce a un esitante «sembra essere». Un processo appare come azione di onde o di particelle a seconda dell'angolo da cui lo si osserva. Si rinunci alle formule per esprimere una generalizzazione scientifica, e non rimane che l'analogia. — Huizinga: *La crisi della civiltà*.
 
- Robert Browning: * Abbot Vogler * .
+Robert Browning: *Abt Vogler*.
 
- Su la Trinità: Bk. Io, Chap. I.
+*La Trinità*: libro I, cap. I.
 
- cf. Eddington, *Philosophy of Physical Science*: "Anche meno è una singola sensazione strettamente separabile dall'ambiente di emozione, memoria e attività intellettuale in cui si verifica; né è strettamente separabile dalla volontà che dirige l'attenzione verso di essa e dal pensiero che incarna la sapiente conoscenza di essa".
+cfr. Eddington, *Philosophy of Physical Science*: «Ancor meno una singola sensazione è rigorosamente separabile dal contesto di emozione, di memoria e di attività intellettuale in cui essa si produce; né è rigorosamente separabile dalla volizione che dirige su di essa l'attenzione e dal pensiero che ne incarna la conoscenza sapiente.»
 
- Allo stesso modo, ovviamente, "energia" non deve essere intesa nel senso tecnico del fisico (ad es. Mass × Accelerazione × Distanza), o "Potenza" nel senso dell'ingegnere (es. forza applicata); entrambe queste parole sono usate nel senso previsto dal poeta e dall'uomo comune.
+Analogamente, s'intende, «Energia» non va intesa nel senso tecnico del fisico (per es. massa × accelerazione × distanza), né «Potenza» nel senso dell'ingegnere (per es. forza applicata); entrambe le parole sono usate nel senso inteso dal poeta e dall'uomo comune.
 
- Huizinga: * Nell'ombra del domani * .
+Huizinga: *La crisi della civiltà*.
 
- Si veda [Nota "A"](20140909_split_009.html#c3a) alla fine del capitolo.
+Si veda la [Nota «A»](20140909_split_009.html#c3a) alla fine del capitolo.
 
- G. K. Il segreto del padre Brown .
+G. K. Chesterton: *Il segreto di padre Brown*.
 
- Cfr. [Chapter X,](20140909_split_022.html#c10) [*subt.*](20140909_split_022.html#c10)
+Si veda il [Capitolo X,](20140909_split_022.html#c10) [*subt.*](20140909_split_022.html#c10)
 
- Max Beerbohm: *Sette uomini * .
+Max Beerbohm: *Seven Men*.
 
- G. K. Chesterton: * Critiche e apprezzamenti delle opere di Charles Dickens * .
+G. K. Chesterton: *Criticisms and Appreciations of the Works of Charles Dickens*.
 
- Dickens era perfettamente capace di un tale cambiamento di proposito. Scrive a Forster, mentre si impegnava in *Dombey & Son*: "Su quel ragazzo [Walter Gay] ... Penso che sarebbe una buona cosa deludere tutte le aspettative che il capitolo sembra sollevare della sua felice connessione con la storia e l'eroina, e mostrargli che si allontana gradualmente e naturalmente, da quell'amore per l'avventura e la leggerazza maschile, verso la negligenza, l'ocio, la dissipazione, la disonestà e la rovina. Per mostrare, in breve, quella comune, quotidiana, miserabile declinazione di cui sappiamo tanto nella nostra vita ordinaria, per mostrare qualcosa della sua filosofia, in grandi tentazioni e una natura facile; e per mostrare come il bene si trasforma in cattivo, gradualmente. . . . Pensi che possa essere fatto, senza far arrabbiare le persone?" Per ragioni che Forster non specifica, ma che possono essere indovinate, Walter Gay fu risparmiato, e il quadro di "grandi tentazioni e una natura facile" rimandato fino alla comparsa di Richard Carstairs in *Bleak House*; ma l'indecisione dell'autore ha lasciato il segno su *Dombey* nel collegamento stranamente casuale di Walter con la struttura del complotto.
+Dickens era perfettamente capace di un simile mutamento di proposito. Mentre lavora a *Dombey & Son* scrive a Forster: «Quanto al ragazzo [Walter Gay]... penso che sarebbe una buona cosa deludere tutte le aspettative che quel capitolo sembra suscitare circa il suo felice legame con la storia e con l'eroina, e mostrarlo mentre scivola a poco a poco, con naturalezza, da quell'amore dell'avventura e da quella spensieratezza fanciullesca nella negligenza, nell'ozio, nella dissipazione, nella disonestà e nella rovina. Mostrare, insomma, quel comune, quotidiano, miserabile declino di cui tanto sappiamo nella nostra vita ordinaria, esibirne un poco la filosofia, fra grandi tentazioni e un'indole arrendevole; e mostrare come il bene si muti in male, per gradi... Credi che si possa fare, senza far arrabbiare la gente?» Per ragioni che Forster non specifica, ma che si possono indovinare, Walter Gay fu risparmiato, e il ritratto delle «grandi tentazioni e di un'indole arrendevole» rimandato fino alla comparsa di Richard Carstairs in *Casa desolata*; ma le indecisioni dell'autore hanno lasciato il loro segno su *Dombey*, nel legame stranamente casuale di Walter con la struttura dell'intreccio.
 
- Vedi il mio saggio in Titolo alla fama .
+Si veda il mio saggio in *Titles to Fame*.
 
- Non suggerisco, ovviamente, che lo scrittore possa creare gli eventi spaziale-tempo della sua storia di vita. Il potere creativo del creatore umano è, come abbiamo visto, limitato alla creazione di forme significative e di entità immateriali. È in questo quadro di forma e immaginazione che l'autobiografico "io" deve conformarsi alla legge della sua creazione.
+Non intendo dire, naturalmente, che lo scrittore possa creare gli *eventi* di spazio-tempo-materia della propria storia personale. Il potere creativo dell'artefice umano è, come abbiamo visto, limitato alla creazione di forma significante e di entità immateriali. È entro questo quadro di forma e immaginazione che l'«io» autobiografico deve conformarsi alla legge della propria creazione.
 
- *Chambers' Encyclopaedia*: Arte: Manicheo.
+*Chambers' Encyclopaedia*: voce Manichaeus.
 
- La dottrina Manichee ammette che Gesù storico ( * Jesus impatibilis *) ma lo ritiene non essere stato un uomo mortale, ma un fantasma, che non ha realmente sofferto nel Suo corpo.
+La dottrina manichea ammette il Gesù storico (*Jesus impatibilis*), ma sostiene che Egli non fu uomo mortale, bensì un fantasma, che non patì realmente nel Suo corpo.
 
- St. Agostino: * Confessioni * , iii. 7.
+Sant'Agostino: *Confessioni*, iii, 7.
 
- Nicholas Berdyaev: * Il destino dell' uomo * .
+Nicholas Berdyaev: *Il destino dell'uomo*.
 
- Ibid.
+Ibid.
 
- Teologicamente: *privatio* emette in una vera *depravatio* (Robertson).
+In termini teologici: la *privatio* sfocia in una reale *depravatio*. (Robertson.)
 
- Sempre escludendo, ovviamente, parole come "sportsdrome" e "normalità", che sono così impregnate di peccato che nessun posto è "giusto" per loro, eccetto l'Inferno, o un Diczionario di Barbarismi.
+Fatte salve sempre, s'intende, parole come «sportsdrome» e «normalcy», tanto intrise di peccato che nessun luogo è «giusto» per loro, tranne l'Inferno o un Dizionario dei Barbarismi.
 
- I lettori che sono interessati a studiare come un grande scrittore possa incorporare e migliorare il potere di ex scrittori, così come dei suoi stessi successi precedenti, dovrebbero studiare M. R. Il libro di Ridley:
+I lettori interessati a studiare come un grande scrittore possa incorporare e accrescere la forza degli scrittori che l'hanno preceduto, oltre che dei propri conseguimenti anteriori, dovrebbero studiare il libro di M. R. Ridley: *Keats' Craftsmanship*.
 
- Si veda [pagina 29](20140909_split_009.html#Page_29) . In realtà, il concetto è più agostiniano che platonico.
+Si veda [pagina 29](20140909_split_009.html#Page_29). In realtà il concetto è agostiniano più che platonico.
 
- Credo sia stata la signora. Pritchard, l'idiota ispirato di Johnson.
+Credo si trattasse della signora Pritchard, l'«idiota ispirata» di Johnson.
 
- Si veda [Nota "A"](20140909_split_021.html#c9a) alla fine del capitolo.
+Si veda la [Nota «A»](20140909_split_021.html#c9a) alla fine del capitolo.
 
- G. K. Chesterton: * L' Epoca vittoriana nella letteratura * .
+G. K. Chesterton: *The Victorian Age in Literature*.
 
- Una sensibilità imprudente verso i personaggi creati della finzione è, naturalmente, solo una delle forme che la sentimentalità dello scrittore può assumere. La tenerezza può essere versata su parole o paragrafi del libro stesso, in modo che l'autore diventa incapace di quel fermo massacro di inutili passaggi viola che è conosciuto nel commercio letterario come "uccisione dei propri cari". I cestini di carta di scarto del mondo sono riempiti di opere non potate i cui creatori soffrivano di questo tipo di sentimentalità. (Ho conosciuto una giovane donna che, nello stesso spirito, non poteva provare a tagliare i suoi "snaps di vacanza" per trasformarli in immagini ben bilanciate; protestò che non poteva "semplicemente sopportare" di sacrificare tanto quanto una striscia di cielo bianco o l'intrusione fuori fuoco della scarpa dello zio Bertie da questi sforzi creativi). La tenerezza che spinge il biografo a esporre il suo soggetto come un triste esempio di tutte le virtù è un'altra versione, leggermente più complicata, del trattamento sentimentale di un eroe immaginato.
+Un'incauta tenerezza verso i personaggi creati dalla finzione è, naturalmente, soltanto una delle forme che il sentimentalismo dello scrittore può assumere. La tenerezza può riversarsi sulle parole o sui paragrafi del libro stesso, sicché l'autore diventa incapace di quel fermo massacro dei passaggi aulici superflui che nel mestiere letterario è noto come «assassinare i propri tesori». I cestini della carta straccia di tutto il mondo sono zeppi di opere non potate, i cui creatori soffrivano di questa specie di sentimentalismo. (Ho conosciuto una giovane donna che, in uno spirito analogo, non riusciva a indursi a ritagliare le sue «istantanee delle vacanze» così da farne immagini ben equilibrate; protestava che «proprio non sopportava» di sacrificare, di quegli sforzi creativi, fosse pure una striscia di cielo vuoto o l'intrusione fuori fuoco dello stivale dello zio Bertie.) La tenerezza che induce il biografo a presentare il proprio soggetto come un tedioso campione di tutte le virtù è un'altra versione, un poco più complicata, del trattamento sentimentale di un eroe immaginato.
 
- Spenser:
+Così Spenser:
 
-Alcuni sono così grati per gentilezza,
+Ché alcuni per natura son sì leggiadri e cortesi,
 
-che ogni loro azione li glorificherà,
+che ogni loro azione grandemente li raccomanda,
 
-E agli occhi degli uomini trovare grande piacere,
+e agli occhi degli uomini gran favore incontra,
 
-Che altri che hanno una maggiore abilità in mente,
+ciò che altri, di maggior perizia dotati,
 
-Se si sforzano, non possono raggiungerlo.
+per quanto si sforzino, non sanno raggiungere;
 
-*Per tutto ciò a cui uno è inclinato*
+*ché ogni cosa a cui si è inclinati*
 
-# Il meglio diventa e la più grande grazia guadagna #
+*meglio si addice, e maggior grazia acquista:*
 
-Eppure la lode merita anche il bene che si fa con paine.
+eppur lode meritano anche le buone virtù conquistate con pena.
 
-La regina delle fate: VI. 11, 2.
+*Faery Queene*: VI, 11, 2.
 
- T. S. *Gerontion* .
+T. S. Eliot: *Gerontion*.
 
- William Blake: * Canzoni di esperienza * .
+William Blake: *Canti dell'esperienza*.
 
- Rivelazione di San Pietro Giovanni VI, 16, 17.
+Apocalisse di san Giovanni vi, 16-17.
 
- Sir James Jeans: *Eos* .
+Sir James Jeans: *Eos*.
 
- È, naturalmente, irrilevante opporsi che questa "creatura" che lotta per la manifestazione sia "in realtà" solo una parte del proprio ego del creatore. *Tutte le creature sono parte della mente del Creatore, e non hanno alcuna esistenza indipendente finché non raggiungono una parziale indipendenza attraverso la manifestazione.
+È naturalmente irrilevante obiettare che questa «creatura» che lotta per manifestarsi è «in realtà» soltanto una parte dell'ego dell'artefice. *Tutte* le creature sono parte della mente del loro Creatore, e non hanno esistenza indipendente finché non conseguono, mediante la manifestazione, una parziale indipendenza.
 
- C. S. Lewis: *L' Allegoria dell' Amore * .
+C. S. Lewis: *L'allegoria d'amore*.
 
- Quando l'artista ha il libro completo nella sua testa prima di scriverlo (vedi [p. 31](20140909_split_009.html#Page_31)) il figlio è, naturalmente, presente in piena attività con gran parte del lavoro (es. stile, caratterizzazione, sequenza di episodi) già consapevolmente realizzato; ma questo non è il caso del gentiluomo ingegnoso in questione, come presto scopriremo se gli chiediamo di spiegare la sua idea. Quello che gli manca non è il tempo o la sedia, ma la prima idea di come fare il lavoro.
+Quando l'artista ha il libro completo nella testa prima di metterlo per iscritto (si veda [p. 31](20140909_split_009.html#Page_31)), il figlio è naturalmente presente in piena attività, con buona parte dell'opera (per es. lo stile, la caratterizzazione, la successione degli episodi) già coscientemente realizzata; ma non è questo il caso dell'ingenuo gentiluomo in questione, come scopriamo ben presto se gli chiediamo di spiegarci la sua idea. Ciò che gli manca non è il tempo, né una sedia, ma la prima nozione di come mettersi all'opera.
 
- Babette Deutsch: * Questa poesia moderna * .
+Babette Deutsch: *This Modern Poetry*.
 
- Costante Coquelin: L'Art du Comédien.
+Constant Coquelin: *L'Art du Comédien*.
 
- Non dovrebbe essere, ma probabilmente è necessario chiarire a questo punto che non è l'altitudine del tema e del linguaggio che è la caratteristica distintiva del padre-centric, ma il fatto che tutto il lavoro dello scrittore e ogni sua parte possono essere riferiti a una coerente e controllante unità di Idea. Blake, Aquino, Euclide e Bach sono tutti patricentrici, così come Lewis Carroll nei libri "Alice"; ma Milton non lo è, né Donne, anche se il padre è potente in entrambi.
+Non dovrebbe essere necessario, ma probabilmente lo è, chiarire a questo punto che ciò che contraddistingue lo scrittore incentrato sul padre non è l'elevatezza del tema e del linguaggio, bensì il fatto che tutta l'opera dello scrittore, e ogni sua parte, possa essere ricondotta a una coerente e dominante unità di Idea. Blake, l'Aquinate, Euclide e Bach sono tutti patricentrici, e lo è Lewis Carroll nei libri di «Alice»; ma non lo è Milton, e nemmeno Donne, benché in entrambi il padre sia potente.
 
- La poesia del premio Newdigate, 1845.
+Dean Burgon: Petra: *Newdigate Prize Poem*, 1845.
 
- Lettere: *Passim* .
+Lettere: *passim*.
 
- Lettera a Proctor, 19.4.29.
+Lettera a Proctor, 19.4.29.
 
- Una canzone nel libro dei giusti della morte.
+Canzone in *Death's Jest-book*.
 
- Lettera a Kelsall, 30.4.29.
+Lettera a Kelsall, 30.4.29.
 
- La psicologia della distruzione e la sua connessione con l'arte surrealista è stata studiata dal Dr. G. W. Pailthorpe. Un volume di questa serie è in preparazione.
+La psicologia della distruzione e il suo legame con l'arte surrealista sono stati studiati dalla dottoressa G. W. Pailthorpe. Un volume per questa collana è in preparazione.
 
- Vedi [p. 52](20140909_split_013.html#Page_52) , *sup.*
+Si veda [p. 52](20140909_split_013.html#Page_52), *sup.*
 
- Vedi pag. (20140909_split_011.html#Page_43) *sup.* e (20140909_split_023.html#Page_138) *subt.*
+Si vedano le pp. (20140909_split_011.html#Page_43) *sup.* e (20140909_split_023.html#Page_138) *subt.*
 
- St. John Ervine: * Come scrivere una recitazione * .
+St. John Ervine: *How to Write a Play*.
 
- *Loc. cit.*
+*Loc. cit.*
 
- Il critico , atto III .
+Sheridan: *The Critic*, atto III.
 
- Il patripassianismo è l'eresia che sostiene che Dio Padre ha sofferto sulla croce con Dio Figlio. In questo caso è bene ricordare che nella nostra analogia "vicesità e tormenti" si intendono quelli che partecipano alla creazione letteraria, e non hanno nulla a che fare con il soggetto dell'opera o le emozioni della vita personale dell'autore.
+Il patripassianesimo è l'eresia secondo la quale Dio Padre patì sulla croce insieme con Dio Figlio. Qui sarà bene ricordare ancora una volta che, nella nostra analogia, «vicissitudini e tormenti» sono quelli che accompagnano la creazione letteraria, e non hanno nulla a che vedere con il soggetto dell'opera o con le emozioni della vita personale dell'autore.
 
- G. K. Chesterton: * L' Epoca vittoriana nella letteratura * .
+G. K. Chesterton: *The Victorian Age in Literature*.
 
- D'altra parte, il caso di J. D. Beresford in *Writing Aloud* (vedi [p. 56](20140909_split_013.html#Page_56) *sq.*) è, credo, un patripassianismo derivato dalla debolezza paterna. L'idea non era sufficientemente potente nella mente dello scrittore per controllare l'Energia; così che il figlio, invece di "fare la volontà del padre" stava facendo la propria volontà e quella dei personaggi. Il patripassianismo deve, in ogni caso, implicare una certa debolezza del padre, poiché è un'eresia che nega e confonda la personalità del padre.
+D'altra parte il caso di J. D. Beresford in *Writing Aloud* (si veda [p. 56](20140909_split_013.html#Page_56) *sq.*) è, credo, un patripassianesimo che deriva da una debolezza del padre. L'Idea non era abbastanza potente, nella mente dello scrittore, da controllare l'Energia; sicché il figlio, invece di «fare la volontà del padre», faceva la propria volontà e quella dei personaggi. Il patripassianesimo, in ogni caso, implica necessariamente una certa debolezza nel padre, essendo un'eresia che nega e confonde la *persona* del padre.
 
- [Capitolo VIII](20140909_split_018.html#c8) , *sup.*
+[Capitolo VIII](20140909_split_018.html#c8), *sup.*
 
- *Ramsay MacDonald* , in un dibattito sulla disoccupazione, 16.2.33. Hansard, vol. 274, pag. 1312.
+*Ramsay MacDonald*, in un dibattito sulla disoccupazione, 16.2.33. *Hansard*, vol. 274, p. 1312.
 
- Un poeta minore del XVIII secolo, credo, sull'argomento dell'Arca che attraversava il Giordano. Ho dimenticato il riferimento, ma la frase lapidaria stessa è stampata indelebilmente sulla memoria.
+Un poeta minore del Settecento, credo, sul tema dell'Arca che attraversa il Giordano. Ho dimenticato il riferimento, ma la frase lapidaria in sé è impressa indelebilmente nella memoria.
 
- Jane Cave: *Poesi su vari argomenti, intrattenenti, eleggici e religiosi* , 1783. J. C. Squire è il benefattore che ha salvato questo tesoro dall'oblio. "Jane Cave".
+Jane Cave: *Poems on Various Subjects, Entertaining, Elegiac, and Religious*, 1783. J. C. Squire è il benefattore che ha salvato questo tesoro dall'oblio: *Life and Letters*, art. «Jane Cave».
 
- In questo contesto, ovviamente, il bene e il male artistici; i non fantasmati delle lettere sono spesso persone di un giudizio critico rigido nella sfera della morale.
+In questo contesto, s'intende, bene e male artistici; i senza-spirito delle lettere sono spesso persone di rigidissimo giudizio critico nella sfera della morale.
 
- "Spirituale" non è la parola perfetta per opporsi a "materiale"; né è "vitale" o "mental". Ciascuno è troppo limitato, mentre il "non materiale" è troppo puramente negativo. As R. O. Kapp dice ( * op. cit.*) "ci serve una parola che suggerisca che la realtà non materiale possieda attributi che mancano di materia"; e richiediamo che questa parola copra l'intero campo della realtà non materiale. La parola che suggerisce è " *diatetica * ", che significa "capace di disporre di una specifica". Dato che questo termine utile non è ancora una moneta comune, dobbiamo farci conto di uno degli altri, insinuando che intendiamo con esso ciò che è intenzionale e ordinato nei suoi rapporti con la materia, al contrario dell'abitudine casuale e caotica della materia inanimata quando viene lasciata a se stessa.
+«Spirituale» non è proprio la parola giusta da contrapporre a «materiale»; e nemmeno lo sono «vitale» o «mentale». Ciascuna è troppo limitata, mentre «non materiale» è troppo puramente negativo. Come dice R. O. Kapp (*op. cit.*), «ci occorre una parola che suggerisca che la realtà non materiale possiede attributi che mancano alla materia»; e ci occorre che questa parola copra l'*intero* campo della realtà non materiale. La parola che egli propone è «*diatetico*», nel senso di «capace di disporre secondo una specificazione». Poiché questo utile termine non è ancora moneta corrente, dobbiamo arrangiarci con una delle altre parole, avvertendo che intendiamo con essa ciò che è finalizzato e ordinato nei suoi rapporti con la materia, in opposizione all'abitudine casuale e caotica della materia inanimata lasciata a se stessa.
 
- A. D. Le Due Moralità .
+A. D. Lindsay: *The Two Moralities*.
 
- Dixon Mann: *Medicina forense*: Art. "L'antagonismo dei veleni".
+Dixon Mann: *Forensic Medicine*: voce «Antagonism of Poisons».
 
- * Comincia qui*: Capitolo 2.
+*Begin Here*: capitolo 2.
 
- Reinhold Niebuhr: * Oltre alla tragedia * .
+Reinhold Niebuhr: *Beyond Tragedy*.
 
- Si veda [Postscript](20140909_split_026.html#c12) alla fine di questo capitolo.
+Si veda il [Poscritto](20140909_split_026.html#c12) alla fine di questo capitolo.
 
- [Teoria utopia] immagina che la perfetta innocenza, una nuova infanzia, si trova alla fine del processo sociale. Si ritiene capace di creare una società in cui tutte le tensioni siano risolte e la radice finale dell'anarchia umana venga eliminata. Se ciò fosse davvero possibile, la sua nuova società non sarebbe l'inizio della storia, come immagina con affetto, ma la sua fine. . . . Il problema del bene e del male non può essere completamente risolto nella storia. - Reinhold Niebuhr: *Beyond Tragedy* .
+[La teoria utopistica] immagina che al termine del processo sociale stia una perfetta innocenza, una nuova infanzia. Si crede capace di creare una società in cui tutte le tensioni siano risolte e la radice ultima dell'anarchia umana sia eliminata. Se ciò fosse davvero possibile, la sua nuova società non sarebbe l'inizio della storia, come essa si compiace di immaginare, ma la sua fine... Il problema del bene e del male non può essere risolto per intero dentro la storia. — Reinhold Niebuhr: *Beyond Tragedy*.
 
-La casuale "tremazione" della materia inanimata agisce per produrre stati di stabilità crescente, e si può aspettare di raggiungere uno stato finale in cui la stabilità è completa e nessun ulteriore sviluppo è possibile. Quando, in presenza di vita, la materia è costruita in un modello ordinato, si mantiene lì solo in uno stato di instabilità o tensione. Così, nell'universo come lo conosciamo, la volontà di stabilità è la volontà di morte.
+Il casuale «assestarsi» della materia inanimata agisce producendo stati di stabilità crescente, e ci si può attendere che raggiunga uno stato finale in cui la stabilità è completa e nessun ulteriore sviluppo è possibile. Quando, in presenza della vita, la materia viene costruita in una struttura ordinata, essa vi si mantiene soltanto in uno stato di instabilità o di tensione. Così, nell'universo quale lo conosciamo, la volontà di stabilità è volontà di morte.
 
- "A casa [nel 1939], il Ministero degli Esteri condivideva con tutto il cuore la visione generale di Whitehall che la guerra doveva essere una guerra di funzionari, di funzionari, per funzionari. Nel precedente conflitto [1914-1918] molti stranieri - semplici intellettuali e giornalisti - erano stati introdotti nella macchina amministrativa. Senza dubbio avevano contribuito in modo materiale alla vittoria della guerra, ma erano stati un fastidio confuso con le loro idee non convenzionali. Non si deve permettere che ciò accada nuovamente e, come abbiamo visto, la "vendita chiusa" è diventata l'ordine del giorno. A questo errore iniziale sono dovuti tutti gli errori successivi, e questi a loro volta hanno contribuito in modo materiale ai disastri della primavera e dell'estate successive. "- Sir Charles Petrie: *Twenty Years' Armistice and After* .
+«In patria [nel 1939] il Foreign Office condivideva senza riserve l'opinione generale di Whitehall, secondo cui la guerra doveva essere una guerra di funzionari, fatta dai funzionari, per i funzionari. Nel conflitto precedente [1914-1918] molti estranei — semplici intellettuali e giornalisti — erano stati introdotti nella macchina amministrativa. Senza dubbio avevano contribuito in modo sostanziale alla vittoria, ma con le loro idee anticonvenzionali erano stati una maledetta seccatura. Questo non doveva ripetersi e, come abbiamo visto, la 'bottega chiusa' divenne l'ordine del giorno. A questo errore iniziale si dovettero tutti gli sbagli successivi, i quali a loro volta contribuirono in modo sostanziale ai disastri della primavera e dell'estate seguenti.» — Sir Charles Petrie: *Twenty Years' Armistice and After*.
 
- Ecclesiasticus xxxviii. 24-34.
+Ecclesiastico xxxviii, 24-34.
 
- Middleton Murry: * Il tradimento di Cristo dalle Chiese * .
+Middleton Murry: *The Betrayal of Christ by the Churches*.
 
- Ibid.
+Ibid.
 
- È per questo che lo Stato socialista pienamente industrializzato deve ricorrere al lavoro forzato per mantenere le macchine al lavoro.
+Ecco perché lo Stato socialista pienamente industrializzato deve ricorrere al lavoro forzato per tenere in funzione le macchine.
 
- Art. nel Sunday Times, 1.12.40.
+Articolo sul *Sunday Times*, 1.12.40.
 
- È tuttavia giusto aggiungere che i capi delle Chiese in Gran Bretagna, nel loro Manifesto del 21 dicembre 1940, si sono distinti inserendo tra le loro aggiunte ai "cinque punti" del Papa la seguente dichiarazione:
+È tuttavia doveroso aggiungere che i capi delle Chiese di Gran Bretagna, nel loro Manifesto del 21 dicembre 1940, si sono distinti includendo, fra le loro aggiunte ai «Cinque Punti» del Papa, il seguente pronunciamento:
 
 Il senso di una vocazione divina deve essere restituito al lavoro quotidiano dell'uomo.
 
-Questa è una delle "cinque norme con cui si possono verificare le situazioni e le proposte economiche". I firmatari di questo Manifesto sono l'Arcivescovo cattolico romano di Westminster, gli Arcivescovi anglicani di Canterbury e York e il Moderatore del Consiglio federale della Chiesa Libera.
+Questo viene proposto come uno dei «cinque criteri alla stregua dei quali si possono vagliare le situazioni e le proposte economiche». I firmatari di questo Manifesto sono l'arcivescovo cattolico romano di Westminster, gli arcivescovi anglicani di Canterbury e di York e il moderatore del Free Church Federal Council.
 
- C. S. Lewis: *Il problema del dolore * .
+C. S. Lewis: *Il problema della sofferenza*.
 
- [Capitolo IX](20140909_split_020.html#c9) .
+[Capitolo IX](20140909_split_020.html#c9).
 
-Stampato da JARROLD AND SONS LTD. Norvegia
+STAMPATO DA
+JARROLD AND SONS LTD.
+NORWICH

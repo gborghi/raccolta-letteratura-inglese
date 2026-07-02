@@ -107,85 +107,84 @@ Yet praise likewise deserve good thewes enforst with paine.
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/sayers/atomized/the_mind_of_the_maker/chapter_14_appendix/part_02">‹ part 02</a><a class="ex-next" href="/testi/sayers/atomized/the_mind_of_the_maker/chapter_14_appendix/part_04">part 04 ›</a></div>
 </nav>
 
+Credo si trattasse della signora Pritchard, l'«idiota ispirata» di Johnson.
 
- Credo sia stata la signora. Pritchard, l'idiota ispirato di Johnson.
+Si veda la [Nota «A»](20140909_split_021.html#c9a) alla fine del capitolo.
 
- Si veda [Nota "A"](20140909_split_021.html#c9a) alla fine del capitolo.
+G. K. Chesterton: *The Victorian Age in Literature*.
 
- G. K. Chesterton: * L' Epoca vittoriana nella letteratura * .
+Un'incauta tenerezza verso i personaggi creati dalla finzione è, naturalmente, soltanto una delle forme che il sentimentalismo dello scrittore può assumere. La tenerezza può riversarsi sulle parole o sui paragrafi del libro stesso, sicché l'autore diventa incapace di quel fermo massacro dei passaggi aulici superflui che nel mestiere letterario è noto come «assassinare i propri tesori». I cestini della carta straccia di tutto il mondo sono zeppi di opere non potate, i cui creatori soffrivano di questa specie di sentimentalismo. (Ho conosciuto una giovane donna che, in uno spirito analogo, non riusciva a indursi a ritagliare le sue «istantanee delle vacanze» così da farne immagini ben equilibrate; protestava che «proprio non sopportava» di sacrificare, di quegli sforzi creativi, fosse pure una striscia di cielo vuoto o l'intrusione fuori fuoco dello stivale dello zio Bertie.) La tenerezza che induce il biografo a presentare il proprio soggetto come un tedioso campione di tutte le virtù è un'altra versione, un poco più complicata, del trattamento sentimentale di un eroe immaginato.
 
- Una sensibilità imprudente verso i personaggi creati della finzione è, naturalmente, solo una delle forme che la sentimentalità dello scrittore può assumere. La tenerezza può essere versata su parole o paragrafi del libro stesso, in modo che l'autore diventa incapace di quel fermo massacro di inutili passaggi viola che è conosciuto nel commercio letterario come "uccisione dei propri cari". I cestini di carta di scarto del mondo sono riempiti di opere non potate i cui creatori soffrivano di questo tipo di sentimentalità. (Ho conosciuto una giovane donna che, nello stesso spirito, non poteva provare a tagliare i suoi "snaps di vacanza" per trasformarli in immagini ben bilanciate; protestò che non poteva "semplicemente sopportare" di sacrificare tanto quanto una striscia di cielo bianco o l'intrusione fuori fuoco della scarpa dello zio Bertie da questi sforzi creativi). La tenerezza che spinge il biografo a esporre il suo soggetto come un triste esempio di tutte le virtù è un'altra versione, leggermente più complicata, del trattamento sentimentale di un eroe immaginato.
+Così Spenser:
 
- Spenser:
+Ché alcuni per natura son sì leggiadri e cortesi,
 
-Alcuni sono così grati per gentilezza,
+che ogni loro azione grandemente li raccomanda,
 
-che ogni loro azione li glorificherà,
+e agli occhi degli uomini gran favore incontra,
 
-E agli occhi degli uomini trovare grande piacere,
+ciò che altri, di maggior perizia dotati,
 
-Che altri che hanno una maggiore abilità in mente,
+per quanto si sforzino, non sanno raggiungere;
 
-Se si sforzano, non possono raggiungerlo.
+*ché ogni cosa a cui si è inclinati*
 
-*Per tutto ciò a cui uno è inclinato*
+*meglio si addice, e maggior grazia acquista:*
 
-# Il meglio diventa e la più grande grazia guadagna #
+eppur lode meritano anche le buone virtù conquistate con pena.
 
-Eppure la lode merita anche il bene che si fa con paine.
+*Faery Queene*: VI, 11, 2.
 
-La regina delle fate: VI. 11, 2.
+T. S. Eliot: *Gerontion*.
 
- T. S. *Gerontion* .
+William Blake: *Canti dell'esperienza*.
 
- William Blake: * Canzoni di esperienza * .
+Apocalisse di san Giovanni vi, 16-17.
 
- Rivelazione di San Pietro Giovanni VI, 16, 17.
+Sir James Jeans: *Eos*.
 
- Sir James Jeans: *Eos* .
+È naturalmente irrilevante obiettare che questa «creatura» che lotta per manifestarsi è «in realtà» soltanto una parte dell'ego dell'artefice. *Tutte* le creature sono parte della mente del loro Creatore, e non hanno esistenza indipendente finché non conseguono, mediante la manifestazione, una parziale indipendenza.
 
- È, naturalmente, irrilevante opporsi che questa "creatura" che lotta per la manifestazione sia "in realtà" solo una parte del proprio ego del creatore. *Tutte le creature sono parte della mente del Creatore, e non hanno alcuna esistenza indipendente finché non raggiungono una parziale indipendenza attraverso la manifestazione.
+C. S. Lewis: *L'allegoria d'amore*.
 
- C. S. Lewis: *L' Allegoria dell' Amore * .
+Quando l'artista ha il libro completo nella testa prima di metterlo per iscritto (si veda [p. 31](20140909_split_009.html#Page_31)), il figlio è naturalmente presente in piena attività, con buona parte dell'opera (per es. lo stile, la caratterizzazione, la successione degli episodi) già coscientemente realizzata; ma non è questo il caso dell'ingenuo gentiluomo in questione, come scopriamo ben presto se gli chiediamo di spiegarci la sua idea. Ciò che gli manca non è il tempo, né una sedia, ma la prima nozione di come mettersi all'opera.
 
- Quando l'artista ha il libro completo nella sua testa prima di scriverlo (vedi [p. 31](20140909_split_009.html#Page_31)) il figlio è, naturalmente, presente in piena attività con gran parte del lavoro (es. stile, caratterizzazione, sequenza di episodi) già consapevolmente realizzato; ma questo non è il caso del gentiluomo ingegnoso in questione, come presto scopriremo se gli chiediamo di spiegare la sua idea. Quello che gli manca non è il tempo o la sedia, ma la prima idea di come fare il lavoro.
+Babette Deutsch: *This Modern Poetry*.
 
- Babette Deutsch: * Questa poesia moderna * .
+Constant Coquelin: *L'Art du Comédien*.
 
- Costante Coquelin: L'Art du Comédien.
+Non dovrebbe essere necessario, ma probabilmente lo è, chiarire a questo punto che ciò che contraddistingue lo scrittore incentrato sul padre non è l'elevatezza del tema e del linguaggio, bensì il fatto che tutta l'opera dello scrittore, e ogni sua parte, possa essere ricondotta a una coerente e dominante unità di Idea. Blake, l'Aquinate, Euclide e Bach sono tutti patricentrici, e lo è Lewis Carroll nei libri di «Alice»; ma non lo è Milton, e nemmeno Donne, benché in entrambi il padre sia potente.
 
- Non dovrebbe essere, ma probabilmente è necessario chiarire a questo punto che non è l'altitudine del tema e del linguaggio che è la caratteristica distintiva del padre-centric, ma il fatto che tutto il lavoro dello scrittore e ogni sua parte possono essere riferiti a una coerente e controllante unità di Idea. Blake, Aquino, Euclide e Bach sono tutti patricentrici, così come Lewis Carroll nei libri "Alice"; ma Milton non lo è, né Donne, anche se il padre è potente in entrambi.
+Dean Burgon: Petra: *Newdigate Prize Poem*, 1845.
 
- La poesia del premio Newdigate, 1845.
+Lettere: *passim*.
 
- Lettere: *Passim* .
+Lettera a Proctor, 19.4.29.
 
- Lettera a Proctor, 19.4.29.
+Canzone in *Death's Jest-book*.
 
- Una canzone nel libro dei giusti della morte.
+Lettera a Kelsall, 30.4.29.
 
- Lettera a Kelsall, 30.4.29.
+La psicologia della distruzione e il suo legame con l'arte surrealista sono stati studiati dalla dottoressa G. W. Pailthorpe. Un volume per questa collana è in preparazione.
 
- La psicologia della distruzione e la sua connessione con l'arte surrealista è stata studiata dal Dr. G. W. Pailthorpe. Un volume di questa serie è in preparazione.
+Si veda [p. 52](20140909_split_013.html#Page_52), *sup.*
 
- Vedi [p. 52](20140909_split_013.html#Page_52) , *sup.*
+Si vedano le pp. (20140909_split_011.html#Page_43) *sup.* e (20140909_split_023.html#Page_138) *subt.*
 
- Vedi pag. (20140909_split_011.html#Page_43) *sup.* e (20140909_split_023.html#Page_138) *subt.*
+St. John Ervine: *How to Write a Play*.
 
- St. John Ervine: * Come scrivere una recitazione * .
+*Loc. cit.*
 
- *Loc. cit.*
+Sheridan: *The Critic*, atto III.
 
- Il critico , atto III .
+Il patripassianesimo è l'eresia secondo la quale Dio Padre patì sulla croce insieme con Dio Figlio. Qui sarà bene ricordare ancora una volta che, nella nostra analogia, «vicissitudini e tormenti» sono quelli che accompagnano la creazione letteraria, e non hanno nulla a che vedere con il soggetto dell'opera o con le emozioni della vita personale dell'autore.
 
- Il patripassianismo è l'eresia che sostiene che Dio Padre ha sofferto sulla croce con Dio Figlio. In questo caso è bene ricordare che nella nostra analogia "vicesità e tormenti" si intendono quelli che partecipano alla creazione letteraria, e non hanno nulla a che fare con il soggetto dell'opera o le emozioni della vita personale dell'autore.
+G. K. Chesterton: *The Victorian Age in Literature*.
 
- G. K. Chesterton: * L' Epoca vittoriana nella letteratura * .
+D'altra parte il caso di J. D. Beresford in *Writing Aloud* (si veda [p. 56](20140909_split_013.html#Page_56) *sq.*) è, credo, un patripassianesimo che deriva da una debolezza del padre. L'Idea non era abbastanza potente, nella mente dello scrittore, da controllare l'Energia; sicché il figlio, invece di «fare la volontà del padre», faceva la propria volontà e quella dei personaggi. Il patripassianesimo, in ogni caso, implica necessariamente una certa debolezza nel padre, essendo un'eresia che nega e confonde la *persona* del padre.
 
- D'altra parte, il caso di J. D. Beresford in *Writing Aloud* (vedi [p. 56](20140909_split_013.html#Page_56) *sq.*) è, credo, un patripassianismo derivato dalla debolezza paterna. L'idea non era sufficientemente potente nella mente dello scrittore per controllare l'Energia; così che il figlio, invece di "fare la volontà del padre" stava facendo la propria volontà e quella dei personaggi. Il patripassianismo deve, in ogni caso, implicare una certa debolezza del padre, poiché è un'eresia che nega e confonda la personalità del padre.
+[Capitolo VIII](20140909_split_018.html#c8), *sup.*
 
- [Capitolo VIII](20140909_split_018.html#c8) , *sup.*
+*Ramsay MacDonald*, in un dibattito sulla disoccupazione, 16.2.33. *Hansard*, vol. 274, p. 1312.
 
- *Ramsay MacDonald* , in un dibattito sulla disoccupazione, 16.2.33. Hansard, vol. 274, pag. 1312.
-
- Un poeta minore del XVIII secolo, credo, sull'argomento dell'Arca che attraversava il Giordano. Ho dimenticato il riferimento, ma la frase lapidaria stessa è stampata indelebilmente sulla memoria.
+Un poeta minore del Settecento, credo, sul tema dell'Arca che attraversa il Giordano. Ho dimenticato il riferimento, ma la frase lapidaria in sé è impressa indelebilmente nella memoria.
