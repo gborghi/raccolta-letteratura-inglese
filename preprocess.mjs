@@ -10,10 +10,22 @@ import matter from "gray-matter"
 
 const NUL = String.fromCharCode(0)
 
-// Normalize a string for title comparison: lower-case, collapse whitespace, and
-// convert typographic variants (curly quotes → straight, em/en dash → hyphen).
-function normTitle(s) {
+// Convert Obsidian wikilink markup to its display text so it never renders as
+// literal "[[...]]" on the site: [[target|label]] -> label, [[target]] -> target.
+// (The vault keeps the brackets — correct for Obsidian — but a Quartz frontmatter
+// `title:` is plain text, so a bracketed title would show the brackets verbatim.)
+function cleanWikilinks(s) {
   return String(s)
+    .replace(/\[\[([^\]|]+)\|([^\]]+)\]\]/g, "$2")
+    .replace(/\[\[([^\]]+)\]\]/g, "$1")
+}
+
+// Normalize a string for title comparison: strip wikilink markup, lower-case,
+// collapse whitespace, and convert typographic variants (curly quotes →
+// straight, em/en dash → hyphen). Wikilink stripping keeps the body-H1 match in
+// stripLeadingH1IfMatchesTitle working after the frontmatter title is cleaned.
+function normTitle(s) {
+  return cleanWikilinks(s)
     .replace(/[‘’]/g, "'")   // curly single quotes → '
     .replace(/[“”]/g, '"')   // curly double quotes → "
     .replace(/[–—]/g, "-")   // en dash, em dash → -
@@ -369,7 +381,7 @@ async function publishUnits(rawSourceToWork) {
           const srcAbs = path.join(subRoot, it.relU.split("/").join(path.sep))
           const raw = await fs.readFile(srcAbs, "utf8")
           const { body, title: h1Title } = splitUnit(raw)
-          const title = h1Title || prettyFromFilename(it.fileName)
+          const title = cleanWikilinks(h1Title) || prettyFromFilename(it.fileName)
 
           // prev/next within the reading sequence
           let prevHref = "",
