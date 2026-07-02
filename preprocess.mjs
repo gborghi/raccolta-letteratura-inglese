@@ -774,7 +774,7 @@ async function main() {
     Shakespeare: "author-shakespeare", Keats: "author-keats", Dickinson: "author-dickinson",
     Eliot: "author-eliot", Chesterton: "author-chesterton", Dickens: "author-dickens",
     Austen: "author-austen", Bronte: "author-bronte", Poe: "author-poe", Wilde: "author-wilde",
-    Coleridge: "author-coleridge", Whitman: "author-whitman",
+    Coleridge: "author-coleridge", Whitman: "author-whitman", Sayers: "author-sayers",
   }
   const authorsWheel = authors
     .filter((a) => !EXCLUDE_AUTHORS.has(a))

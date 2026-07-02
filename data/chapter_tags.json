@@ -50376,5 +50376,321 @@
    "vanity"
   ],
   "plot": "Tormented by guilt and the worsening portrait, Dorian resolves to destroy it — stabbing it with Basil's murder knife — and is found dead, aged and hideous, while the portrait reverts to its youthful beauty."
+ },
+ "testi/sayers/atomized/the_mind_of_the_maker/chapter_01_preface": {
+  "characters": [
+   "the writer",
+   "the reader",
+   "the creative mind",
+   "the trinity",
+   "god the father"
+  ],
+  "themes": [
+   "truth",
+   "faith",
+   "education",
+   "literary_criticism",
+   "the_trinity",
+   "creativity",
+   "the_natural_order"
+  ],
+  "plot": "Sayers clarifies her book is not apologetics but a factual commentary on the creeds' claims about God the Creator; lamenting widespread illiterate reading, she argues the mind's Trinitarian creative structure mirrors God."
+ },
+ "testi/sayers/atomized/the_mind_of_the_maker/chapter_02_the_laws_of_nature_and_opinion": {
+  "characters": [
+   "aristotle",
+   "eddington",
+   "god the father",
+   "saint francis",
+   "caligula"
+  ],
+  "themes": [
+   "the_natural_order",
+   "truth",
+   "faith",
+   "conscience",
+   "justice",
+   "sin_and_the_fall",
+   "providence"
+  ],
+  "plot": "Distinguishing arbitrary human 'law', codes resting on consent, from 'laws' stating unalterable fact about the universe, Sayers argues a universal natural moral law exists; defying it brings catastrophic 'judgments of God.'"
+ },
+ "testi/sayers/atomized/the_mind_of_the_maker/chapter_03_the_image_of_god": {
+  "characters": [
+   "aquinas",
+   "berdyaev",
+   "browning",
+   "god the father",
+   "the creative mind",
+   "the writer",
+   "the trinity"
+  ],
+  "themes": [
+   "imagination",
+   "divine_creation",
+   "creativity",
+   "art_and_craft",
+   "truth",
+   "the_trinity",
+   "beauty"
+  ],
+  "plot": "The 'image of God' in man is the desire and ability to make things; since all language about God is analogical, we should read the creeds through the creative artist's experience of making something from nothing."
+ },
+ "testi/sayers/atomized/the_mind_of_the_maker/chapter_04_idea_energy_power": {
+  "characters": [
+   "augustine",
+   "the writer",
+   "the reader",
+   "the trinity",
+   "god the father",
+   "god the son",
+   "god the holy ghost"
+  ],
+  "themes": [
+   "the_trinity",
+   "creativity",
+   "imagination",
+   "divine_creation",
+   "art_and_craft",
+   "incarnation",
+   "truth"
+  ],
+  "plot": "Every creative act is threefold, Idea (Father), Energy or Activity that works in time (Word), and Power responding in the soul (Spirit), three distinct yet consubstantial, an earthly trinity mirroring the heavenly."
+ },
+ "testi/sayers/atomized/the_mind_of_the_maker/chapter_05_the_energy_revealed_in_creatio": {
+  "characters": [
+   "augustine",
+   "shakespeare",
+   "chesterton",
+   "the writer",
+   "the reader",
+   "god the father",
+   "the creative mind"
+  ],
+  "themes": [
+   "creativity",
+   "imagination",
+   "art_and_craft",
+   "paradox",
+   "truth",
+   "divine_creation",
+   "the_trinity"
+  ],
+  "plot": "The writer is both immanent in and transcendent of his work: each character externalizes part of his mind, yet the mind exceeds the sum of works; genuine creation needs diversity within unity."
+ },
+ "testi/sayers/atomized/the_mind_of_the_maker/chapter_06_free_will_and_miracle": {
+  "characters": [
+   "the writer",
+   "the reader",
+   "god the father",
+   "the creative mind",
+   "chesterton",
+   "dickens",
+   "berdyaev"
+  ],
+  "themes": [
+   "fate_and_free_will",
+   "grace_and_redemption",
+   "creativity",
+   "providence",
+   "art_and_craft",
+   "the_natural_order",
+   "truth"
+  ],
+  "plot": "Truly created characters possess a real free will the author defies at his peril; forcing plot by arbitrary 'miracle' is bad art, whereas letting nature run free reconciles free will and predestination through grace."
+ },
+ "testi/sayers/atomized/the_mind_of_the_maker/chapter_07_the_energy_incarnate_in_self_e": {
+  "characters": [
+   "the writer",
+   "the reader",
+   "god the father",
+   "god the son",
+   "the creative mind",
+   "cellini"
+  ],
+  "themes": [
+   "incarnation",
+   "creativity",
+   "truth",
+   "art_and_craft",
+   "identity",
+   "divine_creation",
+   "self_and_soul"
+  ],
+  "plot": "Incarnation is analogous to a writer entering his own story as a character with a double, divine-and-human nature: a true but partial self-revelation whose sincerity is infallibly tested by artistic truth."
+ },
+ "testi/sayers/atomized/the_mind_of_the_maker/chapter_08_maker_of_all_thingsmaker_of_il": {
+  "characters": [
+   "god the father",
+   "god the son",
+   "the creative mind",
+   "the writer",
+   "aquinas",
+   "augustine",
+   "charles williams",
+   "marlowe",
+   "shakespeare",
+   "berdyaev",
+   "david garrick"
+  ],
+  "themes": [
+   "evil_and_free_will",
+   "sin_and_the_fall",
+   "divine_creation",
+   "paradox",
+   "creativity",
+   "grace_and_redemption",
+   "good_vs_evil",
+   "the_trinity"
+  ],
+  "plot": "Sayers analyses evil as Not-Being contingent on the Good: by creating Hamlet the poet creates Not-Hamlet, so God's Good necessarily begets evil, which self-will actualises at the Fall and only creative redemption can transmute."
+ },
+ "testi/sayers/atomized/the_mind_of_the_maker/chapter_09_pentecost": {
+  "characters": [
+   "god the father",
+   "god the son",
+   "god the holy ghost",
+   "the trinity",
+   "the creative mind",
+   "the writer",
+   "the reader",
+   "shakespeare",
+   "t. s. eliot",
+   "james joyce",
+   "milton",
+   "keats",
+   "robert browning",
+   "tennyson",
+   "john donne"
+  ],
+  "themes": [
+   "pentecost",
+   "the_trinity",
+   "creativity",
+   "imagination",
+   "incarnation",
+   "immortality_of_art",
+   "truth"
+  ],
+  "plot": "The Power (Holy Ghost) is the book-as-read: once incarnate, the Idea works in readers' minds, gathering accumulated verbal power across writers, mirroring the writer's Trinity of Idea, Energy and Power in the reader."
+ },
+ "testi/sayers/atomized/the_mind_of_the_maker/chapter_10_the_love_of_the_creature": {
+  "characters": [
+   "god the father",
+   "god the son",
+   "the creative mind",
+   "the writer",
+   "c. s. lewis",
+   "dickens",
+   "bulwer lytton",
+   "somerset maugham",
+   "blake",
+   "james jeans",
+   "berdyaev",
+   "shakespeare"
+  ],
+  "themes": [
+   "love_divine",
+   "creativity",
+   "fate_and_free_will",
+   "imagination",
+   "self_denial",
+   "sin_and_the_fall",
+   "order_vs_chaos"
+  ],
+  "plot": "Creative love is jealous yet not possessive nor sentimental: it grants the creature independence, embraces sacrifice, and demands co-operation, reconciling predestination with free will; Imagination is distinguished as the outward-driving opposite of self-absorbed Fantasy."
+ },
+ "testi/sayers/atomized/the_mind_of_the_maker/chapter_11_scalene_trinities": {
+  "characters": [
+   "god the father",
+   "god the son",
+   "god the holy ghost",
+   "the trinity",
+   "the creative mind",
+   "the writer",
+   "shakespeare",
+   "blake",
+   "beddoes",
+   "swinburne",
+   "james joyce",
+   "milton",
+   "tennyson",
+   "chesterton",
+   "coquelin",
+   "edwin booth",
+   "sheridan",
+   "elizabeth barrett browning",
+   "chekhov"
+  ],
+  "themes": [
+   "creativity",
+   "the_trinity",
+   "imagination",
+   "incarnation",
+   "original_sin",
+   "literary_criticism",
+   "paradox",
+   "the_artist_and_society"
+  ],
+  "plot": "Every artist's trinity is imperfect, or scalene: writers become father-ridden, son-ridden, or ghost-ridden, and their failures parallel the Christological heresies, since a weak Idea, Energy, or Power distorts the work like original sin."
+ },
+ "testi/sayers/atomized/the_mind_of_the_maker/chapter_12_problem_picture": {
+  "characters": [
+   "god the father",
+   "god the son",
+   "the creative mind",
+   "the writer",
+   "the common man",
+   "shakespeare",
+   "newton",
+   "berdyaev",
+   "augustine"
+  ],
+  "themes": [
+   "creativity",
+   "the_artist_and_society",
+   "mortality",
+   "critique_of_progress",
+   "truth",
+   "labor",
+   "paradox"
+  ],
+  "plot": "The modern habit of framing life as detective-style problems with final solutions falsifies reality; unlike soluble puzzles, death, war and work must be met creatively, made into something new rather than solved."
+ },
+ "testi/sayers/atomized/the_mind_of_the_maker/chapter_13_postscript_the_worth_of_the_wo": {
+  "characters": [
+   "god the father",
+   "god the son",
+   "the creative mind",
+   "the writer",
+   "c. s. lewis"
+  ],
+  "themes": [
+   "labor",
+   "the_artist_and_society",
+   "love_divine",
+   "creativity",
+   "value_and_scarcity",
+   "anti_industrialism",
+   "charity"
+  ],
+  "plot": "Industrialism and unemployment cannot be solved economically alone: work must be seen as a sacrament of creative energy, done with love and integrity for its own worth, distinguishing exacting love from indifferent kindness."
+ },
+ "testi/sayers/atomized/the_mind_of_the_maker/chapter_14_appendix": {
+  "characters": [
+   "god the father",
+   "god the son",
+   "god the holy ghost",
+   "the trinity",
+   "jesus christ"
+  ],
+  "themes": [
+   "the_trinity",
+   "incarnation",
+   "faith",
+   "divine_creation",
+   "immortality_divine"
+  ],
+  "plot": "The appendix reproduces the relevant portions of the Apostles', Nicene and Athanasian (Quicunque Vult) Creeds affirming Trinity-in-Unity and the Incarnation, followed by the book's collected footnotes and source references."
  }
 }

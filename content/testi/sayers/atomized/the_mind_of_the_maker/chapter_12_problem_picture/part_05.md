@@ -1,0 +1,37 @@
+---
+title: "The Mind of the Maker — Chapter 12: Problem Picture (part 5)"
+author: "Sayers"
+unitType: excerpt
+parentWork: "works/the-mind-of-the-maker-(sayers)"
+tags:
+  - graph/excerpt
+  - author/Sayers
+---
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Sayers · <a href="/works/the-mind-of-the-maker-(sayers)">The Mind of the Maker</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/sayers/atomized/the_mind_of_the_maker/chapter_12_problem_picture/part_04">‹ part 04</a><a class="ex-next" href="/testi/sayers/atomized/the_mind_of_the_maker/chapter_12_problem_picture/part_06">part 06 ›</a></div>
+</nav>
+
+
+1. *The detective problem is always soluble.* It is, in fact, constructed for the express purpose of being solved, and when the solution is found, the problem no longer exists. A detective or mathematical problem that could not be solved by *any* means at all, would simply not be what we understand by a "problem" in this sense. But it is unwise to suppose that all human experiences present problems of this kind. There is one vast human experience that confronts us so formidably that we cannot pretend to overlook it. There is no solution to death. There is no means whatever whereby you or I, by taking thought, can solve this difficulty in such a manner that it no longer exists. From very early days, alchemists have sought for the elixir of life, so reluctant is man to concede that there can be any problem incapable of solution. And of late, we note a growing resentment and exasperation in the face of death. We do not so much fear the pains of dying, as feel affronted by the notion that anything in this world should be inevitable. Our efforts are not directed, like those of the saint or the poet, to making something creative out of the idea of death, but rather to seeing whether we cannot somehow evade, abolish, and, in fact, "solve the problem of" death. The spiritual and mental energy which we expend upon resenting the inevitability of death is as much wasted as that which we from time to time have expended on attempts to "solve the problem" of perpetual motion.
+
+Further, this irrational preoccupation curiously hampers us in dealing with such a practical question as that of the possibility of war. It encourages us to look on the evil of war as consisting, first and foremost, in the fact that it kills a great many people. If we concentrate on this, instead of thinking of it in terms of the havoc it plays with the lives and souls of the survivors, we shall direct all our efforts to evading war at all costs, rather than to dealing intelligently with the conditions of life which cause wars and are caused by wars. This, in fact, is precisely what we did in 1919-1939.
+
+We did not, of course, really believe that, if only we could evade war, we should evade death altogether. We only talked and behaved as though we thought so. Death is less noticeable when it occurs privately and piecemeal. In time of peace we can pretend, almost successfully, that it is only a regrettable accident, which ought to have been avoided. If a wealthy old gentleman of ninety-two suddenly falls dead of heart-failure, the papers headline the event: "Tragic Death of Millionaire"; and we feel quite astonished and indignant that anybody so rich should be cut off in his prime. With all that money available for research, science should have been able to solve the problem of death for him. If we do not think this, then why use the word "tragic" about a death so clean, painless, and mature? (Do not say that the headline is too foolish to be true: I saw it with my own eyes.)
+
+We said last time that we hated war because it killed the young and strong before their time. But we are just as angry this time to see the old and the infirm perish with the rest. No man can die more than once; but great disasters, great pestilences, and above all great wars, cram our eyes and ears with the detested knowledge that life intends to kill us.
+
+Because of that, we would not risk war, for right or justice, or even in the hope of preserving peace. We threw down our arms, crying, "No More War!", and so delivered up Europe.
+
+Yet we know perfectly well that the paradox "he that will lose his life shall save it" is a plain and practical fact. Unless we are willing to risk death by jumping from a burning house, we shall most certainly be burnt to death. Indeed, had not the will of our physical nature been ready to accept death, we could never have been born.
+
+The "problem of death" is not susceptible of detective-story solution. The only two things we can do with death are, first: to postpone it, which is only partial solution, and, secondly, to transfer the whole set of values connected with death to another sphere of action-that is, from time to eternity.
+
+This brings us to consider the next two characteristics of the detective problem:
+
+2. *The detective problem is completely soluble* : no loose ends or unsatisfactory enigmas are left anywhere. The solution provides for everything and every question that is asked is answered. We are not left with a balance of probabilities in favour of one conclusion or another; nor does the fixing of the crime on the butler involve the detective in fresh enigmas connected with the cook. Such uncertainties may appear to arise in the course of the story, but they are all cleared up in the end by the discovering of the complete solution. It should not be necessary to point out here that this happy result proceeds from the simple fact that the author has been careful not to ask the questions that the solution will not answer.
+
+Now, our tendency to look for this kind of complete solution without lacunae or compensatory drawbacks badly distorts our view of a number of activities in real life. Medicine is a good example. We are inclined to think of health in terms of disease and cure. Here on the one hand is (we think) one definite disease, and there, on the other hand, should be the one, definite and complete "cure". Apply the cure to the disease, and the result ought to be an exact "solution" of the "problem" presented. If the physician cannot name the disease on sight and immediately produce the prescribed cure, we feel resentfully that the man does not know his business.
+
+In the same way, there used to be a firmly-rooted belief that to every poison there existed "the antidote"-a benevolent drug which would exactly reverse, each by each, the effects of the original poison and restore the body to the *status quo ante* . There are in fact, I believe, only two drugs which are complementary in this way, atropine and physostigmine [ ](20140909_split_028.html#fn_75) (incidentally, neither of them is "benevolent"-both are deadly poisons). With other drugs which are used to counteract one another, the reversal of the effects is only partial, or is rather a counteraction of the symptoms than a healing of the mischief done to the organs. In most cases, the usefulness of the curative drug is only to hold off or mitigate the effects of the poison until the body can summon its physical resources to cure itself. In certain instances, one disease can only be got rid of at the cost of contracting another, as in the malaria treatment of syphilis. Or the treatment demanded by-let us say-a diseased condition of the lungs may be impossible for one particular patient, because his constitution could not stand its violent effects upon the heart.
