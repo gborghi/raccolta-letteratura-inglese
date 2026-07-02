@@ -10,7 +10,7 @@ tags:
 
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/utopiausurers-(chesterton)">UtopiaUsurers</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/utopiausurers/story_12_the_lash_for_labour">‹ Story 12 THE LASH FOR LABOUR</a><a class="ex-next" href="/testi/chesterton/atomized/utopiausurers/story_14_a_by_reading_or_using_any_part_of_this_p">Story 14 A By reading or using any part of this P ›</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/utopiausurers/story_12_the_lash_for_labour">‹ Story 12 THE LASH FOR LABOUR</a><a class="ex-next" href="/testi/chesterton/atomized/utopiausurers/story_13_the_mask_of_socialism/part_01">part 01 ›</a></div>
 </nav>
 
 
