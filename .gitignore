@@ -33,3 +33,5 @@ scripts-download-emblems.mjs
 scripts-resize-emblems.mjs
 tsconfig.tsbuildinfo
 wheels-home.png
+__pycache__/
+*.pyc
