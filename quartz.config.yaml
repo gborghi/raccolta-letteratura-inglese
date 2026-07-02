@@ -121,7 +121,7 @@ plugins:
   # ---- emitters ----
   - source: github:quartz-community/alias-redirects
     enabled: true
-  - source: github:quartz-community/content-index
+  - source: github:gborghi/content-index
     enabled: true
     options:
       enableSiteMap: true
@@ -148,7 +148,7 @@ plugins:
     enabled: true
   # ---- layout components ----
   - source: github:quartz-community/explorer
-    enabled: true
+    enabled: false
     layout:
       position: left
       priority: 50
