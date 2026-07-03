@@ -148,7 +148,17 @@ plugins:
     enabled: true
   # ---- layout components ----
   - source: github:quartz-community/explorer
-    enabled: false
+    enabled: true
+    options:
+      # Left sidebar shows only the taxonomy folders. Exclude the two huge trees
+      # that previously crushed render/RAM: "testi" (~15k reading units) and
+      # "works" (~2.9k). Keep concepts, motifs, archetypes, characters, forms,
+      # settings, topoi, clusters, historical references, etc. "tags" also hidden.
+      # Passed as a stringified arrow fn: the plugin serializes filterFn via
+      # .toString() and the client rebuilds it with new Function().
+      filterFn: '(node) => node.slugSegment !== "tags" && node.slugSegment !== "testi" && node.slugSegment !== "works"'
+      folderDefaultState: collapsed
+      folderClickBehavior: link
     layout:
       position: left
       priority: 50
