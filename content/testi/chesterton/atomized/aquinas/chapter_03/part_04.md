@@ -1,5 +1,5 @@
 ---
-title: "aquinas — Chapter 3 (part 4)"
+title: "St. Thomas Aquinas — Chapter 3 (part 4)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/aquinas-(chesterton)"
@@ -9,10 +9,11 @@ tags:
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/works/aquinas-(chesterton)">aquinas</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/aquinas-(chesterton)">St. Thomas Aquinas</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/aquinas/chapter_03/part_03">‹ part 03</a><a class="ex-next" href="/testi/chesterton/atomized/aquinas/chapter_03/part_05">part 05 ›</a></div>
 </nav>
 
+# [[aquinas]] — Chapter 3 (part 4)
 
 When the moderns, drawing the blackest curtain of obscurantism that
 ever obscured [[history]], decided that nothing mattered much before the

@@ -1,5 +1,5 @@
 ---
-title: "ortho14 — Ix Authority And The Adventurer (part 3)"
+title: "Orthodoxy — Ix Authority And The Adventurer (part 3)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/ortho14-(chesterton)"
@@ -9,10 +9,11 @@ tags:
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/works/ortho14-(chesterton)">ortho14</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/ortho14-(chesterton)">Orthodoxy</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/ortho14/story_08_ix_authority_and_the_adventurer/part_02">‹ part 02</a><a class="ex-next" href="/testi/chesterton/atomized/ortho14/story_08_ix_authority_and_the_adventurer/part_04">part 04 ›</a></div>
 </nav>
 
+# [[ortho14]] — Ix Authority And The Adventurer (part 3)
 
      I take in order the next instance offered:  the idea that [[Christianity]]
 belongs to the Dark Ages.  Here I did not satisfy myself with reading

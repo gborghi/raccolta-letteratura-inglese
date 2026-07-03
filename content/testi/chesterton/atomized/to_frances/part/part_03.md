@@ -1,5 +1,5 @@
 ---
-title: "to-frances (part 3)"
+title: "To Frances (part 3)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/to-frances-(chesterton)"
@@ -9,10 +9,11 @@ tags:
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/works/to-frances-(chesterton)">to frances</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/to-frances-(chesterton)">To Frances</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/to_frances/part/part_02">‹ part 02</a><a class="ex-next" href="/testi/chesterton/atomized/to_frances/part/part_04">part 04 ›</a></div>
 </nav>
 
+# [[to-frances]] (part 3)
 
 ... Gilbert Keith Chesterton was born of comfortable but honest
 parents on the top of Campden [[Hill]], Kensington.  He was christened at

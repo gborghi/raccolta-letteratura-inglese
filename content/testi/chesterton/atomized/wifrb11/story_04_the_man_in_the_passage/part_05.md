@@ -1,5 +1,5 @@
 ---
-title: "wifrb11 — The Man in the Passage (part 5)"
+title: "The Wisdom of Father Brown — The Man in the Passage (part 5)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/wifrb11-(chesterton)"
@@ -9,10 +9,11 @@ tags:
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/works/wifrb11-(chesterton)">wifrb11</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/wifrb11-(chesterton)">The Wisdom of Father Brown</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/wifrb11/story_04_the_man_in_the_passage/part_04">‹ part 04</a><a class="ex-next" href="/testi/chesterton/atomized/wifrb11/story_04_the_man_in_the_passage/part_06">part 06 ›</a></div>
 </nav>
 
+# [[wifrb11]] — The Man in the Passage (part 5)
 
      Sir Walter Cowdray allowed an impressive interval,
 during which the witness looked down, and for all his usual composure

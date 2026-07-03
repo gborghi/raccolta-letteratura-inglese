@@ -1,5 +1,5 @@
 ---
-title: CharlesDickens
+title: Charles Dickens
 author: Chesterton
 type: work
 cluster: Artist and Society · Truth · Regency/Georgian England
@@ -22,6 +22,8 @@ tags:
   - motif/money_gold
   - concept/poverty
 ---
+
+# CharlesDickens
 
 *by Chesterton*  ·  **Cluster:** [[Artist and Society · Truth · Regency Georgian England]]
 

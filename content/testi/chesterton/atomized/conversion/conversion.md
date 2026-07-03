@@ -1,5 +1,5 @@
 ---
-title: "conversion"
+title: "The Catholic Church and Conversion"
 author: "Chesterton"
 unitType: work
 parentWork: "works/conversion-(chesterton)"
@@ -9,9 +9,10 @@ tags:
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/works/conversion-(chesterton)">conversion</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/conversion-(chesterton)">The Catholic Church and Conversion</a></div>
 </nav>
 
+# [[conversion]]
 
 THE [[Catholic Church|CATHOLIC CHURCH]] AND [[conversion|CONVERSION]]
 

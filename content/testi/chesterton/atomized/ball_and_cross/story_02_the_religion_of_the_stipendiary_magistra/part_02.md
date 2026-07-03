@@ -9,7 +9,7 @@ tags:
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/works/ball-and-cross-(chesterton)">ball and cross</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/ball-and-cross-(chesterton)">The Ball and the Cross</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/ball_and_cross/story_02_the_religion_of_the_stipendiary_magistra/part_01">‹ part 01</a><a class="ex-next" href="/testi/chesterton/atomized/ball_and_cross/story_02_the_religion_of_the_stipendiary_magistra/part_03">part 03 ›</a></div>
 </nav>
 

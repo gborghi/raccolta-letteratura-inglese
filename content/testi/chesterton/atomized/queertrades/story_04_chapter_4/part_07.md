@@ -1,5 +1,5 @@
 ---
-title: "queertrades — Chapter 4 (part 7)"
+title: "The Club of Queer Trades — Chapter 4 (part 7)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/queertrades-(chesterton)"
@@ -9,10 +9,11 @@ tags:
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/works/queertrades-(chesterton)">queertrades</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/queertrades-(chesterton)">The Club of Queer Trades</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/queertrades/story_04_chapter_4/part_06">‹ part 06</a><a class="ex-next" href="/testi/chesterton/atomized/queertrades/story_05_chapter_5/part_01">part 01 ›</a></div>
 </nav>
 
+# [[queertrades]] — Chapter 4 (part 7)
 
 "Can nothing be done to stop Basil?"  I called out.
 

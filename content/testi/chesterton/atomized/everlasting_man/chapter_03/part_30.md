@@ -9,7 +9,7 @@ tags:
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/works/everlasting-man-(chesterton)">everlasting man</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/everlasting-man-(chesterton)">The Everlasting Man</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/everlasting_man/chapter_03/part_29">‹ part 29</a><a class="ex-next" href="/testi/chesterton/atomized/everlasting_man/chapter_03/part_31">part 31 ›</a></div>
 </nav>
 

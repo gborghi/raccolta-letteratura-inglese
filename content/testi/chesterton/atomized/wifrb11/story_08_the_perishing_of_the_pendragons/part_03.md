@@ -1,5 +1,5 @@
 ---
-title: "wifrb11 — The Perishing of the Pendragons (part 3)"
+title: "The Wisdom of Father Brown — The Perishing of the Pendragons (part 3)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/wifrb11-(chesterton)"
@@ -9,10 +9,11 @@ tags:
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/works/wifrb11-(chesterton)">wifrb11</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/wifrb11-(chesterton)">The Wisdom of Father Brown</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/wifrb11/story_08_the_perishing_of_the_pendragons/part_02">‹ part 02</a><a class="ex-next" href="/testi/chesterton/atomized/wifrb11/story_08_the_perishing_of_the_pendragons/part_04">part 04 ›</a></div>
 </nav>
 
+# [[wifrb11]] — The Perishing of the Pendragons (part 3)
 
      "Many years ago," replied Fanshaw; "he hasn't been to sea for
 some time now, though he is as keen on it as ever.  I believe there's

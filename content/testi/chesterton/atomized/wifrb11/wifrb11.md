@@ -1,5 +1,5 @@
 ---
-title: "wifrb11"
+title: "The Wisdom of Father Brown"
 author: "Chesterton"
 unitType: work
 parentWork: "works/wifrb11-(chesterton)"
@@ -9,9 +9,10 @@ tags:
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/works/wifrb11-(chesterton)">wifrb11</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/wifrb11-(chesterton)">The Wisdom of Father Brown</a></div>
 </nav>
 
+# [[wifrb11]]
 
 ***The Project Gutenberg Etext of The Wisdom of [[Father Brown]]***
 

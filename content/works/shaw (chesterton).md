@@ -1,5 +1,5 @@
 ---
-title: Shaw
+title: George Bernard Shaw
 author: Chesterton
 type: work
 cluster: Artist and Society · Truth · Regency/Georgian England
@@ -17,6 +17,8 @@ tags:
   - concept/doubt
   - form/verse_drama
 ---
+
+# Shaw
 
 *by Chesterton*  ·  **Cluster:** [[Artist and Society · Truth · Regency Georgian England]]
 

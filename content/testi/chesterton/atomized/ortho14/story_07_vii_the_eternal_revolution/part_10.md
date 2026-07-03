@@ -1,5 +1,5 @@
 ---
-title: "ortho14 — Vii The Eternal Revolution (part 10)"
+title: "Orthodoxy — Vii The Eternal Revolution (part 10)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/ortho14-(chesterton)"
@@ -9,10 +9,11 @@ tags:
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/works/ortho14-(chesterton)">ortho14</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/ortho14-(chesterton)">Orthodoxy</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/ortho14/story_07_vii_the_eternal_revolution/part_09">‹ part 09</a><a class="ex-next" href="/testi/chesterton/atomized/ortho14/story_07_vii_the_eternal_revolution/part_11">part 11 ›</a></div>
 </nav>
 
+# [[ortho14]] — Vii The Eternal Revolution (part 10)
 
      Of the fact and evidence of the [[Supernatural|supernatural]] I will speak afterwards. 
 Here we are only concerned with this clear point; that in so far as

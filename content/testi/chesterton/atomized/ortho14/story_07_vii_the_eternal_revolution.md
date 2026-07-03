@@ -1,5 +1,5 @@
 ---
-title: "ortho14 — Vii The Eternal Revolution"
+title: "Orthodoxy — Vii The Eternal Revolution"
 author: "Chesterton"
 unitType: story
 parentWork: "works/ortho14-(chesterton)"
@@ -9,10 +9,11 @@ tags:
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/works/ortho14-(chesterton)">ortho14</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/ortho14-(chesterton)">Orthodoxy</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/ortho14/story_06_iv_the_ethics_of_elfland">‹ Story 06 Iv The Ethics Of Elfland</a><a class="ex-next" href="/testi/chesterton/atomized/ortho14/story_08_ix_authority_and_the_adventurer">Story 08 Ix Authority And The Adventurer ›</a></div>
 </nav>
 
+# [[ortho14]] — Vii The Eternal Revolution
 
 VII THE ETERNAL REVOLUTION
 

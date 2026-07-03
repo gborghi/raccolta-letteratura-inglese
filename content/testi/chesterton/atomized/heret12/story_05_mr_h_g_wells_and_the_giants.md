@@ -1,5 +1,5 @@
 ---
-title: "heret12 — Mr. H. G. Wells and the Giants"
+title: "Heretics — Mr. H. G. Wells and the Giants"
 author: "Chesterton"
 unitType: story
 parentWork: "works/heret12-(chesterton)"
@@ -9,10 +9,11 @@ tags:
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/works/heret12-(chesterton)">heret12</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/heret12-(chesterton)">Heretics</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/heret12/story_04_mr_bernard_shaw">‹ Story 04 Mr Bernard Shaw</a><a class="ex-next" href="/testi/chesterton/atomized/heret12/story_06_omar_and_the_sacred_vine">Story 06 Omar and the Sacred Vine ›</a></div>
 </nav>
 
+# [[heret12]] — Mr. H. G. Wells and the Giants
 
 V. Mr. H. G. Wells and the Giants
 

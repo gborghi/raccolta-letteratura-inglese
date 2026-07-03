@@ -1,5 +1,5 @@
 ---
-title: "tolstoy (part 1)"
+title: "Leo Tolstoy (part 1)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/tolstoy-(chesterton)"
@@ -9,10 +9,11 @@ tags:
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/works/tolstoy-(chesterton)">tolstoy</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/tolstoy-(chesterton)">Leo Tolstoy</a></div>
 <div class="excerpt-pn"><span></span><a class="ex-next" href="/testi/chesterton/atomized/tolstoy/part/part_02">part 02 ›</a></div>
 </nav>
 
+# [[tolstoy]] (part 1)
 
 Leo [[tolstoy|Tolstoy]]
 

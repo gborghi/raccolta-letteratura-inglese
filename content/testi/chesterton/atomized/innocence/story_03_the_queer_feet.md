@@ -1,5 +1,5 @@
 ---
-title: "innocence — The Queer Feet"
+title: "The Innocence of Father Brown — The Queer Feet"
 author: "Chesterton"
 unitType: story
 parentWork: "works/innocence-(chesterton)"
@@ -9,10 +9,11 @@ tags:
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/works/innocence-(chesterton)">innocence</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/innocence-(chesterton)">The Innocence of Father Brown</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/innocence/story_02_the_secret_garden">‹ Story 02 The Secret Garden</a><a class="ex-next" href="/testi/chesterton/atomized/innocence/story_04_the_flying_stars">Story 04 The Flying Stars ›</a></div>
 </nav>
 
+# [[innocence]] — The Queer Feet
 
                           The Queer Feet
 

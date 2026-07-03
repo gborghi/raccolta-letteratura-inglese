@@ -1,5 +1,5 @@
 ---
-title: "queertrades — Chapter 6 (part 3)"
+title: "The Club of Queer Trades — Chapter 6 (part 3)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/queertrades-(chesterton)"
@@ -9,10 +9,11 @@ tags:
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/works/queertrades-(chesterton)">queertrades</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/queertrades-(chesterton)">The Club of Queer Trades</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/queertrades/story_06_chapter_6/part_02">‹ part 02</a><a class="ex-next" href="/testi/chesterton/atomized/queertrades/story_06_chapter_6/part_04">part 04 ›</a></div>
 </nav>
 
+# [[queertrades]] — Chapter 6 (part 3)
 
 "If you're thinking of going back to look the thing up, you must
 be careful what you do.  It's no good you two going there.

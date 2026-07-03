@@ -1,5 +1,5 @@
 ---
-title: "longbow2 — Chapter 2 (part 7)"
+title: "Tales of the Long Bow — Chapter 2 (part 7)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/longbow2-(chesterton)"
@@ -9,10 +9,11 @@ tags:
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/works/longbow2-(chesterton)">longbow2</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/longbow2-(chesterton)">Tales of the Long Bow</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/longbow2/chapter_02/part_06">‹ part 06</a><a class="ex-next" href="/testi/chesterton/atomized/longbow2/chapter_02/part_08">part 08 ›</a></div>
 </nav>
 
+# [[longbow2]] — Chapter 2 (part 7)
 
 He took one stride forward as into the heart of a whirlwind;
 and they met on the top of that windy [[Hill|hill]] as if they had come

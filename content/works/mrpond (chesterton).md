@@ -1,5 +1,5 @@
 ---
-title: MrPond
+title: The Paradoxes of Mr. Pond
 author: Chesterton
 type: work
 cluster: Short Story · Concealment / Hidden Identity · Justice / Right and Wrong
@@ -19,6 +19,8 @@ tags:
   - motif/death
   - motif/blood
 ---
+
+# MrPond
 
 *by Chesterton*  ·  **Cluster:** [[Short Story · Concealment Hidden Identity · Justice Right and Wrong]]
 

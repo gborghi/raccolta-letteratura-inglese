@@ -1,5 +1,5 @@
 ---
-title: "conversion — Chapter 5: THE EXCEPTION PROVES THE RULE (part 1)"
+title: "The Catholic Church and Conversion — Chapter 5: THE EXCEPTION PROVES THE RULE (part 1)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/conversion-(chesterton)"
@@ -9,10 +9,11 @@ tags:
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/works/conversion-(chesterton)">conversion</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/conversion-(chesterton)">The Catholic Church and Conversion</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/conversion/chapter_04_the_world_inside_out/part_03">‹ part 03</a><a class="ex-next" href="/testi/chesterton/atomized/conversion/chapter_05_the_exception_proves_the_rule/part_02">part 02 ›</a></div>
 </nav>
 
+# [[conversion]] — Chapter 5: THE EXCEPTION PROVES THE RULE (part 1)
 
 CHAPTER V:  THE EXCEPTION PROVES THE RULE
 

@@ -1,5 +1,5 @@
 ---
-title: "conversion — Chapter 2: THE OBVIOUS BLUNDERS (part 2)"
+title: "The Catholic Church and Conversion — Chapter 2: THE OBVIOUS BLUNDERS (part 2)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/conversion-(chesterton)"
@@ -9,10 +9,11 @@ tags:
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/works/conversion-(chesterton)">conversion</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/conversion-(chesterton)">The Catholic Church and Conversion</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/conversion/chapter_02_the_obvious_blunders/part_01">‹ part 01</a><a class="ex-next" href="/testi/chesterton/atomized/conversion/chapter_02_the_obvious_blunders/part_03">part 03 ›</a></div>
 </nav>
 
+# [[conversion]] — Chapter 2: THE OBVIOUS BLUNDERS (part 2)
 
 Similarly, I could never take seriously the [[Fear|fear]] of the priest,
 as of something unnatural and unholy; a dangerous man in the [[Home|home]].

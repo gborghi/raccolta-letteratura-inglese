@@ -1,5 +1,5 @@
 ---
-title: "misc — THE FOOL"
+title: "A Miscellany of Men — THE FOOL"
 author: "Chesterton"
 unitType: story
 parentWork: "works/misc-(chesterton)"
@@ -9,10 +9,11 @@ tags:
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/works/misc-(chesterton)">misc</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/misc-(chesterton)">A Miscellany of Men</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/misc/story_17_the_sectarian_of_society">‹ Story 17 THE SECTARIAN OF SOCIETY</a><a class="ex-next" href="/testi/chesterton/atomized/misc/story_19_the_conscript_and_the_crisis">Story 19 THE CONSCRIPT AND THE CRISIS ›</a></div>
 </nav>
 
+# [[misc]] — THE [[Fool|FOOL]]
 
 THE [[Fool|FOOL]]
 

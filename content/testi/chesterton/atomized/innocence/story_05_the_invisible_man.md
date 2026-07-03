@@ -1,5 +1,5 @@
 ---
-title: "innocence — The Invisible Man"
+title: "The Innocence of Father Brown — The Invisible Man"
 author: "Chesterton"
 unitType: story
 parentWork: "works/innocence-(chesterton)"
@@ -9,10 +9,11 @@ tags:
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/works/innocence-(chesterton)">innocence</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/innocence-(chesterton)">The Innocence of Father Brown</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/innocence/story_04_the_flying_stars">‹ Story 04 The Flying Stars</a><a class="ex-next" href="/testi/chesterton/atomized/innocence/story_06_the_honour_of_israel_gow">Story 06 The Honour of Israel Gow ›</a></div>
 </nav>
 
+# [[innocence]] — The Invisible Man
 
                          The Invisible Man
 

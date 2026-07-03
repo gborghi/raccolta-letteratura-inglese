@@ -1,5 +1,5 @@
 ---
-title: "america"
+title: "America"
 author: "Chesterton"
 unitType: work
 parentWork: "works/america-(whitman)"
@@ -9,7 +9,7 @@ tags:
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/works/america-(whitman)">america</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/america-(whitman)">America</a></div>
 </nav>
 
 

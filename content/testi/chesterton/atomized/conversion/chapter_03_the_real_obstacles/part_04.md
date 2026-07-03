@@ -1,5 +1,5 @@
 ---
-title: "conversion — Chapter 3: THE REAL OBSTACLES (part 4)"
+title: "The Catholic Church and Conversion — Chapter 3: THE REAL OBSTACLES (part 4)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/conversion-(chesterton)"
@@ -9,10 +9,11 @@ tags:
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/works/conversion-(chesterton)">conversion</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/conversion-(chesterton)">The Catholic Church and Conversion</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/conversion/chapter_03_the_real_obstacles/part_03">‹ part 03</a><a class="ex-next" href="/testi/chesterton/atomized/conversion/chapter_04_the_world_inside_out/part_01">part 01 ›</a></div>
 </nav>
 
+# [[conversion]] — Chapter 3: THE REAL OBSTACLES (part 4)
 
 This note on the stages of [[conversion]] is necessarily very negative
 and inadequate.  There is in the last second of [[Time|time]] or hair's

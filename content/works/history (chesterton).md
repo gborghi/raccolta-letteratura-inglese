@@ -1,5 +1,5 @@
 ---
-title: history
+title: A Short History of England
 author: Chesterton
 type: work
 cluster: Essay · Critique of Progress · Common Man
@@ -34,6 +34,8 @@ tags:
   - histref/ancient_rome
   - setting/medieval_england
 ---
+
+# history
 
 *by Chesterton*  ·  **Cluster:** [[Essay · Critique of Progress · Common Man]]
 

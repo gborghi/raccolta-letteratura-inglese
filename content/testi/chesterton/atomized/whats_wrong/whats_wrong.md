@@ -9,7 +9,7 @@ tags:
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/works/whats-wrong-(chesterton)">whats wrong</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/whats-wrong-(chesterton)">What's Wrong with the World</a></div>
 </nav>
 
 

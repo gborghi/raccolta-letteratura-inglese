@@ -1,5 +1,5 @@
 ---
-title: "to-frances (part 1)"
+title: "To Frances (part 1)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/to-frances-(chesterton)"
@@ -9,10 +9,11 @@ tags:
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/works/to-frances-(chesterton)">to frances</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/to-frances-(chesterton)">To Frances</a></div>
 <div class="excerpt-pn"><span></span><a class="ex-next" href="/testi/chesterton/atomized/to_frances/part/part_02">part 02 ›</a></div>
 </nav>
 
+# [[to-frances]] (part 1)
 
 G.K. Chesterton to Frances Blogg (189?)
 

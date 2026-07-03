@@ -1,5 +1,5 @@
 ---
-title: wifrb11
+title: The Wisdom of Father Brown
 author: Chesterton
 type: work
 cluster: Short Story · Concealment / Hidden Identity · Justice / Right and Wrong
@@ -27,6 +27,8 @@ tags:
   - setting/london
   - character/flambeau
 ---
+
+# wifrb11
 
 *by Chesterton*  ·  **Cluster:** [[Short Story · Concealment Hidden Identity · Justice Right and Wrong]]
 

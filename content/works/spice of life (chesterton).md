@@ -1,5 +1,5 @@
 ---
-title: Spice Of Life
+title: The Spice of Life
 author: Chesterton
 type: work
 cluster: Artist and Society · Truth · Regency/Georgian England
@@ -16,6 +16,8 @@ tags:
   - concept/faith
   - concept/imagination
 ---
+
+# Spice Of Life
 
 *by Chesterton*  ·  **Cluster:** [[Artist and Society · Truth · Regency Georgian England]]
 

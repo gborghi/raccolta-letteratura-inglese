@@ -1,5 +1,5 @@
 ---
-title: "ortho14 — Ii The Maniac (part 3)"
+title: "Orthodoxy — Ii The Maniac (part 3)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/ortho14-(chesterton)"
@@ -9,10 +9,11 @@ tags:
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/works/ortho14-(chesterton)">ortho14</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/ortho14-(chesterton)">Orthodoxy</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/ortho14/story_04_ii_the_maniac/part_02">‹ part 02</a><a class="ex-next" href="/testi/chesterton/atomized/ortho14/story_04_ii_the_maniac/part_04">part 04 ›</a></div>
 </nav>
 
+# [[ortho14]] — Ii The Maniac (part 3)
 
      The madman's explanation of a thing is always complete,
 and often in a purely rational sense satisfactory.  Or, to speak

@@ -1,5 +1,5 @@
 ---
-title: Incredulity
+title: The Incredulity of Father Brown
 author: Chesterton
 type: work
 cluster: Short Story · Concealment / Hidden Identity · Justice / Right and Wrong
@@ -25,6 +25,8 @@ tags:
   - character/father_brown
   - archetype/detective
 ---
+
+# Incredulity
 
 *by Chesterton*  ·  **Cluster:** [[Short Story · Concealment Hidden Identity · Justice Right and Wrong]]
 

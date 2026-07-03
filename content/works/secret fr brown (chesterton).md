@@ -1,5 +1,5 @@
 ---
-title: secret Fr Brown
+title: The Secret of Father Brown
 author: Chesterton
 type: work
 cluster: Short Story · Concealment / Hidden Identity · Justice / Right and Wrong
@@ -20,6 +20,8 @@ tags:
   - character/sherlock_homage
   - character/flambeau
 ---
+
+# secret Fr Brown
 
 *by Chesterton*  ·  **Cluster:** [[Short Story · Concealment Hidden Identity · Justice Right and Wrong]]
 

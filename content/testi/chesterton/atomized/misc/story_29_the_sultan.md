@@ -1,5 +1,5 @@
 ---
-title: "misc — THE SULTAN"
+title: "A Miscellany of Men — THE SULTAN"
 author: "Chesterton"
 unitType: story
 parentWork: "works/misc-(chesterton)"
@@ -9,10 +9,11 @@ tags:
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/works/misc-(chesterton)">misc</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/misc-(chesterton)">A Miscellany of Men</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/misc/story_28_the_false_photographer">‹ Story 28 THE FALSE PHOTOGRAPHER</a><a class="ex-next" href="/testi/chesterton/atomized/misc/story_30_the_architect_of_spears">Story 30 THE ARCHITECT OF SPEARS ›</a></div>
 </nav>
 
+# [[misc]] — THE SULTAN
 
 THE SULTAN
 

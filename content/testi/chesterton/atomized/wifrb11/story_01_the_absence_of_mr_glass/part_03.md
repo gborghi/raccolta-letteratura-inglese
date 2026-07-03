@@ -1,5 +1,5 @@
 ---
-title: "wifrb11 — The Absence of Mr Glass (part 3)"
+title: "The Wisdom of Father Brown — The Absence of Mr Glass (part 3)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/wifrb11-(chesterton)"
@@ -9,10 +9,11 @@ tags:
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/works/wifrb11-(chesterton)">wifrb11</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/wifrb11-(chesterton)">The Wisdom of Father Brown</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/wifrb11/story_01_the_absence_of_mr_glass/part_02">‹ part 02</a><a class="ex-next" href="/testi/chesterton/atomized/wifrb11/story_01_the_absence_of_mr_glass/part_04">part 04 ›</a></div>
 </nav>
 
+# [[wifrb11]] — The Absence of Mr Glass (part 3)
 
      "I'm sorry to interrupt you, sir," she said, "but I had to follow
 Father Brown at once; it's nothing less than life or death."

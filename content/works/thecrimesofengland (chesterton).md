@@ -1,5 +1,5 @@
 ---
-title: TheCrimesOfEngland
+title: The Crimes of England
 author: Chesterton
 type: work
 cluster: Essay · Critique of Progress · Common Man
@@ -16,6 +16,8 @@ tags:
   - histref/the_first_world_war
   - histref/the_reformation
 ---
+
+# TheCrimesOfEngland
 
 *by Chesterton*  ·  **Cluster:** [[Essay · Critique of Progress · Common Man]]
 

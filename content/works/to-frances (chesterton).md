@@ -1,5 +1,5 @@
 ---
-title: to-frances
+title: To Frances
 author: Chesterton
 type: work
 cluster: Letters and Writing · Immortality Through Verse · Immortality of Art / Fame
@@ -15,6 +15,8 @@ tags:
   - motif/marriage
 ---
 
+# to-frances
+
 *by Chesterton*  ·  **Cluster:** [[Letters and Writing · Immortality Through Verse · Immortality of Art Fame]]
 
 > [!abstract] 
@@ -22,7 +24,7 @@ tags:
 
 ## Testo / Text
 
-- [to-frances](/testi/chesterton/atomized/to_frances/to_frances)
+- [To Frances](/testi/chesterton/atomized/to_frances/to_frances)
 
 ## Connections
 

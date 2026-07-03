@@ -1,5 +1,5 @@
 ---
-title: "thursday — Chapter 1"
+title: "The Man Who Was Thursday — Chapter 1"
 author: "Chesterton"
 unitType: chapter
 parentWork: "works/thursday-(chesterton)"
@@ -9,10 +9,11 @@ tags:
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/works/thursday-(chesterton)">thursday</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/thursday-(chesterton)">The Man Who Was Thursday</a></div>
 <div class="excerpt-pn"><span></span><a class="ex-next" href="/testi/chesterton/atomized/thursday/chapter_02">Chapter 02 ›</a></div>
 </nav>
 
+# [[thursday]] — Chapter 1
 
                           CHAPTER I
 

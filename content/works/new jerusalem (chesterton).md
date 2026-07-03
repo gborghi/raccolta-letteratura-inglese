@@ -1,5 +1,5 @@
 ---
-title: New Jerusalem
+title: The New Jerusalem
 author: Chesterton
 type: work
 cluster: Allegory · Quest · Pilgrim
@@ -23,6 +23,8 @@ tags:
   - motif/the_cross
   - setting/the_orient
 ---
+
+# New Jerusalem
 
 *by Chesterton*  ·  **Cluster:** [[Allegory · Quest · Pilgrim]]
 

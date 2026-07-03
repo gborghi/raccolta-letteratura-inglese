@@ -1,5 +1,5 @@
 ---
-title: "heret12 — The Mildness of the Yellow Press"
+title: "Heretics — The Mildness of the Yellow Press"
 author: "Chesterton"
 unitType: story
 parentWork: "works/heret12-(chesterton)"
@@ -9,10 +9,11 @@ tags:
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/works/heret12-(chesterton)">heret12</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/heret12-(chesterton)">Heretics</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/heret12/story_06_omar_and_the_sacred_vine">‹ Story 06 Omar and the Sacred Vine</a><a class="ex-next" href="/testi/chesterton/atomized/heret12/story_08_the_moods_of_mr_george_moore">Story 08 The Moods of Mr George Moore ›</a></div>
 </nav>
 
+# [[heret12]] — The Mildness of the Yellow Press
 
 VIII.  The Mildness of the Yellow Press
 

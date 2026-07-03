@@ -1,5 +1,5 @@
 ---
-title: "ortho14 — Vii The Eternal Revolution (part 9)"
+title: "Orthodoxy — Vii The Eternal Revolution (part 9)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/ortho14-(chesterton)"
@@ -9,10 +9,11 @@ tags:
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/works/ortho14-(chesterton)">ortho14</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/ortho14-(chesterton)">Orthodoxy</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/ortho14/story_07_vii_the_eternal_revolution/part_08">‹ part 08</a><a class="ex-next" href="/testi/chesterton/atomized/ortho14/story_07_vii_the_eternal_revolution/part_10">part 10 ›</a></div>
 </nav>
 
+# [[ortho14]] — Vii The Eternal Revolution (part 9)
 
      But these long comfortable words that save modern people
 the toil of reasoning have one particular aspect in which they are

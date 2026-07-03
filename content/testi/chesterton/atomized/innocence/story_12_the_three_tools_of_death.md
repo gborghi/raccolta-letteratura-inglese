@@ -1,5 +1,5 @@
 ---
-title: "innocence — The Three Tools of Death"
+title: "The Innocence of Father Brown — The Three Tools of Death"
 author: "Chesterton"
 unitType: story
 parentWork: "works/innocence-(chesterton)"
@@ -9,10 +9,11 @@ tags:
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/works/innocence-(chesterton)">innocence</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/innocence-(chesterton)">The Innocence of Father Brown</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/innocence/story_11_the_sign_of_the_broken_sword">‹ Story 11 The Sign of the Broken Sword</a><a class="ex-next" href="/testi/chesterton/atomized/innocence/story_01_the_blue_cross/part_01">part 01 ›</a></div>
 </nav>
 
+# [[innocence]] — The Three Tools of [[Death]]
 
                      The Three Tools of Death
 

@@ -1,5 +1,5 @@
 ---
-title: "longbow2 — Chapter 3 (part 3)"
+title: "Tales of the Long Bow — Chapter 3 (part 3)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/longbow2-(chesterton)"
@@ -9,10 +9,11 @@ tags:
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/works/longbow2-(chesterton)">longbow2</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/longbow2-(chesterton)">Tales of the Long Bow</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/longbow2/chapter_03/part_02">‹ part 02</a><a class="ex-next" href="/testi/chesterton/atomized/longbow2/chapter_03/part_04">part 04 ›</a></div>
 </nav>
 
+# [[longbow2]] — Chapter 3 (part 3)
 
 "Loud and prolonged cheers," said Crane politely, "and now come
 away and don't spoil the peroration.  Owen wants to potter about

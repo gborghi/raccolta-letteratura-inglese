@@ -1,5 +1,5 @@
 ---
-title: "ortho14 — Vii The Eternal Revolution (part 13)"
+title: "Orthodoxy — Vii The Eternal Revolution (part 13)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/ortho14-(chesterton)"
@@ -9,10 +9,11 @@ tags:
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/works/ortho14-(chesterton)">ortho14</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/ortho14-(chesterton)">Orthodoxy</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/ortho14/story_07_vii_the_eternal_revolution/part_12">‹ part 12</a><a class="ex-next" href="/testi/chesterton/atomized/ortho14/story_07_vii_the_eternal_revolution/part_14">part 14 ›</a></div>
 </nav>
 
+# [[ortho14]] — Vii The Eternal Revolution (part 13)
 
      Again, the same is true of that difficult matter of
 the danger of the [[Soul|soul]], which has unsettled so many just minds. 

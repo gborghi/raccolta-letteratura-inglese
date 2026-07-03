@@ -1,5 +1,5 @@
 ---
-title: "innocence — The Sins of Prince Saradine"
+title: "The Innocence of Father Brown — The Sins of Prince Saradine"
 author: "Chesterton"
 unitType: story
 parentWork: "works/innocence-(chesterton)"
@@ -9,10 +9,11 @@ tags:
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/works/innocence-(chesterton)">innocence</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/innocence-(chesterton)">The Innocence of Father Brown</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/innocence/story_07_the_wrong_shape">‹ Story 07 The Wrong Shape</a><a class="ex-next" href="/testi/chesterton/atomized/innocence/story_09_the_hammer_of_god">Story 09 The Hammer of God ›</a></div>
 </nav>
 
+# [[innocence]] — The Sins of Prince Saradine
 
                     The Sins of Prince Saradine
 

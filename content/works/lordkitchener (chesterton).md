@@ -1,5 +1,5 @@
 ---
-title: LordKitchener
+title: Lord Kitchener
 author: Chesterton
 type: work
 cluster: Heroism · Hero · Last Stand
@@ -18,6 +18,8 @@ tags:
   - motif/the_sea
   - motif/crown
 ---
+
+# LordKitchener
 
 *by Chesterton*  ·  **Cluster:** [[Heroism · Hero · Last Stand]]
 

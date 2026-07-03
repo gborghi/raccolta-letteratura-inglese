@@ -1,5 +1,5 @@
 ---
-title: "misc — THE MAN WHO THINKS BACKWARDS"
+title: "A Miscellany of Men — THE MAN WHO THINKS BACKWARDS"
 author: "Chesterton"
 unitType: story
 parentWork: "works/misc-(chesterton)"
@@ -9,10 +9,11 @@ tags:
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/works/misc-(chesterton)">misc</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/misc-(chesterton)">A Miscellany of Men</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/misc/story_03_the_thing">‹ Story 03 THE THING</a><a class="ex-next" href="/testi/chesterton/atomized/misc/story_05_the_nameless_man">Story 05 THE NAMELESS MAN ›</a></div>
 </nav>
 
+# [[misc]] — THE MAN WHO THINKS BACKWARDS
 
 THE MAN WHO THINKS BACKWARDS
 

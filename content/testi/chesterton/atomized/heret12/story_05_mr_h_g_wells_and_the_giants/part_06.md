@@ -1,5 +1,5 @@
 ---
-title: "heret12 — Mr. H. G. Wells and the Giants (part 6)"
+title: "Heretics — Mr. H. G. Wells and the Giants (part 6)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/heret12-(chesterton)"
@@ -9,10 +9,11 @@ tags:
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/works/heret12-(chesterton)">heret12</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/heret12-(chesterton)">Heretics</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/heret12/story_05_mr_h_g_wells_and_the_giants/part_05">‹ part 05</a><a class="ex-next" href="/testi/chesterton/atomized/heret12/story_06_omar_and_the_sacred_vine/part_01">part 01 ›</a></div>
 </nav>
 
+# [[heret12]] — Mr. H. G. Wells and the Giants (part 6)
 
 But if the wisdom of Comte was insufficient, the folly of Comte
 was wisdom.  In an age of dusty modernity, when [[Beauty|beauty]] was thought

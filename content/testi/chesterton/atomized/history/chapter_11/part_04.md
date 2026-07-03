@@ -1,5 +1,5 @@
 ---
-title: "history — Chapter 11 (part 4)"
+title: "A Short History of England — Chapter 11 (part 4)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/history-(chesterton)"
@@ -9,10 +9,11 @@ tags:
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/works/history-(chesterton)">history</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/history-(chesterton)">A Short History of England</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/history/chapter_11/part_03">‹ part 03</a><a class="ex-next" href="/testi/chesterton/atomized/history/chapter_12/part_01">part 01 ›</a></div>
 </nav>
 
+# [[history]] — Chapter 11 (part 4)
 
 The reign of terror established by Thomas Cromwell became
 an [[Inquisition]] of the blackest and most unbearable sort.

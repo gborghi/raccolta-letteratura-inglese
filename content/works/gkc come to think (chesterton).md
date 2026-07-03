@@ -1,5 +1,5 @@
 ---
-title: GKC Come to Think
+title: Come to Think of It
 author: Chesterton
 type: work
 cluster: Artist and Society · Truth · Regency/Georgian England
@@ -17,6 +17,8 @@ tags:
   - concept/original_sin
   - concept/rationcination_detection
 ---
+
+# GKC Come to Think
 
 *by Chesterton*  ·  **Cluster:** [[Artist and Society · Truth · Regency Georgian England]]
 

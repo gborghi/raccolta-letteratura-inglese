@@ -1,5 +1,5 @@
 ---
-title: "thursday — Chapter 14 (part 4)"
+title: "The Man Who Was Thursday — Chapter 14 (part 4)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/thursday-(chesterton)"
@@ -9,10 +9,11 @@ tags:
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/works/thursday-(chesterton)">thursday</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/thursday-(chesterton)">The Man Who Was Thursday</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/thursday/chapter_14/part_03">‹ part 03</a><a class="ex-next" href="/testi/chesterton/atomized/thursday/chapter_15/part_01">part 01 ›</a></div>
 </nav>
 
+# [[thursday]] — Chapter 14 (part 4)
 
 When the carriages eventually rolled up to a large, low, cavernous gateway,
 another man in the same uniform, but wearing a silver star on the grey

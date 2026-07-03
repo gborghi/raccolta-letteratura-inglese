@@ -1,5 +1,5 @@
 ---
-title: "queertrades — Chapter 5 (part 6)"
+title: "The Club of Queer Trades — Chapter 5 (part 6)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/queertrades-(chesterton)"
@@ -9,10 +9,11 @@ tags:
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/works/queertrades-(chesterton)">queertrades</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/queertrades-(chesterton)">The Club of Queer Trades</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/queertrades/story_05_chapter_5/part_05">‹ part 05</a><a class="ex-next" href="/testi/chesterton/atomized/queertrades/story_06_chapter_6/part_01">part 01 ›</a></div>
 </nav>
 
+# [[queertrades]] — Chapter 5 (part 6)
 
 "Then," said Basil lightly, "your task is easy.  Get Chadd L800
 a year till he stops dancing."

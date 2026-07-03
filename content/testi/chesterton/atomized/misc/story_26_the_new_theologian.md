@@ -1,5 +1,5 @@
 ---
-title: "misc — THE NEW THEOLOGIAN"
+title: "A Miscellany of Men — THE NEW THEOLOGIAN"
 author: "Chesterton"
 unitType: story
 parentWork: "works/misc-(chesterton)"
@@ -9,10 +9,11 @@ tags:
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/works/misc-(chesterton)">misc</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/misc-(chesterton)">A Miscellany of Men</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/misc/story_25_the_aristocratic_arry">‹ Story 25 THE ARISTOCRATIC ARRY</a><a class="ex-next" href="/testi/chesterton/atomized/misc/story_27_the_romantic_in_the_rain">Story 27 THE ROMANTIC IN THE RAIN ›</a></div>
 </nav>
 
+# [[misc]] — THE NEW THEOLOGIAN
 
 THE NEW THEOLOGIAN
 

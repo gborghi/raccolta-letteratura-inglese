@@ -1,5 +1,5 @@
 ---
-title: "ortho14 — Ix Authority And The Adventurer (part 4)"
+title: "Orthodoxy — Ix Authority And The Adventurer (part 4)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/ortho14-(chesterton)"
@@ -9,10 +9,11 @@ tags:
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/works/ortho14-(chesterton)">ortho14</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/ortho14-(chesterton)">Orthodoxy</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/ortho14/story_08_ix_authority_and_the_adventurer/part_03">‹ part 03</a><a class="ex-next" href="/testi/chesterton/atomized/ortho14/story_08_ix_authority_and_the_adventurer/part_05">part 05 ›</a></div>
 </nav>
 
+# [[ortho14]] — Ix Authority And The Adventurer (part 4)
 
      But among these million facts all flowing one way there is,
 of course, one question sufficiently solid and separate to be

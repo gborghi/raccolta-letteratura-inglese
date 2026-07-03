@@ -1,5 +1,5 @@
 ---
-title: "queertrades"
+title: "The Club of Queer Trades"
 author: "Chesterton"
 unitType: work
 parentWork: "works/queertrades-(chesterton)"
@@ -9,9 +9,10 @@ tags:
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/works/queertrades-(chesterton)">queertrades</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/queertrades-(chesterton)">The Club of Queer Trades</a></div>
 </nav>
 
+# [[queertrades]]
 
 The Club of Queer Trades
 

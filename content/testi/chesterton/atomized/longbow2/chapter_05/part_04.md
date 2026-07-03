@@ -1,5 +1,5 @@
 ---
-title: "longbow2 — Chapter 5 (part 4)"
+title: "Tales of the Long Bow — Chapter 5 (part 4)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/longbow2-(chesterton)"
@@ -9,10 +9,11 @@ tags:
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/works/longbow2-(chesterton)">longbow2</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/longbow2-(chesterton)">Tales of the Long Bow</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/longbow2/chapter_05/part_03">‹ part 03</a><a class="ex-next" href="/testi/chesterton/atomized/longbow2/chapter_05/part_05">part 05 ›</a></div>
 </nav>
 
+# [[longbow2]] — Chapter 5 (part 4)
 
 "Seven hundred and fifty-one thousand dollars," murmured Owen Hood. 
 "How soothing it all seems."

@@ -1,5 +1,5 @@
 ---
-title: "conversion — Chapter 1: INTRODUCTORY:  A NEW RELIGION"
+title: "The Catholic Church and Conversion — Chapter 1: INTRODUCTORY:  A NEW RELIGION"
 author: "Chesterton"
 unitType: chapter
 parentWork: "works/conversion-(chesterton)"
@@ -9,10 +9,11 @@ tags:
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/works/conversion-(chesterton)">conversion</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/conversion-(chesterton)">The Catholic Church and Conversion</a></div>
 <div class="excerpt-pn"><span></span><a class="ex-next" href="/testi/chesterton/atomized/conversion/chapter_02_the_obvious_blunders">Chapter 02 THE OBVIOUS BLUNDERS ›</a></div>
 </nav>
 
+# [[conversion]] — Chapter 1: INTRODUCTORY:  A NEW RELIGION
 
 CHAPTER I:  INTRODUCTORY:  A NEW RELIGION
 

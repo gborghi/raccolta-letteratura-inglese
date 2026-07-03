@@ -1,5 +1,5 @@
 ---
-title: "tolstoy (part 3)"
+title: "Leo Tolstoy (part 3)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/tolstoy-(chesterton)"
@@ -9,10 +9,11 @@ tags:
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/works/tolstoy-(chesterton)">tolstoy</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/tolstoy-(chesterton)">Leo Tolstoy</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/tolstoy/part/part_02">‹ part 02</a><a class="ex-next" href="/testi/chesterton/atomized/tolstoy/part/part_04">part 04 ›</a></div>
 </nav>
 
+# [[tolstoy]] (part 3)
 
 For a brief [[Time|time]] [[tolstoy|Tolstoy]] became a figure in the old and new
 capitals of [[Russia]] by right of talent as [[Well|well]] as birth.

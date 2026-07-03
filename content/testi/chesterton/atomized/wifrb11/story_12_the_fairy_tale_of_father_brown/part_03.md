@@ -1,5 +1,5 @@
 ---
-title: "wifrb11 — The Fairy Tale of Father Brown (part 3)"
+title: "The Wisdom of Father Brown — The Fairy Tale of Father Brown (part 3)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/wifrb11-(chesterton)"
@@ -9,10 +9,11 @@ tags:
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/works/wifrb11-(chesterton)">wifrb11</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/wifrb11-(chesterton)">The Wisdom of Father Brown</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/wifrb11/story_12_the_fairy_tale_of_father_brown/part_02">‹ part 02</a><a class="ex-next" href="/testi/chesterton/atomized/wifrb11/story_12_the_fairy_tale_of_father_brown/part_04">part 04 ›</a></div>
 </nav>
 
+# [[wifrb11]] — The Fairy Tale of [[Father Brown]] (part 3)
 
      [[Flambeau]] stared at him.  "What an odd person you are!" he said. 
 "That's exactly what old Grimm said.  He said the ugliest part of it,

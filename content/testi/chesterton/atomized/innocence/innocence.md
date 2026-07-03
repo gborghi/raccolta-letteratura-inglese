@@ -1,5 +1,5 @@
 ---
-title: "innocence"
+title: "The Innocence of Father Brown"
 author: "Chesterton"
 unitType: work
 parentWork: "works/innocence-(chesterton)"
@@ -9,9 +9,10 @@ tags:
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/works/innocence-(chesterton)">innocence</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/innocence-(chesterton)">The Innocence of Father Brown</a></div>
 </nav>
 
+# [[innocence]]
 
 THE [[innocence|INNOCENCE]] OF [[Father Brown|FATHER BROWN]]
 

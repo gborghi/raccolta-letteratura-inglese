@@ -1,5 +1,5 @@
 ---
-title: "longbow2"
+title: "Tales of the Long Bow"
 author: "Chesterton"
 unitType: work
 parentWork: "works/longbow2-(chesterton)"
@@ -9,9 +9,10 @@ tags:
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/works/longbow2-(chesterton)">longbow2</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/longbow2-(chesterton)">Tales of the Long Bow</a></div>
 </nav>
 
+# [[longbow2]]
 
 Tales of the Long Bow
 

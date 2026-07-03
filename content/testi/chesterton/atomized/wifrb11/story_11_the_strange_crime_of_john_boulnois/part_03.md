@@ -1,5 +1,5 @@
 ---
-title: "wifrb11 — The Strange Crime of John Boulnois (part 3)"
+title: "The Wisdom of Father Brown — The Strange Crime of John Boulnois (part 3)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/wifrb11-(chesterton)"
@@ -9,10 +9,11 @@ tags:
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/works/wifrb11-(chesterton)">wifrb11</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/wifrb11-(chesterton)">The Wisdom of Father Brown</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/wifrb11/story_11_the_strange_crime_of_john_boulnois/part_02">‹ part 02</a><a class="ex-next" href="/testi/chesterton/atomized/wifrb11/story_11_the_strange_crime_of_john_boulnois/part_04">part 04 ›</a></div>
 </nav>
 
+# [[wifrb11]] — The Strange Crime of John Boulnois (part 3)
 
      More pines, more pathway slid past him, and then he stood rooted
 as by a blast of magic.  It is vain to say that he felt as if he had

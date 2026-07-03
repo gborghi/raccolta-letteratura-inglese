@@ -1,5 +1,5 @@
 ---
-title: "misc — THE HYPOTHETICAL HOUSEHOLDER"
+title: "A Miscellany of Men — THE HYPOTHETICAL HOUSEHOLDER"
 author: "Chesterton"
 unitType: story
 parentWork: "works/misc-(chesterton)"
@@ -9,10 +9,11 @@ tags:
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/works/misc-(chesterton)">misc</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/misc-(chesterton)">A Miscellany of Men</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/misc/story_12_the_free_man">‹ Story 12 THE FREE MAN</a><a class="ex-next" href="/testi/chesterton/atomized/misc/story_14_the_priest_of_spring_spring">Story 14 THE PRIEST OF spring SPRING ›</a></div>
 </nav>
 
+# [[misc]] — THE HYPOTHETICAL HOUSEHOLDER
 
 THE HYPOTHETICAL HOUSEHOLDER
 

@@ -1,5 +1,5 @@
 ---
-title: Divorce Democracy
+title: Divorce versus Democracy
 author: Chesterton
 type: work
 cluster: Essay · Critique of Progress · Common Man
@@ -16,6 +16,8 @@ tags:
   - concept/distributism
   - form/essay
 ---
+
+# Divorce Democracy
 
 *by Chesterton*  ·  **Cluster:** [[Essay · Critique of Progress · Common Man]]
 

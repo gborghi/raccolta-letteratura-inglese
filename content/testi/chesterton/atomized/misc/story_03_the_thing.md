@@ -1,5 +1,5 @@
 ---
-title: "misc — THE THING"
+title: "A Miscellany of Men — THE THING"
 author: "Chesterton"
 unitType: story
 parentWork: "works/misc-(chesterton)"
@@ -9,10 +9,11 @@ tags:
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/works/misc-(chesterton)">misc</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/misc-(chesterton)">A Miscellany of Men</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/misc/story_02_the_poet_and_the_cheese_cheese">‹ Story 02 THE POET AND THE cheese CHEESE</a><a class="ex-next" href="/testi/chesterton/atomized/misc/story_04_the_man_who_thinks_backwards">Story 04 THE MAN WHO THINKS BACKWARDS ›</a></div>
 </nav>
 
+# [[misc]] — THE THING
 
 THE THING
 

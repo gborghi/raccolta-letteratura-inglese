@@ -1,5 +1,5 @@
 ---
-title: FourFaultlessFelons
+title: Four Faultless Felons
 author: Chesterton
 type: work
 cluster: Short Story · Concealment / Hidden Identity · Justice / Right and Wrong
@@ -17,6 +17,8 @@ tags:
   - archetype/detective
   - concept/justice
 ---
+
+# FourFaultlessFelons
 
 *by Chesterton*  ·  **Cluster:** [[Short Story · Concealment Hidden Identity · Justice Right and Wrong]]
 

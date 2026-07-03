@@ -1,5 +1,5 @@
 ---
-title: "heret12 — Mr. H. G. Wells and the Giants (part 1)"
+title: "Heretics — Mr. H. G. Wells and the Giants (part 1)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/heret12-(chesterton)"
@@ -9,10 +9,11 @@ tags:
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/works/heret12-(chesterton)">heret12</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/heret12-(chesterton)">Heretics</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/heret12/story_04_mr_bernard_shaw/part_03">‹ part 03</a><a class="ex-next" href="/testi/chesterton/atomized/heret12/story_05_mr_h_g_wells_and_the_giants/part_02">part 02 ›</a></div>
 </nav>
 
+# [[heret12]] — Mr. H. G. Wells and the Giants (part 1)
 
 V. Mr. H. G. Wells and the Giants
 

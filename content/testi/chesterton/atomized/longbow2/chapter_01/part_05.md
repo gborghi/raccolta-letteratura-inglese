@@ -1,5 +1,5 @@
 ---
-title: "longbow2 — Chapter 1 (part 5)"
+title: "Tales of the Long Bow — Chapter 1 (part 5)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/longbow2-(chesterton)"
@@ -9,10 +9,11 @@ tags:
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/works/longbow2-(chesterton)">longbow2</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/longbow2-(chesterton)">Tales of the Long Bow</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/longbow2/chapter_01/part_04">‹ part 04</a><a class="ex-next" href="/testi/chesterton/atomized/longbow2/chapter_01/part_06">part 06 ›</a></div>
 </nav>
 
+# [[longbow2]] — Chapter 1 (part 5)
 
 The Colonel took an intense interest in the appointments of the
 luncheon next day.  With subconscious surprise he found himself

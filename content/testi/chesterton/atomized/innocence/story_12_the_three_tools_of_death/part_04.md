@@ -1,5 +1,5 @@
 ---
-title: "innocence — The Three Tools of Death (part 4)"
+title: "The Innocence of Father Brown — The Three Tools of Death (part 4)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/innocence-(chesterton)"
@@ -9,10 +9,11 @@ tags:
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/works/innocence-(chesterton)">innocence</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/innocence-(chesterton)">The Innocence of Father Brown</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/innocence/story_12_the_three_tools_of_death/part_03">‹ part 03</a><span></span></div>
 </nav>
 
+# [[innocence]] — The Three Tools of [[Death]] (part 4)
 
 At a sufficiently delicate sign, the police gathered round
 the large man to lead him away; but their unobtrusiveness was

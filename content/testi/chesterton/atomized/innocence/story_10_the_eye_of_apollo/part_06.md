@@ -1,5 +1,5 @@
 ---
-title: "innocence — The Eye of Apollo (part 6)"
+title: "The Innocence of Father Brown — The Eye of Apollo (part 6)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/innocence-(chesterton)"
@@ -9,10 +9,11 @@ tags:
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/works/innocence-(chesterton)">innocence</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/innocence-(chesterton)">The Innocence of Father Brown</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/innocence/story_10_the_eye_of_apollo/part_05">‹ part 05</a><a class="ex-next" href="/testi/chesterton/atomized/innocence/story_11_the_sign_of_the_broken_sword/part_01">part 01 ›</a></div>
 </nav>
 
+# [[innocence]] — The Eye of [[Apollo]] (part 6)
 
 There was a pause, and the priest went on in a gentle and even broken voice.
 "Whether or no that devil deliberately made her blind, there is

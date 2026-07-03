@@ -1,5 +1,5 @@
 ---
-title: "heret12 — On Certain Modern Writers and the Institution of the Family (part 1)"
+title: "Heretics — On Certain Modern Writers and the Institution of the Family (part 1)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/heret12-(chesterton)"
@@ -9,10 +9,11 @@ tags:
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/works/heret12-(chesterton)">heret12</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/heret12-(chesterton)">Heretics</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/heret12/story_11_paganism_and_mr_lowes_dickinson/part_03">‹ part 03</a><a class="ex-next" href="/testi/chesterton/atomized/heret12/story_13_on_certain_modern_writers_and_the_instit/part_02">part 02 ›</a></div>
 </nav>
 
+# [[heret12]] — On Certain Modern Writers and the Institution of the Family (part 1)
 
 XIV.  On Certain Modern Writers and the Institution of the Family
 

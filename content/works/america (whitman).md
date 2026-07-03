@@ -24,7 +24,7 @@ tags:
 
 ## Testo / Text
 
-- [america](/testi/chesterton/atomized/america/america)
+- [America](/testi/chesterton/atomized/america/america)
 
 ## Connections
 

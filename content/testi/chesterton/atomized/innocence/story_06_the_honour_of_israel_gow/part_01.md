@@ -1,5 +1,5 @@
 ---
-title: "innocence — The Honour of Israel Gow (part 1)"
+title: "The Innocence of Father Brown — The Honour of Israel Gow (part 1)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/innocence-(chesterton)"
@@ -9,10 +9,11 @@ tags:
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/works/innocence-(chesterton)">innocence</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/innocence-(chesterton)">The Innocence of Father Brown</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/innocence/story_05_the_invisible_man/part_06">‹ part 06</a><a class="ex-next" href="/testi/chesterton/atomized/innocence/story_06_the_honour_of_israel_gow/part_02">part 02 ›</a></div>
 </nav>
 
+# [[innocence]] — The [[Honour]] of Israel Gow (part 1)
 
                      The Honour of Israel Gow
 

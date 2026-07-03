@@ -1,5 +1,5 @@
 ---
-title: meaning of the crusade
+title: The Meaning of the Crusade
 author: Chesterton
 type: work
 cluster: Christianity · Faith and Doubt · Doubt
@@ -23,6 +23,8 @@ tags:
   - motif/swords_weapons
   - histref/the_french_revolution
 ---
+
+# meaning of the crusade
 
 *by Chesterton*  ·  **Cluster:** [[Christianity · Faith and Doubt · Doubt]]
 

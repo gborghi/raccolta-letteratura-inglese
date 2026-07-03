@@ -1,5 +1,5 @@
 ---
-title: "wifrb11 — The Perishing of the Pendragons (part 6)"
+title: "The Wisdom of Father Brown — The Perishing of the Pendragons (part 6)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/wifrb11-(chesterton)"
@@ -9,10 +9,11 @@ tags:
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/works/wifrb11-(chesterton)">wifrb11</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/wifrb11-(chesterton)">The Wisdom of Father Brown</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/wifrb11/story_08_the_perishing_of_the_pendragons/part_05">‹ part 05</a><a class="ex-next" href="/testi/chesterton/atomized/wifrb11/story_08_the_perishing_of_the_pendragons/part_07">part 07 ›</a></div>
 </nav>
 
+# [[wifrb11]] — The Perishing of the Pendragons (part 6)
 
      "Always some little thing to be done," he said with
 idiotic cheerfulness; "as George Herbert says:  `Who sweeps

@@ -1,5 +1,5 @@
 ---
-title: midsummer nights dream
+title: A Midsummer Night's Dream
 author: Chesterton
 type: work
 cluster: Artist and Society · Truth · Regency/Georgian England
@@ -19,6 +19,8 @@ tags:
   - histref/elizabethan_england
   - character/hamlet
 ---
+
+# midsummer nights dream
 
 *by Chesterton*  ·  **Cluster:** [[Artist and Society · Truth · Regency Georgian England]]
 

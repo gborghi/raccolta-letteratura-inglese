@@ -1,5 +1,5 @@
 ---
-title: "ortho14 — Ii The Maniac (part 2)"
+title: "Orthodoxy — Ii The Maniac (part 2)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/ortho14-(chesterton)"
@@ -9,10 +9,11 @@ tags:
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/works/ortho14-(chesterton)">ortho14</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/ortho14-(chesterton)">Orthodoxy</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/ortho14/story_04_ii_the_maniac/part_01">‹ part 01</a><a class="ex-next" href="/testi/chesterton/atomized/ortho14/story_04_ii_the_maniac/part_03">part 03 ›</a></div>
 </nav>
 
+# [[ortho14]] — Ii The Maniac (part 2)
 
      Let us begin, then, with the mad-house; from this evil and
 fantastic inn let us set forth on our intellectual journey.

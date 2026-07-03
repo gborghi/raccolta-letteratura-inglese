@@ -1,5 +1,5 @@
 ---
-title: "aquinas — Chapter 4 (part 4)"
+title: "St. Thomas Aquinas — Chapter 4 (part 4)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/aquinas-(chesterton)"
@@ -9,10 +9,11 @@ tags:
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/works/aquinas-(chesterton)">aquinas</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/aquinas-(chesterton)">St. Thomas Aquinas</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/aquinas/chapter_04/part_03">‹ part 03</a><a class="ex-next" href="/testi/chesterton/atomized/aquinas/chapter_04/part_05">part 05 ›</a></div>
 </nav>
 
+# [[aquinas]] — Chapter 4 (part 4)
 
 Popular errors are nearly always right.  They nearly always refer
 to some ultimate reality, about which those who correct them are

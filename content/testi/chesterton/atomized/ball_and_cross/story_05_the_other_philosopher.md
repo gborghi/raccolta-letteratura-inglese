@@ -9,7 +9,7 @@ tags:
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/works/ball-and-cross-(chesterton)">ball and cross</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/ball-and-cross-(chesterton)">The Ball and the Cross</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/ball_and_cross/story_04_the_peacemaker">‹ Story 04 The Peacemaker</a><a class="ex-next" href="/testi/chesterton/atomized/ball_and_cross/story_06_the_village_of_grassley_in_the_hole">Story 06 The Village of Grassley in the Hole ›</a></div>
 </nav>
 

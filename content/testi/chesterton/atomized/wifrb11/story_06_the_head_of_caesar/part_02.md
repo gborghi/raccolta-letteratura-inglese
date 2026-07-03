@@ -1,5 +1,5 @@
 ---
-title: "wifrb11 — The Head of Caesar (part 2)"
+title: "The Wisdom of Father Brown — The Head of Caesar (part 2)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/wifrb11-(chesterton)"
@@ -9,10 +9,11 @@ tags:
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/works/wifrb11-(chesterton)">wifrb11</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/wifrb11-(chesterton)">The Wisdom of Father Brown</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/wifrb11/story_06_the_head_of_caesar/part_01">‹ part 01</a><a class="ex-next" href="/testi/chesterton/atomized/wifrb11/story_06_the_head_of_caesar/part_03">part 03 ›</a></div>
 </nav>
 
+# [[wifrb11]] — The Head of Caesar (part 2)
 
      He looked at her steadily for the first time, and said: 
 "Because I hoped you would speak to me."

@@ -1,5 +1,5 @@
 ---
-title: "aquinas — Chapter 4 (part 3)"
+title: "St. Thomas Aquinas — Chapter 4 (part 3)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/aquinas-(chesterton)"
@@ -9,10 +9,11 @@ tags:
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/works/aquinas-(chesterton)">aquinas</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/aquinas-(chesterton)">St. Thomas Aquinas</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/aquinas/chapter_04/part_02">‹ part 02</a><a class="ex-next" href="/testi/chesterton/atomized/aquinas/chapter_04/part_04">part 04 ›</a></div>
 </nav>
 
+# [[aquinas]] — Chapter 4 (part 3)
 
 Now nobody will begin to understand the Thomist [[philosophy]],
 or indeed the Catholic [[philosophy]], who does not realise that the

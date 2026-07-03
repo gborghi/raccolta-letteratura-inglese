@@ -1,5 +1,5 @@
 ---
-title: "wifrb11 — The Fairy Tale of Father Brown"
+title: "The Wisdom of Father Brown — The Fairy Tale of Father Brown"
 author: "Chesterton"
 unitType: story
 parentWork: "works/wifrb11-(chesterton)"
@@ -9,10 +9,11 @@ tags:
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/works/wifrb11-(chesterton)">wifrb11</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/wifrb11-(chesterton)">The Wisdom of Father Brown</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/wifrb11/story_11_the_strange_crime_of_john_boulnois">‹ Story 11 The Strange Crime of John Boulnois</a><a class="ex-next" href="/testi/chesterton/atomized/wifrb11/story_01_the_absence_of_mr_glass/part_01">part 01 ›</a></div>
 </nav>
 
+# [[wifrb11]] — The Fairy Tale of [[Father Brown]]
 
                     The Fairy Tale of Father Brown
 

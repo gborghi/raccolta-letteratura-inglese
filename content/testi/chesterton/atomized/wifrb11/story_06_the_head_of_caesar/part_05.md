@@ -1,5 +1,5 @@
 ---
-title: "wifrb11 — The Head of Caesar (part 5)"
+title: "The Wisdom of Father Brown — The Head of Caesar (part 5)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/wifrb11-(chesterton)"
@@ -9,10 +9,11 @@ tags:
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/works/wifrb11-(chesterton)">wifrb11</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/wifrb11-(chesterton)">The Wisdom of Father Brown</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/wifrb11/story_06_the_head_of_caesar/part_04">‹ part 04</a><a class="ex-next" href="/testi/chesterton/atomized/wifrb11/story_07_the_purple_wig/part_01">part 01 ›</a></div>
 </nav>
 
+# [[wifrb11]] — The Head of Caesar (part 5)
 
      "I've got only one thing to say.  I don't deserve to be helped;
 and I don't question or complain of my punishment; it is just,

@@ -1,5 +1,5 @@
 ---
-title: "innocence — The Secret Garden (part 3)"
+title: "The Innocence of Father Brown — The Secret Garden (part 3)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/innocence-(chesterton)"
@@ -9,10 +9,11 @@ tags:
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/works/innocence-(chesterton)">innocence</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/innocence-(chesterton)">The Innocence of Father Brown</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/innocence/story_02_the_secret_garden/part_02">‹ part 02</a><a class="ex-next" href="/testi/chesterton/atomized/innocence/story_02_the_secret_garden/part_04">part 04 ›</a></div>
 </nav>
 
+# [[innocence]] — The Secret [[Garden]] (part 3)
 
 Valentin went down on his hands and knees and examined with his
 closest professional attention the grass and ground for some

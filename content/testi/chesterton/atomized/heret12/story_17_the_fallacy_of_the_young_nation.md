@@ -1,5 +1,5 @@
 ---
-title: "heret12 — The Fallacy of the Young Nation"
+title: "Heretics — The Fallacy of the Young Nation"
 author: "Chesterton"
 unitType: story
 parentWork: "works/heret12-(chesterton)"
@@ -9,10 +9,11 @@ tags:
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/works/heret12-(chesterton)">heret12</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/heret12-(chesterton)">Heretics</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/heret12/story_16_on_the_wit_of_whistler">‹ Story 16 On the Wit of Whistler</a><a class="ex-next" href="/testi/chesterton/atomized/heret12/story_18_slum_novelists_and_the_slums">Story 18 Slum Novelists and the Slums ›</a></div>
 </nav>
 
+# [[heret12]] — The Fallacy of the Young Nation
 
 XVIII.  The Fallacy of the Young Nation
 

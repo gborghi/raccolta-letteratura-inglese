@@ -1,5 +1,5 @@
 ---
-title: "manalive — Chapter 1 (part 6)"
+title: "Manalive — Chapter 1 (part 6)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/manalive-(chesterton)"
@@ -9,7 +9,7 @@ tags:
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/works/manalive-(chesterton)">manalive</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/manalive-(chesterton)">Manalive</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/manalive/chapter_07/part_05">‹ part 05</a><a class="ex-next" href="/testi/chesterton/atomized/manalive/chapter_07/part_07">part 07 ›</a></div>
 </nav>
 

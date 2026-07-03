@@ -1,5 +1,5 @@
 ---
-title: "misc — THE FREE MAN"
+title: "A Miscellany of Men — THE FREE MAN"
 author: "Chesterton"
 unitType: story
 parentWork: "works/misc-(chesterton)"
@@ -9,10 +9,11 @@ tags:
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/works/misc-(chesterton)">misc</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/misc-(chesterton)">A Miscellany of Men</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/misc/story_11_the_wrong_incendiary">‹ Story 11 THE WRONG INCENDIARY</a><a class="ex-next" href="/testi/chesterton/atomized/misc/story_13_the_hypothetical_householder">Story 13 THE HYPOTHETICAL HOUSEHOLDER ›</a></div>
 </nav>
 
+# [[misc]] — THE FREE MAN
 
 THE FREE MAN
 

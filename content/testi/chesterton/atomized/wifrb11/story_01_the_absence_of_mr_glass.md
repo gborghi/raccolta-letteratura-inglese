@@ -1,5 +1,5 @@
 ---
-title: "wifrb11 — The Absence of Mr Glass"
+title: "The Wisdom of Father Brown — The Absence of Mr Glass"
 author: "Chesterton"
 unitType: story
 parentWork: "works/wifrb11-(chesterton)"
@@ -9,10 +9,11 @@ tags:
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/works/wifrb11-(chesterton)">wifrb11</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/wifrb11-(chesterton)">The Wisdom of Father Brown</a></div>
 <div class="excerpt-pn"><span></span><a class="ex-next" href="/testi/chesterton/atomized/wifrb11/story_02_the_paradise_of_thieves">Story 02 The Paradise of Thieves ›</a></div>
 </nav>
 
+# [[wifrb11]] — The Absence of Mr Glass
 
                         The Absence of Mr Glass
 

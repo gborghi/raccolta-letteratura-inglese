@@ -1,5 +1,5 @@
 ---
-title: "heret12 — Mr. Bernard Shaw (part 3)"
+title: "Heretics — Mr. Bernard Shaw (part 3)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/heret12-(chesterton)"
@@ -9,10 +9,11 @@ tags:
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/works/heret12-(chesterton)">heret12</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/heret12-(chesterton)">Heretics</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/heret12/story_04_mr_bernard_shaw/part_02">‹ part 02</a><a class="ex-next" href="/testi/chesterton/atomized/heret12/story_05_mr_h_g_wells_and_the_giants/part_01">part 01 ›</a></div>
 </nav>
 
+# [[heret12]] — Mr. Bernard [[Shaw]] (part 3)
 
 The [[Truth|truth]] is, that all genuine appreciation rests on a certain
 mystery of [[Humility|humility]] and almost of darkness.  The man who said,

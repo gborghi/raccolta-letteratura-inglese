@@ -1,5 +1,5 @@
 ---
-title: "america (part 3)"
+title: "America (part 3)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/america-(whitman)"
@@ -9,7 +9,7 @@ tags:
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/works/america-(whitman)">america</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/america-(whitman)">America</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/america/part/part_02">‹ part 02</a><span></span></div>
 </nav>
 

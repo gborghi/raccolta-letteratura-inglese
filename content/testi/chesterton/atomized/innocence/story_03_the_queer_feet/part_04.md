@@ -1,5 +1,5 @@
 ---
-title: "innocence — The Queer Feet (part 4)"
+title: "The Innocence of Father Brown — The Queer Feet (part 4)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/innocence-(chesterton)"
@@ -9,10 +9,11 @@ tags:
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/works/innocence-(chesterton)">innocence</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/innocence-(chesterton)">The Innocence of Father Brown</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/innocence/story_03_the_queer_feet/part_03">‹ part 03</a><a class="ex-next" href="/testi/chesterton/atomized/innocence/story_03_the_queer_feet/part_05">part 05 ›</a></div>
 </nav>
 
+# [[innocence]] — The Queer Feet (part 4)
 
 As has been remarked, there were twenty-four seats at
 the terrace table, and only twelve members of the club.

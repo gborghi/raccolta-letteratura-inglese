@@ -1,5 +1,5 @@
 ---
-title: "ortho14 — Iii The Suicide Of Thought (part 3)"
+title: "Orthodoxy — Iii The Suicide Of Thought (part 3)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/ortho14-(chesterton)"
@@ -9,10 +9,11 @@ tags:
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/works/ortho14-(chesterton)">ortho14</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/ortho14-(chesterton)">Orthodoxy</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/ortho14/story_05_iii_the_suicide_of_thought/part_02">‹ part 02</a><a class="ex-next" href="/testi/chesterton/atomized/ortho14/story_05_iii_the_suicide_of_thought/part_04">part 04 ›</a></div>
 </nav>
 
+# [[ortho14]] — Iii The Suicide Of Thought (part 3)
 
      Akin to these is the false theory of progress, which maintains
 that we alter the test instead of trying to pass the test.  We often

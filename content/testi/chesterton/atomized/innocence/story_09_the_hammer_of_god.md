@@ -1,5 +1,5 @@
 ---
-title: "innocence — The Hammer of God"
+title: "The Innocence of Father Brown — The Hammer of God"
 author: "Chesterton"
 unitType: story
 parentWork: "works/innocence-(chesterton)"
@@ -9,10 +9,11 @@ tags:
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/works/innocence-(chesterton)">innocence</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/innocence-(chesterton)">The Innocence of Father Brown</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/innocence/story_08_the_sins_of_prince_saradine">‹ Story 08 The Sins of Prince Saradine</a><a class="ex-next" href="/testi/chesterton/atomized/innocence/story_10_the_eye_of_apollo">Story 10 The Eye of Apollo ›</a></div>
 </nav>
 
+# [[innocence]] — The Hammer of God
 
                          The Hammer of God
 

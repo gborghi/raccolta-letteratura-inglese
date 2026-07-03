@@ -1,5 +1,5 @@
 ---
-title: "ortho14 — Iv The Ethics Of Elfland (part 5)"
+title: "Orthodoxy — Iv The Ethics Of Elfland (part 5)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/ortho14-(chesterton)"
@@ -9,10 +9,11 @@ tags:
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/works/ortho14-(chesterton)">ortho14</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/ortho14-(chesterton)">Orthodoxy</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/ortho14/story_06_iv_the_ethics_of_elfland/part_04">‹ part 04</a><a class="ex-next" href="/testi/chesterton/atomized/ortho14/story_06_iv_the_ethics_of_elfland/part_06">part 06 ›</a></div>
 </nav>
 
+# [[ortho14]] — Iv The Ethics Of Elfland (part 5)
 
      For this reason (we may call it the fairy godmother [[philosophy]])
 I never could join the young men of my [[Time|time]] in feeling what they

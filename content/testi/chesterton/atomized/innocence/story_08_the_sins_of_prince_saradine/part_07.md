@@ -1,5 +1,5 @@
 ---
-title: "innocence — The Sins of Prince Saradine (part 7)"
+title: "The Innocence of Father Brown — The Sins of Prince Saradine (part 7)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/innocence-(chesterton)"
@@ -9,10 +9,11 @@ tags:
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/works/innocence-(chesterton)">innocence</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/innocence-(chesterton)">The Innocence of Father Brown</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/innocence/story_08_the_sins_of_prince_saradine/part_06">‹ part 06</a><a class="ex-next" href="/testi/chesterton/atomized/innocence/story_09_the_hammer_of_god/part_01">part 01 ›</a></div>
 </nav>
 
+# [[innocence]] — The Sins of Prince Saradine (part 7)
 
 "My God!" cried [[Flambeau]] after a pause, "he's laughing!"
 

@@ -1,5 +1,5 @@
 ---
-title: Common Man
+title: The Common Man
 author: Chesterton
 type: work
 cluster: Essay · Critique of Progress · Common Man
@@ -20,6 +20,8 @@ tags:
   - histref/christianity
   - histref/catholic_church
 ---
+
+# Common Man
 
 *by Chesterton*  ·  **Cluster:** [[Essay · Critique of Progress · Common Man]]
 

@@ -1,5 +1,5 @@
 ---
-title: "heret12 — On the Wit of Whistler"
+title: "Heretics — On the Wit of Whistler"
 author: "Chesterton"
 unitType: story
 parentWork: "works/heret12-(chesterton)"
@@ -9,10 +9,11 @@ tags:
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/works/heret12-(chesterton)">heret12</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/heret12-(chesterton)">Heretics</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/heret12/story_15_on_mr_mccabe_and_a_divine_frivolity">‹ Story 15 On Mr McCabe and a Divine Frivolity</a><a class="ex-next" href="/testi/chesterton/atomized/heret12/story_17_the_fallacy_of_the_young_nation">Story 17 The Fallacy of the Young Nation ›</a></div>
 </nav>
 
+# [[heret12]] — On the Wit of Whistler
 
 XVII.  On the Wit of Whistler
 

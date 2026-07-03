@@ -1,5 +1,5 @@
 ---
-title: whats wrong
+title: What's Wrong with the World
 author: Chesterton
 type: work
 cluster: Essay · Critique of Progress · Common Man
@@ -26,6 +26,8 @@ tags:
   - setting/industrial_city
   - topos/world_upside_down
 ---
+
+# whats wrong
 
 *by Chesterton*  ·  **Cluster:** [[Essay · Critique of Progress · Common Man]]
 

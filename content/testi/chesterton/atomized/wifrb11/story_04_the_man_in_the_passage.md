@@ -1,5 +1,5 @@
 ---
-title: "wifrb11 — The Man in the Passage"
+title: "The Wisdom of Father Brown — The Man in the Passage"
 author: "Chesterton"
 unitType: story
 parentWork: "works/wifrb11-(chesterton)"
@@ -9,10 +9,11 @@ tags:
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/works/wifrb11-(chesterton)">wifrb11</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/wifrb11-(chesterton)">The Wisdom of Father Brown</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/wifrb11/story_03_the_duel_of_dr_hirsch">‹ Story 03 The Duel of Dr Hirsch</a><a class="ex-next" href="/testi/chesterton/atomized/wifrb11/story_05_the_mistake_of_the_machine">Story 05 The Mistake of the Machine ›</a></div>
 </nav>
 
+# [[wifrb11]] — The Man in the Passage
 
                         The Man in the Passage
 

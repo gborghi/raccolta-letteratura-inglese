@@ -1,5 +1,5 @@
 ---
-title: "wifrb11 — The Salad of Colonel Cray"
+title: "The Wisdom of Father Brown — The Salad of Colonel Cray"
 author: "Chesterton"
 unitType: story
 parentWork: "works/wifrb11-(chesterton)"
@@ -9,10 +9,11 @@ tags:
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/works/wifrb11-(chesterton)">wifrb11</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/wifrb11-(chesterton)">The Wisdom of Father Brown</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/wifrb11/story_09_the_god_of_the_gongs">‹ Story 09 The God of the Gongs</a><a class="ex-next" href="/testi/chesterton/atomized/wifrb11/story_11_the_strange_crime_of_john_boulnois">Story 11 The Strange Crime of John Boulnois ›</a></div>
 </nav>
 
+# [[wifrb11]] — The Salad of Colonel Cray
 
                        The Salad of Colonel Cray
 

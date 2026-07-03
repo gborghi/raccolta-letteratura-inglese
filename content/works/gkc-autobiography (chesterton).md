@@ -1,5 +1,5 @@
 ---
-title: GKC-Autobiography
+title: Autobiography
 author: Chesterton
 type: work
 cluster: Christianity · Faith and Doubt · Doubt
@@ -20,6 +20,8 @@ tags:
   - setting/london
   - histref/catholic_church
 ---
+
+# GKC-Autobiography
 
 *by Chesterton*  ·  **Cluster:** [[Christianity · Faith and Doubt · Doubt]]
 

@@ -1,5 +1,5 @@
 ---
-title: "conversion — Chapter 2: THE OBVIOUS BLUNDERS (part 3)"
+title: "The Catholic Church and Conversion — Chapter 2: THE OBVIOUS BLUNDERS (part 3)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/conversion-(chesterton)"
@@ -9,10 +9,11 @@ tags:
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/works/conversion-(chesterton)">conversion</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/conversion-(chesterton)">The Catholic Church and Conversion</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/conversion/chapter_02_the_obvious_blunders/part_02">‹ part 02</a><a class="ex-next" href="/testi/chesterton/atomized/conversion/chapter_02_the_obvious_blunders/part_04">part 04 ›</a></div>
 </nav>
 
+# [[conversion]] — Chapter 2: THE OBVIOUS BLUNDERS (part 3)
 
 It is strange to me to go back to these things now, and to think
 that I ever took them even as seriously as that.  But I was not

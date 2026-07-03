@@ -1,5 +1,5 @@
 ---
-title: "aquinas — Chapter 7 (part 6)"
+title: "St. Thomas Aquinas — Chapter 7 (part 6)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/aquinas-(chesterton)"
@@ -9,10 +9,11 @@ tags:
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/works/aquinas-(chesterton)">aquinas</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/aquinas-(chesterton)">St. Thomas Aquinas</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/aquinas/chapter_06/part_05">‹ part 05</a><a class="ex-next" href="/testi/chesterton/atomized/aquinas/chapter_07/part_01">part 01 ›</a></div>
 </nav>
 
+# [[aquinas]] — Chapter 7 (part 6)
 
 He has seen grass; and will not say he has not seen grass, because it
 today is and tomorrow is cast into the oven.  That is the substance

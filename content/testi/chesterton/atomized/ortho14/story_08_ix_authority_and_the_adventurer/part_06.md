@@ -1,5 +1,5 @@
 ---
-title: "ortho14 — Ix Authority And The Adventurer (part 6)"
+title: "Orthodoxy — Ix Authority And The Adventurer (part 6)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/ortho14-(chesterton)"
@@ -9,10 +9,11 @@ tags:
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/works/ortho14-(chesterton)">ortho14</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/ortho14-(chesterton)">Orthodoxy</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/ortho14/story_08_ix_authority_and_the_adventurer/part_05">‹ part 05</a><a class="ex-next" href="/testi/chesterton/atomized/ortho14/story_08_ix_authority_and_the_adventurer/part_07">part 07 ›</a></div>
 </nav>
 
+# [[ortho14]] — Ix Authority And The Adventurer (part 6)
 
      For I remember with certainty this fixed psychological fact;
 that the very [[Time|time]] when I was most under a woman's authority,

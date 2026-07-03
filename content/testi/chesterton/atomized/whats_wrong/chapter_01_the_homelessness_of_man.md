@@ -9,7 +9,7 @@ tags:
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/works/whats-wrong-(chesterton)">whats wrong</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/whats-wrong-(chesterton)">What's Wrong with the World</a></div>
 <div class="excerpt-pn"><span></span><a class="ex-next" href="/testi/chesterton/atomized/whats_wrong/chapter_02_imperialism_or_the_mistake_abo">Chapter 02 IMPERIALISM OR THE MISTAKE ABO ›</a></div>
 </nav>
 

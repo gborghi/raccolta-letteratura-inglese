@@ -1,5 +1,5 @@
 ---
-title: "misc — THE SECTARIAN OF SOCIETY"
+title: "A Miscellany of Men — THE SECTARIAN OF SOCIETY"
 author: "Chesterton"
 unitType: story
 parentWork: "works/misc-(chesterton)"
@@ -9,10 +9,11 @@ tags:
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/works/misc-(chesterton)">misc</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/misc-(chesterton)">A Miscellany of Men</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/misc/story_16_the_sentimental_scot">‹ Story 16 THE SENTIMENTAL SCOT</a><a class="ex-next" href="/testi/chesterton/atomized/misc/story_18_the_fool_fool">Story 18 THE Fool FOOL ›</a></div>
 </nav>
 
+# [[misc]] — THE SECTARIAN OF SOCIETY
 
 THE SECTARIAN OF SOCIETY
 

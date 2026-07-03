@@ -1,5 +1,5 @@
 ---
-title: "heret12 — Paganism and Mr. Lowes Dickinson (part 2)"
+title: "Heretics — Paganism and Mr. Lowes Dickinson (part 2)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/heret12-(chesterton)"
@@ -9,10 +9,11 @@ tags:
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/works/heret12-(chesterton)">heret12</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/heret12-(chesterton)">Heretics</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/heret12/story_11_paganism_and_mr_lowes_dickinson/part_01">‹ part 01</a><a class="ex-next" href="/testi/chesterton/atomized/heret12/story_11_paganism_and_mr_lowes_dickinson/part_03">part 03 ›</a></div>
 </nav>
 
+# [[heret12]] — Paganism and Mr. Lowes Dickinson (part 2)
 
 As the word "unreasonable" is open to misunderstanding, the matter
 may be more accurately put by saying that each one of these Christian

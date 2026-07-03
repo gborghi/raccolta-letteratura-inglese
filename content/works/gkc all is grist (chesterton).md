@@ -1,5 +1,5 @@
 ---
-title: GKC All is Grist
+title: All Is Grist
 author: Chesterton
 type: work
 cluster: Artist and Society · Truth · Regency/Georgian England
@@ -18,6 +18,8 @@ tags:
   - histref/the_renaissance
   - histref/dante
 ---
+
+# GKC All is Grist
 
 *by Chesterton*  ·  **Cluster:** [[Artist and Society · Truth · Regency Georgian England]]
 

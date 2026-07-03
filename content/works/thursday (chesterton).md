@@ -1,5 +1,5 @@
 ---
-title: thursday
+title: The Man Who Was Thursday
 author: Chesterton
 type: work
 cluster: Unclustered
@@ -11,6 +11,8 @@ tags:
   - character/lucian_gregory
   - character/sunday
 ---
+
+# thursday
 
 *by Chesterton*  ·  **Cluster:** [[Unclustered]]
 

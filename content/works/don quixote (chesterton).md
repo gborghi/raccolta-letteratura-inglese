@@ -1,5 +1,5 @@
 ---
-title: Don Quixote
+title: The Return of Don Quixote
 author: Chesterton
 type: work
 cluster: Satire of Society · Epigram · Satire
@@ -24,6 +24,8 @@ tags:
   - form/novel
   - form/satire
 ---
+
+# Don Quixote
 
 *by Chesterton*  ·  **Cluster:** [[Satire of Society · Epigram · Satire]]
 

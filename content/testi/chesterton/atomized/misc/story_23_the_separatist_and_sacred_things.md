@@ -1,5 +1,5 @@
 ---
-title: "misc — THE SEPARATIST AND SACRED THINGS"
+title: "A Miscellany of Men — THE SEPARATIST AND SACRED THINGS"
 author: "Chesterton"
 unitType: story
 parentWork: "works/misc-(chesterton)"
@@ -9,10 +9,11 @@ tags:
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/works/misc-(chesterton)">misc</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/misc-(chesterton)">A Miscellany of Men</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/misc/story_22_the_red_reactionary">‹ Story 22 THE RED REACTIONARY</a><a class="ex-next" href="/testi/chesterton/atomized/misc/story_24_the_mummer">Story 24 THE MUMMER ›</a></div>
 </nav>
 
+# [[misc]] — THE SEPARATIST AND SACRED THINGS
 
 THE SEPARATIST AND SACRED THINGS
 

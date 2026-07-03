@@ -1,5 +1,5 @@
 ---
-title: longbow2
+title: Tales of the Long Bow
 author: Chesterton
 type: work
 cluster: Essay · Critique of Progress · Common Man
@@ -19,6 +19,8 @@ tags:
   - concept/paradox
   - setting/rural_england
 ---
+
+# longbow2
 
 *by Chesterton*  ·  **Cluster:** [[Essay · Critique of Progress · Common Man]]
 

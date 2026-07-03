@@ -1,5 +1,5 @@
 ---
-title: "thursday — Chapter 10 (part 4)"
+title: "The Man Who Was Thursday — Chapter 10 (part 4)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/thursday-(chesterton)"
@@ -9,10 +9,11 @@ tags:
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/works/thursday-(chesterton)">thursday</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/thursday-(chesterton)">The Man Who Was Thursday</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/thursday/chapter_10/part_03">‹ part 03</a><a class="ex-next" href="/testi/chesterton/atomized/thursday/chapter_10/part_05">part 05 ›</a></div>
 </nav>
 
+# [[thursday]] — Chapter 10 (part 4)
 
 He fell to fighting again with a [[Supernatural|supernatural]] levity, like a Mohammedan
 panting for Paradise.  As the train came nearer and nearer he fancied he could

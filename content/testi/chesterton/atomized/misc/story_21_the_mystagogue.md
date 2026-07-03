@@ -1,5 +1,5 @@
 ---
-title: "misc — THE MYSTAGOGUE"
+title: "A Miscellany of Men — THE MYSTAGOGUE"
 author: "Chesterton"
 unitType: story
 parentWork: "works/misc-(chesterton)"
@@ -9,10 +9,11 @@ tags:
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/works/misc-(chesterton)">misc</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/misc-(chesterton)">A Miscellany of Men</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/misc/story_20_the_miser_and_his_friends">‹ Story 20 THE MISER AND HIS FRIENDS</a><a class="ex-next" href="/testi/chesterton/atomized/misc/story_22_the_red_reactionary">Story 22 THE RED REACTIONARY ›</a></div>
 </nav>
 
+# [[misc]] — THE MYSTAGOGUE
 
 THE MYSTAGOGUE
 

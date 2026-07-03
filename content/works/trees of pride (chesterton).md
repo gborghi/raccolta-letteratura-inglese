@@ -1,5 +1,5 @@
 ---
-title: trees of pride
+title: The Trees of Pride
 author: Chesterton
 type: work
 cluster: Short Story · Concealment / Hidden Identity · Justice / Right and Wrong
@@ -20,6 +20,8 @@ tags:
   - archetype/villain
   - setting/rural_england
 ---
+
+# trees of pride
 
 *by Chesterton*  ·  **Cluster:** [[Short Story · Concealment Hidden Identity · Justice Right and Wrong]]
 

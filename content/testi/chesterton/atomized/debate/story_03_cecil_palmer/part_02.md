@@ -1,5 +1,5 @@
 ---
-title: "debate — Cecil Palmer (part 2)"
+title: "Do We Agree? — Cecil Palmer (part 2)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/debate-(chesterton)"
@@ -9,10 +9,11 @@ tags:
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/works/debate-(chesterton)">debate</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/debate-(chesterton)">Do We Agree?</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/debate/story_03_cecil_palmer/part_01">‹ part 01</a><a class="ex-next" href="/testi/chesterton/atomized/debate/story_03_cecil_palmer/part_03">part 03 ›</a></div>
 </nav>
 
+# [[debate]] — Cecil Palmer (part 2)
 
 Bunyan, by the way, does not even mention Mr. Facing-Both Ways'
 extraordinary historical feat of drafting the Twenty-seventh Article

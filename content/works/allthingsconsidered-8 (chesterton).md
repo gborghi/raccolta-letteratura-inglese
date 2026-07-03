@@ -1,5 +1,5 @@
 ---
-title: AllThingsConsidered-8
+title: All Things Considered
 author: Chesterton
 type: work
 cluster: Paradox · Food and Feasting · Aphorism
@@ -20,6 +20,8 @@ tags:
   - histref/christianity
   - setting/london
 ---
+
+# AllThingsConsidered-8
 
 *by Chesterton*  ·  **Cluster:** [[Paradox · Food and Feasting · Aphorism]]
 

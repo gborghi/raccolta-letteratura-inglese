@@ -1,5 +1,5 @@
 ---
-title: "wifrb11 — The Paradise of Thieves (part 4)"
+title: "The Wisdom of Father Brown — The Paradise of Thieves (part 4)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/wifrb11-(chesterton)"
@@ -9,10 +9,11 @@ tags:
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/works/wifrb11-(chesterton)">wifrb11</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/wifrb11-(chesterton)">The Wisdom of Father Brown</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/wifrb11/story_02_the_paradise_of_thieves/part_03">‹ part 03</a><a class="ex-next" href="/testi/chesterton/atomized/wifrb11/story_02_the_paradise_of_thieves/part_05">part 05 ›</a></div>
 </nav>
 
+# [[wifrb11]] — The Paradise of Thieves (part 4)
 
      Muscari set the lady lightly on her feet, made her an absurdly
 theatrical bow, and then, drawing his cutlass, hacked hard at

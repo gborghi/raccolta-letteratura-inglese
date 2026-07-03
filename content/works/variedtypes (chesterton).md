@@ -1,5 +1,5 @@
 ---
-title: VariedTypes
+title: Varied Types
 author: Chesterton
 type: work
 cluster: Artist and Society · Truth · Regency/Georgian England
@@ -18,6 +18,8 @@ tags:
   - histref/victorian_england
   - form/biography
 ---
+
+# VariedTypes
 
 *by Chesterton*  ·  **Cluster:** [[Artist and Society · Truth · Regency Georgian England]]
 

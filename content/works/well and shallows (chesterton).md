@@ -1,5 +1,5 @@
 ---
-title: Well And Shallows
+title: The Well and the Shallows
 author: Chesterton
 type: work
 cluster: Christianity · Faith and Doubt · Doubt
@@ -21,6 +21,8 @@ tags:
   - character/the_virgin_mary
   - motif/the_well
 ---
+
+# Well And Shallows
 
 *by Chesterton*  ·  **Cluster:** [[Christianity · Faith and Doubt · Doubt]]
 

@@ -1,5 +1,5 @@
 ---
-title: "innocence — The Sign of the Broken Sword"
+title: "The Innocence of Father Brown — The Sign of the Broken Sword"
 author: "Chesterton"
 unitType: story
 parentWork: "works/innocence-(chesterton)"
@@ -9,10 +9,11 @@ tags:
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/works/innocence-(chesterton)">innocence</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/innocence-(chesterton)">The Innocence of Father Brown</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/innocence/story_10_the_eye_of_apollo">‹ Story 10 The Eye of Apollo</a><a class="ex-next" href="/testi/chesterton/atomized/innocence/story_12_the_three_tools_of_death">Story 12 The Three Tools of Death ›</a></div>
 </nav>
 
+# [[innocence]] — The Sign of the Broken [[Sword]]
 
                    The Sign of the Broken Sword
 

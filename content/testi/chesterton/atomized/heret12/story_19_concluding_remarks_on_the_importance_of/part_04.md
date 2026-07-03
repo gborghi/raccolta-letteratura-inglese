@@ -1,5 +1,5 @@
 ---
-title: "heret12 — Concluding Remarks on the Importance of Orthodoxy (part 4)"
+title: "Heretics — Concluding Remarks on the Importance of Orthodoxy (part 4)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/heret12-(chesterton)"
@@ -9,10 +9,11 @@ tags:
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/works/heret12-(chesterton)">heret12</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/heret12-(chesterton)">Heretics</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/heret12/story_19_concluding_remarks_on_the_importance_of/part_03">‹ part 03</a><span></span></div>
 </nav>
 
+# [[heret12]] — Concluding Remarks on the Importance of Orthodoxy (part 4)
 
 This latter situation is certainly possible; in fact, it is the situation
 of the whole modern world.  The modern world is filled with men who hold

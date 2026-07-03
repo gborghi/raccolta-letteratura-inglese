@@ -1,5 +1,5 @@
 ---
-title: "conversion — Chapter 2: THE OBVIOUS BLUNDERS"
+title: "The Catholic Church and Conversion — Chapter 2: THE OBVIOUS BLUNDERS"
 author: "Chesterton"
 unitType: chapter
 parentWork: "works/conversion-(chesterton)"
@@ -9,10 +9,11 @@ tags:
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/works/conversion-(chesterton)">conversion</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/conversion-(chesterton)">The Catholic Church and Conversion</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/conversion/chapter_01_introductory_a_new_religion">‹ Chapter 01 INTRODUCTORY A NEW RELIGION</a><a class="ex-next" href="/testi/chesterton/atomized/conversion/chapter_03_the_real_obstacles">Chapter 03 THE REAL OBSTACLES ›</a></div>
 </nav>
 
+# [[conversion]] — Chapter 2: THE OBVIOUS BLUNDERS
 
 CHAPTER II:  THE OBVIOUS BLUNDERS
 

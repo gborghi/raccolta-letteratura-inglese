@@ -9,7 +9,7 @@ tags:
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/works/midsummer-nights-dream-(chesterton)">midsummer nights dream</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/midsummer-nights-dream-(chesterton)">A Midsummer Night's Dream</a></div>
 </nav>
 
 

@@ -1,5 +1,5 @@
 ---
-title: "misc — THE SUN WORSHIPPER"
+title: "A Miscellany of Men — THE SUN WORSHIPPER"
 author: "Chesterton"
 unitType: story
 parentWork: "works/misc-(chesterton)"
@@ -9,10 +9,11 @@ tags:
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/works/misc-(chesterton)">misc</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/misc-(chesterton)">A Miscellany of Men</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/misc/story_09_the_enchanted_man">‹ Story 09 THE ENCHANTED MAN</a><a class="ex-next" href="/testi/chesterton/atomized/misc/story_11_the_wrong_incendiary">Story 11 THE WRONG INCENDIARY ›</a></div>
 </nav>
 
+# [[misc]] — THE SUN WORSHIPPER
 
 THE SUN WORSHIPPER
 

@@ -1,5 +1,5 @@
 ---
-title: "longbow2 — Chapter 2 (part 8)"
+title: "Tales of the Long Bow — Chapter 2 (part 8)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/longbow2-(chesterton)"
@@ -9,10 +9,11 @@ tags:
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/works/longbow2-(chesterton)">longbow2</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/longbow2-(chesterton)">Tales of the Long Bow</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/longbow2/chapter_02/part_07">‹ part 07</a><a class="ex-next" href="/testi/chesterton/atomized/longbow2/chapter_03/part_01">part 01 ›</a></div>
 </nav>
 
+# [[longbow2]] — Chapter 2 (part 8)
 
 "We've rounded up all those people down Bleak Row," said Dr. Hunter. 
 "No good going down The Hole and those filthy places.  No vote there. 

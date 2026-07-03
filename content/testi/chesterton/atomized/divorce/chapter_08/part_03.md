@@ -1,5 +1,5 @@
 ---
-title: "divorce — Chapter 8 (part 3)"
+title: "The Superstition of Divorce — Chapter 8 (part 3)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/divorce-(chesterton)"
@@ -9,10 +9,11 @@ tags:
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/works/divorce-(chesterton)">divorce</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/divorce-(chesterton)">The Superstition of Divorce</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/divorce/chapter_08/part_02">‹ part 02</a><span></span></div>
 </nav>
 
+# [[divorce]] — Chapter 8 (part 3)
 
 A short [[Time|time]] ago, as I am [[Well|well]] aware, it would have sounded very
 strange to represent the old religious and peasant communities

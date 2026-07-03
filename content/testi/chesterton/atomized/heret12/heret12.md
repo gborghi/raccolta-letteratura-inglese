@@ -1,5 +1,5 @@
 ---
-title: "heret12"
+title: "Heretics"
 author: "Chesterton"
 unitType: work
 parentWork: "works/heret12-(chesterton)"
@@ -9,9 +9,10 @@ tags:
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/works/heret12-(chesterton)">heret12</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/heret12-(chesterton)">Heretics</a></div>
 </nav>
 
+# [[heret12]]
 
 HERETICS
 

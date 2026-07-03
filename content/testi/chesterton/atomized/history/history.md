@@ -1,5 +1,5 @@
 ---
-title: "history"
+title: "A Short History of England"
 author: "Chesterton"
 unitType: work
 parentWork: "works/history-(chesterton)"
@@ -9,9 +9,10 @@ tags:
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/works/history-(chesterton)">history</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/history-(chesterton)">A Short History of England</a></div>
 </nav>
 
+# [[history]]
 
 G.K. Chesterton, A Short [[history|History]] of England, 1917.
 

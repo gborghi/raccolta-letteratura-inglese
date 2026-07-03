@@ -1,5 +1,5 @@
 ---
-title: "tolstoy (part 4)"
+title: "Leo Tolstoy (part 4)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/tolstoy-(chesterton)"
@@ -9,10 +9,11 @@ tags:
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/works/tolstoy-(chesterton)">tolstoy</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/tolstoy-(chesterton)">Leo Tolstoy</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/tolstoy/part/part_03">‹ part 03</a><a class="ex-next" href="/testi/chesterton/atomized/tolstoy/part/part_05">part 05 ›</a></div>
 </nav>
 
+# [[tolstoy]] (part 4)
 
 It is more to our purpose to note that in this volcanic and fecund
 if fundamentally simple personality the [[artist]] has dogged

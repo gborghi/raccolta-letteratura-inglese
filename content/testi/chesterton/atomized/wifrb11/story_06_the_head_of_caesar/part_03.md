@@ -1,5 +1,5 @@
 ---
-title: "wifrb11 — The Head of Caesar (part 3)"
+title: "The Wisdom of Father Brown — The Head of Caesar (part 3)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/wifrb11-(chesterton)"
@@ -9,10 +9,11 @@ tags:
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/works/wifrb11-(chesterton)">wifrb11</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/wifrb11-(chesterton)">The Wisdom of Father Brown</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/wifrb11/story_06_the_head_of_caesar/part_02">‹ part 02</a><a class="ex-next" href="/testi/chesterton/atomized/wifrb11/story_06_the_head_of_caesar/part_04">part 04 ›</a></div>
 </nav>
 
+# [[wifrb11]] — The Head of Caesar (part 3)
 
      "Nature is older than the Carstairs Collection.  As I ran
 down the streets to the sea, the coin clenched tight in my fist,

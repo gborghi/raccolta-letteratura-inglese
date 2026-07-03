@@ -1,5 +1,5 @@
 ---
-title: "wifrb11 — The Strange Crime of John Boulnois (part 5)"
+title: "The Wisdom of Father Brown — The Strange Crime of John Boulnois (part 5)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/wifrb11-(chesterton)"
@@ -9,10 +9,11 @@ tags:
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/works/wifrb11-(chesterton)">wifrb11</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/wifrb11-(chesterton)">The Wisdom of Father Brown</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/wifrb11/story_11_the_strange_crime_of_john_boulnois/part_04">‹ part 04</a><a class="ex-next" href="/testi/chesterton/atomized/wifrb11/story_12_the_fairy_tale_of_father_brown/part_01">part 01 ›</a></div>
 </nav>
 
+# [[wifrb11]] — The Strange Crime of John Boulnois (part 5)
 
      Mrs Boulnois drew near once more with the same contained
 glow of certainty.  "My husband," she said, "is a great man. 

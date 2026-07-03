@@ -1,5 +1,5 @@
 ---
-title: "conversion — Chapter 4: THE WORLD INSIDE OUT (part 3)"
+title: "The Catholic Church and Conversion — Chapter 4: THE WORLD INSIDE OUT (part 3)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/conversion-(chesterton)"
@@ -9,10 +9,11 @@ tags:
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/works/conversion-(chesterton)">conversion</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/conversion-(chesterton)">The Catholic Church and Conversion</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/conversion/chapter_04_the_world_inside_out/part_02">‹ part 02</a><a class="ex-next" href="/testi/chesterton/atomized/conversion/chapter_05_the_exception_proves_the_rule/part_01">part 01 ›</a></div>
 </nav>
 
+# [[conversion]] — Chapter 4: THE WORLD INSIDE OUT (part 3)
 
 When the [[convert]] has once seen the world like that,
 with one balance of ideas and a number of other ideas that

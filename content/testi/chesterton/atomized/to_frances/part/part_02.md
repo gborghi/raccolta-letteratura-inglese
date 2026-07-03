@@ -1,5 +1,5 @@
 ---
-title: "to-frances (part 2)"
+title: "To Frances (part 2)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/to-frances-(chesterton)"
@@ -9,10 +9,11 @@ tags:
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/works/to-frances-(chesterton)">to frances</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/to-frances-(chesterton)">To Frances</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/to_frances/part/part_01">‹ part 01</a><a class="ex-next" href="/testi/chesterton/atomized/to_frances/part/part_03">part 03 ›</a></div>
 </nav>
 
+# [[to-frances]] (part 2)
 
 I rejected the article which was dearer because it had been hallowed
 by human possession, and accepted the cheap, new crude racket.

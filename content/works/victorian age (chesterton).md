@@ -1,5 +1,5 @@
 ---
-title: Victorian Age
+title: The Victorian Age in Literature
 author: Chesterton
 type: work
 cluster: Artist and Society · Truth · Regency/Georgian England
@@ -16,6 +16,8 @@ tags:
   - concept/reform
   - form/essay
 ---
+
+# Victorian Age
 
 *by Chesterton*  ·  **Cluster:** [[Artist and Society · Truth · Regency Georgian England]]
 

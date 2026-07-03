@@ -1,5 +1,5 @@
 ---
-title: "longbow2 — Chapter 3"
+title: "Tales of the Long Bow — Chapter 3"
 author: "Chesterton"
 unitType: chapter
 parentWork: "works/longbow2-(chesterton)"
@@ -9,10 +9,11 @@ tags:
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/works/longbow2-(chesterton)">longbow2</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/longbow2-(chesterton)">Tales of the Long Bow</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/longbow2/chapter_02">‹ Chapter 02</a><a class="ex-next" href="/testi/chesterton/atomized/longbow2/chapter_04">Chapter 04 ›</a></div>
 </nav>
 
+# [[longbow2]] — Chapter 3
 
 Chapter III
 

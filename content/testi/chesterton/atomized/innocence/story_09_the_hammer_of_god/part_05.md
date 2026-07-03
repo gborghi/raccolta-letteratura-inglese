@@ -1,5 +1,5 @@
 ---
-title: "innocence — The Hammer of God (part 5)"
+title: "The Innocence of Father Brown — The Hammer of God (part 5)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/innocence-(chesterton)"
@@ -9,10 +9,11 @@ tags:
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/works/innocence-(chesterton)">innocence</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/innocence-(chesterton)">The Innocence of Father Brown</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/innocence/story_09_the_hammer_of_god/part_04">‹ part 04</a><a class="ex-next" href="/testi/chesterton/atomized/innocence/story_09_the_hammer_of_god/part_06">part 06 ›</a></div>
 </nav>
 
+# [[innocence]] — The Hammer of God (part 5)
 
 The inspector laughed amicably and said:  "No, I think you can be
 considered out of it, though it's one of the rummiest coincidences

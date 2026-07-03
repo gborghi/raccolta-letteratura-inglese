@@ -1,5 +1,5 @@
 ---
-title: "ortho14 — Iii The Suicide Of Thought (part 5)"
+title: "Orthodoxy — Iii The Suicide Of Thought (part 5)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/ortho14-(chesterton)"
@@ -9,10 +9,11 @@ tags:
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/works/ortho14-(chesterton)">ortho14</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/ortho14-(chesterton)">Orthodoxy</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/ortho14/story_05_iii_the_suicide_of_thought/part_04">‹ part 04</a><a class="ex-next" href="/testi/chesterton/atomized/ortho14/story_06_iv_the_ethics_of_elfland/part_01">part 01 ›</a></div>
 </nav>
 
+# [[ortho14]] — Iii The Suicide Of Thought (part 5)
 
      It may be added that the same blank and bankruptcy can be
 observed in all fierce and terrible types of literature,

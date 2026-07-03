@@ -1,5 +1,5 @@
 ---
-title: The Glass Walking Stick
+title: The Glass Walking-Stick
 author: Chesterton
 type: work
 cluster: Artist and Society · Truth · Regency/Georgian England
@@ -23,6 +23,8 @@ tags:
   - histref/arthurian_legend
   - histref/christianity
 ---
+
+# The Glass Walking Stick
 
 *by Chesterton*  ·  **Cluster:** [[Artist and Society · Truth · Regency Georgian England]]
 

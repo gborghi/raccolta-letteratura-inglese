@@ -1,5 +1,5 @@
 ---
-title: divorce
+title: The Superstition of Divorce
 author: Chesterton
 type: work
 cluster: Essay · Critique of Progress · Common Man
@@ -16,6 +16,8 @@ tags:
   - concept/faith
   - form/essay
 ---
+
+# divorce
 
 *by Chesterton*  ·  **Cluster:** [[Essay · Critique of Progress · Common Man]]
 

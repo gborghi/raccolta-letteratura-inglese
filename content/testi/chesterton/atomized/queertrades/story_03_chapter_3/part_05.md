@@ -1,5 +1,5 @@
 ---
-title: "queertrades — Chapter 3 (part 5)"
+title: "The Club of Queer Trades — Chapter 3 (part 5)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/queertrades-(chesterton)"
@@ -9,10 +9,11 @@ tags:
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/works/queertrades-(chesterton)">queertrades</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/queertrades-(chesterton)">The Club of Queer Trades</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/queertrades/story_03_chapter_3/part_04">‹ part 04</a><a class="ex-next" href="/testi/chesterton/atomized/queertrades/story_03_chapter_3/part_06">part 06 ›</a></div>
 </nav>
 
+# [[queertrades]] — Chapter 3 (part 5)
 
 "The [[Truth|truth]] and dignity of this staggered the policeman for a moment.
 Under cover of their advantage my five persecutors turned for an

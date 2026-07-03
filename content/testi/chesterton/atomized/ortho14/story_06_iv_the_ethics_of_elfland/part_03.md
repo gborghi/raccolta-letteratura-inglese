@@ -1,5 +1,5 @@
 ---
-title: "ortho14 — Iv The Ethics Of Elfland (part 3)"
+title: "Orthodoxy — Iv The Ethics Of Elfland (part 3)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/ortho14-(chesterton)"
@@ -9,10 +9,11 @@ tags:
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/works/ortho14-(chesterton)">ortho14</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/ortho14-(chesterton)">Orthodoxy</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/ortho14/story_06_iv_the_ethics_of_elfland/part_02">‹ part 02</a><a class="ex-next" href="/testi/chesterton/atomized/ortho14/story_06_iv_the_ethics_of_elfland/part_04">part 04 ›</a></div>
 </nav>
 
+# [[ortho14]] — Iv The Ethics Of Elfland (part 3)
 
      Here is the peculiar perfection of tone and truth in the
 nursery tales.  The man of science says, "Cut the stalk, and

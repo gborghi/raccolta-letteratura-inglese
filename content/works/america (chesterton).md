@@ -1,5 +1,5 @@
 ---
-title: america
+title: America
 author: Chesterton
 type: work
 cluster: Essay · Critique of Progress · Common Man

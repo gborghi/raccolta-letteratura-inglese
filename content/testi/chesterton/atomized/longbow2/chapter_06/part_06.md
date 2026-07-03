@@ -1,5 +1,5 @@
 ---
-title: "longbow2 — Chapter 6 (part 6)"
+title: "Tales of the Long Bow — Chapter 6 (part 6)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/longbow2-(chesterton)"
@@ -9,10 +9,11 @@ tags:
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/works/longbow2-(chesterton)">longbow2</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/longbow2-(chesterton)">Tales of the Long Bow</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/longbow2/chapter_06/part_05">‹ part 05</a><a class="ex-next" href="/testi/chesterton/atomized/longbow2/chapter_06/part_07">part 07 ›</a></div>
 </nav>
 
+# [[longbow2]] — Chapter 6 (part 6)
 
 "At this point, however, a still more extraordinary development
 took place.  The young man in the front row, who had several times

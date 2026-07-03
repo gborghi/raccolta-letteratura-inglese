@@ -1,5 +1,5 @@
 ---
-title: "misc — THE ROMANTIC IN THE RAIN"
+title: "A Miscellany of Men — THE ROMANTIC IN THE RAIN"
 author: "Chesterton"
 unitType: story
 parentWork: "works/misc-(chesterton)"
@@ -9,10 +9,11 @@ tags:
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/works/misc-(chesterton)">misc</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/misc-(chesterton)">A Miscellany of Men</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/misc/story_26_the_new_theologian">‹ Story 26 THE NEW THEOLOGIAN</a><a class="ex-next" href="/testi/chesterton/atomized/misc/story_28_the_false_photographer">Story 28 THE FALSE PHOTOGRAPHER ›</a></div>
 </nav>
 
+# [[misc]] — THE ROMANTIC IN THE RAIN
 
 THE ROMANTIC IN THE RAIN
 

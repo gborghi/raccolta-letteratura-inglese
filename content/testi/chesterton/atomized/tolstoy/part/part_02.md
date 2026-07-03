@@ -1,5 +1,5 @@
 ---
-title: "tolstoy (part 2)"
+title: "Leo Tolstoy (part 2)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/tolstoy-(chesterton)"
@@ -9,10 +9,11 @@ tags:
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/works/tolstoy-(chesterton)">tolstoy</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/tolstoy-(chesterton)">Leo Tolstoy</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/tolstoy/part/part_01">‹ part 01</a><a class="ex-next" href="/testi/chesterton/atomized/tolstoy/part/part_03">part 03 ›</a></div>
 </nav>
 
+# [[tolstoy]] (part 2)
 
 The [[Truth|truth]] is that [[tolstoy|Tolstoy]], with his immense genius, with his
 colossal [[Faith|faith]], with his vast fearlessness and vast knowledge

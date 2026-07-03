@@ -1,5 +1,5 @@
 ---
-title: "aquinas — Chapter 1 (part 7)"
+title: "St. Thomas Aquinas — Chapter 1 (part 7)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/aquinas-(chesterton)"
@@ -9,10 +9,11 @@ tags:
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/works/aquinas-(chesterton)">aquinas</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/aquinas-(chesterton)">St. Thomas Aquinas</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/aquinas/chapter_01/part_06">‹ part 06</a><a class="ex-next" href="/testi/chesterton/atomized/aquinas/chapter_01/part_08">part 08 ›</a></div>
 </nav>
 
+# [[aquinas]] — Chapter 1 (part 7)
 
 Lastly, these two great men were not only united to each other
 but separated from most of their comrades and contemporaries

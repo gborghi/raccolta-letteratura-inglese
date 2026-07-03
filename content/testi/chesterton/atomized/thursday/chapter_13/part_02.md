@@ -1,5 +1,5 @@
 ---
-title: "thursday — Chapter 13 (part 2)"
+title: "The Man Who Was Thursday — Chapter 13 (part 2)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/thursday-(chesterton)"
@@ -9,10 +9,11 @@ tags:
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/works/thursday-(chesterton)">thursday</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/thursday-(chesterton)">The Man Who Was Thursday</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/thursday/chapter_13/part_01">‹ part 01</a><a class="ex-next" href="/testi/chesterton/atomized/thursday/chapter_13/part_03">part 03 ›</a></div>
 </nav>
 
+# [[thursday]] — Chapter 13 (part 2)
 
 "We have no [[Time|time]] for tomfoolery," said the Secretary, breaking in savagely.
 "We have come to know what all this means.  Who are you?  What are you?

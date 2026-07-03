@@ -9,7 +9,7 @@ tags:
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/works/job-(chesterton)">job</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/job-(chesterton)">Introduction to the Book of Job</a></div>
 </nav>
 
 

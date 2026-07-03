@@ -1,5 +1,5 @@
 ---
-title: misc
+title: A Miscellany of Men
 author: Chesterton
 type: work
 cluster: Essay · Critique of Progress · Common Man
@@ -16,6 +16,8 @@ tags:
   - concept/distributism
   - archetype/corrupt_official
 ---
+
+# misc
 
 *by Chesterton*  ·  **Cluster:** [[Essay · Critique of Progress · Common Man]]
 

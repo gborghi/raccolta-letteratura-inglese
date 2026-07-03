@@ -1,5 +1,5 @@
 ---
-title: "innocence — The Flying Stars (part 4)"
+title: "The Innocence of Father Brown — The Flying Stars (part 4)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/innocence-(chesterton)"
@@ -9,10 +9,11 @@ tags:
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/works/innocence-(chesterton)">innocence</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/innocence-(chesterton)">The Innocence of Father Brown</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/innocence/story_04_the_flying_stars/part_03">‹ part 03</a><a class="ex-next" href="/testi/chesterton/atomized/innocence/story_04_the_flying_stars/part_05">part 05 ›</a></div>
 </nav>
 
+# [[innocence]] — The Flying [[Stars]] (part 4)
 
 The climax of this, as of all else, was the moment when the two
 front doors at the back of the scene flew open, showing the lovely

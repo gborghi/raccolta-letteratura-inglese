@@ -1,5 +1,5 @@
 ---
-title: "heret12 — The Moods of Mr. George Moore"
+title: "Heretics — The Moods of Mr. George Moore"
 author: "Chesterton"
 unitType: story
 parentWork: "works/heret12-(chesterton)"
@@ -9,10 +9,11 @@ tags:
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/works/heret12-(chesterton)">heret12</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/heret12-(chesterton)">Heretics</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/heret12/story_07_the_mildness_of_the_yellow_press">‹ Story 07 The Mildness of the Yellow Press</a><a class="ex-next" href="/testi/chesterton/atomized/heret12/story_09_on_sandals_and_simplicity">Story 09 On Sandals and Simplicity ›</a></div>
 </nav>
 
+# [[heret12]] — The Moods of Mr. George Moore
 
 IX.  The Moods of Mr. George Moore
 

@@ -1,5 +1,5 @@
 ---
-title: "ortho14 — Vii The Eternal Revolution (part 4)"
+title: "Orthodoxy — Vii The Eternal Revolution (part 4)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/ortho14-(chesterton)"
@@ -9,10 +9,11 @@ tags:
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/works/ortho14-(chesterton)">ortho14</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/ortho14-(chesterton)">Orthodoxy</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/ortho14/story_07_vii_the_eternal_revolution/part_03">‹ part 03</a><a class="ex-next" href="/testi/chesterton/atomized/ortho14/story_07_vii_the_eternal_revolution/part_05">part 05 ›</a></div>
 </nav>
 
+# [[ortho14]] — Vii The Eternal Revolution (part 4)
 
      When I had written this down, I felt once again the presence of
 something else in the discussion:  as a man hears a church bell above

@@ -1,5 +1,5 @@
 ---
-title: "innocence — The Queer Feet (part 7)"
+title: "The Innocence of Father Brown — The Queer Feet (part 7)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/innocence-(chesterton)"
@@ -9,10 +9,11 @@ tags:
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/works/innocence-(chesterton)">innocence</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/innocence-(chesterton)">The Innocence of Father Brown</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/innocence/story_03_the_queer_feet/part_06">‹ part 06</a><a class="ex-next" href="/testi/chesterton/atomized/innocence/story_04_the_flying_stars/part_01">part 01 ›</a></div>
 </nav>
 
+# [[innocence]] — The Queer Feet (part 7)
 
 "His worst moment was when the waiters stood in a row; but even
 then he contrived to lean against the wall just round the corner

@@ -1,5 +1,5 @@
 ---
-title: tolstoy
+title: Leo Tolstoy
 author: Chesterton
 type: work
 cluster: Artist and Society · Truth · Regency/Georgian England
@@ -16,6 +16,8 @@ tags:
   - concept/truth
 ---
 
+# tolstoy
+
 *by Chesterton*  ·  **Cluster:** [[Artist and Society · Truth · Regency Georgian England]]
 
 > [!abstract] 
@@ -23,7 +25,7 @@ tags:
 
 ## Testo / Text
 
-- [tolstoy](/testi/chesterton/atomized/tolstoy/tolstoy)
+- [Leo Tolstoy](/testi/chesterton/atomized/tolstoy/tolstoy)
 
 ## Connections
 

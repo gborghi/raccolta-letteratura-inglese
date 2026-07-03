@@ -1,5 +1,5 @@
 ---
-title: "heret12 — Omar and the Sacred Vine (part 2)"
+title: "Heretics — Omar and the Sacred Vine (part 2)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/heret12-(chesterton)"
@@ -9,10 +9,11 @@ tags:
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/works/heret12-(chesterton)">heret12</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/heret12-(chesterton)">Heretics</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/heret12/story_06_omar_and_the_sacred_vine/part_01">‹ part 01</a><a class="ex-next" href="/testi/chesterton/atomized/heret12/story_07_the_mildness_of_the_yellow_press/part_01">part 01 ›</a></div>
 </nav>
 
+# [[heret12]] — Omar and the Sacred Vine (part 2)
 
   "The ball no question makes of Ayes or Noes,
    But Here or There as strikes the Player goes;

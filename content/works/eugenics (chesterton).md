@@ -1,5 +1,5 @@
 ---
-title: Eugenics
+title: Eugenics and Other Evils
 author: Chesterton
 type: work
 cluster: Essay · Critique of Progress · Common Man
@@ -17,6 +17,8 @@ tags:
   - concept/doubt
   - form/essay
 ---
+
+# Eugenics
 
 *by Chesterton*  ·  **Cluster:** [[Essay · Critique of Progress · Common Man]]
 

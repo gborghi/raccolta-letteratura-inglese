@@ -1,5 +1,5 @@
 ---
-title: "misc — THE RED REACTIONARY"
+title: "A Miscellany of Men — THE RED REACTIONARY"
 author: "Chesterton"
 unitType: story
 parentWork: "works/misc-(chesterton)"
@@ -9,10 +9,11 @@ tags:
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/works/misc-(chesterton)">misc</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/misc-(chesterton)">A Miscellany of Men</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/misc/story_21_the_mystagogue">‹ Story 21 THE MYSTAGOGUE</a><a class="ex-next" href="/testi/chesterton/atomized/misc/story_23_the_separatist_and_sacred_things">Story 23 THE SEPARATIST AND SACRED THINGS ›</a></div>
 </nav>
 
+# [[misc]] — THE RED REACTIONARY
 
 THE RED REACTIONARY
 

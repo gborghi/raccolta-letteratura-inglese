@@ -1,5 +1,5 @@
 ---
-title: "to-frances (part 4)"
+title: "To Frances (part 4)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/to-frances-(chesterton)"
@@ -9,10 +9,11 @@ tags:
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/works/to-frances-(chesterton)">to frances</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/to-frances-(chesterton)">To Frances</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/to_frances/part/part_03">‹ part 03</a><span></span></div>
 </nav>
 
+# [[to-frances]] (part 4)
 
 One pleasant Saturday afternoon [his friend] Lucian said to him, 'I am
 going to take you to see the Bloggs.'  'The what?' said the unhappy man.

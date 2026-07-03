@@ -1,5 +1,5 @@
 ---
-title: "debate — Cecil Palmer (part 3)"
+title: "Do We Agree? — Cecil Palmer (part 3)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/debate-(chesterton)"
@@ -9,10 +9,11 @@ tags:
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/works/debate-(chesterton)">debate</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/debate-(chesterton)">Do We Agree?</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/debate/story_03_cecil_palmer/part_02">‹ part 02</a><a class="ex-next" href="/testi/chesterton/atomized/debate/story_03_cecil_palmer/part_04">part 04 ›</a></div>
 </nav>
 
+# [[debate]] — Cecil Palmer (part 3)
 
 I have heard from nearly all the Socialists I have known,
 the phrase which Mr. [[Shaw]] has with characteristic

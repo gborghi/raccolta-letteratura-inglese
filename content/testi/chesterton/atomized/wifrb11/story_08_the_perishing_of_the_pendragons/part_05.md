@@ -1,5 +1,5 @@
 ---
-title: "wifrb11 — The Perishing of the Pendragons (part 5)"
+title: "The Wisdom of Father Brown — The Perishing of the Pendragons (part 5)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/wifrb11-(chesterton)"
@@ -9,10 +9,11 @@ tags:
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/works/wifrb11-(chesterton)">wifrb11</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/wifrb11-(chesterton)">The Wisdom of Father Brown</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/wifrb11/story_08_the_perishing_of_the_pendragons/part_04">‹ part 04</a><a class="ex-next" href="/testi/chesterton/atomized/wifrb11/story_08_the_perishing_of_the_pendragons/part_06">part 06 ›</a></div>
 </nav>
 
+# [[wifrb11]] — The Perishing of the Pendragons (part 5)
 
      "I don't believe in anything," answered Pendragon very briskly,
 with a bright eye cocked at a red tropical bird.  "I'm a man of science."

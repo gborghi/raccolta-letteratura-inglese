@@ -1,5 +1,5 @@
 ---
-title: "queertrades — Chapter 1 (part 8)"
+title: "The Club of Queer Trades — Chapter 1 (part 8)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/queertrades-(chesterton)"
@@ -9,10 +9,11 @@ tags:
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/works/queertrades-(chesterton)">queertrades</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/queertrades-(chesterton)">The Club of Queer Trades</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/queertrades/story_01_chapter_1/part_07">‹ part 07</a><a class="ex-next" href="/testi/chesterton/atomized/queertrades/story_02_chapter_2/part_01">part 01 ›</a></div>
 </nav>
 
+# [[queertrades]] — Chapter 1 (part 8)
 
 Northover bowed.  Then after a pause he said:
 

@@ -1,5 +1,5 @@
 ---
-title: "innocence — The Sign of the Broken Sword (part 3)"
+title: "The Innocence of Father Brown — The Sign of the Broken Sword (part 3)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/innocence-(chesterton)"
@@ -9,10 +9,11 @@ tags:
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/works/innocence-(chesterton)">innocence</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/innocence-(chesterton)">The Innocence of Father Brown</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/innocence/story_11_the_sign_of_the_broken_sword/part_02">‹ part 02</a><a class="ex-next" href="/testi/chesterton/atomized/innocence/story_11_the_sign_of_the_broken_sword/part_04">part 04 ›</a></div>
 </nav>
 
+# [[innocence]] — The Sign of the Broken [[Sword]] (part 3)
 
 He strode on, breathing hard, his black head and bull neck forward,
 like a man winning a walking race.  The little priest,

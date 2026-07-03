@@ -9,7 +9,7 @@ tags:
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/works/alarms-and-discursions-(chesterton)">alarms and discursions</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/alarms-and-discursions-(chesterton)">Alarms and Discursions</a></div>
 <div class="excerpt-pn"><span></span><a class="ex-next" href="/testi/chesterton/atomized/alarms_and_discursions/chapter_02">Chapter 02 ›</a></div>
 </nav>
 

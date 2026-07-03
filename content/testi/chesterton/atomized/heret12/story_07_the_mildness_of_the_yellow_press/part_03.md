@@ -1,5 +1,5 @@
 ---
-title: "heret12 — The Mildness of the Yellow Press (part 3)"
+title: "Heretics — The Mildness of the Yellow Press (part 3)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/heret12-(chesterton)"
@@ -9,10 +9,11 @@ tags:
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/works/heret12-(chesterton)">heret12</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/heret12-(chesterton)">Heretics</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/heret12/story_07_the_mildness_of_the_yellow_press/part_02">‹ part 02</a><a class="ex-next" href="/testi/chesterton/atomized/heret12/story_10_science_and_the_savages/part_01">part 01 ›</a></div>
 </nav>
 
+# [[heret12]] — The Mildness of the Yellow Press (part 3)
 
 "A little common sense impresses American working-men more than
 high-flown argument.  A speaker who, as he made his points,

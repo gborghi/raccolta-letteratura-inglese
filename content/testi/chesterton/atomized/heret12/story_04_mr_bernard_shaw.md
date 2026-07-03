@@ -1,5 +1,5 @@
 ---
-title: "heret12 — Mr. Bernard Shaw"
+title: "Heretics — Mr. Bernard Shaw"
 author: "Chesterton"
 unitType: story
 parentWork: "works/heret12-(chesterton)"
@@ -9,10 +9,11 @@ tags:
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/works/heret12-(chesterton)">heret12</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/heret12-(chesterton)">Heretics</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/heret12/story_03_on_mr_rudyard_kipling_and_making_the_wor">‹ Story 03 On Mr Rudyard Kipling and Making the Wor</a><a class="ex-next" href="/testi/chesterton/atomized/heret12/story_05_mr_h_g_wells_and_the_giants">Story 05 Mr H G Wells and the Giants ›</a></div>
 </nav>
 
+# [[heret12]] — Mr. Bernard [[Shaw]]
 
 IV.  Mr. Bernard [[Shaw]]
 

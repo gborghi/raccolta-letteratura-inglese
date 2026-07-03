@@ -1,5 +1,5 @@
 ---
-title: "heret12 — The Mildness of the Yellow Press (part 2)"
+title: "Heretics — The Mildness of the Yellow Press (part 2)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/heret12-(chesterton)"
@@ -9,10 +9,11 @@ tags:
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/works/heret12-(chesterton)">heret12</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/heret12-(chesterton)">Heretics</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/heret12/story_07_the_mildness_of_the_yellow_press/part_01">‹ part 01</a><a class="ex-next" href="/testi/chesterton/atomized/heret12/story_07_the_mildness_of_the_yellow_press/part_03">part 03 ›</a></div>
 </nav>
 
+# [[heret12]] — The Mildness of the Yellow Press (part 2)
 
 Some hold that such papers as these are scarcely the proper
 objects of so serious a consideration; but that can scarcely

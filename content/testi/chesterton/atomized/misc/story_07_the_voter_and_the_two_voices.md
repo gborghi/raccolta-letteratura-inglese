@@ -1,5 +1,5 @@
 ---
-title: "misc — THE VOTER AND THE TWO VOICES"
+title: "A Miscellany of Men — THE VOTER AND THE TWO VOICES"
 author: "Chesterton"
 unitType: story
 parentWork: "works/misc-(chesterton)"
@@ -9,10 +9,11 @@ tags:
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/works/misc-(chesterton)">misc</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/misc-(chesterton)">A Miscellany of Men</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/misc/story_06_the_gardener_and_the_guinea">‹ Story 06 THE GARDENER AND THE GUINEA</a><a class="ex-next" href="/testi/chesterton/atomized/misc/story_08_the_mad_official">Story 08 THE MAD OFFICIAL ›</a></div>
 </nav>
 
+# [[misc]] — THE VOTER AND THE TWO VOICES
 
 THE VOTER AND THE TWO VOICES
 

@@ -1,5 +1,5 @@
 ---
-title: "innocence — The Wrong Shape (part 6)"
+title: "The Innocence of Father Brown — The Wrong Shape (part 6)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/innocence-(chesterton)"
@@ -9,10 +9,11 @@ tags:
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/works/innocence-(chesterton)">innocence</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/innocence-(chesterton)">The Innocence of Father Brown</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/innocence/story_07_the_wrong_shape/part_05">‹ part 05</a><a class="ex-next" href="/testi/chesterton/atomized/innocence/story_07_the_wrong_shape/part_07">part 07 ›</a></div>
 </nav>
 
+# [[innocence]] — The Wrong Shape (part 6)
 
 "I mean the paper on which Quinton wrote, `I die by my own hand,'"
 answered [[Father Brown]].  "The shape of that paper, my friend,

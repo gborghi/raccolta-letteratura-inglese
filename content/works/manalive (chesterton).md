@@ -1,5 +1,5 @@
 ---
-title: manalive
+title: Manalive
 author: Chesterton
 type: work
 cluster: Wine and Drink · Ballad / Ballade · Road

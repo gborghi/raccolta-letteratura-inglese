@@ -1,5 +1,5 @@
 ---
-title: scandal Fr Brown
+title: The Scandal of Father Brown
 author: Chesterton
 type: work
 cluster: Short Story · Concealment / Hidden Identity · Justice / Right and Wrong
@@ -22,6 +22,8 @@ tags:
   - histref/catholic_church
   - character/flambeau
 ---
+
+# scandal Fr Brown
 
 *by Chesterton*  ·  **Cluster:** [[Short Story · Concealment Hidden Identity · Justice Right and Wrong]]
 

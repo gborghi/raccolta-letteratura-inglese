@@ -1,5 +1,5 @@
 ---
-title: "aquinas — Chapter 3"
+title: "St. Thomas Aquinas — Chapter 3"
 author: "Chesterton"
 unitType: chapter
 parentWork: "works/aquinas-(chesterton)"
@@ -9,10 +9,11 @@ tags:
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/works/aquinas-(chesterton)">aquinas</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/aquinas-(chesterton)">St. Thomas Aquinas</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/aquinas/chapter_02">‹ Chapter 02</a><a class="ex-next" href="/testi/chesterton/atomized/aquinas/chapter_04">Chapter 04 ›</a></div>
 </nav>
 
+# [[aquinas]] — Chapter 3
 
 III
 

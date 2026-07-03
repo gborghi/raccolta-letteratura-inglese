@@ -1,5 +1,5 @@
 ---
-title: "heret12 — Mr. Bernard Shaw (part 2)"
+title: "Heretics — Mr. Bernard Shaw (part 2)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/heret12-(chesterton)"
@@ -9,10 +9,11 @@ tags:
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/works/heret12-(chesterton)">heret12</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/heret12-(chesterton)">Heretics</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/heret12/story_04_mr_bernard_shaw/part_01">‹ part 01</a><a class="ex-next" href="/testi/chesterton/atomized/heret12/story_04_mr_bernard_shaw/part_03">part 03 ›</a></div>
 </nav>
 
+# [[heret12]] — Mr. Bernard [[Shaw]] (part 2)
 
 The [[Truth|truth]] is, that it is quite an error to suppose that absence
 of definite convictions gives the mind [[Freedom|freedom]] and agility.

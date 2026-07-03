@@ -5,10 +5,35 @@
 // - generates an editorial home page (index.md), the works table page (opere.md),
 //   and the faceted search page (cerca.md)
 import { promises as fs } from "node:fs"
+import { readFileSync, existsSync } from "node:fs"
 import path from "node:path"
 import matter from "gray-matter"
+import { fileURLToPath } from "node:url"
 
 const NUL = String.fromCharCode(0)
+
+// Real work titles keyed by `<author-lower>/<workDir-slug>`, overriding the ugly
+// source-filename-derived slug (e.g. chesterton/ortho14 -> "Orthodoxy") for the
+// reading-page title and breadcrumb. Absent key -> keep the slug. Optional file.
+const WORK_TITLES = (() => {
+  try {
+    const p = path.join(path.dirname(fileURLToPath(import.meta.url)), "data", "work_titles.json")
+    return existsSync(p) ? JSON.parse(readFileSync(p, "utf8")) : {}
+  } catch {
+    return {}
+  }
+})()
+function workTitle(author, workDir) {
+  return WORK_TITLES[`${String(author).toLowerCase()}/${workDir}`] || null
+}
+// Replace a leading self-reference `[[workslug]]` in a unit H1 with the real work
+// title, preserving any " — chapter" suffix and cleaning remaining wikilinks. The
+// vault H1 keeps its brackets (correct for Obsidian); only the emitted title changes.
+function applyWorkTitle(h1, wt) {
+  const s = String(h1)
+  if (!/^\s*\[\[/.test(s)) return cleanWikilinks(s) // no leading work link → leave as-is
+  return cleanWikilinks(wt + s.replace(/^\s*\[\[[^\]]+\]\]/, ""))
+}
 
 // Convert Obsidian wikilink markup to its display text so it never renders as
 // literal "[[...]]" on the site: [[target|label]] -> label, [[target]] -> target.
@@ -401,7 +426,10 @@ async function publishUnits(rawSourceToWork, translations = new Map()) {
           const srcAbs = path.join(subRoot, it.relU.split("/").join(path.sep))
           const raw = await fs.readFile(srcAbs, "utf8")
           const { body, title: h1Title } = splitUnit(raw)
-          const title = cleanWikilinks(h1Title) || prettyFromFilename(it.fileName)
+          const wt = workTitle(author, workDir)
+          const title =
+            (wt ? applyWorkTitle(h1Title, wt) : cleanWikilinks(h1Title)) ||
+            prettyFromFilename(it.fileName)
 
           // Collect reading units (chapters/scenes/stories/sections — not the
           // whole-work container nor paragraph fragments) so the parent work page
@@ -436,9 +464,10 @@ async function publishUnits(rawSourceToWork, translations = new Map()) {
           }
 
           // breadcrumb + prev/next nav block
+          const crumbLabel = wt || workDir.replace(/_/g, " ")
           const crumbs = []
-          if (parentWorkHref) crumbs.push(`<a href="/${parentWorkHref}">${esc(workDir.replace(/_/g, " "))}</a>`)
-          else crumbs.push(esc(workDir.replace(/_/g, " ")))
+          if (parentWorkHref) crumbs.push(`<a href="/${parentWorkHref}">${esc(crumbLabel)}</a>`)
+          else crumbs.push(esc(crumbLabel))
           const nav =
             `<nav class="excerpt-nav">\n` +
             `<div class="excerpt-crumb">${author} · ${crumbs.join(" › ")}</div>\n` +
@@ -486,7 +515,7 @@ async function publishUnits(rawSourceToWork, translations = new Map()) {
               href: it.slug,
               title,
               author,
-              work: workDir.replace(/_/g, " "),
+              work: wt || workDir.replace(/_/g, " "),
               workHref: parentWorkHref || "",
               unitType: it.unitType,
               order: it.order,

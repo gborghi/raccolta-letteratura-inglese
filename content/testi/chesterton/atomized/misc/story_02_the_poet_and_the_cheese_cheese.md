@@ -1,5 +1,5 @@
 ---
-title: "misc — THE POET AND THE CHEESE"
+title: "A Miscellany of Men — THE POET AND THE CHEESE"
 author: "Chesterton"
 unitType: story
 parentWork: "works/misc-(chesterton)"
@@ -9,10 +9,11 @@ tags:
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/works/misc-(chesterton)">misc</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/misc-(chesterton)">A Miscellany of Men</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/misc/story_01_the_suffragist">‹ Story 01 THE SUFFRAGIST</a><a class="ex-next" href="/testi/chesterton/atomized/misc/story_03_the_thing">Story 03 THE THING ›</a></div>
 </nav>
 
+# [[misc]] — THE POET AND THE [[cheese|CHEESE]]
 
 THE POET AND THE [[cheese|CHEESE]]
 

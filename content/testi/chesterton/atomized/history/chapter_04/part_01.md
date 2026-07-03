@@ -1,5 +1,5 @@
 ---
-title: "history — Chapter 4 (part 1)"
+title: "A Short History of England — Chapter 4 (part 1)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/history-(chesterton)"
@@ -9,10 +9,11 @@ tags:
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/works/history-(chesterton)">history</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/history-(chesterton)">A Short History of England</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/history/chapter_03/part_02">‹ part 02</a><a class="ex-next" href="/testi/chesterton/atomized/history/chapter_04/part_02">part 02 ›</a></div>
 </nav>
 
+# [[history]] — Chapter 4 (part 1)
 
 IV
 

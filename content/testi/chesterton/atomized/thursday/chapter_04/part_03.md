@@ -1,5 +1,5 @@
 ---
-title: "thursday — Chapter 4 (part 3)"
+title: "The Man Who Was Thursday — Chapter 4 (part 3)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/thursday-(chesterton)"
@@ -9,10 +9,11 @@ tags:
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/works/thursday-(chesterton)">thursday</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/thursday-(chesterton)">The Man Who Was Thursday</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/thursday/chapter_04/part_02">‹ part 02</a><a class="ex-next" href="/testi/chesterton/atomized/thursday/chapter_05/part_01">part 01 ›</a></div>
 </nav>
 
+# [[thursday]] — Chapter 4 (part 3)
 
 "Oh!" said Syme.
 

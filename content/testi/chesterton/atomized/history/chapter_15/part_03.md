@@ -1,5 +1,5 @@
 ---
-title: "history — Chapter 15 (part 3)"
+title: "A Short History of England — Chapter 15 (part 3)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/history-(chesterton)"
@@ -9,10 +9,11 @@ tags:
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/works/history-(chesterton)">history</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/history-(chesterton)">A Short History of England</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/history/chapter_15/part_02">‹ part 02</a><a class="ex-next" href="/testi/chesterton/atomized/history/chapter_16/part_01">part 01 ›</a></div>
 </nav>
 
+# [[history]] — Chapter 15 (part 3)
 
 But the very name of Wellington is enough to suggest another,
 and with it the reminder that this, though true, is inadequate.

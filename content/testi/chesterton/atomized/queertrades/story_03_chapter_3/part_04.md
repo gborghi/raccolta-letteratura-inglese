@@ -1,5 +1,5 @@
 ---
-title: "queertrades — Chapter 3 (part 4)"
+title: "The Club of Queer Trades — Chapter 3 (part 4)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/queertrades-(chesterton)"
@@ -9,10 +9,11 @@ tags:
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/works/queertrades-(chesterton)">queertrades</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/queertrades-(chesterton)">The Club of Queer Trades</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/queertrades/story_03_chapter_3/part_03">‹ part 03</a><a class="ex-next" href="/testi/chesterton/atomized/queertrades/story_03_chapter_3/part_05">part 05 ›</a></div>
 </nav>
 
+# [[queertrades]] — Chapter 3 (part 4)
 
 "`That's easy said, your 'oldness,' said the man with
 the revolver, good-humouredly; `you've got to put on those clothes,'

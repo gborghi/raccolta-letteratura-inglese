@@ -1,5 +1,5 @@
 ---
-title: "innocence — The Blue Cross"
+title: "The Innocence of Father Brown — The Blue Cross"
 author: "Chesterton"
 unitType: story
 parentWork: "works/innocence-(chesterton)"
@@ -9,10 +9,11 @@ tags:
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/works/innocence-(chesterton)">innocence</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/innocence-(chesterton)">The Innocence of Father Brown</a></div>
 <div class="excerpt-pn"><span></span><a class="ex-next" href="/testi/chesterton/atomized/innocence/story_02_the_secret_garden">Story 02 The Secret Garden ›</a></div>
 </nav>
 
+# [[innocence]] — The Blue [[Cross]]
 
                           The Blue [[Cross]]
 

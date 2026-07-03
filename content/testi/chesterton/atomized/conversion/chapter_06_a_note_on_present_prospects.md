@@ -1,5 +1,5 @@
 ---
-title: "conversion — Chapter 6: A NOTE ON PRESENT PROSPECTS"
+title: "The Catholic Church and Conversion — Chapter 6: A NOTE ON PRESENT PROSPECTS"
 author: "Chesterton"
 unitType: chapter
 parentWork: "works/conversion-(chesterton)"
@@ -9,10 +9,11 @@ tags:
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/works/conversion-(chesterton)">conversion</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/conversion-(chesterton)">The Catholic Church and Conversion</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/conversion/chapter_05_the_exception_proves_the_rule">‹ Chapter 05 THE EXCEPTION PROVES THE RULE</a><a class="ex-next" href="/testi/chesterton/atomized/conversion/chapter_01_introductory_a_new_religion/part_01">part 01 ›</a></div>
 </nav>
 
+# [[conversion]] — Chapter 6: A NOTE ON PRESENT PROSPECTS
 
 CHAPTER VI:  A NOTE ON PRESENT PROSPECTS
 

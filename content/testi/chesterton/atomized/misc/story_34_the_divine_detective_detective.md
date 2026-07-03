@@ -1,5 +1,5 @@
 ---
-title: "misc — THE DIVINE DETECTIVE"
+title: "A Miscellany of Men — THE DIVINE DETECTIVE"
 author: "Chesterton"
 unitType: story
 parentWork: "works/misc-(chesterton)"
@@ -9,10 +9,11 @@ tags:
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/works/misc-(chesterton)">misc</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/misc-(chesterton)">A Miscellany of Men</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/misc/story_33_the_mediaeval_villain_villain">‹ Story 33 THE MEDIAEVAL Villain VILLAIN</a><a class="ex-next" href="/testi/chesterton/atomized/misc/story_35_the_elf_of_japan">Story 35 THE ELF OF JAPAN ›</a></div>
 </nav>
 
+# [[misc]] — THE DIVINE [[Detective|DETECTIVE]]
 
 THE DIVINE [[Detective|DETECTIVE]]
 

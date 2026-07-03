@@ -1,5 +1,5 @@
 ---
-title: "wifrb11 — The Fairy Tale of Father Brown (part 5)"
+title: "The Wisdom of Father Brown — The Fairy Tale of Father Brown (part 5)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/wifrb11-(chesterton)"
@@ -9,10 +9,11 @@ tags:
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/works/wifrb11-(chesterton)">wifrb11</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/wifrb11-(chesterton)">The Wisdom of Father Brown</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/wifrb11/story_12_the_fairy_tale_of_father_brown/part_04">‹ part 04</a><span></span></div>
 </nav>
 
+# [[wifrb11]] — The Fairy Tale of [[Father Brown]] (part 5)
 
      "Something in the very voice made the Prince turn suddenly
 and plunge down the mountain-path he had climbed.  He was half-way towards

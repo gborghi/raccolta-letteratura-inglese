@@ -1,5 +1,5 @@
 ---
-title: "innocence — The Queer Feet (part 2)"
+title: "The Innocence of Father Brown — The Queer Feet (part 2)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/innocence-(chesterton)"
@@ -9,10 +9,11 @@ tags:
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/works/innocence-(chesterton)">innocence</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/innocence-(chesterton)">The Innocence of Father Brown</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/innocence/story_03_the_queer_feet/part_01">‹ part 01</a><a class="ex-next" href="/testi/chesterton/atomized/innocence/story_03_the_queer_feet/part_03">part 03 ›</a></div>
 </nav>
 
+# [[innocence]] — The Queer Feet (part 2)
 
 In this office sat the representative of the proprietor (nobody in this place
 ever appeared in person if he could help it), and just beyond the office,

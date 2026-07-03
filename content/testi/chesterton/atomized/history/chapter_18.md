@@ -1,5 +1,5 @@
 ---
-title: "history — Chapter 18"
+title: "A Short History of England — Chapter 18"
 author: "Chesterton"
 unitType: chapter
 parentWork: "works/history-(chesterton)"
@@ -9,10 +9,11 @@ tags:
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/works/history-(chesterton)">history</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/history-(chesterton)">A Short History of England</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/history/chapter_17">‹ Chapter 17</a><a class="ex-next" href="/testi/chesterton/atomized/history/chapter_02/part_01">part 01 ›</a></div>
 </nav>
 
+# [[history]] — Chapter 18
 
 XVIII
 

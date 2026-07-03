@@ -1,5 +1,5 @@
 ---
-title: "heret12 — On Sandals and Simplicity"
+title: "Heretics — On Sandals and Simplicity"
 author: "Chesterton"
 unitType: story
 parentWork: "works/heret12-(chesterton)"
@@ -9,10 +9,11 @@ tags:
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/works/heret12-(chesterton)">heret12</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/heret12-(chesterton)">Heretics</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/heret12/story_08_the_moods_of_mr_george_moore">‹ Story 08 The Moods of Mr George Moore</a><a class="ex-next" href="/testi/chesterton/atomized/heret12/story_10_science_and_the_savages">Story 10 Science and the Savages ›</a></div>
 </nav>
 
+# [[heret12]] — On Sandals and Simplicity
 
 X. On Sandals and Simplicity
 

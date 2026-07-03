@@ -1,5 +1,5 @@
 ---
-title: UtopiaUsurers
+title: Utopia of Usurers
 author: Chesterton
 type: work
 cluster: Essay · Critique of Progress · Common Man
@@ -16,6 +16,8 @@ tags:
   - concept/class_conflict
   - concept/critique_of_progress
 ---
+
+# UtopiaUsurers
 
 *by Chesterton*  ·  **Cluster:** [[Essay · Critique of Progress · Common Man]]
 

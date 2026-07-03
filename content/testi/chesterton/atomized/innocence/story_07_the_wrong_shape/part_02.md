@@ -1,5 +1,5 @@
 ---
-title: "innocence — The Wrong Shape (part 2)"
+title: "The Innocence of Father Brown — The Wrong Shape (part 2)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/innocence-(chesterton)"
@@ -9,10 +9,11 @@ tags:
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/works/innocence-(chesterton)">innocence</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/innocence-(chesterton)">The Innocence of Father Brown</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/innocence/story_07_the_wrong_shape/part_01">‹ part 01</a><a class="ex-next" href="/testi/chesterton/atomized/innocence/story_07_the_wrong_shape/part_03">part 03 ›</a></div>
 </nav>
 
+# [[innocence]] — The Wrong Shape (part 2)
 
 "I say," he said breathlessly, "I want to see old Quinton.  I must see him.
 Has he gone?"

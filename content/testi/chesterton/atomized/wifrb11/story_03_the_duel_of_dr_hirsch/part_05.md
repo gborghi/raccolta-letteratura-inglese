@@ -1,5 +1,5 @@
 ---
-title: "wifrb11 — The Duel of Dr Hirsch (part 5)"
+title: "The Wisdom of Father Brown — The Duel of Dr Hirsch (part 5)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/wifrb11-(chesterton)"
@@ -9,10 +9,11 @@ tags:
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/works/wifrb11-(chesterton)">wifrb11</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/wifrb11-(chesterton)">The Wisdom of Father Brown</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/wifrb11/story_03_the_duel_of_dr_hirsch/part_04">‹ part 04</a><a class="ex-next" href="/testi/chesterton/atomized/wifrb11/story_04_the_man_in_the_passage/part_01">part 01 ›</a></div>
 </nav>
 
+# [[wifrb11]] — The Duel of Dr Hirsch (part 5)
 
      The lane down which they followed him was one of those that
 seem to be at the back of things, and look like the wrong side

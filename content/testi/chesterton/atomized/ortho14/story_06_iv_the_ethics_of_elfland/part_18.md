@@ -1,5 +1,5 @@
 ---
-title: "ortho14 — Iv The Ethics Of Elfland (part 18)"
+title: "Orthodoxy — Iv The Ethics Of Elfland (part 18)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/ortho14-(chesterton)"
@@ -9,10 +9,11 @@ tags:
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/works/ortho14-(chesterton)">ortho14</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/ortho14-(chesterton)">Orthodoxy</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/ortho14/story_06_iv_the_ethics_of_elfland/part_17">‹ part 17</a><a class="ex-next" href="/testi/chesterton/atomized/ortho14/story_06_iv_the_ethics_of_elfland/part_19">part 19 ›</a></div>
 </nav>
 
+# [[ortho14]] — Iv The Ethics Of Elfland (part 18)
 
      He can only get away from [[Death|death]] by continually stepping
 within an inch of it.  A soldier surrounded by enemies, if he is

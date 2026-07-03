@@ -1,5 +1,5 @@
 ---
-title: "ortho14 — Ii The Maniac"
+title: "Orthodoxy — Ii The Maniac"
 author: "Chesterton"
 unitType: story
 parentWork: "works/ortho14-(chesterton)"
@@ -9,10 +9,11 @@ tags:
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/works/ortho14-(chesterton)">ortho14</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/ortho14-(chesterton)">Orthodoxy</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/ortho14/story_03_orthodoxy">‹ Story 03 Orthodoxy</a><a class="ex-next" href="/testi/chesterton/atomized/ortho14/story_05_iii_the_suicide_of_thought">Story 05 Iii The Suicide Of Thought ›</a></div>
 </nav>
 
+# [[ortho14]] — Ii The Maniac
 
 II THE MANIAC
 

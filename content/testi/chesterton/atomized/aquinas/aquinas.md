@@ -1,5 +1,5 @@
 ---
-title: "aquinas"
+title: "St. Thomas Aquinas"
 author: "Chesterton"
 unitType: work
 parentWork: "works/aquinas-(chesterton)"
@@ -9,9 +9,10 @@ tags:
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/works/aquinas-(chesterton)">aquinas</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/aquinas-(chesterton)">St. Thomas Aquinas</a></div>
 </nav>
 
+# [[aquinas]]
 
 St. Thomas [[aquinas|Aquinas]]
 

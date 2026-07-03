@@ -1,5 +1,5 @@
 ---
-title: "debate"
+title: "Do We Agree?"
 author: "Chesterton"
 unitType: work
 parentWork: "works/debate-(chesterton)"
@@ -9,9 +9,10 @@ tags:
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/works/debate-(chesterton)">debate</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/debate-(chesterton)">Do We Agree?</a></div>
 </nav>
 
+# [[debate]]
 
 DO WE AGREE?
 

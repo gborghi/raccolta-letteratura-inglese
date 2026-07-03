@@ -1,5 +1,5 @@
 ---
-title: TheAppOfTyranny
+title: The Appetite of Tyranny
 author: Chesterton
 type: work
 cluster: Swords and Weapons · Power and Corruption · Tyrant
@@ -15,6 +15,8 @@ tags:
   - histref/the_first_world_war
   - concept/nationalism_and_patriotism
 ---
+
+# TheAppOfTyranny
 
 *by Chesterton*  ·  **Cluster:** [[Swords and Weapons · Power and Corruption · Tyrant]]
 

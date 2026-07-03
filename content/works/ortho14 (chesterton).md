@@ -1,5 +1,5 @@
 ---
-title: ortho14
+title: Orthodoxy
 author: Chesterton
 type: work
 cluster: Christianity · Faith and Doubt · Doubt
@@ -20,6 +20,8 @@ tags:
   - histref/christianity
   - form/autobiography
 ---
+
+# ortho14
 
 *by Chesterton*  ·  **Cluster:** [[Christianity · Faith and Doubt · Doubt]]
 

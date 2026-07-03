@@ -1,5 +1,5 @@
 ---
-title: "misc — THE ANGRY AUTHOR: HIS FAREWELL"
+title: "A Miscellany of Men — THE ANGRY AUTHOR: HIS FAREWELL"
 author: "Chesterton"
 unitType: story
 parentWork: "works/misc-(chesterton)"
@@ -9,10 +9,11 @@ tags:
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/works/misc-(chesterton)">misc</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/misc-(chesterton)">A Miscellany of Men</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/misc/story_37_the_contented_man">‹ Story 37 THE CONTENTED MAN</a><span></span></div>
 </nav>
 
+# [[misc]] — THE ANGRY AUTHOR: HIS FAREWELL
 
 THE ANGRY AUTHOR:  HIS FAREWELL
 

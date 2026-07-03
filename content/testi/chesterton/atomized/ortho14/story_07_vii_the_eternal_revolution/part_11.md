@@ -1,5 +1,5 @@
 ---
-title: "ortho14 — Vii The Eternal Revolution (part 11)"
+title: "Orthodoxy — Vii The Eternal Revolution (part 11)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/ortho14-(chesterton)"
@@ -9,10 +9,11 @@ tags:
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/works/ortho14-(chesterton)">ortho14</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/ortho14-(chesterton)">Orthodoxy</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/ortho14/story_07_vii_the_eternal_revolution/part_10">‹ part 10</a><a class="ex-next" href="/testi/chesterton/atomized/ortho14/story_07_vii_the_eternal_revolution/part_12">part 12 ›</a></div>
 </nav>
 
+# [[ortho14]] — Vii The Eternal Revolution (part 11)
 
      Students of popular science, like Mr. Blatchford, are always insisting
 that [[Christianity]] and Buddhism are very much alike, especially Buddhism. 

@@ -1,5 +1,5 @@
 ---
-title: "heret12 — Science and the Savages (part 2)"
+title: "Heretics — Science and the Savages (part 2)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/heret12-(chesterton)"
@@ -9,10 +9,11 @@ tags:
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/works/heret12-(chesterton)">heret12</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/heret12-(chesterton)">Heretics</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/heret12/story_10_science_and_the_savages/part_01">‹ part 01</a><a class="ex-next" href="/testi/chesterton/atomized/heret12/story_11_paganism_and_mr_lowes_dickinson/part_01">part 01 ›</a></div>
 </nav>
 
+# [[heret12]] — Science and the Savages (part 2)
 
 As one of the enormous follies of folk-lore, let us take
 the case of the transmigration of stories, and the alleged

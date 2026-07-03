@@ -1,5 +1,5 @@
 ---
-title: "longbow2 — Chapter 8 (part 7)"
+title: "Tales of the Long Bow — Chapter 8 (part 7)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/longbow2-(chesterton)"
@@ -9,10 +9,11 @@ tags:
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/works/longbow2-(chesterton)">longbow2</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/longbow2-(chesterton)">Tales of the Long Bow</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/longbow2/chapter_08/part_06">‹ part 06</a><span></span></div>
 </nav>
 
+# [[longbow2]] — Chapter 8 (part 7)
 
 "Queer thing," he said, "how true it is what Hilary once said about
 acting an [[Allegory|allegory]] without knowing it.  Never had a notion of what I

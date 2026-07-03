@@ -1,5 +1,5 @@
 ---
-title: "longbow2 — Chapter 8 (part 3)"
+title: "Tales of the Long Bow — Chapter 8 (part 3)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/longbow2-(chesterton)"
@@ -9,10 +9,11 @@ tags:
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/works/longbow2-(chesterton)">longbow2</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/longbow2-(chesterton)">Tales of the Long Bow</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/longbow2/chapter_08/part_02">‹ part 02</a><a class="ex-next" href="/testi/chesterton/atomized/longbow2/chapter_08/part_04">part 04 ›</a></div>
 </nav>
 
+# [[longbow2]] — Chapter 8 (part 3)
 
 "But if this was true of such trifles as half a dozen of Prime Ministers,
 it was even truer and more trying in the practical matter of party

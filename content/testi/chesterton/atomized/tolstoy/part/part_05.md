@@ -1,5 +1,5 @@
 ---
-title: "tolstoy (part 5)"
+title: "Leo Tolstoy (part 5)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/tolstoy-(chesterton)"
@@ -9,10 +9,11 @@ tags:
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/works/tolstoy-(chesterton)">tolstoy</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/tolstoy-(chesterton)">Leo Tolstoy</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/tolstoy/part/part_04">‹ part 04</a><span></span></div>
 </nav>
 
+# [[tolstoy]] (part 5)
 
 And not only so, but [[tolstoy|Tolstoy]]'s analysis of life throws more light
 on the main currents of thought in our Age, raises deeper problems,

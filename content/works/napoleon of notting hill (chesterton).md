@@ -1,5 +1,5 @@
 ---
-title: Napoleon of Notting Hill
+title: The Napoleon of Notting Hill
 author: Chesterton
 type: work
 cluster: City · London · Theatrum Mundi
@@ -36,6 +36,8 @@ tags:
   - character/james_barker
   - character/mr_buck
 ---
+
+# Napoleon of Notting Hill
 
 *by Chesterton*  ·  **Cluster:** [[City · London · Theatrum Mundi]]
 

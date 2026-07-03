@@ -1,5 +1,5 @@
 ---
-title: "wifrb11 — The God of the Gongs (part 5)"
+title: "The Wisdom of Father Brown — The God of the Gongs (part 5)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/wifrb11-(chesterton)"
@@ -9,10 +9,11 @@ tags:
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/works/wifrb11-(chesterton)">wifrb11</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/wifrb11-(chesterton)">The Wisdom of Father Brown</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/wifrb11/story_09_the_god_of_the_gongs/part_04">‹ part 04</a><a class="ex-next" href="/testi/chesterton/atomized/wifrb11/story_10_the_salad_of_colonel_cray/part_01">part 01 ›</a></div>
 </nav>
 
+# [[wifrb11]] — The God of the Gongs (part 5)
 
      The nobleman struck the bell on the table with an odd air
 of new curiosity.  He said to the clerk who appeared almost instantly

@@ -1,5 +1,5 @@
 ---
-title: Fancies Versis Fads
+title: Fancies versus Fads
 author: Chesterton
 type: work
 cluster: Paradox · Food and Feasting · Aphorism
@@ -17,6 +17,8 @@ tags:
   - concept/wonder_and_gratitude
   - concept/anti_industrialism
 ---
+
+# Fancies Versis Fads
 
 *by Chesterton*  ·  **Cluster:** [[Paradox · Food and Feasting · Aphorism]]
 

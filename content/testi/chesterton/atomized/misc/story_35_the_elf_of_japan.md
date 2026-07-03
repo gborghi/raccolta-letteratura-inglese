@@ -1,5 +1,5 @@
 ---
-title: "misc — THE ELF OF JAPAN"
+title: "A Miscellany of Men — THE ELF OF JAPAN"
 author: "Chesterton"
 unitType: story
 parentWork: "works/misc-(chesterton)"
@@ -9,10 +9,11 @@ tags:
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/works/misc-(chesterton)">misc</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/misc-(chesterton)">A Miscellany of Men</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/misc/story_34_the_divine_detective_detective">‹ Story 34 THE DIVINE Detective DETECTIVE</a><a class="ex-next" href="/testi/chesterton/atomized/misc/story_36_the_chartered_libertine">Story 36 THE CHARTERED LIBERTINE ›</a></div>
 </nav>
 
+# [[misc]] — THE ELF OF JAPAN
 
 THE ELF OF JAPAN
 

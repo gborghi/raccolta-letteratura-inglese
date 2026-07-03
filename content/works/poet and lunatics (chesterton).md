@@ -1,5 +1,5 @@
 ---
-title: Poet and Lunatics
+title: The Poet and the Lunatics
 author: Chesterton
 type: work
 cluster: Short Story · Concealment / Hidden Identity · Justice / Right and Wrong
@@ -19,6 +19,8 @@ tags:
   - archetype/detective
   - archetype/fool
 ---
+
+# Poet and Lunatics
 
 *by Chesterton*  ·  **Cluster:** [[Short Story · Concealment Hidden Identity · Justice Right and Wrong]]
 

@@ -1,5 +1,5 @@
 ---
-title: "wifrb11 — The Paradise of Thieves (part 6)"
+title: "The Wisdom of Father Brown — The Paradise of Thieves (part 6)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/wifrb11-(chesterton)"
@@ -9,10 +9,11 @@ tags:
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/works/wifrb11-(chesterton)">wifrb11</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/wifrb11-(chesterton)">The Wisdom of Father Brown</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/wifrb11/story_02_the_paradise_of_thieves/part_05">‹ part 05</a><a class="ex-next" href="/testi/chesterton/atomized/wifrb11/story_03_the_duel_of_dr_hirsch/part_01">part 01 ›</a></div>
 </nav>
 
+# [[wifrb11]] — The Paradise of Thieves (part 6)
 
      The next moment he turned his olive, sneering face and made
 a movement with his hand.  The brigands scattered at the signal,

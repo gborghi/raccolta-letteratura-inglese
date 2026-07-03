@@ -1,5 +1,5 @@
 ---
-title: "heret12 — The Fallacy of the Young Nation (part 3)"
+title: "Heretics — The Fallacy of the Young Nation (part 3)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/heret12-(chesterton)"
@@ -9,10 +9,11 @@ tags:
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/works/heret12-(chesterton)">heret12</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/heret12-(chesterton)">Heretics</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/heret12/story_17_the_fallacy_of_the_young_nation/part_02">‹ part 02</a><a class="ex-next" href="/testi/chesterton/atomized/heret12/story_18_slum_novelists_and_the_slums/part_01">part 01 ›</a></div>
 </nav>
 
+# [[heret12]] — The Fallacy of the Young Nation (part 3)
 
 A similar attempt is made, and with even less [[success]], to represent
 the literature of the colonies as something fresh and vigorous

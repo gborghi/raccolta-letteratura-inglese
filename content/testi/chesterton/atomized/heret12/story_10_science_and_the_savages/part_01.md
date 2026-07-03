@@ -1,5 +1,5 @@
 ---
-title: "heret12 — Science and the Savages (part 1)"
+title: "Heretics — Science and the Savages (part 1)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/heret12-(chesterton)"
@@ -9,10 +9,11 @@ tags:
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/works/heret12-(chesterton)">heret12</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/heret12-(chesterton)">Heretics</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/heret12/story_07_the_mildness_of_the_yellow_press/part_03">‹ part 03</a><a class="ex-next" href="/testi/chesterton/atomized/heret12/story_10_science_and_the_savages/part_02">part 02 ›</a></div>
 </nav>
 
+# [[heret12]] — Science and the Savages (part 1)
 
 XI.  Science and the Savages
 

@@ -1,5 +1,5 @@
 ---
-title: "history — Chapter 10 (part 3)"
+title: "A Short History of England — Chapter 10 (part 3)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/history-(chesterton)"
@@ -9,10 +9,11 @@ tags:
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/works/history-(chesterton)">history</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/history-(chesterton)">A Short History of England</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/history/chapter_10/part_02">‹ part 02</a><a class="ex-next" href="/testi/chesterton/atomized/history/chapter_11/part_01">part 01 ›</a></div>
 </nav>
 
+# [[history]] — Chapter 10 (part 3)
 
 But this perversion, this diseased energy, is the power in all the epoch
 that follows the fall of [[Richard II]], and especially in those feuds

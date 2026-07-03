@@ -1,5 +1,5 @@
 ---
-title: "misc — THE ENCHANTED MAN"
+title: "A Miscellany of Men — THE ENCHANTED MAN"
 author: "Chesterton"
 unitType: story
 parentWork: "works/misc-(chesterton)"
@@ -9,10 +9,11 @@ tags:
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/works/misc-(chesterton)">misc</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/misc-(chesterton)">A Miscellany of Men</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/misc/story_08_the_mad_official">‹ Story 08 THE MAD OFFICIAL</a><a class="ex-next" href="/testi/chesterton/atomized/misc/story_10_the_sun_worshipper">Story 10 THE SUN WORSHIPPER ›</a></div>
 </nav>
 
+# [[misc]] — THE ENCHANTED MAN
 
 THE ENCHANTED MAN
 

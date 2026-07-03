@@ -1,5 +1,5 @@
 ---
-title: "manalive"
+title: "Manalive"
 author: "Chesterton"
 unitType: work
 parentWork: "works/manalive-(chesterton)"
@@ -9,7 +9,7 @@ tags:
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/works/manalive-(chesterton)">manalive</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/manalive-(chesterton)">Manalive</a></div>
 </nav>
 
 

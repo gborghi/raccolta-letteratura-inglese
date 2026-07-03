@@ -1,5 +1,5 @@
 ---
-title: "queertrades — Chapter 6 (part 8)"
+title: "The Club of Queer Trades — Chapter 6 (part 8)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/queertrades-(chesterton)"
@@ -9,10 +9,11 @@ tags:
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/works/queertrades-(chesterton)">queertrades</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/queertrades-(chesterton)">The Club of Queer Trades</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/queertrades/story_06_chapter_6/part_07">‹ part 07</a><span></span></div>
 </nav>
 
+# [[queertrades]] — Chapter 6 (part 8)
 
 I have had many strange experiences in my life, but never a stranger
 one than that I felt when I came out of those rambling, sightless,

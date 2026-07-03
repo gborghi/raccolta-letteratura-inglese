@@ -1,5 +1,5 @@
 ---
-title: "misc"
+title: "A Miscellany of Men"
 author: "Chesterton"
 unitType: work
 parentWork: "works/misc-(chesterton)"
@@ -9,9 +9,10 @@ tags:
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/works/misc-(chesterton)">misc</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/misc-(chesterton)">A Miscellany of Men</a></div>
 </nav>
 
+# [[misc]]
 
 Etext prepared by [[Michael]] Pullen
 globaltraveler5565@yahoo.com

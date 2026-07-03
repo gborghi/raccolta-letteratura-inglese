@@ -10,6 +10,7 @@ tags:
 
 ## Works
 
-<div class="concept-works" data-slug="motifs/cave"></div>
+**Chesterton**
+- [[The Everlasting Man (Chesterton)]]
 
 #graph/motif

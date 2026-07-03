@@ -1,5 +1,5 @@
 ---
-title: "innocence — The Secret Garden (part 6)"
+title: "The Innocence of Father Brown — The Secret Garden (part 6)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/innocence-(chesterton)"
@@ -9,10 +9,11 @@ tags:
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/works/innocence-(chesterton)">innocence</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/innocence-(chesterton)">The Innocence of Father Brown</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/innocence/story_02_the_secret_garden/part_05">‹ part 05</a><a class="ex-next" href="/testi/chesterton/atomized/innocence/story_02_the_secret_garden/part_07">part 07 ›</a></div>
 </nav>
 
+# [[innocence]] — The Secret [[Garden]] (part 6)
 
 "Good morning, Commandant O'Brien," said Valentin, with quiet cordiality.
 "You have heard of Brayne's last experiment in butchery, I suppose?"

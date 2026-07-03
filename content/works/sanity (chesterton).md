@@ -1,5 +1,5 @@
 ---
-title: Sanity
+title: The Outline of Sanity
 author: Chesterton
 type: work
 cluster: Essay · Critique of Progress · Common Man
@@ -16,6 +16,8 @@ tags:
   - concept/critique_of_progress
   - histref/the_industrial_revolution
 ---
+
+# Sanity
 
 *by Chesterton*  ·  **Cluster:** [[Essay · Critique of Progress · Common Man]]
 

@@ -1,5 +1,5 @@
 ---
-title: alarms and discursions
+title: Alarms and Discursions
 author: Chesterton
 type: work
 cluster: Essay · Critique of Progress · Common Man

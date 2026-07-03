@@ -1,5 +1,5 @@
 ---
-title: "innocence — The Eye of Apollo (part 2)"
+title: "The Innocence of Father Brown — The Eye of Apollo (part 2)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/innocence-(chesterton)"
@@ -9,10 +9,11 @@ tags:
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/works/innocence-(chesterton)">innocence</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/innocence-(chesterton)">The Innocence of Father Brown</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/innocence/story_10_the_eye_of_apollo/part_01">‹ part 01</a><a class="ex-next" href="/testi/chesterton/atomized/innocence/story_10_the_eye_of_apollo/part_03">part 03 ›</a></div>
 </nav>
 
+# [[innocence]] — The Eye of [[Apollo]] (part 2)
 
 She certainly had a temper, of a snappy, practical sort; the gestures
 of her thin, elegant hands were abrupt or even destructive.

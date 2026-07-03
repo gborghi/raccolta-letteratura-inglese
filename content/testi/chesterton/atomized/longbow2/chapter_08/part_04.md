@@ -1,5 +1,5 @@
 ---
-title: "longbow2 — Chapter 8 (part 4)"
+title: "Tales of the Long Bow — Chapter 8 (part 4)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/longbow2-(chesterton)"
@@ -9,10 +9,11 @@ tags:
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/works/longbow2-(chesterton)">longbow2</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/longbow2-(chesterton)">Tales of the Long Bow</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/longbow2/chapter_08/part_03">‹ part 03</a><a class="ex-next" href="/testi/chesterton/atomized/longbow2/chapter_08/part_05">part 05 ›</a></div>
 </nav>
 
+# [[longbow2]] — Chapter 8 (part 4)
 
 "It is said that the men of the Long Bow carried their mediaeval
 symbolism so far as to wear [[Lincoln]] green as their uniform when they

@@ -1,5 +1,5 @@
 ---
-title: "ortho14 — Iv The Ethics Of Elfland (part 13)"
+title: "Orthodoxy — Iv The Ethics Of Elfland (part 13)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/ortho14-(chesterton)"
@@ -9,10 +9,11 @@ tags:
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/works/ortho14-(chesterton)">ortho14</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/ortho14-(chesterton)">Orthodoxy</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/ortho14/story_06_iv_the_ethics_of_elfland/part_12">‹ part 12</a><a class="ex-next" href="/testi/chesterton/atomized/ortho14/story_06_iv_the_ethics_of_elfland/part_14">part 14 ›</a></div>
 </nav>
 
+# [[ortho14]] — Iv The Ethics Of Elfland (part 13)
 
      And then followed an experience impossible to describe.
 It was as if I had been blundering about since my birth with

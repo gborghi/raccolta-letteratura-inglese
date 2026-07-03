@@ -1,5 +1,5 @@
 ---
-title: innocence
+title: The Innocence of Father Brown
 author: Chesterton
 type: work
 cluster: Short Story · Concealment / Hidden Identity · Justice / Right and Wrong
@@ -38,6 +38,8 @@ tags:
   - archetype/trickster
   - character/flambeau
 ---
+
+# innocence
 
 *by Chesterton*  ·  **Cluster:** [[Short Story · Concealment Hidden Identity · Justice Right and Wrong]]
 

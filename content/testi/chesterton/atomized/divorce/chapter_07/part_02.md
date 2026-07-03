@@ -1,5 +1,5 @@
 ---
-title: "divorce — Chapter 7 (part 2)"
+title: "The Superstition of Divorce — Chapter 7 (part 2)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/divorce-(chesterton)"
@@ -9,10 +9,11 @@ tags:
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/works/divorce-(chesterton)">divorce</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/divorce-(chesterton)">The Superstition of Divorce</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/divorce/chapter_07/part_01">‹ part 01</a><a class="ex-next" href="/testi/chesterton/atomized/divorce/chapter_07/part_03">part 03 ›</a></div>
 </nav>
 
+# [[divorce]] — Chapter 7 (part 2)
 
 What is respected, in short, is the fidelity to the ancient
 [[Flag|flag]] of the family, and a readiness to fight for what I have

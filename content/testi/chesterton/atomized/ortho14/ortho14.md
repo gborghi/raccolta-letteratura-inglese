@@ -1,5 +1,5 @@
 ---
-title: "ortho14"
+title: "Orthodoxy"
 author: "Chesterton"
 unitType: work
 parentWork: "works/ortho14-(chesterton)"
@@ -9,9 +9,10 @@ tags:
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/works/ortho14-(chesterton)">ortho14</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/ortho14-(chesterton)">Orthodoxy</a></div>
 </nav>
 
+# [[ortho14]]
 
 ORTHODOXY
 

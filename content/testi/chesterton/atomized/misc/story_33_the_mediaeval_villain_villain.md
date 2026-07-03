@@ -1,5 +1,5 @@
 ---
-title: "misc — THE MEDIAEVAL VILLAIN"
+title: "A Miscellany of Men — THE MEDIAEVAL VILLAIN"
 author: "Chesterton"
 unitType: story
 parentWork: "works/misc-(chesterton)"
@@ -9,10 +9,11 @@ tags:
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/works/misc-(chesterton)">misc</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/misc-(chesterton)">A Miscellany of Men</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/misc/story_32_the_other_kind_of_man">‹ Story 32 THE OTHER KIND OF MAN</a><a class="ex-next" href="/testi/chesterton/atomized/misc/story_34_the_divine_detective_detective">Story 34 THE DIVINE Detective DETECTIVE ›</a></div>
 </nav>
 
+# [[misc]] — THE MEDIAEVAL [[Villain|VILLAIN]]
 
 THE MEDIAEVAL [[Villain|VILLAIN]]
 

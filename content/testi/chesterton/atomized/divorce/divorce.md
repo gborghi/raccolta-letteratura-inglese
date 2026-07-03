@@ -1,5 +1,5 @@
 ---
-title: "divorce"
+title: "The Superstition of Divorce"
 author: "Chesterton"
 unitType: work
 parentWork: "works/divorce-(chesterton)"
@@ -9,9 +9,10 @@ tags:
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/works/divorce-(chesterton)">divorce</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/divorce-(chesterton)">The Superstition of Divorce</a></div>
 </nav>
 
+# [[divorce]]
 
 The Superstition of [[divorce|Divorce]]
 

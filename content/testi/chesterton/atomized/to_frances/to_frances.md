@@ -1,5 +1,5 @@
 ---
-title: "to-frances"
+title: "To Frances"
 author: "Chesterton"
 unitType: work
 parentWork: "works/to-frances-(chesterton)"
@@ -9,9 +9,10 @@ tags:
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/works/to-frances-(chesterton)">to frances</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/to-frances-(chesterton)">To Frances</a></div>
 </nav>
 
+# [[to-frances]]
 
 G.K. Chesterton to Frances Blogg (189?)
 

@@ -1,5 +1,5 @@
 ---
-title: "heret12 — On Certain Modern Writers and the Institution of the Family"
+title: "Heretics — On Certain Modern Writers and the Institution of the Family"
 author: "Chesterton"
 unitType: story
 parentWork: "works/heret12-(chesterton)"
@@ -9,10 +9,11 @@ tags:
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/works/heret12-(chesterton)">heret12</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/heret12-(chesterton)">Heretics</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/heret12/story_12_celts_and_celtophiles">‹ Story 12 Celts and Celtophiles</a><a class="ex-next" href="/testi/chesterton/atomized/heret12/story_14_on_smart_novelists_and_the_smart_set">Story 14 On Smart Novelists and the Smart Set ›</a></div>
 </nav>
 
+# [[heret12]] — On Certain Modern Writers and the Institution of the Family
 
 XIV.  On Certain Modern Writers and the Institution of the Family
 

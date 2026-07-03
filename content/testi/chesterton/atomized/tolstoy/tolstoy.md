@@ -1,5 +1,5 @@
 ---
-title: "tolstoy"
+title: "Leo Tolstoy"
 author: "Chesterton"
 unitType: work
 parentWork: "works/tolstoy-(chesterton)"
@@ -9,9 +9,10 @@ tags:
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/works/tolstoy-(chesterton)">tolstoy</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/tolstoy-(chesterton)">Leo Tolstoy</a></div>
 </nav>
 
+# [[tolstoy]]
 
 Leo [[tolstoy|Tolstoy]]
 

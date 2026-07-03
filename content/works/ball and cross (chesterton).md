@@ -1,5 +1,5 @@
 ---
-title: ball and cross
+title: The Ball and the Cross
 author: Chesterton
 type: work
 cluster: Allegory · Quest · Pilgrim
@@ -40,6 +40,8 @@ tags:
   - character/james_turnbull
   - character/lucifer
 ---
+
+# ball and cross
 
 *by Chesterton*  ·  **Cluster:** [[Allegory · Quest · Pilgrim]]
 

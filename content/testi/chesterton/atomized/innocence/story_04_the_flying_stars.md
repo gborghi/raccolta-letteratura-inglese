@@ -1,5 +1,5 @@
 ---
-title: "innocence — The Flying Stars"
+title: "The Innocence of Father Brown — The Flying Stars"
 author: "Chesterton"
 unitType: story
 parentWork: "works/innocence-(chesterton)"
@@ -9,10 +9,11 @@ tags:
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/works/innocence-(chesterton)">innocence</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/innocence-(chesterton)">The Innocence of Father Brown</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/innocence/story_03_the_queer_feet">‹ Story 03 The Queer Feet</a><a class="ex-next" href="/testi/chesterton/atomized/innocence/story_05_the_invisible_man">Story 05 The Invisible Man ›</a></div>
 </nav>
 
+# [[innocence]] — The Flying [[Stars]]
 
                          The Flying [[Stars]]
 

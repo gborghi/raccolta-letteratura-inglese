@@ -1,5 +1,5 @@
 ---
-title: "history — Chapter 17 (part 4)"
+title: "A Short History of England — Chapter 17 (part 4)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/history-(chesterton)"
@@ -9,10 +9,11 @@ tags:
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/works/history-(chesterton)">history</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/history-(chesterton)">A Short History of England</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/history/chapter_17/part_03">‹ part 03</a><span></span></div>
 </nav>
 
+# [[history]] — Chapter 17 (part 4)
 
 And then a day came, and if we were wise, we thanked God that we
 had failed.  [[Education]], if it had ever really been in question,

@@ -1,5 +1,5 @@
 ---
-title: St Francis
+title: St. Francis of Assisi
 author: Chesterton
 type: work
 cluster: Christianity · Faith and Doubt · Doubt
@@ -29,6 +29,8 @@ tags:
   - histref/the_crusades
   - histref/the_renaissance
 ---
+
+# St Francis
 
 *by Chesterton*  ·  **Cluster:** [[Christianity · Faith and Doubt · Doubt]]
 

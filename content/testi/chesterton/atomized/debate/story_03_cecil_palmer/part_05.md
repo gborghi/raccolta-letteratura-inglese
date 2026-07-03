@@ -1,5 +1,5 @@
 ---
-title: "debate — Cecil Palmer (part 5)"
+title: "Do We Agree? — Cecil Palmer (part 5)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/debate-(chesterton)"
@@ -9,10 +9,11 @@ tags:
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/works/debate-(chesterton)">debate</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/debate-(chesterton)">Do We Agree?</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/debate/story_03_cecil_palmer/part_04">‹ part 04</a><a class="ex-next" href="/testi/chesterton/atomized/debate/story_03_cecil_palmer/part_06">part 06 ›</a></div>
 </nav>
 
+# [[debate]] — Cecil Palmer (part 5)
 
 I have to allow for the pressure of facts because, as a playwright,
 I think of all problems in terms of actual men and women.

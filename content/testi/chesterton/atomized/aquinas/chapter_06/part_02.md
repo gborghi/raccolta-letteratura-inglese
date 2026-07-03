@@ -1,5 +1,5 @@
 ---
-title: "aquinas — Chapter 7 (part 2)"
+title: "St. Thomas Aquinas — Chapter 7 (part 2)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/aquinas-(chesterton)"
@@ -9,10 +9,11 @@ tags:
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/works/aquinas-(chesterton)">aquinas</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/aquinas-(chesterton)">St. Thomas Aquinas</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/aquinas/chapter_06/part_01">‹ part 01</a><a class="ex-next" href="/testi/chesterton/atomized/aquinas/chapter_06/part_03">part 03 ›</a></div>
 </nav>
 
+# [[aquinas]] — Chapter 7 (part 2)
 
 I do not know for certain why St. Thomas was called the Angelic Doctor:
 whether it was that he had an angelic temper, or the intellectuality

@@ -1,5 +1,5 @@
 ---
-title: dickens Britannica
+title: Charles Dickens (Encyclopaedia Britannica)
 author: Chesterton
 type: work
 cluster: Artist and Society · Truth · Regency/Georgian England
@@ -16,6 +16,8 @@ tags:
   - setting/london
   - concept/poverty
 ---
+
+# dickens Britannica
 
 *by Chesterton*  ·  **Cluster:** [[Artist and Society · Truth · Regency Georgian England]]
 

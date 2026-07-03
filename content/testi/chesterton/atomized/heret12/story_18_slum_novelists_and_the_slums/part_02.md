@@ -1,5 +1,5 @@
 ---
-title: "heret12 — Slum Novelists and the Slums (part 2)"
+title: "Heretics — Slum Novelists and the Slums (part 2)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/heret12-(chesterton)"
@@ -9,10 +9,11 @@ tags:
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/works/heret12-(chesterton)">heret12</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/heret12-(chesterton)">Heretics</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/heret12/story_18_slum_novelists_and_the_slums/part_01">‹ part 01</a><a class="ex-next" href="/testi/chesterton/atomized/heret12/story_18_slum_novelists_and_the_slums/part_03">part 03 ›</a></div>
 </nav>
 
+# [[heret12]] — Slum Novelists and the Slums (part 2)
 
 But the thing which is really required for the proper working of [[democracy]]
 is not merely the democratic system, or even the democratic [[philosophy]],

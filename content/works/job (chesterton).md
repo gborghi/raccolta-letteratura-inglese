@@ -1,5 +1,5 @@
 ---
-title: job
+title: Introduction to the Book of Job
 author: Chesterton
 type: work
 cluster: Christianity · Faith and Doubt · Doubt
@@ -18,6 +18,8 @@ tags:
   - concept/humility
   - histref/the_bible
 ---
+
+# job
 
 *by Chesterton*  ·  **Cluster:** [[Christianity · Faith and Doubt · Doubt]]
 

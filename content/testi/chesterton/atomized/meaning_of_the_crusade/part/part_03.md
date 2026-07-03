@@ -9,7 +9,7 @@ tags:
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/works/meaning-of-the-crusade-(chesterton)">meaning of the crusade</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/meaning-of-the-crusade-(chesterton)">The Meaning of the Crusade</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/meaning_of_the_crusade/part/part_02">‹ part 02</a><a class="ex-next" href="/testi/chesterton/atomized/meaning_of_the_crusade/part/part_04">part 04 ›</a></div>
 </nav>
 

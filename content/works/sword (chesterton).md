@@ -1,5 +1,5 @@
 ---
-title: Sword
+title: The Sword of Wood
 author: Chesterton
 type: work
 cluster: Swords and Weapons · Power and Corruption · Tyrant
@@ -20,6 +20,8 @@ tags:
   - setting/rural_england
   - archetype/hero
 ---
+
+# Sword
 
 *by Chesterton*  ·  **Cluster:** [[Swords and Weapons · Power and Corruption · Tyrant]]
 

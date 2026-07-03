@@ -1,5 +1,5 @@
 ---
-title: heret12
+title: Heretics
 author: Chesterton
 type: work
 cluster: Grace and Redemption · Humility · Bread and Wine / Eucharist
@@ -23,6 +23,8 @@ tags:
   - histref/classical_antiquity
   - character/odysseus
 ---
+
+# heret12
 
 *by Chesterton*  ·  **Cluster:** [[Grace and Redemption · Humility · Bread and Wine Eucharist]]
 

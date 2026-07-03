@@ -1,5 +1,5 @@
 ---
-title: "wifrb11 — The Mistake of the Machine (part 1)"
+title: "The Wisdom of Father Brown — The Mistake of the Machine (part 1)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/wifrb11-(chesterton)"
@@ -9,10 +9,11 @@ tags:
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/works/wifrb11-(chesterton)">wifrb11</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/wifrb11-(chesterton)">The Wisdom of Father Brown</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/wifrb11/story_04_the_man_in_the_passage/part_06">‹ part 06</a><a class="ex-next" href="/testi/chesterton/atomized/wifrb11/story_05_the_mistake_of_the_machine/part_02">part 02 ›</a></div>
 </nav>
 
+# [[wifrb11]] — The Mistake of the [[Machine]] (part 1)
 
                       The Mistake of the [[Machine]]
 

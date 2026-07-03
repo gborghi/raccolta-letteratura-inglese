@@ -1,5 +1,5 @@
 ---
-title: "wifrb11 — The Man in the Passage (part 2)"
+title: "The Wisdom of Father Brown — The Man in the Passage (part 2)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/wifrb11-(chesterton)"
@@ -9,10 +9,11 @@ tags:
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/works/wifrb11-(chesterton)">wifrb11</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/wifrb11-(chesterton)">The Wisdom of Father Brown</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/wifrb11/story_04_the_man_in_the_passage/part_01">‹ part 01</a><a class="ex-next" href="/testi/chesterton/atomized/wifrb11/story_04_the_man_in_the_passage/part_03">part 03 ›</a></div>
 </nav>
 
+# [[wifrb11]] — The Man in the Passage (part 2)
 
      She greeted both men with the beaming and baffling smile
 which kept so many males at the same just dangerous distance from her. 

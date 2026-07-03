@@ -1,5 +1,5 @@
 ---
-title: "thursday"
+title: "The Man Who Was Thursday"
 author: "Chesterton"
 unitType: work
 parentWork: "works/thursday-(chesterton)"
@@ -9,9 +9,10 @@ tags:
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/works/thursday-(chesterton)">thursday</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/thursday-(chesterton)">The Man Who Was Thursday</a></div>
 </nav>
 
+# [[thursday]]
 
 The Man Who Was [[thursday|Thursday]], by G. K. Chesterton Scanned and Edited by
 Harry Plantinga, planting@cs.pitt.edu This text is in the public domain

@@ -1,5 +1,5 @@
 ---
-title: "thursday — Chapter 15 (part 2)"
+title: "The Man Who Was Thursday — Chapter 15 (part 2)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/thursday-(chesterton)"
@@ -9,10 +9,11 @@ tags:
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/works/thursday-(chesterton)">thursday</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/thursday-(chesterton)">The Man Who Was Thursday</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/thursday/chapter_15/part_01">‹ part 01</a><a class="ex-next" href="/testi/chesterton/atomized/thursday/chapter_15/part_03">part 03 ›</a></div>
 </nav>
 
+# [[thursday]] — Chapter 15 (part 2)
 
 They seemed in no haste to do so, but heard in [[Silence|silence]] the hum
 of [[Insects|insects]] and the distant [[Song|song]] of one bird.  Then [[Sunday]] spoke,

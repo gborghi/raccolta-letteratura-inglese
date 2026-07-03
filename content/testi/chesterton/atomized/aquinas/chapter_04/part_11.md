@@ -1,5 +1,5 @@
 ---
-title: "aquinas — Chapter 4 (part 11)"
+title: "St. Thomas Aquinas — Chapter 4 (part 11)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/aquinas-(chesterton)"
@@ -9,10 +9,11 @@ tags:
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/works/aquinas-(chesterton)">aquinas</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/aquinas-(chesterton)">St. Thomas Aquinas</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/aquinas/chapter_04/part_10">‹ part 10</a><a class="ex-next" href="/testi/chesterton/atomized/aquinas/chapter_04/part_12">part 12 ›</a></div>
 </nav>
 
+# [[aquinas]] — Chapter 4 (part 11)
 
 An acute observer said of Thomas [[aquinas|Aquinas]] in his own [[Time|time]], "He could
 [[Alone|alone]] restore all [[philosophy]], if it had been burnt by [[Fire|fire]]."

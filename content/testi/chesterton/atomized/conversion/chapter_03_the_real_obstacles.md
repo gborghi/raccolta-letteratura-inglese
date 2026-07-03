@@ -1,5 +1,5 @@
 ---
-title: "conversion — Chapter 3: THE REAL OBSTACLES"
+title: "The Catholic Church and Conversion — Chapter 3: THE REAL OBSTACLES"
 author: "Chesterton"
 unitType: chapter
 parentWork: "works/conversion-(chesterton)"
@@ -9,10 +9,11 @@ tags:
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/works/conversion-(chesterton)">conversion</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/conversion-(chesterton)">The Catholic Church and Conversion</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/conversion/chapter_02_the_obvious_blunders">‹ Chapter 02 THE OBVIOUS BLUNDERS</a><a class="ex-next" href="/testi/chesterton/atomized/conversion/chapter_04_the_world_inside_out">Chapter 04 THE WORLD INSIDE OUT ›</a></div>
 </nav>
 
+# [[conversion]] — Chapter 3: THE REAL OBSTACLES
 
 CHAPTER III:  THE REAL OBSTACLES
 

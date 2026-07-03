@@ -9,7 +9,7 @@ tags:
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/works/trees-of-pride-(chesterton)">trees of pride</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/trees-of-pride-(chesterton)">The Trees of Pride</a></div>
 </nav>
 
 

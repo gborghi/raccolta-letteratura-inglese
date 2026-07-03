@@ -1,5 +1,5 @@
 ---
-title: "innocence — The Secret Garden (part 7)"
+title: "The Innocence of Father Brown — The Secret Garden (part 7)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/innocence-(chesterton)"
@@ -9,10 +9,11 @@ tags:
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/works/innocence-(chesterton)">innocence</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/innocence-(chesterton)">The Innocence of Father Brown</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/innocence/story_02_the_secret_garden/part_06">‹ part 06</a><a class="ex-next" href="/testi/chesterton/atomized/innocence/story_03_the_queer_feet/part_01">part 01 ›</a></div>
 </nav>
 
+# [[innocence]] — The Secret [[Garden]] (part 7)
 
 "[[Well]]," said the doctor slowly, "that seems plausible enough.
 But my next two questions will stump anyone."

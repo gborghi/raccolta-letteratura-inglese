@@ -1,5 +1,5 @@
 ---
-title: "heret12 — Slum Novelists and the Slums"
+title: "Heretics — Slum Novelists and the Slums"
 author: "Chesterton"
 unitType: story
 parentWork: "works/heret12-(chesterton)"
@@ -9,10 +9,11 @@ tags:
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/works/heret12-(chesterton)">heret12</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/heret12-(chesterton)">Heretics</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/heret12/story_17_the_fallacy_of_the_young_nation">‹ Story 17 The Fallacy of the Young Nation</a><a class="ex-next" href="/testi/chesterton/atomized/heret12/story_19_concluding_remarks_on_the_importance_of">Story 19 Concluding Remarks on the Importance of ›</a></div>
 </nav>
 
+# [[heret12]] — Slum Novelists and the Slums
 
 XIX.  Slum Novelists and the Slums
 

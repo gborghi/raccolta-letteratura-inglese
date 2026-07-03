@@ -1,5 +1,5 @@
 ---
-title: everlasting man
+title: The Everlasting Man
 author: Chesterton
 type: work
 cluster: Christianity · Faith and Doubt · Doubt
@@ -30,6 +30,8 @@ tags:
   - topos/pastoral_retreat
   - motif/the_supernatural
 ---
+
+# everlasting man
 
 *by Chesterton*  ·  **Cluster:** [[Christianity · Faith and Doubt · Doubt]]
 

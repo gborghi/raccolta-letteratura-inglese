@@ -1,5 +1,5 @@
 ---
-title: "history — Chapter 5 (part 2)"
+title: "A Short History of England — Chapter 5 (part 2)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/history-(chesterton)"
@@ -9,10 +9,11 @@ tags:
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/works/history-(chesterton)">history</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/history-(chesterton)">A Short History of England</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/history/chapter_05/part_01">‹ part 01</a><a class="ex-next" href="/testi/chesterton/atomized/history/chapter_05/part_03">part 03 ›</a></div>
 </nav>
 
+# [[history]] — Chapter 5 (part 2)
 
 Along the northern coast of France, where the Confessor had passed
 his early life, lay the lands of one of the most powerful of the French

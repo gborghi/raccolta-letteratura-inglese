@@ -1,5 +1,5 @@
 ---
-title: "aquinas — Chapter 4 (part 12)"
+title: "St. Thomas Aquinas — Chapter 4 (part 12)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/aquinas-(chesterton)"
@@ -9,10 +9,11 @@ tags:
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/works/aquinas-(chesterton)">aquinas</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/aquinas-(chesterton)">St. Thomas Aquinas</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/aquinas/chapter_04/part_11">‹ part 11</a><a class="ex-next" href="/testi/chesterton/atomized/aquinas/chapter_05/part_01">part 01 ›</a></div>
 </nav>
 
+# [[aquinas]] — Chapter 4 (part 12)
 
 He had returned victorious from his last combat with Siger of Brabant;
 returned and retired.  This particular quarrel was the one point,

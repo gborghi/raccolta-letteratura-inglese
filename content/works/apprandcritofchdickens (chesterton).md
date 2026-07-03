@@ -1,5 +1,5 @@
 ---
-title: ApprAndCritOfChDickens
+title: Appreciations and Criticisms of the Works of Charles Dickens
 author: Chesterton
 type: work
 cluster: Artist and Society · Truth · Regency/Georgian England
@@ -18,6 +18,8 @@ tags:
   - histref/victorian_england
   - motif/the_city
 ---
+
+# ApprAndCritOfChDickens
 
 *by Chesterton*  ·  **Cluster:** [[Artist and Society · Truth · Regency Georgian England]]
 

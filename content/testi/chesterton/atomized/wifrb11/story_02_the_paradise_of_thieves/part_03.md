@@ -1,5 +1,5 @@
 ---
-title: "wifrb11 — The Paradise of Thieves (part 3)"
+title: "The Wisdom of Father Brown — The Paradise of Thieves (part 3)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/wifrb11-(chesterton)"
@@ -9,10 +9,11 @@ tags:
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/works/wifrb11-(chesterton)">wifrb11</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/wifrb11-(chesterton)">The Wisdom of Father Brown</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/wifrb11/story_02_the_paradise_of_thieves/part_02">‹ part 02</a><a class="ex-next" href="/testi/chesterton/atomized/wifrb11/story_02_the_paradise_of_thieves/part_04">part 04 ›</a></div>
 </nav>
 
+# [[wifrb11]] — The Paradise of Thieves (part 3)
 
      The coach was a kind of commodious wagonette, invented by
 the modernist talent of the courier, who dominated the expedition

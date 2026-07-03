@@ -1,5 +1,5 @@
 ---
-title: "aquinas — Chapter 4 (part 5)"
+title: "St. Thomas Aquinas — Chapter 4 (part 5)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/aquinas-(chesterton)"
@@ -9,10 +9,11 @@ tags:
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/works/aquinas-(chesterton)">aquinas</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/aquinas-(chesterton)">St. Thomas Aquinas</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/aquinas/chapter_04/part_04">‹ part 04</a><a class="ex-next" href="/testi/chesterton/atomized/aquinas/chapter_04/part_06">part 06 ›</a></div>
 </nav>
 
+# [[aquinas]] — Chapter 4 (part 5)
 
 But this fact becomes very vivid indeed, when we compare
 the greatest of Christian philosophers with the only men who

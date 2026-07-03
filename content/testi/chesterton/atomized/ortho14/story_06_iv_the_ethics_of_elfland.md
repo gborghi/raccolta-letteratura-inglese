@@ -1,5 +1,5 @@
 ---
-title: "ortho14 — Iv The Ethics Of Elfland"
+title: "Orthodoxy — Iv The Ethics Of Elfland"
 author: "Chesterton"
 unitType: story
 parentWork: "works/ortho14-(chesterton)"
@@ -9,10 +9,11 @@ tags:
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/works/ortho14-(chesterton)">ortho14</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/ortho14-(chesterton)">Orthodoxy</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/ortho14/story_05_iii_the_suicide_of_thought">‹ Story 05 Iii The Suicide Of Thought</a><a class="ex-next" href="/testi/chesterton/atomized/ortho14/story_07_vii_the_eternal_revolution">Story 07 Vii The Eternal Revolution ›</a></div>
 </nav>
 
+# [[ortho14]] — Iv The Ethics Of Elfland
 
 IV THE ETHICS OF ELFLAND
 

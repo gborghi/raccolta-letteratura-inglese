@@ -1,5 +1,5 @@
 ---
-title: "innocence — The Honour of Israel Gow (part 5)"
+title: "The Innocence of Father Brown — The Honour of Israel Gow (part 5)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/innocence-(chesterton)"
@@ -9,10 +9,11 @@ tags:
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/works/innocence-(chesterton)">innocence</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/innocence-(chesterton)">The Innocence of Father Brown</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/innocence/story_06_the_honour_of_israel_gow/part_04">‹ part 04</a><a class="ex-next" href="/testi/chesterton/atomized/innocence/story_07_the_wrong_shape/part_01">part 01 ›</a></div>
 </nav>
 
+# [[innocence]] — The [[Honour]] of Israel Gow (part 5)
 
 All the corners of the sky were brightening into blue and silver;
 the birds were chattering in the tiny garden trees;

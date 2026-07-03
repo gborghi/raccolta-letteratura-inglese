@@ -1,5 +1,5 @@
 ---
-title: "heret12 — Concluding Remarks on the Importance of Orthodoxy"
+title: "Heretics — Concluding Remarks on the Importance of Orthodoxy"
 author: "Chesterton"
 unitType: story
 parentWork: "works/heret12-(chesterton)"
@@ -9,10 +9,11 @@ tags:
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/works/heret12-(chesterton)">heret12</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/heret12-(chesterton)">Heretics</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/heret12/story_18_slum_novelists_and_the_slums">‹ Story 18 Slum Novelists and the Slums</a><a class="ex-next" href="/testi/chesterton/atomized/heret12/story_01_introductory_remarks_on_the_importance_o/part_01">part 01 ›</a></div>
 </nav>
 
+# [[heret12]] — Concluding Remarks on the Importance of Orthodoxy
 
 XX.  Concluding Remarks on the Importance of Orthodoxy
 

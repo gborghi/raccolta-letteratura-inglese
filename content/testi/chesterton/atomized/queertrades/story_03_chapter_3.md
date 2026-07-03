@@ -1,5 +1,5 @@
 ---
-title: "queertrades — Chapter 3"
+title: "The Club of Queer Trades — Chapter 3"
 author: "Chesterton"
 unitType: story
 parentWork: "works/queertrades-(chesterton)"
@@ -9,10 +9,11 @@ tags:
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/works/queertrades-(chesterton)">queertrades</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/queertrades-(chesterton)">The Club of Queer Trades</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/queertrades/story_02_chapter_2">‹ Story 02 Chapter 2</a><a class="ex-next" href="/testi/chesterton/atomized/queertrades/story_04_chapter_4">Story 04 Chapter 4 ›</a></div>
 </nav>
 
+# [[queertrades]] — Chapter 3
 
 Chapter 3
 

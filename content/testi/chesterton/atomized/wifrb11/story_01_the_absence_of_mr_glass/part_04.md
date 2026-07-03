@@ -1,5 +1,5 @@
 ---
-title: "wifrb11 — The Absence of Mr Glass (part 4)"
+title: "The Wisdom of Father Brown — The Absence of Mr Glass (part 4)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/wifrb11-(chesterton)"
@@ -9,10 +9,11 @@ tags:
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/works/wifrb11-(chesterton)">wifrb11</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/wifrb11-(chesterton)">The Wisdom of Father Brown</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/wifrb11/story_01_the_absence_of_mr_glass/part_03">‹ part 03</a><a class="ex-next" href="/testi/chesterton/atomized/wifrb11/story_01_the_absence_of_mr_glass/part_05">part 05 ›</a></div>
 </nav>
 
+# [[wifrb11]] — The Absence of Mr Glass (part 4)
 
      "By the way," said Father Brown, "might it not be as well
 to untie Mr Todhunter?"

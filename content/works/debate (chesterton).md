@@ -1,5 +1,5 @@
 ---
-title: debate
+title: Do We Agree?
 author: Chesterton
 type: work
 cluster: Essay · Critique of Progress · Common Man
@@ -15,6 +15,8 @@ tags:
   - concept/anti_industrialism
   - form/essay
 ---
+
+# debate
 
 *by Chesterton*  ·  **Cluster:** [[Essay · Critique of Progress · Common Man]]
 

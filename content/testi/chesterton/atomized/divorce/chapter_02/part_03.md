@@ -1,5 +1,5 @@
 ---
-title: "divorce — Chapter 2 (part 3)"
+title: "The Superstition of Divorce — Chapter 2 (part 3)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/divorce-(chesterton)"
@@ -9,10 +9,11 @@ tags:
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/works/divorce-(chesterton)">divorce</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/divorce-(chesterton)">The Superstition of Divorce</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/divorce/chapter_02/part_02">‹ part 02</a><a class="ex-next" href="/testi/chesterton/atomized/divorce/chapter_05/part_01">part 01 ›</a></div>
 </nav>
 
+# [[divorce]] — Chapter 2 (part 3)
 
 The answer is, I regret to say, that this social campaign,
 in most though by no means all of its most prominent campaigners,

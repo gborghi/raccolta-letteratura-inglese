@@ -1,5 +1,5 @@
 ---
-title: Man Orthodox
+title: The Man Who Was Orthodox
 author: Chesterton
 type: work
 cluster: Christianity · Faith and Doubt · Doubt
@@ -20,6 +20,8 @@ tags:
   - histref/christianity
   - histref/the_bible
 ---
+
+# Man Orthodox
 
 *by Chesterton*  ·  **Cluster:** [[Christianity · Faith and Doubt · Doubt]]
 

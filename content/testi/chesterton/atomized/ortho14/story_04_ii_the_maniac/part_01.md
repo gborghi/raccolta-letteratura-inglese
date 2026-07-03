@@ -1,5 +1,5 @@
 ---
-title: "ortho14 — Ii The Maniac (part 1)"
+title: "Orthodoxy — Ii The Maniac (part 1)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/ortho14-(chesterton)"
@@ -9,10 +9,11 @@ tags:
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/works/ortho14-(chesterton)">ortho14</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/ortho14-(chesterton)">Orthodoxy</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/ortho14/story_08_ix_authority_and_the_adventurer">‹ Story 08 Ix Authority And The Adventurer</a><a class="ex-next" href="/testi/chesterton/atomized/ortho14/story_04_ii_the_maniac/part_02">part 02 ›</a></div>
 </nav>
 
+# [[ortho14]] — Ii The Maniac (part 1)
 
 II THE MANIAC
 

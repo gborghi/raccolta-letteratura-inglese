@@ -1,5 +1,5 @@
 ---
-title: queertrades
+title: The Club of Queer Trades
 author: Chesterton
 type: work
 cluster: Short Story · Concealment / Hidden Identity · Justice / Right and Wrong
@@ -18,6 +18,8 @@ tags:
   - archetype/detective
   - setting/london
 ---
+
+# queertrades
 
 *by Chesterton*  ·  **Cluster:** [[Short Story · Concealment Hidden Identity · Justice Right and Wrong]]
 

@@ -1,5 +1,5 @@
 ---
-title: "aquinas — Chapter 3 (part 5)"
+title: "St. Thomas Aquinas — Chapter 3 (part 5)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/aquinas-(chesterton)"
@@ -9,10 +9,11 @@ tags:
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/works/aquinas-(chesterton)">aquinas</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/aquinas-(chesterton)">St. Thomas Aquinas</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/aquinas/chapter_03/part_04">‹ part 04</a><a class="ex-next" href="/testi/chesterton/atomized/aquinas/chapter_03/part_06">part 06 ›</a></div>
 </nav>
 
+# [[aquinas]] — Chapter 3 (part 5)
 
 What made the Aristotelian Revolution really revolutionary was the fact
 that it was really religious.  It is the fact, so fundamental that I

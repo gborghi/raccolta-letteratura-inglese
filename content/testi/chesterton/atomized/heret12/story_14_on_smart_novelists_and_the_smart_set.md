@@ -1,5 +1,5 @@
 ---
-title: "heret12 — On Smart Novelists and the Smart Set"
+title: "Heretics — On Smart Novelists and the Smart Set"
 author: "Chesterton"
 unitType: story
 parentWork: "works/heret12-(chesterton)"
@@ -9,10 +9,11 @@ tags:
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/works/heret12-(chesterton)">heret12</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/heret12-(chesterton)">Heretics</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/heret12/story_13_on_certain_modern_writers_and_the_instit">‹ Story 13 On Certain Modern Writers and the Instit</a><a class="ex-next" href="/testi/chesterton/atomized/heret12/story_15_on_mr_mccabe_and_a_divine_frivolity">Story 15 On Mr McCabe and a Divine Frivolity ›</a></div>
 </nav>
 
+# [[heret12]] — On Smart Novelists and the Smart Set
 
 XV.  On Smart Novelists and the Smart Set
 

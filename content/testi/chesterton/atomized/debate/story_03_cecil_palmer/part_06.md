@@ -1,5 +1,5 @@
 ---
-title: "debate — Cecil Palmer (part 6)"
+title: "Do We Agree? — Cecil Palmer (part 6)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/debate-(chesterton)"
@@ -9,10 +9,11 @@ tags:
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/works/debate-(chesterton)">debate</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/debate-(chesterton)">Do We Agree?</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/debate/story_03_cecil_palmer/part_05">‹ part 05</a><a class="ex-next" href="/testi/chesterton/atomized/debate/story_03_cecil_palmer/part_07">part 07 ›</a></div>
 </nav>
 
+# [[debate]] — Cecil Palmer (part 6)
 
 Mr. [[Shaw]]'s dislike of the landlord is not so much a denial of
 the right to private property.  not so much that he owns the land,

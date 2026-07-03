@@ -1,5 +1,5 @@
 ---
-title: "conversion — Chapter 4: THE WORLD INSIDE OUT"
+title: "The Catholic Church and Conversion — Chapter 4: THE WORLD INSIDE OUT"
 author: "Chesterton"
 unitType: chapter
 parentWork: "works/conversion-(chesterton)"
@@ -9,10 +9,11 @@ tags:
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/works/conversion-(chesterton)">conversion</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/conversion-(chesterton)">The Catholic Church and Conversion</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/conversion/chapter_03_the_real_obstacles">‹ Chapter 03 THE REAL OBSTACLES</a><a class="ex-next" href="/testi/chesterton/atomized/conversion/chapter_05_the_exception_proves_the_rule">Chapter 05 THE EXCEPTION PROVES THE RULE ›</a></div>
 </nav>
 
+# [[conversion]] — Chapter 4: THE WORLD INSIDE OUT
 
 CHAPTER IV:  THE WORLD INSIDE OUT
 

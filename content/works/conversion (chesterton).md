@@ -1,5 +1,5 @@
 ---
-title: conversion
+title: The Catholic Church and Conversion
 author: Chesterton
 type: work
 cluster: Christianity · Faith and Doubt · Doubt
@@ -17,6 +17,8 @@ tags:
   - form/apologetics
   - histref/christianity
 ---
+
+# conversion
 
 *by Chesterton*  ·  **Cluster:** [[Christianity · Faith and Doubt · Doubt]]
 

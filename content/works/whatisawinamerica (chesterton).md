@@ -1,5 +1,5 @@
 ---
-title: WhatISawInAmerica
+title: What I Saw in America
 author: Chesterton
 type: work
 cluster: Essay · Critique of Progress · Common Man
@@ -16,6 +16,8 @@ tags:
   - concept/critique_of_progress
   - histref/american_civil_war
 ---
+
+# WhatISawInAmerica
 
 *by Chesterton*  ·  **Cluster:** [[Essay · Critique of Progress · Common Man]]
 

@@ -1,5 +1,5 @@
 ---
-title: "innocence — The Wrong Shape (part 4)"
+title: "The Innocence of Father Brown — The Wrong Shape (part 4)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "works/innocence-(chesterton)"
@@ -9,10 +9,11 @@ tags:
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/works/innocence-(chesterton)">innocence</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/innocence-(chesterton)">The Innocence of Father Brown</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/innocence/story_07_the_wrong_shape/part_03">‹ part 03</a><a class="ex-next" href="/testi/chesterton/atomized/innocence/story_07_the_wrong_shape/part_05">part 05 ›</a></div>
 </nav>
 
+# [[innocence]] — The Wrong Shape (part 4)
 
 Father Brown was silent and motionless for half a minute, then he said:
 "Superstition is irreligious, but there is something in the air

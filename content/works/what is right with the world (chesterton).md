@@ -1,5 +1,5 @@
 ---
-title: What is Right With the World
+title: What Is Right with the World
 author: Chesterton
 type: work
 cluster: Essay · Critique of Progress · Common Man

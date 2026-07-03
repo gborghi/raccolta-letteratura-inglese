@@ -1,5 +1,5 @@
 ---
-title: aquinas
+title: St. Thomas Aquinas
 author: Chesterton
 type: work
 cluster: Christianity · Faith and Doubt · Doubt
@@ -28,6 +28,8 @@ tags:
   - archetype/martyr
   - concept/critique_of_progress
 ---
+
+# aquinas
 
 *by Chesterton*  ·  **Cluster:** [[Christianity · Faith and Doubt · Doubt]]
 
