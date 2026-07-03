@@ -9,7 +9,7 @@ tags:
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Dickens · <a href="/works/the-pickwick-papers-(dickens)">The Pickwick Papers</a></div>
+<div class="excerpt-crumb">Dickens · <a href="/works/the-pickwick-papers-(dickens)">The Pickwick Papers</a> › <a href="/testi/dickens/atomized/the_pickwick_papers/chapter_31_is_wholly_devoted_to_a_full_an">Chapter 31 IS WHOLLY DEVOTED TO A FULL AN</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/the_pickwick_papers/chapter_31_is_wholly_devoted_to_a_full_an/part_13">‹ part 13</a><a class="ex-next" href="/testi/dickens/atomized/the_pickwick_papers/chapter_31_is_wholly_devoted_to_a_full_an/part_15">part 15 ›</a></div>
 </nav>
 

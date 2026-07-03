@@ -12,6 +12,10 @@ tags:
 <div class="excerpt-crumb">Dickens · <a href="/works/martin-chuzzlewit-(dickens)">Martin Chuzzlewit</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/martin_chuzzlewit/chapter_49_forty_nine">‹ Chapter 49 FORTY NINE</a><a class="ex-next" href="/testi/dickens/atomized/martin_chuzzlewit/chapter_51_fifty_one">Chapter 51 FIFTY ONE ›</a></div>
 </nav>
+<nav class="excerpt-children">
+<div class="excerpt-children-label">In questa sezione</div>
+<ul><li><a href="/testi/dickens/atomized/martin_chuzzlewit/chapter_50_fifty/part_01">Part 1</a></li><li><a href="/testi/dickens/atomized/martin_chuzzlewit/chapter_50_fifty/part_02">Part 2</a></li><li><a href="/testi/dickens/atomized/martin_chuzzlewit/chapter_50_fifty/part_03">Part 3</a></li><li><a href="/testi/dickens/atomized/martin_chuzzlewit/chapter_50_fifty/part_04">Part 4</a></li></ul>
+</nav>
 
 
 CHAPTER FIFTY

@@ -9,7 +9,7 @@ tags:
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Shakespeare · <a href="/works/hamlet-(shakespeare)">Hamlet</a></div>
+<div class="excerpt-crumb">Shakespeare · <a href="/works/hamlet-(shakespeare)">Hamlet</a> › <a href="/testi/shakespeare/plays/hamlet/act_5/scene_2">Scene 2</a></div>
 </nav>
 
 

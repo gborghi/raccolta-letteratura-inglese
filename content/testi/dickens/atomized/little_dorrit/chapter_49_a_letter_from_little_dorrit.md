@@ -12,6 +12,10 @@ tags:
 <div class="excerpt-crumb">Dickens · <a href="/works/little-dorrit-(dickens)">Little Dorrit</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/little_dorrit/chapter_48_the_dreams_of_mrs_flintwinch_t">‹ Chapter 48 The Dreams of Mrs Flintwinch t</a><a class="ex-next" href="/testi/dickens/atomized/little_dorrit/chapter_50_in_which_a_great_patriotic_con">Chapter 50 In which a Great Patriotic Con ›</a></div>
 </nav>
+<nav class="excerpt-children">
+<div class="excerpt-children-label">In questa sezione</div>
+<ul><li><a href="/testi/dickens/atomized/little_dorrit/chapter_49_a_letter_from_little_dorrit/part_01">Part 1</a></li><li><a href="/testi/dickens/atomized/little_dorrit/chapter_49_a_letter_from_little_dorrit/part_02">Part 2</a></li></ul>
+</nav>
 
 
 CHAPTER 11. A Letter from Little Dorrit

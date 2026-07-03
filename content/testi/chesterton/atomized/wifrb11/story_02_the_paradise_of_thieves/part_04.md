@@ -11,7 +11,7 @@ tags:
 <div class="qlang-switch" data-default="en"></div>
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/works/wifrb11-(chesterton)">The Wisdom of Father Brown</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/wifrb11-(chesterton)">The Wisdom of Father Brown</a> › <a href="/testi/chesterton/atomized/wifrb11/story_02_the_paradise_of_thieves">Story 02 The Paradise of Thieves</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/wifrb11/story_02_the_paradise_of_thieves/part_03">‹ part 03</a><a class="ex-next" href="/testi/chesterton/atomized/wifrb11/story_02_the_paradise_of_thieves/part_05">part 05 ›</a></div>
 </nav>
 

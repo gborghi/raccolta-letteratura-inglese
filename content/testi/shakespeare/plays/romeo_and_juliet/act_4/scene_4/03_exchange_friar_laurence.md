@@ -9,7 +9,7 @@ tags:
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Shakespeare · <a href="/works/romeo-and-juliet-(shakespeare)">Romeo and Juliet</a></div>
+<div class="excerpt-crumb">Shakespeare · <a href="/works/romeo-and-juliet-(shakespeare)">Romeo and Juliet</a> › <a href="/testi/shakespeare/plays/romeo_and_juliet/act_4/scene_4">Scene 4</a></div>
 </nav>
 
 

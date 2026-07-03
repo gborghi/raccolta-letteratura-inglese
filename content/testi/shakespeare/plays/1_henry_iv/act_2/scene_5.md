@@ -12,6 +12,10 @@ tags:
 <div class="excerpt-crumb">Shakespeare · <a href="/works/1-henry-iv-(shakespeare)">1 Henry IV</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/shakespeare/plays/1_henry_iv/act_2/scene_4">‹ Scene 4</a><a class="ex-next" href="/testi/shakespeare/plays/1_henry_iv/act_3/scene_1">Scene 1 ›</a></div>
 </nav>
+<nav class="excerpt-children">
+<div class="excerpt-children-label">In questa sezione</div>
+<ul><li><a href="/testi/shakespeare/plays/1_henry_iv/act_2/scene_5/01_exchange_dialogue">01 exchange dialogue</a></li><li><a href="/testi/shakespeare/plays/1_henry_iv/act_2/scene_5/02_monologue_prince_harry">02 monologue PRINCE HARRY</a></li><li><a href="/testi/shakespeare/plays/1_henry_iv/act_2/scene_5/03_exchange_poins">03 exchange POINS</a></li><li><a href="/testi/shakespeare/plays/1_henry_iv/act_2/scene_5/04_exchange_poins">04 exchange POINS</a></li><li><a href="/testi/shakespeare/plays/1_henry_iv/act_2/scene_5/05_exchange_sir_john">05 exchange SIR JOHN</a></li><li><a href="/testi/shakespeare/plays/1_henry_iv/act_2/scene_5/06_exchange_prince_harry">06 exchange PRINCE HARRY</a></li><li><a href="/testi/shakespeare/plays/1_henry_iv/act_2/scene_5/07_exchange_prince_harry">07 exchange PRINCE HARRY</a></li><li><a href="/testi/shakespeare/plays/1_henry_iv/act_2/scene_5/08_exchange_prince_harry">08 exchange PRINCE HARRY</a></li><li><a href="/testi/shakespeare/plays/1_henry_iv/act_2/scene_5/09_monologue_sir_john">09 monologue SIR JOHN</a></li><li><a href="/testi/shakespeare/plays/1_henry_iv/act_2/scene_5/10_exchange_prince_harry">10 exchange PRINCE HARRY</a></li><li><a href="/testi/shakespeare/plays/1_henry_iv/act_2/scene_5/11_exchange_prince_harry_i">11 exchange PRINCE HARRY I</a></li><li><a href="/testi/shakespeare/plays/1_henry_iv/act_2/scene_5/12_exchange_harvey">12 exchange HARVEY</a></li></ul>
+</nav>
 
 
 | Chi parla | Battuta |

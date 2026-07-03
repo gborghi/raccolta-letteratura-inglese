@@ -14,6 +14,10 @@ tags:
 <div class="excerpt-crumb">Chesterton · <a href="/works/heret12-(chesterton)">Heretics</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/heret12/story_16_on_the_wit_of_whistler">‹ Story 16 On the Wit of Whistler</a><a class="ex-next" href="/testi/chesterton/atomized/heret12/story_18_slum_novelists_and_the_slums">Story 18 Slum Novelists and the Slums ›</a></div>
 </nav>
+<nav class="excerpt-children">
+<div class="excerpt-children-label">In questa sezione</div>
+<ul><li><a href="/testi/chesterton/atomized/heret12/story_17_the_fallacy_of_the_young_nation/part_01">Part 1</a></li><li><a href="/testi/chesterton/atomized/heret12/story_17_the_fallacy_of_the_young_nation/part_02">Part 2</a></li><li><a href="/testi/chesterton/atomized/heret12/story_17_the_fallacy_of_the_young_nation/part_03">Part 3</a></li></ul>
+</nav>
 
 # [[heret12]] — The Fallacy of the Young Nation
 

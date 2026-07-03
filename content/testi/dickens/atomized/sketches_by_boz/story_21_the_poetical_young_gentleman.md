@@ -12,6 +12,10 @@ tags:
 <div class="excerpt-crumb">Dickens · <a href="/works/sketches-by-boz-(dickens)">Sketches by Boz</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/sketches_by_boz/story_20_the_theatrical_young_gentleman">‹ Story 20 The Theatrical Young Gentleman</a><a class="ex-next" href="/testi/dickens/atomized/sketches_by_boz/story_22_the_young_ladies_young_gentleman">Story 22 The Young Ladies Young Gentleman ›</a></div>
 </nav>
+<nav class="excerpt-children">
+<div class="excerpt-children-label">In questa sezione</div>
+<ul><li><a href="/testi/dickens/atomized/sketches_by_boz/story_21_the_poetical_young_gentleman/part_01">Part 1</a></li><li><a href="/testi/dickens/atomized/sketches_by_boz/story_21_the_poetical_young_gentleman/part_02">Part 2</a></li></ul>
+</nav>
 
 
 THE POETICAL YOUNG GENTLEMAN

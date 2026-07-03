@@ -12,6 +12,10 @@ tags:
 <div class="excerpt-crumb">Shakespeare · <a href="/works/all-is-true---(henry-viii)-(shakespeare)">All Is True Henry VIII</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/shakespeare/plays/all_is_true_henry_viii/act_5/scene_3">‹ Scene 3</a><span></span></div>
 </nav>
+<nav class="excerpt-children">
+<div class="excerpt-children-label">In questa sezione</div>
+<ul><li><a href="/testi/shakespeare/plays/all_is_true_henry_viii/act_5/scene_4/01_exchange_dialogue">01 exchange dialogue</a></li><li><a href="/testi/shakespeare/plays/all_is_true_henry_viii/act_5/scene_4/02_monologue_cranmer">02 monologue CRANMER</a></li><li><a href="/testi/shakespeare/plays/all_is_true_henry_viii/act_5/scene_4/03_exchange_king_henry">03 exchange KING HENRY</a></li><li><a href="/testi/shakespeare/plays/all_is_true_henry_viii/act_5/scene_4/04_monologue_when">04 monologue WHEN</a></li><li><a href="/testi/shakespeare/plays/all_is_true_henry_viii/act_5/scene_4/05_exchange_the_persons_of_the_play">05 exchange THE PERSONS OF THE PLAY</a></li></ul>
+</nav>
 
 
 | Chi parla | Battuta |

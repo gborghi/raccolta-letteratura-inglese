@@ -12,6 +12,10 @@ tags:
 <div class="excerpt-crumb">Shakespeare · <a href="/works/the-first-part-of-the-contention---(2-henry-vi)-(shakespeare)">The First Part of the Contention 2 Henry VI</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/shakespeare/plays/the_first_part_of_the_contention_2_henry_vi/act_4/scene_9">‹ Scene 9</a><a class="ex-next" href="/testi/shakespeare/plays/the_first_part_of_the_contention_2_henry_vi/act_5/scene_5">Scene 5 ›</a></div>
 </nav>
+<nav class="excerpt-children">
+<div class="excerpt-children-label">In questa sezione</div>
+<ul><li><a href="/testi/shakespeare/plays/the_first_part_of_the_contention_2_henry_vi/act_5/scene_1/01_exchange_dialogue">01 exchange dialogue</a></li><li><a href="/testi/shakespeare/plays/the_first_part_of_the_contention_2_henry_vi/act_5/scene_1/02_exchange_york">02 exchange YORK</a></li><li><a href="/testi/shakespeare/plays/the_first_part_of_the_contention_2_henry_vi/act_5/scene_1/03_exchange_queen_margaret">03 exchange QUEEN MARGARET</a></li><li><a href="/testi/shakespeare/plays/the_first_part_of_the_contention_2_henry_vi/act_5/scene_1/04_exchange_salisbury">04 exchange SALISBURY</a></li><li><a href="/testi/shakespeare/plays/the_first_part_of_the_contention_2_henry_vi/act_5/scene_1/05_exchange_york">05 exchange YORK</a></li><li><a href="/testi/shakespeare/plays/the_first_part_of_the_contention_2_henry_vi/act_5/scene_1/06_monologue_young_clifford">06 monologue YOUNG CLIFFORD</a></li><li><a href="/testi/shakespeare/plays/the_first_part_of_the_contention_2_henry_vi/act_5/scene_1/07_exchange_queen_margaret">07 exchange QUEEN MARGARET</a></li></ul>
+</nav>
 
 
 | Chi parla | Battuta |

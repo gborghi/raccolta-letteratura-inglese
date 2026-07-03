@@ -12,6 +12,10 @@ tags:
 <div class="excerpt-crumb">Dickens · <a href="/works/sketches-by-boz-(dickens)">Sketches by Boz</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/sketches_by_boz/story_36_conclusion">‹ Story 36 Conclusion</a><a class="ex-next" href="/testi/dickens/atomized/sketches_by_boz/story_38_7_943">Story 38 7 943 ›</a></div>
 </nav>
+<nav class="excerpt-children">
+<div class="excerpt-children-label">In questa sezione</div>
+<ul><li><a href="/testi/dickens/atomized/sketches_by_boz/story_37_the_mudfog_and_other_sketches/part_01">Part 1</a></li><li><a href="/testi/dickens/atomized/sketches_by_boz/story_37_the_mudfog_and_other_sketches/part_02">Part 2</a></li><li><a href="/testi/dickens/atomized/sketches_by_boz/story_37_the_mudfog_and_other_sketches/part_03">Part 3</a></li><li><a href="/testi/dickens/atomized/sketches_by_boz/story_37_the_mudfog_and_other_sketches/part_04">Part 4</a></li><li><a href="/testi/dickens/atomized/sketches_by_boz/story_37_the_mudfog_and_other_sketches/part_05">Part 5</a></li><li><a href="/testi/dickens/atomized/sketches_by_boz/story_37_the_mudfog_and_other_sketches/part_06">Part 6</a></li><li><a href="/testi/dickens/atomized/sketches_by_boz/story_37_the_mudfog_and_other_sketches/part_07">Part 7</a></li><li><a href="/testi/dickens/atomized/sketches_by_boz/story_37_the_mudfog_and_other_sketches/part_08">Part 8</a></li><li><a href="/testi/dickens/atomized/sketches_by_boz/story_37_the_mudfog_and_other_sketches/part_09">Part 9</a></li><li><a href="/testi/dickens/atomized/sketches_by_boz/story_37_the_mudfog_and_other_sketches/part_10">Part 10</a></li><li><a href="/testi/dickens/atomized/sketches_by_boz/story_37_the_mudfog_and_other_sketches/part_11">Part 11</a></li><li><a href="/testi/dickens/atomized/sketches_by_boz/story_37_the_mudfog_and_other_sketches/part_12">Part 12</a></li></ul>
+</nav>
 
 
 THE MUDFOG AND OTHER SKETCHES

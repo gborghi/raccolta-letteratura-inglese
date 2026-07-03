@@ -12,6 +12,10 @@ tags:
 <div class="excerpt-crumb">Chesterton · <a href="/works/poet-and-lunatics-(chesterton)">Poet and Lunatics</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/poet_and_lunatics/story_01_the_fantastic_friends">‹ Story 01 THE FANTASTIC FRIENDS</a><a class="ex-next" href="/testi/chesterton/atomized/poet_and_lunatics/story_03_the_shadow_shadow_of_the_shark">Story 03 THE Shadow SHADOW OF THE SHARK ›</a></div>
 </nav>
+<nav class="excerpt-children">
+<div class="excerpt-children-label">In questa sezione</div>
+<ul><li><a href="/testi/chesterton/atomized/poet_and_lunatics/story_02_the_yellow_bird/part_01">Part 1</a></li><li><a href="/testi/chesterton/atomized/poet_and_lunatics/story_02_the_yellow_bird/part_02">Part 2</a></li><li><a href="/testi/chesterton/atomized/poet_and_lunatics/story_02_the_yellow_bird/part_03">Part 3</a></li><li><a href="/testi/chesterton/atomized/poet_and_lunatics/story_02_the_yellow_bird/part_04">Part 4</a></li><li><a href="/testi/chesterton/atomized/poet_and_lunatics/story_02_the_yellow_bird/part_05">Part 5</a></li><li><a href="/testi/chesterton/atomized/poet_and_lunatics/story_02_the_yellow_bird/part_06">Part 6</a></li><li><a href="/testi/chesterton/atomized/poet_and_lunatics/story_02_the_yellow_bird/part_07">Part 7</a></li></ul>
+</nav>
 
 
 THE YELLOW BIRD

@@ -9,7 +9,7 @@ tags:
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Shakespeare · <a href="/works/henry-vi-part-one-(shakespeare)">Henry VI Part One</a></div>
+<div class="excerpt-crumb">Shakespeare · <a href="/works/henry-vi-part-one-(shakespeare)">Henry VI Part One</a> › <a href="/testi/shakespeare/plays/henry_vi_part_one/act_3/scene_7">Scene 7</a></div>
 </nav>
 
 

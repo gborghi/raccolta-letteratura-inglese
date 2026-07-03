@@ -9,7 +9,7 @@ tags:
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Bronte · <a href="/works/agnes-grey-(bronte)">Agnes Grey</a></div>
+<div class="excerpt-crumb">Bronte · <a href="/works/agnes-grey-(bronte)">Agnes Grey</a> › <a href="/testi/bronte/atomized/agnes_grey/chapter_05">Chapter 05</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/bronte/atomized/agnes_grey/chapter_05/part_01">‹ part 01</a><a class="ex-next" href="/testi/bronte/atomized/agnes_grey/chapter_07/part_01">part 01 ›</a></div>
 </nav>
 

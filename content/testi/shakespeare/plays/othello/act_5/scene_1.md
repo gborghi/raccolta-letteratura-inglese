@@ -12,6 +12,10 @@ tags:
 <div class="excerpt-crumb">Shakespeare · <a href="/works/othello-(shakespeare)">Othello</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/shakespeare/plays/othello/act_4/scene_3">‹ Scene 3</a><a class="ex-next" href="/testi/shakespeare/plays/othello/act_5/scene_2">Scene 2 ›</a></div>
 </nav>
+<nav class="excerpt-children">
+<div class="excerpt-children-label">In questa sezione</div>
+<ul><li><a href="/testi/shakespeare/plays/othello/act_5/scene_1/01_exchange_dialogue">01 exchange dialogue</a></li><li><a href="/testi/shakespeare/plays/othello/act_5/scene_1/02_exchange_iago_o">02 exchange IAGO O</a></li><li><a href="/testi/shakespeare/plays/othello/act_5/scene_1/03_exchange_bianca">03 exchange BIANCA</a></li></ul>
+</nav>
 
 
 | Chi parla | Battuta |

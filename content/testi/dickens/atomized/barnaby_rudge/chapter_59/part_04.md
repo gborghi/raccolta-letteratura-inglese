@@ -9,7 +9,7 @@ tags:
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Dickens · <a href="/works/barnaby-rudge-(dickens)">Barnaby Rudge</a></div>
+<div class="excerpt-crumb">Dickens · <a href="/works/barnaby-rudge-(dickens)">Barnaby Rudge</a> › <a href="/testi/dickens/atomized/barnaby_rudge/chapter_59">Chapter 59</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/barnaby_rudge/chapter_59/part_03">‹ part 03</a><a class="ex-next" href="/testi/dickens/atomized/barnaby_rudge/chapter_61/part_01">part 01 ›</a></div>
 </nav>
 

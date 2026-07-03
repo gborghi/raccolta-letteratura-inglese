@@ -12,6 +12,10 @@ tags:
 <div class="excerpt-crumb">Chesterton · <a href="/works/the-flying-inn-(chesterton)">The Flying Inn</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/the_flying_inn/chapter_20_the_turk_and_the_futurists">‹ Chapter 20 THE TURK AND THE FUTURISTS</a><a class="ex-next" href="/testi/chesterton/atomized/the_flying_inn/chapter_22_the_chemistry_of_mr_crooke">Chapter 22 THE CHEMISTRY OF MR CROOKE ›</a></div>
 </nav>
+<nav class="excerpt-children">
+<div class="excerpt-children-label">In questa sezione</div>
+<ul><li><a href="/testi/chesterton/atomized/the_flying_inn/chapter_21_the_road_road_to_roundabout/part_01">Part 1</a></li><li><a href="/testi/chesterton/atomized/the_flying_inn/chapter_21_the_road_road_to_roundabout/part_02">Part 2</a></li><li><a href="/testi/chesterton/atomized/the_flying_inn/chapter_21_the_road_road_to_roundabout/part_03">Part 3</a></li><li><a href="/testi/chesterton/atomized/the_flying_inn/chapter_21_the_road_road_to_roundabout/part_04">Part 4</a></li></ul>
+</nav>
 
 
 CHAPTER XXI: THE [[Road|ROAD]] TO ROUNDABOUT

@@ -9,7 +9,7 @@ tags:
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Poe · <a href="/works/the-narrative-of-arthur-gordon-pym-of-nantucket-(poe)">The Narrative of Arthur Gordon Pym of Nantucket</a></div>
+<div class="excerpt-crumb">Poe · <a href="/works/the-narrative-of-arthur-gordon-pym-of-nantucket-(poe)">The Narrative of Arthur Gordon Pym of Nantucket</a> › <a href="/testi/poe/atomized/the_narrative_of_arthur_gordon_pym_of_nantucket/chapter_03">Chapter 03</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/poe/atomized/the_narrative_of_arthur_gordon_pym_of_nantucket/chapter_03/part_01">‹ part 01</a><a class="ex-next" href="/testi/poe/atomized/the_narrative_of_arthur_gordon_pym_of_nantucket/chapter_03/part_03">part 03 ›</a></div>
 </nav>
 

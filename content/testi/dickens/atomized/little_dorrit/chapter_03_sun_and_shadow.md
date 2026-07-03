@@ -12,6 +12,10 @@ tags:
 <div class="excerpt-crumb">Dickens · <a href="/works/little-dorrit-(dickens)">Little Dorrit</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/little_dorrit/chapter_02_riches">‹ Chapter 02 RICHES</a><a class="ex-next" href="/testi/dickens/atomized/little_dorrit/chapter_04_fellow_travellers">Chapter 04 Fellow Travellers ›</a></div>
 </nav>
+<nav class="excerpt-children">
+<div class="excerpt-children-label">In questa sezione</div>
+<ul><li><a href="/testi/dickens/atomized/little_dorrit/chapter_03_sun_and_shadow/part_01">Part 1</a></li><li><a href="/testi/dickens/atomized/little_dorrit/chapter_03_sun_and_shadow/part_02">Part 2</a></li><li><a href="/testi/dickens/atomized/little_dorrit/chapter_03_sun_and_shadow/part_03">Part 3</a></li><li><a href="/testi/dickens/atomized/little_dorrit/chapter_03_sun_and_shadow/part_04">Part 4</a></li><li><a href="/testi/dickens/atomized/little_dorrit/chapter_03_sun_and_shadow/part_05">Part 5</a></li></ul>
+</nav>
 
 
 BOOK THE FIRST: [[Poverty|POVERTY]]

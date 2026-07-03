@@ -12,6 +12,10 @@ tags:
 <div class="excerpt-crumb">Chesterton · <a href="/works/ball-and-cross-(chesterton)">The Ball and the Cross</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/ball_and_cross/story_14_the_idiot">‹ Story 14 The Idiot</a><a class="ex-next" href="/testi/chesterton/atomized/ball_and_cross/story_16_dies_irae">Story 16 Dies Irae ›</a></div>
 </nav>
+<nav class="excerpt-children">
+<div class="excerpt-children-label">In questa sezione</div>
+<ul><li><a href="/testi/chesterton/atomized/ball_and_cross/story_15_the_last_parley/part_01">Part 1</a></li><li><a href="/testi/chesterton/atomized/ball_and_cross/story_15_the_last_parley/part_02">Part 2</a></li><li><a href="/testi/chesterton/atomized/ball_and_cross/story_15_the_last_parley/part_03">Part 3</a></li></ul>
+</nav>
 
 
 XIX.  THE LAST PARLEY

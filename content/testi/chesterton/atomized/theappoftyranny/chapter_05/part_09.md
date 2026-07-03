@@ -9,7 +9,7 @@ tags:
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/works/theappoftyranny-(chesterton)">TheAppOfTyranny</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/theappoftyranny-(chesterton)">TheAppOfTyranny</a> › <a href="/testi/chesterton/atomized/theappoftyranny/chapter_05">Chapter 05</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/theappoftyranny/chapter_05/part_08">‹ part 08</a><a class="ex-next" href="/testi/chesterton/atomized/theappoftyranny/chapter_05/part_10">part 10 ›</a></div>
 </nav>
 

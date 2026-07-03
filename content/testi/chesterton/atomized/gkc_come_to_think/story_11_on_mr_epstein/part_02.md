@@ -9,7 +9,7 @@ tags:
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/works/gkc-come-to-think-(chesterton)">GKC Come to Think</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/gkc-come-to-think-(chesterton)">GKC Come to Think</a> › <a href="/testi/chesterton/atomized/gkc_come_to_think/story_11_on_mr_epstein">Story 11 ON MR EPSTEIN</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/gkc_come_to_think/story_11_on_mr_epstein/part_01">‹ part 01</a><a class="ex-next" href="/testi/chesterton/atomized/gkc_come_to_think/story_42_on_dickens_and_after/part_01">part 01 ›</a></div>
 </nav>
 

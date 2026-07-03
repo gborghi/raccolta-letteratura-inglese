@@ -12,6 +12,10 @@ tags:
 <div class="excerpt-crumb">Shakespeare · <a href="/works/richard-iii-(shakespeare)">Richard III</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/shakespeare/plays/richard_iii/act_1/scene_1">‹ Scene 1</a><a class="ex-next" href="/testi/shakespeare/plays/richard_iii/act_1/scene_3">Scene 3 ›</a></div>
 </nav>
+<nav class="excerpt-children">
+<div class="excerpt-children-label">In questa sezione</div>
+<ul><li><a href="/testi/shakespeare/plays/richard_iii/act_1/scene_2/01_exchange_dialogue">01 exchange dialogue</a></li><li><a href="/testi/shakespeare/plays/richard_iii/act_1/scene_2/02_monologue_lady_anne">02 monologue LADY ANNE</a></li><li><a href="/testi/shakespeare/plays/richard_iii/act_1/scene_2/03_exchange_richard_gloucester">03 exchange RICHARD GLOUCESTER</a></li><li><a href="/testi/shakespeare/plays/richard_iii/act_1/scene_2/04_exchange_lady_anne">04 exchange LADY ANNE</a></li><li><a href="/testi/shakespeare/plays/richard_iii/act_1/scene_2/05_exchange_richard_gloucester">05 exchange RICHARD GLOUCESTER</a></li><li><a href="/testi/shakespeare/plays/richard_iii/act_1/scene_2/06_monologue_richard_gloucester">06 monologue RICHARD GLOUCESTER</a></li><li><a href="/testi/shakespeare/plays/richard_iii/act_1/scene_2/07_exchange_lady_anne">07 exchange LADY ANNE</a></li><li><a href="/testi/shakespeare/plays/richard_iii/act_1/scene_2/08_monologue_richard_gloucester">08 monologue RICHARD GLOUCESTER</a></li></ul>
+</nav>
 
 
 | Chi parla | Battuta |

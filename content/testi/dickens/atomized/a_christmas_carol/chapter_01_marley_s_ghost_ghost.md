@@ -12,6 +12,10 @@ tags:
 <div class="excerpt-crumb">Dickens · <a href="/works/a-christmas-carol-(dickens)">A Christmas Carol</a></div>
 <div class="excerpt-pn"><span></span><a class="ex-next" href="/testi/dickens/atomized/a_christmas_carol/chapter_02_the_first_of_the_three_spirits">Chapter 02 THE FIRST OF THE THREE SPIRITS ›</a></div>
 </nav>
+<nav class="excerpt-children">
+<div class="excerpt-children-label">In questa sezione</div>
+<ul><li><a href="/testi/dickens/atomized/a_christmas_carol/chapter_01_marley_s_ghost_ghost/part_01">Part 1</a></li><li><a href="/testi/dickens/atomized/a_christmas_carol/chapter_01_marley_s_ghost_ghost/part_02">Part 2</a></li><li><a href="/testi/dickens/atomized/a_christmas_carol/chapter_01_marley_s_ghost_ghost/part_03">Part 3</a></li><li><a href="/testi/dickens/atomized/a_christmas_carol/chapter_01_marley_s_ghost_ghost/part_04">Part 4</a></li><li><a href="/testi/dickens/atomized/a_christmas_carol/chapter_01_marley_s_ghost_ghost/part_05">Part 5</a></li><li><a href="/testi/dickens/atomized/a_christmas_carol/chapter_01_marley_s_ghost_ghost/part_06">Part 6</a></li></ul>
+</nav>
 
 
 STAVE I:  MARLEY'S [[Ghost|GHOST]]

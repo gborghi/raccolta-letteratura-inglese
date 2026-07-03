@@ -12,6 +12,10 @@ tags:
 <div class="excerpt-crumb">Chesterton · <a href="/works/the-flying-inn-(chesterton)">The Flying Inn</a></div>
 <div class="excerpt-pn"><span></span><a class="ex-next" href="/testi/chesterton/atomized/the_flying_inn/chapter_02_the_end_of_olive_island">Chapter 02 THE END OF OLIVE ISLAND ›</a></div>
 </nav>
+<nav class="excerpt-children">
+<div class="excerpt-children-label">In questa sezione</div>
+<ul><li><a href="/testi/chesterton/atomized/the_flying_inn/chapter_01_a_sermon_on_inns/part_01">Part 1</a></li><li><a href="/testi/chesterton/atomized/the_flying_inn/chapter_01_a_sermon_on_inns/part_02">Part 2</a></li><li><a href="/testi/chesterton/atomized/the_flying_inn/chapter_01_a_sermon_on_inns/part_03">Part 3</a></li></ul>
+</nav>
 
 
 CHAPTER I: A SERMON ON INNS

@@ -12,6 +12,10 @@ tags:
 <div class="excerpt-crumb">Shakespeare · <a href="/works/the-tempest-(shakespeare)">The Tempest</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/shakespeare/plays/the_tempest/act_1/scene_1">‹ Scene 1</a><a class="ex-next" href="/testi/shakespeare/plays/the_tempest/act_2/scene_1">Scene 1 ›</a></div>
 </nav>
+<nav class="excerpt-children">
+<div class="excerpt-children-label">In questa sezione</div>
+<ul><li><a href="/testi/shakespeare/plays/the_tempest/act_1/scene_2/01_exchange_dialogue">01 exchange dialogue</a></li><li><a href="/testi/shakespeare/plays/the_tempest/act_1/scene_2/02_exchange_miranda">02 exchange MIRANDA</a></li><li><a href="/testi/shakespeare/plays/the_tempest/act_1/scene_2/03_exchange_miranda">03 exchange MIRANDA</a></li><li><a href="/testi/shakespeare/plays/the_tempest/act_1/scene_2/04_exchange_prospero">04 exchange PROSPERO</a></li><li><a href="/testi/shakespeare/plays/the_tempest/act_1/scene_2/05_exchange_ariel">05 exchange ARIEL</a></li><li><a href="/testi/shakespeare/plays/the_tempest/act_1/scene_2/06_exchange_ariel">06 exchange ARIEL</a></li><li><a href="/testi/shakespeare/plays/the_tempest/act_1/scene_2/07_exchange_ariel">07 exchange ARIEL</a></li><li><a href="/testi/shakespeare/plays/the_tempest/act_1/scene_2/08_exchange_miranda">08 exchange MIRANDA</a></li><li><a href="/testi/shakespeare/plays/the_tempest/act_1/scene_2/09_exchange_ariel">09 exchange ARIEL</a></li></ul>
+</nav>
 
 
 | Chi parla | Battuta |

@@ -14,6 +14,10 @@ tags:
 <div class="excerpt-crumb">Sayers · <a href="/works/the-mind-of-the-maker-(sayers)">The Mind of the Maker</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/sayers/atomized/the_mind_of_the_maker/chapter_02_the_laws_of_nature_and_opinion">‹ Chapter 02 The Laws of Nature and Opinion</a><a class="ex-next" href="/testi/sayers/atomized/the_mind_of_the_maker/chapter_04_idea_energy_power">Chapter 04 Idea Energy Power ›</a></div>
 </nav>
+<nav class="excerpt-children">
+<div class="excerpt-children-label">In questa sezione</div>
+<ul><li><a href="/testi/sayers/atomized/the_mind_of_the_maker/chapter_03_the_image_of_god/part_01">Part 1</a></li><li><a href="/testi/sayers/atomized/the_mind_of_the_maker/chapter_03_the_image_of_god/part_02">Part 2</a></li><li><a href="/testi/sayers/atomized/the_mind_of_the_maker/chapter_03_the_image_of_god/part_03">Part 3</a></li></ul>
+</nav>
 
 
 CHAPTER 3. The Image of God

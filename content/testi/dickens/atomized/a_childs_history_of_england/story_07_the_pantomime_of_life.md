@@ -12,6 +12,10 @@ tags:
 <div class="excerpt-crumb">Dickens · <a href="/works/a-child's-history-of-england-(dickens)">A Childs History of England</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/a_childs_history_of_england/story_06_bar_room_black_boy_and_stomach_ache">‹ Story 06 Bar Room Black Boy And Stomach Ache</a><a class="ex-next" href="/testi/dickens/atomized/a_childs_history_of_england/story_01_the_mudfog_and_other_sketches/part_01">part 01 ›</a></div>
 </nav>
+<nav class="excerpt-children">
+<div class="excerpt-children-label">In questa sezione</div>
+<ul><li><a href="/testi/dickens/atomized/a_childs_history_of_england/story_07_the_pantomime_of_life/part_01">Part 1</a></li><li><a href="/testi/dickens/atomized/a_childs_history_of_england/story_07_the_pantomime_of_life/part_02">Part 2</a></li><li><a href="/testi/dickens/atomized/a_childs_history_of_england/story_07_the_pantomime_of_life/part_03">Part 3</a></li><li><a href="/testi/dickens/atomized/a_childs_history_of_england/story_07_the_pantomime_of_life/part_04">Part 4</a></li><li><a href="/testi/dickens/atomized/a_childs_history_of_england/story_07_the_pantomime_of_life/part_05">Part 5</a></li><li><a href="/testi/dickens/atomized/a_childs_history_of_england/story_07_the_pantomime_of_life/part_06">Part 6</a></li><li><a href="/testi/dickens/atomized/a_childs_history_of_england/story_07_the_pantomime_of_life/part_07">Part 7</a></li><li><a href="/testi/dickens/atomized/a_childs_history_of_england/story_07_the_pantomime_of_life/part_08">Part 8</a></li></ul>
+</nav>
 
 
 THE PANTOMIME OF LIFE

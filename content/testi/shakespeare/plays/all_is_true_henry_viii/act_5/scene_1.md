@@ -12,6 +12,10 @@ tags:
 <div class="excerpt-crumb">Shakespeare · <a href="/works/all-is-true---(henry-viii)-(shakespeare)">All Is True Henry VIII</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/shakespeare/plays/all_is_true_henry_viii/act_4/scene_1">‹ Scene 1</a><a class="ex-next" href="/testi/shakespeare/plays/all_is_true_henry_viii/act_5/scene_3">Scene 3 ›</a></div>
 </nav>
+<nav class="excerpt-children">
+<div class="excerpt-children-label">In questa sezione</div>
+<ul><li><a href="/testi/shakespeare/plays/all_is_true_henry_viii/act_5/scene_1/01_exchange_dialogue">01 exchange dialogue</a></li><li><a href="/testi/shakespeare/plays/all_is_true_henry_viii/act_5/scene_1/02_exchange_king_henry">02 exchange KING HENRY</a></li><li><a href="/testi/shakespeare/plays/all_is_true_henry_viii/act_5/scene_1/03_exchange_king_henry">03 exchange KING HENRY</a></li><li><a href="/testi/shakespeare/plays/all_is_true_henry_viii/act_5/scene_1/04_exchange_old_lady">04 exchange OLD LADY</a></li><li><a href="/testi/shakespeare/plays/all_is_true_henry_viii/act_5/scene_1/05_monologue_king_henry">05 monologue KING HENRY</a></li><li><a href="/testi/shakespeare/plays/all_is_true_henry_viii/act_5/scene_1/06_exchange_lord_chancellor">06 exchange LORD CHANCELLOR</a></li><li><a href="/testi/shakespeare/plays/all_is_true_henry_viii/act_5/scene_1/07_exchange_gardiner">07 exchange GARDINER</a></li><li><a href="/testi/shakespeare/plays/all_is_true_henry_viii/act_5/scene_1/08_exchange_surrey">08 exchange SURREY</a></li></ul>
+</nav>
 
 
 | Chi parla | Battuta |

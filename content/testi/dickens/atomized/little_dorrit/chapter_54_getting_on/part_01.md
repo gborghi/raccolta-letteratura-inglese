@@ -9,7 +9,7 @@ tags:
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Dickens · <a href="/works/little-dorrit-(dickens)">Little Dorrit</a></div>
+<div class="excerpt-crumb">Dickens · <a href="/works/little-dorrit-(dickens)">Little Dorrit</a> › <a href="/testi/dickens/atomized/little_dorrit/chapter_54_getting_on">Chapter 54 Getting on</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/little_dorrit/chapter_53_no_just_cause_or_impediment_wh/part_06">‹ part 06</a><a class="ex-next" href="/testi/dickens/atomized/little_dorrit/chapter_54_getting_on/part_02">part 02 ›</a></div>
 </nav>
 

@@ -12,6 +12,10 @@ tags:
 <div class="excerpt-crumb">Whitman · <a href="/works/the-wound-dresser-(whitman)">The Wound Dresser</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/whitman/atomized/the_wound_dresser/story_02_he_remained_very_sick_vomiting_much_ever">‹ Story 02 He remained very sick vomiting much ever</a><a class="ex-next" href="/testi/whitman/atomized/the_wound_dresser/story_04_pound_bag_of_gingersnaps_i_bought_at_a_b">Story 04 pound bag of gingersnaps I bought at a b ›</a></div>
 </nav>
+<nav class="excerpt-children">
+<div class="excerpt-children-label">In questa sezione</div>
+<ul><li><a href="/testi/whitman/atomized/the_wound_dresser/story_03_in_ward_e_of_armory_hospital_i_found_a_m/part_01">Part 1</a></li><li><a href="/testi/whitman/atomized/the_wound_dresser/story_03_in_ward_e_of_armory_hospital_i_found_a_m/part_02">Part 2</a></li></ul>
+</nav>
 
 
 Fourteenth. In Ward E of Armory hospital I found a member of Company C of

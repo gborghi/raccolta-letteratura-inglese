@@ -12,6 +12,10 @@ tags:
 <div class="excerpt-crumb">Chesterton · <a href="/works/trees-of-pride-(chesterton)">The Trees of Pride</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/trees_of_pride/story_03_the_tale_of_the_peacock_trees">‹ Story 03 THE TALE OF THE PEACOCK TREES</a><a class="ex-next" href="/testi/chesterton/atomized/trees_of_pride/story_05_the_mystery_of_the_well_well">Story 05 THE MYSTERY OF THE Well WELL ›</a></div>
 </nav>
+<nav class="excerpt-children">
+<div class="excerpt-children-label">In questa sezione</div>
+<ul><li><a href="/testi/chesterton/atomized/trees_of_pride/story_04_the_wager_of_squire_vane/part_01">Part 1</a></li><li><a href="/testi/chesterton/atomized/trees_of_pride/story_04_the_wager_of_squire_vane/part_02">Part 2</a></li><li><a href="/testi/chesterton/atomized/trees_of_pride/story_04_the_wager_of_squire_vane/part_03">Part 3</a></li><li><a href="/testi/chesterton/atomized/trees_of_pride/story_04_the_wager_of_squire_vane/part_04">Part 4</a></li><li><a href="/testi/chesterton/atomized/trees_of_pride/story_04_the_wager_of_squire_vane/part_05">Part 5</a></li><li><a href="/testi/chesterton/atomized/trees_of_pride/story_04_the_wager_of_squire_vane/part_06">Part 6</a></li></ul>
+</nav>
 
 
 II.  THE WAGER OF SQUIRE VANE

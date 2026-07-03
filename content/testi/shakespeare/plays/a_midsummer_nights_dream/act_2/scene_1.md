@@ -12,6 +12,10 @@ tags:
 <div class="excerpt-crumb">Shakespeare · <a href="/works/a-midsummer-night’s-dream-(shakespeare)">A Midsummer Nights Dream</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/shakespeare/plays/a_midsummer_nights_dream/act_1/scene_2">‹ Scene 2</a><a class="ex-next" href="/testi/shakespeare/plays/a_midsummer_nights_dream/act_2/scene_2">Scene 2 ›</a></div>
 </nav>
+<nav class="excerpt-children">
+<div class="excerpt-children-label">In questa sezione</div>
+<ul><li><a href="/testi/shakespeare/plays/a_midsummer_nights_dream/act_2/scene_1/01_exchange_dialogue">01 exchange dialogue</a></li><li><a href="/testi/shakespeare/plays/a_midsummer_nights_dream/act_2/scene_1/02_exchange_oberon">02 exchange OBERON</a></li><li><a href="/testi/shakespeare/plays/a_midsummer_nights_dream/act_2/scene_1/03_monologue_titania">03 monologue TITANIA</a></li><li><a href="/testi/shakespeare/plays/a_midsummer_nights_dream/act_2/scene_1/04_exchange_oberon">04 exchange OBERON</a></li><li><a href="/testi/shakespeare/plays/a_midsummer_nights_dream/act_2/scene_1/05_exchange_demetrius">05 exchange DEMETRIUS</a></li><li><a href="/testi/shakespeare/plays/a_midsummer_nights_dream/act_2/scene_1/06_exchange_robin">06 exchange ROBIN</a></li></ul>
+</nav>
 
 
 | Chi parla | Battuta |

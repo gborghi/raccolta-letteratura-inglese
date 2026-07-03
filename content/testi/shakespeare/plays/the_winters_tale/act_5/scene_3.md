@@ -12,6 +12,10 @@ tags:
 <div class="excerpt-crumb">Shakespeare · <a href="/works/the-winter’s-tale-(shakespeare)">The Winters Tale</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/shakespeare/plays/the_winters_tale/act_5/scene_2">‹ Scene 2</a><span></span></div>
 </nav>
+<nav class="excerpt-children">
+<div class="excerpt-children-label">In questa sezione</div>
+<ul><li><a href="/testi/shakespeare/plays/the_winters_tale/act_5/scene_3/01_exchange_dialogue">01 exchange dialogue</a></li><li><a href="/testi/shakespeare/plays/the_winters_tale/act_5/scene_3/02_exchange_leontes">02 exchange LEONTES</a></li><li><a href="/testi/shakespeare/plays/the_winters_tale/act_5/scene_3/03_exchange_hermione">03 exchange HERMIONE</a></li><li><a href="/testi/shakespeare/plays/the_winters_tale/act_5/scene_3/04_monologue_leontes">04 monologue LEONTES</a></li><li><a href="/testi/shakespeare/plays/the_winters_tale/act_5/scene_3/05_exchange_the_tragedy_of_king_lear">05 exchange THE TRAGEDY OF KING LEAR</a></li><li><a href="/testi/shakespeare/plays/the_winters_tale/act_5/scene_3/06_monologue_the">06 monologue THE</a></li><li><a href="/testi/shakespeare/plays/the_winters_tale/act_5/scene_3/07_exchange_the_persons_of_the_play">07 exchange THE PERSONS OF THE PLAY</a></li></ul>
+</nav>
 
 
 | Chi parla | Battuta |

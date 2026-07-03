@@ -9,7 +9,7 @@ tags:
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/works/thecrimesofengland-(chesterton)">TheCrimesOfEngland</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/thecrimesofengland-(chesterton)">TheCrimesOfEngland</a> › <a href="/testi/chesterton/atomized/thecrimesofengland/chapter_10">Chapter 10</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/thecrimesofengland/chapter_10/part_30">‹ part 30</a><a class="ex-next" href="/testi/chesterton/atomized/thecrimesofengland/chapter_10/part_32">part 32 ›</a></div>
 </nav>
 

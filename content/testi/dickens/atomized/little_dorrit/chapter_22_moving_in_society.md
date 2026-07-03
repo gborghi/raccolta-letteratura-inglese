@@ -12,6 +12,10 @@ tags:
 <div class="excerpt-crumb">Dickens · <a href="/works/little-dorrit-(dickens)">Little Dorrit</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/little_dorrit/chapter_21_the_father_of_the_marshalsea_i">‹ Chapter 21 The Father of the Marshalsea i</a><a class="ex-next" href="/testi/dickens/atomized/little_dorrit/chapter_23_mr_merdle_s_complaint">Chapter 23 Mr Merdle s Complaint ›</a></div>
 </nav>
+<nav class="excerpt-children">
+<div class="excerpt-children-label">In questa sezione</div>
+<ul><li><a href="/testi/dickens/atomized/little_dorrit/chapter_22_moving_in_society/part_01">Part 1</a></li><li><a href="/testi/dickens/atomized/little_dorrit/chapter_22_moving_in_society/part_02">Part 2</a></li><li><a href="/testi/dickens/atomized/little_dorrit/chapter_22_moving_in_society/part_03">Part 3</a></li><li><a href="/testi/dickens/atomized/little_dorrit/chapter_22_moving_in_society/part_04">Part 4</a></li><li><a href="/testi/dickens/atomized/little_dorrit/chapter_22_moving_in_society/part_05">Part 5</a></li></ul>
+</nav>
 
 
 CHAPTER 20. Moving in Society

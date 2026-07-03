@@ -9,7 +9,7 @@ tags:
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Shakespeare · <a href="/works/the-merchant-of-venice-(shakespeare)">The Merchant of Venice</a></div>
+<div class="excerpt-crumb">Shakespeare · <a href="/works/the-merchant-of-venice-(shakespeare)">The Merchant of Venice</a> › <a href="/testi/shakespeare/plays/the_merchant_of_venice/act_1/scene_3">Scene 3</a></div>
 </nav>
 
 

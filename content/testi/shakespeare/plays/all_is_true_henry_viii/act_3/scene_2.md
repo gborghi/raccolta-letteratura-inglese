@@ -12,6 +12,10 @@ tags:
 <div class="excerpt-crumb">Shakespeare · <a href="/works/all-is-true---(henry-viii)-(shakespeare)">All Is True Henry VIII</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/shakespeare/plays/all_is_true_henry_viii/act_2/scene_4">‹ Scene 4</a><a class="ex-next" href="/testi/shakespeare/plays/all_is_true_henry_viii/act_4/scene_1">Scene 1 ›</a></div>
 </nav>
+<nav class="excerpt-children">
+<div class="excerpt-children-label">In questa sezione</div>
+<ul><li><a href="/testi/shakespeare/plays/all_is_true_henry_viii/act_3/scene_2/01_exchange_dialogue">01 exchange dialogue</a></li><li><a href="/testi/shakespeare/plays/all_is_true_henry_viii/act_3/scene_2/02_exchange_lord_chamberlain">02 exchange LORD CHAMBERLAIN</a></li><li><a href="/testi/shakespeare/plays/all_is_true_henry_viii/act_3/scene_2/03_exchange_king_henry">03 exchange KING HENRY</a></li><li><a href="/testi/shakespeare/plays/all_is_true_henry_viii/act_3/scene_2/04_exchange_king_henry">04 exchange KING HENRY</a></li><li><a href="/testi/shakespeare/plays/all_is_true_henry_viii/act_3/scene_2/05_monologue_cardinal_wolsey">05 monologue CARDINAL WOLSEY</a></li><li><a href="/testi/shakespeare/plays/all_is_true_henry_viii/act_3/scene_2/06_exchange_norfolk">06 exchange NORFOLK</a></li><li><a href="/testi/shakespeare/plays/all_is_true_henry_viii/act_3/scene_2/07_exchange_cardinal_wolsey">07 exchange CARDINAL WOLSEY</a></li><li><a href="/testi/shakespeare/plays/all_is_true_henry_viii/act_3/scene_2/08_monologue_cardinal_wolsey">08 monologue CARDINAL WOLSEY</a></li><li><a href="/testi/shakespeare/plays/all_is_true_henry_viii/act_3/scene_2/09_exchange_cromwell">09 exchange CROMWELL</a></li><li><a href="/testi/shakespeare/plays/all_is_true_henry_viii/act_3/scene_2/10_monologue_cardinal_wolsey">10 monologue CARDINAL WOLSEY</a></li><li><a href="/testi/shakespeare/plays/all_is_true_henry_viii/act_3/scene_2/11_exchange_cromwell">11 exchange CROMWELL</a></li></ul>
+</nav>
 
 
 | Chi parla | Battuta |

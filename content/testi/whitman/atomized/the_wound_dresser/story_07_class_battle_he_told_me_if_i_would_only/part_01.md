@@ -9,7 +9,7 @@ tags:
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Whitman · <a href="/works/the-wound-dresser-(whitman)">The Wound Dresser</a></div>
+<div class="excerpt-crumb">Whitman · <a href="/works/the-wound-dresser-(whitman)">The Wound Dresser</a> › <a href="/testi/whitman/atomized/the_wound_dresser/story_07_class_battle_he_told_me_if_i_would_only">Story 07 class battle he told me if I would only</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/whitman/atomized/the_wound_dresser/story_06_class_success_i_have_known_tennessee_uni/part_06">‹ part 06</a><a class="ex-next" href="/testi/whitman/atomized/the_wound_dresser/story_07_class_battle_he_told_me_if_i_would_only/part_02">part 02 ›</a></div>
 </nav>
 

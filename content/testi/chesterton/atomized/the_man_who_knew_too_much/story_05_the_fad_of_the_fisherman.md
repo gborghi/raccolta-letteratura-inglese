@@ -12,6 +12,10 @@ tags:
 <div class="excerpt-crumb">Chesterton · <a href="/works/the-man-who-knew-too-much-(chesterton)">The Man Who Knew Too Much</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/the_man_who_knew_too_much/story_04_the_bottomless_well">‹ Story 04 The Bottomless Well</a><a class="ex-next" href="/testi/chesterton/atomized/the_man_who_knew_too_much/story_06_the_hole_in_the_wall">Story 06 The Hole in the Wall ›</a></div>
 </nav>
+<nav class="excerpt-children">
+<div class="excerpt-children-label">In questa sezione</div>
+<ul><li><a href="/testi/chesterton/atomized/the_man_who_knew_too_much/story_05_the_fad_of_the_fisherman/part_01">Part 1</a></li><li><a href="/testi/chesterton/atomized/the_man_who_knew_too_much/story_05_the_fad_of_the_fisherman/part_02">Part 2</a></li><li><a href="/testi/chesterton/atomized/the_man_who_knew_too_much/story_05_the_fad_of_the_fisherman/part_03">Part 3</a></li><li><a href="/testi/chesterton/atomized/the_man_who_knew_too_much/story_05_the_fad_of_the_fisherman/part_04">Part 4</a></li><li><a href="/testi/chesterton/atomized/the_man_who_knew_too_much/story_05_the_fad_of_the_fisherman/part_05">Part 5</a></li><li><a href="/testi/chesterton/atomized/the_man_who_knew_too_much/story_05_the_fad_of_the_fisherman/part_06">Part 6</a></li><li><a href="/testi/chesterton/atomized/the_man_who_knew_too_much/story_05_the_fad_of_the_fisherman/part_07">Part 7</a></li></ul>
+</nav>
 
 
 V - The Fad of the Fisherman

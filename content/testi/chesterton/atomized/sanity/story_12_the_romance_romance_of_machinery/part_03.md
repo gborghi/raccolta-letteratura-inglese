@@ -9,7 +9,7 @@ tags:
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/works/sanity-(chesterton)">Sanity</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/sanity-(chesterton)">Sanity</a> › <a href="/testi/chesterton/atomized/sanity/story_12_the_romance_romance_of_machinery">Story 12 THE Romance ROMANCE OF MACHINERY</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/sanity/story_12_the_romance_romance_of_machinery/part_02">‹ part 02</a><a class="ex-next" href="/testi/chesterton/atomized/sanity/story_13_the_holiday_of_the_slave/part_01">part 01 ›</a></div>
 </nav>
 

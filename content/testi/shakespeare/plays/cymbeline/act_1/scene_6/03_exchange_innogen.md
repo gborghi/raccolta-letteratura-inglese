@@ -9,7 +9,7 @@ tags:
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Shakespeare · <a href="/works/cymbeline-(shakespeare)">Cymbeline</a></div>
+<div class="excerpt-crumb">Shakespeare · <a href="/works/cymbeline-(shakespeare)">Cymbeline</a> › <a href="/testi/shakespeare/plays/cymbeline/act_1/scene_6">Scene 6</a></div>
 </nav>
 
 

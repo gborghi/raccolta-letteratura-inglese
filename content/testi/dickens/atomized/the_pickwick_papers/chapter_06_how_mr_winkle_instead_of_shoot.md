@@ -12,6 +12,10 @@ tags:
 <div class="excerpt-crumb">Dickens · <a href="/works/the-pickwick-papers-(dickens)">The Pickwick Papers</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/the_pickwick_papers/chapter_05_an_old_fashioned_card_party_th">‹ Chapter 05 AN OLD FASHIONED CARD PARTY TH</a><a class="ex-next" href="/testi/dickens/atomized/the_pickwick_papers/chapter_07_strongly_illustrative_of_the_p">Chapter 07 STRONGLY ILLUSTRATIVE OF THE P ›</a></div>
 </nav>
+<nav class="excerpt-children">
+<div class="excerpt-children-label">In questa sezione</div>
+<ul><li><a href="/testi/dickens/atomized/the_pickwick_papers/chapter_06_how_mr_winkle_instead_of_shoot/part_01">Part 1</a></li><li><a href="/testi/dickens/atomized/the_pickwick_papers/chapter_06_how_mr_winkle_instead_of_shoot/part_02">Part 2</a></li><li><a href="/testi/dickens/atomized/the_pickwick_papers/chapter_06_how_mr_winkle_instead_of_shoot/part_03">Part 3</a></li><li><a href="/testi/dickens/atomized/the_pickwick_papers/chapter_06_how_mr_winkle_instead_of_shoot/part_04">Part 4</a></li><li><a href="/testi/dickens/atomized/the_pickwick_papers/chapter_06_how_mr_winkle_instead_of_shoot/part_05">Part 5</a></li></ul>
+</nav>
 
 
 CHAPTER VII. HOW MR. WINKLE, INSTEAD OF SHOOTING AT THE PIGEON AND

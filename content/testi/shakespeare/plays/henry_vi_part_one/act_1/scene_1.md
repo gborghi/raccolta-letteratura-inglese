@@ -12,6 +12,10 @@ tags:
 <div class="excerpt-crumb">Shakespeare · <a href="/works/henry-vi-part-one-(shakespeare)">Henry VI Part One</a></div>
 <div class="excerpt-pn"><span></span><a class="ex-next" href="/testi/shakespeare/plays/henry_vi_part_one/act_1/scene_2">Scene 2 ›</a></div>
 </nav>
+<nav class="excerpt-children">
+<div class="excerpt-children-label">In questa sezione</div>
+<ul><li><a href="/testi/shakespeare/plays/henry_vi_part_one/act_1/scene_1/01_exchange_dialogue">01 exchange dialogue</a></li><li><a href="/testi/shakespeare/plays/henry_vi_part_one/act_1/scene_1/02_exchange_messenger">02 exchange MESSENGER</a></li><li><a href="/testi/shakespeare/plays/henry_vi_part_one/act_1/scene_1/03_monologue_third_messenger">03 monologue THIRD MESSENGER</a></li><li><a href="/testi/shakespeare/plays/henry_vi_part_one/act_1/scene_1/04_exchange_bedford">04 exchange BEDFORD</a></li></ul>
+</nav>
 
 
 | Chi parla | Battuta |

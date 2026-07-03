@@ -12,6 +12,10 @@ tags:
 <div class="excerpt-crumb">Chesterton · <a href="/works/common-man-(chesterton)">Common Man</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/common_man/story_22_the_new_case_for_catholic_schools">‹ Story 22 The New Case For Catholic Schools</a><a class="ex-next" href="/testi/chesterton/atomized/common_man/story_24_vandalism">Story 24 Vandalism ›</a></div>
 </nav>
+<nav class="excerpt-children">
+<div class="excerpt-children-label">In questa sezione</div>
+<ul><li><a href="/testi/chesterton/atomized/common_man/story_23_vulgarity/part_01">Part 1</a></li><li><a href="/testi/chesterton/atomized/common_man/story_23_vulgarity/part_02">Part 2</a></li><li><a href="/testi/chesterton/atomized/common_man/story_23_vulgarity/part_03">Part 3</a></li></ul>
+</nav>
 
 
 VULGARITY

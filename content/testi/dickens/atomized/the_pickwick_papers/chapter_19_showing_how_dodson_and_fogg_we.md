@@ -12,6 +12,10 @@ tags:
 <div class="excerpt-crumb">Dickens · <a href="/works/the-pickwick-papers-(dickens)">The Pickwick Papers</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/the_pickwick_papers/chapter_18_a_pleasant_day_with_an_unpleas">‹ Chapter 18 A PLEASANT DAY WITH AN UNPLEAS</a><a class="ex-next" href="/testi/dickens/atomized/the_pickwick_papers/chapter_20_in_which_the_old_man_launches">Chapter 20 IN WHICH THE OLD MAN LAUNCHES ›</a></div>
 </nav>
+<nav class="excerpt-children">
+<div class="excerpt-children-label">In questa sezione</div>
+<ul><li><a href="/testi/dickens/atomized/the_pickwick_papers/chapter_19_showing_how_dodson_and_fogg_we/part_01">Part 1</a></li><li><a href="/testi/dickens/atomized/the_pickwick_papers/chapter_19_showing_how_dodson_and_fogg_we/part_02">Part 2</a></li><li><a href="/testi/dickens/atomized/the_pickwick_papers/chapter_19_showing_how_dodson_and_fogg_we/part_03">Part 3</a></li><li><a href="/testi/dickens/atomized/the_pickwick_papers/chapter_19_showing_how_dodson_and_fogg_we/part_04">Part 4</a></li><li><a href="/testi/dickens/atomized/the_pickwick_papers/chapter_19_showing_how_dodson_and_fogg_we/part_05">Part 5</a></li><li><a href="/testi/dickens/atomized/the_pickwick_papers/chapter_19_showing_how_dodson_and_fogg_we/part_06">Part 6</a></li></ul>
+</nav>
 
 
 CHAPTER XX. SHOWING HOW DODSON AND FOGG WERE MEN OF BUSINESS, AND THEIR

@@ -12,6 +12,10 @@ tags:
 <div class="excerpt-crumb">Shakespeare · <a href="/works/coriolanus-(shakespeare)">Coriolanus</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/shakespeare/plays/coriolanus/act_1/scene_11">‹ Scene 11</a><a class="ex-next" href="/testi/shakespeare/plays/coriolanus/act_2/scene_2">Scene 2 ›</a></div>
 </nav>
+<nav class="excerpt-children">
+<div class="excerpt-children-label">In questa sezione</div>
+<ul><li><a href="/testi/shakespeare/plays/coriolanus/act_2/scene_1/01_exchange_dialogue">01 exchange dialogue</a></li><li><a href="/testi/shakespeare/plays/coriolanus/act_2/scene_1/02_monologue_menenius_i">02 monologue MENENIUS I</a></li><li><a href="/testi/shakespeare/plays/coriolanus/act_2/scene_1/03_exchange_brutus">03 exchange BRUTUS</a></li><li><a href="/testi/shakespeare/plays/coriolanus/act_2/scene_1/04_exchange_menenius">04 exchange MENENIUS</a></li><li><a href="/testi/shakespeare/plays/coriolanus/act_2/scene_1/05_exchange_cominius">05 exchange COMINIUS</a></li><li><a href="/testi/shakespeare/plays/coriolanus/act_2/scene_1/06_exchange_sicinius">06 exchange SICINIUS</a></li></ul>
+</nav>
 
 
 | Chi parla | Battuta |

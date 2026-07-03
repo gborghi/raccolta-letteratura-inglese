@@ -12,6 +12,10 @@ tags:
 <div class="excerpt-crumb">Shakespeare · <a href="/works/love’s-labour’s-lost-(shakespeare)">Loves Labours Lost</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/shakespeare/plays/loves_labours_lost/act_4/scene_2">‹ Scene 2</a><a class="ex-next" href="/testi/shakespeare/plays/loves_labours_lost/act_5/scene_1">Scene 1 ›</a></div>
 </nav>
+<nav class="excerpt-children">
+<div class="excerpt-children-label">In questa sezione</div>
+<ul><li><a href="/testi/shakespeare/plays/loves_labours_lost/act_4/scene_3/01_exchange_dialogue">01 exchange dialogue</a></li><li><a href="/testi/shakespeare/plays/loves_labours_lost/act_4/scene_3/02_monologue_biron">02 monologue BIRON</a></li><li><a href="/testi/shakespeare/plays/loves_labours_lost/act_4/scene_3/03_exchange_king">03 exchange KING</a></li><li><a href="/testi/shakespeare/plays/loves_labours_lost/act_4/scene_3/04_monologue_king">04 monologue KING</a></li><li><a href="/testi/shakespeare/plays/loves_labours_lost/act_4/scene_3/05_exchange_biron">05 exchange BIRON</a></li><li><a href="/testi/shakespeare/plays/loves_labours_lost/act_4/scene_3/06_exchange_longueville">06 exchange LONGUEVILLE</a></li><li><a href="/testi/shakespeare/plays/loves_labours_lost/act_4/scene_3/07_monologue_king">07 monologue KING</a></li><li><a href="/testi/shakespeare/plays/loves_labours_lost/act_4/scene_3/08_monologue_biron">08 monologue BIRON</a></li><li><a href="/testi/shakespeare/plays/loves_labours_lost/act_4/scene_3/09_exchange_king">09 exchange KING</a></li><li><a href="/testi/shakespeare/plays/loves_labours_lost/act_4/scene_3/10_exchange_biron">10 exchange BIRON</a></li><li><a href="/testi/shakespeare/plays/loves_labours_lost/act_4/scene_3/11_monologue_biron">11 monologue BIRON</a></li><li><a href="/testi/shakespeare/plays/loves_labours_lost/act_4/scene_3/12_exchange_king">12 exchange KING</a></li></ul>
+</nav>
 
 
 | Chi parla | Battuta |

@@ -12,6 +12,10 @@ tags:
 <div class="excerpt-crumb">Dickens · <a href="/works/martin-chuzzlewit-(dickens)">Martin Chuzzlewit</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/martin_chuzzlewit/chapter_39_thirty_nine">‹ Chapter 39 THIRTY NINE</a><a class="ex-next" href="/testi/dickens/atomized/martin_chuzzlewit/chapter_41_forty_one">Chapter 41 FORTY ONE ›</a></div>
 </nav>
+<nav class="excerpt-children">
+<div class="excerpt-children-label">In questa sezione</div>
+<ul><li><a href="/testi/dickens/atomized/martin_chuzzlewit/chapter_40_forty/part_01">Part 1</a></li><li><a href="/testi/dickens/atomized/martin_chuzzlewit/chapter_40_forty/part_02">Part 2</a></li><li><a href="/testi/dickens/atomized/martin_chuzzlewit/chapter_40_forty/part_03">Part 3</a></li><li><a href="/testi/dickens/atomized/martin_chuzzlewit/chapter_40_forty/part_04">Part 4</a></li><li><a href="/testi/dickens/atomized/martin_chuzzlewit/chapter_40_forty/part_05">Part 5</a></li><li><a href="/testi/dickens/atomized/martin_chuzzlewit/chapter_40_forty/part_06">Part 6</a></li></ul>
+</nav>
 
 
 CHAPTER FORTY

@@ -9,7 +9,7 @@ tags:
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Dickens · <a href="/works/a-christmas-carol-(dickens)">A Christmas Carol</a></div>
+<div class="excerpt-crumb">Dickens · <a href="/works/a-christmas-carol-(dickens)">A Christmas Carol</a> › <a href="/testi/dickens/atomized/a_christmas_carol/chapter_02_the_first_of_the_three_spirits">Chapter 02 THE FIRST OF THE THREE SPIRITS</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/a_christmas_carol/chapter_02_the_first_of_the_three_spirits/part_05">‹ part 05</a><a class="ex-next" href="/testi/dickens/atomized/a_christmas_carol/chapter_03_the_second_of_the_three_spirit/part_01">part 01 ›</a></div>
 </nav>
 

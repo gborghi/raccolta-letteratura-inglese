@@ -12,6 +12,10 @@ tags:
 <div class="excerpt-crumb">Shakespeare · <a href="/works/twelfth-night-(shakespeare)">Twelfth Night</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/shakespeare/plays/twelfth_night/act_2/scene_4">‹ Scene 4</a><a class="ex-next" href="/testi/shakespeare/plays/twelfth_night/act_3/scene_1">Scene 1 ›</a></div>
 </nav>
+<nav class="excerpt-children">
+<div class="excerpt-children-label">In questa sezione</div>
+<ul><li><a href="/testi/shakespeare/plays/twelfth_night/act_2/scene_5/01_exchange_dialogue">01 exchange dialogue</a></li><li><a href="/testi/shakespeare/plays/twelfth_night/act_2/scene_5/02_exchange_malvolio">02 exchange MALVOLIO</a></li><li><a href="/testi/shakespeare/plays/twelfth_night/act_2/scene_5/03_monologue_malvolio_moai">03 monologue MALVOLIO MOAI</a></li><li><a href="/testi/shakespeare/plays/twelfth_night/act_2/scene_5/04_exchange_fabian_i">04 exchange FABIAN I</a></li></ul>
+</nav>
 
 
 | Chi parla | Battuta |

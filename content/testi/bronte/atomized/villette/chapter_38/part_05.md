@@ -9,7 +9,7 @@ tags:
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Bronte · <a href="/works/villette-(bronte)">Villette</a></div>
+<div class="excerpt-crumb">Bronte · <a href="/works/villette-(bronte)">Villette</a> › <a href="/testi/bronte/atomized/villette/chapter_38">Chapter 38</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/bronte/atomized/villette/chapter_38/part_04">‹ part 04</a><a class="ex-next" href="/testi/bronte/atomized/villette/chapter_39/part_01">part 01 ›</a></div>
 </nav>
 

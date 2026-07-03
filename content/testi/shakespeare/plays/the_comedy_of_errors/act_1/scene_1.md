@@ -12,6 +12,10 @@ tags:
 <div class="excerpt-crumb">Shakespeare · <a href="/works/the-comedy-of-errors-(shakespeare)">The Comedy of Errors</a></div>
 <div class="excerpt-pn"><span></span><a class="ex-next" href="/testi/shakespeare/plays/the_comedy_of_errors/act_1/scene_2">Scene 2 ›</a></div>
 </nav>
+<nav class="excerpt-children">
+<div class="excerpt-children-label">In questa sezione</div>
+<ul><li><a href="/testi/shakespeare/plays/the_comedy_of_errors/act_1/scene_1/01_exchange_dialogue">01 exchange dialogue</a></li><li><a href="/testi/shakespeare/plays/the_comedy_of_errors/act_1/scene_1/02_monologue_duke">02 monologue DUKE</a></li><li><a href="/testi/shakespeare/plays/the_comedy_of_errors/act_1/scene_1/03_exchange_egeon">03 exchange EGEON</a></li><li><a href="/testi/shakespeare/plays/the_comedy_of_errors/act_1/scene_1/04_monologue_egeon">04 monologue EGEON</a></li><li><a href="/testi/shakespeare/plays/the_comedy_of_errors/act_1/scene_1/05_exchange_duke">05 exchange DUKE</a></li><li><a href="/testi/shakespeare/plays/the_comedy_of_errors/act_1/scene_1/06_monologue_egeon">06 monologue EGEON</a></li><li><a href="/testi/shakespeare/plays/the_comedy_of_errors/act_1/scene_1/07_exchange_duke">07 exchange DUKE</a></li></ul>
+</nav>
 
 
 | Chi parla | Battuta |

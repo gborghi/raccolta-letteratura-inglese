@@ -9,7 +9,7 @@ tags:
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/works/napoleon-of-notting-hill-(chesterton)">Napoleon of Notting Hill</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/napoleon-of-notting-hill-(chesterton)">Napoleon of Notting Hill</a> › <a href="/testi/chesterton/atomized/napoleon_of_notting_hill/chapter_12">Chapter 12</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/napoleon_of_notting_hill/chapter_11/part_03">‹ part 03</a><a class="ex-next" href="/testi/chesterton/atomized/napoleon_of_notting_hill/chapter_12/part_02">part 02 ›</a></div>
 </nav>
 

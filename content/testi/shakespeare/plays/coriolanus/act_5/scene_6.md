@@ -12,6 +12,10 @@ tags:
 <div class="excerpt-crumb">Shakespeare · <a href="/works/coriolanus-(shakespeare)">Coriolanus</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/shakespeare/plays/coriolanus/act_5/scene_4">‹ Scene 4</a><span></span></div>
 </nav>
+<nav class="excerpt-children">
+<div class="excerpt-children-label">In questa sezione</div>
+<ul><li><a href="/testi/shakespeare/plays/coriolanus/act_5/scene_6/01_exchange_dialogue">01 exchange dialogue</a></li><li><a href="/testi/shakespeare/plays/coriolanus/act_5/scene_6/02_exchange_aufidius">02 exchange AUFIDIUS</a></li><li><a href="/testi/shakespeare/plays/coriolanus/act_5/scene_6/03_exchange_all_the_conspirators">03 exchange ALL THE CONSPIRATORS</a></li><li><a href="/testi/shakespeare/plays/coriolanus/act_5/scene_6/04_monologue_the">04 monologue THE</a></li><li><a href="/testi/shakespeare/plays/coriolanus/act_5/scene_6/05_exchange_the_persons_of_the_play">05 exchange THE PERSONS OF THE PLAY</a></li></ul>
+</nav>
 
 
 | Chi parla | Battuta |

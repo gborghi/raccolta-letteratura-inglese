@@ -12,6 +12,10 @@ tags:
 <div class="excerpt-crumb">Chesterton · <a href="/works/conversion-(chesterton)">The Catholic Church and Conversion</a></div>
 <div class="excerpt-pn"><span></span><a class="ex-next" href="/testi/chesterton/atomized/conversion/chapter_02_the_obvious_blunders">Chapter 02 THE OBVIOUS BLUNDERS ›</a></div>
 </nav>
+<nav class="excerpt-children">
+<div class="excerpt-children-label">In questa sezione</div>
+<ul><li><a href="/testi/chesterton/atomized/conversion/chapter_01_introductory_a_new_religion/part_01">Part 1</a></li><li><a href="/testi/chesterton/atomized/conversion/chapter_01_introductory_a_new_religion/part_02">Part 2</a></li></ul>
+</nav>
 
 # [[conversion]] — Chapter 1: INTRODUCTORY:  A NEW RELIGION
 

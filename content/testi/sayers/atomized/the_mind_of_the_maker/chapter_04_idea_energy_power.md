@@ -14,6 +14,10 @@ tags:
 <div class="excerpt-crumb">Sayers · <a href="/works/the-mind-of-the-maker-(sayers)">The Mind of the Maker</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/sayers/atomized/the_mind_of_the_maker/chapter_03_the_image_of_god">‹ Chapter 03 The Image of God</a><a class="ex-next" href="/testi/sayers/atomized/the_mind_of_the_maker/chapter_05_the_energy_revealed_in_creatio">Chapter 05 The Energy Revealed in Creatio ›</a></div>
 </nav>
+<nav class="excerpt-children">
+<div class="excerpt-children-label">In questa sezione</div>
+<ul><li><a href="/testi/sayers/atomized/the_mind_of_the_maker/chapter_04_idea_energy_power/part_01">Part 1</a></li><li><a href="/testi/sayers/atomized/the_mind_of_the_maker/chapter_04_idea_energy_power/part_02">Part 2</a></li><li><a href="/testi/sayers/atomized/the_mind_of_the_maker/chapter_04_idea_energy_power/part_03">Part 3</a></li></ul>
+</nav>
 
 
 CHAPTER 4. Idea, Energy, Power

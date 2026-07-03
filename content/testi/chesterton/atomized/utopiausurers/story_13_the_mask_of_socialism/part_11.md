@@ -9,7 +9,7 @@ tags:
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/works/utopiausurers-(chesterton)">UtopiaUsurers</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/utopiausurers-(chesterton)">UtopiaUsurers</a> › <a href="/testi/chesterton/atomized/utopiausurers/story_13_the_mask_of_socialism">Story 13 THE MASK OF SOCIALISM</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/utopiausurers/story_13_the_mask_of_socialism/part_10">‹ part 10</a><a class="ex-next" href="/testi/chesterton/atomized/utopiausurers/story_13_the_mask_of_socialism/part_12">part 12 ›</a></div>
 </nav>
 

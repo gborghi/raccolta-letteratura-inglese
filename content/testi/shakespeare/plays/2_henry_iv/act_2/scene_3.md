@@ -12,6 +12,10 @@ tags:
 <div class="excerpt-crumb">Shakespeare · <a href="/works/2-henry-iv-(shakespeare)">2 Henry IV</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/shakespeare/plays/2_henry_iv/act_2/scene_2">‹ Scene 2</a><a class="ex-next" href="/testi/shakespeare/plays/2_henry_iv/act_3/scene_1">Scene 1 ›</a></div>
 </nav>
+<nav class="excerpt-children">
+<div class="excerpt-children-label">In questa sezione</div>
+<ul><li><a href="/testi/shakespeare/plays/2_henry_iv/act_2/scene_3/01_exchange_dialogue">01 exchange dialogue</a></li><li><a href="/testi/shakespeare/plays/2_henry_iv/act_2/scene_3/02_monologue_lady_percy">02 monologue LADY PERCY</a></li><li><a href="/testi/shakespeare/plays/2_henry_iv/act_2/scene_3/03_exchange_northumberland">03 exchange NORTHUMBERLAND</a></li><li><a href="/testi/shakespeare/plays/2_henry_iv/act_2/scene_3/04_monologue_northumberland">04 monologue NORTHUMBERLAND</a></li><li><a href="/testi/shakespeare/plays/2_henry_iv/act_2/scene_3/05_exchange_mistress_quickly">05 exchange MISTRESS QUICKLY</a></li><li><a href="/testi/shakespeare/plays/2_henry_iv/act_2/scene_3/06_exchange_sir_john">06 exchange SIR JOHN</a></li><li><a href="/testi/shakespeare/plays/2_henry_iv/act_2/scene_3/07_exchange_pistol">07 exchange PISTOL</a></li><li><a href="/testi/shakespeare/plays/2_henry_iv/act_2/scene_3/08_exchange_sir_john_a">08 exchange SIR JOHN A</a></li><li><a href="/testi/shakespeare/plays/2_henry_iv/act_2/scene_3/09_exchange_sir_john">09 exchange SIR JOHN</a></li><li><a href="/testi/shakespeare/plays/2_henry_iv/act_2/scene_3/10_exchange_mistress_quickly">10 exchange MISTRESS QUICKLY</a></li></ul>
+</nav>
 
 
 | Chi parla | Battuta |

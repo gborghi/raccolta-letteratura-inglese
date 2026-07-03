@@ -12,6 +12,10 @@ tags:
 <div class="excerpt-crumb">Dickens · <a href="/works/david-copperfield-(dickens)">David Copperfield</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/david_copperfield/chapter_22_some_old_scenes_and_some_new_p">‹ Chapter 22 SOME OLD SCENES AND SOME NEW P</a><a class="ex-next" href="/testi/dickens/atomized/david_copperfield/chapter_24_my_first_dissipation">Chapter 24 MY FIRST DISSIPATION ›</a></div>
 </nav>
+<nav class="excerpt-children">
+<div class="excerpt-children-label">In questa sezione</div>
+<ul><li><a href="/testi/dickens/atomized/david_copperfield/chapter_23_i_corroborate_mr_dick_and_choo/part_01">Part 1</a></li><li><a href="/testi/dickens/atomized/david_copperfield/chapter_23_i_corroborate_mr_dick_and_choo/part_02">Part 2</a></li><li><a href="/testi/dickens/atomized/david_copperfield/chapter_23_i_corroborate_mr_dick_and_choo/part_03">Part 3</a></li><li><a href="/testi/dickens/atomized/david_copperfield/chapter_23_i_corroborate_mr_dick_and_choo/part_04">Part 4</a></li><li><a href="/testi/dickens/atomized/david_copperfield/chapter_23_i_corroborate_mr_dick_and_choo/part_05">Part 5</a></li></ul>
+</nav>
 
 
 CHAPTER 23. I CORROBORATE Mr. DICK, AND CHOOSE A PROFESSION

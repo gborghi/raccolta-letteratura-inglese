@@ -9,7 +9,7 @@ tags:
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Austen · <a href="/works/northanger-abbey-(austen)">Northanger Abbey</a></div>
+<div class="excerpt-crumb">Austen · <a href="/works/northanger-abbey-(austen)">Northanger Abbey</a> › <a href="/testi/austen/atomized/northanger_abbey/chapter_09">Chapter 09</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/austen/atomized/northanger_abbey/chapter_09/part_01">‹ part 01</a><a class="ex-next" href="/testi/austen/atomized/northanger_abbey/chapter_09/part_03">part 03 ›</a></div>
 </nav>
 

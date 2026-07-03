@@ -12,6 +12,10 @@ tags:
 <div class="excerpt-crumb">Dickens · <a href="/works/little-dorrit-(dickens)">Little Dorrit</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/little_dorrit/chapter_49_a_letter_from_little_dorrit">‹ Chapter 49 A Letter from Little Dorrit</a><a class="ex-next" href="/testi/dickens/atomized/little_dorrit/chapter_51_the_progress_of_an_epidemic">Chapter 51 The Progress of an Epidemic ›</a></div>
 </nav>
+<nav class="excerpt-children">
+<div class="excerpt-children-label">In questa sezione</div>
+<ul><li><a href="/testi/dickens/atomized/little_dorrit/chapter_50_in_which_a_great_patriotic_con/part_01">Part 1</a></li><li><a href="/testi/dickens/atomized/little_dorrit/chapter_50_in_which_a_great_patriotic_con/part_02">Part 2</a></li><li><a href="/testi/dickens/atomized/little_dorrit/chapter_50_in_which_a_great_patriotic_con/part_03">Part 3</a></li><li><a href="/testi/dickens/atomized/little_dorrit/chapter_50_in_which_a_great_patriotic_con/part_04">Part 4</a></li><li><a href="/testi/dickens/atomized/little_dorrit/chapter_50_in_which_a_great_patriotic_con/part_05">Part 5</a></li><li><a href="/testi/dickens/atomized/little_dorrit/chapter_50_in_which_a_great_patriotic_con/part_06">Part 6</a></li></ul>
+</nav>
 
 
 CHAPTER 12. In which a Great Patriotic Conference is holden

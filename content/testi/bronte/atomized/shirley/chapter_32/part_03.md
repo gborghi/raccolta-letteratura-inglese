@@ -9,7 +9,7 @@ tags:
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Bronte · <a href="/works/shirley-(bronte)">Shirley</a></div>
+<div class="excerpt-crumb">Bronte · <a href="/works/shirley-(bronte)">Shirley</a> › <a href="/testi/bronte/atomized/shirley/chapter_32">Chapter 32</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/bronte/atomized/shirley/chapter_32/part_02">‹ part 02</a><a class="ex-next" href="/testi/bronte/atomized/shirley/chapter_32/part_04">part 04 ›</a></div>
 </nav>
 

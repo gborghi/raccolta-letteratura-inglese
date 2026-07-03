@@ -14,6 +14,10 @@ tags:
 <div class="excerpt-crumb">Chesterton · <a href="/works/heret12-(chesterton)">Heretics</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/heret12/story_12_celts_and_celtophiles">‹ Story 12 Celts and Celtophiles</a><a class="ex-next" href="/testi/chesterton/atomized/heret12/story_14_on_smart_novelists_and_the_smart_set">Story 14 On Smart Novelists and the Smart Set ›</a></div>
 </nav>
+<nav class="excerpt-children">
+<div class="excerpt-children-label">In questa sezione</div>
+<ul><li><a href="/testi/chesterton/atomized/heret12/story_13_on_certain_modern_writers_and_the_instit/part_01">Part 1</a></li><li><a href="/testi/chesterton/atomized/heret12/story_13_on_certain_modern_writers_and_the_instit/part_02">Part 2</a></li><li><a href="/testi/chesterton/atomized/heret12/story_13_on_certain_modern_writers_and_the_instit/part_03">Part 3</a></li></ul>
+</nav>
 
 # [[heret12]] — On Certain Modern Writers and the Institution of the Family
 

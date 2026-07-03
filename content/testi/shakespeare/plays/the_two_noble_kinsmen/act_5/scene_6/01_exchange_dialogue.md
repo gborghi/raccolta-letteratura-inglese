@@ -9,7 +9,7 @@ tags:
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Shakespeare · <a href="/works/the-two-noble-kinsmen-(shakespeare)">The Two Noble Kinsmen</a></div>
+<div class="excerpt-crumb">Shakespeare · <a href="/works/the-two-noble-kinsmen-(shakespeare)">The Two Noble Kinsmen</a> › <a href="/testi/shakespeare/plays/the_two_noble_kinsmen/act_5/scene_6">Scene 6</a></div>
 </nav>
 
 

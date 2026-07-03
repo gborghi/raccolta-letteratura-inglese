@@ -12,6 +12,10 @@ tags:
 <div class="excerpt-crumb">Chesterton · <a href="/works/aquinas-(chesterton)">St. Thomas Aquinas</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/aquinas/chapter_05">‹ Chapter 05</a><a class="ex-next" href="/testi/chesterton/atomized/aquinas/chapter_07">Chapter 07 ›</a></div>
 </nav>
+<nav class="excerpt-children">
+<div class="excerpt-children-label">In questa sezione</div>
+<ul><li><a href="/testi/chesterton/atomized/aquinas/chapter_06/part_01">Part 1</a></li><li><a href="/testi/chesterton/atomized/aquinas/chapter_06/part_02">Part 2</a></li><li><a href="/testi/chesterton/atomized/aquinas/chapter_06/part_03">Part 3</a></li><li><a href="/testi/chesterton/atomized/aquinas/chapter_06/part_04">Part 4</a></li><li><a href="/testi/chesterton/atomized/aquinas/chapter_06/part_05">Part 5</a></li><li><a href="/testi/chesterton/atomized/aquinas/chapter_06/part_06">Part 6</a></li></ul>
+</nav>
 
 # [[aquinas]] — Chapter 7
 

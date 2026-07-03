@@ -12,6 +12,10 @@ tags:
 <div class="excerpt-crumb">Chesterton · <a href="/works/the-thing-(chesterton)">The Thing</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/the_thing/story_01_introduction">‹ Story 01 INTRODUCTION</a><a class="ex-next" href="/testi/chesterton/atomized/the_thing/story_03_the_drift_from_domesticity">Story 03 THE DRIFT FROM DOMESTICITY ›</a></div>
 </nav>
+<nav class="excerpt-children">
+<div class="excerpt-children-label">In questa sezione</div>
+<ul><li><a href="/testi/chesterton/atomized/the_thing/story_02_is_humanism_a_religion/part_01">Part 1</a></li><li><a href="/testi/chesterton/atomized/the_thing/story_02_is_humanism_a_religion/part_02">Part 2</a></li><li><a href="/testi/chesterton/atomized/the_thing/story_02_is_humanism_a_religion/part_03">Part 3</a></li><li><a href="/testi/chesterton/atomized/the_thing/story_02_is_humanism_a_religion/part_04">Part 4</a></li></ul>
+</nav>
 
 
 IS HUMANISM A RELIGION?

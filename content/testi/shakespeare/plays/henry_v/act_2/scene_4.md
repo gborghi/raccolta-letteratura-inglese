@@ -12,6 +12,10 @@ tags:
 <div class="excerpt-crumb">Shakespeare · <a href="/works/henry-v-(shakespeare)">Henry V</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/shakespeare/plays/henry_v/act_2/scene_3">‹ Scene 3</a><a class="ex-next" href="/testi/shakespeare/plays/henry_v/act_3/scene_1">Scene 1 ›</a></div>
 </nav>
+<nav class="excerpt-children">
+<div class="excerpt-children-label">In questa sezione</div>
+<ul><li><a href="/testi/shakespeare/plays/henry_v/act_2/scene_4/01_exchange_dialogue">01 exchange dialogue</a></li><li><a href="/testi/shakespeare/plays/henry_v/act_2/scene_4/02_exchange_messenger">02 exchange MESSENGER</a></li><li><a href="/testi/shakespeare/plays/henry_v/act_2/scene_4/03_exchange_exeter">03 exchange EXETER</a></li><li><a href="/testi/shakespeare/plays/henry_v/act_2/scene_4/04_monologue_chorus">04 monologue CHORUS</a></li></ul>
+</nav>
 
 
 | Chi parla | Battuta |

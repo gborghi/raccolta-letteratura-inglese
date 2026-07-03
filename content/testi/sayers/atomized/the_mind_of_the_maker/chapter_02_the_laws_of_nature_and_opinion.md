@@ -14,6 +14,10 @@ tags:
 <div class="excerpt-crumb">Sayers · <a href="/works/the-mind-of-the-maker-(sayers)">The Mind of the Maker</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/sayers/atomized/the_mind_of_the_maker/chapter_01_preface">‹ Chapter 01 Preface</a><a class="ex-next" href="/testi/sayers/atomized/the_mind_of_the_maker/chapter_03_the_image_of_god">Chapter 03 The Image of God ›</a></div>
 </nav>
+<nav class="excerpt-children">
+<div class="excerpt-children-label">In questa sezione</div>
+<ul><li><a href="/testi/sayers/atomized/the_mind_of_the_maker/chapter_02_the_laws_of_nature_and_opinion/part_01">Part 1</a></li><li><a href="/testi/sayers/atomized/the_mind_of_the_maker/chapter_02_the_laws_of_nature_and_opinion/part_02">Part 2</a></li><li><a href="/testi/sayers/atomized/the_mind_of_the_maker/chapter_02_the_laws_of_nature_and_opinion/part_03">Part 3</a></li><li><a href="/testi/sayers/atomized/the_mind_of_the_maker/chapter_02_the_laws_of_nature_and_opinion/part_04">Part 4</a></li></ul>
+</nav>
 
 
 CHAPTER 2. The "Laws" of [[Nature]] and Opinion

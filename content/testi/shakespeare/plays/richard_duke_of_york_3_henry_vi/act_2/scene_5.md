@@ -12,6 +12,10 @@ tags:
 <div class="excerpt-crumb">Shakespeare · <a href="/works/richard-duke-of-york---(3-henry-vi)-(shakespeare)">Richard Duke of York 3 Henry VI</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/shakespeare/plays/richard_duke_of_york_3_henry_vi/act_2/scene_3">‹ Scene 3</a><a class="ex-next" href="/testi/shakespeare/plays/richard_duke_of_york_3_henry_vi/act_2/scene_6">Scene 6 ›</a></div>
 </nav>
+<nav class="excerpt-children">
+<div class="excerpt-children-label">In questa sezione</div>
+<ul><li><a href="/testi/shakespeare/plays/richard_duke_of_york_3_henry_vi/act_2/scene_5/01_exchange_dialogue">01 exchange dialogue</a></li><li><a href="/testi/shakespeare/plays/richard_duke_of_york_3_henry_vi/act_2/scene_5/02_monologue_king_henry">02 monologue KING HENRY</a></li><li><a href="/testi/shakespeare/plays/richard_duke_of_york_3_henry_vi/act_2/scene_5/03_exchange_soldier">03 exchange SOLDIER</a></li><li><a href="/testi/shakespeare/plays/richard_duke_of_york_3_henry_vi/act_2/scene_5/04_exchange_second_soldier">04 exchange SECOND SOLDIER</a></li></ul>
+</nav>
 
 
 | Chi parla | Battuta |

@@ -9,7 +9,7 @@ tags:
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Bronte · <a href="/works/the-tenant-of-wildfell-hall-(bronte)">The Tenant of Wildfell Hall</a></div>
+<div class="excerpt-crumb">Bronte · <a href="/works/the-tenant-of-wildfell-hall-(bronte)">The Tenant of Wildfell Hall</a> › <a href="/testi/bronte/atomized/the_tenant_of_wildfell_hall/chapter_17">Chapter 17</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/bronte/atomized/the_tenant_of_wildfell_hall/chapter_17/part_02">‹ part 02</a><a class="ex-next" href="/testi/bronte/atomized/the_tenant_of_wildfell_hall/chapter_18/part_01">part 01 ›</a></div>
 </nav>
 

@@ -12,6 +12,10 @@ tags:
 <div class="excerpt-crumb">Shakespeare · <a href="/works/macbeth-(shakespeare)">Macbeth</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/shakespeare/plays/macbeth/act_4/scene_2">‹ Scene 2</a><a class="ex-next" href="/testi/shakespeare/plays/macbeth/act_5/scene_1">Scene 1 ›</a></div>
 </nav>
+<nav class="excerpt-children">
+<div class="excerpt-children-label">In questa sezione</div>
+<ul><li><a href="/testi/shakespeare/plays/macbeth/act_4/scene_3/01_exchange_dialogue">01 exchange dialogue</a></li><li><a href="/testi/shakespeare/plays/macbeth/act_4/scene_3/02_exchange_macduff">02 exchange MACDUFF</a></li><li><a href="/testi/shakespeare/plays/macbeth/act_4/scene_3/03_monologue_malcolm">03 monologue MALCOLM</a></li><li><a href="/testi/shakespeare/plays/macbeth/act_4/scene_3/04_exchange_macduff">04 exchange MACDUFF</a></li><li><a href="/testi/shakespeare/plays/macbeth/act_4/scene_3/05_exchange_macduff">05 exchange MACDUFF</a></li></ul>
+</nav>
 
 
 | Chi parla | Battuta |

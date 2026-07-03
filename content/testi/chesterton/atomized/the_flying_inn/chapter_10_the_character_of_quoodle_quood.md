@@ -12,6 +12,10 @@ tags:
 <div class="excerpt-crumb">Chesterton · <a href="/works/the-flying-inn-(chesterton)">The Flying Inn</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/the_flying_inn/chapter_09_the_higher_criticism_and_mr_hi">‹ Chapter 09 THE HIGHER CRITICISM AND MR HI</a><a class="ex-next" href="/testi/chesterton/atomized/the_flying_inn/chapter_11_vegetarianism_in_the_drawing_r">Chapter 11 VEGETARIANISM IN THE DRAWING R ›</a></div>
 </nav>
+<nav class="excerpt-children">
+<div class="excerpt-children-label">In questa sezione</div>
+<ul><li><a href="/testi/chesterton/atomized/the_flying_inn/chapter_10_the_character_of_quoodle_quood/part_01">Part 1</a></li><li><a href="/testi/chesterton/atomized/the_flying_inn/chapter_10_the_character_of_quoodle_quood/part_02">Part 2</a></li><li><a href="/testi/chesterton/atomized/the_flying_inn/chapter_10_the_character_of_quoodle_quood/part_03">Part 3</a></li></ul>
+</nav>
 
 
 CHAPTER X: THE CHARACTER OF [[quoodle|QUOODLE]]

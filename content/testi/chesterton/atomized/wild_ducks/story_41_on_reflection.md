@@ -12,6 +12,10 @@ tags:
 <div class="excerpt-crumb">Chesterton · <a href="/works/wild-ducks-(chesterton)">Wild Ducks</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/wild_ducks/story_40_the_refrain_of_the_rover">‹ Story 40 The Refrain of the Rover</a><a class="ex-next" href="/testi/chesterton/atomized/wild_ducks/story_13_the_winter_feast/part_01">part 01 ›</a></div>
 </nav>
+<nav class="excerpt-children">
+<div class="excerpt-children-label">In questa sezione</div>
+<ul><li><a href="/testi/chesterton/atomized/wild_ducks/story_41_on_reflection/part_01">Part 1</a></li><li><a href="/testi/chesterton/atomized/wild_ducks/story_41_on_reflection/part_02">Part 2</a></li><li><a href="/testi/chesterton/atomized/wild_ducks/story_41_on_reflection/part_03">Part 3</a></li></ul>
+</nav>
 
 
 On Reflection

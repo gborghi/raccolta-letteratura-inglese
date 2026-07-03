@@ -14,6 +14,10 @@ tags:
 <div class="excerpt-crumb">Sayers · <a href="/works/the-mind-of-the-maker-(sayers)">The Mind of the Maker</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/sayers/atomized/the_mind_of_the_maker/chapter_12_problem_picture">‹ Chapter 12 Problem Picture</a><a class="ex-next" href="/testi/sayers/atomized/the_mind_of_the_maker/chapter_14_appendix">Chapter 14 Appendix ›</a></div>
 </nav>
+<nav class="excerpt-children">
+<div class="excerpt-children-label">In questa sezione</div>
+<ul><li><a href="/testi/sayers/atomized/the_mind_of_the_maker/chapter_13_postscript_the_worth_of_the_wo/part_01">Part 1</a></li><li><a href="/testi/sayers/atomized/the_mind_of_the_maker/chapter_13_postscript_the_worth_of_the_wo/part_02">Part 2</a></li></ul>
+</nav>
 
 
 CHAPTER 13. Postscript: The Worth of the Work

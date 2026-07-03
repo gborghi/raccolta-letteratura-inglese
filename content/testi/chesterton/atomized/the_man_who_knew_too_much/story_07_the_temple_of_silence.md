@@ -12,6 +12,10 @@ tags:
 <div class="excerpt-crumb">Chesterton · <a href="/works/the-man-who-knew-too-much-(chesterton)">The Man Who Knew Too Much</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/the_man_who_knew_too_much/story_06_the_hole_in_the_wall">‹ Story 06 The Hole in the Wall</a><a class="ex-next" href="/testi/chesterton/atomized/the_man_who_knew_too_much/story_08_the_vengeance_of_the_statue">Story 08 The Vengeance of the Statue ›</a></div>
 </nav>
+<nav class="excerpt-children">
+<div class="excerpt-children-label">In questa sezione</div>
+<ul><li><a href="/testi/chesterton/atomized/the_man_who_knew_too_much/story_07_the_temple_of_silence/part_01">Part 1</a></li><li><a href="/testi/chesterton/atomized/the_man_who_knew_too_much/story_07_the_temple_of_silence/part_02">Part 2</a></li><li><a href="/testi/chesterton/atomized/the_man_who_knew_too_much/story_07_the_temple_of_silence/part_03">Part 3</a></li><li><a href="/testi/chesterton/atomized/the_man_who_knew_too_much/story_07_the_temple_of_silence/part_04">Part 4</a></li><li><a href="/testi/chesterton/atomized/the_man_who_knew_too_much/story_07_the_temple_of_silence/part_05">Part 5</a></li><li><a href="/testi/chesterton/atomized/the_man_who_knew_too_much/story_07_the_temple_of_silence/part_06">Part 6</a></li><li><a href="/testi/chesterton/atomized/the_man_who_knew_too_much/story_07_the_temple_of_silence/part_07">Part 7</a></li><li><a href="/testi/chesterton/atomized/the_man_who_knew_too_much/story_07_the_temple_of_silence/part_08">Part 8</a></li><li><a href="/testi/chesterton/atomized/the_man_who_knew_too_much/story_07_the_temple_of_silence/part_09">Part 9</a></li></ul>
+</nav>
 
 
 VII - The Temple of [[Silence]]

@@ -12,6 +12,10 @@ tags:
 <div class="excerpt-crumb">Shakespeare · <a href="/works/richard-iii-(shakespeare)">Richard III</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/shakespeare/plays/richard_iii/act_1/scene_3">‹ Scene 3</a><a class="ex-next" href="/testi/shakespeare/plays/richard_iii/act_2/scene_1">Scene 1 ›</a></div>
 </nav>
+<nav class="excerpt-children">
+<div class="excerpt-children-label">In questa sezione</div>
+<ul><li><a href="/testi/shakespeare/plays/richard_iii/act_1/scene_4/01_exchange_dialogue">01 exchange dialogue</a></li><li><a href="/testi/shakespeare/plays/richard_iii/act_1/scene_4/02_monologue_clarence">02 monologue CLARENCE</a></li><li><a href="/testi/shakespeare/plays/richard_iii/act_1/scene_4/03_exchange_clarence">03 exchange CLARENCE</a></li><li><a href="/testi/shakespeare/plays/richard_iii/act_1/scene_4/04_monologue_clarence">04 monologue CLARENCE</a></li><li><a href="/testi/shakespeare/plays/richard_iii/act_1/scene_4/05_exchange_clarence">05 exchange CLARENCE</a></li><li><a href="/testi/shakespeare/plays/richard_iii/act_1/scene_4/06_exchange_first_murderer">06 exchange FIRST MURDERER</a></li><li><a href="/testi/shakespeare/plays/richard_iii/act_1/scene_4/07_exchange_first_murderer">07 exchange FIRST MURDERER</a></li><li><a href="/testi/shakespeare/plays/richard_iii/act_1/scene_4/08_exchange_second_murderer">08 exchange SECOND MURDERER</a></li></ul>
+</nav>
 
 
 | Chi parla | Battuta |

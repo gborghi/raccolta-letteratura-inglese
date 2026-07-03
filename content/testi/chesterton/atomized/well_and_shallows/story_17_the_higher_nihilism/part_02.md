@@ -9,7 +9,7 @@ tags:
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/works/well-and-shallows-(chesterton)">Well And Shallows</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/well-and-shallows-(chesterton)">Well And Shallows</a> › <a href="/testi/chesterton/atomized/well_and_shallows/story_17_the_higher_nihilism">Story 17 The Higher Nihilism</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/well_and_shallows/story_17_the_higher_nihilism/part_01">‹ part 01</a><a class="ex-next" href="/testi/chesterton/atomized/well_and_shallows/story_20_the_new_luther/part_01">part 01 ›</a></div>
 </nav>
 

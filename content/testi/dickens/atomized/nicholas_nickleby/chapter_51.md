@@ -12,6 +12,10 @@ tags:
 <div class="excerpt-crumb">Dickens · <a href="/works/nicholas-nickleby-(dickens)">Nicholas Nickleby</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/nicholas_nickleby/chapter_50">‹ Chapter 50</a><a class="ex-next" href="/testi/dickens/atomized/nicholas_nickleby/chapter_52">Chapter 52 ›</a></div>
 </nav>
+<nav class="excerpt-children">
+<div class="excerpt-children-label">In questa sezione</div>
+<ul><li><a href="/testi/dickens/atomized/nicholas_nickleby/chapter_51/part_01">Part 1</a></li><li><a href="/testi/dickens/atomized/nicholas_nickleby/chapter_51/part_02">Part 2</a></li><li><a href="/testi/dickens/atomized/nicholas_nickleby/chapter_51/part_03">Part 3</a></li><li><a href="/testi/dickens/atomized/nicholas_nickleby/chapter_51/part_04">Part 4</a></li></ul>
+</nav>
 
 
 CHAPTER 51

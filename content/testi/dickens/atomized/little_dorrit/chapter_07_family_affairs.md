@@ -12,6 +12,10 @@ tags:
 <div class="excerpt-crumb">Dickens · <a href="/works/little-dorrit-(dickens)">Little Dorrit</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/little_dorrit/chapter_06_mrs_flintwinch_has_a_dream_a_d">‹ Chapter 06 Mrs Flintwinch has A Dream a D</a><a class="ex-next" href="/testi/dickens/atomized/little_dorrit/chapter_08_the_father_of_the_marshalsea">Chapter 08 The Father of the Marshalsea ›</a></div>
 </nav>
+<nav class="excerpt-children">
+<div class="excerpt-children-label">In questa sezione</div>
+<ul><li><a href="/testi/dickens/atomized/little_dorrit/chapter_07_family_affairs/part_01">Part 1</a></li><li><a href="/testi/dickens/atomized/little_dorrit/chapter_07_family_affairs/part_02">Part 2</a></li><li><a href="/testi/dickens/atomized/little_dorrit/chapter_07_family_affairs/part_03">Part 3</a></li><li><a href="/testi/dickens/atomized/little_dorrit/chapter_07_family_affairs/part_04">Part 4</a></li></ul>
+</nav>
 
 
 CHAPTER 5. Family Affairs

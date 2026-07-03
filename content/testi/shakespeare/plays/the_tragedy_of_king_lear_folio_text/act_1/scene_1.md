@@ -12,6 +12,10 @@ tags:
 <div class="excerpt-crumb">Shakespeare · <a href="/works/the-tragedy-of-king-lear---the-folio-text-(shakespeare)">The Tragedy of King Lear Folio Text</a></div>
 <div class="excerpt-pn"><span></span><a class="ex-next" href="/testi/shakespeare/plays/the_tragedy_of_king_lear_folio_text/act_1/scene_2">Scene 2 ›</a></div>
 </nav>
+<nav class="excerpt-children">
+<div class="excerpt-children-label">In questa sezione</div>
+<ul><li><a href="/testi/shakespeare/plays/the_tragedy_of_king_lear_folio_text/act_1/scene_1/01_exchange_dialogue">01 exchange dialogue</a></li><li><a href="/testi/shakespeare/plays/the_tragedy_of_king_lear_folio_text/act_1/scene_1/02_exchange_cordelia">02 exchange CORDELIA</a></li><li><a href="/testi/shakespeare/plays/the_tragedy_of_king_lear_folio_text/act_1/scene_1/03_exchange_kent">03 exchange KENT</a></li><li><a href="/testi/shakespeare/plays/the_tragedy_of_king_lear_folio_text/act_1/scene_1/04_exchange_burgundy">04 exchange BURGUNDY</a></li><li><a href="/testi/shakespeare/plays/the_tragedy_of_king_lear_folio_text/act_1/scene_1/05_exchange_france">05 exchange FRANCE</a></li></ul>
+</nav>
 
 
 | Chi parla | Battuta |

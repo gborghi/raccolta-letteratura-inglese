@@ -12,6 +12,10 @@ tags:
 <div class="excerpt-crumb">Shakespeare · <a href="/works/love’s-labour’s-lost-(shakespeare)">Loves Labours Lost</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/shakespeare/plays/loves_labours_lost/act_2/scene_1">‹ Scene 1</a><a class="ex-next" href="/testi/shakespeare/plays/loves_labours_lost/act_4/scene_1">Scene 1 ›</a></div>
 </nav>
+<nav class="excerpt-children">
+<div class="excerpt-children-label">In questa sezione</div>
+<ul><li><a href="/testi/shakespeare/plays/loves_labours_lost/act_3/scene_1/01_exchange_dialogue">01 exchange dialogue</a></li><li><a href="/testi/shakespeare/plays/loves_labours_lost/act_3/scene_1/02_exchange_mote">02 exchange MOTE</a></li><li><a href="/testi/shakespeare/plays/loves_labours_lost/act_3/scene_1/03_exchange_costard">03 exchange COSTARD</a></li><li><a href="/testi/shakespeare/plays/loves_labours_lost/act_3/scene_1/04_monologue_biron">04 monologue BIRON</a></li></ul>
+</nav>
 
 
 | Chi parla | Battuta |

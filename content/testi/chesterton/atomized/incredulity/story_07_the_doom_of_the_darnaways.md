@@ -14,6 +14,10 @@ tags:
 <div class="excerpt-crumb">Chesterton · <a href="/works/incredulity-(chesterton)">Incredulity</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/incredulity/story_06_the_dagger_with_wings">‹ Story 06 The Dagger with Wings</a><a class="ex-next" href="/testi/chesterton/atomized/incredulity/story_08_the_ghost_of_gideon_wise">Story 08 The Ghost of Gideon Wise ›</a></div>
 </nav>
+<nav class="excerpt-children">
+<div class="excerpt-children-label">In questa sezione</div>
+<ul><li><a href="/testi/chesterton/atomized/incredulity/story_07_the_doom_of_the_darnaways/part_01">Part 1</a></li><li><a href="/testi/chesterton/atomized/incredulity/story_07_the_doom_of_the_darnaways/part_02">Part 2</a></li><li><a href="/testi/chesterton/atomized/incredulity/story_07_the_doom_of_the_darnaways/part_03">Part 3</a></li><li><a href="/testi/chesterton/atomized/incredulity/story_07_the_doom_of_the_darnaways/part_04">Part 4</a></li><li><a href="/testi/chesterton/atomized/incredulity/story_07_the_doom_of_the_darnaways/part_05">Part 5</a></li><li><a href="/testi/chesterton/atomized/incredulity/story_07_the_doom_of_the_darnaways/part_06">Part 6</a></li><li><a href="/testi/chesterton/atomized/incredulity/story_07_the_doom_of_the_darnaways/part_07">Part 7</a></li><li><a href="/testi/chesterton/atomized/incredulity/story_07_the_doom_of_the_darnaways/part_08">Part 8</a></li><li><a href="/testi/chesterton/atomized/incredulity/story_07_the_doom_of_the_darnaways/part_09">Part 9</a></li></ul>
+</nav>
 
 
 SEVEN:  The Doom of the Darnaways

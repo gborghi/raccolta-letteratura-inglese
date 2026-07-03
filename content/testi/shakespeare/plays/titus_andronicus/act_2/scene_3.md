@@ -12,6 +12,10 @@ tags:
 <div class="excerpt-crumb">Shakespeare · <a href="/works/titus-andronicus-(shakespeare)">Titus Andronicus</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/shakespeare/plays/titus_andronicus/act_2/scene_2">‹ Scene 2</a><a class="ex-next" href="/testi/shakespeare/plays/titus_andronicus/act_2/scene_4">Scene 4 ›</a></div>
 </nav>
+<nav class="excerpt-children">
+<div class="excerpt-children-label">In questa sezione</div>
+<ul><li><a href="/testi/shakespeare/plays/titus_andronicus/act_2/scene_3/01_exchange_dialogue">01 exchange dialogue</a></li><li><a href="/testi/shakespeare/plays/titus_andronicus/act_2/scene_3/02_monologue_aaron">02 monologue AARON</a></li><li><a href="/testi/shakespeare/plays/titus_andronicus/act_2/scene_3/03_exchange_tamora">03 exchange TAMORA</a></li><li><a href="/testi/shakespeare/plays/titus_andronicus/act_2/scene_3/04_monologue_tamora">04 monologue TAMORA</a></li><li><a href="/testi/shakespeare/plays/titus_andronicus/act_2/scene_3/05_exchange_demetrius">05 exchange DEMETRIUS</a></li><li><a href="/testi/shakespeare/plays/titus_andronicus/act_2/scene_3/06_exchange_tamora">06 exchange TAMORA</a></li><li><a href="/testi/shakespeare/plays/titus_andronicus/act_2/scene_3/07_exchange_quintus">07 exchange QUINTUS</a></li><li><a href="/testi/shakespeare/plays/titus_andronicus/act_2/scene_3/08_exchange_titus">08 exchange TITUS</a></li></ul>
+</nav>
 
 
 | Chi parla | Battuta |

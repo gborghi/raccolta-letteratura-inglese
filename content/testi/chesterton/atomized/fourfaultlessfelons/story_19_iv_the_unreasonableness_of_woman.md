@@ -12,6 +12,10 @@ tags:
 <div class="excerpt-crumb">Chesterton · <a href="/works/fourfaultlessfelons-(chesterton)">FourFaultlessFelons</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/fourfaultlessfelons/story_18_iii_the_princess_intervenes">‹ Story 18 Iii The Princess Intervenes</a><a class="ex-next" href="/testi/chesterton/atomized/fourfaultlessfelons/story_20_v_the_terms_of_a_traitor">Story 20 V The Terms Of A Traitor ›</a></div>
 </nav>
+<nav class="excerpt-children">
+<div class="excerpt-children-label">In questa sezione</div>
+<ul><li><a href="/testi/chesterton/atomized/fourfaultlessfelons/story_19_iv_the_unreasonableness_of_woman/part_01">Part 1</a></li><li><a href="/testi/chesterton/atomized/fourfaultlessfelons/story_19_iv_the_unreasonableness_of_woman/part_02">Part 2</a></li><li><a href="/testi/chesterton/atomized/fourfaultlessfelons/story_19_iv_the_unreasonableness_of_woman/part_03">Part 3</a></li></ul>
+</nav>
 
 
 IV THE UNREASONABLENESS OF WOMAN

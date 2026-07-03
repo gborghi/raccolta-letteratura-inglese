@@ -12,6 +12,10 @@ tags:
 <div class="excerpt-crumb">Chesterton · <a href="/works/the-glass-walking-stick-(chesterton)">The Glass Walking Stick</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/the_glass_walking_stick/story_01_the_glass_walking_stick">‹ Story 01 The Glass Walking Stick</a><a class="ex-next" href="/testi/chesterton/atomized/the_glass_walking_stick/story_03_playing_with_an_idea">Story 03 Playing With An Idea ›</a></div>
 </nav>
+<nav class="excerpt-children">
+<div class="excerpt-children-label">In questa sezione</div>
+<ul><li><a href="/testi/chesterton/atomized/the_glass_walking_stick/story_02_history_in_stone/part_01">Part 1</a></li><li><a href="/testi/chesterton/atomized/the_glass_walking_stick/story_02_history_in_stone/part_02">Part 2</a></li></ul>
+</nav>
 
 
 HISTORY IN STONE

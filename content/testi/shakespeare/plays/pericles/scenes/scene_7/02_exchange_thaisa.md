@@ -9,7 +9,7 @@ tags:
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Shakespeare · <a href="/works/pericles-(shakespeare)">Pericles</a></div>
+<div class="excerpt-crumb">Shakespeare · <a href="/works/pericles-(shakespeare)">Pericles</a> › <a href="/testi/shakespeare/plays/pericles/scenes/scene_7">Scene 7</a></div>
 </nav>
 
 

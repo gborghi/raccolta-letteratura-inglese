@@ -12,6 +12,10 @@ tags:
 <div class="excerpt-crumb">Chesterton · <a href="/works/the-glass-walking-stick-(chesterton)">The Glass Walking Stick</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/the_glass_walking_stick/story_09_st_george_for_england">‹ Story 09 St George For England</a><a class="ex-next" href="/testi/chesterton/atomized/the_glass_walking_stick/story_11_king_george_v">Story 11 King George V ›</a></div>
 </nav>
+<nav class="excerpt-children">
+<div class="excerpt-children-label">In questa sezione</div>
+<ul><li><a href="/testi/chesterton/atomized/the_glass_walking_stick/story_10_the_national_anthem/part_01">Part 1</a></li><li><a href="/testi/chesterton/atomized/the_glass_walking_stick/story_10_the_national_anthem/part_02">Part 2</a></li><li><a href="/testi/chesterton/atomized/the_glass_walking_stick/story_10_the_national_anthem/part_03">Part 3</a></li><li><a href="/testi/chesterton/atomized/the_glass_walking_stick/story_10_the_national_anthem/part_04">Part 4</a></li><li><a href="/testi/chesterton/atomized/the_glass_walking_stick/story_10_the_national_anthem/part_05">Part 5</a></li></ul>
+</nav>
 
 
 THE NATIONAL ANTHEM

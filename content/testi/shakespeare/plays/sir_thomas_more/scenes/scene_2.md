@@ -12,6 +12,10 @@ tags:
 <div class="excerpt-crumb">Shakespeare · <a href="/works/sir-thomas-more-(shakespeare)">Sir Thomas More</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/shakespeare/plays/sir_thomas_more/scenes/scene_1">‹ Scene 1</a><a class="ex-next" href="/testi/shakespeare/plays/sir_thomas_more/scenes/scene_3">Scene 3 ›</a></div>
 </nav>
+<nav class="excerpt-children">
+<div class="excerpt-children-label">In questa sezione</div>
+<ul><li><a href="/testi/shakespeare/plays/sir_thomas_more/scenes/scene_2/01_exchange_dialogue">01 exchange dialogue</a></li><li><a href="/testi/shakespeare/plays/sir_thomas_more/scenes/scene_2/02_exchange_lifter">02 exchange LIFTER</a></li><li><a href="/testi/shakespeare/plays/sir_thomas_more/scenes/scene_2/03_exchange_lifter">03 exchange LIFTER</a></li><li><a href="/testi/shakespeare/plays/sir_thomas_more/scenes/scene_2/04_exchange_suresby">04 exchange SURESBY</a></li></ul>
+</nav>
 
 
 | Chi parla | Battuta |

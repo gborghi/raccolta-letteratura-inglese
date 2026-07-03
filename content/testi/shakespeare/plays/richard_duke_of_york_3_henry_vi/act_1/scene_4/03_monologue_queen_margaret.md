@@ -9,7 +9,7 @@ tags:
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Shakespeare · <a href="/works/richard-duke-of-york---(3-henry-vi)-(shakespeare)">Richard Duke of York 3 Henry VI</a></div>
+<div class="excerpt-crumb">Shakespeare · <a href="/works/richard-duke-of-york---(3-henry-vi)-(shakespeare)">Richard Duke of York 3 Henry VI</a> › <a href="/testi/shakespeare/plays/richard_duke_of_york_3_henry_vi/act_1/scene_4">Scene 4</a></div>
 </nav>
 
 

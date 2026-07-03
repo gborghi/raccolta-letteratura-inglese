@@ -14,6 +14,10 @@ tags:
 <div class="excerpt-crumb">Chesterton · <a href="/works/heret12-(chesterton)">Heretics</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/heret12/story_04_mr_bernard_shaw">‹ Story 04 Mr Bernard Shaw</a><a class="ex-next" href="/testi/chesterton/atomized/heret12/story_06_omar_and_the_sacred_vine">Story 06 Omar and the Sacred Vine ›</a></div>
 </nav>
+<nav class="excerpt-children">
+<div class="excerpt-children-label">In questa sezione</div>
+<ul><li><a href="/testi/chesterton/atomized/heret12/story_05_mr_h_g_wells_and_the_giants/part_01">Part 1</a></li><li><a href="/testi/chesterton/atomized/heret12/story_05_mr_h_g_wells_and_the_giants/part_02">Part 2</a></li><li><a href="/testi/chesterton/atomized/heret12/story_05_mr_h_g_wells_and_the_giants/part_03">Part 3</a></li><li><a href="/testi/chesterton/atomized/heret12/story_05_mr_h_g_wells_and_the_giants/part_04">Part 4</a></li><li><a href="/testi/chesterton/atomized/heret12/story_05_mr_h_g_wells_and_the_giants/part_05">Part 5</a></li><li><a href="/testi/chesterton/atomized/heret12/story_05_mr_h_g_wells_and_the_giants/part_06">Part 6</a></li></ul>
+</nav>
 
 # [[heret12]] — Mr. H. G. Wells and the Giants
 

@@ -12,6 +12,10 @@ tags:
 <div class="excerpt-crumb">Shakespeare · <a href="/works/all-is-true---(henry-viii)-(shakespeare)">All Is True Henry VIII</a></div>
 <div class="excerpt-pn"><span></span><a class="ex-next" href="/testi/shakespeare/plays/all_is_true_henry_viii/act_1/scene_3">Scene 3 ›</a></div>
 </nav>
+<nav class="excerpt-children">
+<div class="excerpt-children-label">In questa sezione</div>
+<ul><li><a href="/testi/shakespeare/plays/all_is_true_henry_viii/act_1/scene_2/01_exchange_dialogue">01 exchange dialogue</a></li><li><a href="/testi/shakespeare/plays/all_is_true_henry_viii/act_1/scene_2/02_exchange_king_henry">02 exchange KING HENRY</a></li><li><a href="/testi/shakespeare/plays/all_is_true_henry_viii/act_1/scene_2/03_exchange_cardinal_wolsey">03 exchange CARDINAL WOLSEY</a></li><li><a href="/testi/shakespeare/plays/all_is_true_henry_viii/act_1/scene_2/04_monologue_buckinghams_surveyor">04 monologue BUCKINGHAMS SURVEYOR</a></li><li><a href="/testi/shakespeare/plays/all_is_true_henry_viii/act_1/scene_2/05_exchange_queen_katherine">05 exchange QUEEN KATHERINE</a></li></ul>
+</nav>
 
 
 | Chi parla | Battuta |

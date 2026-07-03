@@ -9,7 +9,7 @@ tags:
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Dickens · <a href="/works/the-chimes-(dickens)">The Chimes</a></div>
+<div class="excerpt-crumb">Dickens · <a href="/works/the-chimes-(dickens)">The Chimes</a> › <a href="/testi/dickens/atomized/the_chimes/chapter_01_first_quarter">Chapter 01 First Quarter</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/the_chimes/chapter_04_fourth_quarter">‹ Chapter 04 Fourth Quarter</a><a class="ex-next" href="/testi/dickens/atomized/the_chimes/chapter_01_first_quarter/part_02">part 02 ›</a></div>
 </nav>
 

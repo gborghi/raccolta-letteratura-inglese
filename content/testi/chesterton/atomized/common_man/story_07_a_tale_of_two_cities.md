@@ -12,6 +12,10 @@ tags:
 <div class="excerpt-crumb">Chesterton · <a href="/works/common-man-(chesterton)">Common Man</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/common_man/story_06_the_pantomime">‹ Story 06 The Pantomime</a><a class="ex-next" href="/testi/chesterton/atomized/common_man/story_08_god_and_goods">Story 08 God And Goods ›</a></div>
 </nav>
+<nav class="excerpt-children">
+<div class="excerpt-children-label">In questa sezione</div>
+<ul><li><a href="/testi/chesterton/atomized/common_man/story_07_a_tale_of_two_cities/part_01">Part 1</a></li><li><a href="/testi/chesterton/atomized/common_man/story_07_a_tale_of_two_cities/part_02">Part 2</a></li></ul>
+</nav>
 
 
 A TALE OF TWO CITIES

@@ -9,7 +9,7 @@ tags:
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/works/the-flying-inn-(chesterton)">The Flying Inn</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/the-flying-inn-(chesterton)">The Flying Inn</a> › <a href="/testi/chesterton/atomized/the_flying_inn/chapter_19_the_hospitality_of_the_captain">Chapter 19 THE HOSPITALITY OF THE CAPTAIN</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/the_flying_inn/chapter_19_the_hospitality_of_the_captain/part_02">‹ part 02</a><a class="ex-next" href="/testi/chesterton/atomized/the_flying_inn/chapter_20_the_turk_and_the_futurists/part_01">part 01 ›</a></div>
 </nav>
 

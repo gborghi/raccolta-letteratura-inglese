@@ -12,6 +12,10 @@ tags:
 <div class="excerpt-crumb">Shakespeare · <a href="/works/sir-thomas-more-(shakespeare)">Sir Thomas More</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/shakespeare/plays/sir_thomas_more/scenes/scene_7">‹ Scene 7</a><a class="ex-next" href="/testi/shakespeare/plays/sir_thomas_more/scenes/scene_9">Scene 9 ›</a></div>
 </nav>
+<nav class="excerpt-children">
+<div class="excerpt-children-label">In questa sezione</div>
+<ul><li><a href="/testi/shakespeare/plays/sir_thomas_more/scenes/scene_8/01_exchange_dialogue">01 exchange dialogue</a></li><li><a href="/testi/shakespeare/plays/sir_thomas_more/scenes/scene_8/01_exchange_more">01 exchange MORE</a></li><li><a href="/testi/shakespeare/plays/sir_thomas_more/scenes/scene_8/02_exchange_falkner">02 exchange FALKNER</a></li><li><a href="/testi/shakespeare/plays/sir_thomas_more/scenes/scene_8/02_monologue_more">02 monologue MORE</a></li><li><a href="/testi/shakespeare/plays/sir_thomas_more/scenes/scene_8/03_exchange_falkner">03 exchange FALKNER</a></li><li><a href="/testi/shakespeare/plays/sir_thomas_more/scenes/scene_8/03_exchange_more">03 exchange MORE</a></li><li><a href="/testi/shakespeare/plays/sir_thomas_more/scenes/scene_8/04_exchange_falkner_i">04 exchange FALKNER I</a></li><li><a href="/testi/shakespeare/plays/sir_thomas_more/scenes/scene_8/04_monologue_more">04 monologue MORE</a></li><li><a href="/testi/shakespeare/plays/sir_thomas_more/scenes/scene_8/05_exchange_catesby">05 exchange CATESBY</a></li><li><a href="/testi/shakespeare/plays/sir_thomas_more/scenes/scene_8/05_exchange_erasmus">05 exchange ERASMUS</a></li><li><a href="/testi/shakespeare/plays/sir_thomas_more/scenes/scene_8/06_exchange_morris_i">06 exchange MORRIS I</a></li><li><a href="/testi/shakespeare/plays/sir_thomas_more/scenes/scene_8/06_monologue_by">06 monologue BY</a></li><li><a href="/testi/shakespeare/plays/sir_thomas_more/scenes/scene_8/07_exchange_falkner_i">07 exchange FALKNER I</a></li><li><a href="/testi/shakespeare/plays/sir_thomas_more/scenes/scene_8/07_exchange_the_persons_of_the_play">07 exchange THE PERSONS OF THE PLAY</a></li></ul>
+</nav>
 
 
 | Chi parla | Battuta |

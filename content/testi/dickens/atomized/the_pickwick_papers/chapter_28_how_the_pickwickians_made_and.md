@@ -12,6 +12,10 @@ tags:
 <div class="excerpt-crumb">Dickens · <a href="/works/the-pickwick-papers-(dickens)">The Pickwick Papers</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/the_pickwick_papers/chapter_27_the_story_of_the_goblins_who_s">‹ Chapter 27 THE STORY OF THE GOBLINS WHO S</a><a class="ex-next" href="/testi/dickens/atomized/the_pickwick_papers/chapter_29_which_is_all_about_the_law_and">Chapter 29 WHICH IS ALL ABOUT THE LAW AND ›</a></div>
 </nav>
+<nav class="excerpt-children">
+<div class="excerpt-children-label">In questa sezione</div>
+<ul><li><a href="/testi/dickens/atomized/the_pickwick_papers/chapter_28_how_the_pickwickians_made_and/part_01">Part 1</a></li><li><a href="/testi/dickens/atomized/the_pickwick_papers/chapter_28_how_the_pickwickians_made_and/part_02">Part 2</a></li><li><a href="/testi/dickens/atomized/the_pickwick_papers/chapter_28_how_the_pickwickians_made_and/part_03">Part 3</a></li><li><a href="/testi/dickens/atomized/the_pickwick_papers/chapter_28_how_the_pickwickians_made_and/part_04">Part 4</a></li></ul>
+</nav>
 
 
 CHAPTER XXX. HOW THE PICKWICKIANS MADE AND CULTIVATED THE ACQUAINTANCE

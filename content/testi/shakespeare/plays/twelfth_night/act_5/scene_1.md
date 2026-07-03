@@ -12,6 +12,10 @@ tags:
 <div class="excerpt-crumb">Shakespeare · <a href="/works/twelfth-night-(shakespeare)">Twelfth Night</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/shakespeare/plays/twelfth_night/act_4/scene_3">‹ Scene 3</a><span></span></div>
 </nav>
+<nav class="excerpt-children">
+<div class="excerpt-children-label">In questa sezione</div>
+<ul><li><a href="/testi/shakespeare/plays/twelfth_night/act_5/scene_1/01_exchange_dialogue">01 exchange dialogue</a></li><li><a href="/testi/shakespeare/plays/twelfth_night/act_5/scene_1/02_exchange_orsino">02 exchange ORSINO</a></li><li><a href="/testi/shakespeare/plays/twelfth_night/act_5/scene_1/03_exchange_olivia">03 exchange OLIVIA</a></li><li><a href="/testi/shakespeare/plays/twelfth_night/act_5/scene_1/04_exchange_sir_toby">04 exchange SIR TOBY</a></li><li><a href="/testi/shakespeare/plays/twelfth_night/act_5/scene_1/05_exchange_orsino">05 exchange ORSINO</a></li><li><a href="/testi/shakespeare/plays/twelfth_night/act_5/scene_1/06_exchange_orsino">06 exchange ORSINO</a></li><li><a href="/testi/shakespeare/plays/twelfth_night/act_5/scene_1/07_exchange_feste">07 exchange FESTE</a></li><li><a href="/testi/shakespeare/plays/twelfth_night/act_5/scene_1/08_monologue_troilus_and_cressida">08 monologue TROILUS AND CRESSIDA</a></li><li><a href="/testi/shakespeare/plays/twelfth_night/act_5/scene_1/09_exchange_the_persons_of_the_play">09 exchange THE PERSONS OF THE PLAY</a></li></ul>
+</nav>
 
 
 | Chi parla | Battuta |

@@ -12,6 +12,10 @@ tags:
 <div class="excerpt-crumb">Dickens · <a href="/works/little-dorrit-(dickens)">Little Dorrit</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/little_dorrit/chapter_51_the_progress_of_an_epidemic">‹ Chapter 51 The Progress of an Epidemic</a><a class="ex-next" href="/testi/dickens/atomized/little_dorrit/chapter_53_no_just_cause_or_impediment_wh">Chapter 53 No just Cause or Impediment wh ›</a></div>
 </nav>
+<nav class="excerpt-children">
+<div class="excerpt-children-label">In questa sezione</div>
+<ul><li><a href="/testi/dickens/atomized/little_dorrit/chapter_52_taking_advice/part_01">Part 1</a></li><li><a href="/testi/dickens/atomized/little_dorrit/chapter_52_taking_advice/part_02">Part 2</a></li><li><a href="/testi/dickens/atomized/little_dorrit/chapter_52_taking_advice/part_03">Part 3</a></li><li><a href="/testi/dickens/atomized/little_dorrit/chapter_52_taking_advice/part_04">Part 4</a></li></ul>
+</nav>
 
 
 CHAPTER 14. Taking Advice

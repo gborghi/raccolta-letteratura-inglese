@@ -12,6 +12,10 @@ tags:
 <div class="excerpt-crumb">Shakespeare · <a href="/works/the-two-noble-kinsmen-(shakespeare)">The Two Noble Kinsmen</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/shakespeare/plays/the_two_noble_kinsmen/act_3/scene_4">‹ Scene 4</a><a class="ex-next" href="/testi/shakespeare/plays/the_two_noble_kinsmen/act_3/scene_6">Scene 6 ›</a></div>
 </nav>
+<nav class="excerpt-children">
+<div class="excerpt-children-label">In questa sezione</div>
+<ul><li><a href="/testi/shakespeare/plays/the_two_noble_kinsmen/act_3/scene_5/01_exchange_dialogue">01 exchange dialogue</a></li><li><a href="/testi/shakespeare/plays/the_two_noble_kinsmen/act_3/scene_5/02_monologue_schoolmaster">02 monologue SCHOOLMASTER</a></li><li><a href="/testi/shakespeare/plays/the_two_noble_kinsmen/act_3/scene_5/03_exchange_first_countryman">03 exchange FIRST COUNTRYMAN</a></li><li><a href="/testi/shakespeare/plays/the_two_noble_kinsmen/act_3/scene_5/04_exchange_jailers_daughter">04 exchange JAILERS DAUGHTER</a></li><li><a href="/testi/shakespeare/plays/the_two_noble_kinsmen/act_3/scene_5/05_monologue_schoolmaster">05 monologue SCHOOLMASTER</a></li><li><a href="/testi/shakespeare/plays/the_two_noble_kinsmen/act_3/scene_5/06_exchange_theseus">06 exchange THESEUS</a></li></ul>
+</nav>
 
 
 | Chi parla | Battuta |

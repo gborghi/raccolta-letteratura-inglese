@@ -14,6 +14,10 @@ tags:
 <div class="excerpt-crumb">Chesterton · <a href="/works/heret12-(chesterton)">Heretics</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/heret12/story_03_on_mr_rudyard_kipling_and_making_the_wor">‹ Story 03 On Mr Rudyard Kipling and Making the Wor</a><a class="ex-next" href="/testi/chesterton/atomized/heret12/story_05_mr_h_g_wells_and_the_giants">Story 05 Mr H G Wells and the Giants ›</a></div>
 </nav>
+<nav class="excerpt-children">
+<div class="excerpt-children-label">In questa sezione</div>
+<ul><li><a href="/testi/chesterton/atomized/heret12/story_04_mr_bernard_shaw/part_01">Part 1</a></li><li><a href="/testi/chesterton/atomized/heret12/story_04_mr_bernard_shaw/part_02">Part 2</a></li><li><a href="/testi/chesterton/atomized/heret12/story_04_mr_bernard_shaw/part_03">Part 3</a></li></ul>
+</nav>
 
 # [[heret12]] — Mr. Bernard [[Shaw]]
 

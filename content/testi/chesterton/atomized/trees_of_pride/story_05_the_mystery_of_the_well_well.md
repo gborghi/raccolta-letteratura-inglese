@@ -12,6 +12,10 @@ tags:
 <div class="excerpt-crumb">Chesterton · <a href="/works/trees-of-pride-(chesterton)">The Trees of Pride</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/trees_of_pride/story_04_the_wager_of_squire_vane">‹ Story 04 THE WAGER OF SQUIRE VANE</a><a class="ex-next" href="/testi/chesterton/atomized/trees_of_pride/story_06_the_chase_after_the_truth_truth">Story 06 THE CHASE AFTER THE Truth TRUTH ›</a></div>
 </nav>
+<nav class="excerpt-children">
+<div class="excerpt-children-label">In questa sezione</div>
+<ul><li><a href="/testi/chesterton/atomized/trees_of_pride/story_05_the_mystery_of_the_well_well/part_01">Part 1</a></li><li><a href="/testi/chesterton/atomized/trees_of_pride/story_05_the_mystery_of_the_well_well/part_02">Part 2</a></li><li><a href="/testi/chesterton/atomized/trees_of_pride/story_05_the_mystery_of_the_well_well/part_03">Part 3</a></li><li><a href="/testi/chesterton/atomized/trees_of_pride/story_05_the_mystery_of_the_well_well/part_04">Part 4</a></li><li><a href="/testi/chesterton/atomized/trees_of_pride/story_05_the_mystery_of_the_well_well/part_05">Part 5</a></li><li><a href="/testi/chesterton/atomized/trees_of_pride/story_05_the_mystery_of_the_well_well/part_06">Part 6</a></li></ul>
+</nav>
 
 
 III.  THE MYSTERY OF THE [[Well|WELL]]

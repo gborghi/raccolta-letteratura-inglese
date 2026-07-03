@@ -12,6 +12,10 @@ tags:
 <div class="excerpt-crumb">Dickens · <a href="/works/david-copperfield-(dickens)">David Copperfield</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/david_copperfield/chapter_39_wickfield_and_heep">‹ Chapter 39 WICKFIELD AND HEEP</a><a class="ex-next" href="/testi/dickens/atomized/david_copperfield/chapter_41_doras_aunts">Chapter 41 DORAS AUNTS ›</a></div>
 </nav>
+<nav class="excerpt-children">
+<div class="excerpt-children-label">In questa sezione</div>
+<ul><li><a href="/testi/dickens/atomized/david_copperfield/chapter_40_the_wanderer/part_01">Part 1</a></li><li><a href="/testi/dickens/atomized/david_copperfield/chapter_40_the_wanderer/part_02">Part 2</a></li><li><a href="/testi/dickens/atomized/david_copperfield/chapter_40_the_wanderer/part_03">Part 3</a></li></ul>
+</nav>
 
 
 CHAPTER 40. THE WANDERER

@@ -12,6 +12,10 @@ tags:
 <div class="excerpt-crumb">Dickens · <a href="/works/little-dorrit-(dickens)">Little Dorrit</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/little_dorrit/chapter_56_a_castle_in_the_air">‹ Chapter 56 A Castle in the Air</a><a class="ex-next" href="/testi/dickens/atomized/little_dorrit/chapter_58_introduces_the_next">Chapter 58 Introduces the next ›</a></div>
 </nav>
+<nav class="excerpt-children">
+<div class="excerpt-children-label">In questa sezione</div>
+<ul><li><a href="/testi/dickens/atomized/little_dorrit/chapter_57_the_storming_of_the_castle_in/part_01">Part 1</a></li><li><a href="/testi/dickens/atomized/little_dorrit/chapter_57_the_storming_of_the_castle_in/part_02">Part 2</a></li><li><a href="/testi/dickens/atomized/little_dorrit/chapter_57_the_storming_of_the_castle_in/part_03">Part 3</a></li><li><a href="/testi/dickens/atomized/little_dorrit/chapter_57_the_storming_of_the_castle_in/part_04">Part 4</a></li><li><a href="/testi/dickens/atomized/little_dorrit/chapter_57_the_storming_of_the_castle_in/part_05">Part 5</a></li><li><a href="/testi/dickens/atomized/little_dorrit/chapter_57_the_storming_of_the_castle_in/part_06">Part 6</a></li></ul>
+</nav>
 
 
 CHAPTER 19. The Storming of the [[Castle]] in the Air

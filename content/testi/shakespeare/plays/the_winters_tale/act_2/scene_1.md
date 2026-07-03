@@ -12,6 +12,10 @@ tags:
 <div class="excerpt-crumb">Shakespeare · <a href="/works/the-winter’s-tale-(shakespeare)">The Winters Tale</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/shakespeare/plays/the_winters_tale/act_1/scene_2">‹ Scene 2</a><a class="ex-next" href="/testi/shakespeare/plays/the_winters_tale/act_2/scene_2">Scene 2 ›</a></div>
 </nav>
+<nav class="excerpt-children">
+<div class="excerpt-children-label">In questa sezione</div>
+<ul><li><a href="/testi/shakespeare/plays/the_winters_tale/act_2/scene_1/01_exchange_dialogue">01 exchange dialogue</a></li><li><a href="/testi/shakespeare/plays/the_winters_tale/act_2/scene_1/02_exchange_hermione">02 exchange HERMIONE</a></li><li><a href="/testi/shakespeare/plays/the_winters_tale/act_2/scene_1/03_exchange_leontes">03 exchange LEONTES</a></li><li><a href="/testi/shakespeare/plays/the_winters_tale/act_2/scene_1/04_exchange_a_lord">04 exchange A LORD</a></li></ul>
+</nav>
 
 
 | Chi parla | Battuta |

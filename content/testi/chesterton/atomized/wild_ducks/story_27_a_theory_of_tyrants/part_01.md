@@ -9,7 +9,7 @@ tags:
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/works/wild-ducks-(chesterton)">Wild Ducks</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/wild-ducks-(chesterton)">Wild Ducks</a> › <a href="/testi/chesterton/atomized/wild_ducks/story_27_a_theory_of_tyrants">Story 27 A Theory of Tyrants</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/wild_ducks/story_13_the_winter_feast/part_02">‹ part 02</a><a class="ex-next" href="/testi/chesterton/atomized/wild_ducks/story_27_a_theory_of_tyrants/part_02">part 02 ›</a></div>
 </nav>
 

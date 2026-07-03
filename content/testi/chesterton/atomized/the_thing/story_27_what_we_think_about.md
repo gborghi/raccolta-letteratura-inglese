@@ -12,6 +12,10 @@ tags:
 <div class="excerpt-crumb">Chesterton · <a href="/works/the-thing-(chesterton)">The Thing</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/the_thing/story_26_inge_versus_barnes">‹ Story 26 INGE VERSUS BARNES</a><a class="ex-next" href="/testi/chesterton/atomized/the_thing/story_28_the_optimist_as_a_suicide_suicide">Story 28 THE OPTIMIST AS A suicide SUICIDE ›</a></div>
 </nav>
+<nav class="excerpt-children">
+<div class="excerpt-children-label">In questa sezione</div>
+<ul><li><a href="/testi/chesterton/atomized/the_thing/story_27_what_we_think_about/part_01">Part 1</a></li><li><a href="/testi/chesterton/atomized/the_thing/story_27_what_we_think_about/part_02">Part 2</a></li><li><a href="/testi/chesterton/atomized/the_thing/story_27_what_we_think_about/part_03">Part 3</a></li></ul>
+</nav>
 
 
 WHAT WE THINK ABOUT

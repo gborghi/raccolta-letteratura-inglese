@@ -12,6 +12,10 @@ tags:
 <div class="excerpt-crumb">Shakespeare · <a href="/works/timon-of-athens-(shakespeare)">Timon of Athens</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/shakespeare/plays/timon_of_athens/act_1/scene_1">‹ Scene 1</a><a class="ex-next" href="/testi/shakespeare/plays/timon_of_athens/act_2/scene_1">Scene 1 ›</a></div>
 </nav>
+<nav class="excerpt-children">
+<div class="excerpt-children-label">In questa sezione</div>
+<ul><li><a href="/testi/shakespeare/plays/timon_of_athens/act_1/scene_2/01_exchange_dialogue">01 exchange dialogue</a></li><li><a href="/testi/shakespeare/plays/timon_of_athens/act_1/scene_2/02_exchange_timon">02 exchange TIMON</a></li><li><a href="/testi/shakespeare/plays/timon_of_athens/act_1/scene_2/03_monologue_timon">03 monologue TIMON</a></li><li><a href="/testi/shakespeare/plays/timon_of_athens/act_1/scene_2/04_exchange_apemantus">04 exchange APEMANTUS</a></li><li><a href="/testi/shakespeare/plays/timon_of_athens/act_1/scene_2/05_exchange_servant">05 exchange SERVANT</a></li><li><a href="/testi/shakespeare/plays/timon_of_athens/act_1/scene_2/06_exchange_alcibiades">06 exchange ALCIBIADES</a></li></ul>
+</nav>
 
 
 | Chi parla | Battuta |

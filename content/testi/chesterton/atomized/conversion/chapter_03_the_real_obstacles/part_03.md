@@ -9,7 +9,7 @@ tags:
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/works/conversion-(chesterton)">The Catholic Church and Conversion</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/conversion-(chesterton)">The Catholic Church and Conversion</a> › <a href="/testi/chesterton/atomized/conversion/chapter_03_the_real_obstacles">Chapter 03 THE REAL OBSTACLES</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/conversion/chapter_03_the_real_obstacles/part_02">‹ part 02</a><a class="ex-next" href="/testi/chesterton/atomized/conversion/chapter_03_the_real_obstacles/part_04">part 04 ›</a></div>
 </nav>
 

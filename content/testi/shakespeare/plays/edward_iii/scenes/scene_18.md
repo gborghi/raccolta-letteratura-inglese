@@ -12,6 +12,10 @@ tags:
 <div class="excerpt-crumb">Shakespeare · <a href="/works/edward-iii-(shakespeare)">Edward III</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/shakespeare/plays/edward_iii/scenes/scene_17">‹ Scene 17</a><span></span></div>
 </nav>
+<nav class="excerpt-children">
+<div class="excerpt-children-label">In questa sezione</div>
+<ul><li><a href="/testi/shakespeare/plays/edward_iii/scenes/scene_18/01_exchange_dialogue">01 exchange dialogue</a></li><li><a href="/testi/shakespeare/plays/edward_iii/scenes/scene_18/02_exchange_earl_of_derby">02 exchange EARL OF DERBY</a></li><li><a href="/testi/shakespeare/plays/edward_iii/scenes/scene_18/03_monologue_earl_of_salisbury">03 monologue EARL OF SALISBURY</a></li><li><a href="/testi/shakespeare/plays/edward_iii/scenes/scene_18/04_exchange_queen_philippa">04 exchange QUEEN PHILIPPA</a></li><li><a href="/testi/shakespeare/plays/edward_iii/scenes/scene_18/05_exchange_king_of_france">05 exchange KING OF FRANCE</a></li><li><a href="/testi/shakespeare/plays/edward_iii/scenes/scene_18/06_monologue_on">06 monologue ON</a></li><li><a href="/testi/shakespeare/plays/edward_iii/scenes/scene_18/07_exchange_the_persons_of_the_play">07 exchange THE PERSONS OF THE PLAY</a></li></ul>
+</nav>
 
 
 | Chi parla | Battuta |

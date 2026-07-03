@@ -12,6 +12,10 @@ tags:
 <div class="excerpt-crumb">Shakespeare · <a href="/works/the-merchant-of-venice-(shakespeare)">The Merchant of Venice</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/shakespeare/plays/the_merchant_of_venice/act_3/scene_1">‹ Scene 1</a><a class="ex-next" href="/testi/shakespeare/plays/the_merchant_of_venice/act_3/scene_3">Scene 3 ›</a></div>
 </nav>
+<nav class="excerpt-children">
+<div class="excerpt-children-label">In questa sezione</div>
+<ul><li><a href="/testi/shakespeare/plays/the_merchant_of_venice/act_3/scene_2/01_exchange_dialogue">01 exchange dialogue</a></li><li><a href="/testi/shakespeare/plays/the_merchant_of_venice/act_3/scene_2/02_monologue_portia">02 monologue PORTIA</a></li><li><a href="/testi/shakespeare/plays/the_merchant_of_venice/act_3/scene_2/03_exchange_bassanio">03 exchange BASSANIO</a></li><li><a href="/testi/shakespeare/plays/the_merchant_of_venice/act_3/scene_2/04_monologue_portia">04 monologue PORTIA</a></li><li><a href="/testi/shakespeare/plays/the_merchant_of_venice/act_3/scene_2/05_exchange_all">05 exchange ALL</a></li><li><a href="/testi/shakespeare/plays/the_merchant_of_venice/act_3/scene_2/06_monologue_bassanio">06 monologue BASSANIO</a></li><li><a href="/testi/shakespeare/plays/the_merchant_of_venice/act_3/scene_2/07_exchange_portia">07 exchange PORTIA</a></li><li><a href="/testi/shakespeare/plays/the_merchant_of_venice/act_3/scene_2/08_monologue_bassanio">08 monologue BASSANIO</a></li><li><a href="/testi/shakespeare/plays/the_merchant_of_venice/act_3/scene_2/09_monologue_portia">09 monologue PORTIA</a></li><li><a href="/testi/shakespeare/plays/the_merchant_of_venice/act_3/scene_2/10_exchange_bassanio">10 exchange BASSANIO</a></li><li><a href="/testi/shakespeare/plays/the_merchant_of_venice/act_3/scene_2/11_exchange_salerio">11 exchange SALERIO</a></li><li><a href="/testi/shakespeare/plays/the_merchant_of_venice/act_3/scene_2/12_monologue_portia">12 monologue PORTIA</a></li><li><a href="/testi/shakespeare/plays/the_merchant_of_venice/act_3/scene_2/13_exchange_portia">13 exchange PORTIA</a></li></ul>
+</nav>
 
 
 | Chi parla | Battuta |

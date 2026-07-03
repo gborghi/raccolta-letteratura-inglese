@@ -12,6 +12,10 @@ tags:
 <div class="excerpt-crumb">Chesterton · <a href="/works/spice-of-life-(chesterton)">Spice Of Life</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/spice_of_life/chapter_01_the_spice_of_life">‹ Chapter 01 The Spice of Life</a><a class="ex-next" href="/testi/chesterton/atomized/spice_of_life/chapter_03_particular_books_and_writers">Chapter 03 PARTICULAR BOOKS AND WRITERS ›</a></div>
 </nav>
+<nav class="excerpt-children">
+<div class="excerpt-children-label">In questa sezione</div>
+<ul><li><a href="/testi/chesterton/atomized/spice_of_life/chapter_02_literature_in_general/part_01">Part 1</a></li><li><a href="/testi/chesterton/atomized/spice_of_life/chapter_02_literature_in_general/part_02">Part 2</a></li><li><a href="/testi/chesterton/atomized/spice_of_life/chapter_02_literature_in_general/part_03">Part 3</a></li><li><a href="/testi/chesterton/atomized/spice_of_life/chapter_02_literature_in_general/part_04">Part 4</a></li><li><a href="/testi/chesterton/atomized/spice_of_life/chapter_02_literature_in_general/part_05">Part 5</a></li><li><a href="/testi/chesterton/atomized/spice_of_life/chapter_02_literature_in_general/part_06">Part 6</a></li><li><a href="/testi/chesterton/atomized/spice_of_life/chapter_02_literature_in_general/part_07">Part 7</a></li><li><a href="/testi/chesterton/atomized/spice_of_life/chapter_02_literature_in_general/part_08">Part 8</a></li><li><a href="/testi/chesterton/atomized/spice_of_life/chapter_02_literature_in_general/part_09">Part 9</a></li></ul>
+</nav>
 
 
 PART ONE:  LITERATURE IN GENERAL

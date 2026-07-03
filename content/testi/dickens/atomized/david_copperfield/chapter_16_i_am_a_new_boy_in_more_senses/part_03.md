@@ -9,7 +9,7 @@ tags:
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Dickens · <a href="/works/david-copperfield-(dickens)">David Copperfield</a></div>
+<div class="excerpt-crumb">Dickens · <a href="/works/david-copperfield-(dickens)">David Copperfield</a> › <a href="/testi/dickens/atomized/david_copperfield/chapter_16_i_am_a_new_boy_in_more_senses">Chapter 16 I AM A NEW BOY IN MORE SENSES</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/david_copperfield/chapter_16_i_am_a_new_boy_in_more_senses/part_02">‹ part 02</a><a class="ex-next" href="/testi/dickens/atomized/david_copperfield/chapter_16_i_am_a_new_boy_in_more_senses/part_04">part 04 ›</a></div>
 </nav>
 

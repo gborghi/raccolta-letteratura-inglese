@@ -12,6 +12,10 @@ tags:
 <div class="excerpt-crumb">Shakespeare · <a href="/works/a-midsummer-night’s-dream-(shakespeare)">A Midsummer Nights Dream</a></div>
 <div class="excerpt-pn"><span></span><a class="ex-next" href="/testi/shakespeare/plays/a_midsummer_nights_dream/act_1/scene_2">Scene 2 ›</a></div>
 </nav>
+<nav class="excerpt-children">
+<div class="excerpt-children-label">In questa sezione</div>
+<ul><li><a href="/testi/shakespeare/plays/a_midsummer_nights_dream/act_1/scene_1/01_exchange_dialogue">01 exchange dialogue</a></li><li><a href="/testi/shakespeare/plays/a_midsummer_nights_dream/act_1/scene_1/02_monologue_egeus">02 monologue EGEUS</a></li><li><a href="/testi/shakespeare/plays/a_midsummer_nights_dream/act_1/scene_1/03_exchange_theseus">03 exchange THESEUS</a></li><li><a href="/testi/shakespeare/plays/a_midsummer_nights_dream/act_1/scene_1/04_exchange_egeus">04 exchange EGEUS</a></li><li><a href="/testi/shakespeare/plays/a_midsummer_nights_dream/act_1/scene_1/05_exchange_hermia">05 exchange HERMIA</a></li><li><a href="/testi/shakespeare/plays/a_midsummer_nights_dream/act_1/scene_1/06_monologue_helena">06 monologue HELENA</a></li></ul>
+</nav>
 
 
 | Chi parla | Battuta |

@@ -12,6 +12,10 @@ tags:
 <div class="excerpt-crumb">Chesterton · <a href="/works/napoleon-of-notting-hill-(chesterton)">Napoleon of Notting Hill</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/napoleon_of_notting_hill/chapter_08">‹ Chapter 08</a><a class="ex-next" href="/testi/chesterton/atomized/napoleon_of_notting_hill/chapter_10">Chapter 10 ›</a></div>
 </nav>
+<nav class="excerpt-children">
+<div class="excerpt-children-label">In questa sezione</div>
+<ul><li><a href="/testi/chesterton/atomized/napoleon_of_notting_hill/chapter_09/part_01">Part 1</a></li><li><a href="/testi/chesterton/atomized/napoleon_of_notting_hill/chapter_09/part_02">Part 2</a></li><li><a href="/testi/chesterton/atomized/napoleon_of_notting_hill/chapter_09/part_03">Part 3</a></li><li><a href="/testi/chesterton/atomized/napoleon_of_notting_hill/chapter_09/part_04">Part 4</a></li></ul>
+</nav>
 
 
 CHAPTER III

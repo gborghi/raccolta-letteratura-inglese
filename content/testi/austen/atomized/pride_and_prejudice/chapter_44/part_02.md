@@ -9,7 +9,7 @@ tags:
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Austen · <a href="/works/pride-and-prejudice-(austen)">Pride and Prejudice</a></div>
+<div class="excerpt-crumb">Austen · <a href="/works/pride-and-prejudice-(austen)">Pride and Prejudice</a> › <a href="/testi/austen/atomized/pride_and_prejudice/chapter_44">Chapter 44</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/austen/atomized/pride_and_prejudice/chapter_44/part_01">‹ part 01</a><a class="ex-next" href="/testi/austen/atomized/pride_and_prejudice/chapter_46/part_01">part 01 ›</a></div>
 </nav>
 

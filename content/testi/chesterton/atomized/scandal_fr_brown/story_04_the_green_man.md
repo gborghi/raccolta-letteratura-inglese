@@ -12,6 +12,10 @@ tags:
 <div class="excerpt-crumb">Chesterton · <a href="/works/scandal-fr-brown-(chesterton)">scandal Fr Brown</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/scandal_fr_brown/story_03_the_blast_of_the_book">‹ Story 03 The Blast of the Book</a><a class="ex-next" href="/testi/chesterton/atomized/scandal_fr_brown/story_05_the_pursuit_of_mr_blue">Story 05 The Pursuit of Mr Blue ›</a></div>
 </nav>
+<nav class="excerpt-children">
+<div class="excerpt-children-label">In questa sezione</div>
+<ul><li><a href="/testi/chesterton/atomized/scandal_fr_brown/story_04_the_green_man/part_01">Part 1</a></li><li><a href="/testi/chesterton/atomized/scandal_fr_brown/story_04_the_green_man/part_02">Part 2</a></li><li><a href="/testi/chesterton/atomized/scandal_fr_brown/story_04_the_green_man/part_03">Part 3</a></li><li><a href="/testi/chesterton/atomized/scandal_fr_brown/story_04_the_green_man/part_04">Part 4</a></li><li><a href="/testi/chesterton/atomized/scandal_fr_brown/story_04_the_green_man/part_05">Part 5</a></li><li><a href="/testi/chesterton/atomized/scandal_fr_brown/story_04_the_green_man/part_06">Part 6</a></li><li><a href="/testi/chesterton/atomized/scandal_fr_brown/story_04_the_green_man/part_07">Part 7</a></li></ul>
+</nav>
 
 
 FOUR: The Green Man

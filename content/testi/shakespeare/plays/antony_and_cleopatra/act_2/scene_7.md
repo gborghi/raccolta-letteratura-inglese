@@ -12,6 +12,10 @@ tags:
 <div class="excerpt-crumb">Shakespeare · <a href="/works/antony-and-cleopatra-(shakespeare)">Antony and Cleopatra</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/shakespeare/plays/antony_and_cleopatra/act_2/scene_6">‹ Scene 6</a><a class="ex-next" href="/testi/shakespeare/plays/antony_and_cleopatra/act_3/scene_1">Scene 1 ›</a></div>
 </nav>
+<nav class="excerpt-children">
+<div class="excerpt-children-label">In questa sezione</div>
+<ul><li><a href="/testi/shakespeare/plays/antony_and_cleopatra/act_2/scene_7/01_exchange_dialogue">01 exchange dialogue</a></li><li><a href="/testi/shakespeare/plays/antony_and_cleopatra/act_2/scene_7/02_exchange_menas">02 exchange MENAS</a></li><li><a href="/testi/shakespeare/plays/antony_and_cleopatra/act_2/scene_7/03_exchange_caesar">03 exchange CAESAR</a></li></ul>
+</nav>
 
 
 | Chi parla | Battuta |

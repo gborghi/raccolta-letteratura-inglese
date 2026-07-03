@@ -9,7 +9,7 @@ tags:
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/works/common-man-(chesterton)">Common Man</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/common-man-(chesterton)">Common Man</a> › <a href="/testi/chesterton/atomized/common_man/story_11_giotto_and_st_francis">Story 11 Giotto And St Francis</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/common_man/story_11_giotto_and_st_francis/part_03">‹ part 03</a><a class="ex-next" href="/testi/chesterton/atomized/common_man/story_12_the_new_groove/part_01">part 01 ›</a></div>
 </nav>
 

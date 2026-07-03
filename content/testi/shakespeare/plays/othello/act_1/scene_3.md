@@ -12,6 +12,10 @@ tags:
 <div class="excerpt-crumb">Shakespeare · <a href="/works/othello-(shakespeare)">Othello</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/shakespeare/plays/othello/act_1/scene_2">‹ Scene 2</a><a class="ex-next" href="/testi/shakespeare/plays/othello/act_2/scene_1">Scene 1 ›</a></div>
 </nav>
+<nav class="excerpt-children">
+<div class="excerpt-children-label">In questa sezione</div>
+<ul><li><a href="/testi/shakespeare/plays/othello/act_1/scene_3/01_exchange_dialogue">01 exchange dialogue</a></li><li><a href="/testi/shakespeare/plays/othello/act_1/scene_3/02_exchange_brabanzio">02 exchange BRABANZIO</a></li><li><a href="/testi/shakespeare/plays/othello/act_1/scene_3/03_exchange_othello">03 exchange OTHELLO</a></li><li><a href="/testi/shakespeare/plays/othello/act_1/scene_3/04_monologue_othello">04 monologue OTHELLO</a></li><li><a href="/testi/shakespeare/plays/othello/act_1/scene_3/05_exchange_duke">05 exchange DUKE</a></li><li><a href="/testi/shakespeare/plays/othello/act_1/scene_3/06_exchange_duke">06 exchange DUKE</a></li><li><a href="/testi/shakespeare/plays/othello/act_1/scene_3/07_exchange_iago">07 exchange IAGO</a></li><li><a href="/testi/shakespeare/plays/othello/act_1/scene_3/08_monologue_iago">08 monologue IAGO</a></li><li><a href="/testi/shakespeare/plays/othello/act_1/scene_3/09_exchange_roderigo">09 exchange RODERIGO</a></li><li><a href="/testi/shakespeare/plays/othello/act_1/scene_3/10_monologue_iago">10 monologue IAGO</a></li></ul>
+</nav>
 
 
 | Chi parla | Battuta |

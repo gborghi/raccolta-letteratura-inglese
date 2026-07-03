@@ -9,7 +9,7 @@ tags:
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Dickens · <a href="/works/the-pickwick-papers-(dickens)">The Pickwick Papers</a></div>
+<div class="excerpt-crumb">Dickens · <a href="/works/the-pickwick-papers-(dickens)">The Pickwick Papers</a> › <a href="/testi/dickens/atomized/the_pickwick_papers/chapter_36_illustrative_like_the_precedin">Chapter 36 ILLUSTRATIVE LIKE THE PRECEDIN</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/the_pickwick_papers/chapter_35_mr_samuel_weller_being_intrust/part_15">‹ part 15</a><a class="ex-next" href="/testi/dickens/atomized/the_pickwick_papers/chapter_36_illustrative_like_the_precedin/part_02">part 02 ›</a></div>
 </nav>
 

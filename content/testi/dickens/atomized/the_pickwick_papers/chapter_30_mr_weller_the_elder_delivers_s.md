@@ -12,6 +12,10 @@ tags:
 <div class="excerpt-crumb">Dickens · <a href="/works/the-pickwick-papers-(dickens)">The Pickwick Papers</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/the_pickwick_papers/chapter_29_which_is_all_about_the_law_and">‹ Chapter 29 WHICH IS ALL ABOUT THE LAW AND</a><a class="ex-next" href="/testi/dickens/atomized/the_pickwick_papers/chapter_31_is_wholly_devoted_to_a_full_an">Chapter 31 IS WHOLLY DEVOTED TO A FULL AN ›</a></div>
 </nav>
+<nav class="excerpt-children">
+<div class="excerpt-children-label">In questa sezione</div>
+<ul><li><a href="/testi/dickens/atomized/the_pickwick_papers/chapter_30_mr_weller_the_elder_delivers_s/part_01">Part 1</a></li><li><a href="/testi/dickens/atomized/the_pickwick_papers/chapter_30_mr_weller_the_elder_delivers_s/part_02">Part 2</a></li><li><a href="/testi/dickens/atomized/the_pickwick_papers/chapter_30_mr_weller_the_elder_delivers_s/part_03">Part 3</a></li><li><a href="/testi/dickens/atomized/the_pickwick_papers/chapter_30_mr_weller_the_elder_delivers_s/part_04">Part 4</a></li><li><a href="/testi/dickens/atomized/the_pickwick_papers/chapter_30_mr_weller_the_elder_delivers_s/part_05">Part 5</a></li><li><a href="/testi/dickens/atomized/the_pickwick_papers/chapter_30_mr_weller_the_elder_delivers_s/part_06">Part 6</a></li></ul>
+</nav>
 
 
 CHAPTER XXXIII. MR. WELLER THE ELDER DELIVERS SOME CRITICAL SENTIMENTS

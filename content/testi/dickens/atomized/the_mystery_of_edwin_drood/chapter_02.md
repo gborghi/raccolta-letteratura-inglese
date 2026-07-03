@@ -12,6 +12,10 @@ tags:
 <div class="excerpt-crumb">Dickens · <a href="/works/the-mystery-of-edwin-drood-(dickens)">The Mystery of Edwin Drood</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/the_mystery_of_edwin_drood/chapter_01">‹ Chapter 01</a><a class="ex-next" href="/testi/dickens/atomized/the_mystery_of_edwin_drood/chapter_03">Chapter 03 ›</a></div>
 </nav>
+<nav class="excerpt-children">
+<div class="excerpt-children-label">In questa sezione</div>
+<ul><li><a href="/testi/dickens/atomized/the_mystery_of_edwin_drood/chapter_02/part_01">Part 1</a></li><li><a href="/testi/dickens/atomized/the_mystery_of_edwin_drood/chapter_02/part_02">Part 2</a></li><li><a href="/testi/dickens/atomized/the_mystery_of_edwin_drood/chapter_02/part_03">Part 3</a></li><li><a href="/testi/dickens/atomized/the_mystery_of_edwin_drood/chapter_02/part_04">Part 4</a></li></ul>
+</nav>
 
 
 CHAPTER II.

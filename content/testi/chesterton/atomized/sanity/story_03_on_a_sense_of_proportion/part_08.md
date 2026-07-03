@@ -9,7 +9,7 @@ tags:
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/works/sanity-(chesterton)">Sanity</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/sanity-(chesterton)">Sanity</a> › <a href="/testi/chesterton/atomized/sanity/story_03_on_a_sense_of_proportion">Story 03 ON A SENSE OF PROPORTION</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/sanity/story_03_on_a_sense_of_proportion/part_07">‹ part 07</a><a class="ex-next" href="/testi/chesterton/atomized/sanity/story_03_on_a_sense_of_proportion/part_09">part 09 ›</a></div>
 </nav>
 

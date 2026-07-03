@@ -9,7 +9,7 @@ tags:
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/works/the-flying-inn-(chesterton)">The Flying Inn</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/the-flying-inn-(chesterton)">The Flying Inn</a> › <a href="/testi/chesterton/atomized/the_flying_inn/chapter_02_the_end_of_olive_island">Chapter 02 THE END OF OLIVE ISLAND</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/the_flying_inn/chapter_02_the_end_of_olive_island/part_01">‹ part 01</a><a class="ex-next" href="/testi/chesterton/atomized/the_flying_inn/chapter_02_the_end_of_olive_island/part_03">part 03 ›</a></div>
 </nav>
 

@@ -9,7 +9,7 @@ tags:
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/works/common-man-(chesterton)">Common Man</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/common-man-(chesterton)">Common Man</a> › <a href="/testi/chesterton/atomized/common_man/story_04_the_superstition_of_school">Story 04 The Superstition Of School</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/common_man/story_34_if_i_had_only_one_sermon_to_preach">‹ Story 34 If I Had Only One Sermon To Preach</a><a class="ex-next" href="/testi/chesterton/atomized/common_man/story_04_the_superstition_of_school/part_02">part 02 ›</a></div>
 </nav>
 

@@ -12,6 +12,10 @@ tags:
 <div class="excerpt-crumb">Chesterton · <a href="/works/the-thing-(chesterton)">The Thing</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/the_thing/story_02_is_humanism_a_religion">‹ Story 02 Is HUMANISM A RELIGION</a><a class="ex-next" href="/testi/chesterton/atomized/the_thing/story_04_logic_logic_and_lawn_tennis">Story 04 logic LOGIC AND LAWN TENNIS ›</a></div>
 </nav>
+<nav class="excerpt-children">
+<div class="excerpt-children-label">In questa sezione</div>
+<ul><li><a href="/testi/chesterton/atomized/the_thing/story_03_the_drift_from_domesticity/part_01">Part 1</a></li><li><a href="/testi/chesterton/atomized/the_thing/story_03_the_drift_from_domesticity/part_02">Part 2</a></li><li><a href="/testi/chesterton/atomized/the_thing/story_03_the_drift_from_domesticity/part_03">Part 3</a></li></ul>
+</nav>
 
 
 THE DRIFT FROM DOMESTICITY

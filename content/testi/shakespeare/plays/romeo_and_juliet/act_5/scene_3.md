@@ -12,6 +12,10 @@ tags:
 <div class="excerpt-crumb">Shakespeare · <a href="/works/romeo-and-juliet-(shakespeare)">Romeo and Juliet</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/shakespeare/plays/romeo_and_juliet/act_5/scene_2">‹ Scene 2</a><span></span></div>
 </nav>
+<nav class="excerpt-children">
+<div class="excerpt-children-label">In questa sezione</div>
+<ul><li><a href="/testi/shakespeare/plays/romeo_and_juliet/act_5/scene_3/01_exchange_dialogue">01 exchange dialogue</a></li><li><a href="/testi/shakespeare/plays/romeo_and_juliet/act_5/scene_3/02_exchange_romeo">02 exchange ROMEO</a></li><li><a href="/testi/shakespeare/plays/romeo_and_juliet/act_5/scene_3/03_monologue_romeo">03 monologue ROMEO</a></li><li><a href="/testi/shakespeare/plays/romeo_and_juliet/act_5/scene_3/04_exchange_friar_laurence">04 exchange FRIAR LAURENCE</a></li><li><a href="/testi/shakespeare/plays/romeo_and_juliet/act_5/scene_3/05_exchange_chief_watchman">05 exchange CHIEF WATCHMAN</a></li><li><a href="/testi/shakespeare/plays/romeo_and_juliet/act_5/scene_3/06_monologue_friar_laurence">06 monologue FRIAR LAURENCE</a></li><li><a href="/testi/shakespeare/plays/romeo_and_juliet/act_5/scene_3/07_exchange_prince">07 exchange PRINCE</a></li><li><a href="/testi/shakespeare/plays/romeo_and_juliet/act_5/scene_3/08_monologue_francis_meres">08 monologue FRANCIS MERES</a></li><li><a href="/testi/shakespeare/plays/romeo_and_juliet/act_5/scene_3/09_exchange_the_persons_of_the_play">09 exchange THE PERSONS OF THE PLAY</a></li></ul>
+</nav>
 
 
 | Chi parla | Battuta |

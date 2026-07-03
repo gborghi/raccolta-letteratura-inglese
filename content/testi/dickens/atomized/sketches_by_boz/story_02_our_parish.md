@@ -12,6 +12,10 @@ tags:
 <div class="excerpt-crumb">Dickens · <a href="/works/sketches-by-boz-(dickens)">Sketches by Boz</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/sketches_by_boz/story_01_preface">‹ Story 01 Preface</a><a class="ex-next" href="/testi/dickens/atomized/sketches_by_boz/story_03_mr_bungs_narrative">Story 03 Mr BungS Narrative ›</a></div>
 </nav>
+<nav class="excerpt-children">
+<div class="excerpt-children-label">In questa sezione</div>
+<ul><li><a href="/testi/dickens/atomized/sketches_by_boz/story_02_our_parish/part_01">Part 1</a></li><li><a href="/testi/dickens/atomized/sketches_by_boz/story_02_our_parish/part_02">Part 2</a></li><li><a href="/testi/dickens/atomized/sketches_by_boz/story_02_our_parish/part_03">Part 3</a></li><li><a href="/testi/dickens/atomized/sketches_by_boz/story_02_our_parish/part_04">Part 4</a></li><li><a href="/testi/dickens/atomized/sketches_by_boz/story_02_our_parish/part_05">Part 5</a></li><li><a href="/testi/dickens/atomized/sketches_by_boz/story_02_our_parish/part_06">Part 6</a></li><li><a href="/testi/dickens/atomized/sketches_by_boz/story_02_our_parish/part_07">Part 7</a></li><li><a href="/testi/dickens/atomized/sketches_by_boz/story_02_our_parish/part_08">Part 8</a></li></ul>
+</nav>
 
 
 OUR PARISH

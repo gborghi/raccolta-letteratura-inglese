@@ -12,6 +12,10 @@ tags:
 <div class="excerpt-crumb">Shakespeare · <a href="/works/2-henry-iv-(shakespeare)">2 Henry IV</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/shakespeare/plays/2_henry_iv/act_1/scene_3">‹ Scene 3</a><a class="ex-next" href="/testi/shakespeare/plays/2_henry_iv/act_2/scene_2">Scene 2 ›</a></div>
 </nav>
+<nav class="excerpt-children">
+<div class="excerpt-children-label">In questa sezione</div>
+<ul><li><a href="/testi/shakespeare/plays/2_henry_iv/act_2/scene_1/01_exchange_dialogue">01 exchange dialogue</a></li><li><a href="/testi/shakespeare/plays/2_henry_iv/act_2/scene_1/02_monologue_mistress_quickly_i">02 monologue MISTRESS QUICKLY I</a></li><li><a href="/testi/shakespeare/plays/2_henry_iv/act_2/scene_1/03_exchange_sir_john">03 exchange SIR JOHN</a></li><li><a href="/testi/shakespeare/plays/2_henry_iv/act_2/scene_1/04_monologue_mistress_quickly">04 monologue MISTRESS QUICKLY</a></li><li><a href="/testi/shakespeare/plays/2_henry_iv/act_2/scene_1/05_exchange_sir_john">05 exchange SIR JOHN</a></li><li><a href="/testi/shakespeare/plays/2_henry_iv/act_2/scene_1/06_exchange_mistress">06 exchange MISTRESS</a></li></ul>
+</nav>
 
 
 | Chi parla | Battuta |

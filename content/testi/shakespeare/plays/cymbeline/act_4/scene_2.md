@@ -12,6 +12,10 @@ tags:
 <div class="excerpt-crumb">Shakespeare · <a href="/works/cymbeline-(shakespeare)">Cymbeline</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/shakespeare/plays/cymbeline/act_4/scene_1">‹ Scene 1</a><a class="ex-next" href="/testi/shakespeare/plays/cymbeline/act_4/scene_3">Scene 3 ›</a></div>
 </nav>
+<nav class="excerpt-children">
+<div class="excerpt-children-label">In questa sezione</div>
+<ul><li><a href="/testi/shakespeare/plays/cymbeline/act_4/scene_2/01_exchange_dialogue">01 exchange dialogue</a></li><li><a href="/testi/shakespeare/plays/cymbeline/act_4/scene_2/02_exchange_guiderius">02 exchange GUIDERIUS</a></li><li><a href="/testi/shakespeare/plays/cymbeline/act_4/scene_2/03_exchange_guiderius">03 exchange GUIDERIUS</a></li><li><a href="/testi/shakespeare/plays/cymbeline/act_4/scene_2/04_exchange_guiderius">04 exchange GUIDERIUS</a></li><li><a href="/testi/shakespeare/plays/cymbeline/act_4/scene_2/05_exchange_guiderius">05 exchange GUIDERIUS</a></li><li><a href="/testi/shakespeare/plays/cymbeline/act_4/scene_2/06_monologue_innogen">06 monologue INNOGEN</a></li><li><a href="/testi/shakespeare/plays/cymbeline/act_4/scene_2/07_exchange_a_roman_captain">07 exchange A ROMAN CAPTAIN</a></li><li><a href="/testi/shakespeare/plays/cymbeline/act_4/scene_2/08_exchange_lucius">08 exchange LUCIUS</a></li></ul>
+</nav>
 
 
 | Chi parla | Battuta |

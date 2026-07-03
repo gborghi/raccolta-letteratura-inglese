@@ -12,6 +12,10 @@ tags:
 <div class="excerpt-crumb">Dickens · <a href="/works/the-pickwick-papers-(dickens)">The Pickwick Papers</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/the_pickwick_papers/chapter_04_a_field_day_and_bivouac_more_n">‹ Chapter 04 A FIELD DAY AND BIVOUAC MORE N</a><a class="ex-next" href="/testi/dickens/atomized/the_pickwick_papers/chapter_06_how_mr_winkle_instead_of_shoot">Chapter 06 HOW MR WINKLE INSTEAD OF SHOOT ›</a></div>
 </nav>
+<nav class="excerpt-children">
+<div class="excerpt-children-label">In questa sezione</div>
+<ul><li><a href="/testi/dickens/atomized/the_pickwick_papers/chapter_05_an_old_fashioned_card_party_th/part_01">Part 1</a></li><li><a href="/testi/dickens/atomized/the_pickwick_papers/chapter_05_an_old_fashioned_card_party_th/part_02">Part 2</a></li><li><a href="/testi/dickens/atomized/the_pickwick_papers/chapter_05_an_old_fashioned_card_party_th/part_03">Part 3</a></li><li><a href="/testi/dickens/atomized/the_pickwick_papers/chapter_05_an_old_fashioned_card_party_th/part_04">Part 4</a></li><li><a href="/testi/dickens/atomized/the_pickwick_papers/chapter_05_an_old_fashioned_card_party_th/part_05">Part 5</a></li><li><a href="/testi/dickens/atomized/the_pickwick_papers/chapter_05_an_old_fashioned_card_party_th/part_06">Part 6</a></li></ul>
+</nav>
 
 
 CHAPTER VI. AN OLD-FASHIONED CARD-PARTY--THE CLERGYMAN’S VERSES--THE

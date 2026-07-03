@@ -9,7 +9,7 @@ tags:
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/works/william-cobbett-(chesterton)">William Cobbett</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/william-cobbett-(chesterton)">William Cobbett</a> › <a href="/testi/chesterton/atomized/william_cobbett/chapter_06">Chapter 06</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/william_cobbett/chapter_06/part_05">‹ part 05</a><a class="ex-next" href="/testi/chesterton/atomized/william_cobbett/chapter_06/part_07">part 07 ›</a></div>
 </nav>
 

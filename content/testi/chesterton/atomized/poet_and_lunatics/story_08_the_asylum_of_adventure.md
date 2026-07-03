@@ -12,6 +12,10 @@ tags:
 <div class="excerpt-crumb">Chesterton · <a href="/works/poet-and-lunatics-(chesterton)">Poet and Lunatics</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/poet_and_lunatics/story_07_the_purple_jewel_jewel">‹ Story 07 THE PURPLE Jewel JEWEL</a><a class="ex-next" href="/testi/chesterton/atomized/poet_and_lunatics/story_01_the_fantastic_friends/part_01">part 01 ›</a></div>
 </nav>
+<nav class="excerpt-children">
+<div class="excerpt-children-label">In questa sezione</div>
+<ul><li><a href="/testi/chesterton/atomized/poet_and_lunatics/story_08_the_asylum_of_adventure/part_01">Part 1</a></li><li><a href="/testi/chesterton/atomized/poet_and_lunatics/story_08_the_asylum_of_adventure/part_02">Part 2</a></li><li><a href="/testi/chesterton/atomized/poet_and_lunatics/story_08_the_asylum_of_adventure/part_03">Part 3</a></li><li><a href="/testi/chesterton/atomized/poet_and_lunatics/story_08_the_asylum_of_adventure/part_04">Part 4</a></li><li><a href="/testi/chesterton/atomized/poet_and_lunatics/story_08_the_asylum_of_adventure/part_05">Part 5</a></li><li><a href="/testi/chesterton/atomized/poet_and_lunatics/story_08_the_asylum_of_adventure/part_06">Part 6</a></li><li><a href="/testi/chesterton/atomized/poet_and_lunatics/story_08_the_asylum_of_adventure/part_07">Part 7</a></li><li><a href="/testi/chesterton/atomized/poet_and_lunatics/story_08_the_asylum_of_adventure/part_08">Part 8</a></li></ul>
+</nav>
 
 
 THE ASYLUM OF ADVENTURE

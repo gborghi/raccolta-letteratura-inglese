@@ -9,7 +9,7 @@ tags:
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Dickens · <a href="/works/david-copperfield-(dickens)">David Copperfield</a></div>
+<div class="excerpt-crumb">Dickens · <a href="/works/david-copperfield-(dickens)">David Copperfield</a> › <a href="/testi/dickens/atomized/david_copperfield/chapter_32_the_beginning_of_a_long_journe">Chapter 32 THE BEGINNING OF A LONG Journe</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/david_copperfield/chapter_32_the_beginning_of_a_long_journe/part_06">‹ part 06</a><a class="ex-next" href="/testi/dickens/atomized/david_copperfield/chapter_33_blissful/part_01">part 01 ›</a></div>
 </nav>
 

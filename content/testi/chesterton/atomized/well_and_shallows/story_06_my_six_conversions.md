@@ -12,6 +12,10 @@ tags:
 <div class="excerpt-crumb">Chesterton · <a href="/works/well-and-shallows-(chesterton)">Well And Shallows</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/well_and_shallows/story_05_my_six_conversions">‹ Story 05 My Six Conversions</a><a class="ex-next" href="/testi/chesterton/atomized/well_and_shallows/story_07_my_six_conversions">Story 07 My Six Conversions ›</a></div>
 </nav>
+<nav class="excerpt-children">
+<div class="excerpt-children-label">In questa sezione</div>
+<ul><li><a href="/testi/chesterton/atomized/well_and_shallows/story_06_my_six_conversions/part_01">Part 1</a></li><li><a href="/testi/chesterton/atomized/well_and_shallows/story_06_my_six_conversions/part_02">Part 2</a></li></ul>
+</nav>
 
 
 MY SIX CONVERSIONS

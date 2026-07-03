@@ -9,7 +9,7 @@ tags:
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Austen · <a href="/works/mansfield-park-(austen)">Mansfield Park</a></div>
+<div class="excerpt-crumb">Austen · <a href="/works/mansfield-park-(austen)">Mansfield Park</a> › <a href="/testi/austen/atomized/mansfield_park/chapter_21">Chapter 21</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/austen/atomized/mansfield_park/chapter_20/part_03">‹ part 03</a><a class="ex-next" href="/testi/austen/atomized/mansfield_park/chapter_21/part_02">part 02 ›</a></div>
 </nav>
 

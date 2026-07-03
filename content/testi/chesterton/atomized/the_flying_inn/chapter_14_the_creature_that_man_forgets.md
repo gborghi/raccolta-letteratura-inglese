@@ -12,6 +12,10 @@ tags:
 <div class="excerpt-crumb">Chesterton · <a href="/works/the-flying-inn-(chesterton)">The Flying Inn</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/the_flying_inn/chapter_13_the_battle_of_the_tunnel">‹ Chapter 13 THE BATTLE OF THE TUNNEL</a><a class="ex-next" href="/testi/chesterton/atomized/the_flying_inn/chapter_15_the_songs_songs_of_the_car_clu">Chapter 15 THE songs SONGS OF THE CAR CLU ›</a></div>
 </nav>
+<nav class="excerpt-children">
+<div class="excerpt-children-label">In questa sezione</div>
+<ul><li><a href="/testi/chesterton/atomized/the_flying_inn/chapter_14_the_creature_that_man_forgets/part_01">Part 1</a></li><li><a href="/testi/chesterton/atomized/the_flying_inn/chapter_14_the_creature_that_man_forgets/part_02">Part 2</a></li><li><a href="/testi/chesterton/atomized/the_flying_inn/chapter_14_the_creature_that_man_forgets/part_03">Part 3</a></li><li><a href="/testi/chesterton/atomized/the_flying_inn/chapter_14_the_creature_that_man_forgets/part_04">Part 4</a></li></ul>
+</nav>
 
 
 CHAPTER XIV: THE CREATURE THAT MAN FORGETS

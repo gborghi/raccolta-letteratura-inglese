@@ -12,6 +12,10 @@ tags:
 <div class="excerpt-crumb">Chesterton · <a href="/works/the-flying-inn-(chesterton)">The Flying Inn</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/the_flying_inn/chapter_21_the_road_road_to_roundabout">‹ Chapter 21 THE Road ROAD TO ROUNDABOUT</a><a class="ex-next" href="/testi/chesterton/atomized/the_flying_inn/chapter_23_the_march_on_ivywood">Chapter 23 THE MARCH ON IVYWOOD ›</a></div>
 </nav>
+<nav class="excerpt-children">
+<div class="excerpt-children-label">In questa sezione</div>
+<ul><li><a href="/testi/chesterton/atomized/the_flying_inn/chapter_22_the_chemistry_of_mr_crooke/part_01">Part 1</a></li><li><a href="/testi/chesterton/atomized/the_flying_inn/chapter_22_the_chemistry_of_mr_crooke/part_02">Part 2</a></li><li><a href="/testi/chesterton/atomized/the_flying_inn/chapter_22_the_chemistry_of_mr_crooke/part_03">Part 3</a></li><li><a href="/testi/chesterton/atomized/the_flying_inn/chapter_22_the_chemistry_of_mr_crooke/part_04">Part 4</a></li></ul>
+</nav>
 
 
 CHAPTER XXII: THE CHEMISTRY OF MR. CROOKE

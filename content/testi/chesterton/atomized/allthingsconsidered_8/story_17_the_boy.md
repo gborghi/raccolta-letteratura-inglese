@@ -12,6 +12,10 @@ tags:
 <div class="excerpt-crumb">Chesterton · <a href="/works/allthingsconsidered-8-(chesterton)">AllThingsConsidered 8</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/allthingsconsidered_8/story_16_thoughts_around_koepenick">‹ Story 16 THOUGHTS AROUND KOEPENICK</a><a class="ex-next" href="/testi/chesterton/atomized/allthingsconsidered_8/story_18_limericks_and_counsels_of_perfection">Story 18 LIMERICKS AND COUNSELS OF PERFECTION ›</a></div>
 </nav>
+<nav class="excerpt-children">
+<div class="excerpt-children-label">In questa sezione</div>
+<ul><li><a href="/testi/chesterton/atomized/allthingsconsidered_8/story_17_the_boy/part_01">Part 1</a></li><li><a href="/testi/chesterton/atomized/allthingsconsidered_8/story_17_the_boy/part_02">Part 2</a></li></ul>
+</nav>
 
 
 THE BOY

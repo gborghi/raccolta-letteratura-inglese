@@ -9,7 +9,7 @@ tags:
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Dickens · <a href="/works/dombey-and-son-(dickens)">Dombey and Son</a></div>
+<div class="excerpt-crumb">Dickens · <a href="/works/dombey-and-son-(dickens)">Dombey and Son</a> › <a href="/testi/dickens/atomized/dombey_and_son/chapter_46">Chapter 46</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/dombey_and_son/chapter_46/part_02">‹ part 02</a><a class="ex-next" href="/testi/dickens/atomized/dombey_and_son/chapter_46/part_04">part 04 ›</a></div>
 </nav>
 

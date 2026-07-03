@@ -12,6 +12,10 @@ tags:
 <div class="excerpt-crumb">Austen · <a href="/works/emma-(austen)">Emma</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/austen/atomized/emma/chapter_25">‹ Chapter 25</a><a class="ex-next" href="/testi/austen/atomized/emma/chapter_27">Chapter 27 ›</a></div>
 </nav>
+<nav class="excerpt-children">
+<div class="excerpt-children-label">In questa sezione</div>
+<ul><li><a href="/testi/austen/atomized/emma/chapter_26/part_01">Part 1</a></li><li><a href="/testi/austen/atomized/emma/chapter_26/part_02">Part 2</a></li><li><a href="/testi/austen/atomized/emma/chapter_26/part_03">Part 3</a></li><li><a href="/testi/austen/atomized/emma/chapter_26/part_04">Part 4</a></li><li><a href="/testi/austen/atomized/emma/chapter_26/part_05">Part 5</a></li><li><a href="/testi/austen/atomized/emma/chapter_26/part_06">Part 6</a></li></ul>
+</nav>
 
 
 CHAPTER VIII

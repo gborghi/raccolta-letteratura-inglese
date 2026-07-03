@@ -9,7 +9,7 @@ tags:
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/works/the-flying-inn-(chesterton)">The Flying Inn</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/the-flying-inn-(chesterton)">The Flying Inn</a> › <a href="/testi/chesterton/atomized/the_flying_inn/chapter_13_the_battle_of_the_tunnel">Chapter 13 THE BATTLE OF THE TUNNEL</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/the_flying_inn/chapter_12_vegetarianism_in_the_forest/part_04">‹ part 04</a><a class="ex-next" href="/testi/chesterton/atomized/the_flying_inn/chapter_13_the_battle_of_the_tunnel/part_02">part 02 ›</a></div>
 </nav>
 

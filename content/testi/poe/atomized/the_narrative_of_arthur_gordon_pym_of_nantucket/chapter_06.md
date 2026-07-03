@@ -12,6 +12,10 @@ tags:
 <div class="excerpt-crumb">Poe · <a href="/works/the-narrative-of-arthur-gordon-pym-of-nantucket-(poe)">The Narrative of Arthur Gordon Pym of Nantucket</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/poe/atomized/the_narrative_of_arthur_gordon_pym_of_nantucket/chapter_05">‹ Chapter 05</a><a class="ex-next" href="/testi/poe/atomized/the_narrative_of_arthur_gordon_pym_of_nantucket/chapter_07">Chapter 07 ›</a></div>
 </nav>
+<nav class="excerpt-children">
+<div class="excerpt-children-label">In questa sezione</div>
+<ul><li><a href="/testi/poe/atomized/the_narrative_of_arthur_gordon_pym_of_nantucket/chapter_06/part_01">Part 1</a></li><li><a href="/testi/poe/atomized/the_narrative_of_arthur_gordon_pym_of_nantucket/chapter_06/part_02">Part 2</a></li><li><a href="/testi/poe/atomized/the_narrative_of_arthur_gordon_pym_of_nantucket/chapter_06/part_03">Part 3</a></li></ul>
+</nav>
 
 
 CHAPTER VII.

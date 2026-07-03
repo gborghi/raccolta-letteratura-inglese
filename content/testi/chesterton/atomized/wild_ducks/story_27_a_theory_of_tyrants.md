@@ -12,6 +12,10 @@ tags:
 <div class="excerpt-crumb">Chesterton · <a href="/works/wild-ducks-(chesterton)">Wild Ducks</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/wild_ducks/story_26_the_making_of_history_history">‹ Story 26 THE MAKING OF history HISTORY</a><a class="ex-next" href="/testi/chesterton/atomized/wild_ducks/story_28_the_return_of_pageantry">Story 28 The Return of Pageantry ›</a></div>
 </nav>
+<nav class="excerpt-children">
+<div class="excerpt-children-label">In questa sezione</div>
+<ul><li><a href="/testi/chesterton/atomized/wild_ducks/story_27_a_theory_of_tyrants/part_01">Part 1</a></li><li><a href="/testi/chesterton/atomized/wild_ducks/story_27_a_theory_of_tyrants/part_02">Part 2</a></li></ul>
+</nav>
 
 
 A Theory of Tyrants

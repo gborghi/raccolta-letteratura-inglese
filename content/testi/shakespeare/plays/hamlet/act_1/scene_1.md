@@ -12,6 +12,10 @@ tags:
 <div class="excerpt-crumb">Shakespeare · <a href="/works/hamlet-(shakespeare)">Hamlet</a></div>
 <div class="excerpt-pn"><span></span><a class="ex-next" href="/testi/shakespeare/plays/hamlet/act_1/scene_2">Scene 2 ›</a></div>
 </nav>
+<nav class="excerpt-children">
+<div class="excerpt-children-label">In questa sezione</div>
+<ul><li><a href="/testi/shakespeare/plays/hamlet/act_1/scene_1/01_exchange_dialogue">01 exchange dialogue</a></li><li><a href="/testi/shakespeare/plays/hamlet/act_1/scene_1/02_exchange_marcellus">02 exchange MARCELLUS</a></li><li><a href="/testi/shakespeare/plays/hamlet/act_1/scene_1/03_monologue_horatio">03 monologue HORATIO</a></li><li><a href="/testi/shakespeare/plays/hamlet/act_1/scene_1/04_exchange_marcellus">04 exchange MARCELLUS</a></li></ul>
+</nav>
 
 
 | Chi parla | Battuta |

@@ -12,6 +12,10 @@ tags:
 <div class="excerpt-crumb">Dickens · <a href="/works/david-copperfield-(dickens)">David Copperfield</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/david_copperfield/chapter_06_i_enlarge_my_circle_of_acquain">‹ Chapter 06 I ENLARGE MY CIRCLE OF ACQUAIN</a><a class="ex-next" href="/testi/dickens/atomized/david_copperfield/chapter_08_my_holidays_especially_one_hap">Chapter 08 MY HOLIDAYS ESPECIALLY ONE HAP ›</a></div>
 </nav>
+<nav class="excerpt-children">
+<div class="excerpt-children-label">In questa sezione</div>
+<ul><li><a href="/testi/dickens/atomized/david_copperfield/chapter_07_my_first_half_at_salem_house_h/part_01">Part 1</a></li><li><a href="/testi/dickens/atomized/david_copperfield/chapter_07_my_first_half_at_salem_house_h/part_02">Part 2</a></li><li><a href="/testi/dickens/atomized/david_copperfield/chapter_07_my_first_half_at_salem_house_h/part_03">Part 3</a></li><li><a href="/testi/dickens/atomized/david_copperfield/chapter_07_my_first_half_at_salem_house_h/part_04">Part 4</a></li><li><a href="/testi/dickens/atomized/david_copperfield/chapter_07_my_first_half_at_salem_house_h/part_05">Part 5</a></li><li><a href="/testi/dickens/atomized/david_copperfield/chapter_07_my_first_half_at_salem_house_h/part_06">Part 6</a></li><li><a href="/testi/dickens/atomized/david_copperfield/chapter_07_my_first_half_at_salem_house_h/part_07">Part 7</a></li></ul>
+</nav>
 
 
 CHAPTER 7. MY ‘FIRST HALF’ AT SALEM [[house|HOUSE]]

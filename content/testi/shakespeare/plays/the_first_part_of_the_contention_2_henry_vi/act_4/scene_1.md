@@ -12,6 +12,10 @@ tags:
 <div class="excerpt-crumb">Shakespeare · <a href="/works/the-first-part-of-the-contention---(2-henry-vi)-(shakespeare)">The First Part of the Contention 2 Henry VI</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/shakespeare/plays/the_first_part_of_the_contention_2_henry_vi/act_3/scene_3">‹ Scene 3</a><a class="ex-next" href="/testi/shakespeare/plays/the_first_part_of_the_contention_2_henry_vi/act_4/scene_2">Scene 2 ›</a></div>
 </nav>
+<nav class="excerpt-children">
+<div class="excerpt-children-label">In questa sezione</div>
+<ul><li><a href="/testi/shakespeare/plays/the_first_part_of_the_contention_2_henry_vi/act_4/scene_1/01_exchange_dialogue">01 exchange dialogue</a></li><li><a href="/testi/shakespeare/plays/the_first_part_of_the_contention_2_henry_vi/act_4/scene_1/02_exchange_captain">02 exchange CAPTAIN</a></li><li><a href="/testi/shakespeare/plays/the_first_part_of_the_contention_2_henry_vi/act_4/scene_1/03_monologue_captain">03 monologue CAPTAIN</a></li><li><a href="/testi/shakespeare/plays/the_first_part_of_the_contention_2_henry_vi/act_4/scene_1/04_exchange_suffolk">04 exchange SUFFOLK</a></li></ul>
+</nav>
 
 
 | Chi parla | Battuta |

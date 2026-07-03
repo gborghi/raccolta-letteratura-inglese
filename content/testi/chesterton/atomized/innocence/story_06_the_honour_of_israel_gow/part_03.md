@@ -11,7 +11,7 @@ tags:
 <div class="qlang-switch" data-default="en"></div>
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/works/innocence-(chesterton)">The Innocence of Father Brown</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/innocence-(chesterton)">The Innocence of Father Brown</a> › <a href="/testi/chesterton/atomized/innocence/story_06_the_honour_of_israel_gow">Story 06 The Honour of Israel Gow</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/innocence/story_06_the_honour_of_israel_gow/part_02">‹ part 02</a><a class="ex-next" href="/testi/chesterton/atomized/innocence/story_06_the_honour_of_israel_gow/part_04">part 04 ›</a></div>
 </nav>
 

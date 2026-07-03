@@ -9,7 +9,7 @@ tags:
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Dickens · <a href="/works/david-copperfield-(dickens)">David Copperfield</a></div>
+<div class="excerpt-crumb">Dickens · <a href="/works/david-copperfield-(dickens)">David Copperfield</a> › <a href="/testi/dickens/atomized/david_copperfield/chapter_19_i_look_about_me_and_make_a_dis">Chapter 19 I LOOK ABOUT ME AND MAKE A DIS</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/david_copperfield/chapter_19_i_look_about_me_and_make_a_dis/part_04">‹ part 04</a><a class="ex-next" href="/testi/dickens/atomized/david_copperfield/chapter_19_i_look_about_me_and_make_a_dis/part_06">part 06 ›</a></div>
 </nav>
 

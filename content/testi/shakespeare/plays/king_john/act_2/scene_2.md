@@ -12,6 +12,10 @@ tags:
 <div class="excerpt-crumb">Shakespeare · <a href="/works/king-john-(shakespeare)">King John</a></div>
 <div class="excerpt-pn"><span></span><a class="ex-next" href="/testi/shakespeare/plays/king_john/act_3/scene_2">Scene 2 ›</a></div>
 </nav>
+<nav class="excerpt-children">
+<div class="excerpt-children-label">In questa sezione</div>
+<ul><li><a href="/testi/shakespeare/plays/king_john/act_2/scene_2/01_exchange_dialogue">01 exchange dialogue</a></li><li><a href="/testi/shakespeare/plays/king_john/act_2/scene_2/02_monologue_constance">02 monologue CONSTANCE</a></li><li><a href="/testi/shakespeare/plays/king_john/act_2/scene_2/03_exchange_salisbury">03 exchange SALISBURY</a></li><li><a href="/testi/shakespeare/plays/king_john/act_2/scene_2/04_monologue_constance">04 monologue CONSTANCE</a></li><li><a href="/testi/shakespeare/plays/king_john/act_2/scene_2/05_exchange_salisbury">05 exchange SALISBURY</a></li><li><a href="/testi/shakespeare/plays/king_john/act_2/scene_2/06_exchange_austria">06 exchange AUSTRIA</a></li><li><a href="/testi/shakespeare/plays/king_john/act_2/scene_2/07_exchange_queen_eleanor">07 exchange QUEEN ELEANOR</a></li><li><a href="/testi/shakespeare/plays/king_john/act_2/scene_2/08_monologue_king_philip">08 monologue KING PHILIP</a></li><li><a href="/testi/shakespeare/plays/king_john/act_2/scene_2/09_exchange_pandolf">09 exchange PANDOLF</a></li><li><a href="/testi/shakespeare/plays/king_john/act_2/scene_2/10_monologue_pandolf">10 monologue PANDOLF</a></li><li><a href="/testi/shakespeare/plays/king_john/act_2/scene_2/11_exchange_austria">11 exchange AUSTRIA</a></li></ul>
+</nav>
 
 
 | Chi parla | Battuta |

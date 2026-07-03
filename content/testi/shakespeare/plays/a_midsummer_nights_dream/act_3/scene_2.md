@@ -12,6 +12,10 @@ tags:
 <div class="excerpt-crumb">Shakespeare · <a href="/works/a-midsummer-night’s-dream-(shakespeare)">A Midsummer Nights Dream</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/shakespeare/plays/a_midsummer_nights_dream/act_3/scene_1">‹ Scene 1</a><a class="ex-next" href="/testi/shakespeare/plays/a_midsummer_nights_dream/act_4/scene_1">Scene 1 ›</a></div>
 </nav>
+<nav class="excerpt-children">
+<div class="excerpt-children-label">In questa sezione</div>
+<ul><li><a href="/testi/shakespeare/plays/a_midsummer_nights_dream/act_3/scene_2/01_exchange_dialogue">01 exchange dialogue</a></li><li><a href="/testi/shakespeare/plays/a_midsummer_nights_dream/act_3/scene_2/02_monologue_robin">02 monologue ROBIN</a></li><li><a href="/testi/shakespeare/plays/a_midsummer_nights_dream/act_3/scene_2/03_exchange_oberon">03 exchange OBERON</a></li><li><a href="/testi/shakespeare/plays/a_midsummer_nights_dream/act_3/scene_2/04_exchange_robin">04 exchange ROBIN</a></li><li><a href="/testi/shakespeare/plays/a_midsummer_nights_dream/act_3/scene_2/05_exchange_helena">05 exchange HELENA</a></li><li><a href="/testi/shakespeare/plays/a_midsummer_nights_dream/act_3/scene_2/06_monologue_helena">06 monologue HELENA</a></li><li><a href="/testi/shakespeare/plays/a_midsummer_nights_dream/act_3/scene_2/07_exchange_hermia">07 exchange HERMIA</a></li><li><a href="/testi/shakespeare/plays/a_midsummer_nights_dream/act_3/scene_2/08_exchange_hermia">08 exchange HERMIA</a></li><li><a href="/testi/shakespeare/plays/a_midsummer_nights_dream/act_3/scene_2/09_exchange_hermia">09 exchange HERMIA</a></li><li><a href="/testi/shakespeare/plays/a_midsummer_nights_dream/act_3/scene_2/10_monologue_oberon">10 monologue OBERON</a></li><li><a href="/testi/shakespeare/plays/a_midsummer_nights_dream/act_3/scene_2/11_exchange_robin">11 exchange ROBIN</a></li><li><a href="/testi/shakespeare/plays/a_midsummer_nights_dream/act_3/scene_2/12_exchange_robin">12 exchange ROBIN</a></li></ul>
+</nav>
 
 
 | Chi parla | Battuta |

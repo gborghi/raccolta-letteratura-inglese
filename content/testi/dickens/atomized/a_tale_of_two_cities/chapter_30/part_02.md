@@ -9,7 +9,7 @@ tags:
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Dickens · <a href="/works/a-tale-of-two-cities-(dickens)">A Tale of Two Cities</a></div>
+<div class="excerpt-crumb">Dickens · <a href="/works/a-tale-of-two-cities-(dickens)">A Tale of Two Cities</a> › <a href="/testi/dickens/atomized/a_tale_of_two_cities/chapter_30">Chapter 30</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/a_tale_of_two_cities/chapter_30/part_01">‹ part 01</a><a class="ex-next" href="/testi/dickens/atomized/a_tale_of_two_cities/chapter_30/part_03">part 03 ›</a></div>
 </nav>
 

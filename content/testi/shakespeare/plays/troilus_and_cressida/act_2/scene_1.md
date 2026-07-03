@@ -12,6 +12,10 @@ tags:
 <div class="excerpt-crumb">Shakespeare · <a href="/works/troilus-and-cressida-(shakespeare)">Troilus and Cressida</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/shakespeare/plays/troilus_and_cressida/act_1/scene_3">‹ Scene 3</a><a class="ex-next" href="/testi/shakespeare/plays/troilus_and_cressida/act_2/scene_3">Scene 3 ›</a></div>
 </nav>
+<nav class="excerpt-children">
+<div class="excerpt-children-label">In questa sezione</div>
+<ul><li><a href="/testi/shakespeare/plays/troilus_and_cressida/act_2/scene_1/01_exchange_dialogue">01 exchange dialogue</a></li><li><a href="/testi/shakespeare/plays/troilus_and_cressida/act_2/scene_1/02_exchange_achilles">02 exchange ACHILLES</a></li><li><a href="/testi/shakespeare/plays/troilus_and_cressida/act_2/scene_1/03_exchange_troilus">03 exchange TROILUS</a></li><li><a href="/testi/shakespeare/plays/troilus_and_cressida/act_2/scene_1/04_monologue_troilus">04 monologue TROILUS</a></li><li><a href="/testi/shakespeare/plays/troilus_and_cressida/act_2/scene_1/05_exchange_cassandra">05 exchange CASSANDRA</a></li><li><a href="/testi/shakespeare/plays/troilus_and_cressida/act_2/scene_1/06_monologue_hector">06 monologue HECTOR</a></li><li><a href="/testi/shakespeare/plays/troilus_and_cressida/act_2/scene_1/07_exchange_troilus">07 exchange TROILUS</a></li></ul>
+</nav>
 
 
 | Chi parla | Battuta |

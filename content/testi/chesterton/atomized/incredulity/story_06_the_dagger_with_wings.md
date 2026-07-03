@@ -12,6 +12,10 @@ tags:
 <div class="excerpt-crumb">Chesterton · <a href="/works/incredulity-(chesterton)">Incredulity</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/incredulity/story_05_the_curse_of_the_golden_cross">‹ Story 05 The Curse of the Golden Cross</a><a class="ex-next" href="/testi/chesterton/atomized/incredulity/story_07_the_doom_of_the_darnaways">Story 07 The Doom of the Darnaways ›</a></div>
 </nav>
+<nav class="excerpt-children">
+<div class="excerpt-children-label">In questa sezione</div>
+<ul><li><a href="/testi/chesterton/atomized/incredulity/story_06_the_dagger_with_wings/part_01">Part 1</a></li><li><a href="/testi/chesterton/atomized/incredulity/story_06_the_dagger_with_wings/part_02">Part 2</a></li><li><a href="/testi/chesterton/atomized/incredulity/story_06_the_dagger_with_wings/part_03">Part 3</a></li><li><a href="/testi/chesterton/atomized/incredulity/story_06_the_dagger_with_wings/part_04">Part 4</a></li><li><a href="/testi/chesterton/atomized/incredulity/story_06_the_dagger_with_wings/part_05">Part 5</a></li><li><a href="/testi/chesterton/atomized/incredulity/story_06_the_dagger_with_wings/part_06">Part 6</a></li><li><a href="/testi/chesterton/atomized/incredulity/story_06_the_dagger_with_wings/part_07">Part 7</a></li><li><a href="/testi/chesterton/atomized/incredulity/story_06_the_dagger_with_wings/part_08">Part 8</a></li></ul>
+</nav>
 
 
 SIX:  The Dagger with Wings

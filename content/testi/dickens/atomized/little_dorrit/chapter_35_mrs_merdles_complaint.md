@@ -12,6 +12,10 @@ tags:
 <div class="excerpt-crumb">Dickens · <a href="/works/little-dorrit-(dickens)">Little Dorrit</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/little_dorrit/chapter_34_more_fortune_telling">‹ Chapter 34 More Fortune Telling</a><a class="ex-next" href="/testi/dickens/atomized/little_dorrit/chapter_36_a_shoal_of_barnacles">Chapter 36 A Shoal of Barnacles ›</a></div>
 </nav>
+<nav class="excerpt-children">
+<div class="excerpt-children-label">In questa sezione</div>
+<ul><li><a href="/testi/dickens/atomized/little_dorrit/chapter_35_mrs_merdles_complaint/part_01">Part 1</a></li><li><a href="/testi/dickens/atomized/little_dorrit/chapter_35_mrs_merdles_complaint/part_02">Part 2</a></li><li><a href="/testi/dickens/atomized/little_dorrit/chapter_35_mrs_merdles_complaint/part_03">Part 3</a></li><li><a href="/testi/dickens/atomized/little_dorrit/chapter_35_mrs_merdles_complaint/part_04">Part 4</a></li></ul>
+</nav>
 
 
 CHAPTER 33. Mrs Merdle’s Complaint

@@ -12,6 +12,10 @@ tags:
 <div class="excerpt-crumb">Chesterton · <a href="/works/sanity-(chesterton)">Sanity</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/sanity/story_16_the_religion_of_small_property">‹ Story 16 THE RELIGION OF SMALL PROPERTY</a><a class="ex-next" href="/testi/chesterton/atomized/sanity/story_03_on_a_sense_of_proportion/part_01">part 01 ›</a></div>
 </nav>
+<nav class="excerpt-children">
+<div class="excerpt-children-label">In questa sezione</div>
+<ul><li><a href="/testi/chesterton/atomized/sanity/story_17_a_summary/part_01">Part 1</a></li><li><a href="/testi/chesterton/atomized/sanity/story_17_a_summary/part_02">Part 2</a></li><li><a href="/testi/chesterton/atomized/sanity/story_17_a_summary/part_03">Part 3</a></li><li><a href="/testi/chesterton/atomized/sanity/story_17_a_summary/part_04">Part 4</a></li><li><a href="/testi/chesterton/atomized/sanity/story_17_a_summary/part_05">Part 5</a></li></ul>
+</nav>
 
 
 VI A SUMMARY

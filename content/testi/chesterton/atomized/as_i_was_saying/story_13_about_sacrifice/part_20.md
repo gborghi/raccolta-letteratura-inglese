@@ -9,7 +9,7 @@ tags:
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/works/as-i-was-saying-(chesterton)">As I Was Saying</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/as-i-was-saying-(chesterton)">As I Was Saying</a> › <a href="/testi/chesterton/atomized/as_i_was_saying/story_13_about_sacrifice">Story 13 ABOUT SACRIFICE</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/as_i_was_saying/story_13_about_sacrifice/part_19">‹ part 19</a><a class="ex-next" href="/testi/chesterton/atomized/as_i_was_saying/story_14_happened_to_meet_again_recently_after_ma/part_01">part 01 ›</a></div>
 </nav>
 

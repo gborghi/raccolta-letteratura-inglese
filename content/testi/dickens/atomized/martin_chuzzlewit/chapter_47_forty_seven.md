@@ -12,6 +12,10 @@ tags:
 <div class="excerpt-crumb">Dickens · <a href="/works/martin-chuzzlewit-(dickens)">Martin Chuzzlewit</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/martin_chuzzlewit/chapter_46_forty_six">‹ Chapter 46 FORTY SIX</a><a class="ex-next" href="/testi/dickens/atomized/martin_chuzzlewit/chapter_48_forty_eight">Chapter 48 FORTY EIGHT ›</a></div>
 </nav>
+<nav class="excerpt-children">
+<div class="excerpt-children-label">In questa sezione</div>
+<ul><li><a href="/testi/dickens/atomized/martin_chuzzlewit/chapter_47_forty_seven/part_01">Part 1</a></li><li><a href="/testi/dickens/atomized/martin_chuzzlewit/chapter_47_forty_seven/part_02">Part 2</a></li><li><a href="/testi/dickens/atomized/martin_chuzzlewit/chapter_47_forty_seven/part_03">Part 3</a></li><li><a href="/testi/dickens/atomized/martin_chuzzlewit/chapter_47_forty_seven/part_04">Part 4</a></li></ul>
+</nav>
 
 
 CHAPTER FORTY-SEVEN

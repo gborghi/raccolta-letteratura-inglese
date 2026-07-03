@@ -12,6 +12,10 @@ tags:
 <div class="excerpt-crumb">Shakespeare · <a href="/works/richard-duke-of-york---(3-henry-vi)-(shakespeare)">Richard Duke of York 3 Henry VI</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/shakespeare/plays/richard_duke_of_york_3_henry_vi/act_1/scene_3">‹ Scene 3</a><a class="ex-next" href="/testi/shakespeare/plays/richard_duke_of_york_3_henry_vi/act_2/scene_1">Scene 1 ›</a></div>
 </nav>
+<nav class="excerpt-children">
+<div class="excerpt-children-label">In questa sezione</div>
+<ul><li><a href="/testi/shakespeare/plays/richard_duke_of_york_3_henry_vi/act_1/scene_4/01_monologue_speech">01 monologue speech</a></li><li><a href="/testi/shakespeare/plays/richard_duke_of_york_3_henry_vi/act_1/scene_4/02_exchange_northumberland">02 exchange NORTHUMBERLAND</a></li><li><a href="/testi/shakespeare/plays/richard_duke_of_york_3_henry_vi/act_1/scene_4/03_monologue_queen_margaret">03 monologue QUEEN MARGARET</a></li><li><a href="/testi/shakespeare/plays/richard_duke_of_york_3_henry_vi/act_1/scene_4/04_exchange_clifford">04 exchange CLIFFORD</a></li><li><a href="/testi/shakespeare/plays/richard_duke_of_york_3_henry_vi/act_1/scene_4/05_monologue_york">05 monologue YORK</a></li><li><a href="/testi/shakespeare/plays/richard_duke_of_york_3_henry_vi/act_1/scene_4/06_exchange_northumberland">06 exchange NORTHUMBERLAND</a></li></ul>
+</nav>
 
 
 | Chi parla | Battuta |

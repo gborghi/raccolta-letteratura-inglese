@@ -14,6 +14,10 @@ tags:
 <div class="excerpt-crumb">Chesterton · <a href="/works/wifrb11-(chesterton)">The Wisdom of Father Brown</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/wifrb11/story_10_the_salad_of_colonel_cray">‹ Story 10 The Salad of Colonel Cray</a><a class="ex-next" href="/testi/chesterton/atomized/wifrb11/story_12_the_fairy_tale_of_father_brown">Story 12 The Fairy Tale of Father Brown ›</a></div>
 </nav>
+<nav class="excerpt-children">
+<div class="excerpt-children-label">In questa sezione</div>
+<ul><li><a href="/testi/chesterton/atomized/wifrb11/story_11_the_strange_crime_of_john_boulnois/part_01">Part 1</a></li><li><a href="/testi/chesterton/atomized/wifrb11/story_11_the_strange_crime_of_john_boulnois/part_02">Part 2</a></li><li><a href="/testi/chesterton/atomized/wifrb11/story_11_the_strange_crime_of_john_boulnois/part_03">Part 3</a></li><li><a href="/testi/chesterton/atomized/wifrb11/story_11_the_strange_crime_of_john_boulnois/part_04">Part 4</a></li><li><a href="/testi/chesterton/atomized/wifrb11/story_11_the_strange_crime_of_john_boulnois/part_05">Part 5</a></li></ul>
+</nav>
 
 # [[wifrb11]] — The Strange Crime of John Boulnois
 

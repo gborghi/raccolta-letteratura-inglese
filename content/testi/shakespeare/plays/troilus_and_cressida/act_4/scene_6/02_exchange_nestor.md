@@ -9,7 +9,7 @@ tags:
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Shakespeare · <a href="/works/troilus-and-cressida-(shakespeare)">Troilus and Cressida</a></div>
+<div class="excerpt-crumb">Shakespeare · <a href="/works/troilus-and-cressida-(shakespeare)">Troilus and Cressida</a> › <a href="/testi/shakespeare/plays/troilus_and_cressida/act_4/scene_6">Scene 6</a></div>
 </nav>
 
 

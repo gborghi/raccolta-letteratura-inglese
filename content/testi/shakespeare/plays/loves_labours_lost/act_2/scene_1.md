@@ -12,6 +12,10 @@ tags:
 <div class="excerpt-crumb">Shakespeare · <a href="/works/love’s-labour’s-lost-(shakespeare)">Loves Labours Lost</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/shakespeare/plays/loves_labours_lost/act_1/scene_2">‹ Scene 2</a><a class="ex-next" href="/testi/shakespeare/plays/loves_labours_lost/act_3/scene_1">Scene 1 ›</a></div>
 </nav>
+<nav class="excerpt-children">
+<div class="excerpt-children-label">In questa sezione</div>
+<ul><li><a href="/testi/shakespeare/plays/loves_labours_lost/act_2/scene_1/01_exchange_dialogue">01 exchange dialogue</a></li><li><a href="/testi/shakespeare/plays/loves_labours_lost/act_2/scene_1/02_monologue_princess">02 monologue PRINCESS</a></li><li><a href="/testi/shakespeare/plays/loves_labours_lost/act_2/scene_1/03_exchange_boyet">03 exchange BOYET</a></li><li><a href="/testi/shakespeare/plays/loves_labours_lost/act_2/scene_1/04_exchange_king">04 exchange KING</a></li><li><a href="/testi/shakespeare/plays/loves_labours_lost/act_2/scene_1/05_monologue_king">05 monologue KING</a></li><li><a href="/testi/shakespeare/plays/loves_labours_lost/act_2/scene_1/06_exchange_princess">06 exchange PRINCESS</a></li><li><a href="/testi/shakespeare/plays/loves_labours_lost/act_2/scene_1/07_exchange_boyet">07 exchange BOYET</a></li></ul>
+</nav>
 
 
 | Chi parla | Battuta |

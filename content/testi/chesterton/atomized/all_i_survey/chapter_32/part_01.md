@@ -9,7 +9,7 @@ tags:
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/works/all-i-survey-(chesterton)">All I Survey</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/all-i-survey-(chesterton)">All I Survey</a> › <a href="/testi/chesterton/atomized/all_i_survey/chapter_32">Chapter 32</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/all_i_survey/chapter_24/part_02">‹ part 02</a><a class="ex-next" href="/testi/chesterton/atomized/all_i_survey/chapter_32/part_02">part 02 ›</a></div>
 </nav>
 

@@ -9,7 +9,7 @@ tags:
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/works/the-flying-inn-(chesterton)">The Flying Inn</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/the-flying-inn-(chesterton)">The Flying Inn</a> › <a href="/testi/chesterton/atomized/the_flying_inn/chapter_18_the_republic_of_peaceways">Chapter 18 THE REPUBLIC OF PEACEWAYS</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/the_flying_inn/chapter_18_the_republic_of_peaceways/part_03">‹ part 03</a><a class="ex-next" href="/testi/chesterton/atomized/the_flying_inn/chapter_19_the_hospitality_of_the_captain/part_01">part 01 ›</a></div>
 </nav>
 

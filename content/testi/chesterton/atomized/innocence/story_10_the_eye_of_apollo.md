@@ -14,6 +14,10 @@ tags:
 <div class="excerpt-crumb">Chesterton · <a href="/works/innocence-(chesterton)">The Innocence of Father Brown</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/innocence/story_09_the_hammer_of_god">‹ Story 09 The Hammer of God</a><a class="ex-next" href="/testi/chesterton/atomized/innocence/story_11_the_sign_of_the_broken_sword">Story 11 The Sign of the Broken Sword ›</a></div>
 </nav>
+<nav class="excerpt-children">
+<div class="excerpt-children-label">In questa sezione</div>
+<ul><li><a href="/testi/chesterton/atomized/innocence/story_10_the_eye_of_apollo/part_01">Part 1</a></li><li><a href="/testi/chesterton/atomized/innocence/story_10_the_eye_of_apollo/part_02">Part 2</a></li><li><a href="/testi/chesterton/atomized/innocence/story_10_the_eye_of_apollo/part_03">Part 3</a></li><li><a href="/testi/chesterton/atomized/innocence/story_10_the_eye_of_apollo/part_04">Part 4</a></li><li><a href="/testi/chesterton/atomized/innocence/story_10_the_eye_of_apollo/part_05">Part 5</a></li><li><a href="/testi/chesterton/atomized/innocence/story_10_the_eye_of_apollo/part_06">Part 6</a></li></ul>
+</nav>
 
 # [[innocence]] — The Eye of [[Apollo]]
 

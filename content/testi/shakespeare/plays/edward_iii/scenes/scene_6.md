@@ -12,6 +12,10 @@ tags:
 <div class="excerpt-crumb">Shakespeare · <a href="/works/edward-iii-(shakespeare)">Edward III</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/shakespeare/plays/edward_iii/scenes/scene_5">‹ Scene 5</a><a class="ex-next" href="/testi/shakespeare/plays/edward_iii/scenes/scene_7">Scene 7 ›</a></div>
 </nav>
+<nav class="excerpt-children">
+<div class="excerpt-children-label">In questa sezione</div>
+<ul><li><a href="/testi/shakespeare/plays/edward_iii/scenes/scene_6/01_exchange_dialogue">01 exchange dialogue</a></li><li><a href="/testi/shakespeare/plays/edward_iii/scenes/scene_6/02_monologue_king_of_france">02 monologue KING OF FRANCE</a></li><li><a href="/testi/shakespeare/plays/edward_iii/scenes/scene_6/03_monologue_king_edward">03 monologue KING EDWARD</a></li><li><a href="/testi/shakespeare/plays/edward_iii/scenes/scene_6/04_exchange_prince_of_wales">04 exchange PRINCE OF WALES</a></li><li><a href="/testi/shakespeare/plays/edward_iii/scenes/scene_6/05_monologue_king_of_france">05 monologue KING OF FRANCE</a></li><li><a href="/testi/shakespeare/plays/edward_iii/scenes/scene_6/06_exchange_all_the_french">06 exchange ALL THE FRENCH</a></li><li><a href="/testi/shakespeare/plays/edward_iii/scenes/scene_6/07_monologue_king_edward">07 monologue KING EDWARD</a></li><li><a href="/testi/shakespeare/plays/edward_iii/scenes/scene_6/08_exchange_earl_of_derby">08 exchange EARL OF DERBY</a></li></ul>
+</nav>
 
 
 | Chi parla | Battuta |

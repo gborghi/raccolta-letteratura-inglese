@@ -12,6 +12,10 @@ tags:
 <div class="excerpt-crumb">Chesterton · <a href="/works/shaw-(chesterton)">Shaw</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/shaw/story_02_the_problem_of_a_preface">‹ Story 02 THE PROBLEM OF A PREFACE</a><a class="ex-next" href="/testi/chesterton/atomized/shaw/story_04_the_puritan">Story 04 THE PURITAN ›</a></div>
 </nav>
+<nav class="excerpt-children">
+<div class="excerpt-children-label">In questa sezione</div>
+<ul><li><a href="/testi/chesterton/atomized/shaw/story_03_the_irishman/part_01">Part 1</a></li><li><a href="/testi/chesterton/atomized/shaw/story_03_the_irishman/part_02">Part 2</a></li><li><a href="/testi/chesterton/atomized/shaw/story_03_the_irishman/part_03">Part 3</a></li></ul>
+</nav>
 
 
 The Irishman

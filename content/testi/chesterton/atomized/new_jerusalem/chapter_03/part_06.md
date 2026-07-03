@@ -9,7 +9,7 @@ tags:
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/works/new-jerusalem-(chesterton)">New Jerusalem</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/new-jerusalem-(chesterton)">New Jerusalem</a> › <a href="/testi/chesterton/atomized/new_jerusalem/chapter_03">Chapter 03</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/new_jerusalem/chapter_03/part_05">‹ part 05</a><a class="ex-next" href="/testi/chesterton/atomized/new_jerusalem/chapter_04/part_01">part 01 ›</a></div>
 </nav>
 

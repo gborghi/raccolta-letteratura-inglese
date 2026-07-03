@@ -12,6 +12,10 @@ tags:
 <div class="excerpt-crumb">Shakespeare · <a href="/works/richard-iii-(shakespeare)">Richard III</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/shakespeare/plays/richard_iii/act_3/scene_6">‹ Scene 6</a><a class="ex-next" href="/testi/shakespeare/plays/richard_iii/act_4/scene_1">Scene 1 ›</a></div>
 </nav>
+<nav class="excerpt-children">
+<div class="excerpt-children-label">In questa sezione</div>
+<ul><li><a href="/testi/shakespeare/plays/richard_iii/act_3/scene_7/01_exchange_dialogue">01 exchange dialogue</a></li><li><a href="/testi/shakespeare/plays/richard_iii/act_3/scene_7/02_exchange_catesby">02 exchange CATESBY</a></li><li><a href="/testi/shakespeare/plays/richard_iii/act_3/scene_7/03_monologue_buckingham">03 monologue BUCKINGHAM</a></li><li><a href="/testi/shakespeare/plays/richard_iii/act_3/scene_7/04_monologue_richard_gloucester">04 monologue RICHARD GLOUCESTER</a></li><li><a href="/testi/shakespeare/plays/richard_iii/act_3/scene_7/05_monologue_buckingham">05 monologue BUCKINGHAM</a></li><li><a href="/testi/shakespeare/plays/richard_iii/act_3/scene_7/06_exchange_mayor">06 exchange MAYOR</a></li></ul>
+</nav>
 
 
 | Chi parla | Battuta |

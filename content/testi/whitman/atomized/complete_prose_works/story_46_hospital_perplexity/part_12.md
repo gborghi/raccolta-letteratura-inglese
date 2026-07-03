@@ -9,7 +9,7 @@ tags:
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Whitman · <a href="/works/complete-prose-works-specimen-days-and-collect,-november-boughs-and-goodbye-my-fancy-(whitman)">Complete Prose Works</a></div>
+<div class="excerpt-crumb">Whitman · <a href="/works/complete-prose-works-specimen-days-and-collect,-november-boughs-and-goodbye-my-fancy-(whitman)">Complete Prose Works</a> › <a href="/testi/whitman/atomized/complete_prose_works/story_46_hospital_perplexity">Story 46 Hospital Perplexity</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/whitman/atomized/complete_prose_works/story_46_hospital_perplexity/part_11">‹ part 11</a><a class="ex-next" href="/testi/whitman/atomized/complete_prose_works/story_46_hospital_perplexity/part_13">part 13 ›</a></div>
 </nav>
 

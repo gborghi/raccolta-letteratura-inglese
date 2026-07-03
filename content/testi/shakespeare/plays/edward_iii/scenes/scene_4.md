@@ -12,6 +12,10 @@ tags:
 <div class="excerpt-crumb">Shakespeare · <a href="/works/edward-iii-(shakespeare)">Edward III</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/shakespeare/plays/edward_iii/scenes/scene_3">‹ Scene 3</a><a class="ex-next" href="/testi/shakespeare/plays/edward_iii/scenes/scene_5">Scene 5 ›</a></div>
 </nav>
+<nav class="excerpt-children">
+<div class="excerpt-children-label">In questa sezione</div>
+<ul><li><a href="/testi/shakespeare/plays/edward_iii/scenes/scene_4/01_exchange_dialogue">01 exchange dialogue</a></li><li><a href="/testi/shakespeare/plays/edward_iii/scenes/scene_4/02_monologue_king_of_france">02 monologue KING OF FRANCE</a></li><li><a href="/testi/shakespeare/plays/edward_iii/scenes/scene_4/03_exchange_king_of_bohemia">03 exchange KING OF BOHEMIA</a></li><li><a href="/testi/shakespeare/plays/edward_iii/scenes/scene_4/04_monologue_king_of_france">04 monologue KING OF FRANCE</a></li><li><a href="/testi/shakespeare/plays/edward_iii/scenes/scene_4/05_exchange_prince_philippe">05 exchange PRINCE PHILIPPE</a></li><li><a href="/testi/shakespeare/plays/edward_iii/scenes/scene_4/06_monologue_mariner_i">06 monologue MARINER I</a></li><li><a href="/testi/shakespeare/plays/edward_iii/scenes/scene_4/07_exchange_king_of_france">07 exchange KING OF FRANCE</a></li></ul>
+</nav>
 
 
 | Chi parla | Battuta |

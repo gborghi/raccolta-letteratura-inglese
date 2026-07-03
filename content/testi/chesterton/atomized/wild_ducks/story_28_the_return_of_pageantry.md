@@ -12,6 +12,10 @@ tags:
 <div class="excerpt-crumb">Chesterton · <a href="/works/wild-ducks-(chesterton)">Wild Ducks</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/wild_ducks/story_27_a_theory_of_tyrants">‹ Story 27 A Theory of Tyrants</a><a class="ex-next" href="/testi/chesterton/atomized/wild_ducks/story_29_the_unknown_warrior">Story 29 The Unknown Warrior ›</a></div>
 </nav>
+<nav class="excerpt-children">
+<div class="excerpt-children-label">In questa sezione</div>
+<ul><li><a href="/testi/chesterton/atomized/wild_ducks/story_28_the_return_of_pageantry/part_01">Part 1</a></li><li><a href="/testi/chesterton/atomized/wild_ducks/story_28_the_return_of_pageantry/part_02">Part 2</a></li></ul>
+</nav>
 
 
 The Return of Pageantry

@@ -14,6 +14,10 @@ tags:
 <div class="excerpt-crumb">Chesterton · <a href="/works/secret-fr-brown-(chesterton)">secret Fr Brown</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/secret_fr_brown/story_05_the_vanishing_of_vaudrey">‹ Story 05 THE VANISHING OF VAUDREY</a><a class="ex-next" href="/testi/chesterton/atomized/secret_fr_brown/story_07_the_red_moon_moon_of_meru">Story 07 THE RED Moon MOON OF MERU ›</a></div>
 </nav>
+<nav class="excerpt-children">
+<div class="excerpt-children-label">In questa sezione</div>
+<ul><li><a href="/testi/chesterton/atomized/secret_fr_brown/story_06_the_worst_crime_in_the_world/part_01">Part 1</a></li><li><a href="/testi/chesterton/atomized/secret_fr_brown/story_06_the_worst_crime_in_the_world/part_02">Part 2</a></li><li><a href="/testi/chesterton/atomized/secret_fr_brown/story_06_the_worst_crime_in_the_world/part_03">Part 3</a></li><li><a href="/testi/chesterton/atomized/secret_fr_brown/story_06_the_worst_crime_in_the_world/part_04">Part 4</a></li><li><a href="/testi/chesterton/atomized/secret_fr_brown/story_06_the_worst_crime_in_the_world/part_05">Part 5</a></li><li><a href="/testi/chesterton/atomized/secret_fr_brown/story_06_the_worst_crime_in_the_world/part_06">Part 6</a></li></ul>
+</nav>
 
 
 VI THE WORST CRIME IN THE WORLD

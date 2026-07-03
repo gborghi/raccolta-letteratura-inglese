@@ -12,6 +12,10 @@ tags:
 <div class="excerpt-crumb">Dickens · <a href="/works/little-dorrit-(dickens)">Little Dorrit</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/little_dorrit/chapter_50_in_which_a_great_patriotic_con">‹ Chapter 50 In which a Great Patriotic Con</a><a class="ex-next" href="/testi/dickens/atomized/little_dorrit/chapter_52_taking_advice">Chapter 52 Taking Advice ›</a></div>
 </nav>
+<nav class="excerpt-children">
+<div class="excerpt-children-label">In questa sezione</div>
+<ul><li><a href="/testi/dickens/atomized/little_dorrit/chapter_51_the_progress_of_an_epidemic/part_01">Part 1</a></li><li><a href="/testi/dickens/atomized/little_dorrit/chapter_51_the_progress_of_an_epidemic/part_02">Part 2</a></li><li><a href="/testi/dickens/atomized/little_dorrit/chapter_51_the_progress_of_an_epidemic/part_03">Part 3</a></li><li><a href="/testi/dickens/atomized/little_dorrit/chapter_51_the_progress_of_an_epidemic/part_04">Part 4</a></li><li><a href="/testi/dickens/atomized/little_dorrit/chapter_51_the_progress_of_an_epidemic/part_05">Part 5</a></li><li><a href="/testi/dickens/atomized/little_dorrit/chapter_51_the_progress_of_an_epidemic/part_06">Part 6</a></li></ul>
+</nav>
 
 
 CHAPTER 13. The Progress of an Epidemic

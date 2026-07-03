@@ -12,6 +12,10 @@ tags:
 <div class="excerpt-crumb">Dickens · <a href="/works/the-pickwick-papers-(dickens)">The Pickwick Papers</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/the_pickwick_papers/chapter_42_containing_the_story_of_the_ba">‹ Chapter 42 CONTAINING THE STORY OF THE BA</a><a class="ex-next" href="/testi/dickens/atomized/the_pickwick_papers/chapter_44_comprising_the_final_exit_of_m">Chapter 44 COMPRISING THE FINAL EXIT OF M ›</a></div>
 </nav>
+<nav class="excerpt-children">
+<div class="excerpt-children-label">In questa sezione</div>
+<ul><li><a href="/testi/dickens/atomized/the_pickwick_papers/chapter_43_involving_a_serious_change_in/part_01">Part 1</a></li><li><a href="/testi/dickens/atomized/the_pickwick_papers/chapter_43_involving_a_serious_change_in/part_02">Part 2</a></li><li><a href="/testi/dickens/atomized/the_pickwick_papers/chapter_43_involving_a_serious_change_in/part_03">Part 3</a></li><li><a href="/testi/dickens/atomized/the_pickwick_papers/chapter_43_involving_a_serious_change_in/part_04">Part 4</a></li></ul>
+</nav>
 
 
 CHAPTER LII. INVOLVING A SERIOUS CHANGE IN THE WELLER FAMILY, AND THE

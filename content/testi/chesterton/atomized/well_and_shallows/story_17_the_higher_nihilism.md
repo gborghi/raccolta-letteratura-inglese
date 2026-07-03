@@ -12,6 +12,10 @@ tags:
 <div class="excerpt-crumb">Chesterton · <a href="/works/well-and-shallows-(chesterton)">Well And Shallows</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/well_and_shallows/story_16_the_case_of_claudel">‹ Story 16 The Case Of Claudel</a><a class="ex-next" href="/testi/chesterton/atomized/well_and_shallows/story_18_the_backward_bolshie">Story 18 The Backward Bolshie ›</a></div>
 </nav>
+<nav class="excerpt-children">
+<div class="excerpt-children-label">In questa sezione</div>
+<ul><li><a href="/testi/chesterton/atomized/well_and_shallows/story_17_the_higher_nihilism/part_01">Part 1</a></li><li><a href="/testi/chesterton/atomized/well_and_shallows/story_17_the_higher_nihilism/part_02">Part 2</a></li></ul>
+</nav>
 
 
 THE HIGHER NIHILISM

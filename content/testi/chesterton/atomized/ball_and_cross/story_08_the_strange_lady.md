@@ -12,6 +12,10 @@ tags:
 <div class="excerpt-crumb">Chesterton · <a href="/works/ball-and-cross-(chesterton)">The Ball and the Cross</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/ball_and_cross/story_07_an_interlude_of_argument">‹ Story 07 An Interlude of Argument</a><a class="ex-next" href="/testi/chesterton/atomized/ball_and_cross/story_09_the_swords_rejoined">Story 09 The Swords Rejoined ›</a></div>
 </nav>
+<nav class="excerpt-children">
+<div class="excerpt-children-label">In questa sezione</div>
+<ul><li><a href="/testi/chesterton/atomized/ball_and_cross/story_08_the_strange_lady/part_01">Part 1</a></li><li><a href="/testi/chesterton/atomized/ball_and_cross/story_08_the_strange_lady/part_02">Part 2</a></li><li><a href="/testi/chesterton/atomized/ball_and_cross/story_08_the_strange_lady/part_03">Part 3</a></li><li><a href="/testi/chesterton/atomized/ball_and_cross/story_08_the_strange_lady/part_04">Part 4</a></li><li><a href="/testi/chesterton/atomized/ball_and_cross/story_08_the_strange_lady/part_05">Part 5</a></li></ul>
+</nav>
 
 
 IX.  THE STRANGE LADY

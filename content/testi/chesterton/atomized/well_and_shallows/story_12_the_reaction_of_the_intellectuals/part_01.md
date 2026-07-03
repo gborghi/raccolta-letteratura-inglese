@@ -9,7 +9,7 @@ tags:
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/works/well-and-shallows-(chesterton)">Well And Shallows</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/well-and-shallows-(chesterton)">Well And Shallows</a> › <a href="/testi/chesterton/atomized/well_and_shallows/story_12_the_reaction_of_the_intellectuals">Story 12 The Reaction Of The Intellectuals</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/well_and_shallows/story_11_the_return_to_religion/part_03">‹ part 03</a><a class="ex-next" href="/testi/chesterton/atomized/well_and_shallows/story_12_the_reaction_of_the_intellectuals/part_02">part 02 ›</a></div>
 </nav>
 

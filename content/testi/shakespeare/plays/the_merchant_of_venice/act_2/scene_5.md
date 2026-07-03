@@ -12,6 +12,10 @@ tags:
 <div class="excerpt-crumb">Shakespeare · <a href="/works/the-merchant-of-venice-(shakespeare)">The Merchant of Venice</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/shakespeare/plays/the_merchant_of_venice/act_2/scene_4">‹ Scene 4</a><a class="ex-next" href="/testi/shakespeare/plays/the_merchant_of_venice/act_2/scene_8">Scene 8 ›</a></div>
 </nav>
+<nav class="excerpt-children">
+<div class="excerpt-children-label">In questa sezione</div>
+<ul><li><a href="/testi/shakespeare/plays/the_merchant_of_venice/act_2/scene_5/01_exchange_dialogue">01 exchange dialogue</a></li><li><a href="/testi/shakespeare/plays/the_merchant_of_venice/act_2/scene_5/02_exchange_graziano">02 exchange GRAZIANO</a></li><li><a href="/testi/shakespeare/plays/the_merchant_of_venice/act_2/scene_5/03_exchange_graziano">03 exchange GRAZIANO</a></li><li><a href="/testi/shakespeare/plays/the_merchant_of_venice/act_2/scene_5/04_monologue_morocco">04 monologue MOROCCO</a></li><li><a href="/testi/shakespeare/plays/the_merchant_of_venice/act_2/scene_5/05_exchange_portia">05 exchange PORTIA</a></li></ul>
+</nav>
 
 
 | Chi parla | Battuta |

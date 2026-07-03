@@ -12,6 +12,10 @@ tags:
 <div class="excerpt-crumb">Dickens · <a href="/works/little-dorrit-(dickens)">Little Dorrit</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/little_dorrit/chapter_03_sun_and_shadow">‹ Chapter 03 Sun and Shadow</a><a class="ex-next" href="/testi/dickens/atomized/little_dorrit/chapter_05_home">Chapter 05 Home ›</a></div>
 </nav>
+<nav class="excerpt-children">
+<div class="excerpt-children-label">In questa sezione</div>
+<ul><li><a href="/testi/dickens/atomized/little_dorrit/chapter_04_fellow_travellers/part_01">Part 1</a></li><li><a href="/testi/dickens/atomized/little_dorrit/chapter_04_fellow_travellers/part_02">Part 2</a></li><li><a href="/testi/dickens/atomized/little_dorrit/chapter_04_fellow_travellers/part_03">Part 3</a></li><li><a href="/testi/dickens/atomized/little_dorrit/chapter_04_fellow_travellers/part_04">Part 4</a></li><li><a href="/testi/dickens/atomized/little_dorrit/chapter_04_fellow_travellers/part_05">Part 5</a></li></ul>
+</nav>
 
 
 CHAPTER 2 Fellow Travellers

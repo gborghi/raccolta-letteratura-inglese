@@ -12,6 +12,10 @@ tags:
 <div class="excerpt-crumb">Dickens · <a href="/works/david-copperfield-(dickens)">David Copperfield</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/david_copperfield/chapter_05_i_am_sent_away_from_home_home">‹ Chapter 05 I AM SENT AWAY FROM Home HOME</a><a class="ex-next" href="/testi/dickens/atomized/david_copperfield/chapter_07_my_first_half_at_salem_house_h">Chapter 07 MY FIRST HALF AT SALEM house H ›</a></div>
 </nav>
+<nav class="excerpt-children">
+<div class="excerpt-children-label">In questa sezione</div>
+<ul><li><a href="/testi/dickens/atomized/david_copperfield/chapter_06_i_enlarge_my_circle_of_acquain/part_01">Part 1</a></li><li><a href="/testi/dickens/atomized/david_copperfield/chapter_06_i_enlarge_my_circle_of_acquain/part_02">Part 2</a></li><li><a href="/testi/dickens/atomized/david_copperfield/chapter_06_i_enlarge_my_circle_of_acquain/part_03">Part 3</a></li></ul>
+</nav>
 
 
 CHAPTER 6. I ENLARGE MY CIRCLE OF ACQUAINTANCE

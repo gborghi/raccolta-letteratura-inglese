@@ -9,7 +9,7 @@ tags:
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Dickens · <a href="/works/the-pickwick-papers-(dickens)">The Pickwick Papers</a></div>
+<div class="excerpt-crumb">Dickens · <a href="/works/the-pickwick-papers-(dickens)">The Pickwick Papers</a> › <a href="/testi/dickens/atomized/the_pickwick_papers/chapter_41_is_chiefly_devoted_to_matters">Chapter 41 IS CHIEFLY DEVOTED TO MATTERS</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/the_pickwick_papers/chapter_41_is_chiefly_devoted_to_matters/part_06">‹ part 06</a><a class="ex-next" href="/testi/dickens/atomized/the_pickwick_papers/chapter_41_is_chiefly_devoted_to_matters/part_08">part 08 ›</a></div>
 </nav>
 

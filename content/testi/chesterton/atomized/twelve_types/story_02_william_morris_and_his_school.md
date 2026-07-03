@@ -12,6 +12,10 @@ tags:
 <div class="excerpt-crumb">Chesterton · <a href="/works/twelve-types-(chesterton)">Twelve Types</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/twelve_types/story_01_charlotte_bronte">‹ Story 01 CHARLOTTE BRONTE</a><a class="ex-next" href="/testi/chesterton/atomized/twelve_types/story_03_the_optimism_of_byron">Story 03 THE OPTIMISM OF BYRON ›</a></div>
 </nav>
+<nav class="excerpt-children">
+<div class="excerpt-children-label">In questa sezione</div>
+<ul><li><a href="/testi/chesterton/atomized/twelve_types/story_02_william_morris_and_his_school/part_01">Part 1</a></li><li><a href="/testi/chesterton/atomized/twelve_types/story_02_william_morris_and_his_school/part_02">Part 2</a></li></ul>
+</nav>
 
 
 WILLIAM MORRIS AND HIS SCHOOL

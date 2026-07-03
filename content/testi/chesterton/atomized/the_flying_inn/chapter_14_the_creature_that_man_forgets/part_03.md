@@ -9,7 +9,7 @@ tags:
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/works/the-flying-inn-(chesterton)">The Flying Inn</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/the-flying-inn-(chesterton)">The Flying Inn</a> › <a href="/testi/chesterton/atomized/the_flying_inn/chapter_14_the_creature_that_man_forgets">Chapter 14 THE CREATURE THAT MAN FORGETS</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/the_flying_inn/chapter_14_the_creature_that_man_forgets/part_02">‹ part 02</a><a class="ex-next" href="/testi/chesterton/atomized/the_flying_inn/chapter_14_the_creature_that_man_forgets/part_04">part 04 ›</a></div>
 </nav>
 

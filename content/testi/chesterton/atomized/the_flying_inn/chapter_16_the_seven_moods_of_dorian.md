@@ -12,6 +12,10 @@ tags:
 <div class="excerpt-crumb">Chesterton · <a href="/works/the-flying-inn-(chesterton)">The Flying Inn</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/the_flying_inn/chapter_15_the_songs_songs_of_the_car_clu">‹ Chapter 15 THE songs SONGS OF THE CAR CLU</a><a class="ex-next" href="/testi/chesterton/atomized/the_flying_inn/chapter_17_the_poet_in_parliament">Chapter 17 THE POET IN PARLIAMENT ›</a></div>
 </nav>
+<nav class="excerpt-children">
+<div class="excerpt-children-label">In questa sezione</div>
+<ul><li><a href="/testi/chesterton/atomized/the_flying_inn/chapter_16_the_seven_moods_of_dorian/part_01">Part 1</a></li><li><a href="/testi/chesterton/atomized/the_flying_inn/chapter_16_the_seven_moods_of_dorian/part_02">Part 2</a></li><li><a href="/testi/chesterton/atomized/the_flying_inn/chapter_16_the_seven_moods_of_dorian/part_03">Part 3</a></li><li><a href="/testi/chesterton/atomized/the_flying_inn/chapter_16_the_seven_moods_of_dorian/part_04">Part 4</a></li></ul>
+</nav>
 
 
 CHAPTER XVI: THE SEVEN MOODS OF DORIAN

@@ -9,7 +9,7 @@ tags:
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/works/allthingsconsidered-8-(chesterton)">AllThingsConsidered 8</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/allthingsconsidered-8-(chesterton)">AllThingsConsidered 8</a> › <a href="/testi/chesterton/atomized/allthingsconsidered_8/story_35_christmas">Story 35 CHRISTMAS</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/allthingsconsidered_8/story_17_the_boy/part_02">‹ part 02</a><a class="ex-next" href="/testi/chesterton/atomized/allthingsconsidered_8/story_35_christmas/part_02">part 02 ›</a></div>
 </nav>
 

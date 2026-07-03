@@ -12,6 +12,10 @@ tags:
 <div class="excerpt-crumb">Chesterton · <a href="/works/the-thing-(chesterton)">The Thing</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/the_thing/story_14_on_the_novel_novel_with_a_purpose">‹ Story 14 ON THE Novel NOVEL WITH A PURPOSE</a><a class="ex-next" href="/testi/chesterton/atomized/the_thing/story_16_the_feasts_and_the_ascetic_ascetic">Story 16 THE FEASTS AND THE ascetic ASCETIC ›</a></div>
 </nav>
+<nav class="excerpt-children">
+<div class="excerpt-children-label">In questa sezione</div>
+<ul><li><a href="/testi/chesterton/atomized/the_thing/story_15_the_revolt_against_ideas/part_01">Part 1</a></li><li><a href="/testi/chesterton/atomized/the_thing/story_15_the_revolt_against_ideas/part_02">Part 2</a></li></ul>
+</nav>
 
 
 THE REVOLT AGAINST IDEAS

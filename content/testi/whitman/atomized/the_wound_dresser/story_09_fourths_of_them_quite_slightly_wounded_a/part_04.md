@@ -9,7 +9,7 @@ tags:
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Whitman · <a href="/works/the-wound-dresser-(whitman)">The Wound Dresser</a></div>
+<div class="excerpt-crumb">Whitman · <a href="/works/the-wound-dresser-(whitman)">The Wound Dresser</a> › <a href="/testi/whitman/atomized/the_wound_dresser/story_09_fourths_of_them_quite_slightly_wounded_a">Story 09 fourths of them quite slightly wounded a</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/whitman/atomized/the_wound_dresser/story_09_fourths_of_them_quite_slightly_wounded_a/part_03">‹ part 03</a><a class="ex-next" href="/testi/whitman/atomized/the_wound_dresser/story_09_fourths_of_them_quite_slightly_wounded_a/part_05">part 05 ›</a></div>
 </nav>
 

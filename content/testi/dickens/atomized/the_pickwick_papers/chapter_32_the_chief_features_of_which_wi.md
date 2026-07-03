@@ -12,6 +12,10 @@ tags:
 <div class="excerpt-crumb">Dickens · <a href="/works/the-pickwick-papers-(dickens)">The Pickwick Papers</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/the_pickwick_papers/chapter_31_is_wholly_devoted_to_a_full_an">‹ Chapter 31 IS WHOLLY DEVOTED TO A FULL AN</a><a class="ex-next" href="/testi/dickens/atomized/the_pickwick_papers/chapter_33_honourably_accounts_for_mr_wel">Chapter 33 HONOURABLY ACCOUNTS FOR MR WEL ›</a></div>
 </nav>
+<nav class="excerpt-children">
+<div class="excerpt-children-label">In questa sezione</div>
+<ul><li><a href="/testi/dickens/atomized/the_pickwick_papers/chapter_32_the_chief_features_of_which_wi/part_01">Part 1</a></li><li><a href="/testi/dickens/atomized/the_pickwick_papers/chapter_32_the_chief_features_of_which_wi/part_02">Part 2</a></li><li><a href="/testi/dickens/atomized/the_pickwick_papers/chapter_32_the_chief_features_of_which_wi/part_03">Part 3</a></li><li><a href="/testi/dickens/atomized/the_pickwick_papers/chapter_32_the_chief_features_of_which_wi/part_04">Part 4</a></li></ul>
+</nav>
 
 
 CHAPTER XXXVI. THE CHIEF FEATURES OF WHICH WILL BE FOUND TO BE AN

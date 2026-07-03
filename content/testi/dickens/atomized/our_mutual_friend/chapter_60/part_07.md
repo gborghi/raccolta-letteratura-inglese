@@ -9,7 +9,7 @@ tags:
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Dickens · <a href="/works/our-mutual-friend-(dickens)">Our Mutual Friend</a></div>
+<div class="excerpt-crumb">Dickens · <a href="/works/our-mutual-friend-(dickens)">Our Mutual Friend</a> › <a href="/testi/dickens/atomized/our_mutual_friend/chapter_60">Chapter 60</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/our_mutual_friend/chapter_60/part_06">‹ part 06</a><a class="ex-next" href="/testi/dickens/atomized/our_mutual_friend/chapter_61/part_01">part 01 ›</a></div>
 </nav>
 

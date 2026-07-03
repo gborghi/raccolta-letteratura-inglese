@@ -12,6 +12,10 @@ tags:
 <div class="excerpt-crumb">Chesterton · <a href="/works/fourfaultlessfelons-(chesterton)">FourFaultlessFelons</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/fourfaultlessfelons/story_13_ii_the_burglar_and_the_brooch">‹ Story 13 Ii The Burglar And The Brooch</a><a class="ex-next" href="/testi/chesterton/atomized/fourfaultlessfelons/story_15_vi_the_cleansing_of_the_name">Story 15 Vi The Cleansing Of The Name ›</a></div>
 </nav>
+<nav class="excerpt-children">
+<div class="excerpt-children-label">In questa sezione</div>
+<ul><li><a href="/testi/chesterton/atomized/fourfaultlessfelons/story_14_v_the_thief_on_trial/part_01">Part 1</a></li><li><a href="/testi/chesterton/atomized/fourfaultlessfelons/story_14_v_the_thief_on_trial/part_02">Part 2</a></li><li><a href="/testi/chesterton/atomized/fourfaultlessfelons/story_14_v_the_thief_on_trial/part_03">Part 3</a></li></ul>
+</nav>
 
 
 V THE THIEF ON TRIAL

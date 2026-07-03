@@ -12,6 +12,10 @@ tags:
 <div class="excerpt-crumb">Shakespeare · <a href="/works/the-tragedy-of-king-lear---the-folio-text-(shakespeare)">The Tragedy of King Lear Folio Text</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/shakespeare/plays/the_tragedy_of_king_lear_folio_text/act_5/scene_2">‹ Scene 2</a><span></span></div>
 </nav>
+<nav class="excerpt-children">
+<div class="excerpt-children-label">In questa sezione</div>
+<ul><li><a href="/testi/shakespeare/plays/the_tragedy_of_king_lear_folio_text/act_5/scene_3/01_exchange_dialogue">01 exchange dialogue</a></li><li><a href="/testi/shakespeare/plays/the_tragedy_of_king_lear_folio_text/act_5/scene_3/02_exchange_goneril">02 exchange GONERIL</a></li><li><a href="/testi/shakespeare/plays/the_tragedy_of_king_lear_folio_text/act_5/scene_3/03_exchange_edgar">03 exchange EDGAR</a></li><li><a href="/testi/shakespeare/plays/the_tragedy_of_king_lear_folio_text/act_5/scene_3/04_exchange_edmond">04 exchange EDMOND</a></li><li><a href="/testi/shakespeare/plays/the_tragedy_of_king_lear_folio_text/act_5/scene_3/05_exchange_gentleman">05 exchange GENTLEMAN</a></li><li><a href="/testi/shakespeare/plays/the_tragedy_of_king_lear_folio_text/act_5/scene_3/06_monologue_our">06 monologue OUR</a></li><li><a href="/testi/shakespeare/plays/the_tragedy_of_king_lear_folio_text/act_5/scene_3/07_exchange_the_persons_of_the_play">07 exchange THE PERSONS OF THE PLAY</a></li></ul>
+</nav>
 
 
 | Chi parla | Battuta |

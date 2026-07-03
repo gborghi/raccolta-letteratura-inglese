@@ -12,6 +12,10 @@ tags:
 <div class="excerpt-crumb">Shakespeare · <a href="/works/a-midsummer-night’s-dream-(shakespeare)">A Midsummer Nights Dream</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/shakespeare/plays/a_midsummer_nights_dream/act_2/scene_1">‹ Scene 1</a><a class="ex-next" href="/testi/shakespeare/plays/a_midsummer_nights_dream/act_3/scene_1">Scene 1 ›</a></div>
 </nav>
+<nav class="excerpt-children">
+<div class="excerpt-children-label">In questa sezione</div>
+<ul><li><a href="/testi/shakespeare/plays/a_midsummer_nights_dream/act_2/scene_2/01_exchange_dialogue">01 exchange dialogue</a></li><li><a href="/testi/shakespeare/plays/a_midsummer_nights_dream/act_2/scene_2/02_exchange_hermia">02 exchange HERMIA</a></li><li><a href="/testi/shakespeare/plays/a_midsummer_nights_dream/act_2/scene_2/03_exchange_lysander">03 exchange LYSANDER</a></li></ul>
+</nav>
 
 
 | Chi parla | Battuta |

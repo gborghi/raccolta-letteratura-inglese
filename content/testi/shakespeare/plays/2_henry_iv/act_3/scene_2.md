@@ -12,6 +12,10 @@ tags:
 <div class="excerpt-crumb">Shakespeare · <a href="/works/2-henry-iv-(shakespeare)">2 Henry IV</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/shakespeare/plays/2_henry_iv/act_3/scene_1">‹ Scene 1</a><a class="ex-next" href="/testi/shakespeare/plays/2_henry_iv/act_4/scene_1">Scene 1 ›</a></div>
 </nav>
+<nav class="excerpt-children">
+<div class="excerpt-children-label">In questa sezione</div>
+<ul><li><a href="/testi/shakespeare/plays/2_henry_iv/act_3/scene_2/01_exchange_dialogue">01 exchange dialogue</a></li><li><a href="/testi/shakespeare/plays/2_henry_iv/act_3/scene_2/02_exchange_shallow">02 exchange SHALLOW</a></li><li><a href="/testi/shakespeare/plays/2_henry_iv/act_3/scene_2/03_exchange_sir_john">03 exchange SIR JOHN</a></li><li><a href="/testi/shakespeare/plays/2_henry_iv/act_3/scene_2/04_exchange_sir_john">04 exchange SIR JOHN</a></li><li><a href="/testi/shakespeare/plays/2_henry_iv/act_3/scene_2/05_exchange_sir_john">05 exchange SIR JOHN</a></li><li><a href="/testi/shakespeare/plays/2_henry_iv/act_3/scene_2/06_monologue_sir_john">06 monologue SIR JOHN</a></li></ul>
+</nav>
 
 
 | Chi parla | Battuta |

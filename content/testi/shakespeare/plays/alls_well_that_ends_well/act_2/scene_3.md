@@ -12,6 +12,10 @@ tags:
 <div class="excerpt-crumb">Shakespeare · <a href="/works/all’s-well-that-ends-well-(shakespeare)">Alls Well that Ends Well</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/shakespeare/plays/alls_well_that_ends_well/act_2/scene_2">‹ Scene 2</a><a class="ex-next" href="/testi/shakespeare/plays/alls_well_that_ends_well/act_2/scene_4">Scene 4 ›</a></div>
 </nav>
+<nav class="excerpt-children">
+<div class="excerpt-children-label">In questa sezione</div>
+<ul><li><a href="/testi/shakespeare/plays/alls_well_that_ends_well/act_2/scene_3/01_exchange_dialogue">01 exchange dialogue</a></li><li><a href="/testi/shakespeare/plays/alls_well_that_ends_well/act_2/scene_3/02_exchange_helen">02 exchange HELEN</a></li><li><a href="/testi/shakespeare/plays/alls_well_that_ends_well/act_2/scene_3/03_monologue_king">03 monologue KING</a></li><li><a href="/testi/shakespeare/plays/alls_well_that_ends_well/act_2/scene_3/04_exchange_bertram">04 exchange BERTRAM</a></li><li><a href="/testi/shakespeare/plays/alls_well_that_ends_well/act_2/scene_3/05_monologue_king">05 monologue KING</a></li><li><a href="/testi/shakespeare/plays/alls_well_that_ends_well/act_2/scene_3/06_exchange_king">06 exchange KING</a></li><li><a href="/testi/shakespeare/plays/alls_well_that_ends_well/act_2/scene_3/07_exchange_lafeu">07 exchange LAFEU</a></li></ul>
+</nav>
 
 
 | Chi parla | Battuta |

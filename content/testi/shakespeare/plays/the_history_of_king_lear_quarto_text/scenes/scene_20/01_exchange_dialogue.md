@@ -9,7 +9,7 @@ tags:
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Shakespeare · <a href="/works/the-history-of-king-lear---the-quarto-text-(shakespeare)">The History of King Lear Quarto Text</a></div>
+<div class="excerpt-crumb">Shakespeare · <a href="/works/the-history-of-king-lear---the-quarto-text-(shakespeare)">The History of King Lear Quarto Text</a> › <a href="/testi/shakespeare/plays/the_history_of_king_lear_quarto_text/scenes/scene_20">Scene 20</a></div>
 </nav>
 
 

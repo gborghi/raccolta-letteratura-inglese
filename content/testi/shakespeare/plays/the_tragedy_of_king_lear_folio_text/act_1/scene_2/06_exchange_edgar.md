@@ -9,7 +9,7 @@ tags:
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Shakespeare · <a href="/works/the-tragedy-of-king-lear---the-folio-text-(shakespeare)">The Tragedy of King Lear Folio Text</a></div>
+<div class="excerpt-crumb">Shakespeare · <a href="/works/the-tragedy-of-king-lear---the-folio-text-(shakespeare)">The Tragedy of King Lear Folio Text</a> › <a href="/testi/shakespeare/plays/the_tragedy_of_king_lear_folio_text/act_1/scene_2">Scene 2</a></div>
 </nav>
 
 

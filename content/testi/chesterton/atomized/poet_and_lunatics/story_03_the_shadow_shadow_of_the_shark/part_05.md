@@ -9,7 +9,7 @@ tags:
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/works/poet-and-lunatics-(chesterton)">Poet and Lunatics</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/poet-and-lunatics-(chesterton)">Poet and Lunatics</a> › <a href="/testi/chesterton/atomized/poet_and_lunatics/story_03_the_shadow_shadow_of_the_shark">Story 03 THE Shadow SHADOW OF THE SHARK</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/poet_and_lunatics/story_03_the_shadow_shadow_of_the_shark/part_04">‹ part 04</a><a class="ex-next" href="/testi/chesterton/atomized/poet_and_lunatics/story_03_the_shadow_shadow_of_the_shark/part_06">part 06 ›</a></div>
 </nav>
 

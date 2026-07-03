@@ -12,6 +12,10 @@ tags:
 <div class="excerpt-crumb">Shakespeare · <a href="/works/romeo-and-juliet-(shakespeare)">Romeo and Juliet</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/shakespeare/plays/romeo_and_juliet/act_4/scene_3">‹ Scene 3</a><a class="ex-next" href="/testi/shakespeare/plays/romeo_and_juliet/act_5/scene_1">Scene 1 ›</a></div>
 </nav>
+<nav class="excerpt-children">
+<div class="excerpt-children-label">In questa sezione</div>
+<ul><li><a href="/testi/shakespeare/plays/romeo_and_juliet/act_4/scene_4/01_exchange_dialogue">01 exchange dialogue</a></li><li><a href="/testi/shakespeare/plays/romeo_and_juliet/act_4/scene_4/02_exchange_nurse">02 exchange NURSE</a></li><li><a href="/testi/shakespeare/plays/romeo_and_juliet/act_4/scene_4/03_exchange_friar_laurence">03 exchange FRIAR LAURENCE</a></li></ul>
+</nav>
 
 
 | Chi parla | Battuta |

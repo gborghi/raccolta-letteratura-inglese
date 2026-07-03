@@ -9,7 +9,7 @@ tags:
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Poe · <a href="/works/the-narrative-of-a.-gordon-pym-(raven-edition)-(poe)">The Narrative of A Gordon Pym Raven Edition</a></div>
+<div class="excerpt-crumb">Poe · <a href="/works/the-narrative-of-a.-gordon-pym-(raven-edition)-(poe)">The Narrative of A Gordon Pym Raven Edition</a> › <a href="/testi/poe/atomized/the_narrative_of_a_gordon_pym_raven_edition/chapter_02">Chapter 02</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/poe/atomized/the_narrative_of_a_gordon_pym_raven_edition/chapter_02/part_04">‹ part 04</a><a class="ex-next" href="/testi/poe/atomized/the_narrative_of_a_gordon_pym_raven_edition/chapter_02/part_06">part 06 ›</a></div>
 </nav>
 

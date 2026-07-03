@@ -12,6 +12,10 @@ tags:
 <div class="excerpt-crumb">Poe · <a href="/works/the-narrative-of-a.-gordon-pym-(raven-edition)-(poe)">The Narrative of A Gordon Pym Raven Edition</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/poe/atomized/the_narrative_of_a_gordon_pym_raven_edition/chapter_23">‹ Chapter 23</a><a class="ex-next" href="/testi/poe/atomized/the_narrative_of_a_gordon_pym_raven_edition/chapter_25">Chapter 25 ›</a></div>
 </nav>
+<nav class="excerpt-children">
+<div class="excerpt-children-label">In questa sezione</div>
+<ul><li><a href="/testi/poe/atomized/the_narrative_of_a_gordon_pym_raven_edition/chapter_24/part_01">Part 1</a></li><li><a href="/testi/poe/atomized/the_narrative_of_a_gordon_pym_raven_edition/chapter_24/part_02">Part 2</a></li><li><a href="/testi/poe/atomized/the_narrative_of_a_gordon_pym_raven_edition/chapter_24/part_03">Part 3</a></li></ul>
+</nav>
 
 
 CHAPTER 24

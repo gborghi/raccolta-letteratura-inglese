@@ -12,6 +12,10 @@ tags:
 <div class="excerpt-crumb">Chesterton · <a href="/works/twelve-types-(chesterton)">Twelve Types</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/twelve_types/story_07_charles_ii">‹ Story 07 CHARLES II</a><a class="ex-next" href="/testi/chesterton/atomized/twelve_types/story_09_tolstoy_tolstoy_and_the_cult_of_simplici">Story 09 tolstoy TOLSTOY AND THE CULT OF SIMPLICI ›</a></div>
 </nav>
+<nav class="excerpt-children">
+<div class="excerpt-children-label">In questa sezione</div>
+<ul><li><a href="/testi/chesterton/atomized/twelve_types/story_08_thomas_carlyle/part_01">Part 1</a></li><li><a href="/testi/chesterton/atomized/twelve_types/story_08_thomas_carlyle/part_02">Part 2</a></li><li><a href="/testi/chesterton/atomized/twelve_types/story_08_thomas_carlyle/part_03">Part 3</a></li></ul>
+</nav>
 
 
 THOMAS CARLYLE

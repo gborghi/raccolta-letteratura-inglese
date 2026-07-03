@@ -12,6 +12,10 @@ tags:
 <div class="excerpt-crumb">Dickens · <a href="/works/the-pickwick-papers-(dickens)">The Pickwick Papers</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/the_pickwick_papers/chapter_08_a_discovery_and_a_chase">‹ Chapter 08 A DISCOVERY AND A CHASE</a><a class="ex-next" href="/testi/dickens/atomized/the_pickwick_papers/chapter_10_descriptive_of_a_very_importan">Chapter 10 DESCRIPTIVE OF A VERY IMPORTAN ›</a></div>
 </nav>
+<nav class="excerpt-children">
+<div class="excerpt-children-label">In questa sezione</div>
+<ul><li><a href="/testi/dickens/atomized/the_pickwick_papers/chapter_09_clearing_up_all_doubts_if_any/part_01">Part 1</a></li><li><a href="/testi/dickens/atomized/the_pickwick_papers/chapter_09_clearing_up_all_doubts_if_any/part_02">Part 2</a></li><li><a href="/testi/dickens/atomized/the_pickwick_papers/chapter_09_clearing_up_all_doubts_if_any/part_03">Part 3</a></li><li><a href="/testi/dickens/atomized/the_pickwick_papers/chapter_09_clearing_up_all_doubts_if_any/part_04">Part 4</a></li><li><a href="/testi/dickens/atomized/the_pickwick_papers/chapter_09_clearing_up_all_doubts_if_any/part_05">Part 5</a></li><li><a href="/testi/dickens/atomized/the_pickwick_papers/chapter_09_clearing_up_all_doubts_if_any/part_06">Part 6</a></li><li><a href="/testi/dickens/atomized/the_pickwick_papers/chapter_09_clearing_up_all_doubts_if_any/part_07">Part 7</a></li><li><a href="/testi/dickens/atomized/the_pickwick_papers/chapter_09_clearing_up_all_doubts_if_any/part_08">Part 8</a></li><li><a href="/testi/dickens/atomized/the_pickwick_papers/chapter_09_clearing_up_all_doubts_if_any/part_09">Part 9</a></li><li><a href="/testi/dickens/atomized/the_pickwick_papers/chapter_09_clearing_up_all_doubts_if_any/part_10">Part 10</a></li><li><a href="/testi/dickens/atomized/the_pickwick_papers/chapter_09_clearing_up_all_doubts_if_any/part_11">Part 11</a></li><li><a href="/testi/dickens/atomized/the_pickwick_papers/chapter_09_clearing_up_all_doubts_if_any/part_12">Part 12</a></li></ul>
+</nav>
 
 
 CHAPTER X. CLEARING UP ALL DOUBTS (IF ANY EXISTED) OF THE

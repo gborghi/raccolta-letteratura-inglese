@@ -9,7 +9,7 @@ tags:
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Dickens · <a href="/works/oliver-twist-(dickens)">Oliver Twist</a></div>
+<div class="excerpt-crumb">Dickens · <a href="/works/oliver-twist-(dickens)">Oliver Twist</a> › <a href="/testi/dickens/atomized/oliver_twist/chapter_39">Chapter 39</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/oliver_twist/chapter_39/part_03">‹ part 03</a><a class="ex-next" href="/testi/dickens/atomized/oliver_twist/chapter_39/part_05">part 05 ›</a></div>
 </nav>
 

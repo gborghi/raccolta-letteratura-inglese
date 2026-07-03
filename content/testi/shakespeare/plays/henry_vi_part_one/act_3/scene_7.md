@@ -12,6 +12,10 @@ tags:
 <div class="excerpt-crumb">Shakespeare · <a href="/works/henry-vi-part-one-(shakespeare)">Henry VI Part One</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/shakespeare/plays/henry_vi_part_one/act_3/scene_6">‹ Scene 6</a><a class="ex-next" href="/testi/shakespeare/plays/henry_vi_part_one/act_4/scene_2">Scene 2 ›</a></div>
 </nav>
+<nav class="excerpt-children">
+<div class="excerpt-children-label">In questa sezione</div>
+<ul><li><a href="/testi/shakespeare/plays/henry_vi_part_one/act_3/scene_7/01_exchange_dialogue">01 exchange dialogue</a></li><li><a href="/testi/shakespeare/plays/henry_vi_part_one/act_3/scene_7/02_exchange_joan">02 exchange JOAN</a></li><li><a href="/testi/shakespeare/plays/henry_vi_part_one/act_3/scene_7/03_exchange_vernon">03 exchange VERNON</a></li><li><a href="/testi/shakespeare/plays/henry_vi_part_one/act_3/scene_7/04_exchange_king_henry">04 exchange KING HENRY</a></li><li><a href="/testi/shakespeare/plays/henry_vi_part_one/act_3/scene_7/05_exchange_richard_duke_of_york">05 exchange RICHARD DUKE OF YORK</a></li><li><a href="/testi/shakespeare/plays/henry_vi_part_one/act_3/scene_7/06_monologue_king_henry">06 monologue KING HENRY</a></li><li><a href="/testi/shakespeare/plays/henry_vi_part_one/act_3/scene_7/07_exchange_warwick">07 exchange WARWICK</a></li></ul>
+</nav>
 
 
 | Chi parla | Battuta |

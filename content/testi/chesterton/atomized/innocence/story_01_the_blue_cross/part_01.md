@@ -11,7 +11,7 @@ tags:
 <div class="qlang-switch" data-default="en"></div>
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/works/innocence-(chesterton)">The Innocence of Father Brown</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/innocence-(chesterton)">The Innocence of Father Brown</a> › <a href="/testi/chesterton/atomized/innocence/story_01_the_blue_cross">Story 01 The Blue Cross</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/innocence/story_12_the_three_tools_of_death">‹ Story 12 The Three Tools of Death</a><a class="ex-next" href="/testi/chesterton/atomized/innocence/story_01_the_blue_cross/part_02">part 02 ›</a></div>
 </nav>
 

@@ -12,6 +12,10 @@ tags:
 <div class="excerpt-crumb">Shakespeare · <a href="/works/cymbeline-(shakespeare)">Cymbeline</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/shakespeare/plays/cymbeline/act_3/scene_3">‹ Scene 3</a><a class="ex-next" href="/testi/shakespeare/plays/cymbeline/act_3/scene_6">Scene 6 ›</a></div>
 </nav>
+<nav class="excerpt-children">
+<div class="excerpt-children-label">In questa sezione</div>
+<ul><li><a href="/testi/shakespeare/plays/cymbeline/act_3/scene_4/01_exchange_dialogue">01 exchange dialogue</a></li><li><a href="/testi/shakespeare/plays/cymbeline/act_3/scene_4/02_exchange_pisanio">02 exchange PISANIO</a></li><li><a href="/testi/shakespeare/plays/cymbeline/act_3/scene_4/03_monologue_innogen">03 monologue INNOGEN</a></li><li><a href="/testi/shakespeare/plays/cymbeline/act_3/scene_4/04_exchange_pisanio">04 exchange PISANIO</a></li><li><a href="/testi/shakespeare/plays/cymbeline/act_3/scene_4/05_exchange_innogen">05 exchange INNOGEN</a></li><li><a href="/testi/shakespeare/plays/cymbeline/act_3/scene_4/06_exchange_queen">06 exchange QUEEN</a></li><li><a href="/testi/shakespeare/plays/cymbeline/act_3/scene_4/07_exchange_pisanio">07 exchange PISANIO</a></li></ul>
+</nav>
 
 
 | Chi parla | Battuta |

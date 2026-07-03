@@ -12,6 +12,10 @@ tags:
 <div class="excerpt-crumb">Dickens · <a href="/works/david-copperfield-(dickens)">David Copperfield</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/david_copperfield/chapter_08_my_holidays_especially_one_hap">‹ Chapter 08 MY HOLIDAYS ESPECIALLY ONE HAP</a><a class="ex-next" href="/testi/dickens/atomized/david_copperfield/chapter_10_i_become_neglected_and_am_prov">Chapter 10 I BECOME NEGLECTED AND AM PROV ›</a></div>
 </nav>
+<nav class="excerpt-children">
+<div class="excerpt-children-label">In questa sezione</div>
+<ul><li><a href="/testi/dickens/atomized/david_copperfield/chapter_09_i_have_a_memorable_birthday/part_01">Part 1</a></li><li><a href="/testi/dickens/atomized/david_copperfield/chapter_09_i_have_a_memorable_birthday/part_02">Part 2</a></li><li><a href="/testi/dickens/atomized/david_copperfield/chapter_09_i_have_a_memorable_birthday/part_03">Part 3</a></li><li><a href="/testi/dickens/atomized/david_copperfield/chapter_09_i_have_a_memorable_birthday/part_04">Part 4</a></li></ul>
+</nav>
 
 
 CHAPTER 9. I HAVE A MEMORABLE BIRTHDAY

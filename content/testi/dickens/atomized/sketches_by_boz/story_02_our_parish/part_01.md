@@ -9,7 +9,7 @@ tags:
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Dickens · <a href="/works/sketches-by-boz-(dickens)">Sketches by Boz</a></div>
+<div class="excerpt-crumb">Dickens · <a href="/works/sketches-by-boz-(dickens)">Sketches by Boz</a> › <a href="/testi/dickens/atomized/sketches_by_boz/story_02_our_parish">Story 02 Our Parish</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/sketches_by_boz/story_41_the_pantomime_of_life">‹ Story 41 The Pantomime Of Life</a><a class="ex-next" href="/testi/dickens/atomized/sketches_by_boz/story_02_our_parish/part_02">part 02 ›</a></div>
 </nav>
 

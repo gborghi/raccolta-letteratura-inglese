@@ -11,7 +11,7 @@ tags:
 <div class="qlang-switch" data-default="en"></div>
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/works/heret12-(chesterton)">Heretics</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/heret12-(chesterton)">Heretics</a> › <a href="/testi/chesterton/atomized/heret12/story_01_introductory_remarks_on_the_importance_o">Story 01 Introductory Remarks on the Importance o</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/heret12/story_01_introductory_remarks_on_the_importance_o/part_02">‹ part 02</a><a class="ex-next" href="/testi/chesterton/atomized/heret12/story_02_on_the_negative_spirit/part_01">part 01 ›</a></div>
 </nav>
 

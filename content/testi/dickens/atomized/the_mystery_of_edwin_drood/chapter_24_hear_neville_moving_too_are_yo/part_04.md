@@ -9,7 +9,7 @@ tags:
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Dickens · <a href="/works/the-mystery-of-edwin-drood-(dickens)">The Mystery of Edwin Drood</a></div>
+<div class="excerpt-crumb">Dickens · <a href="/works/the-mystery-of-edwin-drood-(dickens)">The Mystery of Edwin Drood</a> › <a href="/testi/dickens/atomized/the_mystery_of_edwin_drood/chapter_24_hear_neville_moving_too_are_yo">Chapter 24 hear Neville moving too Are yo</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/the_mystery_of_edwin_drood/chapter_24_hear_neville_moving_too_are_yo/part_03">‹ part 03</a><a class="ex-next" href="/testi/dickens/atomized/the_mystery_of_edwin_drood/chapter_24_hear_neville_moving_too_are_yo/part_05">part 05 ›</a></div>
 </nav>
 

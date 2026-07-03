@@ -14,6 +14,10 @@ tags:
 <div class="excerpt-crumb">Chesterton · <a href="/works/heret12-(chesterton)">Heretics</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/heret12/story_17_the_fallacy_of_the_young_nation">‹ Story 17 The Fallacy of the Young Nation</a><a class="ex-next" href="/testi/chesterton/atomized/heret12/story_19_concluding_remarks_on_the_importance_of">Story 19 Concluding Remarks on the Importance of ›</a></div>
 </nav>
+<nav class="excerpt-children">
+<div class="excerpt-children-label">In questa sezione</div>
+<ul><li><a href="/testi/chesterton/atomized/heret12/story_18_slum_novelists_and_the_slums/part_01">Part 1</a></li><li><a href="/testi/chesterton/atomized/heret12/story_18_slum_novelists_and_the_slums/part_02">Part 2</a></li><li><a href="/testi/chesterton/atomized/heret12/story_18_slum_novelists_and_the_slums/part_03">Part 3</a></li></ul>
+</nav>
 
 # [[heret12]] — Slum Novelists and the Slums
 

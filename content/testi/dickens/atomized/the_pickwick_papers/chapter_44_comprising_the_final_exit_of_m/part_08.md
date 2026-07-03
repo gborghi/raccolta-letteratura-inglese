@@ -9,7 +9,7 @@ tags:
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Dickens · <a href="/works/the-pickwick-papers-(dickens)">The Pickwick Papers</a></div>
+<div class="excerpt-crumb">Dickens · <a href="/works/the-pickwick-papers-(dickens)">The Pickwick Papers</a> › <a href="/testi/dickens/atomized/the_pickwick_papers/chapter_44_comprising_the_final_exit_of_m">Chapter 44 COMPRISING THE FINAL EXIT OF M</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/the_pickwick_papers/chapter_44_comprising_the_final_exit_of_m/part_07">‹ part 07</a><a class="ex-next" href="/testi/dickens/atomized/the_pickwick_papers/chapter_44_comprising_the_final_exit_of_m/part_09">part 09 ›</a></div>
 </nav>
 

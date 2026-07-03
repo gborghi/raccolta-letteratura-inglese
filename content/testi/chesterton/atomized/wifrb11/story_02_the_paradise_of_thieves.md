@@ -14,6 +14,10 @@ tags:
 <div class="excerpt-crumb">Chesterton · <a href="/works/wifrb11-(chesterton)">The Wisdom of Father Brown</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/wifrb11/story_01_the_absence_of_mr_glass">‹ Story 01 The Absence of Mr Glass</a><a class="ex-next" href="/testi/chesterton/atomized/wifrb11/story_03_the_duel_of_dr_hirsch">Story 03 The Duel of Dr Hirsch ›</a></div>
 </nav>
+<nav class="excerpt-children">
+<div class="excerpt-children-label">In questa sezione</div>
+<ul><li><a href="/testi/chesterton/atomized/wifrb11/story_02_the_paradise_of_thieves/part_01">Part 1</a></li><li><a href="/testi/chesterton/atomized/wifrb11/story_02_the_paradise_of_thieves/part_02">Part 2</a></li><li><a href="/testi/chesterton/atomized/wifrb11/story_02_the_paradise_of_thieves/part_03">Part 3</a></li><li><a href="/testi/chesterton/atomized/wifrb11/story_02_the_paradise_of_thieves/part_04">Part 4</a></li><li><a href="/testi/chesterton/atomized/wifrb11/story_02_the_paradise_of_thieves/part_05">Part 5</a></li><li><a href="/testi/chesterton/atomized/wifrb11/story_02_the_paradise_of_thieves/part_06">Part 6</a></li></ul>
+</nav>
 
 # [[wifrb11]] — The Paradise of Thieves
 

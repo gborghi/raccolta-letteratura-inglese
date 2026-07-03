@@ -9,7 +9,7 @@ tags:
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/works/the-uses-of-diversity-(chesterton)">The Uses of Diversity</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/the-uses-of-diversity-(chesterton)">The Uses of Diversity</a> › <a href="/testi/chesterton/atomized/the_uses_of_diversity/story_22_questions_of_divorce_divorce">Story 22 Questions of divorce Divorce</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/the_uses_of_diversity/story_35_on_monsters">‹ Story 35 On Monsters</a><a class="ex-next" href="/testi/chesterton/atomized/the_uses_of_diversity/story_22_questions_of_divorce_divorce/part_02">part 02 ›</a></div>
 </nav>
 

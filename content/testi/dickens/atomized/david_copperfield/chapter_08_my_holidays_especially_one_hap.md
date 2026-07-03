@@ -12,6 +12,10 @@ tags:
 <div class="excerpt-crumb">Dickens · <a href="/works/david-copperfield-(dickens)">David Copperfield</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/david_copperfield/chapter_07_my_first_half_at_salem_house_h">‹ Chapter 07 MY FIRST HALF AT SALEM house H</a><a class="ex-next" href="/testi/dickens/atomized/david_copperfield/chapter_09_i_have_a_memorable_birthday">Chapter 09 I HAVE A MEMORABLE BIRTHDAY ›</a></div>
 </nav>
+<nav class="excerpt-children">
+<div class="excerpt-children-label">In questa sezione</div>
+<ul><li><a href="/testi/dickens/atomized/david_copperfield/chapter_08_my_holidays_especially_one_hap/part_01">Part 1</a></li><li><a href="/testi/dickens/atomized/david_copperfield/chapter_08_my_holidays_especially_one_hap/part_02">Part 2</a></li><li><a href="/testi/dickens/atomized/david_copperfield/chapter_08_my_holidays_especially_one_hap/part_03">Part 3</a></li><li><a href="/testi/dickens/atomized/david_copperfield/chapter_08_my_holidays_especially_one_hap/part_04">Part 4</a></li><li><a href="/testi/dickens/atomized/david_copperfield/chapter_08_my_holidays_especially_one_hap/part_05">Part 5</a></li></ul>
+</nav>
 
 
 CHAPTER 8. MY HOLIDAYS. ESPECIALLY ONE HAPPY AFTERNOON

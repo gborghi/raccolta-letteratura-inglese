@@ -12,6 +12,10 @@ tags:
 <div class="excerpt-crumb">Chesterton · <a href="/works/allthingsconsidered-8-(chesterton)">AllThingsConsidered 8</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/allthingsconsidered_8/story_34_a_dead_poet">‹ Story 34 A DEAD POET</a><a class="ex-next" href="/testi/chesterton/atomized/allthingsconsidered_8/story_02_cockneys_cockneys_and_their_jokes/part_01">part 01 ›</a></div>
 </nav>
+<nav class="excerpt-children">
+<div class="excerpt-children-label">In questa sezione</div>
+<ul><li><a href="/testi/chesterton/atomized/allthingsconsidered_8/story_35_christmas/part_01">Part 1</a></li><li><a href="/testi/chesterton/atomized/allthingsconsidered_8/story_35_christmas/part_02">Part 2</a></li><li><a href="/testi/chesterton/atomized/allthingsconsidered_8/story_35_christmas/part_03">Part 3</a></li><li><a href="/testi/chesterton/atomized/allthingsconsidered_8/story_35_christmas/part_04">Part 4</a></li><li><a href="/testi/chesterton/atomized/allthingsconsidered_8/story_35_christmas/part_05">Part 5</a></li><li><a href="/testi/chesterton/atomized/allthingsconsidered_8/story_35_christmas/part_06">Part 6</a></li></ul>
+</nav>
 
 
 CHRISTMAS

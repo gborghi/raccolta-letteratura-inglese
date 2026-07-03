@@ -12,6 +12,10 @@ tags:
 <div class="excerpt-crumb">Dickens · <a href="/works/david-copperfield-(dickens)">David Copperfield</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/david_copperfield/chapter_11_i_begin_life_on_my_own_account">‹ Chapter 11 I BEGIN LIFE ON MY OWN ACCOUNT</a><a class="ex-next" href="/testi/dickens/atomized/david_copperfield/chapter_13_the_sequel_of_my_resolution">Chapter 13 THE SEQUEL OF MY RESOLUTION ›</a></div>
 </nav>
+<nav class="excerpt-children">
+<div class="excerpt-children-label">In questa sezione</div>
+<ul><li><a href="/testi/dickens/atomized/david_copperfield/chapter_12_liking_life_on_my_own_account/part_01">Part 1</a></li><li><a href="/testi/dickens/atomized/david_copperfield/chapter_12_liking_life_on_my_own_account/part_02">Part 2</a></li><li><a href="/testi/dickens/atomized/david_copperfield/chapter_12_liking_life_on_my_own_account/part_03">Part 3</a></li><li><a href="/testi/dickens/atomized/david_copperfield/chapter_12_liking_life_on_my_own_account/part_04">Part 4</a></li></ul>
+</nav>
 
 
 CHAPTER 12. LIKING LIFE ON MY OWN ACCOUNT NO BETTER, I FORM A GREAT

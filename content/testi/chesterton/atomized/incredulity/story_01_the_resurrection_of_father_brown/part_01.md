@@ -11,7 +11,7 @@ tags:
 <div class="qlang-switch" data-default="en"></div>
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/works/incredulity-(chesterton)">Incredulity</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/incredulity-(chesterton)">Incredulity</a> › <a href="/testi/chesterton/atomized/incredulity/story_01_the_resurrection_of_father_brown">Story 01 The Resurrection of Father Brown</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/incredulity/story_08_the_ghost_of_gideon_wise">‹ Story 08 The Ghost of Gideon Wise</a><a class="ex-next" href="/testi/chesterton/atomized/incredulity/story_01_the_resurrection_of_father_brown/part_02">part 02 ›</a></div>
 </nav>
 

@@ -12,6 +12,10 @@ tags:
 <div class="excerpt-crumb">Dickens · <a href="/works/the-pickwick-papers-(dickens)">The Pickwick Papers</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/the_pickwick_papers/chapter_24_which_contains_a_brief_account">‹ Chapter 24 WHICH CONTAINS A BRIEF ACCOUNT</a><a class="ex-next" href="/testi/dickens/atomized/the_pickwick_papers/chapter_26_a_good_humoured_christmas_chap">Chapter 26 A GOOD HUMOURED CHRISTMAS CHAP ›</a></div>
 </nav>
+<nav class="excerpt-children">
+<div class="excerpt-children-label">In questa sezione</div>
+<ul><li><a href="/testi/dickens/atomized/the_pickwick_papers/chapter_25_samuel_weller_makes_a_pilgrima/part_01">Part 1</a></li><li><a href="/testi/dickens/atomized/the_pickwick_papers/chapter_25_samuel_weller_makes_a_pilgrima/part_02">Part 2</a></li><li><a href="/testi/dickens/atomized/the_pickwick_papers/chapter_25_samuel_weller_makes_a_pilgrima/part_03">Part 3</a></li><li><a href="/testi/dickens/atomized/the_pickwick_papers/chapter_25_samuel_weller_makes_a_pilgrima/part_04">Part 4</a></li></ul>
+</nav>
 
 
 CHAPTER XXVII. SAMUEL WELLER MAKES A PILGRIMAGE TO DORKING, AND BEHOLDS

@@ -12,6 +12,10 @@ tags:
 <div class="excerpt-crumb">Shakespeare · <a href="/works/the-two-gentlemen-of-verona-(shakespeare)">The Two Gentlemen of Verona</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/shakespeare/plays/the_two_gentlemen_of_verona/act_4/scene_3">‹ Scene 3</a><a class="ex-next" href="/testi/shakespeare/plays/the_two_gentlemen_of_verona/act_5/scene_1">Scene 1 ›</a></div>
 </nav>
+<nav class="excerpt-children">
+<div class="excerpt-children-label">In questa sezione</div>
+<ul><li><a href="/testi/shakespeare/plays/the_two_gentlemen_of_verona/act_4/scene_4/01_exchange_dialogue">01 exchange dialogue</a></li><li><a href="/testi/shakespeare/plays/the_two_gentlemen_of_verona/act_4/scene_4/02_monologue_lance">02 monologue LANCE</a></li><li><a href="/testi/shakespeare/plays/the_two_gentlemen_of_verona/act_4/scene_4/03_exchange_proteus">03 exchange PROTEUS</a></li><li><a href="/testi/shakespeare/plays/the_two_gentlemen_of_verona/act_4/scene_4/04_exchange_silvia">04 exchange SILVIA</a></li><li><a href="/testi/shakespeare/plays/the_two_gentlemen_of_verona/act_4/scene_4/05_monologue_julia">05 monologue JULIA</a></li></ul>
+</nav>
 
 
 | Chi parla | Battuta |

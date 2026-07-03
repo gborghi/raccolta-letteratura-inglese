@@ -12,6 +12,10 @@ tags:
 <div class="excerpt-crumb">Chesterton · <a href="/works/well-and-shallows-(chesterton)">Well And Shallows</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/well_and_shallows/story_24_back_in_the_fog">‹ Story 24 Back In The Fog</a><a class="ex-next" href="/testi/chesterton/atomized/well_and_shallows/story_26_trade_terms">Story 26 Trade Terms ›</a></div>
 </nav>
+<nav class="excerpt-children">
+<div class="excerpt-children-label">In questa sezione</div>
+<ul><li><a href="/testi/chesterton/atomized/well_and_shallows/story_25_a_century_of_emancipation/part_01">Part 1</a></li><li><a href="/testi/chesterton/atomized/well_and_shallows/story_25_a_century_of_emancipation/part_02">Part 2</a></li><li><a href="/testi/chesterton/atomized/well_and_shallows/story_25_a_century_of_emancipation/part_03">Part 3</a></li><li><a href="/testi/chesterton/atomized/well_and_shallows/story_25_a_century_of_emancipation/part_04">Part 4</a></li></ul>
+</nav>
 
 
 A CENTURY OF EMANCIPATION

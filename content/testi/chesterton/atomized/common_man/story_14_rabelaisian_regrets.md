@@ -12,6 +12,10 @@ tags:
 <div class="excerpt-crumb">Chesterton · <a href="/works/common-man-(chesterton)">Common Man</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/common_man/story_13_the_real_dr_johnson">‹ Story 13 The Real Dr Johnson</a><a class="ex-next" href="/testi/chesterton/atomized/common_man/story_15_the_hound_of_heaven">Story 15 The Hound Of Heaven ›</a></div>
 </nav>
+<nav class="excerpt-children">
+<div class="excerpt-children-label">In questa sezione</div>
+<ul><li><a href="/testi/chesterton/atomized/common_man/story_14_rabelaisian_regrets/part_01">Part 1</a></li><li><a href="/testi/chesterton/atomized/common_man/story_14_rabelaisian_regrets/part_02">Part 2</a></li><li><a href="/testi/chesterton/atomized/common_man/story_14_rabelaisian_regrets/part_03">Part 3</a></li></ul>
+</nav>
 
 
 RABELAISIAN REGRETS

@@ -12,6 +12,10 @@ tags:
 <div class="excerpt-crumb">Dickens · <a href="/works/little-dorrit-(dickens)">Little Dorrit</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/little_dorrit/chapter_31_mrs_flintwinch_goes_on_dreamin">‹ Chapter 31 Mrs Flintwinch goes on Dreamin</a><a class="ex-next" href="/testi/dickens/atomized/little_dorrit/chapter_33_spirit">Chapter 33 Spirit ›</a></div>
 </nav>
+<nav class="excerpt-children">
+<div class="excerpt-children-label">In questa sezione</div>
+<ul><li><a href="/testi/dickens/atomized/little_dorrit/chapter_32_the_word_of_a_gentleman/part_01">Part 1</a></li><li><a href="/testi/dickens/atomized/little_dorrit/chapter_32_the_word_of_a_gentleman/part_02">Part 2</a></li><li><a href="/testi/dickens/atomized/little_dorrit/chapter_32_the_word_of_a_gentleman/part_03">Part 3</a></li><li><a href="/testi/dickens/atomized/little_dorrit/chapter_32_the_word_of_a_gentleman/part_04">Part 4</a></li><li><a href="/testi/dickens/atomized/little_dorrit/chapter_32_the_word_of_a_gentleman/part_05">Part 5</a></li><li><a href="/testi/dickens/atomized/little_dorrit/chapter_32_the_word_of_a_gentleman/part_06">Part 6</a></li></ul>
+</nav>
 
 
 CHAPTER 30. The Word of a Gentleman

@@ -12,6 +12,10 @@ tags:
 <div class="excerpt-crumb">Dickens · <a href="/works/the-pickwick-papers-(dickens)">The Pickwick Papers</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/the_pickwick_papers/chapter_16_showing_that_an_attack_of_rheu">‹ Chapter 16 SHOWING THAT AN ATTACK OF RHEU</a><a class="ex-next" href="/testi/dickens/atomized/the_pickwick_papers/chapter_18_a_pleasant_day_with_an_unpleas">Chapter 18 A PLEASANT DAY WITH AN UNPLEAS ›</a></div>
 </nav>
+<nav class="excerpt-children">
+<div class="excerpt-children-label">In questa sezione</div>
+<ul><li><a href="/testi/dickens/atomized/the_pickwick_papers/chapter_17_briefly_illustrative_of_two_po/part_01">Part 1</a></li><li><a href="/testi/dickens/atomized/the_pickwick_papers/chapter_17_briefly_illustrative_of_two_po/part_02">Part 2</a></li><li><a href="/testi/dickens/atomized/the_pickwick_papers/chapter_17_briefly_illustrative_of_two_po/part_03">Part 3</a></li><li><a href="/testi/dickens/atomized/the_pickwick_papers/chapter_17_briefly_illustrative_of_two_po/part_04">Part 4</a></li></ul>
+</nav>
 
 
 CHAPTER XVIII. BRIEFLY ILLUSTRATIVE OF TWO POINTS; FIRST, THE POWER OF

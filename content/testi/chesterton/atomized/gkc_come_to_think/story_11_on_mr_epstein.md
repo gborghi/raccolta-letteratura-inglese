@@ -12,6 +12,10 @@ tags:
 <div class="excerpt-crumb">Chesterton · <a href="/works/gkc-come-to-think-(chesterton)">GKC Come to Think</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/gkc_come_to_think/story_10_on_egoists_and_egoists">‹ Story 10 ON EGOISTS AND EGOISTS</a><a class="ex-next" href="/testi/chesterton/atomized/gkc_come_to_think/story_12_on_who_killed_john_keats">Story 12 ON WHO KILLED JOHN KEATS ›</a></div>
 </nav>
+<nav class="excerpt-children">
+<div class="excerpt-children-label">In questa sezione</div>
+<ul><li><a href="/testi/chesterton/atomized/gkc_come_to_think/story_11_on_mr_epstein/part_01">Part 1</a></li><li><a href="/testi/chesterton/atomized/gkc_come_to_think/story_11_on_mr_epstein/part_02">Part 2</a></li></ul>
+</nav>
 
 
 XI On Mr. Epstein

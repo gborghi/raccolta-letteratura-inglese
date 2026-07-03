@@ -12,6 +12,10 @@ tags:
 <div class="excerpt-crumb">Dickens · <a href="/works/little-dorrit-(dickens)">Little Dorrit</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/little_dorrit/chapter_47_appearance_and_disappearance">‹ Chapter 47 Appearance and Disappearance</a><a class="ex-next" href="/testi/dickens/atomized/little_dorrit/chapter_49_a_letter_from_little_dorrit">Chapter 49 A Letter from Little Dorrit ›</a></div>
 </nav>
+<nav class="excerpt-children">
+<div class="excerpt-children-label">In questa sezione</div>
+<ul><li><a href="/testi/dickens/atomized/little_dorrit/chapter_48_the_dreams_of_mrs_flintwinch_t/part_01">Part 1</a></li><li><a href="/testi/dickens/atomized/little_dorrit/chapter_48_the_dreams_of_mrs_flintwinch_t/part_02">Part 2</a></li><li><a href="/testi/dickens/atomized/little_dorrit/chapter_48_the_dreams_of_mrs_flintwinch_t/part_03">Part 3</a></li></ul>
+</nav>
 
 
 CHAPTER 10. The [[Dreams]] of Mrs Flintwinch thicken

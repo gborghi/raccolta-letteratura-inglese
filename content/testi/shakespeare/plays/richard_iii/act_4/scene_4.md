@@ -12,6 +12,10 @@ tags:
 <div class="excerpt-crumb">Shakespeare · <a href="/works/richard-iii-(shakespeare)">Richard III</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/shakespeare/plays/richard_iii/act_4/scene_3">‹ Scene 3</a><a class="ex-next" href="/testi/shakespeare/plays/richard_iii/act_4/scene_5">Scene 5 ›</a></div>
 </nav>
+<nav class="excerpt-children">
+<div class="excerpt-children-label">In questa sezione</div>
+<ul><li><a href="/testi/shakespeare/plays/richard_iii/act_4/scene_4/01_exchange_dialogue">01 exchange dialogue</a></li><li><a href="/testi/shakespeare/plays/richard_iii/act_4/scene_4/02_exchange_queen_margaret">02 exchange QUEEN MARGARET</a></li><li><a href="/testi/shakespeare/plays/richard_iii/act_4/scene_4/03_monologue_queen_margaret">03 monologue QUEEN MARGARET</a></li><li><a href="/testi/shakespeare/plays/richard_iii/act_4/scene_4/04_exchange_queen_elizabeth">04 exchange QUEEN ELIZABETH</a></li><li><a href="/testi/shakespeare/plays/richard_iii/act_4/scene_4/05_exchange_king_richard">05 exchange KING RICHARD</a></li><li><a href="/testi/shakespeare/plays/richard_iii/act_4/scene_4/06_exchange_king_richard">06 exchange KING RICHARD</a></li><li><a href="/testi/shakespeare/plays/richard_iii/act_4/scene_4/07_exchange_queen_elizabeth">07 exchange QUEEN ELIZABETH</a></li><li><a href="/testi/shakespeare/plays/richard_iii/act_4/scene_4/08_exchange_queen_elizabeth">08 exchange QUEEN ELIZABETH</a></li><li><a href="/testi/shakespeare/plays/richard_iii/act_4/scene_4/09_exchange_king_richard">09 exchange KING RICHARD</a></li><li><a href="/testi/shakespeare/plays/richard_iii/act_4/scene_4/10_exchange_king_richard">10 exchange KING RICHARD</a></li></ul>
+</nav>
 
 
 | Chi parla | Battuta |

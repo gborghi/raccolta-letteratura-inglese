@@ -12,6 +12,10 @@ tags:
 <div class="excerpt-crumb">Shakespeare · <a href="/works/hamlet-(shakespeare)">Hamlet</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/shakespeare/plays/hamlet/act_3/scene_1">‹ Scene 1</a><a class="ex-next" href="/testi/shakespeare/plays/hamlet/act_3/scene_3">Scene 3 ›</a></div>
 </nav>
+<nav class="excerpt-children">
+<div class="excerpt-children-label">In questa sezione</div>
+<ul><li><a href="/testi/shakespeare/plays/hamlet/act_3/scene_2/01_exchange_dialogue">01 exchange dialogue</a></li><li><a href="/testi/shakespeare/plays/hamlet/act_3/scene_2/02_monologue_hamlet">02 monologue HAMLET</a></li><li><a href="/testi/shakespeare/plays/hamlet/act_3/scene_2/03_exchange_a_player_i">03 exchange A PLAYER I</a></li><li><a href="/testi/shakespeare/plays/hamlet/act_3/scene_2/04_monologue_hamlet">04 monologue HAMLET</a></li><li><a href="/testi/shakespeare/plays/hamlet/act_3/scene_2/05_exchange_horatio">05 exchange HORATIO</a></li><li><a href="/testi/shakespeare/plays/hamlet/act_3/scene_2/06_monologue_hamlet">06 monologue HAMLET</a></li><li><a href="/testi/shakespeare/plays/hamlet/act_3/scene_2/07_exchange_ophelia">07 exchange OPHELIA</a></li><li><a href="/testi/shakespeare/plays/hamlet/act_3/scene_2/08_monologue_player_king">08 monologue PLAYER KING</a></li><li><a href="/testi/shakespeare/plays/hamlet/act_3/scene_2/09_exchange_player_queen">09 exchange PLAYER QUEEN</a></li><li><a href="/testi/shakespeare/plays/hamlet/act_3/scene_2/10_exchange_hamlet_a">10 exchange HAMLET A</a></li><li><a href="/testi/shakespeare/plays/hamlet/act_3/scene_2/11_exchange_hamlet_i">11 exchange HAMLET I</a></li></ul>
+</nav>
 
 
 | Chi parla | Battuta |

@@ -12,6 +12,10 @@ tags:
 <div class="excerpt-crumb">Dickens · <a href="/works/sketches-by-boz-(dickens)">Sketches by Boz</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/sketches_by_boz/story_06_tales">‹ Story 06 Tales</a><a class="ex-next" href="/testi/dickens/atomized/sketches_by_boz/story_08_chapter_the_second">Story 08 Chapter The Second ›</a></div>
 </nav>
+<nav class="excerpt-children">
+<div class="excerpt-children-label">In questa sezione</div>
+<ul><li><a href="/testi/dickens/atomized/sketches_by_boz/story_07_chapter_i/part_01">Part 1</a></li><li><a href="/testi/dickens/atomized/sketches_by_boz/story_07_chapter_i/part_02">Part 2</a></li><li><a href="/testi/dickens/atomized/sketches_by_boz/story_07_chapter_i/part_03">Part 3</a></li><li><a href="/testi/dickens/atomized/sketches_by_boz/story_07_chapter_i/part_04">Part 4</a></li><li><a href="/testi/dickens/atomized/sketches_by_boz/story_07_chapter_i/part_05">Part 5</a></li><li><a href="/testi/dickens/atomized/sketches_by_boz/story_07_chapter_i/part_06">Part 6</a></li></ul>
+</nav>
 
 
 CHAPTER I.

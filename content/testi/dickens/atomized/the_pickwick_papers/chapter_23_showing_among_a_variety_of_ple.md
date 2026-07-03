@@ -12,6 +12,10 @@ tags:
 <div class="excerpt-crumb">Dickens · <a href="/works/the-pickwick-papers-(dickens)">The Pickwick Papers</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/the_pickwick_papers/chapter_22_wherein_mr_peter_magnus_grows">‹ Chapter 22 WHEREIN MR PETER MAGNUS GROWS</a><a class="ex-next" href="/testi/dickens/atomized/the_pickwick_papers/chapter_24_which_contains_a_brief_account">Chapter 24 WHICH CONTAINS A BRIEF ACCOUNT ›</a></div>
 </nav>
+<nav class="excerpt-children">
+<div class="excerpt-children-label">In questa sezione</div>
+<ul><li><a href="/testi/dickens/atomized/the_pickwick_papers/chapter_23_showing_among_a_variety_of_ple/part_01">Part 1</a></li><li><a href="/testi/dickens/atomized/the_pickwick_papers/chapter_23_showing_among_a_variety_of_ple/part_02">Part 2</a></li><li><a href="/testi/dickens/atomized/the_pickwick_papers/chapter_23_showing_among_a_variety_of_ple/part_03">Part 3</a></li><li><a href="/testi/dickens/atomized/the_pickwick_papers/chapter_23_showing_among_a_variety_of_ple/part_04">Part 4</a></li><li><a href="/testi/dickens/atomized/the_pickwick_papers/chapter_23_showing_among_a_variety_of_ple/part_05">Part 5</a></li><li><a href="/testi/dickens/atomized/the_pickwick_papers/chapter_23_showing_among_a_variety_of_ple/part_06">Part 6</a></li><li><a href="/testi/dickens/atomized/the_pickwick_papers/chapter_23_showing_among_a_variety_of_ple/part_07">Part 7</a></li></ul>
+</nav>
 
 
 CHAPTER XXV. SHOWING, AMONG A VARIETY OF PLEASANT MATTERS, HOW MAJESTIC

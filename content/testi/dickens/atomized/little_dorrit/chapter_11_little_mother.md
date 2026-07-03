@@ -12,6 +12,10 @@ tags:
 <div class="excerpt-crumb">Dickens · <a href="/works/little-dorrit-(dickens)">Little Dorrit</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/little_dorrit/chapter_10_the_lock">‹ Chapter 10 The Lock</a><a class="ex-next" href="/testi/dickens/atomized/little_dorrit/chapter_12_containing_the_whole_science_o">Chapter 12 Containing the whole Science o ›</a></div>
 </nav>
+<nav class="excerpt-children">
+<div class="excerpt-children-label">In questa sezione</div>
+<ul><li><a href="/testi/dickens/atomized/little_dorrit/chapter_11_little_mother/part_01">Part 1</a></li><li><a href="/testi/dickens/atomized/little_dorrit/chapter_11_little_mother/part_02">Part 2</a></li><li><a href="/testi/dickens/atomized/little_dorrit/chapter_11_little_mother/part_03">Part 3</a></li><li><a href="/testi/dickens/atomized/little_dorrit/chapter_11_little_mother/part_04">Part 4</a></li><li><a href="/testi/dickens/atomized/little_dorrit/chapter_11_little_mother/part_05">Part 5</a></li></ul>
+</nav>
 
 
 CHAPTER 9. Little Mother

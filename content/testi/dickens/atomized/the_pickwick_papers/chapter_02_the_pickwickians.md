@@ -12,6 +12,10 @@ tags:
 <div class="excerpt-crumb">Dickens · <a href="/works/the-pickwick-papers-(dickens)">The Pickwick Papers</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/the_pickwick_papers/chapter_01_an_important_conference_takes">‹ Chapter 01 AN IMPORTANT CONFERENCE TAKES</a><a class="ex-next" href="/testi/dickens/atomized/the_pickwick_papers/chapter_03_a_new_acquaintance_the_strolle">Chapter 03 A NEW ACQUAINTANCE THE STROLLE ›</a></div>
 </nav>
+<nav class="excerpt-children">
+<div class="excerpt-children-label">In questa sezione</div>
+<ul><li><a href="/testi/dickens/atomized/the_pickwick_papers/chapter_02_the_pickwickians/part_01">Part 1</a></li><li><a href="/testi/dickens/atomized/the_pickwick_papers/chapter_02_the_pickwickians/part_02">Part 2</a></li><li><a href="/testi/dickens/atomized/the_pickwick_papers/chapter_02_the_pickwickians/part_03">Part 3</a></li><li><a href="/testi/dickens/atomized/the_pickwick_papers/chapter_02_the_pickwickians/part_04">Part 4</a></li><li><a href="/testi/dickens/atomized/the_pickwick_papers/chapter_02_the_pickwickians/part_05">Part 5</a></li><li><a href="/testi/dickens/atomized/the_pickwick_papers/chapter_02_the_pickwickians/part_06">Part 6</a></li><li><a href="/testi/dickens/atomized/the_pickwick_papers/chapter_02_the_pickwickians/part_07">Part 7</a></li><li><a href="/testi/dickens/atomized/the_pickwick_papers/chapter_02_the_pickwickians/part_08">Part 8</a></li><li><a href="/testi/dickens/atomized/the_pickwick_papers/chapter_02_the_pickwickians/part_09">Part 9</a></li><li><a href="/testi/dickens/atomized/the_pickwick_papers/chapter_02_the_pickwickians/part_10">Part 10</a></li><li><a href="/testi/dickens/atomized/the_pickwick_papers/chapter_02_the_pickwickians/part_11">Part 11</a></li></ul>
+</nav>
 
 
 CHAPTER I. THE PICKWICKIANS

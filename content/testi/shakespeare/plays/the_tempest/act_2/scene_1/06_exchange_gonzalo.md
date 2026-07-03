@@ -9,7 +9,7 @@ tags:
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Shakespeare · <a href="/works/the-tempest-(shakespeare)">The Tempest</a></div>
+<div class="excerpt-crumb">Shakespeare · <a href="/works/the-tempest-(shakespeare)">The Tempest</a> › <a href="/testi/shakespeare/plays/the_tempest/act_2/scene_1">Scene 1</a></div>
 </nav>
 
 

@@ -14,6 +14,10 @@ tags:
 <div class="excerpt-crumb">Chesterton · <a href="/works/wifrb11-(chesterton)">The Wisdom of Father Brown</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/wifrb11/story_07_the_purple_wig">‹ Story 07 The Purple Wig</a><a class="ex-next" href="/testi/chesterton/atomized/wifrb11/story_09_the_god_of_the_gongs">Story 09 The God of the Gongs ›</a></div>
 </nav>
+<nav class="excerpt-children">
+<div class="excerpt-children-label">In questa sezione</div>
+<ul><li><a href="/testi/chesterton/atomized/wifrb11/story_08_the_perishing_of_the_pendragons/part_01">Part 1</a></li><li><a href="/testi/chesterton/atomized/wifrb11/story_08_the_perishing_of_the_pendragons/part_02">Part 2</a></li><li><a href="/testi/chesterton/atomized/wifrb11/story_08_the_perishing_of_the_pendragons/part_03">Part 3</a></li><li><a href="/testi/chesterton/atomized/wifrb11/story_08_the_perishing_of_the_pendragons/part_04">Part 4</a></li><li><a href="/testi/chesterton/atomized/wifrb11/story_08_the_perishing_of_the_pendragons/part_05">Part 5</a></li><li><a href="/testi/chesterton/atomized/wifrb11/story_08_the_perishing_of_the_pendragons/part_06">Part 6</a></li><li><a href="/testi/chesterton/atomized/wifrb11/story_08_the_perishing_of_the_pendragons/part_07">Part 7</a></li></ul>
+</nav>
 
 # [[wifrb11]] — The Perishing of the Pendragons
 

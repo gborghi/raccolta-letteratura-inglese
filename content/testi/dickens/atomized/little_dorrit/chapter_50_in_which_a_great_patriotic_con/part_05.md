@@ -9,7 +9,7 @@ tags:
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Dickens · <a href="/works/little-dorrit-(dickens)">Little Dorrit</a></div>
+<div class="excerpt-crumb">Dickens · <a href="/works/little-dorrit-(dickens)">Little Dorrit</a> › <a href="/testi/dickens/atomized/little_dorrit/chapter_50_in_which_a_great_patriotic_con">Chapter 50 In which a Great Patriotic Con</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/little_dorrit/chapter_50_in_which_a_great_patriotic_con/part_04">‹ part 04</a><a class="ex-next" href="/testi/dickens/atomized/little_dorrit/chapter_50_in_which_a_great_patriotic_con/part_06">part 06 ›</a></div>
 </nav>
 

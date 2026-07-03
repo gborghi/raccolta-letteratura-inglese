@@ -14,6 +14,10 @@ tags:
 <div class="excerpt-crumb">Sayers · <a href="/works/the-mind-of-the-maker-(sayers)">The Mind of the Maker</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/sayers/atomized/the_mind_of_the_maker/chapter_08_maker_of_all_thingsmaker_of_il">‹ Chapter 08 Maker of All ThingsMaker of Il</a><a class="ex-next" href="/testi/sayers/atomized/the_mind_of_the_maker/chapter_10_the_love_of_the_creature">Chapter 10 The Love of the Creature ›</a></div>
 </nav>
+<nav class="excerpt-children">
+<div class="excerpt-children-label">In questa sezione</div>
+<ul><li><a href="/testi/sayers/atomized/the_mind_of_the_maker/chapter_09_pentecost/part_01">Part 1</a></li><li><a href="/testi/sayers/atomized/the_mind_of_the_maker/chapter_09_pentecost/part_02">Part 2</a></li><li><a href="/testi/sayers/atomized/the_mind_of_the_maker/chapter_09_pentecost/part_03">Part 3</a></li><li><a href="/testi/sayers/atomized/the_mind_of_the_maker/chapter_09_pentecost/part_04">Part 4</a></li></ul>
+</nav>
 
 
 CHAPTER 9. Pentecost

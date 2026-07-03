@@ -12,6 +12,10 @@ tags:
 <div class="excerpt-crumb">Chesterton · <a href="/works/scandal-fr-brown-(chesterton)">scandal Fr Brown</a></div>
 <div class="excerpt-pn"><span></span><a class="ex-next" href="/testi/chesterton/atomized/scandal_fr_brown/story_02_the_quick_one">Story 02 The Quick One ›</a></div>
 </nav>
+<nav class="excerpt-children">
+<div class="excerpt-children-label">In questa sezione</div>
+<ul><li><a href="/testi/chesterton/atomized/scandal_fr_brown/story_01_the_scandal_of_father_brown/part_01">Part 1</a></li><li><a href="/testi/chesterton/atomized/scandal_fr_brown/story_01_the_scandal_of_father_brown/part_02">Part 2</a></li><li><a href="/testi/chesterton/atomized/scandal_fr_brown/story_01_the_scandal_of_father_brown/part_03">Part 3</a></li><li><a href="/testi/chesterton/atomized/scandal_fr_brown/story_01_the_scandal_of_father_brown/part_04">Part 4</a></li><li><a href="/testi/chesterton/atomized/scandal_fr_brown/story_01_the_scandal_of_father_brown/part_05">Part 5</a></li><li><a href="/testi/chesterton/atomized/scandal_fr_brown/story_01_the_scandal_of_father_brown/part_06">Part 6</a></li></ul>
+</nav>
 
 
 ONE: The Scandal of [[Father Brown]]

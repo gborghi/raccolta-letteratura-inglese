@@ -12,6 +12,10 @@ tags:
 <div class="excerpt-crumb">Shakespeare · <a href="/works/the-tragedy-of-king-lear---the-folio-text-(shakespeare)">The Tragedy of King Lear Folio Text</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/shakespeare/plays/the_tragedy_of_king_lear_folio_text/act_4/scene_4">‹ Scene 4</a><a class="ex-next" href="/testi/shakespeare/plays/the_tragedy_of_king_lear_folio_text/act_5/scene_2">Scene 2 ›</a></div>
 </nav>
+<nav class="excerpt-children">
+<div class="excerpt-children-label">In questa sezione</div>
+<ul><li><a href="/testi/shakespeare/plays/the_tragedy_of_king_lear_folio_text/act_4/scene_5/01_exchange_dialogue">01 exchange dialogue</a></li><li><a href="/testi/shakespeare/plays/the_tragedy_of_king_lear_folio_text/act_4/scene_5/02_exchange_edgar">02 exchange EDGAR</a></li><li><a href="/testi/shakespeare/plays/the_tragedy_of_king_lear_folio_text/act_4/scene_5/03_monologue_lear">03 monologue LEAR</a></li><li><a href="/testi/shakespeare/plays/the_tragedy_of_king_lear_folio_text/act_4/scene_5/04_exchange_gloucester">04 exchange GLOUCESTER</a></li><li><a href="/testi/shakespeare/plays/the_tragedy_of_king_lear_folio_text/act_4/scene_5/05_exchange_lear">05 exchange LEAR</a></li><li><a href="/testi/shakespeare/plays/the_tragedy_of_king_lear_folio_text/act_4/scene_5/06_monologue_edgar">06 monologue EDGAR</a></li><li><a href="/testi/shakespeare/plays/the_tragedy_of_king_lear_folio_text/act_4/scene_5/07_exchange_gloucester">07 exchange GLOUCESTER</a></li><li><a href="/testi/shakespeare/plays/the_tragedy_of_king_lear_folio_text/act_4/scene_5/08_exchange_cordelia">08 exchange CORDELIA</a></li><li><a href="/testi/shakespeare/plays/the_tragedy_of_king_lear_folio_text/act_4/scene_5/09_exchange_albany">09 exchange ALBANY</a></li></ul>
+</nav>
 
 
 | Chi parla | Battuta |

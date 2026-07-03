@@ -12,6 +12,10 @@ tags:
 <div class="excerpt-crumb">Bronte · <a href="/works/villette-(bronte)">Villette</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/bronte/atomized/villette/chapter_10">‹ Chapter 10</a><a class="ex-next" href="/testi/bronte/atomized/villette/chapter_12">Chapter 12 ›</a></div>
 </nav>
+<nav class="excerpt-children">
+<div class="excerpt-children-label">In questa sezione</div>
+<ul><li><a href="/testi/bronte/atomized/villette/chapter_11/part_01">Part 1</a></li><li><a href="/testi/bronte/atomized/villette/chapter_11/part_02">Part 2</a></li></ul>
+</nav>
 
 
 CHAPTER XI.

@@ -12,6 +12,10 @@ tags:
 <div class="excerpt-crumb">Shakespeare · <a href="/works/julius-caesar-(shakespeare)">Julius Caesar</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/shakespeare/plays/julius_caesar/act_3/scene_1">‹ Scene 1</a><a class="ex-next" href="/testi/shakespeare/plays/julius_caesar/act_3/scene_3">Scene 3 ›</a></div>
 </nav>
+<nav class="excerpt-children">
+<div class="excerpt-children-label">In questa sezione</div>
+<ul><li><a href="/testi/shakespeare/plays/julius_caesar/act_3/scene_2/01_exchange_dialogue">01 exchange dialogue</a></li><li><a href="/testi/shakespeare/plays/julius_caesar/act_3/scene_2/02_monologue_brutus">02 monologue BRUTUS</a></li><li><a href="/testi/shakespeare/plays/julius_caesar/act_3/scene_2/03_exchange_all_the_plebeians">03 exchange ALL THE PLEBEIANS</a></li><li><a href="/testi/shakespeare/plays/julius_caesar/act_3/scene_2/04_monologue_antony">04 monologue ANTONY</a></li><li><a href="/testi/shakespeare/plays/julius_caesar/act_3/scene_2/05_exchange_first_plebeian">05 exchange FIRST PLEBEIAN</a></li><li><a href="/testi/shakespeare/plays/julius_caesar/act_3/scene_2/06_exchange_all_the_plebeians">06 exchange ALL THE PLEBEIANS</a></li><li><a href="/testi/shakespeare/plays/julius_caesar/act_3/scene_2/07_monologue_antony">07 monologue ANTONY</a></li><li><a href="/testi/shakespeare/plays/julius_caesar/act_3/scene_2/08_exchange_first_plebeian">08 exchange FIRST PLEBEIAN</a></li><li><a href="/testi/shakespeare/plays/julius_caesar/act_3/scene_2/09_monologue_antony">09 monologue ANTONY</a></li><li><a href="/testi/shakespeare/plays/julius_caesar/act_3/scene_2/10_exchange_all_the_plebeians">10 exchange ALL THE PLEBEIANS</a></li></ul>
+</nav>
 
 
 | Chi parla | Battuta |

@@ -12,6 +12,10 @@ tags:
 <div class="excerpt-crumb">Shakespeare · <a href="/works/all’s-well-that-ends-well-(shakespeare)">Alls Well that Ends Well</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/shakespeare/plays/alls_well_that_ends_well/act_1/scene_2">‹ Scene 2</a><a class="ex-next" href="/testi/shakespeare/plays/alls_well_that_ends_well/act_2/scene_1">Scene 1 ›</a></div>
 </nav>
+<nav class="excerpt-children">
+<div class="excerpt-children-label">In questa sezione</div>
+<ul><li><a href="/testi/shakespeare/plays/alls_well_that_ends_well/act_1/scene_3/01_exchange_dialogue">01 exchange dialogue</a></li><li><a href="/testi/shakespeare/plays/alls_well_that_ends_well/act_1/scene_3/02_exchange_countess">02 exchange COUNTESS</a></li><li><a href="/testi/shakespeare/plays/alls_well_that_ends_well/act_1/scene_3/03_exchange_helen">03 exchange HELEN</a></li><li><a href="/testi/shakespeare/plays/alls_well_that_ends_well/act_1/scene_3/04_monologue_helen">04 monologue HELEN</a></li><li><a href="/testi/shakespeare/plays/alls_well_that_ends_well/act_1/scene_3/05_exchange_countess">05 exchange COUNTESS</a></li></ul>
+</nav>
 
 
 | Chi parla | Battuta |

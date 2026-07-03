@@ -12,6 +12,10 @@ tags:
 <div class="excerpt-crumb">Chesterton · <a href="/works/ball-and-cross-(chesterton)">The Ball and the Cross</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/ball_and_cross/story_06_the_village_of_grassley_in_the_hole">‹ Story 06 The Village of Grassley in the Hole</a><a class="ex-next" href="/testi/chesterton/atomized/ball_and_cross/story_08_the_strange_lady">Story 08 The Strange Lady ›</a></div>
 </nav>
+<nav class="excerpt-children">
+<div class="excerpt-children-label">In questa sezione</div>
+<ul><li><a href="/testi/chesterton/atomized/ball_and_cross/story_07_an_interlude_of_argument/part_01">Part 1</a></li><li><a href="/testi/chesterton/atomized/ball_and_cross/story_07_an_interlude_of_argument/part_02">Part 2</a></li></ul>
+</nav>
 
 
 VIII.  AN INTERLUDE OF ARGUMENT

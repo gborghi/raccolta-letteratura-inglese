@@ -12,6 +12,10 @@ tags:
 <div class="excerpt-crumb">Shakespeare · <a href="/works/the-comedy-of-errors-(shakespeare)">The Comedy of Errors</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/shakespeare/plays/the_comedy_of_errors/act_2/scene_2">‹ Scene 2</a><a class="ex-next" href="/testi/shakespeare/plays/the_comedy_of_errors/act_3/scene_2">Scene 2 ›</a></div>
 </nav>
+<nav class="excerpt-children">
+<div class="excerpt-children-label">In questa sezione</div>
+<ul><li><a href="/testi/shakespeare/plays/the_comedy_of_errors/act_3/scene_1/01_exchange_dialogue">01 exchange dialogue</a></li><li><a href="/testi/shakespeare/plays/the_comedy_of_errors/act_3/scene_1/02_exchange_dromio_of_ephesus">02 exchange DROMIO OF EPHESUS</a></li><li><a href="/testi/shakespeare/plays/the_comedy_of_errors/act_3/scene_1/03_exchange_dromio">03 exchange DROMIO</a></li><li><a href="/testi/shakespeare/plays/the_comedy_of_errors/act_3/scene_1/04_monologue_balthasar">04 monologue BALTHASAR</a></li><li><a href="/testi/shakespeare/plays/the_comedy_of_errors/act_3/scene_1/05_exchange_antipholus_of_ephesus">05 exchange ANTIPHOLUS OF EPHESUS</a></li></ul>
+</nav>
 
 
 | Chi parla | Battuta |

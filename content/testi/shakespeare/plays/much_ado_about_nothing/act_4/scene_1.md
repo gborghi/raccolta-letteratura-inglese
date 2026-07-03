@@ -12,6 +12,10 @@ tags:
 <div class="excerpt-crumb">Shakespeare · <a href="/works/much-ado-about-nothing-(shakespeare)">Much Ado About Nothing</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/shakespeare/plays/much_ado_about_nothing/act_3/scene_5">‹ Scene 5</a><a class="ex-next" href="/testi/shakespeare/plays/much_ado_about_nothing/act_4/scene_2">Scene 2 ›</a></div>
 </nav>
+<nav class="excerpt-children">
+<div class="excerpt-children-label">In questa sezione</div>
+<ul><li><a href="/testi/shakespeare/plays/much_ado_about_nothing/act_4/scene_1/01_exchange_dialogue">01 exchange dialogue</a></li><li><a href="/testi/shakespeare/plays/much_ado_about_nothing/act_4/scene_1/02_exchange_benedick">02 exchange BENEDICK</a></li><li><a href="/testi/shakespeare/plays/much_ado_about_nothing/act_4/scene_1/03_monologue_leonato">03 monologue LEONATO</a></li><li><a href="/testi/shakespeare/plays/much_ado_about_nothing/act_4/scene_1/04_exchange_benedick">04 exchange BENEDICK</a></li><li><a href="/testi/shakespeare/plays/much_ado_about_nothing/act_4/scene_1/05_monologue_friar">05 monologue FRIAR</a></li><li><a href="/testi/shakespeare/plays/much_ado_about_nothing/act_4/scene_1/06_exchange_benedick">06 exchange BENEDICK</a></li><li><a href="/testi/shakespeare/plays/much_ado_about_nothing/act_4/scene_1/07_exchange_beatrice">07 exchange BEATRICE</a></li></ul>
+</nav>
 
 
 | Chi parla | Battuta |

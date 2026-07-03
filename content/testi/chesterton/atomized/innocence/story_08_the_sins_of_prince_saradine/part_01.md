@@ -11,7 +11,7 @@ tags:
 <div class="qlang-switch" data-default="en"></div>
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/works/innocence-(chesterton)">The Innocence of Father Brown</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/innocence-(chesterton)">The Innocence of Father Brown</a> › <a href="/testi/chesterton/atomized/innocence/story_08_the_sins_of_prince_saradine">Story 08 The Sins of Prince Saradine</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/innocence/story_07_the_wrong_shape/part_07">‹ part 07</a><a class="ex-next" href="/testi/chesterton/atomized/innocence/story_08_the_sins_of_prince_saradine/part_02">part 02 ›</a></div>
 </nav>
 

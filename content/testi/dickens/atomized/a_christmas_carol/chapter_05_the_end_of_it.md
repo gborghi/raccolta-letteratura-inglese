@@ -12,6 +12,10 @@ tags:
 <div class="excerpt-crumb">Dickens · <a href="/works/a-christmas-carol-(dickens)">A Christmas Carol</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/a_christmas_carol/chapter_04_the_last_of_the_spirits">‹ Chapter 04 THE LAST OF THE SPIRITS</a><a class="ex-next" href="/testi/dickens/atomized/a_christmas_carol/chapter_01_marley_s_ghost_ghost/part_01">part 01 ›</a></div>
 </nav>
+<nav class="excerpt-children">
+<div class="excerpt-children-label">In questa sezione</div>
+<ul><li><a href="/testi/dickens/atomized/a_christmas_carol/chapter_05_the_end_of_it/part_01">Part 1</a></li><li><a href="/testi/dickens/atomized/a_christmas_carol/chapter_05_the_end_of_it/part_02">Part 2</a></li></ul>
+</nav>
 
 
 STAVE V:  THE END OF IT

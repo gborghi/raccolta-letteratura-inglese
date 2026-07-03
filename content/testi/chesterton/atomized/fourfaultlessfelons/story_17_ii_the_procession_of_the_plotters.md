@@ -12,6 +12,10 @@ tags:
 <div class="excerpt-crumb">Chesterton · <a href="/works/fourfaultlessfelons-(chesterton)">FourFaultlessFelons</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/fourfaultlessfelons/story_16_the_loyal_traitor">‹ Story 16 The Loyal Traitor</a><a class="ex-next" href="/testi/chesterton/atomized/fourfaultlessfelons/story_18_iii_the_princess_intervenes">Story 18 Iii The Princess Intervenes ›</a></div>
 </nav>
+<nav class="excerpt-children">
+<div class="excerpt-children-label">In questa sezione</div>
+<ul><li><a href="/testi/chesterton/atomized/fourfaultlessfelons/story_17_ii_the_procession_of_the_plotters/part_01">Part 1</a></li><li><a href="/testi/chesterton/atomized/fourfaultlessfelons/story_17_ii_the_procession_of_the_plotters/part_02">Part 2</a></li><li><a href="/testi/chesterton/atomized/fourfaultlessfelons/story_17_ii_the_procession_of_the_plotters/part_03">Part 3</a></li></ul>
+</nav>
 
 
 II THE PROCESSION OF THE PLOTTERS

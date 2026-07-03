@@ -12,6 +12,10 @@ tags:
 <div class="excerpt-crumb">Dickens · <a href="/works/the-mystery-of-edwin-drood-(dickens)">The Mystery of Edwin Drood</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/the_mystery_of_edwin_drood/chapter_24_hear_neville_moving_too_are_yo">‹ Chapter 24 hear Neville moving too Are yo</a><a class="ex-next" href="/testi/dickens/atomized/the_mystery_of_edwin_drood/chapter_02/part_01">part 01 ›</a></div>
 </nav>
+<nav class="excerpt-children">
+<div class="excerpt-children-label">In questa sezione</div>
+<ul><li><a href="/testi/dickens/atomized/the_mystery_of_edwin_drood/chapter_25/part_01">Part 1</a></li><li><a href="/testi/dickens/atomized/the_mystery_of_edwin_drood/chapter_25/part_02">Part 2</a></li><li><a href="/testi/dickens/atomized/the_mystery_of_edwin_drood/chapter_25/part_03">Part 3</a></li><li><a href="/testi/dickens/atomized/the_mystery_of_edwin_drood/chapter_25/part_04">Part 4</a></li><li><a href="/testi/dickens/atomized/the_mystery_of_edwin_drood/chapter_25/part_05">Part 5</a></li><li><a href="/testi/dickens/atomized/the_mystery_of_edwin_drood/chapter_25/part_06">Part 6</a></li><li><a href="/testi/dickens/atomized/the_mystery_of_edwin_drood/chapter_25/part_07">Part 7</a></li></ul>
+</nav>
 
 
 CHAPTER XXIII.

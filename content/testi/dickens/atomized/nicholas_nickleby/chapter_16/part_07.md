@@ -9,7 +9,7 @@ tags:
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Dickens · <a href="/works/nicholas-nickleby-(dickens)">Nicholas Nickleby</a></div>
+<div class="excerpt-crumb">Dickens · <a href="/works/nicholas-nickleby-(dickens)">Nicholas Nickleby</a> › <a href="/testi/dickens/atomized/nicholas_nickleby/chapter_16">Chapter 16</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/nicholas_nickleby/chapter_16/part_06">‹ part 06</a><a class="ex-next" href="/testi/dickens/atomized/nicholas_nickleby/chapter_17/part_01">part 01 ›</a></div>
 </nav>
 

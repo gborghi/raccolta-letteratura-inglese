@@ -9,7 +9,7 @@ tags:
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/works/twelve-types-(chesterton)">Twelve Types</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/twelve-types-(chesterton)">Twelve Types</a> › <a href="/testi/chesterton/atomized/twelve_types/story_02_william_morris_and_his_school">Story 02 WILLIAM MORRIS AND HIS SCHOOL</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/twelve_types/story_11_the_position_of_sir_walter_scott">‹ Story 11 THE POSITION OF SIR WALTER SCOTT</a><a class="ex-next" href="/testi/chesterton/atomized/twelve_types/story_02_william_morris_and_his_school/part_02">part 02 ›</a></div>
 </nav>
 

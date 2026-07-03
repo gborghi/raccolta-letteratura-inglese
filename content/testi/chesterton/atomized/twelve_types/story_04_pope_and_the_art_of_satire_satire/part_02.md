@@ -9,7 +9,7 @@ tags:
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/works/twelve-types-(chesterton)">Twelve Types</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/twelve-types-(chesterton)">Twelve Types</a> › <a href="/testi/chesterton/atomized/twelve_types/story_04_pope_and_the_art_of_satire_satire">Story 04 POPE AND THE ART OF Satire SATIRE</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/twelve_types/story_04_pope_and_the_art_of_satire_satire/part_01">‹ part 01</a><a class="ex-next" href="/testi/chesterton/atomized/twelve_types/story_05_francis/part_01">part 01 ›</a></div>
 </nav>
 

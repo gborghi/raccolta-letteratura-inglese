@@ -12,6 +12,10 @@ tags:
 <div class="excerpt-crumb">Shakespeare · <a href="/works/the-history-of-king-lear---the-quarto-text-(shakespeare)">The History of King Lear Quarto Text</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/shakespeare/plays/the_history_of_king_lear_quarto_text/scenes/scene_10">‹ Scene 10</a><a class="ex-next" href="/testi/shakespeare/plays/the_history_of_king_lear_quarto_text/scenes/scene_12">Scene 12 ›</a></div>
 </nav>
+<nav class="excerpt-children">
+<div class="excerpt-children-label">In questa sezione</div>
+<ul><li><a href="/testi/shakespeare/plays/the_history_of_king_lear_quarto_text/scenes/scene_11/01_exchange_dialogue">01 exchange dialogue</a></li><li><a href="/testi/shakespeare/plays/the_history_of_king_lear_quarto_text/scenes/scene_11/02_exchange_kent">02 exchange KENT</a></li><li><a href="/testi/shakespeare/plays/the_history_of_king_lear_quarto_text/scenes/scene_11/03_exchange_gloucester">03 exchange GLOUCESTER</a></li></ul>
+</nav>
 
 
 | Chi parla | Battuta |

@@ -12,6 +12,10 @@ tags:
 <div class="excerpt-crumb">Dickens · <a href="/works/the-chimes-(dickens)">The Chimes</a></div>
 <div class="excerpt-pn"><span></span><a class="ex-next" href="/testi/dickens/atomized/the_chimes/chapter_02_the_second_quarter">Chapter 02 The Second Quarter ›</a></div>
 </nav>
+<nav class="excerpt-children">
+<div class="excerpt-children-label">In questa sezione</div>
+<ul><li><a href="/testi/dickens/atomized/the_chimes/chapter_01_first_quarter/part_01">Part 1</a></li><li><a href="/testi/dickens/atomized/the_chimes/chapter_01_first_quarter/part_02">Part 2</a></li><li><a href="/testi/dickens/atomized/the_chimes/chapter_01_first_quarter/part_03">Part 3</a></li><li><a href="/testi/dickens/atomized/the_chimes/chapter_01_first_quarter/part_04">Part 4</a></li><li><a href="/testi/dickens/atomized/the_chimes/chapter_01_first_quarter/part_05">Part 5</a></li><li><a href="/testi/dickens/atomized/the_chimes/chapter_01_first_quarter/part_06">Part 6</a></li><li><a href="/testi/dickens/atomized/the_chimes/chapter_01_first_quarter/part_07">Part 7</a></li><li><a href="/testi/dickens/atomized/the_chimes/chapter_01_first_quarter/part_08">Part 8</a></li></ul>
+</nav>
 
 
 CHAPTER I—First Quarter.

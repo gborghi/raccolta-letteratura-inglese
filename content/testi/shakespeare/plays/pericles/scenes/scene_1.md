@@ -12,6 +12,10 @@ tags:
 <div class="excerpt-crumb">Shakespeare · <a href="/works/pericles-(shakespeare)">Pericles</a></div>
 <div class="excerpt-pn"><span></span><a class="ex-next" href="/testi/shakespeare/plays/pericles/scenes/scene_2">Scene 2 ›</a></div>
 </nav>
+<nav class="excerpt-children">
+<div class="excerpt-children-label">In questa sezione</div>
+<ul><li><a href="/testi/shakespeare/plays/pericles/scenes/scene_1/01_exchange_dialogue">01 exchange dialogue</a></li><li><a href="/testi/shakespeare/plays/pericles/scenes/scene_1/02_monologue_gower">02 monologue GOWER</a></li><li><a href="/testi/shakespeare/plays/pericles/scenes/scene_1/03_exchange_antiochus">03 exchange ANTIOCHUS</a></li><li><a href="/testi/shakespeare/plays/pericles/scenes/scene_1/04_monologue_pericles">04 monologue PERICLES</a></li><li><a href="/testi/shakespeare/plays/pericles/scenes/scene_1/05_exchange_antiochus">05 exchange ANTIOCHUS</a></li><li><a href="/testi/shakespeare/plays/pericles/scenes/scene_1/06_monologue_pericles">06 monologue PERICLES</a></li><li><a href="/testi/shakespeare/plays/pericles/scenes/scene_1/07_exchange_antiochus">07 exchange ANTIOCHUS</a></li></ul>
+</nav>
 
 
 | Chi parla | Battuta |

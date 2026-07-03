@@ -12,6 +12,10 @@ tags:
 <div class="excerpt-crumb">Chesterton · <a href="/works/well-and-shallows-(chesterton)">Well And Shallows</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/well_and_shallows/story_02_introductory_note">‹ Story 02 Introductory Note</a><a class="ex-next" href="/testi/chesterton/atomized/well_and_shallows/story_04_my_six_conversions">Story 04 My Six Conversions ›</a></div>
 </nav>
+<nav class="excerpt-children">
+<div class="excerpt-children-label">In questa sezione</div>
+<ul><li><a href="/testi/chesterton/atomized/well_and_shallows/story_03_an_apology_for_buffoons/part_01">Part 1</a></li><li><a href="/testi/chesterton/atomized/well_and_shallows/story_03_an_apology_for_buffoons/part_02">Part 2</a></li><li><a href="/testi/chesterton/atomized/well_and_shallows/story_03_an_apology_for_buffoons/part_03">Part 3</a></li><li><a href="/testi/chesterton/atomized/well_and_shallows/story_03_an_apology_for_buffoons/part_04">Part 4</a></li><li><a href="/testi/chesterton/atomized/well_and_shallows/story_03_an_apology_for_buffoons/part_05">Part 5</a></li></ul>
+</nav>
 
 
 AN APOLOGY FOR BUFFOONS

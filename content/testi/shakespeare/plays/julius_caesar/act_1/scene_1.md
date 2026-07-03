@@ -12,6 +12,10 @@ tags:
 <div class="excerpt-crumb">Shakespeare · <a href="/works/julius-caesar-(shakespeare)">Julius Caesar</a></div>
 <div class="excerpt-pn"><span></span><a class="ex-next" href="/testi/shakespeare/plays/julius_caesar/act_1/scene_3">Scene 3 ›</a></div>
 </nav>
+<nav class="excerpt-children">
+<div class="excerpt-children-label">In questa sezione</div>
+<ul><li><a href="/testi/shakespeare/plays/julius_caesar/act_1/scene_1/01_exchange_dialogue">01 exchange dialogue</a></li><li><a href="/testi/shakespeare/plays/julius_caesar/act_1/scene_1/02_monologue_murellus">02 monologue MURELLUS</a></li><li><a href="/testi/shakespeare/plays/julius_caesar/act_1/scene_1/03_exchange_flavius">03 exchange FLAVIUS</a></li><li><a href="/testi/shakespeare/plays/julius_caesar/act_1/scene_1/04_exchange_cassius">04 exchange CASSIUS</a></li><li><a href="/testi/shakespeare/plays/julius_caesar/act_1/scene_1/05_monologue_cassius">05 monologue CASSIUS</a></li><li><a href="/testi/shakespeare/plays/julius_caesar/act_1/scene_1/06_exchange_brutus">06 exchange BRUTUS</a></li><li><a href="/testi/shakespeare/plays/julius_caesar/act_1/scene_1/07_monologue_cassius">07 monologue CASSIUS</a></li><li><a href="/testi/shakespeare/plays/julius_caesar/act_1/scene_1/08_exchange_brutus">08 exchange BRUTUS</a></li><li><a href="/testi/shakespeare/plays/julius_caesar/act_1/scene_1/09_exchange_casca">09 exchange CASCA</a></li><li><a href="/testi/shakespeare/plays/julius_caesar/act_1/scene_1/10_exchange_casca">10 exchange CASCA</a></li></ul>
+</nav>
 
 
 | Chi parla | Battuta |

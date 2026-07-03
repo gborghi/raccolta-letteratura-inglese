@@ -12,6 +12,10 @@ tags:
 <div class="excerpt-crumb">Dickens · <a href="/works/little-dorrit-(dickens)">Little Dorrit</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/little_dorrit/chapter_64_reaping_the_whirlwind">‹ Chapter 64 Reaping the Whirlwind</a><a class="ex-next" href="/testi/dickens/atomized/little_dorrit/chapter_66_an_appearance_in_the_marshalse">Chapter 66 An Appearance in the Marshalse ›</a></div>
 </nav>
+<nav class="excerpt-children">
+<div class="excerpt-children-label">In questa sezione</div>
+<ul><li><a href="/testi/dickens/atomized/little_dorrit/chapter_65_the_pupil_of_the_marshalsea/part_01">Part 1</a></li><li><a href="/testi/dickens/atomized/little_dorrit/chapter_65_the_pupil_of_the_marshalsea/part_02">Part 2</a></li><li><a href="/testi/dickens/atomized/little_dorrit/chapter_65_the_pupil_of_the_marshalsea/part_03">Part 3</a></li><li><a href="/testi/dickens/atomized/little_dorrit/chapter_65_the_pupil_of_the_marshalsea/part_04">Part 4</a></li><li><a href="/testi/dickens/atomized/little_dorrit/chapter_65_the_pupil_of_the_marshalsea/part_05">Part 5</a></li><li><a href="/testi/dickens/atomized/little_dorrit/chapter_65_the_pupil_of_the_marshalsea/part_06">Part 6</a></li></ul>
+</nav>
 
 
 CHAPTER 27. The Pupil of the Marshalsea

@@ -12,6 +12,10 @@ tags:
 <div class="excerpt-crumb">Shakespeare · <a href="/works/all-is-true---(henry-viii)-(shakespeare)">All Is True Henry VIII</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/shakespeare/plays/all_is_true_henry_viii/act_1/scene_3">‹ Scene 3</a><a class="ex-next" href="/testi/shakespeare/plays/all_is_true_henry_viii/act_2/scene_2">Scene 2 ›</a></div>
 </nav>
+<nav class="excerpt-children">
+<div class="excerpt-children-label">In questa sezione</div>
+<ul><li><a href="/testi/shakespeare/plays/all_is_true_henry_viii/act_1/scene_4/01_exchange_dialogue">01 exchange dialogue</a></li><li><a href="/testi/shakespeare/plays/all_is_true_henry_viii/act_1/scene_4/02_exchange_anne">02 exchange ANNE</a></li><li><a href="/testi/shakespeare/plays/all_is_true_henry_viii/act_1/scene_4/03_exchange_lord_chamberlain">03 exchange LORD CHAMBERLAIN</a></li><li><a href="/testi/shakespeare/plays/all_is_true_henry_viii/act_1/scene_4/04_exchange_first_gentleman">04 exchange FIRST GENTLEMAN</a></li><li><a href="/testi/shakespeare/plays/all_is_true_henry_viii/act_1/scene_4/05_monologue_buckingham">05 monologue BUCKINGHAM</a></li><li><a href="/testi/shakespeare/plays/all_is_true_henry_viii/act_1/scene_4/06_exchange_lovell">06 exchange LOVELL</a></li><li><a href="/testi/shakespeare/plays/all_is_true_henry_viii/act_1/scene_4/07_monologue_buckingham">07 monologue BUCKINGHAM</a></li><li><a href="/testi/shakespeare/plays/all_is_true_henry_viii/act_1/scene_4/08_exchange_first_gentleman">08 exchange FIRST GENTLEMAN</a></li></ul>
+</nav>
 
 
 | Chi parla | Battuta |

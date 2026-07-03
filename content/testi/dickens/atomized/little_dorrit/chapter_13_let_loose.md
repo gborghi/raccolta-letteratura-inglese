@@ -12,6 +12,10 @@ tags:
 <div class="excerpt-crumb">Dickens · <a href="/works/little-dorrit-(dickens)">Little Dorrit</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/little_dorrit/chapter_12_containing_the_whole_science_o">‹ Chapter 12 Containing the whole Science o</a><a class="ex-next" href="/testi/dickens/atomized/little_dorrit/chapter_14_bleeding_heart_yard">Chapter 14 Bleeding Heart Yard ›</a></div>
 </nav>
+<nav class="excerpt-children">
+<div class="excerpt-children-label">In questa sezione</div>
+<ul><li><a href="/testi/dickens/atomized/little_dorrit/chapter_13_let_loose/part_01">Part 1</a></li><li><a href="/testi/dickens/atomized/little_dorrit/chapter_13_let_loose/part_02">Part 2</a></li><li><a href="/testi/dickens/atomized/little_dorrit/chapter_13_let_loose/part_03">Part 3</a></li><li><a href="/testi/dickens/atomized/little_dorrit/chapter_13_let_loose/part_04">Part 4</a></li></ul>
+</nav>
 
 
 CHAPTER 11. Let Loose

@@ -12,6 +12,10 @@ tags:
 <div class="excerpt-crumb">Shakespeare · <a href="/works/the-taming-of-the-shrew-(shakespeare)">The Taming of the Shrew</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/shakespeare/plays/the_taming_of_the_shrew/act_1/scene_1">‹ Scene 1</a><a class="ex-next" href="/testi/shakespeare/plays/the_taming_of_the_shrew/act_2/scene_1">Scene 1 ›</a></div>
 </nav>
+<nav class="excerpt-children">
+<div class="excerpt-children-label">In questa sezione</div>
+<ul><li><a href="/testi/shakespeare/plays/the_taming_of_the_shrew/act_1/scene_2/01_exchange_dialogue">01 exchange dialogue</a></li><li><a href="/testi/shakespeare/plays/the_taming_of_the_shrew/act_1/scene_2/02_exchange_petruccio">02 exchange PETRUCCIO</a></li><li><a href="/testi/shakespeare/plays/the_taming_of_the_shrew/act_1/scene_2/03_exchange_hortensio">03 exchange HORTENSIO</a></li><li><a href="/testi/shakespeare/plays/the_taming_of_the_shrew/act_1/scene_2/04_exchange_petruccio">04 exchange PETRUCCIO</a></li><li><a href="/testi/shakespeare/plays/the_taming_of_the_shrew/act_1/scene_2/05_exchange_petruccio">05 exchange PETRUCCIO</a></li></ul>
+</nav>
 
 
 | Chi parla | Battuta |

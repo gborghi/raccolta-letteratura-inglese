@@ -12,6 +12,10 @@ tags:
 <div class="excerpt-crumb">Chesterton · <a href="/works/ball-and-cross-(chesterton)">The Ball and the Cross</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/ball_and_cross/story_11_a_museum_of_souls">‹ Story 11 A Museum of Souls</a><a class="ex-next" href="/testi/chesterton/atomized/ball_and_cross/story_13_the_dream_of_turnbull">Story 13 The Dream of Turnbull ›</a></div>
 </nav>
+<nav class="excerpt-children">
+<div class="excerpt-children-label">In questa sezione</div>
+<ul><li><a href="/testi/chesterton/atomized/ball_and_cross/story_12_the_dream_of_macian/part_01">Part 1</a></li><li><a href="/testi/chesterton/atomized/ball_and_cross/story_12_the_dream_of_macian/part_02">Part 2</a></li></ul>
+</nav>
 
 
 XV.  THE DREAM OF MACIAN

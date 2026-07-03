@@ -12,6 +12,10 @@ tags:
 <div class="excerpt-crumb">Whitman · <a href="/works/the-wound-dresser-(whitman)">The Wound Dresser</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/whitman/atomized/the_wound_dresser/story_08_our_men_rescued_it_and_tore_it_from_the">‹ Story 08 Our men rescued it and tore it from the</a><a class="ex-next" href="/testi/whitman/atomized/the_wound_dresser/story_03_in_ward_e_of_armory_hospital_i_found_a_m/part_01">part 01 ›</a></div>
 </nav>
+<nav class="excerpt-children">
+<div class="excerpt-children-label">In questa sezione</div>
+<ul><li><a href="/testi/whitman/atomized/the_wound_dresser/story_09_fourths_of_them_quite_slightly_wounded_a/part_01">Part 1</a></li><li><a href="/testi/whitman/atomized/the_wound_dresser/story_09_fourths_of_them_quite_slightly_wounded_a/part_02">Part 2</a></li><li><a href="/testi/whitman/atomized/the_wound_dresser/story_09_fourths_of_them_quite_slightly_wounded_a/part_03">Part 3</a></li><li><a href="/testi/whitman/atomized/the_wound_dresser/story_09_fourths_of_them_quite_slightly_wounded_a/part_04">Part 4</a></li><li><a href="/testi/whitman/atomized/the_wound_dresser/story_09_fourths_of_them_quite_slightly_wounded_a/part_05">Part 5</a></li></ul>
+</nav>
 
 
 three-fourths of them quite slightly wounded, and the rest hurt pretty

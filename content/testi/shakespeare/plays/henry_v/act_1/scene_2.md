@@ -12,6 +12,10 @@ tags:
 <div class="excerpt-crumb">Shakespeare · <a href="/works/henry-v-(shakespeare)">Henry V</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/shakespeare/plays/henry_v/act_1/scene_1">‹ Scene 1</a><a class="ex-next" href="/testi/shakespeare/plays/henry_v/act_2/scene_0">Scene 0 ›</a></div>
 </nav>
+<nav class="excerpt-children">
+<div class="excerpt-children-label">In questa sezione</div>
+<ul><li><a href="/testi/shakespeare/plays/henry_v/act_1/scene_2/01_exchange_dialogue">01 exchange dialogue</a></li><li><a href="/testi/shakespeare/plays/henry_v/act_1/scene_2/02_monologue_king_harry">02 monologue KING HARRY</a></li><li><a href="/testi/shakespeare/plays/henry_v/act_1/scene_2/03_monologue_canterbury">03 monologue CANTERBURY</a></li><li><a href="/testi/shakespeare/plays/henry_v/act_1/scene_2/04_exchange_king_harry">04 exchange KING HARRY</a></li><li><a href="/testi/shakespeare/plays/henry_v/act_1/scene_2/05_exchange_exeter">05 exchange EXETER</a></li><li><a href="/testi/shakespeare/plays/henry_v/act_1/scene_2/06_monologue_canterbury">06 monologue CANTERBURY</a></li><li><a href="/testi/shakespeare/plays/henry_v/act_1/scene_2/07_exchange_king_harry">07 exchange KING HARRY</a></li><li><a href="/testi/shakespeare/plays/henry_v/act_1/scene_2/08_monologue_king_harry">08 monologue KING HARRY</a></li><li><a href="/testi/shakespeare/plays/henry_v/act_1/scene_2/09_exchange_exeter">09 exchange EXETER</a></li></ul>
+</nav>
 
 
 | Chi parla | Battuta |

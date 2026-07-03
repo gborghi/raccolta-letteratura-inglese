@@ -12,6 +12,10 @@ tags:
 <div class="excerpt-crumb">Shakespeare · <a href="/works/henry-v-(shakespeare)">Henry V</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/shakespeare/plays/henry_v/act_4/scene_0">‹ Scene 0</a><a class="ex-next" href="/testi/shakespeare/plays/henry_v/act_4/scene_2">Scene 2 ›</a></div>
 </nav>
+<nav class="excerpt-children">
+<div class="excerpt-children-label">In questa sezione</div>
+<ul><li><a href="/testi/shakespeare/plays/henry_v/act_4/scene_1/01_exchange_dialogue">01 exchange dialogue</a></li><li><a href="/testi/shakespeare/plays/henry_v/act_4/scene_1/02_exchange_gower">02 exchange GOWER</a></li><li><a href="/testi/shakespeare/plays/henry_v/act_4/scene_1/03_exchange_williams">03 exchange WILLIAMS</a></li><li><a href="/testi/shakespeare/plays/henry_v/act_4/scene_1/04_monologue_king_harry">04 monologue KING HARRY</a></li><li><a href="/testi/shakespeare/plays/henry_v/act_4/scene_1/05_exchange_king_harry_i">05 exchange KING HARRY I</a></li><li><a href="/testi/shakespeare/plays/henry_v/act_4/scene_1/06_monologue_king_harry">06 monologue KING HARRY</a></li><li><a href="/testi/shakespeare/plays/henry_v/act_4/scene_1/07_exchange_erpingham">07 exchange ERPINGHAM</a></li></ul>
+</nav>
 
 
 | Chi parla | Battuta |

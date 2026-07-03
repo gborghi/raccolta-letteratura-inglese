@@ -9,7 +9,7 @@ tags:
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Dickens · <a href="/works/david-copperfield-(dickens)">David Copperfield</a></div>
+<div class="excerpt-crumb">Dickens · <a href="/works/david-copperfield-(dickens)">David Copperfield</a> › <a href="/testi/dickens/atomized/david_copperfield/chapter_01_i_am_born">Chapter 01 I AM BORN</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/david_copperfield/chapter_64_a_last_retrospect">‹ Chapter 64 A LAST RETROSPECT</a><a class="ex-next" href="/testi/dickens/atomized/david_copperfield/chapter_01_i_am_born/part_02">part 02 ›</a></div>
 </nav>
 

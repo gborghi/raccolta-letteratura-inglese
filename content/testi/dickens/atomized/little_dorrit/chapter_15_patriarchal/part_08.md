@@ -9,7 +9,7 @@ tags:
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Dickens · <a href="/works/little-dorrit-(dickens)">Little Dorrit</a></div>
+<div class="excerpt-crumb">Dickens · <a href="/works/little-dorrit-(dickens)">Little Dorrit</a> › <a href="/testi/dickens/atomized/little_dorrit/chapter_15_patriarchal">Chapter 15 Patriarchal</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/little_dorrit/chapter_15_patriarchal/part_07">‹ part 07</a><a class="ex-next" href="/testi/dickens/atomized/little_dorrit/chapter_15_patriarchal/part_09">part 09 ›</a></div>
 </nav>
 

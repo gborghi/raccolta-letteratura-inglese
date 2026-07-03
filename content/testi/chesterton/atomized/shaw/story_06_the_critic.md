@@ -12,6 +12,10 @@ tags:
 <div class="excerpt-crumb">Chesterton · <a href="/works/shaw-(chesterton)">Shaw</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/shaw/story_05_the_progressive">‹ Story 05 THE PROGRESSIVE</a><a class="ex-next" href="/testi/chesterton/atomized/shaw/story_07_the_dramatist">Story 07 THE DRAMATIST ›</a></div>
 </nav>
+<nav class="excerpt-children">
+<div class="excerpt-children-label">In questa sezione</div>
+<ul><li><a href="/testi/chesterton/atomized/shaw/story_06_the_critic/part_01">Part 1</a></li><li><a href="/testi/chesterton/atomized/shaw/story_06_the_critic/part_02">Part 2</a></li><li><a href="/testi/chesterton/atomized/shaw/story_06_the_critic/part_03">Part 3</a></li><li><a href="/testi/chesterton/atomized/shaw/story_06_the_critic/part_04">Part 4</a></li><li><a href="/testi/chesterton/atomized/shaw/story_06_the_critic/part_05">Part 5</a></li></ul>
+</nav>
 
 
 The Critic

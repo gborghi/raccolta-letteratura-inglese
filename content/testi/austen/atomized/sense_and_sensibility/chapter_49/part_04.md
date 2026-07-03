@@ -9,7 +9,7 @@ tags:
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Austen · <a href="/works/sense-and-sensibility-(austen)">Sense and Sensibility</a></div>
+<div class="excerpt-crumb">Austen · <a href="/works/sense-and-sensibility-(austen)">Sense and Sensibility</a> › <a href="/testi/austen/atomized/sense_and_sensibility/chapter_49">Chapter 49</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/austen/atomized/sense_and_sensibility/chapter_49/part_03">‹ part 03</a><a class="ex-next" href="/testi/austen/atomized/sense_and_sensibility/chapter_50/part_01">part 01 ›</a></div>
 </nav>
 

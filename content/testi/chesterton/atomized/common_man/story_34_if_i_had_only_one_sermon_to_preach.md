@@ -12,6 +12,10 @@ tags:
 <div class="excerpt-crumb">Chesterton · <a href="/works/common-man-(chesterton)">Common Man</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/common_man/story_33_consulting_the_encyclopaedia">‹ Story 33 Consulting The Encyclopaedia</a><a class="ex-next" href="/testi/chesterton/atomized/common_man/story_04_the_superstition_of_school/part_01">part 01 ›</a></div>
 </nav>
+<nav class="excerpt-children">
+<div class="excerpt-children-label">In questa sezione</div>
+<ul><li><a href="/testi/chesterton/atomized/common_man/story_34_if_i_had_only_one_sermon_to_preach/part_01">Part 1</a></li><li><a href="/testi/chesterton/atomized/common_man/story_34_if_i_had_only_one_sermon_to_preach/part_02">Part 2</a></li><li><a href="/testi/chesterton/atomized/common_man/story_34_if_i_had_only_one_sermon_to_preach/part_03">Part 3</a></li><li><a href="/testi/chesterton/atomized/common_man/story_34_if_i_had_only_one_sermon_to_preach/part_04">Part 4</a></li><li><a href="/testi/chesterton/atomized/common_man/story_34_if_i_had_only_one_sermon_to_preach/part_05">Part 5</a></li><li><a href="/testi/chesterton/atomized/common_man/story_34_if_i_had_only_one_sermon_to_preach/part_06">Part 6</a></li><li><a href="/testi/chesterton/atomized/common_man/story_34_if_i_had_only_one_sermon_to_preach/part_07">Part 7</a></li><li><a href="/testi/chesterton/atomized/common_man/story_34_if_i_had_only_one_sermon_to_preach/part_08">Part 8</a></li><li><a href="/testi/chesterton/atomized/common_man/story_34_if_i_had_only_one_sermon_to_preach/part_09">Part 9</a></li></ul>
+</nav>
 
 
 IF I HAD ONLY ONE SERMON TO PREACH

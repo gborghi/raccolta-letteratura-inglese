@@ -9,7 +9,7 @@ tags:
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/works/conversion-(chesterton)">The Catholic Church and Conversion</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/conversion-(chesterton)">The Catholic Church and Conversion</a> › <a href="/testi/chesterton/atomized/conversion/chapter_05_the_exception_proves_the_rule">Chapter 05 THE EXCEPTION PROVES THE RULE</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/conversion/chapter_05_the_exception_proves_the_rule/part_01">‹ part 01</a><a class="ex-next" href="/testi/chesterton/atomized/conversion/chapter_05_the_exception_proves_the_rule/part_03">part 03 ›</a></div>
 </nav>
 

@@ -12,6 +12,10 @@ tags:
 <div class="excerpt-crumb">Shakespeare · <a href="/works/titus-andronicus-(shakespeare)">Titus Andronicus</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/shakespeare/plays/titus_andronicus/act_3/scene_2">‹ Scene 2</a><a class="ex-next" href="/testi/shakespeare/plays/titus_andronicus/act_4/scene_2">Scene 2 ›</a></div>
 </nav>
+<nav class="excerpt-children">
+<div class="excerpt-children-label">In questa sezione</div>
+<ul><li><a href="/testi/shakespeare/plays/titus_andronicus/act_4/scene_1/01_exchange_dialogue">01 exchange dialogue</a></li><li><a href="/testi/shakespeare/plays/titus_andronicus/act_4/scene_1/02_exchange_titus">02 exchange TITUS</a></li><li><a href="/testi/shakespeare/plays/titus_andronicus/act_4/scene_1/03_exchange_marcus">03 exchange MARCUS</a></li></ul>
+</nav>
 
 
 | Chi parla | Battuta |

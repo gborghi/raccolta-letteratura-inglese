@@ -12,6 +12,10 @@ tags:
 <div class="excerpt-crumb">Dickens · <a href="/works/david-copperfield-(dickens)">David Copperfield</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/david_copperfield/chapter_36_enthusiasm">‹ Chapter 36 ENTHUSIASM</a><a class="ex-next" href="/testi/dickens/atomized/david_copperfield/chapter_38_a_dissolution_of_partnership">Chapter 38 A DISSOLUTION OF PARTNERSHIP ›</a></div>
 </nav>
+<nav class="excerpt-children">
+<div class="excerpt-children-label">In questa sezione</div>
+<ul><li><a href="/testi/dickens/atomized/david_copperfield/chapter_37_a_little_cold_water_water/part_01">Part 1</a></li><li><a href="/testi/dickens/atomized/david_copperfield/chapter_37_a_little_cold_water_water/part_02">Part 2</a></li><li><a href="/testi/dickens/atomized/david_copperfield/chapter_37_a_little_cold_water_water/part_03">Part 3</a></li></ul>
+</nav>
 
 
 CHAPTER 37. A LITTLE COLD [[Water|WATER]]

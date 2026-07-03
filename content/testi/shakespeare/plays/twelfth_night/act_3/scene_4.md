@@ -12,6 +12,10 @@ tags:
 <div class="excerpt-crumb">Shakespeare · <a href="/works/twelfth-night-(shakespeare)">Twelfth Night</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/shakespeare/plays/twelfth_night/act_3/scene_3">‹ Scene 3</a><a class="ex-next" href="/testi/shakespeare/plays/twelfth_night/act_4/scene_1">Scene 1 ›</a></div>
 </nav>
+<nav class="excerpt-children">
+<div class="excerpt-children-label">In questa sezione</div>
+<ul><li><a href="/testi/shakespeare/plays/twelfth_night/act_3/scene_4/01_exchange_dialogue">01 exchange dialogue</a></li><li><a href="/testi/shakespeare/plays/twelfth_night/act_3/scene_4/02_monologue_malvolio_o">02 monologue MALVOLIO O</a></li><li><a href="/testi/shakespeare/plays/twelfth_night/act_3/scene_4/03_exchange_sir_toby">03 exchange SIR TOBY</a></li><li><a href="/testi/shakespeare/plays/twelfth_night/act_3/scene_4/04_exchange_fabian">04 exchange FABIAN</a></li><li><a href="/testi/shakespeare/plays/twelfth_night/act_3/scene_4/05_exchange_viola">05 exchange VIOLA</a></li><li><a href="/testi/shakespeare/plays/twelfth_night/act_3/scene_4/06_exchange_sir_toby">06 exchange SIR TOBY</a></li><li><a href="/testi/shakespeare/plays/twelfth_night/act_3/scene_4/07_exchange_antonio">07 exchange ANTONIO</a></li></ul>
+</nav>
 
 
 | Chi parla | Battuta |

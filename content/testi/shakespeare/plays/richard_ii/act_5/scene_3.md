@@ -12,6 +12,10 @@ tags:
 <div class="excerpt-crumb">Shakespeare · <a href="/works/richard-ii-(shakespeare)">Richard II</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/shakespeare/plays/richard_ii/act_5/scene_2">‹ Scene 2</a><a class="ex-next" href="/testi/shakespeare/plays/richard_ii/act_5/scene_4">Scene 4 ›</a></div>
 </nav>
+<nav class="excerpt-children">
+<div class="excerpt-children-label">In questa sezione</div>
+<ul><li><a href="/testi/shakespeare/plays/richard_ii/act_5/scene_3/01_exchange_dialogue">01 exchange dialogue</a></li><li><a href="/testi/shakespeare/plays/richard_ii/act_5/scene_3/02_exchange_king_henry">02 exchange KING HENRY</a></li><li><a href="/testi/shakespeare/plays/richard_ii/act_5/scene_3/03_exchange_york">03 exchange YORK</a></li></ul>
+</nav>
 
 
 | Chi parla | Battuta |

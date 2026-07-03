@@ -12,6 +12,10 @@ tags:
 <div class="excerpt-crumb">Dickens · <a href="/works/little-dorrit-(dickens)">Little Dorrit</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/little_dorrit/chapter_44_something_right_somewhere">‹ Chapter 44 Something Right Somewhere</a><a class="ex-next" href="/testi/dickens/atomized/little_dorrit/chapter_46_the_dowager_mrs_gowan_is_remin">Chapter 46 The Dowager Mrs Gowan is remin ›</a></div>
 </nav>
+<nav class="excerpt-children">
+<div class="excerpt-children-label">In questa sezione</div>
+<ul><li><a href="/testi/dickens/atomized/little_dorrit/chapter_45_mostly_prunes_and_prism/part_01">Part 1</a></li><li><a href="/testi/dickens/atomized/little_dorrit/chapter_45_mostly_prunes_and_prism/part_02">Part 2</a></li><li><a href="/testi/dickens/atomized/little_dorrit/chapter_45_mostly_prunes_and_prism/part_03">Part 3</a></li><li><a href="/testi/dickens/atomized/little_dorrit/chapter_45_mostly_prunes_and_prism/part_04">Part 4</a></li></ul>
+</nav>
 
 
 CHAPTER 7. Mostly, Prunes and Prism

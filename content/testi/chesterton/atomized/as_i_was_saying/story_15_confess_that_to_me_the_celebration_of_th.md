@@ -12,6 +12,10 @@ tags:
 <div class="excerpt-crumb">Chesterton · <a href="/works/as-i-was-saying-(chesterton)">As I Was Saying</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/as_i_was_saying/story_14_happened_to_meet_again_recently_after_ma">‹ Story 14 HAPPENED to meet again recently after ma</a><a class="ex-next" href="/testi/chesterton/atomized/as_i_was_saying/story_16_read_a_chance_phrase_in_a_daily_paper_th">Story 16 READ a chance phrase in a daily paper th ›</a></div>
 </nav>
+<nav class="excerpt-children">
+<div class="excerpt-children-label">In questa sezione</div>
+<ul><li><a href="/testi/chesterton/atomized/as_i_was_saying/story_15_confess_that_to_me_the_celebration_of_th/part_01">Part 1</a></li><li><a href="/testi/chesterton/atomized/as_i_was_saying/story_15_confess_that_to_me_the_celebration_of_th/part_02">Part 2</a></li><li><a href="/testi/chesterton/atomized/as_i_was_saying/story_15_confess_that_to_me_the_celebration_of_th/part_03">Part 3</a></li><li><a href="/testi/chesterton/atomized/as_i_was_saying/story_15_confess_that_to_me_the_celebration_of_th/part_04">Part 4</a></li><li><a href="/testi/chesterton/atomized/as_i_was_saying/story_15_confess_that_to_me_the_celebration_of_th/part_05">Part 5</a></li><li><a href="/testi/chesterton/atomized/as_i_was_saying/story_15_confess_that_to_me_the_celebration_of_th/part_06">Part 6</a></li><li><a href="/testi/chesterton/atomized/as_i_was_saying/story_15_confess_that_to_me_the_celebration_of_th/part_07">Part 7</a></li><li><a href="/testi/chesterton/atomized/as_i_was_saying/story_15_confess_that_to_me_the_celebration_of_th/part_08">Part 8</a></li><li><a href="/testi/chesterton/atomized/as_i_was_saying/story_15_confess_that_to_me_the_celebration_of_th/part_09">Part 9</a></li><li><a href="/testi/chesterton/atomized/as_i_was_saying/story_15_confess_that_to_me_the_celebration_of_th/part_10">Part 10</a></li><li><a href="/testi/chesterton/atomized/as_i_was_saying/story_15_confess_that_to_me_the_celebration_of_th/part_11">Part 11</a></li></ul>
+</nav>
 
 
 I CONFESS that to me the celebration of the Centenary of William Morris

@@ -12,6 +12,10 @@ tags:
 <div class="excerpt-crumb">Chesterton · <a href="/works/queertrades-(chesterton)">The Club of Queer Trades</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/queertrades/story_01_chapter_1">‹ Story 01 Chapter 1</a><a class="ex-next" href="/testi/chesterton/atomized/queertrades/story_03_chapter_3">Story 03 Chapter 3 ›</a></div>
 </nav>
+<nav class="excerpt-children">
+<div class="excerpt-children-label">In questa sezione</div>
+<ul><li><a href="/testi/chesterton/atomized/queertrades/story_02_chapter_2/part_01">Part 1</a></li><li><a href="/testi/chesterton/atomized/queertrades/story_02_chapter_2/part_02">Part 2</a></li><li><a href="/testi/chesterton/atomized/queertrades/story_02_chapter_2/part_03">Part 3</a></li><li><a href="/testi/chesterton/atomized/queertrades/story_02_chapter_2/part_04">Part 4</a></li><li><a href="/testi/chesterton/atomized/queertrades/story_02_chapter_2/part_05">Part 5</a></li></ul>
+</nav>
 
 # [[queertrades]] — Chapter 2
 

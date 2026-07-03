@@ -12,6 +12,10 @@ tags:
 <div class="excerpt-crumb">Shakespeare · <a href="/works/the-comedy-of-errors-(shakespeare)">The Comedy of Errors</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/shakespeare/plays/the_comedy_of_errors/act_4/scene_4">‹ Scene 4</a><span></span></div>
 </nav>
+<nav class="excerpt-children">
+<div class="excerpt-children-label">In questa sezione</div>
+<ul><li><a href="/testi/shakespeare/plays/the_comedy_of_errors/act_5/scene_1/01_exchange_dialogue">01 exchange dialogue</a></li><li><a href="/testi/shakespeare/plays/the_comedy_of_errors/act_5/scene_1/02_exchange_adriana">02 exchange ADRIANA</a></li><li><a href="/testi/shakespeare/plays/the_comedy_of_errors/act_5/scene_1/03_exchange_angelo">03 exchange ANGELO</a></li><li><a href="/testi/shakespeare/plays/the_comedy_of_errors/act_5/scene_1/04_monologue_adriana">04 monologue ADRIANA</a></li><li><a href="/testi/shakespeare/plays/the_comedy_of_errors/act_5/scene_1/05_exchange_duke">05 exchange DUKE</a></li><li><a href="/testi/shakespeare/plays/the_comedy_of_errors/act_5/scene_1/06_monologue_antipholus_of_ephesus">06 monologue ANTIPHOLUS OF EPHESUS</a></li><li><a href="/testi/shakespeare/plays/the_comedy_of_errors/act_5/scene_1/07_exchange_angelo">07 exchange ANGELO</a></li><li><a href="/testi/shakespeare/plays/the_comedy_of_errors/act_5/scene_1/08_exchange_antipholus_of_ephesus">08 exchange ANTIPHOLUS OF EPHESUS</a></li><li><a href="/testi/shakespeare/plays/the_comedy_of_errors/act_5/scene_1/09_exchange_angelo">09 exchange ANGELO</a></li><li><a href="/testi/shakespeare/plays/the_comedy_of_errors/act_5/scene_1/10_monologue_the">10 monologue THE</a></li><li><a href="/testi/shakespeare/plays/the_comedy_of_errors/act_5/scene_1/11_exchange_the_persons_of_the_play">11 exchange THE PERSONS OF THE PLAY</a></li></ul>
+</nav>
 
 
 | Chi parla | Battuta |

@@ -12,6 +12,10 @@ tags:
 <div class="excerpt-crumb">Dickens · <a href="/works/david-copperfield-(dickens)">David Copperfield</a></div>
 <div class="excerpt-pn"><span></span><a class="ex-next" href="/testi/dickens/atomized/david_copperfield/chapter_02_i_observe">Chapter 02 I OBSERVE ›</a></div>
 </nav>
+<nav class="excerpt-children">
+<div class="excerpt-children-label">In questa sezione</div>
+<ul><li><a href="/testi/dickens/atomized/david_copperfield/chapter_01_i_am_born/part_01">Part 1</a></li><li><a href="/testi/dickens/atomized/david_copperfield/chapter_01_i_am_born/part_02">Part 2</a></li><li><a href="/testi/dickens/atomized/david_copperfield/chapter_01_i_am_born/part_03">Part 3</a></li><li><a href="/testi/dickens/atomized/david_copperfield/chapter_01_i_am_born/part_04">Part 4</a></li></ul>
+</nav>
 
 
 CHAPTER 1. I AM BORN

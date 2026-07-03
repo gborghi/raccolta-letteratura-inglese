@@ -9,7 +9,7 @@ tags:
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/works/the-flying-inn-(chesterton)">The Flying Inn</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/the-flying-inn-(chesterton)">The Flying Inn</a> › <a href="/testi/chesterton/atomized/the_flying_inn/chapter_22_the_chemistry_of_mr_crooke">Chapter 22 THE CHEMISTRY OF MR CROOKE</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/the_flying_inn/chapter_21_the_road_road_to_roundabout/part_04">‹ part 04</a><a class="ex-next" href="/testi/chesterton/atomized/the_flying_inn/chapter_22_the_chemistry_of_mr_crooke/part_02">part 02 ›</a></div>
 </nav>
 

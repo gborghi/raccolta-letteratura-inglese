@@ -9,7 +9,7 @@ tags:
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/works/the-flying-inn-(chesterton)">The Flying Inn</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/the-flying-inn-(chesterton)">The Flying Inn</a> › <a href="/testi/chesterton/atomized/the_flying_inn/chapter_23_the_march_on_ivywood">Chapter 23 THE MARCH ON IVYWOOD</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/the_flying_inn/chapter_23_the_march_on_ivywood/part_02">‹ part 02</a><a class="ex-next" href="/testi/chesterton/atomized/the_flying_inn/chapter_24_the_enigmas_of_lady_joan/part_01">part 01 ›</a></div>
 </nav>
 

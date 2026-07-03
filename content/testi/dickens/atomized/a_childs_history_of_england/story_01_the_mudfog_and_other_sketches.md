@@ -12,6 +12,10 @@ tags:
 <div class="excerpt-crumb">Dickens · <a href="/works/a-child's-history-of-england-(dickens)">A Childs History of England</a></div>
 <div class="excerpt-pn"><span></span><a class="ex-next" href="/testi/dickens/atomized/a_childs_history_of_england/story_02_great_room_pig_and_tinder_box">Story 02 Great Room Pig And Tinder Box ›</a></div>
 </nav>
+<nav class="excerpt-children">
+<div class="excerpt-children-label">In questa sezione</div>
+<ul><li><a href="/testi/dickens/atomized/a_childs_history_of_england/story_01_the_mudfog_and_other_sketches/part_01">Part 1</a></li><li><a href="/testi/dickens/atomized/a_childs_history_of_england/story_01_the_mudfog_and_other_sketches/part_02">Part 2</a></li><li><a href="/testi/dickens/atomized/a_childs_history_of_england/story_01_the_mudfog_and_other_sketches/part_03">Part 3</a></li><li><a href="/testi/dickens/atomized/a_childs_history_of_england/story_01_the_mudfog_and_other_sketches/part_04">Part 4</a></li><li><a href="/testi/dickens/atomized/a_childs_history_of_england/story_01_the_mudfog_and_other_sketches/part_05">Part 5</a></li><li><a href="/testi/dickens/atomized/a_childs_history_of_england/story_01_the_mudfog_and_other_sketches/part_06">Part 6</a></li><li><a href="/testi/dickens/atomized/a_childs_history_of_england/story_01_the_mudfog_and_other_sketches/part_07">Part 7</a></li><li><a href="/testi/dickens/atomized/a_childs_history_of_england/story_01_the_mudfog_and_other_sketches/part_08">Part 8</a></li><li><a href="/testi/dickens/atomized/a_childs_history_of_england/story_01_the_mudfog_and_other_sketches/part_09">Part 9</a></li><li><a href="/testi/dickens/atomized/a_childs_history_of_england/story_01_the_mudfog_and_other_sketches/part_10">Part 10</a></li></ul>
+</nav>
 
 
                       THE MUDFOG AND OTHER SKETCHES

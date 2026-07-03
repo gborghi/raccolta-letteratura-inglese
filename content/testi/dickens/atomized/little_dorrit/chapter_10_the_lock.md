@@ -12,6 +12,10 @@ tags:
 <div class="excerpt-crumb">Dickens · <a href="/works/little-dorrit-(dickens)">Little Dorrit</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/little_dorrit/chapter_09_the_child_of_the_marshalsea">‹ Chapter 09 The Child of the Marshalsea</a><a class="ex-next" href="/testi/dickens/atomized/little_dorrit/chapter_11_little_mother">Chapter 11 Little Mother ›</a></div>
 </nav>
+<nav class="excerpt-children">
+<div class="excerpt-children-label">In questa sezione</div>
+<ul><li><a href="/testi/dickens/atomized/little_dorrit/chapter_10_the_lock/part_01">Part 1</a></li><li><a href="/testi/dickens/atomized/little_dorrit/chapter_10_the_lock/part_02">Part 2</a></li><li><a href="/testi/dickens/atomized/little_dorrit/chapter_10_the_lock/part_03">Part 3</a></li><li><a href="/testi/dickens/atomized/little_dorrit/chapter_10_the_lock/part_04">Part 4</a></li></ul>
+</nav>
 
 
 CHAPTER 8. The Lock

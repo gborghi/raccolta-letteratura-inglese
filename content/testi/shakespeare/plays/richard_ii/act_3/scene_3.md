@@ -12,6 +12,10 @@ tags:
 <div class="excerpt-crumb">Shakespeare · <a href="/works/richard-ii-(shakespeare)">Richard II</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/shakespeare/plays/richard_ii/act_3/scene_1">‹ Scene 1</a><a class="ex-next" href="/testi/shakespeare/plays/richard_ii/act_3/scene_4">Scene 4 ›</a></div>
 </nav>
+<nav class="excerpt-children">
+<div class="excerpt-children-label">In questa sezione</div>
+<ul><li><a href="/testi/shakespeare/plays/richard_ii/act_3/scene_3/01_exchange_dialogue">01 exchange dialogue</a></li><li><a href="/testi/shakespeare/plays/richard_ii/act_3/scene_3/02_monologue_bolingbroke">02 monologue BOLINGBROKE</a></li><li><a href="/testi/shakespeare/plays/richard_ii/act_3/scene_3/03_exchange_york">03 exchange YORK</a></li><li><a href="/testi/shakespeare/plays/richard_ii/act_3/scene_3/04_monologue_king_richard">04 monologue KING RICHARD</a></li><li><a href="/testi/shakespeare/plays/richard_ii/act_3/scene_3/05_exchange_northumberland">05 exchange NORTHUMBERLAND</a></li><li><a href="/testi/shakespeare/plays/richard_ii/act_3/scene_3/06_monologue_king_richard">06 monologue KING RICHARD</a></li><li><a href="/testi/shakespeare/plays/richard_ii/act_3/scene_3/07_exchange_northumberland">07 exchange NORTHUMBERLAND</a></li></ul>
+</nav>
 
 
 | Chi parla | Battuta |

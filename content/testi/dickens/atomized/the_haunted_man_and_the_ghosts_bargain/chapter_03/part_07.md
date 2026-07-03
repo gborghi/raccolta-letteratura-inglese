@@ -9,7 +9,7 @@ tags:
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Dickens · <a href="/works/the-haunted-man-and-the-ghost's-bargain-(dickens)">The Haunted Man and the Ghosts Bargain</a></div>
+<div class="excerpt-crumb">Dickens · <a href="/works/the-haunted-man-and-the-ghost's-bargain-(dickens)">The Haunted Man and the Ghosts Bargain</a> › <a href="/testi/dickens/atomized/the_haunted_man_and_the_ghosts_bargain/chapter_03">Chapter 03</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/the_haunted_man_and_the_ghosts_bargain/chapter_03/part_06">‹ part 06</a><a class="ex-next" href="/testi/dickens/atomized/the_haunted_man_and_the_ghosts_bargain/chapter_03/part_08">part 08 ›</a></div>
 </nav>
 

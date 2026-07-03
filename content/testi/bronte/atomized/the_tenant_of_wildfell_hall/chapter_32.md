@@ -12,6 +12,10 @@ tags:
 <div class="excerpt-crumb">Bronte · <a href="/works/the-tenant-of-wildfell-hall-(bronte)">The Tenant of Wildfell Hall</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/bronte/atomized/the_tenant_of_wildfell_hall/chapter_31">‹ Chapter 31</a><a class="ex-next" href="/testi/bronte/atomized/the_tenant_of_wildfell_hall/chapter_33">Chapter 33 ›</a></div>
 </nav>
+<nav class="excerpt-children">
+<div class="excerpt-children-label">In questa sezione</div>
+<ul><li><a href="/testi/bronte/atomized/the_tenant_of_wildfell_hall/chapter_32/part_01">Part 1</a></li><li><a href="/testi/bronte/atomized/the_tenant_of_wildfell_hall/chapter_32/part_02">Part 2</a></li><li><a href="/testi/bronte/atomized/the_tenant_of_wildfell_hall/chapter_32/part_03">Part 3</a></li><li><a href="/testi/bronte/atomized/the_tenant_of_wildfell_hall/chapter_32/part_04">Part 4</a></li><li><a href="/testi/bronte/atomized/the_tenant_of_wildfell_hall/chapter_32/part_05">Part 5</a></li></ul>
+</nav>
 
 
  CHAPTER XXXII

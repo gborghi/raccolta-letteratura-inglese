@@ -12,6 +12,10 @@ tags:
 <div class="excerpt-crumb">Shakespeare · <a href="/works/as-you-like-it-(shakespeare)">As You Like It</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/shakespeare/plays/as_you_like_it/act_4/scene_2">‹ Scene 2</a><a class="ex-next" href="/testi/shakespeare/plays/as_you_like_it/act_5/scene_1">Scene 1 ›</a></div>
 </nav>
+<nav class="excerpt-children">
+<div class="excerpt-children-label">In questa sezione</div>
+<ul><li><a href="/testi/shakespeare/plays/as_you_like_it/act_4/scene_3/01_exchange_dialogue">01 exchange dialogue</a></li><li><a href="/testi/shakespeare/plays/as_you_like_it/act_4/scene_3/02_exchange_oliver">02 exchange OLIVER</a></li><li><a href="/testi/shakespeare/plays/as_you_like_it/act_4/scene_3/03_monologue_oliver">03 monologue OLIVER</a></li><li><a href="/testi/shakespeare/plays/as_you_like_it/act_4/scene_3/04_exchange_celia">04 exchange CELIA</a></li></ul>
+</nav>
 
 
 | Chi parla | Battuta |

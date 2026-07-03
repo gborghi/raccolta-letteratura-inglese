@@ -12,6 +12,10 @@ tags:
 <div class="excerpt-crumb">Shakespeare · <a href="/works/king-john-(shakespeare)">King John</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/shakespeare/plays/king_john/act_4/scene_3">‹ Scene 3</a><a class="ex-next" href="/testi/shakespeare/plays/king_john/act_5/scene_3">Scene 3 ›</a></div>
 </nav>
+<nav class="excerpt-children">
+<div class="excerpt-children-label">In questa sezione</div>
+<ul><li><a href="/testi/shakespeare/plays/king_john/act_5/scene_2/01_exchange_dialogue">01 exchange dialogue</a></li><li><a href="/testi/shakespeare/plays/king_john/act_5/scene_2/02_monologue_salisbury">02 monologue SALISBURY</a></li><li><a href="/testi/shakespeare/plays/king_john/act_5/scene_2/03_monologue_louis_the_dauphin">03 monologue LOUIS THE DAUPHIN</a></li><li><a href="/testi/shakespeare/plays/king_john/act_5/scene_2/04_exchange_pandolf">04 exchange PANDOLF</a></li><li><a href="/testi/shakespeare/plays/king_john/act_5/scene_2/05_monologue_louis_the_dauphin">05 monologue LOUIS THE DAUPHIN</a></li><li><a href="/testi/shakespeare/plays/king_john/act_5/scene_2/06_exchange_pandolf">06 exchange PANDOLF</a></li><li><a href="/testi/shakespeare/plays/king_john/act_5/scene_2/07_monologue_bastard">07 monologue BASTARD</a></li><li><a href="/testi/shakespeare/plays/king_john/act_5/scene_2/08_exchange_louis_the_dauphin">08 exchange LOUIS THE DAUPHIN</a></li></ul>
+</nav>
 
 
 | Chi parla | Battuta |

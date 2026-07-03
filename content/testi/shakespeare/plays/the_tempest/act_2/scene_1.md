@@ -12,6 +12,10 @@ tags:
 <div class="excerpt-crumb">Shakespeare · <a href="/works/the-tempest-(shakespeare)">The Tempest</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/shakespeare/plays/the_tempest/act_1/scene_2">‹ Scene 2</a><a class="ex-next" href="/testi/shakespeare/plays/the_tempest/act_3/scene_1">Scene 1 ›</a></div>
 </nav>
+<nav class="excerpt-children">
+<div class="excerpt-children-label">In questa sezione</div>
+<ul><li><a href="/testi/shakespeare/plays/the_tempest/act_2/scene_1/01_exchange_dialogue">01 exchange dialogue</a></li><li><a href="/testi/shakespeare/plays/the_tempest/act_2/scene_1/02_exchange_sebastian">02 exchange SEBASTIAN</a></li><li><a href="/testi/shakespeare/plays/the_tempest/act_2/scene_1/03_exchange_gonzalo">03 exchange GONZALO</a></li><li><a href="/testi/shakespeare/plays/the_tempest/act_2/scene_1/04_exchange_antonio">04 exchange ANTONIO</a></li><li><a href="/testi/shakespeare/plays/the_tempest/act_2/scene_1/05_exchange_antonio">05 exchange ANTONIO</a></li><li><a href="/testi/shakespeare/plays/the_tempest/act_2/scene_1/06_exchange_gonzalo">06 exchange GONZALO</a></li><li><a href="/testi/shakespeare/plays/the_tempest/act_2/scene_1/07_monologue_trinculo">07 monologue TRINCULO</a></li><li><a href="/testi/shakespeare/plays/the_tempest/act_2/scene_1/08_exchange_stefano">08 exchange STEFANO</a></li><li><a href="/testi/shakespeare/plays/the_tempest/act_2/scene_1/09_exchange_trinculo">09 exchange TRINCULO</a></li><li><a href="/testi/shakespeare/plays/the_tempest/act_2/scene_1/10_exchange_stefano_i">10 exchange STEFANO I</a></li></ul>
+</nav>
 
 
 | Chi parla | Battuta |

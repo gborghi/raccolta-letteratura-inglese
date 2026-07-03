@@ -9,7 +9,7 @@ tags:
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Dickens · <a href="/works/little-dorrit-(dickens)">Little Dorrit</a></div>
+<div class="excerpt-crumb">Dickens · <a href="/works/little-dorrit-(dickens)">Little Dorrit</a> › <a href="/testi/dickens/atomized/little_dorrit/chapter_49_a_letter_from_little_dorrit">Chapter 49 A Letter from Little Dorrit</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/little_dorrit/chapter_48_the_dreams_of_mrs_flintwinch_t/part_03">‹ part 03</a><a class="ex-next" href="/testi/dickens/atomized/little_dorrit/chapter_49_a_letter_from_little_dorrit/part_02">part 02 ›</a></div>
 </nav>
 

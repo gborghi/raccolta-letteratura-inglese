@@ -9,7 +9,7 @@ tags:
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Dickens · <a href="/works/david-copperfield-(dickens)">David Copperfield</a></div>
+<div class="excerpt-crumb">Dickens · <a href="/works/david-copperfield-(dickens)">David Copperfield</a> › <a href="/testi/dickens/atomized/david_copperfield/chapter_05_i_am_sent_away_from_home_home">Chapter 05 I AM SENT AWAY FROM Home HOME</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/david_copperfield/chapter_05_i_am_sent_away_from_home_home/part_05">‹ part 05</a><a class="ex-next" href="/testi/dickens/atomized/david_copperfield/chapter_05_i_am_sent_away_from_home_home/part_07">part 07 ›</a></div>
 </nav>
 

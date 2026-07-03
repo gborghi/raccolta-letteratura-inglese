@@ -12,6 +12,10 @@ tags:
 <div class="excerpt-crumb">Shakespeare · <a href="/works/2-henry-iv-(shakespeare)">2 Henry IV</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/shakespeare/plays/2_henry_iv/act_3/scene_2">‹ Scene 2</a><a class="ex-next" href="/testi/shakespeare/plays/2_henry_iv/act_4/scene_2">Scene 2 ›</a></div>
 </nav>
+<nav class="excerpt-children">
+<div class="excerpt-children-label">In questa sezione</div>
+<ul><li><a href="/testi/shakespeare/plays/2_henry_iv/act_4/scene_1/01_exchange_dialogue">01 exchange dialogue</a></li><li><a href="/testi/shakespeare/plays/2_henry_iv/act_4/scene_1/02_monologue_westmorland">02 monologue WESTMORLAND</a></li><li><a href="/testi/shakespeare/plays/2_henry_iv/act_4/scene_1/03_monologue_archbishop_of_york">03 monologue ARCHBISHOP OF YORK</a></li><li><a href="/testi/shakespeare/plays/2_henry_iv/act_4/scene_1/04_exchange_westmorland">04 exchange WESTMORLAND</a></li><li><a href="/testi/shakespeare/plays/2_henry_iv/act_4/scene_1/05_exchange_mowbray">05 exchange MOWBRAY</a></li><li><a href="/testi/shakespeare/plays/2_henry_iv/act_4/scene_1/06_exchange_mowbray">06 exchange MOWBRAY</a></li><li><a href="/testi/shakespeare/plays/2_henry_iv/act_4/scene_1/07_monologue_prince_john">07 monologue PRINCE JOHN</a></li><li><a href="/testi/shakespeare/plays/2_henry_iv/act_4/scene_1/08_exchange_archbishop_of_york">08 exchange ARCHBISHOP OF YORK</a></li><li><a href="/testi/shakespeare/plays/2_henry_iv/act_4/scene_1/09_exchange_mowbray">09 exchange MOWBRAY</a></li></ul>
+</nav>
 
 
 | Chi parla | Battuta |

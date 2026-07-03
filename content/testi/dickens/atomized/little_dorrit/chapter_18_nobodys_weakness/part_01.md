@@ -9,7 +9,7 @@ tags:
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Dickens · <a href="/works/little-dorrit-(dickens)">Little Dorrit</a></div>
+<div class="excerpt-crumb">Dickens · <a href="/works/little-dorrit-(dickens)">Little Dorrit</a> › <a href="/testi/dickens/atomized/little_dorrit/chapter_18_nobodys_weakness">Chapter 18 Nobodys Weakness</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/little_dorrit/chapter_17_mrs_flintwinch_has_another_dre/part_04">‹ part 04</a><a class="ex-next" href="/testi/dickens/atomized/little_dorrit/chapter_18_nobodys_weakness/part_02">part 02 ›</a></div>
 </nav>
 

@@ -9,7 +9,7 @@ tags:
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/works/eugenics-(chesterton)">Eugenics</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/eugenics-(chesterton)">Eugenics</a> › <a href="/testi/chesterton/atomized/eugenics/chapter_02">Chapter 02</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/eugenics/chapter_02/part_15">‹ part 15</a><a class="ex-next" href="/testi/chesterton/atomized/eugenics/chapter_02/part_17">part 17 ›</a></div>
 </nav>
 

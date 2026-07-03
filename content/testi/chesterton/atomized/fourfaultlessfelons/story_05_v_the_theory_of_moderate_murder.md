@@ -12,6 +12,10 @@ tags:
 <div class="excerpt-crumb">Chesterton · <a href="/works/fourfaultlessfelons-(chesterton)">FourFaultlessFelons</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/fourfaultlessfelons/story_04_iii_the_man_who_could_not_hate">‹ Story 04 Iii The Man Who Could Not Hate</a><a class="ex-next" href="/testi/chesterton/atomized/fourfaultlessfelons/story_06_vi_the_thing_that_really_happened">Story 06 Vi The Thing That Really Happened ›</a></div>
 </nav>
+<nav class="excerpt-children">
+<div class="excerpt-children-label">In questa sezione</div>
+<ul><li><a href="/testi/chesterton/atomized/fourfaultlessfelons/story_05_v_the_theory_of_moderate_murder/part_01">Part 1</a></li><li><a href="/testi/chesterton/atomized/fourfaultlessfelons/story_05_v_the_theory_of_moderate_murder/part_02">Part 2</a></li></ul>
+</nav>
 
 
 V THE THEORY OF MODERATE MURDER

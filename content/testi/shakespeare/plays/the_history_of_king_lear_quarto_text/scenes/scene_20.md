@@ -12,6 +12,10 @@ tags:
 <div class="excerpt-crumb">Shakespeare · <a href="/works/the-history-of-king-lear---the-quarto-text-(shakespeare)">The History of King Lear Quarto Text</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/shakespeare/plays/the_history_of_king_lear_quarto_text/scenes/scene_19">‹ Scene 19</a><a class="ex-next" href="/testi/shakespeare/plays/the_history_of_king_lear_quarto_text/scenes/scene_21">Scene 21 ›</a></div>
 </nav>
+<nav class="excerpt-children">
+<div class="excerpt-children-label">In questa sezione</div>
+<ul><li><a href="/testi/shakespeare/plays/the_history_of_king_lear_quarto_text/scenes/scene_20/01_exchange_dialogue">01 exchange dialogue</a></li><li><a href="/testi/shakespeare/plays/the_history_of_king_lear_quarto_text/scenes/scene_20/02_exchange_gloucester">02 exchange GLOUCESTER</a></li><li><a href="/testi/shakespeare/plays/the_history_of_king_lear_quarto_text/scenes/scene_20/03_monologue_lear">03 monologue LEAR</a></li><li><a href="/testi/shakespeare/plays/the_history_of_king_lear_quarto_text/scenes/scene_20/04_exchange_gloucester">04 exchange GLOUCESTER</a></li><li><a href="/testi/shakespeare/plays/the_history_of_king_lear_quarto_text/scenes/scene_20/05_exchange_lear">05 exchange LEAR</a></li><li><a href="/testi/shakespeare/plays/the_history_of_king_lear_quarto_text/scenes/scene_20/06_monologue_edgar">06 monologue EDGAR</a></li><li><a href="/testi/shakespeare/plays/the_history_of_king_lear_quarto_text/scenes/scene_20/07_exchange_gloucester">07 exchange GLOUCESTER</a></li></ul>
+</nav>
 
 
 | Chi parla | Battuta |

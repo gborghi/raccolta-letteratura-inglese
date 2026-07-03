@@ -12,6 +12,10 @@ tags:
 <div class="excerpt-crumb">Chesterton · <a href="/works/the-flying-inn-(chesterton)">The Flying Inn</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/the_flying_inn/chapter_07_the_society_of_simple_souls">‹ Chapter 07 THE SOCIETY OF SIMPLE SOULS</a><a class="ex-next" href="/testi/chesterton/atomized/the_flying_inn/chapter_09_the_higher_criticism_and_mr_hi">Chapter 09 THE HIGHER CRITICISM AND MR HI ›</a></div>
 </nav>
+<nav class="excerpt-children">
+<div class="excerpt-children-label">In questa sezione</div>
+<ul><li><a href="/testi/chesterton/atomized/the_flying_inn/chapter_08_vox_populi_vox_dei/part_01">Part 1</a></li><li><a href="/testi/chesterton/atomized/the_flying_inn/chapter_08_vox_populi_vox_dei/part_02">Part 2</a></li><li><a href="/testi/chesterton/atomized/the_flying_inn/chapter_08_vox_populi_vox_dei/part_03">Part 3</a></li></ul>
+</nav>
 
 
 CHAPTER VIII: VOX POPULI VOX DEI

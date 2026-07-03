@@ -12,6 +12,10 @@ tags:
 <div class="excerpt-crumb">Chesterton · <a href="/works/sanity-(chesterton)">Sanity</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/sanity/story_02_the_peril_of_the_hour">‹ Story 02 THE PERIL OF THE HOUR</a><a class="ex-next" href="/testi/chesterton/atomized/sanity/story_04_some_aspects_of_big_business">Story 04 SOME ASPECTS OF BIG BUSINESS ›</a></div>
 </nav>
+<nav class="excerpt-children">
+<div class="excerpt-children-label">In questa sezione</div>
+<ul><li><a href="/testi/chesterton/atomized/sanity/story_03_on_a_sense_of_proportion/part_01">Part 1</a></li><li><a href="/testi/chesterton/atomized/sanity/story_03_on_a_sense_of_proportion/part_02">Part 2</a></li><li><a href="/testi/chesterton/atomized/sanity/story_03_on_a_sense_of_proportion/part_03">Part 3</a></li><li><a href="/testi/chesterton/atomized/sanity/story_03_on_a_sense_of_proportion/part_04">Part 4</a></li><li><a href="/testi/chesterton/atomized/sanity/story_03_on_a_sense_of_proportion/part_05">Part 5</a></li><li><a href="/testi/chesterton/atomized/sanity/story_03_on_a_sense_of_proportion/part_06">Part 6</a></li><li><a href="/testi/chesterton/atomized/sanity/story_03_on_a_sense_of_proportion/part_07">Part 7</a></li><li><a href="/testi/chesterton/atomized/sanity/story_03_on_a_sense_of_proportion/part_08">Part 8</a></li><li><a href="/testi/chesterton/atomized/sanity/story_03_on_a_sense_of_proportion/part_09">Part 9</a></li><li><a href="/testi/chesterton/atomized/sanity/story_03_on_a_sense_of_proportion/part_10">Part 10</a></li><li><a href="/testi/chesterton/atomized/sanity/story_03_on_a_sense_of_proportion/part_11">Part 11</a></li><li><a href="/testi/chesterton/atomized/sanity/story_03_on_a_sense_of_proportion/part_12">Part 12</a></li><li><a href="/testi/chesterton/atomized/sanity/story_03_on_a_sense_of_proportion/part_13">Part 13</a></li><li><a href="/testi/chesterton/atomized/sanity/story_03_on_a_sense_of_proportion/part_14">Part 14</a></li></ul>
+</nav>
 
 
   4. On a Sense of Proportion

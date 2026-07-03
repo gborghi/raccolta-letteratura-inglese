@@ -9,7 +9,7 @@ tags:
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/works/the-thing-(chesterton)">The Thing</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/the-thing-(chesterton)">The Thing</a> › <a href="/testi/chesterton/atomized/the_thing/story_01_introduction">Story 01 INTRODUCTION</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/the_thing/story_33_the_spirit_of_christmas">‹ Story 33 THE SPIRIT OF CHRISTMAS</a><a class="ex-next" href="/testi/chesterton/atomized/the_thing/story_01_introduction/part_02">part 02 ›</a></div>
 </nav>
 

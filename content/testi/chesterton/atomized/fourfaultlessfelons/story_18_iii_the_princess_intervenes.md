@@ -12,6 +12,10 @@ tags:
 <div class="excerpt-crumb">Chesterton · <a href="/works/fourfaultlessfelons-(chesterton)">FourFaultlessFelons</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/fourfaultlessfelons/story_17_ii_the_procession_of_the_plotters">‹ Story 17 Ii The Procession Of The Plotters</a><a class="ex-next" href="/testi/chesterton/atomized/fourfaultlessfelons/story_19_iv_the_unreasonableness_of_woman">Story 19 Iv The Unreasonableness Of Woman ›</a></div>
 </nav>
+<nav class="excerpt-children">
+<div class="excerpt-children-label">In questa sezione</div>
+<ul><li><a href="/testi/chesterton/atomized/fourfaultlessfelons/story_18_iii_the_princess_intervenes/part_01">Part 1</a></li><li><a href="/testi/chesterton/atomized/fourfaultlessfelons/story_18_iii_the_princess_intervenes/part_02">Part 2</a></li><li><a href="/testi/chesterton/atomized/fourfaultlessfelons/story_18_iii_the_princess_intervenes/part_03">Part 3</a></li><li><a href="/testi/chesterton/atomized/fourfaultlessfelons/story_18_iii_the_princess_intervenes/part_04">Part 4</a></li></ul>
+</nav>
 
 
 III THE PRINCESS INTERVENES

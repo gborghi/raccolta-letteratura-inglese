@@ -12,6 +12,10 @@ tags:
 <div class="excerpt-crumb">Chesterton · <a href="/works/fourfaultlessfelons-(chesterton)">FourFaultlessFelons</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/fourfaultlessfelons/story_20_v_the_terms_of_a_traitor">‹ Story 20 V The Terms Of A Traitor</a><a class="ex-next" href="/testi/chesterton/atomized/fourfaultlessfelons/story_22_epilogue_of_the_pressman">Story 22 Epilogue Of The Pressman ›</a></div>
 </nav>
+<nav class="excerpt-children">
+<div class="excerpt-children-label">In questa sezione</div>
+<ul><li><a href="/testi/chesterton/atomized/fourfaultlessfelons/story_21_vi_the_speaking_of_the_word/part_01">Part 1</a></li><li><a href="/testi/chesterton/atomized/fourfaultlessfelons/story_21_vi_the_speaking_of_the_word/part_02">Part 2</a></li><li><a href="/testi/chesterton/atomized/fourfaultlessfelons/story_21_vi_the_speaking_of_the_word/part_03">Part 3</a></li></ul>
+</nav>
 
 
 VI THE SPEAKING OF THE WORD

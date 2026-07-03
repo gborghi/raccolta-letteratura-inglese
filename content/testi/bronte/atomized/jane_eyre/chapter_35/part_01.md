@@ -9,7 +9,7 @@ tags:
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Bronte · <a href="/works/jane-eyre-(bronte)">Jane Eyre</a></div>
+<div class="excerpt-crumb">Bronte · <a href="/works/jane-eyre-(bronte)">Jane Eyre</a> › <a href="/testi/bronte/atomized/jane_eyre/chapter_35">Chapter 35</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/bronte/atomized/jane_eyre/chapter_34/part_08">‹ part 08</a><a class="ex-next" href="/testi/bronte/atomized/jane_eyre/chapter_35/part_02">part 02 ›</a></div>
 </nav>
 

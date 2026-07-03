@@ -12,6 +12,10 @@ tags:
 <div class="excerpt-crumb">Chesterton · <a href="/works/fourfaultlessfelons-(chesterton)">FourFaultlessFelons</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/fourfaultlessfelons/story_12_the_ecstatic_thief">‹ Story 12 The Ecstatic Thief</a><a class="ex-next" href="/testi/chesterton/atomized/fourfaultlessfelons/story_14_v_the_thief_on_trial">Story 14 V The Thief On Trial ›</a></div>
 </nav>
+<nav class="excerpt-children">
+<div class="excerpt-children-label">In questa sezione</div>
+<ul><li><a href="/testi/chesterton/atomized/fourfaultlessfelons/story_13_ii_the_burglar_and_the_brooch/part_01">Part 1</a></li><li><a href="/testi/chesterton/atomized/fourfaultlessfelons/story_13_ii_the_burglar_and_the_brooch/part_02">Part 2</a></li><li><a href="/testi/chesterton/atomized/fourfaultlessfelons/story_13_ii_the_burglar_and_the_brooch/part_03">Part 3</a></li><li><a href="/testi/chesterton/atomized/fourfaultlessfelons/story_13_ii_the_burglar_and_the_brooch/part_04">Part 4</a></li><li><a href="/testi/chesterton/atomized/fourfaultlessfelons/story_13_ii_the_burglar_and_the_brooch/part_05">Part 5</a></li><li><a href="/testi/chesterton/atomized/fourfaultlessfelons/story_13_ii_the_burglar_and_the_brooch/part_06">Part 6</a></li><li><a href="/testi/chesterton/atomized/fourfaultlessfelons/story_13_ii_the_burglar_and_the_brooch/part_07">Part 7</a></li><li><a href="/testi/chesterton/atomized/fourfaultlessfelons/story_13_ii_the_burglar_and_the_brooch/part_08">Part 8</a></li><li><a href="/testi/chesterton/atomized/fourfaultlessfelons/story_13_ii_the_burglar_and_the_brooch/part_09">Part 9</a></li></ul>
+</nav>
 
 
 II THE BURGLAR AND THE BROOCH

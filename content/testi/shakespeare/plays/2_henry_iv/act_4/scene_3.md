@@ -12,6 +12,10 @@ tags:
 <div class="excerpt-crumb">Shakespeare · <a href="/works/2-henry-iv-(shakespeare)">2 Henry IV</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/shakespeare/plays/2_henry_iv/act_4/scene_2">‹ Scene 2</a><a class="ex-next" href="/testi/shakespeare/plays/2_henry_iv/act_5/scene_1">Scene 1 ›</a></div>
 </nav>
+<nav class="excerpt-children">
+<div class="excerpt-children-label">In questa sezione</div>
+<ul><li><a href="/testi/shakespeare/plays/2_henry_iv/act_4/scene_3/01_exchange_dialogue">01 exchange dialogue</a></li><li><a href="/testi/shakespeare/plays/2_henry_iv/act_4/scene_3/02_monologue_king_henry">02 monologue KING HENRY</a></li><li><a href="/testi/shakespeare/plays/2_henry_iv/act_4/scene_3/03_exchange_clarence">03 exchange CLARENCE</a></li><li><a href="/testi/shakespeare/plays/2_henry_iv/act_4/scene_3/04_exchange_gloucester">04 exchange GLOUCESTER</a></li><li><a href="/testi/shakespeare/plays/2_henry_iv/act_4/scene_3/05_monologue_prince_harry">05 monologue PRINCE HARRY</a></li><li><a href="/testi/shakespeare/plays/2_henry_iv/act_4/scene_3/06_exchange_king_henry">06 exchange KING HENRY</a></li><li><a href="/testi/shakespeare/plays/2_henry_iv/act_4/scene_3/07_monologue_king_henry">07 monologue KING HENRY</a></li><li><a href="/testi/shakespeare/plays/2_henry_iv/act_4/scene_3/08_exchange_warwick">08 exchange WARWICK</a></li><li><a href="/testi/shakespeare/plays/2_henry_iv/act_4/scene_3/09_monologue_king_henry">09 monologue KING HENRY</a></li><li><a href="/testi/shakespeare/plays/2_henry_iv/act_4/scene_3/10_monologue_prince_harry">10 monologue PRINCE HARRY</a></li><li><a href="/testi/shakespeare/plays/2_henry_iv/act_4/scene_3/11_monologue_king_henry_o">11 monologue KING HENRY O</a></li><li><a href="/testi/shakespeare/plays/2_henry_iv/act_4/scene_3/12_exchange_prince_harry">12 exchange PRINCE HARRY</a></li></ul>
+</nav>
 
 
 | Chi parla | Battuta |

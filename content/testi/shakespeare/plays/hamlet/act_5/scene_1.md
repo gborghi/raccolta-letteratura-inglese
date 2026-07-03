@@ -12,6 +12,10 @@ tags:
 <div class="excerpt-crumb">Shakespeare · <a href="/works/hamlet-(shakespeare)">Hamlet</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/shakespeare/plays/hamlet/act_4/scene_7">‹ Scene 7</a><a class="ex-next" href="/testi/shakespeare/plays/hamlet/act_5/scene_2">Scene 2 ›</a></div>
 </nav>
+<nav class="excerpt-children">
+<div class="excerpt-children-label">In questa sezione</div>
+<ul><li><a href="/testi/shakespeare/plays/hamlet/act_5/scene_1/01_exchange_dialogue">01 exchange dialogue</a></li><li><a href="/testi/shakespeare/plays/hamlet/act_5/scene_1/02_exchange_hamlet">02 exchange HAMLET</a></li><li><a href="/testi/shakespeare/plays/hamlet/act_5/scene_1/03_exchange_hamlet">03 exchange HAMLET</a></li><li><a href="/testi/shakespeare/plays/hamlet/act_5/scene_1/04_exchange_hamlet">04 exchange HAMLET</a></li><li><a href="/testi/shakespeare/plays/hamlet/act_5/scene_1/05_exchange_laertes">05 exchange LAERTES</a></li></ul>
+</nav>
 
 
 | Chi parla | Battuta |

@@ -12,6 +12,10 @@ tags:
 <div class="excerpt-crumb">Dickens · <a href="/works/the-pickwick-papers-(dickens)">The Pickwick Papers</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/the_pickwick_papers/chapter_07_strongly_illustrative_of_the_p">‹ Chapter 07 STRONGLY ILLUSTRATIVE OF THE P</a><a class="ex-next" href="/testi/dickens/atomized/the_pickwick_papers/chapter_09_clearing_up_all_doubts_if_any">Chapter 09 CLEARING UP ALL DOUBTS IF ANY ›</a></div>
 </nav>
+<nav class="excerpt-children">
+<div class="excerpt-children-label">In questa sezione</div>
+<ul><li><a href="/testi/dickens/atomized/the_pickwick_papers/chapter_08_a_discovery_and_a_chase/part_01">Part 1</a></li><li><a href="/testi/dickens/atomized/the_pickwick_papers/chapter_08_a_discovery_and_a_chase/part_02">Part 2</a></li><li><a href="/testi/dickens/atomized/the_pickwick_papers/chapter_08_a_discovery_and_a_chase/part_03">Part 3</a></li></ul>
+</nav>
 
 
 CHAPTER IX. A DISCOVERY AND A CHASE

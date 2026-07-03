@@ -12,6 +12,10 @@ tags:
 <div class="excerpt-crumb">Chesterton · <a href="/works/the-flying-inn-(chesterton)">The Flying Inn</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/the_flying_inn/chapter_18_the_republic_of_peaceways">‹ Chapter 18 THE REPUBLIC OF PEACEWAYS</a><a class="ex-next" href="/testi/chesterton/atomized/the_flying_inn/chapter_20_the_turk_and_the_futurists">Chapter 20 THE TURK AND THE FUTURISTS ›</a></div>
 </nav>
+<nav class="excerpt-children">
+<div class="excerpt-children-label">In questa sezione</div>
+<ul><li><a href="/testi/chesterton/atomized/the_flying_inn/chapter_19_the_hospitality_of_the_captain/part_01">Part 1</a></li><li><a href="/testi/chesterton/atomized/the_flying_inn/chapter_19_the_hospitality_of_the_captain/part_02">Part 2</a></li><li><a href="/testi/chesterton/atomized/the_flying_inn/chapter_19_the_hospitality_of_the_captain/part_03">Part 3</a></li></ul>
+</nav>
 
 
 CHAPTER XIX: THE HOSPITALITY OF THE CAPTAIN

@@ -12,6 +12,10 @@ tags:
 <div class="excerpt-crumb">Shakespeare · <a href="/works/the-merry-wives-of-windsor-(shakespeare)">The Merry Wives of Windsor</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/shakespeare/plays/the_merry_wives_of_windsor/act_2/scene_1">‹ Scene 1</a><a class="ex-next" href="/testi/shakespeare/plays/the_merry_wives_of_windsor/act_2/scene_3">Scene 3 ›</a></div>
 </nav>
+<nav class="excerpt-children">
+<div class="excerpt-children-label">In questa sezione</div>
+<ul><li><a href="/testi/shakespeare/plays/the_merry_wives_of_windsor/act_2/scene_2/01_exchange_dialogue">01 exchange dialogue</a></li><li><a href="/testi/shakespeare/plays/the_merry_wives_of_windsor/act_2/scene_2/02_monologue_mistress_quickly">02 monologue MISTRESS QUICKLY</a></li><li><a href="/testi/shakespeare/plays/the_merry_wives_of_windsor/act_2/scene_2/03_exchange_sir_john">03 exchange SIR JOHN</a></li><li><a href="/testi/shakespeare/plays/the_merry_wives_of_windsor/act_2/scene_2/04_exchange_bardolph">04 exchange BARDOLPH</a></li><li><a href="/testi/shakespeare/plays/the_merry_wives_of_windsor/act_2/scene_2/05_exchange_sir_john">05 exchange SIR JOHN</a></li><li><a href="/testi/shakespeare/plays/the_merry_wives_of_windsor/act_2/scene_2/06_exchange_ford_i">06 exchange FORD I</a></li><li><a href="/testi/shakespeare/plays/the_merry_wives_of_windsor/act_2/scene_2/07_monologue_ford">07 monologue FORD</a></li></ul>
+</nav>
 
 
 | Chi parla | Battuta |

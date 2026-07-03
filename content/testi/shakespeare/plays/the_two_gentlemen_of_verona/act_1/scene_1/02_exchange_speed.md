@@ -9,7 +9,7 @@ tags:
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Shakespeare · <a href="/works/the-two-gentlemen-of-verona-(shakespeare)">The Two Gentlemen of Verona</a></div>
+<div class="excerpt-crumb">Shakespeare · <a href="/works/the-two-gentlemen-of-verona-(shakespeare)">The Two Gentlemen of Verona</a> › <a href="/testi/shakespeare/plays/the_two_gentlemen_of_verona/act_1/scene_1">Scene 1</a></div>
 </nav>
 
 

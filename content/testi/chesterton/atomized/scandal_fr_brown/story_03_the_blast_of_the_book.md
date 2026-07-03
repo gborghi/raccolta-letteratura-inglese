@@ -12,6 +12,10 @@ tags:
 <div class="excerpt-crumb">Chesterton · <a href="/works/scandal-fr-brown-(chesterton)">scandal Fr Brown</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/scandal_fr_brown/story_02_the_quick_one">‹ Story 02 The Quick One</a><a class="ex-next" href="/testi/chesterton/atomized/scandal_fr_brown/story_04_the_green_man">Story 04 The Green Man ›</a></div>
 </nav>
+<nav class="excerpt-children">
+<div class="excerpt-children-label">In questa sezione</div>
+<ul><li><a href="/testi/chesterton/atomized/scandal_fr_brown/story_03_the_blast_of_the_book/part_01">Part 1</a></li><li><a href="/testi/chesterton/atomized/scandal_fr_brown/story_03_the_blast_of_the_book/part_02">Part 2</a></li><li><a href="/testi/chesterton/atomized/scandal_fr_brown/story_03_the_blast_of_the_book/part_03">Part 3</a></li><li><a href="/testi/chesterton/atomized/scandal_fr_brown/story_03_the_blast_of_the_book/part_04">Part 4</a></li><li><a href="/testi/chesterton/atomized/scandal_fr_brown/story_03_the_blast_of_the_book/part_05">Part 5</a></li></ul>
+</nav>
 
 
 THREE: The Blast of the Book

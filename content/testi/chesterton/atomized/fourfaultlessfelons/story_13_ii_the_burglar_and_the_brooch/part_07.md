@@ -9,7 +9,7 @@ tags:
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/works/fourfaultlessfelons-(chesterton)">FourFaultlessFelons</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/fourfaultlessfelons-(chesterton)">FourFaultlessFelons</a> › <a href="/testi/chesterton/atomized/fourfaultlessfelons/story_13_ii_the_burglar_and_the_brooch">Story 13 Ii The Burglar And The Brooch</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/fourfaultlessfelons/story_13_ii_the_burglar_and_the_brooch/part_06">‹ part 06</a><a class="ex-next" href="/testi/chesterton/atomized/fourfaultlessfelons/story_13_ii_the_burglar_and_the_brooch/part_08">part 08 ›</a></div>
 </nav>
 

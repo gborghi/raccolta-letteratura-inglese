@@ -12,6 +12,10 @@ tags:
 <div class="excerpt-crumb">Dickens · <a href="/works/little-dorrit-(dickens)">Little Dorrit</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/little_dorrit/chapter_32_the_word_of_a_gentleman">‹ Chapter 32 The Word of a Gentleman</a><a class="ex-next" href="/testi/dickens/atomized/little_dorrit/chapter_34_more_fortune_telling">Chapter 34 More Fortune Telling ›</a></div>
 </nav>
+<nav class="excerpt-children">
+<div class="excerpt-children-label">In questa sezione</div>
+<ul><li><a href="/testi/dickens/atomized/little_dorrit/chapter_33_spirit/part_01">Part 1</a></li><li><a href="/testi/dickens/atomized/little_dorrit/chapter_33_spirit/part_02">Part 2</a></li><li><a href="/testi/dickens/atomized/little_dorrit/chapter_33_spirit/part_03">Part 3</a></li><li><a href="/testi/dickens/atomized/little_dorrit/chapter_33_spirit/part_04">Part 4</a></li><li><a href="/testi/dickens/atomized/little_dorrit/chapter_33_spirit/part_05">Part 5</a></li><li><a href="/testi/dickens/atomized/little_dorrit/chapter_33_spirit/part_06">Part 6</a></li></ul>
+</nav>
 
 
 CHAPTER 31. Spirit

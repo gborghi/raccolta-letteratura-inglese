@@ -9,7 +9,7 @@ tags:
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/works/the-flying-inn-(chesterton)">The Flying Inn</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/the-flying-inn-(chesterton)">The Flying Inn</a> › <a href="/testi/chesterton/atomized/the_flying_inn/chapter_11_vegetarianism_in_the_drawing_r">Chapter 11 VEGETARIANISM IN THE DRAWING R</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/the_flying_inn/chapter_10_the_character_of_quoodle_quood/part_03">‹ part 03</a><a class="ex-next" href="/testi/chesterton/atomized/the_flying_inn/chapter_11_vegetarianism_in_the_drawing_r/part_02">part 02 ›</a></div>
 </nav>
 

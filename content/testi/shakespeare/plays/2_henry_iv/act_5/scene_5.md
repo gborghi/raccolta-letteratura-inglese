@@ -12,6 +12,10 @@ tags:
 <div class="excerpt-crumb">Shakespeare · <a href="/works/2-henry-iv-(shakespeare)">2 Henry IV</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/shakespeare/plays/2_henry_iv/act_5/scene_4">‹ Scene 4</a><span></span></div>
 </nav>
+<nav class="excerpt-children">
+<div class="excerpt-children-label">In questa sezione</div>
+<ul><li><a href="/testi/shakespeare/plays/2_henry_iv/act_5/scene_5/01_exchange_dialogue">01 exchange dialogue</a></li><li><a href="/testi/shakespeare/plays/2_henry_iv/act_5/scene_5/02_monologue_king_harry">02 monologue KING HARRY</a></li><li><a href="/testi/shakespeare/plays/2_henry_iv/act_5/scene_5/03_exchange_sir_john">03 exchange SIR JOHN</a></li><li><a href="/testi/shakespeare/plays/2_henry_iv/act_5/scene_5/04_monologue_epilogue">04 monologue EPILOGUE</a></li><li><a href="/testi/shakespeare/plays/2_henry_iv/act_5/scene_5/05_exchange_additional_passages">05 exchange ADDITIONAL PASSAGES</a></li><li><a href="/testi/shakespeare/plays/2_henry_iv/act_5/scene_5/06_monologue_much_ado_about_nothing">06 monologue MUCH ADO ABOUT NOTHING</a></li><li><a href="/testi/shakespeare/plays/2_henry_iv/act_5/scene_5/07_exchange_the_persons_of_the_play">07 exchange THE PERSONS OF THE PLAY</a></li></ul>
+</nav>
 
 
 | Chi parla | Battuta |

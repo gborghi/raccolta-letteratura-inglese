@@ -12,6 +12,10 @@ tags:
 <div class="excerpt-crumb">Dickens · <a href="/works/the-cricket-on-the-hearth-(dickens)">The Cricket on the Hearth</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/the_cricket_on_the_hearth/story_05_chirp_the_second">‹ Story 05 Chirp The Second</a><a class="ex-next" href="/testi/dickens/atomized/the_cricket_on_the_hearth/story_04_chirp_the_first/part_01">part 01 ›</a></div>
 </nav>
+<nav class="excerpt-children">
+<div class="excerpt-children-label">In questa sezione</div>
+<ul><li><a href="/testi/dickens/atomized/the_cricket_on_the_hearth/story_06_chirp_the_third/part_01">Part 1</a></li><li><a href="/testi/dickens/atomized/the_cricket_on_the_hearth/story_06_chirp_the_third/part_02">Part 2</a></li><li><a href="/testi/dickens/atomized/the_cricket_on_the_hearth/story_06_chirp_the_third/part_03">Part 3</a></li><li><a href="/testi/dickens/atomized/the_cricket_on_the_hearth/story_06_chirp_the_third/part_04">Part 4</a></li><li><a href="/testi/dickens/atomized/the_cricket_on_the_hearth/story_06_chirp_the_third/part_05">Part 5</a></li><li><a href="/testi/dickens/atomized/the_cricket_on_the_hearth/story_06_chirp_the_third/part_06">Part 6</a></li><li><a href="/testi/dickens/atomized/the_cricket_on_the_hearth/story_06_chirp_the_third/part_07">Part 7</a></li><li><a href="/testi/dickens/atomized/the_cricket_on_the_hearth/story_06_chirp_the_third/part_08">Part 8</a></li><li><a href="/testi/dickens/atomized/the_cricket_on_the_hearth/story_06_chirp_the_third/part_09">Part 9</a></li><li><a href="/testi/dickens/atomized/the_cricket_on_the_hearth/story_06_chirp_the_third/part_10">Part 10</a></li><li><a href="/testi/dickens/atomized/the_cricket_on_the_hearth/story_06_chirp_the_third/part_11">Part 11</a></li></ul>
+</nav>
 
 
 CHIRP THE THIRD

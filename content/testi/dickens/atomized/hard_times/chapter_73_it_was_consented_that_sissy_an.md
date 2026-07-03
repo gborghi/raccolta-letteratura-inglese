@@ -12,6 +12,10 @@ tags:
 <div class="excerpt-crumb">Dickens · <a href="/works/hard-times-(dickens)">Hard Times</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/hard_times/chapter_72">‹ Chapter 72</a><a class="ex-next" href="/testi/dickens/atomized/hard_times/chapter_74">Chapter 74 ›</a></div>
 </nav>
+<nav class="excerpt-children">
+<div class="excerpt-children-label">In questa sezione</div>
+<ul><li><a href="/testi/dickens/atomized/hard_times/chapter_73_it_was_consented_that_sissy_an/part_01">Part 1</a></li><li><a href="/testi/dickens/atomized/hard_times/chapter_73_it_was_consented_that_sissy_an/part_02">Part 2</a></li><li><a href="/testi/dickens/atomized/hard_times/chapter_73_it_was_consented_that_sissy_an/part_03">Part 3</a></li></ul>
+</nav>
 
 
 part—it was consented that Sissy and Louisa should repair to the place in

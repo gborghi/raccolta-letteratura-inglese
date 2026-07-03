@@ -12,6 +12,10 @@ tags:
 <div class="excerpt-crumb">Shakespeare · <a href="/works/hamlet-(shakespeare)">Hamlet</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/shakespeare/plays/hamlet/act_3/scene_3">‹ Scene 3</a><a class="ex-next" href="/testi/shakespeare/plays/hamlet/act_4/scene_1">Scene 1 ›</a></div>
 </nav>
+<nav class="excerpt-children">
+<div class="excerpt-children-label">In questa sezione</div>
+<ul><li><a href="/testi/shakespeare/plays/hamlet/act_3/scene_4/01_exchange_dialogue">01 exchange dialogue</a></li><li><a href="/testi/shakespeare/plays/hamlet/act_3/scene_4/02_monologue_hamlet">02 monologue HAMLET</a></li><li><a href="/testi/shakespeare/plays/hamlet/act_3/scene_4/03_exchange_queen_gertrude">03 exchange QUEEN GERTRUDE</a></li><li><a href="/testi/shakespeare/plays/hamlet/act_3/scene_4/04_exchange_queen_gertrude">04 exchange QUEEN GERTRUDE</a></li></ul>
+</nav>
 
 
 | Chi parla | Battuta |

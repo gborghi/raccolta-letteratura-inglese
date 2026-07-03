@@ -9,7 +9,7 @@ tags:
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Dickens · <a href="/works/david-copperfield-(dickens)">David Copperfield</a></div>
+<div class="excerpt-crumb">Dickens · <a href="/works/david-copperfield-(dickens)">David Copperfield</a> › <a href="/testi/dickens/atomized/david_copperfield/chapter_38_a_dissolution_of_partnership">Chapter 38 A DISSOLUTION OF PARTNERSHIP</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/david_copperfield/chapter_38_a_dissolution_of_partnership/part_05">‹ part 05</a><a class="ex-next" href="/testi/dickens/atomized/david_copperfield/chapter_39_wickfield_and_heep/part_01">part 01 ›</a></div>
 </nav>
 

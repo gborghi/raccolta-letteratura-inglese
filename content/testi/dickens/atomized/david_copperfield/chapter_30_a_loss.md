@@ -12,6 +12,10 @@ tags:
 <div class="excerpt-crumb">Dickens · <a href="/works/david-copperfield-(dickens)">David Copperfield</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/david_copperfield/chapter_29_i_visit_steerforth_at_his_home">‹ Chapter 29 I VISIT STEERFORTH AT HIS Home</a><a class="ex-next" href="/testi/dickens/atomized/david_copperfield/chapter_31_a_greater_loss">Chapter 31 A GREATER LOSS ›</a></div>
 </nav>
+<nav class="excerpt-children">
+<div class="excerpt-children-label">In questa sezione</div>
+<ul><li><a href="/testi/dickens/atomized/david_copperfield/chapter_30_a_loss/part_01">Part 1</a></li><li><a href="/testi/dickens/atomized/david_copperfield/chapter_30_a_loss/part_02">Part 2</a></li><li><a href="/testi/dickens/atomized/david_copperfield/chapter_30_a_loss/part_03">Part 3</a></li></ul>
+</nav>
 
 
 CHAPTER 30. A LOSS

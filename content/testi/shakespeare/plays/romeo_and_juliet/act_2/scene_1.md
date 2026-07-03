@@ -12,6 +12,10 @@ tags:
 <div class="excerpt-crumb">Shakespeare · <a href="/works/romeo-and-juliet-(shakespeare)">Romeo and Juliet</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/shakespeare/plays/romeo_and_juliet/act_2/scene_0">‹ Scene 0</a><a class="ex-next" href="/testi/shakespeare/plays/romeo_and_juliet/act_2/scene_2">Scene 2 ›</a></div>
 </nav>
+<nav class="excerpt-children">
+<div class="excerpt-children-label">In questa sezione</div>
+<ul><li><a href="/testi/shakespeare/plays/romeo_and_juliet/act_2/scene_1/01_exchange_dialogue">01 exchange dialogue</a></li><li><a href="/testi/shakespeare/plays/romeo_and_juliet/act_2/scene_1/02_monologue_romeo">02 monologue ROMEO</a></li><li><a href="/testi/shakespeare/plays/romeo_and_juliet/act_2/scene_1/03_exchange_juliet">03 exchange JULIET</a></li><li><a href="/testi/shakespeare/plays/romeo_and_juliet/act_2/scene_1/04_monologue_juliet">04 monologue JULIET</a></li><li><a href="/testi/shakespeare/plays/romeo_and_juliet/act_2/scene_1/05_exchange_romeo">05 exchange ROMEO</a></li><li><a href="/testi/shakespeare/plays/romeo_and_juliet/act_2/scene_1/06_exchange_juliet">06 exchange JULIET</a></li></ul>
+</nav>
 
 
 | Chi parla | Battuta |

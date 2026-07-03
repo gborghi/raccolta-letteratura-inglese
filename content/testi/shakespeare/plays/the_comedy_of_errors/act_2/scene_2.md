@@ -12,6 +12,10 @@ tags:
 <div class="excerpt-crumb">Shakespeare · <a href="/works/the-comedy-of-errors-(shakespeare)">The Comedy of Errors</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/shakespeare/plays/the_comedy_of_errors/act_2/scene_1">‹ Scene 1</a><a class="ex-next" href="/testi/shakespeare/plays/the_comedy_of_errors/act_3/scene_1">Scene 1 ›</a></div>
 </nav>
+<nav class="excerpt-children">
+<div class="excerpt-children-label">In questa sezione</div>
+<ul><li><a href="/testi/shakespeare/plays/the_comedy_of_errors/act_2/scene_2/01_exchange_dialogue">01 exchange dialogue</a></li><li><a href="/testi/shakespeare/plays/the_comedy_of_errors/act_2/scene_2/02_exchange_antipholus_of_syracuse">02 exchange ANTIPHOLUS OF SYRACUSE</a></li><li><a href="/testi/shakespeare/plays/the_comedy_of_errors/act_2/scene_2/03_monologue_adriana">03 monologue ADRIANA</a></li><li><a href="/testi/shakespeare/plays/the_comedy_of_errors/act_2/scene_2/04_exchange_antipholus_of_syracuse">04 exchange ANTIPHOLUS OF SYRACUSE</a></li><li><a href="/testi/shakespeare/plays/the_comedy_of_errors/act_2/scene_2/05_exchange_antipholus_of_syracuse">05 exchange ANTIPHOLUS OF SYRACUSE</a></li></ul>
+</nav>
 
 
 | Chi parla | Battuta |

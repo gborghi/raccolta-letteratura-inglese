@@ -12,6 +12,10 @@ tags:
 <div class="excerpt-crumb">Dickens · <a href="/works/david-copperfield-(dickens)">David Copperfield</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/david_copperfield/chapter_13_the_sequel_of_my_resolution">‹ Chapter 13 THE SEQUEL OF MY RESOLUTION</a><a class="ex-next" href="/testi/dickens/atomized/david_copperfield/chapter_15_i_make_another_beginning">Chapter 15 I MAKE ANOTHER BEGINNING ›</a></div>
 </nav>
+<nav class="excerpt-children">
+<div class="excerpt-children-label">In questa sezione</div>
+<ul><li><a href="/testi/dickens/atomized/david_copperfield/chapter_14_my_aunt_makes_up_her_mind_abou/part_01">Part 1</a></li><li><a href="/testi/dickens/atomized/david_copperfield/chapter_14_my_aunt_makes_up_her_mind_abou/part_02">Part 2</a></li><li><a href="/testi/dickens/atomized/david_copperfield/chapter_14_my_aunt_makes_up_her_mind_abou/part_03">Part 3</a></li><li><a href="/testi/dickens/atomized/david_copperfield/chapter_14_my_aunt_makes_up_her_mind_abou/part_04">Part 4</a></li><li><a href="/testi/dickens/atomized/david_copperfield/chapter_14_my_aunt_makes_up_her_mind_abou/part_05">Part 5</a></li><li><a href="/testi/dickens/atomized/david_copperfield/chapter_14_my_aunt_makes_up_her_mind_abou/part_06">Part 6</a></li></ul>
+</nav>
 
 
 CHAPTER 14. MY AUNT MAKES UP HER MIND ABOUT ME

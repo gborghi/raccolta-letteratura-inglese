@@ -12,6 +12,10 @@ tags:
 <div class="excerpt-crumb">Bronte · <a href="/works/shirley-(bronte)">Shirley</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/bronte/atomized/shirley/chapter_19">‹ Chapter 19</a><a class="ex-next" href="/testi/bronte/atomized/shirley/chapter_21">Chapter 21 ›</a></div>
 </nav>
+<nav class="excerpt-children">
+<div class="excerpt-children-label">In questa sezione</div>
+<ul><li><a href="/testi/bronte/atomized/shirley/chapter_20/part_01">Part 1</a></li><li><a href="/testi/bronte/atomized/shirley/chapter_20/part_02">Part 2</a></li><li><a href="/testi/bronte/atomized/shirley/chapter_20/part_03">Part 3</a></li><li><a href="/testi/bronte/atomized/shirley/chapter_20/part_04">Part 4</a></li><li><a href="/testi/bronte/atomized/shirley/chapter_20/part_05">Part 5</a></li></ul>
+</nav>
 
 
 CHAPTER XX.

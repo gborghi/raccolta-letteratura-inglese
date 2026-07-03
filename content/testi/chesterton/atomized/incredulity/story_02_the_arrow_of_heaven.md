@@ -12,6 +12,10 @@ tags:
 <div class="excerpt-crumb">Chesterton · <a href="/works/incredulity-(chesterton)">Incredulity</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/incredulity/story_01_the_resurrection_of_father_brown">‹ Story 01 The Resurrection of Father Brown</a><a class="ex-next" href="/testi/chesterton/atomized/incredulity/story_03_the_oracle_of_the_dog">Story 03 The Oracle of the Dog ›</a></div>
 </nav>
+<nav class="excerpt-children">
+<div class="excerpt-children-label">In questa sezione</div>
+<ul><li><a href="/testi/chesterton/atomized/incredulity/story_02_the_arrow_of_heaven/part_01">Part 1</a></li><li><a href="/testi/chesterton/atomized/incredulity/story_02_the_arrow_of_heaven/part_02">Part 2</a></li><li><a href="/testi/chesterton/atomized/incredulity/story_02_the_arrow_of_heaven/part_03">Part 3</a></li><li><a href="/testi/chesterton/atomized/incredulity/story_02_the_arrow_of_heaven/part_04">Part 4</a></li><li><a href="/testi/chesterton/atomized/incredulity/story_02_the_arrow_of_heaven/part_05">Part 5</a></li><li><a href="/testi/chesterton/atomized/incredulity/story_02_the_arrow_of_heaven/part_06">Part 6</a></li><li><a href="/testi/chesterton/atomized/incredulity/story_02_the_arrow_of_heaven/part_07">Part 7</a></li><li><a href="/testi/chesterton/atomized/incredulity/story_02_the_arrow_of_heaven/part_08">Part 8</a></li><li><a href="/testi/chesterton/atomized/incredulity/story_02_the_arrow_of_heaven/part_09">Part 9</a></li></ul>
+</nav>
 
 
 TWO:  The Arrow of Heaven

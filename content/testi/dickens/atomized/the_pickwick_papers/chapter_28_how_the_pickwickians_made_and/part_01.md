@@ -9,7 +9,7 @@ tags:
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Dickens · <a href="/works/the-pickwick-papers-(dickens)">The Pickwick Papers</a></div>
+<div class="excerpt-crumb">Dickens · <a href="/works/the-pickwick-papers-(dickens)">The Pickwick Papers</a> › <a href="/testi/dickens/atomized/the_pickwick_papers/chapter_28_how_the_pickwickians_made_and">Chapter 28 HOW THE PICKWICKIANS MADE AND</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/the_pickwick_papers/chapter_27_the_story_of_the_goblins_who_s/part_04">‹ part 04</a><a class="ex-next" href="/testi/dickens/atomized/the_pickwick_papers/chapter_28_how_the_pickwickians_made_and/part_02">part 02 ›</a></div>
 </nav>
 

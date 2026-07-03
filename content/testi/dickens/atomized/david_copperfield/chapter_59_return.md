@@ -12,6 +12,10 @@ tags:
 <div class="excerpt-crumb">Dickens · <a href="/works/david-copperfield-(dickens)">David Copperfield</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/david_copperfield/chapter_58_absence">‹ Chapter 58 ABSENCE</a><a class="ex-next" href="/testi/dickens/atomized/david_copperfield/chapter_60_agnes">Chapter 60 AGNES ›</a></div>
 </nav>
+<nav class="excerpt-children">
+<div class="excerpt-children-label">In questa sezione</div>
+<ul><li><a href="/testi/dickens/atomized/david_copperfield/chapter_59_return/part_01">Part 1</a></li><li><a href="/testi/dickens/atomized/david_copperfield/chapter_59_return/part_02">Part 2</a></li><li><a href="/testi/dickens/atomized/david_copperfield/chapter_59_return/part_03">Part 3</a></li><li><a href="/testi/dickens/atomized/david_copperfield/chapter_59_return/part_04">Part 4</a></li><li><a href="/testi/dickens/atomized/david_copperfield/chapter_59_return/part_05">Part 5</a></li><li><a href="/testi/dickens/atomized/david_copperfield/chapter_59_return/part_06">Part 6</a></li></ul>
+</nav>
 
 
 CHAPTER 59. RETURN

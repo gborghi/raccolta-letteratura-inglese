@@ -9,7 +9,7 @@ tags:
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/works/wild-ducks-(chesterton)">Wild Ducks</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/wild-ducks-(chesterton)">Wild Ducks</a> › <a href="/testi/chesterton/atomized/wild_ducks/story_41_on_reflection">Story 41 ON REFLECTION</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/wild_ducks/story_41_on_reflection/part_01">‹ part 01</a><a class="ex-next" href="/testi/chesterton/atomized/wild_ducks/story_41_on_reflection/part_03">part 03 ›</a></div>
 </nav>
 

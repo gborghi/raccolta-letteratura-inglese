@@ -12,6 +12,10 @@ tags:
 <div class="excerpt-crumb">Shakespeare · <a href="/works/richard-ii-(shakespeare)">Richard II</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/shakespeare/plays/richard_ii/act_2/scene_4">‹ Scene 4</a><a class="ex-next" href="/testi/shakespeare/plays/richard_ii/act_3/scene_3">Scene 3 ›</a></div>
 </nav>
+<nav class="excerpt-children">
+<div class="excerpt-children-label">In questa sezione</div>
+<ul><li><a href="/testi/shakespeare/plays/richard_ii/act_3/scene_1/01_exchange_dialogue">01 exchange dialogue</a></li><li><a href="/testi/shakespeare/plays/richard_ii/act_3/scene_1/02_monologue_bolingbroke">02 monologue BOLINGBROKE</a></li><li><a href="/testi/shakespeare/plays/richard_ii/act_3/scene_1/03_exchange_bushy">03 exchange BUSHY</a></li><li><a href="/testi/shakespeare/plays/richard_ii/act_3/scene_1/04_monologue_king_richard">04 monologue KING RICHARD</a></li><li><a href="/testi/shakespeare/plays/richard_ii/act_3/scene_1/05_exchange_bishop_of_carlisle">05 exchange BISHOP OF CARLISLE</a></li><li><a href="/testi/shakespeare/plays/richard_ii/act_3/scene_1/06_monologue_king_richard">06 monologue KING RICHARD</a></li><li><a href="/testi/shakespeare/plays/richard_ii/act_3/scene_1/07_exchange_salisbury">07 exchange SALISBURY</a></li><li><a href="/testi/shakespeare/plays/richard_ii/act_3/scene_1/08_exchange_scrope">08 exchange SCROPE</a></li><li><a href="/testi/shakespeare/plays/richard_ii/act_3/scene_1/09_monologue_king_richard">09 monologue KING RICHARD</a></li><li><a href="/testi/shakespeare/plays/richard_ii/act_3/scene_1/10_exchange_bishop_of_carlisle">10 exchange BISHOP OF CARLISLE</a></li></ul>
+</nav>
 
 
 | Chi parla | Battuta |

@@ -12,6 +12,10 @@ tags:
 <div class="excerpt-crumb">Dickens · <a href="/works/little-dorrit-(dickens)">Little Dorrit</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/little_dorrit/chapter_04_fellow_travellers">‹ Chapter 04 Fellow Travellers</a><a class="ex-next" href="/testi/dickens/atomized/little_dorrit/chapter_06_mrs_flintwinch_has_a_dream_a_d">Chapter 06 Mrs Flintwinch has A Dream a D ›</a></div>
 </nav>
+<nav class="excerpt-children">
+<div class="excerpt-children-label">In questa sezione</div>
+<ul><li><a href="/testi/dickens/atomized/little_dorrit/chapter_05_home/part_01">Part 1</a></li><li><a href="/testi/dickens/atomized/little_dorrit/chapter_05_home/part_02">Part 2</a></li><li><a href="/testi/dickens/atomized/little_dorrit/chapter_05_home/part_03">Part 3</a></li><li><a href="/testi/dickens/atomized/little_dorrit/chapter_05_home/part_04">Part 4</a></li><li><a href="/testi/dickens/atomized/little_dorrit/chapter_05_home/part_05">Part 5</a></li></ul>
+</nav>
 
 
 CHAPTER 3. [[Home]]

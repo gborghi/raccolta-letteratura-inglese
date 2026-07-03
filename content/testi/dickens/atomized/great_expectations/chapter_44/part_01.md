@@ -9,7 +9,7 @@ tags:
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Dickens · <a href="/works/great-expectations-(dickens)">Great Expectations</a></div>
+<div class="excerpt-crumb">Dickens · <a href="/works/great-expectations-(dickens)">Great Expectations</a> › <a href="/testi/dickens/atomized/great_expectations/chapter_44">Chapter 44</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/great_expectations/chapter_42/part_03">‹ part 03</a><a class="ex-next" href="/testi/dickens/atomized/great_expectations/chapter_44/part_02">part 02 ›</a></div>
 </nav>
 

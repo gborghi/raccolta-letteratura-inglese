@@ -12,6 +12,10 @@ tags:
 <div class="excerpt-crumb">Dickens · <a href="/works/little-dorrit-(dickens)">Little Dorrit</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/little_dorrit/chapter_57_the_storming_of_the_castle_in">‹ Chapter 57 The Storming of the Castle in</a><a class="ex-next" href="/testi/dickens/atomized/little_dorrit/chapter_59_the_history_history_of_a_self">Chapter 59 The history History of a Self ›</a></div>
 </nav>
+<nav class="excerpt-children">
+<div class="excerpt-children-label">In questa sezione</div>
+<ul><li><a href="/testi/dickens/atomized/little_dorrit/chapter_58_introduces_the_next/part_01">Part 1</a></li><li><a href="/testi/dickens/atomized/little_dorrit/chapter_58_introduces_the_next/part_02">Part 2</a></li><li><a href="/testi/dickens/atomized/little_dorrit/chapter_58_introduces_the_next/part_03">Part 3</a></li><li><a href="/testi/dickens/atomized/little_dorrit/chapter_58_introduces_the_next/part_04">Part 4</a></li></ul>
+</nav>
 
 
 CHAPTER 20. Introduces the next

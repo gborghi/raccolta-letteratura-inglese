@@ -12,6 +12,10 @@ tags:
 <div class="excerpt-crumb">Shakespeare · <a href="/works/the-merchant-of-venice-(shakespeare)">The Merchant of Venice</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/shakespeare/plays/the_merchant_of_venice/act_4/scene_2">‹ Scene 2</a><span></span></div>
 </nav>
+<nav class="excerpt-children">
+<div class="excerpt-children-label">In questa sezione</div>
+<ul><li><a href="/testi/shakespeare/plays/the_merchant_of_venice/act_5/scene_1/01_exchange_dialogue">01 exchange dialogue</a></li><li><a href="/testi/shakespeare/plays/the_merchant_of_venice/act_5/scene_1/02_monologue_lorenzo">02 monologue LORENZO</a></li><li><a href="/testi/shakespeare/plays/the_merchant_of_venice/act_5/scene_1/03_exchange_jessica">03 exchange JESSICA</a></li><li><a href="/testi/shakespeare/plays/the_merchant_of_venice/act_5/scene_1/04_exchange_portia">04 exchange PORTIA</a></li><li><a href="/testi/shakespeare/plays/the_merchant_of_venice/act_5/scene_1/05_exchange_nerissa">05 exchange NERISSA</a></li><li><a href="/testi/shakespeare/plays/the_merchant_of_venice/act_5/scene_1/06_exchange_antonio">06 exchange ANTONIO</a></li><li><a href="/testi/shakespeare/plays/the_merchant_of_venice/act_5/scene_1/07_monologue_the">07 monologue THE</a></li><li><a href="/testi/shakespeare/plays/the_merchant_of_venice/act_5/scene_1/08_exchange_the_persons_of_the_play">08 exchange THE PERSONS OF THE PLAY</a></li></ul>
+</nav>
 
 
 | Chi parla | Battuta |

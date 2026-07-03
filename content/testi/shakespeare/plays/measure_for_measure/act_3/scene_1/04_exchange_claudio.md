@@ -9,7 +9,7 @@ tags:
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Shakespeare · <a href="/works/measure-for-measure-(shakespeare)">Measure for Measure</a></div>
+<div class="excerpt-crumb">Shakespeare · <a href="/works/measure-for-measure-(shakespeare)">Measure for Measure</a> › <a href="/testi/shakespeare/plays/measure_for_measure/act_3/scene_1">Scene 1</a></div>
 </nav>
 
 

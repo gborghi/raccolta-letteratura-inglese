@@ -12,6 +12,10 @@ tags:
 <div class="excerpt-crumb">Dickens · <a href="/works/little-dorrit-(dickens)">Little Dorrit</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/little_dorrit/chapter_29_five_and_twenty">‹ Chapter 29 Five and Twenty</a><a class="ex-next" href="/testi/dickens/atomized/little_dorrit/chapter_31_mrs_flintwinch_goes_on_dreamin">Chapter 31 Mrs Flintwinch goes on Dreamin ›</a></div>
 </nav>
+<nav class="excerpt-children">
+<div class="excerpt-children-label">In questa sezione</div>
+<ul><li><a href="/testi/dickens/atomized/little_dorrit/chapter_30_nobodys_disappearance/part_01">Part 1</a></li><li><a href="/testi/dickens/atomized/little_dorrit/chapter_30_nobodys_disappearance/part_02">Part 2</a></li><li><a href="/testi/dickens/atomized/little_dorrit/chapter_30_nobodys_disappearance/part_03">Part 3</a></li></ul>
+</nav>
 
 
 CHAPTER 28. Nobody’s Disappearance

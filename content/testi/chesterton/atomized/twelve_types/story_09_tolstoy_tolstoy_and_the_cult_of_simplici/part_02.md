@@ -9,7 +9,7 @@ tags:
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/works/twelve-types-(chesterton)">Twelve Types</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/twelve-types-(chesterton)">Twelve Types</a> › <a href="/testi/chesterton/atomized/twelve_types/story_09_tolstoy_tolstoy_and_the_cult_of_simplici">Story 09 tolstoy TOLSTOY AND THE CULT OF SIMPLICI</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/twelve_types/story_09_tolstoy_tolstoy_and_the_cult_of_simplici/part_01">‹ part 01</a><a class="ex-next" href="/testi/chesterton/atomized/twelve_types/story_09_tolstoy_tolstoy_and_the_cult_of_simplici/part_03">part 03 ›</a></div>
 </nav>
 

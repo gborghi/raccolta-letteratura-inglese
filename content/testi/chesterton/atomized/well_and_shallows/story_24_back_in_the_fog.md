@@ -12,6 +12,10 @@ tags:
 <div class="excerpt-crumb">Chesterton · <a href="/works/well-and-shallows-(chesterton)">Well And Shallows</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/well_and_shallows/story_23_the_church_and_agoraphobia">‹ Story 23 The Church And Agoraphobia</a><a class="ex-next" href="/testi/chesterton/atomized/well_and_shallows/story_25_a_century_of_emancipation">Story 25 A Century Of Emancipation ›</a></div>
 </nav>
+<nav class="excerpt-children">
+<div class="excerpt-children-label">In questa sezione</div>
+<ul><li><a href="/testi/chesterton/atomized/well_and_shallows/story_24_back_in_the_fog/part_01">Part 1</a></li><li><a href="/testi/chesterton/atomized/well_and_shallows/story_24_back_in_the_fog/part_02">Part 2</a></li><li><a href="/testi/chesterton/atomized/well_and_shallows/story_24_back_in_the_fog/part_03">Part 3</a></li></ul>
+</nav>
 
 
 BACK IN THE FOG

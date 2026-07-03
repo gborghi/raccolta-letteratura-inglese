@@ -12,6 +12,10 @@ tags:
 <div class="excerpt-crumb">Shakespeare · <a href="/works/pericles-(shakespeare)">Pericles</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/shakespeare/plays/pericles/scenes/scene_15">‹ Scene 15</a><a class="ex-next" href="/testi/shakespeare/plays/pericles/scenes/scene_17">Scene 17 ›</a></div>
 </nav>
+<nav class="excerpt-children">
+<div class="excerpt-children-label">In questa sezione</div>
+<ul><li><a href="/testi/shakespeare/plays/pericles/scenes/scene_16/01_exchange_pander">01 exchange PANDER</a></li><li><a href="/testi/shakespeare/plays/pericles/scenes/scene_16/02_exchange_bawd">02 exchange BAWD</a></li><li><a href="/testi/shakespeare/plays/pericles/scenes/scene_16/03_exchange_boult_i">03 exchange BOULT I</a></li></ul>
+</nav>
 
 
 | Chi parla | Battuta |

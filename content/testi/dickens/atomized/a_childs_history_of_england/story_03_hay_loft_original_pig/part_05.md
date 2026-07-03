@@ -9,7 +9,7 @@ tags:
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Dickens · <a href="/works/a-child's-history-of-england-(dickens)">A Childs History of England</a></div>
+<div class="excerpt-crumb">Dickens · <a href="/works/a-child's-history-of-england-(dickens)">A Childs History of England</a> › <a href="/testi/dickens/atomized/a_childs_history_of_england/story_03_hay_loft_original_pig">Story 03 Hay Loft Original Pig</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/a_childs_history_of_england/story_03_hay_loft_original_pig/part_04">‹ part 04</a><a class="ex-next" href="/testi/dickens/atomized/a_childs_history_of_england/story_07_the_pantomime_of_life/part_01">part 01 ›</a></div>
 </nav>
 

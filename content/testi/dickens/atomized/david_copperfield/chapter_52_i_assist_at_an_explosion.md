@@ -12,6 +12,10 @@ tags:
 <div class="excerpt-crumb">Dickens · <a href="/works/david-copperfield-(dickens)">David Copperfield</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/david_copperfield/chapter_51_the_beginning_of_a_longer_jour">‹ Chapter 51 THE BEGINNING OF A LONGER Jour</a><a class="ex-next" href="/testi/dickens/atomized/david_copperfield/chapter_53_another_retrospect">Chapter 53 ANOTHER RETROSPECT ›</a></div>
 </nav>
+<nav class="excerpt-children">
+<div class="excerpt-children-label">In questa sezione</div>
+<ul><li><a href="/testi/dickens/atomized/david_copperfield/chapter_52_i_assist_at_an_explosion/part_01">Part 1</a></li><li><a href="/testi/dickens/atomized/david_copperfield/chapter_52_i_assist_at_an_explosion/part_02">Part 2</a></li><li><a href="/testi/dickens/atomized/david_copperfield/chapter_52_i_assist_at_an_explosion/part_03">Part 3</a></li><li><a href="/testi/dickens/atomized/david_copperfield/chapter_52_i_assist_at_an_explosion/part_04">Part 4</a></li><li><a href="/testi/dickens/atomized/david_copperfield/chapter_52_i_assist_at_an_explosion/part_05">Part 5</a></li><li><a href="/testi/dickens/atomized/david_copperfield/chapter_52_i_assist_at_an_explosion/part_06">Part 6</a></li><li><a href="/testi/dickens/atomized/david_copperfield/chapter_52_i_assist_at_an_explosion/part_07">Part 7</a></li><li><a href="/testi/dickens/atomized/david_copperfield/chapter_52_i_assist_at_an_explosion/part_08">Part 8</a></li><li><a href="/testi/dickens/atomized/david_copperfield/chapter_52_i_assist_at_an_explosion/part_09">Part 9</a></li></ul>
+</nav>
 
 
 CHAPTER 52. I ASSIST AT AN EXPLOSION

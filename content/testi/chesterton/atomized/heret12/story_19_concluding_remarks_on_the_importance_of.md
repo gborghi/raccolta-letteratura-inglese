@@ -14,6 +14,10 @@ tags:
 <div class="excerpt-crumb">Chesterton · <a href="/works/heret12-(chesterton)">Heretics</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/heret12/story_18_slum_novelists_and_the_slums">‹ Story 18 Slum Novelists and the Slums</a><a class="ex-next" href="/testi/chesterton/atomized/heret12/story_01_introductory_remarks_on_the_importance_o/part_01">part 01 ›</a></div>
 </nav>
+<nav class="excerpt-children">
+<div class="excerpt-children-label">In questa sezione</div>
+<ul><li><a href="/testi/chesterton/atomized/heret12/story_19_concluding_remarks_on_the_importance_of/part_01">Part 1</a></li><li><a href="/testi/chesterton/atomized/heret12/story_19_concluding_remarks_on_the_importance_of/part_02">Part 2</a></li><li><a href="/testi/chesterton/atomized/heret12/story_19_concluding_remarks_on_the_importance_of/part_03">Part 3</a></li><li><a href="/testi/chesterton/atomized/heret12/story_19_concluding_remarks_on_the_importance_of/part_04">Part 4</a></li></ul>
+</nav>
 
 # [[heret12]] — Concluding Remarks on the Importance of Orthodoxy
 

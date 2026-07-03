@@ -12,6 +12,10 @@ tags:
 <div class="excerpt-crumb">Chesterton · <a href="/works/the-glass-walking-stick-(chesterton)">The Glass Walking Stick</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/the_glass_walking_stick/story_29_a_plea_for_the_heroic_couplet">‹ Story 29 A Plea For The Heroic Couplet</a><a class="ex-next" href="/testi/chesterton/atomized/the_glass_walking_stick/story_02_history_in_stone/part_01">part 01 ›</a></div>
 </nav>
+<nav class="excerpt-children">
+<div class="excerpt-children-label">In questa sezione</div>
+<ul><li><a href="/testi/chesterton/atomized/the_glass_walking_stick/story_30_to_praise_exalt_establish_and_defend/part_01">Part 1</a></li><li><a href="/testi/chesterton/atomized/the_glass_walking_stick/story_30_to_praise_exalt_establish_and_defend/part_02">Part 2</a></li><li><a href="/testi/chesterton/atomized/the_glass_walking_stick/story_30_to_praise_exalt_establish_and_defend/part_03">Part 3</a></li></ul>
+</nav>
 
 
 TO PRAISE, EXALT, ESTABLISH, AND DEFEND

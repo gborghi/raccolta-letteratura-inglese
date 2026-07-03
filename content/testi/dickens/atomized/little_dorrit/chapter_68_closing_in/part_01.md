@@ -9,7 +9,7 @@ tags:
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Dickens · <a href="/works/little-dorrit-(dickens)">Little Dorrit</a></div>
+<div class="excerpt-crumb">Dickens · <a href="/works/little-dorrit-(dickens)">Little Dorrit</a> › <a href="/testi/dickens/atomized/little_dorrit/chapter_68_closing_in">Chapter 68 Closing in</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/little_dorrit/chapter_67_a_plea_in_the_marshalsea/part_04">‹ part 04</a><a class="ex-next" href="/testi/dickens/atomized/little_dorrit/chapter_68_closing_in/part_02">part 02 ›</a></div>
 </nav>
 

@@ -9,7 +9,7 @@ tags:
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/works/mrpond-(chesterton)">MrPond</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/mrpond-(chesterton)">MrPond</a> › <a href="/testi/chesterton/atomized/mrpond/story_05_louis_and_shouted_as_if_on_parade">Story 05 Louis and shouted as if on parade</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/mrpond/story_05_louis_and_shouted_as_if_on_parade/part_05">‹ part 05</a><a class="ex-next" href="/testi/chesterton/atomized/mrpond/story_05_louis_and_shouted_as_if_on_parade/part_07">part 07 ›</a></div>
 </nav>
 

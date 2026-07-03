@@ -12,6 +12,10 @@ tags:
 <div class="excerpt-crumb">Austen · <a href="/works/mansfield-park-(austen)">Mansfield Park</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/austen/atomized/mansfield_park/chapter_27">‹ Chapter 27</a><a class="ex-next" href="/testi/austen/atomized/mansfield_park/chapter_29">Chapter 29 ›</a></div>
 </nav>
+<nav class="excerpt-children">
+<div class="excerpt-children-label">In questa sezione</div>
+<ul><li><a href="/testi/austen/atomized/mansfield_park/chapter_28/part_01">Part 1</a></li><li><a href="/testi/austen/atomized/mansfield_park/chapter_28/part_02">Part 2</a></li><li><a href="/testi/austen/atomized/mansfield_park/chapter_28/part_03">Part 3</a></li></ul>
+</nav>
 
 
 CHAPTER XXVIII

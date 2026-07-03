@@ -12,6 +12,10 @@ tags:
 <div class="excerpt-crumb">Chesterton · <a href="/works/st-francis-(chesterton)">St Francis</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/st_francis/chapter_09">‹ Chapter 09</a><a class="ex-next" href="/testi/chesterton/atomized/st_francis/chapter_01/part_01">part 01 ›</a></div>
 </nav>
+<nav class="excerpt-children">
+<div class="excerpt-children-label">In questa sezione</div>
+<ul><li><a href="/testi/chesterton/atomized/st_francis/chapter_10/part_01">Part 1</a></li><li><a href="/testi/chesterton/atomized/st_francis/chapter_10/part_02">Part 2</a></li><li><a href="/testi/chesterton/atomized/st_francis/chapter_10/part_03">Part 3</a></li></ul>
+</nav>
 
 
 Chapter X

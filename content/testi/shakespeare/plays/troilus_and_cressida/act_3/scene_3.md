@@ -12,6 +12,10 @@ tags:
 <div class="excerpt-crumb">Shakespeare · <a href="/works/troilus-and-cressida-(shakespeare)">Troilus and Cressida</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/shakespeare/plays/troilus_and_cressida/act_3/scene_2">‹ Scene 2</a><a class="ex-next" href="/testi/shakespeare/plays/troilus_and_cressida/act_4/scene_1">Scene 1 ›</a></div>
 </nav>
+<nav class="excerpt-children">
+<div class="excerpt-children-label">In questa sezione</div>
+<ul><li><a href="/testi/shakespeare/plays/troilus_and_cressida/act_3/scene_3/01_exchange_dialogue">01 exchange dialogue</a></li><li><a href="/testi/shakespeare/plays/troilus_and_cressida/act_3/scene_3/02_exchange_agamemnon">02 exchange AGAMEMNON</a></li><li><a href="/testi/shakespeare/plays/troilus_and_cressida/act_3/scene_3/03_monologue_ulysses">03 monologue ULYSSES</a></li><li><a href="/testi/shakespeare/plays/troilus_and_cressida/act_3/scene_3/04_exchange_achilles_i">04 exchange ACHILLES I</a></li><li><a href="/testi/shakespeare/plays/troilus_and_cressida/act_3/scene_3/05_monologue_ulysses">05 monologue ULYSSES</a></li><li><a href="/testi/shakespeare/plays/troilus_and_cressida/act_3/scene_3/06_exchange_achilles">06 exchange ACHILLES</a></li><li><a href="/testi/shakespeare/plays/troilus_and_cressida/act_3/scene_3/07_exchange_achilles">07 exchange ACHILLES</a></li></ul>
+</nav>
 
 
 | Chi parla | Battuta |

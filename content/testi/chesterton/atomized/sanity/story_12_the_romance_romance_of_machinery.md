@@ -12,6 +12,10 @@ tags:
 <div class="excerpt-crumb">Chesterton · <a href="/works/sanity-(chesterton)">Sanity</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/sanity/story_11_the_wheel_wheel_of_fate">‹ Story 11 THE Wheel WHEEL OF FATE</a><a class="ex-next" href="/testi/chesterton/atomized/sanity/story_13_the_holiday_of_the_slave">Story 13 THE HOLIDAY OF THE SLAVE ›</a></div>
 </nav>
+<nav class="excerpt-children">
+<div class="excerpt-children-label">In questa sezione</div>
+<ul><li><a href="/testi/chesterton/atomized/sanity/story_12_the_romance_romance_of_machinery/part_01">Part 1</a></li><li><a href="/testi/chesterton/atomized/sanity/story_12_the_romance_romance_of_machinery/part_02">Part 2</a></li><li><a href="/testi/chesterton/atomized/sanity/story_12_the_romance_romance_of_machinery/part_03">Part 3</a></li></ul>
+</nav>
 
 
 II THE [[Romance|ROMANCE]] OF MACHINERY

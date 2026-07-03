@@ -12,6 +12,10 @@ tags:
 <div class="excerpt-crumb">Chesterton · <a href="/works/the-thing-(chesterton)">The Thing</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/the_thing/story_21_on_courage_courage_and_independence">‹ Story 21 ON Courage COURAGE AND INDEPENDENCE</a><a class="ex-next" href="/testi/chesterton/atomized/the_thing/story_23_the_roots_of_sanity_sanity">Story 23 THE ROOTS OF Sanity SANITY ›</a></div>
 </nav>
+<nav class="excerpt-children">
+<div class="excerpt-children-label">In questa sezione</div>
+<ul><li><a href="/testi/chesterton/atomized/the_thing/story_22_the_nordic_hindoo/part_01">Part 1</a></li><li><a href="/testi/chesterton/atomized/the_thing/story_22_the_nordic_hindoo/part_02">Part 2</a></li><li><a href="/testi/chesterton/atomized/the_thing/story_22_the_nordic_hindoo/part_03">Part 3</a></li></ul>
+</nav>
 
 
 THE NORDIC HINDOO

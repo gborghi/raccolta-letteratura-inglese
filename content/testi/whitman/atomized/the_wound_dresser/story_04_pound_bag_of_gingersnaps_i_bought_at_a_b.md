@@ -12,6 +12,10 @@ tags:
 <div class="excerpt-crumb">Whitman · <a href="/works/the-wound-dresser-(whitman)">The Wound Dresser</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/whitman/atomized/the_wound_dresser/story_03_in_ward_e_of_armory_hospital_i_found_a_m">‹ Story 03 In Ward E of Armory hospital I found a m</a><a class="ex-next" href="/testi/whitman/atomized/the_wound_dresser/story_05_good_bye_dear_mother">Story 05 Good bye dear mother ›</a></div>
 </nav>
+<nav class="excerpt-children">
+<div class="excerpt-children-label">In questa sezione</div>
+<ul><li><a href="/testi/whitman/atomized/the_wound_dresser/story_04_pound_bag_of_gingersnaps_i_bought_at_a_b/part_01">Part 1</a></li><li><a href="/testi/whitman/atomized/the_wound_dresser/story_04_pound_bag_of_gingersnaps_i_bought_at_a_b/part_02">Part 2</a></li><li><a href="/testi/whitman/atomized/the_wound_dresser/story_04_pound_bag_of_gingersnaps_i_bought_at_a_b/part_03">Part 3</a></li><li><a href="/testi/whitman/atomized/the_wound_dresser/story_04_pound_bag_of_gingersnaps_i_bought_at_a_b/part_04">Part 4</a></li><li><a href="/testi/whitman/atomized/the_wound_dresser/story_04_pound_bag_of_gingersnaps_i_bought_at_a_b/part_05">Part 5</a></li><li><a href="/testi/whitman/atomized/the_wound_dresser/story_04_pound_bag_of_gingersnaps_i_bought_at_a_b/part_06">Part 6</a></li></ul>
+</nav>
 
 
 four-pound bag of gingersnaps I bought at a baker's in Seventh street.

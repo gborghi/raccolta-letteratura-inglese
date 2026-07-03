@@ -12,6 +12,10 @@ tags:
 <div class="excerpt-crumb">Shakespeare · <a href="/works/titus-andronicus-(shakespeare)">Titus Andronicus</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/shakespeare/plays/titus_andronicus/act_2/scene_4">‹ Scene 4</a><a class="ex-next" href="/testi/shakespeare/plays/titus_andronicus/act_3/scene_2">Scene 2 ›</a></div>
 </nav>
+<nav class="excerpt-children">
+<div class="excerpt-children-label">In questa sezione</div>
+<ul><li><a href="/testi/shakespeare/plays/titus_andronicus/act_3/scene_1/01_exchange_dialogue">01 exchange dialogue</a></li><li><a href="/testi/shakespeare/plays/titus_andronicus/act_3/scene_1/02_monologue_titus">02 monologue TITUS</a></li><li><a href="/testi/shakespeare/plays/titus_andronicus/act_3/scene_1/03_exchange_lucius">03 exchange LUCIUS</a></li><li><a href="/testi/shakespeare/plays/titus_andronicus/act_3/scene_1/04_monologue_titus">04 monologue TITUS</a></li><li><a href="/testi/shakespeare/plays/titus_andronicus/act_3/scene_1/05_exchange_marcus">05 exchange MARCUS</a></li><li><a href="/testi/shakespeare/plays/titus_andronicus/act_3/scene_1/06_exchange_lucius">06 exchange LUCIUS</a></li><li><a href="/testi/shakespeare/plays/titus_andronicus/act_3/scene_1/07_exchange_marcus">07 exchange MARCUS</a></li><li><a href="/testi/shakespeare/plays/titus_andronicus/act_3/scene_1/08_monologue_titus">08 monologue TITUS</a></li><li><a href="/testi/shakespeare/plays/titus_andronicus/act_3/scene_1/09_exchange_lucius">09 exchange LUCIUS</a></li></ul>
+</nav>
 
 
 | Chi parla | Battuta |

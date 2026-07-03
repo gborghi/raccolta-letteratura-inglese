@@ -12,6 +12,10 @@ tags:
 <div class="excerpt-crumb">Shakespeare · <a href="/works/richard-duke-of-york---(3-henry-vi)-(shakespeare)">Richard Duke of York 3 Henry VI</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/shakespeare/plays/richard_duke_of_york_3_henry_vi/act_5/scene_6">‹ Scene 6</a><span></span></div>
 </nav>
+<nav class="excerpt-children">
+<div class="excerpt-children-label">In questa sezione</div>
+<ul><li><a href="/testi/shakespeare/plays/richard_duke_of_york_3_henry_vi/act_5/scene_7/01_exchange_dialogue">01 exchange dialogue</a></li><li><a href="/testi/shakespeare/plays/richard_duke_of_york_3_henry_vi/act_5/scene_7/02_monologue_king_edward">02 monologue KING EDWARD</a></li><li><a href="/testi/shakespeare/plays/richard_duke_of_york_3_henry_vi/act_5/scene_7/03_exchange_richard_of_gloucester">03 exchange RICHARD OF GLOUCESTER</a></li><li><a href="/testi/shakespeare/plays/richard_duke_of_york_3_henry_vi/act_5/scene_7/04_exchange_henry_vi_part_one">04 exchange HENRY VI PART ONE</a></li><li><a href="/testi/shakespeare/plays/richard_duke_of_york_3_henry_vi/act_5/scene_7/05_monologue_the">05 monologue THE</a></li><li><a href="/testi/shakespeare/plays/richard_duke_of_york_3_henry_vi/act_5/scene_7/06_exchange_the_persons_of_the_play">06 exchange THE PERSONS OF THE PLAY</a></li></ul>
+</nav>
 
 
 | Chi parla | Battuta |

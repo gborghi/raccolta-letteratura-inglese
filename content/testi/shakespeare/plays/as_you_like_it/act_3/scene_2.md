@@ -12,6 +12,10 @@ tags:
 <div class="excerpt-crumb">Shakespeare · <a href="/works/as-you-like-it-(shakespeare)">As You Like It</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/shakespeare/plays/as_you_like_it/act_3/scene_1">‹ Scene 1</a><a class="ex-next" href="/testi/shakespeare/plays/as_you_like_it/act_3/scene_3">Scene 3 ›</a></div>
 </nav>
+<nav class="excerpt-children">
+<div class="excerpt-children-label">In questa sezione</div>
+<ul><li><a href="/testi/shakespeare/plays/as_you_like_it/act_3/scene_2/01_exchange_dialogue">01 exchange dialogue</a></li><li><a href="/testi/shakespeare/plays/as_you_like_it/act_3/scene_2/02_exchange_touchstone">02 exchange TOUCHSTONE</a></li><li><a href="/testi/shakespeare/plays/as_you_like_it/act_3/scene_2/03_monologue_celia">03 monologue CELIA</a></li><li><a href="/testi/shakespeare/plays/as_you_like_it/act_3/scene_2/04_exchange_rosalind_o">04 exchange ROSALIND O</a></li><li><a href="/testi/shakespeare/plays/as_you_like_it/act_3/scene_2/05_exchange_celia">05 exchange CELIA</a></li><li><a href="/testi/shakespeare/plays/as_you_like_it/act_3/scene_2/06_exchange_rosalind">06 exchange ROSALIND</a></li><li><a href="/testi/shakespeare/plays/as_you_like_it/act_3/scene_2/07_exchange_orlando_i">07 exchange ORLANDO I</a></li><li><a href="/testi/shakespeare/plays/as_you_like_it/act_3/scene_2/08_exchange_orlando">08 exchange ORLANDO</a></li></ul>
+</nav>
 
 
 | Chi parla | Battuta |

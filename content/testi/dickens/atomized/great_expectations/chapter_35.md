@@ -12,6 +12,10 @@ tags:
 <div class="excerpt-crumb">Dickens · <a href="/works/great-expectations-(dickens)">Great Expectations</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/great_expectations/chapter_34">‹ Chapter 34</a><a class="ex-next" href="/testi/dickens/atomized/great_expectations/chapter_36">Chapter 36 ›</a></div>
 </nav>
+<nav class="excerpt-children">
+<div class="excerpt-children-label">In questa sezione</div>
+<ul><li><a href="/testi/dickens/atomized/great_expectations/chapter_35/part_01">Part 1</a></li><li><a href="/testi/dickens/atomized/great_expectations/chapter_35/part_02">Part 2</a></li><li><a href="/testi/dickens/atomized/great_expectations/chapter_35/part_03">Part 3</a></li></ul>
+</nav>
 
 
 Chapter XXXV.

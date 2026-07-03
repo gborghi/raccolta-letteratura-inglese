@@ -12,6 +12,10 @@ tags:
 <div class="excerpt-crumb">Shakespeare · <a href="/works/othello-(shakespeare)">Othello</a></div>
 <div class="excerpt-pn"><span></span><a class="ex-next" href="/testi/shakespeare/plays/othello/act_1/scene_2">Scene 2 ›</a></div>
 </nav>
+<nav class="excerpt-children">
+<div class="excerpt-children-label">In questa sezione</div>
+<ul><li><a href="/testi/shakespeare/plays/othello/act_1/scene_1/01_exchange_dialogue">01 exchange dialogue</a></li><li><a href="/testi/shakespeare/plays/othello/act_1/scene_1/02_monologue_iago">02 monologue IAGO</a></li><li><a href="/testi/shakespeare/plays/othello/act_1/scene_1/03_exchange_roderigo">03 exchange RODERIGO</a></li><li><a href="/testi/shakespeare/plays/othello/act_1/scene_1/04_monologue_iago_o">04 monologue IAGO O</a></li><li><a href="/testi/shakespeare/plays/othello/act_1/scene_1/05_exchange_roderigo">05 exchange RODERIGO</a></li><li><a href="/testi/shakespeare/plays/othello/act_1/scene_1/06_monologue_roderigo">06 monologue RODERIGO</a></li><li><a href="/testi/shakespeare/plays/othello/act_1/scene_1/07_exchange_brabanzio">07 exchange BRABANZIO</a></li></ul>
+</nav>
 
 
 | Chi parla | Battuta |

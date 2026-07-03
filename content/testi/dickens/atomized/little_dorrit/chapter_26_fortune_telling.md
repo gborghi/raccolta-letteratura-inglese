@@ -12,6 +12,10 @@ tags:
 <div class="excerpt-crumb">Dickens · <a href="/works/little-dorrit-(dickens)">Little Dorrit</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/little_dorrit/chapter_25_machinery_in_motion">‹ Chapter 25 Machinery in Motion</a><a class="ex-next" href="/testi/dickens/atomized/little_dorrit/chapter_27_conspirators_and_others">Chapter 27 Conspirators and Others ›</a></div>
 </nav>
+<nav class="excerpt-children">
+<div class="excerpt-children-label">In questa sezione</div>
+<ul><li><a href="/testi/dickens/atomized/little_dorrit/chapter_26_fortune_telling/part_01">Part 1</a></li><li><a href="/testi/dickens/atomized/little_dorrit/chapter_26_fortune_telling/part_02">Part 2</a></li><li><a href="/testi/dickens/atomized/little_dorrit/chapter_26_fortune_telling/part_03">Part 3</a></li><li><a href="/testi/dickens/atomized/little_dorrit/chapter_26_fortune_telling/part_04">Part 4</a></li><li><a href="/testi/dickens/atomized/little_dorrit/chapter_26_fortune_telling/part_05">Part 5</a></li><li><a href="/testi/dickens/atomized/little_dorrit/chapter_26_fortune_telling/part_06">Part 6</a></li></ul>
+</nav>
 
 
 CHAPTER 24. Fortune-Telling

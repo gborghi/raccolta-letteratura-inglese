@@ -12,6 +12,10 @@ tags:
 <div class="excerpt-crumb">Dickens · <a href="/works/bleak-house-(dickens)">Bleak House</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/bleak_house/chapter_30">‹ Chapter 30</a><a class="ex-next" href="/testi/dickens/atomized/bleak_house/chapter_32">Chapter 32 ›</a></div>
 </nav>
+<nav class="excerpt-children">
+<div class="excerpt-children-label">In questa sezione</div>
+<ul><li><a href="/testi/dickens/atomized/bleak_house/chapter_31/part_01">Part 1</a></li><li><a href="/testi/dickens/atomized/bleak_house/chapter_31/part_02">Part 2</a></li><li><a href="/testi/dickens/atomized/bleak_house/chapter_31/part_03">Part 3</a></li><li><a href="/testi/dickens/atomized/bleak_house/chapter_31/part_04">Part 4</a></li><li><a href="/testi/dickens/atomized/bleak_house/chapter_31/part_05">Part 5</a></li><li><a href="/testi/dickens/atomized/bleak_house/chapter_31/part_06">Part 6</a></li></ul>
+</nav>
 
 
 CHAPTER XXXI

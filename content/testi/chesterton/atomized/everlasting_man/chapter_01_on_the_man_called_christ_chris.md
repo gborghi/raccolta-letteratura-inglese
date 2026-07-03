@@ -14,6 +14,10 @@ tags:
 <div class="excerpt-crumb">Chesterton · <a href="/works/everlasting-man-(chesterton)">The Everlasting Man</a></div>
 <div class="excerpt-pn"><span></span><a class="ex-next" href="/testi/chesterton/atomized/everlasting_man/chapter_02">Chapter 02 ›</a></div>
 </nav>
+<nav class="excerpt-children">
+<div class="excerpt-children-label">In questa sezione</div>
+<ul><li><a href="/testi/chesterton/atomized/everlasting_man/chapter_01_on_the_man_called_christ_chris/part_01">Part 1</a></li><li><a href="/testi/chesterton/atomized/everlasting_man/chapter_01_on_the_man_called_christ_chris/part_02">Part 2</a></li><li><a href="/testi/chesterton/atomized/everlasting_man/chapter_01_on_the_man_called_christ_chris/part_03">Part 3</a></li><li><a href="/testi/chesterton/atomized/everlasting_man/chapter_01_on_the_man_called_christ_chris/part_04">Part 4</a></li></ul>
+</nav>
 
 
 PART II:  ON THE MAN CALLED [[Christ|CHRIST]]

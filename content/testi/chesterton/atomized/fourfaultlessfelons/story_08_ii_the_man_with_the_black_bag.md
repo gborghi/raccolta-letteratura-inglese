@@ -12,6 +12,10 @@ tags:
 <div class="excerpt-crumb">Chesterton · <a href="/works/fourfaultlessfelons-(chesterton)">FourFaultlessFelons</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/fourfaultlessfelons/story_07_the_honest_quack">‹ Story 07 The Honest Quack</a><a class="ex-next" href="/testi/chesterton/atomized/fourfaultlessfelons/story_09_iv_the_disease_of_duodiapsychosis">Story 09 Iv The Disease Of Duodiapsychosis ›</a></div>
 </nav>
+<nav class="excerpt-children">
+<div class="excerpt-children-label">In questa sezione</div>
+<ul><li><a href="/testi/chesterton/atomized/fourfaultlessfelons/story_08_ii_the_man_with_the_black_bag/part_01">Part 1</a></li><li><a href="/testi/chesterton/atomized/fourfaultlessfelons/story_08_ii_the_man_with_the_black_bag/part_02">Part 2</a></li><li><a href="/testi/chesterton/atomized/fourfaultlessfelons/story_08_ii_the_man_with_the_black_bag/part_03">Part 3</a></li><li><a href="/testi/chesterton/atomized/fourfaultlessfelons/story_08_ii_the_man_with_the_black_bag/part_04">Part 4</a></li><li><a href="/testi/chesterton/atomized/fourfaultlessfelons/story_08_ii_the_man_with_the_black_bag/part_05">Part 5</a></li><li><a href="/testi/chesterton/atomized/fourfaultlessfelons/story_08_ii_the_man_with_the_black_bag/part_06">Part 6</a></li></ul>
+</nav>
 
 
 II THE MAN WITH THE BLACK BAG

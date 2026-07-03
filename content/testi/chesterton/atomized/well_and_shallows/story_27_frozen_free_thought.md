@@ -12,6 +12,10 @@ tags:
 <div class="excerpt-crumb">Chesterton · <a href="/works/well-and-shallows-(chesterton)">Well And Shallows</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/well_and_shallows/story_26_trade_terms">‹ Story 26 Trade Terms</a><a class="ex-next" href="/testi/chesterton/atomized/well_and_shallows/story_28_shocking_the_modernists">Story 28 Shocking The Modernists ›</a></div>
 </nav>
+<nav class="excerpt-children">
+<div class="excerpt-children-label">In questa sezione</div>
+<ul><li><a href="/testi/chesterton/atomized/well_and_shallows/story_27_frozen_free_thought/part_01">Part 1</a></li><li><a href="/testi/chesterton/atomized/well_and_shallows/story_27_frozen_free_thought/part_02">Part 2</a></li></ul>
+</nav>
 
 
 FROZEN FREE THOUGHT

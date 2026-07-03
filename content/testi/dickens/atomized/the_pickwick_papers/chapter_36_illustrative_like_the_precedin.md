@@ -12,6 +12,10 @@ tags:
 <div class="excerpt-crumb">Dickens · <a href="/works/the-pickwick-papers-(dickens)">The Pickwick Papers</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/the_pickwick_papers/chapter_35_mr_samuel_weller_being_intrust">‹ Chapter 35 MR SAMUEL WELLER BEING INTRUST</a><a class="ex-next" href="/testi/dickens/atomized/the_pickwick_papers/chapter_37_showing_how_mr_samuel_weller_g">Chapter 37 SHOWING HOW MR SAMUEL WELLER G ›</a></div>
 </nav>
+<nav class="excerpt-children">
+<div class="excerpt-children-label">In questa sezione</div>
+<ul><li><a href="/testi/dickens/atomized/the_pickwick_papers/chapter_36_illustrative_like_the_precedin/part_01">Part 1</a></li><li><a href="/testi/dickens/atomized/the_pickwick_papers/chapter_36_illustrative_like_the_precedin/part_02">Part 2</a></li><li><a href="/testi/dickens/atomized/the_pickwick_papers/chapter_36_illustrative_like_the_precedin/part_03">Part 3</a></li><li><a href="/testi/dickens/atomized/the_pickwick_papers/chapter_36_illustrative_like_the_precedin/part_04">Part 4</a></li><li><a href="/testi/dickens/atomized/the_pickwick_papers/chapter_36_illustrative_like_the_precedin/part_05">Part 5</a></li><li><a href="/testi/dickens/atomized/the_pickwick_papers/chapter_36_illustrative_like_the_precedin/part_06">Part 6</a></li></ul>
+</nav>
 
 
 CHAPTER XLII. ILLUSTRATIVE, LIKE THE PRECEDING ONE, OF THE OLD PROVERB,

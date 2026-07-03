@@ -12,6 +12,10 @@ tags:
 <div class="excerpt-crumb">Dickens · <a href="/works/the-pickwick-papers-(dickens)">The Pickwick Papers</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/the_pickwick_papers/chapter_11_some_account_of_eatanswill_of">‹ Chapter 11 SOME ACCOUNT OF EATANSWILL OF</a><a class="ex-next" href="/testi/dickens/atomized/the_pickwick_papers/chapter_13_in_which_is_given_a_faithful_p">Chapter 13 IN WHICH IS GIVEN A FAITHFUL P ›</a></div>
 </nav>
+<nav class="excerpt-children">
+<div class="excerpt-children-label">In questa sezione</div>
+<ul><li><a href="/testi/dickens/atomized/the_pickwick_papers/chapter_12_comprising_a_brief_description/part_01">Part 1</a></li><li><a href="/testi/dickens/atomized/the_pickwick_papers/chapter_12_comprising_a_brief_description/part_02">Part 2</a></li><li><a href="/testi/dickens/atomized/the_pickwick_papers/chapter_12_comprising_a_brief_description/part_03">Part 3</a></li><li><a href="/testi/dickens/atomized/the_pickwick_papers/chapter_12_comprising_a_brief_description/part_04">Part 4</a></li><li><a href="/testi/dickens/atomized/the_pickwick_papers/chapter_12_comprising_a_brief_description/part_05">Part 5</a></li><li><a href="/testi/dickens/atomized/the_pickwick_papers/chapter_12_comprising_a_brief_description/part_06">Part 6</a></li></ul>
+</nav>
 
 
 CHAPTER XIV. COMPRISING A BRIEF DESCRIPTION OF THE COMPANY AT THE

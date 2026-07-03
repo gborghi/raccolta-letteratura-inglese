@@ -12,6 +12,10 @@ tags:
 <div class="excerpt-crumb">Dickens · <a href="/works/the-pickwick-papers-(dickens)">The Pickwick Papers</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/the_pickwick_papers/chapter_43_involving_a_serious_change_in">‹ Chapter 43 INVOLVING A SERIOUS CHANGE IN</a><a class="ex-next" href="/testi/dickens/atomized/the_pickwick_papers/chapter_45_mr_solomon_pell_assisted_by_a">Chapter 45 MR SOLOMON PELL ASSISTED BY A ›</a></div>
 </nav>
+<nav class="excerpt-children">
+<div class="excerpt-children-label">In questa sezione</div>
+<ul><li><a href="/testi/dickens/atomized/the_pickwick_papers/chapter_44_comprising_the_final_exit_of_m/part_01">Part 1</a></li><li><a href="/testi/dickens/atomized/the_pickwick_papers/chapter_44_comprising_the_final_exit_of_m/part_02">Part 2</a></li><li><a href="/testi/dickens/atomized/the_pickwick_papers/chapter_44_comprising_the_final_exit_of_m/part_03">Part 3</a></li><li><a href="/testi/dickens/atomized/the_pickwick_papers/chapter_44_comprising_the_final_exit_of_m/part_04">Part 4</a></li><li><a href="/testi/dickens/atomized/the_pickwick_papers/chapter_44_comprising_the_final_exit_of_m/part_05">Part 5</a></li><li><a href="/testi/dickens/atomized/the_pickwick_papers/chapter_44_comprising_the_final_exit_of_m/part_06">Part 6</a></li><li><a href="/testi/dickens/atomized/the_pickwick_papers/chapter_44_comprising_the_final_exit_of_m/part_07">Part 7</a></li><li><a href="/testi/dickens/atomized/the_pickwick_papers/chapter_44_comprising_the_final_exit_of_m/part_08">Part 8</a></li><li><a href="/testi/dickens/atomized/the_pickwick_papers/chapter_44_comprising_the_final_exit_of_m/part_09">Part 9</a></li><li><a href="/testi/dickens/atomized/the_pickwick_papers/chapter_44_comprising_the_final_exit_of_m/part_10">Part 10</a></li></ul>
+</nav>
 
 
 CHAPTER LIII. COMPRISING THE FINAL EXIT OF MR. JINGLE AND JOB TROTTER,

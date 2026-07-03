@@ -11,7 +11,7 @@ tags:
 <div class="qlang-switch" data-default="en"></div>
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Sayers · <a href="/works/the-mind-of-the-maker-(sayers)">The Mind of the Maker</a></div>
+<div class="excerpt-crumb">Sayers · <a href="/works/the-mind-of-the-maker-(sayers)">The Mind of the Maker</a> › <a href="/testi/sayers/atomized/the_mind_of_the_maker/chapter_04_idea_energy_power">Chapter 04 Idea Energy Power</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/sayers/atomized/the_mind_of_the_maker/chapter_03_the_image_of_god/part_03">‹ part 03</a><a class="ex-next" href="/testi/sayers/atomized/the_mind_of_the_maker/chapter_04_idea_energy_power/part_02">part 02 ›</a></div>
 </nav>
 

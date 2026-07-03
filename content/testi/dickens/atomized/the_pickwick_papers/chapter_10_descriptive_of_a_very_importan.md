@@ -12,6 +12,10 @@ tags:
 <div class="excerpt-crumb">Dickens · <a href="/works/the-pickwick-papers-(dickens)">The Pickwick Papers</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/the_pickwick_papers/chapter_09_clearing_up_all_doubts_if_any">‹ Chapter 09 CLEARING UP ALL DOUBTS IF ANY</a><a class="ex-next" href="/testi/dickens/atomized/the_pickwick_papers/chapter_11_some_account_of_eatanswill_of">Chapter 11 SOME ACCOUNT OF EATANSWILL OF ›</a></div>
 </nav>
+<nav class="excerpt-children">
+<div class="excerpt-children-label">In questa sezione</div>
+<ul><li><a href="/testi/dickens/atomized/the_pickwick_papers/chapter_10_descriptive_of_a_very_importan/part_01">Part 1</a></li><li><a href="/testi/dickens/atomized/the_pickwick_papers/chapter_10_descriptive_of_a_very_importan/part_02">Part 2</a></li></ul>
+</nav>
 
 
 CHAPTER XII. DESCRIPTIVE OF A VERY IMPORTANT PROCEEDING ON THE PART OF

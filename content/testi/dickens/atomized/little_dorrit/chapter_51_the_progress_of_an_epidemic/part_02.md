@@ -9,7 +9,7 @@ tags:
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Dickens · <a href="/works/little-dorrit-(dickens)">Little Dorrit</a></div>
+<div class="excerpt-crumb">Dickens · <a href="/works/little-dorrit-(dickens)">Little Dorrit</a> › <a href="/testi/dickens/atomized/little_dorrit/chapter_51_the_progress_of_an_epidemic">Chapter 51 The Progress of an Epidemic</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/little_dorrit/chapter_51_the_progress_of_an_epidemic/part_01">‹ part 01</a><a class="ex-next" href="/testi/dickens/atomized/little_dorrit/chapter_51_the_progress_of_an_epidemic/part_03">part 03 ›</a></div>
 </nav>
 

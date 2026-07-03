@@ -12,6 +12,10 @@ tags:
 <div class="excerpt-crumb">Shakespeare · <a href="/works/measure-for-measure-(shakespeare)">Measure for Measure</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/shakespeare/plays/measure_for_measure/act_4/scene_6">‹ Scene 6</a><span></span></div>
 </nav>
+<nav class="excerpt-children">
+<div class="excerpt-children-label">In questa sezione</div>
+<ul><li><a href="/testi/shakespeare/plays/measure_for_measure/act_5/scene_1/01_exchange_dialogue">01 exchange dialogue</a></li><li><a href="/testi/shakespeare/plays/measure_for_measure/act_5/scene_1/02_exchange_duke">02 exchange DUKE</a></li><li><a href="/testi/shakespeare/plays/measure_for_measure/act_5/scene_1/03_exchange_isabella">03 exchange ISABELLA</a></li><li><a href="/testi/shakespeare/plays/measure_for_measure/act_5/scene_1/04_exchange_lucio">04 exchange LUCIO</a></li><li><a href="/testi/shakespeare/plays/measure_for_measure/act_5/scene_1/05_exchange_escalus">05 exchange ESCALUS</a></li><li><a href="/testi/shakespeare/plays/measure_for_measure/act_5/scene_1/06_exchange_angelo">06 exchange ANGELO</a></li><li><a href="/testi/shakespeare/plays/measure_for_measure/act_5/scene_1/07_exchange_isabella">07 exchange ISABELLA</a></li><li><a href="/testi/shakespeare/plays/measure_for_measure/act_5/scene_1/08_exchange_mariana">08 exchange MARIANA</a></li><li><a href="/testi/shakespeare/plays/measure_for_measure/act_5/scene_1/09_exchange_lucio_i">09 exchange LUCIO I</a></li><li><a href="/testi/shakespeare/plays/measure_for_measure/act_5/scene_1/10_exchange_pompey">10 exchange POMPEY</a></li><li><a href="/testi/shakespeare/plays/measure_for_measure/act_5/scene_1/11_exchange_duke">11 exchange DUKE</a></li><li><a href="/testi/shakespeare/plays/measure_for_measure/act_5/scene_1/12_monologue_othello">12 monologue OTHELLO</a></li><li><a href="/testi/shakespeare/plays/measure_for_measure/act_5/scene_1/13_exchange_the_persons_of_the_play">13 exchange THE PERSONS OF THE PLAY</a></li></ul>
+</nav>
 
 
 | Chi parla | Battuta |

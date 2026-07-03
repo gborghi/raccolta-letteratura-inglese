@@ -12,6 +12,10 @@ tags:
 <div class="excerpt-crumb">Chesterton · <a href="/works/spice-of-life-(chesterton)">Spice Of Life</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/spice_of_life/chapter_05_at_home_and_abroad">‹ Chapter 05 AT HOME AND ABROAD</a><a class="ex-next" href="/testi/chesterton/atomized/spice_of_life/chapter_02_literature_in_general/part_01">part 01 ›</a></div>
 </nav>
+<nav class="excerpt-children">
+<div class="excerpt-children-label">In questa sezione</div>
+<ul><li><a href="/testi/chesterton/atomized/spice_of_life/chapter_06_the_spice_of_life/part_01">Part 1</a></li><li><a href="/testi/chesterton/atomized/spice_of_life/chapter_06_the_spice_of_life/part_02">Part 2</a></li><li><a href="/testi/chesterton/atomized/spice_of_life/chapter_06_the_spice_of_life/part_03">Part 3</a></li><li><a href="/testi/chesterton/atomized/spice_of_life/chapter_06_the_spice_of_life/part_04">Part 4</a></li><li><a href="/testi/chesterton/atomized/spice_of_life/chapter_06_the_spice_of_life/part_05">Part 5</a></li><li><a href="/testi/chesterton/atomized/spice_of_life/chapter_06_the_spice_of_life/part_06">Part 6</a></li></ul>
+</nav>
 
 
 PART FIVE:  THE SPICE OF LIFE

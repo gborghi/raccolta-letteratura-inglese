@@ -12,6 +12,10 @@ tags:
 <div class="excerpt-crumb">Shakespeare · <a href="/works/the-comedy-of-errors-(shakespeare)">The Comedy of Errors</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/shakespeare/plays/the_comedy_of_errors/act_4/scene_3">‹ Scene 3</a><a class="ex-next" href="/testi/shakespeare/plays/the_comedy_of_errors/act_5/scene_1">Scene 1 ›</a></div>
 </nav>
+<nav class="excerpt-children">
+<div class="excerpt-children-label">In questa sezione</div>
+<ul><li><a href="/testi/shakespeare/plays/the_comedy_of_errors/act_4/scene_4/01_exchange_dialogue">01 exchange dialogue</a></li><li><a href="/testi/shakespeare/plays/the_comedy_of_errors/act_4/scene_4/02_exchange_antipholus_of_ephesus">02 exchange ANTIPHOLUS OF EPHESUS</a></li><li><a href="/testi/shakespeare/plays/the_comedy_of_errors/act_4/scene_4/03_exchange_luciana">03 exchange LUCIANA</a></li></ul>
+</nav>
 
 
 | Chi parla | Battuta |

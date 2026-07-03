@@ -12,6 +12,10 @@ tags:
 <div class="excerpt-crumb">Bronte · <a href="/works/villette-(bronte)">Villette</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/bronte/atomized/villette/chapter_13">‹ Chapter 13</a><a class="ex-next" href="/testi/bronte/atomized/villette/chapter_15">Chapter 15 ›</a></div>
 </nav>
+<nav class="excerpt-children">
+<div class="excerpt-children-label">In questa sezione</div>
+<ul><li><a href="/testi/bronte/atomized/villette/chapter_14/part_01">Part 1</a></li><li><a href="/testi/bronte/atomized/villette/chapter_14/part_02">Part 2</a></li><li><a href="/testi/bronte/atomized/villette/chapter_14/part_03">Part 3</a></li><li><a href="/testi/bronte/atomized/villette/chapter_14/part_04">Part 4</a></li><li><a href="/testi/bronte/atomized/villette/chapter_14/part_05">Part 5</a></li><li><a href="/testi/bronte/atomized/villette/chapter_14/part_06">Part 6</a></li><li><a href="/testi/bronte/atomized/villette/chapter_14/part_07">Part 7</a></li><li><a href="/testi/bronte/atomized/villette/chapter_14/part_08">Part 8</a></li><li><a href="/testi/bronte/atomized/villette/chapter_14/part_09">Part 9</a></li><li><a href="/testi/bronte/atomized/villette/chapter_14/part_10">Part 10</a></li></ul>
+</nav>
 
 
 CHAPTER XIV.

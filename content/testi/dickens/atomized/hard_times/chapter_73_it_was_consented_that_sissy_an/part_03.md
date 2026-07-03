@@ -9,7 +9,7 @@ tags:
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Dickens · <a href="/works/hard-times-(dickens)">Hard Times</a></div>
+<div class="excerpt-crumb">Dickens · <a href="/works/hard-times-(dickens)">Hard Times</a> › <a href="/testi/dickens/atomized/hard_times/chapter_73_it_was_consented_that_sissy_an">Chapter 73 it was consented that Sissy an</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/hard_times/chapter_73_it_was_consented_that_sissy_an/part_02">‹ part 02</a><a class="ex-next" href="/testi/dickens/atomized/hard_times/chapter_74/part_01">part 01 ›</a></div>
 </nav>
 

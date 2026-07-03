@@ -9,7 +9,7 @@ tags:
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Dickens · <a href="/works/the-cricket-on-the-hearth-(dickens)">The Cricket on the Hearth</a></div>
+<div class="excerpt-crumb">Dickens · <a href="/works/the-cricket-on-the-hearth-(dickens)">The Cricket on the Hearth</a> › <a href="/testi/dickens/atomized/the_cricket_on_the_hearth/story_05_chirp_the_second">Story 05 Chirp The Second</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/the_cricket_on_the_hearth/story_05_chirp_the_second/part_01">‹ part 01</a><a class="ex-next" href="/testi/dickens/atomized/the_cricket_on_the_hearth/story_05_chirp_the_second/part_03">part 03 ›</a></div>
 </nav>
 

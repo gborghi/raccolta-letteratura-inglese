@@ -14,6 +14,10 @@ tags:
 <div class="excerpt-crumb">Chesterton · <a href="/works/innocence-(chesterton)">The Innocence of Father Brown</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/innocence/story_01_the_blue_cross">‹ Story 01 The Blue Cross</a><a class="ex-next" href="/testi/chesterton/atomized/innocence/story_03_the_queer_feet">Story 03 The Queer Feet ›</a></div>
 </nav>
+<nav class="excerpt-children">
+<div class="excerpt-children-label">In questa sezione</div>
+<ul><li><a href="/testi/chesterton/atomized/innocence/story_02_the_secret_garden/part_01">Part 1</a></li><li><a href="/testi/chesterton/atomized/innocence/story_02_the_secret_garden/part_02">Part 2</a></li><li><a href="/testi/chesterton/atomized/innocence/story_02_the_secret_garden/part_03">Part 3</a></li><li><a href="/testi/chesterton/atomized/innocence/story_02_the_secret_garden/part_04">Part 4</a></li><li><a href="/testi/chesterton/atomized/innocence/story_02_the_secret_garden/part_05">Part 5</a></li><li><a href="/testi/chesterton/atomized/innocence/story_02_the_secret_garden/part_06">Part 6</a></li><li><a href="/testi/chesterton/atomized/innocence/story_02_the_secret_garden/part_07">Part 7</a></li></ul>
+</nav>
 
 # [[innocence]] — The Secret [[Garden]]
 

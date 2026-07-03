@@ -12,6 +12,10 @@ tags:
 <div class="excerpt-crumb">Shakespeare · <a href="/works/the-two-noble-kinsmen-(shakespeare)">The Two Noble Kinsmen</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/shakespeare/plays/the_two_noble_kinsmen/act_2/scene_1">‹ Scene 1</a><a class="ex-next" href="/testi/shakespeare/plays/the_two_noble_kinsmen/act_2/scene_3">Scene 3 ›</a></div>
 </nav>
+<nav class="excerpt-children">
+<div class="excerpt-children-label">In questa sezione</div>
+<ul><li><a href="/testi/shakespeare/plays/the_two_noble_kinsmen/act_2/scene_2/01_exchange_dialogue">01 exchange dialogue</a></li><li><a href="/testi/shakespeare/plays/the_two_noble_kinsmen/act_2/scene_2/02_monologue_arcite">02 monologue ARCITE</a></li><li><a href="/testi/shakespeare/plays/the_two_noble_kinsmen/act_2/scene_2/03_exchange_palamon">03 exchange PALAMON</a></li><li><a href="/testi/shakespeare/plays/the_two_noble_kinsmen/act_2/scene_2/04_monologue_arcite">04 monologue ARCITE</a></li><li><a href="/testi/shakespeare/plays/the_two_noble_kinsmen/act_2/scene_2/05_exchange_palamon">05 exchange PALAMON</a></li><li><a href="/testi/shakespeare/plays/the_two_noble_kinsmen/act_2/scene_2/06_exchange_woman">06 exchange WOMAN</a></li><li><a href="/testi/shakespeare/plays/the_two_noble_kinsmen/act_2/scene_2/07_exchange_arcite">07 exchange ARCITE</a></li><li><a href="/testi/shakespeare/plays/the_two_noble_kinsmen/act_2/scene_2/08_monologue_palamon">08 monologue PALAMON</a></li><li><a href="/testi/shakespeare/plays/the_two_noble_kinsmen/act_2/scene_2/09_exchange_jailer">09 exchange JAILER</a></li></ul>
+</nav>
 
 
 | Chi parla | Battuta |

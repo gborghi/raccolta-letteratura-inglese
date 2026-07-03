@@ -12,6 +12,10 @@ tags:
 <div class="excerpt-crumb">Chesterton · <a href="/works/sanity-(chesterton)">Sanity</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/sanity/story_08_vows_and_volunteers">‹ Story 08 VOWS AND VOLUNTEERS</a><a class="ex-next" href="/testi/chesterton/atomized/sanity/story_10_some_aspects_of_machinery">Story 10 SOME ASPECTS OF MACHINERY ›</a></div>
 </nav>
+<nav class="excerpt-children">
+<div class="excerpt-children-label">In questa sezione</div>
+<ul><li><a href="/testi/chesterton/atomized/sanity/story_09_the_real_life_on_the_land/part_01">Part 1</a></li><li><a href="/testi/chesterton/atomized/sanity/story_09_the_real_life_on_the_land/part_02">Part 2</a></li><li><a href="/testi/chesterton/atomized/sanity/story_09_the_real_life_on_the_land/part_03">Part 3</a></li></ul>
+</nav>
 
 
 III THE REAL LIFE ON THE LAND

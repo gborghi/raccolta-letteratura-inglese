@@ -12,6 +12,10 @@ tags:
 <div class="excerpt-crumb">Bronte · <a href="/works/shirley-(bronte)">Shirley</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/bronte/atomized/shirley/chapter_35">‹ Chapter 35</a><a class="ex-next" href="/testi/bronte/atomized/shirley/chapter_37">Chapter 37 ›</a></div>
 </nav>
+<nav class="excerpt-children">
+<div class="excerpt-children-label">In questa sezione</div>
+<ul><li><a href="/testi/bronte/atomized/shirley/chapter_36/part_01">Part 1</a></li><li><a href="/testi/bronte/atomized/shirley/chapter_36/part_02">Part 2</a></li><li><a href="/testi/bronte/atomized/shirley/chapter_36/part_03">Part 3</a></li><li><a href="/testi/bronte/atomized/shirley/chapter_36/part_04">Part 4</a></li><li><a href="/testi/bronte/atomized/shirley/chapter_36/part_05">Part 5</a></li><li><a href="/testi/bronte/atomized/shirley/chapter_36/part_06">Part 6</a></li><li><a href="/testi/bronte/atomized/shirley/chapter_36/part_07">Part 7</a></li><li><a href="/testi/bronte/atomized/shirley/chapter_36/part_08">Part 8</a></li></ul>
+</nav>
 
 
 CHAPTER XXXVI.

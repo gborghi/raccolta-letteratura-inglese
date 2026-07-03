@@ -12,6 +12,10 @@ tags:
 <div class="excerpt-crumb">Dickens · <a href="/works/the-pickwick-papers-(dickens)">The Pickwick Papers</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/the_pickwick_papers/chapter_26_a_good_humoured_christmas_chap">‹ Chapter 26 A GOOD HUMOURED CHRISTMAS CHAP</a><a class="ex-next" href="/testi/dickens/atomized/the_pickwick_papers/chapter_28_how_the_pickwickians_made_and">Chapter 28 HOW THE PICKWICKIANS MADE AND ›</a></div>
 </nav>
+<nav class="excerpt-children">
+<div class="excerpt-children-label">In questa sezione</div>
+<ul><li><a href="/testi/dickens/atomized/the_pickwick_papers/chapter_27_the_story_of_the_goblins_who_s/part_01">Part 1</a></li><li><a href="/testi/dickens/atomized/the_pickwick_papers/chapter_27_the_story_of_the_goblins_who_s/part_02">Part 2</a></li><li><a href="/testi/dickens/atomized/the_pickwick_papers/chapter_27_the_story_of_the_goblins_who_s/part_03">Part 3</a></li><li><a href="/testi/dickens/atomized/the_pickwick_papers/chapter_27_the_story_of_the_goblins_who_s/part_04">Part 4</a></li></ul>
+</nav>
 
 
 CHAPTER XXIX. THE STORY OF THE GOBLINS WHO STOLE A SEXTON

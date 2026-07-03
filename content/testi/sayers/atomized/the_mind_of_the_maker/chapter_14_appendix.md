@@ -14,6 +14,10 @@ tags:
 <div class="excerpt-crumb">Sayers · <a href="/works/the-mind-of-the-maker-(sayers)">The Mind of the Maker</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/sayers/atomized/the_mind_of_the_maker/chapter_13_postscript_the_worth_of_the_wo">‹ Chapter 13 Postscript The Worth of the Wo</a><a class="ex-next" href="/testi/sayers/atomized/the_mind_of_the_maker/chapter_02_the_laws_of_nature_and_opinion/part_01">part 01 ›</a></div>
 </nav>
+<nav class="excerpt-children">
+<div class="excerpt-children-label">In questa sezione</div>
+<ul><li><a href="/testi/sayers/atomized/the_mind_of_the_maker/chapter_14_appendix/part_01">Part 1</a></li><li><a href="/testi/sayers/atomized/the_mind_of_the_maker/chapter_14_appendix/part_02">Part 2</a></li><li><a href="/testi/sayers/atomized/the_mind_of_the_maker/chapter_14_appendix/part_03">Part 3</a></li><li><a href="/testi/sayers/atomized/the_mind_of_the_maker/chapter_14_appendix/part_04">Part 4</a></li></ul>
+</nav>
 
 
 CHAPTER 14. Appendix

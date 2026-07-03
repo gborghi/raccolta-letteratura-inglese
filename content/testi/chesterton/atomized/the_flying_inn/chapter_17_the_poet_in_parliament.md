@@ -12,6 +12,10 @@ tags:
 <div class="excerpt-crumb">Chesterton · <a href="/works/the-flying-inn-(chesterton)">The Flying Inn</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/the_flying_inn/chapter_16_the_seven_moods_of_dorian">‹ Chapter 16 THE SEVEN MOODS OF DORIAN</a><a class="ex-next" href="/testi/chesterton/atomized/the_flying_inn/chapter_18_the_republic_of_peaceways">Chapter 18 THE REPUBLIC OF PEACEWAYS ›</a></div>
 </nav>
+<nav class="excerpt-children">
+<div class="excerpt-children-label">In questa sezione</div>
+<ul><li><a href="/testi/chesterton/atomized/the_flying_inn/chapter_17_the_poet_in_parliament/part_01">Part 1</a></li><li><a href="/testi/chesterton/atomized/the_flying_inn/chapter_17_the_poet_in_parliament/part_02">Part 2</a></li><li><a href="/testi/chesterton/atomized/the_flying_inn/chapter_17_the_poet_in_parliament/part_03">Part 3</a></li><li><a href="/testi/chesterton/atomized/the_flying_inn/chapter_17_the_poet_in_parliament/part_04">Part 4</a></li><li><a href="/testi/chesterton/atomized/the_flying_inn/chapter_17_the_poet_in_parliament/part_05">Part 5</a></li></ul>
+</nav>
 
 
 CHAPTER XVII: THE POET IN PARLIAMENT

@@ -12,6 +12,10 @@ tags:
 <div class="excerpt-crumb">Shakespeare · <a href="/works/1-henry-iv-(shakespeare)">1 Henry IV</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/shakespeare/plays/1_henry_iv/act_1/scene_2">‹ Scene 2</a><a class="ex-next" href="/testi/shakespeare/plays/1_henry_iv/act_2/scene_1">Scene 1 ›</a></div>
 </nav>
+<nav class="excerpt-children">
+<div class="excerpt-children-label">In questa sezione</div>
+<ul><li><a href="/testi/shakespeare/plays/1_henry_iv/act_1/scene_3/01_exchange_dialogue">01 exchange dialogue</a></li><li><a href="/testi/shakespeare/plays/1_henry_iv/act_1/scene_3/02_monologue_hotspur">02 monologue HOTSPUR</a></li><li><a href="/testi/shakespeare/plays/1_henry_iv/act_1/scene_3/03_exchange_blunt">03 exchange BLUNT</a></li><li><a href="/testi/shakespeare/plays/1_henry_iv/act_1/scene_3/04_exchange_northumberland">04 exchange NORTHUMBERLAND</a></li><li><a href="/testi/shakespeare/plays/1_henry_iv/act_1/scene_3/05_monologue_hotspur">05 monologue HOTSPUR</a></li><li><a href="/testi/shakespeare/plays/1_henry_iv/act_1/scene_3/06_exchange_worcester">06 exchange WORCESTER</a></li><li><a href="/testi/shakespeare/plays/1_henry_iv/act_1/scene_3/07_exchange_worcester">07 exchange WORCESTER</a></li></ul>
+</nav>
 
 
 | Chi parla | Battuta |

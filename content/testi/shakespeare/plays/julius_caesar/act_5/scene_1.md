@@ -12,6 +12,10 @@ tags:
 <div class="excerpt-crumb">Shakespeare · <a href="/works/julius-caesar-(shakespeare)">Julius Caesar</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/shakespeare/plays/julius_caesar/act_4/scene_2">‹ Scene 2</a><a class="ex-next" href="/testi/shakespeare/plays/julius_caesar/act_5/scene_2">Scene 2 ›</a></div>
 </nav>
+<nav class="excerpt-children">
+<div class="excerpt-children-label">In questa sezione</div>
+<ul><li><a href="/testi/shakespeare/plays/julius_caesar/act_5/scene_1/01_exchange_dialogue">01 exchange dialogue</a></li><li><a href="/testi/shakespeare/plays/julius_caesar/act_5/scene_1/02_exchange_octavius">02 exchange OCTAVIUS</a></li><li><a href="/testi/shakespeare/plays/julius_caesar/act_5/scene_1/03_exchange_brutus">03 exchange BRUTUS</a></li></ul>
+</nav>
 
 
 | Chi parla | Battuta |

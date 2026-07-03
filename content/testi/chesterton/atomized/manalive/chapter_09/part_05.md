@@ -9,7 +9,7 @@ tags:
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/works/manalive-(chesterton)">Manalive</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/manalive-(chesterton)">Manalive</a> › <a href="/testi/chesterton/atomized/manalive/chapter_09">Chapter 09</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/manalive/chapter_09/part_04">‹ part 04</a><a class="ex-next" href="/testi/chesterton/atomized/manalive/chapter_09/part_06">part 06 ›</a></div>
 </nav>
 

@@ -12,6 +12,10 @@ tags:
 <div class="excerpt-crumb">Shakespeare · <a href="/works/measure-for-measure-(shakespeare)">Measure for Measure</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/shakespeare/plays/measure_for_measure/act_4/scene_2">‹ Scene 2</a><a class="ex-next" href="/testi/shakespeare/plays/measure_for_measure/act_4/scene_4">Scene 4 ›</a></div>
 </nav>
+<nav class="excerpt-children">
+<div class="excerpt-children-label">In questa sezione</div>
+<ul><li><a href="/testi/shakespeare/plays/measure_for_measure/act_4/scene_3/01_exchange_dialogue">01 exchange dialogue</a></li><li><a href="/testi/shakespeare/plays/measure_for_measure/act_4/scene_3/02_monologue_pompey_i">02 monologue POMPEY I</a></li><li><a href="/testi/shakespeare/plays/measure_for_measure/act_4/scene_3/03_exchange_abhorson">03 exchange ABHORSON</a></li><li><a href="/testi/shakespeare/plays/measure_for_measure/act_4/scene_3/04_exchange_duke">04 exchange DUKE</a></li><li><a href="/testi/shakespeare/plays/measure_for_measure/act_4/scene_3/05_exchange_lucio">05 exchange LUCIO</a></li></ul>
+</nav>
 
 
 | Chi parla | Battuta |

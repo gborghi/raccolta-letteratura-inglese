@@ -12,6 +12,10 @@ tags:
 <div class="excerpt-crumb">Austen · <a href="/works/pride-and-prejudice-(austen)">Pride and Prejudice</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/austen/atomized/pride_and_prejudice/chapter_35">‹ Chapter 35</a><a class="ex-next" href="/testi/austen/atomized/pride_and_prejudice/chapter_37">Chapter 37 ›</a></div>
 </nav>
+<nav class="excerpt-children">
+<div class="excerpt-children-label">In questa sezione</div>
+<ul><li><a href="/testi/austen/atomized/pride_and_prejudice/chapter_36/part_01">Part 1</a></li><li><a href="/testi/austen/atomized/pride_and_prejudice/chapter_36/part_02">Part 2</a></li></ul>
+</nav>
 
 
 CHAPTER XXXVI.

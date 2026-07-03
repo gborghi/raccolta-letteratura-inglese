@@ -9,7 +9,7 @@ tags:
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/works/the-flying-inn-(chesterton)">The Flying Inn</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/the-flying-inn-(chesterton)">The Flying Inn</a> › <a href="/testi/chesterton/atomized/the_flying_inn/chapter_01_a_sermon_on_inns">Chapter 01 A SERMON ON INNS</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/the_flying_inn/chapter_25_the_finding_of_the_superman">‹ Chapter 25 THE FINDING OF THE SUPERMAN</a><a class="ex-next" href="/testi/chesterton/atomized/the_flying_inn/chapter_01_a_sermon_on_inns/part_02">part 02 ›</a></div>
 </nav>
 

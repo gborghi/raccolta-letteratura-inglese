@@ -9,7 +9,7 @@ tags:
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/works/the-man-who-knew-too-much-(chesterton)">The Man Who Knew Too Much</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/the-man-who-knew-too-much-(chesterton)">The Man Who Knew Too Much</a> › <a href="/testi/chesterton/atomized/the_man_who_knew_too_much/story_02_the_vanishing_prince">Story 02 The Vanishing Prince</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/the_man_who_knew_too_much/story_02_the_vanishing_prince/part_06">‹ part 06</a><a class="ex-next" href="/testi/chesterton/atomized/the_man_who_knew_too_much/story_03_the_soul_of_the_schoolboy/part_01">part 01 ›</a></div>
 </nav>
 

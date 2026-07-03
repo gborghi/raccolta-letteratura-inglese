@@ -12,6 +12,10 @@ tags:
 <div class="excerpt-crumb">Dickens · <a href="/works/david-copperfield-(dickens)">David Copperfield</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/david_copperfield/chapter_31_a_greater_loss">‹ Chapter 31 A GREATER LOSS</a><a class="ex-next" href="/testi/dickens/atomized/david_copperfield/chapter_33_blissful">Chapter 33 BLISSFUL ›</a></div>
 </nav>
+<nav class="excerpt-children">
+<div class="excerpt-children-label">In questa sezione</div>
+<ul><li><a href="/testi/dickens/atomized/david_copperfield/chapter_32_the_beginning_of_a_long_journe/part_01">Part 1</a></li><li><a href="/testi/dickens/atomized/david_copperfield/chapter_32_the_beginning_of_a_long_journe/part_02">Part 2</a></li><li><a href="/testi/dickens/atomized/david_copperfield/chapter_32_the_beginning_of_a_long_journe/part_03">Part 3</a></li><li><a href="/testi/dickens/atomized/david_copperfield/chapter_32_the_beginning_of_a_long_journe/part_04">Part 4</a></li><li><a href="/testi/dickens/atomized/david_copperfield/chapter_32_the_beginning_of_a_long_journe/part_05">Part 5</a></li><li><a href="/testi/dickens/atomized/david_copperfield/chapter_32_the_beginning_of_a_long_journe/part_06">Part 6</a></li><li><a href="/testi/dickens/atomized/david_copperfield/chapter_32_the_beginning_of_a_long_journe/part_07">Part 7</a></li></ul>
+</nav>
 
 
 CHAPTER 32. THE BEGINNING OF A LONG [[Journey|JOURNEY]]

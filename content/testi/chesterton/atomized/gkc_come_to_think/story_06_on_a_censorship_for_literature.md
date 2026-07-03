@@ -12,6 +12,10 @@ tags:
 <div class="excerpt-crumb">Chesterton · <a href="/works/gkc-come-to-think-(chesterton)">GKC Come to Think</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/gkc_come_to_think/story_05_on_literary_parallels">‹ Story 05 ON LITERARY PARALLELS</a><a class="ex-next" href="/testi/chesterton/atomized/gkc_come_to_think/story_07_on_the_new_poetry">Story 07 ON THE NEW POETRY ›</a></div>
 </nav>
+<nav class="excerpt-children">
+<div class="excerpt-children-label">In questa sezione</div>
+<ul><li><a href="/testi/chesterton/atomized/gkc_come_to_think/story_06_on_a_censorship_for_literature/part_01">Part 1</a></li><li><a href="/testi/chesterton/atomized/gkc_come_to_think/story_06_on_a_censorship_for_literature/part_02">Part 2</a></li></ul>
+</nav>
 
 
 V. On a Censorship for Literature

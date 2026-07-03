@@ -9,7 +9,7 @@ tags:
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/works/victorian-age-(chesterton)">Victorian Age</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/victorian-age-(chesterton)">Victorian Age</a> › <a href="/testi/chesterton/atomized/victorian_age/chapter_01">Chapter 01</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/victorian_age/chapter_01/part_12">‹ part 12</a><a class="ex-next" href="/testi/chesterton/atomized/victorian_age/chapter_02/part_01">part 01 ›</a></div>
 </nav>
 

@@ -12,6 +12,10 @@ tags:
 <div class="excerpt-crumb">Dickens · <a href="/works/the-pickwick-papers-(dickens)">The Pickwick Papers</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/the_pickwick_papers/chapter_36_illustrative_like_the_precedin">‹ Chapter 36 ILLUSTRATIVE LIKE THE PRECEDIN</a><a class="ex-next" href="/testi/dickens/atomized/the_pickwick_papers/chapter_38_treats_of_divers_little_matter">Chapter 38 TREATS OF DIVERS LITTLE MATTER ›</a></div>
 </nav>
+<nav class="excerpt-children">
+<div class="excerpt-children-label">In questa sezione</div>
+<ul><li><a href="/testi/dickens/atomized/the_pickwick_papers/chapter_37_showing_how_mr_samuel_weller_g/part_01">Part 1</a></li><li><a href="/testi/dickens/atomized/the_pickwick_papers/chapter_37_showing_how_mr_samuel_weller_g/part_02">Part 2</a></li><li><a href="/testi/dickens/atomized/the_pickwick_papers/chapter_37_showing_how_mr_samuel_weller_g/part_03">Part 3</a></li><li><a href="/testi/dickens/atomized/the_pickwick_papers/chapter_37_showing_how_mr_samuel_weller_g/part_04">Part 4</a></li><li><a href="/testi/dickens/atomized/the_pickwick_papers/chapter_37_showing_how_mr_samuel_weller_g/part_05">Part 5</a></li></ul>
+</nav>
 
 
 CHAPTER XLIII. SHOWING HOW MR. SAMUEL WELLER GOT INTO DIFFICULTIES

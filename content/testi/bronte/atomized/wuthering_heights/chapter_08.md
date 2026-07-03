@@ -12,6 +12,10 @@ tags:
 <div class="excerpt-crumb">Bronte · <a href="/works/wuthering-heights-(bronte)">Wuthering Heights</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/bronte/atomized/wuthering_heights/chapter_07">‹ Chapter 07</a><a class="ex-next" href="/testi/bronte/atomized/wuthering_heights/chapter_09">Chapter 09 ›</a></div>
 </nav>
+<nav class="excerpt-children">
+<div class="excerpt-children-label">In questa sezione</div>
+<ul><li><a href="/testi/bronte/atomized/wuthering_heights/chapter_08/part_01">Part 1</a></li><li><a href="/testi/bronte/atomized/wuthering_heights/chapter_08/part_02">Part 2</a></li><li><a href="/testi/bronte/atomized/wuthering_heights/chapter_08/part_03">Part 3</a></li></ul>
+</nav>
 
 
 CHAPTER VIII

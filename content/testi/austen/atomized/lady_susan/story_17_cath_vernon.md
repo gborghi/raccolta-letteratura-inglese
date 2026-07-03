@@ -12,6 +12,10 @@ tags:
 <div class="excerpt-crumb">Austen · <a href="/works/lady-susan-(austen)">Lady Susan</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/austen/atomized/lady_susan/story_16_s_vernon">‹ Story 16 S Vernon</a><a class="ex-next" href="/testi/austen/atomized/lady_susan/story_18_s_vernon">Story 18 S Vernon ›</a></div>
 </nav>
+<nav class="excerpt-children">
+<div class="excerpt-children-label">In questa sezione</div>
+<ul><li><a href="/testi/austen/atomized/lady_susan/story_17_cath_vernon/part_01">Part 1</a></li><li><a href="/testi/austen/atomized/lady_susan/story_17_cath_vernon/part_02">Part 2</a></li><li><a href="/testi/austen/atomized/lady_susan/story_17_cath_vernon/part_03">Part 3</a></li></ul>
+</nav>
 
 
 CATH. VERNON.

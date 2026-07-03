@@ -12,6 +12,10 @@ tags:
 <div class="excerpt-crumb">Shakespeare · <a href="/works/romeo-and-juliet-(shakespeare)">Romeo and Juliet</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/shakespeare/plays/romeo_and_juliet/act_3/scene_1">‹ Scene 1</a><a class="ex-next" href="/testi/shakespeare/plays/romeo_and_juliet/act_3/scene_3">Scene 3 ›</a></div>
 </nav>
+<nav class="excerpt-children">
+<div class="excerpt-children-label">In questa sezione</div>
+<ul><li><a href="/testi/shakespeare/plays/romeo_and_juliet/act_3/scene_2/01_exchange_dialogue">01 exchange dialogue</a></li><li><a href="/testi/shakespeare/plays/romeo_and_juliet/act_3/scene_2/02_monologue_juliet">02 monologue JULIET</a></li><li><a href="/testi/shakespeare/plays/romeo_and_juliet/act_3/scene_2/03_exchange_nurse">03 exchange NURSE</a></li><li><a href="/testi/shakespeare/plays/romeo_and_juliet/act_3/scene_2/04_monologue_juliet">04 monologue JULIET</a></li><li><a href="/testi/shakespeare/plays/romeo_and_juliet/act_3/scene_2/05_exchange_nurse">05 exchange NURSE</a></li></ul>
+</nav>
 
 
 | Chi parla | Battuta |

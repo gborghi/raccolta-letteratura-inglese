@@ -12,6 +12,10 @@ tags:
 <div class="excerpt-crumb">Shakespeare · <a href="/works/the-two-noble-kinsmen-(shakespeare)">The Two Noble Kinsmen</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/shakespeare/plays/the_two_noble_kinsmen/act_5/scene_5">‹ Scene 5</a><span></span></div>
 </nav>
+<nav class="excerpt-children">
+<div class="excerpt-children-label">In questa sezione</div>
+<ul><li><a href="/testi/shakespeare/plays/the_two_noble_kinsmen/act_5/scene_6/01_exchange_dialogue">01 exchange dialogue</a></li><li><a href="/testi/shakespeare/plays/the_two_noble_kinsmen/act_5/scene_6/02_monologue_pirithous">02 monologue PIRITHOUS</a></li><li><a href="/testi/shakespeare/plays/the_two_noble_kinsmen/act_5/scene_6/03_exchange_palamon">03 exchange PALAMON</a></li><li><a href="/testi/shakespeare/plays/the_two_noble_kinsmen/act_5/scene_6/04_monologue_theseus">04 monologue THESEUS</a></li><li><a href="/testi/shakespeare/plays/the_two_noble_kinsmen/act_5/scene_6/05_exchange_epilogue">05 exchange EPILOGUE</a></li><li><a href="/testi/shakespeare/plays/the_two_noble_kinsmen/act_5/scene_6/06_monologue_works">06 monologue WORKS</a></li><li><a href="/testi/shakespeare/plays/the_two_noble_kinsmen/act_5/scene_6/07_monologue_tv">07 monologue TV</a></li><li><a href="/testi/shakespeare/plays/the_two_noble_kinsmen/act_5/scene_6/08_monologue_a_select_glossary">08 monologue A SELECT GLOSSARY</a></li><li><a href="/testi/shakespeare/plays/the_two_noble_kinsmen/act_5/scene_6/09_exchange_index_of_first_lines_of">09 exchange INDEX OF FIRST LINES OF</a></li><li><a href="/testi/shakespeare/plays/the_two_noble_kinsmen/act_5/scene_6/10_monologue_the">10 monologue THE</a></li></ul>
+</nav>
 
 
 | Chi parla | Battuta |

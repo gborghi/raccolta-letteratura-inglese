@@ -12,6 +12,10 @@ tags:
 <div class="excerpt-crumb">Chesterton · <a href="/works/scandal-fr-brown-(chesterton)">scandal Fr Brown</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/scandal_fr_brown/story_10_the_insoluble_problem">‹ Story 10 The Insoluble Problem</a><a class="ex-next" href="/testi/chesterton/atomized/scandal_fr_brown/story_01_the_scandal_of_father_brown/part_01">part 01 ›</a></div>
 </nav>
+<nav class="excerpt-children">
+<div class="excerpt-children-label">In questa sezione</div>
+<ul><li><a href="/testi/chesterton/atomized/scandal_fr_brown/story_11_the_vampire_of_the_village/part_01">Part 1</a></li><li><a href="/testi/chesterton/atomized/scandal_fr_brown/story_11_the_vampire_of_the_village/part_02">Part 2</a></li><li><a href="/testi/chesterton/atomized/scandal_fr_brown/story_11_the_vampire_of_the_village/part_03">Part 3</a></li><li><a href="/testi/chesterton/atomized/scandal_fr_brown/story_11_the_vampire_of_the_village/part_04">Part 4</a></li><li><a href="/testi/chesterton/atomized/scandal_fr_brown/story_11_the_vampire_of_the_village/part_05">Part 5</a></li><li><a href="/testi/chesterton/atomized/scandal_fr_brown/story_11_the_vampire_of_the_village/part_06">Part 6</a></li></ul>
+</nav>
 
 
 NINE: The Vampire of the Village

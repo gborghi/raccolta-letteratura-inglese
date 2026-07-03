@@ -9,7 +9,7 @@ tags:
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Bronte · <a href="/works/the-professor-(bronte)">The Professor</a></div>
+<div class="excerpt-crumb">Bronte · <a href="/works/the-professor-(bronte)">The Professor</a> › <a href="/testi/bronte/atomized/the_professor/chapter_08">Chapter 08</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/bronte/atomized/the_professor/chapter_08/part_01">‹ part 01</a><a class="ex-next" href="/testi/bronte/atomized/the_professor/chapter_08/part_03">part 03 ›</a></div>
 </nav>
 

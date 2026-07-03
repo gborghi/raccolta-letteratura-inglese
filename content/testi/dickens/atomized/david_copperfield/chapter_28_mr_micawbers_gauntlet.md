@@ -12,6 +12,10 @@ tags:
 <div class="excerpt-crumb">Dickens · <a href="/works/david-copperfield-(dickens)">David Copperfield</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/david_copperfield/chapter_27_tommy_traddles">‹ Chapter 27 TOMMY TRADDLES</a><a class="ex-next" href="/testi/dickens/atomized/david_copperfield/chapter_29_i_visit_steerforth_at_his_home">Chapter 29 I VISIT STEERFORTH AT HIS Home ›</a></div>
 </nav>
+<nav class="excerpt-children">
+<div class="excerpt-children-label">In questa sezione</div>
+<ul><li><a href="/testi/dickens/atomized/david_copperfield/chapter_28_mr_micawbers_gauntlet/part_01">Part 1</a></li><li><a href="/testi/dickens/atomized/david_copperfield/chapter_28_mr_micawbers_gauntlet/part_02">Part 2</a></li><li><a href="/testi/dickens/atomized/david_copperfield/chapter_28_mr_micawbers_gauntlet/part_03">Part 3</a></li><li><a href="/testi/dickens/atomized/david_copperfield/chapter_28_mr_micawbers_gauntlet/part_04">Part 4</a></li><li><a href="/testi/dickens/atomized/david_copperfield/chapter_28_mr_micawbers_gauntlet/part_05">Part 5</a></li><li><a href="/testi/dickens/atomized/david_copperfield/chapter_28_mr_micawbers_gauntlet/part_06">Part 6</a></li><li><a href="/testi/dickens/atomized/david_copperfield/chapter_28_mr_micawbers_gauntlet/part_07">Part 7</a></li></ul>
+</nav>
 
 
 CHAPTER 28. Mr. MICAWBER’S GAUNTLET

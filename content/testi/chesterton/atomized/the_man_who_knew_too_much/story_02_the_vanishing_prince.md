@@ -12,6 +12,10 @@ tags:
 <div class="excerpt-crumb">Chesterton · <a href="/works/the-man-who-knew-too-much-(chesterton)">The Man Who Knew Too Much</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/the_man_who_knew_too_much/story_01_the_face_in_the_target">‹ Story 01 The Face in the Target</a><a class="ex-next" href="/testi/chesterton/atomized/the_man_who_knew_too_much/story_03_the_soul_of_the_schoolboy">Story 03 The Soul of the Schoolboy ›</a></div>
 </nav>
+<nav class="excerpt-children">
+<div class="excerpt-children-label">In questa sezione</div>
+<ul><li><a href="/testi/chesterton/atomized/the_man_who_knew_too_much/story_02_the_vanishing_prince/part_01">Part 1</a></li><li><a href="/testi/chesterton/atomized/the_man_who_knew_too_much/story_02_the_vanishing_prince/part_02">Part 2</a></li><li><a href="/testi/chesterton/atomized/the_man_who_knew_too_much/story_02_the_vanishing_prince/part_03">Part 3</a></li><li><a href="/testi/chesterton/atomized/the_man_who_knew_too_much/story_02_the_vanishing_prince/part_04">Part 4</a></li><li><a href="/testi/chesterton/atomized/the_man_who_knew_too_much/story_02_the_vanishing_prince/part_05">Part 5</a></li><li><a href="/testi/chesterton/atomized/the_man_who_knew_too_much/story_02_the_vanishing_prince/part_06">Part 6</a></li><li><a href="/testi/chesterton/atomized/the_man_who_knew_too_much/story_02_the_vanishing_prince/part_07">Part 7</a></li></ul>
+</nav>
 
 
 II - The Vanishing Prince

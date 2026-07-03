@@ -421,6 +421,24 @@ async function publishUnits(rawSourceToWork, translations = new Map()) {
         // Sequence for prev/next excludes the work-level container file.
         const seq = items.filter((it) => it.unitType !== "work")
 
+        // Parent/child hierarchy from slugs: a unit whose slug is another unit's
+        // slug + "/…" is that unit's child (e.g. chapter_02 -> chapter_02/part_01).
+        // Powers the crumb chain (part › chapter › work) and the in-page child list
+        // (a chapter links down to each of its parts, and vice-versa).
+        const bySlug = new Map(items.map((it) => [it.slug, it]))
+        const childrenOf = new Map()
+        for (const it of items) {
+          const psl = it.slug.split("/").slice(0, -1).join("/")
+          const parent = bySlug.get(psl)
+          if (parent && parent.slug !== it.slug) {
+            it.parentItem = parent
+            if (!childrenOf.has(parent.slug)) childrenOf.set(parent.slug, [])
+            childrenOf.get(parent.slug).push(it)
+          }
+        }
+        const childLabel = (k) =>
+          k.unitType === "excerpt" ? `Part ${k.order}` : prettyFromFilename(k.fileName)
+
         for (let i = 0; i < items.length; i++) {
           const it = items[i]
           const srcAbs = path.join(subRoot, it.relU.split("/").join(path.sep))
@@ -468,6 +486,19 @@ async function publishUnits(rawSourceToWork, translations = new Map()) {
           const crumbs = []
           if (parentWorkHref) crumbs.push(`<a href="/${parentWorkHref}">${esc(crumbLabel)}</a>`)
           else crumbs.push(esc(crumbLabel))
+          // parent chapter/section, so a part breadcrumbs up to its chapter
+          if (it.parentItem)
+            crumbs.push(
+              `<a href="/${it.parentItem.slug}">${esc(prettyFromFilename(it.parentItem.fileName))}</a>`,
+            )
+          // in-page list of this unit's children (chapter -> its parts)
+          const kids = (childrenOf.get(it.slug) || []).slice().sort((a, b) => a.order - b.order)
+          const childrenNav = kids.length
+            ? `<nav class="excerpt-children">\n` +
+              `<div class="excerpt-children-label">In questa sezione</div>\n<ul>` +
+              kids.map((k) => `<li><a href="/${k.slug}">${esc(childLabel(k))}</a></li>`).join("") +
+              `</ul>\n</nav>\n`
+            : ""
           const nav =
             `<nav class="excerpt-nav">\n` +
             `<div class="excerpt-crumb">${author} · ${crumbs.join(" › ")}</div>\n` +
@@ -477,7 +508,9 @@ async function publishUnits(rawSourceToWork, translations = new Map()) {
                 (nextHref ? `<a class="ex-next" href="${nextHref}">${esc(nextTitle)} ›</a>` : `<span></span>`) +
                 `</div>\n`
               : "") +
-            `</nav>\n\n`
+            `</nav>\n` +
+            childrenNav +
+            `\n`
 
           const fm =
             `---\n` +

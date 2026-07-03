@@ -9,7 +9,7 @@ tags:
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/works/fourfaultlessfelons-(chesterton)">FourFaultlessFelons</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/fourfaultlessfelons-(chesterton)">FourFaultlessFelons</a> › <a href="/testi/chesterton/atomized/fourfaultlessfelons/story_04_iii_the_man_who_could_not_hate">Story 04 Iii The Man Who Could Not Hate</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/fourfaultlessfelons/story_04_iii_the_man_who_could_not_hate/part_05">‹ part 05</a><a class="ex-next" href="/testi/chesterton/atomized/fourfaultlessfelons/story_05_v_the_theory_of_moderate_murder/part_01">part 01 ›</a></div>
 </nav>
 

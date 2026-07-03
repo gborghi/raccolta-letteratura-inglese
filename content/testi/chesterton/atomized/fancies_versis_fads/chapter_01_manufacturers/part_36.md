@@ -9,7 +9,7 @@ tags:
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/works/fancies-versis-fads-(chesterton)">Fancies Versis Fads</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/fancies-versis-fads-(chesterton)">Fancies Versis Fads</a> › <a href="/testi/chesterton/atomized/fancies_versis_fads/chapter_01_manufacturers">Chapter 01 MANUFACTURERS</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/fancies_versis_fads/chapter_01_manufacturers/part_35">‹ part 35</a><a class="ex-next" href="/testi/chesterton/atomized/fancies_versis_fads/chapter_01_manufacturers/part_37">part 37 ›</a></div>
 </nav>
 

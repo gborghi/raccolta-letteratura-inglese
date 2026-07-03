@@ -9,7 +9,7 @@ tags:
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Dickens · <a href="/works/david-copperfield-(dickens)">David Copperfield</a></div>
+<div class="excerpt-crumb">Dickens · <a href="/works/david-copperfield-(dickens)">David Copperfield</a> › <a href="/testi/dickens/atomized/david_copperfield/chapter_43_another_retrospect">Chapter 43 ANOTHER RETROSPECT</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/david_copperfield/chapter_42_mischief/part_08">‹ part 08</a><a class="ex-next" href="/testi/dickens/atomized/david_copperfield/chapter_43_another_retrospect/part_02">part 02 ›</a></div>
 </nav>
 

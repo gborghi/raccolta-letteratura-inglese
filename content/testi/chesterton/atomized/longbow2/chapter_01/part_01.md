@@ -9,7 +9,7 @@ tags:
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/works/longbow2-(chesterton)">Tales of the Long Bow</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/longbow2-(chesterton)">Tales of the Long Bow</a> › <a href="/testi/chesterton/atomized/longbow2/chapter_01">Chapter 01</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/longbow2/chapter_08">‹ Chapter 08</a><a class="ex-next" href="/testi/chesterton/atomized/longbow2/chapter_01/part_02">part 02 ›</a></div>
 </nav>
 

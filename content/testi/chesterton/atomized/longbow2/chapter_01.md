@@ -12,6 +12,10 @@ tags:
 <div class="excerpt-crumb">Chesterton · <a href="/works/longbow2-(chesterton)">Tales of the Long Bow</a></div>
 <div class="excerpt-pn"><span></span><a class="ex-next" href="/testi/chesterton/atomized/longbow2/chapter_02">Chapter 02 ›</a></div>
 </nav>
+<nav class="excerpt-children">
+<div class="excerpt-children-label">In questa sezione</div>
+<ul><li><a href="/testi/chesterton/atomized/longbow2/chapter_01/part_01">Part 1</a></li><li><a href="/testi/chesterton/atomized/longbow2/chapter_01/part_02">Part 2</a></li><li><a href="/testi/chesterton/atomized/longbow2/chapter_01/part_03">Part 3</a></li><li><a href="/testi/chesterton/atomized/longbow2/chapter_01/part_04">Part 4</a></li><li><a href="/testi/chesterton/atomized/longbow2/chapter_01/part_05">Part 5</a></li><li><a href="/testi/chesterton/atomized/longbow2/chapter_01/part_06">Part 6</a></li><li><a href="/testi/chesterton/atomized/longbow2/chapter_01/part_07">Part 7</a></li></ul>
+</nav>
 
 # [[longbow2]] — Chapter 1
 

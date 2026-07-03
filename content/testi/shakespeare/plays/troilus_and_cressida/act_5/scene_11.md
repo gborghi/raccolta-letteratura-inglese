@@ -12,6 +12,10 @@ tags:
 <div class="excerpt-crumb">Shakespeare · <a href="/works/troilus-and-cressida-(shakespeare)">Troilus and Cressida</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/shakespeare/plays/troilus_and_cressida/act_5/scene_10">‹ Scene 10</a><span></span></div>
 </nav>
+<nav class="excerpt-children">
+<div class="excerpt-children-label">In questa sezione</div>
+<ul><li><a href="/testi/shakespeare/plays/troilus_and_cressida/act_5/scene_11/01_exchange_dialogue">01 exchange dialogue</a></li><li><a href="/testi/shakespeare/plays/troilus_and_cressida/act_5/scene_11/02_monologue_troilus">02 monologue TROILUS</a></li><li><a href="/testi/shakespeare/plays/troilus_and_cressida/act_5/scene_11/03_exchange_additional_passages">03 exchange ADDITIONAL PASSAGES</a></li><li><a href="/testi/shakespeare/plays/troilus_and_cressida/act_5/scene_11/04_monologue_pandarus_a">04 monologue PANDARUS A</a></li><li><a href="/testi/shakespeare/plays/troilus_and_cressida/act_5/scene_11/05_exchange_sonnets_and_a_lovers">05 exchange SONNETS AND A LOVERS</a></li><li><a href="/testi/shakespeare/plays/troilus_and_cressida/act_5/scene_11/06_monologue_shakespeares">06 monologue SHAKESPEARES</a></li><li><a href="/testi/shakespeare/plays/troilus_and_cressida/act_5/scene_11/07_exchange_tothe_onlybegetterof">07 exchange TOTHE ONLYBEGETTEROF</a></li></ul>
+</nav>
 
 
 | Chi parla | Battuta |

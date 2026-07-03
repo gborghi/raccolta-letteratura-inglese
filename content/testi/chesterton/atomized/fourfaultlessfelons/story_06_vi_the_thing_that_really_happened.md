@@ -12,6 +12,10 @@ tags:
 <div class="excerpt-crumb">Chesterton · <a href="/works/fourfaultlessfelons-(chesterton)">FourFaultlessFelons</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/fourfaultlessfelons/story_05_v_the_theory_of_moderate_murder">‹ Story 05 V The Theory Of Moderate Murder</a><a class="ex-next" href="/testi/chesterton/atomized/fourfaultlessfelons/story_07_the_honest_quack">Story 07 The Honest Quack ›</a></div>
 </nav>
+<nav class="excerpt-children">
+<div class="excerpt-children-label">In questa sezione</div>
+<ul><li><a href="/testi/chesterton/atomized/fourfaultlessfelons/story_06_vi_the_thing_that_really_happened/part_01">Part 1</a></li><li><a href="/testi/chesterton/atomized/fourfaultlessfelons/story_06_vi_the_thing_that_really_happened/part_02">Part 2</a></li><li><a href="/testi/chesterton/atomized/fourfaultlessfelons/story_06_vi_the_thing_that_really_happened/part_03">Part 3</a></li></ul>
+</nav>
 
 
 VI THE THING THAT REALLY HAPPENED

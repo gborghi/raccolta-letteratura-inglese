@@ -12,6 +12,10 @@ tags:
 <div class="excerpt-crumb">Shakespeare · <a href="/works/2-henry-iv-(shakespeare)">2 Henry IV</a></div>
 <div class="excerpt-pn"><span></span><a class="ex-next" href="/testi/shakespeare/plays/2_henry_iv/act_1/scene_3">Scene 3 ›</a></div>
 </nav>
+<nav class="excerpt-children">
+<div class="excerpt-children-label">In questa sezione</div>
+<ul><li><a href="/testi/shakespeare/plays/2_henry_iv/act_1/scene_1/01_exchange_dialogue">01 exchange dialogue</a></li><li><a href="/testi/shakespeare/plays/2_henry_iv/act_1/scene_1/02_exchange_lord_bardolph">02 exchange LORD BARDOLPH</a></li><li><a href="/testi/shakespeare/plays/2_henry_iv/act_1/scene_1/03_monologue_morton">03 monologue MORTON</a></li><li><a href="/testi/shakespeare/plays/2_henry_iv/act_1/scene_1/04_monologue_northumberland">04 monologue NORTHUMBERLAND</a></li><li><a href="/testi/shakespeare/plays/2_henry_iv/act_1/scene_1/05_exchange_lord_bardolph">05 exchange LORD BARDOLPH</a></li><li><a href="/testi/shakespeare/plays/2_henry_iv/act_1/scene_1/06_monologue_morton">06 monologue MORTON</a></li><li><a href="/testi/shakespeare/plays/2_henry_iv/act_1/scene_1/07_exchange_northumberland">07 exchange NORTHUMBERLAND</a></li><li><a href="/testi/shakespeare/plays/2_henry_iv/act_1/scene_1/08_monologue_sir_john">08 monologue SIR JOHN</a></li><li><a href="/testi/shakespeare/plays/2_henry_iv/act_1/scene_1/09_exchange_page">09 exchange PAGE</a></li><li><a href="/testi/shakespeare/plays/2_henry_iv/act_1/scene_1/10_exchange_servant">10 exchange SERVANT</a></li><li><a href="/testi/shakespeare/plays/2_henry_iv/act_1/scene_1/11_exchange_sir_john">11 exchange SIR JOHN</a></li><li><a href="/testi/shakespeare/plays/2_henry_iv/act_1/scene_1/12_exchange_lord_chief_justice">12 exchange LORD CHIEF JUSTICE</a></li></ul>
+</nav>
 
 
 | Chi parla | Battuta |

@@ -12,6 +12,10 @@ tags:
 <div class="excerpt-crumb">Shakespeare · <a href="/works/coriolanus-(shakespeare)">Coriolanus</a></div>
 <div class="excerpt-pn"><span></span><a class="ex-next" href="/testi/shakespeare/plays/coriolanus/act_1/scene_3">Scene 3 ›</a></div>
 </nav>
+<nav class="excerpt-children">
+<div class="excerpt-children-label">In questa sezione</div>
+<ul><li><a href="/testi/shakespeare/plays/coriolanus/act_1/scene_1/01_exchange_dialogue">01 exchange dialogue</a></li><li><a href="/testi/shakespeare/plays/coriolanus/act_1/scene_1/02_monologue_menenius">02 monologue MENENIUS</a></li><li><a href="/testi/shakespeare/plays/coriolanus/act_1/scene_1/03_exchange_menenius">03 exchange MENENIUS</a></li><li><a href="/testi/shakespeare/plays/coriolanus/act_1/scene_1/04_exchange_menenius">04 exchange MENENIUS</a></li><li><a href="/testi/shakespeare/plays/coriolanus/act_1/scene_1/05_monologue_martius">05 monologue MARTIUS</a></li><li><a href="/testi/shakespeare/plays/coriolanus/act_1/scene_1/06_exchange_menenius">06 exchange MENENIUS</a></li><li><a href="/testi/shakespeare/plays/coriolanus/act_1/scene_1/07_exchange_lartius">07 exchange LARTIUS</a></li><li><a href="/testi/shakespeare/plays/coriolanus/act_1/scene_1/08_exchange_second_senator">08 exchange SECOND SENATOR</a></li></ul>
+</nav>
 
 
 | Chi parla | Battuta |

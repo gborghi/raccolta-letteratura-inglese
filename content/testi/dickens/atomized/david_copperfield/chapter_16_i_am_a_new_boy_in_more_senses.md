@@ -12,6 +12,10 @@ tags:
 <div class="excerpt-crumb">Dickens · <a href="/works/david-copperfield-(dickens)">David Copperfield</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/david_copperfield/chapter_15_i_make_another_beginning">‹ Chapter 15 I MAKE ANOTHER BEGINNING</a><a class="ex-next" href="/testi/dickens/atomized/david_copperfield/chapter_17_somebody_turns_up">Chapter 17 SOMEBODY TURNS UP ›</a></div>
 </nav>
+<nav class="excerpt-children">
+<div class="excerpt-children-label">In questa sezione</div>
+<ul><li><a href="/testi/dickens/atomized/david_copperfield/chapter_16_i_am_a_new_boy_in_more_senses/part_01">Part 1</a></li><li><a href="/testi/dickens/atomized/david_copperfield/chapter_16_i_am_a_new_boy_in_more_senses/part_02">Part 2</a></li><li><a href="/testi/dickens/atomized/david_copperfield/chapter_16_i_am_a_new_boy_in_more_senses/part_03">Part 3</a></li><li><a href="/testi/dickens/atomized/david_copperfield/chapter_16_i_am_a_new_boy_in_more_senses/part_04">Part 4</a></li><li><a href="/testi/dickens/atomized/david_copperfield/chapter_16_i_am_a_new_boy_in_more_senses/part_05">Part 5</a></li><li><a href="/testi/dickens/atomized/david_copperfield/chapter_16_i_am_a_new_boy_in_more_senses/part_06">Part 6</a></li><li><a href="/testi/dickens/atomized/david_copperfield/chapter_16_i_am_a_new_boy_in_more_senses/part_07">Part 7</a></li><li><a href="/testi/dickens/atomized/david_copperfield/chapter_16_i_am_a_new_boy_in_more_senses/part_08">Part 8</a></li></ul>
+</nav>
 
 
 CHAPTER 16. I AM A NEW BOY IN MORE SENSES THAN ONE

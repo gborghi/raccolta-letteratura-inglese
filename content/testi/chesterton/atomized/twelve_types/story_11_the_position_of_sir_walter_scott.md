@@ -12,6 +12,10 @@ tags:
 <div class="excerpt-crumb">Chesterton · <a href="/works/twelve-types-(chesterton)">Twelve Types</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/twelve_types/story_10_savonarola">‹ Story 10 SAVONAROLA</a><a class="ex-next" href="/testi/chesterton/atomized/twelve_types/story_02_william_morris_and_his_school/part_01">part 01 ›</a></div>
 </nav>
+<nav class="excerpt-children">
+<div class="excerpt-children-label">In questa sezione</div>
+<ul><li><a href="/testi/chesterton/atomized/twelve_types/story_11_the_position_of_sir_walter_scott/part_01">Part 1</a></li><li><a href="/testi/chesterton/atomized/twelve_types/story_11_the_position_of_sir_walter_scott/part_02">Part 2</a></li><li><a href="/testi/chesterton/atomized/twelve_types/story_11_the_position_of_sir_walter_scott/part_03">Part 3</a></li><li><a href="/testi/chesterton/atomized/twelve_types/story_11_the_position_of_sir_walter_scott/part_04">Part 4</a></li><li><a href="/testi/chesterton/atomized/twelve_types/story_11_the_position_of_sir_walter_scott/part_05">Part 5</a></li><li><a href="/testi/chesterton/atomized/twelve_types/story_11_the_position_of_sir_walter_scott/part_06">Part 6</a></li><li><a href="/testi/chesterton/atomized/twelve_types/story_11_the_position_of_sir_walter_scott/part_07">Part 7</a></li></ul>
+</nav>
 
 
 THE POSITION OF SIR WALTER SCOTT

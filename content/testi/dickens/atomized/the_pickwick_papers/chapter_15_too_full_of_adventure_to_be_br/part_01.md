@@ -9,7 +9,7 @@ tags:
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Dickens · <a href="/works/the-pickwick-papers-(dickens)">The Pickwick Papers</a></div>
+<div class="excerpt-crumb">Dickens · <a href="/works/the-pickwick-papers-(dickens)">The Pickwick Papers</a> › <a href="/testi/dickens/atomized/the_pickwick_papers/chapter_15_too_full_of_adventure_to_be_br">Chapter 15 TOO FULL OF ADVENTURE TO BE BR</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/the_pickwick_papers/chapter_14/part_05">‹ part 05</a><a class="ex-next" href="/testi/dickens/atomized/the_pickwick_papers/chapter_15_too_full_of_adventure_to_be_br/part_02">part 02 ›</a></div>
 </nav>
 

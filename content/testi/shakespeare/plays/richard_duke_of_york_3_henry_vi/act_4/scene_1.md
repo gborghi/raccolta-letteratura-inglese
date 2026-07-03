@@ -12,6 +12,10 @@ tags:
 <div class="excerpt-crumb">Shakespeare · <a href="/works/richard-duke-of-york---(3-henry-vi)-(shakespeare)">Richard Duke of York 3 Henry VI</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/shakespeare/plays/richard_duke_of_york_3_henry_vi/act_3/scene_2">‹ Scene 2</a><a class="ex-next" href="/testi/shakespeare/plays/richard_duke_of_york_3_henry_vi/act_4/scene_2">Scene 2 ›</a></div>
 </nav>
+<nav class="excerpt-children">
+<div class="excerpt-children-label">In questa sezione</div>
+<ul><li><a href="/testi/shakespeare/plays/richard_duke_of_york_3_henry_vi/act_4/scene_1/01_exchange_dialogue">01 exchange dialogue</a></li><li><a href="/testi/shakespeare/plays/richard_duke_of_york_3_henry_vi/act_4/scene_1/02_exchange_george_of_clarence">02 exchange GEORGE OF CLARENCE</a></li><li><a href="/testi/shakespeare/plays/richard_duke_of_york_3_henry_vi/act_4/scene_1/03_exchange_post">03 exchange POST</a></li></ul>
+</nav>
 
 
 | Chi parla | Battuta |

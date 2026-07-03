@@ -9,7 +9,7 @@ tags:
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/works/common-man-(chesterton)">Common Man</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/common-man-(chesterton)">Common Man</a> › <a href="/testi/chesterton/atomized/common_man/story_26_the_erastian_on_the_establishment">Story 26 The Erastian On The Establishment</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/common_man/story_26_the_erastian_on_the_establishment/part_01">‹ part 01</a><a class="ex-next" href="/testi/chesterton/atomized/common_man/story_26_the_erastian_on_the_establishment/part_03">part 03 ›</a></div>
 </nav>
 

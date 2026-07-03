@@ -12,6 +12,10 @@ tags:
 <div class="excerpt-crumb">Dickens · <a href="/works/dombey-and-son-(dickens)">Dombey and Son</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/dombey_and_son/chapter_29">‹ Chapter 29</a><a class="ex-next" href="/testi/dickens/atomized/dombey_and_son/chapter_31">Chapter 31 ›</a></div>
 </nav>
+<nav class="excerpt-children">
+<div class="excerpt-children-label">In questa sezione</div>
+<ul><li><a href="/testi/dickens/atomized/dombey_and_son/chapter_30/part_01">Part 1</a></li><li><a href="/testi/dickens/atomized/dombey_and_son/chapter_30/part_02">Part 2</a></li><li><a href="/testi/dickens/atomized/dombey_and_son/chapter_30/part_03">Part 3</a></li><li><a href="/testi/dickens/atomized/dombey_and_son/chapter_30/part_04">Part 4</a></li><li><a href="/testi/dickens/atomized/dombey_and_son/chapter_30/part_05">Part 5</a></li></ul>
+</nav>
 
 
 CHAPTER II.

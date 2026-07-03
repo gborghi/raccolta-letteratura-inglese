@@ -9,7 +9,7 @@ tags:
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/works/poet-and-lunatics-(chesterton)">Poet and Lunatics</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/poet-and-lunatics-(chesterton)">Poet and Lunatics</a> › <a href="/testi/chesterton/atomized/poet_and_lunatics/story_05_the_finger_of_stone">Story 05 THE FINGER OF STONE</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/poet_and_lunatics/story_05_the_finger_of_stone/part_03">‹ part 03</a><a class="ex-next" href="/testi/chesterton/atomized/poet_and_lunatics/story_05_the_finger_of_stone/part_05">part 05 ›</a></div>
 </nav>
 

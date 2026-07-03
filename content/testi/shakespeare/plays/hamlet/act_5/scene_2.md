@@ -12,6 +12,10 @@ tags:
 <div class="excerpt-crumb">Shakespeare · <a href="/works/hamlet-(shakespeare)">Hamlet</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/shakespeare/plays/hamlet/act_5/scene_1">‹ Scene 1</a><span></span></div>
 </nav>
+<nav class="excerpt-children">
+<div class="excerpt-children-label">In questa sezione</div>
+<ul><li><a href="/testi/shakespeare/plays/hamlet/act_5/scene_2/01_exchange_dialogue">01 exchange dialogue</a></li><li><a href="/testi/shakespeare/plays/hamlet/act_5/scene_2/02_exchange_horatio">02 exchange HORATIO</a></li><li><a href="/testi/shakespeare/plays/hamlet/act_5/scene_2/03_exchange_hamlet">03 exchange HAMLET</a></li><li><a href="/testi/shakespeare/plays/hamlet/act_5/scene_2/04_exchange_laertes">04 exchange LAERTES</a></li><li><a href="/testi/shakespeare/plays/hamlet/act_5/scene_2/05_exchange_osric">05 exchange OSRIC</a></li><li><a href="/testi/shakespeare/plays/hamlet/act_5/scene_2/06_exchange_horatio">06 exchange HORATIO</a></li><li><a href="/testi/shakespeare/plays/hamlet/act_5/scene_2/07_monologue_b">07 monologue B</a></li><li><a href="/testi/shakespeare/plays/hamlet/act_5/scene_2/08_exchange_c">08 exchange C</a></li><li><a href="/testi/shakespeare/plays/hamlet/act_5/scene_2/09_exchange_hamlet">09 exchange HAMLET</a></li><li><a href="/testi/shakespeare/plays/hamlet/act_5/scene_2/10_monologue_hamlet">10 monologue HAMLET</a></li><li><a href="/testi/shakespeare/plays/hamlet/act_5/scene_2/11_exchange_k">11 exchange K</a></li><li><a href="/testi/shakespeare/plays/hamlet/act_5/scene_2/12_exchange_hamlet_i">12 exchange HAMLET I</a></li><li><a href="/testi/shakespeare/plays/hamlet/act_5/scene_2/13_monologue_twelfth">13 monologue TWELFTH</a></li><li><a href="/testi/shakespeare/plays/hamlet/act_5/scene_2/14_exchange_the_persons_of_the_play">14 exchange THE PERSONS OF THE PLAY</a></li></ul>
+</nav>
 
 
 | Chi parla | Battuta |

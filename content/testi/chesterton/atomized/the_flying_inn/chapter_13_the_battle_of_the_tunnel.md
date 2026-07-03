@@ -12,6 +12,10 @@ tags:
 <div class="excerpt-crumb">Chesterton · <a href="/works/the-flying-inn-(chesterton)">The Flying Inn</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/the_flying_inn/chapter_12_vegetarianism_in_the_forest">‹ Chapter 12 VEGETARIANISM IN THE FOREST</a><a class="ex-next" href="/testi/chesterton/atomized/the_flying_inn/chapter_14_the_creature_that_man_forgets">Chapter 14 THE CREATURE THAT MAN FORGETS ›</a></div>
 </nav>
+<nav class="excerpt-children">
+<div class="excerpt-children-label">In questa sezione</div>
+<ul><li><a href="/testi/chesterton/atomized/the_flying_inn/chapter_13_the_battle_of_the_tunnel/part_01">Part 1</a></li><li><a href="/testi/chesterton/atomized/the_flying_inn/chapter_13_the_battle_of_the_tunnel/part_02">Part 2</a></li></ul>
+</nav>
 
 
 CHAPTER XIII: THE BATTLE OF THE TUNNEL

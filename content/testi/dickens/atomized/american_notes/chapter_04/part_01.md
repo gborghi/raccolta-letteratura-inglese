@@ -9,7 +9,7 @@ tags:
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Dickens · <a href="/works/american-notes-(dickens)">American Notes</a></div>
+<div class="excerpt-crumb">Dickens · <a href="/works/american-notes-(dickens)">American Notes</a> › <a href="/testi/dickens/atomized/american_notes/chapter_04">Chapter 04</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/american_notes/chapter_03/part_06">‹ part 06</a><a class="ex-next" href="/testi/dickens/atomized/american_notes/chapter_04/part_02">part 02 ›</a></div>
 </nav>
 

@@ -12,6 +12,10 @@ tags:
 <div class="excerpt-crumb">Dickens · <a href="/works/the-pickwick-papers-(dickens)">The Pickwick Papers</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/the_pickwick_papers/chapter_20_in_which_the_old_man_launches">‹ Chapter 20 IN WHICH THE OLD MAN LAUNCHES</a><a class="ex-next" href="/testi/dickens/atomized/the_pickwick_papers/chapter_22_wherein_mr_peter_magnus_grows">Chapter 22 WHEREIN MR PETER MAGNUS GROWS ›</a></div>
 </nav>
+<nav class="excerpt-children">
+<div class="excerpt-children-label">In questa sezione</div>
+<ul><li><a href="/testi/dickens/atomized/the_pickwick_papers/chapter_21_in_which_mr_samuel_weller_begi/part_01">Part 1</a></li><li><a href="/testi/dickens/atomized/the_pickwick_papers/chapter_21_in_which_mr_samuel_weller_begi/part_02">Part 2</a></li><li><a href="/testi/dickens/atomized/the_pickwick_papers/chapter_21_in_which_mr_samuel_weller_begi/part_03">Part 3</a></li></ul>
+</nav>
 
 
 CHAPTER XXIII. IN WHICH MR. SAMUEL WELLER BEGINS TO DEVOTE HIS ENERGIES

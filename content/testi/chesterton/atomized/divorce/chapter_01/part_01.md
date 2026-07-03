@@ -9,7 +9,7 @@ tags:
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/works/divorce-(chesterton)">The Superstition of Divorce</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/divorce-(chesterton)">The Superstition of Divorce</a> › <a href="/testi/chesterton/atomized/divorce/chapter_01">Chapter 01</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/divorce/chapter_09">‹ Chapter 09</a><a class="ex-next" href="/testi/chesterton/atomized/divorce/chapter_01/part_02">part 02 ›</a></div>
 </nav>
 

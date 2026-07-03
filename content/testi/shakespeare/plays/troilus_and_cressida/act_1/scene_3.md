@@ -12,6 +12,10 @@ tags:
 <div class="excerpt-crumb">Shakespeare · <a href="/works/troilus-and-cressida-(shakespeare)">Troilus and Cressida</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/shakespeare/plays/troilus_and_cressida/act_1/scene_2">‹ Scene 2</a><a class="ex-next" href="/testi/shakespeare/plays/troilus_and_cressida/act_2/scene_1">Scene 1 ›</a></div>
 </nav>
+<nav class="excerpt-children">
+<div class="excerpt-children-label">In questa sezione</div>
+<ul><li><a href="/testi/shakespeare/plays/troilus_and_cressida/act_1/scene_3/01_exchange_dialogue">01 exchange dialogue</a></li><li><a href="/testi/shakespeare/plays/troilus_and_cressida/act_1/scene_3/02_monologue_agamemnon">02 monologue AGAMEMNON</a></li><li><a href="/testi/shakespeare/plays/troilus_and_cressida/act_1/scene_3/03_monologue_nestor">03 monologue NESTOR</a></li><li><a href="/testi/shakespeare/plays/troilus_and_cressida/act_1/scene_3/04_exchange_ulysses">04 exchange ULYSSES</a></li><li><a href="/testi/shakespeare/plays/troilus_and_cressida/act_1/scene_3/05_monologue_ulysses">05 monologue ULYSSES</a></li><li><a href="/testi/shakespeare/plays/troilus_and_cressida/act_1/scene_3/06_exchange_nestor">06 exchange NESTOR</a></li><li><a href="/testi/shakespeare/plays/troilus_and_cressida/act_1/scene_3/07_monologue_ulysses">07 monologue ULYSSES</a></li><li><a href="/testi/shakespeare/plays/troilus_and_cressida/act_1/scene_3/08_exchange_nestor">08 exchange NESTOR</a></li><li><a href="/testi/shakespeare/plays/troilus_and_cressida/act_1/scene_3/09_exchange_agamemnon">09 exchange AGAMEMNON</a></li><li><a href="/testi/shakespeare/plays/troilus_and_cressida/act_1/scene_3/10_monologue_aeneas">10 monologue AENEAS</a></li><li><a href="/testi/shakespeare/plays/troilus_and_cressida/act_1/scene_3/11_exchange_agamemnon">11 exchange AGAMEMNON</a></li><li><a href="/testi/shakespeare/plays/troilus_and_cressida/act_1/scene_3/12_monologue_nestor">12 monologue NESTOR</a></li><li><a href="/testi/shakespeare/plays/troilus_and_cressida/act_1/scene_3/13_exchange_ulysses">13 exchange ULYSSES</a></li></ul>
+</nav>
 
 
 | Chi parla | Battuta |

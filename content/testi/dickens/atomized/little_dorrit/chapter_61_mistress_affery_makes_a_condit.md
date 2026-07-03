@@ -12,6 +12,10 @@ tags:
 <div class="excerpt-crumb">Dickens · <a href="/works/little-dorrit-(dickens)">Little Dorrit</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/little_dorrit/chapter_60_who_passes_by_this_road_so_lat">‹ Chapter 60 Who passes by this Road so lat</a><a class="ex-next" href="/testi/dickens/atomized/little_dorrit/chapter_62_the_evening_of_a_long_day">Chapter 62 The Evening of a Long Day ›</a></div>
 </nav>
+<nav class="excerpt-children">
+<div class="excerpt-children-label">In questa sezione</div>
+<ul><li><a href="/testi/dickens/atomized/little_dorrit/chapter_61_mistress_affery_makes_a_condit/part_01">Part 1</a></li><li><a href="/testi/dickens/atomized/little_dorrit/chapter_61_mistress_affery_makes_a_condit/part_02">Part 2</a></li><li><a href="/testi/dickens/atomized/little_dorrit/chapter_61_mistress_affery_makes_a_condit/part_03">Part 3</a></li><li><a href="/testi/dickens/atomized/little_dorrit/chapter_61_mistress_affery_makes_a_condit/part_04">Part 4</a></li><li><a href="/testi/dickens/atomized/little_dorrit/chapter_61_mistress_affery_makes_a_condit/part_05">Part 5</a></li></ul>
+</nav>
 
 
 CHAPTER 23. Mistress Affery makes a Conditional Promise,

@@ -12,6 +12,10 @@ tags:
 <div class="excerpt-crumb">Shakespeare · <a href="/works/henry-v-(shakespeare)">Henry V</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/shakespeare/plays/henry_v/act_5/scene_1">‹ Scene 1</a><span></span></div>
 </nav>
+<nav class="excerpt-children">
+<div class="excerpt-children-label">In questa sezione</div>
+<ul><li><a href="/testi/shakespeare/plays/henry_v/act_5/scene_2/01_exchange_dialogue">01 exchange dialogue</a></li><li><a href="/testi/shakespeare/plays/henry_v/act_5/scene_2/02_monologue_burgundy">02 monologue BURGUNDY</a></li><li><a href="/testi/shakespeare/plays/henry_v/act_5/scene_2/03_exchange_king_harry">03 exchange KING HARRY</a></li><li><a href="/testi/shakespeare/plays/henry_v/act_5/scene_2/04_exchange_catherine">04 exchange CATHERINE</a></li><li><a href="/testi/shakespeare/plays/henry_v/act_5/scene_2/05_monologue_king_harry">05 monologue KING HARRY</a></li><li><a href="/testi/shakespeare/plays/henry_v/act_5/scene_2/06_exchange_catherine">06 exchange CATHERINE</a></li><li><a href="/testi/shakespeare/plays/henry_v/act_5/scene_2/07_monologue_king_harry">07 monologue KING HARRY</a></li><li><a href="/testi/shakespeare/plays/henry_v/act_5/scene_2/08_exchange_catherine">08 exchange CATHERINE</a></li><li><a href="/testi/shakespeare/plays/henry_v/act_5/scene_2/09_exchange_king_harry">09 exchange KING HARRY</a></li><li><a href="/testi/shakespeare/plays/henry_v/act_5/scene_2/10_exchange_chorus">10 exchange CHORUS</a></li><li><a href="/testi/shakespeare/plays/henry_v/act_5/scene_2/11_exchange_julius_caesar">11 exchange JULIUS CAESAR</a></li><li><a href="/testi/shakespeare/plays/henry_v/act_5/scene_2/12_monologue_on">12 monologue ON</a></li><li><a href="/testi/shakespeare/plays/henry_v/act_5/scene_2/13_exchange_the_persons_of_the_play">13 exchange THE PERSONS OF THE PLAY</a></li></ul>
+</nav>
 
 
 | Chi parla | Battuta |

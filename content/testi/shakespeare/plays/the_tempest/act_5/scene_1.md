@@ -12,6 +12,10 @@ tags:
 <div class="excerpt-crumb">Shakespeare · <a href="/works/the-tempest-(shakespeare)">The Tempest</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/shakespeare/plays/the_tempest/act_4/scene_1">‹ Scene 1</a><span></span></div>
 </nav>
+<nav class="excerpt-children">
+<div class="excerpt-children-label">In questa sezione</div>
+<ul><li><a href="/testi/shakespeare/plays/the_tempest/act_5/scene_1/01_exchange_dialogue">01 exchange dialogue</a></li><li><a href="/testi/shakespeare/plays/the_tempest/act_5/scene_1/02_monologue_prospero">02 monologue PROSPERO</a></li><li><a href="/testi/shakespeare/plays/the_tempest/act_5/scene_1/03_exchange_ariel">03 exchange ARIEL</a></li><li><a href="/testi/shakespeare/plays/the_tempest/act_5/scene_1/04_exchange_alonso">04 exchange ALONSO</a></li><li><a href="/testi/shakespeare/plays/the_tempest/act_5/scene_1/05_exchange_alonso">05 exchange ALONSO</a></li><li><a href="/testi/shakespeare/plays/the_tempest/act_5/scene_1/06_exchange_caliban">06 exchange CALIBAN</a></li><li><a href="/testi/shakespeare/plays/the_tempest/act_5/scene_1/07_exchange_a_brief_account">07 exchange A BRIEF ACCOUNT</a></li><li><a href="/testi/shakespeare/plays/the_tempest/act_5/scene_1/08_monologue_many">08 monologue MANY</a></li></ul>
+</nav>
 
 
 | Chi parla | Battuta |

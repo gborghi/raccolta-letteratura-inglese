@@ -12,6 +12,10 @@ tags:
 <div class="excerpt-crumb">Dickens · <a href="/works/oliver-twist-(dickens)">Oliver Twist</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/oliver_twist/chapter_46">‹ Chapter 46</a><a class="ex-next" href="/testi/dickens/atomized/oliver_twist/chapter_48">Chapter 48 ›</a></div>
 </nav>
+<nav class="excerpt-children">
+<div class="excerpt-children-label">In questa sezione</div>
+<ul><li><a href="/testi/dickens/atomized/oliver_twist/chapter_47/part_01">Part 1</a></li><li><a href="/testi/dickens/atomized/oliver_twist/chapter_47/part_02">Part 2</a></li></ul>
+</nav>
 
 
  CHAPTER XLVII.

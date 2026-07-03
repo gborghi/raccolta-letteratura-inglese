@@ -9,7 +9,7 @@ tags:
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Dickens · <a href="/works/bleak-house-(dickens)">Bleak House</a></div>
+<div class="excerpt-crumb">Dickens · <a href="/works/bleak-house-(dickens)">Bleak House</a> › <a href="/testi/dickens/atomized/bleak_house/chapter_54">Chapter 54</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/bleak_house/chapter_54/part_06">‹ part 06</a><a class="ex-next" href="/testi/dickens/atomized/bleak_house/chapter_54/part_08">part 08 ›</a></div>
 </nav>
 

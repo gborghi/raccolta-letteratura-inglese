@@ -12,6 +12,10 @@ tags:
 <div class="excerpt-crumb">Shakespeare · <a href="/works/troilus-and-cressida-(shakespeare)">Troilus and Cressida</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/shakespeare/plays/troilus_and_cressida/act_1/scene_1">‹ Scene 1</a><a class="ex-next" href="/testi/shakespeare/plays/troilus_and_cressida/act_1/scene_3">Scene 3 ›</a></div>
 </nav>
+<nav class="excerpt-children">
+<div class="excerpt-children-label">In questa sezione</div>
+<ul><li><a href="/testi/shakespeare/plays/troilus_and_cressida/act_1/scene_2/01_exchange_dialogue">01 exchange dialogue</a></li><li><a href="/testi/shakespeare/plays/troilus_and_cressida/act_1/scene_2/02_exchange_pandarus">02 exchange PANDARUS</a></li><li><a href="/testi/shakespeare/plays/troilus_and_cressida/act_1/scene_2/03_exchange_cressida">03 exchange CRESSIDA</a></li><li><a href="/testi/shakespeare/plays/troilus_and_cressida/act_1/scene_2/04_exchange_cressida">04 exchange CRESSIDA</a></li><li><a href="/testi/shakespeare/plays/troilus_and_cressida/act_1/scene_2/05_exchange_pandarus">05 exchange PANDARUS</a></li></ul>
+</nav>
 
 
 | Chi parla | Battuta |

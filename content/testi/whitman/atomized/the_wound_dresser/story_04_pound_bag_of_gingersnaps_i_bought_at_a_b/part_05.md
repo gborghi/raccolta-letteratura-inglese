@@ -9,7 +9,7 @@ tags:
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Whitman · <a href="/works/the-wound-dresser-(whitman)">The Wound Dresser</a></div>
+<div class="excerpt-crumb">Whitman · <a href="/works/the-wound-dresser-(whitman)">The Wound Dresser</a> › <a href="/testi/whitman/atomized/the_wound_dresser/story_04_pound_bag_of_gingersnaps_i_bought_at_a_b">Story 04 pound bag of gingersnaps I bought at a b</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/whitman/atomized/the_wound_dresser/story_04_pound_bag_of_gingersnaps_i_bought_at_a_b/part_04">‹ part 04</a><a class="ex-next" href="/testi/whitman/atomized/the_wound_dresser/story_04_pound_bag_of_gingersnaps_i_bought_at_a_b/part_06">part 06 ›</a></div>
 </nav>
 

@@ -12,6 +12,10 @@ tags:
 <div class="excerpt-crumb">Chesterton · <a href="/works/sanity-(chesterton)">Sanity</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/sanity/story_15_a_note_on_emigration">‹ Story 15 A NOTE ON EMIGRATION</a><a class="ex-next" href="/testi/chesterton/atomized/sanity/story_17_a_summary">Story 17 A SUMMARY ›</a></div>
 </nav>
+<nav class="excerpt-children">
+<div class="excerpt-children-label">In questa sezione</div>
+<ul><li><a href="/testi/chesterton/atomized/sanity/story_16_the_religion_of_small_property/part_01">Part 1</a></li><li><a href="/testi/chesterton/atomized/sanity/story_16_the_religion_of_small_property/part_02">Part 2</a></li><li><a href="/testi/chesterton/atomized/sanity/story_16_the_religion_of_small_property/part_03">Part 3</a></li><li><a href="/testi/chesterton/atomized/sanity/story_16_the_religion_of_small_property/part_04">Part 4</a></li><li><a href="/testi/chesterton/atomized/sanity/story_16_the_religion_of_small_property/part_05">Part 5</a></li><li><a href="/testi/chesterton/atomized/sanity/story_16_the_religion_of_small_property/part_06">Part 6</a></li></ul>
+</nav>
 
 
   2. The Religion of Small Property

@@ -12,6 +12,10 @@ tags:
 <div class="excerpt-crumb">Chesterton · <a href="/works/ball-and-cross-(chesterton)">The Ball and the Cross</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/ball_and_cross/story_04_the_peacemaker">‹ Story 04 The Peacemaker</a><a class="ex-next" href="/testi/chesterton/atomized/ball_and_cross/story_06_the_village_of_grassley_in_the_hole">Story 06 The Village of Grassley in the Hole ›</a></div>
 </nav>
+<nav class="excerpt-children">
+<div class="excerpt-children-label">In questa sezione</div>
+<ul><li><a href="/testi/chesterton/atomized/ball_and_cross/story_05_the_other_philosopher/part_01">Part 1</a></li><li><a href="/testi/chesterton/atomized/ball_and_cross/story_05_the_other_philosopher/part_02">Part 2</a></li><li><a href="/testi/chesterton/atomized/ball_and_cross/story_05_the_other_philosopher/part_03">Part 3</a></li><li><a href="/testi/chesterton/atomized/ball_and_cross/story_05_the_other_philosopher/part_04">Part 4</a></li></ul>
+</nav>
 
 
 VI.  THE OTHER PHILOSOPHER

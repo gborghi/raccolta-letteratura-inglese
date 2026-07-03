@@ -12,6 +12,10 @@ tags:
 <div class="excerpt-crumb">Dickens · <a href="/works/little-dorrit-(dickens)">Little Dorrit</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/little_dorrit/chapter_14_bleeding_heart_yard">‹ Chapter 14 Bleeding Heart Yard</a><a class="ex-next" href="/testi/dickens/atomized/little_dorrit/chapter_16_little_dorrits_party">Chapter 16 Little Dorrits Party ›</a></div>
 </nav>
+<nav class="excerpt-children">
+<div class="excerpt-children-label">In questa sezione</div>
+<ul><li><a href="/testi/dickens/atomized/little_dorrit/chapter_15_patriarchal/part_01">Part 1</a></li><li><a href="/testi/dickens/atomized/little_dorrit/chapter_15_patriarchal/part_02">Part 2</a></li><li><a href="/testi/dickens/atomized/little_dorrit/chapter_15_patriarchal/part_03">Part 3</a></li><li><a href="/testi/dickens/atomized/little_dorrit/chapter_15_patriarchal/part_04">Part 4</a></li><li><a href="/testi/dickens/atomized/little_dorrit/chapter_15_patriarchal/part_05">Part 5</a></li><li><a href="/testi/dickens/atomized/little_dorrit/chapter_15_patriarchal/part_06">Part 6</a></li><li><a href="/testi/dickens/atomized/little_dorrit/chapter_15_patriarchal/part_07">Part 7</a></li><li><a href="/testi/dickens/atomized/little_dorrit/chapter_15_patriarchal/part_08">Part 8</a></li><li><a href="/testi/dickens/atomized/little_dorrit/chapter_15_patriarchal/part_09">Part 9</a></li></ul>
+</nav>
 
 
 CHAPTER 13. Patriarchal

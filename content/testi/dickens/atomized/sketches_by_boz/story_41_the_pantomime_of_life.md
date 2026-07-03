@@ -12,6 +12,10 @@ tags:
 <div class="excerpt-crumb">Dickens · <a href="/works/sketches-by-boz-(dickens)">Sketches by Boz</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/sketches_by_boz/story_40_21_407">‹ Story 40 21 407</a><a class="ex-next" href="/testi/dickens/atomized/sketches_by_boz/story_02_our_parish/part_01">part 01 ›</a></div>
 </nav>
+<nav class="excerpt-children">
+<div class="excerpt-children-label">In questa sezione</div>
+<ul><li><a href="/testi/dickens/atomized/sketches_by_boz/story_41_the_pantomime_of_life/part_01">Part 1</a></li><li><a href="/testi/dickens/atomized/sketches_by_boz/story_41_the_pantomime_of_life/part_02">Part 2</a></li><li><a href="/testi/dickens/atomized/sketches_by_boz/story_41_the_pantomime_of_life/part_03">Part 3</a></li><li><a href="/testi/dickens/atomized/sketches_by_boz/story_41_the_pantomime_of_life/part_04">Part 4</a></li><li><a href="/testi/dickens/atomized/sketches_by_boz/story_41_the_pantomime_of_life/part_05">Part 5</a></li><li><a href="/testi/dickens/atomized/sketches_by_boz/story_41_the_pantomime_of_life/part_06">Part 6</a></li><li><a href="/testi/dickens/atomized/sketches_by_boz/story_41_the_pantomime_of_life/part_07">Part 7</a></li><li><a href="/testi/dickens/atomized/sketches_by_boz/story_41_the_pantomime_of_life/part_08">Part 8</a></li></ul>
+</nav>
 
 
 THE PANTOMIME OF LIFE

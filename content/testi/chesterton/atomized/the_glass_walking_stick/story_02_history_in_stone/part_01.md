@@ -9,7 +9,7 @@ tags:
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/works/the-glass-walking-stick-(chesterton)">The Glass Walking Stick</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/the-glass-walking-stick-(chesterton)">The Glass Walking Stick</a> › <a href="/testi/chesterton/atomized/the_glass_walking_stick/story_02_history_in_stone">Story 02 History In Stone</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/the_glass_walking_stick/story_30_to_praise_exalt_establish_and_defend">‹ Story 30 To Praise Exalt Establish And Defend</a><a class="ex-next" href="/testi/chesterton/atomized/the_glass_walking_stick/story_02_history_in_stone/part_02">part 02 ›</a></div>
 </nav>
 

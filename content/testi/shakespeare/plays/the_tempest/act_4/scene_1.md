@@ -12,6 +12,10 @@ tags:
 <div class="excerpt-crumb">Shakespeare · <a href="/works/the-tempest-(shakespeare)">The Tempest</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/shakespeare/plays/the_tempest/act_3/scene_3">‹ Scene 3</a><a class="ex-next" href="/testi/shakespeare/plays/the_tempest/act_5/scene_1">Scene 1 ›</a></div>
 </nav>
+<nav class="excerpt-children">
+<div class="excerpt-children-label">In questa sezione</div>
+<ul><li><a href="/testi/shakespeare/plays/the_tempest/act_4/scene_1/01_exchange_dialogue">01 exchange dialogue</a></li><li><a href="/testi/shakespeare/plays/the_tempest/act_4/scene_1/02_exchange_ceres">02 exchange CERES</a></li><li><a href="/testi/shakespeare/plays/the_tempest/act_4/scene_1/03_exchange_ferdinand">03 exchange FERDINAND</a></li><li><a href="/testi/shakespeare/plays/the_tempest/act_4/scene_1/04_exchange_trinculo">04 exchange TRINCULO</a></li><li><a href="/testi/shakespeare/plays/the_tempest/act_4/scene_1/05_exchange_ariel">05 exchange ARIEL</a></li></ul>
+</nav>
 
 
 | Chi parla | Battuta |

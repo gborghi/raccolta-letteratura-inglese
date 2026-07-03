@@ -12,6 +12,10 @@ tags:
 <div class="excerpt-crumb">Whitman · <a href="/works/the-wound-dresser-(whitman)">The Wound Dresser</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/whitman/atomized/the_wound_dresser/story_06_class_success_i_have_known_tennessee_uni">‹ Story 06 class success I have known Tennessee Uni</a><a class="ex-next" href="/testi/whitman/atomized/the_wound_dresser/story_08_our_men_rescued_it_and_tore_it_from_the">Story 08 Our men rescued it and tore it from the ›</a></div>
 </nav>
+<nav class="excerpt-children">
+<div class="excerpt-children-label">In questa sezione</div>
+<ul><li><a href="/testi/whitman/atomized/the_wound_dresser/story_07_class_battle_he_told_me_if_i_would_only/part_01">Part 1</a></li><li><a href="/testi/whitman/atomized/the_wound_dresser/story_07_class_battle_he_told_me_if_i_would_only/part_02">Part 2</a></li><li><a href="/testi/whitman/atomized/the_wound_dresser/story_07_class_battle_he_told_me_if_i_would_only/part_03">Part 3</a></li><li><a href="/testi/whitman/atomized/the_wound_dresser/story_07_class_battle_he_told_me_if_i_would_only/part_04">Part 4</a></li></ul>
+</nav>
 
 
 first-class battle; he told me if I would only stay around here three or

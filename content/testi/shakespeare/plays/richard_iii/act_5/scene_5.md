@@ -12,6 +12,10 @@ tags:
 <div class="excerpt-crumb">Shakespeare · <a href="/works/richard-iii-(shakespeare)">Richard III</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/shakespeare/plays/richard_iii/act_5/scene_4">‹ Scene 4</a><a class="ex-next" href="/testi/shakespeare/plays/richard_iii/act_5/scene_6">Scene 6 ›</a></div>
 </nav>
+<nav class="excerpt-children">
+<div class="excerpt-children-label">In questa sezione</div>
+<ul><li><a href="/testi/shakespeare/plays/richard_iii/act_5/scene_5/01_exchange_dialogue">01 exchange dialogue</a></li><li><a href="/testi/shakespeare/plays/richard_iii/act_5/scene_5/02_exchange_ghost_of_prince_edward">02 exchange GHOST OF PRINCE EDWARD</a></li><li><a href="/testi/shakespeare/plays/richard_iii/act_5/scene_5/03_exchange_ghost_of_buckingham">03 exchange GHOST OF BUCKINGHAM</a></li><li><a href="/testi/shakespeare/plays/richard_iii/act_5/scene_5/04_monologue_king_richard">04 monologue KING RICHARD</a></li><li><a href="/testi/shakespeare/plays/richard_iii/act_5/scene_5/05_exchange_ratcliffe">05 exchange RATCLIFFE</a></li><li><a href="/testi/shakespeare/plays/richard_iii/act_5/scene_5/06_monologue_henry_earl_of_richmond">06 monologue HENRY EARL OF RICHMOND</a></li></ul>
+</nav>
 
 
 | Chi parla | Battuta |

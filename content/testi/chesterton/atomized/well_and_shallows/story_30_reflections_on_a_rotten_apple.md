@@ -12,6 +12,10 @@ tags:
 <div class="excerpt-crumb">Chesterton · <a href="/works/well-and-shallows-(chesterton)">Well And Shallows</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/well_and_shallows/story_29_a_grammar_of_knighthood">‹ Story 29 A Grammar Of Knighthood</a><a class="ex-next" href="/testi/chesterton/atomized/well_and_shallows/story_31_sex_and_property">Story 31 Sex And Property ›</a></div>
 </nav>
+<nav class="excerpt-children">
+<div class="excerpt-children-label">In questa sezione</div>
+<ul><li><a href="/testi/chesterton/atomized/well_and_shallows/story_30_reflections_on_a_rotten_apple/part_01">Part 1</a></li><li><a href="/testi/chesterton/atomized/well_and_shallows/story_30_reflections_on_a_rotten_apple/part_02">Part 2</a></li><li><a href="/testi/chesterton/atomized/well_and_shallows/story_30_reflections_on_a_rotten_apple/part_03">Part 3</a></li></ul>
+</nav>
 
 
 REFLECTIONS ON A ROTTEN APPLE

@@ -12,6 +12,10 @@ tags:
 <div class="excerpt-crumb">Dickens · <a href="/works/a-child's-history-of-england-(dickens)">A Childs History of England</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/a_childs_history_of_england/story_02_great_room_pig_and_tinder_box">‹ Story 02 Great Room Pig And Tinder Box</a><a class="ex-next" href="/testi/dickens/atomized/a_childs_history_of_england/story_04_front_parlour_black_boy_and_stomach_ache">Story 04 Front Parlour Black Boy And Stomach Ache ›</a></div>
 </nav>
+<nav class="excerpt-children">
+<div class="excerpt-children-label">In questa sezione</div>
+<ul><li><a href="/testi/dickens/atomized/a_childs_history_of_england/story_03_hay_loft_original_pig/part_01">Part 1</a></li><li><a href="/testi/dickens/atomized/a_childs_history_of_england/story_03_hay_loft_original_pig/part_02">Part 2</a></li><li><a href="/testi/dickens/atomized/a_childs_history_of_england/story_03_hay_loft_original_pig/part_03">Part 3</a></li><li><a href="/testi/dickens/atomized/a_childs_history_of_england/story_03_hay_loft_original_pig/part_04">Part 4</a></li><li><a href="/testi/dickens/atomized/a_childs_history_of_england/story_03_hay_loft_original_pig/part_05">Part 5</a></li></ul>
+</nav>
 
 
                          HAY-LOFT, ORIGINAL PIG.

@@ -12,6 +12,10 @@ tags:
 <div class="excerpt-crumb">Shakespeare · <a href="/works/antony-and-cleopatra-(shakespeare)">Antony and Cleopatra</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/shakespeare/plays/antony_and_cleopatra/act_4/scene_14">‹ Scene 14</a><a class="ex-next" href="/testi/shakespeare/plays/antony_and_cleopatra/act_4/scene_16">Scene 16 ›</a></div>
 </nav>
+<nav class="excerpt-children">
+<div class="excerpt-children-label">In questa sezione</div>
+<ul><li><a href="/testi/shakespeare/plays/antony_and_cleopatra/act_4/scene_15/01_exchange_dialogue">01 exchange dialogue</a></li><li><a href="/testi/shakespeare/plays/antony_and_cleopatra/act_4/scene_15/02_monologue_antony">02 monologue ANTONY</a></li><li><a href="/testi/shakespeare/plays/antony_and_cleopatra/act_4/scene_15/03_exchange_eros">03 exchange EROS</a></li><li><a href="/testi/shakespeare/plays/antony_and_cleopatra/act_4/scene_15/04_exchange_diomedes">04 exchange DIOMEDES</a></li></ul>
+</nav>
 
 
 | Chi parla | Battuta |

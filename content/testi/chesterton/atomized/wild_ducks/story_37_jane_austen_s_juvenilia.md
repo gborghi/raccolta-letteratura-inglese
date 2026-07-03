@@ -12,6 +12,10 @@ tags:
 <div class="excerpt-crumb">Chesterton · <a href="/works/wild-ducks-(chesterton)">Wild Ducks</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/wild_ducks/story_36_the_great_translation">‹ Story 36 The Great Translation</a><a class="ex-next" href="/testi/chesterton/atomized/wild_ducks/story_38_the_countrymen_of_mary_webb_and_thomas_h">Story 38 The Countrymen of Mary Webb and Thomas H ›</a></div>
 </nav>
+<nav class="excerpt-children">
+<div class="excerpt-children-label">In questa sezione</div>
+<ul><li><a href="/testi/chesterton/atomized/wild_ducks/story_37_jane_austen_s_juvenilia/part_01">Part 1</a></li><li><a href="/testi/chesterton/atomized/wild_ducks/story_37_jane_austen_s_juvenilia/part_02">Part 2</a></li></ul>
+</nav>
 
 
 Jane Austen's Juvenilia

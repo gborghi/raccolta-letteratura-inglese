@@ -12,6 +12,10 @@ tags:
 <div class="excerpt-crumb">Chesterton · <a href="/works/the-thing-(chesterton)">The Thing</a></div>
 <div class="excerpt-pn"><span></span><a class="ex-next" href="/testi/chesterton/atomized/the_thing/story_02_is_humanism_a_religion">Story 02 Is HUMANISM A RELIGION ›</a></div>
 </nav>
+<nav class="excerpt-children">
+<div class="excerpt-children-label">In questa sezione</div>
+<ul><li><a href="/testi/chesterton/atomized/the_thing/story_01_introduction/part_01">Part 1</a></li><li><a href="/testi/chesterton/atomized/the_thing/story_01_introduction/part_02">Part 2</a></li><li><a href="/testi/chesterton/atomized/the_thing/story_01_introduction/part_03">Part 3</a></li><li><a href="/testi/chesterton/atomized/the_thing/story_01_introduction/part_04">Part 4</a></li></ul>
+</nav>
 
 
 INTRODUCTION

@@ -9,7 +9,7 @@ tags:
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/works/queertrades-(chesterton)">The Club of Queer Trades</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/queertrades-(chesterton)">The Club of Queer Trades</a> › <a href="/testi/chesterton/atomized/queertrades/story_02_chapter_2">Story 02 Chapter 2</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/queertrades/story_02_chapter_2/part_02">‹ part 02</a><a class="ex-next" href="/testi/chesterton/atomized/queertrades/story_02_chapter_2/part_04">part 04 ›</a></div>
 </nav>
 

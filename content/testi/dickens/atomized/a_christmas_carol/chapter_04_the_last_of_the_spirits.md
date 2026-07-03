@@ -12,6 +12,10 @@ tags:
 <div class="excerpt-crumb">Dickens · <a href="/works/a-christmas-carol-(dickens)">A Christmas Carol</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/a_christmas_carol/chapter_03_the_second_of_the_three_spirit">‹ Chapter 03 THE SECOND OF THE THREE SPIRIT</a><a class="ex-next" href="/testi/dickens/atomized/a_christmas_carol/chapter_05_the_end_of_it">Chapter 05 THE END OF IT ›</a></div>
 </nav>
+<nav class="excerpt-children">
+<div class="excerpt-children-label">In questa sezione</div>
+<ul><li><a href="/testi/dickens/atomized/a_christmas_carol/chapter_04_the_last_of_the_spirits/part_01">Part 1</a></li><li><a href="/testi/dickens/atomized/a_christmas_carol/chapter_04_the_last_of_the_spirits/part_02">Part 2</a></li><li><a href="/testi/dickens/atomized/a_christmas_carol/chapter_04_the_last_of_the_spirits/part_03">Part 3</a></li><li><a href="/testi/dickens/atomized/a_christmas_carol/chapter_04_the_last_of_the_spirits/part_04">Part 4</a></li><li><a href="/testi/dickens/atomized/a_christmas_carol/chapter_04_the_last_of_the_spirits/part_05">Part 5</a></li></ul>
+</nav>
 
 
 STAVE IV:  THE LAST OF THE SPIRITS

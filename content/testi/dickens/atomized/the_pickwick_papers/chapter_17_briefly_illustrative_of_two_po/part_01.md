@@ -9,7 +9,7 @@ tags:
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Dickens · <a href="/works/the-pickwick-papers-(dickens)">The Pickwick Papers</a></div>
+<div class="excerpt-crumb">Dickens · <a href="/works/the-pickwick-papers-(dickens)">The Pickwick Papers</a> › <a href="/testi/dickens/atomized/the_pickwick_papers/chapter_17_briefly_illustrative_of_two_po">Chapter 17 BRIEFLY ILLUSTRATIVE OF TWO PO</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/the_pickwick_papers/chapter_16_showing_that_an_attack_of_rheu/part_03">‹ part 03</a><a class="ex-next" href="/testi/dickens/atomized/the_pickwick_papers/chapter_17_briefly_illustrative_of_two_po/part_02">part 02 ›</a></div>
 </nav>
 

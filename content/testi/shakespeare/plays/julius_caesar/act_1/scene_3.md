@@ -12,6 +12,10 @@ tags:
 <div class="excerpt-crumb">Shakespeare · <a href="/works/julius-caesar-(shakespeare)">Julius Caesar</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/shakespeare/plays/julius_caesar/act_1/scene_1">‹ Scene 1</a><a class="ex-next" href="/testi/shakespeare/plays/julius_caesar/act_2/scene_1">Scene 1 ›</a></div>
 </nav>
+<nav class="excerpt-children">
+<div class="excerpt-children-label">In questa sezione</div>
+<ul><li><a href="/testi/shakespeare/plays/julius_caesar/act_1/scene_3/01_exchange_dialogue">01 exchange dialogue</a></li><li><a href="/testi/shakespeare/plays/julius_caesar/act_1/scene_3/02_monologue_cassius">02 monologue CASSIUS</a></li><li><a href="/testi/shakespeare/plays/julius_caesar/act_1/scene_3/03_exchange_casca">03 exchange CASCA</a></li><li><a href="/testi/shakespeare/plays/julius_caesar/act_1/scene_3/04_exchange_cinna">04 exchange CINNA</a></li></ul>
+</nav>
 
 
 | Chi parla | Battuta |

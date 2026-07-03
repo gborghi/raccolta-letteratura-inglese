@@ -9,7 +9,7 @@ tags:
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/works/fourfaultlessfelons-(chesterton)">FourFaultlessFelons</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/fourfaultlessfelons-(chesterton)">FourFaultlessFelons</a> › <a href="/testi/chesterton/atomized/fourfaultlessfelons/story_09_iv_the_disease_of_duodiapsychosis">Story 09 Iv The Disease Of Duodiapsychosis</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/fourfaultlessfelons/story_09_iv_the_disease_of_duodiapsychosis/part_02">‹ part 02</a><a class="ex-next" href="/testi/chesterton/atomized/fourfaultlessfelons/story_11_an_hour_harrington/part_01">part 01 ›</a></div>
 </nav>
 

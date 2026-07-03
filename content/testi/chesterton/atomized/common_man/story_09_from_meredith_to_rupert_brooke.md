@@ -12,6 +12,10 @@ tags:
 <div class="excerpt-crumb">Chesterton · <a href="/works/common-man-(chesterton)">Common Man</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/common_man/story_08_god_and_goods">‹ Story 08 God And Goods</a><a class="ex-next" href="/testi/chesterton/atomized/common_man/story_10_the_dangers_of_necromancy">Story 10 The Dangers Of Necromancy ›</a></div>
 </nav>
+<nav class="excerpt-children">
+<div class="excerpt-children-label">In questa sezione</div>
+<ul><li><a href="/testi/chesterton/atomized/common_man/story_09_from_meredith_to_rupert_brooke/part_01">Part 1</a></li><li><a href="/testi/chesterton/atomized/common_man/story_09_from_meredith_to_rupert_brooke/part_02">Part 2</a></li><li><a href="/testi/chesterton/atomized/common_man/story_09_from_meredith_to_rupert_brooke/part_03">Part 3</a></li><li><a href="/testi/chesterton/atomized/common_man/story_09_from_meredith_to_rupert_brooke/part_04">Part 4</a></li></ul>
+</nav>
 
 
 FROM MEREDITH TO RUPERT BROOKE

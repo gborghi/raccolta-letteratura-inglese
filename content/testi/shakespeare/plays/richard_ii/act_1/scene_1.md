@@ -12,6 +12,10 @@ tags:
 <div class="excerpt-crumb">Shakespeare · <a href="/works/richard-ii-(shakespeare)">Richard II</a></div>
 <div class="excerpt-pn"><span></span><a class="ex-next" href="/testi/shakespeare/plays/richard_ii/act_1/scene_2">Scene 2 ›</a></div>
 </nav>
+<nav class="excerpt-children">
+<div class="excerpt-children-label">In questa sezione</div>
+<ul><li><a href="/testi/shakespeare/plays/richard_ii/act_1/scene_1/01_exchange_dialogue">01 exchange dialogue</a></li><li><a href="/testi/shakespeare/plays/richard_ii/act_1/scene_1/02_monologue_mowbray">02 monologue MOWBRAY</a></li><li><a href="/testi/shakespeare/plays/richard_ii/act_1/scene_1/03_exchange_bolingbroke">03 exchange BOLINGBROKE</a></li><li><a href="/testi/shakespeare/plays/richard_ii/act_1/scene_1/04_monologue_bolingbroke">04 monologue BOLINGBROKE</a></li><li><a href="/testi/shakespeare/plays/richard_ii/act_1/scene_1/05_exchange_king_richard">05 exchange KING RICHARD</a></li><li><a href="/testi/shakespeare/plays/richard_ii/act_1/scene_1/06_monologue_mowbray">06 monologue MOWBRAY</a></li><li><a href="/testi/shakespeare/plays/richard_ii/act_1/scene_1/07_exchange_king_richard">07 exchange KING RICHARD</a></li></ul>
+</nav>
 
 
 | Chi parla | Battuta |

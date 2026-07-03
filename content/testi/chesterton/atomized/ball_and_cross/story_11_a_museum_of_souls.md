@@ -12,6 +12,10 @@ tags:
 <div class="excerpt-crumb">Chesterton · <a href="/works/ball-and-cross-(chesterton)">The Ball and the Cross</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/ball_and_cross/story_10_a_scandal_in_the_village">‹ Story 10 A Scandal in the Village</a><a class="ex-next" href="/testi/chesterton/atomized/ball_and_cross/story_12_the_dream_of_macian">Story 12 The Dream of MacIan ›</a></div>
 </nav>
+<nav class="excerpt-children">
+<div class="excerpt-children-label">In questa sezione</div>
+<ul><li><a href="/testi/chesterton/atomized/ball_and_cross/story_11_a_museum_of_souls/part_01">Part 1</a></li><li><a href="/testi/chesterton/atomized/ball_and_cross/story_11_a_museum_of_souls/part_02">Part 2</a></li><li><a href="/testi/chesterton/atomized/ball_and_cross/story_11_a_museum_of_souls/part_03">Part 3</a></li><li><a href="/testi/chesterton/atomized/ball_and_cross/story_11_a_museum_of_souls/part_04">Part 4</a></li></ul>
+</nav>
 
 
 XIV.  A MUSEUM OF SOULS

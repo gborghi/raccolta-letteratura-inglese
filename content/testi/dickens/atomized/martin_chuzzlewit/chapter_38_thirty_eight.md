@@ -12,6 +12,10 @@ tags:
 <div class="excerpt-crumb">Dickens · <a href="/works/martin-chuzzlewit-(dickens)">Martin Chuzzlewit</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/martin_chuzzlewit/chapter_37_thirty_seven">‹ Chapter 37 THIRTY SEVEN</a><a class="ex-next" href="/testi/dickens/atomized/martin_chuzzlewit/chapter_39_thirty_nine">Chapter 39 THIRTY NINE ›</a></div>
 </nav>
+<nav class="excerpt-children">
+<div class="excerpt-children-label">In questa sezione</div>
+<ul><li><a href="/testi/dickens/atomized/martin_chuzzlewit/chapter_38_thirty_eight/part_01">Part 1</a></li><li><a href="/testi/dickens/atomized/martin_chuzzlewit/chapter_38_thirty_eight/part_02">Part 2</a></li><li><a href="/testi/dickens/atomized/martin_chuzzlewit/chapter_38_thirty_eight/part_03">Part 3</a></li><li><a href="/testi/dickens/atomized/martin_chuzzlewit/chapter_38_thirty_eight/part_04">Part 4</a></li></ul>
+</nav>
 
 
 CHAPTER THIRTY-EIGHT

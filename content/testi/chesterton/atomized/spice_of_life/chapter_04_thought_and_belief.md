@@ -12,6 +12,10 @@ tags:
 <div class="excerpt-crumb">Chesterton · <a href="/works/spice-of-life-(chesterton)">Spice Of Life</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/spice_of_life/chapter_03_particular_books_and_writers">‹ Chapter 03 PARTICULAR BOOKS AND WRITERS</a><a class="ex-next" href="/testi/chesterton/atomized/spice_of_life/chapter_05_at_home_and_abroad">Chapter 05 AT HOME AND ABROAD ›</a></div>
 </nav>
+<nav class="excerpt-children">
+<div class="excerpt-children-label">In questa sezione</div>
+<ul><li><a href="/testi/chesterton/atomized/spice_of_life/chapter_04_thought_and_belief/part_01">Part 1</a></li><li><a href="/testi/chesterton/atomized/spice_of_life/chapter_04_thought_and_belief/part_02">Part 2</a></li><li><a href="/testi/chesterton/atomized/spice_of_life/chapter_04_thought_and_belief/part_03">Part 3</a></li><li><a href="/testi/chesterton/atomized/spice_of_life/chapter_04_thought_and_belief/part_04">Part 4</a></li><li><a href="/testi/chesterton/atomized/spice_of_life/chapter_04_thought_and_belief/part_05">Part 5</a></li><li><a href="/testi/chesterton/atomized/spice_of_life/chapter_04_thought_and_belief/part_06">Part 6</a></li><li><a href="/testi/chesterton/atomized/spice_of_life/chapter_04_thought_and_belief/part_07">Part 7</a></li><li><a href="/testi/chesterton/atomized/spice_of_life/chapter_04_thought_and_belief/part_08">Part 8</a></li><li><a href="/testi/chesterton/atomized/spice_of_life/chapter_04_thought_and_belief/part_09">Part 9</a></li><li><a href="/testi/chesterton/atomized/spice_of_life/chapter_04_thought_and_belief/part_10">Part 10</a></li></ul>
+</nav>
 
 
 PART THREE:  THOUGHT AND BELIEF

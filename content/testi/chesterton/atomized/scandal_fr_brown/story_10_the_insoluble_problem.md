@@ -12,6 +12,10 @@ tags:
 <div class="excerpt-crumb">Chesterton · <a href="/works/scandal-fr-brown-(chesterton)">scandal Fr Brown</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/scandal_fr_brown/story_09_i_mean_it_s_easy_to_say_you_ve_thrown_it">‹ Story 09 I mean it s easy to say you ve thrown it</a><a class="ex-next" href="/testi/chesterton/atomized/scandal_fr_brown/story_11_the_vampire_of_the_village">Story 11 The Vampire of the Village ›</a></div>
 </nav>
+<nav class="excerpt-children">
+<div class="excerpt-children-label">In questa sezione</div>
+<ul><li><a href="/testi/chesterton/atomized/scandal_fr_brown/story_10_the_insoluble_problem/part_01">Part 1</a></li><li><a href="/testi/chesterton/atomized/scandal_fr_brown/story_10_the_insoluble_problem/part_02">Part 2</a></li><li><a href="/testi/chesterton/atomized/scandal_fr_brown/story_10_the_insoluble_problem/part_03">Part 3</a></li><li><a href="/testi/chesterton/atomized/scandal_fr_brown/story_10_the_insoluble_problem/part_04">Part 4</a></li><li><a href="/testi/chesterton/atomized/scandal_fr_brown/story_10_the_insoluble_problem/part_05">Part 5</a></li><li><a href="/testi/chesterton/atomized/scandal_fr_brown/story_10_the_insoluble_problem/part_06">Part 6</a></li></ul>
+</nav>
 
 
 EIGHT: The Insoluble Problem

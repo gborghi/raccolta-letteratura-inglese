@@ -14,6 +14,10 @@ tags:
 <div class="excerpt-crumb">Sayers · <a href="/works/the-mind-of-the-maker-(sayers)">The Mind of the Maker</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/sayers/atomized/the_mind_of_the_maker/chapter_10_the_love_of_the_creature">‹ Chapter 10 The Love of the Creature</a><a class="ex-next" href="/testi/sayers/atomized/the_mind_of_the_maker/chapter_12_problem_picture">Chapter 12 Problem Picture ›</a></div>
 </nav>
+<nav class="excerpt-children">
+<div class="excerpt-children-label">In questa sezione</div>
+<ul><li><a href="/testi/sayers/atomized/the_mind_of_the_maker/chapter_11_scalene_trinities/part_01">Part 1</a></li><li><a href="/testi/sayers/atomized/the_mind_of_the_maker/chapter_11_scalene_trinities/part_02">Part 2</a></li><li><a href="/testi/sayers/atomized/the_mind_of_the_maker/chapter_11_scalene_trinities/part_03">Part 3</a></li><li><a href="/testi/sayers/atomized/the_mind_of_the_maker/chapter_11_scalene_trinities/part_04">Part 4</a></li><li><a href="/testi/sayers/atomized/the_mind_of_the_maker/chapter_11_scalene_trinities/part_05">Part 5</a></li><li><a href="/testi/sayers/atomized/the_mind_of_the_maker/chapter_11_scalene_trinities/part_06">Part 6</a></li><li><a href="/testi/sayers/atomized/the_mind_of_the_maker/chapter_11_scalene_trinities/part_07">Part 7</a></li><li><a href="/testi/sayers/atomized/the_mind_of_the_maker/chapter_11_scalene_trinities/part_08">Part 8</a></li></ul>
+</nav>
 
 
 CHAPTER 11. Scalene Trinities

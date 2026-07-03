@@ -12,6 +12,10 @@ tags:
 <div class="excerpt-crumb">Bronte · <a href="/works/agnes-grey-(bronte)">Agnes Grey</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/bronte/atomized/agnes_grey/chapter_13">‹ Chapter 13</a><a class="ex-next" href="/testi/bronte/atomized/agnes_grey/chapter_15_ll_come_and_meet_you_when_ive">Chapter 15 ll come and meet you when Ive ›</a></div>
 </nav>
+<nav class="excerpt-children">
+<div class="excerpt-children-label">In questa sezione</div>
+<ul><li><a href="/testi/bronte/atomized/agnes_grey/chapter_14/part_01">Part 1</a></li><li><a href="/testi/bronte/atomized/agnes_grey/chapter_14/part_02">Part 2</a></li></ul>
+</nav>
 
 
 CHAPTER XIV.

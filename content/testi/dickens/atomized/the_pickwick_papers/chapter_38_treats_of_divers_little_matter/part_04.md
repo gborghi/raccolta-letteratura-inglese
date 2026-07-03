@@ -9,7 +9,7 @@ tags:
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Dickens · <a href="/works/the-pickwick-papers-(dickens)">The Pickwick Papers</a></div>
+<div class="excerpt-crumb">Dickens · <a href="/works/the-pickwick-papers-(dickens)">The Pickwick Papers</a> › <a href="/testi/dickens/atomized/the_pickwick_papers/chapter_38_treats_of_divers_little_matter">Chapter 38 TREATS OF DIVERS LITTLE MATTER</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/the_pickwick_papers/chapter_38_treats_of_divers_little_matter/part_03">‹ part 03</a><a class="ex-next" href="/testi/dickens/atomized/the_pickwick_papers/chapter_38_treats_of_divers_little_matter/part_05">part 05 ›</a></div>
 </nav>
 

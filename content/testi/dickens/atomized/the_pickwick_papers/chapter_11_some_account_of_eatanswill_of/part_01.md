@@ -9,7 +9,7 @@ tags:
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Dickens · <a href="/works/the-pickwick-papers-(dickens)">The Pickwick Papers</a></div>
+<div class="excerpt-crumb">Dickens · <a href="/works/the-pickwick-papers-(dickens)">The Pickwick Papers</a> › <a href="/testi/dickens/atomized/the_pickwick_papers/chapter_11_some_account_of_eatanswill_of">Chapter 11 SOME ACCOUNT OF EATANSWILL OF</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/the_pickwick_papers/chapter_10_descriptive_of_a_very_importan/part_02">‹ part 02</a><a class="ex-next" href="/testi/dickens/atomized/the_pickwick_papers/chapter_11_some_account_of_eatanswill_of/part_02">part 02 ›</a></div>
 </nav>
 

@@ -9,7 +9,7 @@ tags:
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Dickens · <a href="/works/little-dorrit-(dickens)">Little Dorrit</a></div>
+<div class="excerpt-crumb">Dickens · <a href="/works/little-dorrit-(dickens)">Little Dorrit</a> › <a href="/testi/dickens/atomized/little_dorrit/chapter_19_nobodys_rival">Chapter 19 Nobodys Rival</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/little_dorrit/chapter_18_nobodys_weakness/part_05">‹ part 05</a><a class="ex-next" href="/testi/dickens/atomized/little_dorrit/chapter_19_nobodys_rival/part_02">part 02 ›</a></div>
 </nav>
 

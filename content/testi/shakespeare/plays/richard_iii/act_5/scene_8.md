@@ -12,6 +12,10 @@ tags:
 <div class="excerpt-crumb">Shakespeare · <a href="/works/richard-iii-(shakespeare)">Richard III</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/shakespeare/plays/richard_iii/act_5/scene_7">‹ Scene 7</a><span></span></div>
 </nav>
+<nav class="excerpt-children">
+<div class="excerpt-children-label">In questa sezione</div>
+<ul><li><a href="/testi/shakespeare/plays/richard_iii/act_5/scene_8/01_exchange_dialogue">01 exchange dialogue</a></li><li><a href="/testi/shakespeare/plays/richard_iii/act_5/scene_8/02_monologue_king_henry_the_seventh">02 monologue KING HENRY THE SEVENTH</a></li><li><a href="/testi/shakespeare/plays/richard_iii/act_5/scene_8/03_exchange_additional_passages">03 exchange ADDITIONAL PASSAGES</a></li><li><a href="/testi/shakespeare/plays/richard_iii/act_5/scene_8/04_exchange_queen_elizabeth">04 exchange QUEEN ELIZABETH</a></li><li><a href="/testi/shakespeare/plays/richard_iii/act_5/scene_8/05_monologue_king_richard">05 monologue KING RICHARD</a></li><li><a href="/testi/shakespeare/plays/richard_iii/act_5/scene_8/06_exchange_queen_elizabeth">06 exchange QUEEN ELIZABETH</a></li><li><a href="/testi/shakespeare/plays/richard_iii/act_5/scene_8/07_monologue_with">07 monologue WITH</a></li><li><a href="/testi/shakespeare/plays/richard_iii/act_5/scene_8/08_exchange_to_the_right_honourable">08 exchange TO THE RIGHT HONOURABLE</a></li></ul>
+</nav>
 
 
 | Chi parla | Battuta |

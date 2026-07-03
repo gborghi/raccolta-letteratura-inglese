@@ -12,6 +12,10 @@ tags:
 <div class="excerpt-crumb">Dickens · <a href="/works/the-pickwick-papers-(dickens)">The Pickwick Papers</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/the_pickwick_papers/chapter_25_samuel_weller_makes_a_pilgrima">‹ Chapter 25 SAMUEL WELLER MAKES A PILGRIMA</a><a class="ex-next" href="/testi/dickens/atomized/the_pickwick_papers/chapter_27_the_story_of_the_goblins_who_s">Chapter 27 THE STORY OF THE GOBLINS WHO S ›</a></div>
 </nav>
+<nav class="excerpt-children">
+<div class="excerpt-children-label">In questa sezione</div>
+<ul><li><a href="/testi/dickens/atomized/the_pickwick_papers/chapter_26_a_good_humoured_christmas_chap/part_01">Part 1</a></li><li><a href="/testi/dickens/atomized/the_pickwick_papers/chapter_26_a_good_humoured_christmas_chap/part_02">Part 2</a></li><li><a href="/testi/dickens/atomized/the_pickwick_papers/chapter_26_a_good_humoured_christmas_chap/part_03">Part 3</a></li><li><a href="/testi/dickens/atomized/the_pickwick_papers/chapter_26_a_good_humoured_christmas_chap/part_04">Part 4</a></li><li><a href="/testi/dickens/atomized/the_pickwick_papers/chapter_26_a_good_humoured_christmas_chap/part_05">Part 5</a></li><li><a href="/testi/dickens/atomized/the_pickwick_papers/chapter_26_a_good_humoured_christmas_chap/part_06">Part 6</a></li><li><a href="/testi/dickens/atomized/the_pickwick_papers/chapter_26_a_good_humoured_christmas_chap/part_07">Part 7</a></li><li><a href="/testi/dickens/atomized/the_pickwick_papers/chapter_26_a_good_humoured_christmas_chap/part_08">Part 8</a></li></ul>
+</nav>
 
 
 CHAPTER XXVIII. A GOOD-HUMOURED CHRISTMAS CHAPTER, CONTAINING AN ACCOUNT

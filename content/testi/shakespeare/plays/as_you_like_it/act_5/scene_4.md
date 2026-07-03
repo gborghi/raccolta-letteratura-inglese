@@ -12,6 +12,10 @@ tags:
 <div class="excerpt-crumb">Shakespeare · <a href="/works/as-you-like-it-(shakespeare)">As You Like It</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/shakespeare/plays/as_you_like_it/act_5/scene_3">‹ Scene 3</a><span></span></div>
 </nav>
+<nav class="excerpt-children">
+<div class="excerpt-children-label">In questa sezione</div>
+<ul><li><a href="/testi/shakespeare/plays/as_you_like_it/act_5/scene_4/01_exchange_dialogue">01 exchange dialogue</a></li><li><a href="/testi/shakespeare/plays/as_you_like_it/act_5/scene_4/02_exchange_duke_senior">02 exchange DUKE SENIOR</a></li><li><a href="/testi/shakespeare/plays/as_you_like_it/act_5/scene_4/03_exchange_hymen">03 exchange HYMEN</a></li><li><a href="/testi/shakespeare/plays/as_you_like_it/act_5/scene_4/04_exchange_duke_senior">04 exchange DUKE SENIOR</a></li><li><a href="/testi/shakespeare/plays/as_you_like_it/act_5/scene_4/05_monologue_rosalind">05 monologue ROSALIND</a></li><li><a href="/testi/shakespeare/plays/as_you_like_it/act_5/scene_4/06_exchange_hamlet">06 exchange HAMLET</a></li><li><a href="/testi/shakespeare/plays/as_you_like_it/act_5/scene_4/07_monologue_several">07 monologue SEVERAL</a></li><li><a href="/testi/shakespeare/plays/as_you_like_it/act_5/scene_4/08_exchange_the_persons_of_the_play">08 exchange THE PERSONS OF THE PLAY</a></li></ul>
+</nav>
 
 
 | Chi parla | Battuta |

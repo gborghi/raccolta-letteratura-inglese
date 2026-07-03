@@ -12,6 +12,10 @@ tags:
 <div class="excerpt-crumb">Chesterton · <a href="/works/the-flying-inn-(chesterton)">The Flying Inn</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/the_flying_inn/chapter_23_the_march_on_ivywood">‹ Chapter 23 THE MARCH ON IVYWOOD</a><a class="ex-next" href="/testi/chesterton/atomized/the_flying_inn/chapter_25_the_finding_of_the_superman">Chapter 25 THE FINDING OF THE SUPERMAN ›</a></div>
 </nav>
+<nav class="excerpt-children">
+<div class="excerpt-children-label">In questa sezione</div>
+<ul><li><a href="/testi/chesterton/atomized/the_flying_inn/chapter_24_the_enigmas_of_lady_joan/part_01">Part 1</a></li><li><a href="/testi/chesterton/atomized/the_flying_inn/chapter_24_the_enigmas_of_lady_joan/part_02">Part 2</a></li><li><a href="/testi/chesterton/atomized/the_flying_inn/chapter_24_the_enigmas_of_lady_joan/part_03">Part 3</a></li><li><a href="/testi/chesterton/atomized/the_flying_inn/chapter_24_the_enigmas_of_lady_joan/part_04">Part 4</a></li></ul>
+</nav>
 
 
 CHAPTER XXIV: THE ENIGMAS OF LADY JOAN

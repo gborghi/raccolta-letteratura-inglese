@@ -12,6 +12,10 @@ tags:
 <div class="excerpt-crumb">Shakespeare · <a href="/works/the-merry-wives-of-windsor-(shakespeare)">The Merry Wives of Windsor</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/shakespeare/plays/the_merry_wives_of_windsor/act_1/scene_3">‹ Scene 3</a><a class="ex-next" href="/testi/shakespeare/plays/the_merry_wives_of_windsor/act_2/scene_1">Scene 1 ›</a></div>
 </nav>
+<nav class="excerpt-children">
+<div class="excerpt-children-label">In questa sezione</div>
+<ul><li><a href="/testi/shakespeare/plays/the_merry_wives_of_windsor/act_1/scene_4/01_exchange_dialogue">01 exchange dialogue</a></li><li><a href="/testi/shakespeare/plays/the_merry_wives_of_windsor/act_1/scene_4/02_exchange_mistress_quickly">02 exchange MISTRESS QUICKLY</a></li><li><a href="/testi/shakespeare/plays/the_merry_wives_of_windsor/act_1/scene_4/03_exchange_fenton">03 exchange FENTON</a></li></ul>
+</nav>
 
 
 | Chi parla | Battuta |

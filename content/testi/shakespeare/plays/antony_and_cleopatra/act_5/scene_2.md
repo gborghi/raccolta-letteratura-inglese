@@ -12,6 +12,10 @@ tags:
 <div class="excerpt-crumb">Shakespeare · <a href="/works/antony-and-cleopatra-(shakespeare)">Antony and Cleopatra</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/shakespeare/plays/antony_and_cleopatra/act_5/scene_1">‹ Scene 1</a><span></span></div>
 </nav>
+<nav class="excerpt-children">
+<div class="excerpt-children-label">In questa sezione</div>
+<ul><li><a href="/testi/shakespeare/plays/antony_and_cleopatra/act_5/scene_2/01_exchange_dialogue">01 exchange dialogue</a></li><li><a href="/testi/shakespeare/plays/antony_and_cleopatra/act_5/scene_2/02_exchange_proculeius">02 exchange PROCULEIUS</a></li><li><a href="/testi/shakespeare/plays/antony_and_cleopatra/act_5/scene_2/03_exchange_cleopatra">03 exchange CLEOPATRA</a></li><li><a href="/testi/shakespeare/plays/antony_and_cleopatra/act_5/scene_2/04_exchange_cleopatra">04 exchange CLEOPATRA</a></li><li><a href="/testi/shakespeare/plays/antony_and_cleopatra/act_5/scene_2/05_exchange_cleopatra">05 exchange CLEOPATRA</a></li><li><a href="/testi/shakespeare/plays/antony_and_cleopatra/act_5/scene_2/06_exchange_cleopatra">06 exchange CLEOPATRA</a></li><li><a href="/testi/shakespeare/plays/antony_and_cleopatra/act_5/scene_2/07_monologue_alls_well_that_ends_well">07 monologue ALLS WELL THAT ENDS WELL</a></li><li><a href="/testi/shakespeare/plays/antony_and_cleopatra/act_5/scene_2/08_exchange_the_persons_of_the_play">08 exchange THE PERSONS OF THE PLAY</a></li></ul>
+</nav>
 
 
 | Chi parla | Battuta |

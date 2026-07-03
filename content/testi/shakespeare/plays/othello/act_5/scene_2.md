@@ -12,6 +12,10 @@ tags:
 <div class="excerpt-crumb">Shakespeare · <a href="/works/othello-(shakespeare)">Othello</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/shakespeare/plays/othello/act_5/scene_1">‹ Scene 1</a><span></span></div>
 </nav>
+<nav class="excerpt-children">
+<div class="excerpt-children-label">In questa sezione</div>
+<ul><li><a href="/testi/shakespeare/plays/othello/act_5/scene_2/01_exchange_dialogue">01 exchange dialogue</a></li><li><a href="/testi/shakespeare/plays/othello/act_5/scene_2/02_monologue_othello">02 monologue OTHELLO</a></li><li><a href="/testi/shakespeare/plays/othello/act_5/scene_2/03_exchange_desdemona">03 exchange DESDEMONA</a></li><li><a href="/testi/shakespeare/plays/othello/act_5/scene_2/04_exchange_desdemona">04 exchange DESDEMONA</a></li><li><a href="/testi/shakespeare/plays/othello/act_5/scene_2/05_exchange_emilia">05 exchange EMILIA</a></li><li><a href="/testi/shakespeare/plays/othello/act_5/scene_2/06_exchange_othello">06 exchange OTHELLO</a></li><li><a href="/testi/shakespeare/plays/othello/act_5/scene_2/07_monologue_othello">07 monologue OTHELLO</a></li><li><a href="/testi/shakespeare/plays/othello/act_5/scene_2/08_exchange_lodovico">08 exchange LODOVICO</a></li><li><a href="/testi/shakespeare/plays/othello/act_5/scene_2/09_exchange_lodovico_o">09 exchange LODOVICO O</a></li><li><a href="/testi/shakespeare/plays/othello/act_5/scene_2/10_monologue_the_quarto_text">10 monologue THE QUARTO TEXT</a></li><li><a href="/testi/shakespeare/plays/othello/act_5/scene_2/11_exchange_the_persons_of_the_play">11 exchange THE PERSONS OF THE PLAY</a></li></ul>
+</nav>
 
 
 | Chi parla | Battuta |

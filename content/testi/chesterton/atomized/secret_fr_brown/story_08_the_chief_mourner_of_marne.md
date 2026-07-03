@@ -12,6 +12,10 @@ tags:
 <div class="excerpt-crumb">Chesterton · <a href="/works/secret-fr-brown-(chesterton)">secret Fr Brown</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/secret_fr_brown/story_07_the_red_moon_moon_of_meru">‹ Story 07 THE RED Moon MOON OF MERU</a><a class="ex-next" href="/testi/chesterton/atomized/secret_fr_brown/story_01_the_mirror_mirror_of_the_magistrate/part_01">part 01 ›</a></div>
 </nav>
+<nav class="excerpt-children">
+<div class="excerpt-children-label">In questa sezione</div>
+<ul><li><a href="/testi/chesterton/atomized/secret_fr_brown/story_08_the_chief_mourner_of_marne/part_01">Part 1</a></li><li><a href="/testi/chesterton/atomized/secret_fr_brown/story_08_the_chief_mourner_of_marne/part_02">Part 2</a></li><li><a href="/testi/chesterton/atomized/secret_fr_brown/story_08_the_chief_mourner_of_marne/part_03">Part 3</a></li><li><a href="/testi/chesterton/atomized/secret_fr_brown/story_08_the_chief_mourner_of_marne/part_04">Part 4</a></li><li><a href="/testi/chesterton/atomized/secret_fr_brown/story_08_the_chief_mourner_of_marne/part_05">Part 5</a></li><li><a href="/testi/chesterton/atomized/secret_fr_brown/story_08_the_chief_mourner_of_marne/part_06">Part 6</a></li><li><a href="/testi/chesterton/atomized/secret_fr_brown/story_08_the_chief_mourner_of_marne/part_07">Part 7</a></li><li><a href="/testi/chesterton/atomized/secret_fr_brown/story_08_the_chief_mourner_of_marne/part_08">Part 8</a></li><li><a href="/testi/chesterton/atomized/secret_fr_brown/story_08_the_chief_mourner_of_marne/part_09">Part 9</a></li><li><a href="/testi/chesterton/atomized/secret_fr_brown/story_08_the_chief_mourner_of_marne/part_10">Part 10</a></li></ul>
+</nav>
 
 
 VIII THE CHIEF MOURNER OF MARNE

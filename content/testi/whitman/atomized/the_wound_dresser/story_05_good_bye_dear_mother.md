@@ -12,6 +12,10 @@ tags:
 <div class="excerpt-crumb">Whitman · <a href="/works/the-wound-dresser-(whitman)">The Wound Dresser</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/whitman/atomized/the_wound_dresser/story_04_pound_bag_of_gingersnaps_i_bought_at_a_b">‹ Story 04 pound bag of gingersnaps I bought at a b</a><a class="ex-next" href="/testi/whitman/atomized/the_wound_dresser/story_06_class_success_i_have_known_tennessee_uni">Story 06 class success I have known Tennessee Uni ›</a></div>
 </nav>
+<nav class="excerpt-children">
+<div class="excerpt-children-label">In questa sezione</div>
+<ul><li><a href="/testi/whitman/atomized/the_wound_dresser/story_05_good_bye_dear_mother/part_01">Part 1</a></li><li><a href="/testi/whitman/atomized/the_wound_dresser/story_05_good_bye_dear_mother/part_02">Part 2</a></li><li><a href="/testi/whitman/atomized/the_wound_dresser/story_05_good_bye_dear_mother/part_03">Part 3</a></li><li><a href="/testi/whitman/atomized/the_wound_dresser/story_05_good_bye_dear_mother/part_04">Part 4</a></li><li><a href="/testi/whitman/atomized/the_wound_dresser/story_05_good_bye_dear_mother/part_05">Part 5</a></li><li><a href="/testi/whitman/atomized/the_wound_dresser/story_05_good_bye_dear_mother/part_06">Part 6</a></li><li><a href="/testi/whitman/atomized/the_wound_dresser/story_05_good_bye_dear_mother/part_07">Part 7</a></li><li><a href="/testi/whitman/atomized/the_wound_dresser/story_05_good_bye_dear_mother/part_08">Part 8</a></li><li><a href="/testi/whitman/atomized/the_wound_dresser/story_05_good_bye_dear_mother/part_09">Part 9</a></li><li><a href="/testi/whitman/atomized/the_wound_dresser/story_05_good_bye_dear_mother/part_10">Part 10</a></li><li><a href="/testi/whitman/atomized/the_wound_dresser/story_05_good_bye_dear_mother/part_11">Part 11</a></li><li><a href="/testi/whitman/atomized/the_wound_dresser/story_05_good_bye_dear_mother/part_12">Part 12</a></li></ul>
+</nav>
 
 
 one. Good-bye, dear mother.

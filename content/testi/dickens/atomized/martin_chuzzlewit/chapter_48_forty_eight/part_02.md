@@ -9,7 +9,7 @@ tags:
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Dickens · <a href="/works/martin-chuzzlewit-(dickens)">Martin Chuzzlewit</a></div>
+<div class="excerpt-crumb">Dickens · <a href="/works/martin-chuzzlewit-(dickens)">Martin Chuzzlewit</a> › <a href="/testi/dickens/atomized/martin_chuzzlewit/chapter_48_forty_eight">Chapter 48 FORTY EIGHT</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/martin_chuzzlewit/chapter_48_forty_eight/part_01">‹ part 01</a><a class="ex-next" href="/testi/dickens/atomized/martin_chuzzlewit/chapter_48_forty_eight/part_03">part 03 ›</a></div>
 </nav>
 

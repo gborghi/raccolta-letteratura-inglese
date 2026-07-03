@@ -9,7 +9,7 @@ tags:
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/works/the-flying-inn-(chesterton)">The Flying Inn</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/the-flying-inn-(chesterton)">The Flying Inn</a> › <a href="/testi/chesterton/atomized/the_flying_inn/chapter_17_the_poet_in_parliament">Chapter 17 THE POET IN PARLIAMENT</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/the_flying_inn/chapter_17_the_poet_in_parliament/part_04">‹ part 04</a><a class="ex-next" href="/testi/chesterton/atomized/the_flying_inn/chapter_18_the_republic_of_peaceways/part_01">part 01 ›</a></div>
 </nav>
 

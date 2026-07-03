@@ -9,7 +9,7 @@ tags:
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/works/trees-of-pride-(chesterton)">The Trees of Pride</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/trees-of-pride-(chesterton)">The Trees of Pride</a> › <a href="/testi/chesterton/atomized/trees_of_pride/story_06_the_chase_after_the_truth_truth">Story 06 THE CHASE AFTER THE Truth TRUTH</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/trees_of_pride/story_06_the_chase_after_the_truth_truth/part_03">‹ part 03</a><a class="ex-next" href="/testi/chesterton/atomized/trees_of_pride/story_06_the_chase_after_the_truth_truth/part_05">part 05 ›</a></div>
 </nav>
 

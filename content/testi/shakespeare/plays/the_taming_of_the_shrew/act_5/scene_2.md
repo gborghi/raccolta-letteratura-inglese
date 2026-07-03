@@ -12,6 +12,10 @@ tags:
 <div class="excerpt-crumb">Shakespeare · <a href="/works/the-taming-of-the-shrew-(shakespeare)">The Taming of the Shrew</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/shakespeare/plays/the_taming_of_the_shrew/act_5/scene_1">‹ Scene 1</a><span></span></div>
 </nav>
+<nav class="excerpt-children">
+<div class="excerpt-children-label">In questa sezione</div>
+<ul><li><a href="/testi/shakespeare/plays/the_taming_of_the_shrew/act_5/scene_2/01_exchange_dialogue">01 exchange dialogue</a></li><li><a href="/testi/shakespeare/plays/the_taming_of_the_shrew/act_5/scene_2/02_exchange_baptista">02 exchange BAPTISTA</a></li><li><a href="/testi/shakespeare/plays/the_taming_of_the_shrew/act_5/scene_2/03_exchange_widow">03 exchange WIDOW</a></li><li><a href="/testi/shakespeare/plays/the_taming_of_the_shrew/act_5/scene_2/04_monologue_katherine">04 monologue KATHERINE</a></li><li><a href="/testi/shakespeare/plays/the_taming_of_the_shrew/act_5/scene_2/05_exchange_petruccio">05 exchange PETRUCCIO</a></li><li><a href="/testi/shakespeare/plays/the_taming_of_the_shrew/act_5/scene_2/06_exchange_sly">06 exchange SLY</a></li><li><a href="/testi/shakespeare/plays/the_taming_of_the_shrew/act_5/scene_2/07_monologue_when">07 monologue WHEN</a></li><li><a href="/testi/shakespeare/plays/the_taming_of_the_shrew/act_5/scene_2/08_exchange_the_persons_of_the_play">08 exchange THE PERSONS OF THE PLAY</a></li></ul>
+</nav>
 
 
 | Chi parla | Battuta |

@@ -9,7 +9,7 @@ tags:
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Dickens · <a href="/works/the-pickwick-papers-(dickens)">The Pickwick Papers</a></div>
+<div class="excerpt-crumb">Dickens · <a href="/works/the-pickwick-papers-(dickens)">The Pickwick Papers</a> › <a href="/testi/dickens/atomized/the_pickwick_papers/chapter_08_a_discovery_and_a_chase">Chapter 08 A DISCOVERY AND A CHASE</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/the_pickwick_papers/chapter_08_a_discovery_and_a_chase/part_02">‹ part 02</a><a class="ex-next" href="/testi/dickens/atomized/the_pickwick_papers/chapter_09_clearing_up_all_doubts_if_any/part_01">part 01 ›</a></div>
 </nav>
 

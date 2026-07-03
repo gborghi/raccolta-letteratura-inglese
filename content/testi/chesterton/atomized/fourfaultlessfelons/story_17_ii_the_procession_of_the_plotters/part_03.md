@@ -9,7 +9,7 @@ tags:
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/works/fourfaultlessfelons-(chesterton)">FourFaultlessFelons</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/fourfaultlessfelons-(chesterton)">FourFaultlessFelons</a> › <a href="/testi/chesterton/atomized/fourfaultlessfelons/story_17_ii_the_procession_of_the_plotters">Story 17 Ii The Procession Of The Plotters</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/fourfaultlessfelons/story_17_ii_the_procession_of_the_plotters/part_02">‹ part 02</a><a class="ex-next" href="/testi/chesterton/atomized/fourfaultlessfelons/story_18_iii_the_princess_intervenes/part_01">part 01 ›</a></div>
 </nav>
 

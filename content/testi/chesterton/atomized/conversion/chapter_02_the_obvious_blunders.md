@@ -12,6 +12,10 @@ tags:
 <div class="excerpt-crumb">Chesterton · <a href="/works/conversion-(chesterton)">The Catholic Church and Conversion</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/conversion/chapter_01_introductory_a_new_religion">‹ Chapter 01 INTRODUCTORY A NEW RELIGION</a><a class="ex-next" href="/testi/chesterton/atomized/conversion/chapter_03_the_real_obstacles">Chapter 03 THE REAL OBSTACLES ›</a></div>
 </nav>
+<nav class="excerpt-children">
+<div class="excerpt-children-label">In questa sezione</div>
+<ul><li><a href="/testi/chesterton/atomized/conversion/chapter_02_the_obvious_blunders/part_01">Part 1</a></li><li><a href="/testi/chesterton/atomized/conversion/chapter_02_the_obvious_blunders/part_02">Part 2</a></li><li><a href="/testi/chesterton/atomized/conversion/chapter_02_the_obvious_blunders/part_03">Part 3</a></li><li><a href="/testi/chesterton/atomized/conversion/chapter_02_the_obvious_blunders/part_04">Part 4</a></li></ul>
+</nav>
 
 # [[conversion]] — Chapter 2: THE OBVIOUS BLUNDERS
 

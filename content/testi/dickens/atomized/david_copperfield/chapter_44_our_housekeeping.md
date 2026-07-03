@@ -12,6 +12,10 @@ tags:
 <div class="excerpt-crumb">Dickens · <a href="/works/david-copperfield-(dickens)">David Copperfield</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/david_copperfield/chapter_43_another_retrospect">‹ Chapter 43 ANOTHER RETROSPECT</a><a class="ex-next" href="/testi/dickens/atomized/david_copperfield/chapter_45_mr_dick_fulfils_my_aunts_predi">Chapter 45 MR DICK FULFILS MY AUNTS PREDI ›</a></div>
 </nav>
+<nav class="excerpt-children">
+<div class="excerpt-children-label">In questa sezione</div>
+<ul><li><a href="/testi/dickens/atomized/david_copperfield/chapter_44_our_housekeeping/part_01">Part 1</a></li><li><a href="/testi/dickens/atomized/david_copperfield/chapter_44_our_housekeeping/part_02">Part 2</a></li><li><a href="/testi/dickens/atomized/david_copperfield/chapter_44_our_housekeeping/part_03">Part 3</a></li><li><a href="/testi/dickens/atomized/david_copperfield/chapter_44_our_housekeeping/part_04">Part 4</a></li><li><a href="/testi/dickens/atomized/david_copperfield/chapter_44_our_housekeeping/part_05">Part 5</a></li><li><a href="/testi/dickens/atomized/david_copperfield/chapter_44_our_housekeeping/part_06">Part 6</a></li></ul>
+</nav>
 
 
 CHAPTER 44. OUR HOUSEKEEPING

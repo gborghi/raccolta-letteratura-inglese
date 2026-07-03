@@ -12,6 +12,10 @@ tags:
 <div class="excerpt-crumb">Shakespeare · <a href="/works/the-history-of-king-lear---the-quarto-text-(shakespeare)">The History of King Lear Quarto Text</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/shakespeare/plays/the_history_of_king_lear_quarto_text/scenes/scene_23">‹ Scene 23</a><span></span></div>
 </nav>
+<nav class="excerpt-children">
+<div class="excerpt-children-label">In questa sezione</div>
+<ul><li><a href="/testi/shakespeare/plays/the_history_of_king_lear_quarto_text/scenes/scene_24/01_exchange_dialogue">01 exchange dialogue</a></li><li><a href="/testi/shakespeare/plays/the_history_of_king_lear_quarto_text/scenes/scene_24/02_exchange_albany">02 exchange ALBANY</a></li><li><a href="/testi/shakespeare/plays/the_history_of_king_lear_quarto_text/scenes/scene_24/03_exchange_edgar">03 exchange EDGAR</a></li><li><a href="/testi/shakespeare/plays/the_history_of_king_lear_quarto_text/scenes/scene_24/04_exchange_edgar">04 exchange EDGAR</a></li><li><a href="/testi/shakespeare/plays/the_history_of_king_lear_quarto_text/scenes/scene_24/05_exchange_albany">05 exchange ALBANY</a></li><li><a href="/testi/shakespeare/plays/the_history_of_king_lear_quarto_text/scenes/scene_24/06_exchange_lear">06 exchange LEAR</a></li><li><a href="/testi/shakespeare/plays/the_history_of_king_lear_quarto_text/scenes/scene_24/07_monologue_we">07 monologue WE</a></li><li><a href="/testi/shakespeare/plays/the_history_of_king_lear_quarto_text/scenes/scene_24/08_exchange_the_persons_of_the_play">08 exchange THE PERSONS OF THE PLAY</a></li></ul>
+</nav>
 
 
 | Chi parla | Battuta |

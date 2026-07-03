@@ -12,6 +12,10 @@ tags:
 <div class="excerpt-crumb">Chesterton · <a href="/works/william-cobbett-(chesterton)">William Cobbett</a></div>
 <div class="excerpt-pn"><span></span><a class="ex-next" href="/testi/chesterton/atomized/william_cobbett/chapter_02">Chapter 02 ›</a></div>
 </nav>
+<nav class="excerpt-children">
+<div class="excerpt-children-label">In questa sezione</div>
+<ul><li><a href="/testi/chesterton/atomized/william_cobbett/chapter_01/part_01">Part 1</a></li><li><a href="/testi/chesterton/atomized/william_cobbett/chapter_01/part_02">Part 2</a></li><li><a href="/testi/chesterton/atomized/william_cobbett/chapter_01/part_03">Part 3</a></li></ul>
+</nav>
 
 
 CHAPTER I

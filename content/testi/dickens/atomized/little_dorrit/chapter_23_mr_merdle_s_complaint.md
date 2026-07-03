@@ -12,6 +12,10 @@ tags:
 <div class="excerpt-crumb">Dickens · <a href="/works/little-dorrit-(dickens)">Little Dorrit</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/little_dorrit/chapter_22_moving_in_society">‹ Chapter 22 Moving in Society</a><a class="ex-next" href="/testi/dickens/atomized/little_dorrit/chapter_24_a_puzzle">Chapter 24 A Puzzle ›</a></div>
 </nav>
+<nav class="excerpt-children">
+<div class="excerpt-children-label">In questa sezione</div>
+<ul><li><a href="/testi/dickens/atomized/little_dorrit/chapter_23_mr_merdle_s_complaint/part_01">Part 1</a></li><li><a href="/testi/dickens/atomized/little_dorrit/chapter_23_mr_merdle_s_complaint/part_02">Part 2</a></li><li><a href="/testi/dickens/atomized/little_dorrit/chapter_23_mr_merdle_s_complaint/part_03">Part 3</a></li></ul>
+</nav>
 
 
 CHAPTER 21. [[Mr Merdle]]’s Complaint

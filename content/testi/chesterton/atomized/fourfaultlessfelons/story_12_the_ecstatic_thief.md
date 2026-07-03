@@ -12,6 +12,10 @@ tags:
 <div class="excerpt-crumb">Chesterton · <a href="/works/fourfaultlessfelons-(chesterton)">FourFaultlessFelons</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/fourfaultlessfelons/story_11_an_hour_harrington">‹ Story 11 An Hour Harrington</a><a class="ex-next" href="/testi/chesterton/atomized/fourfaultlessfelons/story_13_ii_the_burglar_and_the_brooch">Story 13 Ii The Burglar And The Brooch ›</a></div>
 </nav>
+<nav class="excerpt-children">
+<div class="excerpt-children-label">In questa sezione</div>
+<ul><li><a href="/testi/chesterton/atomized/fourfaultlessfelons/story_12_the_ecstatic_thief/part_01">Part 1</a></li><li><a href="/testi/chesterton/atomized/fourfaultlessfelons/story_12_the_ecstatic_thief/part_02">Part 2</a></li></ul>
+</nav>
 
 
 THE ECSTATIC THIEF

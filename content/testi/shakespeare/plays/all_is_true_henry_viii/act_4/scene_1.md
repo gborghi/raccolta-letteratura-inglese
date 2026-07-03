@@ -12,6 +12,10 @@ tags:
 <div class="excerpt-crumb">Shakespeare · <a href="/works/all-is-true---(henry-viii)-(shakespeare)">All Is True Henry VIII</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/shakespeare/plays/all_is_true_henry_viii/act_3/scene_2">‹ Scene 2</a><a class="ex-next" href="/testi/shakespeare/plays/all_is_true_henry_viii/act_5/scene_1">Scene 1 ›</a></div>
 </nav>
+<nav class="excerpt-children">
+<div class="excerpt-children-label">In questa sezione</div>
+<ul><li><a href="/testi/shakespeare/plays/all_is_true_henry_viii/act_4/scene_1/01_exchange_dialogue">01 exchange dialogue</a></li><li><a href="/testi/shakespeare/plays/all_is_true_henry_viii/act_4/scene_1/02_monologue_the_order_of_the_coronat">02 monologue THE ORDER OF THE CORONAT</a></li><li><a href="/testi/shakespeare/plays/all_is_true_henry_viii/act_4/scene_1/03_exchange_second_gentleman">03 exchange SECOND GENTLEMAN</a></li><li><a href="/testi/shakespeare/plays/all_is_true_henry_viii/act_4/scene_1/04_exchange_first_gentleman">04 exchange FIRST GENTLEMAN</a></li><li><a href="/testi/shakespeare/plays/all_is_true_henry_viii/act_4/scene_1/05_exchange_griffith">05 exchange GRIFFITH</a></li><li><a href="/testi/shakespeare/plays/all_is_true_henry_viii/act_4/scene_1/06_monologue_griffith">06 monologue GRIFFITH</a></li><li><a href="/testi/shakespeare/plays/all_is_true_henry_viii/act_4/scene_1/07_exchange_katherine">07 exchange KATHERINE</a></li><li><a href="/testi/shakespeare/plays/all_is_true_henry_viii/act_4/scene_1/08_exchange_katherine">08 exchange KATHERINE</a></li><li><a href="/testi/shakespeare/plays/all_is_true_henry_viii/act_4/scene_1/09_monologue_katherine">09 monologue KATHERINE</a></li><li><a href="/testi/shakespeare/plays/all_is_true_henry_viii/act_4/scene_1/10_exchange_caputius">10 exchange CAPUTIUS</a></li></ul>
+</nav>
 
 
 | Chi parla | Battuta |

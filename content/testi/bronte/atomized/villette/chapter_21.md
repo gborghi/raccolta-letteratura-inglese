@@ -12,6 +12,10 @@ tags:
 <div class="excerpt-crumb">Bronte · <a href="/works/villette-(bronte)">Villette</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/bronte/atomized/villette/chapter_20">‹ Chapter 20</a><a class="ex-next" href="/testi/bronte/atomized/villette/chapter_22">Chapter 22 ›</a></div>
 </nav>
+<nav class="excerpt-children">
+<div class="excerpt-children-label">In questa sezione</div>
+<ul><li><a href="/testi/bronte/atomized/villette/chapter_21/part_01">Part 1</a></li><li><a href="/testi/bronte/atomized/villette/chapter_21/part_02">Part 2</a></li><li><a href="/testi/bronte/atomized/villette/chapter_21/part_03">Part 3</a></li><li><a href="/testi/bronte/atomized/villette/chapter_21/part_04">Part 4</a></li><li><a href="/testi/bronte/atomized/villette/chapter_21/part_05">Part 5</a></li><li><a href="/testi/bronte/atomized/villette/chapter_21/part_06">Part 6</a></li></ul>
+</nav>
 
 
 CHAPTER XXI.

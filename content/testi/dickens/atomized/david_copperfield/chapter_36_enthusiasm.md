@@ -12,6 +12,10 @@ tags:
 <div class="excerpt-crumb">Dickens · <a href="/works/david-copperfield-(dickens)">David Copperfield</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/david_copperfield/chapter_35_depression">‹ Chapter 35 DEPRESSION</a><a class="ex-next" href="/testi/dickens/atomized/david_copperfield/chapter_37_a_little_cold_water_water">Chapter 37 A LITTLE COLD Water WATER ›</a></div>
 </nav>
+<nav class="excerpt-children">
+<div class="excerpt-children-label">In questa sezione</div>
+<ul><li><a href="/testi/dickens/atomized/david_copperfield/chapter_36_enthusiasm/part_01">Part 1</a></li><li><a href="/testi/dickens/atomized/david_copperfield/chapter_36_enthusiasm/part_02">Part 2</a></li><li><a href="/testi/dickens/atomized/david_copperfield/chapter_36_enthusiasm/part_03">Part 3</a></li><li><a href="/testi/dickens/atomized/david_copperfield/chapter_36_enthusiasm/part_04">Part 4</a></li><li><a href="/testi/dickens/atomized/david_copperfield/chapter_36_enthusiasm/part_05">Part 5</a></li><li><a href="/testi/dickens/atomized/david_copperfield/chapter_36_enthusiasm/part_06">Part 6</a></li><li><a href="/testi/dickens/atomized/david_copperfield/chapter_36_enthusiasm/part_07">Part 7</a></li></ul>
+</nav>
 
 
 CHAPTER 36. ENTHUSIASM

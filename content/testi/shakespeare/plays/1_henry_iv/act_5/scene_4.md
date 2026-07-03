@@ -12,6 +12,10 @@ tags:
 <div class="excerpt-crumb">Shakespeare · <a href="/works/1-henry-iv-(shakespeare)">1 Henry IV</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/shakespeare/plays/1_henry_iv/act_5/scene_3">‹ Scene 3</a><a class="ex-next" href="/testi/shakespeare/plays/1_henry_iv/act_5/scene_5">Scene 5 ›</a></div>
 </nav>
+<nav class="excerpt-children">
+<div class="excerpt-children-label">In questa sezione</div>
+<ul><li><a href="/testi/shakespeare/plays/1_henry_iv/act_5/scene_4/01_exchange_dialogue">01 exchange dialogue</a></li><li><a href="/testi/shakespeare/plays/1_henry_iv/act_5/scene_4/02_exchange_hotspur">02 exchange HOTSPUR</a></li><li><a href="/testi/shakespeare/plays/1_henry_iv/act_5/scene_4/03_monologue_prince_harry">03 monologue PRINCE HARRY</a></li><li><a href="/testi/shakespeare/plays/1_henry_iv/act_5/scene_4/04_monologue_sir_john">04 monologue SIR JOHN</a></li><li><a href="/testi/shakespeare/plays/1_henry_iv/act_5/scene_4/05_exchange_prince_harry">05 exchange PRINCE HARRY</a></li></ul>
+</nav>
 
 
 | Chi parla | Battuta |

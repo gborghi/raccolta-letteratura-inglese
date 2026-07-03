@@ -9,7 +9,7 @@ tags:
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/works/poet-and-lunatics-(chesterton)">Poet and Lunatics</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/poet-and-lunatics-(chesterton)">Poet and Lunatics</a> › <a href="/testi/chesterton/atomized/poet_and_lunatics/story_06_the_house_house_of_the_peacock">Story 06 THE house HOUSE OF THE PEACOCK</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/poet_and_lunatics/story_06_the_house_house_of_the_peacock/part_01">‹ part 01</a><a class="ex-next" href="/testi/chesterton/atomized/poet_and_lunatics/story_06_the_house_house_of_the_peacock/part_03">part 03 ›</a></div>
 </nav>
 

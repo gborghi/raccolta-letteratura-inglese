@@ -12,6 +12,10 @@ tags:
 <div class="excerpt-crumb">Shakespeare · <a href="/works/a-midsummer-night’s-dream-(shakespeare)">A Midsummer Nights Dream</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/shakespeare/plays/a_midsummer_nights_dream/act_4/scene_2">‹ Scene 2</a><a class="ex-next" href="/testi/shakespeare/plays/a_midsummer_nights_dream/act_5/scene_2">Scene 2 ›</a></div>
 </nav>
+<nav class="excerpt-children">
+<div class="excerpt-children-label">In questa sezione</div>
+<ul><li><a href="/testi/shakespeare/plays/a_midsummer_nights_dream/act_5/scene_1/01_exchange_dialogue">01 exchange dialogue</a></li><li><a href="/testi/shakespeare/plays/a_midsummer_nights_dream/act_5/scene_1/02_exchange_theseus">02 exchange THESEUS</a></li><li><a href="/testi/shakespeare/plays/a_midsummer_nights_dream/act_5/scene_1/02_monologue_a_play">02 monologue A PLAY</a></li><li><a href="/testi/shakespeare/plays/a_midsummer_nights_dream/act_5/scene_1/03_exchange_the_persons_of_the_play">03 exchange THE PERSONS OF THE PLAY</a></li><li><a href="/testi/shakespeare/plays/a_midsummer_nights_dream/act_5/scene_1/03_monologue_theseus">03 monologue THESEUS</a></li><li><a href="/testi/shakespeare/plays/a_midsummer_nights_dream/act_5/scene_1/04_exchange_theseus_i">04 exchange THESEUS I</a></li><li><a href="/testi/shakespeare/plays/a_midsummer_nights_dream/act_5/scene_1/05_exchange_theseus">05 exchange THESEUS</a></li><li><a href="/testi/shakespeare/plays/a_midsummer_nights_dream/act_5/scene_1/06_exchange_theseus">06 exchange THESEUS</a></li></ul>
+</nav>
 
 
 | Chi parla | Battuta |

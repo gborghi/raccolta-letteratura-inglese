@@ -9,7 +9,7 @@ tags:
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Dickens · <a href="/works/david-copperfield-(dickens)">David Copperfield</a></div>
+<div class="excerpt-crumb">Dickens · <a href="/works/david-copperfield-(dickens)">David Copperfield</a> › <a href="/testi/dickens/atomized/david_copperfield/chapter_45_mr_dick_fulfils_my_aunts_predi">Chapter 45 MR DICK FULFILS MY AUNTS PREDI</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/david_copperfield/chapter_44_our_housekeeping/part_06">‹ part 06</a><a class="ex-next" href="/testi/dickens/atomized/david_copperfield/chapter_45_mr_dick_fulfils_my_aunts_predi/part_02">part 02 ›</a></div>
 </nav>
 

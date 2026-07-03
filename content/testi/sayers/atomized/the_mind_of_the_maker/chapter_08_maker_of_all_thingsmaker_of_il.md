@@ -14,6 +14,10 @@ tags:
 <div class="excerpt-crumb">Sayers · <a href="/works/the-mind-of-the-maker-(sayers)">The Mind of the Maker</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/sayers/atomized/the_mind_of_the_maker/chapter_07_the_energy_incarnate_in_self_e">‹ Chapter 07 The Energy Incarnate in Self E</a><a class="ex-next" href="/testi/sayers/atomized/the_mind_of_the_maker/chapter_09_pentecost">Chapter 09 Pentecost ›</a></div>
 </nav>
+<nav class="excerpt-children">
+<div class="excerpt-children-label">In questa sezione</div>
+<ul><li><a href="/testi/sayers/atomized/the_mind_of_the_maker/chapter_08_maker_of_all_thingsmaker_of_il/part_01">Part 1</a></li><li><a href="/testi/sayers/atomized/the_mind_of_the_maker/chapter_08_maker_of_all_thingsmaker_of_il/part_02">Part 2</a></li><li><a href="/testi/sayers/atomized/the_mind_of_the_maker/chapter_08_maker_of_all_thingsmaker_of_il/part_03">Part 3</a></li><li><a href="/testi/sayers/atomized/the_mind_of_the_maker/chapter_08_maker_of_all_thingsmaker_of_il/part_04">Part 4</a></li></ul>
+</nav>
 
 
 CHAPTER 8. Maker of All Things—Maker of Ill Things

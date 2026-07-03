@@ -12,6 +12,10 @@ tags:
 <div class="excerpt-crumb">Chesterton · <a href="/works/shaw-(chesterton)">Shaw</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/shaw/story_08_the_philosopher">‹ Story 08 THE PHILOSOPHER</a><a class="ex-next" href="/testi/chesterton/atomized/shaw/story_03_the_irishman/part_01">part 01 ›</a></div>
 </nav>
+<nav class="excerpt-children">
+<div class="excerpt-children-label">In questa sezione</div>
+<ul><li><a href="/testi/chesterton/atomized/shaw/story_09_the_later_phases/part_01">Part 1</a></li><li><a href="/testi/chesterton/atomized/shaw/story_09_the_later_phases/part_02">Part 2</a></li><li><a href="/testi/chesterton/atomized/shaw/story_09_the_later_phases/part_03">Part 3</a></li><li><a href="/testi/chesterton/atomized/shaw/story_09_the_later_phases/part_04">Part 4</a></li><li><a href="/testi/chesterton/atomized/shaw/story_09_the_later_phases/part_05">Part 5</a></li><li><a href="/testi/chesterton/atomized/shaw/story_09_the_later_phases/part_06">Part 6</a></li><li><a href="/testi/chesterton/atomized/shaw/story_09_the_later_phases/part_07">Part 7</a></li></ul>
+</nav>
 
 
 THE LATER PHASES*

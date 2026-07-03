@@ -14,6 +14,10 @@ tags:
 <div class="excerpt-crumb">Chesterton · <a href="/works/ortho14-(chesterton)">Orthodoxy</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/ortho14/story_04_ii_the_maniac">‹ Story 04 Ii The Maniac</a><a class="ex-next" href="/testi/chesterton/atomized/ortho14/story_06_iv_the_ethics_of_elfland">Story 06 Iv The Ethics Of Elfland ›</a></div>
 </nav>
+<nav class="excerpt-children">
+<div class="excerpt-children-label">In questa sezione</div>
+<ul><li><a href="/testi/chesterton/atomized/ortho14/story_05_iii_the_suicide_of_thought/part_01">Part 1</a></li><li><a href="/testi/chesterton/atomized/ortho14/story_05_iii_the_suicide_of_thought/part_02">Part 2</a></li><li><a href="/testi/chesterton/atomized/ortho14/story_05_iii_the_suicide_of_thought/part_03">Part 3</a></li><li><a href="/testi/chesterton/atomized/ortho14/story_05_iii_the_suicide_of_thought/part_04">Part 4</a></li><li><a href="/testi/chesterton/atomized/ortho14/story_05_iii_the_suicide_of_thought/part_05">Part 5</a></li></ul>
+</nav>
 
 # [[ortho14]] — Iii The Suicide Of Thought
 

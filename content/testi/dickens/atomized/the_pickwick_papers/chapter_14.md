@@ -12,6 +12,10 @@ tags:
 <div class="excerpt-crumb">Dickens · <a href="/works/the-pickwick-papers-(dickens)">The Pickwick Papers</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/the_pickwick_papers/chapter_13_in_which_is_given_a_faithful_p">‹ Chapter 13 IN WHICH IS GIVEN A FAITHFUL P</a><a class="ex-next" href="/testi/dickens/atomized/the_pickwick_papers/chapter_15_too_full_of_adventure_to_be_br">Chapter 15 TOO FULL OF ADVENTURE TO BE BR ›</a></div>
 </nav>
+<nav class="excerpt-children">
+<div class="excerpt-children-label">In questa sezione</div>
+<ul><li><a href="/testi/dickens/atomized/the_pickwick_papers/chapter_14/part_01">Part 1</a></li><li><a href="/testi/dickens/atomized/the_pickwick_papers/chapter_14/part_02">Part 2</a></li><li><a href="/testi/dickens/atomized/the_pickwick_papers/chapter_14/part_03">Part 3</a></li><li><a href="/testi/dickens/atomized/the_pickwick_papers/chapter_14/part_04">Part 4</a></li><li><a href="/testi/dickens/atomized/the_pickwick_papers/chapter_14/part_05">Part 5</a></li></ul>
+</nav>
 
 
 CHAPTER

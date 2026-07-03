@@ -12,6 +12,10 @@ tags:
 <div class="excerpt-crumb">Chesterton · <a href="/works/the-thing-(chesterton)">The Thing</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/the_thing/story_04_logic_logic_and_lawn_tennis">‹ Story 04 logic LOGIC AND LAWN TENNIS</a><a class="ex-next" href="/testi/chesterton/atomized/the_thing/story_06_the_usual_article">Story 06 THE USUAL ARTICLE ›</a></div>
 </nav>
+<nav class="excerpt-children">
+<div class="excerpt-children-label">In questa sezione</div>
+<ul><li><a href="/testi/chesterton/atomized/the_thing/story_05_obstinate_orthodoxy/part_01">Part 1</a></li><li><a href="/testi/chesterton/atomized/the_thing/story_05_obstinate_orthodoxy/part_02">Part 2</a></li><li><a href="/testi/chesterton/atomized/the_thing/story_05_obstinate_orthodoxy/part_03">Part 3</a></li></ul>
+</nav>
 
 
 OBSTINATE ORTHODOXY

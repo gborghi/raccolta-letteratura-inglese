@@ -12,6 +12,10 @@ tags:
 <div class="excerpt-crumb">Shakespeare · <a href="/works/richard-iii-(shakespeare)">Richard III</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/shakespeare/plays/richard_iii/act_1/scene_4">‹ Scene 4</a><a class="ex-next" href="/testi/shakespeare/plays/richard_iii/act_2/scene_2">Scene 2 ›</a></div>
 </nav>
+<nav class="excerpt-children">
+<div class="excerpt-children-label">In questa sezione</div>
+<ul><li><a href="/testi/shakespeare/plays/richard_iii/act_2/scene_1/01_exchange_dialogue">01 exchange dialogue</a></li><li><a href="/testi/shakespeare/plays/richard_iii/act_2/scene_1/02_exchange_queen_elizabeth">02 exchange QUEEN ELIZABETH</a></li><li><a href="/testi/shakespeare/plays/richard_iii/act_2/scene_1/03_monologue_king_edward">03 monologue KING EDWARD</a></li><li><a href="/testi/shakespeare/plays/richard_iii/act_2/scene_1/04_exchange_richard_gloucester">04 exchange RICHARD GLOUCESTER</a></li></ul>
+</nav>
 
 
 | Chi parla | Battuta |

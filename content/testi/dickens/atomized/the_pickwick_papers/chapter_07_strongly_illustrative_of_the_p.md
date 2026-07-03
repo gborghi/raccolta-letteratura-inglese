@@ -12,6 +12,10 @@ tags:
 <div class="excerpt-crumb">Dickens · <a href="/works/the-pickwick-papers-(dickens)">The Pickwick Papers</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/the_pickwick_papers/chapter_06_how_mr_winkle_instead_of_shoot">‹ Chapter 06 HOW MR WINKLE INSTEAD OF SHOOT</a><a class="ex-next" href="/testi/dickens/atomized/the_pickwick_papers/chapter_08_a_discovery_and_a_chase">Chapter 08 A DISCOVERY AND A CHASE ›</a></div>
 </nav>
+<nav class="excerpt-children">
+<div class="excerpt-children-label">In questa sezione</div>
+<ul><li><a href="/testi/dickens/atomized/the_pickwick_papers/chapter_07_strongly_illustrative_of_the_p/part_01">Part 1</a></li><li><a href="/testi/dickens/atomized/the_pickwick_papers/chapter_07_strongly_illustrative_of_the_p/part_02">Part 2</a></li><li><a href="/testi/dickens/atomized/the_pickwick_papers/chapter_07_strongly_illustrative_of_the_p/part_03">Part 3</a></li><li><a href="/testi/dickens/atomized/the_pickwick_papers/chapter_07_strongly_illustrative_of_the_p/part_04">Part 4</a></li><li><a href="/testi/dickens/atomized/the_pickwick_papers/chapter_07_strongly_illustrative_of_the_p/part_05">Part 5</a></li></ul>
+</nav>
 
 
 CHAPTER VIII. STRONGLY ILLUSTRATIVE OF THE POSITION, THAT THE COURSE OF

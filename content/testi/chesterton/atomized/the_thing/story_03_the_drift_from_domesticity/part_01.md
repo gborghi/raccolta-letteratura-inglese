@@ -9,7 +9,7 @@ tags:
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/works/the-thing-(chesterton)">The Thing</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/the-thing-(chesterton)">The Thing</a> › <a href="/testi/chesterton/atomized/the_thing/story_03_the_drift_from_domesticity">Story 03 THE DRIFT FROM DOMESTICITY</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/the_thing/story_02_is_humanism_a_religion/part_04">‹ part 04</a><a class="ex-next" href="/testi/chesterton/atomized/the_thing/story_03_the_drift_from_domesticity/part_02">part 02 ›</a></div>
 </nav>
 

@@ -12,6 +12,10 @@ tags:
 <div class="excerpt-crumb">Dickens · <a href="/works/the-pickwick-papers-(dickens)">The Pickwick Papers</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/the_pickwick_papers/chapter_33_honourably_accounts_for_mr_wel">‹ Chapter 33 HONOURABLY ACCOUNTS FOR MR WEL</a><a class="ex-next" href="/testi/dickens/atomized/the_pickwick_papers/chapter_35_mr_samuel_weller_being_intrust">Chapter 35 MR SAMUEL WELLER BEING INTRUST ›</a></div>
 </nav>
+<nav class="excerpt-children">
+<div class="excerpt-children-label">In questa sezione</div>
+<ul><li><a href="/testi/dickens/atomized/the_pickwick_papers/chapter_34_how_mr_winkle_when_he_stepped/part_01">Part 1</a></li><li><a href="/testi/dickens/atomized/the_pickwick_papers/chapter_34_how_mr_winkle_when_he_stepped/part_02">Part 2</a></li><li><a href="/testi/dickens/atomized/the_pickwick_papers/chapter_34_how_mr_winkle_when_he_stepped/part_03">Part 3</a></li><li><a href="/testi/dickens/atomized/the_pickwick_papers/chapter_34_how_mr_winkle_when_he_stepped/part_04">Part 4</a></li><li><a href="/testi/dickens/atomized/the_pickwick_papers/chapter_34_how_mr_winkle_when_he_stepped/part_05">Part 5</a></li></ul>
+</nav>
 
 
 CHAPTER XXXVIII. HOW MR. WINKLE, WHEN HE STEPPED OUT OF THE FRYING-PAN,

@@ -12,6 +12,10 @@ tags:
 <div class="excerpt-crumb">Shakespeare · <a href="/works/the-two-noble-kinsmen-(shakespeare)">The Two Noble Kinsmen</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/shakespeare/plays/the_two_noble_kinsmen/act_4/scene_1">‹ Scene 1</a><a class="ex-next" href="/testi/shakespeare/plays/the_two_noble_kinsmen/act_5/scene_2">Scene 2 ›</a></div>
 </nav>
+<nav class="excerpt-children">
+<div class="excerpt-children-label">In questa sezione</div>
+<ul><li><a href="/testi/shakespeare/plays/the_two_noble_kinsmen/act_4/scene_3/01_exchange_dialogue">01 exchange dialogue</a></li><li><a href="/testi/shakespeare/plays/the_two_noble_kinsmen/act_4/scene_3/02_exchange_jailer">02 exchange JAILER</a></li><li><a href="/testi/shakespeare/plays/the_two_noble_kinsmen/act_4/scene_3/03_monologue_doctor">03 monologue DOCTOR</a></li><li><a href="/testi/shakespeare/plays/the_two_noble_kinsmen/act_4/scene_3/04_exchange_theseus">04 exchange THESEUS</a></li><li><a href="/testi/shakespeare/plays/the_two_noble_kinsmen/act_4/scene_3/05_monologue_arcite">05 monologue ARCITE</a></li></ul>
+</nav>
 
 
 | Chi parla | Battuta |

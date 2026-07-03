@@ -9,7 +9,7 @@ tags:
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Dickens · <a href="/works/the-pickwick-papers-(dickens)">The Pickwick Papers</a></div>
+<div class="excerpt-crumb">Dickens · <a href="/works/the-pickwick-papers-(dickens)">The Pickwick Papers</a> › <a href="/testi/dickens/atomized/the_pickwick_papers/chapter_06_how_mr_winkle_instead_of_shoot">Chapter 06 HOW MR WINKLE INSTEAD OF SHOOT</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/the_pickwick_papers/chapter_05_an_old_fashioned_card_party_th/part_06">‹ part 06</a><a class="ex-next" href="/testi/dickens/atomized/the_pickwick_papers/chapter_06_how_mr_winkle_instead_of_shoot/part_02">part 02 ›</a></div>
 </nav>
 

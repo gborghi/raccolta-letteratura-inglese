@@ -9,7 +9,7 @@ tags:
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/works/shaw-(chesterton)">Shaw</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/shaw-(chesterton)">Shaw</a> › <a href="/testi/chesterton/atomized/shaw/story_07_the_dramatist">Story 07 THE DRAMATIST</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/shaw/story_07_the_dramatist/part_04">‹ part 04</a><a class="ex-next" href="/testi/chesterton/atomized/shaw/story_07_the_dramatist/part_06">part 06 ›</a></div>
 </nav>
 

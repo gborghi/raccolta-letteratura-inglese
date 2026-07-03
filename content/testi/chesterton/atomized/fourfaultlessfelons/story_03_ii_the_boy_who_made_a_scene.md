@@ -12,6 +12,10 @@ tags:
 <div class="excerpt-crumb">Chesterton · <a href="/works/fourfaultlessfelons-(chesterton)">FourFaultlessFelons</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/fourfaultlessfelons/story_02_the_moderate_murderer">‹ Story 02 The Moderate Murderer</a><a class="ex-next" href="/testi/chesterton/atomized/fourfaultlessfelons/story_04_iii_the_man_who_could_not_hate">Story 04 Iii The Man Who Could Not Hate ›</a></div>
 </nav>
+<nav class="excerpt-children">
+<div class="excerpt-children-label">In questa sezione</div>
+<ul><li><a href="/testi/chesterton/atomized/fourfaultlessfelons/story_03_ii_the_boy_who_made_a_scene/part_01">Part 1</a></li><li><a href="/testi/chesterton/atomized/fourfaultlessfelons/story_03_ii_the_boy_who_made_a_scene/part_02">Part 2</a></li></ul>
+</nav>
 
 
 II THE BOY WHO MADE A SCENE

@@ -9,7 +9,7 @@ tags:
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/works/robert-louis-stevenson-(chesterton)">Robert Louis Stevenson</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/robert-louis-stevenson-(chesterton)">Robert Louis Stevenson</a> › <a href="/testi/chesterton/atomized/robert_louis_stevenson/chapter_04">Chapter 04</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/robert_louis_stevenson/chapter_04/part_01">‹ part 01</a><a class="ex-next" href="/testi/chesterton/atomized/robert_louis_stevenson/chapter_04/part_03">part 03 ›</a></div>
 </nav>
 

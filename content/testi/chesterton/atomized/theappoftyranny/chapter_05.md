@@ -12,6 +12,10 @@ tags:
 <div class="excerpt-crumb">Chesterton · <a href="/works/theappoftyranny-(chesterton)">TheAppOfTyranny</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/theappoftyranny/chapter_04">‹ Chapter 04</a><a class="ex-next" href="/testi/chesterton/atomized/theappoftyranny/chapter_02/part_01">part 01 ›</a></div>
 </nav>
+<nav class="excerpt-children">
+<div class="excerpt-children-label">In questa sezione</div>
+<ul><li><a href="/testi/chesterton/atomized/theappoftyranny/chapter_05/part_01">Part 1</a></li><li><a href="/testi/chesterton/atomized/theappoftyranny/chapter_05/part_02">Part 2</a></li><li><a href="/testi/chesterton/atomized/theappoftyranny/chapter_05/part_03">Part 3</a></li><li><a href="/testi/chesterton/atomized/theappoftyranny/chapter_05/part_04">Part 4</a></li><li><a href="/testi/chesterton/atomized/theappoftyranny/chapter_05/part_05">Part 5</a></li><li><a href="/testi/chesterton/atomized/theappoftyranny/chapter_05/part_06">Part 6</a></li><li><a href="/testi/chesterton/atomized/theappoftyranny/chapter_05/part_07">Part 7</a></li><li><a href="/testi/chesterton/atomized/theappoftyranny/chapter_05/part_08">Part 8</a></li><li><a href="/testi/chesterton/atomized/theappoftyranny/chapter_05/part_09">Part 9</a></li><li><a href="/testi/chesterton/atomized/theappoftyranny/chapter_05/part_10">Part 10</a></li><li><a href="/testi/chesterton/atomized/theappoftyranny/chapter_05/part_11">Part 11</a></li><li><a href="/testi/chesterton/atomized/theappoftyranny/chapter_05/part_12">Part 12</a></li></ul>
+</nav>
 
 
 IV

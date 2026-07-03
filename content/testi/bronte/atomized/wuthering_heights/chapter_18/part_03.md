@@ -9,7 +9,7 @@ tags:
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Bronte · <a href="/works/wuthering-heights-(bronte)">Wuthering Heights</a></div>
+<div class="excerpt-crumb">Bronte · <a href="/works/wuthering-heights-(bronte)">Wuthering Heights</a> › <a href="/testi/bronte/atomized/wuthering_heights/chapter_18">Chapter 18</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/bronte/atomized/wuthering_heights/chapter_18/part_02">‹ part 02</a><a class="ex-next" href="/testi/bronte/atomized/wuthering_heights/chapter_20/part_01">part 01 ›</a></div>
 </nav>
 

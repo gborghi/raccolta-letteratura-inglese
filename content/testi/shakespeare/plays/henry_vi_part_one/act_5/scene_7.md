@@ -12,6 +12,10 @@ tags:
 <div class="excerpt-crumb">Shakespeare · <a href="/works/henry-vi-part-one-(shakespeare)">Henry VI Part One</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/shakespeare/plays/henry_vi_part_one/act_5/scene_6">‹ Scene 6</a><span></span></div>
 </nav>
+<nav class="excerpt-children">
+<div class="excerpt-children-label">In questa sezione</div>
+<ul><li><a href="/testi/shakespeare/plays/henry_vi_part_one/act_5/scene_7/01_exchange_dialogue">01 exchange dialogue</a></li><li><a href="/testi/shakespeare/plays/henry_vi_part_one/act_5/scene_7/02_monologue_suffolk">02 monologue SUFFOLK</a></li><li><a href="/testi/shakespeare/plays/henry_vi_part_one/act_5/scene_7/03_monologue_king_henry">03 monologue KING HENRY</a></li><li><a href="/testi/shakespeare/plays/henry_vi_part_one/act_5/scene_7/04_exchange_gloucester">04 exchange GLOUCESTER</a></li><li><a href="/testi/shakespeare/plays/henry_vi_part_one/act_5/scene_7/05_monologue_shakespeares">05 monologue SHAKESPEARES</a></li><li><a href="/testi/shakespeare/plays/henry_vi_part_one/act_5/scene_7/06_exchange_the_persons_of_the_play">06 exchange THE PERSONS OF THE PLAY</a></li></ul>
+</nav>
 
 
 | Chi parla | Battuta |

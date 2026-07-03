@@ -9,7 +9,7 @@ tags:
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/works/robert-browning-(chesterton)">Robert Browning</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/robert-browning-(chesterton)">Robert Browning</a> › <a href="/testi/chesterton/atomized/robert_browning/chapter_05">Chapter 05</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/robert_browning/chapter_05/part_05">‹ part 05</a><a class="ex-next" href="/testi/chesterton/atomized/robert_browning/chapter_05/part_07">part 07 ›</a></div>
 </nav>
 

@@ -11,7 +11,7 @@ tags:
 <div class="qlang-switch" data-default="en"></div>
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Sayers · <a href="/works/the-mind-of-the-maker-(sayers)">The Mind of the Maker</a></div>
+<div class="excerpt-crumb">Sayers · <a href="/works/the-mind-of-the-maker-(sayers)">The Mind of the Maker</a> › <a href="/testi/sayers/atomized/the_mind_of_the_maker/chapter_11_scalene_trinities">Chapter 11 Scalene Trinities</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/sayers/atomized/the_mind_of_the_maker/chapter_11_scalene_trinities/part_04">‹ part 04</a><a class="ex-next" href="/testi/sayers/atomized/the_mind_of_the_maker/chapter_11_scalene_trinities/part_06">part 06 ›</a></div>
 </nav>
 

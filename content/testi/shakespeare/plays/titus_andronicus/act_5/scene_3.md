@@ -12,6 +12,10 @@ tags:
 <div class="excerpt-crumb">Shakespeare · <a href="/works/titus-andronicus-(shakespeare)">Titus Andronicus</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/shakespeare/plays/titus_andronicus/act_5/scene_2">‹ Scene 2</a><span></span></div>
 </nav>
+<nav class="excerpt-children">
+<div class="excerpt-children-label">In questa sezione</div>
+<ul><li><a href="/testi/shakespeare/plays/titus_andronicus/act_5/scene_3/01_exchange_dialogue">01 exchange dialogue</a></li><li><a href="/testi/shakespeare/plays/titus_andronicus/act_5/scene_3/02_exchange_tamora">02 exchange TAMORA</a></li><li><a href="/testi/shakespeare/plays/titus_andronicus/act_5/scene_3/03_monologue_a_roman_lord">03 monologue A ROMAN LORD</a></li><li><a href="/testi/shakespeare/plays/titus_andronicus/act_5/scene_3/04_monologue_lucius">04 monologue LUCIUS</a></li><li><a href="/testi/shakespeare/plays/titus_andronicus/act_5/scene_3/05_exchange_marcus">05 exchange MARCUS</a></li><li><a href="/testi/shakespeare/plays/titus_andronicus/act_5/scene_3/06_exchange_aaron">06 exchange AARON</a></li><li><a href="/testi/shakespeare/plays/titus_andronicus/act_5/scene_3/07_monologue_in">07 monologue IN</a></li><li><a href="/testi/shakespeare/plays/titus_andronicus/act_5/scene_3/08_exchange_the_persons_of_the_play">08 exchange THE PERSONS OF THE PLAY</a></li></ul>
+</nav>
 
 
 | Chi parla | Battuta |

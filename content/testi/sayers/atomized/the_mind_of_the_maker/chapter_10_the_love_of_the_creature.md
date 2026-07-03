@@ -14,6 +14,10 @@ tags:
 <div class="excerpt-crumb">Sayers · <a href="/works/the-mind-of-the-maker-(sayers)">The Mind of the Maker</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/sayers/atomized/the_mind_of_the_maker/chapter_09_pentecost">‹ Chapter 09 Pentecost</a><a class="ex-next" href="/testi/sayers/atomized/the_mind_of_the_maker/chapter_11_scalene_trinities">Chapter 11 Scalene Trinities ›</a></div>
 </nav>
+<nav class="excerpt-children">
+<div class="excerpt-children-label">In questa sezione</div>
+<ul><li><a href="/testi/sayers/atomized/the_mind_of_the_maker/chapter_10_the_love_of_the_creature/part_01">Part 1</a></li><li><a href="/testi/sayers/atomized/the_mind_of_the_maker/chapter_10_the_love_of_the_creature/part_02">Part 2</a></li><li><a href="/testi/sayers/atomized/the_mind_of_the_maker/chapter_10_the_love_of_the_creature/part_03">Part 3</a></li><li><a href="/testi/sayers/atomized/the_mind_of_the_maker/chapter_10_the_love_of_the_creature/part_04">Part 4</a></li><li><a href="/testi/sayers/atomized/the_mind_of_the_maker/chapter_10_the_love_of_the_creature/part_05">Part 5</a></li></ul>
+</nav>
 
 
 CHAPTER 10. The [[Love]] of the Creature

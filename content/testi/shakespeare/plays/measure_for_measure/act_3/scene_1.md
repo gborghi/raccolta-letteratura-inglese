@@ -12,6 +12,10 @@ tags:
 <div class="excerpt-crumb">Shakespeare · <a href="/works/measure-for-measure-(shakespeare)">Measure for Measure</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/shakespeare/plays/measure_for_measure/act_2/scene_3">‹ Scene 3</a><a class="ex-next" href="/testi/shakespeare/plays/measure_for_measure/act_4/scene_1">Scene 1 ›</a></div>
 </nav>
+<nav class="excerpt-children">
+<div class="excerpt-children-label">In questa sezione</div>
+<ul><li><a href="/testi/shakespeare/plays/measure_for_measure/act_3/scene_1/01_exchange_dialogue">01 exchange dialogue</a></li><li><a href="/testi/shakespeare/plays/measure_for_measure/act_3/scene_1/02_monologue_duke">02 monologue DUKE</a></li><li><a href="/testi/shakespeare/plays/measure_for_measure/act_3/scene_1/03_exchange_claudio">03 exchange CLAUDIO</a></li><li><a href="/testi/shakespeare/plays/measure_for_measure/act_3/scene_1/04_exchange_claudio">04 exchange CLAUDIO</a></li><li><a href="/testi/shakespeare/plays/measure_for_measure/act_3/scene_1/05_exchange_claudio">05 exchange CLAUDIO</a></li><li><a href="/testi/shakespeare/plays/measure_for_measure/act_3/scene_1/06_exchange_isabella">06 exchange ISABELLA</a></li><li><a href="/testi/shakespeare/plays/measure_for_measure/act_3/scene_1/07_monologue_duke">07 monologue DUKE</a></li><li><a href="/testi/shakespeare/plays/measure_for_measure/act_3/scene_1/08_exchange_isabella">08 exchange ISABELLA</a></li><li><a href="/testi/shakespeare/plays/measure_for_measure/act_3/scene_1/09_exchange_duke">09 exchange DUKE</a></li><li><a href="/testi/shakespeare/plays/measure_for_measure/act_3/scene_1/10_exchange_duke_i">10 exchange DUKE I</a></li><li><a href="/testi/shakespeare/plays/measure_for_measure/act_3/scene_1/11_exchange_escalus">11 exchange ESCALUS</a></li><li><a href="/testi/shakespeare/plays/measure_for_measure/act_3/scene_1/12_exchange_duke">12 exchange DUKE</a></li></ul>
+</nav>
 
 
 | Chi parla | Battuta |

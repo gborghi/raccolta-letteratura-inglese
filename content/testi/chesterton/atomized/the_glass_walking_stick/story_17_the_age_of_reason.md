@@ -12,6 +12,10 @@ tags:
 <div class="excerpt-crumb">Chesterton · <a href="/works/the-glass-walking-stick-(chesterton)">The Glass Walking Stick</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/the_glass_walking_stick/story_16_what_might_have_been">‹ Story 16 What Might Have Been</a><a class="ex-next" href="/testi/chesterton/atomized/the_glass_walking_stick/story_18_the_victorians">Story 18 The Victorians ›</a></div>
 </nav>
+<nav class="excerpt-children">
+<div class="excerpt-children-label">In questa sezione</div>
+<ul><li><a href="/testi/chesterton/atomized/the_glass_walking_stick/story_17_the_age_of_reason/part_01">Part 1</a></li><li><a href="/testi/chesterton/atomized/the_glass_walking_stick/story_17_the_age_of_reason/part_02">Part 2</a></li></ul>
+</nav>
 
 
 THE AGE OF REASON

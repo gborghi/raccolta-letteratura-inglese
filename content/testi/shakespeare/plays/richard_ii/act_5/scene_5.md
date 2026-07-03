@@ -12,6 +12,10 @@ tags:
 <div class="excerpt-crumb">Shakespeare · <a href="/works/richard-ii-(shakespeare)">Richard II</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/shakespeare/plays/richard_ii/act_5/scene_4">‹ Scene 4</a><span></span></div>
 </nav>
+<nav class="excerpt-children">
+<div class="excerpt-children-label">In questa sezione</div>
+<ul><li><a href="/testi/shakespeare/plays/richard_ii/act_5/scene_5/01_exchange_dialogue">01 exchange dialogue</a></li><li><a href="/testi/shakespeare/plays/richard_ii/act_5/scene_5/02_monologue_richard">02 monologue RICHARD</a></li><li><a href="/testi/shakespeare/plays/richard_ii/act_5/scene_5/03_exchange_groom">03 exchange GROOM</a></li><li><a href="/testi/shakespeare/plays/richard_ii/act_5/scene_5/04_exchange_northumberland">04 exchange NORTHUMBERLAND</a></li><li><a href="/testi/shakespeare/plays/richard_ii/act_5/scene_5/05_exchange_bolingbroke">05 exchange BOLINGBROKE</a></li><li><a href="/testi/shakespeare/plays/richard_ii/act_5/scene_5/06_monologue_john_of_gaunt">06 monologue JOHN OF GAUNT</a></li><li><a href="/testi/shakespeare/plays/richard_ii/act_5/scene_5/07_exchange_another_lord">07 exchange ANOTHER LORD</a></li><li><a href="/testi/shakespeare/plays/richard_ii/act_5/scene_5/08_monologue_on">08 monologue ON</a></li><li><a href="/testi/shakespeare/plays/richard_ii/act_5/scene_5/09_exchange_the_persons_of_the_play">09 exchange THE PERSONS OF THE PLAY</a></li></ul>
+</nav>
 
 
 | Chi parla | Battuta |

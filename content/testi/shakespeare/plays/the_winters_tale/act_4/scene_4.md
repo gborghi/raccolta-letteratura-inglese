@@ -12,6 +12,10 @@ tags:
 <div class="excerpt-crumb">Shakespeare · <a href="/works/the-winter’s-tale-(shakespeare)">The Winters Tale</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/shakespeare/plays/the_winters_tale/act_4/scene_3">‹ Scene 3</a><a class="ex-next" href="/testi/shakespeare/plays/the_winters_tale/act_5/scene_1">Scene 1 ›</a></div>
 </nav>
+<nav class="excerpt-children">
+<div class="excerpt-children-label">In questa sezione</div>
+<ul><li><a href="/testi/shakespeare/plays/the_winters_tale/act_4/scene_4/01_exchange_dialogue">01 exchange dialogue</a></li><li><a href="/testi/shakespeare/plays/the_winters_tale/act_4/scene_4/02_exchange_perdita">02 exchange PERDITA</a></li><li><a href="/testi/shakespeare/plays/the_winters_tale/act_4/scene_4/03_exchange_florizel">03 exchange FLORIZEL</a></li><li><a href="/testi/shakespeare/plays/the_winters_tale/act_4/scene_4/04_exchange_polixenes">04 exchange POLIXENES</a></li><li><a href="/testi/shakespeare/plays/the_winters_tale/act_4/scene_4/05_exchange_mopsa">05 exchange MOPSA</a></li><li><a href="/testi/shakespeare/plays/the_winters_tale/act_4/scene_4/06_exchange_florizel">06 exchange FLORIZEL</a></li><li><a href="/testi/shakespeare/plays/the_winters_tale/act_4/scene_4/07_exchange_old_shepherd">07 exchange OLD SHEPHERD</a></li><li><a href="/testi/shakespeare/plays/the_winters_tale/act_4/scene_4/08_exchange_florizel">08 exchange FLORIZEL</a></li><li><a href="/testi/shakespeare/plays/the_winters_tale/act_4/scene_4/09_exchange_camillo">09 exchange CAMILLO</a></li><li><a href="/testi/shakespeare/plays/the_winters_tale/act_4/scene_4/10_monologue_autolycus">10 monologue AUTOLYCUS</a></li><li><a href="/testi/shakespeare/plays/the_winters_tale/act_4/scene_4/11_exchange_camillo">11 exchange CAMILLO</a></li><li><a href="/testi/shakespeare/plays/the_winters_tale/act_4/scene_4/12_exchange_clown">12 exchange CLOWN</a></li><li><a href="/testi/shakespeare/plays/the_winters_tale/act_4/scene_4/13_exchange_clown">13 exchange CLOWN</a></li><li><a href="/testi/shakespeare/plays/the_winters_tale/act_4/scene_4/14_exchange_autolycus">14 exchange AUTOLYCUS</a></li></ul>
+</nav>
 
 
 | Chi parla | Battuta |

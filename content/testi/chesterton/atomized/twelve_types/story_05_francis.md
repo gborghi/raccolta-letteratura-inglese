@@ -12,6 +12,10 @@ tags:
 <div class="excerpt-crumb">Chesterton · <a href="/works/twelve-types-(chesterton)">Twelve Types</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/twelve_types/story_04_pope_and_the_art_of_satire_satire">‹ Story 04 POPE AND THE ART OF Satire SATIRE</a><a class="ex-next" href="/testi/chesterton/atomized/twelve_types/story_06_rostand">Story 06 ROSTAND ›</a></div>
 </nav>
+<nav class="excerpt-children">
+<div class="excerpt-children-label">In questa sezione</div>
+<ul><li><a href="/testi/chesterton/atomized/twelve_types/story_05_francis/part_01">Part 1</a></li><li><a href="/testi/chesterton/atomized/twelve_types/story_05_francis/part_02">Part 2</a></li></ul>
+</nav>
 
 
 FRANCIS

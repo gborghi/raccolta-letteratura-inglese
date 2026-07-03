@@ -12,6 +12,10 @@ tags:
 <div class="excerpt-crumb">Austen · <a href="/works/emma-(austen)">Emma</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/austen/atomized/emma/chapter_09">‹ Chapter 09</a><a class="ex-next" href="/testi/austen/atomized/emma/chapter_11">Chapter 11 ›</a></div>
 </nav>
+<nav class="excerpt-children">
+<div class="excerpt-children-label">In questa sezione</div>
+<ul><li><a href="/testi/austen/atomized/emma/chapter_10/part_01">Part 1</a></li><li><a href="/testi/austen/atomized/emma/chapter_10/part_02">Part 2</a></li></ul>
+</nav>
 
 
 CHAPTER X

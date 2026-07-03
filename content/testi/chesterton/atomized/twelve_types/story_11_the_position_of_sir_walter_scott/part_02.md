@@ -9,7 +9,7 @@ tags:
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/works/twelve-types-(chesterton)">Twelve Types</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/twelve-types-(chesterton)">Twelve Types</a> › <a href="/testi/chesterton/atomized/twelve_types/story_11_the_position_of_sir_walter_scott">Story 11 THE POSITION OF SIR WALTER SCOTT</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/twelve_types/story_11_the_position_of_sir_walter_scott/part_01">‹ part 01</a><a class="ex-next" href="/testi/chesterton/atomized/twelve_types/story_11_the_position_of_sir_walter_scott/part_03">part 03 ›</a></div>
 </nav>
 

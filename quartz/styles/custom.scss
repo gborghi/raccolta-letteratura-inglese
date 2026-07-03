@@ -200,6 +200,11 @@ table.lt-table tr:hover td { background: var(--highlight); }
 .excerpt-pn a { text-decoration: none; color: var(--secondary); font-weight: 600; }
 .excerpt-pn a:hover { text-decoration: underline; }
 .excerpt-pn .ex-next { margin-left: auto; text-align: right; }
+.excerpt-children { margin: 0.2rem 0 1.4rem; }
+.excerpt-children-label { font-size: 0.8rem; text-transform: uppercase; letter-spacing: 0.04em; color: var(--gray); margin-bottom: 0.3rem; }
+.excerpt-children ul { list-style: none; margin: 0; padding: 0; display: flex; flex-wrap: wrap; gap: 0.4rem; }
+.excerpt-children li a { display: inline-block; padding: 0.15rem 0.6rem; border: 1px solid var(--lightgray); border-radius: 0.4rem; font-size: 0.85rem; text-decoration: none; color: var(--secondary); }
+.excerpt-children li a:hover { background: var(--lightgray); }
 .lt-type { color: var(--gray); font-size: 0.8rem; text-transform: capitalize; }
 
 // ----- ConceptWorks (.cw-* table) -----

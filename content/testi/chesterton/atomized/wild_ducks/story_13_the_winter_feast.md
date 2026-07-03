@@ -12,6 +12,10 @@ tags:
 <div class="excerpt-crumb">Chesterton · <a href="/works/wild-ducks-(chesterton)">Wild Ducks</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/wild_ducks/story_12_culture_versus_civilisation">‹ Story 12 Culture versus Civilisation</a><a class="ex-next" href="/testi/chesterton/atomized/wild_ducks/story_14_they_tell_a_story">Story 14 They Tell a Story ›</a></div>
 </nav>
+<nav class="excerpt-children">
+<div class="excerpt-children-label">In questa sezione</div>
+<ul><li><a href="/testi/chesterton/atomized/wild_ducks/story_13_the_winter_feast/part_01">Part 1</a></li><li><a href="/testi/chesterton/atomized/wild_ducks/story_13_the_winter_feast/part_02">Part 2</a></li></ul>
+</nav>
 
 
 The Winter Feast

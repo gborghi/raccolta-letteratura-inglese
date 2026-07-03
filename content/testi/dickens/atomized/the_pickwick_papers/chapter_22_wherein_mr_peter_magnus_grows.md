@@ -12,6 +12,10 @@ tags:
 <div class="excerpt-crumb">Dickens · <a href="/works/the-pickwick-papers-(dickens)">The Pickwick Papers</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/the_pickwick_papers/chapter_21_in_which_mr_samuel_weller_begi">‹ Chapter 21 IN WHICH MR SAMUEL WELLER BEGI</a><a class="ex-next" href="/testi/dickens/atomized/the_pickwick_papers/chapter_23_showing_among_a_variety_of_ple">Chapter 23 SHOWING AMONG A VARIETY OF PLE ›</a></div>
 </nav>
+<nav class="excerpt-children">
+<div class="excerpt-children-label">In questa sezione</div>
+<ul><li><a href="/testi/dickens/atomized/the_pickwick_papers/chapter_22_wherein_mr_peter_magnus_grows/part_01">Part 1</a></li><li><a href="/testi/dickens/atomized/the_pickwick_papers/chapter_22_wherein_mr_peter_magnus_grows/part_02">Part 2</a></li><li><a href="/testi/dickens/atomized/the_pickwick_papers/chapter_22_wherein_mr_peter_magnus_grows/part_03">Part 3</a></li><li><a href="/testi/dickens/atomized/the_pickwick_papers/chapter_22_wherein_mr_peter_magnus_grows/part_04">Part 4</a></li><li><a href="/testi/dickens/atomized/the_pickwick_papers/chapter_22_wherein_mr_peter_magnus_grows/part_05">Part 5</a></li><li><a href="/testi/dickens/atomized/the_pickwick_papers/chapter_22_wherein_mr_peter_magnus_grows/part_06">Part 6</a></li></ul>
+</nav>
 
 
 CHAPTER XXIV. WHEREIN MR. PETER MAGNUS GROWS JEALOUS, AND THE MIDDLE-

@@ -12,6 +12,10 @@ tags:
 <div class="excerpt-crumb">Shakespeare · <a href="/works/richard-ii-(shakespeare)">Richard II</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/shakespeare/plays/richard_ii/act_3/scene_4">‹ Scene 4</a><a class="ex-next" href="/testi/shakespeare/plays/richard_ii/act_5/scene_1">Scene 1 ›</a></div>
 </nav>
+<nav class="excerpt-children">
+<div class="excerpt-children-label">In questa sezione</div>
+<ul><li><a href="/testi/shakespeare/plays/richard_ii/act_4/scene_1/01_exchange_dialogue">01 exchange dialogue</a></li><li><a href="/testi/shakespeare/plays/richard_ii/act_4/scene_1/02_exchange_surrey">02 exchange SURREY</a></li><li><a href="/testi/shakespeare/plays/richard_ii/act_4/scene_1/03_monologue_bishop_of_carlisle">03 monologue BISHOP OF CARLISLE</a></li><li><a href="/testi/shakespeare/plays/richard_ii/act_4/scene_1/04_exchange_northumberland">04 exchange NORTHUMBERLAND</a></li><li><a href="/testi/shakespeare/plays/richard_ii/act_4/scene_1/05_monologue_richard">05 monologue RICHARD</a></li><li><a href="/testi/shakespeare/plays/richard_ii/act_4/scene_1/06_exchange_northumberland">06 exchange NORTHUMBERLAND</a></li><li><a href="/testi/shakespeare/plays/richard_ii/act_4/scene_1/07_exchange_bolingbroke">07 exchange BOLINGBROKE</a></li></ul>
+</nav>
 
 
 | Chi parla | Battuta |

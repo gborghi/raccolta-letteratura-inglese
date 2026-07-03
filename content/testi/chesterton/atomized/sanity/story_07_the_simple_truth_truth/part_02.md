@@ -9,7 +9,7 @@ tags:
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/works/sanity-(chesterton)">Sanity</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/sanity-(chesterton)">Sanity</a> › <a href="/testi/chesterton/atomized/sanity/story_07_the_simple_truth_truth">Story 07 THE SIMPLE Truth TRUTH</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/sanity/story_07_the_simple_truth_truth/part_01">‹ part 01</a><a class="ex-next" href="/testi/chesterton/atomized/sanity/story_08_vows_and_volunteers/part_01">part 01 ›</a></div>
 </nav>
 

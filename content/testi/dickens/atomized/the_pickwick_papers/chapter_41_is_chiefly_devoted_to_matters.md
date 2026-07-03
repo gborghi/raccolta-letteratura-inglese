@@ -12,6 +12,10 @@ tags:
 <div class="excerpt-crumb">Dickens · <a href="/works/the-pickwick-papers-(dickens)">The Pickwick Papers</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/the_pickwick_papers/chapter_40_records_a_touching_act_of_deli">‹ Chapter 40 RECORDS A TOUCHING ACT OF DELI</a><a class="ex-next" href="/testi/dickens/atomized/the_pickwick_papers/chapter_42_containing_the_story_of_the_ba">Chapter 42 CONTAINING THE STORY OF THE BA ›</a></div>
 </nav>
+<nav class="excerpt-children">
+<div class="excerpt-children-label">In questa sezione</div>
+<ul><li><a href="/testi/dickens/atomized/the_pickwick_papers/chapter_41_is_chiefly_devoted_to_matters/part_01">Part 1</a></li><li><a href="/testi/dickens/atomized/the_pickwick_papers/chapter_41_is_chiefly_devoted_to_matters/part_02">Part 2</a></li><li><a href="/testi/dickens/atomized/the_pickwick_papers/chapter_41_is_chiefly_devoted_to_matters/part_03">Part 3</a></li><li><a href="/testi/dickens/atomized/the_pickwick_papers/chapter_41_is_chiefly_devoted_to_matters/part_04">Part 4</a></li><li><a href="/testi/dickens/atomized/the_pickwick_papers/chapter_41_is_chiefly_devoted_to_matters/part_05">Part 5</a></li><li><a href="/testi/dickens/atomized/the_pickwick_papers/chapter_41_is_chiefly_devoted_to_matters/part_06">Part 6</a></li><li><a href="/testi/dickens/atomized/the_pickwick_papers/chapter_41_is_chiefly_devoted_to_matters/part_07">Part 7</a></li><li><a href="/testi/dickens/atomized/the_pickwick_papers/chapter_41_is_chiefly_devoted_to_matters/part_08">Part 8</a></li><li><a href="/testi/dickens/atomized/the_pickwick_papers/chapter_41_is_chiefly_devoted_to_matters/part_09">Part 9</a></li></ul>
+</nav>
 
 
 CHAPTER XLVII. IS CHIEFLY DEVOTED TO MATTERS OF BUSINESS, AND THE

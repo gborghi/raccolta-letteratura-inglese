@@ -12,6 +12,10 @@ tags:
 <div class="excerpt-crumb">Austen · <a href="/works/northanger-abbey-(austen)">Northanger Abbey</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/austen/atomized/northanger_abbey/chapter_13">‹ Chapter 13</a><a class="ex-next" href="/testi/austen/atomized/northanger_abbey/chapter_15">Chapter 15 ›</a></div>
 </nav>
+<nav class="excerpt-children">
+<div class="excerpt-children-label">In questa sezione</div>
+<ul><li><a href="/testi/austen/atomized/northanger_abbey/chapter_14/part_01">Part 1</a></li><li><a href="/testi/austen/atomized/northanger_abbey/chapter_14/part_02">Part 2</a></li><li><a href="/testi/austen/atomized/northanger_abbey/chapter_14/part_03">Part 3</a></li></ul>
+</nav>
 
 
 CHAPTER 13

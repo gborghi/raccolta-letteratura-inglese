@@ -12,6 +12,10 @@ tags:
 <div class="excerpt-crumb">Chesterton · <a href="/works/sanity-(chesterton)">Sanity</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/sanity/story_06_some_aspects_of_the_land">‹ Story 06 SOME ASPECTS OF THE LAND</a><a class="ex-next" href="/testi/chesterton/atomized/sanity/story_08_vows_and_volunteers">Story 08 VOWS AND VOLUNTEERS ›</a></div>
 </nav>
+<nav class="excerpt-children">
+<div class="excerpt-children-label">In questa sezione</div>
+<ul><li><a href="/testi/chesterton/atomized/sanity/story_07_the_simple_truth_truth/part_01">Part 1</a></li><li><a href="/testi/chesterton/atomized/sanity/story_07_the_simple_truth_truth/part_02">Part 2</a></li></ul>
+</nav>
 
 
 I THE SIMPLE [[Truth|TRUTH]]

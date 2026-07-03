@@ -12,6 +12,10 @@ tags:
 <div class="excerpt-crumb">Dickens · <a href="/works/barnaby-rudge-(dickens)">Barnaby Rudge</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/barnaby_rudge/chapter_20">‹ Chapter 20</a><a class="ex-next" href="/testi/dickens/atomized/barnaby_rudge/chapter_22">Chapter 22 ›</a></div>
 </nav>
+<nav class="excerpt-children">
+<div class="excerpt-children-label">In questa sezione</div>
+<ul><li><a href="/testi/dickens/atomized/barnaby_rudge/chapter_21/part_01">Part 1</a></li><li><a href="/testi/dickens/atomized/barnaby_rudge/chapter_21/part_02">Part 2</a></li><li><a href="/testi/dickens/atomized/barnaby_rudge/chapter_21/part_03">Part 3</a></li></ul>
+</nav>
 
 
 Chapter 21

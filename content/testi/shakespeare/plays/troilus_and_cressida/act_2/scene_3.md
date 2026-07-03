@@ -12,6 +12,10 @@ tags:
 <div class="excerpt-crumb">Shakespeare · <a href="/works/troilus-and-cressida-(shakespeare)">Troilus and Cressida</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/shakespeare/plays/troilus_and_cressida/act_2/scene_1">‹ Scene 1</a><a class="ex-next" href="/testi/shakespeare/plays/troilus_and_cressida/act_3/scene_1">Scene 1 ›</a></div>
 </nav>
+<nav class="excerpt-children">
+<div class="excerpt-children-label">In questa sezione</div>
+<ul><li><a href="/testi/shakespeare/plays/troilus_and_cressida/act_2/scene_3/01_exchange_dialogue">01 exchange dialogue</a></li><li><a href="/testi/shakespeare/plays/troilus_and_cressida/act_2/scene_3/02_monologue_thersites">02 monologue THERSITES</a></li><li><a href="/testi/shakespeare/plays/troilus_and_cressida/act_2/scene_3/03_exchange_patroclus">03 exchange PATROCLUS</a></li><li><a href="/testi/shakespeare/plays/troilus_and_cressida/act_2/scene_3/04_exchange_nestor">04 exchange NESTOR</a></li><li><a href="/testi/shakespeare/plays/troilus_and_cressida/act_2/scene_3/05_monologue_agamemnon">05 monologue AGAMEMNON</a></li><li><a href="/testi/shakespeare/plays/troilus_and_cressida/act_2/scene_3/06_exchange_patroclus">06 exchange PATROCLUS</a></li><li><a href="/testi/shakespeare/plays/troilus_and_cressida/act_2/scene_3/07_exchange_agamemnon_o">07 exchange AGAMEMNON O</a></li></ul>
+</nav>
 
 
 | Chi parla | Battuta |

@@ -12,6 +12,10 @@ tags:
 <div class="excerpt-crumb">Shakespeare · <a href="/works/coriolanus-(shakespeare)">Coriolanus</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/shakespeare/plays/coriolanus/act_4/scene_4">‹ Scene 4</a><a class="ex-next" href="/testi/shakespeare/plays/coriolanus/act_4/scene_6">Scene 6 ›</a></div>
 </nav>
+<nav class="excerpt-children">
+<div class="excerpt-children-label">In questa sezione</div>
+<ul><li><a href="/testi/shakespeare/plays/coriolanus/act_4/scene_5/01_exchange_dialogue">01 exchange dialogue</a></li><li><a href="/testi/shakespeare/plays/coriolanus/act_4/scene_5/02_exchange_coriolanus">02 exchange CORIOLANUS</a></li><li><a href="/testi/shakespeare/plays/coriolanus/act_4/scene_5/03_monologue_coriolanus">03 monologue CORIOLANUS</a></li><li><a href="/testi/shakespeare/plays/coriolanus/act_4/scene_5/04_monologue_aufidius_o">04 monologue AUFIDIUS O</a></li><li><a href="/testi/shakespeare/plays/coriolanus/act_4/scene_5/05_exchange_coriolanus">05 exchange CORIOLANUS</a></li><li><a href="/testi/shakespeare/plays/coriolanus/act_4/scene_5/06_exchange_second_servingman">06 exchange SECOND SERVINGMAN</a></li></ul>
+</nav>
 
 
 | Chi parla | Battuta |

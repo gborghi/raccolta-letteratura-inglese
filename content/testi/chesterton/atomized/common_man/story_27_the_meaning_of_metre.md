@@ -12,6 +12,10 @@ tags:
 <div class="excerpt-crumb">Chesterton · <a href="/works/common-man-(chesterton)">Common Man</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/common_man/story_26_the_erastian_on_the_establishment">‹ Story 26 The Erastian On The Establishment</a><a class="ex-next" href="/testi/chesterton/atomized/common_man/story_28_the_epitaph_of_pierpont_morgan">Story 28 The Epitaph Of Pierpont Morgan ›</a></div>
 </nav>
+<nav class="excerpt-children">
+<div class="excerpt-children-label">In questa sezione</div>
+<ul><li><a href="/testi/chesterton/atomized/common_man/story_27_the_meaning_of_metre/part_01">Part 1</a></li><li><a href="/testi/chesterton/atomized/common_man/story_27_the_meaning_of_metre/part_02">Part 2</a></li></ul>
+</nav>
 
 
 THE MEANING OF METRE

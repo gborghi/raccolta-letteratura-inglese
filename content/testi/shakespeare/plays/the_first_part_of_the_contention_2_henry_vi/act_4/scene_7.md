@@ -12,6 +12,10 @@ tags:
 <div class="excerpt-crumb">Shakespeare · <a href="/works/the-first-part-of-the-contention---(2-henry-vi)-(shakespeare)">The First Part of the Contention 2 Henry VI</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/shakespeare/plays/the_first_part_of_the_contention_2_henry_vi/act_4/scene_6">‹ Scene 6</a><a class="ex-next" href="/testi/shakespeare/plays/the_first_part_of_the_contention_2_henry_vi/act_4/scene_8">Scene 8 ›</a></div>
 </nav>
+<nav class="excerpt-children">
+<div class="excerpt-children-label">In questa sezione</div>
+<ul><li><a href="/testi/shakespeare/plays/the_first_part_of_the_contention_2_henry_vi/act_4/scene_7/01_exchange_dialogue">01 exchange dialogue</a></li><li><a href="/testi/shakespeare/plays/the_first_part_of_the_contention_2_henry_vi/act_4/scene_7/02_monologue_cade">02 monologue CADE</a></li><li><a href="/testi/shakespeare/plays/the_first_part_of_the_contention_2_henry_vi/act_4/scene_7/03_exchange_saye">03 exchange SAYE</a></li><li><a href="/testi/shakespeare/plays/the_first_part_of_the_contention_2_henry_vi/act_4/scene_7/04_exchange_all_cades_followers">04 exchange ALL CADES FOLLOWERS</a></li><li><a href="/testi/shakespeare/plays/the_first_part_of_the_contention_2_henry_vi/act_4/scene_7/05_exchange_all_cades">05 exchange ALL CADES</a></li></ul>
+</nav>
 
 
 | Chi parla | Battuta |

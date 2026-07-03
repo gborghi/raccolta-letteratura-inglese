@@ -12,6 +12,10 @@ tags:
 <div class="excerpt-crumb">Chesterton · <a href="/works/well-and-shallows-(chesterton)">Well And Shallows</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/well_and_shallows/story_11_the_return_to_religion">‹ Story 11 The Return To Religion</a><a class="ex-next" href="/testi/chesterton/atomized/well_and_shallows/story_13_levity_or_levitation">Story 13 Levity Or Levitation ›</a></div>
 </nav>
+<nav class="excerpt-children">
+<div class="excerpt-children-label">In questa sezione</div>
+<ul><li><a href="/testi/chesterton/atomized/well_and_shallows/story_12_the_reaction_of_the_intellectuals/part_01">Part 1</a></li><li><a href="/testi/chesterton/atomized/well_and_shallows/story_12_the_reaction_of_the_intellectuals/part_02">Part 2</a></li><li><a href="/testi/chesterton/atomized/well_and_shallows/story_12_the_reaction_of_the_intellectuals/part_03">Part 3</a></li></ul>
+</nav>
 
 
 THE REACTION OF THE INTELLECTUALS

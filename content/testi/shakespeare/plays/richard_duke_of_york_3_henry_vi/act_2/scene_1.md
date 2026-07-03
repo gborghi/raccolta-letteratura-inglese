@@ -12,6 +12,10 @@ tags:
 <div class="excerpt-crumb">Shakespeare · <a href="/works/richard-duke-of-york---(3-henry-vi)-(shakespeare)">Richard Duke of York 3 Henry VI</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/shakespeare/plays/richard_duke_of_york_3_henry_vi/act_1/scene_4">‹ Scene 4</a><a class="ex-next" href="/testi/shakespeare/plays/richard_duke_of_york_3_henry_vi/act_2/scene_3">Scene 3 ›</a></div>
 </nav>
+<nav class="excerpt-children">
+<div class="excerpt-children-label">In questa sezione</div>
+<ul><li><a href="/testi/shakespeare/plays/richard_duke_of_york_3_henry_vi/act_2/scene_1/01_exchange_dialogue">01 exchange dialogue</a></li><li><a href="/testi/shakespeare/plays/richard_duke_of_york_3_henry_vi/act_2/scene_1/02_exchange_edward">02 exchange EDWARD</a></li><li><a href="/testi/shakespeare/plays/richard_duke_of_york_3_henry_vi/act_2/scene_1/03_monologue_warwick">03 monologue WARWICK</a></li><li><a href="/testi/shakespeare/plays/richard_duke_of_york_3_henry_vi/act_2/scene_1/04_exchange_edward">04 exchange EDWARD</a></li><li><a href="/testi/shakespeare/plays/richard_duke_of_york_3_henry_vi/act_2/scene_1/05_exchange_warwick">05 exchange WARWICK</a></li><li><a href="/testi/shakespeare/plays/richard_duke_of_york_3_henry_vi/act_2/scene_1/06_monologue_clifford">06 monologue CLIFFORD</a></li><li><a href="/testi/shakespeare/plays/richard_duke_of_york_3_henry_vi/act_2/scene_1/07_exchange_king_henry">07 exchange KING HENRY</a></li><li><a href="/testi/shakespeare/plays/richard_duke_of_york_3_henry_vi/act_2/scene_1/08_exchange_richard">08 exchange RICHARD</a></li><li><a href="/testi/shakespeare/plays/richard_duke_of_york_3_henry_vi/act_2/scene_1/09_exchange_george">09 exchange GEORGE</a></li></ul>
+</nav>
 
 
 | Chi parla | Battuta |

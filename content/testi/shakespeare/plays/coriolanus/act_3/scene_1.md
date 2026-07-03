@@ -12,6 +12,10 @@ tags:
 <div class="excerpt-crumb">Shakespeare · <a href="/works/coriolanus-(shakespeare)">Coriolanus</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/shakespeare/plays/coriolanus/act_2/scene_3">‹ Scene 3</a><a class="ex-next" href="/testi/shakespeare/plays/coriolanus/act_3/scene_2">Scene 2 ›</a></div>
 </nav>
+<nav class="excerpt-children">
+<div class="excerpt-children-label">In questa sezione</div>
+<ul><li><a href="/testi/shakespeare/plays/coriolanus/act_3/scene_1/01_exchange_dialogue">01 exchange dialogue</a></li><li><a href="/testi/shakespeare/plays/coriolanus/act_3/scene_1/02_exchange_menenius">02 exchange MENENIUS</a></li><li><a href="/testi/shakespeare/plays/coriolanus/act_3/scene_1/03_monologue_coriolanus">03 monologue CORIOLANUS</a></li><li><a href="/testi/shakespeare/plays/coriolanus/act_3/scene_1/04_exchange_cominius">04 exchange COMINIUS</a></li><li><a href="/testi/shakespeare/plays/coriolanus/act_3/scene_1/05_monologue_coriolanus">05 monologue CORIOLANUS</a></li><li><a href="/testi/shakespeare/plays/coriolanus/act_3/scene_1/06_exchange_menenius">06 exchange MENENIUS</a></li><li><a href="/testi/shakespeare/plays/coriolanus/act_3/scene_1/07_monologue_coriolanus">07 monologue CORIOLANUS</a></li><li><a href="/testi/shakespeare/plays/coriolanus/act_3/scene_1/08_exchange_brutus">08 exchange BRUTUS</a></li><li><a href="/testi/shakespeare/plays/coriolanus/act_3/scene_1/09_exchange_aediles">09 exchange AEDILES</a></li><li><a href="/testi/shakespeare/plays/coriolanus/act_3/scene_1/10_exchange_first_citizen">10 exchange FIRST CITIZEN</a></li><li><a href="/testi/shakespeare/plays/coriolanus/act_3/scene_1/11_exchange_menenius">11 exchange MENENIUS</a></li></ul>
+</nav>
 
 
 | Chi parla | Battuta |

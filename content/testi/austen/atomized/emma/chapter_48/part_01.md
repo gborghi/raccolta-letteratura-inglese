@@ -9,7 +9,7 @@ tags:
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Austen · <a href="/works/emma-(austen)">Emma</a></div>
+<div class="excerpt-crumb">Austen · <a href="/works/emma-(austen)">Emma</a> › <a href="/testi/austen/atomized/emma/chapter_48">Chapter 48</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/austen/atomized/emma/chapter_47/part_04">‹ part 04</a><a class="ex-next" href="/testi/austen/atomized/emma/chapter_48/part_02">part 02 ›</a></div>
 </nav>
 

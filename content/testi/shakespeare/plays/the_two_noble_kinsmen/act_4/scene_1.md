@@ -12,6 +12,10 @@ tags:
 <div class="excerpt-crumb">Shakespeare · <a href="/works/the-two-noble-kinsmen-(shakespeare)">The Two Noble Kinsmen</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/shakespeare/plays/the_two_noble_kinsmen/act_3/scene_6">‹ Scene 6</a><a class="ex-next" href="/testi/shakespeare/plays/the_two_noble_kinsmen/act_4/scene_3">Scene 3 ›</a></div>
 </nav>
+<nav class="excerpt-children">
+<div class="excerpt-children-label">In questa sezione</div>
+<ul><li><a href="/testi/shakespeare/plays/the_two_noble_kinsmen/act_4/scene_1/01_exchange_dialogue">01 exchange dialogue</a></li><li><a href="/testi/shakespeare/plays/the_two_noble_kinsmen/act_4/scene_1/02_exchange_jailer">02 exchange JAILER</a></li><li><a href="/testi/shakespeare/plays/the_two_noble_kinsmen/act_4/scene_1/03_monologue_wooer">03 monologue WOOER</a></li><li><a href="/testi/shakespeare/plays/the_two_noble_kinsmen/act_4/scene_1/04_exchange_second_friend">04 exchange SECOND FRIEND</a></li><li><a href="/testi/shakespeare/plays/the_two_noble_kinsmen/act_4/scene_1/05_exchange_jailers_brother">05 exchange JAILERS BROTHER</a></li><li><a href="/testi/shakespeare/plays/the_two_noble_kinsmen/act_4/scene_1/06_monologue_emilia">06 monologue EMILIA</a></li><li><a href="/testi/shakespeare/plays/the_two_noble_kinsmen/act_4/scene_1/07_exchange_gentleman">07 exchange GENTLEMAN</a></li><li><a href="/testi/shakespeare/plays/the_two_noble_kinsmen/act_4/scene_1/08_monologue_pirithous">08 monologue PIRITHOUS</a></li><li><a href="/testi/shakespeare/plays/the_two_noble_kinsmen/act_4/scene_1/09_exchange_emilia">09 exchange EMILIA</a></li></ul>
+</nav>
 
 
 | Chi parla | Battuta |

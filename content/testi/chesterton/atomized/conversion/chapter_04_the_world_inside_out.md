@@ -12,6 +12,10 @@ tags:
 <div class="excerpt-crumb">Chesterton · <a href="/works/conversion-(chesterton)">The Catholic Church and Conversion</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/conversion/chapter_03_the_real_obstacles">‹ Chapter 03 THE REAL OBSTACLES</a><a class="ex-next" href="/testi/chesterton/atomized/conversion/chapter_05_the_exception_proves_the_rule">Chapter 05 THE EXCEPTION PROVES THE RULE ›</a></div>
 </nav>
+<nav class="excerpt-children">
+<div class="excerpt-children-label">In questa sezione</div>
+<ul><li><a href="/testi/chesterton/atomized/conversion/chapter_04_the_world_inside_out/part_01">Part 1</a></li><li><a href="/testi/chesterton/atomized/conversion/chapter_04_the_world_inside_out/part_02">Part 2</a></li><li><a href="/testi/chesterton/atomized/conversion/chapter_04_the_world_inside_out/part_03">Part 3</a></li></ul>
+</nav>
 
 # [[conversion]] — Chapter 4: THE WORLD INSIDE OUT
 

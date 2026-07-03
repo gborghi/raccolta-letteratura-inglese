@@ -12,6 +12,10 @@ tags:
 <div class="excerpt-crumb">Bronte · <a href="/works/the-professor-(bronte)">The Professor</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/bronte/atomized/the_professor/chapter_18">‹ Chapter 18</a><a class="ex-next" href="/testi/bronte/atomized/the_professor/chapter_20">Chapter 20 ›</a></div>
 </nav>
+<nav class="excerpt-children">
+<div class="excerpt-children-label">In questa sezione</div>
+<ul><li><a href="/testi/bronte/atomized/the_professor/chapter_19/part_01">Part 1</a></li><li><a href="/testi/bronte/atomized/the_professor/chapter_19/part_02">Part 2</a></li><li><a href="/testi/bronte/atomized/the_professor/chapter_19/part_03">Part 3</a></li><li><a href="/testi/bronte/atomized/the_professor/chapter_19/part_04">Part 4</a></li></ul>
+</nav>
 
 
 CHAPTER XVIII.

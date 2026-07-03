@@ -12,6 +12,10 @@ tags:
 <div class="excerpt-crumb">Shakespeare · <a href="/works/as-you-like-it-(shakespeare)">As You Like It</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/shakespeare/plays/as_you_like_it/act_1/scene_1">‹ Scene 1</a><a class="ex-next" href="/testi/shakespeare/plays/as_you_like_it/act_2/scene_1">Scene 1 ›</a></div>
 </nav>
+<nav class="excerpt-children">
+<div class="excerpt-children-label">In questa sezione</div>
+<ul><li><a href="/testi/shakespeare/plays/as_you_like_it/act_1/scene_2/01_exchange_dialogue">01 exchange dialogue</a></li><li><a href="/testi/shakespeare/plays/as_you_like_it/act_1/scene_2/02_exchange_celia">02 exchange CELIA</a></li><li><a href="/testi/shakespeare/plays/as_you_like_it/act_1/scene_2/03_exchange_rosalind">03 exchange ROSALIND</a></li><li><a href="/testi/shakespeare/plays/as_you_like_it/act_1/scene_2/04_exchange_charles">04 exchange CHARLES</a></li><li><a href="/testi/shakespeare/plays/as_you_like_it/act_1/scene_2/05_exchange_orlando">05 exchange ORLANDO</a></li><li><a href="/testi/shakespeare/plays/as_you_like_it/act_1/scene_2/06_exchange_rosalind_i">06 exchange ROSALIND I</a></li><li><a href="/testi/shakespeare/plays/as_you_like_it/act_1/scene_2/07_exchange_celia">07 exchange CELIA</a></li></ul>
+</nav>
 
 
 | Chi parla | Battuta |

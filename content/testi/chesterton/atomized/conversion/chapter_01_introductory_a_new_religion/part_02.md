@@ -9,7 +9,7 @@ tags:
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/works/conversion-(chesterton)">The Catholic Church and Conversion</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/conversion-(chesterton)">The Catholic Church and Conversion</a> › <a href="/testi/chesterton/atomized/conversion/chapter_01_introductory_a_new_religion">Chapter 01 INTRODUCTORY A NEW RELIGION</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/conversion/chapter_01_introductory_a_new_religion/part_01">‹ part 01</a><a class="ex-next" href="/testi/chesterton/atomized/conversion/chapter_02_the_obvious_blunders/part_01">part 01 ›</a></div>
 </nav>
 

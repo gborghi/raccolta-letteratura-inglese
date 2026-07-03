@@ -12,6 +12,10 @@ tags:
 <div class="excerpt-crumb">Shakespeare · <a href="/works/the-history-of-king-lear---the-quarto-text-(shakespeare)">The History of King Lear Quarto Text</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/shakespeare/plays/the_history_of_king_lear_quarto_text/scenes/scene_6">‹ Scene 6</a><a class="ex-next" href="/testi/shakespeare/plays/the_history_of_king_lear_quarto_text/scenes/scene_8">Scene 8 ›</a></div>
 </nav>
+<nav class="excerpt-children">
+<div class="excerpt-children-label">In questa sezione</div>
+<ul><li><a href="/testi/shakespeare/plays/the_history_of_king_lear_quarto_text/scenes/scene_7/01_exchange_dialogue">01 exchange dialogue</a></li><li><a href="/testi/shakespeare/plays/the_history_of_king_lear_quarto_text/scenes/scene_7/02_exchange_cornwall">02 exchange CORNWALL</a></li><li><a href="/testi/shakespeare/plays/the_history_of_king_lear_quarto_text/scenes/scene_7/03_exchange_cornwall">03 exchange CORNWALL</a></li><li><a href="/testi/shakespeare/plays/the_history_of_king_lear_quarto_text/scenes/scene_7/04_monologue_edgar_i">04 monologue EDGAR I</a></li><li><a href="/testi/shakespeare/plays/the_history_of_king_lear_quarto_text/scenes/scene_7/05_exchange_lear">05 exchange LEAR</a></li><li><a href="/testi/shakespeare/plays/the_history_of_king_lear_quarto_text/scenes/scene_7/06_exchange_kent">06 exchange KENT</a></li><li><a href="/testi/shakespeare/plays/the_history_of_king_lear_quarto_text/scenes/scene_7/07_exchange_regan">07 exchange REGAN</a></li><li><a href="/testi/shakespeare/plays/the_history_of_king_lear_quarto_text/scenes/scene_7/08_exchange_gonoril">08 exchange GONORIL</a></li><li><a href="/testi/shakespeare/plays/the_history_of_king_lear_quarto_text/scenes/scene_7/09_monologue_lear">09 monologue LEAR</a></li><li><a href="/testi/shakespeare/plays/the_history_of_king_lear_quarto_text/scenes/scene_7/10_exchange_cornwall">10 exchange CORNWALL</a></li></ul>
+</nav>
 
 
 | Chi parla | Battuta |

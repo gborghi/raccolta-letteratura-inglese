@@ -12,6 +12,10 @@ tags:
 <div class="excerpt-crumb">Shakespeare · <a href="/works/hamlet-(shakespeare)">Hamlet</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/shakespeare/plays/hamlet/act_1/scene_1">‹ Scene 1</a><a class="ex-next" href="/testi/shakespeare/plays/hamlet/act_1/scene_3">Scene 3 ›</a></div>
 </nav>
+<nav class="excerpt-children">
+<div class="excerpt-children-label">In questa sezione</div>
+<ul><li><a href="/testi/shakespeare/plays/hamlet/act_1/scene_2/01_exchange_dialogue">01 exchange dialogue</a></li><li><a href="/testi/shakespeare/plays/hamlet/act_1/scene_2/02_monologue_king_claudius">02 monologue KING CLAUDIUS</a></li><li><a href="/testi/shakespeare/plays/hamlet/act_1/scene_2/03_exchange_valtemand">03 exchange VALTEMAND</a></li><li><a href="/testi/shakespeare/plays/hamlet/act_1/scene_2/04_monologue_king_claudius">04 monologue KING CLAUDIUS</a></li><li><a href="/testi/shakespeare/plays/hamlet/act_1/scene_2/05_exchange_queen_gertrude">05 exchange QUEEN GERTRUDE</a></li><li><a href="/testi/shakespeare/plays/hamlet/act_1/scene_2/06_monologue_hamlet">06 monologue HAMLET</a></li><li><a href="/testi/shakespeare/plays/hamlet/act_1/scene_2/07_exchange_horatio">07 exchange HORATIO</a></li><li><a href="/testi/shakespeare/plays/hamlet/act_1/scene_2/08_exchange_hamlet">08 exchange HAMLET</a></li></ul>
+</nav>
 
 
 | Chi parla | Battuta |

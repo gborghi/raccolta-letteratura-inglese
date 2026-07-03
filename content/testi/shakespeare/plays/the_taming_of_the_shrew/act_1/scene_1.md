@@ -12,6 +12,10 @@ tags:
 <div class="excerpt-crumb">Shakespeare · <a href="/works/the-taming-of-the-shrew-(shakespeare)">The Taming of the Shrew</a></div>
 <div class="excerpt-pn"><span></span><a class="ex-next" href="/testi/shakespeare/plays/the_taming_of_the_shrew/act_1/scene_2">Scene 2 ›</a></div>
 </nav>
+<nav class="excerpt-children">
+<div class="excerpt-children-label">In questa sezione</div>
+<ul><li><a href="/testi/shakespeare/plays/the_taming_of_the_shrew/act_1/scene_1/01_exchange_dialogue">01 exchange dialogue</a></li><li><a href="/testi/shakespeare/plays/the_taming_of_the_shrew/act_1/scene_1/02_monologue_lucentio">02 monologue LUCENTIO</a></li><li><a href="/testi/shakespeare/plays/the_taming_of_the_shrew/act_1/scene_1/03_exchange_tranio">03 exchange TRANIO</a></li><li><a href="/testi/shakespeare/plays/the_taming_of_the_shrew/act_1/scene_1/04_exchange_gremio">04 exchange GREMIO</a></li><li><a href="/testi/shakespeare/plays/the_taming_of_the_shrew/act_1/scene_1/05_exchange_tranio">05 exchange TRANIO</a></li><li><a href="/testi/shakespeare/plays/the_taming_of_the_shrew/act_1/scene_1/06_exchange_biondello">06 exchange BIONDELLO</a></li></ul>
+</nav>
 
 
 | Chi parla | Battuta |

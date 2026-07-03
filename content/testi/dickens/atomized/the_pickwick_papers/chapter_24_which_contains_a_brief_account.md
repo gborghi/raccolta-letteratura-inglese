@@ -12,6 +12,10 @@ tags:
 <div class="excerpt-crumb">Dickens · <a href="/works/the-pickwick-papers-(dickens)">The Pickwick Papers</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/the_pickwick_papers/chapter_23_showing_among_a_variety_of_ple">‹ Chapter 23 SHOWING AMONG A VARIETY OF PLE</a><a class="ex-next" href="/testi/dickens/atomized/the_pickwick_papers/chapter_25_samuel_weller_makes_a_pilgrima">Chapter 25 SAMUEL WELLER MAKES A PILGRIMA ›</a></div>
 </nav>
+<nav class="excerpt-children">
+<div class="excerpt-children-label">In questa sezione</div>
+<ul><li><a href="/testi/dickens/atomized/the_pickwick_papers/chapter_24_which_contains_a_brief_account/part_01">Part 1</a></li><li><a href="/testi/dickens/atomized/the_pickwick_papers/chapter_24_which_contains_a_brief_account/part_02">Part 2</a></li></ul>
+</nav>
 
 
 CHAPTER XXVI. WHICH CONTAINS A BRIEF ACCOUNT OF THE PROGRESS OF THE

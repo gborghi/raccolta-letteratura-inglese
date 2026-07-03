@@ -12,6 +12,10 @@ tags:
 <div class="excerpt-crumb">Dickens · <a href="/works/the-pickwick-papers-(dickens)">The Pickwick Papers</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/the_pickwick_papers/chapter_02_the_pickwickians">‹ Chapter 02 THE PICKWICKIANS</a><a class="ex-next" href="/testi/dickens/atomized/the_pickwick_papers/chapter_04_a_field_day_and_bivouac_more_n">Chapter 04 A FIELD DAY AND BIVOUAC MORE N ›</a></div>
 </nav>
+<nav class="excerpt-children">
+<div class="excerpt-children-label">In questa sezione</div>
+<ul><li><a href="/testi/dickens/atomized/the_pickwick_papers/chapter_03_a_new_acquaintance_the_strolle/part_01">Part 1</a></li><li><a href="/testi/dickens/atomized/the_pickwick_papers/chapter_03_a_new_acquaintance_the_strolle/part_02">Part 2</a></li><li><a href="/testi/dickens/atomized/the_pickwick_papers/chapter_03_a_new_acquaintance_the_strolle/part_03">Part 3</a></li><li><a href="/testi/dickens/atomized/the_pickwick_papers/chapter_03_a_new_acquaintance_the_strolle/part_04">Part 4</a></li></ul>
+</nav>
 
 
 CHAPTER III. A NEW ACQUAINTANCE--THE STROLLER’S TALE--A DISAGREEABLE

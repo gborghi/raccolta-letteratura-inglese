@@ -12,6 +12,10 @@ tags:
 <div class="excerpt-crumb">Chesterton · <a href="/works/the-flying-inn-(chesterton)">The Flying Inn</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/the_flying_inn/chapter_06_the_hole_in_heaven">‹ Chapter 06 THE HOLE IN HEAVEN</a><a class="ex-next" href="/testi/chesterton/atomized/the_flying_inn/chapter_08_vox_populi_vox_dei">Chapter 08 VOX POPULI VOX DEI ›</a></div>
 </nav>
+<nav class="excerpt-children">
+<div class="excerpt-children-label">In questa sezione</div>
+<ul><li><a href="/testi/chesterton/atomized/the_flying_inn/chapter_07_the_society_of_simple_souls/part_01">Part 1</a></li><li><a href="/testi/chesterton/atomized/the_flying_inn/chapter_07_the_society_of_simple_souls/part_02">Part 2</a></li><li><a href="/testi/chesterton/atomized/the_flying_inn/chapter_07_the_society_of_simple_souls/part_03">Part 3</a></li></ul>
+</nav>
 
 
 CHAPTER VII: THE SOCIETY OF SIMPLE SOULS

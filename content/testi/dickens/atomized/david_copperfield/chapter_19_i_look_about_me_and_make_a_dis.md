@@ -12,6 +12,10 @@ tags:
 <div class="excerpt-crumb">Dickens · <a href="/works/david-copperfield-(dickens)">David Copperfield</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/david_copperfield/chapter_18_a_retrospect">‹ Chapter 18 A RETROSPECT</a><a class="ex-next" href="/testi/dickens/atomized/david_copperfield/chapter_20_steerforths_home_home">Chapter 20 STEERFORTHS Home HOME ›</a></div>
 </nav>
+<nav class="excerpt-children">
+<div class="excerpt-children-label">In questa sezione</div>
+<ul><li><a href="/testi/dickens/atomized/david_copperfield/chapter_19_i_look_about_me_and_make_a_dis/part_01">Part 1</a></li><li><a href="/testi/dickens/atomized/david_copperfield/chapter_19_i_look_about_me_and_make_a_dis/part_02">Part 2</a></li><li><a href="/testi/dickens/atomized/david_copperfield/chapter_19_i_look_about_me_and_make_a_dis/part_03">Part 3</a></li><li><a href="/testi/dickens/atomized/david_copperfield/chapter_19_i_look_about_me_and_make_a_dis/part_04">Part 4</a></li><li><a href="/testi/dickens/atomized/david_copperfield/chapter_19_i_look_about_me_and_make_a_dis/part_05">Part 5</a></li><li><a href="/testi/dickens/atomized/david_copperfield/chapter_19_i_look_about_me_and_make_a_dis/part_06">Part 6</a></li></ul>
+</nav>
 
 
 CHAPTER 19. I LOOK ABOUT ME, AND MAKE A DISCOVERY

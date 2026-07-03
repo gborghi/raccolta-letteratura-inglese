@@ -9,7 +9,7 @@ tags:
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/works/the-flying-inn-(chesterton)">The Flying Inn</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/the-flying-inn-(chesterton)">The Flying Inn</a> › <a href="/testi/chesterton/atomized/the_flying_inn/chapter_08_vox_populi_vox_dei">Chapter 08 VOX POPULI VOX DEI</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/the_flying_inn/chapter_07_the_society_of_simple_souls/part_03">‹ part 03</a><a class="ex-next" href="/testi/chesterton/atomized/the_flying_inn/chapter_08_vox_populi_vox_dei/part_02">part 02 ›</a></div>
 </nav>
 

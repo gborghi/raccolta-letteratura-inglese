@@ -9,7 +9,7 @@ tags:
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Austen · <a href="/works/lady-susan-(austen)">Lady Susan</a></div>
+<div class="excerpt-crumb">Austen · <a href="/works/lady-susan-(austen)">Lady Susan</a> › <a href="/testi/austen/atomized/lady_susan/story_17_cath_vernon">Story 17 Cath Vernon</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/austen/atomized/lady_susan/story_17_cath_vernon/part_02">‹ part 02</a><span></span></div>
 </nav>
 

@@ -9,7 +9,7 @@ tags:
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/works/the-glass-walking-stick-(chesterton)">The Glass Walking Stick</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/the-glass-walking-stick-(chesterton)">The Glass Walking Stick</a> › <a href="/testi/chesterton/atomized/the_glass_walking_stick/story_17_the_age_of_reason">Story 17 The Age Of Reason</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/the_glass_walking_stick/story_10_the_national_anthem/part_05">‹ part 05</a><a class="ex-next" href="/testi/chesterton/atomized/the_glass_walking_stick/story_17_the_age_of_reason/part_02">part 02 ›</a></div>
 </nav>
 

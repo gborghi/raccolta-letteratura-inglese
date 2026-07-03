@@ -12,6 +12,10 @@ tags:
 <div class="excerpt-crumb">Shakespeare · <a href="/works/sir-thomas-more-(shakespeare)">Sir Thomas More</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/shakespeare/plays/sir_thomas_more/scenes/scene_8">‹ Scene 8</a><a class="ex-next" href="/testi/shakespeare/plays/sir_thomas_more/scenes/scene_10">Scene 10 ›</a></div>
 </nav>
+<nav class="excerpt-children">
+<div class="excerpt-children-label">In questa sezione</div>
+<ul><li><a href="/testi/shakespeare/plays/sir_thomas_more/scenes/scene_9/01_exchange_dialogue">01 exchange dialogue</a></li><li><a href="/testi/shakespeare/plays/sir_thomas_more/scenes/scene_9/02_monologue_more">02 monologue MORE</a></li><li><a href="/testi/shakespeare/plays/sir_thomas_more/scenes/scene_9/03_exchange_roper">03 exchange ROPER</a></li><li><a href="/testi/shakespeare/plays/sir_thomas_more/scenes/scene_9/04_exchange_lady_more">04 exchange LADY MORE</a></li><li><a href="/testi/shakespeare/plays/sir_thomas_more/scenes/scene_9/05_exchange_more">05 exchange MORE</a></li><li><a href="/testi/shakespeare/plays/sir_thomas_more/scenes/scene_9/06_exchange_wit">06 exchange WIT</a></li><li><a href="/testi/shakespeare/plays/sir_thomas_more/scenes/scene_9/07_exchange_more">07 exchange MORE</a></li><li><a href="/testi/shakespeare/plays/sir_thomas_more/scenes/scene_9/08_exchange_more">08 exchange MORE</a></li></ul>
+</nav>
 
 
 | Chi parla | Battuta |

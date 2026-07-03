@@ -9,7 +9,7 @@ tags:
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/works/well-and-shallows-(chesterton)">Well And Shallows</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/well-and-shallows-(chesterton)">Well And Shallows</a> › <a href="/testi/chesterton/atomized/well_and_shallows/story_03_an_apology_for_buffoons">Story 03 An Apology For Buffoons</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/well_and_shallows/story_36_an_explanation">‹ Story 36 An Explanation</a><a class="ex-next" href="/testi/chesterton/atomized/well_and_shallows/story_03_an_apology_for_buffoons/part_02">part 02 ›</a></div>
 </nav>
 

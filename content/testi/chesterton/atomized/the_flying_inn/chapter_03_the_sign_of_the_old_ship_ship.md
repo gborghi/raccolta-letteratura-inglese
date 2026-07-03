@@ -12,6 +12,10 @@ tags:
 <div class="excerpt-crumb">Chesterton · <a href="/works/the-flying-inn-(chesterton)">The Flying Inn</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/the_flying_inn/chapter_02_the_end_of_olive_island">‹ Chapter 02 THE END OF OLIVE ISLAND</a><a class="ex-next" href="/testi/chesterton/atomized/the_flying_inn/chapter_04_the_inn_finds_wings">Chapter 04 THE INN FINDS WINGS ›</a></div>
 </nav>
+<nav class="excerpt-children">
+<div class="excerpt-children-label">In questa sezione</div>
+<ul><li><a href="/testi/chesterton/atomized/the_flying_inn/chapter_03_the_sign_of_the_old_ship_ship/part_01">Part 1</a></li><li><a href="/testi/chesterton/atomized/the_flying_inn/chapter_03_the_sign_of_the_old_ship_ship/part_02">Part 2</a></li></ul>
+</nav>
 
 
 CHAPTER III: THE SIGN OF “THE OLD [[Ship|SHIP]]”

@@ -9,7 +9,7 @@ tags:
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/works/ball-and-cross-(chesterton)">The Ball and the Cross</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/ball-and-cross-(chesterton)">The Ball and the Cross</a> › <a href="/testi/chesterton/atomized/ball_and_cross/story_15_the_last_parley">Story 15 The Last Parley</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/ball_and_cross/story_15_the_last_parley/part_02">‹ part 02</a><a class="ex-next" href="/testi/chesterton/atomized/ball_and_cross/story_16_dies_irae/part_01">part 01 ›</a></div>
 </nav>
 

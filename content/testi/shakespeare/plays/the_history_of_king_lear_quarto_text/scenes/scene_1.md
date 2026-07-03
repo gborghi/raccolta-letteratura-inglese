@@ -12,6 +12,10 @@ tags:
 <div class="excerpt-crumb">Shakespeare · <a href="/works/the-history-of-king-lear---the-quarto-text-(shakespeare)">The History of King Lear Quarto Text</a></div>
 <div class="excerpt-pn"><span></span><a class="ex-next" href="/testi/shakespeare/plays/the_history_of_king_lear_quarto_text/scenes/scene_2">Scene 2 ›</a></div>
 </nav>
+<nav class="excerpt-children">
+<div class="excerpt-children-label">In questa sezione</div>
+<ul><li><a href="/testi/shakespeare/plays/the_history_of_king_lear_quarto_text/scenes/scene_1/01_exchange_dialogue">01 exchange dialogue</a></li><li><a href="/testi/shakespeare/plays/the_history_of_king_lear_quarto_text/scenes/scene_1/02_exchange_regan">02 exchange REGAN</a></li><li><a href="/testi/shakespeare/plays/the_history_of_king_lear_quarto_text/scenes/scene_1/03_exchange_kent">03 exchange KENT</a></li><li><a href="/testi/shakespeare/plays/the_history_of_king_lear_quarto_text/scenes/scene_1/04_exchange_burgundy_i">04 exchange BURGUNDY I</a></li><li><a href="/testi/shakespeare/plays/the_history_of_king_lear_quarto_text/scenes/scene_1/05_exchange_france">05 exchange FRANCE</a></li></ul>
+</nav>
 
 
 | Chi parla | Battuta |

@@ -12,6 +12,10 @@ tags:
 <div class="excerpt-crumb">Chesterton · <a href="/works/sanity-(chesterton)">Sanity</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/sanity/story_04_some_aspects_of_big_business">‹ Story 04 SOME ASPECTS OF BIG BUSINESS</a><a class="ex-next" href="/testi/chesterton/atomized/sanity/story_06_some_aspects_of_the_land">Story 06 SOME ASPECTS OF THE LAND ›</a></div>
 </nav>
+<nav class="excerpt-children">
+<div class="excerpt-children-label">In questa sezione</div>
+<ul><li><a href="/testi/chesterton/atomized/sanity/story_05_a_misunderstanding_about_method/part_01">Part 1</a></li><li><a href="/testi/chesterton/atomized/sanity/story_05_a_misunderstanding_about_method/part_02">Part 2</a></li><li><a href="/testi/chesterton/atomized/sanity/story_05_a_misunderstanding_about_method/part_03">Part 3</a></li><li><a href="/testi/chesterton/atomized/sanity/story_05_a_misunderstanding_about_method/part_04">Part 4</a></li><li><a href="/testi/chesterton/atomized/sanity/story_05_a_misunderstanding_about_method/part_05">Part 5</a></li><li><a href="/testi/chesterton/atomized/sanity/story_05_a_misunderstanding_about_method/part_06">Part 6</a></li><li><a href="/testi/chesterton/atomized/sanity/story_05_a_misunderstanding_about_method/part_07">Part 7</a></li><li><a href="/testi/chesterton/atomized/sanity/story_05_a_misunderstanding_about_method/part_08">Part 8</a></li><li><a href="/testi/chesterton/atomized/sanity/story_05_a_misunderstanding_about_method/part_09">Part 9</a></li></ul>
+</nav>
 
 
   2. A Misunderstanding about Method

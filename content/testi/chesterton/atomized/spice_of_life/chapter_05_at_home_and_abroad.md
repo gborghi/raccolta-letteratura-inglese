@@ -12,6 +12,10 @@ tags:
 <div class="excerpt-crumb">Chesterton · <a href="/works/spice-of-life-(chesterton)">Spice Of Life</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/spice_of_life/chapter_04_thought_and_belief">‹ Chapter 04 THOUGHT AND BELIEF</a><a class="ex-next" href="/testi/chesterton/atomized/spice_of_life/chapter_06_the_spice_of_life">Chapter 06 THE SPICE OF LIFE ›</a></div>
 </nav>
+<nav class="excerpt-children">
+<div class="excerpt-children-label">In questa sezione</div>
+<ul><li><a href="/testi/chesterton/atomized/spice_of_life/chapter_05_at_home_and_abroad/part_01">Part 1</a></li><li><a href="/testi/chesterton/atomized/spice_of_life/chapter_05_at_home_and_abroad/part_02">Part 2</a></li><li><a href="/testi/chesterton/atomized/spice_of_life/chapter_05_at_home_and_abroad/part_03">Part 3</a></li><li><a href="/testi/chesterton/atomized/spice_of_life/chapter_05_at_home_and_abroad/part_04">Part 4</a></li><li><a href="/testi/chesterton/atomized/spice_of_life/chapter_05_at_home_and_abroad/part_05">Part 5</a></li><li><a href="/testi/chesterton/atomized/spice_of_life/chapter_05_at_home_and_abroad/part_06">Part 6</a></li><li><a href="/testi/chesterton/atomized/spice_of_life/chapter_05_at_home_and_abroad/part_07">Part 7</a></li></ul>
+</nav>
 
 
 PART FOUR:  AT HOME AND ABROAD
