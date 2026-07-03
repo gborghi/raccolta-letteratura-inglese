@@ -57,7 +57,10 @@ async function init() {
   const article = document.querySelector("article")
   if (!article || article.querySelector(".related-works")) return
   const prefix = "../".repeat((slug.match(/\//g) || []).length)
-  const isWork = slug.startsWith("Works/")
+  // NB: content slugs are lowercase ("works/..."), so match case-insensitively —
+  // a capital-W check silently sent every work page to the chapter index and
+  // suppressed "Opere correlate".
+  const isWork = slug.toLowerCase().startsWith("works/")
 
   let data: Record<string, unknown[]>
   try {
