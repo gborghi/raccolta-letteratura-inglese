@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/innocence-(chesterton)">The Innocence of Father Brown</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/innocence/story_10_the_eye_of_apollo/part_04">‹ part 04</a><a class="ex-next" href="/testi/chesterton/atomized/innocence/story_10_the_eye_of_apollo/part_06">part 06 ›</a></div>
@@ -156,3 +158,90 @@ It was called accepting Apollo.  Oh, if these new pagans would
 only be old pagans, they would be a little wiser!  The old pagans
 knew that mere naked Nature-worship must have a cruel side.
 They knew that the eye of Apollo can blast and blind."
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/innocence-(chesterton)">The Innocence of Father Brown</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/innocence/story_10_the_eye_of_apollo/part_04">‹ part 04</a><a class="ex-next" href="/testi/chesterton/atomized/innocence/story_10_the_eye_of_apollo/part_06">part 06 ›</a></div>
+</nav>
+
+# [[innocence]] — L’Occhio di [[Apollo]] (parte 5)
+
+Un istante dopo quel pontefice, nei suoi splendidi drappeggi svolazzanti, aveva attraversato la stanza in due grandi falcate, e torreggiava su Joan Stacey, gli occhi azzurri sporgenti dalla testa.
+
+«Che scherzetti da scimmia avete combinato qui?» gridò. «Non è tutto quello che Pauline scrisse.»
+
+Si trasalirono nell’udirlo parlare con una voce del tutto nuova, con una stridula asprezza yankee; tutta la sua grandezza e il suo buon inglese gli erano caduti di dosso come un mantello.
+
+«È l’unica cosa che c’è sulla sua scrivania» disse Joan, e lo affrontò impassibile con lo stesso sorriso di malvagio compiacimento.
+
+D’improvviso l’uomo proruppe in bestemmie e cateratte di parole incredule. C’era qualcosa di sconvolgente nel cadere della sua maschera; era come il vero volto di un uomo che si staccasse.
+
+«Sentite qui!» gridò in ampio americano, quando fu senza fiato per l’imprecare, «io sarò anche un avventuriero, ma direi che voi siete un’assassina. Sì, signori, ecco spiegata la vostra morte, e senza alcuna levitazione. La povera ragazza sta scrivendo un testamento a mio favore; la sua maledetta sorella entra, lotta per la penna, la trascina al pozzo e ve la getta prima che possa finirlo. Perbacco! Direi che le manette ci servono dopotutto.»
+
+«Come avete giustamente osservato» rispose Joan, con una brutta calma, «il vostro impiegato è un giovane assai rispettabile, che conosce la natura di un giuramento; e giurerà davanti a qualsiasi tribunale che io ero su nel vostro ufficio a organizzare un lavoro di dattilografia per cinque minuti prima e cinque minuti dopo che mia sorella cadde. Il signor Flambeau vi dirà che mi trovò là.»
+
+Vi fu un silenzio.
+
+«Ma allora» gridò Flambeau, «Pauline era sola quando cadde, e fu suicidio!»
+
+«Era sola quando cadde» disse Padre Brown, «ma non fu suicidio.»
+
+«E allora come morì?» chiese Flambeau con impazienza.
+
+«Fu assassinata.»
+
+«Ma era sola» obiettò l’investigatore.
+
+«Fu assassinata mentre era del tutto sola» rispose il prete.
+
+Tutti gli altri lo fissarono, ma egli rimase seduto nel medesimo vecchio atteggiamento avvilito, con una ruga nella tonda fronte e un’aria di impersonale vergogna e dolore; la sua voce era incolore e triste.
+
+«Ciò che voglio sapere» gridò Kalon, con un’imprecazione, «è quando la polizia verrà a prendere questa sanguinaria e malvagia sorella. Ha ucciso la propria carne e il proprio sangue; mi ha derubato di mezzo milione che era sacro mio quanto —»
+
+«Suvvia, suvvia, profeta» lo interruppe Flambeau, con una sorta di sogghigno; «ricordate che tutto questo mondo è un regno di nubi.»
+
+Lo ierofante del dio-sole fece uno sforzo per risalire sul proprio piedistallo. «Non è il mero denaro» gridò, «benché ciò equipaggerebbe la causa in tutto il mondo. Sono anche i desideri della mia amata. Per Pauline tutto questo era sacro. Agli occhi di Pauline —»
+
+Padre Brown balzò d’improvviso in piedi, così che la sedia gli cadde riversa dietro. Era pallido come un morto, eppure pareva acceso da una speranza; i suoi occhi brillavano.
+
+«È questo!» gridò con voce chiara. «È così che si comincia. Agli occhi di Pauline —»
+
+L’alto profeta indietreggiò davanti al minuscolo prete in un disordine quasi folle. «Che intendete? Come osate?» gridò ripetutamente.
+
+«Agli occhi di Pauline» ripeté il prete, i propri sempre più splendenti. «Continuate — in nome di Dio, continuate. Il più immondo delitto che i demoni abbiano mai istigato si fa più leggero dopo la confessione; e vi imploro di confessare. Continuate, continuate — agli occhi di Pauline —»
+
+«Lasciatemi andare, demonio!» tuonò Kalon, dibattendosi come un gigante in catene. «Chi siete voi, maledetta spia, per tessere le vostre ragnatele intorno a me, e spiare e scrutare? Lasciatemi andare.»
+
+«Devo fermarlo?» chiese Flambeau, slanciandosi verso l’uscita, poiché Kalon aveva già spalancato la porta.
+
+«No; lasciatelo passare» disse Padre Brown, con uno strano, profondo sospiro che pareva venire dagli abissi dell’universo. «Lasciate passare Caino, poiché appartiene a Dio.»
+
+Vi fu un lungo, protratto silenzio nella stanza dopo che egli l’ebbe lasciata, che fu per l’acuto ingegno di Flambeau una lunga agonia di interrogativi. La signorina Joan Stacey, con grande freddezza, riordinò le carte sulla sua scrivania.
+
+«Padre» disse Flambeau alla fine, «è mio dovere, non solo mia curiosità — è mio dovere scoprire, se posso, chi commise il delitto.»
+
+«Quale delitto?» chiese Padre Brown.
+
+«Quello di cui ci stiamo occupando, naturalmente» rispose l’amico impaziente.
+
+«Ci stiamo occupando di due delitti» disse Brown, «delitti di peso assai diverso — e commessi da criminali assai diversi.»
+
+La signorina Joan Stacey, raccolte e riposte le sue carte, procedette a chiudere a chiave il proprio cassetto. Padre Brown continuò, badando a lei tanto poco quanto ella badava a lui.
+
+«I due delitti» osservò, «furono commessi contro la medesima debolezza della medesima persona, in una lotta per il suo denaro. L’autore del delitto maggiore si trovò sventato dal delitto minore; l’autore del delitto minore ottenne il denaro.»
+
+«Oh, non continuate come un conferenziere» gemette Flambeau; «ditelo in poche parole.»
+
+«Posso dirlo in una sola» rispose l’amico.
+
+La signorina Joan Stacey si infilò con uno spillo il suo pratico cappello nero in testa, con un pratico cipiglio nero davanti a un piccolo specchio, e, mentre la conversazione proseguiva, prese la borsetta e l’ombrello con fare senza fretta, e lasciò la stanza.
+
+«La verità è una sola parola, e breve» disse Padre Brown. «Pauline Stacey era cieca.»
+
+«Cieca!» ripeté Flambeau, e si alzò lentamente in tutta la sua enorme statura.
+
+«Vi era soggetta per via del sangue» proseguì Brown. «Sua sorella le avrebbe fatto usare gli occhiali, se Pauline glielo avesse permesso; ma era la sua particolare filosofia, o fisima, che non si dovessero incoraggiare simili malattie cedendo loro. Non voleva ammettere la nube; o cercava di dissiparla con la volontà. Così i suoi occhi peggioravano sempre più per lo sforzo; ma lo sforzo peggiore doveva ancora venire. Venne con questo prezioso profeta, o comunque si faccia chiamare, che le insegnò a fissare il sole ardente a occhio nudo. Lo chiamavano accogliere Apollo. Oh, se questi nuovi pagani volessero solo essere vecchi pagani, sarebbero un po’ più saggi! I vecchi pagani sapevano che la mera nuda adorazione della Natura deve avere un lato crudele. Sapevano che l’occhio di Apollo può fulminare e accecare.»

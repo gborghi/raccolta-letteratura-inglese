@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/thursday-(chesterton)">The Man Who Was Thursday</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/thursday/chapter_03">‹ Chapter 03</a><a class="ex-next" href="/testi/chesterton/atomized/thursday/chapter_05">Chapter 05 ›</a></div>
@@ -397,3 +399,397 @@ and heathen kings.  He leapt out of the boat on to one slimy step,
 and stood, a dark and slender figure, amid the enormous masonry.
 The two men in the tug put her off again and turned up stream.
 They had never spoken a word.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/thursday-(chesterton)">The Man Who Was Thursday</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/thursday/chapter_03">‹ Chapter 03</a><a class="ex-next" href="/testi/chesterton/atomized/thursday/chapter_05">Chapter 05 ›</a></div>
+</nav>
+
+# [[thursday]] — Capitolo 4
+
+                         CAPITOLO IV
+
+                   IL RACCONTO DI UN [[Detective|INVESTIGATORE]]
+
+[[Gabriel Syme|GABRIEL SYME]] non era semplicemente un [[Detective|investigatore]] che fingeva di essere
+un poeta; era in realtà un poeta che era diventato un [[Detective|investigatore]].
+Né il suo odio per l'anarchia era ipocrita. Egli era uno
+di quelli che vengono spinti presto nella vita verso un atteggiamento troppo
+conservatore dalla sconcertante follia della maggior parte dei rivoluzionari.
+Non vi era pervenuto per alcuna mansueta tradizione. La sua rispettabilità
+era spontanea e improvvisa, una ribellione contro la ribellione.
+Discendeva da una famiglia di stravaganti, in cui tutte le persone più vecchie
+avevano tutte le idee più nuove. Uno dei suoi zii andava sempre
+in giro senza cappello, e un altro aveva fatto un tentativo non riuscito
+di andare in giro con un cappello e niente altro. Suo padre coltivava
+l'arte e la realizzazione del [[Self|sé]]; sua madre si dedicava alla semplicità
+e all'igiene. Da qui il [[Child|fanciullo]], durante i suoi anni più teneri,
+non conobbe affatto altra bevanda che gli estremi
+dell'assenzio e del cacao, di entrambi i quali provava una sana avversione.
+Quanto più sua madre predicava un'astinenza più che puritana,
+tanto più suo padre si espandeva in una tolleranza più che pagana;
+e nel [[Time|tempo]] in cui la prima era giunta a imporre il vegetarianismo,
+il secondo aveva [[Well|bell'e]] raggiunto il punto di difendere il cannibalismo.
+
+Circondato fin dall'infanzia da ogni immaginabile forma di rivolta,
+Gabriel dovette ribellarsi in qualcosa, e così si ribellò nell'unica
+cosa rimasta: la [[Sanity|ragionevolezza]]. Ma c'era in lui giusto quanto bastava del [[Blood|sangue]]
+di questi fanatici da rendere anche la sua protesta a favore del buon senso un poco
+troppo feroce per essere sensata. Il suo odio per l'illegalità moderna
+era stato coronato anche da un incidente. Accadde che egli stava
+camminando in una via laterale nell'istante di un attentato dinamitardo.
+Rimase cieco e sordo per un momento, e poi vide,
+mentre il fumo si diradava, le finestre infrante e i volti sanguinanti.
+Dopo di ciò andò in giro come al solito: quieto, cortese, piuttosto mite;
+ma c'era un punto nella sua mente che non era sano.
+Egli non considerava gli anarchici, come fa la maggior parte di noi, come una manciata
+di uomini morbosi, che combinano l'ignoranza con l'intellettualismo.
+Li considerava come un pericolo immenso e spietato, come un'invasione cinese.
+
+Riversava perpetuamente nei giornali e nei loro cestini della carta straccia
+un torrente di racconti, versi e articoli violenti, avvertendo gli uomini
+di questo [[deluge|diluvio]] di barbara negazione. Ma sembrava non avvicinarsi
+per nulla al suo nemico e, ciò che era peggio, per nulla a un modo di campare.
+Mentre percorreva l'argine del Tamigi, mordendo amaramente un sigaro dozzinale
+e rimuginando sull'avanzata dell'Anarchia, non c'era anarchico
+con una bomba in tasca tanto selvaggio o tanto solitario quanto lui.
+Anzi, egli sentiva sempre che il [[government|Governo]] stava [[Alone|solo]] e disperato,
+con le spalle al muro. Era troppo donchisciottesco per averlo a cuore
+in altro modo.
+
+Camminò una volta lungo l'Embankment sotto un cupo tramonto rosso.
+Il rosso [[River|fiume]] rifletteva il cielo rosso, ed entrambi riflettevano
+la sua ira. Il cielo, in verità, era così fosco, e la luce
+sul [[River|fiume]] relativamente così sinistra, che l'[[Water|acqua]] quasi
+sembrava di fiamma più feroce del tramonto che rispecchiava.
+Pareva un corso d'acqua di letterale [[Fire|fuoco]] che si snodava sotto le vaste
+caverne di un paese sotterraneo.
+
+In quei giorni Syme era malmesso. Portava un vecchio cilindro nero
+all'antica; era avvolto in un mantello ancora più antiquato,
+nero e sdrucito; e l'insieme gli dava l'aspetto dei primi
+malvagi di Dickens e Bulwer Lytton. Anche la sua barba e i suoi capelli
+gialli erano più incolti e leonini di quando apparvero molto tempo dopo,
+tagliati e appuntiti, sui prati di Saffron Park. Un lungo, magro,
+nero sigaro, comprato a Soho per due soldi, sporgeva da tra
+i denti serrati, e nell'insieme egli sembrava un esemplare assai
+soddisfacente di quegli anarchici contro i quali aveva giurato una guerra santa.
+Forse fu per questo che un poliziotto sull'Embankment gli rivolse la parola,
+e disse: «Buona sera».
+
+Syme, nel colmo dei suoi morbosi timori per l'umanità, parve punto dalla mera
+impassibilità di quel funzionario automatico, una semplice mole di azzurro nel crepuscolo.
+
+«Una buona sera, dite?» disse aspramente. «Voialtri chiamereste la fine del
+mondo una buona sera. Guardate quel sole rosso sangue e quel [[River|fiume]] rosso sangue!
+Vi dico che se quello fosse letteralmente [[Blood|sangue]] umano, versato e splendente,
+voi ve ne stareste ancora qui saldo come sempre, in cerca di qualche povero
+innocuo vagabondo da poter sloggiare. Voi poliziotti siete crudeli con i poveri,
+ma potrei perdonarvi persino la vostra crudeltà se non fosse per la vostra calma.»
+
+«Se siamo calmi,» rispose il poliziotto, «è la calma
+della resistenza organizzata.»
+
+«Eh?» disse Syme, fissandolo.
+
+«Il soldato deve essere calmo nel folto della battaglia,» proseguì il poliziotto.
+«La compostezza di un esercito è l'ira di una nazione.»
+
+«Buon Dio, le Board Schools!» disse Syme. «È questa
+l'[[Education|istruzione]] aconfessionale?»
+
+«No,» disse il poliziotto tristemente, «io non ho mai avuto simili vantaggi.
+Le Board Schools vennero dopo il mio [[Time|tempo]]. L'[[Education|istruzione]] che ebbi io fu assai rozza
+e all'antica, temo.»
+
+«Dove la riceveste?» chiese Syme, meravigliato.
+
+«Oh, a Harrow,» disse il poliziotto.
+
+Le simpatie di classe che, per quanto false siano, sono le cose più vere
+in tanti uomini, eruppero da Syme prima che egli potesse controllarle.
+
+«Ma, santo cielo, uomo,» disse, «voi non dovreste fare il poliziotto!»
+
+Il poliziotto sospirò e scosse il capo.
+
+«Lo so,» disse solennemente, «lo so di non esserne degno.»
+
+«Ma perché vi siete arruolato nella polizia?» chiese Syme con rude curiosità.
+
+«Per pressoché la stessa ragione per cui voi avete inveito contro la polizia,» replicò l'altro.
+«Ho scoperto che vi era un'apertura particolare nel servizio per coloro i cui
+timori per l'umanità riguardavano piuttosto le aberrazioni dell'
+intelletto scientifico che i normali e scusabili, sebbene eccessivi,
+scoppi della volontà umana. Confido di essermi spiegato con chiarezza.»
+
+«Se intendete che rendete chiara la vostra opinione,» disse Syme, «suppongo che sia così.
+Ma quanto a rendere chiaro voi stesso, è l'ultima cosa che fate.
+Come mai un uomo come voi si trova a parlare di [[philosophy|filosofia]] in un elmetto azzurro
+sull'argine del Tamigi?»
+
+«Evidentemente non avete udito dell'ultimo sviluppo del nostro
+sistema di polizia,» replicò l'altro. «Non me ne sorprendo.
+Lo teniamo piuttosto nascosto alla classe colta,
+perché quella classe contiene la maggior parte dei nostri nemici.
+Ma voi sembrate proprio nella giusta disposizione d'animo.
+Penso che potreste quasi unirvi a noi.»
+
+«Unirmi a voi in che cosa?» chiese Syme.
+
+«Ve lo dirò,» disse lentamente il poliziotto. «La situazione è questa:
+il capo di uno dei nostri dipartimenti, uno dei più celebri
+investigatori d'Europa, è da tempo dell'opinione che una congiura
+puramente intellettuale minaccerebbe presto l'esistenza stessa
+della civiltà. Egli è certo che il mondo scientifico e quello
+artistico siano silenziosamente uniti in una crociata contro
+la Famiglia e lo Stato. Ha perciò formato uno speciale
+corpo di poliziotti, poliziotti che sono anche filosofi.
+È loro compito sorvegliare gli inizi di questa congiura,
+non soltanto in senso criminale ma in senso controversiale.
+Io stesso sono un democratico, e sono pienamente consapevole del valore
+dell'uomo comune nelle questioni di comune coraggio o virtù.
+Ma sarebbe evidentemente indesiderabile impiegare il comune
+poliziotto in un'indagine che è anche una caccia all'eresia.»
+
+Gli occhi di Syme erano lucenti di una curiosità partecipe.
+
+«E allora che cosa fate?» disse.
+
+«L'opera del poliziotto filosofico,» replicò l'uomo in azzurro,
+«è al tempo stesso più audace e più sottile di quella dell'ordinario [[Detective|investigatore]].
+L'ordinario [[Detective|investigatore]] va nelle bettole ad arrestare i ladri; noi andiamo
+ai raffinati tè artistici a scoprire i pessimisti. L'ordinario [[Detective|investigatore]]
+scopre da un registro o da un diario che un delitto è stato commesso.
+Noi scopriamo da un libro di sonetti che un delitto sarà commesso.
+Dobbiamo rintracciare l'origine di quei pensieri terribili che spingono
+gli uomini infine al [[Fanaticism|fanatismo]] intellettuale e al delitto intellettuale.
+Giungemmo appena in [[Time|tempo]] a impedire l'assassinio a Hartlepool,
+e ciò fu interamente dovuto al fatto che il nostro signor Wilks (un giovane
+in gamba) aveva compreso a fondo un trioletto.»
+
+«Volete dire,» chiese Syme, «che c'è davvero tanta connessione
+tra il delitto e l'intelletto moderno quanto tutto questo?»
+
+«Non siete sufficientemente democratico,» rispose il poliziotto,
+«ma avevate ragione quando or ora avete detto che il nostro ordinario
+trattamento del povero criminale era una faccenda alquanto brutale.
+Vi dico che talvolta mi disgusta il mio mestiere quando vedo come esso significhi
+perpetuamente soltanto una guerra contro gli ignoranti e i disperati.
+Ma questo nostro nuovo movimento è tutt'altra cosa.
+Neghiamo lo snobistico assunto inglese secondo cui gli incolti sono
+i criminali pericolosi. Ricordiamo gli imperatori romani. Ricordiamo
+i grandi principi avvelenatori del [[Renaissance|Rinascimento]]. Diciamo
+che il criminale pericoloso è il criminale colto.
+Diciamo che il criminale più pericoloso oggi è il filosofo moderno
+interamente privo di legge. In confronto a lui, gli scassinatori e i
+bigami sono uomini essenzialmente morali; il mio cuore va verso di loro.
+Essi accettano l'ideale essenziale dell'uomo; soltanto lo cercano nel modo sbagliato.
+I ladri rispettano la proprietà. Desiderano soltanto che la proprietà
+diventi loro proprietà affinché possano più perfettamente
+rispettarla. Ma i filosofi detestano la proprietà in quanto proprietà;
+essi vogliono distruggere l'idea stessa del possesso personale.
+I bigami rispettano il [[Marriage|matrimonio]], altrimenti non si sottoporrebbero
+alla formalità altamente cerimoniale e persino ritualistica della bigamia.
+Ma i filosofi disprezzano il [[Marriage|matrimonio]] in quanto [[Marriage|matrimonio]]. Gli assassini rispettano
+la vita umana; desiderano soltanto conseguire una maggiore pienezza
+di vita umana in se stessi mediante il sacrificio di ciò che a loro
+sembra essere vite inferiori. Ma i filosofi odiano la vita stessa,
+la propria non meno di quella altrui.»
+
+Syme batté le mani l'una contro l'altra.
+
+«Com'è vero!» esclamò. «L'ho sentito fin dalla fanciullezza,
+ma non ho mai saputo formulare l'antitesi verbale. Il criminale comune
+è un uomo cattivo, ma perlomeno è, per così dire, un uomo buono
+condizionato. Egli dice che se solo un certo ostacolo venisse rimosso —
+poniamo, un ricco zio — sarebbe allora pronto ad accettare l'universo
+e a lodare Iddio. È un riformatore, ma non un anarchico.
+Egli desidera purificare l'edificio, ma non distruggerlo.
+Ma il filosofo malvagio non cerca di modificare le cose, bensì di
+annientarle. Sì, il mondo moderno ha conservato tutte quelle
+parti del lavoro di polizia che sono davvero oppressive e ignominiose,
+la persecuzione dei poveri, lo spionaggio degli sventurati.
+Ha abbandonato il suo lavoro più dignitoso, la punizione dei potenti
+traditori nello Stato e dei potenti eresiarchi nella Chiesa.
+I moderni dicono che non dobbiamo punire gli eretici. Il mio unico [[Doubt|dubbio]] è
+se abbiamo il diritto di punire chiunque altro.»
+
+«Ma questo è assurdo!» esclamò il poliziotto, giungendo le mani con
+un'eccitazione insolita in persone della sua figura e del suo costume, «ma è
+intollerabile! Non so che cosa stiate facendo, ma state sprecando
+la vostra vita. Voi dovete, voi vi unirete al nostro esercito speciale contro l'anarchia.
+I loro eserciti sono alle nostre frontiere. Il loro fulmine è pronto a cadere.
+Un momento ancora, e potreste perdere la gloria di lavorare con noi,
+forse la gloria di morire con gli ultimi eroi del mondo.»
+
+«È un'occasione da non perdere, certamente,» acconsentì Syme,
+«eppure non comprendo del tutto. So bene quanto [[Well|chiunque]]
+altro che il mondo moderno è pieno di piccoli uomini senza legge
+e di piccoli movimenti folli. Ma, per quanto ripugnanti siano,
+generalmente hanno l'unico merito di essere in disaccordo tra loro.
+Come potete parlare di un loro guidare un solo esercito o scagliare un solo fulmine?
+Che cos'è questa anarchia?»
+
+«Non confondetela,» replicò l'agente, «con quegli occasionali
+scoppi dinamitardi dalla [[Russia]] o dall'Irlanda, che sono in realtà
+gli scoppi di uomini oppressi, per quanto in errore. Questo è un vasto
+movimento filosofico, composto di un cerchio esterno e di uno interno.
+Potreste persino chiamare il cerchio esterno il laicato e il cerchio interno
+il sacerdozio. Io preferisco chiamare il cerchio esterno la sezione [[Innocent|innocente]],
+il cerchio interno la sezione supremamente colpevole. Il cerchio esterno —
+la massa principale dei loro sostenitori — sono semplicemente anarchici;
+cioè, uomini che credono che le regole e le formule abbiano distrutto
+la felicità umana. Essi credono che tutti i risultati malvagi del delitto
+umano siano i risultati del sistema che lo ha chiamato delitto.
+Non credono che il delitto crei la punizione.
+Credono che la punizione abbia creato il delitto.
+Credono che se un uomo seducesse sette donne se ne andrebbe
+naturalmente senza colpa come i [[Flowers|fiori]] della [[spring|primavera]].
+Credono che se un uomo borseggiasse qualcuno si sentirebbe
+naturalmente squisitamente buono. Questi io li chiamo la sezione [[Innocent|innocente]].»
+
+«Oh!» disse Syme.
+
+«Naturalmente, dunque, questa gente parla di "un felice
+[[Time|tempo]] che verrà"; "il paradiso del futuro"; "l'umanità liberata
+dalla schiavitù del vizio e dalla schiavitù della virtù", e così via.
+E così parlano anche gli uomini del cerchio interno: il sacro sacerdozio.
+Anch'essi parlano a folle plaudenti della felicità del
+futuro, e dell'umanità finalmente liberata. Ma nelle loro bocche» —
+e il poliziotto abbassò la voce — «nelle loro bocche queste felici
+frasi hanno un significato orribile. Essi non hanno illusioni;
+sono troppo intellettuali per pensare che l'uomo su questa terra
+possa mai essere del tutto libero dal [[Original Sin|peccato originale]] e dalla lotta.
+Ed essi intendono la [[Death|morte]]. Quando dicono che l'umanità sarà
+finalmente libera, intendono che l'umanità commetterà il [[suicide|suicidio]].
+Quando parlano di un paradiso senza bene né male,
+intendono la [[Grave|tomba]].
+
+«Essi hanno soltanto due obiettivi: distruggere prima l'umanità e poi se stessi.
+Ecco perché lanciano bombe invece di sparare con le pistole. La truppa [[Innocent|innocente]]
+è delusa perché la bomba non ha ucciso il [[King|re]];
+ma l'alto sacerdozio è felice perché essa ha ucciso qualcuno.»
+
+«Come posso unirmi a voi?» chiese Syme, con una sorta di passione.
+
+«So per certo che c'è un posto vacante in questo momento,»
+disse il poliziotto, «giacché ho l'[[Honour|onore]] di essere alquanto
+nella confidenza del capo di cui vi ho parlato.
+Dovreste davvero venire a vederlo. O piuttosto, non dovrei
+dire vederlo, nessuno lo vede mai; ma potete parlargli
+se volete.»
+
+«Al telefono?» s'informò Syme, con interesse.
+
+«No,» disse il poliziotto placidamente, «ha il capriccio di starsene sempre seduto
+in una stanza buia pesta. Dice che gli rende più luminosi i pensieri.
+Venite pure.»
+
+Alquanto stordito e considerevolmente eccitato, Syme si lasciò condurre
+a una porta laterale nella lunga fila di edifici di Scotland Yard. Quasi prima
+che sapesse che cosa stava facendo, era stato passato attraverso le mani di
+circa quattro funzionari intermedi, e fu improvvisamente introdotto in una stanza,
+la cui repentina oscurità lo colse di sorpresa come un lampo di luce.
+Non era l'oscurità ordinaria, in cui le forme si possono tracciare debolmente;
+era come diventare all'improvviso ciechi come talpe.
+
+«Siete voi la nuova recluta?» chiese una voce pesante.
+
+E in qualche strano modo, sebbene non vi fosse l'[[Shadow|ombra]] di una figura
+nella tenebra, Syme seppe due cose: primo, che essa proveniva da un uomo
+di statura massiccia; e secondo, che l'uomo gli volgeva le spalle.
+
+«Siete voi la nuova recluta?» disse il capo invisibile,
+che sembrava aver saputo tutto quanto. «Bene.
+Siete assunto.»
+
+Syme, del tutto spiazzato, oppose una debole resistenza a
+questa frase irrevocabile.
+
+«Non ho davvero alcuna esperienza,» cominciò.
+
+«Nessuno ha alcuna esperienza,» disse l'altro, «della Battaglia di Armageddon.»
+
+«Ma io sono davvero inadatto...»
+
+«Siete disposto, e questo basta,» disse lo sconosciuto.
+
+«[[Well|Ecco]], davvero,» disse Syme, «non conosco alcuna professione di cui la mera
+disponibilità sia la prova ultima.»
+
+«Io sì,» disse l'altro — «i martiri. Vi sto condannando a [[Death|morte]].
+Buona giornata.»
+
+Fu così che quando [[Gabriel Syme]] uscì di nuovo nella cremisi
+luce della sera, col suo malandato cappello nero e il suo malandato, illegale mantello,
+uscì membro del Nuovo Corpo degli [[Detective|Investigatori]] per lo sventamento
+della grande congiura. Agendo su consiglio del suo amico
+il poliziotto (che era professionalmente incline all'ordine),
+si aggiustò i capelli e la barba, comprò un buon cappello, si vestì di un
+squisito abito [[Summer|estivo]] di grigio-azzurro chiaro, con un pallido fiore
+giallo all'occhiello e, in breve, divenne quella persona elegante e piuttosto
+insopportabile che Gregory aveva incontrato per la prima volta nel piccolo
+[[Garden|giardino]] di Saffron Park. Prima di lasciare definitivamente i locali della polizia,
+il suo amico gli fornì un piccolo cartoncino azzurro, sul quale era scritto:
+«L'Ultima Crociata», e un numero, il segno della sua autorità ufficiale.
+Lo ripose con cura nel taschino superiore del panciotto, accese una sigaretta,
+e uscì a dare la caccia e a combattere il nemico in tutti i salotti
+di [[London|Londra]]. Dove la sua avventura infine lo condusse, l'abbiamo già visto.
+Verso l'una e mezza di una [[Night|notte]] di febbraio si ritrovò a navigare a vapore
+in un piccolo rimorchiatore su per il silenzioso Tamigi, armato di bastone animato e rivoltella,
+il debitamente eletto [[thursday|Giovedì]] del Consiglio Centrale degli Anarchici.
+
+Quando Syme mise piede sul rimorchiatore a vapore ebbe una singolare sensazione
+di mettere piede in qualcosa di interamente nuovo; non soltanto nel
+paesaggio di una nuova terra, ma persino nel paesaggio di un nuovo pianeta.
+Ciò era dovuto principalmente all'insana ma solida decisione di quella sera,
+sebbene in parte anche a un intero mutamento del tempo e del cielo
+da quando egli era entrato nella piccola taverna circa due ore prima.
+Ogni traccia del piumaggio appassionato del tramonto nuvoloso
+era stata spazzata via, e una [[Moon|luna]] nuda stava in un cielo nudo.
+La [[Moon|luna]] era così forte e piena che (per un [[Paradox|paradosso]] che spesso si può notare)
+sembrava un sole più debole. Dava non la sensazione di luminoso chiarore lunare,
+ma piuttosto di una morta luce diurna.
+
+Sull'intero paesaggio giaceva una luminosa e innaturale scoloritura, come di
+quel disastroso crepuscolo di cui [[Milton]] parlò come sparso dal sole in eclissi;
+cosicché Syme cadde facilmente nel suo primo pensiero, che egli fosse davvero
+su qualche altro e più vuoto pianeta, il quale girava attorno a qualche stella più triste.
+Ma quanto più sentiva questa scintillante desolazione nella terra illuminata dalla luna,
+tanto più la sua propria follia cavalleresca ardeva nella [[Night|notte]] come un grande [[Fire|fuoco]].
+Persino le cose comuni che portava con sé — il cibo e il brandy e
+la [[Pistol|pistola]] carica — assumevano esattamente quella concreta e materiale poesia che
+un [[Child|fanciullo]] prova quando porta un fucile in un [[Journey|viaggio]] o una focaccia con sé a letto.
+Il bastone animato con la [[Sword|spada]] e la fiaschetta del brandy, sebbene in se stessi soltanto gli strumenti di
+morbosi congiurati, divennero le espressioni della sua propria più sana [[Romance|avventura cavalleresca]].
+Il bastone con la [[Sword|spada]] divenne quasi la [[Sword|spada]] della cavalleria, e il brandy il vino
+della staffa. Poiché persino le più disumanizzate fantasie moderne dipendono da
+qualche figura più antica e più semplice; le avventure possono essere folli, ma l'avventuriero
+deve essere sano di mente. Il drago senza San Giorgio non sarebbe nemmeno [[Grotesque|grottesco]].
+Così questo paesaggio inumano era immaginifico soltanto per la presenza di un uomo
+realmente umano. Alla mente esagerante di Syme le luminose, spoglie case
+e terrazze lungo il Tamigi apparivano vuote come le [[Mountains|montagne]] della [[Moon|luna]].
+Ma persino la [[Moon|luna]] è poetica soltanto perché c'è un uomo nella [[Moon|luna]].
+
+Il rimorchiatore era manovrato da due uomini, e con molta fatica procedeva comparativamente lento.
+La chiara [[Moon|luna]] che aveva illuminato Chiswick era tramontata nel [[Time|tempo]] in cui essi
+oltrepassarono Battersea, e quando giunsero sotto l'enorme mole di Westminster
+il giorno aveva già cominciato a spuntare. Spuntò come lo spaccarsi di grandi barre
+di piombo, mostrando barre d'argento; e queste si erano ravvivate come bianco [[Fire|fuoco]]
+quando il rimorchiatore, mutando la sua rotta in avanti, virò verso l'interno a un grande
+pontile d'attracco un poco oltre Charing [[Cross|Cross]].
+
+Le grandi pietre dell'Embankment sembravano ugualmente scure e gigantesche mentre Syme
+alzava lo sguardo su di esse. Erano grandi e nere contro l'immensa bianca [[Dawn|alba]].
+Gli facevano sentire che stava sbarcando sui colossali gradini di qualche
+palazzo egizio; e, in verità, la cosa si addiceva al suo umore, poiché egli era,
+nella propria mente, in procinto di salire ad attaccare i saldi troni di orribili
+e pagani re. Balzò fuori dalla barca su un gradino viscido,
+e rimase, figura scura e slanciata, in mezzo all'enorme muratura.
+I due uomini nel rimorchiatore lo staccarono di nuovo e risalirono la corrente.
+Non avevano proferito parola.

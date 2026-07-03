@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/innocence-(chesterton)">The Innocence of Father Brown</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/innocence/story_01_the_blue_cross/part_01">‹ part 01</a><a class="ex-next" href="/testi/chesterton/atomized/innocence/story_01_the_blue_cross/part_03">part 03 ›</a></div>
@@ -111,3 +113,113 @@ which puts the sugar in the salt-cellars and the salt in the sugar-basin.
 Except for an odd splash of some dark fluid on one of the white-papered
 walls, the whole place appeared neat, cheerful and ordinary.
 He rang the bell for the waiter.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/innocence-(chesterton)">The Innocence of Father Brown</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/innocence/story_01_the_blue_cross/part_01">‹ part 01</a><a class="ex-next" href="/testi/chesterton/atomized/innocence/story_01_the_blue_cross/part_03">part 03 ›</a></div>
+</nav>
+
+# [[innocence]] — La [[Cross|Croce]] azzurra (parte 2)
+
+Scese però a Liverpool Street con la coscienza del tutto sicura
+di non aver mancato fin lì il criminale. Andò poi a Scotland Yard
+per regolarizzare la propria posizione e predisporre aiuto in caso
+di bisogno; poi accese un'altra sigaretta e si concesse una lunga
+passeggiata per le vie di [[London|Londra]]. Mentre camminava per le vie
+e le piazze oltre Victoria, si fermò d'improvviso e si arrestò. Era una
+piazza bizzarra e quieta, tipicissima di [[London|Londra]], colma d'una
+immobilità casuale. Le case alte e piatte tutt'intorno parevano insieme
+prospere e disabitate; il quadrato di arbusti al centro pareva deserto
+come un verde isolotto del Pacifico. Uno dei quattro lati era assai più
+alto degli altri, come un palco; e la linea di questo lato era interrotta
+da uno di quegli ammirevoli accidenti di [[London|Londra]]: un ristorante
+che sembrava sviato da Soho. Era un oggetto irragionevolmente attraente,
+con pianticelle [[Dwarf|nane]] in vaso e lunghe tende a righe giallo limone
+e bianche. Sorgeva particolarmente in alto sulla strada, e nel consueto
+modo rappezzato di [[London|Londra]] una rampa di gradini saliva dalla strada
+a incontrare la porta d'ingresso quasi come una scala anti-[[Fire|incendio]]
+potrebbe salire fino a una [[Window|finestra]] del primo piano. Valentin
+si fermò a fumare davanti alle tende bianco-gialle e le contemplò a lungo.
+
+La cosa più incredibile dei miracoli è che accadono. Alcune nuvole
+in cielo si radunano davvero nella forma fissa di un occhio umano.
+Un albero si erge davvero nel paesaggio di un [[Journey|viaggio]] incerto
+nella forma esatta ed elaborata di un punto interrogativo. Ho visto
+io stesso entrambe queste cose negli ultimi giorni. Nelson muore
+davvero nell'istante della vittoria; e un uomo di nome Williams
+assassina del tutto per caso un uomo di nome Williamson; suona come
+una specie di infanticidio. Insomma, c'è nella vita un elemento
+di coincidenza fatata che chi fa i conti col prosaico può perennemente
+mancare. Come è stato [[Well|ben]] espresso nel [[Paradox|paradosso]] di Poe,
+la saggezza dovrebbe fare i conti con l'imprevisto.
+
+Aristide Valentin era insondabilmente francese; e l'intelligenza
+francese è intelligenza in modo speciale e unico. Egli non era
+«una [[Machine|macchina]] pensante»; ché questa è una frase sventata
+del fatalismo e del materialismo moderni. Una [[Machine|macchina]]
+è una [[Machine|macchina]] solo perché non sa pensare. Ma egli era
+un uomo pensante, e al medesimo [[Time|tempo]] un uomo semplice. Tutti i suoi mirabili
+successi, che parevano prestidigitazione, li aveva conseguiti a forza
+di [[logic|logica]] tenace, di pensiero francese chiaro e ordinario.
+I francesi elettrizzano il mondo non lanciando qualche [[Paradox|paradosso]],
+lo elettrizzano portando alle estreme conseguenze un truismo.
+Portano un truismo tanto lontano — come nella [[French Revolution|Rivoluzione francese]].
+Ma proprio perché Valentin comprendeva la ragione, ne comprendeva
+i limiti. Solo chi non sa nulla di motori parla di guidare senza benzina;
+solo chi non sa nulla di ragione parla di ragionare senza primi princìpi
+saldi e incontestati. Qui egli non aveva primi princìpi saldi.
+[[Flambeau]] era stato mancato a Harwich; e se pure era a [[London|Londra]],
+poteva essere qualsiasi cosa, da un alto vagabondo sul Wimbledon Common
+a un alto maestro di cerimonie all'Hotel Metropole. In tale nudo stato
+di ignoranza, Valentin aveva una sua veduta e un suo metodo.
+
+In casi simili faceva i conti con l'imprevisto. In casi simili,
+quando non poteva seguire il filo del ragionevole, seguiva freddamente
+e con cura il filo dell'irragionevole. Invece di andare nei luoghi
+giusti — banche, posti di polizia, luoghi di convegno — andava
+sistematicamente nei luoghi sbagliati; bussava a ogni [[house|casa]] vuota,
+imboccava ogni vicolo cieco, risaliva ogni viuzza ingombra di rifiuti,
+faceva il giro di ogni mezzaluna che lo portava inutilmente fuori strada.
+Difendeva questo procedere folle in modo del tutto logico. Diceva
+che se si aveva un indizio quello era il modo peggiore; ma se non si aveva
+alcun indizio era il migliore, perché c'era pur sempre la probabilità
+che qualche stranezza che aveva colpito l'occhio dell'inseguitore
+fosse la stessa che aveva colpito l'occhio dell'inseguito. Da qualche
+parte un uomo deve pur cominciare, e tanto valeva farlo proprio là dove
+un altro uomo potrebbe fermarsi. Qualcosa in quella rampa di gradini
+che saliva al negozio, qualcosa nella quiete e nella bizzarria
+del ristorante, ridestò tutta la rara fantasia romantica del [[Detective|detective]]
+e lo indusse a colpire a caso. Salì i gradini e, sedendosi a un tavolo
+presso la [[Window|finestra]], chiese una tazza di caffè nero.
+
+Era metà mattina, e non aveva fatto colazione; le tenui tracce delle altrui
+colazioni erano ancora sparse sul tavolo a ricordargli la fame; e aggiunto
+un uovo in camicia all'ordinazione, si mise pensoso a scuotere un po' di
+zucchero bianco nel caffè, pensando per tutto il [[Time|tempo]] a [[Flambeau]].
+Ricordava come [[Flambeau]] fosse sfuggito, una volta grazie a un paio di
+forbicine da unghie, e una volta grazie a una [[house|casa]] in [[Fire|fiamme]];
+una volta per aver dovuto pagare il soprattassa di una lettera priva
+di francobollo, e una volta facendo guardare la gente in un telescopio
+verso una cometa che poteva distruggere il mondo. Riteneva il proprio
+cervello di [[Detective|detective]] buono quanto quello del criminale, e ciò
+era vero. Ma si rendeva pienamente conto dello svantaggio. «Il criminale
+è l'[[Artist|artista]] creatore; il [[Detective|detective]] è soltanto il critico»,
+disse con un sorriso acido, e accostò lentamente la tazza di caffè
+alle labbra, e la posò molto in fretta. Vi aveva messo del sale.
+
+Guardò il recipiente da cui era venuta la polvere argentea; era
+senza dubbio una zuccheriera; inequivocabilmente destinata allo zucchero
+come una bottiglia di champagne allo champagne. Si domandò perché mai
+vi tenessero il sale. Cercò con lo sguardo se vi fossero recipienti
+più ortodossi. Sì; c'erano due saliere del tutto piene. Forse c'era
+qualche specialità nel condimento delle saliere. Lo assaggiò; era zucchero.
+Allora si guardò intorno per il ristorante con aria rinnovata d'interesse,
+per vedere se vi fossero altre tracce di quel singolare gusto artistico
+che mette lo zucchero nelle saliere e il sale nella zuccheriera.
+A parte una strana chiazza di un liquido scuro su una delle pareti
+tappezzate di carta bianca, l'intero locale appariva lindo, allegro
+e ordinario. Suonò il campanello per il cameriere.

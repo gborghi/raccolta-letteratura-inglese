@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/wifrb11-(chesterton)">The Wisdom of Father Brown</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/wifrb11/story_05_the_mistake_of_the_machine">‹ Story 05 The Mistake of the Machine</a><a class="ex-next" href="/testi/chesterton/atomized/wifrb11/story_07_the_purple_wig">Story 07 The Purple Wig ›</a></div>
@@ -641,3 +643,188 @@ the poor young people are getting on."
 they are probably getting on very well."
 
                                  SEVEN
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/wifrb11-(chesterton)">The Wisdom of Father Brown</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/wifrb11/story_05_the_mistake_of_the_machine">‹ Story 05 The Mistake of the Machine</a><a class="ex-next" href="/testi/chesterton/atomized/wifrb11/story_07_the_purple_wig">Story 07 The Purple Wig ›</a></div>
+</nav>
+
+# [[wifrb11]] — La testa di Cesare
+
+                          La testa di Cesare
+
+C'è, in qualche punto di Brompton o di Kensington, un interminabile viale di case alte, ricche ma per lo più vuote, che ha l'aria di una fila di sepolcri. Perfino i gradini che salgono verso gli scuri portoni sembrano ripidi come il fianco delle piramidi; e uno esiterebbe a bussare, per timore che ad aprirgli venga una mummia. Ma un tratto ancora più deprimente di quella grigia facciata è la sua lunghezza telescopica e la sua immutabile continuità. Il pellegrino che vi cammina lungo comincia a credere che non giungerà mai a un'interruzione o a un angolo; ma un'eccezione c'è, piccolissima, eppure salutata dal pellegrino quasi con un grido. Fra due di quei palazzi altissimi si apre una specie di scuderia, una fessura, in confronto alla strada, non più larga dello spiraglio di una porta, ma quanto basta a lasciar posto, nell'angolo, a una minuscola birreria o trattoria, ancora concessa dai ricchi ai loro stallieri. C'è qualcosa di allegro nella sua stessa sordidezza, e qualcosa di libero e di fatato nella sua stessa insignificanza. Ai piedi di quei grigi giganti di pietra ha l'aria di una casa illuminata di nani.
+
+     Chiunque fosse passato di là in una certa sera d'autunno, essa stessa quasi fatata, avrebbe potuto vedere una mano scostare la mezza tendina rossa che (insieme a certe grandi lettere bianche) nascondeva in parte l'interno alla strada, e un volto sporgersi a spiare, non dissimile da quello di un folletto piuttosto innocente. Era, in realtà, il volto di un uomo dall'innocuo nome umano di Brown, già parroco di Cobhole nell'Essex, e ora impegnato a Londra. Il suo amico Flambeau, investigatore semiufficiale, gli sedeva di fronte, prendendo le ultime note di un caso che aveva risolto nei paraggi. Sedevano a un tavolino, accostato alla finestra, quando il prete tirò indietro la tendina e guardò fuori. Attese che uno sconosciuto passasse davanti alla finestra per lasciar poi ricadere la tendina al suo posto. Poi i suoi occhi rotondi si volsero alle grandi lettere bianche sul vetro sopra la sua testa, e infine vagarono al tavolo accanto, al quale sedevano soltanto uno sterratore con birra e formaggio, e una ragazza dai capelli rossi con un bicchiere di latte. Allora (vedendo l'amico riporre il taccuino) disse sottovoce:
+
+     «Se hai dieci minuti, vorrei che seguissi quell'uomo dal naso finto.»
+
+     Flambeau alzò lo sguardo, sorpreso; ma anche la ragazza dai capelli rossi alzò gli occhi, con qualcosa di più forte dello stupore. Era vestita in modo semplice e persino trasandato, di una stoffa marrone chiaro simile a tela da sacco; ma era una signora, e per giunta, a un secondo sguardo, una signora d'un'alterigia quasi superflua. «L'uomo dal naso finto!» ripeté Flambeau. «E chi è?»
+
+     «Non ne ho la minima idea,» rispose Padre Brown. «Voglio che lo scopra tu; te lo chiedo come favore. È andato di là» — e con uno dei suoi gesti insignificanti spinse il pollice al di sopra della spalla — «e non può aver superato ancora tre lampioni. Voglio solo sapere in che direzione va.»
+
+     Flambeau fissò l'amico per qualche istante, con un'espressione a metà tra la perplessità e il divertimento; poi, alzatosi dal tavolo, spinse la sua mole enorme fuori dalla porticina della taverna dei nani e si dileguò nel crepuscolo.
+
+     Padre Brown trasse di tasca un libretto e prese a leggere placidamente; non tradì la minima consapevolezza del fatto che la signora dai capelli rossi aveva lasciato il proprio tavolo e si era seduta di fronte a lui. Alla fine ella si sporse e disse a voce bassa e ferma: «Perché lo dice? Come sa che è finto?»
+
+     Egli sollevò le palpebre piuttosto pesanti, che ammiccarono in un notevole imbarazzo. Poi lo sguardo incerto tornò a vagare verso le lettere bianche sul vetro della facciata della bettola. Gli occhi della giovane donna seguirono i suoi, e si posarono anch'essi laggiù, ma in puro sconcerto.
+
+     «No,» disse Padre Brown, rispondendo ai pensieri di lei. «Non dice “Sela”, come la parola nei Salmi; l'ho letto così anch'io poco fa, mentre stavo con la testa fra le nuvole; dice “Ales”, birre.»
+
+     «E allora?» domandò la giovane signora sgranando gli occhi. «Che importa quel che dice?»
+
+     Lo sguardo meditabondo di lui corse alla manica di tela leggera della ragazza, intorno al polso della quale correva un filo sottilissimo di ricamo artistico, appena sufficiente a distinguerla dall'abito da lavoro di una donna comune e a renderla piuttosto simile all'abito da lavoro di una signora studentessa di belle arti. Parve trarne molto materiale di riflessione; ma la sua risposta fu lentissima ed esitante. «Vede, signora,» disse, «di fuori il posto sembra... be', è un locale perfettamente rispettabile... ma le signore come lei di solito non lo... non lo credono. Non entrano mai in luoghi simili di loro spontanea scelta, tranne...»
+
+     «E allora?» ripeté lei.
+
+     «Tranne quelle poche sventurate che non ci entrano a bere latte.»
+
+     «Lei è una persona quanto mai singolare,» disse la giovane signora. «Qual è lo scopo di tutto questo?»
+
+     «Non quello di importunarla,» rispose lui con molta dolcezza. «Solo di armarmi di sufficiente conoscenza per aiutarla, se mai vorrà liberamente chiedermi aiuto.»
+
+     «Ma perché mai dovrei aver bisogno d'aiuto?»
+
+     Egli proseguì il suo monologo sognante. «Non può essere entrata a far visita a protette, a umili amiche, o cose del genere, altrimenti sarebbe passata nella saletta interna... e non può essere entrata perché si sentiva male, altrimenti avrebbe parlato con la donna del locale, che è evidentemente una persona per bene... e poi non ha l'aria di star male in quel senso, ma solo infelice.... Questa strada è l'unica vera lunga corsia senza svolte; e le case da entrambi i lati sono sbarrate.... Non potevo che supporre che avesse visto avvicinarsi qualcuno che non voleva incontrare; e che avesse trovato nella bettola l'unico rifugio in questo deserto di pietra.... Non credo di aver oltrepassato la licenza di uno sconosciuto gettando un'occhiata all'unico uomo passato subito dopo.... E poiché mi è parso del genere sbagliato... e lei mi è parsa del genere giusto.... Mi sono tenuto pronto ad aiutarla, se quello l'avesse molestata; tutto qui. Quanto al mio amico, tornerà presto; e di certo non potrà scoprire nulla percorrendo a grandi passi una strada come questa.... Non pensavo che potesse.»
+
+     «Allora perché lo ha mandato fuori?» gridò lei, sporgendosi in avanti con curiosità ancor più accesa. Aveva il viso fiero e impetuoso che si accompagna alle sfumature rossicce, e un naso romano, come l'aveva Maria Antonietta.
+
+     Lui la guardò fisso per la prima volta, e disse: «Perché speravo che avrebbe parlato con me.»
+
+     Ella lo ricambiò con lo sguardo per qualche istante, il viso acceso, sul quale indugiava un'ombra rossa d'ira; poi, a dispetto delle sue angosce, l'ironia le sprizzò dagli occhi e dagli angoli della bocca, ed ella rispose quasi torva: «Bene, se le sta tanto a cuore la mia conversazione, forse risponderà alla mia domanda.» Dopo una pausa aggiunse: «Ho avuto l'onore di chiederle perché pensava che il naso di quell'uomo fosse finto.»
+
+     «La cera fa sempre di quelle macchioline, con questo tempo,» rispose Padre Brown con assoluta semplicità.
+
+     «Ma è un naso così storto,» obiettò la ragazza dai capelli rossi.
+
+     Il prete sorrise a sua volta. «Non dico che sia il tipo di naso che uno porterebbe per pura civetteria,» ammise. «Quest'uomo, credo, lo porta perché il suo vero naso è molto più bello.»
+
+     «Ma perché?» insistette lei.
+
+     «Come fa quella filastrocca?» osservò Brown distrattamente. «C'era un uomo storto che percorse un miglio storto.... Quell'uomo, immagino, ha percorso una strada molto storta, seguendo il proprio naso.»
+
+     «Perché, che cosa ha fatto?» domandò lei, con voce piuttosto malferma.
+
+     «Non voglio forzare d'un capello la sua confidenza,» disse Padre Brown, molto pacatamente. «Ma credo che su questo lei potrebbe dirmi assai più di quanto io possa dire a lei.»
+
+     La ragazza scattò in piedi e restò immobile, ma con i pugni serrati, come chi sta per andarsene a grandi passi; poi le mani a poco a poco si distesero, ed ella tornò a sedersi. «Lei è più misterioso di tutti gli altri,» disse disperatamente, «ma sento che nel suo mistero potrebbe esserci un cuore.»
+
+     «Ciò che tutti temiamo di più,» disse il prete a voce bassa, «è un labirinto senza centro. È per questo che l'ateismo è soltanto un incubo.» «Le dirò tutto,» disse la ragazza dai capelli rossi ostinatamente, «tranne perché glielo dico; e questo non lo so.»
+
+     Ella prese a stuzzicare la tovaglia rammendata e proseguì: «Lei ha l'aria di saper riconoscere ciò che snobismo non è, oltre a ciò che lo è; e quando dico che la nostra è una buona vecchia famiglia, capirà che è una parte necessaria della storia; anzi, il mio pericolo principale sta nelle idee rigide e superate di mio fratello, il *noblesse oblige* e tutto il resto. Ebbene, il mio nome è Christabel Carstairs; e mio padre era quel colonnello Carstairs di cui probabilmente avrà sentito parlare, quello che mise insieme la famosa collezione Carstairs di monete romane. Non saprei mai descriverle mio padre; il massimo che posso dire è che somigliava moltissimo lui stesso a una moneta romana. Era così bello, così autentico, così prezioso, così metallico e così fuori moda. Andava più fiero della sua Collezione che del suo stemma: nessuno potrebbe dir di più. Il suo carattere straordinario si rivelò soprattutto nel testamento. Aveva due figli e una figlia. Litigò con uno dei figli, mio fratello Giles, e lo spedì in Australia con un piccolo assegno. Fece poi testamento lasciando la collezione Carstairs, con un assegno ancora più piccolo, a mio fratello Arthur. Lo intendeva come una ricompensa, il più alto onore che potesse offrire, in riconoscimento della lealtà e della rettitudine di Arthur e delle distinzioni che questi aveva già ottenuto in matematica ed economia a Cambridge. A me lasciò praticamente tutto il suo cospicuo patrimonio; e sono sicura che lo intese per disprezzo.
+
+     «Arthur, dirà lei, avrebbe ben potuto lamentarsene; ma Arthur è mio padre daccapo. Benché avesse avuto qualche divergenza con mio padre nella prima giovinezza, non appena ebbe assunto la Collezione divenne come un sacerdote pagano consacrato a un tempio. Confondeva quei mezzi soldi romani con l'onore della famiglia Carstairs, nello stesso modo rigido e idolatra di suo padre prima di lui. Si comportava come se il denaro romano dovesse essere custodito da tutte le virtù romane. Non si concedeva piaceri; non spendeva nulla per sé; viveva per la Collezione. Spesso non si dava neppure la pena di vestirsi come si deve per i suoi frugali pasti; ma trotterellava tra i pacchi di carta marrone legati con lo spago (che a nessun altro era concesso toccare) con una vecchia veste da camera marrone. Con quella corda e quel fiocco, e il suo volto pallido, magro, raffinato, aveva l'aria di un vecchio monaco asceta. Ogni tanto, però, compariva vestito da gentiluomo decisamente alla moda; ma soltanto quando saliva alle vendite o nei negozi di Londra per fare qualche aggiunta alla collezione Carstairs.
+
+     «Ora, se ha conosciuto qualche giovane, non si scandalizzerà se le dico che, con tutto questo, mi venne un umore piuttosto tetro; quello stato d'animo in cui uno comincia a dire che gli antichi Romani, a modo loro, andavano benissimo. Non sono come mio fratello Arthur; non posso fare a meno di godermi il godimento. La mia buona dose di romanticismo e di follie l'ho avuta di dove ho avuto i capelli rossi, dall'altro ramo della famiglia. Il povero Giles era lo stesso; e credo che l'atmosfera delle monete possa valergli da scusa; benché avesse davvero fatto del male e fosse quasi finito in prigione. Ma non si comportò affatto peggio di me; come sentirà.
+
+     «Vengo ora alla parte sciocca della storia. Credo che un uomo intelligente come lei possa indovinare il genere di cosa che comincerebbe a spezzare la monotonia per una ragazza ribelle di diciassette anni posta in una simile situazione. Ma sono così sconvolta da cose ben più terribili che a stento riesco a leggere il mio stesso sentimento; e non so se ora disprezzarlo come una civetteria o portarlo addosso come un cuore infranto. Vivevamo allora in una piccola cittadina balneare del Galles del Sud, e un capitano di mare in pensione che abitava a pochi passi da noi aveva un figlio più grande di me di circa cinque anni, che era stato amico di Giles prima che questi partisse per le Colonie. Il suo nome non incide sul mio racconto; ma glielo dico, era Philip Hawker, perché le sto dicendo tutto. Andavamo insieme a pescare i gamberetti, e dicevamo e credevamo di essere innamorati l'uno dell'altra; per lo meno lui certamente diceva di esserlo, e io certamente credevo di esserlo. Se le dico che aveva i capelli ricci e bruniti e una specie di volto da falco, brunito anch'esso dal mare, non è per amor suo, glielo assicuro, ma per amor della storia; perché fu la causa di una coincidenza molto curiosa.
+
+     «Un pomeriggio d'estate, avendo promesso di andare a pescare gamberetti lungo la spiaggia con Philip, aspettavo piuttosto spazientita nel salotto sul davanti, guardando Arthur maneggiare certi pacchetti di monete che aveva appena acquistato e trasferirle lentamente, una o due per volta, nel suo studio-museo buio, che era sul retro della casa. Non appena udii la pesante porta chiudersi definitivamente su di lui, mi precipitai a prendere la mia rete da gamberetti e il mio berretto scozzese, e stavo giusto per sgusciar fuori, quando vidi che mio fratello aveva lasciato dietro di sé una moneta, che luccicava sul lungo banco accanto alla finestra. Era una moneta di bronzo, e il colore, unito alla curva esatta del naso romano e a un non so che nel modo stesso in cui si levava il lungo collo nerboruto, faceva della testa di Cesare che vi era impressa il ritratto quasi preciso di Philip Hawker. Poi mi tornò a un tratto in mente che Giles aveva parlato a Philip di una moneta che gli somigliava, e che Philip aveva espresso il desiderio di averla. Forse lei può immaginare i pensieri sfrenati e folli che mi girarono per la testa; mi sentii come se avessi ricevuto un dono dalle fate. Mi pareva che, se solo fossi potuta scappare con quella moneta e dargliela come una specie di selvaggia fede nuziale, sarebbe stata per sempre un legame fra noi; provai mille sensazioni simili tutte insieme. Poi si spalancò sotto di me, come l'abisso, l'enorme, tremenda nozione di ciò che stavo facendo; e soprattutto il pensiero insopportabile, come toccare ferro rovente, di quel che Arthur ne avrebbe pensato. Una Carstairs ladra; e ladra del tesoro dei Carstairs! Credo che mio fratello sarebbe stato capace di vedermi bruciata come una strega per una cosa simile. Ma allora, il pensiero stesso di una crudeltà così fanatica accresceva il mio vecchio odio per la sua trita, vecchia pignoleria da antiquario e la mia sete di giovinezza e di libertà che dal mare mi chiamava. Fuori splendeva un sole forte, con un vento; e una testa gialla di ginestra o di ginestrone nel giardino batteva contro il vetro della finestra. Pensai a quell'oro vivo e crescente che mi chiamava da tutte le lande del mondo, e poi a quell'oro morto e opaco, e al bronzo e all'ottone di mio fratello, che si facevano sempre più polverosi col passare della vita. La Natura e la collezione Carstairs erano infine venute alle prese.
+
+     «La Natura è più antica della collezione Carstairs. Mentre correvo giù per le strade verso il mare, la moneta stretta forte nel pugno, sentii tutto l'Impero Romano sulle spalle, oltre al lignaggio dei Carstairs. Non era soltanto il vecchio leone d'argento a ruggirmi all'orecchio, ma tutte le aquile dei Cesari parevano sbattere le ali e stridere inseguendomi. Eppure il cuore mi si sollevava sempre più in alto, come l'aquilone di un bambino, finché non superai le sabbiose dune sciolte e asciutte e giunsi alla sabbia piana e bagnata, dove Philip già stava con l'acqua fino alle caviglie nella bassa marea scintillante, a un centinaio di metri dalla riva. C'era un grande tramonto rosso; e la lunga distesa d'acqua bassa, che a stento superava la caviglia per mezzo miglio, era come un lago di fiamma di rubino. Solo dopo essermi sfilata scarpe e calze ed essere andata a guado fin dove egli stava, che era ben lontano dalla terra asciutta, mi voltai e mi guardai intorno. Eravamo del tutto soli in un cerchio d'acqua marina e sabbia bagnata, e gli diedi la testa di Cesare.
+
+     «Proprio in quell'istante ebbi un soprassalto della fantasia: che un uomo lontano, sulle dune, mi stesse fissando con intensità. Subito dopo devo aver sentito che era solo un guizzo di nervi irragionevoli; perché l'uomo non era che un punto scuro in lontananza, e riuscivo appena a vedere che se ne stava immobile a guardare, con la testa un po' inclinata da un lato. Non c'era alcuna prova logica al mondo che stesse guardando me; poteva guardare una nave, o il tramonto, o i gabbiani, o una qualsiasi delle persone che ancora vagavano qua e là sulla riva tra noi. Nondimeno, qualunque fosse l'origine del mio sussulto, esso fu profetico; perché, mentre lo fissavo, egli si mise a camminare svelto in linea retta verso di noi attraverso l'ampia sabbia bagnata. Man mano che si avvicinava, vidi che era scuro e barbuto, e che gli occhi erano segnati da occhiali scuri. Era vestito poveramente ma con decoro, di nero, dal vecchio cilindro nero in capo ai solidi stivali neri ai piedi. Malgrado questi, entrò dritto nel mare senza un lampo di esitazione, e avanzò verso di me con la fermezza di una pallottola in volo.
+
+     «Non saprei dirle il senso di mostruosità e di miracolo che provai quando egli così, in silenzio, ruppe la barriera fra terra e acqua. Era come se avesse camminato dritto oltre l'orlo di un dirupo e continuasse a marciare imperturbato a mezz'aria. Era come se una casa fosse volata su nel cielo o come se a un uomo fosse caduta la testa. Non faceva altro che bagnarsi gli stivali; eppure pareva un demonio che ignorasse una legge di Natura. Se avesse esitato un istante sul filo dell'acqua, non sarebbe stato nulla. Così invece pareva guardare tanto solo me da non accorgersi dell'oceano. Philip era a qualche metro di distanza, con la schiena rivolta a me, chino sulla sua rete. Lo sconosciuto avanzò finché non venne a trovarsi a due metri da me, con l'acqua che gli lambiva a mezza gamba i ginocchi. Poi disse, con un'articolazione nitidamente modulata e piuttosto affettata: “Le arrecherebbe disturbo elargire altrove una moneta con un'iscrizione un po' diversa?”
+
+     «Con una sola eccezione, non c'era nulla di definibilmente anormale in lui. Gli occhiali colorati non erano davvero opachi, ma di un azzurro abbastanza comune, né gli occhi dietro di essi erano sfuggenti, bensì mi fissavano fermi. La barba scura non era davvero lunga o incolta, ma egli aveva un'aria piuttosto pelosa, perché la barba cominciava molto in alto sul viso, proprio sotto gli zigomi. La carnagione non era né gialliccia né livida, anzi, al contrario, piuttosto chiara e giovanile; eppure ciò le dava un aspetto di cera bianca e rosa che, chissà perché, accresceva l'orrore. L'unica stranezza che si potesse fissare era che il naso, per il resto di buona forma, era appena appena piegato di lato in punta; come se, quando era molle, gli fosse stato dato un colpetto da un lato con un martelletto giocattolo. La cosa non era neppure una deformità; eppure non saprei dirle che [[nightmare|incubo]] vivente esso fosse per me. Mentre egli stava là nell'[[Water|acqua]] tinta di tramonto, mi faceva l'effetto di un infernale [[Monster|mostro]] marino appena emerso ruggendo da un mare di [[Blood|sangue]]. Non so perché un tocco sul naso dovesse turbare tanto la mia [[Imagination|immaginazione]]. Credo mi paresse che egli potesse muovere il naso come un dito. E come se proprio in quel momento l'avesse mosso.
+
+     «“Un qualsiasi piccolo aiuto,” proseguì con lo stesso strano accento saccente, “che possa ovviare alla necessità di mettermi in comunicazione con la famiglia.”
+
+     «Allora mi si riversò addosso la certezza di essere ricattata per il furto della moneta di bronzo; e tutte le mie paure e i miei dubbi meramente superstiziosi furono inghiottiti da un'unica, soverchiante, pratica domanda. Come poteva averlo scoperto? Avevo rubato l'oggetto d'improvviso e d'impulso; ero certamente [[Alone|sola]]; perché mi assicuravo sempre di non essere osservata quando sgusciavo fuori a vedere Philip in quel modo. Non ero stata seguita per strada, per quanto potevo vedere; e se anche lo fossi stata, non avrebbero potuto “radiografare” la moneta nel mio pugno chiuso. L'uomo che stava sulle dune non poteva aver visto ciò che davo a Philip più di quanto potesse colpire una mosca in un occhio solo, come l'uomo della fiaba.
+
+     «“Philip,” gridai smarrita, “chiedi a quest'uomo che cosa vuole.”
+
+     «Quando Philip alzò infine la testa dal rammendare la rete, era piuttosto rosso, come imbronciato o vergognoso; ma poteva essere solo lo sforzo del chinarsi e la rossa luce della sera; poteva essere solo un'altra di quelle fantasie morbose che parevano danzarmi intorno. Egli disse soltanto, burbero, all'uomo: “Levati di torno.” E, facendomi cenno di seguirlo, si avviò a guado verso riva senza prestargli ulteriore attenzione. Salì su un frangiflutti di pietra che si spingeva fuori tra le radici delle dune, e così puntò verso casa, pensando forse che il nostro incubo avrebbe trovato meno agevole di noi camminare su pietre così scabre, verdi e viscide d'alghe, noi che eravamo giovani e ci eravamo abituati. Ma il mio persecutore camminava con la stessa delicatezza con cui parlava; e continuava a seguirmi, scegliendo la strada e scegliendo le frasi. Udivo la sua voce delicata e detestabile appellarsi a me al di sopra della mia spalla, finché, quando avemmo scavalcato le dune, la pazienza di Philip (che nella maggior parte delle occasioni non era affatto tanto cospicua) parve spezzarsi. Egli si voltò di scatto, dicendo: “Torna indietro. Non posso parlarti adesso.” E mentre l'uomo indugiava e apriva bocca, Philip gli assestò su di essa un pugno tale da farlo volare dalla cima della duna più alta fino al fondo. Lo vidi arrancare più in basso, coperto di sabbia.
+
+     «Quel colpo, chissà come, mi confortò, benché potesse benissimo accrescere il mio pericolo; ma Philip non mostrò nulla della sua abituale esultanza per le proprie prodezze. Per quanto affettuoso come sempre, sembrava ancora abbattuto; e prima che potessi interrogarlo compiutamente, si separò da me al proprio cancello, con due osservazioni che mi parvero strane. Disse che, tutto sommato, avrei fatto bene a rimettere la moneta nella Collezione; ma che lui stesso l'avrebbe tenuta “per il momento”. E poi aggiunse d'improvviso e senza alcun nesso: “Sai che Giles è tornato dall'Australia?”»
+
+     La porta della taverna si aprì e l'ombra gigantesca dell'investigatore Flambeau cadde sul tavolo. Padre Brown lo presentò alla signora nel suo consueto modo di parlare, misurato e persuasivo, accennando alla sua competenza e alla sua comprensione in casi simili; e quasi senza accorgersene, la ragazza si mise presto a ripetere la sua storia a due ascoltatori. Ma Flambeau, mentre s'inchinava e si sedeva, porse al prete un foglietto di carta. Brown lo prese con una certa sorpresa e vi lesse: «Vettura per Wagga Wagga, Mafeking Avenue 379, Putney.» La ragazza continuava la sua storia.
+
+     «Salii per la strada ripida verso casa mia con la testa in un vortice; non aveva ancora cominciato a schiarirsi quando giunsi al gradino della porta, sul quale trovai un bidone del latte, e l'uomo dal naso storto. Il bidone del latte mi diceva che i domestici erano tutti fuori; perché, naturalmente, Arthur, tutto intento a rovistare nella sua veste da camera marrone, immerso in uno studio marrone, non avrebbe udito né risposto a un campanello. Così non c'era nessuno in casa che potesse aiutarmi, tranne mio fratello, il cui aiuto sarebbe stato la mia rovina. Nella disperazione cacciai due scellini nella mano dell'orribile individuo, e gli dissi di tornare fra qualche giorno, quando ci avessi riflettuto. Se ne andò imbronciato, ma con più fare dimesso di quanto mi aspettassi — forse era rimasto scosso dalla caduta — e osservai la stella di sabbia spiaccicata sulla sua schiena allontanarsi giù per la strada con un orribile piacere vendicativo. Svoltò un angolo, sei case più in giù.
+
+     «Poi entrai, mi preparai un po' di tè, e cercai di riflettere. Sedetti alla finestra del salotto che dà sul giardino, ancora rosseggiante dell'ultima piena luce serale. Ma ero troppo distratta e sognante per guardare i prati e i vasi e le aiuole con una qualche concentrazione. E così ricevetti il colpo tanto più acutamente, per averlo veduto tanto lentamente.
+
+     «L'uomo, o mostro, che avevo mandato via se ne stava del tutto immobile in mezzo al giardino. Oh, abbiamo tutti letto un mucchio di cose sui fantasmi dal viso pallido nel buio; ma questo era più tremendo di qualsiasi cosa di quel genere potesse mai essere. Perché, benché proiettasse una lunga ombra serale, egli stava tuttora in piena luce di sole calda. E perché il suo viso non era pallido, ma aveva ancora su di sé quella fioritura cerea che appartiene al manichino di un barbiere. Stava del tutto immobile, col viso rivolto verso di me; e non saprei dirle quanto orribile apparisse tra i tulipani e tutti quei fiori alti, sgargianti, dall'aria quasi da serra. Sembrava che avessimo piantato una figura di cera invece di una statua al centro del nostro giardino.
+
+     «Eppure, quasi nell'istante stesso in cui mi vide muovere alla finestra, si voltò e uscì di corsa dal giardino per il cancello sul retro, che era rimasto aperto e per il quale senza dubbio era entrato. Questa rinnovata timidezza da parte sua era così diversa dalla sfrontatezza con cui era entrato nel mare, che mi sentii vagamente confortata. Immaginai, forse, che temesse di trovarsi di fronte ad Arthur più di quanto non sapessi. Comunque sia, mi calmai infine, e cenai tranquilla e sola (perché era contro le regole disturbare Arthur quando riordinava il museo), e i miei pensieri, un poco liberati, volarono a Philip e vi si smarrirono, suppongo. Comunque sia, guardavo assente, ma piuttosto piacevolmente che no, verso un'altra finestra, senza tende, ma a quell'ora nera come una lavagna con l'ultimo calar della notte. Mi parve che qualcosa come una lumaca fosse sulla parte esterna del vetro. Ma quando guardai più intensamente, somigliava piuttosto al pollice di un uomo premuto contro il vetro; aveva quell'aria ricurva che ha un pollice. Con la paura e il coraggio ridestatisi insieme, mi lanciai verso la finestra e poi indietreggiai con un grido strozzato che chiunque altro tranne Arthur avrebbe dovuto udire.
+
+     «Perché non era un pollice, come non era una lumaca. Era la punta di un naso storto, schiacciato contro il vetro; appariva bianco per la pressione; e il volto e gli occhi sbarrati che vi stavano dietro erano dapprima invisibili e poi grigi come uno spettro. In qualche modo sbattei insieme le imposte, corsi di sopra nella mia stanza e mi ci chiusi a chiave. Ma, mentre passavo, avrei potuto giurare di aver visto una seconda finestra nera con qualcosa sopra che somigliava a una lumaca.
+
+     «Forse la cosa migliore era, dopotutto, andare da Arthur. Se la cosa strisciava fitta tutt'intorno alla casa come un gatto, poteva avere propositi peggiori perfino del ricatto. Mio fratello poteva scacciarmi e maledirmi per sempre, ma era un gentiluomo, e mi avrebbe difesa lì per lì. Dopo dieci minuti di curiose riflessioni, scesi, bussai alla porta e poi entrai: per vedere l'ultima e peggiore visione.
+
+     «La poltrona di mio fratello era vuota, ed egli era evidentemente uscito. Ma l'uomo dal naso storto stava lì seduto ad aspettare il suo ritorno, con il cappello ancora insolentemente in capo, e leggeva addirittura uno dei libri di mio fratello sotto la lampada di mio fratello. Il suo volto era composto e assorto, ma la punta del naso conservava tuttora l'aria di essere la parte più mobile della sua faccia, come se si fosse appena voltata da sinistra a destra come la proboscide di un elefante. L'avevo giudicato abbastanza velenoso mentre mi inseguiva e mi spiava; ma credo che la sua inconsapevolezza della mia presenza fosse ancor più spaventosa.
+
+     «Credo di aver gridato forte e a lungo; ma non ha importanza. Ciò che feci dopo, quello sì ha importanza: gli diedi tutto il denaro che avevo, comprese parecchie banconote che, benché fossero mie, oso dire non avessi diritto di toccare. Se ne andò infine, con odiosi, garbati rammarichi tutti in lunghe parole; e io mi sedetti, sentendomi rovinata in ogni senso. Eppure fui salvata quella notte stessa da un puro caso. Arthur era partito all'improvviso per Londra, come faceva così spesso, per certi affari; e ne era tornato, tardi ma raggiante, avendo quasi assicurato un tesoro che sarebbe stato uno splendore aggiunto perfino alla Collezione di famiglia. Era così radioso che quasi mi feci coraggio per confessare la sottrazione della gemma minore; ma egli travolse ogni altro argomento con i suoi progetti soverchianti. Poiché l'affare poteva ancora sfumare da un momento all'altro, insistette perché facessi subito i bagagli e salissi con lui a un alloggio che aveva già preso a Fulham, per essere vicino al negozio di curiosità in questione. Così, a mio dispetto, fuggii dal mio nemico quasi nel cuore della notte, ma anche da Philip.... Mio fratello era spesso al South Kensington Museum, e, per procurarmi una specie di vita secondaria, pagai per qualche lezione alle Scuole d'Arte. Ne stavo tornando questa sera, quando ho visto l'abominio della desolazione camminare vivo giù per la lunga strada diritta, e il resto è come ha detto questo signore.
+
+     «Ho una cosa sola da dire. Non merito di essere aiutata; e non discuto né mi lagno della mia punizione; è giusta, doveva accadere. Ma continuo a domandarmi, col cervello che scoppia, come possa essere accaduta. Sono punita per miracolo? o come può chiunque, tranne Philip e me, sapere che gli diedi una minuscola moneta in mezzo al mare?»
+
+     «È un problema straordinario,» ammise Flambeau.
+
+     «Non tanto straordinario quanto la soluzione,» osservò Padre Brown piuttosto cupamente. «Miss Carstairs, sarà in casa se passiamo dalla sua abitazione di Fulham fra un'ora e mezza?»
+
+     La ragazza lo guardò, poi si alzò e si infilò i guanti. «Sì,» disse, «ci sarò»; e quasi all'istante lasciò il locale.
+
+     Quella notte il detective e il prete stavano ancora discorrendo della faccenda mentre si avvicinavano alla casa di Fulham, un caseggiato stranamente misero perfino per una residenza temporanea della famiglia Carstairs.
+
+     «Naturalmente, chi è superficiale, a ripensarci,» disse Flambeau, «penserebbe per primo a questo fratello australiano che si è già cacciato nei guai in passato, che è tornato così all'improvviso e che è proprio il tipo da avere loschi complici. Ma non riesco a vedere come possa entrarci per nessuna via di ragionamento, a meno che...»
+
+     «E allora?» chiese il compagno con pazienza.
+
+     Flambeau abbassò la voce. «A meno che non entri in gioco anche l'innamorato della ragazza, e allora sarebbe lui il furfante più nero. Il tale australiano sapeva bene che Hawker voleva la moneta. Ma non riesco proprio a vedere come diavolo potesse sapere che Hawker l'aveva avuta, a meno che Hawker non gli abbia fatto un segnale, a lui o a un suo incaricato, attraverso la spiaggia.»
+
+     «Questo è vero,» convenne il prete, con rispetto.
+
+     «Ha notato un'altra cosa?» proseguì Flambeau con foga. «Questo Hawker sente insultare la sua innamorata, ma non colpisce finché non è arrivato alle molli dune di sabbia, dove può essere vincitore in un combattimento solo simulato. Se avesse colpito tra le rocce e il mare, avrebbe potuto ferire il suo alleato.»
+
+     «Anche questo è vero,» disse Padre Brown, annuendo.
+
+     «E ora, prendiamola dall'inizio. La cosa sta fra poche persone, ma almeno tre. Per un suicidio ne basta una; per un omicidio, due; ma per un ricatto ce ne vogliono almeno tre.»
+
+     «Perché?» chiese il prete sottovoce.
+
+     «Ma è evidente,» gridò l'amico, «ci deve essere uno da smascherare; uno che minacci di smascherare; e almeno uno che lo smascheramento inorridirebbe.»
+
+     Dopo una lunga pausa meditabonda, il prete disse: «Ti sfugge un passaggio logico. Tre persone sono necessarie come idee. Solo due sono necessarie come agenti.»
+
+     «Che cosa vuoi dire?» chiese l'altro.
+
+     «Perché un ricattatore,» chiese Brown a voce bassa, «non dovrebbe minacciare la propria vittima con se stesso? Supponi che una moglie diventasse una rigida astemia allo scopo di spaventare il marito e indurlo a nascondere la propria frequentazione delle osterie, e poi gli scrivesse lettere ricattatorie con un'altra grafia, minacciando di riferire tutto a sua moglie! Perché non dovrebbe funzionare? Supponi che un padre proibisse a un figlio di giocare d'azzardo e poi, seguendolo ben travestito, minacciasse il ragazzo con quella stessa finta severità paterna! Supponi... ma eccoci arrivati, amico mio.»
+
+     «Dio mio!» gridò Flambeau; «non vorrai dire...»
+
+     Una figura svelta scese di corsa i gradini della casa e mostrò, sotto la dorata luce del lampione, l'inconfondibile testa che somigliava alla moneta romana. «Miss Carstairs,» disse Hawker senza cerimonie, «non voleva entrare prima che arrivaste.»
+
+     «Ebbene,» osservò Brown con sicurezza, «non pensa che la cosa migliore che possa fare sia restar fuori, con lei a vegliarla? Vede, direi che ha già indovinato tutto da solo.»
+
+     «Sì,» disse il giovane, a mezza voce, «ho indovinato sulla spiaggia e adesso lo so; ecco perché l'ho fatto cadere sul morbido.»
+
+     Preso un passe-partout dalla ragazza e la moneta da Hawker, Flambeau fece entrare sé e l'amico nella casa vuota e passò nel salottino d'ingresso. Era privo di ogni occupante tranne uno. L'uomo che Padre Brown aveva visto passare davanti alla taverna stava in piedi contro il muro come una bestia braccata; immutato, salvo che si era tolto il cappotto nero e indossava una veste da camera marrone.
+
+     «Siamo venuti,» disse Padre Brown cortesemente, «a restituire questa moneta al suo proprietario.» E la porse all'uomo dal naso.
+
+     Gli occhi di Flambeau rotearono. «Quest'uomo è un collezionista di monete?» chiese.
+
+     «Quest'uomo è il signor Arthur Carstairs,» disse il prete con fermezza, «ed è un collezionista di monete di specie alquanto singolare.»
+
+     L'uomo cambiò colore in modo così orribile che il naso storto gli spiccò sul viso come una cosa a sé e comica. Parlò, ciò nonostante, con una sorta di dignità disperata. «Vedrete, allora,» disse, «che non ho perduto tutte le qualità di famiglia.» E si voltò di scatto e si diresse a grandi passi in una stanza interna, sbattendo la porta.
+
+     «Fermatelo!» gridò Padre Brown, balzando e quasi cadendo su una sedia; e, dopo uno strattone o due, Flambeau ebbe la porta aperta. Ma era troppo tardi. In un silenzio di morte Flambeau attraversò a grandi passi la stanza e telefonò per un medico e la polizia.
+
+     Una bottiglietta di medicina vuota giaceva sul pavimento. Sul tavolo, il corpo dell'uomo nella veste da camera marrone giaceva in mezzo ai suoi pacchi di carta marrone squarciati e spalancati; dai quali si riversavano e rotolavano non monete romane, ma monete inglesi modernissime.
+
+     Il prete sollevò la testa di bronzo di Cesare. «Questa,» disse, «era tutto ciò che restava della collezione Carstairs.»
+
+     Dopo un silenzio proseguì, con più della consueta dolcezza: «Fu un testamento crudele, quello che il suo malvagio padre fece, e come vede egli lo risentì un poco. Odiava il denaro romano che possedeva, e si affezionò sempre più al denaro vero che gli era negato. Non solo vendette la Collezione pezzo per pezzo, ma sprofondò pezzo per pezzo nei modi più vili di far denaro, fino a ricattare la propria famiglia sotto travestimento. Ricattò suo fratello dall'Australia per il suo piccolo, dimenticato delitto (ecco perché prese la vettura per Wagga Wagga a Putney), ricattò sua sorella per il furto che lui solo poteva aver notato. E questo, per inciso, è il motivo per cui ella ebbe quell'intuizione soprannaturale mentre lui era lontano, sulle dune. La semplice figura e l'andatura, per quanto distanti, hanno più probabilità di ricordarci qualcuno che non un volto ben truccato tutto da vicino.»
+
+     Ci fu un altro silenzio. «Bene,» brontolò il detective, «e così questo grande numismatico e collezionista di monete non era altro che un volgare avaro.»
+
+     «C'è forse una differenza così grande?» chiese Padre Brown, nello stesso strano tono indulgente. «Che cosa c'è di male in un avaro che non sia altrettanto spesso male in un collezionista? Che cosa c'è di male, tranne... non ti farai alcuna immagine scolpita; non ti prostrerai davanti ad esse né le servirai, poiché io... ma dobbiamo andare a vedere come se la passano quei due poveri giovani.»
+
+     «Credo,» disse Flambeau, «che, malgrado tutto, se la passino probabilmente molto bene.»
+
+                                 SETTE

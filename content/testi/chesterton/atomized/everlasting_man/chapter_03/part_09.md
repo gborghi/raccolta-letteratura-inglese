@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/everlasting-man-(chesterton)">The Everlasting Man</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/everlasting_man/chapter_03/part_08">‹ part 08</a><a class="ex-next" href="/testi/chesterton/atomized/everlasting_man/chapter_03/part_10">part 10 ›</a></div>
@@ -128,3 +130,127 @@ of simplicity, who should expect the grass to wither and the birds
 to drop dead out of the air, when a strolling carpenter's apprentice
 said calmly and almost carelessly, like one looking over his shoulder:
 'Before Abraham was, I am.'
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/everlasting-man-(chesterton)">The Everlasting Man</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/everlasting_man/chapter_03/part_08">‹ part 08</a><a class="ex-next" href="/testi/chesterton/atomized/everlasting_man/chapter_03/part_10">part 10 ›</a></div>
+</nav>
+
+La verità è che quando i critici hanno parlato dei limiti locali
+del Galileo, si è sempre trattato in realtà dei limiti locali
+dei critici. Egli credeva senza dubbio in certe cose
+in cui una particolare setta moderna di materialisti non crede.
+Ma non erano cose particolarmente peculiari della sua epoca.
+Sarebbe più vicino al vero dire che è la loro negazione
+a essere del tutto peculiare della nostra epoca. Senza dubbio sarebbe
+ancora più vicino al vero dire semplicemente che a essere peculiare della nostra epoca
+è una certa solenne importanza sociale attribuita alla minoranza che non vi crede.
+Egli credeva, per esempio, negli spiriti maligni o nella guarigione psichica
+dei mali del corpo; ma non perché fosse un Galileo nato sotto Augusto.
+È assurdo dire che un uomo credeva certe cose perché era un Galileo
+sotto Augusto, quando avrebbe potuto credere le stesse cose se fosse
+stato un egiziano sotto Tutankhamon o un indiano sotto Gengis Khan.
+Ma di questa questione generale della filosofia del diabolismo
+o dei miracoli divini mi occupo altrove. Basti dire
+che i materialisti devono provare l'impossibilità dei miracoli
+contro la testimonianza di tutta l'umanità, non contro i pregiudizi
+dei provinciali della Palestina settentrionale sotto i primi imperatori romani.
+Ciò che devono provare, ai fini del presente ragionamento, è la presenza nei
+Vangeli di quei particolari pregiudizi di quei particolari provinciali.
+E, umanamente parlando, è stupefacente quanto poco riescano a produrre
+anche solo per cominciare a provarlo.
+
+Così è in questo caso del sacramento del matrimonio.
+Possiamo non credere nei sacramenti, come possiamo non credere negli spiriti,
+ma è del tutto chiaro che Cristo credeva in questo sacramento
+a modo suo e non in alcun modo corrente o contemporaneo.
+Egli non trasse certo il suo argomento contro il divorzio dalla legge
+mosaica o dalla legge romana o dalle abitudini del popolo palestinese.
+Esso apparve allora ai suoi critici esattamente come appare
+oggi ai suoi critici: un dogma arbitrario e trascendentale
+che non viene da nessun luogo, se non nel senso che veniva da lui.
+Qui non mi preoccupo affatto di difendere quel dogma; il punto è
+che difenderlo oggi è altrettanto facile quanto lo era difenderlo allora.
+È un ideale del tutto fuori dal tempo: difficile in ogni epoca;
+impossibile in nessuna. In altre parole, se qualcuno dice che è
+ciò che ci si potrebbe aspettare da un uomo che passeggiava in quel luogo
+in quell'epoca, possiamo rispondere con tutta franchezza che assomiglia molto di più
+a ciò che potrebbe essere la misteriosa pronuncia di un essere al di là dell'uomo,
+qualora camminasse vivo tra gli uomini.
+
+Sostengo dunque che un uomo il quale leggesse il Nuovo Testamento con franchezza
+e freschezza non ne ricaverebbe l'impressione di ciò che oggi spesso si intende
+con un Cristo umano. Il Cristo meramente umano è una figura artefatta,
+un pezzo di selezione artificiale, come l'uomo meramente evolutivo.
+Per di più, si sono trovati troppi di questi Cristi umani
+nella medesima storia, così come si sono trovate troppe chiavi
+della mitologia nelle medesime storie. Tre o quattro distinte
+scuole di razionalismo hanno lavorato sul terreno e prodotto
+tre o quattro spiegazioni ugualmente razionali della sua vita.
+La prima spiegazione razionale della sua vita fu che egli non era mai vissuto.
+E questo, a sua volta, offrì l'occasione per tre o quattro diverse
+spiegazioni: che fosse un mito solare o un mito del grano, o qualunque altra
+sorta di mito che è anche una monomania. Poi l'idea che fosse
+un essere divino che non esisteva cedette il posto all'idea che fosse
+un essere umano che esisteva. Nella mia giovinezza andava di moda dire
+che era semplicemente un maestro di etica alla maniera degli Esseni,
+il quale a quanto pare non aveva granché da dire che Hillel o
+cento altri ebrei non avrebbero potuto dire; per esempio che è cosa gentile
+essere gentili e un aiuto alla purificazione l'essere puri.
+Poi qualcuno disse che era un pazzo affetto da delirio messianico.
+Poi altri dissero che era davvero un maestro originale perché
+non si curava di nulla se non del Socialismo; oppure (come altri dissero)
+di nulla se non del Pacifismo. Poi comparve un personaggio
+più cupamente scientifico, il quale disse che di Gesù non si sarebbe mai
+sentito parlare affatto se non fosse stato per le sue profezie sulla fine del mondo.
+Egli sarebbe importante soltanto come un millenarista alla maniera del dottor Cumming; e avrebbe suscitato
+un panico provinciale annunciando la data esatta del crollo finale.
+Tra le altre varianti sullo stesso tema vi era la teoria secondo cui era un
+guaritore spirituale e nient'altro; una visione implicata dalla Scienza Cristiana,
+che è costretta a esporre un cristianesimo senza la Crocifissione
+per poter spiegare la guarigione della suocera di Pietro o della
+figlia di un centurione. Vi è un'altra teoria che si concentra
+interamente sulla faccenda del diabolismo e su ciò che chiamerebbe
+la superstizione contemporanea intorno agli indemoniati, come se Cristo,
+al pari di un giovane diacono che riceve i primi ordini, fosse giunto fino
+all'esorcismo e non fosse mai andato oltre. Ora, ciascuna di queste spiegazioni
+mi sembra in sé singolarmente inadeguata; ma prese insieme
+esse suggeriscono in qualche modo proprio quel mistero che mancano.
+Doveva pur esserci qualcosa non solo di misterioso ma di poliedrico
+in Cristo, se da lui si possono intagliare tanti Cristi più piccoli.
+Se lo Scienziato Cristiano si accontenta di lui come guaritore spirituale
+e il Socialista Cristiano si accontenta di lui come riformatore sociale,
+tanto contenti da non aspettarsi nemmeno che sia qualcos'altro,
+sembra proprio che egli abbracciasse assai più terreno di quanto ci si
+potesse aspettare che loro si aspettassero. E ciò sembra suggerire che ci
+potrebbe essere più di quanto essi immaginino in questi altri misteriosi attributi
+dello scacciare i demoni o del profetizzare la rovina.
+
+Soprattutto, un tale nuovo lettore del Nuovo Testamento non inciamperebbe
+in qualcosa che lo sconvolgerebbe assai più di quanto sconvolga noi?
+Ho qui tentato più di una volta l'impresa piuttosto impossibile
+di rovesciare il tempo e il metodo storico; e di guardare con la fantasia
+in avanti verso i fatti, invece che all'indietro attraverso i ricordi.
+Così ho immaginato il mostro che l'uomo potrebbe essere apparso in un primo momento
+alla mera natura che lo circondava. Avremmo uno choc anche peggiore se davvero
+immaginassimo la natura di Cristo nominata per la prima volta.
+Che cosa proveremmo al primo sussurro di una certa insinuazione
+su un certo uomo? Certo non tocca a noi biasimare chiunque
+trovasse quel primo folle sussurro semplicemente empio e insensato.
+Al contrario, inciampare su quella pietra dello scandalo è il primo passo.
+Un'incredulità sbarrata e a occhi sgranati è un tributo assai più leale a quella verità
+di quanto lo sia una metafisica modernista che ne farebbe una mera questione di grado.
+Meglio sarebbe stracciarci le vesti con un gran grido contro la bestemmia,
+come Caifa nel giudizio, o afferrare l'uomo come un maniaco
+posseduto dai demoni, come i parenti e la folla, piuttosto che
+starsene stupidamente a discutere di sottili sfumature di panteismo al cospetto
+di una pretesa tanto catastrofica. Vi è più di quella saggezza che è
+tutt'uno con lo stupore in qualsiasi persona semplice, colma della sensibilità
+della semplicità, che si aspettasse che l'erba appassisse e gli uccelli
+cadessero morti dal cielo, quando un girovago apprendista falegname
+disse con calma e quasi con noncuranza, come chi si volge a guardare oltre la spalla:
+«Prima che Abramo fosse, io sono».

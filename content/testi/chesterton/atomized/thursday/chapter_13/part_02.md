@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/thursday-(chesterton)">The Man Who Was Thursday</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/thursday/chapter_13/part_01">‹ part 01</a><a class="ex-next" href="/testi/chesterton/atomized/thursday/chapter_13/part_03">part 03 ›</a></div>
@@ -123,3 +125,123 @@ But quick as it went by, [[Sunday]] had bounded out of his cab,
 sprung at the [[Fire|fire]]-engine, caught it, slung himself on to it,
 and was seen as he disappeared in the noisy distance talking
 to the astonished fireman with explanatory gestures.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/thursday-(chesterton)">The Man Who Was Thursday</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/thursday/chapter_13/part_01">‹ part 01</a><a class="ex-next" href="/testi/chesterton/atomized/thursday/chapter_13/part_03">part 03 ›</a></div>
+</nav>
+
+# [[thursday]] — Capitolo 13 (parte 2)
+
+«Non abbiamo [[Time|tempo]] per buffonate», disse il Segretario, interrompendo ferocemente.
+«Siamo venuti a sapere che cosa significa tutto questo.  Chi siete voi?  Che cosa siete?
+Perché ci avete radunati tutti qui?  Sapete chi e che cosa siamo noi?
+Siete un mezzo scemo che gioca al cospiratore, o un uomo intelligente
+che fa lo [[Fool|sciocco]]?  Rispondetemi, vi dico.»
+
+«I candidati», mormorò [[Sunday]], «sono tenuti a rispondere soltanto
+a otto delle diciassette domande del foglio.
+Per quanto riesco a capire, volete che vi dica che cosa sono io,
+e che cosa siete voi, e che cos’è questo tavolo, e che cos’è questo
+Consiglio, e a che cosa serva questo mondo, per quanto ne so io.
+[[Well|Ebbene]], mi spingerò fino a squarciare il velo di un mistero.
+Se volete sapere che cosa siete, siete un gruppo di giovani
+[[Well|bene]] intenzionati asini.»
+
+«E voi», disse Syme, sporgendosi in avanti, «che cosa siete?»
+
+«Io?  Che cosa sono io?» ruggì il Presidente, e [[Rose|si levò]] lentamente a un’altezza
+incredibile, come un’onda enorme sul punto d’inarcarsi sopra di loro e infrangersi.
+«Volete sapere che cosa sono io, eh?  Bull, voi siete un uomo di scienza.
+Frugate nelle radici di quegli alberi e scoprite la [[Truth|verità]] su di essi.
+Syme, voi siete un poeta.  Fissate quelle nuvole del mattino.
+Ma vi dico questo, che avrete scoperto la [[Truth|verità]] dell’ultimo
+albero e della nuvola più alta prima della [[Truth|verità]] su di me.
+Comprenderete il mare, e io sarò ancora un [[Riddle|enigma]];
+saprete che cosa sono le [[Stars|stelle]], e non saprete che cosa sono io.
+Fin dal principio del mondo tutti gli uomini mi hanno dato la caccia come a un lupo…
+re e savi, e poeti e legislatori, tutte le chiese,
+e tutte le filosofie.  Ma non sono mai stato preso finora,
+e i cieli crolleranno nel [[Time|momento]] in cui mi volterò a far fronte.
+Li ho fatti correre parecchio per i loro soldi, e continuerò a farlo.»
+
+Prima che uno di loro potesse muoversi, il mostruoso uomo si era slanciato
+come un enorme orango oltre la balaustra del balcone.
+Eppure, prima di lasciarsi cadere, si tirò su di nuovo come a una sbarra orizzontale,
+e spingendo il suo gran mento oltre l’orlo del balcone, disse solennemente…
+
+«C’è una cosa però che vi dirò su chi sono.
+Sono l’uomo nella stanza buia, quello che vi ha fatti tutti poliziotti.»
+
+Con ciò cadde dal balcone, rimbalzando sulle pietre sottostanti come
+una gran palla di caucciù, e si allontanò a balzi verso l’angolo
+dell’Alhambra, dove chiamò un hansom e vi balzò dentro.
+I sei detective erano rimasti impietriti e lividi
+alla luce della sua ultima affermazione; ma quando egli scomparve nella carrozza,
+il senso pratico di Syme gli tornò, e scavalcando il balcone
+così sconsideratamente da quasi rompersi le gambe, chiamò un’altra carrozza.
+
+Lui e Bull balzarono insieme nella carrozza, [[The Professor|il Professore]] e
+l’Ispettore in un’altra, mentre il Segretario e l’ex Gogol
+si arrampicarono in una terza appena in [[Time|tempo]] per inseguire il volante Syme,
+che inseguiva il volante Presidente.  [[Sunday]] li condusse in una caccia sfrenata
+verso nord-ovest, il suo [[cabman|cocchiere]], evidentemente sotto l’influsso
+di incentivi più che comuni, spronando il [[Horse|cavallo]] a [[Speed|velocità]] da rompicollo.
+Ma Syme non era in vena di delicatezze, e si alzò in piedi
+nella propria carrozza gridando: «Al ladro!» finché la folla accorse
+lungo la sua carrozza, e i poliziotti presero a fermarsi e a far domande.
+Tutto ciò ebbe il suo effetto sul [[cabman|cocchiere]] del Presidente,
+che cominciò a farsi dubbioso, e a rallentare al trotto.
+Aprì la botola per parlare ragionevolmente al suo cliente, e così
+facendo lasciò penzolare la lunga frusta sul davanti della carrozza.
+[[Sunday]] si sporse in avanti, l’afferrò, e la strappò con violenza
+di mano all’uomo.  Poi, ergendosi in piedi davanti alla carrozza,
+sferzò il [[Horse|cavallo]] e ruggì a gran voce, sicché scesero
+per le vie come una [[Storm|tempesta]] volante.  Attraverso strada dopo strada
+e piazza dopo piazza andava turbinando quel veicolo assurdo,
+in cui il cliente spronava il [[Horse|cavallo]] e il conducente cercava
+disperatamente di fermarlo.  Le altre tre carrozze lo seguivano
+(se la frase è lecita per una carrozza) come segugi ansanti.
+Botteghe e strade sfrecciavano via come frecce sferraglianti.
+
+Al massimo dell’estasi della [[Speed|velocità]], [[Sunday]] si voltò
+sul predellino dove stava, e sporgendo la sua gran testa
+ghignante dalla carrozza, coi capelli bianchi fischianti
+nel [[Wind|vento]], fece una faccia orribile ai suoi inseguitori,
+come un colossale monello.  Poi, alzando rapidamente la mano destra,
+scagliò in faccia a Syme una palla di carta e sparì.
+Syme afferrò l’oggetto mentre istintivamente lo parava,
+e scoprì che consisteva di due fogli spiegazzati.
+Uno era indirizzato a lui stesso, e l’altro al dottor Bull,
+con una lunghissima, e c’è da temere in parte ironica,
+sfilza di lettere dopo il nome.  L’indirizzo del dottor Bull era,
+in ogni caso, notevolmente più lungo della sua comunicazione,
+poiché la comunicazione consisteva interamente nelle parole:…
+
+«E adesso che ne dite di Martin Tupper?»
+
+«Che cosa vuol dire il vecchio maniaco?» chiese Bull, fissando le parole.
+«Che cosa dice la tua, Syme?»
+
+Il messaggio di Syme era, in ogni caso, più lungo, e diceva così:…
+
+«Nessuno rimpiangerebbe qualcosa nella [[Nature|natura]] di un’interferenza
+da parte dell’Arcidiacono più di me.  Confido che non si arrivi
+a tanto.  Ma, per l’ultima [[Time|volta]], dove sono le vostre galosce?
+La cosa è troppo grave, specie dopo quel che ha detto lo zio.»
+
+Il [[cabman|cocchiere]] del Presidente pareva riacquistare un certo controllo
+sul suo [[Horse|cavallo]], e gli inseguitori guadagnarono un poco mentre svoltavano
+nella Edgware [[Road]].  E qui accadde ciò che agli alleati
+parve un provvidenziale intoppo.  Il traffico di ogni genere
+sterzava a destra o a sinistra o si arrestava, poiché giù per la lunga [[Road|via]]
+veniva l’inconfondibile fragore che annunciava l’autopompa dei [[Fire|pompieri]],
+che in pochi secondi passò come un fulmine di bronzo.
+Ma per quanto rapida passasse, [[Sunday]] era balzato fuori dalla sua carrozza,
+si era slanciato sull’autopompa dei [[Fire|pompieri]], l’aveva afferrata, vi si era issato,
+e mentre spariva nella rumorosa lontananza lo si vide parlare
+allo stupito pompiere con gesti esplicativi.

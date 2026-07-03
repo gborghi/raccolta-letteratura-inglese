@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/everlasting-man-(chesterton)">The Everlasting Man</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/everlasting_man/chapter_03/part_14">‹ part 14</a><a class="ex-next" href="/testi/chesterton/atomized/everlasting_man/chapter_03/part_16">part 16 ›</a></div>
@@ -118,3 +120,117 @@ What it did do we must now roughly describe; it is enough to say here
 that there was undoubtedly much about the key that seemed complex,
 indeed there was only one thing about it that was simple.
 It opened the door.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/everlasting-man-(chesterton)">The Everlasting Man</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/everlasting_man/chapter_03/part_14">‹ part 14</a><a class="ex-next" href="/testi/chesterton/atomized/everlasting_man/chapter_03/part_16">part 16 ›</a></div>
+</nav>
+
+Calarono il [[Body|corpo]] giù dalla [[Cross|croce]], e uno dei pochi
+uomini ricchi tra i primi cristiani ottenne il permesso di seppellirlo
+in un sepolcro scavato nella roccia, nel suo [[Garden|giardino]]; e i Romani vi posero una guardia armata,
+per timore che scoppiasse qualche tumulto e si tentasse di recuperare il [[Body|corpo]].
+Ancora una volta vi era un simbolismo naturale in questi eventi naturali;
+fu [[Well|bene]] che il sepolcro venisse sigillato con tutta la segretezza
+delle antiche sepolture orientali e custodito dall'autorità dei Cesari.
+Poiché in quella seconda caverna fu raccolta e ricoperta tutta quella grande e gloriosa
+umanità che chiamiamo antichità;
+e in quel luogo fu sepolta. Era la fine di una cosa grandissima
+chiamata [[history|storia]] umana; la [[history|storia]] che era semplicemente umana.
+Le mitologie e le filosofie furono sepolte là,
+gli dèi e gli eroi e i sapienti. Nella grande espressione romana,
+essi avevano vissuto. Ma poiché potevano soltanto vivere, così potevano soltanto morire;
+ed erano morti.
+
+Il terzo giorno gli amici di [[Christ|Cristo]], giungendo all'alba
+al luogo, trovarono il [[Grave|sepolcro]] vuoto e la pietra rotolata via.
+In modi diversi presero coscienza del nuovo [[Wonder|prodigio]]; ma neppure essi
+si avvidero appieno che il mondo era morto nella [[Night|notte]]. Ciò che avevano
+davanti agli occhi era il primo giorno di una nuova creazione, con un cielo nuovo e una terra nuova;
+e sotto le sembianze del giardiniere Dio camminava di nuovo nel [[Garden|giardino]],
+nel fresco non della sera ma dell'[[Dawn|alba]].
+
+* * *
+
+IV
+
+LA TESTIMONIANZA DEGLI ERETICI
+
+[[Christ|Cristo]] fondò la Chiesa con due grandi figure retoriche,
+nelle parole conclusive rivolte agli Apostoli che ricevettero l'autorità di fondarla.
+La prima fu l'espressione del fondarla su Pietro come su una roccia;
+la seconda fu il simbolo delle chiavi. Sul significato della prima
+non vi è naturalmente alcun [[Doubt|dubbio]] nel mio caso; ma essa non tocca direttamente
+l'argomento qui trattato, se non in due aspetti più secondari.
+È l'ennesimo esempio di una cosa che poté pienamente
+dispiegarsi e spiegarsi soltanto in seguito, e persino molto tempo dopo.
+Ed è l'ennesimo esempio di qualcosa che è l'esatto contrario di semplice
+ed [[Self|evidente da sé]], anche solo nel linguaggio, in quanto descriveva
+un uomo come una roccia quando aveva assai più l'aspetto di una canna.
+
+Ma l'altra immagine, quella delle chiavi, possiede un'esattezza che non è stata quasi
+esattamente notata. Le chiavi sono state abbastanza cospicue
+nell'arte e nell'araldica della cristianità; ma non tutti hanno
+colto la peculiare appropriatezza dell'[[Allegory|allegoria]]. Siamo ora giunti
+al punto della [[history|storia]] in cui bisogna dire qualcosa della prima
+comparsa e delle prime attività della Chiesa nell'Impero romano;
+e per quella breve descrizione nulla potrebbe essere più perfetto
+di quell'antica metafora. Il primo cristiano era assai precisamente
+una persona che portava con sé una chiave, o ciò che diceva essere una chiave.
+L'intero movimento cristiano consisteva nel pretendere di possedere quella chiave.
+Non era semplicemente un vago movimento in avanti, che sarebbe meglio
+rappresentato da un ariete. Non era qualcosa che trascinava con sé
+cose simili o dissimili, come fa un moderno movimento sociale.
+Come vedremo tra un momento, esso piuttosto decisamente rifiutava di farlo.
+Affermava con decisione che vi era una chiave, e che esso possedeva
+quella chiave, e che nessun'altra chiave le somigliava; in tal senso
+era angusto quanto vi piaccia. Solo che si dava il caso che fosse la chiave che
+poteva schiudere la [[Prison|prigione]] del mondo intero; e far entrare la bianca
+luce del giorno della libertà.
+
+Il credo somigliava a una chiave sotto tre aspetti, che possono essere
+riassunti nella maniera più conveniente sotto questo simbolo. Primo, una chiave è soprattutto
+una cosa dotata di una forma. È una cosa che dipende
+interamente dal conservare la propria forma. Il credo cristiano è soprattutto
+la [[philosophy|filosofia]] delle forme e il nemico dell'informe.
+È qui che esso differisce da tutta quella infinità senza forma,
+manichea o buddhista, che forma una sorta di stagno di [[Night|notte]] nel
+cuore oscuro dell'Asia; l'ideale di dis-creare tutte le creature.
+È qui che esso differisce anche dall'analoga vaghezza del mero
+evoluzionismo, l'idea di creature che vanno costantemente perdendo la loro forma.
+Un uomo a cui si dicesse che la sua unica chiave di casa è stata fusa
+insieme a un milione di altre in un'[[unity|unità]] buddhistica ne sarebbe seccato.
+Ma un uomo a cui si dicesse che la sua chiave sta gradualmente crescendo e germogliando
+in tasca, e ramificandosi in nuovi ingegni o complicazioni,
+non ne sarebbe più compiaciuto.
+
+Secondo, la forma di una chiave è in sé una forma piuttosto fantastica.
+Un selvaggio che non sapesse essere una chiave avrebbe la più grande
+difficoltà a indovinare che cosa mai potesse essere.
+Ed è fantastica perché è in un certo senso arbitraria.
+Una chiave non è questione di astrazioni; in tal senso una chiave non
+è questione di argomentazione. O si adatta alla serratura, o non vi si adatta.
+È inutile che gli uomini stiano a disputarne, considerata in sé;
+o a ricostruirla su puri principi di geometria o d'arte decorativa.
+È insensato che un uomo dica di desiderare una chiave semplice;
+sarebbe assai più sensato che facesse del suo meglio con un piede di porco.
+E terzo, poiché la chiave è necessariamente una cosa dotata di un disegno,
+così questa ne aveva uno per certi versi piuttosto elaborato.
+Quando la gente si lamenta che la religione fu così presto complicata
+dalla teologia e da cose del genere, dimentica che il mondo
+non solo era finito in un buco, ma era finito in un intero labirinto di buchi
+e di anfratti. Il problema stesso era un problema complicato; non
+implicava, nel senso ordinario, qualcosa di così semplice come il peccato.
+Era anche pieno di [[Secrets|segreti]], di fallacie inesplorate e insondabili,
+di inconsce malattie mentali, di pericoli in ogni direzione.
+Se la [[Faith|fede]] avesse affrontato il mondo soltanto con i luoghi comuni sulla pace
+e sulla semplicità a cui certi moralisti vorrebbero ridurla, non avrebbe avuto
+il minimo effetto su quel lussuoso e labirintico manicomio.
+Ciò che essa fece dobbiamo ora descriverlo per sommi capi; qui basti dire
+che vi era senza dubbio molto, nella chiave, che sembrava complesso,
+anzi vi era una sola cosa, in essa, che era semplice.
+Apriva la porta.

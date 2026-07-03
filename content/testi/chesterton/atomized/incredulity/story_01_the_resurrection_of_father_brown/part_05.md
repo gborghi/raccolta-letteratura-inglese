@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/incredulity-(chesterton)">Incredulity</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/incredulity/story_01_the_resurrection_of_father_brown/part_04">‹ part 04</a><a class="ex-next" href="/testi/chesterton/atomized/incredulity/story_01_the_resurrection_of_father_brown/part_06">part 06 ›</a></div>
@@ -135,3 +137,44 @@ his usual veneration.
 `To the telegraph office,' said Father Brown hastily.  `What?  No; of
 course it's not a miracle.  Why should there be a miracle?
 Miracles are not so cheap as all that.'
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/incredulity-(chesterton)">Incredulity</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/incredulity/story_01_the_resurrection_of_father_brown/part_04">‹ part 04</a><a class="ex-next" href="/testi/chesterton/atomized/incredulity/story_01_the_resurrection_of_father_brown/part_06">part 06 ›</a></div>
+</nav>
+
+Dietro la veranda una rampa di gradini di pietra saliva lungo una scarpata verde e ripidissima, cinta da una siepe di cactus, e su per essa la bara fu issata a fatica fino al pianoro superiore, e collocata provvisoriamente ai piedi del grande, scarno crocifisso che dominava la strada e vegliava sulla terra consacrata. Più in basso, sulla strada, si stendevano grandi mari di gente che si lamentava e sgranava il rosario: una popolazione orfana che aveva perduto un padre. Nonostante tutti quei simboli, per lui abbastanza provocatori, Alvarez si comportò con misura e rispetto; e tutto sarebbe andato per il meglio — così si diceva Race — se solo gli altri lo avessero lasciato in pace.
+
+Race si diceva con amarezza che il vecchio Mendoza aveva sempre avuto l'aria di un vecchio sciocco, e che ora si era comportato, in modo assai cospicuo e compiuto, proprio da vecchio sciocco. Secondo un'usanza comune nelle società più semplici, la bara era stata lasciata aperta e il volto scoperto, portando al colmo dello strazio la commozione di tutta quella gente semplice. Questo, essendo conforme alla tradizione, non avrebbe dovuto recare alcun danno; ma qualche persona invadente vi aveva aggiunto l'usanza dei liberi pensatori francesi, quella dei discorsi sull'orlo della fossa. Mendoza si accinse a pronunciare un discorso — un discorso piuttosto lungo, e quanto più esso si allungava, tanto più si allungavano e si abbassavano l'animo e le simpatie di John Race verso il rituale religioso in questione. Un elenco di attributi di santità, a quanto pareva del genere più antiquato, veniva sciorinato con la dilatoria noia di un oratore da fine banchetto che non sa mai come mettersi a sedere. Ciò era già abbastanza grave; ma Mendoza ebbe anche l'ineffabile stupidità di cominciare a rimproverare e persino a schernire i propri avversari politici. In tre minuti era riuscito a fare una scenata, e fu una scenata davvero straordinaria.
+
+«Possiamo [[Well|ben]] chiederci», disse, guardandosi intorno con sussiego; «possiamo ben chiederci dove tali virtù possano trovarsi tra coloro che hanno follemente abbandonato la fede dei loro padri. È quando abbiamo tra noi degli atei, capi atei, anzi talvolta persino governanti atei, che vediamo la loro infame filosofia dare frutto in delitti come questo. Se ci domandiamo chi abbia assassinato quest'uomo santo, di certo scopriremo che...»
+
+L'Africa delle foreste guardava fuori dagli occhi di Alvarez, l'avventuriero meticcio; e Race credette di poter vedere all'improvviso che quell'uomo era, dopo tutto, un barbaro, incapace di dominarsi fino in fondo; si sarebbe potuto indovinare che tutto il suo trascendentalismo «illuminato» aveva un tocco di Vudù. Comunque fosse, Mendoza non poté proseguire, perché Alvarez era balzato in piedi e gli gridava contro, sovrastando la sua voce con polmoni infinitamente più poderosi.
+
+«Chi lo ha assassinato?», ruggì. «Il vostro Dio lo ha assassinato! Il suo stesso Dio lo ha assassinato! Secondo voi, egli assassina tutti i suoi servi fedeli e sciocchi — come ha assassinato quello là», e fece un gesto violento, non verso la bara ma verso il crocifisso. Parendo dominarsi un poco, proseguì con un tono ancora adirato ma più argomentativo: «Io non ci credo, ma voi sì. Non è forse meglio non avere alcun Dio che averne uno che vi deruba a questo modo? Io, almeno, non ho paura di dire che non ce n'è nessuno. Non c'è potenza alcuna, in tutto questo universo cieco e senza cervello, che possa udire la vostra [[Prayer|preghiera]] o restituirvi l'amico. Per quanto supplichiate il Cielo di risuscitarlo, egli non risorgerà. Per quanto io sfidi il Cielo a risuscitarlo, egli non risorgerà. Qui e ora ne farò la prova: sfido il Dio che non c'è a destare l'uomo che dorme per sempre.»
+
+Vi fu uno scossone di [[Silence|silenzio]], e il demagogo aveva ottenuto il suo effetto sensazionale.
+
+«Avremmo dovuto immaginarlo», gridò Mendoza con voce spessa e strozzata, «quando abbiamo permesso a uomini come voi di...»
+
+Una voce nuova tagliò in due il suo discorso; una voce alta e stridula, con accento yankee.
+
+«Fermi! Fermi!», gridò Snaith il giornalista; «sta succedendo qualcosa! Giuro che l'ho visto muovere.»
+
+Salì di corsa i gradini e si precipitò alla bara, mentre la folla in basso ondeggiava in frenesie indescrivibili. Un istante dopo aveva voltato al di sopra della spalla un volto sbigottito e aveva fatto un cenno col dito al dottor Calderon, che si affrettò a raggiungerlo per conferire con lui. Quando i due uomini si scostarono di nuovo dalla bara, tutti poterono vedere che la posizione del capo era mutata. Un boato di eccitazione si levò dalla folla e parve arrestarsi di colpo, come reciso a mezz'aria; poiché il prete nella bara emise un gemito e si sollevò su un gomito, guardando con occhi appannati e ammiccanti la folla.
+
+John Adams Race, che fino allora aveva conosciuto soltanto i miracoli della scienza, non si trovò mai capace, negli anni seguenti, di descrivere lo sconvolgimento dei giorni successivi. Gli parve di essere schizzato fuori dal mondo del tempo e dello spazio, e di vivere nell'impossibile. In mezz'ora l'intera cittadina e il distretto si erano trasformati in qualcosa di ignoto da mille anni: un popolo medievale mutato in una folla di monaci da un miracolo sbalorditivo; una città greca dove il dio era disceso tra gli uomini. A migliaia si prostravano sulla strada; a centinaia pronunciavano voti seduta stante; e persino gli estranei, come i due americani, non riuscivano a pensare né a parlare d'altro che del prodigio. Lo stesso Alvarez era scosso, come ben poteva esserlo; e si mise a sedere, la testa fra le mani.
+
+E in mezzo a tutto quel tornado di beatitudine c'era un ometto che si affannava a farsi udire. La sua voce era esile e fioca, e il frastuono era assordante. Faceva deboli piccoli gesti che parevano più di stizza che d'altro. Giunse all'orlo del parapetto sopra la folla, agitando la mano perché facesse silenzio, con movimenti piuttosto simili al battito delle corte ali di un pinguino. Vi fu qualcosa di un po' più simile a una tregua nel frastuono; e allora Padre Brown, per la prima volta, toccò l'estremo grado dell'indignazione che potesse scagliare contro i suoi figli.
+
+«Oh, sciocca gente», disse con voce alta e tremula; «oh, sciocca, sciocca gente.»
+
+Poi parve d'un tratto ricomporsi, si lanciò verso i gradini col suo passo più consueto, e cominciò a scendere in fretta.
+
+«Dove andate, Padre?», disse Mendoza, con più della sua abituale venerazione.
+
+«All'ufficio del telegrafo», disse Padre Brown in fretta. «Cosa? No; certo che non è un miracolo. Perché mai dovrebbe esserci un miracolo? I miracoli non costano così poco.»

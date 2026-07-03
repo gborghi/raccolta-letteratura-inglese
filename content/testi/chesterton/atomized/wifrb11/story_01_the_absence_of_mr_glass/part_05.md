@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/wifrb11-(chesterton)">The Wisdom of Father Brown</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/wifrb11/story_01_the_absence_of_mr_glass/part_04">‹ part 04</a><a class="ex-next" href="/testi/chesterton/atomized/wifrb11/story_02_the_paradise_of_thieves/part_01">part 01 ›</a></div>
@@ -174,3 +176,86 @@ with an entirely new series of Tricks at the Empire Pavilion,
 Scarborough, on Monday next at eight o'[[Clock|clock]] precisely.
 
                                   TWO
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/wifrb11-(chesterton)">The Wisdom of Father Brown</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/wifrb11/story_01_the_absence_of_mr_glass/part_04">‹ part 04</a><a class="ex-next" href="/testi/chesterton/atomized/wifrb11/story_02_the_paradise_of_thieves/part_01">part 01 ›</a></div>
+</nav>
+
+# [[wifrb11]] — L'assenza del signor Glass (parte 5)
+
+     Sia il Professore sia la fanciulla seguirono la direzione del suo sguardo. E benché l'ampia sciarpa nera mascherasse completamente la metà inferiore del volto di Todhunter, si fecero coscienti di qualcosa di lottante e d'intenso nella parte superiore di esso.
+
+     «I suoi occhi hanno davvero un'aria strana», gridò la giovane donna, fortemente commossa. «Bruti che siete; credo che gli stiate facendo male!»
+
+     «Non è questo, credo», disse il dottor Hood; «gli occhi hanno di certo un'espressione singolare. Ma io interpreterei quelle rughe trasversali come esprimenti piuttosto una lieve anomalia psicologica...»
+
+     «Oh, sciocchezze!» gridò Padre Brown: «non vedete che sta ridendo?»
+
+     «Ridendo!» ripeté il dottore, con un sussulto; «ma di che diamine può mai ridere?»
+
+     «Be'», replicò il Reverendo Brown in tono di scusa, «per non usare troppi giri di parole, credo che stia ridendo di voi. E, in verità, sono un po' incline a ridere di me stesso, ora che l'ho capito.»
+
+     «Ora che avete capito che cosa?» chiese Hood, con qualche esasperazione.
+
+     «Ora ho capito», replicò il prete, «la professione del signor Todhunter.»
+
+     Si aggirò strascicando i piedi per la stanza, guardando un oggetto dopo l'altro con quello che pareva uno sguardo vacuo, e poi invariabilmente scoppiando in una risata altrettanto vacua, un processo altamente irritante per coloro che dovevano starlo a guardare. Rise moltissimo per il cappello, ancor più fragorosamente per il bicchiere rotto, ma il sangue sulla punta della spada lo gettò in convulsioni mortali di ilarità. Poi si volse allo specialista fumante di stizza.
+
+     «Dottor Hood», gridò con entusiasmo, «siete un grande poeta! Avete chiamato dal nulla un essere increato. Quanto più divino è ciò che se aveste soltanto stanato i meri fatti! Anzi, i meri fatti sono piuttosto banali e comici al confronto.»
+
+     «Non ho la minima idea di che cosa stiate parlando», disse il dottor Hood piuttosto altezzoso; «i miei fatti sono tutti inevitabili, benché necessariamente incompleti. Uno spazio può essere concesso all'intuizione, forse (o alla poesia, se preferite il termine), ma solo perché i dettagli corrispondenti non possono ancora essere accertati. In assenza del signor Glass...»
+
+     «È questo, è questo», disse il piccolo prete, annuendo con gran ardore, «è questa la prima idea da fissare bene; l'assenza del signor Glass. Egli è così straordinariamente assente. Suppongo», aggiunse pensoso, «che non vi sia mai stato nessuno tanto assente quanto il signor Glass.»
+
+     «Volete dire che è assente dalla città?» domandò il dottore.
+
+     «Voglio dire che è assente da ogni luogo», rispose Padre Brown; «è assente dalla Natura delle Cose, per così dire.»
+
+     «Volete dire sul serio», disse lo specialista con un sorriso, «che una tale persona non esiste?»
+
+     Il prete fece un segno d'assenso. «Sembra proprio un peccato», disse.
+
+     Orion Hood proruppe in una risata sprezzante. «Bene», disse, «prima di passare alle altre cento e una prove, prendiamo la prima prova che abbiamo trovato; il primo fatto in cui siamo inciampati quando siamo inciampati in questa stanza. Se non c'è alcun signor Glass, di chi è questo cappello?»
+
+     «È del signor Todhunter», replicò Padre Brown.
+
+     «Ma non gli va bene», gridò Hood spazientito. «Non potrebbe assolutamente portarlo!»
+
+     Padre Brown scosse il capo con ineffabile mitezza. «Non ho mai detto che potesse portarlo», rispose. «Ho detto che era il suo cappello. O, se insistete su una sfumatura di differenza, un cappello che è suo.»
+
+     «E qual è la sfumatura di differenza?» chiese il criminologo con un lieve sogghigno.
+
+     «Mio buon signore», gridò il mite ometto, col suo primo moto affine all'impazienza, «se scendete per la via fino alla più vicina cappelleria, vedrete che c'è, nel comune parlare, una differenza tra il cappello di un uomo e i cappelli che sono suoi.»
+
+     «Ma un cappellaio», protestò Hood, «può ricavare denaro dalla sua scorta di cappelli nuovi. Che cosa potrebbe ricavare Todhunter da questo unico cappello vecchio?»
+
+     «Conigli», replicò prontamente Padre Brown.
+
+     «Cosa?» gridò il dottor Hood.
+
+     «Conigli, nastri, dolciumi, pesci rossi, rotoli di carta colorata», disse il reverendo gentiluomo con rapidità. «Non avete visto tutto quanto quando avete scoperto le corde truccate? È esattamente lo stesso con la spada. Il signor Todhunter non ha un graffio addosso, come dite voi; ma ha un graffio dentro, se mi seguite.»
+
+     «Volete dire dentro i vestiti del signor Todhunter?» s'informò severamente la signora MacNab.
+
+     «Non voglio dire dentro i vestiti del signor Todhunter», disse Padre Brown. «Voglio dire dentro il signor Todhunter.»
+
+     «Be', che cosa in nome di Bedlam intendete dire?»
+
+     «Il signor Todhunter», spiegò placidamente Padre Brown, «sta imparando a fare il prestigiatore di professione, oltre che il giocoliere, il ventriloquo e l'esperto nel trucco delle corde. La prestidigitazione spiega il cappello. Esso è privo di tracce di capelli, non perché sia portato dal prematuramente calvo signor Glass, ma perché non è mai stato portato da nessuno. La giocoleria spiega i tre bicchieri, che Todhunter s'insegnava da sé a lanciare in aria e riacchiappare a rotazione. Ma, essendo soltanto allo stadio dell'esercizio, ne ha fracassato uno contro il soffitto. E la giocoleria spiega anche la spada, che era orgoglio e dovere professionale del signor Todhunter inghiottire. Ma, di nuovo, essendo allo stadio dell'esercizio, si è graffiato assai lievemente l'interno della gola con l'arma. Di qui ha una ferita dentro di sé, che sono certo (dall'espressione del suo viso) non è grave. Si esercitava anche nel trucco della liberazione dalle corde, come i Fratelli Davenport, ed era proprio sul punto di liberarsi quando tutti abbiamo fatto irruzione nella stanza. Le carte, naturalmente, sono per i giochi di carte, e sono sparse sul pavimento perché egli si era giusto esercitato in uno di quei trucchi di lanciarle a volo per l'aria. Ha semplicemente tenuto segreto il proprio mestiere, perché doveva tenere segreti i suoi trucchi, come ogni altro prestigiatore. Ma il mero fatto che un fannullone in cilindro avesse una volta sbirciato dalla sua finestra sul retro, e ne fosse stato scacciato con grande indignazione, è bastato a metterci tutti su una falsa pista da romanzo, e a farci immaginare l'intera sua vita adombrata dallo spettro incilindrato del signor Glass.»
+
+     «Ma allora le due voci?» chiese Maggie, sgranando gli occhi.
+
+     «Non avete mai sentito un ventriloquo?» chiese Padre Brown. «Non sapete che parlano prima con la loro voce naturale, e poi si rispondono da soli proprio con quella voce stridula, cigolante e innaturale che avete sentito?»
+
+     Vi fu un lungo silenzio, e il dottor Hood osservò l'ometto che aveva parlato con un sorriso cupo e attento. «Siete di certo una persona ingegnosissima», disse; «non si sarebbe potuto far di meglio in un libro. Ma c'è proprio una parte del signor Glass che non siete riuscito a spiegar via, ed è il suo nome. La signorina MacNab lo ha udito distintamente rivolgersi così dal signor Todhunter.»
+
+     Il Rev. signor Brown proruppe in un risolino piuttosto puerile. «Be', quella», disse, «quella è la parte più sciocca dell'intera sciocca storia. Quando il nostro amico giocoliere qui lanciava in aria i tre bicchieri a turno, li contava ad alta voce mentre li riacchiappava, e commentava pure ad alta voce quando non riusciva ad acchiapparli. Ciò che diceva in realtà era: "One, two and three — missed a glass one, two — missed a glass". E così via.»
+
+     Vi fu un attimo d'immobilità nella stanza, e poi tutti a una voce scoppiarono a ridere. Nel far ciò la figura nell'angolo srotolò compiaciuta tutte le corde e le lasciò cadere con un gesto plateale. Poi, avanzando nel mezzo della stanza con un inchino, trasse di tasca un grande manifesto stampato in blu e rosso, che annunciava come ZALADIN, il Più Grande Prestigiatore del Mondo, Contorsionista, Ventriloquo e Canguro Umano, si sarebbe esibito con una serie interamente nuova di Numeri all'Empire Pavilion, Scarborough, lunedì prossimo alle otto in punto dell'[[Clock|orologio]].
+
+                                  DUE

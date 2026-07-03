@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/heret12-(chesterton)">Heretics</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/heret12/story_12_celts_and_celtophiles">‹ Story 12 Celts and Celtophiles</a><a class="ex-next" href="/testi/chesterton/atomized/heret12/story_14_on_smart_novelists_and_the_smart_set">Story 14 On Smart Novelists and the Smart Set ›</a></div>
@@ -359,3 +361,359 @@ are no outlines; that is, a world where there are no shapes.
 There is nothing baser than that infinity.  They say they wish
 to be as strong as the universe, but they really wish the whole
 universe as weak as themselves.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/heret12-(chesterton)">Heretics</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/heret12/story_12_celts_and_celtophiles">‹ Story 12 Celts and Celtophiles</a><a class="ex-next" href="/testi/chesterton/atomized/heret12/story_14_on_smart_novelists_and_the_smart_set">Story 14 On Smart Novelists and the Smart Set ›</a></div>
+</nav>
+
+# [[heret12]] — Su certi scrittori moderni e sull'istituzione della famiglia
+
+XIV.  Su certi scrittori moderni e sull'istituzione della famiglia
+
+La famiglia può a buon diritto essere considerata, verrebbe da pensare,
+un'istituzione umana ultima.  Chiunque ammetterebbe
+che essa è stata la cellula principale e l'unità centrale di quasi
+tutte le società finora esistite, tranne, in verità, quelle società
+come quella di Lacedemone, che puntò sull'«efficienza»,
+e che perciò è perita, senza lasciare traccia dietro di sé.
+Il [[Christianity|Cristianesimo]], per quanto enorme fosse la sua rivoluzione, non alterò
+questa antica e selvaggia santità; si limitò a rovesciarla.
+Non negò la trinità di padre, madre e [[Child|figlio]].
+La lesse soltanto all'incontrario, facendola scorrere come [[Child|figlio]], madre, padre.
+E la chiamò non famiglia, ma Sacra Famiglia,
+poiché molte cose vengono rese sacre dall'essere capovolte.
+Ma alcuni sapienti della nostra decadenza hanno mosso un serio attacco
+alla famiglia.  L'hanno impugnata, a mio avviso a torto;
+e i suoi difensori l'hanno difesa, e l'hanno difesa a torto.
+La comune difesa della famiglia è che, in mezzo allo stress
+e alla mutevolezza della vita, essa è pacifica, piacevole e concorde.
+Ma vi è un'altra difesa della famiglia, che è possibile,
+e a me evidente; questa difesa è che la famiglia non è pacifica,
+né piacevole, né concorde.
+
+Non è di moda dire molto, oggigiorno, dei vantaggi della
+piccola comunità.  Ci vien detto che dobbiamo puntare su grandi imperi
+e grandi idee.  Vi è un vantaggio, tuttavia, nel piccolo stato,
+nella [[City|città]], o nel villaggio, che solo chi è volontariamente cieco può trascurare.
+L'uomo che vive in una piccola comunità vive in un mondo assai più grande.
+Egli conosce molto di più le fiere varietà e le intransigenti divergenze
+degli uomini.  La ragione è ovvia.  In una grande comunità possiamo scegliere
+i nostri compagni.  In una piccola comunità i nostri compagni ci sono scelti.
+Così, in tutte le società estese e altamente civilizzate, si formano gruppi
+fondati su ciò che si chiama simpatia, e che escludono
+il mondo reale più nettamente che le porte di un monastero.
+Non vi è nulla di veramente angusto nel clan; ciò che è davvero
+angusto è la cricca.  Gli uomini del clan vivono insieme perché
+portano tutti lo stesso tartan o discendono tutti dalla stessa vacca sacra;
+ma nelle loro anime, per la divina fortuna delle cose, vi saranno sempre
+più colori che in qualsiasi tartan.  Ma gli uomini della cricca vivono
+insieme perché hanno lo stesso genere d'[[Soul|anima]], e la loro angustia
+è un'angustia di coerenza e di compiacimento spirituale, simile a quella
+che esiste all'inferno.  Una grande società esiste per formare cricche.
+Una grande società è una società per la promozione dell'angustia.
+È un macchinario destinato a proteggere l'individuo solitario e sensibile
+da ogni esperienza degli amari e tonificanti compromessi umani.
+È, nel senso più letterale delle parole, una società per la prevenzione
+della conoscenza cristiana.
+
+Possiamo scorgere questo mutamento, per esempio, nella moderna trasformazione
+della cosa chiamata club.  Quando [[London|Londra]] era più piccola, e le parti
+di [[London|Londra]] erano più [[Self|autonome]] e parrocchiali, il club era ciò che
+è tuttora nei villaggi, l'opposto di ciò che è oggi nelle grandi città.
+Allora il club era apprezzato come luogo dove un uomo poteva essere socievole.
+Ora il club è apprezzato come luogo dove un uomo può essere insocievole.
+Quanto più procedono l'ingrandimento e l'elaborazione della nostra civiltà,
+tanto più il club cessa di essere un luogo dove un uomo può avere
+un rumoroso litigio, e diventa sempre più un luogo dove un uomo
+può gustare ciò che, con una certa stravaganza, viene chiamato una tranquilla braciola.
+Il suo scopo è rendere un uomo comodo, e rendere un uomo comodo
+significa renderlo l'opposto di socievole.  La socievolezza, come tutte
+le cose buone, è piena di disagi, di pericoli e di rinunce.
+Il club tende a produrre la più degradata di tutte le combinazioni:
+l'anacoreta lussurioso, l'uomo che unisce l'[[Self|autoindulgenza]]
+di [[Lucullus|Lucullo]] all'insensata [[Loneliness|solitudine]] di san Simeone Stilita.
+
+Se domani mattina restassimo bloccati dalla neve nella strada in cui viviamo,
+ci ritroveremmo a un tratto in un mondo assai più grande e assai più selvaggio
+di quanto abbiamo mai conosciuto.  Ed è tutto lo sforzo dell'uomo tipicamente
+moderno quello di fuggire dalla strada in cui vive.
+Prima inventa l'igiene moderna e va a Margate.  Poi inventa
+la cultura moderna e va a Firenze.  Poi inventa l'imperialismo moderno
+e va a Timbuctù.  Va ai confini fantastici della terra.
+Finge di cacciare le tigri.  Quasi cavalca un cammello.  E in tutto questo
+egli sta pur sempre, essenzialmente, fuggendo dalla strada in cui è nato;
+e di questa fuga è sempre pronto a dare la propria spiegazione.
+Dice di fuggire dalla sua strada perché è noiosa; sta mentendo.
+In realtà egli fugge dalla sua strada perché è fin troppo eccitante.
+È eccitante perché è esigente; è esigente perché è viva.
+Egli può visitare [[Venice|Venezia]] perché per lui i Veneziani non sono che Veneziani;
+la gente della sua strada è fatta di uomini.  Può fissare i Cinesi
+perché per lui i Cinesi sono una cosa passiva da fissare;
+se fissa la vecchia signora del [[Garden|giardino]] accanto, ella diventa attiva.  È
+costretto a fuggire, insomma, dalla società troppo stimolante dei suoi pari:
+di uomini liberi, perversi, personali, deliberatamente diversi da lui.
+La strada di Brixton è troppo ardente e soverchiante.  Egli deve lenirsi
+e acquietarsi tra tigri e avvoltoi, cammelli e coccodrilli.
+Queste creature sono in effetti assai diverse da lui.  Ma non
+mettono la loro forma, il loro colore o la loro consuetudine in una decisiva
+competizione intellettuale con le sue.  Non cercano di distruggere i suoi princìpi
+e di affermare i propri; gli stranieri mostri della strada suburbana invece
+cercano di farlo.  Il cammello non contorce i lineamenti in un raffinato
+sogghigno perché il signor Robinson non ha la gobba; il colto gentiluomo
+del numero 5 sfoggia sì un sogghigno perché Robinson non ha un dado decorativo.
+L'avvoltoio non scoppierà in una risata perché un uomo non vola;
+ma il maggiore del numero 9 scoppierà in una risata perché un uomo
+non fuma.  La lagnanza che comunemente muoviamo contro i nostri vicini
+è che non vogliono, come diciamo, badare ai fatti propri.
+In realtà non intendiamo dire che essi non vogliono badare ai fatti propri.
+Se i nostri vicini non badassero ai fatti propri, verrebbe loro chiesto
+bruscamente l'affitto, e cesserebbero rapidamente di essere nostri vicini.
+Ciò che davvero intendiamo, quando diciamo che non sanno badare ai fatti propri,
+è qualcosa di assai più profondo.  Non li avversiamo perché hanno
+così poca forza e così poco [[Fire|fuoco]] da non potersi interessare a sé stessi.
+Li avversiamo perché hanno tanta forza e tanto [[Fire|fuoco]] da potersi
+interessare anche a [[Well|noi]].  Ciò che paventiamo nei nostri vicini, insomma, non è
+l'angustia del loro orizzonte, ma la loro superba tendenza ad allargarlo.
+E tutte le avversioni verso l'umanità comune hanno questo carattere generale.  Non sono
+avversioni alla sua fiacchezza (come si finge), ma alla sua energia.
+I misantropi fingono di disprezzare l'umanità per la sua debolezza.
+Di fatto, la odiano per la sua forza.
+
+Naturalmente, questo ritrarsi dalla brutale vivacità e dalla brutale
+varietà degli uomini comuni è cosa perfettamente ragionevole e scusabile,
+finché non pretende ad alcun titolo di superiorità.
+È quando si autoproclama aristocrazia o estetismo o
+superiorità rispetto alla borghesia, che occorre in giustizia
+denunciarne l'intrinseca debolezza.  La schifiltosità è il più
+perdonabile dei vizi; ma è il più imperdonabile delle virtù.
+Nietzsche, che rappresenta in modo più cospicuo questa pretenziosa
+rivendicazione degli schifiltosi, ha da qualche parte una descrizione —
+una descrizione molto potente nel senso puramente letterario —
+del disgusto e del disdegno che lo consumano alla vista
+della gente comune, con le sue facce comuni, le sue voci comuni,
+e le sue menti comuni.  Come ho detto, questo atteggiamento è quasi
+bello, se lo si può considerare patetico.  L'aristocrazia di Nietzsche
+possiede tutta la sacralità che appartiene ai deboli.
+Quando egli ci fa sentire che non può sopportare le innumerevoli facce,
+le voci incessanti, la soverchiante onnipresenza che appartiene
+alla folla, avrà la simpatia di chiunque abbia mai
+avuto la nausea su un piroscafo o si sia stancato in un omnibus affollato.
+Ogni uomo ha odiato il genere umano quando era meno che uomo.
+Ogni uomo ha avuto l'umanità negli occhi come una nebbia accecante,
+l'umanità nelle narici come un odore soffocante.
+Ma quando Nietzsche ha l'incredibile mancanza di [[Humour|umorismo]] e mancanza
+di [[Imagination|immaginazione]] di chiederci di credere che la sua aristocrazia
+sia un'aristocrazia di muscoli forti o un'aristocrazia
+di volontà forti, è necessario far notare la [[Truth|verità]].
+È un'aristocrazia di nervi deboli.
+
+Noi ci facciamo gli amici; ci facciamo i nemici; ma è Dio a farci
+il vicino della porta accanto.  Perciò egli ci giunge ammantato di tutti gli incuranti
+terrori della [[Nature|natura]]; è strano come le [[Stars|stelle]], sconsiderato e
+indifferente come la pioggia.  Egli è l'Uomo, la più terribile delle bestie.
+Ecco perché le antiche religioni e l'antico linguaggio scritturale
+mostrarono una così acuta saggezza quando parlarono non del dovere
+verso l'umanità, ma del dovere verso il proprio prossimo.
+Il dovere verso l'umanità può assumere spesso la forma di una scelta
+personale o addirittura piacevole.  Quel dovere può essere un passatempo;
+può persino essere una dissipazione.  Possiamo lavorare nell'East End
+perché siamo particolarmente adatti a lavorare nell'East End,
+o perché lo crediamo; possiamo batterci per la causa
+della pace internazionale perché siamo molto amanti del combattere.
+Il più mostruoso [[Martyrdom|martirio]], l'esperienza più ripugnante,
+può essere il risultato di una scelta o di una specie di gusto.  Possiamo essere
+fatti in modo da essere particolarmente affezionati ai pazzi o specialmente
+interessati alla lebbra.  Possiamo [[Love|amare]] i negri perché
+sono neri, o i socialisti tedeschi perché sono pedanti.
+Ma dobbiamo [[Love|amare]] il nostro prossimo perché è là:
+una ragione assai più allarmante per un'operazione assai più seria.
+Egli è il campione di umanità che ci è effettivamente dato.
+Precisamente perché può essere chiunque, egli è ognuno.
+È un simbolo perché è un caso.
+
+Senza dubbio gli uomini fuggono da piccoli ambienti verso terre
+assai mortifere.  Ma ciò è abbastanza naturale; perché essi non fuggono
+dalla [[Death|morte]].  Fuggono dalla vita.  E questo principio
+si applica a un anello dopo l'altro del sistema sociale dell'umanità.
+È perfettamente ragionevole che gli uomini cerchino qualche particolare
+varietà del tipo umano, purché stiano cercando quella
+varietà del tipo umano, e non la mera varietà umana.
+È del tutto giusto che un diplomatico britannico cerchi la compagnia
+dei generali giapponesi, se ciò che vuole sono generali giapponesi.
+Ma se ciò che vuole è gente diversa da sé, farebbe assai
+meglio a restarsene a [[Home|casa]] e a discutere di religione con la cameriera.
+È del tutto ragionevole che il genio del villaggio salga a conquistare
+[[London|Londra]] se ciò che vuole è conquistare [[London|Londra]].  Ma se vuole conquistare
+qualcosa di fondamentalmente e simbolicamente ostile, e anche molto forte,
+farebbe assai meglio a restare dov'è e a litigare con il rettore.
+L'uomo della strada suburbana ha perfettamente ragione se va a
+Ramsgate per amore di Ramsgate — cosa difficile da immaginare.
+Ma se, come lui dice, va a Ramsgate «per cambiare aria»,
+allora avrebbe un cambiamento assai più romantico e persino melodrammatico
+se scavalcasse il muro per entrare nel [[Garden|giardino]] del vicino.
+Le conseguenze sarebbero tonificanti in un senso ben oltre le possibilità
+dell'igiene di Ramsgate.
+
+Ora, esattamente come questo principio si applica all'impero, alla nazione
+entro l'impero, alla [[City|città]] entro la nazione, alla strada
+entro la [[City|città]], così esso si applica alla [[Home|casa]] entro la strada.
+L'istituzione della famiglia va lodata precisamente
+per le stesse ragioni per cui l'istituzione della nazione, o
+l'istituzione della [[City|città]], vanno in questa materia lodate.
+È cosa buona per un uomo vivere in una famiglia per la stessa ragione
+per cui è cosa buona per un uomo essere assediato in una [[City|città]].
+È cosa buona per un uomo vivere in una famiglia nello stesso senso in cui
+è cosa bella e deliziosa per un uomo restare bloccato dalla neve in una strada.
+Tutte queste cose lo costringono a comprendere che la vita non è una cosa dall'esterno,
+ma una cosa dall'interno.  Soprattutto, tutte insistono sul fatto
+che la vita, se è una vita veramente stimolante e affascinante,
+è una cosa che, per sua [[Nature|natura]], esiste a nostro dispetto.
+Gli scrittori moderni che hanno suggerito, in maniera più o meno aperta,
+che la famiglia è una cattiva istituzione, si sono in genere limitati
+a suggerire, con molta acutezza, amarezza o pathos,
+che forse la famiglia non è sempre molto congeniale.
+Naturalmente la famiglia è una buona istituzione proprio perché è sgradevole.
+È salubre precisamente perché contiene tante
+divergenze e varietà.  È, come dicono i sentimentali,
+simile a un piccolo regno, e, come la maggior parte degli altri piccoli regni,
+si trova in genere in uno stato che assomiglia all'anarchia.
+È esattamente perché nostro fratello George non si interessa alle nostre
+difficoltà religiose, ma si interessa al Ristorante Trocadero,
+che la famiglia possiede alcune delle qualità tonificanti dello stato comune.
+È precisamente perché nostro zio Henry non approva le ambizioni teatrali
+di nostra sorella Sarah, che la famiglia è simile all'umanità.
+Gli uomini e le donne che, per buone e cattive ragioni, si ribellano alla famiglia,
+si stanno, per buone e cattive ragioni, semplicemente ribellando al genere umano.
+La zia Elizabeth è irragionevole, come il genere umano.  Il papà è eccitabile,
+come il genere umano.  Il nostro fratello più piccolo è dispettoso, come il genere umano.
+Il nonno è stupido, come il mondo; è vecchio, come il mondo.
+
+Coloro che desiderano, a torto o a ragione, uscire da tutto questo, desiderano
+definitivamente entrare in un mondo più angusto.  Sono sgomenti e atterriti
+dalla vastità e dalla varietà della famiglia.  Sarah desidera trovare
+un mondo interamente fatto di recite private; George desidera pensare
+che il Trocadero sia un cosmo.  Non dico affatto che la fuga
+verso questa vita più angusta non possa essere la cosa giusta per l'individuo,
+non più di quanto lo dica riguardo alla fuga in un monastero.
+Ma dico che è cattivo e artificioso tutto ciò che tende a far
+soccombere costoro alla strana illusione di stare entrando
+in un mondo che sia realmente più grande e più vario del proprio.
+Il modo migliore in cui un uomo potrebbe mettere alla prova la propria disposizione a incontrare la comune
+varietà del genere umano sarebbe di calarsi da un camino in una [[house|casa]]
+qualsiasi, presa a caso, e di andare il più [[Well|possibile]] d'accordo con la gente che vi sta dentro.
+Ed è essenzialmente ciò che ciascuno di noi ha fatto il giorno in cui è nato.
+
+Questo è, in verità, il [[Sublime|sublime]] e speciale [[Romance|romanzo]] della famiglia.
+È romantico perché è un tiro a sorte.  È romantico perché
+è tutto ciò che i suoi nemici lo dicono.  È romantico
+perché è arbitrario.  È romantico perché è là.
+Finché avrete gruppi di uomini scelti razionalmente,
+avrete una qualche atmosfera speciale o settaria.  È quando
+avete gruppi di uomini scelti irrazionalmente che avete uomini.
+L'elemento dell'avventura comincia a esistere; poiché un'avventura è,
+per sua [[Nature|natura]], una cosa che ci viene incontro.  È una cosa che
+sceglie noi, non una cosa che scegliamo noi.  L'[[Love|innamorarsi]] è stato spesso
+considerato la suprema avventura, il supremo incidente romantico.
+Nella misura in cui vi è in esso qualcosa al di fuori di noi,
+qualcosa come una sorta di allegro fatalismo, ciò è verissimo.
+L'[[Love|amore]] ci prende davvero, e ci trasfigura e ci tortura.  Ci spezza
+davvero il cuore con un'insopportabile [[Beauty|bellezza]], come l'insopportabile
+[[Beauty|bellezza]] della musica.  Ma nella misura in cui abbiamo certamente qualcosa
+a che fare con la faccenda; nella misura in cui siamo in un certo senso preparati
+a [[Love|innamorarci]] e in un certo senso vi saltiamo dentro; nella misura
+in cui in una certa misura scegliamo e in una certa misura persino giudichiamo —
+in tutto questo l'[[Love|innamorarsi]] non è veramente romantico, non è veramente
+avventuroso affatto.  In questa misura la suprema avventura
+non è l'[[Love|innamorarsi]].  La suprema avventura è il nascere.
+Lì sì che camminiamo a un tratto dentro una splendida e sorprendente trappola.
+Lì sì che vediamo qualcosa che prima non avevamo sognato.
+Nostro padre e nostra madre ci stanno davvero in agguato e ci saltano addosso,
+come briganti da un cespuglio.  Nostro zio è una sorpresa.  Nostra zia è,
+nella bella espressione comune, un fulmine a ciel sereno.
+Quando entriamo nella famiglia, per l'atto stesso di nascere, entriamo
+davvero in un mondo che è incalcolabile, in un mondo che ha
+le sue proprie strane leggi, in un mondo che potrebbe fare a meno di noi,
+in un mondo che non abbiamo fatto noi.  In altre parole, quando
+entriamo nella famiglia entriamo in una fiaba.
+
+Questo colore, come di un racconto fantastico, dovrebbe restare aggrappato
+alla famiglia e ai nostri rapporti con essa per tutta la vita.
+Il [[Romance|romanzesco]] è la cosa più profonda della vita; il [[Romance|romanzesco]] è più profondo persino
+della realtà.  Perché, anche se si potesse dimostrare che la realtà è ingannevole,
+non si potrebbe ancora dimostrare che essa è irrilevante o priva d'effetto.
+Anche se i fatti fossero falsi, resterebbero pur sempre molto strani.
+E questa stranezza della vita, questo elemento inatteso e persino perverso
+delle cose come vanno a finire, resta incurabilmente interessante.
+Le circostanze che possiamo regolare possono diventare fiacche o pessimistiche;
+ma le «circostanze sulle quali non abbiamo alcun controllo»
+restano simili a divinità per coloro che, come il signor Micawber, possono
+invocarle e rinnovare la propria forza.  La gente si [[Wonder|domanda]] perché il [[Novel|romanzo]]
+sia la forma di letteratura più popolare; la gente si [[Wonder|domanda]] perché
+sia letto più dei libri di scienza o dei libri di metafisica.
+La ragione è molto semplice: è semplicemente che il [[Novel|romanzo]] è
+più vero di quelli.  La vita può talvolta legittimamente
+apparire come un libro di scienza.  La vita può talvolta apparire,
+e con assai maggiore legittimità, come un libro di metafisica.
+Ma la vita è sempre un [[Novel|romanzo]].  La nostra esistenza può cessare di essere una [[Song|canzone]];
+può cessare persino di essere un bel lamento.  La nostra esistenza può
+non essere una giustizia intelligibile, o nemmeno un torto riconoscibile.
+Ma la nostra esistenza è pur sempre una storia.  Nel fiammeggiante alfabeto
+di ogni tramonto è scritto: «continua nel prossimo numero».
+Se abbiamo intelletto sufficiente, possiamo portare a termine una deduzione filosofica
+ed esatta, ed essere certi di portarla a termine correttamente.
+Con adeguata potenza cerebrale potremmo portare a termine qualsiasi scoperta
+scientifica, ed essere certi di portarla a termine correttamente.
+Ma nemmeno col più gigantesco intelletto potremmo portare a termine
+la più semplice o sciocca delle storie, ed essere certi di
+portarla a termine correttamente.  E ciò perché una storia ha dietro di sé
+non un mero intelletto, che è in parte meccanico, ma la volontà,
+che è nella sua essenza divina.  Lo scrittore di racconti può mandare
+il suo [[Hero|eroe]] alla forca, se gli va, nel penultimo capitolo.
+Può farlo per quello stesso divino capriccio per cui egli, l'autore,
+può andare lui stesso alla forca, e all'inferno poi, se lo desidera.
+E la stessa civiltà, la cavalleresca civiltà europea
+che affermò il libero arbitrio nel tredicesimo secolo,
+produsse la cosa chiamata «finzione narrativa» nel diciottesimo.
+Quando Tommaso d'[[aquinas|Aquino]] affermò la libertà spirituale dell'uomo,
+creò tutti i cattivi romanzi delle biblioteche circolanti.
+
+Ma affinché la vita sia per noi una storia o un [[Romance|romanzo]],
+è necessario che gran parte di essa, in ogni caso, sia
+stabilita per noi senza il nostro permesso.  Se desideriamo che la vita sia
+un sistema, questo può essere una seccatura; ma se desideriamo che sia un dramma,
+è un elemento essenziale.  Può spesso accadere, senza [[Doubt|dubbio]], che un dramma
+sia scritto da qualcun altro e che ci piaccia assai poco.
+Ma ci piacerebbe ancora meno se l'autore venisse davanti al sipario
+ogni ora o giù di lì, e ci imponesse tutto il fastidio di inventare
+l'atto successivo.  Un uomo ha il controllo su molte cose della sua vita;
+ha il controllo su cose sufficienti a essere l'[[Hero|eroe]] di un [[Novel|romanzo]].
+Ma se avesse il controllo su tutto, ci sarebbe così tanto
+[[Hero|eroe]] che non ci sarebbe alcun [[Novel|romanzo]].  E la ragione per cui le vite
+dei ricchi sono in [[Bottom|fondo]] così fiacche e prive di eventi è semplicemente che essi
+possono scegliere gli eventi.  Sono noiosi perché sono onnipotenti.
+Non riescono a sentire le avventure perché possono fabbricare le avventure.
+Ciò che mantiene la vita romantica e piena di ardenti possibilità
+è l'esistenza di queste grandi e piane limitazioni che costringono tutti noi
+a incontrare le cose che non ci piacciono o che non ci aspettiamo.  È vano che
+i sussiegosi moderni parlino del trovarsi in ambienti sgradevoli.
+Trovarsi in un [[Romance|romanzo]] significa trovarsi in ambienti sgradevoli.
+Nascere in questa terra significa nascere in ambienti sgradevoli,
+dunque nascere in un [[Romance|romanzo]].  Di tutte queste grandi limitazioni
+e cornici che foggiano e creano la poesia e la varietà
+della vita, la famiglia è la più definita e importante.
+Perciò è fraintesa dai moderni, i quali immaginano che il [[Romance|romanzesco]]
+esisterebbe nel modo più perfetto in un completo stato di ciò che essi chiamano libertà.
+Costoro pensano che, se un uomo facesse un gesto, sarebbe cosa sorprendente
+e romantica che il sole cadesse dal cielo.
+Ma la cosa sorprendente e romantica del sole è che esso non
+cade dal cielo.  Essi vanno cercando sotto ogni forma e figura
+un mondo in cui non vi siano limitazioni — cioè un mondo in cui non vi
+siano contorni; cioè un mondo in cui non vi siano forme.
+Non vi è nulla di più abietto di quell'infinito.  Dicono di desiderare
+di essere forti come l'universo, ma in realtà desiderano l'intero
+universo debole come loro stessi.

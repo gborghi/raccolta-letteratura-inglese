@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/innocence-(chesterton)">The Innocence of Father Brown</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/innocence/story_01_the_blue_cross/part_04">‹ part 04</a><a class="ex-next" href="/testi/chesterton/atomized/innocence/story_01_the_blue_cross/part_06">part 06 ›</a></div>
@@ -132,3 +134,133 @@ and the stars detached themselves more and more like solid jewels.
 Mutely motioning to his followers, Valentin contrived to creep up
 behind the big branching tree, and, standing there in deathly silence,
 heard the words of the strange priests for the first time.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/innocence-(chesterton)">The Innocence of Father Brown</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/innocence/story_01_the_blue_cross/part_04">‹ part 04</a><a class="ex-next" href="/testi/chesterton/atomized/innocence/story_01_the_blue_cross/part_06">part 06 ›</a></div>
+</nav>
+
+# [[innocence]] — La [[Cross|Croce]] azzurra (parte 5)
+
+Una spigolosa giovane donna non più giovanissima, nel negozio, aveva
+osservato il suo elegante aspetto con un'indagine puramente meccanica;
+ma quando vide la porta dietro di lui bloccata dalla divisa azzurra
+dell'ispettore, i suoi occhi parvero destarsi.
+
+«Oh», disse, «se siete venuti per quel pacco, l'ho già spedito.»
+
+«Pacco?» ripeté Valentin; e toccò a lui aver l'aria interrogativa.
+
+«Voglio dire il pacco che ha lasciato quel signore, il signore religioso.»
+
+«Per l'amor del cielo», disse Valentin, protendendosi in avanti con la sua
+prima vera confessione di premura, «per l'amor di Dio, diteci esattamente
+cosa è accaduto.»
+
+«Ebbene», disse la donna un po' dubbiosa, «i religiosi entrarono circa
+mezz'ora fa e comprarono delle mentine e chiacchierarono un po', e poi
+se ne andarono verso la Heath. Ma un attimo dopo, uno di loro ritorna
+di corsa nel negozio e dice: "Ho lasciato un pacco?" [[Well|Ebbene]], cercai
+dappertutto e non ne vidi nessuno; sicché lui dice: "Non importa;
+ma se dovesse saltar fuori, siate gentile, speditelo a questo indirizzo",
+e mi lasciò l'indirizzo e uno scellino per il disturbo. E difatti,
+per quanto credessi d'aver guardato dappertutto, trovai che aveva lasciato
+un pacco di carta marrone, sicché lo spedii al luogo che aveva detto.
+Non ricordo più l'indirizzo, ora; era da qualche parte a Westminster.
+Ma siccome la cosa pareva così importante, ho pensato che forse la polizia
+fosse venuta per questo.»
+
+«Difatti», disse Valentin secco. «Hampstead Heath è vicina di qui?»
+
+«Sempre dritto per quindici minuti», disse la donna, «e sboccherete
+proprio all'aperto.» Valentin scattò fuori dal negozio e si mise a correre.
+Gli altri detective lo seguirono a un trotto riluttante.
+
+La strada che imboccarono era così stretta e chiusa fra le ombre
+che quando sbucarono inaspettatamente nel vuoto della brughiera comune
+e nel vasto cielo trasalirono nel trovare la sera ancora così chiara
+e luminosa. Una cupola perfetta di verde pavone sprofondava nell'oro
+tra gli alberi che annerivano e le lontananze di un violetto scuro.
+La tinta verde e luminosa era appena tanto profonda da far spiccare
+in punti di cristallo una o due stelle. Tutto ciò che restava della luce
+diurna giaceva in un luccichio dorato lungo il margine di Hampstead
+e di quella popolare conca chiamata la Valle della Salute. I villeggianti
+che vagano per questa regione non si erano del tutto dispersi; qualche
+coppia sedeva informe sulle panchine; e qua e là una fanciulla lontana
+ancora strillava su una delle altalene. La gloria del cielo si faceva
+più profonda e più cupa intorno alla sublime volgarità dell'uomo;
+e stando sul pendio e guardando attraverso la valle, Valentin scorse
+la cosa che cercava.
+
+Tra i gruppi neri e sparsi in quella lontananza ce n'era uno
+particolarmente nero che non si sparpagliava: un gruppo di due figure
+vestite da ecclesiastici. Per quanto sembrassero piccole come insetti,
+Valentin poté vedere che una di esse era assai più piccola dell'altra.
+Per quanto l'altra avesse la curva delle spalle dello studioso
+e un fare dimesso, egli poté vedere che quell'uomo superava di molto
+i sei piedi d'altezza. Serrò i denti e avanzò, roteando il bastone
+con impazienza. Quando ebbe sostanzialmente ridotto la distanza
+e ingrandito le due figure nere come in un vasto microscopio,
+aveva percepito qualcos'altro; qualcosa che lo trasalì, eppure che egli
+in qualche modo aveva previsto. Chiunque fosse il prete alto, non poteva
+esservi dubbio sull'identità di quello basso. Era il suo amico del treno
+di Harwich, il tarchiato pretino dell'Essex che aveva ammonito riguardo
+ai suoi pacchetti di carta marrone.
+
+Ora, fin qui, tutto si incastrava alla fine in modo abbastanza razionale.
+Valentin aveva appreso dalle sue indagini di quel mattino che un certo
+Padre Brown dell'Essex stava portando su una croce d'argento con zaffiri,
+una reliquia di considerevole valore, da mostrare ad alcuni dei preti
+stranieri al congresso. Questo era senza dubbio l'«argento con le pietre
+azzurre»; e Padre Brown era senza dubbio il piccolo sprovveduto sul treno.
+Ora, non c'era nulla di meraviglioso nel fatto che ciò che Valentin aveva
+scoperto lo avesse scoperto anche Flambeau; Flambeau scopriva tutto.
+E non c'era nulla di meraviglioso neppure nel fatto che, udendo parlare
+di una croce di zaffiri, egli cercasse di rubarla; era la cosa più naturale
+di tutta la storia naturale. E di certo non c'era nulla di meraviglioso
+nel fatto che Flambeau potesse fare tutto a modo suo con una pecora tanto
+sciocca come l'uomo dell'ombrello e dei pacchetti. Era il tipo d'uomo
+che chiunque avrebbe potuto condurre al guinzaglio fino al Polo Nord;
+non c'era da stupirsi che un attore come Flambeau, travestito da altro prete,
+potesse condurlo a Hampstead Heath. Fin qui il delitto pareva abbastanza
+chiaro; e mentre il detective compativa il prete per la sua impotenza,
+quasi disprezzava Flambeau per essersi degnato di una vittima tanto ingenua.
+Ma quando Valentin pensava a tutto ciò che era accaduto nel frattempo,
+a tutto ciò che l'aveva condotto al suo trionfo, si scervellava per trovarvi
+il minimo capo o coda. Che c'entrava il furto di una croce d'azzurro
+e d'argento a un prete dell'Essex con lo scagliare la minestra contro
+la tappezzeria? Che c'entrava col chiamare arance le noci, o col pagare
+le finestre prima e romperle poi? Era giunto alla fine della sua caccia;
+eppure in qualche modo ne aveva mancato il mezzo. Quando falliva (il che
+avveniva di rado), di solito aveva afferrato l'indizio, ma nondimeno
+aveva mancato il criminale. Qui aveva afferrato il criminale, ma ancora
+non riusciva ad afferrare l'indizio.
+
+Le due figure che seguivano avanzavano strisciando come mosche nere
+attraverso l'enorme contorno verde di una collina. Erano evidentemente
+immerse nella conversazione, e forse non badavano a dove andavano;
+ma di sicuro andavano verso le alture più selvagge e silenziose
+della Heath. Man mano che gli inseguitori guadagnavano terreno, questi
+dovettero ricorrere alle indegne posture del cacciatore di cervi,
+accovacciandosi dietro i cespugli e persino strisciando proni nell'erba
+alta. Con questi sgraziati accorgimenti i cacciatori giunsero persino
+abbastanza vicini alla preda da udire il mormorio della discussione,
+ma non si poteva distinguere alcuna parola tranne la parola «ragione»
+che ricorreva di frequente in una voce acuta e quasi infantile.
+Una volta, oltre un brusco avvallamento del terreno e un fitto groviglio
+di macchie, i detective persero addirittura le due figure che seguivano.
+Non ne ritrovarono la traccia se non dopo dieci minuti d'agonia,
+e allora essa li condusse intorno al ciglio d'una grande cupola di collina
+che dominava un anfiteatro di ricche e desolate scenografie di tramonto.
+Sotto un albero, in quel punto imponente e pure trascurato, c'era una
+vecchia panca di legno malandata. Su quella panca sedevano i due preti,
+ancora in grave colloquio. Il sontuoso verde e oro si aggrappava ancora
+all'orizzonte che s'incupiva; ma la cupola sopra andava lentamente mutando
+dal verde pavone all'azzurro pavone, e le stelle si staccavano sempre più
+come solidi gioielli. Facendo muti cenni ai suoi seguaci, Valentin riuscì
+a strisciare fin dietro il grande albero ramificato e, stando lì in un
+silenzio di morte, udì per la prima volta le parole degli strani preti.

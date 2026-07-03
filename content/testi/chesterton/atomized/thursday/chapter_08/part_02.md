@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/thursday-(chesterton)">The Man Who Was Thursday</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/thursday/chapter_08/part_01">‹ part 01</a><a class="ex-next" href="/testi/chesterton/atomized/thursday/chapter_08/part_03">part 03 ›</a></div>
@@ -162,3 +164,102 @@ hands of the Marquis and Dr. Bull.  The Marquis is by this [[Time|time]] probabl
 crossing the Channel.  But where he will go and what he will do it
 is doubtful whether even the President knows; certainly we don't know.
 The only man who does know is Dr. Bull."
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/thursday-(chesterton)">The Man Who Was Thursday</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/thursday/chapter_08/part_01">‹ part 01</a><a class="ex-next" href="/testi/chesterton/atomized/thursday/chapter_08/part_03">part 03 ›</a></div>
+</nav>
+
+# [[thursday]] — Capitolo 8 (parte 2)
+
+Persino in quel chiuso covo, riempito senza posa dal fragore di coltelli, piatti, boccali, voci clamorose, improvvise risse e fuggi fuggi, c’era qualcosa di omerico nell’ilarità di Syme che indusse molti uomini mezzi ubriachi a voltarsi.
+
+«Che c’avete da ridere, capo?» chiese un manovale del porto, incuriosito.
+
+«Di me stesso» rispose Syme, e si abbandonò di nuovo all’agonia della sua reazione estatica.
+
+«Riprendetevi» disse il [[The Professor|Professore]], «o vi verrà una crisi isterica. Prendete ancora un po’ di birra. Vi tengo compagnia.»
+
+«Non avete bevuto il vostro latte» disse Syme.
+
+«Il mio latte!» disse l’altro, in tono di sprezzo tagliente e insondabile, «il mio latte! Credete che degnerei di uno sguardo quella schifezza quando sono fuori dalla vista di quei maledetti anarchici? Qui dentro siamo tutti cristiani, anche se forse» aggiunse, gettando un’occhiata intorno sulla folla barcollante, «non troppo osservanti. Finire il mio latte? Per tutti i fulmini! sì, altroché se lo finisco!» E buttò il bicchiere giù dal tavolo, con un fracasso di vetro e uno schizzo di fluido argenteo.
+
+Syme lo fissava con una felice curiosità.
+
+«Adesso capisco» esclamò; «naturalmente, non siete affatto un vecchio.»
+
+«Non posso togliermi la faccia qui» replicò il professor de Worms. «È un trucco piuttosto elaborato. Quanto al fatto se io sia un vecchio, non sta a me dirlo. Ho compiuto trentotto anni all’ultimo compleanno.»
+
+«Sì, ma voglio dire» disse Syme con impazienza, «non avete nulla che non vada.»
+
+«Sì» rispose l’altro con distacco. «Sono soggetto ai raffreddori.»
+
+Il riso di Syme di fronte a tutto ciò aveva in sé una selvaggia fiacchezza di sollievo. Rideva all’idea che il Professore paralitico fosse in realtà un giovane attore agghindato come per le luci della ribalta. Ma sentiva che avrebbe riso altrettanto forte se fosse caduta una pepiera.
+
+Il falso Professore bevve e si asciugò la falsa barba.
+
+«Sapevate» chiese, «che quel tale, Gogol, era uno dei nostri?»
+
+«Io? No, non lo sapevo» rispose Syme con una certa sorpresa. «Ma voi non lo sapevate?»
+
+«Non ne sapevo più di un morto» replicò l’uomo che si faceva chiamare de Worms. «Credevo che il Presidente stesse parlando di me, e mi tremavano le ginocchia negli stivali.»
+
+«E io credevo che parlasse di me» disse Syme, con la sua risata piuttosto temeraria. «Ho tenuto la mano sulla rivoltella per tutto il [[Time|tempo]].»
+
+«Anch’io» disse il [[The Professor|Professore]] cupamente; «e così pure Gogol, evidentemente.»
+
+Syme batté sul tavolo con un’esclamazione.
+
+«Ma allora eravamo in tre, là!» esclamò. «Tre su sette è un numero da battaglia. Se solo avessimo saputo di essere in tre!»
+
+Il volto del professor de Worms si oscurò, ed egli non alzò lo sguardo.
+
+«Eravamo in tre» disse. «Se fossimo stati in trecento non avremmo potuto fare nulla lo stesso.»
+
+«Nemmeno se fossimo stati trecento contro quattro?» chiese Syme, beffardo con una certa turbolenza.
+
+«No» disse il [[The Professor|Professore]] con sobrietà, «nemmeno se fossimo stati trecento contro [[Sunday|Domenica]].»
+
+E il solo nome gettò Syme nel freddo e nella serietà; il riso gli era morto nel cuore prima che potesse morirgli sulle labbra. Il volto dell’indimenticabile Presidente gli balzò alla mente vivido come una fotografia a colori, e osservò questa differenza tra [[Sunday|Domenica]] e tutti i suoi satelliti: che i loro volti, per feroci o sinistri che fossero, andavano gradualmente offuscandosi nella [[Memory|memoria]] come tutti gli altri volti umani, mentre quello di [[Sunday|Domenica]] pareva quasi farsi più reale durante l’assenza, come se il ritratto dipinto di un uomo dovesse lentamente prendere vita.
+
+Rimasero entrambi in silenzio per la misura di qualche istante, e poi il discorso di Syme venne in un fiotto, come l’improvviso spumeggiare dello champagne.
+
+«Professore» esclamò, «è intollerabile. Avete paura di quest’uomo?»
+
+[[The Professor|Il Professore]] sollevò le pesanti palpebre, e guardò Syme con grandi occhi azzurri, spalancati, di una sincerità quasi eterea.
+
+«Sì, ne ho paura» disse con dolcezza. «E anche voi.»
+
+Syme restò muto per un istante. Poi si [[Rose|alzò]] in piedi, dritto come un uomo offeso, e scostò da sé la sedia.
+
+«Sì» disse con voce indescrivibile, «avete ragione. Ho paura di lui. Perciò giuro davanti a Dio che cercherò quest’uomo di cui ho [[Fear|paura]] finché non lo troverò, e lo colpirò sulla bocca. Se il cielo fosse il suo trono e la terra lo sgabello dei suoi piedi, giuro che lo trascinerei giù.»
+
+«Come?» chiese il Professore con gli occhi sbarrati. «Perché?»
+
+«Perché ho paura di lui» disse Syme; «e nessun uomo dovrebbe lasciare nell’universo alcunché di cui abbia paura.»
+
+De Worms lo guardò socchiudendo gli occhi, con una sorta di cieca [[Wonder|meraviglia]]. Fece uno sforzo per parlare, ma Syme proseguì a voce bassa, con un sottofondo di inumana esaltazione:
+
+«Chi mai si abbasserebbe ad abbattere le semplici cose di cui non ha [[Fear|paura]]? Chi mai si degraderebbe a essere soltanto coraggioso, come un qualunque pugile da fiera? Chi mai si piegherebbe a essere impavido, come un albero? Combatti la cosa di cui hai [[Fear|paura]]. Ricordate la vecchia storia del pastore inglese che diede l’estrema unzione al brigante di Sicilia, e come sul letto di [[Death|morte]] il grande predone disse: “Non posso darvi denaro, ma posso darvi un consiglio per tutta la vita: il pollice sulla lama, e colpisci verso l’alto.” Così io dico a voi: colpite verso l’alto, se colpite alle [[Stars|stelle]].»
+
+L’altro guardò il soffitto, uno dei trucchi della sua posa.
+
+«[[Sunday|Domenica]] è una stella fissa» disse.
+
+«Lo vedrete cadere come una stella» disse Syme, e si mise il cappello.
+
+La decisione del suo gesto trasse vagamente in piedi il [[The Professor|Professore]].
+
+«Avete una qualche idea» chiese, con una sorta di benevolo sconcerto, «di dove esattamente stiate andando?»
+
+«Sì» rispose Syme secco, «vado a impedire che questa bomba venga lanciata a [[Paris|Parigi]].»
+
+«Avete una qualche concezione di come?» s’informò l’altro.
+
+«No» disse Syme con pari decisione.
+
+«Ricorderete, naturalmente» riprese il sedicente de Worms, tirandosi la barba e guardando fuori dalla [[Window|finestra]], «che quando ci sciogliemmo piuttosto in fretta, tutti i preparativi dell’attentato rimasero nelle mani private del Marchese e del dottor Bull. Il Marchese, a quest’[[Time|ora]], sta probabilmente attraversando la Manica. Ma dove andrà e cosa farà, è dubbio che persino il Presidente lo sappia; noi di certo non lo sappiamo. L’unico che lo sa è il dottor Bull.»

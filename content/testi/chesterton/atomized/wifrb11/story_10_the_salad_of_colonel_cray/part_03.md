@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/wifrb11-(chesterton)">The Wisdom of Father Brown</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/wifrb11/story_10_the_salad_of_colonel_cray/part_02">‹ part 02</a><a class="ex-next" href="/testi/chesterton/atomized/wifrb11/story_10_the_salad_of_colonel_cray/part_04">part 04 ›</a></div>
@@ -131,3 +133,46 @@ but I think the most hateful thing about him was that he was
 in European dress.  I was prepared, I think, for shrouded priests
 or naked fakirs.  But this seemed to say that the devilry was
 over all the earth.  As indeed I found it to be.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/wifrb11-(chesterton)">The Wisdom of Father Brown</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/wifrb11/story_10_the_salad_of_colonel_cray/part_02">‹ part 02</a><a class="ex-next" href="/testi/chesterton/atomized/wifrb11/story_10_the_salad_of_colonel_cray/part_04">part 04 ›</a></div>
+</nav>
+
+# [[wifrb11]] — L'insalata del colonnello Cray (parte 3)
+
+     «Io la preferisco così» disse Putnam, conciliante. «Sono un uomo all'antica; e le cose restano assieme.»
+
+     «E assieme spariscono, come vedi» ribatté lei. «[[Well|Ebbene]], se non hai intenzione di darti pensiero per lo scassinatore, non credo che dovrei darmi pensiero io per il pranzo. È [[Sunday|domenica]], e in città non possiamo mandare a prendere l'aceto e tutto il resto; e voi signori delle Indie non riuscite a godervi quella che chiamate una cena senza una gran quantità di cose piccanti. Vorrei con tutto il cuore che tu non avessi chiesto al cugino [[Oliver]] di accompagnarmi alla funzione in musica. Non finisce prima delle dodici e mezza, e il colonnello deve ripartire per allora. Non credo proprio che voialtri uomini possiate cavarvela da [[Alone|soli]].»
+
+     «Oh sì, cara, che possiamo» disse il maggiore, guardandola con la massima cordialità. «Marco ha tutte le salse, e ci siamo spesso arrangiati [[Well|bene]] in posti ben più aspri, come dovresti ormai sapere. Ed è [[Time|ora]] che tu abbia uno svago, Audrey; non puoi fare la padrona di casa in ogni ora del giorno; e so bene che desideri sentire la musica.»
+
+     «Io desidero andare in chiesa» disse lei, con occhi piuttosto severi.
+
+     Era una di quelle donne belle che saranno sempre belle, perché la [[Beauty|bellezza]] non sta in un'aria o in una tinta, ma nella struttura stessa del capo e dei lineamenti. Ma benché non fosse ancora di mezza età e i suoi capelli ramati avessero una pienezza tizianesca di forma e di colore, c'era intorno alla bocca e agli occhi un che che lasciava intendere come qualche dolore la consumasse, come i venti consumano alla fine gli orli di un tempio greco. Ché in verità la piccola difficoltà domestica di cui ora parlava con tanta decisione era comica più che tragica. [[Father Brown]] arguì, dal corso della conversazione, che Cray, l'altro buongustaio, doveva partire prima della consueta [[Time|ora]] di pranzo; ma che Putnam, il suo ospite, non volendosi lasciar defraudare di un ultimo banchetto con un vecchio compagno, aveva disposto che un déjeuner speciale fosse imbandito e consumato nel corso della mattinata, mentre Audrey e altre persone più serie erano alla funzione mattutina. Lei vi si recava sotto la scorta di un parente e vecchio amico, il dottor [[Oliver]] Oman, il quale, benché uomo di scienza di indole alquanto amara, era un entusiasta della musica, e sarebbe andato perfino in chiesa pur di sentirla. Non c'era nulla, in tutto questo, che potesse concepibilmente riguardare la [[Tragedy|tragedia]] impressa nel volto di Miss Watson; e per un istinto semiconsapevole [[Father Brown]] tornò a rivolgersi a quel presunto pazzo che frugava nell'erba.
+
+     Quando gli si avvicinò a passo lento, la testa nera e spettinata si sollevò di scatto, come sorpresa che egli fosse ancora presente. E in effetti [[Father Brown]], per ragioni note soltanto a lui, si era attardato molto più di quanto la cortesia richiedesse; o anche, nel senso ordinario, consentisse.
+
+     «[[Well|Ebbene]]!» esclamò Cray, con occhi stralunati. «Immagino che pensiate anche voi che io sia pazzo, come tutti gli altri.»
+
+     «Ho preso in esame la tesi» rispose l'ometto, con compostezza. «E propendo a credere che non lo siate.»
+
+     «Che intendete dire?» sbottò Cray con vera ferocia.
+
+     «I veri pazzi» spiegò [[Father Brown]] «assecondano sempre la propria morbosità. Non vi lottano mai contro. Voi, invece, cercate di trovare le tracce dello scassinatore, anche là dove non ce ne sono. Vi state battendo contro di essa. Voi volete ciò che nessun pazzo desidera mai.»
+
+     «E che cosa sarebbe?»
+
+     «Volete che vi si dimostri in torto» disse Brown.
+
+     Durante quelle ultime parole Cray era balzato, o si era sollevato barcollando, in piedi, e osservava l'ecclesiastico con occhi agitati. «Per l'inferno, ma questa è parola di verità!» gridò. «Qui mi stanno tutti addosso a dirmi che il tale non cercava altro che l'argenteria... come se non fossi io il primo a esserne fin troppo lieto di crederlo! Lei mi è stata addosso» e gettò all'indietro la testa nera e arruffata verso Audrey, ma l'altro non aveva bisogno di quell'indicazione, «lei mi è stata addosso oggi su quanto fossi stato crudele a sparare a un povero e innocuo [[house|scassinatore]], e su come io abbia il diavolo in corpo contro i poveri e innocui indigeni. Eppure un tempo ero un uomo di buona pasta... di buona pasta quanto Putnam.»
+
+     Dopo una pausa disse: «Sentite, non vi ho mai visto prima; ma sarete voi a giudicare di tutta la storia. Il vecchio Putnam e io eravamo amici nello stesso reggimento; ma, per via di certe vicende sulla frontiera afghana, ottenni il mio comando assai prima della maggior parte degli uomini; solo che fummo entrambi rimandati a [[Home|casa]] per un poco. Laggiù mi ero fidanzato con Audrey; e tornammo tutti assieme. Ma durante il [[Journey|viaggio]] di ritorno accaddero delle cose. Cose curiose. Il risultato fu che Putnam vuole che il fidanzamento si rompa, e perfino Audrey lo tiene in sospeso... e io so che cosa vogliono dire. So che cosa credono che io sia. E lo sapete anche voi.
+
+     «[[Well|Ebbene]], ecco i fatti. L'ultimo giorno che passammo in una [[City|città]] indiana chiesi a Putnam dove potessi procurarmi qualche sigaro di Trichinopoli; lui mi indicò un botteguccio di fronte al suo alloggio. Ho poi appurato che aveva perfettamente ragione; ma "di fronte" è parola pericolosa quando una casa decorosa sta di fronte a cinque o sei tuguri; e devo aver sbagliato porta. Si aprì a fatica, e per giunta solo sul buio; ma appena mi voltai per tornare indietro, la porta alle mie spalle ricadde e si assestò al suo posto con un rumore come di innumerevoli chiavistelli. Non restava che procedere; il che feci attraverso corridoio dopo corridoio, in un buio pesto. Poi giunsi a una rampa di gradini, e quindi a una porta cieca, assicurata da un saliscendi di elaborato ferro battuto orientale, che potevo seguire soltanto al tatto, ma che alla fine riuscii ad allentare. Sbucai di nuovo in una penombra, mezzo mutata in un crepuscolo verdastro da una moltitudine di piccole ma ferme lampade in basso. Esse rivelavano soltanto i piedi o le frange di una qualche architettura immensa e vuota. Proprio davanti a me c'era qualcosa che pareva una montagna. Confesso che per poco non caddi lungo disteso sulla grande piattaforma di pietra su cui ero emerso, nell'accorgermi che si trattava di un idolo. E, peggio di tutto, un idolo che mi voltava le spalle.
+
+     «A malapena mezzo umano, congetturai; a giudicare dalla piccola testa tozza, e ancor più da una specie di coda o membro soprannumerario rivolto all'insù dietro di esso e puntato, come un ripugnante dito enorme, verso un qualche simbolo inciso al centro dell'immensa schiena di pietra. Avevo cominciato, in quella luce fioca, a decifrare il geroglifico, non senza orrore, quando accadde una cosa ancor più orribile. Una porta si aprì silenziosamente nella parete del tempio dietro di me e ne uscì un uomo, dal volto bruno e dalla giacca nera. Aveva un sorriso scolpito in viso, di carne di rame e denti d'avorio; ma credo che la cosa più odiosa in lui fosse che era in abito europeo. Ero preparato, credo, a sacerdoti ammantati o a fachiri nudi. Ma questo pareva dire che la diavoleria si stendeva su tutta la terra. Come in effetti scoprii che era.

@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/wifrb11-(chesterton)">The Wisdom of Father Brown</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/wifrb11/story_08_the_perishing_of_the_pendragons/part_04">‹ part 04</a><a class="ex-next" href="/testi/chesterton/atomized/wifrb11/story_08_the_perishing_of_the_pendragons/part_06">part 06 ›</a></div>
@@ -129,3 +131,50 @@ with the utmost solemnity, explaining to them, in a maddening little sermon,
 that one can always find some small occupation that is helpful to others. 
 He did not find a spud; but he found an old broom made of twigs,
 with which he began energetically to brush the fallen leaves off the grass.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/wifrb11-(chesterton)">The Wisdom of Father Brown</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/wifrb11/story_08_the_perishing_of_the_pendragons/part_04">‹ part 04</a><a class="ex-next" href="/testi/chesterton/atomized/wifrb11/story_08_the_perishing_of_the_pendragons/part_06">part 06 ›</a></div>
+</nav>
+
+# [[wifrb11]] — La fine dei Pendragon (parte 5)
+
+     «Non credo a nulla» rispose Pendragon assai vivacemente, con un occhio brillante puntato su un uccello tropicale rosso. «Sono un uomo di scienza.»
+
+     Con una certa sorpresa di Flambeau, il suo amico chierico, che pareva essersi del tutto ridestato, raccolse la digressione e conversò di storia naturale con il padrone di casa con una fluenza di parole e molte inaspettate informazioni, finché non furono posati il dessert e le caraffe, e l'ultimo dei servitori svanì. Allora disse, senza mutare tono:
+
+     «Vi prego di non considerarmi impertinente, Ammiraglio Pendragon. Non lo chiedo per curiosità, ma davvero per mia norma e vostra convenienza. Sbaglio di grosso se indovino che non desiderate si parli di queste vecchie cose davanti al vostro maggiordomo?»
+
+     L'Ammiraglio sollevò gli archi glabri sopra gli occhi ed esclamò: «Beh, non so dove l'abbiate colto, ma la verità è che non sopporto quell'individuo, sebbene non abbia alcuna scusa per licenziare un servitore di famiglia. Fanshaw, con le sue favole, direbbe che il mio sangue si ribella agli uomini con quei capelli neri dall'aspetto spagnolo.»
+
+     Flambeau batté il pugno pesante sul tavolo. «Perbacco!» esclamò; «e così li aveva anche quella ragazza!»
+
+     «Spero che tutto finisca stanotte» proseguì l'Ammiraglio, «quando mio nipote tornerà sano e salvo dalla sua nave. Vi vedo sorpresi. Non capirete, immagino, se non vi racconto la storia. Vedete, mio padre ebbe due figli; io rimasi scapolo, ma mio fratello maggiore si sposò, ed ebbe un figlio che divenne marinaio come tutti gli altri di noi, e che erediterà la tenuta di diritto. Ebbene, mio padre era un uomo strano; combinava chissà come la superstizione di Fanshaw con una buona dose del mio scetticismo — le due cose erano sempre in lotta dentro di lui; e dopo i miei primi viaggi, sviluppò un'idea che, pensava, avrebbe in qualche modo stabilito una volta per tutte se la maledizione fosse verità o fandonia. Se tutti i Pendragon fossero andati per mare alla rinfusa, pensava, ci sarebbe stata troppa probabilità di catastrofi naturali per provare alcunché. Ma se fossimo andati per mare uno alla volta, in stretto ordine di successione alla proprietà, pensava che ciò avrebbe potuto mostrare se un qualche destino connesso perseguitasse la famiglia in quanto famiglia. Era un'idea sciocca, penso, e litigai con mio padre di gran cuore; poiché ero uomo ambizioso, e fui lasciato per ultimo, venendo, per successione, dopo lo stesso mio nipote.»
+
+     «E vostro padre e vostro fratello» disse il prete assai dolcemente, «morirono in mare, temo.»
+
+     «Sì» gemette l'Ammiraglio; «per uno di quei brutali accidenti su cui si edificano tutte le mendaci mitologie del genere umano, naufragarono entrambi. Mio padre, risalendo questa costa dall'Atlantico, fu gettato su questi scogli della Cornovaglia. La nave di mio fratello fu affondata, nessuno sa dove, sulla via del ritorno dalla Tasmania. Il suo corpo non fu mai ritrovato. Vi dico che fu per una disgrazia perfettamente naturale; molte altre persone oltre ai Pendragon annegarono; ed entrambi i disastri sono discussi in modo normale dai navigatori. Ma, naturalmente, ciò diede fuoco a questa foresta di superstizione; e gli uomini videro la torre fiammeggiante dappertutto. Ecco perché dico che andrà tutto bene quando Walter tornerà. La ragazza con cui è fidanzato doveva venire oggi; ma temevo tanto che qualche ritardo fortuito la spaventasse, che le telegrafai di non venire finché non avesse avuto mie notizie. Ma lui sarà quasi certamente qui in qualche momento di stanotte, e allora tutto finirà in fumo — fumo di tabacco. Sfateremo quella vecchia menzogna quando stapperemo una bottiglia di questo vino.»
+
+     «Ottimo vino» disse Padre Brown, sollevando gravemente il bicchiere, «ma, come vedete, un pessimo bevitore. Vi chiedo davvero sinceramente scusa»: poiché aveva versato una piccola macchia di vino sulla tovaglia. Bevve e posò il bicchiere con volto composto; ma la sua mano aveva avuto un sussulto nell'esatto momento in cui si era accorto di un viso che spiava attraverso la finestra del giardino, proprio dietro l'Ammiraglio — il viso di una donna, bruna, con capelli e occhi meridionali, e giovane, ma simile a una maschera di tragedia.
+
+     Dopo una pausa il prete riprese a parlare con il suo mite modo. «Ammiraglio» disse, «volete farmi un favore? Permettete che io, e i miei amici se vorranno, ci fermiamo in quella vostra torre solo per stanotte? Sapete che, nella mia professione, si è esorcisti quasi prima di ogni altra cosa?»
+
+     Pendragon balzò in piedi e passeggiò rapidamente avanti e indietro davanti alla finestra, dalla quale il viso era all'istante svanito. «Vi dico che non c'è nulla in tutto ciò» gridò, con squillante violenza. «C'è una cosa che so a proposito di questa faccenda. Potete chiamarmi ateo. Sono ateo.» Qui si voltò di scatto e fissò Padre Brown con un volto di spaventosa concentrazione. «Questa faccenda è perfettamente naturale. Non c'è alcuna maledizione in essa.»
+
+     Padre Brown sorrise. «In tal caso» disse, «non può esserci alcuna obiezione a che io dorma nella vostra deliziosa casina estiva.»
+
+     «L'idea è del tutto ridicola» rispose l'Ammiraglio, tamburellando sullo schienale della sedia.
+
+     «Vi prego di perdonarmi ogni cosa» disse Brown col suo tono più partecipe, «compreso l'aver versato il vino. Ma mi sembra che non siate del tutto così tranquillo riguardo alla torre fiammeggiante come cercate di apparire.»
+
+     L'Ammiraglio Pendragon si risedette con la stessa bruschezza con cui si era alzato; ma sedette del tutto immobile, e quando riprese a parlare fu con voce più bassa. «Lo fate a vostro rischio e pericolo» disse; «ma non sareste anche voi ateo, per restare sano di mente in mezzo a tutta questa diavoleria?»
+
+     Circa tre ore dopo Fanshaw, Flambeau e il prete gironzolavano ancora per il giardino nell'oscurità; e cominciò a farsi strada negli altri due l'idea che Padre Brown non avesse alcuna intenzione di andare a dormire, né nella torre né in casa.
+
+     «Credo che il prato abbia bisogno di essere sarchiato» disse egli sognante. «Se solo trovassi una zappetta o qualcosa del genere, lo farei io stesso.»
+
+     Lo seguirono, ridendo e in parte protestando; ma egli rispose con la massima solennità, spiegando loro, in un esasperante piccolo sermone, che si può sempre trovare qualche piccola occupazione utile agli altri. Non trovò una zappetta; ma trovò una vecchia scopa fatta di ramoscelli, con la quale cominciò energicamente a spazzare via dall'erba le foglie cadute.

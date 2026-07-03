@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/everlasting-man-(chesterton)">The Everlasting Man</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/everlasting_man/chapter_02/part_33">‹ part 33</a><a class="ex-next" href="/testi/chesterton/atomized/everlasting_man/chapter_02/part_35">part 35 ›</a></div>
@@ -110,3 +112,109 @@ It [[Leaves|leaves]] out something, something immense and intermediate,
 facing east and west and calling up this passion in its eastern
 and western enemies; and that something is the first subject
 of this chapter.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/everlasting-man-(chesterton)">The Everlasting Man</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/everlasting_man/chapter_02/part_33">‹ part 33</a><a class="ex-next" href="/testi/chesterton/atomized/everlasting_man/chapter_02/part_35">part 35 ›</a></div>
+</nav>
+
+In ogni caso è abbastanza chiaro che la civiltà dipinta e dorata
+dell'[[America]] tropicale si abbandonava sistematicamente al sacrificio umano.
+Non è affatto chiaro, per quanto ne so, che gli eschimesi si siano mai
+abbandonati al sacrificio umano. Non erano abbastanza civilizzati.
+Erano troppo strettamente imprigionati dal bianco [[Winter|inverno]] e dalle
+tenebre infinite. La gelida penuria reprimeva la loro nobile furia e gelava
+la genial corrente dell'[[Soul|anima]]. Fu in giorni più luminosi e in un più
+ampio chiarore che la nobile furia si trova a infuriare in modo inconfondibile.
+Fu in terre più ricche e più erudite che la genial corrente
+scorreva sopra gli altari, per essere bevuta da grandi dèi dai volti coperti
+di maschere sbarrate d'occhi e ghignanti, invocati nel terrore o nel tormento
+con lunghi nomi cacofonici che suonano come risate all'inferno.
+Occorrevano un clima più caldo e una coltivazione più scientifica
+per far sbocciare simili fioriture; per far salire verso il sole le grandi
+[[Leaves|foglie]] e i fiori sgargianti che diedero il loro oro, il loro cremisi e la loro
+porpora a quel [[Garden|giardino]] che Swinburne paragona alle Esperidi.
+Sul drago, almeno, non c'era alcun [[Doubt|dubbio]].
+
+Non sollevo, a questo proposito, la particolare controversia sulla Spagna
+e sul Messico; ma posso osservare di sfuggita che essa somiglia esattamente
+alla questione che in un certo senso dovrà poi essere sollevata su Roma
+e Cartagine. In entrambi i casi c'è stata una bizzarra abitudine, fra
+gli inglesi, di schierarsi sempre contro gli europei, e di rappresentare
+la civiltà rivale, per usare la frase di Swinburne, come senza peccato;
+mentre i suoi peccati gridavano, o piuttosto urlavano, palesemente al cielo.
+Poiché anche Cartagine era un'alta civiltà, anzi una civiltà molto più
+altamente civilizzata. E anche Cartagine fondò quella
+civiltà su una religione del [[Fear|terrore]], levando dappertutto il fumo
+del sacrificio umano. Ora, è giustissimo rimproverare alla nostra stessa razza
+o alla nostra religione di non essere all'altezza dei nostri stessi ideali e criteri.
+Ma è assurdo pretendere che essa sia caduta più in basso delle altre razze
+e religioni che professavano criteri e ideali esattamente opposti.
+C'è un senso molto reale in cui il cristiano è peggiore
+del pagano, lo spagnolo peggiore del pellerossa, o persino il romano
+potenzialmente peggiore del cartaginese. Ma c'è un solo senso
+in cui egli è peggiore; e non è quello di essere positivamente peggiore.
+Il cristiano è peggiore solo perché è suo compito essere migliore.
+
+Questa [[Imagination|immaginazione]] rovesciata produce cose di cui è meglio
+non parlare. Alcune di esse, in verità, potrebbero quasi essere nominate senza
+essere comprese; poiché sono di quell'estremo male che pare [[Innocent|innocente]]
+agli [[Innocent|innocenti]]. Sono troppo inumane persino per essere indecenti.
+Ma senza indugiare più a lungo in questi angoli oscuri,
+può notarsi come non irrilevante qui che certi antagonismi
+anti-umani sembrano ricorrere in questa tradizione di [[Magic|magia]] nera.
+Vi si può sospettare, per esempio, come qualcosa che la percorre
+dappertutto, un mistico odio per l'idea dell'[[Childhood|infanzia]].
+Si comprenderebbe meglio la furia popolare contro le streghe,
+se si ricordasse che la malvagità più comunemente loro attribuita
+era d'impedire la nascita dei bambini. I profeti ebrei
+protestavano di continuo contro la razza ebraica che ricadeva in un'idolatria
+che comportava una simile guerra contro i bambini; ed è assai probabile
+che questa abominevole apostasia dal Dio d'Israele sia riapparsa
+occasionalmente in Israele da allora, nella forma di ciò che si chiama omicidio rituale;
+non certo per opera di alcun rappresentante della religione del giudaismo,
+ma di diabolisti individuali e irresponsabili che si dava il caso fossero ebrei.
+Questo senso che le forze del male minaccino in special modo l'[[Childhood|infanzia]] si ritrova
+di nuovo nell'enorme popolarità del [[Child|Fanciullo]] Martire del Medioevo.
+Chaucer non fece che dare un'altra versione di una leggenda inglese assai nazionale,
+quando concepì la più malvagia di tutte le streghe possibili come l'oscura
+donna straniera che spiava dietro la sua alta grata e udiva,
+come il chiacchiericcio di un ruscello giù per la strada selciata, il canto
+del piccolo San Ugo.
+
+Comunque, la parte di simili speculazioni che riguarda questa storia
+si accentrava soprattutto intorno a quell'estremità orientale del Mediterraneo,
+dove i nomadi si erano gradualmente trasformati in mercanti e avevano cominciato
+a commerciare con il mondo intero. Anzi, nel senso del commercio,
+dei viaggi e dell'espansione coloniale, essa possedeva già qualcosa
+come un impero sul mondo intero. La sua tintura purpurea, l'emblema
+del suo ricco fasto e della sua lussuria, aveva intriso le merci che venivano vendute
+lontano, fra gli ultimi scogli della Cornovaglia, e le vele che entravano
+nel [[Silence|silenzio]] dei mari tropicali in mezzo a tutto il mistero dell'Africa.
+Si potrebbe dire con verità che essa aveva dipinto di porpora la carta geografica.
+Era già un [[success|successo]] di portata mondiale, quando i principi di Tiro
+si sarebbero appena scomodati a notare che una delle loro principesse
+aveva accondisceso a sposare il capo di una tribù chiamata Giuda;
+quando i mercanti del suo avamposto africano avrebbero soltanto piegato
+le loro labbra barbute e semitiche in un lieve sorriso alla menzione
+di un villaggio chiamato Roma. E in verità due cose non avrebbero potuto sembrare
+più distanti l'una dall'altra, non solo nello spazio ma nello spirito,
+del monoteismo della tribù palestinese e delle stesse virtù
+della piccola repubblica italica. Una sola cosa stava fra loro;
+e ciò che le divideva le ha unite. Assai diverse e
+incompatibili erano le cose che potevano essere amate dai consoli di Roma
+e dai profeti d'Israele; ma erano concordi in ciò che odiavano.
+È facilissimo, in entrambi i casi, rappresentare quell'odio come qualcosa
+di semplicemente odioso. È abbastanza facile fare una figura meramente aspra
+e inumana tanto di Elia che smania sopra la strage
+del Carmelo quanto di Catone che tuona contro l'amnistia dell'Africa.
+Questi uomini avevano i loro limiti e le loro passioni locali;
+ma questa critica nei loro confronti è priva d'immaginazione e perciò irreale.
+[[Leaves|Tralascia]] qualcosa, qualcosa d'immenso e d'intermedio,
+che guarda a oriente e a occidente e suscita questa passione nei suoi nemici
+orientali e occidentali; e quel qualcosa è il primo argomento
+di questo capitolo.

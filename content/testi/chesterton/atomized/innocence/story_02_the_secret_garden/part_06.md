@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/innocence-(chesterton)">The Innocence of Father Brown</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/innocence/story_02_the_secret_garden/part_05">‹ part 05</a><a class="ex-next" href="/testi/chesterton/atomized/innocence/story_02_the_secret_garden/part_07">part 07 ›</a></div>
@@ -146,3 +148,140 @@ The murderer occupied his enemy with some tricks with the sabre,
 showing how he could cut a branch in mid-air, or what-not. Then,
 while his enemy bent down to see the result, a silent slash,
 and the head fell."
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/innocence-(chesterton)">The Innocence of Father Brown</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/innocence/story_02_the_secret_garden/part_05">‹ part 05</a><a class="ex-next" href="/testi/chesterton/atomized/innocence/story_02_the_secret_garden/part_07">part 07 ›</a></div>
+</nav>
+
+# [[innocence]] — Il [[Garden|giardino]] segreto (parte 6)
+
+«Buongiorno, Comandante O'Brien,» disse Valentin, con quieta cordialità.
+«Avete saputo dell'ultimo esperimento di macelleria di Brayne, suppongo?»
+
+[[Father Brown]] era ancora chino sulla testa dai capelli bianchi, e disse,
+senza alzare lo sguardo:
+
+«Suppongo sia del tutto certo che anche questa testa l'abbia tagliata Brayne.»
+
+«[[Well|Beh]], mi pare buon senso,» disse Valentin, con le mani in tasca.
+«Ucciso nello stesso modo dell'altro. Trovato a poche iarde dall'altro. E
+affettato dalla stessa arma che sappiamo egli portò via.»
+
+«Sì, sì; lo so,» replicò [[Father Brown]] con sottomissione. «Eppure, sapete,
+[[Doubt|dubito]] che Brayne potesse aver tagliato questa testa.»
+
+«Perché no?» domandò il dottor Simon, con uno sguardo razionale.
+
+«[[Well|Beh]], dottore,» disse il prete, alzando lo sguardo e sbattendo le
+palpebre, «può un uomo tagliarsi la propria testa? Non lo so.»
+
+O'Brien sentì un universo folle crollargli attorno alle orecchie; ma il dottore
+balzò avanti con impetuosa praticità e scostò i bagnati capelli bianchi.
+
+«Oh, non c'è [[Doubt|dubbio]] che sia Brayne,» disse il prete con calma. «Aveva
+esattamente quella scheggiatura nell'orecchio sinistro.»
+
+Il [[Detective|detective]], che aveva osservato il prete con occhi fermi e
+scintillanti, aprì la bocca serrata e disse seccamente: «Pare che sappiate un
+mucchio di cose su di lui, [[Father Brown]].»
+
+«È così,» disse il piccolo uomo semplicemente. «Sono stato in giro con lui per
+alcune settimane. Pensava di unirsi alla nostra chiesa.»
+
+La stella del fanatico balzò negli occhi di Valentin; egli mosse a grandi passi
+verso il prete con le mani serrate. «E, forse,» gridò, con un ghigno fulminante,
+«forse pensava anche di lasciare tutto il suo denaro alla vostra chiesa.»
+
+«Forse sì,» disse Brown flemmatico; «è possibile.»
+
+«In tal caso,» gridò Valentin, con un sorriso terribile, «potreste davvero
+sapere un mucchio di cose su di lui. Sulla sua vita e sulla sua...»
+
+Il Comandante O'Brien posò una mano sul braccio di Valentin. «Piantala con
+questa spazzatura calunniosa, Valentin,» disse, «o potrebbero esserci ancora
+altre spade.»
+
+Ma Valentin (sotto lo sguardo fermo e umile del prete) si era già ripreso.
+«[[Well|Bene]],» disse breve, «le opinioni private della gente possono aspettare.
+Voi signori siete ancora vincolati dalla vostra promessa di restare; dovrete
+farla rispettare a voi stessi... e l'un l'altro. Ivan qui vi dirà tutto ciò che
+volete sapere; io devo mettermi al lavoro e scrivere alle autorità. Non possiamo
+tenere la cosa nascosta più a lungo. Scriverò nel mio studio, se ci saranno
+altre notizie.»
+
+«Ci sono altre notizie, Ivan?» chiese il dottor Simon, mentre il capo della
+polizia usciva a grandi passi dalla stanza.
+
+«Solo un'altra cosa, credo, signore,» disse Ivan, corrugando il suo vecchio
+volto grigio, «ma anche quella è importante, a suo modo. C'è quel vecchio
+arnese che avete trovato sul prato,» e indicò, senza finzione di riverenza,
+il grande [[Body|corpo]] nero dalla testa gialla. «Comunque abbiamo scoperto
+chi è.»
+
+«Davvero!» gridò il dottore stupito, «e chi è?»
+
+«Si chiamava Arnold Becker,» disse il sotto-[[Detective|detective]], «benché
+girasse sotto molti falsi nomi. Era una specie di canaglia vagabonda, e si sa
+che è stato in [[America]]; sicché è là che Brayne gli ha piantato addosso il
+coltello. Noi non abbiamo avuto molto a che fare con lui, perché operava
+soprattutto in [[Germany|Germania]]. Abbiamo comunicato, naturalmente, con la
+polizia tedesca. Ma, per quanto strano, c'era un suo fratello gemello, di nome
+Louis Becker, col quale abbiamo avuto moltissimo a che fare. Anzi, l'abbiamo
+dovuto ghigliottinare proprio ieri. [[Well|Beh]], è una cosa buffa, signori, ma
+quando ho visto quel tale disteso sul prato ho avuto il più grande sobbalzo
+della mia vita. Se non avessi visto Louis Becker ghigliottinato coi miei stessi
+occhi, avrei giurato che fosse Louis Becker steso là nell'erba. Poi,
+naturalmente, mi sono ricordato del suo fratello gemello in
+[[Germany|Germania]], e seguendo l'indizio...»
+
+L'esplicativo Ivan si fermò, per l'eccellente ragione che nessuno lo stava
+ascoltando. Il Comandante e il dottore stavano entrambi fissando
+[[Father Brown]], che era balzato rigidamente in piedi, e si teneva le tempie
+strette come un uomo in preda a un [[Pain|dolore]] improvviso e violento.
+
+«Ferma, ferma, ferma!» gridò; «smettete di parlare un minuto, perché vedo metà.
+Vorrà Dio darmi la forza? Vorrà il mio cervello fare l'unico salto e vedere
+tutto? Il Cielo mi aiuti! Un tempo ero abbastanza bravo a pensare. Una volta
+sapevo parafrasare qualsiasi pagina di [[aquinas|Aquino]]. Mi si spaccherà la
+testa... o vedrà? Vedo metà... vedo solo metà.»
+
+Affondò la testa fra le mani, e rimase in una sorta di rigida tortura di
+pensiero o di [[Prayer|preghiera]], mentre gli altri tre non potevano che
+continuare a fissare quest'ultimo prodigio delle loro folli dodici ore.
+
+Quando le mani di [[Father Brown]] ricaddero, mostrarono un volto del tutto
+fresco e serio, come quello di un [[Child|bambino]]. Emise un enorme sospiro, e
+disse: «Sbrighiamo questa faccenda e finiamola il più in fretta possibile.
+Sentite, questo sarà il modo più rapido per convincervi tutti della
+[[Truth|verità]].» Si volse al dottore. «Dottor Simon,» disse, «voi avete una
+testa robusta, e vi ho sentito stamattina porre le cinque domande più difficili
+su questa faccenda. [[Well|Bene]], se vorrete porle di nuovo, io vi risponderò.»
+
+Il pince-nez di Simon cadde dal naso per il [[Doubt|dubbio]] e la
+[[Wonder|meraviglia]], ma egli rispose subito. «[[Well|Bene]], la prima domanda,
+sapete, è perché un uomo dovrebbe uccidere un altro con una goffa sciabola,
+quando può uccidere con un punteruolo?»
+
+«Un uomo non può decapitare con un punteruolo,» disse Brown con calma, «e per
+questo omicidio la decapitazione era assolutamente necessaria.»
+
+«Perché?» chiese O'Brien, con interesse.
+
+«E la prossima domanda?» chiese [[Father Brown]].
+
+«[[Well|Bene]], perché l'uomo non gridò o non fece nulla?» chiese il dottore;
+«le sciabole nei giardini sono di certo insolite.»
+
+«Ramoscelli,» disse il prete tetramente, e si volse verso la [[Window|finestra]]
+che dava sulla scena della [[Death|morte]]. «Nessuno colse il senso dei
+ramoscelli. Perché mai giacevano su quel prato (guardatelo) così lontano da
+qualsiasi albero? Non erano stati spezzati; erano stati tagliati. L'assassino
+tenne occupato il suo nemico con qualche giochetto di sciabola, mostrandogli
+come sapeva tagliare un ramo a mezz'aria, o cose del genere. Poi, mentre il suo
+nemico si chinava a vedere il risultato, un silenzioso fendente, e la testa
+cadde.»

@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/wifrb11-(chesterton)">The Wisdom of Father Brown</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/wifrb11/story_12_the_fairy_tale_of_father_brown/part_02">‹ part 02</a><a class="ex-next" href="/testi/chesterton/atomized/wifrb11/story_12_the_fairy_tale_of_father_brown/part_04">part 04 ›</a></div>
@@ -138,3 +140,138 @@ paid and promised money on the chance of gaining the larger amount;
 and for this he had stolen out of his palace like a thief in the rain,
 for he had thought of another way to get the [[Desire|desire]] of his eyes,
 and to get it cheap.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/wifrb11-(chesterton)">The Wisdom of Father Brown</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/wifrb11/story_12_the_fairy_tale_of_father_brown/part_02">‹ part 02</a><a class="ex-next" href="/testi/chesterton/atomized/wifrb11/story_12_the_fairy_tale_of_father_brown/part_04">part 04 ›</a></div>
+</nav>
+
+# [[wifrb11]] — La fiaba di [[Father Brown|Padre Brown]] (parte 3)
+
+     [[Flambeau]] lo fissò. «Che tipo strano sei!» disse.
+«È esattamente ciò che disse il vecchio Grimm. Disse che la parte più brutta della cosa,
+a suo parere -- più brutta del [[Blood|sangue]] e della pallottola -- era che i [[Flowers|fiori]]
+erano cortissimi, colti proprio sotto la corolla.»
+
+     «Naturale», disse il sacerdote, «quando una ragazza adulta coglie davvero
+[[Flowers|fiori]], li coglie con parecchio gambo. Se strappasse loro
+soltanto la testa, come fa un [[Child|bambino]], parrebbe come se --»
+Ed esitò.
+
+     «[[Well|Ebbene]]?» s'informò l'altro.
+
+     «[[Well|Ebbene]], parrebbe piuttosto come se li avesse strappati nervosamente,
+per farsi una scusa di trovarsi là dopo -- [[Well|insomma]], dopo che vi si trovava.»
+
+     «So dove vuoi arrivare», disse [[Flambeau]] piuttosto cupamente.
+«Ma quello e ogni altro sospetto crollano sull'unico punto --
+la mancanza di un'arma. Avrebbe potuto essere ucciso, come tu dici,
+con moltissime altre cose -- persino con la sua stessa fascia militare;
+ma dobbiamo spiegare non come fu ucciso, bensì come fu colpito da un proiettile.
+E il fatto è che non possiamo. Fecero perquisire la ragazza con la massima
+spietatezza; perché, a dire il [[Truth|vero]], era un po' sospetta, sebbene nipote
+e pupilla del malvagio vecchio Ciambellano, Paul Arnhold. Ma era
+assai romantica, e la si sospettava di simpatia per il vecchio entusiasmo
+rivoluzionario della sua famiglia. Ciò nondimeno, per quanto romantico si sia,
+non si può immaginare una grossa pallottola nella mascella o nel cervello di un uomo senza usare
+un fucile o una [[Pistol|pistola]]. E non c'era nessuna [[Pistol|pistola]], sebbene vi fossero
+due colpi di [[Pistol|pistola]]. Lascio a te, amico mio.»
+
+     «Come sai che vi furono due colpi?» chiese il piccolo sacerdote.
+
+     «Ce n'era uno solo nella sua testa», disse il suo compagno,
+«ma vi era un altro foro di pallottola nella fascia.»
+
+     La liscia fronte di [[Father Brown|Padre Brown]] si contrasse d'improvviso.
+«L'altra pallottola fu ritrovata?» domandò.
+
+     [[Flambeau]] trasalì un poco. «Non credo di ricordarlo», disse.
+
+     «Ferma! Ferma! Ferma!» esclamò Brown, aggrottandosi sempre più,
+con una concentrazione di curiosità del tutto insolita. «Non credermi villano.
+Lasciami riflettere su questo per un momento.»
+
+     «Va bene», disse [[Flambeau]], ridendo, e finì la sua birra.
+Una lieve brezza mosse gli alberi in boccio e sospinse su nel cielo
+nuvolette bianche e rosee che parevano rendere il cielo più azzurro e
+tutta la scena colorata più bizzarra. Avrebbero potuto essere cherubini
+in volo verso le finestre di casa ([[Home|casa]]) di una specie di celeste stanza dei bambini.
+La torre più antica del [[Castle|castello]], la Torre del Drago, si ergeva [[Grotesque|grottesca]]
+come il boccale di birra, ma altrettanto familiare. Solo al di là della torre luccicava
+il bosco in cui l'uomo era rimasto morto.
+
+     «Che ne fu alla fine di questa Hedwig?» chiese infine il sacerdote.
+
+     «È sposata al Generale Schwartz», disse [[Flambeau]].
+«Senza [[Doubt|dubbio]] avrai udito della sua carriera, che fu piuttosto romantica.
+Si era distinto persino prima delle sue imprese a Sadowa
+e Gravelotte; in realtà, [[Rose|salì]] dalla truppa, cosa assai insolita
+persino nel più piccolo dei... tedeschi.»
+
+     [[Father Brown|Padre Brown]] si raddrizzò di scatto.
+
+     «[[Rose|Salito]] dalla truppa!» esclamò, e atteggiò la bocca come per fischiare.
+«[[Well|Bene]], [[Well|bene]], che storia curiosa! Che curioso modo di uccidere un uomo;
+ma suppongo fosse l'unico possibile. Ma pensare a un odio
+tanto paziente --»
+
+     «Che vuoi dire?» domandò l'altro. «In che modo
+uccisero l'uomo?»
+
+     «Lo uccisero con la fascia», disse Brown con cautela; e poi,
+mentre [[Flambeau]] protestava: «Sì, sì, so della pallottola.
+Forse dovrei dire che morì per aver avuto una fascia. So che non suona
+come l'avere una malattia.»
+
+     «Suppongo», disse [[Flambeau]], «che tu abbia qualche idea
+in testa, ma non toglierà facilmente la pallottola dalla sua.
+Come ho spiegato prima, avrebbe potuto benissimo essere strangolato.
+Ma fu colpito da un proiettile. Da chi? Con che cosa?»
+
+     «Fu colpito per suo proprio ordine», disse il sacerdote.
+
+     «Vuoi dire che ha commesso il [[suicide|suicidio]]?»
+
+     «Non ho detto per suo proprio desiderio», replicò [[Father Brown|Padre Brown]].
+«Ho detto per suo proprio ordine.»
+
+     «[[Well|Bene]], comunque sia, qual è la tua teoria?»
+
+     [[Father Brown|Padre Brown]] rise. «Sono soltanto in vacanza», disse.
+«Non ho nessuna teoria. Solo che questo luogo mi ricorda le fiabe,
+e, se vuoi, ti racconterò una storia.»
+
+     Le piccole nuvole rosee, che parevano piuttosto zucchero filato,
+erano salite fluttuando a [[Crown|coronare]] le torrette del [[Castle|castello]] di pan di zenzero indorato,
+e le rosee dita di neonato degli alberi in boccio parevano allargarsi e
+protendersi per raggiungerle; il cielo azzurro cominciava a prendere un vivido violetto
+della sera, quando [[Father Brown|Padre Brown]] d'un tratto parlò di nuovo:
+
+     «Fu in una tetra [[Night|notte]], con la pioggia che ancora gocciolava dagli alberi
+e la rugiada che già s'infittiva, che il Principe Otto di Grossenmark uscì
+in fretta da una porta laterale del [[Castle|castello]] e s'incamminò rapido
+nel bosco. Una delle innumerevoli sentinelle lo salutò,
+ma egli non la notò. Non desiderava essere notato in modo particolare.
+Fu lieto quando i grandi alberi, grigi e già viscidi di pioggia,
+lo inghiottirono come una palude. Aveva deliberatamente scelto
+il lato meno frequentato del suo palazzo, ma persino quello era più frequentato
+di quanto gli piacesse. Ma non v'era particolare rischio d'inseguimento
+officioso o diplomatico, ché la sua uscita era stata un impulso subitaneo.
+Tutti i diplomatici in gran gala che si lasciava alle spalle erano insignificanti.
+Aveva compreso d'un tratto di poter fare a meno di loro.
+
+     «La sua grande passione non era il ben più nobile terrore della [[Death|morte]],
+bensì lo strano [[Desire|desiderio]] dell'oro. Per questa leggenda dell'oro aveva
+lasciato Grossenmark e invaso Heiligwaldenstein. Per questo e solo per questo
+aveva comprato il traditore e scannato l'[[Hero|eroe]], per questo aveva
+a lungo interrogato e [[Cross|contro]]-interrogato il falso Ciambellano,
+finché era giunto alla conclusione che, quanto alla sua ignoranza,
+il rinnegato diceva davvero il [[Truth|vero]]. Per questo aveva, alquanto a malincuore,
+pagato e promesso denaro sulla probabilità di guadagnarne la somma maggiore;
+e per questo era sgusciato fuori dal suo palazzo come un ladro sotto la pioggia,
+ché aveva pensato a un altro modo per ottenere il [[Desire|desiderio]] dei suoi occhi,
+e per ottenerlo a buon mercato.

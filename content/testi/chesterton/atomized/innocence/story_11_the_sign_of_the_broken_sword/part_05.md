@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/innocence-(chesterton)">The Innocence of Father Brown</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/innocence/story_11_the_sign_of_the_broken_sword/part_04">‹ part 04</a><a class="ex-next" href="/testi/chesterton/atomized/innocence/story_11_the_sign_of_the_broken_sword/part_06">part 06 ›</a></div>
@@ -147,3 +149,66 @@ The general temporised with him till they came to the fringe
 of tropic trees by the bridge; and there by the singing river
 and the sunlit palms (for I can see the picture) the general
 drew his sabre and plunged it through the body of the major."
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/innocence-(chesterton)">The Innocence of Father Brown</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/innocence/story_11_the_sign_of_the_broken_sword/part_04">‹ part 04</a><a class="ex-next" href="/testi/chesterton/atomized/innocence/story_11_the_sign_of_the_broken_sword/part_06">part 06 ›</a></div>
+</nav>
+
+# [[innocence]] — Il segno della [[Sword|Spada]] spezzata (parte 5)
+
+«Ebbene, che cosa c’è in ciò?» ringhiò Flambeau; «era un episodio da due soldi, buono per la stampa a colori; la lama del vecchio che si spezza nella sua ultima battaglia. Chiunque avrebbe scommesso che i giornali se ne sarebbero impadroniti, come hanno fatto. Su tutte queste tombe e cose la si mostra spezzata sulla punta. Spero che non mi abbiate trascinato in questa spedizione polare solo perché due uomini con l’occhio per un bel quadro videro la spada spezzata di St. Clare.»
+
+«No,» esclamò Padre Brown, con voce acuta come uno sparo di pistola; «ma chi vide la sua spada intatta?»
+
+«Che cosa volete dire?» esclamò l’altro, e si fermò immobile sotto le stelle. Erano sbucati bruscamente dai grigi cancelli del bosco.
+
+«Dico: chi vide la sua spada intatta?» ripeté Padre Brown ostinato. «Non lo scrittore del diario, in ogni caso; il generale la rinfoderò in tempo.»
+
+Flambeau si guardò attorno nella luce lunare, come un uomo colpito da cecità potrebbe guardare nel sole; e il suo amico proseguì, per la prima volta con foga:
+
+«Flambeau,» esclamò, «non posso provarlo, nemmeno dopo aver frugato fra le tombe. Ma ne sono certo. Lasciate che aggiunga un solo minuscolo fatto che fa capovolgere l’intera faccenda. Il colonnello, per uno strano caso, fu uno dei primi colpiti da una pallottola. Fu colpito molto prima che le truppe venissero a combattimento ravvicinato. Ma egli vide la spada di St. Clare spezzata. Perché era spezzata? Come si era spezzata? Amico mio, si era spezzata prima della battaglia.»
+
+«Oh!» disse il suo amico, con una specie di sconsolata giocosità; «e ditemi di grazia, dov’è l’altro pezzo?»
+
+«Ve lo posso dire,» disse il prete prontamente. «Nell’angolo nordorientale del cimitero della Cattedrale protestante di Belfast.»
+
+«Davvero?» chiese l’altro. «L’avete cercato?»
+
+«Non ho potuto,» rispose Brown, con schietto rammarico. «C’è un gran monumento di marmo al di sopra; un monumento all’eroico Maggiore Murray, che cadde combattendo gloriosamente nella famosa Battaglia del Fiume Nero.»
+
+Flambeau parve d’un tratto galvanizzato all’esistenza. «Volete dire,» esclamò con voce rauca, «che il Generale St. Clare odiava Murray, e lo assassinò sul campo di battaglia perché —»
+
+«Siete ancora pieno di pensieri buoni e puri,» disse l’altro. «Fu peggio di così.»
+
+«Ebbene,» disse l’uomo grande, «la mia scorta d’immaginazione malvagia è esaurita.»
+
+Il prete pareva davvero incerto su dove cominciare, e alla fine disse ancora:
+
+«Dove nasconderebbe un uomo saggio una foglia? Nella foresta.»
+
+L’altro non rispose.
+
+«Se non ci fosse foresta, ne farebbe una. E se volesse nascondere una foglia morta, farebbe una foresta morta.»
+
+Ancora non vi fu risposta, e il prete aggiunse ancora più mite e sommesso:
+
+«E se un uomo dovesse nascondere un cadavere, farebbe un campo di cadaveri in cui nasconderlo.»
+
+Flambeau cominciò ad avanzare a passi pesanti, con un’intolleranza per ogni indugio nel tempo o nello spazio; ma Padre Brown proseguì come se stesse continuando l’ultima frase:
+
+«Sir Arthur St. Clare, come ho già detto, era un uomo che leggeva la Bibbia. Era proprio questo il suo guaio. Quando capirà la gente che è inutile per un uomo leggere la propria Bibbia, se non legge anche la Bibbia di tutti gli altri? Un tipografo legge una Bibbia per cercarvi i refusi. Un mormone legge la sua Bibbia, e vi trova la poligamia; uno scientista cristiano legge la sua, e scopre che non abbiamo braccia e gambe. St. Clare era un vecchio soldato protestante anglo-indiano. Ora, pensate un po’ a che cosa potrebbe significare; e, per amor del Cielo, non fatene ipocrita retorica. Potrebbe significare un uomo fisicamente formidabile che vive sotto un sole tropicale, in una società orientale, e s’imbeve senza discernimento né guida di un Libro orientale. Naturalmente, leggeva l’Antico Testamento piuttosto che il Nuovo. Naturalmente, trovava nell’Antico Testamento tutto ciò che voleva — lussuria, tirannia, tradimento. Oh, ammetto che fosse onesto, come lo chiamate voi. Ma a che serve che un uomo sia onesto nel suo culto della disonestà?
+
+«In ciascuno dei paesi caldi e segreti in cui l’uomo andò, tenne un harem, torturò testimoni, ammassò oro vergognoso; ma certamente avrebbe detto, con occhio fermo, di farlo per la gloria del Signore. La mia teologia si esprime sufficientemente nel chiedere: quale Signore? Comunque, c’è questo, in un simile male, che apre porta dopo porta all’inferno, e sempre in camere sempre più piccole. Questa è la vera accusa contro il delitto: che un uomo non diventa sempre più selvaggio, ma soltanto sempre più meschino. St. Clare fu ben presto soffocato dalle difficoltà della corruzione e del ricatto; e aveva bisogno di sempre più denaro. E all’epoca della Battaglia del Fiume Nero era caduto di mondo in mondo fino a quel luogo che Dante pone all’ultimo piano dell’universo.»
+
+«Che cosa volete dire?» chiese di nuovo il suo amico.
+
+«Voglio dire quello,» ribatté il chierico, e improvvisamente additò una pozzanghera sigillata dal ghiaccio che luccicava alla luna. «Vi ricordate chi Dante mise nell’ultimo cerchio di ghiaccio?»
+
+«I traditori,» disse Flambeau, e rabbrividì. Mentre si guardava intorno l’inumano paesaggio di alberi, dai contorni beffardi e quasi osceni, poteva quasi immaginare di essere Dante, e il prete, con quel rivolo di voce, era davvero un Virgilio che lo guidava attraverso una terra di peccati eterni.
+
+La voce proseguì: «Olivier, come sapete, era un donchisciotte, e non voleva permettere un servizio segreto e spie. La cosa, tuttavia, fu fatta, come molte altre cose, alle sue spalle. Fu gestita dal mio vecchio amico Espado; era lui il bellimbusto dagli abiti sgargianti, il cui naso adunco gli aveva fatto guadagnare il soprannome di Avvoltoio. Posando a una sorta di filantropo al fronte, si insinuò a tentoni attraverso l’Esercito inglese, e alla fine mise le dita sul suo unico uomo corrotto — piaccia a Dio! — e quell’uomo era in cima a tutti. St. Clare aveva turpe bisogno di denaro, e a montagne. Il screditato medico di famiglia minacciava quelle straordinarie rivelazioni che poi cominciarono e furono interrotte; storie di cose mostruose e preistoriche a Park Lane; cose fatte da un evangelista inglese che sapevano di sacrificio umano e di orde di schiavi. Occorreva denaro, anche, per la dote della figlia; poiché per lui la fama della ricchezza era dolce quanto la ricchezza stessa. Egli recise l’ultimo filo, sussurrò la parola al Brasile, e la ricchezza affluì dai nemici dell’Inghilterra. Ma un altro uomo aveva parlato con Espado l’Avvoltoio oltre a lui. In qualche modo il cupo, arcigno giovane maggiore dell’Ulster aveva indovinato l’orrenda verità; e quando i due camminarono lentamente insieme lungo quella strada verso il ponte, Murray stava dicendo al generale che egli doveva dimettersi immediatamente, o essere deferito alla corte marziale e fucilato. Il generale temporeggiò con lui finché non giunsero alla frangia di alberi tropicali presso il ponte; e là, presso il fiume che cantava e le palme assolate (poiché vedo la scena), il generale trasse la sciabola e la trapassò attraverso il corpo del maggiore.»

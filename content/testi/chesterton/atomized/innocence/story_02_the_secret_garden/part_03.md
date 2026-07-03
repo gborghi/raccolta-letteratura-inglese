@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/innocence-(chesterton)">The Innocence of Father Brown</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/innocence/story_02_the_secret_garden/part_02">‹ part 02</a><a class="ex-next" href="/testi/chesterton/atomized/innocence/story_02_the_secret_garden/part_04">part 04 ›</a></div>
@@ -142,3 +144,141 @@ curdled everyone's [[Blood|blood]] like the knocking in [[Macbeth]].  Amid that 
 
 The confidential Ivan opened the door and ushered in Commandant Neil O'Brien,
 whom he had found at last pacing the [[Garden|garden]] again.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/innocence-(chesterton)">The Innocence of Father Brown</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/innocence/story_02_the_secret_garden/part_02">‹ part 02</a><a class="ex-next" href="/testi/chesterton/atomized/innocence/story_02_the_secret_garden/part_04">part 04 ›</a></div>
+</nav>
+
+# [[innocence]] — Il [[Garden|giardino]] segreto (parte 3)
+
+Valentin si mise carponi ed esaminò con la più stretta attenzione professionale
+l'erba e il terreno per una ventina di iarde intorno al [[Body|corpo]], in ciò
+assistito con minore abilità dal dottore, e in modo del tutto vago dal lord
+inglese. Nulla ricompensò il loro brancolare, salvo qualche ramoscello,
+spezzato o tagliato in pezzetti piccolissimi, che Valentin sollevò per un
+istante d'esame e poi gettò via.
+
+«Ramoscelli,» disse gravemente; «ramoscelli, e un perfetto sconosciuto con la
+testa mozzata; ecco tutto ciò che c'è su questo prato.»
+
+Vi fu un silenzio quasi raccapricciante, e poi lo snervato Galloway gridò
+seccamente:
+
+«Chi è quello! Chi è quello laggiù presso il muro del [[Garden|giardino]]!»
+
+Una piccola figura con una testa scioccamente grande si avvicinò a loro con
+passo incerto nella foschia lunare; parve per un istante un folletto, ma si
+rivelò l'innocuo pretino che avevano lasciato in salotto.
+
+«Dico io,» disse mansueto, «non ci sono cancelli in questo
+[[Garden|giardino]], sapete.»
+
+Le nere sopracciglia di Valentin si erano un po' aggrottate stizzosamente,
+come facevano per principio alla vista della tonaca. Ma era un uomo troppo
+giusto per negare la pertinenza dell'osservazione. «Avete ragione,» disse.
+«Prima di scoprire come sia stato ucciso, potremmo dover scoprire come sia
+giunto qui. Ora ascoltatemi, signori. Se lo si può fare senza pregiudizio
+per la mia posizione e il mio dovere, converremo tutti che certi nomi
+illustri potrebbero [[Well|benissimo]] essere tenuti fuori da questa faccenda.
+Ci sono delle signore, signori, e c'è un ambasciatore straniero. Se dobbiamo
+classificarlo come un delitto, allora dovrà essere perseguito come un delitto.
+Ma fino ad allora posso usare la mia discrezione. Sono il capo della polizia;
+sono così pubblico che posso permettermi di essere privato. Piaccia al Cielo,
+scagionerò ognuno dei miei ospiti prima di chiamare i miei uomini a cercare
+qualcun altro. Signori, sul vostro [[Honour|onore]], nessuno di voi lascerà
+la [[house|casa]] fino a domani a [[Noon|mezzogiorno]]; ci sono camere da
+letto per tutti. Simon, credo che sappiate dove trovare il mio uomo, Ivan,
+nell'atrio d'ingresso; è un uomo di fiducia. Ditegli di lasciare un altro
+servitore di guardia e di venire subito da me. Lord Galloway, siete di certo
+la persona migliore per dire alle signore ciò che è accaduto, e prevenire il
+panico. Anch'esse devono restare. [[Father Brown]] e io rimarremo con il
+[[Body|corpo]].»
+
+Quando questo spirito di capitano parlava in Valentin, egli veniva obbedito
+come uno squillo di tromba. Il dottor Simon attraversò fino all'armeria e
+stanò Ivan, il [[Detective|detective]] privato del [[Detective|detective]]
+pubblico. Galloway andò in salotto e diede la terribile notizia con
+sufficiente tatto, così che nel [[Time|momento]] in cui la compagnia vi si radunò le signore erano
+già trasalite e già rasserenate. Intanto il buon prete e il buon ateo stavano
+al capo e ai piedi del morto, immobili al chiaro di luna, come statue
+simboliche delle loro due filosofie della [[Death|morte]].
+
+Ivan, l'uomo di fiducia con la cicatrice e i baffi, uscì dalla
+[[house|casa]] come una palla di cannone, e venne di corsa attraverso il
+prato verso Valentin come un cane verso il padrone. Il suo volto livido era
+tutto vivace per l'ardore di questa storia da [[Detective|detective]]
+domestica, e fu con una premura quasi sgradevole che chiese al padrone il
+permesso di esaminare le spoglie.
+
+«Sì; guarda pure, se vuoi, Ivan,» disse Valentin, «ma non metterci troppo.
+Dobbiamo rientrare e sviscerare la cosa in [[house|casa]].»
+
+Ivan sollevò la testa, e quasi la lasciò cadere.
+
+«Ma come,» ansimò, «è... no, non è possibile; non può essere. Conoscete
+quest'uomo, signore?»
+
+«No,» disse Valentin con indifferenza; «faremmo meglio a rientrare.»
+
+Insieme trasportarono il cadavere su un divano nello studio, e poi tutti si
+avviarono verso il salotto.
+
+Il [[Detective|detective]] sedette a una scrivania con calma, e persino senza
+esitazione; ma il suo occhio era l'occhio di ferro di un giudice d'assise.
+Prese qualche rapido appunto su un foglio davanti a sé, e poi disse breve:
+«Sono tutti qui?»
+
+«Manca il signor Brayne,» disse la Duchessa di Mont St. Michel, guardandosi
+attorno.
+
+«No,» disse Lord Galloway con voce rauca e aspra. «E non c'è nemmeno il signor
+Neil O'Brien, mi pare. Ho visto quel signore passeggiare nel
+[[Garden|giardino]] quando il cadavere era ancora caldo.»
+
+«Ivan,» disse il [[Detective|detective]], «va' a chiamare il Comandante
+O'Brien e il signor Brayne. Il signor Brayne, lo so, sta finendo un sigaro
+nella sala da pranzo; il Comandante O'Brien, credo, passeggia su e giù per la
+serra. Non ne sono sicuro.»
+
+Il fedele attendente sfrecciò fuori dalla stanza, e prima che alcuno potesse
+muoversi o parlare Valentin proseguì con la stessa marziale rapidità di
+esposizione.
+
+«Tutti qui sanno che un morto è stato trovato nel [[Garden|giardino]], la
+testa recisa di netto dal [[Body|corpo]]. Dottor Simon, voi l'avete esaminato.
+Ritenete che tagliare la gola a un uomo in quel modo richiederebbe grande
+forza? Oppure, forse, soltanto un coltello molto affilato?»
+
+«Direi che non si potrebbe affatto farlo con un coltello,» disse il pallido
+dottore.
+
+«Avete qualche idea,» riprese Valentin, «di uno strumento con cui si potrebbe
+fare?»
+
+«Parlando entro le probabilità moderne, davvero no,» disse il dottore,
+inarcando le sopracciglia dolenti. «Non è facile recidere un collo nemmeno
+goffamente, e questo era un taglio nettissimo. Si potrebbe fare con
+un'ascia da battaglia o una vecchia scure da boia, o una vecchia
+[[Sword|spada]] a due mani.»
+
+«Ma, santo cielo!» gridò la Duchessa, quasi in preda a un attacco isterico,
+«non ci sono spade a due mani né asce da battaglia qui intorno.»
+
+Valentin era ancora indaffarato col foglio davanti a sé. «Ditemi,» disse,
+sempre scrivendo rapidamente, «potrebbe essere stato fatto con una lunga
+sciabola da cavalleria francese?»
+
+Un lieve bussare venne alla porta, che, per qualche irragionevole ragione,
+raggelò a tutti il [[Blood|sangue]] come il bussare nel [[Macbeth]]. In mezzo
+a quel gelido [[Silence|silenzio]] il dottor Simon riuscì a dire: «Una
+sciabola... sì, suppongo che potrebbe.»
+
+«Grazie,» disse Valentin. «Entra, Ivan.»
+
+Il fidato Ivan aprì la porta e introdusse il Comandante Neil O'Brien, che
+aveva infine trovato mentre passeggiava di nuovo nel [[Garden|giardino]].

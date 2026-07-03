@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/thursday-(chesterton)">The Man Who Was Thursday</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/thursday/chapter_01">‹ Chapter 01</a><a class="ex-next" href="/testi/chesterton/atomized/thursday/chapter_03">Chapter 03 ›</a></div>
@@ -349,3 +351,156 @@ From the doorway there came a murmur of "Mr. Joseph Chamberlain."  It was
 repeated twice and thrice, and then thirty times, and the crowd
 of Joseph Chamberlains (a solemn thought) could be heard trampling
 down the corridor.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/thursday-(chesterton)">The Man Who Was Thursday</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/thursday/chapter_01">‹ Chapter 01</a><a class="ex-next" href="/testi/chesterton/atomized/thursday/chapter_03">Chapter 03 ›</a></div>
+</nav>
+
+# [[thursday]] — Capitolo 2
+
+                          CAPITOLO II
+
+                 IL SEGRETO DI [[Gabriel Syme|GABRIEL SYME]]
+
+LA carrozza si fermò davanti a una birreria particolarmente tetra e unta, nella quale Gregory guidò rapidamente il suo compagno. Presero posto in una specie di saletta angusta e buia, a un tavolo di legno macchiato che aveva una sola gamba di legno. La stanza era così piccola e scura che ben poco si poteva vedere del cameriere che fu chiamato, oltre a una vaga e oscura impressione di qualcosa di massiccio e barbuto.
+
+«Gradisce una piccola cena?» chiese Gregory con cortesia. «Il pâté de foie gras qui non è buono, ma posso raccomandarle la selvaggina.»
+
+Syme accolse l'osservazione con impassibilità, immaginando che fosse uno scherzo. Assecondando la vena di [[Humour|umorismo]], disse, con una indifferenza [[Well|beneducata]]:
+
+«Oh, mi porti dell'aragosta con la maionese.»
+
+Con suo indescrivibile stupore, l'uomo si limitò a dire: «Senz'altro, signore!» e se ne andò, a quanto pareva, per procurargliela.
+
+«Cosa berrà?» riprese Gregory, con la stessa aria trascurata eppure di scusa. «Io prenderò soltanto una crème de menthe; ho già cenato. Ma dello champagne ci si può davvero fidare. Mi permetta almeno di iniziare con una mezza bottiglia di Pommery?»
+
+«Grazie!» disse l'immobile Syme. «È molto gentile.»
+
+I suoi ulteriori tentativi di conversazione, di per sé alquanto sconnessi, furono infine troncati come da un fulmine dall'effettiva comparsa dell'aragosta. Syme l'assaggiò, e la trovò particolarmente buona. Poi cominciò all'improvviso a mangiare con grande rapidità e appetito.
+
+«Mi scusi se mi diverto in modo piuttosto evidente!» disse a Gregory, sorridendo. «Non ho spesso la fortuna di fare [[A Dream|un sogno]] come questo. È una novità per me che [[nightmare|un incubo]] conduca a un'aragosta. Di solito è il contrario.»
+
+«Le assicuro che non sta dormendo,» disse Gregory. «Lei è, al contrario, vicinissimo al momento più concreto ed eccitante della sua esistenza. Ah, ecco che arriva il suo champagne! Ammetto che possa esserci una lieve sproporzione, diciamo così, fra le disposizioni interne di questo eccellente albergo e il suo esterno semplice e senza pretese. Ma tutto ciò è dovuto alla nostra modestia. Siamo gli uomini più modesti che siano mai vissuti sulla terra.»
+
+«E chi siamo noi?» chiese Syme, vuotando il bicchiere di champagne.
+
+«È semplicissimo,» rispose Gregory. «Siamo gli anarchici seri, in cui lei non crede.»
+
+«Oh!» disse Syme secco. «Vi trattate [[Well|bene]] quanto a bevande.»
+
+«Sì, siamo seri su ogni cosa,» rispose Gregory.
+
+Poi, dopo una pausa, aggiunse:
+
+«Se tra qualche istante questo tavolo comincerà a girare un poco, non lo attribuisca alle sue incursioni nello champagne. Non vorrei che si facesse un torto.»
+
+«[[Well|Be']], se non sono ubriaco, sono pazzo,» rispose Syme con perfetta calma; «ma confido di sapermi comportare da gentiluomo in entrambe le condizioni. Posso fumare?»
+
+«Certamente!» disse Gregory, tirando fuori un portasigari. «Provi uno dei miei.»
+
+Syme prese il sigaro, ne tagliò l'estremità con un tagliasigari che pescò dal taschino del panciotto, se lo mise in bocca, lo accese lentamente e lasciò uscire una lunga nuvola di fumo. Non gli fa poco onore l'aver compiuto questi riti con tanta compostezza, perché quasi prima che avesse cominciato, il tavolo al quale sedeva aveva preso a ruotare, dapprima lentamente, e poi rapidamente, come in una folle seduta spiritica.
+
+«Non ci badi,» disse Gregory; «è una specie di vite.»
+
+«Proprio così,» disse Syme placido, «una specie di vite. Com'è semplice!»
+
+Un istante dopo il fumo del suo sigaro, che aveva ondeggiato per la stanza in serpeggianti volute, salì dritto come da una ciminiera di fabbrica, e i due, con le loro sedie e il tavolo, precipitarono giù attraverso il pavimento come se la terra li avesse inghiottiti. Scesero sferragliando per una specie di ruggente ciminiera, rapidi come un ascensore lanciato senza freno, e giunsero con un urto brusco in [[Bottom|fondo]]. Ma quando Gregory spalancò un paio di porte e lasciò entrare una rossa luce sotterranea, Syme fumava ancora con una gamba accavallata sull'altra, e non gli si era mosso un biondo capello.
+
+Gregory lo condusse giù per un basso corridoio a volta, in fondo al quale c'era la luce rossa. Era un'enorme lanterna cremisi, grande quasi come un caminetto, fissata sopra una porticina di ferro piccola ma pesante. Nella porta c'era una specie di sportello o inferriata, e su questo Gregory batté cinque volte. Una voce pesante con accento straniero gli chiese chi fosse. A ciò egli diede la risposta più o meno inaspettata: «Il signor Joseph Chamberlain.» I pesanti cardini cominciarono a muoversi; era evidentemente una specie di parola d'ordine.
+
+Oltre la soglia il corridoio luccicava come se fosse rivestito di una rete d'acciaio. A un secondo sguardo, Syme vide che lo scintillante disegno era in realtà composto di file e file di fucili e rivoltelle, fittamente stipati o incastrati l'uno nell'altro.
+
+«Devo pregarla di perdonarmi tutte queste formalità,» disse Gregory; «qui dobbiamo essere molto rigorosi.»
+
+«Oh, non si scusi,» disse Syme. «Conosco la vostra passione per l'ordine e la legge,» e mise piede nel corridoio rivestito di armi d'acciaio. Con i suoi lunghi capelli biondi e la sua palandrana piuttosto affettata, appariva una figura singolarmente fragile e stravagante mentre percorreva quello splendente viale di [[Death|morte]].
+
+Attraversarono parecchi corridoi del genere, e sbucarono infine in una bizzarra camera d'acciaio dalle pareti curve, quasi sferica nella forma, ma che presentava, con le sue gradinate di panche, qualcosa dell'aspetto di un'aula per conferenze scientifiche. In quel locale non c'erano fucili né pistole, ma intorno alle pareti pendevano forme più dubbie e più terribili, cose che parevano i bulbi di piante di ferro, o le uova di [[Birds|uccelli]] di ferro. Erano bombe, e la stanza stessa pareva l'interno di una bomba. Syme scosse la cenere del sigaro contro la parete, ed entrò.
+
+«E ora, mio caro signor Syme,» disse Gregory, gettandosi in maniera espansiva sulla panca sotto la bomba più grande, «ora siamo del tutto a nostro agio, dunque parliamo come si deve. Nessuna parola umana potrebbe darle un'idea del perché l'ho condotta qui. È stata una di quelle emozioni del tutto arbitrarie, come buttarsi da una rupe o cadere in [[Love|amore]]. Basti dire che lei era un tipo indicibilmente irritante, e, a suo onore, lo è ancora. Infrangerei venti giuramenti di segretezza per il piacere di ridimensionarla un poco. Quel suo modo di accendere un sigaro farebbe violare a un prete il sigillo della confessione. [[Well|Ebbene]], lei ha detto di essere assolutamente certo che io non fossi un anarchico serio. Questo posto le fa l'impressione di essere una cosa seria?»
+
+«Sembra proprio avere una morale sotto tutta la sua allegria,» convenne Syme; «ma posso farle due domande? Non deve [[Fear|temere]] di darmi informazioni, perché, come ricorderà, lei molto saggiamente mi ha estorto la promessa di non riferire alla polizia, una promessa che manterrò senz'altro. È dunque per pura curiosità che pongo le mie domande. Prima di tutto, di che cosa si tratta davvero? A che cosa vi opponete? Volete abolire il [[government|Governo]]?»
+
+«Abolire Dio!» disse Gregory, spalancando gli occhi di un fanatico. «Non vogliamo soltanto rovesciare qualche dispotismo e qualche regolamento di polizia; quella specie di anarchia esiste, ma è un mero ramo dei Nonconformisti. Noi scaviamo più a fondo e vi facciamo saltare più in alto. Vogliamo negare tutte quelle arbitrarie distinzioni tra vizio e virtù, [[Honour|onore]] e tradimento, sulle quali i semplici ribelli si fondano. Gli sciocchi sentimentali della [[French Revolution|Rivoluzione francese]] parlavano dei Diritti dell'Uomo! Noi odiamo i Diritti come odiamo i Torti. Abbiamo abolito il Giusto e l'Ingiusto.»
+
+«E la Destra e la Sinistra,» disse Syme con schietto entusiasmo, «[[Hope|spero]] che aboliate anche quelle. Mi danno molto più fastidio.»
+
+«Ha parlato di una seconda domanda,» ribatté secco Gregory.
+
+«Con piacere,» riprese Syme. «In tutti i vostri atti presenti e in tutto ciò che vi circonda c'è un tentativo scientifico di segretezza. Ho una zia che abitava sopra una bottega, ma questa è la prima [[Time|volta]] che trovo gente che vive per scelta sotto un locale [[house|pubblico]]. Avete una pesante porta di ferro. Non la si può oltrepassare senza sottomettersi all'umiliazione di dichiararsi il signor Chamberlain. Vi circondate di strumenti d'acciaio che rendono il luogo, se posso dirlo, più imponente che accogliente. Posso chiederle perché, dopo esservi presi tutto questo disturbo per barricarvi nelle viscere della terra, poi mettete in piazza tutto il vostro segreto parlando di anarchia a ogni sciocca donnetta di Saffron Park?»
+
+Gregory sorrise.
+
+«La risposta è semplice,» disse. «Le ho detto che ero un anarchico serio, e lei non mi ha creduto. Né loro mi credono. Se non li portassi in questa stanza infernale, non mi crederebbero.»
+
+Syme fumava pensieroso, e lo guardava con interesse. Gregory proseguì.
+
+«La [[history|storia]] della faccenda potrebbe divertirla,» disse. «Quando diventai per la prima volta uno dei Nuovi Anarchici, provai ogni sorta di travestimenti rispettabili. Mi vestii da vescovo. Mi documentai su tutto ciò che riguarda i vescovi nei nostri opuscoli anarchici, in La superstizione il vampiro e Preti da preda. Certamente da essi capii che i vescovi sono strani e terribili vegliardi che custodiscono un crudele segreto dall'umanità. Ero male informato. Quando alla mia prima apparizione in ghette episcopali in un salotto gridai con voce di tuono: "Abbasso! abbasso la presuntuosa ragione umana!" si accorsero in qualche modo che non ero affatto un vescovo. Fui subito smascherato. Poi mi finsi milionario; ma difesi il Capitale con tanta intelligenza che perfino uno [[Fool|sciocco]] avrebbe visto che ero del tutto povero. Poi provai a fare il maggiore dell'esercito. Ora, io sono un umanitario, ma ho, [[Hope|spero]], una sufficiente ampiezza intellettuale per comprendere la posizione di coloro che, come Nietzsche, ammirano la violenza — la superba, folle guerra della [[Nature|Natura]] e tutto il resto, sa. Mi immedesimai nel maggiore. Sguainai la [[Sword|spada]] e la brandii di continuo. Gridavo "[[Blood|Sangue]]!" in modo distratto, come uno che chiede del vino. Dicevo spesso: "Che i deboli periscano; è la Legge." [[Well|Ebbene]], [[Well|be']], pare che i maggiori non facciano queste cose. Fui smascherato di nuovo. Alla fine andai in [[Despair|preda alla disperazione]] dal Presidente del Consiglio Anarchico Centrale, che è l'uomo più grande d'Europa.»
+
+«Come si chiama?» chiese Syme.
+
+«Non lo conoscerebbe,» rispose Gregory. «È questa la sua [[Greatness|grandezza]]. Cesare e Napoleone misero tutto il loro genio nel farsi conoscere, e si fecero conoscere. Lui mette tutto il suo genio nel non farsi conoscere, e non è conosciuto. Ma non si può stare cinque minuti in una stanza con lui senza avvertire che Cesare e Napoleone sarebbero stati bambini nelle sue mani.»
+
+Rimase silenzioso e persino pallido per un momento, e poi riprese:
+
+«Ma ogni volta che dà un consiglio è sempre qualcosa di sorprendente come un [[Epigram|epigramma]], eppure di pratico come la Banca d'Inghilterra. Gli dissi: "Quale travestimento mi nasconderà al mondo? Cosa posso trovare di più rispettabile dei vescovi e dei maggiori?" Mi guardò con la sua faccia larga ma indecifrabile. "Vuole un travestimento sicuro, non è così? Vuole un abito che le garantisca di essere innocuo; un abito in cui nessuno cercherebbe mai una bomba?" Annuii. Alzò all'improvviso la sua voce di [[Lion|leone]]. "Ebbene, allora si vesta da anarchico, [[Fool|sciocco]] che non è altro!" ruggì così che la stanza tremò. "Nessuno si aspetterà mai che lei faccia qualcosa di pericoloso, allora." E mi voltò la sua larga schiena senza aggiungere parola. Seguii il suo consiglio, e non me ne sono mai pentito. Predicai [[Blood|sangue]] e assassinio a quelle donne giorno e [[Night|notte]], e — perdio! — mi avrebbero lasciato [[Wheel|spingere]] le loro carrozzine.»
+
+Syme sedeva osservandolo con un certo rispetto nei suoi grandi occhi azzurri.
+
+«Mi ha ingannato,» disse. «È davvero un trucco astuto.»
+
+Poi, dopo una pausa, aggiunse:
+
+«Come lo chiamate questo vostro formidabile Presidente?»
+
+«Di solito lo chiamiamo [[Sunday|Domenica]],» rispose Gregory con semplicità. «Vede, i membri del Consiglio Anarchico Centrale sono sette, e prendono il nome dai giorni della settimana. Lui è chiamato [[Sunday|Domenica]], da qualcuno dei suoi ammiratori Domenica di [[Sunday|Sangue]]. È curioso che lei sollevi la questione, perché proprio la [[Night|notte]] in cui è capitato qui (se posso esprimermi così) è la [[Night|notte]] in cui la nostra sezione di [[London|Londra]], che si riunisce in questa stanza, deve eleggere il proprio delegato per colmare una vacanza nel Consiglio. Il gentiluomo che per qualche [[Time|tempo]] ha interpretato, con decoro e generale plauso, la difficile parte di [[thursday|Giovedì]], è morto all'improvviso. Di conseguenza, abbiamo convocato una riunione proprio stasera per eleggere un successore.»
+
+Si alzò in piedi e passeggiò per la stanza con una sorta di sorridente imbarazzo.
+
+«Ho la strana sensazione che lei sia mia madre, Syme,» continuò con noncuranza. «Sento di poterle confidare qualsiasi cosa, poiché lei ha promesso di non dirlo a nessuno. Anzi, le confiderò una cosa che non direi con tante parole agli anarchici che arriveranno in questa stanza fra una decina di minuti. Naturalmente procederemo con una qualche forma di elezione; ma non mi dispiace dirle che è praticamente certo quale ne sarà il risultato.» Abbassò lo sguardo per un momento con modestia. «È quasi cosa fatta che io debba essere [[thursday|Giovedì]].»
+
+«Mio caro,» disse Syme con calore, «mi congratulo con lei. Una grande carriera!»
+
+Gregory sorrise schermendosi, e attraversò la stanza, parlando rapidamente.
+
+«In effetti, sul tavolo è già tutto pronto per me,» disse, «e la cerimonia sarà probabilmente la più breve possibile.»
+
+Anche Syme passeggiò fino al tavolo, e vi trovò distesi un bastone da passeggio, che a un esame si rivelò un bastone-[[Sword|spada]], una grossa rivoltella Colt, un porta-panini e una formidabile fiasca di brandy. Sulla sedia, accanto al tavolo, era gettata una mantellina o un mantello dall'aria pesante.
+
+«Non devo far altro che portare a termine la forma dell'elezione,» continuò Gregory con animazione, «poi afferro questo mantello e questo bastone, mi caccio in tasca queste altre cose, esco da una porta di questa caverna, che dà sul [[River|fiume]], dove c'è già un rimorchiatore a vapore che mi aspetta, e poi — poi — oh, la gioia selvaggia di essere [[thursday|Giovedì]]!» E si strinse le mani.
+
+Syme, che si era di nuovo seduto con il suo consueto insolente languore, si alzò in piedi con un'insolita aria di esitazione.
+
+«Come mai,» chiese vagamente, «penso che lei sia proprio un tipo per bene? Perché mi è positivamente simpatico, Gregory?» Fece una pausa un momento, e poi aggiunse con una sorta di rinnovata curiosità: «Sarà perché lei è un tale asino?»
+
+Ci fu di nuovo un pensieroso [[Silence|silenzio]], e poi egli esclamò:
+
+«[[Well|Ebbene]], che diavolo! questa è la situazione più buffa in cui mi sia mai trovato in vita mia, e intendo agire di conseguenza. Gregory, le ho fatto una promessa prima di entrare in questo posto. Quella promessa la manterrei sotto tenaglie roventi. Vorrebbe farmi, per la mia sicurezza, una piccola promessa dello stesso genere?»
+
+«Una promessa?» chiese Gregory, meravigliato.
+
+«Sì,» disse Syme molto seriamente, «una promessa. Ho giurato davanti a Dio che non avrei rivelato il suo segreto alla polizia. Vuole giurare sull'Umanità, o su qualunque bestialità in cui lei crede, che non rivelerà il mio segreto agli anarchici?»
+
+«Il suo segreto?» chiese Gregory sbarrando gli occhi. «Lei ha un segreto?»
+
+«Sì,» disse Syme, «ho un segreto.» Poi, dopo una pausa: «Vuole giurare?»
+
+Gregory lo fissò gravemente per qualche istante, e poi disse bruscamente:
+
+«Deve avermi stregato, ma sento una furiosa curiosità nei suoi confronti. Sì, giurerò di non riferire agli anarchici nulla di ciò che lei mi dirà. Ma faccia in fretta, perché saranno qui tra un paio di minuti.»
+
+Syme si [[Rose|alzò]] lentamente in piedi e cacciò le sue lunghe mani bianche nelle tasche dei suoi lunghi calzoni grigi. Quasi nell'istante in cui lo fece giunsero cinque colpi all'inferriata esterna, che annunciavano l'arrivo del primo dei cospiratori.
+
+«[[Well|Ebbene]],» disse Syme lentamente, «non so come dirle la [[Truth|verità]] più brevemente che dicendole che il suo espediente di travestirsi da poeta senza scopo non è riservato a lei o al suo Presidente. Noi conosciamo il trucco da qualche [[Time|tempo]] a Scotland Yard.»
+
+Gregory tentò di [[spring|balzare]] su dritto, ma barcollò tre volte.
+
+«Cosa dice?» chiese con voce disumana.
+
+«Sì,» disse Syme con semplicità, «sono un [[Detective|detective]] della polizia. Ma credo di sentire arrivare i suoi amici.»
+
+Dalla soglia giunse un mormorio: «Il signor Joseph Chamberlain.» Fu ripetuto due, tre volte, e poi trenta volte, e si udì la folla dei Joseph Chamberlain (solenne pensiero) calpestare rumorosamente il corridoio.

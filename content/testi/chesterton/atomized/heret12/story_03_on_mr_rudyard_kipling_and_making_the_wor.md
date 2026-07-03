@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/heret12-(chesterton)">Heretics</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/heret12/story_02_on_the_negative_spirit">‹ Story 02 On the Negative Spirit</a><a class="ex-next" href="/testi/chesterton/atomized/heret12/story_04_mr_bernard_shaw">Story 04 Mr Bernard Shaw ›</a></div>
@@ -334,3 +336,334 @@ of amusement, motor-car civilization going its triumphant way,
 outstripping [[Time|time]], consuming space, seeing all and seeing nothing,
 roaring on at last to the capture of the solar system,
 only to find the sun cockney and the [[Stars|stars]] suburban.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/heret12-(chesterton)">Heretics</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/heret12/story_02_on_the_negative_spirit">‹ Story 02 On the Negative Spirit</a><a class="ex-next" href="/testi/chesterton/atomized/heret12/story_04_mr_bernard_shaw">Story 04 Mr Bernard Shaw ›</a></div>
+</nav>
+
+# [[heret12]] — Su Mr. Rudyard Kipling e sul rimpicciolire il mondo
+
+III.  Su Mr. Rudyard Kipling e sul rimpicciolire il mondo
+
+Non esiste al mondo cosa alcuna che sia un argomento privo d'interesse;
+l'unica cosa che possa esistere è una persona priva d'interesse.
+Nulla è più vivamente necessario di una difesa dei noiosi.
+Quando Byron divise l'umanità nei noiosi e negli annoiati, trascurò
+di notare che le qualità superiori risiedono tutte nei noiosi,
+e le qualità inferiori negli annoiati, fra i quali egli contava se stesso.
+Il noioso, per il suo stellato entusiasmo, per la sua solenne felicità,
+può, in un certo senso, aver dato prova d'essere poetico.
+L'annoiato ha certamente dato prova d'essere prosaico.
+
+Potremmo, senza [[Doubt|dubbio]], trovar noioso contare tutti i fili d'erba
+o tutte le [[Leaves|foglie]] degli alberi; ma ciò non sarebbe per la nostra
+audacia o gaiezza, bensì per la nostra mancanza di audacia e di gaiezza.
+Il noioso proseguirebbe, audace e gaio, e troverebbe i fili
+d'erba splendidi come le spade di un esercito.  Il noioso è più forte
+e più gioioso di noi; egli è un semidio: anzi, è un dio.
+Poiché sono gli dèi a non stancarsi della ripetizione delle cose;
+per loro il calar della notte è sempre nuovo, e l'ultima [[Rose|rosa]] è rossa
+quanto la prima.
+
+Il senso che ogni cosa è poetica è cosa solida e assoluta;
+non è mera questione di fraseologia o di [[Persuasion|persuasione]].  Non è
+soltanto vero, è accertabile.  Si può sfidare gli uomini a negarlo;
+si può sfidare gli uomini a menzionare qualcosa che non sia materia di poesia.
+Ricordo che molto [[Time|tempo]] fa un assennato redattore mi si avvicinò
+con un libro in mano, intitolato «Mr. [[smith|Smith]]», o «La famiglia [[smith|Smith]]»,
+o qualcosa del genere.  Disse: «[[Well|Ecco]], da questo non tirerà fuori nessuna delle
+sue maledette misticherie», o parole di quel tenore.  Sono lieto di dire
+che lo disingannai; ma la vittoria fu troppo ovvia e facile.
+Nella maggior parte dei casi il nome è impoetico, benché il fatto sia poetico.
+Nel caso di [[smith|Smith]], il nome è tanto poetico che dev'essere impresa ardua
+ed eroica per l'uomo tenersi all'altezza di esso.  Il nome di [[smith|Smith]]
+è il nome dell'unico mestiere che perfino i re rispettavano, potrebbe rivendicare
+metà della gloria di quell'arma virumque che tutte le epopee acclamavano.
+Lo spirito della fucina è tanto vicino allo spirito del [[Song|canto]] che si è
+mescolato in un milione di [[Poems|poemi]], e ogni fabbro è un fabbro armonioso.
+
+Perfino i bambini del villaggio sentono che in qualche modo oscuro il [[smith|fabbro]]
+è poetico, come non lo sono il [[grocer|droghiere]] e il calzolaio,
+quando essi banchettano sulle scintille danzanti e sui colpi assordanti
+nella caverna di quella creativa violenza.  Il bruto riposo della [[Nature|Natura]],
+l'astuzia appassionata dell'uomo, il più forte dei metalli terreni,
+il più strano degli elementi terreni, l'indomabile ferro soggiogato
+dal suo solo conquistatore, la [[Wheel|ruota]] e il vomere, la [[Sword|spada]] e
+il maglio a vapore, lo schierarsi degli eserciti e l'intera leggenda delle armi,
+tutte queste cose stanno scritte, in verità brevemente, ma in modo assai leggibile,
+sul biglietto da visita di Mr. [[smith|Smith]].  Eppure i nostri romanzieri chiamano il loro
+[[Hero|eroe]] «Aylmer Valence», che non significa nulla, o «Vernon Raymond»,
+che non significa nulla, quand'è in loro potere dargli
+questo sacro nome di [[smith|Smith]]: questo nome fatto di ferro e di fiamma.
+Sarebbe cosa assai naturale se una certa alterigia, un certo portamento
+del capo, una certa piega del labbro, distinguessero chiunque
+porti il nome di [[smith|Smith]].  Forse è così; me lo auguro.
+Chiunque altro sia parvenu, gli Smith non sono parvenu.
+Dalla più oscura [[Dawn|alba]] della [[history|storia]] questo clan è andato in battaglia;
+i suoi trofei sono ovunque; il suo nome è dappertutto;
+è più antico delle nazioni, e il suo segno è il Martello
+di Thor.  Ma, come pure ho osservato, non è propriamente il caso consueto.
+È abbastanza comune che le cose comuni siano poetiche;
+non è tanto comune che i nomi comuni siano poetici.
+Nella maggior parte dei casi è il nome a costituire l'ostacolo.
+Moltissima gente parla come se questa nostra pretesa, che tutte le cose
+sono poetiche, fosse una mera ingegnosità letteraria, un gioco di parole.
+È vero esattamente il contrario.  È l'idea che alcune cose non siano
+poetiche a essere letteraria, a essere un mero prodotto di parole.
+La parola «casello dei segnali» è impoetica.  Ma la cosa casello dei segnali non è
+impoetica; è un luogo dove gli uomini, in un'agonia di vigilanza,
+accendono fuochi rosso-[[Blood|sangue]] e verde-mare per tener lontani altri uomini dalla [[Death|morte]].
+Questa è la schietta, genuina descrizione di ciò che esso è; la prosa
+subentra soltanto con ciò che esso è chiamato.  La parola «cassetta delle lettere»
+è impoetica.  Ma la cosa cassetta delle lettere non è impoetica;
+è il luogo al quale amici e [[lovers|innamorati]] affidano i loro messaggi,
+consapevoli che, una volta fatto ciò, essi sono sacri,
+e non vanno toccati, non soltanto da altri, ma nemmeno
+(religioso tocco!) da loro stessi.  Quella rossa torretta è uno
+degli ultimi templi.  Imbucare una lettera e sposarsi
+sono tra le poche cose rimaste che siano interamente romantiche;
+poiché, per essere interamente romantica, una cosa dev'essere irrevocabile.
+Riteniamo prosaica una cassetta delle lettere, perché non vi è rima con essa.
+Riteniamo impoetica una cassetta delle lettere, perché non l'abbiamo mai vista
+in una poesia.  Ma l'audace realtà sta interamente dalla parte della poesia.
+Un casello dei segnali è soltanto chiamato casello dei segnali; è una [[house|casa]]
+di vita e di [[Death|morte]].  Una cassetta delle lettere è soltanto chiamata cassetta delle lettere;
+è un santuario di parole umane.  Se ritieni prosaico il nome di
+«[[smith|Smith]]», non è perché sei pratico e assennato;
+è perché sei troppo affetto da raffinatezze letterarie.
+Il nome ti grida poesia.  Se lo pensi altrimenti,
+è perché sei intriso e impregnato di reminiscenze verbali,
+perché ricordi tutto ciò che c'era in Punch o in Comic Cuts
+riguardo a Mr. [[smith|Smith]] ubriaco o a Mr. [[smith|Smith]] soggiogato dalla moglie.
+Tutte queste cose ti furono date poetiche.  È soltanto
+per un lungo ed elaborato processo di sforzo letterario che le
+hai rese prosaiche.
+
+Ora, la prima e più giusta cosa da dire su Rudyard Kipling è che egli ha
+sostenuto una parte brillante nel recuperare così le province perdute della poesia.
+Non si è lasciato intimorire da quell'aria brutalmente materialistica che aderisce
+soltanto alle parole; ha trapassato fino a giungere alla materia romantica e immaginosa
+delle cose stesse.  Ha percepito il significato e la [[philosophy|filosofia]]
+del vapore e dello slang.  Il vapore può essere, se volete, un sudicio sottoprodotto
+della scienza.  Lo slang può essere, se volete, un sudicio sottoprodotto del linguaggio.
+Ma egli almeno è stato fra i pochi che videro la divina paternità di
+queste cose, e seppero che dove c'è fumo c'è [[Fire|fuoco]]: vale a dire,
+che ovunque sia la più sozza delle cose, ivi è anche la più pura.
+Soprattutto, egli ha avuto qualcosa da dire, una precisa visione delle cose da esprimere,
+e ciò significa sempre che un uomo è intrepido e affronta ogni cosa.
+Poiché, dal momento in cui abbiamo una visione dell'universo, lo possediamo.
+
+Ora, il messaggio di Rudyard Kipling, quello su cui egli si è
+davvero concentrato, è la sola cosa per cui valga la pena affannarsi
+in lui o in qualunque altro uomo.  Egli ha spesso scritto
+cattiva poesia, come Wordsworth.  Ha spesso detto sciocchezze,
+come Platone.  Ha spesso ceduto a una mera isteria politica,
+come Gladstone.  Ma nessuno può ragionevolmente [[Doubt|dubitare]] che egli intenda
+in modo costante e sincero dire qualcosa, e la sola questione seria
+è: che cos'è ciò che egli ha tentato di dire?
+Forse il modo migliore per esporlo con equità sarà cominciare
+da quell'elemento su cui più hanno insistito lui stesso
+e i suoi avversari: intendo il suo interesse per il militarismo.
+Ma quando cerchiamo i veri meriti di un uomo è imprudente
+rivolgersi ai suoi nemici, e assai più sciocco rivolgersi a lui stesso.
+
+Ora, Mr. Kipling ha certamente torto nella sua adorazione del militarismo,
+ma i suoi avversari hanno, in generale, torto quanto lui.
+Il male del militarismo non è che esso mostra certi uomini feroci
+e altezzosi ed eccessivamente bellicosi.  Il male del militarismo è che esso
+mostra la maggior parte degli uomini docili e timidi ed eccessivamente pacifici.
+Il soldato di professione acquista sempre più potere man mano che il [[Courage|coraggio]] generale
+di una comunità declina.  Così la guardia pretoriana divenne sempre più
+importante in Roma man mano che Roma divenne sempre più lussuosa e fiacca.
+L'uomo militare acquista il potere civile nella misura in cui il civile
+perde le virtù militari.  E come fu nell'[[Ancient Rome|antica Roma]] così
+è nell'Europa contemporanea.  Non vi fu mai un [[Time|tempo]] in cui le nazioni fossero
+più militariste.  Non vi fu mai un [[Time|tempo]] in cui gli uomini fossero meno coraggiosi.
+Tutte le epoche e tutte le epopee hanno cantato le armi e l'uomo; ma noi abbiamo
+attuato simultaneamente il deterioramento dell'uomo e la fantastica
+perfezione delle armi.  Il militarismo dimostrò la decadenza di Roma,
+e dimostra la decadenza della Prussia.
+
+E inconsapevolmente Mr. Kipling ha provato questo, e l'ha provato mirabilmente.
+Poiché, nella misura in cui la sua opera è compresa seriamente, il mestiere militare
+non emerge affatto come il più importante o attraente.  Non ha
+scritto tanto [[Well|bene]] dei soldati quanto ha scritto dei ferrovieri o dei costruttori di ponti,
+o perfino dei giornalisti.  Il fatto è che ciò che attrae Mr. Kipling
+verso il militarismo non è l'idea del [[Courage|coraggio]], ma l'idea della disciplina.
+Vi era assai più [[Courage|coraggio]] per miglio quadrato nel Medioevo,
+quando nessun [[King|re]] aveva un esercito permanente, ma ogni uomo aveva un arco o una [[Sword|spada]].
+Ma il fascino che l'esercito permanente esercita su Mr. Kipling non è il [[Courage|coraggio]],
+che a stento lo interessa, bensì la disciplina, che è, quando tutto è detto
+e fatto, il suo tema primario.  L'esercito moderno non è un miracolo di [[Courage|coraggio]];
+non ha abbastanza occasioni, a causa della viltà di tutti gli altri.
+Ma è davvero un miracolo di organizzazione, e questo è il vero
+ideale kiplinghiano.  Il soggetto di Kipling non è quel valore che propriamente
+appartiene alla guerra, ma quell'interdipendenza ed efficienza che appartiene
+altrettanto agli ingegneri, o ai marinai, o ai muli, o alle locomotive.
+E così accade che, quando scrive di ingegneri, o di marinai,
+o di muli, o di macchine a vapore, egli scriva al suo meglio.  La vera poesia,
+il «vero [[Romance|Romanzo]]» che Mr. Kipling ha insegnato, è il [[Romance|romanzo]]
+della divisione del lavoro e della disciplina di tutti i mestieri.
+Egli canta le arti della pace assai più esattamente delle arti della guerra.
+E la sua tesi principale è vitale e preziosa.  Ogni cosa è militare
+nel senso che ogni cosa dipende dall'obbedienza.  Non vi è
+angolo perfettamente epicureo; non vi è luogo perfettamente irresponsabile.
+Ovunque gli uomini hanno aperto la strada per noi con sudore e sottomissione.
+Possiamo gettarci in un'amaca in un impeto di divina noncuranza.
+Ma siamo lieti che il fabbricante di reti non abbia fatto l'amaca in un impeto di
+divina noncuranza.  Possiamo saltare sul [[Horse|cavallo]] a dondolo di un [[Child|bambino]] per scherzo.
+Ma siamo lieti che il falegname non ne abbia lasciato le gambe non incollate
+per scherzo.  Ben lungi dall'aver semplicemente predicato che un soldato che pulisce
+la sua arma da fianco vada adorato perché è militare, Kipling al suo meglio
+e più limpido ha predicato che il fornaio che sforna pagnotte e il sarto
+che taglia abiti sono militari quanto chiunque altro.
+
+Devoto a questa moltitudinaria visione del dovere, Mr. Kipling
+è naturalmente un cosmopolita.  Gli càpita di trovare i suoi esempi
+nell'Impero britannico, ma quasi qualunque altro impero
+andrebbe altrettanto [[Well|bene]], o, del resto, qualunque altro paese assai civilizzato.
+Ciò che egli ammira nell'esercito britannico lo troverebbe ancor
+più evidente nell'esercito tedesco; ciò che desidera nella
+polizia britannica lo troverebbe fiorente nella polizia francese.
+L'ideale della disciplina non è la totalità della vita, ma è
+diffuso per tutto il mondo.  E la sua adorazione tende
+a confermare in Mr. Kipling una certa nota di saggezza mondana,
+dell'esperienza del viandante, che è uno dei genuini
+fascini della sua opera migliore.
+
+La grande lacuna nella sua mente è ciò che si può grossolanamente chiamare
+la mancanza di patriottismo: vale a dire, gli manca del tutto
+la facoltà di legarsi a una qualunque causa o comunità
+in modo definitivo e tragico; poiché ogni definitività dev'essere tragica.
+Egli ammira l'Inghilterra, ma non l'[[Love|ama]]; poiché ammiriamo
+le cose con ragioni, ma le [[Love|amiamo]] senza ragioni.
+Egli ammira l'Inghilterra perché è forte, non perché
+è inglese.  Non vi è alcuna asprezza nel dire ciò, poiché, per rendergli
+giustizia, egli lo confessa con la sua consueta pittoresca schiettezza.
+In una poesia assai interessante, egli dice che...
+
+  «Se l'Inghilterra fosse ciò che l'Inghilterra sembra»
+
+...cioè, debole e inefficiente; se l'Inghilterra non fosse ciò che (com'egli crede)
+è, cioè, potente e pratica...
+
+  «Con che sveltezza la molleremmo! Ma non lo è!»
+
+Egli ammette, cioè, che la sua devozione è il risultato di una critica,
+e questo basta ampiamente a collocarla in una categoria del tutto diversa da
+quella del patriottismo dei Boeri, che egli braccò nel Sudafrica.
+Nel parlare dei popoli davvero patriottici, come gli Irlandesi, egli ha
+qualche difficoltà a tenere una stridula irritazione fuori dal suo linguaggio.
+Lo stato d'animo che egli davvero descrive con [[Beauty|bellezza]] e nobiltà è
+lo stato d'animo dell'uomo cosmopolita che ha veduto uomini e città.
+
+  «Per ammirare e per vedere,
+   per contemplar questo mondo così vasto.»
+
+Egli è perfetto maestro di quella lieve [[Melancholy|malinconia]] con cui un uomo
+ripensa all'essere stato cittadino di molte comunità,
+di quella lieve [[Melancholy|malinconia]] con cui un uomo ripensa all'essere stato
+l'[[Lover|amante]] di molte donne.  Egli è il seduttore delle nazioni.
+Ma un uomo può aver imparato molto sulle donne nei flirt,
+e restare tuttavia ignaro del primo [[Love|amore]]; un uomo può aver conosciuto tante
+terre quante [[Ulysses|Ulisse]], e restare tuttavia ignaro del patriottismo.
+
+Mr. Rudyard Kipling ha domandato in un celebre [[Epigram|epigramma]] che cosa possano
+sapere dell'Inghilterra coloro che conoscono solo l'Inghilterra.  È una domanda assai più profonda e acuta
+domandare: «Che cosa possono sapere dell'Inghilterra coloro che conoscono soltanto il mondo?»
+poiché il mondo non include l'Inghilterra più di quanto includa
+la Chiesa.  Nell'istante in cui teniamo profondamente a qualcosa, il mondo, cioè,
+tutti gli altri interessi disparati, diventa nostro nemico.  I cristiani lo mostrarono
+quando parlarono di conservarsi il proprio [[Self|io]] «immacolato dal mondo»;
+ma gli [[lovers|innamorati]] ne parlano altrettanto quando parlano del «mondo [[Well|ben]] perduto».
+Astronomicamente parlando, intendo che l'Inghilterra è situata sul mondo;
+similmente, suppongo che la Chiesa fosse una parte del mondo, e persino
+gli [[lovers|innamorati]] abitanti di quell'orbe.  Ma tutti sentirono una certa [[Truth|verità]]:
+la [[Truth|verità]] che nell'istante in cui [[Love|ami]] qualcosa il mondo diventa tuo nemico.
+Così Mr. Kipling conosce certamente il mondo; è un uomo di mondo,
+con tutta la ristrettezza che appartiene a coloro che sono imprigionati in quel pianeta.
+Egli conosce l'Inghilterra come un intelligente gentiluomo inglese conosce [[Venice|Venezia]].  Vi è
+stato molte volte; vi si è fermato per lunghe visite.
+Ma egli non le appartiene, né appartiene ad alcun luogo; e la prova di ciò è questa,
+che egli pensa all'Inghilterra come a un luogo.  Nell'istante in cui siamo radicati in un luogo,
+il luogo svanisce.  Viviamo come un albero con l'intera forza
+dell'universo.
+
+Il giramondo vive in un mondo più piccolo del contadino.
+Egli respira sempre un'aria di località.  [[London|Londra]] è un luogo,
+da paragonare a Chicago; Chicago è un luogo, da paragonare
+a Timbuctù.  Ma Timbuctù non è un luogo, poiché là, almeno,
+vivono uomini che la considerano l'universo, e respirano, non un'aria
+di località, bensì i venti del mondo.  L'uomo sul piroscafo di lusso
+ha veduto tutte le razze degli uomini, e pensa alle cose
+che dividono gli uomini: dieta, abito, decoro, anelli al naso come in Africa,
+o alle orecchie come in Europa, tinta azzurra fra gli antichi, o tinta
+rossa fra i moderni Britanni.  L'uomo nel campo di cavoli non ha
+veduto proprio nulla; ma pensa alle cose che uniscono gli uomini:
+la fame e i bambini, e la [[Beauty|bellezza]] delle donne, e la promessa o la minaccia
+del cielo.  Mr. Kipling, con tutti i suoi meriti, è il giramondo;
+non ha la pazienza di diventar parte di alcunché.
+Un uomo tanto grande e genuino non va accusato di un cosmopolitismo
+meramente cinico; nondimeno, il suo cosmopolitismo è la sua debolezza.
+Quella debolezza è splendidamente espressa in uno dei suoi più bei [[Poems|poemi]],
+«The Sestina of the Tramp Royal», in cui un uomo dichiara di poter
+sopportare qualunque cosa in fatto di fame o d'orrore, ma non la permanente
+presenza in un solo luogo.  In ciò vi è certamente un pericolo.
+Più una cosa è morta e secca e polverosa, più viaggia in giro;
+la [[Dust|polvere]] è così, e il cardo lanuginoso, e l'Alto Commissario
+nel Sudafrica.  Le cose feconde sono alquanto più pesanti, come i pesanti
+alberi da frutto sul fango gravido del Nilo.  Nell'accalorata pigrizia
+della giovinezza eravamo tutti piuttosto inclini a bisticciare con l'implicazione
+di quel proverbio che dice che una pietra che [[rolling|rotola]] non fa muschio.  Eravamo
+inclini a domandare: «Chi vuol fare muschio, se non le sciocche vecchie signore?»
+Ma con tutto ciò cominciamo ad accorgerci che il proverbio ha ragione.
+La pietra che [[rolling|rotola]] rotola echeggiando di roccia in roccia; ma la pietra
+che [[rolling|rotola]] è morta.  Il muschio è silenzioso perché il muschio è vivo.
+
+La [[Truth|verità]] è che l'esplorazione e l'ingrandimento rimpiccioliscono il mondo.
+Il telegrafo e il battello a vapore rimpiccioliscono il mondo.
+Il telescopio rimpicciolisce il mondo; è soltanto il microscopio
+a ingrandirlo.  Fra non molto il mondo sarà spaccato
+da una guerra tra i telescopisti e i microscopisti.
+I primi studiano le cose grandi e vivono in un mondo piccolo;
+i secondi studiano le cose piccole e vivono in un mondo grande.
+È senza [[Doubt|dubbio]] esaltante sfrecciare in automobile
+intorno alla terra, sentire l'Arabia come un vortice di sabbia o la Cina
+come un lampo di risaie. Ma l'Arabia non è un vortice di sabbia
+e la Cina non è un lampo di risaie. Sono antiche
+civiltà con strane virtù sepolte come tesori.
+Se vogliamo comprenderle non dev'essere da turisti
+o da inquirenti, dev'essere con la lealtà dei bambini e la grande
+pazienza dei poeti.  Conquistare questi luoghi è perderli.
+L'uomo che sta nel proprio orto [[Garden|di casa]], col paese delle fate
+che si apre al cancello, è l'uomo dalle grandi idee.
+La sua mente crea la distanza; l'automobile stupidamente la distrugge.
+I moderni pensano alla terra come a un globo, come a qualcosa attorno a cui si può
+facilmente girare, lo spirito di una maestrina.  Ciò si mostra
+nello strano errore perpetuamente commesso a proposito di Cecil Rhodes.  I suoi nemici
+dicono che egli poteva anche avere grandi idee, ma era un uomo malvagio.
+I suoi amici dicono che poteva anche essere un uomo malvagio, ma certamente
+aveva grandi idee.  La [[Truth|verità]] è che egli non era un uomo essenzialmente malvagio,
+era un uomo di molta gioviosità e di molte buone intenzioni,
+ma un uomo dalle vedute singolarmente piccole.  Non vi è nulla di grande
+nel dipingere di rosso la carta geografica; è un [[Innocent|innocente]] gioco per bambini.
+È altrettanto facile pensare in continenti quanto pensare in
+ciottoli.  La difficoltà subentra quando cerchiamo di conoscere
+la sostanza dell'uno o degli altri.  Le profezie di Rhodes sulla
+resistenza boera sono un mirabile commento su come prosperino
+le «grandi idee» quando non si tratta di pensare
+in continenti ma di comprendere un pugno di uomini a due gambe.
+E sotto tutta questa vasta illusione del pianeta cosmopolita,
+con i suoi imperi e la sua agenzia Reuter, la vita reale dell'uomo
+prosegue occupata con questo albero o quel tempio, con questo raccolto
+o quel [[Song|canto]] conviviale, del tutto incompresa, del tutto intatta.
+Ed essa osserva dal suo splendido parrocchialismo, forse con un sorriso
+di divertimento, la civiltà dell'automobile che procede per la sua trionfante via,
+distanziando il [[Time|tempo]], divorando lo spazio, vedendo tutto e non vedendo nulla,
+rombando infine fino alla conquista del sistema solare,
+solo per trovare il sole plebeo e le [[Stars|stelle]] suburbane.

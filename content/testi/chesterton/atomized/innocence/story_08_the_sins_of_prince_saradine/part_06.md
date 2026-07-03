@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/innocence-(chesterton)">The Innocence of Father Brown</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/innocence/story_08_the_sins_of_prince_saradine/part_05">‹ part 05</a><a class="ex-next" href="/testi/chesterton/atomized/innocence/story_08_the_sins_of_prince_saradine/part_07">part 07 ›</a></div>
@@ -130,3 +132,130 @@ wall just above the bowed and sombre head of the woman.  They saw
 plainly the family likeness that had haunted them in the dead man.
 Then his old shoulders began to heave and shake a little,
 as if he were choking, but his face did not alter.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/innocence-(chesterton)">The Innocence of Father Brown</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/innocence/story_08_the_sins_of_prince_saradine/part_05">‹ part 05</a><a class="ex-next" href="/testi/chesterton/atomized/innocence/story_08_the_sins_of_prince_saradine/part_07">part 07 ›</a></div>
+</nav>
+
+# [[innocence]] — I peccati del principe Saradine (parte 6)
+
+Quasi nell'istante in cui ebbe il pensiero il risuonare degli stocchi si affrettò
+in uno scroscio, le braccia del principe schizzarono in alto, e la punta gli spuntò dietro
+tra le scapole. Egli cadde con un gran movimento vorticoso,
+quasi come chi fa la mezza [[Wheel|ruota]] di un carro dei ragazzi. La [[Sword|spada]] volò
+dalla sua mano come una stella cadente, e s'immerse nel lontano [[River|fiume]].
+Ed egli stesso sprofondò con un cedimento così scuotente la terra che spezzò un grande
+[[Rose|rosaio]] col suo [[Body|corpo]] e sollevò nel cielo una nube di terra rossa —
+come il fumo di un qualche sacrificio pagano. Il siciliano aveva fatto
+offerta di [[Blood|sangue]] al [[Ghost|fantasma]] di suo padre.
+
+Il prete fu all'istante in ginocchio accanto al cadavere; ma solo per accertarsi
+fin troppo bene che fosse un cadavere. Mentre stava ancora tentando alcune ultime disperate
+prove udì per la prima [[Time|volta]] delle voci da più su lungo il [[River|fiume]],
+e vide una barca della polizia sfrecciare fino all'approdo, con agenti
+e altre persone importanti, compreso l'eccitato Paul. Il piccolo
+prete si [[Rose|levò]] con una smorfia decisamente dubbiosa.
+
+«Ora, perché diamine», mormorò, «perché diamine non poteva venire prima?»
+
+Circa sette minuti dopo l'isola era occupata da un'invasione di cittadini
+e poliziotti, e questi ultimi avevano messo le mani sul duellante vittorioso,
+ricordandogli ritualmente che qualsiasi cosa avesse detto poteva essere usata contro di lui.
+
+«Non dirò nulla», disse il monomaniaco, con un volto meraviglioso
+e pacifico. «Non dirò mai più nulla.
+Sono molto felice, e desidero soltanto essere impiccato.»
+
+Poi chiuse la bocca mentre lo conducevano via, ed è la strana
+ma certa [[Truth|verità]] che egli non la riaprì mai più in questo mondo,
+tranne per dire «Colpevole» al processo.
+
+[[Father Brown]] aveva fissato il [[Garden|giardino]] improvvisamente affollato, l'arresto
+dell'uomo di [[Blood|sangue]], il trasporto del cadavere dopo il suo esame
+da parte del medico, piuttosto come si guarda il dissolversi di un qualche brutto sogno;
+era immobile, come un uomo in un [[nightmare|incubo]]. Diede il proprio nome e
+indirizzo come testimone, ma declinò l'offerta di una barca per la riva,
+e rimase [[Alone|solo]] nel [[Garden|giardino]] dell'isola, fissando il [[Rose|rosaio]] spezzato
+e l'intero verde teatro di quella rapida e inspiegabile [[Tragedy|tragedia]].
+La luce morì lungo il [[River|fiume]]; la nebbia si [[Rose|levò]] dagli argini paludosi;
+alcuni [[Birds|uccelli]] attardati svolazzarono a scatti attraverso.
+
+Conficcata ostinatamente nel suo subconscio (che era insolitamente
+vivace) c'era una indicibile certezza che vi fosse qualcosa
+ancora inspiegato. Questa sensazione che gli si era aggrappata tutto il giorno non
+poteva essere pienamente spiegata dalla sua fantasia del «paese degli specchi».
+In qualche modo non aveva visto la storia vera, ma un qualche gioco o [[Masque|mascherata]].
+Eppure la gente non viene impiccata né trafitta attraverso il [[Body|corpo]] per amore
+di una sciarada.
+
+Mentre sedeva sui gradini dell'approdo a rimuginare, si accorse
+della snella, scura striscia di una vela che scendeva silenziosa lungo il rilucente [[River|fiume]],
+e balzò in piedi con un tale riflusso di emozione che per poco non pianse.
+
+«[[Flambeau]]!» gridò, e scosse l'amico per entrambe le mani
+più e più volte, con gran stupore di quello sportivo,
+mentre veniva a riva con la sua attrezzatura da pesca. «[[Flambeau]]», disse,
+«dunque non sei stato ucciso?»
+
+«Ucciso!» ripeté il pescatore con gran stupore.
+«E perché mai avrei dovuto essere ucciso?»
+
+«Oh, perché quasi tutti gli altri lo sono», disse il suo compagno piuttosto sconvolto.
+«Saradine è stato assassinato, e Antonelli vuole essere impiccato, e sua
+madre è svenuta, e io, per uno, non so se sono in questo
+mondo o nell'altro. Ma, grazie a Dio, tu sei nel medesimo.»
+E prese il braccio dello sconcertato [[Flambeau]].
+
+Mentre si allontanavano dall'approdo giunsero sotto
+le gronde della bassa [[house|casa]] di bambù, e guardarono dentro attraverso una
+delle finestre, come avevano fatto al loro primo arrivo.
+Contemplarono un interno illuminato da una lampada [[Well|ben]] atto ad arrestare i loro occhi.
+Il tavolo nella lunga sala da pranzo era stato apparecchiato per la cena quando
+il distruttore di Saradine era caduto come un fulmine di tempesta sull'isola.
+E la cena era ora in placido corso, poiché Mrs. Anthony sedeva
+alquanto imbronciata ai piedi del tavolo, mentre a capotavola
+c'era Mr. Paul, il maggiordomo maggiore, che mangiava e beveva del migliore,
+i suoi occhi cisposi e bluastri che sporgevano stranamente dal volto, il suo scarno
+sembiante imperscrutabile, ma per nulla privo di soddisfazione.
+
+Con un gesto di poderosa impazienza, [[Flambeau]] scosse la [[Window|finestra]],
+la spalancò a forza, e ficcò una testa indignata nella stanza illuminata dalla lampada.
+
+«[[Well|Ebbene]]», gridò. «Posso capire che possiate aver bisogno di qualche rinfresco,
+ma rubare davvero la cena del vostro padrone mentre egli giace assassinato
+nel [[Garden|giardino]]…»
+
+«Ho rubato moltissime cose in una lunga e piacevole vita»,
+replicò placidamente lo strano vecchio gentiluomo; «questa cena è una
+delle poche cose che non ho rubato. Questa cena e questa [[house|casa]]
+e questo [[Garden|giardino]] guarda caso appartengono a me.»
+
+Un pensiero balenò sul volto di [[Flambeau]]. «Volete dire»,
+cominciò, «che il testamento del principe Saradine…»
+
+«Io sono il principe Saradine», disse il vecchio, sgranocchiando una mandorla salata.
+
+[[Father Brown]], che stava guardando gli [[Birds|uccelli]] là fuori, sobbalzò come se gli avessero sparato,
+e ficcò dentro la [[Window|finestra]] una faccia pallida come una rapa.
+
+«Voi siete che cosa?» ripeté con voce stridula.
+
+«Paul, principe Saradine, à vos ordres», disse il venerabile personaggio
+cortesemente, sollevando un bicchiere di sherry. «Vivo qui assai quietamente,
+essendo un tipo casalingo; e per amor di modestia
+mi faccio chiamare Mr. Paul, per distinguermi dal mio sventurato
+fratello Mr. Stephen. È morto, sento dire, di recente — nel [[Garden|giardino]].
+Naturalmente, non è colpa mia se dei nemici lo inseguono fin qui.
+È dovuto alla deplorevole irregolarità della sua vita.
+Non era un carattere casalingo.»
+
+Ricadde nel [[Silence|silenzio]], e continuò a fissare la parete
+di fronte proprio al di sopra del capo chino e cupo della donna. Videro
+chiaramente la somiglianza di famiglia che li aveva perseguitati nel morto.
+Poi le sue vecchie spalle cominciarono a sollevarsi e a scuotersi un poco,
+come se stesse soffocando, ma il suo volto non mutò.

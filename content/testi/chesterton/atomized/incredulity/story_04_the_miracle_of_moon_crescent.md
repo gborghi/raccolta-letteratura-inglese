@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/incredulity-(chesterton)">Incredulity</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/incredulity/story_03_the_oracle_of_the_dog">‹ Story 03 The Oracle of the Dog</a><a class="ex-next" href="/testi/chesterton/atomized/incredulity/story_05_the_curse_of_the_golden_cross">Story 05 The Curse of the Golden Cross ›</a></div>
@@ -1034,3 +1036,640 @@ to pray for all men, even for a man like--`
 
 `Yes,' assented [[Father Brown]], `it's my business to pray for all men,
 even for a man like Warren Wynd.'
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/incredulity-(chesterton)">Incredulity</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/incredulity/story_03_the_oracle_of_the_dog">‹ Story 03 The Oracle of the Dog</a><a class="ex-next" href="/testi/chesterton/atomized/incredulity/story_05_the_curse_of_the_golden_cross">Story 05 The Curse of the Golden Cross ›</a></div>
+</nav>
+
+QUATTRO: Il miracolo di [[Moon]] Crescent
+
+[[Moon|MOON]] CRESCENT era destinato, in un certo senso, a essere romantico quanto il suo nome;
+e le cose che vi accaddero furono, a modo loro, abbastanza romantiche.
+Almeno era stato l'espressione di quel genuino elemento
+di sentimento — storico e quasi eroico — che riesce
+a sopravvivere fianco a fianco con il mercantilismo nelle città più antiche
+della costa orientale d'[[America]]. In origine era una curva
+di architettura classica che davvero rievocava quell'atmosfera del
+Settecento in cui uomini come Washington e Jefferson
+sembravano tanto più repubblicani quanto più erano aristocratici.
+I viaggiatori, messi di fronte alla ricorrente domanda di che cosa pensassero
+della nostra [[City|città]], erano ritenuti specialmente responsabili di ciò che
+pensavano del nostro [[Moon]] Crescent. Gli stessi contrasti che confondono
+la sua armonia originaria erano caratteristici della sua [[Survival|sopravvivenza]].
+A un'estremità, o corno, della mezzaluna le ultime finestre
+davano su un recinto simile a una striscia del parco di un gentiluomo,
+con alberi e siepi formali come un [[Garden|giardino]] alla [[Queen]] Anne.
+Ma subito dietro l'angolo, le altre finestre, perfino
+delle medesime stanze, o piuttosto «appartamenti», si affacciavano sul muro cieco
+e disadorno di un enorme magazzino annesso a qualche brutta industria.
+Gli appartamenti di Moon Crescent stessi, a quel capo, erano stati rimodellati
+sul monotono schema di un albergo americano, e si innalzavano fino a
+un'altezza che, pur essendo inferiore al colossale magazzino, sarebbe
+stata chiamata un grattacielo a Londra. Ma il colonnato che correva
+lungo tutta la facciata sulla strada aveva una solennità grigia e scolorita
+dalle intemperie, tale da suggerire che i fantasmi dei Padri
+della Repubblica potessero ancora passeggiarvi avanti e indietro.
+L'interno delle stanze, tuttavia, era lindo e nuovo quanto potevano renderlo
+gli ultimi arredi newyorkesi, specialmente all'estremità settentrionale,
+tra il lindo giardino e il muro cieco del magazzino.
+Erano un sistema di appartamentini piccolissimi, come diremmo noi in Inghilterra,
+ciascuno composto di un salotto, una camera da letto e un bagno,
+identici come le cento cellette di un alveare. In uno di essi
+il celebre Warren Wynd sedeva alla sua scrivania a smistare lettere
+e a diramare ordini con mirabile rapidità ed esattezza.
+Non lo si poteva paragonare che a un ordinato turbine.
+
+Warren Wynd era un uomo piccolissimo, dai radi capelli grigi
+e dalla barba a punta, apparentemente fragile ma di ardente attività.
+Aveva occhi assai straordinari, più luminosi delle stelle e più forti
+delle calamite, che nessuno di quanti li avevano visti poteva
+facilmente dimenticare. E in effetti, nel suo lavoro di riformatore e regolatore
+di molte opere buone, aveva mostrato per lo meno di avere un paio
+di occhi in testa. Si raccontavano ogni sorta di storie e perfino di leggende
+sulla miracolosa rapidità con cui sapeva
+formulare un giudizio fondato, specialmente sul carattere umano.
+Si diceva che avesse scelto la moglie, che lavorò con lui così a lungo
+in modo così caritatevole, individuandola in tutto un reggimento
+di donne in uniforme che sfilavano a qualche celebrazione ufficiale,
+alcuni dicevano delle Girl Guides e altri della Polizia Femminile.
+Un'altra storia si narrava di come tre vagabondi, indistinguibili
+l'uno dall'altro nella comune sozzura e nei comuni stracci,
+si fossero presentati davanti a lui a chiedere l'elemosina.
+Senza un attimo di esitazione ne aveva mandato uno a un
+particolare ospedale dedicato a un certo disturbo nervoso,
+aveva raccomandato il secondo a un istituto per alcolizzati, e aveva assunto
+il terzo, con un lauto stipendio, come proprio domestico privato,
+posizione che quello ricoprì con successo per anni a venire.
+C'erano, naturalmente, gli inevitabili aneddoti sulle sue pronte
+critiche e sulle sue secche battute quando veniva a contatto
+con Roosevelt, con Henry Ford, e con la signora Asquith
+e con tutte le altre persone con cui un uomo pubblico americano deve
+avere un colloquio storico, non fosse che sui giornali.
+Certamente non era tipo da lasciarsi intimidire da simili personaggi;
+e nel momento qui in questione egli proseguiva con grande calma
+il suo centrifugo turbinare di carte, benché l'uomo che gli stava di fronte
+fosse un personaggio di importanza quasi pari alla sua.
+
+Silas T. Vandam, il milionario e magnate del petrolio, era un uomo asciutto
+dal lungo volto giallastro e dai capelli nero-bluastri, colori che risultavano
+tanto meno cospicui quanto in qualche modo più sinistri perché il suo volto
+e la sua figura si stagliavano scuri contro la finestra e il bianco muro del magazzino
+là fuori; era abbottonato ben stretto in un elegante soprabito
+con bordi di astrakan. Il volto ansioso e gli occhi brillanti di Wynd,
+invece, erano nella piena luce dell'altra finestra, quella che
+dava sul giardinetto, poiché la sua sedia e la sua scrivania le stavano di fronte;
+e benché il volto fosse assorto, non sembrava indebitamente assorto
+a proposito del milionario. Il valletto, ossia il domestico personale di Wynd, un uomo grande
+e vigoroso dai capelli biondi e lisci, stava in piedi dietro la scrivania del padrone
+reggendo un mazzo di lettere; e il segretario privato di Wynd, un giovane lindo, dai
+capelli rossi e dal volto acuto, aveva già la mano sulla maniglia della porta,
+come indovinando qualche intenzione o obbedendo a qualche gesto del suo datore di lavoro.
+La stanza non era soltanto linda, ma austera fino al punto di parere vuota;
+poiché Wynd, con la sua caratteristica meticolosità, aveva affittato l'intero
+piano di sopra e l'aveva trasformato in un soppalco o ripostiglio, dove tutte le sue
+altre carte e cose erano ammucchiate in casse e balle legate con corde.
+
+«Dia queste all'impiegato di piano, Wilson», disse Wynd al domestico
+che reggeva le lettere, «e poi mi porti l'opuscolo sui
+Night Clubs di Minneapolis; lo troverà nel fascio contrassegnato con la «G».
+Mi servirà tra mezz'ora, ma non mi disturbi fino allora.
+[[Well|Ebbene]], signor Vandam, credo che la sua proposta suoni molto promettente;
+ma non posso darle una risposta definitiva finché non avrò visto la relazione.
+Dovrebbe arrivarmi domani pomeriggio, e le telefonerò subito.
+Mi spiace di non poter dire nulla di più preciso per il momento.»
+
+Il signor Vandam parve sentire che questo somigliava a un cortese congedo;
+e il suo volto giallastro e saturnino lasciava intendere che vi trovava una certa ironia.
+
+«Bene, suppongo che debba andare», disse.
+
+«Molto gentile da parte sua a essere passato, signor Vandam», disse Wynd, cortese;
+«mi scuserà se non l'accompagno fuori, ma ho qui una cosa che
+devo sistemare all'istante. Fenner», aggiunse rivolto al segretario,
+«accompagni il signor Vandam alla sua automobile, e non tornare per mezz'ora.
+Ho qui una cosa che voglio risolvere da solo;
+dopo di che avrò bisogno di te.»
+
+I tre uomini uscirono insieme nel corridoio, chiudendosi la porta
+alle spalle. Wilson, il grosso domestico, imboccava il corridoio
+in direzione dell'impiegato di piano, mentre gli altri due si muovevano
+nella direzione opposta, verso l'ascensore; giacché l'appartamento di Wynd
+era là in alto, al quattordicesimo piano. Non si erano allontanati d'una
+iarda dalla porta chiusa quando s'accorsero che il corridoio
+era invaso da una figura incedente e persino magnifica.
+L'uomo era altissimo e dalle larghe spalle, e la sua mole appariva
+tanto più cospicua per essere ammantata di bianco, o d'un grigio chiaro
+che gli somigliava, con un panama bianco assai largo e una frangia
+o aureola quasi altrettanto larga di capelli quasi altrettanto bianchi.
+Incastonato in quell'aureola, il suo volto era forte e bello, come quello
+d'un imperatore romano, salvo che v'era qualcosa di più che fanciullesco,
+qualcosa d'un poco puerile, nel fulgore dei suoi occhi
+e nella beatitudine del suo sorriso. «C'è il signor Warren Wynd?» domandò,
+con tono cordiale.
+
+«Il signor Warren Wynd è occupato», disse Fenner; «non deve essere disturbato per
+nessuna ragione. Le dirò che sono il suo segretario e posso riferire qualunque messaggio.»
+
+«Il signor Warren Wynd non riceve né il Papa né le Teste Coronate»,
+disse Vandam, il magnate del petrolio, con acida ironia. «Il signor Warren Wynd
+è terribilmente schizzinoso. Sono entrato là dentro per consegnargli una bazzecola
+di ventimila dollari a certe condizioni, e lui mi ha detto
+di ripassare, come se io fossi un fattorino.»
+
+«È una bella cosa essere un ragazzo», disse lo sconosciuto, «e più bella
+ancora avere una vocazione; e io ho una chiamata che lui non potrà non ascoltare.
+È la chiamata del grande, buon paese laggiù nell'Ovest, dove il vero
+americano si viene forgiando mentre voialtri ve ne state a russare. Ditegli soltanto
+che Art Alboin di Oklahoma [[City]] è venuto a [[convert|convertirlo]].»
+
+«Le ripeto che nessuno può vederlo», disse tagliente il segretario dai capelli rossi.
+«Ha dato ordine di non essere disturbato per mezz'ora.»
+
+«Voialtri dell'Est siete tutti contro il farvi disturbare»,
+disse il gioviale signor Alboin, «ma calcolo che sta montando un gran
+vento laggiù nell'Ovest che vi dovrà pur disturbare.
+Lui sta lì a calcolare quanto denaro deve andare a questa e a quella
+soffocante vecchia religione; ma io le dico che qualunque piano [[Leaves|escluda]]
+il nuovo movimento del Grande Spirito nel Texas e nell'Oklahoma
+esclude la religione dell'avvenire.»
+
+«Oh, li ho già soppesati io codesti culti dell'avvenire», disse il
+milionario, con disprezzo. «Li ho passati al pettine fitto
+e sono rognosi come [[dogs|cani]] gialli. C'era quella donna che si faceva
+chiamare Sophia: avrebbe dovuto chiamarsi Saffira, mi sa.
+Una frode bell'e buona. Fili legati a tutti i tavolini e ai tamburelli.
+Poi c'era la combriccola della Vita Invisibile; dicevano di potersi far dileguare
+a piacere, e si dileguarono davvero, e centomila
+dei miei dollari si dileguarono con loro. Conobbi Giove Gesù laggiù a Denver;
+lo frequentai per settimane intere; ed era soltanto un truffatore volgare.
+Come lo era il [[Prophet|Profeta]] della Patagonia; ci scommetto che è filato a gambe in Patagonia.
+No, ho chiuso con tutta questa roba; d'ora in poi credo solo a ciò che vedo.
+Credo che lo chiamino essere ateo.»
+
+«Mi sa che m'ha frainteso», disse l'uomo dell'Oklahoma,
+quasi con foga. «Mi sa che sono ateo tanto quanto lei.
+Niente roba [[Supernatural|soprannaturale]] o superstiziosa nel nostro movimento;
+soltanto pura scienza. L'unica vera, giusta scienza è la salute,
+e l'unica vera, giusta salute è il respiro.
+Riempitevi i polmoni dell'aria sconfinata della prateria e potreste
+soffiar via nel mare tutte le vostre vecchie città dell'Est.
+Potreste sbuffar via i vostri uomini più grandi come lanugine di cardo.
+Ecco cosa facciamo nel nuovo movimento laggiù a [[Home|casa]]: respiriamo.
+Non preghiamo; respiriamo.»
+
+«Be', immagino di sì», disse il segretario, con stanchezza. Aveva un volto acuto,
+intelligente, che a stento riusciva a celare la stanchezza; ma aveva
+ascoltato i due monologhi con quell'ammirevole pazienza e cortesia
+(così in contrasto con le leggende d'impazienza e insolenza)
+con cui simili monologhi vengono ascoltati in America.
+
+«Niente di [[Supernatural|soprannaturale]]», proseguì Alboin, «soltanto il grande
+fatto naturale che sta dietro a tutte le fantasie soprannaturali. Che se ne facevano gli Ebrei
+d'un Dio, se non per soffiare nelle narici dell'uomo il soffio della vita?
+Noi ce lo soffiamo da noi, nelle nostre narici, laggiù in Oklahoma.
+Che significa infatti la parola stessa Spirito? Non è che il greco
+per esercizi di respirazione. Vita, progresso, profezia: è tutto respiro.»
+
+«C'è chi direbbe che è tutto [[Wind|vento]]», disse Vandam; «ma sono contento
+che tu ti sia sbarazzato della trovata della divinità, in ogni caso.»
+
+Il volto acuto del segretario, piuttosto pallido contro i capelli rossi,
+tradì un guizzo di qualche strano sentimento, indizio d'un'amarezza segreta.
+
+«Io non sono contento», disse, «sono soltanto certo. A voi pare che piaccia essere atei;
+sicché forse credete semplicemente a ciò che vi piace credere. Ma. Vorrei
+per Dio che ci fosse un Dio; e non c'è. È proprio la mia fortuna.»
+
+Senza un suono né un moto, in quell'istante s'avvidero tutti, con un brivido
+quasi sinistro, che il gruppo fermo davanti alla porta
+di Wynd era silenziosamente cresciuto da tre figure a quattro.
+Da quanto la quarta figura fosse là ritta, nessuno di quei ferventi
+disputanti avrebbe saputo dirlo, ma aveva tutta l'aria di aspettare
+rispettosamente, e persino timidamente, l'occasione di dire
+qualcosa d'urgente. Alla loro sensibilità già scossa, tuttavia, parve
+ch'egli fosse spuntato d'improvviso e in silenzio come un fungo.
+E in effetti somigliava piuttosto a un grosso fungo nero,
+poiché era assai basso e la sua piccola, tozza figura era eclissata
+dal suo grande, nero cappello ecclesiastico; la somiglianza sarebbe stata
+ancor più compiuta se i funghi avessero l'abitudine di portare ombrelli,
+foss'anche d'una specie lisa e sformata.
+
+Fenner, il segretario, provò una curiosa sorpresa in più
+riconoscendo la figura d'un prete; ma quando il prete sollevò
+un volto tondo di sotto il tondo cappello e domandò con candore del signor Warren Wynd,
+gli diede la consueta risposta negativa in modo ancor più brusco di prima.
+Ma il prete non si mosse d'un passo.
+
+«Desidero davvero vedere il signor Wynd», disse.
+«Sembra strano, ma è proprio questo che desidero fare.
+Non voglio parlargli. Voglio soltanto vederlo.
+Voglio soltanto vedere se è là, da poter esser visto.»
+
+«[[Well|Beh]], vi dico che è là e che non lo si può vedere», disse Fenner, con crescente irritazione. «Che intendete quando dite di voler vedere se è là da vedere? Certo che è là. L'abbiamo lasciato tutti lì cinque minuti fa, e da allora siamo rimasti fuori da questa porta.»
+
+«[[Well|Beh]], voglio vedere se sta bene», disse il prete.
+
+«Perché?» domandò il segretario, esasperato. «Perché ho una ragione seria, direi solenne», disse il chierico, con gravità, «per dubitare che stia bene.»
+
+«Oh, Signore!» gridò Vandam, in una specie di furia; «non altre superstizioni.»
+
+«Vedo che dovrò esporre le mie ragioni», osservò il piccolo chierico, con gravità. «Suppongo di non poter pretendere che mi lasciate nemmeno sbirciare dalla fessura di una porta prima che vi abbia raccontato tutta la storia.» Rimase un istante in silenzio, come assorto, e poi riprese senza badare ai volti attoniti che lo circondavano. «Passeggiavo là fuori, lungo la facciata del colonnato, quando vidi un uomo assai cencioso correre a rotta di collo doppiando l'angolo in fondo alla mezzaluna. Venne avanti a gran passi sul marciapiede verso di me, rivelando una figura ossuta e massiccia e un volto che conoscevo. Era il volto di un focoso irlandese che un tempo avevo un poco aiutato; non vi dirò il suo nome. Quando mi scorse barcollò, chiamandomi per nome e dicendo: "Santi del cielo, è [[Father Brown]]; siete l'unico uomo il cui volto potrebbe farmi paura, oggi."
+
+«Capii che intendeva d'aver commesso qualche follia o l'altra, e non credo che il mio volto lo spaventasse granché, perché di lì a poco già me ne parlava. Ed era una faccenda ben strana. Mi chiese se conoscessi Warren Wynd, e risposi di no, benché sapessi che abitava vicino alla cima di questi appartamenti. Disse: "È un uomo che si crede un santo di Dio; ma se sapesse ciò che vado dicendo di lui, dovrebbe esser pronto a impiccarsi." E ripeté più volte, istericamente: "Sì, pronto a impiccarsi." Gli domandai se avesse fatto del male a Wynd, e la sua risposta fu piuttosto singolare. Disse: "Ho preso una [[Pistol|pistola]] e non l'ho caricata né a pallini né a pallottola, ma soltanto con una maledizione." Per quanto potei capire, tutto ciò che aveva fatto era stato scendere in quel vicoletto tra questo edificio e il grande magazzino, con una vecchia [[Pistol|pistola]] caricata a salve, e semplicemente [[Fire|scaricarla]] contro il muro, come se ciò dovesse far crollare l'edificio. "Ma mentre lo facevo", disse, "lo maledissi con la grande maledizione: che la giustizia di Dio lo afferrasse per i capelli e la vendetta dell'inferno per i calcagni, e che fosse dilaniato come Giuda e il mondo non sapesse più di lui."
+
+«Ebbene, non importa ora che altro dissi al povero pazzo; se ne andò un poco rasserenato, e io girai sul retro dell'edificio per ispezionare. E difatti, nel vicoletto ai piedi di questo muro giaceva una pistola arrugginita e antiquata; me ne intendo abbastanza di pistole per sapere che era stata caricata soltanto con un po' di polvere: c'erano i segni neri della polvere e del fumo sul muro, e perfino l'impronta della bocca da fuoco, ma neppure l'ammaccatura d'una pallottola. Non aveva lasciato traccia di distruzione; non aveva lasciato traccia di nulla, tranne quei segni neri e quella nera maledizione che aveva scagliato verso il cielo. Così sono tornato qui a chiedere di questo Warren Wynd e a scoprire se sta bene.»
+
+Penner, il segretario, rise. «Posso risolvervi in un attimo questa difficoltà. Vi assicuro che sta benissimo; l'abbiamo lasciato che scriveva alla sua scrivania appena pochi minuti fa. Era [[Alone|solo]] nel suo appartamento; sta a cento piedi dalla strada, e collocato in modo tale che nessun colpo avrebbe potuto raggiungerlo, anche se il vostro amico non avesse sparato a salve. Non v'è altro ingresso a questo luogo se non questa porta, e noi le siamo rimasti davanti da allora.»
+
+«Ciò nondimeno», disse Father Brown, con gravità, «vorrei dare un'occhiata dentro e vedere.»
+
+«Beh, non potete», ribatté l'altro. «Buon Dio, non vorrete dirmi che date qualche peso alla maledizione.»
+
+«Dimenticate», disse il milionario, con un lieve ghigno, «che l'intero mestiere del reverendo signore sono le benedizioni e le maledizioni. Suvvia, signore, se è stato maledetto all'inferno, perché non lo ribenedite? A che valgono le vostre benedizioni, se non riescono a battere la maledizione d'un monellaccio irlandese?»
+
+«C'è ancora qualcuno che crede a simili cose, oggi?» protestò l'uomo dell'Ovest.
+
+«[[Father Brown]] crede a un buon numero di cose, a quanto pare», disse Vandam, il cui umore [[Suffering|soffriva]] per lo smacco di poco prima e per l'attuale battibecco. «[[Father Brown]] crede che un eremita abbia attraversato un [[River|fiume]] su un coccodrillo evocato dal nulla, e che poi abbia ordinato al coccodrillo di morire, e quello morì sul serio. [[Father Brown]] crede che un qualche beato santo o l'altro sia morto, e che il suo [[Body|corpo]] morto sia stato tramutato in tre corpi morti, da spartirsi fra tre parrocchie tutte accanite nel volersi figurare come la sua [[Home|città natale]]. [[Father Brown]] crede che un santo abbia appeso il proprio mantello a un raggio di sole, e che un altro se ne sia servito come barca per [[Cross|attraversare]] l'Atlantico. [[Father Brown]] crede che il sacro [[donkey|asino]] avesse sei zampe e che la [[house|casa]] di Loreto abbia volato per l'aria. Crede in centinaia di vergini di pietra che ammiccano e lacrimano tutto il giorno. Per lui è cosa da nulla credere che un uomo possa fuggire attraverso il buco della serratura o svanire da una stanza chiusa a chiave. Direi che non fa gran conto delle leggi della [[Nature|natura]].»
+
+«Comunque sia, io devo far conto delle leggi di Warren Wynd», disse il segretario, stancamente, «ed è sua regola che lo si lasci [[Alone|solo]] quando lo comanda. Wilson vi dirà esattamente lo stesso», giacché il corpulento domestico che era stato mandato a prendere l'opuscolo passò placidamente lungo il corridoio proprio mentre egli parlava, recando l'opuscolo, ma oltrepassando serenamente la porta. «Andrà a sedersi sulla panca accanto all'impiegato di piano e si girerà i pollici finché non sarà richiesto; ma non entrerà prima d'allora; e nemmeno io lo farò. Direi che sappiamo entrambi da che parte è imburrato il nostro pane, e ci vorrebbe un bel po' dei santi e degli angeli di Father Brown per farcelo dimenticare.»
+
+«Quanto ai santi e agli angeli...» cominciò il prete.
+
+«Sono tutte sciocchezze», ripeté Fenner. «Non voglio dire nulla di offensivo, ma quel genere di cose può andar benissimo per cripte e chiostri e ogni sorta di luoghi da chiaro di luna. Ma i fantasmi non possono passare attraverso una porta chiusa in un albergo americano.»
+
+«Ma una porta si può aprire, anche in un albergo americano»,
+replicò [[Father Brown|padre Brown]] con pazienza. «E mi pare che la cosa
+più semplice sarebbe aprirla.»
+
+«Sarebbe abbastanza semplice farmi perdere il posto», rispose il segretario,
+«e a Warren Wynd i suoi segretari non piacciono così semplici.
+Né tanto semplici da credere al genere di fiabe a cui pare che
+crediate voi.»
+
+«[[Well|Beh]]», disse il prete con gravità, «è vero abbastanza che io
+credo in un buon numero di cose in cui probabilmente voi non credete. Ma
+ci vorrebbe parecchio tempo per spiegare tutte le cose in cui
+credo, e tutte le ragioni che ho per pensare di aver ragione.
+Ci vorranno all'incirca due secondi per aprire quella porta e provare
+che ho torto.»
+
+Qualcosa in quella frase parve solleticare lo spirito più selvaggio e
+inquieto dell'uomo dell'Ovest.
+
+«Ammetto che mi [[Love|piacerebbe]] provare che avete torto», disse Alboin,
+passando loro davanti a grandi falcate d'un tratto, «e lo farò.»
+
+Spalancò la porta dell'appartamento e guardò dentro.
+La prima occhiata mostrò che la poltrona di Warren Wynd era vuota.
+La seconda occhiata mostrò che era vuota anche la stanza.
+
+Fenner, elettrizzato di energia a sua volta, si precipitò oltre l'altro
+dentro l'appartamento.
+
+«È in camera da letto», disse secco, «per forza.»
+
+Mentre spariva nella camera interna gli altri uomini
+rimasero nella stanza esterna, vuota, a girare lo sguardo intorno.
+La severità e la semplicità dell'arredo, già notate,
+tornarono su di loro come una sfida inflessibile.
+Di certo in quella stanza non c'era modo di nascondere
+un topo, e tanto meno un uomo. Non c'erano tende e,
+cosa rara nelle disposizioni americane, non c'erano armadi.
+Perfino lo scrittoio non era che un semplice tavolo con un cassetto
+poco profondo e un piano inclinato. Le sedie erano scheletri duri e dallo
+schienale alto. Un momento dopo il segretario ricomparve
+sulla porta interna, avendo perlustrato le due stanze di dentro.
+Nei suoi occhi stava fissa una negazione attonita, e la bocca pareva
+muoversi con un distacco meccanico da essa quando disse bruscamente:
+«Non è uscito di qui?»
+
+In qualche modo gli altri non ritennero nemmeno necessario rispondere
+a quella negazione in senso negativo. Le loro menti si erano scontrate
+con qualcosa di simile al muro cieco del magazzino che occhieggiava
+dalla [[Window|finestra]] di fronte, virando a poco a poco dal bianco al grigio
+mentre il crepuscolo scendeva lento con l'avanzare del pomeriggio.
+Vandam attraversò la stanza fino al davanzale della [[Window|finestra]] contro cui si era
+appoggiato mezz'ora prima e guardò fuori dalla [[Window|finestra]] aperta.
+Non c'era né tubo né scala [[Fire|antincendio]], né sporgenza né appiglio d'alcun genere
+sulla parete a strapiombo che precipitava fino alla stradicciola sottostante, e nulla
+c'era sulla pari distesa di muro che si [[Rose|levava]] per molti piani più in alto.
+C'era ancor meno varietà dall'altra parte della strada;
+non c'era proprio nulla se non la tediosa distesa di
+muro imbiancato a calce. Scrutò in basso, come aspettandosi di scorgere
+lo svanito filantropo giacere in un rottame suicida sul selciato.
+Non riuscì a vedere nulla se non un piccolo oggetto scuro che, per quanto rimpicciolito
+dalla distanza, poteva [[Well|ben]] essere la [[Pistol|pistola]] che il prete aveva trovato
+lì per terra. Nel frattempo Fenner si era avvicinato all'altra [[Window|finestra]],
+che dava su una parete altrettanto cieca e inaccessibile,
+ma affacciata su un piccolo parco ornamentale invece che su una via laterale.
+Qui un boschetto interrompeva la vista effettiva del suolo;
+ma gli alberi salivano solo per un breve tratto lungo l'enorme rupe umana.
+Entrambi si voltarono di nuovo verso l'interno e si fronteggiarono nel
+crepuscolo che si addensava, dove gli ultimi bagliori argentei della luce del giorno sui
+lucidi ripiani di scrittoi e tavoli viravano rapidamente al grigio.
+Come se il crepuscolo stesso lo irritasse, Fenner toccò
+l'interruttore e la scena balzò nella nitidezza sorprendente
+della luce elettrica.
+
+«Come avete detto poco fa», disse Vandam cupamente, «non c'è sparo che da
+laggiù potesse colpirlo, anche se ci fosse stato un colpo nell'arma.
+Ma anche se fosse stato colpito da una pallottola non sarebbe scoppiato
+di netto come una bolla di sapone.»
+
+Il segretario, più pallido che mai, gettò un'occhiata irritata sul
+volto biliardo del milionario. «Che cosa vi ha messo in testa
+quelle idee morbose? Chi parla di pallottole e di bolle?
+Perché non dovrebbe essere vivo?»
+
+«Perché no, in effetti?» replicò Vandam con scorrevolezza. «Se mi direte
+dov'è, io vi dirò come ci è arrivato.»
+
+Dopo una pausa il segretario borbottò, piuttosto imbronciato:
+«Immagino che abbiate ragione. Siamo proprio davanti alla cosa
+stessa di cui stavamo parlando. Sarebbe strano se voi
+o io arrivassimo mai a credere che ci fosse qualcosa nel maledire.
+Ma chi avrebbe potuto far del male a Wynd, chiuso qui dentro?»
+
+Il signor Alboin, dell'Oklahoma, era rimasto piuttosto a gambe larghe in mezzo
+alla stanza, con la sua bianca aureola ispida [[Well|non meno]] degli occhi tondi che parevano
+irradiare stupore. A questo punto disse, distrattamente,
+con qualcosa dell'impudenza sconclusionata di un enfant terrible:
+«Non è che vi andasse molto a genio, eh, signor Vandam?»
+
+Il lungo volto giallo del signor Vandam parve allungarsi ancor più mentre
+si faceva più sinistro, ed egli sorrise e rispose con calma:
+«Se si vuol parlare di coincidenze, mi pare foste voi
+a dire che un [[Wind|vento]] dall'Ovest avrebbe spazzato via i nostri
+grandi uomini come pappi di cardo.»
+
+«Lo so, ho detto che l'avrebbe fatto», disse l'uomo dell'Ovest, con candore;
+«ma comunque, come diavolo avrebbe potuto?»
+
+Il silenzio fu rotto da Fenner che disse con una bruschezza che rasentava
+la violenza: «C'è una sola cosa da dire su questa faccenda.
+Semplicemente non è accaduta. Non può essere accaduta.»
+
+«Oh, sì», disse padre Brown dal suo angolo; «è accaduta
+eccome.»
+
+Sobbalzarono tutti; perché la [[Truth|verità]] era che avevano tutti dimenticato
+l'insignificante omino che li aveva in origine indotti
+ad aprire la porta. E il recupero della [[Memory|memoria]] si accompagnò a un brusco
+rovesciamento d'umore; tornò loro alla mente d'un tratto che avevano
+tutti liquidato quell'uomo come un sognatore superstizioso per aver solo accennato
+alla cosa stessa che da allora era accaduta sotto i loro occhi.
+
+«Serpenti!» gridò l'impetuoso uomo dell'Ovest, come chi parla
+prima di potersi trattenere; «e se ci fosse qualcosa
+di vero, dopotutto!»
+
+«Devo confessare», disse Fenner, accigliato verso il tavolo, «che le previsioni di sua reverenza sembrano essere state ben fondate. Non so se abbia qualcos'altro da dirci.»
+
+«Potrebbe forse dirci», intervenne Vandam, sardonico, «che diavolo dovremmo fare adesso.»
+
+Il piccolo prete parve accettare la situazione con modestia, ma anche con concretezza. «L'unica cosa che mi viene in mente», disse, «è anzitutto avvertire le autorità del posto, e poi vedere se ci siano altre tracce del mio uomo, quello che ha sparato con la pistola. È sparito all'altra estremità del Crescent, dove c'è il giardinetto. Là ci sono delle panchine, ed è un luogo prediletto dai vagabondi.»
+
+Le consultazioni dirette con la direzione dell'albergo, che condussero a consultazioni indirette con le autorità di polizia, li occuparono per un tempo considerevole; ed era già calata la notte quando uscirono sotto la lunga, classica curva del colonnato. Il Crescent appariva freddo e vuoto come la luna da cui prendeva nome, e la luna stessa sorgeva luminosa ma spettrale dietro le nere cime degli alberi, mentre svoltavano l'angolo presso il giardinetto pubblico. La notte velava gran parte di ciò che nel luogo era meramente urbano e artificiale, e via via che si fondevano nell'ombra degli alberi provarono la strana sensazione di aver percorso all'improvviso molte centinaia di miglia lontano dalle proprie case. Dopo aver camminato per un poco in silenzio, Alboin, che aveva in sé qualcosa di elementare, esplose di colpo.
+
+«Mi arrendo», gridò; «getto la spugna. Non avrei mai creduto di arrivare a cose simili; ma che si fa quando le cose arrivano a te? Le chiedo scusa, padre Brown; credo proprio che passerò dalla vostra parte, per quel che riguarda lei e le sue favole. D'ora in poi, io sto con le favole. Ma via, lei stesso ha detto, signor Vandam, di essere ateo e di credere soltanto a ciò che vede. Bene, che cosa ha visto? O piuttosto: che cosa non ha visto?»
+
+«Lo so», disse Vandam, e annuì cupo.
+
+«Oh, è in parte tutta questa faccenda della luna e degli alberi che dà ai nervi», disse Fenner ostinato. «Gli alberi hanno sempre un'aria strana al chiaro di luna, con i rami che si contorcono come se strisciassero. Guardate quello là...»
+
+«Sì», disse [[Father Brown|padre Brown]], fermandosi immobile e scrutando la [[Moon|luna]] attraverso un groviglio di alberi. «È un ramo davvero molto strano, lassù.»
+
+Quando riprese a parlare, disse soltanto: «Credevo fosse un ramo spezzato.»
+
+Ma questa [[Time|volta]] c'era nella sua voce un'esitazione che, senza spiegazione, gelò il sangue a chi lo ascoltava. Qualcosa che assomigliava piuttosto a un ramo secco pendeva infatti, in modo floscio, dall'albero che si stagliava scuro contro la [[Moon|luna]]; ma non era un ramo secco. Quando gli si avvicinarono per vedere di che si trattasse, Fenner scattò di nuovo indietro con una bestemmia squillante. Poi accorse di nuovo e allentò una corda dal collo del misero corpicino che penzolava, con i suoi ciuffi cadenti di capelli grigi. In qualche modo seppe che quel [[Body|corpo]] era un [[Body|corpo]] senza vita prima ancora di riuscire a tirarlo giù dall'albero. Una lunghissima matassa di corda era avvolta più e più volte intorno ai rami, e un tratto relativamente breve pendeva dalla biforcazione del ramo fino al [[Body|corpo]]. Un lungo mastello da [[Garden|giardino]] era rotolato un metro o poco più da sotto i piedi, come lo sgabello scalciato via da sotto i piedi di un [[suicide|suicida]].
+
+«Oh, mio Dio!», disse Alboin, in modo che parve tanto una preghiera quanto una bestemmia. «Che cosa aveva detto di lui, quell'uomo?... "Se sapesse, sarebbe pronto a impiccarsi." Non era così che aveva detto, [[Father Brown|padre Brown]]?»
+
+«Sì», disse padre Brown.
+
+«[[Well|Ebbene]]», disse Vandam con voce cava, «non avrei mai creduto di vedere o dire una cosa simile. Ma che cosa si può dire, se non che la maledizione ha funzionato?»
+
+Fenner stava in piedi con le mani a coprirsi il volto; e il prete gli posò una mano sul braccio e disse, con dolcezza: «Gli voleva molto bene?»
+
+Il segretario lasciò cadere le mani, e il suo volto bianco era spettrale sotto la luna.
+
+«Lo odiavo a morte», disse; «e se è morto per una maledizione, poteva ben essere la mia.»
+
+La stretta della mano del prete sul suo braccio si fece più salda; e il prete disse, con una gravità che fino a quel momento non aveva quasi mai mostrato: «Non è stata la sua maledizione; si consoli, la prego.»
+
+La polizia del distretto ebbe non poche difficoltà a trattare con i quattro testimoni coinvolti nel caso. Erano tutti persone rispettabili, e persino attendibili nel senso comune del termine; e uno di loro era un personaggio di notevole potere e importanza: Silas Vandam dell'Oil Trust. Il primo agente di polizia che tentò di esprimere scetticismo sul suo racconto trasse scintille dall'acciaio della mente di quel magnate assai rapidamente, in verità.
+
+«Non venga a parlarmi di attenersi ai fatti», disse il milionario con asprezza. «Io mi sono attenuto a un bel po' di fatti prima ancora che lei nascesse, e qualcuno di quei fatti si è attenuto a me. Le darò i fatti come si deve, se avrà il buon senso di trascriverli correttamente.»
+
+L'agente in questione era giovane e di grado subalterno, e aveva la vaga idea che il milionario fosse troppo influente in politica per essere trattato come un comune cittadino; così passò lui e i suoi compagni a un superiore più flemmatico, un certo ispettore Collins, un uomo brizzolato dal modo di parlare torvamente bonario, come chi è cordiale ma non tollera sciocchezze.
+
+«[[Well|Bene]], [[Well|bene]]», disse, guardando le tre figure davanti a sé con occhi scintillanti, «pare proprio una storia piuttosto buffa, questa.»
+
+Padre Brown era già andato ad occuparsi delle sue faccende quotidiane; ma Silas Vandam aveva sospeso perfino i giganteschi affari dei mercati per un'oretta o giù di lì, per testimoniare la sua straordinaria esperienza. L'attività di Fenner come segretario era in un certo senso cessata con la vita del suo datore di lavoro; e il grande Art Alboin, non avendo alcun affare né a New York né altrove, tranne la diffusione della religione del Soffio della Vita, ovvero del Grande Spirito, non aveva in quel momento nulla che lo distogliesse dalla vicenda immediata. Così se ne stavano schierati in fila nell'ufficio dell'ispettore, pronti a confermarsi a vicenda.
+
+«Allora, è meglio che le dica subito, tanto per cominciare», disse l'ispettore allegramente, «che non serve a niente venire da me con storie di miracoli. Io sono un uomo pratico e un poliziotto, e quella roba lì va benissimo per i preti e i pastori. Questo vostro prete pare avervi messo tutti in agitazione con non so quale storia di una morte spaventosa e di un castigo divino; ma io ho intenzione di lasciare completamente da parte lui e la sua religione. Se Wynd è uscito da quella stanza, qualcuno ce l'ha fatto uscire. E se Wynd è stato trovato appeso a quell'albero, qualcuno ce l'ha appeso.»
+
+«Verissimo» disse Fenner; «ma poiché la nostra testimonianza è che nessuno lo fece uscire, la domanda è: come avrebbe potuto qualcuno appenderlo lassù?»
+
+«E come mai qualcuno ha un naso in mezzo alla faccia?» ribatté l'ispettore. «Lui aveva un naso in mezzo alla faccia, e aveva un cappio intorno al collo. Questi sono fatti; e, come dico io, sono un uomo pratico e mi attengo ai fatti. Non può essere stato fatto da un miracolo, dunque deve essere stato fatto da un uomo.»
+
+Alboin era rimasto piuttosto in disparte, sullo sfondo; e in effetti la sua figura massiccia pareva costituire uno sfondo naturale agli uomini più asciutti e più vivaci che gli stavano davanti. La testa canuta era china in una certa astrazione; ma quando l'ispettore pronunciò l'ultima frase, egli la sollevò, scuotendo la sua bianca criniera alla maniera di un leone, con un'aria stordita eppure ridesta. Avanzò fino al centro del gruppo, e tutti ebbero la vaga sensazione che fosse persino più imponente di prima. Fin troppo facilmente lo avevano preso per uno sciocco o un ciarlatano; ma non aveva tutti i torti quando diceva che c'era in lui una certa profondità di polmoni e di vita, come un vento di ponente accumulato nella sua forza, che un giorno o l'altro avrebbe potuto spazzar via, con un soffio, le cose più leggere.
+
+«Così lei è un uomo pratico, [[Mr Collins|signor Collins]]» disse, con una voce insieme molle e greve. «Dev'essere la seconda o la terza volta che, in questa breve conversazione, accenna al fatto di essere un uomo pratico; sicché su questo non posso sbagliarmi. E per chiunque si accingesse a scrivere la sua vita, le sue lettere e i suoi discorsi da tavola, corredati del ritratto all'età di cinque anni, del dagherrotipo di sua nonna e di vedute del vecchio paese natale, è un particolare davvero interessante; e son certo che il suo biografo non mancherà di menzionarlo, insieme al fatto che lei aveva un naso camuso con un foruncolo sopra, ed era così grasso da quasi non poter camminare. E poiché è un uomo pratico, forse potrebbe continuare a esercitarsi finché non abbia riportato in vita Warren Wynd, scoprendo esattamente come un uomo pratico attraversi una porta di tavole massicce. Ma io credo che lei l'abbia intesa male. Lei non è un uomo pratico. Lei è uno scherzo pratico, ecco cos'è. L'Onnipotente si stava prendendo un po' di svago alle nostre spalle quando la ideò.»
+
+Con un caratteristico senso del dramma, veleggiò verso la porta prima che l'attonito ispettore potesse replicare; e nessuna successiva recriminazione poté privarlo di una certa aria di trionfo.
+
+«Credo che lei avesse perfettamente ragione» disse Fenner. «Se quelli sono uomini pratici, datemi i preti.»
+
+Un altro tentativo fu fatto per giungere a una versione ufficiale dell'accaduto, quando le autorità compresero appieno chi fossero i sostenitori della storia, e quali ne fossero le implicazioni. La cosa era già scoppiata sulla stampa nella forma più sensazionalistica, e persino sfacciatamente medianica. Interviste a Vandam sulla sua meravigliosa avventura, articoli su Padre Brown e le sue mistiche intuizioni, indussero presto coloro che si sentono responsabili di guidare il pubblico a desiderare di guidarlo lungo un canale più assennato. Questa volta gli scomodi testimoni furono avvicinati in modo più indiretto e cauto. Fu detto loro, quasi con noncuranza, che il professor Vair era molto interessato a simili esperienze anomale; ed era interessato in modo particolare al loro stesso caso sbalorditivo. Il professor Vair era uno psicologo di grande fama; era noto per avere nutrito un distaccato interesse per la criminologia; fu solo qualche tempo dopo che essi scoprirono ch'egli era in qualche modo legato alla polizia.
+
+Il professor Vair era un gentiluomo cortese, vestito con sobrietà di grigio pallido, con una cravatta di gusto artistico e una barba bionda e appuntita; a chiunque non conoscesse un certo tipo particolare di accademico, aveva l'aria piuttosto di un paesaggista. C'era in lui un'aria non soltanto di cortesia, ma di franchezza.
+
+«Sì, sì, lo so» disse sorridendo; «posso immaginare quel che dovete aver passato. La polizia non brilla certo nelle indagini di natura medianica, non è vero? Naturalmente il caro vecchio Collins diceva di volere soltanto i fatti. Che sciocco abbaglio! In un caso di questo genere noi, con la massima decisione, non vogliamo soltanto i fatti. È persino più essenziale possedere le fantasie.»
+
+«Intende dire» chiese Vandam con gravità «che tutto ciò che noi credevamo fatti erano semplici fantasie?»
+
+«Niente affatto» disse [[The Professor|il professore]]; «intendo soltanto che la polizia è ottusa nel credere di poter tralasciare l'elemento psicologico in queste faccende. Ebbene, s'intende, l'elemento psicologico è tutto in ogni cosa, per quanto si cominci appena adesso a comprenderlo. Cominciamo col prendere l'elemento chiamato personalità. Ora, io avevo già sentito parlare di questo prete, Padre Brown; ed è uno degli uomini più notevoli del nostro tempo. Gli uomini di quella tempra si portano dietro una sorta di atmosfera; e nessuno sa quanto i nervi, e persino i sensi stessi, ne restino influenzati per il momento. La gente viene ipnotizzata... sì, ipnotizzata; perché l'ipnotismo, come ogni altra cosa, è una questione di grado; s'insinua, in misura lieve, in ogni conversazione quotidiana: non è necessariamente condotto da un uomo in abito da sera su un palco, in una sala pubblica. La religione di Padre Brown ha sempre compreso la psicologia delle atmosfere, e sa come rivolgersi a tutto simultaneamente; persino, per esempio, al senso dell'olfatto. Comprende quei curiosi effetti prodotti dalla musica sugli animali e sugli esseri umani; sa...»
+
+«Al diavolo» protestò Fenner, «non penserà mica che egli abbia percorso il corridoio portandosi appresso un organo da chiesa?»
+
+«Sa bene di non doverlo fare» disse il professor Vair ridendo. «Sa come concentrare l'essenza di tutti questi suoni, e visioni, e persino odori spirituali, in pochi gesti misurati; in un'arte, o scuola, di maniere. Saprebbe fare in modo di concentrare a tal punto le vostre menti sul [[Supernatural|soprannaturale]] con la sua mera presenza, che le cose naturali vi sfuggirebbero dalla mente, a destra e a sinistra, inosservate. Ora, sappiate» proseguì, con un ritorno alla lieta assennatezza, «che quanto più la studiamo, tanto più bizzarra si fa l'intera questione della testimonianza umana. Non c'è un uomo su venti che osservi davvero le cose. Non c'è un uomo su cento che le osservi con vera precisione; e certo non uno su cento capace prima di osservare, poi di ricordare, e infine di descrivere. Esperimenti scientifici sono stati condotti più e più volte, a dimostrare che uomini sotto tensione hanno creduto chiusa una porta quando era aperta, o aperta quando era chiusa. Certi uomini hanno discordato sul numero di porte o di finestre in una parete proprio davanti a loro. Hanno sofferto illusioni ottiche in pieno giorno. E hanno fatto tutto questo persino senza l'effetto ipnotico di una personalità; ma qui abbiamo una personalità potentissima e persuasiva, tutta protesa a fissare una sola immagine nelle vostre menti: l'immagine del feroce ribelle irlandese che scuote la pistola verso il cielo e spara quella vana scarica, i cui echi furono i tuoni del firmamento.»
+
+«Professore» esclamò Fenner, «giurerei sul mio letto di morte che quella porta non si è mai aperta.»
+
+«Esperimenti recenti» proseguì [[The Professor|il professore]], con calma, «hanno suggerito che la nostra coscienza non è continua, ma è una successione di impressioni rapidissime, come un cinematografo; è possibile che qualcuno o qualcosa possa, per così dire, insinuarsi dentro o fuori tra una scena e l'altra. Agisce soltanto nell'istante in cui il sipario è calato. Probabilmente le chiacchiere dei prestigiatori e ogni forma di gioco di mano dipendono da ciò che potremmo chiamare questi neri lampi di cecità tra un lampo di visione e l'altro. Ora, questo prete e predicatore di nozioni trascendentali vi aveva riempiti di un'immagine trascendentale: l'immagine del Celta simile a un Titano che scuoteva la torre con la sua maledizione. Probabilmente l'accompagnò con qualche gesto lieve ma imperioso, indirizzando gli occhi e le menti nella direzione dell'ignoto distruttore, laggiù. O forse accadde qualcos'altro, o qualcun altro passò di lì.»
+
+«Wilson, il domestico» grugnì Alboin, «scese lungo il corridoio ad aspettare sulla panca, ma direi che non ci distrasse granché.»
+
+«Non si sa mai quanto» ribatté Vair; «potrebbe essere stato quello, o più probabilmente i vostri occhi che seguivano qualche gesto del prete mentre raccontava la sua storia di magia. Fu in uno di quei neri lampi che il signor Warren Wynd sgusciò fuori dalla sua porta e andò incontro alla morte. È la spiegazione più probabile. È un'illustrazione della nuova scoperta. La mente non è una linea continua, ma piuttosto una linea tratteggiata.»
+
+«Molto tratteggiata» disse Fenner fiaccamente. «Per non dire scombinata.»
+
+«Non crederà davvero» chiese Vair, «che il suo datore di lavoro fosse chiuso in una stanza come in una scatola?»
+
+«È meglio che credere di dover essere chiuso io in una stanza come in una cella imbottita» rispose Fenner. «È di questo che mi lamento nelle sue supposizioni, professore. Sarei disposto a credere in un prete che crede in un miracolo, piuttosto che a non credere che un uomo abbia il diritto di credere in un fatto. Il prete mi dice che un uomo può appellarsi a un Dio di cui non so nulla perché lo vendichi secondo le leggi di una giustizia superiore di cui non so nulla. Non ho altro da dire se non che non ne so nulla. Ma, almeno, se la [[Prayer|preghiera]] e la [[Pistol|pistola]] del povero irlandese potessero essere udite in un mondo più alto, quel mondo più alto potrebbe agire in qualche modo che a noi appare bizzarro. Lei invece mi chiede di non credere ai fatti di questo mondo così come appaiono ai miei cinque sensi. Secondo lei, un'intera processione di irlandesi con gli archibugi potrebbe aver attraversato questa stanza mentre parlavamo, purché avessero cura di posare i piedi sui punti ciechi delle nostre menti. I miracoli di stampo monacale, come materializzare un coccodrillo o appendere un mantello a un raggio di sole, sembrano del tutto assennati in confronto a lei.»
+
+«Oh, be'» disse il professor Vair, piuttosto seccamente, «se è deciso a credere nel suo prete e nel suo irlandese miracoloso, non ho altro da aggiungere. Temo che lei non abbia avuto occasione di studiare la psicologia.»
+
+«No» disse Fenner asciutto; «ma ho avuto occasione di studiare gli psicologi.»
+
+E, inchinandosi cortesemente, condusse la sua delegazione fuori dalla stanza e non parlò finché non fu in strada; allora si rivolse a loro in modo piuttosto esplosivo.
+
+«Pazzi furiosi!» gridò Fenner infuriato. «Che diavolo credono che accadrà al mondo se nessuno sa più se ha visto qualcosa oppure no? Vorrei avergli fatto saltare la sciocca testa con una cartuccia a salve, e poi spiegargli che l'ho fatto in un lampo di cecità. Il miracolo di [[Father Brown]] sarà miracoloso o no, ma lui disse che sarebbe accaduto, e accadde. Tutto ciò che quei maledetti fissati sanno fare è vedere accadere una cosa e poi dire che non è accaduta. Sentite, credo che dobbiamo al padre di testimoniare la sua piccola dimostrazione. Siamo tutti uomini sani, solidi, che non hanno mai creduto a nulla. Non eravamo ubriachi. Non eravamo devoti. Accadde semplicemente proprio come aveva detto.»
+
+«Sono pienamente d'accordo» disse il milionario. «Potrebbe essere l'inizio di cose grandiose sul piano spirituale; ma comunque sia, l'uomo che è lui stesso del ramo spirituale, [[Father Brown]], ha di certo segnato un punto in tutta questa faccenda.»
+
+Pochi giorni dopo [[Father Brown]] ricevette un biglietto assai cortese firmato Silas T. Vandam, che gli chiedeva se volesse presentarsi a un'ora stabilita nell'appartamento che era stato teatro della scomparsa, allo scopo di prendere provvedimenti per la constatazione di quel prodigioso avvenimento. L'avvenimento stesso aveva già cominciato a esplodere sui giornali, ed era ripreso ovunque dagli entusiasti dell'occultismo. [[Father Brown]] vide i manifesti sgargianti che recavano la scritta «Suicidio dell'uomo scomparso» e «La maledizione di un uomo impicca il filantropo», mentre si dirigeva verso [[Moon|Mezzaluna]] Crescent e saliva i gradini in direzione dell'ascensore. Trovò il piccolo gruppo pressappoco come lo aveva lasciato, Vandam, Alboin e il segretario; ma vi era un rispetto interamente nuovo, e persino una riverenza, nel loro tono verso di lui. Erano in piedi accanto alla scrivania di Wynd, sulla quale giaceva un grande foglio e l'occorrente per scrivere; si voltarono per salutarlo.
+
+«Padre Brown» disse il portavoce, che era l'uomo dell'Ovest dai capelli bianchi, alquanto rinsavito dalla propria responsabilità, «l'abbiamo pregata di venire qui anzitutto per offrirle le nostre scuse e i nostri ringraziamenti. Riconosciamo che fu lei a individuare fin dal principio la manifestazione spirituale. Eravamo scettici dalla dura scorza, tutti quanti; ma ora comprendiamo che un uomo deve spezzare quella scorza per giungere alle grandi cose che stanno dietro il mondo. Lei rappresenta quelle cose; lei rappresenta la spiegazione sovrannaturale delle cose; e dobbiamo rendergliene merito. E in secondo luogo, sentiamo che questo documento non sarebbe completo senza la sua firma. Stiamo notificando i fatti esatti alla Society for Psychical Research, perché i resoconti dei giornali non sono quel che si direbbe esatti. Abbiamo dichiarato come la maledizione fu pronunciata in strada; come l'uomo fu sigillato qui dentro, in una stanza come in una scatola; come la maledizione lo dissolse dritto nell'aria sottile, e in qualche modo inconcepibile lo materializzò come un [[suicide|suicida]] issato su una forca. È tutto quel che possiamo dirne; ma è tutto ciò che sappiamo, e abbiamo visto con i nostri occhi. E poiché lei fu il primo a credere nel miracolo, sentiamo tutti che dovrebbe essere il primo a firmare.»
+
+«No, davvero» disse padre Brown, imbarazzato.
+«Non credo che mi andrebbe di farlo.»
+
+«Vuol dire che preferirebbe non firmare per primo?»
+
+«Voglio dire che preferirei non firmare affatto» disse [[Father Brown]], con modestia.
+«Vede, non sta troppo bene, per un uomo nella mia posizione,
+scherzare sui miracoli.»
+
+«Ma è stato lei a dire che era un miracolo» disse Alboin, fissandolo.
+
+«Mi dispiace tanto» disse padre Brown; «temo che ci sia
+qualche equivoco. Non credo di aver mai detto che fosse un miracolo.
+Ho detto soltanto che poteva accadere. Siete stati voi a dire che
+non poteva accadere, perché sarebbe stato un miracolo se fosse accaduto.
+E poi è accaduto. E allora avete detto che era un miracolo.
+Ma io non ho mai detto una parola sui miracoli o sulla [[Magic|magia]], o su qualcosa
+del genere, dall'inizio alla fine.»
+
+«Ma credevo che lei credesse nei miracoli» proruppe il segretario.
+
+«Sì» rispose [[Father Brown]], «credo nei miracoli. Credo nelle tigri
+mangiatrici d'uomini, ma non le vedo scorrazzare dappertutto.
+Se voglio dei miracoli, so dove trovarli.»
+
+«Non riesco a capire come possa prendere questa posizione, [[Father Brown]]»
+disse Vandam, con serietà. «Sembra così gretta; e lei non
+mi pare un uomo gretto, per quanto sia un prete. Non capisce,
+un miracolo come questo manderebbe tutto il materialismo a gambe all'aria?
+Direbbe al mondo intero, a caratteri cubitali, che le potenze
+spirituali possono agire e agiscono davvero. Renderebbe alla religione
+un servizio quale nessun prete le ha mai reso finora.»
+
+Il sacerdote si era irrigidito un poco e pareva rivestito, in qualche strano modo,
+di una dignità inconsapevole e impersonale, nonostante la sua
+figura tozza. «[[Well|Ebbene]]» disse, «non vorrà suggerirmi di servire
+la religione con quella che io so essere una menzogna? Non so con precisione che cosa
+intenda con quella frase; e, per essere del tutto sincero, non sono sicuro che lo sappia lei.
+Mentire può essere servire la religione; di certo non è servire Dio.
+E poiché insiste tanto ossessivamente su ciò in cui credo,
+non sarebbe bene che lei avesse una qualche idea di che cosa si tratti?»
+
+«Non credo di capire bene» osservò il milionario, incuriosito.
+
+«Non credo che lei capisca» disse padre Brown, con semplicità.
+«Lei dice che questa cosa è stata fatta da potenze spirituali.
+Quali potenze spirituali? Non penserà mica che i santi angeli
+l'abbiano preso e appeso a un albero del [[Garden|giardino]], vero? E quanto
+agli angeli non santi... no, no, no. Gli uomini che hanno fatto questo hanno commesso una
+cosa malvagia, ma non sono andati oltre la loro stessa malvagità;
+non erano abbastanza malvagi da trattare con potenze spirituali.
+Qualcosa di satanismo la so, Dio mi perdoni; sono stato costretto
+a saperla. So che cos'è, che cosa in pratica è sempre.
+È superbo ed è subdolo. Ama sentirsi superiore; ama
+inorridire l'[[Innocent|innocente]] con cose comprese a metà, far venire
+la pelle d'oca ai bambini. Ecco perché è così ghiotto di misteri
+e iniziazioni e società segrete e tutto il resto.
+I suoi occhi sono rivolti all'interno, e per quanto grande e [[Grave|solenne]]
+possa apparire, nasconde sempre un piccolo, folle sorriso.»
+Rabbrividì all'improvviso, come colto da una gelida corrente d'aria.
+«Non pensate a loro; non hanno nulla a che vedere con questo,
+credetemi. Pensate forse che quel povero, sfrenato irlandese,
+che è corso urlando giù per la strada, che ne ha spiattellato metà
+quando ha visto per la prima volta la mia faccia, ed è fuggito per paura di spiattellarne
+ancora, pensate forse che Satana confidi a lui qualche segreto?
+Ammetto che abbia preso parte a un complotto, probabilmente a un complotto con altri due
+uomini peggiori di lui; ma nonostante tutto, era soltanto
+in una collera senza fine quando è corso giù per il vicolo e ha scaricato
+la pistola e la sua maledizione.»
+
+«Ma che diavolo significa tutto questo?» domandò Vandam.
+«Scaricare una pistola giocattolo e una maledizione da due soldi non poteva fare ciò che è stato fatto,
+se non per miracolo. Non poteva far sparire Wynd come una fata.
+Non poteva farlo riapparire a un quarto di miglio di distanza con una corda
+al collo.»
+
+«No» disse [[Father Brown]] bruscamente; «ma che cosa poteva fare?»
+
+«E continuo a non seguirla» disse il milionario, gravemente.
+
+«Dico, che cosa poteva fare?» ripeté il sacerdote; mostrando, per la
+prima volta, una sorta di animazione che rasentava l'irritazione.
+«Voi continuate a ripetere che uno sparo a salve di [[Pistol|pistola]] non poteva
+fare questo e non poteva fare quello; che, se non c'era altro,
+l'omicidio non poteva accadere o il miracolo non poteva accadere.
+Non vi viene in mente di chiedervi che cosa poteva accadere.
+Che cosa vi accadrebbe se un pazzo scaricasse un'arma da fuoco
+senza capo né coda proprio sotto la vostra [[Window|finestra]]?
+Qual è la primissima cosa che accadrebbe?»
+
+Vandam parve pensieroso. «Immagino che guarderei fuori dalla
+finestra» disse.
+
+«Sì» disse [[Father Brown]], «guardereste fuori dalla finestra.
+È tutta qui la storia. È una storia triste, ma ormai è finita;
+e c'erano circostanze attenuanti.»
+
+«Perché guardare fuori dalla [[Window|finestra]] avrebbe dovuto fargli del male?» chiese Alboin.
+«Non è caduto, altrimenti l'avrebbero trovato nel vicolo.»
+
+«No» disse [[Father Brown]], a voce bassa. «Non è caduto. Si è alzato.»
+
+C'era nella sua voce qualcosa come il gemito di un gong,
+una nota di fatalità, ma per il resto proseguì con fermezza: «Si [[Rose|alzò]],
+ma non su ali; non sulle ali di angeli santi o non santi.
+Si [[Rose|alzò]] all'estremità di una corda, esattamente come l'avete visto nel [[Garden|giardino]];
+un cappio calato sulla sua testa nell'istante in cui la sporgeva dalla [[Window|finestra]].
+Non ricordate Wilson, quel suo grosso domestico, un uomo di
+forza smisurata, mentre Wynd era il più minuto dei gamberetti?
+Non era salito Wilson al piano di sopra per prendere un opuscolo,
+in una stanza piena di bagagli legati con matasse e matasse di corda?
+È stato più visto Wilson da quel giorno? Mi sa di no.»
+
+«Vuol dire» chiese il segretario, «che Wilson lo ha tirato su
+di netto dalla sua stessa [[Window|finestra]] come una trota all'amo?»
+
+«Sì» disse l'altro, «e lo ha calato di nuovo dall'altra [[Window|finestra]]
+giù nel parco, dove il terzo complice lo ha agganciato a un albero.
+Ricordate che il vicolo era sempre deserto; ricordate che il muro
+di fronte era del tutto nudo; ricordate che tutto si concluse in cinque
+minuti dopo che l'irlandese diede il segnale con la [[Pistol|pistola]].
+Erano in tre, naturalmente; e mi [[Wonder|domando]] se
+riuscite tutti a indovinare chi fossero.»
+
+Fissavano tutti e tre la [[Window|finestra]] semplice e quadrata e il muro bianco e nudo che si stendeva al di là; e nessuno rispose.
+
+«A proposito», riprese Padre Brown, «non crediate che vi rimproveri di essere saltati a conclusioni soprannaturali. La ragione è molto semplice, in verità. Giuravate tutti di essere materialisti dalla scorza dura; e a dire il vero eravate tutti in equilibrio sull'orlo stesso della fede... della fede in quasi ogni cosa. Ce ne sono migliaia in bilico su quell'orlo, oggigiorno; ma è un orlo tagliente e scomodo su cui stare seduti. Non troverete pace finché non crederete in qualcosa; ecco perché il signor Vandam ha passato al setaccio le religioni nuove, e il signor Alboin cita la Scrittura a sostegno della sua religione degli esercizi di respirazione, e il signor Fenner brontola contro quel Dio stesso che nega. È lì che vi dividete tutti; è naturale credere nel [[Supernatural|soprannaturale]]. Non sembra mai naturale accettare soltanto le cose naturali. Ma benché bastasse un tocco per farvi cadere nel preternaturale a proposito di questi fatti, questi fatti erano davvero soltanto cose naturali. Non erano soltanto naturali, erano quasi innaturalmente semplici. Suppongo che non ci sia mai stata una storia tanto semplice quanto questa.»
+
+Fenner rise e poi parve perplesso. «Una cosa non la capisco», disse. «Se è stato Wilson, come mai Wynd aveva un uomo simile in rapporti così intimi? Come mai si è fatto uccidere da un uomo che vedeva ogni giorno da anni? Era famoso come conoscitore di uomini.»
+
+[[Father Brown|Padre Brown]] batté l'ombrello a terra con un'enfasi che di rado mostrava.
+
+«Sì», disse, quasi con ferocia; «è proprio così che si è fatto uccidere. È stato ucciso proprio per questo. È stato ucciso per essere un conoscitore di uomini.»
+
+Lo fissarono tutti, ma egli proseguì, quasi come se non fossero presenti.
+
+«Chi mai è un uomo perché debba giudicare gli uomini?», domandò. «Quei tre erano i vagabondi che un giorno gli erano comparsi davanti e furono congedati in fretta, l'uno di qua l'altro di là, verso questo o quel destino; come se per loro non esistesse alcun manto di cortesia, nessuna gradazione di intimità, nessun libero arbitrio nell'[[Friendship|amicizia]]. E vent'anni non hanno esaurito lo sdegno nato da quell'insondabile insulto, nell'istante in cui egli osò riconoscerli a colpo d'occhio.»
+
+«Sì», disse il segretario; «capisco... e capisco come mai voi capiate... ogni sorta di cose.»
+
+«Be', che io sia dannato se ci capisco qualcosa», esclamò rumorosamente l'espansivo gentiluomo dell'Ovest. «Il vostro Wilson e il vostro irlandese mi sembrano proprio un paio di assassini tagliagole che hanno ammazzato il loro benefattore. Non so che farmene di un sicario nero e sanguinario di quella specie, nella mia [[morality|morale]], che sia religione o no.»
+
+«Era un assassino nero e sanguinario, non c'è dubbio», disse Fenner con calma. «Non lo difendo; ma suppongo che sia compito di [[Father Brown|Padre Brown]] pregare per tutti gli uomini, perfino per uno come...»
+
+«Sì», assentì [[Father Brown|Padre Brown]], «è mio compito pregare per tutti gli uomini, perfino per uno come Warren Wynd.»

@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/heret12-(chesterton)">Heretics</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/heret12/story_01_introductory_remarks_on_the_importance_o/part_01">‹ part 01</a><a class="ex-next" href="/testi/chesterton/atomized/heret12/story_01_introductory_remarks_on_the_importance_o/part_03">part 03 ›</a></div>
@@ -125,3 +127,125 @@ at billiards, and abandon golf because he was beaten at golf.
 There is nothing which is so weak for working purposes
 as this enormous importance attached to immediate victory.
 There is nothing that fails like [[success]].
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/heret12-(chesterton)">Heretics</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/heret12/story_01_introductory_remarks_on_the_importance_o/part_01">‹ part 01</a><a class="ex-next" href="/testi/chesterton/atomized/heret12/story_01_introductory_remarks_on_the_importance_o/part_03">part 03 ›</a></div>
+</nav>
+
+# [[heret12]] — Osservazioni introduttive sull'importanza dell'ortodossia (parte 2)
+
+Ora, ai nostri [[Time|tempi]], la [[philosophy|filosofia]] o la religione, la nostra teoria,
+cioè, sulle cose ultime, è stata cacciata,
+più o meno simultaneamente, da due campi che soleva
+occupare. Gli ideali generali dominavano un tempo la letteratura.
+Sono stati cacciati dal grido «l'arte per l'arte».
+Gli ideali generali dominavano un tempo la politica. Sono stati cacciati
+dal grido «efficienza», che si può grossolanamente tradurre
+come «la politica per la politica». Con insistenza, negli ultimi vent'anni,
+gli ideali dell'ordine o della libertà sono venuti scemando nei nostri libri;
+le ambizioni dell'arguzia e dell'eloquenza sono venute scemando nei nostri parlamenti.
+La letteratura è divenuta di proposito meno politica; la politica è
+divenuta di proposito meno letteraria. Le teorie generali sulla relazione
+delle cose sono state così estromesse da entrambe; e siamo in
+condizione di chiederci: «Che cosa abbiamo guadagnato o perduto con questa estromissione?
+La letteratura è migliore, la politica è migliore, per aver scartato
+il moralista e il filosofo?».
+
+Quando tutto ciò che riguarda un popolo per il [[Time|momento]] si fa
+debole e inefficace, esso comincia a parlare di efficienza.
+Così avviene che, quando il [[Body|corpo]] di un uomo è un rottame, egli comincia,
+per la prima [[Time|volta]], a parlare di salute. Gli organismi vigorosi
+parlano non dei loro processi, ma dei loro scopi.
+Non vi può essere prova migliore dell'efficienza fisica di un uomo
+che il fatto ch'egli parli allegramente di un [[Journey|viaggio]] fino alla fine del mondo.
+E non vi può essere prova migliore dell'efficienza pratica
+di una nazione che il fatto ch'essa parli costantemente di un [[Journey|viaggio]]
+fino alla fine del mondo, di un [[Journey|viaggio]] verso il Giorno del Giudizio e
+la Nuova Gerusalemme. Non vi può essere segno più forte di una rozza
+salute materiale della tendenza a inseguire ideali alti e sfrenati;
+è nella prima esuberanza dell'infanzia che piangiamo per avere la [[Moon|luna]].
+Nessuno degli uomini forti delle età forti avrebbe
+capito che cosa intendevate parlando di lavorare per l'efficienza.
+Ildebrando avrebbe detto che lavorava non per l'efficienza,
+ma per la [[Catholic Church|Chiesa cattolica]]. Danton avrebbe detto
+che lavorava non per l'efficienza, ma per la libertà,
+l'uguaglianza e la fraternità. Anche se l'ideale di tali uomini fosse stato
+semplicemente l'ideale di scaraventare un uomo giù per le scale, essi pensavano
+al fine come uomini, non al processo come paralitici.
+Non dicevano: «Sollevando efficientemente la mia gamba destra, usando,
+noterete, i muscoli della coscia e del polpaccio, che sono
+in eccellente ordine, io...» Il loro sentimento era assai diverso.
+Erano talmente colmi della bella visione dell'uomo disteso
+supino ai piedi della scala che, in quell'estasi, il resto
+seguiva in un lampo. In pratica, l'abitudine di generalizzare
+e idealizzare non significava affatto debolezza mondana.
+L'[[Time|epoca]] delle grandi teorie era l'[[Time|epoca]] dei grandi risultati.
+Nell'era del sentimento e delle belle parole, alla fine del
+diciottesimo secolo, gli uomini erano davvero robusti ed efficaci.
+I sentimentali sconfissero Napoleone. I cinici non
+riuscirono a catturare De Wet. Cent'anni fa i nostri affari, nel
+bene o nel male, erano maneggiati trionfalmente da retori.
+Ora i nostri affari sono irrimediabilmente ingarbugliati da uomini forti e silenziosi.
+E proprio come questo ripudio delle grandi parole e delle grandi visioni
+ha generato una razza di piccoli uomini nella politica,
+così ha generato una razza di piccoli uomini nelle arti.
+I nostri politici moderni rivendicano la colossale licenza di Cesare
+e del Superuomo, rivendicano di essere troppo pratici per essere puri
+e troppo patriottici per essere morali; ma il risultato di tutto ciò è che
+una mediocrità è Cancelliere dello Scacchiere. I nostri nuovi filosofi
+artistici reclamano la stessa licenza morale, una [[Freedom|libertà]]
+di sconvolgere cielo e terra con la loro energia; ma il risultato
+di tutto ciò è che una mediocrità è Poeta Laureato. Non dico
+che non vi siano uomini più forti di questi; ma vorrà qualcuno dire
+che vi siano uomini più forti di quegli uomini antichi che erano
+dominati dalla loro [[philosophy|filosofia]] e imbevuti della loro religione?
+Se la servitù sia migliore della [[Freedom|libertà]], lo si può discutere.
+Ma che la loro servitù abbia prodotto più della nostra [[Freedom|libertà]], sarà
+difficile per chiunque negarlo.
+
+La teoria dell'amoralità dell'arte si è saldamente affermata
+nelle classi strettamente artistiche. Esse sono libere di produrre
+qualunque cosa vogliano. Sono libere di scrivere un «[[Paradise Lost]]»
+in cui [[Satan|Satana]] vinca Dio. Sono libere di scrivere una
+«Divina [[Comedy|Commedia]]» in cui il paradiso stia sotto il pavimento dell'inferno.
+E che cosa hanno fatto? Hanno prodotto, nella loro universalità,
+qualcosa di più grandioso o di più bello delle cose pronunciate
+dal fiero cattolico ghibellino, dal rigido maestro puritano?
+Sappiamo che hanno prodotto soltanto pochi rondò.
+[[Milton]] non li batte solo nella sua pietà, li batte
+nella loro stessa irriverenza. In tutti i loro libriccini di versi non
+troverete una più bella sfida a Dio di quella di [[Satan|Satana]]. Né troverete
+la grandezza del paganesimo sentita come la sentì quel Cristiano infuocato
+che descrisse Farinata levare il capo come in disdegno dell'inferno.
+E la ragione è assai ovvia. La bestemmia è un effetto artistico,
+perché la bestemmia dipende da una convinzione filosofica.
+La bestemmia dipende dalla fede e va svanendo con essa.
+Se qualcuno ne dubita, si sieda seriamente e provi a pensare
+pensieri blasfemi su Thor. Penso che la sua famiglia lo troverà
+alla fine della giornata in uno stato di una certa spossatezza.
+
+Né nel mondo della politica né in quello della letteratura, dunque,
+il rifiuto delle teorie generali si è rivelato un [[success|successo]].
+Può darsi che vi siano stati molti ideali lunatici e fuorvianti
+che di [[Time|tempo]] in [[Time|tempo]] hanno confuso l'umanità.
+Ma di sicuro non vi è stato ideale, nella pratica, così
+lunatico e fuorviante come l'ideale della praticità.
+Nulla ha perduto tante occasioni quanto l'opportunismo
+di Lord Rosebery. Egli è, in verità, un simbolo permanente di questa epoca:
+l'uomo che è teoricamente un uomo pratico, e praticamente
+più impratico di qualsiasi teorico. Nulla in questo universo
+è così insensato quanto quella specie di culto della saggezza mondana.
+Un uomo che pensa perpetuamente a se questa razza
+o quella razza sia forte, a se questa causa o quella causa
+sia promettente, è l'uomo che non crederà mai in nulla
+abbastanza a lungo da farlo riuscire. Il politico opportunista
+è come un uomo che dovesse abbandonare il biliardo perché fu battuto
+a biliardo, e abbandonare il golf perché fu battuto a golf.
+Non c'è nulla di così debole ai fini dell'azione
+quanto questa enorme importanza attribuita alla vittoria immediata.
+Non c'è nulla che fallisca quanto il [[success|successo]].

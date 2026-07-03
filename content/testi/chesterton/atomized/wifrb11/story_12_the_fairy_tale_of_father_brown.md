@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/wifrb11-(chesterton)">The Wisdom of Father Brown</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/wifrb11/story_11_the_strange_crime_of_john_boulnois">‹ Story 11 The Strange Crime of John Boulnois</a><a class="ex-next" href="/testi/chesterton/atomized/wifrb11/story_01_the_absence_of_mr_glass/part_01">part 01 ›</a></div>
@@ -558,3 +560,557 @@ with black eyebrows and a pink, painted sort of smile that seemed
 to contradict the black warning in his eyes.
 
 End of this Project Gutenberg Etext of The Wisdom of [[Father Brown]]
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/wifrb11-(chesterton)">The Wisdom of Father Brown</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/wifrb11/story_11_the_strange_crime_of_john_boulnois">‹ Story 11 The Strange Crime of John Boulnois</a><a class="ex-next" href="/testi/chesterton/atomized/wifrb11/story_01_the_absence_of_mr_glass/part_01">part 01 ›</a></div>
+</nav>
+
+# [[wifrb11]] — La fiaba di [[Father Brown|Padre Brown]]
+
+                    La fiaba di Padre Brown
+
+LA pittoresca città-stato di Heiligwaldenstein era uno di quei regni
+di balocchi di cui certe regioni dell'Impero Germanico constano ancora.
+Era passata sotto l'egemonia prussiana assai tardi nella storia --
+sì e no cinquant'anni prima di quella bella giornata d'estate in cui Flambeau e
+Padre Brown si trovarono seduti nei suoi giardini a bere la sua birra.
+Vi erano state, entro la memoria dei viventi, non poche guerre e giustizie
+selvagge, come presto si vedrà. Ma a guardarla soltanto
+non si poteva scacciare quell'impressione di puerilità che è
+il lato più incantevole della Germania -- quelle piccole monarchie
+paterne da pantomima in cui un re pare domestico come un cuoco.
+I soldati tedeschi presso le innumerevoli garitte parevano stranamente simili a
+balocchi tedeschi, e i merli ben tagliati del castello,
+dorati dal sole, parevano ancor più pan di zenzero indorato.
+Perché era un tempo splendido. Il cielo era d'un azzurro tanto prussiano quanto
+Potsdam medesima potesse esigere, ma somigliava ancor più a quell'uso prodigo e
+sfolgorante del colore che un bambino ricava da una scatola di colori da uno scellino.
+Persino gli alberi dai tronchi grigi e nervosi parevano giovani, ché le gemme aguzze su di essi
+erano ancora rosee, e disegnate contro l'azzurro intenso parevano
+innumerevoli figurine infantili.
+
+     Nonostante il suo aspetto prosaico e il tenore di vita in genere pratico,
+Padre Brown non era privo di una certa vena di romanticismo nella sua natura,
+per quanto di solito tenesse le fantasticherie per sé, come fanno molti bambini.
+In mezzo ai colori vivaci e squillanti di una simile giornata, e nella cornice
+araldica di una simile città, egli si sentiva davvero come se fosse entrato
+in una fiaba. Provava un piacere fanciullesco, come potrebbe un fratello minore,
+nel formidabile bastone-spada che Flambeau roteava sempre mentre camminava,
+e che ora stava ritto accanto al suo alto boccale di birra di Monaco.
+Anzi, nella sua sonnolenta noncuranza, si sorprese persino a fissare la
+testa nodosa e goffa del proprio ombrello sdrucito, con qualche
+fioca reminiscenza della clava dell'orco in un libro illustrato di balocchi.
+Ma non compose mai nulla in forma di finzione, se non forse
+il racconto che segue:
+
+     «Mi domando», disse, «se in un luogo simile si avrebbero avventure vere,
+qualora ci si mettesse sul loro cammino. È uno splendido
+fondale per esse, ma ho sempre una specie di sensazione che
+combatterebbero con sciabole di cartone più che con vere, orribili spade.»
+
+     «Ti sbagli», disse il suo amico. «In questo posto
+non solo combattono con la spada, ma uccidono senza spada. E c'è
+di peggio.»
+
+     «Come, che vuoi dire?» chiese Padre Brown.
+
+     «Ecco», replicò l'altro, «direi che questo è il solo luogo
+in Europa dove un uomo sia mai stato colpito da un proiettile senza armi da fuoco.»
+
+     «Intendi con arco e freccia?» chiese Brown con una certa meraviglia.
+
+     «Intendo una pallottola nel cervello», replicò Flambeau.
+«Non conosci la storia del defunto Principe di questo luogo?
+Fu uno dei grandi misteri polizieschi di circa vent'anni fa.
+Ricorderai, naturalmente, che questo luogo fu annesso con la forza
+all'epoca dei primissimi disegni di consolidamento di Bismarck --
+con la forza, sì, ma non affatto con facilità. L'impero (o ciò che
+aspirava ad esserlo) mandò il Principe Otto di Grossenmark a governare il luogo
+nell'interesse imperiale. Abbiamo visto il suo ritratto là nella galleria --
+un bel vecchio signore, se avesse avuto capelli e sopracciglia,
+e non fosse stato tutto rugoso come un avvoltoio; ma aveva
+di che tormentarsi, come ti spiegherò tra un momento. Era un soldato
+di abilità e successo distinti, ma non ebbe affatto un compito
+facile con questo piccolo luogo. Fu sconfitto in parecchie battaglie
+dai celebri fratelli Arnhold -- i tre patrioti guerriglieri
+ai quali Swinburne dedicò una poesia, ricordi:
+
+        Lupi col pelo dell'ermellino,
+          Corvi coronati e re --
+        Queste cose son molte come vermina,
+          Pure Tre a queste cose resisteranno.
+
+O qualcosa del genere. In verità, non è affatto certo
+che l'occupazione sarebbe mai riuscita se uno dei
+tre fratelli, Paul, spregevolmente ma con molta risolutezza non avesse rifiutato
+di resistere ancora a queste cose e, consegnando tutti i segreti
+dell'insurrezione, non ne avesse assicurato la disfatta e la propria ultima promozione
+alla carica di ciambellano del Principe Otto. Dopo di ciò, Ludwig,
+l'unico vero eroe fra gli eroi di Mr Swinburne, fu ucciso,
+spada in pugno, nella presa della città; e il terzo, Heinrich,
+che, pur non essendo un traditore, era sempre stato mansueto e persino timido
+in confronto ai suoi attivi fratelli, si ritirò in una sorta di eremo,
+si convertì a un quietismo cristiano quasi quacchero,
+e non ebbe più commercio con gli uomini se non per dare quasi tutto ciò che aveva ai poveri.
+Mi dicono che non molto tempo fa lo si poteva ancora vedere
+di tanto in tanto per il vicinato, un uomo in mantello nero, quasi cieco,
+con capelli bianchissimi e scarmigliati, ma con un volto di sorprendente dolcezza.»
+
+     «Lo so», disse Padre Brown. «L'ho visto una volta.»
+
+     L'amico lo guardò con una certa sorpresa. «Non sapevo
+che tu fossi già stato qui», disse. «Forse ne sai quanto
+me. Comunque, questa è la storia degli Arnhold, ed egli fu
+l'ultimo superstite di essi. Sì, e di tutti gli uomini che ebbero una parte
+in quel dramma.»
+
+     «Vuoi dire che anche il Principe morì assai tempo fa?»
+
+     «Morì», ripeté Flambeau, «ed è press'a poco tutto ciò che possiamo dire.
+Devi capire che verso la fine della sua vita cominciò
+ad avere quei tic nervosi non insoliti nei tiranni.
+Moltiplicò la consueta guardia diurna e notturna intorno al suo castello
+finché parvero esservi più garitte che case in città,
+e i tipi sospetti venivano fucilati senza pietà. Viveva quasi interamente
+in una stanzetta che stava proprio al centro dell'enorme labirinto
+di tutte le altre stanze, e persino in questa aveva eretto un'altra sorta di
+cabina o armadio centrale, rivestita d'acciaio, come una cassaforte o una corazzata.
+Alcuni dicono che sotto il pavimento di questa vi fosse a sua volta una buca segreta nella terra,
+non più grande del necessario per contenerlo, cosicché, nella sua ansia
+di evitare la tomba, era disposto a cacciarsi in un luogo che ad essa somigliava assai.
+Ma andò ancora oltre. Si supponeva che la popolazione fosse stata disarmata
+fin dalla repressione della rivolta, ma Otto ora insisté,
+come assai di rado i governi insistono, su un disarmo assoluto e letterale.
+Fu attuato, con straordinaria minuzia e severità,
+da funzionari benissimo organizzati su un'area piccola e ben nota, e,
+per quanto la forza e la scienza umana possano essere assolutamente certe di qualcosa,
+il Principe Otto era assolutamente certo che nessuno potesse introdurre neppure
+una pistola giocattolo a Heiligwaldenstein.»
+
+     «La scienza umana non può mai essere del tutto certa di cose simili»,
+disse Padre Brown, sempre guardando il rosso germogliare dei rami
+sopra il suo capo, «non foss'altro per la difficoltà che riguarda la definizione
+e la connotazione. Cos'è un'arma? Vi è chi è stato assassinato
+con i più miti conforti domestici; certamente con bollitori del tè,
+e probabilmente con copriteiere. D'altra parte, se mostrassi
+a un antico Britanno una rivoltella, dubito che capirebbe che è un'arma --
+finché non gli venisse sparata addosso, s'intende. Forse qualcuno introdusse
+un'arma da fuoco tanto nuova da non parere nemmeno un'arma da fuoco.
+Forse aveva l'aspetto di un ditale o cosa simile. La pallottola
+aveva qualcosa di particolare?»
+
+     «Non che io abbia mai udito», rispose Flambeau; «ma le mie informazioni
+sono frammentarie, e provengono soltanto dal mio vecchio amico Grimm.
+Era un investigatore assai capace al servizio tedesco, e cercò
+di arrestarmi; io arrestai lui invece, e facemmo molte interessanti chiacchierate.
+Era incaricato qui dell'indagine sul Principe Otto, ma dimenticai
+di chiedergli alcunché sulla pallottola. Secondo Grimm,
+ciò che accadde fu questo.» Fece una pausa per vuotare la maggior parte
+della sua scura birra d'un fiato, e poi riprese:
+
+     «La sera in questione, pare, il Principe era atteso
+in una delle sale esterne, perché doveva ricevere
+certi visitatori che desiderava davvero incontrare. Erano periti
+geologi mandati a indagare la vecchia questione del preteso giacimento d'oro
+nelle rocce di qui, sul quale (a quanto si diceva) la piccola città-stato
+aveva così a lungo mantenuto il proprio credito ed era stata capace di trattare con
+i vicini persino sotto il bombardamento incessante di eserciti più grandi.
+Fino ad allora non era mai stato scoperto dalla più rigorosa indagine
+che potesse --»
+
+     «Che potesse essere ben certa di scoprire una pistola giocattolo»,
+disse Padre Brown con un sorriso. «Ma quanto al fratello che tradì?
+Non aveva nulla da riferire al Principe?»
+
+     «Asseverò sempre di non sapere», replicò Flambeau;
+«che questo era l'unico segreto che i suoi fratelli non gli avevano detto.
+È giusto dire che ricevette qualche sostegno da
+parole frammentarie -- pronunciate dal grande Ludwig nell'ora della morte,
+quando guardò Heinrich ma indicò Paul, e disse,
+`Tu non gli hai detto...' e poco dopo fu incapace di parlare.
+Comunque, la deputazione di illustri geologi e mineralogisti
+di [[Paris|Parigi]] e Berlino era là nell'abito più magnifico e
+appropriato, ché non vi sono uomini a cui piaccia tanto sfoggiare le proprie onorificenze
+quanto agli uomini di scienza -- come sa chiunque sia mai stato a
+un ricevimento della Royal Society. Fu una brillante adunanza,
+ma assai tarda, e a poco a poco il Ciambellano -- hai visto anche il suo ritratto:
+un uomo dalle sopracciglia nere, gli occhi seri e una specie di
+sorriso insignificante sotto di esse -- il Ciambellano, dico, scoprì che vi era
+là ogni cosa tranne il Principe stesso. Perlustrò tutti i
+saloni esterni; poi, ricordando gli accessi di folle [[Fear|paura]] dell'uomo,
+si affrettò alla camera più interna. Anche quella era vuota, ma la torretta o cabina
+d'acciaio eretta nel mezzo di essa richiese un po' di [[Time|tempo]] per aprirsi.
+Quando si aprì, era vuota anch'essa. Andò a guardare dentro
+la buca nel terreno, che pareva più profonda e in qualche modo tanto più
+simile a una [[Grave|tomba]] -- questo è il suo racconto, s'intende. E proprio mentre lo faceva
+udì un'esplosione di grida e di tumulto nelle lunghe stanze
+e nei corridoi al di fuori.
+
+     «Dapprima fu un fragore lontano e un fremito di qualcosa di impensabile
+all'orizzonte della folla, persino al di là del [[Castle|castello]]. Poi fu
+un clamore senza parole, allarmante nella sua vicinanza, e abbastanza forte da essere distinto
+se ogni parola non avesse ucciso l'altra. Poi vennero parole
+di terribile chiarezza, che si avvicinavano, e poi un uomo,
+che irruppe nella stanza e diede la notizia con la brevità con cui tali notizie si danno.
+
+     «Otto, Principe di Heiligwaldenstein e Grossenmark, giaceva
+nella rugiada del crepuscolo sempre più fondo nei boschi al di là del [[Castle|castello]],
+con le braccia spalancate e il volto rivolto in alto verso la [[Moon|luna]].
+Il [[Blood|sangue]] pulsava ancora dalla tempia e dalla mascella fracassate,
+ma era la sola parte di lui che si movesse come cosa viva.
+Indossava la sua completa uniforme bianca e gialla, come per ricevere i
+suoi ospiti all'interno, salvo che la fascia o sciarpa era stata slegata e giaceva
+alquanto sgualcita al suo fianco. Prima che lo si potesse sollevare, era morto.
+Ma, morto o vivo, egli era un [[Riddle|enigma]] -- lui che si era sempre nascosto nella
+camera più interna, là fuori nei boschi umidi, disarmato e [[Alone|solo]].»
+
+     «Chi trovò il suo [[Body|corpo]]?» chiese [[Father Brown|Padre Brown]].
+
+     «Una ragazza addetta alla [[Court|Corte]], di nome Hedwig von non so che»,
+replicò il suo amico, «che era uscita nel bosco a cogliere [[Flowers|fiori]] selvatici.»
+
+     «Ne aveva colti?» chiese il sacerdote, fissando piuttosto vacuo
+il velo dei rami sopra di lui.
+
+     «Sì», replicò [[Flambeau]]. «Ricordo in particolare che
+il Ciambellano, o il vecchio Grimm o qualcuno, disse quanto fosse orribile,
+quando accorsero al suo grido, vedere una ragazza che teneva [[spring|primaverili]] [[Flowers|fiori]]
+e si chinava su quel -- quel crollo sanguinoso. Comunque, il punto principale è
+che prima che arrivassero i soccorsi egli era morto, e la notizia, naturalmente,
+dovette essere riportata al [[Castle|castello]]. La costernazione che suscitò fu
+qualcosa che oltrepassava persino quella naturale in una [[Court|Corte]] alla caduta di un potente.
+I visitatori stranieri, specie i periti minerari, erano nel più selvaggio
+[[Doubt|dubbio]] e agitazione, come [[Well|pure]] molti importanti funzionari prussiani,
+e presto cominciò a farsi chiaro che il progetto di trovare il tesoro
+pesava assai più nella faccenda di quanto la gente avesse supposto.
+A periti e funzionari erano stati promessi grandi premi o
+vantaggi internazionali, e alcuni dicevano persino che gli appartamenti segreti del Principe
+e la forte protezione militare fossero dovuti meno alla [[Fear|paura]]
+della popolazione che al perseguimento di una qualche indagine privata su --»
+
+     «I [[Flowers|fiori]] avevano gambi lunghi?» chiese [[Father Brown|Padre Brown]].
+
+     [[Flambeau]] lo fissò. «Che tipo strano sei!» disse.
+«È esattamente ciò che disse il vecchio Grimm. Disse che la parte più brutta della cosa,
+a suo parere -- più brutta del [[Blood|sangue]] e della pallottola -- era che i [[Flowers|fiori]]
+erano cortissimi, colti proprio sotto la corolla.»
+
+     «Naturale», disse il sacerdote, «quando una ragazza adulta coglie davvero
+[[Flowers|fiori]], li coglie con parecchio gambo. Se strappasse loro
+soltanto la testa, come fa un [[Child|bambino]], parrebbe come se --»
+Ed esitò.
+
+     «[[Well|Ebbene]]?» s'informò l'altro.
+
+     «[[Well|Ebbene]], parrebbe piuttosto come se li avesse strappati nervosamente,
+per farsi una scusa di trovarsi là dopo -- [[Well|insomma]], dopo che vi si trovava.»
+
+     «So dove vuoi arrivare», disse [[Flambeau]] piuttosto cupamente.
+«Ma quello e ogni altro sospetto crollano sull'unico punto --
+la mancanza di un'arma. Avrebbe potuto essere ucciso, come tu dici,
+con moltissime altre cose -- persino con la sua stessa fascia militare;
+ma dobbiamo spiegare non come fu ucciso, bensì come fu colpito da un proiettile.
+E il fatto è che non possiamo. Fecero perquisire la ragazza con la massima
+spietatezza; perché, a dire il [[Truth|vero]], era un po' sospetta, sebbene nipote
+e pupilla del malvagio vecchio Ciambellano, Paul Arnhold. Ma era
+assai romantica, e la si sospettava di simpatia per il vecchio entusiasmo
+rivoluzionario della sua famiglia. Ciò nondimeno, per quanto romantico si sia,
+non si può immaginare una grossa pallottola nella mascella o nel cervello di un uomo senza usare
+un fucile o una [[Pistol|pistola]]. E non c'era nessuna [[Pistol|pistola]], sebbene vi fossero
+due colpi di [[Pistol|pistola]]. Lascio a te, amico mio.»
+
+     «Come sai che vi furono due colpi?» chiese il piccolo sacerdote.
+
+     «Ce n'era uno solo nella sua testa», disse il suo compagno,
+«ma vi era un altro foro di pallottola nella fascia.»
+
+     La liscia fronte di [[Father Brown|Padre Brown]] si contrasse d'improvviso.
+«L'altra pallottola fu ritrovata?» domandò.
+
+     [[Flambeau]] trasalì un poco. «Non credo di ricordarlo», disse.
+
+     «Ferma! Ferma! Ferma!» esclamò Brown, aggrottandosi sempre più,
+con una concentrazione di curiosità del tutto insolita. «Non credermi villano.
+Lasciami riflettere su questo per un momento.»
+
+     «Va bene», disse [[Flambeau]], ridendo, e finì la sua birra.
+Una lieve brezza mosse gli alberi in boccio e sospinse su nel cielo
+nuvolette bianche e rosee che parevano rendere il cielo più azzurro e
+tutta la scena colorata più bizzarra. Avrebbero potuto essere cherubini
+in volo verso le finestre di casa ([[Home|casa]]) di una specie di celeste stanza dei bambini.
+La torre più antica del [[Castle|castello]], la Torre del Drago, si ergeva [[Grotesque|grottesca]]
+come il boccale di birra, ma altrettanto familiare. Solo al di là della torre luccicava
+il bosco in cui l'uomo era rimasto morto.
+
+     «Che ne fu alla fine di questa Hedwig?» chiese infine il sacerdote.
+
+     «È sposata al Generale Schwartz», disse [[Flambeau]].
+«Senza [[Doubt|dubbio]] avrai udito della sua carriera, che fu piuttosto romantica.
+Si era distinto persino prima delle sue imprese a Sadowa
+e Gravelotte; in realtà, [[Rose|salì]] dalla truppa, cosa assai insolita
+persino nel più piccolo dei... tedeschi.»
+
+     [[Father Brown|Padre Brown]] si raddrizzò di scatto.
+
+     «[[Rose|Salito]] dalla truppa!» esclamò, e atteggiò la bocca come per fischiare.
+«[[Well|Bene]], [[Well|bene]], che storia curiosa! Che curioso modo di uccidere un uomo;
+ma suppongo fosse l'unico possibile. Ma pensare a un odio
+tanto paziente --»
+
+     «Che vuoi dire?» domandò l'altro. «In che modo
+uccisero l'uomo?»
+
+     «Lo uccisero con la fascia», disse Brown con cautela; e poi,
+mentre [[Flambeau]] protestava: «Sì, sì, so della pallottola.
+Forse dovrei dire che morì per aver avuto una fascia. So che non suona
+come l'avere una malattia.»
+
+     «Suppongo», disse [[Flambeau]], «che tu abbia qualche idea
+in testa, ma non toglierà facilmente la pallottola dalla sua.
+Come ho spiegato prima, avrebbe potuto benissimo essere strangolato.
+Ma fu colpito da un proiettile. Da chi? Con che cosa?»
+
+     «Fu colpito per suo proprio ordine», disse il sacerdote.
+
+     «Vuoi dire che ha commesso il [[suicide|suicidio]]?»
+
+     «Non ho detto per suo proprio desiderio», replicò [[Father Brown|Padre Brown]].
+«Ho detto per suo proprio ordine.»
+
+     «[[Well|Bene]], comunque sia, qual è la tua teoria?»
+
+     [[Father Brown|Padre Brown]] rise. «Sono soltanto in vacanza», disse.
+«Non ho nessuna teoria. Solo che questo luogo mi ricorda le fiabe,
+e, se vuoi, ti racconterò una storia.»
+
+     Le piccole nuvole rosee, che parevano piuttosto zucchero filato,
+erano salite fluttuando a [[Crown|coronare]] le torrette del [[Castle|castello]] di pan di zenzero indorato,
+e le rosee dita di neonato degli alberi in boccio parevano allargarsi e
+protendersi per raggiungerle; il cielo azzurro cominciava a prendere un vivido violetto
+della sera, quando [[Father Brown|Padre Brown]] d'un tratto parlò di nuovo:
+
+     «Fu in una tetra [[Night|notte]], con la pioggia che ancora gocciolava dagli alberi
+e la rugiada che già s'infittiva, che il Principe Otto di Grossenmark uscì
+in fretta da una porta laterale del [[Castle|castello]] e s'incamminò rapido
+nel bosco. Una delle innumerevoli sentinelle lo salutò,
+ma egli non la notò. Non desiderava essere notato in modo particolare.
+Fu lieto quando i grandi alberi, grigi e già viscidi di pioggia,
+lo inghiottirono come una palude. Aveva deliberatamente scelto
+il lato meno frequentato del suo palazzo, ma persino quello era più frequentato
+di quanto gli piacesse. Ma non v'era particolare rischio d'inseguimento
+officioso o diplomatico, ché la sua uscita era stata un impulso subitaneo.
+Tutti i diplomatici in gran gala che si lasciava alle spalle erano insignificanti.
+Aveva compreso d'un tratto di poter fare a meno di loro.
+
+     «La sua grande passione non era il ben più nobile terrore della [[Death|morte]],
+bensì lo strano [[Desire|desiderio]] dell'oro. Per questa leggenda dell'oro aveva
+lasciato Grossenmark e invaso Heiligwaldenstein. Per questo e solo per questo
+aveva comprato il traditore e scannato l'[[Hero|eroe]], per questo aveva
+a lungo interrogato e [[Cross|contro]]-interrogato il falso Ciambellano,
+finché era giunto alla conclusione che, quanto alla sua ignoranza,
+il rinnegato diceva davvero il [[Truth|vero]]. Per questo aveva, alquanto a malincuore,
+pagato e promesso denaro sulla probabilità di guadagnarne la somma maggiore;
+e per questo era sgusciato fuori dal suo palazzo come un ladro sotto la pioggia,
+ché aveva pensato a un altro modo per ottenere il [[Desire|desiderio]] dei suoi occhi,
+e per ottenerlo a buon mercato.
+
+     «Lassù, all'estremità superiore di un tortuoso sentiero di montagna verso il quale
+si stava dirigendo, tra le rocce a pilastro lungo la cresta
+che sovrasta la città, sorgeva l'eremo, poco più di
+una caverna cinta di spini, in cui il terzo dei grandi fratelli
+si era a lungo nascosto dal mondo. Costui, pensava il Principe Otto,
+non poteva avere nessuna vera ragione per rifiutare di cedere l'oro.
+Ne conosceva il luogo da anni, e non aveva fatto alcuno sforzo per trovarlo,
+persino prima che il suo nuovo credo [[ascetic|ascetico]] lo avesse reciso dalla proprietà
+e dai piaceri. Vero, era stato un nemico, ma ora professava
+il dovere di non avere nemici. Qualche concessione alla sua causa,
+qualche appello ai suoi principi, gli avrebbe probabilmente strappato il semplice segreto del denaro.
+Otto non era un vigliacco, malgrado la sua rete di precauzioni
+militari, e, in ogni caso, la sua avarizia era più forte delle sue paure.
+Né v'era molto motivo di [[Fear|paura]]. Poiché era certo che non vi fossero
+armi private in tutto il principato, era cento volte
+più certo che non ve ne fossero nel piccolo eremo del quacchero sulla [[Hill|collina]],
+dove costui viveva d'erbe, con due vecchi servitori campagnoli, e con
+nessun'altra voce d'uomo anno dopo anno. Il Principe Otto guardò in basso
+con una specie di torvo sorriso i luminosi, squadrati labirinti
+della [[City|città]] illuminata a lampada sotto di lui. Perché fin dove l'occhio poteva arrivare
+correvano i fucili dei suoi amici, e non un pizzico di polvere
+per i suoi nemici. I fucili erano schierati così fitti persino presso quel sentiero di montagna
+che un grido da parte sua avrebbe fatto accorrere i soldati su per la [[Hill|collina]],
+per non dire del fatto che il bosco e la cresta erano pattugliati
+a intervalli regolari; fucili così lontani, nei boschi fioschi,
+rimpiccioliti dalla distanza, al di là del [[River|fiume]], che un nemico non poteva
+insinuarsi in città con nessun aggiramento. E intorno al palazzo fucili
+alla porta di ponente e alla porta di levante, alla porta di settentrione e a quella di mezzogiorno,
+e lungo tutte e quattro le facciate che le collegavano. Era al sicuro.
+
+     «Fu tutto ancor più chiaro quando ebbe raggiunto la cresta
+e scoperto quanto fosse nudo il nido del suo vecchio nemico. Si trovò
+su una piccola piattaforma di roccia, interrotta bruscamente dai tre angoli
+del precipizio. Dietro v'era la nera [[Cave|caverna]], mascherata di spini verdi,
+così bassa che era difficile credere che un uomo potesse entrarvi.
+Davanti v'era il baratro delle rupi e la vasta ma nebbiosa
+visione della valle. Sulla piccola piattaforma rocciosa sorgeva
+un vecchio leggìo di bronzo, gemente sotto una grande [[Bible|Bibbia]] tedesca.
+Il bronzo o rame di esso si era fatto verde per le arie corrosive
+di quel luogo elevato, e Otto ebbe all'istante il pensiero:
+"Anche se avessero armi, ormai devono essere arrugginite." La luna nascente aveva già
+fatto una [[Dawn|alba]] mortale dietro le creste e i dirupi, e la pioggia era cessata.
+
+     «Dietro il leggìo, e guardando attraverso la valle,
+stava un vecchissimo uomo in una veste nera che cadeva diritta come
+le rupi intorno a lui, ma i cui capelli bianchi e la voce fioca parevano del pari
+vacillare nel [[Wind|vento]]. Egli stava evidentemente leggendo qualche lezione quotidiana
+come parte dei suoi esercizi religiosi. "Essi confidano nei loro cavalli..."
+
+     «`Signore', disse il Principe di Heiligwaldenstein, con cortesia
+del tutto insolita, `vorrei soltanto una parola con voi.'
+
+     «`...e nei loro carri', proseguì fioco il vecchio,
+`ma noi confideremo nel nome del Signore degli Eserciti....'
+Le sue ultime parole furono impercettibili, ma chiuse il libro con reverenza e,
+essendo quasi cieco, fece un gesto a tastoni e afferrò il leggìo.
+All'istante i suoi due servitori sgusciarono fuori dalla caverna dalla bassa volta
+e lo sostennero. Portavano vesti d'un nero smorto come la sua,
+ma non avevano l'argento gelido sui capelli, né la [[Frost|gelo]]-morsa
+raffinatezza dei lineamenti. Erano contadini, croati o magiari,
+dai visi larghi e ottusi e dagli occhi ammiccanti. Per la prima [[Time|volta]]
+qualcosa turbò il Principe, ma il suo [[Courage|coraggio]] e il suo senso diplomatico
+tennero saldo.
+
+     «`Temo che non ci siamo incontrati', disse, `dal tempo di quella tremenda cannonata
+in cui morì il vostro povero fratello.'
+
+     «`Tutti i miei fratelli morirono', disse il vecchio, sempre guardando
+attraverso la valle. Poi, volgendo per un istante su Otto i suoi cadenti,
+delicati lineamenti, e i capelli invernali che parevano gocciolare
+sulle sopracciglia come ghiaccioli, aggiunse: `Vedete, anch'io sono morto.'
+
+     «`Spero che comprenderete', disse il Principe, dominandosi
+quasi fino a un punto di conciliazione, `che non vengo qui a perseguitarvi,
+come mero [[Ghost|spettro]] di quelle grandi contese. Non parleremo
+di chi avesse ragione o torto in ciò, ma vi fu almeno un punto
+sul quale non fummo mai in torto, perché voi aveste sempre ragione.
+Qualunque cosa si debba dire della politica della vostra famiglia, nessuno neppure per un momento
+immagina che voi foste mosso dal mero oro; vi siete dimostrato
+al di sopra del sospetto che...'
+
+     «Il vecchio nella veste nera aveva fino allora continuato a fissarlo
+con occhi azzurri acquosi e una specie di fragile saggezza sul volto.
+Ma quando fu pronunciata la parola `oro' egli tese la mano come
+per arrestare qualcosa, e volse via il volto verso i monti.
+
+     «`Egli ha parlato dell'oro', disse. `Ha parlato di
+cose non lecite. Che cessi di parlare.'
+
+     «Otto aveva il vizio del suo tipo e della sua tradizione prussiani,
+che è di considerare il successo non come un accidente ma come una qualità.
+Concepiva sé stesso e i suoi simili come popoli perpetuamente conquistatori
+di popoli perpetuamente conquistati. Di conseguenza, era mal familiare
+con l'emozione della sorpresa, e mal preparato al gesto successivo,
+che lo fece trasalire e irrigidire. Aveva aperto la bocca
+per rispondere all'eremita, quando la bocca fu tappata e la voce
+strozzata da un forte, morbido bavaglio d'improvviso attorcigliato intorno al suo capo
+come un laccio emostatico. Passarono ben quaranta secondi prima che egli persino comprendesse
+che i due servitori ungheresi lo avevano fatto, e che lo avevano fatto
+con la sua stessa sciarpa militare.
+
+     «Il vecchio tornò di nuovo fiocamente alla sua grande Bibbia sorretta dal bronzo,
+voltò le pagine, con una pazienza che aveva qualcosa di orribile,
+finché giunse all'Epistola di San Giacomo, e allora cominciò a leggere:
+`La lingua è un piccolo membro, ma --'
+
+     «Qualcosa nella voce stessa fece voltare d'improvviso il Principe
+e precipitarsi giù per il sentiero di montagna che aveva scalato. Era a metà strada verso
+i giardini del palazzo prima ancora di tentare di strapparsi la sciarpa strangolatrice
+dal collo e dalle mascelle. Provò e riprovò, e fu impossibile;
+gli uomini che avevano annodato quel bavaglio conoscevano la differenza tra
+ciò che un uomo può fare con le mani davanti a sé e ciò che può fare
+con le mani dietro il capo. Le sue gambe erano libere di balzare come
+un'antilope sui [[Mountains|monti]], le sue braccia erano libere di fare qualsiasi gesto
+o agitare qualsiasi segnale, ma non poteva parlare. Un demone muto era in lui.
+
+     «Era giunto vicino ai boschi che cingevano il [[Castle|castello]]
+prima di aver del tutto compreso ciò che il suo stato senza parole significasse
+e fosse destinato a significare. Ancora una volta guardò torvo in basso i luminosi,
+squadrati labirinti della [[City|città]] illuminata a lampada sotto di lui, e non sorrise più.
+Si sentì ripetere le frasi del suo stato d'animo di prima con
+un'ironia omicida. Fin dove l'occhio poteva arrivare correvano i fucili
+dei suoi amici, ciascuno dei quali lo avrebbe abbattuto
+se non avesse potuto rispondere alla parola d'ordine. I fucili erano così vicini che
+il bosco e la cresta potevano essere pattugliati a intervalli regolari;
+perciò era inutile nascondersi nel bosco fino al mattino.
+I fucili erano schierati così lontano che un nemico non poteva insinuarsi
+in città con nessun aggiramento; perciò era vano tornare alla [[City|città]]
+per qualche via remota. Un grido da parte sua avrebbe fatto accorrere i suoi soldati
+su per la [[Hill|collina]]. Ma da lui nessun grido sarebbe venuto.
+
+     «La [[Moon|luna]] era sorta in un argento sempre più intenso, e il cielo mostrava
+strisce d'azzurro vivido e notturno tra le nere strisce
+dei pini attorno al [[Castle|castello]]. [[Flowers|Fiori]] di una qualche specie ampia e piumosa --
+perché prima non aveva mai notato tali cose -- erano al tempo stesso luminosi
+e scoloriti dal chiaro di luna, e parevano indescrivibilmente fantastici
+mentre si affollavano, come strisciando intorno alle radici degli alberi.
+Forse la sua ragione era stata d'improvviso scardinata dall'innaturale prigionia
+che portava con sé, ma in quel bosco egli sentì qualcosa
+di insondabilmente tedesco -- la fiaba. Sapeva con metà della mente
+che si stava avvicinando al [[Castle|castello]] di un orco -- aveva dimenticato
+di essere lui l'orco. Ricordò di aver chiesto a sua madre se gli orsi vivessero
+nel vecchio parco a [[Home|casa]]. Si chinò a cogliere un fiore, come se fosse
+un talismano contro l'incantesimo. Il gambo era più robusto di quanto si aspettasse,
+e si spezzò con un lieve schiocco. Mentre cercava con cura di infilarlo nella sua sciarpa,
+udì il grido: `Chi va là?' Allora ricordò che la sciarpa
+non era al suo solito posto.
+
+     «Tentò di gridare e restò muto. Venne la seconda intimazione;
+e poi uno sparo che stridette mentre veniva e poi fu d'improvviso acquietato
+dall'impatto. Otto di Grossenmark giaceva assai placidamente fra i fatati
+alberi, e non avrebbe più fatto danno né con oro né con acciaio; solo la
+matita d'argento della [[Moon|luna]] avrebbe messo in risalto e tracciato qua e là
+l'intricato ornamento della sua uniforme, o le vecchie rughe sulla sua fronte.
+Che Dio abbia [[Mercy|pietà]] della sua [[Soul|anima]].
+
+     «La sentinella che aveva sparato, secondo gli ordini rigorosi
+della guarnigione, corse naturalmente avanti per trovare qualche traccia della sua preda.
+Era un soldato semplice di nome Schwartz, poi non ignoto nella sua professione,
+e ciò che trovò fu un uomo calvo in uniforme, ma col volto
+tanto fasciato da una specie di maschera fatta della sua stessa sciarpa militare
+che nulla si poteva vedere se non occhi aperti e morti, luccicanti pietrosi
+al chiaro di luna. La pallottola era passata attraverso il bavaglio nella mascella;
+ecco perché vi era un foro di sparo nella sciarpa, ma un solo sparo.
+Naturalmente, se non correttamente, il giovane Schwartz strappò via la misteriosa
+maschera di seta e la gettò sull'erba; e allora vide chi aveva ucciso.
+
+     «Non possiamo essere certi della fase successiva. Ma propendo a credere
+che vi fu una fiaba, dopotutto, in quel piccolo bosco,
+per quanto orribile ne fosse l'occasione. Se la giovane signora di nome Hedwig
+avesse qualche precedente conoscenza del soldato che salvò e alla fine sposò,
+oppure se s'imbatté per caso nell'accidente e la loro intimità
+cominciò quella [[Night|notte]], probabilmente non lo sapremo mai. Ma possiamo sapere,
+credo, che questa Hedwig fu un'eroina, e meritò di sposare un uomo
+che divenne una specie di [[Hero|eroe]]. Fece la cosa audace e la cosa saggia.
+Persuase la sentinella a tornare al suo posto, luogo in cui
+non v'era nulla che lo collegasse al disastro; egli non era che uno
+dei più fedeli e ordinati di cinquanta simili sentinelle a portata di richiamo.
+Ella restò presso il [[Body|corpo]] e diede l'allarme; e non v'era nulla
+che collegasse lei al disastro, giacché non aveva, e non poteva avere, alcuna arma da fuoco.
+
+     «[[Well|Ebbene]]», disse [[Father Brown|Padre Brown]] alzandosi allegramente, «[[Hope|spero]] che siano felici.»
+
+     «Dove vai?» chiese il suo amico.
+
+     «Vado a dare un'altra occhiata a quel ritratto del Ciambellano,
+l'Arnhold che tradì i propri fratelli», rispose il sacerdote.
+«Mi [[Wonder|domando]] quale parte -- mi [[Wonder|domando]] se un uomo sia meno traditore quando è
+due volte traditore.»
+
+     E rimuginò a lungo davanti al ritratto di un uomo dai capelli bianchi
+con le sopracciglia nere e una specie di rosa, dipinto sorriso che pareva
+contraddire il nero monito nei suoi occhi.
+
+Fine di questo Etext del Project Gutenberg di La saggezza di [[Father Brown|Padre Brown]]

@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/wifrb11-(chesterton)">The Wisdom of Father Brown</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/wifrb11/story_09_the_god_of_the_gongs/part_01">‹ part 01</a><a class="ex-next" href="/testi/chesterton/atomized/wifrb11/story_09_the_god_of_the_gongs/part_03">part 03 ›</a></div>
@@ -146,3 +148,146 @@ in the face, except something that was probably a mere nervous trick--
 a habit of opening one eye more narrowly than the other,
 giving the impression that the other was larger, or was,
 perhaps, artificial.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/wifrb11-(chesterton)">The Wisdom of Father Brown</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/wifrb11/story_09_the_god_of_the_gongs/part_01">‹ part 01</a><a class="ex-next" href="/testi/chesterton/atomized/wifrb11/story_09_the_god_of_the_gongs/part_03">part 03 ›</a></div>
+</nav>
+
+# [[wifrb11]] — Il dio dei gong (parte 2)
+
+     Flambeau guardò ancora una volta verso l'interno e verso il mare, e ancora una volta
+non riuscì a scorgere nient'altro che mari invernali come la neve, e nevi piatte
+come il mare.
+
+     Si udì un rumore di rovistio dietro di lui, e il piccolo prete
+venne fuori dal buco arrampicandosi più in fretta di quanto vi fosse caduto.
+Il suo volto non era più sconcertato, ma piuttosto risoluto, e,
+forse solo per i riflessi della neve, un tantino più pallido del solito.
+
+     «Ebbene?» chiese il suo alto amico. «Avete trovato il dio
+del tempio?»
+
+     «No,» rispose Padre Brown. «Ho trovato ciò che talvolta era
+più importante. La Vittima.»
+
+     «Che diavolo intendete?» gridò Flambeau, del tutto allarmato.
+
+     Padre Brown non rispose. Fissava, con un nodo
+sulla fronte, il paesaggio; e all'improvviso vi puntò il dito.
+«Che casa è quella laggiù?» domandò.
+
+     Seguendo il suo dito, Flambeau vide per la prima volta gli angoli
+di un edificio più vicino della fattoria, ma per la maggior parte celato
+da una frangia d'alberi. Non era un edificio grande, e sorgeva ben arretrato
+rispetto alla riva; ma un luccichio d'ornamento su di esso suggeriva che fosse
+parte del medesimo schema decorativo della località balneare, come il palco dell'orchestra,
+i giardinetti e le panchine di ferro dallo schienale ricurvo.
+
+     Padre Brown saltò giù dal palco, seguito dall'amico;
+e mentre camminavano nella direzione indicata gli alberi si diradarono
+a destra e a sinistra, ed essi videro un piccolo albergo piuttosto sgargiante,
+di quelli comuni nelle località balneari: l'albergo del Saloon Bar più che
+del Bar Parlour. Quasi tutta la facciata era di stucco dorato e
+di vetro istoriato, e tra quel grigio paesaggio marino e i grigi
+alberi simili a streghe, la sua qualità dozzinale aveva qualcosa di spettrale
+nella sua malinconia. Entrambi sentirono vagamente che se in una simile locanda
+fosse stato offerto qualche cibo o bevanda, sarebbero stati il prosciutto di cartone
+e il boccale vuoto della pantomima.
+
+     In questo, tuttavia, non furono del tutto confermati. Man mano che si avvicinavano
+sempre più al luogo, videro davanti al buffet,
+che a quanto pareva era chiuso, una di quelle panchine di ferro da giardino dallo schienale ricurvo
+che avevano adornato i giardinetti, ma assai più lunga, che correva quasi
+per tutta la lunghezza della facciata. Presumibilmente, era stata messa lì perché
+i visitatori potessero sedersi a guardare il mare, ma difficilmente ci si aspettava
+di trovare qualcuno intento a farlo con un tempo simile.
+
+     Ciò nonostante, proprio davanti all'estremità della panchina di ferro
+c'era un piccolo tavolo rotondo da ristorante, e su di esso stavano
+una piccola bottiglia di Chablis e un piatto di mandorle e uva passa.
+Dietro il tavolo e sulla panchina sedeva un giovane dai capelli scuri,
+a capo scoperto, che fissava il mare in uno stato di immobilità
+quasi sbalorditiva.
+
+     Ma sebbene fosse potuto sembrare una figura di cera quando furono
+a quattro metri da lui, saltò su come un pupazzo a molla quando essi
+giunsero a tre, e disse in modo deferente, benché non privo di dignità:
+«Volete accomodarvi, signori? Al momento non ho personale,
+ma qualcosa di semplice posso prepararvelo io stesso.»
+
+     «Molto obbligato,» disse Flambeau. «Siete dunque voi il proprietario?»
+
+     «Sì,» disse l'uomo bruno, ricadendo un poco nel suo
+atteggiamento immobile. «I miei camerieri sono tutti italiani, capite,
+e ho pensato fosse giusto che vedessero il loro compatriota battere il negro,
+se davvero ci riesce. Sapete che il grande incontro tra Malvoli e
+Nigger Ned si terrà, alla fin fine?»
+
+     «Temo che non possiamo attardarci ad abusare seriamente della vostra ospitalità,»
+disse Padre Brown. «Ma il mio amico gradirà volentieri un bicchiere di sherry,
+ne sono certo, per tenere fuori il freddo e brindare al successo del campione latino.»
+
+     Flambeau non capì la faccenda dello sherry, ma non vi si oppose
+minimamente. Poté solo dire amabilmente: «Oh, grazie mille.»
+
+     «Sherry, signore... senz'altro,» disse il loro ospite, voltandosi verso la sua locanda.
+«Scusatemi se vi trattengo qualche minuto. Come vi ho detto,
+non ho personale...» E si diresse verso le finestre nere della
+sua locanda sbarrata e senza luci.
+
+     «Oh, non ha davvero importanza,» cominciò Flambeau, ma l'uomo
+si voltò per rassicurarlo.
+
+     «Ho le chiavi,» disse. «Saprei ritrovare la strada al buio.»
+
+     «Non intendevo...» cominciò Padre Brown.
+
+     Fu interrotto da una voce umana muggente che venne
+dalle viscere dell'albergo disabitato. Tuonò
+un qualche nome straniero forte ma inintelligibile, e il proprietario dell'albergo
+si mosse verso di essa più prontamente di quanto avesse fatto per lo sherry di Flambeau.
+Come l'immediata prova dimostrò, il proprietario aveva detto, allora e in seguito,
+nient'altro che la letterale verità. Ma tanto Flambeau quanto Padre Brown
+hanno spesso confessato che, in tutte le loro (spesso inaudite) avventure,
+nulla aveva loro gelato il sangue come quella voce d'orco,
+che risuonava all'improvviso da una locanda silenziosa e vuota.
+
+     «Il mio cuoco!» gridò in fretta il proprietario. «Avevo dimenticato il mio cuoco.
+Comincerà tra poco. Sherry, signore?»
+
+     E, per l'appunto, apparve sulla soglia una gran mole bianca
+con berretto bianco e grembiule bianco, come s'addice a un cuoco, ma con
+il superfluo risalto di una faccia nera. Flambeau aveva spesso sentito
+dire che i negri erano buoni cuochi. Eppure, in qualche modo, qualcosa nel contrasto
+di colore e di casta accrebbe il suo stupore che il proprietario dell'albergo
+rispondesse alla chiamata del cuoco, e non il cuoco alla chiamata
+del proprietario. Ma rifletté che i capocuochi sono proverbialmente
+arroganti; e, per giunta, l'ospite era tornato con lo sherry,
+e questa era la cosa importante.
+
+     «Mi meraviglio piuttosto,» disse Padre Brown, «che ci sia così poca gente
+sulla spiaggia, dal momento che questo grande incontro si terrà davvero, dopotutto.
+In tutte queste miglia abbiamo incontrato un uomo solo.»
+
+     Il proprietario dell'albergo alzò le spalle. «Vengono
+dall'altro capo della città, capite... dalla stazione, tre miglia da qui.
+Sono interessati soltanto allo sport, e si fermeranno negli alberghi
+solo per la notte. Dopotutto, non è certo tempo da
+crogiolarsi sulla riva.»
+
+     «O sulla panchina,» disse Flambeau, indicando il tavolino.
+
+     «Devo stare all'erta,» disse l'uomo dal volto immobile.
+Era un tipo tranquillo, dai lineamenti gradevoli, piuttosto giallastro; i suoi abiti scuri
+non avevano nulla di particolare, salvo che la cravatta nera
+era portata piuttosto alta, come uno stock, e fermata da uno spillone d'oro
+con una qualche testa grottesca in cima. Né vi era nulla di notevole
+nel volto, salvo qualcosa che era probabilmente un semplice tic nervoso:
+l'abitudine di socchiudere un occhio più dell'altro,
+dando l'impressione che l'altro fosse più grande, o fosse,
+forse, artificiale.

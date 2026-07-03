@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/incredulity-(chesterton)">Incredulity</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/incredulity/story_03_the_oracle_of_the_dog/part_02">‹ part 02</a><a class="ex-next" href="/testi/chesterton/atomized/incredulity/story_03_the_oracle_of_the_dog/part_04">part 04 ›</a></div>
@@ -127,3 +129,126 @@ of one of them was a smear of [[Blood|blood]].'
 
 There was a short [[Silence|silence]], and then [[Father Brown]] said suddenly;
 `What was the lawyer there for?'
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/incredulity-(chesterton)">Incredulity</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/incredulity/story_03_the_oracle_of_the_dog/part_02">‹ part 02</a><a class="ex-next" href="/testi/chesterton/atomized/incredulity/story_03_the_oracle_of_the_dog/part_04">part 04 ›</a></div>
+</nav>
+
+«E poi siete tornati indietro, immagino» disse [[Father Brown|padre Brown]] con pazienza.
+«E allora che cosa accadde?»
+
+«Le dirò io che cosa accadde allora» rispose Fiennes con cupa enfasi.
+«Quando rientrammo in quel giardino, la prima cosa che vedemmo
+fu Traill, l'avvocato; me lo vedo ancora davanti, col suo cappello nero
+e le sue basette nere che risaltavano sullo sfondo delle azzurre
+aiuole digradanti fino alla casina d'estate, con il tramonto
+e la strana sagoma della Rocca della Fortuna in lontananza.
+Il volto e la figura erano in ombra contro il tramonto; ma giurerei
+che i denti bianchi gli lampeggiavano in bocca e che stava sorridendo.
+Nel momento stesso in cui Nox scorse quell'uomo, il cane scattò in avanti e si piantò in mezzo
+al sentiero abbaiandogli come un forsennato, ferocemente, scagliandogli addosso maledizioni
+che erano quasi articolate, tanto orrenda ne era la nitidezza dell'odio.
+E l'uomo si piegò in due e fuggì, lungo il sentiero tra i fiori.»
+
+Padre Brown balzò in piedi con una impazienza sorprendente.
+«Dunque il cane lo ha denunciato, non è vero?» esclamò. «L'oracolo
+del cane lo ha condannato. E ha osservato quali uccelli volavano,
+ed è ben sicuro se fossero a destra o a sinistra?
+Ha consultato gli àuguri sui sacrifici? Di certo non
+avrà tralasciato di sventrare il cane e di esaminarne le viscere.
+Ecco il genere di prova scientifica su cui voi umanitari pagani
+sembrate fare affidamento quando pensate di togliere la vita
+e l'onore a un uomo.»
+
+Fiennes rimase un istante a bocca aperta prima di trovare il fiato per dire:
+«Ma insomma, che cosa le prende? Che cosa ho fatto, adesso?»
+Una sorta di inquietudine tornò negli occhi del prete: l'inquietudine
+di chi ha urtato un palo nel buio e per un attimo si domanda
+se non gli abbia fatto male.
+
+«Mi dispiace davvero moltissimo» disse con sincera afflizione.
+«Le chiedo scusa di essere stato così sgarbato; la prego, mi perdoni.»
+
+Fiennes lo guardò incuriosito. «A volte penso che lei
+sia più misterioso di qualunque mistero» disse.
+«Ma comunque, se anche non crede al mistero del cane,
+almeno non può scavalcare il mistero dell'uomo.
+Non può negare che, proprio nell'istante in cui la bestia tornò
+dal mare e mugghiò, l'[[Soul|anima]] del suo padrone fu scacciata
+dal suo [[Body|corpo]] dal colpo di una qualche potenza invisibile che nessun
+mortale può rintracciare né tanto meno immaginare. E quanto all'avvocato...
+non mi baso soltanto sul cane... ci sono anche altri particolari curiosi.
+Mi fece l'impressione di un individuo untuoso, sorridente, ambiguo;
+e uno dei suoi tic pareva quasi un indizio.
+Sa che il medico e la polizia arrivarono sul posto molto in fretta;
+[[Valentine]] fu ricondotto indietro mentre si allontanava dalla [[house|casa]],
+e telefonò all'istante. Ciò, unito all'isolamento della [[house|casa]],
+al piccolo numero di persone e allo spazio circoscritto, rese abbastanza
+possibile perquisire chiunque potesse essere stato nei paraggi;
+e tutti furono perquisiti a fondo... in cerca di un'arma.
+Tutta la [[house|casa]], il [[Garden|giardino]] e la riva furono setacciati in cerca di un'arma.
+La scomparsa del pugnale è quasi altrettanto folle
+quanto la scomparsa dell'uomo.»
+
+«La scomparsa del pugnale» ripeté padre Brown, annuendo.
+Pareva si fosse fatto d'improvviso attento.
+
+«[[Well|Ebbene]]» proseguì Fiennes, «le ho detto che quell'uomo, Traill, aveva il vezzo
+di trafficare con la cravatta e con lo spillo... soprattutto con lo spillo.
+Il suo spillo, come lui stesso, era al tempo stesso vistoso e fuori moda.
+Recava una di quelle pietre a cerchi concentrici colorati che sembrano
+un occhio; e quella sua fissazione su di esso mi dava sui nervi,
+come se fosse stato un Ciclope con un unico occhio in mezzo al corpo.
+Ma lo spillo non era solo grosso: era anche lungo; e mi venne in mente
+che l'ansia con cui lo sistemava dipendeva dal fatto che era ancora più lungo
+di quanto sembrasse; lungo, in effetti, quanto uno stiletto.»
+
+Padre Brown annuì pensoso. «Fu mai proposto qualche altro
+strumento?» chiese.
+
+«Ci fu un'altra ipotesi» rispose Fiennes,
+«da parte di uno dei giovani Druce... i cugini, voglio dire.
+Né Herbert né Harry Druce sarebbero parsi, a prima vista,
+tipi capaci di rendersi utili in un'indagine scientifica;
+ma mentre Herbert era davvero il classico esemplare di pesante dragone,
+che non si curava d'altro che dei cavalli ed era un ornamento
+per le [[Horse]] Guards, il fratello minore, Harry, era stato
+nella Polizia Indiana e s'intendeva un poco di queste cose.
+Anzi, a modo suo era piuttosto sveglio; e propendo a credere
+che fosse stato troppo sveglio; voglio dire che aveva lasciato la polizia
+per aver infranto qualche regolamento burocratico e per essersi preso
+un certo rischio e una certa responsabilità di sua iniziativa. In ogni caso, era
+in un certo senso un [[Detective|investigatore]] disoccupato, e si gettò
+in questa faccenda con più dell'ardore di un dilettante.
+E fu proprio con lui che ebbi una discussione a proposito dell'arma...
+una discussione che portò... a qualcosa di nuovo. Cominciò col
+ribattere alla mia descrizione del cane che abbaiava contro Traill;
+e disse che un cane, al colmo dell'ira, non abbaiava, ma ringhiava.»
+
+«Su questo aveva perfettamente ragione» osservò il prete.
+
+«Quel giovanotto proseguì dicendo che, se era per quello, aveva sentito
+Nox ringhiare anche contro altri, prima d'allora; e tra gli altri contro Floyd,
+il segretario. Gli ribattei che il suo stesso argomento si smentiva da sé;
+poiché il delitto non poteva essere [[Home|imputato]] a due o tre persone, e meno che mai
+a Floyd, che era [[Innocent|innocente]] come uno scolaretto scavezzacollo,
+ed era stato visto da tutti per tutto il [[Time|tempo]] appollaiato sopra la siepe
+del [[Garden|giardino]], col suo ciuffo di capelli rossi cospicuo come un cacatua scarlatto.
+
+«So che ad ogni modo ci sono delle difficoltà» disse il mio collega,
+«ma vorrei che venisse un momento con me in fondo al [[Garden|giardino]].
+Voglio mostrarle una cosa che non credo abbia visto nessun altro.»
+Ciò accadeva proprio nel giorno stesso della scoperta, e il [[Garden|giardino]]
+era esattamente com'era stato. La scala a pioli era ancora
+appoggiata alla siepe, e proprio sotto la siepe la mia guida
+si fermò e districò qualcosa dall'erba folta.
+Erano le cesoie usate per potare la siepe, e sulla punta
+di una delle lame c'era una macchia di [[Blood|sangue]].»
+
+Vi fu un breve [[Silence|silenzio]], e poi [[Father Brown|padre Brown]] disse d'un tratto:
+«E l'avvocato che cosa ci faceva là?»

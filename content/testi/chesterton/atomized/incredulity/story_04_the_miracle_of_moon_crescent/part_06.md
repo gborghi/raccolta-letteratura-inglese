@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/incredulity-(chesterton)">Incredulity</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/incredulity/story_04_the_miracle_of_moon_crescent/part_05">‹ part 05</a><a class="ex-next" href="/testi/chesterton/atomized/incredulity/story_04_the_miracle_of_moon_crescent/part_07">part 07 ›</a></div>
@@ -139,3 +141,38 @@ but here we have a very powerful and persuasive personality bent upon
 fixing only one picture on your minds; the picture of the wild Irish
 rebel shaking his pistol at the sky and firing that vain volley,
 whose echoes were the thunders of heaven.'
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/incredulity-(chesterton)">Incredulity</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/incredulity/story_04_the_miracle_of_moon_crescent/part_05">‹ part 05</a><a class="ex-next" href="/testi/chesterton/atomized/incredulity/story_04_the_miracle_of_moon_crescent/part_07">part 07 ›</a></div>
+</nav>
+
+«Verissimo» disse Fenner; «ma poiché la nostra testimonianza è che nessuno lo fece uscire, la domanda è: come avrebbe potuto qualcuno appenderlo lassù?»
+
+«E come mai qualcuno ha un naso in mezzo alla faccia?» ribatté l'ispettore. «Lui aveva un naso in mezzo alla faccia, e aveva un cappio intorno al collo. Questi sono fatti; e, come dico io, sono un uomo pratico e mi attengo ai fatti. Non può essere stato fatto da un miracolo, dunque deve essere stato fatto da un uomo.»
+
+Alboin era rimasto piuttosto in disparte, sullo sfondo; e in effetti la sua figura massiccia pareva costituire uno sfondo naturale agli uomini più asciutti e più vivaci che gli stavano davanti. La testa canuta era china in una certa astrazione; ma quando l'ispettore pronunciò l'ultima frase, egli la sollevò, scuotendo la sua bianca criniera alla maniera di un leone, con un'aria stordita eppure ridesta. Avanzò fino al centro del gruppo, e tutti ebbero la vaga sensazione che fosse persino più imponente di prima. Fin troppo facilmente lo avevano preso per uno sciocco o un ciarlatano; ma non aveva tutti i torti quando diceva che c'era in lui una certa profondità di polmoni e di vita, come un vento di ponente accumulato nella sua forza, che un giorno o l'altro avrebbe potuto spazzar via, con un soffio, le cose più leggere.
+
+«Così lei è un uomo pratico, [[Mr Collins|signor Collins]]» disse, con una voce insieme molle e greve. «Dev'essere la seconda o la terza volta che, in questa breve conversazione, accenna al fatto di essere un uomo pratico; sicché su questo non posso sbagliarmi. E per chiunque si accingesse a scrivere la sua vita, le sue lettere e i suoi discorsi da tavola, corredati del ritratto all'età di cinque anni, del dagherrotipo di sua nonna e di vedute del vecchio paese natale, è un particolare davvero interessante; e son certo che il suo biografo non mancherà di menzionarlo, insieme al fatto che lei aveva un naso camuso con un foruncolo sopra, ed era così grasso da quasi non poter camminare. E poiché è un uomo pratico, forse potrebbe continuare a esercitarsi finché non abbia riportato in vita Warren Wynd, scoprendo esattamente come un uomo pratico attraversi una porta di tavole massicce. Ma io credo che lei l'abbia intesa male. Lei non è un uomo pratico. Lei è uno scherzo pratico, ecco cos'è. L'Onnipotente si stava prendendo un po' di svago alle nostre spalle quando la ideò.»
+
+Con un caratteristico senso del dramma, veleggiò verso la porta prima che l'attonito ispettore potesse replicare; e nessuna successiva recriminazione poté privarlo di una certa aria di trionfo.
+
+«Credo che lei avesse perfettamente ragione» disse Fenner. «Se quelli sono uomini pratici, datemi i preti.»
+
+Un altro tentativo fu fatto per giungere a una versione ufficiale dell'accaduto, quando le autorità compresero appieno chi fossero i sostenitori della storia, e quali ne fossero le implicazioni. La cosa era già scoppiata sulla stampa nella forma più sensazionalistica, e persino sfacciatamente medianica. Interviste a Vandam sulla sua meravigliosa avventura, articoli su Padre Brown e le sue mistiche intuizioni, indussero presto coloro che si sentono responsabili di guidare il pubblico a desiderare di guidarlo lungo un canale più assennato. Questa volta gli scomodi testimoni furono avvicinati in modo più indiretto e cauto. Fu detto loro, quasi con noncuranza, che il professor Vair era molto interessato a simili esperienze anomale; ed era interessato in modo particolare al loro stesso caso sbalorditivo. Il professor Vair era uno psicologo di grande fama; era noto per avere nutrito un distaccato interesse per la criminologia; fu solo qualche tempo dopo che essi scoprirono ch'egli era in qualche modo legato alla polizia.
+
+Il professor Vair era un gentiluomo cortese, vestito con sobrietà di grigio pallido, con una cravatta di gusto artistico e una barba bionda e appuntita; a chiunque non conoscesse un certo tipo particolare di accademico, aveva l'aria piuttosto di un paesaggista. C'era in lui un'aria non soltanto di cortesia, ma di franchezza.
+
+«Sì, sì, lo so» disse sorridendo; «posso immaginare quel che dovete aver passato. La polizia non brilla certo nelle indagini di natura medianica, non è vero? Naturalmente il caro vecchio Collins diceva di volere soltanto i fatti. Che sciocco abbaglio! In un caso di questo genere noi, con la massima decisione, non vogliamo soltanto i fatti. È persino più essenziale possedere le fantasie.»
+
+«Intende dire» chiese Vandam con gravità «che tutto ciò che noi credevamo fatti erano semplici fantasie?»
+
+«Niente affatto» disse [[The Professor|il professore]]; «intendo soltanto che la polizia è ottusa nel credere di poter tralasciare l'elemento psicologico in queste faccende. Ebbene, s'intende, l'elemento psicologico è tutto in ogni cosa, per quanto si cominci appena adesso a comprenderlo. Cominciamo col prendere l'elemento chiamato personalità. Ora, io avevo già sentito parlare di questo prete, Padre Brown; ed è uno degli uomini più notevoli del nostro tempo. Gli uomini di quella tempra si portano dietro una sorta di atmosfera; e nessuno sa quanto i nervi, e persino i sensi stessi, ne restino influenzati per il momento. La gente viene ipnotizzata... sì, ipnotizzata; perché l'ipnotismo, come ogni altra cosa, è una questione di grado; s'insinua, in misura lieve, in ogni conversazione quotidiana: non è necessariamente condotto da un uomo in abito da sera su un palco, in una sala pubblica. La religione di Padre Brown ha sempre compreso la psicologia delle atmosfere, e sa come rivolgersi a tutto simultaneamente; persino, per esempio, al senso dell'olfatto. Comprende quei curiosi effetti prodotti dalla musica sugli animali e sugli esseri umani; sa...»
+
+«Al diavolo» protestò Fenner, «non penserà mica che egli abbia percorso il corridoio portandosi appresso un organo da chiesa?»
+
+«Sa bene di non doverlo fare» disse il professor Vair ridendo. «Sa come concentrare l'essenza di tutti questi suoni, e visioni, e persino odori spirituali, in pochi gesti misurati; in un'arte, o scuola, di maniere. Saprebbe fare in modo di concentrare a tal punto le vostre menti sul [[Supernatural|soprannaturale]] con la sua mera presenza, che le cose naturali vi sfuggirebbero dalla mente, a destra e a sinistra, inosservate. Ora, sappiate» proseguì, con un ritorno alla lieta assennatezza, «che quanto più la studiamo, tanto più bizzarra si fa l'intera questione della testimonianza umana. Non c'è un uomo su venti che osservi davvero le cose. Non c'è un uomo su cento che le osservi con vera precisione; e certo non uno su cento capace prima di osservare, poi di ricordare, e infine di descrivere. Esperimenti scientifici sono stati condotti più e più volte, a dimostrare che uomini sotto tensione hanno creduto chiusa una porta quando era aperta, o aperta quando era chiusa. Certi uomini hanno discordato sul numero di porte o di finestre in una parete proprio davanti a loro. Hanno sofferto illusioni ottiche in pieno giorno. E hanno fatto tutto questo persino senza l'effetto ipnotico di una personalità; ma qui abbiamo una personalità potentissima e persuasiva, tutta protesa a fissare una sola immagine nelle vostre menti: l'immagine del feroce ribelle irlandese che scuote la pistola verso il cielo e spara quella vana scarica, i cui echi furono i tuoni del firmamento.»

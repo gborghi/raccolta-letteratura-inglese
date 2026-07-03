@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/thursday-(chesterton)">The Man Who Was Thursday</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/thursday/chapter_12/part_01">‹ part 01</a><a class="ex-next" href="/testi/chesterton/atomized/thursday/chapter_12/part_03">part 03 ›</a></div>
@@ -146,3 +148,78 @@ to his eyes.  As the car sped on it left a floating patch of white
 smoke behind it, and Syme had heard a shot shriek past his ear.
 
 "My God!" said the Colonel, "someone has shot at us."
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/thursday-(chesterton)">The Man Who Was Thursday</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/thursday/chapter_12/part_01">‹ part 01</a><a class="ex-next" href="/testi/chesterton/atomized/thursday/chapter_12/part_03">part 03 ›</a></div>
+</nav>
+
+# [[thursday]] — Capitolo 12 (parte 2)
+
+«No», corresse [[The Professor|il Professore]], «un [[Horse|cavallo]]».
+
+E mentre stavano in ascolto, fu evidente che il rumore, avvicinandosi rapidamente sulle pietre sonanti, non era il rumore dell'intera cavalcata, bensì quello di un solo cavaliere, che l'aveva lasciata assai indietro: il folle Segretario.
+
+La famiglia di Syme, come la maggior parte di coloro che finiscono nella vita semplice, aveva un tempo posseduto un'automobile, ed egli sapeva tutto di quelle macchine. Si era slanciato d'un balzo sul sedile dell'autista e, con il volto acceso, torceva e strattonava quel meccanismo caduto in disuso. Piegò tutte le sue forze su una leva, poi disse con tutta calma:
+
+«Temo che non ci sia nulla da fare».
+
+Mentre parlava, sbucò all'angolo un uomo rigido sul suo [[Horse|cavallo]] lanciato, con lo slancio e la rigidità di una freccia. Aveva un sorriso che gli sporgeva il mento in fuori, come se fosse slogato. Si affiancò all'automobile ferma, nella quale si era stipata la compagnia, e vi posò la mano sul davanti. Era il Segretario, e la sua bocca si distese perfettamente diritta nella solennità del trionfo.
+
+Syme si appoggiava con tutto il peso sul [[Wheel|volante]], e non si udiva altro suono che il rombo degli altri inseguitori che entravano cavalcando in città. Poi, tutto d'un tratto, si levò uno stridore di ferro raschiato, e l'automobile balzò in avanti. Strappò il Segretario di netto dalla sella, come un coltello viene sfilato di scatto dal fodero, se lo trascinò dietro per venti metri mentre quello scalciava spaventosamente, e infine lo lasciò disteso bocconi sulla [[Road|strada]], assai innanzi al suo [[Horse|cavallo]] atterrito. Mentre l'automobile prendeva l'angolo della via con una splendida curva, poterono appena scorgere gli altri anarchici che riempivano la strada e rialzavano il loro capo caduto.
+
+«Non riesco a capire perché si sia fatto così buio», disse infine [[The Professor|il Professore]] a bassa voce.
+
+«Sta per venire una [[Storm|tempesta]], credo», disse il dottor Bull. «Dico, è un peccato non avere un lume su questa macchina, non foss'altro che per vederci».
+
+«Ce l'abbiamo», disse il Colonnello, e dal fondo dell'automobile ripescò una pesante lanterna di ferro, all'antica, tutta intagliata, con dentro una luce. Era evidentemente un pezzo antico, e pareva che il suo uso originario fosse stato in qualche modo semireligioso, poiché su uno dei suoi lati vi era un rozzo rilievo a foggia di [[Cross|croce]].
+
+«Dove diavolo l'avete presa?», chiese [[The Professor|il Professore]].
+
+«L'ho presa là dove ho preso la macchina», rispose il Colonnello ridacchiando, «dal mio migliore amico. Mentre il nostro amico qui presente si azzuffava con il [[Wheel|volante]], io ho fatto di corsa i gradini della [[house|casa]] e ho parlato con Renard, che se ne stava sotto il proprio portico, ricorderete. "Suppongo", gli ho detto, "che non ci sia [[Time|tempo]] di procurarsi una lampada". Egli alzò lo sguardo, ammiccando bonariamente al bel soffitto ad arco del proprio ingresso. Da esso pendeva, sospesa a [[Chains|catene]] di squisita lavorazione in ferro, questa lanterna, uno dei cento tesori della sua [[house|casa]]-tesoro. A pura forza strappò la lampada dal proprio soffitto, mandando in frantumi i pannelli dipinti e facendo cadere, nella foga, due vasi azzurri. Poi mi porse la lanterna di ferro, e io la misi nella macchina. Non avevo forse ragione quando dicevo che il dottor Renard valeva la pena di conoscerlo?»
+
+«L'avevate», disse Syme con gravità, e appese la pesante lanterna sul davanti. Vi era una certa [[Allegory|allegoria]] della loro intera condizione nel contrasto tra la moderna automobile e la sua strana lampada ecclesiastica. Fin lì avevano attraversato la parte più tranquilla della città, incontrando tutt'al più uno o due passanti, che nulla potevano dir loro sulla pace o sull'ostilità del luogo. Ora, tuttavia, le finestre delle case cominciavano a illuminarsi a una a una, dando un senso più forte di dimora e di umanità. Il dottor Bull si volse al nuovo [[Detective|investigatore]] che aveva guidato la loro fuga, e si concesse uno dei suoi sorrisi naturali e cordiali.
+
+«Queste luci mettono più allegria».
+
+L'ispettore Ratcliffe corrugò le sopracciglia.
+
+«C'è una sola serie di luci che mi mette allegria», disse, «e sono quelle della stazione di polizia che scorgo là, oltre la città. Piaccia a Dio che vi si possa arrivare entro dieci minuti».
+
+Allora tutto il ribollente buon senso e l'ottimismo di Bull proruppero d'un tratto da lui.
+
+«Oh, ma queste sono farneticazioni!», esclamò. «Se davvero credete che gente comune, in case comuni, sia fatta di anarchici, dovete essere più pazzo di un anarchico voi stesso. Se ci voltassimo a combattere contro questi tizi, l'intera città combatterebbe per noi».
+
+«No», disse l'altro con imperturbabile semplicità, «l'intera città combatterebbe per loro. Vedremo».
+
+Mentre parlavano, [[The Professor|il Professore]] si era sporto in avanti con improvvisa concitazione.
+
+«Che cos'è quel rumore?», disse.
+
+«Oh, i cavalli dietro di noi, suppongo», disse il Colonnello. «Credevo che ce ne fossimo liberati».
+
+«I cavalli dietro di noi! No», disse [[The Professor|il Professore]], «non sono cavalli, e non è dietro di noi».
+
+Quasi nell'atto stesso di parlare, in fondo alla strada davanti a loro guizzarono due forme lucenti e sferraglianti. Sparirono quasi in un lampo, ma tutti poterono vedere che si trattava di automobili, e [[The Professor|il Professore]] si alzò in piedi con il volto pallido e giurò che erano le altre due automobili del garage del dottor Renard.
+
+«Vi dico che erano le sue», ripeté, con occhi stralunati, «ed erano piene di uomini mascherati!»
+
+«Assurdo!», disse il Colonnello con ira. «Il dottor Renard non darebbe mai loro le sue automobili».
+
+«Può darsi che sia stato costretto», disse Ratcliffe con calma. «L'intera città è dalla loro parte».
+
+«Continuate a crederlo?», chiese il Colonnello con incredulità.
+
+«Presto lo crederete tutti», disse l'altro con una calma disperata.
+
+Vi fu una pausa perplessa per un po' di [[Time|tempo]], e poi il Colonnello ricominciò bruscamente:
+
+«No, non posso crederci. È una cosa insensata. La gente semplice di una tranquilla città francese...»
+
+Fu interrotto di colpo da un botto e da un lampo di luce, che parve vicinissimo ai suoi occhi. Mentre l'automobile sfrecciava avanti, si lasciò dietro un fluttuante fiocco di fumo bianco, e Syme aveva udito un colpo sibilargli accanto all'orecchio.
+
+«Dio mio!», disse il Colonnello, «qualcuno ci ha sparato».

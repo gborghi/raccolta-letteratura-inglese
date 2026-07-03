@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/thursday-(chesterton)">The Man Who Was Thursday</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/thursday/chapter_03/part_02">‹ part 02</a><a class="ex-next" href="/testi/chesterton/atomized/thursday/chapter_03/part_04">part 04 ›</a></div>
@@ -147,3 +149,147 @@ For the first [[Time|time]] in the proceedings there was for a few
 seconds a real [[Silence|silence]].  Then Gregory fell back in his seat,
 a pale wreck of a man, and the chairman repeated, like a piece
 of [[Clock|clock]]-work suddenly started again--
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/thursday-(chesterton)">The Man Who Was Thursday</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/thursday/chapter_03/part_02">‹ part 02</a><a class="ex-next" href="/testi/chesterton/atomized/thursday/chapter_03/part_04">part 04 ›</a></div>
+</nav>
+
+# [[thursday]] — Capitolo 3 (parte 3)
+
+«Il compagno Gregory ci ha detto, in tono fin troppo apologetico,
+che noi non siamo i nemici della società.  Ma io dico che noi
+siamo i nemici della società, e tanto peggio per la società.
+Siamo i nemici della società, poiché la società è la nemica dell'umanità,
+la sua più antica e la sua più spietata nemica (bene, bene). Il compagno Gregory
+ci ha detto (di nuovo apologeticamente) che noi non siamo assassini.
+E qui concordo.  Non siamo assassini, siamo giustizieri (applausi).»
+
+Fin da quando Syme si era alzato, Gregory era rimasto seduto a fissarlo, il volto idiota
+per lo stupore.  Ora, nella pausa, le sue labbra d'argilla si schiusero, ed egli disse,
+con automatica e senza vita distinzione —
+
+«Maledetto ipocrita!»
+
+Syme guardò dritto in quegli occhi spaventosi con i propri, di un pallido azzurro,
+e disse con dignità —
+
+«Il compagno Gregory mi accusa di ipocrisia.  Egli sa altrettanto [[Well|bene]] quanto me
+che sto mantenendo tutti i miei impegni e non facendo altro che il mio dovere.
+Io non uso mezzi termini.  Non pretendo di usarli.  Dico che il compagno Gregory
+è inadatto a essere [[thursday|Giovedì]] con tutte le sue amabili qualità.
+È inadatto a essere [[thursday|Giovedì]] a causa delle sue amabili qualità.
+Non vogliamo il Supremo Consiglio dell'Anarchia contagiato da
+una svenevole [[Mercy|misericordia]] (bene, bene). Non è questo il [[Time|momento]] per la cortesia
+cerimoniosa, né è un [[Time|momento]] per la modestia cerimoniosa.
+Io mi oppongo al compagno Gregory come mi opporrei
+a tutti i Governi d'Europa, poiché l'anarchico
+che si è dato all'anarchia ha dimenticato la modestia tanto
+quanto ha dimenticato l'[[Pride|orgoglio]] (applausi). Io non sono affatto un uomo.
+Io sono una causa (rinnovati applausi). Io mi oppongo al compagno Gregory
+in modo tanto impersonale e calmo quanto sceglierei una [[Pistol|pistola]]
+piuttosto che un'altra da quella rastrelliera sul muro; e dico
+che, piuttosto che avere Gregory e i suoi metodi all'acqua di [[Water|rose]]
+nel Supremo Consiglio, offrirei me stesso all'elezione —»
+
+La sua frase fu sommersa da un'assordante cateratta di applausi.
+I volti, che si erano fatti sempre più feroci nell'approvazione mentre
+la sua tirata si faceva sempre più intransigente, erano ora distorti
+in ghigni di attesa o spaccati da grida di entusiasmo.
+Nel momento in cui annunciò di essere pronto a candidarsi
+per la carica di [[thursday|Giovedì]], un ruggito di eccitazione e di assenso
+proruppe, e divenne incontrollabile, e nello stesso
+istante Gregory balzò in piedi, con la schiuma alla bocca,
+e gridò contro le grida.
+
+«Fermatevi, dannati pazzi!» gridò, in cima a una voce che gli lacerava
+la gola.  «Fermatevi, voi —»
+
+Ma più forte delle grida di Gregory e più forte del ruggito della stanza
+giunse la voce di Syme, che ancora parlava in un rombo di tuono spietato —
+
+«Io non vado al Consiglio per confutare quella calunnia che ci chiama
+assassini; ci vado per guadagnarmela (fragorosi e prolungati applausi).
+Al prete che dice che questi uomini sono i nemici della religione, al giudice
+che dice che questi uomini sono i nemici della legge, al grasso parlamentare
+che dice che questi uomini sono i nemici dell'ordine e della pubblica decenza, a tutti
+costoro risponderò: "Voi siete falsi re, ma siete veri profeti.
+Io sono venuto a distruggervi, e ad adempiere le vostre profezie".»
+
+Il pesante clamore andò gradualmente spegnendosi, ma prima che fosse cessato
+Witherspoon era balzato in piedi, i capelli e la barba tutti ritti,
+e aveva detto —
+
+«Propongo, come emendamento, che il compagno Syme sia nominato alla carica.»
+
+«Fermate tutto questo, ve lo dico!» gridò Gregory, con volto e mani frenetici.
+«Fermatelo, è tutto —»
+
+La voce del presidente troncò il suo discorso con freddo accento.
+
+«Qualcuno appoggia questo emendamento?» disse.  Un uomo alto,
+stanco, con occhi [[Melancholy|malinconici]] e una barba a collana all'americana,
+fu visto sull'ultima panca alzarsi lentamente in piedi.
+Gregory strillava già da qualche [[Time|tempo]]; ora vi
+fu un cambiamento nel suo accento, più sconvolgente di qualsiasi strillo.
+«Io metto fine a tutto questo!» disse, con voce pesante come pietra.
+
+«Quest'uomo non può essere eletto.  Egli è un —»
+
+«Sì» disse Syme, del tutto immobile, «che cos'è?»  La bocca di Gregory
+si mosse due volte senza suono; poi lentamente il [[Blood|sangue]] cominciò a rifluire
+nel suo volto morto.  «È un uomo del tutto inesperto nel nostro lavoro»
+disse, e si sedette bruscamente.
+
+Prima che avesse finito, l'uomo lungo e magro dalla barba all'americana era di nuovo
+in piedi, e ripeteva con un'alta cantilena monotona americana —
+
+«Chiedo di appoggiare l'elezione del compagno Syme.»
+
+«L'emendamento sarà, come d'uso, messo per primo ai voti» disse il signor Buttons,
+il presidente, con meccanica rapidità.
+
+«La questione è che il compagno Syme —»
+
+Gregory era di nuovo balzato in piedi, ansante e appassionato.
+
+«Compagni» esclamò, «io non sono un pazzo.»
+
+«Oh, oh!» disse il signor Witherspoon.
+
+«Io non sono un pazzo» ribadì Gregory, con una spaventosa
+sincerità che per un momento sbalordì la stanza, «ma vi do
+un consiglio che potete chiamare pazzo se volete.  No, non
+lo chiamerò un consiglio, poiché non posso darvene alcuna ragione.
+Lo chiamerò un ordine.  Chiamatelo un ordine folle, ma agite di conseguenza.
+Colpite, ma ascoltatemi!  Uccidetemi, ma obbeditemi!  Non eleggete quest'uomo.»
+La [[Truth|verità]] è così terribile, persino in catene, che per un momento
+l'esile e folle vittoria di Syme vacillò come una canna.
+Ma non lo si sarebbe potuto indovinare dai gelidi occhi azzurri di Syme.
+Egli si limitò a cominciare —
+
+«Il compagno Gregory ordina —»
+
+Poi l'incantesimo si ruppe, e un anarchico gridò a Gregory —
+
+«Chi siete voi?  Voi non siete [[Sunday|Domenica]]»; e un altro anarchico aggiunse
+con voce più greve, «E non siete [[thursday|Giovedì]].»
+
+«Compagni» gridò Gregory, con una voce come quella di un martire
+che in un'estasi di [[Pain|dolore]] è andato oltre il [[Pain|dolore]], «non m'importa
+nulla che mi detestiate come [[Tyrant|tiranno]] o mi detestiate come schiavo.
+Se non volete accettare il mio ordine, accettate la mia degradazione.
+Mi inginocchio a voi.  Mi getto ai vostri piedi.  Vi imploro.
+Non eleggete quest'uomo.»
+
+«Compagno Gregory» disse il presidente dopo una penosa pausa,
+«questo non è davvero del tutto dignitoso.»
+
+Per la prima [[Time|volta]] nel corso della seduta vi fu per qualche
+secondo un vero [[Silence|silenzio]].  Poi Gregory ricadde sul suo seggio,
+un pallido relitto d'uomo, e il presidente ripeté, come un pezzo
+di [[Clock|orologeria]] rimesso d'improvviso in moto —

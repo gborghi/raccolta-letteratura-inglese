@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/incredulity-(chesterton)">Incredulity</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/incredulity/story_02_the_arrow_of_heaven/part_02">‹ part 02</a><a class="ex-next" href="/testi/chesterton/atomized/incredulity/story_02_the_arrow_of_heaven/part_04">part 04 ›</a></div>
@@ -140,3 +142,58 @@ before he got out.'
 Then he said suddenly, with something like a jerk:
 `I hope you won't mind my mentioning it, but a kind of a notion
 came into my head just this minute.  It's about you.'
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/incredulity-(chesterton)">Incredulity</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/incredulity/story_02_the_arrow_of_heaven/part_02">‹ part 02</a><a class="ex-next" href="/testi/chesterton/atomized/incredulity/story_02_the_arrow_of_heaven/part_04">part 04 ›</a></div>
+</nav>
+
+«Niente affatto» disse padre Brown, con calma. «È mio dovere far visita ai prigionieri e a tutti gli uomini miseri tenuti in cattività.»
+
+Vi fu un [[Silence|silenzio]], e il giovane aggrottò la fronte con un'espressione strana e quasi sfuggente sul volto scarno. Poi disse, di scatto:
+
+«Be', tenga presente che non sono soltanto i ladri comuni o la Mano Nera ad avercela con lui. Questo Daniel Doom somiglia parecchio al diavolo. Guardi come ha steso Trant nei suoi stessi giardini e Horder davanti a casa sua, e l'ha fatta franca.»
+
+L'ultimo piano del palazzo, dentro le mura enormemente spesse, si componeva di due stanze: una stanza esterna, nella quale entrarono, e una stanza interna che era il sancta sanctorum del grande milionario. Entrarono nella stanza esterna proprio mentre altri due visitatori uscivano da quella interna. In uno di essi Peter Wain salutò lo zio: un uomo piccolo ma quanto mai robusto e vigoroso, con il capo rasato che pareva calvo e un volto bruno che pareva troppo bruno per essere mai stato bianco. Era il vecchio Crake, comunemente chiamato Hickory Crake in memoria del più celebre Old Hickory, per via della sua fama nelle ultime guerre contro i Pellirosse. Il suo compagno gli faceva singolare contrasto: un gentiluomo assai azzimato, con i capelli scuri come vernice nera e un largo nastro nero al monocolo, Barnard Blake, che era l'avvocato del vecchio Merton e aveva discusso con i soci gli affari della ditta. I quattro uomini si incontrarono nel mezzo della stanza esterna e si fermarono per un breve, cortese scambio di parole, nell'atto di andare e di venire rispettivamente. E attraverso tutti quegli andirivieni un'altra figura sedeva in fondo alla stanza, presso la porta interna, massiccia e immobile nella penombra proveniente dalla finestra interna: un uomo dal volto di negro e dalle spalle enormi. Era ciò che l'umoristica autocritica dell'America chiama scherzosamente il Bad Man, l'uomo cattivo, che gli amici avrebbero potuto chiamare guardia del corpo e i nemici sicario.
+
+Quest'uomo non si mosse né si scompose mai per salutare nessuno; ma la sua vista nella stanza esterna parve spingere Peter Wain alla sua prima, nervosa domanda.
+
+«C'è qualcuno con il capo?» chiese.
+
+«Non agitarti, Peter» ridacchiò lo zio. «Wilton, il segretario, è con lui, e [[Hope|spero]] che questo basti a chiunque. Non credo che Wilton dorma mai, tanto sta a guardia di Merton. Vale più di venti guardie del corpo. Ed è svelto e silenzioso come un Indiano.»
+
+«Be', tu te ne intendi» disse il nipote, ridendo. «Mi ricordo i trucchi da Pellirossa che mi insegnavi quando ero ragazzo e mi piaceva leggere le storie di Pellirossa. Solo che nelle mie storie i Pellirossa parevano avere sempre la peggio.»
+
+«Nella vita vera non l'avevano» disse cupo il vecchio uomo di frontiera.
+
+«Davvero?» domandò il mellifluo signor Blake. «Avrei creduto che potessero far ben poco contro le nostre armi da fuoco.»
+
+«Ho visto un Indiano stare sotto il tiro di cento fucili con nient'altro che un piccolo coltello da scotennare e uccidere un uomo bianco ritto in cima a un forte» disse Crake.
+
+«E come, che cosa ne fece?» chiese l'altro.
+
+«Lo scagliò» rispose Crake, «lo scagliò in un lampo, prima che si potesse sparare un colpo. Non so dove abbia imparato il trucco.»
+
+«[[Well|Be'!]], [[Hope|spero]] che tu non l'abbia imparato» disse il nipote, ridendo.
+
+«Mi pare» disse padre Brown, pensieroso, «che la storia potrebbe avere una morale.»
+
+Mentre parlavano, il signor Wilton, il segretario, era uscito dalla stanza interna e stava ad attendere: un uomo pallido, dai capelli chiari, con il mento quadrato e occhi fermi dallo sguardo simile a quello di un cane; non era difficile credere che avesse l'occhio vigile di un cane da guardia.
+
+Disse soltanto: «Il signor Merton può riceverla fra una decina di minuti», ma bastò come segnale a sciogliere il crocchio di chiacchieroni. Il vecchio Crake disse che doveva andare, e il nipote uscì con lui e con il suo compagno legale, lasciando padre Brown per un momento solo con il segretario; poiché il gigante negroide all'altro capo della stanza a stento poteva essere sentito come umano o vivo: sedeva così immobile, con le larghe spalle voltate verso di loro, lo sguardo fisso verso la stanza interna.
+
+«Precauzioni piuttosto elaborate qui, temo» disse il segretario. «Avrà probabilmente sentito parlare di questo Daniel Doom, e del perché non sia prudente lasciare il capo troppo a lungo da solo.»
+
+«Ma proprio adesso è [[Alone|solo]], non è vero?» disse [[Father Brown]].
+
+Il segretario lo guardò con [[Grave|gravi]] occhi grigi. «Per quindici minuti» disse. «Per quindici minuti sulle ventiquattr'ore. È tutta la vera [[Solitude|solitudine]] che ha; e su quella insiste, per una ragione piuttosto notevole.»
+
+«E qual è la ragione?» domandò il visitatore. Wilton, il segretario, continuò a fissarlo con lo sguardo fermo, ma la bocca, che era stata semplicemente grave, si fece torva.
+
+«La Coppa Copta» disse. «Forse lei ha dimenticato la Coppa Copta; ma lui non ha dimenticato quella né alcun'altra cosa. Non si fida di nessuno di noi riguardo alla Coppa Copta. È chiusa da qualche parte e in qualche modo in quella stanza, cosicché soltanto lui possa trovarla; e non la tira fuori finché non ci siamo tolti tutti di mezzo. Così dobbiamo rischiare quel quarto d'ora mentre lui siede e la adora; suppongo sia la sola adorazione che gli riesca. Non che vi sia davvero un rischio; perché ho trasformato tutto questo posto in una trappola in cui non credo che nemmeno il diavolo in persona riuscirebbe a entrare... o, per lo meno, a uscire. Se questo infernale Daniel Doom ci fa una visita, resterà a cena e a lungo dopo, per Dio! Io me ne sto qui sui carboni ardenti per i quindici minuti, e nell'istante in cui sentissi uno sparo o un rumore di lotta premerei questo bottone e una corrente da sedia elettrica correrebbe in cerchio lungo tutto il muro di quel giardino, così che sarebbe la [[Death|morte]] a [[Cross|varcarlo]] o a scalarlo. Naturalmente non ci potrebbe essere uno sparo, perché questa è l'unica via d'ingresso; e la sola [[Window|finestra]] a cui egli siede è lassù, in cima a una torre liscia come un palo insaponato. Ma, a ogni modo, qui siamo tutti armati, si capisce; e se Doom riuscisse a entrare in quella stanza sarebbe morto prima di uscirne.»
+
+[[Father Brown]] guardava sbattendo le palpebre verso il tappeto, immerso in profonde riflessioni. Poi disse all'improvviso, con qualcosa che somigliava a un sussulto: «Spero non le dispiaccia che io lo faccia notare, ma proprio in questo momento mi è balenata in testa una specie di idea. Riguarda lei.»

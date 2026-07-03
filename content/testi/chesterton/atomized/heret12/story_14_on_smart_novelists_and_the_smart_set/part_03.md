@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/heret12-(chesterton)">Heretics</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/heret12/story_14_on_smart_novelists_and_the_smart_set/part_02">‹ part 02</a><a class="ex-next" href="/testi/chesterton/atomized/heret12/story_15_on_mr_mccabe_and_a_divine_frivolity/part_01">part 01 ›</a></div>
@@ -205,3 +207,205 @@ to be an Englishman, but the greatest of whose glories was
 that he saw all mankind in its amazing and tropical luxuriance,
 and did not even notice the aristocracy; Dickens, the greatest
 of whose glories was that he could not describe a gentleman.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/heret12-(chesterton)">Heretics</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/heret12/story_14_on_smart_novelists_and_the_smart_set/part_02">‹ part 02</a><a class="ex-next" href="/testi/chesterton/atomized/heret12/story_15_on_mr_mccabe_and_a_divine_frivolity/part_01">part 01 ›</a></div>
+</nav>
+
+# [[heret12]] — I romanzieri alla moda e il bel mondo (parte 3)
+
+L'elemento ossessivo di inefficacia che percorre tanta parte
+della narrativa arguta ed epigrammatica di moda negli ultimi
+otto o dieci anni, che percorre opere di un ingegno reale seppure
+variabile come «Dodo», o «Concerning Isabel Carnaby»,
+o persino «Some Emotions and a Moral», si può esprimere in vari modi,
+ma per la maggior parte di noi credo che si ridurrà infine alla stessa cosa.
+Questa nuova frivolezza è inadeguata perché non vi è in essa alcun forte senso
+di una gioia inespressa.  Gli uomini e le donne che si scambiano le battute
+non solo potrebbero odiarsi a vicenda, ma potrebbero persino odiare se stessi.
+Ciascuno di loro potrebbe essere andato in bancarotta quel giorno, o essere condannato ad essere fucilato
+l'indomani.  Scherzano non perché siano allegri, ma perché
+non lo sono; dalla vacuità del cuore parla la bocca.
+Anche quando dicono puro nonsenso è un nonsenso accurato: un nonsenso
+di cui sono parsimoniosi, o, per usare la perfetta espressione
+del signor W. S. Gilbert in «Patience», è un «nonsenso così prezioso».
+Anche quando diventano leggeri di testa non diventano leggeri di cuore.
+Tutti coloro che hanno letto qualcosa del razionalismo dei moderni sanno
+che la loro Ragione è una cosa triste.  Ma anche la loro irragionevolezza è triste.
+
+Anche le cause di questa incapacità non sono molto difficili da additare.
+La principale di tutte, naturalmente, è quel misero [[Fear|timore]] di essere sentimentali,
+che è il più meschino di tutti i terrori moderni: più meschino persino del terrore
+che produce l'igiene.  Ovunque l'[[Humour|umorismo]] robusto e fragoroso
+è venuto da uomini capaci non soltanto di sentimentalismo,
+ma di un sentimentalismo assai sciocco.  Non vi è mai stato [[Humour|umorismo]] tanto robusto
+o fragoroso quanto quello del sentimentale Steele o del sentimentale
+Sterne o del sentimentale Dickens.  Queste creature che piangevano come donne
+erano le creature che ridevano come uomini.  È vero che l'[[Humour|umorismo]]
+di Micawber è buona letteratura e che il patetico della [[Little Nell|piccola Nell]] è cattiva.
+Ma il tipo d'uomo che ebbe il [[Courage|coraggio]] di scrivere così male nell'un caso
+è il tipo d'uomo che avrebbe il [[Courage|coraggio]] di scrivere così [[Well|bene]] nell'altro.
+La stessa inconsapevolezza, la stessa violenta [[innocence|innocenza]], la stessa scala
+gigantesca d'azione che portò al Napoleone della [[Comedy|commedia]] la sua Jena gli portò
+anche la sua Mosca.  E in ciò si mostra specialmente il freddo e fiacco
+limite dei nostri arguti moderni.  Fanno sforzi violenti, fanno
+sforzi eroici e quasi patetici, ma non riescono davvero a scrivere male.
+Vi sono momenti in cui quasi pensiamo che stiano raggiungendo l'effetto,
+ma la nostra [[Hope|speranza]] si riduce a nulla nell'istante in cui confrontiamo i loro piccoli
+fallimenti con le enormi imbecillità di Byron o di Shakespeare.
+
+Per una sonora risata è necessario aver toccato il cuore.
+Non so perché il toccare il cuore debba sempre essere connesso soltanto
+con l'idea di toccarlo alla compassione o a un senso di angoscia.
+Il cuore può essere toccato alla gioia e al trionfo; il cuore può essere
+toccato al divertimento.  Ma tutti i nostri commediografi sono commediografi tragici.
+Questi più recenti scrittori alla moda sono tanto pessimisti nelle ossa
+e nel midollo che non paiono mai capaci di immaginare che il cuore abbia
+qualcosa a che fare con l'allegria.  Quando parlano del cuore, intendono sempre
+gli spasimi e le delusioni della vita affettiva.
+Quando dicono che il cuore di un uomo è al posto giusto,
+intendono, a quanto pare, che è nelle sue scarpe.
+Le nostre società etiche comprendono la comunanza, ma
+non comprendono la buona compagnia.  Similmente, i nostri arguti
+comprendono la conversazione, ma non ciò che il dottor Johnson chiamava una buona conversazione.
+Per avere, come il dottor Johnson, una buona conversazione, è
+categoricamente necessario essere, come il dottor Johnson, un buon uomo:
+avere [[Friendship|amicizia]] e [[Honour|onore]] e un'abissale tenerezza.
+Soprattutto, è necessario essere apertamente e indecentemente umani,
+confessare con pienezza tutte le pietà e le paure primordiali
+di Adamo.  Johnson era un uomo lucido e faceto,
+e perciò non aveva ritegno a parlare seriamente di religione.
+Johnson era un uomo coraggioso, uno dei più coraggiosi che mai camminassero,
+e perciò non aveva ritegno a confessare a chiunque il suo divorante
+[[Fear|timore]] della [[Death|morte]].
+
+L'idea che vi sia qualcosa di inglese nella repressione
+dei propri sentimenti è una di quelle idee di cui nessun inglese
+udì mai parlare finché l'Inghilterra non cominciò a essere governata esclusivamente
+da scozzesi, americani ed ebrei.  Nel migliore dei casi, l'idea
+è una generalizzazione tratta dal duca di Wellington, il quale era
+irlandese.  Nel peggiore, è una parte di quello sciocco teutonismo
+che sa dell'Inghilterra tanto poco quanto sa di antropologia,
+ma che parla sempre di vichinghi.  In verità dei fatti,
+i vichinghi non reprimevano affatto i loro sentimenti.
+Piangevano come bambini e si baciavano l'un l'altro come fanciulle;
+in breve, si comportavano al riguardo come [[Achilles|Achille]] e tutti
+i forti eroi figli degli dèi.  E benché la nazionalità
+inglese abbia probabilmente non molto più a che fare con i vichinghi
+di quanto ne abbia la nazionalità francese o la nazionalità irlandese,
+gli inglesi sono stati certamente i figli dei vichinghi
+in fatto di [[Tears|lacrime]] e di baci.  Non è solo vero che
+tutti i più tipicamente inglesi uomini di lettere, come Shakespeare
+e Dickens, Richardson e Thackeray, furono sentimentali.
+È anche vero che tutti i più tipicamente inglesi uomini
+d'azione furono sentimentali, e semmai più sentimentali ancora.
+Nella grande età elisabettiana, quando la nazione inglese fu
+definitivamente forgiata a martellate, nel grande Settecento in cui
+l'Impero britannico veniva edificato ovunque, dove, in
+tutti questi tempi, dov'era questo simbolico e stoico inglese
+che si veste di grigiastro e di nero e reprime i suoi sentimenti?
+Erano forse così tutti i paladini e i pirati elisabettiani?
+Ne era così anche uno soltanto?  Nascondeva forse Grenville
+le sue emozioni quando frantumava i calici di vino coi propri
+denti e li mordeva finché il [[Blood|sangue]] non gli colava giù?  Reprimeva forse Essex
+la sua eccitazione quando scagliava il cappello in mare?
+Riteneva forse Raleigh sensato rispondere ai cannoni spagnoli soltanto,
+come dice Stevenson, con uno squillo di trombe insultanti?
+Sydney lasciò forse mai sfuggire un'occasione per fare un'osservazione
+teatrale nell'intero corso della sua vita e della sua [[Death|morte]]?  Erano forse persino
+i Puritani degli stoici?  I Puritani inglesi repressero un bel po',
+ma persino loro erano troppo inglesi per reprimere i propri sentimenti.
+Fu certamente per un gran miracolo di genio che Carlyle
+riuscì ad ammirare simultaneamente due cose così irriconciliabilmente
+opposte come il [[Silence|silenzio]] e [[Oliver]] Cromwell.  Cromwell era l'esatto
+contrario di un uomo forte e silenzioso.  Cromwell parlava sempre,
+quando non piangeva.  Nessuno, suppongo, accuserà l'autore
+di «Grace Abounding» di vergognarsi dei propri sentimenti.
+[[Milton]], in verità, potrebbe forse essere rappresentato come uno stoico;
+in un certo senso fu uno stoico, così come fu un saccente e un
+poligamo e parecchie altre cose sgradevoli e pagane.
+Ma quando abbiamo oltrepassato quel grande e desolato nome, che può
+davvero essere considerato un'eccezione, troviamo la tradizione dell'emotività
+inglese immediatamente ripresa e continua senza interruzioni.
+Qualunque sia stata la [[Beauty|bellezza]] morale delle passioni
+di Etheridge e Dorset, Sedley e [[Buckingham]], non li si può
+accusare della colpa di averle schizzinosamente occultate.
+Carlo II fu molto amato dagli inglesi perché,
+come tutti gli allegri re inglesi, ostentava le sue passioni.
+Guglielmo l'olandese fu assai malvisto dagli inglesi perché,
+non essendo inglese, nascondeva davvero le sue emozioni.  Egli era,
+di fatto, esattamente l'inglese ideale della nostra moderna teoria;
+e proprio per questa ragione tutti gli inglesi veri lo aborrivano
+come la lebbra.  Con il sorgere della grande Inghilterra del
+Settecento, troviamo questo tono aperto ed emotivo
+ancora mantenuto nelle lettere e nella politica, nelle arti e nelle armi.
+Forse l'unica qualità che il grande Fielding e il grande Richardson
+possedevano in comune era che nessuno dei due
+nascondeva i propri sentimenti.  Swift, in verità, era duro e logico,
+perché Swift era irlandese.  E quando passiamo ai soldati
+e ai governanti, ai patrioti e ai costruttori d'impero
+del Settecento, troviamo, come ho detto,
+che erano, semmai, più romantici dei romanzieri,
+più poetici dei poeti.  Chatham, che mostrò al mondo
+tutta la sua forza, mostrò alla [[house|Camera]] dei Comuni tutta la sua debolezza.
+Wolfe passeggiava per la stanza con la [[Sword|spada]] sguainata chiamando se stesso
+Cesare e Annibale, e andò incontro alla [[Death|morte]] con la poesia sulle labbra.
+Clive era un uomo dello stesso tipo di Cromwell o di Bunyan, o, se è per questo,
+di Johnson: cioè era un uomo forte e assennato,
+con una specie di zampillante [[spring|sorgente]] di isteria e di [[Melancholy|malinconia]] dentro di sé.
+Come Johnson, era tanto più sano quanto più era morboso.
+I racconti di tutti gli ammiragli e gli avventurieri di quell'Inghilterra sono
+pieni di spacconate, di sentimentalismo, di splendida affettazione.
+Ma è appena necessario moltiplicare gli esempi dell'inglese essenzialmente
+romantico quando un solo esempio li sovrasta tutti.
+Il signor Rudyard Kipling ha detto compiaciuto degli inglesi: «Non
+ci gettiamo al collo l'un l'altro e non ci baciamo quando ci ritroviamo».
+È vero che quest'antica e universale usanza è svanita
+con il moderno indebolimento dell'Inghilterra.  Sydney non avrebbe pensato
+nulla di male a baciare Spenser.  Ma concedo volentieri che
+il signor Broderick non sarebbe verosimilmente incline a baciare il signor Arnold-Foster,
+se questo sia mai una prova dell'accresciuta virilità e della
+[[Greatness|grandezza]] militare dell'Inghilterra.  Ma l'inglese che non mostra
+i propri sentimenti non ha del tutto rinunciato alla capacità di vedere
+qualcosa di inglese nel grande [[Hero|eroe]] marino della guerra napoleonica.
+Non si può infrangere la leggenda di Nelson.  E attraverso il tramonto
+di quella gloria è scritto a lettere di fuoco per sempre il grande
+sentimento inglese: «Baciami, Hardy».
+
+Questo ideale di repressione di [[Self|sé]], dunque, è, qualunque altra cosa sia,
+non inglese.  È, forse, alquanto orientale, è
+lievemente prussiano, ma nel complesso non proviene, credo,
+da alcuna fonte razziale o nazionale.  È, come ho detto,
+in un certo senso aristocratico; proviene non da un popolo,
+ma da una classe.  Persino l'aristocrazia, credo, non era del tutto
+così stoica nei giorni in cui era davvero forte.  Ma sia che
+questo ideale privo di emozioni sia la genuina tradizione del gentiluomo,
+sia che sia soltanto una delle invenzioni del gentiluomo moderno (che si potrebbe
+chiamare il gentiluomo decaduto), esso ha certamente qualcosa
+a che fare con la qualità priva di emozioni di questi romanzi mondani.
+Dal rappresentare gli aristocratici come persone che sopprimevano
+i propri sentimenti, il passo è stato facile fino a rappresentare
+gli aristocratici come persone che non avevano sentimenti da sopprimere.
+Così il moderno oligarchista ha fatto una virtù per l'oligarchia
+tanto della durezza [[Well|come pure]] dello splendore del diamante.
+Come un poeta di sonetti che nel Seicento si rivolge alla sua dama,
+egli pare usare la parola «freddo» quasi come un elogio, e la parola
+«senza cuore» come una sorta di complimento.  Naturalmente, in persone così
+inguaribilmente buone di cuore e infantili come la piccola nobiltà inglese, sarebbe
+impossibile creare qualcosa che si possa dire crudeltà positiva;
+sicché in questi libri essi mostrano una sorta di crudeltà negativa.
+Non possono essere crudeli nei fatti, ma possono esserlo nelle parole.
+Tutto ciò significa una sola cosa, e una sola.  Significa che
+l'ideale vivo e vivificante dell'Inghilterra va cercato
+nelle masse; va cercato là dove Dickens lo trovò:
+Dickens, tra le cui glorie vi era l'essere umorista,
+l'essere sentimentale, l'essere ottimista, l'essere un pover'uomo,
+l'essere inglese, ma la più grande delle cui glorie fu
+che vide tutta l'umanità nella sua stupefacente e tropicale lussureggianza,
+e non si accorse nemmeno dell'aristocrazia; Dickens, la più grande
+delle cui glorie fu che non seppe descrivere un gentiluomo.

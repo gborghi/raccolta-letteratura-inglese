@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/heret12-(chesterton)">Heretics</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/heret12/story_11_paganism_and_mr_lowes_dickinson/part_03">‹ part 03</a><a class="ex-next" href="/testi/chesterton/atomized/heret12/story_13_on_certain_modern_writers_and_the_instit/part_02">part 02 ›</a></div>
@@ -125,3 +127,125 @@ And all aversions to ordinary humanity have this general character.  They are
 not aversions to its feebleness (as is pretended), but to its energy.
 The misanthropes pretend that they despise humanity for its weakness.
 As a matter of fact, they hate it for its strength.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/heret12-(chesterton)">Heretics</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/heret12/story_11_paganism_and_mr_lowes_dickinson/part_03">‹ part 03</a><a class="ex-next" href="/testi/chesterton/atomized/heret12/story_13_on_certain_modern_writers_and_the_instit/part_02">part 02 ›</a></div>
+</nav>
+
+# [[heret12]] — Su certi scrittori moderni e sull'istituzione della famiglia (parte 1)
+
+XIV.  Su certi scrittori moderni e sull'istituzione della famiglia
+
+La famiglia può a buon diritto essere considerata, verrebbe da pensare,
+un'istituzione umana ultima.  Chiunque ammetterebbe
+che essa è stata la cellula principale e l'unità centrale di quasi
+tutte le società finora esistite, tranne, in verità, quelle società
+come quella di Lacedemone, che puntò sull'«efficienza»,
+e che perciò è perita, senza lasciare traccia dietro di sé.
+Il [[Christianity|Cristianesimo]], per quanto enorme fosse la sua rivoluzione, non alterò
+questa antica e selvaggia santità; si limitò a rovesciarla.
+Non negò la trinità di padre, madre e [[Child|figlio]].
+La lesse soltanto all'incontrario, facendola scorrere come [[Child|figlio]], madre, padre.
+E la chiamò non famiglia, ma Sacra Famiglia,
+poiché molte cose vengono rese sacre dall'essere capovolte.
+Ma alcuni sapienti della nostra decadenza hanno mosso un serio attacco
+alla famiglia.  L'hanno impugnata, a mio avviso a torto;
+e i suoi difensori l'hanno difesa, e l'hanno difesa a torto.
+La comune difesa della famiglia è che, in mezzo allo stress
+e alla mutevolezza della vita, essa è pacifica, piacevole e concorde.
+Ma vi è un'altra difesa della famiglia, che è possibile,
+e a me evidente; questa difesa è che la famiglia non è pacifica,
+né piacevole, né concorde.
+
+Non è di moda dire molto, oggigiorno, dei vantaggi della
+piccola comunità.  Ci vien detto che dobbiamo puntare su grandi imperi
+e grandi idee.  Vi è un vantaggio, tuttavia, nel piccolo stato,
+nella [[City|città]], o nel villaggio, che solo chi è volontariamente cieco può trascurare.
+L'uomo che vive in una piccola comunità vive in un mondo assai più grande.
+Egli conosce molto di più le fiere varietà e le intransigenti divergenze
+degli uomini.  La ragione è ovvia.  In una grande comunità possiamo scegliere
+i nostri compagni.  In una piccola comunità i nostri compagni ci sono scelti.
+Così, in tutte le società estese e altamente civilizzate, si formano gruppi
+fondati su ciò che si chiama simpatia, e che escludono
+il mondo reale più nettamente che le porte di un monastero.
+Non vi è nulla di veramente angusto nel clan; ciò che è davvero
+angusto è la cricca.  Gli uomini del clan vivono insieme perché
+portano tutti lo stesso tartan o discendono tutti dalla stessa vacca sacra;
+ma nelle loro anime, per la divina fortuna delle cose, vi saranno sempre
+più colori che in qualsiasi tartan.  Ma gli uomini della cricca vivono
+insieme perché hanno lo stesso genere d'[[Soul|anima]], e la loro angustia
+è un'angustia di coerenza e di compiacimento spirituale, simile a quella
+che esiste all'inferno.  Una grande società esiste per formare cricche.
+Una grande società è una società per la promozione dell'angustia.
+È un macchinario destinato a proteggere l'individuo solitario e sensibile
+da ogni esperienza degli amari e tonificanti compromessi umani.
+È, nel senso più letterale delle parole, una società per la prevenzione
+della conoscenza cristiana.
+
+Possiamo scorgere questo mutamento, per esempio, nella moderna trasformazione
+della cosa chiamata club.  Quando [[London|Londra]] era più piccola, e le parti
+di [[London|Londra]] erano più [[Self|autonome]] e parrocchiali, il club era ciò che
+è tuttora nei villaggi, l'opposto di ciò che è oggi nelle grandi città.
+Allora il club era apprezzato come luogo dove un uomo poteva essere socievole.
+Ora il club è apprezzato come luogo dove un uomo può essere insocievole.
+Quanto più procedono l'ingrandimento e l'elaborazione della nostra civiltà,
+tanto più il club cessa di essere un luogo dove un uomo può avere
+un rumoroso litigio, e diventa sempre più un luogo dove un uomo
+può gustare ciò che, con una certa stravaganza, viene chiamato una tranquilla braciola.
+Il suo scopo è rendere un uomo comodo, e rendere un uomo comodo
+significa renderlo l'opposto di socievole.  La socievolezza, come tutte
+le cose buone, è piena di disagi, di pericoli e di rinunce.
+Il club tende a produrre la più degradata di tutte le combinazioni:
+l'anacoreta lussurioso, l'uomo che unisce l'[[Self|autoindulgenza]]
+di [[Lucullus|Lucullo]] all'insensata [[Loneliness|solitudine]] di san Simeone Stilita.
+
+Se domani mattina restassimo bloccati dalla neve nella strada in cui viviamo,
+ci ritroveremmo a un tratto in un mondo assai più grande e assai più selvaggio
+di quanto abbiamo mai conosciuto.  Ed è tutto lo sforzo dell'uomo tipicamente
+moderno quello di fuggire dalla strada in cui vive.
+Prima inventa l'igiene moderna e va a Margate.  Poi inventa
+la cultura moderna e va a Firenze.  Poi inventa l'imperialismo moderno
+e va a Timbuctù.  Va ai confini fantastici della terra.
+Finge di cacciare le tigri.  Quasi cavalca un cammello.  E in tutto questo
+egli sta pur sempre, essenzialmente, fuggendo dalla strada in cui è nato;
+e di questa fuga è sempre pronto a dare la propria spiegazione.
+Dice di fuggire dalla sua strada perché è noiosa; sta mentendo.
+In realtà egli fugge dalla sua strada perché è fin troppo eccitante.
+È eccitante perché è esigente; è esigente perché è viva.
+Egli può visitare [[Venice|Venezia]] perché per lui i Veneziani non sono che Veneziani;
+la gente della sua strada è fatta di uomini.  Può fissare i Cinesi
+perché per lui i Cinesi sono una cosa passiva da fissare;
+se fissa la vecchia signora del [[Garden|giardino]] accanto, ella diventa attiva.  È
+costretto a fuggire, insomma, dalla società troppo stimolante dei suoi pari:
+di uomini liberi, perversi, personali, deliberatamente diversi da lui.
+La strada di Brixton è troppo ardente e soverchiante.  Egli deve lenirsi
+e acquietarsi tra tigri e avvoltoi, cammelli e coccodrilli.
+Queste creature sono in effetti assai diverse da lui.  Ma non
+mettono la loro forma, il loro colore o la loro consuetudine in una decisiva
+competizione intellettuale con le sue.  Non cercano di distruggere i suoi princìpi
+e di affermare i propri; gli stranieri mostri della strada suburbana invece
+cercano di farlo.  Il cammello non contorce i lineamenti in un raffinato
+sogghigno perché il signor Robinson non ha la gobba; il colto gentiluomo
+del numero 5 sfoggia sì un sogghigno perché Robinson non ha un dado decorativo.
+L'avvoltoio non scoppierà in una risata perché un uomo non vola;
+ma il maggiore del numero 9 scoppierà in una risata perché un uomo
+non fuma.  La lagnanza che comunemente muoviamo contro i nostri vicini
+è che non vogliono, come diciamo, badare ai fatti propri.
+In realtà non intendiamo dire che essi non vogliono badare ai fatti propri.
+Se i nostri vicini non badassero ai fatti propri, verrebbe loro chiesto
+bruscamente l'affitto, e cesserebbero rapidamente di essere nostri vicini.
+Ciò che davvero intendiamo, quando diciamo che non sanno badare ai fatti propri,
+è qualcosa di assai più profondo.  Non li avversiamo perché hanno
+così poca forza e così poco [[Fire|fuoco]] da non potersi interessare a sé stessi.
+Li avversiamo perché hanno tanta forza e tanto [[Fire|fuoco]] da potersi
+interessare anche a [[Well|noi]].  Ciò che paventiamo nei nostri vicini, insomma, non è
+l'angustia del loro orizzonte, ma la loro superba tendenza ad allargarlo.
+E tutte le avversioni verso l'umanità comune hanno questo carattere generale.  Non sono
+avversioni alla sua fiacchezza (come si finge), ma alla sua energia.
+I misantropi fingono di disprezzare l'umanità per la sua debolezza.
+Di fatto, la odiano per la sua forza.

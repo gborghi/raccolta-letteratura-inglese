@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/wifrb11-(chesterton)">The Wisdom of Father Brown</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/wifrb11/story_08_the_perishing_of_the_pendragons/part_05">‹ part 05</a><a class="ex-next" href="/testi/chesterton/atomized/wifrb11/story_08_the_perishing_of_the_pendragons/part_07">part 07 ›</a></div>
@@ -134,3 +136,62 @@ sucking noise of empty buckets plunged into a full stream; and finally
 the sound of many feet around the [[Fire|fire]].  But all this was less to him
 than the fact that the red rent, which had lately once more increased,
 had once more slightly diminished.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/wifrb11-(chesterton)">The Wisdom of Father Brown</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/wifrb11/story_08_the_perishing_of_the_pendragons/part_05">‹ part 05</a><a class="ex-next" href="/testi/chesterton/atomized/wifrb11/story_08_the_perishing_of_the_pendragons/part_07">part 07 ›</a></div>
+</nav>
+
+# [[wifrb11]] — La fine dei Pendragon (parte 6)
+
+     «C'è sempre qualche piccola cosa da fare» disse con idiota allegria; «come dice George Herbert: "Chi scopa il [[Garden|giardino]] di un Ammiraglio in Cornovaglia per amore delle Tue leggi rende nobili tanto quello quanto l'azione." E ora» aggiunse, gettando via all'improvviso la scopa, «andiamo ad [[Water|annaffiare]] i [[Flowers|fiori]].»
+
+     Con le stesse emozioni contrastanti lo osservarono srotolare tratti considerevoli del grande tubo da [[Garden|giardino]], mentre diceva con aria di malinconica ponderatezza: «Prima i tulipani rossi che i gialli, credo. Sembrano un po' aridi, non vi pare?»
+
+     Aprì il rubinetto dello strumento, e l'[[Water|acqua]] schizzò fuori dritta e solida come una lunga asta d'acciaio.
+
+     «Attento, Sansone» gridò [[Flambeau]]; «diamine, avete decapitato il tulipano.»
+
+     [[Father Brown]] restò a contemplare mestamente la pianta decapitata.
+
+     «La mia sembra proprio essere un'annaffiatura del tipo o guarisce o uccide» ammise, grattandosi il capo. «Immagino sia un peccato che non abbia trovato la zappetta. Avreste dovuto vedermi con la zappetta! A proposito di attrezzi, avete quel bastone-spada, [[Flambeau]], che portate sempre con voi? Bene; e Sir Cecil potrebbe prendere quella [[Sword|spada]] che l'Ammiraglio ha gettato via lì presso lo steccato. Com'è grigio tutto quanto!»
+
+     «È la nebbia che sale dal [[River|fiume]]» disse [[Flambeau]] con lo sguardo fisso.
+
+     Quasi mentre parlava, l'enorme figura del giardiniere peloso comparve su un crinale più alto del prato scavato e terrazzato, apostrofandoli con un rastrello brandito e una voce orribilmente muggente. «Metti giù quel tubo» urlò; «metti giù quel tubo e vai a…»
+
+     «Sono spaventosamente maldestro» rispose fiaccamente il reverendo signore; «sapete, ho rovesciato del vino a cena.» Fece un vacillante mezzo giro di scusa verso il giardiniere, con il tubo che ancora zampillava in mano. Il giardiniere ricevette il freddo urto dell'[[Water|acqua]] in pieno viso, come l'urto di una palla di cannone; barcollò, scivolò e cadde lungo disteso, con gli stivali all'aria.
+
+     «Che cosa terribile!» disse [[Father Brown]], guardandosi intorno in una sorta di [[Wonder|stupore]]. «Diamine, ho colpito un uomo!»
+
+     Restò un momento con il capo proteso in avanti, come se guardasse o ascoltasse; e poi si avviò al trotto verso la torre, trascinandosi ancora dietro il tubo. La torre era piuttosto vicina, ma il suo profilo era curiosamente indistinto.
+
+     «La vostra nebbia del [[River|fiume]]» disse, «ha un odore curioso.»
+
+     «Perdio, è vero» gridò Fanshaw, che era pallidissimo. «Ma non vorrete dire…»
+
+     «Voglio dire» disse [[Father Brown]], «che una delle previsioni scientifiche dell'Ammiraglio si sta avverando stanotte. Questa storia finirà in fumo.»
+
+     Mentre parlava, una bellissima luce color rosso [[Rose|rosa]] parve sbocciare come una gigantesca [[Rose|rosa]]; ma accompagnata da un crepitio e un fragore che pareva il riso dei demoni.
+
+     «Mio Dio! che cos'è questo?» gridò Sir Cecil Fanshaw.
+
+     «Il segno della torre fiammeggiante» disse [[Father Brown]], e diresse il getto d'[[Water|acqua]] del suo tubo nel cuore della macchia rossa.
+
+     «Per fortuna non eravamo andati a letto!» esclamò Fanshaw. «Immagino che non possa propagarsi alla [[house|casa]].»
+
+     «Ricorderete forse» disse il prete con calma, «che lo steccato di legno che avrebbe potuto trasmetterlo è stato tagliato via.»
+
+     [[Flambeau]] volse verso l'amico occhi elettrizzati, ma Fanshaw disse soltanto, piuttosto distrattamente: «[[Well|Beh]], nessuno può restare ucciso, in ogni caso.»
+
+     «È una torre piuttosto curiosa, questa» osservò [[Father Brown]]; «quando si mette a uccidere la gente, uccide sempre gente che si trova da qualche altra parte.»
+
+     Nello stesso istante la mostruosa figura del giardiniere, con la barba grondante, si ergeva di nuovo sul crinale verde contro il cielo, facendo cenno agli altri di avanzare; ma ora agitando non un rastrello, bensì un coltellaccio. Dietro di lui venivano i due negri, anch'essi con i vecchi coltellacci ricurvi presi dal trofeo. Ma nel bagliore rosso [[Blood|sangue]], con i loro visi neri e le loro figure gialle, sembravano demoni che recassero strumenti di tortura. Nel [[Garden|giardino]] fioco alle loro spalle si udiva una voce lontana che gridava brevi ordini. Quando il prete udì quella voce, un terribile mutamento gli passò sul volto.
+
+     Ma egli rimase composto; e non tolse mai l'occhio dalla macchia di fiamma, che aveva cominciato a diffondersi, ma ora pareva ridursi un poco mentre sfrigolava sotto la torcia della lunga lancia d'argento d'[[Water|acqua]]. Teneva il dito lungo l'ugello del tubo per assicurare la mira, e non badava ad altro, conoscendo solo dal rumore e da quell'angolo semicosciente dell'occhio gli eccitanti avvenimenti che cominciavano ad accavallarsi per il [[Garden|giardino]] dell'isola. Diede due brevi ordini ai suoi amici. Il primo fu: «Buttate giù questi tizi in qualche modo e legateli, chiunque siano; c'è della corda laggiù presso quelle fascine. Vogliono portarmi via il mio bel tubo.» L'altro fu: «Appena ne avete l'occasione, chiamate quella ragazza della canoa; è là sulla riva con gli zingari. Chiedetele se possono far passare qualche secchio e riempirlo al [[River|fiume]].» Poi chiuse la bocca e continuò ad [[Water|annaffiare]] il nuovo fiore rosso spietatamente come aveva annaffiato il tulipano rosso.
+
+     Non voltò mai il capo a guardare la strana battaglia che seguì tra i nemici e gli amici del misterioso [[Fire|fuoco]]. Sentì quasi l'isola tremare quando [[Flambeau]] si scontrò con l'enorme giardiniere; immaginò soltanto come essa dovesse turbinare loro attorno mentre lottavano. Udì il fragore della caduta; e l'ansito di trionfo dell'amico mentre si lanciava sul primo negro; e le grida di entrambi i neri mentre [[Flambeau]] e Fanshaw li legavano. La forza smisurata di [[Flambeau]] più che compensava lo svantaggio nella lotta, tanto più che il quarto uomo ancora si aggirava presso la [[house|casa]], solo un'[[Shadow|ombra]] e una voce. Udì anche l'[[Water|acqua]] rotta dalle pagaie di una canoa; la voce della ragazza che dava ordini, le voci degli zingari che rispondevano e si avvicinavano, il tonfo e il risucchio dei secchi vuoti immersi in una corrente piena; e infine il suono di molti piedi attorno al [[Fire|fuoco]]. Ma tutto ciò era per lui meno importante del fatto che lo squarcio rosso, che poco prima era di nuovo cresciuto, si era di nuovo lievemente ridotto.

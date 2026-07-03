@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/everlasting-man-(chesterton)">The Everlasting Man</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/everlasting_man/chapter_01_on_the_man_called_christ_chris/part_03">‹ part 03</a><a class="ex-next" href="/testi/chesterton/atomized/everlasting_man/chapter_02/part_01">part 01 ›</a></div>
@@ -134,5 +136,137 @@ other chance cult taking its place, we shall be the more surprised
 rushing through the ages as the winged thunderbolt of thought
 and everlasting enthusiasm; a thing without rival or resemblance;
 and still as new as it is old.
+
+* * *
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/everlasting-man-(chesterton)">The Everlasting Man</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/everlasting_man/chapter_01_on_the_man_called_christ_chris/part_03">‹ part 03</a><a class="ex-next" href="/testi/chesterton/atomized/everlasting_man/chapter_02/part_01">part 01 ›</a></div>
+</nav>
+
+In questo esempio, che ho scelto semplicemente perché è un esempio,
+si noterà che io non dico che l'[[nightmare|incubo]] visto dal
+primo uomo della foresta sia più vero o più meraviglioso
+della normale cavalla della stalla vista dalla persona civilizzata
+che sa apprezzare ciò che è normale. Dei due estremi, credo
+nel complesso che il tradizionale possesso della [[Truth|verità]] sia il migliore.
+Ma dico che la [[Truth|verità]] si trova all'uno o all'altro di questi due estremi,
+e si perde nella condizione intermedia della mera stanchezza e
+dell'oblio della tradizione. In altre parole, dico che è meglio
+vedere un [[Horse|cavallo]] come un [[Monster|mostro]] che vederlo soltanto come un lento surrogato
+di un'automobile. Se siamo caduti in quello stato d'animo verso un [[Horse|cavallo]]
+come qualcosa di stantìo, è di gran lunga meglio essere spaventati da un [[Horse|cavallo]]
+perché è di gran lunga troppo fresco.
+
+Ora, come è del [[Monster|mostro]] che si chiama [[Horse|cavallo]], così
+è del [[Monster|mostro]] che si chiama uomo. Naturalmente la condizione migliore
+di tutte, a mio parere, è aver sempre considerato l'uomo
+come lo si considera nella mia [[philosophy|filosofia]]. Chi tiene per la visione cristiana
+e cattolica della [[Nature|natura]] umana sentirà con certezza che è
+una visione universale e perciò sana, e ne sarà appagato.
+Ma se ha perduto la visione sana, può riacquistarla soltanto
+mediante qualcosa di molto simile a una visione folle; ossia vedendo l'uomo
+come uno strano animale e rendendosi conto di quanto strano animale sia.
+Ma proprio come il vedere il [[Horse|cavallo]] come un prodigio preistorico condusse infine
+di nuovo verso, e non lontano da, un'ammirazione per la padronanza dell'uomo,
+così la considerazione davvero distaccata della curiosa carriera dell'uomo
+condurrà di nuovo verso, e non lontano da, l'antica [[Faith|fede]] nei tenebrosi
+disegni di Dio. In altre parole, è esattamente quando vediamo
+quanto sia bizzarro il quadrupede che lodiamo l'uomo che lo monta;
+ed esattamente quando vediamo quanto sia bizzarro il bipede che lodiamo
+la [[Providence|Provvidenza]] che lo fece.
+
+In breve, è scopo di questa introduzione sostenere questa tesi:
+che è esattamente quando consideriamo l'uomo come un animale che sappiamo
+che egli non è un animale. È precisamente quando tentiamo di raffigurarcelo
+come una sorta di [[Horse|cavallo]] sulle zampe posteriori che d'un tratto ci accorgiamo
+che egli dev'essere qualcosa di miracoloso quanto il [[Horse|cavallo]] alato che
+si levò torreggiando fino alle nubi del cielo. Tutte le strade conducono a Roma,
+tutte le vie riportano di nuovo alla centrale e civile [[philosophy|filosofia]],
+compresa questa [[Road|strada]] attraverso il paese degli elfi e il mondo alla rovescia.
+Ma può darsi che sia meglio non aver mai lasciato la terra
+della ragionevole tradizione, dove gli uomini cavalcano leggeri
+e sono possenti cacciatori al cospetto del Signore.
+
+Così pure, nel caso specialmente cristiano, dobbiamo reagire
+contro la pesante inclinazione della stanchezza. È quasi impossibile
+rendere vividi i fatti, perché i fatti sono familiari;
+e per gli uomini caduti è spesso vero che la familiarità è stanchezza.
+Sono convinto che, se potessimo raccontare la storia [[Supernatural|soprannaturale]] di [[Christ|Cristo]]
+parola per parola come quella di un [[Hero|eroe]] cinese, chiamandolo il Figlio del Cielo
+invece del Figlio di Dio, e tracciandone il nimbo raggiante nell'oro
+dei ricami cinesi o nella lacca dorata delle ceramiche cinesi,
+invece che nella foglia d'oro delle nostre antiche pitture cattoliche, vi
+sarebbe una testimonianza unanime della purezza spirituale della storia.
+Non udremmo allora nulla dell'ingiustizia della sostituzione
+o dell'illogicità dell'espiazione, della superstiziosa esagerazione
+del peso del peccato o dell'impossibile insolenza di un'invasione
+delle leggi della [[Nature|natura]]. Ammireremmo la cavalleria della cinese
+concezione di un dio che cadde dal cielo per combattere i draghi e
+salvare i malvagi dall'essere divorati dalla loro stessa colpa e follia.
+Ammireremmo la sottigliezza della cinese visione della vita, che scorge
+come ogni umana imperfezione sia in vera [[Truth|verità]] un'imperfezione clamorosa.
+Ammireremmo la cinese saggezza esoterica e superiore,
+la quale diceva che vi sono leggi cosmiche più alte delle leggi che conosciamo;
+prestiamo fede a ogni comune giocoliere indiano che scelga di venire da noi a parlare
+nel medesimo stile. Se il [[Christianity|Cristianesimo]] fosse soltanto una nuova moda orientale,
+non gli si rimprovererebbe mai di essere una vecchia e orientale [[Faith|fede]].
+Non mi propongo, in questo libro, di seguire il presunto esempio di
+san Francesco Saverio con l'opposta intenzione immaginativa, e trasformare
+i Dodici Apostoli in mandarini; non tanto per farli sembrare
+indigeni quanto per farli sembrare stranieri. Non mi propongo
+di mettere in atto quello che, credo, sarebbe uno scherzo pratico pienamente riuscito;
+quello di raccontare l'intera storia del Vangelo e l'intera [[history|storia]]
+della chiesa in una cornice di pagode e codini; e di notare
+con maligno [[Humour|umorismo]] quanto essa venisse ammirata come storia pagana,
+proprio in quei circoli dove è condannata come storia cristiana.
+Ma mi propongo di far risuonare, ovunque sia possibile, questa nota di ciò che è nuovo
+e strano, e per questa ragione lo stile, persino su un argomento così serio,
+potrà talora essere deliberatamente [[Grotesque|grottesco]] e fantasioso. [[Desire|Desidero]]
+aiutare il lettore a vedere la Cristianità dall'esterno, nel senso
+di vederla come un tutto, sullo sfondo di altre cose storiche;
+proprio come [[Desire|desidero]] che egli veda l'umanità come un tutto sullo sfondo
+delle cose naturali. E dico che in entrambi i casi, viste così,
+esse spiccano dal loro sfondo come cose [[Supernatural|soprannaturali]].
+Non sfumano nel resto coi colori dell'impressionismo;
+spiccano dal resto coi colori dell'araldica; vivide
+come una [[Cross|croce]] rossa su uno scudo bianco o un [[Lion|leone]] nero su un fondo d'oro.
+Così si erge la Rossa Argilla contro il verde campo della [[Nature|natura]],
+o il Bianco [[Christ|Cristo]] contro la rossa argilla della sua stirpe.
+
+Ma per vederle chiaramente dobbiamo vederle come un tutto.
+Dobbiamo vedere come si svilupparono [[Well|tanto quanto]] come cominciarono;
+poiché la parte più incredibile della storia è che cose le quali cominciarono
+così avrebbero dovuto svilupparsi così. Chiunque scelga di abbandonarsi
+alla mera [[Imagination|immaginazione]] può immaginare che sarebbero potute accadere altre cose
+o essersi evolute altre entità. Chiunque pensi a ciò che sarebbe potuto
+accadere può concepire una sorta di eguaglianza evolutiva; ma chiunque
+affronti ciò che accadde davvero deve affrontare un'eccezione e un prodigio.
+Se mai vi fu un momento in cui l'uomo era soltanto un animale, possiamo,
+se vogliamo, farci un quadro fantasioso della sua carriera trasferita a qualche
+altro animale. Si potrebbe comporre una divertente fantasia in cui
+elefanti costruivano in architettura elefantina, con torri e torrette
+simili a zanne e proboscidi, città al di là della scala di ogni colosso.
+Si potrebbe concepire una piacevole [[Fable|favola]] in cui una mucca avesse messo su
+un abbigliamento, e indossato quattro stivali e due paia di pantaloni.
+Potremmo immaginare una Superscimmia più prodigiosa di qualsiasi Superuomo,
+una creatura quadrumane che intaglia e dipinge con le mani e
+cucina e fa il falegname con i piedi. Ma se stiamo considerando
+ciò che accadde davvero, decideremo di certo che l'uomo ha distanziato
+tutto il resto con una distanza pari a quella degli spazi astronomici
+e una [[Speed|velocità]] pari a quella dell'immobile folgore della luce.
+E allo stesso modo, mentre possiamo, se vogliamo, vedere la Chiesa
+in mezzo a una folla di superstizioni mitraiche o manichee che si accapigliano
+e si uccidono a vicenda alla fine dell'Impero, mentre possiamo,
+se vogliamo, immaginare la Chiesa uccisa nella lotta e qualche
+altro culto fortuito a prenderne il posto, saremo tanto più sorpresi
+(e forse sconcertati) se la incontriamo duemila anni dopo
+sfrecciare attraverso i secoli come l'alata folgore del pensiero
+e dell'eterno entusiasmo; una cosa senza rivali né somiglianze;
+e ancora nuova quanto è antica.
 
 * * *

@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/innocence-(chesterton)">The Innocence of Father Brown</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/innocence/story_09_the_hammer_of_god/part_02">‹ part 02</a><a class="ex-next" href="/testi/chesterton/atomized/innocence/story_09_the_hammer_of_god/part_04">part 04 ›</a></div>
@@ -144,3 +146,144 @@ who were indeed friends of nearly everyone present.  Each of them
 said a few words which no one ever thought of disbelieving.
 When they had spoken, the [[innocence]] of Simeon stood up as solid
 as the great church above them.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/innocence-(chesterton)">The Innocence of Father Brown</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/innocence/story_09_the_hammer_of_god/part_02">‹ part 02</a><a class="ex-next" href="/testi/chesterton/atomized/innocence/story_09_the_hammer_of_god/part_04">part 04 ›</a></div>
+</nav>
+
+# [[innocence]] — Il martello di Dio (parte 3)
+
+«È quel che dico io» ripeté il ciabattino ostinatamente; «c'è un solo
+uomo che avrebbe potuto farlo, ed è l'uomo che l'avrebbe fatto.
+Dov'è Simeon Barnes, il fabbro?»
+
+«È laggiù a Greenford» balbettò il curato.
+
+«Più probabilmente laggiù in Francia» borbottò il ciabattino.
+
+«No; non è in nessuno di quei luoghi» disse una voce piccola e incolore,
+che veniva dal piccolo prete cattolico che si era unito al gruppo.
+«A dire il vero, sta risalendo la [[Road|strada]] in questo momento.»
+
+Il piccolo prete non era un uomo interessante a vedersi,
+avendo ispidi capelli castani e un volto tondo e flemmatico.
+Ma fosse pure stato splendido come [[Apollo]], nessuno lo avrebbe guardato
+in quel momento. Tutti si voltarono e scrutarono
+il sentiero che serpeggiava attraverso la pianura sottostante, lungo il quale
+camminava invero, col suo enorme passo e con un martello sulla
+spalla, Simeon il [[smith|fabbro]]. Era un uomo ossuto e gigantesco,
+con occhi profondi, scuri, sinistri e una scura barba al mento.
+Camminava e chiacchierava tranquillamente con altri due uomini;
+e sebbene non fosse mai particolarmente allegro, pareva perfettamente
+a suo agio.
+
+«Dio mio!» gridò il ciabattino ateo, «ed ecco lì il martello
+con cui l'ha fatto.»
+
+«No» disse l'ispettore, un uomo dall'aria assennata
+con baffi rossicci, parlando per la prima [[Time|volta]].
+«Ecco lì il martello con cui l'ha fatto, laggiù presso il muro della chiesa.
+Abbiamo lasciato esso e il [[Body|corpo]] esattamente come stanno.»
+
+Tutti si volsero intorno e il piccolo prete andò a guardare in giù in [[Silence|silenzio]]
+l'attrezzo là dove giaceva. Era uno dei più piccoli e dei più leggeri
+fra i martelli, e non avrebbe attirato l'occhio fra gli altri;
+ma sul suo orlo di ferro vi erano [[Blood|sangue]] e capelli gialli.
+
+Dopo un [[Silence|silenzio]] il piccolo prete parlò senza alzare lo sguardo,
+e vi era una nota nuova nella sua voce spenta. «Il signor Gibbs
+non aveva del tutto ragione» disse, «nel dire che non c'è mistero.
+C'è per lo meno il mistero del perché un uomo tanto grosso tentasse
+un colpo tanto grosso con un martello tanto piccolo.»
+
+«Oh, lasciate perdere» gridò Gibbs, in fibrillazione. «Che cosa dobbiamo
+fare di Simeon Barnes?»
+
+«Lasciatelo [[Alone|in pace]]» disse il prete tranquillamente. «Viene qui da sé.
+Conosco quei due uomini che sono con lui. Sono ottime persone di Greenford,
+e sono venuti a proposito della cappella presbiteriana.»
+
+Mentre ancora parlava, l'alto [[smith|fabbro]] girò l'angolo della chiesa,
+ed entrò a gran passi nel proprio cortile. Poi rimase là del tutto immobile,
+e il martello gli cadde di mano. L'ispettore, che aveva conservato
+un'impenetrabile compostezza, gli si avvicinò immediatamente.
+
+«Non vi chiederò, signor Barnes» disse, «se sapete qualcosa
+di ciò che è accaduto qui. Non siete tenuto a parlare.
+[[Hope|Spero]] che non sappiate nulla, e che sarete in grado di provarlo.
+Ma devo compiere la formalità di arrestarvi in nome del [[King|Re]]
+per l'assassinio del colonnello Norman Bohun.»
+
+«Non siete tenuto a dire nulla» disse il ciabattino
+in ossequiosa eccitazione. «Devono provare ogni cosa.
+Non hanno ancora provato che si tratti del colonnello Bohun, con la testa
+tutta fracassata a quel modo.»
+
+«Questa non regge» disse il medico in disparte al prete.
+«Roba da romanzi [[Detective|polizieschi]]. Ero il medico del colonnello,
+e conoscevo il suo [[Body|corpo]] meglio di lui.
+Aveva mani assai belle, ma proprio peculiari.
+Il secondo e il terzo dito erano della stessa lunghezza.
+Oh, è proprio il colonnello.»
+
+Mentre egli gettava lo sguardo sul cadavere dal cranio sfracellato al suolo, gli occhi di ferro
+del fabbro immobile lo seguirono e si posarono anch'essi là.
+
+«Il colonnello Bohun è morto?» disse il [[smith|fabbro]] con perfetta calma.
+«Allora è dannato.»
+
+«Non dite nulla! Oh, non dite nulla» gridò il ciabattino ateo,
+saltellando in un'estasi di ammirazione per il sistema legale inglese.
+Poiché nessun uomo è tanto legalista quanto il buon laicista.
+
+Il fabbro volse verso di lui, di sopra la spalla, l'augusto volto
+di un fanatico.
+
+«[[Well|Sta bene]] per voi miscredenti schivare come volpi perché la legge del mondo
+vi favorisce» disse; «ma Dio custodisce i suoi nel suo pugno,
+come vedrete quest'oggi.»
+
+Poi indicò il colonnello e disse: «Quando è morto nei suoi peccati
+questo cane?»
+
+«Moderate il linguaggio» disse il medico.
+
+«Moderate il linguaggio della [[Bible|Bibbia]], e io modererò il mio.
+Quando è morto?»
+
+«L'ho visto vivo alle sei in [[Clock|punto]] di stamattina» balbettò Wilfred Bohun.
+
+«Dio è buono» disse il [[smith|fabbro]]. «Signor ispettore, non ho la minima
+obiezione a essere arrestato. Siete voi che potreste avere obiezioni ad arrestarmi.
+A me non pesa lasciare il [[Court|tribunale]] senza una macchia sul mio carattere.
+A voi forse pesa lasciare il [[Court|tribunale]] con un brutto colpo alla vostra carriera.»
+
+Il solido ispettore per la prima [[Time|volta]] guardò il fabbro
+con occhio vivace; come del resto tutti gli altri, tranne lo strano,
+piccolo prete, che ancora fissava in giù il piccolo martello
+che aveva vibrato il colpo terribile.
+
+«Ci sono due uomini là fuori di questa bottega» proseguì il fabbro
+con ponderosa lucidità, «bravi artigiani di Greenford che voi
+tutti conoscete, i quali giureranno di avermi visto da prima di mezzanotte fino
+all'alba e ben oltre nella sala del comitato della nostra Missione del Risveglio,
+che resta riunita tutta la [[Night|notte]], tanto in fretta salviamo le anime. A Greenford stessa
+venti persone potrebbero giurare per me per tutto quel [[Time|tempo]]. Se fossi
+un pagano, signor ispettore, vi lascerei camminare verso la vostra rovina.
+Ma da uomo cristiano mi sento tenuto a darvi la vostra occasione,
+e a chiedervi se vorrete udire il mio alibi ora o in [[Court|tribunale]].»
+
+L'ispettore parve per la prima [[Time|volta]] turbato, e disse:
+«Naturalmente sarei lieto di scagionarvi del tutto sin d'ora.»
+
+Il [[smith|fabbro]] uscì dal suo cortile con lo stesso passo lungo e
+disinvolto, e tornò dai suoi due amici di Greenford,
+i quali erano invero amici di quasi tutti i presenti. Ciascuno di essi
+disse poche parole che a nessuno venne mai in mente di mettere in dubbio.
+Quando ebbero parlato, l'[[innocence|innocenza]] di Simeon si ergeva salda
+come la grande chiesa sopra di loro.

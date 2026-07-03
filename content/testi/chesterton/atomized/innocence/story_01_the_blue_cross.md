@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/innocence-(chesterton)">The Innocence of Father Brown</a></div>
 <div class="excerpt-pn"><span></span><a class="ex-next" href="/testi/chesterton/atomized/innocence/story_02_the_secret_garden">Story 02 The Secret Garden ›</a></div>
@@ -822,3 +824,835 @@ He stepped back and swept Valentin a great bow.
 
 And they both stood an instant uncovered while the little Essex
 priest blinked about for his umbrella.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/innocence-(chesterton)">The Innocence of Father Brown</a></div>
+<div class="excerpt-pn"><span></span><a class="ex-next" href="/testi/chesterton/atomized/innocence/story_02_the_secret_garden">Story 02 The Secret Garden ›</a></div>
+</nav>
+
+# [[innocence]] — La [[Cross|Croce]] Azzurra
+
+                          La [[Cross|Croce]] Azzurra
+
+Fra il nastro d'argento del mattino e il verde nastro scintillante
+del mare, il piroscafo toccò Harwich e sciolse uno sciame di gente
+come mosche, tra cui l'uomo che dobbiamo seguire non era affatto
+appariscente, né desiderava esserlo. Nulla in lui aveva del notevole,
+salvo un lieve contrasto tra l'allegria vacanziera degli abiti
+e la gravità ufficiale del volto. Portava una giacca leggera d'un
+grigio pallido, un panciotto bianco e un cappello di paglia argentata
+con un nastro grigio-azzurro. Il viso scarno spiccava scuro per contrasto,
+e terminava in una barbetta nera e appuntita che pareva spagnola
+e faceva pensare a una gorgiera elisabettiana. Fumava una sigaretta
+con la serietà di un ozioso. Nulla in lui lasciava intuire che la giacca
+grigia nascondeva una rivoltella carica, che il panciotto bianco nascondeva
+una tessera di polizia, o che il cappello di paglia nascondeva uno degli
+ingegni più poderosi d'Europa. Poiché costui era Valentin in persona,
+il capo della polizia di [[Paris|Parigi]] e il più celebre investigatore
+del mondo; e veniva da Bruxelles a [[London|Londra]] per compiere
+il più grande arresto del secolo.
+
+[[Flambeau]] era in Inghilterra. La polizia di tre paesi aveva finalmente
+seguìto le tracce del grande criminale da Gand a Bruxelles, da Bruxelles
+all'Aia di Olanda; e si congetturava che egli avrebbe tratto qualche
+vantaggio dalla novità e dalla confusione del Congresso Eucaristico,
+che allora si teneva a [[London|Londra]]. Probabilmente avrebbe viaggiato
+sotto le spoglie di qualche modesto impiegato o segretario a esso collegato;
+ma, naturalmente, Valentin non poteva esserne certo; nessuno poteva
+esser certo di nulla riguardo a [[Flambeau]].
+
+Sono molti anni ormai da quando questo colosso del delitto cessò
+d'improvviso di tenere il mondo in subbuglio; e quando cessò,
+come si disse dopo la [[Death|morte]] di Orlando, vi fu una gran quiete
+sulla terra. Ma nei suoi giorni migliori (voglio dire, s'intende,
+i peggiori) [[Flambeau]] era una figura statuaria e internazionale
+quanto il Kaiser. Quasi ogni mattina il giornale annunciava
+che egli era sfuggito alle conseguenze di un delitto straordinario
+commettendone un altro. Era un guascone di statura gigantesca
+e di audacia fisica; e i racconti più sfrenati correvano sulle sue
+esplosioni di [[Humour|umorismo]] atletico: come voltò sottosopra
+il juge d'instruction e lo tenne ritto a testa in giù, «per schiarirgli
+le idee»; come corse giù per la Rue de Rivoli con un poliziotto
+sotto ciascun braccio. Va detto a suo credito che la sua fantastica
+forza fisica era generalmente impiegata in scene siffatte, incruente
+per quanto poco dignitose; i suoi delitti veri erano soprattutto quelli
+di rapine ingegnose e su vasta scala. Ma ognuno dei suoi furti era
+quasi un peccato nuovo, e da solo farebbe una storia. Fu lui a gestire
+a [[London|Londra]] la grande Compagnia Casearia Tirolese, senza latterie,
+senza vacche, senza carri, senza latte, ma con qualche migliaio di abbonati.
+Costoro li serviva con la semplice operazione di spostare i piccoli bidoni
+del latte dalle porte altrui alle porte dei propri clienti.
+Fu lui a mantenere una fitta e inspiegabile corrispondenza con una
+giovane signora, di cui l'intera posta veniva intercettata,
+mediante il trucco straordinario di fotografare i propri messaggi
+in dimensioni infinitesimali sui vetrini di un microscopio.
+Una vasta semplicità, tuttavia, segnava molti dei suoi esperimenti.
+Si dice che una volta ridipinse tutti i numeri di una via nel cuore
+della [[Night|notte]] solo per deviare un viaggiatore in una trappola.
+È certissimo che inventò una cassetta postale portatile, che piantava
+agli angoli di quieti sobborghi confidando che qualche estraneo
+vi imbucasse i propri vaglia. Infine, era noto come acrobata sbalorditivo;
+malgrado la mole imponente, poteva balzare come una cavalletta
+e dileguarsi tra le cime degli alberi come una scimmia. Perciò il grande
+Valentin, quando si mise in cerca di [[Flambeau]], sapeva perfettamente
+che le sue avventure non sarebbero finite una volta trovatolo.
+
+Ma come trovarlo? Su questo punto le idee del grande Valentin
+erano ancora in via di assestamento.
+
+C'era una cosa che [[Flambeau]], con tutta la sua destrezza nel travestirsi,
+non poteva nascondere, ed era la sua singolare statura. Se l'occhio
+rapido di Valentin avesse colto una fruttivendola alta, un granatiere alto,
+o persino una duchessa discretamente alta, li avrebbe potuti arrestare
+sul posto. Ma lungo tutto il suo treno non c'era nessuno che potesse essere
+un [[Flambeau]] travestito, non più di quanto un gatto potesse essere
+una giraffa travestita. Della gente sul piroscafo si era già rassicurato;
+e le persone raccolte a Harwich o durante il [[Journey|viaggio]] si limitavano
+con certezza a sei. C'era un basso funzionario ferroviario diretto
+al capolinea, tre orticoltori piuttosto bassi saliti due stazioni dopo,
+una signora vedova molto bassa proveniente da una cittadina dell'Essex,
+e un pretino cattolico romano molto basso proveniente da un villaggio
+dell'Essex. Giunto all'ultimo caso, Valentin vi rinunciò e quasi rise.
+Il pretino era a tal punto l'essenza di quelle piatte lande orientali:
+aveva una faccia tonda e ottusa come un canederlo del Norfolk;
+aveva occhi vuoti come il Mare del Nord; aveva parecchi pacchetti di carta
+marrone che era del tutto incapace di raccogliere. Il Congresso Eucaristico
+aveva senza dubbio risucchiato dal loro ristagno locale molte creature
+simili, cieche e indifese, come talpe dissepolte. Valentin era uno scettico
+alla severa maniera di Francia, e non poteva nutrire [[Love|amore]] per i preti.
+Ma poteva provarne pietà, e questo qui l'avrebbe suscitata in chiunque.
+Aveva un grande ombrello sdrucito, che gli cadeva di continuo per terra.
+Non pareva sapere quale fosse il verso giusto del suo biglietto di ritorno.
+Spiegava con una candida ingenuità da [[Moon|luna]]tico a tutti nello
+scompartimento che doveva stare attento, perché aveva qualcosa fatto
+di vero argento «con delle pietre azzurre» in uno dei suoi pacchetti
+di carta marrone. Il suo bizzarro connubio di piattezza dell'Essex
+e di santa semplicità divertì di continuo il francese, finché il prete
+non fu arrivato (chissà come) a Tottenham con tutti i suoi pacchetti,
+e tornò indietro per l'ombrello. Quando fece quest'ultima cosa, Valentin
+ebbe persino la buona [[Nature|grazia]] di ammonirlo a non custodire l'argento
+raccontandolo a tutti. Ma con chiunque parlasse, Valentin teneva l'occhio
+aperto per qualcun altro; cercava con costanza chiunque, ricco o povero,
+uomo o donna, arrivasse ai sei piedi [[Well|buoni]]; perché [[Flambeau]] li superava
+di quattro pollici.
+
+Scese però a Liverpool Street con la coscienza del tutto sicura
+di non aver mancato fin lì il criminale. Andò poi a Scotland Yard
+per regolarizzare la propria posizione e predisporre aiuto in caso
+di bisogno; poi accese un'altra sigaretta e si concesse una lunga
+passeggiata per le vie di [[London|Londra]]. Mentre camminava per le vie
+e le piazze oltre Victoria, si fermò d'improvviso e si arrestò. Era una
+piazza bizzarra e quieta, tipicissima di [[London|Londra]], colma d'una
+immobilità casuale. Le case alte e piatte tutt'intorno parevano insieme
+prospere e disabitate; il quadrato di arbusti al centro pareva deserto
+come un verde isolotto del Pacifico. Uno dei quattro lati era assai più
+alto degli altri, come un palco; e la linea di questo lato era interrotta
+da uno di quegli ammirevoli accidenti di [[London|Londra]]: un ristorante
+che sembrava sviato da Soho. Era un oggetto irragionevolmente attraente,
+con pianticelle [[Dwarf|nane]] in vaso e lunghe tende a righe giallo limone
+e bianche. Sorgeva particolarmente in alto sulla strada, e nel consueto
+modo rappezzato di [[London|Londra]] una rampa di gradini saliva dalla strada
+a incontrare la porta d'ingresso quasi come una scala anti-[[Fire|incendio]]
+potrebbe salire fino a una [[Window|finestra]] del primo piano. Valentin
+si fermò a fumare davanti alle tende bianco-gialle e le contemplò a lungo.
+
+La cosa più incredibile dei miracoli è che accadono. Alcune nuvole
+in cielo si radunano davvero nella forma fissa di un occhio umano.
+Un albero si erge davvero nel paesaggio di un [[Journey|viaggio]] incerto
+nella forma esatta ed elaborata di un punto interrogativo. Ho visto
+io stesso entrambe queste cose negli ultimi giorni. Nelson muore
+davvero nell'istante della vittoria; e un uomo di nome Williams
+assassina del tutto per caso un uomo di nome Williamson; suona come
+una specie di infanticidio. Insomma, c'è nella vita un elemento
+di coincidenza fatata che chi fa i conti col prosaico può perennemente
+mancare. Come è stato [[Well|ben]] espresso nel [[Paradox|paradosso]] di Poe,
+la saggezza dovrebbe fare i conti con l'imprevisto.
+
+Aristide Valentin era insondabilmente francese; e l'intelligenza
+francese è intelligenza in modo speciale e unico. Egli non era
+«una [[Machine|macchina]] pensante»; ché questa è una frase sventata
+del fatalismo e del materialismo moderni. Una [[Machine|macchina]]
+è una [[Machine|macchina]] solo perché non sa pensare. Ma egli era
+un uomo pensante, e al medesimo [[Time|tempo]] un uomo semplice. Tutti i suoi mirabili
+successi, che parevano prestidigitazione, li aveva conseguiti a forza
+di [[logic|logica]] tenace, di pensiero francese chiaro e ordinario.
+I francesi elettrizzano il mondo non lanciando qualche [[Paradox|paradosso]],
+lo elettrizzano portando alle estreme conseguenze un truismo.
+Portano un truismo tanto lontano — come nella [[French Revolution|Rivoluzione francese]].
+Ma proprio perché Valentin comprendeva la ragione, ne comprendeva
+i limiti. Solo chi non sa nulla di motori parla di guidare senza benzina;
+solo chi non sa nulla di ragione parla di ragionare senza primi princìpi
+saldi e incontestati. Qui egli non aveva primi princìpi saldi.
+[[Flambeau]] era stato mancato a Harwich; e se pure era a [[London|Londra]],
+poteva essere qualsiasi cosa, da un alto vagabondo sul Wimbledon Common
+a un alto maestro di cerimonie all'Hotel Metropole. In tale nudo stato
+di ignoranza, Valentin aveva una sua veduta e un suo metodo.
+
+In casi simili faceva i conti con l'imprevisto. In casi simili,
+quando non poteva seguire il filo del ragionevole, seguiva freddamente
+e con cura il filo dell'irragionevole. Invece di andare nei luoghi
+giusti — banche, posti di polizia, luoghi di convegno — andava
+sistematicamente nei luoghi sbagliati; bussava a ogni [[house|casa]] vuota,
+imboccava ogni vicolo cieco, risaliva ogni viuzza ingombra di rifiuti,
+faceva il giro di ogni mezzaluna che lo portava inutilmente fuori strada.
+Difendeva questo procedere folle in modo del tutto logico. Diceva
+che se si aveva un indizio quello era il modo peggiore; ma se non si aveva
+alcun indizio era il migliore, perché c'era pur sempre la probabilità
+che qualche stranezza che aveva colpito l'occhio dell'inseguitore
+fosse la stessa che aveva colpito l'occhio dell'inseguito. Da qualche
+parte un uomo deve pur cominciare, e tanto valeva farlo proprio là dove
+un altro uomo potrebbe fermarsi. Qualcosa in quella rampa di gradini
+che saliva al negozio, qualcosa nella quiete e nella bizzarria
+del ristorante, ridestò tutta la rara fantasia romantica del [[Detective|detective]]
+e lo indusse a colpire a caso. Salì i gradini e, sedendosi a un tavolo
+presso la [[Window|finestra]], chiese una tazza di caffè nero.
+
+Era metà mattina, e non aveva fatto colazione; le tenui tracce delle altrui
+colazioni erano ancora sparse sul tavolo a ricordargli la fame; e aggiunto
+un uovo in camicia all'ordinazione, si mise pensoso a scuotere un po' di
+zucchero bianco nel caffè, pensando per tutto il [[Time|tempo]] a [[Flambeau]].
+Ricordava come [[Flambeau]] fosse sfuggito, una volta grazie a un paio di
+forbicine da unghie, e una volta grazie a una [[house|casa]] in [[Fire|fiamme]];
+una volta per aver dovuto pagare il soprattassa di una lettera priva
+di francobollo, e una volta facendo guardare la gente in un telescopio
+verso una cometa che poteva distruggere il mondo. Riteneva il proprio
+cervello di [[Detective|detective]] buono quanto quello del criminale, e ciò
+era vero. Ma si rendeva pienamente conto dello svantaggio. «Il criminale
+è l'[[Artist|artista]] creatore; il [[Detective|detective]] è soltanto il critico»,
+disse con un sorriso acido, e accostò lentamente la tazza di caffè
+alle labbra, e la posò molto in fretta. Vi aveva messo del sale.
+
+Guardò il recipiente da cui era venuta la polvere argentea; era
+senza dubbio una zuccheriera; inequivocabilmente destinata allo zucchero
+come una bottiglia di champagne allo champagne. Si domandò perché mai
+vi tenessero il sale. Cercò con lo sguardo se vi fossero recipienti
+più ortodossi. Sì; c'erano due saliere del tutto piene. Forse c'era
+qualche specialità nel condimento delle saliere. Lo assaggiò; era zucchero.
+Allora si guardò intorno per il ristorante con aria rinnovata d'interesse,
+per vedere se vi fossero altre tracce di quel singolare gusto artistico
+che mette lo zucchero nelle saliere e il sale nella zuccheriera.
+A parte una strana chiazza di un liquido scuro su una delle pareti
+tappezzate di carta bianca, l'intero locale appariva lindo, allegro
+e ordinario. Suonò il campanello per il cameriere.
+
+Quando quel funzionario accorse, coi capelli arruffati e gli occhi
+un po' cisposi a quell'ora mattutina, il [[Detective|detective]] (che non era
+privo d'apprezzamento per le forme più semplici di [[Humour|umorismo]])
+gli chiese di assaggiare lo zucchero e di vedere se era all'altezza
+dell'alta reputazione dell'albergo. Il risultato fu che il cameriere
+sbadigliò d'improvviso e si svegliò.
+
+«Fate questo delicato scherzo ai vostri clienti ogni mattina?»
+domandò Valentin. «Scambiare il sale e lo zucchero non vi stanca mai
+come facezia?»
+
+Il cameriere, quando questa ironia si fece più chiara, gli assicurò
+balbettando che l'esercizio non aveva di certo alcuna simile intenzione;
+doveva trattarsi di un curiosissimo sbaglio. Prese la zuccheriera e la
+guardò; prese la saliera e guardò anche quella, con la faccia sempre
+più sconcertata. Alla fine si scusò bruscamente e, allontanandosi in fretta,
+tornò dopo pochi secondi col proprietario. Anche il proprietario esaminò
+la zuccheriera e poi la saliera; anche il proprietario parve sconcertato.
+
+D'improvviso il cameriere parve farsi inarticolato per un fiotto di parole.
+
+«Io penso» balbettò con foga, «io penso che siano quei due religiosi.»
+
+«Quali due religiosi?»
+
+«I due religiosi» disse il cameriere «che hanno gettato la minestra
+contro il muro.»
+
+«Gettato la minestra contro il muro?» ripeté Valentin, certo che dovesse
+trattarsi di qualche singolare metafora italiana.
+
+«Sì, sì» disse concitato l'inserviente, e indicò la chiazza scura
+sulla carta bianca; «l'hanno gettata là contro il muro.»
+
+Valentin volse lo sguardo interrogativo al proprietario, che venne
+in suo soccorso con più ampi ragguagli.
+
+«Sì, signore» disse, «è verissimo, per quanto non credo abbia nulla
+a che fare con lo zucchero e il sale. Due religiosi entrarono e bevvero
+qui la minestra assai di buon'ora, appena tolte le imposte. Erano
+entrambi persone molto quiete e rispettabili; uno di loro pagò il conto
+e uscì; l'altro, che pareva del tutto più lento, impiegò qualche minuto
+di più a raccogliere le sue cose. Ma alla fine se ne andò. Solo che,
+un istante prima di uscire in strada, prese deliberatamente la sua tazza,
+che aveva vuotato solo a metà, e sbatté la minestra di netto contro il muro.
+Io ero nel retro, e così pure il cameriere; sicché potei solo precipitarmi
+fuori in [[Time|tempo]] per trovare il muro schizzato e il locale vuoto.
+Non fa danno di sorta, ma fu una sfacciataggine matta; e cercai
+di acchiappare quei due in strada. Erano però troppo lontani; notai
+soltanto che voltavano l'angolo seguente in Carstairs Street.»
+
+Il [[Detective|detective]] era già in piedi, il cappello calcato e il bastone
+in mano. Aveva già deciso che, nella tenebra universale della sua mente,
+poteva solo seguire il primo dito bizzarro che gli indicasse la via;
+e questo dito era abbastanza bizzarro. Pagato il conto e sbattendosi dietro
+le porte a vetri, di lì a poco svoltava spedito nell'altra via.
+
+Fu una fortuna che anche in momenti tanto febbrili il suo occhio fosse
+freddo e pronto. Qualcosa in una vetrina gli passò accanto come un semplice
+lampo; eppure tornò indietro a guardarla. Il negozio era una comune
+frutta e verdura, con una fila di merci esposte all'aria aperta e chiaramente
+munite di cartellini coi nomi e i prezzi. Nei due scomparti più in vista
+c'erano due cumuli, rispettivamente di arance e di noci. Sul cumulo di noci
+stava un pezzetto di cartone su cui era scritto a chiare lettere,
+in [[chalk|gesso]] azzurro: «Ottimi mandarini, due al penny». Sulle arance
+c'era la descrizione altrettanto chiara ed esatta: «Finissime noci del
+Brasile, 4 pence la libbra». Il signor Valentin guardò questi due
+cartelli e s'immaginò d'aver già incontrato prima questa forma
+sommamente sottile di [[Humour|umorismo]], e in tempi piuttosto recenti.
+Attirò l'attenzione del fruttivendolo dalla faccia rossa, che scrutava
+piuttosto imbronciato su e giù per la strada, su questa inesattezza
+nelle sue réclame. Il fruttivendolo non disse nulla, ma rimise seccamente
+ciascun cartello al suo posto giusto. Il [[Detective|detective]], appoggiandosi
+con eleganza al bastone da passeggio, continuò a scrutare il negozio.
+Alla fine disse: «Vi prego di scusare la mia apparente inopportunità,
+mio buon signore, ma vorrei rivolgervi una domanda di psicologia
+sperimentale e di associazione delle idee.»
+
+Il bottegaio dalla faccia rossa lo squadrò con occhio minaccioso;
+ma egli proseguì allegro, dondolando il bastone: «Perché mai», riprese,
+«perché mai due cartellini messi al posto sbagliato in una bottega
+di frutta e verdura assomigliano a un cappello a tesa larga sceso
+a [[London|Londra]] per una vacanza? Oppure, caso mai non mi spiegassi bene,
+qual è la mistica associazione che collega l'idea di noci contrassegnate
+come arance con l'idea di due religiosi, uno alto e l'altro basso?»
+
+Gli occhi del bottegaio gli sporgevano dalla testa come quelli
+di una lumaca; parve davvero, per un istante, sul punto di scagliarsi
+sullo sconosciuto. Alla fine balbettò con collera: «Non so cosa
+ci abbiate a che fare voi, ma se siete un loro amico, potete dirgli
+da parte mia che gli spacco le loro sciocche teste, preti o non preti,
+se mi rovesciano di nuovo le mele.»
+
+«Davvero?» chiese il [[Detective|detective]] con grande simpatia.
+«Vi hanno rovesciato le mele?»
+
+«Uno di loro sì» disse il bottegaio infervorato; «me le ha fatte
+rotolare per tutta la strada. L'avrei acchiappato, quel [[Fool|sciocco]],
+se non avessi dovuto raccoglierle.»
+
+«Da che parte sono andati quei preti?» chiese Valentin.
+
+«Su per quella seconda [[Road|strada]] sulla sinistra, e poi attraverso
+la piazza» rispose l'altro pronto.
+
+«Grazie» replicò Valentin, e sparì come una fata. Dall'altro lato
+della seconda piazza trovò un poliziotto e disse: «È urgente, agente;
+avete visto due religiosi con cappelli a tesa larga?»
+
+Il poliziotto cominciò a ridacchiare pesantemente. «Sì, signore;
+e se volete il mio parere, uno di loro era ubriaco. Se ne stava in mezzo
+alla [[Road|strada]] tanto stralunato che...»
+
+«Da che parte sono andati?» tagliò corto Valentin.
+
+«Han preso uno di quegli autobus gialli laggiù» rispose l'uomo;
+«di quelli che vanno a Hampstead.»
+
+Valentin esibì la propria tessera ufficiale e disse rapidissimo:
+«Chiamate due dei vostri uomini a venire con me all'inseguimento»,
+e attraversò la [[Road|strada]] con un'energia tanto contagiosa che il
+ponderoso poliziotto fu spinto a un'obbedienza quasi agile. In un minuto
+e mezzo il [[Detective|detective]] francese venne raggiunto sul marciapiede
+di fronte da un ispettore e da un uomo in abiti civili.
+
+«[[Well|Ebbene]], signore», esordì il primo con sorridente sussiego,
+«e in che cosa posso...?»
+
+Valentin puntò d'improvviso il bastone. «Ve lo dirò in cima a quell'omnibus»,
+disse, e già saettava e schivava attraverso il groviglio del traffico.
+Quando tutti e tre si lasciarono cadere ansanti sui sedili in cima
+al veicolo giallo, l'ispettore disse: «In taxi andremmo quattro volte
+più svelti.»
+
+«Verissimo» replicò placido il loro capo, «se solo avessimo un'idea
+di dove stiamo andando.»
+
+«[[Well|Ebbene]], dove state andando?» chiese l'altro, sgranando gli occhi.
+
+Valentin fumò accigliato per qualche secondo; poi, togliendosi la sigaretta,
+disse: «Se sai cosa sta facendo un uomo, mettiti davanti a lui;
+ma se vuoi indovinare cosa sta facendo, stagli dietro. Devia quando devia;
+férmati quando si ferma; viaggia lento quanto lui. Allora potrai vedere
+ciò che ha visto lui e agire come ha agito lui. Tutto quello che possiamo
+fare è tenere gli occhi bene aperti per una cosa strana.»
+
+«Che genere di cosa strana intendete?» chiese l'ispettore.
+
+«Qualsiasi genere di cosa strana» rispose Valentin, e ricadde
+in un ostinato [[Silence|silenzio]].
+
+L'omnibus giallo arrancò su per le strade settentrionali per quelle
+che parvero ore intere; il grande [[Detective|detective]] non volle spiegarsi
+oltre, e forse i suoi assistenti provavano un silenzioso e crescente
+[[Doubt|dubbio]] sulla sua missione. Forse, anche, provavano un silenzioso
+e crescente [[Desire|desiderio]] di pranzo, ché le ore trascorrevano
+ben oltre la consueta ora di colazione, e le lunghe strade dei sobborghi
+della [[London|Londra]] settentrionale parevano allungarsi in tratti
+su tratti come un infernale telescopio. Era uno di quei viaggi durante
+i quali un uomo sente perennemente che ora finalmente dev'essere giunto
+alla fine dell'universo, e poi scopre d'esser arrivato appena all'inizio
+di Tufnell Park. [[London|Londra]] si spegneva in taverne sciatte e squallidi
+sterpeti, e poi rinasceva inspiegabilmente in strade principali sfolgoranti
+e alberghi chiassosi. Era come attraversare tredici distinte città volgari
+che appena si toccano l'un l'altra. Ma per quanto il crepuscolo
+d'[[Winter|inverno]] già minacciasse la [[Road|strada]] davanti a loro,
+il [[Detective|detective]] parigino sedeva ancora silenzioso e vigile,
+scrutando le facciate delle vie che scivolavano via da un lato e dall'altro.
+Nel [[Time|tempo]] in cui ebbero lasciato Camden Town alle spalle, i poliziotti erano
+quasi addormentati; per lo meno, ebbero un sussulto quando Valentin
+balzò dritto in piedi, batté una mano sulla spalla di ciascuno,
+e gridò al conducente di fermarsi.
+
+Ruzzolarono giù dai gradini nella [[Road|strada]] senza rendersi conto
+del perché fossero stati sloggiati; quando si guardarono attorno
+in cerca di lumi, trovarono Valentin che puntava trionfante il dito
+verso una [[Window|finestra]] sul lato sinistro della [[Road|strada]].
+Era una grande [[Window|finestra]], parte della lunga facciata di una
+sontuosa e dorata [[house|casa]] pubblica; era la parte riservata al pranzo
+per bene, e recava l'insegna «Ristorante». Questa [[Window|finestra]],
+come tutte le altre lungo la facciata dell'albergo, era di vetro smerigliato
+e figurato; ma nel mezzo c'era una grande crepa nera, come una stella
+nel ghiaccio.
+
+«Ecco finalmente la nostra traccia», gridò Valentin agitando il bastone;
+«il locale con la [[Window|finestra]] rotta.»
+
+«Quale [[Window|finestra]]? Quale traccia?» chiese il suo assistente
+principale. «Ma quale prova c'è che questo abbia qualcosa a che fare
+con loro?»
+
+Valentin per poco non spezzò per la rabbia il suo bastone di bambù.
+
+«Prova!» esclamò. «Buon Dio! quest'uomo cerca una prova! Ma certo,
+le probabilità sono venti a uno che non abbia nulla a che fare con loro.
+Ma cos'altro possiamo fare? Non vedete che dobbiamo o inseguire un'unica
+folle possibilità o andarcene a [[Home|casa]] a letto?» Si fece largo
+a spintoni dentro il ristorante, seguìto dai compagni, e di lì a poco
+sedevano a un tardo pranzo a un tavolino, guardando dall'interno
+la stella di vetro infranto. Non che ciò fosse per loro molto istruttivo,
+neppure allora.
+
+«Vi hanno rotto la [[Window|finestra]], a quanto vedo», disse Valentin
+al cameriere mentre pagava il conto.
+
+«Sì, signore», rispose l'inserviente, chinandosi affaccendato sul resto,
+al quale Valentin aggiunse in silenzio una mancia enorme. Il cameriere
+si raddrizzò con mite ma inequivocabile animazione.
+
+«Ah, sì, signore», disse. «Cosa ben strana, quella, signore.»
+
+«Davvero? Raccontatecela», disse il [[Detective|detective]] con noncurante
+curiosità.
+
+«[[Well|Ebbene]], entrarono due signori vestiti di nero», disse il cameriere;
+«due di quei preti stranieri che vanno in giro. Fecero un pranzetto
+frugale e tranquillo, e uno di loro lo pagò e uscì. L'altro stava giusto
+per uscire a raggiungerlo quando guardai di nuovo il mio resto e trovai
+che m'aveva pagato più del triplo del dovuto. "Ehi", dico al tipo che era
+quasi fuori dalla porta, "avete pagato troppo." "Oh", fa lui, freddissimo,
+"davvero?" "Sì", dico io, e prendo il conto per mostrarglielo.
+[[Well|Ebbene]], quella fu una mazzata.»
+
+«Che cosa intendete?» chiese il suo interlocutore.
+
+«[[Well|Ebbene]], avrei giurato su sette Bibbie di aver segnato 4 scellini
+su quel conto. Ma allora vidi che avevo segnato 14 scellini, chiaro
+come la vernice.»
+
+«[[Well|Ebbene]]?» esclamò Valentin, muovendosi lento, ma con occhi ardenti,
+«e poi?»
+
+«Il prete sulla porta, dice tutto sereno: "Spiacente di confondervi
+i conti, ma servirà a pagare la finestra." "Quale [[Window|finestra]]?" dico io.
+"Quella che sto per rompere", dice lui, e frantumò quel benedetto vetro
+con l'ombrello.»
+
+Tutti e tre gli inquirenti fecero un'esclamazione; e l'ispettore
+disse sottovoce: «Stiamo dando la caccia a dei pazzi evasi?»
+Il cameriere proseguì con un certo gusto per la storia ridicola:
+
+«Restai talmente sbalordito per un momento che non seppi far nulla.
+L'uomo se ne uscì impettito dal locale e raggiunse l'amico giusto
+dietro l'angolo. Poi filarono su per Bullock Street così in fretta
+che non riuscii ad acchiapparli, per quanto corressi attorno al bancone
+per farlo.»
+
+«Bullock Street», disse il detective, e si lanciò su per quella
+via con la stessa rapidità della strana coppia che inseguiva.
+
+Il loro cammino ora li portò attraverso nudi passaggi di mattoni
+simili a gallerie; strade con poche luci e persino con poche finestre;
+strade che parevano costruite coi retri ciechi di ogni cosa e di ogni luogo.
+Il buio s'infittiva, e non era facile neppure per i poliziotti londinesi
+indovinare in quale esatta direzione stessero incamminandosi. L'ispettore,
+tuttavia, era abbastanza sicuro che alla fine avrebbero raggiunto qualche
+parte di Hampstead Heath. D'improvviso una finestra sporgente e illuminata
+a gas ruppe il crepuscolo azzurro come una lanterna cieca; e Valentin
+si arrestò un istante davanti a una piccola e vistosa bottega di dolciumi.
+Dopo un istante d'esitazione entrò; se ne stette tra i colori sgargianti
+della confetteria con tutta serietà e comprò tredici sigari di cioccolato
+con una certa cura. Stava evidentemente preparando un attacco; ma non
+ne ebbe bisogno.
+
+Una spigolosa giovane donna non più giovanissima, nel negozio, aveva
+osservato il suo elegante aspetto con un'indagine puramente meccanica;
+ma quando vide la porta dietro di lui bloccata dalla divisa azzurra
+dell'ispettore, i suoi occhi parvero destarsi.
+
+«Oh», disse, «se siete venuti per quel pacco, l'ho già spedito.»
+
+«Pacco?» ripeté Valentin; e toccò a lui aver l'aria interrogativa.
+
+«Voglio dire il pacco che ha lasciato quel signore, il signore religioso.»
+
+«Per l'amor del cielo», disse Valentin, protendendosi in avanti con la sua
+prima vera confessione di premura, «per l'amor di Dio, diteci esattamente
+cosa è accaduto.»
+
+«Ebbene», disse la donna un po' dubbiosa, «i religiosi entrarono circa
+mezz'ora fa e comprarono delle mentine e chiacchierarono un po', e poi
+se ne andarono verso la Heath. Ma un attimo dopo, uno di loro ritorna
+di corsa nel negozio e dice: "Ho lasciato un pacco?" [[Well|Ebbene]], cercai
+dappertutto e non ne vidi nessuno; sicché lui dice: "Non importa;
+ma se dovesse saltar fuori, siate gentile, speditelo a questo indirizzo",
+e mi lasciò l'indirizzo e uno scellino per il disturbo. E difatti,
+per quanto credessi d'aver guardato dappertutto, trovai che aveva lasciato
+un pacco di carta marrone, sicché lo spedii al luogo che aveva detto.
+Non ricordo più l'indirizzo, ora; era da qualche parte a Westminster.
+Ma siccome la cosa pareva così importante, ho pensato che forse la polizia
+fosse venuta per questo.»
+
+«Difatti», disse Valentin secco. «Hampstead Heath è vicina di qui?»
+
+«Sempre dritto per quindici minuti», disse la donna, «e sboccherete
+proprio all'aperto.» Valentin scattò fuori dal negozio e si mise a correre.
+Gli altri detective lo seguirono a un trotto riluttante.
+
+La strada che imboccarono era così stretta e chiusa fra le ombre
+che quando sbucarono inaspettatamente nel vuoto della brughiera comune
+e nel vasto cielo trasalirono nel trovare la sera ancora così chiara
+e luminosa. Una cupola perfetta di verde pavone sprofondava nell'oro
+tra gli alberi che annerivano e le lontananze di un violetto scuro.
+La tinta verde e luminosa era appena tanto profonda da far spiccare
+in punti di cristallo una o due stelle. Tutto ciò che restava della luce
+diurna giaceva in un luccichio dorato lungo il margine di Hampstead
+e di quella popolare conca chiamata la Valle della Salute. I villeggianti
+che vagano per questa regione non si erano del tutto dispersi; qualche
+coppia sedeva informe sulle panchine; e qua e là una fanciulla lontana
+ancora strillava su una delle altalene. La gloria del cielo si faceva
+più profonda e più cupa intorno alla sublime volgarità dell'uomo;
+e stando sul pendio e guardando attraverso la valle, Valentin scorse
+la cosa che cercava.
+
+Tra i gruppi neri e sparsi in quella lontananza ce n'era uno
+particolarmente nero che non si sparpagliava: un gruppo di due figure
+vestite da ecclesiastici. Per quanto sembrassero piccole come insetti,
+Valentin poté vedere che una di esse era assai più piccola dell'altra.
+Per quanto l'altra avesse la curva delle spalle dello studioso
+e un fare dimesso, egli poté vedere che quell'uomo superava di molto
+i sei piedi d'altezza. Serrò i denti e avanzò, roteando il bastone
+con impazienza. Quando ebbe sostanzialmente ridotto la distanza
+e ingrandito le due figure nere come in un vasto microscopio,
+aveva percepito qualcos'altro; qualcosa che lo trasalì, eppure che egli
+in qualche modo aveva previsto. Chiunque fosse il prete alto, non poteva
+esservi dubbio sull'identità di quello basso. Era il suo amico del treno
+di Harwich, il tarchiato pretino dell'Essex che aveva ammonito riguardo
+ai suoi pacchetti di carta marrone.
+
+Ora, fin qui, tutto si incastrava alla fine in modo abbastanza razionale.
+Valentin aveva appreso dalle sue indagini di quel mattino che un certo
+Padre Brown dell'Essex stava portando su una croce d'argento con zaffiri,
+una reliquia di considerevole valore, da mostrare ad alcuni dei preti
+stranieri al congresso. Questo era senza dubbio l'«argento con le pietre
+azzurre»; e Padre Brown era senza dubbio il piccolo sprovveduto sul treno.
+Ora, non c'era nulla di meraviglioso nel fatto che ciò che Valentin aveva
+scoperto lo avesse scoperto anche Flambeau; Flambeau scopriva tutto.
+E non c'era nulla di meraviglioso neppure nel fatto che, udendo parlare
+di una croce di zaffiri, egli cercasse di rubarla; era la cosa più naturale
+di tutta la storia naturale. E di certo non c'era nulla di meraviglioso
+nel fatto che Flambeau potesse fare tutto a modo suo con una pecora tanto
+sciocca come l'uomo dell'ombrello e dei pacchetti. Era il tipo d'uomo
+che chiunque avrebbe potuto condurre al guinzaglio fino al Polo Nord;
+non c'era da stupirsi che un attore come Flambeau, travestito da altro prete,
+potesse condurlo a Hampstead Heath. Fin qui il delitto pareva abbastanza
+chiaro; e mentre il detective compativa il prete per la sua impotenza,
+quasi disprezzava Flambeau per essersi degnato di una vittima tanto ingenua.
+Ma quando Valentin pensava a tutto ciò che era accaduto nel frattempo,
+a tutto ciò che l'aveva condotto al suo trionfo, si scervellava per trovarvi
+il minimo capo o coda. Che c'entrava il furto di una croce d'azzurro
+e d'argento a un prete dell'Essex con lo scagliare la minestra contro
+la tappezzeria? Che c'entrava col chiamare arance le noci, o col pagare
+le finestre prima e romperle poi? Era giunto alla fine della sua caccia;
+eppure in qualche modo ne aveva mancato il mezzo. Quando falliva (il che
+avveniva di rado), di solito aveva afferrato l'indizio, ma nondimeno
+aveva mancato il criminale. Qui aveva afferrato il criminale, ma ancora
+non riusciva ad afferrare l'indizio.
+
+Le due figure che seguivano avanzavano strisciando come mosche nere
+attraverso l'enorme contorno verde di una collina. Erano evidentemente
+immerse nella conversazione, e forse non badavano a dove andavano;
+ma di sicuro andavano verso le alture più selvagge e silenziose
+della Heath. Man mano che gli inseguitori guadagnavano terreno, questi
+dovettero ricorrere alle indegne posture del cacciatore di cervi,
+accovacciandosi dietro i cespugli e persino strisciando proni nell'erba
+alta. Con questi sgraziati accorgimenti i cacciatori giunsero persino
+abbastanza vicini alla preda da udire il mormorio della discussione,
+ma non si poteva distinguere alcuna parola tranne la parola «ragione»
+che ricorreva di frequente in una voce acuta e quasi infantile.
+Una volta, oltre un brusco avvallamento del terreno e un fitto groviglio
+di macchie, i detective persero addirittura le due figure che seguivano.
+Non ne ritrovarono la traccia se non dopo dieci minuti d'agonia,
+e allora essa li condusse intorno al ciglio d'una grande cupola di collina
+che dominava un anfiteatro di ricche e desolate scenografie di tramonto.
+Sotto un albero, in quel punto imponente e pure trascurato, c'era una
+vecchia panca di legno malandata. Su quella panca sedevano i due preti,
+ancora in grave colloquio. Il sontuoso verde e oro si aggrappava ancora
+all'orizzonte che s'incupiva; ma la cupola sopra andava lentamente mutando
+dal verde pavone all'azzurro pavone, e le stelle si staccavano sempre più
+come solidi gioielli. Facendo muti cenni ai suoi seguaci, Valentin riuscì
+a strisciare fin dietro il grande albero ramificato e, stando lì in un
+silenzio di morte, udì per la prima volta le parole degli strani preti.
+
+Dopo aver ascoltato per un minuto e mezzo, fu preso da un dubbio diabolico.
+Forse aveva trascinato i due poliziotti inglesi nelle lande di una
+brughiera notturna per una missione non più assennata del cercare fichi
+sui suoi cardi. Poiché i due preti discorrevano esattamente come preti,
+piamente, con dottrina e agio, dei più aerei enigmi della teologia.
+Il pretino dell'Essex parlava con maggior semplicità, col volto rotondo
+rivolto alle stelle che si facevano più intense; l'altro parlava
+col capo chino, come se non fosse neppure degno di guardarle. Ma nessuna
+conversazione più innocentemente clericale si sarebbe potuta udire
+in un bianco chiostro italiano o in una nera cattedrale spagnola.
+
+La prima cosa che udì fu la coda di una delle frasi di Padre Brown,
+che terminava: «...ciò che intendevano davvero nel Medioevo dicendo
+che i cieli sono incorruttibili.»
+
+Il prete più alto annuì col capo chino e disse:
+
+«Ah, sì, questi moderni infedeli si appellano alla loro ragione;
+ma chi può guardare quei milioni di mondi e non sentire che potrebbero
+ben esservi universi meravigliosi sopra di noi, dove la ragione
+è del tutto irragionevole?»
+
+«No», disse l'altro prete; «la ragione è sempre ragionevole,
+persino nell'ultimo limbo, nella perduta terra di confine delle cose.
+So che si accusa la Chiesa di abbassare la ragione, ma è proprio
+il contrario. Sola sulla terra, la Chiesa rende la ragione veramente
+sovrana. Sola sulla terra, la Chiesa afferma che Dio stesso è vincolato
+dalla ragione.»
+
+L'altro prete levò il suo austero volto al cielo trapunto di stelle e disse:
+
+«Eppure, chi sa se in quell'universo infinito...?»
+
+«Infinito solo fisicamente», disse il pretino, voltandosi di scatto
+sulla panca, «non infinito nel senso di sfuggire alle leggi della verità.»
+
+Valentin, dietro il suo albero, si strappava le unghie con silenziosa furia.
+Gli pareva quasi di udire i risolini dei detective inglesi che aveva
+condotto tanto lontano su una fantastica congettura solo per ascoltare
+i pettegolezzi metafisici di due miti vecchi pretonzoli. Nell'impazienza
+perse la risposta altrettanto elaborata dell'alto chierico, e quando
+tornò ad ascoltare era di nuovo Padre Brown a parlare:
+
+«La ragione e la giustizia stringono la stella più remota e più solitaria.
+Guardate quelle stelle. Non sembrano forse diamanti e zaffiri isolati?
+Ebbene, potete immaginare qualunque folle botanica o geologia vi piaccia.
+Pensate a foreste d'adamante con foglie di brillanti. Pensate che la luna
+sia una luna azzurra, un unico elefantesco zaffiro. Ma non crediate
+che tutta quella frenetica astronomia farebbe la minima differenza
+per la ragione e la giustizia della condotta. Su pianure d'opale,
+sotto rupi scolpite nella perla, trovereste pur sempre un cartello:
+"Non rubare."»
+
+Valentin stava giusto per alzarsi dalla sua rigida posizione accovacciata
+e allontanarsi strisciando quanto più silenziosamente possibile, abbattuto
+dall'unica grande follia della sua vita. Ma qualcosa nel [[Silence|silenzio]]
+stesso del prete alto lo indusse a fermarsi finché questi non parlò.
+Quando alla fine parlò, disse semplicemente, col capo chino e le mani
+sulle ginocchia:
+
+«[[Well|Ebbene]], io penso che altri mondi possano forse elevarsi più in alto
+della nostra ragione. Il mistero del cielo è insondabile, e io per primo
+non posso che chinare il capo.»
+
+Poi, con la fronte ancora piegata e senza mutare della più tenue sfumatura
+il proprio atteggiamento o la propria voce, aggiunse:
+
+«Passatemi solo quella vostra [[Cross|croce]] di zaffiri, volete?
+Siamo del tutto [[Alone|soli]] qui, e potrei farvi a pezzi come
+una bambola di paglia.»
+
+La voce e l'atteggiamento del tutto immutati aggiunsero una strana violenza
+a quello sconvolgente cambio di discorso. Ma il custode della reliquia
+parve soltanto voltare il capo del più piccolo settore della bussola.
+Pareva avere ancora un volto piuttosto sciocco rivolto alle [[Stars|stelle]].
+Forse non aveva capito. Oppure, forse, aveva capito e sedeva rigido
+di terrore.
+
+«Sì», disse il prete alto, con la stessa voce sommessa e nella stessa
+immobile posizione, «sì, io sono [[Flambeau]].»
+
+Poi, dopo una pausa, disse:
+
+«Su, volete darmi quella [[Cross|croce]]?»
+
+«No», disse l'altro, e il monosillabo ebbe un suono strano.
+
+[[Flambeau]] scrollò d'un tratto ogni sua pontificale posa. Il grande
+ladrone si abbandonò contro lo schienale e rise sommesso ma a lungo.
+
+«No», gridò, «non me la darete, superbo prelato. Non me la darete,
+piccolo sempliciotto celibe. Volete che vi dica perché non me la darete?
+Perché l'ho già io nella mia stessa tasca interna.»
+
+Il piccolo uomo dell'Essex volse quella che parve una faccia stordita
+nel crepuscolo, e disse, con la timida premura del «Segretario privato»:
+
+«Ne... ne siete sicuro?»
+
+[[Flambeau]] urlò dalla gioia.
+
+«Davvero, valete quanto una farsa in tre atti», gridò. «Sì, rapa,
+ne sono del tutto sicuro. Ho avuto il buon senso di fare un doppione
+del pacco giusto, e ora, amico mio, voi avete il doppione e io ho i gioielli.
+Un vecchio trucco, [[Father Brown|Padre Brown]], un trucco vecchissimo.»
+
+«Sì», disse [[Father Brown]], e si passò la mano tra i capelli con la stessa
+strana vaghezza di modi. «Sì, ne avevo sentito parlare prima.»
+
+Il colosso del delitto si sporse verso il piccolo prete di campagna
+con una sorta d'improvviso interesse.
+
+«Ne avete sentito parlare?» chiese. «Dove ne avete sentito parlare?»
+
+«[[Well|Ebbene]], non devo dirvi il suo nome, naturalmente», disse il piccolo uomo
+con semplicità. «Era un penitente, sapete. Aveva vissuto agiatamente
+per una ventina d'anni interamente su doppioni di pacchi di carta marrone.
+E così, vedete, quando cominciai a sospettare di voi, pensai subito
+al modo di fare di quel povero diavolo.»
+
+«Cominciaste a sospettare di me?» ripeté il fuorilegge con accresciuta
+intensità. «Aveste davvero il fegato di sospettare di me solo perché
+vi condussi su in questa parte spoglia della brughiera?»
+
+«No, no», disse Brown con aria di scusa. «Vedete, vi sospettai la prima
+volta che ci incontrammo. È quel piccolo rigonfio su per la manica
+dove voialtri portate il braccialetto a punte.»
+
+«Come in nome di Tartaro», esclamò [[Flambeau]], «avete mai sentito parlare
+del braccialetto a punte?»
+
+«Oh, il proprio gregge, sapete!» disse [[Father Brown]], inarcando piuttosto
+inespressivamente le sopracciglia. «Quando ero curato a Hartlepool,
+ce n'erano tre col braccialetto a punte. Sicché, siccome vi sospettavo
+fin dal principio, capite, mi assicurai che la [[Cross|croce]] fosse comunque
+al sicuro. Temo di avervi tenuto d'occhio, sapete. E così alla fine
+vi vidi scambiare i pacchi. Poi, capite, li riscambiai di nuovo.
+E poi lasciai indietro quello giusto.»
+
+«Lasciato indietro?» ripeté [[Flambeau]], e per la prima [[Time|volta]] vi fu
+nella sua voce un'altra nota oltre al trionfo.
+
+«[[Well|Ebbene]], è andata così», disse il pretino, parlando nello stesso modo
+disadorno. «Tornai in quella bottega di dolciumi e chiesi se avevo lasciato
+un pacco, e diedi loro un indirizzo preciso caso mai fosse saltato fuori.
+[[Well|Ebbene]], sapevo di non averlo fatto; ma quando me ne andai di nuovo, lo feci.
+Così, invece di corrermi dietro con quel prezioso pacco, l'hanno spedito
+di volata a un mio amico a Westminster.» Poi aggiunse piuttosto mesto:
+«Anche questo l'ho imparato da un poveretto di Hartlepool. Lo faceva
+con le borse da viaggio che rubava nelle stazioni ferroviarie, ma ora
+è in un monastero. Oh, si finisce col sapere, sapete», aggiunse,
+stropicciandosi di nuovo la testa con la stessa sorta di disperata scusa.
+«Non possiamo farci nulla se siamo preti. La gente viene a raccontarci
+queste cose.»
+
+[[Flambeau]] strappò dalla tasca interna un pacco di carta marrone
+e lo fece a pezzi. Non c'era dentro altro che carta e bastoncini di piombo.
+Balzò in piedi con un gesto gigantesco e gridò:
+
+«Non vi credo. Non credo che uno zoticone come voi possa aver architettato
+tutto questo. Credo che abbiate ancora la roba addosso, e se non la consegnate,
+be', siamo del tutto [[Alone|soli]], e la prenderò con la forza!»
+
+«No», disse [[Father Brown]] semplicemente, e si alzò anch'egli, «non la
+prenderete con la forza. Primo, perché davvero non ce l'ho più.
+E secondo, perché non siamo [[Alone|soli]].»
+
+[[Flambeau]] si arrestò nel suo balzo in avanti.
+
+«Dietro quell'albero», disse [[Father Brown]] indicando, «ci sono due
+robusti poliziotti e il più grande [[Detective|detective]] vivente.
+Come sono venuti qui, chiedete? Ma li ho portati io, naturalmente!
+Come ci sono riuscito? Ebbene, ve lo dirò, se volete! Che il Signore
+vi benedica, dobbiamo conoscere venti cose simili quando lavoriamo
+fra le classi criminali! [[Well|Ebbene]], non ero sicuro che foste un ladro,
+e non sarebbe mai stato bene sollevare uno scandalo contro uno del nostro
+clero. Così vi misi semplicemente alla prova per vedere se qualcosa
+vi avrebbe fatto tradire. Un uomo di solito fa una piccola scenata se trova
+del sale nel caffè; se non la fa, ha qualche ragione per starsene zitto.
+Scambiai il sale e lo zucchero, e voi steste zitto. Un uomo di solito
+protesta se il suo conto è il triplo del dovuto. Se lo paga, ha qualche
+motivo per passare inosservato. Alterai il vostro conto, e voi lo pagaste.»
+
+Il mondo pareva attendere che [[Flambeau]] balzasse come una tigre.
+Ma egli era trattenuto come da un incantesimo; era stordito
+dalla più estrema curiosità.
+
+«[[Well|Ebbene]]», proseguì [[Father Brown]] con pesante lucidità, «siccome voi
+non avreste lasciato tracce per la polizia, naturalmente qualcuno doveva
+farlo. In ogni luogo in cui andammo, ebbi cura di fare qualcosa che ci
+facesse restare sulla bocca di tutti per il resto della giornata.
+Non feci gran danno: un muro schizzato, mele rovesciate, una [[Window|finestra]]
+rotta; ma salvai la [[Cross|croce]], come la [[Cross|croce]] sarà sempre salvata.
+A quest'ora è a Westminster. Anzi mi [[Wonder|meraviglio]] che non l'abbiate
+fermata col Fischietto dell'[[donkey|Asino]].»
+
+«Col che cosa?» chiese [[Flambeau]].
+
+«Sono lieto che non ne abbiate mai sentito parlare», disse il prete,
+facendo una smorfia. «È una cosa immonda. Sono certo che siete un uomo
+troppo buono per essere un Fischiatore. Non avrei saputo contrastarla
+neppure con le Macchie, io; non ho le gambe abbastanza forti.»
+
+«Ma di che diavolo state parlando?» chiese l'altro.
+
+«[[Well|Ebbene]], credevo davvero che avreste conosciuto le Macchie», disse
+[[Father Brown]], piacevolmente sorpreso. «Oh, non potete esservi ancora
+spinto tanto sulla cattiva strada!»
+
+«Come diamine conoscete tutti questi orrori?» esclamò [[Flambeau]].
+
+L'[[Shadow|ombra]] di un sorriso attraversò il volto rotondo e semplice
+del suo avversario in tonaca.
+
+«Oh, per il fatto di essere un sempliciotto celibe, suppongo», disse.
+«Non vi è mai venuto in mente che un uomo che non fa quasi altro
+che ascoltare i peccati veri degli uomini difficilmente sarà del tutto
+ignaro del male umano? Ma, per la verità, anche un'altra parte del mio
+mestiere mi rese certo che non eravate un prete.»
+
+«Quale?» chiese il ladro, quasi a bocca aperta.
+
+«Avete attaccato la ragione», disse [[Father Brown]]. «È cattiva teologia.»
+
+E proprio mentre si voltava per raccogliere la sua proprietà, i tre
+poliziotti sbucarono da sotto gli alberi crepuscolari. [[Flambeau]] era
+un [[Artist|artista]] e uno sportivo. Fece un passo indietro e rivolse
+a Valentin un grande inchino.
+
+«Non inchinatevi a me, mon ami», disse Valentin con argentea chiarezza.
+«Inchiniamoci entrambi al nostro maestro.»
+
+Ed entrambi rimasero un istante a capo scoperto mentre il pretino
+dell'Essex sbatteva le palpebre in cerca del suo ombrello.

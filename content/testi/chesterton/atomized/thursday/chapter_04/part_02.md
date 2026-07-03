@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/thursday-(chesterton)">The Man Who Was Thursday</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/thursday/chapter_04/part_01">‹ part 01</a><a class="ex-next" href="/testi/chesterton/atomized/thursday/chapter_04/part_03">part 03 ›</a></div>
@@ -135,3 +137,135 @@ They believe that if a man seduced seven women he would
 naturally walk away as blameless as the [[Flowers|flowers]] of [[spring]].
 They believe that if a man picked a pocket he would naturally
 feel exquisitely good.  These I call the [[Innocent|innocent]] section."
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/thursday-(chesterton)">The Man Who Was Thursday</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/thursday/chapter_04/part_01">‹ part 01</a><a class="ex-next" href="/testi/chesterton/atomized/thursday/chapter_04/part_03">part 03 ›</a></div>
+</nav>
+
+# [[thursday]] — Capitolo 4 (parte 2)
+
+«Evidentemente non avete udito dell'ultimo sviluppo del nostro
+sistema di polizia,» replicò l'altro. «Non me ne sorprendo.
+Lo teniamo piuttosto nascosto alla classe colta,
+perché quella classe contiene la maggior parte dei nostri nemici.
+Ma voi sembrate proprio nella giusta disposizione d'animo.
+Penso che potreste quasi unirvi a noi.»
+
+«Unirmi a voi in che cosa?» chiese Syme.
+
+«Ve lo dirò,» disse lentamente il poliziotto. «La situazione è questa:
+il capo di uno dei nostri dipartimenti, uno dei più celebri
+investigatori d'Europa, è da tempo dell'opinione che una congiura
+puramente intellettuale minaccerebbe presto l'esistenza stessa
+della civiltà. Egli è certo che il mondo scientifico e quello
+artistico siano silenziosamente uniti in una crociata contro
+la Famiglia e lo Stato. Ha perciò formato uno speciale
+corpo di poliziotti, poliziotti che sono anche filosofi.
+È loro compito sorvegliare gli inizi di questa congiura,
+non soltanto in senso criminale ma in senso controversiale.
+Io stesso sono un democratico, e sono pienamente consapevole del valore
+dell'uomo comune nelle questioni di comune coraggio o virtù.
+Ma sarebbe evidentemente indesiderabile impiegare il comune
+poliziotto in un'indagine che è anche una caccia all'eresia.»
+
+Gli occhi di Syme erano lucenti di una curiosità partecipe.
+
+«E allora che cosa fate?» disse.
+
+«L'opera del poliziotto filosofico,» replicò l'uomo in azzurro,
+«è al tempo stesso più audace e più sottile di quella dell'ordinario [[Detective|investigatore]].
+L'ordinario [[Detective|investigatore]] va nelle bettole ad arrestare i ladri; noi andiamo
+ai raffinati tè artistici a scoprire i pessimisti. L'ordinario [[Detective|investigatore]]
+scopre da un registro o da un diario che un delitto è stato commesso.
+Noi scopriamo da un libro di sonetti che un delitto sarà commesso.
+Dobbiamo rintracciare l'origine di quei pensieri terribili che spingono
+gli uomini infine al [[Fanaticism|fanatismo]] intellettuale e al delitto intellettuale.
+Giungemmo appena in [[Time|tempo]] a impedire l'assassinio a Hartlepool,
+e ciò fu interamente dovuto al fatto che il nostro signor Wilks (un giovane
+in gamba) aveva compreso a fondo un trioletto.»
+
+«Volete dire,» chiese Syme, «che c'è davvero tanta connessione
+tra il delitto e l'intelletto moderno quanto tutto questo?»
+
+«Non siete sufficientemente democratico,» rispose il poliziotto,
+«ma avevate ragione quando or ora avete detto che il nostro ordinario
+trattamento del povero criminale era una faccenda alquanto brutale.
+Vi dico che talvolta mi disgusta il mio mestiere quando vedo come esso significhi
+perpetuamente soltanto una guerra contro gli ignoranti e i disperati.
+Ma questo nostro nuovo movimento è tutt'altra cosa.
+Neghiamo lo snobistico assunto inglese secondo cui gli incolti sono
+i criminali pericolosi. Ricordiamo gli imperatori romani. Ricordiamo
+i grandi principi avvelenatori del [[Renaissance|Rinascimento]]. Diciamo
+che il criminale pericoloso è il criminale colto.
+Diciamo che il criminale più pericoloso oggi è il filosofo moderno
+interamente privo di legge. In confronto a lui, gli scassinatori e i
+bigami sono uomini essenzialmente morali; il mio cuore va verso di loro.
+Essi accettano l'ideale essenziale dell'uomo; soltanto lo cercano nel modo sbagliato.
+I ladri rispettano la proprietà. Desiderano soltanto che la proprietà
+diventi loro proprietà affinché possano più perfettamente
+rispettarla. Ma i filosofi detestano la proprietà in quanto proprietà;
+essi vogliono distruggere l'idea stessa del possesso personale.
+I bigami rispettano il [[Marriage|matrimonio]], altrimenti non si sottoporrebbero
+alla formalità altamente cerimoniale e persino ritualistica della bigamia.
+Ma i filosofi disprezzano il [[Marriage|matrimonio]] in quanto [[Marriage|matrimonio]]. Gli assassini rispettano
+la vita umana; desiderano soltanto conseguire una maggiore pienezza
+di vita umana in se stessi mediante il sacrificio di ciò che a loro
+sembra essere vite inferiori. Ma i filosofi odiano la vita stessa,
+la propria non meno di quella altrui.»
+
+Syme batté le mani l'una contro l'altra.
+
+«Com'è vero!» esclamò. «L'ho sentito fin dalla fanciullezza,
+ma non ho mai saputo formulare l'antitesi verbale. Il criminale comune
+è un uomo cattivo, ma perlomeno è, per così dire, un uomo buono
+condizionato. Egli dice che se solo un certo ostacolo venisse rimosso —
+poniamo, un ricco zio — sarebbe allora pronto ad accettare l'universo
+e a lodare Iddio. È un riformatore, ma non un anarchico.
+Egli desidera purificare l'edificio, ma non distruggerlo.
+Ma il filosofo malvagio non cerca di modificare le cose, bensì di
+annientarle. Sì, il mondo moderno ha conservato tutte quelle
+parti del lavoro di polizia che sono davvero oppressive e ignominiose,
+la persecuzione dei poveri, lo spionaggio degli sventurati.
+Ha abbandonato il suo lavoro più dignitoso, la punizione dei potenti
+traditori nello Stato e dei potenti eresiarchi nella Chiesa.
+I moderni dicono che non dobbiamo punire gli eretici. Il mio unico [[Doubt|dubbio]] è
+se abbiamo il diritto di punire chiunque altro.»
+
+«Ma questo è assurdo!» esclamò il poliziotto, giungendo le mani con
+un'eccitazione insolita in persone della sua figura e del suo costume, «ma è
+intollerabile! Non so che cosa stiate facendo, ma state sprecando
+la vostra vita. Voi dovete, voi vi unirete al nostro esercito speciale contro l'anarchia.
+I loro eserciti sono alle nostre frontiere. Il loro fulmine è pronto a cadere.
+Un momento ancora, e potreste perdere la gloria di lavorare con noi,
+forse la gloria di morire con gli ultimi eroi del mondo.»
+
+«È un'occasione da non perdere, certamente,» acconsentì Syme,
+«eppure non comprendo del tutto. So bene quanto [[Well|chiunque]]
+altro che il mondo moderno è pieno di piccoli uomini senza legge
+e di piccoli movimenti folli. Ma, per quanto ripugnanti siano,
+generalmente hanno l'unico merito di essere in disaccordo tra loro.
+Come potete parlare di un loro guidare un solo esercito o scagliare un solo fulmine?
+Che cos'è questa anarchia?»
+
+«Non confondetela,» replicò l'agente, «con quegli occasionali
+scoppi dinamitardi dalla [[Russia]] o dall'Irlanda, che sono in realtà
+gli scoppi di uomini oppressi, per quanto in errore. Questo è un vasto
+movimento filosofico, composto di un cerchio esterno e di uno interno.
+Potreste persino chiamare il cerchio esterno il laicato e il cerchio interno
+il sacerdozio. Io preferisco chiamare il cerchio esterno la sezione [[Innocent|innocente]],
+il cerchio interno la sezione supremamente colpevole. Il cerchio esterno —
+la massa principale dei loro sostenitori — sono semplicemente anarchici;
+cioè, uomini che credono che le regole e le formule abbiano distrutto
+la felicità umana. Essi credono che tutti i risultati malvagi del delitto
+umano siano i risultati del sistema che lo ha chiamato delitto.
+Non credono che il delitto crei la punizione.
+Credono che la punizione abbia creato il delitto.
+Credono che se un uomo seducesse sette donne se ne andrebbe
+naturalmente senza colpa come i [[Flowers|fiori]] della [[spring|primavera]].
+Credono che se un uomo borseggiasse qualcuno si sentirebbe
+naturalmente squisitamente buono. Questi io li chiamo la sezione [[Innocent|innocente]].»

@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/innocence-(chesterton)">The Innocence of Father Brown</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/innocence/story_04_the_flying_stars/part_02">‹ part 02</a><a class="ex-next" href="/testi/chesterton/atomized/innocence/story_04_the_flying_stars/part_04">part 04 ›</a></div>
@@ -127,3 +129,127 @@ the scene-painter, the scene-shifter, and, above all, the orchestra.
 At abrupt intervals in the outrageous performance he would hurl
 himself in full costume at the piano and bang out some popular
 music equally absurd and appropriate.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/innocence-(chesterton)">The Innocence of Father Brown</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/innocence/story_04_the_flying_stars/part_02">‹ part 02</a><a class="ex-next" href="/testi/chesterton/atomized/innocence/story_04_the_flying_stars/part_04">part 04 ›</a></div>
+</nav>
+
+# [[innocence]] — Le [[Stars|stelle]] volanti (parte 3)
+
+«Lasciare che un cilindro si sieda su di te, per esempio» disse il socialista.
+
+«Su, su, su» esclamò l'agricoltore canadese con la sua
+barbarica benevolenza, «non roviniamo una bella serata.
+Quel che dico è: facciamo qualcosa per la compagnia stasera.
+Non tingere facce o sedersi su cappelli, se non vi piacciono...
+ma qualcosa del genere. Perché non potremmo mettere in scena una bella
+vecchia pantomima all'inglese... clown, colombina e così via.
+Ne vidi una quando lasciai l'Inghilterra a dodici anni, e da allora
+mi arde nel cervello come un falò. Sono tornato nella
+vecchia patria solo l'anno scorso, e trovo che la cosa è estinta.
+Nient'altro che un mucchio di piagnucolose commediole di fate. Voglio un rovente
+attizzatoio e un poliziotto trasformato in salsicce, e mi danno
+principesse che moraleggiano al chiaro di luna, Uccelli Azzurri, o roba simile.
+Barbablù è più nelle mie corde, e lui mi piace di più quando si trasforma
+nel pantalone.»
+
+«Sono tutto per trasformare un poliziotto in salsicce» disse John Crook.
+«È una definizione di socialismo migliore di alcune date di recente.
+Ma di sicuro la messinscena sarebbe un'impresa troppo grossa.»
+
+«Nemmeno per sogno» esclamò Blount, del tutto trasportato.
+«Un'arlecchinata è la cosa più rapida che possiamo fare, per due ragioni.
+Primo, si può improvvisare a piacimento; e, secondo, tutti gli oggetti
+sono cose di casa... tavoli e portasciugamani e ceste della biancheria,
+e cose del genere.»
+
+«È vero» ammise Crook, annuendo con entusiasmo e camminando avanti e indietro.
+«Ma temo di non poter avere la mia uniforme da poliziotto?
+Non ho ucciso nessun poliziotto di recente.»
+
+Blount aggrottò la fronte pensieroso per un istante, poi si diede una manata sulla coscia. «Sì che possiamo!»
+esclamò. «Ho qui l'indirizzo di Florian, e lui conosce ogni costumista
+di Londra. Gli telefonerò di portare una divisa da poliziotto quando viene.»
+E se ne andò a balzi verso il telefono.
+
+«Oh, è magnifico, padrino» esclamò Ruby, quasi danzando.
+«Io sarò colombina e tu sarai il pantalone.»
+
+Il milionario si mantenne rigido con una sorta di solennità pagana.
+«Credo, mia cara» disse, «che dovrai trovare qualcun altro per il pantalone.»
+
+«Farò io il pantalone, se vuoi» disse il colonnello Adams, togliendosi il sigaro
+di bocca, e parlando per la prima e ultima volta.
+
+«Meriteresti una statua» esclamò il canadese, tornando raggiante
+dal telefono. «Ecco, siamo tutti a posto. Il signor Crook
+farà il clown; è giornalista e conosce tutte le battute più vecchie.
+Io posso fare arlecchino, che richiede solo gambe lunghe e salti.
+Il mio amico Florian telefona che porta il costume da poliziotto;
+si cambia per strada. Possiamo recitarla proprio in questo atrio, con il pubblico
+seduto su quelle ampie scale di fronte, una fila sopra l'altra.
+Queste porte d'ingresso possono fare da fondale, aperte o chiuse.
+Chiuse, si vede un interno inglese. Aperte, un giardino al chiaro di luna.
+Va tutto per magia.» E afferrando un pezzo qualsiasi di gesso
+da biliardo dalla tasca, lo fece scorrere sul pavimento dell'atrio,
+a metà strada tra la porta d'ingresso e la scala, per segnare la linea
+delle luci della ribalta.
+
+Come persino un simile banchetto di sciocchezze fu allestito in tempo rimase
+un enigma. Ma vi si dedicarono con quel misto di sconsideratezza
+e industria che vive quando in una casa c'è la gioventù; e la gioventù
+era in quella casa quella notte, benché non tutti forse abbiano isolato
+i due volti e i due cuori da cui essa fiammeggiava. Come sempre accade,
+l'invenzione si fece sempre più sfrenata proprio a causa dell'insipidezza
+delle convenzioni borghesi da cui doveva creare.
+La colombina appariva incantevole in una gonna sporgente che stranamente
+somigliava al grande paralume del salotto. Il clown
+e il pantalone si fecero bianchi di farina presa dalla cuoca,
+e rossi di belletto preso da qualche altra domestica, che rimase
+(come tutti i veri benefattori cristiani) anonima. L'arlecchino,
+già vestito di carta argentata ricavata dalle scatole di sigari, fu, a stento,
+trattenuto dallo sfracellare i vecchi lampadari vittoriani di cristallo,
+per potersi ricoprire di risplendenti cristalli.
+Di fatto l'avrebbe certamente fatto, se Ruby non avesse dissotterrato
+certi vecchi gioielli di vetro da pantomima che aveva indossato a una festa in costume
+come Regina di Quadri. In verità suo zio, James Blount, stava diventando
+quasi incontenibile nella sua eccitazione; era come uno scolaretto.
+Mise inaspettatamente una testa d'asino di carta a Padre Brown, che la sopportò
+con pazienza, e trovò persino un suo modo privato di muovere le orecchie.
+Tentò addirittura di attaccare la coda d'asino di carta alle falde della marsina
+di Sir Leopold Fischer. Questo, tuttavia, fu disapprovato.
+«Lo zio è troppo assurdo» esclamò Ruby a Crook, attorno alle cui
+spalle aveva seriamente posato una collana di salsicce.
+«Perché è così scatenato?»
+
+«È arlecchino alla tua colombina» disse Crook. «Io sono solo il clown
+che fa le vecchie battute.»
+
+«Vorrei che tu fossi l'arlecchino» disse lei, e lasciò dondolare la collana
+di salsicce.
+
+Padre Brown, benché conoscesse ogni dettaglio compiuto dietro le quinte,
+e avesse persino strappato applausi con la sua trasformazione di un cuscino in un
+bimbo da pantomima, andò davanti e si sedette tra il pubblico
+con tutta la solenne aspettativa di un bambino al suo primo spettacolo pomeridiano.
+Gli spettatori erano pochi: parenti, uno o due amici del luogo,
+e i domestici; Sir Leopold sedeva in prima fila, la sua figura piena e ancora
+dal colletto di pelliccia che oscurava in gran parte la vista del piccolo chierico
+dietro di lui; ma le autorità artistiche non hanno mai stabilito
+se il chierico perdesse gran che. La pantomima era del tutto caotica,
+eppure non spregevole; la percorreva una furia d'improvvisazione
+che proveniva soprattutto da Crook, il clown. Di solito era un uomo intelligente,
+ed era ispirato quella sera da una sfrenata onniscienza, da una follia più saggia
+del mondo, quella che viene a un giovane che ha colto
+per un istante una particolare espressione su un particolare volto.
+Doveva fare il clown, ma in realtà era quasi tutto il resto:
+l'autore (nella misura in cui c'era un autore), il suggeritore,
+lo scenografo, il macchinista, e, soprattutto, l'orchestra.
+A intervalli improvvisi nell'oltraggiosa rappresentazione si scagliava
+in pieno costume sul pianoforte e martellava qualche musica
+popolare tanto assurda quanto appropriata.

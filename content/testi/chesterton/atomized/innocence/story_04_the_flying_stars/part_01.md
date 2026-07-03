@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/innocence-(chesterton)">The Innocence of Father Brown</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/innocence/story_03_the_queer_feet/part_07">‹ part 07</a><a class="ex-next" href="/testi/chesterton/atomized/innocence/story_04_the_flying_stars/part_02">part 02 ›</a></div>
@@ -130,3 +132,129 @@ by one, till they revealed something resembling the human form;
 the form of a friendly, but foreign-looking old gentleman,
 with a grey goat-like beard and a beaming smile, who rubbed his
 big fur gloves together.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/innocence-(chesterton)">The Innocence of Father Brown</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/innocence/story_03_the_queer_feet/part_07">‹ part 07</a><a class="ex-next" href="/testi/chesterton/atomized/innocence/story_04_the_flying_stars/part_02">part 02 ›</a></div>
+</nav>
+
+# [[innocence]] — Le [[Stars|Stelle]] volanti (parte 1)
+
+                         Le [[Stars|stelle]] volanti
+
+«Il più bel delitto che io abbia mai commesso» soleva dire [[Flambeau]] nella sua
+oltremodo morale vecchiaia «fu anche, per una singolare coincidenza, il mio ultimo.
+Fu commesso a Natale. Da [[Artist|artista]] avevo sempre cercato
+di offrire delitti adatti alla stagione o al paesaggio particolare in cui mi
+trovavo, scegliendo questa o quella terrazza o questo o quel [[Garden|giardino]] per una catastrofe,
+come per un gruppo statuario. Così i possidenti vanno truffati in lunghe sale
+rivestite di quercia; mentre gli ebrei, per contro, devono piuttosto ritrovarsi
+inaspettatamente al verde tra le luci e i paraventi del
+Café Riche. Così, in Inghilterra, se desideravo alleggerire un decano delle sue ricchezze
+(cosa non così facile come si potrebbe supporre), volevo incorniciarlo, se mi spiego,
+tra i verdi prati e le grigie torri di qualche città con [[Cathedral|cattedrale]].
+Allo stesso modo, in Francia, quando avevo estorto denaro a un contadino ricco e malvagio
+(cosa quasi impossibile), mi compiaceva veder stagliare il suo capo indignato
+contro una grigia fila di pioppi potati, e quelle solenni pianure
+della Gallia su cui aleggia il possente spirito di Millet.
+
+«[[Well|Ebbene]], il mio ultimo delitto fu un delitto natalizio, un delitto allegro, accogliente,
+della classe media inglese; un delitto alla Charles Dickens. Lo commisi in una bella
+e vecchia [[house|casa]] borghese presso Putney, una [[house|casa]] con un semicerchio di viale carrozzabile,
+una [[house|casa]] con una scuderia a fianco, una [[house|casa]] con il nome sui due
+cancelli esterni, una [[house|casa]] con un'araucaria. Basta così, conoscete la specie.
+Credo davvero che la mia [[Imitation|imitazione]] dello stile di Dickens fosse abile e letteraria.
+Sembra quasi un peccato che me ne sia pentito la sera stessa.»
+
+[[Flambeau]] avrebbe poi proseguito raccontando la storia dall'interno;
+e anche dall'interno era strana. Vista dall'esterno
+risultava perfettamente incomprensibile, ed è dall'esterno
+che l'estraneo deve studiarla. Da questo punto di vista il dramma
+si può dire che cominciò quando la porta d'ingresso della [[house|casa]]
+con la scuderia si aprì sul [[Garden|giardino]] con l'araucaria,
+e una giovane ragazza uscì con del pane per nutrire gli [[Birds|uccelli]]
+nel pomeriggio di Santo Stefano. Aveva un viso grazioso,
+con arditi occhi castani; ma la sua figura sfuggiva a ogni congettura,
+poiché era così avvolta in pellicce brune che era difficile dire
+dove finisse il pelo e dove i capelli. Se non fosse stato per il viso attraente,
+avrebbe potuto sembrare un piccolo orso ciondolante.
+
+Il pomeriggio d'[[Winter|inverno]] arrossava verso sera,
+e già una luce di rubino si stendeva sulle aiuole senza fiori,
+colmandole, per così dire, dei [[Ghosts|fantasmi]] delle rose morte.
+Da un lato della [[house|casa]] sorgeva la scuderia, dall'altro un viale
+o chiostro di allori conduceva al più ampio [[Garden|giardino]] sul retro.
+La giovane dama, sparso il pane per gli [[Birds|uccelli]]
+(per la quarta o quinta [[Time|volta]] quel giorno, perché il cane
+lo mangiava), si inoltrò senza dar nell'occhio lungo il sentiero degli allori
+e in una scintillante piantagione di sempreverdi sul retro.
+Qui diede in un'esclamazione di [[Wonder|meraviglia]], reale o rituale,
+e alzando lo sguardo verso l'alto muro del [[Garden|giardino]] sopra di lei, lo vide
+fantasticamente cavalcato da una figura alquanto fantastica.
+
+«Oh, non salti, signor Crook» gridò con un certo allarme;
+«è troppo alto.»
+
+L'individuo che cavalcava il muro divisorio come un [[Horse|cavallo]] aereo era un giovane alto e
+angoloso, con i capelli scuri ritti come una spazzola, lineamenti intelligenti
+e persino distinti, ma una carnagione olivastra e quasi straniera.
+Ciò appariva tanto più chiaramente perché portava un'aggressiva cravatta rossa,
+l'unica parte del suo abbigliamento di cui sembrasse prendersi cura.
+Forse era un simbolo. Non fece caso alcuno all'allarmata esortazione della ragazza,
+ma balzò a terra al suo fianco come una cavalletta, dove avrebbe potuto
+[[Well|benissimo]] rompersi le gambe.
+
+«Credo di essere nato per fare lo scassinatore» disse placido,
+«e non ho alcun [[Doubt|dubbio]] che lo sarei diventato se non mi fosse capitato
+di nascere in quella graziosa [[house|casa]] qui accanto. Comunque non ci vedo alcun male.»
+
+«Come può dire simili cose!» protestò lei.
+
+«[[Well|Ebbene]]» disse il giovane, «se uno nasce dalla parte sbagliata del muro,
+non vedo che ci sia nulla di male a scavalcarlo.»
+
+«Non so mai cosa dirà o farà un momento dopo» disse lei.
+
+«Spesso non lo so nemmeno io» rispose il signor Crook; «ma d'altra parte
+adesso sono dalla parte giusta del muro.»
+
+«E qual è la parte giusta del muro?» chiese la giovane dama, sorridendo.
+
+«Quella su cui vi trovate voi» disse il giovane di nome Crook.
+
+Mentre attraversavano insieme gli allori verso il [[Garden|giardino]] anteriore, un clacson
+suonò tre volte, avvicinandosi sempre più, e un'automobile di splendida [[Speed|velocità]],
+grande eleganza e un pallido colore verde si accostò alle porte d'ingresso come un
+uccello e si fermò pulsando.
+
+«Ehilà, ehilà!» disse il giovane dalla cravatta rossa,
+«ecco comunque qualcuno nato dalla parte giusta. Non sapevo,
+signorina Adams, che il suo Babbo Natale fosse così moderno.»
+
+«Oh, è il mio padrino, Sir Leopold Fischer. Viene sempre
+a Santo Stefano.»
+
+Poi, dopo una pausa [[Innocent|innocente]], che tradiva inconsapevolmente una certa mancanza
+d'entusiasmo, Ruby Adams aggiunse:
+
+«È molto gentile.»
+
+John Crook, giornalista, aveva sentito parlare di quell'eminente magnate della [[City]];
+e non era colpa sua se il magnate della [[City]] non aveva sentito parlare di lui;
+poiché in certi articoli su The Clarion o The New Age Sir Leopold
+era stato trattato con severità. Ma non disse nulla e osservò cupo
+lo scaricamento dell'automobile, che fu un processo piuttosto lungo.
+Un autista grande e lindo in verde scese dal davanti,
+e un piccolo e lindo domestico in grigio scese dal dietro,
+e insieme deposero Sir Leopold sulla soglia e
+cominciarono a disimballarlo, come un pacco protetto con estrema cura.
+Coperte a sufficienza per rifornire un bazar, pellicce di tutte le bestie della foresta,
+e sciarpe di tutti i colori dell'arcobaleno furono svolte a una
+a una, finché rivelarono qualcosa che somigliava alla forma umana;
+la forma di un vecchio signore cordiale, ma dall'aspetto straniero,
+con una grigia barba caprina e un sorriso raggiante, che si strofinava insieme i
+grossi guanti di pelliccia.

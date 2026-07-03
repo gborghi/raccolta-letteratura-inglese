@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/thursday-(chesterton)">The Man Who Was Thursday</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/thursday/chapter_02/part_02">‹ part 02</a><a class="ex-next" href="/testi/chesterton/atomized/thursday/chapter_03/part_01">part 01 ›</a></div>
@@ -100,3 +102,60 @@ From the doorway there came a murmur of "Mr. Joseph Chamberlain."  It was
 repeated twice and thrice, and then thirty times, and the crowd
 of Joseph Chamberlains (a solemn thought) could be heard trampling
 down the corridor.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/thursday-(chesterton)">The Man Who Was Thursday</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/thursday/chapter_02/part_02">‹ part 02</a><a class="ex-next" href="/testi/chesterton/atomized/thursday/chapter_03/part_01">part 01 ›</a></div>
+</nav>
+
+# [[thursday]] — Capitolo 2 (parte 3)
+
+Si alzò in piedi e passeggiò per la stanza con una sorta di sorridente imbarazzo.
+
+«Ho la strana sensazione che lei sia mia madre, Syme,» continuò con noncuranza. «Sento di poterle confidare qualsiasi cosa, poiché lei ha promesso di non dirlo a nessuno. Anzi, le confiderò una cosa che non direi con tante parole agli anarchici che arriveranno in questa stanza fra una decina di minuti. Naturalmente procederemo con una qualche forma di elezione; ma non mi dispiace dirle che è praticamente certo quale ne sarà il risultato.» Abbassò lo sguardo per un momento con modestia. «È quasi cosa fatta che io debba essere [[thursday|Giovedì]].»
+
+«Mio caro,» disse Syme con calore, «mi congratulo con lei. Una grande carriera!»
+
+Gregory sorrise schermendosi, e attraversò la stanza, parlando rapidamente.
+
+«In effetti, sul tavolo è già tutto pronto per me,» disse, «e la cerimonia sarà probabilmente la più breve possibile.»
+
+Anche Syme passeggiò fino al tavolo, e vi trovò distesi un bastone da passeggio, che a un esame si rivelò un bastone-[[Sword|spada]], una grossa rivoltella Colt, un porta-panini e una formidabile fiasca di brandy. Sulla sedia, accanto al tavolo, era gettata una mantellina o un mantello dall'aria pesante.
+
+«Non devo far altro che portare a termine la forma dell'elezione,» continuò Gregory con animazione, «poi afferro questo mantello e questo bastone, mi caccio in tasca queste altre cose, esco da una porta di questa caverna, che dà sul [[River|fiume]], dove c'è già un rimorchiatore a vapore che mi aspetta, e poi — poi — oh, la gioia selvaggia di essere [[thursday|Giovedì]]!» E si strinse le mani.
+
+Syme, che si era di nuovo seduto con il suo consueto insolente languore, si alzò in piedi con un'insolita aria di esitazione.
+
+«Come mai,» chiese vagamente, «penso che lei sia proprio un tipo per bene? Perché mi è positivamente simpatico, Gregory?» Fece una pausa un momento, e poi aggiunse con una sorta di rinnovata curiosità: «Sarà perché lei è un tale asino?»
+
+Ci fu di nuovo un pensieroso [[Silence|silenzio]], e poi egli esclamò:
+
+«[[Well|Ebbene]], che diavolo! questa è la situazione più buffa in cui mi sia mai trovato in vita mia, e intendo agire di conseguenza. Gregory, le ho fatto una promessa prima di entrare in questo posto. Quella promessa la manterrei sotto tenaglie roventi. Vorrebbe farmi, per la mia sicurezza, una piccola promessa dello stesso genere?»
+
+«Una promessa?» chiese Gregory, meravigliato.
+
+«Sì,» disse Syme molto seriamente, «una promessa. Ho giurato davanti a Dio che non avrei rivelato il suo segreto alla polizia. Vuole giurare sull'Umanità, o su qualunque bestialità in cui lei crede, che non rivelerà il mio segreto agli anarchici?»
+
+«Il suo segreto?» chiese Gregory sbarrando gli occhi. «Lei ha un segreto?»
+
+«Sì,» disse Syme, «ho un segreto.» Poi, dopo una pausa: «Vuole giurare?»
+
+Gregory lo fissò gravemente per qualche istante, e poi disse bruscamente:
+
+«Deve avermi stregato, ma sento una furiosa curiosità nei suoi confronti. Sì, giurerò di non riferire agli anarchici nulla di ciò che lei mi dirà. Ma faccia in fretta, perché saranno qui tra un paio di minuti.»
+
+Syme si [[Rose|alzò]] lentamente in piedi e cacciò le sue lunghe mani bianche nelle tasche dei suoi lunghi calzoni grigi. Quasi nell'istante in cui lo fece giunsero cinque colpi all'inferriata esterna, che annunciavano l'arrivo del primo dei cospiratori.
+
+«[[Well|Ebbene]],» disse Syme lentamente, «non so come dirle la [[Truth|verità]] più brevemente che dicendole che il suo espediente di travestirsi da poeta senza scopo non è riservato a lei o al suo Presidente. Noi conosciamo il trucco da qualche [[Time|tempo]] a Scotland Yard.»
+
+Gregory tentò di [[spring|balzare]] su dritto, ma barcollò tre volte.
+
+«Cosa dice?» chiese con voce disumana.
+
+«Sì,» disse Syme con semplicità, «sono un [[Detective|detective]] della polizia. Ma credo di sentire arrivare i suoi amici.»
+
+Dalla soglia giunse un mormorio: «Il signor Joseph Chamberlain.» Fu ripetuto due, tre volte, e poi trenta volte, e si udì la folla dei Joseph Chamberlain (solenne pensiero) calpestare rumorosamente il corridoio.

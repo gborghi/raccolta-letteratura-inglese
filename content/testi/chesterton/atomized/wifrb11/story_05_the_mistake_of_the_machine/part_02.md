@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/wifrb11-(chesterton)">The Wisdom of Father Brown</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/wifrb11/story_05_the_mistake_of_the_machine/part_01">‹ part 01</a><a class="ex-next" href="/testi/chesterton/atomized/wifrb11/story_05_the_mistake_of_the_machine/part_03">part 03 ›</a></div>
@@ -169,3 +171,169 @@ a flicker of its light fell for a moment on her own face,
 a face that I knew.  She was unnaturally pale, and her head was bundled
 in her borrowed plebeian shawl; but I am certain it was Etta Todd,
 the millionaire's daughter.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/wifrb11-(chesterton)">The Wisdom of Father Brown</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/wifrb11/story_05_the_mistake_of_the_machine/part_01">‹ part 01</a><a class="ex-next" href="/testi/chesterton/atomized/wifrb11/story_05_the_mistake_of_the_machine/part_03">part 03 ›</a></div>
+</nav>
+
+# [[wifrb11]] — L'errore della [[Machine|macchina]] (parte 2)
+
+     «Be', lo stile letterario è alquanto migliorato», ammise il prete
+allegramente, «ma continuo a non vedere che cosa posso fare per te.
+Farei una ben magra figura, con le mie gambe corte, a correre per questo Stato
+dietro a un assassino atletico di quella fatta. Dubito che
+qualcuno possa trovarlo. Il penitenziario di Sequah
+è a trenta miglia da qui; la campagna in mezzo è abbastanza selvaggia e intricata,
+e la campagna oltre, dove certamente avrà il buon senso di andare,
+è una perfetta terra di nessuno che degrada verso le praterie.
+Può trovarsi in qualsiasi buca o su qualsiasi albero.»
+
+     «Non è in nessuna buca», disse il governatore; «non è su nessun albero.»
+
+     «Ma via, come lo sai?» chiese Padre Brown, sbattendo le palpebre.
+
+     «Vorresti parlargli?» s'informò Usher.
+
+     Padre Brown spalancò i suoi occhi innocenti. «È qui?»
+esclamò. «Ma via, come hanno fatto i tuoi uomini ad acciuffarlo?»
+
+     «L'ho acciuffato io stesso», strascicò l'americano, alzandosi e
+stirando pigramente le sue lunghe gambe davanti al fuoco. «L'ho acciuffato
+con l'estremità ricurva di un bastone da passeggio. Non fare quella faccia sorpresa.
+L'ho fatto davvero. Sai che ogni tanto faccio un giro per i sentieri di campagna
+fuori da questo luogo tetro; ebbene, stasera presto stavo camminando
+su per un ripido sentiero, con siepi scure e campi arati dall'aria grigia
+da entrambi i lati; ed era sorta una luna nuova che inargentava la strada.
+Alla sua luce vidi un uomo correre attraverso il campo verso la strada;
+correva col corpo piegato e a un buon trotto da corsa sul miglio.
+Sembrava assai sfinito; ma quando giunse alla fitta siepe nera
+vi passò attraverso come se fosse fatta di ragnatele; — o piuttosto
+(perché udii i rami robusti spezzarsi e schioccare come baionette)
+come se lui stesso fosse fatto di pietra. Nell'istante in cui
+apparve stagliato contro la luna, attraversando la strada, gli scagliai il mio bastone uncinato
+tra le gambe, facendolo inciampare e cadere. Poi soffiai nel mio fischietto
+a lungo e forte, e i nostri uomini accorsero per assicurarlo.»
+
+     «Sarebbe stato piuttosto imbarazzante», osservò Brown,
+«se avessi scoperto che era un popolare atleta all'allenamento per la corsa sul miglio.»
+
+     «Non lo era», disse Usher cupamente. «Scoprimmo presto chi fosse;
+ma io l'avevo indovinato al primo bagliore della luna su di lui.»
+
+     «Pensasti che fosse il detenuto evaso», osservò il prete con semplicità,
+«perché quella mattina avevi letto nel ritaglio di giornale che
+un detenuto era evaso.»
+
+     «Avevo motivi un po' migliori», replicò freddamente il governatore.
+«Trascuro il primo, troppo semplice per doverlo sottolineare —
+voglio dire che gli atleti alla moda non corrono attraverso i campi arati
+né si cavano gli occhi nelle siepi di rovi. Né corrono
+tutti curvi come un cane accovacciato. C'erano dettagli più decisivi,
+per un occhio abbastanza ben addestrato. L'uomo era vestito di abiti
+rozzi e cenciosi, ma erano qualcosa di più che semplicemente
+rozzi e cenciosi. Gli stavano così male da risultare del tutto grotteschi;
+perfino mentre appariva in nero controluce contro il levar della luna,
+il bavero della giacca in cui aveva sepolto la testa lo faceva sembrare
+un gobbo, e le lunghe maniche larghe facevano credere che non avesse mani.
+Mi venne subito in mente che in qualche modo era riuscito a cambiare
+i suoi abiti da detenuto con quelli di qualche complice, che non gli andavano.
+In secondo luogo, spirava un vento piuttosto forte contro il quale egli correva;
+sicché avrei dovuto vedere la striatura dei capelli al vento, se i capelli
+non fossero stati cortissimi. Poi mi ricordai che oltre quei
+campi arati che stava attraversando si stendeva Pilgrim's Pond, per il quale
+(ricorderai) il detenuto serbava la sua pallottola;
+e feci volare il mio bastone da passeggio.»
+
+     «Un brillante saggio di deduzione fulminea», disse Padre Brown;
+«ma aveva un fucile?»
+
+     Poiché Usher si fermò di colpo nel suo andirivieni, il prete aggiunse in tono di scusa:
+«Mi hanno detto che una pallottola non serve neppure a metà, senza.»
+
+     «Non aveva fucile», disse l'altro con gravità; «ma ciò era senza dubbio
+dovuto a qualche naturalissimo contrattempo o cambiamento di piani. Probabilmente la
+stessa prudenza che gli fece cambiare gli abiti gli fece abbandonare il fucile;
+cominciò a pentirsi della giacca che aveva lasciato dietro di sé nel sangue
+della sua vittima.»
+
+     «Be', è abbastanza possibile», rispose il prete.
+
+     «E non val quasi la pena di far congetture», disse Usher,
+voltandosi verso certe altre carte, «perché a quest'ora sappiamo che è lui.»
+
+     Il suo amico ecclesiastico chiese fiaccamente: «Ma come?» E Greywood Usher
+gettò via i giornali e riprese in mano i due ritagli di stampa.
+
+     «Ebbene, dato che sei così ostinato», disse, «cominciamo
+dal principio. Noterai che questi due ritagli hanno una sola
+cosa in comune, ed è la menzione di Pilgrim's Pond,
+la tenuta, come sai, del milionario Ireton Todd.
+Sai anche che è un carattere notevole; uno di quelli
+che si sono innalzati usando come gradini —»
+
+     «Le proprie spoglie mortali per salire a cose più alte», assentì il compagno.
+«Sì; lo so. Petrolio, credo.»
+
+     «In ogni caso», disse Usher, «Todd-l'Ultimo-Tiro conta parecchio
+in questa strana faccenda.»
+
+     Si stirò ancora una volta davanti al fuoco e continuò a parlare
+nel suo stile espansivo, radiosamente esplicativo.
+
+     «Tanto per cominciare, a prima vista, qui non c'è alcun mistero.
+Non è misterioso, non è nemmeno strano, che un galeotto porti
+il suo fucile a Pilgrim's Pond. La nostra gente non è come gli inglesi,
+che perdonano a un uomo di essere ricco se butta via denaro
+in ospedali o cavalli. Todd-l'Ultimo-Tiro si è fatto grande
+con le proprie considerevoli capacità; e non c'è dubbio che
+molti di quelli su cui ha esercitato le sue capacità gradirebbero
+esercitare le proprie su di lui con una doppietta. Todd potrebbe facilmente essere abbattuto
+da qualche uomo di cui non ha mai neppure sentito parlare; qualche operaio che ha serrato fuori,
+o qualche impiegato di un'azienda che ha mandato in rovina. L'Ultimo-Tiro è un uomo
+di doti intellettuali e di alta figura pubblica; ma in questo paese
+i rapporti tra datori di lavoro e lavoratori sono considerevolmente tesi.
+
+     «Ecco come appare tutta la faccenda, supponendo che questo Rian
+si sia diretto a Pilgrim's Pond per uccidere Todd. Così parve anche a me,
+finché un'altra piccola scoperta non ridestò quel poco di detective che è in me.
+Quando ebbi il mio prigioniero al sicuro, ripresi il mio bastone e discesi
+a passeggio i due o tre gomiti della strada di campagna che mi portarono a uno degli
+ingressi laterali della tenuta di Todd, quello più vicino alla pozza
+o lago da cui il luogo prende nome. Sarà stato un paio d'ore fa,
+verso le sette a quest'ora; il chiaro di luna era più luminoso,
+e potevo vedere le lunghe striature bianche della sua luce distese sul misterioso stagno
+con le sue rive grigie, untuose, semiliquide, in cui dicono
+che i nostri padri costringevano le streghe a camminare finché non affondavano.
+Ho dimenticato la storia esatta; ma sai il luogo che intendo;
+si trova a nord della casa di Todd, verso la landa selvaggia, e ha due bizzarri
+alberi grinzosi, così tetri da sembrare più enormi funghi
+che decorosa fronda. Mentre stavo là a scrutare quella pozza nebbiosa,
+mi parve di vedere la debole figura di un uomo muoversi dalla casa verso di essa,
+ma tutto era troppo indistinto e lontano perché si potesse esser certi del fatto,
+e ancor meno dei particolari. Del resto, la mia attenzione fu assai bruscamente
+arrestata da qualcosa di molto più vicino. Mi accovacciai dietro la palizzata
+che correva a non più di duecento metri da un'ala del
+grande maniero, e che per fortuna era rotta qua e là,
+come apposta per l'applicazione di un occhio cauto. Una porta si era aperta
+nella scura mole dell'ala sinistra, e una figura apparve nera contro
+l'interno illuminato — una figura imbacuccata, curva in avanti,
+che evidentemente scrutava fuori nella notte. Si richiuse la porta alle spalle,
+e vidi che portava una lanterna, la quale gettava una chiazza di luce imperfetta
+sull'abito e sulla figura di chi la reggeva. Sembrava
+la figura di una donna, avvolta in un mantello a brandelli ed
+evidentemente travestita per non farsi notare; c'era qualcosa di assai strano
+sia negli stracci sia nella furtività di una persona che usciva da
+quelle stanze rivestite d'oro. Ella prese cautamente il curvo sentiero del giardino
+che la condusse a una cinquantina di metri da me —, poi si fermò
+per un istante sulla terrazza d'erba che guarda verso il lago melmoso,
+e reggendo la lanterna fiammeggiante sopra il capo, la fece deliberatamente oscillare
+tre volte avanti e indietro come per un segnale. Mentre la faceva oscillare la seconda volta,
+un guizzo della sua luce cadde per un attimo sul suo viso,
+un viso che conoscevo. Era innaturalmente pallida, e la testa era imbacuccata
+nello scialle plebeo preso in prestito; ma sono certo che era Etta Todd,
+la figlia del milionario.

@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/wifrb11-(chesterton)">The Wisdom of Father Brown</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/wifrb11/story_11_the_strange_crime_of_john_boulnois/part_04">‹ part 04</a><a class="ex-next" href="/testi/chesterton/atomized/wifrb11/story_12_the_fairy_tale_of_father_brown/part_01">part 01 ›</a></div>
@@ -175,3 +177,68 @@ I have so luckily been let off?"
      "Being hanged," said Father Brown.
 
                                 TWELVE
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/wifrb11-(chesterton)">The Wisdom of Father Brown</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/wifrb11/story_11_the_strange_crime_of_john_boulnois/part_04">‹ part 04</a><a class="ex-next" href="/testi/chesterton/atomized/wifrb11/story_12_the_fairy_tale_of_father_brown/part_01">part 01 ›</a></div>
+</nav>
+
+# [[wifrb11]] — Lo strano delitto di John Boulnois (parte 5)
+
+     La signora Boulnois si fece di nuovo più vicina con lo stesso contenuto ardore di certezza. «Mio marito», disse, «è un grande uomo. Sir Claude Champion non era un grande uomo: era un uomo celebre e di successo. Mio marito non è mai stato celebre né di successo; ed è la solenne [[Truth|verità]] che non ha mai neppure sognato di esserlo. Non si aspetta d'essere famoso per il pensare più di quanto se lo aspetti per il fumare sigari. Da quel lato ha una specie di splendida stupidità. Non è mai cresciuto. Continuava ad amare Champion esattamente come lo amava a scuola; lo ammirava come si ammira un gioco di prestigio fatto a tavola. Ma non c'era verso di fargli concepire l'idea di invidiare Champion. E Champion voleva essere invidiato. Ne impazzì e si uccise per questo.»
+
+     «Sì», disse [[Father Brown|Padre Brown]]; «credo di cominciare a capire.»
+
+     «Oh, non vede?» esclamò lei; «l'intero quadro è costruito per questo... il luogo è concepito apposta. Champion mise John in una piccola [[house|casa]] proprio sulla sua soglia, come un subalterno... per fargli sentire d'essere un fallito. Lui non lo sentì mai. A cose simili non pensa più di quanto ci pensi... di quanto ci pensi un [[Lion|leone]] distratto. Champion irrompeva nelle ore più dimesse o nei pasti più modesti di John con qualche abbagliante regalo o annuncio o spedizione che rendeva la cosa simile alla visita di Harun al-Rashid, e John accettava o rifiutava amabilmente con un occhio distolto, per così dire, come un pigro scolaretto che si dice d'accordo o in disaccordo con un altro. Dopo cinque anni di tutto ciò John non aveva mosso un capello; e Sir Claude Champion era un monomaniaco.»
+
+     «E Aman prese a raccontare loro», disse [[Father Brown|Padre Brown]], «tutte le cose per cui il [[King|re]] lo aveva onorato; e disse: 'Tutte queste cose a nulla mi giovano, finché vedo Mardocheo il Giudeo seduto alla porta del re.'»
+
+     «La crisi giunse», proseguì la signora Boulnois, «quando persuasi John a lasciarmi trascrivere alcune delle sue speculazioni e a mandarle a una rivista. Cominciarono ad attirare l'attenzione, specialmente in America, e un giornale volle intervistarlo. Quando Champion (che veniva intervistato quasi ogni giorno) venne a sapere di questa tarda briciola di successo caduta al suo inconsapevole rivale, si spezzò l'ultimo anello che tratteneva il suo odio diabolico. Allora cominciò a porre quell'insano assedio al mio amore e al mio onore che è stato il pettegolezzo di tutta la contea. Lei mi chiederà perché permisi attenzioni così atroci. Le rispondo che non avrei potuto respingerle se non spiegando la cosa a mio marito, e ci sono cose che l'anima non può fare, come il corpo non può volare. Nessuno avrebbe potuto spiegarlo a mio marito. Nessuno potrebbe farlo neppure adesso. Se gli si dicesse con parole chiare: 'Champion ti sta rubando la moglie', penserebbe che lo scherzo è un po' volgare: che potesse essere qualcosa di diverso da uno scherzo... quell'idea non troverebbe una fessura nel suo grande cranio per entrarvi. [[Well|Ebbene]], John doveva venire a vederci recitare questa sera, ma proprio mentre stavamo partendo disse che non sarebbe venuto; aveva trovato un libro interessante e un sigaro. Lo dissi a Sir Claude, e fu per lui un colpo di [[Death|morte]]. Il monomaniaco vide a un tratto la [[Despair|disperazione]]. Si pugnalò, gridando come un demonio che Boulnois lo stava uccidendo; giace là nel [[Garden|giardino]] morto della propria [[Jealousy|gelosia]] per suscitare [[Jealousy|gelosia]], e John se ne sta seduto in sala da pranzo a leggere un libro.»
+
+     Vi fu un altro [[Silence|silenzio]], e poi il piccolo prete disse: «C'è un solo punto debole, signora Boulnois, in tutto il suo racconto così vivido. Suo marito non è seduto in sala da pranzo a leggere un libro. Quel cronista americano mi ha detto d'essere stato a [[house|casa]] sua, e il suo maggiordomo gli ha detto che il signor Boulnois era andato a Pendragon Park, dopotutto.»
+
+     I suoi occhi lucenti si spalancarono in un bagliore quasi elettrico; eppure sembrava piuttosto sbigottimento che confusione o [[Fear|paura]]. «Ma che cosa vuol dire?» esclamò. «Tutti i domestici erano fuori [[house|casa]], a vedere la recita. E non teniamo alcun maggiordomo, grazie al cielo!»
+
+     [[Father Brown|Padre Brown]] trasalì e si voltò a mezzo come un assurdo trottolino. «Come, come?» esclamò, sembrando galvanizzato in un'improvvisa vitalità. «Senta un po'... dico... riuscirò a farmi sentire da suo marito se vado alla [[house|casa]]?»
+
+     «Oh, i domestici saranno tornati ormai», disse lei, meravigliata.
+
+     «Bene, bene!» ribatté il chierico con energia, e partì sgusciando su per il sentiero verso i cancelli del Park. Si voltò una volta per dire: «Meglio acchiappare quello yankee, o il 'Delitto di John Boulnois' sarà sparso per tutta la Repubblica a caratteri cubitali.»
+
+     «Lei non capisce», disse la signora Boulnois. «A lui non importerebbe. Non credo che si immagini nemmeno che l'America sia davvero un luogo.»
+
+     Quando Padre Brown raggiunse la casa con l'arnia e il cane sonnolento, una piccola e linda cameriera lo introdusse nella sala da pranzo, dove Boulnois sedeva a leggere sotto una lampada schermata, esattamente come sua moglie l'aveva descritto. Una caraffa di porto e un calice erano al suo gomito; e nell'istante in cui il prete entrò notò la lunga cenere che sporgeva intatta dal suo sigaro.
+
+     «È qui da almeno mezz'ora», pensò Padre Brown. In effetti aveva l'aria di sedere dove sedeva quando la cena era stata sparecchiata.
+
+     «Non si alzi, signor Boulnois», disse il prete nel suo modo garbato e prosaico. «Non la disturberò che un momento. Temo di irrompere in mezzo a qualche suo studio scientifico.»
+
+     «No», disse Boulnois; «stavo leggendo 'Il pollice insanguinato'.» Lo disse senza né un cipiglio né un sorriso, e il suo visitatore fu conscio d'una certa profonda e virile indifferenza in quell'uomo, quella che sua moglie aveva chiamato [[Greatness|grandezza]]. Posò un truce romanzo giallo d'appendice senza neppure avvertirne abbastanza l'incongruità da commentarlo con umorismo. John Boulnois era un uomo grosso e dai movimenti lenti, con una testa massiccia in parte grigia e in parte calva, e lineamenti ottusi e pesanti. Indossava un abito da sera dimesso e assai fuori moda, con uno stretto sparato triangolare: se l'era messo quella sera nella sua intenzione originaria di andare a vedere sua moglie recitare [[Juliet|Giulietta]].
+
+     «Non la tratterrò a lungo dal 'Pollice insanguinato' o da qualunque altra faccenda catastrofica», disse Padre Brown, sorridendo. «Sono venuto soltanto a chiederle del delitto che ha commesso questa sera.»
+
+     Boulnois lo guardò fisso, ma una striscia rossa cominciò a comparirgli sull'ampia fronte; e sembrò uno che scoprisse l'imbarazzo per la prima volta.
+
+     «So che è stato uno strano delitto», ammise Brown a bassa voce. «Più strano d'un omicidio, forse... per lei. I piccoli peccati sono a volte più difficili da confessare dei grandi... ma è proprio per questo che è tanto importante confessarli. Il suo delitto viene commesso da ogni padrona di casa alla moda sei volte alla settimana: eppure lei se lo sente appiccicato alla lingua come un'atrocità senza nome.»
+
+     «Fa sentire», disse il filosofo lentamente, «uno sciocco maledetto.»
+
+     «Lo so», ammise l'altro, «ma spesso bisogna scegliere tra sentirsi uno sciocco maledetto ed esserlo.»
+
+     «Non so analizzarmi bene», proseguì Boulnois; «ma seduto in quella poltrona con quel racconto ero felice come uno scolaretto in un mezzo giorno di vacanza. Era sicurezza, eternità... non so renderlo... i sigari erano a portata di mano... i fiammiferi erano a portata di mano... il Pollice aveva ancora quattro comparse da fare... non era soltanto una pace, ma una pienezza. Poi suonò quel campanello, e per un lungo, mortale minuto pensai che non sarei riuscito a tirarmi fuori da quella poltrona... letteralmente, fisicamente, muscolarmente non ci riuscivo. Poi lo feci come un uomo che solleva il mondo, perché sapevo che tutti i domestici erano fuori. Aprii la porta d'ingresso, e c'era un ometto con la bocca aperta per parlare e il taccuino aperto per scrivere. Mi ricordai dell'intervistatore yankee che avevo dimenticato. Aveva i capelli con la scriminatura in mezzo, e le assicuro che quell'omicidio...»
+
+     «Capisco», disse Padre Brown. «L'ho visto.»
+
+     «Non commisi omicidio», continuò il catastrofista mitemente, «ma soltanto spergiuro. Dissi che ero andato di là a Pendragon Park e gli chiusi la porta in faccia. Questo è il mio delitto, Padre Brown, e non so quale penitenza vorrà infliggermi.»
+
+     «Non le infliggerò alcuna penitenza», disse il gentiluomo in abito talare, raccogliendo il suo pesante cappello e l'ombrello con aria di un certo divertimento; «tutt'al contrario. Sono venuto qui apposta per condonarle la piccola penitenza che altrimenti sarebbe seguìta al suo piccolo peccato.»
+
+     «E qual è», chiese Boulnois, sorridendo, «la piccola penitenza da cui sono stato così fortunatamente condonato?»
+
+     «L'impiccagione», disse Padre Brown.
+
+                                DODICI

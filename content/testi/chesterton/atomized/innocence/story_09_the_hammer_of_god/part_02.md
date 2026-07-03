@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/innocence-(chesterton)">The Innocence of Father Brown</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/innocence/story_09_the_hammer_of_god/part_01">‹ part 01</a><a class="ex-next" href="/testi/chesterton/atomized/innocence/story_09_the_hammer_of_god/part_03">part 03 ›</a></div>
@@ -124,3 +126,124 @@ He was silent a moment, looking grimly through his glasses; then he added:
 at one stroke.  If you or I or any normally made man in the country
 were accused of this crime, we should be acquitted as an infant would
 be acquitted of stealing the Nelson column."
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/innocence-(chesterton)">The Innocence of Father Brown</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/innocence/story_09_the_hammer_of_god/part_01">‹ part 01</a><a class="ex-next" href="/testi/chesterton/atomized/innocence/story_09_the_hammer_of_god/part_03">part 03 ›</a></div>
+</nav>
+
+# [[innocence]] — Il Martello di Dio (parte 2)
+
+«Il fabbro è via a Greenford» disse Wilfred sommessamente;
+«il [[Time|momento]] del suo ritorno è incerto.»
+
+E con ciò si voltò ed entrò in chiesa a capo chino,
+segnandosi come chi voglia liberarsi di uno spirito immondo.
+Era ansioso di dimenticare tanta grossolanità nel fresco crepuscolo dei suoi alti
+chiostri gotici; ma quel mattino era destino che il suo tranquillo giro
+di esercizi religiosi fosse ovunque interrotto da piccole scosse.
+Mentre entrava in chiesa, fin lì sempre vuota a quell'ora, una figura
+inginocchiata si [[Rose|alzò]] in fretta in piedi e mosse verso la piena luce diurna
+della porta. Quando il curato la vide, si fermò immobile per la sorpresa.
+Poiché il devoto mattiniero non era altri che l'idiota del villaggio,
+un nipote del fabbro, uno che né voleva né poteva curarsi
+della chiesa o di qualsivoglia altra cosa. Lo chiamavano sempre «Joe il Matto»,
+e pareva non avesse altro nome; era un ragazzo bruno, robusto, dinoccolato,
+dal pesante volto bianco, dai capelli scuri e lisci, e la bocca sempre aperta.
+Nel passare accanto al prete, il suo volto da [[Moon|lunatico]] non diede alcun indizio di ciò che
+egli avesse fatto o pensato. Non si era mai saputo che pregasse prima.
+Che sorta di preghiere andava dicendo ora? Straordinarie preghiere di certo.
+
+Wilfred Bohun rimase inchiodato al posto abbastanza a lungo da vedere
+l'idiota uscire alla luce del sole, e persino da vedere il suo
+dissoluto fratello salutarlo con una specie di giovialità da zione.
+L'ultima cosa che vide fu il colonnello che gettava monetine nella bocca aperta
+di Joe, con l'aria seria di chi cerchi di far centro.
+
+Questa brutta scena assolata della stupidità e crudeltà della terra spinse
+l'[[ascetic|asceta]] infine alle sue preghiere di [[Purification|purificazione]] e di nuovi pensieri.
+Salì a un banco della galleria, che lo poneva sotto
+una [[Window|vetrata]] colorata che egli amava e che sempre gli quietava lo spirito;
+una [[Window|vetrata]] azzurra con un angelo che recava gigli. Lì cominciò a pensare
+meno all'idiota, dal volto livido e la bocca simile a un pesce.
+Cominciò a pensare meno al suo malvagio fratello, che si aggirava come un magro [[Lion|leone]]
+nella sua orribile fame. Sprofondò sempre più in quei freddi
+e dolci colori di argentei fiori e di cielo di zaffiro.
+
+In quel luogo, mezz'ora più tardi, lo trovò Gibbs,
+il ciabattino del villaggio, che era stato mandato a cercarlo con una certa fretta.
+Si rizzò in piedi con prontezza, poiché sapeva che nessuna piccola
+faccenda avrebbe condotto Gibbs in un simile luogo.
+Il ciabattino era, come in molti villaggi, un ateo, e la sua comparsa
+in chiesa era una sfumatura più straordinaria di quella di Joe il Matto. Era
+un mattino di enigmi teologici.
+
+«Che c'è?» chiese Wilfred Bohun piuttosto rigidamente, ma tendendo
+una mano tremante verso il cappello.
+
+L'ateo parlò in un tono che, provenendo da lui, era straordinariamente
+rispettoso, e persino, per così dire, roco di partecipazione.
+
+«Dovete scusarmi, signore» disse in un rauco sussurro,
+«ma non ci pareva giusto non avvertirvi subito.
+Temo che sia accaduta una cosa piuttosto terribile, signore.
+Temo che vostro fratello...»
+
+Wilfred serrò le fragili mani. «Quale diavoleria ha combinato ora?»
+gridò in un moto involontario di passione.
+
+«Ecco, signore» disse il ciabattino, tossendo, «temo che non abbia
+combinato nulla, e non combinerà più nulla. Temo che sia bell'e spacciato.
+Fareste proprio meglio a scendere, signore.»
+
+Il curato seguì il ciabattino giù per una breve scala a chiocciola che li portò
+a un'uscita un poco più alta della strada. Bohun vide la [[Tragedy|tragedia]]
+in un solo sguardo, distesa sotto di lui come una pianta. Nel cortile della fucina
+stavano cinque o sei uomini per lo più vestiti di nero, uno in uniforme d'ispettore.
+Fra essi vi erano il medico, il ministro presbiteriano, e il prete
+della cappella cattolica romana, alla quale apparteneva la moglie del fabbro.
+Quest'ultimo le stava invero parlando, assai rapidamente, a mezza voce, mentre lei,
+una donna magnifica dai capelli rosso-oro, singhiozzava alla cieca su una panca.
+Fra questi due gruppi, e appena discosto dal mucchio principale dei martelli,
+giaceva un uomo in abito da sera, disteso a braccia aperte e bocconi.
+Dall'altezza sovrastante Wilfred avrebbe potuto giurare su ogni particolare del suo abbigliamento
+e del suo aspetto, fino agli anelli dei Bohun sulle sue dita; ma il cranio
+non era che un'orrenda macchia, come una stella di nerezza e di [[Blood|sangue]].
+
+Wilfred Bohun diede un solo sguardo, e corse giù per i gradini nel
+cortile. Il medico, che era il medico di famiglia, lo salutò,
+ma egli lo notò appena. Poté solo balbettare:
+«Mio fratello è morto. Che significa? Che cos'è questo orribile mistero?»
+Vi fu un infelice [[Silence|silenzio]]; e poi il ciabattino, l'uomo più
+franco fra i presenti, rispose: «Molto orrore, signore» disse;
+«ma non molto mistero.»
+
+«Che vuoi dire?» chiese Wilfred, col volto bianco.
+
+«È abbastanza chiaro» rispose Gibbs. «C'è un solo uomo
+per quaranta miglia all'intorno che avrebbe potuto vibrare un simile colpo,
+ed è l'uomo che aveva più ragione di farlo.»
+
+«Non dobbiamo pregiudicare nulla» intervenne il medico, un uomo alto dalla barba nera,
+piuttosto nervosamente; «ma è nelle mie competenze corroborare ciò che il signor Gibbs
+dice sulla [[Nature|natura]] del colpo, signore; è un colpo incredibile.
+Il signor Gibbs dice che un solo uomo in questo distretto avrebbe potuto darlo.
+Io direi da parte mia che nessuno avrebbe potuto darlo.»
+
+Un brivido di superstizione attraversò l'esile figura del curato.
+«Riesco a stento a comprendere» disse.
+
+«Signor Bohun» disse il medico a bassa voce, «le metafore letteralmente mi vengono meno.
+È insufficiente dire che il cranio fu fracassato in pezzi come un guscio d'uovo.
+Schegge d'osso furono cacciate nel [[Body|corpo]] e nel terreno come pallottole
+in un muro di fango. Fu la mano di un gigante.»
+
+Tacque un momento, guardando cupamente attraverso gli occhiali; poi aggiunse:
+«La cosa ha un vantaggio: scagiona la maggior parte della gente dal sospetto
+d'un sol colpo. Se voi o io o qualsiasi uomo di normale costituzione del paese
+fossimo accusati di questo delitto, saremmo assolti come un lattante
+sarebbe assolto dal furto della colonna di Nelson.»

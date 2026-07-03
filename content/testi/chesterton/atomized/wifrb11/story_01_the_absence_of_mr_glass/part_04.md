@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/wifrb11-(chesterton)">The Wisdom of Father Brown</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/wifrb11/story_01_the_absence_of_mr_glass/part_03">‹ part 03</a><a class="ex-next" href="/testi/chesterton/atomized/wifrb11/story_01_the_absence_of_mr_glass/part_05">part 05 ›</a></div>
@@ -131,3 +133,52 @@ quite a new impulsiveness into the partially-covered face of the captive.
 Then he turned his own rather fatuous face to the company. 
 "Yes, that's it!" he cried in a certain excitement.  "Can't you see it
 in the man's face?  Why, look at his eyes!"
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/wifrb11-(chesterton)">The Wisdom of Father Brown</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/wifrb11/story_01_the_absence_of_mr_glass/part_03">‹ part 03</a><a class="ex-next" href="/testi/chesterton/atomized/wifrb11/story_01_the_absence_of_mr_glass/part_05">part 05 ›</a></div>
+</nav>
+
+# [[wifrb11]] — L'assenza del signor Glass (parte 4)
+
+     «A proposito», disse Padre Brown, «non sarebbe altrettanto opportuno slegare il signor Todhunter?»
+
+     «La nostra lezione dai recipienti da bere non finisce qui», proseguì lo specialista. «Posso dire subito che è possibile che l'uomo Glass fosse calvo o nervoso per dissolutezza anziché per l'età. Il signor Todhunter, come è stato osservato, è un gentiluomo quieto e parsimonioso, essenzialmente un astinente. Queste carte e questi calici da vino non fanno parte delle sue abitudini normali; sono stati messi fuori per un compagno particolare. Ma, come si dà il caso, possiamo andare oltre. Il signor Todhunter può possedere o meno questo servizio da vino, ma non c'è alcuna apparenza ch'egli possieda del vino. Che cosa, dunque, dovevano contenere questi recipienti? Suggerirei senz'altro del brandy o del whisky, forse di sorta pregiata, da una fiaschetta nella tasca del signor Glass. Abbiamo così qualcosa come un ritratto dell'uomo, o almeno del tipo: alto, anziano, alla moda, ma alquanto logoro, di certo amante del gioco e degli alcolici, forse un po' troppo amante di essi. Il signor Glass è un gentiluomo non ignoto ai margini della buona società.»
+
+     «Sentite un po'», gridò la giovane donna, «se non mi lasciate passare a slegarlo, corro fuori a chiamare la polizia a gran voce.»
+
+     «Non ve lo consiglierei, signorina MacNab», disse gravemente il dottor Hood, «non abbiate alcuna fretta di andare a cercare la polizia. Padre Brown, vi prego seriamente di calmare il vostro gregge, per il loro bene, non per il mio. Bene, abbiamo visto qualcosa della figura e della qualità del signor Glass; quali sono i fatti principali che si conoscono del signor Todhunter? Sono in sostanza tre: che è parco, che è più o meno benestante, e che ha un segreto. Ora, è certamente evidente che questi sono i tre principali contrassegni del genere d'uomo che viene ricattato. Ed è altrettanto certamente evidente che gli sbiaditi lussi, le abitudini dissolute e la stridula irritabilità del signor Glass sono gli inconfondibili contrassegni del genere d'uomo che lo ricatta. Abbiamo le due figure tipiche di una tragedia da denaro del silenzio: da un lato, l'uomo rispettabile con un mistero; dall'altro, l'avvoltoio del West End col fiuto per un mistero. Questi due uomini si sono incontrati qui oggi e hanno litigato, venendo alle mani e a un'arma sguainata.»
+
+     «Avete intenzione di togliere quelle corde?» chiese ostinata la fanciulla.
+
+     Il dottor Hood ripose con cura il cilindro di seta sul tavolinetto laterale e attraversò la stanza fino al prigioniero. Lo studiò intensamente, arrivando a smuoverlo un poco e a girarlo a metà tenendolo per le spalle, ma si limitò a rispondere:
+
+     «No; credo che queste corde andranno benissimo finché i vostri amici della polizia non porteranno le manette.»
+
+     Padre Brown, che aveva fissato ottuso il tappeto, sollevò il viso tondo e disse: «Che cosa intendete?»
+
+     L'uomo di scienza aveva raccolto dal tappeto la singolare spada-pugnale e la stava esaminando intensamente mentre rispondeva:
+
+     «Poiché trovate il signor Todhunter legato», disse, «tutti saltate alla conclusione che sia stato il signor Glass a legarlo; e poi, suppongo, a fuggire. Ci sono quattro obiezioni a questo: primo, perché un gentiluomo così attillato come il nostro amico Glass avrebbe lasciato qui il cappello, se se ne fosse andato di sua libera volontà? Secondo», proseguì, muovendosi verso la finestra, «questa è l'unica uscita, ed è chiusa a chiave dall'interno. Terzo, questa lama qui ha un minuscolo tocco di sangue sulla punta, ma non c'è ferita sul signor Todhunter. Il signor Glass si è portato via quella ferita, morto o vivo. Aggiungete a tutto ciò la probabilità di fondo. È molto più verosimile che la persona ricattata cerchi di uccidere il proprio incubo, anziché che il ricattatore cerchi di uccidere l'oca che gli depone l'uovo d'oro. Ecco, credo, abbiamo una storia abbastanza completa.»
+
+     «Ma le corde?» s'informò il prete, i cui occhi erano rimasti spalancati in un'ammirazione piuttosto vacua.
+
+     «Ah, le corde», disse l'esperto con singolare intonazione. «La signorina MacNab desiderava tanto sapere perché non liberassi il signor Todhunter dalle sue corde. Bene, glielo dirò. Non l'ho fatto perché il signor Todhunter può liberarsene da solo in qualunque momento gli aggradi.»
+
+     «Cosa?» gridò l'uditorio su note del tutto diverse di stupore.
+
+     «Ho esaminato tutti i nodi sul signor Todhunter», ribadì Hood con calma. «Si dà il caso che io me ne intenda di nodi; sono addirittura un ramo della scienza criminale. Ognuno di quei nodi se lo è fatto da solo e potrebbe scioglierselo da solo; non uno di essi sarebbe stato fatto da un nemico che davvero cercasse d'immobilizzarlo. L'intera faccenda delle corde è un'astuta messinscena, per farci credere ch'egli sia la vittima della colluttazione anziché il disgraziato Glass, il cui cadavere può essere nascosto in giardino o cacciato su per il camino.»
+
+     Vi fu un silenzio piuttosto abbattuto; la stanza si oscurava, i rami rovinati dal mare degli alberi del giardino apparivano più scarni e neri che mai, eppure sembravano essersi avvicinati alla finestra. Si sarebbe quasi potuto immaginarli mostri marini come kraken o seppie, viluppi di polipi contorti risaliti strisciando dal mare a vedere la fine di questa tragedia, come lui, il malvagio e la vittima di essa, il terribile uomo dall'alto cappello, era una volta risalito strisciando dal mare. Poiché l'aria intera era densa della morbosità del ricatto, che è la più morbosa delle cose umane, perché è un delitto che cela un delitto; un cerotto nero su una piaga più nera.
+
+     Il viso del piccolo prete cattolico, che di solito era compiaciuto e persino comico, si era d'un tratto annodato in un curioso cipiglio. Non era la vuota curiosità della sua iniziale innocenza. Era piuttosto quella creativa curiosità che sopraggiunge quando un uomo ha i primi accenni di un'idea. «Ripetetelo, per favore», disse in maniera semplice e turbata; «volete dire che Todhunter può legarsi tutto da solo e slegarsi tutto da solo?»
+
+     «È questo che intendo», disse il dottore.
+
+     «Perbacco!» esclamò a un tratto Brown, «chissà che non sia proprio così!»
+
+     Sfrecciò attraverso la stanza piuttosto come un coniglio, e scrutò con una del tutto nuova impulsività il viso parzialmente coperto del prigioniero. Poi rivolse alla compagnia il proprio viso alquanto fatuo. «Sì, è così!» gridò con una certa eccitazione. «Non lo vedete sul viso dell'uomo? Ma guardategli gli occhi!»

@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/everlasting-man-(chesterton)">The Everlasting Man</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/everlasting_man/chapter_03/part_33">‹ part 33</a><span></span></div>
@@ -108,3 +110,29 @@ speculations about races are less valuable than they undoubtedly are.
 My criticism is strictly relative; I may say that the pyramids are
 plainer than the tracks of the [[Desert|desert]]; without denying that wiser
 men than I may see tracks in what is to me the trackless sand.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/everlasting-man-(chesterton)">The Everlasting Man</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/everlasting_man/chapter_03/part_33">‹ part 33</a><span></span></div>
+</nav>
+
+
+* * *
+
+APPENDICE I
+
+SULL'UOMO PREISTORICO
+
+Rileggendo queste pagine sento di aver tentato in molti luoghi, e con molte parole, di dire qualcosa che potrebbe dirsi in una parola sola. In un certo senso questo studio vuol essere superficiale. Voglio dire che non è concepito come uno studio delle cose che meritano d'essere studiate. È piuttosto un richiamo alle cose che si vedono così in fretta da venire dimenticate quasi altrettanto in fretta. La sua morale, per così dire, è che i primi pensieri sono i migliori; così un lampo potrebbe rivelare un paesaggio, con la Torre Eiffel o il Cervino che vi si ergono come non si ergerebbero mai più alla luce del giorno comune. Ho chiuso il libro con l'immagine di un [[Lightning|lampo]] eterno; in un senso assai diverso, ahimè, questo piccolo lampo è durato anche troppo. Ma il metodo comporta pure certi svantaggi pratici, sui quali credo [[Well|bene]] aggiungere queste due note. Può sembrare che semplifichi troppo e che ignori per ignoranza. Lo avverto specialmente nel passo sulle pitture preistoriche; il quale non si occupa di tutto ciò che i dotti possono apprendere dalle pitture preistoriche, ma del solo punto di ciò che chiunque potrebbe apprendere dal fatto che esistano pitture preistoriche. Sono consapevole che questo tentativo di esprimerlo in termini di [[innocence|innocenza]] può esagerare perfino la mia stessa ignoranza. Senza alcuna pretesa di ricerca o di informazione scientifica, mi dispiacerebbe che si pensasse ch'io non sappia più di quanto occorreva, in quel passo, degli stadi in cui l'umanità primitiva è stata suddivisa. So bene, s'intende, che la storia è elaboratamente stratificata; e che vi furono molti di tali stadi prima dell'uomo di Cro-Magnon o di qualsiasi popolo cui associamo simili pitture. Anzi, studi recenti sull'uomo di Neanderthal e su altre razze tendono piuttosto a ripetere la morale qui più pertinente. La nozione, annotata in queste pagine, di qualcosa di necessariamente lento o tardivo nello sviluppo della religione ben poco guadagnerà, in verità, da queste più recenti rivelazioni sui precursori del pittore di renne. I dotti paiono sostenere che, potesse o no la pittura di renne essere religiosa, il popolo che visse prima di essa era già religioso; e seppelliva i suoi morti con i segni significativi del mistero e della [[Hope|speranza]]. Ciò evidentemente ci riporta al medesimo argomento; un argomento che nessuna misurazione del cranio dell'uomo più antico riesce ad avvicinare. Poco giova qui confrontare la testa dell'uomo con la testa della scimmia, se di sicuro non venne mai in testa alla scimmia di seppellire un'altra scimmia con delle noci nella [[Grave|tomba]] per aiutarla a raggiungere una celeste [[house|dimora]] di scimmie. A proposito di crani, conosco anche la storia del cranio di Cro-Magnon che era assai più grande e più bello di un cranio moderno. È una storia molto buffa; perché un eminente evoluzionista, ridestandosi a una cautela alquanto tardiva, protestò contro ogni deduzione tratta da un solo esemplare. È dovere di un cranio solitario provare che i nostri padri erano nostri inferiori. Ogni cranio solitario che pretenda di provare che essi erano superiori è ritenuto [[Suffering|affetto]] da montatura della testa.
+
+* * *
+
+APPENDICE II
+
+SULL'AUTORITÀ E L'ESATTEZZA
+
+In questo libro, che vuol essere soltanto una critica popolare di errori popolari, e spesso invero di errori assai volgari, sento di aver talvolta dato l'impressione di beffarmi del serio lavoro scientifico. Era però tutto il contrario delle mie intenzioni. Non discuto con lo scienziato che spiega l'elefante, ma soltanto con il sofista che lo spiega via. E di fatto il sofista recita per la galleria, come faceva nell'[[Ancient Greece|antica Grecia]]. Fa appello agli ignoranti, specialmente quando fa appello ai dotti. Ma non ho mai inteso che la mia critica fosse un'impertinenza verso i veri dotti. Tutti dobbiamo un debito infinito alle ricerche, e specialmente alle ricerche recenti, di studiosi di animo integro in queste materie; e io non ho fatto altro che professare di raccogliere qua e là qualcosa da loro. Non ho appesantito il mio argomento astratto con citazioni e rimandi, che servono solo a far apparire un uomo più dotto di quel che è; ma in taluni casi trovo che il mio stesso modo disinvolto di alludere è piuttosto fuorviante circa il mio proprio significato. Il passo su Chaucer e il [[Child|Fanciullo]] Martire è mal espresso; voglio dire soltanto che il poeta inglese aveva probabilmente in mente il santo inglese, della cui storia egli dà una specie di versione straniera. Allo stesso modo due affermazioni nel capitolo sulla Mitologia si susseguono in maniera tale che può parere si suggerisca che la seconda storia sul monoteismo si riferisca ai Mari del Sud. Posso spiegare che Atahocan appartiene non ai selvaggi australasiatici ma a quelli americani. Così nel capitolo intitolato «L'antichità della civiltà», che sento essere il più insoddisfacente, ho reso la mia personale impressione del significato dello sviluppo della monarchia egizia troppo, forse, come se fosse identica ai fatti su cui essa era fondata, quali sono esposti in opere come quelle del professor J. L. Myres. Ma la confusione non era intenzionale; ancor meno vi era l'intenzione di sottintendere, nel resto del capitolo, che le speculazioni antropologiche sulle razze siano meno preziose di quanto indubbiamente sono. La mia critica è strettamente relativa; posso dire che le piramidi sono più chiare delle tracce del [[Desert|deserto]], senza negare che uomini più saggi di me possano scorgere tracce in ciò che a me appare sabbia senza tracce.

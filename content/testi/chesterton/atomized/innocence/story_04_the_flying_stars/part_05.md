@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/innocence-(chesterton)">The Innocence of Father Brown</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/innocence/story_04_the_flying_stars/part_04">‹ part 04</a><a class="ex-next" href="/testi/chesterton/atomized/innocence/story_05_the_invisible_man/part_01">part 01 ›</a></div>
@@ -127,3 +129,127 @@ of all people) ended the evening in uproarious triumph; and Sir Leopold,
 in his height of good humour, even told the priest that though he himself
 had broader views, he could respect those whose creed required them
 to be cloistered and ignorant of this world.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/innocence-(chesterton)">The Innocence of Father Brown</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/innocence/story_04_the_flying_stars/part_04">‹ part 04</a><a class="ex-next" href="/testi/chesterton/atomized/innocence/story_05_the_invisible_man/part_01">part 01 ›</a></div>
+</nav>
+
+# [[innocence]] — Le [[Stars|Stelle]] volanti (parte 5)
+
+«Cloroformio» disse rialzandosi; «l'ho solo intuito adesso.»
+
+Ci fu un silenzio attonito, poi il colonnello disse lentamente:
+«La prego di dire seriamente cosa significa tutto questo.»
+
+Padre Brown scoppiò all'improvviso in una risata, poi si fermò, e non fece che
+lottarci per pochi istanti durante il resto del suo discorso.
+«Signori» ansimò, «non c'è molto tempo per parlare.
+Devo correre dietro al criminale. Ma questo grande attore francese
+che ha recitato il poliziotto... questo abile cadavere con cui l'arlecchino
+ha danzato il valzer e che ha cullato e sballottato... egli era...» La sua voce
+di nuovo gli mancò, ed egli voltò le spalle per correre.
+
+«Era?» chiamò Fischer interrogativamente.
+
+«Un vero poliziotto» disse Padre Brown, e fuggì nel buio.
+
+C'erano avvallamenti e pergolati all'estremità di quel frondoso giardino,
+in cui gli allori e altri arbusti immortali si stagliavano contro il cielo di zaffiro
+e la luna d'argento, mostrando, persino in quel cuore dell'inverno, calde tinte come quelle del sud.
+La verde allegria degli allori ondeggianti, il ricco indaco purpureo della notte,
+la luna come un mostruoso cristallo, compongono un quadro romantico quasi
+irresponsabile; e tra i rami più alti degli alberi del giardino si arrampica una strana
+figura, che appare non tanto romantica quanto impossibile.
+Scintilla dalla testa ai piedi, come vestita di dieci milioni di lune; la vera
+luna lo coglie a ogni movimento e gli accende un nuovo pollice di sé.
+Ma egli oscilla, sfavillante e trionfante, dall'albero basso di questo
+giardino all'alto e disordinato albero dell'altro, e si ferma là solo
+perché un'ombra è scivolata sotto l'albero più piccolo e lo ha inequivocabilmente
+chiamato dal basso.
+
+«Bene, Flambeau» dice la voce, «sembri davvero una Stella Volante;
+ma questo alla fine significa sempre una Stella Cadente.»
+
+La figura d'argento scintillante lassù sembra protendersi in avanti tra gli allori e,
+sicura della fuga, ascolta la piccola figura in basso.
+      «Non hai mai fatto nulla di meglio, Flambeau. È stato ingegnoso
+venire dal Canada (con un biglietto per Parigi, suppongo) appena una settimana
+dopo la morte della signora Adams, quando nessuno era in vena di fare domande.
+È stato ancora più ingegnoso aver preso di mira le Stelle Volanti e il giorno preciso
+dell'arrivo di Fischer. Ma non c'è ingegno, bensì puro genio,
+in ciò che seguì. Rubare le pietre, suppongo, non era nulla per te.
+Avresti potuto farlo con un gioco di prestigio in cento altri modi oltre
+a quella finta di attaccare una coda d'asino di carta alla giacca di Fischer.
+Ma nel resto hai superato te stesso.»
+
+La figura argentea tra le foglie verdi sembra indugiare come ipnotizzata,
+benché la fuga sia facile alle sue spalle; fissa l'uomo in basso.
+
+«Oh, sì» dice l'uomo in basso, «so tutto.
+So che non solo hai imposto la pantomima, ma le hai dato un duplice uso.
+Stavi per rubare le pietre in silenzio; giunse notizia da un complice
+che eri già sospettato, e che un abile agente di polizia
+sarebbe venuto a stanarti quella notte stessa. Un ladro comune
+sarebbe stato grato dell'avvertimento e sarebbe fuggito; ma tu sei un poeta.
+Avevi già avuto l'ingegnosa idea di nascondere i gioielli in una fiammata
+di falsa gioielleria da palcoscenico. Ora, ti accorgesti che se il costume fosse stato
+quello di un arlecchino, l'apparizione di un poliziotto sarebbe stata del tutto appropriata.
+Il degno agente partì dal posto di polizia di Putney per trovarti,
+e cadde nella più bizzarra trappola mai tesa a questo mondo.
+Quando la porta d'ingresso si aprì, egli avanzò dritto sul palco di una
+pantomima natalizia, dove poté essere preso a calci, bastonato, tramortito e drogato
+dall'arlecchino danzante, tra i boati di risa di tutte le persone più
+rispettabili di Putney. Oh, non farai mai nulla di meglio.
+E ora, a proposito, potresti restituirmi quei diamanti.»
+
+Il ramo verde su cui oscillava la scintillante figura,
+frusciò come per lo stupore; ma la voce proseguì:
+
+«Voglio che tu li restituisca, Flambeau, e voglio che tu abbandoni
+questa vita. C'è ancora giovinezza e onore e umorismo in te;
+non illuderti che dureranno in quel mestiere. Gli uomini possono mantenere una sorta
+di livello nel bene, ma nessun uomo è mai riuscito a mantenersi su un solo
+livello nel male. Quella strada va giù, sempre più giù. L'uomo gentile
+beve e diventa crudele; l'uomo franco uccide e poi mente al riguardo.
+Molti uomini che ho conosciuto cominciarono come te a fare gli onesti fuorilegge,
+gli allegri rapinatori dei ricchi, e finirono calpestati nel fango.
+Maurice Blum cominciò come un anarchico di principio,
+un padre dei poveri; finì come una viscida spia e delatore
+che entrambe le parti usarono e disprezzarono. Harry Burke avviò
+il suo movimento per il denaro libero abbastanza sinceramente; ora scrocca
+a una sorella mezza affamata infiniti brandy e soda.
+Lord Amber entrò nell'alta società dissoluta per una sorta di cavalleria;
+ora paga il ricatto ai più bassi avvoltoi di Londra.
+Il capitano Barillon fu il grande gentiluomo-apache prima del tuo tempo;
+morì in un manicomio, urlando per la paura delle "spie"
+e dei ricettatori che lo avevano tradito e braccato.
+So che i boschi sembrano molto liberi alle tue spalle, Flambeau; so
+che in un lampo potresti dileguarti tra essi come una scimmia.
+Ma un giorno sarai una vecchia scimmia grigia, Flambeau. Te ne starai
+seduto nella tua libera foresta col cuore freddo e vicino alla morte,
+e le cime degli alberi saranno assai spoglie.»
+
+Tutto rimase immobile, come se il piccolo uomo in basso
+tenesse l'altro sull'albero con qualche lungo guinzaglio invisibile;
+ed egli proseguì:
+
+«I tuoi passi verso il basso sono cominciati. Ti vantavi di non fare
+nulla di meschino, ma stai facendo qualcosa di meschino stanotte. Stai lasciando
+cadere il sospetto su un ragazzo onesto che ha già parecchio contro di sé;
+lo stai separando dalla donna che ama e che lo ama.
+Ma farai cose più meschine di questa prima di morire.»
+
+Tre diamanti scintillanti caddero dall'albero sull'erba.
+Il piccolo uomo si chinò a raccoglierli, e quando alzò di nuovo lo sguardo
+la verde gabbia dell'albero era vuota del suo uccello d'argento.
+
+La restituzione delle gemme (raccolte per caso proprio da Padre Brown,
+tra tutti quanti) concluse la serata in un trionfo fragoroso; e Sir Leopold,
+al colmo del buonumore, disse persino al prete che, benché egli stesso
+avesse vedute più ampie, poteva rispettare coloro il cui credo esigeva
+che fossero chiusi in convento e ignari di questo mondo.

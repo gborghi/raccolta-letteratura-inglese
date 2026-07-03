@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/heret12-(chesterton)">Heretics</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/heret12/story_11_paganism_and_mr_lowes_dickinson/part_01">‹ part 01</a><a class="ex-next" href="/testi/chesterton/atomized/heret12/story_11_paganism_and_mr_lowes_dickinson/part_03">part 03 ›</a></div>
@@ -121,3 +123,128 @@ But of this virtue even more than of the other three, I would maintain
 the general proposition adopted above.  Civilization discovered Christian
 [[Humility|humility]] for the same urgent reason that it discovered [[Faith|faith]] and [[Charity|charity]]--
 that is, because Christian civilization had to discover it or die.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/heret12-(chesterton)">Heretics</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/heret12/story_11_paganism_and_mr_lowes_dickinson/part_01">‹ part 01</a><a class="ex-next" href="/testi/chesterton/atomized/heret12/story_11_paganism_and_mr_lowes_dickinson/part_03">part 03 ›</a></div>
+</nav>
+
+# [[heret12]] — Il paganesimo e il signor Lowes Dickinson (parte 2)
+
+Poiché la parola «irragionevole» si presta a fraintendimenti, la questione
+può essere posta più accuratamente dicendo che ciascuna di queste virtù
+cristiane o mistiche implica un [[Paradox|paradosso]] nella propria
+[[Nature|natura]], e che ciò non è vero di nessuna delle virtù tipicamente
+pagane o razionaliste.  La giustizia consiste nello scoprire che una certa
+cosa è dovuta a un certo uomo e nel dargliela.  La temperanza consiste nel
+trovare il giusto limite di un particolare piacere e nell'attenervisi.  Ma
+la [[Charity|carità]] significa perdonare ciò che è imperdonabile, oppure
+non è affatto una virtù.  La [[Hope|speranza]] significa sperare quando le
+cose sono senza speranza, oppure non è affatto una virtù.  E la
+[[Faith|fede]] significa credere l'incredibile, oppure non è affatto una
+virtù.
+
+È in verità alquanto divertente notare la differenza tra il destino di
+questi tre paradossi nella moda della mente moderna.  La [[Charity|carità]]
+è una virtù alla moda nel nostro [[Time|tempo]]; è illuminata dal
+gigantesco chiarore d'incendio di Dickens.  La [[Hope|speranza]] è una
+virtù alla moda oggigiorno; la nostra attenzione è stata richiamata su di
+essa dall'improvvisa e argentina tromba di Stevenson.  Ma la [[Faith|fede]]
+è fuori moda, ed è consuetudine da ogni parte scagliarle contro il fatto
+che è un [[Paradox|paradosso]].  Tutti ripetono beffardamente la famosa,
+puerile definizione secondo cui la [[Faith|fede]] è «la facoltà di credere
+ciò che sappiamo essere falso».  Eppure essa non è di un atomo più
+paradossale della [[Hope|speranza]] o della [[Charity|carità]].  La
+[[Charity|carità]] è la facoltà di difendere ciò che sappiamo essere
+indifendibile.  La [[Hope|speranza]] è la facoltà di essere allegri in
+circostanze che sappiamo essere disperate.  È vero che esiste uno stato di
+[[Hope|speranza]] che appartiene alle prospettive luminose e al mattino;
+ma quella non è la virtù della [[Hope|speranza]].  La virtù della
+[[Hope|speranza]] esiste soltanto nel terremoto e nell'eclissi.  È vero
+che esiste una cosa rozzamente chiamata [[Charity|carità]], che significa
+[[Charity|carità]] verso i poveri meritevoli; ma la [[Charity|carità]]
+verso i meritevoli non è affatto [[Charity|carità]], bensì giustizia.
+Sono gli immeritevoli che ne hanno bisogno, e l'ideale o non esiste
+affatto, oppure esiste interamente per loro.  Ai fini pratici è nel
+momento disperato che ci occorre l'uomo speranzoso, e la virtù o non
+esiste affatto, oppure comincia a esistere in quel momento.  Esattamente
+nell'istante in cui la [[Hope|speranza]] cessa di essere ragionevole essa
+comincia a essere utile.  Ora, il vecchio mondo pagano andò
+perfettamente diritto finché non scoprì che andare diritto è un errore
+enorme.  Era nobilmente e magnificamente ragionevole, e scoprì nella sua
+agonia di [[Death|morte]] questa duratura e preziosa [[Truth|verità]],
+un'eredità per i secoli: che la ragionevolezza non basta.  L'età pagana
+fu davvero un Eden o un'[[Golden Age|età dell'oro]], in questo senso
+essenziale, che non è più recuperabile.  E non è più recuperabile in
+quest'altro senso, che, mentre noi siamo certamente più gioviali dei
+pagani, e molto più nel giusto dei pagani, non c'è uno di noi che possa,
+per quanto tenda le proprie energie, essere assennato come i pagani.
+Quella nuda [[innocence|innocenza]] dell'intelletto non può essere
+recuperata da alcun uomo dopo il [[Christianity|cristianesimo]]; e per
+questa eccellente ragione, che ogni uomo dopo il [[Christianity|cristianesimo]]
+sa che essa è ingannevole.  Prendiamo un esempio, il primo che venga in
+mente, di questa impossibile schiettezza propria del punto di vista
+pagano.  Il più grande tributo al [[Christianity|cristianesimo]] nel mondo
+moderno è l'«[[Ulysses|Ulisse]]» di Tennyson.  Il poeta legge nella storia
+di [[Ulysses|Ulisse]] la concezione di un incurabile [[Desire|desiderio]]
+di errare.  Ma il vero [[Ulysses|Ulisse]] non [[Desire|desidera]] affatto
+errare.  Egli desidera tornare a [[Home|casa]].  Egli manifesta le sue
+qualità eroiche e indomabili nel resistere alle sventure che lo
+ostacolano; ma è tutto qui.  Non c'è alcun [[Love|amore]] dell'avventura
+per se stessa; quello è un prodotto cristiano.  Non c'è alcun
+[[Love|amore]] di Penelope per lei stessa; quello è un prodotto cristiano.
+Ogni cosa in quel vecchio mondo pare fosse limpida e ovvia.  Un uomo buono
+era un uomo buono; un uomo cattivo era un uomo cattivo.  Per questa ragione
+essi non avevano [[Charity|carità]]; poiché la [[Charity|carità]] è un
+reverente agnosticismo di fronte alla complessità dell'[[Soul|anima]].  Per
+questa ragione essi non avevano nulla di simile all'arte della finzione
+narrativa, il [[Novel|romanzo]]; poiché il [[Novel|romanzo]] è una
+creazione dell'idea mistica della [[Charity|carità]].  Per loro un
+paesaggio piacevole era piacevole, e un paesaggio spiacevole spiacevole.
+Perciò non avevano alcuna idea del [[Romance|romanzesco]]; poiché il
+[[Romance|romanzesco]] consiste nel trovare una cosa più deliziosa perché
+è pericolosa; ed è un'idea cristiana.  In una parola, non possiamo
+ricostruire e neppure immaginare il bello e stupefacente mondo pagano.
+Era un mondo in cui il buon senso era davvero comune.
+
+Il mio significato generale a proposito delle tre virtù di cui ho parlato
+sarà ormai, [[Hope|spero]], sufficientemente chiaro.  Sono tutte e tre
+paradossali, sono tutte e tre pratiche, e sono tutte e tre paradossali
+perché sono pratiche.  È la pressione del bisogno estremo, e una terribile
+conoscenza delle cose come sono, che indusse gli uomini a erigere questi
+enigmi, e a morire per essi.  Qualunque possa essere il significato della
+contraddizione, resta il fatto che l'unica specie di [[Hope|speranza]] che
+serva a qualcosa in una battaglia è una [[Hope|speranza]] che smentisce
+l'aritmetica.  Qualunque possa essere il significato della contraddizione,
+resta il fatto che l'unica specie di [[Charity|carità]] che qualunque
+spirito debole desideri, o che qualunque spirito generoso senta, è la
+[[Charity|carità]] che perdona i peccati che sono come lo scarlatto.
+Qualunque possa essere il significato della [[Faith|fede]], essa deve
+sempre significare una certezza intorno a qualcosa che non possiamo
+provare.  Così, per esempio, noi crediamo per [[Faith|fede]] nell'esistenza
+delle altre persone.
+
+Ma c'è un'altra virtù cristiana, una virtù connessa in modo assai più
+manifesto e storico con il [[Christianity|cristianesimo]], che illustrerà
+ancora meglio il legame tra [[Paradox|paradosso]] e necessità pratica.
+Questa virtù non può essere messa in dubbio nella sua funzione di simbolo
+storico; di certo il signor Lowes Dickinson non la metterà in dubbio.  È
+stata il vanto di centinaia di campioni del [[Christianity|cristianesimo]].
+È stata lo scherno di centinaia di avversari del
+[[Christianity|cristianesimo]].  Essa è, in sostanza, il fondamento
+dell'intera distinzione che il signor Lowes Dickinson traccia tra il
+[[Christianity|cristianesimo]] e il paganesimo.  Intendo, naturalmente, la
+virtù dell'[[Humility|umiltà]].  Ammetto, s'intende, prontissimamente, che
+una gran quantità di falsa [[Humility|umiltà]] orientale (vale a dire di
+[[Humility|umiltà]] strettamente [[ascetic|ascetica]]) si mescolò con la
+corrente principale del [[Christianity|cristianesimo]] europeo.  Non
+dobbiamo dimenticare che, quando parliamo di [[Christianity|cristianesimo]],
+parliamo di un intero continente per circa mille anni.  Ma di questa virtù
+ancor più che delle altre tre sosterrei la proposizione generale adottata
+sopra.  La civiltà scoprì l'[[Humility|umiltà]] cristiana per la stessa
+urgente ragione per cui scoprì la [[Faith|fede]] e la [[Charity|carità]]:
+cioè perché la civiltà cristiana doveva scoprirla o morire.

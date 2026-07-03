@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/ortho14-(chesterton)">Orthodoxy</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/ortho14/story_07_vii_the_eternal_revolution/part_07">‹ part 07</a><a class="ex-next" href="/testi/chesterton/atomized/ortho14/story_07_vii_the_eternal_revolution/part_09">part 09 ›</a></div>
@@ -109,3 +111,109 @@ with a thrill of horror, that you are obliged to think.
 The long words are not the hard words, it is the short words
 that are hard.  There is much more metaphysical subtlety
 in the word "damn" than in the word "degeneration."
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/ortho14-(chesterton)">Orthodoxy</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/ortho14/story_07_vii_the_eternal_revolution/part_07">‹ part 07</a><a class="ex-next" href="/testi/chesterton/atomized/ortho14/story_07_vii_the_eternal_revolution/part_09">part 09 ›</a></div>
+</nav>
+
+# [[ortho14]] — VII La rivoluzione eterna (parte 8)
+
+Insomma, avevo compitato lentamente, come al solito, la necessità di una
+legge uguale in Utopia; e, come al solito, scoprii che il [[Christianity|Cristianesimo]]
+c'era già arrivato prima di me.  L'intera [[history|storia]] della mia Utopia
+ha la stessa spassosa malinconia.  Non facevo che precipitarmi fuori
+dal mio studio d'architetto con i progetti di una nuova torretta, solo per ritrovarla
+già lassù, seduta nella luce del sole, splendente, e vecchia di mille anni. 
+Per me, nel senso antico e in parte in quello moderno, Dio esaudì
+la [[prayer|preghiera]]: «Previenici, o Signore, in tutte le nostre opere».  Senza [[Vanity|vanità]],
+credo davvero che vi fu un momento in cui avrei potuto inventare
+il voto del [[Marriage|matrimonio]] (come istituzione) di mia testa;
+ma scoprii, con un sospiro, che era già stato inventato. 
+Ma, poiché sarebbe faccenda troppo lunga mostrare come, fatto per fatto
+e pollice per pollice, la mia concezione dell'Utopia trovasse risposta soltanto
+nella Nuova Gerusalemme, prenderò questo unico caso della questione del [[Marriage|matrimonio]]
+come indice della deriva convergente, direi anzi del crollo convergente
+di tutto il resto.
+
+     Quando i soliti avversari del socialismo parlano di impossibilità
+e di mutamenti nella [[Nature|natura]] umana, mancano sempre una distinzione importante. 
+Nelle moderne concezioni ideali della società vi sono alcuni desideri che
+forse non sono attingibili: ma vi sono anche alcuni desideri che non sono desiderabili. 
+Che tutti gli uomini vivano in case egualmente belle è [[A Dream|un sogno]]
+che può o non può essere realizzato.  Ma che tutti gli uomini vivano
+nella stessa bella [[house|casa]] non è affatto [[A Dream|un sogno]]; è un [[nightmare|incubo]]. 
+Che un uomo [[Love|ami]] tutte le vecchie donne è un ideale che forse non è attingibile. 
+Ma che un uomo consideri tutte le vecchie donne esattamente come considera
+sua madre non è soltanto un ideale [[Unattainable|inattingibile]], ma un ideale che
+non dovrebbe essere raggiunto.  Non so se il lettore concordi con me
+in questi esempi; ma aggiungerò l'esempio che mi ha sempre
+colpito di più.  Non ho mai potuto concepire né tollerare alcuna Utopia
+che non mi lasciasse la libertà cui più tengo,
+la libertà di vincolarmi.  Un'anarchia completa non renderebbe soltanto
+impossibile avere qualsiasi disciplina o fedeltà; renderebbe
+anche impossibile avere qualsiasi divertimento.  Per prendere un esempio ovvio,
+non varrebbe la pena di scommettere se una scommessa non fosse vincolante. 
+La dissoluzione di tutti i contratti non rovinerebbe soltanto la [[morality|moralità]]
+ma guasterebbe lo sport.  Ora, il gioco d'azzardo e simili sport sono solo le forme stentate
+e contorte dell'originario istinto dell'uomo per l'avventura
+e il [[Romance|romanzesco]], di cui molto si è detto in queste pagine. 
+E i pericoli, i premi, le punizioni e i compimenti di un'avventura
+devono essere reali, altrimenti l'avventura è soltanto un [[nightmare|incubo]] mutevole e senza cuore. 
+Se scommetto, devo essere costretto a pagare, o non c'è poesia nello scommettere. 
+Se lancio una sfida, devo essere costretto a battermi, o non c'è poesia nello sfidare. 
+Se faccio voto di essere fedele, devo essere maledetto quando sono infedele,
+o non c'è gusto nel far voti.  Non si potrebbe nemmeno trarre una fiaba
+dalle esperienze di un uomo che, inghiottito da una balena,
+si ritrovasse in cima alla Torre Eiffel, o che, mutato
+in rana, cominciasse a comportarsi come un fenicottero. 
+Anche ai fini del più sfrenato [[Romance|romanzesco]] i risultati devono essere reali;
+i risultati devono essere irrevocabili.  Il [[Marriage|matrimonio]] cristiano è il grande esempio
+di un risultato reale e irrevocabile; ed è per questo che è il soggetto principale
+e il centro di tutta la nostra scrittura romantica.  E questo è il mio ultimo esempio
+delle cose che dovrei chiedere, e chiedere imperativamente,
+a qualunque paradiso sociale; chiederei di essere tenuto fermo al mio patto,
+di veder presi sul serio i miei giuramenti e i miei impegni; chiederei all'Utopia
+di vendicare il mio [[Honour|onore]] su me stesso.
+
+     Tutti i miei moderni amici utopisti si guardano l'un l'altro alquanto dubbiosi,
+poiché la loro [[Hope|speranza]] ultima è la dissoluzione di tutti i legami particolari. 
+Ma di nuovo mi pare di udire, come una specie di eco, una risposta
+al di là del mondo.  «Avrai obblighi reali,
+e perciò avventure reali quando arriverai alla mia Utopia. 
+Ma l'obbligo più duro e l'avventura più ardua è arrivarci».
+
+VIII IL [[Romance|ROMANZESCO]] DELL'ORTODOSSIA
+
+     È consuetudine lamentarsi del trambusto e dell'affannarsi
+della nostra epoca.  Ma in [[Truth|verità]] il tratto principale della nostra epoca è
+una profonda pigrizia e stanchezza; e il fatto è che è proprio la vera pigrizia
+la causa dell'apparente trambusto.  Si prenda un caso del tutto esteriore:
+le strade sono rumorose di taxi e automobili; ma ciò non è dovuto
+all'attività umana bensì al riposo umano.  Ci sarebbe meno trambusto
+se ci fosse più attività, se la gente semplicemente camminasse a piedi. 
+Il nostro mondo sarebbe più silenzioso se fosse più affannato. 
+E ciò che è vero dell'apparente trambusto fisico è vero anche
+dell'apparente trambusto dell'intelletto.  La maggior parte del macchinario
+del linguaggio moderno è un macchinario che risparmia fatica; e risparmia fatica mentale
+molto più di quanto dovrebbe.  Le frasi scientifiche si usano come
+ruote e bielle scientifiche per rendere più rapido e più liscio ancora
+il cammino di chi sta comodo.  Le lunghe parole ci passano accanto sferragliando come
+lunghi treni ferroviari.  Sappiamo che trasportano migliaia di persone che sono
+troppo stanche o troppo indolenti per camminare e pensare da sé. 
+È un buon esercizio provare almeno una volta a esprimere
+una qualunque opinione che si tenga in parole di una sola sillaba.  Se dite
+«L'utilità sociale della sentenza indeterminata è riconosciuta da tutti
+i criminologi come una parte della nostra evoluzione sociologica verso
+una visione più umana e scientifica della pena», potete continuare
+a parlare così per ore senza quasi un movimento della materia grigia
+dentro il vostro cranio. Ma se cominciate «Voglio che [[Jones]] vada in galera
+e che Brown dica quando [[Jones]] ne uscirà», scoprirete,
+con un brivido d'orrore, che siete obbligati a pensare. 
+Le parole lunghe non sono le parole difficili, sono le parole corte
+che sono difficili.  C'è molta più sottigliezza metafisica
+nella parola «dannazione» che nella parola «degenerazione».

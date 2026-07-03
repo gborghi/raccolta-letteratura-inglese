@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/everlasting-man-(chesterton)">The Everlasting Man</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/everlasting_man/chapter_03">‹ Chapter 03</a><a class="ex-next" href="/testi/chesterton/atomized/everlasting_man/chapter_01_on_the_man_called_christ_chris/part_02">part 02 ›</a></div>
@@ -131,3 +133,129 @@ They cannot be Christians and they can not leave off being
 Anti-Christians. Their whole atmosphere is the atmosphere of a reaction:
 sulks, perversity, petty criticism.  They still live in the [[Shadow|shadow]]
 of the [[Faith|faith]] and have lost the light of the [[Faith|faith]].
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/everlasting-man-(chesterton)">The Everlasting Man</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/everlasting_man/chapter_03">‹ Chapter 03</a><a class="ex-next" href="/testi/chesterton/atomized/everlasting_man/chapter_01_on_the_man_called_christ_chris/part_02">part 02 ›</a></div>
+</nav>
+
+PARTE II:  SULL'UOMO CHIAMATO [[Christ|CRISTO]]
+
+    I Il Dio nella [[Cave|Grotta]]
+   II Gli enigmi del Vangelo
+  III La più strana storia del mondo
+   IV La testimonianza degli eretici
+    V La fuga dal paganesimo
+   VI Le cinque morti della [[Faith|Fede]]
+
+CONCLUSIONE:  IL COMPENDIO DI QUESTO LIBRO
+
+ Appendice I.  Sull'uomo preistorico
+ Appendice II. Sull'autorità e l'esattezza
+
+* * *
+
+NOTA PRELIMINARE
+
+Questo libro ha bisogno di una nota preliminare, affinché non se ne fraintenda
+la portata. La prospettiva che vi si suggerisce è storica più che teologica, e non
+tratta direttamente di quel mutamento religioso che è stato l'evento capitale
+della mia stessa vita, e intorno al quale sto già scrivendo un volume di natura
+più schiettamente controversistica. È impossibile, lo [[Hope|spero]], per qualsiasi
+cattolico scrivere un libro su un qualunque argomento, e soprattutto su questo,
+senza mostrare di essere cattolico; ma questo studio non si occupa in modo
+particolare delle differenze tra un cattolico e un protestante.
+Buona parte di esso è dedicata a molte specie di pagani più che a qualsiasi specie
+di cristiani; e la sua tesi è che coloro i quali affermano che [[Christ|Cristo]]
+sta a fianco di miti a lui simili, e la sua religione a fianco di religioni simili,
+non fanno che ripetere una formula assai stantia, contraddetta da un fatto
+assai clamoroso. Per suggerire questo non ho avuto bisogno di spingermi molto
+oltre le cose note a tutti noi; non pretendo di essere erudito, e per alcune cose
+devo affidarmi, come è ormai piuttosto di moda, a chi è più dotto di me.
+Poiché ho più di una volta dissentito dal signor H. G. Wells sulla sua visione
+della [[history|storia]], è tanto più giusto che io mi congratuli qui con lui
+per il [[Courage|coraggio]] e l'[[Imagination|immaginazione]] costruttiva che hanno condotto
+in porto la sua opera vasta, varia e intensamente interessante;
+ma ancor più per aver rivendicato il ragionevole diritto del dilettante
+a fare quel che può con i fatti che gli specialisti gli forniscono.
+
+* * *
+
+INTRODUZIONE
+
+IL DISEGNO DI QUESTO LIBRO
+
+Vi sono due modi di tornare a [[Home|casa]]; e uno di essi è restarci.
+L'altro è camminare tutt'intorno al mondo finché non si ritorni allo
+stesso punto; e ho tentato di tracciare un tale [[Journey|viaggio]] in un racconto che scrissi un tempo.
+È però un sollievo passare da quel tema a un'altra storia
+che non ho mai scritto. Come ogni libro che non ho mai scritto, è di gran lunga
+il miglior libro che io abbia mai scritto. È fin troppo probabile che
+non lo scriverò mai, sicché me ne servirò qui in senso simbolico; perché
+era il simbolo di una medesima [[Truth|verità]]. Lo concepii come un [[Romance|romanzo]] di quelle
+immense vallate dai fianchi digradanti, come quelle lungo cui gli antichi
+Cavalli Bianchi del Wessex sono tracciati a graffio sui costoni delle colline.
+Riguardava un ragazzo la cui fattoria o casetta sorgeva su un simile pendio,
+e che si mise in viaggio in cerca di qualcosa, come l'effigie
+e la [[Grave|tomba]] di qualche gigante; e quando fu abbastanza lontano da [[Home|casa]] si volse
+indietro e vide che la sua fattoria e l'[[Garden|orto]] della cucina, splendenti e piatti
+sul fianco della [[Hill|collina]] come i colori e le partizioni di uno scudo,
+non erano che parti di una qualche gigantesca figura, sulla quale egli aveva
+sempre vissuto, ma che era troppo grande e troppo vicina per essere vista.
+Questo, io credo, è un vero ritratto del progredire di ogni intelligenza
+davvero indipendente al giorno d'oggi; ed è questo il senso di questo libro.
+
+Il senso di questo libro, in altre parole, è che la cosa migliore, dopo l'essere
+davvero dentro la Cristianità, è l'esserne davvero fuori.
+E un punto particolare è che i critici popolari del [[Christianity|Cristianesimo]]
+non ne sono realmente fuori. Si trovano su un terreno controverso,
+in ogni senso del termine. Sono dubbiosi persino nei loro dubbi.
+La loro critica ha assunto un tono curioso; quello di una contestazione
+casuale e ignorante. Così spingono in circolazione le frasi fatte anticlericali
+alla stregua di chiacchiere da salotto. Si lagnano che i pastori si vestano
+da pastori; come se fossimo più liberi qualora tutti i poliziotti
+che ci pedinano o ci acciuffano fossero agenti in borghese.
+Oppure si lagnano che un sermone non possa essere interrotto, e chiamano
+un pulpito il [[Castle|castello]] del vigliacco; sebbene non chiamino l'ufficio di un direttore
+di giornale il [[Castle|castello]] del vigliacco. Sarebbe ingiusto tanto verso i giornalisti quanto verso i preti;
+ma sarebbe assai più vero del giornalista. L'uomo di chiesa compare
+di persona e potrebbe essere facilmente preso a pedate all'uscita dalla chiesa;
+il giornalista cela persino il proprio nome, così che nessuno possa prenderlo a pedate.
+Scrivono articoli e lettere sfrenati e insensati sulla stampa
+sul perché le chiese siano vuote, senza nemmeno andarvi
+per accertare se siano vuote, o quali di esse lo siano.
+I loro suggerimenti sono più insipidi e vacui del più scipito curato
+di una farsa in tre atti, e ci muovono a consolarlo alla maniera
+del curato delle Bab Ballads: «La tua mente non è così vuota come quella
+di Hopley Porter». Sicché possiamo dire in tutta verità al più fiacco dei chierici:
+«La tua mente non è così vuota come quella dell'Indignato Laico o dell'Uomo Comune
+o dell'Uomo della Strada, o di uno qualunque dei tuoi critici sui giornali;
+perché costoro non hanno la più vaga idea di ciò che essi stessi vogliono.
+[[Alone|Per non parlare]] di ciò che tu dovresti dar loro». D'un tratto si voltano
+e vituperano la Chiesa per non aver impedito la Guerra, che essi
+stessi non volevano impedire; e che nessuno aveva mai preteso
+di poter impedire, tranne alcuni di quella stessa scuola di scettici progressisti
+e cosmopoliti che sono i principali nemici della Chiesa.
+Fu il mondo anticlericale e agnostico a profetizzare sempre
+l'avvento di una pace universale; è quel mondo che fu, o avrebbe dovuto
+essere, sconcertato e confuso dall'avvento di una guerra universale.
+Quanto all'opinione generale che la Chiesa sia stata screditata dalla Guerra,
+potrebbero altrettanto [[Well|bene]] dire che l'Arca fu screditata dal Diluvio.
+Quando il mondo va storto, ciò dimostra piuttosto che la Chiesa ha ragione.
+La Chiesa è giustificata non perché i suoi figli non pecchino,
+ma perché peccano. Ma ciò segna il loro stato d'animo verso l'intera
+tradizione religiosa: sono in uno stato di reazione contro di essa.
+[[Well|Bene]] è per il ragazzo quando vive sulla terra di suo padre;
+e [[Well|bene]] di nuovo per lui quando è abbastanza lontano da essa per volgersi indietro
+a guardarla e vederla come un tutto. Ma questa gente è caduta in uno
+stato intermedio, è precipitata in una valle interposta dalla quale
+non può vedere né le alture al di là né le alture alle sue spalle.
+Non riescono a uscire dalla penombra della controversia cristiana.
+Non possono essere cristiani e non possono smettere di essere
+anticristiani. La loro intera atmosfera è l'atmosfera di una reazione:
+malumori, ostinazione, critica meschina. Vivono ancora nell'[[Shadow|ombra]]
+della [[Faith|fede]] e hanno perduto la luce della [[Faith|fede]].

@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/wifrb11-(chesterton)">The Wisdom of Father Brown</a></div>
 <div class="excerpt-pn"><span></span><a class="ex-next" href="/testi/chesterton/atomized/wifrb11/story_02_the_paradise_of_thieves">Story 02 The Paradise of Thieves ›</a></div>
@@ -618,3 +620,198 @@ with an entirely new series of Tricks at the Empire Pavilion,
 Scarborough, on Monday next at eight o'[[Clock|clock]] precisely.
 
                                   TWO
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/wifrb11-(chesterton)">The Wisdom of Father Brown</a></div>
+<div class="excerpt-pn"><span></span><a class="ex-next" href="/testi/chesterton/atomized/wifrb11/story_02_the_paradise_of_thieves">Story 02 The Paradise of Thieves ›</a></div>
+</nav>
+
+# [[wifrb11]] — L'assenza del signor Glass
+
+                        L'assenza del signor Glass
+
+GLI studi del dottor Orion Hood, l'eminente criminologo e specialista di certi disordini morali, si affacciavano sul lungomare di Scarborough attraverso una fila di ampie e [[Well|ben]] illuminate portefinestre, che mostravano il Mare del Nord come un'unica, sterminata muraglia esterna di marmo verde-azzurro. In un luogo simile il mare aveva qualcosa della monotonia di uno zoccolo di parete verde-azzurro: poiché gli ambienti stessi erano governati da un ordine tremendo, non dissimile dal tremendo ordine del mare. Non si creda che gli appartamenti del dottor Hood escludessero il lusso, o perfino la poesia. Queste cose c'erano, al loro posto; ma si sentiva che non era mai loro concesso di uscirne. Il lusso c'era: su un tavolo apposta stavano otto o dieci scatole dei migliori sigari; ma erano disposte secondo un disegno tale che i più forti restavano sempre più vicini alla parete e i più leggeri più vicini alla [[Window|finestra]]. Un cofanetto per liquori contenente tre qualità di alcolici, tutti d'eccellenza da rosolio, stava sempre su questo tavolo del lusso; ma i fantasiosi hanno affermato che il whisky, il brandy e il rum parevano tenersi sempre al medesimo livello. La poesia c'era: l'angolo sinistro della stanza era foderato da una raccolta di classici inglesi tanto completa quanto la destra poteva mostrarne di fisiologi inglesi e stranieri. Ma se si toglieva da quella fila un volume di Chaucer o di Shelley, la sua assenza irritava la mente come un vuoto tra i denti davanti di un uomo. Non si sarebbe potuto dire che i libri non venissero mai letti; probabilmente lo erano, ma si aveva la sensazione che fossero incatenati al loro posto, come le Bibbie nelle vecchie chiese. Il dottor Hood trattava il proprio scaffale privato come se fosse una biblioteca pubblica. E se questa rigorosa, scientifica intangibilità impregnava perfino gli scaffali carichi di liriche e ballate e i tavoli carichi di bevande e tabacco, va da sé che una santità pagana ancora maggiore proteggeva gli altri scaffali che reggevano la biblioteca dello specialista, e gli altri tavoli che sostenevano i fragili e quasi fatati strumenti della chimica o della meccanica.
+
+     Il dottor Hood percorreva in lungo la fila dei suoi appartamenti, delimitati — come dicono le geografie dei ragazzi — a est dal Mare del Nord e a ovest dalle serrate schiere della sua biblioteca sociologica e criminologica. Era vestito del velluto di un [[artist|artista]], ma senza nulla della negligenza di un [[artist|artista]]; i capelli erano abbondantemente striati di grigio, ma crescevano folti e sani; il viso era magro, ma sanguigno e proteso nell'attesa. Ogni cosa in lui e nella sua stanza rivelava qualcosa a un tempo rigido e inquieto, come quel grande mare settentrionale accanto al quale (per puri principî d'igiene) egli aveva costruito la propria [[Home|casa]].
+
+     Il Destino, essendo in vena scherzosa, spinse la porta e introdusse in quei lunghi, austeri appartamenti fiancheggiati dal mare qualcuno che era forse il più sorprendente contrario di essi e del loro padrone. In risposta a un invito secco ma cortese, la porta si aprì verso l'interno e nella stanza si trascinò una figuretta informe, che pareva trovare il proprio cappello e il proprio ombrello ingovernabili quanto una massa di bagagli. L'ombrello era un fagotto nero e prosaico da tempo irreparabile; il cappello era un cappello nero dalle larghe tese ricurve, clericale ma non comune in Inghilterra; l'uomo era l'incarnazione stessa di tutto ciò che è dimesso e sprovveduto.
+
+     Il dottore osservò il nuovo venuto con uno stupore contenuto, non diverso da quello che avrebbe mostrato se qualche enorme ma palesemente innocua creatura marina fosse strisciata nella sua stanza. Il nuovo venuto osservò il dottore con quella raggiante ma trafelata cordialità che caratterizza una corpulenta donna di fatica appena riuscita a incastrarsi in un omnibus. È un ricco miscuglio di sociale [[Self|autocompiacimento]] e di scompiglio corporale. Il cappello gli rotolò sul tappeto, il pesante ombrello gli scivolò tra le ginocchia con un tonfo; egli si protese dietro l'uno e si chinò dietro l'altro, ma, con un immutato sorriso sul viso tondo, prese a parlare simultaneamente come segue:
+
+     «Mi chiamo Brown. Vi prego di scusarmi. Sono venuto per quella faccenda dei MacNab. Ho sentito che spesso aiutate la gente a uscire da guai simili. Vi prego di scusarmi se sbaglio.»
+
+     A questo [[Time|punto]] aveva recuperato in modo scomposto il cappello, e su di esso fece uno strano piccolo inchino a scatti, come per rimettere ogni cosa perfettamente a posto.
+
+     «Faccio fatica a capirvi», replicò lo scienziato, con fredda intensità di modi. «[[Fear|Temo]] che abbiate sbagliato studio. Sono il dottor Hood, e il mio lavoro è quasi interamente letterario ed educativo. È vero che talvolta sono stato consultato dalla polizia in casi di particolare difficoltà e importanza, ma...»
+
+     «Oh, questa è della massima importanza», lo interruppe l'omino di nome Brown. «Ma se la madre non li lascia fidanzare!» E si abbandonò contro lo schienale della poltrona in una raggiante razionalità.
+
+     Le sopracciglia del dottor Hood si aggrottarono cupamente, ma gli occhi sotto di esse brillavano di qualcosa che poteva essere collera oppure divertimento. «E tuttavia», disse, «non capisco ancora bene.»
+
+     «Vedete, vogliono sposarsi», disse l'uomo dal cappello clericale. «Maggie MacNab e il giovane Todhunter vogliono sposarsi. Ora, che cosa può esserci di più importante di questo?»
+
+     I trionfi scientifici del grande Orion Hood lo avevano privato di molte cose — alcuni dicevano della salute, altri del suo Dio; ma non lo avevano del tutto spogliato del senso dell'assurdo. All'ultima perorazione dell'ingenuo prete gli scappò dall'interno una risatina, ed egli si gettò in una poltrona nell'ironico atteggiamento del medico consulente.
+
+     «Signor Brown», disse gravemente, «sono ben quattordici anni e mezzo che non mi si chiede personalmente di risolvere un problema personale: allora si trattava di un tentativo di [[Poison|avvelenare]] il Presidente francese a un banchetto del [[Lord Mayor|Lord Sindaco]]. Ora, se ho ben capito, la questione è se una certa vostra amica di nome Maggie sia una fidanzata adatta per un certo amico di lei chiamato Todhunter. [[Well|Ebbene]], signor Brown, io sono un buon giocatore. Accetto la sfida. Darò alla famiglia MacNab il mio miglior consiglio, buono quanto quello che diedi alla Repubblica francese e al [[King|Re]] d'Inghilterra — no, migliore: migliore di quattordici anni. Non ho altro da fare questo pomeriggio. Raccontatemi la vostra storia.»
+
+     Il piccolo ecclesiastico di nome Brown lo ringraziò con incontestabile calore, ma pur sempre con una bizzarra specie di semplicità. Era piuttosto come se stesse ringraziando uno sconosciuto in una sala fumatori per il disturbo di passargli i fiammiferi, anziché come se stesse (com'era in realtà) ringraziando praticamente il Curatore dei Kew Gardens per essere andato con lui in un campo a cercare un quadrifoglio. Con appena un punto e virgola dopo i suoi calorosi ringraziamenti, l'omino diede inizio al suo racconto:
+
+     «Vi ho detto che mi chiamo Brown; [[Well|be']], questo è il fatto, e sono il prete della piccola [[Catholic Church|Chiesa cattolica]] che oserei dire avete visto oltre quelle vie sparpagliate, dove la città finisce verso nord. Nell'ultima e più sparpagliata di quelle vie che corre lungo il mare come una diga c'è una parrocchiana molto onesta ma piuttosto d'umore pungente, una vedova di nome MacNab. Ha una figlia, e affitta camere, e tra lei e la figlia, e tra lei e i pigionanti — [[Well|be']], oserei dire che ci sarebbe molto da dire dall'una e dall'altra parte. Al momento ha un solo pigionante, il giovane di nome Todhunter; ma costui le ha dato più grattacapi di tutti gli altri messi insieme, perché vuole sposare la giovane di [[house|casa]].»
+
+     «E la giovane di [[house|casa]]», chiese il dottor Hood, con enorme e silenzioso divertimento, «lei che cosa vuole?»
+
+     «Ma, vuole sposarlo», esclamò [[Father Brown|Padre Brown]], drizzandosi sulla sedia con ardore. «È proprio questa la terribile complicazione.»
+
+     «È in effetti un enigma spaventoso», disse il dottor Hood.
+
+     «Questo giovane James Todhunter», proseguì il chierico, «è un uomo assai perbene per quanto ne so; ma poi nessuno ne sa granché. È un tipetto sveglio, bruniccio, agile come una scimmia, sbarbato come un attore e ossequioso come un cortigiano nato. Sembra avere le tasche piene di denaro, ma nessuno sa quale sia il suo mestiere. La signora MacNab, perciò (essendo di indole pessimista), è convintissima che sia qualcosa di terribile, e probabilmente collegato con la dinamite. La dinamite dev'essere di specie schiva e silenziosa, perché il poveretto non fa che chiudersi dentro per parecchie ore del giorno a studiare qualcosa dietro una porta serrata. Egli dichiara che la sua segretezza è temporanea e giustificata, e promette di spiegarsi prima delle nozze. Questo è tutto ciò che chiunque sappia per certo, ma la signora MacNab vi racconterà assai più di quanto perfino lei sappia per certo. Sapete come crescono le dicerie, simili all'erba, su una tale chiazza d'ignoranza. Si racconta di due voci udite conversare nella stanza; eppure, quando la porta si apre, Todhunter è sempre trovato [[Alone|solo]]. Si racconta di un misterioso uomo alto in cilindro di seta, che una volta uscì dalle nebbie marine e in apparenza dal mare stesso, avanzando lieve attraverso i campi sabbiosi e per il piccolo [[Garden|giardino]] sul retro al crepuscolo, finché lo si udì conversare col pigionante alla sua [[Window|finestra]] aperta. Il colloquio parve concludersi in un litigio. Todhunter abbassò con violenza la propria [[Window|finestra]], e l'uomo dall'alto cappello si dissolse di nuovo nella nebbia del mare. Questa storia è narrata dalla famiglia con la più fiera [[Mystification|perplessità]]; ma io credo davvero che la signora MacNab preferisca la sua versione originale: che l'Altro Uomo (o qualunque cosa sia) esca strisciando ogni [[Night|notte]] dalla grande cassa nell'angolo, che di giorno è tenuta sempre chiusa a chiave. Vedete, dunque, come questa porta sigillata di Todhunter sia trattata come la soglia di tutte le fantasie e mostruosità delle "Mille e una notte". Eppure ecco lì il tipetto nel suo rispettabile giacchino nero, puntuale e innocente come un orologio da salotto. Paga l'affitto al secondo; è praticamente astemio; è instancabilmente gentile con i bambini più piccoli, e sa tenerli divertiti per un giorno intero; e, ultima e più pressante cosa di tutte, si è reso ugualmente popolare presso la figlia maggiore, che è pronta ad andare in chiesa con lui domani.»
+
+     Un uomo caldamente preso da qualche vasta teoria ha sempre il gusto di applicarla a qualunque inezia. Il grande specialista, essendosi degnato di scendere alla semplicità del prete, si degnò espansivamente. Si accomodò con agio nella poltrona e cominciò a parlare col tono di un conferenziere alquanto sovrappensiero:
+
+     «Anche nel più minuscolo caso, è meglio guardare prima alle tendenze principali della Natura. Un particolare fiore può non essere morto ai primi del verno, ma i fiori stanno morendo; un particolare ciottolo può non essere mai bagnato dalla marea, ma la marea sta salendo. All'occhio scientifico tutta la storia umana è una serie di movimenti collettivi, distruzioni o migrazioni, come il massacro delle mosche d'inverno o il ritorno degli uccelli in primavera. Ora, il fatto radicale in tutta la storia è la Razza. La Razza produce religione; la Razza produce guerre legali ed etiche. Non c'è caso più forte di quello del ceppo selvaggio, ultraterreno e morente che comunemente chiamiamo i Celti, di cui i vostri amici MacNab sono esemplari. Piccoli, olivastri e di questo sangue sognante e vagabondo, essi accettano con facilità la spiegazione superstiziosa di qualunque accadimento, così come accettano tuttora (mi scuserete se lo dico) quella spiegazione superstiziosa di tutti gli accadimenti che voi e la vostra Chiesa rappresentate. Non è cosa notevole che simile gente, col mare che geme alle loro spalle e la Chiesa (scusatemi di nuovo) che salmodia dinanzi a loro, metta tratti fantastici in ciò che sono probabilmente semplici eventi. Voi, con le vostre piccole responsabilità parrocchiali, vedete soltanto questa particolare signora MacNab, atterrita da questa particolare storia di due voci e di un uomo alto uscito dal mare. Ma l'uomo dotato d'immaginazione scientifica vede, per così dire, l'intera stirpe dei MacNab sparsa per il mondo intero, nella sua media ultima uniforme come una tribù di uccelli. Egli vede migliaia di signore MacNab, in migliaia di case, versare la loro gocciolina di morbosità nelle tazze di tè delle loro amiche; egli vede...»
+
+     Prima che lo scienziato potesse concludere la frase, un altro e più impaziente richiamo risuonò dall'esterno; qualcuno con un fruscio di gonne fu condotto in fretta lungo il corridoio, e la porta si aprì su una giovane fanciulla, decorosamente vestita ma scompigliata e rovente per la fretta. Aveva capelli biondi scompigliati dal vento del mare, e sarebbe stata del tutto bella se gli zigomi non fossero stati, alla maniera scozzese, un po' troppo sporgenti in rilievo oltre che in colore. Le sue scuse furono quasi altrettanto brusche di un ordine.
+
+     «Mi dispiace interrompervi, signore», disse, «ma dovevo seguire subito Padre Brown; non si tratta di niente di meno che di vita o di morte.»
+
+     Padre Brown cominciò ad alzarsi in piedi con qualche impaccio. «Ebbene, che cosa è successo, Maggie?» disse.
+
+     «James è stato assassinato, per quanto io possa capire», rispose la fanciulla, ancora ansante per la corsa. «Quel Glass è stato di nuovo con lui; li ho sentiti parlare attraverso la porta chiarissimamente. Due voci distinte: perché James parla basso, con una erre arrotata, e l'altra voce era acuta e tremula.»
+
+     «Quel Glass?» ripeté il prete con una certa perplessità.
+
+     «So che si chiama Glass», rispose la fanciulla, con grande impazienza. «L'ho sentito attraverso la porta. Litigavano — per denaro, credo — perché ho sentito James dire più e più volte: "Va bene, signor Glass", oppure "No, signor Glass", e poi: "Due o tre, signor Glass". Ma stiamo parlando troppo; dovete venire subito, e forse c'è ancora [[Time|tempo]].»
+
+     «Ma [[Time|tempo]] per che cosa?» chiese il dottor Hood, che aveva studiato la giovane con marcato interesse. «Che cosa c'è, nel signor Glass e nei suoi guai di denaro, da imporre una simile urgenza?»
+
+     «Ho cercato di sfondare la porta e non ci sono riuscita», rispose la fanciulla in breve, «poi sono corsa nel cortile sul retro e sono riuscita ad arrampicarmi sul davanzale della [[Window|finestra]] che dà nella stanza. Era in penombra, e sembrava vuota, ma giuro d'aver visto James riverso rannicchiato in un angolo, come se fosse drogato o strangolato.»
+
+     «Questo è molto serio», disse [[Father Brown|Padre Brown]], raccogliendo il suo errabondo cappello e l'ombrello e alzandosi in piedi; «di fatto stavo giusto esponendo il vostro caso a questo signore, e la sua opinione...»
+
+     «È stata largamente modificata», disse gravemente lo scienziato. «Non credo che questa giovane sia tanto celtica quanto avevo supposto. Poiché non ho altro da fare, mi metterò il cappello e verrò a farmi una passeggiata in città con voi.»
+
+     In pochi minuti tutti e tre si stavano avvicinando alla squallida coda della via dei MacNab: la fanciulla col passo severo e trafelato dello scalatore di montagna, il criminologo con una grazia indolente (che non era priva di una certa rapidità felina), e il prete a un trotto energico del tutto privo di distinzione. L'aspetto di questo margine della città non era del tutto privo di giustificazione per gli accenni del dottore a umori e ambienti desolati. Le case sparse si distanziavano sempre più l'una dall'altra in una fila spezzata lungo la riva del mare; il pomeriggio si chiudeva in un crepuscolo prematuro e in parte sinistro; il mare era di un purpureo cupo come inchiostro e mormorava minacciosamente. Nel raffazzonato [[Garden|giardino]] sul retro dei MacNab, che scendeva verso la sabbia, due alberi neri e dall'aria sterile si ergevano come mani demoniache levate nello stupore; e mentre la signora MacNab correva giù per la via a incontrarli con magre mani parimenti protese, e il feroce viso in [[Shadow|ombra]], somigliava un poco a un demonio anche lei. Il dottore e il prete diedero scarsa risposta alle stridule reiterazioni della storia della figlia, con più inquietanti particolari suoi propri, e ai giuramenti di vendetta divisi tra il signor Glass per aver assassinato, e il signor Todhunter per essere stato assassinato, o quest'ultimo per aver osato voler sposare sua figlia, e per non essere vissuto abbastanza da farlo. Passarono per lo stretto andito sul davanti della [[house|casa]] finché giunsero alla porta del pigionante sul retro, e là il dottor Hood, con la destrezza di un vecchio [[Detective|investigatore]], puntò di colpo la spalla contro il pannello e sfondò la porta.
+
+     Si aprì su una scena di silenziosa catastrofe. Nessuno, vedendola, anche solo per un lampo, avrebbe potuto [[Doubt|dubitare]] che la stanza fosse stata il teatro di qualche emozionante scontro tra due, o forse più, persone. Carte da gioco giacevano sparse sul tavolo o svolazzavano per il pavimento come se una partita fosse stata interrotta. Due bicchieri da vino stavano pronti per il vino su un tavolinetto laterale, ma un terzo giaceva in frantumi in una stella di cristallo sul tappeto. A pochi piedi da esso giaceva quello che pareva un lungo coltello o una corta [[Sword|spada]], dritta, ma con un'impugnatura ornata e figurata; la sua opaca lama coglieva appena un grigio bagliore dalla tetra [[Window|finestra]] retrostante, che mostrava gli alberi neri contro il piatto plumbeo del mare. Verso l'angolo opposto della stanza era rotolato un cilindro di seta da gentiluomo, come se fosse stato appena fatto saltar via dalla testa; a tal punto, in verità, che quasi ci si aspettava di vederlo ancora [[rolling|rotolare]]. E nell'angolo dietro di esso, gettato come un sacco di patate, ma legato come un baule ferroviario, giaceva il signor James Todhunter, con una sciarpa attraverso la bocca e sei o sette corde annodate intorno ai gomiti e alle caviglie. I suoi occhi bruni erano vivi e si muovevano vigili.
+
+     Il dottor Orion Hood si arrestò per un istante sullo zerbino e s'imbevve dell'intera scena di muta violenza. Poi attraversò lesto il tappeto, raccolse l'alto cilindro di seta e con gravità lo posò sul capo del tuttora incaprettato Todhunter. Gli era tanto largo che quasi gli scivolò giù sulle spalle.
+
+     «Il cappello del signor Glass», disse il dottore, tornando con esso e scrutandone l'interno con una lente tascabile. «Come spiegare l'assenza del signor Glass e la presenza del cappello del signor Glass? Perché il signor Glass non è uomo trascurato coi propri abiti. Questo cappello è di foggia elegante e sistematicamente spazzolato e lustrato, benché non molto nuovo. Un vecchio damerino, direi.»
+
+     «Ma, santo cielo!» esclamò la signorina MacNab, «non intendete slegare prima quest'uomo?»
+
+     «Dico "vecchio" di proposito, benché non con certezza», proseguì l'espositore; «la mia ragione potrebbe sembrare un po' tirata per i capelli. I capelli degli esseri umani cadono in grado assai variabile, ma quasi sempre cadono un poco, e con la lente dovrei vedere i minuscoli peli in un cappello indossato di recente. Questo non ne ha, il che mi induce a supporre che il signor Glass sia calvo. Ora, quando ciò si prende insieme alla voce acuta e querula che la signorina MacNab ha descritto con tanta vivezza (pazienza, mia cara signora, pazienza), quando prendiamo il capo glabro insieme al tono comune nella collera senile, penso che possiamo dedurre un certo avanzamento negli anni. Nondimeno, egli era probabilmente vigoroso, ed era quasi certamente alto. Potrei fare affidamento in qualche misura sulla storia della sua precedente apparizione alla finestra, come uomo alto in cilindro di seta, ma credo di avere un'indicazione più precisa. Questo bicchiere da vino è andato in frantumi dappertutto, ma una delle sue schegge giace sull'alta mensola accanto al caminetto. Nessun frammento simile avrebbe potuto cadere lassù se il recipiente fosse stato spezzato nella mano di un uomo relativamente basso come il signor Todhunter.»
+
+     «A proposito», disse Padre Brown, «non sarebbe altrettanto opportuno slegare il signor Todhunter?»
+
+     «La nostra lezione dai recipienti da bere non finisce qui», proseguì lo specialista. «Posso dire subito che è possibile che l'uomo Glass fosse calvo o nervoso per dissolutezza anziché per l'età. Il signor Todhunter, come è stato osservato, è un gentiluomo quieto e parsimonioso, essenzialmente un astinente. Queste carte e questi calici da vino non fanno parte delle sue abitudini normali; sono stati messi fuori per un compagno particolare. Ma, come si dà il caso, possiamo andare oltre. Il signor Todhunter può possedere o meno questo servizio da vino, ma non c'è alcuna apparenza ch'egli possieda del vino. Che cosa, dunque, dovevano contenere questi recipienti? Suggerirei senz'altro del brandy o del whisky, forse di sorta pregiata, da una fiaschetta nella tasca del signor Glass. Abbiamo così qualcosa come un ritratto dell'uomo, o almeno del tipo: alto, anziano, alla moda, ma alquanto logoro, di certo amante del gioco e degli alcolici, forse un po' troppo amante di essi. Il signor Glass è un gentiluomo non ignoto ai margini della buona società.»
+
+     «Sentite un po'», gridò la giovane donna, «se non mi lasciate passare a slegarlo, corro fuori a chiamare la polizia a gran voce.»
+
+     «Non ve lo consiglierei, signorina MacNab», disse gravemente il dottor Hood, «non abbiate alcuna fretta di andare a cercare la polizia. Padre Brown, vi prego seriamente di calmare il vostro gregge, per il loro bene, non per il mio. Bene, abbiamo visto qualcosa della figura e della qualità del signor Glass; quali sono i fatti principali che si conoscono del signor Todhunter? Sono in sostanza tre: che è parco, che è più o meno benestante, e che ha un segreto. Ora, è certamente evidente che questi sono i tre principali contrassegni del genere d'uomo che viene ricattato. Ed è altrettanto certamente evidente che gli sbiaditi lussi, le abitudini dissolute e la stridula irritabilità del signor Glass sono gli inconfondibili contrassegni del genere d'uomo che lo ricatta. Abbiamo le due figure tipiche di una tragedia da denaro del silenzio: da un lato, l'uomo rispettabile con un mistero; dall'altro, l'avvoltoio del West End col fiuto per un mistero. Questi due uomini si sono incontrati qui oggi e hanno litigato, venendo alle mani e a un'arma sguainata.»
+
+     «Avete intenzione di togliere quelle corde?» chiese ostinata la fanciulla.
+
+     Il dottor Hood ripose con cura il cilindro di seta sul tavolinetto laterale e attraversò la stanza fino al prigioniero. Lo studiò intensamente, arrivando a smuoverlo un poco e a girarlo a metà tenendolo per le spalle, ma si limitò a rispondere:
+
+     «No; credo che queste corde andranno benissimo finché i vostri amici della polizia non porteranno le manette.»
+
+     Padre Brown, che aveva fissato ottuso il tappeto, sollevò il viso tondo e disse: «Che cosa intendete?»
+
+     L'uomo di scienza aveva raccolto dal tappeto la singolare spada-pugnale e la stava esaminando intensamente mentre rispondeva:
+
+     «Poiché trovate il signor Todhunter legato», disse, «tutti saltate alla conclusione che sia stato il signor Glass a legarlo; e poi, suppongo, a fuggire. Ci sono quattro obiezioni a questo: primo, perché un gentiluomo così attillato come il nostro amico Glass avrebbe lasciato qui il cappello, se se ne fosse andato di sua libera volontà? Secondo», proseguì, muovendosi verso la finestra, «questa è l'unica uscita, ed è chiusa a chiave dall'interno. Terzo, questa lama qui ha un minuscolo tocco di sangue sulla punta, ma non c'è ferita sul signor Todhunter. Il signor Glass si è portato via quella ferita, morto o vivo. Aggiungete a tutto ciò la probabilità di fondo. È molto più verosimile che la persona ricattata cerchi di uccidere il proprio incubo, anziché che il ricattatore cerchi di uccidere l'oca che gli depone l'uovo d'oro. Ecco, credo, abbiamo una storia abbastanza completa.»
+
+     «Ma le corde?» s'informò il prete, i cui occhi erano rimasti spalancati in un'ammirazione piuttosto vacua.
+
+     «Ah, le corde», disse l'esperto con singolare intonazione. «La signorina MacNab desiderava tanto sapere perché non liberassi il signor Todhunter dalle sue corde. Bene, glielo dirò. Non l'ho fatto perché il signor Todhunter può liberarsene da solo in qualunque momento gli aggradi.»
+
+     «Cosa?» gridò l'uditorio su note del tutto diverse di stupore.
+
+     «Ho esaminato tutti i nodi sul signor Todhunter», ribadì Hood con calma. «Si dà il caso che io me ne intenda di nodi; sono addirittura un ramo della scienza criminale. Ognuno di quei nodi se lo è fatto da solo e potrebbe scioglierselo da solo; non uno di essi sarebbe stato fatto da un nemico che davvero cercasse d'immobilizzarlo. L'intera faccenda delle corde è un'astuta messinscena, per farci credere ch'egli sia la vittima della colluttazione anziché il disgraziato Glass, il cui cadavere può essere nascosto in giardino o cacciato su per il camino.»
+
+     Vi fu un silenzio piuttosto abbattuto; la stanza si oscurava, i rami rovinati dal mare degli alberi del giardino apparivano più scarni e neri che mai, eppure sembravano essersi avvicinati alla finestra. Si sarebbe quasi potuto immaginarli mostri marini come kraken o seppie, viluppi di polipi contorti risaliti strisciando dal mare a vedere la fine di questa tragedia, come lui, il malvagio e la vittima di essa, il terribile uomo dall'alto cappello, era una volta risalito strisciando dal mare. Poiché l'aria intera era densa della morbosità del ricatto, che è la più morbosa delle cose umane, perché è un delitto che cela un delitto; un cerotto nero su una piaga più nera.
+
+     Il viso del piccolo prete cattolico, che di solito era compiaciuto e persino comico, si era d'un tratto annodato in un curioso cipiglio. Non era la vuota curiosità della sua iniziale innocenza. Era piuttosto quella creativa curiosità che sopraggiunge quando un uomo ha i primi accenni di un'idea. «Ripetetelo, per favore», disse in maniera semplice e turbata; «volete dire che Todhunter può legarsi tutto da solo e slegarsi tutto da solo?»
+
+     «È questo che intendo», disse il dottore.
+
+     «Perbacco!» esclamò a un tratto Brown, «chissà che non sia proprio così!»
+
+     Sfrecciò attraverso la stanza piuttosto come un coniglio, e scrutò con una del tutto nuova impulsività il viso parzialmente coperto del prigioniero. Poi rivolse alla compagnia il proprio viso alquanto fatuo. «Sì, è così!» gridò con una certa eccitazione. «Non lo vedete sul viso dell'uomo? Ma guardategli gli occhi!»
+
+     Sia il Professore sia la fanciulla seguirono la direzione del suo sguardo. E benché l'ampia sciarpa nera mascherasse completamente la metà inferiore del volto di Todhunter, si fecero coscienti di qualcosa di lottante e d'intenso nella parte superiore di esso.
+
+     «I suoi occhi hanno davvero un'aria strana», gridò la giovane donna, fortemente commossa. «Bruti che siete; credo che gli stiate facendo male!»
+
+     «Non è questo, credo», disse il dottor Hood; «gli occhi hanno di certo un'espressione singolare. Ma io interpreterei quelle rughe trasversali come esprimenti piuttosto una lieve anomalia psicologica...»
+
+     «Oh, sciocchezze!» gridò Padre Brown: «non vedete che sta ridendo?»
+
+     «Ridendo!» ripeté il dottore, con un sussulto; «ma di che diamine può mai ridere?»
+
+     «Be'», replicò il Reverendo Brown in tono di scusa, «per non usare troppi giri di parole, credo che stia ridendo di voi. E, in verità, sono un po' incline a ridere di me stesso, ora che l'ho capito.»
+
+     «Ora che avete capito che cosa?» chiese Hood, con qualche esasperazione.
+
+     «Ora ho capito», replicò il prete, «la professione del signor Todhunter.»
+
+     Si aggirò strascicando i piedi per la stanza, guardando un oggetto dopo l'altro con quello che pareva uno sguardo vacuo, e poi invariabilmente scoppiando in una risata altrettanto vacua, un processo altamente irritante per coloro che dovevano starlo a guardare. Rise moltissimo per il cappello, ancor più fragorosamente per il bicchiere rotto, ma il sangue sulla punta della spada lo gettò in convulsioni mortali di ilarità. Poi si volse allo specialista fumante di stizza.
+
+     «Dottor Hood», gridò con entusiasmo, «siete un grande poeta! Avete chiamato dal nulla un essere increato. Quanto più divino è ciò che se aveste soltanto stanato i meri fatti! Anzi, i meri fatti sono piuttosto banali e comici al confronto.»
+
+     «Non ho la minima idea di che cosa stiate parlando», disse il dottor Hood piuttosto altezzoso; «i miei fatti sono tutti inevitabili, benché necessariamente incompleti. Uno spazio può essere concesso all'intuizione, forse (o alla poesia, se preferite il termine), ma solo perché i dettagli corrispondenti non possono ancora essere accertati. In assenza del signor Glass...»
+
+     «È questo, è questo», disse il piccolo prete, annuendo con gran ardore, «è questa la prima idea da fissare bene; l'assenza del signor Glass. Egli è così straordinariamente assente. Suppongo», aggiunse pensoso, «che non vi sia mai stato nessuno tanto assente quanto il signor Glass.»
+
+     «Volete dire che è assente dalla città?» domandò il dottore.
+
+     «Voglio dire che è assente da ogni luogo», rispose Padre Brown; «è assente dalla Natura delle Cose, per così dire.»
+
+     «Volete dire sul serio», disse lo specialista con un sorriso, «che una tale persona non esiste?»
+
+     Il prete fece un segno d'assenso. «Sembra proprio un peccato», disse.
+
+     Orion Hood proruppe in una risata sprezzante. «Bene», disse, «prima di passare alle altre cento e una prove, prendiamo la prima prova che abbiamo trovato; il primo fatto in cui siamo inciampati quando siamo inciampati in questa stanza. Se non c'è alcun signor Glass, di chi è questo cappello?»
+
+     «È del signor Todhunter», replicò Padre Brown.
+
+     «Ma non gli va bene», gridò Hood spazientito. «Non potrebbe assolutamente portarlo!»
+
+     Padre Brown scosse il capo con ineffabile mitezza. «Non ho mai detto che potesse portarlo», rispose. «Ho detto che era il suo cappello. O, se insistete su una sfumatura di differenza, un cappello che è suo.»
+
+     «E qual è la sfumatura di differenza?» chiese il criminologo con un lieve sogghigno.
+
+     «Mio buon signore», gridò il mite ometto, col suo primo moto affine all'impazienza, «se scendete per la via fino alla più vicina cappelleria, vedrete che c'è, nel comune parlare, una differenza tra il cappello di un uomo e i cappelli che sono suoi.»
+
+     «Ma un cappellaio», protestò Hood, «può ricavare denaro dalla sua scorta di cappelli nuovi. Che cosa potrebbe ricavare Todhunter da questo unico cappello vecchio?»
+
+     «Conigli», replicò prontamente Padre Brown.
+
+     «Cosa?» gridò il dottor Hood.
+
+     «Conigli, nastri, dolciumi, pesci rossi, rotoli di carta colorata», disse il reverendo gentiluomo con rapidità. «Non avete visto tutto quanto quando avete scoperto le corde truccate? È esattamente lo stesso con la spada. Il signor Todhunter non ha un graffio addosso, come dite voi; ma ha un graffio dentro, se mi seguite.»
+
+     «Volete dire dentro i vestiti del signor Todhunter?» s'informò severamente la signora MacNab.
+
+     «Non voglio dire dentro i vestiti del signor Todhunter», disse Padre Brown. «Voglio dire dentro il signor Todhunter.»
+
+     «Be', che cosa in nome di Bedlam intendete dire?»
+
+     «Il signor Todhunter», spiegò placidamente Padre Brown, «sta imparando a fare il prestigiatore di professione, oltre che il giocoliere, il ventriloquo e l'esperto nel trucco delle corde. La prestidigitazione spiega il cappello. Esso è privo di tracce di capelli, non perché sia portato dal prematuramente calvo signor Glass, ma perché non è mai stato portato da nessuno. La giocoleria spiega i tre bicchieri, che Todhunter s'insegnava da sé a lanciare in aria e riacchiappare a rotazione. Ma, essendo soltanto allo stadio dell'esercizio, ne ha fracassato uno contro il soffitto. E la giocoleria spiega anche la spada, che era orgoglio e dovere professionale del signor Todhunter inghiottire. Ma, di nuovo, essendo allo stadio dell'esercizio, si è graffiato assai lievemente l'interno della gola con l'arma. Di qui ha una ferita dentro di sé, che sono certo (dall'espressione del suo viso) non è grave. Si esercitava anche nel trucco della liberazione dalle corde, come i Fratelli Davenport, ed era proprio sul punto di liberarsi quando tutti abbiamo fatto irruzione nella stanza. Le carte, naturalmente, sono per i giochi di carte, e sono sparse sul pavimento perché egli si era giusto esercitato in uno di quei trucchi di lanciarle a volo per l'aria. Ha semplicemente tenuto segreto il proprio mestiere, perché doveva tenere segreti i suoi trucchi, come ogni altro prestigiatore. Ma il mero fatto che un fannullone in cilindro avesse una volta sbirciato dalla sua finestra sul retro, e ne fosse stato scacciato con grande indignazione, è bastato a metterci tutti su una falsa pista da romanzo, e a farci immaginare l'intera sua vita adombrata dallo spettro incilindrato del signor Glass.»
+
+     «Ma allora le due voci?» chiese Maggie, sgranando gli occhi.
+
+     «Non avete mai sentito un ventriloquo?» chiese Padre Brown. «Non sapete che parlano prima con la loro voce naturale, e poi si rispondono da soli proprio con quella voce stridula, cigolante e innaturale che avete sentito?»
+
+     Vi fu un lungo silenzio, e il dottor Hood osservò l'ometto che aveva parlato con un sorriso cupo e attento. «Siete di certo una persona ingegnosissima», disse; «non si sarebbe potuto far di meglio in un libro. Ma c'è proprio una parte del signor Glass che non siete riuscito a spiegar via, ed è il suo nome. La signorina MacNab lo ha udito distintamente rivolgersi così dal signor Todhunter.»
+
+     Il Rev. signor Brown proruppe in un risolino piuttosto puerile. «Be', quella», disse, «quella è la parte più sciocca dell'intera sciocca storia. Quando il nostro amico giocoliere qui lanciava in aria i tre bicchieri a turno, li contava ad alta voce mentre li riacchiappava, e commentava pure ad alta voce quando non riusciva ad acchiapparli. Ciò che diceva in realtà era: "One, two and three — missed a glass one, two — missed a glass". E così via.»
+
+     Vi fu un attimo d'immobilità nella stanza, e poi tutti a una voce scoppiarono a ridere. Nel far ciò la figura nell'angolo srotolò compiaciuta tutte le corde e le lasciò cadere con un gesto plateale. Poi, avanzando nel mezzo della stanza con un inchino, trasse di tasca un grande manifesto stampato in blu e rosso, che annunciava come ZALADIN, il Più Grande Prestigiatore del Mondo, Contorsionista, Ventriloquo e Canguro Umano, si sarebbe esibito con una serie interamente nuova di Numeri all'Empire Pavilion, Scarborough, lunedì prossimo alle otto in punto dell'[[Clock|orologio]].
+
+                                  DUE

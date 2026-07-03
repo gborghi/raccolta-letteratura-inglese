@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/ortho14-(chesterton)">Orthodoxy</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/ortho14/story_06_iv_the_ethics_of_elfland/part_20">‹ part 20</a><a class="ex-next" href="/testi/chesterton/atomized/ortho14/story_07_vii_the_eternal_revolution/part_02">part 02 ›</a></div>
@@ -121,3 +123,121 @@ He does not really know in the least what sort of man he wants
 evolution to produce.  And if he does not know, certainly the
 ordinary evolutionists, who talk about things being "higher,"
 do not know either.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/ortho14-(chesterton)">Orthodoxy</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/ortho14/story_06_iv_the_ethics_of_elfland/part_20">‹ part 20</a><a class="ex-next" href="/testi/chesterton/atomized/ortho14/story_07_vii_the_eternal_revolution/part_02">part 02 ›</a></div>
+</nav>
+
+# [[ortho14]] — VII La rivoluzione eterna (parte 1)
+
+VII LA RIVOLUZIONE ETERNA
+
+     Sono state sostenute le seguenti proposizioni: primo,
+che una qualche [[Faith|fede]] nella nostra vita è necessaria anche solo per migliorarla; secondo,
+che una qualche insoddisfazione per le cose come stanno è indispensabile
+persino per poter essere soddisfatti; terzo, che per avere questa necessaria
+contentezza e questo necessario scontento non basta possedere
+l'ovvio equilibrio dello Stoico. Poiché la mera [[Resignation|rassegnazione]] non ha
+né la gigantesca leggerezza del piacere né la superba intolleranza del [[Pain|dolore]].
+C'è un'obiezione vitale al consiglio di limitarsi a sorridere e sopportare.
+L'obiezione è che, se ti limiti a sopportare, non sorridi.
+Gli eroi greci non sorridono: ma i [[gargoyles|gargoyle]] sì, perché sono cristiani.
+E quando un cristiano è contento, è (nel senso più esatto)
+spaventosamente contento; il suo piacere è spaventoso. [[Christ|Cristo]] profetizzò
+tutta l'architettura gotica in quell'ora in cui persone nervose e
+rispettabili (persone come quelle che oggi si lamentano degli organetti a manovella)
+si lamentavano delle grida dei monelli di Gerusalemme.
+Egli disse: «Se costoro tacessero, griderebbero le pietre stesse».
+Sotto l'impulso del Suo spirito sorsero come un clamoroso [[Chorus|coro]]
+le facciate delle cattedrali medievali, gremite di volti gridanti
+e di bocche spalancate. La profezia si è adempiuta da sé: le pietre stesse
+gridano.
+
+     Se queste cose si concedono, foss'anche solo per amor di discussione,
+possiamo riprendere là dove l'avevamo lasciato il filo del pensiero dell'uomo
+naturale, chiamato dagli scozzesi (con deplorevole familiarità)
+«il Vecchio Adamo». Possiamo porci la domanda successiva, così ovviamente davanti a noi.
+Una qualche soddisfazione è necessaria anche solo per rendere migliori le cose. Ma cosa intendiamo
+per rendere migliori le cose? Gran parte del discorso moderno su questa materia
+non è che un ragionamento circolare: quel circolo che abbiamo già eletto
+a simbolo della [[Madness|follia]] e del mero razionalismo. L'evoluzione è buona
+soltanto se produce il bene; il bene è buono soltanto se favorisce l'evoluzione.
+L'elefante sta sulla tartaruga, e la tartaruga sull'elefante.
+
+     Evidentemente, non è possibile ricavare il nostro ideale
+dal principio insito nella [[Nature|natura]]; per la semplice ragione che (salvo una qualche
+teoria umana o divina) nella [[Nature|natura]] non esiste alcun principio.
+Per esempio, l'antidemocratico da quattro soldi di oggi ti dirà solennemente
+che nella [[Nature|natura]] non c'è uguaglianza. Ha ragione, ma non
+vede il corollario logico. Nella [[Nature|natura]] non c'è uguaglianza;
+e nemmeno c'è disuguaglianza nella [[Nature|natura]]. La disuguaglianza, tanto quanto l'uguaglianza,
+implica un criterio di valore. Leggere l'aristocrazia nell'anarchia
+degli [[Animals|animali]] è altrettanto sentimentale che leggervi la [[democracy|democrazia]].
+Tanto l'aristocrazia quanto la [[democracy|democrazia]] sono ideali umani: l'una afferma che
+tutti gli uomini hanno valore, l'altra che alcuni uomini hanno più valore.
+Ma la [[Nature|natura]] non dice che i gatti valgono più dei topi;
+la [[Nature|natura]] non fa alcuna osservazione in proposito. Non dice nemmeno
+che il gatto sia invidiabile o il topo compassionevole. Noi pensiamo il gatto
+superiore perché abbiamo (o la maggior parte di noi ha) una particolare [[philosophy|filosofia]]
+secondo cui la vita è migliore della [[Death|morte]]. Ma se il topo
+fosse un topo pessimista tedesco, potrebbe non pensare affatto che il gatto
+lo abbia sconfitto. Potrebbe pensare di aver sconfitto lui il gatto
+arrivando primo alla [[Grave|tomba]]. Oppure potrebbe sentire di aver in realtà
+inflitto una punizione spaventosa al gatto tenendolo in vita.
+Proprio come un microbo potrebbe andar fiero di diffondere una pestilenza,
+così il topo pessimista potrebbe esultare al pensiero di
+rinnovare nel gatto il tormento dell'esistenza cosciente. Tutto dipende
+dalla [[philosophy|filosofia]] del topo. Non puoi nemmeno dire che ci sia vittoria
+o superiorità nella [[Nature|natura]] se non hai una qualche dottrina su quali
+cose siano superiori. Non puoi nemmeno dire che il gatto segni un punto
+se non esiste un sistema di punteggio. Non puoi nemmeno dire che
+il gatto abbia la meglio se non c'è una qualche meglio da avere.
+
+     Non possiamo, dunque, ricavare l'ideale stesso dalla [[Nature|natura]],
+e poiché qui seguiamo la prima e naturale speculazione,
+lasceremo da parte (per ora) l'idea di ricavarlo da Dio.
+Dobbiamo avere la nostra propria visione. Ma i tentativi della maggior parte dei moderni
+di esprimerla sono estremamente vaghi.
+
+     Alcuni ripiegano semplicemente sull'[[Clock|orologio]]: parlano come se il mero passaggio
+attraverso il [[Time|tempo]] recasse con sé una qualche superiorità; tanto che persino un uomo del primo
+calibro intellettuale usa con noncuranza la frase secondo cui la [[morality|morale]] umana non è mai
+al passo coi tempi. Come può qualcosa essere al passo coi tempi? — una data non ha
+carattere. Come si può dire che i festeggiamenti del Natale non siano
+adatti al venticinque di un mese? Ciò che lo scrittore intendeva,
+naturalmente, era che la maggioranza è dietro alla sua minoranza prediletta —
+o davanti a essa. Altri vaghi moderni si rifugiano in
+metafore materiali; anzi, questo è il segno distintivo dei vaghi moderni.
+Non osando definire la loro dottrina di ciò che è bene, usano figure
+retoriche fisiche senza misura né pudore e, quel che è peggio di tutto,
+sembrano credere che queste analogie da quattro soldi siano squisitamente spirituali e
+superiori alla vecchia [[morality|morale]]. Così ritengono intellettuale parlare
+di cose che sono «alte». È perlomeno l'esatto contrario di intellettuale;
+è una semplice espressione da campanile o da banderuola. «Tommy era un bravo bambino»
+è una pura affermazione filosofica, degna di Platone o di [[aquinas|Tommaso d'Aquino]].
+«Tommy visse la vita superiore» è una grossolana metafora tratta da un metro da tre passi.
+
+     Questa, per inciso, è quasi tutta la debolezza di Nietzsche,
+che alcuni rappresentano come un pensatore audace e forte.
+Nessuno negherà che fosse un pensatore poetico e suggestivo;
+ma era esattamente il contrario di forte. Non era affatto audace.
+Non pose mai il proprio significato davanti a sé in nude parole astratte:
+come fecero Aristotele e Calvino, e persino Karl Marx, i duri, intrepidi
+uomini del pensiero. Nietzsche sfuggiva sempre a una domanda con una metafora fisica,
+come un allegro poetucolo. Diceva «al di là del bene e del male», perché
+non aveva il [[Courage|coraggio]] di dire «più buono del bene e del male», oppure
+«più malvagio del bene e del male». Se avesse affrontato il suo pensiero senza metafore,
+si sarebbe accorto che era un'assurdità. Così, quando descrive il suo [[Hero|eroe]],
+non osa dire «l'uomo più puro», o «l'uomo più felice», o
+«l'uomo più triste», poiché tutte queste sono idee; e le idee sono allarmanti.
+Dice «l'uomo superiore», o «superuomo», una metafora fisica presa
+dagli acrobati o dagli scalatori alpini. Nietzsche è davvero un pensatore assai timido.
+In realtà non sa minimamente quale sorta di uomo voglia
+che l'evoluzione produca. E se non lo sa lui, di certo gli
+evoluzionisti ordinari, che parlano di cose che sono «più alte»,
+non lo sanno nemmeno loro.

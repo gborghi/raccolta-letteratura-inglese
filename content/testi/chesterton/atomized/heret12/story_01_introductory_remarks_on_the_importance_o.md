@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/heret12-(chesterton)">Heretics</a></div>
 <div class="excerpt-pn"><span></span><a class="ex-next" href="/testi/chesterton/atomized/heret12/story_02_on_the_negative_spirit">Story 02 On the Negative Spirit ›</a></div>
@@ -291,3 +293,291 @@ there comes back the conviction that the monk was right after all,
 and that all depends on what is the [[philosophy]] of Light.  Only what
 we might have discussed under the gas-lamp, we now must discuss
 in the dark.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/heret12-(chesterton)">Heretics</a></div>
+<div class="excerpt-pn"><span></span><a class="ex-next" href="/testi/chesterton/atomized/heret12/story_02_on_the_negative_spirit">Story 02 On the Negative Spirit ›</a></div>
+</nav>
+
+# [[heret12]] — Osservazioni introduttive sull'importanza dell'ortodossia
+
+I. Osservazioni introduttive sull'importanza dell'ortodossia
+
+Nulla rivela in modo più singolare un male enorme e silenzioso della società moderna
+quanto lo straordinario uso che oggigiorno si fa della parola «ortodosso».
+In altri tempi l'eretico era fiero di non essere un eretico. Erano
+i regni del mondo e la polizia e i giudici a essere eretici.
+Lui era ortodosso. Non provava alcun [[Pride|orgoglio]] per essersi ribellato contro di loro;
+erano loro che si erano ribellati contro di lui. Gli eserciti con la loro crudele sicurezza,
+i re dai volti gelidi, i decorosi procedimenti dello Stato,
+i ragionevoli procedimenti della legge: tutti costoro, come pecore, si erano smarriti.
+Quell'uomo era fiero di essere ortodosso, era fiero di essere nel giusto. Se stava
+[[Alone|solo]] in un deserto ululante, era più che un uomo: era una chiesa.
+Era il centro dell'universo; era attorno a lui che ruotavano le [[Stars|stelle]].
+Tutte le torture strappate a inferni dimenticati non avrebbero potuto costringerlo ad ammettere
+di essere eretico. Ma poche frasi moderne gliene hanno fatto un vanto.
+Dice, con una risata consapevole: «Suppongo di essere molto eretico»,
+e si guarda intorno in cerca di applausi. La parola «eresia» non significa più soltanto
+essere nel torto; significa praticamente essere lucidi e coraggiosi.
+La parola «ortodossia» non significa più soltanto essere nel giusto; significa praticamente
+essere nel torto. Tutto ciò può significare una cosa, e una cosa soltanto.
+Significa che alla gente importa meno di essere filosoficamente nel giusto.
+Perché evidentemente un uomo dovrebbe confessarsi pazzo prima di confessarsi
+eretico. Il bohémien, con la sua cravatta rossa, dovrebbe vantarsi
+della propria ortodossia. Il dinamitardo, mentre depone una bomba, dovrebbe sentire che,
+qualunque altra cosa sia, per lo meno è ortodosso.
+
+È sciocco, in linea generale, che un filosofo
+dia [[Fire|fuoco]] a un altro filosofo a Smithfield Market
+perché non concordano nella loro teoria dell'universo.
+Ciò si faceva molto di frequente nell'ultima decadenza
+del Medioevo, e fallì del tutto nel suo intento.
+Ma c'è una cosa che è infinitamente più assurda
+e impraticabile del bruciare un uomo per la sua [[philosophy|filosofia]].
+È l'abitudine di dire che la sua [[philosophy|filosofia]] non ha importanza,
+e questo si fa universalmente nel ventesimo secolo,
+nella decadenza del grande periodo rivoluzionario.
+Le teorie generali sono dovunque disprezzate; la dottrina dei
+Diritti dell'Uomo viene liquidata insieme alla dottrina della Caduta
+dell'Uomo. L'ateismo stesso è troppo teologico per noi oggi.
+La rivoluzione stessa è troppo un sistema; la libertà stessa
+è troppo una costrizione. Non vogliamo generalizzazioni.
+Il signor Bernard [[Shaw]] ha reso l'idea in un perfetto [[Epigram|epigramma]]:
+«La regola d'oro è che non c'è alcuna regola d'oro». Dobbiamo sempre
+più discutere di dettagli nell'arte, nella politica, nella letteratura. L'opinione di un uomo
+sui tram ha importanza; la sua opinione su Botticelli ha importanza;
+la sua opinione su ogni cosa non ha importanza. Egli può rivoltare ed
+esplorare un milione di oggetti, ma non deve trovare quello strano oggetto,
+l'universo; perché se lo trova avrà una religione, e sarà perduto.
+Tutto ha importanza, tranne il tutto.
+
+Non c'è quasi bisogno di esempi di questa totale leggerezza in materia
+di [[philosophy|filosofia]] cosmica. Non c'è quasi bisogno di esempi per mostrare che,
+qualunque altra cosa consideriamo capace di influire sulle faccende pratiche, non
+riteniamo abbia importanza se un uomo sia pessimista o ottimista,
+cartesiano o hegeliano, materialista o spiritualista.
+Prendiamo, tuttavia, un esempio a caso. Attorno a un qualsiasi [[Innocent|innocente]] tavolino da tè
+possiamo facilmente sentire un uomo dire: «La vita non vale la pena di essere vissuta».
+Lo consideriamo come consideriamo l'affermazione che è una bella giornata;
+nessuno pensa che possa avere un qualche serio effetto
+sull'uomo o sul mondo. Eppure se quella dichiarazione
+fosse davvero creduta, il mondo si reggerebbe a testa in giù.
+Gli assassini riceverebbero medaglie per aver salvato gli uomini dalla vita;
+i pompieri sarebbero denunciati per aver trattenuto gli uomini dalla [[Death|morte]]; i veleni sarebbero
+usati come medicine; i dottori sarebbero chiamati quando la gente sta [[Well|bene]];
+la Royal Humane Society sarebbe sradicata come un'orda di assassini.
+Eppure non ci domandiamo mai se il pessimista da salotto
+rafforzerà o disgregherà la società; poiché siamo convinti
+che le teorie non abbiano importanza.
+
+Questa non era certo l'idea di coloro che introdussero la nostra [[Freedom|libertà]].
+Quando i vecchi liberali tolsero i bavagli a tutte le eresie,
+la loro idea era che così si potessero fare scoperte
+religiose e filosofiche. La loro convinzione era che la [[Truth|verità]] cosmica fosse tanto
+importante che ognuno dovesse portarne indipendente testimonianza.
+L'idea moderna è che la [[Truth|verità]] cosmica sia tanto poco importante che
+non possa contare ciò che chiunque dice. I primi liberarono l'indagine come si
+scioglie un nobile segugio; i secondi liberano l'indagine come si getta di nuovo
+in mare un pesce non buono da mangiare. Mai vi è stata
+così poca discussione sulla [[Nature|natura]] dell'uomo come ora, quando,
+per la prima [[Time|volta]], chiunque può discuterne. L'antica restrizione
+voleva che solo gli ortodossi fossero autorizzati a discutere di religione.
+La libertà moderna vuole che a nessuno sia consentito discuterne.
+Il buon gusto, l'ultima e più vile delle superstizioni umane,
+è riuscito a farci tacere là dove tutte le altre hanno fallito.
+Sessant'anni fa era di cattivo gusto essere un ateo dichiarato.
+Poi vennero i seguaci di Bradlaugh, gli ultimi uomini religiosi,
+gli ultimi uomini a cui importava di Dio; ma non poterono mutare le cose.
+È ancora di cattivo gusto essere un ateo dichiarato. Ma la loro agonia
+ha ottenuto proprio questo: che ora è ugualmente di cattivo gusto
+essere un cristiano dichiarato. L'emancipazione non ha fatto che rinchiudere
+il santo nella stessa torre del [[Silence|silenzio]] in cui è l'eresiarca.
+Poi parliamo di Lord Anglesey e del tempo che fa, e lo chiamiamo
+la completa libertà di tutti i credi.
+
+Vi sono però alcune persone, ciononostante, e io sono una di esse,
+che pensano che la cosa più pratica e importante di un uomo
+sia tuttora la sua visione dell'universo. Pensiamo che, per una padrona di casa
+che valuta un inquilino, sia importante conoscerne il reddito, ma ancor
+più importante conoscerne la [[philosophy|filosofia]]. Pensiamo che, per un generale
+in procinto di combattere un nemico, sia importante conoscere il numero dei nemici,
+ma ancor più importante conoscere la [[philosophy|filosofia]] del nemico.
+Pensiamo che la questione non sia se la teoria del cosmo
+influisca sulle cose, ma se, alla lunga, qualsiasi altra cosa influisca su di esse.
+Nel quindicesimo secolo si [[Cross|inter]]rogava e si tormentava un uomo
+perché predicava un qualche atteggiamento immorale; nel diciannovesimo secolo
+abbiamo festeggiato e adulato Oscar Wilde perché predicava un tale atteggiamento,
+e poi gli abbiamo spezzato il cuore ai lavori forzati perché lo mise in pratica.
+Si può discutere quale dei due metodi sia stato il più crudele;
+non ci può essere alcun dubbio su quale sia stato il più ridicolo.
+L'età dell'[[Inquisition|Inquisizione]] non ha almeno il disonore di aver
+prodotto una società che fece un idolo del medesimo uomo per aver predicato
+le medesime cose per cui lo fece un galeotto per averle praticate.
+
+Ora, ai nostri [[Time|tempi]], la [[philosophy|filosofia]] o la religione, la nostra teoria,
+cioè, sulle cose ultime, è stata cacciata,
+più o meno simultaneamente, da due campi che soleva
+occupare. Gli ideali generali dominavano un tempo la letteratura.
+Sono stati cacciati dal grido «l'arte per l'arte».
+Gli ideali generali dominavano un tempo la politica. Sono stati cacciati
+dal grido «efficienza», che si può grossolanamente tradurre
+come «la politica per la politica». Con insistenza, negli ultimi vent'anni,
+gli ideali dell'ordine o della libertà sono venuti scemando nei nostri libri;
+le ambizioni dell'arguzia e dell'eloquenza sono venute scemando nei nostri parlamenti.
+La letteratura è divenuta di proposito meno politica; la politica è
+divenuta di proposito meno letteraria. Le teorie generali sulla relazione
+delle cose sono state così estromesse da entrambe; e siamo in
+condizione di chiederci: «Che cosa abbiamo guadagnato o perduto con questa estromissione?
+La letteratura è migliore, la politica è migliore, per aver scartato
+il moralista e il filosofo?».
+
+Quando tutto ciò che riguarda un popolo per il [[Time|momento]] si fa
+debole e inefficace, esso comincia a parlare di efficienza.
+Così avviene che, quando il [[Body|corpo]] di un uomo è un rottame, egli comincia,
+per la prima [[Time|volta]], a parlare di salute. Gli organismi vigorosi
+parlano non dei loro processi, ma dei loro scopi.
+Non vi può essere prova migliore dell'efficienza fisica di un uomo
+che il fatto ch'egli parli allegramente di un [[Journey|viaggio]] fino alla fine del mondo.
+E non vi può essere prova migliore dell'efficienza pratica
+di una nazione che il fatto ch'essa parli costantemente di un [[Journey|viaggio]]
+fino alla fine del mondo, di un [[Journey|viaggio]] verso il Giorno del Giudizio e
+la Nuova Gerusalemme. Non vi può essere segno più forte di una rozza
+salute materiale della tendenza a inseguire ideali alti e sfrenati;
+è nella prima esuberanza dell'infanzia che piangiamo per avere la [[Moon|luna]].
+Nessuno degli uomini forti delle età forti avrebbe
+capito che cosa intendevate parlando di lavorare per l'efficienza.
+Ildebrando avrebbe detto che lavorava non per l'efficienza,
+ma per la [[Catholic Church|Chiesa cattolica]]. Danton avrebbe detto
+che lavorava non per l'efficienza, ma per la libertà,
+l'uguaglianza e la fraternità. Anche se l'ideale di tali uomini fosse stato
+semplicemente l'ideale di scaraventare un uomo giù per le scale, essi pensavano
+al fine come uomini, non al processo come paralitici.
+Non dicevano: «Sollevando efficientemente la mia gamba destra, usando,
+noterete, i muscoli della coscia e del polpaccio, che sono
+in eccellente ordine, io...» Il loro sentimento era assai diverso.
+Erano talmente colmi della bella visione dell'uomo disteso
+supino ai piedi della scala che, in quell'estasi, il resto
+seguiva in un lampo. In pratica, l'abitudine di generalizzare
+e idealizzare non significava affatto debolezza mondana.
+L'[[Time|epoca]] delle grandi teorie era l'[[Time|epoca]] dei grandi risultati.
+Nell'era del sentimento e delle belle parole, alla fine del
+diciottesimo secolo, gli uomini erano davvero robusti ed efficaci.
+I sentimentali sconfissero Napoleone. I cinici non
+riuscirono a catturare De Wet. Cent'anni fa i nostri affari, nel
+bene o nel male, erano maneggiati trionfalmente da retori.
+Ora i nostri affari sono irrimediabilmente ingarbugliati da uomini forti e silenziosi.
+E proprio come questo ripudio delle grandi parole e delle grandi visioni
+ha generato una razza di piccoli uomini nella politica,
+così ha generato una razza di piccoli uomini nelle arti.
+I nostri politici moderni rivendicano la colossale licenza di Cesare
+e del Superuomo, rivendicano di essere troppo pratici per essere puri
+e troppo patriottici per essere morali; ma il risultato di tutto ciò è che
+una mediocrità è Cancelliere dello Scacchiere. I nostri nuovi filosofi
+artistici reclamano la stessa licenza morale, una [[Freedom|libertà]]
+di sconvolgere cielo e terra con la loro energia; ma il risultato
+di tutto ciò è che una mediocrità è Poeta Laureato. Non dico
+che non vi siano uomini più forti di questi; ma vorrà qualcuno dire
+che vi siano uomini più forti di quegli uomini antichi che erano
+dominati dalla loro [[philosophy|filosofia]] e imbevuti della loro religione?
+Se la servitù sia migliore della [[Freedom|libertà]], lo si può discutere.
+Ma che la loro servitù abbia prodotto più della nostra [[Freedom|libertà]], sarà
+difficile per chiunque negarlo.
+
+La teoria dell'amoralità dell'arte si è saldamente affermata
+nelle classi strettamente artistiche. Esse sono libere di produrre
+qualunque cosa vogliano. Sono libere di scrivere un «[[Paradise Lost]]»
+in cui [[Satan|Satana]] vinca Dio. Sono libere di scrivere una
+«Divina [[Comedy|Commedia]]» in cui il paradiso stia sotto il pavimento dell'inferno.
+E che cosa hanno fatto? Hanno prodotto, nella loro universalità,
+qualcosa di più grandioso o di più bello delle cose pronunciate
+dal fiero cattolico ghibellino, dal rigido maestro puritano?
+Sappiamo che hanno prodotto soltanto pochi rondò.
+[[Milton]] non li batte solo nella sua pietà, li batte
+nella loro stessa irriverenza. In tutti i loro libriccini di versi non
+troverete una più bella sfida a Dio di quella di [[Satan|Satana]]. Né troverete
+la grandezza del paganesimo sentita come la sentì quel Cristiano infuocato
+che descrisse Farinata levare il capo come in disdegno dell'inferno.
+E la ragione è assai ovvia. La bestemmia è un effetto artistico,
+perché la bestemmia dipende da una convinzione filosofica.
+La bestemmia dipende dalla fede e va svanendo con essa.
+Se qualcuno ne dubita, si sieda seriamente e provi a pensare
+pensieri blasfemi su Thor. Penso che la sua famiglia lo troverà
+alla fine della giornata in uno stato di una certa spossatezza.
+
+Né nel mondo della politica né in quello della letteratura, dunque,
+il rifiuto delle teorie generali si è rivelato un [[success|successo]].
+Può darsi che vi siano stati molti ideali lunatici e fuorvianti
+che di [[Time|tempo]] in [[Time|tempo]] hanno confuso l'umanità.
+Ma di sicuro non vi è stato ideale, nella pratica, così
+lunatico e fuorviante come l'ideale della praticità.
+Nulla ha perduto tante occasioni quanto l'opportunismo
+di Lord Rosebery. Egli è, in verità, un simbolo permanente di questa epoca:
+l'uomo che è teoricamente un uomo pratico, e praticamente
+più impratico di qualsiasi teorico. Nulla in questo universo
+è così insensato quanto quella specie di culto della saggezza mondana.
+Un uomo che pensa perpetuamente a se questa razza
+o quella razza sia forte, a se questa causa o quella causa
+sia promettente, è l'uomo che non crederà mai in nulla
+abbastanza a lungo da farlo riuscire. Il politico opportunista
+è come un uomo che dovesse abbandonare il biliardo perché fu battuto
+a biliardo, e abbandonare il golf perché fu battuto a golf.
+Non c'è nulla di così debole ai fini dell'azione
+quanto questa enorme importanza attribuita alla vittoria immediata.
+Non c'è nulla che fallisca quanto il [[success|successo]].
+
+E, avendo scoperto che l'opportunismo fallisce davvero, sono
+stato indotto a considerarlo più ampiamente, e di conseguenza
+a vedere che esso deve fallire. Comprendo che è assai più
+pratico cominciare dal principio e discutere le teorie.
+Vedo che gli uomini che si uccidevano a vicenda per l'ortodossia
+dell'Homooúsion erano assai più assennati della gente
+che si accapiglia per l'[[Education|Education Act]]. Poiché i dogmatici
+cristiani cercavano di stabilire un regno di santità,
+e cercavano di definire, anzitutto, che cosa fosse davvero santo.
+Ma i nostri educatori moderni cercano di realizzare una libertà
+religiosa senza tentare di stabilire che cosa sia la religione o che cosa
+sia la libertà. Se gli antichi sacerdoti imposero un'affermazione all'umanità,
+almeno si diedero prima qualche pena per renderla lucida.
+È stato lasciato alle moderne folle di anglicani e non-conformisti
+il compito di perseguitare per una dottrina senza nemmeno enunciarla.
+
+Per queste ragioni, e per molte altre, io, da parte mia, sono giunto
+a credere nel ritorno ai fondamenti. Tale è l'idea generale
+di questo libro. Desidero occuparmi dei miei più illustri
+contemporanei, non personalmente né in maniera meramente letteraria,
+ma in relazione al reale [[Body|corpo]] di dottrina che essi insegnano.
+Non mi interessa il signor Rudyard Kipling come vivido [[Artist|artista]]
+o come vigorosa personalità; mi interessa come Eretico,
+vale a dire un uomo la cui visione delle cose ha l'ardire
+di differire dalla mia. Non mi interessa il signor Bernard [[Shaw]]
+come uno degli uomini più brillanti e più onesti che vivano;
+mi interessa come Eretico, vale a dire un uomo la cui
+[[philosophy|filosofia]] è del tutto solida, del tutto coerente, e del tutto sbagliata.
+Ritorno ai metodi dottrinali del tredicesimo secolo,
+ispirato dalla generale [[Hope|speranza]] di far fare qualcosa.
+
+Supponiamo che sorga un gran tumulto nella strada per qualcosa,
+diciamo un lampione, che molte persone influenti [[Desire|desiderano]]
+abbattere. Un monaco vestito di grigio, che è lo spirito del Medioevo,
+viene interpellato sulla questione, e comincia a dire, all'arida maniera
+degli Scolastici: «Consideriamo anzitutto, fratelli miei,
+il valore della Luce. Se la Luce è in sé buona...» A questo punto
+egli viene, con qualche scusante, messo a terra. Tutti fanno ressa
+verso il lampione, il lampione è abbattuto in dieci minuti, e vanno
+in giro a congratularsi a vicenda per la loro praticità antimedievale.
+Ma, con l'andar delle cose, esse non si risolvono così facilmente. Alcuni
+hanno abbattuto il lampione perché volevano la luce elettrica;
+alcuni perché volevano il ferro vecchio; alcuni perché volevano l'oscurità,
+perché le loro opere erano malvagie. Alcuni lo ritenevano un lampione insufficiente,
+alcuni eccessivo; alcuni agirono perché volevano fracassare
+la macchina municipale; alcuni perché volevano fracassare qualcosa.
+E c'è guerra nella [[Night|notte]], senza che nessun uomo sappia chi colpisce.
+Così, gradualmente e inevitabilmente, oggi, domani, o il giorno dopo,
+torna la convinzione che il monaco avesse ragione dopotutto,
+e che tutto dipenda da quale sia la [[philosophy|filosofia]] della Luce. Solo che ciò
+che avremmo potuto discutere sotto il lampione a gas, ora dobbiamo discuterlo
+al buio.

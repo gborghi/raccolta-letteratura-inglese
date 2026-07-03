@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/incredulity-(chesterton)">Incredulity</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/incredulity/story_01_the_resurrection_of_father_brown/part_01">‹ part 01</a><a class="ex-next" href="/testi/chesterton/atomized/incredulity/story_01_the_resurrection_of_father_brown/part_03">part 03 ›</a></div>
@@ -132,3 +134,36 @@ wanted out of him; and it was in answer to a particular request
 from a Frankfort wine--merchant named Eckstein that he wrote hastily
 a few words on a card, which were to prove a terrible turning--
 point in his life.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/incredulity-(chesterton)">Incredulity</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/incredulity/story_01_the_resurrection_of_father_brown/part_01">‹ part 01</a><a class="ex-next" href="/testi/chesterton/atomized/incredulity/story_01_the_resurrection_of_father_brown/part_03">part 03 ›</a></div>
+</nav>
+
+Aveva da poco attraversato quella regione una di quelle febbri di radicalismo ateo e quasi anarchico che scoppiano periodicamente nei paesi di cultura latina, cominciando in genere in una società segreta e finendo in genere in una guerra civile e in ben poco altro. Il capo locale del partito iconoclasta era un certo Alvarez, avventuriero piuttosto pittoresco, di nazionalità portoghese ma, come dicevano i suoi nemici, in parte di origine negra, a capo di un numero imprecisato di logge e di templi d'iniziazione del genere che in simili luoghi riveste perfino l'ateismo di qualcosa di mistico. Il capo dello schieramento più conservatore era una persona assai più comune, un uomo ricchissimo di nome Mendoza, proprietario di molte fabbriche e del tutto rispettabile, ma non particolarmente entusiasmante. Era opinione generale che la causa dell'ordine e della legge sarebbe andata interamente perduta se non avesse adottato una politica più popolare, sotto forma di assegnazione di terre ai contadini; e questo movimento aveva avuto origine principalmente dalla piccola stazione missionaria di [[Father Brown]].
+
+Mentre parlava col giornalista, entrò Mendoza, il capo conservatore. Era un uomo tozzo e bruno, con la testa calva a forma di pera e un [[Body|corpo]] rotondo anch'esso a forma di pera; fumava un sigaro molto fragrante, ma lo gettò via, forse un po' teatralmente, appena si trovò al cospetto del sacerdote, come se stesse entrando in chiesa; e s'inchinò con una curva che in un signore tanto corpulento pareva del tutto improbabile. Era sempre estremamente serio nei suoi gesti mondani, specie verso le istituzioni religiose. Era uno di quei laici assai più ecclesiastici degli ecclesiastici. La cosa metteva parecchio in imbarazzo [[Father Brown]], soprattutto quando veniva così trasferita nella vita privata.
+
+«Credo di essere un anticlericale», soleva dire padre Brown con un tenue sorriso; «ma non ci sarebbe nemmeno la metà di tanto clericalismo, se soltanto lasciassero le cose ai chierici.»
+
+«Ma come, signor Mendoza», esclamò il giornalista con rinnovata animazione, «mi pare che ci siamo già incontrati. Non era forse al Congresso del Commercio in Messico, l'anno scorso?»
+
+Le palpebre pesanti del signor Mendoza ebbero un fremito di riconoscimento, ed egli sorrise nel suo modo lento. «Ricordo.»
+
+«Bei affaroni conclusi laggiù in un'oretta o due», disse Snaith con gusto. «E anche per lei hanno fatto una bella differenza, immagino.»
+
+«Sono stato molto fortunato», disse Mendoza con modestia.
+
+«Non ci creda!» gridò l'entusiasta Snaith. «La buona sorte arride a chi sa quando afferrare l'occasione; e lei l'ha afferrata per bene e con sicurezza. Ma [[Hope|spero]] di non interrompere i suoi affari?»
+
+«Niente affatto», disse l'altro. «Ho spesso l'[[Honour|onore]] di far visita al padre per una piccola conversazione. Soltanto per una piccola conversazione.»
+
+Parve che questa familiarità tra [[Father Brown]] e un uomo d'affari di successo e perfino famoso completasse la [[Reconciliation|riconciliazione]] tra il sacerdote e il pratico signor Snaith. Sentiva, si può supporre, una nuova rispettabilità rivestire la stazione e la missione, ed era disposto a chiudere un occhio su quegli occasionali richiami all'esistenza della religione che una cappella e una canonica di rado possono del tutto evitare. Divenne assai entusiasta del programma del sacerdote — almeno sul suo versante secolare e sociale — e si dichiarò pronto in qualunque momento ad agire in veste di cavo conduttore per trasmetterlo al mondo intero. E fu a questo punto che [[Father Brown]] cominciò a trovare il giornalista più molesto nella sua simpatia di quanto lo fosse stato nella sua ostilità.
+
+Il signor Paul Snaith si mise a promuovere con vigore [[Father Brown]]. Spediva lunghi e rumorosi elogi su di lui attraverso il continente, al suo giornale del Middle West. Scattava istantanee dello sventurato ecclesiastico nelle occupazioni più banali, e le esibiva in fotografie gigantesche sui giganteschi giornali della [[Sunday|domenica]] degli Stati Uniti. Trasformava i suoi detti in slogan, e presentava di continuo al mondo «Un messaggio» del reverendo signore dal Sudamerica. Qualsiasi stirpe meno robusta e caparbiamente ricettiva della razza americana si sarebbe assai annoiata di padre Brown. Così com'era, egli ricevette offerte generose e insistenti per intraprendere un giro di conferenze negli Stati; e quando declinò, le condizioni furono aumentate con espressioni di rispettoso stupore. Una serie di racconti su di lui, sul modello dei racconti di Sherlock Holmes, fu, per opera del signor Snaith, ideata e sottoposta all'eroe con richieste di assistenza e incoraggiamento. Quando il sacerdote scoprì che erano già stati avviati, non poté offrire altro suggerimento se non che smettessero. E questo, a sua volta, fu preso dal signor Snaith come spunto per una discussione sull'opportunità che padre Brown scomparisse temporaneamente oltre un dirupo, alla maniera dell'eroe del dottor Watson. A tutte queste richieste il sacerdote dovette pazientemente rispondere per iscritto, dicendo che avrebbe acconsentito a tali condizioni alla cessazione temporanea dei racconti e supplicando che trascorresse un intervallo considerevole prima che riprendessero. I biglietti che scriveva si facevano sempre più brevi; e mentre scriveva l'ultimo di essi, sospirò.
+
+Inutile dire che questo strano clamore al Nord ebbe ripercussioni sul piccolo avamposto al Sud, dove egli aveva sperato di vivere in un esilio tanto solitario. La considerevole popolazione inglese e americana già presente sul posto cominciò a inorgoglirsi di possedere una persona così ampiamente reclamizzata. Turisti americani, del genere che sbarca con una rumorosa richiesta di vedere l'Abbazia di Westminster, sbarcavano su quella costa lontana con una rumorosa richiesta di vedere padre Brown. Erano a un passo dall'organizzare treni per gite intitolati a lui, e dal portare folle a vederlo come se fosse un monumento pubblico. Era particolarmente tormentato dagli attivi e ambiziosi nuovi commercianti e bottegai del luogo, che continuamente lo assillavano perché provasse le loro mercanzie e desse loro attestati di gradimento. E anche quando gli attestati non arrivavano, essi prolungavano la corrispondenza allo scopo di raccogliere autografi. Poiché era persona di buon carattere, ne ottenevano parecchio di ciò che volevano; e fu in risposta a una particolare richiesta di un commerciante di vini di Francoforte, di nome Eckstein, che egli scrisse in fretta poche parole su un cartoncino, parole destinate a rivelarsi una terribile svolta nella sua vita.

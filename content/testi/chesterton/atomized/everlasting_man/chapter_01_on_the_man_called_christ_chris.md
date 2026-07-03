@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/everlasting-man-(chesterton)">The Everlasting Man</a></div>
 <div class="excerpt-pn"><span></span><a class="ex-next" href="/testi/chesterton/atomized/everlasting_man/chapter_02">Chapter 02 ›</a></div>
@@ -461,5 +463,463 @@ other chance cult taking its place, we shall be the more surprised
 rushing through the ages as the winged thunderbolt of thought
 and everlasting enthusiasm; a thing without rival or resemblance;
 and still as new as it is old.
+
+* * *
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/everlasting-man-(chesterton)">The Everlasting Man</a></div>
+<div class="excerpt-pn"><span></span><a class="ex-next" href="/testi/chesterton/atomized/everlasting_man/chapter_02">Chapter 02 ›</a></div>
+</nav>
+
+PARTE II:  SULL'UOMO CHIAMATO [[Christ|CRISTO]]
+
+    I Il Dio nella [[Cave|Grotta]]
+   II Gli enigmi del Vangelo
+  III La più strana storia del mondo
+   IV La testimonianza degli eretici
+    V La fuga dal paganesimo
+   VI Le cinque morti della [[Faith|Fede]]
+
+CONCLUSIONE:  IL COMPENDIO DI QUESTO LIBRO
+
+ Appendice I.  Sull'uomo preistorico
+ Appendice II. Sull'autorità e l'esattezza
+
+* * *
+
+NOTA PRELIMINARE
+
+Questo libro ha bisogno di una nota preliminare, affinché non se ne fraintenda
+la portata. La prospettiva che vi si suggerisce è storica più che teologica, e non
+tratta direttamente di quel mutamento religioso che è stato l'evento capitale
+della mia stessa vita, e intorno al quale sto già scrivendo un volume di natura
+più schiettamente controversistica. È impossibile, lo [[Hope|spero]], per qualsiasi
+cattolico scrivere un libro su un qualunque argomento, e soprattutto su questo,
+senza mostrare di essere cattolico; ma questo studio non si occupa in modo
+particolare delle differenze tra un cattolico e un protestante.
+Buona parte di esso è dedicata a molte specie di pagani più che a qualsiasi specie
+di cristiani; e la sua tesi è che coloro i quali affermano che [[Christ|Cristo]]
+sta a fianco di miti a lui simili, e la sua religione a fianco di religioni simili,
+non fanno che ripetere una formula assai stantia, contraddetta da un fatto
+assai clamoroso. Per suggerire questo non ho avuto bisogno di spingermi molto
+oltre le cose note a tutti noi; non pretendo di essere erudito, e per alcune cose
+devo affidarmi, come è ormai piuttosto di moda, a chi è più dotto di me.
+Poiché ho più di una volta dissentito dal signor H. G. Wells sulla sua visione
+della [[history|storia]], è tanto più giusto che io mi congratuli qui con lui
+per il [[Courage|coraggio]] e l'[[Imagination|immaginazione]] costruttiva che hanno condotto
+in porto la sua opera vasta, varia e intensamente interessante;
+ma ancor più per aver rivendicato il ragionevole diritto del dilettante
+a fare quel che può con i fatti che gli specialisti gli forniscono.
+
+* * *
+
+INTRODUZIONE
+
+IL DISEGNO DI QUESTO LIBRO
+
+Vi sono due modi di tornare a [[Home|casa]]; e uno di essi è restarci.
+L'altro è camminare tutt'intorno al mondo finché non si ritorni allo
+stesso punto; e ho tentato di tracciare un tale [[Journey|viaggio]] in un racconto che scrissi un tempo.
+È però un sollievo passare da quel tema a un'altra storia
+che non ho mai scritto. Come ogni libro che non ho mai scritto, è di gran lunga
+il miglior libro che io abbia mai scritto. È fin troppo probabile che
+non lo scriverò mai, sicché me ne servirò qui in senso simbolico; perché
+era il simbolo di una medesima [[Truth|verità]]. Lo concepii come un [[Romance|romanzo]] di quelle
+immense vallate dai fianchi digradanti, come quelle lungo cui gli antichi
+Cavalli Bianchi del Wessex sono tracciati a graffio sui costoni delle colline.
+Riguardava un ragazzo la cui fattoria o casetta sorgeva su un simile pendio,
+e che si mise in viaggio in cerca di qualcosa, come l'effigie
+e la [[Grave|tomba]] di qualche gigante; e quando fu abbastanza lontano da [[Home|casa]] si volse
+indietro e vide che la sua fattoria e l'[[Garden|orto]] della cucina, splendenti e piatti
+sul fianco della [[Hill|collina]] come i colori e le partizioni di uno scudo,
+non erano che parti di una qualche gigantesca figura, sulla quale egli aveva
+sempre vissuto, ma che era troppo grande e troppo vicina per essere vista.
+Questo, io credo, è un vero ritratto del progredire di ogni intelligenza
+davvero indipendente al giorno d'oggi; ed è questo il senso di questo libro.
+
+Il senso di questo libro, in altre parole, è che la cosa migliore, dopo l'essere
+davvero dentro la Cristianità, è l'esserne davvero fuori.
+E un punto particolare è che i critici popolari del [[Christianity|Cristianesimo]]
+non ne sono realmente fuori. Si trovano su un terreno controverso,
+in ogni senso del termine. Sono dubbiosi persino nei loro dubbi.
+La loro critica ha assunto un tono curioso; quello di una contestazione
+casuale e ignorante. Così spingono in circolazione le frasi fatte anticlericali
+alla stregua di chiacchiere da salotto. Si lagnano che i pastori si vestano
+da pastori; come se fossimo più liberi qualora tutti i poliziotti
+che ci pedinano o ci acciuffano fossero agenti in borghese.
+Oppure si lagnano che un sermone non possa essere interrotto, e chiamano
+un pulpito il [[Castle|castello]] del vigliacco; sebbene non chiamino l'ufficio di un direttore
+di giornale il [[Castle|castello]] del vigliacco. Sarebbe ingiusto tanto verso i giornalisti quanto verso i preti;
+ma sarebbe assai più vero del giornalista. L'uomo di chiesa compare
+di persona e potrebbe essere facilmente preso a pedate all'uscita dalla chiesa;
+il giornalista cela persino il proprio nome, così che nessuno possa prenderlo a pedate.
+Scrivono articoli e lettere sfrenati e insensati sulla stampa
+sul perché le chiese siano vuote, senza nemmeno andarvi
+per accertare se siano vuote, o quali di esse lo siano.
+I loro suggerimenti sono più insipidi e vacui del più scipito curato
+di una farsa in tre atti, e ci muovono a consolarlo alla maniera
+del curato delle Bab Ballads: «La tua mente non è così vuota come quella
+di Hopley Porter». Sicché possiamo dire in tutta verità al più fiacco dei chierici:
+«La tua mente non è così vuota come quella dell'Indignato Laico o dell'Uomo Comune
+o dell'Uomo della Strada, o di uno qualunque dei tuoi critici sui giornali;
+perché costoro non hanno la più vaga idea di ciò che essi stessi vogliono.
+[[Alone|Per non parlare]] di ciò che tu dovresti dar loro». D'un tratto si voltano
+e vituperano la Chiesa per non aver impedito la Guerra, che essi
+stessi non volevano impedire; e che nessuno aveva mai preteso
+di poter impedire, tranne alcuni di quella stessa scuola di scettici progressisti
+e cosmopoliti che sono i principali nemici della Chiesa.
+Fu il mondo anticlericale e agnostico a profetizzare sempre
+l'avvento di una pace universale; è quel mondo che fu, o avrebbe dovuto
+essere, sconcertato e confuso dall'avvento di una guerra universale.
+Quanto all'opinione generale che la Chiesa sia stata screditata dalla Guerra,
+potrebbero altrettanto [[Well|bene]] dire che l'Arca fu screditata dal Diluvio.
+Quando il mondo va storto, ciò dimostra piuttosto che la Chiesa ha ragione.
+La Chiesa è giustificata non perché i suoi figli non pecchino,
+ma perché peccano. Ma ciò segna il loro stato d'animo verso l'intera
+tradizione religiosa: sono in uno stato di reazione contro di essa.
+[[Well|Bene]] è per il ragazzo quando vive sulla terra di suo padre;
+e [[Well|bene]] di nuovo per lui quando è abbastanza lontano da essa per volgersi indietro
+a guardarla e vederla come un tutto. Ma questa gente è caduta in uno
+stato intermedio, è precipitata in una valle interposta dalla quale
+non può vedere né le alture al di là né le alture alle sue spalle.
+Non riescono a uscire dalla penombra della controversia cristiana.
+Non possono essere cristiani e non possono smettere di essere
+anticristiani. La loro intera atmosfera è l'atmosfera di una reazione:
+malumori, ostinazione, critica meschina. Vivono ancora nell'[[Shadow|ombra]]
+della [[Faith|fede]] e hanno perduto la luce della [[Faith|fede]].
+
+Ora, la miglior relazione con la nostra [[Home|dimora]] spirituale è essere abbastanza vicini da
+[[Love|amarla]]. Ma la seconda migliore è essere abbastanza lontani da non odiarla.
+È l'assunto di queste pagine che, mentre il miglior giudice
+del [[Christianity|Cristianesimo]] è un cristiano, il secondo miglior giudice sarebbe
+qualcosa di più simile a un confuciano. Il peggior giudice di tutti è l'uomo
+oggi più pronto a emettere giudizi; il cristiano mal istruito
+che si va trasformando a poco a poco nell'agnostico dal cattivo carattere, invischiato
+nella coda di una faida di cui non ha mai capito l'inizio,
+funestato da una sorta di noia ereditaria per non sa che cosa,
+e già stanco di udire ciò che non ha mai udito.
+Egli non giudica il [[Christianity|Cristianesimo]] con la calma con cui lo farebbe un confuciano; non lo
+giudica come giudicherebbe il confucianesimo. Non riesce, con uno sforzo
+di fantasia, a collocare la [[Catholic Church|Chiesa cattolica]] a migliaia di miglia di distanza, in strani
+cieli mattutini, e a giudicarla con l'imparzialità con cui giudicherebbe una pagoda cinese.
+Si dice che il grande san Francesco Saverio, che quasi riuscì
+a erigervi la Chiesa come una torre sovrastante tutte le pagode,
+fallì in parte perché i suoi seguaci furono accusati dagli altri
+missionari di rappresentare i Dodici Apostoli con le vesti
+o gli attributi di cinesi. Ma sarebbe assai meglio vederli
+come cinesi, e giudicarli lealmente come cinesi, che vederli
+come idoli senza volto, fatti solo per essere fracassati dagli iconoclasti;
+o piuttosto come bersagli da colpire da parte di [[cockneys]] a mani vuote. Sarebbe
+meglio vedere l'intera faccenda come un remoto culto asiatico; le mitre
+dei suoi vescovi come i torreggianti copricapi di misteriosi bonzi;
+i suoi bastoni [[Pastoral|pastorali]] come le verghe attorte a serpente portate
+in qualche processione asiatica; vedere il libro delle [[Prayer|preghiere]] fantastico
+quanto la [[Wheel|ruota]] delle [[Prayer|preghiere]] e la [[Cross|Croce]] tanto ricurva quanto la svastica.
+Allora, almeno, non perderemmo le staffe come sembrano perderle alcuni dei critici
+scettici, per non dire il senno.
+Il loro anticlericalismo è divenuto un'atmosfera, un'atmosfera
+di negazione e ostilità dalla quale non riescono a evadere.
+In confronto a questo, sarebbe meglio vedere l'intera faccenda
+come qualcosa che appartiene a un altro continente, o a un altro pianeta.
+Sarebbe più filosofico fissare con indifferenza dei bonzi
+che brontolare perpetuamente e inutilmente contro i vescovi.
+Sarebbe meglio passare davanti a una chiesa come se fosse una pagoda
+che restarsene stabilmente sotto il portico, incapaci tanto di entrare
+per aiutare quanto di uscire e dimenticare. A coloro nei quali una mera
+reazione è così diventata un'ossessione, raccomando sul serio
+lo sforzo immaginativo di concepire i Dodici Apostoli come cinesi.
+In altre parole, raccomando a questi critici di tentare di rendere ai santi
+cristiani tanta giustizia quanta ne renderebbero a dei saggi pagani.
+
+Ma con ciò giungiamo al punto ultimo e vitale: cercherò
+di mostrare in queste pagine che, quando compiamo davvero questo sforzo
+immaginativo di vedere l'intera faccenda dall'esterno, scopriamo che essa
+somiglia realmente a ciò che tradizionalmente se ne dice all'interno.
+È esattamente quando il ragazzo si allontana abbastanza da vedere il gigante
+che si accorge che è davvero un gigante. È esattamente quando finalmente
+scorgiamo la Chiesa cristiana lontana, sotto quei cieli orientali limpidi e distesi,
+che ci accorgiamo che essa è realmente la Chiesa di [[Christ|Cristo]].
+Per dirla in breve, nel momento stesso in cui siamo davvero imparziali verso di essa,
+capiamo perché la gente le sia parziale. Ma questa seconda proposizione
+richiede una discussione più seria; e qui mi accingo
+a discuterla.
+
+Non appena ebbi chiaramente in mente questa concezione di qualcosa
+di solido nel carattere solitario e unico della storia divina,
+mi colpì il fatto che vi fosse esattamente lo stesso carattere strano eppure solido
+nella storia umana che vi aveva condotto; perché anche quella storia umana
+aveva una radice che era divina. Voglio dire che, così come la Chiesa
+sembra crescere in prodigiosità quando la si paragona equamente alla
+comune vita religiosa dell'umanità, così l'umanità stessa sembra crescere
+in prodigiosità quando la paragoniamo alla comune vita della [[Nature|natura]].
+E ho notato che la maggior parte della [[history|storia]] moderna è spinta a qualcosa
+come un sofisma, dapprima per attenuare la brusca transizione dagli [[Animals|animali]]
+all'uomo, e poi per attenuare la brusca transizione dai pagani
+ai cristiani. Ora, quanto più leggiamo con spirito realistico
+di quelle due transizioni, tanto più nette le troveremo.
+È perché i critici non sono distaccati che non vedono
+questo distacco; è perché non guardano le cose in una luce
+asciutta che non riescono a vedere la differenza tra il bianco e il nero.
+È perché si trovano in un particolare stato d'animo di reazione e rivolta
+che hanno un motivo per far apparire tutto il bianco
+come grigio sporco e il nero non così nero come lo si dipinge.
+Non dico che non vi siano scuse umane per la loro rivolta; non dico
+che essa non sia per certi versi simpatica; quel che dico è che essa non è
+in alcun modo scientifica. Un iconoclasta può essere indignato; un iconoclasta
+può essere giustamente indignato; ma un iconoclasta non è imparziale.
+Ed è pura ipocrisia fingere che nove decimi degli alti
+critici, degli evoluzionisti scientifici e dei professori di religione
+comparata siano minimamente imparziali. Perché dovrebbero essere imparziali,
+che cos'è essere imparziali, quando il mondo intero è in guerra sul
+se una data cosa sia una superstizione divorante o una divina [[Hope|speranza]]?
+Non pretendo di essere imparziale nel senso che l'atto finale
+di [[Faith|fede]] fissi la mente di un uomo perché ne appaga la mente.
+Ma professo di essere assai più imparziale di loro;
+nel senso che io so raccontare la storia con lealtà, con una qualche
+sorta di giustizia immaginativa verso tutte le parti; e loro non lo sanno fare.
+Professo di essere imparziale nel senso che mi vergognerei
+di dire tante sciocchezze sul Lama del Tibet quante ne dicono loro sul Papa
+di Roma, o di avere così poca simpatia per Giuliano l'Apostata
+quanta ne hanno loro per la Compagnia di Gesù. Non sono imparziali;
+non tengono mai, per nessun caso, la bilancia storica in equilibrio;
+e soprattutto non sono mai imparziali su questo punto dell'evoluzione
+e della transizione. Suggeriscono ovunque le grigie gradazioni
+del crepuscolo, perché credono che sia il crepuscolo degli dèi.
+Mi propongo di sostenere che, sia o no il crepuscolo degli dèi,
+non è certo il pieno giorno degli uomini.
+
+Sostengo che, quando le si porti alla luce del giorno, queste due
+cose appaiono del tutto strane e uniche; e che è soltanto
+nel falso crepuscolo di un immaginario periodo di transizione
+che le si può far sembrare minimamente simili a qualcos'altro.
+La prima di esse è la creatura chiamata uomo, e la seconda è l'uomo
+chiamato [[Christ|Cristo]]. Ho perciò diviso questo libro in due parti:
+la prima è uno [[Sketch|schizzo]] della principale avventura del genere
+umano nella misura in cui rimase pagano; e la seconda un compendio
+della reale differenza prodotta dal suo diventare cristiano.
+Entrambi i moventi impongono un certo metodo, un metodo che non è
+molto facile da maneggiare, e forse ancor meno facile da definire o difendere.
+
+Per toccare, nell'unico senso sano o possibile, la nota
+dell'imparzialità, è necessario toccare il nervo della novità.
+Voglio dire che, in un certo senso, vediamo le cose con lealtà quando le vediamo per la prima volta.
+Ed è per questo, lo noto di sfuggita, che i bambini generalmente
+hanno assai poca difficoltà con i dogmi della Chiesa.
+Ma la Chiesa, essendo una cosa altamente pratica, fatta per lavorare e combattere,
+è necessariamente una cosa per uomini e non soltanto per bambini.
+Vi dev'essere in essa, a fini operativi, una gran quantità di tradizione,
+di familiarità e persino di consuetudine. Finché i suoi fondamenti
+sono sinceramente sentiti, questa può persino essere la condizione più sana.
+Ma quando i suoi fondamenti sono messi in dubbio, come al presente, dobbiamo
+tentare di recuperare il candore e la [[Wonder|meraviglia]] del [[Child|fanciullo]]; il non guastato
+realismo e l'oggettività dell'[[innocence|innocenza]]. O, se non possiamo far questo,
+dobbiamo tentare almeno di scuoterci di dosso la nube della mera consuetudine
+e vedere la cosa come nuova, non foss'altro che vedendola come innaturale.
+Le cose che possono [[Well|ben]] essere familiari finché la familiarità genera affetto
+farebbero assai meglio a diventare estranee quando la familiarità genera disprezzo.
+Poiché, riguardo a cose così grandi come quelle qui considerate,
+qualunque sia la nostra opinione su di esse, il disprezzo dev'essere un errore.
+Anzi, il disprezzo dev'essere un'illusione. Dobbiamo invocare la specie più selvaggia
+e più alta d'[[Imagination|immaginazione]]; l'[[Imagination|immaginazione]] capace di vedere
+ciò che è là.
+
+L'unico modo per suggerire il punto è per mezzo di un esempio di qualcosa, anzi di
+quasi qualsiasi cosa, che sia stata considerata bella o meravigliosa.
+George Wyndham mi disse un giorno di aver visto uno dei primi
+aeroplani sollevarsi per la prima [[Time|volta]], ed era cosa assai meravigliosa,
+ma non tanto meravigliosa quanto un [[Horse|cavallo]] che consente a un uomo di cavalcarlo.
+Qualcun altro ha detto che un bell'uomo su un bel [[Horse|cavallo]] è il più nobile
+oggetto corporeo del mondo. Ora, finché la gente sente questo nel
+modo giusto, tutto va [[Well|bene]]. Il primo e miglior modo di apprezzarlo
+è discendere da gente con una tradizione di trattare gli [[Animals|animali]] come si deve;
+da uomini nel giusto rapporto coi cavalli. Un ragazzo che ricorda suo
+padre il quale cavalcava un [[Horse|cavallo]], lo cavalcava [[Well|bene]] e lo trattava [[Well|bene]],
+saprà che quel rapporto può essere soddisfacente e ne sarà soddisfatto.
+Sarà tanto più indignato per il maltrattamento dei cavalli
+perché sa come dovrebbero essere trattati; ma non vedrà
+nulla se non ciò che è normale in un uomo che cavalca un [[Horse|cavallo]].
+Non darà retta al grande filosofo moderno che gli spiega
+che dovrebbe essere il [[Horse|cavallo]] a cavalcare l'uomo.
+Non perseguirà la pessimistica fantasia di Swift, e non dirà che gli uomini vanno
+disprezzati come scimmie e i cavalli adorati come dèi. E poiché [[Horse|cavallo]]
+e uomo, insieme, formano per lui un'immagine umana e civile,
+sarà facile, per così dire, sollevare [[Horse|cavallo]] e uomo insieme in qualcosa di
+eroico o simbolico; come una visione di san Giorgio tra le nubi.
+La [[Fable|favola]] del [[Horse|cavallo]] alato non gli riuscirà del tutto innaturale:
+e saprà perché l'Ariosto pose più di un [[Hero|eroe]] cristiano su una simile
+aerea sella, e ne fece il cavaliere del cielo. Poiché il [[Horse|cavallo]]
+è stato realmente innalzato insieme all'uomo, nel modo più sfrenato,
+in quella stessa parola che usiamo quando diciamo «cavalleria». Il nome stesso
+del [[Horse|cavallo]] è stato dato all'umore e al momento più alto dell'uomo;
+al punto che potremmo quasi dire che il più bel complimento a un uomo
+è chiamarlo un [[Horse|cavallo]].
+
+Ma se un uomo è caduto in uno stato d'animo in cui non è capace di sentire questa
+sorta di [[Wonder|meraviglia]], allora la sua cura deve cominciare proprio dall'altro capo. Dobbiamo
+ora supporre che sia scivolato in uno stato d'animo ottuso, in cui qualcuno
+seduto su un [[Horse|cavallo]] non significa più di qualcuno seduto su una sedia.
+La [[Wonder|meraviglia]] di cui parlava Wyndham, la [[Beauty|bellezza]] che faceva della cosa
+una statua equestre, il significato del cavaliere più cavalleresco,
+possono essergli diventati una mera convenzione e una noia.
+Forse sono stati soltanto una moda; forse sono passati
+di moda; forse se n'è parlato troppo,
+o se n'è parlato nel modo sbagliato; forse era allora difficile
+avere a cuore i cavalli senza l'orribile rischio di darsi arie da cavallerizzo.
+Comunque sia, è caduto in una condizione in cui non gli importa più di un [[Horse|cavallo]]
+di quanto gli importi di un [[Horse|attaccapanni]]. La carica di suo nonno a Balaklava gli sembra
+tediosa e polverosa quanto l'album che contiene simili ritratti di famiglia.
+Una tale persona non si è realmente illuminata sull'album;
+al contrario, si è soltanto accecata con la [[Dust|polvere]].
+Ma quando avrà raggiunto quel grado di cecità, non sarà in grado
+di guardare affatto un [[Horse|cavallo]] o un cavaliere finché non avrà visto l'intera
+cosa come qualcosa di del tutto insolito e quasi ultraterreno.
+
+Da qualche foresta oscura, sotto qualche antica [[Dawn|alba]],
+deve venire verso di noi, con movenze goffe eppure danzanti,
+una delle più bizzarre creature preistoriche.
+Dobbiamo vedere per la prima [[Time|volta]] la testa stranamente piccola posata su un collo
+non solo più lungo ma più spesso di essa, come il volto di un gargoyle
+protende sopra un doccione, l'unica sproporzionata cresta
+di peli che corre lungo il crinale di quel collo pesante come una barba
+fuori posto; gli zoccoli, ciascuno simile a una solida clava di corno,
+[[Alone|soli]] tra i piedi di tanto bestiame; sicché il vero [[Fear|terrore]] si
+trova nel mostrare non lo zoccolo fesso, ma quello non fesso.
+Né è mera fantasia verbale vederlo così come un [[Monster|Mostro]] unico;
+poiché, in un certo senso, un [[Monster|mostro]] significa ciò che è unico, ed egli è davvero unico.
+Ma il punto è che, quando lo vediamo così come lo vide il primo uomo,
+cominciamo di nuovo ad avere un qualche senso immaginativo di ciò che significò
+quando il primo uomo lo cavalcò. In un tale [[A Dream|sogno]] può sembrare brutto,
+ma non sembra privo di grandezza; e certamente quel [[Dwarf|nano]]
+bipede che riuscì a montargli in groppa non sembrerà privo di grandezza.
+Per una [[Road|strada]] più lunga e più erratica torneremo alla stessa
+meraviglia dell'uomo e del [[Horse|cavallo]]; e la meraviglia sarà, se possibile,
+ancor più meravigliosa. Avremo di nuovo un barlume di san Giorgio;
+tanto più glorioso in quanto san Giorgio non cavalca il [[Horse|cavallo]],
+bensì cavalca il drago.
+
+In questo esempio, che ho scelto semplicemente perché è un esempio,
+si noterà che io non dico che l'[[nightmare|incubo]] visto dal
+primo uomo della foresta sia più vero o più meraviglioso
+della normale cavalla della stalla vista dalla persona civilizzata
+che sa apprezzare ciò che è normale. Dei due estremi, credo
+nel complesso che il tradizionale possesso della [[Truth|verità]] sia il migliore.
+Ma dico che la [[Truth|verità]] si trova all'uno o all'altro di questi due estremi,
+e si perde nella condizione intermedia della mera stanchezza e
+dell'oblio della tradizione. In altre parole, dico che è meglio
+vedere un [[Horse|cavallo]] come un [[Monster|mostro]] che vederlo soltanto come un lento surrogato
+di un'automobile. Se siamo caduti in quello stato d'animo verso un [[Horse|cavallo]]
+come qualcosa di stantìo, è di gran lunga meglio essere spaventati da un [[Horse|cavallo]]
+perché è di gran lunga troppo fresco.
+
+Ora, come è del [[Monster|mostro]] che si chiama [[Horse|cavallo]], così
+è del [[Monster|mostro]] che si chiama uomo. Naturalmente la condizione migliore
+di tutte, a mio parere, è aver sempre considerato l'uomo
+come lo si considera nella mia [[philosophy|filosofia]]. Chi tiene per la visione cristiana
+e cattolica della [[Nature|natura]] umana sentirà con certezza che è
+una visione universale e perciò sana, e ne sarà appagato.
+Ma se ha perduto la visione sana, può riacquistarla soltanto
+mediante qualcosa di molto simile a una visione folle; ossia vedendo l'uomo
+come uno strano animale e rendendosi conto di quanto strano animale sia.
+Ma proprio come il vedere il [[Horse|cavallo]] come un prodigio preistorico condusse infine
+di nuovo verso, e non lontano da, un'ammirazione per la padronanza dell'uomo,
+così la considerazione davvero distaccata della curiosa carriera dell'uomo
+condurrà di nuovo verso, e non lontano da, l'antica [[Faith|fede]] nei tenebrosi
+disegni di Dio. In altre parole, è esattamente quando vediamo
+quanto sia bizzarro il quadrupede che lodiamo l'uomo che lo monta;
+ed esattamente quando vediamo quanto sia bizzarro il bipede che lodiamo
+la [[Providence|Provvidenza]] che lo fece.
+
+In breve, è scopo di questa introduzione sostenere questa tesi:
+che è esattamente quando consideriamo l'uomo come un animale che sappiamo
+che egli non è un animale. È precisamente quando tentiamo di raffigurarcelo
+come una sorta di [[Horse|cavallo]] sulle zampe posteriori che d'un tratto ci accorgiamo
+che egli dev'essere qualcosa di miracoloso quanto il [[Horse|cavallo]] alato che
+si levò torreggiando fino alle nubi del cielo. Tutte le strade conducono a Roma,
+tutte le vie riportano di nuovo alla centrale e civile [[philosophy|filosofia]],
+compresa questa [[Road|strada]] attraverso il paese degli elfi e il mondo alla rovescia.
+Ma può darsi che sia meglio non aver mai lasciato la terra
+della ragionevole tradizione, dove gli uomini cavalcano leggeri
+e sono possenti cacciatori al cospetto del Signore.
+
+Così pure, nel caso specialmente cristiano, dobbiamo reagire
+contro la pesante inclinazione della stanchezza. È quasi impossibile
+rendere vividi i fatti, perché i fatti sono familiari;
+e per gli uomini caduti è spesso vero che la familiarità è stanchezza.
+Sono convinto che, se potessimo raccontare la storia [[Supernatural|soprannaturale]] di [[Christ|Cristo]]
+parola per parola come quella di un [[Hero|eroe]] cinese, chiamandolo il Figlio del Cielo
+invece del Figlio di Dio, e tracciandone il nimbo raggiante nell'oro
+dei ricami cinesi o nella lacca dorata delle ceramiche cinesi,
+invece che nella foglia d'oro delle nostre antiche pitture cattoliche, vi
+sarebbe una testimonianza unanime della purezza spirituale della storia.
+Non udremmo allora nulla dell'ingiustizia della sostituzione
+o dell'illogicità dell'espiazione, della superstiziosa esagerazione
+del peso del peccato o dell'impossibile insolenza di un'invasione
+delle leggi della [[Nature|natura]]. Ammireremmo la cavalleria della cinese
+concezione di un dio che cadde dal cielo per combattere i draghi e
+salvare i malvagi dall'essere divorati dalla loro stessa colpa e follia.
+Ammireremmo la sottigliezza della cinese visione della vita, che scorge
+come ogni umana imperfezione sia in vera [[Truth|verità]] un'imperfezione clamorosa.
+Ammireremmo la cinese saggezza esoterica e superiore,
+la quale diceva che vi sono leggi cosmiche più alte delle leggi che conosciamo;
+prestiamo fede a ogni comune giocoliere indiano che scelga di venire da noi a parlare
+nel medesimo stile. Se il [[Christianity|Cristianesimo]] fosse soltanto una nuova moda orientale,
+non gli si rimprovererebbe mai di essere una vecchia e orientale [[Faith|fede]].
+Non mi propongo, in questo libro, di seguire il presunto esempio di
+san Francesco Saverio con l'opposta intenzione immaginativa, e trasformare
+i Dodici Apostoli in mandarini; non tanto per farli sembrare
+indigeni quanto per farli sembrare stranieri. Non mi propongo
+di mettere in atto quello che, credo, sarebbe uno scherzo pratico pienamente riuscito;
+quello di raccontare l'intera storia del Vangelo e l'intera [[history|storia]]
+della chiesa in una cornice di pagode e codini; e di notare
+con maligno [[Humour|umorismo]] quanto essa venisse ammirata come storia pagana,
+proprio in quei circoli dove è condannata come storia cristiana.
+Ma mi propongo di far risuonare, ovunque sia possibile, questa nota di ciò che è nuovo
+e strano, e per questa ragione lo stile, persino su un argomento così serio,
+potrà talora essere deliberatamente [[Grotesque|grottesco]] e fantasioso. [[Desire|Desidero]]
+aiutare il lettore a vedere la Cristianità dall'esterno, nel senso
+di vederla come un tutto, sullo sfondo di altre cose storiche;
+proprio come [[Desire|desidero]] che egli veda l'umanità come un tutto sullo sfondo
+delle cose naturali. E dico che in entrambi i casi, viste così,
+esse spiccano dal loro sfondo come cose [[Supernatural|soprannaturali]].
+Non sfumano nel resto coi colori dell'impressionismo;
+spiccano dal resto coi colori dell'araldica; vivide
+come una [[Cross|croce]] rossa su uno scudo bianco o un [[Lion|leone]] nero su un fondo d'oro.
+Così si erge la Rossa Argilla contro il verde campo della [[Nature|natura]],
+o il Bianco [[Christ|Cristo]] contro la rossa argilla della sua stirpe.
+
+Ma per vederle chiaramente dobbiamo vederle come un tutto.
+Dobbiamo vedere come si svilupparono [[Well|tanto quanto]] come cominciarono;
+poiché la parte più incredibile della storia è che cose le quali cominciarono
+così avrebbero dovuto svilupparsi così. Chiunque scelga di abbandonarsi
+alla mera [[Imagination|immaginazione]] può immaginare che sarebbero potute accadere altre cose
+o essersi evolute altre entità. Chiunque pensi a ciò che sarebbe potuto
+accadere può concepire una sorta di eguaglianza evolutiva; ma chiunque
+affronti ciò che accadde davvero deve affrontare un'eccezione e un prodigio.
+Se mai vi fu un momento in cui l'uomo era soltanto un animale, possiamo,
+se vogliamo, farci un quadro fantasioso della sua carriera trasferita a qualche
+altro animale. Si potrebbe comporre una divertente fantasia in cui
+elefanti costruivano in architettura elefantina, con torri e torrette
+simili a zanne e proboscidi, città al di là della scala di ogni colosso.
+Si potrebbe concepire una piacevole [[Fable|favola]] in cui una mucca avesse messo su
+un abbigliamento, e indossato quattro stivali e due paia di pantaloni.
+Potremmo immaginare una Superscimmia più prodigiosa di qualsiasi Superuomo,
+una creatura quadrumane che intaglia e dipinge con le mani e
+cucina e fa il falegname con i piedi. Ma se stiamo considerando
+ciò che accadde davvero, decideremo di certo che l'uomo ha distanziato
+tutto il resto con una distanza pari a quella degli spazi astronomici
+e una [[Speed|velocità]] pari a quella dell'immobile folgore della luce.
+E allo stesso modo, mentre possiamo, se vogliamo, vedere la Chiesa
+in mezzo a una folla di superstizioni mitraiche o manichee che si accapigliano
+e si uccidono a vicenda alla fine dell'Impero, mentre possiamo,
+se vogliamo, immaginare la Chiesa uccisa nella lotta e qualche
+altro culto fortuito a prenderne il posto, saremo tanto più sorpresi
+(e forse sconcertati) se la incontriamo duemila anni dopo
+sfrecciare attraverso i secoli come l'alata folgore del pensiero
+e dell'eterno entusiasmo; una cosa senza rivali né somiglianze;
+e ancora nuova quanto è antica.
 
 * * *

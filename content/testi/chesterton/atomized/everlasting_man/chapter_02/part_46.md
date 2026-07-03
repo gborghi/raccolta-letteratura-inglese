@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/everlasting-man-(chesterton)">The Everlasting Man</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/everlasting_man/chapter_02/part_45">‹ part 45</a><a class="ex-next" href="/testi/chesterton/atomized/everlasting_man/chapter_02/part_47">part 47 ›</a></div>
@@ -120,3 +122,119 @@ not only into a sophist but into a magician.  A touch of oriental
 occultism is very much appreciated in the best houses.
 As the philosopher is already a society entertainer, he may as [[Well|well]]
 also be a conjurer.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/everlasting-man-(chesterton)">The Everlasting Man</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/everlasting_man/chapter_02/part_45">‹ part 45</a><a class="ex-next" href="/testi/chesterton/atomized/everlasting_man/chapter_02/part_47">part 47 ›</a></div>
+</nav>
+
+Poiché i pastori morivano perché morivano i loro dèi.
+Il paganesimo viveva di poesia; quella poesia già considerata sotto il nome
+di mitologia. Ma ovunque, e specialmente in [[Italy|Italia]], era stata
+una mitologia e una poesia radicate nella campagna; e quella religione
+rustica era stata in gran parte responsabile della felicità rustica.
+Solo quando l'intera società crebbe in età ed esperienza, cominciò
+ad affiorare quella debolezza propria di ogni mitologia già rilevata nel capitolo
+che ne porta il nome. Questa religione non era propriamente una religione.
+In altre parole, questa religione non era propriamente una realtà.
+Era la baldoria del mondo giovane con immagini e idee, come la baldoria
+di un giovane con il vino o con l'[[Love|amore]]; non era tanto immorale
+quanto irresponsabile; non aveva alcuna previdenza della prova finale del [[Time|tempo]].
+Poiché era creativa senza misura, era credula senza misura.
+Apparteneva al lato artistico dell'uomo, eppure, anche considerata
+artisticamente, era da tempo divenuta sovraccarica e ingarbugliata.
+Gli alberi genealogici germogliati dal seme di Giove erano una giungla
+più che una foresta; le pretese degli dèi e dei semidèi parevano
+faccende da risolvere piuttosto da un avvocato o da un araldo di professione
+che da un poeta. Ma è superfluo dire che non era solo
+in senso artistico che queste cose erano divenute più anarchiche.
+Era apparso in forma sempre più sfacciata quel fiore
+del male che è davvero implicito nel seme stesso del culto della [[Nature|natura]],
+per quanto naturale possa sembrare. Ho detto che non credo
+che il culto naturale cominci necessariamente con questa particolare passione;
+non appartengo alla scuola di De Rougemont del folklore scientifico.
+Non credo che la mitologia debba cominciare con l'erotismo.
+Ma credo davvero che la mitologia debba finirvi. Sono del tutto certo
+che la mitologia vi è finita. Inoltre, non solo la poesia
+si fece più immorale, ma l'immoralità si fece più indifendibile.
+Vizi greci, vizi orientali, sentori degli antichi orrori dei demoni
+semitici cominciarono a riempire le fantasie di una Roma in decadenza, sciamando come mosche
+su un letamaio. La psicologia della cosa è davvero abbastanza umana per chiunque
+voglia tentare quell'esperimento di vedere la [[history|storia]] dall'interno.
+Viene un'ora del pomeriggio in cui il [[Child|bambino]] è stanco
+del «far finta»; in cui è stufo di fare il brigante o il pellerossa.
+È allora che tormenta il gatto. Viene un [[Time|momento]], nel corso ordinato
+di una civiltà ben regolata, in cui l'uomo è stanco di giocare alla mitologia
+e di far finta che un albero sia una fanciulla o che la [[Moon|luna]] facesse l'[[Love|amore]]
+con un uomo. L'effetto di questo languore è ovunque il medesimo;
+lo si vede in ogni assunzione di droghe e in ogni tracannare di liquori e in ogni forma
+di quella tendenza ad aumentare la dose. Gli uomini cercano peccati più strani
+o oscenità più sconvolgenti come stimolanti al loro senso ottuso.
+Cercano per la stessa ragione folli religioni orientali.
+Tentano di pugnalare i propri nervi per riportarli in vita, foss'anche con i coltelli
+dei sacerdoti di Baal. Camminano nel [[Sleep|sonno]] e tentano
+di svegliarsi con gli incubi.
+
+A quello stadio anche del paganesimo, dunque, i [[songs|canti]] e le danze dei contadini
+risuonano sempre più fiochi nella foresta. Anzitutto la civiltà
+contadina stava svanendo, o era già svanita da tutta la campagna.
+L'Impero, alla fine, era organizzato sempre più secondo quel sistema servile
+che generalmente si accompagna al vanto dell'organizzazione, e anzi era quasi
+tanto senile quanto i moderni progetti di organizzazione dell'industria.
+È risaputo che ciò che un tempo sarebbe stato un contadiname divenne
+un mero popolino cittadino dipendente per il pane e i circhi;
+il che può di nuovo suggerire ad alcuni una folla dipendente dai sussidi e dai cinema.
+In questo, come in molti altri riguardi, il moderno ritorno al paganesimo è stato
+un ritorno non già alla giovinezza pagana, ma piuttosto alla vecchiaia pagana.
+Ma le cause di ciò furono spirituali in entrambi i casi; e in particolare
+lo spirito del paganesimo se n'era andato con i suoi spiriti familiari.
+Il calore ne era uscito insieme ai suoi dèi domestici, che se ne andarono
+insieme agli dèi del [[Garden|giardino]] e del campo e della foresta.
+Il Vecchio della Foresta era troppo vecchio; stava già morendo.
+Si dice giustamente, in un certo senso, che Pan morì perché nacque [[Christ|Cristo]].
+È quasi altrettanto vero, in un altro senso, che gli uomini seppero che [[Christ|Cristo]]
+era nato perché Pan era già morto. Un vuoto fu prodotto
+dallo svanire dell'intera mitologia dell'umanità, che sarebbe rimasta
+asfissiata come in un vacuum se non fosse stata riempita di teologia.
+Ma il punto, per il momento, è che la mitologia non avrebbe potuto
+durare come una teologia in nessun caso. La teologia è pensiero,
+che vi si consenta o meno. La mitologia non fu mai pensiero,
+e nessuno poteva davvero consentirvi o dissentirne.
+Era un mero stato d'animo di incanto, e quando lo stato d'animo se ne andò non poté
+essere recuperato. Gli uomini non solo cessarono di credere negli dèi,
+ma compresero di non averci mai creduto.
+Ne avevano cantato le lodi; avevano danzato attorno ai loro altari.
+Avevano suonato il flauto; avevano fatto la parte dello [[Fool|sciocco]].
+
+Così scese il crepuscolo sull'Arcadia e le ultime note della zampogna risuonano
+tristi dal boschetto di faggi. Nei grandi [[Poems|poemi]] virgiliani c'è
+già qualcosa di quella tristezza; ma gli amori e gli dèi
+domestici indugiano in versi leggiadri come quello che il signor Belloc prese come
+prova di intelligenza: incipe parve puer risu cognoscere matrem.
+Ma per loro, come per noi, la stessa famiglia umana cominciò a sgretolarsi
+sotto l'organizzazione servile e l'ammassarsi nelle città.
+La plebe urbana divenne illuminata; vale a dire perse l'energia mentale
+capace di creare miti. Lungo tutto il cerchio delle città
+del Mediterraneo il popolo piangeva la perdita degli dèi ed era consolato
+con i gladiatori. E intanto qualcosa di simile stava accadendo
+a quell'aristocrazia intellettuale dell'antichità che era andata passeggiando
+e discorrendo in lungo e in largo fin dai tempi di Socrate e Pitagora.
+Cominciarono a tradire davanti al mondo il fatto che stavano camminando
+in cerchio e ripetevano la stessa cosa più e più volte.
+La [[philosophy|filosofia]] cominciò a essere una barzelletta; cominciò anche a essere una noia.
+Quella innaturale semplificazione di ogni cosa in un sistema o in un altro,
+che abbiamo rilevato come il difetto del filosofo, rivelò a un tempo
+la propria finalità e la propria futilità. Tutto era virtù o tutto era
+felicità o tutto era fato o tutto era bene o tutto
+era male; comunque, tutto era tutto e non c'era altro
+da dire; e così lo dissero. Ovunque i saggi erano degenerati
+in sofisti; cioè in retori a pagamento o in proponitori di indovinelli.
+È uno dei sintomi di ciò che il saggio comincia a mutarsi
+non solo in sofista ma in mago. Un tocco di occultismo
+orientale è molto apprezzato nelle case migliori.
+Poiché il filosofo è già un intrattenitore mondano, tanto vale che [[Well|allora]]
+sia anche un prestigiatore.

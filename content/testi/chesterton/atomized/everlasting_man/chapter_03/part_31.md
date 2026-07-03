@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/everlasting-man-(chesterton)">The Everlasting Man</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/everlasting_man/chapter_03/part_30">‹ part 30</a><a class="ex-next" href="/testi/chesterton/atomized/everlasting_man/chapter_03/part_32">part 32 ›</a></div>
@@ -174,3 +176,173 @@ They are evidence of the eternal interest of the theme; they are
 not evidence of anything else, and they are not meant to be.
 They are mythology or the poetry that is not bound in books--
 or bound in any other way.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/everlasting-man-(chesterton)">The Everlasting Man</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/everlasting_man/chapter_03/part_30">‹ part 30</a><a class="ex-next" href="/testi/chesterton/atomized/everlasting_man/chapter_03/part_32">part 32 ›</a></div>
+</nav>
+
+Se le nostre relazioni e i nostri documenti sociali conserveranno la loro continuità,
+se gli uomini impareranno davvero ad applicare la ragione ai fatti che si accumulano
+di una storia tanto schiacciante, parrebbe che presto o tardi persino
+i suoi nemici imparino, dalle loro incessanti e interminabili
+delusioni, a non attendersi qualcosa di così semplice come la sua [[Death|morte]].
+Potranno continuare a farle guerra, ma sarà come fanno guerra alla [[Nature|natura]];
+come fanno guerra al paesaggio, come fanno guerra ai cieli.
+«Il cielo e la terra passeranno, ma le mie parole non passeranno.»
+La spieranno per coglierla mentre inciampa; la spieranno per coglierla mentre erra;
+non la spieranno più per coglierla mentre finisce. Insensibilmente, e persino inconsciamente,
+essi, nelle loro stesse silenziose attese, adempiranno i termini
+relativi di quella sconvolgente profezia; dimenticheranno di spiare
+la mera estinzione di ciò che è stato tante volte invano estinto;
+e impareranno d'istinto ad attendersi anzitutto la venuta della cometa
+o il congelarsi della stella.
+
+* * *
+
+CONCLUSIONE
+
+IL RIASSUNTO DI QUESTO LIBRO
+
+Mi sono preso la libertà, una volta o due, di prendere a prestito l'eccellente
+formula relativa a un Compendio di [[history|Storia]]; benché questo studio di una particolare
+[[Truth|verità]] e di un particolare errore non possa naturalmente pretendere paragone alcuno
+con la ricca e multiforme enciclopedia della [[history|storia]], per la quale quel nome
+fu scelto. Eppure vi è una certa ragione nel riferimento:
+e un senso in cui l'una cosa tocca e persino taglia trasversalmente
+l'altra. Poiché la storia del mondo quale la narra il signor Wells poteva
+qui essere criticata soltanto come compendio. E, per quanto strano,
+mi sembra che essa sia errata soltanto come compendio.
+È ammirevole come accumulo di [[history|storia]]; è splendida
+come magazzino o [[house|dimora]]-tesoro di [[history|storia]]; è un'affascinante
+dissertazione sulla [[history|storia]]; è oltremodo attraente come amplificazione
+della [[history|storia]]; ma è del tutto falsa come compendio della [[history|storia]].
+L'unica cosa che mi sembra del tutto sbagliata in essa è il compendio;
+quella sorta di compendio che può davvero essere una linea sola,
+come quella che fa tutta la differenza tra una caricatura
+del profilo del signor Winston Churchill e quello di Sir Alfred Mond.
+In parole semplici e casalinghe, intendo le cose che sporgono;
+le cose che fanno la semplicità di una silhouette.
+Penso che le proporzioni siano sbagliate; le proporzioni di ciò che è certo
+in confronto a ciò che è incerto, di ciò che ha avuto una gran parte
+in confronto a ciò che ne ha avuta una minore, di ciò che è ordinario
+e di ciò che è straordinario, di ciò che sta davvero al livello di una media
+e di ciò che spicca come eccezione.
+
+Non lo dico come piccola critica di un grande scrittore, e non ho
+ragione di farlo; poiché nel mio compito assai più modesto sento di aver fallito
+pressappoco nello stesso modo. Dubito assai di aver comunicato
+al lettore il punto principale che intendevo circa le proporzioni della [[history|storia]],
+e il perché mi sia soffermato tanto di più su certe cose che su altre.
+[[Doubt|Dubito]] di aver chiaramente adempiuto il disegno che avevo tracciato
+nel capitolo introduttivo; e per tale ragione aggiungo queste righe
+come una sorta di riassunto in un capitolo conclusivo. Credo davvero che
+le cose sulle quali ho insistito siano più essenziali a un compendio
+di [[history|storia]] che non le cose che ho subordinato o messo da parte.
+Non credo che il passato sia raffigurato con maggior verità come una cosa
+in cui l'umanità semplicemente sfuma nella [[Nature|natura]], o la civiltà semplicemente
+sfuma nella barbarie, o la religione sfuma nella mitologia,
+o la nostra propria religione sfuma nelle religioni del mondo.
+In breve, non credo che il modo migliore per produrre un compendio
+di [[history|storia]] sia cancellarne le linee. Credo che, delle due,
+sarebbe assai più vicino alla [[Truth|verità]] narrare la vicenda in maniera semplicissima,
+come un mito primitivo su un uomo che fece il sole e le [[Stars|stelle]]
+o su un dio che entrò nel [[Body|corpo]] di una scimmia sacra. Riassumerò dunque
+tutto ciò che è venuto prima in quella che mi pare un'affermazione realistica
+e ragionevolmente proporzionata; la [[Short Story|breve storia]] del genere umano.
+
+Nella terra illuminata da quella stella vicina, il cui bagliore è la piena
+luce del giorno, vi sono molte e assai varie cose immobili e in movimento.
+Fra esse si muove una stirpe che è, nella sua relazione con le altre,
+una stirpe di dèi. Il fatto non è attenuato ma accentuato dal poter essa
+comportarsi come una stirpe di demoni. La sua distinzione non è un'illusione
+individuale, come un uccello che si pavoneggia delle proprie piume;
+è una cosa solida e dai molti lati. È dimostrata
+nelle stesse speculazioni che hanno condotto a negarla.
+Che gli uomini, gli dèi di questo mondo inferiore, vi siano legati in
+vari modi è vero; ma è un altro aspetto della stessa [[Truth|verità]].
+Che essi crescano come cresce l'erba e camminino come camminano le bestie
+è una necessità secondaria che affina la distinzione primaria.
+È come dire che un mago deve pur avere, in fin dei conti, l'aspetto
+di un uomo; o che persino le fate non potrebbero [[Dance|danzare]] senza piedi.
+Da qualche tempo è di moda concentrare la mente interamente su queste miti
+e subordinate somiglianze e dimenticare del tutto il fatto principale.
+È abitudine insistere che l'uomo somiglia alle altre creature.
+Sì; e proprio quella somiglianza egli [[Alone|solo]] può vederla. Il pesce non
+rintraccia il disegno della lisca negli uccelli dell'aria; né l'elefante
+e l'emù confrontano scheletri. Persino nel senso in cui l'uomo
+è tutt'uno con l'universo, si tratta di una universalità del tutto solitaria.
+Lo stesso senso di essere unito a tutte le cose basta a separarlo
+da tutte.
+
+Guardandosi attorno per mezzo di questa luce unica, solitario come
+la fiamma letterale che egli [[Alone|solo]] ha acceso, questo semidio
+o demone del mondo visibile rende quel mondo visibile.
+Vede intorno a sé un mondo di un certo stile o tipo.
+Sembra procedere secondo certe regole o almeno certe ripetizioni.
+Vede una verde architettura che si costruisce senza mani visibili;
+ma che si costruisce secondo un piano o un disegno assai esatto,
+come un disegno già tracciato nell'aria da un dito invisibile.
+Non è, come ora vagamente si suggerisce, una cosa vaga.
+Non è una crescita o un brancolare di vita cieca. Ciascuno cerca un fine;
+un fine glorioso e radioso, persino per ogni margherita o dente di leone
+che vediamo guardando attraverso la distesa di un campo comune.
+Nella forma stessa delle cose vi è più che una verde crescita;
+vi è la finalità del fiore. È un mondo di corone.
+Questa impressione, sia essa o no un'illusione, ha così profondamente
+influenzato questa stirpe di pensatori e padroni del mondo materiale,
+che la stragrande maggioranza è stata indotta a prendere una certa visione di
+quel mondo. Hanno concluso, a torto o a ragione, che il mondo
+avesse un piano come l'albero sembrava avere un piano; e un fine e una [[Crown|corona]]
+come il fiore. Ma finché la stirpe dei pensatori fu in grado
+di pensare, fu evidente che l'ammissione di questa idea di un piano
+recava con sé un altro pensiero più elettrizzante e persino terribile.
+Vi era qualcun altro, un essere strano e invisibile, che aveva progettato
+queste cose, se davvero erano state progettate. Vi era uno straniero
+che era anche un amico; un misterioso benefattore che era stato prima di loro
+e aveva edificato i boschi e le colline per il loro venire, e aveva acceso
+l'aurora contro il loro levarsi, come un servo accende un [[Fire|fuoco]].
+Ora, questa idea di una mente che dà un significato all'universo ha
+ricevuto sempre più conferma nelle menti degli uomini,
+per mezzo di meditazioni ed esperienze assai più sottili e penetranti
+di qualsiasi simile argomento intorno al piano esterno del mondo.
+Ma qui mi preme mantenere la storia nei suoi termini più semplici
+e persino concreti; e basti dire qui che la maggior parte degli uomini,
+compresi i più saggi, sono giunti alla conclusione che il mondo
+ha un tale fine ultimo e perciò una tale causa prima.
+Ma la maggior parte degli uomini si separarono in un certo senso dai più saggi,
+quando si giunse al trattamento di quell'idea. Vennero all'esistenza
+due modi di trattare quell'idea, i quali insieme costituirono
+la maggior parte della [[history|storia]] religiosa del mondo. La maggioranza,
+al pari della minoranza, aveva questo forte senso di un secondo significato
+nelle cose; di uno strano padrone che conosceva il segreto del mondo.
+Ma la maggioranza, la folla o massa degli uomini, tese naturalmente a trattarlo
+piuttosto nello spirito del pettegolezzo. Il pettegolezzo, come ogni pettegolezzo, conteneva una
+gran quantità di [[Truth|verità]] e di falsità. Il mondo cominciò a raccontarsi
+storie sull'essere ignoto o sui suoi figli o servi o messaggeri.
+Alcune di queste storie possono davvero dirsi ciance di comari; in quanto professano
+di essere soltanto ricordi assai remoti del mattino del mondo;
+miti sulla [[Moon|luna]] neonata o sulle [[Mountains|montagne]] semicrude. Alcune di esse
+potrebbero più propriamente dirsi storie di viaggiatori; in quanto storie curiose ma
+contemporanee portate da certe terre di confine dell'esperienza;
+come guarigioni miracolose o come quelle che recano bisbigli di ciò che è
+accaduto ai morti. Molte di esse sono probabilmente storie vere;
+un numero sufficiente di esse è probabilmente vero da tenere una persona di vero buon senso
+più o meno consapevole che dietro il sipario cosmico vi è davvero qualcosa di piuttosto
+meraviglioso. Ma in un certo senso è solo un procedere
+per apparenze; anche se le apparenze si chiamano apparizioni.
+È una questione di apparizioni — e di sparizioni.
+Nel migliore dei casi questi dèi sono [[Ghosts|fantasmi]]; vale a dire, sono scorci.
+Per la maggior parte di noi sono piuttosto pettegolezzi su scorci.
+E per il resto, il mondo intero è pieno di dicerie,
+la maggior parte delle quali sono, quasi dichiaratamente, romanzi. La gran maggioranza
+delle storie sugli dèi e sui [[Ghosts|fantasmi]] e sul [[King|re]] invisibile è raccontata,
+se non per amore della storia, almeno per amore dell'argomento.
+Sono prova dell'eterno interesse del tema; non sono
+prova di alcunché d'altro, né sono intese a esserlo.
+Sono mitologia, ovvero la poesia che non è rilegata in libri —
+né rilegata in alcun altro modo.

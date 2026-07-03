@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/innocence-(chesterton)">The Innocence of Father Brown</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/innocence/story_02_the_secret_garden/part_04">‹ part 04</a><a class="ex-next" href="/testi/chesterton/atomized/innocence/story_02_the_secret_garden/part_06">part 06 ›</a></div>
@@ -130,3 +132,127 @@ silver [[Fire|fire]] in the red and level morning light; the face,
 which seemed of an ugly, empurpled and perhaps criminal type,
 had been much battered against trees or stones as it tossed
 in the [[Water|water]].
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/innocence-(chesterton)">The Innocence of Father Brown</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/innocence/story_02_the_secret_garden/part_04">‹ part 04</a><a class="ex-next" href="/testi/chesterton/atomized/innocence/story_02_the_secret_garden/part_06">part 06 ›</a></div>
+</nav>
+
+# [[innocence]] — Il [[Garden|Giardino]] segreto (parte 5)
+
+Per Neil O'Brien, in verità, quel gesto fu la svolta dell'esistenza. Nel
+[[Time|momento]] in cui, nei colori del mattino, si aggirava di nuovo nel
+misterioso [[Garden|giardino]], la tragica futilità del suo aspetto abituale era caduta da
+lui; era un uomo con molte ragioni per essere felice. Lord Galloway era un
+gentiluomo, e gli aveva offerto delle scuse. Lady Margaret era qualcosa di
+meglio di una lady, una donna almeno, e gli aveva forse dato qualcosa di meglio
+di una scusa, mentre vagavano tra le vecchie aiuole prima della colazione.
+L'intera compagnia era più spensierata e umana, poiché, benché l'[[Riddle|enigma]]
+della [[Death|morte]] rimanesse, il peso del sospetto era stato tolto da tutti
+loro, e mandato via a volo verso [[Paris|Parigi]] con lo strano milionario:
+un uomo che a stento conoscevano. Il diavolo era stato scacciato dalla
+[[house|casa]]: si era scacciato da sé.
+
+Eppure, l'[[Riddle|enigma]] rimaneva; e quando O'Brien si gettò su una panchina
+del [[Garden|giardino]] accanto al dottor Simon, quella persona acutamente
+scientifica lo riprese subito. Non cavò molta conversazione da O'Brien, i cui
+pensieri erano rivolti a cose più piacevoli.
+
+«Non posso dire che m'interessi molto,» disse l'irlandese francamente,
+«tanto più che ora sembra abbastanza chiaro. A quanto pare Brayne odiava
+questo sconosciuto per qualche ragione; lo ha attirato nel [[Garden|giardino]]
+e lo ha ucciso con la mia [[Sword|spada]]. Poi è fuggito verso la
+[[City|città]], gettando via la [[Sword|spada]] mentre andava. A proposito,
+Ivan mi dice che il morto aveva un dollaro yankee in tasca. Dunque era un
+compatriota di Brayne, e questo pare risolvere la cosa. Non vedo alcuna
+difficoltà nella faccenda.»
+
+«Ci sono cinque difficoltà colossali,» disse il dottore con calma; «come alti
+muri dentro altri muri. Non fraintendetemi. Non [[Doubt|dubito]] che sia stato
+Brayne; la sua fuga, credo, lo dimostra. Ma quanto al modo in cui l'ha fatto.
+Prima difficoltà: perché un uomo dovrebbe uccidere un altro uomo con
+un'enorme sciabola sgraziata, quando può quasi ucciderlo con un temperino e
+rimetterselo in tasca? Seconda difficoltà: perché non ci fu alcun rumore né
+grido? Un uomo di solito vede un altro avanzare brandendo una scimitarra e non
+fa alcuna osservazione? Terza difficoltà: un servitore sorvegliò il portone per
+tutta la sera; e nel [[Garden|giardino]] di Valentin non può entrare nemmeno
+un topo. Come fece il morto a entrare nel [[Garden|giardino]]? Quarta
+difficoltà: date le stesse condizioni, come fece Brayne a uscire dal
+[[Garden|giardino]]?»
+
+«E la quinta,» disse Neil, con gli occhi fissi sul prete inglese che risaliva
+lentamente il sentiero.
+
+«È una bagatella, suppongo,» disse il dottore, «ma penso sia una cosa strana.
+Quando vidi per la prima volta come la testa fosse stata squarciata, supposi
+che l'assassino avesse colpito più di una volta. Ma all'esame trovai molti
+tagli attraverso la sezione troncata; in altre parole, furono inferti dopo che
+la testa era già staccata. Brayne odiava il suo nemico tanto ferocemente da
+restare a sciabolarne il [[Body|corpo]] al chiaro di luna?»
+
+«Orribile!» disse O'Brien, e rabbrividì.
+
+Il pretino, Brown, era arrivato mentre parlavano, e aveva atteso, con
+caratteristica timidezza, che avessero finito. Poi disse impacciato:
+
+«Dico io, mi spiace interrompere. Ma sono stato mandato a darvi la notizia!»
+
+«Notizia?» ripeté Simon, e lo fissò piuttosto penosamente attraverso gli
+occhiali.
+
+«Sì, mi spiace,» disse [[Father Brown]] mitemente. «C'è stato un altro
+omicidio, sapete.»
+
+Entrambi gli uomini sulla panchina balzarono in piedi, lasciandola dondolare.
+
+«E, cosa ancora più strana,» proseguì il prete, con l'occhio spento fisso sui
+rododendri, «è dello stesso genere disgustoso; è un'altra decapitazione. Hanno
+trovato la seconda testa che sanguinava proprio nel [[River|fiume]], a poche
+iarde lungo la [[Road|strada]] di Brayne per [[Paris|Parigi]]; sicché suppongono
+che egli...»
+
+«Gran Dio!» gridò O'Brien. «Brayne è un monomaniaco?»
+
+«Ci sono vendette americane,» disse il prete impassibile. Poi aggiunse:
+«Vogliono che veniate in biblioteca a vederla.»
+
+Il Comandante O'Brien seguì gli altri verso l'inchiesta, sentendosi
+decisamente male. Da soldato, aborriva tutta questa carneficina furtiva; dove
+sarebbero finite queste amputazioni stravaganti? Prima una testa veniva
+mozzata, e poi un'altra; in questo caso (si disse amaramente) non era vero che
+due teste valessero più di una. Mentre attraversava lo studio quasi barcollò
+per una scioccante coincidenza. Sul tavolo di Valentin giaceva l'immagine
+colorata di una terza testa sanguinante; ed era la testa di Valentin stesso.
+Una seconda occhiata gli rivelò che era soltanto un giornale nazionalista,
+chiamato La Ghigliottina, che ogni settimana mostrava uno dei suoi avversari
+politici con gli occhi [[rolling|roteanti]] e i lineamenti contorti subito
+dopo l'esecuzione; poiché Valentin era un anticlericale di una certa fama.
+Ma O'Brien era un irlandese, con una sorta di castità persino nei suoi
+peccati; e il suo stomaco si [[Rose|rivoltava]] contro quella grande brutalità
+dell'intelletto che appartiene soltanto alla Francia. Sentiva [[Paris|Parigi]]
+tutta intera, dai grotteschi sulle chiese gotiche alle grossolane caricature
+dei giornali. Ricordò le gigantesche facezie della Rivoluzione. Vedeva l'intera
+[[City|città]] come un'unica brutta energia, dallo [[Sketch|schizzo]] sanguinario
+che giaceva sul tavolo di Valentin su fino a dove, sopra una montagna e una
+foresta di [[gargoyles|gargolle]], il grande diavolo ghigna su Notre Dame.
+
+La biblioteca era lunga, bassa e buia; la poca luce che vi entrava filtrava da
+sotto tende basse e conservava ancora qualcosa della tinta rossastra del
+mattino. Valentin e il suo servitore Ivan li attendevano all'estremità
+superiore di una lunga scrivania lievemente inclinata, sulla quale giacevano
+le spoglie mortali, che parevano enormi nella penombra. La grande figura nera
+e il volto giallo dell'uomo trovato nel [[Garden|giardino]] li fronteggiavano
+sostanzialmente immutati. La seconda testa, che era stata ripescata quella
+mattina fra i canneti del [[River|fiume]], giaceva accanto ad essa, grondante
+e gocciolante; gli uomini di Valentin cercavano ancora di recuperare il resto
+di questo secondo cadavere, che si supponeva galleggiasse. [[Father Brown]],
+che non pareva affatto condividere la sensibilità di O'Brien, si avvicinò alla
+seconda testa e la esaminò con la sua premura sbattendo le palpebre. Era poco
+più di un ammasso di bagnati capelli bianchi, orlati di [[Fire|fuoco]] argenteo
+nella rossa luce radente del mattino; il volto, che pareva di tipo brutto,
+paonazzo e forse criminale, era stato molto sbattuto contro alberi o pietre
+mentre era sballottato nell'[[Water|acqua]].

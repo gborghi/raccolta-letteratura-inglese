@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/wifrb11-(chesterton)">The Wisdom of Father Brown</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/wifrb11/story_04_the_man_in_the_passage/part_06">‹ part 06</a><a class="ex-next" href="/testi/chesterton/atomized/wifrb11/story_05_the_mistake_of_the_machine/part_02">part 02 ›</a></div>
@@ -134,3 +136,135 @@ he had the gun.  I meant no harm to him or any man but one.
 I am keeping the bullet for Pilgrim's Pond--O.R.'  A man must have used
 most fiendish treachery or most savage and amazing bodily daring
 to have stormed such a wall in spite of an armed man."
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/wifrb11-(chesterton)">The Wisdom of Father Brown</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/wifrb11/story_04_the_man_in_the_passage/part_06">‹ part 06</a><a class="ex-next" href="/testi/chesterton/atomized/wifrb11/story_05_the_mistake_of_the_machine/part_02">part 02 ›</a></div>
+</nav>
+
+# [[wifrb11]] — L'errore della [[Machine|macchina]] (parte 1)
+
+                      L'errore della [[Machine|macchina]]
+
+[[Flambeau|FLAMBEAU]] e il suo amico prete sedevano nei Temple Gardens
+sul far del tramonto; e la vicinanza del luogo, o qualche altro simile
+influsso casuale, aveva portato il loro discorso su questioni di procedura
+giudiziaria. Dal problema della libertà concessa nel [[Cross|contro]]interrogatorio
+la conversazione era andata a spasso fino alla tortura romana e
+medievale, al giudice istruttore in Francia e
+al Terzo Grado in [[America]].
+
+     «Ho letto», disse [[Flambeau]], «di questo nuovo metodo psicometrico
+di cui si parla tanto, specialmente in [[America]]. Sai a che cosa alludo:
+applicano un pulsometro al polso di un uomo e giudicano da come batte il cuore
+alla pronuncia di certe parole. Che cosa ne pensi?»
+
+     «Lo trovo molto interessante», rispose [[Father Brown|Padre Brown]];
+«mi ricorda quella curiosa idea dei Secoli Bui, secondo cui il [[Blood|sangue]]
+sarebbe sgorgato da un cadavere se l'assassino l'avesse toccato.»
+
+     «Vuoi davvero dire», domandò l'amico, «che consideri
+i due metodi ugualmente validi?»
+
+     «Li considero ugualmente privi di valore», rispose Brown. «Il [[Blood]] scorre,
+rapido o lento, nei morti come nei vivi, per tanti più milioni di ragioni
+di quante potremo mai conoscerne. Il [[Blood]] dovrebbe scorrere in modo assai bizzarro;
+il [[Blood|sangue]] dovrebbe scorrere in salita sul Cervino, prima che io lo prenda
+come segno che devo spargerlo.»
+
+     «Il metodo», osservò l'altro, «è stato garantito
+da alcuni dei più grandi uomini di scienza americani.»
+
+     «Che sentimentali sono gli uomini di scienza!» esclamò [[Father Brown|Padre Brown]],
+«e quanto più sentimentali debbono essere gli uomini di scienza americani!
+Chi, se non uno yankee, penserebbe di dimostrare qualcosa dai palpiti del cuore?
+Ma via, devono essere sentimentali come un uomo che crede che una donna
+sia [[Love|innamorata]] di lui se arrossisce. È una prova ricavata dalla
+circolazione del [[Blood|sangue]], scoperta dall'immortale Harvey;
+e per giunta una prova bella e marcia.»
+
+     «Eppure», insistette [[Flambeau]], «potrebbe pur puntare abbastanza dritto
+verso qualcosa.»
+
+     «C'è uno svantaggio in un bastone che punta dritto»,
+rispose l'altro. «Quale? Ma via, l'altro capo del bastone
+punta sempre nella direzione opposta. Dipende se
+prendi il bastone dal capo giusto. Una volta vidi fare la cosa
+e da allora non ci ho mai più creduto.» E si mise a raccontare
+la storia della sua [[Disillusionment|disillusione]].
+
+     Era accaduto quasi vent'anni prima, quando egli era cappellano
+dei suoi correligionari in una [[Prison|prigione]] di Chicago, dove la popolazione irlandese
+mostrava una capacità tanto per il delitto quanto per il pentimento che lo teneva
+discretamente occupato. Il vicecomandante ufficiale, sotto il Governatore,
+era un ex [[Detective|detective]] di nome Greywood Usher, un cadaverico, misurato
+filosofo yankee, che di tanto in tanto variava un volto assai rigido
+con una strana smorfia di scusa. Costui aveva simpatia per [[Father Brown|Padre Brown]] in
+un modo leggermente paternalistico; e [[Father Brown|Padre Brown]] aveva simpatia per lui,
+benché detestasse cordialmente le sue teorie. Le sue teorie erano
+estremamente complicate e venivano sostenute con estrema semplicità.
+
+     Una sera aveva mandato a chiamare il prete, il quale, secondo il suo solito,
+prese posto in [[Silence|silenzio]] a un tavolo carico e ingombro di carte,
+e attese. L'ufficiale scelse tra le carte un ritaglio di
+giornale, che porse al chierico,
+il quale lo lesse con gravità. Pareva un estratto da uno dei
+più rosei giornali mondani americani, e diceva così:
+
+     «Il più brillante vedovo dell'alta società si dà ancora una volta alla mania delle
+Cene Stravaganti. Tutti i nostri concittadini più esclusivi ricorderanno la Cena Sfilata
+delle Carrozzelle, in cui Todd-l'Ultimo-Tiro, nella sua sontuosa [[Home|dimora]] di [[Pilgrim]]'s Pond,
+fece apparire tante delle nostre eminenti debuttanti perfino più giovani
+dei loro anni. Ugualmente elegante e più eterogeneo e
+generoso di cuore, nella sua veduta sociale, fu lo spettacolo dell'Ultimo-Tiro dell'anno prima,
+il popolare Pranzo dell'Assalto Cannibale, in cui i dolci fatti circolare
+erano sarcasticamente foggiati in forma di braccia e gambe umane,
+e durante il quale più d'uno dei nostri più gai ginnasti della mente fu udito
+offrirsi di mangiare la propria dama. L'arguzia che ispirerà
+la serata di stasera è ancora chiusa nel piuttosto riservato intelletto del signor Todd,
+o serrata nei seni ingioiellati dei più gai capofila della nostra [[City|città]];
+ma si parla di una graziosa [[Parody|parodia]] dei modi e dei costumi semplici
+dell'altro capo della scala sociale. Il che sarebbe tanto più efficace,
+poiché l'ospitale Todd ha come suo invitato Lord Falconroy, il celebre viaggiatore,
+un [[aristocrat|aristocratico]] di puro sangue fresco dalle querce d'Inghilterra.
+I viaggi di Lord Falconroy cominciarono prima che il suo antico titolo feudale
+fosse risuscitato: egli fu nella Repubblica in gioventù, e la moda sussurra
+una maliziosa ragione per il suo ritorno. Miss Etta Todd è una delle nostre
+newyorkesi dall'anima profonda, ed entra in possesso di una rendita di quasi
+milleduecento milioni di dollari.»
+
+     «[[Well|Ebbene]]», chiese Usher, «la cosa ti interessa?»
+
+     «Ma via, mi mancano quasi le parole», rispose [[Father Brown|Padre Brown]].
+«In questo momento non riesco a pensare a nulla al mondo che possa
+interessarmi di meno. E, a meno che il giusto sdegno della Repubblica non stia
+finalmente per mandare sulla sedia elettrica i giornalisti che scrivono così,
+non vedo bene perché dovrebbe interessare neppure te.»
+
+     «Ah!» disse il signor Usher seccamente, porgendo un altro
+ritaglio di giornale. «[[Well|Ebbene]], questo ti interessa?»
+
+     Il trafiletto era intitolato «Feroce Assassinio di un Guardiano.
+Evaso un Detenuto», e diceva: «Poco prima dell'[[Dawn|alba]] di questa mattina
+un grido d'aiuto è stato udito nel Penitenziario di Sequah,
+in questo Stato. Le autorità, precipitatesi nella direzione del grido,
+hanno trovato il cadavere del guardiano che pattuglia la sommità del muro settentrionale
+della [[Prison|prigione]], l'uscita più ripida e più difficile, per la quale un solo uomo
+è sempre stato ritenuto sufficiente. Lo sventurato agente era però
+stato scagliato giù dall'alto muro, il cranio fracassato
+come da una clava, e il suo fucile è scomparso. Ulteriori indagini hanno rivelato che
+una delle celle era vuota; era occupata da un individuo piuttosto tetro e brutale
+che dava come proprio nome quello di Oscar Rian. Era trattenuto solo temporaneamente
+per un'aggressione relativamente lieve; ma dava a tutti l'impressione
+di un uomo con un passato nero e un futuro pericoloso. Infine,
+quando la luce del giorno ebbe pienamente rivelato la scena del delitto, si scoprì
+che egli aveva scritto sul muro sopra il [[Body|corpo]] una frase frammentaria,
+apparentemente con un dito intinto nel [[Blood|sangue]]: `Fu legittima difesa e
+lui aveva il fucile. Non intendevo far male a lui né a nessun altro, tranne uno.
+Serbo la pallottola per Pilgrim's Pond. — O.R.' Un uomo deve aver usato
+la più diabolica astuzia, o il più selvaggio e prodigioso ardimento fisico,
+per aver preso d'assalto un simile muro a dispetto di un uomo armato.»

@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/innocence-(chesterton)">The Innocence of Father Brown</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/innocence/story_11_the_sign_of_the_broken_sword/part_05">‹ part 05</a><a class="ex-next" href="/testi/chesterton/atomized/innocence/story_12_the_three_tools_of_death/part_01">part 01 ›</a></div>
@@ -153,3 +155,60 @@ They sat down on the comfortable padded benches.
 "Come, it's cold," cried Father Brown; "let's have some wine or beer."
 
 "Or brandy," said Flambeau.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/innocence-(chesterton)">The Innocence of Father Brown</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/innocence/story_11_the_sign_of_the_broken_sword/part_05">‹ part 05</a><a class="ex-next" href="/testi/chesterton/atomized/innocence/story_12_the_three_tools_of_death/part_01">part 01 ›</a></div>
+</nav>
+
+# [[innocence]] — Il segno della [[Sword|Spada]] spezzata (parte 6)
+
+La strada invernale si curvava sopra un crinale nel gelo tagliente, con crudeli sagome nere di cespuglio e macchia; ma Flambeau immaginò di scorgere al di là di essa, debolmente, l’orlo di un’aureola che non era luce di stelle né di luna, ma un qualche fuoco quale è acceso dagli uomini. La osservò mentre il racconto volgeva alla sua conclusione.
+
+«St. Clare era un mastino d’inferno, ma era un mastino di razza. Mai, lo giuro, fu così lucido e così forte come quando il povero Murray giacque, freddo grumo, ai suoi piedi. Mai in tutti i suoi trionfi, come disse giustamente il Capitano Keith, il grand’uomo fu così grande come in quest’ultima disfatta disprezzata dal mondo. Guardò freddamente la sua arma per detergerne il sangue; vide che la punta che aveva piantato fra le scapole della vittima si era spezzata dentro il corpo. Vide con tutta calma, come attraverso il vetro d’una finestra di club, tutto ciò che ne doveva seguire. Vide che gli uomini avrebbero dovuto trovare il cadavere inspiegabile; estrarre la inspiegabile punta di spada; notare la inspiegabile spada spezzata — o l’assenza di spada. Aveva ucciso, ma non ridotto al silenzio. Ma il suo imperioso intelletto insorse contro l’ostacolo; c’era ancora un modo. Poteva rendere il cadavere meno inspiegabile. Poteva creare una collina di cadaveri per coprire quell’uno. In venti minuti ottocento soldati inglesi marciavano verso la loro morte.»
+
+Il più caldo bagliore dietro il nero bosco invernale si fece più ricco e più luminoso, e Flambeau affrettò il passo per raggiungerlo. Anche Padre Brown accelerò l’andatura; ma pareva soltanto assorto nel suo racconto.
+
+«Tale era il valore di quei mille inglesi, e tale il genio del loro comandante, che se avessero attaccato subito la collina, persino la loro folle marcia avrebbe potuto trovare qualche fortuna. Ma la mente malvagia che giocava con loro come con pedine aveva altri fini e altre ragioni. Dovevano rimanere nelle paludi presso il ponte almeno finché i cadaveri britannici non fossero divenuti là uno spettacolo comune. Poi, per l’ultima grande scena; il soldato-santo dai capelli d’argento avrebbe consegnato la sua spada infranta per risparmiare ulteriore carneficina. Oh, era ben organizzata, per un’improvvisazione. Ma io penso (non posso provarlo), penso che fu mentre stavano piantati là nel fango sanguinoso che qualcuno dubitò — e qualcuno indovinò.»
+
+Rimase muto un momento, e poi disse: «C’è una voce dal nulla che mi dice che l’uomo che indovinò era l’innamorato… l’uomo che avrebbe sposato la figlia del vecchio.»
+
+«Ma che ne fu di Olivier e dell’impiccagione?» chiese Flambeau.
+
+«Olivier, in parte per cavalleria, in parte per calcolo, raramente ingombrava la sua marcia di prigionieri,» spiegò il narratore. «Nella maggior parte dei casi liberava tutti. E in questo caso liberò tutti.»
+
+«Tutti tranne il generale,» disse l’uomo alto.
+
+«Tutti,» disse il prete.
+
+Flambeau aggrottò le nere sopracciglia. «Non afferro ancora tutto quanto,» disse.
+
+«C’è un altro quadro, Flambeau,» disse Brown nel suo tono più mistico e sommesso. «Non posso provarlo; ma posso fare di più — posso vederlo. C’è un campo che si smobilita, sulle nude, torride colline al mattino, e uniformi brasiliane ammassate in blocchi e colonne pronte a marciare. C’è la camicia rossa e la lunga barba nera di Olivier, che gli si agita al vento mentre sta in piedi, il cappello a larghe tese in mano. Egli sta dicendo addio al grande nemico che sta liberando — il semplice, canuto veterano inglese, che lo ringrazia in nome dei suoi uomini. Il resto degli inglesi sta dietro sull’attenti; accanto a loro ci sono provviste e veicoli per la ritirata. I tamburi rullano; i brasiliani si muovono; gli inglesi sono immobili come statue. Così restano finché l’ultimo brusio e l’ultimo lampo del nemico non siano svaniti dall’orizzonte tropicale. Poi mutano tutti insieme il loro atteggiamento, come morti che tornano in vita; volgono i loro cinquanta volti verso il generale — volti che non si possono dimenticare.»
+
+Flambeau diede un gran sussulto. «Ah,» esclamò, «non vorrete dire —»
+
+«Sì,» disse Padre Brown con voce profonda e commossa. «Fu una mano inglese a mettere la corda attorno al collo di St. Clare; io credo la mano che aveva messo l’anello al dito di sua figlia. Furono mani inglesi a trascinarlo su all’albero dell’infamia; le mani di uomini che lo avevano adorato e seguìto alla vittoria. E furono anime inglesi (Dio perdoni e sopporti tutti noi!) che lo fissarono mentre dondolava in quel sole straniero sul verde patibolo di palma, e pregarono nel loro odio che ne cadesse giù nell’inferno.»
+
+Mentre i due valicarono il crinale, irruppe su di loro la forte luce scarlatta di una locanda inglese dalle tende rosse. Sorgeva di traverso sulla strada, come se si scostasse nell’ampiezza dell’ospitalità. Le sue tre porte stavano aperte in un invito; e persino da dove stavano potevano udire il brusio e le risa dell’umanità felice per una notte.
+
+«Non ho bisogno di dirvi altro,» disse Padre Brown. «Lo processarono nelle terre selvagge e lo distrussero; e poi, per l’onore dell’Inghilterra e di sua figlia, fecero giuramento di suggellare per sempre la storia della borsa del traditore e della lama di spada dell’assassino. Forse — il Cielo li aiuti — cercarono di dimenticarla. Cerchiamo di dimenticarla anche noi, in ogni caso; ecco la nostra locanda.»
+
+«Con tutto il cuore,» disse Flambeau, e stava proprio per entrare a grandi passi nella rumorosa e luminosa mescita, quando indietreggiò e per poco non cadde sulla strada.
+
+«Guardate là, in nome del diavolo!» esclamò, e additò rigidamente la squadrata insegna di legno che pendeva sopra la strada. Essa mostrava indistintamente la rozza forma di un’elsa di sciabola e di una lama accorciata; ed era iscritta in falsi caratteri arcaici: «Al Segno della Spada Spezzata».
+
+«Non eravate preparato?» chiese Padre Brown con dolcezza. «Egli è il dio di questa contrada; metà delle locande, dei parchi e delle vie prende nome da lui e dalla sua storia.»
+
+«Credevo che l’avessimo chiusa con quel lebbroso,» esclamò Flambeau, e sputò sulla strada.
+
+«Non l’avrete mai chiusa con lui, in Inghilterra,» disse il prete, guardando in basso, «finché il bronzo sarà saldo e la pietra durerà. Le sue statue di marmo raddrizzeranno l’anima di fanciulli fieri e innocenti per secoli, la sua tomba di villaggio olezzerà di lealtà come di gigli. Milioni di persone che non lo conobbero mai lo ameranno come un padre — quest’uomo che i pochi ultimi che lo conobbero trattarono come letame. Egli sarà un santo; e la verità non sarà mai detta su di lui, perché io ho infine deciso. C’è tanto bene e tanto male nel violare i segreti, che ho messo la mia condotta alla prova. Tutti questi giornali periranno; l’ondata anti-brasiliana è già passata; Olivier è già onorato dappertutto. Ma ho detto a me stesso che se in qualche luogo, per nome, in metallo o in marmo che dureranno come le piramidi, il Colonnello Clancy, o il Capitano Keith, o il presidente Olivier, o un qualsiasi uomo innocente fosse ingiustamente incolpato, allora avrei parlato. Se si trattasse soltanto del fatto che St. Clare è ingiustamente lodato, tacerei. E tacerò.»
+
+Si tuffarono nella taverna dalle tende rosse, che all’interno non era solo accogliente, ma addirittura lussuosa. Su un tavolo stava un modellino d’argento della tomba di St. Clare, la testa d’argento chinata, la spada d’argento spezzata. Sulle pareti c’erano fotografie a colori della stessa scena, e del sistema di carrozzini che portavano i turisti a vederla. Si sedettero sulle comode panche imbottite.
+
+«Su, fa freddo,» esclamò Padre Brown; «prendiamo un po’ di vino o di birra.»
+
+«O del brandy,» disse Flambeau.

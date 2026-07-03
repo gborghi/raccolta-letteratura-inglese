@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/ortho14-(chesterton)">Orthodoxy</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/ortho14/story_06_iv_the_ethics_of_elfland/part_19">‹ part 19</a><a class="ex-next" href="/testi/chesterton/atomized/ortho14/story_07_vii_the_eternal_revolution/part_01">part 01 ›</a></div>
@@ -129,3 +131,129 @@ But to have avoided them all has been one whirling adventure;
 and in my vision the heavenly chariot flies thundering through the ages,
 the dull heresies sprawling and prostrate, the wild [[Truth|truth]]
 reeling but erect.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/ortho14-(chesterton)">Orthodoxy</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/ortho14/story_06_iv_the_ethics_of_elfland/part_19">‹ part 19</a><a class="ex-next" href="/testi/chesterton/atomized/ortho14/story_07_vii_the_eternal_revolution/part_01">part 01 ›</a></div>
+</nav>
+
+# [[ortho14]] — IV. L'etica del paese delle fate (parte 20)
+
+Questo è ciò che ho chiamato indovinare le eccentricità nascoste della vita.
+È sapere che il cuore di un uomo sta a sinistra e non nel mezzo.
+È sapere non soltanto che la terra è rotonda, ma sapere esattamente
+dove è piatta. La dottrina cristiana individuò le stranezze della vita.
+Non solo scoprì la legge, ma previde le eccezioni.
+Sminuisce il [[Christianity|Cristianesimo]] chi dice che esso scoprì la [[Mercy|misericordia]];
+chiunque potrebbe scoprire la [[Mercy|misericordia]]. E infatti tutti la scoprirono.
+Ma scoprire un piano per essere misericordiosi e insieme severi—
+QUESTO fu anticipare uno strano bisogno della [[Nature|natura]] umana. Poiché nessuno
+vuole essere perdonato di un grande peccato come se fosse un piccolo peccato.
+Chiunque potrebbe dire che non dovremmo essere né del tutto infelici né del tutto felici.
+Ma scoprire fin dove si POSSA essere del tutto infelici senza rendere
+impossibile essere del tutto felici—quella fu una scoperta della psicologia.
+Chiunque potrebbe dire: «Non spavaldeggiare e non strisciare»; e sarebbe stato
+un limite. Ma dire: «Qui puoi spavaldeggiare e là puoi strisciare»—
+quella fu un'emancipazione.
+
+     Questo era il grande fatto dell'etica cristiana: la scoperta
+del nuovo equilibrio. Il paganesimo era stato come una colonna di marmo,
+diritta perché proporzionata con simmetria. Il [[Christianity|Cristianesimo]] era come
+un'immane, scabra e romantica rupe che, benché oscilli sul suo
+piedistallo al minimo tocco, tuttavia, poiché le sue esagerate escrescenze
+si bilanciano esattamente l'una con l'altra, vi troneggia da mille anni.
+In una [[Cathedral|cattedrale]] gotica le colonne erano tutte diverse, ma erano
+tutte necessarie. Ogni sostegno sembrava un sostegno accidentale e fantastico;
+ogni contrafforte era un arco rampante. Così nella cristianità gli accidenti
+apparenti si bilanciavano. Becket portava un cilicio sotto l'oro e il cremisi,
+e molto c'è da dire a favore di quella combinazione; poiché Becket traeva
+il beneficio del cilicio mentre la gente per strada traeva
+il beneficio del cremisi e dell'oro. È perlomeno meglio
+del modo del milionario moderno, che ostenta il nero e il grigio
+all'esterno per gli altri, e tiene l'oro accanto al cuore. Ma l'equilibrio
+non stava sempre nel [[Body|corpo]] di un solo uomo come in quello di Becket; l'equilibrio
+era spesso distribuito sull'intero [[Body|corpo]] della cristianità. Poiché un uomo pregava
+e digiunava tra le nevi del Nord, si potevano gettare [[Flowers|fiori]] alla sua festa
+nelle città del Sud; e poiché i fanatici bevevano [[Water|acqua]] sulle sabbie
+della Siria, gli uomini potevano ancora bere sidro nei frutteti d'Inghilterra.
+È questo che rende la cristianità a un tempo tanto più sconcertante
+e tanto più interessante dell'impero pagano; proprio come la [[Cathedral|cattedrale]]
+di Amiens non è migliore, ma più interessante del Partenone.
+Se qualcuno desidera una prova moderna di tutto ciò, consideri
+il curioso fatto che, sotto il [[Christianity|Cristianesimo]], l'Europa (pur rimanendo un'[[unity|unità]])
+si è frammentata in nazioni distinte. Il patriottismo è un esempio perfetto
+di questo deliberato bilanciare un'enfasi contro un'altra enfasi.
+L'istinto dell'impero pagano avrebbe detto: «Sarete tutti
+cittadini romani, e crescerete uguali; il Germano diventi meno lento e riverente,
+il Francese meno sperimentale e rapido». Ma l'istinto
+dell'Europa cristiana dice: «Il Germano rimanga lento e riverente,
+affinché il Francese possa tanto più sicuramente essere rapido e sperimentale.
+Faremo un contrappeso di questi eccessi. L'assurdità
+chiamata [[Germany|Germania]] correggerà la follia chiamata Francia».
+
+     Da ultimo, e più importante, è proprio questo a spiegare
+ciò che riesce tanto inesplicabile a tutti i critici moderni della [[history|storia]] del
+[[Christianity|Cristianesimo]]. Intendo le guerre mostruose su piccoli punti di teologia,
+i terremoti d'emozione per un gesto o una parola.
+Era solo questione di un pollice; ma un pollice è tutto
+quando si è in equilibrio. La Chiesa non poteva permettersi di deviare
+di un capello su certe cose, se voleva continuare il suo grande e
+temerario esperimento dell'equilibrio irregolare. Bastava che un'idea
+divenisse meno potente e qualche altra idea sarebbe divenuta troppo potente.
+Non era un gregge di pecore che il pastore cristiano conduceva,
+ma una mandria di tori e di tigri, di ideali terribili e di dottrine divoranti,
+ciascuno abbastanza forte da mutarsi in una falsa religione e
+devastare il mondo. Si ricordi che la Chiesa si dedicò specificamente
+alle idee pericolose: era una domatrice di [[Lion|leoni]]. L'idea della nascita per
+opera di uno Spirito Santo, della [[Death|morte]] di un essere divino, del [[Forgiveness|perdono]] dei peccati,
+o dell'adempimento delle profezie, sono idee che, chiunque può vederlo,
+basta un tocco a mutarle in qualcosa di blasfemo o di feroce.
+Il più piccolo anello fu lasciato cadere dagli artefici del Mediterraneo,
+e il [[Lion|leone]] del pessimismo ancestrale spezzò la sua catena nelle dimenticate
+foreste del nord. Di queste equalizzazioni teologiche dovrò
+parlare in seguito. Qui basta notare che se un piccolo errore
+si commetteva nella dottrina, immensi sbagli potevano commettersi nella felicità umana.
+Una frase formulata male sulla [[Nature|natura]] del simbolismo avrebbe
+mandato in frantumi tutte le più belle statue d'Europa. Un passo falso nelle definizioni
+avrebbe potuto arrestare tutte le danze; avvizzire tutti gli alberi di Natale
+o rompere tutte le uova di Pasqua. Le dottrine dovevano essere definite entro
+limiti severi, anche solo affinché l'uomo potesse godere delle comuni libertà umane.
+La Chiesa doveva essere attenta, non foss'altro perché il mondo potesse essere spensierato.
+
+     Questo è il palpitante [[Romance|romanzo]] dell'Ortodossia. La gente è caduta
+nella sciocca abitudine di parlare dell'ortodossia come di qualcosa di pesante,
+monotono e sicuro. Non ci fu mai nulla di così pericoloso o
+di così eccitante come l'ortodossia. Era [[Sanity|sanità di mente]]: ed essere sani di mente
+è più drammatico che essere folli. Era l'equilibrio di
+un uomo dietro cavalli lanciati all'impazzata, che pare piegarsi da una parte
+e oscillare dall'altra, eppure in ogni atteggiamento possiede la grazia della statuaria
+e l'esattezza dell'aritmetica. La Chiesa, ai suoi primi giorni,
+corse fiera e veloce con qualunque cavallo da guerra; eppure è del tutto antistorico
+dire che essa semplicemente impazzì dietro una sola idea, come un volgare [[Fanaticism|fanatismo]].
+Sterzò a sinistra e a destra, con tanta precisione da evitare enormi ostacoli.
+Si lasciò da un lato l'immensa mole dell'arianesimo, puntellato da
+tutte le potenze mondane per rendere il [[Christianity|Cristianesimo]] troppo mondano.
+L'istante successivo sterzava per evitare un orientalismo,
+che l'avrebbe reso troppo ultramondano. La Chiesa ortodossa non
+prese mai la via mansueta né accettò le convenzioni; la Chiesa ortodossa
+non fu mai rispettabile. Sarebbe stato più facile accettare
+il potere terreno degli ariani. Sarebbe stato facile,
+nel calvinistico Seicento, cadere nel pozzo senza fondo
+della predestinazione. È facile essere pazzi: è facile essere eretici.
+È sempre facile lasciare che l'epoca prenda la sua strada; la cosa difficile è
+mantenere la propria. È sempre facile essere modernisti, come è
+facile essere snob. Cadere in una qualsiasi di quelle trappole aperte
+dell'errore e dell'esagerazione che moda dopo moda e setta dopo setta
+disposero lungo il cammino storico della cristianità—quello sarebbe stato davvero
+semplice. È sempre semplice cadere; vi sono
+infiniti angoli secondo cui si cade, uno solo secondo cui si sta ritti.
+Cadere in una qualsiasi delle manie, dallo gnosticismo alla
+Scienza Cristiana, sarebbe stato davvero ovvio e insulso.
+Ma averle evitate tutte è stata una vorticosa avventura;
+e nella mia visione il carro celeste vola tuonando attraverso i secoli,
+le opache eresie riverse e prostrate, la selvaggia [[Truth|verità]]
+vacillante ma eretta.

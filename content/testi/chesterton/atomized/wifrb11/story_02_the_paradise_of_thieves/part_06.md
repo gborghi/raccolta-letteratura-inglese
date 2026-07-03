@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/wifrb11-(chesterton)">The Wisdom of Father Brown</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/wifrb11/story_02_the_paradise_of_thieves/part_05">‹ part 05</a><a class="ex-next" href="/testi/chesterton/atomized/wifrb11/story_03_the_duel_of_dr_hirsch/part_01">part 01 ›</a></div>
@@ -176,3 +178,78 @@ Glasgow, Chicago--in short, to enlightened, energetic, civilized society!"
      "In short," said Muscari, "to the real Paradise of Thieves."
 
                                  THREE
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/wifrb11-(chesterton)">The Wisdom of Father Brown</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/wifrb11/story_02_the_paradise_of_thieves/part_05">‹ part 05</a><a class="ex-next" href="/testi/chesterton/atomized/wifrb11/story_03_the_duel_of_dr_hirsch/part_01">part 01 ›</a></div>
+</nav>
+
+# [[wifrb11]] — Il Paradiso dei Ladri (parte 6)
+
+     Un attimo dopo volse il suo volto olivastro e sogghignante e fece un movimento con la mano. I briganti si dispersero al segnale, non in confusione, ma in quella che era evidentemente una specie di disciplina da guerriglia. Invece di occupare la [[Road|strada]] lungo il crinale, si sparpagliarono lungo il suo fianco dietro gli alberi e la siepe, come spiando invisibili un nemico. Il rumore al di là si fece più forte, cominciando a scuotere la [[Road|strada]] montana, e si udì chiaramente una voce che gridava ordini. I briganti ondeggiavano e si accalcavano, imprecando e bisbigliando, e l'aria della sera era piena di piccoli rumori metallici mentre armavano le pistole, o allentavano i coltelli, o trascinavano i foderi sulle pietre. Poi i rumori provenienti dalle due parti parvero incontrarsi sulla [[Road|strada]] in alto; i rami si spezzavano, i cavalli nitrivano, gli uomini gridavano.
+
+     «Un soccorso!» esclamò Muscari, balzando in piedi e agitando il cappello; «i gendarmi sono loro addosso! E ora sotto per la [[Freedom|libertà]] e un colpo per conquistarla! E ora a fare i ribelli contro i ladroni! Su, non lasciamo tutto alla polizia; è una cosa così tremendamente moderna. Piombiamo sulle spalle di questi furfanti. I gendarmi ci stanno soccorrendo; venite, amici, soccorriamo i gendarmi!»
+
+     E gettando il cappello oltre gli alberi, sguainò di nuovo la sciabola e cominciò a scalare il pendio su fino alla [[Road|strada]]. Frank Harrogate scattò in piedi e corse per aiutarlo, la rivoltella in pugno, ma fu sbalordito di sentirsi imperiosamente richiamato dalla voce rauca del padre, che pareva in grande agitazione.
+
+     «Non lo permetto,» disse il banchiere con voce strozzata; «ti ordino di non intrometterti.»
+
+     «Ma, padre,» disse Frank con molto calore, «un gentiluomo italiano ha aperto la via. Non vorrai che si dica che gli inglesi si sono tirati indietro.»
+
+     «È inutile,» disse il vecchio, che tremava violentemente, «è inutile. Dobbiamo sottometterci alla nostra sorte.»
+
+     [[Father Brown|Padre Brown]] guardò il banchiere; poi si portò la mano istintivamente come sul cuore, ma in realtà sulla boccettina di [[Poison|veleno]]; e un gran lume gli salì al volto come la luce della rivelazione della [[Death|morte]].
+
+     Muscari intanto, senza attendere sostegno, aveva superato la cresta del declivio fino alla [[Road|strada]], e colpì con forza sulla spalla il [[King|re]] dei briganti, facendolo barcollare e girare su se stesso. Anche Montano aveva la sciabola sguainata, e Muscari, senza altre parole, gli vibrò un fendente alla testa che egli fu costretto a bloccare e parare. Ma proprio mentre le due corte lame si incrociavano e cozzavano, il [[King|Re]] dei Ladri abbassò deliberatamente la punta e rise.
+
+     «A che pro, vecchio mio?» disse in vivace gergo italiano; «questa maledetta farsa finirà presto.»
+
+     «Che cosa intendi, imbroglione?» ansimò il [[Fire|focoso]] poeta. «Il tuo [[Courage|coraggio]] è una finzione [[Well|tanto]] quanto la tua onestà?»
+
+     «Tutto in me è una finzione,» rispose l'ex corriere di ottimo [[Humour|umore]]. «Sono un attore; e se mai ho avuto un carattere privato, l'ho dimenticato. Non sono un brigante autentico più di quanto sia un corriere autentico. Sono soltanto un fascio di maschere, e con quello non si può battersi a duello.» E rise con fanciullesco piacere e ricadde nel suo vecchio atteggiamento a gambe larghe, con le spalle alla mischia su per la [[Road|strada]].
+
+     L'oscurità si infittiva sotto le pareti montane, e non era facile discernere molto dello svolgimento della lotta, salvo che uomini alti spingevano i musi dei loro cavalli attraverso una folla aggrappata di briganti, i quali parevano più inclini a molestare e a spintonare gli invasori che a ucciderli. Somigliava più a una folla cittadina che impedisce il passaggio della polizia che a qualsiasi cosa il poeta avesse mai immaginato come l'[[Last Stand|ultima resistenza]] di uomini di [[Blood|sangue]] condannati e messi al bando. Proprio mentre [[rolling|roteava]] gli occhi nello sconcerto, sentì un tocco al gomito, e trovò lo strano piccolo prete che se ne stava lì come un piccolo Noè con un grande cappello, e chiedeva il favore di una parola o due.
+
+     «Signor Muscari,» disse il chierico, «in questa bizzarra crisi si possono perdonare le allusioni personali. Posso dirle senza offesa di un modo in cui farebbe più bene che aiutando i gendarmi, i quali riusciranno comunque a sfondare. Mi permetterà l'impertinente confidenza, ma le importa di quella ragazza? Le importa abbastanza da sposarla e da esserle un buon marito, voglio dire?»
+
+     «Sì,» disse il poeta con tutta semplicità.
+
+     «E a lei importa di lei?»
+
+     «Credo di sì,» fu la risposta ugualmente [[Grave|grave]].
+
+     «Allora vada là e si offra,» disse il prete: «le offra tutto ciò che può; le offra il cielo e la terra se li possiede. Il [[Time|tempo]] è poco.»
+
+     «Perché?» chiese lo stupito uomo di lettere.
+
+     «Perché,» disse [[Father Brown|padre Brown]], «la sua Rovina sta salendo per la [[Road|strada]].»
+
+     «Nulla sta salendo per la [[Road|strada]],» obiettò Muscari, «tranne il soccorso.»
+
+     «[[Well|Ebbene]], lei vada là,» disse il suo consigliere, «e si tenga pronto a salvarla dal soccorso.»
+
+     Quasi mentre parlava, le siepi furono rotte lungo tutto il crinale da un'ondata di briganti in fuga. Si tuffavano nei cespugli e nell'erba folta come uomini sconfitti e inseguiti; e i grandi cappelli a punta della gendarmeria a cavallo si videro passare sopra la siepe rotta. Fu dato un altro ordine; ci fu un rumore di smontare da cavallo, e un ufficiale alto, con il cappello a punta, un pizzo grigio all'imperiale e un foglio in mano, comparve nel varco che era la porta del Paradiso dei Ladri. Ci fu un momentaneo [[Silence|silenzio]], rotto in modo straordinario dal banchiere, che gridò con voce roca e strozzata: «Derubato! Sono stato derubato!»
+
+     «Ma come, è successo ore fa,» esclamò il figlio stupito: «quando ti hanno derubato di duemila sterline.»
+
+     «Non di duemila sterline,» disse il finanziere, con una brusca e terribile compostezza, «solo di una boccettina.»
+
+     Il poliziotto dal pizzo grigio attraversava a gran passi la verde conca. Incontrando sul suo cammino il [[King|Re]] dei Ladri, gli batté sulla spalla con qualcosa di mezzo tra una carezza e uno scapaccione e gli diede una spinta che lo mandò via barcollando. «Ti caccerai nei guai anche tu,» disse, «se fai questi giochetti.»
+
+     Di nuovo, all'occhio artistico di Muscari, non pareva affatto la cattura di un grande fuorilegge alle strette. Proseguendo, il poliziotto si fermò davanti al gruppo degli Harrogate e disse: «Samuel Harrogate, vi arresto in nome della legge per appropriazione indebita dei fondi della Banca di Hull e Huddersfield.»
+
+     Il grande banchiere annuì con una strana aria di assenso d'affari, parve riflettere un momento, e prima che potessero interporsi fece un mezzo giro e un passo che lo portò sull'orlo della parete montana esterna. Poi, gettando le mani in alto, balzò esattamente come era balzato dalla vettura. Ma questa [[Time|volta]] non cadde in un piccolo prato appena sottostante; cadde mille piedi più in basso, per diventare un rottame di ossa nella valle.
+
+     L'ira del poliziotto italiano, che espresse volubilmente a [[Father Brown|padre Brown]], era in gran parte mescolata ad ammirazione. «Era proprio da lui sfuggirci all'ultimo,» disse. «Era un grande brigante, se volete. Quest'ultimo suo trucco lo ritengo assolutamente senza precedenti. Fuggì con il denaro della società in [[Italy|Italia]], e si fece davvero catturare da finti briganti al suo soldo, così da spiegare tanto la scomparsa del denaro quanto la propria scomparsa. Quella richiesta di riscatto fu presa davvero sul serio dalla maggior parte della polizia. Ma per anni ha fatto cose altrettanto belle, proprio altrettanto belle. Sarà una grave perdita per la sua famiglia.»
+
+     Muscari conduceva via l'infelice figlia, che si teneva stretta a lui, come fece per molti anni ancora. Ma persino in quel tragico disastro non poté fare a meno di avere un sorriso e una mano di [[Friendship|amicizia]] semiironica per l'indifendibile Ezza Montano. «E dove andrai adesso?» gli chiese da sopra la spalla.
+
+     «A Birmingham,» rispose l'attore, tirando boccate da una sigaretta. «Non ti avevo detto che ero futurista? Credo davvero in quelle cose, se credo in qualcosa. Cambiamento, trambusto e cose nuove ogni mattina. Vado a Manchester, Liverpool, Leeds, Hull, Huddersfield, Glasgow, Chicago... in breve, verso una società illuminata, energica, civile!»
+
+     «In breve,» disse Muscari, «verso il vero Paradiso dei Ladri.»
+
+                                  TRE

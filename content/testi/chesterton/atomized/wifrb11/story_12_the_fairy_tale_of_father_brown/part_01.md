@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/wifrb11-(chesterton)">The Wisdom of Father Brown</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/wifrb11/story_11_the_strange_crime_of_john_boulnois/part_05">‹ part 05</a><a class="ex-next" href="/testi/chesterton/atomized/wifrb11/story_12_the_fairy_tale_of_father_brown/part_02">part 02 ›</a></div>
@@ -134,3 +136,134 @@ by very well-organized officials over a small and familiar area, and,
 so far as human strength and science can be absolutely certain of anything,
 Prince Otto was absolutely certain that nobody could introduce so much as
 a toy pistol into Heiligwaldenstein."
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/wifrb11-(chesterton)">The Wisdom of Father Brown</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/wifrb11/story_11_the_strange_crime_of_john_boulnois/part_05">‹ part 05</a><a class="ex-next" href="/testi/chesterton/atomized/wifrb11/story_12_the_fairy_tale_of_father_brown/part_02">part 02 ›</a></div>
+</nav>
+
+# [[wifrb11]] — La favola di [[Father Brown|Padre Brown]] (parte 1)
+
+                    La fiaba di Padre Brown
+
+LA pittoresca città-stato di Heiligwaldenstein era uno di quei regni
+di balocchi di cui certe regioni dell'Impero Germanico constano ancora.
+Era passata sotto l'egemonia prussiana assai tardi nella storia --
+sì e no cinquant'anni prima di quella bella giornata d'estate in cui Flambeau e
+Padre Brown si trovarono seduti nei suoi giardini a bere la sua birra.
+Vi erano state, entro la memoria dei viventi, non poche guerre e giustizie
+selvagge, come presto si vedrà. Ma a guardarla soltanto
+non si poteva scacciare quell'impressione di puerilità che è
+il lato più incantevole della Germania -- quelle piccole monarchie
+paterne da pantomima in cui un re pare domestico come un cuoco.
+I soldati tedeschi presso le innumerevoli garitte parevano stranamente simili a
+balocchi tedeschi, e i merli ben tagliati del castello,
+dorati dal sole, parevano ancor più pan di zenzero indorato.
+Perché era un tempo splendido. Il cielo era d'un azzurro tanto prussiano quanto
+Potsdam medesima potesse esigere, ma somigliava ancor più a quell'uso prodigo e
+sfolgorante del colore che un bambino ricava da una scatola di colori da uno scellino.
+Persino gli alberi dai tronchi grigi e nervosi parevano giovani, ché le gemme aguzze su di essi
+erano ancora rosee, e disegnate contro l'azzurro intenso parevano
+innumerevoli figurine infantili.
+
+     Nonostante il suo aspetto prosaico e il tenore di vita in genere pratico,
+Padre Brown non era privo di una certa vena di romanticismo nella sua natura,
+per quanto di solito tenesse le fantasticherie per sé, come fanno molti bambini.
+In mezzo ai colori vivaci e squillanti di una simile giornata, e nella cornice
+araldica di una simile città, egli si sentiva davvero come se fosse entrato
+in una fiaba. Provava un piacere fanciullesco, come potrebbe un fratello minore,
+nel formidabile bastone-spada che Flambeau roteava sempre mentre camminava,
+e che ora stava ritto accanto al suo alto boccale di birra di Monaco.
+Anzi, nella sua sonnolenta noncuranza, si sorprese persino a fissare la
+testa nodosa e goffa del proprio ombrello sdrucito, con qualche
+fioca reminiscenza della clava dell'orco in un libro illustrato di balocchi.
+Ma non compose mai nulla in forma di finzione, se non forse
+il racconto che segue:
+
+     «Mi domando», disse, «se in un luogo simile si avrebbero avventure vere,
+qualora ci si mettesse sul loro cammino. È uno splendido
+fondale per esse, ma ho sempre una specie di sensazione che
+combatterebbero con sciabole di cartone più che con vere, orribili spade.»
+
+     «Ti sbagli», disse il suo amico. «In questo posto
+non solo combattono con la spada, ma uccidono senza spada. E c'è
+di peggio.»
+
+     «Come, che vuoi dire?» chiese Padre Brown.
+
+     «Ecco», replicò l'altro, «direi che questo è il solo luogo
+in Europa dove un uomo sia mai stato colpito da un proiettile senza armi da fuoco.»
+
+     «Intendi con arco e freccia?» chiese Brown con una certa meraviglia.
+
+     «Intendo una pallottola nel cervello», replicò Flambeau.
+«Non conosci la storia del defunto Principe di questo luogo?
+Fu uno dei grandi misteri polizieschi di circa vent'anni fa.
+Ricorderai, naturalmente, che questo luogo fu annesso con la forza
+all'epoca dei primissimi disegni di consolidamento di Bismarck --
+con la forza, sì, ma non affatto con facilità. L'impero (o ciò che
+aspirava ad esserlo) mandò il Principe Otto di Grossenmark a governare il luogo
+nell'interesse imperiale. Abbiamo visto il suo ritratto là nella galleria --
+un bel vecchio signore, se avesse avuto capelli e sopracciglia,
+e non fosse stato tutto rugoso come un avvoltoio; ma aveva
+di che tormentarsi, come ti spiegherò tra un momento. Era un soldato
+di abilità e successo distinti, ma non ebbe affatto un compito
+facile con questo piccolo luogo. Fu sconfitto in parecchie battaglie
+dai celebri fratelli Arnhold -- i tre patrioti guerriglieri
+ai quali Swinburne dedicò una poesia, ricordi:
+
+        Lupi col pelo dell'ermellino,
+          Corvi coronati e re --
+        Queste cose son molte come vermina,
+          Pure Tre a queste cose resisteranno.
+
+O qualcosa del genere. In verità, non è affatto certo
+che l'occupazione sarebbe mai riuscita se uno dei
+tre fratelli, Paul, spregevolmente ma con molta risolutezza non avesse rifiutato
+di resistere ancora a queste cose e, consegnando tutti i segreti
+dell'insurrezione, non ne avesse assicurato la disfatta e la propria ultima promozione
+alla carica di ciambellano del Principe Otto. Dopo di ciò, Ludwig,
+l'unico vero eroe fra gli eroi di Mr Swinburne, fu ucciso,
+spada in pugno, nella presa della città; e il terzo, Heinrich,
+che, pur non essendo un traditore, era sempre stato mansueto e persino timido
+in confronto ai suoi attivi fratelli, si ritirò in una sorta di eremo,
+si convertì a un quietismo cristiano quasi quacchero,
+e non ebbe più commercio con gli uomini se non per dare quasi tutto ciò che aveva ai poveri.
+Mi dicono che non molto tempo fa lo si poteva ancora vedere
+di tanto in tanto per il vicinato, un uomo in mantello nero, quasi cieco,
+con capelli bianchissimi e scarmigliati, ma con un volto di sorprendente dolcezza.»
+
+     «Lo so», disse Padre Brown. «L'ho visto una volta.»
+
+     L'amico lo guardò con una certa sorpresa. «Non sapevo
+che tu fossi già stato qui», disse. «Forse ne sai quanto
+me. Comunque, questa è la storia degli Arnhold, ed egli fu
+l'ultimo superstite di essi. Sì, e di tutti gli uomini che ebbero una parte
+in quel dramma.»
+
+     «Vuoi dire che anche il Principe morì assai tempo fa?»
+
+     «Morì», ripeté Flambeau, «ed è press'a poco tutto ciò che possiamo dire.
+Devi capire che verso la fine della sua vita cominciò
+ad avere quei tic nervosi non insoliti nei tiranni.
+Moltiplicò la consueta guardia diurna e notturna intorno al suo castello
+finché parvero esservi più garitte che case in città,
+e i tipi sospetti venivano fucilati senza pietà. Viveva quasi interamente
+in una stanzetta che stava proprio al centro dell'enorme labirinto
+di tutte le altre stanze, e persino in questa aveva eretto un'altra sorta di
+cabina o armadio centrale, rivestita d'acciaio, come una cassaforte o una corazzata.
+Alcuni dicono che sotto il pavimento di questa vi fosse a sua volta una buca segreta nella terra,
+non più grande del necessario per contenerlo, cosicché, nella sua ansia
+di evitare la tomba, era disposto a cacciarsi in un luogo che ad essa somigliava assai.
+Ma andò ancora oltre. Si supponeva che la popolazione fosse stata disarmata
+fin dalla repressione della rivolta, ma Otto ora insisté,
+come assai di rado i governi insistono, su un disarmo assoluto e letterale.
+Fu attuato, con straordinaria minuzia e severità,
+da funzionari benissimo organizzati su un'area piccola e ben nota, e,
+per quanto la forza e la scienza umana possano essere assolutamente certe di qualcosa,
+il Principe Otto era assolutamente certo che nessuno potesse introdurre neppure
+una pistola giocattolo a Heiligwaldenstein.»

@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/wifrb11-(chesterton)">The Wisdom of Father Brown</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/wifrb11/story_09_the_god_of_the_gongs/part_02">‹ part 02</a><a class="ex-next" href="/testi/chesterton/atomized/wifrb11/story_09_the_god_of_the_gongs/part_04">part 04 ›</a></div>
@@ -128,3 +130,128 @@ because it was under that bandstand affair.  But I'm afraid I didn't
 describe him so very accurately after all, for his pince-nez
 was broken under him, and the long gold pin wasn't stuck through
 his purple scarf but through his heart."
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/wifrb11-(chesterton)">The Wisdom of Father Brown</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/wifrb11/story_09_the_god_of_the_gongs/part_02">‹ part 02</a><a class="ex-next" href="/testi/chesterton/atomized/wifrb11/story_09_the_god_of_the_gongs/part_04">part 04 ›</a></div>
+</nav>
+
+# [[wifrb11]] — Il dio dei gong (parte 3)
+
+     Il silenzio che seguì fu rotto dal loro ospite che disse tranquillamente:
+«Dove l'avete incontrato, quell'unico uomo, durante il vostro cammino?»
+
+     «Cosa abbastanza curiosa,» rispose il prete, «qui vicino...
+proprio presso quel palco dell'orchestra.»
+
+     Flambeau, che s'era seduto sulla lunga panchina di ferro a finire il suo sherry,
+lo posò e si alzò in piedi, fissando l'amico con stupore.
+Aprì la bocca per parlare, e poi la richiuse.
+
+     «Curioso,» disse pensieroso l'uomo dai capelli scuri. «Com'era?»
+
+     «Era piuttosto buio quando l'ho visto,» cominciò Padre Brown,
+«ma era...»
+
+     Come s'è detto, si può provare che l'albergatore aveva detto
+la precisa verità. La sua frase, che il cuoco sarebbe partito tra poco,
+si adempì alla lettera, poiché il cuoco venne fuori, infilandosi i guanti,
+proprio mentre parlavano.
+
+     Ma era una figura assai diversa dalla confusa massa
+di bianco e nero apparsa per un istante sulla soglia.
+Era abbottonato e affibbiato fin sopra gli occhi sporgenti nella maniera più
+sfolgorante. Un alto cilindro nero era inclinato sulla sua larga testa nera:
+un cappello di quelli che l'arguzia francese ha paragonato a otto specchi.
+Ma in qualche modo l'uomo nero era come il cappello nero. Anch'egli era nero,
+eppure la sua pelle lustra rimandava la luce da otto angoli o più.
+È inutile dire che portava ghette bianche e un panciotto con la parte interna bianca.
+Il fiore rosso spiccava aggressivamente all'occhiello,
+come se vi fosse cresciuto d'improvviso. E nel modo in cui reggeva il bastone
+in una mano e il sigaro nell'altra c'era un certo atteggiamento:
+un atteggiamento che dobbiamo sempre ricordare quando parliamo di pregiudizi razziali,
+qualcosa di innocente e insolente insieme: il cake walk.
+
+     «A volte,» disse Flambeau, seguendolo con lo sguardo, «non mi stupisce
+che li linciano.»
+
+     «Io non mi stupisco mai,» disse Padre Brown, «di nessuna opera dell'inferno.
+Ma, come stavo dicendo,» riprese, mentre il negro, sempre ostentatamente
+infilandosi i guanti gialli, si avviava a passo svelto verso
+la località balneare, bizzarra figura da café-chantant contro quello scenario grigio e
+gelido... «come stavo dicendo, non saprei descrivere l'uomo con molta minuzia,
+ma aveva un che di sfarzoso e favoriti e baffi all'antica,
+scuri o tinti, come nei ritratti dei finanzieri stranieri, e attorno al collo
+aveva avvolta una lunga sciarpa purpurea che sventolava al vento mentre camminava.
+Era fermata alla gola all'incirca nel modo in cui le bambinaie
+fermano le sciarpine dei bambini con una spilla di sicurezza. Solo che questa,»
+aggiunse il prete, guardando placidamente verso il mare, «non era una spilla di sicurezza.»
+
+     Anche l'uomo seduto sulla lunga panca di ferro guardava placidamente
+verso il mare. Ora era di nuovo in riposo. Flambeau ebbe la piena certezza
+che uno dei suoi occhi era per natura più grande dell'altro.
+Ora erano entrambi bene aperti, e gli parve quasi che l'occhio sinistro
+si facesse più grande mentre fissava.
+
+     «Era uno spillone d'oro molto lungo, e aveva la testa intagliata di una scimmia
+o di qualcosa di simile,» continuò l'ecclesiastico; «ed era fermato
+in un modo piuttosto singolare... l'uomo portava un pince-nez e un largo nero...»
+
+     L'uomo immobile continuava a fissare il mare, e gli occhi
+nella sua testa avrebbero potuto appartenere a due uomini diversi. Poi fece
+un movimento di accecante rapidità.
+
+     Padre Brown gli dava le spalle, e in quel lampo sarebbe potuto
+cadere morto a faccia in giù. Flambeau non aveva armi, ma le sue grandi
+mani brune erano posate sull'estremità della lunga panchina di ferro.
+Le sue spalle mutarono di colpo forma, ed egli sollevò
+l'intera enorme cosa alta sopra il capo, come la scure di un boia
+sul punto di calare. La sola altezza dell'oggetto, mentre lo teneva verticale,
+somigliava a una lunga scala di ferro con cui invitava gli uomini a salire
+verso le stelle. Ma la lunga ombra, nella luce radente della sera,
+somigliava a un gigante che brandiva la Torre Eiffel. Fu lo shock
+di quell'ombra, prima dello shock del fragore del ferro, a far sì che lo sconosciuto
+sussultasse e schivasse, e poi si precipitasse nella sua locanda, lasciando il piatto e
+lucente pugnale che aveva lasciato cadere esattamente dov'era caduto.
+
+     «Dobbiamo andarcene di qui all'istante,» gridò Flambeau,
+scagliando via l'enorme panchina sulla spiaggia con furiosa indifferenza.
+Afferrò il piccolo prete per il gomito e lo trascinò di corsa lungo
+una grigia prospettiva di sterile giardino sul retro, in fondo alla quale c'era
+una porta chiusa che dava sul retro. Flambeau vi si chinò sopra un istante
+in violento silenzio, e poi disse: «La porta è chiusa a chiave.»
+
+     Mentre parlava, una nera penna da uno degli abeti ornamentali cadde,
+sfiorando la tesa del suo cappello. Lo spaventò più della piccola
+e lontana detonazione che era giunta poco prima. Poi venne un'altra
+lontana detonazione, e la porta che stava cercando di aprire tremò
+sotto la pallottola conficcatavisi dentro. Le spalle di Flambeau si gonfiarono di nuovo
+e mutarono di colpo. Tre cardini e una serratura scoppiarono nel medesimo istante,
+ed egli uscì nel vuoto sentiero retrostante, portando con sé la grande porta del giardino,
+come Sansone portò le porte di Gaza.
+
+     Poi scagliò la porta del giardino oltre il muro di cinta, proprio mentre
+un terzo colpo sollevava uno schizzo di neve e polvere dietro il suo calcagno.
+Senza tante cerimonie afferrò il piccolo prete, se lo issò a cavalcioni
+sulle spalle, e si mise a correre verso Seawood più veloce che
+le lunghe gambe potessero portarlo. Fu solo dopo quasi due miglia
+più avanti che depose il suo piccolo compagno. Non era stata precisamente
+una fuga dignitosa, malgrado il classico modello di Anchise,
+ma il volto di Padre Brown non portava che un largo sogghigno.
+
+     «Ebbene,» disse Flambeau, dopo un impaziente silenzio, mentre riprendevano
+la loro più convenzionale camminata per le strade sul limitare della città,
+dove non v'era da temere alcuna violenza, «non so che cosa significhi tutto questo,
+ma suppongo di potermi fidare dei miei occhi che voi non avete mai incontrato l'uomo
+che avete descritto con tanta precisione.»
+
+     «In un certo senso l'ho incontrato davvero,» disse Brown, mordendosi il dito
+piuttosto nervosamente... «l'ho incontrato per davvero. Ed era troppo buio per vederlo bene,
+perché era sotto quella faccenda del palco dell'orchestra. Ma temo di non averlo
+descritto poi così tanto accuratamente, perché il suo pince-nez
+era rotto sotto di lui, e il lungo spillone d'oro non era conficcato
+nella sua sciarpa purpurea, ma nel suo cuore.»

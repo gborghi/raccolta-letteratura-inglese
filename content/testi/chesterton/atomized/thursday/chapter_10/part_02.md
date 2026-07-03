@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/thursday-(chesterton)">The Man Who Was Thursday</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/thursday/chapter_10/part_01">‹ part 01</a><a class="ex-next" href="/testi/chesterton/atomized/thursday/chapter_10/part_03">part 03 ›</a></div>
@@ -128,3 +130,128 @@ twin swords, which took the sunlight and turned to two streaks of white [[Fire|f
 He offered one to the Marquis, who snatched it without ceremony,
 and another to Syme, who took it, bent it, and poised it with as much
 delay as was consistent with dignity.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/thursday-(chesterton)">The Man Who Was Thursday</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/thursday/chapter_10/part_01">‹ part 01</a><a class="ex-next" href="/testi/chesterton/atomized/thursday/chapter_10/part_03">part 03 ›</a></div>
+</nav>
+
+# [[thursday]] — Capitolo 10 (parte 2)
+
+«Perbacco!» disse Syme, girandosi a guardarlo,
+«che tipo intelligente siete!»
+
+Il Marchese balzò in piedi con occhi fiammeggianti come quelli di una tigre.
+
+«Cercare briga con me!» gridò.  «Cercar rissa con me!
+Per Dio! non c'è mai stato uomo che dovesse cercar a lungo.  Questi signori
+faranno forse da padrini per me.  Restano ancora quattro ore di luce.
+Battiamoci stasera.»
+
+Syme s'inchinò con una grazia del tutto squisita.
+
+«Marchese», disse, «la vostra azione è degna della vostra fama e del vostro [[Blood|sangue]].
+Permettete che mi consulti un istante coi signori nelle cui mani
+mi rimetterò.»
+
+In tre lunghe falcate raggiunse i suoi compagni, i quali,
+avendo visto il suo attacco ispirato dallo champagne e ascoltato le sue
+idiote spiegazioni, rimasero del tutto trasecolati dal suo aspetto.
+Poiché ora che tornava da loro era del tutto sobrio, un po' pallido,
+e parlava a voce bassa con appassionata praticità.
+
+«L'ho fatto», disse con voce roca.  «Ho impegnato un duello con la bestia.
+Ma sentite qui, e ascoltate attentamente.  Non c'è [[Time|tempo]] per chiacchierare.
+Voi siete i miei padrini, e tutto deve venire da voi.
+Ora dovete insistere, e insistere assolutamente, perché il duello abbia luogo
+dopo le sette di domattina, così da darmi modo di impedirgli
+di prendere il treno delle 7.45 per [[Paris|Parigi]].  Se lo perde, perde il suo delitto.
+Non può rifiutare d'incontrarvi su un punto così piccolo di [[Time|tempo]] e luogo.
+Ma ecco che cosa farà.  Sceglierà un campo da qualche parte
+vicino a una stazione lungo la linea, dove possa prendere il treno.
+È un ottimo spadaccino, e conterà di uccidermi
+in [[Time|tempo]] per prenderlo.  Ma anch'io tiro di scherma [[Well|bene]], e credo di
+poterlo tenere impegnato, quanto meno, finché il treno non sia perduto.
+Poi forse mi ucciderà per consolare i suoi sentimenti.  Capite?
+Molto [[Well|bene]], allora, lasciate che vi presenti a certi miei incantevoli amici»,
+e conducendoli in fretta attraverso la passeggiata, li presentò
+ai padrini del Marchese con due nomi assai aristocratici che essi
+non avevano mai udito prima.
+
+Syme era soggetto a spasmi di singolare buon senso, per il resto non parte
+del suo carattere.  Erano (come diceva del suo impulso a proposito degli occhiali)
+intuizioni poetiche, e talora [[Rose|salivano]] fino all'esaltazione della profezia.
+
+Egli aveva in questo caso correttamente calcolato la politica del suo avversario.
+Quando il Marchese fu informato dai suoi padrini che Syme poteva battersi
+soltanto al mattino, dovette comprendere appieno che un ostacolo si era d'improvviso
+frapposto tra lui e la sua faccenda di lanciar bombe nella capitale.
+Naturalmente non poteva spiegare tale obiezione ai suoi amici, e perciò scelse
+il corso che Syme aveva predetto.  Indusse i suoi padrini a fissare
+un piccolo prato non lontano dalla ferrovia, e si affidò alla fatalità
+del primo scontro.
+
+Quando scese con gran freddezza sul terreno dell'[[Honour|onore]], nessuno
+avrebbe potuto indovinare che nutrisse alcuna ansia per un [[Journey|viaggio]];
+teneva le mani in tasca, il cappello di paglia sulla nuca,
+il bel volto sfrontato al sole.  Ma a un estraneo sarebbe potuto
+parere strano che al suo seguito comparissero non soltanto i suoi
+padrini che recavano la custodia delle [[Sword|spade]], ma anche due dei suoi
+servitori che portavano una valigia e un cesto per la colazione.
+
+Per quanto fosse presto, il sole intrideva ogni cosa di tepore,
+e Syme fu vagamente sorpreso di vedere tanti [[Flowers|fiori]] di [[spring|primavera]]
+ardere d'oro e d'argento tra l'erba alta in cui l'intera
+compagnia stava quasi affondata fino al ginocchio.
+
+A eccezione del Marchese, tutti gli uomini erano in tenuta da mattino
+cupa e solenne, con cappelli come neri comignoli;
+il piccolo Dottore soprattutto, con l'aggiunta dei suoi
+occhiali neri, pareva un impresario di pompe funebri in una farsa.
+Syme non poté fare a meno di avvertire un comico contrasto tra questa
+funerea parata da chiesa di indumenti e il ricco e scintillante prato,
+tutto punteggiato di [[Flowers|fiori]] selvatici.  Ma, in verità, questo comico contrasto
+tra i gialli fiori e i neri cappelli non era che un simbolo del
+tragico contrasto tra i gialli fiori e la nera faccenda.
+Alla sua destra c'era un boschetto; lontano alla sua sinistra si stendeva
+la lunga curva della linea ferroviaria, che egli, per così dire,
+custodiva contro il Marchese, per il quale era meta e via di fuga.
+Davanti a sé, dietro il nero gruppo dei suoi avversari,
+poteva scorgere, simile a una nube colorata, un piccolo mandorlo in fiore
+contro la tenue linea del mare.
+
+Il membro della Legion d'[[Honour|Onore]], che di nome pareva chiamarsi colonnello Ducroix,
+si accostò a [[The Professor|il Professore]] e al dottor Bull con gran cortesia, e propose
+che il combattimento terminasse alla prima ferita di rilievo.
+
+Il dottor Bull, tuttavia, essendo stato accuratamente istruito da Syme su questo
+punto di condotta, insisté, con gran dignità e in pessimo francese,
+perché continuasse finché uno dei combattenti non fosse messo fuori combattimento.
+Syme aveva stabilito che avrebbe potuto evitare di mettere fuori combattimento il Marchese
+e impedire al Marchese di mettere fuori combattimento lui per almeno venti minuti.
+In venti minuti il treno per [[Paris|Parigi]] sarebbe passato.
+
+«Per un uomo della [[Well|ben]] nota abilità e del valore di Monsieur de
+St. Eustache», disse [[The Professor|il Professore]] solennemente, «dev'essere del tutto
+indifferente quale metodo si adotti, e il nostro principale
+ha forti ragioni per esigere lo scontro più lungo,
+ragioni la cui delicatezza mi impedisce di essere esplicito,
+ma della cui giusta e onorevole [[Nature|natura]] io posso...»
+
+«Peste!» eruppe il Marchese da dietro, il cui volto si era d'improvviso rabbuiato,
+«smettiamo di parlare e cominciamo», e con il bastone recise la testa di un alto
+fiore.
+
+Syme comprese la sua rude impazienza e istintivamente guardò
+oltre la spalla per vedere se il treno fosse in vista.
+Ma all'orizzonte non c'era fumo.
+
+Il colonnello Ducroix si inginocchiò e aprì la custodia, estraendone un paio di
+spade gemelle, che presero la luce del sole e si mutarono in due strisce di bianco [[Fire|fuoco]].
+Ne offrì una al Marchese, che l'afferrò senza cerimonie,
+e un'altra a Syme, che la prese, la piegò e la soppesò con tutto l'indugio
+compatibile con la dignità.

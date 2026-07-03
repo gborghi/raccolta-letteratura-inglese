@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/innocence-(chesterton)">The Innocence of Father Brown</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/innocence/story_05_the_invisible_man/part_02">‹ part 02</a><a class="ex-next" href="/testi/chesterton/atomized/innocence/story_05_the_invisible_man/part_04">part 04 ›</a></div>
@@ -151,3 +153,151 @@ and the agile inventor had snatched it up almost as soon
 as the door flew open.  He handed it to Angus without a word.
 The red ink on it actually was not dry, and the message ran,
 "If you have been to see her today, I shall kill you."
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/innocence-(chesterton)">The Innocence of Father Brown</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/innocence/story_05_the_invisible_man/part_02">‹ part 02</a><a class="ex-next" href="/testi/chesterton/atomized/innocence/story_05_the_invisible_man/part_04">part 04 ›</a></div>
+</nav>
+
+# [[innocence]] — L’uomo invisibile (parte 3)
+
+Il signor Smythe, tuttavia, non fece alcuna allusione al fondamento ultimo
+del loro antagonismo, ma disse semplicemente e in modo esplosivo:
+«La signorina Hope ha visto quella cosa sulla vetrina?»
+
+«Sulla vetrina?» ripeté Angus, sbalordito.
+
+«Non c’è tempo di spiegare altre cose», disse il piccolo
+milionario in tono breve. «Qui c’è in corso qualche pagliacciata
+che dev’essere indagata.»
+
+Puntò il suo lucido bastone da passeggio verso la vetrina,
+recentemente sguarnita dai preparativi nuziali del signor Angus;
+e quel gentiluomo rimase stupito nel vedere lungo la parte anteriore
+del vetro una lunga striscia di carta incollata, che certamente non
+c’era sulla vetrina quando l’aveva guardata attraverso poco prima.
+Seguendo l’energico Smythe fuori nella strada,
+scoprì che un metro e mezzo circa di carta da bollo era stata
+accuratamente incollata lungo il vetro all’esterno, e su di essa era scritto
+in caratteri sbilenchi: «Se sposi Smythe, egli morirà.»
+
+«Laura», disse Angus, sporgendo la sua grande testa rossa nella bottega,
+«non sei pazza.»
+
+«È la scrittura di quel tale Welkin», disse Smythe burbero.
+«Non lo vedo da anni, ma non smette mai di importunarmi.
+Cinque volte nelle ultime due settimane mi sono state lasciate lettere
+minatorie al mio appartamento, e non riesco nemmeno a scoprire chi le lascia,
+figuriamoci se sia Welkin stesso. Il portiere del palazzo
+giura che non è stato visto alcun personaggio sospetto, e qui
+lui incolla una specie di zoccolatura sulla vetrina di una bottega pubblica,
+mentre la gente nella bottega…»
+
+«Appunto», disse Angus con modestia, «mentre la gente nella bottega
+prendeva il tè. Ebbene, signore, posso assicurarle che apprezzo
+il suo buon senso nell’affrontare la faccenda in modo così diretto.
+Delle altre cose potremo parlare in seguito. Il tale non può
+essere ancora molto lontano, poiché giuro che non c’era carta lì
+quando andai l’ultima volta alla vetrina, dieci o quindici minuti fa.
+D’altro canto, è troppo lontano per essere inseguito, dato che non ne
+conosciamo nemmeno la direzione. Se vuol seguire il mio consiglio, signor Smythe,
+metta subito la cosa nelle mani di un energico investigatore,
+privato piuttosto che pubblico. Conosco un tizio straordinariamente in gamba,
+che si è messo in affari a cinque minuti da qui con la sua auto.
+Si chiama Flambeau, e benché la sua giovinezza sia stata un po’ burrascosa,
+adesso è un uomo rigorosamente onesto, e il suo cervello vale denaro.
+Abita a Lucknow Mansions, a Hampstead.»
+
+«È strano», disse l’ometto, inarcando le nere sopracciglia.
+«Io stesso abito a Himylaya Mansions, dietro l’angolo.
+Forse le farebbe piacere venire con me; posso salire nelle mie stanze
+e mettere in ordine questi curiosi documenti di Welkin, mentre lei corre
+a prendere il suo amico investigatore.»
+
+«Lei è molto gentile», disse Angus con cortesia. «Ebbene, prima
+agiamo, meglio è.»
+
+Entrambi gli uomini, con una strana specie di improvvisata correttezza, presero il medesimo
+formale congedo dalla signora, e balzarono entrambi nella svelta automobiletta.
+Mentre Smythe impugnava le leve e svoltavano il grande angolo della strada,
+Angus si divertì a vedere un gigantesco manifesto del “Silent Service di Smythe”,
+con l’immagine di un’enorme bambola di ferro senza testa, che reggeva una casseruola con
+la leggenda: «Una cuoca che non è mai imbronciata.»
+
+«Le uso nel mio stesso appartamento», disse l’ometto dalla barba nera,
+ridendo, «in parte per réclame, e in parte per reale comodità.
+Onestamente, e in tutta chiarezza, quelle mie grandi bambole a orologeria
+vi portano il carbone o il chiaretto o un orario ferroviario più in fretta di qualsiasi
+servitore in carne e ossa io abbia mai conosciuto, se sapete quale manopola premere.
+Ma non negherò mai, tra noi, che tali servitori hanno
+anche i loro svantaggi.»
+
+«Davvero?» disse Angus; «c’è qualcosa che non sanno fare?»
+
+«Sì», rispose Smythe con freddezza; «non sanno dirmi chi ha lasciato quelle lettere
+minatorie al mio appartamento.»
+
+L’automobile dell’uomo era piccola e veloce come lui; anzi,
+al pari del suo servizio domestico, era di sua propria invenzione. Se era
+un ciarlatano della réclame, era di quelli che credono nella propria mercanzia.
+La sensazione di qualcosa di minuscolo e volante era accentuata mentre risalivano
+lunghe curve bianche di strada nella spenta ma aperta luce del vespro.
+Presto le curve bianche si fecero più nette e più vertiginose; erano su
+spirali ascendenti, come si dice nelle religioni moderne.
+Poiché, in verità, stavano superando la cresta di un angolo di Londra che è quasi
+scosceso come Edimburgo, se non altrettanto pittoresco.
+Terrazza si levava sopra terrazza, e la particolare torre di appartamenti
+che cercavano si levava sopra tutte a un’altezza quasi egizia,
+dorata dal tramonto radente. Il mutamento, mentre svoltavano l’angolo
+ed entravano nel semicerchio noto come Himylaya Mansions, fu tanto
+brusco quanto l’aprirsi di una finestra; poiché trovarono quella mole
+di appartamenti posata sopra Londra come sopra un verde mare d’ardesia.
+Di fronte al palazzo, sull’altro lato del semicerchio ghiaioso,
+c’era un recinto cespuglioso più simile a una ripida siepe o argine che a un giardino,
+e un po’ più in basso scorreva una striscia d’acqua artificiale,
+una sorta di canale, come il fossato di quella fortezza inghirlandata di verde.
+Mentre l’auto girava attorno al semicerchio passò, a un angolo, la sperduta
+bancarella di un uomo che vendeva castagne; e proprio in fondo, all’altra estremità
+della curva, Angus poté scorgere un fioco poliziotto azzurro che camminava lentamente.
+Erano le uniche forme umane in quell’alta solitudine suburbana;
+ma egli ebbe l’irrazionale sensazione che esse esprimessero la muta
+poesia di Londra. Si sentì come se fossero figure in un racconto.
+
+L’automobiletta sfrecciò fino alla casa giusta come una pallottola, e sparò fuori
+il suo proprietario come una granata. Egli stava già domandando a un alto
+usciere in gallone lucente, e a un basso portiere in maniche di camicia,
+se qualcuno o qualcosa avesse cercato il suo appartamento.
+Gli fu assicurato che nessuno e nulla era passato dinanzi a quei funzionari
+dalle sue ultime domande; dopodiché lui e il leggermente sconcertato
+Angus furono sparati su per l’ascensore come un razzo, finché raggiunsero
+l’ultimo piano.
+
+«Entri solo un momento», disse Smythe ansante. «Voglio
+mostrarle quelle lettere di Welkin. Poi potrebbe fare un salto dietro l’angolo
+e andare a prendere il suo amico.» Premette un bottone nascosto nel muro,
+e la porta si aprì da sé.
+
+Si aprì su una lunga, comoda anticamera, di cui gli unici
+tratti degni di nota, in condizioni normali, erano le file di alte
+figure meccaniche semiumane che si ergevano su entrambi i lati
+come manichini da sarto. Come manichini da sarto erano senza testa;
+e come manichini da sarto avevano una bella superflua gobbosità
+nelle spalle, e una sporgenza pettoruta del torace;
+ma a parte questo, non somigliavano a una figura umana più di
+qualsiasi macchina automatica di una stazione che sia all’incirca dell’altezza di un uomo.
+Avevano due grandi ganci a mo’ di braccia, per portare vassoi;
+ed erano dipinti verde pisello, o vermiglio, o nero
+per comodità di distinzione; in ogni altro senso erano
+soltanto macchine automatiche e nessuno le avrebbe guardate
+due volte. In quell’occasione, almeno, nessuno lo fece.
+Poiché tra le due file di questi manichini domestici giaceva qualcosa
+di più interessante di gran parte dei congegni del mondo.
+Era un bianco, lacero brandello di carta scarabocchiato con inchiostro rosso;
+e l’agile inventore l’aveva ghermito quasi non appena
+la porta si era spalancata. Lo porse ad Angus senza una parola.
+L’inchiostro rosso su di esso in realtà non era asciutto, e il messaggio diceva:
+«Se sei stato a trovarla oggi, ti ucciderò.»

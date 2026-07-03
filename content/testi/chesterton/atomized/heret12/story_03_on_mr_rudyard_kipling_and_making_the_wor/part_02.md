@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/heret12-(chesterton)">Heretics</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/heret12/story_03_on_mr_rudyard_kipling_and_making_the_wor/part_01">‹ part 01</a><a class="ex-next" href="/testi/chesterton/atomized/heret12/story_03_on_mr_rudyard_kipling_and_making_the_wor/part_03">part 03 ›</a></div>
@@ -118,3 +120,118 @@ In speaking of the really patriotic peoples, such as the Irish, he has
 some difficulty in keeping a shrill irritation out of his language.
 The frame of mind which he really describes with [[Beauty|beauty]] and nobility is
 the frame of mind of the cosmopolitan man who has seen men and cities.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/heret12-(chesterton)">Heretics</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/heret12/story_03_on_mr_rudyard_kipling_and_making_the_wor/part_01">‹ part 01</a><a class="ex-next" href="/testi/chesterton/atomized/heret12/story_03_on_mr_rudyard_kipling_and_making_the_wor/part_03">part 03 ›</a></div>
+</nav>
+
+# [[heret12]] — Su Rudyard Kipling e sul rimpicciolire il mondo (parte 2)
+
+Ora, il messaggio di Rudyard Kipling, quello su cui egli si è
+davvero concentrato, è la sola cosa per cui valga la pena affannarsi
+in lui o in qualunque altro uomo.  Egli ha spesso scritto
+cattiva poesia, come Wordsworth.  Ha spesso detto sciocchezze,
+come Platone.  Ha spesso ceduto a una mera isteria politica,
+come Gladstone.  Ma nessuno può ragionevolmente [[Doubt|dubitare]] che egli intenda
+in modo costante e sincero dire qualcosa, e la sola questione seria
+è: che cos'è ciò che egli ha tentato di dire?
+Forse il modo migliore per esporlo con equità sarà cominciare
+da quell'elemento su cui più hanno insistito lui stesso
+e i suoi avversari: intendo il suo interesse per il militarismo.
+Ma quando cerchiamo i veri meriti di un uomo è imprudente
+rivolgersi ai suoi nemici, e assai più sciocco rivolgersi a lui stesso.
+
+Ora, Mr. Kipling ha certamente torto nella sua adorazione del militarismo,
+ma i suoi avversari hanno, in generale, torto quanto lui.
+Il male del militarismo non è che esso mostra certi uomini feroci
+e altezzosi ed eccessivamente bellicosi.  Il male del militarismo è che esso
+mostra la maggior parte degli uomini docili e timidi ed eccessivamente pacifici.
+Il soldato di professione acquista sempre più potere man mano che il [[Courage|coraggio]] generale
+di una comunità declina.  Così la guardia pretoriana divenne sempre più
+importante in Roma man mano che Roma divenne sempre più lussuosa e fiacca.
+L'uomo militare acquista il potere civile nella misura in cui il civile
+perde le virtù militari.  E come fu nell'[[Ancient Rome|antica Roma]] così
+è nell'Europa contemporanea.  Non vi fu mai un [[Time|tempo]] in cui le nazioni fossero
+più militariste.  Non vi fu mai un [[Time|tempo]] in cui gli uomini fossero meno coraggiosi.
+Tutte le epoche e tutte le epopee hanno cantato le armi e l'uomo; ma noi abbiamo
+attuato simultaneamente il deterioramento dell'uomo e la fantastica
+perfezione delle armi.  Il militarismo dimostrò la decadenza di Roma,
+e dimostra la decadenza della Prussia.
+
+E inconsapevolmente Mr. Kipling ha provato questo, e l'ha provato mirabilmente.
+Poiché, nella misura in cui la sua opera è compresa seriamente, il mestiere militare
+non emerge affatto come il più importante o attraente.  Non ha
+scritto tanto [[Well|bene]] dei soldati quanto ha scritto dei ferrovieri o dei costruttori di ponti,
+o perfino dei giornalisti.  Il fatto è che ciò che attrae Mr. Kipling
+verso il militarismo non è l'idea del [[Courage|coraggio]], ma l'idea della disciplina.
+Vi era assai più [[Courage|coraggio]] per miglio quadrato nel Medioevo,
+quando nessun [[King|re]] aveva un esercito permanente, ma ogni uomo aveva un arco o una [[Sword|spada]].
+Ma il fascino che l'esercito permanente esercita su Mr. Kipling non è il [[Courage|coraggio]],
+che a stento lo interessa, bensì la disciplina, che è, quando tutto è detto
+e fatto, il suo tema primario.  L'esercito moderno non è un miracolo di [[Courage|coraggio]];
+non ha abbastanza occasioni, a causa della viltà di tutti gli altri.
+Ma è davvero un miracolo di organizzazione, e questo è il vero
+ideale kiplinghiano.  Il soggetto di Kipling non è quel valore che propriamente
+appartiene alla guerra, ma quell'interdipendenza ed efficienza che appartiene
+altrettanto agli ingegneri, o ai marinai, o ai muli, o alle locomotive.
+E così accade che, quando scrive di ingegneri, o di marinai,
+o di muli, o di macchine a vapore, egli scriva al suo meglio.  La vera poesia,
+il «vero [[Romance|Romanzo]]» che Mr. Kipling ha insegnato, è il [[Romance|romanzo]]
+della divisione del lavoro e della disciplina di tutti i mestieri.
+Egli canta le arti della pace assai più esattamente delle arti della guerra.
+E la sua tesi principale è vitale e preziosa.  Ogni cosa è militare
+nel senso che ogni cosa dipende dall'obbedienza.  Non vi è
+angolo perfettamente epicureo; non vi è luogo perfettamente irresponsabile.
+Ovunque gli uomini hanno aperto la strada per noi con sudore e sottomissione.
+Possiamo gettarci in un'amaca in un impeto di divina noncuranza.
+Ma siamo lieti che il fabbricante di reti non abbia fatto l'amaca in un impeto di
+divina noncuranza.  Possiamo saltare sul [[Horse|cavallo]] a dondolo di un [[Child|bambino]] per scherzo.
+Ma siamo lieti che il falegname non ne abbia lasciato le gambe non incollate
+per scherzo.  Ben lungi dall'aver semplicemente predicato che un soldato che pulisce
+la sua arma da fianco vada adorato perché è militare, Kipling al suo meglio
+e più limpido ha predicato che il fornaio che sforna pagnotte e il sarto
+che taglia abiti sono militari quanto chiunque altro.
+
+Devoto a questa moltitudinaria visione del dovere, Mr. Kipling
+è naturalmente un cosmopolita.  Gli càpita di trovare i suoi esempi
+nell'Impero britannico, ma quasi qualunque altro impero
+andrebbe altrettanto [[Well|bene]], o, del resto, qualunque altro paese assai civilizzato.
+Ciò che egli ammira nell'esercito britannico lo troverebbe ancor
+più evidente nell'esercito tedesco; ciò che desidera nella
+polizia britannica lo troverebbe fiorente nella polizia francese.
+L'ideale della disciplina non è la totalità della vita, ma è
+diffuso per tutto il mondo.  E la sua adorazione tende
+a confermare in Mr. Kipling una certa nota di saggezza mondana,
+dell'esperienza del viandante, che è uno dei genuini
+fascini della sua opera migliore.
+
+La grande lacuna nella sua mente è ciò che si può grossolanamente chiamare
+la mancanza di patriottismo: vale a dire, gli manca del tutto
+la facoltà di legarsi a una qualunque causa o comunità
+in modo definitivo e tragico; poiché ogni definitività dev'essere tragica.
+Egli ammira l'Inghilterra, ma non l'[[Love|ama]]; poiché ammiriamo
+le cose con ragioni, ma le [[Love|amiamo]] senza ragioni.
+Egli ammira l'Inghilterra perché è forte, non perché
+è inglese.  Non vi è alcuna asprezza nel dire ciò, poiché, per rendergli
+giustizia, egli lo confessa con la sua consueta pittoresca schiettezza.
+In una poesia assai interessante, egli dice che...
+
+  «Se l'Inghilterra fosse ciò che l'Inghilterra sembra»
+
+...cioè, debole e inefficiente; se l'Inghilterra non fosse ciò che (com'egli crede)
+è, cioè, potente e pratica...
+
+  «Con che sveltezza la molleremmo! Ma non lo è!»
+
+Egli ammette, cioè, che la sua devozione è il risultato di una critica,
+e questo basta ampiamente a collocarla in una categoria del tutto diversa da
+quella del patriottismo dei Boeri, che egli braccò nel Sudafrica.
+Nel parlare dei popoli davvero patriottici, come gli Irlandesi, egli ha
+qualche difficoltà a tenere una stridula irritazione fuori dal suo linguaggio.
+Lo stato d'animo che egli davvero descrive con [[Beauty|bellezza]] e nobiltà è
+lo stato d'animo dell'uomo cosmopolita che ha veduto uomini e città.

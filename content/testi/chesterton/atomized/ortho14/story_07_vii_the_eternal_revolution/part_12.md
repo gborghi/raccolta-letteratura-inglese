@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/ortho14-(chesterton)">Orthodoxy</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/ortho14/story_07_vii_the_eternal_revolution/part_11">‹ part 11</a><a class="ex-next" href="/testi/chesterton/atomized/ortho14/story_07_vii_the_eternal_revolution/part_13">part 13 ›</a></div>
@@ -116,3 +118,116 @@ bewilders the intellect utterly quiets the heart:  but out of the [[Desert|deser
 from the dry places and the dreadful suns, come the cruel children
 of the lonely God; the real Unitarians who with scimitar in hand
 have laid waste the world.  For it is not [[Well|well]] for God to be [[Alone|alone]].
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/ortho14-(chesterton)">Orthodoxy</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/ortho14/story_07_vii_the_eternal_revolution/part_11">‹ part 11</a><a class="ex-next" href="/testi/chesterton/atomized/ortho14/story_07_vii_the_eternal_revolution/part_13">part 13 ›</a></div>
+</nav>
+
+# [[ortho14]] — Vii La rivoluzione eterna (parte 12)
+
+È questo il significato di quella felicità quasi folle negli occhi
+del santo medievale raffigurato nel quadro. È questo il significato
+degli occhi socchiusi della superba immagine buddhista. Il santo cristiano
+è felice perché è stato davvero reciso dal mondo;
+è separato dalle cose e le contempla con stupore.
+Ma perché mai il santo buddhista dovrebbe stupirsi delle cose?
+— giacché in realtà esiste una cosa sola, e questa, essendo impersonale,
+difficilmente può stupirsi di se stessa. Vi sono state molte [[Poems|poesie]] panteistiche
+che suggerivano la [[Wonder|meraviglia]], ma nessuna davvero riuscita. Il panteista
+non può [[Wonder|meravigliarsi]], poiché non può lodare Dio né lodare alcuna cosa come realmente
+distinta da sé. Il nostro compito immediato, qui, riguarda tuttavia
+l'effetto di questa ammirazione cristiana (che si slancia verso l'esterno,
+verso una divinità distinta dall'adoratore) sul bisogno generale
+di attività etica e di [[Reform|riforma]] sociale. E il suo effetto
+è senza dubbio abbastanza evidente. Non c'è alcuna reale possibilità di
+ricavare dal panteismo un qualche impulso particolare all'azione morale.
+Poiché il panteismo implica per sua [[Nature|natura]] che una cosa valga quanto un'altra;
+mentre l'azione implica per sua [[Nature|natura]] che una cosa sia grandemente preferibile
+a un'altra. Swinburne, nella piena [[Summer|estate]] del suo scetticismo, tentò
+invano di lottare con questa difficoltà. Nei "[[songs|Songs]] before Sunrise",
+scritti sotto l'ispirazione di Garibaldi e della rivolta d'[[Italy|Italia]],
+egli proclamava la religione più nuova e il Dio più puro che avrebbe dovuto disseccare
+tutti i sacerdoti del mondo:
+
+    "Che fai tu ora
+     volgendoti a gridare verso Dio
+     io sono io, tu sei tu,
+     io sono in basso, tu sei in alto,
+     io sono te, che tu cerchi di trovarlo, trova solo te stesso,
+          tu sei me."
+
+     Da cui la deduzione immediata ed evidente è che
+i tiranni sono figli di Dio non meno dei Garibaldi; e che
+[[King|re]] Bomba di Napoli, avendo, col massimo [[success|successo]], "trovato se stesso",
+è identico al bene ultimo di tutte le cose. La [[Truth|verità]] è
+che l'energia occidentale che detronizza i tiranni è stata direttamente dovuta
+alla teologia occidentale che dice "io sono io, tu sei tu".
+La stessa separazione spirituale che, guardando in alto, vide un buon [[King|re]]
+nell'universo, guardando in alto vide un cattivo [[King|re]] a Napoli.
+Gli adoratori del dio di Bomba detronizzarono Bomba. Gli adoratori
+del dio di Swinburne hanno coperto l'Asia per secoli e non hanno mai
+detronizzato un [[Tyrant|tiranno]]. Il santo indiano può ragionevolmente chiudere gli occhi
+perché contempla ciò che è Io e Tu e Noi e Loro ed Esso.
+È un'occupazione razionale: ma non è vero in teoria, né è vero
+di fatto, che essa aiuti l'indiano a tenere d'occhio Lord Curzon.
+Quella vigilanza esteriore che è sempre stata il contrassegno del [[Christianity|Cristianesimo]]
+(il comando di VEGLIARE e pregare) si è espressa
+tanto nella tipica ortodossia occidentale quanto nella tipica politica occidentale:
+ma entrambe dipendono dall'idea di una divinità trascendente,
+diversa da noi stessi, di una divinità che scompare. Certo, i più
+sagaci fra i credi possono suggerire che dovremmo inseguire Dio in anelli sempre più
+profondi del labirinto del nostro stesso io. Ma soltanto noi della Cristianità
+abbiamo detto che dovremmo dare la caccia a Dio come a un'aquila sulle [[Mountains|montagne]]:
+e nella caccia abbiamo ucciso ogni mostro.
+
+     Anche qui, dunque, troviamo che, nella misura in cui teniamo alla [[democracy|democrazia]]
+e alle energie di [[Self|auto]]-rinnovamento dell'Occidente, siamo assai più propensi
+a trovarle nella vecchia teologia che nella nuova. Se vogliamo la [[Reform|riforma]],
+dobbiamo aderire all'ortodossia: specialmente in questa materia (così dibattuta
+nei consigli del signor R. J. Campbell), la materia dell'insistere
+sulla divinità immanente o su quella trascendente. Insistendo in modo particolare
+sull'immanenza di Dio otteniamo l'introspezione, l'[[Self|auto]]-isolamento, il quietismo,
+l'indifferenza sociale — il Tibet. Insistendo in modo particolare sulla trascendenza
+di Dio otteniamo la [[Wonder|meraviglia]], la curiosità, l'avventura morale e politica,
+la sacra indignazione — la Cristianità. Insistendo che Dio è dentro l'uomo,
+l'uomo è sempre dentro se stesso. Insistendo che Dio trascende l'uomo,
+l'uomo ha trasceso se stesso.
+
+     Se prendiamo qualsiasi altra dottrina che sia stata detta antiquata,
+troveremo che il caso è lo stesso. È lo stesso, per esempio,
+nella profonda materia della Trinità. Gli unitariani (una setta da non menzionarsi mai
+senza un particolare rispetto per la loro insigne dignità intellettuale
+e per il loro alto [[Honour|onore]] intellettuale) sono spesso riformatori per quell'accidente
+che getta tante piccole sette in un simile atteggiamento. Ma non c'è
+nulla di men che liberale o di affine alla [[Reform|riforma]] nel sostituire
+il puro monoteismo alla Trinità. Il Dio complesso del
+Credo atanasiano potrà essere [[An Enigma|un enigma]] per l'intelletto; ma è
+assai meno probabile che raccolga il mistero e la crudeltà di un Sultano
+del solitario dio di Omar o di Maometto. Il dio che è una mera terribile [[unity|unità]]
+non è soltanto un [[King|re]], ma un [[King|re]] orientale. Il CUORE dell'umanità,
+specialmente dell'umanità europea, è certo assai più appagato
+dagli strani accenni e simboli che si raccolgono intorno all'idea trinitaria,
+l'immagine di un concilio in cui la [[Mercy|misericordia]] perora [[Well|del pari]] alla giustizia,
+la concezione di una sorta di libertà e varietà esistente perfino
+nella più intima camera del mondo. Poiché la religione occidentale ha sempre
+sentito acutamente l'idea "non è [[Well|bene]] che l'uomo sia [[Alone|solo]]".
+L'istinto sociale si affermò ovunque, come quando l'idea orientale
+degli eremiti fu praticamente scacciata dall'idea occidentale dei [[Monks|monaci]].
+Così perfino l'ascetismo divenne fraterno; e i Trappisti erano socievoli
+anche quando tacevano. Se questo [[Love|amore]] di una viva complessità
+è la nostra pietra di paragone, è certamente più sano avere la religione trinitaria
+che l'unitaria. Poiché per noi trinitari (se posso dirlo
+con riverenza) — per noi Dio stesso è una società. È in verità
+un imperscrutabile mistero della teologia, e anche se fossi teologo abbastanza
+da trattarlo direttamente, non sarebbe pertinente farlo qui.
+Basti dire qui che questo triplice enigma è consolante
+come il vino e aperto come un focolare inglese; che questa cosa che
+sconcerta l'intelletto acquieta interamente il cuore: ma dal [[Desert|deserto]],
+dai luoghi aridi e dai soli tremendi, vengono i crudeli figli
+del Dio solitario; i veri unitariani che, scimitarra in pugno,
+hanno devastato il mondo. Poiché non è [[Well|bene]] che Dio sia [[Alone|solo]].

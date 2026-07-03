@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/wifrb11-(chesterton)">The Wisdom of Father Brown</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/wifrb11/story_11_the_strange_crime_of_john_boulnois/part_01">‹ part 01</a><a class="ex-next" href="/testi/chesterton/atomized/wifrb11/story_11_the_strange_crime_of_john_boulnois/part_03">part 03 ›</a></div>
@@ -141,3 +143,48 @@ nearer to the lights of the great house and garden.  He only felt
 that the atmosphere was growing more intense, there was in the sadness
 more violence and secrecy--more--he hesitated for the word,
 and then said it with a jerk of laughter--Catastrophism.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/wifrb11-(chesterton)">The Wisdom of Father Brown</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/wifrb11/story_11_the_strange_crime_of_john_boulnois/part_01">‹ part 01</a><a class="ex-next" href="/testi/chesterton/atomized/wifrb11/story_11_the_strange_crime_of_john_boulnois/part_03">part 03 ›</a></div>
+</nav>
+
+# [[wifrb11]] — Lo strano delitto di John Boulnois (parte 2)
+
+     Quel profilo impeccabile di falco, con l'occhio italiano d'un nero purpureo, che era stato fotografato tante volte tanto per Smart Society quanto per il Western Sun, dava a chiunque l'impressione d'un uomo divorato dall'ambizione come da un fuoco, o addirittura da un morbo. Ma per quanto Kidd sapesse un mucchio di cose su Sir Claude — anzi, molte più di quante ce ne fossero da sapere — non gli sarebbe mai passato neppure nei sogni più sfrenati di collegare un aristocratico così vistoso col fondatore appena dissotterrato del Catastrofismo, o di indovinare che Sir Claude Champion e John Boulnois potessero essere intimi amici. Eppure tale, secondo il racconto di Dalroy, era il fatto. I due avevano cacciato in coppia a scuola e all'università e, benché i loro destini sociali fossero stati assai diversi (giacché Champion era un grande proprietario terriero e quasi un milionario, mentre Boulnois era un povero studioso e, fino a poco prima, uno sconosciuto), continuavano a mantenere rapporti strettissimi. Anzi, il cottage di Boulnois sorgeva proprio fuori dai cancelli di Pendragon Park.
+
+     Ma se i due uomini potessero rimanere amici ancora a lungo stava diventando una cupa e brutta questione. Un anno o due prima Boulnois aveva sposato una bella e non priva di successo attrice, alla quale era devoto nel suo stile timido e ponderoso; e la vicinanza della sua casa a quella di Champion aveva offerto a quella volubile celebrità l'occasione di comportarsi in un modo che non poteva che destare un'agitazione penosa e piuttosto vile. Sir Claude aveva portato alla perfezione le arti della pubblicità; e sembrava trarre un folle piacere dall'essere altrettanto ostentato in un intrigo che non poteva procurargli alcun onore. Valletti di Pendragon lasciavano di continuo mazzi di fiori per la signora Boulnois; carrozze e automobili si presentavano di continuo al cottage per la signora Boulnois; balli e mascherate riempivano di continuo i giardini in cui il baronetto faceva sfilare la signora Boulnois, come la Regina dell'Amore e della Bellezza a un torneo. Proprio quella sera, contrassegnata dal signor Kidd per l'esposizione del Catastrofismo, era stata contrassegnata da Sir Claude Champion per una rappresentazione all'aperto di Romeo and Juliet, in cui egli avrebbe recitato Romeo di fronte a una Giulietta che è inutile nominare.
+
+     «Non credo che possa andare avanti senza uno schianto», disse il giovane dai capelli rossi, alzandosi e scuotendosi. «Il vecchio Boulnois si può comprare... oppure è integro. Ma se è integro, è ottuso... quello che si direbbe un vero cubo. Comunque non credo che la cosa sia possibile.»
+
+     «È un uomo di grandi facoltà intellettuali», disse Calhoun Kidd con voce profonda.
+
+     «Sì», rispose Dalroy; «ma neppure un uomo di grandi facoltà intellettuali può essere uno sciocco tanto maledetto. Deve proprio andare? Io la seguirò fra un minuto o due.»
+
+     Ma Calhoun Kidd, finito un latte e soda, s'incamminò di buon passo su per la strada verso la Grey Cottage, lasciando il suo cinico informatore al suo whisky e al suo tabacco. L'ultima luce del giorno era svanita; i cieli erano d'un grigio verde scuro, come ardesia, cosparsi qua e là di qualche stella, ma più chiari sul lato sinistro, con la promessa d'una luna nascente.
+
+     La Grey Cottage, che sorgeva trincerata, per così dire, entro un quadrato di rigide e alte siepi di biancospino, era così addossata ai pini e alle palizzate del Park che Kidd sulle prime la scambiò per la portineria del Park. Trovato però il nome sullo stretto cancello di legno, e vedendo dal proprio orologio che l'ora dell'appuntamento col «pensatore» era appena scoccata, entrò e bussò alla porta d'ingresso. All'interno della siepe del giardino poteva vedere che la casa, per quanto poco pretenziosa, era più grande e più lussuosa di quanto sembrasse a prima vista, ed era tutt'altro genere di luogo rispetto a una portineria. Fuori stavano una cuccia da cani e un'arnia, come simboli dell'antica vita campestre inglese; la luna sorgeva dietro un boschetto di floridi peri, il cane che uscì dalla cuccia aveva un'aria venerabile e restio a latrare; e il domestico anziano e dimesso che aprì la porta fu succinto ma dignitoso.
+
+     «Il signor Boulnois mi ha pregato di porgerle le sue scuse, signore», disse, «ma è stato costretto a uscire all'improvviso.»
+
+     «Ma senta, avevo un appuntamento», disse l'intervistatore, alzando la voce. «Sa dove è andato?»
+
+     «A Pendragon Park, signore», disse il servitore, piuttosto tetro, e cominciò a chiudere la porta.
+
+     Kidd trasalì lievemente.
+
+     «È andato con la signora... con il resto della compagnia?» chiese in modo piuttosto vago.
+
+     «No, signore», disse l'uomo secco; «è rimasto indietro, e poi è uscito da solo.» E chiuse la porta, brutalmente, ma con un'aria di dovere non compiuto.
+
+     L'americano, quel curioso miscuglio di impudenza e di sensibilità, ne fu seccato. Sentì un vivo desiderio di scuoterli tutti un po' e di insegnare loro il senso degli affari; il vecchio cane canuto e il vecchio maggiordomo brizzolato dalla faccia pesante col suo sparato preistorico, e la vecchia luna sonnolenta, e soprattutto il vecchio filosofo scervellato che non sapeva mantenere un appuntamento.
+
+     «Se è così che si comporta, merita di perdere la più pura devozione di sua moglie», disse il signor Calhoun Kidd. «Ma forse è andato di là a fare una scenata. In tal caso credo che un uomo del Western Sun sarà sul posto.»
+
+     E svoltato l'angolo presso i cancelli aperti della portineria, si mise in cammino, arrancando su per il lungo viale di neri boschi di pini che puntavano in brusca prospettiva verso i giardini interni di Pendragon Park. Gli alberi erano neri e ordinati come i pennacchi su un carro funebre; c'erano ancora poche stelle. Era un uomo dalle associazioni più letterarie che direttamente naturali; la parola «Ravenswood» gli tornava ripetutamente in mente. In parte era per il colore corvino dei boschi di pini; ma in parte anche per un'atmosfera indescrivibile quasi descritta nella grande tragedia di Scott; l'odore di qualcosa che era morto nel diciottesimo secolo; l'odore di giardini umidi e di urne infrante, di torti che ormai non saranno mai raddrizzati; di qualcosa che non è meno inguaribilmente triste per il fatto d'essere stranamente irreale.
+
+     Più d'una volta, mentre saliva per quella strana strada nera d'artificio tragico, si fermò, sussultando, credendo di udire passi davanti a sé. Non riusciva a scorgere nulla davanti se non le due cupe pareti gemelle di pino e il cuneo di cielo stellato al di sopra. Dapprima pensò di essersela immaginata, o d'essere stato beffato da una semplice eco del proprio incedere. Ma via via che proseguiva si sentiva sempre più incline a concludere, con ciò che restava della sua ragione, che davvero c'erano altri piedi sulla strada. Pensò confusamente a fantasmi; e si stupì di quanto rapidamente riuscisse a raffigurarsi l'immagine d'un fantasma appropriato e locale, uno con la faccia bianca come quella di Pierrot, ma chiazzata di nero. L'apice del triangolo di cielo blu scuro si faceva più chiaro e più azzurro, ma egli non si rendeva ancora conto che ciò avveniva perché si stava avvicinando alle luci della grande casa e del giardino. Sentiva soltanto che l'atmosfera si faceva più intensa, che nella tristezza c'era più violenza e più segretezza... più... esitò sulla parola, e poi la disse con uno scatto di riso... Catastrofismo.

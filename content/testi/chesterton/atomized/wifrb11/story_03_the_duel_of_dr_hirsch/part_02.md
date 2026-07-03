@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/wifrb11-(chesterton)">The Wisdom of Father Brown</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/wifrb11/story_03_the_duel_of_dr_hirsch/part_01">‹ part 01</a><a class="ex-next" href="/testi/chesterton/atomized/wifrb11/story_03_the_duel_of_dr_hirsch/part_03">part 03 ›</a></div>
@@ -120,3 +122,120 @@ an abstemious epicure.  He did not lift his eyes from his plate,
 round which red pepper, lemons, brown bread and butter, etc.,
 were rigidly ranked, until a tall shadow fell across the table,
 and his friend Flambeau sat down opposite.  Flambeau was gloomy.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/wifrb11-(chesterton)">The Wisdom of Father Brown</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/wifrb11/story_03_the_duel_of_dr_hirsch/part_01">‹ part 01</a><a class="ex-next" href="/testi/chesterton/atomized/wifrb11/story_03_the_duel_of_dr_hirsch/part_03">part 03 ›</a></div>
+</nav>
+
+# [[wifrb11]] — Il duello del dottor Hirsch (parte 2)
+
+     Armagnac e Brun balzarono all'istante in piedi; ma era troppo tardi.
+Già la gente accorreva dagli angoli delle strade; c'era una piccola
+ma sempre più fitta folla. Con il pronto istinto francese per
+la politica di strada, l'uomo dai baffi neri era già
+corso a un angolo del caffè, era saltato su uno dei tavoli,
+e afferrando un ramo d'ippocastano per reggersi, gridò
+come gridò un tempo Camille Desmoulins quando sparse le [[Leaves|foglie]] di quercia
+tra il popolino.
+
+     «Francesi!» sbraitò a raffica; «non so parlare! Che Dio mi aiuti, è per questo
+che parlo! Quei tali nei loro sudici parlamenti che imparano
+a parlare imparano anche a tacere: muti come quella spia rannicchiata
+nella [[house|casa]] di fronte! Muto com'è quando batto alla porta della sua camera!
+Muto com'è ora, benché oda la mia voce attraverso questa strada
+e tremi là dove siede! Oh, sanno tacere con eloquenza,
+i politicanti! Ma è venuto il [[Time|momento]] in cui noi che non sappiamo parlare
+dobbiamo parlare. Siete traditi ai prussiani. Traditi in questo istante.
+Traditi da quell'uomo. Io sono Jules Dubosc, colonnello d'artiglieria, Belfort.
+Ieri nei Vosgi abbiamo catturato una spia tedesca, e le fu trovato addosso
+un foglio: un foglio che ho qui in mano. Oh, hanno cercato di soffocare la cosa;
+ma io l'ho portato dritto all'uomo che l'aveva scritto: l'uomo in quella [[house|casa]]!
+È di suo pugno. È firmato con le sue iniziali. È un'indicazione
+per trovare il segreto di questa nuova Polvere Silenziosa. Hirsch l'ha inventata;
+Hirsch ha scritto questa nota su di essa. Questa nota è in tedesco, ed è stata trovata
+nella tasca di un tedesco. "Dite all'uomo che la formula della polvere è nella
+busta grigia nel primo cassetto a sinistra della scrivania del Segretario,
+Ministero della Guerra, in inchiostro rosso. Faccia attenzione. P.H."»
+
+     Sparava frasi brevi come una mitragliatrice a tiro rapido, ma era chiaramente
+il tipo d'uomo che o è pazzo o ha ragione. Il grosso della folla
+era nazionalista, e già in minaccioso tumulto; e una minoranza
+di intellettuali ugualmente adirati, guidati da Armagnac e Brun, non faceva che rendere
+la maggioranza più bellicosa.
+
+     «Se questo è un segreto militare», gridò Brun, «perché lo strombazzate
+per la strada?»
+
+     «Vi dirò io perché lo faccio!» ruggì Dubosc sopra la folla ruggente.
+«Sono andato da quest'uomo in modo schietto e civile. Se avesse avuto una spiegazione
+avrebbe potuto darla nella più completa riservatezza. Rifiuta di spiegare.
+Mi rimanda a due estranei in un caffè come a due lacchè.
+Mi ha cacciato di casa, ma io ci tornerò dentro,
+con il popolo di Parigi alle spalle!»
+
+     Un grido parve scuotere la facciata stessa dei palazzi e
+volarono due sassi, uno dei quali ruppe una finestra sopra il balcone.
+L'indignato colonnello si tuffò ancora una volta sotto l'arcata e lo si udì
+gridare e tuonare all'interno. A ogni istante il mare umano si faceva più vasto
+e più vasto; si gonfiava contro le ringhiere e i gradini della casa del traditore;
+già era certo che il luogo sarebbe stato preso d'assalto come
+la Bastiglia, quando la porta-finestra rotta si aprì e il dottor Hirsch uscì
+sul balcone. Per un istante la furia si mutò a metà in riso;
+poiché egli era una figura assurda in una scena simile. Il suo lungo collo nudo e
+le spalle spioventi avevano la forma di una bottiglia di champagne, ma quella era
+l'unica cosa festosa in lui. La giacca gli pendeva addosso come a un attaccapanni;
+portava i capelli color carota lunghi e stopposi; le guance e il mento
+erano interamente frangiati da una di quelle irritanti barbe che cominciano
+lontano dalla bocca. Era pallidissimo, e portava occhiali azzurri.
+
+     Livido com'era, parlò con una sorta di precisione compassata,
+tanto che la folla ammutolì nel bel mezzo della sua terza frase.
+
+     «...solo due cose da dirvi adesso. La prima è ai miei nemici,
+la seconda ai miei amici. Ai miei nemici dico: è vero, non incontrerò
+il signor Dubosc, benché egli infurii fuori da questa stanza stessa.
+È vero, ho pregato altri due uomini di affrontarlo al mio posto.
+E vi dirò perché! Perché non voglio e non devo vederlo:
+perché sarebbe contro ogni regola di dignità e d'onore vederlo.
+Prima che io sia trionfalmente scagionato davanti a un tribunale, c'è
+un altro arbitrato che questo signore mi deve in quanto gentiluomo,
+e nel rimandarlo ai miei padrini io sono rigorosamente...»
+
+     Armagnac e Brun agitavano freneticamente i cappelli, e persino
+i nemici del dottore ruggirono un applauso a questa inattesa sfida.
+Ancora una volta poche frasi furono inudibili, ma poterono udirlo dire:
+«Ai miei amici... io stesso preferirei sempre armi puramente intellettuali,
+e a queste un'umanità evoluta certamente si limiterà.
+Ma la nostra più preziosa verità è la forza fondamentale della materia
+e dell'eredità. I miei libri hanno successo; le mie teorie sono inconfutate;
+ma in politica soffro di un pregiudizio quasi fisico nei francesi.
+Non so parlare come Clemenceau e Déroulède, perché le loro parole sono come
+echi delle loro pistole. Il francese chiede un duellante come l'inglese
+chiede uno sportivo. Ebbene, do le mie prove: pagherò
+questa tangente barbarica, e poi tornerò alla ragione per il resto della mia vita».
+
+     Due uomini si trovarono all'istante nella folla stessa a offrire
+i loro servigi al colonnello Dubosc, che venne fuori di lì a poco, soddisfatto.
+Uno era il soldato semplice con il caffè, che disse semplicemente:
+«Farò da padrino per voi, signore. Sono il duca di Valognes». L'altro era
+l'uomo corpulento, che il suo amico prete dapprima cercò di dissuadere;
+poi se ne andò via da solo.
+
+     Sul far della sera una cena leggera fu apparecchiata sul retro del
+Café Charlemagne. Benché privi di ogni tettoia di vetro o di stucco dorato,
+i commensali si trovavano quasi tutti sotto un delicato e irregolare tetto di foglie;
+poiché gli alberi ornamentali stavano così fitti intorno e tra i tavoli
+da conferire qualcosa della penombra e dell'abbaglio di un piccolo frutteto.
+A uno dei tavoli centrali un pretino tozzo e tarchiato sedeva
+in completa solitudine, e si applicava a un mucchio di bianchetti
+con la sorta più grave di godimento. Poiché il suo vitto quotidiano era assai frugale,
+aveva un gusto peculiare per i lussi improvvisi e isolati; era
+un epicureo astemio. Non alzò gli occhi dal piatto,
+intorno al quale pepe rosso, limoni, pane scuro e burro, eccetera,
+erano rigidamente schierati, finché un'ombra alta non cadde attraverso il tavolo,
+e il suo amico Flambeau si sedette di fronte a lui. Flambeau era cupo.

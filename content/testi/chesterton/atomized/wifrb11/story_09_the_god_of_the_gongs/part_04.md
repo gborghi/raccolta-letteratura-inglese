@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/wifrb11-(chesterton)">The Wisdom of Father Brown</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/wifrb11/story_09_the_god_of_the_gongs/part_03">‹ part 03</a><a class="ex-next" href="/testi/chesterton/atomized/wifrb11/story_09_the_god_of_the_gongs/part_05">part 05 ›</a></div>
@@ -138,3 +140,138 @@ a whole Corsican clan."
      "My lord, it is a matter of life and death," said the priest. 
 "Ring your bell.  Give your message.  And see whether it is Malvoli
 who answers."
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/wifrb11-(chesterton)">The Wisdom of Father Brown</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/wifrb11/story_09_the_god_of_the_gongs/part_03">‹ part 03</a><a class="ex-next" href="/testi/chesterton/atomized/wifrb11/story_09_the_god_of_the_gongs/part_05">part 05 ›</a></div>
+</nav>
+
+# [[wifrb11]] — Il dio dei gong (parte 4)
+
+     «E suppongo,» disse l'altro a voce più bassa, «che quel tipo con l'occhio di vetro
+c'entri qualcosa.»
+
+     «Avevo sperato che c'entrasse soltanto un poco,» rispose Brown
+con voce piuttosto turbata, «e posso aver sbagliato in ciò che ho fatto.
+Ho agito d'impulso. Ma temo che questa faccenda abbia radici profonde e oscure.»
+
+     Camminarono per alcune strade in silenzio. Le gialle lampade
+cominciavano a essere accese nel freddo crepuscolo azzurro, ed evidentemente
+si stavano avvicinando alle zone più centrali della città.
+Manifesti dai colori vivaci che annunciavano l'incontro di pugilato tra Nigger Ned
+e Malvoli erano appiccicati un po' dappertutto sui muri.
+
+     «Ebbene,» disse Flambeau, «io non ho mai ucciso nessuno, nemmeno ai tempi
+in cui ero un criminale, ma posso quasi simpatizzare con chiunque lo faccia
+in un posto tanto tetro. Di tutte le pattumiere della Natura abbandonate da Dio,
+credo che le più strazianti siano i luoghi come quel palco dell'orchestra,
+concepiti per essere festosi e ridotti a desolazione. Riesco a immaginare un uomo morboso
+che sente di dover uccidere il proprio rivale nella solitudine e nell'ironia di una simile scena.
+Ricordo che una volta, facendo una camminata sulle vostre gloriose colline del Surrey,
+senza pensare a nient'altro che a ginestre e allodole, sbucai su
+un vasto anello di terra, e sopra di me si levò una vasta, muta struttura,
+fila su fila di gradinate, immensa come un anfiteatro romano e vuota
+come un portalettere nuovo. Un uccello veleggiava in cielo sopra di essa. Era
+la Tribuna d'Onore di Epsom. E sentii che nessuno vi sarebbe
+mai più stato felice.»
+
+     «È strano che accenniate a Epsom,» disse il prete.
+«Ricordate quello che fu chiamato il Mistero di Sutton, perché due
+uomini sospetti... venditori di gelati, mi pare... si dava il caso abitassero a Sutton?
+Alla fine furono rilasciati. Un uomo fu trovato strangolato, si disse,
+sulle Downs, dalle parti di lì. In realtà, so (da un poliziotto irlandese
+che è un mio amico) che fu trovato proprio accanto alla Tribuna
+d'Onore di Epsom... anzi, celato soltanto dal fatto che uno degli usci più bassi
+era stato spinto all'indietro.»
+
+     «Questo sì che è strano,» convenne Flambeau. «Ma piuttosto conferma
+la mia idea che simili luoghi di divertimento appaiano terribilmente solitari fuori stagione,
+altrimenti l'uomo non sarebbe stato assassinato lì.»
+
+     «Non sono così sicuro che egli...» cominciò Brown, e si fermò.
+
+     «Non così sicuro che sia stato assassinato?» chiese il suo compagno.
+
+     «Non così sicuro che sia stato assassinato fuori stagione,» rispose
+il piccolo prete, con semplicità. «Non pensate che ci sia qualcosa
+di piuttosto ingannevole in questa solitudine, Flambeau? Siete davvero sicuro
+che un assassino accorto vorrebbe sempre che il luogo fosse solitario?
+È molto, molto di rado che un uomo sia del tutto solo. E, a parte questo,
+più è solo, più è certo che venga visto.
+No; credo che ci debba essere qualche altra... Toh, eccoci
+al Pavilion, o Palace, o come diavolo lo chiamano.»
+
+     Erano sbucati su una piccola piazza, brillantemente illuminata,
+il cui edificio principale era gaio di dorature, sgargiante di manifesti,
+e fiancheggiato da due gigantesche fotografie di Malvoli e Nigger Ned.
+
+     «Ehilà!» gridò Flambeau con gran sorpresa, mentre il suo amico ecclesiastico
+saliva impettito i larghi gradini. «Non sapevo che il pugilato fosse
+il vostro ultimo passatempo. Andate a vedere l'incontro?»
+
+     «Non credo che ci sarà alcun incontro,» rispose Padre Brown.
+
+     Passarono rapidamente per anticamere e sale interne;
+attraversarono la sala del combattimento stessa, rialzata, delimitata da corde,
+e imbottita di innumerevoli sedili e palchi, e sempre l'ecclesiastico non
+si guardò intorno né si fermò finché non giunse a un impiegato seduto a una scrivania fuori
+da una porta con la scritta «Comitato». Lì si fermò e chiese di vedere Lord Pooley.
+
+     L'inserviente osservò che sua signoria era molto occupato,
+poiché l'incontro sarebbe cominciato presto, ma Padre Brown aveva un bonario
+tedio di reiterazione a cui la mente burocratica non è generalmente preparata.
+In pochi istanti il piuttosto sconcertato Flambeau si trovò al cospetto
+di un uomo che stava ancora gridando istruzioni a un altro uomo che usciva
+dalla stanza. «Fate attenzione, sapete, alle corde dopo il quarto...
+Bene, e voi che cosa volete, di grazia!»
+
+     Lord Pooley era un gentiluomo, e, come la maggior parte dei pochi rimasti
+alla nostra razza, era preoccupato... specialmente per il denaro. Era per metà grigio
+e per metà biondo lino, e aveva gli occhi della febbre e un naso dall'arco alto
+e mordicchiato dal gelo.
+
+     «Solo una parola,» disse Padre Brown. «Sono venuto a impedire
+che un uomo venga ucciso.»
+
+     Lord Pooley balzò dalla sedia come se una molla
+ve lo avesse scagliato via. «Che io sia dannato se sopporto ancora tutto questo!»
+gridò. «Voi e i vostri comitati e i vostri pastori e le vostre petizioni!
+Non c'erano forse i pastori ai vecchi tempi, quando si combatteva senza guantoni?
+Ora combattono con i guantoni regolamentari, e non c'è
+nemmeno l'ombra della possibilità che uno dei due pugili venga ucciso.»
+
+     «Non intendevo nessuno dei due pugili,» disse il piccolo prete.
+
+     «Bene, bene, bene!» disse il nobiluomo, con un tocco di gelido umorismo.
+«E chi è che verrà ucciso? L'arbitro?»
+
+     «Non so chi verrà ucciso,» rispose Padre Brown,
+con uno sguardo meditabondo. «Se lo sapessi non dovrei
+guastarvi il divertimento. Potrei semplicemente farlo fuggire.
+Non sono mai riuscito a vedere nulla di male negli incontri di pugilato. Stando così le cose,
+devo pregarvi di annunciare che l'incontro è rinviato per il momento.»
+
+     «Nient'altro?» sghignazzò il gentiluomo dagli occhi febbrili.
+«E che cosa direte alle duemila persone che sono venute a vederlo?»
+
+     «Dirò che di esse ne resteranno vive millenovecentonovantanove
+dopo che l'avranno visto,» disse Padre Brown.
+
+     Lord Pooley guardò Flambeau. «Il vostro amico è pazzo?» chiese.
+
+     «Tutt'altro,» fu la risposta.
+
+     «E badate,» riprese Pooley nel suo modo irrequieto,
+«c'è di peggio. È spuntata un'intera masnada di italiani
+a sostenere Malvoli... individui bruni e selvaggi di chissà quale paese.
+Sapete come sono queste razze mediterranee. Se mando a dire
+che l'incontro è saltato, avremo Malvoli che irrompe qui alla testa di
+un intero clan corso.»
+
+     «Milord, è una questione di vita o di morte,» disse il prete.
+«Suonate il campanello. Date il vostro messaggio. E vedete se è Malvoli
+a rispondere.»

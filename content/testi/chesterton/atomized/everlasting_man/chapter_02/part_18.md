@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/everlasting-man-(chesterton)">The Everlasting Man</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/everlasting_man/chapter_02/part_17">‹ part 17</a><a class="ex-next" href="/testi/chesterton/atomized/everlasting_man/chapter_02/part_19">part 19 ›</a></div>
@@ -165,3 +167,164 @@ steps must be safe; that the biggest generalisation must be obvious.
 But though the contradiction may seem to them a [[Paradox|paradox]], this is
 the very contrary of the [[Truth|truth]].  It is the large thing that is secret
 and invisible; it is the small thing that is evident and enormous.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/everlasting-man-(chesterton)">The Everlasting Man</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/everlasting_man/chapter_02/part_17">‹ part 17</a><a class="ex-next" href="/testi/chesterton/atomized/everlasting_man/chapter_02/part_19">part 19 ›</a></div>
+</nav>
+
+Ora vale la pena di soffermarsi su quella storia perché, come si è
+suggerito, essa contraddice direttamente l'impressione tuttora
+diffusa che il nomadismo sia soltanto una cosa preistorica e la
+stanzialità sociale una cosa relativamente recente. Nulla dimostra
+che i Babilonesi avessero mai errato di luogo in luogo; ben poco
+dimostra che le tribù del [[Desert|deserto]] si siano mai stabilite.
+Anzi, è probabile che questa nozione di uno stadio nomade seguito
+da uno stadio statico sia già stata abbandonata dagli studiosi sinceri
+e autentici alle cui ricerche tutti dobbiamo tanto.
+Ma in questo libro io non sono in polemica con studiosi sinceri e autentici,
+bensì con una vasta e vaga opinione pubblica che è stata prematuramente
+diffusa a partire da certe indagini imperfette, e che ha reso
+di moda una falsa nozione dell'intera [[history|storia]] dell'umanità.
+È tutta quella vaga nozione secondo cui una scimmia si è evoluta in un uomo e allo
+stesso modo un barbaro si è evoluto in un uomo civile e dunque a ogni
+stadio dobbiamo guardare all'indietro verso la barbarie e in avanti verso la civiltà.
+Purtroppo questa nozione è, in un [[Double|duplice]] senso, interamente campata in aria.
+È un'atmosfera in cui gli uomini vivono più che una tesi
+che essi difendano. Gli uomini in quella disposizione si confutano più facilmente
+con gli oggetti che con le teorie; e sarà [[Well|bene]] se chiunque sia tentato
+di fare quell'assunzione, in qualche banale svolta di discorso o di scrittura,
+possa essere trattenuto per un istante chiudendo gli occhi e vedendo per
+un attimo, vasto e vagamente gremito, come un precipizio popoloso,
+la [[Wonder|meraviglia]] della muraglia babilonese.
+
+Un fatto certo cade su di noi come la sua [[Shadow|ombra]].
+I nostri sprazzi di veduta su entrambi questi imperi antichi mostrano che la prima relazione
+domestica era stata complicata da qualcosa che era meno umano,
+ma che spesso veniva considerato altrettanto domestico. Il tetro gigante chiamato
+[[Slavery|Schiavitù]] era stato evocato come un genio e affaticava a gigantesche
+opere di mattoni e di pietra. Anche qui non dobbiamo troppo facilmente supporre
+che ciò che era arretrato fosse barbarico; in materia di affrancamento
+la servitù più antica sembra per certi versi più liberale di quella più tarda;
+forse più liberale della servitù dell'avvenire.
+Assicurare il cibo all'umanità costringendone una parte a lavorare era, in fondo,
+un espediente assai umano; ed è per questo che probabilmente verrà tentato di nuovo.
+Ma in un senso c'è un significato nell'antica [[Slavery|schiavitù]].
+Essa sta a rappresentare un fatto fondamentale riguardo a tutta l'antichità
+prima di [[Christ|Cristo]]; qualcosa da presupporre dal principio alla fine.
+È l'insignificanza dell'individuo di fronte allo Stato.
+Ciò era vero della più democratica [[City|Città]]-Stato dell'Ellade come di qualunque
+dispotismo in Babilonia. È uno dei segni di questo spirito che un'
+intera classe di individui potesse essere insignificante o persino invisibile.
+Doveva essere normale perché era necessaria a ciò che oggi
+si chiamerebbe «servizio sociale». Qualcuno disse: «L'Uomo è nulla e
+l'Opera è tutto», intendendolo come un arioso luogo comune carlyliano.
+Era il sinistro motto del pagano Stato Servile.
+In quel senso c'è [[Truth|verità]] nella tradizionale visione di enormi
+pilastri e piramidi che salgono sotto quei cieli eterni per sempre
+grazie alla fatica di uomini innumerevoli e senza nome, che sgobbano come formiche
+e muoiono come mosche, spazzati via dall'opera delle loro stesse mani.
+
+Ma vi sono altre due ragioni per cominciare dai due punti fissi
+dell'[[Egypt|Egitto]] e di Babilonia. Anzitutto perché essi sono fissati nella tradizione
+come i tipi dell'antichità; e la [[history|storia]] senza tradizione è morta.
+Babilonia è ancora il ritornello di una filastrocca infantile, e l'[[Egypt|Egitto]]
+(con la sua enorme popolazione di principesse in attesa di reincarnazione)
+è ancora il tema di un inutile numero di romanzi.
+Ma una tradizione è generalmente una [[Truth|verità]]; purché la tradizione
+sia sufficientemente popolare; anche se è quasi volgare. E vi
+è un significato in questo elemento babilonese ed egizio nelle
+filastrocche e nei romanzi; perfino i giornali, normalmente tanto in ritardo
+sui tempi, sono già arrivati fino al regno di Tutankhamon.
+La prima ragione è tutta impregnata del buon senso della leggenda popolare;
+è il semplice fatto che di queste cose tradizionali sappiamo davvero
+di più che di altre cose a esse contemporanee; e che così è sempre stato.
+Tutti i viaggiatori, da Erodoto a Lord Carnarvon, seguono questo itinerario.
+Le speculazioni scientifiche d'oggi dispiegano bensì una mappa dell'intero
+mondo primitivo, con flussi di emigrazione o di mescolanza razziale
+segnati ovunque in linee punteggiate; su spazi che il non scientifico
+cartografo medievale si sarebbe accontentato di chiamare «Terra incognita»,
+se non avesse riempito l'invitante vuoto con la figura di un drago,
+a indicare la probabile accoglienza riservata ai pellegrini.
+Ma queste speculazioni sono, nel migliore dei casi, soltanto speculazioni; e nel
+peggiore le linee punteggiate possono essere assai più favolose del drago.
+
+C'è purtroppo qui un errore in cui è molto facile per gli uomini
+cadere, anche per i più intelligenti e forse specialmente
+per i più fantasiosi. È l'errore di supporre
+che, poiché un'idea è più grande nel senso di più ampia, essa perciò
+sia più grande nel senso di più fondamentale e fissa e certa.
+Se un uomo vive [[Alone|solo]] in una capanna di paglia nel mezzo del Tibet, gli si potrà
+dire che vive nell'Impero Cinese; e l'Impero Cinese
+è certamente una cosa splendida e spaziosa e imponente.
+Oppure, in alternativa, gli si potrà dire che vive nell'Impero Britannico,
+e ne sarà debitamente impressionato. Ma la cosa curiosa è che in certi
+stati mentali egli può sentirsi molto più certo dell'Impero Cinese
+che non può vedere di quanto lo sia della capanna di paglia che può vedere.
+Ha nella mente qualche strano giuoco di prestigio magico, per cui il suo ragionamento
+comincia con l'impero benché la sua esperienza cominci con la capanna.
+Talvolta impazzisce e sembra dimostrare che una capanna di paglia non può
+esistere nei domini del Trono del Drago; che è impossibile che una tale
+civiltà quale egli gode contenga un tugurio quale egli abita.
+Ma la sua follia nasce dallo scivolone intellettuale di supporre
+che, poiché la Cina è un'ipotesi grande e onnicomprensiva,
+essa perciò sia qualcosa di più di un'ipotesi. Ora le persone
+moderne ragionano perpetuamente in questo modo; e lo estendono
+a cose assai meno reali e certe dell'Impero Cinese.
+Sembrano dimenticare, per esempio, che un uomo non è certo del
+Sistema Solare quanto lo è delle South Downs. Il Sistema Solare
+è una deduzione, e senza dubbio una deduzione vera; ma il punto è che è
+una deduzione vastissima e di larghissima portata e perciò egli dimentica
+che è affatto una deduzione e la tratta come un primo principio.
+Potrebbe scoprire che l'intero calcolo è un calcolo sbagliato;
+e il sole e le [[Stars|stelle]] e i lampioni avrebbero esattamente lo stesso aspetto.
+Ma egli ha dimenticato che è un calcolo, ed è quasi pronto
+a contraddire il sole se questo non si accorda con il sistema solare.
+Se questo è un errore perfino nel caso di fatti abbastanza [[Well|bene]] accertati,
+come il Sistema Solare e l'Impero Cinese, è un errore
+ancora più devastante in rapporto alle teorie e ad altre
+cose che non sono affatto realmente accertate. Così la [[history|storia]],
+e specialmente la [[history|storia]] preistorica, ha l'orribile abitudine di cominciare
+con certe generalizzazioni sulle razze. Non descriverò
+il disordine e la miseria che questa inversione ha prodotto nella politica moderna.
+Poiché si suppone vagamente che la razza abbia prodotto la nazione,
+gli uomini parlano come se la nazione fosse qualcosa di più vago della razza.
+Poiché hanno essi stessi inventato una ragione per spiegare un risultato,
+quasi negano il risultato pur di giustificare la ragione.
+Trattano dapprima un Celta come un assioma e poi trattano un Irlandese
+come un'inferenza. E poi si stupiscono che un grande, combattivo,
+ruggente Irlandese si adiri d'essere trattato come un'inferenza.
+Non riescono a vedere che gli Irlandesi sono Irlandesi, siano o no
+Celti, siano o non siano mai esistiti Celti.
+E ciò che ancora una volta li trae in inganno è la mole della teoria;
+la sensazione che la fantasticheria sia più grande del fatto.
+Si suppone che una grande e sparsa razza celtica contenga gli Irlandesi,
+sicché naturalmente gli Irlandesi devono dipendere per la loro stessa esistenza da essa.
+La stessa confusione, s'intende, ha eliminato gli Inglesi e i Tedeschi
+sommergendoli nella razza teutonica; e alcuni cercarono di provare
+dal fatto che le razze fossero una sola che le nazioni non potessero essere in guerra.
+Ma io porto questi esempi volgari e triti soltanto di passaggio, come esempi più
+familiari dell'errore; la questione qui in gioco non è la sua
+applicazione a queste cose moderne, bensì piuttosto alle cose più antiche.
+Ma quanto più remoto e non documentato era il problema razziale, tanto più fissa
+era questa curiosa certezza rovesciata nell'uomo di scienza vittoriano.
+Ancora oggi dà a un uomo di quelle tradizioni scientifiche lo stesso
+tipo di scossa mettere in dubbio queste cose, che erano soltanto le ultime
+inferenze quando egli le convertì in primi principi. Egli è ancora
+più certo di essere un Ariano di quanto non sia di essere un Anglosassone,
+proprio come è più certo di essere un Anglosassone di quanto non sia di essere
+un Inglese. Non ha mai realmente scoperto di essere un Europeo.
+Ma non ha mai dubitato di essere un Indoeuropeo. Queste teorie
+vittoriane hanno mutato molto nella loro forma e nella loro portata;
+ma questa abitudine di un rapido indurirsi di un'ipotesi in una teoria,
+e di una teoria in un'assunzione, non è ancora affatto passata di moda.
+Le persone non riescono a liberarsi facilmente della confusione mentale di sentire
+che le fondamenta della [[history|storia]] devono pur essere sicure; che i primi
+passi devono essere saldi; che la generalizzazione più grande dev'essere ovvia.
+Ma per quanto la contraddizione possa sembrar loro un [[Paradox|paradosso]], questo è
+proprio il contrario della [[Truth|verità]]. È la cosa grande a essere segreta
+e invisibile; è la cosa piccola a essere evidente ed enorme.

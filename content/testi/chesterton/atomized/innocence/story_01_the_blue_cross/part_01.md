@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/innocence-(chesterton)">The Innocence of Father Brown</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/innocence/story_12_the_three_tools_of_death">‹ Story 12 The Three Tools of Death</a><a class="ex-next" href="/testi/chesterton/atomized/innocence/story_01_the_blue_cross/part_02">part 02 ›</a></div>
@@ -118,3 +120,118 @@ him not to take care of the silver by telling everybody about it.
 But to whomever he talked, Valentin kept his eye open for someone else;
 he looked out steadily for anyone, rich or poor, male or female,
 who was [[Well|well]] up to six feet; for [[Flambeau]] was four inches above it.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/innocence-(chesterton)">The Innocence of Father Brown</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/innocence/story_12_the_three_tools_of_death">‹ Story 12 The Three Tools of Death</a><a class="ex-next" href="/testi/chesterton/atomized/innocence/story_01_the_blue_cross/part_02">part 02 ›</a></div>
+</nav>
+
+# [[innocence]] — La [[Cross|croce]] azzurra (parte 1)
+
+                          La [[Cross|Croce]] Azzurra
+
+Fra il nastro d'argento del mattino e il verde nastro scintillante
+del mare, il piroscafo toccò Harwich e sciolse uno sciame di gente
+come mosche, tra cui l'uomo che dobbiamo seguire non era affatto
+appariscente, né desiderava esserlo. Nulla in lui aveva del notevole,
+salvo un lieve contrasto tra l'allegria vacanziera degli abiti
+e la gravità ufficiale del volto. Portava una giacca leggera d'un
+grigio pallido, un panciotto bianco e un cappello di paglia argentata
+con un nastro grigio-azzurro. Il viso scarno spiccava scuro per contrasto,
+e terminava in una barbetta nera e appuntita che pareva spagnola
+e faceva pensare a una gorgiera elisabettiana. Fumava una sigaretta
+con la serietà di un ozioso. Nulla in lui lasciava intuire che la giacca
+grigia nascondeva una rivoltella carica, che il panciotto bianco nascondeva
+una tessera di polizia, o che il cappello di paglia nascondeva uno degli
+ingegni più poderosi d'Europa. Poiché costui era Valentin in persona,
+il capo della polizia di [[Paris|Parigi]] e il più celebre investigatore
+del mondo; e veniva da Bruxelles a [[London|Londra]] per compiere
+il più grande arresto del secolo.
+
+[[Flambeau]] era in Inghilterra. La polizia di tre paesi aveva finalmente
+seguìto le tracce del grande criminale da Gand a Bruxelles, da Bruxelles
+all'Aia di Olanda; e si congetturava che egli avrebbe tratto qualche
+vantaggio dalla novità e dalla confusione del Congresso Eucaristico,
+che allora si teneva a [[London|Londra]]. Probabilmente avrebbe viaggiato
+sotto le spoglie di qualche modesto impiegato o segretario a esso collegato;
+ma, naturalmente, Valentin non poteva esserne certo; nessuno poteva
+esser certo di nulla riguardo a [[Flambeau]].
+
+Sono molti anni ormai da quando questo colosso del delitto cessò
+d'improvviso di tenere il mondo in subbuglio; e quando cessò,
+come si disse dopo la [[Death|morte]] di Orlando, vi fu una gran quiete
+sulla terra. Ma nei suoi giorni migliori (voglio dire, s'intende,
+i peggiori) [[Flambeau]] era una figura statuaria e internazionale
+quanto il Kaiser. Quasi ogni mattina il giornale annunciava
+che egli era sfuggito alle conseguenze di un delitto straordinario
+commettendone un altro. Era un guascone di statura gigantesca
+e di audacia fisica; e i racconti più sfrenati correvano sulle sue
+esplosioni di [[Humour|umorismo]] atletico: come voltò sottosopra
+il juge d'instruction e lo tenne ritto a testa in giù, «per schiarirgli
+le idee»; come corse giù per la Rue de Rivoli con un poliziotto
+sotto ciascun braccio. Va detto a suo credito che la sua fantastica
+forza fisica era generalmente impiegata in scene siffatte, incruente
+per quanto poco dignitose; i suoi delitti veri erano soprattutto quelli
+di rapine ingegnose e su vasta scala. Ma ognuno dei suoi furti era
+quasi un peccato nuovo, e da solo farebbe una storia. Fu lui a gestire
+a [[London|Londra]] la grande Compagnia Casearia Tirolese, senza latterie,
+senza vacche, senza carri, senza latte, ma con qualche migliaio di abbonati.
+Costoro li serviva con la semplice operazione di spostare i piccoli bidoni
+del latte dalle porte altrui alle porte dei propri clienti.
+Fu lui a mantenere una fitta e inspiegabile corrispondenza con una
+giovane signora, di cui l'intera posta veniva intercettata,
+mediante il trucco straordinario di fotografare i propri messaggi
+in dimensioni infinitesimali sui vetrini di un microscopio.
+Una vasta semplicità, tuttavia, segnava molti dei suoi esperimenti.
+Si dice che una volta ridipinse tutti i numeri di una via nel cuore
+della [[Night|notte]] solo per deviare un viaggiatore in una trappola.
+È certissimo che inventò una cassetta postale portatile, che piantava
+agli angoli di quieti sobborghi confidando che qualche estraneo
+vi imbucasse i propri vaglia. Infine, era noto come acrobata sbalorditivo;
+malgrado la mole imponente, poteva balzare come una cavalletta
+e dileguarsi tra le cime degli alberi come una scimmia. Perciò il grande
+Valentin, quando si mise in cerca di [[Flambeau]], sapeva perfettamente
+che le sue avventure non sarebbero finite una volta trovatolo.
+
+Ma come trovarlo? Su questo punto le idee del grande Valentin
+erano ancora in via di assestamento.
+
+C'era una cosa che [[Flambeau]], con tutta la sua destrezza nel travestirsi,
+non poteva nascondere, ed era la sua singolare statura. Se l'occhio
+rapido di Valentin avesse colto una fruttivendola alta, un granatiere alto,
+o persino una duchessa discretamente alta, li avrebbe potuti arrestare
+sul posto. Ma lungo tutto il suo treno non c'era nessuno che potesse essere
+un [[Flambeau]] travestito, non più di quanto un gatto potesse essere
+una giraffa travestita. Della gente sul piroscafo si era già rassicurato;
+e le persone raccolte a Harwich o durante il [[Journey|viaggio]] si limitavano
+con certezza a sei. C'era un basso funzionario ferroviario diretto
+al capolinea, tre orticoltori piuttosto bassi saliti due stazioni dopo,
+una signora vedova molto bassa proveniente da una cittadina dell'Essex,
+e un pretino cattolico romano molto basso proveniente da un villaggio
+dell'Essex. Giunto all'ultimo caso, Valentin vi rinunciò e quasi rise.
+Il pretino era a tal punto l'essenza di quelle piatte lande orientali:
+aveva una faccia tonda e ottusa come un canederlo del Norfolk;
+aveva occhi vuoti come il Mare del Nord; aveva parecchi pacchetti di carta
+marrone che era del tutto incapace di raccogliere. Il Congresso Eucaristico
+aveva senza dubbio risucchiato dal loro ristagno locale molte creature
+simili, cieche e indifese, come talpe dissepolte. Valentin era uno scettico
+alla severa maniera di Francia, e non poteva nutrire [[Love|amore]] per i preti.
+Ma poteva provarne pietà, e questo qui l'avrebbe suscitata in chiunque.
+Aveva un grande ombrello sdrucito, che gli cadeva di continuo per terra.
+Non pareva sapere quale fosse il verso giusto del suo biglietto di ritorno.
+Spiegava con una candida ingenuità da [[Moon|luna]]tico a tutti nello
+scompartimento che doveva stare attento, perché aveva qualcosa fatto
+di vero argento «con delle pietre azzurre» in uno dei suoi pacchetti
+di carta marrone. Il suo bizzarro connubio di piattezza dell'Essex
+e di santa semplicità divertì di continuo il francese, finché il prete
+non fu arrivato (chissà come) a Tottenham con tutti i suoi pacchetti,
+e tornò indietro per l'ombrello. Quando fece quest'ultima cosa, Valentin
+ebbe persino la buona [[Nature|grazia]] di ammonirlo a non custodire l'argento
+raccontandolo a tutti. Ma con chiunque parlasse, Valentin teneva l'occhio
+aperto per qualcun altro; cercava con costanza chiunque, ricco o povero,
+uomo o donna, arrivasse ai sei piedi [[Well|buoni]]; perché [[Flambeau]] li superava
+di quattro pollici.

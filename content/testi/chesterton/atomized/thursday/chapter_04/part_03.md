@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/thursday-(chesterton)">The Man Who Was Thursday</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/thursday/chapter_04/part_02">‹ part 02</a><a class="ex-next" href="/testi/chesterton/atomized/thursday/chapter_05/part_01">part 01 ›</a></div>
@@ -155,3 +157,155 @@ and heathen kings.  He leapt out of the boat on to one slimy step,
 and stood, a dark and slender figure, amid the enormous masonry.
 The two men in the tug put her off again and turned up stream.
 They had never spoken a word.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/thursday-(chesterton)">The Man Who Was Thursday</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/thursday/chapter_04/part_02">‹ part 02</a><a class="ex-next" href="/testi/chesterton/atomized/thursday/chapter_05/part_01">part 01 ›</a></div>
+</nav>
+
+# [[thursday]] — Capitolo 4 (parte 3)
+
+«Oh!» disse Syme.
+
+«Naturalmente, dunque, questa gente parla di "un felice
+[[Time|tempo]] che verrà"; "il paradiso del futuro"; "l'umanità liberata
+dalla schiavitù del vizio e dalla schiavitù della virtù", e così via.
+E così parlano anche gli uomini del cerchio interno: il sacro sacerdozio.
+Anch'essi parlano a folle plaudenti della felicità del
+futuro, e dell'umanità finalmente liberata. Ma nelle loro bocche» —
+e il poliziotto abbassò la voce — «nelle loro bocche queste felici
+frasi hanno un significato orribile. Essi non hanno illusioni;
+sono troppo intellettuali per pensare che l'uomo su questa terra
+possa mai essere del tutto libero dal [[Original Sin|peccato originale]] e dalla lotta.
+Ed essi intendono la [[Death|morte]]. Quando dicono che l'umanità sarà
+finalmente libera, intendono che l'umanità commetterà il [[suicide|suicidio]].
+Quando parlano di un paradiso senza bene né male,
+intendono la [[Grave|tomba]].
+
+«Essi hanno soltanto due obiettivi: distruggere prima l'umanità e poi se stessi.
+Ecco perché lanciano bombe invece di sparare con le pistole. La truppa [[Innocent|innocente]]
+è delusa perché la bomba non ha ucciso il [[King|re]];
+ma l'alto sacerdozio è felice perché essa ha ucciso qualcuno.»
+
+«Come posso unirmi a voi?» chiese Syme, con una sorta di passione.
+
+«So per certo che c'è un posto vacante in questo momento,»
+disse il poliziotto, «giacché ho l'[[Honour|onore]] di essere alquanto
+nella confidenza del capo di cui vi ho parlato.
+Dovreste davvero venire a vederlo. O piuttosto, non dovrei
+dire vederlo, nessuno lo vede mai; ma potete parlargli
+se volete.»
+
+«Al telefono?» s'informò Syme, con interesse.
+
+«No,» disse il poliziotto placidamente, «ha il capriccio di starsene sempre seduto
+in una stanza buia pesta. Dice che gli rende più luminosi i pensieri.
+Venite pure.»
+
+Alquanto stordito e considerevolmente eccitato, Syme si lasciò condurre
+a una porta laterale nella lunga fila di edifici di Scotland Yard. Quasi prima
+che sapesse che cosa stava facendo, era stato passato attraverso le mani di
+circa quattro funzionari intermedi, e fu improvvisamente introdotto in una stanza,
+la cui repentina oscurità lo colse di sorpresa come un lampo di luce.
+Non era l'oscurità ordinaria, in cui le forme si possono tracciare debolmente;
+era come diventare all'improvviso ciechi come talpe.
+
+«Siete voi la nuova recluta?» chiese una voce pesante.
+
+E in qualche strano modo, sebbene non vi fosse l'[[Shadow|ombra]] di una figura
+nella tenebra, Syme seppe due cose: primo, che essa proveniva da un uomo
+di statura massiccia; e secondo, che l'uomo gli volgeva le spalle.
+
+«Siete voi la nuova recluta?» disse il capo invisibile,
+che sembrava aver saputo tutto quanto. «Bene.
+Siete assunto.»
+
+Syme, del tutto spiazzato, oppose una debole resistenza a
+questa frase irrevocabile.
+
+«Non ho davvero alcuna esperienza,» cominciò.
+
+«Nessuno ha alcuna esperienza,» disse l'altro, «della Battaglia di Armageddon.»
+
+«Ma io sono davvero inadatto...»
+
+«Siete disposto, e questo basta,» disse lo sconosciuto.
+
+«[[Well|Ecco]], davvero,» disse Syme, «non conosco alcuna professione di cui la mera
+disponibilità sia la prova ultima.»
+
+«Io sì,» disse l'altro — «i martiri. Vi sto condannando a [[Death|morte]].
+Buona giornata.»
+
+Fu così che quando [[Gabriel Syme]] uscì di nuovo nella cremisi
+luce della sera, col suo malandato cappello nero e il suo malandato, illegale mantello,
+uscì membro del Nuovo Corpo degli [[Detective|Investigatori]] per lo sventamento
+della grande congiura. Agendo su consiglio del suo amico
+il poliziotto (che era professionalmente incline all'ordine),
+si aggiustò i capelli e la barba, comprò un buon cappello, si vestì di un
+squisito abito [[Summer|estivo]] di grigio-azzurro chiaro, con un pallido fiore
+giallo all'occhiello e, in breve, divenne quella persona elegante e piuttosto
+insopportabile che Gregory aveva incontrato per la prima volta nel piccolo
+[[Garden|giardino]] di Saffron Park. Prima di lasciare definitivamente i locali della polizia,
+il suo amico gli fornì un piccolo cartoncino azzurro, sul quale era scritto:
+«L'Ultima Crociata», e un numero, il segno della sua autorità ufficiale.
+Lo ripose con cura nel taschino superiore del panciotto, accese una sigaretta,
+e uscì a dare la caccia e a combattere il nemico in tutti i salotti
+di [[London|Londra]]. Dove la sua avventura infine lo condusse, l'abbiamo già visto.
+Verso l'una e mezza di una [[Night|notte]] di febbraio si ritrovò a navigare a vapore
+in un piccolo rimorchiatore su per il silenzioso Tamigi, armato di bastone animato e rivoltella,
+il debitamente eletto [[thursday|Giovedì]] del Consiglio Centrale degli Anarchici.
+
+Quando Syme mise piede sul rimorchiatore a vapore ebbe una singolare sensazione
+di mettere piede in qualcosa di interamente nuovo; non soltanto nel
+paesaggio di una nuova terra, ma persino nel paesaggio di un nuovo pianeta.
+Ciò era dovuto principalmente all'insana ma solida decisione di quella sera,
+sebbene in parte anche a un intero mutamento del tempo e del cielo
+da quando egli era entrato nella piccola taverna circa due ore prima.
+Ogni traccia del piumaggio appassionato del tramonto nuvoloso
+era stata spazzata via, e una [[Moon|luna]] nuda stava in un cielo nudo.
+La [[Moon|luna]] era così forte e piena che (per un [[Paradox|paradosso]] che spesso si può notare)
+sembrava un sole più debole. Dava non la sensazione di luminoso chiarore lunare,
+ma piuttosto di una morta luce diurna.
+
+Sull'intero paesaggio giaceva una luminosa e innaturale scoloritura, come di
+quel disastroso crepuscolo di cui [[Milton]] parlò come sparso dal sole in eclissi;
+cosicché Syme cadde facilmente nel suo primo pensiero, che egli fosse davvero
+su qualche altro e più vuoto pianeta, il quale girava attorno a qualche stella più triste.
+Ma quanto più sentiva questa scintillante desolazione nella terra illuminata dalla luna,
+tanto più la sua propria follia cavalleresca ardeva nella [[Night|notte]] come un grande [[Fire|fuoco]].
+Persino le cose comuni che portava con sé — il cibo e il brandy e
+la [[Pistol|pistola]] carica — assumevano esattamente quella concreta e materiale poesia che
+un [[Child|fanciullo]] prova quando porta un fucile in un [[Journey|viaggio]] o una focaccia con sé a letto.
+Il bastone animato con la [[Sword|spada]] e la fiaschetta del brandy, sebbene in se stessi soltanto gli strumenti di
+morbosi congiurati, divennero le espressioni della sua propria più sana [[Romance|avventura cavalleresca]].
+Il bastone con la [[Sword|spada]] divenne quasi la [[Sword|spada]] della cavalleria, e il brandy il vino
+della staffa. Poiché persino le più disumanizzate fantasie moderne dipendono da
+qualche figura più antica e più semplice; le avventure possono essere folli, ma l'avventuriero
+deve essere sano di mente. Il drago senza San Giorgio non sarebbe nemmeno [[Grotesque|grottesco]].
+Così questo paesaggio inumano era immaginifico soltanto per la presenza di un uomo
+realmente umano. Alla mente esagerante di Syme le luminose, spoglie case
+e terrazze lungo il Tamigi apparivano vuote come le [[Mountains|montagne]] della [[Moon|luna]].
+Ma persino la [[Moon|luna]] è poetica soltanto perché c'è un uomo nella [[Moon|luna]].
+
+Il rimorchiatore era manovrato da due uomini, e con molta fatica procedeva comparativamente lento.
+La chiara [[Moon|luna]] che aveva illuminato Chiswick era tramontata nel [[Time|tempo]] in cui essi
+oltrepassarono Battersea, e quando giunsero sotto l'enorme mole di Westminster
+il giorno aveva già cominciato a spuntare. Spuntò come lo spaccarsi di grandi barre
+di piombo, mostrando barre d'argento; e queste si erano ravvivate come bianco [[Fire|fuoco]]
+quando il rimorchiatore, mutando la sua rotta in avanti, virò verso l'interno a un grande
+pontile d'attracco un poco oltre Charing [[Cross|Cross]].
+
+Le grandi pietre dell'Embankment sembravano ugualmente scure e gigantesche mentre Syme
+alzava lo sguardo su di esse. Erano grandi e nere contro l'immensa bianca [[Dawn|alba]].
+Gli facevano sentire che stava sbarcando sui colossali gradini di qualche
+palazzo egizio; e, in verità, la cosa si addiceva al suo umore, poiché egli era,
+nella propria mente, in procinto di salire ad attaccare i saldi troni di orribili
+e pagani re. Balzò fuori dalla barca su un gradino viscido,
+e rimase, figura scura e slanciata, in mezzo all'enorme muratura.
+I due uomini nel rimorchiatore lo staccarono di nuovo e risalirono la corrente.
+Non avevano proferito parola.

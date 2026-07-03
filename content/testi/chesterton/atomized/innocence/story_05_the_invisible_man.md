@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/innocence-(chesterton)">The Innocence of Father Brown</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/innocence/story_04_the_flying_stars">‹ Story 04 The Flying Stars</a><a class="ex-next" href="/testi/chesterton/atomized/innocence/story_06_the_honour_of_israel_gow">Story 06 The Honour of Israel Gow ›</a></div>
@@ -746,3 +748,746 @@ things to attend to.  John Turnbull Angus went back to the lady at the shop,
 with whom that imprudent young man contrives to be extremely comfortable.
 But Father Brown walked those snow-covered hills under the stars for many
 hours with a murderer, and what they said to each other will never be known.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/innocence-(chesterton)">The Innocence of Father Brown</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/innocence/story_04_the_flying_stars">‹ Story 04 The Flying Stars</a><a class="ex-next" href="/testi/chesterton/atomized/innocence/story_06_the_honour_of_israel_gow">Story 06 The Honour of Israel Gow ›</a></div>
+</nav>
+
+# [[innocence]] — L’uomo invisibile
+
+                         L’uomo invisibile
+
+Nel fresco crepuscolo azzurro di due strade ripide a Camden Town, la bottega
+all’angolo, quella di un pasticciere, ardeva come la punta di un sigaro.
+Sarebbe forse più giusto dire come la punta di un fuoco d’artificio, ché la luce
+era di molti colori e di una certa complessità, spezzata da molti specchi
+e danzante su molte torte e leccornie dorate e dai colori sgargianti.
+Contro quell’unico vetro infuocato erano incollati i nasi di molti monelli di strada,
+poiché i cioccolatini erano tutti avvolti in quelle carte metalliche rosse, oro e verdi
+che sono quasi meglio del cioccolato stesso;
+e l’enorme torta nuziale bianca in vetrina era in qualche modo, insieme, remota
+e appagante, proprio come se l’intero Polo Nord fosse buono da mangiare.
+Simili provocazioni arcobaleno potevano naturalmente radunare la gioventù
+del vicinato fino ai dieci o dodici anni. Ma quell’angolo
+era attraente anche per una gioventù di stadio più avanzato; e un giovanotto,
+di non meno di ventiquattro anni, fissava la medesima vetrina.
+Anche per lui la bottega aveva un fascino infuocato, ma quell’attrazione
+non era da spiegarsi interamente coi cioccolatini; che, tuttavia, egli era
+ben lungi dal disprezzare.
+
+Era un giovane alto, robusto, dai capelli rossi, con un volto
+risoluto ma un fare svogliato. Portava sotto il braccio una piatta
+cartella grigia di schizzi in bianco e nero, che aveva venduto
+con più o meno successo agli editori fin da quando suo zio
+(che era un ammiraglio) lo aveva diseredato per socialismo, a causa
+di una conferenza da lui tenuta contro quella teoria economica.
+Si chiamava John Turnbull Angus.
+
+Entrato infine, attraversò la bottega del pasticciere
+fino alla saletta sul retro, che era una specie di pasticceria-ristorante,
+limitandosi a sollevare il cappello dinanzi alla giovane signorina che vi serviva.
+Era una ragazza bruna, elegante, sveglia, vestita di nero, dal colorito acceso
+e dagli occhi scuri e vivacissimi; e dopo il consueto intervallo ella
+lo seguì nella saletta interna per prendere l’ordinazione.
+
+L’ordinazione era evidentemente la solita. «Vorrei, per favore», disse
+con precisione, «un panino da mezzo penny e una piccola tazza di caffè nero.»
+Un istante prima che la ragazza potesse voltarsi, aggiunse: «E poi voglio
+che lei mi sposi.»
+
+La giovane signorina della bottega si irrigidì di colpo e disse:
+«Questi sono scherzi che non permetto.»
+
+Il giovane dai capelli rossi levò due occhi grigi di una gravità inaspettata.
+
+«Sul serio, davvero», disse, «è una cosa seria… seria come il
+panino da mezzo penny. È costosa, come il panino; si paga.
+È indigesta, come il panino. Fa male.»
+
+La bruna signorina non aveva mai staccato da lui i suoi occhi scuri,
+ma pareva studiarlo con esattezza quasi tragica.
+Al termine del suo scrutinio aveva qualcosa come l’ombra
+di un sorriso, e si sedette su una sedia.
+
+«Non le pare», osservò Angus, distratto, «che sia piuttosto crudele
+mangiare questi panini da mezzo penny? Potrebbero crescere e diventare panini da un penny.
+Rinuncerò a questi sport brutali quando saremo sposati.»
+
+La bruna signorina si alzò dalla sedia e andò alla finestra,
+evidentemente in uno stato di forte ma non ostile riflessione.
+Quando alfine si voltò di nuovo con aria di risolutezza,
+rimase sconcertata nell’osservare che il giovanotto stava disponendo
+accuratamente sul tavolo vari oggetti presi dalla vetrina. Vi erano
+una piramide di dolciumi dai colori vivaci, parecchi piatti di tramezzini,
+e le due caraffe contenenti quel misterioso porto e sherry
+che sono propri dei pasticcieri. Al centro di quella ordinata
+disposizione aveva accuratamente deposto l’enorme carico di bianca
+torta zuccherata che era stata il grande ornamento della vetrina.
+
+«Ma che diamine sta facendo?» chiese lei.
+
+«Il mio dovere, mia cara Laura», cominciò.
+
+«Oh, per amor del cielo, si fermi un momento», gridò lei, «e non
+mi parli in quel modo. Voglio dire: che cos’è tutta questa roba?»
+
+«Un banchetto cerimoniale, signorina Hope.»
+
+«E questo che cos’è?» chiese lei con impazienza, indicando la montagna di zucchero.
+
+«La torta nuziale, signora Angus», disse lui.
+
+La ragazza marciò verso quell’oggetto, lo tolse con un certo fracasso,
+e lo rimise in vetrina; poi tornò e, posando gli
+eleganti gomiti sul tavolo, guardò il giovane non senza favore,
+ma con considerevole esasperazione.
+
+«Non mi dà nemmeno il tempo di pensare», disse.
+
+«Non sono così sciocco», rispose lui; «è la mia umiltà cristiana.»
+
+Ella lo stava ancora guardando; ma era diventata assai più seria
+dietro il sorriso.
+
+«Signor Angus», disse con fermezza, «prima che vada avanti anche solo un minuto
+tutta questa assurdità, devo dirle qualcosa di me nel modo più breve che posso.»
+
+«Ne sarò lieto», rispose Angus con gravità. «Potrebbe dirmi anche
+qualcosa di me, giacché ci siamo.»
+
+«Oh, la smetta e mi ascolti», disse lei. «Non è nulla di cui io mi
+vergogni, e non è nemmeno qualcosa di cui io sia particolarmente pentita.
+Ma che cosa direbbe lei se ci fosse qualcosa che non mi riguarda
+e che pure è il mio incubo?»
+
+«In tal caso», disse l’uomo con serietà, «le suggerirei di
+riportare qui la torta.»
+
+«Be’, prima deve ascoltare la storia», disse Laura, ostinata.
+«Per cominciare, devo dirle che mio padre era proprietario della locanda chiamata
+il “Pesce Rosso” a Ludbury, e io servivo la gente al banco.»
+
+«Mi sono spesso chiesto», disse lui, «perché ci fosse una sorta di aria
+cristiana attorno a questa bottega di pasticciere.»
+
+«Ludbury è un sonnolento, erboso buco delle Contee Orientali,
+e l’unica specie di gente che veniva mai al “Pesce Rosso”
+erano occasionali commessi viaggiatori, e per il resto,
+la gente più tremenda che si possa vedere, solo che voi non l’avete mai vista.
+Voglio dire quegli omuncoli, tipi sfaccendati, che avevano appena di che vivere
+e non avevano nulla da fare se non gironzolare nelle sale del bar e scommettere
+sui cavalli, in abiti sciatti che erano appena troppo buoni per loro.
+Persino questi disgraziati giovani buoni a nulla non erano molto frequenti da noi;
+ma ce n’erano due che erano fin troppo frequenti…
+volgari in ogni senso. Vivevano entrambi di denaro
+proprio, ed erano stancamente oziosi e troppo eleganti. Eppure
+provavo un po’ di pena per loro, perché quasi credo che
+si intrufolassero nel nostro piccolo bar vuoto perché ciascuno di loro aveva una
+lieve deformità; il genere di cosa di cui certi villani ridono.
+Non era esattamente una deformità, per la verità; era piuttosto una stranezza.
+Uno di loro era un uomo sorprendentemente piccolo, qualcosa come un nano,
+o perlomeno come un fantino. Non aveva però affatto l’aria del fantino;
+aveva una testa rotonda e nera e una barba nera ben curata,
+occhi vividi come quelli di un uccello; faceva tintinnare monete in tasca;
+faceva sonare una gran catena d’orologio d’oro; e non compariva mai
+se non vestito appena troppo da signore per esserlo davvero.
+Non era però uno sciocco, benché fosse un ozioso inconcludente; era curiosamente
+abile in ogni genere di cose che non potevano avere la minima utilità;
+una sorta di prestidigitazione improvvisata; far prendere fuoco
+a quindici fiammiferi l’uno con l’altro come un vero fuoco d’artificio;
+o intagliare una banana o qualcosa del genere in una bambola danzante. Si chiamava Isidore Smythe;
+e posso vederlo ancora, con la sua piccola faccia scura, mentre si accostava
+al banco, facendo un canguro saltellante con cinque sigari.
+
+«L’altro tizio era più silenzioso e più ordinario; ma in qualche modo
+mi allarmava molto più del povero piccolo Smythe. Era molto
+alto e sottile, e di capelli chiari; il naso aveva una gobba alta,
+e sarebbe stato quasi bello in una specie di modo spettrale;
+ma aveva uno degli strabismi più spaventosi che io abbia mai visto
+o di cui abbia mai sentito parlare. Quando ti guardava dritto,
+non sapevi più nemmeno dove ti trovassi tu, figuriamoci che cosa stesse guardando lui.
+Immagino che questo tipo di sfregio inasprisse un poco il poveretto;
+poiché, mentre Smythe era pronto a esibire i suoi giochi da scimmia
+dovunque, James Welkin (era questo il nome dell’uomo strabico)
+non faceva mai altro che marcire nella nostra saletta del bar, e andare
+a fare grandi passeggiate da solo nella campagna piatta e grigia tutt’intorno.
+Ciò nondimeno, credo che anche Smythe fosse un po’ suscettibile
+riguardo all’essere così piccolo, benché lo mascherasse con più disinvoltura.
+E fu così che rimasi davvero perplessa, oltre che sbigottita,
+e molto dispiaciuta, quando entrambi mi offrirono di sposarli nella stessa settimana.
+
+«Ebbene, feci ciò che da allora ho pensato fosse forse una sciocchezza.
+Ma, dopotutto, quei due esseri strani erano in un certo senso miei amici;
+e avevo orrore all’idea che pensassero ch’io li rifiutavo per
+la vera ragione, ossia che erano così impossibilmente brutti.
+Così inventai una qualche scusa d’altro genere, che non avrei mai voluto
+sposare nessuno che non si fosse fatto la propria strada nel mondo.
+Dissi che era per me una questione di principio non vivere di denaro
+semplicemente ereditato come il loro. Due giorni dopo aver parlato
+in quel modo bene intenzionato, cominciarono tutti i guai.
+La prima cosa che seppi fu che entrambi se n’erano andati in cerca di
+fortuna, come se fossero in qualche sciocca fiaba.
+
+«Ebbene, non ho più rivisto nessuno dei due da quel giorno a oggi.
+Ma ho ricevuto due lettere dall’ometto di nome Smythe,
+e per la verità erano piuttosto avvincenti.»
+
+«Mai sentito nulla dell’altro uomo?» chiese Angus.
+
+«No, non ha mai scritto», disse la ragazza, dopo un istante di esitazione.
+«La prima lettera di Smythe diceva semplicemente che si era messo
+in cammino con Welkin verso Londra; ma Welkin era un camminatore così bravo che
+l’ometto rimase indietro, e si prese un riposo lungo la strada.
+Si dà il caso che venisse raccolto da qualche spettacolo ambulante, e, in parte
+perché era quasi un nano, e in parte perché era davvero
+un disgraziatello sveglio, se la cavò piuttosto bene nel mondo dello spettacolo,
+e fu presto spedito all’Aquarium, a fare certi giochi che ho dimenticato.
+Questa fu la sua prima lettera. La seconda fu molto più sconvolgente,
+e l’ho ricevuta solo la settimana scorsa.»
+
+L’uomo di nome Angus vuotò la sua tazza di caffè e la guardò con occhi
+miti e pazienti. La bocca di lei prese una lieve piega di riso
+mentre riprendeva: «Suppongo che avrà visto sui manifesti tutta la faccenda
+di questo “Silent Service di Smythe”. O forse è l’unica persona che
+non l’ha vista. Oh, non ne so molto, è una qualche invenzione a orologeria
+per fare tutte le faccende di casa con dei macchinari. Sa il genere di cosa:
+“Premete un bottone: un maggiordomo che non beve mai.” “Girate una manovella: dieci cameriere
+che non fanno mai le civette.” Deve aver visto le réclame.
+[[Well|Ebbene]], qualunque cosa siano queste macchine, stanno facendo montagne di denaro;
+e lo stanno facendo tutto per quel piccolo diavolo che conobbi laggiù
+a Ludbury. Non posso fare a meno di rallegrarmi che il povero ometto sia
+caduto in piedi; ma la pura verità è che vivo nel terrore che
+salti fuori da un momento all’altro e mi dica che si è fatto la sua strada nel mondo…
+come di certo ha fatto.»
+
+«E l’altro uomo?» ripeté Angus con una specie di ostinata quiete.
+
+Laura [[Hope]] si alzò in piedi all’improvviso. «Amico mio», disse,
+«credo che lei sia uno [[Witch|stregone]]. Sì, ha perfettamente ragione.
+Non ho visto una sola riga di scrittura dell’altro uomo; e non ne ho
+più idea di un morto di che cosa o dove egli sia. Ma è
+di lui che ho paura. È lui che sta dappertutto lungo il mio cammino.
+È lui che mi ha quasi fatto impazzire. Anzi, credo che mi abbia
+fatto impazzire; poiché l’ho sentito dov’egli non poteva essere,
+e ho udito la sua voce quando non poteva aver parlato.»
+
+«[[Well|Ebbene]], mia cara», disse il giovane, allegramente, «se anche fosse [[Satan|Satana]] in persona,
+è spacciato ora che lei ne ha parlato a qualcuno. Si impazzisce tutti da [[Alone|soli]], vecchia mia.
+Ma quand’è che le è parso di sentire e udire il nostro amico strabico?»
+
+«Ho udito James Welkin ridere così distintamente come sento lei parlare»,
+disse la ragazza, con fermezza. «Non c’era nessuno lì, poiché stavo proprio
+fuori della bottega all’angolo, e potevo vedere in fondo a entrambe le strade insieme.
+Avevo dimenticato come rideva, benché la sua risata fosse strana quanto il suo strabismo.
+Non pensavo a lui da quasi un anno. Ma è una solenne [[Truth|verità]]
+che pochi secondi dopo arrivò la prima lettera del suo rivale.»
+
+«Ha mai fatto parlare o squittire lo spettro, o qualcosa del genere?»
+chiese Angus, con un certo interesse.
+
+Laura rabbrividì all’improvviso, e poi disse, con voce
+ferma: «Sì. Proprio quando avevo finito di leggere la seconda
+lettera di Isidore Smythe che annunciava il suo [[success|successo]].
+Proprio allora, udii Welkin dire: “Non l’avrà, però.”
+Era del tutto chiaro, come se fosse nella stanza. È terribile,
+credo di dover essere pazza.»
+
+«Se lei fosse davvero pazza», disse il giovane, «penserebbe
+di dover essere sana. Ma di certo mi pare
+che ci sia qualcosa di un po’ curioso in questo gentiluomo invisibile.
+Due teste sono meglio di una… le risparmio le allusioni a qualsiasi
+altro organo… e davvero, se mi permettesse, da uomo robusto e
+pratico qual sono, di riportare in casa la torta nuziale dalla vetrina…»
+
+Proprio mentre parlava, ci fu una specie di stridore metallico nella strada là fuori,
+e una piccola automobile, spinta a velocità indiavolata, sfrecciò fino alla porta della bottega
+e vi si arrestò di colpo. Nello stesso lampo di tempo un ometto in lucido cappello a cilindro
+stava pestando i piedi nella saletta esterna.
+
+Angus, che fino a quel momento aveva mantenuto una giovialità disinvolta per motivi
+d’igiene mentale, rivelò la tensione del proprio animo uscendo
+bruscamente a grandi passi dalla saletta interna e affrontando il nuovo venuto.
+Un’occhiata bastò pienamente a confermare le feroci
+congetture di un uomo innamorato. Quella figura assai elegante ma nanesca,
+con la punta della barba nera protesa in avanti con insolenza,
+gli occhi svegli e inquieti, le dita ordinate ma molto nervose,
+non potevano essere altri che l’uomo appena descrittogli:
+Isidore Smythe, che faceva bambole con bucce di banana e scatole di fiammiferi;
+Isidore Smythe, che faceva milioni con maggiordomi astemi
+e cameriere di metallo che non civettavano. Per un attimo i due uomini,
+comprendendo istintivamente l’aria di possesso l’uno dell’altro,
+si guardarono con quella curiosa fredda generosità che è
+l’anima della rivalità.
+
+Il signor Smythe, tuttavia, non fece alcuna allusione al fondamento ultimo
+del loro antagonismo, ma disse semplicemente e in modo esplosivo:
+«La signorina Hope ha visto quella cosa sulla vetrina?»
+
+«Sulla vetrina?» ripeté Angus, sbalordito.
+
+«Non c’è tempo di spiegare altre cose», disse il piccolo
+milionario in tono breve. «Qui c’è in corso qualche pagliacciata
+che dev’essere indagata.»
+
+Puntò il suo lucido bastone da passeggio verso la vetrina,
+recentemente sguarnita dai preparativi nuziali del signor Angus;
+e quel gentiluomo rimase stupito nel vedere lungo la parte anteriore
+del vetro una lunga striscia di carta incollata, che certamente non
+c’era sulla vetrina quando l’aveva guardata attraverso poco prima.
+Seguendo l’energico Smythe fuori nella strada,
+scoprì che un metro e mezzo circa di carta da bollo era stata
+accuratamente incollata lungo il vetro all’esterno, e su di essa era scritto
+in caratteri sbilenchi: «Se sposi Smythe, egli morirà.»
+
+«Laura», disse Angus, sporgendo la sua grande testa rossa nella bottega,
+«non sei pazza.»
+
+«È la scrittura di quel tale Welkin», disse Smythe burbero.
+«Non lo vedo da anni, ma non smette mai di importunarmi.
+Cinque volte nelle ultime due settimane mi sono state lasciate lettere
+minatorie al mio appartamento, e non riesco nemmeno a scoprire chi le lascia,
+figuriamoci se sia Welkin stesso. Il portiere del palazzo
+giura che non è stato visto alcun personaggio sospetto, e qui
+lui incolla una specie di zoccolatura sulla vetrina di una bottega pubblica,
+mentre la gente nella bottega…»
+
+«Appunto», disse Angus con modestia, «mentre la gente nella bottega
+prendeva il tè. Ebbene, signore, posso assicurarle che apprezzo
+il suo buon senso nell’affrontare la faccenda in modo così diretto.
+Delle altre cose potremo parlare in seguito. Il tale non può
+essere ancora molto lontano, poiché giuro che non c’era carta lì
+quando andai l’ultima volta alla vetrina, dieci o quindici minuti fa.
+D’altro canto, è troppo lontano per essere inseguito, dato che non ne
+conosciamo nemmeno la direzione. Se vuol seguire il mio consiglio, signor Smythe,
+metta subito la cosa nelle mani di un energico investigatore,
+privato piuttosto che pubblico. Conosco un tizio straordinariamente in gamba,
+che si è messo in affari a cinque minuti da qui con la sua auto.
+Si chiama Flambeau, e benché la sua giovinezza sia stata un po’ burrascosa,
+adesso è un uomo rigorosamente onesto, e il suo cervello vale denaro.
+Abita a Lucknow Mansions, a Hampstead.»
+
+«È strano», disse l’ometto, inarcando le nere sopracciglia.
+«Io stesso abito a Himylaya Mansions, dietro l’angolo.
+Forse le farebbe piacere venire con me; posso salire nelle mie stanze
+e mettere in ordine questi curiosi documenti di Welkin, mentre lei corre
+a prendere il suo amico investigatore.»
+
+«Lei è molto gentile», disse Angus con cortesia. «Ebbene, prima
+agiamo, meglio è.»
+
+Entrambi gli uomini, con una strana specie di improvvisata correttezza, presero il medesimo
+formale congedo dalla signora, e balzarono entrambi nella svelta automobiletta.
+Mentre Smythe impugnava le leve e svoltavano il grande angolo della strada,
+Angus si divertì a vedere un gigantesco manifesto del “Silent Service di Smythe”,
+con l’immagine di un’enorme bambola di ferro senza testa, che reggeva una casseruola con
+la leggenda: «Una cuoca che non è mai imbronciata.»
+
+«Le uso nel mio stesso appartamento», disse l’ometto dalla barba nera,
+ridendo, «in parte per réclame, e in parte per reale comodità.
+Onestamente, e in tutta chiarezza, quelle mie grandi bambole a orologeria
+vi portano il carbone o il chiaretto o un orario ferroviario più in fretta di qualsiasi
+servitore in carne e ossa io abbia mai conosciuto, se sapete quale manopola premere.
+Ma non negherò mai, tra noi, che tali servitori hanno
+anche i loro svantaggi.»
+
+«Davvero?» disse Angus; «c’è qualcosa che non sanno fare?»
+
+«Sì», rispose Smythe con freddezza; «non sanno dirmi chi ha lasciato quelle lettere
+minatorie al mio appartamento.»
+
+L’automobile dell’uomo era piccola e veloce come lui; anzi,
+al pari del suo servizio domestico, era di sua propria invenzione. Se era
+un ciarlatano della réclame, era di quelli che credono nella propria mercanzia.
+La sensazione di qualcosa di minuscolo e volante era accentuata mentre risalivano
+lunghe curve bianche di strada nella spenta ma aperta luce del vespro.
+Presto le curve bianche si fecero più nette e più vertiginose; erano su
+spirali ascendenti, come si dice nelle religioni moderne.
+Poiché, in verità, stavano superando la cresta di un angolo di Londra che è quasi
+scosceso come Edimburgo, se non altrettanto pittoresco.
+Terrazza si levava sopra terrazza, e la particolare torre di appartamenti
+che cercavano si levava sopra tutte a un’altezza quasi egizia,
+dorata dal tramonto radente. Il mutamento, mentre svoltavano l’angolo
+ed entravano nel semicerchio noto come Himylaya Mansions, fu tanto
+brusco quanto l’aprirsi di una finestra; poiché trovarono quella mole
+di appartamenti posata sopra Londra come sopra un verde mare d’ardesia.
+Di fronte al palazzo, sull’altro lato del semicerchio ghiaioso,
+c’era un recinto cespuglioso più simile a una ripida siepe o argine che a un giardino,
+e un po’ più in basso scorreva una striscia d’acqua artificiale,
+una sorta di canale, come il fossato di quella fortezza inghirlandata di verde.
+Mentre l’auto girava attorno al semicerchio passò, a un angolo, la sperduta
+bancarella di un uomo che vendeva castagne; e proprio in fondo, all’altra estremità
+della curva, Angus poté scorgere un fioco poliziotto azzurro che camminava lentamente.
+Erano le uniche forme umane in quell’alta solitudine suburbana;
+ma egli ebbe l’irrazionale sensazione che esse esprimessero la muta
+poesia di Londra. Si sentì come se fossero figure in un racconto.
+
+L’automobiletta sfrecciò fino alla casa giusta come una pallottola, e sparò fuori
+il suo proprietario come una granata. Egli stava già domandando a un alto
+usciere in gallone lucente, e a un basso portiere in maniche di camicia,
+se qualcuno o qualcosa avesse cercato il suo appartamento.
+Gli fu assicurato che nessuno e nulla era passato dinanzi a quei funzionari
+dalle sue ultime domande; dopodiché lui e il leggermente sconcertato
+Angus furono sparati su per l’ascensore come un razzo, finché raggiunsero
+l’ultimo piano.
+
+«Entri solo un momento», disse Smythe ansante. «Voglio
+mostrarle quelle lettere di Welkin. Poi potrebbe fare un salto dietro l’angolo
+e andare a prendere il suo amico.» Premette un bottone nascosto nel muro,
+e la porta si aprì da sé.
+
+Si aprì su una lunga, comoda anticamera, di cui gli unici
+tratti degni di nota, in condizioni normali, erano le file di alte
+figure meccaniche semiumane che si ergevano su entrambi i lati
+come manichini da sarto. Come manichini da sarto erano senza testa;
+e come manichini da sarto avevano una bella superflua gobbosità
+nelle spalle, e una sporgenza pettoruta del torace;
+ma a parte questo, non somigliavano a una figura umana più di
+qualsiasi macchina automatica di una stazione che sia all’incirca dell’altezza di un uomo.
+Avevano due grandi ganci a mo’ di braccia, per portare vassoi;
+ed erano dipinti verde pisello, o vermiglio, o nero
+per comodità di distinzione; in ogni altro senso erano
+soltanto macchine automatiche e nessuno le avrebbe guardate
+due volte. In quell’occasione, almeno, nessuno lo fece.
+Poiché tra le due file di questi manichini domestici giaceva qualcosa
+di più interessante di gran parte dei congegni del mondo.
+Era un bianco, lacero brandello di carta scarabocchiato con inchiostro rosso;
+e l’agile inventore l’aveva ghermito quasi non appena
+la porta si era spalancata. Lo porse ad Angus senza una parola.
+L’inchiostro rosso su di esso in realtà non era asciutto, e il messaggio diceva:
+«Se sei stato a trovarla oggi, ti ucciderò.»
+
+Ci fu un breve silenzio, e poi Isidore Smythe disse con calma:
+«Le andrebbe un po’ di whisky? Io ho piuttosto la sensazione che me ne serva.»
+
+«Grazie; a me andrebbe un po’ di Flambeau», disse Angus, cupo.
+«Questa faccenda mi pare stia diventando piuttosto grave.
+Vado subito a prenderlo.»
+
+«Fa benissimo», disse l’altro, con ammirevole allegria.
+«Me lo porti qui il più in fretta che può.»
+
+Ma mentre Angus si chiudeva la porta d’ingresso alle spalle, vide Smythe respingere
+indietro un bottone, e una delle immagini a orologeria scivolò dal suo posto e sdrucciolò
+lungo un solco nel pavimento reggendo un vassoio con sifone e caraffa.
+Sembrava esserci davvero qualcosa di un tantino sinistro nel lasciare l’ometto solo
+tra quei servitori morti, che tornavano in vita mentre la porta si chiudeva.
+
+Sei gradini più sotto del pianerottolo di Smythe, l’uomo in maniche di camicia stava
+facendo qualcosa con un secchio. Angus si fermò per estorcergli la promessa,
+rafforzata da una mancia in prospettiva, che sarebbe rimasto
+in quel luogo fino al suo ritorno con l’investigatore, e che avrebbe
+tenuto il conto di qualunque sorta di estraneo salisse quelle scale.
+Precipitandosi giù all’atrio d’ingresso, affidò poi analoghi incarichi
+di vigilanza all’usciere alla porta principale, dal quale
+apprese la circostanza semplificatrice che non c’era porta sul retro.
+Non contento di questo, catturò il poliziotto errante
+e lo persuase a mettersi di fronte all’ingresso e a sorvegliarlo;
+e infine si fermò un istante per un penny di castagne,
+e per informarsi sulla probabile durata della permanenza del venditore
+nel vicinato.
+
+Il venditore di castagne, tirandosi su il colletto del cappotto, gli disse
+che probabilmente se ne sarebbe andato tra poco, poiché pensava che stesse
+per nevicare. In effetti, la sera si faceva grigia e pungente,
+ma Angus, con tutta la sua eloquenza, si adoperò per inchiodare l’uomo delle castagne
+al suo posto.
+
+«Si tenga caldo con le sue stesse castagne», disse con fervore.
+«Si mangi tutta la scorta; ne varrà la pena, glielo faccio io.
+Le darò una sterlina se aspetta qui finché non torno,
+e poi mi dice se qualche uomo, donna o bambino è entrato
+in quella casa dove sta l’usciere.»
+
+Poi si allontanò a passo svelto, con un ultimo sguardo alla torre assediata.
+
+«In ogni caso, ho fatto un cerchio attorno a quella stanza», disse.
+«Non possono essere tutti e quattro complici del signor Welkin.»
+
+Lucknow Mansions erano, per così dire, su una piattaforma più bassa di quella collina
+di case, di cui Himylaya Mansions poteva dirsi la vetta.
+L’appartamento semiufficiale del signor Flambeau era al pianterreno, e presentava
+sotto ogni aspetto un netto contrasto con i macchinari americani e il freddo lusso
+da albergo dell’appartamento del Silent Service. Flambeau, che era amico
+di Angus, lo ricevette in un covo artistico in stile rococò dietro l’ufficio,
+i cui ornamenti erano sciabole, archibugi, curiosità orientali,
+fiaschi di vino italiano, selvagge pentole da cucina, un piumoso gatto persiano,
+e un piccolo pretino cattolico dall’aria impolverata, che pareva particolarmente
+fuori posto.
+
+«Questo è il mio amico Padre Brown», disse Flambeau. «Da tempo
+desideravo fartelo conoscere. Splendido tempo, questo; un po’ freddo
+per un meridionale come me.»
+
+«Sì, credo che si manterrà sereno», disse Angus, sedendosi su
+un’ottomana orientale a righe violacee.
+
+«No», disse il prete con calma, «ha cominciato a nevicare.»
+
+E, in effetti, mentre egli parlava, i primi fiocchi, previsti dall’uomo
+delle castagne, cominciarono a fluttuare attraverso il vetro della finestra che si oscurava.
+
+«Be’», disse Angus con gravità. «Temo di essere venuto per affari,
+e per affari piuttosto inquietanti, per giunta. Il fatto è, Flambeau, che a un
+tiro di sasso da casa tua c’è un tale che ha un gran bisogno del tuo aiuto;
+è perpetuamente perseguitato e minacciato da un nemico invisibile…
+un mascalzone che nessuno ha mai neppure visto.» Mentre Angus proseguiva a raccontare
+tutta la storia di Smythe e Welkin, cominciando dal racconto di Laura,
+e continuando col proprio, la risata soprannaturale all’angolo di due
+strade vuote, le strane parole distinte pronunciate in una stanza vuota,
+Flambeau si mostrava sempre più vivamente preoccupato, e il piccolo
+prete pareva essere lasciato fuori dalla faccenda, come un pezzo di mobilio.
+Quando si venne alla carta da bollo scarabocchiata e incollata sulla vetrina,
+Flambeau si alzò, sembrando riempire la stanza con le sue enormi spalle.
+
+«Se non ti dispiace», disse, «penso che faresti meglio a raccontarmi
+il resto lungo la strada più breve verso la casa di quest’uomo.
+Ho l’impressione, chissà perché, che non ci sia tempo da perdere.»
+
+«Ne sarò lieto», disse Angus, alzandosi anche lui, «benché per il
+momento egli sia abbastanza al sicuro, giacché ho messo quattro uomini a sorvegliare l’unico buco
+della sua tana.»
+
+Uscirono nella strada, il piccolo prete che li seguiva trotterellando
+con la docilità di un cagnolino. Si limitò a dire,
+in tono allegro, come chi fa conversazione: «Come diventa spessa
+in fretta la neve sul terreno.»
+
+Mentre si infilavano per le ripide stradine laterali già incipriate d’argento,
+Angus terminò la sua storia; e quando raggiunsero il semicerchio
+con gli altissimi palazzi, ebbe agio di rivolgere l’attenzione
+alle quattro sentinelle. Il venditore di castagne, sia prima sia dopo
+aver ricevuto una sterlina, giurò cocciutamente di aver sorvegliato la porta
+e di non aver visto entrare alcun visitatore. Il poliziotto fu ancora più categorico.
+Disse che aveva avuto esperienza di furfanti di ogni genere, in cappello a cilindro e in stracci;
+non era così sprovveduto da aspettarsi che i personaggi sospetti avessero l’aria sospetta;
+teneva d’occhio chiunque, e, che Dio lo aiutasse, non c’era stato nessuno.
+E quando tutti e tre gli uomini si radunarono attorno all’usciere dorato, che ancora
+se ne stava sorridente a gambe divaricate sotto il portico, il verdetto fu ancora più definitivo.
+
+«Ho il diritto di chiedere a qualsiasi uomo, duca o spazzino, che cosa vuole
+in questi appartamenti», disse il gioviale gigante gallonato d’oro, «e
+giuro che non c’è stato nessuno a cui chiederlo da quando questo signore se n’è andato.»
+
+L’insignificante Padre Brown, che se ne stava in disparte, guardando modestamente
+il selciato, si azzardò qui a dire con mitezza: «Nessuno è dunque
+salito o sceso per le scale da quando ha cominciato a cadere la neve?
+Ha cominciato mentre eravamo tutti da Flambeau.»
+
+«Non è entrato nessuno qui, signore, può prenderlo per certo da me», disse il funzionario,
+con raggiante autorità.
+
+«Allora mi chiedo che cosa sia quello», disse il prete, e fissò il suolo
+con aria vacua come un pesce.
+
+Anche gli altri guardarono in giù; e Flambeau ricorse a una feroce
+esclamazione e a un gesto francese. Poiché era indiscutibilmente vero
+che lungo il centro dell’ingresso custodito dall’uomo in gallone d’oro,
+proprio tra le arroganti gambe divaricate di quel colosso,
+correva un filiforme disegno di grigie impronte impresse sulla bianca neve.
+
+«Dio!» gridò Angus involontariamente, «l’uomo invisibile!»
+
+Senza un’altra parola si voltò e si precipitò su per le scale,
+con Flambeau al seguito; ma Padre Brown restava ancora a guardarsi
+attorno nella strada coperta di neve come se avesse perso interesse
+per la sua domanda.
+
+Flambeau era chiaramente in vena di sfondare la porta con le sue grandi spalle;
+ma lo scozzese, con più ragione, se con meno intuito, andò a tastare
+il telaio della porta finché trovò il bottone invisibile; e la porta
+si aprì lentamente.
+
+Mostrava sostanzialmente lo stesso interno serrato; l’atrio
+si era fatto più buio, benché fosse ancora colpito qua e là
+dagli ultimi cremisi raggi del tramonto, e una o due
+delle macchine senza testa erano state spostate dai loro posti per questo
+o quello scopo, e si ergevano qua e là per il luogo crepuscolare.
+Il verde e il rosso delle loro giubbe erano tutti oscurati nella penombra;
+e la loro somiglianza con forme umane era lievemente accresciuta
+dalla loro stessa informità. Ma nel bel mezzo di tutte,
+esattamente dove era giaciuta la carta con l’inchiostro rosso, giaceva
+qualcosa che pareva inchiostro rosso rovesciato dalla sua bottiglia.
+Ma non era inchiostro rosso.
+
+Con una francese combinazione di raziocinio e violenza Flambeau
+disse semplicemente «Assassinio!» e, gettandosi nell’appartamento,
+ne esplorò ogni angolo e armadio in cinque minuti.
+Ma se si aspettava di trovare un cadavere, non ne trovò alcuno.
+Isidore Smythe non era nel luogo, né morto né vivo.
+Dopo la più straziante ricerca i due uomini si ritrovarono
+nell’atrio esterno, coi volti madidi e gli occhi sbarrati.
+«Amico mio», disse Flambeau, parlando francese per l’eccitazione,
+«non solo il tuo assassino è invisibile, ma rende invisibile
+anche l’assassinato.»
+
+Angus si guardò attorno nella stanza fioca piena di manichini, e in
+qualche angolo celtico della sua anima scozzese cominciò un brivido.
+Una delle bambole a grandezza naturale sovrastava immediatamente la macchia
+di sangue, chiamata, forse, dall’uomo ucciso un istante prima che cadesse.
+Uno dei ganci a spalla alta che servivano da braccia all’aggeggio,
+era leggermente sollevato, e Angus ebbe d’improvviso l’orribile fantasia
+che il figlio di ferro del povero Smythe l’avesse abbattuto.
+La materia si era ribellata, e quelle macchine avevano ucciso il loro padrone.
+Ma anche così, che cosa ne avevano fatto?
+
+«Lo hanno mangiato?» disse l’incubo al suo orecchio; ed egli ebbe un moto
+di nausea per un istante all’idea di lacerati, umani resti assorbiti
+e stritolati in tutta quella acefala meccanica a orologeria.
+
+Recuperò la propria sanità mentale con uno sforzo deciso,
+e disse a Flambeau: «Bene, ecco qua. Il pover’uomo è
+evaporato come una nuvola e ha lasciato una striscia rossa sul pavimento.
+La storia non appartiene a questo mondo.»
+
+«C’è solo una cosa da fare», disse Flambeau, «che appartenga
+a questo mondo o all’altro. Devo scendere a parlare col mio amico.»
+
+Scesero, passando davanti all’uomo col secchio, che di nuovo asserì
+di non aver lasciato passare alcun intruso, giù fino all’usciere e all’
+aleggiante uomo delle castagne, i quali rigidamente riaffermarono la loro stessa vigilanza.
+Ma quando Angus si guardò attorno in cerca della sua quarta conferma non riuscì a vederla,
+e gridò con una certa nervosità: «Dov’è il poliziotto?»
+
+«Chiedo scusa», disse Padre Brown; «è colpa mia.
+L’ho appena mandato giù per la strada a indagare su una cosa…
+che mi è appena parsa degna d’indagine.»
+
+«Bene, lo rivogliamo qui abbastanza presto», disse Angus bruscamente,
+«poiché il disgraziato là sopra non solo è stato assassinato,
+ma cancellato.»
+
+«Come?» chiese il prete.
+
+«Padre», disse Flambeau, dopo una pausa, «sull’anima mia credo
+che sia più affare del suo reparto che del mio. Nessun amico né nemico è
+entrato nella casa, eppure Smythe è sparito, come rubato dalle fate.
+Se questo non è soprannaturale, io…»
+
+Mentre parlava furono tutti bloccati da uno spettacolo insolito; il grosso
+poliziotto azzurro spuntò di corsa dall’angolo del semicerchio.
+Venne dritto verso Brown.
+
+«Ha ragione, signore», ansimò, «hanno appena trovato il corpo del povero
+signor Smythe nel canale là sotto.»
+
+Angus si portò follemente la mano alla testa. «È corso giù e si è
+annegato?» chiese.
+
+«Non è mai sceso, lo giuro», disse l’agente, «e non è nemmeno
+annegato, poiché è morto per un gran colpo di pugnale al cuore.»
+
+«Eppure non avete visto entrare nessuno?» disse Flambeau con voce grave.
+
+«Scendiamo un poco per la strada», disse il prete.
+
+Quando raggiunsero l’altra estremità del semicerchio egli osservò bruscamente:
+«Che stupido sono stato! Ho dimenticato di chiedere una cosa al poliziotto.
+Mi chiedo se abbiano trovato un sacco marrone chiaro.»
+
+«Perché un sacco marrone chiaro?» chiese Angus, stupito.
+
+«Perché se fosse stato un sacco di qualsiasi altro colore, il caso dovrebbe
+ricominciare da capo», disse Padre Brown; «ma se era un sacco
+marrone chiaro, ebbene, il caso è chiuso.»
+
+«Sono lieto di sentirlo», disse Angus con cordiale ironia.
+«Per quanto mi riguarda, non è nemmeno cominciato.»
+
+«Deve raccontarci tutto», disse Flambeau con una strana
+pesante semplicità, come un bambino.
+
+Inconsapevolmente camminavano a passi sempre più rapidi giù per la lunga
+distesa di strada sull’altro lato dell’alto semicerchio, con Padre Brown
+che apriva la marcia spedito, benché in silenzio. Alla fine disse con una vaghezza
+quasi commovente: «Be’, temo che vi parrà una cosa tanto prosaica.
+Cominciamo sempre dal capo astratto delle cose, e questa storia
+non si può cominciare da nessun’altra parte.
+
+«Avete mai notato questo… che la gente non risponde mai a ciò che dite?
+Risponde a ciò che intendete… o a ciò che pensa voi intendiate.
+Supponete che una signora dica a un’altra in una casa di campagna: “C’è qualcuno
+che alloggia da voi?”; la signora non risponde: “Sì, il maggiordomo,
+i tre valletti, la cameriera di sala, eccetera”, benché la
+cameriera di sala possa essere nella stanza, o il maggiordomo dietro la sua sedia.
+Dice: “Non c’è nessuno che alloggi da noi”, intendendo nessuno
+del genere a cui voi pensate. Ma supponete che un medico, indagando su
+un’epidemia, chieda: “Chi alloggia nella casa?”; allora la signora
+si ricorderà del maggiordomo, della cameriera di sala e di tutti gli altri.
+Tutto il linguaggio si usa così; non ottenete mai una domanda
+a cui si risponda alla lettera, anche quando ottenete una risposta veritiera.
+Quando quei quattro uomini del tutto onesti hanno detto che nessun uomo era entrato
+nel palazzo, non intendevano davvero che nessun uomo vi fosse entrato.
+Intendevano nessun uomo che potessero sospettare essere il vostro uomo.
+Un uomo entrò nella casa, e ne uscì, ma essi
+non lo notarono mai.»
+
+«Un uomo invisibile?» s’informò Angus, sollevando le rosse sopracciglia.
+«Un uomo mentalmente invisibile», disse Padre Brown.
+
+Un minuto o due dopo riprese con la stessa voce dimessa,
+come uno che va pensando strada facendo. «Naturalmente non riuscite a pensare
+a un uomo simile, finché non ci pensate. È qui che sta la sua
+abilità. Ma io arrivai a pensare a lui attraverso
+due o tre piccole cose nel racconto che il signor Angus ci ha fatto.
+Primo, c’era il fatto che questo Welkin faceva lunghe passeggiate.
+E poi c’era la vasta quantità di carta da bollo sulla vetrina.
+E poi, soprattutto, c’erano le due cose che la giovane
+signorina disse… cose che non potevano essere vere. Non si offenda»,
+aggiunse in fretta, notando un improvviso moto della testa dello scozzese;
+«lei le credeva vere. Una persona non può essere del tutto
+sola in una strada un secondo prima di ricevere una lettera.
+Non può essere del tutto sola in una strada quando comincia a leggere
+una lettera appena ricevuta. Ci deve essere qualcuno abbastanza vicino a lei;
+egli dev’essere mentalmente invisibile.»
+
+«Perché ci deve essere qualcuno vicino a lei?» chiese Angus.
+
+«Perché», disse Padre Brown, «salvo i piccioni viaggiatori, qualcuno deve
+averle portato la lettera.»
+
+«Vuole davvero dire», chiese Flambeau, con energia,
+«che Welkin portava le lettere del rivale alla sua dama?»
+
+«Sì», disse il prete. «Welkin portava le lettere del rivale alla sua dama.
+Vedete, non poteva fare altrimenti.»
+
+«Oh, non ne posso più di tutto questo», esplose Flambeau. «Chi è
+questo tale? Che aspetto ha? Qual è la tenuta abituale
+di un uomo mentalmente invisibile?»
+
+«È vestito piuttosto elegantemente di rosso, azzurro e oro»,
+rispose il prete prontamente con precisione, «e in questo vistoso,
+e persino sgargiante, costume egli entrò a Himylaya Mansions sotto otto
+occhi umani; uccise Smythe a sangue freddo, e scese di nuovo
+in strada portando il cadavere tra le braccia…»
+
+«Reverendo signore», gridò Angus, fermandosi di colpo, «è pazzo furioso lei,
+o lo sono io?»
+
+«Lei non è pazzo», disse Brown, «solo un po’ poco osservante.
+Non ha notato un uomo come questo, per esempio.»
+
+Fece tre rapidi passi in avanti, e posò la mano sulla spalla
+di un comune postino di passaggio che era sgusciato loro accanto inosservato
+all’ombra degli alberi.
+
+«Nessuno nota mai i postini, chissà perché», disse pensieroso;
+«eppure hanno passioni come gli altri uomini, e per giunta portano grandi
+sacchi dove un piccolo cadavere può essere riposto con tutta comodità.»
+
+Il postino, invece di voltarsi con naturalezza, si abbassò e ruzzolò contro
+lo steccato del giardino. Era un uomo magro, dalla barba chiara, d’aspetto assai comune,
+ma nel voltare un viso allarmato al di sopra della spalla, tutti e tre gli uomini furono inchiodati
+da uno strabismo quasi diabolico.
+                            * * * * * *
+
+Flambeau tornò alle sue sciabole, ai tappeti purpurei e al gatto persiano, avendo molte
+cose da sbrigare. John Turnbull Angus tornò dalla signora alla bottega,
+con la quale quell’imprudente giovanotto si ingegna di starsene estremamente a proprio agio.
+Ma Padre Brown camminò per quelle colline coperte di neve sotto le stelle per molte
+ore insieme a un assassino, e ciò che si dissero l’un l’altro non si saprà mai.

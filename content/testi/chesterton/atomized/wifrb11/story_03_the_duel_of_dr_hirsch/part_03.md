@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/wifrb11-(chesterton)">The Wisdom of Father Brown</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/wifrb11/story_03_the_duel_of_dr_hirsch/part_02">‹ part 02</a><a class="ex-next" href="/testi/chesterton/atomized/wifrb11/story_03_the_duel_of_dr_hirsch/part_04">part 04 ›</a></div>
@@ -144,3 +146,144 @@ but letting it more and more be guessed.  The better part of him
 I said it was the left drawer.'  The meaner part of him would already
 be saying:  `But they may have the sense to see that means the right.'
 I think it is psychologically possible--in an enlightened age, you know."
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/wifrb11-(chesterton)">The Wisdom of Father Brown</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/wifrb11/story_03_the_duel_of_dr_hirsch/part_02">‹ part 02</a><a class="ex-next" href="/testi/chesterton/atomized/wifrb11/story_03_the_duel_of_dr_hirsch/part_04">part 04 ›</a></div>
+</nav>
+
+# [[wifrb11]] — Il duello del dottor Hirsch (parte 3)
+
+     «Temo di dover mollare questa faccenda», disse pesantemente.
+«Sto tutto dalla parte dei soldati francesi come Dubosc,
+e sono tutto contro gli atei francesi come Hirsch; ma mi pare
+che in questo caso abbiamo commesso un errore. Il duca e io pensammo che fosse bene
+indagare sull'accusa, e devo dire che sono contento di averlo fatto».
+
+     «Il foglio è dunque un falso?» chiese il prete.
+
+     «È proprio questa la cosa strana», rispose Flambeau. «È esattamente come
+la calligrafia di Hirsch, e nessuno vi sa indicare un solo errore.
+Ma non è stato scritto da Hirsch. Se è un patriota francese
+non l'ha scritto lui, perché fornisce informazioni alla Germania.
+E se è una spia tedesca non l'ha scritto lui, be'... perché non
+fornisce informazioni alla Germania».
+
+     «Vuoi dire che l'informazione è sbagliata?» chiese padre Brown.
+
+     «Sbagliata», rispose l'altro, «e sbagliata proprio là dove il dottor Hirsch
+avrebbe avuto ragione: sul nascondiglio della sua stessa formula segreta
+nel suo stesso dipartimento ufficiale. Per grazia di Hirsch e delle autorità,
+al duca e a me è stato effettivamente permesso di ispezionare il cassetto segreto
+al Ministero della Guerra dove è custodita la formula Hirsch. Siamo le uniche persone
+che l'abbiano mai conosciuto, eccetto l'inventore stesso e il ministro
+della Guerra; ma il ministro lo permise per salvare Hirsch dal duello.
+Dopo di che non possiamo davvero sostenere Dubosc se la sua rivelazione
+è una montatura».
+
+     «E lo è?» chiese padre Brown.
+
+     «Lo è», disse cupo l'amico. «È un falso maldestro
+opera di qualcuno che nulla sapeva del vero nascondiglio. Dice che il foglio
+è nell'armadietto a destra della scrivania del Segretario. In realtà
+l'armadietto col cassetto segreto è alquanto a sinistra della scrivania.
+Dice che la busta grigia contiene un lungo documento scritto in inchiostro rosso.
+Non è scritto in inchiostro rosso, ma in ordinario inchiostro nero.
+È manifestamente assurdo dire che Hirsch possa aver commesso un errore
+su un foglio di cui nessuno era a conoscenza tranne lui stesso; o che possa aver cercato
+di aiutare un ladro straniero dicendogli di frugare nel cassetto sbagliato.
+Credo che dobbiamo lasciar perdere e scusarci col vecchio Carote».
+
+     Padre Brown parve meditare; sollevò un piccolo bianchetto
+sulla forchetta. «Sei sicuro che la busta grigia fosse nell'armadietto di sinistra?»
+chiese.
+
+     «Sicurissimo», rispose Flambeau. «La busta grigia...
+era una busta bianca in realtà... era...»
+
+     Padre Brown posò il piccolo pesce d'argento e la forchetta e
+fissò il suo compagno di fronte. «Cosa?» chiese, con voce mutata.
+
+     «Be', cosa?» ripeté Flambeau, mangiando di gusto.
+
+     «Non era grigia», disse il prete. «Flambeau, mi fai paura».
+
+     «Che diavolo ti fa paura?»
+
+     «Mi fa paura una busta bianca», disse l'altro seriamente,
+«Se solo fosse stata grigia! Al diavolo, sarebbe anche potuta
+essere grigia. Ma se era bianca, tutta la faccenda è nera.
+Il dottore ha trafficato con un po' del vecchio zolfo, dopotutto».
+
+     «Ma ti dico che non poteva aver scritto una nota simile!»
+esclamò Flambeau. «La nota è del tutto sbagliata sui fatti.
+E innocente o colpevole, il dottor Hirsch sapeva tutto dei fatti».
+
+     «L'uomo che ha scritto quella nota sapeva tutto dei fatti»,
+disse pacatamente il suo compagno in tonaca. «Non avrebbe mai potuto
+sbagliarli tutti così senza conoscerli. Bisogna sapere
+un mucchio di cose per aver torto su ogni argomento: come il diavolo».
+
+     «Vuoi dire...?»
+
+     «Voglio dire che un uomo che dicesse menzogne a caso avrebbe detto qualche verità»,
+disse fermamente l'amico. «Supponi che qualcuno ti mandasse a cercare una casa
+con una porta verde e una persiana azzurra, con un giardino davanti ma non dietro,
+con un cane ma senza gatto, e dove si bevesse caffè ma non tè.
+Se non trovassi una casa simile diresti che è tutto inventato.
+Ma io dico di no. Io dico che se trovassi una casa dove la porta fosse azzurra e
+la persiana verde, dove ci fosse un giardino dietro e non davanti,
+dove i gatti fossero comuni e i cani abbattuti all'istante, dove il tè si bevesse
+a litri e il caffè fosse proibito... allora sapresti di aver
+trovato la casa. L'uomo doveva conoscere quella casa particolare
+per essere così accuratamente inesatto».
+
+     «Ma cosa potrebbe significare?» domandò il commensale di fronte.
+
+     «Non riesco a concepirlo», disse Brown; «non capisco affatto questa faccenda
+di Hirsch. Finché si trattava solo del cassetto di sinistra invece di
+quello di destra, e dell'inchiostro rosso invece del nero, pensavo dovessero essere le
+sviste casuali di un falsario, come dici tu. Ma il tre è un numero mistico;
+conclude le cose. Conclude questa. Che l'indicazione sul
+cassetto, il colore dell'inchiostro, il colore della busta non siano
+nessuno di essi giusto per caso, questo non può essere una coincidenza. Non lo era».
+
+     «E cos'era, allora? Tradimento?» chiese Flambeau, riprendendo la sua cena.
+
+     «Non lo so nemmeno questo», rispose Brown, con un volto
+di totale smarrimento. «L'unica cosa a cui riesco a pensare...
+Ebbene, non ho mai capito quel caso Dreyfus. So sempre afferrare
+le prove morali più facilmente delle altre specie. Vado dagli occhi e dalla voce di un uomo,
+capisci, e da se la sua famiglia pare felice, e dagli argomenti
+che sceglie... e che evita. Ebbene, ero perplesso nel caso Dreyfus.
+Non per le cose orribili imputate in entrambi i sensi; io so (benché non sia
+moderno dirlo) che la natura umana nei luoghi più alti è ancora capace
+di essere un Cenci o un Borgia. No... ciò che mi lasciava perplesso era la sincerità
+di entrambe le parti. Non intendo i partiti politici; la truppa
+è sempre grossolanamente onesta, e spesso ingannata. Intendo i personaggi
+del dramma. Intendo i congiurati, se erano congiurati.
+Intendo il traditore, se era un traditore. Intendo gli uomini che dovevano
+aver saputo la verità. Ora, Dreyfus si comportava come un uomo che sapeva di essere
+un uomo offeso. Eppure gli statisti e i soldati francesi si comportavano
+come se sapessero che egli non era un uomo offeso ma semplicemente un mascalzone.
+Non intendo che si comportassero bene; intendo che si comportavano come se fossero sicuri.
+Non so descrivere queste cose; so cosa intendo».
+
+     «Vorrei saperlo anch'io», disse l'amico. «E cosa c'entra
+col vecchio Hirsch?»
+
+     «Supponi che una persona in una posizione di fiducia», proseguì il prete,
+«cominciasse a dare informazioni al nemico perché erano informazioni false.
+Supponi che credesse persino di salvare il suo paese fuorviando lo straniero.
+Supponi che questo lo portasse in ambienti di spionaggio, e che gli venissero fatti piccoli prestiti,
+e legati addosso piccoli vincoli. Supponi che mantenesse la sua contraddittoria
+posizione in modo confuso non dicendo mai la verità alle spie straniere,
+ma lasciando che sempre più la si indovinasse. La parte migliore di lui
+(quel che ne restava) direbbe ancora: "Non ho aiutato il nemico;
+ho detto che era il cassetto di sinistra". La parte più vile di lui direbbe già:
+"Ma potrebbero avere il buon senso di capire che significa quello di destra".
+Credo sia psicologicamente possibile... in un'epoca illuminata, sai».

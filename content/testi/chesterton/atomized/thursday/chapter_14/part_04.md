@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/thursday-(chesterton)">The Man Who Was Thursday</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/thursday/chapter_14/part_03">‹ part 03</a><a class="ex-next" href="/testi/chesterton/atomized/thursday/chapter_15/part_01">part 01 ›</a></div>
@@ -94,3 +96,94 @@ and when he found that he had to wear a [[Sword|sword]], it stirred a boyish dre
 As he passed out of the room he flung the folds across his shoulder with
 a gesture, his [[Sword|sword]] stood out at an angle, and he had all the swagger
 of a troubadour.  For these disguises did not disguise, but reveal.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/thursday-(chesterton)">The Man Who Was Thursday</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/thursday/chapter_14/part_03">‹ part 03</a><a class="ex-next" href="/testi/chesterton/atomized/thursday/chapter_15/part_01">part 01 ›</a></div>
+</nav>
+
+# [[thursday]] — Capitolo 14 (parte 4)
+
+Quando le carrozze infine giunsero a un ampio, basso, cavernoso portale,
+un altro uomo nella stessa uniforme, ma con una stella d’argento sul grigio
+petto della giacca, uscì a incontrarli.  Questa imponente persona disse
+allo sconcertato Syme…
+
+«Nella vostra stanza vi sono preparati dei rinfreschi.»
+
+Syme, sotto l’influsso dello stesso mesmerico [[Sleep|sonno]] di stupore,
+salì l’ampia scala di quercia dietro il rispettoso attendente.
+Entrò in una splendida suite di appartamenti che sembrava progettata
+apposta per lui.  Si avvicinò a un lungo [[Mirror|specchio]] con l’ordinario
+istinto della sua classe, per raddrizzarsi la cravatta o lisciarsi i capelli;
+e là vide la spaventosa figura che era: [[Blood|sangue]] che gli colava
+lungo il volto dal punto in cui il ramo l’aveva colpito, i capelli ritti
+come gialli cenci d’erba rigogliosa, gli abiti strappati in lunghi,
+ondeggianti brandelli.  D’un tratto l’intero enigma si presentò, semplicemente come
+la questione di come fosse arrivato lì, e di come dovesse uscirne di nuovo.
+Esattamente nello stesso momento un uomo in blu, che era stato designato
+come suo cameriere, disse molto solennemente…
+
+«Vi ho preparato i vestiti, signore.»
+
+«Vestiti!» disse Syme sardonicamente.  «Non ho altri vestiti che questi»,
+e sollevò due lunghe strisce del suo tight in affascinanti festoni,
+e fece un movimento come per piroettare al modo di una ballerina.
+
+«Il mio padrone mi chiede di dirvi», disse l’attendente, «che questa [[Night|notte]] c’è un ballo
+in maschera, e che egli desidera che indossiate il costume
+che ho steso.  Nel frattempo, signore, c’è una bottiglia di Borgogna
+e un po’ di fagiano freddo, che egli spera non rifiuterete,
+poiché mancano ancora alcune ore alla cena.»
+
+«Il fagiano freddo è una buona cosa», disse Syme riflessivo,
+«e il Borgogna è una cosa magnificamente buona.  Ma in verità non desidero
+nessuno dei due tanto quanto desidero sapere che diavolo significhi
+tutto questo, e che genere di costume avete steso per me.
+Dov’è?»
+
+Il servitore sollevò da una specie di ottomana un lungo drappeggio blu pavone,
+piuttosto della [[Nature|natura]] di un domino, sul davanti del quale era blasonato
+un grande sole d’oro, e che era spruzzato qua e là di fiammeggianti
+[[Stars|stelle]] e falci di luna.
+
+«Dovete essere vestito da [[thursday|Giovedì]], signore», disse il valletto con una certa affabilità.
+
+«Vestito da [[thursday|Giovedì]]!» disse Syme meditando.  «Non suona
+come un costume caldo.»
+
+«Oh, sì, signore», disse l’altro con premura, «il costume da [[thursday|Giovedì]]
+è assai caldo, signore.  Si allaccia fino al mento.»
+
+«[[Well|Ebbene]], non capisco nulla», disse Syme sospirando.  «Sono stato abituato
+così a lungo ad avventure scomode che le avventure comode mi mettono al tappeto.
+Eppure mi sia concesso di chiedere perché io debba somigliare in modo particolare a [[thursday|Giovedì]]
+in una veste verde tutta macchiata di sole e di [[Moon|luna]].  Quegli astri, credo,
+splendono anche in altri giorni.  Una volta vidi la [[Moon|luna]] di martedì, ricordo.»
+
+«Chiedo scusa, signore», disse il valletto, «vi è stata provvista anche la [[Bible|Bibbia]]»,
+e con un dito rispettoso e rigido indicò un passo
+nel primo capitolo della Genesi.  Syme lo lesse meravigliato.
+Era quello in cui il quarto giorno della settimana è associato
+alla creazione del sole e della [[Moon|luna]].  Qui, tuttavia, contavano
+a partire da una [[Sunday|domenica]] cristiana.
+
+«Questo si fa sempre più folle», disse Syme, sedendosi su una sedia.
+«Chi è questa gente che provvede fagiano freddo e Borgogna, e vesti verdi
+e Bibbie?  Provvedono a tutto?»
+
+«Sì, signore, a tutto», disse l’attendente gravemente.
+«Vi aiuto a indossare il costume?»
+
+«Oh, appioppami addosso quell’accidente!» disse Syme spazientito.
+
+Ma benché fingesse di disprezzare la mascherata, sentì una curiosa [[Freedom|libertà]]
+e naturalezza nei suoi movimenti mentre l’abito blu e oro gli cadeva intorno;
+e quando scoprì di dover portare una [[Sword|spada]], si ridestò in lui un sogno fanciullesco.
+Mentre usciva dalla stanza gettò le pieghe attraverso la spalla con
+un gesto, la sua [[Sword|spada]] sporgeva ad angolo, ed egli aveva tutta la spavalderia
+di un trovatore.  Poiché quei travestimenti non travestivano, ma rivelavano.

@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/wifrb11-(chesterton)">The Wisdom of Father Brown</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/wifrb11/story_06_the_head_of_caesar/part_05">‹ part 05</a><a class="ex-next" href="/testi/chesterton/atomized/wifrb11/story_07_the_purple_wig/part_02">part 02 ›</a></div>
@@ -126,3 +128,126 @@ He proposes to tell his story as it occurred, step by step.
 He will use the real names of the parties, who in most cases are ready
 to confirm his testimony.   As for the headlines, the sensational
 proclamations--they will come at the end.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/wifrb11-(chesterton)">The Wisdom of Father Brown</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/wifrb11/story_06_the_head_of_caesar/part_05">‹ part 05</a><a class="ex-next" href="/testi/chesterton/atomized/wifrb11/story_07_the_purple_wig/part_02">part 02 ›</a></div>
+</nav>
+
+# [[wifrb11]] — La parrucca purpurea (parte 1)
+
+                            La parrucca purpurea
+
+MR EDWARD NUTT, l'operoso direttore del Daily Reformer,
+sedeva alla scrivania, aprendo lettere e correggendo bozze sull'allegro motivo
+d'una macchina da scrivere, azionata da una vigorosa signorina.
+
+     Era un uomo biondo e alquanto tarchiato, in maniche di camicia; i suoi gesti
+erano risoluti, ferma la bocca e perentorio il tono; ma i suoi occhi azzurri,
+tondi e piuttosto puerili, avevano un'aria smarrita e persino malinconica
+che tutto ciò in qualche modo smentiva. Né, in verità, l'espressione
+era del tutto ingannevole. Si poteva dire di lui con verità, come di molti
+giornalisti in posizione d'autorità, che l'emozione a lui più familiare fosse
+quella d'una paura continua: paura delle querele per diffamazione, paura degli inserzionisti
+perduti, paura dei refusi, paura del licenziamento.
+
+     La sua vita era una serie di compromessi frenetici tra
+il proprietario del giornale (e di lui stesso), che era un rimbambito fabbricante di sapone
+con tre errori inestirpabili in testa, e la ben capace redazione
+che aveva radunato per mandare avanti il giornale; alcuni dei quali erano uomini brillanti
+ed esperti e (ciò che era ancor peggio) sinceri entusiasti
+della linea politica del giornale.
+
+     Una lettera d'uno di costoro gli stava proprio davanti,
+e per quanto rapido e risoluto egli fosse, parve quasi esitare
+prima di aprirla. Prese invece una striscia di bozza, la percorse
+con un occhio azzurro e una matita azzurra, mutò la parola «adulterio»
+nella parola «scorrettezza», e la parola «ebreo» nella parola «straniero»,
+suonò un campanello e la spedì di volo al piano di sopra.
+
+     Poi, con occhio più meditabondo, strappò e aprì la lettera del suo
+collaboratore più illustre, che recava un timbro postale del Devonshire,
+e che diceva così:
+
+     CARO NUTT, --Visto che stai lavorando insieme Fantasmi e Nobili,
+che ne diresti d'un articolo su quella strana faccenda degli Eyre di Exmoor;
+o, come la chiamano le vecchiette da queste parti, l'Orecchio del Diavolo di Eyre?
+Il capo della famiglia, sai, è il Duca di Exmoor; è uno dei
+pochi aristocratici Tory della vecchia, rigida razza rimasti, un solido tiranno all'antica
+tutto incrostato, su cui è proprio nel nostro stile suscitare scandalo. E credo di essere
+sulle tracce d'una storia che farà scandalo.
+
+     Naturalmente io non credo alla vecchia leggenda su Giacomo I;
+e quanto a te, tu non credi a nulla, nemmeno al giornalismo.
+La leggenda, probabilmente ricorderai, riguardava la vicenda più nera
+della storia inglese --l'avvelenamento di Overbury per opera di quella gatta stregonesca
+di Frances Howard, e il terrore del tutto misterioso che costrinse il Re
+a graziare gli assassini. C'era di mezzo un mucchio di presunta stregoneria;
+e la storia racconta che un servitore, origliando
+al buco della serratura, udì la verità in un colloquio tra il Re e Carr;
+e l'orecchio corporeo con cui aveva udito crebbe grande e mostruoso
+come per magia, tanto era spaventoso il segreto. E benché egli dovesse essere colmato
+di terre e d'oro e fatto capostipite di duchi, l'orecchio a forma d'elfo
+ricorre ancora nella famiglia. Ebbene, tu non credi alla magia nera;
+e se anche ci credessi, non potresti farne materia da stampa. Se un miracolo accadesse
+nel tuo ufficio, dovresti metterlo a tacere, ora che tanti vescovi
+sono agnostici. Ma non è questo il punto. Il punto è che
+c'è davvero qualcosa di strano in Exmoor e nella sua famiglia;
+qualcosa di del tutto naturale, oserei dire, ma del tutto anormale.
+E l'Orecchio c'entra in qualche modo, immagino; o come simbolo o come illusione
+o malattia o qualcosa del genere. Un'altra tradizione dice che i Cavalieri,
+subito dopo Giacomo I, cominciarono a portare i capelli lunghi soltanto per coprire
+l'orecchio del primo Lord Exmoor. Anche questo è senza dubbio fantasioso.
+
+     Il motivo per cui te lo faccio notare è questo: mi sembra che
+sbagliamo ad attaccare l'aristocrazia unicamente per il suo champagne
+e i suoi diamanti. La maggior parte degli uomini piuttosto ammira i signori per il fatto che se la spassano,
+ma credo che noi concediamo troppo quando ammettiamo che l'aristocrazia
+abbia reso felici persino gli aristocratici. Propongo una serie di articoli
+che mostrino quanto siano tetri, quanto disumani, quanto addirittura diabolici
+il puro odore e l'atmosfera di certe di queste grandi dimore.
+Gli esempi abbondano; ma non potresti cominciarne uno migliore
+che con l'Orecchio degli Eyre. Entro la fine della settimana credo di poterti
+procurare la verità in proposito. --Tuo sempre, FRANCIS FINN.
+
+     Mr Nutt rifletté un istante, fissando lo stivale sinistro;
+poi chiamò a voce alta, forte e del tutto priva di vita,
+in cui ogni sillaba suonava eguale all'altra: «Miss Barlow, prenda
+una lettera per Mr Finn, per favore».
+
+     CARO FINN, --Credo che possa andare; la copia dovrebbe arrivarci col secondo giro di posta
+di sabato. --Tuo, E. NUTT.
+
+     Questa elaborata epistola egli la articolò come se fosse tutta una parola sola;
+e Miss Barlow la batté a macchina come se fosse tutta una parola sola.
+Poi prese un'altra striscia di bozza e una matita azzurra,
+e mutò la parola «soprannaturale» nella parola «meraviglioso»,
+e l'espressione «abbattere a fucilate» nell'espressione «reprimere».
+
+     In tali liete e salutari occupazioni Mr Nutt si trastullava,
+finché il sabato successivo non lo trovò alla medesima scrivania, a dettare
+alla medesima dattilografa, e a usare la medesima matita azzurra sulla prima puntata
+delle rivelazioni di Mr Finn. L'esordio era un solido pezzo di sferzante
+invettiva sui malvagi segreti dei principi, e sulla disperazione negli alti luoghi
+della terra. Benché scritto con violenza, era in inglese eccellente;
+ma il direttore, come al solito, aveva affidato a qualcun altro il compito
+di spezzettarlo in sottotitoli, che erano d'una specie più piccante,
+come «Nobildonna e veleni» e «L'Inquietante Orecchio», «Gli Eyre nel loro Nido»,
+e così via attraverso un centinaio di felici trovate. Seguiva poi la leggenda
+dell'Orecchio, ampliata dalla prima lettera di Finn, e poi la sostanza
+delle sue scoperte successive, così come segue:
+
+     So che è costume dei giornalisti mettere la fine della storia
+al principio e chiamarla titolo. So che il giornalismo
+consiste in gran parte nel dire «Lord Jones è morto» a gente che non aveva mai saputo
+che Lord Jones fosse vivo. Il vostro presente corrispondente ritiene che questo,
+come molti altri costumi giornalistici, sia cattivo giornalismo; e che
+il Daily Reformer debba dare un esempio migliore in tali cose.
+Egli si propone di raccontare la sua storia così come si svolse, passo per passo.
+Userà i veri nomi delle persone, che nella maggior parte dei casi sono pronte
+a confermare la sua testimonianza. Quanto ai titoli, alle sensazionali
+proclamazioni --verranno alla fine.

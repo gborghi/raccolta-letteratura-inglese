@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/wifrb11-(chesterton)">The Wisdom of Father Brown</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/wifrb11/story_08_the_perishing_of_the_pendragons/part_02">‹ part 02</a><a class="ex-next" href="/testi/chesterton/atomized/wifrb11/story_08_the_perishing_of_the_pendragons/part_04">part 04 ›</a></div>
@@ -137,3 +139,40 @@ The entrance was flanked with two of those half-featured lumps of stone
 with holes for eyes that are said to be South Sea idols; and on
 the brown oak beam across the doorway were some confused carvings
 that looked almost as barbaric.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/wifrb11-(chesterton)">The Wisdom of Father Brown</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/wifrb11/story_08_the_perishing_of_the_pendragons/part_02">‹ part 02</a><a class="ex-next" href="/testi/chesterton/atomized/wifrb11/story_08_the_perishing_of_the_pendragons/part_04">part 04 ›</a></div>
+</nav>
+
+# [[wifrb11]] — La fine dei Pendragon (parte 3)
+
+     «Molti anni fa» rispose Fanshaw; «non va per mare da qualche tempo, ormai, benché ne sia appassionato come sempre. Credo ci sia un patto di famiglia, o qualcosa del genere. Bene, ecco l'imbarcadero; scendiamo a terra e andiamo a vedere il vecchio.»
+
+     Lo seguirono sull'isola, proprio sotto la torre, e Padre Brown, forse per il semplice contatto con la terra asciutta, o per l'interesse di qualcosa sull'altra riva del fiume (che fissò con grande intensità per alcuni secondi), parve singolarmente ravvivato nel brio. Imboccarono un viale alberato tra due steccati di legno sottile e grigiastro, di quelli che spesso recingono parchi o giardini, e sopra i quali gli alberi scuri si agitavano avanti e indietro come pennacchi neri e purpurei sul carro funebre di un gigante. La torre, quando la si lasciò alle spalle, appariva ancor più bizzarra, poiché simili ingressi sono di solito fiancheggiati da due torri; e questa pareva sbilenca. Ma a parte questo, il viale aveva il consueto aspetto dell'ingresso alla tenuta di un gentiluomo; ed essendo così ricurvo che la casa era ormai fuori vista, pareva chissà come un parco assai più vasto di quanto potesse in realtà essere una piantagione su un'isola simile. Padre Brown era forse un po' fantasioso nella sua stanchezza, ma pensò quasi che l'intero luogo dovesse ingrandirsi, come accade alle cose in un incubo. Comunque fosse, una mistica monotonia fu l'unico carattere della loro marcia, finché Fanshaw non si fermò di colpo, e indicò qualcosa che sporgeva attraverso lo steccato grigio — qualcosa che a prima vista somigliava piuttosto al corno imprigionato di qualche bestia. Un'osservazione più ravvicinata rivelò che era una lama di metallo leggermente ricurva, che luccicava debolmente nella luce morente.
+
+     Flambeau, che come tutti i francesi era stato soldato, si chinò su di essa e disse con voce trasalita: «Diamine, è una sciabola! Credo di conoscerne il tipo, pesante e ricurva, ma più corta di quella della cavalleria; le usavano nell'artiglieria e nei…»
+
+     Mentre parlava, la lama si divelse dalla fenditura che aveva aperto e ricadde con un fendente più ponderoso, spaccando fino in fondo lo steccato fissiparo con un rumore lacerante. Poi fu estratta di nuovo, balenò sopra lo steccato qualche piede più in là, e di nuovo lo fendette a metà al primo colpo; e dopo aver ondeggiato un poco per liberarsi (accompagnata da bestemmie nell'oscurità), lo spaccò fino a terra con un secondo. Poi un calcio d'energia diabolica scagliò l'intero quadrato di legno sottile ormai allentato in mezzo al sentiero, e un grande varco di bosco scuro si spalancò nella palizzata.
+
+     Fanshaw scrutò nell'apertura buia ed emise un'esclamazione di stupore. «Mio caro Ammiraglio!» esclamò, «avete l'abitudine di… ehm… ritagliarvi una nuova porta d'ingresso ogni volta che volete andare a passeggio?»
+
+     La voce nell'oscurità imprecò di nuovo, poi proruppe in una gioviale risata. «No» disse; «devo proprio abbattere questo steccato in qualche modo; sta rovinando tutte le piante, e qui non c'è nessun altro capace di farlo. Ma taglierò solo un altro pezzo della porta d'ingresso, e poi verrò fuori a darvi il benvenuto.»
+
+     E, com'era prevedibile, sollevò di nuovo l'arma e, menando due fendenti, abbatté un'altra striscia simile di steccato, rendendo l'apertura larga in tutto una quindicina di piedi. Poi, attraverso questo più ampio varco nella foresta, uscì nella luce della sera, con una scheggia di legno grigio appiccicata alla lama della spada.
+
+     Egli incarnò per un istante tutta la favola di Fanshaw sul vecchio Ammiraglio piratesco; sebbene i particolari, in seguito, parvero scomporsi in accidenti. Per esempio, portava un cappello a larghe tese come riparo dal sole; ma la falda anteriore era rialzata dritta verso il cielo, e i due angoli tirati giù più bassi delle orecchie, così che gli attraversava la fronte a mezzaluna, come il vecchio bicorno portato da Nelson. Indossava una comune giacca blu scuro, senza nulla di speciale nei bottoni, ma la sua combinazione con calzoni di lino bianco aveva chissà come un che di marinaresco. Era alto e slanciato, e camminava con una sorta di spavalderia, che non era l'ondeggiare del marinaio, eppure in qualche modo lo suggeriva; e teneva in mano una corta sciabola simile a un coltellaccio da marina, ma grande quasi il doppio. Sotto l'arco del cappello il suo volto d'aquila appariva ardente, tanto più che non solo era ben rasato, ma privo di sopracciglia. Pareva quasi che tutti i peli gli fossero andati via dal viso a forza di cacciarlo attraverso una calca di elementi. Gli occhi erano sporgenti e penetranti. Il suo colorito era curiosamente attraente, e in parte tropicale; ricordava vagamente un'arancia sanguigna. Voglio dire che, pur essendo rubizzo e sanguigno, vi era in esso un giallo per nulla malaticcio, ma che pareva piuttosto splendere come le mele d'oro delle Esperidi — Padre Brown pensò di non aver mai visto una figura così espressiva di tutte le storie romanzesche sui paesi del Sole.
+
+     Quando Fanshaw ebbe presentato i suoi due amici al padrone di casa, ricadde in un tono di canzonatura verso quest'ultimo a proposito della sua distruzione dello steccato e della sua evidente rabbia di bestemmie. L'Ammiraglio dapprima ne fece poco conto, come di un lavoro di giardinaggio necessario ma seccante; ma alla fine il suono di una vera energia ritornò nella sua risata, ed egli esclamò con un misto di impazienza e buon umore:
+
+     «Beh, forse ci vado un po' rabbiosamente, e provo una specie di piacere a fracassare qualsiasi cosa. Lo fareste anche voi se il vostro unico piacere fosse quello di veleggiare in cerca di qualche nuova Isola dei Cannibali, e doveste starvene inchiodati su questa fangosa roccaglietta in una specie di stagno rustico. Quando ricordo come ho abbattuto un miglio e mezzo di verde giungla velenosa con un vecchio coltellaccio affilato la metà di questo; e poi ricordo che devo fermarmi qui a tagliuzzare questa legna da fiammiferi, per via di qualche maledetto vecchio patto scarabocchiato in una Bibbia di famiglia, ebbene, io…»
+
+     Sollevò di nuovo il pesante acciaio; e questa volta recise il muro di legno dall'alto in basso con un solo colpo.
+
+     «Mi sento così» disse ridendo, ma scagliando furiosamente la spada qualche metro giù per il sentiero, «e ora saliamo alla casa; dovete cenare.»
+
+     Il semicerchio di prato davanti alla casa era variato da tre aiuole circolari, una di tulipani rossi, la seconda di tulipani gialli, e la terza di certi fiori bianchi, dall'aspetto ceroso, che i visitatori non conoscevano e presumevano esotici. Un giardiniere pesante, peloso e dall'aria piuttosto arcigna stava appendendo una pesante matassa di tubo da giardino. Gli ultimi bagliori del tramonto morente, che parevano indugiare attorno agli angoli della casa, lasciavano intravedere qua e là i colori di aiuole più lontane; e in uno spazio privo di alberi, su un lato della casa che si apriva sul fiume, sorgeva un alto treppiede di ottone su cui era inclinato un grande telescopio d'ottone. Proprio fuori dai gradini del portico c'era un tavolinetto da giardino verniciato di verde, come se qualcuno vi avesse appena preso il tè. L'ingresso era fiancheggiato da due di quei blocchi di pietra dai lineamenti appena abbozzati, con fori al posto degli occhi, che si dice siano idoli dei Mari del Sud; e sulla bruna trave di quercia sopra la porta c'erano alcuni intagli confusi che apparivano quasi altrettanto barbarici.

@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/thursday-(chesterton)">The Man Who Was Thursday</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/thursday/chapter_05/part_01">‹ part 01</a><a class="ex-next" href="/testi/chesterton/atomized/thursday/chapter_05/part_03">part 03 ›</a></div>
@@ -119,3 +121,42 @@ agree with me, my dear Tuesday, that he is not likely even to forget it.
 Now when you were found under Admiral Biffin's bed--"
 
 "I am not good at [[Deception|deception]]," said Tuesday gloomily, flushing.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/thursday-(chesterton)">The Man Who Was Thursday</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/thursday/chapter_05/part_01">‹ part 01</a><a class="ex-next" href="/testi/chesterton/atomized/thursday/chapter_05/part_03">part 03 ›</a></div>
+</nav>
+
+# [[thursday]] — Capitolo 5 (parte 2)
+
+Poi, mentre Syme continuava a fissarli, vide qualcosa che prima non aveva visto. Non l'aveva visto, letteralmente, perché era troppo grande per essere visto. All'estremità più vicina del balcone, ostruendo gran parte della prospettiva, c'era la schiena di una gran montagna d'uomo. Quando Syme lo ebbe visto, il suo primo pensiero fu che il peso di lui dovesse sfondare il balcone di pietra. La sua vastità non stava soltanto nel fatto che fosse anormalmente alto e incredibilmente grasso. Quest'uomo era stato progettato enormemente nelle sue proporzioni originarie, come una statua scolpita deliberatamente colossale. La sua testa, coronata di capelli bianchi, vista di spalle sembrava più grande di quanto una testa dovrebbe essere. Le orecchie che ne sporgevano parevano più grandi di orecchie umane. Era ingrandito terribilmente in scala; e questo senso della mole era così sbalorditivo che, quando Syme lo vide, tutte le altre figure sembrarono d'un tratto rimpicciolirsi e farsi nane. Sedevano ancora là come prima, coi loro [[Flowers|fiori]] e le loro finanziere, ma ora sembrava che il grosso uomo stesse offrendo il tè a cinque bambini.
+
+Mentre Syme e la guida si avvicinavano alla porta laterale dell'albergo, un cameriere uscì sorridendo con tutti i denti che aveva in bocca.
+
+«I signori sono lassù, sciòr» disse. «Parlano e ridono di quel che dicono. Dicono che tireranno bombe al [[King|re]].»
+
+E il cameriere si allontanò in fretta con un tovagliolo sul braccio, assai compiaciuto della singolare frivolezza dei signori al piano di sopra.
+
+I due uomini salirono le scale in [[Silence|silenzio]].
+
+A Syme non era nemmeno passato per la mente di chiedere se quell'uomo mostruoso, che quasi riempiva e sfondava il balcone, fosse il grande Presidente di cui gli altri avevano tanta soggezione. Sapeva che era così, con una certezza inspiegabile ma istantanea. Syme, in verità, era uno di quegli uomini aperti a tutte le più innominabili influenze psicologiche in un grado un poco pericoloso per la salute mentale. Del tutto privo di [[Fear|paura]] di fronte ai pericoli fisici, era fin troppo sensibile all'odore del male spirituale. Già due volte quella [[Night|notte]] piccole cose insignificanti avevano fatto capolino verso di lui quasi lascivamente, e gli avevano dato la sensazione di avvicinarsi sempre più al quartier generale dell'inferno. E questa sensazione divenne opprimente man mano che si avvicinava al grande Presidente.
+
+La forma che essa prese fu una fantasia infantile eppure odiosa. Mentre attraversava la sala interna verso il balcone, il grande volto della [[Sunday|Domenica]] si faceva sempre più grande; e Syme fu preso dalla [[Fear|paura]] che, quando gli fosse stato del tutto vicino, il volto sarebbe stato troppo grande per essere possibile, e che egli avrebbe gridato forte. Ricordò che da [[Child|bambino]] non voleva guardare la maschera di Mennone al British Museum, perché era un volto, e così grande.
+
+Con uno sforzo più coraggioso di quello di gettarsi da una rupe, si diresse verso una sedia vuota alla tavola da colazione e si sedette. Gli uomini lo salutarono con bonaria canzonatura, come se lo avessero sempre conosciuto. Si rinfrancò un poco guardando le loro giacche convenzionali e la solida, lucente caffettiera; poi guardò di nuovo la [[Sunday|Domenica]]. Aveva il volto grandissimo, ma ancora possibile all'umanità.
+
+Alla presenza del Presidente tutta la compagnia appariva abbastanza banale; nulla in essa colpiva l'occhio, a prima vista, se non che, per capriccio del Presidente, erano stati agghindati con una rispettabilità festosa, la quale dava al pasto l'aria di una colazione di nozze. Un uomo, in verità, spiccava anche a uno sguardo superficiale. Egli almeno era il Dinamitardo comune, quello dell'orto e del [[Garden|giardino]]. Portava, sì, l'alto colletto bianco e la cravatta di raso che erano l'uniforme della circostanza; ma da quel colletto scaturiva una testa del tutto ingovernabile e del tutto inconfondibile, uno sconcertante cespuglio di capelli e barba castani che quasi ne nascondeva gli occhi, come quelli di un terrier di Skye. Ma gli occhi guardavano davvero fuori da quel groviglio, ed erano i tristi occhi di qualche servo della gleba russo. L'effetto di questa figura non era terribile come quello del Presidente, ma aveva tutta la diavoleria che può derivare dal più totale [[Grotesque|grottesco]]. Se da quella cravatta e da quel colletto rigidi fosse spuntata di colpo la testa di un gatto o di un cane, non avrebbe potuto esserci contrasto più idiota.
+
+Il nome dell'uomo, a quanto pareva, era Gogol; era un polacco, e in quel circolo di giorni lo chiamavano Martedì. La sua [[Soul|anima]] e il suo eloquio erano incurabilmente tragici; non riusciva a costringersi a recitare la parte prospera e frivola che gli imponeva il Presidente [[Sunday|Domenica]]. E, in effetti, quando Syme entrò, il Presidente, con quello sprezzante disprezzo del sospetto pubblico che era la sua politica, stava proprio canzonando Gogol per la sua incapacità di assumere grazie convenzionali.
+
+«Il nostro amico Martedì» disse il Presidente con voce profonda insieme di quiete e di volume «il nostro amico Martedì non pare afferrare l'idea. Si veste da gentiluomo, ma sembra un'[[Soul|anima]] troppo grande per comportarsi da tale. Insiste sui modi del cospiratore da palcoscenico. Ora, se un gentiluomo se ne va in giro per [[London|Londra]] in cilindro e finanziera, nessuno ha bisogno di sapere che è un anarchico. Ma se un gentiluomo si mette cilindro e finanziera, e poi se ne va in giro a quattro zampe... [[Well|ebbene]], può attirare l'attenzione. È ciò che fa il fratello Gogol. Va in giro a quattro zampe con tale inesauribile diplomazia, che ormai a questo [[Time|punto]] trova assai difficile camminare eretto.»
+
+«Non zono bravo a naskondermi» disse Gogol imbronciato, con un forte accento straniero; «non mi vergogno della causa.»
+
+«Sì che ti vergogni, ragazzo mio, e anche la causa si vergogna di te» disse il Presidente bonariamente. «Ti nascondi quanto chiunque altro; ma non ci riesci, vedi, perché sei un tale asino! Cerchi di combinare due metodi incompatibili. Quando un padrone di casa trova un uomo sotto il suo letto, probabilmente si fermerà a notare la circostanza. Ma se trova un uomo sotto il suo letto in cilindro, converrai con me, mio caro Martedì, che difficilmente riuscirà anche solo a dimenticarlo. Ora, quando ti hanno trovato sotto il letto dell'ammiraglio Biffin...»
+
+«Non zono bravo nell'[[Deception|inganno]]» disse Martedì cupamente, arrossendo.

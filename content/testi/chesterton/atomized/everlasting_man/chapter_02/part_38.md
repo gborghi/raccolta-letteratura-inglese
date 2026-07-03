@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/everlasting-man-(chesterton)">The Everlasting Man</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/everlasting_man/chapter_02/part_37">‹ part 37</a><a class="ex-next" href="/testi/chesterton/atomized/everlasting_man/chapter_02/part_39">part 39 ›</a></div>
@@ -111,3 +113,110 @@ It does declare that things are really there; or in other words
 that things are really things--In this [[Christianity]] is at one
 with common sense; but all religious [[history]] shows that this common
 sense perishes except where there is [[Christianity]] to preserve it.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/everlasting-man-(chesterton)">The Everlasting Man</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/everlasting_man/chapter_02/part_37">‹ part 37</a><a class="ex-next" href="/testi/chesterton/atomized/everlasting_man/chapter_02/part_39">part 39 ›</a></div>
+</nav>
+
+Ma la Reincarnazione non è in realtà un'idea mistica. Non è propriamente
+un'idea trascendentale, né in questo senso un'idea religiosa.
+Il misticismo concepisce qualcosa che trascende l'esperienza; la religione cerca
+barlumi di un bene migliore o di un male peggiore di quanto l'esperienza possa dare.
+La reincarnazione non fa che estendere le esperienze nel senso di
+ripeterle. Non v'è nulla di più trascendentale nel ricordare, per un uomo,
+ciò che fece a Babilonia prima di nascere, che nel ricordare
+ciò che fece a Brixton prima di prendere un colpo in testa.
+Le sue vite successive non hanno bisogno di essere altro che vite umane,
+sotto qualunque limitazione gravi sull'esistenza umana. Non ha nulla
+a che vedere con il vedere Dio o anche solo con l'evocare il diavolo.
+In altre parole, la reincarnazione in quanto tale non sfugge necessariamente
+alla [[Wheel|ruota]] del destino: in un certo senso è essa stessa la [[Wheel|ruota]] del destino.
+E che sia qualcosa che Buddha fondò, o qualcosa
+che Buddha trovò, o qualcosa a cui Buddha rinunciò interamente
+una volta trovatala, è certamente qualcosa che ha il carattere generale
+di quell'atmosfera asiatica in cui gli toccò recitare la sua parte.
+E la parte che recitò fu quella di un filosofo intellettuale,
+con una particolare teoria sull'atteggiamento intellettuale giusto da tenere verso di essa.
+
+Posso capire che i buddhisti si risentano dell'idea che il Buddhismo
+sia semplicemente una [[philosophy|filosofia]], se per [[philosophy|filosofia]] intendiamo soltanto
+un gioco intellettuale come quello dei sofisti greci, che lanciavano in aria
+i mondi e li riafferravano come palle. Forse un'affermazione più esatta
+sarebbe che Buddha fu un uomo che creò una disciplina metafisica;
+la quale potrebbe persino essere chiamata una disciplina psicologica.
+Egli propose un modo di sfuggire a tutto questo dolore ricorrente;
+e ciò semplicemente liberandosi dell'illusione che
+si chiama [[Desire|desiderio]]. Non si trattava affatto di ottenere
+meglio ciò che vogliamo raffrenando la nostra impazienza per una parte di esso,
+né di ottenerlo in un modo migliore o in un mondo migliore.
+Si trattava, con ogni enfasi, di smettere di volerlo.
+Se una volta un uomo comprendesse che non esiste realmente alcuna realtà, che ogni cosa,
+compresa la sua [[Soul|anima]], è in dissoluzione a ogni istante, egli
+anticiperebbe la delusione e diverrebbe intangibile al mutamento, esistendo (nella misura
+in cui si possa dire che esista) in una sorta di estasi dell'indifferenza.
+I buddhisti chiamano questo beatitudine, e non fermeremo la nostra storia per discutere
+il punto; certo, per noi essa è indistinguibile dalla [[Despair|disperazione]].
+Non vedo, per esempio, perché la delusione del [[Desire|desiderio]] non debba
+applicarsi tanto ai desideri più benevoli quanto a quelli più egoistici.
+Anzi, il Signore della Compassione sembra compiangere gli uomini per il fatto di vivere più che
+per il fatto di morire. Del resto, un intelligente buddhista scrisse che «la
+spiegazione del Buddhismo popolare cinese e giapponese è che esso
+non è Buddhismo.» Ciò ha senza dubbio cessato di essere una mera [[philosophy|filosofia]],
+ma solo per diventare una mera mitologia. Una cosa è certa:
+non è mai diventato nulla che somigli neppure lontanamente a ciò che noi chiamiamo una Chiesa.
+
+Sembrerà solo uno scherzo dire che tutta la [[history|storia]]
+religiosa è stata in realtà un disegno di zeri e croci.
+Ma con gli zeri non intendo dei nulla, bensì soltanto cose che sono
+negative rispetto alla forma o al disegno positivo dell'altra.
+E benché il simbolo sia naturalmente solo una coincidenza, è una coincidenza
+che davvero coincide. La mente dell'Asia può essere davvero rappresentata
+da uno 0 tondo, se non nel senso di una cifra, almeno nel senso di un cerchio.
+Il grande simbolo asiatico del serpente con la coda in bocca è
+davvero un'immagine assai perfetta di una certa idea di [[unity|unità]] e di ricorrenza
+che appartiene in effetti alle filosofie e alle religioni orientali.
+È davvero una curva che in un senso include ogni cosa,
+e in un altro senso non approda a nulla. In tal senso essa confessa,
+o piuttosto si vanta, che ogni argomento è un argomento in circolo.
+E per quanto la figura sia solo un simbolo, possiamo vedere quanto sia giusto
+il senso simbolico che la produce, il simbolo parallelo della [[Wheel|ruota]]
+di Buddha comunemente chiamato la Svastica. La [[Cross|croce]] è una cosa ad
+angoli retti che punta arditamente in direzioni opposte; ma la Svastica
+è la stessa cosa nell'atto stesso di ritornare alla curva ricorrente.
+Quella [[Cross|croce]] storta è di fatto una [[Cross|croce]] che si trasforma in una [[Wheel|ruota]].
+Prima di liquidare anche questi simboli come se fossero simboli arbitrari,
+dobbiamo ricordare quanto fosse intenso l'istinto immaginativo che
+li produsse o li scelse, tanto in oriente quanto in occidente.
+La [[Cross|croce]] è divenuta qualcosa di più di un [[Memory|ricordo]] storico;
+essa esprime, quasi come per un diagramma matematico, la [[Truth|verità]]
+sul vero punto in questione: l'idea di un conflitto che si protende
+verso l'esterno nell'[[Eternity|eternità]]. È vero, e persino tautologico,
+dire che la [[Cross|croce]] è il nodo cruciale di tutta la faccenda.
+
+In altre parole la [[Cross|croce]], di fatto [[Well|oltre]] che come figura,
+sta davvero per l'idea di rompere fuori dal cerchio
+che è tutto e nulla. Essa sfugge davvero all'argomento
+circolare per cui ogni cosa comincia e finisce nella mente.
+Poiché stiamo ancora trattando di simboli, la si potrebbe esprimere in una [[Parable|parabola]]
+nella forma di quella storia su san Francesco, la quale dice che gli [[Birds|uccelli]]
+partendo con la sua benedizione poterono spiegare il volo negli infiniti
+dei quattro venti del cielo, e le loro scie tracciarono una vasta [[Cross|croce]] sul
+cielo; ché, al confronto della [[Freedom|libertà]] di quel volo di [[Birds|uccelli]],
+la forma stessa della Svastica è come un gattino che rincorre la propria coda.
+In un'[[Allegory|allegoria]] più popolare, potremmo dire che quando san Giorgio
+conficcò la sua lancia nelle fauci del [[Monster|mostro]], egli irruppe nella
+[[Solitude|solitudine]] del serpente che divora [[Self|sé stesso]] e gli diede qualcosa
+da mordere oltre alla propria coda. Ma se molte fantasie possono essere usate
+come figure della [[Truth|verità]], la [[Truth|verità]] stessa è astratta e assoluta;
+per quanto non sia molto facile riassumerla se non mediante tali figure.
+Il [[Christianity|Cristianesimo]] si appella davvero a una solida [[Truth|verità]] fuori di sé;
+a qualcosa che in tal senso è esterno [[Well|oltre]] che eterno.
+Esso dichiara che le cose ci sono davvero; ovvero, in altre parole,
+che le cose sono davvero cose. In questo il [[Christianity|Cristianesimo]] concorda
+con il senso comune; ma tutta la [[history|storia]] religiosa mostra che questo senso
+comune perisce, tranne là dove c'è il [[Christianity|Cristianesimo]] a preservarlo.

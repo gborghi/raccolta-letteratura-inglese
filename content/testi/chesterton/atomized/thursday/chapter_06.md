@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/thursday-(chesterton)">The Man Who Was Thursday</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/thursday/chapter_05">‹ Chapter 05</a><a class="ex-next" href="/testi/chesterton/atomized/thursday/chapter_07">Chapter 07 ›</a></div>
@@ -327,3 +329,327 @@ Even [[The Professor|the Professor]] made an effort to rise.  But Syme saw littl
 of the scene, for he was blinded with a beneficent darkness;
 he had sunk down into his seat shuddering, in a palsy
 of passionate relief.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/thursday-(chesterton)">The Man Who Was Thursday</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/thursday/chapter_05">‹ Chapter 05</a><a class="ex-next" href="/testi/chesterton/atomized/thursday/chapter_07">Chapter 07 ›</a></div>
+</nav>
+
+# [[thursday]] — Capitolo 6
+
+                          CAPITOLO VI
+
+                        LO SMASCHERAMENTO
+
+Tali erano i sei uomini che avevano giurato di distruggere il mondo.
+Più e più volte Syme tentò di rimettere insieme il proprio buon senso
+in loro presenza. Talvolta gli si rivelava per un istante che quelle
+nozioni erano soggettive, che egli non stava guardando altro che uomini comuni,
+uno dei quali era vecchio, un altro nervoso, un altro miope. La
+sensazione di un simbolismo innaturale tornava sempre a posarsi su di lui.
+Ciascuna figura sembrava trovarsi, in qualche modo, sul confine estremo delle cose,
+proprio come la loro teoria si trovava sul confine estremo del pensiero.
+Egli sapeva che ognuno di quegli uomini stava all'estremità ultima,
+per così dire, di qualche selvaggia [[Road|strada]] di ragionamento. Poteva
+soltanto immaginare, come in qualche [[Fable|favola]] del mondo antico, che se un uomo fosse andato
+verso occidente fino ai confini del mondo avrebbe trovato qualcosa—
+poniamo un albero—che era più o meno di un albero, un albero posseduto
+da uno spirito; e che se fosse andato verso oriente fino ai confini del mondo
+avrebbe trovato qualcos'altro che non era del tutto se stesso—
+una torre, forse, la cui stessa forma era malvagia.
+Così quelle figure sembravano ergersi, violente e inspiegabili,
+contro un orizzonte ultimo, visioni provenienti dall'orlo del mondo.
+I confini della terra si stavano stringendo intorno a lui.
+
+Il discorso era proseguito senza sosta mentre egli si impregnava della scena; e non ultimo
+fra i contrasti di quella sconcertante tavola da colazione era il contrasto
+fra il tono disinvolto e discreto della conversazione e il suo terribile contenuto.
+Erano immersi nella discussione di una cospirazione reale e imminente.
+Il cameriere di sotto aveva parlato assai correttamente quando aveva detto che
+parlavano di bombe e di re. Solo tre giorni dopo
+lo Zar avrebbe dovuto incontrare il Presidente della Repubblica francese a [[Paris|Parigi]],
+e davanti al loro uovo e pancetta, sul balcone soleggiato, quei raggianti
+gentiluomini avevano deciso come entrambi sarebbero morti. Persino lo strumento era scelto;
+il Marchese dalla barba nera, a quanto pareva, doveva portare la bomba.
+
+In circostanze ordinarie, la prossimità di questo delitto concreto e oggettivo
+avrebbe fatto rinsavire Syme, e lo avrebbe guarito da tutti i suoi tremori meramente mistici.
+Non avrebbe pensato ad altro che alla necessità di salvare almeno due
+corpi umani dall'essere dilaniati in pezzi dal ferro e dal gas ruggente.
+Ma la [[Truth|verità]] era che ormai a quel [[Time|punto]] aveva cominciato a provare un terzo genere
+di [[Fear|paura]], più penetrante e più concreto della sua ripugnanza morale
+o della sua responsabilità sociale. Molto semplicemente, non aveva [[Fear|paura]] da spendere
+per il Presidente francese o per lo Zar; aveva cominciato a [[Fear|temere]] per se stesso.
+La maggior parte dei conversatori badava poco a lui, discutendo ora con i visi
+più ravvicinati, e quasi uniformemente [[Grave|gravi]], salvo quando per un istante
+il sorriso del Segretario correva di traverso sul suo volto come il frastagliato
+[[Lightning|lampo]] corre di traverso nel cielo. Ma c'era una cosa insistente
+che dapprima turbò Syme e alla fine lo terrorizzò. Il Presidente lo
+guardava di continuo, fisso, con un interesse immenso e sconcertante.
+L'uomo enorme era del tutto tranquillo, ma i suoi occhi azzurri sporgevano dal capo.
+Ed erano sempre fissi su Syme.
+
+Syme si sentì spinto a [[spring|balzare]] su e a saltare oltre il balcone.
+Quando gli occhi del Presidente erano su di lui si sentiva come se fosse fatto
+di vetro. Non aveva che l'ombra di un [[Doubt|dubbio]] che, in qualche modo silenzioso
+e straordinario, [[Sunday]] avesse scoperto che egli era una spia.
+Guardò oltre il bordo del balcone, e vide un poliziotto,
+in piedi con aria distratta proprio là sotto, che fissava le lucenti
+inferriate e gli alberi illuminati dal sole.
+
+Allora si abbatté su di lui la grande [[Temptation|tentazione]] che lo avrebbe tormentato
+per molti giorni. Alla presenza di questi uomini potenti e ripugnanti,
+che erano i principi dell'anarchia, aveva quasi dimenticato la fragile
+e fantasiosa figura del poeta Gregory, il semplice esteta dell'anarchismo.
+Anzi ora pensava a lui con un'antica tenerezza, come se avessero
+giocato insieme da bambini. Ma ricordava di essere ancora
+legato a Gregory da una grande promessa. Aveva promesso di non fare mai
+proprio quella cosa che ora sentiva di essere quasi sul punto di fare.
+Aveva promesso di non saltare oltre quel balcone e di non parlare a quel poliziotto.
+Ritrasse la mano fredda dalla fredda balaustra di pietra. La sua [[Soul|anima]] oscillava
+in una vertigine di indecisione morale. Non doveva far altro che spezzare il filo
+di un voto avventato fatto a una società scellerata, e tutta la sua vita avrebbe potuto essere
+aperta e soleggiata come la piazza sottostante. D'altra parte, non doveva far altro
+che tener fede al suo antiquato [[Honour|onore]], e consegnarsi pollice dopo pollice
+in balìa di questo grande nemico dell'umanità, il cui stesso intelletto
+era una camera di tortura. Ogni volta che guardava giù nella piazza vedeva
+il rassicurante poliziotto, pilastro del buon senso e dell'ordine comune.
+Ogni volta che si voltava a guardare la tavola da colazione vedeva il Presidente
+che ancora lo studiava con calma, con occhi grandi e insopportabili.
+
+In tutto il torrente dei suoi pensieri c'erano due pensieri che non gli
+attraversarono mai la mente. Primo, non gli venne mai in mente di [[Doubt|dubitare]] che il
+Presidente e il suo Consiglio potessero schiacciarlo se avesse continuato a restare [[Alone|solo]].
+Il luogo poteva essere pubblico, il progetto poteva sembrare impossibile.
+Ma [[Sunday]] non era uomo da comportarsi con tanta disinvoltura
+senza aver, in qualche modo o in qualche luogo, già teso la sua trappola di ferro.
+Che fosse con anonimo [[Poison|veleno]] o con un improvviso incidente di strada, con l'ipnosi
+o con [[Fire|fuoco]] infernale, [[Sunday]] poteva certamente colpirlo.
+Se avesse sfidato quell'uomo era probabilmente morto, o stecchito
+lì sulla sua sedia o molto tempo dopo, come per un male [[Innocent|innocente]].
+Se avesse chiamato prontamente la polizia, fatto arrestare tutti,
+raccontato ogni cosa, e scagliato contro di loro l'intera energia dell'Inghilterra,
+sarebbe probabilmente scampato; altrimenti certamente no. Erano
+un balcone pieno di gentiluomini che dominavano una piazza luminosa e affaccendata;
+ma egli non si sentiva più al sicuro con loro che se fossero stati una barca piena
+di pirati armati che dominavano un mare deserto.
+
+C'era un secondo pensiero che non gli venne mai.
+Non gli venne mai in mente di lasciarsi conquistare spiritualmente dal nemico.
+Molti moderni, avvezzi a un debole culto dell'intelletto e della forza,
+avrebbero forse vacillato nella loro fedeltà sotto questa oppressione di una
+grande personalità. Avrebbero forse chiamato [[Sunday]] il superuomo. Se
+mai una tale creatura sia concepibile, egli, in effetti, le somigliava alquanto,
+con la sua astrazione che scuoteva la terra, come di una statua di pietra che cammina.
+Avrebbe potuto essere chiamato qualcosa al di sopra dell'uomo, con i suoi grandi piani,
+troppo evidenti per essere scoperti, con il suo grande volto,
+troppo franco per essere compreso. Ma questa era una sorta di meschinità
+moderna a cui Syme non poteva abbassarsi neppure nella sua estrema morbosità.
+Come ogni uomo, era abbastanza vile da [[Fear|temere]] la grande forza; ma non era
+del tutto abbastanza vile da ammirarla.
+
+Gli uomini mangiavano mentre parlavano, e persino in questo erano tipici.
+Il Dottor Bull e il Marchese mangiavano con noncuranza e convenzionalità le cose
+migliori che erano in tavola—fagiano freddo o pasticcio di Strasburgo. Ma il Segretario
+era [[vegetarian|vegetariano]], e parlava con fervore dell'assassinio progettato
+davanti a mezzo pomodoro crudo e a tre quarti di bicchiere d'[[Water|acqua]] tiepida.
+Il vecchio Professore aveva sbobbe tali da far pensare a una nauseante seconda [[Childhood|infanzia]].
+E persino in questo il Presidente [[Sunday]] conservava la sua curiosa predominanza di
+pura massa. Poiché mangiava come venti uomini; mangiava in modo incredibile, con una spaventosa
+freschezza di appetito, tanto che era come assistere al lavoro di una salsicciera.
+Eppure di continuo, quando aveva inghiottito una dozzina di focaccine o bevuto un litro
+di caffè, lo si trovava con la grande testa reclinata da un lato a fissare Syme.
+
+«Mi sono spesso domandato», disse il Marchese, addentando un gran boccone da una
+fetta di pane e marmellata, «se non sarebbe meglio per me farlo
+con un coltello. La maggior parte delle cose migliori sono state fatte col coltello.
+E sarebbe un'emozione nuova ficcare un coltello in un Presidente francese
+e rigirarglielo dentro.»
+
+«Ti sbagli», disse il Segretario, aggrottando le nere
+sopracciglia. «Il coltello non era che l'espressione
+dell'antica lite personale con un [[Tyrant|tiranno]] personale.
+La dinamite non è soltanto il nostro miglior strumento, ma il nostro miglior simbolo.
+È un simbolo di noi tanto perfetto quanto l'incenso è simbolo delle preghiere dei
+cristiani. Si espande; distrugge solo perché si dilata;
+e così, il pensiero distrugge solo perché si dilata.
+Il cervello di un uomo è una bomba», gridò, sciogliendo d'improvviso
+la sua strana passione e percuotendosi con violenza il proprio cranio.
+«Il mio cervello mi pare una bomba, [[Night|notte]] e giorno. Deve espandersi!
+Deve espandersi! Il cervello di un uomo deve espandersi, foss'anche a costo
+di far saltare l'universo.»
+
+«Non voglio ancora che l'universo salti in aria», biascicò
+il Marchese. «Voglio fare un mucchio di cose bestiali prima di morire.
+Ne ho pensata una ieri, a letto.»
+
+«No, se l'unico fine della cosa è il nulla», disse il Dottor Bull
+col suo sorriso sfingeo, «non pare che valga la pena di farlo.»
+
+Il vecchio Professore fissava il soffitto con occhi spenti.
+
+«Ogni uomo sa in cuor suo», disse, «che nulla vale la pena di essere fatto.»
+
+Ci fu un singolare [[Silence|silenzio]], e poi il Segretario disse—
+
+«Ci stiamo però allontanando dal punto.
+L'unica questione è come Mercoledì debba vibrare il colpo.
+Immagino che tutti concordiamo sull'idea originaria di una bomba.
+Quanto alle disposizioni concrete, suggerirei che domani
+mattina egli vada anzitutto a—»
+
+Il discorso fu troncato di netto sotto una vasta [[Shadow|ombra]].
+Il Presidente [[Sunday]] si era alzato in piedi, sembrando riempire
+il cielo sopra di loro.
+
+«Prima di discuterne», disse con voce sommessa e tranquilla, «passiamo
+in una stanza privata. Ho qualcosa di assai particolare da dire.»
+
+Syme si alzò prima di tutti gli altri. L'istante
+della scelta era finalmente giunto, la [[Pistol|pistola]] era puntata alla sua tempia.
+Sul selciato, prima ancora, poteva udire il poliziotto muoversi pigramente
+e battere i piedi, poiché il mattino, benché luminoso, era freddo.
+
+Un organetto nella strada attaccò d'un tratto, con uno strappo, un motivo gioviale.
+Syme si drizzò teso, come se fosse stato uno squillo di tromba prima della battaglia.
+Si sentì colmo di un [[Courage|coraggio]] [[Supernatural|soprannaturale]] venuto dal nulla.
+Quella musica tintinnante sembrava piena della vivacità, della volgarità, e del
+valore irrazionale dei poveri, i quali in tutte quelle strade sudicie si aggrappavano
+tutti al decoro e alla carità della cristianità. La sua giovanile
+bravata di fare il poliziotto gli era svanita dalla mente; non pensava
+a se stesso come al rappresentante del corpo di gentiluomini trasformati in
+poliziotti da operetta, né del vecchio eccentrico che viveva nella stanza buia.
+Ma si sentiva davvero l'ambasciatore di tutta questa gente comune e cordiale
+della strada, che ogni giorno marciava in battaglia alla musica
+dell'organetto. E questo alto [[Pride|orgoglio]] di essere umano lo aveva sollevato
+inspiegabilmente a un'altezza infinita al di sopra degli uomini mostruosi che lo circondavano.
+Per un istante, almeno, guardò dall'alto tutte le loro scomposte
+stravaganze dal pinnacolo stellato della normalità.
+Provò verso tutti loro quella superiorità inconsapevole ed elementare che un
+uomo coraggioso prova sulle bestie potenti o un uomo saggio sugli errori potenti.
+Sapeva di non possedere né la forza intellettuale né quella fisica
+del Presidente [[Sunday]]; ma in quel momento se ne dava pensiero non più di
+quanto se ne desse del fatto di non avere i muscoli di una tigre o un corno sul naso
+come un rinoceronte. Tutto era inghiottito da una certezza ultima
+che il Presidente aveva torto e che l'organetto aveva ragione.
+Nella sua mente risuonava quel truismo terribile e incontestabile
+della [[Song|Canzone]] di Rolando—
+
+«Pagens ont tort et Chretiens ont droit.»
+
+che nell'antico francese nasale ha il fragore e il gemito del grande ferro.
+Questa liberazione del suo spirito dal peso della sua debolezza andò
+di pari passo con una decisione affatto chiara di abbracciare la [[Death|morte]]. Se la gente
+dell'organetto sapeva tener fede ai suoi obblighi del mondo antico, lo poteva anche lui.
+Questo stesso [[Pride|orgoglio]] nel mantenere la parola stava nel fatto che la manteneva a dei miscredenti.
+Era il suo ultimo trionfo su quei pazzi scendere nella loro stanza buia
+e morire per qualcosa che essi non potevano nemmeno comprendere.
+L'organetto sembrava dare il motivo della marcia con l'energia
+e i rumori mescolati di un'intera orchestra; ed egli poteva udire profondi
+e [[rolling|rombanti]], sotto tutte le trombe dell'[[Pride|orgoglio]] della vita, i tamburi
+dell'[[Pride|orgoglio]] della [[Death|morte]].
+
+I cospiratori stavano già sfilando attraverso la [[Window|finestra]] aperta
+per entrare nelle stanze retrostanti. Syme andò per ultimo, all'apparenza calmo,
+ma con tutto il cervello e il [[Body|corpo]] pulsanti di ritmo romantico.
+Il Presidente li condusse giù per una scaletta laterale irregolare, come
+avrebbero potuto usare i domestici, dentro una stanza buia, fredda e vuota,
+con un tavolo e delle panche, come un consiglio d'amministrazione abbandonato.
+Quando furono tutti dentro, chiuse la porta e la sprangò a chiave.
+
+Il primo a parlare fu Gogol, l'irriconciliabile, che sembrava scoppiare
+di inarticolato risentimento.
+
+«Zso! Zso!» gridò, con un'oscura eccitazione, il suo pesante accento
+polacco facendosi quasi impenetrabile. «Voi dite che non vi nascondete.
+Voi dite che vi mostrate. È tutto niente. Quando volete
+parlare di cose importanti vi cacciate in una scatola buia!»
+
+Il Presidente parve accogliere l'incoerente [[Satire|satira]] dello straniero
+con perfetto buon [[Humour|umore]].
+
+«Non riesci ancora ad afferrarlo, Gogol», disse in tono paterno.
+«Una volta che ci hanno sentito dire sciocchezze su quel balcone
+non si cureranno di dove andremo dopo. Se fossimo venuti
+qui per primi, avremmo avuto tutta la servitù al buco della serratura.
+Non pari sapere nulla del genere umano.»
+
+«Io muoio per loro», gridò il polacco con densa eccitazione, «e uccido
+i loro oppressori. Non mi curo di questi giochi di nascondimento.
+Colpirei il [[Tyrant|tiranno]] nella piazza aperta.»
+
+«Capisco, capisco», disse il Presidente, annuendo con benevolenza mentre si sedeva
+a capotavola di un lungo tavolo. «Prima muori per il genere umano,
+e poi ti rialzi e colpisci i loro oppressori. Dunque va tutto bene.
+E ora posso pregarti di dominare i tuoi bei sentimenti,
+e di sederti con gli altri gentiluomini a questo tavolo?
+Per la prima [[Time|volta]] questa mattina si sta per dire qualcosa
+di intelligente.»
+
+Syme, con la turbata sollecitudine che aveva mostrato fin dalla
+prima convocazione, si sedette per primo. Gogol si sedette per ultimo,
+borbottando nella sua barba fulva a proposito del gombromesso. Nessuno tranne Syme
+sembrava avere la minima idea del colpo che stava per abbattersi.
+Quanto a lui, aveva soltanto la sensazione di un uomo che sale sul patibolo
+con l'intenzione, quanto meno, di fare un bel discorso.
+
+«Compagni», disse il Presidente, alzandosi d'improvviso, «abbiamo tirato
+per le lunghe questa farsa abbastanza a lungo. Vi ho chiamati quaggiù per dirvi
+qualcosa di tanto semplice e sconvolgente che persino i camerieri di sopra
+(da tempo avvezzi alle nostre frivolezze) potrebbero cogliere una nuova serietà
+nella mia voce. Compagni, stavamo discutendo piani e nominando luoghi.
+Propongo, prima di dire altro, che quei piani
+e quei luoghi non siano votati da questa riunione, ma siano
+lasciati interamente sotto il controllo di qualche membro fidato.
+Suggerisco il Compagno Sabato, il Dottor Bull.»
+
+Tutti lo fissarono; poi sobbalzarono tutti sui loro seggi, poiché le
+parole seguenti, benché non gridate, avevano un'enfasi viva e sensazionale.
+[[Sunday]] batté sul tavolo.
+
+«Non una parola di più sui piani e sui luoghi deve essere detta in questa riunione.
+Non un solo minuscolo particolare in più su ciò che intendiamo fare deve essere menzionato
+in questa compagnia.»
+
+[[Sunday]] aveva trascorso la vita a stupire i suoi seguaci;
+ma pareva che non li avesse mai davvero stupiti fino a quel momento.
+Si mossero tutti febbrilmente sui loro seggi, tranne Syme. Egli sedeva rigido sul suo,
+con la mano in tasca, e sull'impugnatura della sua rivoltella carica.
+Quando l'attacco contro di lui fosse venuto, avrebbe venduto cara la pelle.
+Avrebbe scoperto, almeno, se il Presidente era mortale.
+
+[[Sunday]] proseguì senza intoppi—
+
+«Probabilmente comprenderete che c'è un solo movente possibile
+per proibire la libera parola in questa festa della [[Freedom|libertà]].
+Che degli estranei ci origlino non conta nulla. Danno per scontato che
+stiamo scherzando. Ma ciò che conterebbe, fino alla [[Death|morte]], è questo,
+che ci sia realmente in mezzo a noi qualcuno che non è dei nostri,
+che conosce il nostro [[Grave|grave]] proposito, ma non lo condivide, che—»
+
+Il Segretario strillò all'improvviso come una donna.
+
+«Non può essere!» gridò, balzando in piedi. «Non può esserci—»
+
+Il Presidente sbatté la grande mano piatta sul tavolo come la pinna
+di qualche enorme pesce.
+
+«Sì», disse lentamente, «c'è una spia in questa stanza.
+C'è un traditore a questo tavolo. Non sprecherò altre parole.
+Il suo nome—»
+
+Syme si [[Rose|sollevò]] a metà dal suo seggio, il dito fermo sul grilletto.
+
+«Il suo nome è Gogol», disse il Presidente. «È quell'impostore peloso
+laggiù che finge di essere un polacco.»
+
+Gogol balzò in piedi, una [[Pistol|pistola]] in ciascuna mano.
+Nello stesso lampo tre uomini gli si avventarono alla gola.
+Persino [[The Professor|il Professore]] fece uno sforzo per alzarsi. Ma Syme vide poco
+della scena, perché era accecato da una benefica oscurità;
+era sprofondato sul suo seggio tremando, in una paralisi
+di appassionato sollievo.

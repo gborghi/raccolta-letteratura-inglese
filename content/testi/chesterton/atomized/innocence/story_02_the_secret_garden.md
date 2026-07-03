@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/innocence-(chesterton)">The Innocence of Father Brown</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/innocence/story_01_the_blue_cross">‹ Story 01 The Blue Cross</a><a class="ex-next" href="/testi/chesterton/atomized/innocence/story_03_the_queer_feet">Story 03 The Queer Feet ›</a></div>
@@ -874,3 +876,871 @@ of that upright and elegant back made the doctor run forward suddenly.
 A touch and a glance showed him that there was a small box of pills
 at Valentin's elbow, and that Valentin was dead in his chair;
 and on the blind face of the [[suicide]] was more than the [[Pride|pride]] of Cato.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/innocence-(chesterton)">The Innocence of Father Brown</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/innocence/story_01_the_blue_cross">‹ Story 01 The Blue Cross</a><a class="ex-next" href="/testi/chesterton/atomized/innocence/story_03_the_queer_feet">Story 03 The Queer Feet ›</a></div>
+</nav>
+
+# [[innocence]] — Il [[Garden|giardino]] segreto
+
+                         Il [[Garden|giardino]] segreto
+
+Aristide Valentin, capo della Polizia di [[Paris|Parigi]], era in ritardo
+per la cena, e alcuni dei suoi ospiti cominciarono ad arrivare prima di lui.
+Furono tuttavia rassicurati dal suo servitore di fiducia, Ivan, il vecchio
+dalla cicatrice, con un volto quasi grigio quanto i suoi baffi, che sedeva
+sempre a un tavolo nell'atrio d'ingresso: un atrio ornato di armi.
+La [[house|casa]] di Valentin era forse tanto singolare e celebre quanto
+il suo padrone. Era una vecchia [[house|dimora]], dagli alti muri e dagli
+alti pioppi che quasi sovrastavano la Senna; ma la stranezza — e forse
+il pregio poliziesco — della sua architettura era questa: che non vi era
+altra via d'uscita se non attraverso il portone d'ingresso, custodito
+da Ivan e dall'armeria. Il [[Garden|giardino]] era ampio ed elaborato,
+e vi erano molte uscite dalla [[house|casa]] verso il [[Garden|giardino]].
+Ma non c'era alcuna uscita dal [[Garden|giardino]] verso il mondo esterno:
+tutt'intorno correva un muro alto, liscio, inscalabile, con speciali punte
+in cima; non un cattivo [[Garden|giardino]], forse, in cui riflettere per
+un uomo che qualche centinaio di criminali aveva giurato di uccidere.
+
+Come Ivan spiegò agli ospiti, il loro anfitrione aveva telefonato di essere
+trattenuto per dieci minuti. In [[Truth|verità]] stava dando gli ultimi
+disposizioni riguardo a esecuzioni e altre brutte faccende del genere;
+e per quanto questi doveri gli fossero radicalmente ripugnanti, li adempiva
+sempre con precisione. Spietato nella caccia ai criminali, era assai mite
+riguardo alla loro punizione. Da quando era stato supremo sui metodi
+polizieschi francesi — e in gran parte europei — la sua grande influenza
+era stata onorevolmente impiegata per la mitigazione delle sentenze e la
+[[Purification|purificazione]] delle prigioni. Era uno dei grandi liberi
+pensatori umanitari francesi; e l'unico difetto di costoro è che rendono
+la [[Mercy|misericordia]] persino più fredda della giustizia.
+
+Quando Valentin arrivò era già vestito di nero, con la rosetta rossa:
+una figura elegante, la barba scura già striata di grigio. Attraversò
+diritto la sua [[house|casa]] fino allo studio, che dava sul terreno
+retrostante. La porta del [[Garden|giardino]] era aperta, e dopo aver
+accuratamente chiuso a chiave la sua cassetta nel posto ufficiale,
+rimase per qualche secondo sulla soglia aperta a guardare fuori,
+verso il [[Garden|giardino]]. Una [[Moon|luna]] aguzza lottava con i
+brandelli e i cenci volanti di una [[Storm|tempesta]], e Valentin
+la contemplava con una malinconia insolita in nature scientifiche
+come la sua. Forse tali nature scientifiche hanno qualche presentimento
+psichico del più tremendo problema della loro vita. Da un simile stato
+d'animo occulto, ad ogni modo, si riprese in fretta, perché sapeva
+di essere in ritardo e che i suoi ospiti avevano già cominciato ad
+arrivare. Un'occhiata al salotto, quando vi entrò, bastò a rendergli
+certo che il suo ospite principale non c'era, in ogni caso.
+Vide tutti gli altri pilastri della piccola brigata; vide Lord Galloway,
+l'ambasciatore inglese — un vecchio collerico dal volto rossastro come
+una mela, che portava il nastro azzurro della Giarrettiera. Vide
+Lady Galloway, sottile e filiforme, coi capelli d'argento e un viso
+sensibile e altero. Vide sua figlia, Lady Margaret Graham, una fanciulla
+pallida e graziosa dal viso da elfo e dai capelli color rame. Vide
+la Duchessa di Mont St. Michel, dagli occhi neri e opulenta, e con lei
+le sue due figlie, dagli occhi neri e opulente anch'esse. Vide il
+dottor Simon, tipico scienziato francese, con gli occhiali, una barba
+bruna a punta e una fronte sbarrata da quelle rughe parallele che sono
+la pena della supponenza, poiché nascono dal costante inarcare le
+sopracciglia. Vide [[Father Brown]], di Cobhole, nell'Essex, che aveva
+conosciuto di recente in Inghilterra. Vide — forse con maggior interesse
+di tutti costoro — un uomo alto in uniforme, che si era inchinato ai
+Galloway senza ricevere alcun cordialissimo riconoscimento, e che ora
+si faceva avanti da [[Alone|solo]] per porgere i suoi omaggi all'anfitrione.
+Era il Comandante O'Brien, della Legione Straniera francese. Era una
+figura slanciata eppure alquanto spavalda, sbarbato, dai capelli scuri
+e dagli occhi azzurri, e, come pareva naturale in un ufficiale di quel
+famoso reggimento di fallimenti vittoriosi e suicidi riusciti, aveva
+un'aria al tempo stesso brillante e [[Melancholy|malinconica]]. Era per
+nascita un gentiluomo irlandese, e da ragazzo aveva conosciuto i Galloway
+— specialmente Margaret Graham. Aveva lasciato il suo paese dopo un
+qualche tracollo di debiti, e ora esprimeva la sua completa
+[[Freedom|libertà]] dall'etichetta britannica sfoggiandosi in giro in
+uniforme, sciabola e speroni. Quando si inchinò alla famiglia
+dell'ambasciatore, Lord e Lady Galloway si piegarono rigidamente,
+e Lady Margaret guardò altrove.
+
+Ma per qualunque antica ragione simili persone potessero interessarsi
+l'una all'altra, il loro illustre anfitrione non si interessava
+particolarmente a loro. Nessuno di essi, almeno, era ai suoi occhi
+l'ospite della serata. Valentin aspettava, per ragioni speciali,
+un uomo di fama mondiale, la cui [[Friendship|amicizia]] si era assicurata
+durante alcuni dei suoi grandi giri e trionfi da [[Detective|detective]]
+negli Stati Uniti. Aspettava Julius K. Brayne, quel multimilionario le cui
+colossali e persino schiaccianti elargizioni a piccole religioni hanno
+fornito tanto facile spasso e ancor più facile solennità ai giornali
+americani e inglesi. Nessuno riusciva a capire bene se il signor Brayne
+fosse un ateo, o un mormone, o uno scienziato cristiano; ma era pronto a
+riversare denaro in qualsiasi recipiente intellettuale, purché fosse un
+recipiente non ancora sperimentato. Uno dei suoi passatempi era attendere
+lo Shakespeare americano: un passatempo più paziente della pesca con la
+lenza. Ammirava Walt Whitman, ma riteneva che Luke P. Tanner, di
+[[Paris|Paris]], Pa., fosse più "progressista" di Whitman in qualsiasi
+giorno. Gli piaceva tutto ciò che riteneva "progressista". Riteneva
+Valentin "progressista", facendogli con ciò una [[Grave|grave]] ingiustizia.
+
+L'apparizione solida di Julius K. Brayne nella sala fu decisiva come una
+campana della cena. Aveva quella grande qualità, che pochissimi di noi
+possono vantare, per cui la sua presenza era grande quanto la sua assenza.
+Era un uomo enorme, grasso quanto alto, vestito di un completo nero da
+sera, senza nemmeno il sollievo di una catena da orologio o di un anello.
+I capelli erano bianchi e [[Well|ben]] pettinati all'indietro come quelli
+di un tedesco; il volto era rosso, fiero e cherubico, con un solo ciuffo
+scuro sotto il labbro inferiore che risollevava quel viso altrimenti
+infantile con un effetto teatrale e persino mefistofelico. Non a lungo,
+tuttavia, quel salotto si limitò a fissare il celebre americano; il suo
+ritardo era già divenuto un problema domestico, ed egli fu spedito a tutta
+[[Speed|velocità]] nella sala da pranzo con Lady Galloway al braccio.
+
+Salvo che su un punto, i Galloway erano abbastanza gioviali e disinvolti.
+Finché Lady Margaret non prendeva il braccio di quell'avventuriero di
+O'Brien, suo padre era del tutto soddisfatto; e lei non l'aveva fatto,
+era entrata compostamente insieme al dottor Simon. Ciononostante, il
+vecchio Lord Galloway era irrequieto e quasi scortese. Fu abbastanza
+diplomatico durante la cena, ma quando, davanti ai sigari, tre dei più
+giovani — Simon il dottore, Brown il prete, e il pernicioso O'Brien,
+l'[[Exile|esule]] in una divisa straniera — si dileguarono tutti per
+mescolarsi alle signore o fumare nella serra, allora il diplomatico
+inglese divenne davvero assai poco diplomatico. Ogni sessanta secondi
+lo pungeva il pensiero che quella canaglia di O'Brien potesse in qualche
+modo fare segnali a Margaret; non tentava di immaginare come. Rimase
+davanti al caffè con Brayne, il canuto yankee che credeva in tutte le
+religioni, e Valentin, il francese brizzolato che non credeva in nessuna.
+Potevano discutere tra loro, ma nessuno dei due poteva fare appello a lui.
+Dopo un po' di [[Time|tempo]] questa logomachia "progressista" aveva
+raggiunto una crisi di tedio; anche Lord Galloway si alzò e cercò il
+salotto. Si smarrì per sei o otto minuti in lunghi corridoi: finché udì
+la voce acuta e didattica del dottore, e poi la voce sorda del prete,
+seguita da una risata generale. Anche loro, pensò con una imprecazione,
+probabilmente stavano discutendo di "scienza e religione". Ma nell'istante
+in cui aprì la porta del salotto vide una sola cosa: vide ciò che non
+c'era. Vide che il Comandante O'Brien era assente, e che anche Lady
+Margaret era assente.
+
+Alzandosi con impazienza dal salotto, come aveva fatto dalla sala da pranzo,
+percorse di nuovo a passi pesanti il corridoio. La sua idea di proteggere la
+figlia dallo scapestrato irlandese-algerino era divenuta qualcosa di
+centrale e persino folle nella sua mente. Mentre si dirigeva verso il retro
+della [[house|casa]], dove si trovava lo studio di Valentin, ebbe la sorpresa
+di incontrare sua figlia, che gli passò accanto in fretta con un viso bianco
+e sdegnoso, il che era un secondo enigma. Se era stata con O'Brien, dov'era
+O'Brien? Se non era stata con O'Brien, dov'era stata? Con una sorta di sospetto
+senile e appassionato si fece strada a tentoni nelle buie parti posteriori della
+magione, e alla fine trovò un ingresso di servizio che dava sul
+[[Garden|giardino]]. La [[Moon|luna]] con la sua scimitarra aveva ormai
+squarciato e disperso tutti i relitti della [[Storm|tempesta]]. La luce
+argentea illuminava tutti e quattro gli angoli del [[Garden|giardino]].
+Una figura alta in azzurro attraversava a grandi passi il prato verso la
+porta dello studio; un bagliore d'argento lunare sui suoi paramenti lo
+rivelava come il Comandante O'Brien.
+
+Scomparve attraverso le portefinestre nella [[house|casa]], lasciando Lord
+Galloway in un umore indescrivibile, insieme virulento e vago. Il
+[[Garden|giardino]] azzurro e argento, come una scena di teatro, pareva
+schernirlo con tutta quella tenerezza tirannica contro la quale la sua
+autorità mondana era in guerra. La lunghezza e la grazia del passo
+dell'irlandese lo infuriavano come se fosse un rivale invece che un padre;
+il chiaro di luna lo faceva impazzire. Era intrappolato come per
+[[Magic|magia]] in un [[Garden|giardino]] di trovatori, in un paese fatato
+alla Watteau; e, deciso a scrollarsi di dosso simili amorose imbecillità
+con la parola, mosse con passo svelto dietro il suo nemico. Nel far ciò
+inciampò in qualche albero o pietra nell'erba; abbassò lo sguardo dapprima
+con irritazione e poi una seconda [[Time|volta]] con curiosità. L'istante
+seguente la [[Moon|luna]] e gli alti pioppi assistettero a uno spettacolo
+insolito: un anziano diplomatico inglese che correva a perdifiato piangendo
+o urlando mentre correva.
+
+Le sue grida rauche fecero comparire un volto pallido alla porta dello studio,
+gli occhiali raggianti e la fronte preoccupata del dottor Simon, che udì le
+prime parole chiare del nobiluomo. Lord Galloway gridava: «Un cadavere
+nell'erba... un cadavere insanguinato di [[Blood|sangue]].» O'Brien, alla fine,
+era del tutto uscito di senno.
+
+«Dobbiamo dirlo subito a Valentin,» disse il dottore, quando l'altro ebbe
+descritto a frammenti tutto ciò che aveva osato esaminare. «È una fortuna
+che sia qui»; e mentre ancora parlava il grande [[Detective|detective]]
+entrò nello studio, attratto dal grido. Era quasi divertente notare la sua
+tipica trasformazione; era venuto con la comune preoccupazione di un
+anfitrione e di un gentiluomo, temendo che qualche ospite o servitore fosse
+malato. Quando gli fu detto il fatto cruento, si fece istantaneamente,
+con tutta la sua gravità, sveglio e pratico; poiché quello, per quanto
+brusco e spaventoso, era il suo mestiere.
+
+«Strano, signori,» disse mentre uscivano in fretta nel [[Garden|giardino]],
+«che io abbia dato la caccia ai misteri per tutta la terra, e ora uno venga
+a stabilirsi nel mio stesso cortile. Ma dov'è il posto?» Attraversarono il
+prato meno agevolmente, perché una leggera foschia aveva cominciato a levarsi
+dal [[River|fiume]]; ma sotto la guida dello scosso Galloway trovarono il
+[[Body|corpo]] affondato nell'erba alta: il [[Body|corpo]] di un uomo assai
+alto e dalle spalle larghe. Giaceva a faccia in giù, sicché poterono vedere
+soltanto che le sue grandi spalle erano coperte di panno nero, e che la sua
+grande testa era calva, salvo un ciuffo o due di capelli castani appiccicati
+al cranio come alghe bagnate. Un serpente scarlatto di [[Blood|sangue]]
+strisciava da sotto il volto riverso.
+
+«Almeno,» disse Simon, con un'intonazione profonda e singolare, «non è
+nessuno dei nostri.»
+
+«Esaminatelo, dottore,» gridò Valentin piuttosto seccamente. «Potrebbe non
+essere morto.»
+
+Il dottore si chinò. «Non è del tutto freddo, ma temo sia morto abbastanza,»
+rispose. «Aiutatemi soltanto a sollevarlo.»
+
+Lo sollevarono con cura di un pollice da terra, e ogni dubbio sul fatto che
+fosse davvero morto fu risolto all'istante e in modo spaventoso. La testa
+si staccò. Era stata interamente separata dal [[Body|corpo]]; chiunque gli
+avesse tagliato la gola era riuscito a recidere [[Well|anche]] il collo. Persino
+Valentin ne fu leggermente turbato. «Dev'essere stato forte come un gorilla,»
+mormorò.
+
+Non senza un brivido, benché fosse avvezzo agli obbrobri anatomici, il dottor
+Simon sollevò la testa. Era leggermente squarciata attorno al collo e alla
+mascella, ma il volto era sostanzialmente illeso. Era un volto pesante e
+giallastro, insieme incavato e gonfio, con un naso adunco e palpebre pesanti:
+il volto di un malvagio imperatore romano, con, forse, un lontano tocco di
+imperatore cinese. Tutti i presenti parvero guardarlo con l'occhio più freddo
+dell'ignoranza. Nient'altro poté notarsi di quell'uomo, salvo che, mentre ne
+avevano sollevato il [[Body|corpo]], avevano visto sotto di esso il bianco
+barbaglio di uno sparato di camicia deturpato da un rosso barbaglio di
+[[Blood|sangue]]. Come aveva detto il dottor Simon, quell'uomo non era mai
+stato dei loro. Ma poteva [[Well|benissimo]] aver cercato di unirsi a loro, poiché era
+venuto vestito per una simile occasione.
+
+Valentin si mise carponi ed esaminò con la più stretta attenzione professionale
+l'erba e il terreno per una ventina di iarde intorno al [[Body|corpo]], in ciò
+assistito con minore abilità dal dottore, e in modo del tutto vago dal lord
+inglese. Nulla ricompensò il loro brancolare, salvo qualche ramoscello,
+spezzato o tagliato in pezzetti piccolissimi, che Valentin sollevò per un
+istante d'esame e poi gettò via.
+
+«Ramoscelli,» disse gravemente; «ramoscelli, e un perfetto sconosciuto con la
+testa mozzata; ecco tutto ciò che c'è su questo prato.»
+
+Vi fu un silenzio quasi raccapricciante, e poi lo snervato Galloway gridò
+seccamente:
+
+«Chi è quello! Chi è quello laggiù presso il muro del [[Garden|giardino]]!»
+
+Una piccola figura con una testa scioccamente grande si avvicinò a loro con
+passo incerto nella foschia lunare; parve per un istante un folletto, ma si
+rivelò l'innocuo pretino che avevano lasciato in salotto.
+
+«Dico io,» disse mansueto, «non ci sono cancelli in questo
+[[Garden|giardino]], sapete.»
+
+Le nere sopracciglia di Valentin si erano un po' aggrottate stizzosamente,
+come facevano per principio alla vista della tonaca. Ma era un uomo troppo
+giusto per negare la pertinenza dell'osservazione. «Avete ragione,» disse.
+«Prima di scoprire come sia stato ucciso, potremmo dover scoprire come sia
+giunto qui. Ora ascoltatemi, signori. Se lo si può fare senza pregiudizio
+per la mia posizione e il mio dovere, converremo tutti che certi nomi
+illustri potrebbero [[Well|benissimo]] essere tenuti fuori da questa faccenda.
+Ci sono delle signore, signori, e c'è un ambasciatore straniero. Se dobbiamo
+classificarlo come un delitto, allora dovrà essere perseguito come un delitto.
+Ma fino ad allora posso usare la mia discrezione. Sono il capo della polizia;
+sono così pubblico che posso permettermi di essere privato. Piaccia al Cielo,
+scagionerò ognuno dei miei ospiti prima di chiamare i miei uomini a cercare
+qualcun altro. Signori, sul vostro [[Honour|onore]], nessuno di voi lascerà
+la [[house|casa]] fino a domani a [[Noon|mezzogiorno]]; ci sono camere da
+letto per tutti. Simon, credo che sappiate dove trovare il mio uomo, Ivan,
+nell'atrio d'ingresso; è un uomo di fiducia. Ditegli di lasciare un altro
+servitore di guardia e di venire subito da me. Lord Galloway, siete di certo
+la persona migliore per dire alle signore ciò che è accaduto, e prevenire il
+panico. Anch'esse devono restare. [[Father Brown]] e io rimarremo con il
+[[Body|corpo]].»
+
+Quando questo spirito di capitano parlava in Valentin, egli veniva obbedito
+come uno squillo di tromba. Il dottor Simon attraversò fino all'armeria e
+stanò Ivan, il [[Detective|detective]] privato del [[Detective|detective]]
+pubblico. Galloway andò in salotto e diede la terribile notizia con
+sufficiente tatto, così che nel [[Time|momento]] in cui la compagnia vi si radunò le signore erano
+già trasalite e già rasserenate. Intanto il buon prete e il buon ateo stavano
+al capo e ai piedi del morto, immobili al chiaro di luna, come statue
+simboliche delle loro due filosofie della [[Death|morte]].
+
+Ivan, l'uomo di fiducia con la cicatrice e i baffi, uscì dalla
+[[house|casa]] come una palla di cannone, e venne di corsa attraverso il
+prato verso Valentin come un cane verso il padrone. Il suo volto livido era
+tutto vivace per l'ardore di questa storia da [[Detective|detective]]
+domestica, e fu con una premura quasi sgradevole che chiese al padrone il
+permesso di esaminare le spoglie.
+
+«Sì; guarda pure, se vuoi, Ivan,» disse Valentin, «ma non metterci troppo.
+Dobbiamo rientrare e sviscerare la cosa in [[house|casa]].»
+
+Ivan sollevò la testa, e quasi la lasciò cadere.
+
+«Ma come,» ansimò, «è... no, non è possibile; non può essere. Conoscete
+quest'uomo, signore?»
+
+«No,» disse Valentin con indifferenza; «faremmo meglio a rientrare.»
+
+Insieme trasportarono il cadavere su un divano nello studio, e poi tutti si
+avviarono verso il salotto.
+
+Il [[Detective|detective]] sedette a una scrivania con calma, e persino senza
+esitazione; ma il suo occhio era l'occhio di ferro di un giudice d'assise.
+Prese qualche rapido appunto su un foglio davanti a sé, e poi disse breve:
+«Sono tutti qui?»
+
+«Manca il signor Brayne,» disse la Duchessa di Mont St. Michel, guardandosi
+attorno.
+
+«No,» disse Lord Galloway con voce rauca e aspra. «E non c'è nemmeno il signor
+Neil O'Brien, mi pare. Ho visto quel signore passeggiare nel
+[[Garden|giardino]] quando il cadavere era ancora caldo.»
+
+«Ivan,» disse il [[Detective|detective]], «va' a chiamare il Comandante
+O'Brien e il signor Brayne. Il signor Brayne, lo so, sta finendo un sigaro
+nella sala da pranzo; il Comandante O'Brien, credo, passeggia su e giù per la
+serra. Non ne sono sicuro.»
+
+Il fedele attendente sfrecciò fuori dalla stanza, e prima che alcuno potesse
+muoversi o parlare Valentin proseguì con la stessa marziale rapidità di
+esposizione.
+
+«Tutti qui sanno che un morto è stato trovato nel [[Garden|giardino]], la
+testa recisa di netto dal [[Body|corpo]]. Dottor Simon, voi l'avete esaminato.
+Ritenete che tagliare la gola a un uomo in quel modo richiederebbe grande
+forza? Oppure, forse, soltanto un coltello molto affilato?»
+
+«Direi che non si potrebbe affatto farlo con un coltello,» disse il pallido
+dottore.
+
+«Avete qualche idea,» riprese Valentin, «di uno strumento con cui si potrebbe
+fare?»
+
+«Parlando entro le probabilità moderne, davvero no,» disse il dottore,
+inarcando le sopracciglia dolenti. «Non è facile recidere un collo nemmeno
+goffamente, e questo era un taglio nettissimo. Si potrebbe fare con
+un'ascia da battaglia o una vecchia scure da boia, o una vecchia
+[[Sword|spada]] a due mani.»
+
+«Ma, santo cielo!» gridò la Duchessa, quasi in preda a un attacco isterico,
+«non ci sono spade a due mani né asce da battaglia qui intorno.»
+
+Valentin era ancora indaffarato col foglio davanti a sé. «Ditemi,» disse,
+sempre scrivendo rapidamente, «potrebbe essere stato fatto con una lunga
+sciabola da cavalleria francese?»
+
+Un lieve bussare venne alla porta, che, per qualche irragionevole ragione,
+raggelò a tutti il [[Blood|sangue]] come il bussare nel [[Macbeth]]. In mezzo
+a quel gelido [[Silence|silenzio]] il dottor Simon riuscì a dire: «Una
+sciabola... sì, suppongo che potrebbe.»
+
+«Grazie,» disse Valentin. «Entra, Ivan.»
+
+Il fidato Ivan aprì la porta e introdusse il Comandante Neil O'Brien, che
+aveva infine trovato mentre passeggiava di nuovo nel [[Garden|giardino]].
+
+L'ufficiale irlandese si fermò sulla soglia, scomposto e provocatorio. «Cosa
+volete da me?» gridò.
+
+«Vi prego di sedervi,» disse Valentin con toni piacevoli e pacati. «Ma come,
+non portate la vostra [[Sword|spada]]. Dov'è?»
+
+«L'ho lasciata sul tavolo della biblioteca,» disse O'Brien, il suo accento
+irlandese accentuandosi nell'agitazione. «Era un fastidio, stava
+diventando...»
+
+«Ivan,» disse Valentin, «per favore va' a prendere la [[Sword|spada]] del
+Comandante dalla biblioteca.» Poi, mentre il servitore spariva: «Lord
+Galloway dice di avervi visto lasciare il [[Garden|giardino]] proprio prima
+di trovare il cadavere. Cosa facevate nel [[Garden|giardino]]?»
+
+Il Comandante si gettò con noncuranza su una sedia. «Oh,» gridò con puro
+accento irlandese, «ammiravo la [[Moon|luna]]. Comunicavo con la
+[[Nature|Natura]], ragazzo mio.»
+
+Un pesante [[Silence|silenzio]] calò e perdurò, e alla sua fine venne di nuovo
+quel triviale e terribile bussare. Ivan ricomparve, recando un fodero d'acciaio
+vuoto. «È tutto ciò che riesco a trovare,» disse.
+
+«Mettilo sul tavolo,» disse Valentin, senza alzare lo sguardo.
+
+Vi fu un [[Silence|silenzio]] disumano nella stanza, come quel mare di
+[[Silence|silenzio]] disumano intorno al banco del condannato all'assassinio.
+Le deboli esclamazioni della Duchessa erano da tempo spente. Il gonfio odio di
+Lord Galloway era appagato e persino rabbonito. La voce che si levò fu del
+tutto inaspettata.
+
+«Credo di potervelo dire io,» gridò Lady Margaret, con quella voce chiara e
+tremula con cui una donna coraggiosa parla in pubblico. «Posso dirvi cosa
+faceva il signor O'Brien nel [[Garden|giardino]], dato che egli è tenuto al
+[[Silence|silenzio]]. Mi stava chiedendo di sposarlo. Io ho rifiutato; ho
+detto che nella situazione della mia famiglia non potevo dargli nulla se non
+la mia stima. Egli se ne è un po' adirato; non pareva tenere molto alla mia
+stima. Mi [[Wonder|chiedo]],» aggiunse, con un sorriso piuttosto smorto,
+«se ora gliene importerà qualcosa. Perché ora gliela offro. Giurerò dovunque
+che non ha mai fatto una cosa simile.»
+
+Lord Galloway si era avvicinato alla figlia, e la intimidiva con quello che
+immaginava fosse un tono sommesso. «Tieni a freno la lingua, Maggie,» disse
+in un tonante bisbiglio. «Perché mai dovresti scudare quel tale? Dov'è la sua
+[[Sword|spada]]? Dov'è la sua maledetta cavalleria...»
+
+Si arrestò a causa dello sguardo singolare con cui la figlia lo fissava, uno
+sguardo che era davvero una calamita lurida per l'intero gruppo.
+
+«Vecchio [[Fool|sciocco]]!» disse a bassa voce, senza finzione di pietà,
+«cosa credi di voler dimostrare? Ti dico che quest'uomo era
+[[Innocent|innocente]] mentre era con me. Ma se non era [[Innocent|innocente]],
+era comunque con me. Se ha assassinato un uomo nel [[Garden|giardino]], chi
+è che deve aver visto... chi deve almeno aver saputo? Odi Neil tanto da mettere
+la tua stessa figlia...»
+
+Lady Galloway lanciò un urlo. Tutti gli altri sedevano fremendo al tocco di
+quelle sataniche tragedie che sono esistite fra [[lovers|amanti]] anche
+prima d'ora. Vedevano il volto fiero e bianco dell'[[aristocrat|aristocratica]]
+scozzese e del suo [[Lover|amante]], l'avventuriero irlandese, come vecchi
+ritratti in una [[house|casa]] buia. Il lungo [[Silence|silenzio]] era colmo
+di informi memorie storiche di mariti assassinati e amanti velenosi.
+
+Nel centro di questo morboso [[Silence|silenzio]] una voce
+[[Innocent|innocente]] disse: «Era un sigaro molto lungo?»
+
+Il mutamento di pensiero fu così brusco che dovettero guardarsi attorno per
+vedere chi avesse parlato.
+
+«Voglio dire,» disse il piccolo [[Father Brown]], dall'angolo della stanza,
+«voglio dire quel sigaro che il signor Brayne sta finendo. Sembra lungo quasi
+quanto un bastone da passeggio.»
+
+Malgrado l'irrilevanza, vi fu tanto assenso [[Well|quanto]] irritazione sul volto di
+Valentin quando alzò la testa.
+
+«Giustissimo,» osservò seccamente. «Ivan, va' a vedere di nuovo del signor
+Brayne, e portalo subito qui.»
+
+Nell'istante in cui il factotum ebbe chiuso la porta, Valentin si rivolse alla
+fanciulla con una serietà del tutto nuova.
+
+«Lady Margaret,» disse, «tutti proviamo, ne sono certo, gratitudine e
+ammirazione per il vostro gesto di elevarvi al di sopra della vostra dignità
+minore e spiegare la condotta del Comandante. Ma resta ancora un iato. Lord
+Galloway, se ho ben capito, vi ha incontrata mentre passavate dallo studio al
+salotto, e fu solo alcuni minuti dopo che trovò il [[Garden|giardino]] e il
+Comandante che ancora vi passeggiava.»
+
+«Dovete ricordare,» replicò Margaret, con una lieve ironia nella voce, «che io
+lo avevo appena rifiutato, sicché difficilmente saremmo tornati a braccetto.
+È comunque un gentiluomo; e si attardò indietro... e così finì per essere
+accusato di omicidio.»
+
+«In quei pochi istanti,» disse Valentin gravemente, «egli potrebbe davvero...»
+
+Il bussare venne di nuovo, e Ivan sporse il suo volto sfregiato.
+
+«Chiedo scusa, signore,» disse, «ma il signor Brayne ha lasciato la
+[[house|casa]].»
+
+«Lasciata!» gridò Valentin, e per la prima [[Time|volta]] si [[Rose|alzò]]
+in piedi.
+
+«Sparito. Squagliato. Evaporato,» rispose Ivan in un francese scherzoso. «Anche
+il cappello e il soprabito sono spariti, e vi dirò una cosa che corona il tutto.
+Sono corso fuori dalla [[house|casa]] per trovare qualche sua traccia, e ne ho
+trovata una, e una bella grossa, per giunta.»
+
+«Cosa intendi?» chiese Valentin.
+
+«Ve la mostro,» disse il servitore, e ricomparve con una sciabola da cavalleria
+nuda e lampeggiante, striata di [[Blood|sangue]] sulla punta e sul filo.
+Tutti nella stanza la fissarono come se fosse un fulmine; ma l'esperto Ivan
+proseguì del tutto tranquillo:
+
+«Ho trovato questa,» disse, «gettata tra i cespugli cinquanta iarde più su
+lungo la [[Road|strada]] per [[Paris|Parigi]]. In altre parole, l'ho trovata
+proprio dove il vostro rispettabile signor Brayne l'ha gettata quando è
+fuggito.»
+
+Vi fu di nuovo un [[Silence|silenzio]], ma di specie nuova. Valentin prese la
+sciabola, la esaminò, riflettè con schietta concentrazione di pensiero, e poi
+volse un viso rispettoso verso O'Brien. «Comandante,» disse, «confidiamo che
+produrrete sempre quest'arma qualora fosse richiesta per l'esame di polizia.
+Nel frattempo,» aggiunse, ricacciando l'acciaio nel risonante fodero, «lasciate
+che vi restituisca la vostra [[Sword|spada]].»
+
+Al simbolismo militare del gesto l'uditorio riuscì a stento a trattenersi
+dall'applauso.
+
+Per Neil O'Brien, in verità, quel gesto fu la svolta dell'esistenza. Nel
+[[Time|momento]] in cui, nei colori del mattino, si aggirava di nuovo nel
+misterioso [[Garden|giardino]], la tragica futilità del suo aspetto abituale era caduta da
+lui; era un uomo con molte ragioni per essere felice. Lord Galloway era un
+gentiluomo, e gli aveva offerto delle scuse. Lady Margaret era qualcosa di
+meglio di una lady, una donna almeno, e gli aveva forse dato qualcosa di meglio
+di una scusa, mentre vagavano tra le vecchie aiuole prima della colazione.
+L'intera compagnia era più spensierata e umana, poiché, benché l'[[Riddle|enigma]]
+della [[Death|morte]] rimanesse, il peso del sospetto era stato tolto da tutti
+loro, e mandato via a volo verso [[Paris|Parigi]] con lo strano milionario:
+un uomo che a stento conoscevano. Il diavolo era stato scacciato dalla
+[[house|casa]]: si era scacciato da sé.
+
+Eppure, l'[[Riddle|enigma]] rimaneva; e quando O'Brien si gettò su una panchina
+del [[Garden|giardino]] accanto al dottor Simon, quella persona acutamente
+scientifica lo riprese subito. Non cavò molta conversazione da O'Brien, i cui
+pensieri erano rivolti a cose più piacevoli.
+
+«Non posso dire che m'interessi molto,» disse l'irlandese francamente,
+«tanto più che ora sembra abbastanza chiaro. A quanto pare Brayne odiava
+questo sconosciuto per qualche ragione; lo ha attirato nel [[Garden|giardino]]
+e lo ha ucciso con la mia [[Sword|spada]]. Poi è fuggito verso la
+[[City|città]], gettando via la [[Sword|spada]] mentre andava. A proposito,
+Ivan mi dice che il morto aveva un dollaro yankee in tasca. Dunque era un
+compatriota di Brayne, e questo pare risolvere la cosa. Non vedo alcuna
+difficoltà nella faccenda.»
+
+«Ci sono cinque difficoltà colossali,» disse il dottore con calma; «come alti
+muri dentro altri muri. Non fraintendetemi. Non [[Doubt|dubito]] che sia stato
+Brayne; la sua fuga, credo, lo dimostra. Ma quanto al modo in cui l'ha fatto.
+Prima difficoltà: perché un uomo dovrebbe uccidere un altro uomo con
+un'enorme sciabola sgraziata, quando può quasi ucciderlo con un temperino e
+rimetterselo in tasca? Seconda difficoltà: perché non ci fu alcun rumore né
+grido? Un uomo di solito vede un altro avanzare brandendo una scimitarra e non
+fa alcuna osservazione? Terza difficoltà: un servitore sorvegliò il portone per
+tutta la sera; e nel [[Garden|giardino]] di Valentin non può entrare nemmeno
+un topo. Come fece il morto a entrare nel [[Garden|giardino]]? Quarta
+difficoltà: date le stesse condizioni, come fece Brayne a uscire dal
+[[Garden|giardino]]?»
+
+«E la quinta,» disse Neil, con gli occhi fissi sul prete inglese che risaliva
+lentamente il sentiero.
+
+«È una bagatella, suppongo,» disse il dottore, «ma penso sia una cosa strana.
+Quando vidi per la prima volta come la testa fosse stata squarciata, supposi
+che l'assassino avesse colpito più di una volta. Ma all'esame trovai molti
+tagli attraverso la sezione troncata; in altre parole, furono inferti dopo che
+la testa era già staccata. Brayne odiava il suo nemico tanto ferocemente da
+restare a sciabolarne il [[Body|corpo]] al chiaro di luna?»
+
+«Orribile!» disse O'Brien, e rabbrividì.
+
+Il pretino, Brown, era arrivato mentre parlavano, e aveva atteso, con
+caratteristica timidezza, che avessero finito. Poi disse impacciato:
+
+«Dico io, mi spiace interrompere. Ma sono stato mandato a darvi la notizia!»
+
+«Notizia?» ripeté Simon, e lo fissò piuttosto penosamente attraverso gli
+occhiali.
+
+«Sì, mi spiace,» disse [[Father Brown]] mitemente. «C'è stato un altro
+omicidio, sapete.»
+
+Entrambi gli uomini sulla panchina balzarono in piedi, lasciandola dondolare.
+
+«E, cosa ancora più strana,» proseguì il prete, con l'occhio spento fisso sui
+rododendri, «è dello stesso genere disgustoso; è un'altra decapitazione. Hanno
+trovato la seconda testa che sanguinava proprio nel [[River|fiume]], a poche
+iarde lungo la [[Road|strada]] di Brayne per [[Paris|Parigi]]; sicché suppongono
+che egli...»
+
+«Gran Dio!» gridò O'Brien. «Brayne è un monomaniaco?»
+
+«Ci sono vendette americane,» disse il prete impassibile. Poi aggiunse:
+«Vogliono che veniate in biblioteca a vederla.»
+
+Il Comandante O'Brien seguì gli altri verso l'inchiesta, sentendosi
+decisamente male. Da soldato, aborriva tutta questa carneficina furtiva; dove
+sarebbero finite queste amputazioni stravaganti? Prima una testa veniva
+mozzata, e poi un'altra; in questo caso (si disse amaramente) non era vero che
+due teste valessero più di una. Mentre attraversava lo studio quasi barcollò
+per una scioccante coincidenza. Sul tavolo di Valentin giaceva l'immagine
+colorata di una terza testa sanguinante; ed era la testa di Valentin stesso.
+Una seconda occhiata gli rivelò che era soltanto un giornale nazionalista,
+chiamato La Ghigliottina, che ogni settimana mostrava uno dei suoi avversari
+politici con gli occhi [[rolling|roteanti]] e i lineamenti contorti subito
+dopo l'esecuzione; poiché Valentin era un anticlericale di una certa fama.
+Ma O'Brien era un irlandese, con una sorta di castità persino nei suoi
+peccati; e il suo stomaco si [[Rose|rivoltava]] contro quella grande brutalità
+dell'intelletto che appartiene soltanto alla Francia. Sentiva [[Paris|Parigi]]
+tutta intera, dai grotteschi sulle chiese gotiche alle grossolane caricature
+dei giornali. Ricordò le gigantesche facezie della Rivoluzione. Vedeva l'intera
+[[City|città]] come un'unica brutta energia, dallo [[Sketch|schizzo]] sanguinario
+che giaceva sul tavolo di Valentin su fino a dove, sopra una montagna e una
+foresta di [[gargoyles|gargolle]], il grande diavolo ghigna su Notre Dame.
+
+La biblioteca era lunga, bassa e buia; la poca luce che vi entrava filtrava da
+sotto tende basse e conservava ancora qualcosa della tinta rossastra del
+mattino. Valentin e il suo servitore Ivan li attendevano all'estremità
+superiore di una lunga scrivania lievemente inclinata, sulla quale giacevano
+le spoglie mortali, che parevano enormi nella penombra. La grande figura nera
+e il volto giallo dell'uomo trovato nel [[Garden|giardino]] li fronteggiavano
+sostanzialmente immutati. La seconda testa, che era stata ripescata quella
+mattina fra i canneti del [[River|fiume]], giaceva accanto ad essa, grondante
+e gocciolante; gli uomini di Valentin cercavano ancora di recuperare il resto
+di questo secondo cadavere, che si supponeva galleggiasse. [[Father Brown]],
+che non pareva affatto condividere la sensibilità di O'Brien, si avvicinò alla
+seconda testa e la esaminò con la sua premura sbattendo le palpebre. Era poco
+più di un ammasso di bagnati capelli bianchi, orlati di [[Fire|fuoco]] argenteo
+nella rossa luce radente del mattino; il volto, che pareva di tipo brutto,
+paonazzo e forse criminale, era stato molto sbattuto contro alberi o pietre
+mentre era sballottato nell'[[Water|acqua]].
+
+«Buongiorno, Comandante O'Brien,» disse Valentin, con quieta cordialità.
+«Avete saputo dell'ultimo esperimento di macelleria di Brayne, suppongo?»
+
+[[Father Brown]] era ancora chino sulla testa dai capelli bianchi, e disse,
+senza alzare lo sguardo:
+
+«Suppongo sia del tutto certo che anche questa testa l'abbia tagliata Brayne.»
+
+«[[Well|Beh]], mi pare buon senso,» disse Valentin, con le mani in tasca.
+«Ucciso nello stesso modo dell'altro. Trovato a poche iarde dall'altro. E
+affettato dalla stessa arma che sappiamo egli portò via.»
+
+«Sì, sì; lo so,» replicò [[Father Brown]] con sottomissione. «Eppure, sapete,
+[[Doubt|dubito]] che Brayne potesse aver tagliato questa testa.»
+
+«Perché no?» domandò il dottor Simon, con uno sguardo razionale.
+
+«[[Well|Beh]], dottore,» disse il prete, alzando lo sguardo e sbattendo le
+palpebre, «può un uomo tagliarsi la propria testa? Non lo so.»
+
+O'Brien sentì un universo folle crollargli attorno alle orecchie; ma il dottore
+balzò avanti con impetuosa praticità e scostò i bagnati capelli bianchi.
+
+«Oh, non c'è [[Doubt|dubbio]] che sia Brayne,» disse il prete con calma. «Aveva
+esattamente quella scheggiatura nell'orecchio sinistro.»
+
+Il [[Detective|detective]], che aveva osservato il prete con occhi fermi e
+scintillanti, aprì la bocca serrata e disse seccamente: «Pare che sappiate un
+mucchio di cose su di lui, [[Father Brown]].»
+
+«È così,» disse il piccolo uomo semplicemente. «Sono stato in giro con lui per
+alcune settimane. Pensava di unirsi alla nostra chiesa.»
+
+La stella del fanatico balzò negli occhi di Valentin; egli mosse a grandi passi
+verso il prete con le mani serrate. «E, forse,» gridò, con un ghigno fulminante,
+«forse pensava anche di lasciare tutto il suo denaro alla vostra chiesa.»
+
+«Forse sì,» disse Brown flemmatico; «è possibile.»
+
+«In tal caso,» gridò Valentin, con un sorriso terribile, «potreste davvero
+sapere un mucchio di cose su di lui. Sulla sua vita e sulla sua...»
+
+Il Comandante O'Brien posò una mano sul braccio di Valentin. «Piantala con
+questa spazzatura calunniosa, Valentin,» disse, «o potrebbero esserci ancora
+altre spade.»
+
+Ma Valentin (sotto lo sguardo fermo e umile del prete) si era già ripreso.
+«[[Well|Bene]],» disse breve, «le opinioni private della gente possono aspettare.
+Voi signori siete ancora vincolati dalla vostra promessa di restare; dovrete
+farla rispettare a voi stessi... e l'un l'altro. Ivan qui vi dirà tutto ciò che
+volete sapere; io devo mettermi al lavoro e scrivere alle autorità. Non possiamo
+tenere la cosa nascosta più a lungo. Scriverò nel mio studio, se ci saranno
+altre notizie.»
+
+«Ci sono altre notizie, Ivan?» chiese il dottor Simon, mentre il capo della
+polizia usciva a grandi passi dalla stanza.
+
+«Solo un'altra cosa, credo, signore,» disse Ivan, corrugando il suo vecchio
+volto grigio, «ma anche quella è importante, a suo modo. C'è quel vecchio
+arnese che avete trovato sul prato,» e indicò, senza finzione di riverenza,
+il grande [[Body|corpo]] nero dalla testa gialla. «Comunque abbiamo scoperto
+chi è.»
+
+«Davvero!» gridò il dottore stupito, «e chi è?»
+
+«Si chiamava Arnold Becker,» disse il sotto-[[Detective|detective]], «benché
+girasse sotto molti falsi nomi. Era una specie di canaglia vagabonda, e si sa
+che è stato in [[America]]; sicché è là che Brayne gli ha piantato addosso il
+coltello. Noi non abbiamo avuto molto a che fare con lui, perché operava
+soprattutto in [[Germany|Germania]]. Abbiamo comunicato, naturalmente, con la
+polizia tedesca. Ma, per quanto strano, c'era un suo fratello gemello, di nome
+Louis Becker, col quale abbiamo avuto moltissimo a che fare. Anzi, l'abbiamo
+dovuto ghigliottinare proprio ieri. [[Well|Beh]], è una cosa buffa, signori, ma
+quando ho visto quel tale disteso sul prato ho avuto il più grande sobbalzo
+della mia vita. Se non avessi visto Louis Becker ghigliottinato coi miei stessi
+occhi, avrei giurato che fosse Louis Becker steso là nell'erba. Poi,
+naturalmente, mi sono ricordato del suo fratello gemello in
+[[Germany|Germania]], e seguendo l'indizio...»
+
+L'esplicativo Ivan si fermò, per l'eccellente ragione che nessuno lo stava
+ascoltando. Il Comandante e il dottore stavano entrambi fissando
+[[Father Brown]], che era balzato rigidamente in piedi, e si teneva le tempie
+strette come un uomo in preda a un [[Pain|dolore]] improvviso e violento.
+
+«Ferma, ferma, ferma!» gridò; «smettete di parlare un minuto, perché vedo metà.
+Vorrà Dio darmi la forza? Vorrà il mio cervello fare l'unico salto e vedere
+tutto? Il Cielo mi aiuti! Un tempo ero abbastanza bravo a pensare. Una volta
+sapevo parafrasare qualsiasi pagina di [[aquinas|Aquino]]. Mi si spaccherà la
+testa... o vedrà? Vedo metà... vedo solo metà.»
+
+Affondò la testa fra le mani, e rimase in una sorta di rigida tortura di
+pensiero o di [[Prayer|preghiera]], mentre gli altri tre non potevano che
+continuare a fissare quest'ultimo prodigio delle loro folli dodici ore.
+
+Quando le mani di [[Father Brown]] ricaddero, mostrarono un volto del tutto
+fresco e serio, come quello di un [[Child|bambino]]. Emise un enorme sospiro, e
+disse: «Sbrighiamo questa faccenda e finiamola il più in fretta possibile.
+Sentite, questo sarà il modo più rapido per convincervi tutti della
+[[Truth|verità]].» Si volse al dottore. «Dottor Simon,» disse, «voi avete una
+testa robusta, e vi ho sentito stamattina porre le cinque domande più difficili
+su questa faccenda. [[Well|Bene]], se vorrete porle di nuovo, io vi risponderò.»
+
+Il pince-nez di Simon cadde dal naso per il [[Doubt|dubbio]] e la
+[[Wonder|meraviglia]], ma egli rispose subito. «[[Well|Bene]], la prima domanda,
+sapete, è perché un uomo dovrebbe uccidere un altro con una goffa sciabola,
+quando può uccidere con un punteruolo?»
+
+«Un uomo non può decapitare con un punteruolo,» disse Brown con calma, «e per
+questo omicidio la decapitazione era assolutamente necessaria.»
+
+«Perché?» chiese O'Brien, con interesse.
+
+«E la prossima domanda?» chiese [[Father Brown]].
+
+«[[Well|Bene]], perché l'uomo non gridò o non fece nulla?» chiese il dottore;
+«le sciabole nei giardini sono di certo insolite.»
+
+«Ramoscelli,» disse il prete tetramente, e si volse verso la [[Window|finestra]]
+che dava sulla scena della [[Death|morte]]. «Nessuno colse il senso dei
+ramoscelli. Perché mai giacevano su quel prato (guardatelo) così lontano da
+qualsiasi albero? Non erano stati spezzati; erano stati tagliati. L'assassino
+tenne occupato il suo nemico con qualche giochetto di sciabola, mostrandogli
+come sapeva tagliare un ramo a mezz'aria, o cose del genere. Poi, mentre il suo
+nemico si chinava a vedere il risultato, un silenzioso fendente, e la testa
+cadde.»
+
+«[[Well|Bene]],» disse il dottore lentamente, «questo pare abbastanza
+plausibile. Ma le mie prossime due domande metteranno in imbarazzo chiunque.»
+
+Il prete rimase ancora a guardare criticamente fuori dalla [[Window|finestra]]
+e attese.
+
+«Sapete come tutto il [[Garden|giardino]] fosse sigillato come una camera
+ermetica,» proseguì il dottore. «[[Well|Bene]], come fece lo sconosciuto a
+entrare nel [[Garden|giardino]]?»
+
+Senza voltarsi, il pretino rispose: «Non ci fu mai alcuno sconosciuto nel
+[[Garden|giardino]].»
+
+Vi fu un [[Silence|silenzio]], e poi un'improvvisa risatina di riso quasi
+infantile alleviò la tensione. L'assurdità dell'osservazione di Brown spinse
+Ivan ad aperti dileggi.
+
+«Oh!» gridò; «allora non abbiamo trascinato un grosso e grasso cadavere su un
+divano ieri [[Night|notte]]? Non era entrato nel [[Garden|giardino]], suppongo?»
+
+«Entrato nel [[Garden|giardino]]?» ripeté Brown pensosamente. «No, non del
+tutto.»
+
+«Ma insomma,» gridò Simon, «un uomo entra in un [[Garden|giardino]], oppure no.»
+
+«Non necessariamente,» disse il prete, con un lieve sorriso. «Qual è la prossima
+domanda, dottore?»
+
+«Temo che siate malato,» esclamò il dottor Simon seccamente; «ma vi porrò la
+prossima domanda, se volete. Come fece Brayne a uscire dal [[Garden|giardino]]?»
+
+«Non uscì dal [[Garden|giardino]],» disse il prete, sempre guardando fuori
+dalla [[Window|finestra]].
+
+«Non uscì dal [[Garden|giardino]]?» esplose Simon.
+
+«Non completamente,» disse [[Father Brown]].
+
+Simon scosse i pugni in un frenesia di [[logic|logica]] francese. «Un uomo esce
+da un [[Garden|giardino]], oppure no,» gridò.
+
+«Non sempre,» disse [[Father Brown]].
+
+Il dottor Simon balzò in piedi con impazienza. «Non ho [[Time|tempo]] da perdere
+in simili discorsi insensati,» gridò con collera. «Se non riuscite a capire che
+un uomo sta da un lato o dall'altro di un muro, non vi disturberò oltre.»
+
+«Dottore,» disse il chierico assai gentilmente, «siamo sempre andati molto
+d'accordo. Se non altro per amore della vecchia [[Friendship|amicizia]],
+fermatevi e ditemi la vostra quinta domanda.»
+
+L'impaziente Simon sprofondò in una sedia presso la porta e disse breve: «La
+testa e le spalle erano tagliuzzate in modo strano. Pareva fosse stato fatto
+dopo la [[Death|morte]].»
+
+«Sì,» disse il prete immobile, «fu fatto così da indurvi ad assumere
+esattamente l'unica semplice falsità che avete assunto. Fu fatto per farvi dare
+per scontato che la testa appartenesse al [[Body|corpo]].»
+
+Il territorio di confine del cervello, dove si generano tutti i mostri, si mosse
+orribilmente nell'O'Brien gaelico. Sentì la caotica presenza di tutti gli
+uomini-[[Horse|cavallo]] e delle donne-pesce che la fantasia innaturale
+dell'uomo ha generato. Una voce più antica dei suoi primi padri parve dirgli
+all'orecchio: «Tieniti fuori dal mostruoso [[Garden|giardino]] dove cresce
+l'albero dal [[Double|duplice]] frutto. Evita il malvagio [[Garden|giardino]]
+dove morì l'uomo con due teste.» Eppure, mentre queste vergognose forme
+simboliche attraversavano l'antico [[Mirror|specchio]] della sua
+[[Soul|anima]] irlandese, il suo intelletto affrancesato era del tutto vigile,
+e osservava lo strano prete con la stessa attenzione incredula di tutti gli
+altri.
+
+[[Father Brown]] si era infine voltato, e stava in piedi contro la
+[[Window|finestra]], col volto in fitta [[Shadow|ombra]]; ma persino in
+quell'[[Shadow|ombra]] potevano vedere che era pallido come la cenere.
+Ciononostante, parlò in modo del tutto assennato, come se non ci fossero anime
+gaeliche sulla terra.
+
+«Signori,» disse, «voi non avete trovato lo strano [[Body|corpo]] di Becker nel
+[[Garden|giardino]]. Non avete trovato alcuno strano [[Body|corpo]] nel
+[[Garden|giardino]]. A dispetto del razionalismo del dottor Simon, io affermo
+ancora che Becker era presente solo in parte. Guardate qui!» (indicando la nera
+mole del misterioso cadavere) «voi non avete mai visto quest'uomo in vita
+vostra. Avete mai visto quest'altro?»
+
+Fece rapidamente rotolare via la calva testa gialla dello sconosciuto, e mise al
+suo posto la testa dalla candida chioma che le stava accanto. E là, completo,
+unificato, inconfondibile, giaceva Julius K. Brayne.
+
+«L'assassino,» proseguì Brown con calma, «mozzò la testa del suo nemico e gettò
+la [[Sword|spada]] lontano al di là del muro. Ma fu troppo scaltro per gettare
+soltanto la [[Sword|spada]]. Gettò al di là del muro anche la testa. Poi non
+ebbe che da appioppare un'altra testa al cadavere, e (dato che pretese
+un'inchiesta privata) tutti voi immaginaste un uomo completamente nuovo.»
+
+«Appioppare un'altra testa!» disse O'Brien fissandolo. «Quale altra testa? Le
+teste non crescono sui cespugli del [[Garden|giardino]], no?»
+
+«No,» disse [[Father Brown]] con voce roca, guardandosi le scarpe; «c'è un solo
+posto dove crescono. Crescono nel cesto della ghigliottina, accanto al quale il
+capo della polizia, Aristide Valentin, se ne stava non un'ora prima
+dell'omicidio. Oh, amici miei, ascoltatemi ancora un minuto prima di farmi a
+pezzi. Valentin è un uomo onesto, se essere pazzo per una causa discutibile è
+onestà. Ma non avete mai visto in quel suo occhio freddo e grigio che è pazzo?
+Farebbe qualsiasi cosa, qualsiasi cosa, per infrangere ciò che chiama la
+superstizione della [[Cross|Croce]]. Ha combattuto per essa e ha patito la fame
+per essa, e ora ha ucciso per essa. I folli milioni di Brayne erano finora stati
+dispersi fra tanti sette da fare ben poco per alterare l'equilibrio delle cose.
+Ma Valentin udì un bisbiglio che Brayne, come tanti scettici scervellati, stava
+scivolando verso di noi; e quella era una faccenda del tutto diversa. Brayne
+avrebbe riversato rifornimenti nell'impoverita e battagliera Chiesa di Francia;
+avrebbe sostenuto sei giornali nazionalisti come La Ghigliottina. La battaglia
+era già in bilico su un punto, e il fanatico prese fuoco al rischio. Decise di
+distruggere il milionario, e lo fece come ci si aspetterebbe che il più grande
+dei detective commetta il suo unico delitto. Sottrasse la testa recisa di Becker
+con qualche pretesto criminologico, e la portò a [[Home|casa]] nella sua
+cassetta ufficiale. Ebbe con Brayne quell'ultima discussione, di cui Lord
+Galloway non udì la fine; fallita quella, lo condusse fuori nel sigillato
+[[Garden|giardino]], parlò di scherma, si servì di ramoscelli e di una sciabola
+per illustrare, e...»
+
+Ivan della Cicatrice balzò in piedi. «Pazzo furioso,» sbraitò; «adesso vai dal
+mio padrone, o ti prendo per...»
+
+«Ma certo, ci stavo appunto andando,» disse Brown pesantemente; «devo
+chiedergli di confessare, e tutto il resto.»
+
+Sospingendo davanti a sé l'infelice Brown come un ostaggio o una vittima
+sacrificale, si precipitarono insieme nell'improvvisa immobilità dello studio
+di Valentin.
+
+Il grande [[Detective|detective]] sedeva alla scrivania, apparentemente troppo
+occupato per udire il loro turbolento ingresso. Si fermarono un istante, e poi
+qualcosa nell'aspetto di quella schiena eretta ed elegante fece sì che il dottore
+corresse avanti d'un tratto. Un tocco e un'occhiata gli mostrarono che c'era una
+piccola scatola di pillole al gomito di Valentin, e che Valentin era morto sulla
+sua sedia; e sul volto cieco del [[suicide|suicida]] c'era più che l'[[Pride|orgoglio]]
+di Catone.

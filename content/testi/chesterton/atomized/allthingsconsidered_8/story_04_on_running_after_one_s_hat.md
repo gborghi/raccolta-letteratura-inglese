@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/allthingsconsidered-8-(chesterton)">AllThingsConsidered 8</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/allthingsconsidered_8/story_03_the_fallacy_of_success_success">‹ Story 03 THE FALLACY OF success SUCCESS</a><a class="ex-next" href="/testi/chesterton/atomized/allthingsconsidered_8/story_05_the_vote_and_the_house_house">Story 05 THE VOTE AND THE house HOUSE ›</a></div>
@@ -136,3 +138,129 @@ if anything, have only increased their previous witchery and [[Wonder|wonder]].
 For as the Roman Catholic priest in the story said:  "Wine is
 good with everything except [[Water|water]]," and on a similar principle,
 [[Water|water]] is good with everything except wine.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/allthingsconsidered-8-(chesterton)">AllThingsConsidered 8</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/allthingsconsidered_8/story_03_the_fallacy_of_success_success">‹ Story 03 THE FALLACY OF success SUCCESS</a><a class="ex-next" href="/testi/chesterton/atomized/allthingsconsidered_8/story_05_the_vote_and_the_house_house">Story 05 THE VOTE AND THE house HOUSE ›</a></div>
+</nav>
+
+DEL CORRERE DIETRO AL PROPRIO CAPPELLO
+
+Provo un'invidia quasi feroce nell'apprendere che [[London|Londra]] è stata
+allagata durante la mia assenza, mentre io me ne sto nella semplice campagna.
+La mia cara Battersea, a quanto capisco, è stata particolarmente favorita
+come luogo d'incontro delle acque. Battersea era già, come è quasi superfluo
+che io dica, la più bella tra tutte le contrade umane. Ora che possiede lo
+splendore aggiuntivo di grandi distese d'[[Water|acqua]], vi dev'essere qualcosa
+di assolutamente incomparabile nel paesaggio (o acquapaesaggio) della mia
+romantica cittadina. Battersea dev'essere una visione di [[Venice|Venezia]].
+La barca che portava la carne dalla bottega del macellaio deve aver filato
+lungo quei vicoli d'argento increspato con la strana levità della gondola.
+L'ortolano che recava i cavoli all'angolo di Latchmere [[Road]] deve essersi
+appoggiato al remo con la grazia ultraterrena del gondoliere. Non v'è nulla
+di così perfettamente poetico come un'isola; e quando un rione è allagato,
+esso diventa un arcipelago.
+
+C'è chi giudica simili visioni romantiche dell'inondazione o dell'[[Fire|incendio]]
+un poco carenti di realtà. Ma in verità questa visione romantica di tali
+disagi è del tutto pratica quanto l'altra. Il vero ottimista, che in simili
+cose scorge un'occasione di godimento, è altrettanto logico e assai più
+assennato dell'ordinario «Contribuente Indignato», che vi scorge un'occasione
+per lagnarsi. Il [[Pain|dolore]] vero, come nel caso di essere arsi a Smithfield
+o di avere un mal di denti, è cosa positiva; lo si può sopportare, ma
+difficilmente goderne. Ma, dopo tutto, i nostri mal di denti sono l'eccezione,
+e quanto all'essere arsi a Smithfield, ciò ci accade soltanto agli intervalli
+più lunghi che si possano immaginare. E la maggior parte dei disagi che fanno
+imprecare gli uomini o piangere le donne sono in realtà disagi sentimentali
+o immaginari: cose tutte quante della mente. Per esempio, udiamo spesso persone
+adulte lamentarsi di dover ciondolare in una stazione ferroviaria ad aspettare
+un treno. Avete mai udito un ragazzino lamentarsi di dover ciondolare in una
+stazione ferroviaria ad aspettare un treno? No; perché per lui essere dentro
+una stazione ferroviaria è essere dentro una caverna di [[Wonder|meraviglia]] e
+un palazzo di piaceri poetici. Perché per lui la luce rossa e la luce verde
+del segnale sono come un nuovo sole e una nuova [[Moon|luna]]. Perché per lui,
+quando il braccio di legno del segnale cade all'improvviso, è come se un grande
+[[King|re]] avesse gettato il suo scettro a mo' di segnale, dando inizio a uno
+strepitante torneo di treni. Io stesso, in questa faccenda, ho l'indole dei
+ragazzini. Servono anch'essi coloro che soltanto stanno e aspettano il treno
+delle due e un quarto. Le loro meditazioni possono essere colme di cose ricche
+e feconde. Molte delle ore più purpuree della mia vita le ho trascorse a
+Clapham Junction, che ora, suppongo, si trova sott'[[Water|acqua]]. Vi sono stato
+in stati d'animo tanto fissi e mistici che l'[[Water|acqua]] avrebbe [[Well|ben]]
+potuto salirmi fino alla cintola prima che me ne accorgessi in modo particolare.
+Ma nel caso di tutte queste seccature, come ho detto, tutto dipende dal punto
+di vista emotivo. Si può applicare la prova con sicurezza a quasi ognuna delle
+cose che oggi si additano come il tipico fastidio della vita quotidiana.
+
+Per esempio, corre l'impressione che sia spiacevole dover rincorrere il proprio
+cappello. Perché mai dovrebbe essere spiacevole per una mente [[Well|ben]]
+ordinata e pia? Non semplicemente perché si tratta di correre, e il correre
+spossa. Le stesse persone corrono assai più veloci nei giochi e negli sport.
+Le stesse persone corrono assai più bramosamente dietro a un'insignificante
+pallina di cuoio di quanto non facciano dietro a un bel cappello di seta.
+C'è l'idea che sia umiliante rincorrere il proprio cappello; e quando la gente
+dice che è umiliante, intende dire che è comico. Comico lo è certamente; ma
+l'uomo è una creatura assai comica, e la maggior parte delle cose che fa sono
+comiche: il mangiare, per esempio. E le più comiche di tutte le cose sono
+esattamente quelle che più valgono la pena di essere fatte, come il fare l'[[Love|amore]].
+Un uomo che rincorre un cappello non è neppure la metà così ridicolo di un uomo
+che rincorre una moglie.
+
+Ora, un uomo potrebbe, se sentisse rettamente la cosa, rincorrere il proprio
+cappello col più virile ardore e con la più sacra gioia. Potrebbe considerarsi
+un allegro cacciatore all'inseguimento di una belva, ché di certo nessuna belva
+potrebbe essere più selvaggia. In verità, sono incline a credere che la caccia
+al cappello nelle giornate ventose sarà, in avvenire, lo sport delle classi
+elevate. Vi sarà un raduno di dame e gentiluomini su qualche altura, in un
+mattino di raffiche. Sarà loro annunciato che gli inservienti professionisti
+hanno stanato un cappello in tale o tal altra macchia, o quale che sia il
+termine tecnico. Si noti che questo passatempo unirà nel più pieno grado lo
+sport all'[[Humanitarianism|umanitarismo]]. I cacciatori sentirebbero di non
+infliggere alcun [[Pain|dolore]]. Anzi, sentirebbero di infliggere piacere,
+un piacere ricco, quasi tumultuoso, alla gente che stesse a guardare. L'ultima
+volta che vidi un vecchio signore rincorrere il proprio cappello a Hyde Park,
+gli dissi che un cuore tanto benevolo come il suo avrebbe dovuto colmarsi di
+pace e di gratitudine al pensiero di quanto schietto piacere ogni suo gesto e
+ogni sua posa corporea stessero in quel momento donando alla folla.
+
+Il medesimo principio si può applicare a ogni altro tipico affanno domestico.
+Un gentiluomo che si sforzi di togliere una mosca dal latte o un pezzetto di
+sughero dal proprio bicchiere di vino spesso si immagina irritato. Che pensi
+per un istante alla pazienza dei pescatori seduti presso oscure pozze, e la
+sua [[Soul|anima]] verrà subito irradiata di soddisfazione e di riposo. Del
+pari, ho conosciuto certe persone di vedute assai moderne spinte dal loro
+cruccio all'uso di termini teologici cui non attribuivano alcun significato
+dottrinale, unicamente perché un cassetto s'era incastrato e non riuscivano a
+tirarlo fuori. Un mio amico era particolarmente afflitto in questo modo. Ogni
+giorno il suo cassetto s'incastrava, e ogni giorno, di conseguenza, era
+qualcos'altro che con esso fa rima. Ma gli feci notare che questo senso di
+torto subìto era in realtà soggettivo e relativo; esso poggiava interamente
+sull'assunto che il cassetto potesse, dovesse e volesse uscire con facilità.
+«Ma se», gli dissi, «tu ti raffiguri di tirare contro un nemico potente e
+oppressivo, la lotta diverrà semplicemente eccitante e non esasperante.
+Immagina di issare su dal mare una scialuppa di salvataggio. Immagina di
+tirare su con la fune un tuo simile da un crepaccio alpino. Immagina persino
+di essere di nuovo un ragazzo, impegnato in un tiro alla fune tra Francesi e
+Inglesi.» Poco dopo aver detto questo lo lasciai; ma non ho alcun [[Doubt|dubbio]]
+che le mie parole abbiano recato il miglior frutto possibile. Non ho alcun
+[[Doubt|dubbio]] che ogni giorno della sua vita egli si aggrappi alla maniglia
+di quel cassetto col volto acceso e gli occhi lucenti di battaglia, lanciando
+a se stesso grida d'incoraggiamento e parendogli di udire tutt'intorno il
+ruggito di un anello di spettatori plaudenti.
+
+Così non credo che sia del tutto fantasioso o incredibile supporre che perfino
+le inondazioni di [[London|Londra]] possano essere accolte e godute poeticamente.
+Nulla al di là del disagio pare sia stato davvero causato da esse; e il disagio,
+come ho detto, non è che un aspetto, e per giunta l'aspetto più privo di
+immaginazione e più accidentale di una situazione realmente romantica.
+Un'avventura non è che un disagio considerato per il verso giusto. Un disagio
+non è che un'avventura considerata per il verso storto. L'[[Water|acqua]] che
+cingeva le case e le botteghe di [[London|Londra]] deve, semmai, non aver fatto
+altro che accrescere il loro incanto e la loro [[Wonder|meraviglia]] di prima.
+Poiché, come disse il prete cattolico romano nel racconto: «Il vino è buono
+con ogni cosa tranne che con l'[[Water|acqua]]», e per un simile principio,
+l'[[Water|acqua]] è buona con ogni cosa tranne che col vino.

@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/innocence-(chesterton)">The Innocence of Father Brown</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/innocence/story_07_the_wrong_shape/part_02">‹ part 02</a><a class="ex-next" href="/testi/chesterton/atomized/innocence/story_07_the_wrong_shape/part_04">part 04 ›</a></div>
@@ -147,3 +149,147 @@ He walked away, smoking, into the twilight, and the two friends
 were left together.
 
 "My father," said Flambeau in French, "what is the matter with you?"
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/innocence-(chesterton)">The Innocence of Father Brown</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/innocence/story_07_the_wrong_shape/part_02">‹ part 02</a><a class="ex-next" href="/testi/chesterton/atomized/innocence/story_07_the_wrong_shape/part_04">part 04 ›</a></div>
+</nav>
+
+# [[innocence]] — La forma sbagliata (parte 3)
+
+«Chi è quello?» esclamò Padre Brown, indietreggiando con un sibilante
+tirare di fiato.
+
+«Oh, è solo quell'imbroglione di indù», brontolò Harris; «ma non
+so che diamine ci faccia qui.»
+
+«Ha l'aria di ipnotismo», disse Flambeau, mordendosi i baffi neri.
+
+«Perché voi profani della medicina parlate sempre di ipnotismo a vanvera?»
+esclamò il medico. «Ha molto più l'aria di un furto con scasso.»
+
+«Be', in ogni caso gli rivolgeremo la parola», disse Flambeau, che era sempre
+per l'azione. Una sola lunga falcata lo portò dove stava l'indiano.
+Inchinandosi dalla sua grande statura, che sovrastava perfino quella dell'orientale, disse
+con placida sfrontatezza:
+
+«Buona sera, signore. Desidera qualcosa?»
+
+Assai lentamente, come un grande vascello che entra in porto, il grande volto giallo
+si volse, e guardò infine al di sopra della spalla bianca. Trasalirono
+nel vedere che le palpebre gialle erano del tutto sigillate, come nel sonno.
+«Grazie», disse il volto in eccellente inglese. «Non desidero nulla.»
+Poi, socchiudendo le palpebre in modo da mostrare una fessura di bulbo opalescente,
+ripeté: «Non desidero nulla.» Poi spalancò gli occhi con uno
+sguardo fisso e sorprendente, disse: «Non desidero nulla», e se ne andò frusciando
+nel giardino che rapidamente si oscurava.
+
+«Il cristiano è più modesto», mormorò Padre Brown;
+«egli desidera qualcosa.»
+
+«Che diavolo stava facendo?» chiese Flambeau, aggrottando le nere
+sopracciglia e abbassando la voce.
+
+«Vorrei parlartene più tardi», disse Padre Brown.
+
+La luce del sole era ancora una realtà, ma era la luce rossa della sera,
+e la massa degli alberi e dei cespugli del giardino si faceva sempre più nera
+contro di essa. Girarono attorno all'estremità della serra, e camminarono
+in silenzio lungo l'altro lato per raggiungere la porta d'ingresso.
+Mentre andavano parvero risvegliare qualcosa, come si fa alzare un uccello,
+nell'angolo più fondo tra lo studio e il corpo principale dell'edificio; e di nuovo
+videro il fachiro in veste bianca scivolar fuori dall'ombra, e sgusciare
+verso la porta d'ingresso. Con loro sorpresa, tuttavia, non era stato solo.
+Si trovarono bruscamente arrestati e costretti a scacciare il loro
+smarrimento dall'apparire della signora Quinton, con i suoi pesanti capelli
+dorati e il viso quadrato e pallido, che avanzava verso di loro fuori dal crepuscolo.
+Aveva un'aria un po' severa, ma era del tutto cortese.
+
+«Buona sera, dottor Harris», fu tutto ciò che disse.
+
+«Buona sera, signora Quinton», disse cordialmente l'ometto medico.
+«Sto giusto per andare a dare a suo marito la sua pozione soporifera.»
+
+«Sì», disse con voce chiara. «Credo che sia proprio ora.»
+E sorrise loro, e s'incamminò maestosa dentro casa.
+
+«Quella donna è sovraffaticata», disse Padre Brown; «è il tipo di donna
+che compie il proprio dovere per vent'anni, e poi fa qualcosa di terribile.»
+
+L'ometto medico lo guardò per la prima volta con occhio d'interesse.
+«Ha mai studiato medicina?» chiese.
+
+«Bisogna sapere qualcosa della mente non meno che del corpo»,
+rispose il prete; «noi dobbiamo sapere qualcosa del corpo
+non meno che della mente.»
+
+«Be'», disse il medico, «credo che andrò a dare a Quinton la sua roba.»
+
+Avevano voltato l'angolo della facciata anteriore, e si
+avvicinavano alla soglia d'ingresso. Mentre vi si voltavano
+videro per la terza volta l'uomo nella veste bianca.
+Veniva così diritto verso la porta d'ingresso che pareva del tutto
+incredibile che non fosse appena uscito dallo studio di fronte a essa.
+Eppure sapevano che la porta dello studio era chiusa a chiave.
+
+Padre Brown e Flambeau, tuttavia, si tennero per sé questa bizzarra contraddizione,
+e il dottor Harris non era uomo da sprecare i propri pensieri
+sull'impossibile. Permise all'onnipresente asiatico
+di fare la sua uscita, e poi entrò con passo spedito nell'atrio.
+Là trovò una figura che aveva già dimenticato.
+L'inetto Atkinson bighellonava ancora, canticchiando e frugando
+le cose con il suo bastone nodoso. Il volto del medico ebbe uno spasmo di
+disgusto e di decisione, ed egli sussurrò rapidamente al suo compagno:
+«Devo chiudere di nuovo la porta a chiave, o questo topo entrerà.
+Ma sarò di nuovo fuori tra due minuti.»
+
+Aprì rapidamente la porta e la richiuse a chiave dietro di sé,
+sventando appena una carica goffa del giovane con la bombetta.
+Il giovane si buttò con impazienza su una sedia dell'atrio.
+Flambeau guardava una miniatura persiana alla parete; Padre Brown,
+che pareva in una sorta di stordimento, fissava ottusamente la porta. In circa quattro
+minuti la porta fu riaperta. Atkinson questa volta fu più svelto.
+Balzò avanti, tenne la porta aperta per un istante, e gridò:
+«Ehi, senta, Quinton, voglio...»
+
+Dall'altra estremità dello studio giunse la voce chiara di Quinton,
+in qualcosa tra uno sbadiglio e un urlo di stanca risata.
+
+«Oh, lo so che cosa vuoi. Prendilo, e lasciami in pace.
+Sto scrivendo una canzone sui pavoni.»
+
+Prima che la porta si chiudesse, mezza sterlina d'oro volò attraverso lo spiraglio;
+e Atkinson, inciampando in avanti, la afferrò con singolare destrezza.
+
+«Ecco fatto, è sistemato», disse il medico, e, chiudendo la porta a chiave con ferocia,
+li guidò fuori nel giardino.
+
+«Il povero Leonard può avere un po' di pace, adesso», aggiunse rivolto a Padre Brown;
+«è chiuso a chiave tutto solo per un'ora o due.»
+
+«Sì», rispose il prete; «e la sua voce suonava piuttosto allegra quando lo
+lasciammo.» Poi si guardò gravemente attorno per il giardino, e vide la sciolta
+figura di Atkinson che stava in piedi facendo tintinnare la mezza sterlina in tasca,
+e più in là, nel crepuscolo purpureo, la figura dell'indiano seduto ben
+eretto su un argine erboso, con il volto rivolto verso il sole calante.
+Poi disse bruscamente: «Dov'è la signora Quinton?»
+
+«È salita nella sua stanza», disse il medico. «Quella è la sua ombra
+sulla tendina.»
+
+Padre Brown alzò lo sguardo, e scrutò accigliato una scura sagoma
+alla finestra illuminata a gas.
+
+«Sì», disse, «quella è la sua ombra», e fece un paio di passi e si
+gettò su una panchina del giardino.
+
+Flambeau si sedette accanto a lui; ma il medico era uno di
+quegli individui energici che vivono naturalmente sulle proprie gambe.
+Si allontanò, fumando, nel crepuscolo, e i due amici
+rimasero soli insieme.
+
+«Padre mio», disse Flambeau in francese, «che cosa avete?»

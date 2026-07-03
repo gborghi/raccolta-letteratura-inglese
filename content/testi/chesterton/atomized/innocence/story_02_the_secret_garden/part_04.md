@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/innocence-(chesterton)">The Innocence of Father Brown</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/innocence/story_02_the_secret_garden/part_03">‹ part 03</a><a class="ex-next" href="/testi/chesterton/atomized/innocence/story_02_the_secret_garden/part_05">part 05 ›</a></div>
@@ -144,3 +146,145 @@ Meanwhile," he added, slapping the steel back in the ringing scabbard,
 
 At the military symbolism of the action the audience could hardly
 refrain from applause.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/innocence-(chesterton)">The Innocence of Father Brown</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/innocence/story_02_the_secret_garden/part_03">‹ part 03</a><a class="ex-next" href="/testi/chesterton/atomized/innocence/story_02_the_secret_garden/part_05">part 05 ›</a></div>
+</nav>
+
+# [[innocence]] — Il [[Garden|giardino]] segreto (parte 4)
+
+L'ufficiale irlandese si fermò sulla soglia, scomposto e provocatorio. «Cosa
+volete da me?» gridò.
+
+«Vi prego di sedervi,» disse Valentin con toni piacevoli e pacati. «Ma come,
+non portate la vostra [[Sword|spada]]. Dov'è?»
+
+«L'ho lasciata sul tavolo della biblioteca,» disse O'Brien, il suo accento
+irlandese accentuandosi nell'agitazione. «Era un fastidio, stava
+diventando...»
+
+«Ivan,» disse Valentin, «per favore va' a prendere la [[Sword|spada]] del
+Comandante dalla biblioteca.» Poi, mentre il servitore spariva: «Lord
+Galloway dice di avervi visto lasciare il [[Garden|giardino]] proprio prima
+di trovare il cadavere. Cosa facevate nel [[Garden|giardino]]?»
+
+Il Comandante si gettò con noncuranza su una sedia. «Oh,» gridò con puro
+accento irlandese, «ammiravo la [[Moon|luna]]. Comunicavo con la
+[[Nature|Natura]], ragazzo mio.»
+
+Un pesante [[Silence|silenzio]] calò e perdurò, e alla sua fine venne di nuovo
+quel triviale e terribile bussare. Ivan ricomparve, recando un fodero d'acciaio
+vuoto. «È tutto ciò che riesco a trovare,» disse.
+
+«Mettilo sul tavolo,» disse Valentin, senza alzare lo sguardo.
+
+Vi fu un [[Silence|silenzio]] disumano nella stanza, come quel mare di
+[[Silence|silenzio]] disumano intorno al banco del condannato all'assassinio.
+Le deboli esclamazioni della Duchessa erano da tempo spente. Il gonfio odio di
+Lord Galloway era appagato e persino rabbonito. La voce che si levò fu del
+tutto inaspettata.
+
+«Credo di potervelo dire io,» gridò Lady Margaret, con quella voce chiara e
+tremula con cui una donna coraggiosa parla in pubblico. «Posso dirvi cosa
+faceva il signor O'Brien nel [[Garden|giardino]], dato che egli è tenuto al
+[[Silence|silenzio]]. Mi stava chiedendo di sposarlo. Io ho rifiutato; ho
+detto che nella situazione della mia famiglia non potevo dargli nulla se non
+la mia stima. Egli se ne è un po' adirato; non pareva tenere molto alla mia
+stima. Mi [[Wonder|chiedo]],» aggiunse, con un sorriso piuttosto smorto,
+«se ora gliene importerà qualcosa. Perché ora gliela offro. Giurerò dovunque
+che non ha mai fatto una cosa simile.»
+
+Lord Galloway si era avvicinato alla figlia, e la intimidiva con quello che
+immaginava fosse un tono sommesso. «Tieni a freno la lingua, Maggie,» disse
+in un tonante bisbiglio. «Perché mai dovresti scudare quel tale? Dov'è la sua
+[[Sword|spada]]? Dov'è la sua maledetta cavalleria...»
+
+Si arrestò a causa dello sguardo singolare con cui la figlia lo fissava, uno
+sguardo che era davvero una calamita lurida per l'intero gruppo.
+
+«Vecchio [[Fool|sciocco]]!» disse a bassa voce, senza finzione di pietà,
+«cosa credi di voler dimostrare? Ti dico che quest'uomo era
+[[Innocent|innocente]] mentre era con me. Ma se non era [[Innocent|innocente]],
+era comunque con me. Se ha assassinato un uomo nel [[Garden|giardino]], chi
+è che deve aver visto... chi deve almeno aver saputo? Odi Neil tanto da mettere
+la tua stessa figlia...»
+
+Lady Galloway lanciò un urlo. Tutti gli altri sedevano fremendo al tocco di
+quelle sataniche tragedie che sono esistite fra [[lovers|amanti]] anche
+prima d'ora. Vedevano il volto fiero e bianco dell'[[aristocrat|aristocratica]]
+scozzese e del suo [[Lover|amante]], l'avventuriero irlandese, come vecchi
+ritratti in una [[house|casa]] buia. Il lungo [[Silence|silenzio]] era colmo
+di informi memorie storiche di mariti assassinati e amanti velenosi.
+
+Nel centro di questo morboso [[Silence|silenzio]] una voce
+[[Innocent|innocente]] disse: «Era un sigaro molto lungo?»
+
+Il mutamento di pensiero fu così brusco che dovettero guardarsi attorno per
+vedere chi avesse parlato.
+
+«Voglio dire,» disse il piccolo [[Father Brown]], dall'angolo della stanza,
+«voglio dire quel sigaro che il signor Brayne sta finendo. Sembra lungo quasi
+quanto un bastone da passeggio.»
+
+Malgrado l'irrilevanza, vi fu tanto assenso [[Well|quanto]] irritazione sul volto di
+Valentin quando alzò la testa.
+
+«Giustissimo,» osservò seccamente. «Ivan, va' a vedere di nuovo del signor
+Brayne, e portalo subito qui.»
+
+Nell'istante in cui il factotum ebbe chiuso la porta, Valentin si rivolse alla
+fanciulla con una serietà del tutto nuova.
+
+«Lady Margaret,» disse, «tutti proviamo, ne sono certo, gratitudine e
+ammirazione per il vostro gesto di elevarvi al di sopra della vostra dignità
+minore e spiegare la condotta del Comandante. Ma resta ancora un iato. Lord
+Galloway, se ho ben capito, vi ha incontrata mentre passavate dallo studio al
+salotto, e fu solo alcuni minuti dopo che trovò il [[Garden|giardino]] e il
+Comandante che ancora vi passeggiava.»
+
+«Dovete ricordare,» replicò Margaret, con una lieve ironia nella voce, «che io
+lo avevo appena rifiutato, sicché difficilmente saremmo tornati a braccetto.
+È comunque un gentiluomo; e si attardò indietro... e così finì per essere
+accusato di omicidio.»
+
+«In quei pochi istanti,» disse Valentin gravemente, «egli potrebbe davvero...»
+
+Il bussare venne di nuovo, e Ivan sporse il suo volto sfregiato.
+
+«Chiedo scusa, signore,» disse, «ma il signor Brayne ha lasciato la
+[[house|casa]].»
+
+«Lasciata!» gridò Valentin, e per la prima [[Time|volta]] si [[Rose|alzò]]
+in piedi.
+
+«Sparito. Squagliato. Evaporato,» rispose Ivan in un francese scherzoso. «Anche
+il cappello e il soprabito sono spariti, e vi dirò una cosa che corona il tutto.
+Sono corso fuori dalla [[house|casa]] per trovare qualche sua traccia, e ne ho
+trovata una, e una bella grossa, per giunta.»
+
+«Cosa intendi?» chiese Valentin.
+
+«Ve la mostro,» disse il servitore, e ricomparve con una sciabola da cavalleria
+nuda e lampeggiante, striata di [[Blood|sangue]] sulla punta e sul filo.
+Tutti nella stanza la fissarono come se fosse un fulmine; ma l'esperto Ivan
+proseguì del tutto tranquillo:
+
+«Ho trovato questa,» disse, «gettata tra i cespugli cinquanta iarde più su
+lungo la [[Road|strada]] per [[Paris|Parigi]]. In altre parole, l'ho trovata
+proprio dove il vostro rispettabile signor Brayne l'ha gettata quando è
+fuggito.»
+
+Vi fu di nuovo un [[Silence|silenzio]], ma di specie nuova. Valentin prese la
+sciabola, la esaminò, riflettè con schietta concentrazione di pensiero, e poi
+volse un viso rispettoso verso O'Brien. «Comandante,» disse, «confidiamo che
+produrrete sempre quest'arma qualora fosse richiesta per l'esame di polizia.
+Nel frattempo,» aggiunse, ricacciando l'acciaio nel risonante fodero, «lasciate
+che vi restituisca la vostra [[Sword|spada]].»
+
+Al simbolismo militare del gesto l'uditorio riuscì a stento a trattenersi
+dall'applauso.

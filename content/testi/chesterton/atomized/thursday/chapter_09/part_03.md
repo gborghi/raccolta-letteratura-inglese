@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/thursday-(chesterton)">The Man Who Was Thursday</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/thursday/chapter_09/part_02">‹ part 02</a><a class="ex-next" href="/testi/chesterton/atomized/thursday/chapter_09/part_04">part 04 ›</a></div>
@@ -145,3 +147,145 @@ Syme sprang to his feet, stepping backwards a little,
 like a chemical lecturer from a successful explosion.
 His eyes were like [[Stars|stars]], and for an instant he could only
 point without speaking.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/thursday-(chesterton)">The Man Who Was Thursday</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/thursday/chapter_09/part_02">‹ part 02</a><a class="ex-next" href="/testi/chesterton/atomized/thursday/chapter_09/part_04">part 04 ›</a></div>
+</nav>
+
+# [[thursday]] — Capitolo 9 (parte 3)
+
+«Ti prego di non credermi eccessivamente brusco; ma ti consiglio
+di modificare quei piani, o, se è troppo tardi per questo,
+di seguire il tuo agente con tutto l'appoggio che puoi procurargli.
+Il compagno Syme e io abbiamo avuto un'esperienza che richiederebbe
+più [[Time|tempo]] di quanto possiamo permetterci per raccontarla, se dobbiamo agire in conseguenza.
+Tuttavia esporrò l'accaduto in dettaglio, anche a
+rischio di perdere [[Time|tempo]], se davvero ritieni che sia essenziale
+alla comprensione del problema di cui dobbiamo discutere.»
+
+Andava dilungando le frasi, rendendole intollerabilmente lunghe
+e strascicate, nella [[Hope|speranza]] di far imbestialire il pratico piccolo
+Dottore fino a un'esplosione d'impazienza che potesse tradirlo.
+Ma il piccolo Dottore continuava soltanto a fissare e a sorridere,
+e il monologo era una fatica in salita. Syme cominciò a provare
+una nuova nausea e una nuova [[Despair|disperazione]]. Il sorriso e il [[Silence|silenzio]] del Dottore
+non somigliavano affatto allo sguardo catalettico e all'orribile [[Silence|silenzio]]
+che aveva affrontato in [[The Professor|il Professore]] mezz'ora prima.
+Nel travestimento e in tutte le buffonate di [[The Professor|il Professore]] c'era
+sempre qualcosa di semplicemente [[Grotesque|grottesco]], come un pupazzo.
+Syme ricordava quei folli affanni del giorno prima come si ricorda
+d'aver avuto paura dell'Uomo Nero da [[Childhood|bambini]]. Ma qui c'era la luce del giorno;
+qui c'era un uomo sano, dalle spalle quadrate, in tweed, per nulla strano
+salvo il caso dei suoi brutti occhiali, che non fissava torvo
+né sogghignava affatto, ma sorrideva pacatamente senza dire una parola.
+Il tutto trasmetteva un senso di insopportabile realtà. Sotto la
+luce crescente del sole i colori della carnagione del Dottore,
+il disegno del suo tweed, crescevano e si dilatavano oltraggiosamente,
+come tali cose acquistano troppa importanza in un [[Novel|romanzo]] realistico.
+Ma il suo sorriso era assai lieve, la posa del capo cortese;
+l'unica cosa [[Uncanny|inquietante]] era il suo [[Silence|silenzio]].
+
+«Come dicevo» riprese [[The Professor|il Professore]], come un uomo che arranca nella sabbia pesante,
+«l'episodio che ci è capitato e che ci ha indotti a chiedere informazioni
+sul Marchese è di quelli che potresti ritenere meglio raccontati;
+ma poiché è toccato al compagno Syme piuttosto che a me —»
+
+Le sue parole pareva le trascinasse come parole di un inno;
+ma Syme, che stava osservando, vide le sue lunghe dita picchiettare rapide
+sull'orlo del tavolo traballante. Lesse il messaggio: «Devi continuare tu.
+Questo diavolo mi ha prosciugato!»
+
+Syme si gettò nella breccia con quella spavalderia dell'improvvisazione
+che gli veniva sempre quando era allarmato.
+
+«Sì, la cosa è capitata davvero a me» disse in fretta.
+«Ho avuto la fortuna di cadere in conversazione con un [[Detective|detective]]
+che mi prese, grazie al mio cappello, per una persona rispettabile.
+Volendo consolidare la mia reputazione di rispettabilità, lo portai
+al Savoy e lo feci ubriacare fradicio. Sotto questo influsso
+divenne amichevole, e mi disse a chiare lettere che entro
+un giorno o due [[Hope|sperano]] di arrestare il Marchese in Francia.
+
+«Sicché, a meno che tu o io non riusciamo a mettergli le mani addosso —»
+
+Il Dottore sorrideva ancora nel modo più amichevole,
+e i suoi occhi protetti erano ancora impenetrabili. [[The Professor|Il Professore]]
+segnalò a Syme che avrebbe ripreso la spiegazione,
+e ricominciò con la stessa elaborata calma.
+
+«Syme mi portò subito questa informazione, e siamo venuti
+qui insieme per vedere quale uso saresti incline a farne.
+Mi pare indubbiamente urgente che —»
+
+Per tutto questo [[Time|tempo]] Syme aveva fissato il Dottore quasi altrettanto fisso
+di quanto il Dottore fissava [[The Professor|il Professore]], ma del tutto senza il sorriso.
+I nervi di entrambi i commilitoni erano prossimi a spezzarsi sotto quella
+tensione di immobile amabilità, quando Syme all'improvviso si sporse in avanti
+e picchiettò distrattamente l'orlo del tavolo. Il suo messaggio all'alleato diceva:
+«Ho un'intuizione.»
+
+[[The Professor|Il Professore]], senza quasi una pausa nel suo monologo, rispose col segnale:
+«Allora tienla per te.»
+
+Syme telegrafò: «È del tutto straordinaria.»
+
+L'altro rispose: «Straordinarie sciocchezze!»
+
+Syme disse: «Io sono un poeta.»
+
+L'altro ribatté: «Tu sei un uomo morto.»
+
+Syme era diventato tutto rosso fino ai suoi capelli gialli, e gli occhi
+gli ardevano febbrilmente. Come aveva detto, aveva un'intuizione,
+e questa era salita a una sorta di stordita certezza.
+Riprendendo i suoi colpetti simbolici, segnalò all'amico:
+«Non ti rendi conto di quanto sia poetica la mia intuizione. Ha
+quella qualità improvvisa che a volte sentiamo nell'arrivo della [[spring|primavera]].»
+
+Poi studiò la risposta sulle dita dell'amico.
+La risposta era: «Va' all'inferno!»
+
+[[The Professor|Il Professore]] riprese allora il suo monologo puramente verbale rivolto
+al Dottore.
+
+«Forse dovrei piuttosto dire» disse Syme sulle dita,
+«che somiglia a quell'improvviso odore di mare che si può
+avvertire nel cuore di boschi rigogliosi.»
+
+Il compagno sdegnò di rispondere.
+
+«O ancora» tamburellò Syme, «è positiva, come lo è l'appassionata chioma rossa
+di una bella donna.»
+
+[[The Professor|Il Professore]] proseguiva il suo discorso, ma nel bel mezzo
+Syme decise di agire. Si sporse attraverso il tavolo e disse con una voce
+che non poteva essere ignorata —
+
+«Dottor Bull!»
+
+La testa liscia e sorridente del Dottore non si mosse, ma avrebbero potuto giurare
+che sotto le lenti scure i suoi occhi guizzassero verso Syme.
+
+«Dottor Bull» disse Syme, con una voce singolarmente precisa e cortese,
+«vuole farmi un piccolo favore? Sarebbe così gentile da togliersi
+gli occhiali?»
+
+[[The Professor|Il Professore]] girò di scatto sulla sedia e fissò Syme con una sorta
+di gelato furore di stupore. Syme, come un uomo che ha gettato
+la vita e la fortuna sul tavolo, si sporse in avanti con volto infuocato.
+Il Dottore non si mosse.
+
+Per qualche secondo vi fu un [[Silence|silenzio]] in cui si sarebbe potuto sentire
+cadere uno spillo, spezzato una sola volta dal solitario fischio di un piroscafo lontano
+sul Tamigi. Poi il dottor Bull si [[Rose|alzò]] lentamente, sempre sorridendo,
+e si tolse gli occhiali.
+
+Syme balzò in piedi, indietreggiando un poco,
+come un docente di chimica dopo un'esplosione riuscita.
+Aveva gli occhi come [[Stars|stelle]], e per un istante poté solo
+indicare senza parlare.

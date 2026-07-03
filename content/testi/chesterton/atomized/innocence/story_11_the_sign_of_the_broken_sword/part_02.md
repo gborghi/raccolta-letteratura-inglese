@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/innocence-(chesterton)">The Innocence of Father Brown</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/innocence/story_11_the_sign_of_the_broken_sword/part_01">‹ part 01</a><a class="ex-next" href="/testi/chesterton/atomized/innocence/story_11_the_sign_of_the_broken_sword/part_03">part 03 ›</a></div>
@@ -121,3 +123,36 @@ with a French gesture.
 
 "Wait a bit, wait a bit," he cried excitedly.  "I believe I can
 guess it at the first go."
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/innocence-(chesterton)">The Innocence of Father Brown</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/innocence/story_11_the_sign_of_the_broken_sword/part_01">‹ part 01</a><a class="ex-next" href="/testi/chesterton/atomized/innocence/story_11_the_sign_of_the_broken_sword/part_03">part 03 ›</a></div>
+</nav>
+
+# [[innocence]] — Il segno della [[Sword|spada]] spezzata (parte 2)
+
+«Se non del tutto falso, è per lo meno assai inadeguato,» proseguì Brown; «poiché, in punto di fatto, tutto ciò che il pubblico sa si riduce precisamente a questo: il pubblico sa che Arthur St. Clare fu un grande e vittorioso generale inglese. Sa che, dopo splendide e tuttavia caute campagne sia in India sia in Africa, era al comando contro il Brasile quando il grande patriota brasiliano Olivier lanciò il suo ultimatum. Sa che in quell’occasione St. Clare, con una forza assai piccola, attaccò Olivier che ne aveva una assai grande, e fu catturato dopo eroica resistenza. E sa che, dopo la sua cattura, e con orrore del mondo civile, St. Clare fu impiccato al primo albero. Fu trovato che vi dondolava, dopo che i brasiliani si erano ritirati, con la spada spezzata appesa al collo.»
+
+«E quella storia popolare è falsa?» suggerì Flambeau.
+
+«No,» disse il suo amico con calma, «quella storia è del tutto vera, per quanto arriva.»
+
+«Ebbene, penso che arrivi abbastanza lontano!» disse Flambeau; «ma se la storia popolare è vera, dov’è il mistero?»
+
+Avevano oltrepassato molte centinaia di alberi grigi e spettrali prima che il piccolo prete rispondesse. Poi si morse pensosamente il dito e disse: «Ma il mistero è un mistero di psicologia. O meglio, è un mistero di due psicologie. In quella faccenda brasiliana due degli uomini più famosi della storia moderna agirono in piena contraddizione col proprio carattere. Badate, Olivier e St. Clare erano entrambi eroi — di quelli veri, senza dubbio; era come la lotta fra Ettore e Achille. Ora, che direste di una vicenda in cui Achille fosse timido ed Ettore fosse traditore?»
+
+«Continuate,» disse l’uomo grosso con impazienza, mentre l’altro si mordeva di nuovo il dito.
+
+«Sir Arthur St. Clare era un soldato dell’antico tipo religioso — il tipo che ci salvò durante l’Ammutinamento,» proseguì Brown. «Era sempre più per il dovere che per lo slancio; e, con tutto il suo coraggio personale, era decisamente un comandante prudente, particolarmente indignato per ogni inutile spreco di soldati. Eppure in quest’ultima battaglia tentò qualcosa che persino un bambino avrebbe visto assurdo. Non c’è bisogno di essere strateghi per capire che era folle come il vento; proprio come non c’è bisogno di essere strateghi per togliersi dalla traiettoria di un autobus. Ebbene, questo è il primo mistero: che ne era stato della testa del generale inglese? Il secondo enigma è: che ne era stato del cuore del generale brasiliano? Il presidente Olivier poteva essere definito un visionario o una seccatura; ma persino i suoi nemici ammettevano che era magnanimo fino alla cavalleria errante. Quasi ogni altro prigioniero che avesse mai catturato era stato messo in libertà o addirittura colmato di benefici. Uomini che gli avevano fatto davvero torto se ne andavano commossi dalla sua semplicità e dolcezza. Perché diamine avrebbe dovuto vendicarsi diabolicamente una sola volta in vita sua; e proprio per quell’unico colpo che non poteva averlo ferito? Ebbene, eccovi il punto. Uno degli uomini più saggi del mondo agì come un idiota senza ragione. Uno degli uomini migliori del mondo agì come un demonio senza ragione. Ecco tutta la faccenda, in breve; e la lascio a voi, ragazzo mio.»
+
+«No davvero,» disse l’altro con uno sbuffo. «La lascio a voi; e voi avrete la compiacenza di raccontarmi tutto quanto.»
+
+«Ebbene,» riprese Padre Brown, «non è giusto dire che l’impressione del pubblico sia esattamente quella che ho detto, senza aggiungere che da allora sono accadute due cose. Non posso dire che gettarono nuova luce; poiché nessuno riesce a trovarvi un senso. Ma gettarono un nuovo genere di tenebra; gettarono la tenebra in nuove direzioni. La prima fu questa. Il medico di famiglia dei St. Clare litigò con quella famiglia, e cominciò a pubblicare una violenta serie di articoli, in cui affermava che il defunto generale era stato un maniaco religioso; ma, per quel che diceva il racconto, ciò pareva significare poco più che un uomo religioso. Comunque, la faccenda si spense da sé. Tutti sapevano, naturalmente, che St. Clare aveva alcune delle eccentricità della pietà puritana. Il secondo episodio fu assai più impressionante. Nello sventurato e non sostenuto reggimento che tentò quell’avventato assalto al Fiume Nero c’era un certo Capitano Keith, che a quel tempo era fidanzato con la figlia di St. Clare, e che in seguito la sposò. Fu uno di quelli catturati da Olivier e, come tutti gli altri tranne il generale, sembra sia stato trattato con generosità e prontamente liberato. Quasi vent’anni dopo, quest’uomo, allora Tenente Colonnello Keith, pubblicò una specie di autobiografia intitolata «Un ufficiale britannico in Birmania e in Brasile». Nel punto in cui il lettore cerca avidamente qualche resoconto del mistero del disastro di St. Clare si trovano le seguenti parole: «Dovunque altrove in questo libro ho narrato le cose esattamente come accaddero, professando io, come professo, l’antiquata opinione che la gloria dell’Inghilterra è abbastanza vecchia da badare a se stessa. L’eccezione che farò è in questa faccenda della disfatta presso il Fiume Nero; e le mie ragioni, benché private, sono onorevoli e cogenti. Aggiungerò tuttavia questo, in giustizia alla memoria di due uomini illustri. Il Generale St. Clare è stato accusato d’incapacità in questa occasione; io posso almeno testimoniare che questa azione, propriamente intesa, fu una delle più brillanti e sagaci della sua vita. Il presidente Olivier, per analoga voce, è accusato di selvaggia ingiustizia. Ritengo dovuto all’onore di un nemico dire che in questa occasione egli agì con anche più della sua caratteristica benevolenza. Per dirla in modo popolare, posso assicurare ai miei compatrioti che St. Clare non fu affatto un tale sciocco né Olivier un tale bruto quali apparvero. È tutto ciò che ho da dire; né alcuna considerazione terrena m’indurrà ad aggiungervi una parola.»»
+
+Una grande luna gelata, simile a una lucente palla di neve, cominciò a mostrarsi attraverso l’intrico di rami davanti a loro, e alla sua luce il narratore aveva potuto ravvivare la memoria del testo del Capitano Keith da un ritaglio di carta stampata. Mentre lo ripiegava e lo rimetteva in tasca, Flambeau alzò la mano con un gesto francese.
+
+«Un momento, un momento,» esclamò eccitato. «Credo di poterla indovinare al primo colpo.»

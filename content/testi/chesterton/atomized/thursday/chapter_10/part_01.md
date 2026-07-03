@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/thursday-(chesterton)">The Man Who Was Thursday</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/thursday/chapter_09/part_05">‹ part 05</a><a class="ex-next" href="/testi/chesterton/atomized/thursday/chapter_10/part_02">part 02 ›</a></div>
@@ -154,3 +156,154 @@ with black hair."
 
 "It seems to me," said the other, "that you are simply seeking
 a pretext to insult the Marquis."
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/thursday-(chesterton)">The Man Who Was Thursday</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/thursday/chapter_09/part_05">‹ part 05</a><a class="ex-next" href="/testi/chesterton/atomized/thursday/chapter_10/part_02">part 02 ›</a></div>
+</nav>
+
+# [[thursday]] — Capitolo 10 (parte 1)
+
+                          CAPITOLO X 
+
+                           IL DUELLO
+
+SYME si sedette a un tavolino di caffè con i suoi compagni, gli occhi
+azzurri scintillanti come il mare luminoso là sotto, e ordinò una bottiglia
+di Saumur con impaziente compiacimento.  Per qualche ragione si trovava
+in una condizione di curiosa ilarità.  Aveva già lo spirito innaturalmente
+esaltato; e questo [[Rose|saliva]] via via che il Saumur scendeva, e in mezz'ora
+il suo discorso divenne un torrente di insensatezze.  Dichiarò di stare
+tracciando il piano della conversazione che di lì a poco si sarebbe svolta
+tra lui e il micidiale Marchese.  Lo buttava giù febbrilmente con la matita.
+Era ordinato come un catechismo stampato, con domande e risposte,
+e veniva recitato con una straordinaria rapidità di eloquio.
+
+«Mi avvicinerò.  Prima ch'egli si tolga il cappello, io mi toglierò il mio.
+Dirò: "Il Marchese de Saint Eustache, immagino".
+Egli dirà: "Il celebre signor Syme, suppongo".
+Dirà, nel più squisito francese: "Come sta?"
+E io risponderò, nel più squisito cockney: "Oh, sono in gran Syme..."»
+
+«Oh, piantala», disse l'uomo con gli occhiali.  «Riprenditi,
+e getta via quel pezzo di carta.  Che cosa hai davvero intenzione di fare?»
+
+«Ma era un catechismo delizioso», disse Syme in tono patetico.
+«Lasciate almeno che ve lo legga.  Ha soltanto quarantatré domande e risposte,
+e alcune delle risposte del Marchese sono meravigliosamente argute.
+Mi piace essere giusto col mio nemico.»
+
+«Ma a che serve tutto questo?» chiese il dottor Bull esasperato.
+
+«Conduce alla mia sfida, non capite», disse Syme, raggiante.
+«Quando il Marchese avrà dato la trentanovesima replica, che suona...»
+
+«Vi è per caso passato per la mente», chiese [[The Professor|il Professore]],
+con una ponderosa semplicità, «che il Marchese potrebbe non dire
+tutte le quarantatré cose che gli avete messo in bocca?
+In tal caso, se ben comprendo, i vostri epigrammi potrebbero apparire
+un po' più forzati.»
+
+Syme batté la mano sul tavolo, con la faccia radiosa.
+
+«Perbacco, com'è vero», disse, «e io non ci avevo mai pensato.
+Signore, voi avete un intelletto fuori del comune.
+Vi farete un nome.»
+
+«Oh, siete ubriaco fradicio!» disse il Dottore.
+
+«Non resta dunque», proseguì Syme del tutto imperturbabile, «che adottare
+qualche altro metodo per rompere il ghiaccio (se così posso esprimermi)
+tra me e l'uomo che desidero uccidere.  E poiché il corso di un dialogo
+non può essere previsto da una sola [[Alone|soltanto]] delle sue parti
+(come voi avete rilevato con così recondito acume),
+l'unica cosa da farsi, suppongo, è che una delle parti,
+per quanto possibile, faccia da sola tutto il dialogo.
+E così farò, perbacco!»  E si alzò di scatto, i capelli gialli
+agitati dalla lieve brezza marina.
+
+Un'orchestra suonava in un caffè-concerto nascosto chissà dove tra gli alberi,
+e una donna aveva appena smesso di cantare.  Sulla testa infervorata di Syme
+lo squillo degli ottoni pareva lo stridore e il tintinnio di quell'organetto
+di Leicester Square, sulla cui aria egli si era una volta alzato per morire.
+Lanciò lo sguardo verso il tavolino dove sedeva il Marchese.
+L'uomo aveva ora due compagni, francesi solenni in redingote
+e cappelli a cilindro, uno dei quali con la rosetta rossa della Legion
+d'[[Honour|Onore]], gente evidentemente di solida posizione sociale.
+Accanto a quei costumi neri e cilindrici, il Marchese, col suo largo
+cappello di paglia e i leggeri abiti di [[spring|primavera]], appariva bohémien e persino barbarico;
+ma appariva il Marchese.  Anzi, si sarebbe potuto dire che avesse l'aspetto
+di un [[King|re]], con la sua eleganza animale, gli occhi sprezzanti, e la fiera
+testa levata contro il mare purpureo.  Ma non era certo un [[King|re]] cristiano;
+era, piuttosto, un qualche despota bruno, mezzo greco,
+mezzo asiatico, che nei giorni in cui la [[Slavery|schiavitù]] pareva naturale guardava
+dall'alto il Mediterraneo, la sua galea e i suoi schiavi gementi.
+Proprio così, pensò Syme, si sarebbe stagliato il volto bruno-dorato di un simile [[Tyrant|tiranno]]
+contro gli ulivi verde scuro e l'azzurro ardente.
+
+«Avete intenzione di arringare l'assemblea?» chiese [[The Professor|il Professore]] con stizza,
+vedendo che Syme continuava a starsene ritto senza muoversi.
+
+Syme vuotò l'ultimo bicchiere di vino spumante.
+
+«Sì», disse, indicando il Marchese e i suoi compagni,
+«quell'assemblea.  Quell'assemblea mi dispiace.  Ho intenzione di tirare
+il grande, brutto naso color mogano di quell'assemblea.»
+
+Attraversò lo spazio con passo rapido, se non del tutto fermo.  Il Marchese,
+vedendolo, inarcò le nere sopracciglia assire per la sorpresa,
+ma sorrise cortesemente.
+
+«Voi siete il signor Syme, credo», disse.
+
+Syme s'inchinò.
+
+«E voi siete il Marchese de Saint Eustache», disse con garbo.
+«Permettete che vi tiri il naso.»
+
+Si sporse per farlo, ma il Marchese arretrò di scatto,
+rovesciando la sedia, e i due uomini in cilindro trattennero Syme
+per le spalle.
+
+«Quest'uomo mi ha insultato!» disse Syme, con gesti di spiegazione.
+
+«Vi ha insultato?» gridò il gentiluomo con la rosetta rossa, «quando?»
+
+«Oh, or ora», disse Syme sconsideratamente.  «Ha insultato mia madre.»
+
+«Ha insultato vostra madre!» esclamò il gentiluomo incredulo.
+
+«[[Well|Insomma]], comunque», disse Syme, concedendo un punto, «mia zia.»
+
+«Ma come può il Marchese aver insultato vostra zia or ora?»
+disse il secondo gentiluomo con una certa legittima [[Wonder|meraviglia]].
+«È rimasto seduto qui tutto il [[Time|tempo]].»
+
+«Ah, è stato ciò che ha detto!» disse Syme cupamente.
+
+«Non ho detto proprio nulla», disse il Marchese, «se non qualcosa a proposito dell'orchestra.
+Ho detto soltanto che mi piace Wagner suonato [[Well|bene]].»
+
+«Era un'allusione alla mia famiglia», disse Syme con fermezza.
+«Mia zia suonava male Wagner.  Era un argomento doloroso.
+Veniamo continuamente insultati su questo punto.»
+
+«Questo mi sembra oltremodo straordinario», disse il gentiluomo che era decoré,
+guardando dubbioso il Marchese.
+
+«Oh, vi assicuro», disse Syme con gravità, «che l'intera vostra conversazione
+era semplicemente zeppa di sinistre allusioni alle debolezze di mia zia.»
+
+«Questo è un'assurdità!» disse il secondo gentiluomo.  «Io, per parte mia, non ho detto
+nulla per mezz'ora, se non che mi piaceva il canto di quella ragazza
+dai capelli neri.»
+
+«[[Well|Ecco]], ci risiamo!» disse Syme con indignazione.
+«Quelli di mia zia erano rossi.»
+
+«Mi pare», disse l'altro, «che voi stiate semplicemente cercando
+un pretesto per insultare il Marchese.»

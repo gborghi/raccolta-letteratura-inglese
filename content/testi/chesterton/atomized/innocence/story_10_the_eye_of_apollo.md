@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/innocence-(chesterton)">The Innocence of Father Brown</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/innocence/story_09_the_hammer_of_god">‹ Story 09 The Hammer of God</a><a class="ex-next" href="/testi/chesterton/atomized/innocence/story_11_the_sign_of_the_broken_sword">Story 11 The Sign of the Broken Sword ›</a></div>
@@ -674,3 +676,215 @@ even before I knew what he had done."
 their strength.  There came a crash and a scream down the street,
 and the priest of Apollo did not start or look round.
 I did not know what it was.  But I knew that he was expecting it."
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/innocence-(chesterton)">The Innocence of Father Brown</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/innocence/story_09_the_hammer_of_god">‹ Story 09 The Hammer of God</a><a class="ex-next" href="/testi/chesterton/atomized/innocence/story_11_the_sign_of_the_broken_sword">Story 11 The Sign of the Broken Sword ›</a></div>
+</nav>
+
+# [[innocence]] — L’occhio di [[Apollo]]
+
+                         L’occhio di Apollo
+
+Quel singolare scintillio fumoso, insieme confusione e trasparenza, che è il segreto strano del Tamigi, andava mutando sempre più dal suo grigio al suo estremo sfavillante, mentre il sole saliva allo zenit sopra Westminster, e due uomini attraversavano il ponte di Westminster. Uno era altissimo e l’altro assai basso; li si sarebbe persino potuti paragonare, per un fantasioso capriccio, all’arrogante torre dell’orologio del Parlamento e alle più umili spalle curve dell’Abbazia, ché l’uomo basso vestiva l’abito talare. La descrizione ufficiale dell’uomo alto era: signor Hercule Flambeau, investigatore privato, e stava recandosi ai suoi nuovi uffici, in un nuovo caseggiato di appartamenti che fronteggiava l’ingresso dell’Abbazia. La descrizione ufficiale dell’uomo basso era: reverendo J. Brown, addetto alla chiesa di San Francesco Saverio, a Camberwell, e veniva dal capezzale di un moribondo di Camberwell per vedere i nuovi uffici del suo amico.
+
+L’edificio era americano nella sua altezza da grattacielo, e americano anche nell’oliata complicazione del suo macchinario di telefoni e ascensori. Ma era appena terminato e ancora sprovvisto di personale; solo tre inquilini vi si erano trasferiti; l’ufficio appena sopra Flambeau era occupato, come pure quello appena sotto di lui; i due piani superiori a quello e i tre inferiori erano del tutto vuoti. Ma la prima occhiata alla nuova torre di appartamenti coglieva qualcosa di ben più singolare. Salvo pochi resti di impalcature, l’unico oggetto sfolgorante era stato eretto all’esterno dell’ufficio proprio sopra a quello di Flambeau. Era un’enorme effigie dorata dell’occhio umano, circondata da raggi d’oro, e occupava tanto spazio quanto due o tre finestre dell’ufficio.
+
+«Che diamine è quella cosa?» chiese Padre Brown, e si fermò.
+«Oh, una nuova religione» disse Flambeau ridendo; «una di quelle nuove religioni che ti perdonano i peccati dicendoti che non ne hai mai avuti. Assai simile alla Scienza Cristiana, direi. Il fatto è che un tale che si fa chiamare Kalon (non so quale sia il suo nome, salvo che non può essere quello) ha preso l’appartamento proprio sopra il mio. Io ho due dattilografe sotto di me, e questo entusiasta vecchio impostore sopra. Si fa chiamare il Nuovo Sacerdote di Apollo, e adora il sole.»
+
+«Che stia in guardia» disse Padre Brown. «Il sole era il più crudele di tutti gli dèi. Ma che cosa significa quel mostruoso occhio?»
+
+«Per quanto ne capisco, è una loro teoria» rispose Flambeau, «che un uomo possa sopportare qualsiasi cosa se la sua mente è del tutto salda. I loro due grandi simboli sono il sole e l’occhio aperto; poiché dicono che, se un uomo fosse davvero sano, potrebbe fissare il sole.»
+
+«Se un uomo fosse davvero sano» disse Padre Brown, «non si darebbe la pena di fissarlo.»
+
+«Be’, è tutto quello che posso dirti su questa nuova religione» proseguì Flambeau con noncuranza. «Pretende, naturalmente, di poter guarire tutte le malattie fisiche.»
+
+«Può guarire l’unica malattia spirituale?» chiese Padre Brown, con seria curiosità.
+
+«E qual è l’unica malattia spirituale?» chiese Flambeau, sorridendo.
+
+«Oh, credersi del tutto sani» disse il suo amico.
+
+Flambeau era più interessato al piccolo, quieto ufficio sotto di lui che al fiammeggiante tempio di sopra. Era un lucido meridionale, incapace di concepirsi come qualcosa di diverso da un cattolico o da un ateo; e le nuove religioni di sorta vivace e smorta non erano molto nelle sue corde. Ma l’umanità era sempre nelle sue corde, specie quando era di bell’aspetto; per giunta, le signore del piano di sotto erano, a modo loro, dei caratteri. L’ufficio era tenuto da due sorelle, entrambe esili e brune, una delle quali alta e appariscente. Aveva un profilo scuro, ardente e aquilino, ed era una di quelle donne che si pensano sempre di profilo, come il taglio netto di un’arma. Pareva fendersi la strada attraverso la vita. Aveva occhi di sorprendente brillantezza, ma era la brillantezza dell’acciaio più che dei diamanti; e la sua figura diritta e slanciata era d’una sfumatura troppo rigida per la sua grazia. La sorella minore era come la sua ombra accorciata, un poco più grigia, più pallida e più insignificante. Entrambe portavano un nero d’aspetto professionale, con piccoli polsini e colletti maschili. Ci sono migliaia di simili signore sbrigative e indefesse negli uffici di Londra, ma l’interesse di queste stava piuttosto nella loro posizione reale che in quella apparente.
+
+Poiché Pauline Stacey, la maggiore, era in realtà l’erede di un blasone e di mezza contea, oltre che di grande ricchezza; era stata allevata in castelli e giardini, prima che una gelida fierezza (propria della donna moderna) la spingesse verso quella che ella considerava un’esistenza più aspra e più alta. Non aveva, in verità, rinunciato al suo denaro; in questo vi sarebbe stato un abbandono romantico o monacale del tutto estraneo al suo dispotico utilitarismo. Ella deteneva la propria ricchezza, avrebbe detto, per impiegarla in scopi sociali pratici. Parte l’aveva investita nella propria attività, il nucleo di un emporio modello di dattilografia; parte era distribuita in varie leghe e cause per il progresso di simili lavori tra le donne. Fino a che punto Joan, sua sorella e socia, condividesse questo idealismo alquanto prosaico, nessuno avrebbe potuto dirlo con certezza. Ma ella seguiva la sua guida con un affetto canino che era in qualche modo più attraente, col suo tocco di tragedia, dell’ardore duro e altero della maggiore. Poiché Pauline Stacey non aveva nulla da dire alla tragedia; s’intendeva che ne negasse l’esistenza.
+
+La sua rigida rapidità e la sua fredda impazienza avevano molto divertito Flambeau la prima volta che aveva messo piede nel caseggiato. Egli aveva indugiato fuori dall’ascensore, nell’atrio d’ingresso, aspettando il ragazzo dell’ascensore, che di solito accompagna gli estranei ai vari piani. Ma quella fanciulla dall’occhio vivo, simile a un falco, aveva apertamente rifiutato di sopportare tale indugio ufficiale. Disse seccamente di sapere tutto dell’ascensore, e di non dipendere da ragazzi — né da uomini. Benché il suo appartamento fosse soltanto tre piani più su, riuscì, nei pochi secondi della salita, a dare a Flambeau moltissime delle sue idee fondamentali con fare disinvolto; erano, nell’insieme, che ella era una moderna donna lavoratrice e amava i moderni macchinari del lavoro. I suoi vividi occhi neri fiammeggiavano d’astratta collera contro coloro che rimproverano la scienza meccanica e reclamano il ritorno del romanticismo. Ognuno, disse, dovrebbe saper governare le macchine, proprio come ella sapeva governare l’ascensore. Parve quasi risentirsi del fatto che Flambeau le aprisse la porta dell’ascensore; e quel gentiluomo salì ai propri appartamenti sorridendo con sentimenti alquanto contrastanti al ricordo di una simile focosa indipendenza.
+
+Aveva di certo un temperamento, di sorta scattante e pratica; i gesti delle sue mani sottili ed eleganti erano bruschi o persino distruttivi. Una volta Flambeau entrò nel suo ufficio per una faccenda di dattilografia, e la trovò che aveva appena scagliato in mezzo al pavimento un paio di occhiali della sorella e vi aveva pestato sopra. Era già nei gorghi di una tirata etica sulle «malaticce fisime mediche» e sulla morbosa ammissione di debolezza implicita in un simile apparecchio. Sfidò la sorella a riportare ancora in quel luogo simili scarti artificiali e malsani. Chiese se ci si aspettasse che ella portasse gambe di legno, o capelli finti, od occhi di vetro; e mentre parlava i suoi occhi scintillavano come il terribile cristallo.
+
+Flambeau, del tutto sconcertato da questo fanatismo, non poté trattenersi dal chiedere alla signorina Pauline (con schietta logica francese) perché un paio di occhiali fosse un segno di debolezza più morboso di un ascensore, e perché, se la scienza poteva aiutarci nell’uno sforzo, non potesse aiutarci anche nell’altro.
+
+«È così diverso» disse Pauline Stacey, altezzosa. «Le batterie, i motori e tutte quelle cose sono segni della forza dell’uomo — sì, signor Flambeau, e anche della forza della donna! Prenderemo il nostro turno a queste grandi macchine che divorano la distanza e sfidano il tempo. Questo è alto e splendido — questa è veramente scienza. Ma questi laidi puntelli e cerotti che i medici vendono — ebbene, non sono che distintivi di vigliaccheria. I medici appiccicano gambe e braccia come se fossimo nati storpi e schiavi malati. Ma io sono nata libera, signor Flambeau! La gente crede di aver bisogno di queste cose solo perché è stata educata nella paura invece che nella potenza e nel coraggio, proprio come le sciocche bambinaie dicono ai bambini di non fissare il sole, e così quelli non riescono a farlo senza sbattere le palpebre. Ma perché, fra le stelle, dovrebbe esserci una stella che io non possa guardare? Il sole non è il mio padrone, e io aprirò gli occhi e lo fisserò ogni volta che vorrò.»
+
+«I vostri occhi» disse Flambeau, con un inchino straniero, «abbaglieranno il sole.» Provava piacere nel complimentare quella strana, rigida bellezza, in parte perché ciò la faceva un poco perdere l’equilibrio. Ma mentre saliva le scale verso il suo piano trasse un profondo respiro e fischiò, dicendo tra sé: «Così è caduta nelle mani di quel prestigiatore di sopra col suo occhio d’oro.» Poiché, per poco che sapesse o si curasse della nuova religione di Kalon, aveva sentito parlare della sua particolare fissazione sul fissare il sole.
+
+Scoprì ben presto che il legame spirituale tra il piano sopra e quello sotto di lui era stretto e crescente. L’uomo che si faceva chiamare Kalon era una creatura magnifica, degna, in senso fisico, di essere il pontefice di Apollo. Era quasi alto come Flambeau, e assai più bello, con una barba dorata, forti occhi azzurri e una criniera gettata all’indietro come quella di un leone. Nella struttura era la bionda bestia di Nietzsche, ma tutta questa bellezza animale era esaltata, ravvivata e addolcita da genuino intelletto e spiritualità. Se somigliava a uno dei grandi re sassoni, somigliava a uno di quei re che erano anche santi. E ciò malgrado l’incongruità plebea dei suoi dintorni; il fatto che avesse un ufficio a mezza altezza di un edificio in Victoria Street; che l’impiegato (un giovane qualunque, in polsini e colletto) sedesse nella stanza esterna, tra lui e il corridoio; che il suo nome fosse su una targa d’ottone, e l’emblema dorato del suo credo pendesse sopra la strada, come la réclame di un oculista. Tutta questa volgarità non poteva togliere all’uomo chiamato Kalon la viva oppressione e ispirazione che emanavano dalla sua anima e dal suo corpo. Tutto sommato, un uomo, alla presenza di questo ciarlatano, si sentiva davvero alla presenza di un grand’uomo. Persino nell’ampio abito di lino a giacca sciolta che indossava come tuta da lavoro nel suo ufficio era una figura affascinante e formidabile; e quando era ammantato nelle bianche vesti e incoronato del cerchietto d’oro, con cui ogni giorno salutava il sole, appariva davvero così splendido che il riso della gente della strada talvolta moriva d’improvviso sulle labbra. Poiché tre volte al giorno il nuovo adoratore del sole usciva sul suo piccolo balcone, al cospetto di tutta Westminster, per recitare qualche litania al suo signore splendente: una volta all’alba, una al tramonto, e una all’urto del mezzodì. E fu mentre l’urto del mezzodì ancora tremava fievolmente dalle torri del Parlamento e della chiesa parrocchiale che Padre Brown, l’amico di Flambeau, alzò per la prima volta gli occhi e vide il bianco sacerdote di Apollo.
+
+Flambeau aveva visto abbastanza di questi quotidiani saluti a Febo, e s’immerse nel portico dell’alto edificio senza nemmeno voltarsi a cercare l’amico ecclesiastico che lo seguisse. Ma Padre Brown, fosse per un professionale interesse verso il rituale o per un forte interesse individuale verso le buffonate, si fermò e alzò lo sguardo al balcone dell’adoratore del sole, proprio come si sarebbe fermato a guardare uno spettacolo di burattini. Kalon il Profeta era già eretto, con vesti argentee e mani levate, e il suono della sua voce stranamente penetrante si udiva giù per tutta la strada affaccendata, mentre pronunciava la sua litania solare. Ne era già a metà; i suoi occhi erano fissi sul disco fiammeggiante. È dubbio che vedesse qualcosa o qualcuno su questa terra; è sostanzialmente certo che non vide un tozzo prete dal viso tondo che, nella folla in basso, lo guardava dal basso con occhi ammiccanti. Quella era forse la più sorprendente differenza fra quei due uomini pur tanto lontani. Padre Brown non poteva guardare nulla senza sbattere le palpebre; ma il sacerdote di Apollo poteva fissare il bagliore del mezzodì senza un tremito di palpebra.
+
+«O sole» gridò il profeta, «o astro troppo grande per essere ammesso fra gli astri! O fonte che scorri quieta in quel luogo segreto che è chiamato spazio. Bianco Padre di tutte le bianche cose instancabili, bianche fiamme e bianchi fiori e bianche vette. Padre, che sei più innocente di tutti i tuoi figli più innocenti e quieti; primordiale purezza, nella cui pace —»
+
+Un fragore e uno schianto, come lo scoscio rovesciato di un razzo, fu spaccato da uno stridulo e incessante urlare. Cinque persone si precipitarono dentro il cancello del caseggiato mentre tre ne uscivano di corsa, e per un istante si assordarono l’un l’altra. Il senso di un orrore del tutto improvviso parve per un momento riempire mezza strada di cattive notizie — cattive notizie tanto peggiori in quanto nessuno sapeva quali fossero. Due figure rimasero immobili dopo lo schianto del tumulto: il biondo sacerdote di Apollo sul balcone in alto, e il brutto sacerdote di Cristo sotto di lui.
+
+Alla fine l’alta figura e la titanica energia di Flambeau apparvero nell’uscio del caseggiato e dominarono la piccola calca. Parlando a squarciagola come una sirena da nebbia, disse a qualcuno, a chiunque, di correre a chiamare un chirurgo; e mentre si voltava di nuovo verso l’ingresso buio e gremito, il suo amico Padre Brown vi si insinuò dietro, insignificante. E anche mentre s’abbassava e si faceva strada tra la folla, poteva ancora udire la magnifica melodia e monotonia del sacerdote solare che ancora invocava il dio felice, amico delle fonti e dei fiori.
+
+Padre Brown trovò Flambeau e altre sei persone circa in piedi attorno allo spazio chiuso in cui l’ascensore soleva discendere. Ma l’ascensore non era disceso. Qualcos’altro era disceso; qualcosa che sarebbe dovuto venire con l’ascensore.
+
+Per gli ultimi quattro minuti Flambeau aveva guardato in basso verso di essa; aveva visto la figura fracassata e sanguinante di quella bella donna che negava l’esistenza della tragedia. Non aveva avuto il minimo dubbio che si trattasse di Pauline Stacey; e, benché avesse mandato a chiamare un medico, non aveva il minimo dubbio che ella fosse morta.
+
+Non riusciva a ricordare con certezza se le fosse piaciuta o dispiaciuta; c’era tanto da apprezzare quanto da disapprovare. Ma era stata per lui una persona, e l’insopportabile pathos dei particolari e delle abitudini lo trafisse con tutti i piccoli pugnali del lutto. Ricordò il suo bel volto e i suoi discorsi saccenti con una improvvisa, segreta intensità che è tutta l’amarezza della morte. In un istante, come un fulmine a ciel sereno, come una folgore venuta dal nulla, quel corpo bello e ribelle era stato scagliato giù per il pozzo aperto dell’ascensore, verso la morte in fondo. Era stato suicidio? Con un’ottimista tanto insolente pareva impossibile. Era stato omicidio? Ma chi c’era, in quegli appartamenti a malapena abitati, per assassinare qualcuno? In un fiotto di parole roche, che voleva forti e trovò a un tratto deboli, chiese dove fosse quel tale Kalon. Una voce, abitualmente grave, quieta e piena, gli assicurò che Kalon, negli ultimi quindici minuti, era stato lassù sul suo balcone ad adorare il proprio dio. Quando Flambeau udì la voce, e sentì la mano di Padre Brown, volse il suo viso bruno e disse bruscamente:
+
+«Allora, se è stato lassù tutto il tempo, chi può averlo fatto?»
+
+«Forse» disse l’altro, «potremmo salire di sopra e scoprirlo. Abbiamo mezz’ora prima che la polizia si muova.»
+
+Lasciando il corpo dell’ereditiera uccisa alle cure dei chirurghi, Flambeau si slanciò su per le scale fino all’ufficio di dattilografia, lo trovò del tutto vuoto, e poi si slanciò fino al proprio. Entratovi, ne tornò bruscamente con un volto nuovo e sbiancato dal suo amico.
+
+«Sua sorella» disse, con una spiacevole serietà, «sua sorella pare essere uscita a fare una passeggiata.»
+
+Padre Brown annuì. «Oppure può essere salita all’ufficio di quell’uomo del sole» disse. «Se fossi in voi, lo verificherei senz’altro, e poi discutiamone tutti insieme nel vostro ufficio. No» aggiunse d’improvviso, come rammentando qualcosa, «riuscirò mai a superare questa mia stupidaggine? Naturalmente, nel loro ufficio di sotto.»
+
+Flambeau lo fissò; ma seguì il piccolo padre giù per le scale fino all’appartamento vuoto delle Stacey, dove quell’impenetrabile pastore prese una grande poltrona di cuoio rosso proprio all’ingresso, da cui poteva vedere le scale e i pianerottoli, e aspettò. Non aspettò a lungo. Nel giro di circa quattro minuti tre figure discesero le scale, simili solo nella loro solennità. La prima era Joan Stacey, la sorella della morta — evidentemente era stata di sopra nel provvisorio tempio di Apollo; la seconda era il sacerdote di Apollo in persona, terminata la sua litania, che scendeva giù per le scale vuote in piena magnificenza — qualcosa nelle sue bianche vesti, nella barba e nella capigliatura divisa aveva l’aria del Cristo di Doré che esce dal Pretorio; la terza era Flambeau, dalle sopracciglia nere e alquanto sconcertato.
+
+La signorina Joan Stacey, bruna, dal volto contratto e coi capelli precocemente sfiorati di grigio, andò diritta alla propria scrivania e vi dispose le proprie carte con un pratico colpetto. Il semplice gesto richiamò tutti gli altri alla ragione. Se la signorina Joan Stacey era una criminale, era una criminale a sangue freddo. Padre Brown la osservò per un poco con uno strano piccolo sorriso, e poi, senza distoglierne gli occhi, si rivolse a qualcun altro.
+
+«Profeta» disse, presumibilmente rivolgendosi a Kalon, «vorrei che mi diceste molte cose sulla vostra religione.»
+
+«Ne sarò fiero» disse Kalon, chinando il capo ancora incoronato, «ma non sono certo di comprendere.»
+
+«Ecco, è così» disse Padre Brown, nel suo modo francamente dubbioso: «Ci viene insegnato che, se un uomo ha davvero cattivi princìpi primi, ciò dev’essere in parte colpa sua. Ma, ciò nonostante, possiamo fare qualche distinzione tra un uomo che oltraggia la propria coscienza del tutto limpida e un uomo con una coscienza più o meno annebbiata di sofismi. Ora, credete voi davvero che l’omicidio sia in qualche modo un male?»
+
+«È questa un’accusa?» chiese Kalon molto tranquillamente.
+
+«No» rispose Brown, con eguale dolcezza, «è l’arringa della difesa.»
+
+Nel lungo e attonito silenzio della stanza il profeta di Apollo lentamente si alzò; e fu davvero come il sorgere del sole. Riempì quella stanza della sua luce e vita in tal modo che un uomo sentiva ch’egli avrebbe potuto riempire con altrettanta facilità la piana di Salisbury. La sua figura ammantata pareva addobbare l’intera stanza di drappeggi classici; il suo gesto epico pareva estenderla in prospettive più grandiose, finché la piccola figura nera del moderno chierico pareva un difetto e un’intrusione, una tonda, nera macchia su qualche splendore dell’Ellade.
+
+«Ci incontriamo alfine, Caifa» disse il profeta. «La tua Chiesa e la mia sono le uniche realtà su questa terra. Io adoro il sole, e tu l’oscurarsi del sole; tu sei il sacerdote del Dio morente, io del Dio vivente. La tua presente opera di sospetto e di calunnia è degna della tua veste e del tuo credo. Tutta la tua Chiesa non è che una nera polizia; voi non siete che spie e detective che cercano di strappare agli uomini confessioni di colpa, sia con l’inganno che con la tortura. Voi vorreste convincere gli uomini di delitto, io li convincerei d’innocenza. Voi vorreste persuaderli del peccato, io li persuaderei della virtù.
+
+«Lettore dei libri del male, ancora una parola prima che io soffi via per sempre i tuoi infondati incubi. Non potresti comprendere, neppure fievolmente, quanto poco mi importi che tu possa condannarmi o no. Ciò che tu chiami disonore e orribile impiccagione non è per me più di quanto un orco in un libro di fiabe per bambini sia per un uomo ormai cresciuto. Hai detto che offrivi l’arringa della difesa. M’importa così poco del regno di nubi di questa vita che ti offrirò io l’arringa dell’accusa. C’è una sola cosa che si può dire contro di me in questa faccenda, e la dirò io stesso. La donna che è morta era il mio amore e la mia sposa; non alla maniera che le vostre cappelle di latta chiamano lecita, ma per una legge più pura e più severa di quanto voi mai comprenderete. Ella e io camminavamo in un mondo diverso dal vostro, e calcavamo palazzi di cristallo mentre voi arrancavate per gallerie e corridoi di mattoni. Ebbene, so che i poliziotti, teologici e d’altra sorta, immaginano sempre che dove c’è stato amore debba presto esserci odio; ed ecco dunque il primo punto a favore dell’accusa. Ma il secondo punto è più forte; non ve lo lesino. Non solo è vero che Pauline mi amava, ma è anche vero che proprio questa mattina, prima di morire, scrisse a quel tavolo un testamento in cui lasciava a me e alla mia nuova Chiesa mezzo milione. Suvvia, dove sono le manette? Credete forse ch’io mi curi delle sciocchezze che farete di me? I lavori forzati saranno solo come attendere lei a una stazione di passaggio. La forca sarà solo un andare da lei su un carro lanciato a rotta di collo.»
+
+Parlava con l’autorità sconvolgente d’un oratore, e Flambeau e Joan Stacey lo fissavano con stupita ammirazione. Il volto di Padre Brown pareva non esprimere nulla se non estrema angoscia; guardava il pavimento con una ruga di dolore attraverso la fronte. Il profeta del sole si appoggiò comodamente alla mensola del camino e riprese:
+
+«In poche parole vi ho esposto l’intero caso contro di me — l’unico caso possibile contro di me. In parole ancor più poche lo ridurrò in pezzi, così che non ne resti traccia. Quanto al fatto se io abbia commesso questo delitto, la verità è in una frase: io non potevo aver commesso questo delitto. Pauline Stacey cadde da questo piano al suolo alle dodici e cinque minuti. Un centinaio di persone saliranno sul banco dei testimoni e diranno che io me ne stavo fuori, sul balcone delle mie stanze di sopra, da poco prima del rintocco del mezzodì fino alle dodici e un quarto — il consueto periodo delle mie pubbliche preghiere. Il mio impiegato (un giovane rispettabile di Clapham, senza alcun legame con me) giurerà che è rimasto seduto nel mio ufficio esterno per tutta la mattina, e che nessuna comunicazione è passata. Giurerà che io arrivai dieci minuti buoni prima dell’ora, quindici minuti prima di qualunque bisbiglio dell’incidente, e che non lasciai né l’ufficio né il balcone in tutto quel tempo. Nessuno ebbe mai un alibi tanto completo; potrei chiamare a testimoniare mezza Westminster. Credo che fareste meglio a riporre di nuovo le manette. Il caso è chiuso.
+
+«Ma per ultimo, affinché non resti nell’aria alcun soffio di questo idiota sospetto, vi dirò tutto ciò che volete sapere. Credo di sapere davvero come la mia infelice amica trovò la morte. Potete, se volete, biasimarne me, o almeno la mia fede e la mia filosofia; ma di certo non potete rinchiudermi. È ben noto a tutti gli studiosi delle verità superiori che certi adepti e illuminati, nella storia, hanno raggiunto il potere della levitazione — cioè, di sostenersi da sé sull’aria vuota. Non è che una parte di quella generale conquista della materia che è l’elemento principale della nostra sapienza occulta. La povera Pauline era di temperamento impulsivo e ambizioso. Credo, a dire il vero, che si ritenesse un poco più addentro nei misteri di quanto fosse; e mi ha spesso detto, mentre scendevamo insieme nell’ascensore, che se la propria volontà fosse abbastanza forte, si potrebbe fluttuare giù innocui come una piuma. Credo solennemente che, in qualche estasi di nobili pensieri, ella tentò il miracolo. La sua volontà, o fede, dev’esserle venuta meno nell’istante cruciale, e la legge inferiore della materia ebbe la sua orribile vendetta. Ecco tutta la storia, signori, molto triste e, come voi pensate, molto presuntuosa e malvagia, ma di certo non criminosa né in alcun modo connessa con me. Nella stenografia dei tribunali di polizia, fareste meglio a chiamarlo suicidio. Io lo chiamerò sempre eroico fallimento per l’avanzamento della scienza e la lenta scalata del cielo.»
+
+Era la prima volta che Flambeau vedeva Padre Brown vinto. Sedeva ancora guardando il pavimento, con la fronte dolente e corrugata, come per vergogna. Era impossibile evitare la sensazione che le alate parole del profeta avevano attizzato: che qui vi fosse un torvo, professionale sospettatore d’uomini sopraffatto da uno spirito più fiero e più puro di libertà e sanità naturali. Alla fine disse, ammiccando come per sofferenza fisica: «Ebbene, se è così, signore, non vi resta che prendere il documento testamentario di cui avete parlato e andare. Mi domando dove la povera signora l’abbia lasciato.»
+
+«Sarà là, sulla sua scrivania presso la porta, credo» disse Kalon, con quella massiccia innocenza di modi che pareva assolverlo del tutto. «Mi disse espressamente che l’avrebbe scritto stamattina, e la vidi effettivamente scrivere mentre salivo in ascensore verso la mia stanza.»
+
+«Era aperta allora la sua porta?» chiese il prete, con l’occhio sull’angolo della stuoia.
+
+«Sì» disse Kalon con calma.
+
+«Ah! è rimasta aperta da allora» disse l’altro, e riprese il suo silenzioso studio della stuoia.
+
+«C’è un foglio qui» disse la torva signorina Joan, con voce alquanto singolare. Era passata alla scrivania della sorella presso l’uscio, e teneva in mano un foglio di carta protocollo azzurra. Sul suo volto c’era un sorriso acido che pareva inadatto a una simile scena o circostanza, e Flambeau la guardò con la fronte che si oscurava.
+
+Kalon il profeta si tenne lontano dal foglio con quella leale inconsapevolezza che l’aveva sorretto fino a quel punto. Ma Flambeau lo tolse dalla mano della signora, e lo lesse con il più grande stupore. Cominciava, in effetti, alla maniera formale di un testamento, ma dopo le parole «Do e lascio in eredità tutto ciò di cui muoio in possesso» la scrittura si arrestava bruscamente in una serie di sgorbi, e non v’era traccia del nome di alcun legatario. Flambeau, meravigliato, porse questo testamento monco all’amico ecclesiastico, il quale gli diede un’occhiata e in silenzio lo passò al sacerdote del sole.
+
+Un istante dopo quel pontefice, nei suoi splendidi drappeggi svolazzanti, aveva attraversato la stanza in due grandi falcate, e torreggiava su Joan Stacey, gli occhi azzurri sporgenti dalla testa.
+
+«Che scherzetti da scimmia avete combinato qui?» gridò. «Non è tutto quello che Pauline scrisse.»
+
+Si trasalirono nell’udirlo parlare con una voce del tutto nuova, con una stridula asprezza yankee; tutta la sua grandezza e il suo buon inglese gli erano caduti di dosso come un mantello.
+
+«È l’unica cosa che c’è sulla sua scrivania» disse Joan, e lo affrontò impassibile con lo stesso sorriso di malvagio compiacimento.
+
+D’improvviso l’uomo proruppe in bestemmie e cateratte di parole incredule. C’era qualcosa di sconvolgente nel cadere della sua maschera; era come il vero volto di un uomo che si staccasse.
+
+«Sentite qui!» gridò in ampio americano, quando fu senza fiato per l’imprecare, «io sarò anche un avventuriero, ma direi che voi siete un’assassina. Sì, signori, ecco spiegata la vostra morte, e senza alcuna levitazione. La povera ragazza sta scrivendo un testamento a mio favore; la sua maledetta sorella entra, lotta per la penna, la trascina al pozzo e ve la getta prima che possa finirlo. Perbacco! Direi che le manette ci servono dopotutto.»
+
+«Come avete giustamente osservato» rispose Joan, con una brutta calma, «il vostro impiegato è un giovane assai rispettabile, che conosce la natura di un giuramento; e giurerà davanti a qualsiasi tribunale che io ero su nel vostro ufficio a organizzare un lavoro di dattilografia per cinque minuti prima e cinque minuti dopo che mia sorella cadde. Il signor Flambeau vi dirà che mi trovò là.»
+
+Vi fu un silenzio.
+
+«Ma allora» gridò Flambeau, «Pauline era sola quando cadde, e fu suicidio!»
+
+«Era sola quando cadde» disse Padre Brown, «ma non fu suicidio.»
+
+«E allora come morì?» chiese Flambeau con impazienza.
+
+«Fu assassinata.»
+
+«Ma era sola» obiettò l’investigatore.
+
+«Fu assassinata mentre era del tutto sola» rispose il prete.
+
+Tutti gli altri lo fissarono, ma egli rimase seduto nel medesimo vecchio atteggiamento avvilito, con una ruga nella tonda fronte e un’aria di impersonale vergogna e dolore; la sua voce era incolore e triste.
+
+«Ciò che voglio sapere» gridò Kalon, con un’imprecazione, «è quando la polizia verrà a prendere questa sanguinaria e malvagia sorella. Ha ucciso la propria carne e il proprio sangue; mi ha derubato di mezzo milione che era sacro mio quanto —»
+
+«Suvvia, suvvia, profeta» lo interruppe Flambeau, con una sorta di sogghigno; «ricordate che tutto questo mondo è un regno di nubi.»
+
+Lo ierofante del dio-sole fece uno sforzo per risalire sul proprio piedistallo. «Non è il mero denaro» gridò, «benché ciò equipaggerebbe la causa in tutto il mondo. Sono anche i desideri della mia amata. Per Pauline tutto questo era sacro. Agli occhi di Pauline —»
+
+Padre Brown balzò d’improvviso in piedi, così che la sedia gli cadde riversa dietro. Era pallido come un morto, eppure pareva acceso da una speranza; i suoi occhi brillavano.
+
+«È questo!» gridò con voce chiara. «È così che si comincia. Agli occhi di Pauline —»
+
+L’alto profeta indietreggiò davanti al minuscolo prete in un disordine quasi folle. «Che intendete? Come osate?» gridò ripetutamente.
+
+«Agli occhi di Pauline» ripeté il prete, i propri sempre più splendenti. «Continuate — in nome di Dio, continuate. Il più immondo delitto che i demoni abbiano mai istigato si fa più leggero dopo la confessione; e vi imploro di confessare. Continuate, continuate — agli occhi di Pauline —»
+
+«Lasciatemi andare, demonio!» tuonò Kalon, dibattendosi come un gigante in catene. «Chi siete voi, maledetta spia, per tessere le vostre ragnatele intorno a me, e spiare e scrutare? Lasciatemi andare.»
+
+«Devo fermarlo?» chiese Flambeau, slanciandosi verso l’uscita, poiché Kalon aveva già spalancato la porta.
+
+«No; lasciatelo passare» disse Padre Brown, con uno strano, profondo sospiro che pareva venire dagli abissi dell’universo. «Lasciate passare Caino, poiché appartiene a Dio.»
+
+Vi fu un lungo, protratto silenzio nella stanza dopo che egli l’ebbe lasciata, che fu per l’acuto ingegno di Flambeau una lunga agonia di interrogativi. La signorina Joan Stacey, con grande freddezza, riordinò le carte sulla sua scrivania.
+
+«Padre» disse Flambeau alla fine, «è mio dovere, non solo mia curiosità — è mio dovere scoprire, se posso, chi commise il delitto.»
+
+«Quale delitto?» chiese Padre Brown.
+
+«Quello di cui ci stiamo occupando, naturalmente» rispose l’amico impaziente.
+
+«Ci stiamo occupando di due delitti» disse Brown, «delitti di peso assai diverso — e commessi da criminali assai diversi.»
+
+La signorina Joan Stacey, raccolte e riposte le sue carte, procedette a chiudere a chiave il proprio cassetto. Padre Brown continuò, badando a lei tanto poco quanto ella badava a lui.
+
+«I due delitti» osservò, «furono commessi contro la medesima debolezza della medesima persona, in una lotta per il suo denaro. L’autore del delitto maggiore si trovò sventato dal delitto minore; l’autore del delitto minore ottenne il denaro.»
+
+«Oh, non continuate come un conferenziere» gemette Flambeau; «ditelo in poche parole.»
+
+«Posso dirlo in una sola» rispose l’amico.
+
+La signorina Joan Stacey si infilò con uno spillo il suo pratico cappello nero in testa, con un pratico cipiglio nero davanti a un piccolo specchio, e, mentre la conversazione proseguiva, prese la borsetta e l’ombrello con fare senza fretta, e lasciò la stanza.
+
+«La verità è una sola parola, e breve» disse Padre Brown. «Pauline Stacey era cieca.»
+
+«Cieca!» ripeté Flambeau, e si alzò lentamente in tutta la sua enorme statura.
+
+«Vi era soggetta per via del sangue» proseguì Brown. «Sua sorella le avrebbe fatto usare gli occhiali, se Pauline glielo avesse permesso; ma era la sua particolare filosofia, o fisima, che non si dovessero incoraggiare simili malattie cedendo loro. Non voleva ammettere la nube; o cercava di dissiparla con la volontà. Così i suoi occhi peggioravano sempre più per lo sforzo; ma lo sforzo peggiore doveva ancora venire. Venne con questo prezioso profeta, o comunque si faccia chiamare, che le insegnò a fissare il sole ardente a occhio nudo. Lo chiamavano accogliere Apollo. Oh, se questi nuovi pagani volessero solo essere vecchi pagani, sarebbero un po’ più saggi! I vecchi pagani sapevano che la mera nuda adorazione della Natura deve avere un lato crudele. Sapevano che l’occhio di Apollo può fulminare e accecare.»
+
+Vi fu una pausa, e il prete proseguì con voce dolce e persino rotta. «Che quel demonio l’abbia o no deliberatamente resa cieca, non c’è dubbio ch’egli deliberatamente l’uccise attraverso la sua cecità. La semplicità stessa del delitto è nauseante. Sapete che lui e lei salivano e scendevano in quegli ascensori senza aiuto ufficiale; sapete anche con quanta scorrevolezza e silenzio scivolano gli ascensori. Kalon portò l’ascensore al pianerottolo della fanciulla, e la vide, attraverso la porta aperta, scrivere nel suo lento modo cieco il testamento che gli aveva promesso. Le gridò allegramente che aveva pronto l’ascensore per lei, e che venisse fuori quando fosse pronta. Poi premette un bottone e schizzò silenzioso su fino al proprio piano, attraversò il proprio ufficio, uscì sul proprio balcone, e stava tranquillamente pregando davanti alla strada affollata quando la povera ragazza, terminato il suo lavoro, corse gaia là dove l’amante e l’ascensore dovevano accoglierla, e fece un passo —»
+
+«Basta!» gridò Flambeau.
+
+«Avrebbe dovuto ottenere mezzo milione premendo quel bottone» continuò il piccolo padre, nella voce incolore con cui parlava di simili orrori. «Ma andò a monte. Andò a monte perché si dava il caso che vi fosse un’altra persona che pure voleva il denaro, e che pure conosceva il segreto della vista della povera Pauline. C’era una cosa in quel testamento che credo nessuno abbia notato: benché fosse incompiuto e senza firma, l’altra signorina Stacey e una sua domestica l’avevano già firmato come testimoni. Joan aveva firmato per prima, dicendo che Pauline avrebbe potuto completarlo più tardi, con un tipico femmineo disprezzo per le forme legali. Perciò, Joan voleva che sua sorella firmasse il testamento senza veri testimoni. Perché? Pensai alla cecità, ed ebbi la certezza che ella aveva voluto che Pauline firmasse in solitudine perché aveva voluto che non firmasse affatto.
+
+«Le persone come le Stacey usano sempre la penna stilografica; ma per Pauline ciò era particolarmente naturale. Per abitudine, e per la sua forte volontà e memoria, poteva ancora scrivere quasi bene come se vedesse; ma non poteva accorgersi di quando la penna avesse bisogno d’essere intinta. Perciò, le sue stilografiche venivano accuratamente riempite dalla sorella — tutte tranne questa stilografica. Questa fu accuratamente non riempita dalla sorella; i residui d’inchiostro bastarono per poche righe e poi vennero meno del tutto. E il profeta perse cinquecentomila sterline e commise uno dei più brutali e brillanti omicidi della storia umana per niente.»
+
+Flambeau andò alla porta aperta e udì la polizia ufficiale che saliva le scale. Si voltò e disse: «Dovete aver seguito ogni cosa maledettamente da vicino per aver ricondotto il delitto a Kalon in dieci minuti.»
+
+Padre Brown ebbe una sorta di soprassalto.
+
+«Oh! a lui» disse. «No; ho dovuto seguire piuttosto da vicino per scoprire la faccenda della signorina Joan e della stilografica. Ma sapevo che Kalon era il criminale prima ancora di varcare la porta d’ingresso.»
+
+«Starete scherzando!» gridò Flambeau.
+
+«Dico sul serio» rispose il prete. «Vi dico che sapevo che era stato lui, prima ancora di sapere che cosa avesse fatto.»
+
+«Ma perché?»
+
+«Questi pagani stoici» disse Brown riflessivo, «falliscono sempre per la loro forza. Ci fu uno schianto e un urlo giù per la strada, e il sacerdote di Apollo non trasalì né si voltò. Io non sapevo che cosa fosse. Ma sapevo che egli se lo aspettava.»

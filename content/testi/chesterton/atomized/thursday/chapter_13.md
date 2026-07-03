@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/thursday-(chesterton)">The Man Who Was Thursday</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/thursday/chapter_12">‹ Chapter 12</a><a class="ex-next" href="/testi/chesterton/atomized/thursday/chapter_14">Chapter 14 ›</a></div>
@@ -497,3 +499,497 @@ There was a short [[Silence|silence]], and then Syme said, biting his beard--
 
 "I'm not beaten yet.  The blasted thing must come down somewhere.
 Let's follow it!"
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/thursday-(chesterton)">The Man Who Was Thursday</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/thursday/chapter_12">‹ Chapter 12</a><a class="ex-next" href="/testi/chesterton/atomized/thursday/chapter_14">Chapter 14 ›</a></div>
+</nav>
+
+# [[thursday]] — Capitolo 13
+
+                         CAPITOLO XIII
+
+                L’INSEGUIMENTO DEL PRESIDENTE
+
+IL mattino seguente cinque persone sbalordite ma ilari presero il battello
+per Dover.  Il povero vecchio Colonnello avrebbe forse avuto qualche motivo
+di lagnarsi, essendo stato dapprima costretto a battersi per due fazioni
+che non esistevano, e poi steso a terra con una lanterna di ferro.
+Ma era un vecchio gentiluomo magnanimo, e assai
+sollevato che nessuna delle due parti avesse a che fare con la dinamite,
+li accompagnò con grande cordialità sul molo.
+
+I cinque detective riconciliati avevano cento particolari da spiegarsi
+a vicenda.  Il Segretario dovette raccontare a Syme come fossero giunti
+a portare le maschere in origine, per avvicinare il presunto
+nemico da compagni cospiratori.
+
+Syme dovette spiegare come fossero fuggiti con tanta rapidità
+attraverso un paese civile.  Ma al di sopra di tutti questi particolari
+che si potevano spiegare, [[Rose|si ergeva]] la montagna centrale
+della faccenda, quella che non si poteva spiegare.  Che cosa significava tutto ciò?
+Se erano tutti innocui funzionari, che cos’era [[Sunday]]?  Se non
+si era impadronito del mondo, che diamine aveva combinato?
+L’ispettore Ratcliffe rimaneva cupo su questo punto.
+
+«Non ci capisco un’acca del giochetto del vecchio [[Sunday]], più di quanto ci capiate voi»,
+disse.  «Ma qualunque cosa sia [[Sunday]], di certo non è un cittadino irreprensibile.
+Diavolo! vi ricordate la sua faccia?»
+
+«Vi concedo», rispose Syme, «che non sono mai riuscito a dimenticarla.»
+
+«[[Well|Ebbene]]», disse il Segretario, «suppongo che potremo saperlo presto,
+perché domani abbiamo la nostra prossima riunione generale.  Mi scuserete»,
+disse, con un sorriso piuttosto spettrale, «se conosco [[Well|bene]]
+i miei doveri di segretario.»
+
+«Suppongo che abbiate ragione», disse [[The Professor|il Professore]] pensoso.
+«Suppongo che potremmo saperlo da lui; ma confesso che
+avrei un po’ paura a chiedere a [[Sunday]] chi sia realmente.»
+
+«Perché», domandò il Segretario, «per [[Fear|paura]] delle bombe?»
+
+«No», disse [[The Professor|il Professore]], «per [[Fear|paura]] che me lo dica.»
+
+«Beviamo qualcosa», disse il dottor Bull, dopo un [[Silence|silenzio]].
+
+Durante tutto il [[Journey|viaggio]] in battello e in treno furono
+oltremodo festosi, ma istintivamente rimasero uniti.
+Il dottor Bull, che era sempre stato l’ottimista della compagnia,
+si sforzò di persuadere gli altri quattro che l’intera
+brigata potesse prendere lo stesso hansom da Victoria;
+ma la proposta fu respinta, e andarono con una carrozza a quattro ruote,
+col dottor Bull a cassetta, che cantava.  Conclusero il loro [[Journey|viaggio]]
+in un albergo di Piccadilly Circus, così da essere vicini alla prima
+colazione, l’indomani mattina, a Leicester Square.  Eppure persino
+allora le avventure della giornata non erano del tutto finite.
+Il dottor Bull, scontento della proposta generale di andare a letto,
+era uscito a passeggio dall’albergo verso le undici per vedere e assaporare
+qualcuna delle bellezze di [[London|Londra]].  Venti minuti dopo,
+tuttavia, tornò e fece un gran baccano nell’atrio.
+Syme, che dapprima tentò di calmarlo, alla fine fu costretto
+ad ascoltare la sua comunicazione con un’attenzione affatto nuova.
+
+«Vi dico che l’ho visto!» disse il dottor Bull, con enfasi impastata.
+
+«Chi?» chiese Syme in fretta.  «Non il Presidente?»
+
+«Non così grave», disse il dottor Bull, con una risata superflua,
+«non così grave.  L’ho qui.»
+
+«Chi hai qui?» chiese Syme spazientito.
+
+«L’uomo peloso», disse l’altro lucidamente, «l’uomo che era
+l’uomo peloso… Gogol.  Eccolo qui», e trascinò avanti per un
+gomito riluttante l’identico giovane che cinque giorni prima era
+uscito marciando dal Consiglio con radi capelli rossi e il volto pallido,
+il primo di tutti i finti anarchici che erano stati smascherati.
+
+«Perché vi impicciate con me?» gridò.  «Mi avete espulso come spia.»
+
+«Siamo tutti spie!» sussurrò Syme.
+
+«Siamo tutti spie!» gridò il dottor Bull.  «Vieni a bere qualcosa.»
+
+Il mattino seguente il battaglione dei sei riuniti marciò impassibile
+verso l’albergo di Leicester Square.
+
+«Questo è più allegro», disse il dottor Bull; «siamo sei uomini che vanno
+a chiedere a un uomo che cosa vuol dire.»
+
+«Credo sia una faccenda un po’ più strana», disse Syme.  «Credo
+siano sei uomini che vanno a chiedere a un uomo che cosa vogliono dire loro.»
+
+Svoltarono in [[Silence|silenzio]] nella piazza, e sebbene
+l’albergo fosse nell’angolo opposto, videro subito
+il piccolo balcone e una figura che pareva troppo grande per esso.
+Sedeva [[Alone|solo]] a capo chino, chinato su un giornale.
+Ma tutti i suoi consiglieri, che erano venuti a metterlo in minoranza,
+attraversarono quella piazza come se fossero spiati dal cielo
+da cento occhi.
+
+Avevano molto discusso sulla loro tattica, se cioè
+dovessero lasciare fuori il Gogol smascherato e cominciare diplomaticamente,
+oppure introdurlo e far saltare la polvere da sparo all’istante.
+Prevalse l’influenza di Syme e di Bull per quest’ultima soluzione,
+benché il Segretario chiedesse loro fino all’ultimo perché attaccassero
+[[Sunday]] con tanta avventatezza.
+
+«La mia ragione è semplicissima», disse Syme.  «Lo attacco avventatamente
+perché ho paura di lui.»
+
+Seguirono Syme su per la buia scala in [[Silence|silenzio]], e sbucarono tutti
+simultaneamente nell’ampia luce del sole del mattino e nell’ampia
+luce del sole del sorriso di [[Sunday]].
+
+«Delizioso!» disse.  «Così lieto di vedervi tutti.
+Che giornata squisita.  È morto lo Zar?»
+
+Il Segretario, che si trovava per caso in prima fila, si raccolse
+per una dignitosa sfuriata.
+
+«No, signore», disse severamente, «non c’è stato alcun massacro.
+Non vi reco notizia di simili disgustosi spettacoli.»
+
+«Disgustosi spettacoli?» ripeté il Presidente, con un sorriso vivace
+e indagatore.  «Intendete gli occhiali del dottor Bull?»
+
+Il Segretario s’intruppò per un momento, e il Presidente proseguì con una sorta
+di suadente appello…
+
+«Certo, tutti abbiamo le nostre opinioni e persino i nostri occhi,
+ma dirli davvero disgustosi davanti all’uomo stesso…»
+
+Il dottor Bull si strappò gli occhiali e li spezzò sul tavolo.
+
+«I miei occhiali sono da furfante», disse, «ma io no.
+Guardate la mia faccia.»
+
+«Direi che è il tipo di faccia che finisce col piacere», disse il Presidente,
+«anzi, cresce su di voi; e chi sono io per litigare coi frutti selvatici
+dell’Albero della Vita?  Direi che un giorno finirà col piacere anche a me.»
+
+«Non abbiamo [[Time|tempo]] per buffonate», disse il Segretario, interrompendo ferocemente.
+«Siamo venuti a sapere che cosa significa tutto questo.  Chi siete voi?  Che cosa siete?
+Perché ci avete radunati tutti qui?  Sapete chi e che cosa siamo noi?
+Siete un mezzo scemo che gioca al cospiratore, o un uomo intelligente
+che fa lo [[Fool|sciocco]]?  Rispondetemi, vi dico.»
+
+«I candidati», mormorò [[Sunday]], «sono tenuti a rispondere soltanto
+a otto delle diciassette domande del foglio.
+Per quanto riesco a capire, volete che vi dica che cosa sono io,
+e che cosa siete voi, e che cos’è questo tavolo, e che cos’è questo
+Consiglio, e a che cosa serva questo mondo, per quanto ne so io.
+[[Well|Ebbene]], mi spingerò fino a squarciare il velo di un mistero.
+Se volete sapere che cosa siete, siete un gruppo di giovani
+[[Well|bene]] intenzionati asini.»
+
+«E voi», disse Syme, sporgendosi in avanti, «che cosa siete?»
+
+«Io?  Che cosa sono io?» ruggì il Presidente, e [[Rose|si levò]] lentamente a un’altezza
+incredibile, come un’onda enorme sul punto d’inarcarsi sopra di loro e infrangersi.
+«Volete sapere che cosa sono io, eh?  Bull, voi siete un uomo di scienza.
+Frugate nelle radici di quegli alberi e scoprite la [[Truth|verità]] su di essi.
+Syme, voi siete un poeta.  Fissate quelle nuvole del mattino.
+Ma vi dico questo, che avrete scoperto la [[Truth|verità]] dell’ultimo
+albero e della nuvola più alta prima della [[Truth|verità]] su di me.
+Comprenderete il mare, e io sarò ancora un [[Riddle|enigma]];
+saprete che cosa sono le [[Stars|stelle]], e non saprete che cosa sono io.
+Fin dal principio del mondo tutti gli uomini mi hanno dato la caccia come a un lupo…
+re e savi, e poeti e legislatori, tutte le chiese,
+e tutte le filosofie.  Ma non sono mai stato preso finora,
+e i cieli crolleranno nel [[Time|momento]] in cui mi volterò a far fronte.
+Li ho fatti correre parecchio per i loro soldi, e continuerò a farlo.»
+
+Prima che uno di loro potesse muoversi, il mostruoso uomo si era slanciato
+come un enorme orango oltre la balaustra del balcone.
+Eppure, prima di lasciarsi cadere, si tirò su di nuovo come a una sbarra orizzontale,
+e spingendo il suo gran mento oltre l’orlo del balcone, disse solennemente…
+
+«C’è una cosa però che vi dirò su chi sono.
+Sono l’uomo nella stanza buia, quello che vi ha fatti tutti poliziotti.»
+
+Con ciò cadde dal balcone, rimbalzando sulle pietre sottostanti come
+una gran palla di caucciù, e si allontanò a balzi verso l’angolo
+dell’Alhambra, dove chiamò un hansom e vi balzò dentro.
+I sei detective erano rimasti impietriti e lividi
+alla luce della sua ultima affermazione; ma quando egli scomparve nella carrozza,
+il senso pratico di Syme gli tornò, e scavalcando il balcone
+così sconsideratamente da quasi rompersi le gambe, chiamò un’altra carrozza.
+
+Lui e Bull balzarono insieme nella carrozza, [[The Professor|il Professore]] e
+l’Ispettore in un’altra, mentre il Segretario e l’ex Gogol
+si arrampicarono in una terza appena in [[Time|tempo]] per inseguire il volante Syme,
+che inseguiva il volante Presidente.  [[Sunday]] li condusse in una caccia sfrenata
+verso nord-ovest, il suo [[cabman|cocchiere]], evidentemente sotto l’influsso
+di incentivi più che comuni, spronando il [[Horse|cavallo]] a [[Speed|velocità]] da rompicollo.
+Ma Syme non era in vena di delicatezze, e si alzò in piedi
+nella propria carrozza gridando: «Al ladro!» finché la folla accorse
+lungo la sua carrozza, e i poliziotti presero a fermarsi e a far domande.
+Tutto ciò ebbe il suo effetto sul [[cabman|cocchiere]] del Presidente,
+che cominciò a farsi dubbioso, e a rallentare al trotto.
+Aprì la botola per parlare ragionevolmente al suo cliente, e così
+facendo lasciò penzolare la lunga frusta sul davanti della carrozza.
+[[Sunday]] si sporse in avanti, l’afferrò, e la strappò con violenza
+di mano all’uomo.  Poi, ergendosi in piedi davanti alla carrozza,
+sferzò il [[Horse|cavallo]] e ruggì a gran voce, sicché scesero
+per le vie come una [[Storm|tempesta]] volante.  Attraverso strada dopo strada
+e piazza dopo piazza andava turbinando quel veicolo assurdo,
+in cui il cliente spronava il [[Horse|cavallo]] e il conducente cercava
+disperatamente di fermarlo.  Le altre tre carrozze lo seguivano
+(se la frase è lecita per una carrozza) come segugi ansanti.
+Botteghe e strade sfrecciavano via come frecce sferraglianti.
+
+Al massimo dell’estasi della [[Speed|velocità]], [[Sunday]] si voltò
+sul predellino dove stava, e sporgendo la sua gran testa
+ghignante dalla carrozza, coi capelli bianchi fischianti
+nel [[Wind|vento]], fece una faccia orribile ai suoi inseguitori,
+come un colossale monello.  Poi, alzando rapidamente la mano destra,
+scagliò in faccia a Syme una palla di carta e sparì.
+Syme afferrò l’oggetto mentre istintivamente lo parava,
+e scoprì che consisteva di due fogli spiegazzati.
+Uno era indirizzato a lui stesso, e l’altro al dottor Bull,
+con una lunghissima, e c’è da temere in parte ironica,
+sfilza di lettere dopo il nome.  L’indirizzo del dottor Bull era,
+in ogni caso, notevolmente più lungo della sua comunicazione,
+poiché la comunicazione consisteva interamente nelle parole:…
+
+«E adesso che ne dite di Martin Tupper?»
+
+«Che cosa vuol dire il vecchio maniaco?» chiese Bull, fissando le parole.
+«Che cosa dice la tua, Syme?»
+
+Il messaggio di Syme era, in ogni caso, più lungo, e diceva così:…
+
+«Nessuno rimpiangerebbe qualcosa nella [[Nature|natura]] di un’interferenza
+da parte dell’Arcidiacono più di me.  Confido che non si arrivi
+a tanto.  Ma, per l’ultima [[Time|volta]], dove sono le vostre galosce?
+La cosa è troppo grave, specie dopo quel che ha detto lo zio.»
+
+Il [[cabman|cocchiere]] del Presidente pareva riacquistare un certo controllo
+sul suo [[Horse|cavallo]], e gli inseguitori guadagnarono un poco mentre svoltavano
+nella Edgware [[Road]].  E qui accadde ciò che agli alleati
+parve un provvidenziale intoppo.  Il traffico di ogni genere
+sterzava a destra o a sinistra o si arrestava, poiché giù per la lunga [[Road|via]]
+veniva l’inconfondibile fragore che annunciava l’autopompa dei [[Fire|pompieri]],
+che in pochi secondi passò come un fulmine di bronzo.
+Ma per quanto rapida passasse, [[Sunday]] era balzato fuori dalla sua carrozza,
+si era slanciato sull’autopompa dei [[Fire|pompieri]], l’aveva afferrata, vi si era issato,
+e mentre spariva nella rumorosa lontananza lo si vide parlare
+allo stupito pompiere con gesti esplicativi.
+
+«Dietro a lui!» urlò Syme.  «Ora non può sviarci.
+Non ci si sbaglia su un’autopompa dei [[Fire|pompieri]].»
+
+I tre cocchieri, che per un momento erano rimasti storditi, frustarono
+i cavalli e diminuirono di poco la distanza tra sé
+e la loro preda sfuggente.  Il Presidente riconobbe questa
+prossimità venendo sul retro dell’autopompa, inchinandosi ripetutamente,
+mandando baci con la mano, e infine gettando un biglietto piegato con cura
+nel petto dell’ispettore Ratcliffe.  Quando quel signore lo aprì,
+non senza impazienza, lo trovò contenente le parole:…
+
+«Fuggite subito.  La [[Truth|verità]] sui vostri tendipantaloni è nota.
+— UN AMICO.»
+
+L’autopompa dei [[Fire|pompieri]] aveva puntato ancor più a nord,
+in una regione che essi non riconoscevano; e mentre correva
+lungo una fila di alte cancellate ombreggiate di alberi, i sei amici
+trasalirono, ma alquanto sollevati, al vedere il Presidente
+balzare giù dall’autopompa dei [[Fire|pompieri]], anche se non poterono vedere
+se per un altro capriccio o per la crescente protesta dei suoi ospiti.
+Prima però che le tre carrozze potessero raggiungere il punto,
+egli aveva scalato le alte cancellate come un enorme gatto grigio,
+si era gettato dall’altra parte, ed era scomparso in un buio di [[Leaves|foglie]].
+
+Syme con un gesto furioso fermò la sua carrozza, ne balzò fuori,
+e si slanciò anch’egli alla scalata.  Quando ebbe una gamba oltre
+lo steccato e i suoi amici lo seguivano, volse verso di loro un
+volto che spiccava tutto pallido nell’[[Shadow|ombra]].
+
+«Che posto può mai essere questo?» chiese.  «Che sia la [[house|casa]] del vecchio diavolo?
+Ho sentito che ha una [[house|casa]] nella parte nord di [[London|Londra]].»
+
+«Tanto meglio», disse il Segretario cupamente, piantando un piede in un appiglio,
+«lo troveremo a [[Home|casa]].»
+
+«No, ma non è questo», disse Syme, aggrottando le sopracciglia.
+«Sento i rumori più orribili, come diavoli che ridono e starnutiscono
+e si soffiano i loro nasi diabolici!»
+
+«I suoi [[dogs|cani]] che abbaiano, naturalmente», disse il Segretario.
+
+«Perché non dire i suoi scarafaggi neri che abbaiano!» disse Syme furiosamente,
+«le lumache che abbaiano! i gerani che abbaiano!  Avete mai sentito un cane
+abbaiare a quel modo?»
+
+Alzò la mano, e dal folto venne un lungo
+ringhio ruggente che pareva penetrare sotto la pelle e agghiacciare la carne…
+un basso, fremente ruggito che faceva vibrare l’aria tutt’intorno a loro.
+
+«I [[dogs|cani]] di [[Sunday]] non sarebbero [[dogs|cani]] comuni», disse Gogol, e rabbrividì.
+
+Syme era saltato giù dall’altra parte, ma stava ancora
+lì in ascolto, spazientito.
+
+«[[Well|Ebbene]], ascoltate quello», disse, «è un cane… il cane di qualcuno?»
+
+Giunse al loro orecchio uno strido rauco, come di creature che protestano
+e reclamano in un [[Pain|dolore]] improvviso; e poi, lontano come un’eco,
+qualcosa che suonava come una lunga tromba nasale.
+
+«[[Well|Ebbene]], la sua [[house|casa]] dev’essere l’inferno!» disse il Segretario;
+«e se è l’inferno, io ci entro!» e scavalcò le alte
+cancellate quasi con un solo slancio.
+
+Gli altri lo seguirono.  Si aprirono un varco tra un groviglio di piante e arbusti,
+e sbucarono su un sentiero aperto.  Nulla era in vista, ma il dottor Bull d’un tratto
+batté le mani l’una contro l’altra.
+
+«Ma insomma, asini che siete», gridò, «è lo Zoo!»
+
+Mentre si guardavano attorno freneticamente in cerca di una traccia della loro selvaggia preda,
+un guardiano in uniforme venne correndo lungo il sentiero con un uomo in abiti civili.
+
+«È venuto di qua?» ansimò il guardiano.
+
+«Chi?» chiese Syme.
+
+«L’elefante!» gridò il guardiano.  «Un elefante è impazzito
+ed è scappato!»
+
+«È scappato con un vecchio gentiluomo», disse l’altro sconosciuto senza fiato,
+«un povero vecchio gentiluomo dai capelli bianchi!»
+
+«Che sorta di vecchio gentiluomo?» chiese Syme, con grande curiosità.
+
+«Un vecchio gentiluomo assai grande e grasso, in abiti grigio chiaro»,
+disse il guardiano con foga.
+
+«[[Well|Ebbene]]», disse Syme, «se è quel particolare tipo di vecchio gentiluomo,
+se siete ben sicuro che si tratta di un vecchio gentiluomo grande e grasso in abiti grigi,
+potete credermi sulla parola: l’elefante non è scappato con lui.
+È lui che è scappato con l’elefante.  Non è stato fatto da Dio un elefante
+capace di scappare con lui, se lui non acconsentisse alla fuga.
+E, per mille tuoni, eccolo là!»
+
+Non c’era [[Doubt|dubbio]], questa [[Time|volta]].  Attraverso tutta la distesa d’erba,
+a circa duecento metri di distanza, con una folla che strillava e correva invano alle
+sue calcagna, andava un enorme elefante grigio a un passo terribile, con la proboscide protesa
+rigida come il bompresso di una [[Ship|nave]], e barrendo come la tromba del giudizio.
+Sul dorso della bestia che muggiva e s’impennava sedeva il Presidente [[Sunday]] con
+tutta la placidità di un sultano, ma pungolando l’animale a una [[Speed|velocità]] furiosa
+con qualche oggetto aguzzo in mano.
+
+«Fermatelo!» strillava la gente.  «Uscirà dal cancello!»
+
+«Fermate una frana!» disse il guardiano.  «È già fuori dal cancello!»
+
+E mentre ancora parlava, un ultimo schianto e ruggito di terrore annunciò che il
+grande elefante grigio aveva sfondato i cancelli dei Giardini Zoologici,
+e sfrecciava giù per Albany Street come una nuova e velocissima specie di omnibus.
+
+«Gran Dio!» gridò Bull, «non ho mai saputo che un elefante potesse andare così veloce.
+[[Well|Ebbene]], dovremo tornare agli hansom se vogliamo tenerlo d’occhio.»
+
+Mentre correvano verso il cancello dal quale l’elefante
+era sparito, Syme provò un abbagliante panorama degli strani [[Animals|animali]]
+nelle gabbie che passavano.  In seguito gli parve strano
+di averli visti così nitidamente.  Ricordava in particolare
+di aver visto i pellicani, con le loro assurde, pendenti gole.
+Si domandò perché il pellicano fosse il simbolo della [[Charity|carità]], se non forse perché
+ci voleva parecchia [[Charity|carità]] per ammirare un pellicano.
+Ricordava un bucero, che era semplicemente un enorme becco giallo con
+un uccellino legato dietro.  L’insieme gli diede una sensazione,
+la cui vividezza non seppe spiegare, che la [[Nature|Natura]] stesse sempre
+facendo scherzi assai misteriosi.  [[Sunday]] aveva detto loro che lo
+avrebbero compreso quando avessero compreso le [[Stars|stelle]].
+Si domandò se persino gli arcangeli comprendessero il bucero.
+
+I sei infelici detective si gettarono nelle carrozze e seguirono
+l’elefante, condividendo il terrore che esso spargeva per il lungo
+tratto delle strade.  Questa [[Time|volta]] [[Sunday]] non si voltò,
+ma offrì loro la solida distesa della sua schiena inconsapevole,
+il che li faceva impazzire, se possibile, più delle sue precedenti beffe.
+Poco prima che giungessero a Baker Street, tuttavia, lo si vide
+lanciare qualcosa in alto nell’aria, come un ragazzo fa con una palla intendendo
+riprenderla.  Ma alla loro andatura di corsa cadde molto indietro,
+proprio accanto alla carrozza che conteneva Gogol; e nella fioca [[Hope|speranza]] di un indizio o per
+qualche impulso inspiegabile, egli fermò la carrozza per raccoglierlo.
+Era indirizzato a lui stesso, ed era un pacco piuttosto voluminoso.
+All’esame, tuttavia, si trovò che la sua mole consisteva di trentatré
+pezzi di carta senza valore avvolti l’uno intorno all’altro.
+Quando fu strappato l’ultimo involucro si ridusse a un piccolo
+foglietto di carta, sul quale era scritto:…
+
+«La parola, immagino, dovrebbe essere “rosa”.»
+
+L’uomo un tempo noto come Gogol non disse nulla, ma i movimenti delle sue mani
+e dei suoi piedi erano quelli di un uomo che spinge un [[Horse|cavallo]] a rinnovati sforzi.
+
+Attraverso strada dopo strada, attraverso quartiere dopo quartiere,
+andava il prodigio dell’elefante volante, richiamando folle
+a ogni [[Window|finestra]], e cacciando il traffico a destra e a sinistra.
+E ancora, attraverso tutta questa insana pubblicità, le tre carrozze arrancavano
+dietro di esso, finché non furono considerate parte di un corteo,
+e forse la réclame di un circo.  Andavano a una tale
+andatura che le distanze si accorciavano oltre ogni credere, e Syme vide
+la Albert Hall a Kensington quando credeva di essere ancora
+a Paddington.  L’andatura dell’animale era persino più rapida e libera
+per le vuote, aristocratiche vie di South Kensington,
+e alla fine puntò verso quella parte dell’orizzonte
+dove l’enorme [[Wheel|Ruota]] di Earl’s [[Court]] si ergeva nel cielo.
+La [[Wheel|ruota]] cresceva sempre più grande, finché non riempì il cielo come
+la [[Wheel|ruota]] delle [[Stars|stelle]].
+
+La bestia distanziò le carrozze.  Lo persero di vista a diversi angoli,
+e quando giunsero a uno dei cancelli dell’Esposizione di Earl’s [[Court]] si
+trovarono infine bloccati.  Davanti a loro c’era una folla enorme;
+in mezzo ad essa c’era un enorme elefante, che ansimava e fremeva come fanno tali
+creature informi.  Ma il Presidente era scomparso.
+
+«Dov’è andato?» chiese Syme, scivolando a terra.
+
+«Il gentiluomo si è precipitato dentro l’Esposizione, signore!» disse un funzionario
+in modo stordito.  Poi aggiunse con voce offesa:
+«Buffo gentiluomo, signore.  Mi ha chiesto di tenergli il [[Horse|cavallo]],
+e mi ha dato questo.»
+
+Porse con disgusto un pezzo di carta piegato, indirizzato:
+«Al Segretario del Consiglio Anarchico Centrale.»
+
+Il Segretario, infuriato, lo squarciò, e vi trovò scritto dentro:…
+
+  «Quando l’aringa corre un miglio,
+  Rida pure il Segretario;
+  Quando l’aringa prova a volare,
+  Muoia pure il Segretario.
+                  Proverbio campagnolo.»
+
+«Perché diavolo mai», cominciò il Segretario, «avete lasciato entrare quell’uomo?
+La gente viene forse comunemente alla vostra Esposizione a cavallo di elefanti impazziti?  Ma…»
+
+«Guardate!» gridò Syme d’improvviso.  «Guardate laggiù!»
+
+«Guardare che cosa?» chiese il Segretario ferocemente.
+
+«Guardate il pallone frenato!» disse Syme, e indicò in preda al furore.
+
+«Perché diamine dovrei guardare un pallone frenato?»
+domandò il Segretario.  «Che c’è di strano in
+un pallone frenato?»
+
+«Nulla», disse Syme, «se non che non è frenato!»
+
+Tutti volsero gli occhi là dove il pallone oscillava e si gonfiava
+sopra l’Esposizione a un filo, come il pallone di un [[Child|bambino]].
+Un attimo dopo il filo si spezzò in due proprio sotto la navicella,
+e il pallone, sciolto, se ne andò fluttuando con la [[Freedom|libertà]]
+di una bolla di sapone.
+
+«Diecimila diavoli!» strillò il Segretario.  «C’è salito dentro!»
+e agitò i pugni contro il cielo.
+
+Il pallone, portato da qualche [[Wind|vento]] casuale, giunse proprio sopra di loro,
+ed essi poterono vedere la grande testa bianca del Presidente sbirciare
+oltre il bordo e guardarli benevolmente dall’alto.
+
+«Dio benedica la mia [[Soul|anima]]!» disse [[The Professor|il Professore]] con quell’aria attempata che
+non riusciva mai a disgiungere dalla barba scolorita e dal volto pergamenaceo.
+«Dio benedica la mia [[Soul|anima]]!  M’è parso che qualcosa cadesse sulla cima
+del mio cappello!»
+
+Alzò una mano tremante e prese da quel ripiano un pezzo di carta attorcigliato,
+che aprì distrattamente solo per trovarlo iscritto con un vero nodo d’[[Lover|amante]]
+e le parole:…
+
+«La vostra [[Beauty|bellezza]] non mi ha lasciato indifferente. — Dalla PICCOLA CAMPANELLINA.»
+
+Ci fu un breve [[Silence|silenzio]], e poi Syme disse, mordendosi la barba…
+
+«Non sono ancora battuto.  Quel maledetto affare dovrà pur scendere da qualche parte.
+Seguiamolo!»

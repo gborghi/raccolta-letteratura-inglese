@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/innocence-(chesterton)">The Innocence of Father Brown</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/innocence/story_09_the_hammer_of_god/part_04">‹ part 04</a><a class="ex-next" href="/testi/chesterton/atomized/innocence/story_09_the_hammer_of_god/part_06">part 06 ›</a></div>
@@ -152,3 +154,152 @@ and villages below.  The whole atmosphere was dizzy and dangerous,
 as if men were upheld in air amid the gyrating wings of colossal genii;
 and the whole of that old church, as tall and rich as a cathedral,
 seemed to sit upon the sunlit country like a cloudburst.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/innocence-(chesterton)">The Innocence of Father Brown</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/innocence/story_09_the_hammer_of_god/part_04">‹ part 04</a><a class="ex-next" href="/testi/chesterton/atomized/innocence/story_09_the_hammer_of_god/part_06">part 06 ›</a></div>
+</nav>
+
+# [[innocence]] — Il martello di Dio (parte 5)
+
+L'ispettore rise amichevolmente e disse: «No, credo che possiate essere
+considerato fuori causa, per quanto sia una delle più bizzarre coincidenze
+che io abbia mai visto. Posso solo chiedervi di darci tutto l'aiuto
+che potete nel trovare un uomo grosso e forte quanto voi.
+Perbacco! potreste essere utile, non foss'altro che a tenerlo fermo!
+Suppongo che voi stesso non abbiate alcun sospetto sull'uomo?»
+
+«Potrei averne uno» disse il pallido fabbro, «ma non su
+un uomo.» Poi, vedendo gli occhi spaventati volgersi verso sua moglie
+sulla panca, le pose la sua enorme mano sulla spalla e disse:
+«E nemmeno su una donna.»
+
+«Che volete dire?» chiese l'ispettore in tono scherzoso.
+«Non penserete mica che le mucche usino i martelli, vero?»
+
+«Penso che nessuna cosa di carne abbia impugnato quel martello» disse il fabbro
+con voce soffocata; «mortalmente parlando, penso che l'uomo sia morto solo.»
+
+Wilfred fece un improvviso movimento in avanti e lo scrutò con occhi ardenti.
+
+«Volete dire, Barnes» giunse la voce tagliente del ciabattino,
+«che il martello sia balzato su da sé e abbia abbattuto l'uomo?»
+
+«Oh, voi signori potete strabuzzare gli occhi e sogghignare» gridò Simeon;
+«voi uomini di chiesa che ci raccontate la domenica in quale silenzio
+il Signore percosse Sennacherib. Io credo che Colui che cammina
+invisibile in ogni casa abbia difeso l'onore della mia, e steso
+il profanatore morto dinanzi alla sua porta. Io credo che la forza
+in quel colpo fosse proprio la forza che c'è nei terremoti,
+e non una forza minore.»
+
+Wilfred disse, con una voce assolutamente indescrivibile:
+«Io stesso avevo detto a Norman di guardarsi dal fulmine.»
+
+«Quell'agente è fuori dalla mia giurisdizione» disse l'ispettore
+con un lieve sorriso.
+
+«Voi non siete fuori dalla Sua» rispose il fabbro; «badateci»,
+e, voltando la sua larga schiena, entrò in casa.
+
+Lo scosso Wilfred fu condotto via da Father Brown, che aveva un fare
+disinvolto e cordiale con lui. «Usciamo da questo orribile luogo,
+signor Bohun» disse. «Posso dare un'occhiata dentro la vostra chiesa? Ho sentito che è
+una delle più antiche d'Inghilterra. Noi ci interessiamo un poco, sapete»,
+aggiunse con una comica smorfia, «delle vecchie chiese inglesi.»
+
+Wilfred Bohun non sorrise, poiché l'umorismo non fu mai il suo forte.
+Ma annuì piuttosto avidamente, essendo fin troppo pronto a illustrare gli splendori
+gotici a qualcuno più propenso a mostrarsi partecipe del presbiteriano
+fabbro o dell'ateo ciabattino.
+
+«Ma certamente» disse; «entriamo da questo lato.» E si mise
+alla testa verso l'alta entrata laterale in cima alla rampa di gradini.
+Father Brown stava salendo il primo gradino per seguirlo quando sentì una mano
+sulla spalla, e si voltò a scorgere la scura, magra figura del medico,
+il volto ancor più scuro di sospetto.
+
+«Signore» disse il medico aspramente, «voi pare che conosciate certi segreti in questa
+tenebrosa faccenda. Posso chiedervi se intendete tenerli per voi?»
+
+«Ebbene, dottore» rispose il prete, sorridendo assai piacevolmente,
+«c'è una ragione ottima perché un uomo del mio mestiere tenga
+le cose per sé quando non ne è certo, ed è che
+gli è tanto di frequente dovere tenerle per sé quando ne è certo.
+Ma se pensate che io sia stato scortesemente reticente
+con voi o con chiunque, andrò al limite estremo della mia abitudine.
+Vi darò due indizi assai grossi.»
+
+«Ebbene, signore?» disse il medico cupamente.
+
+«Primo» disse Father Brown tranquillamente, «la cosa è del tutto
+di vostra competenza. È una questione di scienza fisica.
+Il fabbro s'inganna, non forse nel dire che il colpo
+fu divino, ma certamente nel dire che venne per miracolo.
+Non fu miracolo, dottore, se non in quanto l'uomo è egli stesso
+un miracolo, col suo cuore strano e malvagio e pur mezzo eroico.
+La forza che fracassò quel cranio fu una forza ben nota agli scienziati:
+una delle più frequentemente dibattute fra le leggi della natura.»
+
+Il medico, che lo guardava con accigliata intensità, disse soltanto:
+«E l'altro indizio?»
+
+«L'altro indizio è questo» disse il prete. «Ricordate il fabbro,
+che, pur credendo ai miracoli, parlava sprezzantemente dell'impossibile favola
+secondo cui il suo martello aveva ali e volò per mezzo miglio attraverso la campagna?»
+
+«Sì» disse il medico, «lo ricordo.»
+
+«Ebbene» aggiunse Father Brown, con un largo sorriso, «quella favola
+è stata la cosa più vicina alla vera verità che sia stata detta oggi.»
+E con ciò voltò le spalle e salì zoppicando i gradini
+dietro il curato.
+
+Il reverendo Wilfred, che lo aveva atteso, pallido e impaziente,
+come se questo piccolo indugio fosse l'ultima goccia per i suoi nervi, lo condusse
+immediatamente al suo angolo prediletto della chiesa, quella parte della galleria
+più vicina al soffitto intagliato e illuminata dalla meravigliosa vetrata con l'angelo.
+Il piccolo prete latino esplorò e ammirò ogni cosa esaurientemente,
+parlando allegramente ma sempre a bassa voce. Quando nel corso
+della sua indagine trovò l'uscita laterale e la scala a chiocciola giù per la quale
+Wilfred si era precipitato a trovar morto il fratello, Father Brown corse
+non giù ma su, con l'agilità di una scimmia, e la sua voce chiara giunse
+da una piattaforma esterna, in alto.
+
+«Venite quassù, signor Bohun» chiamò. «L'aria vi farà bene.»
+
+Bohun lo seguì, e sbucò su una sorta di galleria o balcone di pietra
+all'esterno dell'edificio, dal quale si poteva vedere la sconfinata pianura in
+cui sorgeva la loro piccola collina, boscosa fino al purpureo orizzonte e punteggiata
+di villaggi e fattorie. Chiaro e squadrato, ma assai piccolo sotto di loro,
+era il cortile del fabbro, dove l'ispettore stava ancora prendendo appunti
+e il cadavere ancora giaceva come una mosca schiacciata.
+
+«Sembra la carta geografica del mondo, non è vero?» disse Father Brown.
+
+«Sì» disse Bohun assai gravemente, e annuì col capo.
+
+Immediatamente sotto e intorno a loro le linee dell'edificio gotico si tuffavano
+all'esterno nel vuoto con una vertiginosa rapidità affine al suicidio.
+Vi è quell'elemento di energia titanica nell'architettura del
+Medioevo, che, da qualunque lato la si guardi, sembra sempre
+precipitare via, come la robusta groppa di qualche cavallo impazzito.
+Questa chiesa era stata scavata da pietra antica e silente, barbuta di vecchie
+muffe e macchiata dai nidi degli uccelli. Eppure, quando la si vedeva
+dal basso, balzava come una fontana verso le stelle; e quando la si vedeva,
+come ora, dall'alto, si riversava come una cateratta in un pozzo senza voce.
+Poiché quei due uomini sulla torre erano rimasti soli con l'aspetto più terribile
+del gotico; i mostruosi scorci e le sproporzioni,
+le vertiginose prospettive, gli scorci di grandi cose fatte piccole e di piccole
+cose fatte grandi; un capovolgimento di pietra a mezz'aria. Dettagli di pietra,
+enormi per la loro prossimità, spiccavano contro un disegno di campi
+e fattorie, pigmei nella loro lontananza. Un uccello o una bestia intagliati a un angolo
+parevano qualche vasto drago che camminasse o volasse devastando i pascoli
+e i villaggi sottostanti. L'intera atmosfera era vertiginosa e pericolosa,
+come se gli uomini fossero sospesi nell'aria fra le rotanti ali di colossali geni;
+e l'intera vecchia chiesa, alta e ricca come una cattedrale,
+pareva posarsi sul paese assolato come un acquazzone.

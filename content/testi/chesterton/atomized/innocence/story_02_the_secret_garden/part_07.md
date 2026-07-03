@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/innocence-(chesterton)">The Innocence of Father Brown</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/innocence/story_02_the_secret_garden/part_06">‹ part 06</a><a class="ex-next" href="/testi/chesterton/atomized/innocence/story_03_the_queer_feet/part_01">part 01 ›</a></div>
@@ -151,3 +153,152 @@ of that upright and elegant back made the doctor run forward suddenly.
 A touch and a glance showed him that there was a small box of pills
 at Valentin's elbow, and that Valentin was dead in his chair;
 and on the blind face of the [[suicide]] was more than the [[Pride|pride]] of Cato.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/innocence-(chesterton)">The Innocence of Father Brown</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/innocence/story_02_the_secret_garden/part_06">‹ part 06</a><a class="ex-next" href="/testi/chesterton/atomized/innocence/story_03_the_queer_feet/part_01">part 01 ›</a></div>
+</nav>
+
+# [[innocence]] — Il [[Garden|Giardino]] segreto (parte 7)
+
+«[[Well|Bene]],» disse il dottore lentamente, «questo pare abbastanza
+plausibile. Ma le mie prossime due domande metteranno in imbarazzo chiunque.»
+
+Il prete rimase ancora a guardare criticamente fuori dalla [[Window|finestra]]
+e attese.
+
+«Sapete come tutto il [[Garden|giardino]] fosse sigillato come una camera
+ermetica,» proseguì il dottore. «[[Well|Bene]], come fece lo sconosciuto a
+entrare nel [[Garden|giardino]]?»
+
+Senza voltarsi, il pretino rispose: «Non ci fu mai alcuno sconosciuto nel
+[[Garden|giardino]].»
+
+Vi fu un [[Silence|silenzio]], e poi un'improvvisa risatina di riso quasi
+infantile alleviò la tensione. L'assurdità dell'osservazione di Brown spinse
+Ivan ad aperti dileggi.
+
+«Oh!» gridò; «allora non abbiamo trascinato un grosso e grasso cadavere su un
+divano ieri [[Night|notte]]? Non era entrato nel [[Garden|giardino]], suppongo?»
+
+«Entrato nel [[Garden|giardino]]?» ripeté Brown pensosamente. «No, non del
+tutto.»
+
+«Ma insomma,» gridò Simon, «un uomo entra in un [[Garden|giardino]], oppure no.»
+
+«Non necessariamente,» disse il prete, con un lieve sorriso. «Qual è la prossima
+domanda, dottore?»
+
+«Temo che siate malato,» esclamò il dottor Simon seccamente; «ma vi porrò la
+prossima domanda, se volete. Come fece Brayne a uscire dal [[Garden|giardino]]?»
+
+«Non uscì dal [[Garden|giardino]],» disse il prete, sempre guardando fuori
+dalla [[Window|finestra]].
+
+«Non uscì dal [[Garden|giardino]]?» esplose Simon.
+
+«Non completamente,» disse [[Father Brown]].
+
+Simon scosse i pugni in un frenesia di [[logic|logica]] francese. «Un uomo esce
+da un [[Garden|giardino]], oppure no,» gridò.
+
+«Non sempre,» disse [[Father Brown]].
+
+Il dottor Simon balzò in piedi con impazienza. «Non ho [[Time|tempo]] da perdere
+in simili discorsi insensati,» gridò con collera. «Se non riuscite a capire che
+un uomo sta da un lato o dall'altro di un muro, non vi disturberò oltre.»
+
+«Dottore,» disse il chierico assai gentilmente, «siamo sempre andati molto
+d'accordo. Se non altro per amore della vecchia [[Friendship|amicizia]],
+fermatevi e ditemi la vostra quinta domanda.»
+
+L'impaziente Simon sprofondò in una sedia presso la porta e disse breve: «La
+testa e le spalle erano tagliuzzate in modo strano. Pareva fosse stato fatto
+dopo la [[Death|morte]].»
+
+«Sì,» disse il prete immobile, «fu fatto così da indurvi ad assumere
+esattamente l'unica semplice falsità che avete assunto. Fu fatto per farvi dare
+per scontato che la testa appartenesse al [[Body|corpo]].»
+
+Il territorio di confine del cervello, dove si generano tutti i mostri, si mosse
+orribilmente nell'O'Brien gaelico. Sentì la caotica presenza di tutti gli
+uomini-[[Horse|cavallo]] e delle donne-pesce che la fantasia innaturale
+dell'uomo ha generato. Una voce più antica dei suoi primi padri parve dirgli
+all'orecchio: «Tieniti fuori dal mostruoso [[Garden|giardino]] dove cresce
+l'albero dal [[Double|duplice]] frutto. Evita il malvagio [[Garden|giardino]]
+dove morì l'uomo con due teste.» Eppure, mentre queste vergognose forme
+simboliche attraversavano l'antico [[Mirror|specchio]] della sua
+[[Soul|anima]] irlandese, il suo intelletto affrancesato era del tutto vigile,
+e osservava lo strano prete con la stessa attenzione incredula di tutti gli
+altri.
+
+[[Father Brown]] si era infine voltato, e stava in piedi contro la
+[[Window|finestra]], col volto in fitta [[Shadow|ombra]]; ma persino in
+quell'[[Shadow|ombra]] potevano vedere che era pallido come la cenere.
+Ciononostante, parlò in modo del tutto assennato, come se non ci fossero anime
+gaeliche sulla terra.
+
+«Signori,» disse, «voi non avete trovato lo strano [[Body|corpo]] di Becker nel
+[[Garden|giardino]]. Non avete trovato alcuno strano [[Body|corpo]] nel
+[[Garden|giardino]]. A dispetto del razionalismo del dottor Simon, io affermo
+ancora che Becker era presente solo in parte. Guardate qui!» (indicando la nera
+mole del misterioso cadavere) «voi non avete mai visto quest'uomo in vita
+vostra. Avete mai visto quest'altro?»
+
+Fece rapidamente rotolare via la calva testa gialla dello sconosciuto, e mise al
+suo posto la testa dalla candida chioma che le stava accanto. E là, completo,
+unificato, inconfondibile, giaceva Julius K. Brayne.
+
+«L'assassino,» proseguì Brown con calma, «mozzò la testa del suo nemico e gettò
+la [[Sword|spada]] lontano al di là del muro. Ma fu troppo scaltro per gettare
+soltanto la [[Sword|spada]]. Gettò al di là del muro anche la testa. Poi non
+ebbe che da appioppare un'altra testa al cadavere, e (dato che pretese
+un'inchiesta privata) tutti voi immaginaste un uomo completamente nuovo.»
+
+«Appioppare un'altra testa!» disse O'Brien fissandolo. «Quale altra testa? Le
+teste non crescono sui cespugli del [[Garden|giardino]], no?»
+
+«No,» disse [[Father Brown]] con voce roca, guardandosi le scarpe; «c'è un solo
+posto dove crescono. Crescono nel cesto della ghigliottina, accanto al quale il
+capo della polizia, Aristide Valentin, se ne stava non un'ora prima
+dell'omicidio. Oh, amici miei, ascoltatemi ancora un minuto prima di farmi a
+pezzi. Valentin è un uomo onesto, se essere pazzo per una causa discutibile è
+onestà. Ma non avete mai visto in quel suo occhio freddo e grigio che è pazzo?
+Farebbe qualsiasi cosa, qualsiasi cosa, per infrangere ciò che chiama la
+superstizione della [[Cross|Croce]]. Ha combattuto per essa e ha patito la fame
+per essa, e ora ha ucciso per essa. I folli milioni di Brayne erano finora stati
+dispersi fra tanti sette da fare ben poco per alterare l'equilibrio delle cose.
+Ma Valentin udì un bisbiglio che Brayne, come tanti scettici scervellati, stava
+scivolando verso di noi; e quella era una faccenda del tutto diversa. Brayne
+avrebbe riversato rifornimenti nell'impoverita e battagliera Chiesa di Francia;
+avrebbe sostenuto sei giornali nazionalisti come La Ghigliottina. La battaglia
+era già in bilico su un punto, e il fanatico prese fuoco al rischio. Decise di
+distruggere il milionario, e lo fece come ci si aspetterebbe che il più grande
+dei detective commetta il suo unico delitto. Sottrasse la testa recisa di Becker
+con qualche pretesto criminologico, e la portò a [[Home|casa]] nella sua
+cassetta ufficiale. Ebbe con Brayne quell'ultima discussione, di cui Lord
+Galloway non udì la fine; fallita quella, lo condusse fuori nel sigillato
+[[Garden|giardino]], parlò di scherma, si servì di ramoscelli e di una sciabola
+per illustrare, e...»
+
+Ivan della Cicatrice balzò in piedi. «Pazzo furioso,» sbraitò; «adesso vai dal
+mio padrone, o ti prendo per...»
+
+«Ma certo, ci stavo appunto andando,» disse Brown pesantemente; «devo
+chiedergli di confessare, e tutto il resto.»
+
+Sospingendo davanti a sé l'infelice Brown come un ostaggio o una vittima
+sacrificale, si precipitarono insieme nell'improvvisa immobilità dello studio
+di Valentin.
+
+Il grande [[Detective|detective]] sedeva alla scrivania, apparentemente troppo
+occupato per udire il loro turbolento ingresso. Si fermarono un istante, e poi
+qualcosa nell'aspetto di quella schiena eretta ed elegante fece sì che il dottore
+corresse avanti d'un tratto. Un tocco e un'occhiata gli mostrarono che c'era una
+piccola scatola di pillole al gomito di Valentin, e che Valentin era morto sulla
+sua sedia; e sul volto cieco del [[suicide|suicida]] c'era più che l'[[Pride|orgoglio]]
+di Catone.

@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/thursday-(chesterton)">The Man Who Was Thursday</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/thursday/chapter_12/part_03">‹ part 03</a><a class="ex-next" href="/testi/chesterton/atomized/thursday/chapter_12/part_05">part 05 ›</a></div>
@@ -150,3 +152,150 @@ We are the last of mankind."
   Light dies before thine uncreating word:
   Thy hand, great Anarch, lets the curtain fall;
   And universal darkness buries all.'"
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/thursday-(chesterton)">The Man Who Was Thursday</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/thursday/chapter_12/part_03">‹ part 03</a><a class="ex-next" href="/testi/chesterton/atomized/thursday/chapter_12/part_05">part 05 ›</a></div>
+</nav>
+
+# [[thursday]] — Capitolo 12 (parte 4)
+
+«Il dottor Bull», disse Syme con tono sardonico, «se l'è per lo meno cacciata dentro il cappello.»
+
+«Vi dico che è impossibile!» gridò il Colonnello, pestando i piedi.
+
+«Renard lo spiegherà. Lo spiegherà a me»,
+e si spinse in avanti.
+
+«Non abbiate tanta fretta», biascicò il fumatore. «Molto presto
+lo spiegherà a tutti quanti noi.»
+
+Ma l'impaziente Colonnello era già fuori portata di voce, e avanzava incontro
+al nemico che avanzava. L'eccitato dottor Renard sollevò di nuovo la sua [[Pistol|pistola]],
+ma, riconosciuto l'avversario, esitò, e il Colonnello gli si trovò faccia a faccia
+con frenetici gesti di rimostranza.
+
+«Non serve a nulla», disse Syme. «Non caverà mai niente
+da quel vecchio pagano. Propongo di sfondare di netto in mezzo
+al gruppo, di netto come le pallottole passarono attraverso il cappello di Bull.
+Potremo restarci tutti, ma dobbiamo abbatterne un bel numero.»
+
+«Non lo permetterò», disse il dottor Bull, facendosi più volgare nella sincerità
+della sua virtù. «I poveri diavoli potrebbero commettere un errore.
+Diamo una possibilità al Colonnello.»
+
+«Torniamo indietro, allora?» chiese [[The Professor|il Professore]].
+
+«No», disse Ratcliffe con voce gelida, «anche la strada dietro di noi è occupata.
+Anzi, mi pare di scorgere laggiù un altro vostro amico, Syme.»
+
+Syme si voltò di scatto e guardò indietro, verso il tratto
+che avevano percorso. Vide un [[Body|drappello]] disordinato di
+cavalieri che si raccoglieva e galoppava verso di loro nell'oscurità.
+Vide sopra la sella più avanzata il bagliore argenteo di una [[Sword|spada]],
+e poi, man mano che si avvicinava, il bagliore argenteo dei capelli di un vecchio.
+Un istante dopo, con violenza fragorosa, aveva sterzato l'automobile
+e l'aveva lanciata giù per la ripida stradina laterale verso il mare,
+come un uomo che non desiderasse altro che morire.
+
+«Che diavolo succede?» gridò [[The Professor|il Professore]], afferrandogli il braccio.
+
+«La stella del mattino è caduta!» disse Syme, mentre la propria auto scendeva
+nelle tenebre come una stella cadente.
+
+Gli altri non compresero le sue parole, ma quando volsero lo sguardo alla
+strada là sopra videro la cavalleria nemica sbucare dall'angolo
+e scendere lungo i pendii al loro inseguimento; e primo fra tutti cavalcava il buon locandiere,
+avvampato dall'ardente [[innocence|innocenza]] della luce serale.
+
+«Il mondo è impazzito!» disse [[The Professor|il Professore]], e affondò il viso
+tra le mani.
+
+«No», disse il dottor Bull in adamantina [[Humility|umiltà]], «sono io.»
+
+«Che cosa faremo?» chiese [[The Professor|il Professore]].
+
+«In questo momento», disse Syme, con distacco scientifico,
+«credo che stiamo per schiantarci contro un lampione.»
+
+L'istante successivo l'automobile si abbatté con urto catastrofico
+contro un oggetto di ferro. L'istante dopo, quattro uomini erano strisciati
+fuori da un caos di metallo, e un alto e sottile lampione che
+si era ergiuto ritto sull'orlo della passeggiata a mare spiccava,
+piegato e contorto, come il ramo di un albero spezzato.
+
+«[[Well|Be']], qualcosa l'abbiamo sfasciato», disse [[The Professor|il Professore]], con un pallido sorriso.
+«È già una consolazione.»
+
+«Stai diventando un anarchico», disse Syme, spazzolandosi i vestiti
+con il suo istinto di raffinatezza.
+
+«Lo sono tutti», disse Ratcliffe.
+
+Mentre parlavano, il cavaliere dai capelli bianchi e i suoi seguaci giunsero
+tuonando dall'alto, e quasi nello stesso istante una scura fila
+di uomini corse urlando lungo il fronte del mare. Syme afferrò una [[Sword|spada]],
+e la strinse fra i denti; se ne cacciò altre due sotto le ascelle,
+prese una quarta nella mano sinistra e la lanterna nella destra,
+e balzò giù dall'alta passeggiata sulla spiaggia sottostante.
+
+Gli altri balzarono dietro di lui, con una comune accettazione di un'azione tanto risoluta,
+lasciandosi alle spalle i rottami e la folla che si andava radunando là sopra.
+
+«Ci resta un'ultima possibilità», disse Syme, togliendosi l'acciaio dalla bocca.
+«Qualunque cosa significhi tutto questo pandemonio, suppongo che la stazione di polizia
+ci sarà d'aiuto. Non possiamo raggiungerla, perché tengono la via.
+Ma proprio qui c'è un pontile, o frangiflutti, che si spinge nel mare,
+e che potremmo difendere più a lungo di ogni altra cosa, come Orazio
+e il suo ponte. Dobbiamo difenderlo finché non accorre la Gendarmeria.
+State dietro a me.»
+
+Lo seguirono mentre scendeva scricchiolando lungo la spiaggia, e nel giro di un
+secondo o due i loro stivali non calpestarono più la ghiaia del mare, ma pietre larghe e piatte.
+Percorsero un lungo, basso molo, che si protendeva come un braccio nel mare
+scuro e ribollente, e quando ne raggiunsero l'estremità sentirono di essere
+giunti all'estremità della loro storia. Si voltarono e fronteggiarono la città.
+
+Quella città era trasfigurata dal frastuono. Lungo tutta l'alta passeggiata da
+cui erano appena discesi si stendeva un fiume oscuro e ruggente di umanità,
+con braccia agitate e volti infuocati, che brancolava e li fissava con occhi ardenti.
+La lunga linea scura era punteggiata di torce e lanterne; ma persino dove
+nessuna fiamma illuminava un volto furibondo, essi potevano scorgere nella figura più remota,
+nel gesto più indistinto, un odio organizzato. Era chiaro che essi
+erano i maledetti fra tutti gli uomini, e non sapevano perché.
+
+Due o tre uomini, piccoli e neri come scimmie,
+scavalcarono l'orlo come avevano fatto loro e si lasciarono cadere sulla spiaggia.
+Vennero avanti solcando la sabbia profonda, urlando orribilmente,
+e si sforzarono di inoltrarsi a caso nel mare. L'esempio fu seguito,
+e l'intera massa nera di uomini prese a correre e a gocciolare oltre l'orlo
+come nera melassa.
+
+Primo fra gli uomini sulla spiaggia, Syme vide il contadino che aveva guidato
+il loro carro. Sguazzava nella risacca su un enorme [[Horse|cavallo]] da tiro, e agitava
+la scure contro di loro.
+
+«Il contadino!» gridò Syme. «Non si sollevavano dai tempi del Medioevo.»
+
+«Anche se la polizia arrivasse adesso», disse [[The Professor|il Professore]] con voce afflitta,
+«non potrebbe far nulla contro questa folla.»
+
+«Sciocchezze!» disse Bull disperatamente; «ci devono essere delle persone
+rimaste in città che sono umane.»
+
+«No», disse l'Ispettore senza speranza, «l'essere umano sarà presto estinto.
+Noi siamo gli ultimi del genere umano.»
+
+«Può darsi», disse [[The Professor|il Professore]] distrattamente. Poi aggiunse con la sua voce sognante:
+«Come fa quel passo alla fine della "Dunciad"?
+
+  «"Non fiamma pubblica; né privata, osa splendere;
+  Non resta luce umana, né barlume divino!
+  Ecco! il tuo tremendo Impero, o Caos, è restaurato;
+  La luce muore innanzi alla tua parola che disfà:
+  La tua mano, grande Anarca, lascia calare il sipario;
+  E una tenebra universale seppellisce ogni cosa."»

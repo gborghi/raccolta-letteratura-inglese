@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/everlasting-man-(chesterton)">The Everlasting Man</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/everlasting_man/chapter_02/part_38">‹ part 38</a><a class="ex-next" href="/testi/chesterton/atomized/everlasting_man/chapter_02/part_40">part 40 ›</a></div>
@@ -147,3 +149,146 @@ calculation about livelihood but to an elemental outlook upon life.
 They all come back to what a man fundamentally feels, when he looks
 forth from those strange windows which we call the eyes, upon that
 strange vision that we call the world.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/everlasting-man-(chesterton)">The Everlasting Man</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/everlasting_man/chapter_02/part_38">‹ part 38</a><a class="ex-next" href="/testi/chesterton/atomized/everlasting_man/chapter_02/part_40">part 40 ›</a></div>
+</nav>
+
+Non può esistere altrimenti, o almeno non può durare, perché il puro pensiero
+non resta sano di mente. In un certo senso diventa troppo semplice per essere sano.
+La [[Temptation|tentazione]] dei filosofi è la semplicità, più che la sottigliezza.
+Sono sempre attratti da semplificazioni folli, come gli uomini sospesi sopra
+gli abissi restano affascinati dalla [[Death|morte]] e dal nulla e dall'aria vuota.
+Ci volle un altro genere di filosofo per stare sospeso sul pinnacolo
+del Tempio e mantenere l'equilibrio senza gettarsi giù.
+Una di queste spiegazioni ovvie, di queste spiegazioni troppo ovvie, è che tutto
+sia [[A Dream|un sogno]] e un'illusione e che nulla esista al di fuori dell'io.
+Un'altra è che tutte le cose ritornano; un'altra ancora, che si dice buddhista
+ed è certamente orientale, è l'idea che ciò che c'è di sbagliato
+in noi sia la nostra creazione, nel senso della nostra differenziazione colorata
+e della nostra personalità, e che nulla andrà [[Well|bene]] finché non saremo di nuovo fusi
+in un'unica [[unity|unità]]. Secondo questa teoria, in breve, la Creazione fu la Caduta.
+Essa è importante storicamente perché fu custodita nel cuore oscuro
+dell'Asia e ne uscì in vari tempi e in varie forme
+oltre i confini indistinti dell'Europa. Qui possiamo collocare la misteriosa
+figura di Mani o Manicheo, il mistico dell'inversione, che noi
+chiameremmo pessimista, padre di molte sette ed eresie;
+qui, in un luogo più alto, la figura di Zoroastro. Egli è stato
+popolarmente identificato con un'altra di queste spiegazioni troppo semplici:
+l'uguaglianza di male e bene, in equilibrio e in lotta dentro ogni atomo.
+Anch'egli appartiene alla scuola di sapienti che si possono chiamare mistici;
+e dallo stesso misterioso [[Garden|giardino]] persiano venne su ponderose
+ali Mitra, il dio ignoto, a turbare l'ultimo crepuscolo di Roma.
+
+Quel cerchio o disco del sole innalzato nel mattino del mondo dal
+remoto egiziano è stato uno [[Mirror|specchio]] e un modello per tutti i filosofi.
+Ne hanno tratto molte cose, e talvolta ne sono impazziti,
+specialmente quando, come in questi sapienti orientali, il cerchio divenne una [[Wheel|ruota]]
+che girava e rigirava nelle loro teste. Ma il punto che li riguarda
+è che tutti pensano che l'esistenza possa essere rappresentata da un diagramma
+anziché da un disegno; e i rozzi disegni degli infantili creatori di miti
+sono una sorta di grezza e vivace protesta contro quella concezione.
+Non riescono a credere che la religione non sia davvero uno schema, ma un quadro.
+E ancor meno riescono a credere che sia il quadro di qualcosa che
+esiste realmente al di fuori delle nostre menti. Talvolta la [[philosophy|filosofia]] dipinge
+il disco tutto nero e si chiama pessimista; talvolta lo dipinge
+tutto bianco e si chiama ottimista; talvolta lo divide
+esattamente in due metà di nero e di bianco e si chiama dualista,
+come quei mistici persiani ai quali vorrei avere spazio per rendere giustizia.
+Nessuno di loro poté comprendere una cosa che cominciava a tracciare le proporzioni
+proprio come se fossero proporzioni reali, disposte in quel modo vivo
+che il disegnatore matematico chiamerebbe sproporzionato.
+Come il primo [[Artist|artista]] nella [[Cave|caverna]], essa rivelò a occhi increduli
+il suggerimento di un nuovo intento in ciò che sembrava uno schema
+follemente storto; sembrava soltanto deformare il proprio diagramma,
+quando cominciò per la prima [[Time|volta]] in tutte le età a tracciare le linee
+di una forma—e di un Volto.
+
+* * *
+
+VII
+
+LA GUERRA DEGLI DEI E DEI DEMONI
+
+La teoria materialistica della [[history|storia]], secondo cui tutta la politica e l'etica
+non sono che l'espressione dell'economia, è davvero un'assai semplice fallacia.
+Consiste semplicemente nel confondere le condizioni necessarie della vita con
+le preoccupazioni normali della vita, che sono cosa del tutto diversa.
+È come dire che, poiché un uomo può camminare soltanto su due gambe,
+egli perciò non cammina mai se non per comprare scarpe e calze.
+L'uomo non può vivere senza i due sostegni del cibo e della bevanda,
+che lo reggono come due gambe; ma suggerire che essi siano
+stati i moventi di tutti i suoi movimenti nella [[history|storia]] è come dire
+che la meta di tutte le sue marce militari o dei suoi pellegrinaggi religiosi
+debba essere stata la Gamba d'Oro di Miss Kilmansegg oppure la gamba ideale e
+perfetta di Sir Willoughby Patterne. Ma sono proprio tali movimenti
+che compongono la storia dell'umanità, e senza di essi non vi sarebbe
+in pratica alcuna storia. Le mucche possono essere puramente economiche,
+nel senso che non riusciamo a vedere che facciano molto oltre al brucare
+e al cercare pascoli migliori; ed è per questo che una [[history|storia]]
+delle mucche in dodici volumi non sarebbe una lettura molto avvincente.
+Le pecore e le capre possono essere puri economisti almeno nella loro azione
+esteriore; ma è per questo che la pecora non è quasi mai stata l'[[Hero|eroe]]
+di guerre [[Epic|epiche]] e di imperi ritenuti degni di dettagliata narrazione;
+e persino il più attivo quadrupede non ha ispirato un libro per ragazzi
+intitolato Aurei Gesti di Galanti Capre o un qualsiasi titolo simile.
+Ma, ben lungi dall'essere economici i movimenti che compongono la storia dell'uomo,
+possiamo dire che la storia comincia soltanto là dove il movente
+delle mucche e delle pecore [[Leaves|cessa]]. Sarà difficile sostenere
+che i Crociati abbiano lasciato le loro case per una landa ululante
+perché le mucche vanno da una landa a un pascolo più comodo.
+Sarà difficile sostenere che gli esploratori artici siano andati a nord
+con lo stesso movente materiale che spinse le rondini ad andare a sud.
+E se togliete dalla storia umana cose come tutte le guerre di religione e tutte
+le esplorazioni meramente avventurose, essa non solo
+cesserà di essere umana, ma cesserà del tutto di essere una storia.
+Il profilo della [[history|storia]] è fatto di queste curve e di questi angoli decisivi
+determinati dalla volontà dell'uomo. Una [[history|storia]] economica non
+sarebbe nemmeno [[history|storia]].
+
+Ma vi è una fallacia più profonda oltre a questo fatto ovvio: che gli uomini
+non devono vivere per il cibo solo perché non possono vivere senza il cibo.
+La [[Truth|verità]] è che ciò che è più presente alla mente dell'uomo non
+è la macchina economica necessaria alla sua esistenza, ma piuttosto
+l'esistenza stessa; il mondo che egli vede quando si sveglia ogni
+mattina e la [[Nature|natura]] della sua posizione generale in esso. C'è
+qualcosa che gli è più vicino del sostentamento, ed è la vita.
+Perché, una volta che ricorda esattamente quale lavoro produce il suo salario
+ed esattamente quale salario produce i suoi pasti, egli riflette dieci volte
+che è una bella giornata, o che è un mondo strano, o si chiede se
+la vita valga la pena di essere vissuta, o si chiede se il [[Marriage|matrimonio]] sia un fallimento,
+o è compiaciuto e stupito dei suoi stessi figli, o ricorda la
+propria giovinezza, o in qualche simile maniera passa vagamente in rassegna il misterioso
+destino dell'uomo. Questo è vero anche per la maggior parte degli schiavi del salario
+del nostro morboso industrialismo moderno, che con la sua bruttezza
+e disumanità ha davvero spinto la questione economica in primo piano.
+È incomparabilmente più vero per la moltitudine di contadini
+o di cacciatori o di pescatori che costituiscono la vera massa dell'umanità.
+Persino quei aridi pedanti che pensano che l'etica dipenda dall'economia
+devono ammettere che l'economia dipende dall'esistenza. E un numero qualsiasi
+di normali dubbi e di sogni [[Dreams|ad occhi aperti]] riguarda l'esistenza; non come noi
+possiamo vivere, ma perché lo facciamo. E la prova di ciò è semplice;
+semplice come il [[suicide|suicidio]]. Capovolgi l'universo nella mente
+e capovolgerai con esso tutti gli economisti politici.
+Supponi che un uomo desideri morire, e [[The Professor|il professore]] di economia
+politica diventa piuttosto noioso con le sue elaborate spiegazioni
+su come egli debba vivere. E tutte le partenze e le decisioni
+che fanno del nostro passato umano una storia hanno questo carattere di
+deviare il corso diretto della pura economia. Come l'economista
+può essere dispensato dal calcolare il salario futuro di un [[suicide|suicida]],
+così può essere dispensato dal fornire una pensione di vecchiaia a un martire.
+Come non deve provvedere al futuro di un martire, così non deve provvedere
+alla famiglia di un monaco. Il suo piano è modificato in gradi minori e variabili
+dal fatto che un uomo sia un soldato e muoia per la propria patria,
+dal fatto che un uomo sia un contadino e ami in modo particolare la propria terra, dal fatto che un uomo
+sia più o meno influenzato da una qualche religione che gli vieta o gli permette
+di fare questo o quello. Ma tutte queste cose non riconducono a un calcolo
+economico sul sostentamento, bensì a uno sguardo elementare sulla vita.
+Riconducono tutte a ciò che un uomo sente fondamentalmente, quando guarda
+fuori da quelle strane finestre che chiamiamo occhi, verso quella
+strana visione che chiamiamo il mondo.

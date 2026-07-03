@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/wifrb11-(chesterton)">The Wisdom of Father Brown</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/wifrb11/story_01_the_absence_of_mr_glass/part_01">‹ part 01</a><a class="ex-next" href="/testi/chesterton/atomized/wifrb11/story_01_the_absence_of_mr_glass/part_03">part 03 ›</a></div>
@@ -118,3 +120,32 @@ She had sea-blown blonde hair, and would have been entirely beautiful
 if her cheek-bones had not been, in the Scotch manner, a little
 high in relief as well as in colour.  Her apology was almost as abrupt
 as a command.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/wifrb11-(chesterton)">The Wisdom of Father Brown</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/wifrb11/story_01_the_absence_of_mr_glass/part_01">‹ part 01</a><a class="ex-next" href="/testi/chesterton/atomized/wifrb11/story_01_the_absence_of_mr_glass/part_03">part 03 ›</a></div>
+</nav>
+
+# [[wifrb11]] — L'assenza del signor Glass (parte 2)
+
+     Il piccolo ecclesiastico di nome Brown lo ringraziò con incontestabile calore, ma pur sempre con una bizzarra specie di semplicità. Era piuttosto come se stesse ringraziando uno sconosciuto in una sala fumatori per il disturbo di passargli i fiammiferi, anziché come se stesse (com'era in realtà) ringraziando praticamente il Curatore dei Kew Gardens per essere andato con lui in un campo a cercare un quadrifoglio. Con appena un punto e virgola dopo i suoi calorosi ringraziamenti, l'omino diede inizio al suo racconto:
+
+     «Vi ho detto che mi chiamo Brown; [[Well|be']], questo è il fatto, e sono il prete della piccola [[Catholic Church|Chiesa cattolica]] che oserei dire avete visto oltre quelle vie sparpagliate, dove la città finisce verso nord. Nell'ultima e più sparpagliata di quelle vie che corre lungo il mare come una diga c'è una parrocchiana molto onesta ma piuttosto d'umore pungente, una vedova di nome MacNab. Ha una figlia, e affitta camere, e tra lei e la figlia, e tra lei e i pigionanti — [[Well|be']], oserei dire che ci sarebbe molto da dire dall'una e dall'altra parte. Al momento ha un solo pigionante, il giovane di nome Todhunter; ma costui le ha dato più grattacapi di tutti gli altri messi insieme, perché vuole sposare la giovane di [[house|casa]].»
+
+     «E la giovane di [[house|casa]]», chiese il dottor Hood, con enorme e silenzioso divertimento, «lei che cosa vuole?»
+
+     «Ma, vuole sposarlo», esclamò [[Father Brown|Padre Brown]], drizzandosi sulla sedia con ardore. «È proprio questa la terribile complicazione.»
+
+     «È in effetti un enigma spaventoso», disse il dottor Hood.
+
+     «Questo giovane James Todhunter», proseguì il chierico, «è un uomo assai perbene per quanto ne so; ma poi nessuno ne sa granché. È un tipetto sveglio, bruniccio, agile come una scimmia, sbarbato come un attore e ossequioso come un cortigiano nato. Sembra avere le tasche piene di denaro, ma nessuno sa quale sia il suo mestiere. La signora MacNab, perciò (essendo di indole pessimista), è convintissima che sia qualcosa di terribile, e probabilmente collegato con la dinamite. La dinamite dev'essere di specie schiva e silenziosa, perché il poveretto non fa che chiudersi dentro per parecchie ore del giorno a studiare qualcosa dietro una porta serrata. Egli dichiara che la sua segretezza è temporanea e giustificata, e promette di spiegarsi prima delle nozze. Questo è tutto ciò che chiunque sappia per certo, ma la signora MacNab vi racconterà assai più di quanto perfino lei sappia per certo. Sapete come crescono le dicerie, simili all'erba, su una tale chiazza d'ignoranza. Si racconta di due voci udite conversare nella stanza; eppure, quando la porta si apre, Todhunter è sempre trovato [[Alone|solo]]. Si racconta di un misterioso uomo alto in cilindro di seta, che una volta uscì dalle nebbie marine e in apparenza dal mare stesso, avanzando lieve attraverso i campi sabbiosi e per il piccolo [[Garden|giardino]] sul retro al crepuscolo, finché lo si udì conversare col pigionante alla sua [[Window|finestra]] aperta. Il colloquio parve concludersi in un litigio. Todhunter abbassò con violenza la propria [[Window|finestra]], e l'uomo dall'alto cappello si dissolse di nuovo nella nebbia del mare. Questa storia è narrata dalla famiglia con la più fiera [[Mystification|perplessità]]; ma io credo davvero che la signora MacNab preferisca la sua versione originale: che l'Altro Uomo (o qualunque cosa sia) esca strisciando ogni [[Night|notte]] dalla grande cassa nell'angolo, che di giorno è tenuta sempre chiusa a chiave. Vedete, dunque, come questa porta sigillata di Todhunter sia trattata come la soglia di tutte le fantasie e mostruosità delle "Mille e una notte". Eppure ecco lì il tipetto nel suo rispettabile giacchino nero, puntuale e innocente come un orologio da salotto. Paga l'affitto al secondo; è praticamente astemio; è instancabilmente gentile con i bambini più piccoli, e sa tenerli divertiti per un giorno intero; e, ultima e più pressante cosa di tutte, si è reso ugualmente popolare presso la figlia maggiore, che è pronta ad andare in chiesa con lui domani.»
+
+     Un uomo caldamente preso da qualche vasta teoria ha sempre il gusto di applicarla a qualunque inezia. Il grande specialista, essendosi degnato di scendere alla semplicità del prete, si degnò espansivamente. Si accomodò con agio nella poltrona e cominciò a parlare col tono di un conferenziere alquanto sovrappensiero:
+
+     «Anche nel più minuscolo caso, è meglio guardare prima alle tendenze principali della Natura. Un particolare fiore può non essere morto ai primi del verno, ma i fiori stanno morendo; un particolare ciottolo può non essere mai bagnato dalla marea, ma la marea sta salendo. All'occhio scientifico tutta la storia umana è una serie di movimenti collettivi, distruzioni o migrazioni, come il massacro delle mosche d'inverno o il ritorno degli uccelli in primavera. Ora, il fatto radicale in tutta la storia è la Razza. La Razza produce religione; la Razza produce guerre legali ed etiche. Non c'è caso più forte di quello del ceppo selvaggio, ultraterreno e morente che comunemente chiamiamo i Celti, di cui i vostri amici MacNab sono esemplari. Piccoli, olivastri e di questo sangue sognante e vagabondo, essi accettano con facilità la spiegazione superstiziosa di qualunque accadimento, così come accettano tuttora (mi scuserete se lo dico) quella spiegazione superstiziosa di tutti gli accadimenti che voi e la vostra Chiesa rappresentate. Non è cosa notevole che simile gente, col mare che geme alle loro spalle e la Chiesa (scusatemi di nuovo) che salmodia dinanzi a loro, metta tratti fantastici in ciò che sono probabilmente semplici eventi. Voi, con le vostre piccole responsabilità parrocchiali, vedete soltanto questa particolare signora MacNab, atterrita da questa particolare storia di due voci e di un uomo alto uscito dal mare. Ma l'uomo dotato d'immaginazione scientifica vede, per così dire, l'intera stirpe dei MacNab sparsa per il mondo intero, nella sua media ultima uniforme come una tribù di uccelli. Egli vede migliaia di signore MacNab, in migliaia di case, versare la loro gocciolina di morbosità nelle tazze di tè delle loro amiche; egli vede...»
+
+     Prima che lo scienziato potesse concludere la frase, un altro e più impaziente richiamo risuonò dall'esterno; qualcuno con un fruscio di gonne fu condotto in fretta lungo il corridoio, e la porta si aprì su una giovane fanciulla, decorosamente vestita ma scompigliata e rovente per la fretta. Aveva capelli biondi scompigliati dal vento del mare, e sarebbe stata del tutto bella se gli zigomi non fossero stati, alla maniera scozzese, un po' troppo sporgenti in rilievo oltre che in colore. Le sue scuse furono quasi altrettanto brusche di un ordine.

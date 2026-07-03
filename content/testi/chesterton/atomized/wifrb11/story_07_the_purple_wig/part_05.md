@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/wifrb11-(chesterton)">The Wisdom of Father Brown</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/wifrb11/story_07_the_purple_wig/part_04">‹ part 04</a><a class="ex-next" href="/testi/chesterton/atomized/wifrb11/story_08_the_perishing_of_the_pendragons/part_01">part 01 ›</a></div>
@@ -114,3 +116,114 @@ automatically and by force of habit, altered the word "God"
 to the word "circumstances."
 
                                  EIGHT
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/wifrb11-(chesterton)">The Wisdom of Father Brown</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/wifrb11/story_07_the_purple_wig/part_04">‹ part 04</a><a class="ex-next" href="/testi/chesterton/atomized/wifrb11/story_08_the_perishing_of_the_pendragons/part_01">part 01 ›</a></div>
+</nav>
+
+# [[wifrb11]] — La parrucca purpurea (parte 5)
+
+     «Vi risparmio», disse il Duca con voce d'una pietà disumana.
+«Rifiuto. Se vi dessi il più tenue accenno del carico d'orrore
+che devo portare da solo, giacereste urlando a questi miei piedi
+implorando di non sapere altro. Vi risparmierò l'accenno.
+Non compiterete la prima lettera di ciò che è scritto sull'altare
+del Dio Ignoto».
+
+     «Io conosco il Dio Ignoto», disse il piccolo prete, con
+un'inconsapevole grandezza di certezza che si ergeva come una torre di granito.
+«Conosco il suo nome; è Satana. Il vero Dio si fece carne
+e abitò tra noi. E vi dico che, ovunque troviate uomini governati
+unicamente dal mistero, è il mistero dell'iniquità. Se il diavolo
+vi dice che qualcosa è troppo spaventoso da guardare, guardatela.
+Se dice che qualcosa è troppo terribile da udire, uditela. Se ritenete
+qualche verità insopportabile, sopportatela. Supplico Vostra Grazia di porre fine
+a questo incubo, ora e qui a questo tavolo».
+
+     «Se lo facessi», disse il Duca a bassa voce, «voi e tutto ciò in cui credete,
+e tutto ciò per cui soltanto vivete, sareste i primi ad avvizzire e perire.
+Avreste un istante per conoscere il grande Nulla prima di morire».
+
+     «La Croce di Cristo sia tra me e il male», disse Padre Brown.
+«Toglietevi la parrucca».
+
+     Ero chino sul tavolo in un'eccitazione incontrollabile;
+ascoltando questo straordinario duello, mezza idea mi era
+balenata in testa. «Vostra Grazia», gridai, «vi sfido a mostrare le carte.
+Toglietevi quella parrucca o gliela farò saltar via io».
+
+     Suppongo di poter essere perseguito per aggressione, ma sono ben lieto
+d'averlo fatto. Quando egli disse, con la medesima voce di pietra, «Rifiuto»,
+gli piombai semplicemente addosso. Per tre lunghi istanti egli resistette contro di me
+come se avesse tutto l'inferno in suo aiuto; ma gli forzai il capo finché
+il berretto peloso non gli cadde. Ammetto che, mentre lottavo,
+chiusi gli occhi quando cadde.
+
+     Fui destato da un grido di Mull, che a quel punto era anch'egli
+al fianco del Duca. La sua testa e la mia erano entrambe chine sopra
+la testa calva del Duca senza parrucca. Poi il silenzio fu spezzato
+dal bibliotecario che esclamava: «Che cosa può significare? Ma quest'uomo non aveva
+nulla da nascondere. Le sue orecchie sono proprio come quelle di tutti gli altri».
+
+     «Sì», disse Padre Brown, «è questo che aveva da nascondere».
+
+     Il prete gli si avvicinò dritto, ma, cosa abbastanza strana,
+non gettò nemmeno un'occhiata alle sue orecchie. Fissò con una serietà quasi comica
+la fronte calva di lui, e indicò una cicatrice a tre punte,
+da tempo rimarginata, ma ancora discernibile. «Il signor Green, immagino»,
+disse cortesemente, «e in fin dei conti l'intera proprietà se l'è presa davvero».
+
+     E ora lasciate che dica ai lettori del Daily Reformer
+ciò che ritengo la cosa più notevole dell'intera vicenda.
+Questa scena di trasformazione, che vi parrà tanto stravagante e purpurea
+quanto una fiaba persiana, è stata (a parte la mia aggressione tecnica)
+rigorosamente legale e costituzionale fin dai suoi primi inizi.
+Quest'uomo dalla strana cicatrice e dalle orecchie ordinarie non è un impostore.
+Benché (in un certo senso) porti la parrucca d'un altro uomo e rivendichi
+l'orecchio d'un altro uomo, non ha rubato la corona d'un altro uomo.
+È davvero l'unico e solo Duca di Exmoor. Ecco che cosa accadde.
+Il vecchio Duca aveva davvero una lieve malformazione dell'orecchio, che davvero
+era più o meno ereditaria. Ne era davvero morbosamente ossessionato;
+ed è assai probabile che egli l'abbia invocata come una sorta di maledizione
+nella scena violenta (che senza dubbio avvenne) in cui colpì
+Green con la caraffa. Ma la contesa finì assai diversamente.
+Green fece valere la sua rivendicazione e ottenne le proprietà; il nobile spossessato
+si sparò e morì senza eredi. Dopo un decoroso intervallo
+il bel Governo inglese fece rivivere il titolo nobiliare «estinto» di Exmoor,
+e lo conferì, com'è d'uso, alla persona più importante,
+la persona che aveva ottenuto le proprietà.
+
+     Quest'uomo si servì delle vecchie favole feudali --e, come si conviene, nella sua anima snob
+davvero le invidiava e le ammirava. Cosicché migliaia di poveri inglesi
+tremavano davanti a un misterioso capo dall'antico destino e
+da un diadema di stelle maligne --mentre in realtà tremano davanti
+a uno straccione che era un azzeccagarbugli e un usuraio meno di dodici anni fa.
+Lo ritengo assai tipico del vero atto d'accusa contro la nostra aristocrazia com'è,
+e come sarà finché Dio non ci manderà uomini più valorosi.
+
+     Mr Nutt posò il manoscritto e chiamò con insolita
+asprezza: «Miss Barlow, prenda per favore una lettera per Mr Finn».
+
+     CARO FINN, --Devi essere impazzito; non possiamo toccare questa roba. Volevo vampiri
+e i cattivi tempi antichi e l'aristocrazia a braccetto con la superstizione.
+Quella roba piace. Ma devi ben sapere che gli Exmoor non perdonerebbero mai questo.
+E che cosa direbbe allora la nostra gente, vorrei saperlo! Ma insomma, Sir Simon
+è uno dei più grandi amiconi di Exmoor; e rovinerebbe quel cugino
+degli Eyre che si candida per noi a Bradford. Per giunta, il vecchio Schiuma-di-Sapone
+era già abbastanza inviperito per non aver ottenuto il suo titolo nobiliare l'anno scorso; mi licenzierebbe per telegramma
+se glielo facessi perdere con una follia come questa. E che ne facciamo di Duffey?
+Ci sta scrivendo certi articoli coi fiocchi su «Il Tallone del Normanno».
+E come può scrivere di Normanni se quell'uomo è soltanto un procuratore?
+Sii ragionevole. --Tuo, E. NUTT.
+
+     Mentre Miss Barlow batteva via allegramente, egli accartocciò la copia
+e la gettò nel cestino della carta straccia; ma non prima d'aver,
+automaticamente e per forza d'abitudine, mutato la parola «Dio»
+nella parola «circostanze».
+
+                                 OTTO

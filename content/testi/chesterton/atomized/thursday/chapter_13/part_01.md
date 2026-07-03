@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/thursday-(chesterton)">The Man Who Was Thursday</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/thursday/chapter_12/part_05">‹ part 05</a><a class="ex-next" href="/testi/chesterton/atomized/thursday/chapter_13/part_02">part 02 ›</a></div>
@@ -156,3 +158,156 @@ Look at my face."
 "I dare say it's the sort of face that grows on one," said the President,
 "in fact, it grows on you; and who am I to quarrel with the wild fruits
 upon the Tree of Life?  I dare say it will grow on me some day."
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/thursday-(chesterton)">The Man Who Was Thursday</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/thursday/chapter_12/part_05">‹ part 05</a><a class="ex-next" href="/testi/chesterton/atomized/thursday/chapter_13/part_02">part 02 ›</a></div>
+</nav>
+
+# [[thursday]] — Capitolo 13 (parte 1)
+
+                         CAPITOLO XIII
+
+                L’INSEGUIMENTO DEL PRESIDENTE
+
+IL mattino seguente cinque persone sbalordite ma ilari presero il battello
+per Dover.  Il povero vecchio Colonnello avrebbe forse avuto qualche motivo
+di lagnarsi, essendo stato dapprima costretto a battersi per due fazioni
+che non esistevano, e poi steso a terra con una lanterna di ferro.
+Ma era un vecchio gentiluomo magnanimo, e assai
+sollevato che nessuna delle due parti avesse a che fare con la dinamite,
+li accompagnò con grande cordialità sul molo.
+
+I cinque detective riconciliati avevano cento particolari da spiegarsi
+a vicenda.  Il Segretario dovette raccontare a Syme come fossero giunti
+a portare le maschere in origine, per avvicinare il presunto
+nemico da compagni cospiratori.
+
+Syme dovette spiegare come fossero fuggiti con tanta rapidità
+attraverso un paese civile.  Ma al di sopra di tutti questi particolari
+che si potevano spiegare, [[Rose|si ergeva]] la montagna centrale
+della faccenda, quella che non si poteva spiegare.  Che cosa significava tutto ciò?
+Se erano tutti innocui funzionari, che cos’era [[Sunday]]?  Se non
+si era impadronito del mondo, che diamine aveva combinato?
+L’ispettore Ratcliffe rimaneva cupo su questo punto.
+
+«Non ci capisco un’acca del giochetto del vecchio [[Sunday]], più di quanto ci capiate voi»,
+disse.  «Ma qualunque cosa sia [[Sunday]], di certo non è un cittadino irreprensibile.
+Diavolo! vi ricordate la sua faccia?»
+
+«Vi concedo», rispose Syme, «che non sono mai riuscito a dimenticarla.»
+
+«[[Well|Ebbene]]», disse il Segretario, «suppongo che potremo saperlo presto,
+perché domani abbiamo la nostra prossima riunione generale.  Mi scuserete»,
+disse, con un sorriso piuttosto spettrale, «se conosco [[Well|bene]]
+i miei doveri di segretario.»
+
+«Suppongo che abbiate ragione», disse [[The Professor|il Professore]] pensoso.
+«Suppongo che potremmo saperlo da lui; ma confesso che
+avrei un po’ paura a chiedere a [[Sunday]] chi sia realmente.»
+
+«Perché», domandò il Segretario, «per [[Fear|paura]] delle bombe?»
+
+«No», disse [[The Professor|il Professore]], «per [[Fear|paura]] che me lo dica.»
+
+«Beviamo qualcosa», disse il dottor Bull, dopo un [[Silence|silenzio]].
+
+Durante tutto il [[Journey|viaggio]] in battello e in treno furono
+oltremodo festosi, ma istintivamente rimasero uniti.
+Il dottor Bull, che era sempre stato l’ottimista della compagnia,
+si sforzò di persuadere gli altri quattro che l’intera
+brigata potesse prendere lo stesso hansom da Victoria;
+ma la proposta fu respinta, e andarono con una carrozza a quattro ruote,
+col dottor Bull a cassetta, che cantava.  Conclusero il loro [[Journey|viaggio]]
+in un albergo di Piccadilly Circus, così da essere vicini alla prima
+colazione, l’indomani mattina, a Leicester Square.  Eppure persino
+allora le avventure della giornata non erano del tutto finite.
+Il dottor Bull, scontento della proposta generale di andare a letto,
+era uscito a passeggio dall’albergo verso le undici per vedere e assaporare
+qualcuna delle bellezze di [[London|Londra]].  Venti minuti dopo,
+tuttavia, tornò e fece un gran baccano nell’atrio.
+Syme, che dapprima tentò di calmarlo, alla fine fu costretto
+ad ascoltare la sua comunicazione con un’attenzione affatto nuova.
+
+«Vi dico che l’ho visto!» disse il dottor Bull, con enfasi impastata.
+
+«Chi?» chiese Syme in fretta.  «Non il Presidente?»
+
+«Non così grave», disse il dottor Bull, con una risata superflua,
+«non così grave.  L’ho qui.»
+
+«Chi hai qui?» chiese Syme spazientito.
+
+«L’uomo peloso», disse l’altro lucidamente, «l’uomo che era
+l’uomo peloso… Gogol.  Eccolo qui», e trascinò avanti per un
+gomito riluttante l’identico giovane che cinque giorni prima era
+uscito marciando dal Consiglio con radi capelli rossi e il volto pallido,
+il primo di tutti i finti anarchici che erano stati smascherati.
+
+«Perché vi impicciate con me?» gridò.  «Mi avete espulso come spia.»
+
+«Siamo tutti spie!» sussurrò Syme.
+
+«Siamo tutti spie!» gridò il dottor Bull.  «Vieni a bere qualcosa.»
+
+Il mattino seguente il battaglione dei sei riuniti marciò impassibile
+verso l’albergo di Leicester Square.
+
+«Questo è più allegro», disse il dottor Bull; «siamo sei uomini che vanno
+a chiedere a un uomo che cosa vuol dire.»
+
+«Credo sia una faccenda un po’ più strana», disse Syme.  «Credo
+siano sei uomini che vanno a chiedere a un uomo che cosa vogliono dire loro.»
+
+Svoltarono in [[Silence|silenzio]] nella piazza, e sebbene
+l’albergo fosse nell’angolo opposto, videro subito
+il piccolo balcone e una figura che pareva troppo grande per esso.
+Sedeva [[Alone|solo]] a capo chino, chinato su un giornale.
+Ma tutti i suoi consiglieri, che erano venuti a metterlo in minoranza,
+attraversarono quella piazza come se fossero spiati dal cielo
+da cento occhi.
+
+Avevano molto discusso sulla loro tattica, se cioè
+dovessero lasciare fuori il Gogol smascherato e cominciare diplomaticamente,
+oppure introdurlo e far saltare la polvere da sparo all’istante.
+Prevalse l’influenza di Syme e di Bull per quest’ultima soluzione,
+benché il Segretario chiedesse loro fino all’ultimo perché attaccassero
+[[Sunday]] con tanta avventatezza.
+
+«La mia ragione è semplicissima», disse Syme.  «Lo attacco avventatamente
+perché ho paura di lui.»
+
+Seguirono Syme su per la buia scala in [[Silence|silenzio]], e sbucarono tutti
+simultaneamente nell’ampia luce del sole del mattino e nell’ampia
+luce del sole del sorriso di [[Sunday]].
+
+«Delizioso!» disse.  «Così lieto di vedervi tutti.
+Che giornata squisita.  È morto lo Zar?»
+
+Il Segretario, che si trovava per caso in prima fila, si raccolse
+per una dignitosa sfuriata.
+
+«No, signore», disse severamente, «non c’è stato alcun massacro.
+Non vi reco notizia di simili disgustosi spettacoli.»
+
+«Disgustosi spettacoli?» ripeté il Presidente, con un sorriso vivace
+e indagatore.  «Intendete gli occhiali del dottor Bull?»
+
+Il Segretario s’intruppò per un momento, e il Presidente proseguì con una sorta
+di suadente appello…
+
+«Certo, tutti abbiamo le nostre opinioni e persino i nostri occhi,
+ma dirli davvero disgustosi davanti all’uomo stesso…»
+
+Il dottor Bull si strappò gli occhiali e li spezzò sul tavolo.
+
+«I miei occhiali sono da furfante», disse, «ma io no.
+Guardate la mia faccia.»
+
+«Direi che è il tipo di faccia che finisce col piacere», disse il Presidente,
+«anzi, cresce su di voi; e chi sono io per litigare coi frutti selvatici
+dell’Albero della Vita?  Direi che un giorno finirà col piacere anche a me.»

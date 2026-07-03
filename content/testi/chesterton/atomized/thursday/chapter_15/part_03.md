@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/thursday-(chesterton)">The Man Who Was Thursday</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/thursday/chapter_15/part_02">‹ part 02</a><span></span></div>
@@ -112,3 +114,112 @@ unforeseeable denouement will prove for the modern reader, as it has
 for thousands of others since 1908 when the book was first published,
 an inevitable and moving experience, as the investigators finally
 discover who [[Sunday]] is.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/thursday-(chesterton)">The Man Who Was Thursday</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/thursday/chapter_15/part_02">‹ part 02</a><span></span></div>
+</nav>
+
+# [[thursday]] — Capitolo 15 (parte 3)
+
+Syme balzò in piedi, tremando da capo a piedi.
+
+«Io vedo ogni cosa», gridò, «ogni cosa che esiste.
+Perché ogni cosa sulla terra fa guerra a ogni altra cosa?
+Perché ogni piccola cosa nel mondo deve lottare contro
+il mondo stesso?  Perché una mosca deve combattere l'intero universo?
+Perché un soffione deve combattere l'intero universo?
+Per la stessa ragione per cui io dovetti essere [[Alone|solo]] nel terribile
+Consiglio dei Giorni.  Affinché ogni cosa che obbedisce alla legge
+possa avere la gloria e l'isolamento dell'anarchico.
+Affinché ogni uomo che combatte per l'ordine possa essere un uomo tanto prode e buono
+quanto il dinamitardo.  Affinché la vera menzogna di [[Satan|Satana]] possa essere
+scagliata in faccia a questo bestemmiatore, affinché con [[Tears|lacrime]]
+e tortura possiamo guadagnarci il diritto di dire a quest'uomo: "Tu menti!"
+Nessuna agonia può essere troppo grande per comprare il diritto di dire a questo accusatore:
+"Anche noi abbiamo sofferto".
+
+«Non è vero che non siamo mai stati infranti.  Siamo stati
+spezzati sulla [[Wheel|ruota]].  Non è vero che non siamo mai
+discesi da questi troni.  Siamo discesi all'inferno.
+Ci lagnavamo di indimenticabili miserie proprio nel momento
+in cui quest'uomo entrò insolentemente ad accusarci di felicità.
+Respingo la calunnia; noi non siamo stati felici.  Posso rispondere
+per ciascuna delle grandi guardie della Legge ch'egli ha accusato.
+Almeno...»
+
+Aveva volto gli occhi in modo da veder d'un tratto il grande volto di [[Sunday|Domenica]],
+che portava uno strano sorriso.
+
+«Hai tu», gridò con voce terribile, «hai tu mai sofferto?»
+
+Mentre fissava, il grande volto crebbe a una dimensione spaventosa, crebbe più grande
+della colossale maschera di Memnone, che lo aveva fatto gridare da [[Child|bambino]].
+Crebbe sempre più grande, riempiendo l'intero cielo; poi tutto si fece nero.
+Solo nella tenebra, prima che gli distruggesse del tutto il cervello, gli parve di udire
+una voce lontana che diceva un testo banale che aveva udito da qualche parte:
+«Potete voi bere il calice ch'io bevo?»
+
+                         *    *    *
+
+Quando gli uomini nei libri si destano da una visione, comunemente si trovano
+in qualche luogo in cui avrebbero potuto addormentarsi;
+sbadigliano su una sedia, o si sollevano con le membra ammaccate
+da un campo.  L'esperienza di Syme fu qualcosa di assai più
+psicologicamente strano, se pure c'era davvero qualcosa d'irreale,
+in senso terreno, nelle cose che aveva attraversato.
+Poiché, mentre poteva sempre ricordare in seguito d'essere
+svenuto davanti al volto di [[Sunday|Domenica]], non poteva ricordare d'essersi
+mai riavuto affatto.  Poteva soltanto ricordare che gradualmente
+e naturalmente seppe che stava, e che era stato, camminando lungo
+una viottola di campagna con un compagno disinvolto e conversevole.
+Quel compagno era stato parte del suo recente dramma; era
+il poeta dai capelli rossi Gregory.  Camminavano come vecchi amici,
+ed erano nel mezzo di una conversazione su qualche inezia.
+Ma Syme poteva soltanto sentire un'innaturale leggerezza nel suo [[Body|corpo]]
+e una cristallina semplicità nella sua mente che pareva superiore
+a tutto ciò che diceva o faceva.  Sentiva d'essere in possesso
+di qualche impossibile buona novella, che rendeva ogni altra cosa
+un'inezia, ma un'inezia adorabile.
+
+L'[[Dawn|alba]] spuntava su ogni cosa in colori insieme chiari e timidi;
+come se la [[Nature|Natura]] facesse un primo tentativo di giallo e un primo tentativo di [[Rose|rosa]].
+Spirava una brezza così pura e dolce che non si sarebbe potuto pensare ch'essa
+spirasse dal cielo; spirava piuttosto attraverso qualche foro nel cielo.
+Syme provò una semplice sorpresa quando vide sorgere tutt'intorno a lui su entrambi
+i lati della [[Road|strada]] i rossi, irregolari edifici di Saffron Park.  Non aveva
+idea d'aver camminato tanto vicino a [[London|Londra]].  Camminò d'istinto
+lungo una bianca [[Road|strada]], su cui i primi [[Birds|uccelli]] saltellavano e cantavano, e si trovò
+fuori da un [[Garden|giardino]] recintato.  Là vide la sorella di Gregory,
+la ragazza dai capelli d'oro rosso, che recideva lillà prima di colazione,
+con la grande, inconsapevole gravità di una ragazza.
+
+FINE
+
+      UN RACCONTO SFRENATO, FOLLE, ESILARANTE E PROFONDAMENTE COMMOVENTE
+
+                  L'UOMO CHE FU [[thursday|GIOVEDÌ]]
+
+                      di G. K. Chesterton
+
+              autore dei racconti di [[Father Brown]]
+
+È assai difficile classificare L'UOMO CHE FU [[thursday|GIOVEDÌ]].  È possibile
+dire che è un'avvincente storia d'avventura di criminali assassini
+e brillanti poliziotti; ma c'era da aspettarsi che l'autore dei
+racconti di [[Father Brown]] raccontasse una storia [[Detective|poliziesca]] come nessun altro.
+A questo livello, dunque, L'UOMO CHE FU [[thursday|GIOVEDÌ]] riesce superbamente;
+se non altro, è un magnifico tour-de-force di scrittura di suspense.
+
+Tuttavia, il lettore scoprirà presto che è molto più di questo.
+Trascinato dall'impetuoso slancio della narrazione dal
+meraviglioso stile brioso di Chesterton, vedrà presto d'essere
+condotto in acque assai più profonde di quanto avesse previsto; e il tutto
+imprevedibile scioglimento si rivelerà per il lettore moderno, come si è rivelato
+per migliaia di altri dal 1908, quando il libro fu pubblicato per la prima volta,
+un'esperienza inevitabile e commovente, allorché gli investigatori finalmente
+scoprono chi sia [[Sunday|Domenica]].

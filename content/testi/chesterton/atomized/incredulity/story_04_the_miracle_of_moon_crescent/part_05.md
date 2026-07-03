@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/incredulity-(chesterton)">Incredulity</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/incredulity/story_04_the_miracle_of_moon_crescent/part_04">‹ part 04</a><a class="ex-next" href="/testi/chesterton/atomized/incredulity/story_04_the_miracle_of_moon_crescent/part_06">part 06 ›</a></div>
@@ -142,3 +144,58 @@ you all worked up about some story of a dreadful death and judgement;
 but I'm going to leave him and his religion out of it altogether.
 If Wynd came out of that room, somebody let him out.  And if Wynd was
 found hanging on that tree, somebody hung him there.'
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/incredulity-(chesterton)">Incredulity</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/incredulity/story_04_the_miracle_of_moon_crescent/part_04">‹ part 04</a><a class="ex-next" href="/testi/chesterton/atomized/incredulity/story_04_the_miracle_of_moon_crescent/part_06">part 06 ›</a></div>
+</nav>
+
+«Devo confessare», disse Fenner, accigliato verso il tavolo, «che le previsioni di sua reverenza sembrano essere state ben fondate. Non so se abbia qualcos'altro da dirci.»
+
+«Potrebbe forse dirci», intervenne Vandam, sardonico, «che diavolo dovremmo fare adesso.»
+
+Il piccolo prete parve accettare la situazione con modestia, ma anche con concretezza. «L'unica cosa che mi viene in mente», disse, «è anzitutto avvertire le autorità del posto, e poi vedere se ci siano altre tracce del mio uomo, quello che ha sparato con la pistola. È sparito all'altra estremità del Crescent, dove c'è il giardinetto. Là ci sono delle panchine, ed è un luogo prediletto dai vagabondi.»
+
+Le consultazioni dirette con la direzione dell'albergo, che condussero a consultazioni indirette con le autorità di polizia, li occuparono per un tempo considerevole; ed era già calata la notte quando uscirono sotto la lunga, classica curva del colonnato. Il Crescent appariva freddo e vuoto come la luna da cui prendeva nome, e la luna stessa sorgeva luminosa ma spettrale dietro le nere cime degli alberi, mentre svoltavano l'angolo presso il giardinetto pubblico. La notte velava gran parte di ciò che nel luogo era meramente urbano e artificiale, e via via che si fondevano nell'ombra degli alberi provarono la strana sensazione di aver percorso all'improvviso molte centinaia di miglia lontano dalle proprie case. Dopo aver camminato per un poco in silenzio, Alboin, che aveva in sé qualcosa di elementare, esplose di colpo.
+
+«Mi arrendo», gridò; «getto la spugna. Non avrei mai creduto di arrivare a cose simili; ma che si fa quando le cose arrivano a te? Le chiedo scusa, padre Brown; credo proprio che passerò dalla vostra parte, per quel che riguarda lei e le sue favole. D'ora in poi, io sto con le favole. Ma via, lei stesso ha detto, signor Vandam, di essere ateo e di credere soltanto a ciò che vede. Bene, che cosa ha visto? O piuttosto: che cosa non ha visto?»
+
+«Lo so», disse Vandam, e annuì cupo.
+
+«Oh, è in parte tutta questa faccenda della luna e degli alberi che dà ai nervi», disse Fenner ostinato. «Gli alberi hanno sempre un'aria strana al chiaro di luna, con i rami che si contorcono come se strisciassero. Guardate quello là...»
+
+«Sì», disse [[Father Brown|padre Brown]], fermandosi immobile e scrutando la [[Moon|luna]] attraverso un groviglio di alberi. «È un ramo davvero molto strano, lassù.»
+
+Quando riprese a parlare, disse soltanto: «Credevo fosse un ramo spezzato.»
+
+Ma questa [[Time|volta]] c'era nella sua voce un'esitazione che, senza spiegazione, gelò il sangue a chi lo ascoltava. Qualcosa che assomigliava piuttosto a un ramo secco pendeva infatti, in modo floscio, dall'albero che si stagliava scuro contro la [[Moon|luna]]; ma non era un ramo secco. Quando gli si avvicinarono per vedere di che si trattasse, Fenner scattò di nuovo indietro con una bestemmia squillante. Poi accorse di nuovo e allentò una corda dal collo del misero corpicino che penzolava, con i suoi ciuffi cadenti di capelli grigi. In qualche modo seppe che quel [[Body|corpo]] era un [[Body|corpo]] senza vita prima ancora di riuscire a tirarlo giù dall'albero. Una lunghissima matassa di corda era avvolta più e più volte intorno ai rami, e un tratto relativamente breve pendeva dalla biforcazione del ramo fino al [[Body|corpo]]. Un lungo mastello da [[Garden|giardino]] era rotolato un metro o poco più da sotto i piedi, come lo sgabello scalciato via da sotto i piedi di un [[suicide|suicida]].
+
+«Oh, mio Dio!», disse Alboin, in modo che parve tanto una preghiera quanto una bestemmia. «Che cosa aveva detto di lui, quell'uomo?... "Se sapesse, sarebbe pronto a impiccarsi." Non era così che aveva detto, [[Father Brown|padre Brown]]?»
+
+«Sì», disse padre Brown.
+
+«[[Well|Ebbene]]», disse Vandam con voce cava, «non avrei mai creduto di vedere o dire una cosa simile. Ma che cosa si può dire, se non che la maledizione ha funzionato?»
+
+Fenner stava in piedi con le mani a coprirsi il volto; e il prete gli posò una mano sul braccio e disse, con dolcezza: «Gli voleva molto bene?»
+
+Il segretario lasciò cadere le mani, e il suo volto bianco era spettrale sotto la luna.
+
+«Lo odiavo a morte», disse; «e se è morto per una maledizione, poteva ben essere la mia.»
+
+La stretta della mano del prete sul suo braccio si fece più salda; e il prete disse, con una gravità che fino a quel momento non aveva quasi mai mostrato: «Non è stata la sua maledizione; si consoli, la prego.»
+
+La polizia del distretto ebbe non poche difficoltà a trattare con i quattro testimoni coinvolti nel caso. Erano tutti persone rispettabili, e persino attendibili nel senso comune del termine; e uno di loro era un personaggio di notevole potere e importanza: Silas Vandam dell'Oil Trust. Il primo agente di polizia che tentò di esprimere scetticismo sul suo racconto trasse scintille dall'acciaio della mente di quel magnate assai rapidamente, in verità.
+
+«Non venga a parlarmi di attenersi ai fatti», disse il milionario con asprezza. «Io mi sono attenuto a un bel po' di fatti prima ancora che lei nascesse, e qualcuno di quei fatti si è attenuto a me. Le darò i fatti come si deve, se avrà il buon senso di trascriverli correttamente.»
+
+L'agente in questione era giovane e di grado subalterno, e aveva la vaga idea che il milionario fosse troppo influente in politica per essere trattato come un comune cittadino; così passò lui e i suoi compagni a un superiore più flemmatico, un certo ispettore Collins, un uomo brizzolato dal modo di parlare torvamente bonario, come chi è cordiale ma non tollera sciocchezze.
+
+«[[Well|Bene]], [[Well|bene]]», disse, guardando le tre figure davanti a sé con occhi scintillanti, «pare proprio una storia piuttosto buffa, questa.»
+
+Padre Brown era già andato ad occuparsi delle sue faccende quotidiane; ma Silas Vandam aveva sospeso perfino i giganteschi affari dei mercati per un'oretta o giù di lì, per testimoniare la sua straordinaria esperienza. L'attività di Fenner come segretario era in un certo senso cessata con la vita del suo datore di lavoro; e il grande Art Alboin, non avendo alcun affare né a New York né altrove, tranne la diffusione della religione del Soffio della Vita, ovvero del Grande Spirito, non aveva in quel momento nulla che lo distogliesse dalla vicenda immediata. Così se ne stavano schierati in fila nell'ufficio dell'ispettore, pronti a confermarsi a vicenda.
+
+«Allora, è meglio che le dica subito, tanto per cominciare», disse l'ispettore allegramente, «che non serve a niente venire da me con storie di miracoli. Io sono un uomo pratico e un poliziotto, e quella roba lì va benissimo per i preti e i pastori. Questo vostro prete pare avervi messo tutti in agitazione con non so quale storia di una morte spaventosa e di un castigo divino; ma io ho intenzione di lasciare completamente da parte lui e la sua religione. Se Wynd è uscito da quella stanza, qualcuno ce l'ha fatto uscire. E se Wynd è stato trovato appeso a quell'albero, qualcuno ce l'ha appeso.»

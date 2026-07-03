@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/thursday-(chesterton)">The Man Who Was Thursday</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/thursday/chapter_10/part_03">‹ part 03</a><a class="ex-next" href="/testi/chesterton/atomized/thursday/chapter_10/part_05">part 05 ›</a></div>
@@ -150,3 +152,150 @@ and half his face.
 The head which emerged was the blonde, [[Well|well]] brushed,
 smooth-haired head which is common in the English constabulary,
 but the face was terribly pale.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/thursday-(chesterton)">The Man Who Was Thursday</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/thursday/chapter_10/part_03">‹ part 03</a><a class="ex-next" href="/testi/chesterton/atomized/thursday/chapter_10/part_05">part 05 ›</a></div>
+</nav>
+
+# [[thursday]] — Capitolo 10 (parte 4)
+
+Riprese a battersi con una levità [[Supernatural|soprannaturale]], come un maomettano
+ansante per il Paradiso.  Man mano che il treno si avvicinava sempre più, gli parve di
+vedere gente che innalzava gli archi floreali a [[Paris|Parigi]]; si univa al crescente
+frastuono e alla gloria della grande Repubblica la cui porta egli custodiva
+contro l'Inferno.  I suoi pensieri [[Rose|salivano]] sempre più in alto col crescente boato
+del treno, che si concluse, quasi con fierezza, in un lungo e acuto fischio.
+Il treno si fermò.
+
+D'improvviso, con stupore di tutti, il Marchese balzò
+indietro del tutto fuori dalla portata della [[Sword|spada]] e gettò a terra la propria [[Sword|spada]].
+Il balzo fu prodigioso, e non meno prodigioso perché Syme
+un attimo prima gli aveva conficcato la [[Sword|spada]] nella coscia.
+
+«Fermo!» disse il Marchese con una voce che impose una momentanea obbedienza.
+«Voglio dire una cosa.»
+
+«Che cosa succede?» chiese il colonnello Ducroix, sbarrando gli occhi.
+«C'è stato un gioco scorretto?»
+
+«C'è stato un gioco scorretto da qualche parte», disse il dottor Bull, che era
+un po' pallido.  «Il nostro principale ha ferito il Marchese almeno quattro volte,
+e lui non ne ha risentito affatto.»
+
+Il Marchese alzò la mano con una curiosa aria di spettrale pazienza.
+
+«Vi prego, lasciatemi parlare», disse.  «È piuttosto importante.
+Signor Syme», proseguì, rivolgendosi al suo avversario, «noi ci battiamo
+oggi, se ben ricordo, perché voi avete espresso
+il desiderio (che ho ritenuto irrazionale) di tirarmi il naso.
+Vorreste farmi la cortesia di tirarmi il naso ora, il più in fretta possibile?
+Devo prendere un treno.»
+
+«Protesto: questo è quanto mai irregolare», disse il dottor Bull con indignazione.
+
+«È certamente alquanto contrario ai precedenti», disse il colonnello Ducroix,
+guardando con rimpianto il proprio principale.  «Vi è, credo, un caso registrato
+(il capitano Bellegarde e il barone Zumpt) in cui le armi furono cambiate
+nel mezzo dello scontro su richiesta di uno dei combattenti.
+Ma difficilmente si può chiamare arma il proprio naso.»
+
+«Volete o non volete tirarmi il naso?» disse il Marchese
+esasperato.  «Su, su, signor Syme!  Volevate farlo, fatelo!
+Non potete avere idea di quanto sia importante per me.
+Non siate così egoista!  Tiratemi il naso subito, quando ve lo chiedo!»
+e si sporse leggermente in avanti con un sorriso affascinante.
+Il treno per [[Paris|Parigi]], ansante e gemente, era entrato stridendo in una piccola
+stazione dietro la vicina [[Hill|collina]].
+
+Syme provò la sensazione che aveva provato più di una volta in queste avventure...
+il senso che un'onda orribile e [[Sublime|sublime]], sollevata fino al cielo, stesse per
+rovesciarsi.  Camminando in un mondo che comprendeva a metà, mosse due
+passi avanti e afferrò il naso romano di questo straordinario nobiluomo.
+Lo tirò con forza, e gli rimase in mano.
+
+Rimase per alcuni secondi con una sciocca solennità, la proboscide
+di cartapesta ancora tra le dita, a guardarla,
+mentre il sole e le nubi e le colline boscose guardavano dall'alto
+questa scena imbecille.
+
+Il Marchese ruppe il [[Silence|silenzio]] con voce forte e allegra.
+
+«Se qualcuno ha bisogno del mio sopracciglio sinistro», disse,
+«se lo può prendere.  Colonnello Ducroix, accettate il mio sopracciglio sinistro!
+È il genere di cosa che potrebbe tornar utile un giorno o l'altro»,
+e con gravità si strappò uno dei suoi bruni sopraccigli assiri,
+portandosi via circa metà della bruna fronte, e cortesemente lo offrì
+al Colonnello, che stava paonazzo e ammutolito dalla rabbia.
+
+«Se avessi saputo», balbettò, «di fare da padrino a un vigliacco che si imbottisce
+per battersi...»
+
+«Oh, lo so, lo so!» disse il Marchese, gettando sconsideratamente
+varie parti di sé a destra e a sinistra per il campo.
+«State commettendo un errore; ma non lo si può spiegare adesso.
+Vi dico che il treno è entrato in stazione!»
+
+«Sì», disse il dottor Bull con fierezza, «e il treno uscirà dalla stazione.
+Uscirà senza di voi.  Sappiamo [[Well|bene]] a quale opera diabolica...»
+
+Il misterioso Marchese levò le mani con gesto disperato.
+Era un bizzarro spaventapasseri, ritto lì al sole con metà del suo vecchio volto
+scrostata, e mezzo un altro volto che sogghignava e ghignava di sotto.
+
+«Volete farmi impazzire?» gridò.  «Il treno...»
+
+«Non partirete col treno», disse Syme con fermezza, e afferrò la propria [[Sword|spada]].
+
+La selvaggia figura si volse verso Syme, e parve raccogliersi
+per uno sforzo [[Sublime|sublime]] prima di parlare.
+
+«Grande grasso, maledetto, cisposo, pasticcione, tonante, decerebrato,
+scellerato, rimbambito, dannato [[Fool|sciocco]] che non siete altro!» disse tutto d'un fiato.
+«Grande stupida rapa dalla faccia rosea e dalla zucca stopposa!  Voi...»
+
+«Non partirete con questo treno», ripeté Syme.
+
+«E perché diavolo mai», ruggì l'altro, «dovrei voler
+partire col treno?»
+
+«Sappiamo tutto», disse [[The Professor|il Professore]] severamente.  «State andando a [[Paris|Parigi]]
+per lanciare una bomba!»
+
+«Sto andando a Gerico per lanciare un Ciarlestrone!» gridò l'altro, strappandosi i capelli,
+che vennero via con facilità.
+
+«Avete tutti un rammollimento del cervello, che non capite
+che cosa sono?  Credevate davvero che volessi prendere quel treno?
+Venti treni per [[Paris|Parigi]] potrebbero passare, per quel che me ne importa.  Al diavolo i treni per [[Paris|Parigi]]!»
+
+«E allora che cosa vi premeva?» cominciò [[The Professor|il Professore]].
+
+«Che cosa mi premeva?  Non mi premeva di prendere il treno;
+mi premeva se il treno prendesse me, e ora, per Dio! mi
+ha preso.»
+
+«Mi rincresce informarvi», disse Syme con misura,
+«che le vostre osservazioni non trasmettono alcuna impressione alla mia mente.
+Forse, se voleste rimuovere i resti della vostra fronte originaria
+e qualche porzione di ciò che un tempo era il vostro mento, il vostro significato
+si farebbe più chiaro.  La lucidità mentale si compie in molti modi.
+Che cosa intendete dicendo che il treno vi ha preso?
+Sarà la mia fantasia letteraria, ma in qualche modo sento che dovrebbe
+voler dire qualcosa.»
+
+«Vuol dire tutto», disse l'altro, «e la fine di tutto.
+[[Sunday|Domenica]] ci tiene ora nel cavo della sua mano.»
+
+«Ci?» ripeté [[The Professor|il Professore]], come istupidito.  «Che cosa intendete con "ci"?»
+
+«La polizia, naturalmente!» disse il Marchese, e si strappò lo scalpo
+e mezza faccia.
+
+La testa che ne emerse era la testa bionda, [[Well|ben]] pettinata,
+dai capelli lisci, comune nella polizia inglese,
+ma il volto era terribilmente pallido.

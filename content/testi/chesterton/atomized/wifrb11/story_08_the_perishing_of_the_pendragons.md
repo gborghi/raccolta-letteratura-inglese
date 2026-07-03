@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/wifrb11-(chesterton)">The Wisdom of Father Brown</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/wifrb11/story_07_the_purple_wig">‹ Story 07 The Purple Wig</a><a class="ex-next" href="/testi/chesterton/atomized/wifrb11/story_09_the_god_of_the_gongs">Story 09 The God of the Gongs ›</a></div>
@@ -787,3 +789,228 @@ And he closed his eyes.
 He received no answer:  Father Brown was asleep.
 
                                  NINE
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/wifrb11-(chesterton)">The Wisdom of Father Brown</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/wifrb11/story_07_the_purple_wig">‹ Story 07 The Purple Wig</a><a class="ex-next" href="/testi/chesterton/atomized/wifrb11/story_09_the_god_of_the_gongs">Story 09 The God of the Gongs ›</a></div>
+</nav>
+
+# [[wifrb11]] — La fine dei Pendragon
+
+                    La fine dei Pendragon
+
+PADRE BROWN non era affatto disposto alle avventure. Da poco si era ammalato per il troppo lavoro, e quando cominciò a rimettersi, il suo amico Flambeau lo aveva portato in crociera su un piccolo panfilo insieme a Sir Cecil Fanshaw, un giovane possidente della Cornovaglia entusiasta dei paesaggi costieri della sua terra. Ma Brown era ancora piuttosto debole; non era un marinaio molto felice; e per quanto non fosse di quelli che brontolano o si abbattono, il suo umore non si sollevava oltre la pazienza e la cortesia. Quando gli altri due lodavano il tramonto violaceo e frastagliato o le frastagliate rupi vulcaniche, egli conveniva con loro. Quando Flambeau gli additava uno scoglio a forma di drago, egli lo guardava e pensava che somigliasse davvero a un drago. Quando Fanshaw, più eccitato, gli indicava uno scoglio che somigliava a Merlino, egli lo guardava e assentiva. Quando Flambeau gli chiedeva se quella rocciosa porta del fiume tortuoso non fosse la porta del Paese delle Fate, rispondeva «Sì». Udiva le cose più importanti e le più insignificanti con la medesima insipida assorta attenzione. Udì che quella costa era mortale per tutti tranne che per i marinai prudenti; udì anche che il gatto di bordo dormiva. Udì che Fanshaw non riusciva a trovare da nessuna parte il suo bocchino da sigaro; udì anche il pilota pronunciare l'oracolo: «Occhi due che brillano bene, la nave va; un occhio che ammicca, e la nave affonda». Udì Flambeau dire a Fanshaw che, senza dubbio, ciò significava che il pilota doveva tenere entrambi gli occhi aperti ed essere sveglio. E udì Fanshaw dire a Flambeau che, per quanto strano, non significava questo: significava che finché vedevano due dei fanali della costa, uno vicino e l'altro lontano, esattamente affiancati, erano nel giusto canale del fiume; ma che se un fanale restava nascosto dietro l'altro, andavano a sbattere contro gli scogli. Udì Fanshaw aggiungere che il suo paese era pieno di siffatte pittoresche favole e locuzioni; era la patria stessa del romanzesco; e giunse persino a contrapporre quella parte della Cornovaglia al Devonshire, come pretendente agli allori della marineria elisabettiana. A suo dire, fra quelle cale e quegli isolotti c'erano stati capitani al cui confronto Drake era praticamente un uomo di terraferma. Udì Flambeau ridere e chiedere se, per caso, l'avventuroso titolo di «Westward Ho!» non volesse dire soltanto che tutti gli uomini del Devonshire avrebbero voluto vivere in Cornovaglia. Udì Fanshaw dire che non c'era bisogno di fare lo sciocco; che non solo i capitani della Cornovaglia erano stati eroi, ma che lo erano tuttora: che proprio lì presso viveva un vecchio ammiraglio, ora in congedo, segnato dalle cicatrici di viaggi avventurosi e pieni di emozioni; e che in gioventù aveva scoperto l'ultimo gruppo di otto isole del Pacifico aggiunto alla carta del mondo. Questo Cecil Fanshaw era, di persona, del tipo che comunemente professa simili entusiasmi rozzi ma piacevoli; un uomo giovanissimo, dai capelli chiari, dal colorito acceso, dal profilo ardente; con una spavalderia fanciullesca di spirito, ma una delicatezza quasi femminea di tinta e di lineamenti. Le grandi spalle, le sopracciglia nere e la nera spavalderia da moschettiere di Flambeau facevano gran contrasto.
+
+     Tutte queste inezie Brown le udiva e le vedeva; ma le udiva come un uomo stanco ode un motivo nelle ruote del treno, o le vedeva come un malato vede il disegno della sua carta da parati. Nessuno può calcolare i mutamenti d'umore nella convalescenza: ma la depressione di Padre Brown doveva avere molto a che fare con la sua semplice estraneità al mare. Poiché, man mano che la foce del fiume si restringeva come il collo di una bottiglia, e l'acqua si faceva più tranquilla e l'aria più tiepida e più terrestre, egli parve destarsi e prender nota di ogni cosa come un bambino. Erano giunti a quella fase, subito dopo il tramonto, in cui l'aria e l'acqua appaiono entrambe luminose, ma la terra e tutte le cose che vi crescono appaiono, al confronto, quasi nere. Quella sera particolare, però, aveva qualcosa di eccezionale. Era una di quelle rare atmosfere in cui pare che un vetro affumicato sia stato fatto scorrere via da tra noi e la Natura; sicché persino i colori scuri, in quel giorno, apparivano più sfarzosi dei colori vivaci nelle giornate più nuvolose. La terra calpestata delle rive del fiume e la macchia torbosa delle pozze non apparivano scialbe, ma di un'ardente terra d'ombra, e i boschi cupi agitati dalla brezza non apparivano, come al solito, di un azzurro fioco per la sola profondità della distanza, ma piuttosto simili a masse scomposte dal vento di qualche vivace fioritura violacea. Questa magica limpidezza e intensità dei colori si imponeva ancor più ai sensi lentamente ridestantisi di Brown per qualcosa di romantico e persino di segreto nella forma stessa del paesaggio.
+
+     Il fiume era ancora abbastanza largo e profondo per un'imbarcazione da diporto piccola come la loro; ma le curve della campagna facevano intuire che si stesse chiudendo da entrambi i lati; i boschi parevano compiere spezzati e volanti tentativi di costruire ponti — come se la barca passasse dal romanzesco di una valle al romanzesco di una gola, e così al supremo romanzesco di una galleria. Al di là di questa mera apparenza, poco vi era di cui la rinascente fantasia di Brown potesse nutrirsi; non vedeva esseri umani, tranne alcuni zingari che si trascinavano lungo la riva del fiume, con fascine e vimini tagliati nella foresta; e una vista non più insolita in sé, ma in parti così remote ancora rara: una dama dai capelli scuri, a capo scoperto, che remava sulla propria canoa. Se mai Padre Brown attribuì qualche importanza all'una o all'altra di queste cose, certo le dimenticò alla svolta successiva del fiume, che portò in vista un oggetto singolare.
+
+     L'acqua parve allargarsi e dividersi, fessa dal cuneo scuro di un isolotto boscoso a forma di pesce. Alla velocità con cui procedevano, l'isolotto sembrava nuotare verso di loro come una nave; una nave con una prua altissima — o, per dir meglio, un fumaiolo altissimo. Poiché nel punto estremo più vicino a loro sorgeva un edificio dall'aspetto bizzarro, diverso da qualsiasi cosa potessero ricordare o collegare a un qualunque scopo. Non era particolarmente alto, ma era troppo alto rispetto alla sua larghezza per poter essere chiamato altrimenti che torre. Eppure pareva costruito interamente di legno, e ciò in un modo quanto mai irregolare ed eccentrico. Alcune delle assi e delle travi erano di buona quercia stagionata; altre di legno tagliato crudo e di recente; altre ancora di pino bianco, e molto più ancora dello stesso genere di legno dipinto di nero con la pece. Queste travi nere erano poste storte o incrociate ad ogni sorta di angoli, dando all'insieme un aspetto quanto mai rappezzato e sconcertante. C'erano una o due finestre, che parevano colorate e piombate in uno stile antiquato ma più elaborato. I viaggiatori la guardarono con quella sensazione paradossale che proviamo quando qualcosa ci ricorda qualcos'altro, e tuttavia siamo certi che si tratti di qualcosa di assai diverso.
+
+     Padre Brown, anche quando era sconcertato, era abile nell'analizzare il proprio sconcerto. E si sorprese a riflettere che la stranezza pareva consistere in una forma particolare ritagliata in un materiale incongruo; come se si vedesse un cilindro fatto di latta, o una redingote tagliata nel tartan. Era certo di aver visto da qualche parte travi di tinte diverse disposte in quel modo, ma mai in simili proporzioni architettoniche. Un istante dopo, uno scorcio attraverso gli alberi scuri gli disse tutto ciò che voleva sapere, ed egli rise. Attraverso uno squarcio nel fogliame apparve per un momento una di quelle vecchie case di legno, rivestite di travi nere, che si trovano ancora qua e là in Inghilterra, ma che i più di noi vedono imitate in qualche spettacolo intitolato «Old London» o «Shakespeare's England». Rimase in vista soltanto quel tanto che bastò al prete per scorgere che, per quanto antiquata, era una comoda e ben tenuta casa di campagna, con aiuole fiorite davanti. Non aveva nulla dell'aspetto pezzato e stravagante della torre, che pareva fatta con i suoi scarti.
+
+     «Che diavolo è questo?» disse Flambeau, che fissava ancora la torre.
+
+     Gli occhi di Fanshaw brillavano, ed egli parlò con tono trionfante. «Ah! non avete mai visto un posto come questo, immagino; ecco perché vi ho condotti qui, amici miei. Ora vedrete se esagero a proposito dei marinai della Cornovaglia. Questo luogo appartiene al vecchio Pendragon, che noi chiamiamo l'Ammiraglio; sebbene si sia ritirato prima di ottenere il grado. Lo spirito di Raleigh e di Hawkins è un ricordo per la gente del Devon; è un fatto attuale per i Pendragon. Se la regina Elisabetta risorgesse dalla tomba e risalisse questo fiume su una chiatta dorata, sarebbe ricevuta dall'Ammiraglio in una casa esattamente come quelle cui era avvezza, in ogni angolo e in ogni finestra, in ogni pannello alla parete o piatto sulla tavola. E vi troverebbe un capitano inglese che parla ancora con fierezza di nuove terre da scoprire su piccole navi, come se avesse cenato con Drake.»
+
+     «Vi troverebbe una ben curiosa cosa nel giardino» disse Padre Brown, «che non piacerebbe al suo occhio rinascimentale. Quell'architettura domestica elisabettiana è affascinante a suo modo; ma è contro la sua stessa natura prorompere in torrette.»
+
+     «Eppure» rispose Fanshaw, «è questa la parte più romantica ed elisabettiana della faccenda. Fu costruita dai Pendragon proprio ai tempi delle guerre di Spagna; e benché abbia avuto bisogno di rappezzi e persino di ricostruzioni per un'altra ragione, è sempre stata ricostruita alla vecchia maniera. Si racconta che la dama di Sir Peter Pendragon la fece erigere in questo luogo e a questa altezza, perché dalla cima si può appena scorgere l'angolo dove i vascelli svoltano nella foce del fiume; e desiderava essere la prima a vedere la nave del marito mentre tornava a casa dalle acque della Spagna.»
+
+     «Per quale altra ragione» chiese Padre Brown, «intendete dire che è stata ricostruita?»
+
+     «Oh, c'è anche su questo una strana storia» disse il giovane possidente con gusto. «Vi trovate davvero in una terra di storie strane. Qui c'erano re Artù e Merlino e le fate prima di lui. Si racconta che Sir Peter Pendragon, il quale (temo) aveva alcuni dei difetti dei pirati oltre alle virtù del marinaio, stava riportando a casa tre gentiluomini spagnoli in onorevole prigionia, con l'intenzione di scortarli alla corte di Elisabetta. Ma egli era uomo di temperamento fiammeggiante e tigresco, e venuto a parole grosse con uno di loro, lo afferrò alla gola e lo scagliò, per caso o di proposito, in mare. Un secondo spagnolo, che era il fratello del primo, sguainò all'istante la spada e si avventò su Pendragon, e dopo un breve ma furioso combattimento in cui entrambi ricevettero tre ferite in altrettanti minuti, Pendragon spinse la propria lama attraverso il corpo dell'altro, e anche il secondo spagnolo fu liquidato. Volle il caso che la nave fosse già svoltata nella foce del fiume e si trovasse vicina ad acque relativamente basse. Il terzo spagnolo balzò oltre la murata, si diresse a nuoto verso la riva, e presto le fu tanto vicino da potervi stare ritto, con l'acqua alla cintola. E voltandosi di nuovo verso la nave, e levando entrambe le braccia al Cielo — come un profeta che invoca flagelli su una città malvagia — gridò a Pendragon, con voce acuta e terribile, che lui almeno era ancora vivo, che avrebbe continuato a vivere, che sarebbe vissuto in eterno; e che, di generazione in generazione, la casa dei Pendragon non avrebbe mai visto lui né i suoi, ma avrebbe saputo, per segni certissimi, che lui e la sua vendetta erano vivi. Con ciò si tuffò sotto l'onda, e o annegò o nuotò tanto a lungo sott'acqua che nessun capello del suo capo fu più visto.»
+
+     «C'è di nuovo quella ragazza nella canoa» disse Flambeau fuori luogo, poiché le giovani belle donne lo distoglievano da qualsiasi argomento. «Sembra intrigata dalla strana torre proprio come lo eravamo noi.»
+
+     E infatti la giovane dama dai capelli neri lasciava scivolare la propria canoa lentamente e silenziosamente davanti allo strano isolotto; e guardava intensamente in su verso la strana torre, con un forte ardore di curiosità sul suo volto ovale e olivastro.
+
+     «Lasciate perdere le ragazze» disse Fanshaw con impazienza, «ce ne sono in abbondanza al mondo, ma non molte cose come la Torre dei Pendragon. Come potete facilmente supporre, superstizioni e scandali in gran numero hanno seguito la scia della maledizione dello spagnolo; e senza dubbio, come direste voi, qualsiasi disgrazia capitasse a questa famiglia della Cornovaglia verrebbe ricollegata a essa dalla credulità dei contadini. Ma è perfettamente vero che questa torre è stata incendiata due o tre volte; e la famiglia non può dirsi fortunata, poiché più di due, credo, dei parenti stretti dell'Ammiraglio sono periti in naufragio; e almeno uno, per mia diretta conoscenza, quasi esattamente nel punto in cui Sir Peter gettò lo spagnolo in mare.»
+
+     «Che peccato!» esclamò Flambeau. «Se ne va.»
+
+     «Quando il vostro amico Ammiraglio vi raccontò questa storia di famiglia?» chiese Padre Brown, mentre la ragazza nella canoa si allontanava remando, senza mostrare la minima intenzione di estendere il proprio interesse dalla torre al panfilo, che Fanshaw aveva già fatto accostare all'isola.
+
+     «Molti anni fa» rispose Fanshaw; «non va per mare da qualche tempo, ormai, benché ne sia appassionato come sempre. Credo ci sia un patto di famiglia, o qualcosa del genere. Bene, ecco l'imbarcadero; scendiamo a terra e andiamo a vedere il vecchio.»
+
+     Lo seguirono sull'isola, proprio sotto la torre, e Padre Brown, forse per il semplice contatto con la terra asciutta, o per l'interesse di qualcosa sull'altra riva del fiume (che fissò con grande intensità per alcuni secondi), parve singolarmente ravvivato nel brio. Imboccarono un viale alberato tra due steccati di legno sottile e grigiastro, di quelli che spesso recingono parchi o giardini, e sopra i quali gli alberi scuri si agitavano avanti e indietro come pennacchi neri e purpurei sul carro funebre di un gigante. La torre, quando la si lasciò alle spalle, appariva ancor più bizzarra, poiché simili ingressi sono di solito fiancheggiati da due torri; e questa pareva sbilenca. Ma a parte questo, il viale aveva il consueto aspetto dell'ingresso alla tenuta di un gentiluomo; ed essendo così ricurvo che la casa era ormai fuori vista, pareva chissà come un parco assai più vasto di quanto potesse in realtà essere una piantagione su un'isola simile. Padre Brown era forse un po' fantasioso nella sua stanchezza, ma pensò quasi che l'intero luogo dovesse ingrandirsi, come accade alle cose in un incubo. Comunque fosse, una mistica monotonia fu l'unico carattere della loro marcia, finché Fanshaw non si fermò di colpo, e indicò qualcosa che sporgeva attraverso lo steccato grigio — qualcosa che a prima vista somigliava piuttosto al corno imprigionato di qualche bestia. Un'osservazione più ravvicinata rivelò che era una lama di metallo leggermente ricurva, che luccicava debolmente nella luce morente.
+
+     Flambeau, che come tutti i francesi era stato soldato, si chinò su di essa e disse con voce trasalita: «Diamine, è una sciabola! Credo di conoscerne il tipo, pesante e ricurva, ma più corta di quella della cavalleria; le usavano nell'artiglieria e nei…»
+
+     Mentre parlava, la lama si divelse dalla fenditura che aveva aperto e ricadde con un fendente più ponderoso, spaccando fino in fondo lo steccato fissiparo con un rumore lacerante. Poi fu estratta di nuovo, balenò sopra lo steccato qualche piede più in là, e di nuovo lo fendette a metà al primo colpo; e dopo aver ondeggiato un poco per liberarsi (accompagnata da bestemmie nell'oscurità), lo spaccò fino a terra con un secondo. Poi un calcio d'energia diabolica scagliò l'intero quadrato di legno sottile ormai allentato in mezzo al sentiero, e un grande varco di bosco scuro si spalancò nella palizzata.
+
+     Fanshaw scrutò nell'apertura buia ed emise un'esclamazione di stupore. «Mio caro Ammiraglio!» esclamò, «avete l'abitudine di… ehm… ritagliarvi una nuova porta d'ingresso ogni volta che volete andare a passeggio?»
+
+     La voce nell'oscurità imprecò di nuovo, poi proruppe in una gioviale risata. «No» disse; «devo proprio abbattere questo steccato in qualche modo; sta rovinando tutte le piante, e qui non c'è nessun altro capace di farlo. Ma taglierò solo un altro pezzo della porta d'ingresso, e poi verrò fuori a darvi il benvenuto.»
+
+     E, com'era prevedibile, sollevò di nuovo l'arma e, menando due fendenti, abbatté un'altra striscia simile di steccato, rendendo l'apertura larga in tutto una quindicina di piedi. Poi, attraverso questo più ampio varco nella foresta, uscì nella luce della sera, con una scheggia di legno grigio appiccicata alla lama della spada.
+
+     Egli incarnò per un istante tutta la favola di Fanshaw sul vecchio Ammiraglio piratesco; sebbene i particolari, in seguito, parvero scomporsi in accidenti. Per esempio, portava un cappello a larghe tese come riparo dal sole; ma la falda anteriore era rialzata dritta verso il cielo, e i due angoli tirati giù più bassi delle orecchie, così che gli attraversava la fronte a mezzaluna, come il vecchio bicorno portato da Nelson. Indossava una comune giacca blu scuro, senza nulla di speciale nei bottoni, ma la sua combinazione con calzoni di lino bianco aveva chissà come un che di marinaresco. Era alto e slanciato, e camminava con una sorta di spavalderia, che non era l'ondeggiare del marinaio, eppure in qualche modo lo suggeriva; e teneva in mano una corta sciabola simile a un coltellaccio da marina, ma grande quasi il doppio. Sotto l'arco del cappello il suo volto d'aquila appariva ardente, tanto più che non solo era ben rasato, ma privo di sopracciglia. Pareva quasi che tutti i peli gli fossero andati via dal viso a forza di cacciarlo attraverso una calca di elementi. Gli occhi erano sporgenti e penetranti. Il suo colorito era curiosamente attraente, e in parte tropicale; ricordava vagamente un'arancia sanguigna. Voglio dire che, pur essendo rubizzo e sanguigno, vi era in esso un giallo per nulla malaticcio, ma che pareva piuttosto splendere come le mele d'oro delle Esperidi — Padre Brown pensò di non aver mai visto una figura così espressiva di tutte le storie romanzesche sui paesi del Sole.
+
+     Quando Fanshaw ebbe presentato i suoi due amici al padrone di casa, ricadde in un tono di canzonatura verso quest'ultimo a proposito della sua distruzione dello steccato e della sua evidente rabbia di bestemmie. L'Ammiraglio dapprima ne fece poco conto, come di un lavoro di giardinaggio necessario ma seccante; ma alla fine il suono di una vera energia ritornò nella sua risata, ed egli esclamò con un misto di impazienza e buon umore:
+
+     «Beh, forse ci vado un po' rabbiosamente, e provo una specie di piacere a fracassare qualsiasi cosa. Lo fareste anche voi se il vostro unico piacere fosse quello di veleggiare in cerca di qualche nuova Isola dei Cannibali, e doveste starvene inchiodati su questa fangosa roccaglietta in una specie di stagno rustico. Quando ricordo come ho abbattuto un miglio e mezzo di verde giungla velenosa con un vecchio coltellaccio affilato la metà di questo; e poi ricordo che devo fermarmi qui a tagliuzzare questa legna da fiammiferi, per via di qualche maledetto vecchio patto scarabocchiato in una Bibbia di famiglia, ebbene, io…»
+
+     Sollevò di nuovo il pesante acciaio; e questa volta recise il muro di legno dall'alto in basso con un solo colpo.
+
+     «Mi sento così» disse ridendo, ma scagliando furiosamente la spada qualche metro giù per il sentiero, «e ora saliamo alla casa; dovete cenare.»
+
+     Il semicerchio di prato davanti alla casa era variato da tre aiuole circolari, una di tulipani rossi, la seconda di tulipani gialli, e la terza di certi fiori bianchi, dall'aspetto ceroso, che i visitatori non conoscevano e presumevano esotici. Un giardiniere pesante, peloso e dall'aria piuttosto arcigna stava appendendo una pesante matassa di tubo da giardino. Gli ultimi bagliori del tramonto morente, che parevano indugiare attorno agli angoli della casa, lasciavano intravedere qua e là i colori di aiuole più lontane; e in uno spazio privo di alberi, su un lato della casa che si apriva sul fiume, sorgeva un alto treppiede di ottone su cui era inclinato un grande telescopio d'ottone. Proprio fuori dai gradini del portico c'era un tavolinetto da giardino verniciato di verde, come se qualcuno vi avesse appena preso il tè. L'ingresso era fiancheggiato da due di quei blocchi di pietra dai lineamenti appena abbozzati, con fori al posto degli occhi, che si dice siano idoli dei Mari del Sud; e sulla bruna trave di quercia sopra la porta c'erano alcuni intagli confusi che apparivano quasi altrettanto barbarici.
+
+     Mentre entravano, il piccolo chierico saltò all'improvviso sul tavolino, e restandovi in piedi scrutò senza affettazione, attraverso gli occhiali, le modanature nella quercia. L'Ammiraglio Pendragon parve assai stupito, benché non particolarmente seccato; mentre Fanshaw fu tanto divertito da ciò che pareva un pigmeo da spettacolo sul suo piccolo palco, che non riuscì a trattenere il riso. Ma Padre Brown non era tipo da accorgersi né del riso né dello stupore.
+
+     Fissava tre simboli intagliati, i quali, benché assai consumati e oscuri, parevano ancora trasmettergli un qualche senso. Il primo pareva il contorno di una torre o di qualche altro edificio, coronato da qualcosa che somigliava a nastri dalle punte ricciute. Il secondo era più chiaro: una vecchia galea elisabettiana con onde decorative sotto di essa, ma interrotta nel mezzo da un curioso scoglio frastagliato, che era o un difetto del legno o una qualche rappresentazione convenzionale dell'acqua che entra. Il terzo raffigurava la metà superiore di una figura umana, che terminava in una linea a festoni simile alle onde; il volto era corroso e privo di lineamenti, ed entrambe le braccia erano tese molto rigidamente in alto.
+
+     «Ebbene» mormorò Padre Brown, sbattendo le palpebre, «ecco la leggenda dello spagnolo abbastanza chiara. Eccolo che leva le braccia e maledice nel mare; ed ecco le due maledizioni: la nave naufragata e l'incendio della Torre dei Pendragon.»
+
+     Pendragon scosse il capo con una sorta di venerabile divertimento. «E quante altre cose potrebbe non essere?» disse. «Non sapete che quel tipo di mezzo uomo, come il mezzo leone o il mezzo cervo, è assai comune in araldica? Non potrebbe quella linea attraverso la nave essere una di quelle linee partite in palo, dentellate, credo le chiamino? E benché la terza cosa non sia poi così araldica, sarebbe più araldico supporla una torre coronata d'alloro anziché di fuoco; e le somiglia altrettanto.»
+
+     «Ma sembra piuttosto strano» disse Flambeau, «che debba confermare esattamente la vecchia leggenda.»
+
+     «Ah» rispose lo scettico viaggiatore, «ma voi non sapete quanto della vecchia leggenda possa essere stato inventato a partire dalle vecchie figure. E poi, non è l'unica vecchia leggenda. Fanshaw, qui, che ama simili cose, vi dirà che ci sono altre versioni del racconto, e assai più orribili. Una attribuisce al mio sventurato antenato di aver fatto tagliare in due lo spagnolo; e anche questo si accorderebbe con la bella figura. Un'altra gentilmente attribuisce alla nostra famiglia il possesso di una torre piena di serpenti, e spiega a quel modo quelle piccole cose contorte. E una terza teoria suppone che la linea storta sulla nave sia una folgore stilizzata; ma questo soltanto, se esaminato seriamente, mostrerebbe quanto poco valgano in realtà queste infelici coincidenze.»
+
+     «Come, che intendete dire?» chiese Fanshaw.
+
+     «Si dà il caso» rispose il padrone di casa con freddezza, «che non ci furono affatto tuoni né fulmini nei due o tre naufragi di cui sono a conoscenza nella nostra famiglia.»
+
+     «Oh!» disse Padre Brown, e saltò giù dal tavolino.
+
+     Vi fu un altro silenzio in cui udirono il continuo mormorio del fiume; poi Fanshaw disse, con tono dubbioso e forse deluso: «Allora non credete che ci sia nulla nei racconti della torre in fiamme?»
+
+     «Ci sono i racconti, certo» disse l'Ammiraglio, scrollando le spalle; «e alcuni di essi, non lo nego, poggiano su prove tanto rispettabili quanto se ne può mai avere per cose del genere. Qualcuno ha visto un bagliore da queste parti, sapete, tornando a casa attraverso un bosco; qualcuno che pascolava le pecore sugli altipiani dell'interno ha creduto di vedere una fiamma librarsi sopra la Torre dei Pendragon. Beh, un umido grumo di fango come questa maledetta isola sembra l'ultimo luogo dove si penserebbe a incendi.»
+
+     «Che cos'è quel fuoco laggiù?» chiese Padre Brown con dolce subitaneità, indicando i boschi sulla riva sinistra del fiume. Furono tutti un po' colti alla sprovvista, e il più fantasioso Fanshaw ebbe persino qualche difficoltà a riprendersi, mentre vedevano un lungo e sottile filo di fumo azzurro salire silenziosamente nell'ultima luce della sera.
+
+     Allora Pendragon proruppe di nuovo in una risata sprezzante. «Zingari!» disse; «si sono accampati qui intorno da circa una settimana. Signori, avete bisogno della vostra cena» e si voltò come per entrare in casa.
+
+     Ma la superstizione da antiquario in Fanshaw fremeva ancora, ed egli disse in fretta: «Ma, Ammiraglio, che cos'è quel sibilo così vicino all'isola? Somiglia molto al fuoco.»
+
+     «Somiglia di più a ciò che è» disse l'Ammiraglio, ridendo mentre faceva strada; «è solo qualche canoa che passa.»
+
+     Quasi mentre parlava, il maggiordomo, un uomo magro vestito di nero, dai capelli nerissimi e dal viso lunghissimo e giallo, comparve sulla soglia e gli annunciò che la cena era servita.
+
+     La sala da pranzo era marinaresca come la cabina di una nave; ma la sua nota era piuttosto quella del capitano moderno che di quello elisabettiano. C'erano, in verità, tre antiquati coltellacci in un trofeo sopra il camino, e una bruna carta del Cinquecento con tritoni e piccole navi sparse su un mare tutto a riccioli. Ma cose simili risaltavano meno, sui pannelli bianchi, di alcune teche con curiosi uccelli sudamericani dai colori vivaci, imbalsamati assai scientificamente, di fantastiche conchiglie del Pacifico, e di parecchi strumenti così rozzi e bizzarri di forma che dei selvaggi avrebbero potuto usarli tanto per uccidere i loro nemici quanto per cucinarli. Ma il colore esotico culminava nel fatto che, oltre al maggiordomo, gli unici servitori dell'Ammiraglio erano due negri, vestiti in modo alquanto pittoresco con attillate uniformi gialle. L'istintivo vezzo del prete di analizzare le proprie impressioni gli disse che il colore e le piccole ordinate falde della giacca di questi bipedi gli avevano suggerito la parola «Canarie», e così, per un semplice gioco di parole, li collegavano ai viaggi verso mezzogiorno. Verso la fine della cena essi portarono via dalla stanza i loro abiti gialli e i loro visi neri, lasciando solo gli abiti neri e il viso giallo del maggiordomo.
+
+     «Mi dispiace piuttosto che prendiate la cosa così alla leggera» disse Fanshaw al padrone di casa; «perché, a dire il vero, ho condotto qui questi miei amici con l'idea che potessero aiutarvi, giacché ne sanno parecchio di queste cose. Non credete proprio per niente alla storia di famiglia?»
+
+     «Non credo a nulla» rispose Pendragon assai vivacemente, con un occhio brillante puntato su un uccello tropicale rosso. «Sono un uomo di scienza.»
+
+     Con una certa sorpresa di Flambeau, il suo amico chierico, che pareva essersi del tutto ridestato, raccolse la digressione e conversò di storia naturale con il padrone di casa con una fluenza di parole e molte inaspettate informazioni, finché non furono posati il dessert e le caraffe, e l'ultimo dei servitori svanì. Allora disse, senza mutare tono:
+
+     «Vi prego di non considerarmi impertinente, Ammiraglio Pendragon. Non lo chiedo per curiosità, ma davvero per mia norma e vostra convenienza. Sbaglio di grosso se indovino che non desiderate si parli di queste vecchie cose davanti al vostro maggiordomo?»
+
+     L'Ammiraglio sollevò gli archi glabri sopra gli occhi ed esclamò: «Beh, non so dove l'abbiate colto, ma la verità è che non sopporto quell'individuo, sebbene non abbia alcuna scusa per licenziare un servitore di famiglia. Fanshaw, con le sue favole, direbbe che il mio sangue si ribella agli uomini con quei capelli neri dall'aspetto spagnolo.»
+
+     Flambeau batté il pugno pesante sul tavolo. «Perbacco!» esclamò; «e così li aveva anche quella ragazza!»
+
+     «Spero che tutto finisca stanotte» proseguì l'Ammiraglio, «quando mio nipote tornerà sano e salvo dalla sua nave. Vi vedo sorpresi. Non capirete, immagino, se non vi racconto la storia. Vedete, mio padre ebbe due figli; io rimasi scapolo, ma mio fratello maggiore si sposò, ed ebbe un figlio che divenne marinaio come tutti gli altri di noi, e che erediterà la tenuta di diritto. Ebbene, mio padre era un uomo strano; combinava chissà come la superstizione di Fanshaw con una buona dose del mio scetticismo — le due cose erano sempre in lotta dentro di lui; e dopo i miei primi viaggi, sviluppò un'idea che, pensava, avrebbe in qualche modo stabilito una volta per tutte se la maledizione fosse verità o fandonia. Se tutti i Pendragon fossero andati per mare alla rinfusa, pensava, ci sarebbe stata troppa probabilità di catastrofi naturali per provare alcunché. Ma se fossimo andati per mare uno alla volta, in stretto ordine di successione alla proprietà, pensava che ciò avrebbe potuto mostrare se un qualche destino connesso perseguitasse la famiglia in quanto famiglia. Era un'idea sciocca, penso, e litigai con mio padre di gran cuore; poiché ero uomo ambizioso, e fui lasciato per ultimo, venendo, per successione, dopo lo stesso mio nipote.»
+
+     «E vostro padre e vostro fratello» disse il prete assai dolcemente, «morirono in mare, temo.»
+
+     «Sì» gemette l'Ammiraglio; «per uno di quei brutali accidenti su cui si edificano tutte le mendaci mitologie del genere umano, naufragarono entrambi. Mio padre, risalendo questa costa dall'Atlantico, fu gettato su questi scogli della Cornovaglia. La nave di mio fratello fu affondata, nessuno sa dove, sulla via del ritorno dalla Tasmania. Il suo corpo non fu mai ritrovato. Vi dico che fu per una disgrazia perfettamente naturale; molte altre persone oltre ai Pendragon annegarono; ed entrambi i disastri sono discussi in modo normale dai navigatori. Ma, naturalmente, ciò diede fuoco a questa foresta di superstizione; e gli uomini videro la torre fiammeggiante dappertutto. Ecco perché dico che andrà tutto bene quando Walter tornerà. La ragazza con cui è fidanzato doveva venire oggi; ma temevo tanto che qualche ritardo fortuito la spaventasse, che le telegrafai di non venire finché non avesse avuto mie notizie. Ma lui sarà quasi certamente qui in qualche momento di stanotte, e allora tutto finirà in fumo — fumo di tabacco. Sfateremo quella vecchia menzogna quando stapperemo una bottiglia di questo vino.»
+
+     «Ottimo vino» disse Padre Brown, sollevando gravemente il bicchiere, «ma, come vedete, un pessimo bevitore. Vi chiedo davvero sinceramente scusa»: poiché aveva versato una piccola macchia di vino sulla tovaglia. Bevve e posò il bicchiere con volto composto; ma la sua mano aveva avuto un sussulto nell'esatto momento in cui si era accorto di un viso che spiava attraverso la finestra del giardino, proprio dietro l'Ammiraglio — il viso di una donna, bruna, con capelli e occhi meridionali, e giovane, ma simile a una maschera di tragedia.
+
+     Dopo una pausa il prete riprese a parlare con il suo mite modo. «Ammiraglio» disse, «volete farmi un favore? Permettete che io, e i miei amici se vorranno, ci fermiamo in quella vostra torre solo per stanotte? Sapete che, nella mia professione, si è esorcisti quasi prima di ogni altra cosa?»
+
+     Pendragon balzò in piedi e passeggiò rapidamente avanti e indietro davanti alla finestra, dalla quale il viso era all'istante svanito. «Vi dico che non c'è nulla in tutto ciò» gridò, con squillante violenza. «C'è una cosa che so a proposito di questa faccenda. Potete chiamarmi ateo. Sono ateo.» Qui si voltò di scatto e fissò Padre Brown con un volto di spaventosa concentrazione. «Questa faccenda è perfettamente naturale. Non c'è alcuna maledizione in essa.»
+
+     Padre Brown sorrise. «In tal caso» disse, «non può esserci alcuna obiezione a che io dorma nella vostra deliziosa casina estiva.»
+
+     «L'idea è del tutto ridicola» rispose l'Ammiraglio, tamburellando sullo schienale della sedia.
+
+     «Vi prego di perdonarmi ogni cosa» disse Brown col suo tono più partecipe, «compreso l'aver versato il vino. Ma mi sembra che non siate del tutto così tranquillo riguardo alla torre fiammeggiante come cercate di apparire.»
+
+     L'Ammiraglio Pendragon si risedette con la stessa bruschezza con cui si era alzato; ma sedette del tutto immobile, e quando riprese a parlare fu con voce più bassa. «Lo fate a vostro rischio e pericolo» disse; «ma non sareste anche voi ateo, per restare sano di mente in mezzo a tutta questa diavoleria?»
+
+     Circa tre ore dopo Fanshaw, Flambeau e il prete gironzolavano ancora per il giardino nell'oscurità; e cominciò a farsi strada negli altri due l'idea che Padre Brown non avesse alcuna intenzione di andare a dormire, né nella torre né in casa.
+
+     «Credo che il prato abbia bisogno di essere sarchiato» disse egli sognante. «Se solo trovassi una zappetta o qualcosa del genere, lo farei io stesso.»
+
+     Lo seguirono, ridendo e in parte protestando; ma egli rispose con la massima solennità, spiegando loro, in un esasperante piccolo sermone, che si può sempre trovare qualche piccola occupazione utile agli altri. Non trovò una zappetta; ma trovò una vecchia scopa fatta di ramoscelli, con la quale cominciò energicamente a spazzare via dall'erba le foglie cadute.
+
+     «C'è sempre qualche piccola cosa da fare» disse con idiota allegria; «come dice George Herbert: "Chi scopa il [[Garden|giardino]] di un Ammiraglio in Cornovaglia per amore delle Tue leggi rende nobili tanto quello quanto l'azione." E ora» aggiunse, gettando via all'improvviso la scopa, «andiamo ad [[Water|annaffiare]] i [[Flowers|fiori]].»
+
+     Con le stesse emozioni contrastanti lo osservarono srotolare tratti considerevoli del grande tubo da [[Garden|giardino]], mentre diceva con aria di malinconica ponderatezza: «Prima i tulipani rossi che i gialli, credo. Sembrano un po' aridi, non vi pare?»
+
+     Aprì il rubinetto dello strumento, e l'[[Water|acqua]] schizzò fuori dritta e solida come una lunga asta d'acciaio.
+
+     «Attento, Sansone» gridò [[Flambeau]]; «diamine, avete decapitato il tulipano.»
+
+     [[Father Brown]] restò a contemplare mestamente la pianta decapitata.
+
+     «La mia sembra proprio essere un'annaffiatura del tipo o guarisce o uccide» ammise, grattandosi il capo. «Immagino sia un peccato che non abbia trovato la zappetta. Avreste dovuto vedermi con la zappetta! A proposito di attrezzi, avete quel bastone-spada, [[Flambeau]], che portate sempre con voi? Bene; e Sir Cecil potrebbe prendere quella [[Sword|spada]] che l'Ammiraglio ha gettato via lì presso lo steccato. Com'è grigio tutto quanto!»
+
+     «È la nebbia che sale dal [[River|fiume]]» disse [[Flambeau]] con lo sguardo fisso.
+
+     Quasi mentre parlava, l'enorme figura del giardiniere peloso comparve su un crinale più alto del prato scavato e terrazzato, apostrofandoli con un rastrello brandito e una voce orribilmente muggente. «Metti giù quel tubo» urlò; «metti giù quel tubo e vai a…»
+
+     «Sono spaventosamente maldestro» rispose fiaccamente il reverendo signore; «sapete, ho rovesciato del vino a cena.» Fece un vacillante mezzo giro di scusa verso il giardiniere, con il tubo che ancora zampillava in mano. Il giardiniere ricevette il freddo urto dell'[[Water|acqua]] in pieno viso, come l'urto di una palla di cannone; barcollò, scivolò e cadde lungo disteso, con gli stivali all'aria.
+
+     «Che cosa terribile!» disse [[Father Brown]], guardandosi intorno in una sorta di [[Wonder|stupore]]. «Diamine, ho colpito un uomo!»
+
+     Restò un momento con il capo proteso in avanti, come se guardasse o ascoltasse; e poi si avviò al trotto verso la torre, trascinandosi ancora dietro il tubo. La torre era piuttosto vicina, ma il suo profilo era curiosamente indistinto.
+
+     «La vostra nebbia del [[River|fiume]]» disse, «ha un odore curioso.»
+
+     «Perdio, è vero» gridò Fanshaw, che era pallidissimo. «Ma non vorrete dire…»
+
+     «Voglio dire» disse [[Father Brown]], «che una delle previsioni scientifiche dell'Ammiraglio si sta avverando stanotte. Questa storia finirà in fumo.»
+
+     Mentre parlava, una bellissima luce color rosso [[Rose|rosa]] parve sbocciare come una gigantesca [[Rose|rosa]]; ma accompagnata da un crepitio e un fragore che pareva il riso dei demoni.
+
+     «Mio Dio! che cos'è questo?» gridò Sir Cecil Fanshaw.
+
+     «Il segno della torre fiammeggiante» disse [[Father Brown]], e diresse il getto d'[[Water|acqua]] del suo tubo nel cuore della macchia rossa.
+
+     «Per fortuna non eravamo andati a letto!» esclamò Fanshaw. «Immagino che non possa propagarsi alla [[house|casa]].»
+
+     «Ricorderete forse» disse il prete con calma, «che lo steccato di legno che avrebbe potuto trasmetterlo è stato tagliato via.»
+
+     [[Flambeau]] volse verso l'amico occhi elettrizzati, ma Fanshaw disse soltanto, piuttosto distrattamente: «[[Well|Beh]], nessuno può restare ucciso, in ogni caso.»
+
+     «È una torre piuttosto curiosa, questa» osservò [[Father Brown]]; «quando si mette a uccidere la gente, uccide sempre gente che si trova da qualche altra parte.»
+
+     Nello stesso istante la mostruosa figura del giardiniere, con la barba grondante, si ergeva di nuovo sul crinale verde contro il cielo, facendo cenno agli altri di avanzare; ma ora agitando non un rastrello, bensì un coltellaccio. Dietro di lui venivano i due negri, anch'essi con i vecchi coltellacci ricurvi presi dal trofeo. Ma nel bagliore rosso [[Blood|sangue]], con i loro visi neri e le loro figure gialle, sembravano demoni che recassero strumenti di tortura. Nel [[Garden|giardino]] fioco alle loro spalle si udiva una voce lontana che gridava brevi ordini. Quando il prete udì quella voce, un terribile mutamento gli passò sul volto.
+
+     Ma egli rimase composto; e non tolse mai l'occhio dalla macchia di fiamma, che aveva cominciato a diffondersi, ma ora pareva ridursi un poco mentre sfrigolava sotto la torcia della lunga lancia d'argento d'[[Water|acqua]]. Teneva il dito lungo l'ugello del tubo per assicurare la mira, e non badava ad altro, conoscendo solo dal rumore e da quell'angolo semicosciente dell'occhio gli eccitanti avvenimenti che cominciavano ad accavallarsi per il [[Garden|giardino]] dell'isola. Diede due brevi ordini ai suoi amici. Il primo fu: «Buttate giù questi tizi in qualche modo e legateli, chiunque siano; c'è della corda laggiù presso quelle fascine. Vogliono portarmi via il mio bel tubo.» L'altro fu: «Appena ne avete l'occasione, chiamate quella ragazza della canoa; è là sulla riva con gli zingari. Chiedetele se possono far passare qualche secchio e riempirlo al [[River|fiume]].» Poi chiuse la bocca e continuò ad [[Water|annaffiare]] il nuovo fiore rosso spietatamente come aveva annaffiato il tulipano rosso.
+
+     Non voltò mai il capo a guardare la strana battaglia che seguì tra i nemici e gli amici del misterioso [[Fire|fuoco]]. Sentì quasi l'isola tremare quando [[Flambeau]] si scontrò con l'enorme giardiniere; immaginò soltanto come essa dovesse turbinare loro attorno mentre lottavano. Udì il fragore della caduta; e l'ansito di trionfo dell'amico mentre si lanciava sul primo negro; e le grida di entrambi i neri mentre [[Flambeau]] e Fanshaw li legavano. La forza smisurata di [[Flambeau]] più che compensava lo svantaggio nella lotta, tanto più che il quarto uomo ancora si aggirava presso la [[house|casa]], solo un'[[Shadow|ombra]] e una voce. Udì anche l'[[Water|acqua]] rotta dalle pagaie di una canoa; la voce della ragazza che dava ordini, le voci degli zingari che rispondevano e si avvicinavano, il tonfo e il risucchio dei secchi vuoti immersi in una corrente piena; e infine il suono di molti piedi attorno al [[Fire|fuoco]]. Ma tutto ciò era per lui meno importante del fatto che lo squarcio rosso, che poco prima era di nuovo cresciuto, si era di nuovo lievemente ridotto.
+
+     Poi venne un grido che quasi lo fece voltare. [[Flambeau]] e Fanshaw, ora rinforzati da alcuni degli zingari, si erano lanciati all'inseguimento del misterioso uomo presso la [[house|casa]]; ed egli udì, dall'altra estremità del [[Garden|giardino]], il grido di orrore e stupore del francese. Fu echeggiato da un ululato che non si poteva dire umano, mentre l'essere si liberava dalla loro presa e correva lungo il [[Garden|giardino]]. Almeno tre volte fece il giro dell'intera isola, in un modo tanto orribile quanto la caccia di un pazzo, sia per le grida dell'inseguito sia per le corde portate dagli inseguitori; ma ancor più orribile, perché suggeriva chissà come uno di quei giochi d'inseguimento dei bambini in un [[Garden|giardino]]. Poi, trovandoli che si stringevano da ogni lato, la figura balzò su una delle rive più alte del [[River|fiume]] e scomparve con un tonfo nel [[River|fiume]] scuro e vorticoso.
+
+     «Non potete far altro, [[Fear|temo]]» disse Brown con voce fredda di [[Pain|dolore]]. «Ormai è stato trascinato giù verso gli scogli, dove lui ha mandato tanti altri. Sapeva come servirsi di una leggenda di famiglia.»
+
+     «Oh, non parlate per parabole» gridò [[Flambeau]] con impazienza. «Non potete dirlo semplicemente, con parole di una sola sillaba?»
+
+     «Sì» rispose Brown, con l'occhio sul tubo. «"Occhi due che brillano bene, la nave va; un occhio che ammicca, e la nave affonda."»
+
+     Il fuoco sibilava e strideva sempre più, come una cosa strangolata, mentre si faceva sempre più stretto sotto il diluvio del tubo e dei secchi, ma Padre Brown continuava a tenervi sopra l'occhio mentre proseguiva a parlare:
+
+     «Avevo pensato di chiedere a questa signorina, se fosse già mattino, di guardare attraverso quel telescopio verso la foce e verso il fiume. Avrebbe potuto vedere qualcosa che l'interessasse: il segno della nave, o il signor Walter Pendragon che torna a casa, e forse persino il segno del mezzo uomo, poiché, sebbene ormai sia certamente in salvo, può benissimo essere giunto a riva a guado. È stato a un pelo da un altro naufragio; e non gli sarebbe mai scampato, se la signorina non avesse avuto il buon senso di sospettare del telegramma del vecchio Ammiraglio e di scendere qui a sorvegliarlo. Non parliamo del vecchio Ammiraglio. Non parliamo di nulla. Basta dire che, ogni volta che questa torre, con la sua pece e il suo legno resinoso, prendeva davvero fuoco, la scintilla all'orizzonte appariva sempre come il fanale gemello del faro della costa.»
+
+     «Ed è così» disse Flambeau, «che morirono il padre e il fratello. Il malvagio zio delle leggende per poco non si è preso, alla fine, la tenuta.»
+
+     Padre Brown non rispose; anzi, non parlò più, se non per cortesia, finché non furono tutti al sicuro attorno a una scatola di sigari nella cabina del panfilo. Vide che il frustrato incendio era spento; e poi rifiutò di attardarsi, benché udisse davvero il giovane Pendragon, scortato da una folla entusiasta, arrivare a passo pesante lungo la riva del fiume; e avrebbe potuto (se fosse stato mosso da romantiche curiosità) ricevere i ringraziamenti congiunti dell'uomo della nave e della ragazza della canoa. Ma la stanchezza gli era ripiombata addosso ancora una volta, e trasalì una sola volta, quando Flambeau gli disse bruscamente che gli era caduta della cenere di sigaro sui calzoni.
+
+     «Non è cenere di sigaro» disse piuttosto spossato. «Viene dal fuoco, ma voi non lo pensate perché state tutti fumando sigari. È proprio così che ho avuto il mio primo debole sospetto a proposito della carta.»
+
+     «Volete dire la carta delle isole del Pacifico di Pendragon?» chiese Fanshaw.
+
+     «Voi credevate che fosse una carta delle isole del Pacifico» rispose Brown. «Mettete una piuma accanto a un fossile e a un pezzetto di corallo, e tutti penseranno che sia un esemplare. Mettete la stessa piuma accanto a un nastro e a un fiore artificiale, e tutti penseranno che sia per il cappello di una signora. Mettete la stessa piuma accanto a un calamaio, a un libro e a una pila di carta da lettere, e la maggior parte degli uomini giurerà di aver visto una penna d'oca. Così voi avete visto quella mappa tra uccelli tropicali e conchiglie, e avete pensato che fosse una mappa delle isole del Pacifico. Era la mappa di questo fiume.»
+
+     «Ma come lo sapete?» chiese Fanshaw.
+
+     «Ho visto lo scoglio che voi pensavate somigliasse a un drago, e quello simile a Merlino, e…»
+
+     «Sembra che abbiate notato parecchio, mentre entravamo» esclamò Fanshaw. «Noi vi credevamo piuttosto assente.»
+
+     «Avevo il mal di mare» disse semplicemente Padre Brown. «Mi sentivo semplicemente orribile. Ma sentirsi orribili non ha nulla a che fare con il non vedere le cose.» E chiuse gli occhi.
+
+     «Credete che la maggior parte degli uomini avrebbe visto tutto ciò?» chiese Flambeau. Non ricevette risposta: Padre Brown dormiva.
+
+                                 NOVE

@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/wifrb11-(chesterton)">The Wisdom of Father Brown</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/wifrb11/story_09_the_god_of_the_gongs/part_04">‹ part 04</a><a class="ex-next" href="/testi/chesterton/atomized/wifrb11/story_10_the_salad_of_colonel_cray/part_01">part 01 ›</a></div>
@@ -184,3 +186,184 @@ for an instant into the direction of the soot-masked niggers singing
 on the sands.
 
                                   TEN
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/wifrb11-(chesterton)">The Wisdom of Father Brown</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/wifrb11/story_09_the_god_of_the_gongs/part_04">‹ part 04</a><a class="ex-next" href="/testi/chesterton/atomized/wifrb11/story_10_the_salad_of_colonel_cray/part_01">part 01 ›</a></div>
+</nav>
+
+# [[wifrb11]] — Il dio dei gong (parte 5)
+
+     Il nobiluomo batté il campanello sul tavolo con una strana aria
+di nuova curiosità. Disse all'impiegato che apparve quasi all'istante
+sulla soglia: «Ho un annuncio importante da fare al pubblico
+tra breve. Nel frattempo, vorreste gentilmente dire ai due campioni che
+l'incontro dovrà essere rinviato.»
+
+     L'impiegato fissò per alcuni secondi come dinanzi a un demonio, e svanì.
+
+     «Su quale autorità fondate ciò che dite?» chiese Lord Pooley
+bruscamente. «Chi avete consultato?»
+
+     «Ho consultato un palco d'orchestra,» disse Padre Brown, grattandosi la testa.
+«Ma, no, sbaglio; ho consultato anche un libro. L'ho preso
+su una bancarella di libri a Londra... e per giunta a pochissimo prezzo.»
+
+     Aveva tratto di tasca un piccolo, robusto volume rilegato in pelle,
+e Flambeau, guardando al di sopra della sua spalla, poté vedere che era un qualche
+libro di viaggi antichi, con una pagina piegata come segno.
+
+     «"L'unica forma in cui il Voodoo..."» cominciò [[Father Brown]], leggendo ad alta voce.
+
+     «In cui che cosa?» domandò sua signoria.
+
+     «"In cui il Voodoo,"» ripeté il lettore, quasi con gusto,
+«"è ampiamente organizzato al di fuori della Giamaica stessa è nella forma nota come
+la Scimmia, ovvero il Dio dei Gong, che è potente in molte parti dei
+due continenti americani, specialmente tra i meticci, molti dei quali
+somigliano esattamente a uomini bianchi. Si distingue dalla maggior parte delle altre forme
+di culto del diavolo e di sacrificio umano per il fatto che il [[Blood|sangue]]
+non viene versato formalmente sull'altare, ma mediante una sorta di assassinio
+in mezzo alla folla. I gong battono con un frastuono assordante mentre
+le porte del santuario si aprono e il dio-scimmia si rivela;
+quasi tutta la congregazione inchioda su di lui gli occhi estatici. Ma dopo..."»
+
+     La porta della stanza fu spalancata, e l'elegante negro
+si stagliò incorniciato in essa, gli occhi [[rolling|roteanti]], il cilindro di seta ancora insolentemente
+inclinato sul capo. «Uh!» gridò, mostrando i denti scimmieschi.
+«Che roba è questa? Uh! Uh! Voi rubate premio a un signore di colore...
+premio già suo... voi credete di salvare quella feccia di 'Taliano bianco...»
+
+     «La faccenda è soltanto rinviata,» disse tranquillamente il nobiluomo.
+«Sarò da voi a spiegarvi tra un minuto o due.»
+
+     «Chi siete voi per...» gridò Nigger Ned, cominciando a [[Storm|infuriare]].
+
+     «Il mio nome è Pooley,» rispose l'altro, con lodevole freddezza.
+«Sono il segretario organizzatore, e vi consiglio in questo momento
+di lasciare la stanza.»
+
+     «Chi è questo tale?» domandò il tenebroso campione, indicando il
+prete con disdegno.
+
+     «Il mio nome è Brown,» fu la risposta. «E vi consiglio in questo momento
+di lasciare il paese.»
+
+     Il pugile rimase a fissare torvo per qualche secondo, e poi,
+con una certa sorpresa di [[Flambeau]] e degli altri, uscì a grandi passi,
+sbattendosi la porta dietro con un fragore.
+
+     «[[Well|Ebbene]],» chiese [[Father Brown]] arruffandosi i capelli impolverati,
+«che cosa ne pensate di Leonardo da Vinci? Una bella testa italiana.»
+
+     «Sentite,» disse Lord Pooley, «mi sono assunto una responsabilità considerevole,
+sulla vostra semplice parola. Credo che dovreste dirmi di più su questa faccenda.»
+
+     «Avete perfettamente ragione, milord,» rispose Brown. «E non ci vorrà
+molto a dirlo.» Rimise il piccolo libro di pelle nella tasca del soprabito.
+«Credo che sappiamo già tutto ciò che questo può dirci, ma voi dategli un'occhiata
+per vedere se ho ragione. Quel negro che è appena uscito impettito è uno
+degli uomini più pericolosi della terra, poiché ha il cervello di un europeo,
+con gli istinti di un cannibale. Ha trasformato quella che era pulita,
+comune macelleria tra i suoi compagni barbari in una modernissima
+e scientifica società segreta di assassini. Egli non sa che io lo so,
+né, del resto, che io non posso provarlo.»
+
+     Ci fu un [[Silence|silenzio]], e l'ometto proseguì.
+
+     «Ma se io voglio assassinare qualcuno, sarà davvero il piano migliore
+assicurarmi di essere [[Alone|solo]] con lui?»
+
+     Gli occhi di Lord Pooley recuperarono il loro gelido scintillio mentre
+guardava il piccolo ecclesiastico. Disse soltanto: «Se voleste
+assassinare qualcuno, ve lo consiglierei.»
+
+     [[Father Brown]] scosse il capo, come un assassino di ben più matura esperienza.
+«Così ha detto [[Flambeau]],» rispose, con un sospiro. «Ma riflettete.
+Più un uomo si sente solo, meno può esser certo di essere [[Alone|solo]].
+Ciò deve voler dire spazi vuoti intorno a lui, ed è proprio ciò che
+lo rende evidente. Non avete mai visto un aratore dalle alture,
+o un pastore dalle valli? Non avete mai camminato lungo una scogliera,
+e visto un uomo solo camminare lungo la rena? Non vi siete accorto quando
+uccideva un granchio, e non ve ne sareste accorto se fosse stato un creditore?
+No! No! No! Per un assassino intelligente, quale voi o io potremmo essere,
+è un piano impossibile assicurarsi che nessuno vi stia guardando.»
+
+     «Ma quale altro piano c'è?»
+
+     «Ce n'è uno solo,» disse il prete. «Assicurarsi
+che tutti stiano guardando qualcos'altro. Un uomo viene strangolato
+proprio accanto alla grande tribuna di Epsom. Chiunque avrebbe potuto vederlo fare
+mentre la tribuna era vuota... un qualsiasi vagabondo sotto le siepi o un automobilista
+tra le colline. Ma nessuno lo avrebbe visto quando la tribuna
+era gremita e tutto l'anello ruggiva, quando il favorito stava
+arrivando primo... o non stava arrivando. La torsione di una cravatta,
+lo spingere un [[Body|corpo]] dietro una porta si potevano compiere in un istante...
+purché fosse quell'istante. Fu lo stesso, naturalmente,»
+continuò voltandosi verso [[Flambeau]], «con quel povero diavolo
+sotto il palco dell'orchestra. Fu fatto cadere attraverso il buco (non era
+un buco accidentale) proprio in qualche momento assai drammatico dello spettacolo,
+quando l'archetto di qualche grande violinista o la voce di qualche grande cantante
+si apriva o giungeva al suo culmine. E qui, naturalmente, quando fosse giunto
+il colpo del knock-out... non sarebbe stato l'unico. È questo il piccolo trucco
+che Nigger Ned ha adottato dal suo antico Dio dei Gong.»
+
+     «A proposito, Malvoli...» cominciò Pooley.
+
+     «Malvoli,» disse il prete, «non c'entra nulla.
+Oserei dire che ha con sé alcuni italiani, ma i nostri amabili amici
+non sono italiani. Sono ottavoni e mulatti africani
+di varie sfumature, ma [[Fear|temo]] che noi inglesi crediamo che tutti gli stranieri
+siano più o meno uguali purché siano scuri e sporchi. Inoltre,»
+aggiunse, con un sorriso, «[[Fear|temo]] che gli inglesi si rifiutino di tracciare
+una qualsiasi sottile distinzione tra il carattere morale prodotto dalla mia religione
+e quello che fiorisce dal Voodoo.»
+
+     La vampa della stagione [[spring|primaverile]] era piombata su Seawood,
+disseminandone la spiaggia di venditori di leccornie e di cabine da bagno,
+di predicatori nomadi e di menestrelli negri, prima che i due amici
+la rivedessero, e molto prima che la [[Storm|tempesta]] della caccia alla strana
+società segreta si fosse placata. Quasi ovunque il segreto
+del loro proposito perì con loro. L'uomo dell'albergo fu trovato
+alla deriva, morto sul mare come tanta alga; il suo occhio destro era
+chiuso in pace, ma il suo occhio sinistro era spalancato, e luccicava come vetro
+alla [[Moon|luna]]. Nigger Ned era stato raggiunto a un miglio o due di distanza,
+e aveva ucciso tre poliziotti con la sola mano sinistra serrata.
+L'agente rimasto rimase sorpreso... anzi, addolorato... e il negro fuggì.
+Ma ciò bastò a mettere a fuoco tutti i giornali inglesi,
+e per un mese o due lo scopo principale dell'Impero Britannico fu
+impedire al bruto negro (che lo era in entrambi i sensi) di sfuggire per qualsiasi
+porto inglese. Persone di corporatura anche solo lontanamente conciliabile con la sua
+furono sottoposte a interrogatori del tutto straordinari, costrette a strofinarsi
+la faccia prima di salire a bordo di una [[Ship|nave]], come se ogni carnagione bianca
+fosse composta, alla maniera di una maschera, di cerone.
+Ogni negro in Inghilterra fu posto sotto speciali regolamenti e obbligato a presentarsi;
+le navi in partenza avrebbero preso a bordo un negro non più volentieri di un basilisco.
+Poiché la gente aveva scoperto quanto fosse spaventosa, vasta e silenziosa
+la forza della selvaggia società segreta, e nel [[Time|momento]] in cui [[Flambeau]] e
+[[Father Brown]] si appoggiarono al parapetto della passeggiata in aprile, l'Uomo Nero
+significava in Inghilterra quasi ciò che un tempo aveva significato in Scozia.
+
+     «Dev'essere ancora in Inghilterra,» osservò [[Flambeau]], «e per giunta
+orribilmente [[Well|ben]] nascosto. Devono averlo trovato ai porti se avesse
+soltanto sbiancato la sua faccia.»
+
+     «Vedete, è davvero un uomo astuto,» disse [[Father Brown]]
+in tono di scusa. «E sono certo che non sbiancherebbe la propria faccia.»
+
+     «[[Well|Ebbene]], ma allora che cosa farebbe?»
+
+     «Penso,» disse [[Father Brown]], «che si annerirebbe la faccia.»
+
+     [[Flambeau]], appoggiato immobile al parapetto, rise e disse:
+«Mio caro amico!»
+
+     [[Father Brown]], anch'egli appoggiato immobile al parapetto, mosse per un istante
+un dito nella direzione dei negri mascherati di fuliggine che cantavano
+sulla rena.
+
+                                  DIECI

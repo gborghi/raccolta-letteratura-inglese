@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/heret12-(chesterton)">Heretics</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/heret12/story_16_on_the_wit_of_whistler/part_01">‹ part 01</a><a class="ex-next" href="/testi/chesterton/atomized/heret12/story_16_on_the_wit_of_whistler/part_03">part 03 ›</a></div>
@@ -120,3 +122,120 @@ or any bright and pleasing metaphors from the morning star, that they
 should be placed at our disposal in that particular forensic controversy.
 In a word, we are very glad that he is an ordinary man, since that may
 help him to be an exceptional lawyer.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/heret12-(chesterton)">Heretics</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/heret12/story_16_on_the_wit_of_whistler/part_01">‹ part 01</a><a class="ex-next" href="/testi/chesterton/atomized/heret12/story_16_on_the_wit_of_whistler/part_03">part 03 ›</a></div>
+</nav>
+
+# [[heret12]] — Sull'arguzia di Whistler (parte 2)
+
+ "`[[Well|Ebbene]], pubblico britannico, tu che non mi ami,
+   (Iddio ti [[Love|ami]]!) e vuoi farti la tua bella risata
+   sull'oscura questione; ridine pure!  Io riderei per primo.'
+
+«Il signor Whistler», aggiunge il professor Raleigh, «rideva sempre per primo».
+La [[Truth|verità]], io credo, è che Whistler non rise mai affatto.
+Non c'era riso nella sua [[Nature|natura]]; perché non c'era
+sconsideratezza né abbandono di [[Self|sé]], non c'era [[Humility|umiltà]].  Non riesco
+a capire che qualcuno legga «The Gentle Art of Making Enemies»
+e pensi che ci sia del riso in quell'arguzia.
+La sua arguzia è per lui una tortura.  Egli si contorce in arabeschi
+di felicità verbale; è colmo di una feroce accuratezza;
+è ispirato dalla completa serietà di una sincera malizia.
+Ferisce se stesso per ferire l'avversario.  Browning rideva davvero,
+perché a Browning non importava; a Browning non importava,
+perché Browning era un grande uomo.  E quando Browning disse
+tra parentesi alla gente semplice e assennata a cui non piacevano
+i suoi libri: «Iddio vi [[Love|ami]]!», non stava affatto sogghignando.
+Stava ridendo, vale a dire: intendeva esattamente quel che diceva.
+
+Vi sono tre classi distinte di grandi satirici che
+sono anche grandi uomini, ossia tre classi di uomini
+capaci di ridere di qualcosa senza perdere l'anima.
+Il satirico del primo tipo è colui che, prima di tutto,
+gode di se stesso, e poi gode dei propri nemici.  In questo senso
+egli ama il proprio nemico e, per una sorta di esagerazione del [[Christianity|Cristianesimo]],
+lo ama tanto più quanto più costui diventa nemico.
+Ha una specie di felicità travolgente e aggressiva nella sua
+affermazione di collera; la sua maledizione è umana quanto una benedizione.
+Di questo tipo di [[Satire|satira]] il grande esempio è Rabelais.  È questo
+il primo esempio tipico di [[Satire|satira]], la [[Satire|satira]] che
+è loquace, che è violenta, che è indecente, ma che
+non è maliziosa.  La [[Satire|satira]] di Whistler non era questa.
+In nessuna delle sue controversie egli fu mai semplicemente felice;
+lo prova il fatto che non disse mai un'assoluta sciocchezza.
+C'è un secondo tipo di mente che produce [[Satire|satira]] con la qualità
+della [[Greatness|grandezza]].  Esso s'incarna nel satirico le cui passioni
+sono liberate e sciolte da un intollerabile senso del torto.
+È reso folle dal senso degli uomini resi folli; la sua lingua
+diventa un membro indocile e testimonia contro tutto il genere umano.
+Tale fu Swift, in cui la saeva indignatio era
+un'amarezza per gli altri, perché era un'amarezza per lui stesso.
+Un tale satirico Whistler non fu.  Non rideva perché
+era felice, come Rabelais.  Ma neppure rideva perché
+era infelice, come Swift.
+
+Il terzo tipo di grande [[Satire|satira]] è quello in cui il satirico
+riesce a innalzarsi al di sopra della propria vittima nell'unico senso serio
+che la superiorità possa avere, quello del compatire il peccatore
+e rispettare l'uomo pur mentre satireggia entrambi.
+Un simile risultato si può trovare in una cosa come l'«Atticus» di Pope,
+poema in cui il satirico sente di satireggiare
+le debolezze che appartengono in modo particolare al genio letterario.
+Di conseguenza egli si compiace di additare la forza
+del proprio nemico prima di additarne la debolezza.
+Questa è, forse, la forma più alta e più onorevole di [[Satire|satira]].
+Non è la [[Satire|satira]] di Whistler.  Egli non è colmo di un grande
+dolore per il torto arrecato alla [[Nature|natura]] umana; per lui il torto
+è arrecato tutto quanto a se stesso.
+
+Non fu una grande personalità, perché pensava troppo a se stesso.
+E la questione è ancor più grave di così.  A volte non fu neppure un
+grande [[Artist|artista]], perché pensava troppo all'arte.  Chiunque abbia una vitale
+conoscenza della psicologia umana dovrebbe nutrire il più profondo sospetto
+verso chi si proclama [[Artist|artista]] e parla moltissimo d'arte.
+L'arte è una cosa giusta e umana, come camminare o recitare le proprie preghiere;
+ma nel momento in cui se ne comincia a parlare con molta solennità, un uomo può essere abbastanza
+certo che la cosa è entrata in una congestione e in una sorta di difficoltà.
+
+Il temperamento artistico è una malattia che affligge i dilettanti.
+È una malattia che nasce dal fatto che gli uomini non hanno sufficiente potere
+espressivo per esprimere e liberarsi dell'elemento d'arte che è nel loro essere.
+È salubre, per ogni uomo sano, esprimere l'arte che ha dentro;
+è essenziale, per ogni uomo sano, liberarsi a ogni costo dell'arte
+che ha dentro.  Gli artisti dotati di una vitalità ampia e sana si liberano
+della propria arte con facilità, come respirano con facilità, o sudano con facilità.
+Ma negli artisti di minor forza la cosa diventa una pressione,
+e produce un ben preciso [[Pain|dolore]], che si chiama temperamento artistico.
+Così, i grandissimi artisti sono capaci di essere uomini comuni,
+uomini come Shakespeare o Browning.  Vi sono molte vere tragedie
+del temperamento artistico, tragedie di [[Vanity|vanità]] o di violenza o di [[Fear|paura]].
+Ma la grande [[Tragedy|tragedia]] del temperamento artistico è che esso non riesce
+a produrre alcuna arte.
+
+Whistler poteva produrre arte; e in ciò era un grande uomo.
+Ma non poteva dimenticare l'arte; e in ciò era soltanto un uomo con
+il temperamento artistico.  Non vi può essere manifestazione più forte
+dell'uomo che è un [[Artist|artista]] davvero grande del fatto che egli sa congedare
+l'argomento dell'arte; che sa, all'occorrenza, augurare all'arte di finire in [[Bottom|fondo]]
+al mare.  Allo stesso modo, saremmo sempre molto più inclini a fidarci
+di un procuratore legale che non parlasse di compravendite immobiliari davanti a noci e vino.
+Ciò che realmente [[Desire|desideriamo]] da chiunque conduca un qualsiasi affare è che l'intera
+forza di un uomo comune sia riversata in quel particolare studio.
+Non [[Desire|desideriamo]] che l'intera forza di quello studio sia riversata in
+un uomo comune.  Non desideriamo minimamente che la nostra particolare causa
+riversi la propria energia nei giochi del nostro avvocato con i suoi figli,
+o nelle sue passeggiate in bicicletta, o nelle sue meditazioni sulla stella del mattino.
+Ma sì, in verità, [[Desire|desideriamo]] che i suoi giochi con i figli,
+e le sue passeggiate in bicicletta, e le sue meditazioni sulla stella del mattino
+riversino qualcosa della loro energia nella nostra causa. [[Desire|Desideriamo]]
+che, se dalla bicicletta ha tratto un qualche particolare sviluppo dei polmoni,
+o dalla stella del mattino qualche brillante e gradevole metafora, questi
+siano posti a nostra disposizione in quella particolare controversia forense.
+In una parola, siamo lietissimi che egli sia un uomo comune, poiché ciò può
+aiutarlo a essere un avvocato eccezionale.

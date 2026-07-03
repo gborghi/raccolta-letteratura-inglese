@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/thursday-(chesterton)">The Man Who Was Thursday</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/thursday/chapter_13/part_03">‹ part 03</a><a class="ex-next" href="/testi/chesterton/atomized/thursday/chapter_14/part_01">part 01 ›</a></div>
@@ -102,3 +104,102 @@ There was a short [[Silence|silence]], and then Syme said, biting his beard--
 
 "I'm not beaten yet.  The blasted thing must come down somewhere.
 Let's follow it!"
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/thursday-(chesterton)">The Man Who Was Thursday</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/thursday/chapter_13/part_03">‹ part 03</a><a class="ex-next" href="/testi/chesterton/atomized/thursday/chapter_14/part_01">part 01 ›</a></div>
+</nav>
+
+# [[thursday]] — Capitolo 13 (parte 4)
+
+«La parola, immagino, dovrebbe essere “rosa”.»
+
+L’uomo un tempo noto come Gogol non disse nulla, ma i movimenti delle sue mani
+e dei suoi piedi erano quelli di un uomo che spinge un [[Horse|cavallo]] a rinnovati sforzi.
+
+Attraverso strada dopo strada, attraverso quartiere dopo quartiere,
+andava il prodigio dell’elefante volante, richiamando folle
+a ogni [[Window|finestra]], e cacciando il traffico a destra e a sinistra.
+E ancora, attraverso tutta questa insana pubblicità, le tre carrozze arrancavano
+dietro di esso, finché non furono considerate parte di un corteo,
+e forse la réclame di un circo.  Andavano a una tale
+andatura che le distanze si accorciavano oltre ogni credere, e Syme vide
+la Albert Hall a Kensington quando credeva di essere ancora
+a Paddington.  L’andatura dell’animale era persino più rapida e libera
+per le vuote, aristocratiche vie di South Kensington,
+e alla fine puntò verso quella parte dell’orizzonte
+dove l’enorme [[Wheel|Ruota]] di Earl’s [[Court]] si ergeva nel cielo.
+La [[Wheel|ruota]] cresceva sempre più grande, finché non riempì il cielo come
+la [[Wheel|ruota]] delle [[Stars|stelle]].
+
+La bestia distanziò le carrozze.  Lo persero di vista a diversi angoli,
+e quando giunsero a uno dei cancelli dell’Esposizione di Earl’s [[Court]] si
+trovarono infine bloccati.  Davanti a loro c’era una folla enorme;
+in mezzo ad essa c’era un enorme elefante, che ansimava e fremeva come fanno tali
+creature informi.  Ma il Presidente era scomparso.
+
+«Dov’è andato?» chiese Syme, scivolando a terra.
+
+«Il gentiluomo si è precipitato dentro l’Esposizione, signore!» disse un funzionario
+in modo stordito.  Poi aggiunse con voce offesa:
+«Buffo gentiluomo, signore.  Mi ha chiesto di tenergli il [[Horse|cavallo]],
+e mi ha dato questo.»
+
+Porse con disgusto un pezzo di carta piegato, indirizzato:
+«Al Segretario del Consiglio Anarchico Centrale.»
+
+Il Segretario, infuriato, lo squarciò, e vi trovò scritto dentro:…
+
+  «Quando l’aringa corre un miglio,
+  Rida pure il Segretario;
+  Quando l’aringa prova a volare,
+  Muoia pure il Segretario.
+                  Proverbio campagnolo.»
+
+«Perché diavolo mai», cominciò il Segretario, «avete lasciato entrare quell’uomo?
+La gente viene forse comunemente alla vostra Esposizione a cavallo di elefanti impazziti?  Ma…»
+
+«Guardate!» gridò Syme d’improvviso.  «Guardate laggiù!»
+
+«Guardare che cosa?» chiese il Segretario ferocemente.
+
+«Guardate il pallone frenato!» disse Syme, e indicò in preda al furore.
+
+«Perché diamine dovrei guardare un pallone frenato?»
+domandò il Segretario.  «Che c’è di strano in
+un pallone frenato?»
+
+«Nulla», disse Syme, «se non che non è frenato!»
+
+Tutti volsero gli occhi là dove il pallone oscillava e si gonfiava
+sopra l’Esposizione a un filo, come il pallone di un [[Child|bambino]].
+Un attimo dopo il filo si spezzò in due proprio sotto la navicella,
+e il pallone, sciolto, se ne andò fluttuando con la [[Freedom|libertà]]
+di una bolla di sapone.
+
+«Diecimila diavoli!» strillò il Segretario.  «C’è salito dentro!»
+e agitò i pugni contro il cielo.
+
+Il pallone, portato da qualche [[Wind|vento]] casuale, giunse proprio sopra di loro,
+ed essi poterono vedere la grande testa bianca del Presidente sbirciare
+oltre il bordo e guardarli benevolmente dall’alto.
+
+«Dio benedica la mia [[Soul|anima]]!» disse [[The Professor|il Professore]] con quell’aria attempata che
+non riusciva mai a disgiungere dalla barba scolorita e dal volto pergamenaceo.
+«Dio benedica la mia [[Soul|anima]]!  M’è parso che qualcosa cadesse sulla cima
+del mio cappello!»
+
+Alzò una mano tremante e prese da quel ripiano un pezzo di carta attorcigliato,
+che aprì distrattamente solo per trovarlo iscritto con un vero nodo d’[[Lover|amante]]
+e le parole:…
+
+«La vostra [[Beauty|bellezza]] non mi ha lasciato indifferente. — Dalla PICCOLA CAMPANELLINA.»
+
+Ci fu un breve [[Silence|silenzio]], e poi Syme disse, mordendosi la barba…
+
+«Non sono ancora battuto.  Quel maledetto affare dovrà pur scendere da qualche parte.
+Seguiamolo!»

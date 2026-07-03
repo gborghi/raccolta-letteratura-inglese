@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/wifrb11-(chesterton)">The Wisdom of Father Brown</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/wifrb11/story_04_the_man_in_the_passage/part_04">‹ part 04</a><a class="ex-next" href="/testi/chesterton/atomized/wifrb11/story_04_the_man_in_the_passage/part_06">part 06 ›</a></div>
@@ -139,3 +141,139 @@ the black shape.  [[Well]], what shape was it?"
 the literal [[Nature|nature]] of obedience.  "The shape," he said, "was short
 and thick, but had two sharp, black projections curved upwards
 on each side of the head or top, rather like horns, and--"
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/wifrb11-(chesterton)">The Wisdom of Father Brown</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/wifrb11/story_04_the_man_in_the_passage/part_04">‹ part 04</a><a class="ex-next" href="/testi/chesterton/atomized/wifrb11/story_04_the_man_in_the_passage/part_06">part 06 ›</a></div>
+</nav>
+
+# [[wifrb11]] — L'uomo nel passaggio (parte 5)
+
+     Sir Walter Cowdray concesse un intervallo suggestivo,
+durante il quale il testimone guardò in basso, e con tutta la sua consueta compostezza
+parve avere più del consueto pallore.  Poi l'avvocato disse
+a voce più bassa, che parve al tempo stesso partecipe e sinistra:
+«Lo vide distintamente?»
+
+     Sir Wilson Seymour, per quanto turbato, aveva il suo eccellente cervello
+in piena efficienza.  «Molto distintamente quanto al suo profilo,
+ma del tutto indistintamente, anzi per niente, quanto ai dettagli
+all'interno del profilo.  L'andito è di tale lunghezza che chiunque si trovi
+nel mezzo appare del tutto nero contro la luce dell'estremità opposta.»
+Il testimone abbassò di nuovo i suoi occhi fermi e aggiunse:
+«Avevo già notato il fatto in precedenza, quando il capitano Cutler vi entrò per la prima volta.»
+Ci fu un altro [[Silence|silenzio]], e il giudice si sporse in avanti e prese un appunto.
+
+     «[[Well|Bene]],» disse Sir Walter pazientemente, «com'era questo profilo?
+Era, per esempio, come la figura della donna assassinata?»
+
+     «Per niente,» rispose Seymour quietamente.
+
+     «A che cosa vi sembrò somigliare?»
+
+     «Mi sembrò,» rispose il testimone, «un uomo alto.»
+
+     Tutti in [[Court|tribunale]] tenevano gli occhi inchiodati sulla propria penna,
+o sul manico del proprio ombrello, o sul proprio libro, o sui propri stivali o su qualunque cosa
+gli capitasse di guardare.  Parevano tenere gli occhi
+lontani dal prigioniero a viva forza; ma sentivano la sua figura nel banco degli imputati,
+e la sentivano gigantesca.  Per quanto Bruno fosse alto all'occhio,
+pareva gonfiarsi sempre più alto quando ogni occhio ne era stato
+strappato via.
+
+     Cowdray tornava al suo posto con il volto solenne,
+lisciandosi le nere toghe di seta e i bianchi favoriti di seta.
+Sir Wilson stava lasciando il banco dei testimoni, dopo alcuni ultimi particolari
+per i quali c'erano molti altri testimoni, quando l'avvocato della difesa
+balzò in piedi e lo fermò.
+
+     «Vi tratterrò solo un momento,» disse il signor Butler,
+che era una persona dall'aria campagnola, con le sopracciglia rosse e un'espressione
+di parziale sonnolenza.  «Vorrete dire a sua signoria come sapevate
+che era un uomo?»
+
+     Un tenue, raffinato sorriso parve passare sui tratti di Seymour.
+«Temo che sia la volgare prova dei pantaloni,» disse.
+«Quando vidi la luce del giorno tra le lunghe gambe, fui certo che fosse un uomo,
+dopotutto.»
+
+     Gli occhi assonnati di Butler si spalancarono d'un tratto come una silenziosa esplosione.
+«Dopotutto!» ripeté lentamente.  «Sicché in un primo momento pensaste
+che fosse una donna?»
+
+     Seymour parve turbato per la prima [[Time|volta]].  «Non è propriamente
+un punto di fatto,» disse, «ma se sua signoria desidera che io
+risponda della mia impressione, naturalmente lo farò.  C'era qualcosa
+in quella cosa che non era esattamente una donna e tuttavia non era del tutto un uomo;
+in qualche modo le curve erano diverse.  E aveva qualcosa che sembrava
+capelli lunghi.»
+
+     «Grazie,» disse il signor Butler, K.C., e si sedette d'un tratto,
+come se avesse ottenuto ciò che voleva.
+
+     Il capitano Cutler fu un testimone assai meno plausibile e composto
+di Sir Wilson, ma il suo resoconto degli incidenti iniziali fu
+solidamente il medesimo.  Descrisse il ritorno di Bruno nel proprio camerino,
+l'invio di sé stesso a comprare un mazzo di mughetti,
+il suo ritorno all'estremità superiore dell'andito, la cosa che vide
+nell'andito, il suo sospetto verso Seymour, e la sua lotta con Bruno.
+Ma poté fornire ben poco aiuto artistico circa la figura nera
+che lui e Seymour avevano visto.  Interrogato sul suo profilo, disse di
+non essere un critico d'arte--con una punta un po' troppo evidente contro Seymour.
+Interrogato se fosse un uomo o una donna, disse che somigliava piuttosto a una bestia--
+con un ringhio un po' troppo evidente contro il prigioniero.  Ma l'uomo era palesemente scosso
+dal dolore e da un'ira sincera, e Cowdray lo dispensò prontamente
+dal confermare fatti che erano già abbastanza chiari.
+
+     Anche l'avvocato difensore fu di nuovo breve nel suo contro[[Cross|interrogatorio]];
+sebbene (come era sua abitudine) persino nell'essere breve, sembrasse metterci
+un lungo [[Time|tempo]].  «Avete usato un'espressione piuttosto notevole,» disse,
+guardando Cutler con aria assonnata.  «Che cosa intendete dicendo che
+somigliava a una bestia più che a un uomo o a una donna?»
+
+     Cutler parve seriamente agitato.  «Forse non avrei dovuto
+dirlo,» disse; «ma quando quel bruto ha enormi spalle gobbe
+come uno scimpanzé, e setole che gli spuntano dalla testa come un maiale--»
+
+     Il signor Butler troncò a metà la sua curiosa impazienza.
+«Non importa se i suoi capelli erano come quelli di un maiale,» disse,
+«erano come quelli di una donna?»
+
+     «Di una donna!» gridò il soldato.  «Santo cielo, no!»
+
+     «L'ultimo testimone ha detto di sì,» osservò l'avvocato,
+con senza scrupoli prontezza.  «E la figura aveva forse qualcuna di quelle
+curve serpentine e semi-femminili a cui si è fatta eloquente
+allusione?  No?  Nessuna curva femminile?  La figura, se vi capisco bene,
+era piuttosto pesante e quadrata che altrimenti?»
+
+     «Può darsi che fosse chinato in avanti,» disse Cutler, con voce roca
+e piuttosto fioca.
+
+     «O anche, può darsi di no,» disse il signor Butler, e si sedette d'un tratto
+per la seconda [[Time|volta]].
+
+     Il terzo testimone chiamato da Sir Walter Cowdray fu
+il piccolo ecclesiastico cattolico, così piccolo, rispetto agli altri,
+che la testa pareva a stento sporgere sopra il banco, sicché era come
+contro[[Cross|interrogare]] un [[Child|bambino]].  Ma sfortunatamente Sir Walter si era in qualche modo
+ficcato in testa (per lo più per certe ramificazioni della religione della sua famiglia)
+che [[Father Brown|padre Brown]] fosse dalla parte del prigioniero, perché il prigioniero
+era malvagio e straniero e persino in parte nero.  Perciò
+riprendeva bruscamente [[Father Brown|padre Brown]] ogni volta che quell'orgoglioso pontefice tentava
+di spiegare qualcosa; e gli diceva di rispondere sì o no, e di raccontare
+i semplici fatti senza gesuiterie.  Quando [[Father Brown|padre Brown]] cominciò,
+nella sua semplicità, a dire chi credeva fosse l'uomo nell'andito,
+l'avvocato gli disse che non voleva le sue teorie.
+
+     «Una sagoma nera fu vista nell'andito.  E voi dite di aver visto
+la sagoma nera.  [[Well|Bene]], che forma aveva?»
+
+     [[Father Brown|Padre Brown]] batté le palpebre come sotto un rimprovero; ma da tempo conosceva
+la [[Nature|natura]] letterale dell'obbedienza.  «La forma,» disse, «era corta
+e tozza, ma aveva due nette, nere sporgenze ricurve verso l'alto
+su ciascun lato della testa o della sommità, piuttosto simili a corna, e--»

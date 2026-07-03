@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/heret12-(chesterton)">Heretics</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/heret12/story_15_on_mr_mccabe_and_a_divine_frivolity/part_03">‹ part 03</a><a class="ex-next" href="/testi/chesterton/atomized/heret12/story_16_on_the_wit_of_whistler/part_02">part 02 ›</a></div>
@@ -122,3 +124,122 @@ of another man who was a great man as well as a great artist.
 "His attitude to the public was exactly the attitude taken up
 by Robert Browning, who suffered as long a period of neglect
 and mistake, in those lines of `The Ring and the Book'--
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/heret12-(chesterton)">Heretics</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/heret12/story_15_on_mr_mccabe_and_a_divine_frivolity/part_03">‹ part 03</a><a class="ex-next" href="/testi/chesterton/atomized/heret12/story_16_on_the_wit_of_whistler/part_02">part 02 ›</a></div>
+</nav>
+
+# [[heret12]] — Sull'arguzia di Whistler (parte 1)
+
+XVII.  Sull'arguzia di Whistler
+
+Quel capace e ingegnoso scrittore che è il signor Arthur Symons ha incluso,
+in un volume di saggi pubblicato di recente, se non erro, un'apologia
+di «London Nights», nella quale sostiene che, in fatto di critica, la morale
+dovrebbe essere interamente subordinata all'arte; e si serve dell'argomento
+alquanto singolare secondo cui l'arte, ossia il culto della bellezza, è la medesima
+in ogni epoca, mentre la morale differisce in ogni periodo e sotto ogni rispetto.
+Sembra sfidare i suoi critici o i suoi lettori a indicare un qualche tratto
+o una qualche qualità permanente nell'etica.  Ecco di certo un esempio assai curioso
+di quel bias stravagante contro la morale che rende tanti esteti
+ultramoderni morbosi e fanatici quanto un qualsiasi eremita d'Oriente.
+È indubbiamente una frase assai comune dell'intellettualismo moderno
+dire che la morale di un'epoca può essere interamente diversa
+dalla morale di un'altra.  E, come tante altre frasi
+dell'intellettualismo moderno, essa non significa letteralmente nulla.  Se le due
+morali sono interamente diverse, perché le chiami entrambe morali?
+È come se un uomo dicesse: «I cammelli, nei vari luoghi, sono totalmente diversi:
+alcuni hanno sei zampe, altri nessuna, alcuni hanno squame, altri piume,
+alcuni hanno corna, altri ali, alcuni sono verdi, altri triangolari.
+Non c'è alcun punto che abbiano in comune».  L'uomo di buon senso
+risponderebbe: «E allora che cosa ti spinge a chiamarli tutti cammelli?
+Che cosa intendi per cammello?  Come riconosci un cammello quando lo vedi?»
+Naturalmente esiste una sostanza permanente della morale, così come
+esiste una sostanza permanente dell'arte; e dire ciò equivale soltanto a dire
+che la morale è morale, e che l'arte è arte.  Un critico d'arte
+ideale, senza dubbio, scorgerebbe la bellezza duratura sotto ogni scuola;
+e allo stesso modo un moralista ideale scorgerebbe l'etica duratura sotto ogni codice.
+Ma di fatto alcuni dei migliori inglesi che siano mai vissuti non riuscivano a vedere
+altro che sozzura e idolatria nella stellata pietà del bramino.  Ed è
+altrettanto vero che, di fatto, il più grande gruppo di artisti
+che il mondo abbia mai veduto, i giganti del Rinascimento,
+non riuscivano a scorgere altro che barbarie nell'eterea energia del Gotico.
+
+Questo bias contro la morale, tra gli esteti moderni, non viene
+troppo ostentato.  Eppure non è realmente un bias
+contro la morale; è un bias contro la morale altrui.
+Di solito si fonda su una ben precisa preferenza morale
+per un certo genere di vita: pagana, plausibile, umana.
+L'esteta moderno, volendoci far credere che stima la bellezza
+più della condotta, legge Mallarmé e beve assenzio in una taverna.
+Ma questa non è soltanto la sua specie prediletta di bellezza; è anche la sua
+specie prediletta di condotta.  Se davvero volesse farci credere
+di curarsi soltanto della bellezza, dovrebbe frequentare unicamente
+le festicciole delle scuole wesleyane, e dipingere la luce del sole tra i capelli
+dei pargoli wesleyani.  Non dovrebbe leggere altro che eloquentissime
+prediche teologiche di antiquati pastori presbiteriani.
+Qui la mancanza di ogni possibile simpatia morale proverebbe
+che il suo interesse è puramente verbale o pittorico, come infatti è;
+in tutti i libri che legge e che scrive egli si aggrappa alle falde
+della propria morale e della propria immoralità.  Il campione dell'art
+pour l'art è sempre lì a denunciare Ruskin per il suo moralismo.
+Se fosse davvero un campione dell'art pour l'art, dovrebbe
+insistere di continuo su Ruskin per il suo stile.
+
+La dottrina della distinzione tra arte e morale deve
+gran parte del proprio successo al fatto che arte e morale sono irrimediabilmente
+mescolate nelle persone e nelle opere dei suoi massimi esponenti.
+Di questa fortunata contraddizione l'incarnazione stessa fu Whistler.
+Nessuno predicò mai così bene l'impersonalità dell'arte;
+nessuno predicò mai così personalmente l'impersonalità dell'arte.
+Per lui i quadri non avevano nulla a che fare con i problemi del carattere;
+eppure, per tutti i suoi più accesi ammiratori, il suo carattere era,
+in verità, assai più interessante dei suoi quadri.
+Si gloriava di ergersi come artista al di là del bene e del male.
+Ma vi riuscì parlando da mattina a sera dei suoi
+diritti e dei suoi torti.  I suoi talenti erano molti; le sue virtù,
+bisogna confessarlo, non molte, oltre a quella gentilezza verso gli amici provati
+su cui tanti dei suoi biografi insistono, ma che è certamente una
+qualità di tutti gli uomini sani di mente, dei pirati e dei borsaioli; oltre a questa,
+le sue virtù salienti si riducono soprattutto a due, per la verità ammirevoli:
+il coraggio e un astratto amore del buon lavoro.  Eppure ho l'impressione che egli abbia vinto
+alla fine più grazie a quelle due virtù che a tutti i suoi talenti.
+Un uomo deve essere in qualche misura un moralista, se vuol predicare,
+foss'anche predicare l'amoralità.  Il professor Walter Raleigh, nel suo
+«In Memoriam:  James McNeill Whistler», insiste, e a buon diritto, sulla
+forte vena di un'onestà eccentrica in fatto strettamente pittorico,
+che percorreva il suo carattere complesso e un po' confuso.
+«Avrebbe distrutto qualsiasi sua opera piuttosto che lasciare un tocco negligente
+o inespressivo entro i limiti della cornice.
+Avrebbe ricominciato cento volte piuttosto che tentare
+di far sembrare, con dei rappezzi, il proprio lavoro migliore di quanto fosse».
+
+Nessuno biasimerà il professor Raleigh, che dovette pronunciare una sorta di orazione
+funebre su Whistler all'inaugurazione della Mostra commemorativa,
+se, trovandosi in quella posizione, si limitò per lo più
+ai meriti e alle qualità più forti del suo soggetto.
+Per una debita considerazione delle debolezze di Whistler ci rivolgeremmo
+naturalmente a qualche altro tipo di componimento.  Ma esse non devono
+mai essere omesse dalla nostra visione di lui.  Anzi, la verità è
+che non si trattava tanto di una questione delle debolezze di Whistler
+quanto dell'intrinseca e primaria debolezza di Whistler.  Egli era
+una di quelle persone che vivono al limite delle proprie rendite emotive,
+sempre tese e vibranti di vanità.  Perciò non aveva
+forza da spendere; perciò non aveva gentilezza, non aveva geniale calore;
+poiché il geniale calore è quasi definibile come forza da spendere.
+Non aveva quella noncuranza degna d'un dio; non si dimenticava mai di sé;
+la sua vita intera fu, per usare la sua stessa espressione, un arrangement.
+Coltivava «l'arte di vivere», un misero trucco.
+In una parola, era un grande artista; ma decisamente non un grande uomo.
+A questo proposito devo dissentire fortemente dal professor Raleigh su
+quello che è, da un superficiale punto di vista letterario, uno dei suoi
+tratti più efficaci.  Egli paragona il riso di Whistler al riso
+di un altro uomo che fu un grande uomo oltre che un grande artista.
+«Il suo atteggiamento verso il pubblico era esattamente l'atteggiamento assunto
+da Robert Browning, che patì un periodo altrettanto lungo di misconoscimento
+e di equivoco, in quei versi di `The Ring and the Book`—

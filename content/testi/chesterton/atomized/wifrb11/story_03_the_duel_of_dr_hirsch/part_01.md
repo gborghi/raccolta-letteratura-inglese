@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/wifrb11-(chesterton)">The Wisdom of Father Brown</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/wifrb11/story_02_the_paradise_of_thieves/part_06">‹ part 06</a><a class="ex-next" href="/testi/chesterton/atomized/wifrb11/story_03_the_duel_of_dr_hirsch/part_02">part 02 ›</a></div>
@@ -131,3 +133,131 @@ that of a native; and his French patriotism was so impulsive
 as to be slightly absurd.  His first act when he burst out of the archway
 was to call in a clarion voice down the street:  "Are there any
 Frenchmen here?" as if he were calling for Christians in Mecca.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/wifrb11-(chesterton)">The Wisdom of Father Brown</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/wifrb11/story_02_the_paradise_of_thieves/part_06">‹ part 06</a><a class="ex-next" href="/testi/chesterton/atomized/wifrb11/story_03_the_duel_of_dr_hirsch/part_02">part 02 ›</a></div>
+</nav>
+
+# [[wifrb11]] — Il duello del dottor Hirsch (parte 1)
+
+                         Il duello del dottor Hirsch
+
+Il signor Maurice Brun e il signor Armand Armagnac attraversavano i soleggiati
+Champs Elysées con una sorta di vivace rispettabilità.
+Erano entrambi bassi, svelti e sfrontati. Avevano entrambi barbe nere
+che non parevano appartenere ai loro volti, secondo quella strana moda francese
+che fa sembrare artificiali i capelli veri. Il signor Brun aveva
+un cuneo scuro di barba, apparentemente incollato sotto il labbro inferiore.
+Il signor Armagnac, tanto per cambiare, aveva due barbe; una che sporgeva
+da ciascun angolo del suo mento risoluto. Erano entrambi giovani.
+Erano entrambi atei, con una deprimente fissità di vedute
+ma grande mobilità di esposizione. Erano entrambi allievi del
+grande dottor Hirsch, scienziato, pubblicista e moralista.
+
+     Il signor Brun era divenuto celebre per la sua proposta che la comune
+espressione «Adieu» fosse cancellata da tutti i classici francesi,
+e che una lieve ammenda fosse imposta a chi la usasse nella vita privata. «Allora», diceva,
+«il nome stesso del vostro immaginario Dio avrà echeggiato per l'ultima [[Time|volta]]
+all'orecchio dell'uomo». Il signor Armagnac si specializzava piuttosto in una resistenza
+al militarismo, e desiderava che il [[Chorus|ritornello]] della Marsigliese fosse mutato da
+«Aux armes, citoyens» in «Aux grèves, citoyens». Ma il suo antimilitarismo
+era di una specie peculiare e gallica. Un eminente e ricchissimo
+quacchero inglese, venuto a trovarlo per organizzare il disarmo
+dell'intero pianeta, rimase alquanto turbato dalla proposta di Armagnac
+che (tanto per cominciare) i soldati fucilassero i loro ufficiali.
+
+     E fu proprio in questo che i due uomini differivano di più
+dal loro capo e padre in [[philosophy|filosofia]]. Il dottor Hirsch,
+benché nato in Francia e coperto dei più trionfali favori
+dell'[[Education|istruzione]] francese, era temperamentalmente di un altro tipo: mite, sognatore,
+umano; e, malgrado il suo sistema scettico, non privo di trascendentalismo.
+Era, in breve, più simile a un tedesco che a un francese; e per quanto lo
+ammirassero, qualcosa nel subconscio di questi Galli era
+irritato dal suo perorare la pace in una maniera così pacifica.
+Per il loro partito in tutta Europa, tuttavia, Paul Hirsch era
+un santo della scienza. Le sue vaste e ardite teorie cosmiche
+davano lustro alla sua vita austera e alla sua [[morality|moralità]] [[Innocent|innocente]], se pur alquanto glaciale;
+occupava qualcosa della posizione di Darwin raddoppiata con la posizione
+di [[tolstoy|Tolstoj]]. Ma non era né un anarchico né un antipatriota;
+le sue vedute sul disarmo erano moderate ed evoluzioniste:
+il [[government|Governo]] repubblicano riponeva in lui considerevole fiducia
+quanto a vari miglioramenti chimici. Aveva persino di recente scoperto
+un esplosivo silenzioso, il cui segreto il [[government|Governo]] era
+attentamente custodendo.
+
+     La sua [[house|casa]] sorgeva in un'elegante via presso l'Elysée:
+una via che in quella forte [[Summer|estate]] pareva quasi tanto folta di fogliame
+quanto il parco stesso; una fila di ippocastani frantumava la luce del sole,
+interrotta in un solo punto dove un grande caffè si protendeva sulla strada.
+Quasi di fronte a questo stavano le persiane bianche e verdi della
+[[house|casa]] del grande scienziato, con un balcone di ferro, anch'esso verniciato di verde,
+che correva dinanzi alle finestre del primo piano. Sotto di esso c'era
+l'ingresso a una specie di [[Court|corte]], allegra di arbusti e piastrelle,
+in cui i due francesi entrarono discorrendo animatamente.
+
+     La porta fu loro aperta dal vecchio domestico del dottore, Simon,
+che avrebbe [[Well|benissimo]] potuto passare egli stesso per un dottore, avendo un severo
+abito nero, occhiali, capelli grigi e un'aria confidenziale.
+In effetti, era un uomo di scienza assai più presentabile del suo padrone,
+il dottor Hirsch, che era un tipo simile a un ravanello biforcuto, con appena
+il bulbo di una testa sufficiente a rendere insignificante il suo [[Body|corpo]]. Con tutta la gravità
+di un grande medico che maneggia una ricetta, Simon porse una lettera
+al signor Armagnac. Quel signore la strappò con impazienza razziale,
+e lesse rapidamente quanto segue:
+
+     Non posso scendere a parlare con voi. C'è un uomo in questa [[house|casa]]
+che mi rifiuto d'incontrare. È un ufficiale sciovinista, Dubosc.
+Sta seduto sulle scale. Ha preso a calci i mobili
+in tutte le altre stanze; io mi sono chiuso a chiave nel mio studio,
+di fronte a quel caffè. Se mi [[Love|volete]] bene, andate al caffè e aspettate
+a uno dei tavoli all'aperto. Cercherò di mandarvelo.
+Voglio che gli rispondiate voi e che ve la sbrighiate con lui. Io non posso incontrarlo di persona.
+Non posso: non voglio.
+
+     Ci sarà un altro caso Dreyfus.
+
+                                             P. HIRSCH
+
+     Il signor Armagnac guardò il signor Brun. Il signor Brun prese in prestito la lettera,
+la lesse, e guardò il signor Armagnac. Poi entrambi si portarono lestamente
+a uno dei tavolini sotto gli ippocastani di fronte,
+dove si procurarono due alti bicchieri di orribile assenzio verde,
+che parevano poter bere con qualsiasi tempo e a qualunque [[Time|ora]].
+Per il resto il caffè sembrava vuoto, eccetto un soldato che beveva caffè
+a un tavolo, e a un altro un uomo corpulento che beveva un piccolo sciroppo e
+un prete che non beveva nulla.
+
+     Maurice Brun si schiarì la gola e disse: «Naturalmente dobbiamo aiutare
+il maestro in ogni modo, ma...»
+
+     Ci fu un brusco [[Silence|silenzio]], e Armagnac disse: «Può avere
+ottime ragioni per non incontrare l'uomo di persona, ma...»
+
+     Prima che l'uno o l'altro potesse completare una frase, fu evidente che
+l'invasore era stato espulso dalla [[house|casa]] di fronte. Gli arbusti sotto
+l'arcata ondeggiarono e si aprirono di schianto, mentre quell'ospite sgradito veniva
+scagliato fuori da essi come una palla di cannone.
+
+     Era una figura robusta con un piccolo cappello di feltro tirolese inclinato,
+una figura che aveva in effetti qualcosa di generalmente tirolese.
+Le spalle dell'uomo erano larghe e ampie, ma le gambe erano snelle e agili
+nei calzoni al ginocchio e nelle calze a maglia. Il volto era bruno come una nocciola;
+aveva occhi castani vivacissimi e inquieti; i capelli scuri erano ravviati all'indietro
+rigidi sul davanti e rasati corti dietro, così da delineare un cranio quadrato e
+possente; e aveva un enorme paio di baffi neri come le corna di un bisonte.
+Una testa così sostanziosa poggia di solito su un collo taurino; ma questo era
+nascosto da una grande sciarpa colorata, avvolta su fino alle orecchie
+e ricadente sul davanti dentro la giacca come una sorta di panciotto fantasia.
+Era una sciarpa di forti colori spenti, rosso cupo, oro antico e porpora,
+probabilmente di fabbricazione orientale. Nel complesso l'uomo aveva qualcosa
+di lievemente barbarico; più simile a un possidente ungherese che a
+un ordinario ufficiale francese. Il suo francese, però, era evidentemente
+quello di un nativo; e il suo patriottismo francese era così impulsivo
+da riuscire lievemente assurdo. Il suo primo atto quando irruppe dall'arcata
+fu di chiamare con voce di squillo giù per la strada: «Ci sono
+francesi qui?», come se invocasse cristiani alla Mecca.

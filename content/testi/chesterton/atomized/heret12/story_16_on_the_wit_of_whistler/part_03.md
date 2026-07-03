@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/heret12-(chesterton)">Heretics</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/heret12/story_16_on_the_wit_of_whistler/part_02">‹ part 02</a><a class="ex-next" href="/testi/chesterton/atomized/heret12/story_17_the_fallacy_of_the_young_nation/part_01">part 01 ›</a></div>
@@ -64,3 +66,64 @@ varied cultures of two men who have both to die.  The first-rate
 great man is equal with other men, like Shakespeare.  The second-rate
 great man is on his knees to other men, like Whitman.  The third-rate
 great man is superior to other men, like Whistler.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/heret12-(chesterton)">Heretics</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/heret12/story_16_on_the_wit_of_whistler/part_02">‹ part 02</a><a class="ex-next" href="/testi/chesterton/atomized/heret12/story_17_the_fallacy_of_the_young_nation/part_01">part 01 ›</a></div>
+</nav>
+
+# [[heret12]] — Sull'arguzia di Whistler (parte 3)
+
+Whistler non cessò mai di essere un [[Artist|artista]].  Come osservò il signor Max Beerbohm
+in una delle sue critiche straordinariamente assennate e sincere,
+Whistler considerava davvero Whistler la sua più grande opera d'arte.
+La ciocca bianca, il monocolo, il notevole cappello:
+questi gli erano assai più cari di qualsiasi notturno o arrangement
+che avesse mai buttato giù.  I notturni poteva buttarli giù;
+per qualche misteriosa ragione non riusciva a buttar giù il cappello.
+Non buttò mai giù da sé quell'accumulo sproporzionato
+di estetismo che è il fardello del dilettante.
+
+Non occorre certo dire che questa è la vera spiegazione della cosa
+che ha tanto sconcertato i critici dilettanti: il problema dell'estrema
+ordinarietà della condotta di tanti grandi geni nella [[history|storia]].
+La loro condotta era così ordinaria che non venne registrata;
+sicché era così ordinaria da sembrare misteriosa.  Sicché la gente dice
+che fu Bacone a scrivere Shakespeare.  Il temperamento artistico moderno non riesce
+a capire come un uomo che seppe scrivere le liriche che Shakespeare scrisse
+potesse essere accorto quanto lo era Shakespeare in fatto di transazioni d'affari in una
+cittadina del Warwickshire.  La spiegazione è abbastanza semplice:
+è che Shakespeare aveva un vero impulso lirico, scriveva una vera [[Lyric|lirica]],
+e così si liberava dell'impulso e attendeva ai propri affari.
+L'essere un [[Artist|artista]] non gli impediva di essere un uomo comune,
+non più di quanto l'essere un dormiente di [[Night|notte]] o un commensale a cena
+gli impedisse di essere un uomo comune.
+
+Tutti i grandissimi maestri e condottieri hanno avuto questa abitudine
+di presumere che il proprio punto di vista fosse uno umano
+e casuale, tale da fare presa facilmente su ogni uomo di passaggio.
+Se un uomo è genuinamente superiore ai propri simili, la prima
+cosa in cui crede è l'uguaglianza degli uomini.
+Lo possiamo vedere, per esempio, in quella strana e [[Innocent|innocente]]
+razionalità con cui [[Christ|Cristo]] si rivolgeva a qualsiasi variopinta folla
+si trovasse a stargli intorno.  «Chi è tra voi l'uomo che, avendo
+cento pecore e perdutane una, non lascerebbe le novanta-
+nove nel deserto per andare in cerca di quella smarrita?»
+Oppure, ancora: «Chi è tra voi l'uomo che, se il figlio gli chiede pane, gli darà
+una pietra, o se gli chiede un pesce gli darà una serpe?»
+Questa semplicità, questo cameratismo quasi prosaico, è la nota
+di tutte le grandissime menti.
+
+Per le grandissime menti le cose su cui gli uomini concordano sono così incommensurabilmente
+più importanti delle cose su cui divergono, che queste ultime,
+a ogni fine pratico, scompaiono.  Esse hanno in sé troppo
+di un riso antico anche solo per sopportare di discutere la differenza tra
+i cappelli di due uomini nati entrambi da donna, o tra le culture sottilmente
+diverse di due uomini che devono entrambi morire.  Il grande uomo
+di prim'ordine è pari agli altri uomini, come Shakespeare.  Il grande
+uomo di second'ordine è in ginocchio davanti agli altri uomini, come Whitman.  Il grande
+uomo di terz'ordine è superiore agli altri uomini, come Whistler.

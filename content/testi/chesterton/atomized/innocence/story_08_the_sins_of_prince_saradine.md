@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/innocence-(chesterton)">The Innocence of Father Brown</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/innocence/story_07_the_wrong_shape">‹ Story 07 The Wrong Shape</a><a class="ex-next" href="/testi/chesterton/atomized/innocence/story_09_the_hammer_of_god">Story 09 The Hammer of God ›</a></div>
@@ -802,3 +804,802 @@ to them through the darkness, telling them that a [[Wind|wind]] was awake;
 the next moment it swayed their little boat and swelled their sail,
 and carried them onward down the winding [[River|river]] to happier places
 and the homes of harmless men.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/innocence-(chesterton)">The Innocence of Father Brown</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/innocence/story_07_the_wrong_shape">‹ Story 07 The Wrong Shape</a><a class="ex-next" href="/testi/chesterton/atomized/innocence/story_09_the_hammer_of_god">Story 09 The Hammer of God ›</a></div>
+</nav>
+
+# [[innocence]] — I peccati del principe Saradine
+
+                    I peccati del principe Saradine
+
+Quando [[Flambeau]] prese il suo mese di vacanza dall'ufficio di Westminster,
+lo trascorse in una piccola barca a vela, tanto piccola che passava gran
+parte del suo [[Time|tempo]] come barca a remi. Lo trascorse, per giunta, in
+piccoli fiumi delle contee orientali, fiumi così esigui che la barca
+pareva una barca [[Magic|magica]], che navigasse sulla terraferma tra prati
+e campi di grano. Il vascello era appena comodo per due persone;
+c'era posto soltanto per lo stretto necessario, e [[Flambeau]] l'aveva riempita
+di quelle cose che la sua speciale [[philosophy|filosofia]] giudicava necessarie.
+Esse si riducevano, a quanto pare, a quattro elementi essenziali:
+scatole di salmone, se avesse voluto mangiare; rivoltelle cariche,
+se avesse voluto combattere; una bottiglia di brandy, presumibilmente nel caso
+gli venisse un mancamento; e un prete, presumibilmente nel caso dovesse morire.
+Con questo bagaglio leggero si trascinava lungo i piccoli fiumi del Norfolk,
+intenzionato a raggiungere infine i Broads, ma frattanto deliziandosi
+dei giardini e dei prati sporgenti, delle magioni o dei villaggi
+specchiati nell'acqua, indugiando a pescare nelle pozze e negli anfratti,
+e in un certo senso costeggiando la riva.
+
+Da vero filosofo, [[Flambeau]] non aveva scopo nella sua vacanza;
+ma, da vero filosofo, aveva una scusa. Aveva una sorta
+di mezzo proposito, che prendeva quel tanto sul serio da far sì che il suo [[success|successo]]
+[[Crown|coronasse]] la vacanza, ma quel tanto alla leggera da far sì che il suo fallimento
+non la rovinasse. Anni prima, quando era stato un [[King|re]] dei ladri
+e la figura più famosa di [[Paris|Parigi]], aveva ricevuto spesso
+comunicazioni stravaganti di approvazione, di condanna, o perfino d'[[Love|amore]];
+ma una, chissà come, gli era rimasta impressa nella [[Memory|memoria]]. Consisteva semplicemente
+in un biglietto da visita, dentro una busta con timbro postale inglese.
+Sul retro del biglietto era scritto in francese e con inchiostro verde:
+«Se mai vi ritirerete e diventerete rispettabile, venite a trovarmi.
+Desidero conoscervi, perché ho conosciuto tutti gli altri grandi uomini del mio [[Time|tempo]].
+Quel vostro trucco di far arrestare un [[Detective|detective]]
+dall'altro fu la scena più splendida della [[history|storia]] francese.»
+Sul davanti del biglietto era inciso nella foggia formale:
+«Principe Saradine, Reed [[house|House]], Reed Island, Norfolk.»
+
+Allora non si era preoccupato molto del principe, se non appurando che
+era stato una figura brillante e alla moda dell'[[Italy|Italia]] meridionale. In gioventù,
+si diceva, era fuggito con una donna sposata di alto rango;
+la scappatella era ben poco sorprendente nel suo mondo sociale, ma si era abbarbicata
+alla mente degli uomini a causa di una [[Tragedy|tragedia]] supplementare: il presunto [[suicide|suicidio]]
+del marito oltraggiato, che pareva essersi gettato da un precipizio
+in Sicilia. Il principe visse poi a Vienna per un [[Time|certo tempo]], ma i suoi anni
+più recenti sembravano essere trascorsi in perpetui e irrequieti viaggi.
+Ma quando [[Flambeau]], come il principe stesso, ebbe lasciato la celebrità europea
+e si fu stabilito in Inghilterra, gli venne in mente che avrebbe potuto fare una visita a sorpresa
+a questo eminente [[Exile|esule]] nei Broads del Norfolk. Se avrebbe trovato il luogo
+non ne aveva idea; e, in verità, era abbastanza piccolo e dimenticato.
+Ma, come andarono le cose, lo trovò assai prima di quanto si aspettasse.
+
+Avevano ormeggiato la barca una [[Night|notte]] sotto un argine velato da erbe
+alte e da bassi alberi capitozzati. Il [[Sleep|sonno]], dopo la faticosa remata,
+li aveva colti presto, e per un accidente corrispondente
+si svegliarono prima che facesse giorno. Per parlare con più esattezza,
+si svegliarono prima che fosse pieno giorno; poiché una grande [[Moon|luna]] color limone
+stava appena tramontando nella foresta d'erba alta sopra le loro teste,
+e il cielo era di un vivido azzurro-violaceo, notturno eppure luminoso.
+Entrambi gli uomini ebbero simultaneamente una reminiscenza dell'[[Childhood|infanzia]], di quel
+[[Time|tempo]] elfico e avventuroso in cui le erbacce alte si chiudono su di noi come boschi.
+Ergendosi così contro la grande [[Moon|luna]] bassa, le pratoline sembravano
+davvero pratoline giganti, i denti di leone denti di leone giganti.
+Chissà come, tutto ciò ricordava loro la fascia decorativa di una carta da parati di camera per bambini.
+Il dislivello del letto del [[River|fiume]] bastava a farli sprofondare sotto le radici
+di ogni arbusto e [[Flowers|fiore]], e a far loro guardare in su verso l'erba.
+«Perbacco!» disse [[Flambeau]], «è come essere nel paese delle fate.»
+
+[[Father Brown]] si drizzò a sedere nella barca e si fece il segno della croce.
+Il suo movimento fu così brusco che l'amico gli chiese, con un mite sguardo fisso,
+che cosa avesse.
+
+«Quelli che scrivevano le ballate medievali», rispose il prete,
+«ne sapevano più di voi sulle fate. Non sono soltanto cose piacevoli
+quelle che accadono nel paese delle fate.»
+
+«Oh, sciocchezze!» disse [[Flambeau]]. «Solo cose piacevoli potrebbero accadere sotto una
+[[Moon|luna]] tanto [[Innocent|innocente]]. Io sono per proseguire adesso e vedere che cosa davvero verrà.
+Potremmo morire e imputridire prima di rivedere mai una simile [[Moon|luna]] o un simile stato d'animo.»
+
+«D'accordo», disse [[Father Brown]]. «Non ho mai detto che fosse sempre sbagliato
+entrare nel paese delle fate. Ho detto soltanto che era sempre pericoloso.»
+
+Risalirono lentamente il [[River|fiume]] che andava schiarendosi; il fulgido violetto
+del cielo e il pallido oro della [[Moon|luna]] si fecero sempre più fiochi,
+e si dissolsero in quel vasto cosmo scolorito che precede i colori
+dell'[[Dawn|alba]]. Quando le prime deboli strisce di rosso e d'[[Gold and Grey|oro e grigio]]
+spaccarono l'orizzonte da un capo all'altro, furono interrotte dalla massa nera
+di una città o di un villaggio adagiato sul [[River|fiume]] proprio davanti a loro.
+Era già un facile crepuscolo, in cui tutte le cose erano visibili,
+quando giunsero sotto i tetti sporgenti e i ponti di questo [[Hamlet|borgo]] fluviale.
+Le case, coi loro tetti lunghi, bassi e spioventi, parevano scendere
+ad abbeverarsi al [[River|fiume]], come enormi bestiame grigio e rosso. L'[[Dawn|alba]] che
+s'allargava e imbiancava si era già mutata in operosa luce del giorno prima che
+scorgessero qualsiasi creatura vivente sui moli e sui ponti di quella città silenziosa.
+Alla fine videro un uomo assai placido e prospero in maniche di camicia,
+con una faccia tonda come la [[Moon|luna]] appena tramontata, e raggi di basette rosse
+intorno al basso arco di essa, che stava appoggiato a un palo sopra la marea sonnolenta.
+Per un impulso da non analizzare, [[Flambeau]] si [[Rose|levò]] in tutta la sua statura
+nella barca ondeggiante e gridò all'uomo per chiedergli se conoscesse Reed Island
+o Reed [[house|House]]. Il sorriso dell'uomo prospero si fece leggermente più espansivo,
+ed egli si limitò a indicare il [[River|fiume]] verso la sua ansa successiva.
+[[Flambeau]] proseguì senza aggiungere parola.
+
+La barca svoltò molti simili angoli erbosi e seguì molti simili tratti
+canneti e silenziosi del [[River|fiume]]; ma prima che la ricerca fosse divenuta monotona
+avevano girato attorno a un'ansa particolarmente acuta ed erano entrati nel [[Silence|silenzio]]
+di una sorta di pozza o lago, la cui vista d'istinto li arrestò.
+Poiché in mezzo a questo più ampio specchio d'[[Water|acqua]], orlato d'ogni
+lato di giunchi, giaceva un isolotto lungo e basso, lungo il quale correva una lunga,
+bassa [[house|casa]] o bungalow costruita di bambù o di qualche sorta di dura canna tropicale.
+Le canne erette di bambù che formavano le pareti erano di un giallo pallido,
+le canne oblique che formavano il tetto erano di un rosso o bruno più cupo,
+per il resto la lunga [[house|casa]] era una cosa di ripetizione e monotonia.
+La brezza del primo mattino faceva stormire i giunchi intorno all'isola e cantava
+nella strana [[house|casa]] costolata come in una gigantesca zampogna.
+
+«Perdinci!» esclamò [[Flambeau]]; «ecco il luogo, dopotutto!
+Ecco Reed Island, se mai ce ne fu una. Ecco Reed [[house|House]],
+se è da qualche parte. Credo che quel grassone con le basette
+fosse una fata.»
+
+«Forse», osservò [[Father Brown]] con imparzialità. «Se lo era,
+era una fata cattiva.»
+
+Ma mentre ancora parlava l'impetuoso [[Flambeau]] aveva già spinto la barca
+a riva tra i giunchi frusciarti, ed essi stavano sul lungo,
+bizzarro isolotto accanto alla strana e silenziosa [[house|casa]].
+
+La [[house|casa]] volgeva, per così dire, le spalle al [[River|fiume]]
+e all'unico approdo; l'ingresso principale era dal
+lato opposto, e guardava giù per il lungo [[Garden|giardino]] dell'isola.
+I visitatori vi si avvicinarono, perciò, per un sentierino che correva
+attorno a quasi tre lati della [[house|casa]], sotto la bassa gronda.
+Attraverso tre diverse finestre su tre diversi lati essi
+guardarono dentro la medesima stanza lunga e [[Well|ben]] illuminata, rivestita di legno chiaro,
+con un gran numero di specchi, e apparecchiata come per un
+elegante pranzo. La porta d'ingresso, quando alla fine vi giunsero attorno,
+era fiancheggiata da due vasi di fiori azzurro-turchese. Fu aperta
+da un maggiordomo del tipo più tetro — lungo, magro, grigio e apatico —
+il quale mormorò che il principe Saradine era per il momento fuori [[Home|casa]],
+ma era atteso di ora in ora; la [[house|casa]] veniva tenuta pronta per lui
+e i suoi ospiti. L'esibizione del biglietto con lo scarabocchio
+d'inchiostro verde ridestò un guizzo di vita nel volto pergamenaceo
+del depresso servitore, e fu con una certa cortesia malferma
+che egli suggerì agli sconosciuti di trattenersi.
+«Sua Altezza può arrivare da un momento all'altro», disse, «e sarebbe
+addolorata di aver appena mancato un gentiluomo da lei invitato.
+Abbiamo ordine di tenergli sempre pronto un piccolo pranzo freddo per lui
+e i suoi amici, e sono certo che desidererebbe fosse offerto.»
+
+Mosso dalla curiosità per questa minore avventura, [[Flambeau]] acconsentì con grazia,
+e seguì il vecchio, che lo introdusse cerimoniosamente nella lunga
+stanza leggermente rivestita di legno. Non c'era nulla di molto notevole in essa, tranne la
+piuttosto insolita alternanza di molte lunghe e basse finestre con molti lunghi
+e bassi rettangoli di specchio, che davano al luogo una singolare aria di leggerezza e
+d'inconsistenza. Era in qualche modo come pranzare all'aperto.
+Uno o due quadri di natura tranquilla pendevano negli angoli, uno una grande
+fotografia grigia di un uomo giovanissimo in uniforme, un altro uno [[Sketch|schizzo]]
+a [[chalk|gessetto]] rosso di due ragazzi dai lunghi capelli. Richiesto da [[Flambeau]] se il
+personaggio soldatesco fosse il principe, il maggiordomo rispose brevemente in senso negativo;
+era il fratello minore del principe, il capitano Stephen Saradine, disse.
+E con ciò il vecchio parve inaridirsi d'improvviso e perdere ogni
+gusto per la conversazione.
+
+Dopo che il pranzo si fu spento in un caffè squisito e in liquori,
+gli ospiti furono introdotti al [[Garden|giardino]], alla biblioteca,
+e alla governante — una signora bruna e avvenente, di non poca maestà,
+e piuttosto simile a una Madonna plutonica. Risultò che lei
+e il maggiordomo erano i soli superstiti dell'originaria servitù
+straniera del principe, gli altri domestici ora nella [[house|casa]]
+essendo nuovi e reclutati nel Norfolk dalla governante.
+Quest'ultima signora andava sotto il nome di Mrs. Anthony, ma
+parlava con un lieve accento italiano, e [[Flambeau]] non [[Doubt|dubitò]]
+che Anthony fosse una versione del Norfolk di qualche nome più latino.
+Mr. Paul, il maggiordomo, aveva anch'egli un'aria vagamente straniera, ma era
+di lingua e di formazione inglese, come lo sono molti dei più raffinati
+servitori della nobiltà cosmopolita.
+
+Per quanto graziosa e unica fosse, quel luogo aveva in sé una curiosa
+luminosa tristezza. Le ore vi passavano come giorni. Le lunghe
+stanze dalle [[Well|belle]] finestre erano piene di luce del giorno, ma pareva una luce morta.
+E attraverso tutti gli altri rumori accidentali, il suono delle chiacchiere,
+il tintinnio dei bicchieri, o il passo dei domestici, potevano
+udire da ogni parte della [[house|casa]] il [[Melancholy|malinconico]] rumore del [[River|fiume]].
+
+«Abbiamo preso una svolta sbagliata, e siamo giunti in un luogo sbagliato», disse [[Father Brown]],
+guardando fuori dalla [[Window|finestra]] i grigioverdi carici e la marea argentea.
+«Non importa; a volte si può fare del bene essendo la persona giusta
+nel luogo sbagliato.»
+
+[[Father Brown]], sebbene comunemente silenzioso, era un ometto stranamente
+comprensivo, e in quelle poche ma interminabili ore sprofondò inconsapevolmente
+più a fondo nei [[Secrets|segreti]] di Reed [[house|House]] del suo amico professionista.
+Aveva quella dote dell'amichevole [[Silence|silenzio]] che è tanto essenziale al pettegolezzo;
+e, pur non dicendo quasi una parola, probabilmente ottenne dalle sue nuove conoscenze
+tutto ciò che in ogni caso gli avrebbero raccontato. Il maggiordomo, in verità, era
+naturalmente poco comunicativo. Tradiva un affetto imbronciato e quasi
+animalesco per il suo padrone; il quale, disse, era stato trattato assai malamente.
+Il principale colpevole pareva essere il fratello di sua altezza, il cui nome
+[[Alone|soltanto]] allungava le mascelle da lanterna del vecchio e increspava il suo naso a
+pappagallo in un ghigno. Il capitano Stephen era uno scapestrato, a quanto pareva,
+e aveva prosciugato al suo benevolo fratello centinaia e migliaia di sterline;
+lo aveva costretto a fuggire dalla vita mondana e a vivere quietamente in questo rifugio.
+Questo era tutto ciò che Paul, il maggiordomo, avrebbe detto, e Paul era evidentemente un partigiano.
+
+La governante italiana era in qualche modo più comunicativa, essendo,
+come Brown immaginava, in qualche modo meno soddisfatta. Il suo tono riguardo al
+padrone era vagamente acido; sebbene non privo di un certo timore reverenziale.
+[[Flambeau]] e il suo amico stavano nella stanza degli
+specchi a esaminare lo [[Sketch|schizzo]] rosso dei due ragazzi,
+quando la governante entrò svelta con qualche incombenza domestica.
+Era una peculiarità di quel luogo scintillante, dai pannelli di vetro,
+che chiunque vi entrasse veniva riflesso in quattro o cinque specchi in una volta;
+e [[Father Brown]], senza voltarsi, si arrestò nel mezzo
+di una frase di critica familiare. Ma [[Flambeau]], che aveva il volto
+accostato al quadro, stava già dicendo ad alta voce:
+«I fratelli Saradine, suppongo. Sembrano entrambi abbastanza [[Innocent|innocenti]].
+Sarebbe difficile dire quale sia il fratello buono e quale il cattivo.»
+Poi, avvedutosi della presenza della signora, spostò la conversazione
+con qualche banalità, e uscì a passeggio nel [[Garden|giardino]].
+Ma [[Father Brown]] fissava ancora fermamente lo [[Sketch|schizzo]] a matita rossa;
+e Mrs. Anthony fissava ancora fermamente [[Father Brown]].
+
+Ella aveva grandi e tragici occhi bruni, e il suo volto olivastro ardeva
+cupamente di una curiosa e dolorosa [[Wonder|meraviglia]] — come di chi sia in dubbio sull'
+[[Identity|identità]] o sullo scopo di uno straniero. Se l'abito e il credo
+del piccolo prete toccassero qualche meridionale ricordo di confessione, o se
+ella si immaginasse che egli sapesse più di quanto sapeva, gli disse a bassa voce
+come a un compagno di congiura: «In un certo senso ha ragione, il vostro amico.
+Dice che sarebbe difficile scegliere il fratello buono e il cattivo.
+Oh, sarebbe difficile, sarebbe maledettamente difficile, scegliere quello buono.»
+
+«Non vi capisco», disse [[Father Brown]], e cominciò ad allontanarsi.
+
+La donna fece un passo verso di lui, con la fronte tempestosa e una sorta
+di feroce curvatura, come un toro che abbassa le corna.
+
+«Non ce n'è uno buono», sibilò. «C'era abbastanza malvagità
+nel capitano che prendeva tutto quel denaro, ma non
+credo ci fosse molta bontà nel principe che glielo dava.
+Il capitano non è l'unico ad avere qualcosa sulla coscienza.»
+
+Una luce sorse sul volto distolto del chierico, e la sua bocca formò
+in silenzio la parola «ricatto». Nell'istante stesso in cui lo faceva, la donna
+volse un'improvvisa faccia bianca al di sopra della spalla e per poco non cadde.
+La porta si era aperta senza rumore e il pallido Paul stava come un [[Ghost|fantasma]]
+sulla soglia. Per lo stravagante trucco delle pareti riflettenti,
+pareva che cinque Paul fossero entrati da cinque porte simultaneamente.
+
+«Sua Altezza», disse, «è appena arrivata.»
+
+Nello stesso lampo la figura di un uomo era passata al di fuori
+della prima [[Window|finestra]], attraversando il vetro assolato come un palcoscenico illuminato.
+Un istante dopo passò alla seconda [[Window|finestra]] e i molti
+specchi ridipinsero in successivi riquadri il medesimo profilo d'aquila
+e la figura in marcia. Era eretto e vigile, ma i suoi capelli erano bianchi
+e la sua carnagione di uno strano giallo avorio. Aveva quel naso romano
+corto e ricurvo che di solito si accompagna a guance lunghe e magre
+e a un mento affilato, ma questi erano in parte mascherati dai baffi e dal pizzetto.
+I baffi erano assai più scuri della barba, dando un effetto
+lievemente teatrale, ed egli era vestito all'altezza della medesima parte spavalda,
+avendo un cilindro bianco, un'orchidea all'occhiello, un panciotto giallo
+e guanti gialli che sventolava e faceva roteare camminando.
+Quando giunse attorno alla porta d'ingresso lo udirono aprirla dal rigido Paul,
+e udirono il nuovo arrivato dire allegramente: «[[Well|Ebbene]], vedete che sono venuto.»
+Il rigido Mr. Paul s'inchinò e rispose alla sua maniera impercettibile;
+per qualche minuto la loro conversazione non poté essere udita.
+Poi il maggiordomo disse: «Ogni cosa è a vostra disposizione»;
+e il principe Saradine, sventolando i guanti, entrò gaiamente nella stanza
+per accoglierli. Contemplarono di nuovo quella scena spettrale —
+cinque principi che entravano in una stanza con cinque porte.
+
+Il principe posò il cappello bianco e i guanti gialli sul tavolo e offrì
+la mano assai cordialmente.
+
+«Lieto di vedervi qui, Mr. [[Flambeau]]», disse. «Conoscendovi
+assai [[Well|bene]] di fama, se non è un'osservazione indiscreta.»
+
+«Niente affatto», rispose [[Flambeau]], ridendo. «Non sono suscettibile.
+Ben poche reputazioni si conquistano con virtù immacolata.»
+
+Il principe gli lanciò uno sguardo acuto per vedere se la replica
+avesse qualche punta personale; poi rise anche lui e offrì sedie
+a tutti, compreso se stesso.
+
+«Un posticino piacevole, questo, credo», disse con aria distaccata.
+«Non molto da fare, [[Fear|temo]]; ma la pesca è davvero buona.»
+
+Il prete, che lo fissava con lo sguardo [[Grave|solenne]]
+di un neonato, era perseguitato da un'immaginazione che sfuggiva a ogni definizione.
+Guardava i capelli grigi accuratamente arricciati, il volto bianco-giallastro,
+e la figura snella, alquanto vanesia. Queste cose non erano innaturali,
+sebbene forse un po' troppo marcate, come l'abbigliamento di una figura dietro
+le luci della ribalta. L'interesse senza nome risiedeva in qualcos'altro,
+nella struttura stessa del volto; Brown era tormentato
+da un mezzo [[Memory|ricordo]] di averlo visto da qualche parte in precedenza.
+L'uomo somigliava a qualche vecchio amico suo travestito.
+Poi si ricordò all'improvviso degli specchi, e attribuì la sua fantasia
+a qualche effetto psicologico di quella moltiplicazione
+di maschere umane.
+
+Il principe Saradine distribuì le sue attenzioni mondane tra gli
+ospiti con grande gaiezza e tatto. Trovando il [[Detective|detective]] di
+inclinazione sportiva e desideroso di impiegare la sua vacanza, guidò [[Flambeau]]
+e la barca di [[Flambeau]] giù fino al miglior punto di pesca del corso d'acqua,
+e fu di ritorno nella propria canoa in venti minuti per raggiungere [[Father Brown]]
+in biblioteca e immergersi con altrettanta cortesia nei più
+filosofici piaceri del prete. Sembrava sapere moltissimo tanto sulla
+pesca quanto sui libri, sebbene di questi non i più edificanti;
+parlava cinque o sei lingue, ma soprattutto il gergo di ciascuna.
+Aveva evidentemente vissuto in svariate città e in società assai variopinte,
+poiché alcune delle sue storie più allegre riguardavano bische
+e fumerie d'oppio, banditi australiani o briganti italiani.
+[[Father Brown]] sapeva che il un tempo celebre Saradine aveva passato gli
+ultimi anni in viaggi quasi incessanti, ma non aveva immaginato
+che i viaggi fossero così poco rispettabili o così divertenti.
+
+Invero, con tutta la sua dignità di uomo di mondo,
+il principe Saradine irradiava, a osservatori così sensibili come il prete,
+una certa atmosfera di irrequietezza e perfino di inaffidabilità.
+Il suo volto era schizzinoso, ma il suo occhio era selvaggio; aveva piccoli
+tic nervosi, come un uomo scosso dal bere o dalle droghe, e non aveva,
+né professava di avere, la mano sul timone degli affari domestici.
+Tutto ciò era lasciato ai due vecchi domestici, specialmente al
+maggiordomo, che era palesemente il pilastro centrale della [[house|casa]].
+Mr. Paul, in verità, non era tanto un maggiordomo quanto una sorta di
+intendente o, addirittura, ciambellano; pranzava in privato, ma con quasi
+tanta pompa quanta il suo padrone; era temuto da tutti i domestici;
+e si consultava col principe con decoro, ma con qualche rigidità —
+piuttosto come se fosse il legale del principe. La cupa governante
+era in confronto una mera [[Shadow|ombra]]; anzi, sembrava cancellare
+se stessa e servire soltanto il maggiordomo, e Brown non udì più
+quei sussurri vulcanici che gli avevano per metà rivelato del fratello
+minore che ricattava il maggiore. Se il principe fosse davvero
+così dissanguato dal capitano assente, non poteva esserne certo,
+ma c'era qualcosa di malsicuro e segreto in Saradine
+che rendeva il racconto tutt'altro che incredibile.
+
+Quando entrarono di nuovo nella lunga sala con le finestre e gli specchi,
+la sera gialla scendeva sulle acque e sugli argini di salici;
+e un tarabuso risuonò in lontananza come un elfo sul suo tamburo da nano.
+Il medesimo singolare sentimento di un triste e malvagio paese delle fate attraversò
+di nuovo la mente del prete come una piccola nube grigia. «Vorrei che [[Flambeau]]
+fosse tornato», mormorò.
+
+«Credete nel fato?» chiese all'improvviso l'irrequieto principe Saradine.
+
+«No», rispose l'ospite. «Credo nel Giorno del Giudizio.»
+
+Il principe si allontanò dalla [[Window|finestra]] e lo fissò in modo
+singolare, il volto in [[Shadow|ombra]] contro il tramonto.
+«Che cosa intendete?» chiese.
+
+«Intendo che noi qui siamo sul rovescio dell'arazzo»,
+rispose [[Father Brown]]. «Le cose che accadono qui non
+sembrano significare nulla; significano qualcosa altrove.
+Altrove la punizione ricadrà sul vero colpevole.
+Qui spesso sembra ricadere sulla persona sbagliata.»
+
+Il principe emise un rumore inspiegabile come un animale;
+nel suo volto in ombra gli occhi brillavano stranamente.
+Un pensiero nuovo e acuto esplose in silenzio nella mente dell'altro.
+C'era un altro significato in quella miscela di brillantezza
+e bruschezza di Saradine? Il principe era — Era perfettamente sano di mente?
+Ripeteva: «La persona sbagliata — la persona sbagliata»,
+molte più volte di quanto fosse naturale in un'esclamazione mondana.
+
+Poi [[Father Brown]] si destò tardivamente a una seconda [[Truth|verità]].
+Negli specchi davanti a sé poteva vedere la porta silenziosa
+spalancata, e il silenzioso Mr. Paul ritto in essa,
+con la sua consueta pallida impassibilità.
+
+«Ho ritenuto meglio annunciare subito», disse, con la stessa rigida
+deferenza di un vecchio avvocato di famiglia, «che una barca a remi con sei uomini è
+giunta all'approdo, e c'è un gentiluomo seduto a poppa.»
+
+«Una barca!» ripeté il principe; «un gentiluomo?» e si [[Rose|levò]] in piedi.
+
+Vi fu un [[Silence|silenzio]] trasalito, punteggiato soltanto dal bizzarro verso
+dell'uccello tra i carici; e poi, prima che alcuno potesse parlare di nuovo,
+un nuovo volto e una nuova figura passarono di profilo dinanzi alle tre
+finestre assolate, come il principe era passato un'ora o due prima.
+Ma a parte l'accidente che entrambi i profili erano aquilini,
+avevano poco in comune. Invece del nuovo cilindro bianco
+di Saradine, ce n'era uno nero di foggia antiquata o straniera;
+sotto di esso c'era un volto giovane e assai solenne, ben rasato,
+azzurrognolo attorno al mento risoluto, e recante una debole traccia
+del giovane Napoleone. L'associazione era favorita da
+qualcosa di antico e strano in tutto l'abbigliamento, come di un uomo
+che non si fosse mai curato di cambiare le mode dei propri padri.
+Aveva una logora finanziera azzurra, un panciotto rosso
+dall'aria marziale, e una sorta di rozzi calzoni bianchi comuni tra
+i primi vittoriani, ma stranamente incongrui oggigiorno.
+Da tutto questo mercato di abiti smessi il suo volto olivastro spiccava stranamente
+giovane e mostruosamente sincero.
+
+«Diavolo!» disse il principe Saradine, e calcandosi il cilindro bianco andò
+egli stesso alla porta d'ingresso, spalancandola sul [[Garden|giardino]] al tramonto.
+
+A quel [[Time|punto]] il nuovo venuto e i suoi seguaci erano schierati sul prato come
+un piccolo esercito da palcoscenico. I sei barcaioli avevano tirato la barca [[Well|ben]] su a riva,
+e la sorvegliavano quasi minacciosamente, tenendo i remi eretti come lance.
+Erano uomini scuri di carnagione, e alcuni di essi portavano orecchini. Ma uno di loro
+si teneva in avanti accanto al giovane dal volto olivastro nel panciotto rosso,
+e recava una grande custodia nera di forma insolita.
+
+«Il vostro nome», disse il giovane, «è Saradine?»
+
+Saradine assentì piuttosto con negligenza.
+
+Il nuovo venuto aveva occhi bruni spenti, canini, quanto più
+possibile diversi dagli irrequieti e scintillanti occhi grigi del principe.
+Ma ancora una volta [[Father Brown]] fu tormentato dalla sensazione di aver
+visto da qualche parte una replica di quel volto; e ancora una volta si ricordò
+delle ripetizioni della stanza dai pannelli di vetro, e attribuì la
+coincidenza a quello. «Maledetto questo palazzo di cristallo!» mormorò.
+«Si vede ogni cosa troppe volte. È come [[A Dream|un sogno]].»
+
+«Se siete il principe Saradine», disse il giovane, «posso dirvi
+che il mio nome è Antonelli.»
+
+«Antonelli», ripeté il principe languidamente. «Chissà come, ricordo il nome.»
+
+«Permettetemi di presentarmi», disse il giovane italiano.
+
+Con la mano sinistra si tolse cortesemente il suo cilindro all'antica;
+con la destra assestò al principe Saradine uno schiaffo così sonoro
+sul volto che il cilindro bianco rotolò giù per i gradini
+e uno dei vasi di fiori azzurri vacillò sul suo piedistallo.
+
+Il principe, qualunque cosa fosse, non era evidentemente un codardo; balzò
+alla gola del nemico e per poco non lo rovesciò all'indietro sull'erba.
+Ma il suo nemico si districò con un'aria singolarmente inappropriata
+di frettolosa cortesia.
+
+«Va bene così», disse, ansimando e in inglese stentato.
+«Ho insultato. Darò soddisfazione. Marco, apri la custodia.»
+
+L'uomo accanto a lui con gli orecchini e la grande custodia nera si accinse
+a sbloccarla. Ne trasse due lunghi stocchi italiani, con splendidi
+else e lame d'acciaio, che piantò con la punta in giù nel prato.
+Lo strano giovane in piedi di fronte all'ingresso col suo volto
+giallo e vendicativo, le due spade drizzate nel tappeto erboso come due
+croci in un cimitero, e la fila delle sagome allineate dietro,
+davano a tutto ciò una bizzarra apparenza di essere una qualche barbarica [[Court|corte]] di giustizia.
+Ma tutto il resto era immutato, tanto era stata improvvisa l'interruzione.
+L'oro del tramonto ancora ardeva sul prato, e il tarabuso ancora rombava
+come ad annunciare qualche piccolo ma tremendo destino.
+
+«Principe Saradine», disse l'uomo chiamato Antonelli,
+«quando ero un lattante nella culla voi uccideste mio padre
+e rubaste mia madre; mio padre fu il più fortunato.
+Non lo uccideste lealmente, come io sto per uccidere voi.
+Voi e la mia malvagia madre lo conduceste in carrozza a un passo solitario
+in Sicilia, lo gettaste giù da una rupe, e ve ne andaste per la vostra strada.
+Potrei imitarvi se lo volessi, ma imitarvi è troppo vile.
+Vi ho seguito per tutto il mondo, e voi siete sempre
+fuggito da me. Ma questa è la fine del mondo — e di voi.
+Ora vi ho, e vi do la possibilità che voi non deste mai a mio padre.
+Scegliete una di quelle spade.»
+
+Il principe Saradine, con le sopracciglia contratte, parve esitare
+un momento, ma le sue orecchie ancora gli ronzavano per il colpo,
+ed egli balzò avanti e afferrò una delle else.
+Anche [[Father Brown]] era balzato avanti, sforzandosi di comporre la contesa;
+ma presto si accorse che la sua presenza personale peggiorava le cose.
+Saradine era un massone francese e un feroce ateo,
+e un prete lo smuoveva per la legge dei contrari.
+E quanto all'altro, né prete né laico lo smuovevano affatto.
+Questo giovane dal volto di Bonaparte e dagli occhi bruni era
+qualcosa di assai più inflessibile di un puritano — un pagano. Era un semplice
+uccisore dal mattino della terra; un uomo dell'età della pietra —
+un uomo di pietra.
+
+Restava una [[Hope|speranza]], la chiamata a raccolta della servitù; e [[Father Brown]] corse indietro
+nella [[house|casa]]. Trovò, tuttavia, che tutti i domestici di rango inferiore avevano avuto
+una vacanza a terra dall'autocrate Paul, e che soltanto la cupa Mrs. Anthony
+si aggirava a disagio per le lunghe stanze. Ma nel momento in cui ella volse un
+volto spettrale verso di lui, egli risolse uno degli enigmi della [[house|casa]] degli specchi.
+I pesanti occhi bruni di Antonelli erano i pesanti occhi bruni di Mrs. Anthony;
+e in un lampo vide metà della storia.
+
+«Vostro figlio è là fuori», disse senza sprecare parole;
+«o lui o il principe verrà ucciso. Dov'è Mr. Paul?»
+
+«È all'approdo», disse la donna debolmente.
+«Sta — sta — segnalando per avere aiuto.»
+
+«Mrs. Anthony», disse [[Father Brown]] gravemente, «non c'è [[Time|tempo]]
+per sciocchezze. Il mio amico ha la barca giù per il [[River|fiume]] a pescare.
+La barca di vostro figlio è sorvegliata dagli uomini di vostro figlio. C'è solo questa
+unica canoa; che cosa ne sta facendo Mr. Paul?»
+
+«Santa [[Maria]]! Non lo so», disse; e svenne lunga distesa
+sul pavimento a stuoie.
+
+[[Father Brown]] la sollevò su un divano, le gettò addosso un vaso d'[[Water|acqua]], gridò
+per avere aiuto, e poi si precipitò all'approdo della piccola isola.
+Ma la canoa era già a metà corrente, e il vecchio Paul la spingeva e la tirava
+su per il [[River|fiume]] con un'energia incredibile per i suoi anni.
+
+«Salverò il mio padrone», gridava, gli occhi fiammeggianti maniacalmente.
+«Lo salverò ancora!»
+
+[[Father Brown]] non poté far altro che guardare la barca mentre lottava
+controcorrente e pregare che il vecchio potesse svegliare in [[Time|tempo]] la cittadina.
+
+«Un duello è già abbastanza brutto», mormorò, arruffandosi i ruvidi capelli color [[Dust|polvere]],
+«ma c'è qualcosa che non va in questo duello, perfino come duello.
+Lo sento nelle ossa. Ma che cosa può essere?»
+
+Mentre stava fissando l'[[Water|acqua]], un tremolante [[Mirror|specchio]] di tramonto,
+udì dall'altro capo del [[Garden|giardino]] dell'isola un suono
+piccolo ma inconfondibile — il freddo cozzo dell'acciaio.
+Voltò la testa.
+
+Laggiù sul capo più lontano o promontorio del lungo isolotto, su una striscia
+di tappeto erboso oltre l'ultima fila di rose, i duellanti avevano già
+incrociato le spade. La sera sopra di loro era una cupola d'oro vergine, e,
+per quanto distanti fossero, ogni dettaglio risaltava. Avevano gettato via
+le giacche, ma il panciotto giallo e i capelli bianchi di Saradine,
+il panciotto rosso e i calzoni bianchi di Antonelli, scintillavano nella
+luce orizzontale come i colori delle bambole meccaniche danzanti.
+Le due spade sfavillavano dalla punta al pomo come due spilli di diamante.
+C'era qualcosa di spaventoso nelle due figure che apparivano così piccole
+e così gaie. Sembravano due farfalle che cercassero di appuntarsi l'una
+all'altra su un sughero.
+
+[[Father Brown]] corse più forte che poté, le sue gambette che giravano
+come una [[Wheel|ruota]]. Ma quando giunse al campo di combattimento trovò
+di essere nato troppo tardi e troppo presto — troppo tardi per fermare la lotta,
+sotto l'[[Shadow|ombra]] dei truci siciliani appoggiati ai loro remi,
+e troppo presto per prevenire un qualche esito disastroso di essa.
+Poiché i due uomini erano singolarmente [[Well|ben]] appaiati, il principe usando
+la sua abilità con una sorta di cinica sicurezza, il siciliano usando la sua
+con una cura assassina. Ben pochi più raffinati incontri di scherma si sono mai potuti
+vedere in affollati anfiteatri di quello che tintinnava e sfavillava
+su quell'isola dimenticata nel [[River|fiume]] canneto. Il vertiginoso combattimento fu
+tenuto in bilico così a lungo che la [[Hope|speranza]] cominciò a rinascere nel prete che protestava;
+per ogni comune probabilità Paul doveva presto tornare con la polizia.
+Sarebbe stato un qualche conforto anche se [[Flambeau]] fosse tornato dalla pesca,
+poiché [[Flambeau]], fisicamente parlando, valeva quattro altri uomini.
+Ma non c'era segno di [[Flambeau]], e, cosa assai più strana,
+nessun segno di Paul o della polizia. Nessuna altra zattera o palo era rimasto
+su cui galleggiare; in quell'isola perduta in quella vasta pozza senza nome,
+erano tagliati fuori come su uno scoglio nel Pacifico.
+
+Quasi nell'istante in cui ebbe il pensiero il risuonare degli stocchi si affrettò
+in uno scroscio, le braccia del principe schizzarono in alto, e la punta gli spuntò dietro
+tra le scapole. Egli cadde con un gran movimento vorticoso,
+quasi come chi fa la mezza [[Wheel|ruota]] di un carro dei ragazzi. La [[Sword|spada]] volò
+dalla sua mano come una stella cadente, e s'immerse nel lontano [[River|fiume]].
+Ed egli stesso sprofondò con un cedimento così scuotente la terra che spezzò un grande
+[[Rose|rosaio]] col suo [[Body|corpo]] e sollevò nel cielo una nube di terra rossa —
+come il fumo di un qualche sacrificio pagano. Il siciliano aveva fatto
+offerta di [[Blood|sangue]] al [[Ghost|fantasma]] di suo padre.
+
+Il prete fu all'istante in ginocchio accanto al cadavere; ma solo per accertarsi
+fin troppo bene che fosse un cadavere. Mentre stava ancora tentando alcune ultime disperate
+prove udì per la prima [[Time|volta]] delle voci da più su lungo il [[River|fiume]],
+e vide una barca della polizia sfrecciare fino all'approdo, con agenti
+e altre persone importanti, compreso l'eccitato Paul. Il piccolo
+prete si [[Rose|levò]] con una smorfia decisamente dubbiosa.
+
+«Ora, perché diamine», mormorò, «perché diamine non poteva venire prima?»
+
+Circa sette minuti dopo l'isola era occupata da un'invasione di cittadini
+e poliziotti, e questi ultimi avevano messo le mani sul duellante vittorioso,
+ricordandogli ritualmente che qualsiasi cosa avesse detto poteva essere usata contro di lui.
+
+«Non dirò nulla», disse il monomaniaco, con un volto meraviglioso
+e pacifico. «Non dirò mai più nulla.
+Sono molto felice, e desidero soltanto essere impiccato.»
+
+Poi chiuse la bocca mentre lo conducevano via, ed è la strana
+ma certa [[Truth|verità]] che egli non la riaprì mai più in questo mondo,
+tranne per dire «Colpevole» al processo.
+
+[[Father Brown]] aveva fissato il [[Garden|giardino]] improvvisamente affollato, l'arresto
+dell'uomo di [[Blood|sangue]], il trasporto del cadavere dopo il suo esame
+da parte del medico, piuttosto come si guarda il dissolversi di un qualche brutto sogno;
+era immobile, come un uomo in un [[nightmare|incubo]]. Diede il proprio nome e
+indirizzo come testimone, ma declinò l'offerta di una barca per la riva,
+e rimase [[Alone|solo]] nel [[Garden|giardino]] dell'isola, fissando il [[Rose|rosaio]] spezzato
+e l'intero verde teatro di quella rapida e inspiegabile [[Tragedy|tragedia]].
+La luce morì lungo il [[River|fiume]]; la nebbia si [[Rose|levò]] dagli argini paludosi;
+alcuni [[Birds|uccelli]] attardati svolazzarono a scatti attraverso.
+
+Conficcata ostinatamente nel suo subconscio (che era insolitamente
+vivace) c'era una indicibile certezza che vi fosse qualcosa
+ancora inspiegato. Questa sensazione che gli si era aggrappata tutto il giorno non
+poteva essere pienamente spiegata dalla sua fantasia del «paese degli specchi».
+In qualche modo non aveva visto la storia vera, ma un qualche gioco o [[Masque|mascherata]].
+Eppure la gente non viene impiccata né trafitta attraverso il [[Body|corpo]] per amore
+di una sciarada.
+
+Mentre sedeva sui gradini dell'approdo a rimuginare, si accorse
+della snella, scura striscia di una vela che scendeva silenziosa lungo il rilucente [[River|fiume]],
+e balzò in piedi con un tale riflusso di emozione che per poco non pianse.
+
+«[[Flambeau]]!» gridò, e scosse l'amico per entrambe le mani
+più e più volte, con gran stupore di quello sportivo,
+mentre veniva a riva con la sua attrezzatura da pesca. «[[Flambeau]]», disse,
+«dunque non sei stato ucciso?»
+
+«Ucciso!» ripeté il pescatore con gran stupore.
+«E perché mai avrei dovuto essere ucciso?»
+
+«Oh, perché quasi tutti gli altri lo sono», disse il suo compagno piuttosto sconvolto.
+«Saradine è stato assassinato, e Antonelli vuole essere impiccato, e sua
+madre è svenuta, e io, per uno, non so se sono in questo
+mondo o nell'altro. Ma, grazie a Dio, tu sei nel medesimo.»
+E prese il braccio dello sconcertato [[Flambeau]].
+
+Mentre si allontanavano dall'approdo giunsero sotto
+le gronde della bassa [[house|casa]] di bambù, e guardarono dentro attraverso una
+delle finestre, come avevano fatto al loro primo arrivo.
+Contemplarono un interno illuminato da una lampada [[Well|ben]] atto ad arrestare i loro occhi.
+Il tavolo nella lunga sala da pranzo era stato apparecchiato per la cena quando
+il distruttore di Saradine era caduto come un fulmine di tempesta sull'isola.
+E la cena era ora in placido corso, poiché Mrs. Anthony sedeva
+alquanto imbronciata ai piedi del tavolo, mentre a capotavola
+c'era Mr. Paul, il maggiordomo maggiore, che mangiava e beveva del migliore,
+i suoi occhi cisposi e bluastri che sporgevano stranamente dal volto, il suo scarno
+sembiante imperscrutabile, ma per nulla privo di soddisfazione.
+
+Con un gesto di poderosa impazienza, [[Flambeau]] scosse la [[Window|finestra]],
+la spalancò a forza, e ficcò una testa indignata nella stanza illuminata dalla lampada.
+
+«[[Well|Ebbene]]», gridò. «Posso capire che possiate aver bisogno di qualche rinfresco,
+ma rubare davvero la cena del vostro padrone mentre egli giace assassinato
+nel [[Garden|giardino]]…»
+
+«Ho rubato moltissime cose in una lunga e piacevole vita»,
+replicò placidamente lo strano vecchio gentiluomo; «questa cena è una
+delle poche cose che non ho rubato. Questa cena e questa [[house|casa]]
+e questo [[Garden|giardino]] guarda caso appartengono a me.»
+
+Un pensiero balenò sul volto di [[Flambeau]]. «Volete dire»,
+cominciò, «che il testamento del principe Saradine…»
+
+«Io sono il principe Saradine», disse il vecchio, sgranocchiando una mandorla salata.
+
+[[Father Brown]], che stava guardando gli [[Birds|uccelli]] là fuori, sobbalzò come se gli avessero sparato,
+e ficcò dentro la [[Window|finestra]] una faccia pallida come una rapa.
+
+«Voi siete che cosa?» ripeté con voce stridula.
+
+«Paul, principe Saradine, à vos ordres», disse il venerabile personaggio
+cortesemente, sollevando un bicchiere di sherry. «Vivo qui assai quietamente,
+essendo un tipo casalingo; e per amor di modestia
+mi faccio chiamare Mr. Paul, per distinguermi dal mio sventurato
+fratello Mr. Stephen. È morto, sento dire, di recente — nel [[Garden|giardino]].
+Naturalmente, non è colpa mia se dei nemici lo inseguono fin qui.
+È dovuto alla deplorevole irregolarità della sua vita.
+Non era un carattere casalingo.»
+
+Ricadde nel [[Silence|silenzio]], e continuò a fissare la parete
+di fronte proprio al di sopra del capo chino e cupo della donna. Videro
+chiaramente la somiglianza di famiglia che li aveva perseguitati nel morto.
+Poi le sue vecchie spalle cominciarono a sollevarsi e a scuotersi un poco,
+come se stesse soffocando, ma il suo volto non mutò.
+
+«Dio mio!» gridò [[Flambeau]] dopo una pausa, «sta ridendo!»
+
+«Andiamo via», disse [[Father Brown]], che era tutto bianco.
+«Andiamo via da questa [[house|casa]] d'inferno. Torniamo su una
+barca onesta.»
+
+La [[Night|notte]] era calata sui giunchi e sul [[River|fiume]] al [[Time|momento]] in cui ebbero staccato la barca dall'
+isola, e discesero la corrente nel buio, riscaldandosi
+con due grossi sigari che ardevano come cremisi lanterne di nave. [[Father Brown]]
+si tolse il sigaro di bocca e disse:
+
+«Immagino che ora tu possa indovinare tutta la storia? Dopotutto,
+è una storia primitiva. Un uomo aveva due nemici. Era un uomo saggio.
+E così scoprì che due nemici sono meglio di uno.»
+
+«Non ti seguo», rispose [[Flambeau]].
+
+«Oh, è davvero semplice», ribatté l'amico. «Semplice, sebbene
+tutt'altro che [[Innocent|innocente]]. Entrambi i Saradine erano canaglie,
+ma il principe, il maggiore, era il tipo di canaglia che arriva in cima,
+e il minore, il capitano, era il tipo che affonda in [[Bottom|fondo]].
+Questo squallido ufficiale scese da accattone a ricattatore,
+e un brutto giorno mise la mano addosso a suo fratello, il principe.
+Ovviamente non era per faccenda da poco, poiché il principe Paul Saradine
+era francamente `dissoluto', e non aveva reputazione da perdere quanto ai meri
+peccati della società. In parole povere, era faccenda da forca,
+e Stephen aveva letteralmente una corda al collo del fratello.
+Aveva in qualche modo scoperto la verità sulla faccenda siciliana,
+e poteva provare che Paul aveva assassinato il vecchio Antonelli sui monti.
+Il capitano raccolse pesantemente il denaro del silenzio per dieci anni,
+finché perfino la splendida fortuna del principe cominciò a sembrare
+un po' misera.
+
+«Ma il principe Saradine portava un altro fardello oltre al fratello succhiasangue.
+Sapeva che il figlio di Antonelli, un semplice bambino all'epoca dell'assassinio,
+era stato addestrato in una selvaggia lealtà siciliana, e viveva soltanto per vendicare
+suo padre, non con la forca (poiché gli mancava la prova legale di Stephen),
+ma con le antiche armi della vendetta. Il ragazzo si era esercitato nelle armi con
+una perfezione micidiale, e verso l'epoca in cui fu abbastanza grande per usarle
+il principe Saradine cominciò, come dicevano i giornali mondani, a viaggiare.
+Il fatto è che cominciò a fuggire per salvarsi la vita, passando di luogo in luogo
+come un criminale braccato; ma con un uomo implacabile sulle sue tracce.
+Questa era la posizione del principe Paul, e per nulla graziosa.
+Più denaro spendeva per sfuggire ad Antonelli, meno ne aveva per
+mettere a tacere Stephen. Più ne dava per mettere a tacere Stephen, meno probabilità
+c'era di sfuggire finalmente ad Antonelli. Fu allora che si mostrò
+un grand'uomo — un genio come Napoleone.
+
+«Invece di resistere ai suoi due antagonisti, si arrese
+d'improvviso a entrambi. Cedette come un lottatore giapponese,
+e i suoi nemici caddero prostrati davanti a lui. Rinunciò alla corsa
+intorno al mondo, e diede il proprio indirizzo al giovane Antonelli;
+poi cedette ogni cosa a suo fratello. Mandò a Stephen
+denaro sufficiente per eleganti abiti e comodi viaggi, con una lettera
+che diceva grosso modo: `Questo è tutto ciò che mi resta. Mi hai ripulito.
+Mi resta ancora una piccola [[house|casa]] nel Norfolk, con dei domestici e
+una cantina, e se vuoi di più da me devi prenderti quella.
+Vieni a prenderne possesso se ti va, e io vivrò là quietamente
+come tuo amico o agente o qualsiasi cosa.' Sapeva che il siciliano
+non aveva mai visto i fratelli Saradine se non, forse, in fotografia;
+sapeva che erano alquanto simili, avendo entrambi barbe grigie e appuntite.
+Poi si rase la propria faccia e attese. La trappola funzionò.
+L'infelice capitano, nei suoi nuovi abiti, entrò nella [[house|casa]]
+in trionfo come un principe, e andò a cadere sulla [[Sword|spada]] del siciliano.
+
+«Ci fu un intoppo, ed è a [[Honour|onore]] della [[Nature|natura]] umana.
+Gli spiriti malvagi come Saradine spesso sbagliano non aspettandosi mai
+le virtù dell'umanità. Diede per scontato che il
+colpo dell'italiano, quando fosse venuto, sarebbe stato oscuro, violento e senza nome,
+come il colpo che vendicava; che la vittima sarebbe stata accoltellata di [[Night|notte]],
+o fucilata da dietro una siepe, e così morire senza parlare.
+Fu un brutto momento per il principe Paul quando la cavalleria di Antonelli
+propose un duello formale, con tutte le sue possibili spiegazioni.
+Fu allora che lo trovai mentre prendeva il largo nella sua barca con occhi selvaggi.
+Fuggiva, a capo scoperto, in una barca aperta prima che Antonelli
+potesse apprendere chi egli fosse.
+
+«Ma, per quanto agitato, non era disperato. Conosceva l'avventuriero
+e conosceva il fanatico. Era assai probabile che Stephen,
+l'avventuriero, tenesse la bocca chiusa, per il suo mero piacere istrionico
+di recitare una parte, per la sua brama di aggrapparsi ai suoi nuovi
+comodi alloggi, per la sua fiducia da furfante nella fortuna, e per la sua bella scherma.
+Era certo che Antonelli, il fanatico, avrebbe tenuto
+la bocca chiusa, e si sarebbe fatto impiccare senza fare la spia sulla propria famiglia.
+Paul bighellonò sul [[River|fiume]] finché non seppe che il combattimento era finito.
+Poi destò la città, portò la polizia, vide i suoi due vinti
+nemici portati via per sempre, e si sedette sorridendo alla sua cena.»
+
+«Ridendo, che Dio ci aiuti!» disse [[Flambeau]] con un forte brivido.
+«Prendono simili idee da [[Satan|Satana]]?»
+
+«Ha preso quell'idea da te», rispose il prete.
+
+«Dio non voglia!» esclamò [[Flambeau]]. «Da me! Che cosa intendi!»
+
+Il prete estrasse un biglietto da visita dalla tasca e lo tenne sollevato
+nel debole bagliore del suo sigaro; era scarabocchiato con inchiostro verde.
+
+«Non ricordi il suo invito originale a te?»
+chiese, «e il complimento alla tua impresa criminale?
+`Quel vostro trucco', dice, `di far arrestare un [[Detective|detective]]
+dall'altro'? Ha semplicemente copiato il tuo trucco.
+Con un nemico da ciascun lato, sgusciò via rapidamente
+e li lasciò collidere e uccidersi a vicenda.»
+
+[[Flambeau]] strappò il biglietto del principe Saradine dalle mani del prete e lo dilaniò
+selvaggiamente in piccoli pezzi.
+
+«Ecco l'ultimo resto di quel vecchio teschio con le ossa incrociate», disse mentre
+spargeva i pezzi sulle scure e sparenti onde del corso d'acqua;
+«ma penso proprio che [[Poison|avvelenerebbe]] i pesci.»
+
+L'ultimo barlume di biglietto bianco e d'inchiostro verde fu annegato e oscurato;
+un debole e vibrante colore come di mattino mutò il cielo, e la [[Moon|luna]]
+dietro le erbe impallidì. Andarono alla deriva in [[Silence|silenzio]].
+
+«Padre», disse [[Flambeau]] all'improvviso, «pensi che sia stato tutto [[A Dream|un sogno]]?»
+
+Il prete scosse il capo, se in dissenso o in agnosticismo,
+ma rimase muto. Un odore di biancospino e di frutteti giunse
+loro attraverso l'oscurità, dicendo loro che un [[Wind|vento]] si era destato;
+un attimo dopo esso fece oscillare la loro barchetta e gonfiò la vela,
+e li portò avanti giù per il tortuoso [[River|fiume]] verso luoghi più felici
+e le dimore di uomini innocui.

@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/heret12-(chesterton)">Heretics</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/heret12/story_01_introductory_remarks_on_the_importance_o/part_02">‹ part 02</a><a class="ex-next" href="/testi/chesterton/atomized/heret12/story_02_on_the_negative_spirit/part_01">part 01 ›</a></div>
@@ -67,3 +69,67 @@ there comes back the conviction that the monk was right after all,
 and that all depends on what is the [[philosophy]] of Light.  Only what
 we might have discussed under the gas-lamp, we now must discuss
 in the dark.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/heret12-(chesterton)">Heretics</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/heret12/story_01_introductory_remarks_on_the_importance_o/part_02">‹ part 02</a><a class="ex-next" href="/testi/chesterton/atomized/heret12/story_02_on_the_negative_spirit/part_01">part 01 ›</a></div>
+</nav>
+
+# [[heret12]] — Osservazioni introduttive sull'importanza dell'ortodossia (parte 3)
+
+E, avendo scoperto che l'opportunismo fallisce davvero, sono
+stato indotto a considerarlo più ampiamente, e di conseguenza
+a vedere che esso deve fallire. Comprendo che è assai più
+pratico cominciare dal principio e discutere le teorie.
+Vedo che gli uomini che si uccidevano a vicenda per l'ortodossia
+dell'Homooúsion erano assai più assennati della gente
+che si accapiglia per l'[[Education|Education Act]]. Poiché i dogmatici
+cristiani cercavano di stabilire un regno di santità,
+e cercavano di definire, anzitutto, che cosa fosse davvero santo.
+Ma i nostri educatori moderni cercano di realizzare una libertà
+religiosa senza tentare di stabilire che cosa sia la religione o che cosa
+sia la libertà. Se gli antichi sacerdoti imposero un'affermazione all'umanità,
+almeno si diedero prima qualche pena per renderla lucida.
+È stato lasciato alle moderne folle di anglicani e non-conformisti
+il compito di perseguitare per una dottrina senza nemmeno enunciarla.
+
+Per queste ragioni, e per molte altre, io, da parte mia, sono giunto
+a credere nel ritorno ai fondamenti. Tale è l'idea generale
+di questo libro. Desidero occuparmi dei miei più illustri
+contemporanei, non personalmente né in maniera meramente letteraria,
+ma in relazione al reale [[Body|corpo]] di dottrina che essi insegnano.
+Non mi interessa il signor Rudyard Kipling come vivido [[Artist|artista]]
+o come vigorosa personalità; mi interessa come Eretico,
+vale a dire un uomo la cui visione delle cose ha l'ardire
+di differire dalla mia. Non mi interessa il signor Bernard [[Shaw]]
+come uno degli uomini più brillanti e più onesti che vivano;
+mi interessa come Eretico, vale a dire un uomo la cui
+[[philosophy|filosofia]] è del tutto solida, del tutto coerente, e del tutto sbagliata.
+Ritorno ai metodi dottrinali del tredicesimo secolo,
+ispirato dalla generale [[Hope|speranza]] di far fare qualcosa.
+
+Supponiamo che sorga un gran tumulto nella strada per qualcosa,
+diciamo un lampione, che molte persone influenti [[Desire|desiderano]]
+abbattere. Un monaco vestito di grigio, che è lo spirito del Medioevo,
+viene interpellato sulla questione, e comincia a dire, all'arida maniera
+degli Scolastici: «Consideriamo anzitutto, fratelli miei,
+il valore della Luce. Se la Luce è in sé buona...» A questo punto
+egli viene, con qualche scusante, messo a terra. Tutti fanno ressa
+verso il lampione, il lampione è abbattuto in dieci minuti, e vanno
+in giro a congratularsi a vicenda per la loro praticità antimedievale.
+Ma, con l'andar delle cose, esse non si risolvono così facilmente. Alcuni
+hanno abbattuto il lampione perché volevano la luce elettrica;
+alcuni perché volevano il ferro vecchio; alcuni perché volevano l'oscurità,
+perché le loro opere erano malvagie. Alcuni lo ritenevano un lampione insufficiente,
+alcuni eccessivo; alcuni agirono perché volevano fracassare
+la macchina municipale; alcuni perché volevano fracassare qualcosa.
+E c'è guerra nella [[Night|notte]], senza che nessun uomo sappia chi colpisce.
+Così, gradualmente e inevitabilmente, oggi, domani, o il giorno dopo,
+torna la convinzione che il monaco avesse ragione dopotutto,
+e che tutto dipenda da quale sia la [[philosophy|filosofia]] della Luce. Solo che ciò
+che avremmo potuto discutere sotto il lampione a gas, ora dobbiamo discuterlo
+al buio.

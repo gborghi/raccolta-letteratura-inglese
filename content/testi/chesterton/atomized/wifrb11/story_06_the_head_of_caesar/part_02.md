@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/wifrb11-(chesterton)">The Wisdom of Father Brown</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/wifrb11/story_06_the_head_of_caesar/part_01">‹ part 01</a><a class="ex-next" href="/testi/chesterton/atomized/wifrb11/story_06_the_head_of_caesar/part_03">part 03 ›</a></div>
@@ -157,3 +159,46 @@ I thought of that living and growing gold calling to me from all
 the heaths of the world--and then of that dead, dull gold and bronze
 and brass of my brother's growing dustier and dustier as life went by. 
 Nature and the Carstairs Collection had come to grips at last.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/wifrb11-(chesterton)">The Wisdom of Father Brown</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/wifrb11/story_06_the_head_of_caesar/part_01">‹ part 01</a><a class="ex-next" href="/testi/chesterton/atomized/wifrb11/story_06_the_head_of_caesar/part_03">part 03 ›</a></div>
+</nav>
+
+# [[wifrb11]] — La testa di Cesare (parte 2)
+
+     Lui la guardò fisso per la prima volta, e disse: «Perché speravo che avrebbe parlato con me.»
+
+     Ella lo ricambiò con lo sguardo per qualche istante, il viso acceso, sul quale indugiava un'ombra rossa d'ira; poi, a dispetto delle sue angosce, l'ironia le sprizzò dagli occhi e dagli angoli della bocca, ed ella rispose quasi torva: «Bene, se le sta tanto a cuore la mia conversazione, forse risponderà alla mia domanda.» Dopo una pausa aggiunse: «Ho avuto l'onore di chiederle perché pensava che il naso di quell'uomo fosse finto.»
+
+     «La cera fa sempre di quelle macchioline, con questo tempo,» rispose Padre Brown con assoluta semplicità.
+
+     «Ma è un naso così storto,» obiettò la ragazza dai capelli rossi.
+
+     Il prete sorrise a sua volta. «Non dico che sia il tipo di naso che uno porterebbe per pura civetteria,» ammise. «Quest'uomo, credo, lo porta perché il suo vero naso è molto più bello.»
+
+     «Ma perché?» insistette lei.
+
+     «Come fa quella filastrocca?» osservò Brown distrattamente. «C'era un uomo storto che percorse un miglio storto.... Quell'uomo, immagino, ha percorso una strada molto storta, seguendo il proprio naso.»
+
+     «Perché, che cosa ha fatto?» domandò lei, con voce piuttosto malferma.
+
+     «Non voglio forzare d'un capello la sua confidenza,» disse Padre Brown, molto pacatamente. «Ma credo che su questo lei potrebbe dirmi assai più di quanto io possa dire a lei.»
+
+     La ragazza scattò in piedi e restò immobile, ma con i pugni serrati, come chi sta per andarsene a grandi passi; poi le mani a poco a poco si distesero, ed ella tornò a sedersi. «Lei è più misterioso di tutti gli altri,» disse disperatamente, «ma sento che nel suo mistero potrebbe esserci un cuore.»
+
+     «Ciò che tutti temiamo di più,» disse il prete a voce bassa, «è un labirinto senza centro. È per questo che l'ateismo è soltanto un incubo.» «Le dirò tutto,» disse la ragazza dai capelli rossi ostinatamente, «tranne perché glielo dico; e questo non lo so.»
+
+     Ella prese a stuzzicare la tovaglia rammendata e proseguì: «Lei ha l'aria di saper riconoscere ciò che snobismo non è, oltre a ciò che lo è; e quando dico che la nostra è una buona vecchia famiglia, capirà che è una parte necessaria della storia; anzi, il mio pericolo principale sta nelle idee rigide e superate di mio fratello, il *noblesse oblige* e tutto il resto. Ebbene, il mio nome è Christabel Carstairs; e mio padre era quel colonnello Carstairs di cui probabilmente avrà sentito parlare, quello che mise insieme la famosa collezione Carstairs di monete romane. Non saprei mai descriverle mio padre; il massimo che posso dire è che somigliava moltissimo lui stesso a una moneta romana. Era così bello, così autentico, così prezioso, così metallico e così fuori moda. Andava più fiero della sua Collezione che del suo stemma: nessuno potrebbe dir di più. Il suo carattere straordinario si rivelò soprattutto nel testamento. Aveva due figli e una figlia. Litigò con uno dei figli, mio fratello Giles, e lo spedì in Australia con un piccolo assegno. Fece poi testamento lasciando la collezione Carstairs, con un assegno ancora più piccolo, a mio fratello Arthur. Lo intendeva come una ricompensa, il più alto onore che potesse offrire, in riconoscimento della lealtà e della rettitudine di Arthur e delle distinzioni che questi aveva già ottenuto in matematica ed economia a Cambridge. A me lasciò praticamente tutto il suo cospicuo patrimonio; e sono sicura che lo intese per disprezzo.
+
+     «Arthur, dirà lei, avrebbe ben potuto lamentarsene; ma Arthur è mio padre daccapo. Benché avesse avuto qualche divergenza con mio padre nella prima giovinezza, non appena ebbe assunto la Collezione divenne come un sacerdote pagano consacrato a un tempio. Confondeva quei mezzi soldi romani con l'onore della famiglia Carstairs, nello stesso modo rigido e idolatra di suo padre prima di lui. Si comportava come se il denaro romano dovesse essere custodito da tutte le virtù romane. Non si concedeva piaceri; non spendeva nulla per sé; viveva per la Collezione. Spesso non si dava neppure la pena di vestirsi come si deve per i suoi frugali pasti; ma trotterellava tra i pacchi di carta marrone legati con lo spago (che a nessun altro era concesso toccare) con una vecchia veste da camera marrone. Con quella corda e quel fiocco, e il suo volto pallido, magro, raffinato, aveva l'aria di un vecchio monaco asceta. Ogni tanto, però, compariva vestito da gentiluomo decisamente alla moda; ma soltanto quando saliva alle vendite o nei negozi di Londra per fare qualche aggiunta alla collezione Carstairs.
+
+     «Ora, se ha conosciuto qualche giovane, non si scandalizzerà se le dico che, con tutto questo, mi venne un umore piuttosto tetro; quello stato d'animo in cui uno comincia a dire che gli antichi Romani, a modo loro, andavano benissimo. Non sono come mio fratello Arthur; non posso fare a meno di godermi il godimento. La mia buona dose di romanticismo e di follie l'ho avuta di dove ho avuto i capelli rossi, dall'altro ramo della famiglia. Il povero Giles era lo stesso; e credo che l'atmosfera delle monete possa valergli da scusa; benché avesse davvero fatto del male e fosse quasi finito in prigione. Ma non si comportò affatto peggio di me; come sentirà.
+
+     «Vengo ora alla parte sciocca della storia. Credo che un uomo intelligente come lei possa indovinare il genere di cosa che comincerebbe a spezzare la monotonia per una ragazza ribelle di diciassette anni posta in una simile situazione. Ma sono così sconvolta da cose ben più terribili che a stento riesco a leggere il mio stesso sentimento; e non so se ora disprezzarlo come una civetteria o portarlo addosso come un cuore infranto. Vivevamo allora in una piccola cittadina balneare del Galles del Sud, e un capitano di mare in pensione che abitava a pochi passi da noi aveva un figlio più grande di me di circa cinque anni, che era stato amico di Giles prima che questi partisse per le Colonie. Il suo nome non incide sul mio racconto; ma glielo dico, era Philip Hawker, perché le sto dicendo tutto. Andavamo insieme a pescare i gamberetti, e dicevamo e credevamo di essere innamorati l'uno dell'altra; per lo meno lui certamente diceva di esserlo, e io certamente credevo di esserlo. Se le dico che aveva i capelli ricci e bruniti e una specie di volto da falco, brunito anch'esso dal mare, non è per amor suo, glielo assicuro, ma per amor della storia; perché fu la causa di una coincidenza molto curiosa.
+
+     «Un pomeriggio d'estate, avendo promesso di andare a pescare gamberetti lungo la spiaggia con Philip, aspettavo piuttosto spazientita nel salotto sul davanti, guardando Arthur maneggiare certi pacchetti di monete che aveva appena acquistato e trasferirle lentamente, una o due per volta, nel suo studio-museo buio, che era sul retro della casa. Non appena udii la pesante porta chiudersi definitivamente su di lui, mi precipitai a prendere la mia rete da gamberetti e il mio berretto scozzese, e stavo giusto per sgusciar fuori, quando vidi che mio fratello aveva lasciato dietro di sé una moneta, che luccicava sul lungo banco accanto alla finestra. Era una moneta di bronzo, e il colore, unito alla curva esatta del naso romano e a un non so che nel modo stesso in cui si levava il lungo collo nerboruto, faceva della testa di Cesare che vi era impressa il ritratto quasi preciso di Philip Hawker. Poi mi tornò a un tratto in mente che Giles aveva parlato a Philip di una moneta che gli somigliava, e che Philip aveva espresso il desiderio di averla. Forse lei può immaginare i pensieri sfrenati e folli che mi girarono per la testa; mi sentii come se avessi ricevuto un dono dalle fate. Mi pareva che, se solo fossi potuta scappare con quella moneta e dargliela come una specie di selvaggia fede nuziale, sarebbe stata per sempre un legame fra noi; provai mille sensazioni simili tutte insieme. Poi si spalancò sotto di me, come l'abisso, l'enorme, tremenda nozione di ciò che stavo facendo; e soprattutto il pensiero insopportabile, come toccare ferro rovente, di quel che Arthur ne avrebbe pensato. Una Carstairs ladra; e ladra del tesoro dei Carstairs! Credo che mio fratello sarebbe stato capace di vedermi bruciata come una strega per una cosa simile. Ma allora, il pensiero stesso di una crudeltà così fanatica accresceva il mio vecchio odio per la sua trita, vecchia pignoleria da antiquario e la mia sete di giovinezza e di libertà che dal mare mi chiamava. Fuori splendeva un sole forte, con un vento; e una testa gialla di ginestra o di ginestrone nel giardino batteva contro il vetro della finestra. Pensai a quell'oro vivo e crescente che mi chiamava da tutte le lande del mondo, e poi a quell'oro morto e opaco, e al bronzo e all'ottone di mio fratello, che si facevano sempre più polverosi col passare della vita. La Natura e la collezione Carstairs erano infine venute alle prese.

@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/innocence-(chesterton)">The Innocence of Father Brown</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/innocence/story_07_the_wrong_shape/part_04">‹ part 04</a><a class="ex-next" href="/testi/chesterton/atomized/innocence/story_07_the_wrong_shape/part_06">part 06 ›</a></div>
@@ -144,3 +146,144 @@ the sky shut up again, and the priest went on:
 of paper.  It was crookeder than the dagger that killed him."
 
 "You mean the paper on which Quinton confessed his suicide," said Flambeau.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/innocence-(chesterton)">The Innocence of Father Brown</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/innocence/story_07_the_wrong_shape/part_04">‹ part 04</a><a class="ex-next" href="/testi/chesterton/atomized/innocence/story_07_the_wrong_shape/part_06">part 06 ›</a></div>
+</nav>
+
+# [[innocence]] — La forma sbagliata (parte 5)
+
+«Va tutto bene», disse, con un sorriso di scusa.
+«Ventitré fogli tagliati e ventidue angoli tagliati via da essi.
+E poiché vedo che è impaziente, andremo a raggiungere gli altri.»
+
+«Chi deve dirlo a sua moglie?» chiese il dottor Harris. «Vuole andare a dirglielo adesso,
+mentre io mando un domestico a chiamare la polizia?»
+
+«Come vuole», disse [[Father Brown|Padre Brown]] con indifferenza. E andò
+verso la porta d'ingresso.
+
+Anche qui trovò un dramma, benché di sorta più [[Grotesque|grottesca]].
+Non mostrava niente meno che il suo grosso amico [[Flambeau]] in un atteggiamento
+al quale da tempo non era più avvezzo, mentre sul vialetto
+in [[Bottom|fondo]] agli scalini giaceva sdraiato con gli stivali
+in aria l'amabile Atkinson, con la sua bombetta e il bastone
+da passeggio scagliati in direzioni opposte lungo il vialetto.
+Atkinson si era alla fine stancato della custodia quasi paterna di [[Flambeau]],
+e aveva tentato di stenderlo, il che non era affatto
+un gioco liscio da fare col Roi des Apaches, anche dopo
+l'abdicazione di quel monarca.
+
+[[Flambeau]] stava per balzare sul suo nemico e assicurarselo di nuovo,
+quando il prete gli diede un colpetto leggero sulla spalla.
+
+«Faccia pace con il signor Atkinson, amico mio», disse.
+«Chiedetevi mutuo perdono e ditevi `Buona notte'. Non è più necessario
+trattenerlo.» Poi, mentre Atkinson si rialzava un po'
+esitante e raccoglieva cappello e bastone e s'incamminava verso
+il cancello del giardino, Padre Brown disse con voce più grave:
+«Dov'è quell'indiano?»
+
+Tutti e tre (perché il medico si era unito a loro) si voltarono involontariamente
+verso il fioco argine erboso in mezzo agli alberi agitati e purpurei di crepuscolo,
+dove per l'ultima volta avevano visto l'uomo bruno oscillare nelle sue strane preghiere.
+L'indiano era scomparso.
+
+«Che sia maledetto», gridò il medico, pestando i piedi furiosamente.
+«Adesso so che è stato quel negro a farlo.»
+
+«Credevo che lei non credesse nella magia», disse Padre Brown con calma.
+
+«E infatti non ci credevo», disse il medico, roteando gli occhi. «So soltanto
+che ho detestato quel diavolo giallo quando lo credevo un mago da strapazzo.
+E lo detesterò ancora di più se dovrò arrivare a pensare che fosse un mago vero.»
+
+«Be', il fatto che sia fuggito non conta nulla», disse Flambeau. «Perché
+non avremmo potuto provare nulla né fare nulla contro di lui.
+Non si va certo dal poliziotto di parrocchia con una storia di suicidio
+imposto per stregoneria o autosuggestione.»
+
+Intanto Padre Brown si era fatto strada dentro casa,
+e ora andava a dare la notizia alla moglie del morto.
+
+Quando uscì di nuovo appariva un po' pallido e tragico,
+ma ciò che passò tra loro in quel colloquio non fu mai saputo,
+nemmeno quando tutto fu saputo.
+
+Flambeau, che stava parlando tranquillamente col medico,
+fu sorpreso di vedere l'amico ricomparire così presto al suo fianco;
+ma Brown non ci badò, e trasse semplicemente il medico in disparte.
+«Ha mandato a chiamare la polizia, non è vero?» chiese.
+
+«Sì», rispose Harris. «Dovrebbero essere qui tra dieci minuti.»
+
+«Vuole farmi un favore?» disse il prete con calma.
+«La verità è che faccio una collezione di queste curiose storie,
+che spesso contengono, come nel caso del nostro amico indù,
+elementi che difficilmente si possono mettere in un rapporto di polizia. Ora, vorrei
+che lei mi scrivesse un resoconto di questo caso per mio uso privato.
+Il suo è un mestiere abile», disse, guardando il medico gravemente
+e fissamente in volto. «A volte penso che lei conosca
+certi particolari di questa faccenda che non ha ritenuto opportuno
+menzionare. Il mio è un mestiere confidenziale come il suo, e
+tratterò tutto ciò che lei scriverà per me nella più stretta riservatezza.
+Ma scriva tutto.»
+
+Il medico, che aveva ascoltato pensosamente con il capo un poco
+inclinato da un lato, guardò il prete in volto per un istante, e disse:
+«D'accordo», ed entrò nello studio, chiudendo la porta dietro di sé.
+
+«Flambeau», disse Padre Brown, «c'è una lunga panca laggiù
+sotto la veranda, dove possiamo fumare al riparo dalla pioggia.
+Tu sei il mio solo amico al mondo, e voglio parlarti.
+O, forse, tacere con te.»
+
+Si sistemarono comodamente sulla panca della veranda;
+Padre Brown, contro la sua consueta abitudine, accettò un buon sigaro
+e lo fumò senza sosta in silenzio, mentre la pioggia strideva
+e crepitava sul tetto della veranda.
+
+«Amico mio», disse alla fine, «questo è un caso davvero bizzarro.
+Un caso davvero bizzarro.»
+
+«Direi proprio di sì», disse Flambeau, con qualcosa di simile a un brivido.
+
+«Tu lo chiami bizzarro, e io lo chiamo bizzarro», disse l'altro,
+«eppure intendiamo cose del tutto opposte. La mente moderna confonde sempre
+due idee diverse: il mistero nel senso di ciò che
+è meraviglioso, e il mistero nel senso di ciò che è complicato.
+È qui metà della sua difficoltà con i miracoli. Un miracolo è sconcertante;
+ma è semplice. È semplice proprio perché è un miracolo.
+È potenza che viene direttamente da Dio (o dal diavolo) invece che
+indirettamente attraverso la natura o le volontà umane. Ora, tu vuoi dire che questa
+faccenda è meravigliosa perché è miracolosa, perché
+è stregoneria operata da un indiano malvagio. Bada, io non
+dico che non fosse spirituale o diabolica. Il cielo e l'inferno
+soli sanno per quali circostanti influenze strani peccati entrino
+nelle vite degli uomini. Ma per ora il mio punto è questo:
+se fu pura magia, come tu pensi, allora è meravigliosa;
+ma non è misteriosa — vale a dire, non è complicata.
+La qualità di un miracolo è misteriosa, ma il suo modo è semplice.
+Ora, il modo di questa faccenda è stato il contrario del semplice.»
+
+La tempesta, che si era placata per un poco, pareva gonfiarsi
+di nuovo, e vennero pesanti movimenti come di fioco tuono.
+Padre Brown lasciò cadere la cenere del sigaro e proseguì:
+
+«C'è stata in questo episodio», disse, «una qualità contorta, brutta, complessa
+che non appartiene ai fulmini diritti né del cielo né dell'inferno.
+Come si conosce la traccia storta di una lumaca, io conosco la traccia storta
+di un uomo.»
+
+Il bianco lampo aprì il suo enorme occhio in un batter di ciglia,
+il cielo si richiuse, e il prete proseguì:
+
+«Di tutte queste cose storte, la più storta era la forma di quel pezzo
+di carta. Era più storta del pugnale che lo uccise.»
+
+«Intendi il foglio su cui Quinton confessò il suo suicidio», disse Flambeau.

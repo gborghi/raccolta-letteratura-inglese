@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/wifrb11-(chesterton)">The Wisdom of Father Brown</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/wifrb11/story_01_the_absence_of_mr_glass/part_02">‹ part 02</a><a class="ex-next" href="/testi/chesterton/atomized/wifrb11/story_01_the_absence_of_mr_glass/part_04">part 04 ›</a></div>
@@ -129,3 +131,44 @@ more exact indication.  This wineglass has been smashed all over the place,
 but one of its splinters lies on the high bracket beside the mantelpiece. 
 No such fragment could have fallen there if the vessel had been smashed
 in the hand of a comparatively short man like Mr Todhunter."
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/wifrb11-(chesterton)">The Wisdom of Father Brown</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/wifrb11/story_01_the_absence_of_mr_glass/part_02">‹ part 02</a><a class="ex-next" href="/testi/chesterton/atomized/wifrb11/story_01_the_absence_of_mr_glass/part_04">part 04 ›</a></div>
+</nav>
+
+# [[wifrb11]] — L'assenza del signor Glass (parte 3)
+
+     «Mi dispiace interrompervi, signore», disse, «ma dovevo seguire subito Padre Brown; non si tratta di niente di meno che di vita o di morte.»
+
+     Padre Brown cominciò ad alzarsi in piedi con qualche impaccio. «Ebbene, che cosa è successo, Maggie?» disse.
+
+     «James è stato assassinato, per quanto io possa capire», rispose la fanciulla, ancora ansante per la corsa. «Quel Glass è stato di nuovo con lui; li ho sentiti parlare attraverso la porta chiarissimamente. Due voci distinte: perché James parla basso, con una erre arrotata, e l'altra voce era acuta e tremula.»
+
+     «Quel Glass?» ripeté il prete con una certa perplessità.
+
+     «So che si chiama Glass», rispose la fanciulla, con grande impazienza. «L'ho sentito attraverso la porta. Litigavano — per denaro, credo — perché ho sentito James dire più e più volte: "Va bene, signor Glass", oppure "No, signor Glass", e poi: "Due o tre, signor Glass". Ma stiamo parlando troppo; dovete venire subito, e forse c'è ancora [[Time|tempo]].»
+
+     «Ma [[Time|tempo]] per che cosa?» chiese il dottor Hood, che aveva studiato la giovane con marcato interesse. «Che cosa c'è, nel signor Glass e nei suoi guai di denaro, da imporre una simile urgenza?»
+
+     «Ho cercato di sfondare la porta e non ci sono riuscita», rispose la fanciulla in breve, «poi sono corsa nel cortile sul retro e sono riuscita ad arrampicarmi sul davanzale della [[Window|finestra]] che dà nella stanza. Era in penombra, e sembrava vuota, ma giuro d'aver visto James riverso rannicchiato in un angolo, come se fosse drogato o strangolato.»
+
+     «Questo è molto serio», disse [[Father Brown|Padre Brown]], raccogliendo il suo errabondo cappello e l'ombrello e alzandosi in piedi; «di fatto stavo giusto esponendo il vostro caso a questo signore, e la sua opinione...»
+
+     «È stata largamente modificata», disse gravemente lo scienziato. «Non credo che questa giovane sia tanto celtica quanto avevo supposto. Poiché non ho altro da fare, mi metterò il cappello e verrò a farmi una passeggiata in città con voi.»
+
+     In pochi minuti tutti e tre si stavano avvicinando alla squallida coda della via dei MacNab: la fanciulla col passo severo e trafelato dello scalatore di montagna, il criminologo con una grazia indolente (che non era priva di una certa rapidità felina), e il prete a un trotto energico del tutto privo di distinzione. L'aspetto di questo margine della città non era del tutto privo di giustificazione per gli accenni del dottore a umori e ambienti desolati. Le case sparse si distanziavano sempre più l'una dall'altra in una fila spezzata lungo la riva del mare; il pomeriggio si chiudeva in un crepuscolo prematuro e in parte sinistro; il mare era di un purpureo cupo come inchiostro e mormorava minacciosamente. Nel raffazzonato [[Garden|giardino]] sul retro dei MacNab, che scendeva verso la sabbia, due alberi neri e dall'aria sterile si ergevano come mani demoniache levate nello stupore; e mentre la signora MacNab correva giù per la via a incontrarli con magre mani parimenti protese, e il feroce viso in [[Shadow|ombra]], somigliava un poco a un demonio anche lei. Il dottore e il prete diedero scarsa risposta alle stridule reiterazioni della storia della figlia, con più inquietanti particolari suoi propri, e ai giuramenti di vendetta divisi tra il signor Glass per aver assassinato, e il signor Todhunter per essere stato assassinato, o quest'ultimo per aver osato voler sposare sua figlia, e per non essere vissuto abbastanza da farlo. Passarono per lo stretto andito sul davanti della [[house|casa]] finché giunsero alla porta del pigionante sul retro, e là il dottor Hood, con la destrezza di un vecchio [[Detective|investigatore]], puntò di colpo la spalla contro il pannello e sfondò la porta.
+
+     Si aprì su una scena di silenziosa catastrofe. Nessuno, vedendola, anche solo per un lampo, avrebbe potuto [[Doubt|dubitare]] che la stanza fosse stata il teatro di qualche emozionante scontro tra due, o forse più, persone. Carte da gioco giacevano sparse sul tavolo o svolazzavano per il pavimento come se una partita fosse stata interrotta. Due bicchieri da vino stavano pronti per il vino su un tavolinetto laterale, ma un terzo giaceva in frantumi in una stella di cristallo sul tappeto. A pochi piedi da esso giaceva quello che pareva un lungo coltello o una corta [[Sword|spada]], dritta, ma con un'impugnatura ornata e figurata; la sua opaca lama coglieva appena un grigio bagliore dalla tetra [[Window|finestra]] retrostante, che mostrava gli alberi neri contro il piatto plumbeo del mare. Verso l'angolo opposto della stanza era rotolato un cilindro di seta da gentiluomo, come se fosse stato appena fatto saltar via dalla testa; a tal punto, in verità, che quasi ci si aspettava di vederlo ancora [[rolling|rotolare]]. E nell'angolo dietro di esso, gettato come un sacco di patate, ma legato come un baule ferroviario, giaceva il signor James Todhunter, con una sciarpa attraverso la bocca e sei o sette corde annodate intorno ai gomiti e alle caviglie. I suoi occhi bruni erano vivi e si muovevano vigili.
+
+     Il dottor Orion Hood si arrestò per un istante sullo zerbino e s'imbevve dell'intera scena di muta violenza. Poi attraversò lesto il tappeto, raccolse l'alto cilindro di seta e con gravità lo posò sul capo del tuttora incaprettato Todhunter. Gli era tanto largo che quasi gli scivolò giù sulle spalle.
+
+     «Il cappello del signor Glass», disse il dottore, tornando con esso e scrutandone l'interno con una lente tascabile. «Come spiegare l'assenza del signor Glass e la presenza del cappello del signor Glass? Perché il signor Glass non è uomo trascurato coi propri abiti. Questo cappello è di foggia elegante e sistematicamente spazzolato e lustrato, benché non molto nuovo. Un vecchio damerino, direi.»
+
+     «Ma, santo cielo!» esclamò la signorina MacNab, «non intendete slegare prima quest'uomo?»
+
+     «Dico "vecchio" di proposito, benché non con certezza», proseguì l'espositore; «la mia ragione potrebbe sembrare un po' tirata per i capelli. I capelli degli esseri umani cadono in grado assai variabile, ma quasi sempre cadono un poco, e con la lente dovrei vedere i minuscoli peli in un cappello indossato di recente. Questo non ne ha, il che mi induce a supporre che il signor Glass sia calvo. Ora, quando ciò si prende insieme alla voce acuta e querula che la signorina MacNab ha descritto con tanta vivezza (pazienza, mia cara signora, pazienza), quando prendiamo il capo glabro insieme al tono comune nella collera senile, penso che possiamo dedurre un certo avanzamento negli anni. Nondimeno, egli era probabilmente vigoroso, ed era quasi certamente alto. Potrei fare affidamento in qualche misura sulla storia della sua precedente apparizione alla finestra, come uomo alto in cilindro di seta, ma credo di avere un'indicazione più precisa. Questo bicchiere da vino è andato in frantumi dappertutto, ma una delle sue schegge giace sull'alta mensola accanto al caminetto. Nessun frammento simile avrebbe potuto cadere lassù se il recipiente fosse stato spezzato nella mano di un uomo relativamente basso come il signor Todhunter.»

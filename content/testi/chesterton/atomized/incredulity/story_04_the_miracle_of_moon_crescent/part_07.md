@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/incredulity-(chesterton)">Incredulity</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/incredulity/story_04_the_miracle_of_moon_crescent/part_06">‹ part 06</a><a class="ex-next" href="/testi/chesterton/atomized/incredulity/story_04_the_miracle_of_moon_crescent/part_08">part 08 ›</a></div>
@@ -128,3 +130,40 @@ as a [[suicide]] hoisted on a gallows.  That's all we can say about it;
 but all that we know, and have seen with our own eyes.  And as you
 were the first to believe in the miracle, we all feel that you ought
 to be the first to sign.'
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/incredulity-(chesterton)">Incredulity</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/incredulity/story_04_the_miracle_of_moon_crescent/part_06">‹ part 06</a><a class="ex-next" href="/testi/chesterton/atomized/incredulity/story_04_the_miracle_of_moon_crescent/part_08">part 08 ›</a></div>
+</nav>
+
+«Professore» esclamò Fenner, «giurerei sul mio letto di morte che quella porta non si è mai aperta.»
+
+«Esperimenti recenti» proseguì [[The Professor|il professore]], con calma, «hanno suggerito che la nostra coscienza non è continua, ma è una successione di impressioni rapidissime, come un cinematografo; è possibile che qualcuno o qualcosa possa, per così dire, insinuarsi dentro o fuori tra una scena e l'altra. Agisce soltanto nell'istante in cui il sipario è calato. Probabilmente le chiacchiere dei prestigiatori e ogni forma di gioco di mano dipendono da ciò che potremmo chiamare questi neri lampi di cecità tra un lampo di visione e l'altro. Ora, questo prete e predicatore di nozioni trascendentali vi aveva riempiti di un'immagine trascendentale: l'immagine del Celta simile a un Titano che scuoteva la torre con la sua maledizione. Probabilmente l'accompagnò con qualche gesto lieve ma imperioso, indirizzando gli occhi e le menti nella direzione dell'ignoto distruttore, laggiù. O forse accadde qualcos'altro, o qualcun altro passò di lì.»
+
+«Wilson, il domestico» grugnì Alboin, «scese lungo il corridoio ad aspettare sulla panca, ma direi che non ci distrasse granché.»
+
+«Non si sa mai quanto» ribatté Vair; «potrebbe essere stato quello, o più probabilmente i vostri occhi che seguivano qualche gesto del prete mentre raccontava la sua storia di magia. Fu in uno di quei neri lampi che il signor Warren Wynd sgusciò fuori dalla sua porta e andò incontro alla morte. È la spiegazione più probabile. È un'illustrazione della nuova scoperta. La mente non è una linea continua, ma piuttosto una linea tratteggiata.»
+
+«Molto tratteggiata» disse Fenner fiaccamente. «Per non dire scombinata.»
+
+«Non crederà davvero» chiese Vair, «che il suo datore di lavoro fosse chiuso in una stanza come in una scatola?»
+
+«È meglio che credere di dover essere chiuso io in una stanza come in una cella imbottita» rispose Fenner. «È di questo che mi lamento nelle sue supposizioni, professore. Sarei disposto a credere in un prete che crede in un miracolo, piuttosto che a non credere che un uomo abbia il diritto di credere in un fatto. Il prete mi dice che un uomo può appellarsi a un Dio di cui non so nulla perché lo vendichi secondo le leggi di una giustizia superiore di cui non so nulla. Non ho altro da dire se non che non ne so nulla. Ma, almeno, se la [[Prayer|preghiera]] e la [[Pistol|pistola]] del povero irlandese potessero essere udite in un mondo più alto, quel mondo più alto potrebbe agire in qualche modo che a noi appare bizzarro. Lei invece mi chiede di non credere ai fatti di questo mondo così come appaiono ai miei cinque sensi. Secondo lei, un'intera processione di irlandesi con gli archibugi potrebbe aver attraversato questa stanza mentre parlavamo, purché avessero cura di posare i piedi sui punti ciechi delle nostre menti. I miracoli di stampo monacale, come materializzare un coccodrillo o appendere un mantello a un raggio di sole, sembrano del tutto assennati in confronto a lei.»
+
+«Oh, be'» disse il professor Vair, piuttosto seccamente, «se è deciso a credere nel suo prete e nel suo irlandese miracoloso, non ho altro da aggiungere. Temo che lei non abbia avuto occasione di studiare la psicologia.»
+
+«No» disse Fenner asciutto; «ma ho avuto occasione di studiare gli psicologi.»
+
+E, inchinandosi cortesemente, condusse la sua delegazione fuori dalla stanza e non parlò finché non fu in strada; allora si rivolse a loro in modo piuttosto esplosivo.
+
+«Pazzi furiosi!» gridò Fenner infuriato. «Che diavolo credono che accadrà al mondo se nessuno sa più se ha visto qualcosa oppure no? Vorrei avergli fatto saltare la sciocca testa con una cartuccia a salve, e poi spiegargli che l'ho fatto in un lampo di cecità. Il miracolo di [[Father Brown]] sarà miracoloso o no, ma lui disse che sarebbe accaduto, e accadde. Tutto ciò che quei maledetti fissati sanno fare è vedere accadere una cosa e poi dire che non è accaduta. Sentite, credo che dobbiamo al padre di testimoniare la sua piccola dimostrazione. Siamo tutti uomini sani, solidi, che non hanno mai creduto a nulla. Non eravamo ubriachi. Non eravamo devoti. Accadde semplicemente proprio come aveva detto.»
+
+«Sono pienamente d'accordo» disse il milionario. «Potrebbe essere l'inizio di cose grandiose sul piano spirituale; ma comunque sia, l'uomo che è lui stesso del ramo spirituale, [[Father Brown]], ha di certo segnato un punto in tutta questa faccenda.»
+
+Pochi giorni dopo [[Father Brown]] ricevette un biglietto assai cortese firmato Silas T. Vandam, che gli chiedeva se volesse presentarsi a un'ora stabilita nell'appartamento che era stato teatro della scomparsa, allo scopo di prendere provvedimenti per la constatazione di quel prodigioso avvenimento. L'avvenimento stesso aveva già cominciato a esplodere sui giornali, ed era ripreso ovunque dagli entusiasti dell'occultismo. [[Father Brown]] vide i manifesti sgargianti che recavano la scritta «Suicidio dell'uomo scomparso» e «La maledizione di un uomo impicca il filantropo», mentre si dirigeva verso [[Moon|Mezzaluna]] Crescent e saliva i gradini in direzione dell'ascensore. Trovò il piccolo gruppo pressappoco come lo aveva lasciato, Vandam, Alboin e il segretario; ma vi era un rispetto interamente nuovo, e persino una riverenza, nel loro tono verso di lui. Erano in piedi accanto alla scrivania di Wynd, sulla quale giaceva un grande foglio e l'occorrente per scrivere; si voltarono per salutarlo.
+
+«Padre Brown» disse il portavoce, che era l'uomo dell'Ovest dai capelli bianchi, alquanto rinsavito dalla propria responsabilità, «l'abbiamo pregata di venire qui anzitutto per offrirle le nostre scuse e i nostri ringraziamenti. Riconosciamo che fu lei a individuare fin dal principio la manifestazione spirituale. Eravamo scettici dalla dura scorza, tutti quanti; ma ora comprendiamo che un uomo deve spezzare quella scorza per giungere alle grandi cose che stanno dietro il mondo. Lei rappresenta quelle cose; lei rappresenta la spiegazione sovrannaturale delle cose; e dobbiamo rendergliene merito. E in secondo luogo, sentiamo che questo documento non sarebbe completo senza la sua firma. Stiamo notificando i fatti esatti alla Society for Psychical Research, perché i resoconti dei giornali non sono quel che si direbbe esatti. Abbiamo dichiarato come la maledizione fu pronunciata in strada; come l'uomo fu sigillato qui dentro, in una stanza come in una scatola; come la maledizione lo dissolse dritto nell'aria sottile, e in qualche modo inconcepibile lo materializzò come un [[suicide|suicida]] issato su una forca. È tutto quel che possiamo dirne; ma è tutto ciò che sappiamo, e abbiamo visto con i nostri occhi. E poiché lei fu il primo a credere nel miracolo, sentiamo tutti che dovrebbe essere il primo a firmare.»

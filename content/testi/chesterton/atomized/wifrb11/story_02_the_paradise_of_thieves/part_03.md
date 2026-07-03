@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/wifrb11-(chesterton)">The Wisdom of Father Brown</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/wifrb11/story_02_the_paradise_of_thieves/part_02">‹ part 02</a><a class="ex-next" href="/testi/chesterton/atomized/wifrb11/story_02_the_paradise_of_thieves/part_04">part 04 ›</a></div>
@@ -123,3 +125,44 @@ gods and goddesses who can fall upwards."
 happy a vision that the priest felt his suspicion shaken and shifted. 
 "After all," he thought, "perhaps the [[Poison|poison]] isn't hers; perhaps it's
 one of Muscari's melodramatic tricks."
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/wifrb11-(chesterton)">The Wisdom of Father Brown</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/wifrb11/story_02_the_paradise_of_thieves/part_02">‹ part 02</a><a class="ex-next" href="/testi/chesterton/atomized/wifrb11/story_02_the_paradise_of_thieves/part_04">part 04 ›</a></div>
+</nav>
+
+# [[wifrb11]] — Il paradiso dei ladri (parte 3)
+
+     La vettura era una specie di comodo calessino, inventato dal talento modernista del corriere, che dominava la spedizione con la sua attività scientifica e il suo brio spensierato. La teoria del pericolo dei ladri fu bandita dal pensiero e dalla parola; benché fosse concessa a tal punto nell'atto formale che si adottò qualche lieve protezione. Il corriere e il giovane banchiere portavano rivoltelle cariche, e Muscari (con molta fanciullesca soddisfazione) si allacciò una specie di sciabola sotto il suo mantello nero.
+
+     Con un balzo fulmineo aveva piazzato la sua persona accanto all'incantevole inglese; dall'altro suo lato sedeva il prete, il cui nome era Brown e che era fortunatamente un individuo silenzioso; il corriere e il padre e il figlio erano sul sedile dietro. Muscari era di umore altissimo, credendo sul serio nel pericolo, e i suoi discorsi a Ethel potevano [[Well|bene]] averle fatto credere che fosse un maniaco. Ma c'era qualcosa in quella folle e magnifica salita, tra rupi simili a picchi carichi di boschi simili a frutteti, che trascinava il suo spirito su [[Alone|solo]] con quello di lui in cieli purpurei e assurdi con soli roteanti. La bianca [[Road|strada]] saliva come un gatto bianco; scavalcava abissi senza sole come una corda tesa; era gettata attorno a promontori lontani come un lazo.
+
+     Eppure, per quanto in alto salissero, il [[Desert|deserto]] ancora fioriva come la [[Rose|rosa]]. I campi risplendevano al sole e al [[Wind|vento]] col colore del martin pescatore e del pappagallo e del colibrì, le tinte di cento [[Flowers|fiori]] in fiore. Non ci sono prati e boschi più incantevoli di quelli inglesi, né creste o abissi più nobili di quelli dello Snowdon e di Glencoe. Ma Ethel Harrogate non aveva mai visto prima i parchi meridionali inclinati sulle frastagliate vette settentrionali; la gola di Glencoe carica dei frutti del [[Kent]]. Non c'era qui nulla di quel gelo e di quella desolazione che in Gran Bretagna si associa agli scenari alti e selvaggi. Era piuttosto come un palazzo di mosaico, squarciato dai terremoti; o come un olandese [[Garden|giardino]] di tulipani fatto volare fino alle [[Stars|stelle]] con la dinamite.
+
+     «È come i Kew Gardens su Beachy Head,» disse Ethel.
+
+     «È il nostro segreto,» rispose lui, «il segreto del vulcano; è anche il segreto della rivoluzione... che una cosa può essere violenta e tuttavia feconda.»
+
+     «Anche lei è piuttosto violento,» e gli sorrise.
+
+     «E tuttavia piuttosto infecondo,» ammise; «se muoio stanotte, muoio scapolo e [[Fool|sciocco]].»
+
+     «Non è colpa mia se è venuto,» disse dopo un difficile [[Silence|silenzio]].
+
+     «Non è mai colpa vostra,» rispose Muscari; «non fu colpa vostra se Troia cadde.»
+
+     Mentre parlavano giunsero sotto rupi soverchianti che si spandevano quasi come ali sopra un angolo di peculiare pericolo. Turbati dalla grande [[Shadow|ombra]] sullo stretto ripiano, i cavalli si agitarono con esitazione. Il cocchiere balzò a terra per tenerli per la testa, ed essi divennero ingovernabili. Un [[Horse|cavallo]] si impennò in tutta la sua altezza... la [[titanic|titanica]] e terrificante altezza di un [[Horse|cavallo]] quando diventa bipede. Fu quanto bastava ad alterare l'equilibrio; l'intera vettura si inclinò come una [[Ship|nave]] e sfondò la frangia di cespugli oltre il ciglio. Muscari gettò un braccio attorno a Ethel, che si aggrappò a lui, e gridò forte. Era per momenti simili che egli viveva.
+
+     Nel momento in cui le magnifiche pareti montane giravano intorno alla testa del poeta come un mulino a vento purpureo, accadde una cosa che in superficie era ancor più sconcertante. Il banchiere anziano e letargico scattò in piedi nella vettura e balzò oltre il precipizio prima che il veicolo inclinato potesse portarvelo. Nel primo lampo parve folle quanto un [[suicide|suicidio]]; ma nel secondo fu assennato quanto un investimento sicuro. Lo Yorkshirese aveva evidentemente più prontezza, oltre [[Well|che]] più sagacia, di quanta Muscari gliene avesse attribuita; poiché atterrò in un grembo di terra che pareva imbottito apposta d'erba e di trifoglio per accoglierlo. Come accadde, in effetti, l'intera compagnia fu ugualmente fortunata, se pure meno dignitosa nella forma dell'espulsione. Immediatamente sotto quella brusca svolta della [[Road|strada]] c'era una conca erbosa e fiorita come un prato incassato; una sorta di tasca di velluto verde nelle lunghe, verdi, strascicanti vesti delle colline. In essa furono tutti rovesciati o precipitati con pochi danni, salvo che i loro bagagli più piccoli e persino il contenuto delle loro tasche si sparpagliarono nell'erba intorno a loro. La vettura sfasciata pendeva ancora in alto, impigliata nella dura siepe, e i cavalli si tuffavano dolorosamente giù per il pendio. Il primo a mettersi a sedere fu il piccolo prete, che si grattò il capo con un'aria di sciocco [[Wonder|stupore]]. Frank Harrogate lo udì dire fra sé: «E adesso perché diavolo siamo caduti proprio qui?»
+
+     Batté le palpebre osservando il disordine intorno a sé, e recuperò il proprio ombrello assai goffo. Oltre di esso giaceva il largo sombrero caduto dalla testa di Muscari, e accanto una lettera d'affari sigillata che, dopo un'occhiata all'indirizzo, restituì al vecchio Harrogate. Dall'altro suo lato l'erba nascondeva in parte il parasole di Miss Ethel, e appena oltre giaceva una curiosa boccettina di vetro lunga sì e no due pollici. Il prete la raccolse; con gesto rapido e discreto la stappò e la annusò, e il suo pesante volto si fece del colore dell'argilla.
+
+     «Il cielo ci scampi!» mormorò; «non può essere sua! Il suo dolore si è già abbattuto su di lei?» La fece scivolare nel taschino del proprio panciotto. «Credo di essere giustificato,» disse, «finché non ne saprò un po' di più.»
+
+     Guardò con pena la ragazza, che in quel momento veniva sollevata dai [[Flowers|fiori]] da Muscari, il quale diceva: «Siamo caduti in cielo; è un segno. I mortali salgono e cadono giù; ma sono soltanto gli dèi e le dee a poter cadere verso l'alto.»
+
+     E davvero ella si [[Rose|levò]] dal mare di colori come una visione così bella e felice che il prete sentì il suo sospetto vacillare e spostarsi. «Dopotutto,» pensò, «forse il [[Poison|veleno]] non è suo; forse è uno dei trucchi melodrammatici di Muscari.»

@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/thursday-(chesterton)">The Man Who Was Thursday</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/thursday/chapter_06/part_02">‹ part 02</a><a class="ex-next" href="/testi/chesterton/atomized/thursday/chapter_07/part_01">part 01 ›</a></div>
@@ -107,3 +109,107 @@ Even [[The Professor|the Professor]] made an effort to rise.  But Syme saw littl
 of the scene, for he was blinded with a beneficent darkness;
 he had sunk down into his seat shuddering, in a palsy
 of passionate relief.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/thursday-(chesterton)">The Man Who Was Thursday</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/thursday/chapter_06/part_02">‹ part 02</a><a class="ex-next" href="/testi/chesterton/atomized/thursday/chapter_07/part_01">part 01 ›</a></div>
+</nav>
+
+# [[thursday]] — Capitolo 6 (parte 3)
+
+Il primo a parlare fu Gogol, l'irriconciliabile, che sembrava scoppiare
+di inarticolato risentimento.
+
+«Zso! Zso!» gridò, con un'oscura eccitazione, il suo pesante accento
+polacco facendosi quasi impenetrabile. «Voi dite che non vi nascondete.
+Voi dite che vi mostrate. È tutto niente. Quando volete
+parlare di cose importanti vi cacciate in una scatola buia!»
+
+Il Presidente parve accogliere l'incoerente [[Satire|satira]] dello straniero
+con perfetto buon [[Humour|umore]].
+
+«Non riesci ancora ad afferrarlo, Gogol», disse in tono paterno.
+«Una volta che ci hanno sentito dire sciocchezze su quel balcone
+non si cureranno di dove andremo dopo. Se fossimo venuti
+qui per primi, avremmo avuto tutta la servitù al buco della serratura.
+Non pari sapere nulla del genere umano.»
+
+«Io muoio per loro», gridò il polacco con densa eccitazione, «e uccido
+i loro oppressori. Non mi curo di questi giochi di nascondimento.
+Colpirei il [[Tyrant|tiranno]] nella piazza aperta.»
+
+«Capisco, capisco», disse il Presidente, annuendo con benevolenza mentre si sedeva
+a capotavola di un lungo tavolo. «Prima muori per il genere umano,
+e poi ti rialzi e colpisci i loro oppressori. Dunque va tutto bene.
+E ora posso pregarti di dominare i tuoi bei sentimenti,
+e di sederti con gli altri gentiluomini a questo tavolo?
+Per la prima [[Time|volta]] questa mattina si sta per dire qualcosa
+di intelligente.»
+
+Syme, con la turbata sollecitudine che aveva mostrato fin dalla
+prima convocazione, si sedette per primo. Gogol si sedette per ultimo,
+borbottando nella sua barba fulva a proposito del gombromesso. Nessuno tranne Syme
+sembrava avere la minima idea del colpo che stava per abbattersi.
+Quanto a lui, aveva soltanto la sensazione di un uomo che sale sul patibolo
+con l'intenzione, quanto meno, di fare un bel discorso.
+
+«Compagni», disse il Presidente, alzandosi d'improvviso, «abbiamo tirato
+per le lunghe questa farsa abbastanza a lungo. Vi ho chiamati quaggiù per dirvi
+qualcosa di tanto semplice e sconvolgente che persino i camerieri di sopra
+(da tempo avvezzi alle nostre frivolezze) potrebbero cogliere una nuova serietà
+nella mia voce. Compagni, stavamo discutendo piani e nominando luoghi.
+Propongo, prima di dire altro, che quei piani
+e quei luoghi non siano votati da questa riunione, ma siano
+lasciati interamente sotto il controllo di qualche membro fidato.
+Suggerisco il Compagno Sabato, il Dottor Bull.»
+
+Tutti lo fissarono; poi sobbalzarono tutti sui loro seggi, poiché le
+parole seguenti, benché non gridate, avevano un'enfasi viva e sensazionale.
+[[Sunday]] batté sul tavolo.
+
+«Non una parola di più sui piani e sui luoghi deve essere detta in questa riunione.
+Non un solo minuscolo particolare in più su ciò che intendiamo fare deve essere menzionato
+in questa compagnia.»
+
+[[Sunday]] aveva trascorso la vita a stupire i suoi seguaci;
+ma pareva che non li avesse mai davvero stupiti fino a quel momento.
+Si mossero tutti febbrilmente sui loro seggi, tranne Syme. Egli sedeva rigido sul suo,
+con la mano in tasca, e sull'impugnatura della sua rivoltella carica.
+Quando l'attacco contro di lui fosse venuto, avrebbe venduto cara la pelle.
+Avrebbe scoperto, almeno, se il Presidente era mortale.
+
+[[Sunday]] proseguì senza intoppi—
+
+«Probabilmente comprenderete che c'è un solo movente possibile
+per proibire la libera parola in questa festa della [[Freedom|libertà]].
+Che degli estranei ci origlino non conta nulla. Danno per scontato che
+stiamo scherzando. Ma ciò che conterebbe, fino alla [[Death|morte]], è questo,
+che ci sia realmente in mezzo a noi qualcuno che non è dei nostri,
+che conosce il nostro [[Grave|grave]] proposito, ma non lo condivide, che—»
+
+Il Segretario strillò all'improvviso come una donna.
+
+«Non può essere!» gridò, balzando in piedi. «Non può esserci—»
+
+Il Presidente sbatté la grande mano piatta sul tavolo come la pinna
+di qualche enorme pesce.
+
+«Sì», disse lentamente, «c'è una spia in questa stanza.
+C'è un traditore a questo tavolo. Non sprecherò altre parole.
+Il suo nome—»
+
+Syme si [[Rose|sollevò]] a metà dal suo seggio, il dito fermo sul grilletto.
+
+«Il suo nome è Gogol», disse il Presidente. «È quell'impostore peloso
+laggiù che finge di essere un polacco.»
+
+Gogol balzò in piedi, una [[Pistol|pistola]] in ciascuna mano.
+Nello stesso lampo tre uomini gli si avventarono alla gola.
+Persino [[The Professor|il Professore]] fece uno sforzo per alzarsi. Ma Syme vide poco
+della scena, perché era accecato da una benefica oscurità;
+era sprofondato sul suo seggio tremando, in una paralisi
+di appassionato sollievo.

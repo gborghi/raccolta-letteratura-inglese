@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/thursday-(chesterton)">The Man Who Was Thursday</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/thursday/chapter_06/part_03">‹ part 03</a><a class="ex-next" href="/testi/chesterton/atomized/thursday/chapter_07/part_02">part 02 ›</a></div>
@@ -140,3 +142,136 @@ he stepped back out of the street for a moment and stood up
 under the doorway of a small and greasy hair-dresser's shop,
 the front [[Window|window]] of which was empty, except for a sickly wax lady
 in evening dress.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/thursday-(chesterton)">The Man Who Was Thursday</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/thursday/chapter_06/part_03">‹ part 03</a><a class="ex-next" href="/testi/chesterton/atomized/thursday/chapter_07/part_02">part 02 ›</a></div>
+</nav>
+
+# [[thursday]] — Capitolo 7 (parte 1)
+
+                         CAPITOLO VII
+
+       L'INSPIEGABILE CONDOTTA DEL PROFESSOR DE WORMS
+
+«Sedete!» disse [[Sunday]] con una voce che adoperò una o due volte
+nella vita, una voce che faceva cadere le spade sguainate dalle mani.
+
+I tre che si erano alzati indietreggiarono lontano da Gogol, e quell'equivoco
+personaggio riprese esso stesso il proprio posto.
+
+«[[Well|Ebbene]], brav'uomo», disse il Presidente con vivacità, rivolgendosi a lui
+come ci si rivolge a un perfetto sconosciuto, «volete farmi la cortesia
+di mettere la mano nella tasca alta del panciotto e mostrarmi che cosa vi tenete?»
+
+Il presunto polacco era un poco pallido sotto la sua massa arruffata di capelli
+scuri, ma infilò due dita nella tasca con apparente freddezza e ne trasse
+una striscia di cartoncino azzurro. Quando Syme la vide posata sul tavolo,
+si ridestò di nuovo al mondo che gli stava intorno. Perché, benché il cartoncino
+giacesse all'estremità opposta del tavolo, ed egli non riuscisse a leggere
+nulla della [[Inscription|scritta]] che vi era sopra, esso recava una sorprendente
+somiglianza con il cartoncino azzurro che teneva nella propria tasca,
+il cartoncino che gli era stato consegnato quando si era arruolato
+nella polizia antianarchica.
+
+«Patetico slavo», disse il Presidente, «tragico [[Child|figlio]] della Polonia,
+siete disposto, in presenza di quel cartoncino, a negare di essere in questa
+compagnia — diciamo pure di troppo?»
+
+«E va bene!» disse il fu Gogol. Fece sobbalzare tutti udire una voce chiara,
+mercantile e alquanto plebea uscire da quella foresta di peli stranieri.
+Era irrazionale, come se un cinese avesse d'un tratto parlato con accento scozzese.
+
+«Deduco che comprendiate appieno la vostra posizione», disse [[Sunday]].
+
+«Puoi giurarci», rispose il polacco. «Vedo che m'avete beccato in regola.
+Tutto quel che dico è che non credo che un polacco avrebbe potuto imitare
+il mio accento come io ho imitato il suo.»
+
+«Vi concedo il punto», disse [[Sunday]]. «Credo che il vostro accento
+sia inimitabile, benché io intenda esercitarmi nella vasca da bagno.
+Vi dispiace lasciare la barba insieme al cartoncino?»
+
+«Nemmeno un po'», rispose Gogol; e con un solo dito si strappò via l'intera
+peluria che gli copriva il capo, emergendone con radi capelli rossi
+e un viso pallido e sfrontato. «Faceva caldo», aggiunse.
+
+«Vi renderò la giustizia di dire», disse [[Sunday]], non senza una sorta
+di brutale ammirazione, «che sembrate esservi mantenuto piuttosto freddo
+là sotto. Ora ascoltatemi. Voi mi piacete. La conseguenza è che mi seccherebbe
+per circa due minuti e mezzo apprendere che siete morto tra i tormenti.
+[[Well|Ebbene]], se mai racconterete alla polizia o a qualsiasi [[Soul|anima]] viva
+qualcosa di noi, avrò quei due minuti e mezzo di disagio.
+Sul vostro disagio non mi soffermerò. Buona giornata. Attento al gradino.»
+
+Il [[Detective|investigatore]] dai capelli rossi che aveva impersonato Gogol si [[Rose|alzò]]
+in piedi senza una parola, e uscì dalla stanza con un'aria di perfetta noncuranza.
+Eppure lo stupefatto Syme fu in grado di rendersi conto che quella disinvoltura
+era assunta all'improvviso; poiché vi fu un lieve inciampo fuori dalla porta,
+il che dimostrava che l'[[Detective|investigatore]] in partenza non aveva badato al gradino.
+
+«Il [[Time|tempo]] vola», disse il Presidente nel suo modo più gaio, dopo aver
+gettato un'occhiata all'orologio, che, come ogni cosa che lo riguardava,
+sembrava più grande di quanto avrebbe dovuto essere. «Devo andarmene subito;
+devo presiedere una riunione umanitaria.»
+
+Il Segretario si volse verso di lui con le sopracciglia in movimento.
+
+«Non sarebbe meglio», disse un poco aspramente, «discutere ulteriormente
+i dettagli del nostro progetto, ora che la spia ci ha lasciati?»
+
+«No, credo di no», disse il Presidente con uno sbadiglio simile a un
+terremoto discreto. «Lasciate le cose come stanno. Che se ne occupi Saturday.
+Devo andare. Colazione qui la prossima [[Sunday|domenica]].»
+
+Ma le recenti scene chiassose avevano messo a nudo i nervi quasi scoperti
+del Segretario. Era uno di quegli uomini che sono coscienziosi
+persino nel delitto.
+
+«Devo protestare, Presidente, che la cosa è irregolare», disse.
+«È una regola fondamentale della nostra società che tutti i piani
+siano dibattuti in seno al consiglio plenario. Naturalmente, apprezzo
+pienamente la vostra prudenza in presenza effettiva di un traditore...»
+
+«Segretario», disse il Presidente con gravità, «se vi portaste la testa
+a [[Home|casa]] e la faceste bollire come una rapa, potrebbe tornare utile.
+Non saprei dire. Ma potrebbe.»
+
+Il Segretario si impennò all'indietro in una sorta di collera equina.
+
+«Davvero non riesco a comprendere...» cominciò, altamente offeso.
+
+«Ecco, ecco», disse il Presidente, annuendo un gran numero di volte.
+«È proprio lì che voi fallite. Non riuscite a comprendere. Ma come, [[donkey|asino]]
+ballerino», ruggì, alzandosi, «non volevate essere uditi da una spia, non è così?
+Come sapete di non essere uditi adesso?»
+
+E con queste parole si aprì a spallate un varco fuori dalla stanza,
+scosso da un incomprensibile disprezzo.
+
+I quattro uomini rimasti indietro lo fissarono a bocca aperta senza alcun
+apparente barlume del suo significato. Il solo Syme ebbe persino un [[Alone|barlume]],
+e per quel poco che era gli gelò le ossa. Se le ultime parole del Presidente
+significavano qualcosa, significavano che, dopo tutto, egli non era passato
+insospettato. Significavano che, mentre [[Sunday]] non poteva denunciarlo
+come Gogol, tuttavia non poteva fidarsi di lui come degli altri.
+
+Gli altri quattro si alzarono in piedi brontolando più o meno, e se ne andarono
+altrove a cercare il pranzo, poiché era già [[Well|ben]] passato mezzogiorno.
+[[The Professor|Il Professore]] uscì per ultimo, molto lentamente e penosamente.
+Syme rimase seduto a lungo dopo che gli altri se ne furono andati, rimuginando
+sulla sua strana posizione. Era sfuggito a un fulmine, ma era ancora sotto
+una nube. Alla fine si [[Rose|alzò]] e si avviò fuori dall'albergo, in Leicester Square.
+La giornata luminosa e fredda si era fatta sempre più fredda, e quando sbucò
+nella strada fu sorpreso da qualche fiocco di [[Snow|neve]]. Poiché portava ancora
+con sé il bastone-[[Sword|spada]] e il resto del bagaglio portatile di Gregory,
+aveva gettato via il mantello e l'aveva lasciato da qualche parte, forse
+sul rimorchiatore a vapore, forse sul balcone. Sperando, dunque, che la
+[[Snow|nevicata]] potesse essere leggera, si ritrasse per un momento dalla strada
+e si fermò sotto l'ingresso di una piccola e untuosa bottega di parrucchiere,
+la cui [[Window|vetrina]] anteriore era vuota, tranne che per una cerea signora
+malaticcia in abito da sera.

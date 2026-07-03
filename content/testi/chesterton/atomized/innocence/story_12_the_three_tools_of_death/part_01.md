@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/innocence-(chesterton)">The Innocence of Father Brown</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/innocence/story_11_the_sign_of_the_broken_sword/part_06">‹ part 06</a><a class="ex-next" href="/testi/chesterton/atomized/innocence/story_12_the_three_tools_of_death/part_02">part 02 ›</a></div>
@@ -152,3 +154,42 @@ his daughter; she was so pallid in colour and sensitive in outline.
 She was graceful, but there was a quiver in the very shape of her
 that was like the lines of an aspen.  Merton had sometimes wondered
 if she had learnt to quail at the crash of the passing trains.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/innocence-(chesterton)">The Innocence of Father Brown</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/innocence/story_11_the_sign_of_the_broken_sword/part_06">‹ part 06</a><a class="ex-next" href="/testi/chesterton/atomized/innocence/story_12_the_three_tools_of_death/part_02">part 02 ›</a></div>
+</nav>
+
+# [[innocence]] — I tre strumenti della [[Death|morte]] (parte 1)
+
+                     I tre strumenti della morte
+
+Per vocazione e per convinzione, Father Brown sapeva, meglio della maggior parte di noi, che ogni uomo acquista dignità nel momento in cui muore. Eppure anche lui provò una fitta di sconvenienza quando lo tirarono giù dal letto all'alba per dirgli che Sir Aaron Armstrong era stato assassinato. C'era qualcosa di assurdo e di indecoroso nell'accostare una violenza segreta a una figura tanto squisitamente spassosa e popolare. Poiché Sir Aaron Armstrong era spassoso fino a rasentare il comico, e popolare in un modo che sfiorava la leggenda. Era come sentir dire che Sunny Jim si fosse impiccato, o che il signor Pickwick fosse morto a Hanwell. Perché, benché Sir Aaron fosse un filantropo, e trattasse dunque il lato più oscuro della nostra società, si vantava di trattarlo con lo stile più luminoso che si potesse immaginare. I suoi discorsi politici e sociali erano cascate di aneddoti e di «fragorose risate»; la sua salute fisica era di quelle prorompenti; la sua etica era tutta ottimismo; e affrontava il problema dell'alcol (il suo argomento prediletto) con quell'immortale, e persino monotona, allegria che così spesso contraddistingue l'astemio prospero.
+
+La consacrata storia della sua conversione era ben nota sulle pedane e sui pulpiti più puritani: come, quando era ancora un ragazzo, fosse stato tratto lontano dalla teologia scozzese dal whisky scozzese, e come si fosse risollevato da entrambi diventando (secondo la sua modesta espressione) ciò che era. Eppure l'ampia barba bianca, il volto cherubico e gli occhiali scintillanti, che comparivano agli innumerevoli banchetti e congressi, rendevano in qualche modo difficile credere che fosse mai stato qualcosa di tanto morboso come un bevitore di liquori o un calvinista. Era, si sentiva, il più seriamente allegro fra tutti i figli degli uomini.
+
+Aveva vissuto sul lembo rurale di Hampstead, in una bella casa, alta ma non larga, una torre moderna e prosaica. Il più stretto dei suoi lati stretti sovrastava il ripido pendio verde d'una scarpata ferroviaria, ed era scosso dal passaggio dei treni. Sir Aaron Armstrong, come spiegava a gran voce, non aveva nervi. Ma se spesso era stato il treno a dare uno scossone alla casa, quella mattina le parti si erano invertite, ed era stata la casa a dare uno scossone al treno.
+
+La locomotiva rallentò e si fermò appena oltre il punto in cui uno spigolo della casa premeva contro il netto declivio erboso. L'arresto della maggior parte delle cose meccaniche è per forza lento; ma la causa vivente di questo arresto era stata rapidissima. Un uomo interamente vestito di nero, financo (fu ricordato) nel raccapricciante dettaglio dei guanti neri, apparve sul crinale sopra la locomotiva e agitò le mani nere come un tetro mulino a vento. Questo, di per sé, difficilmente avrebbe fermato anche il più lento dei treni. Ma da lui uscì un grido di cui in seguito si parlò come di qualcosa di assolutamente innaturale e nuovo. Era uno di quegli urli orribilmente distinti anche quando non riusciamo a udire ciò che viene urlato. La parola, in questo caso, era: «Assassinio!».
+
+Ma il macchinista giura che avrebbe frenato ugualmente se avesse udito soltanto l'accento terribile e inequivocabile, e non la parola.
+
+Fermato il treno, anche lo sguardo più superficiale poteva cogliere molti particolari della tragedia. L'uomo in nero sulla scarpata verde era Magnus, il domestico di Sir Aaron Armstrong. Il baronetto, nel suo ottimismo, aveva spesso riso dei guanti neri di quel lugubre attendente; ma difficilmente qualcuno avrebbe riso di lui in quel momento.
+
+Non appena uno o due curiosi ebbero messo piede fuori dai binari e superato la siepe fuligginosa, videro, rotolato quasi in fondo alla scarpata, il corpo di un vecchio in una vestaglia gialla dalla fodera d'uno scarlatto vivissimo. Un pezzetto di corda pareva impigliato attorno alla sua gamba, ingarbugliatosi presumibilmente in una colluttazione. C'era qualche schizzo di sangue, benché pochissimo; ma il corpo era piegato, o spezzato, in una posa impossibile per qualsiasi essere vivente. Era Sir Aaron Armstrong. Pochi altri istanti di sgomento fecero venir fuori un uomo grande e con la barba bionda, che alcuni viaggiatori poterono salutare come il segretario del morto, Patrick Royce, un tempo assai noto negli ambienti bohémien e persino famoso nelle arti bohémien. In un modo più vago, ma ancor più convincente, egli fece eco all'angoscia del domestico. Quando la terza figura di quella casa, Alice Armstrong, figlia del morto, entrò in giardino già barcollando e agitando le braccia, il macchinista aveva già posto fine alla propria sosta. Il fischio era risuonato e il treno era ripartito ansimando a cercare aiuto alla stazione successiva.
+
+Father Brown era stato così rapidamente convocato su richiesta di Patrick Royce, il grosso ex bohémien segretario. Royce era irlandese di nascita, e di quel genere di cattolico disinvolto che non si ricorda mai della propria religione finché non si trova davvero in un guaio. Ma alla richiesta di Royce si sarebbe forse dato ascolto meno prontamente, se uno dei detective ufficiali non fosse stato amico e ammiratore dell'ufficioso Flambeau; e non era possibile essere amico di Flambeau senza sentire innumerevoli storie su Father Brown. Fu così che, mentre il giovane detective (il cui nome era Merton) conduceva il piccolo prete attraverso i campi fino alla ferrovia, la loro conversazione fu più confidenziale di quanto ci si potesse attendere fra due perfetti sconosciuti.
+
+«Per quel che vedo io», disse candidamente il signor Merton, «non c'è alcun senso da cavarne. Non c'è nessuno che si possa sospettare. Magnus è un vecchio sciocco tutto compunto, troppo sciocco per essere un assassino. Royce è stato per anni il migliore amico del baronetto; e sua figlia lo adorava senza dubbio. E poi è tutto troppo assurdo. Chi mai ucciderebbe un vecchietto tanto gioviale come Armstrong? Chi potrebbe intingere le mani nel sangue di un oratore da fine cena? Sarebbe come uccidere Babbo Natale.»
+
+«Sì, era una casa allegra», convenne Father Brown. «Era una casa allegra finché lui era vivo. Crede che sarà allegra ora che è morto?»
+
+Merton trasalì un poco e osservò il compagno con occhio ravvivato. «Ora che è morto?» ripeté.
+
+«Sì», proseguì il prete flemmatico, «era allegro. Ma comunicava la propria allegria? Sinceramente, c'era nella casa qualcun altro che fosse allegro, all'infuori di lui?»
+
+Una finestra si aprì nella mente di Merton e vi lasciò entrare quella strana luce di sorpresa nella quale vediamo per la prima volta cose che abbiamo sempre conosciuto. Era stato spesso dagli Armstrong, per piccole faccende di polizia del filantropo; e, ora che ci pensava, era in sé una casa deprimente. Le stanze erano altissime e freddissime; l'arredo meschino e provinciale; i corridoi pieni di spifferi erano illuminati da una luce elettrica più squallida del chiaro di luna. E benché il volto scarlatto e la barba d'argento del vecchio avessero avvampato come un falò in ogni stanza o corridoio via via che vi passava, non lasciavano dietro di sé alcun tepore. Senza dubbio quello spettrale disagio del luogo era in parte dovuto proprio alla vitalità e all'esuberanza del suo padrone: non gli occorrevano stufe né lampade, diceva, perché portava con sé il proprio calore. Ma quando Merton richiamò alla mente gli altri abitanti, fu costretto a confessare che anch'essi erano come ombre del loro signore. Il tetro domestico, con i suoi mostruosi guanti neri, era quasi un incubo; Royce, il segretario, era abbastanza solido, un grosso toro d'uomo, in tweed, con una barba corta; ma la barba color della paglia era spaventosamente cosparsa di grigio, come il tweed, e l'ampia fronte era solcata da rughe premature. Anche lui era di buon carattere, ma d'una bontà triste, quasi affranta, con l'aria generale di essere in qualche modo un fallito nella vita. Quanto alla figlia di Armstrong, era quasi incredibile che fosse sua figlia, tanto pallida di colorito e delicata di lineamenti. Era aggraziata, ma nella sua stessa persona correva un tremito simile alle linee di un pioppo tremulo. Merton si era talvolta domandato se avesse imparato a trasalire allo schianto dei treni in corsa.

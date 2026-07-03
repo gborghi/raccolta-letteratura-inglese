@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/thursday-(chesterton)">The Man Who Was Thursday</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/thursday/chapter_15">‹ Chapter 15</a><a class="ex-next" href="/testi/chesterton/atomized/thursday/chapter_01/part_02">part 02 ›</a></div>
@@ -108,3 +110,108 @@ So all the Saffron Parkers looked at him as if he had that moment fallen
 out of that impossible sky.
 
 In fact, Mr. [[Lucian Gregory]], the anarchic poet, connected the two events.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/thursday-(chesterton)">The Man Who Was Thursday</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/thursday/chapter_15">‹ Chapter 15</a><a class="ex-next" href="/testi/chesterton/atomized/thursday/chapter_01/part_02">part 02 ›</a></div>
+</nav>
+
+# [[thursday]] — Capitolo 1 (parte 1)
+
+                          CAPITOLO I
+
+                 I DUE POETI DI SAFFRON PARK
+
+IL sobborgo di Saffron Park sorgeva sul lato del tramonto di [[London|Londra]], rosso e
+frastagliato come una nube al tramonto.  Era costruito interamente di mattoni vivaci;
+il suo profilo contro il cielo era fantastico, e persino la sua pianta era stravagante.
+Era stato l'estro di un costruttore speculatore, vagamente sfiorato dall'arte,
+che chiamava la sua architettura ora elisabettiana ora [[Queen|regina]] Anna,
+evidentemente convinto che le due sovrane fossero la stessa persona.
+Lo si descriveva con una certa ragione come una colonia artistica,
+benché non producesse mai, in alcun modo definibile, alcuna arte.  Ma per quanto
+le sue pretese di essere un centro intellettuale fossero un poco vaghe,
+le sue pretese di essere un luogo ameno erano del tutto incontestabili.
+Il forestiero che guardava per la prima [[Time|volta]] le bizzarre case rosse
+non poteva che pensare quanto stranamente conformate dovessero essere le persone
+capaci di adattarvisi.  Né, quando incontrava quelle persone, restava deluso
+a tal riguardo.  Il luogo non era soltanto ameno, ma perfetto,
+purché lo si sapesse considerare non come un [[Deception|inganno]] ma piuttosto come [[A Dream|un sogno]].
+Anche se gli abitanti non erano «artisti», l'insieme era comunque artistico.
+Quel giovane dai lunghi capelli ramati e dal volto impudente...
+quel giovane non era davvero un poeta; ma di certo era una poesia.
+Quel vecchio signore dalla barba bianca e ispida e dal cappello
+bianco e stravagante... quel venerabile ciarlatano non era davvero un filosofo;
+ma almeno era la causa della [[philosophy|filosofia]] negli altri.
+Quel signore di scienza dalla testa calva simile a un uovo e dal collo
+nudo simile a quello di un uccello non aveva alcun vero diritto alle arie di scienza che si dava.
+Non aveva scoperto nulla di nuovo in biologia; ma quale creatura
+biologica avrebbe potuto scoprire più singolare di se stesso?
+Così, e così soltanto, l'intero luogo andava propriamente considerato;
+andava considerato non tanto come una bottega per artisti,
+quanto come un'opera d'arte fragile ma compiuta.  Chi entrava nella sua
+atmosfera sociale si sentiva come se fosse entrato in una [[Comedy|commedia]] scritta.
+
+Più che mai questa seducente irrealtà lo avvolgeva verso il calar della notte,
+quando gli stravaganti tetti si stagliavano scuri contro l'ultimo bagliore e
+l'intero villaggio folle pareva isolato come una nube alla deriva.
+E ciò era tanto più vero nelle molte notti di festa locale,
+quando i giardinetti erano spesso illuminati, e le grandi lanterne cinesi
+ardevano tra gli alberi nani come qualche frutto feroce e mostruoso.
+E ciò fu più forte che mai in una sera particolare, ancora vagamente
+ricordata nella zona, di cui il poeta dai capelli ramati fu l'[[Hero|eroe]].
+Non fu affatto l'unica sera di cui egli fu l'[[Hero|eroe]].
+In molte notti chi passava accanto al suo piccolo [[Garden|giardino]] sul retro poteva udire la sua voce
+acuta e didascalica dettar legge agli uomini e in particolare alle donne.
+L'atteggiamento delle donne in simili casi era davvero uno dei paradossi del
+luogo.  La maggior parte di esse era di quel genere vagamente detto emancipato,
+e professava una qualche protesta contro la supremazia maschile.  Eppure queste donne nuove
+tributavano sempre a un uomo lo stravagante omaggio che nessuna donna
+comune gli concede mai, quello di ascoltarlo mentre parla.
+E il signor [[Lucian Gregory]], il poeta dai capelli rossi, era davvero (in un certo senso)
+un uomo degno d'esser ascoltato, anche se alla fine non si faceva che riderne.
+Esponeva la vecchia tiritera dell'anarchia dell'arte e dell'arte dell'anarchia
+con una certa impudente freschezza che procurava almeno un piacere momentaneo.
+Lo aiutava in qualche misura la sorprendente stranezza del suo aspetto,
+che sfruttava, come si suol dire, fino all'ultimo.
+I suoi capelli rosso scuro, divisi nel mezzo, erano letteralmente come quelli di una donna,
+e si arricciavano nei lenti boccoli di una vergine in un quadro preraffaellita.
+Da dentro questo ovale quasi santo, tuttavia, il suo volto sporgeva d'improvviso
+largo e brutale, il mento proteso in avanti con un'aria di disprezzo plebeo.
+Questa combinazione insieme solleticava e atterriva i nervi di una
+popolazione nevrotica.  Sembrava una bestemmia ambulante, una mescolanza
+dell'angelo e della scimmia.
+
+Quella sera particolare, se non sarà ricordata per null'altro,
+sarà ricordata in quel luogo per il suo strano tramonto.
+Pareva la fine del mondo.  Tutto il cielo sembrava coperto
+di un piumaggio vivissimo e palpabile; si poteva solo dire che il cielo
+era pieno di piume, e di piume che quasi sfioravano il volto.
+Per la maggior parte della volta erano grigie, con le più strane sfumature
+di viola e di malva e di un innaturale rosa o verde pallido; ma verso
+occidente il tutto diveniva indescrivibile, trasparente e appassionato,
+e le ultime piume roventi coprivano il sole come qualcosa di troppo
+bello per essere visto.  L'insieme incombeva così vicino sulla terra, da non esprimere
+altro che una violenta segretezza.  Lo stesso empireo pareva un segreto.
+Esprimeva quella splendida piccolezza che è l'[[Soul|anima]] del patriottismo di campanile.
+Lo stesso cielo pareva piccolo.
+
+Dico che vi sono alcuni abitanti che possono ricordare quella sera se non altro per
+quel cielo opprimente.  Ve ne sono altri che possono ricordarla perché segnò
+la prima comparsa nel luogo del secondo poeta di Saffron Park.  Per
+lungo [[Time|tempo]] il rivoluzionario dai capelli rossi aveva regnato senza rivali;
+fu nella [[Night|notte]] del tramonto che la sua [[Solitude|solitudine]] ebbe d'improvviso fine.
+Il nuovo poeta, che si presentò col nome di [[Gabriel Syme]], era un mortale dall'aria
+mitissima, con una barba bionda e appuntita e radi capelli gialli.
+Ma crebbe l'impressione che fosse meno mansueto di quanto sembrasse.
+Segnalò il suo ingresso dissentendo dal poeta affermato,
+Gregory, sull'intera [[Nature|natura]] della poesia.  Disse che egli (Syme) era poeta
+della legge, poeta dell'ordine; anzi, disse d'essere poeta della rispettabilità.
+Sicché tutti gli abitanti di Saffron Park lo guardarono come se in quel momento fosse caduto
+da quel cielo impossibile.
+
+In effetti il signor [[Lucian Gregory]], il poeta anarchico, collegò i due eventi.

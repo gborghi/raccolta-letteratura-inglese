@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/incredulity-(chesterton)">Incredulity</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/incredulity/story_01_the_resurrection_of_father_brown/part_06">‹ part 06</a><a class="ex-next" href="/testi/chesterton/atomized/incredulity/story_02_the_arrow_of_heaven/part_02">part 02 ›</a></div>
@@ -123,3 +125,32 @@ It was under these disconcerting conditions that he heard
 for the first time, in long monologues from Wain, and short
 sentences from Drage, the story of the Coptic Cup and the two
 crimes already connected with it.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/incredulity-(chesterton)">Incredulity</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/incredulity/story_01_the_resurrection_of_father_brown/part_06">‹ part 06</a><a class="ex-next" href="/testi/chesterton/atomized/incredulity/story_02_the_arrow_of_heaven/part_02">part 02 ›</a></div>
+</nav>
+
+DUE: La freccia del cielo
+
+C'è da temere che un centinaio circa di racconti [[Detective|polizieschi]] abbiano avuto inizio con la scoperta che un milionario americano è stato assassinato; un evento che, per qualche ragione, viene trattato alla stregua di una pubblica sciagura. Questa storia, sono lieto di dirlo, deve cominciare con un milionario assassinato; anzi, in un certo senso, deve cominciare con tre milionari assassinati, cosa che taluni potranno giudicare un vero e proprio embarras de richesse. Ma fu soprattutto questa coincidenza, o continuità, di disegno criminoso che sottrasse l'intera faccenda al corso ordinario dei casi delittuosi e ne fece lo straordinario enigma che essa era.
+
+Si diceva assai comunemente che tutti fossero caduti vittime di una vendetta o di una maledizione legata al possesso di una reliquia di gran valore, tanto intrinseco quanto storico: una sorta di calice tempestato di pietre preziose e comunemente chiamato la Coppa Copta. La sua origine era oscura, ma se ne congetturava un uso religioso; e alcuni attribuivano la sorte che perseguitava i suoi possessori al [[Fanaticism|fanatismo]] di qualche cristiano orientale, inorridito nel vederla passare per mani tanto materialistiche. Ma il misterioso assassino, fosse o no un simile fanatico, era già una figura di sinistro e sensazionale interesse nel mondo del giornalismo e delle chiacchiere. All'essere senza nome venne fornito un nome, o un soprannome. È però soltanto della vicenda della terza vittima che ora ci occupiamo; poiché fu solo in questo caso che un certo [[Father Brown]], il quale è il soggetto di questi schizzi, ebbe l'occasione di far sentire la propria presenza.
+
+Quando [[Father Brown]] mise per la prima volta il piede giù da un transatlantico sul suolo americano, scoprì, come tanti altri inglesi prima di lui, di essere una persona assai più importante di quanto avesse mai supposto. La sua corta figura, il suo volto miope e privo di distinzione, i suoi abiti clericali di un nero piuttosto stinto, avrebbero potuto attraversare qualsiasi folla nel suo paese senza esser notati come alcunché di insolito, tranne forse per una insolita insignificanza. Ma l'[[America]] ha il genio dell'incoraggiamento della fama; e la sua comparsa in uno o due curiosi problemi criminali, unita alla sua lunga frequentazione di [[Flambeau]], l'ex criminale e [[Detective|investigatore]], aveva consolidato in [[America]] una reputazione a partire da ciò che in Inghilterra era poco più d'una diceria. Il suo viso rotondo era vacuo per la sorpresa quando si trovò trattenuto sulla banchina da un gruppo di giornalisti, come da una banda di briganti, i quali gli rivolgevano domande su tutti gli argomenti riguardo ai quali era meno probabile che si considerasse un'autorità, quali i particolari dell'abbigliamento femminile e le statistiche criminali del paese sul quale aveva posato gli occhi soltanto in quell'istante. Fu forse il contrasto con la nera, schierata solidarietà di quel gruppo a rendere più vivida un'altra figura che se ne stava in disparte, egualmente nera contro l'ardente luce bianca di quel luogo e di quella stagione splendenti, ma del tutto solitaria: un uomo alto, dal volto piuttosto giallastro, con grandi occhialoni, che lo fermò con un gesto quando i giornalisti ebbero terminato e disse: «Mi scusi, ma forse sta cercando il capitano Wain».
+
+Qualche scusa si può addurre in favore di Padre Brown; ché egli stesso si sarebbe sinceramente scusato. Bisogna ricordare che non aveva mai visto l'America prima d'allora, e più ancora che non aveva mai visto prima quel genere di occhiali di tartaruga; giacché la moda, a quel tempo, non si era ancora diffusa in Inghilterra. La sua prima sensazione fu quella di fissare qualche mostro marino dagli occhi sporgenti, con una vaga suggestione di elmo da palombaro. Per il resto l'uomo era vestito in modo squisito; e a Brown, nella sua innocenza, gli occhiali parvero la più strana delle deturpazioni per un damerino. Era come se un damerino si fosse adornato di una gamba di legno quale ulteriore tocco d'eleganza. Anche la domanda lo mise in imbarazzo. Un aviatore americano di nome Wain, amico di alcuni suoi amici in Francia, era in effetti uno di una lunga lista di persone che sperava in qualche modo di incontrare durante la sua visita americana; ma non si era mai aspettato di sentirne parlare tanto presto.
+
+«Le chiedo scusa», disse esitando, «è lei il capitano Wain? Lo... lo conosce?»
+
+«[[Well|Be']], sono abbastanza sicuro di non essere il capitano Wain», disse l'uomo dagli occhialoni, con una faccia di legno. «Su questo avevo le idee piuttosto chiare quando l'ho visto che l'aspettava laggiù, in macchina. Ma l'altra domanda è un po' più problematica. Direi di conoscere Wain e suo zio, e anche il vecchio Merton. Conosco il vecchio Merton, ma il vecchio Merton non conosce me. E lui crede di essere in vantaggio, e io credo di essere in vantaggio io. Capisce?»
+
+Padre Brown non capiva del tutto. Sbatté le palpebre davanti allo scintillante panorama marino e ai pinnacoli della città, e poi davanti all'uomo dagli occhialoni. Non era soltanto il mascheramento degli occhi dell'uomo a produrre l'impressione di qualcosa d'impenetrabile. Qualcosa nel suo viso giallo era quasi asiatico, addirittura cinese; e la sua conversazione pareva consistere di strati sovrapposti d'ironia. Era un tipo che si incontra qua e là in quella popolazione cordiale e socievole: era l'americano imperscrutabile.
+
+«Il mio nome è Drage», disse, «Norman Drage, e sono un cittadino americano, il che spiega ogni cosa. O almeno immagino che il suo amico Wain vorrà spiegare il resto; sicché rimanderemo il Quattro Luglio a un'altra data».
+
+Padre Brown fu trascinato, in uno stato alquanto stordito, verso un'automobile a poca distanza, dalla quale un giovane con ciuffi di capelli gialli e scomposti e un'espressione piuttosto affannata e smunta lo salutò da lontano e si presentò come Peter Wain. Prima ancora di rendersi conto di dove fosse, era stato caricato nell'automobile e viaggiava a considerevole velocità attraverso e oltre la città. Non era avvezzo all'impetuosa concretezza di simili modi di agire americani, e si sentiva sconcertato press'a poco come se un carro tirato da draghi lo avesse rapito e portato in una terra fatata. Fu in queste condizioni sconcertanti che udì per la prima volta, in lunghi monologhi di Wain e in brevi frasi di Drage, la storia della Coppa Copta e dei due delitti già a essa collegati.

@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/wifrb11-(chesterton)">The Wisdom of Father Brown</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/wifrb11/story_08_the_perishing_of_the_pendragons/part_06">‹ part 06</a><a class="ex-next" href="/testi/chesterton/atomized/wifrb11/story_09_the_god_of_the_gongs/part_01">part 01 ›</a></div>
@@ -100,3 +102,48 @@ And he closed his eyes.
 He received no answer:  Father Brown was asleep.
 
                                  NINE
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/wifrb11-(chesterton)">The Wisdom of Father Brown</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/wifrb11/story_08_the_perishing_of_the_pendragons/part_06">‹ part 06</a><a class="ex-next" href="/testi/chesterton/atomized/wifrb11/story_09_the_god_of_the_gongs/part_01">part 01 ›</a></div>
+</nav>
+
+# [[wifrb11]] — La fine dei Pendragon (parte 7)
+
+     Poi venne un grido che quasi lo fece voltare. [[Flambeau]] e Fanshaw, ora rinforzati da alcuni degli zingari, si erano lanciati all'inseguimento del misterioso uomo presso la [[house|casa]]; ed egli udì, dall'altra estremità del [[Garden|giardino]], il grido di orrore e stupore del francese. Fu echeggiato da un ululato che non si poteva dire umano, mentre l'essere si liberava dalla loro presa e correva lungo il [[Garden|giardino]]. Almeno tre volte fece il giro dell'intera isola, in un modo tanto orribile quanto la caccia di un pazzo, sia per le grida dell'inseguito sia per le corde portate dagli inseguitori; ma ancor più orribile, perché suggeriva chissà come uno di quei giochi d'inseguimento dei bambini in un [[Garden|giardino]]. Poi, trovandoli che si stringevano da ogni lato, la figura balzò su una delle rive più alte del [[River|fiume]] e scomparve con un tonfo nel [[River|fiume]] scuro e vorticoso.
+
+     «Non potete far altro, [[Fear|temo]]» disse Brown con voce fredda di [[Pain|dolore]]. «Ormai è stato trascinato giù verso gli scogli, dove lui ha mandato tanti altri. Sapeva come servirsi di una leggenda di famiglia.»
+
+     «Oh, non parlate per parabole» gridò [[Flambeau]] con impazienza. «Non potete dirlo semplicemente, con parole di una sola sillaba?»
+
+     «Sì» rispose Brown, con l'occhio sul tubo. «"Occhi due che brillano bene, la nave va; un occhio che ammicca, e la nave affonda."»
+
+     Il fuoco sibilava e strideva sempre più, come una cosa strangolata, mentre si faceva sempre più stretto sotto il diluvio del tubo e dei secchi, ma Padre Brown continuava a tenervi sopra l'occhio mentre proseguiva a parlare:
+
+     «Avevo pensato di chiedere a questa signorina, se fosse già mattino, di guardare attraverso quel telescopio verso la foce e verso il fiume. Avrebbe potuto vedere qualcosa che l'interessasse: il segno della nave, o il signor Walter Pendragon che torna a casa, e forse persino il segno del mezzo uomo, poiché, sebbene ormai sia certamente in salvo, può benissimo essere giunto a riva a guado. È stato a un pelo da un altro naufragio; e non gli sarebbe mai scampato, se la signorina non avesse avuto il buon senso di sospettare del telegramma del vecchio Ammiraglio e di scendere qui a sorvegliarlo. Non parliamo del vecchio Ammiraglio. Non parliamo di nulla. Basta dire che, ogni volta che questa torre, con la sua pece e il suo legno resinoso, prendeva davvero fuoco, la scintilla all'orizzonte appariva sempre come il fanale gemello del faro della costa.»
+
+     «Ed è così» disse Flambeau, «che morirono il padre e il fratello. Il malvagio zio delle leggende per poco non si è preso, alla fine, la tenuta.»
+
+     Padre Brown non rispose; anzi, non parlò più, se non per cortesia, finché non furono tutti al sicuro attorno a una scatola di sigari nella cabina del panfilo. Vide che il frustrato incendio era spento; e poi rifiutò di attardarsi, benché udisse davvero il giovane Pendragon, scortato da una folla entusiasta, arrivare a passo pesante lungo la riva del fiume; e avrebbe potuto (se fosse stato mosso da romantiche curiosità) ricevere i ringraziamenti congiunti dell'uomo della nave e della ragazza della canoa. Ma la stanchezza gli era ripiombata addosso ancora una volta, e trasalì una sola volta, quando Flambeau gli disse bruscamente che gli era caduta della cenere di sigaro sui calzoni.
+
+     «Non è cenere di sigaro» disse piuttosto spossato. «Viene dal fuoco, ma voi non lo pensate perché state tutti fumando sigari. È proprio così che ho avuto il mio primo debole sospetto a proposito della carta.»
+
+     «Volete dire la carta delle isole del Pacifico di Pendragon?» chiese Fanshaw.
+
+     «Voi credevate che fosse una carta delle isole del Pacifico» rispose Brown. «Mettete una piuma accanto a un fossile e a un pezzetto di corallo, e tutti penseranno che sia un esemplare. Mettete la stessa piuma accanto a un nastro e a un fiore artificiale, e tutti penseranno che sia per il cappello di una signora. Mettete la stessa piuma accanto a un calamaio, a un libro e a una pila di carta da lettere, e la maggior parte degli uomini giurerà di aver visto una penna d'oca. Così voi avete visto quella mappa tra uccelli tropicali e conchiglie, e avete pensato che fosse una mappa delle isole del Pacifico. Era la mappa di questo fiume.»
+
+     «Ma come lo sapete?» chiese Fanshaw.
+
+     «Ho visto lo scoglio che voi pensavate somigliasse a un drago, e quello simile a Merlino, e…»
+
+     «Sembra che abbiate notato parecchio, mentre entravamo» esclamò Fanshaw. «Noi vi credevamo piuttosto assente.»
+
+     «Avevo il mal di mare» disse semplicemente Padre Brown. «Mi sentivo semplicemente orribile. Ma sentirsi orribili non ha nulla a che fare con il non vedere le cose.» E chiuse gli occhi.
+
+     «Credete che la maggior parte degli uomini avrebbe visto tutto ciò?» chiese Flambeau. Non ricevette risposta: Padre Brown dormiva.
+
+                                 NOVE

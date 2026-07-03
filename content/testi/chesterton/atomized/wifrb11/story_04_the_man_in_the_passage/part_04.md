@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/wifrb11-(chesterton)">The Wisdom of Father Brown</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/wifrb11/story_04_the_man_in_the_passage/part_03">‹ part 03</a><a class="ex-next" href="/testi/chesterton/atomized/wifrb11/story_04_the_man_in_the_passage/part_05">part 05 ›</a></div>
@@ -151,3 +153,151 @@ In idle curiosity as to the rapid movement of his friends,
 he had strolled out to the head of the passage himself and looked down it
 towards the prisoner's door.  Did he see anything in the passage? 
 Yes; he saw something in the passage.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/wifrb11-(chesterton)">The Wisdom of Father Brown</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/wifrb11/story_04_the_man_in_the_passage/part_03">‹ part 03</a><a class="ex-next" href="/testi/chesterton/atomized/wifrb11/story_04_the_man_in_the_passage/part_05">part 05 ›</a></div>
+</nav>
+
+# [[wifrb11]] — L'uomo nel corridoio (parte 4)
+
+     «Ha un'aria da cannibale, quel tipo, non è vero?» disse la guardia
+in confidenza a Cutler.
+
+     Cutler non rispose, ma disse bruscamente un momento dopo:
+«Dobbiamo occuparci della...della [[Death|morte]]...» e la voce gli sfuggì
+dall'articolazione.
+
+     «Delle due morti,» giunse la voce del prete dal
+lato più lontano della stanza.  «Questo pover'uomo se n'era già andato
+quando gli sono arrivato accanto.»  E rimase a guardare in basso il vecchio Parkinson,
+che sedeva in un nero mucchio sulla sfarzosa sedia.  Anch'egli aveva
+reso il proprio tributo, non senza eloquenza, alla donna che era morta.
+
+     Il [[Silence|silenzio]] fu rotto per primo da Cutler, che pareva non intatto
+da una ruvida tenerezza.  «Vorrei essere lui,» disse con voce rauca.
+«Ricordo che la seguiva con lo sguardo dovunque camminasse, più di--chiunque.
+Ella era la sua aria, e lui si è inaridito.  È semplicemente morto.»
+
+     «Siamo tutti morti,» disse Seymour con voce strana,
+guardando in fondo alla [[Road|strada]].
+
+     Congedarono [[Father Brown|padre Brown]] all'angolo della [[Road|strada]],
+con qualche scusa a caso per ogni scortesia che potessero aver mostrato.
+Entrambi i loro volti erano tragici, ma anche criptici.
+
+     La mente del piccolo prete era sempre una conigliera
+di pensieri selvatici che saltavano troppo in fretta perché egli riuscisse ad afferrarli.
+Come la coda bianca di un coniglio, ebbe il pensiero che gli sfuggiva che
+era certo del loro dolore, ma non altrettanto certo della loro [[innocence|innocenza]].
+
+     «Faremmo bene ad andarcene tutti,» disse Seymour pesantemente; «abbiamo fatto
+tutto ciò che potevamo per aiutare.»
+
+     «Vorrete comprendere le mie intenzioni,» chiese [[Father Brown|padre Brown]] quietamente,
+«se dico che avete fatto tutto ciò che potevate per nuocere?»
+
+     Entrambi trasalirono come colpevoli, e Cutler disse bruscamente:
+«Nuocere a chi?»
+
+     «A voi stessi,» rispose il prete.  «Non aggiungerei
+ai vostri guai se non fosse comune giustizia avvertirvi.
+Avete fatto quasi tutto quel che potevate per impiccarvi,
+qualora quest'attore fosse assolto.  Certo mi citeranno come testimone;
+sarò tenuto a dire che, dopo che si udì il grido, ciascuno di voi
+si precipitò nella stanza in uno stato di frenesia e cominciò a litigare per un pugnale.
+Per quanto possano andare le mie parole giurate, l'uno o l'altro di voi potrebbe averlo fatto.
+Vi siete nociuti con questo; e poi il capitano Cutler deve essersi
+nociuto con il pugnale.»
+
+     «Nociuto a me stesso!» esclamò il capitano con disprezzo.
+«Uno sciocco graffietto.»
+
+     «Che ha fatto uscire del [[Blood|sangue]],» rispose il prete, annuendo.  «Sappiamo che ora c'è
+[[Blood|sangue]] sul bronzo.  E perciò non sapremo mai se ci fosse
+[[Blood|sangue]] prima.»
+
+     Ci fu un [[Silence|silenzio]]; e poi Seymour disse, con un'enfasi
+del tutto estranea al suo tono di ogni giorno:  «Ma io ho visto un uomo nell'andito.»
+
+     «So che l'avete visto,» rispose il chierico Brown con volto di legno,
+«e così il capitano Cutler.  È proprio questo che pare tanto improbabile.»
+
+     Prima che l'uno o l'altro potesse cavarne senso a sufficienza anche solo per rispondere,
+[[Father Brown|padre Brown]] si era cortesemente congedato e se n'era andato arrancando
+su per la [[Road|strada]] con il suo tozzo vecchio ombrello.
+
+     Per come sono condotti i giornali moderni, la notizia più onesta
+e più importante è la cronaca nera.  Se è vero che
+nel ventesimo secolo si dà più spazio all'omicidio che alla politica,
+è per l'eccellente ragione che l'omicidio è un argomento più serio.
+Ma persino questo spiegherebbe a stento l'enorme onnipresenza e
+l'ampiamente diffuso dettaglio del «Caso Bruno», o del «Mistero dell'Andito»,
+sulla Stampa di [[London|Londra]] e delle province.  Tanto vasta era l'eccitazione
+che per alcune settimane la Stampa disse davvero la [[Truth|verità]]; e i resoconti
+degli interrogatori e dei contro[[Cross|interrogatori]], se pur interminabili,
+persino se intollerabili, sono almeno attendibili.  La vera ragione,
+naturalmente, era la coincidenza delle persone.  La vittima era
+un'attrice popolare; l'accusato era un attore popolare; e l'accusato
+era stato colto con le mani nel sacco, per così dire, dal più popolare soldato
+della stagione patriottica.  In quelle straordinarie circostanze
+la Stampa fu paralizzata nella probità e nell'esattezza; e il resto di questa
+faccenda alquanto singolare può praticamente essere ricostruito dai resoconti
+del processo a Bruno.
+
+     Il processo fu presieduto dal giudice Monkhouse,
+uno di quelli che vengono derisi come giudici umoristici, ma che sono in generale
+assai più seri dei giudici seri, perché la loro levità nasce da
+una viva insofferenza per la solennità professionale; mentre il giudice serio
+è in realtà pieno di frivolezza, perché è pieno di [[Vanity|vanità]].
+Essendo tutti i principali protagonisti di importanza mondana, gli avvocati
+erano [[Well|ben]] bilanciati; l'accusa per la [[Crown|Corona]] era sostenuta da Sir Walter Cowdray,
+un avvocato pesante, ma di peso, del tipo che sa sembrare
+inglese e degno di fiducia, e come essere retorico con riluttanza.
+Il prigioniero era difeso dal signor Patrick Butler, K.C., che veniva scambiato
+per un mero flâneur da quanti fraintendevano il carattere irlandese--
+e da quanti non erano stati interrogati da lui.  La perizia medica
+non presentava contraddizioni: il medico, che Seymour aveva convocato
+sul posto, concordava con l'eminente chirurgo che più tardi aveva
+esaminato il [[Body|corpo]].  Aurora Rome era stata pugnalata con qualche strumento affilato
+come un coltello o un pugnale; qualche strumento, perlomeno, di cui
+la lama era corta.  La ferita era proprio sopra il cuore, ed ella era
+morta all'istante.  Quando il medico la vide per la prima volta, poteva a stento
+essere morta da venti minuti.  Perciò quando [[Father Brown|padre Brown]]
+la trovò, poteva a stento essere morta da tre.
+
+     Seguì qualche testimonianza ufficiale della [[Detective|polizia investigativa]], concernente soprattutto
+la presenza o l'assenza di qualsiasi prova di colluttazione; l'unico indizio
+di questa era lo strappo dell'abito alla spalla, e ciò non pareva accordarsi
+particolarmente [[Well|bene]] con la direzione e la definitività del colpo.
+Quando questi dettagli furono forniti, sebbene non spiegati,
+fu chiamato il primo dei testimoni importanti.
+
+     Sir Wilson Seymour rese testimonianza come faceva ogni altra cosa
+che facesse--non solo [[Well|bene]], ma perfettamente.  Benché egli stesso
+fosse ben più uomo pubblico del giudice, rese esattamente
+la fine sfumatura di [[Self|umiltà di sé]] dinanzi alla giustizia del [[King|Re]];
+e benché tutti lo guardassero come avrebbero guardato il Primo Ministro
+o l'Arcivescovo di Canterbury, non avrebbero potuto dire nulla
+del suo ruolo se non che era quello di un privato gentiluomo,
+con l'accento sul sostantivo.  Fu anche mirabilmente lucido,
+come lo era nelle commissioni.  Aveva fatto visita alla signorina Rome
+al teatro; vi aveva incontrato il capitano Cutler; a loro si era unito
+per breve [[Time|tempo]] l'accusato, che era poi tornato nel proprio
+camerino; a loro si era poi unito un prete cattolico romano,
+che aveva chiesto della defunta signora e aveva detto di chiamarsi Brown.
+La signorina Rome era poi uscita appena fuori dal teatro, all'ingresso
+dell'andito, per indicare al capitano Cutler un negozio di fiori
+in cui doveva comprarle ancora qualche [[Flowers|fiore]]; e il testimone
+era rimasto nella stanza, scambiando qualche parola con il prete.
+Aveva poi distintamente udito la defunta, dopo aver mandato il capitano
+per la sua commissione, voltarsi ridendo e correre giù per l'andito
+verso l'altro capo, dove si trovava il camerino del prigioniero.
+Per oziosa curiosità circa il rapido andirivieni dei suoi amici,
+era uscito egli stesso in cima all'andito e aveva guardato giù
+verso la porta del prigioniero.  Vide qualcosa nell'andito?
+Sì; vide qualcosa nell'andito.

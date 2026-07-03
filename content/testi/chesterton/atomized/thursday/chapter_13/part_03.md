@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/thursday-(chesterton)">The Man Who Was Thursday</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/thursday/chapter_13/part_02">‹ part 02</a><a class="ex-next" href="/testi/chesterton/atomized/thursday/chapter_13/part_04">part 04 ›</a></div>
@@ -158,3 +160,158 @@ On examination, however, its bulk was found to consist of thirty-three
 pieces of paper of no value wrapped one round the other.
 When the last covering was torn away it reduced itself to a small
 slip of paper, on which was written:--
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/thursday-(chesterton)">The Man Who Was Thursday</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/thursday/chapter_13/part_02">‹ part 02</a><a class="ex-next" href="/testi/chesterton/atomized/thursday/chapter_13/part_04">part 04 ›</a></div>
+</nav>
+
+# [[thursday]] — Capitolo 13 (parte 3)
+
+«Dietro a lui!» urlò Syme.  «Ora non può sviarci.
+Non ci si sbaglia su un’autopompa dei [[Fire|pompieri]].»
+
+I tre cocchieri, che per un momento erano rimasti storditi, frustarono
+i cavalli e diminuirono di poco la distanza tra sé
+e la loro preda sfuggente.  Il Presidente riconobbe questa
+prossimità venendo sul retro dell’autopompa, inchinandosi ripetutamente,
+mandando baci con la mano, e infine gettando un biglietto piegato con cura
+nel petto dell’ispettore Ratcliffe.  Quando quel signore lo aprì,
+non senza impazienza, lo trovò contenente le parole:…
+
+«Fuggite subito.  La [[Truth|verità]] sui vostri tendipantaloni è nota.
+— UN AMICO.»
+
+L’autopompa dei [[Fire|pompieri]] aveva puntato ancor più a nord,
+in una regione che essi non riconoscevano; e mentre correva
+lungo una fila di alte cancellate ombreggiate di alberi, i sei amici
+trasalirono, ma alquanto sollevati, al vedere il Presidente
+balzare giù dall’autopompa dei [[Fire|pompieri]], anche se non poterono vedere
+se per un altro capriccio o per la crescente protesta dei suoi ospiti.
+Prima però che le tre carrozze potessero raggiungere il punto,
+egli aveva scalato le alte cancellate come un enorme gatto grigio,
+si era gettato dall’altra parte, ed era scomparso in un buio di [[Leaves|foglie]].
+
+Syme con un gesto furioso fermò la sua carrozza, ne balzò fuori,
+e si slanciò anch’egli alla scalata.  Quando ebbe una gamba oltre
+lo steccato e i suoi amici lo seguivano, volse verso di loro un
+volto che spiccava tutto pallido nell’[[Shadow|ombra]].
+
+«Che posto può mai essere questo?» chiese.  «Che sia la [[house|casa]] del vecchio diavolo?
+Ho sentito che ha una [[house|casa]] nella parte nord di [[London|Londra]].»
+
+«Tanto meglio», disse il Segretario cupamente, piantando un piede in un appiglio,
+«lo troveremo a [[Home|casa]].»
+
+«No, ma non è questo», disse Syme, aggrottando le sopracciglia.
+«Sento i rumori più orribili, come diavoli che ridono e starnutiscono
+e si soffiano i loro nasi diabolici!»
+
+«I suoi [[dogs|cani]] che abbaiano, naturalmente», disse il Segretario.
+
+«Perché non dire i suoi scarafaggi neri che abbaiano!» disse Syme furiosamente,
+«le lumache che abbaiano! i gerani che abbaiano!  Avete mai sentito un cane
+abbaiare a quel modo?»
+
+Alzò la mano, e dal folto venne un lungo
+ringhio ruggente che pareva penetrare sotto la pelle e agghiacciare la carne…
+un basso, fremente ruggito che faceva vibrare l’aria tutt’intorno a loro.
+
+«I [[dogs|cani]] di [[Sunday]] non sarebbero [[dogs|cani]] comuni», disse Gogol, e rabbrividì.
+
+Syme era saltato giù dall’altra parte, ma stava ancora
+lì in ascolto, spazientito.
+
+«[[Well|Ebbene]], ascoltate quello», disse, «è un cane… il cane di qualcuno?»
+
+Giunse al loro orecchio uno strido rauco, come di creature che protestano
+e reclamano in un [[Pain|dolore]] improvviso; e poi, lontano come un’eco,
+qualcosa che suonava come una lunga tromba nasale.
+
+«[[Well|Ebbene]], la sua [[house|casa]] dev’essere l’inferno!» disse il Segretario;
+«e se è l’inferno, io ci entro!» e scavalcò le alte
+cancellate quasi con un solo slancio.
+
+Gli altri lo seguirono.  Si aprirono un varco tra un groviglio di piante e arbusti,
+e sbucarono su un sentiero aperto.  Nulla era in vista, ma il dottor Bull d’un tratto
+batté le mani l’una contro l’altra.
+
+«Ma insomma, asini che siete», gridò, «è lo Zoo!»
+
+Mentre si guardavano attorno freneticamente in cerca di una traccia della loro selvaggia preda,
+un guardiano in uniforme venne correndo lungo il sentiero con un uomo in abiti civili.
+
+«È venuto di qua?» ansimò il guardiano.
+
+«Chi?» chiese Syme.
+
+«L’elefante!» gridò il guardiano.  «Un elefante è impazzito
+ed è scappato!»
+
+«È scappato con un vecchio gentiluomo», disse l’altro sconosciuto senza fiato,
+«un povero vecchio gentiluomo dai capelli bianchi!»
+
+«Che sorta di vecchio gentiluomo?» chiese Syme, con grande curiosità.
+
+«Un vecchio gentiluomo assai grande e grasso, in abiti grigio chiaro»,
+disse il guardiano con foga.
+
+«[[Well|Ebbene]]», disse Syme, «se è quel particolare tipo di vecchio gentiluomo,
+se siete ben sicuro che si tratta di un vecchio gentiluomo grande e grasso in abiti grigi,
+potete credermi sulla parola: l’elefante non è scappato con lui.
+È lui che è scappato con l’elefante.  Non è stato fatto da Dio un elefante
+capace di scappare con lui, se lui non acconsentisse alla fuga.
+E, per mille tuoni, eccolo là!»
+
+Non c’era [[Doubt|dubbio]], questa [[Time|volta]].  Attraverso tutta la distesa d’erba,
+a circa duecento metri di distanza, con una folla che strillava e correva invano alle
+sue calcagna, andava un enorme elefante grigio a un passo terribile, con la proboscide protesa
+rigida come il bompresso di una [[Ship|nave]], e barrendo come la tromba del giudizio.
+Sul dorso della bestia che muggiva e s’impennava sedeva il Presidente [[Sunday]] con
+tutta la placidità di un sultano, ma pungolando l’animale a una [[Speed|velocità]] furiosa
+con qualche oggetto aguzzo in mano.
+
+«Fermatelo!» strillava la gente.  «Uscirà dal cancello!»
+
+«Fermate una frana!» disse il guardiano.  «È già fuori dal cancello!»
+
+E mentre ancora parlava, un ultimo schianto e ruggito di terrore annunciò che il
+grande elefante grigio aveva sfondato i cancelli dei Giardini Zoologici,
+e sfrecciava giù per Albany Street come una nuova e velocissima specie di omnibus.
+
+«Gran Dio!» gridò Bull, «non ho mai saputo che un elefante potesse andare così veloce.
+[[Well|Ebbene]], dovremo tornare agli hansom se vogliamo tenerlo d’occhio.»
+
+Mentre correvano verso il cancello dal quale l’elefante
+era sparito, Syme provò un abbagliante panorama degli strani [[Animals|animali]]
+nelle gabbie che passavano.  In seguito gli parve strano
+di averli visti così nitidamente.  Ricordava in particolare
+di aver visto i pellicani, con le loro assurde, pendenti gole.
+Si domandò perché il pellicano fosse il simbolo della [[Charity|carità]], se non forse perché
+ci voleva parecchia [[Charity|carità]] per ammirare un pellicano.
+Ricordava un bucero, che era semplicemente un enorme becco giallo con
+un uccellino legato dietro.  L’insieme gli diede una sensazione,
+la cui vividezza non seppe spiegare, che la [[Nature|Natura]] stesse sempre
+facendo scherzi assai misteriosi.  [[Sunday]] aveva detto loro che lo
+avrebbero compreso quando avessero compreso le [[Stars|stelle]].
+Si domandò se persino gli arcangeli comprendessero il bucero.
+
+I sei infelici detective si gettarono nelle carrozze e seguirono
+l’elefante, condividendo il terrore che esso spargeva per il lungo
+tratto delle strade.  Questa [[Time|volta]] [[Sunday]] non si voltò,
+ma offrì loro la solida distesa della sua schiena inconsapevole,
+il che li faceva impazzire, se possibile, più delle sue precedenti beffe.
+Poco prima che giungessero a Baker Street, tuttavia, lo si vide
+lanciare qualcosa in alto nell’aria, come un ragazzo fa con una palla intendendo
+riprenderla.  Ma alla loro andatura di corsa cadde molto indietro,
+proprio accanto alla carrozza che conteneva Gogol; e nella fioca [[Hope|speranza]] di un indizio o per
+qualche impulso inspiegabile, egli fermò la carrozza per raccoglierlo.
+Era indirizzato a lui stesso, ed era un pacco piuttosto voluminoso.
+All’esame, tuttavia, si trovò che la sua mole consisteva di trentatré
+pezzi di carta senza valore avvolti l’uno intorno all’altro.
+Quando fu strappato l’ultimo involucro si ridusse a un piccolo
+foglietto di carta, sul quale era scritto:…

@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/wifrb11-(chesterton)">The Wisdom of Father Brown</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/wifrb11/story_08_the_perishing_of_the_pendragons/part_07">‹ part 07</a><a class="ex-next" href="/testi/chesterton/atomized/wifrb11/story_09_the_god_of_the_gongs/part_02">part 02 ›</a></div>
@@ -129,3 +131,129 @@ thoughtfully:  "Want to get out?  Why, no.  I rather think I want
 to get in." And he dived into the darkness under the wooden floor
 so abruptly as to knock off his big curved clerical hat and leave it
 lying on the boards above, without any clerical head in it.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/wifrb11-(chesterton)">The Wisdom of Father Brown</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/wifrb11/story_08_the_perishing_of_the_pendragons/part_07">‹ part 07</a><a class="ex-next" href="/testi/chesterton/atomized/wifrb11/story_09_the_god_of_the_gongs/part_02">part 02 ›</a></div>
+</nav>
+
+# [[wifrb11]] — Il dio dei gong (parte 1)
+
+                         Il dio dei gong
+
+Era uno di quei pomeriggi freddi e vuoti del principio dell'inverno,
+quando la luce del giorno è d'argento più che d'oro e di peltro più che d'argento.
+Se era lugubre in cento uffici tetri e in cento salotti sbadiglianti,
+lo era ancora di più lungo i margini della piatta costa dell'Essex,
+dove la monotonia si faceva tanto più disumana per il fatto di venire interrotta,
+a intervalli lunghissimi, da un lampione che pareva meno civile
+di un albero, o da un albero che pareva più brutto di un lampione.
+Una leggera nevicata s'era mezzo sciolta in poche strisce, anch'esse più plumbee
+che argentee, quando era stata fissata di nuovo dal sigillo del gelo;
+neve fresca non ne era caduta, ma un nastro di vecchia neve correva lungo
+l'orlo estremo della costa, così da correre parallelo al pallido nastro della spuma.
+
+     La linea del mare pareva gelata nella vivezza stessa
+del suo azzurro-violetto, come la vena di un dito assiderato. Per miglia e miglia,
+in avanti e all'indietro, non v'era anima viva che respirasse, salvo due pedoni
+che camminavano di buon passo, sebbene uno avesse le gambe assai più lunghe e facesse
+falcate assai più lunghe dell'altro.
+
+     Non pareva un luogo né un tempo troppo adatto per una vacanza,
+ma Padre Brown di vacanze ne aveva poche, e doveva prenderle quando poteva,
+e preferiva sempre, se possibile, prenderle in compagnia
+del suo vecchio amico Flambeau, ex criminale ed ex investigatore. Il prete
+s'era messo in testa di visitare la sua vecchia parrocchia a Cobhole, e stava andando
+verso nord-est lungo la costa.
+
+     Dopo aver camminato ancora un miglio o due, si accorsero che la riva
+cominciava a essere formalmente arginata, sì da formare qualcosa come una passeggiata;
+i brutti lampioni si fecero meno radi e più ornati,
+pur restando esattamente altrettanto brutti. Mezzo miglio più avanti Padre Brown
+fu dapprima messo in imbarazzo da piccoli labirinti di vasi da fiori senza fiori,
+coperti di quelle piante basse, piatte, dai colori spenti, che somigliano meno
+a un giardino che a un pavimento a tessere, tra deboli sentieri ricurvi costellati
+di panchine dagli schienali ricurvi. Fiutò debolmente l'atmosfera di
+un certo tipo di cittadina di mare che non gli era particolarmente cara,
+e, guardando avanti lungo la passeggiata in riva al mare, vide qualcosa che
+tolse ogni dubbio alla faccenda. Nella grigia lontananza il grande palco dell'orchestra
+di una località balneare si ergeva come un fungo gigante con sei zampe.
+
+     «Suppongo,» disse Padre Brown, tirandosi su il bavero del cappotto
+e stringendosi un po' di più intorno al collo una sciarpa di lana,
+«che ci stiamo avvicinando a un luogo di villeggiatura.»
+
+     «Temo,» rispose Flambeau, «un luogo di villeggiatura al quale
+poche persone hanno, in questo momento, il piacere di villeggiare. Cercano di
+far rivivere questi posti d'inverno, ma non ci riescono mai, tranne che con
+Brighton e quelli antichi. Questa dev'essere Seawood, credo...
+l'esperimento di Lord Pooley; aveva fatto venire i Cantori Siciliani a Natale,
+e si parla di tenere qui uno dei grandi incontri di pugilato.
+Ma dovranno buttare in mare quel posto marcio;
+è tetro come un vagone ferroviario dimenticato.»
+
+     Erano giunti sotto il grande palco dell'orchestra, e il prete stava
+guardandolo dal basso con una curiosità che aveva in sé qualcosa di piuttosto strano,
+la testa un po' inclinata da un lato, come quella di un uccello. Era la costruzione
+convenzionale e piuttosto pacchiana propria di simili scopi: una cupola appiattita
+o baldacchino, dorato qua e là, e sollevato su sei sottili colonne
+di legno dipinto, il tutto rialzato di circa un metro e mezzo sopra la passeggiata
+su una piattaforma di legno rotonda come un tamburo. Ma c'era qualcosa
+di fantastico nella neve unito a qualcosa di artificiale nell'oro,
+che ossessionava Flambeau non meno del suo amico con
+una qualche associazione che egli non riusciva ad afferrare, ma che sapeva essere insieme
+artistica ed estranea.
+
+     «Ci sono,» disse infine. «È giapponese. È come
+quelle fantasiose stampe giapponesi, dove la neve sulla montagna
+sembra zucchero, e la doratura sulle pagode è come la doratura sul panpepato.
+Sembra proprio un piccolo tempio pagano.»
+
+     «Sì,» disse Padre Brown. «Andiamo a dare un'occhiata al dio.»
+E con un'agilità che difficilmente ci si sarebbe aspettata da lui, saltò
+sulla piattaforma rialzata.
+
+     «Oh, benissimo,» disse Flambeau, ridendo; e l'istante dopo
+la sua torreggiante figura fu visibile su quella bizzarra sopraelevazione.
+
+     Per quanto lieve fosse la differenza d'altezza, essa dava, in quelle distese piatte,
+il senso di vedere sempre più lontano, sempre più oltre, per terra e per mare.
+Verso l'interno i piccoli giardinetti invernali sfumavano in un confuso boschetto grigio;
+oltre quello, in lontananza, si stendevano i lunghi bassi fienili di una fattoria solitaria,
+e oltre ancora nient'altro che le lunghe pianure dell'Anglia orientale.
+Verso il mare non v'era vela né segno di vita salvo qualche gabbiano:
+e persino questi somigliavano agli ultimi fiocchi di neve, e parevano galleggiare
+più che volare.
+
+     Flambeau si voltò di scatto a un'esclamazione dietro di sé.
+Pareva venire da più in basso di quanto ci si sarebbe potuti aspettare,
+e rivolgersi ai suoi calcagni più che alla sua testa. Tese all'istante
+la mano, ma non poté trattenersi dal ridere a ciò che vide.
+Per una ragione o per l'altra la piattaforma aveva ceduto sotto Padre Brown,
+e lo sventurato ometto era sprofondato fino al livello
+della passeggiata. Era giusto tanto alto, o tanto basso,
+che la sola testa gli sporgeva fuori dal buco nel legno sfondato,
+somigliante alla testa di san Giovanni Battista su un vassoio. Il volto portava
+un'espressione sconcertata, come forse quello di san Giovanni Battista.
+
+     Dopo un momento cominciò a ridacchiare un poco. «Questo legno dev'essere marcio,»
+disse Flambeau. «Anche se pare strano che regga me e ceda là dove
+passate voi. Lasciate che vi aiuti a uscire.»
+
+     Ma il piccolo prete stava guardando con una certa curiosità gli angoli
+e i bordi del legno che si diceva marcio, e c'era una sorta di turbamento
+sulla sua fronte.
+
+     «Su, andiamo,» gridò Flambeau spazientito, sempre con la sua grande
+mano bruna protesa. «Non volete uscire?»
+
+     Il prete teneva tra il pollice e l'indice una scheggia del legno spezzato,
+e non rispose immediatamente. Alla fine disse
+pensosamente: «Uscire? Ma no. Anzi, credo di voler
+entrare.» E si tuffò nel buio sotto il pavimento di legno
+così bruscamente da far cadere il suo grande cappello clericale ricurvo e lasciarlo
+posato sulle assi di sopra, senza alcuna testa clericale dentro.

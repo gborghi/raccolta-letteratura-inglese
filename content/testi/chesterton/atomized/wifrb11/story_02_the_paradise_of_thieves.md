@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/wifrb11-(chesterton)">The Wisdom of Father Brown</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/wifrb11/story_01_the_absence_of_mr_glass">‹ Story 01 The Absence of Mr Glass</a><a class="ex-next" href="/testi/chesterton/atomized/wifrb11/story_03_the_duel_of_dr_hirsch">Story 03 The Duel of Dr Hirsch ›</a></div>
@@ -733,3 +735,240 @@ Glasgow, Chicago--in short, to enlightened, energetic, civilized society!"
      "In short," said Muscari, "to the real Paradise of Thieves."
 
                                  THREE
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/wifrb11-(chesterton)">The Wisdom of Father Brown</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/wifrb11/story_01_the_absence_of_mr_glass">‹ Story 01 The Absence of Mr Glass</a><a class="ex-next" href="/testi/chesterton/atomized/wifrb11/story_03_the_duel_of_dr_hirsch">Story 03 The Duel of Dr Hirsch ›</a></div>
+</nav>
+
+# [[wifrb11]] — Il Paradiso dei Ladri
+
+                        Il Paradiso dei Ladri
+
+IL grande Muscari, il più originale fra i giovani poeti toscani, entrò con passo svelto nel suo ristorante prediletto, che dominava il Mediterraneo, era riparato da un tendone e recintato da piccoli alberi di limoni e d'aranci. Camerieri dai grembiuli bianchi disponevano già sui tavoli candidi le insegne di un pranzo mattutino ed elegante; e ciò pareva accrescere una soddisfazione che già rasentava il colmo della spavalderia. Muscari aveva un naso d'aquila come [[Dante]]; i capelli e il fazzoletto al collo erano scuri e fluenti; portava un mantello nero, e avrebbe potuto quasi portare una maschera nera, tanto recava con sé una sorta di [[Melodrama|melodramma]] veneziano. Si comportava come se il trovatore avesse ancora un preciso ufficio sociale, al pari di un vescovo. Andava tanto vicino quanto il suo secolo consentiva al camminare per il mondo alla lettera come Don Giovanni, con lo spadino e la chitarra.
+
+     Poiché non viaggiava mai senza un astuccio di spade, con le quali aveva combattuto molti brillanti duelli, né senza un astuccio corrispondente per il suo mandolino, con il quale aveva davvero portato una serenata a Miss Ethel Harrogate, la figlia oltremodo convenzionale di un banchiere dello Yorkshire in villeggiatura. Eppure non era né un ciarlatano né un [[Child|fanciullo]]; ma un latino ardente e logico, che amava una certa cosa ed era quella cosa. La sua poesia era diretta quanto la prosa di chiunque altro. Desiderava la fama o il vino o la [[Beauty|bellezza]] delle donne con una torrida immediatezza inconcepibile fra i nebulosi ideali o i nebulosi compromessi del nord; a razze più indistinte la sua intensità sapeva di pericolo o addirittura di delitto. Come il [[Fire|fuoco]] o il mare, era troppo semplice perché ci si potesse fidare.
+
+     Il banchiere e la sua bella figlia inglese alloggiavano nell'albergo annesso al ristorante di Muscari; ecco perché era il suo ristorante prediletto. Un'occhiata lanciata per la sala gli disse tuttavia all'istante che la comitiva inglese non era ancora scesa. Il ristorante era scintillante, ma ancora relativamente vuoto. Due preti conversavano a un tavolo in un angolo, ma Muscari (cattolico ardente) non vi badò più di quanto avrebbe badato a un paio di cornacchie. Ma da un posto ancora più lontano, in parte celato dietro un albero [[Dwarf|nano]] dorato d'arance, si [[Rose|levò]] e avanzò verso il poeta una persona il cui abbigliamento era il più aggressivamente opposto al suo.
+
+     Questa figura era vestita di un tweed a quadri pezzati, con una cravatta rosa, un colletto rigido e sporgenti stivali gialli. Riusciva, nella genuina tradizione di 'Arry a Margate, ad apparire nel medesimo tempo sconcertante e volgare. Ma via via che l'apparizione cockney si avvicinava, Muscari fu stupefatto di osservare che la testa era nettamente diversa dal [[Body|corpo]]. Era una testa italiana: crespa, bruna e vivacissima, che si [[Rose|ergeva]] di colpo dal colletto ritto come cartone e dalla comica cravatta rosa. Era anzi una testa che conosceva. La riconobbe, al di sopra di tutta la funesta impalcatura dell'abbigliamento vacanziero inglese, come il volto di un vecchio ma dimenticato amico di nome Ezza. Questo giovane era stato un prodigio al collegio, e gli si prometteva fama europea quando aveva appena quindici anni; ma quando comparve nel mondo fallì, prima pubblicamente come drammaturgo e demagogo, poi privatamente per anni interi come attore, viaggiatore, agente di commercio o giornalista. Muscari lo aveva conosciuto l'ultima volta dietro le luci della ribalta; era fin troppo [[Well|bene]] intonato alle eccitazioni di quella professione, e si credeva che qualche calamità morale lo avesse inghiottito.
+
+     «Ezza!» esclamò il poeta, alzandosi e stringendogli la mano con piacevole stupore. «[[Well|Ebbene]], ti ho visto in molti costumi nel camerino; ma non mi sarei mai aspettato di vederti agghindato da inglese.»
+
+     «Questo,» rispose Ezza con gravità, «non è il costume di un inglese, ma dell'italiano del futuro.»
+
+     «In tal caso,» osservò Muscari, «confesso di preferire l'italiano del passato.»
+
+     «Questo è il tuo vecchio errore, Muscari,» disse l'uomo in tweed, scuotendo il capo; «ed è l'errore dell'[[Italy|Italia]]. Nel Cinquecento noi toscani facevamo il mattino: avevamo l'acciaio più nuovo, l'intaglio più nuovo, la chimica più nuova. Perché non dovremmo avere ora le fabbriche più nuove, i motori più nuovi, la finanza più nuova... gli abiti più nuovi?»
+
+     «Perché non vale la pena di averli,» rispose Muscari. «Non si possono rendere gli italiani veramente progressisti; sono troppo intelligenti. Gli uomini che vedono la scorciatoia per il buon vivere non passeranno mai per le nuove e complicate strade.»
+
+     «[[Well|Ebbene]], per me Marconi, o D'Annunzio, è la stella d'[[Italy|Italia]],» disse l'altro. «Ecco perché sono diventato futurista... e corriere.»
+
+     «Un corriere!» esclamò Muscari, ridendo. «È questo l'ultimo della tua lista di mestieri? E chi stai accompagnando?»
+
+     «Oh, un tale di nome Harrogate, e la sua famiglia, credo.»
+
+     «Non il banchiere di questo albergo?» domandò il poeta, con una certa premura.
+
+     «È lui,» rispose il corriere.
+
+     «Rende [[Well|bene]]?» chiese il trovatore con innocenza.
+
+     «Renderà a me,» disse Ezza, con un sorriso quanto mai enigmatico. «Ma sono un corriere di specie piuttosto curiosa.» Poi, come mutando argomento, aggiunse bruscamente: «Ha una figlia... e un figlio.»
+
+     «La figlia è divina,» affermò Muscari, «il padre e il figlio sono, suppongo, umani. Ma pur concedendogli le sue innocue qualità, non ti pare che quel banchiere sia uno splendido esempio della mia tesi? Harrogate ha milioni nelle sue casseforti, e io ho... il buco nella tasca. Ma non oseresti dire... non puoi dire... che sia più ingegnoso di me, o più audace di me, o anche solo più energico. Non è ingegnoso, ha occhi come bottoni azzurri; non è energico, si sposta di sedia in sedia come un paralitico. È un vecchio zuccone coscienzioso e benevolo; ma ha denaro semplicemente perché colleziona denaro, come un ragazzo colleziona francobolli. Sei troppo di carattere per gli affari, Ezza. Non farai strada. Per essere abbastanza abili da mettere insieme tutto quel denaro, bisogna essere abbastanza stupidi da desiderarlo.»
+
+     «Io sono abbastanza stupido per questo,» disse Ezza cupo. «Ma suggerirei di sospendere la tua critica al banchiere, perché eccolo che arriva.»
+
+     Il signor Harrogate, il grande finanziere, entrò infatti nella sala, ma nessuno lo guardò. Era un uomo anziano e massiccio, con un occhio azzurro slavato e baffi d'un grigio sabbia sbiadito; se non fosse stato per la sua pesante curvatura, avrebbe potuto passare per un colonnello. Reggeva in mano parecchie lettere non aperte. Suo figlio Frank era un ragazzo davvero avvenente, ricciuto, abbronzato e vigoroso; ma nessuno guardava neppure lui. Tutti gli occhi, come al solito, erano inchiodati, almeno per il momento, su Ethel Harrogate, la cui aurea testa greca e il colore dell'[[Dawn|aurora]] parevano posti apposta al di sopra di quel mare di zaffiro, come quelli di una dea. Il poeta Muscari trasse un profondo respiro come se bevesse qualcosa, e in effetti era così. Beveva il Classico, che i suoi padri avevano creato. Ezza la studiava con uno sguardo ugualmente intenso e assai più indecifrabile.
+
+     Miss Harrogate era particolarmente raggiante e disposta alla conversazione in quell'occasione; e la sua famiglia era caduta nella più agevole abitudine continentale, permettendo all'estraneo Muscari e persino al corriere Ezza di dividere la loro tavola e i loro discorsi. In Ethel Harrogate la convenzionalità si incoronava di una perfezione e di uno splendore tutti suoi. Fiera della prosperità del padre, amante dei piaceri alla moda, figlia affettuosa ma civetta sfacciata, era tutte queste cose con una sorta di aurea buona [[Nature|natura]] che rendeva gradevole il suo stesso [[Pride|orgoglio]] e la sua rispettabilità mondana una cosa fresca e cordiale.
+
+     Erano in un vortice di eccitazione a proposito di un supposto pericolo del sentiero montano che avrebbero tentato quella settimana. Il pericolo non veniva dalla roccia e dalla valanga, ma da qualcosa di ancor più romanzesco. A Ethel era stato assicurato con fervore che i briganti, i veri tagliagole della leggenda moderna, infestavano ancora quel crinale e tenevano quel passo degli Appennini.
+
+     «Dicono,» esclamò lei, con il terribile gusto di una collegiale, «che tutta quella regione non è governata dal [[King|Re]] d'[[Italy|Italia]], ma dal [[King|Re]] dei Ladri. Chi è il [[King|Re]] dei Ladri?»
+
+     «Un grand'uomo,» rispose Muscari, «degno di stare alla pari del vostro [[Robin Hood]], signorina. Di Montano, il [[King|Re]] dei Ladri, si sentì parlare per la prima volta sui [[Mountains|monti]] una decina d'anni fa, quando la gente diceva che i briganti si fossero estinti. Ma la sua selvaggia autorità si diffuse con la rapidità di una rivoluzione silenziosa. Gli uomini trovavano i suoi feroci proclami inchiodati in ogni villaggio di montagna; le sue sentinelle, fucile in pugno, in ogni gola montana. Sei volte il [[government|Governo]] italiano tentò di scacciarlo, e fu sconfitto in sei battaglie campali come se le avesse condotte Napoleone.»
+
+     «Ecco, cose del genere,» osservò il banchiere con gravità, «non sarebbero mai permesse in Inghilterra; forse, dopotutto, faremmo meglio a scegliere un altro itinerario. Ma il corriere lo riteneva perfettamente sicuro.»
+
+     «È perfettamente sicuro,» disse il corriere con disprezzo. «L'ho percorso venti volte. Può esserci stato qualche vecchio galeotto chiamato [[King|Re]] al [[Time|tempo]] delle nostre nonne; ma appartiene alla [[history|storia]], se non alla [[Fable|favola]]. Il brigantaggio è del tutto debellato.»
+
+     «Non potrà mai essere del tutto debellato,» rispose Muscari; «perché la rivolta armata è uno svago naturale per i meridionali. I nostri contadini sono come i loro [[Mountains|monti]], ricchi di grazia e di verde allegria, ma con i fuochi al di sotto. C'è un punto della [[Despair|disperazione]] umana in cui i poveri del nord si danno al bere... e i nostri poveri si danno al pugnale.»
+
+     «Un poeta è un privilegiato,» ribatté Ezza, con un ghigno. «Se il signor Muscari fosse inglese, cercherebbe ancora briganti da strada a Wandsworth. Mi creda, non c'è più pericolo di essere catturati in [[Italy|Italia]] di quanto ce ne sia di essere scotennati a Boston.»
+
+     «Allora intendete tentarlo?» chiese il signor Harrogate, aggrottando le sopracciglia.
+
+     «Oh, suona piuttosto spaventoso,» esclamò la ragazza, volgendo i suoi occhi gloriosi su Muscari. «Crede davvero che il passo sia pericoloso?»
+
+     Muscari gettò indietro la sua nera criniera. «So che è pericoloso,» disse. «Lo attraverso domani.»
+
+     Il giovane Harrogate rimase indietro un momento a vuotare un bicchiere di vino bianco e ad accendere una sigaretta, mentre la [[Beauty|bella]] si ritirava con il banchiere, il corriere e il poeta, distribuendo scrosci di argentea [[Satire|satira]]. Quasi nello stesso istante i due preti nell'angolo si [[Rose|alzarono]]; il più alto, un italiano dai capelli bianchi, prese congedo. Il prete più basso si voltò e si diresse verso il figlio del banchiere, e questi fu stupito di rendersi conto che, benché fosse un prete cattolico romano, l'uomo era inglese. Ricordava vagamente di averlo incontrato nella ressa mondana di qualcuno dei suoi amici cattolici. Ma l'uomo parlò prima che i suoi ricordi potessero raccogliersi.
+
+     «Il signor Frank Harrogate, credo,» disse. «Mi hanno presentato a lei, ma non intendo prevalermene. La strana cosa che ho da dire verrà assai meglio da uno sconosciuto. Signor Harrogate, dico una parola e me ne vado: abbia cura di sua sorella nel suo grande dolore.»
+
+     Persino per l'indifferenza davvero fraterna di Frank, lo splendore e la derisione della sorella parevano ancora scintillare e risuonare; udiva ancora la sua risata dal [[Garden|giardino]] dell'albergo, e fissava il suo tetro consigliere con perplessità.
+
+     «Intende i briganti?» chiese; e poi, ricordando un suo vago [[Fear|timore]], «o pensa forse a Muscari?»
+
+     «Non si pensa mai al vero dolore,» disse lo strano prete. «Si può solo essere gentili quando arriva.»
+
+     E uscì prontamente dalla sala, lasciando l'altro quasi a bocca aperta.
+
+     Un giorno o due dopo, una vettura che conteneva la comitiva arrancava e sobbalzava davvero su per gli speroni della minacciosa catena montuosa. Tra l'allegra negazione del pericolo da parte di Ezza e la chiassosa sfida che ad esso lanciava Muscari, la famiglia dei finanzieri restò ferma nel suo proposito originario; e Muscari fece coincidere il suo [[Journey|viaggio]] fra i monti con il loro. Un tratto più sorprendente fu la comparsa, alla stazione della cittadina costiera, del piccolo prete del ristorante; egli addusse soltanto che anche a lui gli affari imponevano di [[Cross|attraversare]] i [[Mountains|monti]] dell'entroterra. Ma il giovane Harrogate non poté fare a meno di collegare la sua presenza con i mistici timori e gli avvertimenti del giorno prima.
+
+     La vettura era una specie di comodo calessino, inventato dal talento modernista del corriere, che dominava la spedizione con la sua attività scientifica e il suo brio spensierato. La teoria del pericolo dei ladri fu bandita dal pensiero e dalla parola; benché fosse concessa a tal punto nell'atto formale che si adottò qualche lieve protezione. Il corriere e il giovane banchiere portavano rivoltelle cariche, e Muscari (con molta fanciullesca soddisfazione) si allacciò una specie di sciabola sotto il suo mantello nero.
+
+     Con un balzo fulmineo aveva piazzato la sua persona accanto all'incantevole inglese; dall'altro suo lato sedeva il prete, il cui nome era Brown e che era fortunatamente un individuo silenzioso; il corriere e il padre e il figlio erano sul sedile dietro. Muscari era di umore altissimo, credendo sul serio nel pericolo, e i suoi discorsi a Ethel potevano [[Well|bene]] averle fatto credere che fosse un maniaco. Ma c'era qualcosa in quella folle e magnifica salita, tra rupi simili a picchi carichi di boschi simili a frutteti, che trascinava il suo spirito su [[Alone|solo]] con quello di lui in cieli purpurei e assurdi con soli roteanti. La bianca [[Road|strada]] saliva come un gatto bianco; scavalcava abissi senza sole come una corda tesa; era gettata attorno a promontori lontani come un lazo.
+
+     Eppure, per quanto in alto salissero, il [[Desert|deserto]] ancora fioriva come la [[Rose|rosa]]. I campi risplendevano al sole e al [[Wind|vento]] col colore del martin pescatore e del pappagallo e del colibrì, le tinte di cento [[Flowers|fiori]] in fiore. Non ci sono prati e boschi più incantevoli di quelli inglesi, né creste o abissi più nobili di quelli dello Snowdon e di Glencoe. Ma Ethel Harrogate non aveva mai visto prima i parchi meridionali inclinati sulle frastagliate vette settentrionali; la gola di Glencoe carica dei frutti del [[Kent]]. Non c'era qui nulla di quel gelo e di quella desolazione che in Gran Bretagna si associa agli scenari alti e selvaggi. Era piuttosto come un palazzo di mosaico, squarciato dai terremoti; o come un olandese [[Garden|giardino]] di tulipani fatto volare fino alle [[Stars|stelle]] con la dinamite.
+
+     «È come i Kew Gardens su Beachy Head,» disse Ethel.
+
+     «È il nostro segreto,» rispose lui, «il segreto del vulcano; è anche il segreto della rivoluzione... che una cosa può essere violenta e tuttavia feconda.»
+
+     «Anche lei è piuttosto violento,» e gli sorrise.
+
+     «E tuttavia piuttosto infecondo,» ammise; «se muoio stanotte, muoio scapolo e [[Fool|sciocco]].»
+
+     «Non è colpa mia se è venuto,» disse dopo un difficile [[Silence|silenzio]].
+
+     «Non è mai colpa vostra,» rispose Muscari; «non fu colpa vostra se Troia cadde.»
+
+     Mentre parlavano giunsero sotto rupi soverchianti che si spandevano quasi come ali sopra un angolo di peculiare pericolo. Turbati dalla grande [[Shadow|ombra]] sullo stretto ripiano, i cavalli si agitarono con esitazione. Il cocchiere balzò a terra per tenerli per la testa, ed essi divennero ingovernabili. Un [[Horse|cavallo]] si impennò in tutta la sua altezza... la [[titanic|titanica]] e terrificante altezza di un [[Horse|cavallo]] quando diventa bipede. Fu quanto bastava ad alterare l'equilibrio; l'intera vettura si inclinò come una [[Ship|nave]] e sfondò la frangia di cespugli oltre il ciglio. Muscari gettò un braccio attorno a Ethel, che si aggrappò a lui, e gridò forte. Era per momenti simili che egli viveva.
+
+     Nel momento in cui le magnifiche pareti montane giravano intorno alla testa del poeta come un mulino a vento purpureo, accadde una cosa che in superficie era ancor più sconcertante. Il banchiere anziano e letargico scattò in piedi nella vettura e balzò oltre il precipizio prima che il veicolo inclinato potesse portarvelo. Nel primo lampo parve folle quanto un [[suicide|suicidio]]; ma nel secondo fu assennato quanto un investimento sicuro. Lo Yorkshirese aveva evidentemente più prontezza, oltre [[Well|che]] più sagacia, di quanta Muscari gliene avesse attribuita; poiché atterrò in un grembo di terra che pareva imbottito apposta d'erba e di trifoglio per accoglierlo. Come accadde, in effetti, l'intera compagnia fu ugualmente fortunata, se pure meno dignitosa nella forma dell'espulsione. Immediatamente sotto quella brusca svolta della [[Road|strada]] c'era una conca erbosa e fiorita come un prato incassato; una sorta di tasca di velluto verde nelle lunghe, verdi, strascicanti vesti delle colline. In essa furono tutti rovesciati o precipitati con pochi danni, salvo che i loro bagagli più piccoli e persino il contenuto delle loro tasche si sparpagliarono nell'erba intorno a loro. La vettura sfasciata pendeva ancora in alto, impigliata nella dura siepe, e i cavalli si tuffavano dolorosamente giù per il pendio. Il primo a mettersi a sedere fu il piccolo prete, che si grattò il capo con un'aria di sciocco [[Wonder|stupore]]. Frank Harrogate lo udì dire fra sé: «E adesso perché diavolo siamo caduti proprio qui?»
+
+     Batté le palpebre osservando il disordine intorno a sé, e recuperò il proprio ombrello assai goffo. Oltre di esso giaceva il largo sombrero caduto dalla testa di Muscari, e accanto una lettera d'affari sigillata che, dopo un'occhiata all'indirizzo, restituì al vecchio Harrogate. Dall'altro suo lato l'erba nascondeva in parte il parasole di Miss Ethel, e appena oltre giaceva una curiosa boccettina di vetro lunga sì e no due pollici. Il prete la raccolse; con gesto rapido e discreto la stappò e la annusò, e il suo pesante volto si fece del colore dell'argilla.
+
+     «Il cielo ci scampi!» mormorò; «non può essere sua! Il suo dolore si è già abbattuto su di lei?» La fece scivolare nel taschino del proprio panciotto. «Credo di essere giustificato,» disse, «finché non ne saprò un po' di più.»
+
+     Guardò con pena la ragazza, che in quel momento veniva sollevata dai [[Flowers|fiori]] da Muscari, il quale diceva: «Siamo caduti in cielo; è un segno. I mortali salgono e cadono giù; ma sono soltanto gli dèi e le dee a poter cadere verso l'alto.»
+
+     E davvero ella si [[Rose|levò]] dal mare di colori come una visione così bella e felice che il prete sentì il suo sospetto vacillare e spostarsi. «Dopotutto,» pensò, «forse il [[Poison|veleno]] non è suo; forse è uno dei trucchi melodrammatici di Muscari.»
+
+     Muscari posò lievemente la dama sui piedi, le fece un inchino assurdamente teatrale, e poi, sguainando la sciabola, colpì con forza le tese redini dei cavalli, sicché essi si rialzarono in piedi e rimasero nell'erba tremanti. Fatto ciò, accadde una cosa oltremodo notevole. Un uomo quietissimo, vestito assai poveramente e straordinariamente abbronzato, uscì dai cespugli e afferrò le teste dei cavalli. Aveva un coltello di strana foggia, molto largo e ricurvo, allacciato alla cintura; non c'era null'altro di notevole in lui, tranne la sua comparsa improvvisa e silenziosa. Il poeta gli chiese chi fosse, ed egli non rispose.
+
+     Guardandosi intorno al gruppo confuso e sbigottito nella conca, Muscari si accorse allora che un altro uomo, abbronzato e cencioso, con uno schioppo sotto il braccio, li osservava dal ripiano appena sottostante, appoggiando i gomiti sull'orlo dell'erba. Poi levò lo sguardo verso la [[Road|strada]] dalla quale erano caduti e vide, chini su di loro, le bocche di altre quattro carabine e altri quattro volti bruni con occhi lucenti ma del tutto immobili.
+
+     «I briganti!» esclamò Muscari, con una specie di mostruosa allegria. «Era una trappola. Ezza, se mi farai il favore di sparare prima al cocchiere, possiamo ancora aprirci la strada a colpi di lama. Sono soltanto sei.»
+
+     «Il cocchiere,» disse Ezza, che se ne stava arcigno con le mani in tasca, «si dà il caso che sia un servitore del signor Harrogate.»
+
+     «Allora sparagli a maggior ragione,» esclamò il poeta con impazienza; «è stato corrotto per ribaltare il suo padrone. Poi mettete la dama in mezzo, e sfonderemo la linea lassù... con un assalto.»
+
+     E, avanzando tra l'erba selvatica e i [[Flowers|fiori]], si spinse senza paura contro le quattro carabine; ma accorgendosi che nessuno lo seguiva tranne il giovane Harrogate, si voltò, brandendo la sciabola per far cenno agli altri di avanzare. Scorse il corriere ancora ritto, leggermente a gambe larghe, al centro dell'anello erboso, le mani in tasca; e il suo magro, ironico volto italiano pareva allungarsi sempre più nella luce della sera.
+
+     «Pensavi, Muscari, che io fossi il fallito fra i nostri compagni di scuola,» disse, «e pensavi di essere tu il [[success|successo]]. Ma io ho avuto più successo di te e occupo un posto più grande nella [[history|storia]]. Io ho recitato poemi epici mentre tu li scrivevi.»
+
+     «Vieni, ti dico!» tuonò Muscari dall'alto. «Vuoi startene lì a dire sciocchezze su te stesso con una donna da salvare e tre uomini gagliardi ad aiutarti? Come ti fai chiamare?»
+
+     «Mi faccio chiamare Montano,» gridò lo strano corriere con voce ugualmente alta e piena. «Sono il [[King|Re]] dei Ladri, e do il benvenuto a tutti voi nel mio palazzo d'[[Summer|estate]].»
+
+     E mentre ancora parlava, altri cinque uomini silenziosi con le armi pronte uscirono dai cespugli, e si volsero verso di lui in attesa di ordini. Uno di essi teneva in mano un grande foglio.
+
+     «Questo grazioso nidietto dove stiamo tutti facendo un picnic,» proseguì il corriere-brigante, con lo stesso sorriso disinvolto eppure sinistro, «è noto, insieme ad alcune grotte che vi stanno sotto, con il nome di Paradiso dei Ladri. È la mia principale roccaforte su queste colline; poiché (come avrete senza dubbio notato) il nido d'aquila è invisibile sia dalla [[Road|strada]] in alto sia dalla valle in basso. È qualcosa di meglio che inespugnabile; è inosservabile. Qui perlopiù vivo, e qui certamente morirò, se mai i gendarmi mi rintracceranno. Non sono il genere di criminale che «si riserva la difesa», ma il genere migliore che si riserva l'ultima pallottola.»
+
+     Tutti lo fissavano fulminati e immobili, tranne padre Brown, che trasse un enorme sospiro come di sollievo e tastò la boccetta nella sua tasca. «Grazie a Dio!» mormorò; «così è molto più probabile. Il veleno appartiene a questo capobrigante, s'intende. Lo porta con sé perché non possa mai essere catturato, come Catone.»
+
+     Il Re dei Ladri, tuttavia, continuava il suo discorso con lo stesso genere di pericolosa cortesia. «Non mi resta che,» disse, «spiegare ai miei ospiti le condizioni sociali alle quali ho il piacere di intrattenerli. Non ho bisogno di esporre il bizzarro antico rituale del riscatto, che mi incombe di mantenere; e anche questo si applica soltanto a una parte della compagnia. Il reverendo padre Brown e il celebre signor Muscari li rilascerò domani all'alba e li scorterò fino ai miei avamposti. I poeti e i preti, se mi perdonate la semplicità del discorso, non hanno mai denaro. E dunque (poiché è impossibile cavarne alcunché), cogliamo l'occasione per mostrare la nostra ammirazione per la letteratura classica e la nostra reverenza per la Santa Chiesa.»
+
+     Si fermò con un sorriso sgradevole; e padre Brown batté ripetutamente le palpebre verso di lui, e parve d'un tratto ascoltare con grande attenzione. Il capitano dei briganti prese il grande foglio dal brigante che lo assisteva e, scorrendolo con l'occhio, proseguì: «Le mie altre intenzioni sono chiaramente esposte in questo documento pubblico, che farò circolare fra un momento; e che dopo di ciò verrà affisso a un albero presso ogni villaggio della valle, e a ogni crocevia delle colline. Non vi stancherò con il verbalismo, giacché potrete verificarlo; la sostanza del mio proclama è questa: annuncio in primo luogo di aver catturato il milionario inglese, il colosso della finanza, il signor Samuel Harrogate. Annuncio poi di aver trovato sulla sua persona banconote e titoli per duemila sterline, che egli mi ha ceduto. Ora, poiché sarebbe davvero immorale annunciare una cosa simile a un pubblico credulo se essa non fosse avvenuta, suggerisco che avvenga senza ulteriore indugio. Suggerisco che il signor Harrogate senior mi consegni ora le duemila sterline che ha in tasca.»
+
+     Il banchiere lo guardò da sotto le sopracciglia abbassate, rosso in volto e imbronciato, ma in apparenza intimidito. Quel balzo dalla carrozza in rovina pareva avergli consumato l'ultima virilità. Si era tenuto indietro con aria mogia quando il figlio e Muscari avevano fatto un ardito movimento per rompere la trappola dei briganti. E ora la sua mano rossa e tremante andò con riluttanza al taschino del petto, e passò un fascio di carte e di buste al brigante.
+
+     «Eccellente!» esclamò allegramente quel fuorilegge; «finora siamo tutti a nostro agio. Riprendo i punti del mio proclama, tanto presto destinato a essere pubblicato per tutta l'Italia. Il terzo articolo è quello del riscatto. Chiedo agli amici della famiglia Harrogate un riscatto di tremila sterline, che sono certo riesca quasi offensivo per quella famiglia nella sua modesta stima della loro importanza. Chi non pagherebbe il triplo di questa somma per un altro giorno di frequentazione con una simile cerchia domestica? Non vi nasconderò che il documento termina con certe frasi legali sulle spiacevoli cose che potrebbero accadere se il denaro non venisse pagato; ma nel frattempo, signore e signori, lasciate che vi assicuri di essere qui comodamente provvisto di alloggio, vino e sigari, e vi porgo per ora un benvenuto da gentiluomo sportivo alle delizie del Paradiso dei Ladri.»
+
+     Per tutto il tempo in cui aveva parlato, gli uomini dall'aria equivoca, con le carabine e i sudici cappellacci a tesa molle, si erano radunati in silenzio in numero così preponderante che persino Muscari fu costretto a riconoscere disperata la sua sortita con la spada. Si guardò intorno; ma la ragazza era già andata a placare e a confortare il padre, poiché il suo naturale affetto per la sua persona era altrettanto forte, o più forte, del suo alquanto snobistico orgoglio per il successo di lui. Muscari, con l'illogicità dell'innamorato, ammirava questa devozione filiale, e tuttavia ne era irritato. Ricacciò la spada nel fodero con un colpo e andò a gettarsi un po' imbronciato su uno dei declivi erbosi. Il prete si sedette a un metro o due, e Muscari volse su di lui il suo naso aquilino in una istantanea irritazione.
+
+     «Ebbene,» disse il poeta con asprezza, «la gente mi crede ancora troppo romantico? Ci sono, mi domando, ancora briganti sui monti?»
+
+     «Può darsi,» disse padre Brown agnosticamente.
+
+     «Che cosa intende?» chiese l'altro seccamente.
+
+     «Intendo che sono perplesso,» rispose il prete. «Sono perplesso riguardo a Ezza o Montano, o quale che sia il suo nome. Mi sembra assai più inspiegabile come brigante di quanto lo fosse come corriere.»
+
+     «Ma in che modo?» insistette il suo compagno. «Santa Maria! Avrei pensato che il brigante fosse abbastanza chiaro.»
+
+     «Trovo tre curiose difficoltà,» disse il prete con voce tranquilla. «Mi piacerebbe avere la sua opinione su di esse. Prima di tutto devo dirle che stavo pranzando in quel ristorante sul mare. Mentre voi quattro lasciavate la sala, lei e Miss Harrogate andavate avanti, chiacchierando e ridendo; il banchiere e il corriere venivano dietro, parlando parcamente e piuttosto sottovoce. Ma non potei fare a meno di udire Ezza pronunciare queste parole: «[[Well|Ebbene]], lasciate che si diverta un poco; sapete che il colpo può fracassarla da un momento all'altro.» Il signor Harrogate non rispose nulla; sicché quelle parole dovevano avere un qualche significato. Sull'impulso del momento avvertii suo fratello che ella poteva essere in pericolo; non dissi nulla della sua [[Nature|natura]], perché non lo sapevo. Ma se voleva dire questa cattura tra le colline, la cosa è un'assurdità. Perché mai il corriere-brigante avrebbe dovuto avvertire il suo patrono, sia pure con un cenno, quando il suo intero scopo era attirarlo nella trappola per topi montana? Non poteva voler dire questo. Ma se non questo, qual è questo disastro, noto tanto al corriere quanto al banchiere, che incombe sul capo di Miss Harrogate?»
+
+     «Un disastro per Miss Harrogate!» esclamò il poeta, rizzandosi a sedere con una certa ferocia. «Si spieghi; continui.»
+
+     «Tutti i miei enigmi, tuttavia, ruotano attorno al nostro capobrigante,» riprese il prete pensieroso. «Ed ecco il secondo di essi. Perché mise così in evidenza, nella sua richiesta di riscatto, il fatto di aver preso duemila sterline alla sua vittima sul posto? Non aveva la benché minima tendenza a suscitare il riscatto. Anzi, tutto il contrario. Gli amici di Harrogate sarebbero stati assai più propensi a [[Fear|temere]] per la sua sorte se avessero creduto i ladri poveri e disperati. Eppure la spoliazione sul posto veniva sottolineata e messa persino al primo posto nella richiesta. Perché mai Ezza Montano avrebbe voluto tanto espressamente dire a tutta l'Europa di aver vuotato la tasca prima di imporre il ricatto?»
+
+     «Non riesco a immaginarlo,» disse Muscari, arruffandosi per una volta i neri capelli con gesto spontaneo. «Lei crede di illuminarmi, ma mi conduce più a fondo nel buio. Quale sarà la terza obiezione al [[King|Re]] dei Ladri?» «La terza obiezione,» disse [[Father Brown|padre Brown]], sempre in meditazione, «è questo declivio su cui siamo seduti. Perché il nostro corriere-brigante lo chiama la sua roccaforte principale e il Paradiso dei Ladri? È certamente un punto morbido su cui cadere e un punto dolce da guardare. È anche verissimo, come dice, che è invisibile dalla valle e dalla vetta, ed è perciò un nascondiglio. Ma non è una fortezza. Non potrebbe mai essere una fortezza. Credo che sarebbe la peggior fortezza del mondo. Poiché è in realtà dominato dall'alto dalla comune [[Road|strada]] maestra che valica i [[Mountains|monti]]... proprio il luogo dove più probabilmente passerebbe la polizia. Ma come, cinque miseri schioppi ci hanno tenuti qui inermi appena mezz'ora fa. Un quarto di compagnia di soldati di qualsiasi tipo avrebbe potuto scaraventarci giù dal precipizio. Qualunque sia il significato di questo strano angolino d'erba e di [[Flowers|fiori]], non è una posizione trincerata. È qualcos'altro; ha un altro strano genere d'importanza; un valore che non comprendo. Somiglia piuttosto a un teatro casuale o a un camerino naturale; è come la scena di qualche [[Comedy|commedia]] romantica; è come...»
+
+     Mentre le parole del piccolo prete si allungavano e si perdevano in una spenta e sognante sincerità, Muscari, i cui sensi animali erano all'erta e impazienti, udì un nuovo rumore sui [[Mountains|monti]]. Anche per lui il suono era ancora tenuissimo e fioco; ma avrebbe potuto giurare che la brezza serale portava con sé qualcosa come il pulsare di zoccoli di cavalli e un lontano vociare.
+
+     Nello stesso momento, e molto prima che la vibrazione avesse toccato le meno esperte orecchie inglesi, Montano il brigante corse su per il declivio sopra di loro e si fermò nella siepe rotta, reggendosi contro un albero e scrutando giù per la [[Road|strada]]. Era una strana figura mentre stava lì, poiché aveva assunto un fantastico cappello a tesa larga e un pendaglio oscillante e una sciabola nella sua veste di [[King|re]] dei banditi, ma il vivace e prosaico tweed del corriere trapelava a chiazze su tutta la sua persona.
+
+     Un attimo dopo volse il suo volto olivastro e sogghignante e fece un movimento con la mano. I briganti si dispersero al segnale, non in confusione, ma in quella che era evidentemente una specie di disciplina da guerriglia. Invece di occupare la [[Road|strada]] lungo il crinale, si sparpagliarono lungo il suo fianco dietro gli alberi e la siepe, come spiando invisibili un nemico. Il rumore al di là si fece più forte, cominciando a scuotere la [[Road|strada]] montana, e si udì chiaramente una voce che gridava ordini. I briganti ondeggiavano e si accalcavano, imprecando e bisbigliando, e l'aria della sera era piena di piccoli rumori metallici mentre armavano le pistole, o allentavano i coltelli, o trascinavano i foderi sulle pietre. Poi i rumori provenienti dalle due parti parvero incontrarsi sulla [[Road|strada]] in alto; i rami si spezzavano, i cavalli nitrivano, gli uomini gridavano.
+
+     «Un soccorso!» esclamò Muscari, balzando in piedi e agitando il cappello; «i gendarmi sono loro addosso! E ora sotto per la [[Freedom|libertà]] e un colpo per conquistarla! E ora a fare i ribelli contro i ladroni! Su, non lasciamo tutto alla polizia; è una cosa così tremendamente moderna. Piombiamo sulle spalle di questi furfanti. I gendarmi ci stanno soccorrendo; venite, amici, soccorriamo i gendarmi!»
+
+     E gettando il cappello oltre gli alberi, sguainò di nuovo la sciabola e cominciò a scalare il pendio su fino alla [[Road|strada]]. Frank Harrogate scattò in piedi e corse per aiutarlo, la rivoltella in pugno, ma fu sbalordito di sentirsi imperiosamente richiamato dalla voce rauca del padre, che pareva in grande agitazione.
+
+     «Non lo permetto,» disse il banchiere con voce strozzata; «ti ordino di non intrometterti.»
+
+     «Ma, padre,» disse Frank con molto calore, «un gentiluomo italiano ha aperto la via. Non vorrai che si dica che gli inglesi si sono tirati indietro.»
+
+     «È inutile,» disse il vecchio, che tremava violentemente, «è inutile. Dobbiamo sottometterci alla nostra sorte.»
+
+     [[Father Brown|Padre Brown]] guardò il banchiere; poi si portò la mano istintivamente come sul cuore, ma in realtà sulla boccettina di [[Poison|veleno]]; e un gran lume gli salì al volto come la luce della rivelazione della [[Death|morte]].
+
+     Muscari intanto, senza attendere sostegno, aveva superato la cresta del declivio fino alla [[Road|strada]], e colpì con forza sulla spalla il [[King|re]] dei briganti, facendolo barcollare e girare su se stesso. Anche Montano aveva la sciabola sguainata, e Muscari, senza altre parole, gli vibrò un fendente alla testa che egli fu costretto a bloccare e parare. Ma proprio mentre le due corte lame si incrociavano e cozzavano, il [[King|Re]] dei Ladri abbassò deliberatamente la punta e rise.
+
+     «A che pro, vecchio mio?» disse in vivace gergo italiano; «questa maledetta farsa finirà presto.»
+
+     «Che cosa intendi, imbroglione?» ansimò il [[Fire|focoso]] poeta. «Il tuo [[Courage|coraggio]] è una finzione [[Well|tanto]] quanto la tua onestà?»
+
+     «Tutto in me è una finzione,» rispose l'ex corriere di ottimo [[Humour|umore]]. «Sono un attore; e se mai ho avuto un carattere privato, l'ho dimenticato. Non sono un brigante autentico più di quanto sia un corriere autentico. Sono soltanto un fascio di maschere, e con quello non si può battersi a duello.» E rise con fanciullesco piacere e ricadde nel suo vecchio atteggiamento a gambe larghe, con le spalle alla mischia su per la [[Road|strada]].
+
+     L'oscurità si infittiva sotto le pareti montane, e non era facile discernere molto dello svolgimento della lotta, salvo che uomini alti spingevano i musi dei loro cavalli attraverso una folla aggrappata di briganti, i quali parevano più inclini a molestare e a spintonare gli invasori che a ucciderli. Somigliava più a una folla cittadina che impedisce il passaggio della polizia che a qualsiasi cosa il poeta avesse mai immaginato come l'[[Last Stand|ultima resistenza]] di uomini di [[Blood|sangue]] condannati e messi al bando. Proprio mentre [[rolling|roteava]] gli occhi nello sconcerto, sentì un tocco al gomito, e trovò lo strano piccolo prete che se ne stava lì come un piccolo Noè con un grande cappello, e chiedeva il favore di una parola o due.
+
+     «Signor Muscari,» disse il chierico, «in questa bizzarra crisi si possono perdonare le allusioni personali. Posso dirle senza offesa di un modo in cui farebbe più bene che aiutando i gendarmi, i quali riusciranno comunque a sfondare. Mi permetterà l'impertinente confidenza, ma le importa di quella ragazza? Le importa abbastanza da sposarla e da esserle un buon marito, voglio dire?»
+
+     «Sì,» disse il poeta con tutta semplicità.
+
+     «E a lei importa di lei?»
+
+     «Credo di sì,» fu la risposta ugualmente [[Grave|grave]].
+
+     «Allora vada là e si offra,» disse il prete: «le offra tutto ciò che può; le offra il cielo e la terra se li possiede. Il [[Time|tempo]] è poco.»
+
+     «Perché?» chiese lo stupito uomo di lettere.
+
+     «Perché,» disse [[Father Brown|padre Brown]], «la sua Rovina sta salendo per la [[Road|strada]].»
+
+     «Nulla sta salendo per la [[Road|strada]],» obiettò Muscari, «tranne il soccorso.»
+
+     «[[Well|Ebbene]], lei vada là,» disse il suo consigliere, «e si tenga pronto a salvarla dal soccorso.»
+
+     Quasi mentre parlava, le siepi furono rotte lungo tutto il crinale da un'ondata di briganti in fuga. Si tuffavano nei cespugli e nell'erba folta come uomini sconfitti e inseguiti; e i grandi cappelli a punta della gendarmeria a cavallo si videro passare sopra la siepe rotta. Fu dato un altro ordine; ci fu un rumore di smontare da cavallo, e un ufficiale alto, con il cappello a punta, un pizzo grigio all'imperiale e un foglio in mano, comparve nel varco che era la porta del Paradiso dei Ladri. Ci fu un momentaneo [[Silence|silenzio]], rotto in modo straordinario dal banchiere, che gridò con voce roca e strozzata: «Derubato! Sono stato derubato!»
+
+     «Ma come, è successo ore fa,» esclamò il figlio stupito: «quando ti hanno derubato di duemila sterline.»
+
+     «Non di duemila sterline,» disse il finanziere, con una brusca e terribile compostezza, «solo di una boccettina.»
+
+     Il poliziotto dal pizzo grigio attraversava a gran passi la verde conca. Incontrando sul suo cammino il [[King|Re]] dei Ladri, gli batté sulla spalla con qualcosa di mezzo tra una carezza e uno scapaccione e gli diede una spinta che lo mandò via barcollando. «Ti caccerai nei guai anche tu,» disse, «se fai questi giochetti.»
+
+     Di nuovo, all'occhio artistico di Muscari, non pareva affatto la cattura di un grande fuorilegge alle strette. Proseguendo, il poliziotto si fermò davanti al gruppo degli Harrogate e disse: «Samuel Harrogate, vi arresto in nome della legge per appropriazione indebita dei fondi della Banca di Hull e Huddersfield.»
+
+     Il grande banchiere annuì con una strana aria di assenso d'affari, parve riflettere un momento, e prima che potessero interporsi fece un mezzo giro e un passo che lo portò sull'orlo della parete montana esterna. Poi, gettando le mani in alto, balzò esattamente come era balzato dalla vettura. Ma questa [[Time|volta]] non cadde in un piccolo prato appena sottostante; cadde mille piedi più in basso, per diventare un rottame di ossa nella valle.
+
+     L'ira del poliziotto italiano, che espresse volubilmente a [[Father Brown|padre Brown]], era in gran parte mescolata ad ammirazione. «Era proprio da lui sfuggirci all'ultimo,» disse. «Era un grande brigante, se volete. Quest'ultimo suo trucco lo ritengo assolutamente senza precedenti. Fuggì con il denaro della società in [[Italy|Italia]], e si fece davvero catturare da finti briganti al suo soldo, così da spiegare tanto la scomparsa del denaro quanto la propria scomparsa. Quella richiesta di riscatto fu presa davvero sul serio dalla maggior parte della polizia. Ma per anni ha fatto cose altrettanto belle, proprio altrettanto belle. Sarà una grave perdita per la sua famiglia.»
+
+     Muscari conduceva via l'infelice figlia, che si teneva stretta a lui, come fece per molti anni ancora. Ma persino in quel tragico disastro non poté fare a meno di avere un sorriso e una mano di [[Friendship|amicizia]] semiironica per l'indifendibile Ezza Montano. «E dove andrai adesso?» gli chiese da sopra la spalla.
+
+     «A Birmingham,» rispose l'attore, tirando boccate da una sigaretta. «Non ti avevo detto che ero futurista? Credo davvero in quelle cose, se credo in qualcosa. Cambiamento, trambusto e cose nuove ogni mattina. Vado a Manchester, Liverpool, Leeds, Hull, Huddersfield, Glasgow, Chicago... in breve, verso una società illuminata, energica, civile!»
+
+     «In breve,» disse Muscari, «verso il vero Paradiso dei Ladri.»
+
+                                  TRE

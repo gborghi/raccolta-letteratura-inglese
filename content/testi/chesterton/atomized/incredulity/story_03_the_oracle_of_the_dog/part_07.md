@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/incredulity-(chesterton)">Incredulity</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/incredulity/story_03_the_oracle_of_the_dog/part_06">‹ part 06</a><a class="ex-next" href="/testi/chesterton/atomized/incredulity/story_03_the_oracle_of_the_dog/part_08">part 08 ›</a></div>
@@ -132,3 +134,42 @@ talks to the gambler.  But the devil himself would hardly have
 induced that unhappy man to go down in a dull, deliberate way
 and kill an old uncle from whom he'd always had expectations.
 It would be too respectable.'
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/incredulity-(chesterton)">Incredulity</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/incredulity/story_03_the_oracle_of_the_dog/part_06">‹ part 06</a><a class="ex-next" href="/testi/chesterton/atomized/incredulity/story_03_the_oracle_of_the_dog/part_08">part 08 ›</a></div>
+</nav>
+
+«Ma quando arriviamo a quella faccenda in riva al mare, le cose si fanno molto più interessanti. Così come le avete raccontate, erano molto più sconcertanti. Non capivo quella storia del cane che entrava e usciva dall'[[Water|acqua]]; non mi pareva una cosa da cani. Se Nox fosse stato davvero sconvolto per qualcos'altro, forse si sarebbe rifiutato del tutto di andare a prendere il bastone. Probabilmente sarebbe corso a fiutare in qualunque direzione avesse sospettato il maleficio. Ma una volta che un cane sta effettivamente inseguendo una cosa, una pietra o un bastone o un coniglio, la mia esperienza è che non si ferma per nulla se non per l'ordine più perentorio, e non sempre nemmeno per quello. Che si volti perché il suo umore è cambiato mi pare inconcepibile.»
+
+«Eppure si voltò», insisté Fiennes; «e tornò indietro senza il bastone.»
+
+«Tornò indietro senza il bastone per la migliore ragione del mondo», replicò il prete. «Tornò indietro perché non riusciva a trovarlo. Guaì perché non riusciva a trovarlo. È proprio del genere di cose per cui un cane davvero guaisce. Un cane è un ritualista indiavolato. È pignolo sull'esatta procedura di un gioco quanto un [[Child|bambino]] sull'esatta ripetizione di una fiaba. In questo caso qualcosa era andato storto nel gioco. Tornò indietro a lamentarsi seriamente della condotta del bastone. Mai era accaduta una cosa simile. Mai un cane eminente e distinto era stato trattato così da un vecchio bastone da passeggio marcio.»
+
+«Ma cosa aveva fatto, il bastone da passeggio?» domandò il giovane.
+
+«Era affondato», disse [[Father Brown]].
+
+Fiennes non disse nulla, ma continuò a fissarlo; e fu il prete a proseguire: «Era affondato perché in realtà non era un bastone, ma un'asta d'acciaio con un guscio sottilissimo di canna e una punta aguzza. In altre parole, era un bastone animato. Immagino che un assassino non si liberi mai di un'arma insanguinata in modo tanto bizzarro eppure tanto naturale come gettandola in mare per un cane da riporto.»
+
+«Comincio a capire cosa intendete», ammise Fiennes; «ma anche ammesso che sia stato usato un bastone animato con [[Sword|spada]], non ho idea di come sia stato usato.»
+
+«Io una specie d'idea l'ho avuta», disse Padre Brown, «fin dal principio, quando avete detto la parola [[Summer|padiglione]] d'[[house|estate]]. E un'altra quando avete detto che Druce indossava una giacca bianca. Finché tutti cercavano un pugnale corto, nessuno ci pensava; ma se ammettiamo una lama piuttosto lunga come uno stocco, non è poi così impossibile.»
+
+Se ne stava reclinato all'indietro, gli occhi al soffitto, e cominciò come uno che ritorna ai propri primi pensieri e ai fondamenti.
+
+«Tutta quella discussione sui romanzi polizieschi come La camera gialla, su un uomo trovato morto in stanze sigillate in cui nessuno poteva entrare, non si applica al presente caso, perché si tratta di un padiglione d'estate. Quando parliamo di una Camera Gialla, o di una qualsiasi stanza, sottintendiamo pareti davvero omogenee e impenetrabili. Ma un padiglione d'estate non è fatto così; spesso è fatto, come in questo caso, di rami e strisce di legno strettamente intrecciati ma distinti, in cui qua e là ci sono delle fessure. Ce n'era una proprio dietro la schiena di Druce, mentre sedeva sulla sua sedia addossato alla parete. Ma proprio come la stanza era un padiglione d'estate, così la sedia era una sedia di vimini. Anch'essa era un reticolo di feritoie. Infine, il padiglione d'estate era addossato alla siepe; e voi stesso mi avete appena detto che era davvero una siepe rada. Un uomo che stesse in piedi al di fuori poteva facilmente scorgere, in mezzo a una rete di ramoscelli, rami e canne, un solo punto bianco della giacca del Colonnello, netto come il bianco di un bersaglio.
+
+«Ora, avete lasciato la geografia un po' vaga; ma era possibile fare due più due. Avete detto che la Rupe della Fortuna non era in realtà alta; ma avete anche detto che la si vedeva dominare il [[Garden|giardino]] come una vetta di montagna. In altre parole, era proprio vicino al fondo del [[Garden|giardino]], per quanto la vostra passeggiata vi avesse fatto compiere un lungo giro per arrivarci. Inoltre, non è probabile che la signorina abbia davvero gridato tanto da farsi sentire a mezzo miglio. Emise un ordinario grido involontario, eppure voi lo udiste sulla riva. E fra le altre cose interessanti che mi avete raccontato, posso ricordarvi che avete detto che Harry Druce era rimasto indietro per accendersi la pipa sotto una siepe.»
+
+Fiennes rabbrividì leggermente. «Volete dire che estrasse là la sua lama e la spinse attraverso la siepe fino al punto bianco. Ma di certo fu un caso ben strano e una scelta ben improvvisa. E poi non poteva essere certo che il denaro del vecchio fosse passato a lui, e di fatto non era così.»
+
+Il volto di Padre Brown si animò. «Fraintendete il carattere dell'uomo», disse, come se lo avesse conosciuto per tutta la vita. «Un tipo di carattere curioso ma non ignoto. Se avesse davvero saputo che il denaro gli sarebbe toccato, credo seriamente che non l'avrebbe fatto. Lo avrebbe visto per la cosa sordida che era.»
+
+«Non è piuttosto paradossale?» chiese l'altro.
+
+«Quest'uomo era un giocatore d'azzardo», disse il prete, «e un uomo in disgrazia per aver corso dei rischi e anticipato gli ordini. Probabilmente per qualcosa di piuttosto privo di scrupoli, perché ogni polizia imperiale somiglia a una polizia segreta russa più di quanto ci piaccia pensare. Ma aveva oltrepassato il limite e aveva fallito. Ebbene, la [[Temptation|tentazione]] di quel tipo d'uomo è di compiere una follia proprio perché il rischio sarà meraviglioso a ripensarci. Vuole poter dire: “Nessuno tranne me avrebbe saputo cogliere quell'occasione o vedere che era allora o mai più. Che azzardo folle e meraviglioso fu, quando misi insieme tutte quelle cose; Donald in disgrazia; e il notaio mandato a chiamare; e Herbert e io mandati a chiamare nello stesso momento… e poi nient'altro se non il modo in cui il vecchio mi sogghignava e mi stringeva la mano. Chiunque direbbe che ero pazzo a rischiare; ma è così che si fanno le fortune, per opera dell'uomo abbastanza pazzo da avere un po' di preveggenza”. In breve, è la vanità dell'indovinare. È la megalomania del giocatore d'azzardo. Più incongrua è la coincidenza, più istantanea la decisione, più è probabile che afferri l'occasione. Il caso, la banalità stessa del puntino bianco e del buco nella siepe lo inebriarono come una visione del desiderio del mondo. Nessuno abbastanza intelligente da vedere una simile combinazione di casualità poteva essere abbastanza codardo da non servirsene! È così che il diavolo parla al giocatore d'azzardo. Ma il diavolo stesso avrebbe faticato a indurre quel disgraziato a scendere in modo scialbo e premeditato per uccidere un vecchio zio da cui aveva sempre avuto delle aspettative. Sarebbe stato troppo rispettabile.»

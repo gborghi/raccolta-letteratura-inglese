@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/innocence-(chesterton)">The Innocence of Father Brown</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/innocence/story_12_the_three_tools_of_death/part_02">‹ part 02</a><a class="ex-next" href="/testi/chesterton/atomized/innocence/story_12_the_three_tools_of_death/part_04">part 04 ›</a></div>
@@ -156,3 +158,76 @@ my box that was found on the corpse, and it was from my window
 the corpse was thrown.  You need not set detectives to grub
 up my tragedy; it is a common enough weed in this world.
 I give myself to the gallows; and, by God, that is enough!"
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/innocence-(chesterton)">The Innocence of Father Brown</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/innocence/story_12_the_three_tools_of_death/part_02">‹ part 02</a><a class="ex-next" href="/testi/chesterton/atomized/innocence/story_12_the_three_tools_of_death/part_04">part 04 ›</a></div>
+</nav>
+
+# [[innocence]] — I tre strumenti della [[Death|morte]] (parte 3)
+
+«Che cosa intende?» chiese l'altro bruscamente. «Non lo avete arrestato?»
+
+Un lieve disprezzo allargò la bocca simile a una fessura, e il fischio di un treno in avvicinamento parve stranamente far eco a quello scherno.
+
+«Lo abbiamo arrestato», rispose il sergente con gravità, «proprio mentre usciva dalla stazione di polizia di Highgate, dove aveva depositato tutto il denaro del suo padrone nelle mani dell'ispettore Robinson.»
+
+Gilder guardò il domestico con assoluto stupore. «Perché diavolo lo ha fatto?» chiese a Magnus.
+
+«Per metterlo al sicuro dal criminale, naturalmente», rispose quello placidamente.
+
+«Ma di certo», disse Gilder, «il denaro di Sir Aaron poteva essere lasciato senza pericolo alla famiglia di Sir Aaron.»
+
+La coda della sua frase fu sommersa dal fragore del treno che passava sobbalzando e sferragliando; ma attraverso tutto l'inferno di rumori a cui quella casa infelice era periodicamente soggetta, poterono udire le sillabe della risposta di Magnus, in tutta la loro nitidezza di campana: «Non ho alcuna ragione di aver fiducia nella famiglia di Sir Aaron.»
+
+Tutti gli uomini immobili ebbero la spettrale sensazione della presenza di una persona nuova; e Merton non si sorprese troppo quando, alzando gli occhi, vide il pallido volto della figlia di Armstrong al di sopra della spalla di Father Brown. Era ancora giovane e bella, in uno stile argenteo, ma i suoi capelli erano di un castano così polveroso e smorto che in certe ombre parevano essere diventati del tutto grigi.
+
+«Faccia attenzione a ciò che dice», disse Royce burbero, «spaventerà la signorina Armstrong.»
+
+«Lo spero bene», disse l'uomo dalla voce limpida.
+
+Mentre la donna sussultava e tutti gli altri si stupivano, egli proseguì: «Sono in qualche modo abituato ai tremori della signorina Armstrong. L'ho vista tremare a intermittenza per anni. E alcuni dicevano che tremasse di freddo, altri di paura, ma io so che tremava d'odio e di malvagia ira: demoni che stamattina hanno banchettato. A quest'ora sarebbe già lontana, col suo amante e con tutto il denaro, se non fosse stato per me. Da quando il mio povero vecchio padrone le impedì di sposare quel farabutto ubriacone...»
+
+«Basta», disse Gilder con grande severità. «Non abbiamo nulla a che fare con le sue fantasie o i suoi sospetti familiari. A meno che lei non abbia qualche prova concreta, le sue semplici opinioni...»
+
+«Oh! Le darò una prova concreta», tagliò corto Magnus, con il suo accento aspro. «Dovrà citarmi in giudizio, signor ispettore, e io dovrò dire la verità. E la verità è questa: un istante dopo che il vecchio fu scaraventato sanguinante fuori dalla finestra, corsi nella soffitta e vi trovai sua figlia svenuta sul pavimento, con ancora in mano un pugnale rosso. Permettetemi di consegnare anche questo alle debite autorità.» Estrasse dalla tasca posteriore un lungo coltello dal manico di corno, macchiato di rosso, e lo porse cortesemente al sergente. Poi indietreggiò di nuovo, e le sue fessure d'occhi quasi svanirono dal volto in un solo, grasso sogghigno cinese.
+
+Merton provò una nausea quasi fisica alla vista di lui; e mormorò a Gilder: «Vorrà pure credere alla parola della signorina Armstrong contro la sua?»
+
+Father Brown sollevò a un tratto un volto così assurdamente fresco che pareva, chissà come, se lo fosse appena lavato. «Sì», disse, irradiando innocenza, «ma la parola della signorina Armstrong è contro la sua?»
+
+La ragazza emise un piccolo grido trasalito, singolare; tutti la guardarono. La sua figura era rigida come paralizzata; solo il volto, entro la cornice dei tenui capelli castani, era vivo di una sorpresa spaventosa. Stava come chi sia stato all'improvviso preso al lazo e strozzato.
+
+«Quest'uomo», disse il signor Gilder con gravità, «afferma addirittura che lei è stata trovata, priva di sensi, stringendo un coltello dopo l'omicidio.»
+
+«Dice il vero», rispose Alice.
+
+Il fatto successivo di cui ebbero coscienza fu che Patrick Royce avanzò a grandi passi, con la sua grande testa curva, dentro il loro cerchio, e pronunciò queste singolari parole: «Beh, se devo andarci di mezzo, prima voglio togliermi una soddisfazione.»
+
+L'enorme spalla si sollevò e scagliò un pugno di ferro contro il volto blando e mongolico di Magnus, stendendolo sul prato piatto come una stella marina. Due o tre poliziotti misero all'istante le mani su Royce; ma agli altri parve che ogni ragione si fosse dissolta e che l'universo si stesse mutando in una farsa da arlecchini senza cervello.
+
+«Niente di tutto ciò, signor Royce», aveva gridato Gilder con tono d'autorità. «La arresterò per aggressione.»
+
+«No, non lo farà», rispose il segretario con voce da gong di ferro, «mi arresterà per omicidio.»
+
+Gilder lanciò uno sguardo allarmato all'uomo abbattuto; ma poiché quell'offeso stava già rimettendosi seduto e asciugandosi un po' di sangue da un volto sostanzialmente illeso, si limitò a dire brevemente: «Che cosa vuol dire?»
+
+«È del tutto vero, come dice costui», spiegò Royce, «che la signorina Armstrong è svenuta con un coltello in mano. Ma non aveva afferrato il coltello per aggredire suo padre, bensì per difenderlo.»
+
+«Per difenderlo», ripeté Gilder gravemente. «Da chi?»
+
+«Da me», rispose il segretario.
+
+Alice lo guardò con un volto complesso e sconcertante; poi disse a bassa voce: «Dopo tutto questo, sono ancora contenta che tu sia coraggioso.»
+
+«Salite di sopra», disse Patrick Royce con pesantezza, «e vi mostrerò tutta questa maledetta faccenda.»
+
+La soffitta, che era il rifugio privato del segretario (e una cella piuttosto piccola per un eremita tanto grande), recava in effetti tutte le tracce di un dramma violento. Vicino al centro del pavimento giaceva una grossa rivoltella, come gettata via; più verso sinistra era rotolata una bottiglia di whisky, aperta ma non del tutto vuota. Il panno del tavolino era stato trascinato e calpestato, e uno spezzone di corda, simile a quello trovato sul cadavere, giaceva scagliato scompostamente sul davanzale. Due vasi erano andati in frantumi sulla mensola del camino e uno sul tappeto.
+
+«Ero ubriaco», disse Royce; e questa semplicità, in quell'uomo prematuramente devastato, aveva chissà come il patetismo del primo peccato di un bambino.
+
+«Sapete tutto di me», proseguì con voce roca; «tutti sanno come cominciò la mia storia, e tanto vale che finisca anche allo stesso modo. Un tempo mi chiamavano un uomo intelligente, e sarei potuto essere felice; Armstrong salvò dalle taverne ciò che restava di un cervello e di un corpo, e fu sempre buono con me a modo suo, pover'uomo! Solo, non volle lasciarmi sposare Alice, qui presente; e si dirà sempre che aveva perfettamente ragione. Ebbene, potete trarre le vostre conclusioni, e non vorrete che io entri nei dettagli. Quella è la mia bottiglia di whisky mezza vuota nell'angolo; quella è la mia rivoltella del tutto scarica sul tappeto. Era la corda del mio baule quella trovata sul cadavere, ed è dalla mia finestra che il cadavere è stato gettato. Non c'è bisogno che mandiate i detective a scavare nella mia tragedia; è un'erbaccia abbastanza comune, a questo mondo. Mi consegno alla forca; e, per Dio, tanto basta!»

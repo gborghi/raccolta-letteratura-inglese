@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/thursday-(chesterton)">The Man Who Was Thursday</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/thursday/chapter_02/part_03">‹ part 03</a><a class="ex-next" href="/testi/chesterton/atomized/thursday/chapter_03/part_02">part 02 ›</a></div>
@@ -143,3 +145,143 @@ the last secret of his virtue and his [[innocence]]."
 There was a stir of almost inaudible applause, such as is sometimes heard
 in church.  Then a large old man, with a long and venerable white beard,
 perhaps the only real working-man present, [[Rose|rose]] lumberingly and said--
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/thursday-(chesterton)">The Man Who Was Thursday</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/thursday/chapter_02/part_03">‹ part 03</a><a class="ex-next" href="/testi/chesterton/atomized/thursday/chapter_03/part_02">part 02 ›</a></div>
+</nav>
+
+# [[thursday]] — Capitolo 3 (parte 1)
+
+                         CAPITOLO III
+
+                  L'UOMO CHE FU [[thursday|GIOVEDÌ]]
+
+PRIMA che uno di quei volti freschi potesse affacciarsi sulla soglia,
+lo sbigottimento attonito di Gregory era già svanito da lui.  Con un balzo
+fu accanto al tavolo, e dalla gola gli uscì un rumore da bestia feroce.
+Afferrò la rivoltella Colt e prese la mira su Syme.  Syme non
+batté ciglio, ma levò una mano pallida e cortese.
+
+«Non faccia lo sciocco» disse, con la
+dignità effeminata di un curato.  «Non vede che è inutile?
+Non vede che siamo tutti e due sulla stessa barca?
+Sì, e per giunta ben nauseati dal mare.»
+
+Gregory non riusciva a parlare, ma non riusciva nemmeno a [[Fire|far fuoco]],
+e la sua domanda la esprimeva con lo sguardo.
+
+«Non vede che ci siamo dati scacco matto a vicenda?»
+gridò Syme.  «Io non posso dire alla polizia che lei è un anarchico.
+Lei non può dire agli anarchici che io sono un poliziotto.  Posso solo osservarla,
+sapendo ciò che lei è; lei può solo osservare me, sapendo ciò che io sono.
+Insomma, è un solitario duello intellettuale, la mia testa contro la sua.
+Io sono un poliziotto privato dell'aiuto della polizia.
+Lei, povero amico mio, è un anarchico privato dell'aiuto
+di quella legge e di quell'organizzazione che sono così essenziali all'anarchia.
+L'unica differenza è a suo vantaggio.
+Lei non è circondato da poliziotti curiosi; io sono circondato
+da anarchici curiosi.  Io non posso tradire lei, ma potrei
+tradire me stesso.  Su, su! Aspetti e mi guardi tradirmi.
+Lo farò tanto bene.»
+
+Gregory posò lentamente la [[Pistol|pistola]], continuando a fissare Syme
+come se fosse un [[Monster|mostro]] marino.
+
+«Io non credo nell'[[Immortality|immortalità]]» disse infine, «ma se, dopo tutto questo,
+lei venisse meno alla parola data, Dio farebbe un inferno solo per lei, perché
+vi ululasse in eterno.»
+
+«Io non verrò meno alla mia parola» disse Syme severamente, «né lei verrà meno alla sua.
+Ecco i suoi amici.»
+
+La massa degli anarchici entrò nella stanza pesantemente, con andatura
+strascicata e alquanto stanca; ma un ometto, con la barba nera e gli occhiali —
+un uomo del tipo pressappoco del signor Tim Healy — si staccò dal gruppo, e si fece avanti
+affaccendato con certe carte in mano.
+
+«Compagno Gregory» disse, «suppongo che quest'uomo sia un delegato?»
+
+Gregory, colto di sorpresa, abbassò lo sguardo e mormorò il nome di Syme;
+ma Syme replicò quasi con impertinenza —
+
+«Sono lieto di vedere che il vostro cancello è custodito abbastanza [[Well|bene]] da rendere
+difficile a chiunque non sia un delegato di trovarsi qui.»
+
+La fronte dell'ometto dalla barba nera era però ancora contratta
+in qualcosa che somigliava al sospetto.
+
+«Quale sezione rappresentate?» chiese bruscamente.
+
+«Difficilmente la chiamerei una sezione» disse Syme, ridendo; «la chiamerei
+tutt'al più una radice.»
+
+«Che cosa intendete?»
+
+«Il fatto è» disse Syme serenamente, «la [[Truth|verità]] è che sono un sabbatario.  Sono
+stato mandato qui appositamente per verificare che voi diate la debita osservanza alla [[Sunday|Domenica]].»
+
+L'ometto lasciò cadere una delle sue carte, e un guizzo di [[Fear|paura]] passò
+su tutti i volti del gruppo.  Evidentemente il terribile Presidente,
+il cui nome era [[Sunday|Domenica]], mandava talvolta ambasciatori tanto
+irregolari a simili riunioni di sezione.
+
+«[[Well|Bene]], compagno» disse l'uomo dalle carte dopo una pausa,
+«suppongo che faremmo meglio a darvi un posto nella riunione?»
+
+«Se chiedete il mio consiglio come amico» disse Syme con severa benevolenza,
+«credo che fareste meglio.»
+
+Quando Gregory udì concludersi quel dialogo pericoloso, con un'improvvisa salvezza
+per il suo rivale, si [[Rose|alzò]] di scatto e prese a percorrere la stanza in penoso pensiero.
+Era, in verità, in un'agonia di diplomazia.  Era chiaro che la sfrontatezza ispirata di Syme
+sarebbe con ogni probabilità riuscita a trarlo fuori da tutti i dilemmi meramente accidentali.
+Da essi c'era poco da sperare.  Non poteva tradire Syme di persona,
+in parte per [[Honour|onore]], ma in parte anche perché, se lo avesse tradito
+e per qualche ragione non fosse riuscito a distruggerlo, il Syme scampato
+sarebbe stato un Syme liberato da ogni obbligo di segretezza, un Syme che
+sarebbe semplicemente andato al più vicino posto di polizia.  Dopotutto, era solo
+la discussione di una [[Night|notte]], e solo un [[Detective|detective]] ne sarebbe stato al corrente.
+Avrebbe lasciato trapelare il meno possibile dei loro piani quella [[Night|notte]],
+poi avrebbe lasciato andare Syme, e avrebbe corso il rischio.
+
+Si diresse a grandi passi verso il gruppo di anarchici, che già si distribuiva
+lungo le panche.
+
+«Credo sia [[Time|ora]] di cominciare» disse; «il rimorchiatore a vapore aspetta
+già sul [[River|fiume]].  Propongo che il compagno Buttons assuma la presidenza.»
+
+Approvato ciò per alzata di mano, l'ometto dalle carte
+scivolò nel seggio presidenziale.
+
+«Compagni» esordì, secco come un colpo di [[Pistol|pistola]], «la nostra
+riunione di sta[[Night|notte]] è importante, per quanto non debba essere lunga.
+Questa sezione ha sempre avuto l'[[Honour|onore]] di eleggere i Giovedì
+per il Consiglio Centrale Europeo.  Abbiamo eletto molti
+e splendidi Giovedì.  Tutti rimpiangiamo la triste dipartita
+dell'eroico lavoratore che occupò la carica fino alla settimana scorsa.
+Come sapete, i suoi servigi alla causa furono considerevoli.
+Organizzò il grande colpo di dinamite di Brighton che,
+in circostanze più felici, avrebbe dovuto uccidere tutti
+quelli che erano sul molo.  Come pure sapete, la sua [[Death|morte]] fu di [[Self|abnegazione]]
+tanto quanto la sua vita, poiché morì per la [[Faith|fede]] che riponeva in una miscela igienica
+di [[chalk|gesso]] e [[Water|acqua]] come surrogato del latte, bevanda
+che egli riteneva barbara, in quanto implicante crudeltà verso la mucca.
+La crudeltà, o qualsiasi cosa che le si avvicinasse, lo rivoltava sempre.
+Ma non è per acclamarne le virtù che ci siamo riuniti,
+bensì per un compito più arduo.  È difficile lodare adeguatamente
+le sue qualità, ma è ancora più difficile sostituirle.
+A voi, compagni, spetta questa sera di scegliere fra
+i presenti l'uomo che sarà [[thursday|Giovedì]].  Se qualche
+compagno propone un nome, lo metterò ai voti.  Se nessun compagno
+propone un nome, potrò solo dire a me stesso che quel caro dinamitardo,
+che ci ha lasciati, ha portato con sé negli abissi inconoscibili
+l'ultimo segreto della sua virtù e della sua [[innocence|innocenza]].»
+
+Vi fu un fremito di applausi quasi impercettibili, come talvolta si sente
+in chiesa.  Poi un grande vecchio, con una lunga e veneranda barba bianca,
+forse l'unico vero operaio presente, si [[Rose|alzò]] goffamente e disse —

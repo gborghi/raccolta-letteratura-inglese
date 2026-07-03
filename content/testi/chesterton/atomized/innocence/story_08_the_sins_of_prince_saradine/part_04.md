@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/innocence-(chesterton)">The Innocence of Father Brown</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/innocence/story_08_the_sins_of_prince_saradine/part_03">‹ part 03</a><a class="ex-next" href="/testi/chesterton/atomized/innocence/story_08_the_sins_of_prince_saradine/part_05">part 05 ›</a></div>
@@ -132,3 +134,132 @@ The prince, whatever he was, was evidently not a coward; he sprang
 at his enemy's throat and almost bore him backwards to the grass.
 But his enemy extricated himself with a singularly inappropriate
 air of hurried politeness.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/innocence-(chesterton)">The Innocence of Father Brown</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/innocence/story_08_the_sins_of_prince_saradine/part_03">‹ part 03</a><a class="ex-next" href="/testi/chesterton/atomized/innocence/story_08_the_sins_of_prince_saradine/part_05">part 05 ›</a></div>
+</nav>
+
+# [[innocence]] — I peccati del principe Saradine (parte 4)
+
+Invero, con tutta la sua dignità di uomo di mondo,
+il principe Saradine irradiava, a osservatori così sensibili come il prete,
+una certa atmosfera di irrequietezza e perfino di inaffidabilità.
+Il suo volto era schizzinoso, ma il suo occhio era selvaggio; aveva piccoli
+tic nervosi, come un uomo scosso dal bere o dalle droghe, e non aveva,
+né professava di avere, la mano sul timone degli affari domestici.
+Tutto ciò era lasciato ai due vecchi domestici, specialmente al
+maggiordomo, che era palesemente il pilastro centrale della [[house|casa]].
+Mr. Paul, in verità, non era tanto un maggiordomo quanto una sorta di
+intendente o, addirittura, ciambellano; pranzava in privato, ma con quasi
+tanta pompa quanta il suo padrone; era temuto da tutti i domestici;
+e si consultava col principe con decoro, ma con qualche rigidità —
+piuttosto come se fosse il legale del principe. La cupa governante
+era in confronto una mera [[Shadow|ombra]]; anzi, sembrava cancellare
+se stessa e servire soltanto il maggiordomo, e Brown non udì più
+quei sussurri vulcanici che gli avevano per metà rivelato del fratello
+minore che ricattava il maggiore. Se il principe fosse davvero
+così dissanguato dal capitano assente, non poteva esserne certo,
+ma c'era qualcosa di malsicuro e segreto in Saradine
+che rendeva il racconto tutt'altro che incredibile.
+
+Quando entrarono di nuovo nella lunga sala con le finestre e gli specchi,
+la sera gialla scendeva sulle acque e sugli argini di salici;
+e un tarabuso risuonò in lontananza come un elfo sul suo tamburo da nano.
+Il medesimo singolare sentimento di un triste e malvagio paese delle fate attraversò
+di nuovo la mente del prete come una piccola nube grigia. «Vorrei che [[Flambeau]]
+fosse tornato», mormorò.
+
+«Credete nel fato?» chiese all'improvviso l'irrequieto principe Saradine.
+
+«No», rispose l'ospite. «Credo nel Giorno del Giudizio.»
+
+Il principe si allontanò dalla [[Window|finestra]] e lo fissò in modo
+singolare, il volto in [[Shadow|ombra]] contro il tramonto.
+«Che cosa intendete?» chiese.
+
+«Intendo che noi qui siamo sul rovescio dell'arazzo»,
+rispose [[Father Brown]]. «Le cose che accadono qui non
+sembrano significare nulla; significano qualcosa altrove.
+Altrove la punizione ricadrà sul vero colpevole.
+Qui spesso sembra ricadere sulla persona sbagliata.»
+
+Il principe emise un rumore inspiegabile come un animale;
+nel suo volto in ombra gli occhi brillavano stranamente.
+Un pensiero nuovo e acuto esplose in silenzio nella mente dell'altro.
+C'era un altro significato in quella miscela di brillantezza
+e bruschezza di Saradine? Il principe era — Era perfettamente sano di mente?
+Ripeteva: «La persona sbagliata — la persona sbagliata»,
+molte più volte di quanto fosse naturale in un'esclamazione mondana.
+
+Poi [[Father Brown]] si destò tardivamente a una seconda [[Truth|verità]].
+Negli specchi davanti a sé poteva vedere la porta silenziosa
+spalancata, e il silenzioso Mr. Paul ritto in essa,
+con la sua consueta pallida impassibilità.
+
+«Ho ritenuto meglio annunciare subito», disse, con la stessa rigida
+deferenza di un vecchio avvocato di famiglia, «che una barca a remi con sei uomini è
+giunta all'approdo, e c'è un gentiluomo seduto a poppa.»
+
+«Una barca!» ripeté il principe; «un gentiluomo?» e si [[Rose|levò]] in piedi.
+
+Vi fu un [[Silence|silenzio]] trasalito, punteggiato soltanto dal bizzarro verso
+dell'uccello tra i carici; e poi, prima che alcuno potesse parlare di nuovo,
+un nuovo volto e una nuova figura passarono di profilo dinanzi alle tre
+finestre assolate, come il principe era passato un'ora o due prima.
+Ma a parte l'accidente che entrambi i profili erano aquilini,
+avevano poco in comune. Invece del nuovo cilindro bianco
+di Saradine, ce n'era uno nero di foggia antiquata o straniera;
+sotto di esso c'era un volto giovane e assai solenne, ben rasato,
+azzurrognolo attorno al mento risoluto, e recante una debole traccia
+del giovane Napoleone. L'associazione era favorita da
+qualcosa di antico e strano in tutto l'abbigliamento, come di un uomo
+che non si fosse mai curato di cambiare le mode dei propri padri.
+Aveva una logora finanziera azzurra, un panciotto rosso
+dall'aria marziale, e una sorta di rozzi calzoni bianchi comuni tra
+i primi vittoriani, ma stranamente incongrui oggigiorno.
+Da tutto questo mercato di abiti smessi il suo volto olivastro spiccava stranamente
+giovane e mostruosamente sincero.
+
+«Diavolo!» disse il principe Saradine, e calcandosi il cilindro bianco andò
+egli stesso alla porta d'ingresso, spalancandola sul [[Garden|giardino]] al tramonto.
+
+A quel [[Time|punto]] il nuovo venuto e i suoi seguaci erano schierati sul prato come
+un piccolo esercito da palcoscenico. I sei barcaioli avevano tirato la barca [[Well|ben]] su a riva,
+e la sorvegliavano quasi minacciosamente, tenendo i remi eretti come lance.
+Erano uomini scuri di carnagione, e alcuni di essi portavano orecchini. Ma uno di loro
+si teneva in avanti accanto al giovane dal volto olivastro nel panciotto rosso,
+e recava una grande custodia nera di forma insolita.
+
+«Il vostro nome», disse il giovane, «è Saradine?»
+
+Saradine assentì piuttosto con negligenza.
+
+Il nuovo venuto aveva occhi bruni spenti, canini, quanto più
+possibile diversi dagli irrequieti e scintillanti occhi grigi del principe.
+Ma ancora una volta [[Father Brown]] fu tormentato dalla sensazione di aver
+visto da qualche parte una replica di quel volto; e ancora una volta si ricordò
+delle ripetizioni della stanza dai pannelli di vetro, e attribuì la
+coincidenza a quello. «Maledetto questo palazzo di cristallo!» mormorò.
+«Si vede ogni cosa troppe volte. È come [[A Dream|un sogno]].»
+
+«Se siete il principe Saradine», disse il giovane, «posso dirvi
+che il mio nome è Antonelli.»
+
+«Antonelli», ripeté il principe languidamente. «Chissà come, ricordo il nome.»
+
+«Permettetemi di presentarmi», disse il giovane italiano.
+
+Con la mano sinistra si tolse cortesemente il suo cilindro all'antica;
+con la destra assestò al principe Saradine uno schiaffo così sonoro
+sul volto che il cilindro bianco rotolò giù per i gradini
+e uno dei vasi di fiori azzurri vacillò sul suo piedistallo.
+
+Il principe, qualunque cosa fosse, non era evidentemente un codardo; balzò
+alla gola del nemico e per poco non lo rovesciò all'indietro sull'erba.
+Ma il suo nemico si districò con un'aria singolarmente inappropriata
+di frettolosa cortesia.

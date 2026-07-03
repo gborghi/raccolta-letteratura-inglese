@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/everlasting-man-(chesterton)">The Everlasting Man</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/everlasting_man/chapter_03/part_02">‹ part 02</a><a class="ex-next" href="/testi/chesterton/atomized/everlasting_man/chapter_03/part_04">part 04 ›</a></div>
@@ -173,3 +175,172 @@ Nobody understands the nature of the Church, or the ringing note
 of the creed descending from antiquity, who does not realise
 that the whole world once very nearly died of broadmindedness
 and the brotherhood of all religions.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/everlasting-man-(chesterton)">The Everlasting Man</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/everlasting_man/chapter_03/part_02">‹ part 02</a><a class="ex-next" href="/testi/chesterton/atomized/everlasting_man/chapter_03/part_04">part 04 ›</a></div>
+</nav>
+
+E ciò che essi trovarono era della stessa natura delle cose che cercavano.
+La gente comune si era sbagliata in molte cose; ma non si era
+sbagliata nel credere che le cose sacre potessero avere una dimora
+e che la divinità non dovesse sdegnare i limiti del [[Time|tempo]] e dello spazio.
+E il barbaro che concepì la più rozza fantasia sul sole
+rubato e nascosto in una cassa, o il mito più selvaggio sul dio
+soccorso e sul suo nemico ingannato con una pietra, era più vicino
+al segreto della [[Cave|caverna]] e sapeva più cose sulla crisi del mondo
+di tutti coloro che, nel cerchio delle città intorno al Mediterraneo, si erano
+accontentati di fredde astrazioni o di generalizzazioni cosmopolite;
+di tutti coloro che filavano fili di pensiero sempre più sottili
+traendoli dal trascendentalismo di Platone o dall'orientalismo di Pitagora.
+Il luogo che i pastori trovarono non era un'accademia né una
+repubblica astratta, non era un luogo di miti allegorizzati o sezionati
+o spiegati o spiegati via.  Era un luogo di [[Dreams|sogni]] avverati.
+Da quell'ora non sono più stati creati miti nel mondo.
+La mitologia è una ricerca.
+
+Tutti sappiamo che la rappresentazione popolare di questa storia popolare,
+in tanti drammi sacri e canti natalizi, ha dato ai pastori
+i costumi, la lingua e il paesaggio delle diverse
+campagne inglesi ed europee.  Tutti sappiamo che un
+pastore parlerà in un dialetto del Somerset o un altro parlerà di
+spingere le sue pecore da Conway verso il Clyde.  I più di noi sanno
+a questo [[Time|punto]] quanto sia vero quell'errore, quanto sia saggio, quanto sia artistico,
+quanto intensamente cristiano e cattolico sia quell'anacronismo.
+Ma alcuni che l'hanno visto in queste scene di rusticità medievale
+forse non l'hanno visto in un'altra sorta di poesia, quella che a volte
+si usa chiamare artificiosa piuttosto che artistica.
+[[Fear|Temo]] che molti critici moderni vedranno soltanto uno stinto classicismo
+nel fatto che uomini come Crashaw e Herrick concepirono i pastori
+di Betlemme sotto la forma dei pastori di Virgilio.
+Eppure avevano profondamente ragione; e trasformando la loro sacra rappresentazione betlemita
+in un'Ecloga latina raccolsero uno degli anelli più importanti
+della [[history|storia]] umana.  Virgilio, come già abbiamo visto, sta bensì per
+tutto quel paganesimo più sano che aveva rovesciato l'insano paganesimo
+del sacrificio umano; ma il fatto stesso che perfino le virtù
+virgiliane e il sano paganesimo fossero in inguaribile [[Decay|decadenza]] è tutto
+il problema di cui la rivelazione ai pastori è la soluzione.
+Se il mondo avesse mai avuto occasione di stancarsi dell'essere
+demoniaco, avrebbe potuto essere guarito semplicemente col tornare sano.
+Ma se si era stancato perfino dell'essere sano, che cosa poteva accadere,
+se non ciò che accadde?  Né è falso concepire il pastore arcadico
+delle Ecloghe come esultante di ciò che accadde.  Una
+delle Ecloghe è stata perfino rivendicata come profezia di ciò che accadde.
+Ma è altrettanto nel tono e nella dizione incidentale del grande
+poeta che avvertiamo la potenziale simpatia con il grande evento;
+e perfino nelle loro stesse frasi umane le voci dei pastori
+virgiliani più d'una volta avrebbero potuto rompersi in qualcosa di più
+della tenerezza dell'[[Italy|Italia]]: «Incipe, parve puer, risu cognoscere matrem.»
+Essi avrebbero potuto trovare in quello strano luogo tutto il meglio
+delle ultime tradizioni dei Latini; e qualcosa di migliore di un
+idolo di legno eretto in eterno a colonna della famiglia umana:
+un dio domestico.  Ma essi e tutti gli altri mitologi
+sarebbero giustificati nell'esultare per il fatto che l'evento aveva compiuto
+non solo il misticismo ma il materialismo della mitologia.
+La mitologia ebbe molti peccati; ma non si era sbagliata nell'essere
+carnale quanto l'Incarnazione.  Ma qualcosa dell'antica voce
+che si supponeva avesse risuonato per le tombe, poteva
+gridare di nuovo: «Abbiamo veduto, egli ci ha veduti, un dio visibile.»
+Così gli antichi pastori avrebbero potuto danzare, e i loro piedi essere
+belli sui monti, esultando sopra i filosofi.
+Ma anche i filosofi avevano udito.
+
+È ancora una storia strana, benché antica, di come essi vennero
+da terre d'oriente, coronati della maestà dei re e vestiti di
+qualcosa del mistero dei maghi.  Quella verità che è tradizione
+li ha saggiamente ricordati quasi come incognite, misteriosi
+quanto i loro nomi misteriosi e melodiosi: Melchiorre, Gaspare, Baldassarre.
+Ma con essi venne tutto quel mondo di sapienza che aveva scrutato
+le stelle in Caldea e il sole in Persia; e non sbaglieremo
+se scorgiamo in loro la stessa curiosità che muove tutti i saggi.
+Rappresenterebbero il medesimo ideale umano se i loro nomi fossero stati
+davvero Confucio o Pitagora o Platone.  Erano coloro che cercavano
+non favole ma la verità delle cose, e poiché la loro sete di verità
+era essa stessa una sete di Dio, anch'essi ebbero la loro ricompensa.
+Ma anche per comprendere quella ricompensa, dobbiamo comprendere che
+per la filosofia non meno che per la mitologia quella ricompensa fu il compimento
+dell'incompiuto.
+
+Uomini tanto dotti sarebbero senza dubbio venuti, come questi dotti
+vennero, a trovarsi confermati in molto di ciò che era vero
+nelle loro proprie tradizioni e giusto nel loro proprio ragionare.
+Confucio avrebbe trovato un nuovo fondamento per la famiglia nel
+rovesciamento stesso della Sacra Famiglia; Budda avrebbe contemplato una
+nuova rinuncia, di stelle piuttosto che di gioielli e di divinità piuttosto che di regalità.
+Questi dotti avrebbero ancora avuto il diritto di dire, o piuttosto
+un nuovo diritto di dire, che vi era verità nel loro antico insegnamento.
+Ma dopotutto questi dotti sarebbero venuti a imparare.
+Sarebbero venuti a completare le loro concezioni con qualcosa
+che non avevano ancora concepito; perfino a bilanciare il loro imperfetto
+universo con qualcosa che una volta avrebbero potuto contraddire.
+Budda sarebbe venuto dal suo paradiso impersonale ad adorare una persona.
+Confucio sarebbe venuto dai suoi templi del culto degli antenati
+ad adorare un bambino.
+
+Dobbiamo cogliere fin da principio questo carattere del nuovo cosmo:
+che esso era più grande del vecchio cosmo.  In quel senso la Cristianità
+è più grande della creazione; come la creazione era stata prima di Cristo.
+Comprendeva cose che prima non c'erano; comprendeva anche
+le cose che c'erano state.  Il punto viene ben
+illustrato in questo esempio di pietà cinese, ma sarebbe
+vero di altre virtù pagane o credenze pagane.  Nessuno può
+dubitare che un ragionevole rispetto per i genitori sia parte di un vangelo
+in cui Dio stesso fu soggetto, nell'infanzia, a genitori terreni.
+Ma l'altro senso in cui i genitori erano soggetti a lui
+introduce un'idea che non è confuciana.  Il Cristo infante non è come
+l'infante Confucio; il nostro misticismo lo concepisce in un'infanzia immortale.
+Non so che cosa Confucio avrebbe fatto del Bambino se esso
+gli fosse preso vita fra le braccia come prese vita fra le braccia di san Francesco.
+Ma questo è vero in rapporto a tutte le altre religioni e filosofie;
+è la sfida della Chiesa.  La Chiesa contiene ciò che il mondo
+non contiene.  La vita stessa non provvede come provvede lei
+a tutti i lati della vita.  Che ogni altro singolo sistema sia angusto
+e insufficiente in confronto a questo; non è un vanto retorico:
+è un fatto reale e un dilemma reale.  Dov'è il santo bambino
+tra gli Stoici e gli adoratori degli antenati?  Dov'è la Madonna
+dei Musulmani, una donna fatta per nessun uomo e posta al di sopra di tutti gli angeli?
+Dov'è il san Michele dei monaci di Budda, cavaliere e signore
+delle trombe, che custodisce per ogni soldato l'onore della spada?
+Che cosa avrebbe potuto fare san Tommaso d'Aquino della mitologia del Brahmanesimo,
+lui che espose tutta la scienza e la razionalità e perfino il razionalismo
+del Cristianesimo?  Eppure anche se paragoniamo l'Aquinate ad Aristotele,
+all'estremo opposto della ragione, troveremo il medesimo senso di
+qualcosa di aggiunto.  L'Aquinate poteva comprendere le parti più logiche
+di Aristotele; è dubbio che Aristotele avrebbe potuto comprendere
+le parti più mistiche dell'Aquinate.  Anche là dove a stento possiamo
+dire più grande il cristiano, siamo costretti a dirlo più ampio.
+Ma è così a qualunque filosofia o eresia o movimento moderno
+ci volgiamo.  Come se la sarebbe cavata Francesco il Trovatore tra
+i Calvinisti, o del resto tra gli Utilitaristi
+della Scuola di Manchester?  Eppure uomini come Bossuet e Pascal
+sapevano essere austeri e logici quanto qualsiasi Calvinista o Utilitarista.
+Come se la sarebbe cavata santa Giovanna d'Arco, una donna che spronava gli uomini alla guerra con la spada,
+tra i Quaccheri o i Duchobori o la setta tolstoiana
+dei pacifisti?  Eppure un numero infinito di santi cattolici hanno
+speso la vita a predicare la pace e a impedire le guerre.
+Lo stesso accade con tutti i moderni tentativi di Sincretismo.
+Non riescono mai a fare qualcosa di più grande del Credo
+senza lasciar fuori qualcosa.  Non intendo lasciar fuori
+qualcosa di divino ma qualcosa di umano: la bandiera o la locanda o
+il racconto di battaglia del ragazzo o la siepe in fondo al campo.
+I Teosofi costruiscono un pantheon; ma è soltanto un pantheon
+per panteisti.  Convocano un Parlamento delle Religioni come una riunione
+di tutti i popoli; ma è soltanto una riunione di tutti i saccenti.
+Eppure proprio un tale pantheon era stato eretto duemila anni
+prima sulle sponde del Mediterraneo; e i cristiani furono invitati
+a erigere l'immagine di Gesù fianco a fianco con l'immagine di Giove,
+di Mitra, di Osiride, di Attis o di Ammone.  Fu il rifiuto
+dei cristiani a essere la svolta della storia.
+Se i cristiani avessero accettato, essi e il mondo intero
+sarebbero certamente, in una grottesca ma esatta metafora, finiti in pentola.
+Sarebbero stati tutti bolliti fino a ridursi a un unico liquido tiepido in quella grande
+pentola di corruzione cosmopolita in cui tutti gli altri miti e misteri
+già si stavano sciogliendo.  Fu uno scampo tremendo e spaventoso.
+Nessuno comprende la natura della Chiesa, o la nota squillante
+del credo che discende dall'antichità, se non si rende conto
+che il mondo intero una volta stette per morire di larghezza di vedute
+e di fratellanza di tutte le religioni.

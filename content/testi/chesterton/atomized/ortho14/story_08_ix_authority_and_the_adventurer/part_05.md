@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/ortho14-(chesterton)">Orthodoxy</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/ortho14/story_08_ix_authority_and_the_adventurer/part_04">‹ part 04</a><a class="ex-next" href="/testi/chesterton/atomized/ortho14/story_08_ix_authority_and_the_adventurer/part_06">part 06 ›</a></div>
@@ -134,3 +136,134 @@ nearly always done by women.  Every man is womanised, merely by being born.
 They talk of the masculine woman; but every man is a feminised man. 
 And if ever men walk to Westminster to protest against this
 female privilege, I shall not join their procession.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/ortho14-(chesterton)">Orthodoxy</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/ortho14/story_08_ix_authority_and_the_adventurer/part_04">‹ part 04</a><a class="ex-next" href="/testi/chesterton/atomized/ortho14/story_08_ix_authority_and_the_adventurer/part_06">part 06 ›</a></div>
+</nav>
+
+# [[ortho14]] — L'autorità e l'avventuriero (parte 5)
+
+Come conclusione di buon senso, del genere di quelle a cui approdiamo
+a proposito del sesso o della mezzanotte ([[Well|ben]] sapendo che molti particolari devono
+per loro stessa [[Nature|natura]] restare celati), concludo che i miracoli accadono davvero.
+Vi sono costretto da una cospirazione di fatti: il fatto che gli uomini
+i quali s'imbattono in elfi o in angeli non sono i mistici né i sognatori morbosi,
+ma pescatori, contadini, e ogni sorta d'uomini a un tempo rozzi e prudenti;
+il fatto che tutti conosciamo uomini i quali testimoniano di episodi spiritici
+pur non essendo spiritisti; il fatto che la scienza stessa ammette simili cose
+ogni giorno di più. La scienza ammetterà persino l'Ascensione,
+se la chiamate Levitazione, e con ogni probabilità ammetterà la [[Resurrection|Resurrezione]]
+non appena avrà escogitato un altro nome per essa. Io propongo Rigalvanizzazione.
+Ma il più forte di tutti è il dilemma sopra menzionato,
+ossia che queste cose [[Supernatural|soprannaturali]] non vengono mai negate se non in base
+o all'anti-[[democracy|democrazia]], o al dogmatismo materialista — potrei dire
+al misticismo materialista. Lo scettico assume sempre una delle due posizioni:
+o un uomo comune non merita d'essere creduto, oppure un evento straordinario
+non deve essere creduto. Poiché [[Hope|spero]] che possiamo liquidare l'argomento
+contro i prodigi tentato nella mera enumerazione di frodi,
+di medium truffaldini o di miracoli da baraccone. Quello non è affatto un argomento,
+buono o cattivo che sia. Un falso [[Ghost|fantasma]] confuta la realtà dei [[Ghosts|fantasmi]] esattamente
+quanto una banconota contraffatta confuta l'esistenza
+della Banca d'Inghilterra — semmai, ne prova l'esistenza.
+
+     Data questa convinzione che i fenomeni spirituali avvengono davvero
+(le mie prove al riguardo sono complesse ma razionali), ci scontriamo allora
+con uno dei peggiori mali mentali dell'epoca. Il più grande disastro
+del diciannovesimo secolo fu questo: che gli uomini cominciarono a usare la parola
+«spirituale» come sinonimo della parola «buono». Credettero che
+crescere in raffinatezza e in incorporeità fosse crescere in virtù.
+Quando fu annunciata l'evoluzione scientifica, alcuni temettero che essa
+avrebbe incoraggiato la mera animalità. Fece di peggio: incoraggiò la mera spiritualità.
+Insegnò agli uomini a pensare che, fintanto che si allontanavano dalla scimmia,
+si dirigevano verso l'angelo. Ma dalla scimmia ci si può allontanare
+per andare al diavolo. Un uomo di genio, assai tipico di
+quel [[Time|tempo]] di smarrimento, lo espresse alla perfezione. Benjamin Disraeli
+aveva ragione quando disse d'essere dalla parte degli angeli. Lo era davvero;
+era dalla parte degli angeli caduti. Non era dalla parte
+di un qualche mero appetito o brutalità animale; ma era dalla parte
+di tutto l'imperialismo dei principi dell'abisso; era dalla parte
+dell'arroganza e del mistero, e del disprezzo di ogni bene evidente.
+Fra questo [[Pride|orgoglio]] sprofondato e le torreggianti umiltà del cielo vi sono,
+bisogna supporre, spiriti di forme e dimensioni diverse. L'uomo, incontrandoli,
+deve commettere pressappoco gli stessi errori che commette incontrando
+qualunque altra varietà di tipi in qualunque altro continente lontano. Dev'essere
+difficile, in un primo tempo, sapere chi sia il superiore e chi il subordinato.
+Se un'ombra sorgesse dal mondo di sotto, e fissasse Piccadilly,
+quell'ombra non comprenderebbe bene l'idea di un'ordinaria
+carrozza chiusa. Supporrebbe che il cocchiere a cassetta
+fosse un trionfante conquistatore, il quale si trascina dietro un prigioniero
+scalciante e recluso. Così, se vediamo per la prima [[Time|volta]] i fatti spirituali,
+possiamo sbagliarci su chi stia in cima. Non basta trovare gli dèi;
+essi sono evidenti; dobbiamo trovare Dio, il vero capo degli dèi.
+Dobbiamo avere una lunga esperienza storica dei fenomeni [[Supernatural|soprannaturali]] —
+per scoprire quali siano realmente naturali. In questa luce trovo
+la [[history|storia]] del [[Christianity|Cristianesimo]], e persino delle sue origini ebraiche,
+del tutto pratica e chiara. Non mi turba sentirmi dire che
+il dio ebraico era uno fra molti. So che lo era, senza che alcuna ricerca
+me lo dica. Jehovah e Baal apparivano ugualmente importanti,
+proprio come il sole e la [[Moon|luna]] apparivano della stessa grandezza. Solo lentamente
+impariamo che il sole è incommensurabilmente il nostro signore, e la piccola [[Moon|luna]]
+soltanto il nostro satellite. Credendo che esista un mondo di spiriti,
+vi camminerò come faccio nel mondo degli uomini, cercando la cosa
+che mi piace e che ritengo buona. Proprio come cercherei in un [[Desert|deserto]]
+[[Water|acqua]] limpida, o mi affannerei al Polo Nord per accendere un confortevole [[Fire|fuoco]],
+così frugherò la terra del vuoto e della visione finché non troverò qualcosa di fresco
+come l'[[Water|acqua]], e di confortante come il [[Fire|fuoco]]; finché non troverò un luogo nell'[[Eternity|eternità]],
+dove io sia, alla lettera, a [[Home|casa]] mia. E un solo luogo simile
+si può trovare.
+
+     Ho detto ormai abbastanza per mostrare (a chiunque, per lui,
+una tale spiegazione sia essenziale) che possiedo, nell'ordinaria
+arena dell'[[Apologetics|apologetica]], un fondamento di fede. Nei puri resoconti d'esperienza
+(se presi democraticamente, senza disprezzo né favore)
+vi è la prova, primo, che i miracoli accadono, e secondo che
+i miracoli più nobili appartengono alla nostra tradizione. Ma non pretenderò
+che questa spiccia discussione sia la mia vera ragione per accettare il [[Christianity|Cristianesimo]]
+anziché prendere il bene morale del [[Christianity|Cristianesimo]] come lo prenderei
+dal Confucianesimo.
+
+     Ho un altro fondamento, assai più solido e centrale, per
+sottomettermi a esso come a una [[Faith|fede]], anziché limitarmi a raccogliere spunti
+da esso come da uno schema. Ed è questo: che la Chiesa cristiana
+nel suo rapporto pratico con la mia [[Soul|anima]] è un maestro vivo, non un maestro morto.
+Non solo di certo mi ha insegnato ieri, ma quasi di certo
+m'insegnerà domani. Una volta vidi d'un tratto il significato della forma
+della [[Cross|croce]]; un giorno potrò vedere d'un tratto il significato della forma
+della mitra. Un bel mattino vidi perché le finestre erano a sesto acuto;
+un bel mattino potrò vedere perché i preti erano rasati. Platone ti ha detto
+una [[Truth|verità]]; ma Platone è morto. Shakespeare ti ha sorpreso con un'immagine;
+ma Shakespeare non ti sorprenderà più. Ma immagina
+che cosa sarebbe vivere con uomini simili ancora vivi, sapere che
+Platone potrebbe prorompere in una conferenza inedita domani,
+o che in qualsiasi momento Shakespeare potrebbe mandare in frantumi ogni cosa con
+un'unica [[Song|canzone]]. L'uomo che vive a contatto con ciò che crede
+essere una Chiesa vivente è un uomo che sempre si aspetta d'incontrare Platone e
+Shakespeare domani a colazione. Sempre si aspetta di vedere
+qualche [[Truth|verità]] che non ha mai visto prima. Vi è un solo
+altro parallelo a questa posizione; ed è il parallelo della
+vita in cui tutti abbiamo cominciato. Quando tuo padre ti diceva,
+passeggiando per il [[Garden|giardino]], che le [[Bees|api]] pungono o che le rose profumano dolcemente,
+tu non parlavi di trarre il meglio dalla sua [[philosophy|filosofia]].
+Quando le [[Bees|api]] ti pungevano, non lo chiamavi una divertente coincidenza.
+Quando la [[Rose|rosa]] profumava dolcemente non dicevi: «Mio padre è un rude,
+barbarico simbolo, che racchiude (forse inconsciamente) le profonde e delicate verità
+secondo cui i [[Flowers|fiori]] profumano.» No: credevi a tuo padre, perché
+avevi scoperto ch'egli era una viva sorgente di fatti, una cosa che davvero sapeva
+più di te; una cosa che ti avrebbe detto la [[Truth|verità]] domani,
+[[Well|così]] come oggi. E se questo era vero di tuo padre,
+era ancor più vero di tua madre; almeno era vero della mia,
+a cui questo libro è dedicato. Ora, mentre la società si affanna in un agitarsi
+piuttosto vano attorno alla soggezione delle donne, non vorrà nessuno dire quanto ogni uomo
+debba alla tirannia e al privilegio delle donne, al fatto che esse [[Alone|sole]]
+governano l'[[Education|educazione]] finché l'[[Education|educazione]] diventa vana: poiché un ragazzo è mandato
+a farsi istruire a scuola solo quando è troppo tardi per insegnargli alcunché.
+La cosa vera è già stata fatta, e grazie a Dio è
+quasi sempre fatta dalle donne. Ogni uomo è donneggiato, per il solo fatto di nascere.
+Parlano della donna mascolina; ma ogni uomo è un uomo femminilizzato.
+E se mai gli uomini marceranno fino a Westminster per protestare contro questo
+privilegio femminile, io non mi unirò al loro corteo.

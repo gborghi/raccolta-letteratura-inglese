@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/innocence-(chesterton)">The Innocence of Father Brown</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/innocence/story_09_the_hammer_of_god/part_05">‹ part 05</a><a class="ex-next" href="/testi/chesterton/atomized/innocence/story_10_the_eye_of_apollo/part_01">part 01 ›</a></div>
@@ -107,3 +109,107 @@ They went down the winding stairs in utter silence, and came out
 into the sunlight by the smithy.  Wilfred Bohun carefully unlatched
 the wooden gate of the yard, and going up to the inspector, said:
 "I wish to give myself up; I have killed my brother."
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/innocence-(chesterton)">The Innocence of Father Brown</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/innocence/story_09_the_hammer_of_god/part_05">‹ part 05</a><a class="ex-next" href="/testi/chesterton/atomized/innocence/story_10_the_eye_of_apollo/part_01">part 01 ›</a></div>
+</nav>
+
+# [[innocence]] — Il martello di Dio (parte 6)
+
+«Penso che vi sia qualcosa di piuttosto pericoloso nello stare su questi alti
+luoghi persino per pregare» disse Father Brown. «Le altezze furono fatte per essere guardate,
+non per guardare da esse.»
+
+«Volete dire che si potrebbe cadere di sotto?» chiese Wilfred.
+
+«Voglio dire che la propria anima può cadere anche se il proprio corpo non cade»
+disse l'altro prete.
+
+«Vi comprendo a stento» osservò Bohun indistintamente.
+
+«Guardate quel fabbro, per esempio» proseguì Father Brown con calma;
+«un buon uomo, ma non un cristiano: duro, imperioso, inesorabile. Ebbene, la sua
+religione scozzese fu messa insieme da uomini che pregavano su colline e alte rupi,
+e impararono a guardar dall'alto il mondo più che a guardar in alto verso il cielo.
+L'umiltà è la madre dei giganti. Si vedono grandi cose dalla valle;
+solo piccole cose dalla vetta.»
+
+«Ma egli... egli non l'ha fatto» disse Bohun con voce tremante.
+
+«No» disse l'altro con voce strana; «sappiamo che non l'ha fatto.»
+
+Dopo un momento riprese, guardando tranquillamente sulla pianura con
+i suoi pallidi occhi grigi. «Conoscevo un uomo» disse, «che cominciò col venerare
+insieme agli altri dinanzi all'altare, ma che si affezionò ad alti e solitari
+luoghi da cui pregare, angoli o nicchie nel campanile o nella guglia.
+E una volta in uno di quei luoghi vertiginosi, dove il mondo intero
+pareva girargli sotto come una ruota, gli girò anche il cervello,
+ed egli s'immaginò di essere Dio. Cosicché, sebbene fosse un buon uomo,
+commise un grande delitto.»
+
+Il volto di Wilfred era voltato altrove, ma le sue ossute mani si fecero blu
+e bianche mentre si serravano sul parapetto di pietra.
+
+«Egli pensò che gli fosse dato di giudicare il mondo e di abbattere
+il peccatore. Non avrebbe mai avuto un simile pensiero se fosse stato inginocchiato
+con altri uomini su un pavimento. Ma vide tutti gli uomini che si aggiravano come insetti.
+Ne vide uno in particolare che pavoneggiava proprio sotto di lui, insolente ed evidente
+per un vivido cappello verde: un insetto velenoso.»
+
+Le cornacchie gracchiavano intorno agli angoli del campanile; ma non vi fu altro suono
+finché Father Brown non riprese.
+
+«Anche questo lo tentò, che egli aveva in mano uno dei più terribili
+congegni della natura; intendo la gravitazione, quella folle e acceleratrice corsa
+per cui tutte le creature della terra volano indietro al suo cuore quando sono lasciate libere.
+Vedete, l'ispettore si pavoneggia proprio sotto di noi nella fucina.
+Se io gettassi un ciottolo oltre questo parapetto, sarebbe qualcosa
+come una pallottola nel momento in cui lo colpisse. Se io lasciassi cadere un martello...
+anche un piccolo martello...»
+
+Wilfred Bohun gettò una gamba oltre il parapetto, e Father Brown
+lo ebbe in un minuto per il bavero.
+
+«Non da quella porta» disse assai dolcemente; «quella porta conduce all'inferno.»
+
+Bohun barcollò indietro contro il muro, e lo fissò con occhi spaventosi.
+
+«Come sapete tutto questo?» gridò. «Siete un diavolo?»
+
+«Sono un uomo» rispose Father Brown gravemente; «e perciò ho tutti
+i diavoli nel cuore. Ascoltatemi» disse dopo una breve pausa.
+«So che cosa avete fatto... o almeno, posso indovinarne la gran parte.
+Quando lasciaste vostro fratello eravate straziato da un'ira non ingiusta,
+al punto persino che afferraste un piccolo martello, mezzo intenzionato
+a ucciderlo con la sua turpitudine sulla bocca. Ritraendovi, lo ficcaste
+invece sotto il cappotto abbottonato, e vi precipitaste in chiesa.
+Pregate follemente in molti luoghi, sotto la vetrata dell'angelo, sulla
+piattaforma in alto, e su una piattaforma ancor più alta, dalla quale potevate vedere
+il cappello orientale del colonnello come il dorso di uno scarabeo verde che strisciava attorno.
+Poi qualcosa si spezzò nella vostra anima, e lasciaste cadere il fulmine di Dio.»
+
+Wilfred si portò una debole mano al capo, e chiese a bassa voce:
+«Come sapevate che il suo cappello sembrava uno scarabeo verde?»
+
+«Oh, quello» disse l'altro con l'ombra di un sorriso, «quello è stato
+semplice buon senso. Ma ascoltatemi ancora. Io dico di sapere tutto questo;
+ma nessun altro lo saprà. Il passo successivo tocca a voi; io non
+farò altri passi; sigillerò questo col sigillo della confessione.
+Se mi chiedete perché, vi sono molte ragioni, e una sola che vi riguardi.
+Lascio le cose a voi perché non vi siete ancora spinto molto lontano nel male,
+per essere un assassino. Non avete contribuito ad addossare il delitto al fabbro
+quando era facile; né a sua moglie, quando quello era facile. Avete cercato
+di addossarlo all'imbecille perché sapevate che egli non poteva soffrirne.
+Quello è stato uno dei barlumi che è mio compito trovare negli assassini.
+E ora scendete nel villaggio, e andate per la vostra strada liberi come il vento;
+poiché ho detto la mia ultima parola.»
+
+Scesero le scale a chiocciola in assoluto silenzio, e sbucarono
+alla luce del sole presso la fucina. Wilfred Bohun sollevò con cura
+il chiavistello del cancello di legno del cortile, e avvicinatosi all'ispettore, disse:
+«Desidero costituirmi; ho ucciso mio fratello.»

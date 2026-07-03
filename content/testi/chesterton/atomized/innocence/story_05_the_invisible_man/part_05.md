@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/innocence-(chesterton)">The Innocence of Father Brown</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/innocence/story_05_the_invisible_man/part_04">‹ part 04</a><a class="ex-next" href="/testi/chesterton/atomized/innocence/story_05_the_invisible_man/part_06">part 06 ›</a></div>
@@ -156,3 +158,156 @@ the Mansions, they did not really mean that no man had gone into them.
 They meant no man whom they could suspect of being your man.
 A man did go into the house, and did come out of it, but they
 never noticed him."
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/innocence-(chesterton)">The Innocence of Father Brown</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/innocence/story_05_the_invisible_man/part_04">‹ part 04</a><a class="ex-next" href="/testi/chesterton/atomized/innocence/story_05_the_invisible_man/part_06">part 06 ›</a></div>
+</nav>
+
+# [[innocence]] — L’uomo invisibile (parte 5)
+
+Anche gli altri guardarono in giù; e Flambeau ricorse a una feroce
+esclamazione e a un gesto francese. Poiché era indiscutibilmente vero
+che lungo il centro dell’ingresso custodito dall’uomo in gallone d’oro,
+proprio tra le arroganti gambe divaricate di quel colosso,
+correva un filiforme disegno di grigie impronte impresse sulla bianca neve.
+
+«Dio!» gridò Angus involontariamente, «l’uomo invisibile!»
+
+Senza un’altra parola si voltò e si precipitò su per le scale,
+con Flambeau al seguito; ma Padre Brown restava ancora a guardarsi
+attorno nella strada coperta di neve come se avesse perso interesse
+per la sua domanda.
+
+Flambeau era chiaramente in vena di sfondare la porta con le sue grandi spalle;
+ma lo scozzese, con più ragione, se con meno intuito, andò a tastare
+il telaio della porta finché trovò il bottone invisibile; e la porta
+si aprì lentamente.
+
+Mostrava sostanzialmente lo stesso interno serrato; l’atrio
+si era fatto più buio, benché fosse ancora colpito qua e là
+dagli ultimi cremisi raggi del tramonto, e una o due
+delle macchine senza testa erano state spostate dai loro posti per questo
+o quello scopo, e si ergevano qua e là per il luogo crepuscolare.
+Il verde e il rosso delle loro giubbe erano tutti oscurati nella penombra;
+e la loro somiglianza con forme umane era lievemente accresciuta
+dalla loro stessa informità. Ma nel bel mezzo di tutte,
+esattamente dove era giaciuta la carta con l’inchiostro rosso, giaceva
+qualcosa che pareva inchiostro rosso rovesciato dalla sua bottiglia.
+Ma non era inchiostro rosso.
+
+Con una francese combinazione di raziocinio e violenza Flambeau
+disse semplicemente «Assassinio!» e, gettandosi nell’appartamento,
+ne esplorò ogni angolo e armadio in cinque minuti.
+Ma se si aspettava di trovare un cadavere, non ne trovò alcuno.
+Isidore Smythe non era nel luogo, né morto né vivo.
+Dopo la più straziante ricerca i due uomini si ritrovarono
+nell’atrio esterno, coi volti madidi e gli occhi sbarrati.
+«Amico mio», disse Flambeau, parlando francese per l’eccitazione,
+«non solo il tuo assassino è invisibile, ma rende invisibile
+anche l’assassinato.»
+
+Angus si guardò attorno nella stanza fioca piena di manichini, e in
+qualche angolo celtico della sua anima scozzese cominciò un brivido.
+Una delle bambole a grandezza naturale sovrastava immediatamente la macchia
+di sangue, chiamata, forse, dall’uomo ucciso un istante prima che cadesse.
+Uno dei ganci a spalla alta che servivano da braccia all’aggeggio,
+era leggermente sollevato, e Angus ebbe d’improvviso l’orribile fantasia
+che il figlio di ferro del povero Smythe l’avesse abbattuto.
+La materia si era ribellata, e quelle macchine avevano ucciso il loro padrone.
+Ma anche così, che cosa ne avevano fatto?
+
+«Lo hanno mangiato?» disse l’incubo al suo orecchio; ed egli ebbe un moto
+di nausea per un istante all’idea di lacerati, umani resti assorbiti
+e stritolati in tutta quella acefala meccanica a orologeria.
+
+Recuperò la propria sanità mentale con uno sforzo deciso,
+e disse a Flambeau: «Bene, ecco qua. Il pover’uomo è
+evaporato come una nuvola e ha lasciato una striscia rossa sul pavimento.
+La storia non appartiene a questo mondo.»
+
+«C’è solo una cosa da fare», disse Flambeau, «che appartenga
+a questo mondo o all’altro. Devo scendere a parlare col mio amico.»
+
+Scesero, passando davanti all’uomo col secchio, che di nuovo asserì
+di non aver lasciato passare alcun intruso, giù fino all’usciere e all’
+aleggiante uomo delle castagne, i quali rigidamente riaffermarono la loro stessa vigilanza.
+Ma quando Angus si guardò attorno in cerca della sua quarta conferma non riuscì a vederla,
+e gridò con una certa nervosità: «Dov’è il poliziotto?»
+
+«Chiedo scusa», disse Padre Brown; «è colpa mia.
+L’ho appena mandato giù per la strada a indagare su una cosa…
+che mi è appena parsa degna d’indagine.»
+
+«Bene, lo rivogliamo qui abbastanza presto», disse Angus bruscamente,
+«poiché il disgraziato là sopra non solo è stato assassinato,
+ma cancellato.»
+
+«Come?» chiese il prete.
+
+«Padre», disse Flambeau, dopo una pausa, «sull’anima mia credo
+che sia più affare del suo reparto che del mio. Nessun amico né nemico è
+entrato nella casa, eppure Smythe è sparito, come rubato dalle fate.
+Se questo non è soprannaturale, io…»
+
+Mentre parlava furono tutti bloccati da uno spettacolo insolito; il grosso
+poliziotto azzurro spuntò di corsa dall’angolo del semicerchio.
+Venne dritto verso Brown.
+
+«Ha ragione, signore», ansimò, «hanno appena trovato il corpo del povero
+signor Smythe nel canale là sotto.»
+
+Angus si portò follemente la mano alla testa. «È corso giù e si è
+annegato?» chiese.
+
+«Non è mai sceso, lo giuro», disse l’agente, «e non è nemmeno
+annegato, poiché è morto per un gran colpo di pugnale al cuore.»
+
+«Eppure non avete visto entrare nessuno?» disse Flambeau con voce grave.
+
+«Scendiamo un poco per la strada», disse il prete.
+
+Quando raggiunsero l’altra estremità del semicerchio egli osservò bruscamente:
+«Che stupido sono stato! Ho dimenticato di chiedere una cosa al poliziotto.
+Mi chiedo se abbiano trovato un sacco marrone chiaro.»
+
+«Perché un sacco marrone chiaro?» chiese Angus, stupito.
+
+«Perché se fosse stato un sacco di qualsiasi altro colore, il caso dovrebbe
+ricominciare da capo», disse Padre Brown; «ma se era un sacco
+marrone chiaro, ebbene, il caso è chiuso.»
+
+«Sono lieto di sentirlo», disse Angus con cordiale ironia.
+«Per quanto mi riguarda, non è nemmeno cominciato.»
+
+«Deve raccontarci tutto», disse Flambeau con una strana
+pesante semplicità, come un bambino.
+
+Inconsapevolmente camminavano a passi sempre più rapidi giù per la lunga
+distesa di strada sull’altro lato dell’alto semicerchio, con Padre Brown
+che apriva la marcia spedito, benché in silenzio. Alla fine disse con una vaghezza
+quasi commovente: «Be’, temo che vi parrà una cosa tanto prosaica.
+Cominciamo sempre dal capo astratto delle cose, e questa storia
+non si può cominciare da nessun’altra parte.
+
+«Avete mai notato questo… che la gente non risponde mai a ciò che dite?
+Risponde a ciò che intendete… o a ciò che pensa voi intendiate.
+Supponete che una signora dica a un’altra in una casa di campagna: “C’è qualcuno
+che alloggia da voi?”; la signora non risponde: “Sì, il maggiordomo,
+i tre valletti, la cameriera di sala, eccetera”, benché la
+cameriera di sala possa essere nella stanza, o il maggiordomo dietro la sua sedia.
+Dice: “Non c’è nessuno che alloggi da noi”, intendendo nessuno
+del genere a cui voi pensate. Ma supponete che un medico, indagando su
+un’epidemia, chieda: “Chi alloggia nella casa?”; allora la signora
+si ricorderà del maggiordomo, della cameriera di sala e di tutti gli altri.
+Tutto il linguaggio si usa così; non ottenete mai una domanda
+a cui si risponda alla lettera, anche quando ottenete una risposta veritiera.
+Quando quei quattro uomini del tutto onesti hanno detto che nessun uomo era entrato
+nel palazzo, non intendevano davvero che nessun uomo vi fosse entrato.
+Intendevano nessun uomo che potessero sospettare essere il vostro uomo.
+Un uomo entrò nella casa, e ne uscì, ma essi
+non lo notarono mai.»

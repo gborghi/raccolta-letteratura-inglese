@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/thursday-(chesterton)">The Man Who Was Thursday</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/thursday/chapter_08/part_02">‹ part 02</a><a class="ex-next" href="/testi/chesterton/atomized/thursday/chapter_08/part_04">part 04 ›</a></div>
@@ -184,3 +186,82 @@ flash of folly I decided to see the situation through.
 Consequently it was to meet the glare of the company and my own
 lifted eyebrows and freezing eyes that the real Professor came
 into the room.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/thursday-(chesterton)">The Man Who Was Thursday</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/thursday/chapter_08/part_02">‹ part 02</a><a class="ex-next" href="/testi/chesterton/atomized/thursday/chapter_08/part_04">part 04 ›</a></div>
+</nav>
+
+# [[thursday]] — Capitolo 8 (parte 3)
+
+«Maledizione!» esclamò Syme. «E noi non sappiamo dove sia.»
+
+«Sì» disse l’altro nel suo curioso modo assorto, «io so dove si trova.»
+
+«Me lo direte?» chiese Syme con occhi ansiosi.
+
+«Vi ci porterò» disse il [[The Professor|Professore]], e staccò da un gancio il proprio cappello.
+
+Syme rimase a guardarlo con una sorta di rigida eccitazione.
+
+«Che cosa intendete?» chiese bruscamente. «Vi unirete a me? Correrete il rischio?»
+
+«Giovanotto» disse il [[The Professor|Professore]] amabilmente, «mi diverte osservare che mi credete un codardo. Su questo dirò una sola parola, e sarà interamente nella maniera della vostra stessa retorica filosofica. Voi pensate che sia possibile abbattere il Presidente. Io so che è impossibile, e sto per tentarlo»; e aprendo la porta della taverna, che lasciò entrare una folata d’aria pungente, uscirono insieme nelle strade buie presso i moli.
+
+La maggior parte della [[Snow|neve]] si era sciolta o era stata calpestata fino a farsi fango, ma qua e là un grumo di essa mostrava ancora un colore grigio più che bianco nell’oscurità. Le stradine erano fradice e piene di pozzanghere, che riflettevano irregolarmente i lampioni fiammeggianti, e per caso, come frammenti di un altro mondo caduto. Syme si sentiva quasi stordito mentre avanzava attraverso quella crescente confusione di luci e di ombre; ma il suo compagno proseguiva con una certa alacrità, verso il punto in cui, in fondo alla strada, un pollice o due di [[River|fiume]] illuminato dai lampioni sembrava una sbarra di fiamma.
+
+«Dove state andando?» s’informò Syme.
+
+«In questo momento» rispose il [[The Professor|Professore]], «vado giusto qui dietro l’angolo a vedere se il dottor Bull è andato a letto. È un igienista, e si corica presto.»
+
+«Il dottor Bull!» esclamò Syme. «Abita dietro l’angolo?»
+
+«No» rispose l’amico. «In realtà abita piuttosto lontano, dall’altra parte del [[River|fiume]], ma da qui possiamo capire se è andato a letto.»
+
+Svoltando l’angolo mentre parlava, e volgendosi verso il [[River|fiume]] fioco, screziato di fiamma, indicò col bastone l’altra sponda. Sul lato del Surrey, in quel punto, si protendeva nel Tamigi, quasi da sovrastarlo, una massa e un aggregato di quelle alte casipole, punteggiate di finestre illuminate, che si ergevano come ciminiere di fabbrica a un’altezza quasi folle. La loro particolare postura e posizione facevano sì che un blocco di edifici somigliasse in modo speciale a una Torre di Babele dai cento occhi. Syme non aveva mai visto nessuno dei grattacieli d’[[america|America]], e così poté soltanto pensare agli edifici di [[A Dream|un sogno]].
+
+Proprio mentre fissava, la luce più alta di quel torrione dagli innumerevoli lumi si spense di colpo, come se quell’Argo nero gli avesse strizzato uno dei suoi innumerevoli occhi.
+
+Il professor de Worms girò sui tacchi e batté il bastone contro lo stivale.
+
+«Siamo arrivati troppo tardi» disse, «l’igienico Dottore è andato a letto.»
+
+«Che cosa intendete?» chiese Syme. «Allora abita laggiù?»
+
+«Sì» disse de Worms, «dietro quella particolare [[Window|finestra]] che non riuscite a scorgere. Venite a mangiare qualcosa. Dovremo fargli visita domani mattina.»
+
+Senza ulteriori discorsi, si aprì la via attraverso parecchie stradine secondarie finché sbucarono nel bagliore e nel clamore dell’East India Dock [[Road]]. [[The Professor|Il Professore]], che sembrava conoscere bene i dintorni, si diresse verso un punto in cui la fila dei negozi illuminati arretrava in una sorta di brusca penombra e quiete, in cui una vecchia locanda bianca, tutta malandata, si ritraeva una ventina di piedi dalla [[Road|strada]].
+
+«Buone locande inglesi ne trovate lasciate qua e là per caso, dappertutto, come fossili» spiegò il [[The Professor|Professore]]. «Una volta ne trovai una decente nel West End.»
+
+«Suppongo» disse Syme, sorridendo, «che questa sia la corrispondente decente locanda dell’East End?»
+
+«Proprio così» disse il [[The Professor|Professore]] con reverenza, ed entrò.
+
+In quel luogo cenarono e dormirono, entrambi molto a fondo. I fagioli e la pancetta, che quella gente insospettabile cucinava [[Well|bene]], la sorprendente comparsa del Borgogna dalle loro cantine, coronarono in Syme il senso di una nuova [[Comradeship|cameratismo]] e di un nuovo conforto. Per tutta quella prova il suo orrore radicale era stato l’isolamento, e non ci sono parole per esprimere l’abisso che separa l’isolamento dall’avere un alleato. Si può concedere ai matematici che quattro è due volte due. Ma due non è due volte uno; due è duemila volte uno. Ecco perché, a dispetto di cento svantaggi, il mondo tornerà sempre alla monogamia.
+
+Syme poté riversare per la prima [[Time|volta]] tutta la sua incredibile vicenda, dal [[Time|momento]] in cui Gregory lo aveva condotto nella piccola taverna presso il [[River|fiume]]. Lo fece con ozio e con ampiezza, in un lussureggiante monologo, come si parla con amici vecchissimi. Anche da parte sua, l’uomo che aveva impersonato il professor de Worms non fu meno comunicativo. La sua storia era quasi altrettanto sciocca di quella di Syme.
+
+«È un bel travestimento, il vostro» disse Syme, scolando un bicchiere di Mâcon; «assai migliore di quello del vecchio Gogol. Fin dall’inizio pensai che fosse un po’ troppo peloso.»
+
+«Una divergenza di teoria artistica» replicò il [[The Professor|Professore]] pensoso. «Gogol era un idealista. Si truccava secondo l’ideale astratto o platonico dell’anarchico. Io, invece, sono un realista. Sono un ritrattista. Ma, in verità, dire che sono un ritrattista è un’espressione inadeguata. Io sono un ritratto.»
+
+«Non vi capisco» disse Syme.
+
+«Sono un ritratto» ripeté il [[The Professor|Professore]]. «Sono il ritratto del celebre professor de Worms, il quale, credo, si trova a Napoli.»
+
+«Volete dire che siete truccato come lui» disse Syme. «Ma non sa forse che gli state prendendo il naso invano?»
+
+«Lo sa benissimo» replicò l’amico allegramente.
+
+«Allora perché non vi denuncia?»
+
+«Sono io ad averlo denunciato» rispose il [[The Professor|Professore]].
+
+«Spiegatevi meglio, vi prego» disse Syme.
+
+«Con piacere, se non vi dispiace ascoltare la mia storia» replicò l’eminente filosofo straniero. «Di professione sono attore, e mi chiamo Wilks. Quando calcavo le scene, mi mescolavo a ogni sorta di compagnia bohémienne e di canaglie. Talvolta lambivo il mondo dell’ippica, talvolta la feccia delle arti, e occasionalmente il rifugiato politico. In qualche covo di sognatori in esilio fui presentato al grande filosofo nichilista tedesco, il professor de Worms. Non colsi molto di lui al di là del suo aspetto, che era assai ripugnante, e che studiai con cura. Compresi che aveva dimostrato che il principio distruttore dell’universo era Dio; donde egli insisteva sulla necessità di un’energia furiosa e incessante, che facesse a pezzi tutte le cose. L’energia, diceva, era il Tutto. Era zoppo, miope e in parte paralitico. Quando lo incontrai ero in vena frivola, e mi era così antipatico che decisi di imitarlo. Se fossi stato un disegnatore, ne avrei tracciato una caricatura. Ero soltanto un attore, potevo soltanto recitare una caricatura. Mi truccai in quella che voleva essere una selvaggia esagerazione del vecchio e sudicio [[Self|io]] del vecchio Professore. Quando entrai nella stanza piena dei suoi sostenitori, mi aspettavo di essere accolto da un boato di risate, oppure (se erano troppo alticci) da un boato di indignazione per l’offesa. Non so descrivere la sorpresa che provai quando il mio ingresso fu accolto da un rispettoso [[Silence|silenzio]], seguito (non appena ebbi aperto bocca) da un mormorio di ammirazione. La maledizione dell’[[artist|artista]] perfetto era caduta su di me. Ero stato troppo sottile, ero stato troppo veritiero. Credettero che io fossi davvero il grande Professore nichilista. Ero un giovane dalla mente sana, a quel [[Time|tempo]], e confesso che fu un colpo. Prima però che potessi riprendermi del tutto, due o tre di quegli ammiratori corsero da me raggianti d’indignazione, e mi dissero che nella stanza accanto mi era stato inflitto un pubblico insulto. Ne chiesi la [[Nature|natura]]. Pareva che un tipo impertinente si fosse conciato come una grottesca [[Parody|parodia]] di me stesso. Avevo bevuto più champagne di quanto mi facesse bene, e in un lampo di follia decisi di andare fino in fondo alla situazione. Fu dunque per affrontare lo sguardo torvo della compagnia e le mie stesse sopracciglia inarcate e i miei occhi gelidi che il vero Professore entrò nella stanza.

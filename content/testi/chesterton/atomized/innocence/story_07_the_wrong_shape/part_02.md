@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/innocence-(chesterton)">The Innocence of Father Brown</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/innocence/story_07_the_wrong_shape/part_01">‹ part 01</a><a class="ex-next" href="/testi/chesterton/atomized/innocence/story_07_the_wrong_shape/part_03">part 03 ›</a></div>
@@ -149,3 +151,149 @@ to his feet in faultless white, and whose bare, brown skull,
 face, and neck gleamed in the setting sun like splendid bronze.
 He was looking through the glass at the sleeper, and he was
 more motionless than a mountain.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/innocence-(chesterton)">The Innocence of Father Brown</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/innocence/story_07_the_wrong_shape/part_01">‹ part 01</a><a class="ex-next" href="/testi/chesterton/atomized/innocence/story_07_the_wrong_shape/part_03">part 03 ›</a></div>
+</nav>
+
+# [[innocence]] — La forma sbagliata (parte 2)
+
+«Senta un po'», disse ansimando, «voglio vedere il vecchio Quinton. Devo vederlo.
+Se n'è andato?»
+
+«Il signor Quinton è in casa, credo», disse Padre Brown,
+pulendo la pipa, «ma non so se potrà vederlo.
+In questo momento è con lui il medico.»
+
+Il giovane, che non pareva del tutto sobrio, entrò barcollando nell'atrio;
+e nel medesimo istante il medico uscì dallo studio di Quinton,
+chiudendo la porta e cominciando a infilarsi i guanti.
+
+«Vedere il signor Quinton?» disse il medico con freddezza. «No, temo che
+non possa. Anzi, non deve a nessun costo. Nessuno deve vederlo;
+gli ho appena dato la sua pozione soporifera.»
+
+«No, ma senta un po', vecchio mio», disse il giovanotto dalla cravatta rossa,
+tentando affettuosamente di ghermire il medico per i risvolti della giacca.
+«Senta. Sono con l'acqua alla gola, glielo dico io. Io...»
+
+«Non c'è niente da fare, signor Atkinson», disse il medico, costringendolo a indietreggiare;
+«quando saprà alterare gli effetti di una droga, io altererò la mia decisione», e,
+calcandosi il cappello, uscì nella luce del sole con gli altri due.
+Era un ometto dal collo taurino e dal buon carattere, con un piccolo paio di baffi,
+inesprimibilmente ordinario, eppure capace di dare un'impressione di competenza.
+
+Il giovane con la bombetta, che non pareva dotato
+di alcun tatto nel trattare con la gente al di là dell'idea generale
+di afferrarne le giacche, rimase fuori della porta,
+stordito come se fosse stato buttato fuori di peso, e in silenzio
+guardò gli altri tre allontanarsi insieme attraverso il giardino.
+
+«Bella e sonora la bugia che ho detto poco fa», osservò il
+medico ridendo. «A dire il vero, il povero Quinton
+non prende la sua pozione soporifera se non fra quasi mezz'ora.
+Ma non ho nessuna intenzione di lasciarlo importunare da quel bestiolo,
+che vuole soltanto farsi prestare del denaro che non restituirebbe nemmeno se potesse.
+È un lurido mascalzoncello, benché sia il fratello della signora Quinton,
+e lei è la donna più squisita che abbia mai calcato la terra.»
+
+«Sì», disse Padre Brown. «È una brava donna.»
+
+«Perciò mi propongo di gironzolare per il giardino finché quella creatura non se ne sia andata»,
+proseguì il medico, «e poi entrerò da Quinton con la medicina.
+Atkinson non può entrare, perché ho chiuso la porta a chiave.»
+
+«In tal caso, dottor Harris», disse Flambeau, «tanto varrebbe
+fare il giro sul retro, fino in fondo alla serra.
+Da quella parte non c'è ingresso, ma vale la pena di vederla,
+anche solo dall'esterno.»
+
+«Sì, e potrei dare una sbirciatina al mio paziente», rise il medico,
+«perché preferisce sdraiarsi su un'ottomana proprio in fondo alla serra
+in mezzo a tutte quelle poinsettie rosso sangue; a me verrebbero i brividi.
+Ma che cosa state facendo?»
+
+Padre Brown si era fermato un istante, e aveva raccolto dall'erba alta,
+dove era rimasto quasi del tutto nascosto, uno strano coltello orientale ricurvo,
+squisitamente intarsiato di pietre e metalli colorati.
+
+«Che cos'è questo?» chiese Padre Brown, osservandolo con una certa avversione.
+
+«Oh, di Quinton, immagino», disse il dottor Harris con noncuranza;
+«ha ogni sorta di ninnoli cinesi in giro per la casa.
+Oppure appartiene a quel mite indù che si tiene
+al guinzaglio.»
+
+«Quale indù?» chiese Padre Brown, ancora fissando il pugnale
+che teneva in mano.
+
+«Oh, un prestigiatore indiano», disse il medico con leggerezza; «un impostore, s'intende.»
+
+«Non crede nella magia?» chiese Padre Brown, senza alzare lo sguardo.
+
+«Perbacco! La magia!» disse il medico.
+
+«È molto bello», disse il prete con voce bassa e sognante;
+«i colori sono molto belli. Ma ha la forma sbagliata.»
+
+«Sbagliata per cosa?» chiese Flambeau, fissandolo.
+
+«Per qualsiasi cosa. Ha la forma sbagliata in astratto. Non lo sentite mai,
+questo, davanti all'arte orientale? I colori sono inebrianti di bellezza;
+ma le forme sono meschine e cattive — deliberatamente meschine e cattive.
+Ho visto cose malvagie in un tappeto turco.»
+
+«*Mon Dieu!*» esclamò Flambeau ridendo.
+
+«Sono lettere e simboli in una lingua che non conosco; ma so che
+stanno per parole malvagie», proseguì il prete, con la voce che si abbassava sempre di più.
+«Le linee vanno storte apposta — come serpenti che si ripiegano per fuggire.»
+
+«Che diavolo state dicendo?» disse il medico con una sonora risata.
+
+Flambeau gli rispose sottovoce. «A volte al Padre viene
+addosso questa nube da mistico», disse; «ma vi avverto lealmente
+che non l'ho mai visto averla se non quando c'era
+qualcosa di malvagio proprio lì vicino.»
+
+«Oh, sciocchezze!» disse lo scienziato.
+
+«Ma guardatelo», esclamò Padre Brown, tenendo il coltello ricurvo
+a distanza di braccio, come se fosse un serpente scintillante.
+«Non vedete che ha la forma sbagliata? Non vedete che non ha
+alcuno scopo schietto e semplice? Non punta come una lancia.
+Non falcia come una falce. Non ha l'aria di un'arma.
+Ha l'aria di uno strumento di tortura.»
+
+«Be', dal momento che a lei non sembra piacere», disse l'allegro Harris,
+«sarà meglio riportarlo al suo proprietario. Non siamo ancora arrivati
+in fondo a questa maledetta serra? Questa casa, se è per questo,
+ha la forma sbagliata.»
+
+«Lei non capisce», disse Padre Brown scuotendo il capo.
+«La forma di questa casa è bizzarra — è persino ridicola.
+Ma non c'è nulla di sbagliato in essa.»
+
+Mentre parlavano giunsero alla curva di vetro che chiudeva la serra,
+una curva ininterrotta, perché non vi era né porta né finestra da cui
+entrare a quell'estremità. Il vetro, tuttavia, era trasparente, e il sole ancora luminoso,
+benché cominciasse a calare; e potevano vedere non solo le fioriture
+fiammeggianti là dentro, ma la fragile figura del poeta in una giacca di velluto marrone, sdraiato
+languidamente sul divano, essendosi, a quanto pareva, mezzo addormentato su un libro.
+Era un uomo pallido ed esile, con radi capelli castani e una frangia di barba
+che era il paradosso del suo volto, poiché la barba lo faceva sembrare meno virile.
+Questi tratti erano ben noti a tutti e tre; ma anche se non fosse stato
+così, è dubbio che avrebbero guardato Quinton in quel momento.
+I loro occhi erano inchiodati su un altro oggetto.
+
+Esattamente sul loro cammino, immediatamente fuori dell'estremità arrotondata
+dell'edificio di vetro, stava in piedi un uomo alto, le cui vesti scendevano
+fino ai piedi in un bianco immacolato, e il cui cranio bruno e nudo,
+il volto e il collo, luccicavano nel sole calante come splendido bronzo.
+Guardava attraverso il vetro il dormiente, ed era
+più immobile di una montagna.

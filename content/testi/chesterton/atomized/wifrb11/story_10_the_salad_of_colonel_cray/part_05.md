@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/wifrb11-(chesterton)">The Wisdom of Father Brown</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/wifrb11/story_10_the_salad_of_colonel_cray/part_04">‹ part 04</a><a class="ex-next" href="/testi/chesterton/atomized/wifrb11/story_11_the_strange_crime_of_john_boulnois/part_01">part 01 ›</a></div>
@@ -127,3 +129,62 @@ a long time looking for the police."
 "Well, good-bye."
 
                                 ELEVEN
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/wifrb11-(chesterton)">The Wisdom of Father Brown</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/wifrb11/story_10_the_salad_of_colonel_cray/part_04">‹ part 04</a><a class="ex-next" href="/testi/chesterton/atomized/wifrb11/story_11_the_strange_crime_of_john_boulnois/part_01">part 01 ›</a></div>
+</nav>
+
+# [[wifrb11]] — L'insalata del colonnello Cray (parte 5)
+
+     Il prete pareva perplesso. «Non può essere stato lui presso la pattumiera», mormorò. «Non con quei vestiti. Oppure c'era passato prima, oggi?»
+
+     Padre Brown, a contatto con le altre persone, era sensibile come un barometro; ma quel giorno sembrava sensibile all'incirca quanto un rinoceronte. Nessuna legge sociale, esplicita o sottintesa, poteva imporgli di attardarsi intorno al desinare degli amici anglo-indiani; eppure si attardava, coprendo la propria posizione con fiumi di conversazione spassosa quanto perfettamente superflua. Risultava tanto più sconcertante in quanto non pareva desiderare alcun pranzo. Mentre uno dopo l'altro i più squisitamente equilibrati kedgeree di curry, accompagnati dalle annate a essi appropriate, venivano posti dinanzi agli altri due, egli si limitava a ripetere che era uno dei suoi giorni di digiuno, e sgranocchiava un pezzo di pane, sorseggiava e poi lasciava intatto un bicchiere d'acqua fredda. La sua parlata, tuttavia, era esuberante.
+
+     «Vi dirò io che cosa farò per voi», esclamò, «vi preparerò un'insalata! Non posso mangiarla, ma la condirò come un angelo! Avete lì della lattuga.»
+
+     «Purtroppo è l'unica cosa che ci sia rimasta», rispose il Maggiore di buon umore. «Dovete ricordare che senape, aceto, olio e via dicendo sono spariti con l'oliera e con il ladro.»
+
+     «Lo so», replicò Brown, piuttosto vagamente. «È proprio ciò che ho sempre temuto potesse accadere. Ecco perché porto sempre con me un'oliera. Vado tanto matto per le insalate.»
+
+     E, con stupore dei due uomini, trasse di tasca dal panciotto una pepiera e la posò sulla tavola.
+
+     «Mi domando perché il ladro volesse anche la senape», proseguì, estraendo un vasetto di senape da un'altra tasca. «Per un impiastro, suppongo. E l'aceto» — e produsse quel condimento — «non ho forse sentito qualcosa a proposito di aceto e carta paglia? Quanto all'olio, che credo di aver messo nella tasca sinistra...»
+
+     La sua loquacità fu di colpo arrestata; poiché, alzando gli occhi, egli vide ciò che nessun altro vedeva: la nera figura del dottor Oman ritta sul prato illuminato dal sole, lo sguardo fisso e immobile dentro la stanza. Prima che potesse del tutto ricomporsi, Cray si era inserito nel discorso.
+
+     «Siete un tipo sbalorditivo», disse, fissandolo. «Verrò ad ascoltare le vostre prediche, se sono spassose quanto i vostri modi.» La sua voce mutò un poco, ed egli si abbandonò all'indietro sulla sedia.
+
+     «Oh, ci sono prediche anche in un'oliera», disse Padre Brown, con la massima gravità. «Avete udito parlare della fede simile a un granello di senape; o della carità che unge con l'olio? E quanto all'aceto, può un soldato dimenticare quel soldato solitario che, quando il sole si oscurò...»
+
+     Il colonnello Cray si sporse un poco in avanti e strinse la tovaglia.
+
+     Padre Brown, che stava preparando l'insalata, versò due cucchiaiate di senape nel bicchiere d'acqua accanto a sé; si alzò e disse con voce nuova, forte e improvvisa: «Bevete questo!»
+
+     Nello stesso istante il dottore, prima immobile nel giardino, giunse di corsa e, spalancando una finestra, gridò: «C'è bisogno di me? È stato avvelenato?»
+
+     «Poco ci manca», disse Brown, con l'ombra di un sorriso; ché l'emetico aveva molto rapidamente prodotto il suo effetto. E Cray giaceva su una sedia a sdraio, ansimando come chi lotta per la vita, ma vivo.
+
+     Il maggiore Putnam era balzato in piedi, il volto paonazzo chiazzato. «Un delitto!», gridò con voce rauca. «Vado a chiamare la polizia!»
+
+     Il prete poté udirlo strappare dall'attaccapanni il suo cappello di foglie di palma e precipitarsi fuori dalla porta d'ingresso; udì sbattere il cancello del giardino. Ma egli rimase soltanto a guardare Cray; e dopo un silenzio disse tranquillamente:
+
+     «Non vi parlerò molto; ma vi dirò ciò che desiderate sapere. Non c'è alcuna maledizione su di voi. Il Tempio della Scimmia fu o una coincidenza o parte del trucco; e il trucco era il trucco di un uomo bianco. C'è una sola arma capace di far uscire il sangue con quel semplice tocco lieve come una piuma: un rasoio impugnato da un uomo bianco. C'è un solo modo di riempire una comune stanza di un veleno invisibile e soverchiante: aprire il gas — il delitto di un uomo bianco. E c'è un solo tipo di clava che possa essere scagliata da una finestra, girare a mezz'aria e tornare alla finestra accanto: il boomerang australiano. Ne vedrete alcuni nello studio del Maggiore.»
+
+     Detto questo, uscì e scambiò per un momento qualche parola con il dottore. L'istante successivo, Audrey Watson entrò di corsa nella casa e cadde in ginocchio accanto alla sedia di Cray. Egli non poté udire ciò che i due si dissero; ma i loro volti si muovevano di stupore, non d'infelicità. Il dottore e il prete s'incamminarono lentamente verso il cancello del giardino.
+
+     «Suppongo che anche il Maggiore fosse innamorato di lei», disse con un sospiro; e quando l'altro annuì, osservò: «Siete stato molto generoso, dottore. Avete compiuto una bella azione. Ma che cosa vi fece nascere il sospetto?»
+
+     «Una cosa piccolissima», disse Oman; «ma mi tenne inquieto in chiesa finché non tornai indietro a vedere che tutto fosse a posto. Quel libro sul suo tavolo era un'opera sui veleni; ed era stato posato aperto proprio nel punto in cui si affermava che un certo veleno indiano, per quanto letale e difficile da rintracciare, era particolarmente facile da neutralizzare con l'uso dei più comuni emetici. Suppongo che egli lo abbia letto all'ultimo momento...»
+
+     «E si sia ricordato che c'erano degli emetici nell'oliera», disse Padre Brown. «Esattamente. Gettò l'oliera nella pattumiera — dove io la trovai, insieme ad altro argento — per dare a intendere che fosse stato un furto. Ma se guardate quella pepiera che ho posato sulla tavola, vi vedrete un piccolo foro. È là che colpì la pallottola di Cray, sollevando il pepe e facendo starnutire il criminale.»
+
+     Ci fu un silenzio. Poi il dottor Oman disse cupamente: «Il Maggiore ci mette parecchio tempo a cercare la polizia.»
+
+     «O la polizia a cercare il Maggiore?», disse il prete. «Be', arrivederci.»
+
+                                UNDICI

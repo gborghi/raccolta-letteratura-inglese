@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/innocence-(chesterton)">The Innocence of Father Brown</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/innocence/story_05_the_invisible_man/part_03">‹ part 03</a><a class="ex-next" href="/testi/chesterton/atomized/innocence/story_05_the_invisible_man/part_05">part 05 ›</a></div>
@@ -137,3 +139,137 @@ with beaming authority.
 
 "Then I wonder what that is?" said the priest, and stared at the ground
 blankly like a fish.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/innocence-(chesterton)">The Innocence of Father Brown</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/innocence/story_05_the_invisible_man/part_03">‹ part 03</a><a class="ex-next" href="/testi/chesterton/atomized/innocence/story_05_the_invisible_man/part_05">part 05 ›</a></div>
+</nav>
+
+# [[innocence]] — L’uomo invisibile (parte 4)
+
+Ci fu un breve silenzio, e poi Isidore Smythe disse con calma:
+«Le andrebbe un po’ di whisky? Io ho piuttosto la sensazione che me ne serva.»
+
+«Grazie; a me andrebbe un po’ di Flambeau», disse Angus, cupo.
+«Questa faccenda mi pare stia diventando piuttosto grave.
+Vado subito a prenderlo.»
+
+«Fa benissimo», disse l’altro, con ammirevole allegria.
+«Me lo porti qui il più in fretta che può.»
+
+Ma mentre Angus si chiudeva la porta d’ingresso alle spalle, vide Smythe respingere
+indietro un bottone, e una delle immagini a orologeria scivolò dal suo posto e sdrucciolò
+lungo un solco nel pavimento reggendo un vassoio con sifone e caraffa.
+Sembrava esserci davvero qualcosa di un tantino sinistro nel lasciare l’ometto solo
+tra quei servitori morti, che tornavano in vita mentre la porta si chiudeva.
+
+Sei gradini più sotto del pianerottolo di Smythe, l’uomo in maniche di camicia stava
+facendo qualcosa con un secchio. Angus si fermò per estorcergli la promessa,
+rafforzata da una mancia in prospettiva, che sarebbe rimasto
+in quel luogo fino al suo ritorno con l’investigatore, e che avrebbe
+tenuto il conto di qualunque sorta di estraneo salisse quelle scale.
+Precipitandosi giù all’atrio d’ingresso, affidò poi analoghi incarichi
+di vigilanza all’usciere alla porta principale, dal quale
+apprese la circostanza semplificatrice che non c’era porta sul retro.
+Non contento di questo, catturò il poliziotto errante
+e lo persuase a mettersi di fronte all’ingresso e a sorvegliarlo;
+e infine si fermò un istante per un penny di castagne,
+e per informarsi sulla probabile durata della permanenza del venditore
+nel vicinato.
+
+Il venditore di castagne, tirandosi su il colletto del cappotto, gli disse
+che probabilmente se ne sarebbe andato tra poco, poiché pensava che stesse
+per nevicare. In effetti, la sera si faceva grigia e pungente,
+ma Angus, con tutta la sua eloquenza, si adoperò per inchiodare l’uomo delle castagne
+al suo posto.
+
+«Si tenga caldo con le sue stesse castagne», disse con fervore.
+«Si mangi tutta la scorta; ne varrà la pena, glielo faccio io.
+Le darò una sterlina se aspetta qui finché non torno,
+e poi mi dice se qualche uomo, donna o bambino è entrato
+in quella casa dove sta l’usciere.»
+
+Poi si allontanò a passo svelto, con un ultimo sguardo alla torre assediata.
+
+«In ogni caso, ho fatto un cerchio attorno a quella stanza», disse.
+«Non possono essere tutti e quattro complici del signor Welkin.»
+
+Lucknow Mansions erano, per così dire, su una piattaforma più bassa di quella collina
+di case, di cui Himylaya Mansions poteva dirsi la vetta.
+L’appartamento semiufficiale del signor Flambeau era al pianterreno, e presentava
+sotto ogni aspetto un netto contrasto con i macchinari americani e il freddo lusso
+da albergo dell’appartamento del Silent Service. Flambeau, che era amico
+di Angus, lo ricevette in un covo artistico in stile rococò dietro l’ufficio,
+i cui ornamenti erano sciabole, archibugi, curiosità orientali,
+fiaschi di vino italiano, selvagge pentole da cucina, un piumoso gatto persiano,
+e un piccolo pretino cattolico dall’aria impolverata, che pareva particolarmente
+fuori posto.
+
+«Questo è il mio amico Padre Brown», disse Flambeau. «Da tempo
+desideravo fartelo conoscere. Splendido tempo, questo; un po’ freddo
+per un meridionale come me.»
+
+«Sì, credo che si manterrà sereno», disse Angus, sedendosi su
+un’ottomana orientale a righe violacee.
+
+«No», disse il prete con calma, «ha cominciato a nevicare.»
+
+E, in effetti, mentre egli parlava, i primi fiocchi, previsti dall’uomo
+delle castagne, cominciarono a fluttuare attraverso il vetro della finestra che si oscurava.
+
+«Be’», disse Angus con gravità. «Temo di essere venuto per affari,
+e per affari piuttosto inquietanti, per giunta. Il fatto è, Flambeau, che a un
+tiro di sasso da casa tua c’è un tale che ha un gran bisogno del tuo aiuto;
+è perpetuamente perseguitato e minacciato da un nemico invisibile…
+un mascalzone che nessuno ha mai neppure visto.» Mentre Angus proseguiva a raccontare
+tutta la storia di Smythe e Welkin, cominciando dal racconto di Laura,
+e continuando col proprio, la risata soprannaturale all’angolo di due
+strade vuote, le strane parole distinte pronunciate in una stanza vuota,
+Flambeau si mostrava sempre più vivamente preoccupato, e il piccolo
+prete pareva essere lasciato fuori dalla faccenda, come un pezzo di mobilio.
+Quando si venne alla carta da bollo scarabocchiata e incollata sulla vetrina,
+Flambeau si alzò, sembrando riempire la stanza con le sue enormi spalle.
+
+«Se non ti dispiace», disse, «penso che faresti meglio a raccontarmi
+il resto lungo la strada più breve verso la casa di quest’uomo.
+Ho l’impressione, chissà perché, che non ci sia tempo da perdere.»
+
+«Ne sarò lieto», disse Angus, alzandosi anche lui, «benché per il
+momento egli sia abbastanza al sicuro, giacché ho messo quattro uomini a sorvegliare l’unico buco
+della sua tana.»
+
+Uscirono nella strada, il piccolo prete che li seguiva trotterellando
+con la docilità di un cagnolino. Si limitò a dire,
+in tono allegro, come chi fa conversazione: «Come diventa spessa
+in fretta la neve sul terreno.»
+
+Mentre si infilavano per le ripide stradine laterali già incipriate d’argento,
+Angus terminò la sua storia; e quando raggiunsero il semicerchio
+con gli altissimi palazzi, ebbe agio di rivolgere l’attenzione
+alle quattro sentinelle. Il venditore di castagne, sia prima sia dopo
+aver ricevuto una sterlina, giurò cocciutamente di aver sorvegliato la porta
+e di non aver visto entrare alcun visitatore. Il poliziotto fu ancora più categorico.
+Disse che aveva avuto esperienza di furfanti di ogni genere, in cappello a cilindro e in stracci;
+non era così sprovveduto da aspettarsi che i personaggi sospetti avessero l’aria sospetta;
+teneva d’occhio chiunque, e, che Dio lo aiutasse, non c’era stato nessuno.
+E quando tutti e tre gli uomini si radunarono attorno all’usciere dorato, che ancora
+se ne stava sorridente a gambe divaricate sotto il portico, il verdetto fu ancora più definitivo.
+
+«Ho il diritto di chiedere a qualsiasi uomo, duca o spazzino, che cosa vuole
+in questi appartamenti», disse il gioviale gigante gallonato d’oro, «e
+giuro che non c’è stato nessuno a cui chiederlo da quando questo signore se n’è andato.»
+
+L’insignificante Padre Brown, che se ne stava in disparte, guardando modestamente
+il selciato, si azzardò qui a dire con mitezza: «Nessuno è dunque
+salito o sceso per le scale da quando ha cominciato a cadere la neve?
+Ha cominciato mentre eravamo tutti da Flambeau.»
+
+«Non è entrato nessuno qui, signore, può prenderlo per certo da me», disse il funzionario,
+con raggiante autorità.
+
+«Allora mi chiedo che cosa sia quello», disse il prete, e fissò il suolo
+con aria vacua come un pesce.

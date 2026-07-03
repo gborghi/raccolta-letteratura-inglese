@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/wifrb11-(chesterton)">The Wisdom of Father Brown</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/wifrb11/story_05_the_mistake_of_the_machine/part_03">‹ part 03</a><a class="ex-next" href="/testi/chesterton/atomized/wifrb11/story_05_the_mistake_of_the_machine/part_05">part 05 ›</a></div>
@@ -123,3 +125,123 @@ He didn't write his own, initials in a man's [[Blood|blood]].  Saints alive!
 Can't you see the whole character is different, in good and evil?  
 Why, you don't seem to be like I am a bit.  One would think
 you'd never had any vices of your own."
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/wifrb11-(chesterton)">The Wisdom of Father Brown</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/wifrb11/story_05_the_mistake_of_the_machine/part_03">‹ part 03</a><a class="ex-next" href="/testi/chesterton/atomized/wifrb11/story_05_the_mistake_of_the_machine/part_05">part 05 ›</a></div>
+</nav>
+
+# [[wifrb11]] — L'errore della [[Machine|macchina]] (parte 4)
+
+     «Mi dispiace», disse l'altro. «Faccio soltanto notare quella che sembra
+una ragionevole possibilità. Se tu potevi capire dal suo contegno quando
+era giunta la parola che poteva mandarlo alla forca, perché non avrebbe potuto lui capire
+dal tuo contegno che la parola che poteva mandarlo alla forca stava arrivando?
+Io, per parte mia, prima d'impiccare qualcuno chiederei ben più che parole.»
+
+     Usher batté il pugno sul tavolo e si alzò in una sorta di trionfo rabbioso.
+
+     «Ed è», gridò, «proprio quel che ti darò.
+Provai la macchina dapprima soltanto per poter poi mettere la cosa alla prova
+in altri modi, e la macchina, signore, ha ragione.»
+
+     Fece una pausa e riprese con minore eccitazione.
+«Voglio piuttosto insistere, se è per questo, sul fatto che fin lì
+avevo ben poco su cui basarmi, oltre all'esperimento scientifico.
+In realtà non c'era proprio nulla contro quell'uomo. Gli abiti gli stavano
+male, come ho detto, ma erano piuttosto migliori, semmai,
+di quelli della classe sommersa a cui evidentemente apparteneva.
+Per giunta, sotto tutte le macchie del suo tuffarsi attraverso i campi arati
+o del suo forzare siepi polverose, l'uomo era relativamente pulito.
+Questo poteva voler dire, naturalmente, che era appena evaso di prigione;
+ma mi ricordava piuttosto la disperata decenza dei poveri relativamente
+rispettabili. Il suo contegno era, sono costretto a confessarlo,
+del tutto conforme al loro. Era silenzioso e dignitoso come lo sono essi;
+sembrava avere un grande, ma sepolto, rancore, come l'hanno essi.
+Professava totale ignoranza del delitto e dell'intera questione;
+e non mostrava altro che una tetra impazienza per qualche cosa sensata
+che venisse a trarlo fuori dal suo insensato impiccio.
+Mi chiese più d'una volta se potesse telefonare a un avvocato
+che l'aveva aiutato molto tempo prima in una vertenza sindacale, e in ogni senso
+si comportava come ci si aspetterebbe che si comportasse un innocente. Non c'era nulla
+al mondo contro di lui, tranne quel piccolo indice sul quadrante
+che segnava il variare del suo polso.
+
+     «Allora, signore, la macchina era sotto processo; e la macchina aveva ragione.
+Quando uscii con lui dalla stanza privata nell'anticamera
+dove ogni sorta d'altra gente attendeva d'essere interrogata,
+credo che avesse già più o meno deciso di chiarire le cose
+con qualcosa di simile a una confessione. Si volse verso di me e cominciò a dire
+a voce bassa: `Oh, non ne posso più. Se proprio dovete sapere
+tutto di me —'
+
+     «Nello stesso istante una delle povere donne sedute sulla lunga panca
+si alzò, gridando a squarciagola e puntandogli contro il dito.
+Mai in vita mia ho udito qualcosa di più demoniacamente distinto.
+Il suo dito scarno pareva individuarlo come se fosse una cerbottana.
+Benché la parola non fosse che un ululato, ogni sillaba era chiara
+come un rintocco distinto sull'[[Clock|orologio]].
+
+     «`Drugger Davis!' gridò. `Hanno preso Drugger Davis!'
+
+     «Fra le disgraziate, per lo più ladre e prostitute,
+venti volti si voltarono, spalancati di gioia maligna e d'odio. Se non avessi mai
+udito le parole, avrei capito dallo stesso urto sui suoi lineamenti
+che il cosiddetto Oscar Rian aveva udito il proprio vero nome. Ma non sono poi
+tanto ignorante, forse ti stupirai a sentirlo. Drugger Davis era
+uno dei criminali più terribili e depravati che mai
+abbiano messo in scacco la nostra polizia. È certo che aveva ucciso più d'una volta,
+molto prima della sua ultima impresa col guardiano. Ma non fu mai del tutto
+incastrato per questo, cosa abbastanza curiosa, perché lo faceva nello stesso modo
+di quei più miti — o più meschini — delitti per i quali veniva incastrato piuttosto spesso.
+Era un bruto bello, dall'aria [[Well|ben]] educata, come lo è ancora, in certa misura;
+e per lo più girava con cameriere di bar o commesse di negozio e le
+truffava dei loro denari. Molto spesso, però, andava assai più oltre;
+e le si trovava narcotizzate con sigarette o cioccolatini e
+tutti i loro averi spariti. Poi venne un caso in cui la ragazza
+fu trovata morta; ma la premeditazione non poté essere del tutto provata, e,
+cosa ancor più pratica, il criminale non poté essere trovato.
+Sentii voce che fosse ricomparso in qualche luogo nel carattere opposto, questa [[Time|volta]],
+prestando denaro invece di prenderlo in prestito;
+ma sempre a povere vedove che egli potesse personalmente affascinare,
+e sempre con lo stesso cattivo esito per loro. [[Well|Ebbene]], ecco
+il tuo uomo [[Innocent|innocente]], ed ecco il suo [[Innocent|innocente]] curriculum. E, da allora,
+ben quattro criminali e tre guardiani l'hanno identificato e hanno confermato la storia.
+Ora, che cos'hai da dire alla mia povera piccola [[Machine|macchina]], dopo questo?
+Non l'ha forse spacciato, la [[Machine|macchina]]? O preferisci dire che io e la donna
+l'abbiamo spacciato noi?»
+
+     «Quanto a ciò che hai fatto per lui», rispose [[Father Brown|Padre Brown]],
+alzandosi e scuotendosi in un modo flaccido, «l'hai salvato
+dalla sedia elettrica. Non credo che possano giustiziare Drugger Davis
+su quella vecchia e vaga storia del [[Poison|veleno]]; e quanto al detenuto
+che uccise il guardiano, immagino sia ovvio che non l'hai preso.
+Il signor Davis è [[Innocent|innocente]] di quel delitto, in ogni caso.»
+
+     «Che cosa vuoi dire?» domandò l'altro. «Perché dovrebbe essere
+[[Innocent|innocente]] di quel delitto?»
+
+     «Ma via, il cielo ci aiuti!» gridò l'ometto in uno dei suoi rari
+momenti di animazione, «ma via, perché è colpevole degli altri delitti!
+Non so di che cosa siate fatti, voialtri. Sembra che pensiate che
+tutti i peccati stiano insieme in un sacco. Parlate come se un avaro il lunedì
+fosse sempre uno scialacquatore il martedì. Mi dici che quest'uomo che tieni qui
+ha passato settimane e mesi ad abbindolare donne bisognose per piccole somme di denaro;
+che usò un narcotico nel migliore dei casi, e un [[Poison|veleno]] nel peggiore;
+che riapparve poi come il più infimo genere di usuraio,
+e truffò la più povera gente col medesimo stile paziente e pacifico.
+Sia pure concesso — ammettiamo, per amor di discussione,
+che abbia fatto tutto questo. Se è così, ti dirò io ciò che non ha fatto.
+Non ha preso d'assalto un [[Storm|muro irto di punte]] contro un uomo con un fucile carico.
+Non ha scritto sul muro di suo pugno, per dire che l'aveva fatto lui.
+Non si è fermato a dichiarare che la sua giustificazione era la legittima [[Self|difesa]].
+Non ha spiegato di non aver alcuna lite col povero guardiano.
+Non ha nominato la [[house|casa]] del ricco a cui si dirigeva col fucile.
+Non ha scritto le proprie iniziali nel [[Blood|sangue]] di un uomo. Santi del cielo!
+Non vedi che tutto il carattere è diverso, nel bene e nel male?
+Ma via, non mi sembri affatto simile a me. Si direbbe
+che tu non abbia mai avuto vizi tuoi.»

@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/thursday-(chesterton)">The Man Who Was Thursday</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/thursday/chapter_13/part_04">‹ part 04</a><a class="ex-next" href="/testi/chesterton/atomized/thursday/chapter_14/part_02">part 02 ›</a></div>
@@ -140,3 +142,140 @@ Men have felt it sometimes when they went through wild forests,
 and felt that the [[Animals|animals]] there were at once [[Innocent|innocent]] and pitiless.
 They might ignore or slay.  How would you like to pass ten mortal
 hours in a parlour with an absent-minded tiger?"
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/thursday-(chesterton)">The Man Who Was Thursday</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/thursday/chapter_13/part_04">‹ part 04</a><a class="ex-next" href="/testi/chesterton/atomized/thursday/chapter_14/part_02">part 02 ›</a></div>
+</nav>
+
+# [[thursday]] — Capitolo 14 (parte 1)
+
+                         CAPITOLO XIV
+
+                    I SEI FILOSOFI
+
+ATTRAVERSO verdi campi, e sfondando siepi in fiore, arrancavano sei
+sudici detective, a circa cinque miglia da [[London|Londra]].  L’ottimista
+della compagnia aveva dapprima proposto di seguire il pallone
+attraverso l’Inghilterra meridionale a bordo di carrozze da nolo. Ma alla fine dovette
+arrendersi all’ostinato rifiuto del pallone di seguire le strade,
+e all’ancor più ostinato rifiuto dei vetturini di seguire il pallone.
+Di conseguenza gli instancabili benché esasperati viaggiatori sfondarono
+neri roveti e ararono campi già arati finché ciascuno di loro
+non fu ridotto a una figura troppo scandalosa per essere scambiata anche solo per un vagabondo.
+Quelle verdi colline del Surrey videro il crollo finale e la [[Tragedy|tragedia]]
+dell’ammirevole abito grigio chiaro con cui Syme era partito da
+Saffron Park.  Il suo cilindro di seta gli si spezzò sul naso a causa di un ramo oscillante,
+le falde della giacca gli furono strappate fino alla spalla da spine avide,
+la creta d’Inghilterra gli schizzò fin sul colletto; ma egli portava ancora
+avanti la sua barba gialla con una determinazione silenziosa e furiosa,
+e i suoi occhi restavano fissi su quella sfera di gas galleggiante, che nel
+pieno rossore del tramonto sembrava colorata come una nube al tramonto.
+
+«Dopotutto», disse, «è bellissimo!»
+
+«È singolarmente e stranamente bello!» disse [[The Professor|il Professore]].  «Vorrei
+che quel dannato otre di gas scoppiasse!»
+
+«No», disse il dottor Bull, «io [[Hope|spero]] di no. Potrebbe far male al vecchio.»
+
+«Fargli male!» disse il vendicativo Professore, «fargli male!
+Non tanto quanto gliene farei io se riuscissi a raggiungerlo.
+Piccolo Bucaneve!»
+
+«In qualche modo, non voglio che gli si faccia del male», disse il dottor Bull.
+
+«Come!» gridò amaramente il Segretario.  «Credi davvero
+a tutta quella storia che sia lui il nostro uomo nella stanza buia?
+[[Sunday]] direbbe che è chiunque.»
+
+«Non so se ci credo o no», disse il dottor Bull.  «Ma non è
+questo che intendo.  Non posso desiderare che il pallone del vecchio [[Sunday]] scoppi perché…»
+
+«[[Well|Allora]]», disse Syme spazientito, «perché?»
+
+«[[Well|Allora]], perché lui stesso è così maledettamente simile a un pallone»,
+disse disperatamente il dottor Bull.  «Non capisco una sola parola di tutta quell’idea
+che sia lo stesso uomo che ci ha dato le nostre tessere azzurre.
+Sembra rendere ogni cosa un’assurdità.  Ma non m’importa chi lo sappia,
+io ho sempre avuto una simpatia per il vecchio [[Sunday]] in persona, malvagio com’era.
+Proprio come se fosse un grande bimbo tutto ciccia.  Come posso spiegare che cosa fosse
+la mia bizzarra simpatia?  Non m’ha impedito di combatterlo come un demonio!
+Renderò tutto più chiaro se dico che mi piaceva perché era così grasso?»
+
+«No di certo», disse il Segretario.
+
+«Ci sono arrivato adesso», gridò Bull, «era perché era così grasso e così leggero.
+Proprio come un pallone.  Pensiamo sempre ai grassi come pesanti,
+ma lui avrebbe potuto danzare in gara con una silfide.  Ora vedo che cosa intendo.
+La forza moderata si mostra nella violenza, la forza suprema si mostra nella leggerezza.
+Era come le vecchie speculazioni: che cosa accadrebbe se un elefante potesse
+saltare in cielo come una cavalletta?»
+
+«Il nostro elefante», disse Syme, guardando in alto, «è saltato in cielo
+come una cavalletta.»
+
+«E in qualche modo», concluse Bull, «è per questo che non posso fare a meno di provare simpatia
+per il vecchio [[Sunday]].  No, non è ammirazione per la forza, o qualche altra sciocchezza
+del genere.  C’è una specie di allegria nella cosa, come se stesse scoppiando
+per qualche buona notizia.  Non l’avete mai sentito, in un giorno di [[spring|primavera]]?
+Sapete, la [[Nature|Natura]] fa i suoi scherzi, ma in qualche modo quel giorno prova che sono
+scherzi di buona indole.  Non ho mai letto io stesso la [[Bible|Bibbia]], ma quella parte
+di cui ridono è [[Truth|verità]] letterale: “Perché saltate, o alti monti?”
+I monti saltano davvero; almeno, ci provano…. Perché mi piace [[Sunday]]?…
+come posso dirvelo?… perché è un tale Zoticone.»
+
+Ci fu un lungo [[Silence|silenzio]], e poi il Segretario disse con
+una voce curiosa, tesa…
+
+«Tu non conosci [[Sunday]] affatto.  Forse è perché sei
+migliore di me, e non conosci l’inferno.  Io ero un tipo feroce,
+e un po’ morboso fin dall’inizio.  L’uomo che siede nell’oscurità,
+e che ci scelse tutti, scelse me perché avevo tutto l’aspetto folle
+di un cospiratore: perché il mio sorriso andava storto, e i miei occhi
+erano tetri, anche quando sorridevo.  Ma dev’esserci stato qualcosa
+in me che rispondeva ai nervi di tutti quegli uomini anarchici.
+Perché quando vidi [[Sunday]] per la prima volta egli mi espresse, non la tua aerea vitalità,
+ma qualcosa insieme di grossolano e di triste nella [[Nature|Natura]] delle Cose.  Lo trovai
+che fumava in una stanza al crepuscolo, una stanza con una tenda scura abbassata, infinitamente più
+deprimente della genìale oscurità in cui vive il nostro padrone.
+Sedeva là su una panca, un enorme mucchio d’uomo, oscuro e informe.
+Ascoltò tutte le mie parole senza parlare né muoversi.
+Riversai i miei appelli più appassionati, e posi le mie domande
+più eloquenti.  Poi, dopo un lungo [[Silence|silenzio]], quella Cosa cominciò
+a tremare, e pensai che fosse scossa da qualche segreto malessere.
+Tremava come una gelatina ripugnante e viva.  Mi ricordò tutto ciò
+che avessi mai letto sui bassi corpi che sono all’origine della vita:
+i grumi degli abissi marini e il protoplasma.  Sembrava la forma
+ultima della materia, la più informe e la più vergognosa.
+Potevo solo dirmi, dai suoi rabbrividimenti, che era già qualcosa
+che un simile [[Monster|mostro]] potesse essere infelice.  E poi mi si rivelò
+d’un tratto che quella montagna bestiale tremava per un riso solitario,
+e il riso era rivolto a me.  Mi chiedete di perdonargliela?
+Non è cosa da poco essere derisi da qualcosa che è insieme più basso
+e più forte di te.»
+
+«Certamente voialtri esagerate a dismisura», tagliò corto la voce limpida
+dell’ispettore Ratcliffe.  «Il presidente [[Sunday]] è un tipo terribile
+per l’intelletto, ma fisicamente non è quel fenomeno da baraccone
+che voi fate credere.  Mi ricevette in un ufficio ordinario, con un cappotto
+a quadretti grigi, in pieno giorno.  Mi parlò in modo ordinario.
+Ma vi dirò io che cosa c’è di un po’ inquietante in [[Sunday]].  La sua stanza
+è ordinata, i suoi abiti sono ordinati, tutto sembra in ordine; ma lui è
+distratto. A volte i suoi grandi occhi lucenti diventano del tutto ciechi.
+Per ore dimentica che sei lì.  Ora, la distrazione è proprio
+un po’ troppo tremenda in un uomo malvagio.  Pensiamo a un malvagio come a un uomo vigile.
+Non riusciamo a pensare a un malvagio che sia onestamente e sinceramente
+sognante, perché non osiamo pensare a un malvagio [[Alone|solo]] con se stesso.
+Un uomo distratto significa un uomo di buona indole.  Significa un uomo che,
+se per caso ti scorge, si scuserà.  Ma come sopporterai
+un uomo distratto che, se per caso ti scorge, ti ucciderà?
+È questo che mette alla prova i nervi, l’astrazione unita alla crudeltà.
+Gli uomini l’hanno sentito a volte attraversando foreste selvagge,
+avvertendo che gli [[Animals|animali]] là dentro erano insieme [[Innocent|innocenti]] e spietati.
+Potevano ignorarti o ucciderti.  Come vi piacerebbe trascorrere dieci ore mortali
+in un salotto con una tigre distratta?»

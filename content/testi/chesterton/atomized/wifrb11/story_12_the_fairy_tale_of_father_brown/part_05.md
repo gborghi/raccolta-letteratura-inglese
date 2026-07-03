@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/wifrb11-(chesterton)">The Wisdom of Father Brown</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/wifrb11/story_12_the_fairy_tale_of_father_brown/part_04">‹ part 04</a><span></span></div>
@@ -105,3 +107,104 @@ with black eyebrows and a pink, painted sort of smile that seemed
 to contradict the black warning in his eyes.
 
 End of this Project Gutenberg Etext of The Wisdom of [[Father Brown]]
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/wifrb11-(chesterton)">The Wisdom of Father Brown</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/wifrb11/story_12_the_fairy_tale_of_father_brown/part_04">‹ part 04</a><span></span></div>
+</nav>
+
+# [[wifrb11]] — La fiaba di [[Father Brown|Padre Brown]] (parte 5)
+
+     «Qualcosa nella voce stessa fece voltare d'improvviso il Principe
+e precipitarsi giù per il sentiero di montagna che aveva scalato. Era a metà strada verso
+i giardini del palazzo prima ancora di tentare di strapparsi la sciarpa strangolatrice
+dal collo e dalle mascelle. Provò e riprovò, e fu impossibile;
+gli uomini che avevano annodato quel bavaglio conoscevano la differenza tra
+ciò che un uomo può fare con le mani davanti a sé e ciò che può fare
+con le mani dietro il capo. Le sue gambe erano libere di balzare come
+un'antilope sui [[Mountains|monti]], le sue braccia erano libere di fare qualsiasi gesto
+o agitare qualsiasi segnale, ma non poteva parlare. Un demone muto era in lui.
+
+     «Era giunto vicino ai boschi che cingevano il [[Castle|castello]]
+prima di aver del tutto compreso ciò che il suo stato senza parole significasse
+e fosse destinato a significare. Ancora una volta guardò torvo in basso i luminosi,
+squadrati labirinti della [[City|città]] illuminata a lampada sotto di lui, e non sorrise più.
+Si sentì ripetere le frasi del suo stato d'animo di prima con
+un'ironia omicida. Fin dove l'occhio poteva arrivare correvano i fucili
+dei suoi amici, ciascuno dei quali lo avrebbe abbattuto
+se non avesse potuto rispondere alla parola d'ordine. I fucili erano così vicini che
+il bosco e la cresta potevano essere pattugliati a intervalli regolari;
+perciò era inutile nascondersi nel bosco fino al mattino.
+I fucili erano schierati così lontano che un nemico non poteva insinuarsi
+in città con nessun aggiramento; perciò era vano tornare alla [[City|città]]
+per qualche via remota. Un grido da parte sua avrebbe fatto accorrere i suoi soldati
+su per la [[Hill|collina]]. Ma da lui nessun grido sarebbe venuto.
+
+     «La [[Moon|luna]] era sorta in un argento sempre più intenso, e il cielo mostrava
+strisce d'azzurro vivido e notturno tra le nere strisce
+dei pini attorno al [[Castle|castello]]. [[Flowers|Fiori]] di una qualche specie ampia e piumosa --
+perché prima non aveva mai notato tali cose -- erano al tempo stesso luminosi
+e scoloriti dal chiaro di luna, e parevano indescrivibilmente fantastici
+mentre si affollavano, come strisciando intorno alle radici degli alberi.
+Forse la sua ragione era stata d'improvviso scardinata dall'innaturale prigionia
+che portava con sé, ma in quel bosco egli sentì qualcosa
+di insondabilmente tedesco -- la fiaba. Sapeva con metà della mente
+che si stava avvicinando al [[Castle|castello]] di un orco -- aveva dimenticato
+di essere lui l'orco. Ricordò di aver chiesto a sua madre se gli orsi vivessero
+nel vecchio parco a [[Home|casa]]. Si chinò a cogliere un fiore, come se fosse
+un talismano contro l'incantesimo. Il gambo era più robusto di quanto si aspettasse,
+e si spezzò con un lieve schiocco. Mentre cercava con cura di infilarlo nella sua sciarpa,
+udì il grido: `Chi va là?' Allora ricordò che la sciarpa
+non era al suo solito posto.
+
+     «Tentò di gridare e restò muto. Venne la seconda intimazione;
+e poi uno sparo che stridette mentre veniva e poi fu d'improvviso acquietato
+dall'impatto. Otto di Grossenmark giaceva assai placidamente fra i fatati
+alberi, e non avrebbe più fatto danno né con oro né con acciaio; solo la
+matita d'argento della [[Moon|luna]] avrebbe messo in risalto e tracciato qua e là
+l'intricato ornamento della sua uniforme, o le vecchie rughe sulla sua fronte.
+Che Dio abbia [[Mercy|pietà]] della sua [[Soul|anima]].
+
+     «La sentinella che aveva sparato, secondo gli ordini rigorosi
+della guarnigione, corse naturalmente avanti per trovare qualche traccia della sua preda.
+Era un soldato semplice di nome Schwartz, poi non ignoto nella sua professione,
+e ciò che trovò fu un uomo calvo in uniforme, ma col volto
+tanto fasciato da una specie di maschera fatta della sua stessa sciarpa militare
+che nulla si poteva vedere se non occhi aperti e morti, luccicanti pietrosi
+al chiaro di luna. La pallottola era passata attraverso il bavaglio nella mascella;
+ecco perché vi era un foro di sparo nella sciarpa, ma un solo sparo.
+Naturalmente, se non correttamente, il giovane Schwartz strappò via la misteriosa
+maschera di seta e la gettò sull'erba; e allora vide chi aveva ucciso.
+
+     «Non possiamo essere certi della fase successiva. Ma propendo a credere
+che vi fu una fiaba, dopotutto, in quel piccolo bosco,
+per quanto orribile ne fosse l'occasione. Se la giovane signora di nome Hedwig
+avesse qualche precedente conoscenza del soldato che salvò e alla fine sposò,
+oppure se s'imbatté per caso nell'accidente e la loro intimità
+cominciò quella [[Night|notte]], probabilmente non lo sapremo mai. Ma possiamo sapere,
+credo, che questa Hedwig fu un'eroina, e meritò di sposare un uomo
+che divenne una specie di [[Hero|eroe]]. Fece la cosa audace e la cosa saggia.
+Persuase la sentinella a tornare al suo posto, luogo in cui
+non v'era nulla che lo collegasse al disastro; egli non era che uno
+dei più fedeli e ordinati di cinquanta simili sentinelle a portata di richiamo.
+Ella restò presso il [[Body|corpo]] e diede l'allarme; e non v'era nulla
+che collegasse lei al disastro, giacché non aveva, e non poteva avere, alcuna arma da fuoco.
+
+     «[[Well|Ebbene]]», disse [[Father Brown|Padre Brown]] alzandosi allegramente, «[[Hope|spero]] che siano felici.»
+
+     «Dove vai?» chiese il suo amico.
+
+     «Vado a dare un'altra occhiata a quel ritratto del Ciambellano,
+l'Arnhold che tradì i propri fratelli», rispose il sacerdote.
+«Mi [[Wonder|domando]] quale parte -- mi [[Wonder|domando]] se un uomo sia meno traditore quando è
+due volte traditore.»
+
+     E rimuginò a lungo davanti al ritratto di un uomo dai capelli bianchi
+con le sopracciglia nere e una specie di rosa, dipinto sorriso che pareva
+contraddire il nero monito nei suoi occhi.
+
+Fine di questo Etext del Project Gutenberg di La saggezza di [[Father Brown|Padre Brown]]

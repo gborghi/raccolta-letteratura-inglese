@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/innocence-(chesterton)">The Innocence of Father Brown</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/innocence/story_11_the_sign_of_the_broken_sword">‹ Story 11 The Sign of the Broken Sword</a><a class="ex-next" href="/testi/chesterton/atomized/innocence/story_01_the_blue_cross/part_01">part 01 ›</a></div>
@@ -599,3 +601,238 @@ stopped him and said:
 
 "I've got to get back to the Deaf School," said [[Father Brown]].  "I'm sorry
 I can't stop for the inquiry."
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/innocence-(chesterton)">The Innocence of Father Brown</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/innocence/story_11_the_sign_of_the_broken_sword">‹ Story 11 The Sign of the Broken Sword</a><a class="ex-next" href="/testi/chesterton/atomized/innocence/story_01_the_blue_cross/part_01">part 01 ›</a></div>
+</nav>
+
+# [[innocence]] — I tre strumenti della [[Death|morte]]
+
+                     I tre strumenti della morte
+
+Per vocazione e per convinzione, Father Brown sapeva, meglio della maggior parte di noi, che ogni uomo acquista dignità nel momento in cui muore. Eppure anche lui provò una fitta di sconvenienza quando lo tirarono giù dal letto all'alba per dirgli che Sir Aaron Armstrong era stato assassinato. C'era qualcosa di assurdo e di indecoroso nell'accostare una violenza segreta a una figura tanto squisitamente spassosa e popolare. Poiché Sir Aaron Armstrong era spassoso fino a rasentare il comico, e popolare in un modo che sfiorava la leggenda. Era come sentir dire che Sunny Jim si fosse impiccato, o che il signor Pickwick fosse morto a Hanwell. Perché, benché Sir Aaron fosse un filantropo, e trattasse dunque il lato più oscuro della nostra società, si vantava di trattarlo con lo stile più luminoso che si potesse immaginare. I suoi discorsi politici e sociali erano cascate di aneddoti e di «fragorose risate»; la sua salute fisica era di quelle prorompenti; la sua etica era tutta ottimismo; e affrontava il problema dell'alcol (il suo argomento prediletto) con quell'immortale, e persino monotona, allegria che così spesso contraddistingue l'astemio prospero.
+
+La consacrata storia della sua conversione era ben nota sulle pedane e sui pulpiti più puritani: come, quando era ancora un ragazzo, fosse stato tratto lontano dalla teologia scozzese dal whisky scozzese, e come si fosse risollevato da entrambi diventando (secondo la sua modesta espressione) ciò che era. Eppure l'ampia barba bianca, il volto cherubico e gli occhiali scintillanti, che comparivano agli innumerevoli banchetti e congressi, rendevano in qualche modo difficile credere che fosse mai stato qualcosa di tanto morboso come un bevitore di liquori o un calvinista. Era, si sentiva, il più seriamente allegro fra tutti i figli degli uomini.
+
+Aveva vissuto sul lembo rurale di Hampstead, in una bella casa, alta ma non larga, una torre moderna e prosaica. Il più stretto dei suoi lati stretti sovrastava il ripido pendio verde d'una scarpata ferroviaria, ed era scosso dal passaggio dei treni. Sir Aaron Armstrong, come spiegava a gran voce, non aveva nervi. Ma se spesso era stato il treno a dare uno scossone alla casa, quella mattina le parti si erano invertite, ed era stata la casa a dare uno scossone al treno.
+
+La locomotiva rallentò e si fermò appena oltre il punto in cui uno spigolo della casa premeva contro il netto declivio erboso. L'arresto della maggior parte delle cose meccaniche è per forza lento; ma la causa vivente di questo arresto era stata rapidissima. Un uomo interamente vestito di nero, financo (fu ricordato) nel raccapricciante dettaglio dei guanti neri, apparve sul crinale sopra la locomotiva e agitò le mani nere come un tetro mulino a vento. Questo, di per sé, difficilmente avrebbe fermato anche il più lento dei treni. Ma da lui uscì un grido di cui in seguito si parlò come di qualcosa di assolutamente innaturale e nuovo. Era uno di quegli urli orribilmente distinti anche quando non riusciamo a udire ciò che viene urlato. La parola, in questo caso, era: «Assassinio!».
+
+Ma il macchinista giura che avrebbe frenato ugualmente se avesse udito soltanto l'accento terribile e inequivocabile, e non la parola.
+
+Fermato il treno, anche lo sguardo più superficiale poteva cogliere molti particolari della tragedia. L'uomo in nero sulla scarpata verde era Magnus, il domestico di Sir Aaron Armstrong. Il baronetto, nel suo ottimismo, aveva spesso riso dei guanti neri di quel lugubre attendente; ma difficilmente qualcuno avrebbe riso di lui in quel momento.
+
+Non appena uno o due curiosi ebbero messo piede fuori dai binari e superato la siepe fuligginosa, videro, rotolato quasi in fondo alla scarpata, il corpo di un vecchio in una vestaglia gialla dalla fodera d'uno scarlatto vivissimo. Un pezzetto di corda pareva impigliato attorno alla sua gamba, ingarbugliatosi presumibilmente in una colluttazione. C'era qualche schizzo di sangue, benché pochissimo; ma il corpo era piegato, o spezzato, in una posa impossibile per qualsiasi essere vivente. Era Sir Aaron Armstrong. Pochi altri istanti di sgomento fecero venir fuori un uomo grande e con la barba bionda, che alcuni viaggiatori poterono salutare come il segretario del morto, Patrick Royce, un tempo assai noto negli ambienti bohémien e persino famoso nelle arti bohémien. In un modo più vago, ma ancor più convincente, egli fece eco all'angoscia del domestico. Quando la terza figura di quella casa, Alice Armstrong, figlia del morto, entrò in giardino già barcollando e agitando le braccia, il macchinista aveva già posto fine alla propria sosta. Il fischio era risuonato e il treno era ripartito ansimando a cercare aiuto alla stazione successiva.
+
+Father Brown era stato così rapidamente convocato su richiesta di Patrick Royce, il grosso ex bohémien segretario. Royce era irlandese di nascita, e di quel genere di cattolico disinvolto che non si ricorda mai della propria religione finché non si trova davvero in un guaio. Ma alla richiesta di Royce si sarebbe forse dato ascolto meno prontamente, se uno dei detective ufficiali non fosse stato amico e ammiratore dell'ufficioso Flambeau; e non era possibile essere amico di Flambeau senza sentire innumerevoli storie su Father Brown. Fu così che, mentre il giovane detective (il cui nome era Merton) conduceva il piccolo prete attraverso i campi fino alla ferrovia, la loro conversazione fu più confidenziale di quanto ci si potesse attendere fra due perfetti sconosciuti.
+
+«Per quel che vedo io», disse candidamente il signor Merton, «non c'è alcun senso da cavarne. Non c'è nessuno che si possa sospettare. Magnus è un vecchio sciocco tutto compunto, troppo sciocco per essere un assassino. Royce è stato per anni il migliore amico del baronetto; e sua figlia lo adorava senza dubbio. E poi è tutto troppo assurdo. Chi mai ucciderebbe un vecchietto tanto gioviale come Armstrong? Chi potrebbe intingere le mani nel sangue di un oratore da fine cena? Sarebbe come uccidere Babbo Natale.»
+
+«Sì, era una casa allegra», convenne Father Brown. «Era una casa allegra finché lui era vivo. Crede che sarà allegra ora che è morto?»
+
+Merton trasalì un poco e osservò il compagno con occhio ravvivato. «Ora che è morto?» ripeté.
+
+«Sì», proseguì il prete flemmatico, «era allegro. Ma comunicava la propria allegria? Sinceramente, c'era nella casa qualcun altro che fosse allegro, all'infuori di lui?»
+
+Una finestra si aprì nella mente di Merton e vi lasciò entrare quella strana luce di sorpresa nella quale vediamo per la prima volta cose che abbiamo sempre conosciuto. Era stato spesso dagli Armstrong, per piccole faccende di polizia del filantropo; e, ora che ci pensava, era in sé una casa deprimente. Le stanze erano altissime e freddissime; l'arredo meschino e provinciale; i corridoi pieni di spifferi erano illuminati da una luce elettrica più squallida del chiaro di luna. E benché il volto scarlatto e la barba d'argento del vecchio avessero avvampato come un falò in ogni stanza o corridoio via via che vi passava, non lasciavano dietro di sé alcun tepore. Senza dubbio quello spettrale disagio del luogo era in parte dovuto proprio alla vitalità e all'esuberanza del suo padrone: non gli occorrevano stufe né lampade, diceva, perché portava con sé il proprio calore. Ma quando Merton richiamò alla mente gli altri abitanti, fu costretto a confessare che anch'essi erano come ombre del loro signore. Il tetro domestico, con i suoi mostruosi guanti neri, era quasi un incubo; Royce, il segretario, era abbastanza solido, un grosso toro d'uomo, in tweed, con una barba corta; ma la barba color della paglia era spaventosamente cosparsa di grigio, come il tweed, e l'ampia fronte era solcata da rughe premature. Anche lui era di buon carattere, ma d'una bontà triste, quasi affranta, con l'aria generale di essere in qualche modo un fallito nella vita. Quanto alla figlia di Armstrong, era quasi incredibile che fosse sua figlia, tanto pallida di colorito e delicata di lineamenti. Era aggraziata, ma nella sua stessa persona correva un tremito simile alle linee di un pioppo tremulo. Merton si era talvolta domandato se avesse imparato a trasalire allo schianto dei treni in corsa.
+
+«Vede», disse Father Brown, sbattendo le palpebre con modestia, «non sono sicuro che l'allegria degli Armstrong sia poi tanto allegra... per gli altri. Lei dice che nessuno potrebbe uccidere un vecchio tanto felice, ma io non ne sono così sicuro; ne nos inducas in tentationem. Se mai dovessi assassinare qualcuno», aggiunse con la più grande semplicità, «oserei dire che potrebbe trattarsi di un ottimista.»
+
+«Perché?» esclamò Merton divertito. «Crede che alla gente non piaccia l'allegria?»
+
+«Alla gente piace ridere spesso», rispose Father Brown, «ma non credo che le piaccia un sorriso perenne. L'allegria senza umorismo è una cosa davvero snervante.»
+
+Camminarono un tratto in silenzio lungo la ventosa scarpata erbosa accanto ai binari, e proprio mentre giungevano sotto l'ombra allungata dell'alta casa Armstrong, Father Brown disse a un tratto, come chi getta via un pensiero fastidioso più che offrirlo sul serio: «Certo, il bere non è né buono né cattivo in sé. Ma a volte non posso fare a meno di pensare che uomini come Armstrong avrebbero bisogno di un bicchiere di vino ogni tanto, per rattristarsi un po'.»
+
+Il superiore gerarchico di Merton, un detective brizzolato e capace di nome Gilder, se ne stava sulla scarpata verde in attesa del coroner, a colloquio con Patrick Royce, le cui grandi spalle e la barba e i capelli irsuti lo sovrastavano. Ciò era tanto più evidente perché Royce camminava sempre con una sorta di possente curvatura, e sembrava sbrigare i suoi piccoli doveri di scrivano e di domestico in maniera greve e umiliata, come un bufalo che tira un carretto.
+
+Sollevò il capo con insolito piacere alla vista del prete, e lo condusse in disparte di qualche passo. Nel frattempo Merton si rivolgeva al detective più anziano con deferenza, sì, ma non senza una certa fanciullesca impazienza.
+
+«Ebbene, signor Gilder, ha fatto molti progressi con il mistero?»
+
+«Non c'è alcun mistero», replicò Gilder, guardando le cornacchie da sotto le palpebre sognanti.
+
+«Beh, per me ce n'è uno, quantomeno», disse Merton sorridendo.
+
+«È semplicissimo, ragazzo mio», osservò l'anziano investigatore, lisciandosi la barba grigia e appuntita. «Tre minuti dopo che lei era andato a cercare il prete del signor Royce, tutto è venuto a galla. Conosce quel domestico dalla faccia smorta e dai guanti neri che ha fermato il treno?»
+
+«Lo riconoscerei dovunque. In qualche modo mi ha fatto venire i brividi.»
+
+«Ebbene», strascicò Gilder, «quando il treno è ripartito, se n'era andato anche lui. Un criminale piuttosto freddo, non trova, fuggire proprio col treno partito a chiamare la polizia?»
+
+«Immagino che lei sia abbastanza sicuro», osservò il giovane, «che sia stato davvero lui a uccidere il padrone?»
+
+«Sì, figlio mio, ne sono abbastanza sicuro», replicò Gilder seccamente, «per la trascurabile ragione che se n'è andato con ventimila sterline in titoli che si trovavano nella scrivania del suo padrone. No, l'unica cosa che meriti il nome di difficoltà è come lo abbia ucciso. Il cranio pare fracassato come da una grossa arma, ma non c'è nessuna arma in giro, e all'assassino sarebbe stato scomodo portarsela via, a meno che l'arma non fosse troppo piccola per essere notata.»
+
+«Forse l'arma era troppo grande per essere notata», disse il prete, con una strana risatina.
+
+Gilder si voltò a quella bizzarra osservazione, e con una certa severità chiese a Brown cosa intendesse.
+
+«Un modo sciocco di dirlo, lo so», disse Father Brown in tono di scusa. «Sembra una fiaba. Ma il povero Armstrong è stato ucciso con la clava di un gigante, una grande clava verde, troppo grande per essere vista, e che noi chiamiamo terra. È stato scagliato contro questa scarpata verde su cui ci troviamo.»
+
+«Che cosa vuol dire?» chiese in fretta il detective.
+
+Father Brown rivolse la sua faccia lunare verso la stretta facciata della casa e strizzò gli occhi in su, senza speranza. Seguendo il suo sguardo, videro che proprio in cima a quella parte posteriore altrimenti cieca dell'edificio, una finestra della soffitta era aperta.
+
+«Non vede», spiegò, indicando con un gesto un po' impacciato, come un bambino, «che è stato buttato giù di lassù?»
+
+Gilder scrutò la finestra aggrottando le sopracciglia, poi disse: «Beh, è certamente possibile. Ma non capisco perché lei ne sia così sicuro.»
+
+Brown spalancò i grigi occhi. «Ma come», disse, «c'è un pezzetto di corda attorno alla gamba del morto. Non vede quell'altro pezzetto di corda là in alto, impigliato all'angolo della finestra?»
+
+A quell'altezza la cosa pareva la più tenue particella di polvere o un capello, ma l'astuto vecchio investigatore fu soddisfatto. «Ha perfettamente ragione, signore», disse a Father Brown; «questo punto va decisamente a lei.»
+
+Aveva appena finito di parlare che un treno speciale, con una sola vettura, affrontò la curva della linea alla loro sinistra e, fermandosi, sputò fuori un altro gruppo di poliziotti, in mezzo ai quali si scorgeva la faccia da cane bastonato di Magnus, il domestico datosi alla fuga.
+
+«Perbacco! L'hanno preso», esclamò Gilder, e si fece avanti con un'inedita prontezza.
+
+«Avete il denaro?» gridò al primo poliziotto.
+
+L'uomo lo guardò in faccia con un'espressione piuttosto curiosa e disse: «No.» Poi aggiunse: «Almeno, non qui.»
+
+«Chi è l'ispettore, per favore?» chiese l'uomo di nome Magnus.
+
+Quando parlò, tutti compresero all'istante come quella voce avesse potuto fermare un treno. Era un uomo dall'aspetto scialbo, con lisci capelli neri, un volto incolore e una vaga suggestione d'Oriente nelle fessure orizzontali degli occhi e della bocca. Il suo sangue e il suo nome, in verità, erano rimasti dubbi da quando Sir Aaron lo aveva «salvato» dal mestiere di cameriere in un ristorante di Londra, e (come alcuni dicevano) da cose ancor più infami. Ma la sua voce era viva quanto morto era il suo volto. Fosse per esattezza in una lingua straniera, o per deferenza verso il padrone (che era alquanto sordo), i toni di Magnus avevano una qualità singolarmente squillante e penetrante, e l'intero gruppo sobbalzò quando parlò.
+
+«Ho sempre saputo che sarebbe accaduto», disse ad alta voce con sfrontata cortesia. «Il mio povero vecchio padrone si burlava di me perché vestivo di nero; ma io ho sempre detto che sarei stato pronto per il suo funerale.»
+
+E fece un momentaneo movimento con le due mani inguantate di nero.
+
+«Sergente», disse l'ispettore Gilder, fissando con ira le mani nere, «non mette i ferri a costui? Ha un'aria piuttosto pericolosa.»
+
+«Beh, signore», disse il sergente, con quella stessa strana espressione di stupore, «non so se possiamo.»
+
+«Che cosa intende?» chiese l'altro bruscamente. «Non lo avete arrestato?»
+
+Un lieve disprezzo allargò la bocca simile a una fessura, e il fischio di un treno in avvicinamento parve stranamente far eco a quello scherno.
+
+«Lo abbiamo arrestato», rispose il sergente con gravità, «proprio mentre usciva dalla stazione di polizia di Highgate, dove aveva depositato tutto il denaro del suo padrone nelle mani dell'ispettore Robinson.»
+
+Gilder guardò il domestico con assoluto stupore. «Perché diavolo lo ha fatto?» chiese a Magnus.
+
+«Per metterlo al sicuro dal criminale, naturalmente», rispose quello placidamente.
+
+«Ma di certo», disse Gilder, «il denaro di Sir Aaron poteva essere lasciato senza pericolo alla famiglia di Sir Aaron.»
+
+La coda della sua frase fu sommersa dal fragore del treno che passava sobbalzando e sferragliando; ma attraverso tutto l'inferno di rumori a cui quella casa infelice era periodicamente soggetta, poterono udire le sillabe della risposta di Magnus, in tutta la loro nitidezza di campana: «Non ho alcuna ragione di aver fiducia nella famiglia di Sir Aaron.»
+
+Tutti gli uomini immobili ebbero la spettrale sensazione della presenza di una persona nuova; e Merton non si sorprese troppo quando, alzando gli occhi, vide il pallido volto della figlia di Armstrong al di sopra della spalla di Father Brown. Era ancora giovane e bella, in uno stile argenteo, ma i suoi capelli erano di un castano così polveroso e smorto che in certe ombre parevano essere diventati del tutto grigi.
+
+«Faccia attenzione a ciò che dice», disse Royce burbero, «spaventerà la signorina Armstrong.»
+
+«Lo spero bene», disse l'uomo dalla voce limpida.
+
+Mentre la donna sussultava e tutti gli altri si stupivano, egli proseguì: «Sono in qualche modo abituato ai tremori della signorina Armstrong. L'ho vista tremare a intermittenza per anni. E alcuni dicevano che tremasse di freddo, altri di paura, ma io so che tremava d'odio e di malvagia ira: demoni che stamattina hanno banchettato. A quest'ora sarebbe già lontana, col suo amante e con tutto il denaro, se non fosse stato per me. Da quando il mio povero vecchio padrone le impedì di sposare quel farabutto ubriacone...»
+
+«Basta», disse Gilder con grande severità. «Non abbiamo nulla a che fare con le sue fantasie o i suoi sospetti familiari. A meno che lei non abbia qualche prova concreta, le sue semplici opinioni...»
+
+«Oh! Le darò una prova concreta», tagliò corto Magnus, con il suo accento aspro. «Dovrà citarmi in giudizio, signor ispettore, e io dovrò dire la verità. E la verità è questa: un istante dopo che il vecchio fu scaraventato sanguinante fuori dalla finestra, corsi nella soffitta e vi trovai sua figlia svenuta sul pavimento, con ancora in mano un pugnale rosso. Permettetemi di consegnare anche questo alle debite autorità.» Estrasse dalla tasca posteriore un lungo coltello dal manico di corno, macchiato di rosso, e lo porse cortesemente al sergente. Poi indietreggiò di nuovo, e le sue fessure d'occhi quasi svanirono dal volto in un solo, grasso sogghigno cinese.
+
+Merton provò una nausea quasi fisica alla vista di lui; e mormorò a Gilder: «Vorrà pure credere alla parola della signorina Armstrong contro la sua?»
+
+Father Brown sollevò a un tratto un volto così assurdamente fresco che pareva, chissà come, se lo fosse appena lavato. «Sì», disse, irradiando innocenza, «ma la parola della signorina Armstrong è contro la sua?»
+
+La ragazza emise un piccolo grido trasalito, singolare; tutti la guardarono. La sua figura era rigida come paralizzata; solo il volto, entro la cornice dei tenui capelli castani, era vivo di una sorpresa spaventosa. Stava come chi sia stato all'improvviso preso al lazo e strozzato.
+
+«Quest'uomo», disse il signor Gilder con gravità, «afferma addirittura che lei è stata trovata, priva di sensi, stringendo un coltello dopo l'omicidio.»
+
+«Dice il vero», rispose Alice.
+
+Il fatto successivo di cui ebbero coscienza fu che Patrick Royce avanzò a grandi passi, con la sua grande testa curva, dentro il loro cerchio, e pronunciò queste singolari parole: «Beh, se devo andarci di mezzo, prima voglio togliermi una soddisfazione.»
+
+L'enorme spalla si sollevò e scagliò un pugno di ferro contro il volto blando e mongolico di Magnus, stendendolo sul prato piatto come una stella marina. Due o tre poliziotti misero all'istante le mani su Royce; ma agli altri parve che ogni ragione si fosse dissolta e che l'universo si stesse mutando in una farsa da arlecchini senza cervello.
+
+«Niente di tutto ciò, signor Royce», aveva gridato Gilder con tono d'autorità. «La arresterò per aggressione.»
+
+«No, non lo farà», rispose il segretario con voce da gong di ferro, «mi arresterà per omicidio.»
+
+Gilder lanciò uno sguardo allarmato all'uomo abbattuto; ma poiché quell'offeso stava già rimettendosi seduto e asciugandosi un po' di sangue da un volto sostanzialmente illeso, si limitò a dire brevemente: «Che cosa vuol dire?»
+
+«È del tutto vero, come dice costui», spiegò Royce, «che la signorina Armstrong è svenuta con un coltello in mano. Ma non aveva afferrato il coltello per aggredire suo padre, bensì per difenderlo.»
+
+«Per difenderlo», ripeté Gilder gravemente. «Da chi?»
+
+«Da me», rispose il segretario.
+
+Alice lo guardò con un volto complesso e sconcertante; poi disse a bassa voce: «Dopo tutto questo, sono ancora contenta che tu sia coraggioso.»
+
+«Salite di sopra», disse Patrick Royce con pesantezza, «e vi mostrerò tutta questa maledetta faccenda.»
+
+La soffitta, che era il rifugio privato del segretario (e una cella piuttosto piccola per un eremita tanto grande), recava in effetti tutte le tracce di un dramma violento. Vicino al centro del pavimento giaceva una grossa rivoltella, come gettata via; più verso sinistra era rotolata una bottiglia di whisky, aperta ma non del tutto vuota. Il panno del tavolino era stato trascinato e calpestato, e uno spezzone di corda, simile a quello trovato sul cadavere, giaceva scagliato scompostamente sul davanzale. Due vasi erano andati in frantumi sulla mensola del camino e uno sul tappeto.
+
+«Ero ubriaco», disse Royce; e questa semplicità, in quell'uomo prematuramente devastato, aveva chissà come il patetismo del primo peccato di un bambino.
+
+«Sapete tutto di me», proseguì con voce roca; «tutti sanno come cominciò la mia storia, e tanto vale che finisca anche allo stesso modo. Un tempo mi chiamavano un uomo intelligente, e sarei potuto essere felice; Armstrong salvò dalle taverne ciò che restava di un cervello e di un corpo, e fu sempre buono con me a modo suo, pover'uomo! Solo, non volle lasciarmi sposare Alice, qui presente; e si dirà sempre che aveva perfettamente ragione. Ebbene, potete trarre le vostre conclusioni, e non vorrete che io entri nei dettagli. Quella è la mia bottiglia di whisky mezza vuota nell'angolo; quella è la mia rivoltella del tutto scarica sul tappeto. Era la corda del mio baule quella trovata sul cadavere, ed è dalla mia finestra che il cadavere è stato gettato. Non c'è bisogno che mandiate i detective a scavare nella mia tragedia; è un'erbaccia abbastanza comune, a questo mondo. Mi consegno alla forca; e, per Dio, tanto basta!»
+
+A un segnale sufficientemente discreto, i poliziotti si strinsero attorno al grande uomo per condurlo via; ma la loro discrezione fu alquanto sconcertata dalla notevole apparizione di Father Brown, che se ne stava carponi sul tappeto, sulla soglia, come impegnato in una sorta di preghiere indecorose. Essendo una persona del tutto insensibile alla figura sociale che faceva, rimase in quella posizione, ma volse una faccia luminosa e tonda verso i presenti, offrendo l'aspetto di un quadrupede con una testa umana quanto mai comica.
+
+«Sentite», disse bonariamente, «così proprio non va, sapete. All'inizio avete detto che non avevamo trovato alcuna arma. Ma adesso ne troviamo troppe: c'è il coltello per pugnalare, e la corda per strangolare, e la pistola per sparare; e dopotutto si è rotto il collo cadendo da una finestra! Non va. Non è economico.» E scosse il capo verso il pavimento, come fa un cavallo al pascolo.
+
+L'ispettore Gilder aveva aperto la bocca con serie intenzioni, ma prima che potesse parlare la grottesca figura sul pavimento era andata avanti con gran facondia.
+
+«E ora tre cose del tutto impossibili. Primo, questi fori nel tappeto, dove sono penetrati i sei proiettili. Perché mai qualcuno dovrebbe sparare al tappeto? Un ubriaco spara in faccia al suo nemico, alla cosa che gli sogghigna davanti. Non attacca briga con i propri piedi, né pone l'assedio alle proprie pantofole. E poi c'è la corda» — e finito con il tappeto l'oratore sollevò le mani e se le mise in tasca, ma continuò con la massima naturalezza rimanendo in ginocchio — «in quale immaginabile ubriachezza qualcuno cercherebbe di mettere una corda attorno al collo di un uomo per finire con l'avvolgergliela attorno alla gamba? Royce, in ogni caso, non era ubriaco a tal punto, altrimenti a quest'ora dormirebbe come un ghiro. E, cosa più lampante di tutte, la bottiglia di whisky. Voi supponete che un dipsomane abbia lottato per la bottiglia di whisky, e poi, avendola vinta, l'abbia fatta rotolare in un angolo, versandone metà e lasciando l'altra metà. È l'ultima cosa al mondo che un dipsomane farebbe.»
+
+Si rialzò goffamente in piedi, e disse all'omicida autoaccusatosi in tono di limpida contrizione: «Mi dispiace terribilmente, mio caro signore, ma il suo racconto è davvero una sciocchezza.»
+
+«Signore», disse Alice Armstrong a bassa voce al prete, «posso parlarle da sola un momento?»
+
+Questa richiesta costrinse il comunicativo ecclesiastico a uscire dal corridoio, e prima che egli potesse parlare, nella stanza attigua, la ragazza già parlava con strana incisività.
+
+«Lei è un uomo intelligente», disse, «e sta cercando di salvare Patrick, lo so. Ma è inutile. Il nocciolo di tutto questo è nero, e più cose scoprirà, più ce ne saranno contro il miserabile uomo che amo.»
+
+«Perché?» chiese Brown, guardandola fermamente.
+
+«Perché», rispose lei con altrettanta fermezza, «l'ho visto commettere il delitto con i miei occhi.»
+
+«Ah!» disse Brown imperturbato, «e che cosa ha fatto?»
+
+«Ero in questa stanza accanto a loro», spiegò; «entrambe le porte erano chiuse, ma udii a un tratto una voce, come non ne avevo mai udite sulla terra, ruggire "Inferno, inferno, inferno", più e più volte, e poi le due porte tremarono alla prima esplosione della rivoltella. Per tre volte ancora la cosa tuonò prima che riuscissi ad aprire le due porte e trovassi la stanza piena di fumo; ma la [[Pistol|pistola]] fumava nella mano del mio povero, folle Patrick; e lo vidi [[Fire|sparare]] con i miei occhi l'ultima omicida scarica. Poi si avventò su mio padre, che si aggrappava terrorizzato al davanzale della [[Window|finestra]], e, afferrandolo, cercò di strangolarlo con la corda, che gli gettò intorno al capo, ma che gli scivolò lungo le spalle in lotta fino ai piedi. Allora si strinse attorno a una gamba e Patrick lo trascinò come un forsennato. Afferrai un coltello dallo zerbino e, precipitandomi fra loro, riuscii a tagliare la corda prima di svenire.»
+
+«Capisco», disse [[Father Brown]], con la stessa cortesia di legno. «Grazie.»
+
+Mentre la ragazza crollava sotto i propri ricordi, il prete passò rigidamente nella stanza attigua, dove trovò Gilder e Merton [[Alone|soli]] con Patrick Royce, che sedeva su una sedia, ammanettato. Là disse all'ispettore con sottomissione:
+
+«Potrei dire una parola al prigioniero, in sua presenza; e potrebbe egli togliersi quei buffi ferri per un minuto?»
+
+«È un uomo molto forte», disse Merton sottovoce. «Perché vuole che glieli tolgano?»
+
+«Ecco, pensavo», rispose umilmente il prete, «che forse potrei avere il grandissimo [[Honour|onore]] di stringergli la mano.»
+
+Entrambi i detective lo fissarono, e [[Father Brown]] aggiunse: «Non vuole raccontar loro come è andata, signore?»
+
+L'uomo sulla sedia scosse la testa arruffata, e il prete si voltò impaziente.
+
+«Allora lo farò io», disse. «Le vite private contano più delle reputazioni pubbliche. Sto per salvare i vivi, e lascio che i morti seppelliscano i loro morti.»
+
+Andò alla fatale [[Window|finestra]], e strizzò gli occhi guardando fuori mentre proseguiva a parlare.
+
+«Vi ho detto che in questo caso c'erano troppe armi e una sola [[Death|morte]]. Ora vi dico che non erano armi, e non furono usate per causare la [[Death|morte]]. Tutti quei macabri strumenti — il cappio, il coltello insanguinato, la [[Pistol|pistola]] che sparava — erano strumenti di una curiosa [[Mercy|misericordia]]. Non furono usati per uccidere Sir [[Aaron]], ma per salvarlo.»
+
+«Per salvarlo!» ripeté Gilder. «E da che cosa?»
+
+«Da se stesso», disse [[Father Brown]]. «Era un maniaco suicida.»
+
+«Che cosa?» esclamò Merton in tono incredulo. «E la Religione dell'Allegria...»
+
+«È una religione crudele», disse il prete, guardando fuori dalla [[Window|finestra]]. «Perché non potevano lasciarlo piangere un poco, come i suoi padri prima di lui? I suoi progetti si irrigidirono, le sue vedute si fecero fredde; dietro quella maschera gioviale c'era la mente vuota dell'ateo. Alla fine, per mantenere il suo ilare livello pubblico, tornò a quel bere liquori che aveva abbandonato tanto tempo prima. Ma c'è questo orrore, nell'alcolismo di un sincero astemio: che egli si raffigura e attende quell'inferno psicologico da cui ha messo in guardia gli altri. Piombò prematuramente sul povero Armstrong, e stamattina egli era ridotto a tal punto che sedeva qui e gridava di essere all'inferno, con una voce così folle che sua figlia non la riconosceva. Era pazzo di [[Death|morte]], e con le scimmiesche stramberie del pazzo aveva sparso intorno a sé la [[Death|morte]] sotto molte forme: un cappio scorsoio, la rivoltella dell'amico e un coltello. Royce entrò per caso e agì in un lampo. Gettò il coltello sullo zerbino dietro di sé, afferrò la rivoltella e, non avendo il [[Time|tempo]] di scaricarla, la svuotò colpo dopo colpo sul pavimento. Il [[suicide|suicida]] vide una quarta forma della [[Death|morte]] e si slanciò verso la [[Window|finestra]]. Il soccorritore fece l'unica cosa che poteva: gli corse dietro con la corda e cercò di legarlo mani e piedi. Fu allora che la sventurata ragazza entrò di corsa e, fraintendendo la lotta, si sforzò di liberare il padre a colpi di coltello. Dapprima non fece che ferire le nocche del povero Royce, da cui è venuto tutto il poco [[Blood|sangue]] di questa faccenda. Ma, naturalmente, avrete notato che sul volto di quel domestico lui lasciò [[Blood|sangue]], ma nessuna ferita. Solo, prima che la povera donna svenisse, riuscì a liberare il padre con i colpi, sicché egli precipitò attraverso quella [[Window|finestra]] nell'[[Eternity|eternità]].»
+
+Vi fu un lungo silenzio, rotto lentamente dai rumori metallici di Gilder che apriva le manette di Patrick Royce, al quale disse: «Credo che avrei dovuto dire la [[Truth|verità]], signore. Lei e la giovane signora valete più dei necrologi di Armstrong.»
+
+«Al diavolo i necrologi di Armstrong», esclamò Royce rudemente. «Non capisce che era perché lei non doveva sapere?»
+
+«Non doveva sapere che cosa?» chiese Merton.
+
+«Ma come, che ha ucciso suo padre, [[Fool|sciocco]] che non è altro!» ruggì l'altro. «A quest'ora sarebbe vivo, se non fosse stato per lei. Saperlo potrebbe farla impazzire.»
+
+«No, non credo», osservò [[Father Brown]], raccogliendo il cappello. «Sono piuttosto propenso a dirglielo. Neppure gli errori più sanguinosi [[Poison|avvelenano]] la vita come fanno i peccati; a ogni modo, credo che ora possiate essere entrambi più felici. Devo tornare alla Scuola per Sordi.»
+
+Mentre usciva sull'erba battuta dal vento, un conoscente di Highgate lo fermò e gli disse:
+
+«Il coroner è arrivato. L'inchiesta sta per cominciare.»
+
+«Devo tornare alla Scuola per Sordi», disse [[Father Brown]]. «Mi dispiace di non potermi fermare per l'inchiesta.»

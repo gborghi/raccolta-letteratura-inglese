@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/heret12-(chesterton)">Heretics</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/heret12/story_04_mr_bernard_shaw/part_02">‹ part 02</a><a class="ex-next" href="/testi/chesterton/atomized/heret12/story_05_mr_h_g_wells_and_the_giants/part_01">part 01 ›</a></div>
@@ -70,3 +72,18 @@ that they were founded by strong men and upon strong men.
 But this one thing, the historic Christian Church, was founded
 on a weak man, and for that reason it is indestructible.
 For no chain is stronger than its weakest link.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/heret12-(chesterton)">Heretics</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/heret12/story_04_mr_bernard_shaw/part_02">‹ part 02</a><a class="ex-next" href="/testi/chesterton/atomized/heret12/story_05_mr_h_g_wells_and_the_giants/part_01">part 01 ›</a></div>
+</nav>
+
+# [[heret12]] — Il signor Bernard [[Shaw]] (parte 3)
+
+La [[Truth|verità]] è che ogni genuino apprezzamento poggia su un certo mistero di [[Humility|umiltà]] e quasi di oscurità. L'uomo che disse: «Beato colui che nulla si aspetta, ché non sarà deluso», formulò l'elogio in modo del tutto inadeguato e persino falso. La [[Truth|verità]] è: «Beato colui che nulla si aspetta, ché sarà gloriosamente sorpreso». Chi nulla si aspetta vede rose più rosse di quante ne possano vedere gli uomini comuni, ed erba più verde, e un sole più sorprendente. Beato colui che nulla si aspetta, ché possederà le città e le [[Mountains|montagne]]; beato il mite, ché erediterà la terra. Finché non ci rendiamo conto che le cose potrebbero non essere, non possiamo renderci conto che le cose sono. Finché non vediamo lo sfondo di tenebra, non possiamo ammirare la luce come cosa unica e creata. Non appena abbiamo visto quella tenebra, ogni luce è folgorazione, improvvisa, accecante e divina. Finché non ci raffiguriamo il nulla, sottovalutiamo la vittoria di Dio, e non possiamo renderci conto di alcuno dei trofei della Sua antica guerra. È uno dei milioni di selvaggi scherzi della [[Truth|verità]] che nulla sappiamo finché nulla sappiamo.
+
+Ora questo è, lo dico deliberatamente, l'unico difetto nella [[Greatness|grandezza]] del signor [[Shaw]], l'unica risposta alla sua pretesa di essere un grande uomo: che egli non si accontenta facilmente. È un'eccezione quasi solitaria alla massima generale ed essenziale secondo cui le piccole cose piacciono alle grandi menti. E da questa assenza della più clamorosa di tutte le cose, l'[[Humility|umiltà]], deriva incidentalmente la sua peculiare insistenza sul Superuomo. Dopo aver bastonato per molti anni moltissime persone perché poco progressiste, il signor [[Shaw]] ha scoperto, con caratteristico buon senso, che è assai dubbio che un qualsiasi essere umano esistente, munito di due gambe, possa essere progressista in alcun modo. Giunta a [[Doubt|dubitare]] che l'umanità possa combinarsi col progresso, la maggior parte della gente, facile ad accontentarsi, avrebbe scelto di abbandonare il progresso e restare con l'umanità. Il signor [[Shaw]], non essendo facile ad accontentarsi, decide di gettare a mare l'umanità con tutti i suoi limiti e di puntare sul progresso per amore del progresso stesso. Se l'uomo, quale lo conosciamo, è incapace della [[philosophy|filosofia]] del progresso, il signor [[Shaw]] chiede non un nuovo genere di [[philosophy|filosofia]], ma un nuovo genere di uomo. È press'a poco come se una [[Nurse|balia]] avesse provato per alcuni anni un cibo alquanto amaro su un neonato, e, scoprendo che non era adatto, invece di buttar via il cibo e chiedere un cibo nuovo, buttasse il neonato dalla [[Window|finestra]] e chiedesse un neonato nuovo. Il signor [[Shaw]] non riesce a capire che la cosa preziosa e amabile ai nostri occhi è l'uomo: il vecchio uomo bevitore di birra, fabbricatore di credi, battagliero, fallace, sensuale, rispettabile. E le cose che si sono fondate su questa creatura rimangono immortali; le cose che si sono fondate sulla fantasia del Superuomo sono morte con le morenti civiltà che [[Alone|sole]] le hanno generate. Quando [[Christ|Cristo]], in un momento simbolico, fondava la Sua grande società, scelse come pietra angolare né il brillante Paolo né il mistico Giovanni, ma uno svicolatore, uno snob, un vigliacco: in una parola, un uomo. E su questa roccia ha edificato la Sua Chiesa, e le porte dell'Inferno non hanno prevalso contro di essa. Tutti gli imperi e i regni sono falliti, a causa di questa intrinseca e continua debolezza, che erano fondati da uomini forti e su uomini forti. Ma quest'unica cosa, la storica Chiesa cristiana, fu fondata su un uomo debole, e per questa ragione è indistruttibile. Ché nessuna catena è più forte del suo anello più debole.

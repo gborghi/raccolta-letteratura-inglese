@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/wifrb11-(chesterton)">The Wisdom of Father Brown</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/wifrb11/story_07_the_purple_wig/part_03">‹ part 03</a><a class="ex-next" href="/testi/chesterton/atomized/wifrb11/story_07_the_purple_wig/part_05">part 05 ›</a></div>
@@ -133,3 +135,133 @@ on a human face.  I could see the librarian's great legs wavering
 under him like the shadows of stems in a pool; and I could not banish
 from my own brain the fancy that the trees all around us were
 filling softly in the silence with devils instead of birds.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/wifrb11-(chesterton)">The Wisdom of Father Brown</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/wifrb11/story_07_the_purple_wig/part_03">‹ part 03</a><a class="ex-next" href="/testi/chesterton/atomized/wifrb11/story_07_the_purple_wig/part_05">part 05 ›</a></div>
+</nav>
+
+# [[wifrb11]] — La parrucca purpurea (parte 4)
+
+     Mr Nutt, del Daily Reformer, scrisse alcune parole assai incongrue
+in cima alla copia, tracciò alcuni segni assai misteriosi
+lungo il margine, e chiamò Miss Barlow con la medesima voce forte e
+monotona: «Prenda una lettera per Mr Finn».
+
+     CARO FINN, --La tua copia va bene, ma ho dovuto metterci un po' di titoli;
+e il nostro pubblico non tollererebbe mai un prete papista nella storia --
+devi tenere d'occhio i sobborghi. L'ho trasformato in Mr Brown,
+uno spiritista.
+
+                                             Tuo,
+
+                                                  E. NUTT.
+
+     Un giorno o due dopo, l'attivo e giudizioso direttore
+esaminava, con occhi azzurri che parevano farsi sempre più tondi,
+la seconda puntata del racconto di misteri dell'alta società di Mr Finn.
+Cominciava con le parole:
+
+     Ho fatto una scoperta sbalorditiva. Confesso liberamente che è
+del tutto diversa da qualsiasi cosa mi aspettassi di scoprire, e darà
+al pubblico uno scossone assai più concreto. Oso dire,
+senza alcuna vanità, che le parole che ora scrivo saranno lette in tutta Europa,
+e di certo in tutta l'America e nelle Colonie. Eppure udii
+tutto ciò che ho da raccontare prima di lasciare questo stesso piccolo tavolo di legno in questo
+stesso piccolo bosco di meli.
+
+     Lo devo tutto al piccolo prete Brown; è un uomo straordinario.
+Il grosso bibliotecario aveva lasciato il tavolo, forse vergognoso della sua lunga lingua,
+forse inquieto per la tempesta in cui il suo misterioso padrone
+era svanito: comunque si mise pesantemente sulle tracce del Duca
+attraverso gli alberi. Padre Brown aveva raccolto uno dei limoni e
+lo osservava con uno strano piacere.
+
+     «Che bel colore ha un limone!» disse. «C'è una cosa
+che non mi piace della parrucca del Duca --il colore».
+
+     «Non credo di capire», risposi.
+
+     «Oserei dire che ha buona ragione di coprirsi le orecchie, come Re Mida»,
+proseguì il prete, con una gaia semplicità che in qualche modo pareva
+piuttosto leggera date le circostanze. «Capisco benissimo
+che è più piacevole coprirle coi capelli che con piastre d'ottone o
+falde di cuoio. Ma se vuol servirsi dei capelli, perché non li fa
+sembrare capelli? Non ci furono mai al mondo capelli di quel colore.
+Sembra piuttosto una nuvola di tramonto che filtra attraverso il bosco.
+Perché non nasconde meglio la maledizione di famiglia, se davvero
+ne ha tanta vergogna? Volete che ve lo dica? È perché non ne ha vergogna.
+Ne è fiero».
+
+     «È una brutta parrucca di cui essere fieri --e una brutta storia», dissi.
+
+     «Riflettete», rispose questo curioso omino, «su come voi stesso
+sentiate davvero simili cose. Non insinuo che siate né
+più snob né più morboso del resto di noi: ma non sentite forse
+in modo vago che una genuina antica maledizione di famiglia è una cosa piuttosto pregevole
+da possedere? Non vi vergognereste, non sareste un po' fiero,
+se l'erede dell'orrore di Glamis vi chiamasse suo amico? o se la famiglia
+di Byron avesse confidato, a voi soltanto, le malvagie avventure della loro stirpe?
+Non siate troppo severo con gli aristocratici stessi se le loro teste sono
+deboli quanto lo sarebbero le nostre, e sono degli snob riguardo ai propri dolori».
+
+     «Perbacco!» esclamai; «ed è proprio vero. La famiglia di mia madre
+aveva una banshee; e, ora che ci penso, mi ha confortato
+in più d'un'ora gelida».
+
+     «E pensate», proseguì, «a quel fiotto di sangue e veleno
+che gli sprizzò dalle sottili labbra nell'istante stesso in cui menzionaste
+i suoi antenati. Perché mai dovrebbe mostrare a ogni estraneo una simile
+Camera degli Orrori, se non ne fosse fiero? Non nasconde la sua parrucca,
+non nasconde il suo sangue, non nasconde la maledizione di famiglia,
+non nasconde i delitti di famiglia --ma --»
+
+     La voce dell'omino mutò così di colpo, egli chiuse la mano
+così di scatto, e i suoi occhi si fecero così rapidamente più tondi e più brillanti
+come quelli d'un gufo che si desta, che tutto ciò ebbe la subitaneità d'una piccola esplosione
+sul tavolo.
+
+     «Ma», concluse, «egli nasconde davvero la sua toeletta».
+
+     Completò in qualche modo il brivido dei miei nervi fantasiosi il fatto
+che in quell'istante il Duca ricomparve silenzioso tra gli alberi luccicanti,
+col suo passo felpato e i capelli color tramonto, girando l'angolo della
+casa in compagnia del suo bibliotecario. Prima che giungesse a portata d'orecchio,
+Padre Brown aveva aggiunto con tutta calma: «Perché mai nasconde davvero
+il segreto di ciò che fa con la parrucca purpurea? Perché non è
+il genere di segreto che supponiamo».
+
+     Il Duca girò l'angolo e riprese il suo posto a capo
+del tavolo con tutta la sua innata dignità. L'imbarazzo del
+bibliotecario lo lasciò librato sulle zampe posteriori, come un enorme orso.
+Il Duca si rivolse al prete con gran serietà. «Padre Brown»,
+disse, «il Dottor Mull m'informa che siete venuto qui a farmi una richiesta.
+Non professo più l'osservanza della religione dei miei padri;
+ma per amor loro, e per amore dei giorni in cui c'incontrammo un tempo,
+sono ben disposto ad ascoltarvi. Ma presumo che preferireste
+essere ascoltato in privato».
+
+     Quel poco che serbo del gentiluomo mi fece alzare in piedi.
+Quel poco che ho acquisito del giornalista mi fece restare immobile.
+Prima che questa paralisi potesse passare, il prete fece un gesto
+di trattenermi per un momento. «Se», disse, «Vostra Grazia mi permetterà
+la mia vera preghiera, o se conservo alcun diritto di consigliarvi, insisterei
+perché fossero presenti quante più persone possibile. In tutta questa contrada
+ho trovato centinaia di persone, anche della mia stessa fede e del mio stesso gregge, le cui immaginazioni
+sono avvelenate dall'incantesimo che vi supplico di spezzare. Vorrei che potessimo
+avere qui tutto il Devonshire a vedervelo fare».
+
+     «A vedermi fare che cosa?» chiese il Duca, inarcando le sopracciglia.
+
+     «A vedervi togliere la parrucca», disse Padre Brown.
+
+     Il volto del Duca non si mosse; ma egli guardò il suo supplice
+con uno sguardo vitreo che era l'espressione più spaventosa che io abbia mai visto
+su un volto umano. Vedevo le grosse gambe del bibliotecario vacillare
+sotto di lui come le ombre degli steli in uno stagno; e non riuscivo a bandire
+dalla mia mente la fantasia che gli alberi tutt'intorno a noi si andassero
+riempiendo dolcemente, nel silenzio, di demoni anziché d'uccelli.

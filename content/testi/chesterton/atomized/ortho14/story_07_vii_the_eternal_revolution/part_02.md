@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/ortho14-(chesterton)">Orthodoxy</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/ortho14/story_07_vii_the_eternal_revolution/part_01">‹ part 01</a><a class="ex-next" href="/testi/chesterton/atomized/ortho14/story_07_vii_the_eternal_revolution/part_03">part 03 ›</a></div>
@@ -110,3 +112,110 @@ be disestablished.  It was Karl Marx, Nietzsche, [[tolstoy|Tolstoy]],
 Cunninghame Grahame, Bernard [[Shaw]] and Auberon Herbert,
 who between them, with bowed gigantic backs, bore up the throne of
 the Archbishop of Canterbury.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/ortho14-(chesterton)">Orthodoxy</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/ortho14/story_07_vii_the_eternal_revolution/part_01">‹ part 01</a><a class="ex-next" href="/testi/chesterton/atomized/ortho14/story_07_vii_the_eternal_revolution/part_03">part 03 ›</a></div>
+</nav>
+
+# [[ortho14]] — Vii La rivoluzione eterna (parte 2)
+
+E poi vi sono coloro che si rifugiano nella pura sottomissione
+e nell'immobilità.  La [[Nature|Natura]] farà pur qualcosa un giorno o l'altro;
+nessuno sa cosa, e nessuno sa quando.  Non abbiamo alcuna ragione per agire,
+né alcuna ragione per non agire.  Se accade qualcosa, è giusto:
+se qualcosa viene impedito, era sbagliato.  Altri, ancora, tentano di
+anticipare la [[Nature|natura]] facendo qualcosa, facendo qualunque cosa.  Poiché
+forse un giorno ci spunteranno le ali, ecco che si tagliano le gambe.  Eppure la [[Nature|natura]] potrebbe
+star cercando di farne dei millepiedi, per quel che ne sanno.
+
+     Vi è infine una quarta categoria di persone, quelle che prendono ciò che
+per caso desiderano e affermano che quello è lo scopo ultimo
+dell'evoluzione.  E sono le uniche persone assennate.
+Questo è l'unico modo davvero sano di trattare la parola evoluzione:
+lavorare per ciò che si vuole, e chiamare QUELLO evoluzione.
+L'unico senso intelligibile che il progresso o l'avanzamento possano avere tra gli uomini
+è che noi abbiamo una visione precisa, e che desideriamo rendere
+il mondo intero simile a quella visione.  Se così vi piace formularlo,
+l'essenza della dottrina è che ciò che ci circonda non è
+altro che il metodo e la preparazione di qualcosa che dobbiamo creare.
+Questo non è un mondo, ma piuttosto la materia prima di un mondo.
+Dio ci ha dato non tanto i colori di un quadro quanto i colori
+di una tavolozza.  Ma ci ha dato anche un soggetto, un modello,
+una visione fissa.  Dobbiamo aver chiaro ciò che vogliamo dipingere.
+Ciò aggiunge un ulteriore principio al nostro precedente elenco di principi.
+Abbiamo detto che dobbiamo amare questo mondo, se non altro per poterlo mutare.
+Aggiungiamo ora che dobbiamo amare un altro mondo (reale o immaginario)
+per avere qualcosa in cui mutarlo.
+
+     Non occorre [[debate|disputare]] sulle mere parole evoluzione o progresso:
+personalmente preferisco chiamarla [[Reform|riforma]].  Perché [[Reform|riforma]] implica forma.
+Implica che noi cerchiamo di plasmare il mondo secondo una determinata immagine;
+di renderlo qualcosa che già vediamo nella nostra mente.  L'evoluzione è
+una metafora tratta da un mero srotolarsi automatico.  Il progresso è una metafora
+tratta dal semplice camminare lungo una [[Road|strada]]--molto probabilmente la [[Road|strada]] sbagliata.
+Ma la [[Reform|riforma]] è una metafora per uomini ragionevoli e risoluti:  significa
+che vediamo una certa cosa deforme e intendiamo darle forma.
+E sappiamo quale forma.
+
+     Ed ecco che qui si insinua l'intero crollo e l'enorme abbaglio della nostra epoca.
+Abbiamo confuso due cose diverse, due cose opposte.
+Progresso dovrebbe significare che mutiamo di continuo il mondo
+per adattarlo alla visione.  Progresso significa (proprio adesso) che mutiamo di continuo
+la visione.  Dovrebbe significare che siamo lenti ma sicuri
+nel portare la giustizia e la [[Mercy|misericordia]] fra gli uomini:  significa invece che
+siamo velocissimi nel dubitare della desiderabilità della giustizia e della [[Mercy|misericordia]]:
+una pagina forsennata di un qualsiasi sofista prussiano fa sì che gli uomini ne [[Doubt|dubitino]].
+Progresso dovrebbe significare che camminiamo sempre verso la Nuova Gerusalemme.
+Significa invece che la Nuova Gerusalemme si allontana sempre da noi.
+Non stiamo alterando il reale per adattarlo all'ideale.  Stiamo alterando l'ideale:
+è più facile.
+
+     Gli esempi sciocchi sono sempre i più semplici; supponiamo che un uomo desiderasse
+un particolare tipo di mondo; poniamo, un mondo azzurro.  Egli non avrebbe
+motivo di lamentarsi dell'esiguità o della rapidità del suo compito;
+potrebbe faticare per un lungo [[Time|tempo]] alla trasformazione; potrebbe darsi da fare
+(in ogni senso) finché tutto non fosse azzurro.  Potrebbe vivere avventure eroiche;
+l'ultimo tocco dato a una tigre azzurra.  Potrebbe fare
+sogni [[Dreams|fatati]]; l'[[Dawn|alba]] di una [[Moon|luna]] azzurra.  Ma se lavorasse sodo,
+quel riformatore magnanimo, di certo (dal proprio punto di vista),
+lascerebbe il mondo migliore e più azzurro di come l'aveva trovato.  Se ogni giorno mutasse
+un filo d'erba nel suo colore prediletto, procederebbe lentamente.
+Ma se ogni giorno mutasse il proprio colore prediletto, non procederebbe affatto.
+Se, dopo aver letto un nuovo filosofo, si mettesse a dipingere ogni cosa
+di rosso o di giallo, la sua opera andrebbe sprecata: non resterebbe nulla
+da mostrare se non qualche tigre azzurra a spasso, esemplari della sua prima
+maniera scadente.  Questa è esattamente la posizione del pensatore moderno medio.
+Si dirà che questo è, per stessa ammissione, un esempio assurdo.
+Ma è letteralmente il fatto della [[history|storia]] recente.  I grandi e [[Grave|gravi]] mutamenti
+della nostra civiltà politica appartennero tutti al primo Ottocento,
+non al secondo.  Appartennero all'epoca in bianco e nero
+in cui gli uomini credevano fermamente nel Torismo, nel Protestantesimo, nel Calvinismo,
+nella [[Reform|Riforma]], e non di rado nella Rivoluzione.  E qualunque cosa ciascuno
+credesse, la martellava con costanza, senza scetticismo:
+e vi fu un [[Time|tempo]] in cui la Chiesa d'Inghilterra avrebbe potuto cadere,
+e la [[house|Camera]] dei Lord poco mancò che cadesse.  Fu perché i Radicali furono
+abbastanza saggi da essere costanti e coerenti; fu perché i Radicali furono
+abbastanza saggi da essere Conservatori.  Ma nell'atmosfera odierna
+non vi è nel Radicalismo abbastanza [[Time|tempo]] e tradizione da abbattere alcunché.
+Vi è molta [[Truth|verità]] nel suggerimento di Lord Hugh Cecil
+(formulato in un bel discorso) che l'era del mutamento sia finita, e che la nostra
+sia un'era di conservazione e di riposo.  Ma probabilmente [[Pain|addolorerebbe]]
+Lord Hugh Cecil il rendersi conto (come di certo è il caso)
+che la nostra è un'era di conservazione soltanto perché è un'era
+di completa incredulità.  Lasciate che le fedi sbiadiscano rapide e frequenti,
+se volete che le istituzioni restino le stesse.  Quanto più la vita della mente
+è scardinata, tanto più il macchinario della materia sarà lasciato a se stesso.
+Il risultato netto di tutte le nostre proposte politiche, Collettivismo,
+Tolstoismo, Neo-Feudalesimo, Comunismo, Anarchia, Burocrazia Scientifica--
+il puro frutto di tutte quante è che la Monarchia e la [[house|Camera]] dei
+Lord rimarranno.  Il risultato netto di tutte le nuove religioni sarà
+che la Chiesa d'Inghilterra non verrà (Dio solo sa per quanto tempo ancora)
+privata del suo statuto di chiesa di Stato.  Furono Karl Marx, Nietzsche, [[tolstoy|Tolstoj]],
+Cunninghame Grahame, Bernard [[Shaw]] e Auberon Herbert
+che, tutti insieme, con le loro curve schiene gigantesche, ressero il trono
+dell'Arcivescovo di Canterbury.

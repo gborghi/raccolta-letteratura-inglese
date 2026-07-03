@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/wifrb11-(chesterton)">The Wisdom of Father Brown</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/wifrb11/story_11_the_strange_crime_of_john_boulnois/part_02">‹ part 02</a><a class="ex-next" href="/testi/chesterton/atomized/wifrb11/story_11_the_strange_crime_of_john_boulnois/part_04">part 04 ›</a></div>
@@ -131,3 +133,58 @@ an hour or so ago.  His butler told me so.  I think we hold what
 the all-wise police call a clue--have you sent for them?"
 
      "Yes," said the doctor, "but we haven't alarmed anyone else yet."
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/wifrb11-(chesterton)">The Wisdom of Father Brown</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/wifrb11/story_11_the_strange_crime_of_john_boulnois/part_02">‹ part 02</a><a class="ex-next" href="/testi/chesterton/atomized/wifrb11/story_11_the_strange_crime_of_john_boulnois/part_04">part 04 ›</a></div>
+</nav>
+
+# [[wifrb11]] — Lo strano delitto di John Boulnois (parte 3)
+
+     Altri pini, altro sentiero gli sfilarono accanto, e poi si fermò radicato come da una folata di magia. È vano dire che si sentì come precipitato in un sogno; ma questa volta ebbe la piena certezza d'essere precipitato in un libro. Poiché noi esseri umani siamo abituati alle cose fuori posto; siamo avvezzi al frastuono dell'incongruo; è una nenia con cui possiamo addormentarci. Se accade una sola cosa appropriata, essa ci ridesta come la fitta d'un accordo perfetto. Accadde qualcosa quale sarebbe accaduto in un luogo simile in una fiaba dimenticata.
+
+     Sopra il nero bosco di pini venne volando e balenando nella luna una spada nuda... uno di quegli spadini snelli e scintillanti che possono aver combattuto più d'un ingiusto duello in quell'antico parco. Cadde sul sentiero assai più avanti di lui e vi rimase luccicando come un grosso ago. Corse come una lepre e si chinò a guardarlo. Visto da vicino aveva un'aria piuttosto appariscente: le grosse gemme rosse nell'impugnatura e nella guardia erano un po' dubbie. Ma c'erano altre gocce rosse sulla lama, e quelle non erano dubbie.
+
+     Si guardò intorno smarrito nella direzione da cui era venuto l'abbagliante proiettile, e vide che a quel punto la nera facciata d'abeti e di pini era interrotta da una stradina ad angolo retto; la quale, dopo che l'ebbe imboccata, lo portò in piena vista della lunga casa illuminata, con davanti un lago e delle fontane. Ma egli non guardò tutto ciò, avendo qualcosa di più interessante da guardare.
+
+     Sopra di lui, all'angolo del ripido terrapieno erboso del giardino a terrazze, c'era una di quelle piccole pittoresche sorprese comuni nell'antica arte dei giardini; una specie di piccola collinetta rotonda o cupola d'erba, come un gigantesco monticello di talpa, cinta e coronata da tre cerchi concentrici di rose, e con una meridiana nel punto più alto al centro. Kidd poteva vedere lo gnomone della meridiana ergersi scuro contro il cielo come la pinna dorsale d'uno squalo e la vana luce lunare aggrapparsi a quell'ozioso orologio. Ma vide anche qualcos'altro aggrappato ad esso, per un solo folle istante: la figura d'un uomo.
+
+     Benché la vedesse là per un solo istante, benché fosse strampalata e incredibile nel costume, essendo l'uomo vestito dal collo ai talloni d'un attillato cremisi, con bagliori d'oro, pure in un solo lampo di luna riconobbe chi era. Quel volto bianco levato verso il cielo, sbarbato e così innaturalmente giovane, come Byron con un naso romano, quei riccioli neri già brizzolati... aveva visto i mille ritratti pubblici di Sir Claude Champion. La sfrenata figura rossa barcollò un istante contro la meridiana; l'istante dopo era rotolata giù per il ripido terrapieno e giaceva ai piedi dell'americano, muovendo debolmente un braccio. Un vistoso, innaturale ornamento d'oro sul braccio rammentò a un tratto a Kidd Romeo and Juliet; naturalmente l'attillata veste cremisi era parte della recita. Ma c'era una lunga macchia rossa lungo il terrapieno da cui l'uomo era rotolato, e quella non era parte della recita. Era stato trafitto da parte a parte.
+
+     Il signor Calhoun Kidd gridò e gridò ancora. Di nuovo gli parve di udire passi spettrali, e sussultò trovando un'altra figura già vicina a sé. Conosceva quella figura, eppure lo terrorizzava. Il giovane dissipato che si era fatto chiamare Dalroy aveva un modo di fare orribilmente calmo; se Boulnois mancava di mantenere gli appuntamenti fissati, Dalroy aveva la sinistra aria di mantenere quelli che non erano stati fissati. La luce lunare scoloriva ogni cosa: contro i capelli rossi di Dalroy il suo volto smorto non sembrava tanto bianco quanto d'un pallido verde.
+
+     Tutto questo morboso impressionismo dovrà servire da scusa a Kidd per aver gridato, brutalmente e contro ogni ragione: «Sei stato tu, demonio?»
+
+     James Dalroy sorrise il suo sgradevole sorriso; ma prima che potesse parlare, la figura caduta fece un altro movimento del braccio, agitandolo vagamente verso il punto in cui era caduta la spada; poi venne un gemito, e poi riuscì a parlare.
+
+     «Boulnois... Boulnois, dico... è stato Boulnois... geloso di me... era geloso, sì, era, era...»
+
+     Kidd chinò il capo per udire di più, e riuscì appena a cogliere le parole:
+
+     «Boulnois... con la mia stessa spada... l'ha scagliata...»
+
+     Di nuovo la mano che veniva meno si agitò verso la spada, e poi cadde rigida con un tonfo. In Kidd salì dal profondo tutto quell'acre umorismo che è lo strano sale della serietà della sua razza.
+
+     «Senta un po'», disse in tono secco e imperioso, «deve andare a chiamare un dottore. Quest'uomo è morto.»
+
+     «E anche un prete, immagino», disse Dalroy in maniera indecifrabile. «Tutti questi Champion sono papisti.»
+
+     L'americano s'inginocchiò accanto al corpo, tastò il cuore, sollevò la testa e tentò qualche estremo sforzo di rianimazione; ma prima che l'altro giornalista ricomparisse, seguìto da un dottore e da un prete, era già pronto a dichiarare che erano arrivati troppo tardi.
+
+     «Anche lei è arrivato troppo tardi?» chiese il dottore, un uomo massiccio e dall'aria prospera, con baffi e favoriti convenzionali, ma con un occhio vivace, che si posò dubbioso su Kidd.
+
+     «In un certo senso», biascicò il rappresentante del Sun. «Sono arrivato troppo tardi per salvare l'uomo, ma credo di essere arrivato in tempo per udire qualcosa d'importante. Ho udito il morto denunciare il suo assassino.»
+
+     «E chi era l'assassino?» chiese il dottore, aggrottando le sopracciglia.
+
+     «Boulnois», disse Calhoun Kidd, e fischiò piano.
+
+     Il dottore lo fissò cupamente con la fronte che si arrossava, ma non lo contraddisse. Poi il prete, una figura più bassa sullo sfondo, disse mitemente: «Mi risultava che il signor Boulnois non sarebbe venuto a Pendragon Park questa sera.»
+
+     «Ecco un altro punto», disse lo yankee tetramente, «su cui forse sono in grado di fornire alla vecchia Inghilterra un fatto o due. Sissignore, John Boulnois aveva intenzione di restarsene in casa tutta la sera; aveva combinato un buon appuntamento proprio lì con me. Ma John Boulnois ha cambiato idea; John Boulnois ha lasciato casa sua all'improvviso e tutto solo, ed è venuto in questo maledetto Park un'ora fa circa. Me l'ha detto il suo maggiordomo. Credo che abbiamo in mano quello che la sapientissima polizia chiama un indizio... l'avete fatta chiamare?»
+
+     «Sì», disse il dottore, «ma non abbiamo ancora allarmato nessun altro.»

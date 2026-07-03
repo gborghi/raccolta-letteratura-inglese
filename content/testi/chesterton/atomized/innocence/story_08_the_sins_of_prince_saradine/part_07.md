@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/innocence-(chesterton)">The Innocence of Father Brown</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/innocence/story_08_the_sins_of_prince_saradine/part_06">‹ part 06</a><a class="ex-next" href="/testi/chesterton/atomized/innocence/story_09_the_hammer_of_god/part_01">part 01 ›</a></div>
@@ -139,3 +141,139 @@ to them through the darkness, telling them that a [[Wind|wind]] was awake;
 the next moment it swayed their little boat and swelled their sail,
 and carried them onward down the winding [[River|river]] to happier places
 and the homes of harmless men.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/innocence-(chesterton)">The Innocence of Father Brown</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/innocence/story_08_the_sins_of_prince_saradine/part_06">‹ part 06</a><a class="ex-next" href="/testi/chesterton/atomized/innocence/story_09_the_hammer_of_god/part_01">part 01 ›</a></div>
+</nav>
+
+# [[innocence]] — I peccati del principe Saradine (parte 7)
+
+«Dio mio!» gridò [[Flambeau]] dopo una pausa, «sta ridendo!»
+
+«Andiamo via», disse [[Father Brown]], che era tutto bianco.
+«Andiamo via da questa [[house|casa]] d'inferno. Torniamo su una
+barca onesta.»
+
+La [[Night|notte]] era calata sui giunchi e sul [[River|fiume]] al [[Time|momento]] in cui ebbero staccato la barca dall'
+isola, e discesero la corrente nel buio, riscaldandosi
+con due grossi sigari che ardevano come cremisi lanterne di nave. [[Father Brown]]
+si tolse il sigaro di bocca e disse:
+
+«Immagino che ora tu possa indovinare tutta la storia? Dopotutto,
+è una storia primitiva. Un uomo aveva due nemici. Era un uomo saggio.
+E così scoprì che due nemici sono meglio di uno.»
+
+«Non ti seguo», rispose [[Flambeau]].
+
+«Oh, è davvero semplice», ribatté l'amico. «Semplice, sebbene
+tutt'altro che [[Innocent|innocente]]. Entrambi i Saradine erano canaglie,
+ma il principe, il maggiore, era il tipo di canaglia che arriva in cima,
+e il minore, il capitano, era il tipo che affonda in [[Bottom|fondo]].
+Questo squallido ufficiale scese da accattone a ricattatore,
+e un brutto giorno mise la mano addosso a suo fratello, il principe.
+Ovviamente non era per faccenda da poco, poiché il principe Paul Saradine
+era francamente `dissoluto', e non aveva reputazione da perdere quanto ai meri
+peccati della società. In parole povere, era faccenda da forca,
+e Stephen aveva letteralmente una corda al collo del fratello.
+Aveva in qualche modo scoperto la verità sulla faccenda siciliana,
+e poteva provare che Paul aveva assassinato il vecchio Antonelli sui monti.
+Il capitano raccolse pesantemente il denaro del silenzio per dieci anni,
+finché perfino la splendida fortuna del principe cominciò a sembrare
+un po' misera.
+
+«Ma il principe Saradine portava un altro fardello oltre al fratello succhiasangue.
+Sapeva che il figlio di Antonelli, un semplice bambino all'epoca dell'assassinio,
+era stato addestrato in una selvaggia lealtà siciliana, e viveva soltanto per vendicare
+suo padre, non con la forca (poiché gli mancava la prova legale di Stephen),
+ma con le antiche armi della vendetta. Il ragazzo si era esercitato nelle armi con
+una perfezione micidiale, e verso l'epoca in cui fu abbastanza grande per usarle
+il principe Saradine cominciò, come dicevano i giornali mondani, a viaggiare.
+Il fatto è che cominciò a fuggire per salvarsi la vita, passando di luogo in luogo
+come un criminale braccato; ma con un uomo implacabile sulle sue tracce.
+Questa era la posizione del principe Paul, e per nulla graziosa.
+Più denaro spendeva per sfuggire ad Antonelli, meno ne aveva per
+mettere a tacere Stephen. Più ne dava per mettere a tacere Stephen, meno probabilità
+c'era di sfuggire finalmente ad Antonelli. Fu allora che si mostrò
+un grand'uomo — un genio come Napoleone.
+
+«Invece di resistere ai suoi due antagonisti, si arrese
+d'improvviso a entrambi. Cedette come un lottatore giapponese,
+e i suoi nemici caddero prostrati davanti a lui. Rinunciò alla corsa
+intorno al mondo, e diede il proprio indirizzo al giovane Antonelli;
+poi cedette ogni cosa a suo fratello. Mandò a Stephen
+denaro sufficiente per eleganti abiti e comodi viaggi, con una lettera
+che diceva grosso modo: `Questo è tutto ciò che mi resta. Mi hai ripulito.
+Mi resta ancora una piccola [[house|casa]] nel Norfolk, con dei domestici e
+una cantina, e se vuoi di più da me devi prenderti quella.
+Vieni a prenderne possesso se ti va, e io vivrò là quietamente
+come tuo amico o agente o qualsiasi cosa.' Sapeva che il siciliano
+non aveva mai visto i fratelli Saradine se non, forse, in fotografia;
+sapeva che erano alquanto simili, avendo entrambi barbe grigie e appuntite.
+Poi si rase la propria faccia e attese. La trappola funzionò.
+L'infelice capitano, nei suoi nuovi abiti, entrò nella [[house|casa]]
+in trionfo come un principe, e andò a cadere sulla [[Sword|spada]] del siciliano.
+
+«Ci fu un intoppo, ed è a [[Honour|onore]] della [[Nature|natura]] umana.
+Gli spiriti malvagi come Saradine spesso sbagliano non aspettandosi mai
+le virtù dell'umanità. Diede per scontato che il
+colpo dell'italiano, quando fosse venuto, sarebbe stato oscuro, violento e senza nome,
+come il colpo che vendicava; che la vittima sarebbe stata accoltellata di [[Night|notte]],
+o fucilata da dietro una siepe, e così morire senza parlare.
+Fu un brutto momento per il principe Paul quando la cavalleria di Antonelli
+propose un duello formale, con tutte le sue possibili spiegazioni.
+Fu allora che lo trovai mentre prendeva il largo nella sua barca con occhi selvaggi.
+Fuggiva, a capo scoperto, in una barca aperta prima che Antonelli
+potesse apprendere chi egli fosse.
+
+«Ma, per quanto agitato, non era disperato. Conosceva l'avventuriero
+e conosceva il fanatico. Era assai probabile che Stephen,
+l'avventuriero, tenesse la bocca chiusa, per il suo mero piacere istrionico
+di recitare una parte, per la sua brama di aggrapparsi ai suoi nuovi
+comodi alloggi, per la sua fiducia da furfante nella fortuna, e per la sua bella scherma.
+Era certo che Antonelli, il fanatico, avrebbe tenuto
+la bocca chiusa, e si sarebbe fatto impiccare senza fare la spia sulla propria famiglia.
+Paul bighellonò sul [[River|fiume]] finché non seppe che il combattimento era finito.
+Poi destò la città, portò la polizia, vide i suoi due vinti
+nemici portati via per sempre, e si sedette sorridendo alla sua cena.»
+
+«Ridendo, che Dio ci aiuti!» disse [[Flambeau]] con un forte brivido.
+«Prendono simili idee da [[Satan|Satana]]?»
+
+«Ha preso quell'idea da te», rispose il prete.
+
+«Dio non voglia!» esclamò [[Flambeau]]. «Da me! Che cosa intendi!»
+
+Il prete estrasse un biglietto da visita dalla tasca e lo tenne sollevato
+nel debole bagliore del suo sigaro; era scarabocchiato con inchiostro verde.
+
+«Non ricordi il suo invito originale a te?»
+chiese, «e il complimento alla tua impresa criminale?
+`Quel vostro trucco', dice, `di far arrestare un [[Detective|detective]]
+dall'altro'? Ha semplicemente copiato il tuo trucco.
+Con un nemico da ciascun lato, sgusciò via rapidamente
+e li lasciò collidere e uccidersi a vicenda.»
+
+[[Flambeau]] strappò il biglietto del principe Saradine dalle mani del prete e lo dilaniò
+selvaggiamente in piccoli pezzi.
+
+«Ecco l'ultimo resto di quel vecchio teschio con le ossa incrociate», disse mentre
+spargeva i pezzi sulle scure e sparenti onde del corso d'acqua;
+«ma penso proprio che [[Poison|avvelenerebbe]] i pesci.»
+
+L'ultimo barlume di biglietto bianco e d'inchiostro verde fu annegato e oscurato;
+un debole e vibrante colore come di mattino mutò il cielo, e la [[Moon|luna]]
+dietro le erbe impallidì. Andarono alla deriva in [[Silence|silenzio]].
+
+«Padre», disse [[Flambeau]] all'improvviso, «pensi che sia stato tutto [[A Dream|un sogno]]?»
+
+Il prete scosse il capo, se in dissenso o in agnosticismo,
+ma rimase muto. Un odore di biancospino e di frutteti giunse
+loro attraverso l'oscurità, dicendo loro che un [[Wind|vento]] si era destato;
+un attimo dopo esso fece oscillare la loro barchetta e gonfiò la vela,
+e li portò avanti giù per il tortuoso [[River|fiume]] verso luoghi più felici
+e le dimore di uomini innocui.

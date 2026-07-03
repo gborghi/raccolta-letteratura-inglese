@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/innocence-(chesterton)">The Innocence of Father Brown</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/innocence/story_04_the_flying_stars/part_05">‹ part 05</a><a class="ex-next" href="/testi/chesterton/atomized/innocence/story_05_the_invisible_man/part_02">part 02 ›</a></div>
@@ -158,3 +160,158 @@ to each other like a regular firework; or cutting a banana or some
 such thing into a dancing doll.  His name was Isidore Smythe;
 and I can see him still, with his little dark face, just coming
 up to the counter, making a jumping kangaroo out of five cigars.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/innocence-(chesterton)">The Innocence of Father Brown</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/innocence/story_04_the_flying_stars/part_05">‹ part 05</a><a class="ex-next" href="/testi/chesterton/atomized/innocence/story_05_the_invisible_man/part_02">part 02 ›</a></div>
+</nav>
+
+# [[innocence]] — L’uomo invisibile (parte 1)
+
+                         L’uomo invisibile
+
+Nel fresco crepuscolo azzurro di due strade ripide a Camden Town, la bottega
+all’angolo, quella di un pasticciere, ardeva come la punta di un sigaro.
+Sarebbe forse più giusto dire come la punta di un fuoco d’artificio, ché la luce
+era di molti colori e di una certa complessità, spezzata da molti specchi
+e danzante su molte torte e leccornie dorate e dai colori sgargianti.
+Contro quell’unico vetro infuocato erano incollati i nasi di molti monelli di strada,
+poiché i cioccolatini erano tutti avvolti in quelle carte metalliche rosse, oro e verdi
+che sono quasi meglio del cioccolato stesso;
+e l’enorme torta nuziale bianca in vetrina era in qualche modo, insieme, remota
+e appagante, proprio come se l’intero Polo Nord fosse buono da mangiare.
+Simili provocazioni arcobaleno potevano naturalmente radunare la gioventù
+del vicinato fino ai dieci o dodici anni. Ma quell’angolo
+era attraente anche per una gioventù di stadio più avanzato; e un giovanotto,
+di non meno di ventiquattro anni, fissava la medesima vetrina.
+Anche per lui la bottega aveva un fascino infuocato, ma quell’attrazione
+non era da spiegarsi interamente coi cioccolatini; che, tuttavia, egli era
+ben lungi dal disprezzare.
+
+Era un giovane alto, robusto, dai capelli rossi, con un volto
+risoluto ma un fare svogliato. Portava sotto il braccio una piatta
+cartella grigia di schizzi in bianco e nero, che aveva venduto
+con più o meno successo agli editori fin da quando suo zio
+(che era un ammiraglio) lo aveva diseredato per socialismo, a causa
+di una conferenza da lui tenuta contro quella teoria economica.
+Si chiamava John Turnbull Angus.
+
+Entrato infine, attraversò la bottega del pasticciere
+fino alla saletta sul retro, che era una specie di pasticceria-ristorante,
+limitandosi a sollevare il cappello dinanzi alla giovane signorina che vi serviva.
+Era una ragazza bruna, elegante, sveglia, vestita di nero, dal colorito acceso
+e dagli occhi scuri e vivacissimi; e dopo il consueto intervallo ella
+lo seguì nella saletta interna per prendere l’ordinazione.
+
+L’ordinazione era evidentemente la solita. «Vorrei, per favore», disse
+con precisione, «un panino da mezzo penny e una piccola tazza di caffè nero.»
+Un istante prima che la ragazza potesse voltarsi, aggiunse: «E poi voglio
+che lei mi sposi.»
+
+La giovane signorina della bottega si irrigidì di colpo e disse:
+«Questi sono scherzi che non permetto.»
+
+Il giovane dai capelli rossi levò due occhi grigi di una gravità inaspettata.
+
+«Sul serio, davvero», disse, «è una cosa seria… seria come il
+panino da mezzo penny. È costosa, come il panino; si paga.
+È indigesta, come il panino. Fa male.»
+
+La bruna signorina non aveva mai staccato da lui i suoi occhi scuri,
+ma pareva studiarlo con esattezza quasi tragica.
+Al termine del suo scrutinio aveva qualcosa come l’ombra
+di un sorriso, e si sedette su una sedia.
+
+«Non le pare», osservò Angus, distratto, «che sia piuttosto crudele
+mangiare questi panini da mezzo penny? Potrebbero crescere e diventare panini da un penny.
+Rinuncerò a questi sport brutali quando saremo sposati.»
+
+La bruna signorina si alzò dalla sedia e andò alla finestra,
+evidentemente in uno stato di forte ma non ostile riflessione.
+Quando alfine si voltò di nuovo con aria di risolutezza,
+rimase sconcertata nell’osservare che il giovanotto stava disponendo
+accuratamente sul tavolo vari oggetti presi dalla vetrina. Vi erano
+una piramide di dolciumi dai colori vivaci, parecchi piatti di tramezzini,
+e le due caraffe contenenti quel misterioso porto e sherry
+che sono propri dei pasticcieri. Al centro di quella ordinata
+disposizione aveva accuratamente deposto l’enorme carico di bianca
+torta zuccherata che era stata il grande ornamento della vetrina.
+
+«Ma che diamine sta facendo?» chiese lei.
+
+«Il mio dovere, mia cara Laura», cominciò.
+
+«Oh, per amor del cielo, si fermi un momento», gridò lei, «e non
+mi parli in quel modo. Voglio dire: che cos’è tutta questa roba?»
+
+«Un banchetto cerimoniale, signorina Hope.»
+
+«E questo che cos’è?» chiese lei con impazienza, indicando la montagna di zucchero.
+
+«La torta nuziale, signora Angus», disse lui.
+
+La ragazza marciò verso quell’oggetto, lo tolse con un certo fracasso,
+e lo rimise in vetrina; poi tornò e, posando gli
+eleganti gomiti sul tavolo, guardò il giovane non senza favore,
+ma con considerevole esasperazione.
+
+«Non mi dà nemmeno il tempo di pensare», disse.
+
+«Non sono così sciocco», rispose lui; «è la mia umiltà cristiana.»
+
+Ella lo stava ancora guardando; ma era diventata assai più seria
+dietro il sorriso.
+
+«Signor Angus», disse con fermezza, «prima che vada avanti anche solo un minuto
+tutta questa assurdità, devo dirle qualcosa di me nel modo più breve che posso.»
+
+«Ne sarò lieto», rispose Angus con gravità. «Potrebbe dirmi anche
+qualcosa di me, giacché ci siamo.»
+
+«Oh, la smetta e mi ascolti», disse lei. «Non è nulla di cui io mi
+vergogni, e non è nemmeno qualcosa di cui io sia particolarmente pentita.
+Ma che cosa direbbe lei se ci fosse qualcosa che non mi riguarda
+e che pure è il mio incubo?»
+
+«In tal caso», disse l’uomo con serietà, «le suggerirei di
+riportare qui la torta.»
+
+«Be’, prima deve ascoltare la storia», disse Laura, ostinata.
+«Per cominciare, devo dirle che mio padre era proprietario della locanda chiamata
+il “Pesce Rosso” a Ludbury, e io servivo la gente al banco.»
+
+«Mi sono spesso chiesto», disse lui, «perché ci fosse una sorta di aria
+cristiana attorno a questa bottega di pasticciere.»
+
+«Ludbury è un sonnolento, erboso buco delle Contee Orientali,
+e l’unica specie di gente che veniva mai al “Pesce Rosso”
+erano occasionali commessi viaggiatori, e per il resto,
+la gente più tremenda che si possa vedere, solo che voi non l’avete mai vista.
+Voglio dire quegli omuncoli, tipi sfaccendati, che avevano appena di che vivere
+e non avevano nulla da fare se non gironzolare nelle sale del bar e scommettere
+sui cavalli, in abiti sciatti che erano appena troppo buoni per loro.
+Persino questi disgraziati giovani buoni a nulla non erano molto frequenti da noi;
+ma ce n’erano due che erano fin troppo frequenti…
+volgari in ogni senso. Vivevano entrambi di denaro
+proprio, ed erano stancamente oziosi e troppo eleganti. Eppure
+provavo un po’ di pena per loro, perché quasi credo che
+si intrufolassero nel nostro piccolo bar vuoto perché ciascuno di loro aveva una
+lieve deformità; il genere di cosa di cui certi villani ridono.
+Non era esattamente una deformità, per la verità; era piuttosto una stranezza.
+Uno di loro era un uomo sorprendentemente piccolo, qualcosa come un nano,
+o perlomeno come un fantino. Non aveva però affatto l’aria del fantino;
+aveva una testa rotonda e nera e una barba nera ben curata,
+occhi vividi come quelli di un uccello; faceva tintinnare monete in tasca;
+faceva sonare una gran catena d’orologio d’oro; e non compariva mai
+se non vestito appena troppo da signore per esserlo davvero.
+Non era però uno sciocco, benché fosse un ozioso inconcludente; era curiosamente
+abile in ogni genere di cose che non potevano avere la minima utilità;
+una sorta di prestidigitazione improvvisata; far prendere fuoco
+a quindici fiammiferi l’uno con l’altro come un vero fuoco d’artificio;
+o intagliare una banana o qualcosa del genere in una bambola danzante. Si chiamava Isidore Smythe;
+e posso vederlo ancora, con la sua piccola faccia scura, mentre si accostava
+al banco, facendo un canguro saltellante con cinque sigari.

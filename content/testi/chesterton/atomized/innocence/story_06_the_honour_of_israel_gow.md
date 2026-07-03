@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/innocence-(chesterton)">The Innocence of Father Brown</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/innocence/story_05_the_invisible_man">‹ Story 05 The Invisible Man</a><a class="ex-next" href="/testi/chesterton/atomized/innocence/story_07_the_wrong_shape">Story 07 The Wrong Shape ›</a></div>
@@ -633,3 +635,633 @@ And, indeed, when Flambeau crossed the hill that morning, he saw
 that strange being, the just miser, digging at the desecrated grave,
 the plaid round his throat thrashing out in the mountain wind;
 the sober top hat on his head.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/innocence-(chesterton)">The Innocence of Father Brown</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/innocence/story_05_the_invisible_man">‹ Story 05 The Invisible Man</a><a class="ex-next" href="/testi/chesterton/atomized/innocence/story_07_the_wrong_shape">Story 07 The Wrong Shape ›</a></div>
+</nav>
+
+# [[innocence]] — L’[[Honour|onore]] di Israel Gow
+
+                     L’onore di Israel Gow
+
+Una sera tempestosa, tutta d’oliva e d’argento, andava calando, quando Padre Brown,
+avvolto in un grigio plaid scozzese, giunse in fondo a una grigia valle scozzese
+e scorse lo strano castello di Glengyle.  Chiudeva un capo della gola o della
+conca come un vicolo cieco; e pareva la fine del mondo.
+Levandosi in ripidi tetti e in guglie d’ardesia verde-mare alla maniera degli antichi
+castelli franco-scozzesi, ricordava a un inglese i sinistri cappelli aguzzi
+delle streghe nelle fiabe; e le pinete che ondeggiavano intorno alle verdi
+torrette parevano, al confronto, nere come innumerevoli stormi di corvi.
+Questa nota di una diavoleria sognante, quasi sonnolenta, non era mera fantasia
+suggerita dal paesaggio.  Perché su quel luogo posava davvero una di quelle nubi
+di orgoglio, di follia e di misterioso dolore che gravano più pesantemente
+sulle nobili casate di Scozia che su qualunque altro dei figli degli uomini.
+Perché la Scozia ha una doppia dose del veleno chiamato eredità: il senso
+del sangue nell’aristocratico e il senso della dannazione nel calvinista.
+
+Il prete aveva strappato una giornata alle sue occupazioni a Glasgow per incontrare
+il suo amico Flambeau, il detective dilettante, che si trovava al castello di Glengyle
+insieme a un altro funzionario, più ufficiale di lui, per indagare sulla vita e sulla morte
+del defunto conte di Glengyle.  Quel personaggio misterioso era l’ultimo rappresentante
+di una stirpe il cui valore, la cui follia e la cui violenta astuzia li avevano resi terribili
+persino tra la sinistra nobiltà della loro nazione nel sedicesimo secolo.
+Nessuno fu più addentro a quella labirintica ambizione, in camera dentro camera
+di quel palazzo di menzogne che fu edificato attorno a Maria Stuarda regina di Scozia.
+
+La filastrocca corrente nelle campagne attestava candidamente il movente e l’esito
+dei loro maneggi:
+                 Come verde linfa agli alberi d’estate,
+                 così è l’oro rosso agli Ogilvie.
+
+Per molti secoli non vi era mai stato un signore rispettabile nel castello di Glengyle;
+e con l’era vittoriana si sarebbe pensato che ogni eccentricità
+fosse ormai esaurita.  L’ultimo Glengyle, tuttavia, soddisfece la tradizione della sua tribù
+facendo l’unica cosa che gli restasse da fare: sparì.
+Non voglio dire che se ne andò all’estero; a detta di tutti era ancora nel castello,
+se pure era da qualche parte.  Ma benché il suo nome figurasse nel registro parrocchiale e
+nel grande e rosso libro dei Pari, nessuno mai lo vide sotto il sole.
+
+Se qualcuno lo vedeva, era un solitario servitore, qualcosa a metà
+tra uno stalliere e un giardiniere.  Era tanto sordo che i più pragmatici
+lo davano per muto; mentre i più penetranti lo dichiaravano
+mezzo scemo.  Un manovale scarno, dai capelli rossi, con la mascella e il mento
+ostinati, ma gli occhi azzurri del tutto vacui, andava sotto il nome di
+Israel Gow, ed era l’unico servitore silenzioso di quella tenuta deserta.
+Ma l’energia con cui zappava le patate, e la regolarità
+con cui spariva nella cucina davano alla gente
+l’impressione che provvedesse ai pasti di un superiore,
+e che lo strano conte fosse ancora nascosto nel castello.
+Se la società avesse avuto bisogno di un’ulteriore prova che egli era là, il servitore
+asseriva ostinatamente che non era in casa.  Una mattina
+il prevosto e il pastore (perché i Glengyle erano presbiteriani)
+furono convocati al castello.  Là trovarono che il giardiniere,
+stalliere e cuoco aveva aggiunto alle sue molte professioni quella di
+becchino, e aveva inchiodato il suo nobile padrone dentro una bara.
+Con quanta o quanto poca ulteriore indagine questo strano fatto fosse passato,
+non appariva ancora troppo chiaramente; perché la cosa non era mai stata legalmente
+investigata finché Flambeau non era salito al nord due o tre giorni prima.
+Ormai il corpo di lord Glengyle (se era il suo corpo) giaceva
+da qualche tempo nel piccolo cimitero sulla collina.
+
+Mentre Padre Brown attraversava il fioco giardino e veniva a trovarsi nell’ombra
+del castello, le nubi erano dense e l’aria tutta umida e carica di tuoni.
+Contro l’ultima striscia del tramonto verde-oro egli vide una nera silhouette
+umana: un uomo con un cilindro, una grossa vanga sulla spalla.
+La combinazione evocava stranamente un becchino; ma quando Brown
+si ricordò del servitore sordo che zappava le patate, la giudicò abbastanza naturale.
+Conosceva qualcosa del contadino scozzese; conosceva quella rispettabilità che
+poteva ben ritenere necessario indossare i «panni neri» per un’inchiesta ufficiale;
+conosceva anche la parsimonia che non avrebbe rinunciato a un’ora di lavoro di vanga per questo.
+Persino il sussulto dell’uomo e il suo sguardo sospettoso al passare del prete erano abbastanza
+consoni alla vigilanza e alla diffidenza di un simile tipo.
+
+Il grande portone fu aperto da Flambeau in persona, che aveva con
+sé un uomo magro dai capelli grigio ferro e con dei fogli in mano:
+l’ispettore Craven di Scotland Yard.  L’atrio d’ingresso era
+per lo più spoglio e vuoto; ma i pallidi volti sogghignanti di uno
+o due dei malvagi Ogilvie guardavano in basso da sotto nere parrucche
+e da tele annerite dal tempo.
+
+Seguendoli in una sala interna, Padre Brown trovò che
+gli alleati sedevano a una lunga tavola di quercia, di cui la loro
+estremità era coperta di carte scarabocchiate, affiancate da whisky
+e sigari.  Per tutta la restante lunghezza essa era
+occupata da oggetti sparsi, disposti a intervalli;
+oggetti quanto mai inesplicabili si potesse immaginare.
+Uno pareva un piccolo mucchietto di vetri rotti e scintillanti.
+Un altro pareva un alto mucchio di polvere bruna.  Un terzo sembrava
+essere un semplice bastone di legno.
+
+«Pare che abbiate qui una specie di museo geologico», disse egli,
+sedendosi e accennando brevemente col capo in direzione
+della polvere bruna e dei frammenti cristallini.
+
+«Non un museo geologico», replicò Flambeau; «diciamo un museo psicologico».
+
+«Oh, per amor del cielo», gridò ridendo il detective della polizia,
+«non cominciamo con paroloni simili».
+
+«Non sapete che cosa significa psicologia?» chiese Flambeau con
+amichevole sorpresa.  «Psicologia significa avere il cervello fuori posto».
+
+«Continuo a non seguirvi bene», rispose il funzionario.
+
+«Ebbene», disse Flambeau con decisione, «voglio dire che abbiamo scoperto
+soltanto una cosa a proposito di lord Glengyle.  Era un maniaco».
+
+La nera silhouette di Gow, col suo cilindro e la sua vanga, passò
+davanti alla finestra, fiocamente stagliata contro il cielo che si oscurava.
+Padre Brown la fissò con aria passiva e rispose:
+
+«Posso capire che ci dovesse essere qualcosa di bizzarro in quell’uomo,
+o non si sarebbe sepolto vivo — né sarebbe stato tanto in fretta
+di seppellirsi da morto.  Ma che cosa vi fa pensare che fosse pazzia?»
+
+«Ebbene», disse Flambeau, «state solo a sentire l’elenco delle cose
+che il signor Craven ha trovato nella casa».
+
+«Ci vuole una candela», disse Craven all’improvviso.  «Si sta scatenando una tempesta,
+ed è troppo buio per leggere».
+
+«Avete trovato qualche candela», chiese Brown sorridendo, «tra le vostre stranezze?»
+
+Flambeau alzò un volto grave e fissò i suoi occhi scuri sull’amico.
+
+«Anche questo è curioso», disse.  «Venticinque candele,
+e non una traccia di candeliere».
+
+Nella stanza che si oscurava rapidamente e nel vento che rapidamente si levava, Brown percorse la
+tavola fino al punto in cui un fascio di candele di cera giaceva tra gli altri frammentari reperti.
+Nel far ciò si chinò per caso sopra il mucchio di polvere rosso-bruna;
+e un aspro starnuto ruppe il silenzio.
+
+«Ehilà!» disse, «tabacco da fiuto!»
+
+Prese una delle candele, la accese con cura, tornò indietro e la ficcò
+nel collo della bottiglia di whisky.  L’aria irrequieta della notte,
+soffiando attraverso la finestra sconnessa, faceva ondeggiare la lunga fiamma come una bandiera.
+E da ogni lato del castello si potevano udire le miglia e le miglia
+di nera pineta ribollire come un mare nero attorno a uno scoglio.
+
+«Leggerò l’inventario», cominciò Craven con gravità, prendendo uno
+dei fogli, «l’inventario di ciò che abbiamo trovato sparso e inspiegato
+nel castello.  Dovete sapere che il luogo, in generale,
+era smantellato e trascurato; ma una o due stanze erano state chiaramente
+abitate da qualcuno, in uno stile semplice ma non squallido;
+qualcuno che non era il servitore Gow.  L’elenco è il seguente:
+
+«Primo articolo.  Un tesoro assai considerevole di pietre preziose,
+quasi tutte diamanti, e tutte quante sciolte, prive di qualsiasi montatura.
+Naturalmente è normale che gli Ogilvie avessero gioielli di famiglia;
+ma quelle sono precisamente le gemme che si trovano quasi sempre incastonate in particolari
+oggetti d’ornamento.  Gli Ogilvie parrebbero aver tenuto le loro
+sciolte in tasca, come monetine di rame.
+
+«Secondo articolo.  Mucchi e mucchi di tabacco da fiuto sciolto, non tenuto in un corno,
+e nemmeno in una borsetta, ma sparso in mucchi sulle mensole dei camini, sulla credenza,
+sul pianoforte, dovunque.  Sembra che il vecchio gentiluomo non volesse prendersi
+il disturbo di frugare in tasca o di sollevare un coperchio.
+
+«Terzo articolo.  Qua e là per la casa, curiosi mucchietti
+di minuti pezzi di metallo, alcuni simili a molle d’acciaio e altri a forma
+di microscopiche ruote.  Come se avessero sventrato qualche giocattolo meccanico.
+
+«Quarto articolo.  Le candele di cera, che si devono ficcare nei colli delle bottiglie
+perché non c’è nient’altro in cui infilarle.  Ora vorrei che notaste
+quanto tutto questo sia molto più bizzarro di qualunque cosa avevamo previsto.
+All’enigma centrale siamo preparati; abbiamo tutti visto a
+colpo d’occhio che c’era qualcosa che non andava nell’ultimo conte.
+Siamo venuti qui per scoprire se davvero abitasse qui,
+se davvero morisse qui, se quello spauracchio dai capelli rossi
+che gli fece da becchino avesse qualcosa a che fare con la sua morte.
+Ma supponete il peggio in tutto ciò, la soluzione più truce o melodrammatica
+che vi piaccia.  Supponete che il servitore abbia davvero ucciso il padrone,
+oppure che il padrone non sia davvero morto, oppure che il padrone
+si travesta da servitore, oppure che il servitore sia sepolto
+al posto del padrone; inventate quale tragedia di Wilkie Collins vi pare,
+e ancora non avrete spiegato una candela senza candeliere,
+né perché un anziano gentiluomo di buona famiglia debba abitualmente
+rovesciare tabacco da fiuto sul pianoforte.  Il nocciolo del racconto potremmo immaginarlo;
+sono i margini a essere misteriosi.  Per quanto si sforzi la fantasia,
+la mente umana non riesce a collegare fra loro tabacco e diamanti e cera
+e ingranaggi sciolti».
+
+«Credo di vedere il collegamento», disse il prete.
+«Questo Glengyle era pazzo contro la Rivoluzione francese.  Era
+un entusiasta dell’ancien régime, e cercava di ricostruire
+alla lettera la vita familiare degli ultimi Borbone.  Aveva tabacco da fiuto
+perché era il lusso del diciottesimo secolo; candele di cera,
+perché erano l’illuminazione del diciottesimo secolo; i pezzetti
+meccanici di ferro rappresentano l’hobby del fabbro di Luigi XVI;
+i diamanti sono per la Collana di Diamanti di Maria Antonietta».
+
+Gli altri due lo fissavano con occhi tondi.
+«Che idea assolutamente straordinaria!» gridò Flambeau.  «Credete
+davvero che sia la verità?»
+
+«Sono perfettamente sicuro che non lo sia», rispose Padre Brown, «solo che voi
+avete detto che nessuno poteva collegare tabacco e diamanti e ingranaggi
+e candele.  Ve lo do io, il collegamento, così su due piedi.  La vera verità,
+ne sono ben certo, giace più in profondità».
+
+Fece una pausa e ascoltò il gemito del vento nelle
+torrette.  Poi disse: «Il defunto conte di Glengyle era un ladro.
+Viveva una seconda e più oscura vita come disperato scassinatore.
+Non aveva candelieri perché usava soltanto queste
+candele tagliate corte nella piccola lanterna che portava con sé.  Il tabacco da fiuto
+lo impiegava come i più feroci criminali francesi hanno usato il pepe:
+per gettarlo all’improvviso in dense nuvole in faccia a chi lo catturava o lo inseguiva.
+Ma la prova definitiva sta nella curiosa coincidenza dei diamanti
+e delle piccole ruote d’acciaio.  Non vi rende tutto chiaro, di certo?
+Diamanti e piccole ruote d’acciaio sono i due soli strumenti
+con cui si possa ritagliare una lastra di vetro».
+
+Il ramo di un pino spezzato sferzò pesantemente nella raffica contro
+il vetro della finestra alle loro spalle, come in parodia di uno scassinatore, ma essi
+non si voltarono.  I loro occhi erano fissi su Padre Brown.
+
+«Diamanti e piccole ruote», ripeté Craven meditando.
+«È tutto qui ciò che vi fa credere che sia la spiegazione vera?»
+
+«Non credo che sia la spiegazione vera», rispose il prete placidamente;
+«ma voi avete detto che nessuno poteva collegare le quattro cose.
+Il racconto vero, naturalmente, è qualcosa di assai più prosaico.
+Glengyle aveva trovato, o creduto di trovare, pietre preziose
+nella sua tenuta.  Qualcuno lo aveva imbrogliato con quei
+brillanti sciolti, dicendo che erano stati trovati nelle caverne del castello.
+Le piccole ruote sono qualche arnese da taglio dei diamanti.
+Doveva fare la cosa molto rozzamente e in piccolo,
+con l’aiuto di qualche pastore o di qualche zotico di queste colline.
+Il tabacco da fiuto è il grande lusso di simili pastori scozzesi;
+è l’unica cosa con cui si possano corrompere.
+Non avevano candelieri perché non ne volevano;
+tenevano le candele in mano quando esploravano le caverne».
+
+«È tutto qui?» chiese Flambeau dopo una lunga pausa.
+«Siamo finalmente arrivati alla scialba verità?»
+
+«Oh, no», disse Padre Brown.
+
+Mentre il vento moriva nelle più lontane pinete con un lungo ululato come di scherno,
+Padre Brown, con un volto del tutto impassibile, proseguì:
+
+«L’ho suggerita solo perché voi avevate detto che non si poteva plausibilmente
+collegare il tabacco agli ingranaggi o le candele alle pietre lucenti.
+Dieci false filosofie si adattano all’universo; dieci false teorie
+si adattano al castello di Glengyle.  Ma noi vogliamo la vera spiegazione
+del castello e dell’universo.  Ma non ci sono altri reperti?»
+
+Craven rise, e Flambeau si alzò in piedi sorridendo e passeggiò
+lungo la lunga tavola.
+
+«Articoli cinque, sei, sette, eccetera», disse, «e di certo
+più vari che istruttivi.  Una curiosa collezione,
+non di matite di piombo, ma del piombo estratto dalle matite.
+Un insensato bastoncino di bambù, con la punta piuttosto scheggiata.
+Potrebbe essere lo strumento del delitto.  Solo che non c’è
+nessun delitto.  Le uniche altre cose sono qualche vecchio messale e
+qualche immaginetta cattolica, che gli Ogilvie conservarono, suppongo,
+fin dal Medioevo — essendo il loro orgoglio di famiglia più forte
+del loro puritanesimo.  Le abbiamo messe nel museo soltanto perché
+sembrano curiosamente ritagliate e sfregiate».
+
+La tempesta inebriante che infuriava fuori spinse un tremendo ammasso di nubi attraverso
+Glengyle e gettò nell’oscurità la lunga sala, mentre Padre Brown
+prendeva le piccole pagine miniate per esaminarle.
+Parlò prima che il flusso dell’oscurità fosse passato; ma era
+la voce di un uomo del tutto nuovo.
+
+«Signor Craven», disse, parlando come un uomo di dieci anni più giovane, «avete
+un mandato legale, non è vero, per salire lassù ed esaminare quella tomba?  Quanto prima
+lo faremo, tanto meglio, così andremo in fondo a questa orribile faccenda.
+Se fossi in voi comincerei adesso».
+
+«Adesso», ripeté il detective sbalordito, «e perché adesso?»
+
+«Perché questa è una cosa seria», rispose Brown; «questo non è tabacco rovesciato
+o sassolini sparsi, che potrebbero trovarsi lì per cento ragioni.
+C’è una sola ragione, per quanto ne so, per cui si è fatto questo; e la ragione affonda
+fino alle radici del mondo.  Queste immagini sacre non sono soltanto
+sporcate o strappate o scarabocchiate, cosa che si potrebbe fare per ozio o per bigottismo,
+da bambini o da protestanti.  Queste sono state trattate con grande cura —
+e in modo assai bizzarro.  In ogni punto dove nelle antiche miniature compare
+il grande nome ornato di Dio, esso è stato accuratamente asportato.
+L’unica altra cosa che è stata tolta è l’aureola attorno al capo
+del Bambino Gesù.  Perciò, dico, prendiamo il nostro mandato e la nostra
+vanga e la nostra accetta, e saliamo a scoperchiare quella bara».
+
+«Che cosa volete dire?» incalzò il funzionario di Londra.
+
+«Voglio dire», rispose il piccolo prete, e la sua voce parve alzarsi lievemente
+nel ruggito della bufera.  «Voglio dire che il grande diavolo dell’universo
+potrebbe essere seduto in questo momento in cima alla torre più alta di questo castello, grosso
+come cento elefanti, e ruggente come l’Apocalisse.  C’è della magia
+nera in fondo a tutto questo, da qualche parte».
+
+«Magia nera», ripeté Flambeau a bassa voce, perché era un uomo troppo
+illuminato per non conoscere simili cose; «ma che cosa possono significare queste altre cose?»
+
+«Oh, qualcosa di dannabile, suppongo», rispose Brown con impazienza.
+«Come faccio a saperlo?  Come posso indovinare tutti i loro labirinti là sotto?
+Forse da tabacco e bambù si può ricavare una tortura.
+Forse i pazzi bramano cera e limatura d’acciaio.
+Forse esiste una droga che fa impazzire fatta di matite di piombo!
+La scorciatoia più breve verso il mistero è su per la collina, fino alla tomba».
+
+I suoi compagni si accorsero appena di avergli obbedito e di averlo seguito
+finché una raffica del vento notturno non li gettò quasi bocconi
+nel giardino.  Nondimeno gli avevano obbedito come automi;
+perché Craven si ritrovò un’accetta in mano, e il mandato in tasca;
+Flambeau portava la pesante vanga dello strano giardiniere;
+Padre Brown portava il piccolo libro dorato dal quale era stato
+strappato il nome di Dio.
+
+Il sentiero su per la collina fino al cimitero era tortuoso ma corto;
+solo che, sotto quella pressione del vento, pareva faticoso e lungo.
+Fin dove giungeva l’occhio, sempre più lontano man mano che salivano il pendio,
+c’erano mari oltre mari di pini, ora tutti inclinati da una parte sotto il vento.
+E quel gesto universale pareva vano quanto era vasto, vano come se
+quel vento fischiasse attorno a qualche pianeta spopolato e senza scopo.
+Attraverso tutta quella infinita crescita di foreste grigio-azzurre cantava, acuto e alto,
+quell’antico dolore che è nel cuore di tutte le cose pagane.
+Si poteva immaginare che le voci provenienti dal mondo sotterraneo dell’insondabile
+fogliame fossero grida degli dèi pagani perduti e vaganti:
+dèi che erano andati errando in quella foresta irrazionale, e che non
+ritroveranno mai la via del cielo.
+
+«Vedete», disse Padre Brown con tono basso ma disinvolto, «gli scozzesi, prima che
+la Scozia esistesse, erano una razza curiosa.  Anzi, sono una razza curiosa ancora.
+Ma nei tempi preistorici immagino che adorassero davvero i demoni.
+Ecco», aggiunse cordialmente, «perché si buttarono a capofitto sulla teologia puritana».
+
+«Amico mio», disse Flambeau, voltandosi in una specie di furore, «che cosa significa
+tutto quel tabacco da fiuto?»
+
+«Amico mio», rispose Brown, con eguale serietà, «c’è un
+segno di tutte le religioni autentiche: il materialismo.  Ora, il culto del diavolo è
+una religione perfettamente autentica».
+
+Erano saliti sulla erbosa cocuzza della collina, uno dei pochi punti brulli
+che spiccavano liberi dalla pineta fragorosa e ruggente.
+Un misero recinto, in parte di legname e in parte di filo di ferro, sferragliava
+nella tempesta a indicare loro il confine del cimitero.
+Ma quando l’ispettore Craven giunse all’angolo della tomba,
+e Flambeau ebbe piantato la vanga con la punta all’ingiù e vi si fu appoggiato,
+erano entrambi quasi scossi quanto il traballante legno e filo di ferro.
+Ai piedi della tomba crescevano alti cardi enormi, grigi e argentei
+nel loro sfacelo.  Una volta o due, quando una palla di lanugine di cardo si spezzava
+sotto la brezza e gli sfrecciava accanto, Craven sussultava lievemente come se
+fosse stata una freccia.
+
+Flambeau spinse la lama della vanga attraverso l’erba fischiante
+fin nella creta umida sottostante.  Poi parve fermarsi e appoggiarvisi
+come a un bastone.
+
+«Avanti», disse il prete con molta dolcezza.  «Stiamo solo cercando di trovare la verità.
+Di che cosa avete paura?»
+
+«Ho paura di trovarla», disse Flambeau.
+
+Il detective londinese parlò all’improvviso con una voce alta e stridula
+che voleva essere colloquiale e allegra.
+«Mi domando perché si sia davvero nascosto in quel modo.
+Qualcosa di sgradevole, suppongo; era forse un lebbroso?»
+
+«Qualcosa di peggio», disse Flambeau.
+
+«E che cosa immaginate», chiese l’altro, «potrebbe essere peggio di un lebbroso?»
+
+«Non lo immagino», disse Flambeau.
+
+Scavò per alcuni tremendi minuti in silenzio, poi disse con voce soffocata:
+«Ho paura che non abbia la forma giusta».
+
+«Non l’aveva nemmeno quel pezzo di carta, sapete», disse Padre Brown con calma,
+«e siamo sopravvissuti persino a quel pezzo di carta».
+
+Flambeau continuò a scavare con cieca energia.  Ma la tempesta aveva scostato
+via le soffocanti nubi grigie che si aggrappavano alle colline come fumo e
+aveva rivelato grigi campi di fioca luce stellare prima che egli avesse liberato la sagoma
+di una rozza bara di legname, e in qualche modo la rovesciò sull’erba.
+Craven si fece avanti con l’ascia; una cima di cardo lo sfiorò,
+e lui trasalì.  Poi mosse un passo più fermo, e menò colpi e
+strappò con un’energia pari a quella di Flambeau finché il coperchio fu divelto,
+e tutto ciò che era là dentro giacque luccicando nella grigia luce delle stelle.
+
+«Ossa», disse Craven; e poi aggiunse: «ma è un uomo»,
+come se fosse qualcosa di inaspettato.
+
+«È», chiese Flambeau con una voce che saliva e scendeva stranamente,
+«è tutto a posto?»
+
+«Pare di sì», disse il funzionario con voce rauca, chinandosi sull’oscuro e decomposto
+scheletro nella cassa.  «Aspettate un momento».
+
+Un ampio sussulto percorse l’enorme figura di Flambeau.  «E adesso che ci penso»,
+gridò, «perché mai, in nome della follia, non dovrebbe essere tutto a posto?
+Che cos’è che afferra un uomo su queste maledette montagne gelide?
+Credo che sia la nera, sconsiderata ripetizione; tutte queste foreste, e sopra a tutto
+un antico orrore di incoscienza.  È come il sogno di un ateo.
+Pini e altri pini e milioni di altri pini —»
+
+«Dio!» gridò l’uomo presso la bara, «ma non ha la testa».
+
+Mentre gli altri restavano rigidi, il prete, per la prima volta,
+mostrò un guizzo di trasalita apprensione.
+
+«Niente testa!» ripeté.  «Niente testa?» come se si fosse quasi aspettato
+qualche altra mancanza.
+
+Visioni deliranti di un neonato senza testa nato a Glengyle, di un giovane
+senza testa che si nascondeva nel castello, di un uomo senza testa che percorreva quegli antichi
+saloni o quel magnifico giardino, passarono in panorama nelle loro menti.
+Ma persino in quell’istante irrigidito il racconto non mise radici in loro
+e parve privo di ogni ragione.  Restarono ad ascoltare i boschi
+fragorosi e il cielo stridente in modo del tutto sciocco, come animali sfiniti.
+Il pensiero pareva qualcosa di enorme che era improvvisamente sgusciato
+dalla loro presa.
+
+«Ci sono tre uomini senza testa», disse Padre Brown, «in piedi attorno
+a questa tomba aperta».
+
+Il pallido detective venuto da Londra aprì la bocca per parlare, e la lasciò
+aperta come uno zotico, mentre un lungo urlo di vento squarciava il cielo;
+poi guardò l’ascia che aveva in mano come se non gli appartenesse,
+e la lasciò cadere.
+
+«Padre», disse Flambeau con quella voce infantile e greve che usava assai di rado,
+«che cosa dobbiamo fare?»
+
+La risposta del suo amico giunse con la trattenuta prontezza di un colpo di fucile.
+
+«Dormire!» gridò Padre Brown.  «Dormire.  Siamo giunti alla fine dei cammini.
+Sapete che cos’è il sonno?  Sapete che ogni uomo che dorme crede
+in Dio?  È un sacramento; perché è un atto di fede ed è un cibo.
+E noi abbiamo bisogno di un sacramento, foss’anche solo naturale.  Qualcosa è caduto su di noi
+che ben di rado cade sugli uomini; forse la cosa peggiore che possa cadere loro addosso».
+
+Le labbra socchiuse di Craven si riunirono per dire: «Che cosa volete dire?»
+
+Il prete aveva rivolto il viso verso il castello mentre rispondeva:
+«Abbiamo trovato la verità; e la verità non ha alcun senso».
+
+Scese davanti a loro per il sentiero con un passo impetuoso e temerario
+assai raro in lui, e quando raggiunsero di nuovo il castello egli si abbandonò
+al sonno con la semplicità di un cane.
+
+Nonostante il suo mistico elogio del sopore, Padre Brown fu in piedi prima
+di chiunque altro, tranne il silenzioso giardiniere; e fu trovato mentre fumava
+una grossa pipa e osservava quell’esperto alle sue mute fatiche
+nell’orto.  Verso l’alba la tempesta ondeggiante era finita
+in scroscianti piogge, e il giorno venne con una curiosa freschezza.
+Il giardiniere pareva persino aver conversato, ma alla vista
+dei detective piantò imbronciato la vanga in un’aiuola e,
+dicendo qualcosa a proposito della sua colazione, si spostò lungo le file
+dei cavoli e si chiuse in cucina.  «È un uomo prezioso,
+quello», disse Padre Brown.  «Fa le patate in modo straordinario.
+Eppure», aggiunse, con una carità imparziale, «ha i suoi difetti;
+chi di noi non ne ha?  Non zappa questa scarpata proprio con regolarità.
+Là, per esempio», e batté improvvisamente il piede su un punto.
+«Sono davvero molto dubbioso a proposito di quella patata».
+
+«E perché?» chiese Craven, divertito dall’hobby dell’ometto.
+
+«Ne sono dubbioso», disse l’altro, «perché il vecchio Gow ne era dubbioso
+lui stesso.  Ha piantato la vanga metodicamente in ogni punto, tranne proprio in questo.
+Ci dev’essere una patata magnifica proprio qui».
+
+Flambeau strappò via la vanga e la conficcò impetuosamente nel punto.
+Ne rivoltò fuori, sotto un carico di terra, qualcosa che non pareva
+una patata, ma piuttosto un fungo mostruoso e troppo cupolato.
+Ma urtò la vanga con un freddo tintinnio; rotolò via come una palla,
+e ghignò verso di loro.
+
+«Il conte di Glengyle», disse Brown mestamente, e guardò pesantemente
+in basso il teschio.
+
+Poi, dopo un istante di meditazione, strappò la vanga a Flambeau,
+e, dicendo «Dobbiamo nasconderlo di nuovo», ricacciò il teschio giù nella terra.
+Poi appoggiò il suo piccolo corpo e la sua enorme testa al grande manico
+della vanga, che stava ritto e rigido nel terreno, e i suoi occhi
+erano vuoti e la sua fronte piena di rughe.  «Se solo si potesse
+concepire», mormorò, «il significato di quest’ultima mostruosità».
+E appoggiandosi al grande manico della vanga, affondò le sopracciglia nelle mani,
+come fanno gli uomini in chiesa.
+
+Tutti gli angoli del cielo si andavano rischiarando in azzurro e argento;
+gli uccelli cinguettavano tra i piccoli alberi del giardino;
+così forte che pareva quasi che fossero gli alberi stessi a parlare.
+Ma i tre uomini erano abbastanza silenziosi.
+
+«Ebbene, rinuncio a tutto», disse infine Flambeau con foga.
+«Il mio cervello e questo mondo non si adattano l’uno all’altro; e la faccenda finisce qui.
+Tabacco da fiuto, libri di preghiere sciupati, e le interiora dei carillon — che cosa —»
+
+Brown sollevò la fronte tormentata e picchiò sul manico della vanga con
+un’insofferenza del tutto insolita in lui.  «Oh, ma via, via, via, via!» gridò.
+«Tutto questo è chiaro come il sole.  Ho capito il tabacco e gli ingranaggi,
+e via dicendo, non appena ho aperto gli occhi stamattina.  E da allora
+ne ho parlato a fondo col vecchio Gow, il giardiniere, che non è né così sordo né
+così stupido come finge.  Non c’è nulla di storto nei reperti sciolti.
+Mi sbagliavo anche a proposito del messale strappato; non c’è alcun male in quello.  Ma è
+quest’ultima faccenda.  Profanare tombe e rubare le teste dei morti —
+non c’è forse del male in questo?  Non c’è forse ancora della magia nera in questo?
+Questo non si accorda con la storia assai semplice del tabacco e delle candele».
+E, tornando a camminare a grandi passi, fumava cupamente.
+
+«Amico mio», disse Flambeau, con un umorismo tetro, «dovete
+essere prudente con me e ricordare che un tempo fui un criminale.
+Il grande vantaggio di quella condizione era che inventavo sempre
+la storia da me, e la mettevo in atto con la rapidità che mi piaceva.  Questo mestiere
+del detective, che consiste nell’aspettare, è troppo per la mia impazienza francese.
+Per tutta la vita, nel bene o nel male, ho fatto le cose all’istante;
+ho sempre battuto i miei duelli la mattina dopo; ho sempre pagato i conti
+seduta stante; non ho mai nemmeno rimandato una visita dal dentista —»
+
+La pipa di Padre Brown gli cadde di bocca e si spezzò in tre pezzi sul
+sentiero di ghiaia.  Egli restò lì a roteare gli occhi, la perfetta immagine di un idiota.
+«Signore, che rapa sono!» continuava a dire.  «Signore, che rapa!»
+Poi, in un modo alquanto barcollante, cominciò a ridere.
+
+«Il dentista!» ripeté.  «Sei ore nell’abisso spirituale,
+e tutto perché non ho mai pensato al dentista!  Un pensiero così semplice,
+così bello e sereno!  Amici, abbiamo passato
+una notte all’inferno; ma ora il sole è sorto, gli uccelli cantano,
+e la radiosa figura del dentista consola il mondo».
+
+«Un po’ di senso lo caverò da questa faccenda», gridò Flambeau, avanzando a grandi passi,
+«dovessi usare le torture dell’Inquisizione».
+
+Padre Brown represse quella che pareva una momentanea inclinazione
+a danzare sul prato ormai illuminato dal sole e gridò in modo del tutto pietoso, come un bambino:
+«Oh, lasciatemi essere sciocco per un po’.  Non sapete quanto sono stato infelice.
+E ora so che in tutta questa faccenda non c’è stato alcun peccato profondo.
+Solo un po’ di follia, forse — e a chi importa di questo?»
+
+Fece un altro giro su se stesso, poi li affrontò con gravità.
+
+«Questa non è una storia di delitto», disse; «è piuttosto la storia
+di una strana e contorta onestà.  Abbiamo a che fare con l’unico
+uomo sulla terra, forse, che non ha preso più del suo dovuto.
+È uno studio nella feroce logica vivente che è stata la religione
+di questa razza.
+
+«Quell’antica filastrocca locale sulla casa di Glengyle —
+                 Come verde linfa agli alberi d’estate,
+                 così è l’oro rosso agli Ogilvie —
+era letterale non meno che metaforica.  Non voleva soltanto
+dire che i Glengyle cercavano la ricchezza; era anche vero
+che essi raccoglievano letteralmente oro; possedevano una enorme collezione
+di ornamenti e utensili di quel metallo.  Erano, di fatto,
+avari la cui mania aveva preso quella piega.  Alla luce di questo fatto,
+ripercorrete tutte le cose che abbiamo trovato nel castello.
+Diamanti senza i loro anelli d’oro; candele senza i loro
+candelieri d’oro; tabacco senza le tabacchiere d’oro;
+mine di matita senza i portamine d’oro; un bastone da passeggio
+senza il suo pomo d’oro; ingranaggi senza gli orologi d’oro —
+o piuttosto gli orologi da taschino.  E, per folle che suoni, poiché le aureole
+e il nome di Dio negli antichi messali erano d’oro vero,
+anche questi furono portati via».
+
+Il giardino parve rischiararsi, l’erba farsi più gaia
+nel sole che si rafforzava, man mano che la folle verità veniva narrata.
+Flambeau accese una sigaretta mentre l’amico proseguiva.
+
+«Furono portati via», continuò Padre Brown; «furono portati via —
+ma non rubati.  Dei ladri non avrebbero mai lasciato questo mistero.
+Dei ladri avrebbero preso le tabacchiere d’oro, tabacco e tutto;
+i portamine d’oro, mina e tutto.  Abbiamo a che fare con un
+uomo dalla coscienza particolare, ma di certo con una coscienza.
+Ho trovato quel folle moralista stamattina laggiù nell’orto,
+e ho ascoltato tutta la storia.
+
+«Il defunto Archibald Ogilvie fu il più vicino a essere un uomo buono
+che sia mai nato a Glengyle.  Ma la sua amara virtù prese la piega
+del misantropo; si crucciava per la disonestà dei suoi antenati,
+dalla quale, in qualche modo, generalizzava una disonestà di tutti gli uomini.
+Più di tutto diffidava della filantropia o del dare gratuito;
+e giurò che se avesse trovato un solo uomo che prendesse esattamente ciò che gli spettava,
+costui avrebbe avuto tutto l’oro di Glengyle.  Lanciata questa sfida
+all’umanità, si rinchiuse, senza la minima aspettativa
+che vi si rispondesse.  Un giorno, tuttavia, un ragazzo sordo e in apparenza
+insensato, di un villaggio lontano, gli portò un telegramma in ritardo;
+e Glengyle, con la sua acida faceziosità, gli diede un quarto di penny nuovo di zecca.
+Almeno credette di averlo fatto, ma quando rivoltò il suo
+resto trovò il quarto di penny nuovo ancora lì e uno sterlino sparito.
+L’incidente gli aprì prospettive di sogghignante speculazione.
+In un modo o nell’altro, il ragazzo avrebbe mostrato l’untuosa avidità della specie.
+O sarebbe svanito, un ladro che ruba una moneta; oppure sarebbe
+tornato di soppiatto a restituirla virtuosamente, uno snob in cerca di ricompensa.
+Nel cuore di quella notte lord Glengyle fu tirato giù dal letto —
+perché viveva solo — e costretto ad aprire la porta al sordo idiota.
+L’idiota portava con sé, non lo sterlino, ma esattamente diciannove
+scellini e undici pence e tre quarti di resto.
+
+«Allora la selvaggia esattezza di quell’azione afferrò la mente del pazzo signore
+come il fuoco.  Giurò di essere Diogene, che a lungo aveva cercato un uomo onesto,
+e finalmente ne aveva trovato uno.  Fece un nuovo testamento, che io ho visto.
+Prese quel giovane letterale nella sua immensa e trascurata casa, e lo educò
+come suo unico servitore e — in un modo bizzarro — suo erede.
+E qualunque cosa quella strana creatura comprenda, comprese
+in modo assoluto le due idee fisse del suo signore: primo, che la lettera
+del diritto è tutto; e secondo, che egli stesso doveva avere
+l’oro di Glengyle.  Fin qui, è tutto; ed è semplice.
+Ha spogliato la casa di tutto l’oro, e non ha preso un solo granello che non fosse oro;
+neppure un granello di tabacco da fiuto.  Ha sollevato la foglia d’oro da un’
+antica miniatura, pienamente soddisfatto di lasciare intatto il resto.
+Tutto questo l’ho capito; ma non riuscivo a capire questa faccenda del teschio.
+Ero davvero a disagio per quella testa umana sepolta tra le patate.
+Mi angustiava — finché Flambeau non pronunciò la parola.
+
+«Andrà tutto bene.  Rimetterà il teschio nella tomba,
+quando avrà tolto l’oro dal dente».
+
+E, in effetti, quando Flambeau attraversò la collina quella mattina, vide
+quello strano essere, il giusto avaro, che scavava presso la tomba profanata,
+il plaid intorno alla gola sbattuto dal vento della montagna;
+il sobrio cilindro sul capo.

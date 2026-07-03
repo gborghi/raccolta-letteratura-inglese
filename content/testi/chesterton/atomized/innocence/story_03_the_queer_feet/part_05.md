@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/innocence-(chesterton)">The Innocence of Father Brown</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/innocence/story_03_the_queer_feet/part_04">‹ part 04</a><a class="ex-next" href="/testi/chesterton/atomized/innocence/story_03_the_queer_feet/part_06">part 06 ›</a></div>
@@ -142,3 +144,74 @@ but I think I know a cleverer."
 
 "He was a clever fellow," answered the other, "but I am not quite
 sure of what other you mean."
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/innocence-(chesterton)">The Innocence of Father Brown</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/innocence/story_03_the_queer_feet/part_04">‹ part 04</a><a class="ex-next" href="/testi/chesterton/atomized/innocence/story_03_the_queer_feet/part_06">part 06 ›</a></div>
+</nav>
+
+# [[innocence]] — I passi strani (parte 5)
+
+Il proprietario ripeté il gesto a mani aperte con impotenza ancor maggiore, e in un lampo tutti gli uomini al tavolo furono in piedi.
+
+«Sono tutti qui i suoi camerieri?» domandò il colonnello, col suo accento basso e aspro.
+
+«Sì; sono tutti qui. L’ho notato io stesso», gridò il giovane duca, spingendo il suo volto fanciullesco nel cerchio più interno. «Li conto sempre quando entro; hanno un’aria così buffa ritti contro il muro».
+
+«Ma di certo non si può ricordare con esattezza», cominciò il signor Audley, con pesante esitazione.
+
+«Ricordo con esattezza, ve lo dico io», gridò il duca eccitato. «Non ci sono mai stati più di quindici camerieri in questo posto, e non ce n’erano più di quindici stasera, lo giuro; né più né meno».
+
+Il proprietario si volse verso di lui, tremando in una specie di paralisi da sorpresa. «Lei dice... lei dice», balbettò, «che ha visto tutti i miei quindici camerieri?»
+
+«Come al solito», assentì il duca. «Che c’è di male?»
+
+«Nulla», disse Lever, con accento sempre più marcato, «solo che non li ha visti. Perché uno di loro è morto di sopra».
+
+Ci fu per un istante un silenzio scioccante in quella sala. Può darsi (tanto è [[Supernatural|soprannaturale]] la parola [[Death|morte]]) che ciascuno di quegli uomini oziosi guardasse per un secondo alla propria [[Soul|anima]], e la vedesse come un piccolo pisello secco. Uno di loro — il duca, credo — disse persino con l’idiota bontà della ricchezza: «C’è qualcosa che possiamo fare?»
+
+«Ha avuto un prete», disse l’ebreo, non del tutto insensibile.
+
+Poi, come al rintocco del giudizio, si destarono alla propria posizione. Per qualche secondo bizzarro avevano davvero sentito come se il quindicesimo cameriere potesse essere il [[Ghost|fantasma]] del morto di sopra. Erano rimasti muti sotto quell’oppressione, poiché i [[Ghosts|fantasmi]] erano per loro un imbarazzo, come i mendicanti. Ma il ricordo dell’argento spezzò l’incantesimo del miracoloso; lo spezzò bruscamente e con una brutale reazione. Il colonnello rovesciò la sedia e mosse a grandi passi verso la porta. «Se c’era qui un quindicesimo uomo, amici», disse, «quel quindicesimo tizio era un ladro. Giù subito alle porte anteriori e posteriori e mettete tutto in sicurezza; poi ne parleremo. Le ventiquattro perle del club valgono la pena d’essere recuperate».
+
+Il signor Audley parve dapprima esitare sul fatto se fosse da gentiluomo mostrarsi tanto frettoloso per qualcosa; ma, vedendo il duca precipitarsi giù per le scale con giovanile energia, lo seguì con moto più maturo.
+
+Nel medesimo istante un sesto cameriere corse nella sala, e dichiarò di aver trovato la pila dei piatti di pesce su una credenza, senza traccia dell’argento.
+
+La folla di commensali e inservienti che ruzzolò alla rinfusa giù per i corridoi si divise in due gruppi. La maggior parte dei Pescatori seguì il proprietario nella sala anteriore per chiedere notizie di qualsiasi uscita. Il Colonnello Pound, col presidente, il vicepresidente e uno o due altri, si lanciò giù per il corridoio che conduceva agli alloggi della servitù, come la più probabile via di fuga. Nel far ciò passarono davanti alla fioca alcova o caverna del guardaroba, e videro una figura bassa, dal cappotto nero, presumibilmente un inserviente, che stava un po’ arretrata nell’[[Shadow|ombra]] di esso.
+
+«Ehi, voi!» gridò il duca. «Avete visto passare qualcuno?»
+
+La bassa figura non rispose direttamente alla domanda, ma disse soltanto: «Forse ho io ciò che state cercando, signori».
+
+Fecero una pausa, vacillanti e perplessi, mentre egli andava tranquillamente sul fondo del guardaroba, e tornava con entrambe le mani colme di argento lucente, che dispose sul bancone con la calma di un commesso. Prese la forma di una dozzina di forchette e coltelli dalla forma bizzarra.
+
+«Voi... voi...» cominciò il colonnello, finalmente del tutto sbilanciato. Poi scrutò dentro la fioca stanzetta e vide due cose: primo, che l’uomo basso, vestito di nero, era abbigliato come un ecclesiastico; e secondo, che la [[Window|finestra]] della stanza alle sue spalle era sfondata, come se qualcuno fosse passato attraverso con violenza. «Oggetti di valore da depositare in un guardaroba, non trovate?» osservò l’ecclesiastico, con allegra compostezza.
+
+«Le avete... le avete rubate voi, quelle cose?» balbettò il signor Audley, con gli occhi sbarrati.
+
+«Se l’avessi fatto», disse il chierico amabilmente, «per lo meno le sto riportando indietro».
+
+«Ma non l’avete fatto», disse il Colonnello Pound, sempre fissando la [[Window|finestra]] rotta.
+
+«A voler essere del tutto sincero, non l’ho fatto», disse l’altro, con un certo [[Humour|umorismo]]. E si sedette del tutto gravemente su uno sgabello. «Ma voi sapete chi è stato», disse il colonnello.
+
+«Non conosco il suo vero nome», disse il prete placidamente, «ma so qualcosa del suo peso da combattimento, e molto delle sue difficoltà spirituali. Formulai la stima fisica quando cercava di strangolarmi, e la stima morale quando si pentì».
+
+«Oh, ma va’ — pentirsi!» gridò il giovane Chester, con una sorta di gorgoglio di risa.
+
+[[Father Brown|Padre Brown]] si alzò in piedi, mettendosi le mani dietro la schiena. «Strano, non è vero», disse, «che un ladro e un vagabondo si pentano, mentre tanti che sono ricchi e al sicuro restano duri e frivoli, e senza frutto per Dio o per l’uomo? Ma ecco, se mi perdonate, voi sconfinate un poco nel mio campo. Se [[Doubt|dubitate]] della penitenza come fatto pratico, ecco lì i vostri coltelli e le vostre forchette. Voi siete I Dodici Veri Pescatori, ed ecco tutti i vostri pesci d’argento. Ma Egli ha fatto di me un pescatore di uomini».
+
+«L’avete preso, quest’uomo?» chiese il colonnello, aggrottando le sopracciglia.
+
+[[Father Brown|Padre Brown]] lo guardò dritto nel volto accigliato. «Sì», disse, «l’ho preso, con un amo invisibile e una lenza invisibile che è tanto lunga da lasciarlo vagare fino ai confini del mondo, e tuttavia da riportarlo indietro con uno strattone al filo».
+
+Ci fu un lungo [[Silence|silenzio]]. Tutti gli altri uomini presenti si allontanarono alla spicciolata per portare l’argento ritrovato ai loro compagni, o per consultare il proprietario sulla bizzarra piega degli avvenimenti. Ma il colonnello dal volto arcigno sedeva ancora di traverso sul bancone, dondolando le sue lunghe gambe magre e mordicchiandosi i baffi scuri.
+
+Alla fine disse tranquillamente al prete: «Dev’essere stato un tipo in gamba, ma credo di conoscerne uno più in gamba».
+
+«Era un tipo in gamba», rispose l’altro, «ma non sono del tutto sicuro di quale altro intendiate».

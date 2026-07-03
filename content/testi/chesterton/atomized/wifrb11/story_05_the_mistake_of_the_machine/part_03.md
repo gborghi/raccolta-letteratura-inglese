@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/wifrb11-(chesterton)">The Wisdom of Father Brown</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/wifrb11/story_05_the_mistake_of_the_machine/part_02">‹ part 02</a><a class="ex-next" href="/testi/chesterton/atomized/wifrb11/story_05_the_mistake_of_the_machine/part_04">part 04 ›</a></div>
@@ -118,3 +120,118 @@ with a smile.  "And almost as cool as you."
 
      "Well, this one wasn't," said Usher, throwing the papers about. 
 "Oh, you make me tired!"
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/wifrb11-(chesterton)">The Wisdom of Father Brown</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/wifrb11/story_05_the_mistake_of_the_machine/part_02">‹ part 02</a><a class="ex-next" href="/testi/chesterton/atomized/wifrb11/story_05_the_mistake_of_the_machine/part_04">part 04 ›</a></div>
+</nav>
+
+# [[wifrb11]] — L'errore della [[Machine|Macchina]] (parte 3)
+
+     «Ella rifece i suoi passi con eguale segretezza e la porta
+si richiuse dietro di lei. Stavo per scavalcare la palizzata e seguirla,
+quando mi resi conto che la febbre da detective che mi aveva attirato
+nell'avventura era piuttosto poco dignitosa; e che, in una veste più
+autorevole, avevo già tutte le carte in mano.
+Stavo appunto voltandomi quando un nuovo rumore ruppe la notte.
+Una finestra fu spalancata a uno dei piani superiori, ma proprio dietro
+l'angolo della casa, sicché non potei vederla; e una voce
+di terribile nitidezza fu udita gridare attraverso il giardino buio
+per sapere dove fosse Lord Falconroy, poiché mancava da ogni stanza
+della casa. Non si poteva sbagliare, quella voce. L'ho
+udita su più d'una tribuna politica o in più d'una riunione di amministratori;
+era Ireton Todd in persona. Alcuni degli altri parevano essere andati
+alle finestre inferiori o sulla gradinata, e gli gridavano
+che Falconroy era andato a fare una passeggiata giù verso Pilgrim's Pond
+un'ora prima, e da allora non se n'era più trovata traccia. Allora Todd gridò
+`Assassinio potente!' e chiuse violentemente la [[Window|finestra]]; e potei udirlo
+precipitarsi giù per le scale all'interno. Riappropriatomi del mio primo
+e più saggio proposito, mi sottrassi in fretta alla via della ricerca generale
+che doveva seguire; e tornai qui non più tardi delle otto in [[Clock|punto]].
+
+     «Ora ti prego di richiamare alla mente quel piccolo trafiletto mondano
+che ti pareva così penosamente privo d'interesse. Se il detenuto
+non serbava il colpo per Todd, come evidentemente non era,
+è quanto mai probabile che lo serbasse per Lord Falconroy;
+e pare che abbia consegnato la merce. Non c'è luogo più comodo
+per abbattere un uomo che nei curiosi dintorni geologici di quella pozza,
+dove un [[Body|corpo]] gettato giù affonderebbe attraverso una fitta melma fino a una profondità
+praticamente ignota. Supponiamo, dunque, che il nostro amico
+dai capelli rasati sia venuto per uccidere Falconroy e non Todd.
+Ma, come ho fatto notare, ci sono molte ragioni per cui in [[America]]
+si potrebbe voler uccidere Todd. Non c'è ragione per cui qualcuno in [[America]]
+dovesse voler uccidere un lord inglese appena sbarcato, tranne l'unica ragione
+menzionata nel giornale rosa — che il lord fa la corte
+alla figlia del milionario. Il nostro amico dai capelli rasati,
+a dispetto dei suoi abiti mal tagliati, dev'essere un [[Lover|corteggiatore]] pieno d'ambizione.
+
+     «So che l'idea ti sembrerà stridente e perfino comica;
+ma è perché sei inglese. A te suona come dire
+che la figlia dell'Arcivescovo di Canterbury sposerà, in
+St George's, Hanover Square, uno spazzino di crocevia in libertà vigilata.
+Non rendi giustizia alla forza scalatrice e aspirante dei
+nostri cittadini più notevoli. Vedi un bell'uomo dai capelli grigi
+in abito da sera con una certa aria d'autorità, sai che è
+un pilastro dello Stato, e t'immagini che abbia avuto un padre. Ti sbagli.
+Non ti rendi conto che, relativamente pochi anni fa, egli può essere stato
+in un casamento popolare o (assai probabilmente) in galera. Non tieni conto della nostra
+esuberanza e slancio nazionale. Molti dei nostri cittadini più influenti
+non solo si sono innalzati di recente, ma si sono innalzati relativamente tardi nella vita.
+La figlia di Todd aveva ben diciott'anni quando suo padre mise su per la prima volta il suo gruzzolo;
+sicché non c'è davvero nulla d'impossibile nel fatto ch'ella abbia uno spasimante
+di bassa condizione; o perfino che si aggrappi a lui, come credo
+che stia facendo, a giudicare dalla faccenda della lanterna. Se è così,
+la mano che reggeva la lanterna potrebbe non essere estranea alla mano
+che reggeva il fucile. Questo caso, signore, farà rumore.»
+
+     «[[Well|Ebbene]]», disse il prete con pazienza, «e che cosa facesti poi?»
+
+     «Immagino che ne rimarrai scandalizzato», rispose Greywood Usher,
+«dato che so che non hai simpatia per la marcia della scienza in queste faccende.
+Qui mi è concessa una buona dose di discrezionalità, e forse me ne prendo un po' di più
+di quanta me ne sia concessa; e pensai che fosse un'eccellente occasione per mettere alla prova
+quella [[Machine|Macchina]] Psicometrica di cui ti ho parlato. Ora, secondo me,
+quella [[Machine|macchina]] non può mentire.»
+
+     «Nessuna [[Machine|macchina]] può mentire», disse [[Father Brown|Padre Brown]]; «né può dire la [[Truth|verità]].»
+
+     «In questo caso l'ha fatto, come ti dimostrerò», proseguì Usher con sicurezza.
+«Feci sedere l'uomo dagli abiti mal tagliati in una comoda poltrona,
+e semplicemente scrissi delle parole su una lavagna; e la [[Machine|macchina]] semplicemente
+registrava le variazioni del suo polso; e io semplicemente osservavo il suo contegno.
+Il trucco sta nell'introdurre qualche parola connessa al presunto delitto
+in un elenco di parole connesse a tutt'altro,
+eppure un elenco in cui essa ricorra in modo del tutto naturale. Così scrissi `airone' e
+`aquila' e `gufo', e quando scrissi `falco' egli fu tremendamente agitato;
+e quando cominciai a tracciare una `r' alla fine della parola,
+quella macchina fece un vero balzo. Chi altri, in questa repubblica, ha una ragione
+di sussultare al nome di un inglese appena arrivato come Falconroy,
+se non l'uomo che l'ha ucciso? Non è forse una prova migliore di
+un mucchio di chiacchiere di testimoni — se è la prova di una macchina affidabile?»
+
+     «Tu dimentichi sempre», osservò il suo compagno, «che la macchina affidabile
+dev'essere sempre azionata da una macchina inaffidabile.»
+
+     «Ma via, che cosa vuoi dire?» chiese il detective.
+
+     «Voglio dire l'Uomo», disse Padre Brown, «la macchina più inaffidabile
+che io conosca. Non voglio essere scortese; e non credo che considererai
+l'Uomo una descrizione offensiva o inesatta di te stesso.
+Dici di aver osservato il suo contegno; ma come sai di averlo osservato bene?
+Dici che le parole devono venire in modo naturale; ma come sai
+di averlo fatto in modo naturale? Come sai, se è per questo,
+che non fu lui a osservare il tuo contegno? Chi può provare che tu non fossi
+tremendamente agitato? Non c'era nessuna macchina legata al tuo polso.»
+
+     «Ti dico», gridò l'americano al colmo dell'eccitazione,
+«che ero freddo come un cetriolo.»
+
+     «Anche i criminali possono essere freddi come cetrioli», disse Brown
+con un sorriso. «E quasi altrettanto freddi quanto te.»
+
+     «Be', questo non lo era», disse Usher, sparpagliando le carte.
+«Oh, mi fai venire il mal di testa!»

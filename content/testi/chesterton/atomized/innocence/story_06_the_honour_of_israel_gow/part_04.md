@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/innocence-(chesterton)">The Innocence of Father Brown</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/innocence/story_06_the_honour_of_israel_gow/part_03">‹ part 03</a><a class="ex-next" href="/testi/chesterton/atomized/innocence/story_06_the_honour_of_israel_gow/part_05">part 05 ›</a></div>
@@ -145,3 +147,145 @@ were empty and his forehead full of wrinkles.  "If one could
 only conceive," he muttered, "the meaning of this last monstrosity."
 And leaning on the large spade handle, he buried his brows in his hands,
 as men do in church.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/innocence-(chesterton)">The Innocence of Father Brown</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/innocence/story_06_the_honour_of_israel_gow/part_03">‹ part 03</a><a class="ex-next" href="/testi/chesterton/atomized/innocence/story_06_the_honour_of_israel_gow/part_05">part 05 ›</a></div>
+</nav>
+
+# [[innocence]] — [[Honour|L’onore]] di Israel Gow (parte 4)
+
+«Avanti», disse il prete con molta dolcezza.  «Stiamo solo cercando di trovare la verità.
+Di che cosa avete paura?»
+
+«Ho paura di trovarla», disse Flambeau.
+
+Il detective londinese parlò all’improvviso con una voce alta e stridula
+che voleva essere colloquiale e allegra.
+«Mi domando perché si sia davvero nascosto in quel modo.
+Qualcosa di sgradevole, suppongo; era forse un lebbroso?»
+
+«Qualcosa di peggio», disse Flambeau.
+
+«E che cosa immaginate», chiese l’altro, «potrebbe essere peggio di un lebbroso?»
+
+«Non lo immagino», disse Flambeau.
+
+Scavò per alcuni tremendi minuti in silenzio, poi disse con voce soffocata:
+«Ho paura che non abbia la forma giusta».
+
+«Non l’aveva nemmeno quel pezzo di carta, sapete», disse Padre Brown con calma,
+«e siamo sopravvissuti persino a quel pezzo di carta».
+
+Flambeau continuò a scavare con cieca energia.  Ma la tempesta aveva scostato
+via le soffocanti nubi grigie che si aggrappavano alle colline come fumo e
+aveva rivelato grigi campi di fioca luce stellare prima che egli avesse liberato la sagoma
+di una rozza bara di legname, e in qualche modo la rovesciò sull’erba.
+Craven si fece avanti con l’ascia; una cima di cardo lo sfiorò,
+e lui trasalì.  Poi mosse un passo più fermo, e menò colpi e
+strappò con un’energia pari a quella di Flambeau finché il coperchio fu divelto,
+e tutto ciò che era là dentro giacque luccicando nella grigia luce delle stelle.
+
+«Ossa», disse Craven; e poi aggiunse: «ma è un uomo»,
+come se fosse qualcosa di inaspettato.
+
+«È», chiese Flambeau con una voce che saliva e scendeva stranamente,
+«è tutto a posto?»
+
+«Pare di sì», disse il funzionario con voce rauca, chinandosi sull’oscuro e decomposto
+scheletro nella cassa.  «Aspettate un momento».
+
+Un ampio sussulto percorse l’enorme figura di Flambeau.  «E adesso che ci penso»,
+gridò, «perché mai, in nome della follia, non dovrebbe essere tutto a posto?
+Che cos’è che afferra un uomo su queste maledette montagne gelide?
+Credo che sia la nera, sconsiderata ripetizione; tutte queste foreste, e sopra a tutto
+un antico orrore di incoscienza.  È come il sogno di un ateo.
+Pini e altri pini e milioni di altri pini —»
+
+«Dio!» gridò l’uomo presso la bara, «ma non ha la testa».
+
+Mentre gli altri restavano rigidi, il prete, per la prima volta,
+mostrò un guizzo di trasalita apprensione.
+
+«Niente testa!» ripeté.  «Niente testa?» come se si fosse quasi aspettato
+qualche altra mancanza.
+
+Visioni deliranti di un neonato senza testa nato a Glengyle, di un giovane
+senza testa che si nascondeva nel castello, di un uomo senza testa che percorreva quegli antichi
+saloni o quel magnifico giardino, passarono in panorama nelle loro menti.
+Ma persino in quell’istante irrigidito il racconto non mise radici in loro
+e parve privo di ogni ragione.  Restarono ad ascoltare i boschi
+fragorosi e il cielo stridente in modo del tutto sciocco, come animali sfiniti.
+Il pensiero pareva qualcosa di enorme che era improvvisamente sgusciato
+dalla loro presa.
+
+«Ci sono tre uomini senza testa», disse Padre Brown, «in piedi attorno
+a questa tomba aperta».
+
+Il pallido detective venuto da Londra aprì la bocca per parlare, e la lasciò
+aperta come uno zotico, mentre un lungo urlo di vento squarciava il cielo;
+poi guardò l’ascia che aveva in mano come se non gli appartenesse,
+e la lasciò cadere.
+
+«Padre», disse Flambeau con quella voce infantile e greve che usava assai di rado,
+«che cosa dobbiamo fare?»
+
+La risposta del suo amico giunse con la trattenuta prontezza di un colpo di fucile.
+
+«Dormire!» gridò Padre Brown.  «Dormire.  Siamo giunti alla fine dei cammini.
+Sapete che cos’è il sonno?  Sapete che ogni uomo che dorme crede
+in Dio?  È un sacramento; perché è un atto di fede ed è un cibo.
+E noi abbiamo bisogno di un sacramento, foss’anche solo naturale.  Qualcosa è caduto su di noi
+che ben di rado cade sugli uomini; forse la cosa peggiore che possa cadere loro addosso».
+
+Le labbra socchiuse di Craven si riunirono per dire: «Che cosa volete dire?»
+
+Il prete aveva rivolto il viso verso il castello mentre rispondeva:
+«Abbiamo trovato la verità; e la verità non ha alcun senso».
+
+Scese davanti a loro per il sentiero con un passo impetuoso e temerario
+assai raro in lui, e quando raggiunsero di nuovo il castello egli si abbandonò
+al sonno con la semplicità di un cane.
+
+Nonostante il suo mistico elogio del sopore, Padre Brown fu in piedi prima
+di chiunque altro, tranne il silenzioso giardiniere; e fu trovato mentre fumava
+una grossa pipa e osservava quell’esperto alle sue mute fatiche
+nell’orto.  Verso l’alba la tempesta ondeggiante era finita
+in scroscianti piogge, e il giorno venne con una curiosa freschezza.
+Il giardiniere pareva persino aver conversato, ma alla vista
+dei detective piantò imbronciato la vanga in un’aiuola e,
+dicendo qualcosa a proposito della sua colazione, si spostò lungo le file
+dei cavoli e si chiuse in cucina.  «È un uomo prezioso,
+quello», disse Padre Brown.  «Fa le patate in modo straordinario.
+Eppure», aggiunse, con una carità imparziale, «ha i suoi difetti;
+chi di noi non ne ha?  Non zappa questa scarpata proprio con regolarità.
+Là, per esempio», e batté improvvisamente il piede su un punto.
+«Sono davvero molto dubbioso a proposito di quella patata».
+
+«E perché?» chiese Craven, divertito dall’hobby dell’ometto.
+
+«Ne sono dubbioso», disse l’altro, «perché il vecchio Gow ne era dubbioso
+lui stesso.  Ha piantato la vanga metodicamente in ogni punto, tranne proprio in questo.
+Ci dev’essere una patata magnifica proprio qui».
+
+Flambeau strappò via la vanga e la conficcò impetuosamente nel punto.
+Ne rivoltò fuori, sotto un carico di terra, qualcosa che non pareva
+una patata, ma piuttosto un fungo mostruoso e troppo cupolato.
+Ma urtò la vanga con un freddo tintinnio; rotolò via come una palla,
+e ghignò verso di loro.
+
+«Il conte di Glengyle», disse Brown mestamente, e guardò pesantemente
+in basso il teschio.
+
+Poi, dopo un istante di meditazione, strappò la vanga a Flambeau,
+e, dicendo «Dobbiamo nasconderlo di nuovo», ricacciò il teschio giù nella terra.
+Poi appoggiò il suo piccolo corpo e la sua enorme testa al grande manico
+della vanga, che stava ritto e rigido nel terreno, e i suoi occhi
+erano vuoti e la sua fronte piena di rughe.  «Se solo si potesse
+concepire», mormorò, «il significato di quest’ultima mostruosità».
+E appoggiandosi al grande manico della vanga, affondò le sopracciglia nelle mani,
+come fanno gli uomini in chiesa.

@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/innocence-(chesterton)">The Innocence of Father Brown</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/innocence/story_01_the_blue_cross/part_05">‹ part 05</a><a class="ex-next" href="/testi/chesterton/atomized/innocence/story_01_the_blue_cross/part_07">part 07 ›</a></div>
@@ -154,3 +156,153 @@ you from the first, don't you see, I made sure that the [[Cross|cross]]
 should go safe, anyhow.  I'm afraid I watched you, you know.
 So at last I saw you change the parcels.  Then, don't you see,
 I changed them back again.  And then I left the right one behind."
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/innocence-(chesterton)">The Innocence of Father Brown</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/innocence/story_01_the_blue_cross/part_05">‹ part 05</a><a class="ex-next" href="/testi/chesterton/atomized/innocence/story_01_the_blue_cross/part_07">part 07 ›</a></div>
+</nav>
+
+# [[innocence]] — La [[Cross|croce]] azzurra (parte 6)
+
+Dopo aver ascoltato per un minuto e mezzo, fu preso da un dubbio diabolico.
+Forse aveva trascinato i due poliziotti inglesi nelle lande di una
+brughiera notturna per una missione non più assennata del cercare fichi
+sui suoi cardi. Poiché i due preti discorrevano esattamente come preti,
+piamente, con dottrina e agio, dei più aerei enigmi della teologia.
+Il pretino dell'Essex parlava con maggior semplicità, col volto rotondo
+rivolto alle stelle che si facevano più intense; l'altro parlava
+col capo chino, come se non fosse neppure degno di guardarle. Ma nessuna
+conversazione più innocentemente clericale si sarebbe potuta udire
+in un bianco chiostro italiano o in una nera cattedrale spagnola.
+
+La prima cosa che udì fu la coda di una delle frasi di Padre Brown,
+che terminava: «...ciò che intendevano davvero nel Medioevo dicendo
+che i cieli sono incorruttibili.»
+
+Il prete più alto annuì col capo chino e disse:
+
+«Ah, sì, questi moderni infedeli si appellano alla loro ragione;
+ma chi può guardare quei milioni di mondi e non sentire che potrebbero
+ben esservi universi meravigliosi sopra di noi, dove la ragione
+è del tutto irragionevole?»
+
+«No», disse l'altro prete; «la ragione è sempre ragionevole,
+persino nell'ultimo limbo, nella perduta terra di confine delle cose.
+So che si accusa la Chiesa di abbassare la ragione, ma è proprio
+il contrario. Sola sulla terra, la Chiesa rende la ragione veramente
+sovrana. Sola sulla terra, la Chiesa afferma che Dio stesso è vincolato
+dalla ragione.»
+
+L'altro prete levò il suo austero volto al cielo trapunto di stelle e disse:
+
+«Eppure, chi sa se in quell'universo infinito...?»
+
+«Infinito solo fisicamente», disse il pretino, voltandosi di scatto
+sulla panca, «non infinito nel senso di sfuggire alle leggi della verità.»
+
+Valentin, dietro il suo albero, si strappava le unghie con silenziosa furia.
+Gli pareva quasi di udire i risolini dei detective inglesi che aveva
+condotto tanto lontano su una fantastica congettura solo per ascoltare
+i pettegolezzi metafisici di due miti vecchi pretonzoli. Nell'impazienza
+perse la risposta altrettanto elaborata dell'alto chierico, e quando
+tornò ad ascoltare era di nuovo Padre Brown a parlare:
+
+«La ragione e la giustizia stringono la stella più remota e più solitaria.
+Guardate quelle stelle. Non sembrano forse diamanti e zaffiri isolati?
+Ebbene, potete immaginare qualunque folle botanica o geologia vi piaccia.
+Pensate a foreste d'adamante con foglie di brillanti. Pensate che la luna
+sia una luna azzurra, un unico elefantesco zaffiro. Ma non crediate
+che tutta quella frenetica astronomia farebbe la minima differenza
+per la ragione e la giustizia della condotta. Su pianure d'opale,
+sotto rupi scolpite nella perla, trovereste pur sempre un cartello:
+"Non rubare."»
+
+Valentin stava giusto per alzarsi dalla sua rigida posizione accovacciata
+e allontanarsi strisciando quanto più silenziosamente possibile, abbattuto
+dall'unica grande follia della sua vita. Ma qualcosa nel [[Silence|silenzio]]
+stesso del prete alto lo indusse a fermarsi finché questi non parlò.
+Quando alla fine parlò, disse semplicemente, col capo chino e le mani
+sulle ginocchia:
+
+«[[Well|Ebbene]], io penso che altri mondi possano forse elevarsi più in alto
+della nostra ragione. Il mistero del cielo è insondabile, e io per primo
+non posso che chinare il capo.»
+
+Poi, con la fronte ancora piegata e senza mutare della più tenue sfumatura
+il proprio atteggiamento o la propria voce, aggiunse:
+
+«Passatemi solo quella vostra [[Cross|croce]] di zaffiri, volete?
+Siamo del tutto [[Alone|soli]] qui, e potrei farvi a pezzi come
+una bambola di paglia.»
+
+La voce e l'atteggiamento del tutto immutati aggiunsero una strana violenza
+a quello sconvolgente cambio di discorso. Ma il custode della reliquia
+parve soltanto voltare il capo del più piccolo settore della bussola.
+Pareva avere ancora un volto piuttosto sciocco rivolto alle [[Stars|stelle]].
+Forse non aveva capito. Oppure, forse, aveva capito e sedeva rigido
+di terrore.
+
+«Sì», disse il prete alto, con la stessa voce sommessa e nella stessa
+immobile posizione, «sì, io sono [[Flambeau]].»
+
+Poi, dopo una pausa, disse:
+
+«Su, volete darmi quella [[Cross|croce]]?»
+
+«No», disse l'altro, e il monosillabo ebbe un suono strano.
+
+[[Flambeau]] scrollò d'un tratto ogni sua pontificale posa. Il grande
+ladrone si abbandonò contro lo schienale e rise sommesso ma a lungo.
+
+«No», gridò, «non me la darete, superbo prelato. Non me la darete,
+piccolo sempliciotto celibe. Volete che vi dica perché non me la darete?
+Perché l'ho già io nella mia stessa tasca interna.»
+
+Il piccolo uomo dell'Essex volse quella che parve una faccia stordita
+nel crepuscolo, e disse, con la timida premura del «Segretario privato»:
+
+«Ne... ne siete sicuro?»
+
+[[Flambeau]] urlò dalla gioia.
+
+«Davvero, valete quanto una farsa in tre atti», gridò. «Sì, rapa,
+ne sono del tutto sicuro. Ho avuto il buon senso di fare un doppione
+del pacco giusto, e ora, amico mio, voi avete il doppione e io ho i gioielli.
+Un vecchio trucco, [[Father Brown|Padre Brown]], un trucco vecchissimo.»
+
+«Sì», disse [[Father Brown]], e si passò la mano tra i capelli con la stessa
+strana vaghezza di modi. «Sì, ne avevo sentito parlare prima.»
+
+Il colosso del delitto si sporse verso il piccolo prete di campagna
+con una sorta d'improvviso interesse.
+
+«Ne avete sentito parlare?» chiese. «Dove ne avete sentito parlare?»
+
+«[[Well|Ebbene]], non devo dirvi il suo nome, naturalmente», disse il piccolo uomo
+con semplicità. «Era un penitente, sapete. Aveva vissuto agiatamente
+per una ventina d'anni interamente su doppioni di pacchi di carta marrone.
+E così, vedete, quando cominciai a sospettare di voi, pensai subito
+al modo di fare di quel povero diavolo.»
+
+«Cominciaste a sospettare di me?» ripeté il fuorilegge con accresciuta
+intensità. «Aveste davvero il fegato di sospettare di me solo perché
+vi condussi su in questa parte spoglia della brughiera?»
+
+«No, no», disse Brown con aria di scusa. «Vedete, vi sospettai la prima
+volta che ci incontrammo. È quel piccolo rigonfio su per la manica
+dove voialtri portate il braccialetto a punte.»
+
+«Come in nome di Tartaro», esclamò [[Flambeau]], «avete mai sentito parlare
+del braccialetto a punte?»
+
+«Oh, il proprio gregge, sapete!» disse [[Father Brown]], inarcando piuttosto
+inespressivamente le sopracciglia. «Quando ero curato a Hartlepool,
+ce n'erano tre col braccialetto a punte. Sicché, siccome vi sospettavo
+fin dal principio, capite, mi assicurai che la [[Cross|croce]] fosse comunque
+al sicuro. Temo di avervi tenuto d'occhio, sapete. E così alla fine
+vi vidi scambiare i pacchi. Poi, capite, li riscambiai di nuovo.
+E poi lasciai indietro quello giusto.»

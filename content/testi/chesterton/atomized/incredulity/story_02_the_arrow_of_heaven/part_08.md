@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/incredulity-(chesterton)">Incredulity</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/incredulity/story_02_the_arrow_of_heaven/part_07">‹ part 07</a><a class="ex-next" href="/testi/chesterton/atomized/incredulity/story_02_the_arrow_of_heaven/part_09">part 09 ›</a></div>
@@ -145,3 +147,64 @@ demanding it with threats and only killing after a struggle;
 both victims were thrown down just outside their houses.
 The objection to Wilton's way of doing it is that we shall
 never hear Doom's side of the case.'
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/incredulity-(chesterton)">Incredulity</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/incredulity/story_02_the_arrow_of_heaven/part_07">‹ part 07</a><a class="ex-next" href="/testi/chesterton/atomized/incredulity/story_02_the_arrow_of_heaven/part_09">part 09 ›</a></div>
+</nav>
+
+Lo squillo del telefono risuonò con un clamore stridulo e orribile di insistenza. Veniva dalla stanza attigua, e Padre Brown vi si era precipitato prima che chiunque altro potesse muoversi.
+
+«Che diavolo succede?» gridò Peter Wain, che pareva tutto scosso e sconvolto.
+
+«Ha detto che si aspettava una chiamata da Wilton, il segretario» rispose lo zio con la stessa voce spenta.
+
+«Immagino sia Wilton?» osservò l'avvocato, come chi parla per riempire un [[Silence|silenzio]]. Ma nessuno rispose alla domanda, finché [[Father Brown|Padre Brown]] non ricomparve d'improvviso e in silenzio nella stanza, portando la risposta.
+
+«Signori» disse, dopo aver ripreso il suo posto, «siete stati voi a chiedermi di indagare sulla verità di questo rompicapo; e, avendone trovata la verità, devo dirla, senza alcuna finzione che ne attenui il colpo. Temo che chiunque ficchi il naso in faccende simili non possa permettersi di avere riguardo per le persone.»
+
+«Immagino» disse Crake, rompendo il [[Silence|silenzio]] che ne era seguito, «che questo significhi che alcuni di noi sono accusati, o sospettati.»
+
+«Tutti noi siamo sospettati» rispose [[Father Brown|Padre Brown]]. «Posso essere sospettato io stesso, poiché sono stato io a trovare il corpo.»
+
+«Naturalmente siamo sospettati» sbottò Wain. «Padre Brown ha avuto la cortesia di spiegarmi come avrei potuto assediare la torre con una macchina volante.»
+
+«No» ribatté il sacerdote con un sorriso; «siete stato voi a descrivermi come avreste potuto farlo. Ed è proprio questa la parte interessante della faccenda.»
+
+«Pareva ritenesse verosimile» ringhiò Crake «che l'avessi ucciso io stesso con una freccia da pellerossa.»
+
+«L'ho ritenuto quanto mai improbabile» disse [[Father Brown|Padre Brown]], facendo una smorfia piuttosto storta. «Mi dispiace se ho agito male, ma non riuscivo a pensare a nessun altro modo per mettere alla prova la cosa. Difficilmente potrei immaginare qualcosa di più inverosimile dell'idea che il capitano Wain sia passato sfrecciando su un'enorme [[Machine|macchina]] davanti alla [[Window|finestra]], proprio nell'istante del delitto, senza che nessuno se ne accorgesse; a meno che, forse, non lo sia l'idea che un rispettabile vecchio signore si metta a giocare ai pellerossa con arco e frecce dietro i cespugli, per uccidere qualcuno che avrebbe potuto uccidere in venti modi assai più semplici. Ma dovevo scoprire se avessero avuto qualcosa a che fare con la faccenda; e così ho dovuto accusarli per provare la loro [[innocence|innocenza]].»
+
+«E come avete provato la loro innocenza?» chiese Blake, l'avvocato, chinandosi in avanti con impazienza.
+
+«Solo dall'agitazione che hanno mostrato quando sono stati accusati» rispose l'altro.
+
+«Che cosa intendete, esattamente?»
+
+«Se mi permettete di dirlo» osservò [[Father Brown|Padre Brown]] con sufficiente compostezza, «ritenni senza dubbio mio dovere sospettare di loro e di tutti gli altri. Sospettai del signor Crake e sospettai del capitano Wain, nel senso che presi in considerazione la possibilità o la probabilità della loro colpevolezza. Dissi loro che avevo tratto delle conclusioni al riguardo; e ora dirò loro quali fossero quelle conclusioni. Ero certo della loro innocenza, per il modo e il momento in cui passarono dall'inconsapevolezza all'indignazione. Finché non pensarono di essere accusati, continuarono a fornirmi materiali per sostenere l'accusa. Praticamente mi spiegarono come avrebbero potuto commettere il delitto. Poi, d'un tratto, si resero conto, con un sussulto e un grido di rabbia, di essere accusati; se ne resero conto molto tempo dopo il momento in cui avrebbero ben potuto aspettarsi di essere accusati, ma molto prima che io li accusassi. Ora, nessun colpevole potrebbe mai comportarsi così. Potrebbe mostrarsi irritabile e sospettoso fin dall'inizio; oppure potrebbe simulare inconsapevolezza e innocenza sino alla fine. Ma non comincerebbe col peggiorare la propria situazione per poi fare un gran balzo e prendere a negare furiosamente l'idea che egli stesso aveva contribuito a suggerire. Ciò potrebbe accadere soltanto se davvero non si fosse reso conto di ciò che stava suggerendo. La coscienza di sé di un assassino sarebbe sempre almeno tanto morbosamente viva da impedirgli prima di dimenticare il proprio legame con la cosa, e poi di ricordarsi di negarlo. Così ho escluso entrambi voi, e altri per altre ragioni di cui non occorre discutere ora. Per esempio, c'era il segretario...
+
+«Ma non è di questo che sto parlando adesso. Ecco: ho appena avuto notizie da Wilton al telefono, e mi ha dato il permesso di riferirvi qualche notizia piuttosto grave. Ora immagino che a questo [[Time|punto]] sappiate tutti chi fosse Wilton, e che cosa cercasse.»
+
+«So che dava la caccia a Daniel Doom e che non avrebbe avuto pace finché non l'avesse preso» rispose Peter Wain; «e ho sentito la storia che sarebbe il figlio del vecchio Horder, e che per questo è il [[Avenger|vendicatore]] del [[Blood|sangue]]. In ogni caso, di sicuro sta cercando l'uomo chiamato Doom.»
+
+«Ebbene» disse Padre Brown, «lo ha trovato.»
+
+Peter Wain balzò in piedi per l'eccitazione.
+
+«L'assassino!» gridò. «L'assassino è già in gattabuia?»
+
+«No» disse Padre Brown, con gravità; «ho detto che la notizia era grave, ed è più grave di così. Temo che il povero Wilton si sia preso una responsabilità terribile. Temo che stia per far ricadere su di noi una responsabilità terribile. Ha dato la caccia al criminale, e proprio quando finalmente lo aveva messo alle strette... [[Well|ebbene]], si è fatto giustizia da sé.»
+
+«Volete dire che Daniel Doom...» cominciò l'avvocato.
+
+«Voglio dire che Daniel Doom è morto» disse il sacerdote. «C'è stata una sorta di lotta furiosa, e Wilton lo ha ucciso.»
+
+«Ben gli sta» ringhiò il signor Hickory Crake.
+
+«Non si può biasimare Wilton per aver abbattuto una canaglia simile, specie considerando la faida» convenne Wain; «era come schiacciare una vipera.»
+
+«Non sono d'accordo con voi» disse [[Father Brown|Padre Brown]]. «Suppongo che tutti noi ci abbandoniamo a discorsi romantici, a casaccio, in difesa del linciaggio e dell'illegalità; ma ho il sospetto che, se perdiamo le nostre leggi e le nostre libertà, ce ne pentiremo. Del resto, mi pare illogico dire che qualcosa si possa dire a favore di Wilton che commette un omicidio, senza nemmeno domandarsi se qualcosa si potesse dire a favore di Doom che ne commetteva uno. Dubito piuttosto che Doom fosse un semplice, volgare assassino; può darsi che fosse una sorta di fuorilegge con una mania per il calice, che lo esigeva con minacce e uccideva soltanto dopo una lotta; entrambe le vittime furono abbattute proprio davanti alle loro case. L'obiezione al modo di agire di Wilton è che non udremo mai la versione di Doom.»

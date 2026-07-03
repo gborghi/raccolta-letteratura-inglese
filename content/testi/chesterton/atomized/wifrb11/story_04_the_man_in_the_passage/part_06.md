@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/wifrb11-(chesterton)">The Wisdom of Father Brown</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/wifrb11/story_04_the_man_in_the_passage/part_05">‹ part 05</a><a class="ex-next" href="/testi/chesterton/atomized/wifrb11/story_05_the_mistake_of_the_machine/part_01">part 01 ›</a></div>
@@ -110,3 +112,110 @@ then he stammered:  "Really, my lord, I don't know unless it's because
 I don't look at it so often."
 
                                  FIVE
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/wifrb11-(chesterton)">The Wisdom of Father Brown</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/wifrb11/story_04_the_man_in_the_passage/part_05">‹ part 05</a><a class="ex-next" href="/testi/chesterton/atomized/wifrb11/story_05_the_mistake_of_the_machine/part_01">part 01 ›</a></div>
+</nav>
+
+# [[wifrb11]] — L'uomo nel corridoio (parte 6)
+
+     «Oh! il diavolo con le corna, senza [[Doubt|dubbio]],» sbottò Cowdray,
+sedendosi con trionfante giovialità.  «Era il diavolo venuto
+a divorare i protestanti.»
+
+     «No,» disse il prete con distacco; «io so chi era.»
+
+     Quelli in [[Court|tribunale]] erano stati portati a un irrazionale
+ma reale senso di qualche mostruosità.  Avevano dimenticato la figura
+nel banco degli imputati e pensavano soltanto alla figura nell'andito.
+E la figura nell'andito, descritta da tre uomini capaci
+e rispettabili che l'avevano tutti veduta, era un [[nightmare|incubo]] mutevole:
+uno la chiamava una donna, e l'altro una bestia, e l'altro un diavolo....
+
+     Il giudice guardava [[Father Brown|padre Brown]] con occhi calmi e penetranti.
+«Siete un testimone assai straordinario,» disse; «ma c'è qualcosa
+in voi che mi fa pensare che stiate cercando di dire la [[Truth|verità]].
+[[Well|Bene]], chi era l'uomo che vedeste nell'andito?»
+
+     «Ero io stesso,» disse [[Father Brown|padre Brown]].
+
+     Butler, K.C., balzò in piedi in uno straordinario silenzio,
+e disse con tutta calma:  «Vostra signoria mi permetterà di contro[[Cross|interrogare]]?»
+E poi, senza fermarsi, sparò a Brown la domanda apparentemente
+sconnessa:  «Avete sentito parlare di questo pugnale;
+sapete che gli esperti dicono che il delitto fu commesso con una lama corta?»
+
+     «Una lama corta,» convenne Brown, annuendo solennemente come un gufo,
+«ma un'impugnatura molto lunga.»
+
+     Prima che l'uditorio potesse del tutto scacciare l'idea che il prete
+avesse davvero visto sé stesso commettere un omicidio con un pugnale corto dalla lunga impugnatura
+(il che pareva in qualche modo renderlo più orribile), egli si era da sé
+affrettato a spiegare.
+
+     «Voglio dire che i pugnali non sono le uniche cose con lame corte.
+Le lance hanno lame corte.  E le lance si agganciano all'estremità dell'acciaio
+proprio come i pugnali, se sono di quel tipo di lancia da parata che avevano
+nei teatri; come la lancia con cui il povero vecchio Parkinson uccise sua moglie,
+proprio quando ella aveva mandato a chiamare me per comporre i loro guai familiari--
+e io arrivai troppo tardi, Dio mi perdoni!  Ma egli morì pentito--
+morì proprio di pentimento.  Non poteva sopportare ciò che aveva fatto.»
+
+     L'impressione generale in [[Court|tribunale]] fu che il piccolo prete,
+che blaterava a raffica, fosse letteralmente impazzito nel banco dei testimoni.
+Ma il giudice continuava a guardarlo con occhi vivi e fermi d'interesse;
+e l'avvocato della difesa proseguì con le sue domande imperturbato.
+
+     «Se Parkinson lo fece con quella lancia da pantomima,» disse Butler,
+«deve aver colpito da quattro metri di distanza.  Come spiegate
+i segni di colluttazione, come l'abito strappato via dalla spalla?»  Egli era
+scivolato nel trattare il suo semplice testimone come un esperto; ma nessuno
+se ne accorse ora.
+
+     «L'abito della povera signora era strappato,» disse il testimone,
+«perché era rimasto impigliato in un pannello che scivolò a chiudersi proprio dietro di lei.
+Ella si dibatté per liberarsi, e mentre lo faceva Parkinson uscì
+dalla stanza del prigioniero e vibrò il colpo con la lancia.»
+
+     «Un pannello?» ripeté l'avvocato con voce curiosa.
+
+     «Era uno specchio sull'altro lato,» spiegò [[Father Brown|padre Brown]].
+«Quando ero nel camerino notai che alcuni di essi
+potevano probabilmente essere fatti scivolare in fuori nell'andito.»
+
+     Ci fu un altro vasto e innaturale [[Silence|silenzio]], e questa [[Time|volta]]
+fu il giudice a parlare.  «Sicché intendete davvero dire che quando voi
+guardaste giù per quell'andito, l'uomo che vedeste eravate voi stesso--in uno [[Mirror|specchio]]?»
+
+     «Sì, mio signore; era ciò che cercavo di dire,» disse Brown,
+«ma mi hanno chiesto la forma; e i nostri cappelli hanno gli angoli
+proprio come corna, e così io--»
+
+     Il giudice si sporse in avanti, i vecchi occhi ancor più brillanti,
+e disse in tono particolarmente distinto:  «Intendete davvero dire che
+quando Sir Wilson Seymour vide quel selvaggio come-lo-chiamate con le curve
+e i capelli di donna e i pantaloni d'uomo, ciò che vide era
+Sir Wilson Seymour?»
+
+     «Sì, mio signore,» disse [[Father Brown|padre Brown]].
+
+     «E intendete dire che quando il capitano Cutler vide quello scimpanzé
+con le spalle gobbe e le setole di porco, vide semplicemente sé stesso?»
+
+     «Sì, mio signore.»
+
+     Il giudice si riappoggiò allo schienale con una compiacenza in cui
+era difficile separare il cinismo dall'ammirazione.
+«E potete dirci perché,» chiese, «voi dovreste riconoscere la vostra propria figura
+in uno specchio, quando due uomini così ragguardevoli non lo fanno?»
+
+     [[Father Brown|Padre Brown]] batté le palpebre ancor più penosamente di prima;
+poi balbettò:  «Davvero, mio signore, non lo so, a meno che non sia perché
+non la guardo così spesso.»
+
+                                 CINQUE

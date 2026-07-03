@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/innocence-(chesterton)">The Innocence of Father Brown</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/innocence/story_10_the_eye_of_apollo">‹ Story 10 The Eye of Apollo</a><a class="ex-next" href="/testi/chesterton/atomized/innocence/story_12_the_three_tools_of_death">Story 12 The Three Tools of Death ›</a></div>
@@ -750,3 +752,236 @@ They sat down on the comfortable padded benches.
 "Come, it's cold," cried Father Brown; "let's have some wine or beer."
 
 "Or brandy," said Flambeau.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/innocence-(chesterton)">The Innocence of Father Brown</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/innocence/story_10_the_eye_of_apollo">‹ Story 10 The Eye of Apollo</a><a class="ex-next" href="/testi/chesterton/atomized/innocence/story_12_the_three_tools_of_death">Story 12 The Three Tools of Death ›</a></div>
+</nav>
+
+# [[innocence]] — Il segno della [[Sword|Spada]] spezzata
+
+                   Il segno della Spada spezzata
+
+Le mille braccia della foresta erano grigie, e le sue milioni di dita d’argento. In un cielo di un verde-azzurro cupo, simile all’ardesia, le stelle erano gelide e sfolgoranti come schegge di ghiaccio. Tutta quella campagna fittamente boscosa e scarsamente abitata era irrigidita da un gelo aspro e fragile. Le cavità nere fra i tronchi degli alberi parevano caverne senza fondo, nere caverne di quell’inferno scandinavo, un inferno di freddo incalcolabile. Persino la torre quadrata di pietra della chiesa aveva un che di nordico fino al limite del paganesimo, come se fosse una torre barbarica fra gli scogli marini dell’Islanda. Era una notte ben strana per andare a esplorare un cimitero. Ma, d’altra parte, forse valeva la pena di esplorarlo.
+
+Esso si ergeva bruscamente dalle plaghe cineree della foresta, sopra una specie di gobba o spalla di verde tappeto erboso che, nella luce delle stelle, appariva grigio. Quasi tutte le tombe erano in pendenza, e il sentiero che saliva alla chiesa era ripido come una scala. In cima al colle, nell’unico punto piano e prominente, sorgeva il monumento per cui il luogo era famoso. Contrastava stranamente con le tombe anonime tutt’intorno, poiché era opera di uno dei più grandi scultori dell’Europa moderna; eppure la fama di lui era subito dimenticata nella fama dell’uomo di cui aveva foggiato l’immagine. Mostrava, ai tocchi della piccola matita d’argento della luce stellare, la massiccia figura di metallo di un soldato disteso supino, le forti mani serrate in un’adorazione eterna, la grande testa poggiata su un fucile come su un guanciale. Il volto venerabile era barbuto, o meglio favoriti, all’antica maniera pesante del Colonnello Newcome. La divisa, benché suggerita con pochi tratti di semplicità, era quella della guerra moderna. Al suo fianco destro giaceva una spada, di cui la punta era spezzata; al fianco sinistro giaceva una Bibbia. Nei radiosi pomeriggi d’estate arrivavano i carrozzini pieni di americani e di borghesi di periferia colti a vedere il sepolcro; ma persino allora sentivano quella vasta terra boschiva, con la sua unica tozza cupola di cimitero e chiesa, come un luogo stranamente muto e negletto. In questa gelida tenebra di pieno inverno si sarebbe pensato che egli potesse restare solo con le stelle. Nondimeno, nel silenzio di quei boschi irrigiditi, un cancello di legno cigolò, e due figure indistinte vestite di nero salirono per il sentierino fino alla tomba.
+
+Tanto fioca era quella gelida luce stellare che nulla si sarebbe potuto distinguere di loro, se non che, mentre entrambi vestivano di nero, uno degli uomini era enormemente grande, e l’altro (forse per contrasto) quasi sorprendentemente piccolo. Si accostarono alla grande tomba scolpita del guerriero storico, e rimasero qualche minuto a contemplarla. Non v’era essere umano, forse nessun essere vivente, in un largo cerchio; e una fantasia morbosa avrebbe ben potuto chiedersi se essi stessi fossero umani. In ogni caso, l’inizio della loro conversazione sarebbe potuto sembrare strano. Dopo il primo silenzio l’uomo piccolo disse all’altro:
+
+«Dove nasconde un uomo saggio un sassolino?»
+
+E l’uomo alto rispose a voce bassa: «Sulla spiaggia.»
+
+L’uomo piccolo annuì, e dopo un breve silenzio disse: «Dove nasconde un uomo saggio una foglia?»
+
+E l’altro rispose: «Nella foresta.»
+
+Vi fu un altro silenzio, e poi l’uomo alto riprese: «Volete dire che, quando un uomo saggio deve nascondere un vero diamante, si sa che l’ha nascosto fra quelli falsi?»
+
+«No, no,» disse l’ometto con una risata, «lasciamo che il passato sia passato.»
+
+Batté per un secondo o due i piedi infreddoliti, e poi disse: «Non sto affatto pensando a quello, ma a qualcos’altro; qualcosa di piuttosto singolare. Accendete un fiammifero, volete?»
+
+L’uomo grande frugò in tasca, e ben presto uno sfregamento e una vampata dipinsero d’oro l’intero fianco piatto del monumento. Vi erano incise a lettere nere le ben note parole che tanti americani avevano letto con reverenza: «Sacro alla Memoria del Generale Sir Arthur St. Clare, Eroe e Martire, che Sempre Vinse i suoi Nemici e Sempre li Risparmiò, e Fu da Essi alla Fine Proditoriamente Ucciso. Che Dio, in Cui egli Confidò, lo Ricompensi e lo Vendichi.»
+
+Il fiammifero bruciò le dita dell’uomo grande, annerì e cadde. Stava per accenderne un altro, ma il suo piccolo compagno lo fermò. «Va bene così, Flambeau, vecchio mio; ho visto ciò che volevo. O meglio, non ho visto ciò che non volevo. E ora dobbiamo camminare un miglio e mezzo lungo la strada fino alla prossima locanda, e cercherò di raccontarvi tutto. Perché sa il Cielo se un uomo, quando osa raccontare una storia simile, ha bisogno di un fuoco e di una birra.»
+
+Discesero il sentiero scosceso, riabbassarono il chiavistello del cancello arrugginito, e si avviarono con passo battente e sonoro lungo la gelata strada della foresta. Avevano percorso un buon quarto di miglio prima che l’uomo più piccolo parlasse di nuovo. Disse: «Sì; l’uomo saggio nasconde un sassolino sulla spiaggia. Ma che cosa fa se non c’è spiaggia? Sapete niente di quella grande faccenda di St. Clare?»
+
+«Non so nulla dei generali inglesi, Padre Brown,» rispose l’uomo grosso, ridendo, «per quanto sappia qualcosina dei poliziotti inglesi. So soltanto che mi avete trascinato in una bella lunga danza a tutti i santuari di questo tale, chiunque egli sia. Uno penserebbe che sia stato sepolto in sei luoghi diversi. Ho visto un memoriale del Generale St. Clare nell’Abbazia di Westminster. Ho visto una scalpitante statua equestre del Generale St. Clare sull’Embankment. Ho visto un medaglione di St. Clare nella via in cui nacque, e un altro nella via in cui visse; e ora mi trascinate al buio fino alla sua bara nel cimitero del villaggio. Comincio a essere un po’ stufo della sua magnifica personalità, tanto più che non so minimamente chi fosse. Che cosa andate cercando in tutte queste cripte ed effigi?»
+
+«Cerco soltanto una parola,» disse Padre Brown. «Una parola che non c’è.»
+
+«Bene,» chiese Flambeau, «avete intenzione di dirmi qualcosa in proposito?»
+
+«Devo dividerla in due parti,» osservò il prete. «Prima c’è ciò che tutti sanno; e poi c’è ciò che so io. Ora, ciò che tutti sanno è breve e abbastanza semplice. Ed è anche interamente sbagliato.»
+
+«Ecco fatto,» disse allegramente l’uomo grande chiamato Flambeau. «Cominciamo dal lato sbagliato. Cominciamo con ciò che tutti sanno, e che non è vero.»
+
+«Se non del tutto falso, è per lo meno assai inadeguato,» proseguì Brown; «poiché, in punto di fatto, tutto ciò che il pubblico sa si riduce precisamente a questo: il pubblico sa che Arthur St. Clare fu un grande e vittorioso generale inglese. Sa che, dopo splendide e tuttavia caute campagne sia in India sia in Africa, era al comando contro il Brasile quando il grande patriota brasiliano Olivier lanciò il suo ultimatum. Sa che in quell’occasione St. Clare, con una forza assai piccola, attaccò Olivier che ne aveva una assai grande, e fu catturato dopo eroica resistenza. E sa che, dopo la sua cattura, e con orrore del mondo civile, St. Clare fu impiccato al primo albero. Fu trovato che vi dondolava, dopo che i brasiliani si erano ritirati, con la spada spezzata appesa al collo.»
+
+«E quella storia popolare è falsa?» suggerì Flambeau.
+
+«No,» disse il suo amico con calma, «quella storia è del tutto vera, per quanto arriva.»
+
+«Ebbene, penso che arrivi abbastanza lontano!» disse Flambeau; «ma se la storia popolare è vera, dov’è il mistero?»
+
+Avevano oltrepassato molte centinaia di alberi grigi e spettrali prima che il piccolo prete rispondesse. Poi si morse pensosamente il dito e disse: «Ma il mistero è un mistero di psicologia. O meglio, è un mistero di due psicologie. In quella faccenda brasiliana due degli uomini più famosi della storia moderna agirono in piena contraddizione col proprio carattere. Badate, Olivier e St. Clare erano entrambi eroi — di quelli veri, senza dubbio; era come la lotta fra Ettore e Achille. Ora, che direste di una vicenda in cui Achille fosse timido ed Ettore fosse traditore?»
+
+«Continuate,» disse l’uomo grosso con impazienza, mentre l’altro si mordeva di nuovo il dito.
+
+«Sir Arthur St. Clare era un soldato dell’antico tipo religioso — il tipo che ci salvò durante l’Ammutinamento,» proseguì Brown. «Era sempre più per il dovere che per lo slancio; e, con tutto il suo coraggio personale, era decisamente un comandante prudente, particolarmente indignato per ogni inutile spreco di soldati. Eppure in quest’ultima battaglia tentò qualcosa che persino un bambino avrebbe visto assurdo. Non c’è bisogno di essere strateghi per capire che era folle come il vento; proprio come non c’è bisogno di essere strateghi per togliersi dalla traiettoria di un autobus. Ebbene, questo è il primo mistero: che ne era stato della testa del generale inglese? Il secondo enigma è: che ne era stato del cuore del generale brasiliano? Il presidente Olivier poteva essere definito un visionario o una seccatura; ma persino i suoi nemici ammettevano che era magnanimo fino alla cavalleria errante. Quasi ogni altro prigioniero che avesse mai catturato era stato messo in libertà o addirittura colmato di benefici. Uomini che gli avevano fatto davvero torto se ne andavano commossi dalla sua semplicità e dolcezza. Perché diamine avrebbe dovuto vendicarsi diabolicamente una sola volta in vita sua; e proprio per quell’unico colpo che non poteva averlo ferito? Ebbene, eccovi il punto. Uno degli uomini più saggi del mondo agì come un idiota senza ragione. Uno degli uomini migliori del mondo agì come un demonio senza ragione. Ecco tutta la faccenda, in breve; e la lascio a voi, ragazzo mio.»
+
+«No davvero,» disse l’altro con uno sbuffo. «La lascio a voi; e voi avrete la compiacenza di raccontarmi tutto quanto.»
+
+«Ebbene,» riprese Padre Brown, «non è giusto dire che l’impressione del pubblico sia esattamente quella che ho detto, senza aggiungere che da allora sono accadute due cose. Non posso dire che gettarono nuova luce; poiché nessuno riesce a trovarvi un senso. Ma gettarono un nuovo genere di tenebra; gettarono la tenebra in nuove direzioni. La prima fu questa. Il medico di famiglia dei St. Clare litigò con quella famiglia, e cominciò a pubblicare una violenta serie di articoli, in cui affermava che il defunto generale era stato un maniaco religioso; ma, per quel che diceva il racconto, ciò pareva significare poco più che un uomo religioso. Comunque, la faccenda si spense da sé. Tutti sapevano, naturalmente, che St. Clare aveva alcune delle eccentricità della pietà puritana. Il secondo episodio fu assai più impressionante. Nello sventurato e non sostenuto reggimento che tentò quell’avventato assalto al Fiume Nero c’era un certo Capitano Keith, che a quel tempo era fidanzato con la figlia di St. Clare, e che in seguito la sposò. Fu uno di quelli catturati da Olivier e, come tutti gli altri tranne il generale, sembra sia stato trattato con generosità e prontamente liberato. Quasi vent’anni dopo, quest’uomo, allora Tenente Colonnello Keith, pubblicò una specie di autobiografia intitolata «Un ufficiale britannico in Birmania e in Brasile». Nel punto in cui il lettore cerca avidamente qualche resoconto del mistero del disastro di St. Clare si trovano le seguenti parole: «Dovunque altrove in questo libro ho narrato le cose esattamente come accaddero, professando io, come professo, l’antiquata opinione che la gloria dell’Inghilterra è abbastanza vecchia da badare a se stessa. L’eccezione che farò è in questa faccenda della disfatta presso il Fiume Nero; e le mie ragioni, benché private, sono onorevoli e cogenti. Aggiungerò tuttavia questo, in giustizia alla memoria di due uomini illustri. Il Generale St. Clare è stato accusato d’incapacità in questa occasione; io posso almeno testimoniare che questa azione, propriamente intesa, fu una delle più brillanti e sagaci della sua vita. Il presidente Olivier, per analoga voce, è accusato di selvaggia ingiustizia. Ritengo dovuto all’onore di un nemico dire che in questa occasione egli agì con anche più della sua caratteristica benevolenza. Per dirla in modo popolare, posso assicurare ai miei compatrioti che St. Clare non fu affatto un tale sciocco né Olivier un tale bruto quali apparvero. È tutto ciò che ho da dire; né alcuna considerazione terrena m’indurrà ad aggiungervi una parola.»»
+
+Una grande luna gelata, simile a una lucente palla di neve, cominciò a mostrarsi attraverso l’intrico di rami davanti a loro, e alla sua luce il narratore aveva potuto ravvivare la memoria del testo del Capitano Keith da un ritaglio di carta stampata. Mentre lo ripiegava e lo rimetteva in tasca, Flambeau alzò la mano con un gesto francese.
+
+«Un momento, un momento,» esclamò eccitato. «Credo di poterla indovinare al primo colpo.»
+
+Camminò a grandi passi, respirando affannosamente, la testa nera e il collo taurino protesi in avanti, come un uomo che vince una gara di marcia. Il piccolo prete, divertito e interessato, faceva una certa fatica a trotterellargli accanto. Proprio davanti a loro gli alberi si ritraevano un poco a sinistra e a destra, e la strada scendeva ampia attraverso una chiara valle illuminata dalla luna, finché non si tuffava di nuovo, come un coniglio, nella parete di un altro bosco. L’ingresso della foresta più lontana appariva piccolo e rotondo, come il buco nero di un remoto tunnel ferroviario. Ma era a un centinaio di metri, e si spalancava come una caverna prima che Flambeau parlasse di nuovo.
+
+«Ci sono,» esclamò finalmente, battendosi la coscia con la sua gran mano. «Quattro minuti di riflessione, e posso raccontarvi da solo tutta la vostra storia.»
+
+«D’accordo,» acconsentì il suo amico. «Raccontatela.»
+
+Flambeau alzò la testa, ma abbassò la voce. «Il Generale Sir Arthur St. Clare,» disse, «proveniva da una famiglia in cui la follia era ereditaria; e tutto il suo scopo era tenerla nascosta alla figlia, e persino, se possibile, al futuro genero. A torto o a ragione, egli pensava che il crollo finale fosse vicino, e si decise al suicidio. Ma un suicidio ordinario avrebbe strombazzato proprio l’idea che egli temeva. Con l’avvicinarsi della campagna, le nubi si addensarono sul suo cervello; e infine, in un momento di follia, sacrificò il suo dovere pubblico a quello privato. Si gettò avventatamente in battaglia, sperando di cadere al primo colpo. Quando scoprì di aver ottenuto soltanto la cattura e il discredito, la bomba sigillata nel suo cervello esplose, ed egli spezzò la propria spada e s’impiccò.»
+
+Fissò con fermezza la grigia facciata di foresta davanti a sé, con l’unico varco nero in essa, simile alla bocca di una tomba, in cui il loro sentiero si sprofondava. Forse qualcosa di minaccioso nella strada così improvvisamente inghiottita rafforzò la sua vivida visione della tragedia, poiché rabbrividì.
+
+«Una storia orribile,» disse.
+
+«Una storia orribile,» ripeté il prete a capo chino. «Ma non è la storia vera.»
+
+Poi gettò indietro la testa con una specie di disperazione e gridò: «Oh, vorrei che lo fosse stata.»
+
+L’alto Flambeau si voltò di scatto e lo fissò.
+
+«La vostra è una storia pulita,» esclamò Padre Brown, profondamente commosso. «Una storia dolce, pura, onesta, aperta e candida come quella luna. La follia e la disperazione sono abbastanza innocenti. Ci sono cose peggiori, Flambeau.»
+
+Flambeau alzò lo sguardo, sconvolto, verso la luna così invocata; e dal punto in cui stava, un nero ramo d’albero si incurvava attraverso di essa esattamente come il corno di un diavolo.
+
+«Padre — padre,» esclamò Flambeau col gesto francese, avanzando ancora più rapidamente, «volete dire che fu peggio di così?»
+
+«Peggio di così,» disse Paul come una cupa eco. E si tuffarono nel nero chiostro del bosco, che scorreva accanto a loro in una fioca tappezzeria di tronchi, come uno di quei corridoi oscuri di un sogno.
+
+Furono ben presto nelle viscere più segrete del bosco, e sentirono stretto attorno a sé un fogliame che non potevano vedere, quando il prete disse di nuovo:
+
+«Dove nasconde un uomo saggio una foglia? Nella foresta. Ma che cosa fa se non c’è foresta?»
+
+«Su, su,» esclamò Flambeau irritato, «che cosa fa?»
+
+«Fa crescere una foresta per nascondervela,» disse il prete con voce oscura. «Un peccato tremendo.»
+
+«Sentite un po’,» esclamò il suo amico con impazienza, poiché il bosco oscuro e l’oscuro detto gli davano un poco sui nervi; «volete raccontarmela questa storia o no? Quali altre prove ci sono su cui procedere?»
+
+«Ci sono altri tre frammenti di prova,» disse l’altro, «che ho dissotterrato in buchi e cantucci; e ve li darò in ordine logico piuttosto che cronologico. Prima di tutto, naturalmente, la nostra fonte per lo svolgimento e l’esito della battaglia sono i dispacci di Olivier stesso, che sono abbastanza lucidi. Egli era trincerato con due o tre reggimenti sulle alture che digradavano verso il Fiume Nero, dall’altra parte del quale c’era un terreno più basso e più paludoso. Al di là di questo, ancora, c’era una campagna dolcemente ascendente, sulla quale sorgeva il primo avamposto inglese, sostenuto da altri che giacevano, però, considerevolmente sulle sue retrovie. Le forze britanniche nel loro complesso erano di gran lunga superiori di numero; ma quel particolare reggimento era proprio abbastanza lontano dalla sua base da indurre Olivier a considerare il progetto di attraversare il fiume per tagliarlo fuori. Al tramonto, tuttavia, aveva deciso di conservare la propria posizione, che era una posizione particolarmente forte. All’alba del mattino seguente rimase fulminato nel vedere che questa sparuta manciata d’inglesi, del tutto priva di sostegno alle spalle, si era gettata attraverso il fiume, metà per un ponte a destra, e l’altra metà per un guado più a monte, e si accalcava sulla sponda paludosa al di sotto di lui.
+
+«Che essi tentassero un attacco con un simile numero contro una simile posizione era già abbastanza incredibile; ma Olivier notò qualcosa di ancora più straordinario. Perché, invece di tentare di impadronirsi di un terreno più solido, questo folle reggimento, avendo messo il fiume alle proprie spalle con una sola carica sfrenata, non fece null’altro, ma vi rimase piantato nel fango come mosche nella melassa. Inutile dire che i brasiliani vi aprirono grandi varchi con l’artiglieria, alla quale essi potevano ribattere solo con un fuoco di fucileria vivace ma sempre più fioco. Eppure non cedettero mai; e il brusco resoconto di Olivier si chiude con un forte tributo di ammirazione per il mistico valore di questi imbecilli. ‘La nostra linea allora avanzò definitivamente,’ scrive Olivier, ‘e li ricacciò nel fiume; catturammo il Generale St. Clare in persona e vari altri ufficiali. Il colonnello e il maggiore erano caduti entrambi in battaglia. Non posso trattenermi dal dire che pochi spettacoli più belli si saranno mai visti nella storia dell’ultima resistenza di questo straordinario reggimento; ufficiali feriti che raccoglievano i fucili dei soldati morti, e il generale stesso che ci fronteggiava a cavallo, a capo scoperto e con la spada spezzata.’ Su ciò che accadde al generale in seguito, Olivier è muto quanto il Capitano Keith.»
+
+«Bene,» grugnì Flambeau, «passate al prossimo frammento di prova.»
+
+«La prova successiva,» disse Padre Brown, «richiese del tempo per essere trovata, ma non ci vorrà molto per raccontarla. Trovai infine, in un ospizio giù nelle Paludi del Lincolnshire, un vecchio soldato che non solo era stato ferito al Fiume Nero, ma si era addirittura inginocchiato accanto al colonnello del reggimento mentre questi moriva. Costui era un certo Colonnello Clancy, un gran torello d’irlandese; e pare che egli sia morto quasi tanto di rabbia quanto di pallottole. Egli, in ogni caso, non era responsabile di quell’assurda incursione; deve essergli stata imposta dal generale. Le sue ultime edificanti parole, secondo il mio informatore, furono queste: ‘Ed ecco che se ne va quel maledetto vecchio [[donkey|somaro]] con la punta della sua [[Sword|spada]] tranciata via. Vorrei che fosse la sua testa.’ Noterete che tutti sembrano aver notato questo particolare della [[Sword|spada]] spezzata, benché la maggior parte della gente lo consideri con un po’ più di reverenza di quanto facesse il defunto Colonnello Clancy. E ora veniamo al terzo [[Fragment|frammento]].»
+
+Il loro sentiero attraverso il bosco cominciò a salire, e chi parlava si fermò un poco per riprendere fiato prima di continuare. Poi proseguì nello stesso tono pratico:
+
+«Solo un mese o due fa, un certo funzionario brasiliano è morto in Inghilterra, avendo litigato con Olivier e lasciato il suo paese. Era una figura [[Well|ben]] nota tanto qui quanto sul Continente, uno spagnolo di nome Espado; lo conoscevo io stesso, un vecchio dandy dal volto giallastro, col naso adunco. Per varie ragioni private ebbi il permesso di vedere i documenti che aveva lasciato; era cattolico, naturalmente, ed ero stato accanto a lui verso la fine. Non c’era nulla di suo che illuminasse un qualche angolo della nera faccenda di St. Clare, tranne cinque o sei comuni quaderni di scuola riempiti col diario di qualche soldato inglese. Posso solo supporre che fu trovato dai brasiliani su uno di quelli che caddero. Comunque, si interrompeva bruscamente la [[Night|notte]] prima della battaglia.
+
+«Ma il resoconto di quell’ultimo giorno nella vita del povero diavolo valeva certamente la lettura. Ce l’ho con me; ma è troppo buio per leggerlo qui, e ve ne darò un riassunto. La prima parte di quella annotazione è piena di scherzi, evidentemente lanciati fra gli uomini, su un tale chiamato l’Avvoltoio. Non sembra che questa persona, chiunque fosse, fosse uno di loro, né tantomeno un inglese; e neppure se ne parla esattamente come di uno dei nemici. Suona piuttosto come se fosse una sorta di intermediario locale e non combattente; forse una guida o un giornalista. È stato appartato in conciliaboli col vecchio Colonnello Clancy; ma lo si vede più spesso parlare col maggiore. In effetti, il maggiore è alquanto in primo piano nel racconto di questo soldato; un uomo magro, dai capelli scuri, a quanto pare, di nome Murray — un uomo del nord dell’Irlanda e un puritano. Ci sono continue facezie sul contrasto fra l’austerità di questo dell’Ulster e la giovialità del Colonnello Clancy. C’è anche qualche scherzo sul fatto che l’Avvoltoio indossava abiti dai colori vivaci.
+
+«Ma tutte queste leggerezze sono spazzate via da quello che si può [[Well|ben]] chiamare il suono di una tromba di guerra. Dietro il campo inglese, e quasi parallela al [[River|fiume]], correva una delle poche grandi strade di quel distretto. Verso ovest la [[Road|strada]] si curvava verso il [[River|fiume]], che essa attraversava per il ponte già menzionato. A oriente la [[Road|strada]] si ritraeva all’indietro verso le terre selvagge, e a un paio di miglia lungo di essa c’era il successivo avamposto inglese. Da questa direzione giunse lungo la [[Road|strada]], quella sera, un luccichio e un fragore di cavalleria leggera, in cui persino il semplice diarista poté riconoscere con stupore il generale col suo stato maggiore. Egli cavalcava il gran [[Horse|cavallo]] bianco che avete visto tanto spesso nei giornali illustrati e nei quadri dell’Accademia; e potete star certi che il saluto che gli tributarono non fu meramente cerimonioso. Egli, per lo meno, non sprecò [[Time|tempo]] in cerimonie, ma, balzando immediatamente giù dalla sella, si mescolò al gruppo di ufficiali, e si buttò in un discorso enfatico benché confidenziale. Ciò che colpì di più il nostro amico diarista fu la sua speciale disposizione a discutere le cose col Maggiore Murray; ma, in verità, una simile scelta, purché non fosse marcata, non aveva nulla di innaturale. I due uomini erano fatti per intendersi; erano uomini che ‘leggevano la Bibbia’; erano entrambi del vecchio tipo di ufficiale evangelico. Comunque stessero le cose, è certo che, quando il generale rimontò a cavallo, stava ancora parlando con ardore a Murray; e che, mentre faceva scendere lentamente il cavallo lungo la strada verso il fiume, l’alto uomo dell’Ulster camminava ancora accanto alle sue redini in ardente dibattito. I soldati osservarono i due finché non scomparvero dietro un gruppo d’alberi dove la strada svoltava verso il fiume. Il colonnello era tornato alla sua tenda, e gli uomini ai loro posti di guardia; l’uomo col diario si attardò ancora quattro minuti, e vide uno spettacolo meraviglioso.
+
+«Il gran cavallo bianco che aveva disceso lentamente la strada, come aveva sfilato in tante processioni, tornò indietro volando, galoppando su per la strada verso di loro come se fosse impazzito per vincere una gara. Dapprima pensarono che fosse fuggito col cavaliere in groppa; ma videro presto che il generale, ottimo cavallerizzo, era egli stesso a spingerlo a tutta velocità. Cavallo e cavaliere piombarono su di loro come un turbine; e poi, arrestando bruscamente il destriero barcollante, il generale volse verso di loro un volto come fiamma, e chiamò il colonnello come la tromba che desta i morti.
+
+«Immagino che tutti gli eventi sconvolgenti di quella catastrofe si accatastarono l’uno sull’altro piuttosto come ciarpame nelle menti di uomini come il nostro amico col diario. Con lo stordito eccitamento di un sogno, si trovarono a cadere — letteralmente a cadere — nei loro ranghi, e appresero che un attacco doveva essere condotto immediatamente attraverso il fiume. Il generale e il maggiore, si diceva, avevano scoperto qualcosa al ponte, e c’era appena il tempo di battersi per la vita. Il maggiore era tornato indietro subito per richiamare la riserva lungo la strada alle spalle; era dubbio se, anche con quel pronto appello, i soccorsi potessero raggiungerli in tempo. Ma dovevano attraversare il torrente quella notte, e impadronirsi delle alture entro il mattino. È col fremito e il palpito stesso di quella romantica marcia notturna che il diario si interrompe di colpo.»
+
+Padre Brown era salito avanti; poiché il sentiero del bosco si faceva più stretto, più ripido e più tortuoso, finché ebbero l’impressione di ascendere una scala a chiocciola. La voce del prete giungeva dall’alto, fuori dalla tenebra.
+
+«C’era un’altra cosa, piccola ed enorme. Quando il generale li spinse alla loro cavalleresca carica, sguainò a metà la spada dal fodero; e poi, come vergognandosi di un simile melodramma, la ricacciò dentro. Di nuovo la spada, vedete.»
+
+Una mezza luce trapelò attraverso la rete di rami sopra di loro, gettando il fantasma di una rete attorno ai loro piedi; poiché stavano risalendo verso la fioca luminosità della notte nuda. Flambeau sentiva la verità tutt’intorno a sé come un’atmosfera, ma non come un’idea. Rispose con la mente frastornata: «Ebbene, che cosa c’è di strano nella spada? Gli ufficiali di solito hanno le spade, no?»
+
+«Non se ne fa spesso menzione nella guerra moderna,» disse l’altro con distacco; «ma in questa faccenda si inciampa dappertutto in quella benedetta spada.»
+
+«Ebbene, che cosa c’è in ciò?» ringhiò Flambeau; «era un episodio da due soldi, buono per la stampa a colori; la lama del vecchio che si spezza nella sua ultima battaglia. Chiunque avrebbe scommesso che i giornali se ne sarebbero impadroniti, come hanno fatto. Su tutte queste tombe e cose la si mostra spezzata sulla punta. Spero che non mi abbiate trascinato in questa spedizione polare solo perché due uomini con l’occhio per un bel quadro videro la spada spezzata di St. Clare.»
+
+«No,» esclamò Padre Brown, con voce acuta come uno sparo di pistola; «ma chi vide la sua spada intatta?»
+
+«Che cosa volete dire?» esclamò l’altro, e si fermò immobile sotto le stelle. Erano sbucati bruscamente dai grigi cancelli del bosco.
+
+«Dico: chi vide la sua spada intatta?» ripeté Padre Brown ostinato. «Non lo scrittore del diario, in ogni caso; il generale la rinfoderò in tempo.»
+
+Flambeau si guardò attorno nella luce lunare, come un uomo colpito da cecità potrebbe guardare nel sole; e il suo amico proseguì, per la prima volta con foga:
+
+«Flambeau,» esclamò, «non posso provarlo, nemmeno dopo aver frugato fra le tombe. Ma ne sono certo. Lasciate che aggiunga un solo minuscolo fatto che fa capovolgere l’intera faccenda. Il colonnello, per uno strano caso, fu uno dei primi colpiti da una pallottola. Fu colpito molto prima che le truppe venissero a combattimento ravvicinato. Ma egli vide la spada di St. Clare spezzata. Perché era spezzata? Come si era spezzata? Amico mio, si era spezzata prima della battaglia.»
+
+«Oh!» disse il suo amico, con una specie di sconsolata giocosità; «e ditemi di grazia, dov’è l’altro pezzo?»
+
+«Ve lo posso dire,» disse il prete prontamente. «Nell’angolo nordorientale del cimitero della Cattedrale protestante di Belfast.»
+
+«Davvero?» chiese l’altro. «L’avete cercato?»
+
+«Non ho potuto,» rispose Brown, con schietto rammarico. «C’è un gran monumento di marmo al di sopra; un monumento all’eroico Maggiore Murray, che cadde combattendo gloriosamente nella famosa Battaglia del Fiume Nero.»
+
+Flambeau parve d’un tratto galvanizzato all’esistenza. «Volete dire,» esclamò con voce rauca, «che il Generale St. Clare odiava Murray, e lo assassinò sul campo di battaglia perché —»
+
+«Siete ancora pieno di pensieri buoni e puri,» disse l’altro. «Fu peggio di così.»
+
+«Ebbene,» disse l’uomo grande, «la mia scorta d’immaginazione malvagia è esaurita.»
+
+Il prete pareva davvero incerto su dove cominciare, e alla fine disse ancora:
+
+«Dove nasconderebbe un uomo saggio una foglia? Nella foresta.»
+
+L’altro non rispose.
+
+«Se non ci fosse foresta, ne farebbe una. E se volesse nascondere una foglia morta, farebbe una foresta morta.»
+
+Ancora non vi fu risposta, e il prete aggiunse ancora più mite e sommesso:
+
+«E se un uomo dovesse nascondere un cadavere, farebbe un campo di cadaveri in cui nasconderlo.»
+
+Flambeau cominciò ad avanzare a passi pesanti, con un’intolleranza per ogni indugio nel tempo o nello spazio; ma Padre Brown proseguì come se stesse continuando l’ultima frase:
+
+«Sir Arthur St. Clare, come ho già detto, era un uomo che leggeva la Bibbia. Era proprio questo il suo guaio. Quando capirà la gente che è inutile per un uomo leggere la propria Bibbia, se non legge anche la Bibbia di tutti gli altri? Un tipografo legge una Bibbia per cercarvi i refusi. Un mormone legge la sua Bibbia, e vi trova la poligamia; uno scientista cristiano legge la sua, e scopre che non abbiamo braccia e gambe. St. Clare era un vecchio soldato protestante anglo-indiano. Ora, pensate un po’ a che cosa potrebbe significare; e, per amor del Cielo, non fatene ipocrita retorica. Potrebbe significare un uomo fisicamente formidabile che vive sotto un sole tropicale, in una società orientale, e s’imbeve senza discernimento né guida di un Libro orientale. Naturalmente, leggeva l’Antico Testamento piuttosto che il Nuovo. Naturalmente, trovava nell’Antico Testamento tutto ciò che voleva — lussuria, tirannia, tradimento. Oh, ammetto che fosse onesto, come lo chiamate voi. Ma a che serve che un uomo sia onesto nel suo culto della disonestà?
+
+«In ciascuno dei paesi caldi e segreti in cui l’uomo andò, tenne un harem, torturò testimoni, ammassò oro vergognoso; ma certamente avrebbe detto, con occhio fermo, di farlo per la gloria del Signore. La mia teologia si esprime sufficientemente nel chiedere: quale Signore? Comunque, c’è questo, in un simile male, che apre porta dopo porta all’inferno, e sempre in camere sempre più piccole. Questa è la vera accusa contro il delitto: che un uomo non diventa sempre più selvaggio, ma soltanto sempre più meschino. St. Clare fu ben presto soffocato dalle difficoltà della corruzione e del ricatto; e aveva bisogno di sempre più denaro. E all’epoca della Battaglia del Fiume Nero era caduto di mondo in mondo fino a quel luogo che Dante pone all’ultimo piano dell’universo.»
+
+«Che cosa volete dire?» chiese di nuovo il suo amico.
+
+«Voglio dire quello,» ribatté il chierico, e improvvisamente additò una pozzanghera sigillata dal ghiaccio che luccicava alla luna. «Vi ricordate chi Dante mise nell’ultimo cerchio di ghiaccio?»
+
+«I traditori,» disse Flambeau, e rabbrividì. Mentre si guardava intorno l’inumano paesaggio di alberi, dai contorni beffardi e quasi osceni, poteva quasi immaginare di essere Dante, e il prete, con quel rivolo di voce, era davvero un Virgilio che lo guidava attraverso una terra di peccati eterni.
+
+La voce proseguì: «Olivier, come sapete, era un donchisciotte, e non voleva permettere un servizio segreto e spie. La cosa, tuttavia, fu fatta, come molte altre cose, alle sue spalle. Fu gestita dal mio vecchio amico Espado; era lui il bellimbusto dagli abiti sgargianti, il cui naso adunco gli aveva fatto guadagnare il soprannome di Avvoltoio. Posando a una sorta di filantropo al fronte, si insinuò a tentoni attraverso l’Esercito inglese, e alla fine mise le dita sul suo unico uomo corrotto — piaccia a Dio! — e quell’uomo era in cima a tutti. St. Clare aveva turpe bisogno di denaro, e a montagne. Il screditato medico di famiglia minacciava quelle straordinarie rivelazioni che poi cominciarono e furono interrotte; storie di cose mostruose e preistoriche a Park Lane; cose fatte da un evangelista inglese che sapevano di sacrificio umano e di orde di schiavi. Occorreva denaro, anche, per la dote della figlia; poiché per lui la fama della ricchezza era dolce quanto la ricchezza stessa. Egli recise l’ultimo filo, sussurrò la parola al Brasile, e la ricchezza affluì dai nemici dell’Inghilterra. Ma un altro uomo aveva parlato con Espado l’Avvoltoio oltre a lui. In qualche modo il cupo, arcigno giovane maggiore dell’Ulster aveva indovinato l’orrenda verità; e quando i due camminarono lentamente insieme lungo quella strada verso il ponte, Murray stava dicendo al generale che egli doveva dimettersi immediatamente, o essere deferito alla corte marziale e fucilato. Il generale temporeggiò con lui finché non giunsero alla frangia di alberi tropicali presso il ponte; e là, presso il fiume che cantava e le palme assolate (poiché vedo la scena), il generale trasse la sciabola e la trapassò attraverso il corpo del maggiore.»
+
+La strada invernale si curvava sopra un crinale nel gelo tagliente, con crudeli sagome nere di cespuglio e macchia; ma Flambeau immaginò di scorgere al di là di essa, debolmente, l’orlo di un’aureola che non era luce di stelle né di luna, ma un qualche fuoco quale è acceso dagli uomini. La osservò mentre il racconto volgeva alla sua conclusione.
+
+«St. Clare era un mastino d’inferno, ma era un mastino di razza. Mai, lo giuro, fu così lucido e così forte come quando il povero Murray giacque, freddo grumo, ai suoi piedi. Mai in tutti i suoi trionfi, come disse giustamente il Capitano Keith, il grand’uomo fu così grande come in quest’ultima disfatta disprezzata dal mondo. Guardò freddamente la sua arma per detergerne il sangue; vide che la punta che aveva piantato fra le scapole della vittima si era spezzata dentro il corpo. Vide con tutta calma, come attraverso il vetro d’una finestra di club, tutto ciò che ne doveva seguire. Vide che gli uomini avrebbero dovuto trovare il cadavere inspiegabile; estrarre la inspiegabile punta di spada; notare la inspiegabile spada spezzata — o l’assenza di spada. Aveva ucciso, ma non ridotto al silenzio. Ma il suo imperioso intelletto insorse contro l’ostacolo; c’era ancora un modo. Poteva rendere il cadavere meno inspiegabile. Poteva creare una collina di cadaveri per coprire quell’uno. In venti minuti ottocento soldati inglesi marciavano verso la loro morte.»
+
+Il più caldo bagliore dietro il nero bosco invernale si fece più ricco e più luminoso, e Flambeau affrettò il passo per raggiungerlo. Anche Padre Brown accelerò l’andatura; ma pareva soltanto assorto nel suo racconto.
+
+«Tale era il valore di quei mille inglesi, e tale il genio del loro comandante, che se avessero attaccato subito la collina, persino la loro folle marcia avrebbe potuto trovare qualche fortuna. Ma la mente malvagia che giocava con loro come con pedine aveva altri fini e altre ragioni. Dovevano rimanere nelle paludi presso il ponte almeno finché i cadaveri britannici non fossero divenuti là uno spettacolo comune. Poi, per l’ultima grande scena; il soldato-santo dai capelli d’argento avrebbe consegnato la sua spada infranta per risparmiare ulteriore carneficina. Oh, era ben organizzata, per un’improvvisazione. Ma io penso (non posso provarlo), penso che fu mentre stavano piantati là nel fango sanguinoso che qualcuno dubitò — e qualcuno indovinò.»
+
+Rimase muto un momento, e poi disse: «C’è una voce dal nulla che mi dice che l’uomo che indovinò era l’innamorato… l’uomo che avrebbe sposato la figlia del vecchio.»
+
+«Ma che ne fu di Olivier e dell’impiccagione?» chiese Flambeau.
+
+«Olivier, in parte per cavalleria, in parte per calcolo, raramente ingombrava la sua marcia di prigionieri,» spiegò il narratore. «Nella maggior parte dei casi liberava tutti. E in questo caso liberò tutti.»
+
+«Tutti tranne il generale,» disse l’uomo alto.
+
+«Tutti,» disse il prete.
+
+Flambeau aggrottò le nere sopracciglia. «Non afferro ancora tutto quanto,» disse.
+
+«C’è un altro quadro, Flambeau,» disse Brown nel suo tono più mistico e sommesso. «Non posso provarlo; ma posso fare di più — posso vederlo. C’è un campo che si smobilita, sulle nude, torride colline al mattino, e uniformi brasiliane ammassate in blocchi e colonne pronte a marciare. C’è la camicia rossa e la lunga barba nera di Olivier, che gli si agita al vento mentre sta in piedi, il cappello a larghe tese in mano. Egli sta dicendo addio al grande nemico che sta liberando — il semplice, canuto veterano inglese, che lo ringrazia in nome dei suoi uomini. Il resto degli inglesi sta dietro sull’attenti; accanto a loro ci sono provviste e veicoli per la ritirata. I tamburi rullano; i brasiliani si muovono; gli inglesi sono immobili come statue. Così restano finché l’ultimo brusio e l’ultimo lampo del nemico non siano svaniti dall’orizzonte tropicale. Poi mutano tutti insieme il loro atteggiamento, come morti che tornano in vita; volgono i loro cinquanta volti verso il generale — volti che non si possono dimenticare.»
+
+Flambeau diede un gran sussulto. «Ah,» esclamò, «non vorrete dire —»
+
+«Sì,» disse Padre Brown con voce profonda e commossa. «Fu una mano inglese a mettere la corda attorno al collo di St. Clare; io credo la mano che aveva messo l’anello al dito di sua figlia. Furono mani inglesi a trascinarlo su all’albero dell’infamia; le mani di uomini che lo avevano adorato e seguìto alla vittoria. E furono anime inglesi (Dio perdoni e sopporti tutti noi!) che lo fissarono mentre dondolava in quel sole straniero sul verde patibolo di palma, e pregarono nel loro odio che ne cadesse giù nell’inferno.»
+
+Mentre i due valicarono il crinale, irruppe su di loro la forte luce scarlatta di una locanda inglese dalle tende rosse. Sorgeva di traverso sulla strada, come se si scostasse nell’ampiezza dell’ospitalità. Le sue tre porte stavano aperte in un invito; e persino da dove stavano potevano udire il brusio e le risa dell’umanità felice per una notte.
+
+«Non ho bisogno di dirvi altro,» disse Padre Brown. «Lo processarono nelle terre selvagge e lo distrussero; e poi, per l’onore dell’Inghilterra e di sua figlia, fecero giuramento di suggellare per sempre la storia della borsa del traditore e della lama di spada dell’assassino. Forse — il Cielo li aiuti — cercarono di dimenticarla. Cerchiamo di dimenticarla anche noi, in ogni caso; ecco la nostra locanda.»
+
+«Con tutto il cuore,» disse Flambeau, e stava proprio per entrare a grandi passi nella rumorosa e luminosa mescita, quando indietreggiò e per poco non cadde sulla strada.
+
+«Guardate là, in nome del diavolo!» esclamò, e additò rigidamente la squadrata insegna di legno che pendeva sopra la strada. Essa mostrava indistintamente la rozza forma di un’elsa di sciabola e di una lama accorciata; ed era iscritta in falsi caratteri arcaici: «Al Segno della Spada Spezzata».
+
+«Non eravate preparato?» chiese Padre Brown con dolcezza. «Egli è il dio di questa contrada; metà delle locande, dei parchi e delle vie prende nome da lui e dalla sua storia.»
+
+«Credevo che l’avessimo chiusa con quel lebbroso,» esclamò Flambeau, e sputò sulla strada.
+
+«Non l’avrete mai chiusa con lui, in Inghilterra,» disse il prete, guardando in basso, «finché il bronzo sarà saldo e la pietra durerà. Le sue statue di marmo raddrizzeranno l’anima di fanciulli fieri e innocenti per secoli, la sua tomba di villaggio olezzerà di lealtà come di gigli. Milioni di persone che non lo conobbero mai lo ameranno come un padre — quest’uomo che i pochi ultimi che lo conobbero trattarono come letame. Egli sarà un santo; e la verità non sarà mai detta su di lui, perché io ho infine deciso. C’è tanto bene e tanto male nel violare i segreti, che ho messo la mia condotta alla prova. Tutti questi giornali periranno; l’ondata anti-brasiliana è già passata; Olivier è già onorato dappertutto. Ma ho detto a me stesso che se in qualche luogo, per nome, in metallo o in marmo che dureranno come le piramidi, il Colonnello Clancy, o il Capitano Keith, o il presidente Olivier, o un qualsiasi uomo innocente fosse ingiustamente incolpato, allora avrei parlato. Se si trattasse soltanto del fatto che St. Clare è ingiustamente lodato, tacerei. E tacerò.»
+
+Si tuffarono nella taverna dalle tende rosse, che all’interno non era solo accogliente, ma addirittura lussuosa. Su un tavolo stava un modellino d’argento della tomba di St. Clare, la testa d’argento chinata, la spada d’argento spezzata. Sulle pareti c’erano fotografie a colori della stessa scena, e del sistema di carrozzini che portavano i turisti a vederla. Si sedettero sulle comode panche imbottite.
+
+«Su, fa freddo,» esclamò Padre Brown; «prendiamo un po’ di vino o di birra.»
+
+«O del brandy,» disse Flambeau.

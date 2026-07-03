@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/thursday-(chesterton)">The Man Who Was Thursday</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/thursday/chapter_07/part_01">‹ part 01</a><a class="ex-next" href="/testi/chesterton/atomized/thursday/chapter_07/part_03">part 03 ›</a></div>
@@ -118,3 +120,111 @@ and under the [[Shadow|shadow]] of its brim the short-sighted face and shaky
 shoulders of Professor de Worms.  He let himself into a seat
 with characteristic care, and wrapped himself up to the chin
 in the mackintosh rug.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/thursday-(chesterton)">The Man Who Was Thursday</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/thursday/chapter_07/part_01">‹ part 01</a><a class="ex-next" href="/testi/chesterton/atomized/thursday/chapter_07/part_03">part 03 ›</a></div>
+</nav>
+
+# [[thursday]] — Capitolo 7 (parte 2)
+
+La [[Snow|neve]], tuttavia, cominciò a infittirsi e a cadere fitta; e Syme,
+avendo trovato del tutto sufficiente una sola occhiata alla cerea signora
+per deprimersi l'animo, prese invece a fissare la strada bianca e deserta.
+Fu considerevolmente stupito di vedere, in piedi del tutto immobile fuori
+dalla bottega e con lo sguardo fisso nella [[Window|vetrina]], un uomo.
+Il suo cappello a cilindro era carico di [[Snow|neve]] come il cappello
+di Babbo Natale, il bianco cumulo saliva intorno agli stivali e alle caviglie;
+ma pareva che nulla potesse strapparlo alla contemplazione della scolorita
+bambola di cera nel sudicio abito da sera. Che un essere umano se ne stesse
+con un simile tempo a guardare dentro una simile bottega era per Syme motivo
+di sufficiente [[Wonder|stupore]]; ma il suo ozioso [[Wonder|stupore]] si mutò d'un tratto
+in uno shock personale; perché si rese conto che l'uomo lì fermo era il paralitico
+vecchio Professor de Worms. Non sembrava affatto il luogo per una persona
+dei suoi anni e delle sue infermità.
+
+Syme era pronto a credere qualsiasi cosa sulle perversioni di quella
+disumanizzata confraternita; ma persino lui non poteva credere che
+[[The Professor|il Professore]] si fosse [[Love|innamorato]] di quella particolare signora
+di cera. Poteva solo supporre che il male dell'uomo (qualunque fosse)
+comportasse qualche momentaneo accesso di rigidità o di trance.
+Non era propenso, tuttavia, a provare in questo caso alcun sentimento
+molto compassionevole. Al contrario, si congratulava piuttosto con se stesso
+del fatto che l'ictus di [[The Professor|il Professore]] e la sua elaborata e claudicante
+andatura avrebbero reso facile sfuggirgli e lasciarlo miglia indietro.
+Poiché Syme aveva sete, prima e sopra ogni cosa, di liberarsi dell'intera
+atmosfera velenosa, non foss'altro che per un'ora. Allora avrebbe potuto
+raccogliere i pensieri, formulare la propria linea di condotta, e decidere
+finalmente se dovesse o meno tener [[Faith|fede]] a Gregory.
+
+Se ne andò a passeggio attraverso la [[Snow|neve]] danzante, imboccò due o tre strade,
+ne ridiscese due o tre altre, ed entrò in un piccolo ristorante di Soho per pranzare.
+Consumò riflessivamente quattro piccole e pittoresche portate, bevve mezza
+bottiglia di vino rosso, e finì davanti a un caffè nero e a un sigaro nero,
+sempre pensando. Aveva preso posto nella sala superiore del ristorante,
+che era piena del tintinnio dei coltelli e del chiacchiericcio degli stranieri.
+Ricordava che nei vecchi tempi aveva immaginato che tutti questi innocui
+e cordiali forestieri fossero anarchici. Rabbrividì, ricordando la cosa reale.
+Ma persino il brivido aveva la deliziosa vergogna della fuga scampata.
+Il vino, il cibo comune, il luogo familiare, i volti di uomini naturali
+e chiacchieroni, gli facevano quasi sentire come se il Consiglio dei Sette
+Giorni fosse stato un brutto sogno; e benché sapesse che era nondimeno
+una realtà oggettiva, era almeno una realtà lontana. Alte case e strade
+popolose si frapponevano tra lui e l'ultima visione dei vergognosi sette;
+egli era libero nella libera [[London|Londra]], e beveva vino tra i liberi.
+Con gesto un poco più disinvolto, prese il cappello e il bastone e scese
+per le scale nella bottega sottostante.
+
+Quando entrò in quella sala inferiore rimase impietrito e inchiodato al suolo.
+A un tavolino, accostato alla [[Window|vetrina]] nuda e alla bianca strada
+di [[Snow|neve]], sedeva il vecchio Professore anarchico davanti a un bicchiere
+di latte, con il viso livido sollevato e le palpebre cadenti. Per un istante
+Syme rimase rigido come il bastone su cui si appoggiava. Poi, con un gesto
+come di cieca fretta, passò rapido accanto a [[The Professor|il Professore]], spalancando
+la porta e sbattendola dietro di sé, e si fermò fuori nella [[Snow|neve]].
+
+«Può quel vecchio cadavere starmi seguendo?» si domandò, mordendosi i baffi
+gialli. «Mi sono trattenuto troppo a lungo lassù in quella stanza, tanto
+che perfino piedi di piombo come i suoi hanno potuto raggiungermi. Una consolazione
+è che, con un po' di svelta camminata, posso mettere un uomo come quello
+tanto lontano quanto Timbuctù. Oppure sono troppo fantasioso? Mi stava davvero
+seguendo? Di certo [[Sunday]] non sarebbe stato tanto [[Fool|sciocco]]
+da mandare uno zoppo?»
+
+Si mise in cammino a passo svelto, torcendo e roteando il bastone,
+in direzione di Covent [[Garden]]. Mentre attraversava il grande mercato
+la [[Snow|neve]] aumentò, facendosi accecante e sconcertante man mano che
+il pomeriggio cominciava a oscurarsi. I fiocchi di [[Snow|neve]] lo tormentavano
+come uno sciame di [[Bees|api]] d'argento. Finendogli negli occhi e nella barba,
+aggiungevano la loro incessante futilità ai nervi già irritati; e nel
+[[Time|tempo]] in cui giunse a passo dondolante all'imbocco di Fleet Street, perse la pazienza,
+e, trovando una sala da tè aperta di [[Sunday|domenica]], vi si infilò per ripararsi.
+Ordinò un'altra tazza di caffè nero come pretesto. Aveva appena finito di farlo,
+quando il Professor de Worms arrancò pesantemente dentro la bottega,
+si sedette a fatica e ordinò un bicchiere di latte.
+
+Il bastone da passeggio di Syme gli era caduto di mano con un gran fragore,
+che tradì l'acciaio celato. Ma [[The Professor|il Professore]] non si voltò a guardare.
+Syme, che di solito era un tipo freddo, se ne stava letteralmente a bocca
+aperta come un villico che sbadiglia dinanzi a un gioco di prestigio.
+Non aveva visto alcuna carrozza seguirlo; non aveva udito ruote fuori
+dalla bottega; a ogni mortale apparenza l'uomo era venuto a piedi.
+Ma il vecchio non sapeva camminare che come una lumaca, e Syme aveva
+camminato come il [[Wind|vento]]. Balzò in piedi e afferrò il bastone,
+mezzo impazzito per la contraddizione della pura aritmetica, e si slanciò
+fuori dalle porte a battente, lasciando il caffè intatto. Un omnibus diretto
+alla Banca passò rombando con insolita rapidità. Dovette fare una violenta
+corsa di cento metri per raggiungerlo; ma riuscì a [[spring|balzarci sopra]],
+oscillando sul predellino e, fermandosi un istante per ansimare, si arrampicò
+in cima. Quando era rimasto seduto per circa mezzo minuto, udì dietro di sé
+una sorta di respiro pesante e asmatico.
+
+Voltandosi di scatto, vide salire gradatamente sempre più su per i gradini
+dell'omnibus un cappello a cilindro sporco e grondante di [[Snow|neve]],
+e sotto l'[[Shadow|ombra]] della sua tesa il viso miope e le spalle malferme
+del Professor de Worms. Egli si lasciò andare su un sedile con caratteristica
+cautela, e si avvolse fino al mento nella coperta impermeabile.

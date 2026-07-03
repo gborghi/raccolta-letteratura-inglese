@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/innocence-(chesterton)">The Innocence of Father Brown</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/innocence/story_03_the_queer_feet/part_02">‹ part 02</a><a class="ex-next" href="/testi/chesterton/atomized/innocence/story_03_the_queer_feet/part_04">part 04 ›</a></div>
@@ -151,3 +153,46 @@ over the back of his collar, like certain old-fashioned statesmen,
 and seen from behind he looked like the man the empire wants.
 Seen from the front he looked like a mild, [[Self|self]]-indulgent bachelor,
 with rooms in the Albany--which he was.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/innocence-(chesterton)">The Innocence of Father Brown</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/innocence/story_03_the_queer_feet/part_02">‹ part 02</a><a class="ex-next" href="/testi/chesterton/atomized/innocence/story_03_the_queer_feet/part_04">part 04 ›</a></div>
+</nav>
+
+# [[innocence]] — I passi misteriosi (parte 3)
+
+La parte razionale di lui (che fosse la più saggia o no) riacquistò la propria supremazia. Ricordò che il proprietario gli aveva detto che avrebbe chiuso a chiave la porta, e sarebbe tornato più tardi a liberarlo. Si disse che venti cose alle quali non aveva pensato potevano spiegare gli eccentrici suoni là fuori; si rammentò che c’era giusto luce a sufficienza per finire il proprio lavoro. Portando il foglio alla [[Window|finestra]] così da cogliere l’ultima tempestosa luce serale, si tuffò risolutamente ancora una volta nel resoconto quasi completato. Aveva scritto per circa venti minuti, chinandosi sempre più vicino al foglio nella luce calante; poi d’un tratto si drizzò. Aveva udito di nuovo gli strani piedi.
+
+Questa [[Time|volta]] avevano una terza stranezza. In precedenza lo sconosciuto aveva camminato, con leggerezza invero e con [[Lightning|fulminea]] rapidità, ma aveva camminato. Questa [[Time|volta]] correva. Si udivano i passi rapidi, morbidi, balzanti venire lungo il corridoio, come i polpastrelli di una pantera in fuga e in salto. Chiunque stesse arrivando era un uomo assai forte, attivo, in un’eccitazione quieta eppure lacerante. Eppure, quando il suono si fu precipitato fino all’ufficio come una specie di turbine bisbigliante, mutò di nuovo all’improvviso nel vecchio pestare lento e spavaldo.
+
+[[Father Brown|Padre Brown]] gettò via il foglio e, sapendo la porta dell’ufficio chiusa a chiave, andò subito nel guardaroba dall’altra parte. L’inserviente di quel luogo era temporaneamente assente, probabilmente perché gli unici ospiti erano a cena e la sua mansione era una sinecura. Dopo aver brancolato attraverso una grigia foresta di soprabiti, scoprì che il tenebroso guardaroba si apriva sul corridoio illuminato sotto forma di una specie di bancone o mezza porta, come la maggior parte dei banconi attraverso i quali tutti noi abbiamo consegnato ombrelli e ricevuto scontrini. C’era un lume immediatamente sopra l’arco semicircolare di quest’apertura. Esso gettava poca luce su [[Father Brown|padre Brown]] medesimo, che pareva un mero profilo scuro contro la fioca [[Window|finestra]] al tramonto alle sue spalle. Ma gettava una luce quasi teatrale sull’uomo che stava fuori del guardaroba, nel corridoio.
+
+Era un uomo elegante, in un abito da sera assai dimesso; alto, ma con un’aria di non occupare molto spazio; si sentiva che avrebbe potuto scivolar via come un’[[Shadow|ombra]] là dove molti uomini più piccoli sarebbero stati vistosi e ingombranti. Il suo volto, ora riverso all’indietro nella luce della lampada, era bruno e vivace, il volto di uno straniero. La sua figura era bella, i suoi modi allegri e sicuri; un critico avrebbe potuto dire soltanto che il suo abito nero era una spanna al di sotto della sua figura e dei suoi modi, e anzi si gonfiava e si borsava in modo strano. Nel momento in cui scorse la nera sagoma di Brown contro il tramonto, gettò giù un pezzetto di carta con un numero e chiamò con amabile autorità: «Il mio cappello e il mio soprabito, prego; mi trovo a dover andar via all’istante».
+
+[[Father Brown|Padre Brown]] prese il foglietto senza una parola, e obbediente andò a cercare il soprabito; non era il primo lavoro servile che avesse svolto nella sua vita. Lo portò e lo depose sul bancone; nel frattempo, lo strano gentiluomo, che si era andato frugando nel taschino del panciotto, disse ridendo: «Non ho spiccioli d’argento; potete tenervi questa». E gettò giù mezza sovrana, e afferrò il soprabito.
+
+La figura di [[Father Brown|padre Brown]] rimase del tutto scura e immobile; ma in quell’istante egli aveva perso la testa. La sua testa era sempre di massimo valore quando l’aveva perduta. In simili momenti egli faceva due più due e otteneva quattro milioni. Spesso la [[Catholic Church|Chiesa Cattolica]] (che è sposata al buon senso) non l’approvava. Spesso egli stesso non l’approvava. Ma era vera ispirazione — importante nelle rare crisi — quando chiunque perderà la sua testa, quello stesso la salverà.
+
+«Penso, signore», disse cortesemente, «che voi abbiate del denaro d’argento in tasca».
+
+L’alto gentiluomo lo fissò. «Al diavolo», gridò, «se scelgo di darvi dell’oro, perché mai dovreste lamentarvi?»
+
+«Perché l’argento è talvolta più prezioso dell’oro», disse il prete con mitezza; «vale a dire, in grandi quantità».
+
+Lo straniero lo guardò con curiosità. Poi guardò con curiosità ancora maggiore su per il corridoio, verso l’ingresso principale. Poi guardò di nuovo Brown, e poi guardò con estrema attenzione la [[Window|finestra]] oltre la testa di Brown, ancora colorata dal bagliore residuo della [[Storm|tempesta]]. Poi parve prendere una decisione. Posò una mano sul bancone, lo scavalcò con la facilità di un acrobata e torreggiò sul prete, posandogli una mano tremenda sul colletto.
+
+«Sta’ fermo», disse, con un sibilo rauco. «Non voglio minacciarti, ma...»
+
+«Io voglio minacciarti», disse [[Father Brown|padre Brown]], con una voce simile a un [[rolling|rullo]] di tamburo, «voglio minacciarti col verme che non muore e col [[Fire|fuoco]] che non si spegne».
+
+«Sei uno strano tipo di guardarobiere», disse l’altro.
+
+«Sono un prete, Monsieur [[Flambeau]]», disse Brown, «e sono pronto ad ascoltare la vostra confessione».
+
+L’altro rimase ansimante per qualche istante, e poi barcollò all’indietro fino a cadere su una sedia.
+
+Le prime due portate della cena dei Dodici Veri Pescatori erano procedute con placido [[success|successo]]. Non possiedo una copia del menù; e se pure la possedessi non direbbe nulla a nessuno. Era scritto in una specie di super-francese impiegato dai cuochi, ma del tutto incomprensibile ai francesi. C’era nel club una tradizione secondo cui gli antipasti dovessero essere svariati e molteplici fino alla [[Madness|follia]]. Venivano presi sul serio proprio perché erano dichiaratamente inutili aggiunte, come l’intera cena e l’intero club. C’era anche una tradizione secondo cui la portata di minestra dovesse essere leggera e senza pretese: una specie di veglia semplice e austera in vista della festa di pesce che stava per venire. La conversazione era quella strana, esile conversazione che governa l’Impero Britannico, che lo governa in segreto, e che tuttavia a stento illuminerebbe un inglese comune anche se potesse origliarla. I ministri di gabinetto di entrambe le parti venivano menzionati col loro nome di battesimo con una specie di annoiata benevolenza. Il Cancelliere dello Scacchiere radicale, che l’intero partito Tory si supponeva stesse maledicendo per le sue estorsioni, veniva lodato per la sua poesia minore, o per la sua sella nel campo di caccia. Il leader Tory, che tutti i Liberali si supponeva odiassero come un [[Tyrant|tiranno]], veniva discusso e, tutto sommato, lodato — come un Liberale. Pareva in qualche modo che i politici fossero molto importanti. Eppure tutto pareva importante in loro, tranne la loro politica. Il signor Audley, il presidente, era un uomo amabile e attempato che portava ancora i colletti alla Gladstone; era una specie di simbolo di tutta quella società fantasmatica eppure immutabile. Non aveva mai fatto nulla — nemmeno nulla di male. Non era dissoluto; non era neppure particolarmente ricco. Era semplicemente dentro la cosa; e non c’era altro da dire. Nessun partito poteva ignorarlo, e se avesse desiderato essere nel gabinetto certamente ve lo avrebbero messo. Il Duca di Chester, il vicepresidente, era un politico giovane ed emergente. Vale a dire, era un piacevole giovanotto, coi capelli lisci e biondi e il volto lentigginoso, d’intelligenza moderata ed enormi possedimenti. In pubblico le sue apparizioni erano sempre coronate da successo e il suo principio era abbastanza semplice. Quando pensava a una battuta la faceva, e veniva definito brillante. Quando non riusciva a pensare a una battuta diceva che quello non era il [[Time|momento]] di scherzare, e veniva definito capace. In privato, in un club della sua classe, era semplicemente franco e sciocco in modo piuttosto piacevole, come uno scolaretto. Il signor Audley, non essendo mai stato in politica, la trattava un po’ più seriamente. Talvolta metteva persino in imbarazzo la compagnia con frasi che lasciavano intendere esservi qualche differenza fra un Liberale e un Conservatore. Egli stesso era un Conservatore, anche nella vita privata. Aveva una massa di capelli grigi sopra il retro del colletto, come certi statisti all’antica, e visto di spalle pareva l’uomo di cui l’impero ha bisogno. Visto di fronte pareva uno scapolo mite e indulgente verso il proprio [[Self|io]], con un appartamento all’Albany — cosa che era.

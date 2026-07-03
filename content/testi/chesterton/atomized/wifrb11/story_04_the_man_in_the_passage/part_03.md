@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/wifrb11-(chesterton)">The Wisdom of Father Brown</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/wifrb11/story_04_the_man_in_the_passage/part_02">‹ part 02</a><a class="ex-next" href="/testi/chesterton/atomized/wifrb11/story_04_the_man_in_the_passage/part_04">part 04 ›</a></div>
@@ -127,3 +129,127 @@ bore him back across tilted chair and table, Bruno had twisted
 the dagger out of his grasp and disabled him just below the wrist. 
 The injury was really slight, but till he was removed from the room
 the half-savage prisoner stared at the running [[Blood|blood]] with a steady smile.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/wifrb11-(chesterton)">The Wisdom of Father Brown</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/wifrb11/story_04_the_man_in_the_passage/part_02">‹ part 02</a><a class="ex-next" href="/testi/chesterton/atomized/wifrb11/story_04_the_man_in_the_passage/part_04">part 04 ›</a></div>
+</nav>
+
+# [[wifrb11]] — L'uomo nel corridoio (parte 3)
+
+     «Devo mostrare a questo sciocco dove andare,» disse Aurora
+in un sussurro a Seymour, e corse fuori sulla soglia per [[Speed|affrettare]]
+la partenza dell'ospite.
+
+     Seymour pareva stare in ascolto, per quanto elegante e distratta
+fosse la sua posa, e parve sollevato quando udì la dama gridare
+alcune ultime istruzioni al capitano, e poi voltarsi di scatto
+e correre ridendo giù per l'andito verso l'altro capo,
+il capo sulla terrazza sopra il Tamigi.  Eppure un secondo o due dopo
+la fronte di Seymour tornò a rannuvolarsi.  Un uomo nella sua posizione ha tanti rivali,
+e ricordò che all'altro capo dell'andito si trovava
+l'ingresso corrispondente alla stanza privata di Bruno.  Non
+perse la propria dignità; disse qualche parola cortese a [[Father Brown|padre Brown]]
+sul rilancio dell'architettura bizantina nella [[Cathedral|Cattedrale]] di Westminster,
+e poi, del tutto naturalmente, uscì egli stesso verso l'estremità superiore
+dell'andito.  [[Father Brown|Padre Brown]] e Parkinson rimasero [[Alone|soli]],
+e nessuno dei due era uomo con la passione della conversazione superflua.
+Il vestiarista girava per la stanza, tirando fuori gli specchi
+e ricacciandoli dentro, con la sua giacca e i pantaloni scuri e logori che apparivano
+tanto più tetri in quanto egli reggeva ancora la festosa lancia fatata
+del [[King|re]] [[Oberon]].  Ogni [[Time|volta]] che tirava fuori la cornice di un nuovo specchio,
+appariva una nuova figura nera di [[Father Brown|padre Brown]]; l'assurda camera di specchi
+era piena di padri Brown, capovolti in aria come angeli,
+che facevano capriole come acrobati, che voltavano le spalle a tutti
+come persone molto scortesi.
+
+     [[Father Brown|Padre Brown]] pareva del tutto inconsapevole di quella nube di testimoni,
+ma seguì Parkinson con occhio pigramente attento finché costui non portò
+sé stesso e la sua assurda lancia nella stanza più lontana di Bruno.  Allora si abbandonò
+a quelle astratte meditazioni che sempre lo divertivano--
+calcolare gli angoli degli specchi, gli angoli di ciascuna rifrazione,
+l'angolo con cui ciascuno doveva incastrarsi nella parete...quando udì
+un grido forte ma strozzato.
+
+     Balzò in piedi e rimase rigido in ascolto.
+Nel medesimo istante Sir Wilson Seymour irruppe di nuovo nella stanza,
+bianco come avorio.  «Chi è quell'uomo nell'andito?» gridò.
+«Dov'è quel mio pugnale?»
+
+     Prima che [[Father Brown|padre Brown]] potesse voltarsi nei suoi pesanti stivali, Seymour stava
+frugando per la stanza in cerca dell'arma.  E prima che potesse
+in qualche modo trovare quell'arma o qualsiasi altra, uno scalpiccìo svelto di piedi
+risuonò sul selciato là fuori, e il volto quadrato di Cutler
+si affacciò nel medesimo vano di porta.  Stringeva ancora grottescamente
+un mazzo di mughetti.  «Che cos'è questo?» gridò.
+«Che cos'è quella creatura in fondo all'andito?  È qualcuno dei vostri trucchi?»
+
+     «I miei trucchi!» sibilò il suo pallido rivale, e fece un passo verso di lui.
+
+     Nell'istante di [[Time|tempo]] in cui tutto ciò accadde, [[Father Brown|padre Brown]]
+uscì in cima all'andito, guardò giù,
+e subito si diresse spedito verso ciò che aveva visto.
+
+     A questo gli altri due uomini abbandonarono la loro contesa e si slanciarono dietro di lui,
+con Cutler che gridava:  «Che cosa fate?  Chi siete?»
+
+     «Mi chiamo Brown,» disse il prete mestamente, mentre si chinava su qualcosa
+e tornava a raddrizzarsi.  «La signorina Rome mi ha mandato a chiamare,
+e sono venuto il più in fretta che ho potuto.  Sono arrivato troppo tardi.»
+
+     I tre uomini abbassarono lo sguardo, e in almeno uno di loro
+la vita morì in quella tarda luce del pomeriggio.  Essa correva lungo
+l'andito come un sentiero d'oro, e nel mezzo di esso giaceva Aurora Rome
+lucente nelle sue vesti di verde e d'oro, con il volto morto
+rivolto in alto.  L'abito era strappato come in una colluttazione,
+lasciando nuda la spalla destra, ma la ferita da cui
+sgorgava il [[Blood|sangue]] era dall'altro lato.  Il pugnale di bronzo
+giaceva piatto e luccicante a un metro o poco più di distanza.
+
+     Ci fu un vuoto immobile per un [[Time|tempo]] misurabile, sicché
+poterono udire lontano la risata di una fioraia fuori da Charing [[Cross]],
+e qualcuno che fischiava furiosamente per un taxi in una delle strade
+che si dipartono dallo Strand.  Poi il capitano, con un movimento così repentino che
+avrebbe potuto essere passione o recitazione, prese Sir Wilson Seymour per la
+gola.
+
+     Seymour lo guardò fisso senza lotta né [[Fear|paura]].
+«Non c'è bisogno che mi uccidiate,» disse in tono del tutto freddo; «lo farò
+da me.»
+
+     La mano del capitano esitò e ricadde; e l'altro aggiunse
+con la medesima gelida franchezza:  «Se scoprirò di non avere il coraggio
+di farlo con quel pugnale, potrò farlo in un mese con l'alcol.»
+
+     «L'alcol non è abbastanza buono per me,» ribatté Cutler, «ma avrò
+[[Blood|sangue]] per questo prima di morire.  Non il vostro--ma credo di sapere di chi.»
+
+     E prima che gli altri potessero cogliere la sua intenzione
+afferrò il pugnale, si slanciò verso l'altra porta all'estremità inferiore
+dell'andito, la spalancò, chiavistello e tutto, e affrontò Bruno
+nel suo camerino.  Mentre lo faceva, il vecchio Parkinson uscì barcollando
+alla sua maniera vacillante dalla porta e scorse il cadavere
+disteso nell'andito.  Si mosse malfermo verso di esso; lo guardò debolmente
+con il volto contratto; poi tornò malfermo dentro il camerino,
+e si sedette d'improvviso su una delle sedie riccamente imbottite.
+[[Father Brown|Padre Brown]] gli corse subito accanto, senza badare a Cutler
+e al colossale attore, benché la stanza già risuonasse dei loro colpi
+ed essi avessero cominciato a lottare per il pugnale.  Seymour, che conservava un certo
+senso pratico, fischiava per chiamare la polizia all'estremità dell'andito.
+
+     Quando la polizia giunse, dovette strappare i due uomini
+da una lotta quasi scimmiesca; e, dopo alcune domande formali,
+arrestare Isidore Bruno con l'accusa di omicidio, mossa contro di lui
+dal suo furente avversario.  L'idea che il grande [[Hero|eroe]] nazionale del momento
+avesse arrestato un malfattore con le proprie mani ebbe indubbiamente il suo peso
+sulla polizia, che non è priva di elementi da giornalista.
+Trattarono Cutler con una certa solenne attenzione, e fecero notare
+che aveva riportato un lieve taglio alla mano.  Proprio mentre Cutler
+lo respingeva all'indietro tra sedie e tavolo rovesciati, Bruno gli aveva strappato
+il pugnale dalla stretta e lo aveva ferito appena sotto il polso.
+La ferita era davvero lieve, ma finché non fu portato via dalla stanza
+il prigioniero mezzo selvaggio fissò il [[Blood|sangue]] che colava con un sorriso fermo.

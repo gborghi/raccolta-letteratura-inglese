@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/innocence-(chesterton)">The Innocence of Father Brown</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/innocence/story_08_the_sins_of_prince_saradine/part_04">‹ part 04</a><a class="ex-next" href="/testi/chesterton/atomized/innocence/story_08_the_sins_of_prince_saradine/part_06">part 06 ›</a></div>
@@ -126,3 +128,126 @@ But there was no sign of [[Flambeau]], and, what was much queerer,
 no sign of Paul or the police.  No other raft or stick was left
 to float on; in that lost island in that vast nameless pool,
 they were cut off as on a rock in the Pacific.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/innocence-(chesterton)">The Innocence of Father Brown</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/innocence/story_08_the_sins_of_prince_saradine/part_04">‹ part 04</a><a class="ex-next" href="/testi/chesterton/atomized/innocence/story_08_the_sins_of_prince_saradine/part_06">part 06 ›</a></div>
+</nav>
+
+# [[innocence]] — I peccati del principe Saradine (parte 5)
+
+«Va bene così», disse, ansimando e in inglese stentato.
+«Ho insultato. Darò soddisfazione. Marco, apri la custodia.»
+
+L'uomo accanto a lui con gli orecchini e la grande custodia nera si accinse
+a sbloccarla. Ne trasse due lunghi stocchi italiani, con splendidi
+else e lame d'acciaio, che piantò con la punta in giù nel prato.
+Lo strano giovane in piedi di fronte all'ingresso col suo volto
+giallo e vendicativo, le due spade drizzate nel tappeto erboso come due
+croci in un cimitero, e la fila delle sagome allineate dietro,
+davano a tutto ciò una bizzarra apparenza di essere una qualche barbarica [[Court|corte]] di giustizia.
+Ma tutto il resto era immutato, tanto era stata improvvisa l'interruzione.
+L'oro del tramonto ancora ardeva sul prato, e il tarabuso ancora rombava
+come ad annunciare qualche piccolo ma tremendo destino.
+
+«Principe Saradine», disse l'uomo chiamato Antonelli,
+«quando ero un lattante nella culla voi uccideste mio padre
+e rubaste mia madre; mio padre fu il più fortunato.
+Non lo uccideste lealmente, come io sto per uccidere voi.
+Voi e la mia malvagia madre lo conduceste in carrozza a un passo solitario
+in Sicilia, lo gettaste giù da una rupe, e ve ne andaste per la vostra strada.
+Potrei imitarvi se lo volessi, ma imitarvi è troppo vile.
+Vi ho seguito per tutto il mondo, e voi siete sempre
+fuggito da me. Ma questa è la fine del mondo — e di voi.
+Ora vi ho, e vi do la possibilità che voi non deste mai a mio padre.
+Scegliete una di quelle spade.»
+
+Il principe Saradine, con le sopracciglia contratte, parve esitare
+un momento, ma le sue orecchie ancora gli ronzavano per il colpo,
+ed egli balzò avanti e afferrò una delle else.
+Anche [[Father Brown]] era balzato avanti, sforzandosi di comporre la contesa;
+ma presto si accorse che la sua presenza personale peggiorava le cose.
+Saradine era un massone francese e un feroce ateo,
+e un prete lo smuoveva per la legge dei contrari.
+E quanto all'altro, né prete né laico lo smuovevano affatto.
+Questo giovane dal volto di Bonaparte e dagli occhi bruni era
+qualcosa di assai più inflessibile di un puritano — un pagano. Era un semplice
+uccisore dal mattino della terra; un uomo dell'età della pietra —
+un uomo di pietra.
+
+Restava una [[Hope|speranza]], la chiamata a raccolta della servitù; e [[Father Brown]] corse indietro
+nella [[house|casa]]. Trovò, tuttavia, che tutti i domestici di rango inferiore avevano avuto
+una vacanza a terra dall'autocrate Paul, e che soltanto la cupa Mrs. Anthony
+si aggirava a disagio per le lunghe stanze. Ma nel momento in cui ella volse un
+volto spettrale verso di lui, egli risolse uno degli enigmi della [[house|casa]] degli specchi.
+I pesanti occhi bruni di Antonelli erano i pesanti occhi bruni di Mrs. Anthony;
+e in un lampo vide metà della storia.
+
+«Vostro figlio è là fuori», disse senza sprecare parole;
+«o lui o il principe verrà ucciso. Dov'è Mr. Paul?»
+
+«È all'approdo», disse la donna debolmente.
+«Sta — sta — segnalando per avere aiuto.»
+
+«Mrs. Anthony», disse [[Father Brown]] gravemente, «non c'è [[Time|tempo]]
+per sciocchezze. Il mio amico ha la barca giù per il [[River|fiume]] a pescare.
+La barca di vostro figlio è sorvegliata dagli uomini di vostro figlio. C'è solo questa
+unica canoa; che cosa ne sta facendo Mr. Paul?»
+
+«Santa [[Maria]]! Non lo so», disse; e svenne lunga distesa
+sul pavimento a stuoie.
+
+[[Father Brown]] la sollevò su un divano, le gettò addosso un vaso d'[[Water|acqua]], gridò
+per avere aiuto, e poi si precipitò all'approdo della piccola isola.
+Ma la canoa era già a metà corrente, e il vecchio Paul la spingeva e la tirava
+su per il [[River|fiume]] con un'energia incredibile per i suoi anni.
+
+«Salverò il mio padrone», gridava, gli occhi fiammeggianti maniacalmente.
+«Lo salverò ancora!»
+
+[[Father Brown]] non poté far altro che guardare la barca mentre lottava
+controcorrente e pregare che il vecchio potesse svegliare in [[Time|tempo]] la cittadina.
+
+«Un duello è già abbastanza brutto», mormorò, arruffandosi i ruvidi capelli color [[Dust|polvere]],
+«ma c'è qualcosa che non va in questo duello, perfino come duello.
+Lo sento nelle ossa. Ma che cosa può essere?»
+
+Mentre stava fissando l'[[Water|acqua]], un tremolante [[Mirror|specchio]] di tramonto,
+udì dall'altro capo del [[Garden|giardino]] dell'isola un suono
+piccolo ma inconfondibile — il freddo cozzo dell'acciaio.
+Voltò la testa.
+
+Laggiù sul capo più lontano o promontorio del lungo isolotto, su una striscia
+di tappeto erboso oltre l'ultima fila di rose, i duellanti avevano già
+incrociato le spade. La sera sopra di loro era una cupola d'oro vergine, e,
+per quanto distanti fossero, ogni dettaglio risaltava. Avevano gettato via
+le giacche, ma il panciotto giallo e i capelli bianchi di Saradine,
+il panciotto rosso e i calzoni bianchi di Antonelli, scintillavano nella
+luce orizzontale come i colori delle bambole meccaniche danzanti.
+Le due spade sfavillavano dalla punta al pomo come due spilli di diamante.
+C'era qualcosa di spaventoso nelle due figure che apparivano così piccole
+e così gaie. Sembravano due farfalle che cercassero di appuntarsi l'una
+all'altra su un sughero.
+
+[[Father Brown]] corse più forte che poté, le sue gambette che giravano
+come una [[Wheel|ruota]]. Ma quando giunse al campo di combattimento trovò
+di essere nato troppo tardi e troppo presto — troppo tardi per fermare la lotta,
+sotto l'[[Shadow|ombra]] dei truci siciliani appoggiati ai loro remi,
+e troppo presto per prevenire un qualche esito disastroso di essa.
+Poiché i due uomini erano singolarmente [[Well|ben]] appaiati, il principe usando
+la sua abilità con una sorta di cinica sicurezza, il siciliano usando la sua
+con una cura assassina. Ben pochi più raffinati incontri di scherma si sono mai potuti
+vedere in affollati anfiteatri di quello che tintinnava e sfavillava
+su quell'isola dimenticata nel [[River|fiume]] canneto. Il vertiginoso combattimento fu
+tenuto in bilico così a lungo che la [[Hope|speranza]] cominciò a rinascere nel prete che protestava;
+per ogni comune probabilità Paul doveva presto tornare con la polizia.
+Sarebbe stato un qualche conforto anche se [[Flambeau]] fosse tornato dalla pesca,
+poiché [[Flambeau]], fisicamente parlando, valeva quattro altri uomini.
+Ma non c'era segno di [[Flambeau]], e, cosa assai più strana,
+nessun segno di Paul o della polizia. Nessuna altra zattera o palo era rimasto
+su cui galleggiare; in quell'isola perduta in quella vasta pozza senza nome,
+erano tagliati fuori come su uno scoglio nel Pacifico.

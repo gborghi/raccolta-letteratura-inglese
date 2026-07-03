@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/everlasting-man-(chesterton)">The Everlasting Man</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/everlasting_man/chapter_02/part_08">‹ part 08</a><a class="ex-next" href="/testi/chesterton/atomized/everlasting_man/chapter_02/part_10">part 10 ›</a></div>
@@ -111,3 +113,110 @@ I think anybody's common sense will tell him that it is far more
 likely that this sort of mystical sentiment did exist already;
 and that in the light of it [[Dreams|dreams]] and kings and corn-fields could
 appear mystical then, as they can appear mystical now.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/everlasting-man-(chesterton)">The Everlasting Man</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/everlasting_man/chapter_02/part_08">‹ part 08</a><a class="ex-next" href="/testi/chesterton/atomized/everlasting_man/chapter_02/part_10">part 10 ›</a></div>
+</nav>
+
+Un altro scrittore di chiara fama, poi, commentando i disegni rupestri
+della [[Cave|caverna]] attribuiti agli uomini neolitici dell'età delle renne,
+osservava che nessuna di quelle immagini pareva avere un qualche scopo religioso;
+e sembrava quasi dedurne che quegli uomini non avessero religione.
+Difficilmente saprei immaginare un filo argomentativo più sottile di questo,
+che ricostruisce le pieghe più intime della mente preistorica a partire
+dal fatto che qualcuno, il quale ha graffiato pochi schizzi sopra una roccia,
+per quale motivo non sappiamo, con quale scopo non sappiamo,
+sottomesso a quali usi o convenzioni non sappiamo, forse ha semplicemente
+trovato più facile disegnare renne che disegnare la religione.
+Può averla disegnata perché era il suo simbolo religioso.
+Può averla disegnata perché non era il suo simbolo religioso.
+Può aver disegnato qualsiasi cosa tranne il suo simbolo religioso.
+Può aver disegnato il suo vero simbolo religioso in un altro luogo;
+oppure quel simbolo può essere stato deliberatamente distrutto una volta disegnato.
+Può aver fatto o non fatto mezzo milione di cose; ma in ogni
+caso è un salto sbalorditivo di [[logic|logica]] dedurre che egli non avesse
+alcun simbolo religioso, o addirittura dedurre, dal fatto che non avesse un simbolo
+religioso, che egli non avesse religione. Ora questo caso particolare si dà
+il caso illustri con singolare chiarezza l'inconsistenza di simili congetture.
+Poiché poco tempo dopo si scoprirono nelle caverne non soltanto pitture
+ma sculture di [[Animals|animali]]. Di alcune si disse che fossero
+sciupate da incavi o fori supposti essere i segni di frecce;
+e le immagini danneggiate furono congetturate come i resti di qualche
+rito [[Magic|magico]] volto a uccidere in effigie le bestie; mentre le immagini
+intatte venivano spiegate in rapporto a un altro rito [[Magic|magico]] che invocava
+la fertilità sulle mandrie. Anche qui vi è qualcosa di vagamente
+comico nell'abitudine scientifica di prendersi la ragione in ogni caso.
+Se l'immagine è danneggiata prova una superstizione, e se è
+intatta ne prova un'altra. Anche qui vi è un balzo alle conclusioni
+piuttosto avventato; a stento è venuto in mente a questi teorizzatori
+che una folla di cacciatori rinchiusi d'[[Winter|inverno]] in una [[Cave|caverna]] potrebbe concepibilmente
+aver mirato a un bersaglio per divertimento, come una sorta di primitivo gioco di società.
+Ma in ogni caso, se fu fatto per superstizione, che ne è
+stato della tesi secondo cui esso non aveva nulla a che vedere con la religione?
+La [[Truth|verità]] è che tutto questo congetturare non ha nulla a che vedere con alcunché.
+Non è nemmeno un gioco di società altrettanto buono che scoccare frecce contro
+una renna intagliata, giacché le scaglia in aria.
+
+Simili teorizzatori tendono piuttosto a dimenticare, per esempio, che gli uomini
+del mondo moderno pure fanno talvolta segni nelle caverne. Quando una folla
+di gitanti viene condotta per il labirinto della Grotta Meravigliosa
+o della [[Magic|Magica]] Caverna delle Stalattiti, si è osservato che dei geroglifici
+[[spring|balzano]] alla vista là dov'essa è passata; iniziali e iscrizioni
+che i dotti si rifiutano di riferire a qualsivoglia data remota. Ma verrà il
+[[Time|tempo]] in cui queste iscrizioni saranno davvero di data remota.
+E se i professori del futuro somiglieranno in qualche modo ai professori
+del presente, sapranno dedurre un gran numero di cose assai vivide
+e interessanti da queste scritte della [[Cave|caverna]] del ventesimo secolo.
+Se conosco qualcosa della razza, e se essi non saranno decaduti
+dalla piena e sanguigna sicurezza dei loro padri,
+sapranno scoprire i fatti più affascinanti sul conto nostro
+a partire dalle iniziali lasciate nella [[Magic|Magica]] Grotta da 'Arry e 'Arriet,
+forse nella forma di due A intrecciate. Da questo [[Alone|soltanto]]
+essi sapranno (1) che, siccome le lettere sono rozzamente intaccate con un
+temperino spuntato, il ventesimo secolo non possedeva delicati
+strumenti d'incisione ed era ignaro dell'arte della scultura.
+(2) Che, siccome le lettere sono maiuscole, la nostra civiltà
+non sviluppò mai lettere minuscole né alcunché di simile a una scrittura corsiva.
+(3) Che, poiché consonanti iniziali stanno insieme in
+modo impronunciabile, la nostra lingua era forse affine al gallese
+o più probabilmente del tipo semitico arcaico che ignorava le vocali.
+(4) Che, siccome le iniziali di 'Arry e 'Arriet non pretendono in alcun
+modo particolare di essere simboli religiosi, la nostra civiltà non possedeva
+religione. Forse quest'ultima è quella che più si avvicina alla [[Truth|verità]];
+giacché una civiltà che avesse religione avrebbe un po' più di ragione.
+
+Si afferma comunemente, poi, che la religione crebbe in maniera molto lenta
+ed evolutiva; e persino che essa non nacque da una sola causa,
+ma da una combinazione che si potrebbe chiamare coincidenza.
+In linea generale, i tre elementi principali della combinazione sono,
+primo, la [[Fear|paura]] del capo della tribù (che il signor Wells si ostina
+a chiamare, con deplorevole familiarità, il Vecchio), secondo,
+il fenomeno dei [[Dreams|sogni]], e terzo, le associazioni sacrificali
+del raccolto e della [[Resurrection|resurrezione]] simboleggiata nel grano che cresce.
+Osserverò di passaggio che mi pare psicologia assai dubbia
+riferire un solo spirito vivo e unico a tre cause morte e
+sconnesse, se davvero non fossero che cause morte e sconnesse.
+Supponiamo che il signor Wells, in uno dei suoi affascinanti romanzi del futuro,
+venisse a dirci che sorgerà tra gli uomini una passione nuova e finora
+senza nome, di cui gli uomini sogneranno come si sogna del primo [[Love|amore]],
+per la quale moriranno come si muore per una [[Flag|bandiera]] e una patria.
+Credo che resteremmo un poco sconcertati s'egli ci dicesse che questo
+singolare sentimento sarebbe una combinazione dell'abitudine di
+fumare Woodbines, dell'aumento dell'imposta sul reddito e del piacere
+di un automobilista nel superare il limite di [[Speed|velocità]]. Non riusciremmo facilmente
+a immaginarlo, perché non riusciremmo a immaginare alcun legame tra
+i tre elementi né alcun sentimento comune capace di includerli tutti.
+Né alcuno potrebbe immaginare un legame tra il grano e i [[Dreams|sogni]]
+e un vecchio capo con una lancia, a meno che non esistesse già un sentimento
+comune a includerli tutti. Ma se un tale sentimento comune esisteva,
+esso non poteva essere che il sentimento religioso; e queste cose non
+potevano essere gli inizi di un sentimento religioso che esisteva già.
+Credo che il buon senso di chiunque gli dirà che è assai più
+probabile che questa sorta di sentimento mistico esistesse già;
+e che alla sua luce i [[Dreams|sogni]] e i re e i campi di grano potessero
+apparire mistici allora, come possono apparire mistici oggi.

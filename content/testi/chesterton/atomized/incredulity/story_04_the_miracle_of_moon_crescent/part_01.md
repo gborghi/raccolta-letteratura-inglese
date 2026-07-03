@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/incredulity-(chesterton)">Incredulity</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/incredulity/story_03_the_oracle_of_the_dog/part_08">‹ part 08</a><a class="ex-next" href="/testi/chesterton/atomized/incredulity/story_04_the_miracle_of_moon_crescent/part_02">part 02 ›</a></div>
@@ -123,3 +125,121 @@ must fix at once.  Fenner,' he added to the secretary,'
 show Mr Vandam to his car, and don't come back again for half
 an hour.  I've something here I want to work out by myself;
 after that I shall want you.'
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/incredulity-(chesterton)">Incredulity</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/incredulity/story_03_the_oracle_of_the_dog/part_08">‹ part 08</a><a class="ex-next" href="/testi/chesterton/atomized/incredulity/story_04_the_miracle_of_moon_crescent/part_02">part 02 ›</a></div>
+</nav>
+
+QUATTRO: Il miracolo di [[Moon]] Crescent
+
+[[Moon|MOON]] CRESCENT era destinato, in un certo senso, a essere romantico quanto il suo nome;
+e le cose che vi accaddero furono, a modo loro, abbastanza romantiche.
+Almeno era stato l'espressione di quel genuino elemento
+di sentimento — storico e quasi eroico — che riesce
+a sopravvivere fianco a fianco con il mercantilismo nelle città più antiche
+della costa orientale d'[[America]]. In origine era una curva
+di architettura classica che davvero rievocava quell'atmosfera del
+Settecento in cui uomini come Washington e Jefferson
+sembravano tanto più repubblicani quanto più erano aristocratici.
+I viaggiatori, messi di fronte alla ricorrente domanda di che cosa pensassero
+della nostra [[City|città]], erano ritenuti specialmente responsabili di ciò che
+pensavano del nostro [[Moon]] Crescent. Gli stessi contrasti che confondono
+la sua armonia originaria erano caratteristici della sua [[Survival|sopravvivenza]].
+A un'estremità, o corno, della mezzaluna le ultime finestre
+davano su un recinto simile a una striscia del parco di un gentiluomo,
+con alberi e siepi formali come un [[Garden|giardino]] alla [[Queen]] Anne.
+Ma subito dietro l'angolo, le altre finestre, perfino
+delle medesime stanze, o piuttosto «appartamenti», si affacciavano sul muro cieco
+e disadorno di un enorme magazzino annesso a qualche brutta industria.
+Gli appartamenti di Moon Crescent stessi, a quel capo, erano stati rimodellati
+sul monotono schema di un albergo americano, e si innalzavano fino a
+un'altezza che, pur essendo inferiore al colossale magazzino, sarebbe
+stata chiamata un grattacielo a Londra. Ma il colonnato che correva
+lungo tutta la facciata sulla strada aveva una solennità grigia e scolorita
+dalle intemperie, tale da suggerire che i fantasmi dei Padri
+della Repubblica potessero ancora passeggiarvi avanti e indietro.
+L'interno delle stanze, tuttavia, era lindo e nuovo quanto potevano renderlo
+gli ultimi arredi newyorkesi, specialmente all'estremità settentrionale,
+tra il lindo giardino e il muro cieco del magazzino.
+Erano un sistema di appartamentini piccolissimi, come diremmo noi in Inghilterra,
+ciascuno composto di un salotto, una camera da letto e un bagno,
+identici come le cento cellette di un alveare. In uno di essi
+il celebre Warren Wynd sedeva alla sua scrivania a smistare lettere
+e a diramare ordini con mirabile rapidità ed esattezza.
+Non lo si poteva paragonare che a un ordinato turbine.
+
+Warren Wynd era un uomo piccolissimo, dai radi capelli grigi
+e dalla barba a punta, apparentemente fragile ma di ardente attività.
+Aveva occhi assai straordinari, più luminosi delle stelle e più forti
+delle calamite, che nessuno di quanti li avevano visti poteva
+facilmente dimenticare. E in effetti, nel suo lavoro di riformatore e regolatore
+di molte opere buone, aveva mostrato per lo meno di avere un paio
+di occhi in testa. Si raccontavano ogni sorta di storie e perfino di leggende
+sulla miracolosa rapidità con cui sapeva
+formulare un giudizio fondato, specialmente sul carattere umano.
+Si diceva che avesse scelto la moglie, che lavorò con lui così a lungo
+in modo così caritatevole, individuandola in tutto un reggimento
+di donne in uniforme che sfilavano a qualche celebrazione ufficiale,
+alcuni dicevano delle Girl Guides e altri della Polizia Femminile.
+Un'altra storia si narrava di come tre vagabondi, indistinguibili
+l'uno dall'altro nella comune sozzura e nei comuni stracci,
+si fossero presentati davanti a lui a chiedere l'elemosina.
+Senza un attimo di esitazione ne aveva mandato uno a un
+particolare ospedale dedicato a un certo disturbo nervoso,
+aveva raccomandato il secondo a un istituto per alcolizzati, e aveva assunto
+il terzo, con un lauto stipendio, come proprio domestico privato,
+posizione che quello ricoprì con successo per anni a venire.
+C'erano, naturalmente, gli inevitabili aneddoti sulle sue pronte
+critiche e sulle sue secche battute quando veniva a contatto
+con Roosevelt, con Henry Ford, e con la signora Asquith
+e con tutte le altre persone con cui un uomo pubblico americano deve
+avere un colloquio storico, non fosse che sui giornali.
+Certamente non era tipo da lasciarsi intimidire da simili personaggi;
+e nel momento qui in questione egli proseguiva con grande calma
+il suo centrifugo turbinare di carte, benché l'uomo che gli stava di fronte
+fosse un personaggio di importanza quasi pari alla sua.
+
+Silas T. Vandam, il milionario e magnate del petrolio, era un uomo asciutto
+dal lungo volto giallastro e dai capelli nero-bluastri, colori che risultavano
+tanto meno cospicui quanto in qualche modo più sinistri perché il suo volto
+e la sua figura si stagliavano scuri contro la finestra e il bianco muro del magazzino
+là fuori; era abbottonato ben stretto in un elegante soprabito
+con bordi di astrakan. Il volto ansioso e gli occhi brillanti di Wynd,
+invece, erano nella piena luce dell'altra finestra, quella che
+dava sul giardinetto, poiché la sua sedia e la sua scrivania le stavano di fronte;
+e benché il volto fosse assorto, non sembrava indebitamente assorto
+a proposito del milionario. Il valletto, ossia il domestico personale di Wynd, un uomo grande
+e vigoroso dai capelli biondi e lisci, stava in piedi dietro la scrivania del padrone
+reggendo un mazzo di lettere; e il segretario privato di Wynd, un giovane lindo, dai
+capelli rossi e dal volto acuto, aveva già la mano sulla maniglia della porta,
+come indovinando qualche intenzione o obbedendo a qualche gesto del suo datore di lavoro.
+La stanza non era soltanto linda, ma austera fino al punto di parere vuota;
+poiché Wynd, con la sua caratteristica meticolosità, aveva affittato l'intero
+piano di sopra e l'aveva trasformato in un soppalco o ripostiglio, dove tutte le sue
+altre carte e cose erano ammucchiate in casse e balle legate con corde.
+
+«Dia queste all'impiegato di piano, Wilson», disse Wynd al domestico
+che reggeva le lettere, «e poi mi porti l'opuscolo sui
+Night Clubs di Minneapolis; lo troverà nel fascio contrassegnato con la «G».
+Mi servirà tra mezz'ora, ma non mi disturbi fino allora.
+[[Well|Ebbene]], signor Vandam, credo che la sua proposta suoni molto promettente;
+ma non posso darle una risposta definitiva finché non avrò visto la relazione.
+Dovrebbe arrivarmi domani pomeriggio, e le telefonerò subito.
+Mi spiace di non poter dire nulla di più preciso per il momento.»
+
+Il signor Vandam parve sentire che questo somigliava a un cortese congedo;
+e il suo volto giallastro e saturnino lasciava intendere che vi trovava una certa ironia.
+
+«Bene, suppongo che debba andare», disse.
+
+«Molto gentile da parte sua a essere passato, signor Vandam», disse Wynd, cortese;
+«mi scuserà se non l'accompagno fuori, ma ho qui una cosa che
+devo sistemare all'istante. Fenner», aggiunse rivolto al segretario,
+«accompagni il signor Vandam alla sua automobile, e non tornare per mezz'ora.
+Ho qui una cosa che voglio risolvere da solo;
+dopo di che avrò bisogno di te.»

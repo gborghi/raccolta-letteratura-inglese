@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/wifrb11-(chesterton)">The Wisdom of Father Brown</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/wifrb11/story_04_the_man_in_the_passage/part_01">‹ part 01</a><a class="ex-next" href="/testi/chesterton/atomized/wifrb11/story_04_the_man_in_the_passage/part_03">part 03 ›</a></div>
@@ -113,3 +115,113 @@ as if at a word of command.  But perhaps there was something
 ostentatiously elegant about the languid figure of Seymour leaning against
 one of the looking-glasses that brought him up short at the entrance,
 turning his head this way and that like a bewildered bulldog.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/wifrb11-(chesterton)">The Wisdom of Father Brown</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/wifrb11/story_04_the_man_in_the_passage/part_01">‹ part 01</a><a class="ex-next" href="/testi/chesterton/atomized/wifrb11/story_04_the_man_in_the_passage/part_03">part 03 ›</a></div>
+</nav>
+
+# [[wifrb11]] — L'uomo nel corridoio (parte 2)
+
+     Ella salutò entrambi gli uomini con quel sorriso raggiante e sconcertante
+che teneva tanti maschi alla medesima giusta e pericolosa distanza da lei.
+Accettò alcuni [[Flowers|fiori]] da Cutler, che erano tropicali e costosi
+come le sue vittorie; e un altro genere di dono da Sir Wilson Seymour,
+offertole più tardi e con maggior noncuranza da quel gentiluomo.
+Poiché era contro la sua educazione mostrare premura, e contro la sua
+convenzionale anticonvenzionalità offrire qualcosa di così ovvio come dei [[Flowers|fiori]].
+Aveva raccolto una bagattella, disse, che era piuttosto una curiosità:
+un antico pugnale greco dell'Epoca micenea, che avrebbe [[Well|ben]]
+potuto essere portato al [[Time|tempo]] di [[Theseus|Teseo]] e [[Hippolyta|Ippolita]].  Era fatto di bronzo
+come tutte le armi Eroiche, ma, cosa abbastanza singolare, ancora tanto affilato
+da poter pungere chiunque.  In verità ne era stato attratto dalla
+forma a foglia; era perfetto come un vaso greco.
+Se poteva interessare alla signorina Rome o trovar posto in qualche punto
+della recita, egli sperava che ella volesse--
+
+     La porta interna si spalancò e apparve una figura imponente, che era
+un contrasto ancor più forte con l'esplicativo Seymour di quanto non lo fosse persino il capitano Cutler.
+Alto quasi due metri, e di muscoli e tendini più che teatrali,
+Isidore Bruno, nella sfarzosa pelle di leopardo e nelle vesti bruno-dorate
+di [[Oberon]], somigliava a un dio barbarico.  Si appoggiava a una specie di
+lancia da caccia, che di là da un teatro appariva un'esile bacchetta argentea,
+ma che nella stanza piccola e relativamente affollata appariva evidente come
+un palo di picca--e altrettanto minacciosa.  I vividi occhi neri gli ruotavano vulcanicamente,
+il volto bronzeo, per quanto bello, mostrava in quel momento
+una combinazione di zigomi sporgenti e denti bianchi serrati, che richiamava
+certe congetture americane sulla sua origine nelle piantagioni del Sud.
+
+     «Aurora,» cominciò, con quella voce profonda simile a un tamburo di passione
+che aveva commosso tanti pubblici, «vuoi--»
+
+     Si arrestò indeciso perché una sesta figura si era d'un tratto
+presentata proprio dentro il vano della porta--una figura tanto incongrua
+nella scena da riuscire quasi comica.  Era un uomo assai piccolo nella
+nera uniforme del clero secolare romano, e somigliava
+(specialmente in una simile presenza come quella di Bruno e di Aurora) piuttosto al
+Noè di legno uscito da un'arca.  Non pareva però consapevole
+di alcun contrasto, ma disse con opaca cortesia: «Credo che la signorina Rome
+mi abbia mandato a chiamare.»
+
+     Un osservatore acuto avrebbe forse notato che la temperatura emotiva
+piuttosto [[Rose|salì]] a un'interruzione così priva di emozione.  Il distacco di
+un celibe di professione parve rivelare agli altri che essi
+stavano attorno alla donna come una cerchia di rivali innamorati; proprio come un estraneo
+che entri con la [[Frost|brina]] sul cappotto rivela che una stanza è come una fornace.
+La presenza dell'unico uomo che di lei non si curava
+accrebbe nella signorina Rome la sensazione che tutti gli altri fossero [[Love|innamorati]] di lei,
+e ciascuno in modo alquanto pericoloso:  l'attore con tutto l'appetito
+di un selvaggio e di un [[Child|bambino]] viziato; il soldato con tutto il semplice egoismo
+di un uomo di volontà più che d'ingegno; Sir Wilson con quella concentrazione che di giorno in giorno s'indurisce,
+con cui i vecchi Edonisti si dedicano a un capriccio; anzi,
+persino l'abietto Parkinson, che l'aveva conosciuta prima dei suoi trionfi,
+e che la seguiva per la stanza con gli occhi o con i piedi,
+con il muto incanto di un cane.
+
+     Una persona acuta avrebbe potuto notare anche una cosa ancor più strana.
+L'uomo simile a un nero Noè di legno (che non era del tutto privo d'acume)
+la notò con un divertimento considerevole ma contenuto.  Era evidente
+che la grande Aurora, benché tutt'altro che indifferente all'ammirazione
+dell'altro sesso, desiderasse in quel momento sbarazzarsi di tutti gli uomini
+che l'ammiravano ed essere lasciata [[Alone|sola]] con l'uomo che non lo faceva--
+che almeno non l'ammirava in quel senso; poiché il piccolo prete
+ammirava sì, e persino godeva della ferma diplomazia femminile con cui
+ella si accinse al suo compito.  C'era forse una sola cosa
+in cui Aurora Rome fosse abile, ed era una metà dell'umanità--
+l'altra metà.  Il piccolo prete osservò, come una campagna napoleonica,
+la rapida precisione della sua strategia per espellere tutti senza bandirne alcuno.
+Bruno, il grande attore, era così puerile che era facile mandarlo via
+in un bruto broncio, sbattendo la porta.  Cutler, l'ufficiale britannico,
+era pachidermatico alle idee, ma scrupoloso quanto al comportamento.
+Avrebbe ignorato ogni allusione, ma sarebbe morto piuttosto che
+ignorare un incarico preciso da parte di una dama.  Quanto al vecchio Seymour,
+occorreva trattarlo diversamente; occorreva lasciarlo per ultimo.
+L'unico modo di smuoverlo era rivolgersi a lui in confidenza come a un vecchio
+amico, metterlo a parte del segreto dello sgombero.  Il prete davvero
+ammirò la signorina Rome mentre conseguiva tutti e tre questi obiettivi
+in un'unica mossa ben scelta.
+
+     Ella si avvicinò al capitano Cutler e disse nel suo tono più dolce:
+«Terrò molto a tutti questi [[Flowers|fiori]], perché devono essere i vostri
+[[Flowers|fiori]] preferiti.  Ma non saranno completi, sapete,
+senza il mio fiore preferito.  Andate fino a quel negozio dietro l'angolo
+e portatemi qualche mughetto, e allora sarà proprio delizioso.»
+
+     Il primo obiettivo della sua diplomazia, l'uscita del furente Bruno,
+fu conseguito all'istante.  Egli aveva già consegnato la sua lancia con gesto altero,
+come uno scettro, al pietoso Parkinson, e stava per prendere posto
+su uno dei sedili imbottiti come su un trono.  Ma a quell'aperto appello al
+suo rivale avvampò nei suoi bulbi oculari d'opale tutta la sensibile insolenza
+dello schiavo; serrò per un istante gli enormi pugni bruni,
+e poi, spalancando di scatto la porta, sparì nei propri appartamenti al di là.
+Ma intanto l'esperimento della signorina Rome di mobilitare l'Esercito Britannico
+non era riuscito così semplice come pareva probabile.  Cutler si era infatti
+alzato rigido e improvviso, e si era incamminato verso la porta, senza cappello,
+come a un comando.  Ma forse c'era qualcosa
+di ostentatamente elegante nella languida figura di Seymour appoggiato contro
+uno degli specchi, che lo bloccò di colpo sulla soglia,
+facendogli girare la testa di qua e di là come un mastino sconcertato.

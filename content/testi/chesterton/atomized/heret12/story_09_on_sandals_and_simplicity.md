@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/heret12-(chesterton)">Heretics</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/heret12/story_08_the_moods_of_mr_george_moore">‹ Story 08 The Moods of Mr George Moore</a><a class="ex-next" href="/testi/chesterton/atomized/heret12/story_10_science_and_the_savages">Story 10 Science and the Savages ›</a></div>
@@ -159,3 +161,159 @@ thought and ponder rationalistically, touching remote things--
 things that only theoretically matter, such as the transit
 of [[Venus]].  But only at their peril can men rationalize about
 so practical a matter as health.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/heret12-(chesterton)">Heretics</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/heret12/story_08_the_moods_of_mr_george_moore">‹ Story 08 The Moods of Mr George Moore</a><a class="ex-next" href="/testi/chesterton/atomized/heret12/story_10_science_and_the_savages">Story 10 Science and the Savages ›</a></div>
+</nav>
+
+# [[heret12]] — Dei sandali e della semplicità
+
+X. Dei sandali e della semplicità
+
+La grande sventura degl'Inglesi moderni non è affatto che siano più
+vanagloriosi degli altri popoli (non lo sono); è che si vantano
+proprio di quelle particolari cose delle quali nessuno può vantarsi senza perderle.
+Un Francese può andar fiero d'essere audace e logico, e rimanere pur sempre
+audace e logico. Un Tedesco può andar fiero d'essere riflessivo e ordinato,
+e rimanere pur sempre riflessivo e ordinato. Ma un Inglese non può
+andar fiero d'essere semplice e diretto, e rimanere pur sempre semplice e diretto.
+In fatto di queste strane virtù, conoscerle è ucciderle.
+Un uomo può essere consapevole d'essere eroico o consapevole d'essere divino,
+ma non può (a dispetto di tutti i poeti anglosassoni) essere consapevole
+d'essere inconsapevole.
+
+Ora, non credo si possa onestamente negare che
+qualche porzione di questa impossibilità si attacchi a una classe
+molto diversa, almeno nella propria opinione, dalla scuola
+dell'anglosassonismo. Intendo quella scuola della vita semplice,
+comunemente associata a [[tolstoy|Tolstoj]]. Se un perpetuo parlare della
+propria robustezza conduce a essere meno robusti, è ancor
+più vero che un perpetuo parlare della propria semplicità
+conduce a essere meno semplici. Una grande accusa, credo,
+deve levarsi contro i moderni fautori della vita semplice --
+la vita semplice in tutte le sue varie forme, dal vegetarianismo
+all'onorevole coerenza dei Duchobori. Questa accusa
+contro di loro si regge su questo, che ci renderebbero semplici nelle
+cose senza importanza, ma complessi nelle cose che contano.
+Ci renderebbero semplici nelle cose che non importano --
+cioè nella dieta, nel vestire, nell'etichetta, nel sistema economico.
+Ma ci renderebbero complessi nelle cose che importano --
+nella [[philosophy|filosofia]], nella fedeltà, nell'accettazione spirituale,
+e nel rifiuto spirituale. Non importa poi molto se
+un uomo mangi un pomodoro alla griglia o un pomodoro semplice; importa moltissimo
+invece se mangi un pomodoro semplice con una mente alla griglia.
+L'unica specie di semplicità che valga la pena di conservare è la semplicità
+del cuore, la semplicità che accetta e gode.
+Vi può essere un ragionevole [[Doubt|dubbio]] su quale sistema la preservi;
+non vi può certo essere alcun [[Doubt|dubbio]] che un sistema di semplicità la distrugga.
+Vi è più semplicità nell'uomo che mangia caviale per
+impulso che nell'uomo che mangia fiocchi d'uva per principio.
+L'errore capitale di questa gente si ritrova proprio nella frase
+alla quale è più affezionata -- «vivere povero e pensare alto».
+Questa gente non ha bisogno, né trarrebbe alcun miglioramento, dal
+vivere povero e pensare alto. Ha bisogno del contrario.
+Trarrebbe miglioramento dal vivere alto e pensare povero.
+Un poco di vita alta (lo dico, avendo piena coscienza della responsabilità,
+un poco di vita alta) insegnerebbe loro la forza e il significato
+delle festività umane, del banchetto che si perpetua fin dal
+principio del mondo. Insegnerebbe loro il fatto storico
+che l'artificiale è, semmai, più antico del naturale.
+Insegnerebbe loro che la coppa dell'amore è antica quanto ogni fame.
+Insegnerebbe loro che il ritualismo è più antico d'ogni religione.
+E un poco di pensiero povero insegnerebbe loro quanto aspra e
+fantasiosa sia la massa della loro stessa etica, quanto molto civilizzato
+e molto complicato debba essere il cervello del tolstoiano che
+crede davvero essere un male [[Love|amare]] la propria patria e cosa iniqua
+il vibrare un colpo.
+
+Un uomo s'avvicina, in sandali e semplice veste, un pomodoro crudo
+saldamente stretto nella destra, e dice: «Gli affetti della famiglia e
+della patria del pari sono ostacoli al più pieno sviluppo dell'[[Love|amore]] umano»;
+ma il pensatore povero gli risponderà soltanto, con una [[Wonder|meraviglia]] non priva
+d'ammirazione: «Quanto disturbo dovete esservi preso
+per arrivare a sentire così». La vita alta rifiuterà il pomodoro.
+Il pensiero povero rifiuterà con eguale decisione l'idea dell'invariabile
+peccaminosità della guerra. La vita alta ci convincerà che nulla è
+più materialistico che disprezzare un piacere in quanto puramente materiale.
+E il pensiero povero ci convincerà che nulla è più materialistico
+che riservare il nostro orrore principalmente alle ferite materiali.
+
+L'unica semplicità che importi è la semplicità del cuore.
+Se quella se n'è andata, non la si può richiamare con rape o
+vestiti di tessuto cellulare; ma soltanto con [[Tears|lacrime]] e terrore e i fuochi
+che non si spengono. Se quella rimane, importa assai poco
+che qualche poltrona di primo stile vittoriano rimanga insieme a lei.
+Mettiamo un complesso intingolo dentro un semplice vecchio signore;
+non mettiamo un semplice intingolo dentro un complesso vecchio signore.
+Finché la società umana lascerà in [[Alone|pace]] il mio interno spirituale,
+le permetterò, con relativa sottomissione, di operare la sua sfrenata
+volontà sul mio interno fisico. Mi sottometterò ai sigari.
+Abbraccerò mansueto una bottiglia di Borgogna. Mi umilierò
+fino a una carrozza da nolo. Se solo per questo mezzo io possa conservare
+la verginità dello spirito, che gode con stupore e [[Fear|paura]].
+Non dico che questi siano gli unici metodi per conservarla.
+Inclino a credere che ve ne siano altri. Ma non voglio aver
+nulla a che fare con una semplicità cui manchino la [[Fear|paura]], lo stupore,
+e la gioia del pari. Non voglio aver nulla a che fare con la diabolica
+visione d'un [[Child|bambino]] troppo semplice per amare i balocchi.
+
+Il [[Child|bambino]] è, in verità, in queste e in molte altre faccende, la miglior guida.
+E in nulla il [[Child|bambino]] è così giustamente fanciullesco, in nulla
+esibisce con più esattezza l'ordine più sano della semplicità,
+quanto nel fatto che egli vede ogni cosa con un semplice piacere,
+persino le cose complesse. Il falso tipo di naturalezza insiste
+sempre sulla distinzione tra il naturale e l'artificiale.
+La specie più alta di naturalezza ignora quella distinzione.
+Per il [[Child|bambino]] l'albero e il lampione sono naturali e
+artificiali l'uno quanto l'altro; o piuttosto, nessuno dei due è naturale
+ma entrambi [[Supernatural|soprannaturali]]. Poiché entrambi sono splendidi e inspiegati.
+Il fiore con cui Dio corona l'uno, e la fiamma con cui
+Sam il lampionaio corona l'altro, sono egualmente dell'oro
+delle fiabe. In mezzo ai più selvaggi campi il più rustico
+[[Child|bambino]] sta, dieci a uno, giocando alle locomotive a vapore. E l'unica obiezione spirituale
+o filosofica alle locomotive a vapore non è che gli uomini le paghino
+o vi lavorino, o le facciano bruttissime, e neppure che gli uomini
+ne siano uccisi; ma soltanto che gli uomini non ci giocano.
+Il male è che la poesia fanciullesca del meccanismo a molla non permane.
+Il torto non è che le macchine siano troppo ammirate, ma che
+non siano ammirate abbastanza. Il peccato non è che le macchine siano meccaniche,
+ma che gli uomini siano meccanici.
+
+In questa faccenda, dunque, come in tutte le altre faccende trattate
+in questo libro, la nostra conclusione principale è che ciò che occorre è un
+punto di vista fondamentale, una [[philosophy|filosofia]] o una religione,
+e non un qualche mutamento d'abitudine o di consuetudine sociale. Le cose di cui
+abbiamo più bisogno per gli immediati scopi pratici sono tutte astrazioni.
+Abbiamo bisogno d'una giusta visione della sorte umana, d'una giusta visione della
+società umana; e se vivessimo avidamente e collericamente
+nell'entusiasmo di quelle cose, vivremmo, ipso facto,
+semplicemente nel senso genuino e spirituale.
+Il [[Desire|desiderio]] e il pericolo rendono chiunque semplice. E a coloro che ci parlano
+con intromettente eloquenza del Jaeger e dei pori della pelle,
+e del Plasmon e delle pareti dello stomaco, ad essi non saranno
+scagliate se non le parole che si scagliano contro i bellimbusti e i ghiottoni:
+«Non datevi pensiero di che cosa mangerete o di che cosa berrete,
+o di che cosa vi vestirete. Poiché di tutte queste cose
+vanno in cerca i Gentili. Ma cercate prima il regno di Dio e
+la Sua giustizia, e tutte queste cose vi saranno date in aggiunta».
+Quelle sorprendenti parole non sono soltanto una straordinariamente buona,
+pratica politica; sono anche una superlativamente buona igiene.
+L'unico modo supremo di far andare per il verso giusto tutti quei processi,
+i processi della salute, e della forza, e della grazia, e della [[Beauty|bellezza]],
+l'unico e solo modo d'esser certi della loro precisione,
+è pensare a qualcos'altro. Se un uomo è deciso a inerpicarsi fino al
+settimo cielo, può stare del tutto tranquillo sui pori della sua pelle.
+Se aggioga il proprio carro a una stella, il procedimento avrà
+un effetto quanto mai soddisfacente sulle pareti del suo stomaco.
+Poiché quel che si chiama «darsi pensiero», la cosa per cui
+il miglior termine moderno è «razionalizzare», è per sua [[Nature|natura]]
+inapplicabile a tutte le cose piane e urgenti. Gli uomini si danno
+pensiero e ponderano razionalisticamente, toccando cose remote --
+cose che solo teoricamente importano, come il transito
+di [[Venus|Venere]]. Ma solo a loro rischio e pericolo possono gli uomini razionalizzare su
+una faccenda tanto pratica quanto la salute.

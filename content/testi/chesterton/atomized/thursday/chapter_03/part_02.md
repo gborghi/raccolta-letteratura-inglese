@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/thursday-(chesterton)">The Man Who Was Thursday</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/thursday/chapter_03/part_01">‹ part 01</a><a class="ex-next" href="/testi/chesterton/atomized/thursday/chapter_03/part_03">part 03 ›</a></div>
@@ -141,3 +143,141 @@ address to which a curate could not have listened with pleasure
 listen to it with pleasure (renewed cheers). The man who is fitted
 to make a good curate is not fitted to make a resolute, forcible,
 and efficient [[thursday|Thursday]] (hear, hear)."
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/thursday-(chesterton)">The Man Who Was Thursday</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/thursday/chapter_03/part_01">‹ part 01</a><a class="ex-next" href="/testi/chesterton/atomized/thursday/chapter_03/part_03">part 03 ›</a></div>
+</nav>
+
+# [[thursday]] — Capitolo 3 (parte 2)
+
+«Propongo che il compagno Gregory sia eletto [[thursday|Giovedì]]», e si rimise
+goffamente a sedere.
+
+«Qualcuno appoggia?» chiese il presidente.
+
+Un ometto con una giacca di velluto e la barba a punta appoggiò.
+
+«Prima di mettere la questione ai voti» disse il presidente,
+«invito il compagno Gregory a fare una dichiarazione.»
+
+Gregory si [[Rose|alzò]] tra un gran rombo di applausi.  Il suo volto era mortalmente pallido,
+sicché per contrasto i suoi strani capelli rossi parevano quasi scarlatti.
+Ma sorrideva ed era del tutto a suo agio.  Aveva deciso,
+e vedeva la sua strategia migliore chiara davanti a sé come una bianca [[Road|strada]].
+La sua occasione migliore era di fare un discorso addolcito e ambiguo,
+tale da lasciare nella mente del [[Detective|detective]] l'impressione
+che la fratellanza anarchica fosse dopotutto una faccenda assai mite.
+Confidava nella propria potenza letteraria, nella sua capacità di suggerire
+sottili sfumature e di scegliere le parole perfette.  Pensava che con cura
+avrebbe potuto riuscire, malgrado tutta la gente intorno a lui, a trasmettere
+un'immagine dell'istituzione, sottilmente e delicatamente falsa.
+Syme aveva un tempo pensato che gli anarchici, sotto tutta la loro spavalderia,
+non facessero altro che lo [[Fool|sciocco]].  Non poteva egli ora, nell'ora del pericolo,
+far sì che Syme lo pensasse di nuovo?
+
+«Compagni» esordì Gregory, con voce bassa ma penetrante,
+«non è necessario che io vi dica quale sia la mia linea politica,
+poiché è anche la vostra.  Il nostro credo è stato calunniato,
+è stato sfigurato, è stato completamente confuso e occultato,
+ma non è mai stato mutato.  Coloro che parlano
+dell'anarchismo e dei suoi pericoli vanno dovunque e in ogni dove per ottenere
+le loro informazioni, tranne che da noi, tranne che alla fonte.
+Imparano a conoscere gli anarchici dai romanzetti da quattro soldi; imparano
+a conoscere gli anarchici dai giornali dei bottegai; imparano
+a conoscere gli anarchici dall'Ally Sloper's Half-Holiday e dallo
+Sporting Times.  Non imparano mai a conoscere gli anarchici dagli anarchici.
+Non abbiamo alcuna possibilità di smentire le montagne di calunnie che
+ci vengono ammassate sul capo da un capo all'altro dell'Europa.
+L'uomo che ha sempre sentito dire che siamo pestilenze ambulanti non ha
+mai sentito la nostra risposta.  So che non la sentirà stanotte,
+per quanto la mia passione possa squarciare il tetto.  Poiché è nel profondo,
+profondo sotto terra che ai perseguitati è concesso di riunirsi,
+come i cristiani si riunivano nelle Catacombe.  Ma se, per qualche
+incredibile accidente, vi fosse qui sta[[Night|notte]] un uomo che per tutta
+la vita ci avesse così immensamente frainteso, io gli porrei questa
+domanda: "Quando quei cristiani si riunivano in quelle Catacombe,
+che sorta di reputazione morale avevano nelle strade là sopra?
+Quali storie sulle loro atrocità venivano narrate da un romano colto
+a un altro?  Supponete" (gli direi), "supponete che noi
+non facciamo che ripetere quel tuttora misterioso [[Paradox|paradosso]] della [[history|storia]].
+Supponete che noi appaiamo scioccanti come i cristiani perché siamo
+davvero innocui come i cristiani.  Supponete che appaiamo folli
+come i cristiani perché siamo davvero altrettanto miti".»
+
+L'applauso che aveva salutato le frasi d'apertura si era
+andato via via affievolendo, e all'ultima parola cessò di colpo.
+Nell'improvviso [[Silence|silenzio]], l'uomo dalla giacca di velluto disse,
+con voce alta e stridula —
+
+«Io non sono mite!»
+
+«Il compagno Witherspoon ci dice» riprese Gregory, «di non essere mite.
+Ah, come poco conosce se stesso!  Le sue parole sono, invero, stravaganti;
+il suo aspetto è feroce, e persino (per un gusto ordinario) sgradevole.
+Ma solo l'occhio di un'[[Friendship|amicizia]] profonda e delicata come la mia può scorgere
+il profondo fondamento di solida mitezza che sta alla sua base,
+troppo profondo perché egli stesso possa vederlo.  Ripeto, noi siamo i veri primi cristiani,
+solo che siamo giunti troppo tardi.  Siamo semplici, come loro veneravano il semplice —
+guardate il compagno Witherspoon.  Siamo modesti, come loro erano modesti — guardate me.
+Siamo misericordiosi —»
+
+«No, no!» esclamò il signor Witherspoon dalla giacca di velluto.
+
+«Dico che siamo misericordiosi» ripeté Gregory furiosamente,
+«come i primi cristiani erano misericordiosi.  Eppure questo non
+impedì loro di essere accusati di mangiare carne umana.
+Noi non mangiamo carne umana —»
+
+«Vergogna!» gridò Witherspoon.  «E perché no?»
+
+«Il compagno Witherspoon» disse Gregory, con una gaiezza febbrile,
+«è ansioso di sapere perché nessuno lo mangi (risate). Nella nostra società,
+in ogni caso, che lo ama sinceramente, che è fondata sull'[[Love|amore]] —»
+
+«No, no!» disse Witherspoon, «abbasso l'[[Love|amore]].»
+
+«Che è fondata sull'[[Love|amore]]» ripeté Gregory, digrignando i denti,
+«non vi sarà alcuna difficoltà quanto alle mete che perseguiremo come [[Body|corpo]],
+o che perseguirei io se fossi scelto quale rappresentante di quel [[Body|corpo]].
+Superbamente incuranti delle calunnie che ci rappresentano come assassini e
+nemici della società umana, perseguiremo con [[Courage|coraggio]] morale e quieta
+pressione intellettuale gli ideali permanenti della fratellanza e della semplicità.»
+
+Gregory riprese il suo posto e si passò la mano sulla fronte.
+Il [[Silence|silenzio]] fu improvviso e imbarazzante, ma il presidente si [[Rose|alzò]] come un automa,
+e disse con voce incolore —
+
+«Qualcuno si oppone all'elezione del compagno Gregory?»
+
+L'assemblea sembrava incerta e inconsciamente delusa,
+e il compagno Witherspoon si agitava irrequieto sul suo posto e
+borbottava nella folta barba.  Per il puro slancio della routine,
+tuttavia, la mozione sarebbe stata messa ai voti e approvata.
+Ma proprio mentre il presidente apriva bocca per metterla ai voti, Syme balzò
+in piedi e disse con voce piccola e quieta —
+
+«Sì, signor presidente, io mi oppongo.»
+
+Il fatto più efficace nell'oratoria è un cambiamento inatteso nella voce.
+Il signor [[Gabriel Syme]] evidentemente s'intendeva di oratoria.  Dette quelle prime formali
+parole in tono moderato e con una breve semplicità, fece sì che la parola successiva
+risuonasse e rimbombasse nella volta come se una delle armi da fuoco avesse sparato.
+
+«Compagni!» gridò, con una voce che fece sobbalzare ogni uomo fuori
+dai propri stivali, «siamo venuti qui per questo?  Viviamo sottoterra
+come topi per ascoltare discorsi come questo?  Sono discorsi
+che potremmo ascoltare mentre mangiamo focaccine a una festicciola di scuola [[Sunday|domenicale]].
+Rivestiamo forse queste pareti di armi e sbarriamo quella porta con la [[Death|morte]]
+per timore che qualcuno venga a sentire il compagno Gregory dirci,
+"Siate buoni, e sarete felici", "L'onestà è la miglior politica",
+e "La virtù è premio a se stessa"? Non c'era una parola nel discorso
+del compagno Gregory che un curato non avrebbe potuto ascoltare con piacere
+(bene, bene). Ma io non sono un curato (fragorosi applausi), e non l'ho
+ascoltato con piacere (rinnovati applausi). L'uomo che è adatto
+a fare un buon curato non è adatto a fare un [[thursday|Giovedì]] risoluto, energico
+ed efficiente (bene, bene).»

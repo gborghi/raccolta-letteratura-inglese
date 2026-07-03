@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/innocence-(chesterton)">The Innocence of Father Brown</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/innocence/story_06_the_honour_of_israel_gow/part_04">‹ part 04</a><a class="ex-next" href="/testi/chesterton/atomized/innocence/story_07_the_wrong_shape/part_01">part 01 ›</a></div>
@@ -147,3 +149,147 @@ And, indeed, when Flambeau crossed the hill that morning, he saw
 that strange being, the just miser, digging at the desecrated grave,
 the plaid round his throat thrashing out in the mountain wind;
 the sober top hat on his head.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/innocence-(chesterton)">The Innocence of Father Brown</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/innocence/story_06_the_honour_of_israel_gow/part_04">‹ part 04</a><a class="ex-next" href="/testi/chesterton/atomized/innocence/story_07_the_wrong_shape/part_01">part 01 ›</a></div>
+</nav>
+
+# [[innocence]] — L’[[Honour|onore]] di Israel Gow (parte 5)
+
+Tutti gli angoli del cielo si andavano rischiarando in azzurro e argento;
+gli uccelli cinguettavano tra i piccoli alberi del giardino;
+così forte che pareva quasi che fossero gli alberi stessi a parlare.
+Ma i tre uomini erano abbastanza silenziosi.
+
+«Ebbene, rinuncio a tutto», disse infine Flambeau con foga.
+«Il mio cervello e questo mondo non si adattano l’uno all’altro; e la faccenda finisce qui.
+Tabacco da fiuto, libri di preghiere sciupati, e le interiora dei carillon — che cosa —»
+
+Brown sollevò la fronte tormentata e picchiò sul manico della vanga con
+un’insofferenza del tutto insolita in lui.  «Oh, ma via, via, via, via!» gridò.
+«Tutto questo è chiaro come il sole.  Ho capito il tabacco e gli ingranaggi,
+e via dicendo, non appena ho aperto gli occhi stamattina.  E da allora
+ne ho parlato a fondo col vecchio Gow, il giardiniere, che non è né così sordo né
+così stupido come finge.  Non c’è nulla di storto nei reperti sciolti.
+Mi sbagliavo anche a proposito del messale strappato; non c’è alcun male in quello.  Ma è
+quest’ultima faccenda.  Profanare tombe e rubare le teste dei morti —
+non c’è forse del male in questo?  Non c’è forse ancora della magia nera in questo?
+Questo non si accorda con la storia assai semplice del tabacco e delle candele».
+E, tornando a camminare a grandi passi, fumava cupamente.
+
+«Amico mio», disse Flambeau, con un umorismo tetro, «dovete
+essere prudente con me e ricordare che un tempo fui un criminale.
+Il grande vantaggio di quella condizione era che inventavo sempre
+la storia da me, e la mettevo in atto con la rapidità che mi piaceva.  Questo mestiere
+del detective, che consiste nell’aspettare, è troppo per la mia impazienza francese.
+Per tutta la vita, nel bene o nel male, ho fatto le cose all’istante;
+ho sempre battuto i miei duelli la mattina dopo; ho sempre pagato i conti
+seduta stante; non ho mai nemmeno rimandato una visita dal dentista —»
+
+La pipa di Padre Brown gli cadde di bocca e si spezzò in tre pezzi sul
+sentiero di ghiaia.  Egli restò lì a roteare gli occhi, la perfetta immagine di un idiota.
+«Signore, che rapa sono!» continuava a dire.  «Signore, che rapa!»
+Poi, in un modo alquanto barcollante, cominciò a ridere.
+
+«Il dentista!» ripeté.  «Sei ore nell’abisso spirituale,
+e tutto perché non ho mai pensato al dentista!  Un pensiero così semplice,
+così bello e sereno!  Amici, abbiamo passato
+una notte all’inferno; ma ora il sole è sorto, gli uccelli cantano,
+e la radiosa figura del dentista consola il mondo».
+
+«Un po’ di senso lo caverò da questa faccenda», gridò Flambeau, avanzando a grandi passi,
+«dovessi usare le torture dell’Inquisizione».
+
+Padre Brown represse quella che pareva una momentanea inclinazione
+a danzare sul prato ormai illuminato dal sole e gridò in modo del tutto pietoso, come un bambino:
+«Oh, lasciatemi essere sciocco per un po’.  Non sapete quanto sono stato infelice.
+E ora so che in tutta questa faccenda non c’è stato alcun peccato profondo.
+Solo un po’ di follia, forse — e a chi importa di questo?»
+
+Fece un altro giro su se stesso, poi li affrontò con gravità.
+
+«Questa non è una storia di delitto», disse; «è piuttosto la storia
+di una strana e contorta onestà.  Abbiamo a che fare con l’unico
+uomo sulla terra, forse, che non ha preso più del suo dovuto.
+È uno studio nella feroce logica vivente che è stata la religione
+di questa razza.
+
+«Quell’antica filastrocca locale sulla casa di Glengyle —
+                 Come verde linfa agli alberi d’estate,
+                 così è l’oro rosso agli Ogilvie —
+era letterale non meno che metaforica.  Non voleva soltanto
+dire che i Glengyle cercavano la ricchezza; era anche vero
+che essi raccoglievano letteralmente oro; possedevano una enorme collezione
+di ornamenti e utensili di quel metallo.  Erano, di fatto,
+avari la cui mania aveva preso quella piega.  Alla luce di questo fatto,
+ripercorrete tutte le cose che abbiamo trovato nel castello.
+Diamanti senza i loro anelli d’oro; candele senza i loro
+candelieri d’oro; tabacco senza le tabacchiere d’oro;
+mine di matita senza i portamine d’oro; un bastone da passeggio
+senza il suo pomo d’oro; ingranaggi senza gli orologi d’oro —
+o piuttosto gli orologi da taschino.  E, per folle che suoni, poiché le aureole
+e il nome di Dio negli antichi messali erano d’oro vero,
+anche questi furono portati via».
+
+Il giardino parve rischiararsi, l’erba farsi più gaia
+nel sole che si rafforzava, man mano che la folle verità veniva narrata.
+Flambeau accese una sigaretta mentre l’amico proseguiva.
+
+«Furono portati via», continuò Padre Brown; «furono portati via —
+ma non rubati.  Dei ladri non avrebbero mai lasciato questo mistero.
+Dei ladri avrebbero preso le tabacchiere d’oro, tabacco e tutto;
+i portamine d’oro, mina e tutto.  Abbiamo a che fare con un
+uomo dalla coscienza particolare, ma di certo con una coscienza.
+Ho trovato quel folle moralista stamattina laggiù nell’orto,
+e ho ascoltato tutta la storia.
+
+«Il defunto Archibald Ogilvie fu il più vicino a essere un uomo buono
+che sia mai nato a Glengyle.  Ma la sua amara virtù prese la piega
+del misantropo; si crucciava per la disonestà dei suoi antenati,
+dalla quale, in qualche modo, generalizzava una disonestà di tutti gli uomini.
+Più di tutto diffidava della filantropia o del dare gratuito;
+e giurò che se avesse trovato un solo uomo che prendesse esattamente ciò che gli spettava,
+costui avrebbe avuto tutto l’oro di Glengyle.  Lanciata questa sfida
+all’umanità, si rinchiuse, senza la minima aspettativa
+che vi si rispondesse.  Un giorno, tuttavia, un ragazzo sordo e in apparenza
+insensato, di un villaggio lontano, gli portò un telegramma in ritardo;
+e Glengyle, con la sua acida faceziosità, gli diede un quarto di penny nuovo di zecca.
+Almeno credette di averlo fatto, ma quando rivoltò il suo
+resto trovò il quarto di penny nuovo ancora lì e uno sterlino sparito.
+L’incidente gli aprì prospettive di sogghignante speculazione.
+In un modo o nell’altro, il ragazzo avrebbe mostrato l’untuosa avidità della specie.
+O sarebbe svanito, un ladro che ruba una moneta; oppure sarebbe
+tornato di soppiatto a restituirla virtuosamente, uno snob in cerca di ricompensa.
+Nel cuore di quella notte lord Glengyle fu tirato giù dal letto —
+perché viveva solo — e costretto ad aprire la porta al sordo idiota.
+L’idiota portava con sé, non lo sterlino, ma esattamente diciannove
+scellini e undici pence e tre quarti di resto.
+
+«Allora la selvaggia esattezza di quell’azione afferrò la mente del pazzo signore
+come il fuoco.  Giurò di essere Diogene, che a lungo aveva cercato un uomo onesto,
+e finalmente ne aveva trovato uno.  Fece un nuovo testamento, che io ho visto.
+Prese quel giovane letterale nella sua immensa e trascurata casa, e lo educò
+come suo unico servitore e — in un modo bizzarro — suo erede.
+E qualunque cosa quella strana creatura comprenda, comprese
+in modo assoluto le due idee fisse del suo signore: primo, che la lettera
+del diritto è tutto; e secondo, che egli stesso doveva avere
+l’oro di Glengyle.  Fin qui, è tutto; ed è semplice.
+Ha spogliato la casa di tutto l’oro, e non ha preso un solo granello che non fosse oro;
+neppure un granello di tabacco da fiuto.  Ha sollevato la foglia d’oro da un’
+antica miniatura, pienamente soddisfatto di lasciare intatto il resto.
+Tutto questo l’ho capito; ma non riuscivo a capire questa faccenda del teschio.
+Ero davvero a disagio per quella testa umana sepolta tra le patate.
+Mi angustiava — finché Flambeau non pronunciò la parola.
+
+«Andrà tutto bene.  Rimetterà il teschio nella tomba,
+quando avrà tolto l’oro dal dente».
+
+E, in effetti, quando Flambeau attraversò la collina quella mattina, vide
+quello strano essere, il giusto avaro, che scavava presso la tomba profanata,
+il plaid intorno alla gola sbattuto dal vento della montagna;
+il sobrio cilindro sul capo.

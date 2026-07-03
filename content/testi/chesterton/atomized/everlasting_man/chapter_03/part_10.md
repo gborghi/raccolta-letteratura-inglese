@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/everlasting-man-(chesterton)">The Everlasting Man</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/everlasting_man/chapter_03/part_09">‹ part 09</a><a class="ex-next" href="/testi/chesterton/atomized/everlasting_man/chapter_03/part_11">part 11 ›</a></div>
@@ -122,3 +124,122 @@ These far-flung comparisons are nowhere so common as in the Gospels;
 and to me they suggest something very vast.  So a thing solitary
 and solid, with the added dimension of depth or height, might tower
 over the flat creatures living only on a plane.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/everlasting-man-(chesterton)">The Everlasting Man</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/everlasting_man/chapter_03/part_09">‹ part 09</a><a class="ex-next" href="/testi/chesterton/atomized/everlasting_man/chapter_03/part_11">part 11 ›</a></div>
+</nav>
+
+
+* * *
+
+III
+
+LA STORIA PIÙ STRANA DEL MONDO
+
+Nel capitolo precedente ho deliberatamente insistito su quello che
+oggi sembra essere un aspetto trascurato del racconto del Nuovo Testamento,
+ma nessuno supporrà, immagino, che ciò intenda oscurare
+quell'altro aspetto che può veramente dirsi umano. Che il Cristo fosse ed è
+il più misericordioso dei giudici e il più partecipe degli amici
+è un fatto di ben maggiore importanza nella nostra vita privata
+che in qualsivoglia speculazione storica. Ma lo scopo
+di questo libro è mostrare che qualcosa di unico è stato sommerso
+da vane generalizzazioni; e a tale scopo è pertinente
+insistere sul fatto che perfino ciò che vi era di più universale era anche di più originale.
+Prendiamo, per esempio, un tema che è davvero congeniale
+all'animo moderno, come non lo sono le vocazioni ascetiche cui si è accennato poco fa.
+L'esaltazione dell'infanzia è qualcosa che noi comprendiamo davvero;
+ma non era affatto una cosa che allora, in quel senso, fosse compresa.
+Se volessimo un esempio dell'originalità dei Vangeli
+difficilmente potremmo sceglierne uno più forte o più sorprendente.
+Quasi duemila anni dopo, ci troviamo per caso
+in una disposizione d'animo che sente davvero il fascino mistico del bambino;
+lo esprimiamo in romanzi e rimpianti sull'infanzia, in Peter Pan
+o in The Child's Garden of Verses. E delle parole
+di Cristo possiamo dire, con un anticristiano tanto rabbioso quanto Swinburne:
+
+ 'No sign that ever was given
+  To faithful or faithless eyes
+  Showed ever beyond clouds riven
+  So clear a paradise.
+
+  Earth's creeds may be seventy times seven
+  And blood have defiled each creed
+  But if such be the kingdom of heaven
+  It must be heaven indeed.'
+
+Ma quel paradiso non fu limpido finché il cristianesimo non lo ebbe a poco a poco
+rischiarato. Il mondo pagano, in quanto tale, non avrebbe compreso alcunché
+di simile a una seria proposta che un bambino sia più alto o più santo
+di un uomo. Sarebbe suonata come la proposta che un girino
+sia più alto o più santo di una rana. Alla mente meramente razionalistica
+sarebbe parso come dire che un bocciolo debba essere più bello di
+un fiore o che una mela acerba debba essere migliore di una matura.
+In altre parole, questo sentimento moderno è un sentimento interamente mistico.
+È mistico esattamente quanto il culto della verginità; anzi
+è il culto della verginità. Ma l'antichità pagana aveva un'idea assai più chiara
+della santità della vergine che della santità del bambino.
+Per varie ragioni siamo giunti oggi a venerare i bambini,
+forse in parte perché li invidiamo per il fatto che fanno ancora ciò che gli uomini
+facevano un tempo; come giocare a giochi semplici e godere delle fiabe. Oltre
+a questo, tuttavia, vi è un gran fondo di psicologia reale e sottile
+nel nostro apprezzamento dell'infanzia; ma se ne facciamo
+una scoperta moderna, dobbiamo ancora una volta ammettere che il Gesù storico
+di Nazareth l'aveva già scoperta duemila anni troppo presto.
+Non c'era certo nulla nel mondo intorno a lui che potesse aiutarlo
+alla scoperta. Qui il Cristo fu davvero umano; ma più umano
+di quanto un essere umano fosse allora verosimilmente capace di essere. Peter Pan non appartiene
+al mondo di Pan, bensì al mondo di Peter.
+
+Persino in materia di puro stile letterario, se supponiamo di essere così
+sufficientemente distaccati da guardarlo sotto quella luce, vi è una curiosa
+qualità a cui nessun critico sembra aver reso giustizia. Aveva, tra
+le altre cose, una singolare aria di ammucchiare torre su torre mediante l'uso
+dell'a fortiori; facendo una pagoda di gradi come i sette cieli.
+Ho già notato quella visione immaginativa quasi rovesciata
+che raffigurava l'impossibile penitenza delle Città della Pianura.
+Non v'è forse nulla di così perfetto in tutta la lingua o la letteratura
+quanto l'uso di questi tre gradi nella parabola dei gigli
+del campo; nella quale egli sembra dapprima prendere un piccolo fiore
+nella mano e notarne la semplicità e persino l'impotenza;
+poi d'un tratto lo dilata in colori sgargianti in tutti i palazzi
+e i padiglioni pieni di un gran nome nella leggenda nazionale e nella gloria nazionale;
+e poi, con un terzo capovolgimento ancora, lo fa raggrinzire di nuovo nel nulla
+con un gesto come se lo gettasse via `e se Dio così riveste
+l'erba che oggi è e domani è gettata nel forno—
+quanto più' È come la costruzione di una buona torre di Babele
+mediante bianca [[Magic|magia]] in un attimo e nel movimento di una mano;
+una torre issata d'un tratto fino al cielo, sulla cui cima si può
+scorgere da lontano, più alta di quanto avessimo immaginato possibile, la figura
+dell'uomo; sollevata da tre infiniti al di sopra di tutte le altre cose,
+su una scala stellata di limpida [[logic|logica]] e rapida [[Imagination|immaginazione]].
+Anche solo in senso letterario sarebbe più un capolavoro
+della maggior parte dei capolavori delle biblioteche; eppure sembra essere
+stato pronunciato quasi a caso, nel tempo in cui un uomo potrebbe cogliere un fiore.
+Ma anche solo in senso letterario, questo uso del comparativo
+in più gradi ha in sé una qualità che a me sembra alludere
+a cose assai più alte della moderna suggestione del semplice
+insegnamento dell'etica [[Pastoral|pastorale]] o comunitaria. Non v'è nulla che davvero
+indichi una mente sottile e, nel vero senso, superiore quanto
+questa capacità di paragonare una cosa più bassa con una più alta e poi quella
+più alta con una più alta ancora; di pensare su tre piani a un tempo.
+Non v'è nulla che richieda la specie più rara di saggezza quanto il vedere,
+poniamo, che il cittadino è più alto dello schiavo e tuttavia
+che l'[[Soul|anima]] è infinitamente più alta del cittadino o della [[City|città]].
+Non è affatto una facoltà che comunemente appartenga a questi
+semplificatori del Vangelo; a coloro che insistono su ciò che chiamano una semplice
+[[morality|moralità]] e altri chiamano una sentimentale [[morality|moralità]]. Non è affatto
+un ambito coperto da coloro che si accontentano di dire a tutti di restare in pace.
+Al contrario, ve n'è un esempio assai notevole nell'apparente
+incoerenza tra i detti di [[Christ|Cristo]] sulla pace e sulla [[Sword|spada]].
+È precisamente questa potenza che percepisce che, mentre una buona pace
+è migliore di una buona guerra, perfino una buona guerra è migliore di una cattiva pace.
+Questi paragoni spinti tanto lontano non sono in nessun luogo così frequenti come nei Vangeli;
+e a me suggeriscono qualcosa di assai vasto. Così una cosa solitaria
+e solida, con la dimensione aggiunta della profondità o dell'altezza, potrebbe torreggiare
+sopra le creature piatte che vivono soltanto su un piano.

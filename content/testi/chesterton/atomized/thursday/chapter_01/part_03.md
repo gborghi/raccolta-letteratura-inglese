@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/thursday-(chesterton)">The Man Who Was Thursday</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/thursday/chapter_01/part_02">‹ part 02</a><a class="ex-next" href="/testi/chesterton/atomized/thursday/chapter_02/part_01">part 01 ›</a></div>
@@ -188,3 +190,188 @@ The two got into it in [[Silence|silence]].  Gregory gave through the trap the
 address of an obscure public-[[house]] on the Chiswick bank of the [[River|river]].
 The cab whisked itself away again, and in it these two fantastics
 quitted their fantastic town.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/thursday-(chesterton)">The Man Who Was Thursday</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/thursday/chapter_01/part_02">‹ part 02</a><a class="ex-next" href="/testi/chesterton/atomized/thursday/chapter_02/part_01">part 01 ›</a></div>
+</nav>
+
+# [[thursday]] — Capitolo 1 (parte 3)
+
+Ella lo guardava di sotto a sopracciglia diritte; il suo volto era [[Grave|grave]]
+e aperto, e vi era caduta sopra l'[[Shadow|ombra]] di quella responsabilità irragionevole
+che sta in [[Bottom|fondo]] alla donna più frivola,
+la vigilanza materna che è antica quanto il mondo.
+
+«È dunque davvero un anarchico?», chiese.
+
+«Solo in quel senso di cui parlo», replicò Syme; «o, se preferisce,
+in quel controsenso».
+
+Ella corrugò le larghe sopracciglia e disse bruscamente...
+
+«Non userebbe davvero... bombe o cose del genere?».
+
+Syme scoppiò in una gran risata, che pareva troppo grande per la sua figura
+esile e alquanto azzimata.
+
+«Santo cielo, no!», disse, «quello va fatto anonimamente».
+
+E a ciò gli angoli della sua stessa bocca si aprirono in un sorriso,
+ed ella pensò con simultaneo piacere all'assurdità di Gregory
+e alla sua incolumità.
+
+Syme passeggiò con lei fino a una panca nell'angolo del [[Garden|giardino]],
+e continuò a riversare le sue opinioni.  Poiché era un
+uomo sincero, e nonostante le sue arie e moine superficiali,
+in fondo umile.  Ed è sempre l'uomo umile a
+parlare troppo; l'uomo orgoglioso sorveglia troppo se stesso.
+Difendeva la rispettabilità con violenza ed esagerazione.
+Si accalorava nell'elogio dell'ordine e del decoro.
+Per tutto il [[Time|tempo]] c'era un profumo di lillà attorno a lui.
+A un certo punto udì assai flebilmente, in qualche via lontana, un organetto
+cominciare a suonare, e gli parve che le sue parole eroiche
+si muovessero al ritmo di una minuscola melodia proveniente da sotto o da oltre il mondo.
+
+Fissò e parlò ai capelli rossi e al volto divertito della ragazza
+per quelli che parvero pochi minuti; e poi, sentendo che
+i gruppi in un simile luogo dovevano mescolarsi, si [[Rose|alzò]] in piedi.
+Con suo stupore, scoprì l'intero [[Garden|giardino]] vuoto.
+Tutti se n'erano andati da un pezzo, ed egli stesso se ne andò con
+scuse piuttosto affrettate.  Partì con una sensazione di champagne
+nella testa, che in seguito non seppe spiegarsi.
+Nei folli eventi che stavano per seguire questa ragazza non ebbe parte
+alcuna; non la rivide più finché tutta la sua storia non fu conclusa.
+Eppure, in qualche modo indescrivibile, ella continuò a ricorrere come
+un motivo musicale attraverso tutte le sue folli avventure successive,
+e la gloria dei suoi strani capelli corse come un filo rosso
+attraverso quei cupi e maldisegnati arazzi della [[Night|notte]].
+Poiché ciò che seguì fu tanto improbabile, che [[Well|ben]] avrebbe
+potuto essere [[A Dream|un sogno]].
+
+Quando Syme uscì nella via stellata, la trovò
+per il momento deserta.  Poi si rese conto (in qualche strano modo)
+che il [[Silence|silenzio]] era piuttosto un [[Silence|silenzio]] vivo che uno morto.
+Proprio fuori della porta si ergeva un lampione, il cui bagliore indorava
+le [[Leaves|foglie]] dell'albero che si sporgeva oltre la staccionata dietro di lui.
+A circa un piede dal lampione stava una figura quasi rigida
+e immobile quanto il lampione stesso.  Il cilindro alto e la lunga
+finanziera erano neri; il volto, in un'improvvisa [[Shadow|ombra]], era quasi
+altrettanto scuro.  Solo una frangia di capelli fiammeggianti contro la luce,
+e insieme qualcosa di aggressivo nell'atteggiamento, proclamavano che
+era il poeta Gregory.  Aveva qualcosa dell'aspetto di un bravo
+mascherato che attende, [[Sword|spada]] in pugno, il suo nemico.
+
+Fece una sorta di saluto incerto, che Syme ricambiò con maniera alquanto più formale.
+
+«La stavo aspettando», disse Gregory.  «Potrei scambiare
+una parola con lei?».
+
+«Certo.  Di che cosa?», chiese Syme in una sorta di fiacca [[Wonder|meraviglia]].
+
+Gregory vibrò un colpo di bastone contro il lampione, e poi contro l'albero.
+«Di questo e di questo», gridò; «dell'ordine e dell'anarchia.
+Ecco il suo prezioso ordine, quella magra lampada di ferro, brutta e sterile;
+ed ecco l'anarchia, ricca, viva, che si riproduce da sé... ecco l'anarchia,
+splendida di verde e d'oro».
+
+«Eppure», replicò Syme con pazienza, «per il momento
+lei vede l'albero soltanto alla luce della lampada.  Mi [[Wonder|domando]]
+quando mai vedrebbe la lampada alla luce dell'albero».
+Poi, dopo una pausa, disse: «Ma posso chiederle se se ne è stata
+qui fuori al buio soltanto per riprendere la nostra piccola disputa?».
+
+«No», esclamò Gregory, con voce che risuonò per la via,
+«non me ne sono stato qui per riprendere la nostra disputa, ma per porvi fine
+per sempre».
+
+Il [[Silence|silenzio]] scese di nuovo, e Syme, per quanto non capisse nulla,
+tese istintivamente l'orecchio a qualcosa di serio.  Gregory cominciò
+con voce suadente e con un sorriso alquanto sconcertante.
+
+«Signor Syme», disse, «questa sera lei è riuscito a fare qualcosa
+di piuttosto notevole.  Ha fatto a me ciò che nessun uomo nato di donna
+è mai riuscito a fare prima».
+
+«Davvero!».
+
+«Ora ricordo», riprese Gregory pensieroso, «un'altra persona vi riuscì.
+Il capitano di un battello a un penny (se ben ricordo)
+a Southend.  Lei mi ha irritato».
+
+«Me ne dispiace molto», replicò Syme con gravità.
+
+«Temo che la mia furia e il suo insulto siano troppo gravi per essere cancellati anche
+con una scusa», disse Gregory con gran calma.  «Nessun duello potrebbe cancellarli.
+Se anche la uccidessi non potrei cancellarli.  Vi è un solo
+modo per cui quell'insulto può essere cancellato, e quel modo lo scelgo io.
+Sto per provarle, a possibile sacrificio della mia vita e del mio [[Honour|onore]],
+che aveva torto in ciò che ha detto».
+
+«In ciò che ho detto?».
+
+«Lei ha detto che non facevo sul serio nell'essere anarchico».
+
+«Vi sono gradi di serietà», replicò Syme.  «Non ho
+mai dubitato che lei fosse perfettamente sincero in questo senso,
+che ritenesse ciò che diceva [[Well|ben]] degno d'esser detto, che
+ritenesse che un [[Paradox|paradosso]] potesse destare gli uomini a una [[Truth|verità]] trascurata».
+
+Gregory lo fissò con fermezza e pena.
+
+«E in nessun altro senso», chiese, «mi ritiene serio?
+Mi ritiene un flâneur che lascia cadere occasionali verità.
+Non pensa che in un senso più profondo, più letale,
+io faccia sul serio».
+
+Syme batté violentemente il bastone sulle pietre della [[Road|strada]].
+
+«Serio!», gridò.  «Santo cielo! è seria questa via?
+Sono serie queste maledette lanterne cinesi?  È serio tutto quanto il baraccone?
+Si viene qui e si dice un mucchio di sciocchezze, e forse [[Well|anche]] qualcosa di sensato,
+ma avrei ben poca stima di un uomo che non tenesse, sullo sfondo
+della propria vita, qualcosa di più serio di tutto questo chiacchierare...
+qualcosa di più serio, fosse pure la religione o soltanto il bere».
+
+«Molto [[Well|bene]]», disse Gregory, il volto rabbuiandosi, «vedrà
+qualcosa di più serio del bere o della religione».
+
+Syme restò ad attendere col suo consueto aspetto mite finché Gregory
+non riaprì le labbra.
+
+«Poco fa ha parlato di avere una religione.  È davvero vero
+che ne ha una?».
+
+«Oh», disse Syme con un sorriso raggiante, «adesso siamo tutti cattolici».
+
+«Allora posso chiederle di giurare su qualunque dio o santo la sua religione
+comporti che non rivelerà ciò che sto per dirle ad alcun
+figlio di Adamo, e specialmente non alla polizia?  Vuole giurarlo!
+Se prenderà su di sé questa terribile abnegazione, se acconsentirà
+a gravare la sua [[Soul|anima]] di un voto che non dovrebbe mai fare e di una conoscenza
+che non dovrebbe mai sognare, io le prometterò in cambio...».
+
+«Mi prometterà in cambio?», domandò Syme, mentre l'altro si interrompeva.
+
+«Le prometterò una serata assai divertente».
+Syme d'improvviso si tolse il cappello.
+
+«La sua offerta», disse, «è di gran lunga troppo idiota per essere rifiutata.
+Lei dice che un poeta è sempre un anarchico.  Non sono d'accordo;
+ma [[Hope|spero]] almeno che sia sempre un uomo di lealtà sportiva.
+Mi permetta, qui e ora, di giurare da cristiano, e promettere
+da buon compagno e da collega [[artist|artista]], che non
+riferirò nulla di tutto ciò, qualunque cosa sia, alla polizia.
+E ora, in nome di Colney Hatch, di che si tratta?».
+
+«Penso», disse Gregory con placida incongruenza, «che chiameremo una carrozza».
+
+Diede due lunghi fischi, e un calessino giunse sferragliando giù per la [[Road|strada]].
+I due vi salirono in [[Silence|silenzio]].  Gregory diede attraverso lo sportello l'indirizzo
+di un'oscura [[house|osteria]] sulla riva di Chiswick del [[River|fiume]].
+La carrozza sfrecciò via di nuovo, e in essa questi due esseri fantastici
+lasciarono la loro fantastica cittadina.

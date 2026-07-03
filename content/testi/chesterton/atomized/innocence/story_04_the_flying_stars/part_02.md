@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/innocence-(chesterton)">The Innocence of Father Brown</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/innocence/story_04_the_flying_stars/part_01">‹ part 01</a><a class="ex-next" href="/testi/chesterton/atomized/innocence/story_04_the_flying_stars/part_03">part 03 ›</a></div>
@@ -133,3 +135,133 @@ and evident intimacy with the pretty godchild, led Fischer to say,
 in his most sarcastic, magisterial manner:  "No doubt you
 have found something much lower than sitting on a top hat.
 What is it, pray?"
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/innocence-(chesterton)">The Innocence of Father Brown</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/innocence/story_04_the_flying_stars/part_01">‹ part 01</a><a class="ex-next" href="/testi/chesterton/atomized/innocence/story_04_the_flying_stars/part_03">part 03 ›</a></div>
+</nav>
+
+# [[innocence]] — Le [[Stars|stelle]] volanti (parte 2)
+
+Molto prima che questa rivelazione fosse completa, i due grandi battenti del portico
+si erano aperti nel mezzo, e il colonnello Adams (padre della giovane dama
+impellicciata) era uscito di persona a invitare dentro il suo eminente ospite.
+Era un uomo alto, abbronzato e assai taciturno, che portava una rossa papalina da fumo
+simile a un fez, che lo faceva assomigliare a uno dei Sirdar o Pascià inglesi
+in [[Egypt|Egitto]]. Con lui c'era suo cognato, giunto di recente dal Canada,
+un grande e piuttosto turbolento giovane gentiluomo-agricoltore, con una barba gialla,
+di nome James Blount. Con lui c'era anche la figura più insignificante
+del prete della vicina chiesa cattolica romana; poiché la defunta
+moglie del colonnello era stata cattolica, e i figli, come è consueto
+in tali casi, erano stati educati a seguirne la fede. Tutto sembrava
+dimesso nel prete, persino il nome, che era Brown;
+eppure il colonnello aveva sempre trovato in lui qualcosa di socievole,
+e spesso lo invitava a simili raduni familiari.
+
+Nell'ampio atrio d'ingresso della [[house|casa]] c'era spazio
+a sufficienza persino per Sir Leopold e per la rimozione dei suoi involti.
+Portico e vestibolo, in verità, erano indebitamente grandi in proporzione
+alla [[house|casa]], e formavano, per così dire, una grande sala con la porta
+d'ingresso a un'estremità, e il [[Bottom|fondo]] della scala all'altra.
+Davanti al grande [[Fire|fuoco]] dell'atrio, sopra il quale pendeva la [[Sword|spada]] del colonnello,
+il processo fu completato e la compagnia, incluso il saturnino Crook,
+presentata a Sir Leopold Fischer. Quel venerabile finanziere, tuttavia,
+sembrava ancora alle prese con parti del suo [[Well|ben]] foderato abbigliamento,
+e alla fine estrasse da una tasca assai interna della marsina
+un astuccio ovale nero che spiegò raggiante essere il suo regalo di Natale
+per la figlioccia. Con una schietta vanagloria
+che aveva in sé qualcosa di disarmante, tese l'astuccio
+davanti a tutti loro; si aprì di scatto a un tocco e li accecò a metà.
+Fu proprio come se una fontana di cristallo fosse zampillata nei loro occhi.
+In un nido di velluto arancio giacevano, come tre uova, tre bianchi e vividi
+diamanti che sembravano appiccare il [[Fire|fuoco]] all'aria stessa tutt'intorno a loro.
+Fischer stava raggiante di benevolenza, abbeverandosi dello stupore
+e dell'estasi della ragazza, della cupa ammirazione e dei burberi ringraziamenti
+del colonnello, della [[Wonder|meraviglia]] dell'intero gruppo.
+
+«Adesso li rimetto a posto, mia cara» disse Fischer, riponendo l'astuccio
+nelle falde della giacca. «Ho dovuto stare attento a portarli fin qui.
+Sono i tre grandi diamanti africani chiamati "Le Stelle Volanti",
+perché sono stati rubati così spesso. Tutti i grandi criminali ne sono sulle tracce;
+ma persino i rozzi individui che bighellonano per le strade e gli alberghi difficilmente
+riuscirebbero a tenerne lontane le mani. Avrei potuto perderli lungo la strada fin qui.
+Era assai possibile.»
+
+«Assai naturale, direi» ringhiò l'uomo dalla cravatta rossa.
+«Non li biasimerei se li avessero presi. Quando chiedono
+pane, e voi non date loro nemmeno una pietra, penso che
+potrebbero prendersi la pietra da soli.»
+
+«Non ti permetto di parlare così» esclamò la ragazza, che era
+pervasa da uno strano ardore. «Parli così solo da quando sei
+diventato un orribile come-si-chiama. Sai cosa intendo.
+Come chiami un uomo che vuole abbracciare lo spazzacamino?»
+
+«Un santo» disse Padre Brown.
+
+«Credo» disse Sir Leopold, con un sorriso altezzoso,
+«che Ruby intenda un socialista.»
+
+«Un radicale non è un uomo che vive di ravanelli»
+osservò Crook, con una certa impazienza; «e un conservatore non è
+un uomo che conserva la marmellata. Né, ve l'assicuro,
+un socialista è un uomo che desidera trascorrere una serata mondana
+con lo spazzacamino. Un socialista è un uomo che vuole che tutti
+i camini siano spazzati e che tutti gli spazzacamini siano pagati per farlo.»
+
+«Ma che non ti permetterà» aggiunse il prete a voce bassa,
+«di possedere la tua stessa fuliggine.»
+
+Crook lo guardò con occhio interessato e persino rispettoso.
+«C'è forse chi vuole possedere la fuliggine?» chiese.
+
+«Potrebbe esserci» rispose Brown, con aria meditabonda.
+«Ho sentito che i giardinieri la usano. E una volta ho reso felici sei
+bambini a Natale, quando il prestigiatore non venne,
+unicamente con della fuliggine... applicata esternamente.»
+
+«Oh, splendido» esclamò Ruby. «Oh, vorrei che lo facesse a questa compagnia.»
+
+Il turbolento canadese, il signor Blount, stava levando la sua voce sonora
+in applausi, e lo stupito finanziere la propria (con notevole
+disapprovazione), quando un colpo risuonò alla doppia porta d'ingresso.
+Il prete la aprì, e mostrò di nuovo il giardino anteriore di sempreverdi,
+araucaria e tutto il resto, ora raccolto nell'ombra contro uno splendido tramonto violetto.
+La scena così incorniciata era tanto colorata e pittoresca, come un fondale in una commedia,
+che per un momento dimenticarono l'insignificante figura ferma sulla soglia.
+Aveva un aspetto impolverato e un cappotto liso, evidentemente un comune fattorino.
+«C'è tra voi signori il signor Blount?» chiese, e porse incerto una
+lettera. Il signor Blount trasalì, e s'interruppe nel suo grido d'assenso.
+Strappando la busta con evidente stupore la lesse;
+il suo volto si rannuvolò un poco, poi si rischiarò, e si volse al
+cognato e ospite.
+
+«Mi dispiace essere un tale disturbo, colonnello» disse, con le allegre
+convenzioni coloniali; «ma le dispiacerebbe se una vecchia conoscenza
+venisse a trovarmi qui stasera per affari? In effetti si tratta di Florian,
+quel famoso acrobata e attore comico francese; lo conobbi anni fa nel West
+(era franco-canadese di nascita), e pare abbia degli affari per me,
+benché non riesca a immaginare quali.»
+
+«Ma certo, ma certo» rispose il colonnello con noncuranza. «Mio caro,
+ogni amico suo è il benvenuto. Non ho dubbio che si rivelerà un acquisto.»
+
+«Si tingerà la faccia di nero, se è questo che intende» esclamò Blount ridendo.
+«E non dubito che pesterebbe gli occhi a chiunque altro. Non m'importa;
+non sono raffinato. Mi piace la vecchia allegra pantomima in cui un uomo si siede
+sul proprio cilindro.»
+
+«Non sul mio, la prego» disse Sir Leopold Fischer, con dignità.
+
+«Via, via» osservò Crook con leggerezza, «non litighiamo.
+Ci sono scherzi più bassi che sedersi su un cilindro.»
+
+L'antipatia per il giovane dalla cravatta rossa, nata dalle sue opinioni predatorie
+e dalla sua evidente intimità con la graziosa figlioccia, indusse Fischer a dire,
+nel suo tono più sarcastico e magistrale: «Non dubito che lei
+abbia trovato qualcosa di ben più basso che sedersi su un cilindro.
+Che cos'è, di grazia?»

@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/wifrb11-(chesterton)">The Wisdom of Father Brown</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/wifrb11/story_02_the_paradise_of_thieves/part_03">‹ part 03</a><a class="ex-next" href="/testi/chesterton/atomized/wifrb11/story_02_the_paradise_of_thieves/part_05">part 05 ›</a></div>
@@ -124,3 +126,44 @@ when his son and Muscari had made a bold movement to break out of
 the brigand trap.  And now his red and trembling hand went reluctantly
 to his breast-pocket, and passed a bundle of papers and envelopes
 to the brigand.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/wifrb11-(chesterton)">The Wisdom of Father Brown</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/wifrb11/story_02_the_paradise_of_thieves/part_03">‹ part 03</a><a class="ex-next" href="/testi/chesterton/atomized/wifrb11/story_02_the_paradise_of_thieves/part_05">part 05 ›</a></div>
+</nav>
+
+# [[wifrb11]] — Il Paradiso dei Ladri (parte 4)
+
+     Muscari posò lievemente la dama sui piedi, le fece un inchino assurdamente teatrale, e poi, sguainando la sciabola, colpì con forza le tese redini dei cavalli, sicché essi si rialzarono in piedi e rimasero nell'erba tremanti. Fatto ciò, accadde una cosa oltremodo notevole. Un uomo quietissimo, vestito assai poveramente e straordinariamente abbronzato, uscì dai cespugli e afferrò le teste dei cavalli. Aveva un coltello di strana foggia, molto largo e ricurvo, allacciato alla cintura; non c'era null'altro di notevole in lui, tranne la sua comparsa improvvisa e silenziosa. Il poeta gli chiese chi fosse, ed egli non rispose.
+
+     Guardandosi intorno al gruppo confuso e sbigottito nella conca, Muscari si accorse allora che un altro uomo, abbronzato e cencioso, con uno schioppo sotto il braccio, li osservava dal ripiano appena sottostante, appoggiando i gomiti sull'orlo dell'erba. Poi levò lo sguardo verso la [[Road|strada]] dalla quale erano caduti e vide, chini su di loro, le bocche di altre quattro carabine e altri quattro volti bruni con occhi lucenti ma del tutto immobili.
+
+     «I briganti!» esclamò Muscari, con una specie di mostruosa allegria. «Era una trappola. Ezza, se mi farai il favore di sparare prima al cocchiere, possiamo ancora aprirci la strada a colpi di lama. Sono soltanto sei.»
+
+     «Il cocchiere,» disse Ezza, che se ne stava arcigno con le mani in tasca, «si dà il caso che sia un servitore del signor Harrogate.»
+
+     «Allora sparagli a maggior ragione,» esclamò il poeta con impazienza; «è stato corrotto per ribaltare il suo padrone. Poi mettete la dama in mezzo, e sfonderemo la linea lassù... con un assalto.»
+
+     E, avanzando tra l'erba selvatica e i [[Flowers|fiori]], si spinse senza paura contro le quattro carabine; ma accorgendosi che nessuno lo seguiva tranne il giovane Harrogate, si voltò, brandendo la sciabola per far cenno agli altri di avanzare. Scorse il corriere ancora ritto, leggermente a gambe larghe, al centro dell'anello erboso, le mani in tasca; e il suo magro, ironico volto italiano pareva allungarsi sempre più nella luce della sera.
+
+     «Pensavi, Muscari, che io fossi il fallito fra i nostri compagni di scuola,» disse, «e pensavi di essere tu il [[success|successo]]. Ma io ho avuto più successo di te e occupo un posto più grande nella [[history|storia]]. Io ho recitato poemi epici mentre tu li scrivevi.»
+
+     «Vieni, ti dico!» tuonò Muscari dall'alto. «Vuoi startene lì a dire sciocchezze su te stesso con una donna da salvare e tre uomini gagliardi ad aiutarti? Come ti fai chiamare?»
+
+     «Mi faccio chiamare Montano,» gridò lo strano corriere con voce ugualmente alta e piena. «Sono il [[King|Re]] dei Ladri, e do il benvenuto a tutti voi nel mio palazzo d'[[Summer|estate]].»
+
+     E mentre ancora parlava, altri cinque uomini silenziosi con le armi pronte uscirono dai cespugli, e si volsero verso di lui in attesa di ordini. Uno di essi teneva in mano un grande foglio.
+
+     «Questo grazioso nidietto dove stiamo tutti facendo un picnic,» proseguì il corriere-brigante, con lo stesso sorriso disinvolto eppure sinistro, «è noto, insieme ad alcune grotte che vi stanno sotto, con il nome di Paradiso dei Ladri. È la mia principale roccaforte su queste colline; poiché (come avrete senza dubbio notato) il nido d'aquila è invisibile sia dalla [[Road|strada]] in alto sia dalla valle in basso. È qualcosa di meglio che inespugnabile; è inosservabile. Qui perlopiù vivo, e qui certamente morirò, se mai i gendarmi mi rintracceranno. Non sono il genere di criminale che «si riserva la difesa», ma il genere migliore che si riserva l'ultima pallottola.»
+
+     Tutti lo fissavano fulminati e immobili, tranne padre Brown, che trasse un enorme sospiro come di sollievo e tastò la boccetta nella sua tasca. «Grazie a Dio!» mormorò; «così è molto più probabile. Il veleno appartiene a questo capobrigante, s'intende. Lo porta con sé perché non possa mai essere catturato, come Catone.»
+
+     Il Re dei Ladri, tuttavia, continuava il suo discorso con lo stesso genere di pericolosa cortesia. «Non mi resta che,» disse, «spiegare ai miei ospiti le condizioni sociali alle quali ho il piacere di intrattenerli. Non ho bisogno di esporre il bizzarro antico rituale del riscatto, che mi incombe di mantenere; e anche questo si applica soltanto a una parte della compagnia. Il reverendo padre Brown e il celebre signor Muscari li rilascerò domani all'alba e li scorterò fino ai miei avamposti. I poeti e i preti, se mi perdonate la semplicità del discorso, non hanno mai denaro. E dunque (poiché è impossibile cavarne alcunché), cogliamo l'occasione per mostrare la nostra ammirazione per la letteratura classica e la nostra reverenza per la Santa Chiesa.»
+
+     Si fermò con un sorriso sgradevole; e padre Brown batté ripetutamente le palpebre verso di lui, e parve d'un tratto ascoltare con grande attenzione. Il capitano dei briganti prese il grande foglio dal brigante che lo assisteva e, scorrendolo con l'occhio, proseguì: «Le mie altre intenzioni sono chiaramente esposte in questo documento pubblico, che farò circolare fra un momento; e che dopo di ciò verrà affisso a un albero presso ogni villaggio della valle, e a ogni crocevia delle colline. Non vi stancherò con il verbalismo, giacché potrete verificarlo; la sostanza del mio proclama è questa: annuncio in primo luogo di aver catturato il milionario inglese, il colosso della finanza, il signor Samuel Harrogate. Annuncio poi di aver trovato sulla sua persona banconote e titoli per duemila sterline, che egli mi ha ceduto. Ora, poiché sarebbe davvero immorale annunciare una cosa simile a un pubblico credulo se essa non fosse avvenuta, suggerisco che avvenga senza ulteriore indugio. Suggerisco che il signor Harrogate senior mi consegni ora le duemila sterline che ha in tasca.»
+
+     Il banchiere lo guardò da sotto le sopracciglia abbassate, rosso in volto e imbronciato, ma in apparenza intimidito. Quel balzo dalla carrozza in rovina pareva avergli consumato l'ultima virilità. Si era tenuto indietro con aria mogia quando il figlio e Muscari avevano fatto un ardito movimento per rompere la trappola dei briganti. E ora la sua mano rossa e tremante andò con riluttanza al taschino del petto, e passò un fascio di carte e di buste al brigante.

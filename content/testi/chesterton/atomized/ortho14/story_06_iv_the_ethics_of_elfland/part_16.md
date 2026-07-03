@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/ortho14-(chesterton)">Orthodoxy</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/ortho14/story_06_iv_the_ethics_of_elfland/part_15">‹ part 15</a><a class="ex-next" href="/testi/chesterton/atomized/ortho14/story_06_iv_the_ethics_of_elfland/part_17">part 17 ›</a></div>
@@ -118,3 +120,118 @@ quite as much of a miracle as an institution that cannot go wrong.
 The only explanation which immediately occurred to my mind was
 that [[Christianity]] did not come from heaven, but from hell. 
 Really, if Jesus of Nazareth was not [[Christ]], He must have been Antichrist.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/ortho14-(chesterton)">Orthodoxy</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/ortho14/story_06_iv_the_ethics_of_elfland/part_15">‹ part 15</a><a class="ex-next" href="/testi/chesterton/atomized/ortho14/story_06_iv_the_ethics_of_elfland/part_17">part 17 ›</a></div>
+</nav>
+
+# [[ortho14]] — Iv L'etica dell'Elfilandia (parte 16)
+
+Prendo un terzo caso; il più strano di tutti, perché coinvolge
+la sola vera obiezione alla [[Faith|fede]].  La sola vera obiezione alla
+religione cristiana è semplicemente che essa è una sola religione.
+Il mondo è un luogo grande, pieno di tipi di persone assai diversi.
+Il [[Christianity|Cristianesimo]] (si potrebbe ragionevolmente dire) è una cosa confinata a
+un solo tipo di persone; è cominciato in Palestina e si è praticamente arrestato
+con l'Europa.  Da giovane rimasi debitamente impressionato da questo argomento,
+e mi sentii molto attratto dalla dottrina spesso predicata nelle
+Società Etiche: intendo la dottrina secondo cui esiste un'unica
+grande chiesa inconsapevole di tutta l'umanità, fondata sull'onnipresenza
+della [[Conscience|coscienza]] umana.  I credi, si diceva, dividevano gli uomini;
+ma almeno la morale li univa.  L'[[Soul|anima]] poteva cercare le terre e le età più strane
+e più remote e trovarvi pur sempre l'essenziale buon senso etico.
+Poteva trovare Confucio sotto gli alberi d'Oriente, e lo troverebbe intento a scrivere
+«Non rubare».  Poteva decifrare il più oscuro geroglifico
+nel più primevo [[Desert|deserto]], e il significato, una volta decifrato, sarebbe stato
+«I bambini devono dire la [[Truth|verità]]».  Credevo in questa dottrina
+della fratellanza di tutti gli uomini nel possesso di un senso morale,
+e vi credo tuttora — insieme ad altre cose.  Ed ero profondamente irritato
+con il [[Christianity|Cristianesimo]] perché suggeriva (così supponevo) che intere età
+e imperi di uomini fossero sfuggiti del tutto a questa luce di giustizia e di ragione.
+Ma poi scoprii una cosa stupefacente.  Scoprii che proprio quelle persone
+che dicevano che l'umanità era una sola chiesa da Platone a Emerson erano
+proprio quelle persone che dicevano che la [[morality|moralità]] era cambiata del tutto,
+e che ciò che era giusto in un'età era sbagliato in un'altra.  Se chiedevo,
+poniamo, un altare, mi si diceva che non ne avevamo bisogno, poiché gli uomini nostri fratelli
+ci davano chiari oracoli e un solo credo nelle loro consuetudini e nei loro ideali universali.
+Ma se facevo mite osservare che una delle consuetudini universali degli uomini
+era proprio quella di avere un altare, allora i miei maestri agnostici si voltavano di netto
+e mi dicevano che gli uomini erano sempre stati nelle tenebre e nelle superstizioni
+dei selvaggi.  Scoprii che il loro quotidiano rimprovero al [[Christianity|Cristianesimo]]
+era che esso fosse la luce di un solo popolo e avesse lasciato tutti gli altri
+a morire nel buio.  Ma scoprii anche che il loro speciale vanto
+per sé stessi era che la scienza e il progresso fossero la scoperta di un solo popolo,
+e che tutti gli altri popoli fossero morti nel buio.  Il loro principale insulto
+al [[Christianity|Cristianesimo]] era in realtà il loro principale complimento a sé stessi,
+e sembrava esservi una strana iniquità in tutta la loro
+relativa insistenza sulle due cose.  Considerando qualche pagano
+o agnostico, dovevamo ricordare che tutti gli uomini avevano una sola religione;
+considerando qualche mistico o spiritista, dovevamo considerare soltanto
+quali assurde religioni avessero avuto certi uomini.  Potevamo fidarci dell'etica di Epitteto,
+perché l'etica non era mai cambiata.  Non dovevamo fidarci dell'etica di Bossuet,
+perché l'etica era cambiata.  Erano cambiate in duecento anni,
+ma non in duemila.
+
+     La cosa cominciava a farsi allarmante.  Sembrava non tanto che il [[Christianity|Cristianesimo]]
+fosse abbastanza cattivo da includere ogni vizio, quanto piuttosto che ogni bastone fosse
+buono abbastanza per bastonare il [[Christianity|Cristianesimo]].  Che cosa poteva mai essere
+questa cosa stupefacente che le persone erano così ansiose di
+contraddire, al punto che nel farlo non si curavano di contraddire sé stesse?
+Vedevo la medesima cosa da ogni parte.  Non posso concedere altro spazio a
+questa discussione nel dettaglio; ma perché nessuno supponga che io abbia
+scelto in modo iniquo tre casi accidentali, ne percorrerò brevemente
+alcuni altri.  Così, certi scettici scrissero che il grande crimine del
+[[Christianity|Cristianesimo]] era stato il suo attacco alla famiglia; esso aveva trascinato le donne
+verso la [[Loneliness|solitudine]] e la contemplazione del chiostro, lontano dalle loro case
+e dai loro figli.  Ma, poi, altri scettici (di poco più avanzati)
+dicevano che il grande crimine del [[Christianity|Cristianesimo]] era stato imporci la famiglia e il
+[[Marriage|matrimonio]]; che esso condannava le donne alla fatica servile delle loro case
+e dei loro figli, e vietava loro la [[Loneliness|solitudine]] e la contemplazione.
+L'accusa era, di fatto, rovesciata.  Oppure, ancora, certe frasi delle
+Epistole o del rito del [[Marriage|matrimonio]] venivano addotte dagli anticristiani per
+mostrare disprezzo per l'intelletto della donna.  Ma scoprii che gli anticristiani
+stessi disprezzavano l'intelletto della donna; poiché il loro
+grande sarcasmo contro la Chiesa nel Continente era che vi andassero «solo le donne».
+Oppure ancora, al [[Christianity|Cristianesimo]] si rimproveravano le sue abitudini nude e affamate;
+il suo cilicio e i suoi piselli secchi.  Ma il minuto dopo al [[Christianity|Cristianesimo]]
+si rimproveravano la sua pompa e il suo ritualismo; i suoi santuari di
+porfido e le sue vesti d'oro.  Lo si biasimava per essere troppo dimesso
+e per essere troppo variopinto.  Di nuovo, il [[Christianity|Cristianesimo]] era sempre stato
+accusato di reprimere troppo la [[Sexuality|sessualità]], salvo poi Bradlaugh il malthusiano
+scoprire che la reprimeva troppo poco.  Lo si accusa spesso
+nel medesimo respiro di compassata rispettabilità e di stravaganza religiosa.
+Fra le pagine del medesimo opuscolo ateo ho trovato la
+[[Faith|fede]] rimproverata per la sua disunione, «Uno pensa una cosa, e un altro un'altra»,
+e rimproverata anche per la sua [[Union|unione]], «È la diversità di opinione che
+impedisce al mondo di andare in [[dogs|malora]]».  Nella medesima conversazione
+un libero pensatore, un mio amico, biasimò il [[Christianity|Cristianesimo]] perché disprezzava gli ebrei,
+e poi lo disprezzò lui stesso perché era ebraico.
+
+     Volevo essere del tutto equo allora, e voglio essere del tutto equo ora;
+e non conclusi che l'attacco al [[Christianity|Cristianesimo]] fosse tutto sbagliato.
+Conclusi soltanto che se il [[Christianity|Cristianesimo]] era sbagliato, lo era in modo davvero
+gravissimo.  Simili orrori ostili potevano combinarsi in una sola cosa, ma
+quella cosa doveva essere ben strana e solitaria.  Vi sono uomini avari,
+e insieme prodighi; ma sono rari.  Vi sono uomini sensuali
+e insieme [[ascetic|ascetici]]; ma sono rari.  Ma se questa massa di
+folli contraddizioni esisteva davvero, quacchera e sanguinaria,
+troppo sfarzosa e troppo lisa, austera eppure indulgente in modo assurdo
+alla concupiscenza degli occhi, nemica delle donne e loro sciocco rifugio,
+solenne pessimista e sciocca ottimista, se questo male esisteva,
+allora vi era in questo male qualcosa di del tutto supremo e unico.
+Poiché non trovavo nei miei maestri razionalisti alcuna spiegazione di una
+corruzione tanto eccezionale.  Il [[Christianity|Cristianesimo]] (parlando in teoria) era
+ai loro occhi soltanto uno degli ordinari miti ed errori dei mortali.
+LORO non mi davano alcuna chiave a questa malvagità contorta e innaturale.
+Un simile [[Paradox|paradosso]] del male [[Rose|si levava]] all'altezza del [[Supernatural|soprannaturale]].
+Era, in verità, quasi tanto [[Supernatural|soprannaturale]] quanto l'infallibilità del Papa.
+Un'istituzione storica, che non ha mai fatto la cosa giusta, è davvero
+un miracolo tanto grande quanto un'istituzione che non può sbagliare.
+La sola spiegazione che mi venne subito in mente fu
+che il [[Christianity|Cristianesimo]] non venisse dal cielo, ma dall'inferno.
+In verità, se Gesù di Nazaret non era il [[Christ|Cristo]], doveva essere l'Anticristo.

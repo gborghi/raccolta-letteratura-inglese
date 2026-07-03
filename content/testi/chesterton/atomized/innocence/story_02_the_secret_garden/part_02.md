@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/innocence-(chesterton)">The Innocence of Father Brown</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/innocence/story_02_the_secret_garden/part_01">‹ part 01</a><a class="ex-next" href="/testi/chesterton/atomized/innocence/story_02_the_secret_garden/part_03">part 03 ›</a></div>
@@ -126,3 +128,129 @@ gleam of a shirt-front defaced with a red gleam of [[Blood|blood]].
 As Dr. Simon said, the man had never been of their party.
 But he might very [[Well|well]] have been trying to join it, for he had
 come dressed for such an occasion.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/innocence-(chesterton)">The Innocence of Father Brown</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/innocence/story_02_the_secret_garden/part_01">‹ part 01</a><a class="ex-next" href="/testi/chesterton/atomized/innocence/story_02_the_secret_garden/part_03">part 03 ›</a></div>
+</nav>
+
+# [[innocence]] — Il [[Garden|Giardino]] segreto (parte 2)
+
+Salvo che su un punto, i Galloway erano abbastanza gioviali e disinvolti.
+Finché Lady Margaret non prendeva il braccio di quell'avventuriero di
+O'Brien, suo padre era del tutto soddisfatto; e lei non l'aveva fatto,
+era entrata compostamente insieme al dottor Simon. Ciononostante, il
+vecchio Lord Galloway era irrequieto e quasi scortese. Fu abbastanza
+diplomatico durante la cena, ma quando, davanti ai sigari, tre dei più
+giovani — Simon il dottore, Brown il prete, e il pernicioso O'Brien,
+l'[[Exile|esule]] in una divisa straniera — si dileguarono tutti per
+mescolarsi alle signore o fumare nella serra, allora il diplomatico
+inglese divenne davvero assai poco diplomatico. Ogni sessanta secondi
+lo pungeva il pensiero che quella canaglia di O'Brien potesse in qualche
+modo fare segnali a Margaret; non tentava di immaginare come. Rimase
+davanti al caffè con Brayne, il canuto yankee che credeva in tutte le
+religioni, e Valentin, il francese brizzolato che non credeva in nessuna.
+Potevano discutere tra loro, ma nessuno dei due poteva fare appello a lui.
+Dopo un po' di [[Time|tempo]] questa logomachia "progressista" aveva
+raggiunto una crisi di tedio; anche Lord Galloway si alzò e cercò il
+salotto. Si smarrì per sei o otto minuti in lunghi corridoi: finché udì
+la voce acuta e didattica del dottore, e poi la voce sorda del prete,
+seguita da una risata generale. Anche loro, pensò con una imprecazione,
+probabilmente stavano discutendo di "scienza e religione". Ma nell'istante
+in cui aprì la porta del salotto vide una sola cosa: vide ciò che non
+c'era. Vide che il Comandante O'Brien era assente, e che anche Lady
+Margaret era assente.
+
+Alzandosi con impazienza dal salotto, come aveva fatto dalla sala da pranzo,
+percorse di nuovo a passi pesanti il corridoio. La sua idea di proteggere la
+figlia dallo scapestrato irlandese-algerino era divenuta qualcosa di
+centrale e persino folle nella sua mente. Mentre si dirigeva verso il retro
+della [[house|casa]], dove si trovava lo studio di Valentin, ebbe la sorpresa
+di incontrare sua figlia, che gli passò accanto in fretta con un viso bianco
+e sdegnoso, il che era un secondo enigma. Se era stata con O'Brien, dov'era
+O'Brien? Se non era stata con O'Brien, dov'era stata? Con una sorta di sospetto
+senile e appassionato si fece strada a tentoni nelle buie parti posteriori della
+magione, e alla fine trovò un ingresso di servizio che dava sul
+[[Garden|giardino]]. La [[Moon|luna]] con la sua scimitarra aveva ormai
+squarciato e disperso tutti i relitti della [[Storm|tempesta]]. La luce
+argentea illuminava tutti e quattro gli angoli del [[Garden|giardino]].
+Una figura alta in azzurro attraversava a grandi passi il prato verso la
+porta dello studio; un bagliore d'argento lunare sui suoi paramenti lo
+rivelava come il Comandante O'Brien.
+
+Scomparve attraverso le portefinestre nella [[house|casa]], lasciando Lord
+Galloway in un umore indescrivibile, insieme virulento e vago. Il
+[[Garden|giardino]] azzurro e argento, come una scena di teatro, pareva
+schernirlo con tutta quella tenerezza tirannica contro la quale la sua
+autorità mondana era in guerra. La lunghezza e la grazia del passo
+dell'irlandese lo infuriavano come se fosse un rivale invece che un padre;
+il chiaro di luna lo faceva impazzire. Era intrappolato come per
+[[Magic|magia]] in un [[Garden|giardino]] di trovatori, in un paese fatato
+alla Watteau; e, deciso a scrollarsi di dosso simili amorose imbecillità
+con la parola, mosse con passo svelto dietro il suo nemico. Nel far ciò
+inciampò in qualche albero o pietra nell'erba; abbassò lo sguardo dapprima
+con irritazione e poi una seconda [[Time|volta]] con curiosità. L'istante
+seguente la [[Moon|luna]] e gli alti pioppi assistettero a uno spettacolo
+insolito: un anziano diplomatico inglese che correva a perdifiato piangendo
+o urlando mentre correva.
+
+Le sue grida rauche fecero comparire un volto pallido alla porta dello studio,
+gli occhiali raggianti e la fronte preoccupata del dottor Simon, che udì le
+prime parole chiare del nobiluomo. Lord Galloway gridava: «Un cadavere
+nell'erba... un cadavere insanguinato di [[Blood|sangue]].» O'Brien, alla fine,
+era del tutto uscito di senno.
+
+«Dobbiamo dirlo subito a Valentin,» disse il dottore, quando l'altro ebbe
+descritto a frammenti tutto ciò che aveva osato esaminare. «È una fortuna
+che sia qui»; e mentre ancora parlava il grande [[Detective|detective]]
+entrò nello studio, attratto dal grido. Era quasi divertente notare la sua
+tipica trasformazione; era venuto con la comune preoccupazione di un
+anfitrione e di un gentiluomo, temendo che qualche ospite o servitore fosse
+malato. Quando gli fu detto il fatto cruento, si fece istantaneamente,
+con tutta la sua gravità, sveglio e pratico; poiché quello, per quanto
+brusco e spaventoso, era il suo mestiere.
+
+«Strano, signori,» disse mentre uscivano in fretta nel [[Garden|giardino]],
+«che io abbia dato la caccia ai misteri per tutta la terra, e ora uno venga
+a stabilirsi nel mio stesso cortile. Ma dov'è il posto?» Attraversarono il
+prato meno agevolmente, perché una leggera foschia aveva cominciato a levarsi
+dal [[River|fiume]]; ma sotto la guida dello scosso Galloway trovarono il
+[[Body|corpo]] affondato nell'erba alta: il [[Body|corpo]] di un uomo assai
+alto e dalle spalle larghe. Giaceva a faccia in giù, sicché poterono vedere
+soltanto che le sue grandi spalle erano coperte di panno nero, e che la sua
+grande testa era calva, salvo un ciuffo o due di capelli castani appiccicati
+al cranio come alghe bagnate. Un serpente scarlatto di [[Blood|sangue]]
+strisciava da sotto il volto riverso.
+
+«Almeno,» disse Simon, con un'intonazione profonda e singolare, «non è
+nessuno dei nostri.»
+
+«Esaminatelo, dottore,» gridò Valentin piuttosto seccamente. «Potrebbe non
+essere morto.»
+
+Il dottore si chinò. «Non è del tutto freddo, ma temo sia morto abbastanza,»
+rispose. «Aiutatemi soltanto a sollevarlo.»
+
+Lo sollevarono con cura di un pollice da terra, e ogni dubbio sul fatto che
+fosse davvero morto fu risolto all'istante e in modo spaventoso. La testa
+si staccò. Era stata interamente separata dal [[Body|corpo]]; chiunque gli
+avesse tagliato la gola era riuscito a recidere [[Well|anche]] il collo. Persino
+Valentin ne fu leggermente turbato. «Dev'essere stato forte come un gorilla,»
+mormorò.
+
+Non senza un brivido, benché fosse avvezzo agli obbrobri anatomici, il dottor
+Simon sollevò la testa. Era leggermente squarciata attorno al collo e alla
+mascella, ma il volto era sostanzialmente illeso. Era un volto pesante e
+giallastro, insieme incavato e gonfio, con un naso adunco e palpebre pesanti:
+il volto di un malvagio imperatore romano, con, forse, un lontano tocco di
+imperatore cinese. Tutti i presenti parvero guardarlo con l'occhio più freddo
+dell'ignoranza. Nient'altro poté notarsi di quell'uomo, salvo che, mentre ne
+avevano sollevato il [[Body|corpo]], avevano visto sotto di esso il bianco
+barbaglio di uno sparato di camicia deturpato da un rosso barbaglio di
+[[Blood|sangue]]. Come aveva detto il dottor Simon, quell'uomo non era mai
+stato dei loro. Ma poteva [[Well|benissimo]] aver cercato di unirsi a loro, poiché era
+venuto vestito per una simile occasione.

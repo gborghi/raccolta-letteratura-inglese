@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/innocence-(chesterton)">The Innocence of Father Brown</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/innocence/story_10_the_eye_of_apollo/part_02">‹ part 02</a><a class="ex-next" href="/testi/chesterton/atomized/innocence/story_10_the_eye_of_apollo/part_04">part 04 ›</a></div>
@@ -131,3 +133,50 @@ and detectives seeking to tear from men confessions of guilt,
 whether by treachery or torture.  You would convict men of crime,
 I would convict them of innocence.  You would convince them of sin,
 I would convince them of virtue.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/innocence-(chesterton)">The Innocence of Father Brown</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/innocence/story_10_the_eye_of_apollo/part_02">‹ part 02</a><a class="ex-next" href="/testi/chesterton/atomized/innocence/story_10_the_eye_of_apollo/part_04">part 04 ›</a></div>
+</nav>
+
+# [[innocence]] — L’occhio di [[Apollo]] (parte 3)
+
+Alla fine l’alta figura e la titanica energia di Flambeau apparvero nell’uscio del caseggiato e dominarono la piccola calca. Parlando a squarciagola come una sirena da nebbia, disse a qualcuno, a chiunque, di correre a chiamare un chirurgo; e mentre si voltava di nuovo verso l’ingresso buio e gremito, il suo amico Padre Brown vi si insinuò dietro, insignificante. E anche mentre s’abbassava e si faceva strada tra la folla, poteva ancora udire la magnifica melodia e monotonia del sacerdote solare che ancora invocava il dio felice, amico delle fonti e dei fiori.
+
+Padre Brown trovò Flambeau e altre sei persone circa in piedi attorno allo spazio chiuso in cui l’ascensore soleva discendere. Ma l’ascensore non era disceso. Qualcos’altro era disceso; qualcosa che sarebbe dovuto venire con l’ascensore.
+
+Per gli ultimi quattro minuti Flambeau aveva guardato in basso verso di essa; aveva visto la figura fracassata e sanguinante di quella bella donna che negava l’esistenza della tragedia. Non aveva avuto il minimo dubbio che si trattasse di Pauline Stacey; e, benché avesse mandato a chiamare un medico, non aveva il minimo dubbio che ella fosse morta.
+
+Non riusciva a ricordare con certezza se le fosse piaciuta o dispiaciuta; c’era tanto da apprezzare quanto da disapprovare. Ma era stata per lui una persona, e l’insopportabile pathos dei particolari e delle abitudini lo trafisse con tutti i piccoli pugnali del lutto. Ricordò il suo bel volto e i suoi discorsi saccenti con una improvvisa, segreta intensità che è tutta l’amarezza della morte. In un istante, come un fulmine a ciel sereno, come una folgore venuta dal nulla, quel corpo bello e ribelle era stato scagliato giù per il pozzo aperto dell’ascensore, verso la morte in fondo. Era stato suicidio? Con un’ottimista tanto insolente pareva impossibile. Era stato omicidio? Ma chi c’era, in quegli appartamenti a malapena abitati, per assassinare qualcuno? In un fiotto di parole roche, che voleva forti e trovò a un tratto deboli, chiese dove fosse quel tale Kalon. Una voce, abitualmente grave, quieta e piena, gli assicurò che Kalon, negli ultimi quindici minuti, era stato lassù sul suo balcone ad adorare il proprio dio. Quando Flambeau udì la voce, e sentì la mano di Padre Brown, volse il suo viso bruno e disse bruscamente:
+
+«Allora, se è stato lassù tutto il tempo, chi può averlo fatto?»
+
+«Forse» disse l’altro, «potremmo salire di sopra e scoprirlo. Abbiamo mezz’ora prima che la polizia si muova.»
+
+Lasciando il corpo dell’ereditiera uccisa alle cure dei chirurghi, Flambeau si slanciò su per le scale fino all’ufficio di dattilografia, lo trovò del tutto vuoto, e poi si slanciò fino al proprio. Entratovi, ne tornò bruscamente con un volto nuovo e sbiancato dal suo amico.
+
+«Sua sorella» disse, con una spiacevole serietà, «sua sorella pare essere uscita a fare una passeggiata.»
+
+Padre Brown annuì. «Oppure può essere salita all’ufficio di quell’uomo del sole» disse. «Se fossi in voi, lo verificherei senz’altro, e poi discutiamone tutti insieme nel vostro ufficio. No» aggiunse d’improvviso, come rammentando qualcosa, «riuscirò mai a superare questa mia stupidaggine? Naturalmente, nel loro ufficio di sotto.»
+
+Flambeau lo fissò; ma seguì il piccolo padre giù per le scale fino all’appartamento vuoto delle Stacey, dove quell’impenetrabile pastore prese una grande poltrona di cuoio rosso proprio all’ingresso, da cui poteva vedere le scale e i pianerottoli, e aspettò. Non aspettò a lungo. Nel giro di circa quattro minuti tre figure discesero le scale, simili solo nella loro solennità. La prima era Joan Stacey, la sorella della morta — evidentemente era stata di sopra nel provvisorio tempio di Apollo; la seconda era il sacerdote di Apollo in persona, terminata la sua litania, che scendeva giù per le scale vuote in piena magnificenza — qualcosa nelle sue bianche vesti, nella barba e nella capigliatura divisa aveva l’aria del Cristo di Doré che esce dal Pretorio; la terza era Flambeau, dalle sopracciglia nere e alquanto sconcertato.
+
+La signorina Joan Stacey, bruna, dal volto contratto e coi capelli precocemente sfiorati di grigio, andò diritta alla propria scrivania e vi dispose le proprie carte con un pratico colpetto. Il semplice gesto richiamò tutti gli altri alla ragione. Se la signorina Joan Stacey era una criminale, era una criminale a sangue freddo. Padre Brown la osservò per un poco con uno strano piccolo sorriso, e poi, senza distoglierne gli occhi, si rivolse a qualcun altro.
+
+«Profeta» disse, presumibilmente rivolgendosi a Kalon, «vorrei che mi diceste molte cose sulla vostra religione.»
+
+«Ne sarò fiero» disse Kalon, chinando il capo ancora incoronato, «ma non sono certo di comprendere.»
+
+«Ecco, è così» disse Padre Brown, nel suo modo francamente dubbioso: «Ci viene insegnato che, se un uomo ha davvero cattivi princìpi primi, ciò dev’essere in parte colpa sua. Ma, ciò nonostante, possiamo fare qualche distinzione tra un uomo che oltraggia la propria coscienza del tutto limpida e un uomo con una coscienza più o meno annebbiata di sofismi. Ora, credete voi davvero che l’omicidio sia in qualche modo un male?»
+
+«È questa un’accusa?» chiese Kalon molto tranquillamente.
+
+«No» rispose Brown, con eguale dolcezza, «è l’arringa della difesa.»
+
+Nel lungo e attonito silenzio della stanza il profeta di Apollo lentamente si alzò; e fu davvero come il sorgere del sole. Riempì quella stanza della sua luce e vita in tal modo che un uomo sentiva ch’egli avrebbe potuto riempire con altrettanta facilità la piana di Salisbury. La sua figura ammantata pareva addobbare l’intera stanza di drappeggi classici; il suo gesto epico pareva estenderla in prospettive più grandiose, finché la piccola figura nera del moderno chierico pareva un difetto e un’intrusione, una tonda, nera macchia su qualche splendore dell’Ellade.
+
+«Ci incontriamo alfine, Caifa» disse il profeta. «La tua Chiesa e la mia sono le uniche realtà su questa terra. Io adoro il sole, e tu l’oscurarsi del sole; tu sei il sacerdote del Dio morente, io del Dio vivente. La tua presente opera di sospetto e di calunnia è degna della tua veste e del tuo credo. Tutta la tua Chiesa non è che una nera polizia; voi non siete che spie e detective che cercano di strappare agli uomini confessioni di colpa, sia con l’inganno che con la tortura. Voi vorreste convincere gli uomini di delitto, io li convincerei d’innocenza. Voi vorreste persuaderli del peccato, io li persuaderei della virtù.

@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/incredulity-(chesterton)">Incredulity</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/incredulity/story_02_the_arrow_of_heaven/part_04">‹ part 04</a><a class="ex-next" href="/testi/chesterton/atomized/incredulity/story_02_the_arrow_of_heaven/part_06">part 06 ›</a></div>
@@ -132,3 +134,48 @@ near enough for practical purposes.'
 `Well, yes,' began the young man, almost automatically, and then ceased,
 and remained staring at the cleric with an open mouth and eyes standing
 out of his head.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/incredulity-(chesterton)">Incredulity</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/incredulity/story_02_the_arrow_of_heaven/part_04">‹ part 04</a><a class="ex-next" href="/testi/chesterton/atomized/incredulity/story_02_the_arrow_of_heaven/part_06">part 06 ›</a></div>
+</nav>
+
+«Non credo che abbiate colto del tutto la morale», disse Padre Brown.
+
+Sebbene il giorno seguente il piccolo prete paresse dissolversi nei milioni di New York, senza alcun apparente tentativo di essere qualcosa di più d'un numero in una via numerata, egli fu in realtà, per la quindicina successiva, discretamente indaffarato intorno all'incarico che gli era stato affidato, poiché lo colmava un profondo timore d'un possibile errore giudiziario. Senza dare a vedere in modo particolare di distinguerli dalle altre sue nuove conoscenze, gli riuscì agevole intavolare discorsi con i due o tre uomini di recente coinvolti nel mistero; e proprio col vecchio Hickory Crake ebbe una conversazione curiosa e interessante. Avvenne su una panchina di Central Park, dove il veterano sedeva con le mani ossute e il volto a scure appoggiati sull'impugnatura dalla foggia bizzarra d'un bastone da passeggio di legno rosso scuro, forse modellato su un tomahawk.
+
+«[[Well|Beh]], sarà pure un tiro azzardato», disse, scuotendo il capo, «ma non vi consiglierei d'essere troppo perentorio su quanto lontano possa arrivare una freccia indiana. Ho conosciuto certi colpi d'arco che parevano andare più dritti d'ogni pallottola, e cogliere il bersaglio in modo prodigioso, se si pensa a quanto a lungo avevano viaggiato. Certo, oggigiorno non si sente praticamente mai parlare d'un Pellerossa con arco e frecce, e ancor meno d'un Pellerossa che se ne stia a bighellonare da queste parti. Ma se per un qualsiasi caso ci fosse uno dei vecchi tiratori indiani, con uno dei vecchi archi indiani, nascosto fra quegli alberi centinaia di metri oltre il muro esterno di casa Merton... ebbene, allora non lo escluderei affatto che il nobile selvaggio fosse capace di scoccare una freccia oltre il muro e fin nella finestra più alta della casa di Merton; no, e nemmeno dentro Merton. Ho visto compiere cose altrettanto meravigliose ai vecchi tempi.»
+
+«Senza [[Doubt|dubbio]]», disse il prete, «voi avete compiuto cose altrettanto meravigliose, oltre ad averle viste.»
+
+Il vecchio Crake fece una risatina, poi disse con voce arcigna: «Oh, sono tutte faccende di antica [[history|storia]].»
+
+«C'è chi ha l'abitudine di studiarla, l'antica storia», disse il prete. «Suppongo si possa ritenere che nei vostri vecchi trascorsi non ci sia nulla che induca la gente a sparlare di questa faccenda.»
+
+«Che cosa intendete?», domandò Crake, e per la prima [[Time|volta]] gli occhi guizzarono acuti nel volto rosso e legnoso, che somigliava piuttosto alla lama d'un tomahawk.
+
+«Ecco, dato che eravate così ferrato in tutte le arti e i mestieri del Pellerossa...», cominciò lentamente [[Father Brown]].
+
+Crake aveva assunto un aspetto curvo e quasi rattrappito, seduto com'era col mento puntellato sulla sua stampella dalla foggia bizzarra. Ma un istante dopo era ritto in piedi sul sentiero come un bravo pronto alla rissa, la stampella stretta come un randello.
+
+«Cosa?», gridò, con qualcosa di simile a uno strido rauco, «che diavolo! State forse tenendomi testa per dirmi che potrei aver assassinato mio cognato?»
+
+Da una dozzina di panchine sparse lungo il sentiero la gente volse lo sguardo verso i due contendenti, mentre stavano l'uno di fronte all'altro in mezzo al viale: l'omino calvo ed energico che brandiva il suo bastone stravagante come una clava, e la figura nera e tozza del piccolo chierico che lo fissava senza muovere un muscolo, se non per le palpebre che gli si abbassavano. Per un momento parve che la figura nera e tozza dovesse essere colpita al capo e stesa a terra con la prontezza e la spicciativa risolutezza d'un autentico Pellerossa; e in lontananza si scorgeva la corpulenta sagoma d'un poliziotto irlandese sollevarsi e piombare verso il gruppo. Ma il prete disse soltanto, con perfetta placidezza, come chi risponde a una domanda qualsiasi:
+
+«Mi sono fatto certe conclusioni al riguardo, ma non credo che le esporrò prima di stendere la mia relazione.»
+
+Fosse per l'influsso dei passi del poliziotto o per quello degli occhi del prete, il vecchio Hickory si ficcò il bastone sotto il braccio e si rimise il cappello, borbottando. Il prete gli augurò un placido buongiorno e uscì dal parco senza affrettarsi, dirigendosi verso il salone dell'albergo dove sapeva di poter trovare il giovane Wain. Il giovane balzò in piedi con un saluto; appariva ancor più sparuto e tormentato di prima, come se qualche preoccupazione lo stesse consumando; e il prete ebbe il sospetto che il suo giovane amico si fosse di recente adoperato, con successo fin troppo vistoso, a eludere l'ultimo Emendamento alla Costituzione americana. Ma alla prima parola sul suo passatempo, o scienza prediletta, si fece abbastanza vigile e concentrato. Padre Brown gli aveva infatti chiesto, in tono ozioso e discorsivo, se in quel distretto si volasse molto, e gli aveva raccontato come dapprima avesse scambiato il muro circolare del signor Merton per un aerodromo.
+
+«È una [[Wonder|meraviglia]] che non ne abbiate visto nemmeno uno mentre eravamo lì», rispose il capitano Wain. «A volte sono fitti come mosche; quella pianura aperta è un gran posto per loro, e non mi stupirei se in futuro diventasse il principale vivaio, per così dire, dei volatili della mia specie. Anch'io, naturalmente, ho volato parecchio da quelle parti, e conosco quasi tutti quelli di qui che hanno volato durante la guerra; ma c'è tutta una gran quantità di gente che adesso ci si dedica laggiù e di cui in vita mia non avevo mai sentito parlare. Suppongo che presto sarà come con l'automobile, e ogni uomo negli Stati ne avrà una.»
+
+«Essendo stato dotato dal suo Creatore», disse [[Father Brown]] con un sorriso, «del diritto alla vita, alla libertà e alla ricerca dell'automobilismo... per non parlare dell'aviazione. Sicché suppongo si possa ritenere che un aeroplano sconosciuto in transito sopra quella [[house|casa]], in certi momenti, non desterebbe molta attenzione.»
+
+«No», replicò il giovane; «suppongo di no.»
+
+«O anche se l'uomo fosse conosciuto», proseguì l'altro, «suppongo potrebbe procurarsi una [[Machine|macchina]] che non venisse riconosciuta come sua. Se voi, per esempio, voleste nel modo consueto, il signor Merton e i suoi amici riconoscerebbero forse l'attrezzatura; ma potreste passare assai vicino a quella [[Window|finestra]] su un modello diverso di aeroplano, o come lo chiamate voi; abbastanza vicino per gli scopi pratici.»
+
+«Beh, sì», cominciò il giovane, quasi meccanicamente, poi tacque, e rimase a fissare il chierico a bocca aperta e con gli occhi sbarrati fuori dalle orbite.

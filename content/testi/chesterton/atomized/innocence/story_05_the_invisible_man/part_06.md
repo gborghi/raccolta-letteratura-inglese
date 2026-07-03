@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/innocence-(chesterton)">The Innocence of Father Brown</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/innocence/story_05_the_invisible_man/part_05">‹ part 05</a><a class="ex-next" href="/testi/chesterton/atomized/innocence/story_06_the_honour_of_israel_gow/part_01">part 01 ›</a></div>
@@ -80,3 +82,80 @@ things to attend to.  John Turnbull Angus went back to the lady at the shop,
 with whom that imprudent young man contrives to be extremely comfortable.
 But Father Brown walked those snow-covered hills under the stars for many
 hours with a murderer, and what they said to each other will never be known.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/innocence-(chesterton)">The Innocence of Father Brown</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/innocence/story_05_the_invisible_man/part_05">‹ part 05</a><a class="ex-next" href="/testi/chesterton/atomized/innocence/story_06_the_honour_of_israel_gow/part_01">part 01 ›</a></div>
+</nav>
+
+# [[innocence]] — L’uomo invisibile (parte 6)
+
+«Un uomo invisibile?» s’informò Angus, sollevando le rosse sopracciglia.
+«Un uomo mentalmente invisibile», disse Padre Brown.
+
+Un minuto o due dopo riprese con la stessa voce dimessa,
+come uno che va pensando strada facendo. «Naturalmente non riuscite a pensare
+a un uomo simile, finché non ci pensate. È qui che sta la sua
+abilità. Ma io arrivai a pensare a lui attraverso
+due o tre piccole cose nel racconto che il signor Angus ci ha fatto.
+Primo, c’era il fatto che questo Welkin faceva lunghe passeggiate.
+E poi c’era la vasta quantità di carta da bollo sulla vetrina.
+E poi, soprattutto, c’erano le due cose che la giovane
+signorina disse… cose che non potevano essere vere. Non si offenda»,
+aggiunse in fretta, notando un improvviso moto della testa dello scozzese;
+«lei le credeva vere. Una persona non può essere del tutto
+sola in una strada un secondo prima di ricevere una lettera.
+Non può essere del tutto sola in una strada quando comincia a leggere
+una lettera appena ricevuta. Ci deve essere qualcuno abbastanza vicino a lei;
+egli dev’essere mentalmente invisibile.»
+
+«Perché ci deve essere qualcuno vicino a lei?» chiese Angus.
+
+«Perché», disse Padre Brown, «salvo i piccioni viaggiatori, qualcuno deve
+averle portato la lettera.»
+
+«Vuole davvero dire», chiese Flambeau, con energia,
+«che Welkin portava le lettere del rivale alla sua dama?»
+
+«Sì», disse il prete. «Welkin portava le lettere del rivale alla sua dama.
+Vedete, non poteva fare altrimenti.»
+
+«Oh, non ne posso più di tutto questo», esplose Flambeau. «Chi è
+questo tale? Che aspetto ha? Qual è la tenuta abituale
+di un uomo mentalmente invisibile?»
+
+«È vestito piuttosto elegantemente di rosso, azzurro e oro»,
+rispose il prete prontamente con precisione, «e in questo vistoso,
+e persino sgargiante, costume egli entrò a Himylaya Mansions sotto otto
+occhi umani; uccise Smythe a sangue freddo, e scese di nuovo
+in strada portando il cadavere tra le braccia…»
+
+«Reverendo signore», gridò Angus, fermandosi di colpo, «è pazzo furioso lei,
+o lo sono io?»
+
+«Lei non è pazzo», disse Brown, «solo un po’ poco osservante.
+Non ha notato un uomo come questo, per esempio.»
+
+Fece tre rapidi passi in avanti, e posò la mano sulla spalla
+di un comune postino di passaggio che era sgusciato loro accanto inosservato
+all’ombra degli alberi.
+
+«Nessuno nota mai i postini, chissà perché», disse pensieroso;
+«eppure hanno passioni come gli altri uomini, e per giunta portano grandi
+sacchi dove un piccolo cadavere può essere riposto con tutta comodità.»
+
+Il postino, invece di voltarsi con naturalezza, si abbassò e ruzzolò contro
+lo steccato del giardino. Era un uomo magro, dalla barba chiara, d’aspetto assai comune,
+ma nel voltare un viso allarmato al di sopra della spalla, tutti e tre gli uomini furono inchiodati
+da uno strabismo quasi diabolico.
+                            * * * * * *
+
+Flambeau tornò alle sue sciabole, ai tappeti purpurei e al gatto persiano, avendo molte
+cose da sbrigare. John Turnbull Angus tornò dalla signora alla bottega,
+con la quale quell’imprudente giovanotto si ingegna di starsene estremamente a proprio agio.
+Ma Padre Brown camminò per quelle colline coperte di neve sotto le stelle per molte
+ore insieme a un assassino, e ciò che si dissero l’un l’altro non si saprà mai.

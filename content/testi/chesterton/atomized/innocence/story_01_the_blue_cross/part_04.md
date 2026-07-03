@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/innocence-(chesterton)">The Innocence of Father Brown</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/innocence/story_01_the_blue_cross/part_03">‹ part 03</a><a class="ex-next" href="/testi/chesterton/atomized/innocence/story_01_the_blue_cross/part_05">part 05 ›</a></div>
@@ -147,3 +149,153 @@ sweetstuff shop.  After an instant's hesitation he went in;
 he stood amid the gaudy colours of the confectionery with entire
 gravity and bought thirteen chocolate cigars with a certain care.
 He was clearly preparing an opening; but he did not need one.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/innocence-(chesterton)">The Innocence of Father Brown</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/innocence/story_01_the_blue_cross/part_03">‹ part 03</a><a class="ex-next" href="/testi/chesterton/atomized/innocence/story_01_the_blue_cross/part_05">part 05 ›</a></div>
+</nav>
+
+# [[innocence]] — La [[Cross|Croce]] azzurra (parte 4)
+
+«[[Well|Ebbene]], signore», esordì il primo con sorridente sussiego,
+«e in che cosa posso...?»
+
+Valentin puntò d'improvviso il bastone. «Ve lo dirò in cima a quell'omnibus»,
+disse, e già saettava e schivava attraverso il groviglio del traffico.
+Quando tutti e tre si lasciarono cadere ansanti sui sedili in cima
+al veicolo giallo, l'ispettore disse: «In taxi andremmo quattro volte
+più svelti.»
+
+«Verissimo» replicò placido il loro capo, «se solo avessimo un'idea
+di dove stiamo andando.»
+
+«[[Well|Ebbene]], dove state andando?» chiese l'altro, sgranando gli occhi.
+
+Valentin fumò accigliato per qualche secondo; poi, togliendosi la sigaretta,
+disse: «Se sai cosa sta facendo un uomo, mettiti davanti a lui;
+ma se vuoi indovinare cosa sta facendo, stagli dietro. Devia quando devia;
+férmati quando si ferma; viaggia lento quanto lui. Allora potrai vedere
+ciò che ha visto lui e agire come ha agito lui. Tutto quello che possiamo
+fare è tenere gli occhi bene aperti per una cosa strana.»
+
+«Che genere di cosa strana intendete?» chiese l'ispettore.
+
+«Qualsiasi genere di cosa strana» rispose Valentin, e ricadde
+in un ostinato [[Silence|silenzio]].
+
+L'omnibus giallo arrancò su per le strade settentrionali per quelle
+che parvero ore intere; il grande [[Detective|detective]] non volle spiegarsi
+oltre, e forse i suoi assistenti provavano un silenzioso e crescente
+[[Doubt|dubbio]] sulla sua missione. Forse, anche, provavano un silenzioso
+e crescente [[Desire|desiderio]] di pranzo, ché le ore trascorrevano
+ben oltre la consueta ora di colazione, e le lunghe strade dei sobborghi
+della [[London|Londra]] settentrionale parevano allungarsi in tratti
+su tratti come un infernale telescopio. Era uno di quei viaggi durante
+i quali un uomo sente perennemente che ora finalmente dev'essere giunto
+alla fine dell'universo, e poi scopre d'esser arrivato appena all'inizio
+di Tufnell Park. [[London|Londra]] si spegneva in taverne sciatte e squallidi
+sterpeti, e poi rinasceva inspiegabilmente in strade principali sfolgoranti
+e alberghi chiassosi. Era come attraversare tredici distinte città volgari
+che appena si toccano l'un l'altra. Ma per quanto il crepuscolo
+d'[[Winter|inverno]] già minacciasse la [[Road|strada]] davanti a loro,
+il [[Detective|detective]] parigino sedeva ancora silenzioso e vigile,
+scrutando le facciate delle vie che scivolavano via da un lato e dall'altro.
+Nel [[Time|tempo]] in cui ebbero lasciato Camden Town alle spalle, i poliziotti erano
+quasi addormentati; per lo meno, ebbero un sussulto quando Valentin
+balzò dritto in piedi, batté una mano sulla spalla di ciascuno,
+e gridò al conducente di fermarsi.
+
+Ruzzolarono giù dai gradini nella [[Road|strada]] senza rendersi conto
+del perché fossero stati sloggiati; quando si guardarono attorno
+in cerca di lumi, trovarono Valentin che puntava trionfante il dito
+verso una [[Window|finestra]] sul lato sinistro della [[Road|strada]].
+Era una grande [[Window|finestra]], parte della lunga facciata di una
+sontuosa e dorata [[house|casa]] pubblica; era la parte riservata al pranzo
+per bene, e recava l'insegna «Ristorante». Questa [[Window|finestra]],
+come tutte le altre lungo la facciata dell'albergo, era di vetro smerigliato
+e figurato; ma nel mezzo c'era una grande crepa nera, come una stella
+nel ghiaccio.
+
+«Ecco finalmente la nostra traccia», gridò Valentin agitando il bastone;
+«il locale con la [[Window|finestra]] rotta.»
+
+«Quale [[Window|finestra]]? Quale traccia?» chiese il suo assistente
+principale. «Ma quale prova c'è che questo abbia qualcosa a che fare
+con loro?»
+
+Valentin per poco non spezzò per la rabbia il suo bastone di bambù.
+
+«Prova!» esclamò. «Buon Dio! quest'uomo cerca una prova! Ma certo,
+le probabilità sono venti a uno che non abbia nulla a che fare con loro.
+Ma cos'altro possiamo fare? Non vedete che dobbiamo o inseguire un'unica
+folle possibilità o andarcene a [[Home|casa]] a letto?» Si fece largo
+a spintoni dentro il ristorante, seguìto dai compagni, e di lì a poco
+sedevano a un tardo pranzo a un tavolino, guardando dall'interno
+la stella di vetro infranto. Non che ciò fosse per loro molto istruttivo,
+neppure allora.
+
+«Vi hanno rotto la [[Window|finestra]], a quanto vedo», disse Valentin
+al cameriere mentre pagava il conto.
+
+«Sì, signore», rispose l'inserviente, chinandosi affaccendato sul resto,
+al quale Valentin aggiunse in silenzio una mancia enorme. Il cameriere
+si raddrizzò con mite ma inequivocabile animazione.
+
+«Ah, sì, signore», disse. «Cosa ben strana, quella, signore.»
+
+«Davvero? Raccontatecela», disse il [[Detective|detective]] con noncurante
+curiosità.
+
+«[[Well|Ebbene]], entrarono due signori vestiti di nero», disse il cameriere;
+«due di quei preti stranieri che vanno in giro. Fecero un pranzetto
+frugale e tranquillo, e uno di loro lo pagò e uscì. L'altro stava giusto
+per uscire a raggiungerlo quando guardai di nuovo il mio resto e trovai
+che m'aveva pagato più del triplo del dovuto. "Ehi", dico al tipo che era
+quasi fuori dalla porta, "avete pagato troppo." "Oh", fa lui, freddissimo,
+"davvero?" "Sì", dico io, e prendo il conto per mostrarglielo.
+[[Well|Ebbene]], quella fu una mazzata.»
+
+«Che cosa intendete?» chiese il suo interlocutore.
+
+«[[Well|Ebbene]], avrei giurato su sette Bibbie di aver segnato 4 scellini
+su quel conto. Ma allora vidi che avevo segnato 14 scellini, chiaro
+come la vernice.»
+
+«[[Well|Ebbene]]?» esclamò Valentin, muovendosi lento, ma con occhi ardenti,
+«e poi?»
+
+«Il prete sulla porta, dice tutto sereno: "Spiacente di confondervi
+i conti, ma servirà a pagare la finestra." "Quale [[Window|finestra]]?" dico io.
+"Quella che sto per rompere", dice lui, e frantumò quel benedetto vetro
+con l'ombrello.»
+
+Tutti e tre gli inquirenti fecero un'esclamazione; e l'ispettore
+disse sottovoce: «Stiamo dando la caccia a dei pazzi evasi?»
+Il cameriere proseguì con un certo gusto per la storia ridicola:
+
+«Restai talmente sbalordito per un momento che non seppi far nulla.
+L'uomo se ne uscì impettito dal locale e raggiunse l'amico giusto
+dietro l'angolo. Poi filarono su per Bullock Street così in fretta
+che non riuscii ad acchiapparli, per quanto corressi attorno al bancone
+per farlo.»
+
+«Bullock Street», disse il detective, e si lanciò su per quella
+via con la stessa rapidità della strana coppia che inseguiva.
+
+Il loro cammino ora li portò attraverso nudi passaggi di mattoni
+simili a gallerie; strade con poche luci e persino con poche finestre;
+strade che parevano costruite coi retri ciechi di ogni cosa e di ogni luogo.
+Il buio s'infittiva, e non era facile neppure per i poliziotti londinesi
+indovinare in quale esatta direzione stessero incamminandosi. L'ispettore,
+tuttavia, era abbastanza sicuro che alla fine avrebbero raggiunto qualche
+parte di Hampstead Heath. D'improvviso una finestra sporgente e illuminata
+a gas ruppe il crepuscolo azzurro come una lanterna cieca; e Valentin
+si arrestò un istante davanti a una piccola e vistosa bottega di dolciumi.
+Dopo un istante d'esitazione entrò; se ne stette tra i colori sgargianti
+della confetteria con tutta serietà e comprò tredici sigari di cioccolato
+con una certa cura. Stava evidentemente preparando un attacco; ma non
+ne ebbe bisogno.

@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/wifrb11-(chesterton)">The Wisdom of Father Brown</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/wifrb11/story_04_the_man_in_the_passage">‹ Story 04 The Man in the Passage</a><a class="ex-next" href="/testi/chesterton/atomized/wifrb11/story_06_the_head_of_caesar">Story 06 The Head of Caesar ›</a></div>
@@ -637,3 +639,638 @@ She had Arranged Freak Dinner.  Now Safe in--"
      Mr Greenwood Usher lifted his eyes, but Father Brown was gone.
 
                                   SIX
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/wifrb11-(chesterton)">The Wisdom of Father Brown</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/wifrb11/story_04_the_man_in_the_passage">‹ Story 04 The Man in the Passage</a><a class="ex-next" href="/testi/chesterton/atomized/wifrb11/story_06_the_head_of_caesar">Story 06 The Head of Caesar ›</a></div>
+</nav>
+
+# [[wifrb11]] — L'errore della [[Machine|macchina]]
+
+                      L'errore della [[Machine|macchina]]
+
+[[Flambeau|FLAMBEAU]] e il suo amico prete sedevano nei Temple Gardens
+sul far del tramonto; e la vicinanza del luogo, o qualche altro simile
+influsso casuale, aveva portato il loro discorso su questioni di procedura
+giudiziaria. Dal problema della libertà concessa nel [[Cross|contro]]interrogatorio
+la conversazione era andata a spasso fino alla tortura romana e
+medievale, al giudice istruttore in Francia e
+al Terzo Grado in [[America]].
+
+     «Ho letto», disse [[Flambeau]], «di questo nuovo metodo psicometrico
+di cui si parla tanto, specialmente in [[America]]. Sai a che cosa alludo:
+applicano un pulsometro al polso di un uomo e giudicano da come batte il cuore
+alla pronuncia di certe parole. Che cosa ne pensi?»
+
+     «Lo trovo molto interessante», rispose [[Father Brown|Padre Brown]];
+«mi ricorda quella curiosa idea dei Secoli Bui, secondo cui il [[Blood|sangue]]
+sarebbe sgorgato da un cadavere se l'assassino l'avesse toccato.»
+
+     «Vuoi davvero dire», domandò l'amico, «che consideri
+i due metodi ugualmente validi?»
+
+     «Li considero ugualmente privi di valore», rispose Brown. «Il [[Blood]] scorre,
+rapido o lento, nei morti come nei vivi, per tanti più milioni di ragioni
+di quante potremo mai conoscerne. Il [[Blood]] dovrebbe scorrere in modo assai bizzarro;
+il [[Blood|sangue]] dovrebbe scorrere in salita sul Cervino, prima che io lo prenda
+come segno che devo spargerlo.»
+
+     «Il metodo», osservò l'altro, «è stato garantito
+da alcuni dei più grandi uomini di scienza americani.»
+
+     «Che sentimentali sono gli uomini di scienza!» esclamò [[Father Brown|Padre Brown]],
+«e quanto più sentimentali debbono essere gli uomini di scienza americani!
+Chi, se non uno yankee, penserebbe di dimostrare qualcosa dai palpiti del cuore?
+Ma via, devono essere sentimentali come un uomo che crede che una donna
+sia [[Love|innamorata]] di lui se arrossisce. È una prova ricavata dalla
+circolazione del [[Blood|sangue]], scoperta dall'immortale Harvey;
+e per giunta una prova bella e marcia.»
+
+     «Eppure», insistette [[Flambeau]], «potrebbe pur puntare abbastanza dritto
+verso qualcosa.»
+
+     «C'è uno svantaggio in un bastone che punta dritto»,
+rispose l'altro. «Quale? Ma via, l'altro capo del bastone
+punta sempre nella direzione opposta. Dipende se
+prendi il bastone dal capo giusto. Una volta vidi fare la cosa
+e da allora non ci ho mai più creduto.» E si mise a raccontare
+la storia della sua [[Disillusionment|disillusione]].
+
+     Era accaduto quasi vent'anni prima, quando egli era cappellano
+dei suoi correligionari in una [[Prison|prigione]] di Chicago, dove la popolazione irlandese
+mostrava una capacità tanto per il delitto quanto per il pentimento che lo teneva
+discretamente occupato. Il vicecomandante ufficiale, sotto il Governatore,
+era un ex [[Detective|detective]] di nome Greywood Usher, un cadaverico, misurato
+filosofo yankee, che di tanto in tanto variava un volto assai rigido
+con una strana smorfia di scusa. Costui aveva simpatia per [[Father Brown|Padre Brown]] in
+un modo leggermente paternalistico; e [[Father Brown|Padre Brown]] aveva simpatia per lui,
+benché detestasse cordialmente le sue teorie. Le sue teorie erano
+estremamente complicate e venivano sostenute con estrema semplicità.
+
+     Una sera aveva mandato a chiamare il prete, il quale, secondo il suo solito,
+prese posto in [[Silence|silenzio]] a un tavolo carico e ingombro di carte,
+e attese. L'ufficiale scelse tra le carte un ritaglio di
+giornale, che porse al chierico,
+il quale lo lesse con gravità. Pareva un estratto da uno dei
+più rosei giornali mondani americani, e diceva così:
+
+     «Il più brillante vedovo dell'alta società si dà ancora una volta alla mania delle
+Cene Stravaganti. Tutti i nostri concittadini più esclusivi ricorderanno la Cena Sfilata
+delle Carrozzelle, in cui Todd-l'Ultimo-Tiro, nella sua sontuosa [[Home|dimora]] di [[Pilgrim]]'s Pond,
+fece apparire tante delle nostre eminenti debuttanti perfino più giovani
+dei loro anni. Ugualmente elegante e più eterogeneo e
+generoso di cuore, nella sua veduta sociale, fu lo spettacolo dell'Ultimo-Tiro dell'anno prima,
+il popolare Pranzo dell'Assalto Cannibale, in cui i dolci fatti circolare
+erano sarcasticamente foggiati in forma di braccia e gambe umane,
+e durante il quale più d'uno dei nostri più gai ginnasti della mente fu udito
+offrirsi di mangiare la propria dama. L'arguzia che ispirerà
+la serata di stasera è ancora chiusa nel piuttosto riservato intelletto del signor Todd,
+o serrata nei seni ingioiellati dei più gai capofila della nostra [[City|città]];
+ma si parla di una graziosa [[Parody|parodia]] dei modi e dei costumi semplici
+dell'altro capo della scala sociale. Il che sarebbe tanto più efficace,
+poiché l'ospitale Todd ha come suo invitato Lord Falconroy, il celebre viaggiatore,
+un [[aristocrat|aristocratico]] di puro sangue fresco dalle querce d'Inghilterra.
+I viaggi di Lord Falconroy cominciarono prima che il suo antico titolo feudale
+fosse risuscitato: egli fu nella Repubblica in gioventù, e la moda sussurra
+una maliziosa ragione per il suo ritorno. Miss Etta Todd è una delle nostre
+newyorkesi dall'anima profonda, ed entra in possesso di una rendita di quasi
+milleduecento milioni di dollari.»
+
+     «[[Well|Ebbene]]», chiese Usher, «la cosa ti interessa?»
+
+     «Ma via, mi mancano quasi le parole», rispose [[Father Brown|Padre Brown]].
+«In questo momento non riesco a pensare a nulla al mondo che possa
+interessarmi di meno. E, a meno che il giusto sdegno della Repubblica non stia
+finalmente per mandare sulla sedia elettrica i giornalisti che scrivono così,
+non vedo bene perché dovrebbe interessare neppure te.»
+
+     «Ah!» disse il signor Usher seccamente, porgendo un altro
+ritaglio di giornale. «[[Well|Ebbene]], questo ti interessa?»
+
+     Il trafiletto era intitolato «Feroce Assassinio di un Guardiano.
+Evaso un Detenuto», e diceva: «Poco prima dell'[[Dawn|alba]] di questa mattina
+un grido d'aiuto è stato udito nel Penitenziario di Sequah,
+in questo Stato. Le autorità, precipitatesi nella direzione del grido,
+hanno trovato il cadavere del guardiano che pattuglia la sommità del muro settentrionale
+della [[Prison|prigione]], l'uscita più ripida e più difficile, per la quale un solo uomo
+è sempre stato ritenuto sufficiente. Lo sventurato agente era però
+stato scagliato giù dall'alto muro, il cranio fracassato
+come da una clava, e il suo fucile è scomparso. Ulteriori indagini hanno rivelato che
+una delle celle era vuota; era occupata da un individuo piuttosto tetro e brutale
+che dava come proprio nome quello di Oscar Rian. Era trattenuto solo temporaneamente
+per un'aggressione relativamente lieve; ma dava a tutti l'impressione
+di un uomo con un passato nero e un futuro pericoloso. Infine,
+quando la luce del giorno ebbe pienamente rivelato la scena del delitto, si scoprì
+che egli aveva scritto sul muro sopra il [[Body|corpo]] una frase frammentaria,
+apparentemente con un dito intinto nel [[Blood|sangue]]: `Fu legittima difesa e
+lui aveva il fucile. Non intendevo far male a lui né a nessun altro, tranne uno.
+Serbo la pallottola per Pilgrim's Pond. — O.R.' Un uomo deve aver usato
+la più diabolica astuzia, o il più selvaggio e prodigioso ardimento fisico,
+per aver preso d'assalto un simile muro a dispetto di un uomo armato.»
+
+     «Be', lo stile letterario è alquanto migliorato», ammise il prete
+allegramente, «ma continuo a non vedere che cosa posso fare per te.
+Farei una ben magra figura, con le mie gambe corte, a correre per questo Stato
+dietro a un assassino atletico di quella fatta. Dubito che
+qualcuno possa trovarlo. Il penitenziario di Sequah
+è a trenta miglia da qui; la campagna in mezzo è abbastanza selvaggia e intricata,
+e la campagna oltre, dove certamente avrà il buon senso di andare,
+è una perfetta terra di nessuno che degrada verso le praterie.
+Può trovarsi in qualsiasi buca o su qualsiasi albero.»
+
+     «Non è in nessuna buca», disse il governatore; «non è su nessun albero.»
+
+     «Ma via, come lo sai?» chiese Padre Brown, sbattendo le palpebre.
+
+     «Vorresti parlargli?» s'informò Usher.
+
+     Padre Brown spalancò i suoi occhi innocenti. «È qui?»
+esclamò. «Ma via, come hanno fatto i tuoi uomini ad acciuffarlo?»
+
+     «L'ho acciuffato io stesso», strascicò l'americano, alzandosi e
+stirando pigramente le sue lunghe gambe davanti al fuoco. «L'ho acciuffato
+con l'estremità ricurva di un bastone da passeggio. Non fare quella faccia sorpresa.
+L'ho fatto davvero. Sai che ogni tanto faccio un giro per i sentieri di campagna
+fuori da questo luogo tetro; ebbene, stasera presto stavo camminando
+su per un ripido sentiero, con siepi scure e campi arati dall'aria grigia
+da entrambi i lati; ed era sorta una luna nuova che inargentava la strada.
+Alla sua luce vidi un uomo correre attraverso il campo verso la strada;
+correva col corpo piegato e a un buon trotto da corsa sul miglio.
+Sembrava assai sfinito; ma quando giunse alla fitta siepe nera
+vi passò attraverso come se fosse fatta di ragnatele; — o piuttosto
+(perché udii i rami robusti spezzarsi e schioccare come baionette)
+come se lui stesso fosse fatto di pietra. Nell'istante in cui
+apparve stagliato contro la luna, attraversando la strada, gli scagliai il mio bastone uncinato
+tra le gambe, facendolo inciampare e cadere. Poi soffiai nel mio fischietto
+a lungo e forte, e i nostri uomini accorsero per assicurarlo.»
+
+     «Sarebbe stato piuttosto imbarazzante», osservò Brown,
+«se avessi scoperto che era un popolare atleta all'allenamento per la corsa sul miglio.»
+
+     «Non lo era», disse Usher cupamente. «Scoprimmo presto chi fosse;
+ma io l'avevo indovinato al primo bagliore della luna su di lui.»
+
+     «Pensasti che fosse il detenuto evaso», osservò il prete con semplicità,
+«perché quella mattina avevi letto nel ritaglio di giornale che
+un detenuto era evaso.»
+
+     «Avevo motivi un po' migliori», replicò freddamente il governatore.
+«Trascuro il primo, troppo semplice per doverlo sottolineare —
+voglio dire che gli atleti alla moda non corrono attraverso i campi arati
+né si cavano gli occhi nelle siepi di rovi. Né corrono
+tutti curvi come un cane accovacciato. C'erano dettagli più decisivi,
+per un occhio abbastanza ben addestrato. L'uomo era vestito di abiti
+rozzi e cenciosi, ma erano qualcosa di più che semplicemente
+rozzi e cenciosi. Gli stavano così male da risultare del tutto grotteschi;
+perfino mentre appariva in nero controluce contro il levar della luna,
+il bavero della giacca in cui aveva sepolto la testa lo faceva sembrare
+un gobbo, e le lunghe maniche larghe facevano credere che non avesse mani.
+Mi venne subito in mente che in qualche modo era riuscito a cambiare
+i suoi abiti da detenuto con quelli di qualche complice, che non gli andavano.
+In secondo luogo, spirava un vento piuttosto forte contro il quale egli correva;
+sicché avrei dovuto vedere la striatura dei capelli al vento, se i capelli
+non fossero stati cortissimi. Poi mi ricordai che oltre quei
+campi arati che stava attraversando si stendeva Pilgrim's Pond, per il quale
+(ricorderai) il detenuto serbava la sua pallottola;
+e feci volare il mio bastone da passeggio.»
+
+     «Un brillante saggio di deduzione fulminea», disse Padre Brown;
+«ma aveva un fucile?»
+
+     Poiché Usher si fermò di colpo nel suo andirivieni, il prete aggiunse in tono di scusa:
+«Mi hanno detto che una pallottola non serve neppure a metà, senza.»
+
+     «Non aveva fucile», disse l'altro con gravità; «ma ciò era senza dubbio
+dovuto a qualche naturalissimo contrattempo o cambiamento di piani. Probabilmente la
+stessa prudenza che gli fece cambiare gli abiti gli fece abbandonare il fucile;
+cominciò a pentirsi della giacca che aveva lasciato dietro di sé nel sangue
+della sua vittima.»
+
+     «Be', è abbastanza possibile», rispose il prete.
+
+     «E non val quasi la pena di far congetture», disse Usher,
+voltandosi verso certe altre carte, «perché a quest'ora sappiamo che è lui.»
+
+     Il suo amico ecclesiastico chiese fiaccamente: «Ma come?» E Greywood Usher
+gettò via i giornali e riprese in mano i due ritagli di stampa.
+
+     «Ebbene, dato che sei così ostinato», disse, «cominciamo
+dal principio. Noterai che questi due ritagli hanno una sola
+cosa in comune, ed è la menzione di Pilgrim's Pond,
+la tenuta, come sai, del milionario Ireton Todd.
+Sai anche che è un carattere notevole; uno di quelli
+che si sono innalzati usando come gradini —»
+
+     «Le proprie spoglie mortali per salire a cose più alte», assentì il compagno.
+«Sì; lo so. Petrolio, credo.»
+
+     «In ogni caso», disse Usher, «Todd-l'Ultimo-Tiro conta parecchio
+in questa strana faccenda.»
+
+     Si stirò ancora una volta davanti al fuoco e continuò a parlare
+nel suo stile espansivo, radiosamente esplicativo.
+
+     «Tanto per cominciare, a prima vista, qui non c'è alcun mistero.
+Non è misterioso, non è nemmeno strano, che un galeotto porti
+il suo fucile a Pilgrim's Pond. La nostra gente non è come gli inglesi,
+che perdonano a un uomo di essere ricco se butta via denaro
+in ospedali o cavalli. Todd-l'Ultimo-Tiro si è fatto grande
+con le proprie considerevoli capacità; e non c'è dubbio che
+molti di quelli su cui ha esercitato le sue capacità gradirebbero
+esercitare le proprie su di lui con una doppietta. Todd potrebbe facilmente essere abbattuto
+da qualche uomo di cui non ha mai neppure sentito parlare; qualche operaio che ha serrato fuori,
+o qualche impiegato di un'azienda che ha mandato in rovina. L'Ultimo-Tiro è un uomo
+di doti intellettuali e di alta figura pubblica; ma in questo paese
+i rapporti tra datori di lavoro e lavoratori sono considerevolmente tesi.
+
+     «Ecco come appare tutta la faccenda, supponendo che questo Rian
+si sia diretto a Pilgrim's Pond per uccidere Todd. Così parve anche a me,
+finché un'altra piccola scoperta non ridestò quel poco di detective che è in me.
+Quando ebbi il mio prigioniero al sicuro, ripresi il mio bastone e discesi
+a passeggio i due o tre gomiti della strada di campagna che mi portarono a uno degli
+ingressi laterali della tenuta di Todd, quello più vicino alla pozza
+o lago da cui il luogo prende nome. Sarà stato un paio d'ore fa,
+verso le sette a quest'ora; il chiaro di luna era più luminoso,
+e potevo vedere le lunghe striature bianche della sua luce distese sul misterioso stagno
+con le sue rive grigie, untuose, semiliquide, in cui dicono
+che i nostri padri costringevano le streghe a camminare finché non affondavano.
+Ho dimenticato la storia esatta; ma sai il luogo che intendo;
+si trova a nord della casa di Todd, verso la landa selvaggia, e ha due bizzarri
+alberi grinzosi, così tetri da sembrare più enormi funghi
+che decorosa fronda. Mentre stavo là a scrutare quella pozza nebbiosa,
+mi parve di vedere la debole figura di un uomo muoversi dalla casa verso di essa,
+ma tutto era troppo indistinto e lontano perché si potesse esser certi del fatto,
+e ancor meno dei particolari. Del resto, la mia attenzione fu assai bruscamente
+arrestata da qualcosa di molto più vicino. Mi accovacciai dietro la palizzata
+che correva a non più di duecento metri da un'ala del
+grande maniero, e che per fortuna era rotta qua e là,
+come apposta per l'applicazione di un occhio cauto. Una porta si era aperta
+nella scura mole dell'ala sinistra, e una figura apparve nera contro
+l'interno illuminato — una figura imbacuccata, curva in avanti,
+che evidentemente scrutava fuori nella notte. Si richiuse la porta alle spalle,
+e vidi che portava una lanterna, la quale gettava una chiazza di luce imperfetta
+sull'abito e sulla figura di chi la reggeva. Sembrava
+la figura di una donna, avvolta in un mantello a brandelli ed
+evidentemente travestita per non farsi notare; c'era qualcosa di assai strano
+sia negli stracci sia nella furtività di una persona che usciva da
+quelle stanze rivestite d'oro. Ella prese cautamente il curvo sentiero del giardino
+che la condusse a una cinquantina di metri da me —, poi si fermò
+per un istante sulla terrazza d'erba che guarda verso il lago melmoso,
+e reggendo la lanterna fiammeggiante sopra il capo, la fece deliberatamente oscillare
+tre volte avanti e indietro come per un segnale. Mentre la faceva oscillare la seconda volta,
+un guizzo della sua luce cadde per un attimo sul suo viso,
+un viso che conoscevo. Era innaturalmente pallida, e la testa era imbacuccata
+nello scialle plebeo preso in prestito; ma sono certo che era Etta Todd,
+la figlia del milionario.
+
+     «Ella rifece i suoi passi con eguale segretezza e la porta
+si richiuse dietro di lei. Stavo per scavalcare la palizzata e seguirla,
+quando mi resi conto che la febbre da detective che mi aveva attirato
+nell'avventura era piuttosto poco dignitosa; e che, in una veste più
+autorevole, avevo già tutte le carte in mano.
+Stavo appunto voltandomi quando un nuovo rumore ruppe la notte.
+Una finestra fu spalancata a uno dei piani superiori, ma proprio dietro
+l'angolo della casa, sicché non potei vederla; e una voce
+di terribile nitidezza fu udita gridare attraverso il giardino buio
+per sapere dove fosse Lord Falconroy, poiché mancava da ogni stanza
+della casa. Non si poteva sbagliare, quella voce. L'ho
+udita su più d'una tribuna politica o in più d'una riunione di amministratori;
+era Ireton Todd in persona. Alcuni degli altri parevano essere andati
+alle finestre inferiori o sulla gradinata, e gli gridavano
+che Falconroy era andato a fare una passeggiata giù verso Pilgrim's Pond
+un'ora prima, e da allora non se n'era più trovata traccia. Allora Todd gridò
+`Assassinio potente!' e chiuse violentemente la [[Window|finestra]]; e potei udirlo
+precipitarsi giù per le scale all'interno. Riappropriatomi del mio primo
+e più saggio proposito, mi sottrassi in fretta alla via della ricerca generale
+che doveva seguire; e tornai qui non più tardi delle otto in [[Clock|punto]].
+
+     «Ora ti prego di richiamare alla mente quel piccolo trafiletto mondano
+che ti pareva così penosamente privo d'interesse. Se il detenuto
+non serbava il colpo per Todd, come evidentemente non era,
+è quanto mai probabile che lo serbasse per Lord Falconroy;
+e pare che abbia consegnato la merce. Non c'è luogo più comodo
+per abbattere un uomo che nei curiosi dintorni geologici di quella pozza,
+dove un [[Body|corpo]] gettato giù affonderebbe attraverso una fitta melma fino a una profondità
+praticamente ignota. Supponiamo, dunque, che il nostro amico
+dai capelli rasati sia venuto per uccidere Falconroy e non Todd.
+Ma, come ho fatto notare, ci sono molte ragioni per cui in [[America]]
+si potrebbe voler uccidere Todd. Non c'è ragione per cui qualcuno in [[America]]
+dovesse voler uccidere un lord inglese appena sbarcato, tranne l'unica ragione
+menzionata nel giornale rosa — che il lord fa la corte
+alla figlia del milionario. Il nostro amico dai capelli rasati,
+a dispetto dei suoi abiti mal tagliati, dev'essere un [[Lover|corteggiatore]] pieno d'ambizione.
+
+     «So che l'idea ti sembrerà stridente e perfino comica;
+ma è perché sei inglese. A te suona come dire
+che la figlia dell'Arcivescovo di Canterbury sposerà, in
+St George's, Hanover Square, uno spazzino di crocevia in libertà vigilata.
+Non rendi giustizia alla forza scalatrice e aspirante dei
+nostri cittadini più notevoli. Vedi un bell'uomo dai capelli grigi
+in abito da sera con una certa aria d'autorità, sai che è
+un pilastro dello Stato, e t'immagini che abbia avuto un padre. Ti sbagli.
+Non ti rendi conto che, relativamente pochi anni fa, egli può essere stato
+in un casamento popolare o (assai probabilmente) in galera. Non tieni conto della nostra
+esuberanza e slancio nazionale. Molti dei nostri cittadini più influenti
+non solo si sono innalzati di recente, ma si sono innalzati relativamente tardi nella vita.
+La figlia di Todd aveva ben diciott'anni quando suo padre mise su per la prima volta il suo gruzzolo;
+sicché non c'è davvero nulla d'impossibile nel fatto ch'ella abbia uno spasimante
+di bassa condizione; o perfino che si aggrappi a lui, come credo
+che stia facendo, a giudicare dalla faccenda della lanterna. Se è così,
+la mano che reggeva la lanterna potrebbe non essere estranea alla mano
+che reggeva il fucile. Questo caso, signore, farà rumore.»
+
+     «[[Well|Ebbene]]», disse il prete con pazienza, «e che cosa facesti poi?»
+
+     «Immagino che ne rimarrai scandalizzato», rispose Greywood Usher,
+«dato che so che non hai simpatia per la marcia della scienza in queste faccende.
+Qui mi è concessa una buona dose di discrezionalità, e forse me ne prendo un po' di più
+di quanta me ne sia concessa; e pensai che fosse un'eccellente occasione per mettere alla prova
+quella [[Machine|Macchina]] Psicometrica di cui ti ho parlato. Ora, secondo me,
+quella [[Machine|macchina]] non può mentire.»
+
+     «Nessuna [[Machine|macchina]] può mentire», disse [[Father Brown|Padre Brown]]; «né può dire la [[Truth|verità]].»
+
+     «In questo caso l'ha fatto, come ti dimostrerò», proseguì Usher con sicurezza.
+«Feci sedere l'uomo dagli abiti mal tagliati in una comoda poltrona,
+e semplicemente scrissi delle parole su una lavagna; e la [[Machine|macchina]] semplicemente
+registrava le variazioni del suo polso; e io semplicemente osservavo il suo contegno.
+Il trucco sta nell'introdurre qualche parola connessa al presunto delitto
+in un elenco di parole connesse a tutt'altro,
+eppure un elenco in cui essa ricorra in modo del tutto naturale. Così scrissi `airone' e
+`aquila' e `gufo', e quando scrissi `falco' egli fu tremendamente agitato;
+e quando cominciai a tracciare una `r' alla fine della parola,
+quella macchina fece un vero balzo. Chi altri, in questa repubblica, ha una ragione
+di sussultare al nome di un inglese appena arrivato come Falconroy,
+se non l'uomo che l'ha ucciso? Non è forse una prova migliore di
+un mucchio di chiacchiere di testimoni — se è la prova di una macchina affidabile?»
+
+     «Tu dimentichi sempre», osservò il suo compagno, «che la macchina affidabile
+dev'essere sempre azionata da una macchina inaffidabile.»
+
+     «Ma via, che cosa vuoi dire?» chiese il detective.
+
+     «Voglio dire l'Uomo», disse Padre Brown, «la macchina più inaffidabile
+che io conosca. Non voglio essere scortese; e non credo che considererai
+l'Uomo una descrizione offensiva o inesatta di te stesso.
+Dici di aver osservato il suo contegno; ma come sai di averlo osservato bene?
+Dici che le parole devono venire in modo naturale; ma come sai
+di averlo fatto in modo naturale? Come sai, se è per questo,
+che non fu lui a osservare il tuo contegno? Chi può provare che tu non fossi
+tremendamente agitato? Non c'era nessuna macchina legata al tuo polso.»
+
+     «Ti dico», gridò l'americano al colmo dell'eccitazione,
+«che ero freddo come un cetriolo.»
+
+     «Anche i criminali possono essere freddi come cetrioli», disse Brown
+con un sorriso. «E quasi altrettanto freddi quanto te.»
+
+     «Be', questo non lo era», disse Usher, sparpagliando le carte.
+«Oh, mi fai venire il mal di testa!»
+
+     «Mi dispiace», disse l'altro. «Faccio soltanto notare quella che sembra
+una ragionevole possibilità. Se tu potevi capire dal suo contegno quando
+era giunta la parola che poteva mandarlo alla forca, perché non avrebbe potuto lui capire
+dal tuo contegno che la parola che poteva mandarlo alla forca stava arrivando?
+Io, per parte mia, prima d'impiccare qualcuno chiederei ben più che parole.»
+
+     Usher batté il pugno sul tavolo e si alzò in una sorta di trionfo rabbioso.
+
+     «Ed è», gridò, «proprio quel che ti darò.
+Provai la macchina dapprima soltanto per poter poi mettere la cosa alla prova
+in altri modi, e la macchina, signore, ha ragione.»
+
+     Fece una pausa e riprese con minore eccitazione.
+«Voglio piuttosto insistere, se è per questo, sul fatto che fin lì
+avevo ben poco su cui basarmi, oltre all'esperimento scientifico.
+In realtà non c'era proprio nulla contro quell'uomo. Gli abiti gli stavano
+male, come ho detto, ma erano piuttosto migliori, semmai,
+di quelli della classe sommersa a cui evidentemente apparteneva.
+Per giunta, sotto tutte le macchie del suo tuffarsi attraverso i campi arati
+o del suo forzare siepi polverose, l'uomo era relativamente pulito.
+Questo poteva voler dire, naturalmente, che era appena evaso di prigione;
+ma mi ricordava piuttosto la disperata decenza dei poveri relativamente
+rispettabili. Il suo contegno era, sono costretto a confessarlo,
+del tutto conforme al loro. Era silenzioso e dignitoso come lo sono essi;
+sembrava avere un grande, ma sepolto, rancore, come l'hanno essi.
+Professava totale ignoranza del delitto e dell'intera questione;
+e non mostrava altro che una tetra impazienza per qualche cosa sensata
+che venisse a trarlo fuori dal suo insensato impiccio.
+Mi chiese più d'una volta se potesse telefonare a un avvocato
+che l'aveva aiutato molto tempo prima in una vertenza sindacale, e in ogni senso
+si comportava come ci si aspetterebbe che si comportasse un innocente. Non c'era nulla
+al mondo contro di lui, tranne quel piccolo indice sul quadrante
+che segnava il variare del suo polso.
+
+     «Allora, signore, la macchina era sotto processo; e la macchina aveva ragione.
+Quando uscii con lui dalla stanza privata nell'anticamera
+dove ogni sorta d'altra gente attendeva d'essere interrogata,
+credo che avesse già più o meno deciso di chiarire le cose
+con qualcosa di simile a una confessione. Si volse verso di me e cominciò a dire
+a voce bassa: `Oh, non ne posso più. Se proprio dovete sapere
+tutto di me —'
+
+     «Nello stesso istante una delle povere donne sedute sulla lunga panca
+si alzò, gridando a squarciagola e puntandogli contro il dito.
+Mai in vita mia ho udito qualcosa di più demoniacamente distinto.
+Il suo dito scarno pareva individuarlo come se fosse una cerbottana.
+Benché la parola non fosse che un ululato, ogni sillaba era chiara
+come un rintocco distinto sull'[[Clock|orologio]].
+
+     «`Drugger Davis!' gridò. `Hanno preso Drugger Davis!'
+
+     «Fra le disgraziate, per lo più ladre e prostitute,
+venti volti si voltarono, spalancati di gioia maligna e d'odio. Se non avessi mai
+udito le parole, avrei capito dallo stesso urto sui suoi lineamenti
+che il cosiddetto Oscar Rian aveva udito il proprio vero nome. Ma non sono poi
+tanto ignorante, forse ti stupirai a sentirlo. Drugger Davis era
+uno dei criminali più terribili e depravati che mai
+abbiano messo in scacco la nostra polizia. È certo che aveva ucciso più d'una volta,
+molto prima della sua ultima impresa col guardiano. Ma non fu mai del tutto
+incastrato per questo, cosa abbastanza curiosa, perché lo faceva nello stesso modo
+di quei più miti — o più meschini — delitti per i quali veniva incastrato piuttosto spesso.
+Era un bruto bello, dall'aria [[Well|ben]] educata, come lo è ancora, in certa misura;
+e per lo più girava con cameriere di bar o commesse di negozio e le
+truffava dei loro denari. Molto spesso, però, andava assai più oltre;
+e le si trovava narcotizzate con sigarette o cioccolatini e
+tutti i loro averi spariti. Poi venne un caso in cui la ragazza
+fu trovata morta; ma la premeditazione non poté essere del tutto provata, e,
+cosa ancor più pratica, il criminale non poté essere trovato.
+Sentii voce che fosse ricomparso in qualche luogo nel carattere opposto, questa [[Time|volta]],
+prestando denaro invece di prenderlo in prestito;
+ma sempre a povere vedove che egli potesse personalmente affascinare,
+e sempre con lo stesso cattivo esito per loro. [[Well|Ebbene]], ecco
+il tuo uomo [[Innocent|innocente]], ed ecco il suo [[Innocent|innocente]] curriculum. E, da allora,
+ben quattro criminali e tre guardiani l'hanno identificato e hanno confermato la storia.
+Ora, che cos'hai da dire alla mia povera piccola [[Machine|macchina]], dopo questo?
+Non l'ha forse spacciato, la [[Machine|macchina]]? O preferisci dire che io e la donna
+l'abbiamo spacciato noi?»
+
+     «Quanto a ciò che hai fatto per lui», rispose [[Father Brown|Padre Brown]],
+alzandosi e scuotendosi in un modo flaccido, «l'hai salvato
+dalla sedia elettrica. Non credo che possano giustiziare Drugger Davis
+su quella vecchia e vaga storia del [[Poison|veleno]]; e quanto al detenuto
+che uccise il guardiano, immagino sia ovvio che non l'hai preso.
+Il signor Davis è [[Innocent|innocente]] di quel delitto, in ogni caso.»
+
+     «Che cosa vuoi dire?» domandò l'altro. «Perché dovrebbe essere
+[[Innocent|innocente]] di quel delitto?»
+
+     «Ma via, il cielo ci aiuti!» gridò l'ometto in uno dei suoi rari
+momenti di animazione, «ma via, perché è colpevole degli altri delitti!
+Non so di che cosa siate fatti, voialtri. Sembra che pensiate che
+tutti i peccati stiano insieme in un sacco. Parlate come se un avaro il lunedì
+fosse sempre uno scialacquatore il martedì. Mi dici che quest'uomo che tieni qui
+ha passato settimane e mesi ad abbindolare donne bisognose per piccole somme di denaro;
+che usò un narcotico nel migliore dei casi, e un [[Poison|veleno]] nel peggiore;
+che riapparve poi come il più infimo genere di usuraio,
+e truffò la più povera gente col medesimo stile paziente e pacifico.
+Sia pure concesso — ammettiamo, per amor di discussione,
+che abbia fatto tutto questo. Se è così, ti dirò io ciò che non ha fatto.
+Non ha preso d'assalto un [[Storm|muro irto di punte]] contro un uomo con un fucile carico.
+Non ha scritto sul muro di suo pugno, per dire che l'aveva fatto lui.
+Non si è fermato a dichiarare che la sua giustificazione era la legittima [[Self|difesa]].
+Non ha spiegato di non aver alcuna lite col povero guardiano.
+Non ha nominato la [[house|casa]] del ricco a cui si dirigeva col fucile.
+Non ha scritto le proprie iniziali nel [[Blood|sangue]] di un uomo. Santi del cielo!
+Non vedi che tutto il carattere è diverso, nel bene e nel male?
+Ma via, non mi sembri affatto simile a me. Si direbbe
+che tu non abbia mai avuto vizi tuoi.»
+
+     Lo stupefatto americano aveva già dischiuso le labbra per protestare
+quando la porta della sua stanza privata e ufficiale fu percossa
+e scossa in un modo privo di cerimonie a cui egli era del tutto disavvezzo.
+
+     La porta si spalancò. L'istante prima Greywood Usher stava
+giungendo alla conclusione che [[Father Brown|Padre Brown]] fosse forse pazzo.
+L'istante dopo cominciò a pensare che il pazzo fosse lui stesso.
+Irruppe e cadde dentro la sua stanza privata un uomo negli stracci più luridi,
+con un unto cappello floscio ancora storto sul capo, e una scalcinata visiera verde
+spinta su da uno dei suoi occhi, entrambi fiammeggianti come quelli di una tigre.
+Il resto del suo viso era quasi indistinguibile, mascherato com'era da
+una barba e da basette arruffate attraverso cui il naso riusciva a stento
+a sporgere, e ulteriormente sepolto in una lurida sciarpa o fazzoletto rosso.
+Il signor Usher si vantava di aver visto la maggior parte degli esemplari più rozzi
+dello Stato, ma pensò di non aver mai visto un babbuino vestito
+da spaventapasseri come quello. Ma, soprattutto, non aveva mai in tutta la sua
+placida esistenza scientifica sentito un uomo simile rivolgergli per primo la parola.
+
+     «Senta un po', vecchio Usher», gridò l'essere dal fazzoletto rosso,
+«mi sto stancando. Non provi a giocare a nascondino con me;
+non mi lascio mica infinocchiare. Lasci andare i miei ospiti, e io lascerò
+correre sulla vostra graziosa macchineria a orologeria. Lo trattenga qui un solo istante e si
+sentirà proprio meschino. Immagino di non essere un uomo senza appoggi.»
+
+     L'eminente Usher fissava il [[Monster|mostro]] mugghiante
+con uno stupore che aveva prosciugato ogni altro sentimento.
+Il solo urto ai suoi occhi aveva reso le sue orecchie quasi inutili.
+Alla fine suonò un campanello con una mano violenta. Mentre il campanello
+squillava ancora forte, la voce di [[Father Brown|Padre Brown]] scese sommessa ma distinta.
+
+     «Ho una proposta da fare», disse, «ma pare
+un po' sconcertante. Non conosco questo signore — ma —
+ma credo di conoscerlo. Ora, tu lo conosci — lo conosci assai [[Well|bene]] —
+ma non lo conosci — naturalmente. Suona paradossale, lo so.»
+
+     «Immagino che il Cosmo sia impazzito», disse Usher, e crollò spalmato
+nella sua rotonda poltrona d'ufficio.
+
+     «Ora, senta un po'», vociferò lo sconosciuto, battendo sul tavolo,
+ma parlando con una voce tanto più misteriosa
+in quanto era relativamente mite e ragionevole, benché ancora rimbombante.
+«Non la lascerò entrare. Voglio —»
+
+     «Chi diavolo siete voi?» urlò Usher, drizzandosi di colpo a sedere.
+
+     «Credo che il signore si chiami Todd», disse il prete.
+
+     Poi raccolse il ritaglio rosa di giornale.
+
+     «[[Fear|Temo]] che tu non legga per bene i giornali mondani», disse,
+e cominciò a leggere ad alta voce con voce monotona: «`O serrata nei
+seni ingioiellati dei più gai capofila della nostra città; ma si parla
+di una graziosa parodia dei modi e dei costumi dell'altro capo
+della scala sociale.' C'è stata una grande Cena dei Bassifondi, stasera, su a
+Pilgrim's Pond; e un uomo, uno degli invitati, è scomparso.
+Il signor Ireton Todd è un buon padrone di casa, e l'ha rintracciato fin qui,
+senza nemmeno aspettare di togliersi il costume in maschera.»
+
+     «Quale uomo intende?»
+
+     «Intendo l'uomo dagli abiti comicamente mal tagliati che hai visto
+correre attraverso il campo arato. Non faresti meglio ad andare a
+indagare su di lui? Sarà piuttosto impaziente di tornare al suo champagne,
+da cui è fuggito con tanta fretta, quando il detenuto col fucile
+è comparso all'orizzonte.»
+
+     «Vuoi seriamente dire —» cominciò l'ufficiale.
+
+     «Ma via, guardi qui, signor Usher», disse Padre Brown con calma,
+«tu hai detto che la macchina non poteva sbagliare; e in un certo senso non ha sbagliato.
+Ma l'altra macchina sì; la macchina che l'azionava.
+Tu hai supposto che l'uomo in stracci sussultasse al nome di Lord Falconroy
+perché era l'assassino di Lord Falconroy. Sussultò al nome
+di Lord Falconroy perché egli è Lord Falconroy.»
+
+     «E allora perché diamine non l'ha detto?» domandò Usher sbarrando gli occhi.
+
+     «Sentiva che la sua condizione e il suo recente panico non erano molto patrizî»,
+rispose il prete, «e così dapprima cercò di tacere il nome.
+Ma stava appunto per dirtelo, quando» — e Padre Brown abbassò
+lo sguardo sui propri stivali — «quando una donna trovò per lui un altro nome.»
+
+     «Ma non puoi essere tanto pazzo da dire», disse Greywood Usher,
+bianchissimo, «che Lord Falconroy fosse Drugger Davis.»
+
+     Il prete lo guardò con grande serietà, ma con un viso
+sconcertante e indecifrabile.
+
+     «Non dico nulla in proposito», disse. «Lascio
+tutto il resto a te. Il tuo giornale rosa dice che il titolo
+gli fu recentemente rinnovato; ma quei giornali sono assai poco attendibili.
+Dice che egli fu negli Stati in gioventù; ma l'intera storia sembra
+assai strana. Davis e Falconroy sono entrambi due bei codardi,
+ma lo sono anche molti altri uomini. Non impiccherei un cane sulla mia sola opinione
+in proposito. Ma penso», proseguì sommessamente e in tono meditativo,
+«penso che voi americani siate troppo modesti. Penso che idealizziate
+l'aristocrazia inglese — perfino nel supporla tanto aristocratica.
+Vedi un bell'inglese in abito da sera; sai
+che è nella Camera dei Lord; e t'immagini che abbia un padre.
+Non tieni conto della nostra esuberanza e slancio nazionale. Molti dei nostri
+più influenti nobiluomini non solo si sono innalzati di recente, ma —»
+
+     «Oh, smettila!» gridò Greywood Usher, torcendo una magra mano
+d'impazienza contro un'ombra d'ironia sul viso dell'altro.
+
+     «Non stia a parlare con questo lunatico!» gridò Todd brutalmente.
+«Mi porti dal mio amico.»
+
+     La mattina seguente Padre Brown comparve con la stessa espressione compunta,
+recando ancora un altro pezzo di giornale rosa.
+
+     «Temo che tu trascuri piuttosto la stampa mondana», disse,
+«ma questo ritaglio potrebbe interessarti.»
+
+     Usher lesse i titoli: «I Festaioli Smarriti dell'Ultimo-Tiro:
+Ilare Episodio presso Pilgrim's Pond.» Il trafiletto proseguiva:
+«Un'occorrenza risibile ha avuto luogo davanti all'Autorimessa Wilkinson
+la scorsa notte. Un poliziotto di servizio ha avuto l'attenzione richiamata da alcuni monelli
+verso un uomo in tenuta carceraria che saliva con considerevole freddezza
+al posto di guida di una Panhard piuttosto di gran classe; era accompagnato
+da una ragazza avvolta in uno scialle a brandelli. All'intervento della polizia,
+la giovane donna gettò indietro lo scialle, e tutti riconobbero
+la figlia del Milionario Todd, appena giunta dalla Cena Stravagante dei Bassifondi
+allo Stagno, dove tutti gli invitati più scelti erano in un simile déshabillé.
+Ella e il signore che aveva indossato la divisa carceraria stavano andando a fare
+la consueta gita di piacere.»
+
+     Sotto il ritaglio rosa il signor Usher trovò una striscia di un giornale più tardo,
+intitolata: «Sbalorditiva Fuga della Figlia del Milionario con un Detenuto.
+Aveva Lei Organizzato la Cena Stravagante. Ora al Sicuro a —»
+
+     Il signor Greenwood Usher alzò gli occhi, ma Padre Brown se n'era andato.
+
+                                  SEI

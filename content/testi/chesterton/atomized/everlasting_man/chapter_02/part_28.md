@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/everlasting-man-(chesterton)">The Everlasting Man</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/everlasting_man/chapter_02/part_27">‹ part 27</a><a class="ex-next" href="/testi/chesterton/atomized/everlasting_man/chapter_02/part_29">part 29 ›</a></div>
@@ -130,3 +132,129 @@ In other words, the natural mystic does know that there is
 something there; something behind the clouds or within the trees;
 but he believes that the pursuit of [[Beauty|beauty]] is the way to find it;
 that [[Imagination|imagination]] is a sort of incantation that can call it up.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/everlasting-man-(chesterton)">The Everlasting Man</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/everlasting_man/chapter_02/part_27">‹ part 27</a><a class="ex-next" href="/testi/chesterton/atomized/everlasting_man/chapter_02/part_29">part 29 ›</a></div>
+</nav>
+
+Così gli scienziati raramente comprendono, come lo comprendono gli artisti,
+che un ramo del bello è il brutto.
+Raramente concedono la legittima libertà del [[Grotesque|grottesco]].
+E liquideranno un mito selvaggio come rozzo e goffo e nient'altro,
+prova di degradazione, perché non possiede tutta la [[Beauty|bellezza]]
+dell'araldo Mercurio appena posatosi su un [[Hill|colle]] che bacia il cielo;
+mentre in realtà possiede la [[Beauty|bellezza]] della Falsa Tartaruga o del Cappellaio Matto.
+È la prova suprema che un uomo è prosaico il fatto che egli insista sempre
+perché la poesia sia poetica. A volte l'[[Humour|umorismo]]
+sta nel soggetto stesso [[Well|non meno che]] nello stile della [[Fable|favola]].
+Gli aborigeni australiani, considerati i più rozzi tra i selvaggi,
+hanno una storia su un rana gigante che aveva inghiottito il mare e tutte
+le acque del mondo; e che fu costretto a rovesciarle fuori
+solo perché lo si fece ridere. Tutti gli [[Animals|animali]] con tutte le loro buffonerie
+gli sfilarono davanti e, come la [[Queen]] Vittoria, egli non si divertì.
+Alla fine crollò davanti a un'anguilla che stava delicatamente in equilibrio
+sulla punta della coda, senza dubbio con una dignità piuttosto disperata.
+Da quella [[Fable|favola]] si potrebbe ricavare una quantità di raffinata letteratura fantastica.
+C'è [[philosophy|filosofia]] in quella visione del mondo arido prima del beatifico
+[[deluge|Diluvio]] di risa. C'è [[Imagination|immaginazione]] nel montuoso [[Monster|mostro]]
+che erutta come un vulcano acquoreo; c'è un mondo di comicità nel pensiero
+del suo volto sbarrato mentre il pellicano o il pinguino gli passavano davanti.
+Comunque sia, la rana rise; ma lo studioso di folclore rimane [[Grave|serio]].
+
+Inoltre, anche là dove le favole sono inferiori in quanto arte, non possono essere
+giudicate propriamente dalla scienza; e ancor meno propriamente giudicate come scienza.
+Alcuni miti sono assai grezzi e bizzarri, come i primi disegni dei bambini;
+ma il [[Child|bambino]] sta cercando di disegnare. Non è meno un errore trattare
+il suo disegno come se fosse un diagramma, o come se pretendesse di essere un diagramma.
+Lo studioso non può fare un'affermazione scientifica sul selvaggio,
+perché il selvaggio non sta facendo un'affermazione scientifica sul mondo.
+Egli sta dicendo qualcosa di del tutto diverso; qualcosa che si potrebbe chiamare
+il pettegolezzo degli dèi. Possiamo dire, se ci piace, che vi si crede
+prima che ci sia il [[Time|tempo]] di esaminarlo. Sarebbe più esatto dire che
+lo si accetta prima che ci sia il [[Time|tempo]] di crederci.
+
+Confesso di [[Doubt|dubitare]] dell'intera teoria della disseminazione dei miti o
+(come di solito la si intende) di un unico mito. È vero che qualcosa nella nostra
+[[Nature|natura]] e nelle nostre condizioni rende simili molte storie; ma ciascuna di esse
+può essere originale. Un uomo non prende in prestito la storia dall'altro uomo,
+benché possa raccontarla mosso dallo stesso movente dell'altro uomo.
+Sarebbe facile applicare tutto il ragionamento sulla leggenda alla letteratura;
+e trasformarlo in una volgare monomania del plagio. Mi impegnerei
+a rintracciare una nozione come quella del Ramo d'Oro attraverso singoli
+romanzi moderni con la stessa facilità con cui la si segue nei miti comuni e antichi.
+Mi impegnerei a trovare qualcosa come un mazzo di [[Flowers|fiori]]
+che ricompare di continuo, dal fatale bouquet di Becky Sharpe
+al ramoscello di rose inviato dalla Principessa di Ruritania.
+Ma benché questi [[Flowers|fiori]] possano [[spring|sgorgare]] dallo stesso suolo,
+non è lo stesso fiore appassito a passare di mano in mano.
+Quei [[Flowers|fiori]] sono sempre freschi.
+
+La vera origine di tutti i miti è stata scoperta fin troppe volte.
+Ci sono troppe chiavi della mitologia, come ci sono troppi crittogrammi
+in Shakespeare. Tutto è fallico; tutto è totemico;
+tutto è [[Time|semina]] e raccolto; tutto è [[Ghosts|fantasmi]]
+e offerte alla [[Grave|tomba]]; tutto è il ramo d'oro del sacrificio;
+tutto è il sole e la [[Moon|luna]]; tutto è tutto.
+Ogni studioso di folclore che sapesse un po' più della propria monomania,
+ogni uomo di più ampie letture e di cultura critica come Andrew Lang,
+ha praticamente confessato che lo smarrimento di fronte a queste cose gli lasciava
+la testa in un vortice. Eppure tutto il guaio nasce dal fatto che un uomo cerca di guardare
+queste storie dall'esterno, come se fossero oggetti scientifici.
+Non deve fare altro che guardarle dall'interno, e domandarsi come lui stesso
+comincerebbe una storia. Una storia può cominciare da qualsiasi cosa e andare ovunque.
+Può cominciare da un uccello senza che l'uccello sia un totem;
+può cominciare dal sole senza essere un mito solare. Si dice
+che al mondo esistano soltanto dieci trame; e vi saranno di certo
+elementi comuni e ricorrenti. Mettete diecimila bambini a chiacchierare
+tutti insieme, a raccontare frottole su ciò che hanno fatto nel bosco,
+e non sarà difficile trovare paralleli che facciano pensare al culto del sole
+o al culto degli animali. Alcune delle storie potranno essere graziose, altre sciocche
+e altre forse sconce; ma possono essere giudicate soltanto come storie.
+Nel dialetto moderno, possono essere giudicate soltanto esteticamente.
+È strano che l'estetica, o il puro sentire, cui oggi si consente
+di usurpare là dove non ha alcun diritto, di far naufragare la ragione con il pragmatismo
+e la morale con l'anarchia, non sia a quanto pare autorizzata a dare un giudizio
+puramente estetico su ciò che è manifestamente una questione puramente estetica.
+Possiamo essere fantasiosi su qualunque cosa tranne che sulle fiabe.
+
+Ora, il primo dato di fatto è che le persone più semplici hanno le idee
+più sottili. Tutti dovrebbero saperlo, perché tutti
+sono stati [[Child|bambini]]. Per quanto ignorante sia un [[Child|bambino]], egli sa più di
+quanto sappia dire e avverte non soltanto le atmosfere, ma le sfumature più delicate.
+E in questa materia vi sono parecchie sfumature delicate. Nessuno la comprende
+se non ha provato ciò che si può chiamare soltanto lo struggimento dell'[[Artist|artista]]
+nel cercare qualche senso e qualche storia nelle cose belle che vede;
+la sua fame di [[Secrets|segreti]] e la sua ira verso ogni torre o albero che gli sfugga
+lasciando il proprio racconto non narrato. Egli sente che nulla è perfetto se non
+è personale. Senza di ciò la cieca, inconsapevole [[Beauty|bellezza]]
+del mondo se ne sta nel suo [[Garden|giardino]] come una statua senza testa.
+Basta essere un poeta minore di quart'ordine per aver lottato con la torre
+o con l'albero finché non ha parlato come un titano o una driade. Si dice spesso
+che la mitologia pagana fosse una personificazione delle potenze della [[Nature|natura]].
+La frase è vera in un certo senso, ma è assai insoddisfacente;
+perché implica che le forze siano astrazioni e
+la personificazione sia artificiale. I miti non sono allegorie.
+Le potenze naturali non sono, in questo caso, astrazioni. Non è come se ci
+fosse un Dio della Gravitazione. Può esserci un genio della cascata;
+ma non del mero cadere, e ancor meno che della mera [[Water|acqua]].
+La personificazione non è di qualcosa d'impersonale. Il punto
+è che la personalità perfeziona l'[[Water|acqua]] con un significato.
+Babbo Natale non è un'[[Allegory|allegoria]] della [[Snow|neve]] e dell'agrifoglio;
+non è semplicemente la sostanza chiamata [[Snow|neve]] cui in seguito si sia dato
+artificialmente forma umana, come a un pupazzo di [[Snow|neve]]. Egli è qualcosa che dà
+un nuovo significato al mondo bianco e ai sempreverdi, sicché la [[Snow|neve]]
+stessa pare calda anziché fredda. La prova, dunque,
+è puramente immaginativa. Ma immaginativo non significa immaginario.
+Non ne consegue che tutto sia ciò che i moderni chiamano soggettivo,
+quando intendono falso. Ogni vero [[Artist|artista]] sente davvero, consapevolmente
+o inconsapevolmente, di toccare verità trascendentali;
+che le sue immagini sono ombre di cose viste attraverso il velo.
+In altre parole, il mistico naturale sa che c'è
+qualcosa là; qualcosa dietro le nuvole o dentro gli alberi;
+ma crede che la ricerca della [[Beauty|bellezza]] sia la via per trovarlo;
+che l'[[Imagination|immaginazione]] sia una sorta d'incantesimo capace di evocarlo.

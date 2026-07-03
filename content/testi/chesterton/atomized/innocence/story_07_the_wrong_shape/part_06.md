@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/innocence-(chesterton)">The Innocence of Father Brown</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/innocence/story_07_the_wrong_shape/part_05">‹ part 05</a><a class="ex-next" href="/testi/chesterton/atomized/innocence/story_07_the_wrong_shape/part_07">part 07 ›</a></div>
@@ -171,3 +173,171 @@ gigantic, managed to lift himself on his elbow and gasp in his
 nephew's ear:  `I die by my own hand, yet I die murdered!'"  It so
 
 happened by one chance out of a hundred, that those last words
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/innocence-(chesterton)">The Innocence of Father Brown</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/innocence/story_07_the_wrong_shape/part_05">‹ part 05</a><a class="ex-next" href="/testi/chesterton/atomized/innocence/story_07_the_wrong_shape/part_07">part 07 ›</a></div>
+</nav>
+
+# [[innocence]] — La forma sbagliata (parte 6)
+
+«Intendo il foglio su cui Quinton scrisse `Muoio per mia propria mano'»,
+rispose [[Father Brown|Padre Brown]]. «La forma di quel foglio, amico mio,
+era la forma sbagliata; la forma sbagliata, se mai ne ho vista una
+in questo mondo malvagio.»
+
+«Aveva soltanto un angolo tagliato via», disse [[Flambeau]], «e mi risulta
+che tutta la carta di Quinton fosse tagliata in quel modo.»
+
+«Era un modo assai strano», disse l'altro, «e un modo assai cattivo,
+per il mio gusto e la mia fantasia. Ascolta, [[Flambeau]], questo Quinton — Dio
+ne accolga l'[[Soul|anima]]! — era forse per certi versi un po' un mascalzone,
+ma era davvero un [[Artist|artista]], con la matita [[Well|non]] meno che con la penna.
+La sua calligrafia, benché difficile da leggere, era ardita e bella.
+Non posso provare ciò che dico; non posso provare nulla.
+Ma ti dico con tutta la forza della convinzione che egli non avrebbe
+mai potuto ritagliare quel meschino pezzetto da un foglio di carta.
+Se avesse voluto ritagliare la carta per qualche scopo di adattamento,
+o di rilegatura, o che so io, avrebbe dato tutta un'altra
+sforbiciata. Ti ricordi la forma?
+Era una forma meschina. Era una forma sbagliata. Come questa.
+Non te la ricordi?»
+
+E agitò dinanzi a sé il sigaro acceso nel buio,
+tracciando quadrati irregolari con tale rapidità che [[Flambeau]] davvero
+parve vederli come geroglifici di fuoco sul buio —
+geroglifici come quelli di cui l'amico aveva parlato, che sono indecifrabili,
+eppure non possono avere alcun buon significato.
+
+«Ma», disse [[Flambeau]], mentre il prete si rimetteva il sigaro in bocca
+e si appoggiava all'indietro, fissando il tetto, «supponi che qualcun altro abbia usato
+le forbici. Perché mai qualcun altro, tagliando pezzi dalla sua carta da sermoni,
+avrebbe indotto Quinton a commettere [[suicide|suicidio]]?»
+
+[[Father Brown|Padre Brown]] era ancora appoggiato all'indietro e fissava il tetto,
+ma si tolse il sigaro di bocca e disse:
+«Quinton non commise mai [[suicide|suicidio]].»
+
+[[Flambeau]] lo fissò. «Ma, corpo di mille diavoli», esclamò,
+«allora perché confessò il [[suicide|suicidio]]?»
+
+Il prete si sporse di nuovo in avanti, appoggiò i gomiti sulle ginocchia,
+guardò il suolo, e disse, con voce bassa e distinta:
+«Non confessò mai il [[suicide|suicidio]].»
+
+[[Flambeau]] posò il sigaro. «Vuoi dire», disse,
+«che la scrittura era falsificata?»
+
+«No», disse [[Father Brown|Padre Brown]]. «Quinton la scrisse davvero.»
+
+«[[Well|Ebbene]], eccoci qua», disse l'esasperato [[Flambeau]]; «Quinton scrisse
+`Muoio per mia propria mano', di sua propria mano, su un semplice foglio di carta.»
+
+«Della forma sbagliata», disse il prete con calma.
+
+«Oh, al diavolo la forma!» esclamò Flambeau. «Che cosa c'entra la forma
+con tutto questo?»
+
+«C'erano ventitré fogli tagliati», riprese Brown impassibile,
+«e solo ventidue pezzi tagliati via. Dunque uno dei pezzi
+era stato distrutto, probabilmente quello del foglio scritto.
+Questo ti suggerisce qualcosa?»
+
+Una luce albeggiò sul volto di Flambeau, ed egli disse:
+«C'era qualcos'altro scritto da Quinton, qualche altra parola.
+`Vi diranno che muoio per mia propria mano', o `Non crediate che...'»
+
+«Più caldo, come dicono i bambini», disse l'amico. «Ma il pezzo era largo
+appena mezzo pollice; non c'era spazio per una parola, figuriamoci per cinque.
+Riesci a pensare a qualcosa poco più grande di una virgola, che l'uomo con l'inferno
+nel cuore ha dovuto strappar via come testimonianza contro di sé?»
+
+«Non riesco a pensare a nulla», disse Flambeau alla fine.
+
+«E le virgolette?» disse il prete, e scagliò il sigaro
+lontano nel buio come una stella cadente.
+
+Ogni parola era svanita dalla bocca dell'altro, e Padre Brown disse,
+come chi torna ai fondamenti:
+
+«Leonard Quinton era un romanziere, e stava scrivendo un romanzo
+orientale intorno alla stregoneria e all'ipnotismo. Egli...»
+
+In quel momento la porta si aprì bruscamente dietro di loro, e il medico
+uscì col cappello in testa. Mise una lunga busta nelle mani del prete.
+
+«Ecco il documento che voleva», disse, «e io devo tornarmene a casa.
+Buona notte.»
+
+«Buona notte», disse Padre Brown, mentre il medico si dirigeva a passo spedito verso il cancello.
+Aveva lasciato aperta la porta d'ingresso, così che un fascio di luce a gas cadeva su di loro.
+Alla luce di questo Brown aprì la busta e lesse le seguenti parole:
+
+CARO PADRE BROWN, — Vicisti Galilee. Per il resto, che siano maledetti i vostri
+
+occhi, che sono davvero molto penetranti. È mai possibile che
+
+ci sia qualcosa in tutte le vostre fandonie, dopotutto?
+
+Sono un uomo che fin dalla fanciullezza ha creduto nella Natura e
+
+in tutte le funzioni e gli istinti naturali, che gli uomini li chiamassero
+
+morali o immorali. Molto prima di diventare medico, quando ero uno
+
+scolaro che allevava topi e ragni, credevo che essere un buon
+
+animale fosse la cosa migliore al mondo. Ma proprio ora vacillo;
+
+ho creduto nella Natura; eppure sembra che la Natura possa tradire
+
+un uomo. Può esserci qualcosa nelle vostre sciocchezze? Sto davvero diventando
+
+morboso.
+
+Amavo la moglie di Quinton. Che male c'era in questo? La Natura
+
+me lo diceva, ed è l'amore che fa girare il mondo. E poi
+
+pensavo, in tutta sincerità, che sarebbe stata più felice con un animale pulito
+
+come me che con quel piccolo lunatico tormentoso. Che male
+
+c'era in questo? Non facevo che guardare in faccia i fatti, da uomo di
+
+scienza. Sarebbe stata più felice.
+
+Secondo il mio proprio credo ero pienamente libero di uccidere Quinton,
+
+il che era la cosa migliore per tutti, perfino per lui stesso.
+Ma in quanto
+
+animale sano, non avevo la minima intenzione di uccidere me stesso. Decisi,
+
+perciò, che non l'avrei mai fatto finché non avessi visto un'occasione che
+
+mi lasciasse del tutto impunito. Quell'occasione l'ho vista questa mattina.
+
+Oggi sono entrato, in tutto, tre volte nello studio di Quinton.
+
+La prima volta che entrai, non voleva parlare d'altro che della bizzarra
+
+novella, intitolata «The Cure of a Saint», che stava scrivendo, e che
+
+parlava di come un certo eremita indiano inducesse un colonnello inglese a
+
+uccidersi soltanto pensando a lui. Mi mostrò gli ultimi fogli, e
+
+mi lesse persino l'ultimo paragrafo, che suonava press'a poco così:
+
+«Il conquistatore del Punjab, ormai un mero scheletro giallo, ma ancora
+
+gigantesco, riuscì a sollevarsi sul gomito e a rantolare all'orecchio del
+
+nipote: `Muoio per mia propria mano, eppure muoio assassinato!'» Accadde
+
+così, per un caso su cento, che quelle ultime parole

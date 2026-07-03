@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/everlasting-man-(chesterton)">The Everlasting Man</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/everlasting_man/chapter_01_on_the_man_called_christ_chris/part_04">‹ part 04</a><a class="ex-next" href="/testi/chesterton/atomized/everlasting_man/chapter_02/part_02">part 02 ›</a></div>
@@ -118,3 +120,30 @@ particular examples elsewhere; the question here is the false atmosphere
 of facility and ease given by the mere suggestion of going slow;
 the sort of comfort that might be given to a nervous old woman
 travelling for the first [[Time|time]] in a motor-car.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/everlasting-man-(chesterton)">The Everlasting Man</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/everlasting_man/chapter_01_on_the_man_called_christ_chris/part_04">‹ part 04</a><a class="ex-next" href="/testi/chesterton/atomized/everlasting_man/chapter_02/part_02">part 02 ›</a></div>
+</nav>
+
+PARTE I
+
+Sulla creatura chiamata uomo
+
+* * *
+
+I
+
+L'UOMO NELLA [[Cave|CAVERNA]]
+
+Lontano, in qualche strana costellazione entro cieli infinitamente remoti, vi è una piccola stella che forse un giorno gli astronomi scopriranno. O almeno, nei volti e nel contegno della maggior parte degli astronomi e degli uomini di scienza non ho mai potuto scorgere prova alcuna che l'abbiano scoperta; sebbene, a dire il vero, essi vi camminassero sopra da sempre, per tutto il [[Time|tempo]]. È una stella che trae fuori da sé piante assai strane e assai strani [[Animals|animali]]; e nessuno più strano degli uomini di scienza. Così, quantomeno, comincerei una [[history|storia]] del mondo, se dovessi seguire l'uso scientifico di aprire con un ragguaglio sull'universo astronomico. Cercherei di vedere anche questa terra dal di fuori, non con la trita insistenza sulla sua posizione relativa rispetto al sole, ma con qualche sforzo d'immaginazione per concepire la sua remota collocazione agli occhi di uno spettatore disumanizzato. Se non che io non credo che ci si debba disumanizzare per studiare l'umanità. Non credo che valga la pena di indugiare sulle distanze che si suppone [[Dwarf|impiccioliscano]] il mondo; anzi, trovo che ci sia qualcosa di un tantino volgare in questa idea di voler mortificare lo spirito con la mole. E poiché la prima idea non è praticabile, quella cioè di fare della terra un pianeta strano per renderla significativa, non mi abbasserò all'altro espediente di farne un piccolo pianeta per renderla insignificante. Preferirei insistere sul fatto che noi non sappiamo neppure che sia un pianeta, nel senso in cui sappiamo che è un luogo; e per giunta un luogo straordinarissimo. Questa è la nota che desidero far risuonare fin da principio, se non in chiave astronomica, almeno in qualche foggia più familiare.
+
+Una delle mie prime avventure, o disavventure, giornalistiche riguardò un commento a Grant Allen, il quale aveva scritto un libro sull'Evoluzione dell'Idea di Dio. Mi accadde di osservare che sarebbe stato assai più interessante se Dio avesse scritto un libro sull'evoluzione dell'idea di Grant Allen. E ricordo che il direttore obiettò al mio rilievo sostenendo che fosse blasfemo; il che, com'è naturale, mi divertì non poco. Poiché il bello, s'intende, era che non gli venne mai in mente di badare al titolo stesso del libro, il quale sì che era davvero blasfemo; giacché esso significava, tradotto in italiano: «Vi mostrerò come questa insensata fantasticheria che esista un Dio abbia preso a germogliare fra gli uomini». Il mio rilievo era invece rigorosamente pio e conveniente, poiché confessava il disegno divino perfino nelle sue manifestazioni all'apparenza più oscure o prive di senso. In quell'ora imparai molte cose, compreso il fatto che vi è qualcosa di puramente acustico in gran parte di quella riverenza di stampo agnostico. Il direttore non aveva colto il punto, perché nel titolo del libro la parola lunga veniva al principio e quella breve alla fine; mentre nei miei commenti la parola breve veniva al principio e gli procurava una specie di scossa. Ho notato che, se si mette una parola come Dio nella stessa frase con una parola come cane, questi vocaboli bruschi e angolosi colpiscono la gente come [[Pistol|colpi di pistola]]. Che si dica che Dio ha fatto il cane o che il cane ha fatto Dio non pare avere importanza; è soltanto una delle sterili dispute dei teologi troppo sottili. Ma finché si comincia con una parola lunga come evoluzione, tutto il resto scivolerà via senza danno; molto probabilmente il direttore non aveva letto per intero il titolo, giacché è un titolo piuttosto lungo ed egli era un uomo piuttosto indaffarato.
+
+Ma questo piccolo episodio mi è sempre rimasto nella mente come una sorta di [[Parable|parabola]]. La maggior parte delle storie moderne dell'umanità comincia con la parola evoluzione, e con una esposizione dell'evoluzione piuttosto prolissa, per la medesima ragione che operò in quel caso. C'è qualcosa di lento, di blando e di graduale in quella parola e perfino in quell'idea. In realtà, toccando queste cose primordiali, non è una parola molto pratica né un'idea molto proficua. Nessuno riesce a immaginare come il nulla possa mutarsi in qualcosa. Nessuno si avvicina di un pollice alla cosa spiegando come qualcosa possa mutarsi in qualcos'altro. È in verità assai più logico cominciare col dire «In principio Dio creò il cielo e la terra», anche se con ciò si intende soltanto «In principio una qualche potenza impensabile diede avvio a un qualche processo impensabile». Poiché Dio è per sua [[Nature|natura]] un nome di mistero, e nessuno ha mai supposto che l'uomo potesse immaginare come un mondo fosse creato, più di quanto potesse crearne uno. L'evoluzione, invece, viene davvero scambiata per una spiegazione. Ha la fatale qualità di lasciare in molte menti l'impressione che esse comprendano l'evoluzione e ogni altra cosa; proprio come molti di costoro vivono in una sorta d'illusione di aver letto l'Origine delle specie.
+
+Ma questa nozione di qualcosa di dolce e lento, come il salire di un pendio, è gran parte dell'illusione. È un'illogicità non meno che [[Well|pure]] un'illusione; giacché la lentezza non ha in realtà nulla a che vedere con la questione. Un evento non è intrinsecamente più intelligibile o inintelligibile a seconda del passo con cui procede. Per un uomo che non crede al miracolo, un miracolo lento sarebbe altrettanto incredibile quanto uno rapido. La [[Witch|maga]] greca può aver mutato i marinai in porci con un colpo di bacchetta. Ma vedere un gentiluomo di marina di nostra conoscenza somigliare ogni giorno un po' di più a un maiale, finché non finisse con quattro zampette e una coda arricciata, non sarebbe punto più rasserenante. Sarebbe forse alquanto più raccapricciante e [[Uncanny|perturbante]]. Il mago medievale può aver volato per l'aria dalla cima di una torre; ma vedere un vecchio signore passeggiare per l'aria, con fare agiato e indolente, sembrerebbe pur sempre reclamare qualche spiegazione. Eppure per tutta la trattazione razionalistica della [[history|storia]] corre questa curiosa e confusa idea che la difficoltà si eluda, o addirittura il mistero si elimini, indugiando sul mero ritardo o su qualcosa di dilatorio nel corso delle cose. Vi sarà qualcosa da dire su esempi particolari altrove; qui la questione è la falsa atmosfera di agevolezza e di comodità offerta dalla semplice suggestione dell'andare adagio; quella sorta di conforto che si potrebbe dare a una vecchietta nervosa che viaggia per la prima [[Time|volta]] in automobile.

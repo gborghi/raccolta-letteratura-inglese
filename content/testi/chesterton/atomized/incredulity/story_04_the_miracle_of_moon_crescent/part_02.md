@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/incredulity-(chesterton)">Incredulity</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/incredulity/story_04_the_miracle_of_moon_crescent/part_01">‹ part 01</a><a class="ex-next" href="/testi/chesterton/atomized/incredulity/story_04_the_miracle_of_moon_crescent/part_03">part 03 ›</a></div>
@@ -128,3 +130,127 @@ But the priest stood his ground.
 `It seems odd, but that's exactly what I do want to do.
 I don't want to speak to him.  I just want to see him.
 I just want to see if he's there to be seen.'
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/incredulity-(chesterton)">Incredulity</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/incredulity/story_04_the_miracle_of_moon_crescent/part_01">‹ part 01</a><a class="ex-next" href="/testi/chesterton/atomized/incredulity/story_04_the_miracle_of_moon_crescent/part_03">part 03 ›</a></div>
+</nav>
+
+I tre uomini uscirono insieme nel corridoio, chiudendosi la porta
+alle spalle. Wilson, il grosso domestico, imboccava il corridoio
+in direzione dell'impiegato di piano, mentre gli altri due si muovevano
+nella direzione opposta, verso l'ascensore; giacché l'appartamento di Wynd
+era là in alto, al quattordicesimo piano. Non si erano allontanati d'una
+iarda dalla porta chiusa quando s'accorsero che il corridoio
+era invaso da una figura incedente e persino magnifica.
+L'uomo era altissimo e dalle larghe spalle, e la sua mole appariva
+tanto più cospicua per essere ammantata di bianco, o d'un grigio chiaro
+che gli somigliava, con un panama bianco assai largo e una frangia
+o aureola quasi altrettanto larga di capelli quasi altrettanto bianchi.
+Incastonato in quell'aureola, il suo volto era forte e bello, come quello
+d'un imperatore romano, salvo che v'era qualcosa di più che fanciullesco,
+qualcosa d'un poco puerile, nel fulgore dei suoi occhi
+e nella beatitudine del suo sorriso. «C'è il signor Warren Wynd?» domandò,
+con tono cordiale.
+
+«Il signor Warren Wynd è occupato», disse Fenner; «non deve essere disturbato per
+nessuna ragione. Le dirò che sono il suo segretario e posso riferire qualunque messaggio.»
+
+«Il signor Warren Wynd non riceve né il Papa né le Teste Coronate»,
+disse Vandam, il magnate del petrolio, con acida ironia. «Il signor Warren Wynd
+è terribilmente schizzinoso. Sono entrato là dentro per consegnargli una bazzecola
+di ventimila dollari a certe condizioni, e lui mi ha detto
+di ripassare, come se io fossi un fattorino.»
+
+«È una bella cosa essere un ragazzo», disse lo sconosciuto, «e più bella
+ancora avere una vocazione; e io ho una chiamata che lui non potrà non ascoltare.
+È la chiamata del grande, buon paese laggiù nell'Ovest, dove il vero
+americano si viene forgiando mentre voialtri ve ne state a russare. Ditegli soltanto
+che Art Alboin di Oklahoma [[City]] è venuto a [[convert|convertirlo]].»
+
+«Le ripeto che nessuno può vederlo», disse tagliente il segretario dai capelli rossi.
+«Ha dato ordine di non essere disturbato per mezz'ora.»
+
+«Voialtri dell'Est siete tutti contro il farvi disturbare»,
+disse il gioviale signor Alboin, «ma calcolo che sta montando un gran
+vento laggiù nell'Ovest che vi dovrà pur disturbare.
+Lui sta lì a calcolare quanto denaro deve andare a questa e a quella
+soffocante vecchia religione; ma io le dico che qualunque piano [[Leaves|escluda]]
+il nuovo movimento del Grande Spirito nel Texas e nell'Oklahoma
+esclude la religione dell'avvenire.»
+
+«Oh, li ho già soppesati io codesti culti dell'avvenire», disse il
+milionario, con disprezzo. «Li ho passati al pettine fitto
+e sono rognosi come [[dogs|cani]] gialli. C'era quella donna che si faceva
+chiamare Sophia: avrebbe dovuto chiamarsi Saffira, mi sa.
+Una frode bell'e buona. Fili legati a tutti i tavolini e ai tamburelli.
+Poi c'era la combriccola della Vita Invisibile; dicevano di potersi far dileguare
+a piacere, e si dileguarono davvero, e centomila
+dei miei dollari si dileguarono con loro. Conobbi Giove Gesù laggiù a Denver;
+lo frequentai per settimane intere; ed era soltanto un truffatore volgare.
+Come lo era il [[Prophet|Profeta]] della Patagonia; ci scommetto che è filato a gambe in Patagonia.
+No, ho chiuso con tutta questa roba; d'ora in poi credo solo a ciò che vedo.
+Credo che lo chiamino essere ateo.»
+
+«Mi sa che m'ha frainteso», disse l'uomo dell'Oklahoma,
+quasi con foga. «Mi sa che sono ateo tanto quanto lei.
+Niente roba [[Supernatural|soprannaturale]] o superstiziosa nel nostro movimento;
+soltanto pura scienza. L'unica vera, giusta scienza è la salute,
+e l'unica vera, giusta salute è il respiro.
+Riempitevi i polmoni dell'aria sconfinata della prateria e potreste
+soffiar via nel mare tutte le vostre vecchie città dell'Est.
+Potreste sbuffar via i vostri uomini più grandi come lanugine di cardo.
+Ecco cosa facciamo nel nuovo movimento laggiù a [[Home|casa]]: respiriamo.
+Non preghiamo; respiriamo.»
+
+«Be', immagino di sì», disse il segretario, con stanchezza. Aveva un volto acuto,
+intelligente, che a stento riusciva a celare la stanchezza; ma aveva
+ascoltato i due monologhi con quell'ammirevole pazienza e cortesia
+(così in contrasto con le leggende d'impazienza e insolenza)
+con cui simili monologhi vengono ascoltati in America.
+
+«Niente di [[Supernatural|soprannaturale]]», proseguì Alboin, «soltanto il grande
+fatto naturale che sta dietro a tutte le fantasie soprannaturali. Che se ne facevano gli Ebrei
+d'un Dio, se non per soffiare nelle narici dell'uomo il soffio della vita?
+Noi ce lo soffiamo da noi, nelle nostre narici, laggiù in Oklahoma.
+Che significa infatti la parola stessa Spirito? Non è che il greco
+per esercizi di respirazione. Vita, progresso, profezia: è tutto respiro.»
+
+«C'è chi direbbe che è tutto [[Wind|vento]]», disse Vandam; «ma sono contento
+che tu ti sia sbarazzato della trovata della divinità, in ogni caso.»
+
+Il volto acuto del segretario, piuttosto pallido contro i capelli rossi,
+tradì un guizzo di qualche strano sentimento, indizio d'un'amarezza segreta.
+
+«Io non sono contento», disse, «sono soltanto certo. A voi pare che piaccia essere atei;
+sicché forse credete semplicemente a ciò che vi piace credere. Ma. Vorrei
+per Dio che ci fosse un Dio; e non c'è. È proprio la mia fortuna.»
+
+Senza un suono né un moto, in quell'istante s'avvidero tutti, con un brivido
+quasi sinistro, che il gruppo fermo davanti alla porta
+di Wynd era silenziosamente cresciuto da tre figure a quattro.
+Da quanto la quarta figura fosse là ritta, nessuno di quei ferventi
+disputanti avrebbe saputo dirlo, ma aveva tutta l'aria di aspettare
+rispettosamente, e persino timidamente, l'occasione di dire
+qualcosa d'urgente. Alla loro sensibilità già scossa, tuttavia, parve
+ch'egli fosse spuntato d'improvviso e in silenzio come un fungo.
+E in effetti somigliava piuttosto a un grosso fungo nero,
+poiché era assai basso e la sua piccola, tozza figura era eclissata
+dal suo grande, nero cappello ecclesiastico; la somiglianza sarebbe stata
+ancor più compiuta se i funghi avessero l'abitudine di portare ombrelli,
+foss'anche d'una specie lisa e sformata.
+
+Fenner, il segretario, provò una curiosa sorpresa in più
+riconoscendo la figura d'un prete; ma quando il prete sollevò
+un volto tondo di sotto il tondo cappello e domandò con candore del signor Warren Wynd,
+gli diede la consueta risposta negativa in modo ancor più brusco di prima.
+Ma il prete non si mosse d'un passo.
+
+«Desidero davvero vedere il signor Wynd», disse.
+«Sembra strano, ma è proprio questo che desidero fare.
+Non voglio parlargli. Voglio soltanto vederlo.
+Voglio soltanto vedere se è là, da poter esser visto.»

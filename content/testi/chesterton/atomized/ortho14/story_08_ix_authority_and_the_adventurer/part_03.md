@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/ortho14-(chesterton)">Orthodoxy</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/ortho14/story_08_ix_authority_and_the_adventurer/part_02">‹ part 02</a><a class="ex-next" href="/testi/chesterton/atomized/ortho14/story_08_ix_authority_and_the_adventurer/part_04">part 04 ›</a></div>
@@ -115,3 +117,115 @@ because Christian art was sad and pale, but it was picked out
 in peculiarly bright colours and gay with gold; because modern science
 is moving away from the [[Supernatural|supernatural]], but it isn't, it is moving towards
 the [[Supernatural|supernatural]] with the rapidity of a railway train.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/ortho14-(chesterton)">Orthodoxy</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/ortho14/story_08_ix_authority_and_the_adventurer/part_02">‹ part 02</a><a class="ex-next" href="/testi/chesterton/atomized/ortho14/story_08_ix_authority_and_the_adventurer/part_04">part 04 ›</a></div>
+</nav>
+
+# [[ortho14]] — Autorità e avventuriero (parte 3)
+
+Prendo in ordine l'istanza successiva che mi viene offerta: l'idea che il [[Christianity|Cristianesimo]]
+appartenga ai Secoli Bui. Qui non mi accontentai di leggere
+generalizzazioni moderne; lessi un po' di [[history|storia]]. E nella [[history|storia]]
+scoprii che il [[Christianity|Cristianesimo]], lungi dall'appartenere ai Secoli Bui,
+era l'unico sentiero attraverso i Secoli Bui che non fosse buio.
+Era un ponte splendente che congiungeva due splendenti civiltà.
+Se qualcuno dice che la [[Faith|fede]] sorse nell'ignoranza e nella barbarie,
+la risposta è semplice: non è così. Sorse nella civiltà
+mediterranea, in piena [[Summer|estate]] dell'Impero Romano. Il mondo
+brulicava di scettici, e il panteismo era chiaro come il sole,
+quando Costantino inchiodò la [[Cross|croce]] all'albero maestro. È perfettamente vero
+che in seguito la [[Ship|nave]] affondò; ma è assai più straordinario
+che la [[Ship|nave]] sia riemersa: ridipinta e scintillante, con la [[Cross|croce]]
+ancora in cima. Questa è la cosa prodigiosa che compì la religione:
+trasformò una [[Ship|nave]] affondata in un sottomarino. L'arca visse
+sotto il peso delle acque; dopo essere stati sepolti sotto le macerie di
+dinastie e clan, risorgemmo e ci ricordammo di Roma. Se la nostra [[Faith|fede]]
+fosse stata una semplice moda dell'impero morente, moda avrebbe seguito moda
+nel crepuscolo, e se mai la civiltà fosse riemersa (e molte di esse
+non sono mai riemerse) lo avrebbe fatto sotto qualche nuova barbarica [[Flag|bandiera]].
+Ma la Chiesa cristiana fu l'ultima vita della vecchia società e fu anche
+la prima vita della nuova. Prese la gente che stava dimenticando
+come si costruisce un arco e le insegnò a inventare l'arco gotico.
+In una parola, la cosa più assurda che si possa dire della Chiesa
+è la cosa che tutti abbiamo sentito dire di essa. Come possiamo affermare che
+la Chiesa desidera ricondurci nei Secoli Bui?
+La Chiesa fu l'unica cosa che mai ce ne trasse fuori.
+
+     In questa seconda triade di obiezioni aggiungevo un'istanza oziosa,
+tratta da coloro che sentono un popolo come quello irlandese indebolito
+o reso stagnante dalla superstizione. La aggiungevo soltanto perché è
+un caso peculiare di un'affermazione di fatto che si rivela
+un'affermazione di falsità. Si dice di continuo degli irlandesi
+che sono impratici. Ma se ci asteniamo per un momento dal guardare
+a ciò che si dice di loro e guardiamo a ciò che si FA a loro,
+vedremo che gli irlandesi non solo sono pratici, ma di un successo quasi
+doloroso. La [[Poverty|povertà]] del loro paese, la minoranza
+dei loro membri sono semplicemente le condizioni entro cui è stato loro
+chiesto di operare; ma nessun altro gruppo dell'Impero britannico ha fatto tanto
+con simili condizioni. I nazionalisti furono l'unica minoranza
+che mai riuscì a piegare bruscamente l'intero Parlamento britannico
+fuori dalla propria strada. I contadini irlandesi sono gli unici poveri
+di queste isole che abbiano costretto i loro padroni a restituire il maltolto.
+Questa gente, che noi chiamiamo dominata dai preti, sono gli unici britanni che
+non si lasceranno dominare dai signorotti. E quando venni a considerare
+il carattere irlandese reale, il caso era lo stesso. Gli irlandesi riescono al meglio
+nelle professioni specialmente DURE: i mestieri del ferro, l'avvocato
+e il soldato. In tutti questi casi, dunque, tornai
+alla medesima conclusione: lo scettico aveva perfettamente ragione ad attenersi ai fatti,
+solo che non aveva guardato i fatti. Lo scettico è troppo credulo;
+crede ai giornali o persino alle enciclopedie. Di nuovo, le tre
+questioni mi lasciarono con tre questioni assai antagoniste.
+Lo scettico medio voleva sapere come spiegassi la nota sdolcinata
+del Vangelo, la connessione del credo con l'oscurità medievale
+e l'impraticabilità politica dei cristiani celti.
+Ma io volevo domandare, e domandare con una serietà che rasentava l'urgenza:
+«Cos'è questa incomparabile energia che appare dapprima in uno
+che cammina sulla terra come un giudizio vivente, e questa energia che può morire
+con una civiltà morente e nondimeno costringerla a una [[Resurrection|resurrezione]] dai morti;
+questa energia che, ultima cosa fra tutte, può infiammare un contadiname in rovina
+con una [[Faith|fede]] nella giustizia così salda che essi ottengono ciò che chiedono,
+mentre altri se ne vanno a mani vuote; sicché la più impotente isola dell'Impero
+può davvero aiutare se stessa?»
+
+     C'è una risposta: è una risposta dire che l'energia
+proviene veramente dal di fuori del mondo; che è psichica, o almeno
+uno degli esiti di un reale turbamento psichico. La più alta gratitudine
+e il più alto rispetto sono dovuti alle grandi civiltà umane, come l'antica egizia
+o la cinese tuttora esistente. Nondimeno non è ingiustizia dire di esse
+che soltanto l'Europa moderna ha esibito incessantemente un potere
+di rinnovamento di [[Self|sé]], ricorrente spesso agli intervalli più brevi e
+disceso fino ai fatti più minuti della costruzione o del costume.
+Tutte le altre società muoiono infine e con dignità. Noi moriamo ogni giorno.
+Veniamo sempre partoriti di nuovo con un'ostetricia quasi indecente.
+Non è quasi esagerato dire che nella cristianità storica vi è
+una sorta di vita innaturale: la si potrebbe spiegare come una vita [[Supernatural|soprannaturale]].
+La si potrebbe spiegare come una tremenda vita galvanica che opera in ciò che
+sarebbe stato un cadavere. Poiché la nostra civiltà AVREBBE DOVUTO morire,
+per ogni parallelo, per ogni probabilità sociologica, nel Ragnarök
+della fine di Roma. Ecco la bizzarra ispirazione della nostra condizione:
+tu e io non abbiamo alcun diritto di trovarci affatto qui. Siamo tutti dei REVENANT;
+tutti i cristiani viventi sono pagani morti che vanno in giro. Proprio mentre l'Europa
+stava per essere raccolta nel [[Silence|silenzio]] presso l'Assiria e Babilonia,
+qualcosa entrò nel suo [[Body|corpo]]. E da allora l'Europa ha avuto una strana vita:
+non è troppo dire che da allora ha avuto i SUSSULTI.
+
+     Ho trattato a lungo simili triadi tipiche di [[Doubt|dubbio]]
+per trasmettere la tesi principale: che la mia stessa argomentazione a favore del [[Christianity|Cristianesimo]]
+è razionale, ma non è semplice. È un accumulo di fatti svariati,
+come l'atteggiamento dell'agnostico ordinario. Ma l'agnostico ordinario
+ha tutti i suoi fatti sbagliati. Egli è un non credente per
+una moltitudine di ragioni; ma sono ragioni non vere. Dubita perché
+il Medioevo era barbaro, ma non lo era; perché il darwinismo
+è dimostrato, ma non lo è; perché i miracoli non accadono,
+ma accadono; perché i [[Monks|monaci]] erano pigri, ma erano molto industriosi;
+perché le monache sono infelici, ma sono particolarmente allegre;
+perché l'arte cristiana era triste e pallida, ma era lumeggiata
+di colori peculiarmente vivaci e gaia d'oro; perché la scienza moderna
+si sta allontanando dal [[Supernatural|soprannaturale]], ma non è così, si sta muovendo verso
+il [[Supernatural|soprannaturale]] con la rapidità di un treno.

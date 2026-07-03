@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/everlasting-man-(chesterton)">The Everlasting Man</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/everlasting_man/chapter_02/part_01">‹ part 01</a><a class="ex-next" href="/testi/chesterton/atomized/everlasting_man/chapter_02/part_03">part 03 ›</a></div>
@@ -121,3 +123,120 @@ to talk about him as the [[Cave|cave]]-man has been comparatively neglected.
 People have used this loose term in twenty loose ways, but they
 have never even looked at their own term for what could really
 be learned from it.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/everlasting-man-(chesterton)">The Everlasting Man</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/everlasting_man/chapter_02/part_01">‹ part 01</a><a class="ex-next" href="/testi/chesterton/atomized/everlasting_man/chapter_02/part_03">part 03 ›</a></div>
+</nav>
+
+Il signor H. G. Wells ha confessato di essere un [[Prophet|profeta]]; e in questa
+faccenda fu un [[Prophet|profeta]] a proprie spese. È curioso che la sua prima
+fiaba fosse una risposta compiuta al suo ultimo libro di [[history|storia]].
+La [[Machine|Macchina]] del [[Time|Tempo]] distruggeva in anticipo ogni comoda conclusione
+fondata sulla mera relatività del [[Time|tempo]]. In quel [[Sublime|sublime]] [[nightmare|incubo]]
+l'[[Hero|eroe]] vedeva gli alberi schizzare in alto come verdi razzi, e la vegetazione
+propagarsi a vista d'occhio come un verde incendio, oppure il sole
+sfrecciare per il cielo da oriente a occidente con la rapidità di una meteora.
+Eppure, nel suo modo di sentire, tali cose erano del tutto naturali quando
+avvenivano in fretta; e nel nostro modo di sentire sono altrettanto [[Supernatural|soprannaturali]]
+quando avvengono lentamente. La domanda ultima è perché avvengano affatto;
+e chiunque comprenda davvero quella domanda saprà
+che essa sempre è stata e sempre sarà una domanda religiosa;
+o comunque una domanda filosofica o metafisica.
+E di certo non riterrà la domanda risolta da una qualche
+sostituzione del mutamento graduale a quello brusco; o, in altre parole,
+da una questione meramente relativa, come quella della medesima storia dipanata lentamente o
+fatta scorrere in fretta, così come si può fare con qualunque storia al cinematografo
+girando una manovella.
+
+Ora, ciò che occorre a questi problemi dell'esistenza
+primitiva è qualcosa di più simile a uno spirito primitivo.
+Nell'evocare questa visione delle prime cose, chiederei
+al lettore di compiere con me una sorta di esperimento in semplicità.
+E per semplicità non intendo stupidità, bensì piuttosto quella sorta di
+chiarezza che vede cose come la vita anziché parole come l'evoluzione.
+A questo scopo sarebbe davvero meglio girare la manovella
+della [[Machine|Macchina]] del [[Time|Tempo]] un poco più in fretta e veder crescere l'erba
+e gli alberi slanciarsi verso il cielo, se quell'esperimento potesse
+contrarre e concentrare e rendere vivido l'esito dell'intera faccenda.
+Ciò che sappiamo, in un senso in cui non sappiamo nient'altro, è che gli
+alberi e l'erba crebbero davvero e che un certo numero di altre cose
+straordinarie di fatto accadono; che bizzarre creature si sostengono
+nell'aria vuota battendola con ventagli di svariate forme fantastiche;
+che altre bizzarre creature si dirigono vive sotto un carico
+di possenti acque; che altre bizzarre creature vanno attorno su quattro zampe,
+e che la più bizzarra creatura di tutte va attorno su due.
+Questi sono fatti e non teorie; e al loro confronto l'evoluzione
+e l'atomo e persino il sistema solare non sono che teorie.
+La materia, qui, è di [[history|storia]] e non di [[philosophy|filosofia]], sicché
+basterà notare che nessun filosofo nega che un mistero
+ancora si accompagni alle due grandi transizioni: l'origine dell'
+universo stesso e l'origine del principio della vita stessa.
+La maggior parte dei filosofi ha l'accortezza di aggiungere che un terzo mistero
+si accompagna all'origine dell'uomo stesso. In altre parole, un terzo
+ponte fu gettato su un terzo abisso dell'impensabile quando venne
+al mondo ciò che chiamiamo ragione e ciò che chiamiamo volontà.
+L'uomo non è semplicemente un'evoluzione, bensì piuttosto una rivoluzione.
+Che egli abbia una spina dorsale o altre parti su un disegno simile a quello degli [[Birds|uccelli]]
+e dei pesci è un fatto ovvio, quale che ne sia il significato.
+Ma se tentiamo di considerarlo, per così dire, come un quadrupede ritto
+sulle zampe posteriori, troveremo ciò che ne segue assai più fantastico
+e sovversivo che se stesse ritto sulla testa.
+
+Prenderò un solo esempio a servire d'introduzione alla storia dell'uomo.
+Esso illustra ciò che intendo dicendo che una certa fanciullesca schiettezza
+è necessaria per vedere la [[Truth|verità]] intorno all'[[Childhood|infanzia]] del mondo.
+Illustra ciò che intendo dicendo che un miscuglio di scienza
+popolare e di gergo giornalistico ha confuso i fatti intorno alle
+prime cose, sicché non riusciamo a vedere quale di essi venga davvero per primo.
+Illustra, sebbene in una sola comoda illustrazione,
+tutto ciò che intendo con la necessità di vedere le nette differenze
+che danno forma alla [[history|storia]], anziché restarne sommersi
+in tutte queste generalizzazioni sulla lentezza e sull'uniformità.
+Poiché noi abbiamo davvero bisogno, per dirla con la frase del signor Wells, di un abbozzo di [[history|storia]].
+Ma possiamo azzardarci a dire, per dirla con la frase del signor Mantalini, che questa
+[[history|storia]] evoluzionistica non ha abbozzo, o è un maledetto abbozzo.
+Ma, soprattutto, illustra ciò che intendo dicendo che quanto più
+guardiamo davvero all'uomo come a un animale, tanto meno egli somiglierà a uno.
+
+Oggi tutti i nostri romanzi e giornali si troveranno brulicanti di
+innumerevoli allusioni a un personaggio popolare chiamato l'uomo delle [[Cave|caverne]]. Egli
+ci pare del tutto familiare, non solo come personaggio pubblico
+ma come personaggio privato. La sua psicologia è presa sul serio
+in considerazione nella narrativa psicologica e nella medicina psicologica.
+Per quanto riesco a capire, la sua principale occupazione nella vita era
+malmenare la moglie, o trattare le donne in genere con ciò che, a quanto
+credo, è noto nel mondo del film come «roba pesante».
+Non mi è mai capitato d'imbattermi nella prova di quest'idea;
+e non so su quali diari primitivi o resoconti preistorici di [[divorce|divorzio]]
+essa si fondi. Né, come ho spiegato altrove, ho mai
+potuto scorgerne la probabilità, nemmeno considerata a priori.
+Ci vien sempre detto, senza alcuna spiegazione né autorità, che l'uomo
+primitivo brandiva una clava e atterrava la donna prima di portarla via.
+Ma, su ogni analogia animale, parrebbe una modestia e una riluttanza
+quasi morbose, da parte della signora, insistere sempre
+per essere atterrata prima di acconsentire a farsi portare via.
+E ripeto che non riuscirò mai a comprendere perché, quando il maschio
+era così rozzo, la femmina dovesse essere così raffinata.
+L'uomo delle [[Cave|caverne]] può essere stato un bruto, ma non c'è ragione per cui dovesse
+essere stato più brutale delle bestie brute. E gli amori delle giraffe
+e la [[Romance|romanza]] [[River|fluviale]] degl'ippopotami si compiono senza nulla
+di questo preliminare parapiglia o baccano. L'uomo delle [[Cave|caverne]] può essere stato
+non migliore dell'[[Cave|orso]] delle caverne; ma l'orsa [[Child|bambina]], così celebre
+nell'innologia, non è educata con una simile inclinazione allo zitellaggio.
+Insomma, questi particolari della vita domestica delle [[Cave|caverne]] mi lasciano
+perplesso tanto sull'ipotesi rivoluzionaria quanto su quella statica;
+e in ogni caso vorrei esaminare le prove che li sostengono,
+ma sfortunatamente non sono mai riuscito a trovarle.
+Ma la cosa curiosa è questa: che mentre diecimila lingue
+di pettegolezzo più o meno scientifico o letterario parevano parlare
+tutte in una volta di questo sventurato individuo, sotto il titolo di uomo delle [[Cave|caverne]],
+l'unico ambito in cui è davvero pertinente e sensato
+parlare di lui come dell'uomo delle [[Cave|caverne]] è stato comparativamente trascurato.
+La gente ha usato questo termine vago in venti modi vaghi, ma non ha
+mai nemmeno guardato il proprio termine per ciò che davvero se ne
+potrebbe apprendere.

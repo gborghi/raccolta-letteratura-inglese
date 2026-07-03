@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/incredulity-(chesterton)">Incredulity</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/incredulity/story_04_the_miracle_of_moon_crescent/part_02">‹ part 02</a><a class="ex-next" href="/testi/chesterton/atomized/incredulity/story_04_the_miracle_of_moon_crescent/part_04">part 04 ›</a></div>
@@ -130,3 +132,44 @@ and angels to make us forget it.'
 anything offensive, but that sort of thing may be very well
 for crypts and cloisters and all sorts of moonshiny places.
 But ghosts can't get through a closed door in an American hotel.'
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/incredulity-(chesterton)">Incredulity</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/incredulity/story_04_the_miracle_of_moon_crescent/part_02">‹ part 02</a><a class="ex-next" href="/testi/chesterton/atomized/incredulity/story_04_the_miracle_of_moon_crescent/part_04">part 04 ›</a></div>
+</nav>
+
+«[[Well|Beh]], vi dico che è là e che non lo si può vedere», disse Fenner, con crescente irritazione. «Che intendete quando dite di voler vedere se è là da vedere? Certo che è là. L'abbiamo lasciato tutti lì cinque minuti fa, e da allora siamo rimasti fuori da questa porta.»
+
+«[[Well|Beh]], voglio vedere se sta bene», disse il prete.
+
+«Perché?» domandò il segretario, esasperato. «Perché ho una ragione seria, direi solenne», disse il chierico, con gravità, «per dubitare che stia bene.»
+
+«Oh, Signore!» gridò Vandam, in una specie di furia; «non altre superstizioni.»
+
+«Vedo che dovrò esporre le mie ragioni», osservò il piccolo chierico, con gravità. «Suppongo di non poter pretendere che mi lasciate nemmeno sbirciare dalla fessura di una porta prima che vi abbia raccontato tutta la storia.» Rimase un istante in silenzio, come assorto, e poi riprese senza badare ai volti attoniti che lo circondavano. «Passeggiavo là fuori, lungo la facciata del colonnato, quando vidi un uomo assai cencioso correre a rotta di collo doppiando l'angolo in fondo alla mezzaluna. Venne avanti a gran passi sul marciapiede verso di me, rivelando una figura ossuta e massiccia e un volto che conoscevo. Era il volto di un focoso irlandese che un tempo avevo un poco aiutato; non vi dirò il suo nome. Quando mi scorse barcollò, chiamandomi per nome e dicendo: "Santi del cielo, è [[Father Brown]]; siete l'unico uomo il cui volto potrebbe farmi paura, oggi."
+
+«Capii che intendeva d'aver commesso qualche follia o l'altra, e non credo che il mio volto lo spaventasse granché, perché di lì a poco già me ne parlava. Ed era una faccenda ben strana. Mi chiese se conoscessi Warren Wynd, e risposi di no, benché sapessi che abitava vicino alla cima di questi appartamenti. Disse: "È un uomo che si crede un santo di Dio; ma se sapesse ciò che vado dicendo di lui, dovrebbe esser pronto a impiccarsi." E ripeté più volte, istericamente: "Sì, pronto a impiccarsi." Gli domandai se avesse fatto del male a Wynd, e la sua risposta fu piuttosto singolare. Disse: "Ho preso una [[Pistol|pistola]] e non l'ho caricata né a pallini né a pallottola, ma soltanto con una maledizione." Per quanto potei capire, tutto ciò che aveva fatto era stato scendere in quel vicoletto tra questo edificio e il grande magazzino, con una vecchia [[Pistol|pistola]] caricata a salve, e semplicemente [[Fire|scaricarla]] contro il muro, come se ciò dovesse far crollare l'edificio. "Ma mentre lo facevo", disse, "lo maledissi con la grande maledizione: che la giustizia di Dio lo afferrasse per i capelli e la vendetta dell'inferno per i calcagni, e che fosse dilaniato come Giuda e il mondo non sapesse più di lui."
+
+«Ebbene, non importa ora che altro dissi al povero pazzo; se ne andò un poco rasserenato, e io girai sul retro dell'edificio per ispezionare. E difatti, nel vicoletto ai piedi di questo muro giaceva una pistola arrugginita e antiquata; me ne intendo abbastanza di pistole per sapere che era stata caricata soltanto con un po' di polvere: c'erano i segni neri della polvere e del fumo sul muro, e perfino l'impronta della bocca da fuoco, ma neppure l'ammaccatura d'una pallottola. Non aveva lasciato traccia di distruzione; non aveva lasciato traccia di nulla, tranne quei segni neri e quella nera maledizione che aveva scagliato verso il cielo. Così sono tornato qui a chiedere di questo Warren Wynd e a scoprire se sta bene.»
+
+Penner, il segretario, rise. «Posso risolvervi in un attimo questa difficoltà. Vi assicuro che sta benissimo; l'abbiamo lasciato che scriveva alla sua scrivania appena pochi minuti fa. Era [[Alone|solo]] nel suo appartamento; sta a cento piedi dalla strada, e collocato in modo tale che nessun colpo avrebbe potuto raggiungerlo, anche se il vostro amico non avesse sparato a salve. Non v'è altro ingresso a questo luogo se non questa porta, e noi le siamo rimasti davanti da allora.»
+
+«Ciò nondimeno», disse Father Brown, con gravità, «vorrei dare un'occhiata dentro e vedere.»
+
+«Beh, non potete», ribatté l'altro. «Buon Dio, non vorrete dirmi che date qualche peso alla maledizione.»
+
+«Dimenticate», disse il milionario, con un lieve ghigno, «che l'intero mestiere del reverendo signore sono le benedizioni e le maledizioni. Suvvia, signore, se è stato maledetto all'inferno, perché non lo ribenedite? A che valgono le vostre benedizioni, se non riescono a battere la maledizione d'un monellaccio irlandese?»
+
+«C'è ancora qualcuno che crede a simili cose, oggi?» protestò l'uomo dell'Ovest.
+
+«[[Father Brown]] crede a un buon numero di cose, a quanto pare», disse Vandam, il cui umore [[Suffering|soffriva]] per lo smacco di poco prima e per l'attuale battibecco. «[[Father Brown]] crede che un eremita abbia attraversato un [[River|fiume]] su un coccodrillo evocato dal nulla, e che poi abbia ordinato al coccodrillo di morire, e quello morì sul serio. [[Father Brown]] crede che un qualche beato santo o l'altro sia morto, e che il suo [[Body|corpo]] morto sia stato tramutato in tre corpi morti, da spartirsi fra tre parrocchie tutte accanite nel volersi figurare come la sua [[Home|città natale]]. [[Father Brown]] crede che un santo abbia appeso il proprio mantello a un raggio di sole, e che un altro se ne sia servito come barca per [[Cross|attraversare]] l'Atlantico. [[Father Brown]] crede che il sacro [[donkey|asino]] avesse sei zampe e che la [[house|casa]] di Loreto abbia volato per l'aria. Crede in centinaia di vergini di pietra che ammiccano e lacrimano tutto il giorno. Per lui è cosa da nulla credere che un uomo possa fuggire attraverso il buco della serratura o svanire da una stanza chiusa a chiave. Direi che non fa gran conto delle leggi della [[Nature|natura]].»
+
+«Comunque sia, io devo far conto delle leggi di Warren Wynd», disse il segretario, stancamente, «ed è sua regola che lo si lasci [[Alone|solo]] quando lo comanda. Wilson vi dirà esattamente lo stesso», giacché il corpulento domestico che era stato mandato a prendere l'opuscolo passò placidamente lungo il corridoio proprio mentre egli parlava, recando l'opuscolo, ma oltrepassando serenamente la porta. «Andrà a sedersi sulla panca accanto all'impiegato di piano e si girerà i pollici finché non sarà richiesto; ma non entrerà prima d'allora; e nemmeno io lo farò. Direi che sappiamo entrambi da che parte è imburrato il nostro pane, e ci vorrebbe un bel po' dei santi e degli angeli di Father Brown per farcelo dimenticare.»
+
+«Quanto ai santi e agli angeli...» cominciò il prete.
+
+«Sono tutte sciocchezze», ripeté Fenner. «Non voglio dire nulla di offensivo, ma quel genere di cose può andar benissimo per cripte e chiostri e ogni sorta di luoghi da chiaro di luna. Ma i fantasmi non possono passare attraverso una porta chiusa in un albergo americano.»

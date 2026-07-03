@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/wifrb11-(chesterton)">The Wisdom of Father Brown</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/wifrb11/story_03_the_duel_of_dr_hirsch/part_04">‹ part 04</a><a class="ex-next" href="/testi/chesterton/atomized/wifrb11/story_04_the_man_in_the_passage/part_01">part 01 ›</a></div>
@@ -152,3 +154,152 @@ A few moments later a roar of popular applause from the street beyond
 announced that Dr Hirsch had once more appeared upon the balcony.
 
                                  FOUR
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/wifrb11-(chesterton)">The Wisdom of Father Brown</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/wifrb11/story_03_the_duel_of_dr_hirsch/part_04">‹ part 04</a><a class="ex-next" href="/testi/chesterton/atomized/wifrb11/story_04_the_man_in_the_passage/part_01">part 01 ›</a></div>
+</nav>
+
+# [[wifrb11]] — Il duello del dottor Hirsch (parte 5)
+
+     Il vicolo lungo il quale lo seguirono era uno di quelli che
+paiono stare sul retro delle cose, e assomigliano al rovescio
+delle quinte di un palcoscenico. Un muro incolore e continuo correva lungo
+un fianco di esso, interrotto a intervalli da porte dai colori spenti e
+macchiate di sporco, tutte serrate e prive di caratteristiche, salvo per
+gli scarabocchi di [[chalk|gesso]] di qualche monello di passaggio. Le cime degli alberi,
+per lo più sempreverdi piuttosto deprimenti, spuntavano a intervalli oltre
+la sommità del muro, e al di là di essi, nella foschia grigia e purpurea,
+si scorgeva il retro di qualche lunga fila di alte case parigine,
+in realtà relativamente vicine, ma in qualche modo dall'aria tanto inaccessibile
+quanto una catena di [[Mountains|montagne]] di marmo. Sull'altro lato del vicolo correvano
+le alte cancellate dorate di un tetro parco.
+
+     [[Flambeau]] si guardava intorno in modo piuttosto singolare.
+«Sai», disse, «c'è qualcosa in questo posto che...»
+
+     «Ehilà!» chiamò il duca bruscamente; «quel tale è sparito.
+Svanito, come una fata maledetta!»
+
+     «Ha una chiave», spiegò l'amico in tonaca. «È solo entrato
+in una di queste porte da [[Garden|giardino]]», e mentre parlava udirono una delle
+opache porte di legno richiudersi con uno scatto davanti a loro.
+
+     [[Flambeau]] si diresse a grandi passi verso la porta così chiusa quasi in faccia a lui,
+e vi rimase davanti un momento, mordendosi i baffi neri
+in una furia di curiosità. Poi levò in alto le lunghe braccia e
+si issò come una scimmia e stette sulla sommità del muro,
+la sua enorme figura scura contro il cielo purpureo, come le scure cime degli alberi.
+
+     Il duca guardò il prete. «La fuga di Dubosc è
+più elaborata di quanto pensassimo», disse; «ma suppongo che stia
+fuggendo dalla Francia».
+
+     «Sta fuggendo da ogni luogo», rispose [[Father Brown]].
+
+     Gli occhi di Valognes si illuminarono, ma la voce si abbassò. «Vuoi dire
+[[suicide|suicidio]]?» chiese.
+
+     «Non troverete il suo [[Body|corpo]]», rispose l'altro.
+
+     Una specie di grido venne da [[Flambeau]] sul muro in alto.
+«Mio Dio», esclamò in francese, «ora so cos'è questo posto!
+Ma è il retro della strada dove abita il vecchio Hirsch. Pensavo
+di saper riconoscere il retro di una [[house|casa]] [[Well|tanto bene]] quanto il retro di un uomo».
+
+     «E Dubosc è entrato là dentro!» esclamò il duca, battendosi il fianco.
+«Ma allora si incontreranno, dopotutto!» E con improvvisa vivacità gallica
+saltò su sul muro accanto a [[Flambeau]] e vi si sedette scalciando addirittura
+le gambe per l'eccitazione. Il prete [[Alone|soltanto]] rimase in basso,
+appoggiato al muro, con le spalle all'intero teatro degli eventi,
+e guardava con nostalgia oltre, verso lo steccato del parco e gli scintillanti,
+crepuscolari alberi.
+
+     Il duca, per quanto eccitato, aveva gli istinti di un [[aristocrat|aristocratico]],
+e desiderava piuttosto contemplare la [[house|casa]] che spiarla;
+ma [[Flambeau]], che aveva gli istinti di uno scassinatore (e di un [[Detective|investigatore]]),
+si era già lanciato dal muro nella biforcazione di un albero sparuto
+da cui poteva arrampicarsi fin proprio vicino all'unica [[Window|finestra]] illuminata
+sul retro dell'alta e buia [[house|casa]]. Una persiana rossa era stata calata
+sopra la luce, ma calata di traverso, sì che si apriva su un lato,
+e rischiando l'osso del collo lungo un ramo che pareva infido
+come un fuscello, [[Flambeau]] poteva appena scorgere il colonnello Dubosc che andava attorno
+in una camera da letto splendidamente illuminata e lussuosa. Ma per quanto vicino fosse [[Flambeau]]
+alla [[house|casa]], udiva le parole dei colleghi presso il muro,
+e le ripeteva a bassa voce.
+
+     «Sì, adesso si incontreranno, dopotutto!»
+
+     «Non si incontreranno mai», disse [[Father Brown]]. «Hirsch aveva ragione
+quando disse che in una faccenda simile i due protagonisti non devono incontrarsi.
+Hai letto un bizzarro racconto psicologico di Henry James,
+di due persone che tanto perpetuamente mancavano d'incontrarsi per accidente
+da cominciare a provare vera paura l'una dell'altra, e a pensare
+che fosse il destino? Questo è qualcosa del genere, ma più curioso».
+
+     «Ci sono persone a [[Paris|Parigi]] che li guariranno da simili fantasie morbose»,
+disse Valognes vendicativamente. «Dovranno [[Well|bene]] incontrarsi
+se li catturiamo e li costringiamo a battersi».
+
+     «Non si incontreranno il Giorno del Giudizio», disse il prete.
+«Se Dio Onnipotente reggesse il bastone del comando del campo, se san [[Michael|Michele]]
+soffiasse nella tromba perché le spade si [[Cross|incrociassero]]... anche allora, se uno di loro
+stesse pronto, l'altro non verrebbe».
+
+     «Oh, cosa vuol dire tutto questo misticismo?» esclamò il duca di Valognes,
+spazientito; «perché mai non dovrebbero incontrarsi come le altre persone?»
+
+     «Sono l'opposto l'uno dell'altro», disse [[Father Brown]],
+con una strana specie di sorriso. «Si contraddicono a vicenda.
+Si annullano, per così dire».
+
+     Continuò a fissare gli alberi che si oscuravano di fronte, ma Valognes
+voltò bruscamente la testa a un'esclamazione soffocata di [[Flambeau]].
+Quell'investigatore, scrutando nella stanza illuminata, aveva appena visto
+il colonnello, dopo un passo o due, procedere a togliersi la giacca.
+Il primo pensiero di [[Flambeau]] fu che questo somigliasse davvero a un preludio di duello;
+ma presto abbandonò quel pensiero per un altro. La solidità e
+la squadratura del petto e delle spalle di Dubosc erano tutte una possente imbottitura
+e vennero via con la giacca. In camicia e pantaloni
+egli era un gentiluomo relativamente esile, che attraversò la camera da letto verso
+il bagno con nessun proposito più bellicoso di quello di lavarsi.
+Si chinò su un catino, si asciugò le mani e il viso gocciolanti su un asciugamano,
+e si voltò di nuovo così che la forte luce gli cadde sul volto.
+La sua carnagione bruna era sparita, i suoi grandi baffi neri erano spariti;
+egli... era ben rasato e pallidissimo. Nulla rimaneva del colonnello
+se non i suoi vivaci occhi castani da falco. Sotto il muro [[Father Brown]]
+stava proseguendo in greve meditazione, come tra sé.
+
+     «È tutto proprio come dicevo a [[Flambeau]].
+Questi opposti non funzionano. Non reggono. Non si battono.
+Se è bianco invece di nero, e solido invece di liquido,
+e così via lungo tutta la linea... allora c'è qualcosa che non va, Monsieur,
+c'è qualcosa che non va. Uno di questi uomini è chiaro e l'altro scuro,
+uno tarchiato e l'altro esile, uno forte e l'altro debole.
+Uno ha i baffi e niente barba, così che non se ne vede la bocca;
+l'altro ha la barba e niente baffi, così che non se ne vede il mento.
+Uno ha i capelli rasati fino al cranio, ma una sciarpa a nascondergli il collo;
+l'altro ha colletti bassi, ma capelli lunghi a nascondergli il cranio.
+È tutto troppo lindo e corretto, Monsieur, e c'è qualcosa che non va.
+Cose fatte così opposte sono cose che non possono litigare.
+Ovunque l'uno sporge, l'altro rientra. Come un volto e una maschera,
+come una serratura e una chiave...»
+
+     [[Flambeau]] scrutava dentro la [[house|casa]] con il viso bianco come un lenzuolo.
+L'occupante della stanza era in piedi voltandogli le spalle,
+ma davanti a uno specchio, e si era già adattato intorno al viso
+una sorta di intelaiatura di ispidi capelli rossi, pendenti in disordine dal capo e
+avviluppati intorno alle mascelle e al mento, lasciando scoperta la bocca beffarda.
+Vista così nello specchio, la faccia bianca somigliava alla faccia di Giuda
+che ride orribilmente circondato da guizzanti fiamme dell'inferno.
+Per uno spasimo [[Flambeau]] vide danzare i feroci occhi rosso-bruni,
+poi furono coperti da un paio di occhiali azzurri. Infilandosi
+un'ampia giacca nera, la figura svanì verso il davanti della [[house|casa]].
+Pochi istanti dopo un boato di popolare applauso dalla strada al di là
+annunciò che il dottor Hirsch era ancora una volta comparso sul balcone.
+
+                                 QUATTRO

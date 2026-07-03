@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/thursday-(chesterton)">The Man Who Was Thursday</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/thursday/chapter_07">‹ Chapter 07</a><a class="ex-next" href="/testi/chesterton/atomized/thursday/chapter_09">Chapter 09 ›</a></div>
@@ -534,3 +536,234 @@ Syme laid down his knife and fork.
 "I know," he said, "because you talked to him in a dark room."
 
 Professor de Worms nodded and drained his glass.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/thursday-(chesterton)">The Man Who Was Thursday</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/thursday/chapter_07">‹ Chapter 07</a><a class="ex-next" href="/testi/chesterton/atomized/thursday/chapter_09">Chapter 09 ›</a></div>
+</nav>
+
+# [[thursday]] — Capitolo 8
+
+                         CAPITOLO VIII
+
+                    [[The Professor|IL PROFESSORE]] SI SPIEGA
+
+Quando [[Gabriel Syme]] si trovò finalmente sistemato su una sedia, e di fronte a lui, fissi e definitivi anch’essi, le sopracciglia inarcate e le palpebre plumbee del [[The Professor|Professore]], le sue paure tornarono per intero. Quell’uomo incomprensibile uscito dal feroce consiglio, dopo tutto, lo aveva certamente inseguito. Se costui aveva un carattere da paralitico e un altro da inseguitore, l’antitesi poteva renderlo più interessante, ma di certo non più rassicurante. Sarebbe stata ben magra consolazione che egli non riuscisse a smascherare il [[The Professor|Professore]], se per qualche grave disgrazia il [[The Professor|Professore]] fosse riuscito a smascherare lui. Vuotò un intero boccale di peltro colmo di birra prima che il [[The Professor|professore]] avesse toccato il suo latte.
+
+Una possibilità, tuttavia, lo teneva speranzoso e insieme impotente. Era appena possibile che quella bravata significasse qualcosa di diverso persino da un lieve sospetto sul suo conto. Forse era una qualche formula o segno consueto. Forse quella folle corsa era una sorta di segnale amichevole che egli avrebbe dovuto comprendere. Forse era un rito. Forse il nuovo [[thursday|Giovedì]] veniva sempre inseguito lungo Cheapside, come il nuovo [[Lord Mayor|Sindaco]] vi viene sempre scortato. Stava proprio scegliendo una domanda esplorativa, quando il vecchio Professore di fronte lo interruppe di colpo e senza tanti complimenti. Prima che Syme potesse porre la sua prima domanda diplomatica, il vecchio anarchico gli aveva chiesto all’improvviso, senza alcuna sorta di preparazione:
+
+«Siete un poliziotto?»
+
+Qualunque cosa Syme si fosse aspettato, non si era mai aspettato nulla di così brutale e concreto. Persino la sua grande presenza di spirito seppe raccogliere soltanto una risposta dall’aria di goffa giovialità.
+
+«Un poliziotto?» disse, ridendo vagamente. «Che cosa mai vi ha fatto pensare a un poliziotto a proposito di me?»
+
+«Il procedimento è stato abbastanza semplice» rispose il [[The Professor|Professore]] con pazienza. «Ho pensato che avevate l’aria di un poliziotto. Lo penso anche adesso.»
+
+«Ho forse preso per sbaglio il cappello di un poliziotto uscendo dal ristorante?» chiese Syme, con un sorriso stralunato. «Mi sono per caso attaccato addosso un numero da qualche parte? I miei stivali hanno per caso quell’aria vigile? Perché devo essere un poliziotto? Su, su, lasciatemi essere un postino.»
+
+Il vecchio Professore scosse il capo con una gravità che non lasciava alcuna [[Hope|speranza]], ma Syme proseguì con una febbrile ironia.
+
+«Ma forse ho frainteso le sottigliezze della vostra [[philosophy|filosofia]] tedesca. Forse poliziotto è un termine relativo. In senso evolutivo, signore, la scimmia sfuma così gradualmente nel poliziotto che io stesso non riesco mai a cogliere la gradazione. La bertuccia non è che il poliziotto in potenza. Forse una zitella del Clapham Common non è che il poliziotto che avrebbe potuto essere. Non ho nulla in contrario a essere il poliziotto che avrebbe potuto essere. Non ho nulla in contrario a essere qualsiasi cosa nel pensiero tedesco.»
+
+«Siete al servizio della polizia?» disse il vecchio, ignorando tutte le improvvisate e disperate facezie di Syme. «Siete un [[Detective|detective]]?»
+
+Il cuore di Syme si mutò in pietra, ma il suo volto non mutò affatto.
+
+«La vostra supposizione è ridicola» cominciò. «Perché mai...»
+
+Il vecchio batté con impeto la mano tremante sul tavolo traballante, quasi spaccandolo.
+
+«Mi avete sentito porvi una domanda chiara, voi, spia ciarliera?» strillò con voce acuta e forsennata. «Siete, o non siete, un [[Detective|detective]] della polizia?»
+
+«No!» rispose Syme, come un uomo ritto sulla botola del patibolo.
+
+«Lo giurate» disse il vecchio, sporgendosi verso di lui, il volto morto che si faceva, per così dire, ripugnantemente vivo. «Lo giurate! Lo giurate! Se giurate il falso, sarete dannato? Sarete certo che il diavolo danzerà al vostro funerale? Farete in modo che l’[[nightmare|incubo]] si accovacci sulla vostra [[Grave|tomba]]? Non ci sarà davvero alcun errore? Siete un anarchico, siete un dinamitardo! E soprattutto non siete in alcun senso un [[Detective|detective]]? Non appartenete alla polizia britannica?»
+
+Sporse il gomito spigoloso ben oltre il tavolo, e portò la grande mano molle all’orecchio, come una conchiglia.
+
+«Non appartengo alla polizia britannica» disse Syme con folle calma.
+
+Il professor de Worms si lasciò cadere all’indietro sulla sedia con una curiosa aria di benevolo cedimento.
+
+«È un peccato» disse, «perché io sì.»
+
+Syme scattò dritto in piedi, rovesciando la panca dietro di sé con fracasso.
+
+«Perché siete che cosa?» disse con voce impastata. «Siete che cosa?»
+
+«Sono un poliziotto» disse il [[The Professor|Professore]] con il suo primo largo sorriso, raggiante dietro gli occhiali. «Ma poiché voi ritenete che poliziotto sia soltanto un termine relativo, naturalmente io non ho nulla a che fare con voi. Appartengo al corpo di polizia britannico; ma poiché voi mi dite di non appartenere alla polizia britannica, non posso che dire di avervi incontrato in un club di dinamitardi. Suppongo che dovrei arrestarvi.» E con queste parole depose sul tavolo davanti a Syme una copia esatta della carta azzurra che Syme portava nel taschino del proprio panciotto, il simbolo del suo potere conferitogli dalla polizia.
+
+Syme ebbe per un lampo la sensazione che il cosmo si fosse capovolto di netto, che tutti gli alberi crescessero all’ingiù e che tutte le [[Stars|stelle]] fossero sotto i suoi piedi. Poi venne lentamente la convinzione opposta. Nelle ultime ventiquattr’ore il cosmo era davvero stato capovolto, ma ora l’universo rovesciato si era rimesso col verso giusto. Questo diavolo da cui era fuggito tutto il giorno non era che un fratello maggiore della sua stessa [[house|casa]], che dall’altra parte del tavolo si abbandonava all’indietro ridendo di lui. Sul momento non pose alcuna domanda di dettaglio; conobbe soltanto il felice e sciocco fatto che quest’[[Shadow|ombra]], che lo aveva inseguito con un’intollerabile oppressione di pericolo, non era che l’[[Shadow|ombra]] di un amico che cercava di raggiungerlo. Comprese nello stesso istante di essere uno [[Fool|sciocco]] e un uomo libero. Poiché a ogni guarigione dalla morbosità deve accompagnarsi una certa salutare umiliazione. Giunge un certo punto, in tali condizioni, in cui sono possibili soltanto tre cose: primo, il perpetuarsi di un orgoglio [[Pride|satanico]]; secondo, le [[Tears|lacrime]]; e terzo, il riso. L’egotismo di Syme si aggrappò saldamente alla prima via per qualche secondo, e poi d’improvviso adottò la terza. Preso il proprio biglietto azzurro della polizia dal taschino del proprio panciotto, lo gettò sul tavolo; poi rovesciò indietro il capo finché la sua punta di barba gialla non fu quasi rivolta al soffitto, e proruppe in una risata barbarica.
+
+Persino in quel chiuso covo, riempito senza posa dal fragore di coltelli, piatti, boccali, voci clamorose, improvvise risse e fuggi fuggi, c’era qualcosa di omerico nell’ilarità di Syme che indusse molti uomini mezzi ubriachi a voltarsi.
+
+«Che c’avete da ridere, capo?» chiese un manovale del porto, incuriosito.
+
+«Di me stesso» rispose Syme, e si abbandonò di nuovo all’agonia della sua reazione estatica.
+
+«Riprendetevi» disse il [[The Professor|Professore]], «o vi verrà una crisi isterica. Prendete ancora un po’ di birra. Vi tengo compagnia.»
+
+«Non avete bevuto il vostro latte» disse Syme.
+
+«Il mio latte!» disse l’altro, in tono di sprezzo tagliente e insondabile, «il mio latte! Credete che degnerei di uno sguardo quella schifezza quando sono fuori dalla vista di quei maledetti anarchici? Qui dentro siamo tutti cristiani, anche se forse» aggiunse, gettando un’occhiata intorno sulla folla barcollante, «non troppo osservanti. Finire il mio latte? Per tutti i fulmini! sì, altroché se lo finisco!» E buttò il bicchiere giù dal tavolo, con un fracasso di vetro e uno schizzo di fluido argenteo.
+
+Syme lo fissava con una felice curiosità.
+
+«Adesso capisco» esclamò; «naturalmente, non siete affatto un vecchio.»
+
+«Non posso togliermi la faccia qui» replicò il professor de Worms. «È un trucco piuttosto elaborato. Quanto al fatto se io sia un vecchio, non sta a me dirlo. Ho compiuto trentotto anni all’ultimo compleanno.»
+
+«Sì, ma voglio dire» disse Syme con impazienza, «non avete nulla che non vada.»
+
+«Sì» rispose l’altro con distacco. «Sono soggetto ai raffreddori.»
+
+Il riso di Syme di fronte a tutto ciò aveva in sé una selvaggia fiacchezza di sollievo. Rideva all’idea che il Professore paralitico fosse in realtà un giovane attore agghindato come per le luci della ribalta. Ma sentiva che avrebbe riso altrettanto forte se fosse caduta una pepiera.
+
+Il falso Professore bevve e si asciugò la falsa barba.
+
+«Sapevate» chiese, «che quel tale, Gogol, era uno dei nostri?»
+
+«Io? No, non lo sapevo» rispose Syme con una certa sorpresa. «Ma voi non lo sapevate?»
+
+«Non ne sapevo più di un morto» replicò l’uomo che si faceva chiamare de Worms. «Credevo che il Presidente stesse parlando di me, e mi tremavano le ginocchia negli stivali.»
+
+«E io credevo che parlasse di me» disse Syme, con la sua risata piuttosto temeraria. «Ho tenuto la mano sulla rivoltella per tutto il [[Time|tempo]].»
+
+«Anch’io» disse il [[The Professor|Professore]] cupamente; «e così pure Gogol, evidentemente.»
+
+Syme batté sul tavolo con un’esclamazione.
+
+«Ma allora eravamo in tre, là!» esclamò. «Tre su sette è un numero da battaglia. Se solo avessimo saputo di essere in tre!»
+
+Il volto del professor de Worms si oscurò, ed egli non alzò lo sguardo.
+
+«Eravamo in tre» disse. «Se fossimo stati in trecento non avremmo potuto fare nulla lo stesso.»
+
+«Nemmeno se fossimo stati trecento contro quattro?» chiese Syme, beffardo con una certa turbolenza.
+
+«No» disse il [[The Professor|Professore]] con sobrietà, «nemmeno se fossimo stati trecento contro [[Sunday|Domenica]].»
+
+E il solo nome gettò Syme nel freddo e nella serietà; il riso gli era morto nel cuore prima che potesse morirgli sulle labbra. Il volto dell’indimenticabile Presidente gli balzò alla mente vivido come una fotografia a colori, e osservò questa differenza tra [[Sunday|Domenica]] e tutti i suoi satelliti: che i loro volti, per feroci o sinistri che fossero, andavano gradualmente offuscandosi nella [[Memory|memoria]] come tutti gli altri volti umani, mentre quello di [[Sunday|Domenica]] pareva quasi farsi più reale durante l’assenza, come se il ritratto dipinto di un uomo dovesse lentamente prendere vita.
+
+Rimasero entrambi in silenzio per la misura di qualche istante, e poi il discorso di Syme venne in un fiotto, come l’improvviso spumeggiare dello champagne.
+
+«Professore» esclamò, «è intollerabile. Avete paura di quest’uomo?»
+
+[[The Professor|Il Professore]] sollevò le pesanti palpebre, e guardò Syme con grandi occhi azzurri, spalancati, di una sincerità quasi eterea.
+
+«Sì, ne ho paura» disse con dolcezza. «E anche voi.»
+
+Syme restò muto per un istante. Poi si [[Rose|alzò]] in piedi, dritto come un uomo offeso, e scostò da sé la sedia.
+
+«Sì» disse con voce indescrivibile, «avete ragione. Ho paura di lui. Perciò giuro davanti a Dio che cercherò quest’uomo di cui ho [[Fear|paura]] finché non lo troverò, e lo colpirò sulla bocca. Se il cielo fosse il suo trono e la terra lo sgabello dei suoi piedi, giuro che lo trascinerei giù.»
+
+«Come?» chiese il Professore con gli occhi sbarrati. «Perché?»
+
+«Perché ho paura di lui» disse Syme; «e nessun uomo dovrebbe lasciare nell’universo alcunché di cui abbia paura.»
+
+De Worms lo guardò socchiudendo gli occhi, con una sorta di cieca [[Wonder|meraviglia]]. Fece uno sforzo per parlare, ma Syme proseguì a voce bassa, con un sottofondo di inumana esaltazione:
+
+«Chi mai si abbasserebbe ad abbattere le semplici cose di cui non ha [[Fear|paura]]? Chi mai si degraderebbe a essere soltanto coraggioso, come un qualunque pugile da fiera? Chi mai si piegherebbe a essere impavido, come un albero? Combatti la cosa di cui hai [[Fear|paura]]. Ricordate la vecchia storia del pastore inglese che diede l’estrema unzione al brigante di Sicilia, e come sul letto di [[Death|morte]] il grande predone disse: “Non posso darvi denaro, ma posso darvi un consiglio per tutta la vita: il pollice sulla lama, e colpisci verso l’alto.” Così io dico a voi: colpite verso l’alto, se colpite alle [[Stars|stelle]].»
+
+L’altro guardò il soffitto, uno dei trucchi della sua posa.
+
+«[[Sunday|Domenica]] è una stella fissa» disse.
+
+«Lo vedrete cadere come una stella» disse Syme, e si mise il cappello.
+
+La decisione del suo gesto trasse vagamente in piedi il [[The Professor|Professore]].
+
+«Avete una qualche idea» chiese, con una sorta di benevolo sconcerto, «di dove esattamente stiate andando?»
+
+«Sì» rispose Syme secco, «vado a impedire che questa bomba venga lanciata a [[Paris|Parigi]].»
+
+«Avete una qualche concezione di come?» s’informò l’altro.
+
+«No» disse Syme con pari decisione.
+
+«Ricorderete, naturalmente» riprese il sedicente de Worms, tirandosi la barba e guardando fuori dalla [[Window|finestra]], «che quando ci sciogliemmo piuttosto in fretta, tutti i preparativi dell’attentato rimasero nelle mani private del Marchese e del dottor Bull. Il Marchese, a quest’[[Time|ora]], sta probabilmente attraversando la Manica. Ma dove andrà e cosa farà, è dubbio che persino il Presidente lo sappia; noi di certo non lo sappiamo. L’unico che lo sa è il dottor Bull.»
+
+«Maledizione!» esclamò Syme. «E noi non sappiamo dove sia.»
+
+«Sì» disse l’altro nel suo curioso modo assorto, «io so dove si trova.»
+
+«Me lo direte?» chiese Syme con occhi ansiosi.
+
+«Vi ci porterò» disse il [[The Professor|Professore]], e staccò da un gancio il proprio cappello.
+
+Syme rimase a guardarlo con una sorta di rigida eccitazione.
+
+«Che cosa intendete?» chiese bruscamente. «Vi unirete a me? Correrete il rischio?»
+
+«Giovanotto» disse il [[The Professor|Professore]] amabilmente, «mi diverte osservare che mi credete un codardo. Su questo dirò una sola parola, e sarà interamente nella maniera della vostra stessa retorica filosofica. Voi pensate che sia possibile abbattere il Presidente. Io so che è impossibile, e sto per tentarlo»; e aprendo la porta della taverna, che lasciò entrare una folata d’aria pungente, uscirono insieme nelle strade buie presso i moli.
+
+La maggior parte della [[Snow|neve]] si era sciolta o era stata calpestata fino a farsi fango, ma qua e là un grumo di essa mostrava ancora un colore grigio più che bianco nell’oscurità. Le stradine erano fradice e piene di pozzanghere, che riflettevano irregolarmente i lampioni fiammeggianti, e per caso, come frammenti di un altro mondo caduto. Syme si sentiva quasi stordito mentre avanzava attraverso quella crescente confusione di luci e di ombre; ma il suo compagno proseguiva con una certa alacrità, verso il punto in cui, in fondo alla strada, un pollice o due di [[River|fiume]] illuminato dai lampioni sembrava una sbarra di fiamma.
+
+«Dove state andando?» s’informò Syme.
+
+«In questo momento» rispose il [[The Professor|Professore]], «vado giusto qui dietro l’angolo a vedere se il dottor Bull è andato a letto. È un igienista, e si corica presto.»
+
+«Il dottor Bull!» esclamò Syme. «Abita dietro l’angolo?»
+
+«No» rispose l’amico. «In realtà abita piuttosto lontano, dall’altra parte del [[River|fiume]], ma da qui possiamo capire se è andato a letto.»
+
+Svoltando l’angolo mentre parlava, e volgendosi verso il [[River|fiume]] fioco, screziato di fiamma, indicò col bastone l’altra sponda. Sul lato del Surrey, in quel punto, si protendeva nel Tamigi, quasi da sovrastarlo, una massa e un aggregato di quelle alte casipole, punteggiate di finestre illuminate, che si ergevano come ciminiere di fabbrica a un’altezza quasi folle. La loro particolare postura e posizione facevano sì che un blocco di edifici somigliasse in modo speciale a una Torre di Babele dai cento occhi. Syme non aveva mai visto nessuno dei grattacieli d’[[america|America]], e così poté soltanto pensare agli edifici di [[A Dream|un sogno]].
+
+Proprio mentre fissava, la luce più alta di quel torrione dagli innumerevoli lumi si spense di colpo, come se quell’Argo nero gli avesse strizzato uno dei suoi innumerevoli occhi.
+
+Il professor de Worms girò sui tacchi e batté il bastone contro lo stivale.
+
+«Siamo arrivati troppo tardi» disse, «l’igienico Dottore è andato a letto.»
+
+«Che cosa intendete?» chiese Syme. «Allora abita laggiù?»
+
+«Sì» disse de Worms, «dietro quella particolare [[Window|finestra]] che non riuscite a scorgere. Venite a mangiare qualcosa. Dovremo fargli visita domani mattina.»
+
+Senza ulteriori discorsi, si aprì la via attraverso parecchie stradine secondarie finché sbucarono nel bagliore e nel clamore dell’East India Dock [[Road]]. [[The Professor|Il Professore]], che sembrava conoscere bene i dintorni, si diresse verso un punto in cui la fila dei negozi illuminati arretrava in una sorta di brusca penombra e quiete, in cui una vecchia locanda bianca, tutta malandata, si ritraeva una ventina di piedi dalla [[Road|strada]].
+
+«Buone locande inglesi ne trovate lasciate qua e là per caso, dappertutto, come fossili» spiegò il [[The Professor|Professore]]. «Una volta ne trovai una decente nel West End.»
+
+«Suppongo» disse Syme, sorridendo, «che questa sia la corrispondente decente locanda dell’East End?»
+
+«Proprio così» disse il [[The Professor|Professore]] con reverenza, ed entrò.
+
+In quel luogo cenarono e dormirono, entrambi molto a fondo. I fagioli e la pancetta, che quella gente insospettabile cucinava [[Well|bene]], la sorprendente comparsa del Borgogna dalle loro cantine, coronarono in Syme il senso di una nuova [[Comradeship|cameratismo]] e di un nuovo conforto. Per tutta quella prova il suo orrore radicale era stato l’isolamento, e non ci sono parole per esprimere l’abisso che separa l’isolamento dall’avere un alleato. Si può concedere ai matematici che quattro è due volte due. Ma due non è due volte uno; due è duemila volte uno. Ecco perché, a dispetto di cento svantaggi, il mondo tornerà sempre alla monogamia.
+
+Syme poté riversare per la prima [[Time|volta]] tutta la sua incredibile vicenda, dal [[Time|momento]] in cui Gregory lo aveva condotto nella piccola taverna presso il [[River|fiume]]. Lo fece con ozio e con ampiezza, in un lussureggiante monologo, come si parla con amici vecchissimi. Anche da parte sua, l’uomo che aveva impersonato il professor de Worms non fu meno comunicativo. La sua storia era quasi altrettanto sciocca di quella di Syme.
+
+«È un bel travestimento, il vostro» disse Syme, scolando un bicchiere di Mâcon; «assai migliore di quello del vecchio Gogol. Fin dall’inizio pensai che fosse un po’ troppo peloso.»
+
+«Una divergenza di teoria artistica» replicò il [[The Professor|Professore]] pensoso. «Gogol era un idealista. Si truccava secondo l’ideale astratto o platonico dell’anarchico. Io, invece, sono un realista. Sono un ritrattista. Ma, in verità, dire che sono un ritrattista è un’espressione inadeguata. Io sono un ritratto.»
+
+«Non vi capisco» disse Syme.
+
+«Sono un ritratto» ripeté il [[The Professor|Professore]]. «Sono il ritratto del celebre professor de Worms, il quale, credo, si trova a Napoli.»
+
+«Volete dire che siete truccato come lui» disse Syme. «Ma non sa forse che gli state prendendo il naso invano?»
+
+«Lo sa benissimo» replicò l’amico allegramente.
+
+«Allora perché non vi denuncia?»
+
+«Sono io ad averlo denunciato» rispose il [[The Professor|Professore]].
+
+«Spiegatevi meglio, vi prego» disse Syme.
+
+«Con piacere, se non vi dispiace ascoltare la mia storia» replicò l’eminente filosofo straniero. «Di professione sono attore, e mi chiamo Wilks. Quando calcavo le scene, mi mescolavo a ogni sorta di compagnia bohémienne e di canaglie. Talvolta lambivo il mondo dell’ippica, talvolta la feccia delle arti, e occasionalmente il rifugiato politico. In qualche covo di sognatori in esilio fui presentato al grande filosofo nichilista tedesco, il professor de Worms. Non colsi molto di lui al di là del suo aspetto, che era assai ripugnante, e che studiai con cura. Compresi che aveva dimostrato che il principio distruttore dell’universo era Dio; donde egli insisteva sulla necessità di un’energia furiosa e incessante, che facesse a pezzi tutte le cose. L’energia, diceva, era il Tutto. Era zoppo, miope e in parte paralitico. Quando lo incontrai ero in vena frivola, e mi era così antipatico che decisi di imitarlo. Se fossi stato un disegnatore, ne avrei tracciato una caricatura. Ero soltanto un attore, potevo soltanto recitare una caricatura. Mi truccai in quella che voleva essere una selvaggia esagerazione del vecchio e sudicio [[Self|io]] del vecchio Professore. Quando entrai nella stanza piena dei suoi sostenitori, mi aspettavo di essere accolto da un boato di risate, oppure (se erano troppo alticci) da un boato di indignazione per l’offesa. Non so descrivere la sorpresa che provai quando il mio ingresso fu accolto da un rispettoso [[Silence|silenzio]], seguito (non appena ebbi aperto bocca) da un mormorio di ammirazione. La maledizione dell’[[artist|artista]] perfetto era caduta su di me. Ero stato troppo sottile, ero stato troppo veritiero. Credettero che io fossi davvero il grande Professore nichilista. Ero un giovane dalla mente sana, a quel [[Time|tempo]], e confesso che fu un colpo. Prima però che potessi riprendermi del tutto, due o tre di quegli ammiratori corsero da me raggianti d’indignazione, e mi dissero che nella stanza accanto mi era stato inflitto un pubblico insulto. Ne chiesi la [[Nature|natura]]. Pareva che un tipo impertinente si fosse conciato come una grottesca [[Parody|parodia]] di me stesso. Avevo bevuto più champagne di quanto mi facesse bene, e in un lampo di follia decisi di andare fino in fondo alla situazione. Fu dunque per affrontare lo sguardo torvo della compagnia e le mie stesse sopracciglia inarcate e i miei occhi gelidi che il vero Professore entrò nella stanza.
+
+«Inutile dire che ci fu una collisione. I pessimisti tutt’intorno guardavano ansiosi ora l’uno ora l’altro Professore, per capire quale dei due fosse davvero il più fiacco. Ma vinsi io. Da un vecchio malandato in salute, come il mio rivale, non ci si poteva certo aspettare una fiacchezza così impressionante come quella di un giovane attore nel fiore degli anni. Vedete, lui aveva davvero la paralisi, e operando entro questo preciso limite, non poteva essere paralitico con tanta allegria quanto lo ero io. Poi tentò di demolire le mie pretese sul piano intellettuale. Io lo contrai con uno stratagemma semplicissimo. Ogni volta che diceva qualcosa che nessuno tranne lui poteva capire, replicavo con qualcosa che nemmeno io stesso riuscivo a capire. “Non credo” disse, “che voi possiate aver elaborato il principio secondo cui l’evoluzione è soltanto negazione, giacché in essa inerisce l’introduzione di lacune, che sono un elemento essenziale della differenziazione.” Replicai con tono assai sprezzante: “Avete letto tutto questo in Pinckwerts; l’idea che l’involuzione funzionasse eugeneticamente è stata confutata da un pezzo da Glumpe.” È superfluo che vi dica che non sono mai esistite persone come Pinckwerts e Glumpe. Ma la gente tutt’intorno (con mia certa sorpresa) sembrava ricordarli assai [[Well|bene]], e il [[The Professor|Professore]], accorgendosi che il metodo dotto e misterioso lo lasciava piuttosto alla [[Mercy|mercé]] di un nemico un tantino privo di scrupoli, ripiegò su una forma di spirito più popolare. “Vedo” sogghignò, “che voi prevalete come il porco falso di Esopo.” “E voi soccombete” risposi, sorridendo, “come il riccio di Montaigne.” C’è bisogno che dica che in Montaigne non c’è alcun riccio? “Le vostre ciarle reggono” disse; “così come reggerebbe la vostra barba.” A questo non avevo alcuna risposta intelligente, ed era del tutto vero e piuttosto arguto. Ma risi di cuore, risposi a caso: “Come gli stivali del panteista”, e girai sui tacchi con tutti gli onori della vittoria. Il vero Professore fu buttato fuori, ma non con violenza, benché un tale cercasse con molta pazienza di strappargli via il naso. Ora, credo, è accolto ovunque in Europa come un delizioso impostore. La sua apparente serietà e la sua collera, capite, lo rendono tanto più divertente.»
+
+«[[Well|Bene]]» disse Syme, «posso capire che vi siate messo la sua vecchia barba sudicia per uno scherzo di una [[Night|notte]], ma non capisco perché non ve la siate mai più tolta.»
+
+«Questo è il resto della storia» disse l’impersonatore. «Quando io stesso lasciai la compagnia, seguìto da un reverente applauso, mi allontanai zoppicando per la strada buia, sperando di essere presto abbastanza lontano da poter camminare come un essere umano. Con mio stupore, mentre svoltavo l’angolo, sentii un tocco sulla spalla, e voltandomi mi trovai sotto l’[[Shadow|ombra]] di un enorme poliziotto. Mi disse che ero ricercato. Assunsi una sorta di posa paralitica, e gridai con marcato accento tedesco: “Sì, sono ricercato... dagli oppressi del mondo. Mi state arrestando con l’accusa di essere il grande anarchico, il professor de Worms.” Il poliziotto, impassibile, consultò un foglio che teneva in mano: “No, signore” disse cortesemente, “o almeno, non esattamente, signore. Vi sto arrestando con l’accusa di non essere il celebre anarchico, il professor de Worms.” Questa accusa, se pure era in qualche modo criminosa, era di certo la più lieve delle due, e seguii l’uomo, dubbioso, ma non troppo sgomento. Fui introdotto in una serie di stanze, e infine alla presenza di un ufficiale di polizia, il quale mi spiegò che era stata aperta una seria campagna contro i centri dell’anarchia, e che questa mia riuscita mascherata poteva essere di considerevole valore per la pubblica sicurezza. Mi offrì un buon stipendio e questa piccola carta azzurra. Benché la nostra conversazione fosse breve, mi colpì come un uomo di massiccio buon senso e [[Humour|umorismo]]; ma non posso dirvi molto di lui personalmente, perché...»
+
+Syme posò coltello e forchetta.
+
+«Lo so» disse, «perché gli avete parlato in una stanza buia.»
+
+Il professor de Worms annuì e vuotò il bicchiere.

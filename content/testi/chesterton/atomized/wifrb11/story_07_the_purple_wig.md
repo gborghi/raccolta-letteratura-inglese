@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/wifrb11-(chesterton)">The Wisdom of Father Brown</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/wifrb11/story_06_the_head_of_caesar">‹ Story 06 The Head of Caesar</a><a class="ex-next" href="/testi/chesterton/atomized/wifrb11/story_08_the_perishing_of_the_pendragons">Story 08 The Perishing of the Pendragons ›</a></div>
@@ -570,3 +572,570 @@ automatically and by force of habit, altered the word "God"
 to the word "circumstances."
 
                                  EIGHT
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/wifrb11-(chesterton)">The Wisdom of Father Brown</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/wifrb11/story_06_the_head_of_caesar">‹ Story 06 The Head of Caesar</a><a class="ex-next" href="/testi/chesterton/atomized/wifrb11/story_08_the_perishing_of_the_pendragons">Story 08 The Perishing of the Pendragons ›</a></div>
+</nav>
+
+# [[wifrb11]] — La parrucca purpurea
+
+                            La parrucca purpurea
+
+MR EDWARD NUTT, l'operoso direttore del Daily Reformer,
+sedeva alla scrivania, aprendo lettere e correggendo bozze sull'allegro motivo
+d'una macchina da scrivere, azionata da una vigorosa signorina.
+
+     Era un uomo biondo e alquanto tarchiato, in maniche di camicia; i suoi gesti
+erano risoluti, ferma la bocca e perentorio il tono; ma i suoi occhi azzurri,
+tondi e piuttosto puerili, avevano un'aria smarrita e persino malinconica
+che tutto ciò in qualche modo smentiva. Né, in verità, l'espressione
+era del tutto ingannevole. Si poteva dire di lui con verità, come di molti
+giornalisti in posizione d'autorità, che l'emozione a lui più familiare fosse
+quella d'una paura continua: paura delle querele per diffamazione, paura degli inserzionisti
+perduti, paura dei refusi, paura del licenziamento.
+
+     La sua vita era una serie di compromessi frenetici tra
+il proprietario del giornale (e di lui stesso), che era un rimbambito fabbricante di sapone
+con tre errori inestirpabili in testa, e la ben capace redazione
+che aveva radunato per mandare avanti il giornale; alcuni dei quali erano uomini brillanti
+ed esperti e (ciò che era ancor peggio) sinceri entusiasti
+della linea politica del giornale.
+
+     Una lettera d'uno di costoro gli stava proprio davanti,
+e per quanto rapido e risoluto egli fosse, parve quasi esitare
+prima di aprirla. Prese invece una striscia di bozza, la percorse
+con un occhio azzurro e una matita azzurra, mutò la parola «adulterio»
+nella parola «scorrettezza», e la parola «ebreo» nella parola «straniero»,
+suonò un campanello e la spedì di volo al piano di sopra.
+
+     Poi, con occhio più meditabondo, strappò e aprì la lettera del suo
+collaboratore più illustre, che recava un timbro postale del Devonshire,
+e che diceva così:
+
+     CARO NUTT, --Visto che stai lavorando insieme Fantasmi e Nobili,
+che ne diresti d'un articolo su quella strana faccenda degli Eyre di Exmoor;
+o, come la chiamano le vecchiette da queste parti, l'Orecchio del Diavolo di Eyre?
+Il capo della famiglia, sai, è il Duca di Exmoor; è uno dei
+pochi aristocratici Tory della vecchia, rigida razza rimasti, un solido tiranno all'antica
+tutto incrostato, su cui è proprio nel nostro stile suscitare scandalo. E credo di essere
+sulle tracce d'una storia che farà scandalo.
+
+     Naturalmente io non credo alla vecchia leggenda su Giacomo I;
+e quanto a te, tu non credi a nulla, nemmeno al giornalismo.
+La leggenda, probabilmente ricorderai, riguardava la vicenda più nera
+della storia inglese --l'avvelenamento di Overbury per opera di quella gatta stregonesca
+di Frances Howard, e il terrore del tutto misterioso che costrinse il Re
+a graziare gli assassini. C'era di mezzo un mucchio di presunta stregoneria;
+e la storia racconta che un servitore, origliando
+al buco della serratura, udì la verità in un colloquio tra il Re e Carr;
+e l'orecchio corporeo con cui aveva udito crebbe grande e mostruoso
+come per magia, tanto era spaventoso il segreto. E benché egli dovesse essere colmato
+di terre e d'oro e fatto capostipite di duchi, l'orecchio a forma d'elfo
+ricorre ancora nella famiglia. Ebbene, tu non credi alla magia nera;
+e se anche ci credessi, non potresti farne materia da stampa. Se un miracolo accadesse
+nel tuo ufficio, dovresti metterlo a tacere, ora che tanti vescovi
+sono agnostici. Ma non è questo il punto. Il punto è che
+c'è davvero qualcosa di strano in Exmoor e nella sua famiglia;
+qualcosa di del tutto naturale, oserei dire, ma del tutto anormale.
+E l'Orecchio c'entra in qualche modo, immagino; o come simbolo o come illusione
+o malattia o qualcosa del genere. Un'altra tradizione dice che i Cavalieri,
+subito dopo Giacomo I, cominciarono a portare i capelli lunghi soltanto per coprire
+l'orecchio del primo Lord Exmoor. Anche questo è senza dubbio fantasioso.
+
+     Il motivo per cui te lo faccio notare è questo: mi sembra che
+sbagliamo ad attaccare l'aristocrazia unicamente per il suo champagne
+e i suoi diamanti. La maggior parte degli uomini piuttosto ammira i signori per il fatto che se la spassano,
+ma credo che noi concediamo troppo quando ammettiamo che l'aristocrazia
+abbia reso felici persino gli aristocratici. Propongo una serie di articoli
+che mostrino quanto siano tetri, quanto disumani, quanto addirittura diabolici
+il puro odore e l'atmosfera di certe di queste grandi dimore.
+Gli esempi abbondano; ma non potresti cominciarne uno migliore
+che con l'Orecchio degli Eyre. Entro la fine della settimana credo di poterti
+procurare la verità in proposito. --Tuo sempre, FRANCIS FINN.
+
+     Mr Nutt rifletté un istante, fissando lo stivale sinistro;
+poi chiamò a voce alta, forte e del tutto priva di vita,
+in cui ogni sillaba suonava eguale all'altra: «Miss Barlow, prenda
+una lettera per Mr Finn, per favore».
+
+     CARO FINN, --Credo che possa andare; la copia dovrebbe arrivarci col secondo giro di posta
+di sabato. --Tuo, E. NUTT.
+
+     Questa elaborata epistola egli la articolò come se fosse tutta una parola sola;
+e Miss Barlow la batté a macchina come se fosse tutta una parola sola.
+Poi prese un'altra striscia di bozza e una matita azzurra,
+e mutò la parola «soprannaturale» nella parola «meraviglioso»,
+e l'espressione «abbattere a fucilate» nell'espressione «reprimere».
+
+     In tali liete e salutari occupazioni Mr Nutt si trastullava,
+finché il sabato successivo non lo trovò alla medesima scrivania, a dettare
+alla medesima dattilografa, e a usare la medesima matita azzurra sulla prima puntata
+delle rivelazioni di Mr Finn. L'esordio era un solido pezzo di sferzante
+invettiva sui malvagi segreti dei principi, e sulla disperazione negli alti luoghi
+della terra. Benché scritto con violenza, era in inglese eccellente;
+ma il direttore, come al solito, aveva affidato a qualcun altro il compito
+di spezzettarlo in sottotitoli, che erano d'una specie più piccante,
+come «Nobildonna e veleni» e «L'Inquietante Orecchio», «Gli Eyre nel loro Nido»,
+e così via attraverso un centinaio di felici trovate. Seguiva poi la leggenda
+dell'Orecchio, ampliata dalla prima lettera di Finn, e poi la sostanza
+delle sue scoperte successive, così come segue:
+
+     So che è costume dei giornalisti mettere la fine della storia
+al principio e chiamarla titolo. So che il giornalismo
+consiste in gran parte nel dire «Lord Jones è morto» a gente che non aveva mai saputo
+che Lord Jones fosse vivo. Il vostro presente corrispondente ritiene che questo,
+come molti altri costumi giornalistici, sia cattivo giornalismo; e che
+il Daily Reformer debba dare un esempio migliore in tali cose.
+Egli si propone di raccontare la sua storia così come si svolse, passo per passo.
+Userà i veri nomi delle persone, che nella maggior parte dei casi sono pronte
+a confermare la sua testimonianza. Quanto ai titoli, alle sensazionali
+proclamazioni --verranno alla fine.
+
+     Camminavo lungo un sentiero pubblico che s'insinua attraverso
+un frutteto privato del Devonshire e sembra additare il sidro del Devonshire,
+quando m'imbattei d'improvviso proprio in quel genere di luogo che il sentiero lasciava presagire.
+Era una lunga e bassa locanda, consistente in realtà d'un casolare e due granai;
+tutta ricoperta di paglia, quella paglia che par capigliatura bruna e grigia
+cresciuta prima della storia. Ma fuori della porta c'era un'insegna che
+la chiamava il Drago Azzurro; e sotto l'insegna c'era uno di quei lunghi
+tavoli rustici che un tempo stavano fuori dalla maggior parte delle libere locande inglesi,
+prima che astemi e birrai, gli uni e gli altri, distruggessero la libertà.
+E a questo tavolo sedevano tre gentiluomini, che avrebbero potuto vivere
+un centinaio d'anni fa.
+
+     Ora che li conosco tutti meglio, non c'è alcuna difficoltà
+a districare le impressioni; ma in quel momento parevano proprio
+tre fantasmi assai solidi. La figura dominante, sia perché era
+più grande in tutte e tre le dimensioni, sia perché sedeva al centro
+della lunghezza del tavolo, di fronte a me, era un uomo alto e grasso vestito
+tutto di nero, con un volto rubicondo, persino apoplettico,
+ma una fronte piuttosto calva e piuttosto turbata. Guardandolo di nuovo,
+più attentamente, non avrei saputo dire con esattezza che cosa mi desse
+quel senso d'antichità, se non il taglio antiquato della sua bianca
+cravatta clericale e le rughe a sbarre che gli solcavano la fronte.
+
+     Era ancor meno facile fissare l'impressione nel caso
+dell'uomo all'estremità destra del tavolo, il quale, a dire il vero,
+era una persona quanto più comune si possa vedere in qualsiasi luogo, con una testa
+rotonda dai capelli castani e un naso camuso e rotondo, ma anch'egli vestito di nero clericale,
+d'un taglio più severo. Fu solo quando vidi il suo largo cappello ricurvo posato
+sul tavolo accanto a lui che compresi perché lo associavo a
+qualcosa di antico. Era un prete cattolico romano.
+
+     Forse il terzo uomo, all'altra estremità del tavolo,
+c'entrava davvero più degli altri, benché fosse insieme
+più esile di presenza fisica e più trascurato nel vestire.
+Le membra affusolate erano fasciate, potrei anzi dire strette,
+in maniche e pantaloni grigi assai attillati; aveva un volto lungo, olivastro, aquilino,
+che pareva in qualche modo tanto più saturnino in quanto le mascelle da lanterna
+erano imprigionate nel colletto e nella cravatta al modo
+dell'antica foggia; e i suoi capelli (che avrebbero dovuto essere castano scuro)
+erano d'uno strano colore rossiccio e spento che, in unione
+col volto giallastro, appariva più purpureo che rosso. Quel colore discreto
+eppure insolito era tanto più notevole in quanto i capelli erano
+quasi innaturalmente sani e ricciuti, e li portava folti.
+Ma, dopo tutte le analisi, propendo a credere che ciò che mi diede
+la prima impressione all'antica fosse semplicemente una serie di alti
+calici da vino d'antica foggia, uno o due limoni e due pipe dal lungo cannello.
+E anche, forse, la commissione d'altri tempi che mi conduceva là.
+
+     Essendo un cronista navigato, e trattandosi a quanto pareva d'una locanda pubblica,
+non ebbi bisogno di far ricorso a molta della mia sfrontatezza per sedermi al
+lungo tavolo e ordinare del sidro. Il grosso uomo in nero sembrava
+assai erudito, specialmente in fatto d'antichità locali; il piccolo uomo in nero,
+benché parlasse assai meno, mi sorprese con una cultura ancor più vasta.
+Così andammo assai d'accordo tutti insieme; ma il terzo uomo, il vecchio gentiluomo
+dai pantaloni attillati, appariva piuttosto distante e altero,
+finché non scivolai sull'argomento del Duca di Exmoor e della sua stirpe.
+
+     Mi parve che l'argomento imbarazzasse un poco gli altri due;
+ma ruppe l'incantesimo del silenzio del terzo uomo nel modo più efficace.
+Parlando con misura e con l'accento d'un gentiluomo di elevata educazione,
+e tirando a intervalli boccate dalla sua lunga pipa dal cannello, egli prese
+a raccontarmi alcune delle storie più orribili che abbia mai udito in vita mia:
+come uno degli Eyre, in età remote, avesse impiccato il proprio padre;
+e un altro avesse fatto flagellare la moglie dietro un carro per tutto il villaggio;
+e un altro avesse dato fuoco a una chiesa piena di bambini, e così via.
+
+     Alcuni dei racconti, in verità, non sono adatti alla stampa pubblica --,
+come la storia delle Monache Scarlatte, l'abominevole storia del
+Cane Maculato, o la cosa che fu compiuta nella cava.
+E tutto questo rosso rotolo d'empietà usciva dalle sue labbra sottili e signorili
+in modo piuttosto compunto, mentre egli sedeva sorseggiando il vino dal
+suo alto e sottile bicchiere.
+
+     Vedevo bene che il grosso uomo di fronte a me stava cercando,
+semmai, di fermarlo; ma evidentemente teneva il vecchio gentiluomo
+in considerevole rispetto, e non osava farlo in maniera troppo brusca.
+E il piccolo prete all'altra estremità del tavolo, benché libero da
+ogni simile aria d'imbarazzo, guardava fisso il tavolo,
+e pareva ascoltare quel racconto con gran pena --come ben poteva essere.
+
+     «Non sembrate», dissi al narratore, «avere in gran simpatia
+la genealogia degli Exmoor».
+
+     Egli mi guardò un istante, le labbra ancora compunte, ma che sbiancavano
+e s'irrigidivano; poi deliberatamente spezzò sul tavolo la sua lunga pipa e il bicchiere
+e si alzò, il ritratto stesso del gentiluomo perfetto
+racchiudente in sé la collera d'un demonio.
+
+     «Questi signori», disse, «vi diranno se ho motivo
+di simpatizzarci. La maledizione degli antichi Eyre è gravata pesante su questa contrada,
+e molti ne hanno sofferto. Sanno bene che nessuno ne ha
+sofferto quanto me». E con ciò schiacciò un frammento
+del bicchiere caduto sotto il tacco, e s'allontanò a gran passi tra il verde crepuscolo
+dei meli scintillanti.
+
+     «Che straordinario vecchio gentiluomo», dissi agli altri due;
+«sapete per caso che cosa gli abbia fatto la famiglia Exmoor? Chi è?»
+
+     Il grosso uomo in nero mi fissava con l'aria selvaggia d'un
+toro sconcertato; sulle prime parve non capire. Poi disse
+alla fine: «Non sapete chi è?»
+
+     Ribadii la mia ignoranza, e vi fu un altro silenzio;
+poi il piccolo prete disse, sempre guardando il tavolo: «Quello è
+il Duca di Exmoor».
+
+     Poi, prima che potessi raccogliere i sensi sconvolti, egli aggiunse
+con altrettanta calma, ma con l'aria di mettere ordine nelle cose:
+«Il mio amico qui è il Dottor Mull, il bibliotecario del Duca. Il mio nome è Brown».
+
+     «Ma», balbettai, «se quello è il Duca, perché maledice tutti
+i vecchi duchi a quel modo?»
+
+     «Sembra credere davvero», rispose il prete di nome Brown,
+«che essi gli abbiano lasciato addosso una maledizione». Poi aggiunse, con una certa incongruenza:
+«Ecco perché porta una parrucca».
+
+     Passarono alcuni istanti prima che il suo significato mi si facesse chiaro.
+«Non vorrete dire quella favola sull'orecchio fantastico?» domandai.
+«Ne ho sentito parlare, certo, ma dev'essere di sicuro una fandonia superstiziosa
+filata da qualcosa di assai più semplice. Ho talvolta pensato che fosse
+una versione stravagante d'una di quelle storie di mutilazioni. Un tempo tagliavano
+le orecchie ai criminali, nel sedicesimo secolo».
+
+     «Non credo proprio che fosse questo», rispose pensoso il piccolo uomo,
+«ma non è fuori dalla scienza comune o dalla legge naturale che una famiglia
+abbia qualche deformità che ricompare di frequente --come un orecchio più grande
+dell'altro».
+
+     Il grosso bibliotecario aveva sepolto la sua grande fronte calva nelle sue grosse mani rosse,
+come un uomo che cerchi di ragionare sul proprio dovere. «No», gemette.
+«In fondo fate torto a quell'uomo. Intendetemi, non ho ragione
+di difenderlo, né tanto meno di serbargli fede. È stato un tiranno per me
+come per chiunque altro. Non crediate, per il fatto che lo vedete seduto qui,
+che non sia un gran signore nel senso peggiore della parola.
+Farebbe venire un uomo da un miglio di distanza per suonare un campanello a un iarda --se ciò
+servisse a chiamare un altro uomo da tre miglia a prendere una scatola di fiammiferi a tre iarde.
+Deve avere un valletto che gli porti il bastone da passeggio; un servitore di camera
+che gli regga il binocolo da teatro --»
+
+     «Ma non un cameriere che gli spazzoli gli abiti», interruppe il prete,
+con una curiosa secchezza, «perché il cameriere vorrebbe spazzolargli anche la parrucca».
+
+     Il bibliotecario si volse a lui e parve dimenticare la mia presenza;
+era fortemente commosso e, credo, un po' riscaldato dal vino.
+«Non so come lo sappiate, Padre Brown», disse, «ma avete ragione.
+Lascia che tutto il mondo faccia ogni cosa per lui --tranne vestirlo.
+E questo insiste a farlo in una solitudine letterale, come in un deserto.
+Chiunque venga anche solo trovato presso la porta del suo spogliatoio
+è cacciato di casa senza referenze».
+
+     «Sembra un vecchio tipo simpatico», osservai.
+
+     «No», rispose il Dottor Mull con la massima semplicità; «eppure è proprio questo
+che intendo dicendo che in fondo siete ingiusto con lui. Signori, il Duca
+sente davvero l'amarezza di quella maledizione che ha appena pronunciato.
+Egli, con sincera vergogna e terrore, nasconde sotto quella parrucca purpurea
+qualcosa che ritiene folgorerebbe i figli dell'uomo alla sola vista.
+So che è così; e so che non è una mera deformità naturale,
+come una mutilazione da criminale, o una sproporzione ereditaria dei lineamenti.
+So che è peggio di ciò; perché me lo ha detto un uomo che era presente
+a una scena che nessuno saprebbe inventare, in cui un uomo più forte
+di qualsiasi di noi tentò di sfidare il segreto, e ne fu scacciato dallo spavento».
+
+     Aprii la bocca per parlare, ma Mull proseguì dimentico di me,
+parlando dalla caverna delle sue mani. «Non mi dispiace dirvelo,
+Padre, perché in realtà è più difendere il povero Duca che
+tradirlo. Non avete mai sentito della volta in cui egli
+per poco non perse tutte le proprietà?»
+
+     Il prete scosse il capo; e il bibliotecario prese a
+raccontare la vicenda come l'aveva udita dal suo predecessore nel medesimo incarico,
+che era stato suo patrono e maestro, e in cui pareva riporre
+fiducia assoluta. Fino a un certo punto era una storia abbastanza comune
+del declino delle fortune d'una grande famiglia --la storia d'un avvocato di famiglia.
+Il suo avvocato, tuttavia, ebbe il buon senso d'imbrogliare onestamente, se l'espressione
+si spiega da sé. Invece d'usare i fondi che deteneva in fiducia,
+approfittò della trascuratezza del Duca per cacciare la famiglia in
+un buco finanziario, in cui poteva rendersi necessario che il Duca
+gliela lasciasse tenere in realtà.
+
+     L'avvocato si chiamava Isaac Green, ma il Duca lo chiamava sempre
+Eliseo; presumibilmente in riferimento al fatto che era del tutto calvo,
+benché di certo non avesse più di trent'anni. Era salito assai rapidamente,
+ma da inizi assai sordidi; essendo dapprima uno «spione» o informatore,
+e poi uno strozzino: ma come procuratore degli Eyre ebbe il buon senso,
+come dico, di restare tecnicamente in regola finché non fu pronto a vibrare
+il colpo finale. Il colpo cadde a cena; e il vecchio bibliotecario disse
+che non avrebbe mai dimenticato l'aspetto stesso dei paralumi e delle caraffe,
+mentre il piccolo avvocato, con un sorriso fermo, proponeva al gran signore terriero
+che si spartissero le proprietà a metà. Il seguito di certo
+non poté passare inosservato; poiché il Duca, in un silenzio di morte, fracassò
+una caraffa sulla testa calva dell'uomo, con la medesima subitaneità con cui l'avevo visto fracassare
+il bicchiere quel giorno nel frutteto. Lasciò una rossa cicatrice triangolare
+sul cuoio capelluto, e gli occhi dell'avvocato mutarono, ma non il suo sorriso.
+
+     Egli si rizzò vacillante in piedi, e restituì il colpo come tali uomini restituiscono i colpi.
+«Me ne rallegro», disse, «perché ora posso prendermi l'intera proprietà.
+La legge me la darà».
+
+     Exmoor, a quanto pare, era bianco come la cenere, ma gli occhi gli ardevano ancora.
+«La legge te la darà», disse; «ma tu non la prenderai....
+Perché no? Perché? Perché significherebbe per me lo schianto del giudizio finale,
+e se tu la prendi io mi toglierò la parrucca.... Ma sì, tu miserabile
+pollo spennato, chiunque può vedere la tua testa nuda. Ma nessun uomo vedrà
+la mia e vivrà».
+
+     Ebbene, potete dire ciò che vi pare e dargli il senso che vi pare.
+Ma Mull giura che è fatto solenne che l'avvocato, dopo aver scosso
+per un istante i pugni nodosi nell'aria, semplicemente fuggì dalla stanza
+e non ricomparve mai più in tutto il circondario; e da allora Exmoor è stato
+temuto più come stregone che persino come signore terriero e magistrato.
+
+     Ora, il Dottor Mull raccontò la sua storia con gesti teatrali piuttosto scomposti,
+e con una passione che credo quanto meno di parte. Ero ben cosciente
+della possibilità che il tutto fosse la stravaganza d'un
+vecchio spaccone e pettegolo. Ma prima di chiudere questa metà delle mie scoperte,
+credo doveroso verso il Dottor Mull registrare che le mie prime due indagini
+hanno confermato la sua storia. Ho appreso da un vecchio speziale del villaggio
+che c'era stato un uomo calvo in abito da sera, che dava il nome di Green,
+il quale venne da lui una notte a farsi medicare un taglio a tre punte sulla fronte.
+E ho appreso dagli atti legali e dai vecchi giornali
+che una causa era stata minacciata, e per lo meno avviata, da un certo Green
+contro il Duca di Exmoor.
+
+     Mr Nutt, del Daily Reformer, scrisse alcune parole assai incongrue
+in cima alla copia, tracciò alcuni segni assai misteriosi
+lungo il margine, e chiamò Miss Barlow con la medesima voce forte e
+monotona: «Prenda una lettera per Mr Finn».
+
+     CARO FINN, --La tua copia va bene, ma ho dovuto metterci un po' di titoli;
+e il nostro pubblico non tollererebbe mai un prete papista nella storia --
+devi tenere d'occhio i sobborghi. L'ho trasformato in Mr Brown,
+uno spiritista.
+
+                                             Tuo,
+
+                                                  E. NUTT.
+
+     Un giorno o due dopo, l'attivo e giudizioso direttore
+esaminava, con occhi azzurri che parevano farsi sempre più tondi,
+la seconda puntata del racconto di misteri dell'alta società di Mr Finn.
+Cominciava con le parole:
+
+     Ho fatto una scoperta sbalorditiva. Confesso liberamente che è
+del tutto diversa da qualsiasi cosa mi aspettassi di scoprire, e darà
+al pubblico uno scossone assai più concreto. Oso dire,
+senza alcuna vanità, che le parole che ora scrivo saranno lette in tutta Europa,
+e di certo in tutta l'America e nelle Colonie. Eppure udii
+tutto ciò che ho da raccontare prima di lasciare questo stesso piccolo tavolo di legno in questo
+stesso piccolo bosco di meli.
+
+     Lo devo tutto al piccolo prete Brown; è un uomo straordinario.
+Il grosso bibliotecario aveva lasciato il tavolo, forse vergognoso della sua lunga lingua,
+forse inquieto per la tempesta in cui il suo misterioso padrone
+era svanito: comunque si mise pesantemente sulle tracce del Duca
+attraverso gli alberi. Padre Brown aveva raccolto uno dei limoni e
+lo osservava con uno strano piacere.
+
+     «Che bel colore ha un limone!» disse. «C'è una cosa
+che non mi piace della parrucca del Duca --il colore».
+
+     «Non credo di capire», risposi.
+
+     «Oserei dire che ha buona ragione di coprirsi le orecchie, come Re Mida»,
+proseguì il prete, con una gaia semplicità che in qualche modo pareva
+piuttosto leggera date le circostanze. «Capisco benissimo
+che è più piacevole coprirle coi capelli che con piastre d'ottone o
+falde di cuoio. Ma se vuol servirsi dei capelli, perché non li fa
+sembrare capelli? Non ci furono mai al mondo capelli di quel colore.
+Sembra piuttosto una nuvola di tramonto che filtra attraverso il bosco.
+Perché non nasconde meglio la maledizione di famiglia, se davvero
+ne ha tanta vergogna? Volete che ve lo dica? È perché non ne ha vergogna.
+Ne è fiero».
+
+     «È una brutta parrucca di cui essere fieri --e una brutta storia», dissi.
+
+     «Riflettete», rispose questo curioso omino, «su come voi stesso
+sentiate davvero simili cose. Non insinuo che siate né
+più snob né più morboso del resto di noi: ma non sentite forse
+in modo vago che una genuina antica maledizione di famiglia è una cosa piuttosto pregevole
+da possedere? Non vi vergognereste, non sareste un po' fiero,
+se l'erede dell'orrore di Glamis vi chiamasse suo amico? o se la famiglia
+di Byron avesse confidato, a voi soltanto, le malvagie avventure della loro stirpe?
+Non siate troppo severo con gli aristocratici stessi se le loro teste sono
+deboli quanto lo sarebbero le nostre, e sono degli snob riguardo ai propri dolori».
+
+     «Perbacco!» esclamai; «ed è proprio vero. La famiglia di mia madre
+aveva una banshee; e, ora che ci penso, mi ha confortato
+in più d'un'ora gelida».
+
+     «E pensate», proseguì, «a quel fiotto di sangue e veleno
+che gli sprizzò dalle sottili labbra nell'istante stesso in cui menzionaste
+i suoi antenati. Perché mai dovrebbe mostrare a ogni estraneo una simile
+Camera degli Orrori, se non ne fosse fiero? Non nasconde la sua parrucca,
+non nasconde il suo sangue, non nasconde la maledizione di famiglia,
+non nasconde i delitti di famiglia --ma --»
+
+     La voce dell'omino mutò così di colpo, egli chiuse la mano
+così di scatto, e i suoi occhi si fecero così rapidamente più tondi e più brillanti
+come quelli d'un gufo che si desta, che tutto ciò ebbe la subitaneità d'una piccola esplosione
+sul tavolo.
+
+     «Ma», concluse, «egli nasconde davvero la sua toeletta».
+
+     Completò in qualche modo il brivido dei miei nervi fantasiosi il fatto
+che in quell'istante il Duca ricomparve silenzioso tra gli alberi luccicanti,
+col suo passo felpato e i capelli color tramonto, girando l'angolo della
+casa in compagnia del suo bibliotecario. Prima che giungesse a portata d'orecchio,
+Padre Brown aveva aggiunto con tutta calma: «Perché mai nasconde davvero
+il segreto di ciò che fa con la parrucca purpurea? Perché non è
+il genere di segreto che supponiamo».
+
+     Il Duca girò l'angolo e riprese il suo posto a capo
+del tavolo con tutta la sua innata dignità. L'imbarazzo del
+bibliotecario lo lasciò librato sulle zampe posteriori, come un enorme orso.
+Il Duca si rivolse al prete con gran serietà. «Padre Brown»,
+disse, «il Dottor Mull m'informa che siete venuto qui a farmi una richiesta.
+Non professo più l'osservanza della religione dei miei padri;
+ma per amor loro, e per amore dei giorni in cui c'incontrammo un tempo,
+sono ben disposto ad ascoltarvi. Ma presumo che preferireste
+essere ascoltato in privato».
+
+     Quel poco che serbo del gentiluomo mi fece alzare in piedi.
+Quel poco che ho acquisito del giornalista mi fece restare immobile.
+Prima che questa paralisi potesse passare, il prete fece un gesto
+di trattenermi per un momento. «Se», disse, «Vostra Grazia mi permetterà
+la mia vera preghiera, o se conservo alcun diritto di consigliarvi, insisterei
+perché fossero presenti quante più persone possibile. In tutta questa contrada
+ho trovato centinaia di persone, anche della mia stessa fede e del mio stesso gregge, le cui immaginazioni
+sono avvelenate dall'incantesimo che vi supplico di spezzare. Vorrei che potessimo
+avere qui tutto il Devonshire a vedervelo fare».
+
+     «A vedermi fare che cosa?» chiese il Duca, inarcando le sopracciglia.
+
+     «A vedervi togliere la parrucca», disse Padre Brown.
+
+     Il volto del Duca non si mosse; ma egli guardò il suo supplice
+con uno sguardo vitreo che era l'espressione più spaventosa che io abbia mai visto
+su un volto umano. Vedevo le grosse gambe del bibliotecario vacillare
+sotto di lui come le ombre degli steli in uno stagno; e non riuscivo a bandire
+dalla mia mente la fantasia che gli alberi tutt'intorno a noi si andassero
+riempiendo dolcemente, nel silenzio, di demoni anziché d'uccelli.
+
+     «Vi risparmio», disse il Duca con voce d'una pietà disumana.
+«Rifiuto. Se vi dessi il più tenue accenno del carico d'orrore
+che devo portare da solo, giacereste urlando a questi miei piedi
+implorando di non sapere altro. Vi risparmierò l'accenno.
+Non compiterete la prima lettera di ciò che è scritto sull'altare
+del Dio Ignoto».
+
+     «Io conosco il Dio Ignoto», disse il piccolo prete, con
+un'inconsapevole grandezza di certezza che si ergeva come una torre di granito.
+«Conosco il suo nome; è Satana. Il vero Dio si fece carne
+e abitò tra noi. E vi dico che, ovunque troviate uomini governati
+unicamente dal mistero, è il mistero dell'iniquità. Se il diavolo
+vi dice che qualcosa è troppo spaventoso da guardare, guardatela.
+Se dice che qualcosa è troppo terribile da udire, uditela. Se ritenete
+qualche verità insopportabile, sopportatela. Supplico Vostra Grazia di porre fine
+a questo incubo, ora e qui a questo tavolo».
+
+     «Se lo facessi», disse il Duca a bassa voce, «voi e tutto ciò in cui credete,
+e tutto ciò per cui soltanto vivete, sareste i primi ad avvizzire e perire.
+Avreste un istante per conoscere il grande Nulla prima di morire».
+
+     «La Croce di Cristo sia tra me e il male», disse Padre Brown.
+«Toglietevi la parrucca».
+
+     Ero chino sul tavolo in un'eccitazione incontrollabile;
+ascoltando questo straordinario duello, mezza idea mi era
+balenata in testa. «Vostra Grazia», gridai, «vi sfido a mostrare le carte.
+Toglietevi quella parrucca o gliela farò saltar via io».
+
+     Suppongo di poter essere perseguito per aggressione, ma sono ben lieto
+d'averlo fatto. Quando egli disse, con la medesima voce di pietra, «Rifiuto»,
+gli piombai semplicemente addosso. Per tre lunghi istanti egli resistette contro di me
+come se avesse tutto l'inferno in suo aiuto; ma gli forzai il capo finché
+il berretto peloso non gli cadde. Ammetto che, mentre lottavo,
+chiusi gli occhi quando cadde.
+
+     Fui destato da un grido di Mull, che a quel punto era anch'egli
+al fianco del Duca. La sua testa e la mia erano entrambe chine sopra
+la testa calva del Duca senza parrucca. Poi il silenzio fu spezzato
+dal bibliotecario che esclamava: «Che cosa può significare? Ma quest'uomo non aveva
+nulla da nascondere. Le sue orecchie sono proprio come quelle di tutti gli altri».
+
+     «Sì», disse Padre Brown, «è questo che aveva da nascondere».
+
+     Il prete gli si avvicinò dritto, ma, cosa abbastanza strana,
+non gettò nemmeno un'occhiata alle sue orecchie. Fissò con una serietà quasi comica
+la fronte calva di lui, e indicò una cicatrice a tre punte,
+da tempo rimarginata, ma ancora discernibile. «Il signor Green, immagino»,
+disse cortesemente, «e in fin dei conti l'intera proprietà se l'è presa davvero».
+
+     E ora lasciate che dica ai lettori del Daily Reformer
+ciò che ritengo la cosa più notevole dell'intera vicenda.
+Questa scena di trasformazione, che vi parrà tanto stravagante e purpurea
+quanto una fiaba persiana, è stata (a parte la mia aggressione tecnica)
+rigorosamente legale e costituzionale fin dai suoi primi inizi.
+Quest'uomo dalla strana cicatrice e dalle orecchie ordinarie non è un impostore.
+Benché (in un certo senso) porti la parrucca d'un altro uomo e rivendichi
+l'orecchio d'un altro uomo, non ha rubato la corona d'un altro uomo.
+È davvero l'unico e solo Duca di Exmoor. Ecco che cosa accadde.
+Il vecchio Duca aveva davvero una lieve malformazione dell'orecchio, che davvero
+era più o meno ereditaria. Ne era davvero morbosamente ossessionato;
+ed è assai probabile che egli l'abbia invocata come una sorta di maledizione
+nella scena violenta (che senza dubbio avvenne) in cui colpì
+Green con la caraffa. Ma la contesa finì assai diversamente.
+Green fece valere la sua rivendicazione e ottenne le proprietà; il nobile spossessato
+si sparò e morì senza eredi. Dopo un decoroso intervallo
+il bel Governo inglese fece rivivere il titolo nobiliare «estinto» di Exmoor,
+e lo conferì, com'è d'uso, alla persona più importante,
+la persona che aveva ottenuto le proprietà.
+
+     Quest'uomo si servì delle vecchie favole feudali --e, come si conviene, nella sua anima snob
+davvero le invidiava e le ammirava. Cosicché migliaia di poveri inglesi
+tremavano davanti a un misterioso capo dall'antico destino e
+da un diadema di stelle maligne --mentre in realtà tremano davanti
+a uno straccione che era un azzeccagarbugli e un usuraio meno di dodici anni fa.
+Lo ritengo assai tipico del vero atto d'accusa contro la nostra aristocrazia com'è,
+e come sarà finché Dio non ci manderà uomini più valorosi.
+
+     Mr Nutt posò il manoscritto e chiamò con insolita
+asprezza: «Miss Barlow, prenda per favore una lettera per Mr Finn».
+
+     CARO FINN, --Devi essere impazzito; non possiamo toccare questa roba. Volevo vampiri
+e i cattivi tempi antichi e l'aristocrazia a braccetto con la superstizione.
+Quella roba piace. Ma devi ben sapere che gli Exmoor non perdonerebbero mai questo.
+E che cosa direbbe allora la nostra gente, vorrei saperlo! Ma insomma, Sir Simon
+è uno dei più grandi amiconi di Exmoor; e rovinerebbe quel cugino
+degli Eyre che si candida per noi a Bradford. Per giunta, il vecchio Schiuma-di-Sapone
+era già abbastanza inviperito per non aver ottenuto il suo titolo nobiliare l'anno scorso; mi licenzierebbe per telegramma
+se glielo facessi perdere con una follia come questa. E che ne facciamo di Duffey?
+Ci sta scrivendo certi articoli coi fiocchi su «Il Tallone del Normanno».
+E come può scrivere di Normanni se quell'uomo è soltanto un procuratore?
+Sii ragionevole. --Tuo, E. NUTT.
+
+     Mentre Miss Barlow batteva via allegramente, egli accartocciò la copia
+e la gettò nel cestino della carta straccia; ma non prima d'aver,
+automaticamente e per forza d'abitudine, mutato la parola «Dio»
+nella parola «circostanze».
+
+                                 OTTO

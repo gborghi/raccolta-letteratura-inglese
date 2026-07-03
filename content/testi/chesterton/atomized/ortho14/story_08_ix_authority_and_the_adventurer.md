@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/ortho14-(chesterton)">Orthodoxy</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/ortho14/story_07_vii_the_eternal_revolution">‹ Story 07 Vii The Eternal Revolution</a><a class="ex-next" href="/testi/chesterton/atomized/ortho14/story_04_ii_the_maniac/part_01">part 01 ›</a></div>
@@ -778,3 +780,475 @@ He walked upon our earth; and I have sometimes fancied that it was His
 mirth.
 
 End of the Project Gutenberg Etext of Orthodoxy by G. K. Chesterton
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/ortho14-(chesterton)">Orthodoxy</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/ortho14/story_07_vii_the_eternal_revolution">‹ Story 07 Vii The Eternal Revolution</a><a class="ex-next" href="/testi/chesterton/atomized/ortho14/story_04_ii_the_maniac/part_01">part 01 ›</a></div>
+</nav>
+
+# [[ortho14]] — Ix Authority And The Adventurer
+
+IX L'AUTORITÀ E L'AVVENTURIERO
+
+     Il capitolo precedente si è occupato della tesi secondo cui l'ortodossia non è soltanto (come spesso si sostiene) l'unica custode sicura della [[morality|moralità]] o dell'ordine, ma è anche l'unica custode logica della libertà, dell'innovazione e del progresso. Se vogliamo abbattere l'oppressore prospero non possiamo farlo con la nuova dottrina della perfettibilità umana; possiamo farlo con l'antica dottrina del [[Original Sin|Peccato Originale]]. Se vogliamo sradicare le crudeltà connaturate o risollevare le popolazioni perdute non possiamo farlo con la teoria scientifica secondo cui la materia precede la mente; possiamo farlo con la teoria [[Supernatural|soprannaturale]] secondo cui la mente precede la materia. Se vogliamo in modo particolare destare gli uomini alla vigilanza sociale e all'infaticabile ricerca dell'azione, non possiamo giovarvi molto insistendo sul Dio Immanente e sulla Luce Interiore: poiché questi sono, tutt'al più, ragioni di appagamento; possiamo invece giovarvi assai insistendo sul Dio trascendente e sul barlume che vola e si sottrae; perché ciò significa divina inquietudine. Se vogliamo in particolare affermare l'idea di un generoso equilibrio contro quella di una spaventosa autocrazia, saremo istintivamente trinitari piuttosto che unitari. Se [[Desire|desideriamo]] che la civiltà europea sia un'incursione e un salvataggio, insisteremo piuttosto sul fatto che le anime sono in reale pericolo che non sul fatto che il loro pericolo sia in fondo irreale. E se vogliamo esaltare il reietto e il crocifisso, preferiremo pensare che a essere crocifisso sia stato un vero Dio, piuttosto che un semplice saggio o [[Hero|eroe]]. Soprattutto, se vogliamo proteggere i poveri saremo a favore di regole fisse e di dogmi chiari. Le REGOLE di un circolo sono di quando in quando a favore del socio povero. La tendenza di un circolo è sempre a favore di quello ricco.
+
+     E ora giungiamo alla questione cruciale che davvero conclude l'intera faccenda. Un ragionevole agnostico, se per caso si è trovato d'accordo con me fin qui, può giustamente voltarsi e dire: «Avete trovato una [[philosophy|filosofia]] pratica nella dottrina della Caduta; [[Well|benissimo]]. Avete trovato un aspetto della [[democracy|democrazia]] oggi pericolosamente trascurato saggiamente affermato nel [[Original Sin|Peccato Originale]]; d'accordo. Avete trovato una [[Truth|verità]] nella dottrina dell'inferno; me ne rallegro con voi. Siete convinto che gli adoratori di un Dio personale guardino verso l'esterno e siano progressivi; me ne rallegro con loro. Ma anche ammesso che quelle dottrine racchiudano quelle verità, perché non potete prendere le verità e lasciare le dottrine? Concesso che tutta la società moderna si fidi troppo dei ricchi perché non tiene conto della debolezza umana; concesso che le epoche ortodosse abbiano avuto un grande vantaggio perché (credendo nella Caduta) tenevano conto della debolezza umana, perché non potete semplicemente tenere conto della debolezza umana senza credere nella Caduta? Se avete scoperto che l'idea della dannazione rappresenta una sana idea di pericolo, perché non potete semplicemente prendere l'idea del pericolo e lasciare l'idea della dannazione? Se vedete chiaramente il nòcciolo di buon senso dentro il guscio dell'ortodossia cristiana, perché non potete semplicemente prendere il nòcciolo e lasciare il guscio? Perché non potete (per usare quella frase fatta dei giornali che io, in quanto agnostico di elevata dottrina, mi vergogno un poco di usare) perché non potete semplicemente prendere ciò che vi è di buono nel [[Christianity|Cristianesimo]], ciò che potete definire prezioso, ciò che potete comprendere, e lasciare tutto il resto, tutti i dogmi assoluti che sono per loro [[Nature|natura]] incomprensibili?». Questa è la vera domanda; questa è l'ultima domanda; ed è un piacere provare a rispondervi.
+
+     La prima risposta è semplicemente dire che io sono un razionalista. Mi piace avere qualche giustificazione intellettuale per le mie intuizioni. Se tratto l'uomo come un essere caduto, per me è una comodità intellettuale credere che sia caduto; e trovo, per qualche strana ragione psicologica, di saper trattare meglio l'esercizio del libero arbitrio di un uomo se credo che egli lo possieda. Ma in questa materia io sono ancora più decisamente razionalista. Non ho intenzione di trasformare questo libro in una delle solite [[Apologetics|apologetiche]] cristiane; sarei lieto di incontrare in qualsiasi altro [[Time|momento]] i nemici del [[Christianity|Cristianesimo]] in quell'arena più ovvia. Qui mi limito a dare un resoconto della mia crescita nella certezza spirituale. Ma posso indugiare a osservare che quanto più consideravo i meri argomenti astratti contro la cosmologia cristiana, tanto meno li stimavo. Voglio dire che, avendo trovato che l'atmosfera morale dell'Incarnazione era buon senso, guardai poi agli affermati argomenti intellettuali contro l'Incarnazione e li trovai puro nonsenso. Nel caso si pensasse che l'argomentazione soffra dell'assenza della consueta apologetica, riassumerò qui molto brevemente le mie argomentazioni e conclusioni sulla [[Truth|verità]] puramente oggettiva o scientifica della questione.
+
+     Se mi si chiede, come pura questione intellettuale, perché io creda nel [[Christianity|Cristianesimo]], posso solo rispondere: «Per la stessa ragione per cui un intelligente agnostico non crede nel [[Christianity|Cristianesimo]]». Vi credo del tutto razionalmente, sulla base delle prove. Ma le prove, nel mio caso come in quello dell'intelligente agnostico, non stanno realmente in questa o quella pretesa dimostrazione; stanno in un enorme accumulo di fatti piccoli ma unanimi. Il laicista non è da biasimare perché le sue obiezioni al [[Christianity|Cristianesimo]] sono disparate e persino frammentarie; è proprio tale prova frammentaria che convince la mente. Voglio dire che un uomo può [[Well|ben]] essere meno convinto di una [[philosophy|filosofia]] da quattro libri che da un libro, una battaglia, un paesaggio e un vecchio amico. Il fatto stesso che le cose siano di generi diversi accresce l'importanza del fatto che tutte convergono verso una sola conclusione. Ora, la non-[[Christianity|cristianità]] dell'uomo colto medio di oggi è quasi sempre, per rendergli giustizia, fatta di queste esperienze slegate ma vive. Posso solo dire che le mie prove a favore del [[Christianity|Cristianesimo]] sono dello stesso genere vivido ma vario delle sue prove contro di esso. Poiché quando guardo a queste varie verità anticristiane, scopro semplicemente che nessuna di esse è vera. Scopro che la vera corrente e la vera forza di tutti i fatti scorrono nella direzione opposta. Prendiamo dei casi. Più di un uomo moderno assennato deve aver abbandonato il [[Christianity|Cristianesimo]] sotto la pressione di tre convinzioni convergenti come queste: primo, che gli uomini, per forma, struttura e [[Sexuality|sessualità]], sono in fin dei conti molto simili alle bestie, una semplice varietà del regno animale; secondo, che la religione primordiale sorse dall'ignoranza e dalla [[Fear|paura]]; terzo, che i sacerdoti hanno afflitto le società di amarezza e cupezza. Quei tre argomenti anticristiani sono assai diversi; ma sono tutti del tutto logici e legittimi; e tutti convergono. La sola obiezione che si può muovere loro (io scopro) è che sono tutti falsi. Se smettete di guardare libri sulle bestie e sugli uomini, se cominciate a guardare le bestie e gli uomini, allora (se avete un po' di [[Humour|umorismo]] o di [[Imagination|immaginazione]], un qualche senso del frenetico o del farsesco) osserverete che la cosa sorprendente non è quanto l'uomo sia simile ai bruti, ma quanto sia dissimile. È la mostruosa misura della sua divergenza che richiede una spiegazione. Che l'uomo e il bruto siano simili è, in un certo senso, un truismo; ma che, essendo così simili, debbano poi essere così follemente dissimili, questo è lo sconcerto e l'enigma. Che una scimmia abbia mani è di gran lunga meno interessante per il filosofo del fatto che, avendo mani, essa non ne faccia quasi nulla; non gioca agli aliossi né suona il violino; non scolpisce il marmo né trincia il montone. Si parla di architettura barbarica e di arte degradata. Ma gli elefanti non costruiscono colossali templi d'avorio, nemmeno in stile rococò; i cammelli non dipingono nemmeno brutti quadri, benché forniti del materiale di molti pennelli di pelo di cammello. Certi sognatori moderni dicono che le formiche e le [[Bees|api]] hanno una società superiore alla nostra. Hanno, in effetti, una civiltà; ma proprio quella [[Truth|verità]] ci ricorda soltanto che è una civiltà inferiore. Chi ha mai trovato un [[Hill|formicaio]] adorno delle statue di formiche celebri? Chi ha mai visto un alveare intagliato con le immagini di splendide regine di un tempo? No; l'abisso fra l'uomo e le altre creature può avere una spiegazione naturale, ma è un abisso. Parliamo di [[Animals|animali]] selvaggi; ma l'uomo è l'unico animale selvaggio. È l'uomo che ha rotto gli argini. Tutti gli altri [[Animals|animali]] sono [[Animals|animali]] mansueti; seguono la rude rispettabilità della tribù o del tipo. Tutti gli altri [[Animals|animali]] sono [[Animals|animali]] domestici; l'uomo [[Alone|soltanto]] è sempre indomestico, sia come libertino sia come monaco. Cosicché questa prima superficiale ragione a favore del materialismo è, semmai, una ragione a favore del suo contrario; è esattamente là dove la biologia [[Leaves|cessa]] che ogni religione comincia.
+
+Lo stesso accadrebbe se esaminassi il secondo dei tre
+argomenti razionalisti presi a caso: l'argomento secondo cui tutto ciò che chiamiamo divino
+ebbe origine in qualche tenebra e in qualche terrore.  Quando tentai davvero di esaminare
+i fondamenti di questa idea moderna, scoprii semplicemente che non ce n'erano.
+La scienza non sa proprio nulla dell'uomo preistorico;
+per l'eccellente ragione che egli è preistorico.  Alcuni professori
+scelgono di congetturare che pratiche come il sacrificio umano fossero un tempo
+[[Innocent|innocenti]] e generali e che a poco a poco si siano estinte; ma non ve n'è
+alcuna prova diretta, e il poco di prova indiretta
+va assai piuttosto nel senso opposto.  Nelle più antiche leggende che possediamo,
+quali i racconti di Isacco e di Ifigenia, il sacrificio umano
+non è introdotto come qualcosa di antico, bensì come qualcosa di nuovo;
+come un'eccezione strana e spaventosa, cupamente pretesa dagli dèi.
+La [[history|storia]] non dice nulla; e le leggende dicono tutte che la terra era più benigna
+nel suo primo [[Time|tempo]].  Non esiste una tradizione del progresso;
+ma l'intera razza umana ha una tradizione della Caduta.  Cosa abbastanza divertente,
+in verità, la diffusione stessa di questa idea viene usata contro la sua autenticità.
+Uomini dotti dicono, alla lettera, che questa preistorica calamità non può
+essere vera proprio perché ogni razza dell'umanità la ricorda.  Non riesco a tenere il passo
+con questi paradossi.
+
+     E se prendessimo il terzo esempio scelto a caso, sarebbe lo stesso;
+la tesi secondo cui i preti oscurano e inaspriscono il mondo.  Io guardo il mondo
+e scopro semplicemente che non lo fanno.  Quei paesi d'Europa
+che sono ancora influenzati dai preti sono esattamente i paesi
+dove ancora si canta e si danza e si portano vesti variopinte e
+si fa arte all'aria aperta.  La dottrina e la disciplina cattoliche saranno pure mura;
+ma sono le mura di un cortile di giochi.  Il [[Christianity|Cristianesimo]] è
+l'unica cornice che abbia conservato il piacere del Paganesimo.
+Potremmo immaginare dei bambini che giocano sulla cima piatta ed erbosa di qualche
+alta isola in mezzo al mare.  Finché c'era un muro intorno
+all'orlo del precipizio, potevano gettarsi in ogni gioco più sfrenato
+e fare di quel luogo la più chiassosa delle nursery.  Ma le mura
+furono abbattute, lasciando scoperto il nudo pericolo del baratro.
+Non caddero giù; ma quando i loro amici tornarono da loro
+li trovarono tutti rannicchiati per il terrore al centro dell'isola;
+e il loro [[Song|canto]] era cessato.
+
+     Così questi tre fatti dell'esperienza, i fatti stessi che concorrono a fare
+un agnostico, sono, in questa prospettiva, capovolti del tutto.  Mi ritrovo a dire:
+«Datemi una spiegazione, primo, della torreggiante eccentricità dell'uomo
+tra i bruti; secondo, della vasta tradizione umana di
+un'antica felicità; terzo, della parziale perpetuazione di
+tale gioia pagana nei paesi della [[Catholic Church|Chiesa Cattolica]]».
+Una spiegazione, in ogni caso, le copre tutte e tre: la teoria secondo cui
+per due volte l'[[Natural Order|ordine naturale]] fu interrotto da qualche esplosione o
+rivelazione come quelle che oggi si chiamano «psichiche».  Una volta il Cielo scese
+sulla terra con una potenza o un sigillo detto immagine di Dio,
+per cui l'uomo prese il comando della [[Nature|Natura]]; e ancora una volta (quando in impero
+dopo impero gli uomini erano stati trovati manchevoli) il Cielo venne a salvare l'umanità
+nella tremenda forma di un uomo.  Questo spiegherebbe perché la massa degli uomini
+guardi sempre indietro; e perché l'unico angolo in cui in qualche senso
+guardano avanti è quel piccolo continente dove [[Christ|Cristo]] ha la Sua Chiesa.
+So che mi si dirà che il Giappone è diventato progressista.
+Ma come può essere questa una risposta se persino nel dire «il Giappone è
+diventato progressista» noi in realtà intendiamo soltanto «il Giappone è diventato europeo»?
+Ma qui desidero insistere non tanto sulla mia spiegazione quanto insistere
+sulla mia osservazione iniziale.  Concordo con l'ordinario uomo miscredente
+della strada nel lasciarmi guidare da tre o quattro fatti bizzarri
+che tutti additano qualcosa; solo che, quando venni a guardare i fatti,
+scoprii sempre che essi additavano qualcos'altro.
+
+     Ho fornito una triade immaginaria di simili ordinari argomenti anticristiani;
+se questa base fosse troppo angusta, ne fornirò lì per lì un'altra.
+Sono questi i generi di pensieri che, combinati, creano l'impressione
+che il [[Christianity|Cristianesimo]] sia qualcosa di debole e malato.  Primo, per esempio,
+che Gesù fosse una creatura mite, pecorile e non mondana,
+un mero e inefficace appello al mondo; secondo, che il [[Christianity|Cristianesimo]] sorse
+e fiorì nei secoli bui dell'ignoranza, e che a questi la Chiesa
+vorrebbe trascinarci indietro; terzo, che le genti ancora fortemente religiose o
+(se volete) superstiziose — genti come gli Irlandesi — siano deboli,
+poco pratiche e in ritardo sui tempi.  Menziono queste idee
+soltanto per affermare la medesima cosa: che, quando le esaminai in modo indipendente,
+trovai, non che le conclusioni fossero antifilosofiche, ma semplicemente
+che i fatti non erano fatti.  Invece di guardare libri e quadri
+sul Nuovo Testamento, guardai il Nuovo Testamento.  Vi trovai
+un resoconto, non di certo di una persona con i capelli spartiti
+nel mezzo o le mani giunte in preghiera, bensì di un essere straordinario
+dalle labbra di tuono e dagli atti di lurida risolutezza, che rovescia le tavole,
+scaccia i demòni, passa con la selvaggia segretezza del [[Wind|vento]]
+dall'isolamento della montagna a una sorta di terribile demagogia;
+un essere che spesso agiva come un dio adirato — e sempre come un dio.
+[[Christ|Cristo]] aveva perfino uno stile letterario tutto suo, che non si trova, credo,
+altrove; consiste in un uso quasi furioso dell'A FORTIORI.
+Il suo «quanto più» è ammucchiato l'uno sull'altro come [[Castle|castello]] su [[Castle|castello]]
+tra le nuvole.  Il linguaggio usato INTORNO a [[Christ|Cristo]] è stato, e forse saggiamente,
+dolce e sottomesso.  Ma il linguaggio usato da [[Christ|Cristo]] è, cosa
+assai curiosa, gigantesco; è pieno di cammelli che saltano attraverso la cruna degli aghi
+e di [[Mountains|montagne]] scagliate in mare.  Moralmente è ugualmente terrificante;
+egli chiamò se stesso una [[Sword|spada]] di strage, e disse agli uomini di comprare spade
+se per esse avessero venduto il mantello.  Che egli abbia usato altre parole ancor più selvagge
+in favore della non-resistenza accresce grandemente il mistero;
+ma, semmai, accresce piuttosto anche la violenza.
+Non possiamo neppure spiegarlo definendo folle un simile essere;
+poiché la follia scorre di solito lungo un unico canale coerente.  Il maniaco
+è generalmente un monomaniaco.  Qui dobbiamo ricordare la difficile
+definizione del [[Christianity|Cristianesimo]] già data; il [[Christianity|Cristianesimo]] è
+un sovrumano [[Paradox|paradosso]] per cui due passioni opposte possono ardere
+l'una accanto all'altra.  L'unica spiegazione del linguaggio del Vangelo
+che davvero lo spieghi è che si tratta della vista d'un essere che
+da qualche altezza [[Supernatural|soprannaturale]] contempla una sintesi ancor più sconvolgente.
+
+Prendo in ordine l'istanza successiva che mi viene offerta: l'idea che il [[Christianity|Cristianesimo]]
+appartenga ai Secoli Bui. Qui non mi accontentai di leggere
+generalizzazioni moderne; lessi un po' di [[history|storia]]. E nella [[history|storia]]
+scoprii che il [[Christianity|Cristianesimo]], lungi dall'appartenere ai Secoli Bui,
+era l'unico sentiero attraverso i Secoli Bui che non fosse buio.
+Era un ponte splendente che congiungeva due splendenti civiltà.
+Se qualcuno dice che la [[Faith|fede]] sorse nell'ignoranza e nella barbarie,
+la risposta è semplice: non è così. Sorse nella civiltà
+mediterranea, in piena [[Summer|estate]] dell'Impero Romano. Il mondo
+brulicava di scettici, e il panteismo era chiaro come il sole,
+quando Costantino inchiodò la [[Cross|croce]] all'albero maestro. È perfettamente vero
+che in seguito la [[Ship|nave]] affondò; ma è assai più straordinario
+che la [[Ship|nave]] sia riemersa: ridipinta e scintillante, con la [[Cross|croce]]
+ancora in cima. Questa è la cosa prodigiosa che compì la religione:
+trasformò una [[Ship|nave]] affondata in un sottomarino. L'arca visse
+sotto il peso delle acque; dopo essere stati sepolti sotto le macerie di
+dinastie e clan, risorgemmo e ci ricordammo di Roma. Se la nostra [[Faith|fede]]
+fosse stata una semplice moda dell'impero morente, moda avrebbe seguito moda
+nel crepuscolo, e se mai la civiltà fosse riemersa (e molte di esse
+non sono mai riemerse) lo avrebbe fatto sotto qualche nuova barbarica [[Flag|bandiera]].
+Ma la Chiesa cristiana fu l'ultima vita della vecchia società e fu anche
+la prima vita della nuova. Prese la gente che stava dimenticando
+come si costruisce un arco e le insegnò a inventare l'arco gotico.
+In una parola, la cosa più assurda che si possa dire della Chiesa
+è la cosa che tutti abbiamo sentito dire di essa. Come possiamo affermare che
+la Chiesa desidera ricondurci nei Secoli Bui?
+La Chiesa fu l'unica cosa che mai ce ne trasse fuori.
+
+     In questa seconda triade di obiezioni aggiungevo un'istanza oziosa,
+tratta da coloro che sentono un popolo come quello irlandese indebolito
+o reso stagnante dalla superstizione. La aggiungevo soltanto perché è
+un caso peculiare di un'affermazione di fatto che si rivela
+un'affermazione di falsità. Si dice di continuo degli irlandesi
+che sono impratici. Ma se ci asteniamo per un momento dal guardare
+a ciò che si dice di loro e guardiamo a ciò che si FA a loro,
+vedremo che gli irlandesi non solo sono pratici, ma di un successo quasi
+doloroso. La [[Poverty|povertà]] del loro paese, la minoranza
+dei loro membri sono semplicemente le condizioni entro cui è stato loro
+chiesto di operare; ma nessun altro gruppo dell'Impero britannico ha fatto tanto
+con simili condizioni. I nazionalisti furono l'unica minoranza
+che mai riuscì a piegare bruscamente l'intero Parlamento britannico
+fuori dalla propria strada. I contadini irlandesi sono gli unici poveri
+di queste isole che abbiano costretto i loro padroni a restituire il maltolto.
+Questa gente, che noi chiamiamo dominata dai preti, sono gli unici britanni che
+non si lasceranno dominare dai signorotti. E quando venni a considerare
+il carattere irlandese reale, il caso era lo stesso. Gli irlandesi riescono al meglio
+nelle professioni specialmente DURE: i mestieri del ferro, l'avvocato
+e il soldato. In tutti questi casi, dunque, tornai
+alla medesima conclusione: lo scettico aveva perfettamente ragione ad attenersi ai fatti,
+solo che non aveva guardato i fatti. Lo scettico è troppo credulo;
+crede ai giornali o persino alle enciclopedie. Di nuovo, le tre
+questioni mi lasciarono con tre questioni assai antagoniste.
+Lo scettico medio voleva sapere come spiegassi la nota sdolcinata
+del Vangelo, la connessione del credo con l'oscurità medievale
+e l'impraticabilità politica dei cristiani celti.
+Ma io volevo domandare, e domandare con una serietà che rasentava l'urgenza:
+«Cos'è questa incomparabile energia che appare dapprima in uno
+che cammina sulla terra come un giudizio vivente, e questa energia che può morire
+con una civiltà morente e nondimeno costringerla a una [[Resurrection|resurrezione]] dai morti;
+questa energia che, ultima cosa fra tutte, può infiammare un contadiname in rovina
+con una [[Faith|fede]] nella giustizia così salda che essi ottengono ciò che chiedono,
+mentre altri se ne vanno a mani vuote; sicché la più impotente isola dell'Impero
+può davvero aiutare se stessa?»
+
+     C'è una risposta: è una risposta dire che l'energia
+proviene veramente dal di fuori del mondo; che è psichica, o almeno
+uno degli esiti di un reale turbamento psichico. La più alta gratitudine
+e il più alto rispetto sono dovuti alle grandi civiltà umane, come l'antica egizia
+o la cinese tuttora esistente. Nondimeno non è ingiustizia dire di esse
+che soltanto l'Europa moderna ha esibito incessantemente un potere
+di rinnovamento di [[Self|sé]], ricorrente spesso agli intervalli più brevi e
+disceso fino ai fatti più minuti della costruzione o del costume.
+Tutte le altre società muoiono infine e con dignità. Noi moriamo ogni giorno.
+Veniamo sempre partoriti di nuovo con un'ostetricia quasi indecente.
+Non è quasi esagerato dire che nella cristianità storica vi è
+una sorta di vita innaturale: la si potrebbe spiegare come una vita [[Supernatural|soprannaturale]].
+La si potrebbe spiegare come una tremenda vita galvanica che opera in ciò che
+sarebbe stato un cadavere. Poiché la nostra civiltà AVREBBE DOVUTO morire,
+per ogni parallelo, per ogni probabilità sociologica, nel Ragnarök
+della fine di Roma. Ecco la bizzarra ispirazione della nostra condizione:
+tu e io non abbiamo alcun diritto di trovarci affatto qui. Siamo tutti dei REVENANT;
+tutti i cristiani viventi sono pagani morti che vanno in giro. Proprio mentre l'Europa
+stava per essere raccolta nel [[Silence|silenzio]] presso l'Assiria e Babilonia,
+qualcosa entrò nel suo [[Body|corpo]]. E da allora l'Europa ha avuto una strana vita:
+non è troppo dire che da allora ha avuto i SUSSULTI.
+
+     Ho trattato a lungo simili triadi tipiche di [[Doubt|dubbio]]
+per trasmettere la tesi principale: che la mia stessa argomentazione a favore del [[Christianity|Cristianesimo]]
+è razionale, ma non è semplice. È un accumulo di fatti svariati,
+come l'atteggiamento dell'agnostico ordinario. Ma l'agnostico ordinario
+ha tutti i suoi fatti sbagliati. Egli è un non credente per
+una moltitudine di ragioni; ma sono ragioni non vere. Dubita perché
+il Medioevo era barbaro, ma non lo era; perché il darwinismo
+è dimostrato, ma non lo è; perché i miracoli non accadono,
+ma accadono; perché i [[Monks|monaci]] erano pigri, ma erano molto industriosi;
+perché le monache sono infelici, ma sono particolarmente allegre;
+perché l'arte cristiana era triste e pallida, ma era lumeggiata
+di colori peculiarmente vivaci e gaia d'oro; perché la scienza moderna
+si sta allontanando dal [[Supernatural|soprannaturale]], ma non è così, si sta muovendo verso
+il [[Supernatural|soprannaturale]] con la rapidità di un treno.
+
+Ma fra questo milione di fatti che scorrono tutti nella medesima direzione ve n'è, si capisce, uno abbastanza solido e distinto da dover essere trattato brevemente, ma a sé stante: intendo l'obiettivo verificarsi del [[Supernatural|soprannaturale]]. In un altro capitolo ho segnalato la fallacia dell'usuale supposizione che il mondo debba essere impersonale perché è ordinato. Una persona è propensa a [[Desire|desiderare]] una cosa ordinata esattamente quanto una cosa disordinata. Ma la mia stessa positiva convinzione che la creazione personale sia più concepibile del fato materiale è, lo ammetto, in un certo senso indiscutibile. Non la chiamerò [[Faith|fede]] né intuizione, perché quelle parole si mescolano alla pura emozione: è rigorosamente una convinzione intellettuale; ma è una convinzione intellettuale PRIMARIA, come la certezza del [[Self|sé]] o del bene del vivere. Chiunque lo voglia, dunque, può pure definire la mia fede in Dio semplicemente mistica; la frase non merita che ci si azzuffi. Ma la mia convinzione che i miracoli siano avvenuti nella [[history|storia]] umana non è affatto una convinzione mistica; io vi credo su prove umane, come credo alla scoperta dell'[[america|America]]. Su questo punto c'è un semplice fatto logico che chiede soltanto di essere enunciato e chiarito. In un modo o nell'altro è sorta la straordinaria idea che chi non crede ai miracoli li consideri con freddezza e imparzialità, mentre chi vi crede li accetti solo in connessione con qualche dogma. Il fatto sta esattamente all'opposto. Coloro che credono ai miracoli li accettano (a torto o a ragione) perché ne hanno le prove. Coloro che non credono ai miracoli li negano (a torto o a ragione) perché hanno una dottrina che vi si oppone. La cosa aperta, ovvia, democratica è credere a una vecchia venditrice di mele quando testimonia di un miracolo, esattamente come le si crede quando testimonia di un assassinio. Il procedimento schietto e popolare è fidarsi della parola del contadino intorno al [[Ghost|fantasma]] esattamente quanto ci si fida della sua parola intorno al padrone di casa. Essendo un contadino, egli nutrirà probabilmente una buona dose di sano agnosticismo verso entrambi. Eppure si potrebbe riempire il British Museum con le testimonianze pronunciate dai contadini a favore del [[Ghost|fantasma]]. Se si tratta di testimonianza umana, c'è una cateratta soffocante di testimonianza umana a favore del [[Supernatural|soprannaturale]]. Se la si respinge, si può intendere soltanto una di due cose. Si respinge il racconto del contadino sul [[Ghost|fantasma]] o perché l'uomo è un contadino, o perché il racconto è un racconto di [[Ghost|fantasmi]]. Ossia: o si nega il principio fondamentale della [[democracy|democrazia]], oppure si afferma il principio fondamentale del materialismo, cioè l'astratta impossibilità del miracolo. Si ha pieno diritto di farlo; ma in tal caso il dogmatico siete voi. Siamo noi cristiani ad accettare ogni prova reale; siete voi razionalisti a rifiutare le prove reali, costretti a ciò dal vostro credo. Ma io non sono costretto da alcun credo in questa materia, e guardando con imparzialità a certi miracoli di tempi medievali e moderni sono giunto alla conclusione che essi avvennero. Ogni argomento contro questi semplici fatti è sempre un argomento circolare. Se dico: «I documenti medievali attestano certi miracoli tanto quanto attestano certe battaglie», mi rispondono: «Ma i medievali erano superstiziosi»; se voglio sapere in che cosa erano superstiziosi, l'unica risposta ultima è che credevano nei miracoli. Se dico: «Un contadino ha visto un [[Ghost|fantasma]]», mi si dice: «Ma i contadini sono così creduloni». Se domando: «Perché creduloni?», l'unica risposta è che vedono [[Ghosts|fantasmi]]. L'Islanda è impossibile perché soltanto marinai stupidi l'hanno vista; e i marinai sono stupidi soltanto perché dicono di aver visto l'Islanda. È giusto aggiungere che c'è un altro argomento che l'incredulo può razionalmente usare contro i miracoli, benché egli stesso di solito dimentichi di usarlo.
+
+     Egli può dire che in molte storie di miracoli era presente una nozione di preparazione e di accettazione spirituale: insomma, che il miracolo poteva venire soltanto a chi vi credeva. Può darsi che sia così; e se è così, come potremo verificarlo? Se stiamo indagando se certi risultati seguono alla [[Faith|fede]], è inutile ripetere stancamente che (nel caso avvengano) essi seguono alla [[Faith|fede]]. Se la [[Faith|fede]] è una delle condizioni, chi è privo di [[Faith|fede]] ha il più sano dei diritti di ridere. Ma non ha alcun diritto di giudicare. Essere credenti sarà magari, se volete, brutto quanto essere ubriachi; eppure, se stessimo estraendo fatti psicologici dagli ubriachi, sarebbe assurdo continuare a rinfacciar loro di essere stati ubriachi. Supponiamo di indagare se gli uomini in collera vedano davvero una nebbia rossa dinanzi agli occhi. Supponiamo che sessanta eccellenti capifamiglia giurino che, adirati, hanno visto questa nube cremisi: sarebbe certo assurdo rispondere: «Oh, ma voi ammettete che in quel [[Time|momento]] eravate in collera». Essi potrebbero ragionevolmente ribattere (in un [[Chorus|coro]] stentoreo): «Come diamine potremmo scoprire, senza essere in collera, se le persone in collera vedono rosso?». Così i santi e gli asceti potrebbero razionalmente replicare: «Supponiamo che la questione sia se i credenti possano avere visioni: anche allora, se v'interessate delle visioni, non è il caso di obiettare che siano credenti». State ancora ragionando in cerchio, in quell'antico cerchio folle con cui questo libro è cominciato.
+
+     La questione se i miracoli avvengano mai è una questione di buon senso e di ordinaria [[Imagination|immaginazione]] storica: non di alcun esperimento fisico definitivo. Si può qui senz'altro liquidare quella pedanteria del tutto cervellotica che parla della necessità di «condizioni scientifiche» a proposito dei presunti fenomeni spirituali. Se domandiamo se un'[[Soul|anima]] morta possa comunicare con una vivente, è ridicolo insistere che ciò avvenga in condizioni nelle quali due anime viventi in senno non comunicherebbero mai seriamente l'una con l'altra. Il fatto che i [[Ghosts|fantasmi]] preferiscano l'oscurità non smentisce l'esistenza dei [[Ghosts|fantasmi]] più di quanto il fatto che gli [[lovers|innamorati]] preferiscano l'oscurità smentisca l'esistenza dell'[[Love|amore]]. Se scegliete di dire: «Crederò che la signorina Brown abbia chiamato il suo fidanzato "pervinca", o con qualsiasi altro appellativo affettuoso, purché ripeta la parola davanti a diciassette psicologi», allora io risponderò: «[[Well|Benissimo]]: se queste sono le vostre condizioni, non giungerete mai alla [[Truth|verità]], perché di certo lei non lo dirà». È tanto antiscientifico quanto antifilosofico stupirsi che in un'atmosfera priva di simpatia non sorgano certe straordinarie simpatie. È come se dicessi di non poter capire se ci fosse nebbia perché l'aria non era abbastanza limpida; o come se pretendessi la perfetta luce del sole per osservare un'eclissi solare.
+
+Come conclusione di buon senso, del genere di quelle a cui approdiamo
+a proposito del sesso o della mezzanotte ([[Well|ben]] sapendo che molti particolari devono
+per loro stessa [[Nature|natura]] restare celati), concludo che i miracoli accadono davvero.
+Vi sono costretto da una cospirazione di fatti: il fatto che gli uomini
+i quali s'imbattono in elfi o in angeli non sono i mistici né i sognatori morbosi,
+ma pescatori, contadini, e ogni sorta d'uomini a un tempo rozzi e prudenti;
+il fatto che tutti conosciamo uomini i quali testimoniano di episodi spiritici
+pur non essendo spiritisti; il fatto che la scienza stessa ammette simili cose
+ogni giorno di più. La scienza ammetterà persino l'Ascensione,
+se la chiamate Levitazione, e con ogni probabilità ammetterà la [[Resurrection|Resurrezione]]
+non appena avrà escogitato un altro nome per essa. Io propongo Rigalvanizzazione.
+Ma il più forte di tutti è il dilemma sopra menzionato,
+ossia che queste cose [[Supernatural|soprannaturali]] non vengono mai negate se non in base
+o all'anti-[[democracy|democrazia]], o al dogmatismo materialista — potrei dire
+al misticismo materialista. Lo scettico assume sempre una delle due posizioni:
+o un uomo comune non merita d'essere creduto, oppure un evento straordinario
+non deve essere creduto. Poiché [[Hope|spero]] che possiamo liquidare l'argomento
+contro i prodigi tentato nella mera enumerazione di frodi,
+di medium truffaldini o di miracoli da baraccone. Quello non è affatto un argomento,
+buono o cattivo che sia. Un falso [[Ghost|fantasma]] confuta la realtà dei [[Ghosts|fantasmi]] esattamente
+quanto una banconota contraffatta confuta l'esistenza
+della Banca d'Inghilterra — semmai, ne prova l'esistenza.
+
+     Data questa convinzione che i fenomeni spirituali avvengono davvero
+(le mie prove al riguardo sono complesse ma razionali), ci scontriamo allora
+con uno dei peggiori mali mentali dell'epoca. Il più grande disastro
+del diciannovesimo secolo fu questo: che gli uomini cominciarono a usare la parola
+«spirituale» come sinonimo della parola «buono». Credettero che
+crescere in raffinatezza e in incorporeità fosse crescere in virtù.
+Quando fu annunciata l'evoluzione scientifica, alcuni temettero che essa
+avrebbe incoraggiato la mera animalità. Fece di peggio: incoraggiò la mera spiritualità.
+Insegnò agli uomini a pensare che, fintanto che si allontanavano dalla scimmia,
+si dirigevano verso l'angelo. Ma dalla scimmia ci si può allontanare
+per andare al diavolo. Un uomo di genio, assai tipico di
+quel [[Time|tempo]] di smarrimento, lo espresse alla perfezione. Benjamin Disraeli
+aveva ragione quando disse d'essere dalla parte degli angeli. Lo era davvero;
+era dalla parte degli angeli caduti. Non era dalla parte
+di un qualche mero appetito o brutalità animale; ma era dalla parte
+di tutto l'imperialismo dei principi dell'abisso; era dalla parte
+dell'arroganza e del mistero, e del disprezzo di ogni bene evidente.
+Fra questo [[Pride|orgoglio]] sprofondato e le torreggianti umiltà del cielo vi sono,
+bisogna supporre, spiriti di forme e dimensioni diverse. L'uomo, incontrandoli,
+deve commettere pressappoco gli stessi errori che commette incontrando
+qualunque altra varietà di tipi in qualunque altro continente lontano. Dev'essere
+difficile, in un primo tempo, sapere chi sia il superiore e chi il subordinato.
+Se un'ombra sorgesse dal mondo di sotto, e fissasse Piccadilly,
+quell'ombra non comprenderebbe bene l'idea di un'ordinaria
+carrozza chiusa. Supporrebbe che il cocchiere a cassetta
+fosse un trionfante conquistatore, il quale si trascina dietro un prigioniero
+scalciante e recluso. Così, se vediamo per la prima [[Time|volta]] i fatti spirituali,
+possiamo sbagliarci su chi stia in cima. Non basta trovare gli dèi;
+essi sono evidenti; dobbiamo trovare Dio, il vero capo degli dèi.
+Dobbiamo avere una lunga esperienza storica dei fenomeni [[Supernatural|soprannaturali]] —
+per scoprire quali siano realmente naturali. In questa luce trovo
+la [[history|storia]] del [[Christianity|Cristianesimo]], e persino delle sue origini ebraiche,
+del tutto pratica e chiara. Non mi turba sentirmi dire che
+il dio ebraico era uno fra molti. So che lo era, senza che alcuna ricerca
+me lo dica. Jehovah e Baal apparivano ugualmente importanti,
+proprio come il sole e la [[Moon|luna]] apparivano della stessa grandezza. Solo lentamente
+impariamo che il sole è incommensurabilmente il nostro signore, e la piccola [[Moon|luna]]
+soltanto il nostro satellite. Credendo che esista un mondo di spiriti,
+vi camminerò come faccio nel mondo degli uomini, cercando la cosa
+che mi piace e che ritengo buona. Proprio come cercherei in un [[Desert|deserto]]
+[[Water|acqua]] limpida, o mi affannerei al Polo Nord per accendere un confortevole [[Fire|fuoco]],
+così frugherò la terra del vuoto e della visione finché non troverò qualcosa di fresco
+come l'[[Water|acqua]], e di confortante come il [[Fire|fuoco]]; finché non troverò un luogo nell'[[Eternity|eternità]],
+dove io sia, alla lettera, a [[Home|casa]] mia. E un solo luogo simile
+si può trovare.
+
+     Ho detto ormai abbastanza per mostrare (a chiunque, per lui,
+una tale spiegazione sia essenziale) che possiedo, nell'ordinaria
+arena dell'[[Apologetics|apologetica]], un fondamento di fede. Nei puri resoconti d'esperienza
+(se presi democraticamente, senza disprezzo né favore)
+vi è la prova, primo, che i miracoli accadono, e secondo che
+i miracoli più nobili appartengono alla nostra tradizione. Ma non pretenderò
+che questa spiccia discussione sia la mia vera ragione per accettare il [[Christianity|Cristianesimo]]
+anziché prendere il bene morale del [[Christianity|Cristianesimo]] come lo prenderei
+dal Confucianesimo.
+
+     Ho un altro fondamento, assai più solido e centrale, per
+sottomettermi a esso come a una [[Faith|fede]], anziché limitarmi a raccogliere spunti
+da esso come da uno schema. Ed è questo: che la Chiesa cristiana
+nel suo rapporto pratico con la mia [[Soul|anima]] è un maestro vivo, non un maestro morto.
+Non solo di certo mi ha insegnato ieri, ma quasi di certo
+m'insegnerà domani. Una volta vidi d'un tratto il significato della forma
+della [[Cross|croce]]; un giorno potrò vedere d'un tratto il significato della forma
+della mitra. Un bel mattino vidi perché le finestre erano a sesto acuto;
+un bel mattino potrò vedere perché i preti erano rasati. Platone ti ha detto
+una [[Truth|verità]]; ma Platone è morto. Shakespeare ti ha sorpreso con un'immagine;
+ma Shakespeare non ti sorprenderà più. Ma immagina
+che cosa sarebbe vivere con uomini simili ancora vivi, sapere che
+Platone potrebbe prorompere in una conferenza inedita domani,
+o che in qualsiasi momento Shakespeare potrebbe mandare in frantumi ogni cosa con
+un'unica [[Song|canzone]]. L'uomo che vive a contatto con ciò che crede
+essere una Chiesa vivente è un uomo che sempre si aspetta d'incontrare Platone e
+Shakespeare domani a colazione. Sempre si aspetta di vedere
+qualche [[Truth|verità]] che non ha mai visto prima. Vi è un solo
+altro parallelo a questa posizione; ed è il parallelo della
+vita in cui tutti abbiamo cominciato. Quando tuo padre ti diceva,
+passeggiando per il [[Garden|giardino]], che le [[Bees|api]] pungono o che le rose profumano dolcemente,
+tu non parlavi di trarre il meglio dalla sua [[philosophy|filosofia]].
+Quando le [[Bees|api]] ti pungevano, non lo chiamavi una divertente coincidenza.
+Quando la [[Rose|rosa]] profumava dolcemente non dicevi: «Mio padre è un rude,
+barbarico simbolo, che racchiude (forse inconsciamente) le profonde e delicate verità
+secondo cui i [[Flowers|fiori]] profumano.» No: credevi a tuo padre, perché
+avevi scoperto ch'egli era una viva sorgente di fatti, una cosa che davvero sapeva
+più di te; una cosa che ti avrebbe detto la [[Truth|verità]] domani,
+[[Well|così]] come oggi. E se questo era vero di tuo padre,
+era ancor più vero di tua madre; almeno era vero della mia,
+a cui questo libro è dedicato. Ora, mentre la società si affanna in un agitarsi
+piuttosto vano attorno alla soggezione delle donne, non vorrà nessuno dire quanto ogni uomo
+debba alla tirannia e al privilegio delle donne, al fatto che esse [[Alone|sole]]
+governano l'[[Education|educazione]] finché l'[[Education|educazione]] diventa vana: poiché un ragazzo è mandato
+a farsi istruire a scuola solo quando è troppo tardi per insegnargli alcunché.
+La cosa vera è già stata fatta, e grazie a Dio è
+quasi sempre fatta dalle donne. Ogni uomo è donneggiato, per il solo fatto di nascere.
+Parlano della donna mascolina; ma ogni uomo è un uomo femminilizzato.
+E se mai gli uomini marceranno fino a Westminster per protestare contro questo
+privilegio femminile, io non mi unirò al loro corteo.
+
+Perché ricordo con certezza questo dato psicologico immutabile: che proprio nel [[Time|tempo]] in cui più mi trovavo sotto l'autorità di una donna, ero anche più colmo di fiamma e d'avventura. Appunto perché, quando mia madre diceva che le formiche mordono, mordevano davvero, e perché la [[Snow|neve]] veniva d'[[Winter|inverno]] (come lei diceva); perciò il mondo intero era per me una terra di fate colma di meravigliosi adempimenti, ed era come vivere in un'età ebraica, quando profezia dopo profezia si avverava. Uscivo, [[Child|bambino]], nel [[Garden|giardino]], ed esso era per me un luogo tremendo, precisamente perché ne possedevo la chiave: se non avessi tenuto alcuna chiave non sarebbe stato tremendo, ma domestico. Una landa deserta e senza significato non è nemmeno impressionante. Ma il [[Garden|giardino]] dell'[[Childhood|infanzia]] era affascinante, appunto perché ogni cosa aveva un significato fisso che, a suo tempo, poteva essere scoperto. Pollice a pollice potevo scoprire quale fosse lo scopo di quella brutta forma chiamata rastrello; o formulare qualche ombrosa congettura sul perché i miei genitori tenessero un gatto.
+
+     Così, poiché ho accolto la Cristianità come una madre e non come un semplice esempio casuale, ho ritrovato l'Europa e il mondo nuovamente simili al piccolo [[Garden|giardino]] in cui fissavo le forme simboliche del gatto e del rastrello; guardo ogni cosa con l'antica ignoranza e aspettazione da folletto. Questo o quel rito o dottrina può apparire brutto e straordinario come un rastrello; ma ho scoperto per esperienza che tali cose finiscono in qualche modo in erba e [[Flowers|fiori]]. Un ecclesiastico può sembrare inutile come un gatto, ma è anche altrettanto affascinante, poiché ci dev'essere una qualche strana ragione per la sua esistenza. Ne offro un esempio su cento; io non ho in me alcuna affinità istintiva con quell'entusiasmo per la verginità fisica, che è certo stato una nota della [[Christianity|Cristianità]] storica. Ma quando guardo non me stesso bensì il mondo, mi accorgo che questo entusiasmo non è soltanto una nota della [[Christianity|Cristianità]], ma una nota del Paganesimo, una nota dell'alta [[Nature|natura]] umana in molte sfere. I Greci sentirono la verginità quando scolpirono Artemide, i Romani quando ammantarono le vestali, il peggiore e il più selvaggio dei grandi drammaturghi elisabettiani si aggrappò alla letterale purezza di una donna come al pilastro centrale del mondo. Soprattutto, il mondo moderno (persino mentre schernisce l'[[innocence|innocenza]] sessuale) si è gettato in una generosa idolatria dell'[[innocence|innocenza]] sessuale: il grande culto moderno dei fanciulli. Poiché ogni uomo che ama i fanciulli converrà che la loro peculiare [[Beauty|bellezza]] è ferita anche solo da un cenno di sesso fisico. Con tutta questa esperienza umana, alleata all'autorità cristiana, concludo semplicemente che io ho torto e la chiesa ragione; o piuttosto che io sono difettoso, mentre la chiesa è universale. Ci vuole ogni sorta d'uomini per fare una chiesa; essa non mi chiede di essere celibe. Ma il fatto che io non abbia alcun apprezzamento per i celibi, lo accetto come accetto il fatto di non avere orecchio per la musica. La migliore esperienza umana è contro di me, come lo è a proposito di Bach. Il celibato è un fiore nel [[Garden|giardino]] di mio padre, di cui non mi è stato detto il nome dolce o terribile. Ma potrebbe essermi detto un giorno qualunque.
+
+     Questa, dunque, è, in conclusione, la mia ragione per accettare la religione e non soltanto le sparse e secolari verità estratte dalla religione. Lo faccio perché quella cosa non ha soltanto detto questa [[Truth|verità]] o quella [[Truth|verità]], ma ha rivelato se stessa come una cosa che dice il [[Truth|vero]]. Tutte le altre filosofie dicono le cose che palesemente sembrano vere; solo questa [[philosophy|filosofia]] ha detto, ancora e ancora, la cosa che non sembra vera, ma è vera. [[Alone|Sola]] fra tutti i credi essa è convincente là dove non è attraente; risulta aver ragione, come mio padre nel [[Garden|giardino]]. I teosofi, per esempio, predicheranno un'idea ovviamente attraente come la reincarnazione; ma se attendiamo i suoi esiti logici, sono la superciliosità spirituale e la crudeltà della casta. Poiché, se un uomo è mendicante per i propri peccati prenatali, la gente tenderà a disprezzare il mendicante. Ma la [[Christianity|Cristianità]] predica un'idea ovviamente non attraente, come il [[Original Sin|peccato originale]]; ma quando ne attendiamo gli esiti, sono il pathos e la fratellanza, e un tuono di riso e di pietà; poiché solo con il [[Original Sin|peccato originale]] possiamo insieme compiangere il mendicante e diffidare del [[King|re]]. Gli uomini di scienza ci offrono la salute, un ovvio beneficio; è solo dopo che scopriamo che, per salute, essi intendono la [[Slavery|schiavitù]] del corpo e il tedio dello spirito. L'ortodossia ci fa sobbalzare sull'orlo improvviso dell'inferno; è solo dopo che ci accorgiamo che il salto era un esercizio atletico assai benefico per la nostra salute. È solo dopo che ci accorgiamo che questo pericolo è la radice di ogni dramma e [[Romance|romanzo]]. L'argomento più forte a favore della grazia divina è semplicemente la sua sgraziatezza. Le parti impopolari della [[Christianity|Cristianità]], a esaminarle, risultano essere i puntelli stessi del popolo. L'anello esterno della [[Christianity|Cristianità]] è una rigida guardia di rinunce etiche e di sacerdoti di professione; ma dentro quella guardia disumana troverai l'antica vita umana che danza come i bambini e beve vino come gli uomini; poiché la [[Christianity|Cristianità]] è l'unica cornice per la [[Freedom|libertà]] pagana. Ma nella [[philosophy|filosofia]] moderna il caso è opposto; è il suo anello esterno a essere ovviamente artistico ed emancipato; la sua [[Despair|disperazione]] è all'interno.
+
+     E la sua [[Despair|disperazione]] è questa: che essa in realtà non crede vi sia alcun significato nell'universo; perciò non può [[Hope|sperare]] di trovare alcun [[Romance|romanzo]]; i suoi romanzi non avranno trame. Un uomo non può aspettarsi alcuna avventura nella terra dell'anarchia. Ma un uomo può aspettarsi avventure a non finire se va viaggiando nella terra dell'autorità. Non si trova alcun significato in una giungla di scetticismo; ma troverà sempre più significati l'uomo che cammina attraverso una foresta di dottrina e di disegno. Qui ogni cosa ha una storia legata alla coda, come gli attrezzi o i quadri nella [[house|casa]] di mio padre; poiché è la [[house|casa]] di mio padre. Finisco dove ho cominciato: al capo giusto. Sono entrato finalmente per la porta di ogni buona [[philosophy|filosofia]]. Sono giunto nella mia seconda [[Childhood|infanzia]].
+
+Ma questo universo cristiano, più vasto e più avventuroso,
+possiede un ultimo carattere, difficile da esprimere; eppure, a conclusione
+di tutto il discorso, tenterò di esprimerlo.  Tutta la vera disputa
+intorno alla religione ruota sulla questione se un uomo nato
+a testa in giù sappia riconoscere il momento in cui torna diritto. Il primo [[Paradox|paradosso]]
+del [[Christianity|Cristianesimo]] è che la condizione ordinaria dell'uomo non è
+la sua condizione sana o assennata; che il normale stesso è un'anormalità.
+È questa la [[philosophy|filosofia]] più intima della Caduta.  Nell'interessante nuovo
+Catechismo di Sir [[Oliver]] Lodge, le prime due domande erano:
+«Che cosa sei tu?» e «Quale, allora, è il significato della Caduta dell'uomo?».
+Ricordo di essermi divertito a scrivere le mie risposte a quelle domande;
+ma presto scoprii che erano risposte assai incrinate e agnostiche.
+Alla domanda «Che cosa sei tu?» potevo rispondere soltanto: «Dio lo sa».
+E alla domanda «Che cosa s'intende per Caduta?» potevo rispondere
+con piena sincerità: «Che, qualunque cosa io sia, io non sono me stesso».
+Questo è il primo [[Paradox|paradosso]] della nostra religione: qualcosa che noi non abbiamo mai
+conosciuto, in nessun senso pieno, non solo è migliore di noi stessi,
+ma ci è persino più naturale di noi stessi.  E in verità
+non v'è altra prova di ciò che quella meramente sperimentale con cui
+queste pagine ebbero inizio, la prova della cella imbottita e della porta aperta.
+È solo da quando ho conosciuto l'ortodossia che ho conosciuto l'emancipazione della mente.
+Ma, in conclusione, essa ha una speciale applicazione all'idea
+ultima della gioia.
+
+     Si dice che il Paganesimo sia una religione di gioia e il [[Christianity|Cristianesimo]] una religione di dolore;
+sarebbe altrettanto facile dimostrare che il Paganesimo è puro dolore e
+il [[Christianity|Cristianesimo]] pura gioia.  Tali conflitti non significano nulla e non conducono in alcun luogo.
+Tutto ciò che è umano deve contenere in sé tanto la gioia quanto il dolore; l'unica cosa
+che interessi è il modo in cui le due cose vengono bilanciate o ripartite.
+E la cosa davvero interessante è questa: che il pagano era
+(nel complesso) sempre più felice a mano a mano che si avvicinava alla terra,
+ma sempre più triste a mano a mano che si avvicinava ai cieli.  La gaiezza
+del miglior Paganesimo, come nella giocosità di Catullo o di Teocrito,
+è, in verità, una gaiezza eterna, che un'umanità riconoscente non dovrà mai dimenticare.
+Ma è tutta una gaiezza intorno ai fatti della vita, non intorno alla sua origine.
+Per il pagano le piccole cose sono dolci come i piccoli ruscelli
+che sgorgano dalla montagna; ma le grandi cose sono amare
+come il mare.  Quando il pagano guarda il nucleo stesso del cosmo
+è colto da un gelo.  Dietro gli dèi, che sono meramente dispotici,
+siedono i fati, che sono mortali.  Anzi, i fati sono peggio che mortali;
+sono morti. E quando i razionalisti dicono che il mondo antico
+era più illuminato di quello cristiano, dal loro punto di vista
+hanno ragione.  Perché quando dicono «illuminato» intendono
+oscurato da una [[Despair|disperazione]] incurabile.  È profondamente vero che
+il mondo antico era più moderno di quello cristiano.  Il vincolo comune
+sta nel fatto che gli antichi e i moderni sono stati entrambi infelici
+riguardo all'esistenza, riguardo a ogni cosa, mentre i medievali erano felici
+almeno riguardo a quella.  Concedo volentieri che i pagani, come i moderni,
+erano infelici soltanto riguardo a ogni cosa: erano assai allegri riguardo
+a tutto il resto.  Ammetto che i cristiani del Medioevo
+erano in pace soltanto riguardo a ogni cosa: erano in guerra riguardo a tutto il resto.
+Ma se la questione verte sul cardine primario del cosmo,
+allora vi era più contentezza cosmica nelle strade anguste e insanguinate
+di Firenze che nel teatro di Atene o nell'aperto [[Garden|giardino]]
+di Epicuro.  Giotto visse in una città più cupa di quella di Euripide,
+ma visse in un universo più gaio.
+
+     La massa degli uomini è stata costretta a essere gaia riguardo alle piccole cose,
+ma triste riguardo alle grandi.  Ciononostante (offro il mio ultimo dogma con sfida)
+non è connaturato all'uomo essere così.  L'uomo è più se stesso,
+l'uomo è più simile all'uomo, quando la gioia è la cosa fondamentale in lui,
+e il dolore la cosa superficiale. La [[Melancholy|malinconia]] dovrebbe essere un [[Innocent|innocente]] intermezzo,
+uno stato d'animo tenero e fuggevole; la lode dovrebbe essere la pulsazione
+permanente dell'[[Soul|anima]].  Il pessimismo è, nella migliore delle ipotesi, un mezzo giorno di festa emotivo;
+la gioia è la fragorosa fatica per cui tutte le cose vivono.
+Eppure, secondo l'apparente condizione dell'uomo come la vede il pagano
+o l'agnostico, questo bisogno primario della [[Nature|natura]] umana non potrà mai essere appagato.
+La gioia dovrebbe essere espansiva; ma per l'agnostico dev'essere contratta,
+deve rannicchiarsi in un angolo del mondo.  Il dolore dovrebbe essere una concentrazione;
+ma per l'agnostico la sua desolazione si diffonde attraverso
+un'[[Eternity|eternità]] impensabile.  Questo è ciò che io chiamo essere nati a testa in giù.
+Dello scettico si può dire in tutta verità che è capovolto; perché i suoi piedi
+danzano all'insù in oziose estasi, mentre il suo cervello è nell'abisso.
+Per l'uomo moderno i cieli si trovano in realtà al di sotto della terra.
+La spiegazione è semplice: egli sta ritto sulla testa; che è
+un piedistallo assai debole su cui reggersi.  Ma quando ha ritrovato i propri piedi
+lo sa.  Il [[Christianity|Cristianesimo]] appaga d'un tratto e alla perfezione l'ancestrale
+istinto dell'uomo di stare dritto; lo appaga supremamente
+in questo: che per il suo credo la gioia diventa qualcosa di gigantesco e
+la tristezza qualcosa di speciale e piccolo.  La volta sopra di noi non è sorda
+perché l'universo sia un idiota; il [[Silence|silenzio]] non è il [[Silence|silenzio]] senza cuore
+di un mondo infinito e senza scopo.  Piuttosto il [[Silence|silenzio]] intorno a noi è
+una piccola e pietosa quiete, come la sollecita quiete in una camera di malato.
+Ci è forse concessa la [[Tragedy|tragedia]] come una sorta di [[Comedy|commedia]] misericordiosa:
+perché l'energia frenetica delle cose divine ci abbatterebbe
+come una farsa da ubriachi.  Possiamo prendere le nostre [[Tears|lacrime]] con più leggerezza
+di quanta ne potremmo avere di fronte alle tremende leggerezze degli angeli.
+Così sediamo forse in una stellata camera di [[Silence|silenzio]], mentre la risata
+dei cieli è troppo forte perché la possiamo udire.
+
+     La gioia, che era la piccola pubblicità del pagano, è il gigantesco segreto
+del cristiano.  E mentre chiudo questo caotico volume riapro
+il piccolo libro strano da cui è venuto tutto il [[Christianity|Cristianesimo]];
+e di nuovo mi sento perseguitato da una sorta di conferma.  La tremenda figura
+che riempie i Vangeli si erge, sotto questo aspetto come sotto ogni altro,
+al di sopra di tutti i pensatori che mai si ritennero grandi.
+Il suo pathos era naturale, quasi casuale.  Gli Stoici, antichi e moderni,
+erano fieri di nascondere le proprie [[Tears|lacrime]].  Egli non nascose mai le sue [[Tears|lacrime]];
+le mostrava apertamente sul suo volto scoperto a ogni quotidiana vista, come
+la lontana vista della sua [[City|città]] natale.  Eppure qualcosa nascondeva.
+Solenni superuomini e imperiali diplomatici sono fieri di trattenere
+la propria collera.  Egli non trattenne mai la sua collera.  Scaraventò gli arredi giù
+per i gradini del Tempio, e chiese agli uomini come sperassero
+di sfuggire alla dannazione dell'Inferno.  Eppure qualcosa tratteneva.
+Lo dico con riverenza: v'era in quella sconvolgente personalità
+un filo che bisogna chiamare timidezza.  V'era qualcosa che Egli celava
+a tutti gli uomini quando saliva su un monte a pregare.  V'era qualcosa
+che Egli velava di continuo con improvvisi [[Silence|silenzi]] o con impetuosa solitudine.
+V'era un'unica cosa troppo grande perché Dio potesse mostrarcela quando
+camminò sulla nostra terra; e talvolta ho immaginato che fosse la sua
+letizia.
+
+Fine dell'Etext del Progetto Gutenberg di Orthodoxy di G. K. Chesterton

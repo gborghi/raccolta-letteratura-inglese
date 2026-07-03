@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/everlasting-man-(chesterton)">The Everlasting Man</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/everlasting_man/chapter_01_on_the_man_called_christ_chris/part_01">‹ part 01</a><a class="ex-next" href="/testi/chesterton/atomized/everlasting_man/chapter_01_on_the_man_called_christ_chris/part_03">part 03 ›</a></div>
@@ -113,3 +115,112 @@ and transition.  They suggest everywhere the grey gradations
 of twilight, because they believe it is the twilight of the gods.
 I propose to maintain that whether or no it is the twilight of gods,
 it is not the daylight of men.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/everlasting-man-(chesterton)">The Everlasting Man</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/everlasting_man/chapter_01_on_the_man_called_christ_chris/part_01">‹ part 01</a><a class="ex-next" href="/testi/chesterton/atomized/everlasting_man/chapter_01_on_the_man_called_christ_chris/part_03">part 03 ›</a></div>
+</nav>
+
+Ora, la miglior relazione con la nostra [[Home|dimora]] spirituale è essere abbastanza vicini da
+[[Love|amarla]]. Ma la seconda migliore è essere abbastanza lontani da non odiarla.
+È l'assunto di queste pagine che, mentre il miglior giudice
+del [[Christianity|Cristianesimo]] è un cristiano, il secondo miglior giudice sarebbe
+qualcosa di più simile a un confuciano. Il peggior giudice di tutti è l'uomo
+oggi più pronto a emettere giudizi; il cristiano mal istruito
+che si va trasformando a poco a poco nell'agnostico dal cattivo carattere, invischiato
+nella coda di una faida di cui non ha mai capito l'inizio,
+funestato da una sorta di noia ereditaria per non sa che cosa,
+e già stanco di udire ciò che non ha mai udito.
+Egli non giudica il [[Christianity|Cristianesimo]] con la calma con cui lo farebbe un confuciano; non lo
+giudica come giudicherebbe il confucianesimo. Non riesce, con uno sforzo
+di fantasia, a collocare la [[Catholic Church|Chiesa cattolica]] a migliaia di miglia di distanza, in strani
+cieli mattutini, e a giudicarla con l'imparzialità con cui giudicherebbe una pagoda cinese.
+Si dice che il grande san Francesco Saverio, che quasi riuscì
+a erigervi la Chiesa come una torre sovrastante tutte le pagode,
+fallì in parte perché i suoi seguaci furono accusati dagli altri
+missionari di rappresentare i Dodici Apostoli con le vesti
+o gli attributi di cinesi. Ma sarebbe assai meglio vederli
+come cinesi, e giudicarli lealmente come cinesi, che vederli
+come idoli senza volto, fatti solo per essere fracassati dagli iconoclasti;
+o piuttosto come bersagli da colpire da parte di [[cockneys]] a mani vuote. Sarebbe
+meglio vedere l'intera faccenda come un remoto culto asiatico; le mitre
+dei suoi vescovi come i torreggianti copricapi di misteriosi bonzi;
+i suoi bastoni [[Pastoral|pastorali]] come le verghe attorte a serpente portate
+in qualche processione asiatica; vedere il libro delle [[Prayer|preghiere]] fantastico
+quanto la [[Wheel|ruota]] delle [[Prayer|preghiere]] e la [[Cross|Croce]] tanto ricurva quanto la svastica.
+Allora, almeno, non perderemmo le staffe come sembrano perderle alcuni dei critici
+scettici, per non dire il senno.
+Il loro anticlericalismo è divenuto un'atmosfera, un'atmosfera
+di negazione e ostilità dalla quale non riescono a evadere.
+In confronto a questo, sarebbe meglio vedere l'intera faccenda
+come qualcosa che appartiene a un altro continente, o a un altro pianeta.
+Sarebbe più filosofico fissare con indifferenza dei bonzi
+che brontolare perpetuamente e inutilmente contro i vescovi.
+Sarebbe meglio passare davanti a una chiesa come se fosse una pagoda
+che restarsene stabilmente sotto il portico, incapaci tanto di entrare
+per aiutare quanto di uscire e dimenticare. A coloro nei quali una mera
+reazione è così diventata un'ossessione, raccomando sul serio
+lo sforzo immaginativo di concepire i Dodici Apostoli come cinesi.
+In altre parole, raccomando a questi critici di tentare di rendere ai santi
+cristiani tanta giustizia quanta ne renderebbero a dei saggi pagani.
+
+Ma con ciò giungiamo al punto ultimo e vitale: cercherò
+di mostrare in queste pagine che, quando compiamo davvero questo sforzo
+immaginativo di vedere l'intera faccenda dall'esterno, scopriamo che essa
+somiglia realmente a ciò che tradizionalmente se ne dice all'interno.
+È esattamente quando il ragazzo si allontana abbastanza da vedere il gigante
+che si accorge che è davvero un gigante. È esattamente quando finalmente
+scorgiamo la Chiesa cristiana lontana, sotto quei cieli orientali limpidi e distesi,
+che ci accorgiamo che essa è realmente la Chiesa di [[Christ|Cristo]].
+Per dirla in breve, nel momento stesso in cui siamo davvero imparziali verso di essa,
+capiamo perché la gente le sia parziale. Ma questa seconda proposizione
+richiede una discussione più seria; e qui mi accingo
+a discuterla.
+
+Non appena ebbi chiaramente in mente questa concezione di qualcosa
+di solido nel carattere solitario e unico della storia divina,
+mi colpì il fatto che vi fosse esattamente lo stesso carattere strano eppure solido
+nella storia umana che vi aveva condotto; perché anche quella storia umana
+aveva una radice che era divina. Voglio dire che, così come la Chiesa
+sembra crescere in prodigiosità quando la si paragona equamente alla
+comune vita religiosa dell'umanità, così l'umanità stessa sembra crescere
+in prodigiosità quando la paragoniamo alla comune vita della [[Nature|natura]].
+E ho notato che la maggior parte della [[history|storia]] moderna è spinta a qualcosa
+come un sofisma, dapprima per attenuare la brusca transizione dagli [[Animals|animali]]
+all'uomo, e poi per attenuare la brusca transizione dai pagani
+ai cristiani. Ora, quanto più leggiamo con spirito realistico
+di quelle due transizioni, tanto più nette le troveremo.
+È perché i critici non sono distaccati che non vedono
+questo distacco; è perché non guardano le cose in una luce
+asciutta che non riescono a vedere la differenza tra il bianco e il nero.
+È perché si trovano in un particolare stato d'animo di reazione e rivolta
+che hanno un motivo per far apparire tutto il bianco
+come grigio sporco e il nero non così nero come lo si dipinge.
+Non dico che non vi siano scuse umane per la loro rivolta; non dico
+che essa non sia per certi versi simpatica; quel che dico è che essa non è
+in alcun modo scientifica. Un iconoclasta può essere indignato; un iconoclasta
+può essere giustamente indignato; ma un iconoclasta non è imparziale.
+Ed è pura ipocrisia fingere che nove decimi degli alti
+critici, degli evoluzionisti scientifici e dei professori di religione
+comparata siano minimamente imparziali. Perché dovrebbero essere imparziali,
+che cos'è essere imparziali, quando il mondo intero è in guerra sul
+se una data cosa sia una superstizione divorante o una divina [[Hope|speranza]]?
+Non pretendo di essere imparziale nel senso che l'atto finale
+di [[Faith|fede]] fissi la mente di un uomo perché ne appaga la mente.
+Ma professo di essere assai più imparziale di loro;
+nel senso che io so raccontare la storia con lealtà, con una qualche
+sorta di giustizia immaginativa verso tutte le parti; e loro non lo sanno fare.
+Professo di essere imparziale nel senso che mi vergognerei
+di dire tante sciocchezze sul Lama del Tibet quante ne dicono loro sul Papa
+di Roma, o di avere così poca simpatia per Giuliano l'Apostata
+quanta ne hanno loro per la Compagnia di Gesù. Non sono imparziali;
+non tengono mai, per nessun caso, la bilancia storica in equilibrio;
+e soprattutto non sono mai imparziali su questo punto dell'evoluzione
+e della transizione. Suggeriscono ovunque le grigie gradazioni
+del crepuscolo, perché credono che sia il crepuscolo degli dèi.
+Mi propongo di sostenere che, sia o no il crepuscolo degli dèi,
+non è certo il pieno giorno degli uomini.

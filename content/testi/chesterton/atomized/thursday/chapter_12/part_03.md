@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/thursday-(chesterton)">The Man Who Was Thursday</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/thursday/chapter_12/part_02">‹ part 02</a><a class="ex-next" href="/testi/chesterton/atomized/thursday/chapter_12/part_04">part 04 ›</a></div>
@@ -145,3 +147,78 @@ The Colonel sprang out of the car with an intolerant exclamation.
 It must be a practical joke.  If you knew Renard as I do--
 it's like calling [[Queen]] Victoria a dynamiter.  If you had got
 the man's character into your head--"
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/thursday-(chesterton)">The Man Who Was Thursday</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/thursday/chapter_12/part_02">‹ part 02</a><a class="ex-next" href="/testi/chesterton/atomized/thursday/chapter_12/part_04">part 04 ›</a></div>
+</nav>
+
+# [[thursday]] — Capitolo 12 (parte 3)
+
+«Non c'è bisogno che questo interrompa la conversazione», disse il tetro Ratcliffe. «Vi prego, colonnello, riprendete le vostre osservazioni. Stavate parlando, mi pare, della brava gente di una tranquilla cittadina francese.»
+
+Il colonnello, con lo sguardo fisso, aveva da tempo smesso di curarsi della [[Satire|satira]]. Roteò gli occhi tutt'intorno per la strada.
+
+«È straordinario», disse, «assolutamente straordinario.»
+
+«Una persona schizzinosa», disse Syme, «potrebbe persino definirlo sgradevole. Comunque, immagino che quelle luci laggiù nel campo oltre questa strada siano la Gendarmeria. Presto saremo arrivati.»
+
+«No», disse l'ispettore Ratcliffe, «non ci arriveremo mai.»
+
+Era rimasto in piedi a scrutare acutamente davanti a sé. Ora si sedette e si lisciò i capelli lucidi con un gesto stanco.
+
+«Che cosa intendete?» chiese Bull, secco.
+
+«Intendo che non ci arriveremo mai», disse il pessimista placidamente. «Hanno già schierato due file di uomini armati attraverso la [[Road|strada]]; li vedo da qui. La città è in armi, come avevo detto. Non mi resta che crogiolarmi nella squisita consolazione della mia stessa esattezza.»
+
+E Ratcliffe si accomodò comodamente in automobile e accese una sigaretta, ma gli altri si [[Rose|alzarono]] concitati e fissarono giù per la [[Road|strada]]. Syme aveva rallentato l'automobile via via che i loro piani si facevano incerti, e la portò infine a fermarsi proprio all'angolo di una via laterale che scendeva molto ripida fino al mare.
+
+La città era per lo più immersa nell'[[Shadow|ombra]], ma il sole non era ancora tramontato; ovunque la sua luce radente riuscisse a farsi strada, dipingeva ogni cosa d'un oro fiammeggiante. Su per questa via laterale l'ultima luce del tramonto splendeva tagliente e stretta come il fascio di luce artificiale a teatro. Colpiva l'automobile dei cinque amici e la illuminava come un carro in fiamme. Ma il resto della strada, e soprattutto le sue due estremità, era immerso nel più fitto crepuscolo, e per qualche secondo non riuscirono a vedere nulla. Poi Syme, che aveva la vista più acuta, ruppe il silenzio con un breve, amaro fischio, e disse:
+
+«È proprio vero. C'è una folla, o un esercito, o qualcosa del genere in fondo a quella strada.»
+
+«[[Well|Ebbene]], se anche fosse», disse Bull spazientito, «dovrà pur essere qualcos'altro: una finta battaglia, o il compleanno del sindaco, o simili. Non posso e non voglio credere che brava gente allegra, in un posto come questo, se ne vada in giro con la dinamite nelle tasche. Avanza un poco, Syme, e lasciaci dare un'occhiata.»
+
+L'automobile avanzò lentamente per un centinaio di metri, e poi trasalirono tutti quando il dottor Bull scoppiò in un'acuta risata di scherno.
+
+«Ma che sciocconi!» esclamò. «Che cosa vi avevo detto? Quella folla è pacifica come una mucca, e se anche non lo fosse, è dalla nostra parte.»
+
+«E tu come lo sai?» chiese [[The Professor|il professore]], guardando fisso.
+
+«Pipistrello cieco», gridò Bull, «non vedi chi li guida?»
+
+Aguzzarono di nuovo lo sguardo, e allora il colonnello, con un nodo alla gola, esclamò:
+
+«Ma è Renard!»
+
+C'era, in effetti, una fila di figure indistinte che sbarrava la [[Road|strada]], e non si potevano scorgere con chiarezza; ma abbastanza avanti da cogliere il caso della luce serale si aggirava avanti e indietro l'inconfondibile dottor Renard, in cappello bianco, lisciandosi la lunga barba castana e stringendo una rivoltella nella mano sinistra.
+
+«Che [[Fool|sciocco]] sono stato!» esclamò il colonnello. «Ma certo, il caro vecchio amico è venuto in nostro aiuto.»
+
+Il dottor Bull traboccava di risa, facendo oscillare la [[Sword|spada]] in mano con la noncuranza d'un bastone da passeggio. Balzò giù dall'automobile e corse attraverso lo spazio che li separava, gridando:
+
+«Dottor Renard! Dottor Renard!»
+
+Un istante dopo Syme credette che gli occhi gli fossero impazziti in testa. Poiché il filantropico dottor Renard aveva deliberatamente alzato la rivoltella e sparato due volte contro Bull, sì che gli spari risuonarono giù per la [[Road|strada]].
+
+Quasi nello stesso secondo in cui lo sbuffo di nube bianca si levava da quell'atroce esplosione, un lungo sbuffo di nube bianca si levava anche dalla sigaretta del cinico Ratcliffe. Come tutti gli altri impallidì un poco, ma sorrise. Il dottor Bull, contro il quale erano stati esplosi i colpi, mancandogli il cranio per un pelo, rimase immobile in mezzo alla [[Road|strada]] senza un segno di [[Fear|paura]], poi si voltò lentissimamente, tornò strisciando fino all'automobile e vi salì con due fori nel cappello.
+
+«[[Well|Ebbene]]», disse il fumatore di sigaretta lentamente, «che cosa ne pensi adesso?»
+
+«Penso», disse il dottor Bull con precisione, «di essere disteso nel mio letto al numero 217 di Peabody Buildings, e che presto mi sveglierò di soprassalto; oppure, se non è così, penso di essere seduto in una cella imbottita di Hanwell, e che il medico non riesce a raccapezzarsi sul mio caso. Ma se volete sapere che cosa non penso, ve lo dirò. Non penso quello che pensate voi. Non penso, e non lo penserò mai, che la massa degli uomini comuni sia una masnada di sudici pensatori moderni. No, signore, io sono un democratico, e continuo a non credere che [[Sunday]] possa [[convert|convertire]] anche un solo sterratore o commesso qualunque. No, sarò anche pazzo io, ma l'umanità non lo è.»
+
+Syme fissò su Bull i suoi vividi occhi azzurri con un'intensità che non era solito lasciar trasparire.
+
+«Sei davvero un bell'uomo», disse. «Sai credere in una [[Sanity|sanità di mente]] che non è soltanto la tua [[Sanity|sanità di mente]]. E hai perfettamente ragione riguardo all'umanità, riguardo ai contadini e a gente come quel simpatico vecchio locandiere. Ma non hai ragione riguardo a Renard. L'ho sospettato fin dal principio. È un razionalista, e, quel che è peggio, è ricco. Quando il dovere e la religione saranno davvero distrutti, sarà per opera dei ricchi.»
+
+«Sono davvero distrutti già adesso», disse l'uomo con la sigaretta, e si [[Rose|alzò]] con le mani in tasca. «I demoni avanzano!»
+
+Gli uomini nell'automobile guardarono ansiosi nella direzione del suo sguardo trasognato, e videro che l'intero reggimento in fondo alla [[Road|strada]] avanzava verso di loro, il dottor Renard che marciava furibondo in testa, la barba al vento.
+
+Il colonnello balzò giù dall'automobile con un'esclamazione insofferente.
+
+«Signori», gridò, «la cosa è incredibile. Dev'essere uno scherzo. Se conosceste Renard come lo conosco io... è come dare della dinamitarda alla [[Queen|regina]] Vittoria. Se vi foste messi in testa il carattere di quell'uomo...»

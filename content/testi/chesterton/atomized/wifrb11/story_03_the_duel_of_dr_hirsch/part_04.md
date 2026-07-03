@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/wifrb11-(chesterton)">The Wisdom of Father Brown</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/wifrb11/story_03_the_duel_of_dr_hirsch/part_03">‹ part 03</a><a class="ex-next" href="/testi/chesterton/atomized/wifrb11/story_03_the_duel_of_dr_hirsch/part_05">part 05 ›</a></div>
@@ -143,3 +145,143 @@ a bag in each hand.  He looked much the same as when they first saw him,
 except that he had changed his picturesque mountaineering knickers
 for a conventional pair of trousers.  It was clear he was already
 escaping from the hotel.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/wifrb11-(chesterton)">The Wisdom of Father Brown</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/wifrb11/story_03_the_duel_of_dr_hirsch/part_03">‹ part 03</a><a class="ex-next" href="/testi/chesterton/atomized/wifrb11/story_03_the_duel_of_dr_hirsch/part_05">part 05 ›</a></div>
+</nav>
+
+# [[wifrb11]] — Il duello del dottor Hirsch (parte 4)
+
+     «Può essere psicologicamente possibile», rispose Flambeau,
+«e spiegherebbe certamente che Dreyfus fosse certo di essere offeso
+e i suoi giudici sicuri che fosse colpevole. Ma non regge storicamente,
+perché il documento di Dreyfus (se era il suo documento) era letteralmente corretto».
+
+     «Non stavo pensando a Dreyfus», disse padre Brown.
+
+     Il silenzio era sceso intorno a loro con lo svuotarsi dei tavoli;
+era già tardi, benché la luce del sole ancora si aggrappasse a ogni cosa,
+come se fosse rimasta accidentalmente impigliata tra gli alberi. Nell'immobilità Flambeau
+spostò bruscamente la sedia, producendo un rumore isolato ed echeggiante,
+e gettò il gomito sullo spigolo di essa. «Be'», disse, piuttosto aspramente,
+«se Hirsch non è meglio di un timido mercante di tradimenti...»
+
+     «Non dovete essere troppo severo con loro», disse gentilmente padre Brown.
+«Non è interamente colpa loro; ma non hanno istinti.
+Intendo quelle cose che fanno rifiutare a una donna di ballare con un uomo
+o a un uomo di toccare un investimento. È stato loro insegnato che
+è tutta una questione di grado».
+
+     «Comunque sia», gridò Flambeau spazientito, «lui non regge il confronto
+col mio principale; e io andrò fino in fondo. Il vecchio Dubosc sarà anche
+un po' pazzo, ma è una specie di patriota, dopotutto».
+
+     Padre Brown continuò a consumare bianchetti.
+
+     Qualcosa nel modo flemmatico in cui lo faceva indusse i feroci occhi
+neri di Flambeau a vagare di nuovo sul compagno. «Che cos'hai
+che non va?» domandò Flambeau. «Dubosc è a posto, in quel senso.
+Non dubiti di lui?»
+
+     «Amico mio», disse il piccolo prete, posando coltello e forchetta
+in una sorta di gelida disperazione, «io dubito di tutto. Di tutto, intendo,
+ciò che è accaduto oggi. Dubito dell'intera storia, benché sia stata
+recitata davanti al mio volto. Dubito di ogni cosa che i miei occhi hanno visto
+da stamattina. C'è qualcosa in questa faccenda del tutto diverso
+dall'ordinario mistero poliziesco in cui un uomo più o meno mente
+e l'altro più o meno dice la verità. Qui entrambi gli uomini...
+Ebbene! Ti ho detto l'unica teoria a cui riesco a pensare che potrebbe
+soddisfare chiunque. Non soddisfa me».
+
+     «Nemmeno me», rispose Flambeau accigliandosi, mentre l'altro
+seguitava a mangiare pesce con aria di totale rassegnazione. «Se tutto ciò che
+sai suggerire è quella nozione di un messaggio trasmesso per contrari,
+la trovo insolitamente ingegnosa, ma... be', come la chiameresti?»
+
+     «La chiamerei debole», disse prontamente il prete.
+«La chiamerei insolitamente debole. Ma è proprio questa la cosa strana
+di tutta la faccenda. La menzogna è quella di uno scolaretto.
+Ci sono solo tre versioni: quella di Dubosc, quella di Hirsch e quella mia fantasia.
+O quella nota è stata scritta da un ufficiale francese per rovinare un funzionario francese;
+o è stata scritta dal funzionario francese per aiutare ufficiali tedeschi;
+o è stata scritta dal funzionario francese per ingannare ufficiali tedeschi.
+Benissimo. Ti aspetteresti che un foglio segreto che passa tra persone simili,
+funzionari o ufficiali, avesse tutt'altro aspetto.
+Ti aspetteresti, probabilmente, un cifrario, certamente abbreviazioni;
+molto certamente termini scientifici e rigorosamente professionali.
+Ma questa cosa è elaboratamente semplice, come un romanzetto d'appendice:
+"Nella grotta purpurea troverai lo scrigno d'oro". Sembra come se...
+come se fosse fatta apposta per essere scoperta subito».
+
+     Quasi prima che potessero afferrarlo, una figura bassa in uniforme francese
+si era avvicinata al loro tavolo come il [[Wind|vento]], e si sedette
+con una specie di tonfo.
+
+     «Ho notizie straordinarie», disse il duca di Valognes.
+«Vengo proprio adesso da questo nostro colonnello. Sta facendo i bagagli
+per lasciare il paese, e ci chiede di porgere le sue scuse sur le terrain».
+
+     «Cosa?» esclamò [[Flambeau]], con un'[[Incredulity|incredulità]] addirittura spaventosa,
+«scusarsi?»
+
+     «Sì», disse il duca burbero; «lì per lì, davanti a tutti,
+quando le spade saranno sguainate. E tu e io dobbiamo farlo mentre
+lui lascia il paese».
+
+     «Ma cosa può significare questo?» esclamò [[Flambeau]]. «Non può aver paura di
+quel piccolo Hirsch! Corpo di mille diavoli!» gridò, in una specie di rabbia razionale;
+«nessuno potrebbe aver paura di Hirsch!»
+
+     «Credo sia qualche complotto!» scattò Valognes, «qualche complotto
+degli ebrei e dei massoni. È fatto apposta per montare la gloria di Hirsch...»
+
+     Il volto di [[Father Brown]] era ordinario, ma curiosamente appagato;
+poteva risplendere d'ignoranza [[Well|tanto quanto]] di sapere.
+Ma c'era sempre un lampo in cui la maschera sciocca cadeva,
+e la maschera saggia si adattava al suo posto; e [[Flambeau]],
+che conosceva l'amico, capì che l'amico aveva improvvisamente compreso.
+Brown non disse nulla, ma finì il suo piatto di pesce.
+
+     «Dove hai visto per l'ultima volta il nostro prezioso colonnello?» chiese [[Flambeau]],
+irritato.
+
+     «È qui vicino, all'Hôtel Saint Louis presso l'Elysée,
+dove l'abbiamo accompagnato in vettura. Sta facendo i bagagli, ti dico».
+
+     «Ci sarà ancora, pensi?» chiese [[Flambeau]],
+accigliandosi verso il tavolo.
+
+     «Non credo possa andarsene ancora», rispose il duca;
+«sta facendo i bagagli per un lungo [[Journey|viaggio]]...»
+
+     «No», disse [[Father Brown]], con la massima semplicità, ma alzandosi d'un tratto in piedi,
+«per un [[Journey|viaggio]] brevissimo. Uno dei più brevi, anzi.
+Ma potremmo essere ancora in [[Time|tempo]] per acchiapparlo se ci andiamo in taxi».
+
+     Non si poté cavargli altro finché il taxi non svoltò
+l'angolo presso l'Hôtel Saint Louis, dove scesero,
+ed egli condusse la comitiva su per un vicolo laterale già immerso in una profonda [[Shadow|ombra]] con
+il crescere del crepuscolo. Una volta, quando il duca chiese impaziente se
+Hirsch fosse colpevole di tradimento o no, egli rispose piuttosto distrattamente:
+«No; soltanto di [[Ambition|ambizione]]... come Cesare». Poi, in modo alquanto sconclusionato, aggiunse:
+«Vive una vita molto solitaria; ha dovuto fare tutto da sé».
+
+     «[[Well|Be']], se è ambizioso, dovrebbe essere soddisfatto adesso»,
+disse [[Flambeau]] piuttosto amaramente. «Tutta [[Paris|Parigi]] lo acclamerà
+ora che il nostro maledetto colonnello ha voltato le spalle».
+
+     «Non parlare così forte», disse [[Father Brown]], abbassando la voce,
+«il tuo maledetto colonnello è proprio davanti a noi».
+
+     Gli altri due trasalirono e si ritrassero più addietro nell'[[Shadow|ombra]]
+del muro, poiché la figura robusta del loro principale in fuga
+si poteva effettivamente vedere strascicare i piedi nel crepuscolo davanti a loro,
+una borsa in ciascuna mano. Aveva pressappoco lo stesso aspetto di quando lo videro la prima volta,
+salvo che aveva cambiato i suoi pittoreschi calzoni da montanaro
+con un paio di pantaloni convenzionali. Era chiaro che stava già
+fuggendo dall'albergo.

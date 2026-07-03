@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/incredulity-(chesterton)">Incredulity</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/incredulity/story_04_the_miracle_of_moon_crescent/part_03">‹ part 03</a><a class="ex-next" href="/testi/chesterton/atomized/incredulity/story_04_the_miracle_of_moon_crescent/part_05">part 05 ›</a></div>
@@ -139,3 +141,138 @@ at the very thing that had since happened before their eyes.
 `Snakes!' cried the impetuous Westerner, like one speaking
 before he could stop himself; 'suppose there were something
 in it, after all!'
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/incredulity-(chesterton)">Incredulity</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/incredulity/story_04_the_miracle_of_moon_crescent/part_03">‹ part 03</a><a class="ex-next" href="/testi/chesterton/atomized/incredulity/story_04_the_miracle_of_moon_crescent/part_05">part 05 ›</a></div>
+</nav>
+
+«Ma una porta si può aprire, anche in un albergo americano»,
+replicò [[Father Brown|padre Brown]] con pazienza. «E mi pare che la cosa
+più semplice sarebbe aprirla.»
+
+«Sarebbe abbastanza semplice farmi perdere il posto», rispose il segretario,
+«e a Warren Wynd i suoi segretari non piacciono così semplici.
+Né tanto semplici da credere al genere di fiabe a cui pare che
+crediate voi.»
+
+«[[Well|Beh]]», disse il prete con gravità, «è vero abbastanza che io
+credo in un buon numero di cose in cui probabilmente voi non credete. Ma
+ci vorrebbe parecchio tempo per spiegare tutte le cose in cui
+credo, e tutte le ragioni che ho per pensare di aver ragione.
+Ci vorranno all'incirca due secondi per aprire quella porta e provare
+che ho torto.»
+
+Qualcosa in quella frase parve solleticare lo spirito più selvaggio e
+inquieto dell'uomo dell'Ovest.
+
+«Ammetto che mi [[Love|piacerebbe]] provare che avete torto», disse Alboin,
+passando loro davanti a grandi falcate d'un tratto, «e lo farò.»
+
+Spalancò la porta dell'appartamento e guardò dentro.
+La prima occhiata mostrò che la poltrona di Warren Wynd era vuota.
+La seconda occhiata mostrò che era vuota anche la stanza.
+
+Fenner, elettrizzato di energia a sua volta, si precipitò oltre l'altro
+dentro l'appartamento.
+
+«È in camera da letto», disse secco, «per forza.»
+
+Mentre spariva nella camera interna gli altri uomini
+rimasero nella stanza esterna, vuota, a girare lo sguardo intorno.
+La severità e la semplicità dell'arredo, già notate,
+tornarono su di loro come una sfida inflessibile.
+Di certo in quella stanza non c'era modo di nascondere
+un topo, e tanto meno un uomo. Non c'erano tende e,
+cosa rara nelle disposizioni americane, non c'erano armadi.
+Perfino lo scrittoio non era che un semplice tavolo con un cassetto
+poco profondo e un piano inclinato. Le sedie erano scheletri duri e dallo
+schienale alto. Un momento dopo il segretario ricomparve
+sulla porta interna, avendo perlustrato le due stanze di dentro.
+Nei suoi occhi stava fissa una negazione attonita, e la bocca pareva
+muoversi con un distacco meccanico da essa quando disse bruscamente:
+«Non è uscito di qui?»
+
+In qualche modo gli altri non ritennero nemmeno necessario rispondere
+a quella negazione in senso negativo. Le loro menti si erano scontrate
+con qualcosa di simile al muro cieco del magazzino che occhieggiava
+dalla [[Window|finestra]] di fronte, virando a poco a poco dal bianco al grigio
+mentre il crepuscolo scendeva lento con l'avanzare del pomeriggio.
+Vandam attraversò la stanza fino al davanzale della [[Window|finestra]] contro cui si era
+appoggiato mezz'ora prima e guardò fuori dalla [[Window|finestra]] aperta.
+Non c'era né tubo né scala [[Fire|antincendio]], né sporgenza né appiglio d'alcun genere
+sulla parete a strapiombo che precipitava fino alla stradicciola sottostante, e nulla
+c'era sulla pari distesa di muro che si [[Rose|levava]] per molti piani più in alto.
+C'era ancor meno varietà dall'altra parte della strada;
+non c'era proprio nulla se non la tediosa distesa di
+muro imbiancato a calce. Scrutò in basso, come aspettandosi di scorgere
+lo svanito filantropo giacere in un rottame suicida sul selciato.
+Non riuscì a vedere nulla se non un piccolo oggetto scuro che, per quanto rimpicciolito
+dalla distanza, poteva [[Well|ben]] essere la [[Pistol|pistola]] che il prete aveva trovato
+lì per terra. Nel frattempo Fenner si era avvicinato all'altra [[Window|finestra]],
+che dava su una parete altrettanto cieca e inaccessibile,
+ma affacciata su un piccolo parco ornamentale invece che su una via laterale.
+Qui un boschetto interrompeva la vista effettiva del suolo;
+ma gli alberi salivano solo per un breve tratto lungo l'enorme rupe umana.
+Entrambi si voltarono di nuovo verso l'interno e si fronteggiarono nel
+crepuscolo che si addensava, dove gli ultimi bagliori argentei della luce del giorno sui
+lucidi ripiani di scrittoi e tavoli viravano rapidamente al grigio.
+Come se il crepuscolo stesso lo irritasse, Fenner toccò
+l'interruttore e la scena balzò nella nitidezza sorprendente
+della luce elettrica.
+
+«Come avete detto poco fa», disse Vandam cupamente, «non c'è sparo che da
+laggiù potesse colpirlo, anche se ci fosse stato un colpo nell'arma.
+Ma anche se fosse stato colpito da una pallottola non sarebbe scoppiato
+di netto come una bolla di sapone.»
+
+Il segretario, più pallido che mai, gettò un'occhiata irritata sul
+volto biliardo del milionario. «Che cosa vi ha messo in testa
+quelle idee morbose? Chi parla di pallottole e di bolle?
+Perché non dovrebbe essere vivo?»
+
+«Perché no, in effetti?» replicò Vandam con scorrevolezza. «Se mi direte
+dov'è, io vi dirò come ci è arrivato.»
+
+Dopo una pausa il segretario borbottò, piuttosto imbronciato:
+«Immagino che abbiate ragione. Siamo proprio davanti alla cosa
+stessa di cui stavamo parlando. Sarebbe strano se voi
+o io arrivassimo mai a credere che ci fosse qualcosa nel maledire.
+Ma chi avrebbe potuto far del male a Wynd, chiuso qui dentro?»
+
+Il signor Alboin, dell'Oklahoma, era rimasto piuttosto a gambe larghe in mezzo
+alla stanza, con la sua bianca aureola ispida [[Well|non meno]] degli occhi tondi che parevano
+irradiare stupore. A questo punto disse, distrattamente,
+con qualcosa dell'impudenza sconclusionata di un enfant terrible:
+«Non è che vi andasse molto a genio, eh, signor Vandam?»
+
+Il lungo volto giallo del signor Vandam parve allungarsi ancor più mentre
+si faceva più sinistro, ed egli sorrise e rispose con calma:
+«Se si vuol parlare di coincidenze, mi pare foste voi
+a dire che un [[Wind|vento]] dall'Ovest avrebbe spazzato via i nostri
+grandi uomini come pappi di cardo.»
+
+«Lo so, ho detto che l'avrebbe fatto», disse l'uomo dell'Ovest, con candore;
+«ma comunque, come diavolo avrebbe potuto?»
+
+Il silenzio fu rotto da Fenner che disse con una bruschezza che rasentava
+la violenza: «C'è una sola cosa da dire su questa faccenda.
+Semplicemente non è accaduta. Non può essere accaduta.»
+
+«Oh, sì», disse padre Brown dal suo angolo; «è accaduta
+eccome.»
+
+Sobbalzarono tutti; perché la [[Truth|verità]] era che avevano tutti dimenticato
+l'insignificante omino che li aveva in origine indotti
+ad aprire la porta. E il recupero della [[Memory|memoria]] si accompagnò a un brusco
+rovesciamento d'umore; tornò loro alla mente d'un tratto che avevano
+tutti liquidato quell'uomo come un sognatore superstizioso per aver solo accennato
+alla cosa stessa che da allora era accaduta sotto i loro occhi.
+
+«Serpenti!» gridò l'impetuoso uomo dell'Ovest, come chi parla
+prima di potersi trattenere; «e se ci fosse qualcosa
+di vero, dopotutto!»

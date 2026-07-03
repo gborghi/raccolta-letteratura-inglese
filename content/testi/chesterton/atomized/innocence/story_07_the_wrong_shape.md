@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/innocence-(chesterton)">The Innocence of Father Brown</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/innocence/story_06_the_honour_of_israel_gow">‹ Story 06 The Honour of Israel Gow</a><a class="ex-next" href="/testi/chesterton/atomized/innocence/story_08_the_sins_of_prince_saradine">Story 08 The Sins of Prince Saradine ›</a></div>
@@ -874,3 +876,874 @@ write any more.
 [[Father Brown]] carefully folded up the letter, and put it in his breast
 pocket just as there came a loud peal at the gate bell, and the wet
 waterproofs of several policemen gleamed in the [[Road|road]] outside.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/innocence-(chesterton)">The Innocence of Father Brown</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/innocence/story_06_the_honour_of_israel_gow">‹ Story 06 The Honour of Israel Gow</a><a class="ex-next" href="/testi/chesterton/atomized/innocence/story_08_the_sins_of_prince_saradine">Story 08 The Sins of Prince Saradine ›</a></div>
+</nav>
+
+# [[innocence]] — La forma sbagliata
+
+                          La forma sbagliata
+
+Certe delle grandi strade che escono da Londra verso nord si prolungano
+lontano nella campagna come una sorta di spettro attenuato e interrotto di
+via cittadina, con ampi vuoti tra gli edifici, ma conservando la linea.
+Qui si troverà un gruppo di botteghe, seguito da un campo recintato o da un
+paddock, e poi una famosa osteria, e poi magari un orto mercantile
+o un vivaio, e poi una grande casa privata, e poi
+un altro campo e un'altra locanda, e così via. Se qualcuno percorre
+una di queste strade, passerà davanti a una casa che probabilmente
+gli attirerà lo sguardo, per quanto non sappia spiegarne l'attrattiva.
+È una casa lunga e bassa, che corre parallela alla strada,
+dipinta per lo più di bianco e verde pallido, con una veranda e tende parasole,
+e portici sormontati da quelle bizzarre cupolette simili a
+ombrelli di legno che si vedono in certe case all'antica.
+E infatti è una casa all'antica, molto inglese e molto
+suburbana nel buon vecchio senso agiato di Clapham. Eppure la casa
+ha l'aria di essere stata costruita soprattutto per il caldo.
+Guardando la sua vernice bianca e le tende parasole si pensa vagamente a *pugaree*
+e persino a palme. Non riesco a risalire alla radice di questa sensazione;
+forse il luogo fu costruito da un anglo-indiano.
+
+Chiunque passasse davanti a questa casa, dico, ne sarebbe fatalmente affascinato;
+sentirebbe che è un luogo intorno al quale c'è qualche storia da raccontare.
+E avrebbe avuto ragione, come sentirete tra breve.
+Perché questa è la storia — la storia delle strane cose che vi accaddero
+davvero durante la Pentecoste dell'anno 18—:
+
+Chiunque fosse passato davanti alla casa il giovedì prima della Pentecoste,
+verso le quattro e mezzo del pomeriggio, avrebbe visto aprirsi la porta d'ingresso,
+e Padre Brown, della piccola chiesa di St. Mungo, uscirne
+fumando una grossa pipa in compagnia di un amico francese assai alto,
+un certo Flambeau, che fumava una sigaretta piccolissima.
+Queste persone possono interessare o meno al lettore,
+ma la verità è che non erano le sole cose interessanti
+che si mostrarono quando la porta d'ingresso della casa bianca e verde
+venne aperta. Vi sono altre particolarità in questa casa,
+che vanno descritte per cominciare, non solo perché il lettore
+possa comprendere questo tragico racconto, ma anche perché comprenda
+che cosa fu che l'apertura della porta rivelò.
+
+L'intera casa era costruita sulla pianta di una T, ma una T
+con una traversa lunghissima e una coda cortissima.
+La lunga traversa era la facciata che correva dinanzi
+alla strada, con la porta d'ingresso nel mezzo; era alta due
+piani, e conteneva quasi tutte le stanze importanti.
+La corta coda, che si prolungava sul retro immediatamente
+di fronte alla porta d'ingresso, era alta un solo piano, e consisteva
+soltanto di due lunghe stanze, l'una che immetteva nell'altra.
+La prima di queste due stanze era lo studio in cui il celebre
+signor Quinton scriveva i suoi sfrenati poemi e romanzi orientali.
+La stanza più interna era una serra a vetri piena di fioriture
+tropicali di una bellezza affatto singolare e quasi mostruosa,
+e in pomeriggi come quello ardente di sfarzosa luce solare.
+Così, quando la porta dell'atrio era aperta, più di un passante letteralmente si fermava
+a fissare e a rimanere senza fiato; poiché il suo sguardo scorreva lungo una prospettiva di ricche stanze
+fino a qualcosa che somigliava davvero a una scena di trasformazione in una féerie:
+nubi purpuree e soli d'oro e stelle cremisi, insieme
+cocentemente vivide e tuttavia trasparenti e lontane.
+
+Leonard Quinton, il poeta, aveva egli stesso disposto con la massima cura questo effetto;
+ed è dubbio che egli abbia mai espresso tanto perfettamente la propria personalità in alcuna
+delle sue poesie. Perché era un uomo che beveva e si immergeva nei colori, che assecondava
+la sua brama di colore con qualche trascuratezza della forma — persino della buona forma.
+Fu questo che volse così interamente il suo genio all'arte e all'immaginario orientale;
+a quei tappeti sconcertanti o a quei ricami accecanti in cui tutti i colori
+sembrano precipitati in un fortunato caos, senza nulla da simboleggiare o da insegnare.
+Aveva tentato, forse non con pieno successo artistico, ma con
+riconosciuta fantasia e inventiva, di comporre poemi epici e storie d'amore
+che riflettessero il tumulto di un colore violento e persino crudele; racconti di cieli
+tropicali d'oro fiammeggiante o di rame rosso sangue; di eroi orientali che cavalcavano
+con mitre da dodici turbanti su elefanti dipinti di porpora o di verde pavone;
+di gioielli giganteschi che cento negri non avrebbero potuto reggere, ma che ardevano
+di fuochi antichi e dalle strane tinte.
+
+In breve (per mettere la cosa dal punto di vista più comune),
+egli trafficava molto in cieli orientali, piuttosto peggiori della maggior parte degli inferni occidentali;
+in monarchi orientali, che potremmo forse chiamare maniaci;
+e in gioielli orientali che un gioielliere di Bond Street (se i cento
+barcollanti negri glieli avessero portati in bottega) forse
+non avrebbe giudicato autentici. Quinton era un genio, sia pure morboso;
+e persino la sua morbosità appariva più nella sua vita che nella sua opera.
+Di temperamento era debole e stizzoso, e la sua salute aveva sofferto
+gravemente per gli esperimenti orientali con l'oppio. Sua moglie — una donna avvenente,
+laboriosa, e, in verità, sovraffaticata — protestava contro l'oppio,
+ma protestava molto di più contro un eremita indiano in carne e ossa, in vesti bianche e gialle,
+che il marito si ostinava a ospitare per mesi interi,
+un Virgilio che guidasse il suo spirito attraverso i cieli e gli inferni
+d'Oriente.
+
+Fu da questa dimora d'artista che Padre Brown e il suo amico misero piede
+sulla soglia; e a giudicare dai loro volti, ne uscirono
+con molto sollievo. Flambeau aveva conosciuto Quinton negli sfrenati anni di studente a Parigi,
+e avevano rinnovato la conoscenza per un fine settimana; ma a prescindere
+dagli sviluppi più responsabili di Flambeau negli ultimi tempi, egli non andava più d'accordo con
+il poeta. Soffocarsi con l'oppio e scrivere piccoli versi erotici
+su pergamena non era la sua idea di come un gentiluomo debba andare in malora.
+Mentre i due indugiavano sulla soglia, prima di fare un giro in giardino,
+il cancello del giardino d'ingresso fu spalancato con violenza, e un giovane con una
+bombetta rovesciata sulla nuca inciampò su per gli scalini nella sua foga.
+Era un giovanotto dall'aria dissipata, con una vistosa cravatta rossa tutta di traverso,
+come se ci avesse dormito, e non smetteva di agitarsi e di frustare l'aria con uno
+di quei bastoncini snodati.
+
+«Senta un po'», disse ansimando, «voglio vedere il vecchio Quinton. Devo vederlo.
+Se n'è andato?»
+
+«Il signor Quinton è in casa, credo», disse Padre Brown,
+pulendo la pipa, «ma non so se potrà vederlo.
+In questo momento è con lui il medico.»
+
+Il giovane, che non pareva del tutto sobrio, entrò barcollando nell'atrio;
+e nel medesimo istante il medico uscì dallo studio di Quinton,
+chiudendo la porta e cominciando a infilarsi i guanti.
+
+«Vedere il signor Quinton?» disse il medico con freddezza. «No, temo che
+non possa. Anzi, non deve a nessun costo. Nessuno deve vederlo;
+gli ho appena dato la sua pozione soporifera.»
+
+«No, ma senta un po', vecchio mio», disse il giovanotto dalla cravatta rossa,
+tentando affettuosamente di ghermire il medico per i risvolti della giacca.
+«Senta. Sono con l'acqua alla gola, glielo dico io. Io...»
+
+«Non c'è niente da fare, signor Atkinson», disse il medico, costringendolo a indietreggiare;
+«quando saprà alterare gli effetti di una droga, io altererò la mia decisione», e,
+calcandosi il cappello, uscì nella luce del sole con gli altri due.
+Era un ometto dal collo taurino e dal buon carattere, con un piccolo paio di baffi,
+inesprimibilmente ordinario, eppure capace di dare un'impressione di competenza.
+
+Il giovane con la bombetta, che non pareva dotato
+di alcun tatto nel trattare con la gente al di là dell'idea generale
+di afferrarne le giacche, rimase fuori della porta,
+stordito come se fosse stato buttato fuori di peso, e in silenzio
+guardò gli altri tre allontanarsi insieme attraverso il giardino.
+
+«Bella e sonora la bugia che ho detto poco fa», osservò il
+medico ridendo. «A dire il vero, il povero Quinton
+non prende la sua pozione soporifera se non fra quasi mezz'ora.
+Ma non ho nessuna intenzione di lasciarlo importunare da quel bestiolo,
+che vuole soltanto farsi prestare del denaro che non restituirebbe nemmeno se potesse.
+È un lurido mascalzoncello, benché sia il fratello della signora Quinton,
+e lei è la donna più squisita che abbia mai calcato la terra.»
+
+«Sì», disse Padre Brown. «È una brava donna.»
+
+«Perciò mi propongo di gironzolare per il giardino finché quella creatura non se ne sia andata»,
+proseguì il medico, «e poi entrerò da Quinton con la medicina.
+Atkinson non può entrare, perché ho chiuso la porta a chiave.»
+
+«In tal caso, dottor Harris», disse Flambeau, «tanto varrebbe
+fare il giro sul retro, fino in fondo alla serra.
+Da quella parte non c'è ingresso, ma vale la pena di vederla,
+anche solo dall'esterno.»
+
+«Sì, e potrei dare una sbirciatina al mio paziente», rise il medico,
+«perché preferisce sdraiarsi su un'ottomana proprio in fondo alla serra
+in mezzo a tutte quelle poinsettie rosso sangue; a me verrebbero i brividi.
+Ma che cosa state facendo?»
+
+Padre Brown si era fermato un istante, e aveva raccolto dall'erba alta,
+dove era rimasto quasi del tutto nascosto, uno strano coltello orientale ricurvo,
+squisitamente intarsiato di pietre e metalli colorati.
+
+«Che cos'è questo?» chiese Padre Brown, osservandolo con una certa avversione.
+
+«Oh, di Quinton, immagino», disse il dottor Harris con noncuranza;
+«ha ogni sorta di ninnoli cinesi in giro per la casa.
+Oppure appartiene a quel mite indù che si tiene
+al guinzaglio.»
+
+«Quale indù?» chiese Padre Brown, ancora fissando il pugnale
+che teneva in mano.
+
+«Oh, un prestigiatore indiano», disse il medico con leggerezza; «un impostore, s'intende.»
+
+«Non crede nella magia?» chiese Padre Brown, senza alzare lo sguardo.
+
+«Perbacco! La magia!» disse il medico.
+
+«È molto bello», disse il prete con voce bassa e sognante;
+«i colori sono molto belli. Ma ha la forma sbagliata.»
+
+«Sbagliata per cosa?» chiese Flambeau, fissandolo.
+
+«Per qualsiasi cosa. Ha la forma sbagliata in astratto. Non lo sentite mai,
+questo, davanti all'arte orientale? I colori sono inebrianti di bellezza;
+ma le forme sono meschine e cattive — deliberatamente meschine e cattive.
+Ho visto cose malvagie in un tappeto turco.»
+
+«*Mon Dieu!*» esclamò Flambeau ridendo.
+
+«Sono lettere e simboli in una lingua che non conosco; ma so che
+stanno per parole malvagie», proseguì il prete, con la voce che si abbassava sempre di più.
+«Le linee vanno storte apposta — come serpenti che si ripiegano per fuggire.»
+
+«Che diavolo state dicendo?» disse il medico con una sonora risata.
+
+Flambeau gli rispose sottovoce. «A volte al Padre viene
+addosso questa nube da mistico», disse; «ma vi avverto lealmente
+che non l'ho mai visto averla se non quando c'era
+qualcosa di malvagio proprio lì vicino.»
+
+«Oh, sciocchezze!» disse lo scienziato.
+
+«Ma guardatelo», esclamò Padre Brown, tenendo il coltello ricurvo
+a distanza di braccio, come se fosse un serpente scintillante.
+«Non vedete che ha la forma sbagliata? Non vedete che non ha
+alcuno scopo schietto e semplice? Non punta come una lancia.
+Non falcia come una falce. Non ha l'aria di un'arma.
+Ha l'aria di uno strumento di tortura.»
+
+«Be', dal momento che a lei non sembra piacere», disse l'allegro Harris,
+«sarà meglio riportarlo al suo proprietario. Non siamo ancora arrivati
+in fondo a questa maledetta serra? Questa casa, se è per questo,
+ha la forma sbagliata.»
+
+«Lei non capisce», disse Padre Brown scuotendo il capo.
+«La forma di questa casa è bizzarra — è persino ridicola.
+Ma non c'è nulla di sbagliato in essa.»
+
+Mentre parlavano giunsero alla curva di vetro che chiudeva la serra,
+una curva ininterrotta, perché non vi era né porta né finestra da cui
+entrare a quell'estremità. Il vetro, tuttavia, era trasparente, e il sole ancora luminoso,
+benché cominciasse a calare; e potevano vedere non solo le fioriture
+fiammeggianti là dentro, ma la fragile figura del poeta in una giacca di velluto marrone, sdraiato
+languidamente sul divano, essendosi, a quanto pareva, mezzo addormentato su un libro.
+Era un uomo pallido ed esile, con radi capelli castani e una frangia di barba
+che era il paradosso del suo volto, poiché la barba lo faceva sembrare meno virile.
+Questi tratti erano ben noti a tutti e tre; ma anche se non fosse stato
+così, è dubbio che avrebbero guardato Quinton in quel momento.
+I loro occhi erano inchiodati su un altro oggetto.
+
+Esattamente sul loro cammino, immediatamente fuori dell'estremità arrotondata
+dell'edificio di vetro, stava in piedi un uomo alto, le cui vesti scendevano
+fino ai piedi in un bianco immacolato, e il cui cranio bruno e nudo,
+il volto e il collo, luccicavano nel sole calante come splendido bronzo.
+Guardava attraverso il vetro il dormiente, ed era
+più immobile di una montagna.
+
+«Chi è quello?» esclamò Padre Brown, indietreggiando con un sibilante
+tirare di fiato.
+
+«Oh, è solo quell'imbroglione di indù», brontolò Harris; «ma non
+so che diamine ci faccia qui.»
+
+«Ha l'aria di ipnotismo», disse Flambeau, mordendosi i baffi neri.
+
+«Perché voi profani della medicina parlate sempre di ipnotismo a vanvera?»
+esclamò il medico. «Ha molto più l'aria di un furto con scasso.»
+
+«Be', in ogni caso gli rivolgeremo la parola», disse Flambeau, che era sempre
+per l'azione. Una sola lunga falcata lo portò dove stava l'indiano.
+Inchinandosi dalla sua grande statura, che sovrastava perfino quella dell'orientale, disse
+con placida sfrontatezza:
+
+«Buona sera, signore. Desidera qualcosa?»
+
+Assai lentamente, come un grande vascello che entra in porto, il grande volto giallo
+si volse, e guardò infine al di sopra della spalla bianca. Trasalirono
+nel vedere che le palpebre gialle erano del tutto sigillate, come nel sonno.
+«Grazie», disse il volto in eccellente inglese. «Non desidero nulla.»
+Poi, socchiudendo le palpebre in modo da mostrare una fessura di bulbo opalescente,
+ripeté: «Non desidero nulla.» Poi spalancò gli occhi con uno
+sguardo fisso e sorprendente, disse: «Non desidero nulla», e se ne andò frusciando
+nel giardino che rapidamente si oscurava.
+
+«Il cristiano è più modesto», mormorò Padre Brown;
+«egli desidera qualcosa.»
+
+«Che diavolo stava facendo?» chiese Flambeau, aggrottando le nere
+sopracciglia e abbassando la voce.
+
+«Vorrei parlartene più tardi», disse Padre Brown.
+
+La luce del sole era ancora una realtà, ma era la luce rossa della sera,
+e la massa degli alberi e dei cespugli del giardino si faceva sempre più nera
+contro di essa. Girarono attorno all'estremità della serra, e camminarono
+in silenzio lungo l'altro lato per raggiungere la porta d'ingresso.
+Mentre andavano parvero risvegliare qualcosa, come si fa alzare un uccello,
+nell'angolo più fondo tra lo studio e il corpo principale dell'edificio; e di nuovo
+videro il fachiro in veste bianca scivolar fuori dall'ombra, e sgusciare
+verso la porta d'ingresso. Con loro sorpresa, tuttavia, non era stato solo.
+Si trovarono bruscamente arrestati e costretti a scacciare il loro
+smarrimento dall'apparire della signora Quinton, con i suoi pesanti capelli
+dorati e il viso quadrato e pallido, che avanzava verso di loro fuori dal crepuscolo.
+Aveva un'aria un po' severa, ma era del tutto cortese.
+
+«Buona sera, dottor Harris», fu tutto ciò che disse.
+
+«Buona sera, signora Quinton», disse cordialmente l'ometto medico.
+«Sto giusto per andare a dare a suo marito la sua pozione soporifera.»
+
+«Sì», disse con voce chiara. «Credo che sia proprio ora.»
+E sorrise loro, e s'incamminò maestosa dentro casa.
+
+«Quella donna è sovraffaticata», disse Padre Brown; «è il tipo di donna
+che compie il proprio dovere per vent'anni, e poi fa qualcosa di terribile.»
+
+L'ometto medico lo guardò per la prima volta con occhio d'interesse.
+«Ha mai studiato medicina?» chiese.
+
+«Bisogna sapere qualcosa della mente non meno che del corpo»,
+rispose il prete; «noi dobbiamo sapere qualcosa del corpo
+non meno che della mente.»
+
+«Be'», disse il medico, «credo che andrò a dare a Quinton la sua roba.»
+
+Avevano voltato l'angolo della facciata anteriore, e si
+avvicinavano alla soglia d'ingresso. Mentre vi si voltavano
+videro per la terza volta l'uomo nella veste bianca.
+Veniva così diritto verso la porta d'ingresso che pareva del tutto
+incredibile che non fosse appena uscito dallo studio di fronte a essa.
+Eppure sapevano che la porta dello studio era chiusa a chiave.
+
+Padre Brown e Flambeau, tuttavia, si tennero per sé questa bizzarra contraddizione,
+e il dottor Harris non era uomo da sprecare i propri pensieri
+sull'impossibile. Permise all'onnipresente asiatico
+di fare la sua uscita, e poi entrò con passo spedito nell'atrio.
+Là trovò una figura che aveva già dimenticato.
+L'inetto Atkinson bighellonava ancora, canticchiando e frugando
+le cose con il suo bastone nodoso. Il volto del medico ebbe uno spasmo di
+disgusto e di decisione, ed egli sussurrò rapidamente al suo compagno:
+«Devo chiudere di nuovo la porta a chiave, o questo topo entrerà.
+Ma sarò di nuovo fuori tra due minuti.»
+
+Aprì rapidamente la porta e la richiuse a chiave dietro di sé,
+sventando appena una carica goffa del giovane con la bombetta.
+Il giovane si buttò con impazienza su una sedia dell'atrio.
+Flambeau guardava una miniatura persiana alla parete; Padre Brown,
+che pareva in una sorta di stordimento, fissava ottusamente la porta. In circa quattro
+minuti la porta fu riaperta. Atkinson questa volta fu più svelto.
+Balzò avanti, tenne la porta aperta per un istante, e gridò:
+«Ehi, senta, Quinton, voglio...»
+
+Dall'altra estremità dello studio giunse la voce chiara di Quinton,
+in qualcosa tra uno sbadiglio e un urlo di stanca risata.
+
+«Oh, lo so che cosa vuoi. Prendilo, e lasciami in pace.
+Sto scrivendo una canzone sui pavoni.»
+
+Prima che la porta si chiudesse, mezza sterlina d'oro volò attraverso lo spiraglio;
+e Atkinson, inciampando in avanti, la afferrò con singolare destrezza.
+
+«Ecco fatto, è sistemato», disse il medico, e, chiudendo la porta a chiave con ferocia,
+li guidò fuori nel giardino.
+
+«Il povero Leonard può avere un po' di pace, adesso», aggiunse rivolto a Padre Brown;
+«è chiuso a chiave tutto solo per un'ora o due.»
+
+«Sì», rispose il prete; «e la sua voce suonava piuttosto allegra quando lo
+lasciammo.» Poi si guardò gravemente attorno per il giardino, e vide la sciolta
+figura di Atkinson che stava in piedi facendo tintinnare la mezza sterlina in tasca,
+e più in là, nel crepuscolo purpureo, la figura dell'indiano seduto ben
+eretto su un argine erboso, con il volto rivolto verso il sole calante.
+Poi disse bruscamente: «Dov'è la signora Quinton?»
+
+«È salita nella sua stanza», disse il medico. «Quella è la sua ombra
+sulla tendina.»
+
+Padre Brown alzò lo sguardo, e scrutò accigliato una scura sagoma
+alla finestra illuminata a gas.
+
+«Sì», disse, «quella è la sua ombra», e fece un paio di passi e si
+gettò su una panchina del giardino.
+
+Flambeau si sedette accanto a lui; ma il medico era uno di
+quegli individui energici che vivono naturalmente sulle proprie gambe.
+Si allontanò, fumando, nel crepuscolo, e i due amici
+rimasero soli insieme.
+
+«Padre mio», disse Flambeau in francese, «che cosa avete?»
+
+Padre Brown rimase muto e immobile per mezzo minuto, poi disse:
+«La superstizione è irreligiosa, ma c'è qualcosa nell'aria
+di questo luogo. Credo che sia quell'indiano — almeno, in parte.»
+
+Sprofondò nel silenzio, e osservò la lontana sagoma dell'indiano,
+che sedeva ancora rigido come in preghiera. A prima vista pareva immobile,
+ma mentre Padre Brown lo osservava vide che l'uomo oscillava impercettibilmente
+con un movimento ritmico, proprio come le scure cime degli alberi oscillavano impercettibilmente
+nel vento che risaliva i vialetti oscuri del giardino e smuoveva un poco le foglie
+cadute.
+
+Il paesaggio si faceva rapidamente scuro, come in vista di una tempesta,
+ma potevano ancora vedere tutte le figure ai loro vari posti.
+Atkinson era appoggiato a un albero con volto svogliato;
+la moglie di Quinton era ancora alla sua finestra; il medico se n'era andato a zonzo
+attorno all'estremità della serra; potevano vedere il suo sigaro come
+un fuoco fatuo; e il fachiro sedeva ancora rigido eppure dondolante,
+mentre gli alberi sopra di lui cominciavano a dondolare e quasi a ruggire.
+La tempesta stava certamente arrivando.
+
+«Quando quell'indiano ci ha rivolto la parola», proseguì Brown in tono discorsivo e sommesso,
+«ho avuto una sorta di visione, una visione di lui e di tutto il suo universo.
+Eppure non ha detto che tre volte la stessa cosa. Quando disse la prima volta `Non
+desidero nulla', voleva dire soltanto che era impenetrabile, che l'Asia
+non si dà mai. Poi disse di nuovo `Non desidero nulla',
+e capii che intendeva dire che era sufficiente a se stesso, come un cosmo,
+che non aveva bisogno di alcun Dio, né ammetteva alcun peccato. E quando disse
+la terza volta `Non desidero nulla', lo disse con occhi fiammeggianti.
+E capii che intendeva alla lettera ciò che diceva; che il nulla era
+il suo [[Desire|desiderio]] e la sua [[Home|dimora]]; che spasimava per il nulla come per il vino;
+che l'annientamento, la mera distruzione di ogni cosa o di qualunque cosa...»
+
+Caddero due gocce di pioggia; e per qualche ragione [[Flambeau]] trasalì e alzò lo sguardo,
+come se lo avessero punto. E nello stesso istante il medico, laggiù in fondo
+alla serra, cominciò a correre verso di loro, gridando qualcosa
+mentre correva.
+
+Mentre piombava tra loro come una bomba, l'irrequieto Atkinson
+si era per caso avvicinato di qualche passo alla facciata della [[house|casa]];
+e il medico lo afferrò per il colletto con stretta convulsa.
+«Delitto!» gridò; «che cosa gli avete fatto, cane che non siete altro?»
+
+Il prete era balzato in piedi, e aveva la voce d'acciaio di un
+soldato che comanda.
+
+«Niente risse», gridò con freddezza; «siamo abbastanza per trattenere chiunque vogliamo.
+Che cosa succede, dottore?»
+
+«Le cose non vanno bene con Quinton», disse il medico, bianco in volto.
+«Sono riuscito a vederlo appena attraverso il vetro, e non mi piace il modo in cui giace.
+In ogni caso, non è come l'avevo lasciato.»
+
+«Andiamo da lui», disse [[Father Brown|Padre Brown]] in tono secco.
+«Può lasciar stare il signor Atkinson [[Alone|in pace]]. L'ho tenuto d'occhio
+da quando abbiamo sentito la voce di Quinton.»
+
+«Io resto qui a sorvegliarlo», disse [[Flambeau]] in fretta.
+«Entrate voi e andate a vedere.»
+
+Il medico e il prete volarono alla porta dello studio, la aprirono,
+e si precipitarono nella stanza. Così facendo, per poco non caddero sul grande
+tavolo di mogano al centro, a cui il poeta soleva scrivere;
+poiché il luogo era illuminato soltanto da un piccolo [[Fire|fuoco]] tenuto acceso per il malato.
+In mezzo a questo tavolo giaceva un unico foglio di carta, evidentemente lasciato
+lì a bella posta. Il medico lo afferrò, vi diede un'occhiata,
+lo porse a [[Father Brown|Padre Brown]], e gridando: «Buon Dio, guardi qua!»
+si slanciò verso la stanza di vetro al di là, dove i terribili
+[[Flowers|fiori]] tropicali parevano ancora conservare un cremisi [[Memory|ricordo]] del tramonto.
+
+[[Father Brown|Padre Brown]] lesse le parole tre volte prima di posare il foglio.
+Le parole erano: «Muoio per mia propria mano; eppure muoio assassinato!»
+Erano nella del tutto inimitabile, per non dire illeggibile,
+calligrafia di Leonard Quinton.
+
+Poi [[Father Brown|Padre Brown]], sempre tenendo il foglio in mano,
+si diresse a grandi passi verso la serra, solo per incontrare il suo amico
+medico che tornava indietro con un volto insieme sicuro e affranto.
+«L'ha fatto», disse Harris.
+
+Passarono insieme attraverso la sfarzosa, innaturale [[Beauty|bellezza]] di cactus
+e azalee e trovarono Leonard Quinton, poeta e romanziere, con il capo
+penzolante giù dall'ottomana e i riccioli rossi che spazzavano il suolo.
+Nel fianco sinistro gli era conficcato lo strano pugnale che avevano raccolto
+in [[Garden|giardino]], e la sua mano floscia riposava ancora sull'impugnatura.
+
+Fuori la [[Storm|tempesta]] era arrivata d'un sol passo, come la [[Night|notte]] in Coleridge,
+e il [[Garden|giardino]] e il tetto di vetro erano oscurati dalla pioggia sferzante.
+[[Father Brown|Padre Brown]] pareva studiare il foglio più che il cadavere;
+lo teneva vicino agli occhi; e pareva tentare di leggerlo nel crepuscolo.
+Poi lo tenne alzato contro la debole luce, e, mentre lo faceva,
+il [[Lightning|lampo]] li fissò per un istante così bianco che il foglio parve
+nero contro di esso.
+
+Seguì un buio pieno di tuono, e dopo il tuono la voce di [[Father Brown|Padre Brown]]
+disse dal buio: «Dottore, questo foglio ha la forma sbagliata.»
+
+«Che cosa intende?» chiese il dottor Harris, con uno sguardo accigliato.
+
+«Non è quadrato», rispose Brown. «Ha una sorta di bordo tagliato via
+all'angolo. Che cosa significa?»
+
+«Come diamine dovrei saperlo?» brontolò il medico.
+«Crede che dovremmo spostare questo poveretto? È del tutto morto.»
+
+«No», rispose il prete; «dobbiamo lasciarlo come giace e mandare
+a chiamare la polizia.» Ma stava ancora scrutando il foglio.
+
+Mentre tornavano indietro attraverso lo studio, egli si fermò accanto al tavolo
+e raccolse un piccolo paio di forbicine da unghie. «Ah», disse,
+con una sorta di sollievo, «ecco con che cosa l'ha fatto.
+Eppure...» E aggrottò le sopracciglia.
+
+«Oh, la smetta di trastullarsi con quel pezzo di carta», disse il medico con enfasi.
+«Era una sua mania. Ne aveva a centinaia. Tagliava tutta la sua carta
+così», mentre indicava una pila di carta da sermoni ancora inutilizzata su un altro
+tavolo più piccolo. [[Father Brown|Padre Brown]] vi si avvicinò e sollevò un foglio.
+Aveva la stessa forma irregolare.
+
+«Proprio così», disse. «E qui vedo gli angoli che sono stati tagliati via.»
+E, con indignazione del collega, cominciò a contarli.
+
+«Va tutto bene», disse, con un sorriso di scusa.
+«Ventitré fogli tagliati e ventidue angoli tagliati via da essi.
+E poiché vedo che è impaziente, andremo a raggiungere gli altri.»
+
+«Chi deve dirlo a sua moglie?» chiese il dottor Harris. «Vuole andare a dirglielo adesso,
+mentre io mando un domestico a chiamare la polizia?»
+
+«Come vuole», disse [[Father Brown|Padre Brown]] con indifferenza. E andò
+verso la porta d'ingresso.
+
+Anche qui trovò un dramma, benché di sorta più [[Grotesque|grottesca]].
+Non mostrava niente meno che il suo grosso amico [[Flambeau]] in un atteggiamento
+al quale da tempo non era più avvezzo, mentre sul vialetto
+in [[Bottom|fondo]] agli scalini giaceva sdraiato con gli stivali
+in aria l'amabile Atkinson, con la sua bombetta e il bastone
+da passeggio scagliati in direzioni opposte lungo il vialetto.
+Atkinson si era alla fine stancato della custodia quasi paterna di [[Flambeau]],
+e aveva tentato di stenderlo, il che non era affatto
+un gioco liscio da fare col Roi des Apaches, anche dopo
+l'abdicazione di quel monarca.
+
+[[Flambeau]] stava per balzare sul suo nemico e assicurarselo di nuovo,
+quando il prete gli diede un colpetto leggero sulla spalla.
+
+«Faccia pace con il signor Atkinson, amico mio», disse.
+«Chiedetevi mutuo perdono e ditevi `Buona notte'. Non è più necessario
+trattenerlo.» Poi, mentre Atkinson si rialzava un po'
+esitante e raccoglieva cappello e bastone e s'incamminava verso
+il cancello del giardino, Padre Brown disse con voce più grave:
+«Dov'è quell'indiano?»
+
+Tutti e tre (perché il medico si era unito a loro) si voltarono involontariamente
+verso il fioco argine erboso in mezzo agli alberi agitati e purpurei di crepuscolo,
+dove per l'ultima volta avevano visto l'uomo bruno oscillare nelle sue strane preghiere.
+L'indiano era scomparso.
+
+«Che sia maledetto», gridò il medico, pestando i piedi furiosamente.
+«Adesso so che è stato quel negro a farlo.»
+
+«Credevo che lei non credesse nella magia», disse Padre Brown con calma.
+
+«E infatti non ci credevo», disse il medico, roteando gli occhi. «So soltanto
+che ho detestato quel diavolo giallo quando lo credevo un mago da strapazzo.
+E lo detesterò ancora di più se dovrò arrivare a pensare che fosse un mago vero.»
+
+«Be', il fatto che sia fuggito non conta nulla», disse Flambeau. «Perché
+non avremmo potuto provare nulla né fare nulla contro di lui.
+Non si va certo dal poliziotto di parrocchia con una storia di suicidio
+imposto per stregoneria o autosuggestione.»
+
+Intanto Padre Brown si era fatto strada dentro casa,
+e ora andava a dare la notizia alla moglie del morto.
+
+Quando uscì di nuovo appariva un po' pallido e tragico,
+ma ciò che passò tra loro in quel colloquio non fu mai saputo,
+nemmeno quando tutto fu saputo.
+
+Flambeau, che stava parlando tranquillamente col medico,
+fu sorpreso di vedere l'amico ricomparire così presto al suo fianco;
+ma Brown non ci badò, e trasse semplicemente il medico in disparte.
+«Ha mandato a chiamare la polizia, non è vero?» chiese.
+
+«Sì», rispose Harris. «Dovrebbero essere qui tra dieci minuti.»
+
+«Vuole farmi un favore?» disse il prete con calma.
+«La verità è che faccio una collezione di queste curiose storie,
+che spesso contengono, come nel caso del nostro amico indù,
+elementi che difficilmente si possono mettere in un rapporto di polizia. Ora, vorrei
+che lei mi scrivesse un resoconto di questo caso per mio uso privato.
+Il suo è un mestiere abile», disse, guardando il medico gravemente
+e fissamente in volto. «A volte penso che lei conosca
+certi particolari di questa faccenda che non ha ritenuto opportuno
+menzionare. Il mio è un mestiere confidenziale come il suo, e
+tratterò tutto ciò che lei scriverà per me nella più stretta riservatezza.
+Ma scriva tutto.»
+
+Il medico, che aveva ascoltato pensosamente con il capo un poco
+inclinato da un lato, guardò il prete in volto per un istante, e disse:
+«D'accordo», ed entrò nello studio, chiudendo la porta dietro di sé.
+
+«Flambeau», disse Padre Brown, «c'è una lunga panca laggiù
+sotto la veranda, dove possiamo fumare al riparo dalla pioggia.
+Tu sei il mio solo amico al mondo, e voglio parlarti.
+O, forse, tacere con te.»
+
+Si sistemarono comodamente sulla panca della veranda;
+Padre Brown, contro la sua consueta abitudine, accettò un buon sigaro
+e lo fumò senza sosta in silenzio, mentre la pioggia strideva
+e crepitava sul tetto della veranda.
+
+«Amico mio», disse alla fine, «questo è un caso davvero bizzarro.
+Un caso davvero bizzarro.»
+
+«Direi proprio di sì», disse Flambeau, con qualcosa di simile a un brivido.
+
+«Tu lo chiami bizzarro, e io lo chiamo bizzarro», disse l'altro,
+«eppure intendiamo cose del tutto opposte. La mente moderna confonde sempre
+due idee diverse: il mistero nel senso di ciò che
+è meraviglioso, e il mistero nel senso di ciò che è complicato.
+È qui metà della sua difficoltà con i miracoli. Un miracolo è sconcertante;
+ma è semplice. È semplice proprio perché è un miracolo.
+È potenza che viene direttamente da Dio (o dal diavolo) invece che
+indirettamente attraverso la natura o le volontà umane. Ora, tu vuoi dire che questa
+faccenda è meravigliosa perché è miracolosa, perché
+è stregoneria operata da un indiano malvagio. Bada, io non
+dico che non fosse spirituale o diabolica. Il cielo e l'inferno
+soli sanno per quali circostanti influenze strani peccati entrino
+nelle vite degli uomini. Ma per ora il mio punto è questo:
+se fu pura magia, come tu pensi, allora è meravigliosa;
+ma non è misteriosa — vale a dire, non è complicata.
+La qualità di un miracolo è misteriosa, ma il suo modo è semplice.
+Ora, il modo di questa faccenda è stato il contrario del semplice.»
+
+La tempesta, che si era placata per un poco, pareva gonfiarsi
+di nuovo, e vennero pesanti movimenti come di fioco tuono.
+Padre Brown lasciò cadere la cenere del sigaro e proseguì:
+
+«C'è stata in questo episodio», disse, «una qualità contorta, brutta, complessa
+che non appartiene ai fulmini diritti né del cielo né dell'inferno.
+Come si conosce la traccia storta di una lumaca, io conosco la traccia storta
+di un uomo.»
+
+Il bianco lampo aprì il suo enorme occhio in un batter di ciglia,
+il cielo si richiuse, e il prete proseguì:
+
+«Di tutte queste cose storte, la più storta era la forma di quel pezzo
+di carta. Era più storta del pugnale che lo uccise.»
+
+«Intendi il foglio su cui Quinton confessò il suo suicidio», disse Flambeau.
+
+«Intendo il foglio su cui Quinton scrisse `Muoio per mia propria mano'»,
+rispose [[Father Brown|Padre Brown]]. «La forma di quel foglio, amico mio,
+era la forma sbagliata; la forma sbagliata, se mai ne ho vista una
+in questo mondo malvagio.»
+
+«Aveva soltanto un angolo tagliato via», disse [[Flambeau]], «e mi risulta
+che tutta la carta di Quinton fosse tagliata in quel modo.»
+
+«Era un modo assai strano», disse l'altro, «e un modo assai cattivo,
+per il mio gusto e la mia fantasia. Ascolta, [[Flambeau]], questo Quinton — Dio
+ne accolga l'[[Soul|anima]]! — era forse per certi versi un po' un mascalzone,
+ma era davvero un [[Artist|artista]], con la matita [[Well|non]] meno che con la penna.
+La sua calligrafia, benché difficile da leggere, era ardita e bella.
+Non posso provare ciò che dico; non posso provare nulla.
+Ma ti dico con tutta la forza della convinzione che egli non avrebbe
+mai potuto ritagliare quel meschino pezzetto da un foglio di carta.
+Se avesse voluto ritagliare la carta per qualche scopo di adattamento,
+o di rilegatura, o che so io, avrebbe dato tutta un'altra
+sforbiciata. Ti ricordi la forma?
+Era una forma meschina. Era una forma sbagliata. Come questa.
+Non te la ricordi?»
+
+E agitò dinanzi a sé il sigaro acceso nel buio,
+tracciando quadrati irregolari con tale rapidità che [[Flambeau]] davvero
+parve vederli come geroglifici di fuoco sul buio —
+geroglifici come quelli di cui l'amico aveva parlato, che sono indecifrabili,
+eppure non possono avere alcun buon significato.
+
+«Ma», disse [[Flambeau]], mentre il prete si rimetteva il sigaro in bocca
+e si appoggiava all'indietro, fissando il tetto, «supponi che qualcun altro abbia usato
+le forbici. Perché mai qualcun altro, tagliando pezzi dalla sua carta da sermoni,
+avrebbe indotto Quinton a commettere [[suicide|suicidio]]?»
+
+[[Father Brown|Padre Brown]] era ancora appoggiato all'indietro e fissava il tetto,
+ma si tolse il sigaro di bocca e disse:
+«Quinton non commise mai [[suicide|suicidio]].»
+
+[[Flambeau]] lo fissò. «Ma, corpo di mille diavoli», esclamò,
+«allora perché confessò il [[suicide|suicidio]]?»
+
+Il prete si sporse di nuovo in avanti, appoggiò i gomiti sulle ginocchia,
+guardò il suolo, e disse, con voce bassa e distinta:
+«Non confessò mai il [[suicide|suicidio]].»
+
+[[Flambeau]] posò il sigaro. «Vuoi dire», disse,
+«che la scrittura era falsificata?»
+
+«No», disse [[Father Brown|Padre Brown]]. «Quinton la scrisse davvero.»
+
+«[[Well|Ebbene]], eccoci qua», disse l'esasperato [[Flambeau]]; «Quinton scrisse
+`Muoio per mia propria mano', di sua propria mano, su un semplice foglio di carta.»
+
+«Della forma sbagliata», disse il prete con calma.
+
+«Oh, al diavolo la forma!» esclamò Flambeau. «Che cosa c'entra la forma
+con tutto questo?»
+
+«C'erano ventitré fogli tagliati», riprese Brown impassibile,
+«e solo ventidue pezzi tagliati via. Dunque uno dei pezzi
+era stato distrutto, probabilmente quello del foglio scritto.
+Questo ti suggerisce qualcosa?»
+
+Una luce albeggiò sul volto di Flambeau, ed egli disse:
+«C'era qualcos'altro scritto da Quinton, qualche altra parola.
+`Vi diranno che muoio per mia propria mano', o `Non crediate che...'»
+
+«Più caldo, come dicono i bambini», disse l'amico. «Ma il pezzo era largo
+appena mezzo pollice; non c'era spazio per una parola, figuriamoci per cinque.
+Riesci a pensare a qualcosa poco più grande di una virgola, che l'uomo con l'inferno
+nel cuore ha dovuto strappar via come testimonianza contro di sé?»
+
+«Non riesco a pensare a nulla», disse Flambeau alla fine.
+
+«E le virgolette?» disse il prete, e scagliò il sigaro
+lontano nel buio come una stella cadente.
+
+Ogni parola era svanita dalla bocca dell'altro, e Padre Brown disse,
+come chi torna ai fondamenti:
+
+«Leonard Quinton era un romanziere, e stava scrivendo un romanzo
+orientale intorno alla stregoneria e all'ipnotismo. Egli...»
+
+In quel momento la porta si aprì bruscamente dietro di loro, e il medico
+uscì col cappello in testa. Mise una lunga busta nelle mani del prete.
+
+«Ecco il documento che voleva», disse, «e io devo tornarmene a casa.
+Buona notte.»
+
+«Buona notte», disse Padre Brown, mentre il medico si dirigeva a passo spedito verso il cancello.
+Aveva lasciato aperta la porta d'ingresso, così che un fascio di luce a gas cadeva su di loro.
+Alla luce di questo Brown aprì la busta e lesse le seguenti parole:
+
+CARO PADRE BROWN, — Vicisti Galilee. Per il resto, che siano maledetti i vostri
+
+occhi, che sono davvero molto penetranti. È mai possibile che
+
+ci sia qualcosa in tutte le vostre fandonie, dopotutto?
+
+Sono un uomo che fin dalla fanciullezza ha creduto nella Natura e
+
+in tutte le funzioni e gli istinti naturali, che gli uomini li chiamassero
+
+morali o immorali. Molto prima di diventare medico, quando ero uno
+
+scolaro che allevava topi e ragni, credevo che essere un buon
+
+animale fosse la cosa migliore al mondo. Ma proprio ora vacillo;
+
+ho creduto nella Natura; eppure sembra che la Natura possa tradire
+
+un uomo. Può esserci qualcosa nelle vostre sciocchezze? Sto davvero diventando
+
+morboso.
+
+Amavo la moglie di Quinton. Che male c'era in questo? La Natura
+
+me lo diceva, ed è l'amore che fa girare il mondo. E poi
+
+pensavo, in tutta sincerità, che sarebbe stata più felice con un animale pulito
+
+come me che con quel piccolo lunatico tormentoso. Che male
+
+c'era in questo? Non facevo che guardare in faccia i fatti, da uomo di
+
+scienza. Sarebbe stata più felice.
+
+Secondo il mio proprio credo ero pienamente libero di uccidere Quinton,
+
+il che era la cosa migliore per tutti, perfino per lui stesso.
+Ma in quanto
+
+animale sano, non avevo la minima intenzione di uccidere me stesso. Decisi,
+
+perciò, che non l'avrei mai fatto finché non avessi visto un'occasione che
+
+mi lasciasse del tutto impunito. Quell'occasione l'ho vista questa mattina.
+
+Oggi sono entrato, in tutto, tre volte nello studio di Quinton.
+
+La prima volta che entrai, non voleva parlare d'altro che della bizzarra
+
+novella, intitolata «The Cure of a Saint», che stava scrivendo, e che
+
+parlava di come un certo eremita indiano inducesse un colonnello inglese a
+
+uccidersi soltanto pensando a lui. Mi mostrò gli ultimi fogli, e
+
+mi lesse persino l'ultimo paragrafo, che suonava press'a poco così:
+
+«Il conquistatore del Punjab, ormai un mero scheletro giallo, ma ancora
+
+gigantesco, riuscì a sollevarsi sul gomito e a rantolare all'orecchio del
+
+nipote: `Muoio per mia propria mano, eppure muoio assassinato!'» Accadde
+
+così, per un caso su cento, che quelle ultime parole
+
+fossero scritte in cima a un foglio nuovo.
+Lasciai la stanza,
+
+e uscii nel [[Garden|giardino]] ebbro di una spaventosa
+
+opportunità.
+
+Facemmo il giro della [[house|casa]]; e altre due cose accaddero a mio
+
+favore. Voi sospettaste un indiano, e trovaste un pugnale che l'
+
+indiano avrebbe con ogni probabilità usato. Cogliendo l'occasione per cacciarlo
+
+in tasca, tornai nello studio di Quinton, chiusi la porta a chiave,
+
+e gli somministrai la pozione soporifera. Era contrario a rispondere
+
+ad Atkinson, ma lo spinsi a gridare per far tacere quel tale,
+
+perché volevo una prova chiara che Quinton fosse vivo quando lasciai
+
+la stanza per la seconda [[Time|volta]]. Quinton si sdraiò nella serra,
+ed io tornai attraverso lo studio. Sono un uomo svelto di mano, e
+
+in un minuto e mezzo avevo fatto ciò che volevo fare. Avevo
+
+gettato tutta la prima parte del [[Romance|romanzo]] di Quinton nel caminetto,
+
+dove bruciò fino a ridursi in cenere. Poi mi accorsi che le virgolette
+
+non andavano bene, così le ritagliai, e per rendere la cosa più verosimile,
+
+ritagliai allo stesso modo l'intero fascicolo. Poi uscii con la
+
+consapevolezza che la confessione di [[suicide|suicidio]] di Quinton giaceva sul tavolo
+
+d'ingresso, mentre Quinton giaceva vivo ma addormentato nella serra
+
+più in là.
+
+L'ultimo atto fu disperato; potete indovinarlo: finsi
+
+di aver visto Quinton morto e mi precipitai nella sua stanza.
+Vi trattenni
+
+col foglio e, essendo svelto di mano, uccisi
+
+Quinton mentre voi guardavate la sua confessione di [[suicide|suicidio]].
+Lui
+
+era mezzo addormentato, drogato com'era, e gli posi la sua stessa mano sul
+
+coltello e glielo affondai nel [[Body|corpo]]. Il coltello era di forma tanto bizzarra
+
+che nessuno se non un operatore avrebbe potuto calcolare l'angolo
+
+che raggiungesse il cuore. Mi [[Wonder|domando]] se ve ne siate accorto.
+
+Quando l'ebbi fatto, accadde la cosa straordinaria. La [[Nature|Natura]]
+
+mi abbandonò. Mi sentii male. Mi sentii esattamente come se avessi fatto qualcosa
+
+di sbagliato. Credo che il mio cervello stia andando in pezzi; provo una sorta di
+
+disperato piacere al pensiero di aver raccontato la cosa a qualcuno;
+
+che non dovrò restare [[Alone|solo]] con essa se mi sposerò e avrò
+
+dei figli. Che cos'ho che non va? ... [[Madness|Follia]] ... o è possibile
+
+provare rimorso, proprio come se ci si trovasse nei [[Poems|poemi]] di Byron! Non riesco
+
+a scrivere altro.
+
+                                 James [[Erskine]] Harris.            
+
+[[Father Brown|Padre Brown]] ripiegò con cura la lettera, e se la mise nel taschino
+del petto proprio mentre giungeva un forte scampanellìo al cancello, e i bagnati
+impermeabili di parecchi poliziotti luccicavano nella [[Road|strada]], là fuori.

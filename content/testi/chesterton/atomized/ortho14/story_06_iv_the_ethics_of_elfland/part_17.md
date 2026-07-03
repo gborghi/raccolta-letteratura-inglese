@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/ortho14-(chesterton)">Orthodoxy</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/ortho14/story_06_iv_the_ethics_of_elfland/part_16">‹ part 16</a><a class="ex-next" href="/testi/chesterton/atomized/ortho14/story_06_iv_the_ethics_of_elfland/part_18">part 18 ›</a></div>
@@ -124,3 +126,124 @@ It might be printed in an Alpine guide or a drill book.
 This [[Paradox|paradox]] is the whole principle of [[Courage|courage]]; even of quite earthly
 or quite brutal [[Courage|courage]].  A man cut off by the sea may save his life
 if he will risk it on the precipice.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/ortho14-(chesterton)">Orthodoxy</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/ortho14/story_06_iv_the_ethics_of_elfland/part_16">‹ part 16</a><a class="ex-next" href="/testi/chesterton/atomized/ortho14/story_06_iv_the_ethics_of_elfland/part_18">part 18 ›</a></div>
+</nav>
+
+# [[ortho14]] — L'etica del paese delle fate (parte 17)
+
+E allora, in un'ora tranquilla, mi colpì un pensiero
+strano come un fulmine silenzioso. Mi era d'improvviso balenata
+un'altra spiegazione. Supponiamo di sentir parlare di un uomo sconosciuto
+da parte di molti. Supponiamo di restare perplessi nel sentire che alcuni lo dicono
+troppo alto e altri troppo basso; che alcuni si dolgono della sua pinguedine,
+altri lamentano la sua magrezza; che alcuni lo giudicano troppo bruno, altri troppo chiaro.
+Una spiegazione (come già si è ammesso) sarebbe che
+egli abbia una forma bizzarra. Ma c'è un'altra spiegazione.
+Potrebbe avere la forma giusta. Uomini smisuratamente alti potrebbero
+sentirlo basso. Uomini bassissimi potrebbero sentirlo alto.
+Vecchi galletti che si vanno impinguando potrebbero considerarlo insufficientemente riempito;
+vecchi bellimbusti che si vanno smagrendo potrebbero sentire che egli si dilata oltre le
+anguste linee dell'eleganza. Forse gli svedesi (che hanno i capelli pallidi
+come la stoppa) lo chiamavano un uomo bruno, mentre i negri lo consideravano
+decisamente biondo. Forse (in breve) questa cosa straordinaria
+è in realtà la cosa ordinaria; o almeno la cosa normale, il centro.
+Forse, dopo tutto, è il [[Christianity|Cristianesimo]] a essere sano, e tutti i suoi critici
+a essere folli — in vari modi. Misi alla prova questa idea domandandomi
+se in ciascuno degli accusatori vi fosse qualcosa di morboso che potesse
+spiegare l'accusa. Rimasi trasecolato nel trovare che questa chiave entrava nella serratura.
+Per esempio, era certo curioso che il mondo moderno accusasse
+il [[Christianity|Cristianesimo]] a un tempo di austerità corporale e di fasto artistico.
+Ma poi era anche curioso, curiosissimo, che il mondo moderno stesso
+combinasse un estremo lusso corporale con un'estrema assenza di fasto artistico.
+L'uomo moderno trovava le vesti di Becket troppo ricche e i suoi pasti troppo poveri.
+Ma allora l'uomo moderno era davvero un'eccezione nella [[history|storia]];
+mai prima nessun uomo aveva mangiato pranzi così elaborati con abiti così brutti.
+L'uomo moderno trovava la Chiesa troppo semplice proprio là dove la vita moderna
+è troppo complicata; la trovava troppo sfarzosa proprio là dove
+la vita moderna è troppo squallida. L'uomo cui spiacevano i digiuni e le feste
+schietti impazziva per gli entrées. L'uomo cui spiacevano i paramenti
+portava un paio di pantaloni assurdi. E certo, se in tutta questa faccenda
+c'era qualche follia, essa stava nei pantaloni,
+non nell'abito che scende semplice. Se v'era una qualsiasi follia,
+stava negli stravaganti entrées, non nel pane e nel vino.
+
+     Passai in rassegna tutti i casi, e trovai che sin qui la chiave calzava.
+Il fatto che Swinburne fosse irritato dall'infelicità dei cristiani
+e ancor più irritato dalla loro felicità si spiegava facilmente. Non era più
+una complicazione di malattie nel [[Christianity|Cristianesimo]],
+ma una complicazione di malattie in Swinburne. Le rinunce dei
+cristiani lo rattristavano semplicemente perché egli era più edonista
+di quanto un uomo sano dovrebbe essere. La [[Faith|fede]] dei cristiani lo adirava
+perché egli era più pessimista di quanto un uomo sano dovrebbe essere.
+Allo stesso modo i malthusiani per istinto attaccavano il [[Christianity|Cristianesimo]];
+non perché vi sia nel [[Christianity|Cristianesimo]] qualcosa di particolarmente anti-malthusiano,
+ma perché vi è nel malthusianesimo qualcosa di un po' anti-umano.
+
+     Nondimeno non poteva, sentivo, essere del tutto vero che
+il [[Christianity|Cristianesimo]] fosse semplicemente assennato e stesse nel mezzo.
+V'era in esso davvero un elemento di enfasi e persino di frenesia
+che aveva dato ragione ai secolaristi nella loro critica superficiale.
+Poteva essere saggio, e sempre più cominciavo a pensare che fosse saggio,
+ma non era una saggezza meramente mondana; non era semplicemente temperato e
+rispettabile. I suoi feroci crociati e i suoi miti santi potevano
+bilanciarsi a vicenda; eppure i crociati erano ferocissimi
+e i santi miti, miti oltre ogni decenza.
+Ora, fu proprio a questo punto della riflessione che ricordai
+i miei pensieri sul martire e sul [[suicide|suicida]]. In quella faccenda
+si era data questa combinazione tra due posizioni quasi folli
+che pure in qualche modo davano la [[Sanity|sanità di mente]]. Questa era proprio
+un'altra contraddizione siffatta; e questa già l'avevo trovata vera.
+Questo era esattamente uno di quei paradossi in cui gli scettici trovavano
+il credo in errore; e in questo l'avevo trovato nel giusto. Per quanto follemente i cristiani
+potessero [[Love|amare]] il martire od odiare il [[suicide|suicida]], mai provarono queste
+passioni più follemente di quanto le avessi provate io stesso, molto prima di sognarmi
+del [[Christianity|Cristianesimo]]. Allora si aprì la parte più difficile e interessante
+del processo mentale, e cominciai a rintracciare oscuramente questa idea
+attraverso tutti gli enormi pensieri della nostra teologia. L'idea era
+quella che avevo delineato a proposito dell'ottimista e del pessimista;
+che noi vogliamo non un amalgama o un compromesso, ma entrambe le cose
+al culmine della loro energia; l'[[Love|amore]] e l'ira che ardono insieme.
+Qui la rintraccerò soltanto in relazione all'etica. Ma non ho bisogno di
+ricordare al lettore che l'idea di questa combinazione è davvero centrale
+nella teologia ortodossa. Poiché la teologia ortodossa ha specialmente insistito
+sul fatto che il [[Christ|Cristo]] non fosse un essere separato da Dio e dall'uomo, come un elfo,
+né un essere metà umano e metà no, come un centauro,
+ma entrambe le cose a un tempo, ed entrambe compiutamente: verissimo uomo
+e verissimo Dio. Ora lasciatemi rintracciare questa nozione così come la trovai.
+
+     Ogni uomo sano di mente vede che la [[Sanity|sanità di mente]] è una sorta di equilibrio;
+che si può essere folli e mangiare troppo, oppure folli e mangiare troppo poco.
+Alcuni moderni sono in verità comparsi con vaghe versioni del progresso
+e dell'evoluzione che cercano di distruggere il MESON, ossia l'equilibrio di Aristotele.
+Sembrano suggerire che siamo destinati ad affamarci progressivamente,
+o a mangiare colazioni sempre più abbondanti ogni mattina, in eterno.
+Ma il grande truismo del MESON resta valido per ogni uomo che pensa,
+e costoro non hanno sconvolto alcun equilibrio se non il proprio.
+Ma, ammesso che tutti dobbiamo tenere un equilibrio, il vero interesse sopraggiunge
+con la domanda su come quell'equilibrio possa essere tenuto. Questo era il problema
+che il paganesimo tentò di risolvere: questo era il problema che, io credo,
+il [[Christianity|Cristianesimo]] risolse, e risolse in modo assai strano.
+
+     Il paganesimo dichiarava che la virtù stava in un equilibrio;
+il [[Christianity|Cristianesimo]] dichiarava che stava in un conflitto: la collisione
+di due passioni apparentemente opposte. Naturalmente non erano
+davvero incoerenti; ma erano tali che riusciva difficile
+tenerle insieme simultaneamente. Seguiamo per un momento il filo
+del martire e del [[suicide|suicida]]; e prendiamo il caso del [[Courage|coraggio]].
+Nessuna qualità ha mai tanto confuso i cervelli e ingarbugliato le
+definizioni dei saggi meramente razionali. Il [[Courage|coraggio]] è quasi
+una contraddizione in termini. Significa un forte [[Desire|desiderio]] di vivere
+che assume la forma di una prontezza a morire. «Chi perderà la propria vita,
+la salverà» non è un frammento di misticismo per santi ed eroi.
+È un frammento di consiglio quotidiano per marinai o alpinisti.
+Potrebbe essere stampato in una guida alpina o in un manuale d'esercitazioni.
+Questo [[Paradox|paradosso]] è l'intero principio del [[Courage|coraggio]]; persino di un [[Courage|coraggio]] del tutto terreno
+o del tutto brutale. Un uomo isolato dalla marea può salvarsi la vita
+se avrà l'ardire di rischiarla sul precipizio.

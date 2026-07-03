@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/ortho14-(chesterton)">Orthodoxy</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/ortho14/story_06_iv_the_ethics_of_elfland/part_02">‹ part 02</a><a class="ex-next" href="/testi/chesterton/atomized/ortho14/story_06_iv_the_ethics_of_elfland/part_04">part 04 ›</a></div>
@@ -138,3 +140,139 @@ practicality and positivism only means that for certain dead
 levels of our life we forget that we have forgotten.  All that
 we call spirit and art and ecstasy only means that for one awful
 instant we remember that we forget.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/ortho14-(chesterton)">Orthodoxy</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/ortho14/story_06_iv_the_ethics_of_elfland/part_02">‹ part 02</a><a class="ex-next" href="/testi/chesterton/atomized/ortho14/story_06_iv_the_ethics_of_elfland/part_04">part 04 ›</a></div>
+</nav>
+
+# [[ortho14]] — IV. L'etica del paese delle fate (parte 3)
+
+Sta qui la singolare perfezione di tono e di verità delle
+storie che si raccontano ai bambini. L'uomo di scienza dice: «Recidi
+il picciolo, e la mela cadrà»; ma lo dice con tutta calma, come se
+l'una idea conducesse davvero all'altra. La strega della fiaba dice:
+«Suona il corno, e il castello dell'orco crollerà»; ma non lo dice
+come se si trattasse di qualcosa in cui l'effetto sorga con evidenza
+dalla causa. Senza dubbio ha dato quel consiglio a molti campioni,
+e ha visto crollare molti castelli, eppure non perde né il suo
+stupore né la sua ragione. Non s'imbroglia la testa fino a immaginare
+un nesso mentale necessario fra un corno e una torre che precipita.
+Ma gli uomini di scienza sì che s'imbrogliano la testa, fino a
+immaginare un nesso mentale necessario fra una mela che lascia
+l'albero e una mela che raggiunge il suolo. Parlano davvero come se
+avessero scoperto non soltanto un insieme di fatti meravigliosi, ma
+una verità che li collega. Parlano davvero come se il collegamento
+di due cose strane le collegasse filosoficamente. Sentono che, poiché
+una cosa incomprensibile segue di continuo un'altra cosa
+incomprensibile, le due insieme in qualche modo compongano una cosa
+comprensibile. Due enigmi neri fanno una risposta bianca.
+
+     Nel paese delle fate evitiamo la parola «legge»; ma nel paese
+della scienza le sono singolarmente affezionati. Così chiamano una
+qualche curiosa congettura su come pronunciassero l'alfabeto genti
+ormai dimenticate: la legge di Grimm. Ma la legge di Grimm è assai
+meno intellettuale delle fiabe di Grimm. Le fiabe sono, in ogni caso,
+certamente fiabe; mentre la legge non è una legge. Una legge implica
+che si conosca la natura della generalizzazione e della sanzione;
+non soltanto che si siano notati alcuni degli effetti. Se c'è una
+legge per cui i borsaioli debbano andare in prigione, essa implica
+che vi sia un immaginabile nesso mentale fra l'idea della prigione
+e l'idea di rubare nelle tasche altrui. E sappiamo qual è quell'idea.
+Sappiamo dire perché togliamo la libertà a un uomo che si prende
+delle libertà. Ma non sappiamo dire perché un uovo possa mutarsi in
+un pulcino, non più di quanto sappiamo dire perché un orso possa
+mutarsi in un principe delle fate. Come IDEE, l'uovo e il pulcino
+sono più lontani l'uno dall'altro di quanto lo siano l'orso e il
+principe; poiché nessun uovo di per sé suggerisce un pulcino, mentre
+certi principi qualcosa dell'orso lo suggeriscono. Ammesso, dunque,
+che certe trasformazioni avvengano davvero, è essenziale che le si
+consideri alla maniera filosofica delle fiabe, e non alla maniera
+antifilosofica della scienza e delle «leggi di Natura». Quando ci si
+chiede perché le uova diventino uccelli o i frutti cadano in autunno,
+dobbiamo rispondere esattamente come risponderebbe la fata madrina
+se Cenerentola le domandasse perché i topi diventino cavalli o le sue
+vesti le cadano di dosso a mezzanotte. Dobbiamo rispondere che è
+MAGIA. Non è una «legge», poiché non ne comprendiamo la formula
+generale. Non è una necessità, poiché, per quanto in pratica possiamo
+contarci, non abbiamo alcun diritto di dire che debba sempre
+accadere. Non è affatto un argomento a favore di una legge
+inalterabile (come s'immaginava Huxley) il fatto che contiamo
+sull'ordinario corso delle cose. Non ci contiamo: ci scommettiamo.
+Corriamo il rischio della remota possibilità di un miracolo così come
+corriamo quello di una frittella avvelenata o di una cometa che
+distrugga il mondo. Lo lasciamo fuori dal calcolo non perché sia un
+miracolo, e dunque un'impossibilità, ma perché è un miracolo, e
+dunque un'eccezione. Tutti i termini usati nei libri di scienza,
+«legge», «necessità», «ordine», «tendenza», e via dicendo, sono in
+realtà privi d'intelletto, perché presuppongono una sintesi interiore
+che noi non possediamo. Le uniche parole che mai mi abbiano
+soddisfatto come descrizione della Natura sono i termini usati nei
+libri di fiabe: «incantesimo», «formula magica», «malia». Esse
+esprimono l'arbitrarietà del fatto e il suo mistero. Un albero
+produce frutti perché è un albero MAGICO. L'acqua scorre in giù
+perché è stregata. Il sole splende perché è stregato.
+
+     Nego del tutto che questo sia fantastico o anche solo mistico.
+Potremo avere un po' di misticismo più avanti; ma questo linguaggio
+fiabesco intorno alle cose è semplicemente razionale e agnostico. È
+l'unico modo in cui posso esprimere a parole la mia chiara e precisa
+percezione che una cosa è del tutto distinta da un'altra; che non c'è
+alcun nesso logico fra il volare e il fare le uova. È l'uomo che
+parla di «una legge» che non ha mai visto a essere il mistico. Anzi,
+l'uomo di scienza ordinario è a rigore un sentimentale. È un
+sentimentale in questo senso essenziale: che è impregnato e travolto
+da semplici associazioni. Ha visto così spesso gli uccelli volare e
+fare le uova, che sente come se dovesse esistere un qualche
+sognante, tenero legame fra le due idee, mentre non ce n'è alcuno.
+Un amante abbandonato potrebbe non riuscire a dissociare la luna
+dall'amore perduto; così il materialista non riesce a dissociare la
+luna dalla marea. In entrambi i casi non c'è alcun nesso, se non che
+le si è viste insieme. Un sentimentale potrebbe versare lacrime al
+profumo dei fiori di melo, perché, per una sua oscura associazione,
+gli ricorda la fanciullezza. Così il professore materialista
+(sebbene nasconda le lacrime) è pur sempre un sentimentale, perché,
+per una sua oscura associazione, i fiori di melo gli ricordano le
+mele. Ma il freddo razionalista venuto dal paese delle fate non vede
+perché, in astratto, il melo non dovrebbe produrre tulipani cremisi;
+nel suo paese talvolta accade.
+
+     Questo stupore elementare, tuttavia, non è una semplice
+fantasia derivata dalle fiabe; al contrario, tutto il fuoco delle
+fiabe deriva da esso. Proprio come tutti amiamo le storie d'amore
+perché c'è un istinto del sesso, tutti amiamo le storie stupefacenti
+perché toccano il nervo dell'antico istinto dello stupore. Lo prova
+il fatto che, quando siamo bambini piccolissimi, non abbiamo bisogno
+di fiabe: ci bastano le storie. La semplice vita è già abbastanza
+interessante. Un bambino di sette anni si eccita a sentirsi dire che
+Tommy aprì una porta e vide un drago. Ma un bambino di tre anni si
+eccita a sentirsi dire che Tommy aprì una porta. I ragazzi amano le
+storie romantiche; ma i lattanti amano le storie realistiche, perché
+le trovano romantiche. In effetti, un lattante è, credo, press'a poco
+l'unica persona a cui si potrebbe leggere un moderno romanzo
+realistico senza annoiarla. Il che prova che perfino le storie da
+bambini non fanno che riecheggiare un balzo di interesse e di
+meraviglia quasi prenatale. Queste storie dicono che le mele erano
+d'oro solo per ravvivare il momento dimenticato in cui scoprimmo che
+erano verdi. Fanno scorrere i fiumi di vino solo per farci ricordare,
+per un istante selvaggio, che scorrono d'acqua. Ho detto che tutto
+questo è pienamente ragionevole e persino agnostico. E, in effetti,
+su questo punto sono tutto per l'agnosticismo superiore; il cui nome
+migliore è Ignoranza. Abbiamo tutti letto, nei libri di scienza e,
+invero, in ogni romanzo, la storia dell'uomo che ha dimenticato il
+proprio nome. Costui va in giro per le strade e sa vedere e
+apprezzare ogni cosa; solo, non riesce a ricordare chi sia. Ebbene,
+ogni uomo è quell'uomo della storia. Ogni uomo ha dimenticato chi è.
+Si può comprendere il cosmo, ma mai l'io; il sé è più lontano di
+qualsiasi stella. Amerai il Signore Dio tuo; ma non conoscerai te
+stesso. Siamo tutti sotto la medesima calamità mentale; abbiamo tutti
+dimenticato il nostro nome. Abbiamo tutti dimenticato ciò che
+realmente siamo. Tutto ciò che chiamiamo buon senso e razionalità e
+senso pratico e positivismo significa soltanto che, per certi piani
+morti della nostra vita, dimentichiamo di aver dimenticato. Tutto ciò
+che chiamiamo spirito e arte ed estasi significa soltanto che, per un
+solo istante terribile, ricordiamo di dimenticare.

@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/incredulity-(chesterton)">Incredulity</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/incredulity/story_02_the_arrow_of_heaven/part_08">‹ part 08</a><a class="ex-next" href="/testi/chesterton/atomized/incredulity/story_03_the_oracle_of_the_dog/part_01">part 01 ›</a></div>
@@ -123,3 +125,58 @@ by the little table beside which the millionaire had died.
 The Coptic Cup still stood in the same place, and he remained
 there for a space staring at its cluster of all the colours
 of the rainbow, and beyond it into a blue abyss of sky.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/incredulity-(chesterton)">Incredulity</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/incredulity/story_02_the_arrow_of_heaven/part_08">‹ part 08</a><a class="ex-next" href="/testi/chesterton/atomized/incredulity/story_03_the_oracle_of_the_dog/part_01">part 01 ›</a></div>
+</nav>
+
+«Oh, non ho pazienza per tutto questo sentimentale sbiancare di canaglie sanguinarie e senza valore» esclamò Wain, con foga. «Se Wilton ha fatto secco il criminale, ha compiuto un'ottima giornata di lavoro, e la questione finisce lì.»
+
+«Proprio così, proprio così» disse suo zio, annuendo con vigore.
+
+Il volto di [[Father Brown]] si fece di una gravità ancora più pesante mentre girava lentamente lo sguardo intorno al semicerchio dei volti. «È davvero questo che pensate tutti?» domandò. E proprio mentre lo diceva si rese conto di essere un inglese e un esule. Si rese conto di trovarsi tra stranieri, per quanto si trovasse tra amici. Attorno a quell'anello di stranieri correva un fuoco inquieto che non apparteneva alla sua stirpe: lo spirito più feroce della nazione occidentale che sa ribellarsi e linciare, e soprattutto coalizzarsi. Sapeva che si erano già coalizzati.
+
+«[[Well|Ebbene]]» disse [[Father Brown]], con un sospiro, «devo dunque intendere che voi condonate senza riserve il delitto di questo sventurato, o il suo atto di giustizia privata, o comunque lo vogliate chiamare. In tal caso non gli farà alcun male se vi racconto qualcosa di più al riguardo.»
+
+Si alzò improvvisamente in piedi; e per quanto essi non vedessero alcun significato nel suo gesto, questo parve in qualche modo mutare o raffreddare l'aria stessa della stanza.
+
+«Wilton uccise Doom in un modo piuttosto curioso» esordì.
+
+«Come lo uccise, Wilton?» chiese Crake, bruscamente.
+
+«Con una freccia» disse [[Father Brown]].
+
+Il crepuscolo si andava addensando nella lunga sala, e la luce del giorno si riduceva a un barlume proveniente dalla grande [[Window|finestra]] della stanza interna, dove il grande milionario era morto. Quasi automaticamente gli occhi del gruppo si volsero lentamente in quella direzione, ma per il momento non si udì alcun suono. Poi la voce di Crake giunse incrinata, acuta e senile, in una sorta di gracchiante farfuglio.
+
+«Che intende dire? Che intende dire? Brander Merton ucciso da una freccia. Questo furfante ucciso da una freccia...»
+
+«Dalla stessa freccia» disse il prete, «e nel medesimo istante.»
+
+Di nuovo si fece una sorta di silenzio strozzato eppure gonfio e prossimo a scoppiare — un [[Silence|silenzio]] soffocato —, e il giovane Wain cominciò: «Volete dire...»
+
+«Voglio dire che il vostro amico Merton era Daniel Doom» disse Father Brown con fermezza, «e l'unico Daniel Doom che riuscirete mai a trovare. Il vostro amico Merton è sempre stato pazzo per quella Coppa Copta che soleva adorare come un idolo ogni giorno; e nella sua giovinezza sfrenata aveva realmente ucciso due uomini per averla, sebbene io continui a credere che quelle morti possano essere state, in un certo senso, incidenti della rapina. Comunque sia, egli la possedeva; e quell'uomo, Drage, conosceva la storia e lo ricattava. Ma Wilton gli dava la caccia per uno scopo assai diverso; immagino che scoprì la verità soltanto una volta entrato in questa casa. Ma comunque sia, fu in questa casa, e in quella stanza, che questa caccia ebbe fine, ed egli abbatté l'assassino di suo padre.»
+
+Per lungo tempo nessuno rispose. Poi si udì il vecchio Crake tamburellare con le dita sul tavolo e mormorare:
+
+«Brander doveva essere pazzo. Doveva essere pazzo.»
+
+«Ma, santo cielo!» proruppe Peter Wain, «che dobbiamo fare? Che dobbiamo dire? Oh, è tutto completamente diverso! E i giornali, e i grandi uomini d'affari? Brander Merton è una cosa come il Presidente o il Papa di Roma.»
+
+«Sono certamente d'avviso che la faccenda sia piuttosto diversa» cominciò Barnard Blake, l'avvocato, a bassa voce. «La differenza implica un intero...»
+
+[[Father Brown]] batté un pugno sul tavolo tanto che i bicchieri sopra tintinnarono; e quasi si poté immaginare un'eco spettrale provenire dal misterioso calice che ancora si ergeva nella stanza al di là.
+
+«No!» gridò, con una voce simile a un colpo di pistola. «Non vi sarà alcuna differenza. Vi ho offerto la possibilità di aver pietà del povero diavolo quando lo credevate un comune criminale. Allora non avete voluto ascoltare; allora eravate tutti per la vendetta privata. Eravate tutti per lasciarlo macellare come una bestia feroce senza un'udienza né un pubblico processo, e dicevate che aveva avuto soltanto ciò che meritava. Ebbene, [[Well|molto bene]], se Daniel Doom ha avuto ciò che meritava, allora Brander Merton ha avuto ciò che meritava. Se quello era abbastanza buono per Doom, per tutto ciò che è santo è abbastanza buono per Merton. Prendetevi la vostra giustizia selvaggia oppure la nostra ottusa legalità; ma nel nome di Dio Onnipotente, che vi sia un'eguale illegalità o un'eguale legge.»
+
+Nessuno rispose tranne l'avvocato, e rispose con qualcosa di simile a un ringhio: «Che diranno gli agenti di polizia se raccontiamo loro che intendiamo condonare un delitto?»
+
+«Che diranno se io racconto loro che voi lo avete condonato?» replicò [[Father Brown]]. «Il vostro rispetto per la legge arriva piuttosto tardi, signor Barnard Blake.»
+
+Dopo una pausa riprese in tono più mite: «Io, per parte mia, sono pronto a dire la verità se le autorità competenti me lo chiederanno; e il resto di voi può fare come crede. Ma di fatto la cosa non farà gran differenza. Wilton mi ha telefonato soltanto per dirmi che ora ero libero di esporvi la sua confessione; poiché, quando l'aveste udita, egli sarebbe stato al di fuori di ogni inseguimento.»
+
+Si incamminò lentamente verso la stanza interna e vi rimase in piedi accanto al piccolo tavolo presso il quale il milionario era morto. La Coppa Copta si ergeva ancora nello stesso posto, ed egli restò lì per un poco a fissarne il grappolo di tutti i colori dell'arcobaleno, e, al di là di essa, un azzurro abisso di cielo.

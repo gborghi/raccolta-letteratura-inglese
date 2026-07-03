@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/thursday-(chesterton)">The Man Who Was Thursday</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/thursday/chapter_14">‹ Chapter 14</a><a class="ex-next" href="/testi/chesterton/atomized/thursday/chapter_01/part_01">part 01 ›</a></div>
@@ -369,3 +371,369 @@ unforeseeable denouement will prove for the modern reader, as it has
 for thousands of others since 1908 when the book was first published,
 an inevitable and moving experience, as the investigators finally
 discover who [[Sunday]] is.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/thursday-(chesterton)">The Man Who Was Thursday</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/thursday/chapter_14">‹ Chapter 14</a><a class="ex-next" href="/testi/chesterton/atomized/thursday/chapter_01/part_01">part 01 ›</a></div>
+</nav>
+
+# [[thursday]] — Capitolo 15
+
+                          CAPITOLO XV
+
+                          L'ACCUSATORE
+
+MENTRE Syme avanzava a grandi passi lungo il corridoio, vide il Segretario in piedi
+in cima a una vasta gradinata.  Mai quell'uomo era apparso tanto nobile.
+Era avvolto in una lunga veste di nero senza stelle, lungo il cui centro
+scendeva una fascia o larga striscia di puro bianco, come un unico dardo di luce.
+L'insieme somigliava a un paramento ecclesiastico severissimo.
+Non c'era bisogno che Syme frugasse nella sua [[Memory|memoria]] o nella [[Bible|Bibbia]] per
+ricordare che il primo giorno della creazione segnò la mera creazione
+della luce dalle tenebre.  Il paramento stesso [[Alone|da solo]] avrebbe suggerito
+il simbolo; e Syme sentì anche quanto perfettamente questo disegno di puro
+bianco e nero esprimesse l'[[Soul|anima]] del pallido e austero Segretario,
+con la sua veracità disumana e la sua fredda frenesia, che gli rendevano tanto facile
+muover guerra agli anarchici, e pure tanto facile passare per uno di loro.
+Syme non si stupì gran che nel notare che, in mezzo a tutto l'agio e
+l'ospitalità del nuovo ambiente, gli occhi di quest'uomo restavano severi.
+Nessun sentore di birra o di frutteti poteva far cessare al Segretario di porre
+una domanda ragionevole.
+
+Se Syme fosse stato in grado di vedere se stesso, avrebbe capito
+che anche lui, per la prima [[Time|volta]], sembrava essere se stesso e nessun altro.
+Poiché se il Segretario stava per quel filosofo che ama la luce originaria
+e informe, Syme era un tipo di poeta che cerca sempre
+di dare alla luce forme particolari, di scinderla in sole e stella.
+Il filosofo può talvolta [[Love|amare]] l'infinito; il poeta ama sempre
+il finito.  Per lui il grande momento non è la creazione della luce,
+ma la creazione del sole e della [[Moon|luna]].
+
+Mentre insieme discendevano l'ampia scalinata, raggiunsero Ratcliffe,
+che era vestito di verde di [[spring|primavera]] come un cacciatore, e il cui disegno
+sulla veste era un verde groviglio d'alberi.  Poiché egli stava
+per quel terzo giorno in cui furono create la terra e le cose verdi,
+e la sua faccia quadrata e assennata, col suo cinismo non del tutto scortese,
+gli sembrava abbastanza appropriata.
+
+Furono condotti fuori per un'altra ampia e bassa cancellata in un vastissimo
+antico [[Garden|giardino]] all'inglese, pieno di torce e falò, alla luce spezzata
+dei quali un immenso carnevale di gente danzava in variopinti costumi.
+A Syme parve di vedere ogni forma della [[Nature|Natura]] imitata in qualche folle travestimento.
+C'era un uomo vestito da mulino a vento con enormi pale, un uomo vestito
+da elefante, un uomo vestito da pallone; gli ultimi due, insieme,
+parevano tenere il filo delle loro farsesche avventure.  Syme vide addirittura,
+con uno strano brivido, un danzatore vestito da enorme bucero,
+con un becco grande il doppio di lui stesso: quel bizzarro uccello che gli si era fissato
+nella fantasia come una domanda vivente mentre correva giù per la lunga [[Road|strada]] ai
+Giardini Zoologici.  C'erano però mille altri simili oggetti.
+C'era un lampione che danzava, un melo che danzava, una [[Ship|nave]] che danzava.
+Si sarebbe detto che l'indomabile melodia di qualche folle musicista avesse
+messo tutti i comuni oggetti dei campi e delle strade a danzare una giga eterna.
+E molto tempo dopo, quando Syme fu di mezza età e in pace, non poté
+mai vedere uno di quei particolari oggetti — un lampione, o un melo,
+o un mulino a vento — senza pensare che fosse un festaiolo smarrito
+da quella festa in maschera.
+
+Su un lato di questo prato, brulicante di danzatori, c'era una sorta di verde argine,
+come la terrazza di quei giardini d'un tempo.
+
+Lungo di esso, disposti a mezzaluna, stavano sette grandi seggi, i troni
+dei sette giorni.  Gogol e il dottor Bull erano già ai loro posti;
+[[The Professor|il Professore]] stava proprio salendo al suo.  Gogol, ossia Martedì,
+aveva la sua semplicità [[Well|ben]] simboleggiata da un abito ideato secondo
+la divisione delle acque, un abito che si separava sulla sua fronte
+e gli cadeva ai piedi, grigio e argento, come un velo di pioggia.
+[[The Professor|Il Professore]], il cui giorno era quello in cui furono creati gli [[Birds|uccelli]] e i pesci —
+le forme più rozze di vita — aveva un abito di viola smorto,
+su cui sguazzavano pesci dagli occhi sporgenti e oltraggiosi [[Birds|uccelli]] tropicali,
+l'[[Union|unione]] in lui di insondabile fantasia e di [[Doubt|dubbio]].
+Il dottor Bull, l'ultimo giorno della Creazione, indossava una giubba coperta di
+[[Animals|animali]] araldici in rosso e oro, e sulla cimiera un uomo rampante.
+Se ne stava adagiato nella sua sedia con un ampio sorriso, l'immagine di un
+ottimista nel suo elemento.
+
+A uno a uno i vagabondi salirono l'argine e sedettero nei loro strani seggi.
+Al sedersi di ciascuno un ruggito d'entusiasmo si [[Rose|levava]] dal carnevale,
+simile a quello con cui le folle accolgono i re.  Si urtavano coppe e
+si scuotevano torce, e cappelli piumati venivano lanciati in aria.  Gli uomini per cui
+questi troni erano riservati erano uomini incoronati di qualche straordinario alloro.
+Ma il seggio centrale era vuoto.
+
+Syme era alla sua sinistra e il Segretario alla sua destra.
+Il Segretario guardò Syme attraverso il trono vuoto, e disse,
+comprimendo le labbra:
+
+«Non sappiamo ancora ch'egli non giaccia morto in un campo».
+
+Quasi nell'udire le parole, Syme vide sul mare di volti umani
+davanti a lui una terribile e bella trasformazione, come se il cielo
+si fosse aperto dietro il suo capo.  Ma [[Sunday|Domenica]] era soltanto passato in silenzio
+lungo la fronte come un'[[Shadow|ombra]], e s'era seduto nel seggio centrale.
+Era vestito con semplicità, di un bianco puro e terribile, e i suoi capelli
+erano come una fiamma d'argento sulla sua fronte.
+
+Per lungo [[Time|tempo]] — parvero ore — quell'immensa mascherata dell'umanità
+ondeggiò e batté i piedi davanti a loro a un ritmo marziale ed esultante.
+Ogni coppia danzante pareva un [[Romance|romanzo]] a sé; poteva essere
+una fata che danzava con una cassetta delle lettere, o una contadinella che danzava
+con la [[Moon|luna]]; ma in ogni caso era, in qualche modo, tanto assurda
+quanto Alice nel Paese delle Meraviglie, e pure tanto [[Grave|solenne]] e gentile come una storia d'[[Love|amore]].
+Alla fine, tuttavia, la fitta folla cominciò a diradarsi.
+Le coppie s'allontanavano a passeggio nei viali del [[Garden|giardino]], o cominciavano a spostarsi
+verso quell'estremità dell'edificio dove fumavano, in enormi pentoloni
+simili a pesciaie, certe calde e profumate mescolanze di birra vecchia o vino.
+Al di sopra di tutto questo, su una sorta di nera armatura sul tetto
+della [[house|casa]], ruggiva nel suo cesto di ferro un gigantesco falò,
+che rischiarava la campagna per miglia.  Spandeva l'effetto domestico
+del fuoco di focolare sul volto di vaste foreste grigie o brune,
+e pareva riempire di calore perfino il vuoto dell'alta [[Night|notte]].
+Eppure anche questo, dopo un [[Time|po']], fu lasciato affievolire; i gruppi indistinti
+si radunavano sempre più intorno ai grandi calderoni, o passavano,
+ridendo e schiamazzando, negli anditi interni di quell'antica [[house|casa]].
+Presto rimasero solo una decina di ritardatari nel [[Garden|giardino]]; presto solo quattro.
+Infine l'ultimo festaiolo sperduto corse dentro la [[house|casa]] gridando ai
+suoi compagni.  Il [[Fire|fuoco]] si spense, e le lente, forti [[Stars|stelle]] uscirono.
+E i sette uomini strani rimasero [[Alone|soli]], come sette statue di pietra
+sulle loro sedie di pietra.  Nessuno di loro aveva pronunciato parola.
+
+Non parevano avere alcuna fretta di farlo, ma ascoltavano in [[Silence|silenzio]] il ronzio
+degli [[Insects|insetti]] e il lontano [[Song|canto]] di un uccello.  Poi [[Sunday|Domenica]] parlò,
+ma con tale sognante lentezza che avrebbe potuto star proseguendo una conversazione
+piuttosto che cominciarne una.
+
+«Mangeremo e berremo più tardi», disse.  «Restiamo un poco insieme,
+noi che ci siamo amati così tristemente, e abbiamo combattuto così a lungo.
+Mi par di ricordare soltanto secoli di guerra eroica, in cui voi
+foste sempre eroi — [[Epic|epica]] su [[Epic|epica]], iliade su iliade, e voi sempre
+fratelli d'armi.  Che fosse solo di recente (poiché il [[Time|tempo]] non è
+nulla), o al principio del mondo, io vi mandai in guerra.
+Sedevo nelle tenebre, dove non v'è alcuna cosa creata, e per
+voi io ero soltanto una voce che comandava valore e una virtù innaturale.
+Udiste la voce nel buio, e non la udiste mai più.
+Il sole in cielo la negò, la terra e il cielo la negarono,
+ogni umana saggezza la negò.  E quando v'incontrai alla luce del giorno io
+stesso la negai».
+
+Syme si mosse bruscamente nel suo seggio, ma per il resto vi fu [[Silence|silenzio]],
+e l'incomprensibile proseguì.
+
+«Ma voi eravate uomini.  Non dimenticaste il vostro segreto [[Honour|onore]],
+benché l'intero cosmo si mutasse in un ordigno di tortura
+per strapparvelo.  Io sapevo quanto foste vicini all'inferno.
+So come tu, [[thursday|Giovedì]], incrociasti le spade con [[King|re]] [[Satan|Satana]],
+e come tu, Mercoledì, mi nominasti nell'ora senza [[Hope|speranza]]».
+
+Vi fu completo [[Silence|silenzio]] nel [[Garden|giardino]] stellato, e allora
+il Segretario dalle nere sopracciglia, implacabile, si volse nel suo seggio
+verso [[Sunday|Domenica]], e disse con voce aspra:
+
+«Chi e che cosa sei tu?»
+
+«Io sono il Sabato», disse l'altro senza muoversi.
+«Io sono la pace di Dio».
+
+Il Segretario balzò in piedi, e rimase stringendo nella mano la sua veste sontuosa.
+
+«So cosa intendi», gridò, «ed è esattamente questo che non posso
+perdonarti.  So che tu sei l'appagamento, l'ottimismo, come lo chiamano,
+un'ultima [[Reconciliation|riconciliazione]].  [[Well|Ebbene]], io non sono riconciliato.
+Se eri l'uomo nella stanza buia, perché eri anche [[Sunday|Domenica]],
+un affronto alla luce del sole?  Se dal principio eri il nostro
+padre e il nostro amico, perché eri anche il nostro più grande nemico?
+Piangemmo, fuggimmo in preda al terrore; il ferro ci penetrò nell'anima —
+e tu sei la pace di Dio!  Oh, posso perdonare a Dio la Sua ira,
+benché abbia distrutto nazioni; ma non posso perdonarGli la Sua pace».
+
+[[Sunday|Domenica]] non rispose una parola, ma lentissimamente volse il suo volto di pietra
+verso Syme come a porre una domanda.
+
+«No», disse Syme, «io non provo una simile ferocia.  Ti sono grato,
+non solo per il vino e l'ospitalità qui, ma per più d'una bella scorribanda e
+d'un franco combattimento.  Ma mi piacerebbe sapere.  La mia [[Soul|anima]] e il mio cuore sono felici
+e quieti qui come questo vecchio [[Garden|giardino]], ma la mia ragione grida ancora.
+Mi piacerebbe sapere».
+
+[[Sunday|Domenica]] guardò Ratcliffe, la cui chiara voce disse:
+
+«Sembra così sciocco che tu sia stato da entrambe le parti
+e abbia combattuto contro te stesso».
+
+Bull disse:
+
+«Non capisco nulla, ma sono felice.  Anzi, sto per addormentarmi nel [[Sleep|sonno]]».
+
+«Io non sono felice», disse [[The Professor|il Professore]] col capo tra le mani,
+«perché non capisco.  Mi hai lasciato vagare un poco troppo
+vicino all'inferno».
+
+E allora Gogol disse, con l'assoluta semplicità di un [[Child|bambino]]:
+
+«Vorrei sapere perché sono stato ferito tanto».
+
+Ancora [[Sunday|Domenica]] non disse nulla, ma sedeva soltanto col possente mento sulla mano,
+e fissava la lontananza.  Poi finalmente disse:
+
+«Ho ascoltato le vostre lagnanze in ordine.  Ed ecco, credo,
+giungerne un altro a lagnarsi, e ascolteremo anche lui».
+
+Il [[Fire|fuoco]] morente nel grande braciere gettò un ultimo lungo bagliore,
+come una sbarra d'oro ardente, attraverso l'erba fioca.
+Contro questa fascia di fuoco si stagliavano in nero assoluto le gambe avanzanti
+di una figura vestita di nero.  Pareva indossare un fine abito attillato
+con calzoni al ginocchio come quello portato dai servitori
+della [[house|casa]], solo che non era azzurro, ma di questo assoluto nero corvino.
+Aveva, come i servitori, una specie di [[Sword|spada]] al fianco.
+Fu solo quando fu giunto proprio vicino alla mezzaluna dei
+sette e alzò il volto a guardarli, che Syme vide,
+con folgorante chiarezza, che quel volto era la larga,
+quasi scimmiesca faccia del suo vecchio amico Gregory, coi suoi ispidi
+capelli rossi e il suo sorriso insolente.
+
+«Gregory!» ansimò Syme, sollevandosi a metà dal suo seggio.
+«Ma questo è il vero anarchico!»
+
+«Sì», disse Gregory, con un grande e pericoloso ritegno,
+«io sono il vero anarchico».
+
+«"Or avvenne un giorno"», mormorò Bull, che pareva davvero
+essersi addormentato, «"in cui i figli di Dio vennero a presentarsi
+davanti al Signore, e [[Satan|Satana]] venne anch'egli in mezzo a loro"».
+
+«Hai ragione», disse Gregory, e si guardò tutt'attorno.  «Io sono un distruttore.
+Distruggerei il mondo se potessi».
+
+Un senso di un pathos sepolto assai sotto la terra si destò in Syme,
+ed egli parlò con voce rotta e senza filo.
+
+«Oh, uomo infelicissimo», gridò, «cerca di essere felice!
+Hai i capelli rossi come tua sorella».
+
+«I miei capelli rossi, come rosse fiamme, incendieranno il mondo»,
+disse Gregory.  «Credevo di odiare ogni cosa più di quanto un uomo
+comune possa odiare alcunché; ma scopro che non odio ogni cosa
+tanto quanto odio te!»
+
+«Io non ti ho mai odiato», disse Syme tristissimamente.
+
+Allora da questa incomprensibile creatura eruppero gli ultimi tuoni.
+
+«Tu!» gridò.  «Tu non hai mai odiato perché non hai mai vissuto.
+So cosa siete tutti voi, dal primo all'ultimo:
+siete la gente al potere!  Siete la polizia — i grandi uomini grassi
+e sorridenti in azzurro e bottoni!  Siete la Legge, e non siete mai
+stati infranti.  Ma c'è forse un'[[Soul|anima]] libera al mondo che non
+brami d'infrangervi, solo perché non siete mai stati infranti?
+Noi in rivolta blateriamo senza dubbio ogni sorta di sciocchezze su questo
+o quel crimine del [[government|Governo]].  È tutta follia!
+L'unico crimine del [[government|Governo]] è che governa.
+Il peccato imperdonabile del potere supremo è che è supremo.
+Non vi maledico per essere crudeli.  Non vi maledico
+(benché potrei) per essere gentili.  Vi maledico per essere al sicuro!
+Sedete sulle vostre sedie di pietra, e non ne siete mai discesi.
+Siete i sette angeli del cielo, e non avete avuto tribolazioni.
+Oh, potrei perdonarvi ogni cosa, voi che governate tutta l'umanità,
+se potessi sentire per una volta che avete sofferto per un'ora
+una vera agonia come la mia...»
+
+Syme balzò in piedi, tremando da capo a piedi.
+
+«Io vedo ogni cosa», gridò, «ogni cosa che esiste.
+Perché ogni cosa sulla terra fa guerra a ogni altra cosa?
+Perché ogni piccola cosa nel mondo deve lottare contro
+il mondo stesso?  Perché una mosca deve combattere l'intero universo?
+Perché un soffione deve combattere l'intero universo?
+Per la stessa ragione per cui io dovetti essere [[Alone|solo]] nel terribile
+Consiglio dei Giorni.  Affinché ogni cosa che obbedisce alla legge
+possa avere la gloria e l'isolamento dell'anarchico.
+Affinché ogni uomo che combatte per l'ordine possa essere un uomo tanto prode e buono
+quanto il dinamitardo.  Affinché la vera menzogna di [[Satan|Satana]] possa essere
+scagliata in faccia a questo bestemmiatore, affinché con [[Tears|lacrime]]
+e tortura possiamo guadagnarci il diritto di dire a quest'uomo: "Tu menti!"
+Nessuna agonia può essere troppo grande per comprare il diritto di dire a questo accusatore:
+"Anche noi abbiamo sofferto".
+
+«Non è vero che non siamo mai stati infranti.  Siamo stati
+spezzati sulla [[Wheel|ruota]].  Non è vero che non siamo mai
+discesi da questi troni.  Siamo discesi all'inferno.
+Ci lagnavamo di indimenticabili miserie proprio nel momento
+in cui quest'uomo entrò insolentemente ad accusarci di felicità.
+Respingo la calunnia; noi non siamo stati felici.  Posso rispondere
+per ciascuna delle grandi guardie della Legge ch'egli ha accusato.
+Almeno...»
+
+Aveva volto gli occhi in modo da veder d'un tratto il grande volto di [[Sunday|Domenica]],
+che portava uno strano sorriso.
+
+«Hai tu», gridò con voce terribile, «hai tu mai sofferto?»
+
+Mentre fissava, il grande volto crebbe a una dimensione spaventosa, crebbe più grande
+della colossale maschera di Memnone, che lo aveva fatto gridare da [[Child|bambino]].
+Crebbe sempre più grande, riempiendo l'intero cielo; poi tutto si fece nero.
+Solo nella tenebra, prima che gli distruggesse del tutto il cervello, gli parve di udire
+una voce lontana che diceva un testo banale che aveva udito da qualche parte:
+«Potete voi bere il calice ch'io bevo?»
+
+                         *    *    *
+
+Quando gli uomini nei libri si destano da una visione, comunemente si trovano
+in qualche luogo in cui avrebbero potuto addormentarsi;
+sbadigliano su una sedia, o si sollevano con le membra ammaccate
+da un campo.  L'esperienza di Syme fu qualcosa di assai più
+psicologicamente strano, se pure c'era davvero qualcosa d'irreale,
+in senso terreno, nelle cose che aveva attraversato.
+Poiché, mentre poteva sempre ricordare in seguito d'essere
+svenuto davanti al volto di [[Sunday|Domenica]], non poteva ricordare d'essersi
+mai riavuto affatto.  Poteva soltanto ricordare che gradualmente
+e naturalmente seppe che stava, e che era stato, camminando lungo
+una viottola di campagna con un compagno disinvolto e conversevole.
+Quel compagno era stato parte del suo recente dramma; era
+il poeta dai capelli rossi Gregory.  Camminavano come vecchi amici,
+ed erano nel mezzo di una conversazione su qualche inezia.
+Ma Syme poteva soltanto sentire un'innaturale leggerezza nel suo [[Body|corpo]]
+e una cristallina semplicità nella sua mente che pareva superiore
+a tutto ciò che diceva o faceva.  Sentiva d'essere in possesso
+di qualche impossibile buona novella, che rendeva ogni altra cosa
+un'inezia, ma un'inezia adorabile.
+
+L'[[Dawn|alba]] spuntava su ogni cosa in colori insieme chiari e timidi;
+come se la [[Nature|Natura]] facesse un primo tentativo di giallo e un primo tentativo di [[Rose|rosa]].
+Spirava una brezza così pura e dolce che non si sarebbe potuto pensare ch'essa
+spirasse dal cielo; spirava piuttosto attraverso qualche foro nel cielo.
+Syme provò una semplice sorpresa quando vide sorgere tutt'intorno a lui su entrambi
+i lati della [[Road|strada]] i rossi, irregolari edifici di Saffron Park.  Non aveva
+idea d'aver camminato tanto vicino a [[London|Londra]].  Camminò d'istinto
+lungo una bianca [[Road|strada]], su cui i primi [[Birds|uccelli]] saltellavano e cantavano, e si trovò
+fuori da un [[Garden|giardino]] recintato.  Là vide la sorella di Gregory,
+la ragazza dai capelli d'oro rosso, che recideva lillà prima di colazione,
+con la grande, inconsapevole gravità di una ragazza.
+
+FINE
+
+      UN RACCONTO SFRENATO, FOLLE, ESILARANTE E PROFONDAMENTE COMMOVENTE
+
+                  L'UOMO CHE FU [[thursday|GIOVEDÌ]]
+
+                      di G. K. Chesterton
+
+              autore dei racconti di [[Father Brown]]
+
+È assai difficile classificare L'UOMO CHE FU [[thursday|GIOVEDÌ]].  È possibile
+dire che è un'avvincente storia d'avventura di criminali assassini
+e brillanti poliziotti; ma c'era da aspettarsi che l'autore dei
+racconti di [[Father Brown]] raccontasse una storia [[Detective|poliziesca]] come nessun altro.
+A questo livello, dunque, L'UOMO CHE FU [[thursday|GIOVEDÌ]] riesce superbamente;
+se non altro, è un magnifico tour-de-force di scrittura di suspense.
+
+Tuttavia, il lettore scoprirà presto che è molto più di questo.
+Trascinato dall'impetuoso slancio della narrazione dal
+meraviglioso stile brioso di Chesterton, vedrà presto d'essere
+condotto in acque assai più profonde di quanto avesse previsto; e il tutto
+imprevedibile scioglimento si rivelerà per il lettore moderno, come si è rivelato
+per migliaia di altri dal 1908, quando il libro fu pubblicato per la prima volta,
+un'esperienza inevitabile e commovente, allorché gli investigatori finalmente
+scoprono chi sia [[Sunday|Domenica]].

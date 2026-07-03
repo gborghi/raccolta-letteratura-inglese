@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/everlasting-man-(chesterton)">The Everlasting Man</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/everlasting_man/chapter_03/part_12">‹ part 12</a><a class="ex-next" href="/testi/chesterton/atomized/everlasting_man/chapter_03/part_14">part 14 ›</a></div>
@@ -110,3 +112,109 @@ But in order to understand that weakness we must repeat what has been said
 more than once; that it was not the weakness of a thing originally weak.
 It was emphatically the strength of the world that was turned
 to weakness and the wisdom of the world that was turned to folly.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/everlasting-man-(chesterton)">The Everlasting Man</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/everlasting_man/chapter_03/part_12">‹ part 12</a><a class="ex-next" href="/testi/chesterton/atomized/everlasting_man/chapter_03/part_14">part 14 ›</a></div>
+</nav>
+
+Perciò la storia di [[Christ|Cristo]] è la storia di un [[Journey|viaggio]],
+quasi alla maniera di una marcia militare; e certamente alla maniera
+della [[Quest|ricerca]] di un [[Hero|eroe]] che avanza verso il proprio compimento o la propria rovina.
+È una storia che comincia nel paradiso della Galilea, una terra [[Pastoral|pastorale]]
+e pacifica che serba davvero qualche sentore dell'Eden, e a poco a poco
+sale per la contrada montuosa verso i [[Mountains|monti]] che sono più vicini
+alle nubi della [[Storm|tempesta]] e alle [[Stars|stelle]], come verso un Monte del Purgatorio.
+Lo si può incontrare mentre par vagare in luoghi strani, o mentre lo si ferma
+lungo il cammino per una discussione o una disputa; ma il suo volto è rivolto
+verso la [[City|città]] della montagna. Questo è il senso di quel grande
+culmine, quando egli valicò il crinale e sostò alla svolta
+della [[Road|strada]] e a un tratto gridò forte, piangendo su Gerusalemme.
+Un lieve tocco di quel pianto è in ogni poema patriottico;
+o, se manca, il patriottismo puzza di volgarità.
+Questo è il senso dell'episodio commovente e sconcertante alle porte
+del Tempio, quando le tavole furono scagliate come ciarpame giù per i gradini,
+e i ricchi mercanti cacciati fuori a percosse; l'episodio
+che deve costituire per i pacifisti almeno tanto un enigma quanto ogni
+[[Paradox|paradosso]] sulla non resistenza può costituirlo per uno qualsiasi dei militaristi.
+Ho paragonato la [[Quest|ricerca]] al [[Journey|viaggio]] di Giasone, ma non dobbiamo
+mai dimenticare che, in un senso più profondo, essa va piuttosto paragonata
+al [[Journey|viaggio]] di [[Ulysses|Ulisse]]. Non era soltanto un [[Romance|romanzo]] di viaggio,
+ma un [[Romance|romanzo]] di ritorno; e della fine di un'usurpazione.
+Nessun ragazzo sano che legga la storia considera la disfatta dei pretendenti
+di Itaca come qualcosa di diverso da un lieto fine. Ma ve ne sono senza dubbio
+alcuni che considerano la disfatta dei mercanti e dei cambiavalute ebrei
+con quella raffinata ripugnanza che non manca mai di commuoverli
+alla presenza della violenza, e specialmente della violenza contro
+i [[Well|benestanti]]. Il punto, qui, è però che tutti questi episodi
+recano in sé un carattere di crisi crescente. In altre parole,
+questi episodi non sono incidentali. Quando [[Apollonius|Apollonio]], il filosofo
+ideale, è condotto dinanzi al tribunale di Domiziano
+e svanisce per [[Magic|magia]], il miracolo è del tutto incidentale.
+Sarebbe potuto avvenire in qualsiasi [[Time|momento]] della vita errabonda
+del Tianeo; anzi, credo che sia dubbio nella data non [[Well|meno]] che
+nella sostanza. Il filosofo ideale semplicemente svanì, e riprese
+altrove la sua ideale esistenza per un periodo indefinito.
+È forse caratteristico del contrasto che [[Apollonius|Apollonio]]
+si supponesse fosse vissuto fino a un'età quasi miracolosa.
+Gesù di Nazaret fu meno prudente nei suoi miracoli.
+Quando Gesù fu condotto dinanzi al tribunale di Ponzio Pilato,
+egli non svanì. Era la crisi e la meta; era l'ora
+e il potere delle tenebre. Fu l'atto supremamente [[Supernatural|soprannaturale]],
+di tutta la sua vita miracolosa, che egli non svanisse.
+
+Ogni tentativo di amplificare quella storia l'ha sminuita. All'impresa
+si sono cimentati molti uomini di autentico genio ed eloquenza, non [[Well|meno]] che
+troppi volgari sentimentali e retori compiaciuti di [[Self|sé]].
+Il racconto è stato ripetuto con pathos condiscendente da eleganti scettici
+e con facondo entusiasmo da chiassosi autori di best-seller. Non
+sarà ripetuto qui. La forza schiacciante delle nude parole della
+storia evangelica è come la forza delle macine; e chi sappia leggerle
+con sufficiente semplicità sentirà come se rocce gli fossero state rotolate addosso.
+La critica è soltanto parole su parole; e a che servono parole
+su parole come queste? A che serve dipingere a parole
+il buio [[Garden|giardino]] riempito d'improvviso di fiaccole e di volti furibondi?
+«Siete usciti con spade e bastoni come contro un brigante?
+Tutto il giorno sedevo nel vostro tempio a insegnare, e non mi prendeste.»
+Si può aggiungere qualcosa al massiccio e raccolto ritegno di quell'ironia,
+simile a una grande onda sollevata fino al cielo e che rifiuta di ricadere?
+«Figlie di Gerusalemme, non piangete per me, ma piangete per voi stesse e
+per i vostri figli.» Come il Sommo Sacerdote chiese quale ulteriore bisogno avesse
+di testimoni, così noi potremmo [[Well|ben]] chiederci quale ulteriore bisogno abbiamo di parole.
+Pietro in preda al panico lo rinnegò: «e subito il gallo cantò;
+e Gesù guardò Pietro, e Pietro uscì e pianse amaramente.»
+Ha qualcuno qualche ulteriore osservazione da offrire? Poco prima dell'assassinio egli pregò
+per tutta la razza omicida degli uomini, dicendo: «Non sanno quello che fanno»;
+c'è qualcosa da dire a ciò, se non che noi sappiamo altrettanto poco
+quello che diciamo? C'è bisogno di ripetere e dipanare la storia
+di come la [[Tragedy|tragedia]] si trascinò su per la Via Dolorosa e di come lo gettarono
+alla rinfusa insieme a due ladroni in una delle ordinarie infornate
+d'esecuzione; e di come, in tutto quell'orrore e quel deserto ululante di
+abbandono, una voce parlò in atto d'omaggio, una voce sorprendente dal luogo
+più impensato, la forca del criminale;
+ed egli disse a quel senza nome furfante: «Questa [[Night|notte]] tu sarai con me
+in Paradiso»? C'è qualcosa da mettere dopo di ciò se non un punto fermo?
+O v'è qualcuno pronto a rispondere adeguatamente a quel gesto d'addio
+a tutta la carne, che creò per sua Madre un nuovo Figlio?
+
+È più alla mia portata, e qui più immediatamente conforme al mio scopo,
+far notare che in quella scena erano simbolicamente raccolte tutte
+le forze umane che sono state vagamente abbozzate in questa storia.
+Come re e filosofi e l'elemento popolare erano stati
+simbolicamente presenti alla sua nascita, così furono più concretamente
+implicati nella sua [[Death|morte]]; e con ciò giungiamo faccia a faccia
+con il fatto essenziale da comprendere. Tutti i grandi gruppi
+che stavano intorno alla [[Cross|Croce]] rappresentano in un modo o nell'altro la grande
+[[Truth|verità]] storica di quel [[Time|tempo]]: che il mondo non poteva salvarsi da sé.
+L'uomo non poteva far di più. Roma e Gerusalemme e Atene e ogni altra
+cosa precipitavano come un mare mutato in una lenta cateratta.
+Esteriormente, invero, il mondo antico era ancora al suo apice;
+ed è sempre in quel momento che comincia la più intima debolezza.
+Ma per comprendere quella debolezza dobbiamo ripetere ciò che è stato detto
+più d'una volta: che non era la debolezza di una cosa in origine debole.
+Era, con ogni enfasi, la forza del mondo che si mutava
+in debolezza e la sapienza del mondo che si mutava in follia.

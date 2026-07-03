@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/innocence-(chesterton)">The Innocence of Father Brown</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/innocence/story_06_the_honour_of_israel_gow/part_01">‹ part 01</a><a class="ex-next" href="/testi/chesterton/atomized/innocence/story_06_the_honour_of_israel_gow/part_03">part 03 ›</a></div>
@@ -138,3 +140,138 @@ Snuff is the one great luxury of such Scotch shepherds;
 it's the one thing with which you can bribe them.
 They didn't have candlesticks because they didn't want them;
 they held the candles in their hands when they explored the caves."
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/innocence-(chesterton)">The Innocence of Father Brown</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/innocence/story_06_the_honour_of_israel_gow/part_01">‹ part 01</a><a class="ex-next" href="/testi/chesterton/atomized/innocence/story_06_the_honour_of_israel_gow/part_03">part 03 ›</a></div>
+</nav>
+
+# [[innocence]] — L’[[Honour|onore]] di Israel Gow (parte 2)
+
+«Posso capire che ci dovesse essere qualcosa di bizzarro in quell’uomo,
+o non si sarebbe sepolto vivo — né sarebbe stato tanto in fretta
+di seppellirsi da morto.  Ma che cosa vi fa pensare che fosse pazzia?»
+
+«Ebbene», disse Flambeau, «state solo a sentire l’elenco delle cose
+che il signor Craven ha trovato nella casa».
+
+«Ci vuole una candela», disse Craven all’improvviso.  «Si sta scatenando una tempesta,
+ed è troppo buio per leggere».
+
+«Avete trovato qualche candela», chiese Brown sorridendo, «tra le vostre stranezze?»
+
+Flambeau alzò un volto grave e fissò i suoi occhi scuri sull’amico.
+
+«Anche questo è curioso», disse.  «Venticinque candele,
+e non una traccia di candeliere».
+
+Nella stanza che si oscurava rapidamente e nel vento che rapidamente si levava, Brown percorse la
+tavola fino al punto in cui un fascio di candele di cera giaceva tra gli altri frammentari reperti.
+Nel far ciò si chinò per caso sopra il mucchio di polvere rosso-bruna;
+e un aspro starnuto ruppe il silenzio.
+
+«Ehilà!» disse, «tabacco da fiuto!»
+
+Prese una delle candele, la accese con cura, tornò indietro e la ficcò
+nel collo della bottiglia di whisky.  L’aria irrequieta della notte,
+soffiando attraverso la finestra sconnessa, faceva ondeggiare la lunga fiamma come una bandiera.
+E da ogni lato del castello si potevano udire le miglia e le miglia
+di nera pineta ribollire come un mare nero attorno a uno scoglio.
+
+«Leggerò l’inventario», cominciò Craven con gravità, prendendo uno
+dei fogli, «l’inventario di ciò che abbiamo trovato sparso e inspiegato
+nel castello.  Dovete sapere che il luogo, in generale,
+era smantellato e trascurato; ma una o due stanze erano state chiaramente
+abitate da qualcuno, in uno stile semplice ma non squallido;
+qualcuno che non era il servitore Gow.  L’elenco è il seguente:
+
+«Primo articolo.  Un tesoro assai considerevole di pietre preziose,
+quasi tutte diamanti, e tutte quante sciolte, prive di qualsiasi montatura.
+Naturalmente è normale che gli Ogilvie avessero gioielli di famiglia;
+ma quelle sono precisamente le gemme che si trovano quasi sempre incastonate in particolari
+oggetti d’ornamento.  Gli Ogilvie parrebbero aver tenuto le loro
+sciolte in tasca, come monetine di rame.
+
+«Secondo articolo.  Mucchi e mucchi di tabacco da fiuto sciolto, non tenuto in un corno,
+e nemmeno in una borsetta, ma sparso in mucchi sulle mensole dei camini, sulla credenza,
+sul pianoforte, dovunque.  Sembra che il vecchio gentiluomo non volesse prendersi
+il disturbo di frugare in tasca o di sollevare un coperchio.
+
+«Terzo articolo.  Qua e là per la casa, curiosi mucchietti
+di minuti pezzi di metallo, alcuni simili a molle d’acciaio e altri a forma
+di microscopiche ruote.  Come se avessero sventrato qualche giocattolo meccanico.
+
+«Quarto articolo.  Le candele di cera, che si devono ficcare nei colli delle bottiglie
+perché non c’è nient’altro in cui infilarle.  Ora vorrei che notaste
+quanto tutto questo sia molto più bizzarro di qualunque cosa avevamo previsto.
+All’enigma centrale siamo preparati; abbiamo tutti visto a
+colpo d’occhio che c’era qualcosa che non andava nell’ultimo conte.
+Siamo venuti qui per scoprire se davvero abitasse qui,
+se davvero morisse qui, se quello spauracchio dai capelli rossi
+che gli fece da becchino avesse qualcosa a che fare con la sua morte.
+Ma supponete il peggio in tutto ciò, la soluzione più truce o melodrammatica
+che vi piaccia.  Supponete che il servitore abbia davvero ucciso il padrone,
+oppure che il padrone non sia davvero morto, oppure che il padrone
+si travesta da servitore, oppure che il servitore sia sepolto
+al posto del padrone; inventate quale tragedia di Wilkie Collins vi pare,
+e ancora non avrete spiegato una candela senza candeliere,
+né perché un anziano gentiluomo di buona famiglia debba abitualmente
+rovesciare tabacco da fiuto sul pianoforte.  Il nocciolo del racconto potremmo immaginarlo;
+sono i margini a essere misteriosi.  Per quanto si sforzi la fantasia,
+la mente umana non riesce a collegare fra loro tabacco e diamanti e cera
+e ingranaggi sciolti».
+
+«Credo di vedere il collegamento», disse il prete.
+«Questo Glengyle era pazzo contro la Rivoluzione francese.  Era
+un entusiasta dell’ancien régime, e cercava di ricostruire
+alla lettera la vita familiare degli ultimi Borbone.  Aveva tabacco da fiuto
+perché era il lusso del diciottesimo secolo; candele di cera,
+perché erano l’illuminazione del diciottesimo secolo; i pezzetti
+meccanici di ferro rappresentano l’hobby del fabbro di Luigi XVI;
+i diamanti sono per la Collana di Diamanti di Maria Antonietta».
+
+Gli altri due lo fissavano con occhi tondi.
+«Che idea assolutamente straordinaria!» gridò Flambeau.  «Credete
+davvero che sia la verità?»
+
+«Sono perfettamente sicuro che non lo sia», rispose Padre Brown, «solo che voi
+avete detto che nessuno poteva collegare tabacco e diamanti e ingranaggi
+e candele.  Ve lo do io, il collegamento, così su due piedi.  La vera verità,
+ne sono ben certo, giace più in profondità».
+
+Fece una pausa e ascoltò il gemito del vento nelle
+torrette.  Poi disse: «Il defunto conte di Glengyle era un ladro.
+Viveva una seconda e più oscura vita come disperato scassinatore.
+Non aveva candelieri perché usava soltanto queste
+candele tagliate corte nella piccola lanterna che portava con sé.  Il tabacco da fiuto
+lo impiegava come i più feroci criminali francesi hanno usato il pepe:
+per gettarlo all’improvviso in dense nuvole in faccia a chi lo catturava o lo inseguiva.
+Ma la prova definitiva sta nella curiosa coincidenza dei diamanti
+e delle piccole ruote d’acciaio.  Non vi rende tutto chiaro, di certo?
+Diamanti e piccole ruote d’acciaio sono i due soli strumenti
+con cui si possa ritagliare una lastra di vetro».
+
+Il ramo di un pino spezzato sferzò pesantemente nella raffica contro
+il vetro della finestra alle loro spalle, come in parodia di uno scassinatore, ma essi
+non si voltarono.  I loro occhi erano fissi su Padre Brown.
+
+«Diamanti e piccole ruote», ripeté Craven meditando.
+«È tutto qui ciò che vi fa credere che sia la spiegazione vera?»
+
+«Non credo che sia la spiegazione vera», rispose il prete placidamente;
+«ma voi avete detto che nessuno poteva collegare le quattro cose.
+Il racconto vero, naturalmente, è qualcosa di assai più prosaico.
+Glengyle aveva trovato, o creduto di trovare, pietre preziose
+nella sua tenuta.  Qualcuno lo aveva imbrogliato con quei
+brillanti sciolti, dicendo che erano stati trovati nelle caverne del castello.
+Le piccole ruote sono qualche arnese da taglio dei diamanti.
+Doveva fare la cosa molto rozzamente e in piccolo,
+con l’aiuto di qualche pastore o di qualche zotico di queste colline.
+Il tabacco da fiuto è il grande lusso di simili pastori scozzesi;
+è l’unica cosa con cui si possano corrompere.
+Non avevano candelieri perché non ne volevano;
+tenevano le candele in mano quando esploravano le caverne».

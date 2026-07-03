@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/ortho14-(chesterton)">Orthodoxy</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/ortho14/story_06_iv_the_ethics_of_elfland/part_11">‹ part 11</a><a class="ex-next" href="/testi/chesterton/atomized/ortho14/story_06_iv_the_ethics_of_elfland/part_13">part 13 ›</a></div>
@@ -109,3 +111,110 @@ the scale of things, but only the original secret of their design.
 He can shake his [[Sword|sword]] at the dragon, even if it is everything;
 even if the empty heavens over his head are only the huge arch of
 its open jaws.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/ortho14-(chesterton)">Orthodoxy</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/ortho14/story_06_iv_the_ethics_of_elfland/part_11">‹ part 11</a><a class="ex-next" href="/testi/chesterton/atomized/ortho14/story_06_iv_the_ethics_of_elfland/part_13">part 13 ›</a></div>
+</nav>
+
+# [[ortho14]] — L'etica del paese delle fate (parte 12)
+
+Nondimeno, sarà [[Well|meglio]] che [[Jones]] non adori il sole e la
+[[Moon|luna]].  Se lo fa, in lui si desta la tendenza a imitarli; a dire che,
+poiché il sole brucia vivi gli [[Insects|insetti]], anch'egli può bruciare vivi
+gli [[Insects|insetti]].  Egli pensa che, poiché il sole procura alla gente
+l'insolazione, egli possa attaccare il morbillo al vicino.  Pensa che,
+poiché si dice che la [[Moon|luna]] faccia impazzire gli uomini, egli possa far
+impazzire la moglie.  Questo lato sgradevole del puro ottimismo esteriore si era
+manifestato anche nel mondo antico.  Verso il [[Time|tempo]] in cui l'idealismo
+stoico aveva cominciato a mostrare le debolezze del pessimismo, l'antico culto
+della [[Nature|natura]] presso gli antichi aveva cominciato a mostrare le enormi
+debolezze dell'ottimismo.  Il culto della [[Nature|natura]] è abbastanza naturale
+finché la società è giovane, ossia, in altre parole, il Panteismo va benissimo
+finché è il culto di Pan.  Ma la [[Nature|natura]] ha un altro lato che
+l'esperienza e il peccato non tardano a scoprire, e non è una frivolezza dire del
+dio Pan che ben presto mostrò lo zoccolo forcuto.  L'unica obiezione alla
+Religione Naturale è che, chissà come, essa diventa sempre innaturale.  Un uomo
+ama la [[Nature|natura]] al mattino per la sua [[innocence|innocenza]] e la sua
+amabilità, e sul far della notte, se ancora l'ama, l'ama per le sue tenebre e la
+sua crudeltà.  All'[[Dawn|alba]] si lava in [[Water|acqua]] limpida come faceva il
+Saggio degli Stoici, eppure, chissà come, nel cupo declinare del giorno, si bagna
+nel caldo [[Blood|sangue]] di toro, come faceva Giuliano l'Apostata.  La sola
+ricerca della salute conduce sempre a qualcosa di malsano.  La [[Nature|natura]]
+fisica non deve essere fatta oggetto diretto di obbedienza; deve essere goduta,
+non adorata.  Le [[Stars|stelle]] e le [[Mountains|montagne]] non vanno prese sul
+serio.  Se lo si fa, si finisce dove finì il culto pagano della [[Nature|natura]].
+Poiché la terra è benigna, possiamo imitare tutte le sue crudeltà.  Poiché la
+[[Sexuality|sessualità]] è sana, possiamo tutti impazzire per la
+[[Sexuality|sessualità]].  Il puro ottimismo aveva raggiunto la sua folle e
+appropriata conclusione.  La teoria che tutto fosse buono era diventata un'orgia
+di tutto ciò che era cattivo.
+
+     Dall'altro versante i nostri idealisti pessimisti erano rappresentati
+dall'antico residuo degli Stoici.  Marco Aurelio e i suoi amici avevano davvero
+abbandonato l'idea di un qualche dio nell'universo e guardavano soltanto al dio
+interiore.  Non nutrivano alcuna [[Hope|speranza]] di virtù nella
+[[Nature|natura]], e quasi nessuna [[Hope|speranza]] di virtù nella società.
+Non avevano interesse sufficiente per il mondo esterno da volerlo davvero
+distruggere o rivoluzionare.  Non [[Love|amavano]] la [[City|città]] abbastanza da darle
+[[Fire|fuoco]].  Così il mondo antico si trovava esattamente nel nostro medesimo
+desolato dilemma.  Le uniche persone che godevano davvero di questo mondo erano
+affaccendate a distruggerlo; e le persone virtuose non si curavano di loro
+abbastanza da abbatterle.  In questo dilemma (il medesimo del nostro) il
+[[Christianity|Cristianesimo]] fece all'improvviso il suo ingresso e offrì una
+risposta singolare, che il mondo alla fine accettò come LA risposta.  Era la
+risposta allora, e credo sia la risposta anche adesso.
+
+     Questa risposta fu come il fendente di una [[Sword|spada]]; separò; non unì
+in alcun senso sentimentalmente.  In breve, divise Dio dal cosmo.  Quella
+trascendenza e distinzione della divinità che alcuni cristiani ora vogliono
+togliere dal [[Christianity|Cristianesimo]] era in realtà l'unica ragione per cui
+qualcuno desiderava essere cristiano.  Era l'intero punto della risposta cristiana
+all'infelice pessimista e all'ancor più infelice ottimista.  Poiché qui mi occupo
+soltanto del loro particolare problema, indicherò solo brevemente questa grande
+suggestione metafisica.  Tutte le descrizioni del principio che crea o sostiene le
+cose devono essere metaforiche, perché devono essere verbali.  Così il panteista è
+costretto a parlare di Dio in tutte le cose come se egli fosse dentro una scatola.
+Così l'evoluzionista ha, nel suo stesso nome, l'idea di essere srotolato come un
+tappeto.  Tutti i termini, religiosi e irreligiosi, sono esposti a questa accusa.
+L'unica questione è se tutti i termini siano inutili, oppure se con una tale frase
+si possa abbracciare una precisa IDEA sull'origine delle cose.  Io credo che si
+possa, e così evidentemente crede l'evoluzionista, altrimenti non parlerebbe di
+evoluzione.  E la frase radice di ogni teismo cristiano era questa: che Dio era un
+creatore, come un [[artist|artista]] è un creatore.  Un poeta è tanto separato dal
+suo poema da parlarne egli stesso come di una cosetta che ha «buttato giù».  Perfino
+nel darlo alla luce lo ha scagliato via.  Questo principio, che ogni creazione e
+[[Procreation|procreazione]] è un distacco, è coerente attraverso il cosmo almeno
+quanto il principio evoluzionistico secondo cui ogni crescita è un ramificarsi.
+Una donna perde un [[Child|figlio]] proprio nell'avere un [[Child|figlio]].  Ogni
+creazione è separazione.  La nascita è un commiato solenne quanto la
+[[Death|morte]].
+
+     Era il primo principio filosofico del [[Christianity|Cristianesimo]] che
+questo [[divorce|divorzio]] nell'atto divino del fare (tale da separare il poeta
+dal poema o la madre dal [[Child|figlio]] appena nato) fosse la vera descrizione
+dell'atto con cui l'energia assoluta fece il mondo.  Secondo la maggior parte dei
+filosofi, Dio nel fare il mondo lo rese schiavo.  Secondo il
+[[Christianity|Cristianesimo]], nel farlo, lo rese libero.  Dio aveva scritto non
+tanto un poema, quanto piuttosto un dramma; un dramma che aveva concepito come
+perfetto, ma che necessariamente era stato lasciato ad attori e direttori di scena
+umani, i quali da allora ne hanno fatto un gran pasticcio.  Discuterò più avanti la
+[[Truth|verità]] di questo teorema.  Qui devo soltanto far notare con quale
+sorprendente scioltezza esso superò il dilemma di cui abbiamo discusso in questo
+capitolo.  In questo modo si poteva almeno essere insieme felici e indignati senza
+degradare il proprio [[Self|io]] a diventare pessimista oppure ottimista.  Con
+questo sistema si potevano combattere tutte le forze dell'esistenza senza
+disertare la [[Flag|bandiera]] dell'esistenza.  Si poteva essere in pace con
+l'universo e tuttavia in guerra col mondo.  San Giorgio poteva ancora combattere
+il drago, per quanto grande il [[Monster|mostro]] si stagliasse nel cosmo, fosse
+pure più grande delle possenti città o più grande dei colli eterni.  Se anche
+fosse stato grande quanto il mondo, poteva pur sempre essere ucciso nel nome del
+mondo.  San Giorgio non doveva considerare alcuna evidente sproporzione o
+disparità nella scala delle cose, ma soltanto il segreto originario del loro
+disegno.  Egli può brandire la [[Sword|spada]] contro il drago, anche se esso è
+ogni cosa; anche se i cieli vuoti sopra il suo capo non sono che l'enorme arcata
+delle sue fauci spalancate.

@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/wifrb11-(chesterton)">The Wisdom of Father Brown</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/wifrb11/story_01_the_absence_of_mr_glass/part_05">‹ part 05</a><a class="ex-next" href="/testi/chesterton/atomized/wifrb11/story_02_the_paradise_of_thieves/part_02">part 02 ›</a></div>
@@ -128,3 +130,52 @@ to want it."
 
      "I'm stupid enough for that," said Ezza gloomily.  "But I should
 suggest a suspension of your critique of the banker, for here he comes."
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/wifrb11-(chesterton)">The Wisdom of Father Brown</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/wifrb11/story_01_the_absence_of_mr_glass/part_05">‹ part 05</a><a class="ex-next" href="/testi/chesterton/atomized/wifrb11/story_02_the_paradise_of_thieves/part_02">part 02 ›</a></div>
+</nav>
+
+# [[wifrb11]] — Il paradiso dei ladri (parte 1)
+
+                        Il Paradiso dei Ladri
+
+IL grande Muscari, il più originale fra i giovani poeti toscani, entrò con passo svelto nel suo ristorante prediletto, che dominava il Mediterraneo, era riparato da un tendone e recintato da piccoli alberi di limoni e d'aranci. Camerieri dai grembiuli bianchi disponevano già sui tavoli candidi le insegne di un pranzo mattutino ed elegante; e ciò pareva accrescere una soddisfazione che già rasentava il colmo della spavalderia. Muscari aveva un naso d'aquila come [[Dante]]; i capelli e il fazzoletto al collo erano scuri e fluenti; portava un mantello nero, e avrebbe potuto quasi portare una maschera nera, tanto recava con sé una sorta di [[Melodrama|melodramma]] veneziano. Si comportava come se il trovatore avesse ancora un preciso ufficio sociale, al pari di un vescovo. Andava tanto vicino quanto il suo secolo consentiva al camminare per il mondo alla lettera come Don Giovanni, con lo spadino e la chitarra.
+
+     Poiché non viaggiava mai senza un astuccio di spade, con le quali aveva combattuto molti brillanti duelli, né senza un astuccio corrispondente per il suo mandolino, con il quale aveva davvero portato una serenata a Miss Ethel Harrogate, la figlia oltremodo convenzionale di un banchiere dello Yorkshire in villeggiatura. Eppure non era né un ciarlatano né un [[Child|fanciullo]]; ma un latino ardente e logico, che amava una certa cosa ed era quella cosa. La sua poesia era diretta quanto la prosa di chiunque altro. Desiderava la fama o il vino o la [[Beauty|bellezza]] delle donne con una torrida immediatezza inconcepibile fra i nebulosi ideali o i nebulosi compromessi del nord; a razze più indistinte la sua intensità sapeva di pericolo o addirittura di delitto. Come il [[Fire|fuoco]] o il mare, era troppo semplice perché ci si potesse fidare.
+
+     Il banchiere e la sua bella figlia inglese alloggiavano nell'albergo annesso al ristorante di Muscari; ecco perché era il suo ristorante prediletto. Un'occhiata lanciata per la sala gli disse tuttavia all'istante che la comitiva inglese non era ancora scesa. Il ristorante era scintillante, ma ancora relativamente vuoto. Due preti conversavano a un tavolo in un angolo, ma Muscari (cattolico ardente) non vi badò più di quanto avrebbe badato a un paio di cornacchie. Ma da un posto ancora più lontano, in parte celato dietro un albero [[Dwarf|nano]] dorato d'arance, si [[Rose|levò]] e avanzò verso il poeta una persona il cui abbigliamento era il più aggressivamente opposto al suo.
+
+     Questa figura era vestita di un tweed a quadri pezzati, con una cravatta rosa, un colletto rigido e sporgenti stivali gialli. Riusciva, nella genuina tradizione di 'Arry a Margate, ad apparire nel medesimo tempo sconcertante e volgare. Ma via via che l'apparizione cockney si avvicinava, Muscari fu stupefatto di osservare che la testa era nettamente diversa dal [[Body|corpo]]. Era una testa italiana: crespa, bruna e vivacissima, che si [[Rose|ergeva]] di colpo dal colletto ritto come cartone e dalla comica cravatta rosa. Era anzi una testa che conosceva. La riconobbe, al di sopra di tutta la funesta impalcatura dell'abbigliamento vacanziero inglese, come il volto di un vecchio ma dimenticato amico di nome Ezza. Questo giovane era stato un prodigio al collegio, e gli si prometteva fama europea quando aveva appena quindici anni; ma quando comparve nel mondo fallì, prima pubblicamente come drammaturgo e demagogo, poi privatamente per anni interi come attore, viaggiatore, agente di commercio o giornalista. Muscari lo aveva conosciuto l'ultima volta dietro le luci della ribalta; era fin troppo [[Well|bene]] intonato alle eccitazioni di quella professione, e si credeva che qualche calamità morale lo avesse inghiottito.
+
+     «Ezza!» esclamò il poeta, alzandosi e stringendogli la mano con piacevole stupore. «[[Well|Ebbene]], ti ho visto in molti costumi nel camerino; ma non mi sarei mai aspettato di vederti agghindato da inglese.»
+
+     «Questo,» rispose Ezza con gravità, «non è il costume di un inglese, ma dell'italiano del futuro.»
+
+     «In tal caso,» osservò Muscari, «confesso di preferire l'italiano del passato.»
+
+     «Questo è il tuo vecchio errore, Muscari,» disse l'uomo in tweed, scuotendo il capo; «ed è l'errore dell'[[Italy|Italia]]. Nel Cinquecento noi toscani facevamo il mattino: avevamo l'acciaio più nuovo, l'intaglio più nuovo, la chimica più nuova. Perché non dovremmo avere ora le fabbriche più nuove, i motori più nuovi, la finanza più nuova... gli abiti più nuovi?»
+
+     «Perché non vale la pena di averli,» rispose Muscari. «Non si possono rendere gli italiani veramente progressisti; sono troppo intelligenti. Gli uomini che vedono la scorciatoia per il buon vivere non passeranno mai per le nuove e complicate strade.»
+
+     «[[Well|Ebbene]], per me Marconi, o D'Annunzio, è la stella d'[[Italy|Italia]],» disse l'altro. «Ecco perché sono diventato futurista... e corriere.»
+
+     «Un corriere!» esclamò Muscari, ridendo. «È questo l'ultimo della tua lista di mestieri? E chi stai accompagnando?»
+
+     «Oh, un tale di nome Harrogate, e la sua famiglia, credo.»
+
+     «Non il banchiere di questo albergo?» domandò il poeta, con una certa premura.
+
+     «È lui,» rispose il corriere.
+
+     «Rende [[Well|bene]]?» chiese il trovatore con innocenza.
+
+     «Renderà a me,» disse Ezza, con un sorriso quanto mai enigmatico. «Ma sono un corriere di specie piuttosto curiosa.» Poi, come mutando argomento, aggiunse bruscamente: «Ha una figlia... e un figlio.»
+
+     «La figlia è divina,» affermò Muscari, «il padre e il figlio sono, suppongo, umani. Ma pur concedendogli le sue innocue qualità, non ti pare che quel banchiere sia uno splendido esempio della mia tesi? Harrogate ha milioni nelle sue casseforti, e io ho... il buco nella tasca. Ma non oseresti dire... non puoi dire... che sia più ingegnoso di me, o più audace di me, o anche solo più energico. Non è ingegnoso, ha occhi come bottoni azzurri; non è energico, si sposta di sedia in sedia come un paralitico. È un vecchio zuccone coscienzioso e benevolo; ma ha denaro semplicemente perché colleziona denaro, come un ragazzo colleziona francobolli. Sei troppo di carattere per gli affari, Ezza. Non farai strada. Per essere abbastanza abili da mettere insieme tutto quel denaro, bisogna essere abbastanza stupidi da desiderarlo.»
+
+     «Io sono abbastanza stupido per questo,» disse Ezza cupo. «Ma suggerirei di sospendere la tua critica al banchiere, perché eccolo che arriva.»

@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/everlasting-man-(chesterton)">The Everlasting Man</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/everlasting_man/chapter_02/part_07">‹ part 07</a><a class="ex-next" href="/testi/chesterton/atomized/everlasting_man/chapter_02/part_09">part 09 ›</a></div>
@@ -115,3 +117,114 @@ not begin the art of representation and a man carry it to perfection.
 A monkey does not do it at all; he does not begin to do it at all;
 he does not begin to begin to do it at all.  A line of some kind
 is crossed before the first faint line can begin.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/everlasting-man-(chesterton)">The Everlasting Man</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/everlasting_man/chapter_02/part_07">‹ part 07</a><a class="ex-next" href="/testi/chesterton/atomized/everlasting_man/chapter_02/part_09">part 09 ›</a></div>
+</nav>
+
+In questo [[Sketch|abbozzo]], dunque, dell'uomo nella sua relazione con certi
+problemi religiosi e storici, non sprecherò altro spazio
+in queste speculazioni sulla [[Nature|natura]] dell'uomo prima che divenisse uomo.
+Il suo [[Body|corpo]] può bene essersi evoluto dalle bestie; ma non sappiamo nulla
+di alcuna simile transizione che getti il più piccolo barlume di luce sulla sua
+[[Soul|anima]] quale si è manifestata nella [[history|storia]].  Purtroppo la medesima
+scuola di scrittori insegue il medesimo stile di ragionamento quando
+giunge alla prima prova reale intorno ai primi uomini reali.
+A rigor di termini, naturalmente, dell'uomo preistorico non sappiamo nulla,
+per la semplice ragione che era preistorico.  La [[history|storia]] dell'uomo preistorico
+è una assai evidente contraddizione in termini.  È quella sorta
+di sragionatezza che soltanto ai razionalisti è concesso concedersi.
+Se un parroco osservasse con noncuranza che il Diluvio fu antidiluviano,
+è possibile che verrebbe un poco canzonato per la sua [[logic|logica]].
+Se un vescovo dicesse che Adamo era preadamitico, potremmo trovarlo
+un tantino bizzarro.  Ma non ci è dato accorgerci di simili
+inezie verbali quando storici scettici parlano di quella parte della [[history|storia]] che
+è preistorica.  La [[Truth|verità]] è che essi adoperano i termini storico
+e preistorico senza alcun chiaro criterio o definizione nella mente.
+Ciò che intendono è che vi sono tracce di vite umane prima
+del principio delle storie umane; e in tal senso almeno noi
+sappiamo che l'umanità esisteva prima della [[history|storia]].
+
+La civiltà umana è più antica dei documenti umani.  Questo è
+il modo assennato di enunciare le nostre relazioni con queste cose remote.
+L'umanità ha lasciato esempi delle sue altre arti prima dell'arte
+dello scrivere; o almeno di qualunque scrittura che noi sappiamo leggere.
+Ma è certo che le arti primitive erano arti;
+ed è in ogni modo probabile che le civiltà primitive
+fossero civiltà.  L'uomo lasciò un'immagine della renna,
+ma non lasciò un racconto di come cacciasse la renna;
+e perciò quel che diciamo di lui è ipotesi e non [[history|storia]].
+Ma l'arte che egli praticò era quanto mai artistica; il suo disegno era quanto mai
+intelligente e non v'è ragione di [[Doubt|dubitare]] che il suo racconto della caccia
+sarebbe stato quanto mai intelligente, senonché, se esiste, non è intelligibile.
+In breve, il periodo preistorico non deve significare il periodo primitivo,
+nel senso del periodo barbarico o bestiale.  Non significa
+il [[Time|tempo]] prima della civiltà o il [[Time|tempo]] prima delle arti e dei mestieri.
+Significa semplicemente il [[Time|tempo]] prima di qualunque racconto connesso che noi
+sappiamo leggere.  Ciò fa davvero tutta la pratica differenza
+tra il ricordo e l'oblio; ma è perfettamente possibile
+che vi fossero ogni sorta di forme dimenticate di civiltà,
+come [[Well|pure]] ogni sorta di forme dimenticate di barbarie.  E in ogni caso
+ogni cosa indicava che molti di questi stadi sociali dimenticati o mezzo dimenticati
+erano assai più civili e assai meno barbarici
+di quanto oggi volgarmente si immagini.  Ma anche intorno a queste non scritte
+storie dell'umanità, quando l'umanità era di certo pienamente umana,
+non possiamo che congetturare con il più grande [[Doubt|dubbio]] e con la più grande cautela.
+E purtroppo il [[Doubt|dubbio]] e la cautela sono le ultime cose che comunemente
+vengano incoraggiate dal fiacco evoluzionismo della cultura corrente.
+Poiché quella cultura è colma di curiosità; e l'unica cosa che essa non può
+sopportare è l'angoscia dell'agnosticismo.  Fu nell'età darwiniana
+che la parola divenne per la prima volta nota e la cosa divenne per la prima volta impossibile.
+
+È necessario dire schiettamente che tutta questa ignoranza è
+semplicemente coperta dalla sfrontatezza.  Le affermazioni si fanno tanto schiettamente
+e positivamente che gli uomini a stento hanno il morale [[Courage|coraggio]]
+di soffermarvisi e di scoprire che sono prive di sostegno.
+L'altro giorno un compendio scientifico sullo stato di una tribù
+preistorica cominciava fiducioso con le parole «Non portavano vestiti».
+Non un lettore su cento, probabilmente, si fermò a domandarsi come
+dovremmo giungere a sapere se un tempo i vestiti fossero stati portati da gente
+di cui tutto è perito eccetto pochi frammenti d'osso e di pietra.
+Si sperava senza dubbio che avremmo trovato un cappello di pietra come [[Well|pure]]
+un'accetta di pietra.  Si prevedeva evidentemente che noi
+si potesse scoprire un eterno paio di calzoni della medesima
+sostanza dell'eterna roccia.  Ma alle persone di temperamento meno
+sanguigno apparirà immediatamente evidente che la gente
+poteva bene portare vesti semplici, o anche vesti riccamente ornate,
+senza lasciarne più tracce di quante ne abbia lasciate questa gente.
+L'intreccio di giunchi e di erbe, per esempio, potrebbe essere divenuto
+sempre più elaborato senza per questo divenire punto più eterno.
+Una civiltà potrebbe specializzarsi in cose che si dà il caso
+siano deperibili, come la tessitura e il ricamo, e non in cose
+che si dà il caso siano più durevoli, come l'architettura e la scultura.
+Vi sono stati esempi in abbondanza di simili società specialiste.
+Un uomo del futuro che trovasse le rovine dei macchinari delle nostre fabbriche
+potrebbe con altrettanta imparzialità dire che noi conoscevamo il ferro e nessun'altra
+sostanza; e annunciare la scoperta che il proprietario
+e direttore della fabbrica indubbiamente andava attorno nudo —
+o forse portava cappello e calzoni di ferro.
+
+Non si sostiene qui che questi uomini primitivi portassero
+vestiti, non più di quanto intrecciassero giunchi; ma soltanto che noi
+non abbiamo prove sufficienti per sapere se lo facessero o no.
+Ma può valere la pena di volgere per un momento lo sguardo ad alcune
+delle pochissime cose che sappiamo e che essi facevano.
+Se le consideriamo, non le troveremo di certo incompatibili
+con idee quali l'abito e l'ornamento.  Non sappiamo se
+adornassero altre cose.  Non sappiamo se
+avessero ricami, e se li avevano i ricami non ci si potrebbe
+attendere che fossero rimasti.  Ma sappiamo che avevano immagini;
+e le immagini sono rimaste.  E con esse rimane,
+come già s'è suggerito, la testimonianza di qualcosa che è assoluto
+e unico; che appartiene all'uomo e a null'altro se non all'uomo;
+che è una differenza di genere e non una differenza di grado.
+Una scimmia non disegna goffamente e un uomo abilmente; una scimmia non
+comincia l'arte della rappresentazione e un uomo la porta alla perfezione.
+Una scimmia non lo fa affatto; non comincia affatto a farlo;
+non comincia affatto a cominciare a farlo.  Una linea di qualche specie
+è varcata prima che la prima debole linea possa cominciare.

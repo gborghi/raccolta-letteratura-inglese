@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/ortho14-(chesterton)">Orthodoxy</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/ortho14/story_08_ix_authority_and_the_adventurer/part_01">‹ part 01</a><a class="ex-next" href="/testi/chesterton/atomized/ortho14/story_08_ix_authority_and_the_adventurer/part_03">part 03 ›</a></div>
@@ -116,3 +118,116 @@ a superhuman [[Paradox|paradox]] whereby two opposite passions may blaze
 beside each other.  The one explanation of the Gospel language
 that does explain it, is that it is the survey of one who
 from some [[Supernatural|supernatural]] height beholds some more startling synthesis.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/ortho14-(chesterton)">Orthodoxy</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/ortho14/story_08_ix_authority_and_the_adventurer/part_01">‹ part 01</a><a class="ex-next" href="/testi/chesterton/atomized/ortho14/story_08_ix_authority_and_the_adventurer/part_03">part 03 ›</a></div>
+</nav>
+
+# [[ortho14]] — L'autorità e l'avventuriero (parte 2)
+
+Lo stesso accadrebbe se esaminassi il secondo dei tre
+argomenti razionalisti presi a caso: l'argomento secondo cui tutto ciò che chiamiamo divino
+ebbe origine in qualche tenebra e in qualche terrore.  Quando tentai davvero di esaminare
+i fondamenti di questa idea moderna, scoprii semplicemente che non ce n'erano.
+La scienza non sa proprio nulla dell'uomo preistorico;
+per l'eccellente ragione che egli è preistorico.  Alcuni professori
+scelgono di congetturare che pratiche come il sacrificio umano fossero un tempo
+[[Innocent|innocenti]] e generali e che a poco a poco si siano estinte; ma non ve n'è
+alcuna prova diretta, e il poco di prova indiretta
+va assai piuttosto nel senso opposto.  Nelle più antiche leggende che possediamo,
+quali i racconti di Isacco e di Ifigenia, il sacrificio umano
+non è introdotto come qualcosa di antico, bensì come qualcosa di nuovo;
+come un'eccezione strana e spaventosa, cupamente pretesa dagli dèi.
+La [[history|storia]] non dice nulla; e le leggende dicono tutte che la terra era più benigna
+nel suo primo [[Time|tempo]].  Non esiste una tradizione del progresso;
+ma l'intera razza umana ha una tradizione della Caduta.  Cosa abbastanza divertente,
+in verità, la diffusione stessa di questa idea viene usata contro la sua autenticità.
+Uomini dotti dicono, alla lettera, che questa preistorica calamità non può
+essere vera proprio perché ogni razza dell'umanità la ricorda.  Non riesco a tenere il passo
+con questi paradossi.
+
+     E se prendessimo il terzo esempio scelto a caso, sarebbe lo stesso;
+la tesi secondo cui i preti oscurano e inaspriscono il mondo.  Io guardo il mondo
+e scopro semplicemente che non lo fanno.  Quei paesi d'Europa
+che sono ancora influenzati dai preti sono esattamente i paesi
+dove ancora si canta e si danza e si portano vesti variopinte e
+si fa arte all'aria aperta.  La dottrina e la disciplina cattoliche saranno pure mura;
+ma sono le mura di un cortile di giochi.  Il [[Christianity|Cristianesimo]] è
+l'unica cornice che abbia conservato il piacere del Paganesimo.
+Potremmo immaginare dei bambini che giocano sulla cima piatta ed erbosa di qualche
+alta isola in mezzo al mare.  Finché c'era un muro intorno
+all'orlo del precipizio, potevano gettarsi in ogni gioco più sfrenato
+e fare di quel luogo la più chiassosa delle nursery.  Ma le mura
+furono abbattute, lasciando scoperto il nudo pericolo del baratro.
+Non caddero giù; ma quando i loro amici tornarono da loro
+li trovarono tutti rannicchiati per il terrore al centro dell'isola;
+e il loro [[Song|canto]] era cessato.
+
+     Così questi tre fatti dell'esperienza, i fatti stessi che concorrono a fare
+un agnostico, sono, in questa prospettiva, capovolti del tutto.  Mi ritrovo a dire:
+«Datemi una spiegazione, primo, della torreggiante eccentricità dell'uomo
+tra i bruti; secondo, della vasta tradizione umana di
+un'antica felicità; terzo, della parziale perpetuazione di
+tale gioia pagana nei paesi della [[Catholic Church|Chiesa Cattolica]]».
+Una spiegazione, in ogni caso, le copre tutte e tre: la teoria secondo cui
+per due volte l'[[Natural Order|ordine naturale]] fu interrotto da qualche esplosione o
+rivelazione come quelle che oggi si chiamano «psichiche».  Una volta il Cielo scese
+sulla terra con una potenza o un sigillo detto immagine di Dio,
+per cui l'uomo prese il comando della [[Nature|Natura]]; e ancora una volta (quando in impero
+dopo impero gli uomini erano stati trovati manchevoli) il Cielo venne a salvare l'umanità
+nella tremenda forma di un uomo.  Questo spiegherebbe perché la massa degli uomini
+guardi sempre indietro; e perché l'unico angolo in cui in qualche senso
+guardano avanti è quel piccolo continente dove [[Christ|Cristo]] ha la Sua Chiesa.
+So che mi si dirà che il Giappone è diventato progressista.
+Ma come può essere questa una risposta se persino nel dire «il Giappone è
+diventato progressista» noi in realtà intendiamo soltanto «il Giappone è diventato europeo»?
+Ma qui desidero insistere non tanto sulla mia spiegazione quanto insistere
+sulla mia osservazione iniziale.  Concordo con l'ordinario uomo miscredente
+della strada nel lasciarmi guidare da tre o quattro fatti bizzarri
+che tutti additano qualcosa; solo che, quando venni a guardare i fatti,
+scoprii sempre che essi additavano qualcos'altro.
+
+     Ho fornito una triade immaginaria di simili ordinari argomenti anticristiani;
+se questa base fosse troppo angusta, ne fornirò lì per lì un'altra.
+Sono questi i generi di pensieri che, combinati, creano l'impressione
+che il [[Christianity|Cristianesimo]] sia qualcosa di debole e malato.  Primo, per esempio,
+che Gesù fosse una creatura mite, pecorile e non mondana,
+un mero e inefficace appello al mondo; secondo, che il [[Christianity|Cristianesimo]] sorse
+e fiorì nei secoli bui dell'ignoranza, e che a questi la Chiesa
+vorrebbe trascinarci indietro; terzo, che le genti ancora fortemente religiose o
+(se volete) superstiziose — genti come gli Irlandesi — siano deboli,
+poco pratiche e in ritardo sui tempi.  Menziono queste idee
+soltanto per affermare la medesima cosa: che, quando le esaminai in modo indipendente,
+trovai, non che le conclusioni fossero antifilosofiche, ma semplicemente
+che i fatti non erano fatti.  Invece di guardare libri e quadri
+sul Nuovo Testamento, guardai il Nuovo Testamento.  Vi trovai
+un resoconto, non di certo di una persona con i capelli spartiti
+nel mezzo o le mani giunte in preghiera, bensì di un essere straordinario
+dalle labbra di tuono e dagli atti di lurida risolutezza, che rovescia le tavole,
+scaccia i demòni, passa con la selvaggia segretezza del [[Wind|vento]]
+dall'isolamento della montagna a una sorta di terribile demagogia;
+un essere che spesso agiva come un dio adirato — e sempre come un dio.
+[[Christ|Cristo]] aveva perfino uno stile letterario tutto suo, che non si trova, credo,
+altrove; consiste in un uso quasi furioso dell'A FORTIORI.
+Il suo «quanto più» è ammucchiato l'uno sull'altro come [[Castle|castello]] su [[Castle|castello]]
+tra le nuvole.  Il linguaggio usato INTORNO a [[Christ|Cristo]] è stato, e forse saggiamente,
+dolce e sottomesso.  Ma il linguaggio usato da [[Christ|Cristo]] è, cosa
+assai curiosa, gigantesco; è pieno di cammelli che saltano attraverso la cruna degli aghi
+e di [[Mountains|montagne]] scagliate in mare.  Moralmente è ugualmente terrificante;
+egli chiamò se stesso una [[Sword|spada]] di strage, e disse agli uomini di comprare spade
+se per esse avessero venduto il mantello.  Che egli abbia usato altre parole ancor più selvagge
+in favore della non-resistenza accresce grandemente il mistero;
+ma, semmai, accresce piuttosto anche la violenza.
+Non possiamo neppure spiegarlo definendo folle un simile essere;
+poiché la follia scorre di solito lungo un unico canale coerente.  Il maniaco
+è generalmente un monomaniaco.  Qui dobbiamo ricordare la difficile
+definizione del [[Christianity|Cristianesimo]] già data; il [[Christianity|Cristianesimo]] è
+un sovrumano [[Paradox|paradosso]] per cui due passioni opposte possono ardere
+l'una accanto all'altra.  L'unica spiegazione del linguaggio del Vangelo
+che davvero lo spieghi è che si tratta della vista d'un essere che
+da qualche altezza [[Supernatural|soprannaturale]] contempla una sintesi ancor più sconvolgente.

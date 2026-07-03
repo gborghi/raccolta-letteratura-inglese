@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/innocence-(chesterton)">The Innocence of Father Brown</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/innocence/story_01_the_blue_cross/part_02">‹ part 02</a><a class="ex-next" href="/testi/chesterton/atomized/innocence/story_01_the_blue_cross/part_04">part 04 ›</a></div>
@@ -137,3 +139,139 @@ and crossed the [[Road|road]] with such contagious energy that the
 ponderous policeman was moved to almost agile obedience.
 In a minute and a half the French [[Detective|detective]] was joined on
 the opposite pavement by an inspector and a man in plain clothes.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/innocence-(chesterton)">The Innocence of Father Brown</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/innocence/story_01_the_blue_cross/part_02">‹ part 02</a><a class="ex-next" href="/testi/chesterton/atomized/innocence/story_01_the_blue_cross/part_04">part 04 ›</a></div>
+</nav>
+
+# [[innocence]] — La [[Cross|Croce]] azzurra (parte 3)
+
+Quando quel funzionario accorse, coi capelli arruffati e gli occhi
+un po' cisposi a quell'ora mattutina, il [[Detective|detective]] (che non era
+privo d'apprezzamento per le forme più semplici di [[Humour|umorismo]])
+gli chiese di assaggiare lo zucchero e di vedere se era all'altezza
+dell'alta reputazione dell'albergo. Il risultato fu che il cameriere
+sbadigliò d'improvviso e si svegliò.
+
+«Fate questo delicato scherzo ai vostri clienti ogni mattina?»
+domandò Valentin. «Scambiare il sale e lo zucchero non vi stanca mai
+come facezia?»
+
+Il cameriere, quando questa ironia si fece più chiara, gli assicurò
+balbettando che l'esercizio non aveva di certo alcuna simile intenzione;
+doveva trattarsi di un curiosissimo sbaglio. Prese la zuccheriera e la
+guardò; prese la saliera e guardò anche quella, con la faccia sempre
+più sconcertata. Alla fine si scusò bruscamente e, allontanandosi in fretta,
+tornò dopo pochi secondi col proprietario. Anche il proprietario esaminò
+la zuccheriera e poi la saliera; anche il proprietario parve sconcertato.
+
+D'improvviso il cameriere parve farsi inarticolato per un fiotto di parole.
+
+«Io penso» balbettò con foga, «io penso che siano quei due religiosi.»
+
+«Quali due religiosi?»
+
+«I due religiosi» disse il cameriere «che hanno gettato la minestra
+contro il muro.»
+
+«Gettato la minestra contro il muro?» ripeté Valentin, certo che dovesse
+trattarsi di qualche singolare metafora italiana.
+
+«Sì, sì» disse concitato l'inserviente, e indicò la chiazza scura
+sulla carta bianca; «l'hanno gettata là contro il muro.»
+
+Valentin volse lo sguardo interrogativo al proprietario, che venne
+in suo soccorso con più ampi ragguagli.
+
+«Sì, signore» disse, «è verissimo, per quanto non credo abbia nulla
+a che fare con lo zucchero e il sale. Due religiosi entrarono e bevvero
+qui la minestra assai di buon'ora, appena tolte le imposte. Erano
+entrambi persone molto quiete e rispettabili; uno di loro pagò il conto
+e uscì; l'altro, che pareva del tutto più lento, impiegò qualche minuto
+di più a raccogliere le sue cose. Ma alla fine se ne andò. Solo che,
+un istante prima di uscire in strada, prese deliberatamente la sua tazza,
+che aveva vuotato solo a metà, e sbatté la minestra di netto contro il muro.
+Io ero nel retro, e così pure il cameriere; sicché potei solo precipitarmi
+fuori in [[Time|tempo]] per trovare il muro schizzato e il locale vuoto.
+Non fa danno di sorta, ma fu una sfacciataggine matta; e cercai
+di acchiappare quei due in strada. Erano però troppo lontani; notai
+soltanto che voltavano l'angolo seguente in Carstairs Street.»
+
+Il [[Detective|detective]] era già in piedi, il cappello calcato e il bastone
+in mano. Aveva già deciso che, nella tenebra universale della sua mente,
+poteva solo seguire il primo dito bizzarro che gli indicasse la via;
+e questo dito era abbastanza bizzarro. Pagato il conto e sbattendosi dietro
+le porte a vetri, di lì a poco svoltava spedito nell'altra via.
+
+Fu una fortuna che anche in momenti tanto febbrili il suo occhio fosse
+freddo e pronto. Qualcosa in una vetrina gli passò accanto come un semplice
+lampo; eppure tornò indietro a guardarla. Il negozio era una comune
+frutta e verdura, con una fila di merci esposte all'aria aperta e chiaramente
+munite di cartellini coi nomi e i prezzi. Nei due scomparti più in vista
+c'erano due cumuli, rispettivamente di arance e di noci. Sul cumulo di noci
+stava un pezzetto di cartone su cui era scritto a chiare lettere,
+in [[chalk|gesso]] azzurro: «Ottimi mandarini, due al penny». Sulle arance
+c'era la descrizione altrettanto chiara ed esatta: «Finissime noci del
+Brasile, 4 pence la libbra». Il signor Valentin guardò questi due
+cartelli e s'immaginò d'aver già incontrato prima questa forma
+sommamente sottile di [[Humour|umorismo]], e in tempi piuttosto recenti.
+Attirò l'attenzione del fruttivendolo dalla faccia rossa, che scrutava
+piuttosto imbronciato su e giù per la strada, su questa inesattezza
+nelle sue réclame. Il fruttivendolo non disse nulla, ma rimise seccamente
+ciascun cartello al suo posto giusto. Il [[Detective|detective]], appoggiandosi
+con eleganza al bastone da passeggio, continuò a scrutare il negozio.
+Alla fine disse: «Vi prego di scusare la mia apparente inopportunità,
+mio buon signore, ma vorrei rivolgervi una domanda di psicologia
+sperimentale e di associazione delle idee.»
+
+Il bottegaio dalla faccia rossa lo squadrò con occhio minaccioso;
+ma egli proseguì allegro, dondolando il bastone: «Perché mai», riprese,
+«perché mai due cartellini messi al posto sbagliato in una bottega
+di frutta e verdura assomigliano a un cappello a tesa larga sceso
+a [[London|Londra]] per una vacanza? Oppure, caso mai non mi spiegassi bene,
+qual è la mistica associazione che collega l'idea di noci contrassegnate
+come arance con l'idea di due religiosi, uno alto e l'altro basso?»
+
+Gli occhi del bottegaio gli sporgevano dalla testa come quelli
+di una lumaca; parve davvero, per un istante, sul punto di scagliarsi
+sullo sconosciuto. Alla fine balbettò con collera: «Non so cosa
+ci abbiate a che fare voi, ma se siete un loro amico, potete dirgli
+da parte mia che gli spacco le loro sciocche teste, preti o non preti,
+se mi rovesciano di nuovo le mele.»
+
+«Davvero?» chiese il [[Detective|detective]] con grande simpatia.
+«Vi hanno rovesciato le mele?»
+
+«Uno di loro sì» disse il bottegaio infervorato; «me le ha fatte
+rotolare per tutta la strada. L'avrei acchiappato, quel [[Fool|sciocco]],
+se non avessi dovuto raccoglierle.»
+
+«Da che parte sono andati quei preti?» chiese Valentin.
+
+«Su per quella seconda [[Road|strada]] sulla sinistra, e poi attraverso
+la piazza» rispose l'altro pronto.
+
+«Grazie» replicò Valentin, e sparì come una fata. Dall'altro lato
+della seconda piazza trovò un poliziotto e disse: «È urgente, agente;
+avete visto due religiosi con cappelli a tesa larga?»
+
+Il poliziotto cominciò a ridacchiare pesantemente. «Sì, signore;
+e se volete il mio parere, uno di loro era ubriaco. Se ne stava in mezzo
+alla [[Road|strada]] tanto stralunato che...»
+
+«Da che parte sono andati?» tagliò corto Valentin.
+
+«Han preso uno di quegli autobus gialli laggiù» rispose l'uomo;
+«di quelli che vanno a Hampstead.»
+
+Valentin esibì la propria tessera ufficiale e disse rapidissimo:
+«Chiamate due dei vostri uomini a venire con me all'inseguimento»,
+e attraversò la [[Road|strada]] con un'energia tanto contagiosa che il
+ponderoso poliziotto fu spinto a un'obbedienza quasi agile. In un minuto
+e mezzo il [[Detective|detective]] francese venne raggiunto sul marciapiede
+di fronte da un ispettore e da un uomo in abiti civili.

@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/innocence-(chesterton)">The Innocence of Father Brown</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/innocence/story_08_the_sins_of_prince_saradine">‹ Story 08 The Sins of Prince Saradine</a><a class="ex-next" href="/testi/chesterton/atomized/innocence/story_10_the_eye_of_apollo">Story 10 The Eye of Apollo ›</a></div>
@@ -729,3 +731,729 @@ They went down the winding stairs in utter silence, and came out
 into the sunlight by the smithy.  Wilfred Bohun carefully unlatched
 the wooden gate of the yard, and going up to the inspector, said:
 "I wish to give myself up; I have killed my brother."
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/innocence-(chesterton)">The Innocence of Father Brown</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/innocence/story_08_the_sins_of_prince_saradine">‹ Story 08 The Sins of Prince Saradine</a><a class="ex-next" href="/testi/chesterton/atomized/innocence/story_10_the_eye_of_apollo">Story 10 The Eye of Apollo ›</a></div>
+</nav>
+
+# [[innocence]] — Il martello di Dio
+
+                         Il martello di Dio
+
+Il piccolo villaggio di Bohun Beacon era appollaiato su una [[Hill|collina]] tanto ripida
+che l'alto campanile della sua chiesa pareva soltanto la vetta di una piccola montagna.
+Ai piedi della chiesa sorgeva una fucina, di solito rossa di fuochi
+e sempre ingombra di martelli e di rottami di ferro; di fronte a questa,
+oltre una rozza [[Cross|croce]] di viottoli acciottolati, stava «Il Cinghiale Azzurro», l'unica locanda
+del luogo. Fu proprio su quel crocicchio, nel levarsi di un'alba
+plumbea e argentea, che due fratelli si incontrarono per la via e si parlarono;
+sebbene l'uno cominciasse la giornata e l'altro la finisse.
+Il reverendo e nobile Wilfred Bohun era assai devoto, e si recava
+verso qualche austero esercizio di [[Prayer|preghiera]] o di contemplazione all'[[Dawn|alba]].
+Il colonnello e nobile Norman Bohun, il fratello maggiore, non era affatto devoto,
+e sedeva in abito da sera sulla panca fuori del «Cinghiale Azzurro»,
+bevendo ciò che l'osservatore filosofo era libero di considerare
+o come il suo ultimo bicchiere del martedì o come il primo del mercoledì. Il colonnello
+non stava a sottilizzare.
+
+I Bohun erano una delle pochissime famiglie aristocratiche davvero risalenti
+al Medioevo, e il loro gonfalone aveva realmente veduto la Palestina. Ma è un
+grave errore supporre che simili casati stiano in alto nella tradizione cavalleresca.
+Ben pochi, tranne i poveri, conservano le tradizioni. Gli aristocratici vivono non di tradizioni
+ma di mode. I Bohun erano stati Mohock sotto la [[Queen]] Anna e Masher
+sotto la [[Queen]] Vittoria. Ma, come più d'uno dei casati davvero antichi,
+essi negli ultimi due secoli erano imputriditi in meri ubriaconi e
+dandy degenerati, finché non era corsa persino una voce di follia.
+Certo vi era qualcosa di appena umano nella lupesca
+caccia al piacere del colonnello, e la sua cronica risoluzione di non tornare a [[Home|casa]] prima
+del mattino aveva un che dell'orribile lucidità dell'insonnia. Era un uomo alto,
+un bell'animale, attempato, ma coi capelli ancora d'un giallo sorprendente. Sarebbe
+parso semplicemente biondo e leonino, se non fosse che i suoi occhi azzurri erano infossati tanto
+nel volto da sembrare neri. Erano un poco troppo ravvicinati.
+Aveva lunghissimi baffi gialli; ai lati di essi una piega o
+un solco dalla narice alla mascella, così che un ghigno pareva inciso nel suo viso.
+Sopra l'abito da sera indossava un curioso cappotto d'un giallo pallido che pareva
+più una vestaglia molto leggera che un soprabito, e sulla nuca
+gli stava conficcato uno straordinario cappello a larghe tese d'un vivo
+colore verde, evidentemente qualche curiosità orientale raccolta a caso.
+Andava fiero di comparire con abbigliamenti tanto incongrui, fiero del fatto
+che sempre riusciva a farli sembrare congrui.
+
+Anche suo fratello il curato aveva i capelli gialli e l'eleganza,
+ma era abbottonato fino al mento di nero, e il suo volto
+era ben rasato, coltivato e un poco nervoso.
+Pareva vivere unicamente per la sua religione; ma vi era
+chi diceva (segnatamente il fabbro, che era presbiteriano)
+che si trattasse d'un [[Love|amore]] dell'architettura gotica più che di Dio,
+e che quel suo aggirarsi per la chiesa come un [[Ghost|fantasma]] non fosse che
+un'altra e più pura volta di quella sete quasi morbosa di [[Beauty|bellezza]]
+che spingeva suo fratello a smaniare dietro le donne e il vino.
+Questa accusa era dubbia, mentre la pietà pratica dell'uomo
+era indubitabile. In verità, l'accusa era per lo più un ignorante
+fraintendimento dell'[[Love|amore]] della [[Solitude|solitudine]] e della segreta [[Prayer|preghiera]],
+e si fondava sul fatto che lo si trovava spesso inginocchiato, non davanti
+all'altare, ma in luoghi peculiari, nelle cripte o nella galleria,
+o persino nel campanile. In quel momento stava per entrare
+in chiesa attraverso il cortile della fucina, ma si arrestò e
+si accigliò un poco nel vedere gli occhi cavernosi del fratello che fissavano
+nella medesima direzione. Sull'ipotesi che il colonnello si
+interessasse alla chiesa non sprecò alcuna congettura.
+Non rimaneva che la bottega del fabbro, e sebbene il fabbro
+fosse un puritano e non uno dei suoi fedeli, Wilfred Bohun aveva udito
+certi pettegolezzi su una moglie bella e alquanto celebre.
+Lanciò uno sguardo sospettoso attraverso la tettoia, e il colonnello
+si alzò ridendo per rivolgergli la parola.
+
+«Buon giorno, Wilfred» disse. «Da buon signorotto veglio
+insonne sui miei sudditi. Sto per andare a far visita al fabbro.»
+
+Wilfred guardò a terra, e disse: «Il fabbro è fuori.
+È laggiù a Greenford.»
+
+«Lo so» rispose l'altro con silente risata; «per questo
+gli faccio visita.»
+
+«Norman» disse l'ecclesiastico, con l'occhio su un ciottolo della [[Road|strada]],
+«hai mai paura dei fulmini?»
+
+«Che vuoi dire?» chiese il colonnello. «Il tuo passatempo è la meteorologia?»
+
+«Voglio dire» disse Wilfred, senza alzare lo sguardo, «pensi mai che Dio
+possa colpirti per la strada?»
+
+«Chiedo scusa» disse il colonnello; «vedo che il tuo passatempo è il folklore.»
+
+«So che il tuo passatempo è la bestemmia» ribatté l'uomo religioso,
+punto nell'unico punto vivo della sua [[Nature|natura]]. «Ma se non
+[[Fear|temi]] Dio, hai buoni motivi di [[Fear|temere]] l'uomo.»
+
+Il maggiore inarcò le sopracciglia con cortesia. «[[Fear|Temere]] l'uomo?» disse.
+
+«Barnes il fabbro è l'uomo più grosso e più forte
+per quaranta miglia all'intorno» disse il curato con severità.
+«So che tu non sei un codardo né un debole, ma egli potrebbe scagliarti
+oltre il muro.»
+
+Ciò colpì nel [[Home|segno]], essendo vero, e la linea cupa presso la bocca e
+la narice si oscurò e si approfondì. Per un momento egli rimase con quel pesante
+ghigno sul volto. Ma in un istante il colonnello Bohun ebbe ritrovato
+il proprio crudele buon [[Humour|umore]] e rise, mostrando due canini
+anteriori sotto i baffi gialli. «In tal caso, mio caro Wilfred»
+disse con perfetta noncuranza, «fu saggio da parte dell'ultimo dei Bohun
+uscire parzialmente in armatura.»
+
+E si tolse lo strano cappello tondo coperto di verde,
+mostrando che internamente era foderato d'acciaio. Wilfred lo riconobbe
+invero come un leggero elmo giapponese o cinese strappato
+a un trofeo appeso nell'antica sala di famiglia.
+
+«Era il primo cappello a portata di mano» spiegò il fratello con leggerezza;
+«sempre il cappello più vicino... e la donna più vicina.»
+
+«Il fabbro è via a Greenford» disse Wilfred sommessamente;
+«il [[Time|momento]] del suo ritorno è incerto.»
+
+E con ciò si voltò ed entrò in chiesa a capo chino,
+segnandosi come chi voglia liberarsi di uno spirito immondo.
+Era ansioso di dimenticare tanta grossolanità nel fresco crepuscolo dei suoi alti
+chiostri gotici; ma quel mattino era destino che il suo tranquillo giro
+di esercizi religiosi fosse ovunque interrotto da piccole scosse.
+Mentre entrava in chiesa, fin lì sempre vuota a quell'ora, una figura
+inginocchiata si [[Rose|alzò]] in fretta in piedi e mosse verso la piena luce diurna
+della porta. Quando il curato la vide, si fermò immobile per la sorpresa.
+Poiché il devoto mattiniero non era altri che l'idiota del villaggio,
+un nipote del fabbro, uno che né voleva né poteva curarsi
+della chiesa o di qualsivoglia altra cosa. Lo chiamavano sempre «Joe il Matto»,
+e pareva non avesse altro nome; era un ragazzo bruno, robusto, dinoccolato,
+dal pesante volto bianco, dai capelli scuri e lisci, e la bocca sempre aperta.
+Nel passare accanto al prete, il suo volto da [[Moon|lunatico]] non diede alcun indizio di ciò che
+egli avesse fatto o pensato. Non si era mai saputo che pregasse prima.
+Che sorta di preghiere andava dicendo ora? Straordinarie preghiere di certo.
+
+Wilfred Bohun rimase inchiodato al posto abbastanza a lungo da vedere
+l'idiota uscire alla luce del sole, e persino da vedere il suo
+dissoluto fratello salutarlo con una specie di giovialità da zione.
+L'ultima cosa che vide fu il colonnello che gettava monetine nella bocca aperta
+di Joe, con l'aria seria di chi cerchi di far centro.
+
+Questa brutta scena assolata della stupidità e crudeltà della terra spinse
+l'[[ascetic|asceta]] infine alle sue preghiere di [[Purification|purificazione]] e di nuovi pensieri.
+Salì a un banco della galleria, che lo poneva sotto
+una [[Window|vetrata]] colorata che egli amava e che sempre gli quietava lo spirito;
+una [[Window|vetrata]] azzurra con un angelo che recava gigli. Lì cominciò a pensare
+meno all'idiota, dal volto livido e la bocca simile a un pesce.
+Cominciò a pensare meno al suo malvagio fratello, che si aggirava come un magro [[Lion|leone]]
+nella sua orribile fame. Sprofondò sempre più in quei freddi
+e dolci colori di argentei fiori e di cielo di zaffiro.
+
+In quel luogo, mezz'ora più tardi, lo trovò Gibbs,
+il ciabattino del villaggio, che era stato mandato a cercarlo con una certa fretta.
+Si rizzò in piedi con prontezza, poiché sapeva che nessuna piccola
+faccenda avrebbe condotto Gibbs in un simile luogo.
+Il ciabattino era, come in molti villaggi, un ateo, e la sua comparsa
+in chiesa era una sfumatura più straordinaria di quella di Joe il Matto. Era
+un mattino di enigmi teologici.
+
+«Che c'è?» chiese Wilfred Bohun piuttosto rigidamente, ma tendendo
+una mano tremante verso il cappello.
+
+L'ateo parlò in un tono che, provenendo da lui, era straordinariamente
+rispettoso, e persino, per così dire, roco di partecipazione.
+
+«Dovete scusarmi, signore» disse in un rauco sussurro,
+«ma non ci pareva giusto non avvertirvi subito.
+Temo che sia accaduta una cosa piuttosto terribile, signore.
+Temo che vostro fratello...»
+
+Wilfred serrò le fragili mani. «Quale diavoleria ha combinato ora?»
+gridò in un moto involontario di passione.
+
+«Ecco, signore» disse il ciabattino, tossendo, «temo che non abbia
+combinato nulla, e non combinerà più nulla. Temo che sia bell'e spacciato.
+Fareste proprio meglio a scendere, signore.»
+
+Il curato seguì il ciabattino giù per una breve scala a chiocciola che li portò
+a un'uscita un poco più alta della strada. Bohun vide la [[Tragedy|tragedia]]
+in un solo sguardo, distesa sotto di lui come una pianta. Nel cortile della fucina
+stavano cinque o sei uomini per lo più vestiti di nero, uno in uniforme d'ispettore.
+Fra essi vi erano il medico, il ministro presbiteriano, e il prete
+della cappella cattolica romana, alla quale apparteneva la moglie del fabbro.
+Quest'ultimo le stava invero parlando, assai rapidamente, a mezza voce, mentre lei,
+una donna magnifica dai capelli rosso-oro, singhiozzava alla cieca su una panca.
+Fra questi due gruppi, e appena discosto dal mucchio principale dei martelli,
+giaceva un uomo in abito da sera, disteso a braccia aperte e bocconi.
+Dall'altezza sovrastante Wilfred avrebbe potuto giurare su ogni particolare del suo abbigliamento
+e del suo aspetto, fino agli anelli dei Bohun sulle sue dita; ma il cranio
+non era che un'orrenda macchia, come una stella di nerezza e di [[Blood|sangue]].
+
+Wilfred Bohun diede un solo sguardo, e corse giù per i gradini nel
+cortile. Il medico, che era il medico di famiglia, lo salutò,
+ma egli lo notò appena. Poté solo balbettare:
+«Mio fratello è morto. Che significa? Che cos'è questo orribile mistero?»
+Vi fu un infelice [[Silence|silenzio]]; e poi il ciabattino, l'uomo più
+franco fra i presenti, rispose: «Molto orrore, signore» disse;
+«ma non molto mistero.»
+
+«Che vuoi dire?» chiese Wilfred, col volto bianco.
+
+«È abbastanza chiaro» rispose Gibbs. «C'è un solo uomo
+per quaranta miglia all'intorno che avrebbe potuto vibrare un simile colpo,
+ed è l'uomo che aveva più ragione di farlo.»
+
+«Non dobbiamo pregiudicare nulla» intervenne il medico, un uomo alto dalla barba nera,
+piuttosto nervosamente; «ma è nelle mie competenze corroborare ciò che il signor Gibbs
+dice sulla [[Nature|natura]] del colpo, signore; è un colpo incredibile.
+Il signor Gibbs dice che un solo uomo in questo distretto avrebbe potuto darlo.
+Io direi da parte mia che nessuno avrebbe potuto darlo.»
+
+Un brivido di superstizione attraversò l'esile figura del curato.
+«Riesco a stento a comprendere» disse.
+
+«Signor Bohun» disse il medico a bassa voce, «le metafore letteralmente mi vengono meno.
+È insufficiente dire che il cranio fu fracassato in pezzi come un guscio d'uovo.
+Schegge d'osso furono cacciate nel [[Body|corpo]] e nel terreno come pallottole
+in un muro di fango. Fu la mano di un gigante.»
+
+Tacque un momento, guardando cupamente attraverso gli occhiali; poi aggiunse:
+«La cosa ha un vantaggio: scagiona la maggior parte della gente dal sospetto
+d'un sol colpo. Se voi o io o qualsiasi uomo di normale costituzione del paese
+fossimo accusati di questo delitto, saremmo assolti come un lattante
+sarebbe assolto dal furto della colonna di Nelson.»
+
+«È quel che dico io» ripeté il ciabattino ostinatamente; «c'è un solo
+uomo che avrebbe potuto farlo, ed è l'uomo che l'avrebbe fatto.
+Dov'è Simeon Barnes, il fabbro?»
+
+«È laggiù a Greenford» balbettò il curato.
+
+«Più probabilmente laggiù in Francia» borbottò il ciabattino.
+
+«No; non è in nessuno di quei luoghi» disse una voce piccola e incolore,
+che veniva dal piccolo prete cattolico che si era unito al gruppo.
+«A dire il vero, sta risalendo la [[Road|strada]] in questo momento.»
+
+Il piccolo prete non era un uomo interessante a vedersi,
+avendo ispidi capelli castani e un volto tondo e flemmatico.
+Ma fosse pure stato splendido come [[Apollo]], nessuno lo avrebbe guardato
+in quel momento. Tutti si voltarono e scrutarono
+il sentiero che serpeggiava attraverso la pianura sottostante, lungo il quale
+camminava invero, col suo enorme passo e con un martello sulla
+spalla, Simeon il [[smith|fabbro]]. Era un uomo ossuto e gigantesco,
+con occhi profondi, scuri, sinistri e una scura barba al mento.
+Camminava e chiacchierava tranquillamente con altri due uomini;
+e sebbene non fosse mai particolarmente allegro, pareva perfettamente
+a suo agio.
+
+«Dio mio!» gridò il ciabattino ateo, «ed ecco lì il martello
+con cui l'ha fatto.»
+
+«No» disse l'ispettore, un uomo dall'aria assennata
+con baffi rossicci, parlando per la prima [[Time|volta]].
+«Ecco lì il martello con cui l'ha fatto, laggiù presso il muro della chiesa.
+Abbiamo lasciato esso e il [[Body|corpo]] esattamente come stanno.»
+
+Tutti si volsero intorno e il piccolo prete andò a guardare in giù in [[Silence|silenzio]]
+l'attrezzo là dove giaceva. Era uno dei più piccoli e dei più leggeri
+fra i martelli, e non avrebbe attirato l'occhio fra gli altri;
+ma sul suo orlo di ferro vi erano [[Blood|sangue]] e capelli gialli.
+
+Dopo un [[Silence|silenzio]] il piccolo prete parlò senza alzare lo sguardo,
+e vi era una nota nuova nella sua voce spenta. «Il signor Gibbs
+non aveva del tutto ragione» disse, «nel dire che non c'è mistero.
+C'è per lo meno il mistero del perché un uomo tanto grosso tentasse
+un colpo tanto grosso con un martello tanto piccolo.»
+
+«Oh, lasciate perdere» gridò Gibbs, in fibrillazione. «Che cosa dobbiamo
+fare di Simeon Barnes?»
+
+«Lasciatelo [[Alone|in pace]]» disse il prete tranquillamente. «Viene qui da sé.
+Conosco quei due uomini che sono con lui. Sono ottime persone di Greenford,
+e sono venuti a proposito della cappella presbiteriana.»
+
+Mentre ancora parlava, l'alto [[smith|fabbro]] girò l'angolo della chiesa,
+ed entrò a gran passi nel proprio cortile. Poi rimase là del tutto immobile,
+e il martello gli cadde di mano. L'ispettore, che aveva conservato
+un'impenetrabile compostezza, gli si avvicinò immediatamente.
+
+«Non vi chiederò, signor Barnes» disse, «se sapete qualcosa
+di ciò che è accaduto qui. Non siete tenuto a parlare.
+[[Hope|Spero]] che non sappiate nulla, e che sarete in grado di provarlo.
+Ma devo compiere la formalità di arrestarvi in nome del [[King|Re]]
+per l'assassinio del colonnello Norman Bohun.»
+
+«Non siete tenuto a dire nulla» disse il ciabattino
+in ossequiosa eccitazione. «Devono provare ogni cosa.
+Non hanno ancora provato che si tratti del colonnello Bohun, con la testa
+tutta fracassata a quel modo.»
+
+«Questa non regge» disse il medico in disparte al prete.
+«Roba da romanzi [[Detective|polizieschi]]. Ero il medico del colonnello,
+e conoscevo il suo [[Body|corpo]] meglio di lui.
+Aveva mani assai belle, ma proprio peculiari.
+Il secondo e il terzo dito erano della stessa lunghezza.
+Oh, è proprio il colonnello.»
+
+Mentre egli gettava lo sguardo sul cadavere dal cranio sfracellato al suolo, gli occhi di ferro
+del fabbro immobile lo seguirono e si posarono anch'essi là.
+
+«Il colonnello Bohun è morto?» disse il [[smith|fabbro]] con perfetta calma.
+«Allora è dannato.»
+
+«Non dite nulla! Oh, non dite nulla» gridò il ciabattino ateo,
+saltellando in un'estasi di ammirazione per il sistema legale inglese.
+Poiché nessun uomo è tanto legalista quanto il buon laicista.
+
+Il fabbro volse verso di lui, di sopra la spalla, l'augusto volto
+di un fanatico.
+
+«[[Well|Sta bene]] per voi miscredenti schivare come volpi perché la legge del mondo
+vi favorisce» disse; «ma Dio custodisce i suoi nel suo pugno,
+come vedrete quest'oggi.»
+
+Poi indicò il colonnello e disse: «Quando è morto nei suoi peccati
+questo cane?»
+
+«Moderate il linguaggio» disse il medico.
+
+«Moderate il linguaggio della [[Bible|Bibbia]], e io modererò il mio.
+Quando è morto?»
+
+«L'ho visto vivo alle sei in [[Clock|punto]] di stamattina» balbettò Wilfred Bohun.
+
+«Dio è buono» disse il [[smith|fabbro]]. «Signor ispettore, non ho la minima
+obiezione a essere arrestato. Siete voi che potreste avere obiezioni ad arrestarmi.
+A me non pesa lasciare il [[Court|tribunale]] senza una macchia sul mio carattere.
+A voi forse pesa lasciare il [[Court|tribunale]] con un brutto colpo alla vostra carriera.»
+
+Il solido ispettore per la prima [[Time|volta]] guardò il fabbro
+con occhio vivace; come del resto tutti gli altri, tranne lo strano,
+piccolo prete, che ancora fissava in giù il piccolo martello
+che aveva vibrato il colpo terribile.
+
+«Ci sono due uomini là fuori di questa bottega» proseguì il fabbro
+con ponderosa lucidità, «bravi artigiani di Greenford che voi
+tutti conoscete, i quali giureranno di avermi visto da prima di mezzanotte fino
+all'alba e ben oltre nella sala del comitato della nostra Missione del Risveglio,
+che resta riunita tutta la [[Night|notte]], tanto in fretta salviamo le anime. A Greenford stessa
+venti persone potrebbero giurare per me per tutto quel [[Time|tempo]]. Se fossi
+un pagano, signor ispettore, vi lascerei camminare verso la vostra rovina.
+Ma da uomo cristiano mi sento tenuto a darvi la vostra occasione,
+e a chiedervi se vorrete udire il mio alibi ora o in [[Court|tribunale]].»
+
+L'ispettore parve per la prima [[Time|volta]] turbato, e disse:
+«Naturalmente sarei lieto di scagionarvi del tutto sin d'ora.»
+
+Il [[smith|fabbro]] uscì dal suo cortile con lo stesso passo lungo e
+disinvolto, e tornò dai suoi due amici di Greenford,
+i quali erano invero amici di quasi tutti i presenti. Ciascuno di essi
+disse poche parole che a nessuno venne mai in mente di mettere in dubbio.
+Quando ebbero parlato, l'[[innocence|innocenza]] di Simeon si ergeva salda
+come la grande chiesa sopra di loro.
+
+Uno di quei silenzi calò sul gruppo, di quelli più strani e
+insopportabili di qualsiasi discorso. Follemente, per far conversazione,
+il curato disse al prete cattolico:
+
+«Vi vedo assai interessato a quel martello, [[Father Brown]].»
+
+«Sì, lo sono» disse [[Father Brown]]; «perché è un martello tanto piccolo?»
+
+Il medico gli si girò addosso.
+
+«Perbacco, è vero» gridò; «chi userebbe un piccolo martello con dieci
+martelli più grandi sparsi all'intorno?»
+
+Poi abbassò la voce all'orecchio del curato e disse:
+«Solo il genere di persona che non sa sollevare un martello grande.
+Non è una questione di forza o di [[Courage|coraggio]] tra i sessi.
+È una questione di potenza di sollevamento nelle spalle. Una donna ardita
+potrebbe commettere dieci assassinî con un martello leggero senza scomporsi.
+Non riuscirebbe a uccidere uno scarafaggio con uno pesante.»
+
+Wilfred Bohun lo fissava con una sorta di orrore ipnotizzato,
+mentre [[Father Brown]] ascoltava col capo un poco inclinato da un lato,
+davvero interessato e attento. Il medico proseguì con
+sibilo più marcato:
+
+«Perché questi idioti presumono sempre che l'unica persona che odia
+l'[[Lover|amante]] della moglie sia il marito della moglie? Nove volte su dieci
+la persona che più odia l'[[Lover|amante]] della moglie è la moglie.
+Chissà quale insolenza o tradimento egli le aveva mostrato... guardate là!»
+
+Fece un gesto momentaneo verso la donna dai capelli rossi sulla panca.
+Ella aveva finalmente sollevato il capo e le [[Tears|lacrime]] le si stavano asciugando sul
+volto splendido. Ma gli occhi erano fissi sul cadavere con un elettrico
+bagliore che aveva in sé qualcosa dell'idiozia.
+
+Il reverendo Wilfred Bohun fece un molle gesto come per scacciare ogni [[Desire|desiderio]]
+di sapere; ma [[Father Brown]], spolverandosi dalla manica certa cenere soffiata
+dalla fornace, parlò nel suo modo indifferente.
+
+«Voi siete come tanti medici» disse; «la vostra scienza mentale è
+davvero suggestiva. È la vostra scienza fisica che è del tutto impossibile.
+Convengo che la donna desideri uccidere il correo assai più di quanto lo desideri il
+ricorrente. E convengo che una donna raccoglierà sempre un piccolo martello
+invece di uno grande. Ma la difficoltà è d'impossibilità fisica.
+Nessuna donna mai nata avrebbe potuto fracassare così, piatto, il cranio di un uomo.»
+Poi aggiunse pensosamente, dopo una pausa: «Questa gente non ha
+afferrato l'insieme della cosa. L'uomo indossava davvero un elmo di ferro,
+e il colpo lo disperse come vetro infranto. Guardate quella donna.
+Guardate le sue braccia.»
+
+Il [[Silence|silenzio]] li tenne di nuovo sospesi tutti, e poi il medico disse piuttosto imbronciato:
+«[[Well|Beh]], posso sbagliarmi; ci sono obiezioni a tutto.
+Ma io mi attengo al punto principale. Nessun uomo, salvo un idiota, raccoglierebbe
+quel piccolo martello se potesse usarne uno grande.»
+
+A ciò le magre e frementi mani di Wilfred Bohun si levarono
+al capo e parvero afferrargli i radi capelli gialli.
+Dopo un istante ricaddero, ed egli gridò: «Ecco la parola
+che cercavo; voi avete detto la parola.»
+
+Poi continuò, dominando il proprio turbamento: «Le parole che avete detto sono state:
+"Nessun uomo, salvo un idiota, raccoglierebbe il piccolo martello".»
+
+«Sì» disse il medico. «Ebbene?»
+
+«Ebbene» disse il curato, «nessun uomo, salvo un idiota, l'ha fatto.»
+Gli altri lo fissarono con occhi arrestati e inchiodati,
+ed egli proseguì in un'agitazione febbrile e femminile.
+
+«Io sono un prete» gridò con voce malferma, «e un prete non deve essere spargitore
+di sangue. Io... io voglio dire che non deve condurre nessuno alla forca.
+E ringrazio Dio di vedere ora chiaramente il criminale... perché è
+un criminale che non può essere condotto alla forca.»
+
+«Non lo denuncerete?» chiese il medico.
+
+«Non sarebbe impiccato se lo denunciassi»
+rispose Wilfred con un sorriso selvaggio ma curiosamente felice.
+«Quando sono entrato in chiesa stamattina ho trovato un pazzo
+che pregava là dentro... quel povero Joe, che ha avuto la mente storta tutta la vita.
+Dio sa che cosa pregasse; ma con gente tanto strana non è
+inverosimile supporre che le loro preghiere siano tutte a rovescio.
+Assai probabilmente un demente pregherebbe prima di uccidere un uomo.
+L'ultima volta che ho visto il povero Joe era con mio fratello.
+Mio fratello lo derideva.»
+
+«Perbacco!» gridò il medico, «finalmente si ragiona.
+Ma come spiegate...»
+
+Il reverendo Wilfred tremava quasi per l'eccitazione del proprio
+barlume di verità. «Non capite; non capite» gridò febbrilmente;
+«che questa è l'unica teoria che copre entrambe le cose strane, che risponde
+a entrambi gli enigmi. I due enigmi sono il piccolo martello e il gran colpo.
+Il fabbro avrebbe potuto vibrare il gran colpo, ma non avrebbe scelto
+il piccolo martello. Sua moglie avrebbe scelto il piccolo martello, ma non
+avrebbe potuto vibrare il gran colpo. Ma il pazzo avrebbe potuto fare entrambe le cose.
+Quanto al piccolo martello... ebbene, era pazzo e avrebbe potuto raccogliere qualsiasi cosa.
+E quanto al gran colpo, non avete mai udito, dottore, che un maniaco nel suo
+parossismo può avere la forza di dieci uomini?»
+
+Il medico trasse un profondo respiro e poi disse: «Perdinci,
+credo che ci abbiate azzeccato.»
+
+Father Brown aveva tenuto gli occhi fissi sull'oratore tanto a lungo
+e fermamente da provare che i suoi grandi occhi grigi, bovini,
+non erano poi così insignificanti come il resto del suo volto.
+Quando fu caduto il silenzio, disse con marcato rispetto:
+«Signor Bohun, la vostra è l'unica teoria finora proposta che
+regga da ogni lato ed è essenzialmente inattaccabile.
+Penso, perciò, che meritiate di sentirvi dire,
+per mia positiva conoscenza, che non è quella vera.»
+E con ciò il vecchio ometto si allontanò e tornò a fissare
+il martello.
+
+«Quel tale pare sapere più di quanto dovrebbe» sussurrò il medico
+stizzosamente a Wilfred. «Questi preti papisti sono maledettamente scaltri.»
+
+«No, no» disse Bohun, con una sorta di selvaggia stanchezza. «È stato il demente.
+È stato il demente.»
+
+Il gruppo dei due ecclesiastici e del medico si era staccato
+dal gruppo più ufficiale che comprendeva l'ispettore
+e l'uomo che egli aveva arrestato. Ora, tuttavia, che la loro stessa
+compagnia si era sciolta, udirono voci dagli altri.
+Il prete alzò lo sguardo tranquillamente e poi lo riabbassò
+mentre udiva il fabbro dire a voce alta:
+
+«Spero di avervi convinto, signor ispettore. Sono un uomo forte,
+come dite, ma non avrei potuto scagliar qui il mio martello di netto
+da Greenford. Il mio martello non ha ali per venire
+volando mezzo miglio sopra siepi e campi.»
+
+L'ispettore rise amichevolmente e disse: «No, credo che possiate essere
+considerato fuori causa, per quanto sia una delle più bizzarre coincidenze
+che io abbia mai visto. Posso solo chiedervi di darci tutto l'aiuto
+che potete nel trovare un uomo grosso e forte quanto voi.
+Perbacco! potreste essere utile, non foss'altro che a tenerlo fermo!
+Suppongo che voi stesso non abbiate alcun sospetto sull'uomo?»
+
+«Potrei averne uno» disse il pallido fabbro, «ma non su
+un uomo.» Poi, vedendo gli occhi spaventati volgersi verso sua moglie
+sulla panca, le pose la sua enorme mano sulla spalla e disse:
+«E nemmeno su una donna.»
+
+«Che volete dire?» chiese l'ispettore in tono scherzoso.
+«Non penserete mica che le mucche usino i martelli, vero?»
+
+«Penso che nessuna cosa di carne abbia impugnato quel martello» disse il fabbro
+con voce soffocata; «mortalmente parlando, penso che l'uomo sia morto solo.»
+
+Wilfred fece un improvviso movimento in avanti e lo scrutò con occhi ardenti.
+
+«Volete dire, Barnes» giunse la voce tagliente del ciabattino,
+«che il martello sia balzato su da sé e abbia abbattuto l'uomo?»
+
+«Oh, voi signori potete strabuzzare gli occhi e sogghignare» gridò Simeon;
+«voi uomini di chiesa che ci raccontate la domenica in quale silenzio
+il Signore percosse Sennacherib. Io credo che Colui che cammina
+invisibile in ogni casa abbia difeso l'onore della mia, e steso
+il profanatore morto dinanzi alla sua porta. Io credo che la forza
+in quel colpo fosse proprio la forza che c'è nei terremoti,
+e non una forza minore.»
+
+Wilfred disse, con una voce assolutamente indescrivibile:
+«Io stesso avevo detto a Norman di guardarsi dal fulmine.»
+
+«Quell'agente è fuori dalla mia giurisdizione» disse l'ispettore
+con un lieve sorriso.
+
+«Voi non siete fuori dalla Sua» rispose il fabbro; «badateci»,
+e, voltando la sua larga schiena, entrò in casa.
+
+Lo scosso Wilfred fu condotto via da Father Brown, che aveva un fare
+disinvolto e cordiale con lui. «Usciamo da questo orribile luogo,
+signor Bohun» disse. «Posso dare un'occhiata dentro la vostra chiesa? Ho sentito che è
+una delle più antiche d'Inghilterra. Noi ci interessiamo un poco, sapete»,
+aggiunse con una comica smorfia, «delle vecchie chiese inglesi.»
+
+Wilfred Bohun non sorrise, poiché l'umorismo non fu mai il suo forte.
+Ma annuì piuttosto avidamente, essendo fin troppo pronto a illustrare gli splendori
+gotici a qualcuno più propenso a mostrarsi partecipe del presbiteriano
+fabbro o dell'ateo ciabattino.
+
+«Ma certamente» disse; «entriamo da questo lato.» E si mise
+alla testa verso l'alta entrata laterale in cima alla rampa di gradini.
+Father Brown stava salendo il primo gradino per seguirlo quando sentì una mano
+sulla spalla, e si voltò a scorgere la scura, magra figura del medico,
+il volto ancor più scuro di sospetto.
+
+«Signore» disse il medico aspramente, «voi pare che conosciate certi segreti in questa
+tenebrosa faccenda. Posso chiedervi se intendete tenerli per voi?»
+
+«Ebbene, dottore» rispose il prete, sorridendo assai piacevolmente,
+«c'è una ragione ottima perché un uomo del mio mestiere tenga
+le cose per sé quando non ne è certo, ed è che
+gli è tanto di frequente dovere tenerle per sé quando ne è certo.
+Ma se pensate che io sia stato scortesemente reticente
+con voi o con chiunque, andrò al limite estremo della mia abitudine.
+Vi darò due indizi assai grossi.»
+
+«Ebbene, signore?» disse il medico cupamente.
+
+«Primo» disse Father Brown tranquillamente, «la cosa è del tutto
+di vostra competenza. È una questione di scienza fisica.
+Il fabbro s'inganna, non forse nel dire che il colpo
+fu divino, ma certamente nel dire che venne per miracolo.
+Non fu miracolo, dottore, se non in quanto l'uomo è egli stesso
+un miracolo, col suo cuore strano e malvagio e pur mezzo eroico.
+La forza che fracassò quel cranio fu una forza ben nota agli scienziati:
+una delle più frequentemente dibattute fra le leggi della natura.»
+
+Il medico, che lo guardava con accigliata intensità, disse soltanto:
+«E l'altro indizio?»
+
+«L'altro indizio è questo» disse il prete. «Ricordate il fabbro,
+che, pur credendo ai miracoli, parlava sprezzantemente dell'impossibile favola
+secondo cui il suo martello aveva ali e volò per mezzo miglio attraverso la campagna?»
+
+«Sì» disse il medico, «lo ricordo.»
+
+«Ebbene» aggiunse Father Brown, con un largo sorriso, «quella favola
+è stata la cosa più vicina alla vera verità che sia stata detta oggi.»
+E con ciò voltò le spalle e salì zoppicando i gradini
+dietro il curato.
+
+Il reverendo Wilfred, che lo aveva atteso, pallido e impaziente,
+come se questo piccolo indugio fosse l'ultima goccia per i suoi nervi, lo condusse
+immediatamente al suo angolo prediletto della chiesa, quella parte della galleria
+più vicina al soffitto intagliato e illuminata dalla meravigliosa vetrata con l'angelo.
+Il piccolo prete latino esplorò e ammirò ogni cosa esaurientemente,
+parlando allegramente ma sempre a bassa voce. Quando nel corso
+della sua indagine trovò l'uscita laterale e la scala a chiocciola giù per la quale
+Wilfred si era precipitato a trovar morto il fratello, Father Brown corse
+non giù ma su, con l'agilità di una scimmia, e la sua voce chiara giunse
+da una piattaforma esterna, in alto.
+
+«Venite quassù, signor Bohun» chiamò. «L'aria vi farà bene.»
+
+Bohun lo seguì, e sbucò su una sorta di galleria o balcone di pietra
+all'esterno dell'edificio, dal quale si poteva vedere la sconfinata pianura in
+cui sorgeva la loro piccola collina, boscosa fino al purpureo orizzonte e punteggiata
+di villaggi e fattorie. Chiaro e squadrato, ma assai piccolo sotto di loro,
+era il cortile del fabbro, dove l'ispettore stava ancora prendendo appunti
+e il cadavere ancora giaceva come una mosca schiacciata.
+
+«Sembra la carta geografica del mondo, non è vero?» disse Father Brown.
+
+«Sì» disse Bohun assai gravemente, e annuì col capo.
+
+Immediatamente sotto e intorno a loro le linee dell'edificio gotico si tuffavano
+all'esterno nel vuoto con una vertiginosa rapidità affine al suicidio.
+Vi è quell'elemento di energia titanica nell'architettura del
+Medioevo, che, da qualunque lato la si guardi, sembra sempre
+precipitare via, come la robusta groppa di qualche cavallo impazzito.
+Questa chiesa era stata scavata da pietra antica e silente, barbuta di vecchie
+muffe e macchiata dai nidi degli uccelli. Eppure, quando la si vedeva
+dal basso, balzava come una fontana verso le stelle; e quando la si vedeva,
+come ora, dall'alto, si riversava come una cateratta in un pozzo senza voce.
+Poiché quei due uomini sulla torre erano rimasti soli con l'aspetto più terribile
+del gotico; i mostruosi scorci e le sproporzioni,
+le vertiginose prospettive, gli scorci di grandi cose fatte piccole e di piccole
+cose fatte grandi; un capovolgimento di pietra a mezz'aria. Dettagli di pietra,
+enormi per la loro prossimità, spiccavano contro un disegno di campi
+e fattorie, pigmei nella loro lontananza. Un uccello o una bestia intagliati a un angolo
+parevano qualche vasto drago che camminasse o volasse devastando i pascoli
+e i villaggi sottostanti. L'intera atmosfera era vertiginosa e pericolosa,
+come se gli uomini fossero sospesi nell'aria fra le rotanti ali di colossali geni;
+e l'intera vecchia chiesa, alta e ricca come una cattedrale,
+pareva posarsi sul paese assolato come un acquazzone.
+
+«Penso che vi sia qualcosa di piuttosto pericoloso nello stare su questi alti
+luoghi persino per pregare» disse Father Brown. «Le altezze furono fatte per essere guardate,
+non per guardare da esse.»
+
+«Volete dire che si potrebbe cadere di sotto?» chiese Wilfred.
+
+«Voglio dire che la propria anima può cadere anche se il proprio corpo non cade»
+disse l'altro prete.
+
+«Vi comprendo a stento» osservò Bohun indistintamente.
+
+«Guardate quel fabbro, per esempio» proseguì Father Brown con calma;
+«un buon uomo, ma non un cristiano: duro, imperioso, inesorabile. Ebbene, la sua
+religione scozzese fu messa insieme da uomini che pregavano su colline e alte rupi,
+e impararono a guardar dall'alto il mondo più che a guardar in alto verso il cielo.
+L'umiltà è la madre dei giganti. Si vedono grandi cose dalla valle;
+solo piccole cose dalla vetta.»
+
+«Ma egli... egli non l'ha fatto» disse Bohun con voce tremante.
+
+«No» disse l'altro con voce strana; «sappiamo che non l'ha fatto.»
+
+Dopo un momento riprese, guardando tranquillamente sulla pianura con
+i suoi pallidi occhi grigi. «Conoscevo un uomo» disse, «che cominciò col venerare
+insieme agli altri dinanzi all'altare, ma che si affezionò ad alti e solitari
+luoghi da cui pregare, angoli o nicchie nel campanile o nella guglia.
+E una volta in uno di quei luoghi vertiginosi, dove il mondo intero
+pareva girargli sotto come una ruota, gli girò anche il cervello,
+ed egli s'immaginò di essere Dio. Cosicché, sebbene fosse un buon uomo,
+commise un grande delitto.»
+
+Il volto di Wilfred era voltato altrove, ma le sue ossute mani si fecero blu
+e bianche mentre si serravano sul parapetto di pietra.
+
+«Egli pensò che gli fosse dato di giudicare il mondo e di abbattere
+il peccatore. Non avrebbe mai avuto un simile pensiero se fosse stato inginocchiato
+con altri uomini su un pavimento. Ma vide tutti gli uomini che si aggiravano come insetti.
+Ne vide uno in particolare che pavoneggiava proprio sotto di lui, insolente ed evidente
+per un vivido cappello verde: un insetto velenoso.»
+
+Le cornacchie gracchiavano intorno agli angoli del campanile; ma non vi fu altro suono
+finché Father Brown non riprese.
+
+«Anche questo lo tentò, che egli aveva in mano uno dei più terribili
+congegni della natura; intendo la gravitazione, quella folle e acceleratrice corsa
+per cui tutte le creature della terra volano indietro al suo cuore quando sono lasciate libere.
+Vedete, l'ispettore si pavoneggia proprio sotto di noi nella fucina.
+Se io gettassi un ciottolo oltre questo parapetto, sarebbe qualcosa
+come una pallottola nel momento in cui lo colpisse. Se io lasciassi cadere un martello...
+anche un piccolo martello...»
+
+Wilfred Bohun gettò una gamba oltre il parapetto, e Father Brown
+lo ebbe in un minuto per il bavero.
+
+«Non da quella porta» disse assai dolcemente; «quella porta conduce all'inferno.»
+
+Bohun barcollò indietro contro il muro, e lo fissò con occhi spaventosi.
+
+«Come sapete tutto questo?» gridò. «Siete un diavolo?»
+
+«Sono un uomo» rispose Father Brown gravemente; «e perciò ho tutti
+i diavoli nel cuore. Ascoltatemi» disse dopo una breve pausa.
+«So che cosa avete fatto... o almeno, posso indovinarne la gran parte.
+Quando lasciaste vostro fratello eravate straziato da un'ira non ingiusta,
+al punto persino che afferraste un piccolo martello, mezzo intenzionato
+a ucciderlo con la sua turpitudine sulla bocca. Ritraendovi, lo ficcaste
+invece sotto il cappotto abbottonato, e vi precipitaste in chiesa.
+Pregate follemente in molti luoghi, sotto la vetrata dell'angelo, sulla
+piattaforma in alto, e su una piattaforma ancor più alta, dalla quale potevate vedere
+il cappello orientale del colonnello come il dorso di uno scarabeo verde che strisciava attorno.
+Poi qualcosa si spezzò nella vostra anima, e lasciaste cadere il fulmine di Dio.»
+
+Wilfred si portò una debole mano al capo, e chiese a bassa voce:
+«Come sapevate che il suo cappello sembrava uno scarabeo verde?»
+
+«Oh, quello» disse l'altro con l'ombra di un sorriso, «quello è stato
+semplice buon senso. Ma ascoltatemi ancora. Io dico di sapere tutto questo;
+ma nessun altro lo saprà. Il passo successivo tocca a voi; io non
+farò altri passi; sigillerò questo col sigillo della confessione.
+Se mi chiedete perché, vi sono molte ragioni, e una sola che vi riguardi.
+Lascio le cose a voi perché non vi siete ancora spinto molto lontano nel male,
+per essere un assassino. Non avete contribuito ad addossare il delitto al fabbro
+quando era facile; né a sua moglie, quando quello era facile. Avete cercato
+di addossarlo all'imbecille perché sapevate che egli non poteva soffrirne.
+Quello è stato uno dei barlumi che è mio compito trovare negli assassini.
+E ora scendete nel villaggio, e andate per la vostra strada liberi come il vento;
+poiché ho detto la mia ultima parola.»
+
+Scesero le scale a chiocciola in assoluto silenzio, e sbucarono
+alla luce del sole presso la fucina. Wilfred Bohun sollevò con cura
+il chiavistello del cancello di legno del cortile, e avvicinatosi all'ispettore, disse:
+«Desidero costituirmi; ho ucciso mio fratello.»

@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/innocence-(chesterton)">The Innocence of Father Brown</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/innocence/story_12_the_three_tools_of_death/part_01">‹ part 01</a><a class="ex-next" href="/testi/chesterton/atomized/innocence/story_12_the_three_tools_of_death/part_03">part 03 ›</a></div>
@@ -149,3 +151,80 @@ he looks pretty dangerous."
 
 "Well, sir," said the sergeant, with the same odd look of wonder,
 "I don't know that we can."
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/innocence-(chesterton)">The Innocence of Father Brown</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/innocence/story_12_the_three_tools_of_death/part_01">‹ part 01</a><a class="ex-next" href="/testi/chesterton/atomized/innocence/story_12_the_three_tools_of_death/part_03">part 03 ›</a></div>
+</nav>
+
+# [[innocence]] — I tre strumenti della [[Death|morte]] (parte 2)
+
+«Vede», disse Father Brown, sbattendo le palpebre con modestia, «non sono sicuro che l'allegria degli Armstrong sia poi tanto allegra... per gli altri. Lei dice che nessuno potrebbe uccidere un vecchio tanto felice, ma io non ne sono così sicuro; ne nos inducas in tentationem. Se mai dovessi assassinare qualcuno», aggiunse con la più grande semplicità, «oserei dire che potrebbe trattarsi di un ottimista.»
+
+«Perché?» esclamò Merton divertito. «Crede che alla gente non piaccia l'allegria?»
+
+«Alla gente piace ridere spesso», rispose Father Brown, «ma non credo che le piaccia un sorriso perenne. L'allegria senza umorismo è una cosa davvero snervante.»
+
+Camminarono un tratto in silenzio lungo la ventosa scarpata erbosa accanto ai binari, e proprio mentre giungevano sotto l'ombra allungata dell'alta casa Armstrong, Father Brown disse a un tratto, come chi getta via un pensiero fastidioso più che offrirlo sul serio: «Certo, il bere non è né buono né cattivo in sé. Ma a volte non posso fare a meno di pensare che uomini come Armstrong avrebbero bisogno di un bicchiere di vino ogni tanto, per rattristarsi un po'.»
+
+Il superiore gerarchico di Merton, un detective brizzolato e capace di nome Gilder, se ne stava sulla scarpata verde in attesa del coroner, a colloquio con Patrick Royce, le cui grandi spalle e la barba e i capelli irsuti lo sovrastavano. Ciò era tanto più evidente perché Royce camminava sempre con una sorta di possente curvatura, e sembrava sbrigare i suoi piccoli doveri di scrivano e di domestico in maniera greve e umiliata, come un bufalo che tira un carretto.
+
+Sollevò il capo con insolito piacere alla vista del prete, e lo condusse in disparte di qualche passo. Nel frattempo Merton si rivolgeva al detective più anziano con deferenza, sì, ma non senza una certa fanciullesca impazienza.
+
+«Ebbene, signor Gilder, ha fatto molti progressi con il mistero?»
+
+«Non c'è alcun mistero», replicò Gilder, guardando le cornacchie da sotto le palpebre sognanti.
+
+«Beh, per me ce n'è uno, quantomeno», disse Merton sorridendo.
+
+«È semplicissimo, ragazzo mio», osservò l'anziano investigatore, lisciandosi la barba grigia e appuntita. «Tre minuti dopo che lei era andato a cercare il prete del signor Royce, tutto è venuto a galla. Conosce quel domestico dalla faccia smorta e dai guanti neri che ha fermato il treno?»
+
+«Lo riconoscerei dovunque. In qualche modo mi ha fatto venire i brividi.»
+
+«Ebbene», strascicò Gilder, «quando il treno è ripartito, se n'era andato anche lui. Un criminale piuttosto freddo, non trova, fuggire proprio col treno partito a chiamare la polizia?»
+
+«Immagino che lei sia abbastanza sicuro», osservò il giovane, «che sia stato davvero lui a uccidere il padrone?»
+
+«Sì, figlio mio, ne sono abbastanza sicuro», replicò Gilder seccamente, «per la trascurabile ragione che se n'è andato con ventimila sterline in titoli che si trovavano nella scrivania del suo padrone. No, l'unica cosa che meriti il nome di difficoltà è come lo abbia ucciso. Il cranio pare fracassato come da una grossa arma, ma non c'è nessuna arma in giro, e all'assassino sarebbe stato scomodo portarsela via, a meno che l'arma non fosse troppo piccola per essere notata.»
+
+«Forse l'arma era troppo grande per essere notata», disse il prete, con una strana risatina.
+
+Gilder si voltò a quella bizzarra osservazione, e con una certa severità chiese a Brown cosa intendesse.
+
+«Un modo sciocco di dirlo, lo so», disse Father Brown in tono di scusa. «Sembra una fiaba. Ma il povero Armstrong è stato ucciso con la clava di un gigante, una grande clava verde, troppo grande per essere vista, e che noi chiamiamo terra. È stato scagliato contro questa scarpata verde su cui ci troviamo.»
+
+«Che cosa vuol dire?» chiese in fretta il detective.
+
+Father Brown rivolse la sua faccia lunare verso la stretta facciata della casa e strizzò gli occhi in su, senza speranza. Seguendo il suo sguardo, videro che proprio in cima a quella parte posteriore altrimenti cieca dell'edificio, una finestra della soffitta era aperta.
+
+«Non vede», spiegò, indicando con un gesto un po' impacciato, come un bambino, «che è stato buttato giù di lassù?»
+
+Gilder scrutò la finestra aggrottando le sopracciglia, poi disse: «Beh, è certamente possibile. Ma non capisco perché lei ne sia così sicuro.»
+
+Brown spalancò i grigi occhi. «Ma come», disse, «c'è un pezzetto di corda attorno alla gamba del morto. Non vede quell'altro pezzetto di corda là in alto, impigliato all'angolo della finestra?»
+
+A quell'altezza la cosa pareva la più tenue particella di polvere o un capello, ma l'astuto vecchio investigatore fu soddisfatto. «Ha perfettamente ragione, signore», disse a Father Brown; «questo punto va decisamente a lei.»
+
+Aveva appena finito di parlare che un treno speciale, con una sola vettura, affrontò la curva della linea alla loro sinistra e, fermandosi, sputò fuori un altro gruppo di poliziotti, in mezzo ai quali si scorgeva la faccia da cane bastonato di Magnus, il domestico datosi alla fuga.
+
+«Perbacco! L'hanno preso», esclamò Gilder, e si fece avanti con un'inedita prontezza.
+
+«Avete il denaro?» gridò al primo poliziotto.
+
+L'uomo lo guardò in faccia con un'espressione piuttosto curiosa e disse: «No.» Poi aggiunse: «Almeno, non qui.»
+
+«Chi è l'ispettore, per favore?» chiese l'uomo di nome Magnus.
+
+Quando parlò, tutti compresero all'istante come quella voce avesse potuto fermare un treno. Era un uomo dall'aspetto scialbo, con lisci capelli neri, un volto incolore e una vaga suggestione d'Oriente nelle fessure orizzontali degli occhi e della bocca. Il suo sangue e il suo nome, in verità, erano rimasti dubbi da quando Sir Aaron lo aveva «salvato» dal mestiere di cameriere in un ristorante di Londra, e (come alcuni dicevano) da cose ancor più infami. Ma la sua voce era viva quanto morto era il suo volto. Fosse per esattezza in una lingua straniera, o per deferenza verso il padrone (che era alquanto sordo), i toni di Magnus avevano una qualità singolarmente squillante e penetrante, e l'intero gruppo sobbalzò quando parlò.
+
+«Ho sempre saputo che sarebbe accaduto», disse ad alta voce con sfrontata cortesia. «Il mio povero vecchio padrone si burlava di me perché vestivo di nero; ma io ho sempre detto che sarei stato pronto per il suo funerale.»
+
+E fece un momentaneo movimento con le due mani inguantate di nero.
+
+«Sergente», disse l'ispettore Gilder, fissando con ira le mani nere, «non mette i ferri a costui? Ha un'aria piuttosto pericolosa.»
+
+«Beh, signore», disse il sergente, con quella stessa strana espressione di stupore, «non so se possiamo.»

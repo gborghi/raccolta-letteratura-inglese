@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/ortho14-(chesterton)">Orthodoxy</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/ortho14/story_06_iv_the_ethics_of_elfland/part_03">‹ part 03</a><a class="ex-next" href="/testi/chesterton/atomized/ortho14/story_06_iv_the_ethics_of_elfland/part_05">part 05 ›</a></div>
@@ -126,3 +128,126 @@ they limited.  The frame was no stranger than the picture.
 The veto might [[Well|well]] be as wild as the vision; it might be as
 startling as the sun, as elusive as the waters, as fantastic and
 terrible as the towering trees.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/ortho14-(chesterton)">Orthodoxy</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/ortho14/story_06_iv_the_ethics_of_elfland/part_03">‹ part 03</a><a class="ex-next" href="/testi/chesterton/atomized/ortho14/story_06_iv_the_ethics_of_elfland/part_05">part 05 ›</a></div>
+</nav>
+
+# [[ortho14]] — L'etica del paese delle fate (parte 4)
+
+Ma, per quanto (come l'uomo senza memoria del romanzo)
+noi si percorra le strade con una sorta di ammirazione istupidita,
+resta pur sempre ammirazione. È ammirazione in inglese e non
+soltanto ammirazione in latino. Lo stupore contiene un elemento positivo
+di lode. Ecco la prossima pietra miliare da segnare con precisione
+lungo la nostra strada attraverso il paese delle fate. Nel capitolo seguente parlerò
+degli ottimisti e dei pessimisti nel loro aspetto intellettuale,
+per quel poco che ne hanno. Qui mi limito a tentare di descrivere
+le smisurate emozioni che non si possono descrivere. E l'emozione più forte
+era che la vita fosse tanto preziosa quanto sconcertante.
+Era un'estasi perché era un'avventura; era un'avventura
+perché era un'occasione. La bontà della fiaba
+non era intaccata dal fatto che potessero esserci più draghi
+che principesse; era bello trovarsi dentro una fiaba. La prova di ogni
+felicità è la gratitudine; e io mi sentivo grato, benché a stento sapessi verso chi.
+I bambini sono grati quando Babbo Natale mette nelle loro calze
+doni di giocattoli o di dolciumi. Non potevo forse essere grato a Babbo Natale quando
+mi metteva nelle calze il dono di due gambe miracolose?
+Ringraziamo la gente per i regali di compleanno di sigari e pantofole.
+Non posso ringraziare nessuno per il regalo di compleanno della nascita?
+
+     C'erano dunque questi due primi sentimenti, indifendibili
+e indiscutibili. Il mondo era uno shock, ma non era semplicemente sconvolgente;
+l'esistenza era una sorpresa, ma era una sorpresa piacevole. In verità,
+tutte le mie prime visioni erano espresse esattamente in un indovinello che mi si era
+conficcato nel cervello fin dalla fanciullezza. La domanda era: «Che cosa disse la
+prima rana?». E la risposta era: «Signore, come mi hai fatto saltare!».
+Questo dice succintamente tutto ciò che io sto dicendo. Dio fece saltare la rana;
+ma la rana preferisce saltare. Ma quando queste cose sono stabilite,
+ecco entrare in scena il secondo grande principio della filosofia fatata.
+
+     Chiunque può scorgerlo, purché legga anche solo le «Fiabe dei Grimm»
+o le belle raccolte del signor Andrew Lang. Per il gusto
+della pedanteria lo chiamerò la Dottrina della Gioia Condizionata.
+Touchstone parlava di molta virtù racchiusa in un «se»; secondo
+l'etica degli elfi tutta la virtù sta in un «se». La cifra dell'annuncio fatato
+è sempre: «Potrai vivere in un palazzo d'oro e di zaffiro,
+purché tu non pronunci la parola `mucca'»; oppure «Potrai vivere felice
+con la figlia del [[King|Re]], purché tu non le mostri una cipolla».
+La visione è sempre appesa a un divieto. Tutte le vertiginose e colossali
+cose concesse dipendono da una piccola cosa negata. Tutte le
+cose selvagge e turbinose che vengono lasciate libere dipendono da una sola
+cosa che è proibita. Il signor W.B. Yeats, nella sua squisita e
+penetrante poesia elfica, descrive gli elfi come senza legge; essi si gettano
+in una anarchia [[Innocent|innocente]] sui cavalli sfrenati dell'aria...
+
+     «Cavalca sulla cresta dell'onda scarmigliata,
+     e [[Dance|danza]] sulle [[Mountains|montagne]] come una fiamma».
+
+È una cosa terribile dire che il signor W.B. Yeats non
+comprende il paese delle fate. Ma io lo dico. È un irlandese ironico,
+pieno di reazioni intellettuali. Non è abbastanza sciocco da
+comprendere il paese delle fate. Le fate preferiscono le persone del tipo villano
+come me; gente che sta a bocca aperta, sogghigna e fa ciò che le si dice.
+Il signor Yeats legge nel paese degli elfi tutta la giusta insurrezione
+della propria razza. Ma l'illegalità dell'Irlanda è un'illegalità cristiana,
+fondata sulla ragione e sulla giustizia. Il feniano si ribella contro
+qualcosa che comprende fin troppo [[Well|bene]]; ma il vero cittadino del
+paese delle fate obbedisce a qualcosa che non comprende affatto.
+Nella fiaba una felicità incomprensibile riposa su una
+condizione incomprensibile. Si apre una scatola, e tutti i mali ne volano fuori.
+Si dimentica una parola, e le città periscono. Si accende una lampada, e l'[[Love|amore]]
+vola via. Si coglie un fiore, e vite umane sono perdute.
+Si mangia una mela, e la [[Hope|speranza]] di Dio è svanita.
+
+     Questo è il tono delle fiabe, e non è certo
+illegalità né tantomeno libertà, per quanto uomini soggetti a una meschina
+tirannia moderna possano crederla libertà per contrasto. Chi esce
+dal carcere di Portland potrebbe credere libera Fleet Street; ma uno studio più attento
+proverà che tanto le fate quanto i giornalisti sono schiavi del dovere.
+Le fate madrine appaiono almeno altrettanto severe delle altre madrine.
+Cenerentola ricevette una carrozza uscita dal Paese delle Meraviglie e un cocchiere venuto
+dal nulla, ma ricevette anche un comando -- che avrebbe potuto venire
+da Brixton -- ossia di essere di ritorno entro la mezzanotte. Aveva inoltre
+una scarpetta di vetro; e non può essere un caso che il vetro sia una
+sostanza tanto comune nel folklore. Questa principessa vive in un [[Castle|castello]] di vetro,
+quella su una [[Hill|collina]] di vetro; questa vede ogni cosa in uno [[Mirror|specchio]];
+possono tutte abitare in case di vetro, purché non tirino sassi.
+Poiché questo sottile luccichio di vetro dappertutto è l'espressione
+del fatto che la felicità è splendente ma fragile, come la
+sostanza più facilmente mandata in frantumi da una domestica o da un gatto. E anche questo
+sentimento fiabesco mi penetrò dentro e divenne il mio sentimento
+verso il mondo intero. Sentivo e sento che la vita stessa è
+splendente come il diamante, ma fragile come il vetro di una [[Window|finestra]];
+e quando i cieli venivano paragonati al cristallo terribile, mi ricordo
+un brivido. Avevo paura che Dio lasciasse cadere il cosmo
+con un fracasso.
+
+     Si ricordi, però, che essere frangibile non è la stessa cosa
+che essere perituro. Percuoti un vetro, e non durerà un istante;
+semplicemente non percuoterlo, e durerà mille anni.
+Tale, così pareva, era la gioia dell'uomo, sia nel paese degli elfi sia sulla terra;
+la felicità dipendeva dal NON FARE QUALCOSA che tu potevi in
+qualunque momento fare e per cui, assai spesso, non era ovvio il perché
+non lo dovessi fare. Ora, il punto qui è che a ME questo non
+pareva ingiusto. Se il terzo figlio del mugnaio diceva alla fata:
+«Spiegami perché non devo mettermi a testa in giù nel palazzo delle fate»,
+l'altra poteva giustamente rispondere: «[[Well|Beh]], se è per questo,
+spiegami tu il palazzo delle fate». Se Cenerentola dice: «Come mai
+devo lasciare il ballo a mezzanotte?», la sua madrina potrebbe rispondere:
+«Come mai ci vai fino a mezzanotte?». Se lascio in eredità
+a un uomo dieci elefanti parlanti e cento cavalli alati,
+egli non può lamentarsi se le condizioni partecipano della lieve eccentricità
+del dono. Non deve guardare in bocca un [[Horse|cavallo]] alato.
+E mi pareva che l'esistenza fosse essa stessa un'eredità così
+eccentrica che non potevo lamentarmi di non comprendere i
+limiti della visione, quando non comprendevo la visione
+che essi limitavano. La cornice non era più strana del quadro.
+Il divieto poteva [[Well|ben]] essere selvaggio quanto la visione; poteva essere
+sconvolgente come il sole, sfuggente come le acque, fantastico e
+terribile come gli alberi torreggianti.

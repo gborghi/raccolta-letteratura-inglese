@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/heret12-(chesterton)">Heretics</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/heret12/story_19_concluding_remarks_on_the_importance_of">‹ Story 19 Concluding Remarks on the Importance of</a><a class="ex-next" href="/testi/chesterton/atomized/heret12/story_01_introductory_remarks_on_the_importance_o/part_02">part 02 ›</a></div>
@@ -127,3 +129,127 @@ there can be no kind of question which was the more ludicrous.
 The age of the [[Inquisition]] has not at least the disgrace of having
 produced a society which made an idol of the very same man for preaching
 the very same things which it made him a convict for practising.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/heret12-(chesterton)">Heretics</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/heret12/story_19_concluding_remarks_on_the_importance_of">‹ Story 19 Concluding Remarks on the Importance of</a><a class="ex-next" href="/testi/chesterton/atomized/heret12/story_01_introductory_remarks_on_the_importance_o/part_02">part 02 ›</a></div>
+</nav>
+
+# [[heret12]] — Osservazioni introduttive sull'importanza dell'ortodossia (parte 1)
+
+I. Osservazioni introduttive sull'importanza dell'ortodossia
+
+Nulla rivela in modo più singolare un male enorme e silenzioso della società moderna
+quanto lo straordinario uso che oggigiorno si fa della parola «ortodosso».
+In altri tempi l'eretico era fiero di non essere un eretico. Erano
+i regni del mondo e la polizia e i giudici a essere eretici.
+Lui era ortodosso. Non provava alcun [[Pride|orgoglio]] per essersi ribellato contro di loro;
+erano loro che si erano ribellati contro di lui. Gli eserciti con la loro crudele sicurezza,
+i re dai volti gelidi, i decorosi procedimenti dello Stato,
+i ragionevoli procedimenti della legge: tutti costoro, come pecore, si erano smarriti.
+Quell'uomo era fiero di essere ortodosso, era fiero di essere nel giusto. Se stava
+[[Alone|solo]] in un deserto ululante, era più che un uomo: era una chiesa.
+Era il centro dell'universo; era attorno a lui che ruotavano le [[Stars|stelle]].
+Tutte le torture strappate a inferni dimenticati non avrebbero potuto costringerlo ad ammettere
+di essere eretico. Ma poche frasi moderne gliene hanno fatto un vanto.
+Dice, con una risata consapevole: «Suppongo di essere molto eretico»,
+e si guarda intorno in cerca di applausi. La parola «eresia» non significa più soltanto
+essere nel torto; significa praticamente essere lucidi e coraggiosi.
+La parola «ortodossia» non significa più soltanto essere nel giusto; significa praticamente
+essere nel torto. Tutto ciò può significare una cosa, e una cosa soltanto.
+Significa che alla gente importa meno di essere filosoficamente nel giusto.
+Perché evidentemente un uomo dovrebbe confessarsi pazzo prima di confessarsi
+eretico. Il bohémien, con la sua cravatta rossa, dovrebbe vantarsi
+della propria ortodossia. Il dinamitardo, mentre depone una bomba, dovrebbe sentire che,
+qualunque altra cosa sia, per lo meno è ortodosso.
+
+È sciocco, in linea generale, che un filosofo
+dia [[Fire|fuoco]] a un altro filosofo a Smithfield Market
+perché non concordano nella loro teoria dell'universo.
+Ciò si faceva molto di frequente nell'ultima decadenza
+del Medioevo, e fallì del tutto nel suo intento.
+Ma c'è una cosa che è infinitamente più assurda
+e impraticabile del bruciare un uomo per la sua [[philosophy|filosofia]].
+È l'abitudine di dire che la sua [[philosophy|filosofia]] non ha importanza,
+e questo si fa universalmente nel ventesimo secolo,
+nella decadenza del grande periodo rivoluzionario.
+Le teorie generali sono dovunque disprezzate; la dottrina dei
+Diritti dell'Uomo viene liquidata insieme alla dottrina della Caduta
+dell'Uomo. L'ateismo stesso è troppo teologico per noi oggi.
+La rivoluzione stessa è troppo un sistema; la libertà stessa
+è troppo una costrizione. Non vogliamo generalizzazioni.
+Il signor Bernard [[Shaw]] ha reso l'idea in un perfetto [[Epigram|epigramma]]:
+«La regola d'oro è che non c'è alcuna regola d'oro». Dobbiamo sempre
+più discutere di dettagli nell'arte, nella politica, nella letteratura. L'opinione di un uomo
+sui tram ha importanza; la sua opinione su Botticelli ha importanza;
+la sua opinione su ogni cosa non ha importanza. Egli può rivoltare ed
+esplorare un milione di oggetti, ma non deve trovare quello strano oggetto,
+l'universo; perché se lo trova avrà una religione, e sarà perduto.
+Tutto ha importanza, tranne il tutto.
+
+Non c'è quasi bisogno di esempi di questa totale leggerezza in materia
+di [[philosophy|filosofia]] cosmica. Non c'è quasi bisogno di esempi per mostrare che,
+qualunque altra cosa consideriamo capace di influire sulle faccende pratiche, non
+riteniamo abbia importanza se un uomo sia pessimista o ottimista,
+cartesiano o hegeliano, materialista o spiritualista.
+Prendiamo, tuttavia, un esempio a caso. Attorno a un qualsiasi [[Innocent|innocente]] tavolino da tè
+possiamo facilmente sentire un uomo dire: «La vita non vale la pena di essere vissuta».
+Lo consideriamo come consideriamo l'affermazione che è una bella giornata;
+nessuno pensa che possa avere un qualche serio effetto
+sull'uomo o sul mondo. Eppure se quella dichiarazione
+fosse davvero creduta, il mondo si reggerebbe a testa in giù.
+Gli assassini riceverebbero medaglie per aver salvato gli uomini dalla vita;
+i pompieri sarebbero denunciati per aver trattenuto gli uomini dalla [[Death|morte]]; i veleni sarebbero
+usati come medicine; i dottori sarebbero chiamati quando la gente sta [[Well|bene]];
+la Royal Humane Society sarebbe sradicata come un'orda di assassini.
+Eppure non ci domandiamo mai se il pessimista da salotto
+rafforzerà o disgregherà la società; poiché siamo convinti
+che le teorie non abbiano importanza.
+
+Questa non era certo l'idea di coloro che introdussero la nostra [[Freedom|libertà]].
+Quando i vecchi liberali tolsero i bavagli a tutte le eresie,
+la loro idea era che così si potessero fare scoperte
+religiose e filosofiche. La loro convinzione era che la [[Truth|verità]] cosmica fosse tanto
+importante che ognuno dovesse portarne indipendente testimonianza.
+L'idea moderna è che la [[Truth|verità]] cosmica sia tanto poco importante che
+non possa contare ciò che chiunque dice. I primi liberarono l'indagine come si
+scioglie un nobile segugio; i secondi liberano l'indagine come si getta di nuovo
+in mare un pesce non buono da mangiare. Mai vi è stata
+così poca discussione sulla [[Nature|natura]] dell'uomo come ora, quando,
+per la prima [[Time|volta]], chiunque può discuterne. L'antica restrizione
+voleva che solo gli ortodossi fossero autorizzati a discutere di religione.
+La libertà moderna vuole che a nessuno sia consentito discuterne.
+Il buon gusto, l'ultima e più vile delle superstizioni umane,
+è riuscito a farci tacere là dove tutte le altre hanno fallito.
+Sessant'anni fa era di cattivo gusto essere un ateo dichiarato.
+Poi vennero i seguaci di Bradlaugh, gli ultimi uomini religiosi,
+gli ultimi uomini a cui importava di Dio; ma non poterono mutare le cose.
+È ancora di cattivo gusto essere un ateo dichiarato. Ma la loro agonia
+ha ottenuto proprio questo: che ora è ugualmente di cattivo gusto
+essere un cristiano dichiarato. L'emancipazione non ha fatto che rinchiudere
+il santo nella stessa torre del [[Silence|silenzio]] in cui è l'eresiarca.
+Poi parliamo di Lord Anglesey e del tempo che fa, e lo chiamiamo
+la completa libertà di tutti i credi.
+
+Vi sono però alcune persone, ciononostante, e io sono una di esse,
+che pensano che la cosa più pratica e importante di un uomo
+sia tuttora la sua visione dell'universo. Pensiamo che, per una padrona di casa
+che valuta un inquilino, sia importante conoscerne il reddito, ma ancor
+più importante conoscerne la [[philosophy|filosofia]]. Pensiamo che, per un generale
+in procinto di combattere un nemico, sia importante conoscere il numero dei nemici,
+ma ancor più importante conoscere la [[philosophy|filosofia]] del nemico.
+Pensiamo che la questione non sia se la teoria del cosmo
+influisca sulle cose, ma se, alla lunga, qualsiasi altra cosa influisca su di esse.
+Nel quindicesimo secolo si [[Cross|inter]]rogava e si tormentava un uomo
+perché predicava un qualche atteggiamento immorale; nel diciannovesimo secolo
+abbiamo festeggiato e adulato Oscar Wilde perché predicava un tale atteggiamento,
+e poi gli abbiamo spezzato il cuore ai lavori forzati perché lo mise in pratica.
+Si può discutere quale dei due metodi sia stato il più crudele;
+non ci può essere alcun dubbio su quale sia stato il più ridicolo.
+L'età dell'[[Inquisition|Inquisizione]] non ha almeno il disonore di aver
+prodotto una società che fece un idolo del medesimo uomo per aver predicato
+le medesime cose per cui lo fece un galeotto per averle praticate.

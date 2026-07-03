@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/wifrb11-(chesterton)">The Wisdom of Father Brown</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/wifrb11/story_02_the_paradise_of_thieves">‹ Story 02 The Paradise of Thieves</a><a class="ex-next" href="/testi/chesterton/atomized/wifrb11/story_04_the_man_in_the_passage">Story 04 The Man in the Passage ›</a></div>
@@ -634,3 +636,634 @@ A few moments later a roar of popular applause from the street beyond
 announced that Dr Hirsch had once more appeared upon the balcony.
 
                                  FOUR
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/wifrb11-(chesterton)">The Wisdom of Father Brown</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/wifrb11/story_02_the_paradise_of_thieves">‹ Story 02 The Paradise of Thieves</a><a class="ex-next" href="/testi/chesterton/atomized/wifrb11/story_04_the_man_in_the_passage">Story 04 The Man in the Passage ›</a></div>
+</nav>
+
+# [[wifrb11]] — Il duello del dottor Hirsch
+
+                         Il duello del dottor Hirsch
+
+Il signor Maurice Brun e il signor Armand Armagnac attraversavano i soleggiati
+Champs Elysées con una sorta di vivace rispettabilità.
+Erano entrambi bassi, svelti e sfrontati. Avevano entrambi barbe nere
+che non parevano appartenere ai loro volti, secondo quella strana moda francese
+che fa sembrare artificiali i capelli veri. Il signor Brun aveva
+un cuneo scuro di barba, apparentemente incollato sotto il labbro inferiore.
+Il signor Armagnac, tanto per cambiare, aveva due barbe; una che sporgeva
+da ciascun angolo del suo mento risoluto. Erano entrambi giovani.
+Erano entrambi atei, con una deprimente fissità di vedute
+ma grande mobilità di esposizione. Erano entrambi allievi del
+grande dottor Hirsch, scienziato, pubblicista e moralista.
+
+     Il signor Brun era divenuto celebre per la sua proposta che la comune
+espressione «Adieu» fosse cancellata da tutti i classici francesi,
+e che una lieve ammenda fosse imposta a chi la usasse nella vita privata. «Allora», diceva,
+«il nome stesso del vostro immaginario Dio avrà echeggiato per l'ultima [[Time|volta]]
+all'orecchio dell'uomo». Il signor Armagnac si specializzava piuttosto in una resistenza
+al militarismo, e desiderava che il [[Chorus|ritornello]] della Marsigliese fosse mutato da
+«Aux armes, citoyens» in «Aux grèves, citoyens». Ma il suo antimilitarismo
+era di una specie peculiare e gallica. Un eminente e ricchissimo
+quacchero inglese, venuto a trovarlo per organizzare il disarmo
+dell'intero pianeta, rimase alquanto turbato dalla proposta di Armagnac
+che (tanto per cominciare) i soldati fucilassero i loro ufficiali.
+
+     E fu proprio in questo che i due uomini differivano di più
+dal loro capo e padre in [[philosophy|filosofia]]. Il dottor Hirsch,
+benché nato in Francia e coperto dei più trionfali favori
+dell'[[Education|istruzione]] francese, era temperamentalmente di un altro tipo: mite, sognatore,
+umano; e, malgrado il suo sistema scettico, non privo di trascendentalismo.
+Era, in breve, più simile a un tedesco che a un francese; e per quanto lo
+ammirassero, qualcosa nel subconscio di questi Galli era
+irritato dal suo perorare la pace in una maniera così pacifica.
+Per il loro partito in tutta Europa, tuttavia, Paul Hirsch era
+un santo della scienza. Le sue vaste e ardite teorie cosmiche
+davano lustro alla sua vita austera e alla sua [[morality|moralità]] [[Innocent|innocente]], se pur alquanto glaciale;
+occupava qualcosa della posizione di Darwin raddoppiata con la posizione
+di [[tolstoy|Tolstoj]]. Ma non era né un anarchico né un antipatriota;
+le sue vedute sul disarmo erano moderate ed evoluzioniste:
+il [[government|Governo]] repubblicano riponeva in lui considerevole fiducia
+quanto a vari miglioramenti chimici. Aveva persino di recente scoperto
+un esplosivo silenzioso, il cui segreto il [[government|Governo]] era
+attentamente custodendo.
+
+     La sua [[house|casa]] sorgeva in un'elegante via presso l'Elysée:
+una via che in quella forte [[Summer|estate]] pareva quasi tanto folta di fogliame
+quanto il parco stesso; una fila di ippocastani frantumava la luce del sole,
+interrotta in un solo punto dove un grande caffè si protendeva sulla strada.
+Quasi di fronte a questo stavano le persiane bianche e verdi della
+[[house|casa]] del grande scienziato, con un balcone di ferro, anch'esso verniciato di verde,
+che correva dinanzi alle finestre del primo piano. Sotto di esso c'era
+l'ingresso a una specie di [[Court|corte]], allegra di arbusti e piastrelle,
+in cui i due francesi entrarono discorrendo animatamente.
+
+     La porta fu loro aperta dal vecchio domestico del dottore, Simon,
+che avrebbe [[Well|benissimo]] potuto passare egli stesso per un dottore, avendo un severo
+abito nero, occhiali, capelli grigi e un'aria confidenziale.
+In effetti, era un uomo di scienza assai più presentabile del suo padrone,
+il dottor Hirsch, che era un tipo simile a un ravanello biforcuto, con appena
+il bulbo di una testa sufficiente a rendere insignificante il suo [[Body|corpo]]. Con tutta la gravità
+di un grande medico che maneggia una ricetta, Simon porse una lettera
+al signor Armagnac. Quel signore la strappò con impazienza razziale,
+e lesse rapidamente quanto segue:
+
+     Non posso scendere a parlare con voi. C'è un uomo in questa [[house|casa]]
+che mi rifiuto d'incontrare. È un ufficiale sciovinista, Dubosc.
+Sta seduto sulle scale. Ha preso a calci i mobili
+in tutte le altre stanze; io mi sono chiuso a chiave nel mio studio,
+di fronte a quel caffè. Se mi [[Love|volete]] bene, andate al caffè e aspettate
+a uno dei tavoli all'aperto. Cercherò di mandarvelo.
+Voglio che gli rispondiate voi e che ve la sbrighiate con lui. Io non posso incontrarlo di persona.
+Non posso: non voglio.
+
+     Ci sarà un altro caso Dreyfus.
+
+                                             P. HIRSCH
+
+     Il signor Armagnac guardò il signor Brun. Il signor Brun prese in prestito la lettera,
+la lesse, e guardò il signor Armagnac. Poi entrambi si portarono lestamente
+a uno dei tavolini sotto gli ippocastani di fronte,
+dove si procurarono due alti bicchieri di orribile assenzio verde,
+che parevano poter bere con qualsiasi tempo e a qualunque [[Time|ora]].
+Per il resto il caffè sembrava vuoto, eccetto un soldato che beveva caffè
+a un tavolo, e a un altro un uomo corpulento che beveva un piccolo sciroppo e
+un prete che non beveva nulla.
+
+     Maurice Brun si schiarì la gola e disse: «Naturalmente dobbiamo aiutare
+il maestro in ogni modo, ma...»
+
+     Ci fu un brusco [[Silence|silenzio]], e Armagnac disse: «Può avere
+ottime ragioni per non incontrare l'uomo di persona, ma...»
+
+     Prima che l'uno o l'altro potesse completare una frase, fu evidente che
+l'invasore era stato espulso dalla [[house|casa]] di fronte. Gli arbusti sotto
+l'arcata ondeggiarono e si aprirono di schianto, mentre quell'ospite sgradito veniva
+scagliato fuori da essi come una palla di cannone.
+
+     Era una figura robusta con un piccolo cappello di feltro tirolese inclinato,
+una figura che aveva in effetti qualcosa di generalmente tirolese.
+Le spalle dell'uomo erano larghe e ampie, ma le gambe erano snelle e agili
+nei calzoni al ginocchio e nelle calze a maglia. Il volto era bruno come una nocciola;
+aveva occhi castani vivacissimi e inquieti; i capelli scuri erano ravviati all'indietro
+rigidi sul davanti e rasati corti dietro, così da delineare un cranio quadrato e
+possente; e aveva un enorme paio di baffi neri come le corna di un bisonte.
+Una testa così sostanziosa poggia di solito su un collo taurino; ma questo era
+nascosto da una grande sciarpa colorata, avvolta su fino alle orecchie
+e ricadente sul davanti dentro la giacca come una sorta di panciotto fantasia.
+Era una sciarpa di forti colori spenti, rosso cupo, oro antico e porpora,
+probabilmente di fabbricazione orientale. Nel complesso l'uomo aveva qualcosa
+di lievemente barbarico; più simile a un possidente ungherese che a
+un ordinario ufficiale francese. Il suo francese, però, era evidentemente
+quello di un nativo; e il suo patriottismo francese era così impulsivo
+da riuscire lievemente assurdo. Il suo primo atto quando irruppe dall'arcata
+fu di chiamare con voce di squillo giù per la strada: «Ci sono
+francesi qui?», come se invocasse cristiani alla Mecca.
+
+     Armagnac e Brun balzarono all'istante in piedi; ma era troppo tardi.
+Già la gente accorreva dagli angoli delle strade; c'era una piccola
+ma sempre più fitta folla. Con il pronto istinto francese per
+la politica di strada, l'uomo dai baffi neri era già
+corso a un angolo del caffè, era saltato su uno dei tavoli,
+e afferrando un ramo d'ippocastano per reggersi, gridò
+come gridò un tempo Camille Desmoulins quando sparse le [[Leaves|foglie]] di quercia
+tra il popolino.
+
+     «Francesi!» sbraitò a raffica; «non so parlare! Che Dio mi aiuti, è per questo
+che parlo! Quei tali nei loro sudici parlamenti che imparano
+a parlare imparano anche a tacere: muti come quella spia rannicchiata
+nella [[house|casa]] di fronte! Muto com'è quando batto alla porta della sua camera!
+Muto com'è ora, benché oda la mia voce attraverso questa strada
+e tremi là dove siede! Oh, sanno tacere con eloquenza,
+i politicanti! Ma è venuto il [[Time|momento]] in cui noi che non sappiamo parlare
+dobbiamo parlare. Siete traditi ai prussiani. Traditi in questo istante.
+Traditi da quell'uomo. Io sono Jules Dubosc, colonnello d'artiglieria, Belfort.
+Ieri nei Vosgi abbiamo catturato una spia tedesca, e le fu trovato addosso
+un foglio: un foglio che ho qui in mano. Oh, hanno cercato di soffocare la cosa;
+ma io l'ho portato dritto all'uomo che l'aveva scritto: l'uomo in quella [[house|casa]]!
+È di suo pugno. È firmato con le sue iniziali. È un'indicazione
+per trovare il segreto di questa nuova Polvere Silenziosa. Hirsch l'ha inventata;
+Hirsch ha scritto questa nota su di essa. Questa nota è in tedesco, ed è stata trovata
+nella tasca di un tedesco. "Dite all'uomo che la formula della polvere è nella
+busta grigia nel primo cassetto a sinistra della scrivania del Segretario,
+Ministero della Guerra, in inchiostro rosso. Faccia attenzione. P.H."»
+
+     Sparava frasi brevi come una mitragliatrice a tiro rapido, ma era chiaramente
+il tipo d'uomo che o è pazzo o ha ragione. Il grosso della folla
+era nazionalista, e già in minaccioso tumulto; e una minoranza
+di intellettuali ugualmente adirati, guidati da Armagnac e Brun, non faceva che rendere
+la maggioranza più bellicosa.
+
+     «Se questo è un segreto militare», gridò Brun, «perché lo strombazzate
+per la strada?»
+
+     «Vi dirò io perché lo faccio!» ruggì Dubosc sopra la folla ruggente.
+«Sono andato da quest'uomo in modo schietto e civile. Se avesse avuto una spiegazione
+avrebbe potuto darla nella più completa riservatezza. Rifiuta di spiegare.
+Mi rimanda a due estranei in un caffè come a due lacchè.
+Mi ha cacciato di casa, ma io ci tornerò dentro,
+con il popolo di Parigi alle spalle!»
+
+     Un grido parve scuotere la facciata stessa dei palazzi e
+volarono due sassi, uno dei quali ruppe una finestra sopra il balcone.
+L'indignato colonnello si tuffò ancora una volta sotto l'arcata e lo si udì
+gridare e tuonare all'interno. A ogni istante il mare umano si faceva più vasto
+e più vasto; si gonfiava contro le ringhiere e i gradini della casa del traditore;
+già era certo che il luogo sarebbe stato preso d'assalto come
+la Bastiglia, quando la porta-finestra rotta si aprì e il dottor Hirsch uscì
+sul balcone. Per un istante la furia si mutò a metà in riso;
+poiché egli era una figura assurda in una scena simile. Il suo lungo collo nudo e
+le spalle spioventi avevano la forma di una bottiglia di champagne, ma quella era
+l'unica cosa festosa in lui. La giacca gli pendeva addosso come a un attaccapanni;
+portava i capelli color carota lunghi e stopposi; le guance e il mento
+erano interamente frangiati da una di quelle irritanti barbe che cominciano
+lontano dalla bocca. Era pallidissimo, e portava occhiali azzurri.
+
+     Livido com'era, parlò con una sorta di precisione compassata,
+tanto che la folla ammutolì nel bel mezzo della sua terza frase.
+
+     «...solo due cose da dirvi adesso. La prima è ai miei nemici,
+la seconda ai miei amici. Ai miei nemici dico: è vero, non incontrerò
+il signor Dubosc, benché egli infurii fuori da questa stanza stessa.
+È vero, ho pregato altri due uomini di affrontarlo al mio posto.
+E vi dirò perché! Perché non voglio e non devo vederlo:
+perché sarebbe contro ogni regola di dignità e d'onore vederlo.
+Prima che io sia trionfalmente scagionato davanti a un tribunale, c'è
+un altro arbitrato che questo signore mi deve in quanto gentiluomo,
+e nel rimandarlo ai miei padrini io sono rigorosamente...»
+
+     Armagnac e Brun agitavano freneticamente i cappelli, e persino
+i nemici del dottore ruggirono un applauso a questa inattesa sfida.
+Ancora una volta poche frasi furono inudibili, ma poterono udirlo dire:
+«Ai miei amici... io stesso preferirei sempre armi puramente intellettuali,
+e a queste un'umanità evoluta certamente si limiterà.
+Ma la nostra più preziosa verità è la forza fondamentale della materia
+e dell'eredità. I miei libri hanno successo; le mie teorie sono inconfutate;
+ma in politica soffro di un pregiudizio quasi fisico nei francesi.
+Non so parlare come Clemenceau e Déroulède, perché le loro parole sono come
+echi delle loro pistole. Il francese chiede un duellante come l'inglese
+chiede uno sportivo. Ebbene, do le mie prove: pagherò
+questa tangente barbarica, e poi tornerò alla ragione per il resto della mia vita».
+
+     Due uomini si trovarono all'istante nella folla stessa a offrire
+i loro servigi al colonnello Dubosc, che venne fuori di lì a poco, soddisfatto.
+Uno era il soldato semplice con il caffè, che disse semplicemente:
+«Farò da padrino per voi, signore. Sono il duca di Valognes». L'altro era
+l'uomo corpulento, che il suo amico prete dapprima cercò di dissuadere;
+poi se ne andò via da solo.
+
+     Sul far della sera una cena leggera fu apparecchiata sul retro del
+Café Charlemagne. Benché privi di ogni tettoia di vetro o di stucco dorato,
+i commensali si trovavano quasi tutti sotto un delicato e irregolare tetto di foglie;
+poiché gli alberi ornamentali stavano così fitti intorno e tra i tavoli
+da conferire qualcosa della penombra e dell'abbaglio di un piccolo frutteto.
+A uno dei tavoli centrali un pretino tozzo e tarchiato sedeva
+in completa solitudine, e si applicava a un mucchio di bianchetti
+con la sorta più grave di godimento. Poiché il suo vitto quotidiano era assai frugale,
+aveva un gusto peculiare per i lussi improvvisi e isolati; era
+un epicureo astemio. Non alzò gli occhi dal piatto,
+intorno al quale pepe rosso, limoni, pane scuro e burro, eccetera,
+erano rigidamente schierati, finché un'ombra alta non cadde attraverso il tavolo,
+e il suo amico Flambeau si sedette di fronte a lui. Flambeau era cupo.
+
+     «Temo di dover mollare questa faccenda», disse pesantemente.
+«Sto tutto dalla parte dei soldati francesi come Dubosc,
+e sono tutto contro gli atei francesi come Hirsch; ma mi pare
+che in questo caso abbiamo commesso un errore. Il duca e io pensammo che fosse bene
+indagare sull'accusa, e devo dire che sono contento di averlo fatto».
+
+     «Il foglio è dunque un falso?» chiese il prete.
+
+     «È proprio questa la cosa strana», rispose Flambeau. «È esattamente come
+la calligrafia di Hirsch, e nessuno vi sa indicare un solo errore.
+Ma non è stato scritto da Hirsch. Se è un patriota francese
+non l'ha scritto lui, perché fornisce informazioni alla Germania.
+E se è una spia tedesca non l'ha scritto lui, be'... perché non
+fornisce informazioni alla Germania».
+
+     «Vuoi dire che l'informazione è sbagliata?» chiese padre Brown.
+
+     «Sbagliata», rispose l'altro, «e sbagliata proprio là dove il dottor Hirsch
+avrebbe avuto ragione: sul nascondiglio della sua stessa formula segreta
+nel suo stesso dipartimento ufficiale. Per grazia di Hirsch e delle autorità,
+al duca e a me è stato effettivamente permesso di ispezionare il cassetto segreto
+al Ministero della Guerra dove è custodita la formula Hirsch. Siamo le uniche persone
+che l'abbiano mai conosciuto, eccetto l'inventore stesso e il ministro
+della Guerra; ma il ministro lo permise per salvare Hirsch dal duello.
+Dopo di che non possiamo davvero sostenere Dubosc se la sua rivelazione
+è una montatura».
+
+     «E lo è?» chiese padre Brown.
+
+     «Lo è», disse cupo l'amico. «È un falso maldestro
+opera di qualcuno che nulla sapeva del vero nascondiglio. Dice che il foglio
+è nell'armadietto a destra della scrivania del Segretario. In realtà
+l'armadietto col cassetto segreto è alquanto a sinistra della scrivania.
+Dice che la busta grigia contiene un lungo documento scritto in inchiostro rosso.
+Non è scritto in inchiostro rosso, ma in ordinario inchiostro nero.
+È manifestamente assurdo dire che Hirsch possa aver commesso un errore
+su un foglio di cui nessuno era a conoscenza tranne lui stesso; o che possa aver cercato
+di aiutare un ladro straniero dicendogli di frugare nel cassetto sbagliato.
+Credo che dobbiamo lasciar perdere e scusarci col vecchio Carote».
+
+     Padre Brown parve meditare; sollevò un piccolo bianchetto
+sulla forchetta. «Sei sicuro che la busta grigia fosse nell'armadietto di sinistra?»
+chiese.
+
+     «Sicurissimo», rispose Flambeau. «La busta grigia...
+era una busta bianca in realtà... era...»
+
+     Padre Brown posò il piccolo pesce d'argento e la forchetta e
+fissò il suo compagno di fronte. «Cosa?» chiese, con voce mutata.
+
+     «Be', cosa?» ripeté Flambeau, mangiando di gusto.
+
+     «Non era grigia», disse il prete. «Flambeau, mi fai paura».
+
+     «Che diavolo ti fa paura?»
+
+     «Mi fa paura una busta bianca», disse l'altro seriamente,
+«Se solo fosse stata grigia! Al diavolo, sarebbe anche potuta
+essere grigia. Ma se era bianca, tutta la faccenda è nera.
+Il dottore ha trafficato con un po' del vecchio zolfo, dopotutto».
+
+     «Ma ti dico che non poteva aver scritto una nota simile!»
+esclamò Flambeau. «La nota è del tutto sbagliata sui fatti.
+E innocente o colpevole, il dottor Hirsch sapeva tutto dei fatti».
+
+     «L'uomo che ha scritto quella nota sapeva tutto dei fatti»,
+disse pacatamente il suo compagno in tonaca. «Non avrebbe mai potuto
+sbagliarli tutti così senza conoscerli. Bisogna sapere
+un mucchio di cose per aver torto su ogni argomento: come il diavolo».
+
+     «Vuoi dire...?»
+
+     «Voglio dire che un uomo che dicesse menzogne a caso avrebbe detto qualche verità»,
+disse fermamente l'amico. «Supponi che qualcuno ti mandasse a cercare una casa
+con una porta verde e una persiana azzurra, con un giardino davanti ma non dietro,
+con un cane ma senza gatto, e dove si bevesse caffè ma non tè.
+Se non trovassi una casa simile diresti che è tutto inventato.
+Ma io dico di no. Io dico che se trovassi una casa dove la porta fosse azzurra e
+la persiana verde, dove ci fosse un giardino dietro e non davanti,
+dove i gatti fossero comuni e i cani abbattuti all'istante, dove il tè si bevesse
+a litri e il caffè fosse proibito... allora sapresti di aver
+trovato la casa. L'uomo doveva conoscere quella casa particolare
+per essere così accuratamente inesatto».
+
+     «Ma cosa potrebbe significare?» domandò il commensale di fronte.
+
+     «Non riesco a concepirlo», disse Brown; «non capisco affatto questa faccenda
+di Hirsch. Finché si trattava solo del cassetto di sinistra invece di
+quello di destra, e dell'inchiostro rosso invece del nero, pensavo dovessero essere le
+sviste casuali di un falsario, come dici tu. Ma il tre è un numero mistico;
+conclude le cose. Conclude questa. Che l'indicazione sul
+cassetto, il colore dell'inchiostro, il colore della busta non siano
+nessuno di essi giusto per caso, questo non può essere una coincidenza. Non lo era».
+
+     «E cos'era, allora? Tradimento?» chiese Flambeau, riprendendo la sua cena.
+
+     «Non lo so nemmeno questo», rispose Brown, con un volto
+di totale smarrimento. «L'unica cosa a cui riesco a pensare...
+Ebbene, non ho mai capito quel caso Dreyfus. So sempre afferrare
+le prove morali più facilmente delle altre specie. Vado dagli occhi e dalla voce di un uomo,
+capisci, e da se la sua famiglia pare felice, e dagli argomenti
+che sceglie... e che evita. Ebbene, ero perplesso nel caso Dreyfus.
+Non per le cose orribili imputate in entrambi i sensi; io so (benché non sia
+moderno dirlo) che la natura umana nei luoghi più alti è ancora capace
+di essere un Cenci o un Borgia. No... ciò che mi lasciava perplesso era la sincerità
+di entrambe le parti. Non intendo i partiti politici; la truppa
+è sempre grossolanamente onesta, e spesso ingannata. Intendo i personaggi
+del dramma. Intendo i congiurati, se erano congiurati.
+Intendo il traditore, se era un traditore. Intendo gli uomini che dovevano
+aver saputo la verità. Ora, Dreyfus si comportava come un uomo che sapeva di essere
+un uomo offeso. Eppure gli statisti e i soldati francesi si comportavano
+come se sapessero che egli non era un uomo offeso ma semplicemente un mascalzone.
+Non intendo che si comportassero bene; intendo che si comportavano come se fossero sicuri.
+Non so descrivere queste cose; so cosa intendo».
+
+     «Vorrei saperlo anch'io», disse l'amico. «E cosa c'entra
+col vecchio Hirsch?»
+
+     «Supponi che una persona in una posizione di fiducia», proseguì il prete,
+«cominciasse a dare informazioni al nemico perché erano informazioni false.
+Supponi che credesse persino di salvare il suo paese fuorviando lo straniero.
+Supponi che questo lo portasse in ambienti di spionaggio, e che gli venissero fatti piccoli prestiti,
+e legati addosso piccoli vincoli. Supponi che mantenesse la sua contraddittoria
+posizione in modo confuso non dicendo mai la verità alle spie straniere,
+ma lasciando che sempre più la si indovinasse. La parte migliore di lui
+(quel che ne restava) direbbe ancora: "Non ho aiutato il nemico;
+ho detto che era il cassetto di sinistra". La parte più vile di lui direbbe già:
+"Ma potrebbero avere il buon senso di capire che significa quello di destra".
+Credo sia psicologicamente possibile... in un'epoca illuminata, sai».
+
+     «Può essere psicologicamente possibile», rispose Flambeau,
+«e spiegherebbe certamente che Dreyfus fosse certo di essere offeso
+e i suoi giudici sicuri che fosse colpevole. Ma non regge storicamente,
+perché il documento di Dreyfus (se era il suo documento) era letteralmente corretto».
+
+     «Non stavo pensando a Dreyfus», disse padre Brown.
+
+     Il silenzio era sceso intorno a loro con lo svuotarsi dei tavoli;
+era già tardi, benché la luce del sole ancora si aggrappasse a ogni cosa,
+come se fosse rimasta accidentalmente impigliata tra gli alberi. Nell'immobilità Flambeau
+spostò bruscamente la sedia, producendo un rumore isolato ed echeggiante,
+e gettò il gomito sullo spigolo di essa. «Be'», disse, piuttosto aspramente,
+«se Hirsch non è meglio di un timido mercante di tradimenti...»
+
+     «Non dovete essere troppo severo con loro», disse gentilmente padre Brown.
+«Non è interamente colpa loro; ma non hanno istinti.
+Intendo quelle cose che fanno rifiutare a una donna di ballare con un uomo
+o a un uomo di toccare un investimento. È stato loro insegnato che
+è tutta una questione di grado».
+
+     «Comunque sia», gridò Flambeau spazientito, «lui non regge il confronto
+col mio principale; e io andrò fino in fondo. Il vecchio Dubosc sarà anche
+un po' pazzo, ma è una specie di patriota, dopotutto».
+
+     Padre Brown continuò a consumare bianchetti.
+
+     Qualcosa nel modo flemmatico in cui lo faceva indusse i feroci occhi
+neri di Flambeau a vagare di nuovo sul compagno. «Che cos'hai
+che non va?» domandò Flambeau. «Dubosc è a posto, in quel senso.
+Non dubiti di lui?»
+
+     «Amico mio», disse il piccolo prete, posando coltello e forchetta
+in una sorta di gelida disperazione, «io dubito di tutto. Di tutto, intendo,
+ciò che è accaduto oggi. Dubito dell'intera storia, benché sia stata
+recitata davanti al mio volto. Dubito di ogni cosa che i miei occhi hanno visto
+da stamattina. C'è qualcosa in questa faccenda del tutto diverso
+dall'ordinario mistero poliziesco in cui un uomo più o meno mente
+e l'altro più o meno dice la verità. Qui entrambi gli uomini...
+Ebbene! Ti ho detto l'unica teoria a cui riesco a pensare che potrebbe
+soddisfare chiunque. Non soddisfa me».
+
+     «Nemmeno me», rispose Flambeau accigliandosi, mentre l'altro
+seguitava a mangiare pesce con aria di totale rassegnazione. «Se tutto ciò che
+sai suggerire è quella nozione di un messaggio trasmesso per contrari,
+la trovo insolitamente ingegnosa, ma... be', come la chiameresti?»
+
+     «La chiamerei debole», disse prontamente il prete.
+«La chiamerei insolitamente debole. Ma è proprio questa la cosa strana
+di tutta la faccenda. La menzogna è quella di uno scolaretto.
+Ci sono solo tre versioni: quella di Dubosc, quella di Hirsch e quella mia fantasia.
+O quella nota è stata scritta da un ufficiale francese per rovinare un funzionario francese;
+o è stata scritta dal funzionario francese per aiutare ufficiali tedeschi;
+o è stata scritta dal funzionario francese per ingannare ufficiali tedeschi.
+Benissimo. Ti aspetteresti che un foglio segreto che passa tra persone simili,
+funzionari o ufficiali, avesse tutt'altro aspetto.
+Ti aspetteresti, probabilmente, un cifrario, certamente abbreviazioni;
+molto certamente termini scientifici e rigorosamente professionali.
+Ma questa cosa è elaboratamente semplice, come un romanzetto d'appendice:
+"Nella grotta purpurea troverai lo scrigno d'oro". Sembra come se...
+come se fosse fatta apposta per essere scoperta subito».
+
+     Quasi prima che potessero afferrarlo, una figura bassa in uniforme francese
+si era avvicinata al loro tavolo come il [[Wind|vento]], e si sedette
+con una specie di tonfo.
+
+     «Ho notizie straordinarie», disse il duca di Valognes.
+«Vengo proprio adesso da questo nostro colonnello. Sta facendo i bagagli
+per lasciare il paese, e ci chiede di porgere le sue scuse sur le terrain».
+
+     «Cosa?» esclamò [[Flambeau]], con un'[[Incredulity|incredulità]] addirittura spaventosa,
+«scusarsi?»
+
+     «Sì», disse il duca burbero; «lì per lì, davanti a tutti,
+quando le spade saranno sguainate. E tu e io dobbiamo farlo mentre
+lui lascia il paese».
+
+     «Ma cosa può significare questo?» esclamò [[Flambeau]]. «Non può aver paura di
+quel piccolo Hirsch! Corpo di mille diavoli!» gridò, in una specie di rabbia razionale;
+«nessuno potrebbe aver paura di Hirsch!»
+
+     «Credo sia qualche complotto!» scattò Valognes, «qualche complotto
+degli ebrei e dei massoni. È fatto apposta per montare la gloria di Hirsch...»
+
+     Il volto di [[Father Brown]] era ordinario, ma curiosamente appagato;
+poteva risplendere d'ignoranza [[Well|tanto quanto]] di sapere.
+Ma c'era sempre un lampo in cui la maschera sciocca cadeva,
+e la maschera saggia si adattava al suo posto; e [[Flambeau]],
+che conosceva l'amico, capì che l'amico aveva improvvisamente compreso.
+Brown non disse nulla, ma finì il suo piatto di pesce.
+
+     «Dove hai visto per l'ultima volta il nostro prezioso colonnello?» chiese [[Flambeau]],
+irritato.
+
+     «È qui vicino, all'Hôtel Saint Louis presso l'Elysée,
+dove l'abbiamo accompagnato in vettura. Sta facendo i bagagli, ti dico».
+
+     «Ci sarà ancora, pensi?» chiese [[Flambeau]],
+accigliandosi verso il tavolo.
+
+     «Non credo possa andarsene ancora», rispose il duca;
+«sta facendo i bagagli per un lungo [[Journey|viaggio]]...»
+
+     «No», disse [[Father Brown]], con la massima semplicità, ma alzandosi d'un tratto in piedi,
+«per un [[Journey|viaggio]] brevissimo. Uno dei più brevi, anzi.
+Ma potremmo essere ancora in [[Time|tempo]] per acchiapparlo se ci andiamo in taxi».
+
+     Non si poté cavargli altro finché il taxi non svoltò
+l'angolo presso l'Hôtel Saint Louis, dove scesero,
+ed egli condusse la comitiva su per un vicolo laterale già immerso in una profonda [[Shadow|ombra]] con
+il crescere del crepuscolo. Una volta, quando il duca chiese impaziente se
+Hirsch fosse colpevole di tradimento o no, egli rispose piuttosto distrattamente:
+«No; soltanto di [[Ambition|ambizione]]... come Cesare». Poi, in modo alquanto sconclusionato, aggiunse:
+«Vive una vita molto solitaria; ha dovuto fare tutto da sé».
+
+     «[[Well|Be']], se è ambizioso, dovrebbe essere soddisfatto adesso»,
+disse [[Flambeau]] piuttosto amaramente. «Tutta [[Paris|Parigi]] lo acclamerà
+ora che il nostro maledetto colonnello ha voltato le spalle».
+
+     «Non parlare così forte», disse [[Father Brown]], abbassando la voce,
+«il tuo maledetto colonnello è proprio davanti a noi».
+
+     Gli altri due trasalirono e si ritrassero più addietro nell'[[Shadow|ombra]]
+del muro, poiché la figura robusta del loro principale in fuga
+si poteva effettivamente vedere strascicare i piedi nel crepuscolo davanti a loro,
+una borsa in ciascuna mano. Aveva pressappoco lo stesso aspetto di quando lo videro la prima volta,
+salvo che aveva cambiato i suoi pittoreschi calzoni da montanaro
+con un paio di pantaloni convenzionali. Era chiaro che stava già
+fuggendo dall'albergo.
+
+     Il vicolo lungo il quale lo seguirono era uno di quelli che
+paiono stare sul retro delle cose, e assomigliano al rovescio
+delle quinte di un palcoscenico. Un muro incolore e continuo correva lungo
+un fianco di esso, interrotto a intervalli da porte dai colori spenti e
+macchiate di sporco, tutte serrate e prive di caratteristiche, salvo per
+gli scarabocchi di [[chalk|gesso]] di qualche monello di passaggio. Le cime degli alberi,
+per lo più sempreverdi piuttosto deprimenti, spuntavano a intervalli oltre
+la sommità del muro, e al di là di essi, nella foschia grigia e purpurea,
+si scorgeva il retro di qualche lunga fila di alte case parigine,
+in realtà relativamente vicine, ma in qualche modo dall'aria tanto inaccessibile
+quanto una catena di [[Mountains|montagne]] di marmo. Sull'altro lato del vicolo correvano
+le alte cancellate dorate di un tetro parco.
+
+     [[Flambeau]] si guardava intorno in modo piuttosto singolare.
+«Sai», disse, «c'è qualcosa in questo posto che...»
+
+     «Ehilà!» chiamò il duca bruscamente; «quel tale è sparito.
+Svanito, come una fata maledetta!»
+
+     «Ha una chiave», spiegò l'amico in tonaca. «È solo entrato
+in una di queste porte da [[Garden|giardino]]», e mentre parlava udirono una delle
+opache porte di legno richiudersi con uno scatto davanti a loro.
+
+     [[Flambeau]] si diresse a grandi passi verso la porta così chiusa quasi in faccia a lui,
+e vi rimase davanti un momento, mordendosi i baffi neri
+in una furia di curiosità. Poi levò in alto le lunghe braccia e
+si issò come una scimmia e stette sulla sommità del muro,
+la sua enorme figura scura contro il cielo purpureo, come le scure cime degli alberi.
+
+     Il duca guardò il prete. «La fuga di Dubosc è
+più elaborata di quanto pensassimo», disse; «ma suppongo che stia
+fuggendo dalla Francia».
+
+     «Sta fuggendo da ogni luogo», rispose [[Father Brown]].
+
+     Gli occhi di Valognes si illuminarono, ma la voce si abbassò. «Vuoi dire
+[[suicide|suicidio]]?» chiese.
+
+     «Non troverete il suo [[Body|corpo]]», rispose l'altro.
+
+     Una specie di grido venne da [[Flambeau]] sul muro in alto.
+«Mio Dio», esclamò in francese, «ora so cos'è questo posto!
+Ma è il retro della strada dove abita il vecchio Hirsch. Pensavo
+di saper riconoscere il retro di una [[house|casa]] [[Well|tanto bene]] quanto il retro di un uomo».
+
+     «E Dubosc è entrato là dentro!» esclamò il duca, battendosi il fianco.
+«Ma allora si incontreranno, dopotutto!» E con improvvisa vivacità gallica
+saltò su sul muro accanto a [[Flambeau]] e vi si sedette scalciando addirittura
+le gambe per l'eccitazione. Il prete [[Alone|soltanto]] rimase in basso,
+appoggiato al muro, con le spalle all'intero teatro degli eventi,
+e guardava con nostalgia oltre, verso lo steccato del parco e gli scintillanti,
+crepuscolari alberi.
+
+     Il duca, per quanto eccitato, aveva gli istinti di un [[aristocrat|aristocratico]],
+e desiderava piuttosto contemplare la [[house|casa]] che spiarla;
+ma [[Flambeau]], che aveva gli istinti di uno scassinatore (e di un [[Detective|investigatore]]),
+si era già lanciato dal muro nella biforcazione di un albero sparuto
+da cui poteva arrampicarsi fin proprio vicino all'unica [[Window|finestra]] illuminata
+sul retro dell'alta e buia [[house|casa]]. Una persiana rossa era stata calata
+sopra la luce, ma calata di traverso, sì che si apriva su un lato,
+e rischiando l'osso del collo lungo un ramo che pareva infido
+come un fuscello, [[Flambeau]] poteva appena scorgere il colonnello Dubosc che andava attorno
+in una camera da letto splendidamente illuminata e lussuosa. Ma per quanto vicino fosse [[Flambeau]]
+alla [[house|casa]], udiva le parole dei colleghi presso il muro,
+e le ripeteva a bassa voce.
+
+     «Sì, adesso si incontreranno, dopotutto!»
+
+     «Non si incontreranno mai», disse [[Father Brown]]. «Hirsch aveva ragione
+quando disse che in una faccenda simile i due protagonisti non devono incontrarsi.
+Hai letto un bizzarro racconto psicologico di Henry James,
+di due persone che tanto perpetuamente mancavano d'incontrarsi per accidente
+da cominciare a provare vera paura l'una dell'altra, e a pensare
+che fosse il destino? Questo è qualcosa del genere, ma più curioso».
+
+     «Ci sono persone a [[Paris|Parigi]] che li guariranno da simili fantasie morbose»,
+disse Valognes vendicativamente. «Dovranno [[Well|bene]] incontrarsi
+se li catturiamo e li costringiamo a battersi».
+
+     «Non si incontreranno il Giorno del Giudizio», disse il prete.
+«Se Dio Onnipotente reggesse il bastone del comando del campo, se san [[Michael|Michele]]
+soffiasse nella tromba perché le spade si [[Cross|incrociassero]]... anche allora, se uno di loro
+stesse pronto, l'altro non verrebbe».
+
+     «Oh, cosa vuol dire tutto questo misticismo?» esclamò il duca di Valognes,
+spazientito; «perché mai non dovrebbero incontrarsi come le altre persone?»
+
+     «Sono l'opposto l'uno dell'altro», disse [[Father Brown]],
+con una strana specie di sorriso. «Si contraddicono a vicenda.
+Si annullano, per così dire».
+
+     Continuò a fissare gli alberi che si oscuravano di fronte, ma Valognes
+voltò bruscamente la testa a un'esclamazione soffocata di [[Flambeau]].
+Quell'investigatore, scrutando nella stanza illuminata, aveva appena visto
+il colonnello, dopo un passo o due, procedere a togliersi la giacca.
+Il primo pensiero di [[Flambeau]] fu che questo somigliasse davvero a un preludio di duello;
+ma presto abbandonò quel pensiero per un altro. La solidità e
+la squadratura del petto e delle spalle di Dubosc erano tutte una possente imbottitura
+e vennero via con la giacca. In camicia e pantaloni
+egli era un gentiluomo relativamente esile, che attraversò la camera da letto verso
+il bagno con nessun proposito più bellicoso di quello di lavarsi.
+Si chinò su un catino, si asciugò le mani e il viso gocciolanti su un asciugamano,
+e si voltò di nuovo così che la forte luce gli cadde sul volto.
+La sua carnagione bruna era sparita, i suoi grandi baffi neri erano spariti;
+egli... era ben rasato e pallidissimo. Nulla rimaneva del colonnello
+se non i suoi vivaci occhi castani da falco. Sotto il muro [[Father Brown]]
+stava proseguendo in greve meditazione, come tra sé.
+
+     «È tutto proprio come dicevo a [[Flambeau]].
+Questi opposti non funzionano. Non reggono. Non si battono.
+Se è bianco invece di nero, e solido invece di liquido,
+e così via lungo tutta la linea... allora c'è qualcosa che non va, Monsieur,
+c'è qualcosa che non va. Uno di questi uomini è chiaro e l'altro scuro,
+uno tarchiato e l'altro esile, uno forte e l'altro debole.
+Uno ha i baffi e niente barba, così che non se ne vede la bocca;
+l'altro ha la barba e niente baffi, così che non se ne vede il mento.
+Uno ha i capelli rasati fino al cranio, ma una sciarpa a nascondergli il collo;
+l'altro ha colletti bassi, ma capelli lunghi a nascondergli il cranio.
+È tutto troppo lindo e corretto, Monsieur, e c'è qualcosa che non va.
+Cose fatte così opposte sono cose che non possono litigare.
+Ovunque l'uno sporge, l'altro rientra. Come un volto e una maschera,
+come una serratura e una chiave...»
+
+     [[Flambeau]] scrutava dentro la [[house|casa]] con il viso bianco come un lenzuolo.
+L'occupante della stanza era in piedi voltandogli le spalle,
+ma davanti a uno specchio, e si era già adattato intorno al viso
+una sorta di intelaiatura di ispidi capelli rossi, pendenti in disordine dal capo e
+avviluppati intorno alle mascelle e al mento, lasciando scoperta la bocca beffarda.
+Vista così nello specchio, la faccia bianca somigliava alla faccia di Giuda
+che ride orribilmente circondato da guizzanti fiamme dell'inferno.
+Per uno spasimo [[Flambeau]] vide danzare i feroci occhi rosso-bruni,
+poi furono coperti da un paio di occhiali azzurri. Infilandosi
+un'ampia giacca nera, la figura svanì verso il davanti della [[house|casa]].
+Pochi istanti dopo un boato di popolare applauso dalla strada al di là
+annunciò che il dottor Hirsch era ancora una volta comparso sul balcone.
+
+                                 QUATTRO

@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/ortho14-(chesterton)">Orthodoxy</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/ortho14/story_07_vii_the_eternal_revolution/part_12">‹ part 12</a><a class="ex-next" href="/testi/chesterton/atomized/ortho14/story_07_vii_the_eternal_revolution/part_14">part 14 ›</a></div>
@@ -128,3 +130,128 @@ too difficult for human speech,) but let the atheists themselves
 choose a god.  They will find only one divinity who ever uttered
 their isolation; only one religion in which God seemed for an instant
 to be an atheist.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/ortho14-(chesterton)">Orthodoxy</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/ortho14/story_07_vii_the_eternal_revolution/part_12">‹ part 12</a><a class="ex-next" href="/testi/chesterton/atomized/ortho14/story_07_vii_the_eternal_revolution/part_14">part 14 ›</a></div>
+</nav>
+
+# [[ortho14]] — Vii La rivoluzione eterna (parte 13)
+
+Di nuovo, altrettanto vale per quella spinosa questione
+del pericolo dell'[[Soul|anima]], che ha turbato tante menti rette.
+[[Hope|Sperare]] per tutte le anime è un dovere; ed è del tutto sostenibile che
+la loro salvezza sia inevitabile. È sostenibile, ma non è
+particolarmente propizio all'operosità o al progresso. La nostra società
+combattiva e creatrice dovrebbe piuttosto insistere sul pericolo di ciascuno,
+sul fatto che ogni uomo pende da un filo o si aggrappa
+a un precipizio. Dire che tutto andrà [[Well|bene]] comunque è
+un'osservazione comprensibile: ma non la si può dire uno squillo di tromba.
+L'Europa dovrebbe piuttosto sottolineare la possibile perdizione; e l'Europa
+l'ha sempre sottolineata. Qui la sua religione più alta è tutt'uno
+con i suoi più dozzinali romanzi d'appendice. Per il buddista o il fatalista orientale
+l'esistenza è una scienza o un piano, che deve finire in un certo modo.
+Ma per un cristiano l'esistenza è una STORIA, che può finire in un modo qualsiasi.
+In un [[Novel|romanzo]] avvincente (quel prodotto puramente cristiano) l'[[Hero|eroe]] non viene
+divorato dai cannibali; ma è essenziale all'esistenza stessa del brivido
+che egli POTREBBE essere divorato dai cannibali. L'[[Hero|eroe]] deve (per così dire)
+essere un [[Hero|eroe]] commestibile. Così la morale cristiana ha sempre detto all'uomo,
+non che avrebbe perduto l'[[Soul|anima]], ma che doveva badare a non perderla.
+Nella morale cristiana, in breve, è cosa malvagia chiamare un uomo «dannato»:
+ma è cosa rigorosamente religiosa e filosofica chiamarlo dannabile.
+
+     Tutta la [[Christianity|cristianità]] si concentra sull'uomo al [[Cross|crocevia]].
+Le vaste e superficiali filosofie, le enormi sintesi di ciarpame,
+parlano tutte di epoche e di evoluzione e di sviluppi ultimi.
+La vera [[philosophy|filosofia]] si occupa dell'istante. Prenderà l'uomo
+questa [[Road|strada]] o quella? — ecco l'unica cosa a cui pensare,
+se ti piace pensare. Gli eoni sono abbastanza facili da pensare,
+chiunque può pensarci. L'istante è davvero tremendo:
+ed è perché la nostra religione ha sentito intensamente l'istante,
+che essa in letteratura si è occupata tanto di battaglie e in teologia
+si è occupata tanto dell'inferno. È piena di PERICOLO, come un libro per ragazzi:
+è in una crisi immortale. Vi è una grande somiglianza reale
+tra la narrativa popolare e la religione dei popoli d'Occidente.
+Se dici che la narrativa popolare è volgare e pacchiana, non dici altro
+che quel che i tediosi e i [[Well|beninformati]] dicono anche delle immagini nelle
+chiese cattoliche. La vita (secondo la [[Faith|fede]]) è molto simile
+a un romanzo a puntate su una rivista: la vita finisce con la promessa (o la minaccia)
+«continua nel prossimo numero». E ancora, con una nobile volgarità,
+la vita imita il romanzo a puntate e si [[Leaves|interrompe]] nel momento più emozionante.
+Perché la [[Death|morte]] è, senza dubbio, un momento emozionante.
+
+     Ma il punto è che una storia è emozionante perché contiene in sé
+un elemento così forte di volontà, di ciò che la teologia chiama libero arbitrio.
+Non puoi finire un'addizione come ti pare. Ma puoi finire una storia
+come ti pare. Quando qualcuno scoprì il calcolo differenziale
+c'era un solo calcolo differenziale che egli potesse scoprire.
+Ma quando Shakespeare uccise [[Romeo]] avrebbe potuto sposarlo
+alla vecchia [[Nurse|nutrice]] di [[Juliet|Giulietta]], se ne avesse avuto voglia. E la cristianità
+ha eccelso nel [[Romance|romanzo]] narrativo proprio perché ha insistito
+sul libero arbitrio teologico. È una questione vasta e troppo
+in disparte lungo la [[Road|strada]] per essere discussa a dovere qui; ma questa è
+la vera obiezione a quel torrente di chiacchiere moderne sul trattare il delitto
+come una malattia, sul fare della [[Prison|prigione]] un ambiente meramente igienico
+come un ospedale, sul guarire il peccato con lenti metodi scientifici.
+La fallacia di tutto ciò è che il male è una faccenda di scelta attiva,
+mentre la malattia non lo è. Se dici che curerai un dissoluto
+come curi un asmatico, la mia risposta a buon mercato e ovvia è:
+«Producimi le persone che vogliono essere asmatiche come tante persone vogliono
+essere dissolute». Un uomo può starsene disteso e guarire da un malanno.
+Ma non deve starsene disteso se vuole guarire da un peccato;
+al contrario, deve alzarsi e saltare in giro con violenza.
+Tutto il punto, in verità, è espresso perfettamente proprio dalla parola
+che usiamo per un uomo in ospedale; «paziente» è al modo passivo;
+«peccatore» è all'attivo. Se un uomo deve essere salvato dall'influenza,
+può essere un paziente. Ma se deve essere salvato dal falsificare, deve essere
+non un paziente ma un IMPAZIENTE. Deve essere personalmente impaziente col falso.
+Ogni [[Reform|riforma]] morale deve cominciare nella volontà attiva, non nella passiva.
+
+     Anche qui giungiamo alla medesima sostanziale conclusione.
+Nella misura in cui [[Desire|desideriamo]] le ricostruzioni precise e
+le pericolose rivoluzioni che hanno contraddistinto la civiltà europea,
+non scoraggeremo il pensiero di una possibile rovina; anzi lo
+incoraggeremo. Se vogliamo, come i santi d'Oriente, soltanto contemplare
+quanto le cose siano giuste, certo diremo soltanto che devono andar bene.
+Ma se vogliamo in particolare FARLE andar bene, dobbiamo insistere
+sul fatto che possono andar male.
+
+     Infine, questa [[Truth|verità]] è ancora una volta vera nel caso dei comuni
+tentativi moderni di sminuire o di spiegar via la divinità di [[Christ|Cristo]].
+La cosa può essere vera o no; di ciò tratterò prima di concludere.
+Ma se la divinità è vera, essa è certamente terribilmente rivoluzionaria.
+Che un uomo buono possa trovarsi con le spalle al muro non è più di quel
+che già sapevamo; ma che Dio potesse trovarsi con le spalle al muro
+è un vanto per tutti gli insorti in eterno. La [[Christianity|cristianità]] è la
+sola religione sulla terra che abbia sentito che l'onnipotenza rendeva Dio incompleto.
+La [[Christianity|cristianità]] [[Alone|sola]] ha sentito che Dio, per essere pienamente Dio, doveva essere stato
+un [[Rebel|ribelle]] [[Well|non meno]] che un [[King|re]]. [[Alone|Sola]] fra tutti i credi, la [[Christianity|cristianità]] ha
+aggiunto il [[Courage|coraggio]] alle virtù del Creatore. Poiché il solo [[Courage|coraggio]]
+che meriti d'essere chiamato [[Courage|coraggio]] deve necessariamente significare che l'[[Soul|anima]] valica
+un punto di rottura — e non si spezza. In questo, in verità, mi accosto
+a una materia più oscura e tremenda di quanto sia facile discutere;
+e mi scuso in anticipo se qualcuna delle mie frasi cade a sproposito
+o pare irriverente toccando una materia che i più grandi santi e
+pensatori hanno a giusto titolo temuto di accostare. Ma in quel terrificante racconto
+della Passione vi è una netta suggestione emotiva che
+l'autore di tutte le cose (in qualche modo impensabile) sia passato non solo
+attraverso l'agonia, ma attraverso il [[Doubt|dubbio]]. Sta scritto: «Non
+tentare il Signore Dio tuo». No; ma il Signore Dio tuo può tentare Se stesso;
+e sembra che sia proprio questo ciò che accadde nel Getsemani.
+In un [[Garden|giardino]] [[Satan|Satana]] tentò l'uomo: e in un [[Garden|giardino]] Dio tentò Dio.
+Egli passò in qualche modo sovrumano attraverso il nostro umano orrore del pessimismo.
+Quando il mondo tremò e il sole fu cancellato dal cielo,
+non fu alla crocifissione, ma al grido dalla [[Cross|croce]]:
+il grido che confessava che Dio era abbandonato da Dio. E ora lascia
+che i rivoluzionari scelgano un credo fra tutti i credi e un dio
+fra tutti gli dèi del mondo, soppesando accuratamente tutti gli dèi
+dell'inevitabile ricorrenza e dell'inalterabile potenza. Non troveranno
+un altro dio che sia stato egli stesso in rivolta. Anzi, (la materia si fa
+troppo ardua per l'umana parola,) ma lascia che gli atei stessi
+scelgano un dio. Troveranno una sola divinità che abbia mai proferito
+il loro isolamento; una sola religione in cui Dio parve per un istante
+essere un ateo.

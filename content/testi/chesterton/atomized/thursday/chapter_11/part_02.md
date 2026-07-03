@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/thursday-(chesterton)">The Man Who Was Thursday</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/thursday/chapter_11/part_01">‹ part 01</a><a class="ex-next" href="/testi/chesterton/atomized/thursday/chapter_11/part_03">part 03 ›</a></div>
@@ -137,3 +139,137 @@ and in a few minutes, the [[Road|road]] growing yet steeper, they saw below
 them the little harbour of Lancy and a great blue arc of the sea.
 The travelling cloud of their enemies had wholly disappeared
 from the horizon.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/thursday-(chesterton)">The Man Who Was Thursday</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/thursday/chapter_11/part_01">‹ part 01</a><a class="ex-next" href="/testi/chesterton/atomized/thursday/chapter_11/part_03">part 03 ›</a></div>
+</nav>
+
+# [[thursday]] — Capitolo 11 (parte 2)
+
+«Come lezione di [[history|storia]] inglese per i piccini», disse Syme,
+«tutto ciò è graziosissimo; ma non ne ho ancora afferrato l’applicazione.»
+
+«La sua applicazione è», disse il suo informatore, «che la maggior parte
+dei bracci destri del vecchio [[Sunday]] sono milionari sudafricani e americani.
+Ecco perché ha messo le mani su tutte le comunicazioni;
+ed ecco perché gli ultimi quattro campioni della polizia antianarchica
+corrono attraverso un bosco come conigli.»
+
+«I milionari li posso capire», disse Syme pensieroso, «sono quasi
+tutti matti. Ma mettere le mani su qualche vecchio signore malvagio con le sue fissazioni
+è una cosa; mettere le mani su grandi nazioni cristiane è un’altra.
+Scommetterei il naso della mia faccia (perdonate l’allusione) che [[Sunday]]
+resterebbe perfettamente impotente davanti al compito di convertire una qualsiasi
+persona ordinaria e sana in qualunque luogo.»
+
+«[[Well|Beh]]», disse l’altro, «dipende piuttosto dal genere di persona che intendete.»
+
+«[[Well|Beh]], per esempio», disse Syme, «non potrebbe mai [[convert|convertire]] quella persona»,
+e puntò dritto davanti a sé.
+
+Erano giunti a uno spiazzo aperto di luce solare, che parve
+esprimere a Syme il ritorno definitivo del suo stesso buon senso;
+e in mezzo a questa radura della foresta c’era una figura che poteva
+[[Well|bene]] stare a rappresentare quel buon senso in un’attualità quasi terribile.
+Bruciato dal sole e macchiato di sudore, e [[Grave|grave]]
+dell’insondabile gravità delle piccole fatiche necessarie,
+un pesante contadino francese tagliava legna con un’accetta.
+Il suo carro stava a pochi metri, già mezzo carico di legname;
+e il [[Horse|cavallo]] che brucava l’erba era, come il suo padrone,
+valoroso ma non disperato; come il suo padrone, era
+persino prospero, eppure quasi triste. L’uomo era un Normanno,
+più alto della media dei Francesi e assai spigoloso;
+e la sua figura bruna si stagliava scura contro un quadrato di luce solare,
+quasi come una qualche figura allegorica del lavoro affrescata su
+uno sfondo d’oro.
+
+«Il signor Syme sta dicendo», gridò Ratcliffe al Colonnello francese,
+«che quest’uomo, almeno, non sarà mai un anarchico.»
+
+«Il signor Syme ha ben ragione in questo», rispose il Colonnello Ducroix, ridendo,
+«non foss’altro per la ragione che ha un mucchio di proprietà da difendere.
+Ma dimenticavo che nel vostro paese non siete avvezzi a contadini benestanti.»
+
+«Sembra povero», disse il dottor Bull con aria dubbiosa.
+
+«Proprio così», disse il Colonnello; «ecco perché è ricco.»
+
+«Ho un’idea», gridò all’improvviso il dottor Bull; «quanto vorrebbe
+per darci un passaggio sul suo carro? Quei [[dogs|cani]] vanno tutti a piedi,
+e potremmo presto lasciarli indietro.»
+
+«Oh, dategli qualunque cosa!» disse Syme con ansia. «Ho mucchi
+di denaro addosso.»
+
+«Non andrà mai bene così», disse il Colonnello; «non avrà alcun rispetto
+per voi se non contrattate.»
+
+«Oh, se si mette a mercanteggiare!» cominciò Bull spazientito.
+
+«Mercanteggia perché è un uomo libero», disse l’altro.
+«Voi non capite; non coglierebbe il senso della generosità.
+Non gli si sta dando una mancia.»
+
+E persino mentre parevano udire i pesanti passi dei loro strani
+inseguitori alle spalle, dovettero starsene lì a battere i piedi mentre il Colonnello francese
+parlava col boscaiolo francese con tutto il pacato scherzare
+e battibeccare del giorno di mercato. Al termine dei quattro minuti, tuttavia,
+videro che il Colonnello aveva ragione, poiché il boscaiolo entrò
+nei loro piani, non con la vaga servilità di un mediatore troppo [[Well|ben]] pagato,
+ma con la serietà di un procuratore a cui sia stato corrisposto l’onorario dovuto.
+Disse loro che la cosa migliore da fare era dirigersi
+giù verso la piccola locanda sulle alture sopra Lancy, dove il locandiere,
+un vecchio soldato divenuto devoto negli ultimi anni, avrebbe di certo
+simpatizzato con loro, e persino corso dei rischi per sostenerli.
+L’intera compagnia, perciò, si ammucchiò in cima alle cataste
+di legna, e si mise a dondolare sul rozzo carro giù per l’altro versante,
+più ripido, della boscaglia. Per quanto pesante e sgangherato fosse il veicolo,
+lo si guidava abbastanza in fretta, e presto ebbero l’inebriante
+impressione di distanziare del tutto coloro, chiunque fossero,
+che davano loro la caccia. Poiché, dopotutto, l’[[Riddle|enigma]] di dove
+gli anarchici avessero raccolto tutti quei seguaci restava ancora irrisolto.
+La presenza di un solo uomo era bastata contro di loro; erano fuggiti al primo
+scorgere il sorriso deforme del Segretario. Syme di tanto in tanto
+si voltava a guardare oltre la spalla l’esercito sulle loro tracce.
+
+Man mano che il bosco si faceva prima più rado e poi più piccolo con la distanza,
+poteva vedere i pendii illuminati dal sole al di là e al di sopra di esso; e attraverso
+questi si muoveva ancora la quadrata folla nera come un unico mostruoso scarabeo.
+Nella fortissima luce solare e coi suoi occhi fortissimi,
+che erano quasi telescopici, Syme poteva vedere questa massa di uomini
+piuttosto chiaramente. Poteva vederli come figure umane distinte;
+ma era sempre più sorpreso dal modo in cui si
+muovevano come un sol uomo. Sembravano vestiti di abiti scuri
+e cappelli semplici, come una qualsiasi folla comune uscita dalle strade;
+ma non si spargevano, non si sparpagliavano né si trascinavano lungo linee diverse
+all’attacco, come sarebbe stato naturale in una comune plebaglia.
+Si muovevano con una sorta di spaventosa e malvagia rigidità legnosa,
+come un fisso esercito di automi.
+
+Syme lo fece notare a Ratcliffe.
+
+«Sì», rispose il poliziotto, «quella è disciplina. Quello è [[Sunday]]. È
+forse a cinquecento miglia di distanza, ma la [[Fear|paura]] di lui è su tutti loro,
+come il dito di Dio. Sì, camminano con regolarità; e potete scommetterci
+gli stivali che parlano con regolarità, sì, e pensano con regolarità.
+Ma la sola cosa importante per noi è che stanno sparendo con regolarità.»
+
+Syme annuì. Era vero che la macchia nera degli uomini che li inseguivano
+si faceva sempre più piccola man mano che il contadino frustava il suo [[Horse|cavallo]].
+
+Il piano del paesaggio soleggiato, per quanto piatto nel complesso, digradava
+sul versante più lontano del bosco in ondate di ripido pendio verso
+il mare, in un modo non dissimile dalle falde inferiori delle colline del Sussex.
+L’unica differenza era che nel Sussex la [[Road|strada]] sarebbe stata
+spezzata e angolosa come un piccolo ruscello, mentre qui la bianca
+[[Road|strada]] francese precipitava a picco davanti a loro come una cascata.
+Giù per questa diretta discesa il carro sferragliava con notevole inclinazione,
+e in pochi minuti, facendosi la [[Road|strada]] ancor più ripida, videro sotto
+di loro il piccolo porto di Lancy e un grande arco azzurro di mare.
+La nube errante dei loro nemici era del tutto scomparsa
+dall’orizzonte.

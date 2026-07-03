@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/innocence-(chesterton)">The Innocence of Father Brown</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/innocence/story_10_the_eye_of_apollo/part_05">‹ part 05</a><a class="ex-next" href="/testi/chesterton/atomized/innocence/story_11_the_sign_of_the_broken_sword/part_01">part 01 ›</a></div>
@@ -77,3 +79,36 @@ even before I knew what he had done."
 their strength.  There came a crash and a scream down the street,
 and the priest of Apollo did not start or look round.
 I did not know what it was.  But I knew that he was expecting it."
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/innocence-(chesterton)">The Innocence of Father Brown</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/innocence/story_10_the_eye_of_apollo/part_05">‹ part 05</a><a class="ex-next" href="/testi/chesterton/atomized/innocence/story_11_the_sign_of_the_broken_sword/part_01">part 01 ›</a></div>
+</nav>
+
+# [[innocence]] — L'occhio di [[Apollo]] (parte 6)
+
+Vi fu una pausa, e il prete proseguì con voce dolce e persino rotta. «Che quel demonio l’abbia o no deliberatamente resa cieca, non c’è dubbio ch’egli deliberatamente l’uccise attraverso la sua cecità. La semplicità stessa del delitto è nauseante. Sapete che lui e lei salivano e scendevano in quegli ascensori senza aiuto ufficiale; sapete anche con quanta scorrevolezza e silenzio scivolano gli ascensori. Kalon portò l’ascensore al pianerottolo della fanciulla, e la vide, attraverso la porta aperta, scrivere nel suo lento modo cieco il testamento che gli aveva promesso. Le gridò allegramente che aveva pronto l’ascensore per lei, e che venisse fuori quando fosse pronta. Poi premette un bottone e schizzò silenzioso su fino al proprio piano, attraversò il proprio ufficio, uscì sul proprio balcone, e stava tranquillamente pregando davanti alla strada affollata quando la povera ragazza, terminato il suo lavoro, corse gaia là dove l’amante e l’ascensore dovevano accoglierla, e fece un passo —»
+
+«Basta!» gridò Flambeau.
+
+«Avrebbe dovuto ottenere mezzo milione premendo quel bottone» continuò il piccolo padre, nella voce incolore con cui parlava di simili orrori. «Ma andò a monte. Andò a monte perché si dava il caso che vi fosse un’altra persona che pure voleva il denaro, e che pure conosceva il segreto della vista della povera Pauline. C’era una cosa in quel testamento che credo nessuno abbia notato: benché fosse incompiuto e senza firma, l’altra signorina Stacey e una sua domestica l’avevano già firmato come testimoni. Joan aveva firmato per prima, dicendo che Pauline avrebbe potuto completarlo più tardi, con un tipico femmineo disprezzo per le forme legali. Perciò, Joan voleva che sua sorella firmasse il testamento senza veri testimoni. Perché? Pensai alla cecità, ed ebbi la certezza che ella aveva voluto che Pauline firmasse in solitudine perché aveva voluto che non firmasse affatto.
+
+«Le persone come le Stacey usano sempre la penna stilografica; ma per Pauline ciò era particolarmente naturale. Per abitudine, e per la sua forte volontà e memoria, poteva ancora scrivere quasi bene come se vedesse; ma non poteva accorgersi di quando la penna avesse bisogno d’essere intinta. Perciò, le sue stilografiche venivano accuratamente riempite dalla sorella — tutte tranne questa stilografica. Questa fu accuratamente non riempita dalla sorella; i residui d’inchiostro bastarono per poche righe e poi vennero meno del tutto. E il profeta perse cinquecentomila sterline e commise uno dei più brutali e brillanti omicidi della storia umana per niente.»
+
+Flambeau andò alla porta aperta e udì la polizia ufficiale che saliva le scale. Si voltò e disse: «Dovete aver seguito ogni cosa maledettamente da vicino per aver ricondotto il delitto a Kalon in dieci minuti.»
+
+Padre Brown ebbe una sorta di soprassalto.
+
+«Oh! a lui» disse. «No; ho dovuto seguire piuttosto da vicino per scoprire la faccenda della signorina Joan e della stilografica. Ma sapevo che Kalon era il criminale prima ancora di varcare la porta d’ingresso.»
+
+«Starete scherzando!» gridò Flambeau.
+
+«Dico sul serio» rispose il prete. «Vi dico che sapevo che era stato lui, prima ancora di sapere che cosa avesse fatto.»
+
+«Ma perché?»
+
+«Questi pagani stoici» disse Brown riflessivo, «falliscono sempre per la loro forza. Ci fu uno schianto e un urlo giù per la strada, e il sacerdote di Apollo non trasalì né si voltò. Io non sapevo che cosa fosse. Ma sapevo che egli se lo aspettava.»

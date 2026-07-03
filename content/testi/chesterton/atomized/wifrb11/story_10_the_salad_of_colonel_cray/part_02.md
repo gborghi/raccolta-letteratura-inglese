@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/wifrb11-(chesterton)">The Wisdom of Father Brown</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/wifrb11/story_10_the_salad_of_colonel_cray/part_01">‹ part 01</a><a class="ex-next" href="/testi/chesterton/atomized/wifrb11/story_10_the_salad_of_colonel_cray/part_03">part 03 ›</a></div>
@@ -125,3 +127,130 @@ than the ward.
 
      "It serves you right," she was saying:  "I always told you
 not to have that old-fashioned cruet-stand."
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/wifrb11-(chesterton)">The Wisdom of Father Brown</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/wifrb11/story_10_the_salad_of_colonel_cray/part_01">‹ part 01</a><a class="ex-next" href="/testi/chesterton/atomized/wifrb11/story_10_the_salad_of_colonel_cray/part_03">part 03 ›</a></div>
+</nav>
+
+# [[wifrb11]] — L'insalata del colonnello Cray (parte 2)
+
+     «Ha forse...», domandò il maggiore Putnam a voce bassa, «è forse
+caduto, o ha gridato, o qualcosa del genere?»
+
+     Il colonnello Cray fissava il suo ospite con uno sguardo strano e
+immobile. «Vi dirò esattamente ciò che ha fatto», disse. «Ha starnutito.»
+
+     La mano di [[Father Brown]] salì a mezz'aria verso la fronte, col gesto
+di chi cerca di ricordare il nome di qualcuno. Ora sapeva che cosa fosse
+quel suono che non era né acqua di [[Water|selz]] né lo sbuffare di un cane.
+
+     «[[Well|Be']]», sbottò il maggiore, sempre con gli occhi sbarrati, «non avevo
+mai sentito prima d'ora che una rivoltella d'ordinanza fosse cosa da
+starnutirci sopra.»
+
+     «Neppure io», disse [[Father Brown]] con voce fioca. «Per fortuna non
+gli avete scaricato addosso la vostra artiglieria, altrimenti gli avreste
+procurato un bel raffreddore.» Poi, dopo una pausa sconcertata, soggiunse:
+«Era un ladro?»
+
+     «Entriamo in casa», disse il maggiore Putnam con una certa asprezza,
+e li precedette dentro la sua [[house|casa]].
+
+     L'interno esibiva un [[Paradox|paradosso]] che spesso si nota a quelle
+ore mattutine: le stanze sembravano più luminose del cielo là fuori;
+persino dopo che il maggiore ebbe spento l'unica lampada a gas dell'ingresso.
+[[Father Brown]] si stupì di vedere l'intera tavola da pranzo apparecchiata
+come per un pasto di festa, coi tovaglioli negli anelli e i bicchieri da vino
+di una mezza dozzina di fogge inutili disposti accanto a ogni piatto. Era
+cosa abbastanza comune, a quell'[[Time|ora]] del mattino, trovare i resti di un
+banchetto della [[Night|notte]] precedente; ma trovarlo così di fresco imbandito
+a un'ora tanto mattutina era insolito.
+
+     Mentre egli se ne stava esitante nell'ingresso, il maggiore Putnam gli
+passò accanto di slancio e lanciò uno sguardo furibondo su tutto il rettangolo
+della tovaglia. Alla fine parlò, farfugliando: «È sparita tutta l'argenteria!»,
+ansimò. «Spariti i coltelli e le forchette da pesce. Sparita la vecchia
+oliera. Sparita perfino la vecchia lattiera d'argento. E ora, [[Father Brown]],
+sono pronto a rispondere alla vostra domanda, se cioè fosse un ladro.»
+
+     «Non sono altro che una copertura», disse Cray con ostinazione. «Io so
+meglio di voi perché la gente perseguita questa [[house|casa]]; io so meglio
+di voi perché...»
+
+     Il maggiore gli batté la mano sulla spalla con un gesto quasi proprio
+di chi vuol calmare un [[Child|bambino]] malato, e disse: «Era un ladro.
+Evidentemente era un ladro.»
+
+     «Un ladro con un brutto raffreddore», osservò [[Father Brown]], «il che
+potrebbe aiutarvi a rintracciarlo nei dintorni.»
+
+     Il maggiore scosse il capo con aria cupa. «Ormai dev'essere ben oltre
+ogni possibilità di rintraccio, [[Fear|temo]]», disse.
+
+     Poi, mentre l'uomo irrequieto con la rivoltella si voltava di nuovo
+verso la porta del [[Garden|giardino]], aggiunse con voce roca e confidenziale:
+«[[Doubt|Dubito]] che convenga mandare a chiamare la polizia, per [[Fear|paura]]
+che il mio amico qui presente sia stato un po' troppo prodigo di pallottole
+e si sia messo dalla parte del torto con la legge. Ha vissuto in luoghi
+selvaggissimi; e, a esser franchi con voi, credo che a volte si immagini
+delle cose.»
+
+     «Una volta mi avete detto, mi pare», disse Brown, «che egli crede
+d'esser perseguitato da una qualche società segreta indiana.»
+
+     Il maggiore Putnam annuì, ma nello stesso [[Time|tempo]] scrollò le spalle.
+«Suppongo che faremmo bene a seguirlo là fuori», disse. «Non voglio altri...
+diciamo così, starnuti?»
+
+     Uscirono nella luce del mattino, che ora era addirittura tinta di sole,
+e videro l'alta figura del colonnello Cray piegata quasi in [[Double|due]],
+mentre esaminava minuziosamente lo stato della ghiaia e dell'erba. Mentre
+il maggiore si avvicinava a lui con aria noncurante, il prete fece un giro
+altrettanto indolente, che lo portò all'angolo successivo della [[house|casa]],
+a un metro o due dalla sporgenza del bidone della spazzatura.
+
+     Rimase a contemplare quel lugubre oggetto per un minuto e mezzo circa;
+poi vi si accostò, ne sollevò il coperchio e vi ficcò dentro la testa.
+[[Dust|Polvere]] e altre sostanze sudicie si sollevarono in una nuvola mentre
+egli faceva così; ma [[Father Brown]] non badò mai al proprio aspetto, per
+quanto badasse a tutto il resto. Restò in quella posa per un tempo apprezzabile,
+come assorto in qualche misteriosa preghiera. Poi si ritrasse, con un po' di
+cenere tra i capelli, e si allontanò con aria indifferente.
+
+     Nel [[Time|momento]] in cui fece ritorno alla porta del [[Garden|giardino]], vi trovò un
+gruppetto che pareva scacciare le morbosità come il sole aveva già scacciato
+le nebbie. Non era una scena razionalmente rassicurante; era semplicemente,
+in senso lato, comica, come un grappolo di personaggi di Dickens. Il maggiore
+Putnam era riuscito a sgusciar dentro e a infilarsi una camicia e dei calzoni
+come si deve, con una fascia cremisi ai fianchi e una leggera giacca squadrata
+sopra il tutto; così normalmente agghindato, il suo rosso volto festoso pareva
+scoppiare di una cordialità dozzinale. Era davvero enfatico, ma d'altronde
+stava parlando col suo cuoco: quel bruno figlio di Malta, il cui viso magro,
+giallo e piuttosto sciupato contrastava in modo bizzarro col berretto e la
+divisa candidi come la [[Snow|neve]]. Poteva [[Well|ben]] essere sciupato,
+quel cuoco, giacché la cucina era il passatempo del maggiore. Egli era uno di
+quei dilettanti che ne sanno sempre più dei professionisti. L'unica altra
+persona che egli ammettesse capace di giudicare una frittata era il suo amico
+Cray; e mentre Brown lo rammentava, si voltò a cercare l'altro ufficiale.
+Alla nuova presenza della luce del giorno e di persone vestite e in senno,
+la vista di lui riuscì piuttosto uno shock. L'uomo più alto ed elegante era
+ancora nella sua veste da [[Night|notte]], coi capelli neri arruffati, e ora
+strisciava per il [[Garden|giardino]] carponi, sulle mani e sulle ginocchia,
+sempre in cerca delle tracce del ladro; e di tanto in tanto, a quanto pareva,
+percuoteva il suolo con la mano, adirato di non trovarlo. Vedendolo così
+quadrupede nell'erba, il prete inarcò le sopracciglia con una certa tristezza;
+e per la prima [[Time|volta]] intuì che «si immagina delle cose» poteva essere
+un eufemismo.
+
+     Il terzo elemento del gruppo, insieme al cuoco e al buongustaio, era pure
+noto a [[Father Brown]]: era Audrey Watson, la pupilla e governante del maggiore;
+e in quel momento, a giudicare dal grembiule, dalle maniche rimboccate e dal
+piglio risoluto, assai più governante che pupilla.
+
+     «Vi sta bene», stava dicendo: «Vi ho sempre detto di non tenere quella
+vecchia oliera fuori moda.»

@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/innocence-(chesterton)">The Innocence of Father Brown</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/innocence/story_09_the_hammer_of_god/part_03">‹ part 03</a><a class="ex-next" href="/testi/chesterton/atomized/innocence/story_09_the_hammer_of_god/part_05">part 05 ›</a></div>
@@ -146,3 +148,146 @@ as he heard the blacksmith say in a loud voice:
 as you say, but I couldn't have flung my hammer bang here
 from Greenford.  My hammer hasn't got wings that it should come
 flying half a mile over hedges and fields."
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/innocence-(chesterton)">The Innocence of Father Brown</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/innocence/story_09_the_hammer_of_god/part_03">‹ part 03</a><a class="ex-next" href="/testi/chesterton/atomized/innocence/story_09_the_hammer_of_god/part_05">part 05 ›</a></div>
+</nav>
+
+# [[innocence]] — Il martello di Dio (parte 4)
+
+Uno di quei silenzi calò sul gruppo, di quelli più strani e
+insopportabili di qualsiasi discorso. Follemente, per far conversazione,
+il curato disse al prete cattolico:
+
+«Vi vedo assai interessato a quel martello, [[Father Brown]].»
+
+«Sì, lo sono» disse [[Father Brown]]; «perché è un martello tanto piccolo?»
+
+Il medico gli si girò addosso.
+
+«Perbacco, è vero» gridò; «chi userebbe un piccolo martello con dieci
+martelli più grandi sparsi all'intorno?»
+
+Poi abbassò la voce all'orecchio del curato e disse:
+«Solo il genere di persona che non sa sollevare un martello grande.
+Non è una questione di forza o di [[Courage|coraggio]] tra i sessi.
+È una questione di potenza di sollevamento nelle spalle. Una donna ardita
+potrebbe commettere dieci assassinî con un martello leggero senza scomporsi.
+Non riuscirebbe a uccidere uno scarafaggio con uno pesante.»
+
+Wilfred Bohun lo fissava con una sorta di orrore ipnotizzato,
+mentre [[Father Brown]] ascoltava col capo un poco inclinato da un lato,
+davvero interessato e attento. Il medico proseguì con
+sibilo più marcato:
+
+«Perché questi idioti presumono sempre che l'unica persona che odia
+l'[[Lover|amante]] della moglie sia il marito della moglie? Nove volte su dieci
+la persona che più odia l'[[Lover|amante]] della moglie è la moglie.
+Chissà quale insolenza o tradimento egli le aveva mostrato... guardate là!»
+
+Fece un gesto momentaneo verso la donna dai capelli rossi sulla panca.
+Ella aveva finalmente sollevato il capo e le [[Tears|lacrime]] le si stavano asciugando sul
+volto splendido. Ma gli occhi erano fissi sul cadavere con un elettrico
+bagliore che aveva in sé qualcosa dell'idiozia.
+
+Il reverendo Wilfred Bohun fece un molle gesto come per scacciare ogni [[Desire|desiderio]]
+di sapere; ma [[Father Brown]], spolverandosi dalla manica certa cenere soffiata
+dalla fornace, parlò nel suo modo indifferente.
+
+«Voi siete come tanti medici» disse; «la vostra scienza mentale è
+davvero suggestiva. È la vostra scienza fisica che è del tutto impossibile.
+Convengo che la donna desideri uccidere il correo assai più di quanto lo desideri il
+ricorrente. E convengo che una donna raccoglierà sempre un piccolo martello
+invece di uno grande. Ma la difficoltà è d'impossibilità fisica.
+Nessuna donna mai nata avrebbe potuto fracassare così, piatto, il cranio di un uomo.»
+Poi aggiunse pensosamente, dopo una pausa: «Questa gente non ha
+afferrato l'insieme della cosa. L'uomo indossava davvero un elmo di ferro,
+e il colpo lo disperse come vetro infranto. Guardate quella donna.
+Guardate le sue braccia.»
+
+Il [[Silence|silenzio]] li tenne di nuovo sospesi tutti, e poi il medico disse piuttosto imbronciato:
+«[[Well|Beh]], posso sbagliarmi; ci sono obiezioni a tutto.
+Ma io mi attengo al punto principale. Nessun uomo, salvo un idiota, raccoglierebbe
+quel piccolo martello se potesse usarne uno grande.»
+
+A ciò le magre e frementi mani di Wilfred Bohun si levarono
+al capo e parvero afferrargli i radi capelli gialli.
+Dopo un istante ricaddero, ed egli gridò: «Ecco la parola
+che cercavo; voi avete detto la parola.»
+
+Poi continuò, dominando il proprio turbamento: «Le parole che avete detto sono state:
+"Nessun uomo, salvo un idiota, raccoglierebbe il piccolo martello".»
+
+«Sì» disse il medico. «Ebbene?»
+
+«Ebbene» disse il curato, «nessun uomo, salvo un idiota, l'ha fatto.»
+Gli altri lo fissarono con occhi arrestati e inchiodati,
+ed egli proseguì in un'agitazione febbrile e femminile.
+
+«Io sono un prete» gridò con voce malferma, «e un prete non deve essere spargitore
+di sangue. Io... io voglio dire che non deve condurre nessuno alla forca.
+E ringrazio Dio di vedere ora chiaramente il criminale... perché è
+un criminale che non può essere condotto alla forca.»
+
+«Non lo denuncerete?» chiese il medico.
+
+«Non sarebbe impiccato se lo denunciassi»
+rispose Wilfred con un sorriso selvaggio ma curiosamente felice.
+«Quando sono entrato in chiesa stamattina ho trovato un pazzo
+che pregava là dentro... quel povero Joe, che ha avuto la mente storta tutta la vita.
+Dio sa che cosa pregasse; ma con gente tanto strana non è
+inverosimile supporre che le loro preghiere siano tutte a rovescio.
+Assai probabilmente un demente pregherebbe prima di uccidere un uomo.
+L'ultima volta che ho visto il povero Joe era con mio fratello.
+Mio fratello lo derideva.»
+
+«Perbacco!» gridò il medico, «finalmente si ragiona.
+Ma come spiegate...»
+
+Il reverendo Wilfred tremava quasi per l'eccitazione del proprio
+barlume di verità. «Non capite; non capite» gridò febbrilmente;
+«che questa è l'unica teoria che copre entrambe le cose strane, che risponde
+a entrambi gli enigmi. I due enigmi sono il piccolo martello e il gran colpo.
+Il fabbro avrebbe potuto vibrare il gran colpo, ma non avrebbe scelto
+il piccolo martello. Sua moglie avrebbe scelto il piccolo martello, ma non
+avrebbe potuto vibrare il gran colpo. Ma il pazzo avrebbe potuto fare entrambe le cose.
+Quanto al piccolo martello... ebbene, era pazzo e avrebbe potuto raccogliere qualsiasi cosa.
+E quanto al gran colpo, non avete mai udito, dottore, che un maniaco nel suo
+parossismo può avere la forza di dieci uomini?»
+
+Il medico trasse un profondo respiro e poi disse: «Perdinci,
+credo che ci abbiate azzeccato.»
+
+Father Brown aveva tenuto gli occhi fissi sull'oratore tanto a lungo
+e fermamente da provare che i suoi grandi occhi grigi, bovini,
+non erano poi così insignificanti come il resto del suo volto.
+Quando fu caduto il silenzio, disse con marcato rispetto:
+«Signor Bohun, la vostra è l'unica teoria finora proposta che
+regga da ogni lato ed è essenzialmente inattaccabile.
+Penso, perciò, che meritiate di sentirvi dire,
+per mia positiva conoscenza, che non è quella vera.»
+E con ciò il vecchio ometto si allontanò e tornò a fissare
+il martello.
+
+«Quel tale pare sapere più di quanto dovrebbe» sussurrò il medico
+stizzosamente a Wilfred. «Questi preti papisti sono maledettamente scaltri.»
+
+«No, no» disse Bohun, con una sorta di selvaggia stanchezza. «È stato il demente.
+È stato il demente.»
+
+Il gruppo dei due ecclesiastici e del medico si era staccato
+dal gruppo più ufficiale che comprendeva l'ispettore
+e l'uomo che egli aveva arrestato. Ora, tuttavia, che la loro stessa
+compagnia si era sciolta, udirono voci dagli altri.
+Il prete alzò lo sguardo tranquillamente e poi lo riabbassò
+mentre udiva il fabbro dire a voce alta:
+
+«Spero di avervi convinto, signor ispettore. Sono un uomo forte,
+come dite, ma non avrei potuto scagliar qui il mio martello di netto
+da Greenford. Il mio martello non ha ali per venire
+volando mezzo miglio sopra siepi e campi.»

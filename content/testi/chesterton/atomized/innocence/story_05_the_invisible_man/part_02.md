@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/innocence-(chesterton)">The Innocence of Father Brown</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/innocence/story_05_the_invisible_man/part_01">‹ part 01</a><a class="ex-next" href="/testi/chesterton/atomized/innocence/story_05_the_invisible_man/part_03">part 03 ›</a></div>
@@ -134,3 +136,134 @@ and unflirting housemaids of metal.  For a moment the two men,
 instinctively understanding each other's air of possession,
 looked at each other with that curious cold generosity which is
 the soul of rivalry.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/innocence-(chesterton)">The Innocence of Father Brown</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/innocence/story_05_the_invisible_man/part_01">‹ part 01</a><a class="ex-next" href="/testi/chesterton/atomized/innocence/story_05_the_invisible_man/part_03">part 03 ›</a></div>
+</nav>
+
+# [[innocence]] — L'uomo invisibile (parte 2)
+
+«L’altro tizio era più silenzioso e più ordinario; ma in qualche modo
+mi allarmava molto più del povero piccolo Smythe. Era molto
+alto e sottile, e di capelli chiari; il naso aveva una gobba alta,
+e sarebbe stato quasi bello in una specie di modo spettrale;
+ma aveva uno degli strabismi più spaventosi che io abbia mai visto
+o di cui abbia mai sentito parlare. Quando ti guardava dritto,
+non sapevi più nemmeno dove ti trovassi tu, figuriamoci che cosa stesse guardando lui.
+Immagino che questo tipo di sfregio inasprisse un poco il poveretto;
+poiché, mentre Smythe era pronto a esibire i suoi giochi da scimmia
+dovunque, James Welkin (era questo il nome dell’uomo strabico)
+non faceva mai altro che marcire nella nostra saletta del bar, e andare
+a fare grandi passeggiate da solo nella campagna piatta e grigia tutt’intorno.
+Ciò nondimeno, credo che anche Smythe fosse un po’ suscettibile
+riguardo all’essere così piccolo, benché lo mascherasse con più disinvoltura.
+E fu così che rimasi davvero perplessa, oltre che sbigottita,
+e molto dispiaciuta, quando entrambi mi offrirono di sposarli nella stessa settimana.
+
+«Ebbene, feci ciò che da allora ho pensato fosse forse una sciocchezza.
+Ma, dopotutto, quei due esseri strani erano in un certo senso miei amici;
+e avevo orrore all’idea che pensassero ch’io li rifiutavo per
+la vera ragione, ossia che erano così impossibilmente brutti.
+Così inventai una qualche scusa d’altro genere, che non avrei mai voluto
+sposare nessuno che non si fosse fatto la propria strada nel mondo.
+Dissi che era per me una questione di principio non vivere di denaro
+semplicemente ereditato come il loro. Due giorni dopo aver parlato
+in quel modo bene intenzionato, cominciarono tutti i guai.
+La prima cosa che seppi fu che entrambi se n’erano andati in cerca di
+fortuna, come se fossero in qualche sciocca fiaba.
+
+«Ebbene, non ho più rivisto nessuno dei due da quel giorno a oggi.
+Ma ho ricevuto due lettere dall’ometto di nome Smythe,
+e per la verità erano piuttosto avvincenti.»
+
+«Mai sentito nulla dell’altro uomo?» chiese Angus.
+
+«No, non ha mai scritto», disse la ragazza, dopo un istante di esitazione.
+«La prima lettera di Smythe diceva semplicemente che si era messo
+in cammino con Welkin verso Londra; ma Welkin era un camminatore così bravo che
+l’ometto rimase indietro, e si prese un riposo lungo la strada.
+Si dà il caso che venisse raccolto da qualche spettacolo ambulante, e, in parte
+perché era quasi un nano, e in parte perché era davvero
+un disgraziatello sveglio, se la cavò piuttosto bene nel mondo dello spettacolo,
+e fu presto spedito all’Aquarium, a fare certi giochi che ho dimenticato.
+Questa fu la sua prima lettera. La seconda fu molto più sconvolgente,
+e l’ho ricevuta solo la settimana scorsa.»
+
+L’uomo di nome Angus vuotò la sua tazza di caffè e la guardò con occhi
+miti e pazienti. La bocca di lei prese una lieve piega di riso
+mentre riprendeva: «Suppongo che avrà visto sui manifesti tutta la faccenda
+di questo “Silent Service di Smythe”. O forse è l’unica persona che
+non l’ha vista. Oh, non ne so molto, è una qualche invenzione a orologeria
+per fare tutte le faccende di casa con dei macchinari. Sa il genere di cosa:
+“Premete un bottone: un maggiordomo che non beve mai.” “Girate una manovella: dieci cameriere
+che non fanno mai le civette.” Deve aver visto le réclame.
+[[Well|Ebbene]], qualunque cosa siano queste macchine, stanno facendo montagne di denaro;
+e lo stanno facendo tutto per quel piccolo diavolo che conobbi laggiù
+a Ludbury. Non posso fare a meno di rallegrarmi che il povero ometto sia
+caduto in piedi; ma la pura verità è che vivo nel terrore che
+salti fuori da un momento all’altro e mi dica che si è fatto la sua strada nel mondo…
+come di certo ha fatto.»
+
+«E l’altro uomo?» ripeté Angus con una specie di ostinata quiete.
+
+Laura [[Hope]] si alzò in piedi all’improvviso. «Amico mio», disse,
+«credo che lei sia uno [[Witch|stregone]]. Sì, ha perfettamente ragione.
+Non ho visto una sola riga di scrittura dell’altro uomo; e non ne ho
+più idea di un morto di che cosa o dove egli sia. Ma è
+di lui che ho paura. È lui che sta dappertutto lungo il mio cammino.
+È lui che mi ha quasi fatto impazzire. Anzi, credo che mi abbia
+fatto impazzire; poiché l’ho sentito dov’egli non poteva essere,
+e ho udito la sua voce quando non poteva aver parlato.»
+
+«[[Well|Ebbene]], mia cara», disse il giovane, allegramente, «se anche fosse [[Satan|Satana]] in persona,
+è spacciato ora che lei ne ha parlato a qualcuno. Si impazzisce tutti da [[Alone|soli]], vecchia mia.
+Ma quand’è che le è parso di sentire e udire il nostro amico strabico?»
+
+«Ho udito James Welkin ridere così distintamente come sento lei parlare»,
+disse la ragazza, con fermezza. «Non c’era nessuno lì, poiché stavo proprio
+fuori della bottega all’angolo, e potevo vedere in fondo a entrambe le strade insieme.
+Avevo dimenticato come rideva, benché la sua risata fosse strana quanto il suo strabismo.
+Non pensavo a lui da quasi un anno. Ma è una solenne [[Truth|verità]]
+che pochi secondi dopo arrivò la prima lettera del suo rivale.»
+
+«Ha mai fatto parlare o squittire lo spettro, o qualcosa del genere?»
+chiese Angus, con un certo interesse.
+
+Laura rabbrividì all’improvviso, e poi disse, con voce
+ferma: «Sì. Proprio quando avevo finito di leggere la seconda
+lettera di Isidore Smythe che annunciava il suo [[success|successo]].
+Proprio allora, udii Welkin dire: “Non l’avrà, però.”
+Era del tutto chiaro, come se fosse nella stanza. È terribile,
+credo di dover essere pazza.»
+
+«Se lei fosse davvero pazza», disse il giovane, «penserebbe
+di dover essere sana. Ma di certo mi pare
+che ci sia qualcosa di un po’ curioso in questo gentiluomo invisibile.
+Due teste sono meglio di una… le risparmio le allusioni a qualsiasi
+altro organo… e davvero, se mi permettesse, da uomo robusto e
+pratico qual sono, di riportare in casa la torta nuziale dalla vetrina…»
+
+Proprio mentre parlava, ci fu una specie di stridore metallico nella strada là fuori,
+e una piccola automobile, spinta a velocità indiavolata, sfrecciò fino alla porta della bottega
+e vi si arrestò di colpo. Nello stesso lampo di tempo un ometto in lucido cappello a cilindro
+stava pestando i piedi nella saletta esterna.
+
+Angus, che fino a quel momento aveva mantenuto una giovialità disinvolta per motivi
+d’igiene mentale, rivelò la tensione del proprio animo uscendo
+bruscamente a grandi passi dalla saletta interna e affrontando il nuovo venuto.
+Un’occhiata bastò pienamente a confermare le feroci
+congetture di un uomo innamorato. Quella figura assai elegante ma nanesca,
+con la punta della barba nera protesa in avanti con insolenza,
+gli occhi svegli e inquieti, le dita ordinate ma molto nervose,
+non potevano essere altri che l’uomo appena descrittogli:
+Isidore Smythe, che faceva bambole con bucce di banana e scatole di fiammiferi;
+Isidore Smythe, che faceva milioni con maggiordomi astemi
+e cameriere di metallo che non civettavano. Per un attimo i due uomini,
+comprendendo istintivamente l’aria di possesso l’uno dell’altro,
+si guardarono con quella curiosa fredda generosità che è
+l’anima della rivalità.

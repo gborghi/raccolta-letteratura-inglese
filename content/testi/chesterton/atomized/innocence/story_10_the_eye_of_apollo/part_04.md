@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/innocence-(chesterton)">The Innocence of Father Brown</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/innocence/story_10_the_eye_of_apollo/part_03">‹ part 03</a><a class="ex-next" href="/testi/chesterton/atomized/innocence/story_10_the_eye_of_apollo/part_05">part 05 ›</a></div>
@@ -127,3 +129,36 @@ the writing abruptly stopped with a set of scratches, and there
 was no trace of the name of any legatee.  Flambeau, in wonder,
 handed this truncated testament to his clerical friend, who glanced
 at it and silently gave it to the priest of the sun.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/innocence-(chesterton)">The Innocence of Father Brown</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/innocence/story_10_the_eye_of_apollo/part_03">‹ part 03</a><a class="ex-next" href="/testi/chesterton/atomized/innocence/story_10_the_eye_of_apollo/part_05">part 05 ›</a></div>
+</nav>
+
+# [[innocence]] — L’occhio di [[Apollo]] (parte 4)
+
+«Lettore dei libri del male, ancora una parola prima che io soffi via per sempre i tuoi infondati incubi. Non potresti comprendere, neppure fievolmente, quanto poco mi importi che tu possa condannarmi o no. Ciò che tu chiami disonore e orribile impiccagione non è per me più di quanto un orco in un libro di fiabe per bambini sia per un uomo ormai cresciuto. Hai detto che offrivi l’arringa della difesa. M’importa così poco del regno di nubi di questa vita che ti offrirò io l’arringa dell’accusa. C’è una sola cosa che si può dire contro di me in questa faccenda, e la dirò io stesso. La donna che è morta era il mio amore e la mia sposa; non alla maniera che le vostre cappelle di latta chiamano lecita, ma per una legge più pura e più severa di quanto voi mai comprenderete. Ella e io camminavamo in un mondo diverso dal vostro, e calcavamo palazzi di cristallo mentre voi arrancavate per gallerie e corridoi di mattoni. Ebbene, so che i poliziotti, teologici e d’altra sorta, immaginano sempre che dove c’è stato amore debba presto esserci odio; ed ecco dunque il primo punto a favore dell’accusa. Ma il secondo punto è più forte; non ve lo lesino. Non solo è vero che Pauline mi amava, ma è anche vero che proprio questa mattina, prima di morire, scrisse a quel tavolo un testamento in cui lasciava a me e alla mia nuova Chiesa mezzo milione. Suvvia, dove sono le manette? Credete forse ch’io mi curi delle sciocchezze che farete di me? I lavori forzati saranno solo come attendere lei a una stazione di passaggio. La forca sarà solo un andare da lei su un carro lanciato a rotta di collo.»
+
+Parlava con l’autorità sconvolgente d’un oratore, e Flambeau e Joan Stacey lo fissavano con stupita ammirazione. Il volto di Padre Brown pareva non esprimere nulla se non estrema angoscia; guardava il pavimento con una ruga di dolore attraverso la fronte. Il profeta del sole si appoggiò comodamente alla mensola del camino e riprese:
+
+«In poche parole vi ho esposto l’intero caso contro di me — l’unico caso possibile contro di me. In parole ancor più poche lo ridurrò in pezzi, così che non ne resti traccia. Quanto al fatto se io abbia commesso questo delitto, la verità è in una frase: io non potevo aver commesso questo delitto. Pauline Stacey cadde da questo piano al suolo alle dodici e cinque minuti. Un centinaio di persone saliranno sul banco dei testimoni e diranno che io me ne stavo fuori, sul balcone delle mie stanze di sopra, da poco prima del rintocco del mezzodì fino alle dodici e un quarto — il consueto periodo delle mie pubbliche preghiere. Il mio impiegato (un giovane rispettabile di Clapham, senza alcun legame con me) giurerà che è rimasto seduto nel mio ufficio esterno per tutta la mattina, e che nessuna comunicazione è passata. Giurerà che io arrivai dieci minuti buoni prima dell’ora, quindici minuti prima di qualunque bisbiglio dell’incidente, e che non lasciai né l’ufficio né il balcone in tutto quel tempo. Nessuno ebbe mai un alibi tanto completo; potrei chiamare a testimoniare mezza Westminster. Credo che fareste meglio a riporre di nuovo le manette. Il caso è chiuso.
+
+«Ma per ultimo, affinché non resti nell’aria alcun soffio di questo idiota sospetto, vi dirò tutto ciò che volete sapere. Credo di sapere davvero come la mia infelice amica trovò la morte. Potete, se volete, biasimarne me, o almeno la mia fede e la mia filosofia; ma di certo non potete rinchiudermi. È ben noto a tutti gli studiosi delle verità superiori che certi adepti e illuminati, nella storia, hanno raggiunto il potere della levitazione — cioè, di sostenersi da sé sull’aria vuota. Non è che una parte di quella generale conquista della materia che è l’elemento principale della nostra sapienza occulta. La povera Pauline era di temperamento impulsivo e ambizioso. Credo, a dire il vero, che si ritenesse un poco più addentro nei misteri di quanto fosse; e mi ha spesso detto, mentre scendevamo insieme nell’ascensore, che se la propria volontà fosse abbastanza forte, si potrebbe fluttuare giù innocui come una piuma. Credo solennemente che, in qualche estasi di nobili pensieri, ella tentò il miracolo. La sua volontà, o fede, dev’esserle venuta meno nell’istante cruciale, e la legge inferiore della materia ebbe la sua orribile vendetta. Ecco tutta la storia, signori, molto triste e, come voi pensate, molto presuntuosa e malvagia, ma di certo non criminosa né in alcun modo connessa con me. Nella stenografia dei tribunali di polizia, fareste meglio a chiamarlo suicidio. Io lo chiamerò sempre eroico fallimento per l’avanzamento della scienza e la lenta scalata del cielo.»
+
+Era la prima volta che Flambeau vedeva Padre Brown vinto. Sedeva ancora guardando il pavimento, con la fronte dolente e corrugata, come per vergogna. Era impossibile evitare la sensazione che le alate parole del profeta avevano attizzato: che qui vi fosse un torvo, professionale sospettatore d’uomini sopraffatto da uno spirito più fiero e più puro di libertà e sanità naturali. Alla fine disse, ammiccando come per sofferenza fisica: «Ebbene, se è così, signore, non vi resta che prendere il documento testamentario di cui avete parlato e andare. Mi domando dove la povera signora l’abbia lasciato.»
+
+«Sarà là, sulla sua scrivania presso la porta, credo» disse Kalon, con quella massiccia innocenza di modi che pareva assolverlo del tutto. «Mi disse espressamente che l’avrebbe scritto stamattina, e la vidi effettivamente scrivere mentre salivo in ascensore verso la mia stanza.»
+
+«Era aperta allora la sua porta?» chiese il prete, con l’occhio sull’angolo della stuoia.
+
+«Sì» disse Kalon con calma.
+
+«Ah! è rimasta aperta da allora» disse l’altro, e riprese il suo silenzioso studio della stuoia.
+
+«C’è un foglio qui» disse la torva signorina Joan, con voce alquanto singolare. Era passata alla scrivania della sorella presso l’uscio, e teneva in mano un foglio di carta protocollo azzurra. Sul suo volto c’era un sorriso acido che pareva inadatto a una simile scena o circostanza, e Flambeau la guardò con la fronte che si oscurava.
+
+Kalon il profeta si tenne lontano dal foglio con quella leale inconsapevolezza che l’aveva sorretto fino a quel punto. Ma Flambeau lo tolse dalla mano della signora, e lo lesse con il più grande stupore. Cominciava, in effetti, alla maniera formale di un testamento, ma dopo le parole «Do e lascio in eredità tutto ciò di cui muoio in possesso» la scrittura si arrestava bruscamente in una serie di sgorbi, e non v’era traccia del nome di alcun legatario. Flambeau, meravigliato, porse questo testamento monco all’amico ecclesiastico, il quale gli diede un’occhiata e in silenzio lo passò al sacerdote del sole.

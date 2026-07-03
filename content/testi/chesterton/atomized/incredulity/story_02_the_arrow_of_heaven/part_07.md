@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/incredulity-(chesterton)">Incredulity</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/incredulity/story_02_the_arrow_of_heaven/part_06">‹ part 06</a><a class="ex-next" href="/testi/chesterton/atomized/incredulity/story_02_the_arrow_of_heaven/part_08">part 08 ›</a></div>
@@ -145,3 +147,72 @@ thing at such a place and angle that we all assumed in a flash
 that it had flown in at the [[Window|window]] like a bird.'
 
 `Somebody,' said old Crake, in a voice as heavy as stone.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/incredulity-(chesterton)">Incredulity</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/incredulity/story_02_the_arrow_of_heaven/part_06">‹ part 06</a><a class="ex-next" href="/testi/chesterton/atomized/incredulity/story_02_the_arrow_of_heaven/part_08">part 08 ›</a></div>
+</nav>
+
+Peter Wain si sporse in avanti, gli occhi accesi nel volto scavato, e disse:
+
+«Su questo, comunque, ci scommetto. Norman Drage».
+
+«E chi diavolo è Norman Drage?» domandò lo zio.
+
+«È proprio quello che vorrei sapere» rispose il giovane. «Gliel'ho chiesto, praticamente; ma ha un talento straordinario nel torcere ogni domanda diretta e renderla obliqua: è come menare una stoccata a uno schermidore. Mi si è appiccicato con allusioni alla nave volante dell'avvenire; ma non mi sono mai fidato granché di lui».
+
+«Ma che razza d'uomo è?» chiese Crake.
+
+«È un mistagogo» disse Padre Brown, con innocente prontezza. «Ce n'è parecchi in giro; quel genere di uomini di mondo che nei caffè e nei cabaret di [[Paris|Parigi]] ti lasciano intendere di aver sollevato il velo di Iside o di conoscere il segreto di Stonehenge. In un caso come questo di sicuro hanno pronta qualche spiegazione mistica».
+
+Il capo liscio e bruno del signor Barnard Blake, l'avvocato, si chinò cortesemente verso chi parlava, ma il suo sorriso era vagamente ostile.
+
+«Non avrei mai pensato, signore» disse, «che lei avesse qualcosa da ridire sulle spiegazioni mistiche».
+
+«Al contrario» rispose Padre Brown, sbattendo le palpebre con aria amabile. «È proprio per questo che posso ridirci. Un finto avvocato qualunque potrebbe imbrogliarmi, ma non imbroglierebbe lei, perché lei l'avvocato lo fa davvero. Un imbecille qualunque potrebbe travestirsi da pellerossa e io me lo berrei tutto d'un fiato come l'unico e autentico Hiawatha; ma il signor Crake lo smaschererebbe all'istante. Un truffatore potrebbe darmi a intendere di sapere tutto degli aeroplani, ma non lo darebbe a intendere al capitano Wain. E con l'altra faccenda è esattamente lo stesso, non capisce? È proprio perché ho raccattato un po' di nozioni sui mistici che non so che farmene dei mistagoghi. I mistici veri non nascondono i misteri, li rivelano. Espongono una cosa in piena luce, e quando l'hai vista è ancora un mistero. I mistagoghi, invece, nascondono una cosa nel buio e nel segreto, e quando la trovi è una banalità. Ma nel caso di Drage, ammetto che nel parlare di fuoco dal cielo e di saette a ciel sereno aveva anche un'altra idea, più pratica».
+
+«E qual era la sua idea?» chiese Wain. «Comunque sia, credo che la si debba tener d'occhio».
+
+«[[Well|Ebbene]]» rispose il prete, lentamente, «voleva farci credere che i delitti fossero miracoli perché... ebbene, perché sapeva che non lo erano».
+
+«Ah» fece Wain, con una specie di sibilo, «me l'aspettavo. In parole povere, è lui il criminale».
+
+«In parole povere, è il criminale che non ha commesso il delitto» rispose [[Father Brown|Padre Brown]] con calma.
+
+«Sarebbe questa la sua idea di parole povere?» s'informò Blake garbatamente.
+
+«Adesso dirà che il mistagogo sono io» disse [[Father Brown|Padre Brown]], un po' confuso ma con un largo sorriso, «eppure è stato del tutto casuale. Drage non ha commesso il delitto... voglio dire questo delitto. Il suo unico delitto era ricattare qualcuno, e bighellonava qui intorno per farlo; ma difficilmente avrebbe voluto che il segreto diventasse di dominio pubblico, o che tutta la faccenda venisse troncata da una morte. Di lui potremo parlare dopo. Per il momento, voglio soltanto toglierlo di mezzo».
+
+«Di mezzo a che cosa?» chiese l'altro.
+
+«Di mezzo alla verità» rispose il prete, guardandolo tranquillo, con le palpebre immobili.
+
+«Vuol dire» balbettò l'altro, «che lei conosce la verità?»
+
+«Direi di sì» disse [[Father Brown|Padre Brown]] modestamente.
+
+Ci fu un [[Silence|silenzio]] improvviso, dopo il quale Crake proruppe di scatto, in tono stridente e fuori luogo:
+
+«Ma insomma, dov'è finito quel segretario? Wilton! Dovrebbe essere qui».
+
+«Sono in contatto con il signor Wilton» disse [[Father Brown|Padre Brown]] con gravità; «anzi, gli ho chiesto di telefonarmi qui tra pochi minuti. Posso dire che abbiamo sbrogliato la cosa insieme, per così dire».
+
+«Se lavorate insieme, allora suppongo vada bene» brontolò Crake. «So che è sempre stato una specie di segugio sulle tracce di quel suo furfante inafferrabile, sicché forse era il caso di dar la caccia in coppia con lui. Ma se lei sa la verità su tutto questo, dove diamine l'ha pescata?»
+
+«L'ho pescata da lei» rispose il prete, con pacatezza, continuando a fissare mitemente il vecchio veterano dallo sguardo di fuoco. «Voglio dire che la prima ipotesi l'ho ricavata da un'allusione in un suo racconto, quello di un indiano che scagliò un coltello e colpì un uomo in cima a una fortezza».
+
+«L'ha detto parecchie volte» disse Wain, con aria perplessa; «ma non ci vedo alcuna deduzione, se non che questo assassino ha scagliato una freccia e colpito un uomo in cima a una [[house|casa]] molto simile a una fortezza. Ma la freccia, s'intende, non è stata scagliata bensì tirata con l'arco, e sarebbe andata molto più lontano. Di certo è andata straordinariamente lontano; ma non vedo come questo ci porti più avanti».
+
+«Temo che lei abbia mancato il senso del racconto» disse Padre Brown. «Non si tratta del fatto che, se una cosa può andar lontano, un'altra può andare più lontano. Si tratta del fatto che l'uso sbagliato di uno strumento può tagliare da entrambe le parti. Gli uomini sulla fortezza di Crake pensavano al coltello come a un'arma da combattimento corpo a corpo e dimenticavano che poteva essere un proiettile come un giavellotto. Certe altre persone che conosco pensavano a una cosa come a un proiettile simile a un giavellotto e dimenticavano che, in fin dei conti, poteva essere adoperata corpo a corpo come una lancia. In breve, la morale del racconto è che, così come un pugnale può essere trasformato in una freccia, allo stesso modo una freccia può essere trasformata in un pugnale».
+
+Ora lo guardavano tutti; ma egli proseguì nello stesso tono casuale e distratto: «Naturalmente ci siamo lambiccati e tormentati non poco intorno a chi avesse scoccato quella freccia attraverso la finestra, e se venisse da lontano, e via dicendo. Ma la verità è che nessuno ha scoccato affatto la freccia. Non è affatto entrata dalla finestra».
+
+«E allora come è arrivata lì?» chiese l'avvocato dalla carnagione scura, con volto piuttosto accigliato.
+
+«Qualcuno ce l'ha portata con sé, suppongo» disse Padre Brown; «non sarebbe stato difficile trasportarla o nasconderla. Qualcuno l'aveva in mano mentre stava con Merton nella stanza di Merton. Qualcuno l'ha conficcata nella gola di Merton come un pugnale, e poi ha avuto l'idea quanto mai ingegnosa di collocare il tutto in un punto e con un'angolatura tali da farci supporre in un lampo che fosse volata dentro dalla [[Window|finestra]] come un uccello».
+
+«Qualcuno» disse il vecchio Crake, con voce pesante come la pietra.

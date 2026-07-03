@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/innocence-(chesterton)">The Innocence of Father Brown</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/innocence/story_06_the_honour_of_israel_gow/part_02">‹ part 02</a><a class="ex-next" href="/testi/chesterton/atomized/innocence/story_06_the_honour_of_israel_gow/part_04">part 04 ›</a></div>
@@ -134,3 +136,134 @@ had been an arrow.
 Flambeau drove the blade of his spade through the whistling grass
 into the wet clay below.  Then he seemed to stop and lean on it
 as on a staff.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/innocence-(chesterton)">The Innocence of Father Brown</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/innocence/story_06_the_honour_of_israel_gow/part_02">‹ part 02</a><a class="ex-next" href="/testi/chesterton/atomized/innocence/story_06_the_honour_of_israel_gow/part_04">part 04 ›</a></div>
+</nav>
+
+# [[innocence]] — L’[[Honour|onore]] di Israel Gow (parte 3)
+
+«È tutto qui?» chiese Flambeau dopo una lunga pausa.
+«Siamo finalmente arrivati alla scialba verità?»
+
+«Oh, no», disse Padre Brown.
+
+Mentre il vento moriva nelle più lontane pinete con un lungo ululato come di scherno,
+Padre Brown, con un volto del tutto impassibile, proseguì:
+
+«L’ho suggerita solo perché voi avevate detto che non si poteva plausibilmente
+collegare il tabacco agli ingranaggi o le candele alle pietre lucenti.
+Dieci false filosofie si adattano all’universo; dieci false teorie
+si adattano al castello di Glengyle.  Ma noi vogliamo la vera spiegazione
+del castello e dell’universo.  Ma non ci sono altri reperti?»
+
+Craven rise, e Flambeau si alzò in piedi sorridendo e passeggiò
+lungo la lunga tavola.
+
+«Articoli cinque, sei, sette, eccetera», disse, «e di certo
+più vari che istruttivi.  Una curiosa collezione,
+non di matite di piombo, ma del piombo estratto dalle matite.
+Un insensato bastoncino di bambù, con la punta piuttosto scheggiata.
+Potrebbe essere lo strumento del delitto.  Solo che non c’è
+nessun delitto.  Le uniche altre cose sono qualche vecchio messale e
+qualche immaginetta cattolica, che gli Ogilvie conservarono, suppongo,
+fin dal Medioevo — essendo il loro orgoglio di famiglia più forte
+del loro puritanesimo.  Le abbiamo messe nel museo soltanto perché
+sembrano curiosamente ritagliate e sfregiate».
+
+La tempesta inebriante che infuriava fuori spinse un tremendo ammasso di nubi attraverso
+Glengyle e gettò nell’oscurità la lunga sala, mentre Padre Brown
+prendeva le piccole pagine miniate per esaminarle.
+Parlò prima che il flusso dell’oscurità fosse passato; ma era
+la voce di un uomo del tutto nuovo.
+
+«Signor Craven», disse, parlando come un uomo di dieci anni più giovane, «avete
+un mandato legale, non è vero, per salire lassù ed esaminare quella tomba?  Quanto prima
+lo faremo, tanto meglio, così andremo in fondo a questa orribile faccenda.
+Se fossi in voi comincerei adesso».
+
+«Adesso», ripeté il detective sbalordito, «e perché adesso?»
+
+«Perché questa è una cosa seria», rispose Brown; «questo non è tabacco rovesciato
+o sassolini sparsi, che potrebbero trovarsi lì per cento ragioni.
+C’è una sola ragione, per quanto ne so, per cui si è fatto questo; e la ragione affonda
+fino alle radici del mondo.  Queste immagini sacre non sono soltanto
+sporcate o strappate o scarabocchiate, cosa che si potrebbe fare per ozio o per bigottismo,
+da bambini o da protestanti.  Queste sono state trattate con grande cura —
+e in modo assai bizzarro.  In ogni punto dove nelle antiche miniature compare
+il grande nome ornato di Dio, esso è stato accuratamente asportato.
+L’unica altra cosa che è stata tolta è l’aureola attorno al capo
+del Bambino Gesù.  Perciò, dico, prendiamo il nostro mandato e la nostra
+vanga e la nostra accetta, e saliamo a scoperchiare quella bara».
+
+«Che cosa volete dire?» incalzò il funzionario di Londra.
+
+«Voglio dire», rispose il piccolo prete, e la sua voce parve alzarsi lievemente
+nel ruggito della bufera.  «Voglio dire che il grande diavolo dell’universo
+potrebbe essere seduto in questo momento in cima alla torre più alta di questo castello, grosso
+come cento elefanti, e ruggente come l’Apocalisse.  C’è della magia
+nera in fondo a tutto questo, da qualche parte».
+
+«Magia nera», ripeté Flambeau a bassa voce, perché era un uomo troppo
+illuminato per non conoscere simili cose; «ma che cosa possono significare queste altre cose?»
+
+«Oh, qualcosa di dannabile, suppongo», rispose Brown con impazienza.
+«Come faccio a saperlo?  Come posso indovinare tutti i loro labirinti là sotto?
+Forse da tabacco e bambù si può ricavare una tortura.
+Forse i pazzi bramano cera e limatura d’acciaio.
+Forse esiste una droga che fa impazzire fatta di matite di piombo!
+La scorciatoia più breve verso il mistero è su per la collina, fino alla tomba».
+
+I suoi compagni si accorsero appena di avergli obbedito e di averlo seguito
+finché una raffica del vento notturno non li gettò quasi bocconi
+nel giardino.  Nondimeno gli avevano obbedito come automi;
+perché Craven si ritrovò un’accetta in mano, e il mandato in tasca;
+Flambeau portava la pesante vanga dello strano giardiniere;
+Padre Brown portava il piccolo libro dorato dal quale era stato
+strappato il nome di Dio.
+
+Il sentiero su per la collina fino al cimitero era tortuoso ma corto;
+solo che, sotto quella pressione del vento, pareva faticoso e lungo.
+Fin dove giungeva l’occhio, sempre più lontano man mano che salivano il pendio,
+c’erano mari oltre mari di pini, ora tutti inclinati da una parte sotto il vento.
+E quel gesto universale pareva vano quanto era vasto, vano come se
+quel vento fischiasse attorno a qualche pianeta spopolato e senza scopo.
+Attraverso tutta quella infinita crescita di foreste grigio-azzurre cantava, acuto e alto,
+quell’antico dolore che è nel cuore di tutte le cose pagane.
+Si poteva immaginare che le voci provenienti dal mondo sotterraneo dell’insondabile
+fogliame fossero grida degli dèi pagani perduti e vaganti:
+dèi che erano andati errando in quella foresta irrazionale, e che non
+ritroveranno mai la via del cielo.
+
+«Vedete», disse Padre Brown con tono basso ma disinvolto, «gli scozzesi, prima che
+la Scozia esistesse, erano una razza curiosa.  Anzi, sono una razza curiosa ancora.
+Ma nei tempi preistorici immagino che adorassero davvero i demoni.
+Ecco», aggiunse cordialmente, «perché si buttarono a capofitto sulla teologia puritana».
+
+«Amico mio», disse Flambeau, voltandosi in una specie di furore, «che cosa significa
+tutto quel tabacco da fiuto?»
+
+«Amico mio», rispose Brown, con eguale serietà, «c’è un
+segno di tutte le religioni autentiche: il materialismo.  Ora, il culto del diavolo è
+una religione perfettamente autentica».
+
+Erano saliti sulla erbosa cocuzza della collina, uno dei pochi punti brulli
+che spiccavano liberi dalla pineta fragorosa e ruggente.
+Un misero recinto, in parte di legname e in parte di filo di ferro, sferragliava
+nella tempesta a indicare loro il confine del cimitero.
+Ma quando l’ispettore Craven giunse all’angolo della tomba,
+e Flambeau ebbe piantato la vanga con la punta all’ingiù e vi si fu appoggiato,
+erano entrambi quasi scossi quanto il traballante legno e filo di ferro.
+Ai piedi della tomba crescevano alti cardi enormi, grigi e argentei
+nel loro sfacelo.  Una volta o due, quando una palla di lanugine di cardo si spezzava
+sotto la brezza e gli sfrecciava accanto, Craven sussultava lievemente come se
+fosse stata una freccia.
+
+Flambeau spinse la lama della vanga attraverso l’erba fischiante
+fin nella creta umida sottostante.  Poi parve fermarsi e appoggiarvisi
+come a un bastone.

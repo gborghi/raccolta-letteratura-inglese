@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/incredulity-(chesterton)">Incredulity</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/incredulity/story_04_the_miracle_of_moon_crescent/part_07">‹ part 07</a><a class="ex-next" href="/testi/chesterton/atomized/incredulity/story_04_the_miracle_of_moon_crescent/part_09">part 09 ›</a></div>
@@ -137,3 +139,136 @@ opposite was quite blank; remember it was all over in five
 minutes after the Irishman gave the signal with the [[Pistol|pistol]].
 There were three of them in it of course; and I [[Wonder|wonder]] whether
 you can all guess who they were.'
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/incredulity-(chesterton)">Incredulity</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/incredulity/story_04_the_miracle_of_moon_crescent/part_07">‹ part 07</a><a class="ex-next" href="/testi/chesterton/atomized/incredulity/story_04_the_miracle_of_moon_crescent/part_09">part 09 ›</a></div>
+</nav>
+
+«No, davvero» disse padre Brown, imbarazzato.
+«Non credo che mi andrebbe di farlo.»
+
+«Vuol dire che preferirebbe non firmare per primo?»
+
+«Voglio dire che preferirei non firmare affatto» disse [[Father Brown]], con modestia.
+«Vede, non sta troppo bene, per un uomo nella mia posizione,
+scherzare sui miracoli.»
+
+«Ma è stato lei a dire che era un miracolo» disse Alboin, fissandolo.
+
+«Mi dispiace tanto» disse padre Brown; «temo che ci sia
+qualche equivoco. Non credo di aver mai detto che fosse un miracolo.
+Ho detto soltanto che poteva accadere. Siete stati voi a dire che
+non poteva accadere, perché sarebbe stato un miracolo se fosse accaduto.
+E poi è accaduto. E allora avete detto che era un miracolo.
+Ma io non ho mai detto una parola sui miracoli o sulla [[Magic|magia]], o su qualcosa
+del genere, dall'inizio alla fine.»
+
+«Ma credevo che lei credesse nei miracoli» proruppe il segretario.
+
+«Sì» rispose [[Father Brown]], «credo nei miracoli. Credo nelle tigri
+mangiatrici d'uomini, ma non le vedo scorrazzare dappertutto.
+Se voglio dei miracoli, so dove trovarli.»
+
+«Non riesco a capire come possa prendere questa posizione, [[Father Brown]]»
+disse Vandam, con serietà. «Sembra così gretta; e lei non
+mi pare un uomo gretto, per quanto sia un prete. Non capisce,
+un miracolo come questo manderebbe tutto il materialismo a gambe all'aria?
+Direbbe al mondo intero, a caratteri cubitali, che le potenze
+spirituali possono agire e agiscono davvero. Renderebbe alla religione
+un servizio quale nessun prete le ha mai reso finora.»
+
+Il sacerdote si era irrigidito un poco e pareva rivestito, in qualche strano modo,
+di una dignità inconsapevole e impersonale, nonostante la sua
+figura tozza. «[[Well|Ebbene]]» disse, «non vorrà suggerirmi di servire
+la religione con quella che io so essere una menzogna? Non so con precisione che cosa
+intenda con quella frase; e, per essere del tutto sincero, non sono sicuro che lo sappia lei.
+Mentire può essere servire la religione; di certo non è servire Dio.
+E poiché insiste tanto ossessivamente su ciò in cui credo,
+non sarebbe bene che lei avesse una qualche idea di che cosa si tratti?»
+
+«Non credo di capire bene» osservò il milionario, incuriosito.
+
+«Non credo che lei capisca» disse padre Brown, con semplicità.
+«Lei dice che questa cosa è stata fatta da potenze spirituali.
+Quali potenze spirituali? Non penserà mica che i santi angeli
+l'abbiano preso e appeso a un albero del [[Garden|giardino]], vero? E quanto
+agli angeli non santi... no, no, no. Gli uomini che hanno fatto questo hanno commesso una
+cosa malvagia, ma non sono andati oltre la loro stessa malvagità;
+non erano abbastanza malvagi da trattare con potenze spirituali.
+Qualcosa di satanismo la so, Dio mi perdoni; sono stato costretto
+a saperla. So che cos'è, che cosa in pratica è sempre.
+È superbo ed è subdolo. Ama sentirsi superiore; ama
+inorridire l'[[Innocent|innocente]] con cose comprese a metà, far venire
+la pelle d'oca ai bambini. Ecco perché è così ghiotto di misteri
+e iniziazioni e società segrete e tutto il resto.
+I suoi occhi sono rivolti all'interno, e per quanto grande e [[Grave|solenne]]
+possa apparire, nasconde sempre un piccolo, folle sorriso.»
+Rabbrividì all'improvviso, come colto da una gelida corrente d'aria.
+«Non pensate a loro; non hanno nulla a che vedere con questo,
+credetemi. Pensate forse che quel povero, sfrenato irlandese,
+che è corso urlando giù per la strada, che ne ha spiattellato metà
+quando ha visto per la prima volta la mia faccia, ed è fuggito per paura di spiattellarne
+ancora, pensate forse che Satana confidi a lui qualche segreto?
+Ammetto che abbia preso parte a un complotto, probabilmente a un complotto con altri due
+uomini peggiori di lui; ma nonostante tutto, era soltanto
+in una collera senza fine quando è corso giù per il vicolo e ha scaricato
+la pistola e la sua maledizione.»
+
+«Ma che diavolo significa tutto questo?» domandò Vandam.
+«Scaricare una pistola giocattolo e una maledizione da due soldi non poteva fare ciò che è stato fatto,
+se non per miracolo. Non poteva far sparire Wynd come una fata.
+Non poteva farlo riapparire a un quarto di miglio di distanza con una corda
+al collo.»
+
+«No» disse [[Father Brown]] bruscamente; «ma che cosa poteva fare?»
+
+«E continuo a non seguirla» disse il milionario, gravemente.
+
+«Dico, che cosa poteva fare?» ripeté il sacerdote; mostrando, per la
+prima volta, una sorta di animazione che rasentava l'irritazione.
+«Voi continuate a ripetere che uno sparo a salve di [[Pistol|pistola]] non poteva
+fare questo e non poteva fare quello; che, se non c'era altro,
+l'omicidio non poteva accadere o il miracolo non poteva accadere.
+Non vi viene in mente di chiedervi che cosa poteva accadere.
+Che cosa vi accadrebbe se un pazzo scaricasse un'arma da fuoco
+senza capo né coda proprio sotto la vostra [[Window|finestra]]?
+Qual è la primissima cosa che accadrebbe?»
+
+Vandam parve pensieroso. «Immagino che guarderei fuori dalla
+finestra» disse.
+
+«Sì» disse [[Father Brown]], «guardereste fuori dalla finestra.
+È tutta qui la storia. È una storia triste, ma ormai è finita;
+e c'erano circostanze attenuanti.»
+
+«Perché guardare fuori dalla [[Window|finestra]] avrebbe dovuto fargli del male?» chiese Alboin.
+«Non è caduto, altrimenti l'avrebbero trovato nel vicolo.»
+
+«No» disse [[Father Brown]], a voce bassa. «Non è caduto. Si è alzato.»
+
+C'era nella sua voce qualcosa come il gemito di un gong,
+una nota di fatalità, ma per il resto proseguì con fermezza: «Si [[Rose|alzò]],
+ma non su ali; non sulle ali di angeli santi o non santi.
+Si [[Rose|alzò]] all'estremità di una corda, esattamente come l'avete visto nel [[Garden|giardino]];
+un cappio calato sulla sua testa nell'istante in cui la sporgeva dalla [[Window|finestra]].
+Non ricordate Wilson, quel suo grosso domestico, un uomo di
+forza smisurata, mentre Wynd era il più minuto dei gamberetti?
+Non era salito Wilson al piano di sopra per prendere un opuscolo,
+in una stanza piena di bagagli legati con matasse e matasse di corda?
+È stato più visto Wilson da quel giorno? Mi sa di no.»
+
+«Vuol dire» chiese il segretario, «che Wilson lo ha tirato su
+di netto dalla sua stessa [[Window|finestra]] come una trota all'amo?»
+
+«Sì» disse l'altro, «e lo ha calato di nuovo dall'altra [[Window|finestra]]
+giù nel parco, dove il terzo complice lo ha agganciato a un albero.
+Ricordate che il vicolo era sempre deserto; ricordate che il muro
+di fronte era del tutto nudo; ricordate che tutto si concluse in cinque
+minuti dopo che l'irlandese diede il segnale con la [[Pistol|pistola]].
+Erano in tre, naturalmente; e mi [[Wonder|domando]] se
+riuscite tutti a indovinare chi fossero.»

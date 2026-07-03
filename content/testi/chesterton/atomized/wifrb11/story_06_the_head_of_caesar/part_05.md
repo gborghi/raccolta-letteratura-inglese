@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/wifrb11-(chesterton)">The Wisdom of Father Brown</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/wifrb11/story_06_the_head_of_caesar/part_04">‹ part 04</a><a class="ex-next" href="/testi/chesterton/atomized/wifrb11/story_07_the_purple_wig/part_01">part 01 ›</a></div>
@@ -156,3 +158,82 @@ the poor young people are getting on."
 they are probably getting on very well."
 
                                  SEVEN
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/wifrb11-(chesterton)">The Wisdom of Father Brown</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/wifrb11/story_06_the_head_of_caesar/part_04">‹ part 04</a><a class="ex-next" href="/testi/chesterton/atomized/wifrb11/story_07_the_purple_wig/part_01">part 01 ›</a></div>
+</nav>
+
+# [[wifrb11]] — La testa di Cesare (parte 5)
+
+     «Ho una cosa sola da dire. Non merito di essere aiutata; e non discuto né mi lagno della mia punizione; è giusta, doveva accadere. Ma continuo a domandarmi, col cervello che scoppia, come possa essere accaduta. Sono punita per miracolo? o come può chiunque, tranne Philip e me, sapere che gli diedi una minuscola moneta in mezzo al mare?»
+
+     «È un problema straordinario,» ammise Flambeau.
+
+     «Non tanto straordinario quanto la soluzione,» osservò Padre Brown piuttosto cupamente. «Miss Carstairs, sarà in casa se passiamo dalla sua abitazione di Fulham fra un'ora e mezza?»
+
+     La ragazza lo guardò, poi si alzò e si infilò i guanti. «Sì,» disse, «ci sarò»; e quasi all'istante lasciò il locale.
+
+     Quella notte il detective e il prete stavano ancora discorrendo della faccenda mentre si avvicinavano alla casa di Fulham, un caseggiato stranamente misero perfino per una residenza temporanea della famiglia Carstairs.
+
+     «Naturalmente, chi è superficiale, a ripensarci,» disse Flambeau, «penserebbe per primo a questo fratello australiano che si è già cacciato nei guai in passato, che è tornato così all'improvviso e che è proprio il tipo da avere loschi complici. Ma non riesco a vedere come possa entrarci per nessuna via di ragionamento, a meno che...»
+
+     «E allora?» chiese il compagno con pazienza.
+
+     Flambeau abbassò la voce. «A meno che non entri in gioco anche l'innamorato della ragazza, e allora sarebbe lui il furfante più nero. Il tale australiano sapeva bene che Hawker voleva la moneta. Ma non riesco proprio a vedere come diavolo potesse sapere che Hawker l'aveva avuta, a meno che Hawker non gli abbia fatto un segnale, a lui o a un suo incaricato, attraverso la spiaggia.»
+
+     «Questo è vero,» convenne il prete, con rispetto.
+
+     «Ha notato un'altra cosa?» proseguì Flambeau con foga. «Questo Hawker sente insultare la sua innamorata, ma non colpisce finché non è arrivato alle molli dune di sabbia, dove può essere vincitore in un combattimento solo simulato. Se avesse colpito tra le rocce e il mare, avrebbe potuto ferire il suo alleato.»
+
+     «Anche questo è vero,» disse Padre Brown, annuendo.
+
+     «E ora, prendiamola dall'inizio. La cosa sta fra poche persone, ma almeno tre. Per un suicidio ne basta una; per un omicidio, due; ma per un ricatto ce ne vogliono almeno tre.»
+
+     «Perché?» chiese il prete sottovoce.
+
+     «Ma è evidente,» gridò l'amico, «ci deve essere uno da smascherare; uno che minacci di smascherare; e almeno uno che lo smascheramento inorridirebbe.»
+
+     Dopo una lunga pausa meditabonda, il prete disse: «Ti sfugge un passaggio logico. Tre persone sono necessarie come idee. Solo due sono necessarie come agenti.»
+
+     «Che cosa vuoi dire?» chiese l'altro.
+
+     «Perché un ricattatore,» chiese Brown a voce bassa, «non dovrebbe minacciare la propria vittima con se stesso? Supponi che una moglie diventasse una rigida astemia allo scopo di spaventare il marito e indurlo a nascondere la propria frequentazione delle osterie, e poi gli scrivesse lettere ricattatorie con un'altra grafia, minacciando di riferire tutto a sua moglie! Perché non dovrebbe funzionare? Supponi che un padre proibisse a un figlio di giocare d'azzardo e poi, seguendolo ben travestito, minacciasse il ragazzo con quella stessa finta severità paterna! Supponi... ma eccoci arrivati, amico mio.»
+
+     «Dio mio!» gridò Flambeau; «non vorrai dire...»
+
+     Una figura svelta scese di corsa i gradini della casa e mostrò, sotto la dorata luce del lampione, l'inconfondibile testa che somigliava alla moneta romana. «Miss Carstairs,» disse Hawker senza cerimonie, «non voleva entrare prima che arrivaste.»
+
+     «Ebbene,» osservò Brown con sicurezza, «non pensa che la cosa migliore che possa fare sia restar fuori, con lei a vegliarla? Vede, direi che ha già indovinato tutto da solo.»
+
+     «Sì,» disse il giovane, a mezza voce, «ho indovinato sulla spiaggia e adesso lo so; ecco perché l'ho fatto cadere sul morbido.»
+
+     Preso un passe-partout dalla ragazza e la moneta da Hawker, Flambeau fece entrare sé e l'amico nella casa vuota e passò nel salottino d'ingresso. Era privo di ogni occupante tranne uno. L'uomo che Padre Brown aveva visto passare davanti alla taverna stava in piedi contro il muro come una bestia braccata; immutato, salvo che si era tolto il cappotto nero e indossava una veste da camera marrone.
+
+     «Siamo venuti,» disse Padre Brown cortesemente, «a restituire questa moneta al suo proprietario.» E la porse all'uomo dal naso.
+
+     Gli occhi di Flambeau rotearono. «Quest'uomo è un collezionista di monete?» chiese.
+
+     «Quest'uomo è il signor Arthur Carstairs,» disse il prete con fermezza, «ed è un collezionista di monete di specie alquanto singolare.»
+
+     L'uomo cambiò colore in modo così orribile che il naso storto gli spiccò sul viso come una cosa a sé e comica. Parlò, ciò nonostante, con una sorta di dignità disperata. «Vedrete, allora,» disse, «che non ho perduto tutte le qualità di famiglia.» E si voltò di scatto e si diresse a grandi passi in una stanza interna, sbattendo la porta.
+
+     «Fermatelo!» gridò Padre Brown, balzando e quasi cadendo su una sedia; e, dopo uno strattone o due, Flambeau ebbe la porta aperta. Ma era troppo tardi. In un silenzio di morte Flambeau attraversò a grandi passi la stanza e telefonò per un medico e la polizia.
+
+     Una bottiglietta di medicina vuota giaceva sul pavimento. Sul tavolo, il corpo dell'uomo nella veste da camera marrone giaceva in mezzo ai suoi pacchi di carta marrone squarciati e spalancati; dai quali si riversavano e rotolavano non monete romane, ma monete inglesi modernissime.
+
+     Il prete sollevò la testa di bronzo di Cesare. «Questa,» disse, «era tutto ciò che restava della collezione Carstairs.»
+
+     Dopo un silenzio proseguì, con più della consueta dolcezza: «Fu un testamento crudele, quello che il suo malvagio padre fece, e come vede egli lo risentì un poco. Odiava il denaro romano che possedeva, e si affezionò sempre più al denaro vero che gli era negato. Non solo vendette la Collezione pezzo per pezzo, ma sprofondò pezzo per pezzo nei modi più vili di far denaro, fino a ricattare la propria famiglia sotto travestimento. Ricattò suo fratello dall'Australia per il suo piccolo, dimenticato delitto (ecco perché prese la vettura per Wagga Wagga a Putney), ricattò sua sorella per il furto che lui solo poteva aver notato. E questo, per inciso, è il motivo per cui ella ebbe quell'intuizione soprannaturale mentre lui era lontano, sulle dune. La semplice figura e l'andatura, per quanto distanti, hanno più probabilità di ricordarci qualcuno che non un volto ben truccato tutto da vicino.»
+
+     Ci fu un altro silenzio. «Bene,» brontolò il detective, «e così questo grande numismatico e collezionista di monete non era altro che un volgare avaro.»
+
+     «C'è forse una differenza così grande?» chiese Padre Brown, nello stesso strano tono indulgente. «Che cosa c'è di male in un avaro che non sia altrettanto spesso male in un collezionista? Che cosa c'è di male, tranne... non ti farai alcuna immagine scolpita; non ti prostrerai davanti ad esse né le servirai, poiché io... ma dobbiamo andare a vedere come se la passano quei due poveri giovani.»
+
+     «Credo,» disse Flambeau, «che, malgrado tutto, se la passino probabilmente molto bene.»
+
+                                 SETTE

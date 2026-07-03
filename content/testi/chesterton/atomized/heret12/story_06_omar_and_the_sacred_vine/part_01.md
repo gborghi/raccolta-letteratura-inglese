@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/heret12-(chesterton)">Heretics</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/heret12/story_05_mr_h_g_wells_and_the_giants/part_06">‹ part 06</a><a class="ex-next" href="/testi/chesterton/atomized/heret12/story_06_omar_and_the_sacred_vine/part_02">part 02 ›</a></div>
@@ -116,3 +118,29 @@ no place to God, it is that he gives too much place to God.  His is
 that terrible theism which can imagine nothing else but deity,
 and which denies altogether the outlines of human personality
 and human will.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/heret12-(chesterton)">Heretics</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/heret12/story_05_mr_h_g_wells_and_the_giants/part_06">‹ part 06</a><a class="ex-next" href="/testi/chesterton/atomized/heret12/story_06_omar_and_the_sacred_vine/part_02">part 02 ›</a></div>
+</nav>
+
+# [[heret12]] — Omar e la Sacra Vite (parte 1)
+
+VII.  Omar e la sacra vite
+
+Una nuova [[morality|morale]] ci è piombata addosso con una certa violenza a proposito del problema delle bevande forti; e gli entusiasti in materia vanno dall'uomo che viene buttato fuori a viva forza alle dodici e mezza, fino alla signora che a colpi d'ascia sfascia i bar americani.  In queste discussioni si ritiene quasi sempre che una posizione assai saggia e moderata sia quella di dire che il vino, o roba del genere, andrebbe bevuto soltanto come medicina.  Su questo mi permetto di dissentire con una ferocia tutta particolare.  L'unico modo davvero pericoloso e immorale di bere il vino è berlo come medicina.  E per questa ragione: se un uomo beve vino allo scopo di ottenere piacere, egli cerca di ottenere qualcosa di eccezionale, qualcosa che non si aspetta ogni ora del giorno, qualcosa che, a meno di non essere un po' folle, non tenterà di procurarsi ogni ora del giorno.  Ma se un uomo beve vino allo scopo di ottenere salute, egli cerca di ottenere qualcosa di naturale; qualcosa, cioè, di cui non dovrebbe essere privo; qualcosa a cui potrebbe riuscirgli difficile rassegnarsi a rinunciare.  Può non lasciarsi sedurre chi ha veduto l'estasi dell'essere estatico; ben più abbagliante è cogliere un barlume dell'estasi dell'essere ordinari.  Se ci fosse un unguento [[Magic|magico]], e lo portassimo a un uomo robusto dicendogli: «Questo ti permetterà di saltar giù dal Monumento», egli senza dubbio salterebbe giù dal Monumento, ma non salterebbe giù dal Monumento tutto il giorno per la delizia della [[City]].  Ma se lo portassimo a un cieco, dicendogli: «Questo ti permetterà di vedere», egli si troverebbe sotto una [[Temptation|tentazione]] più grave.  Gli riuscirebbe difficile non spalmarselo sugli occhi ogni volta che udisse lo zoccolo di un nobile [[Horse|cavallo]] o gli [[Birds|uccelli]] cantare all'alba.  È facile negare a se [[Self|stessi]] la festa; è difficile negare a se [[Self|stessi]] la normalità.  Di qui viene quel fatto che ogni medico conosce, e cioè che spesso è pericoloso somministrare alcol ai malati anche quando ne hanno bisogno.  Non ho quasi bisogno di dire che non intendo affatto sostenere che dare alcol ai malati per stimolarli sia necessariamente ingiustificabile.  Ma intendo bensì dire che darlo ai sani per divertimento è l'uso appropriato che se ne deve fare, e assai più conforme alla salute.
+
+La regola sana in questa materia sembrerebbe essere, come tante altre regole sane, un [[Paradox|paradosso]].  Bevi perché sei felice, ma mai perché sei infelice.  Non bere mai quando senza di esso saresti disperato, o diverrai come il beone dal volto grigio che tracanna gin nei bassifondi; ma bevi quando senza di esso saresti felice, e sarai come il ridente contadino d'[[Italy|Italia]].  Non bere mai perché ne hai bisogno, ché questo è il bere razionale, e la via che porta alla [[Death|morte]] e all'inferno.  Ma bevi perché non ne hai bisogno, ché questo è il bere irrazionale, e l'antica salute del mondo.
+
+Da più di trent'anni l'[[Shadow|ombra]] e la gloria di una grande figura orientale gravano sulla nostra letteratura inglese.  La [[Translation|traduzione]] dell'Omar Khayyam fatta da Fitzgerald ha concentrato in una struggente intensità immortale tutto l'edonismo oscuro e alla deriva del nostro [[Time|tempo]].  Dello splendore letterario di quell'opera sarebbe banale parlare; in pochi altri libri usciti dalla mano degli uomini si è mai trovato qualcosa che unisse così bene la gaia combattività di un [[Epigram|epigramma]] alla vaga tristezza di una [[Song|canzone]].  Ma della sua influenza filosofica, etica e religiosa, che è stata quasi altrettanto grande quanto il suo fulgore, vorrei dire una parola, e quella parola, lo confesso, è di ostilità intransigente.  Vi sono moltissime cose che si potrebbero dire contro lo spirito del Rubaiyat, e contro la sua prodigiosa influenza.  Ma un solo capo d'accusa si erge minaccioso al di sopra di tutti gli altri: una genuina onta per quell'opera, una genuina calamità per noi.  È il colpo terribile che questo grande poema ha vibrato contro la socievolezza e la gioia di vivere.  Qualcuno ha chiamato Omar «il vecchio Persiano triste e lieto».  Triste egli è; lieto non è, in nessun senso della parola.  È stato un nemico della letizia peggiore dei Puritani.
+
+Un Orientale pensoso e aggraziato giace sotto il cespuglio di [[Rose|rose]] con la sua brocca di vino e il suo rotolo di [[Poems|poesie]].  Può sembrare strano che i pensieri di chiunque, nel momento stesso in cui lo contempla, volino indietro fino all'oscuro capezzale dove il medico centellina il brandy.  Può sembrare ancor più strano che tornino al grigio disgraziato che trema per il gin a Houndsditch.  Ma una grande [[unity|unità]] filosofica lega i tre in un vincolo malvagio.  Il gozzovigliare di vino di Omar Khayyam è cattivo non perché sia gozzovigliare di vino.  È cattivo, e molto cattivo, perché è un gozzovigliare di vino medicinale.  È il bere di un uomo che beve perché non è felice.  Il suo è il vino che esclude l'universo, non il vino che lo rivela.  Non è un bere poetico, che è gioioso e istintivo; è un bere razionale, prosaico come un investimento, sgradevole come una dose di camomilla.  Interi cieli al di sopra di esso, dal punto di vista del sentimento se non dello stile, si leva lo splendore di qualche vecchia [[Song|canzone]] inglese da taverna:
+
+  «E allora fate girar la coppa, compagni miei,
+   e lasciate che scorra il sidro.»
+
+Poiché questa [[Song|canzone]] fu intonata da uomini felici per esprimere il valore di cose veramente degne, della fratellanza e della loquacità, e del breve e amabile ozio dei poveri.  Naturalmente, gran parte dei rimproveri più ottusi mossi contro la [[morality|morale]] omariana sono falsi e puerili come tali rimproveri di solito sono.  Un critico, di cui ho letto l'opera, ebbe l'incredibile insipienza di chiamare Omar un ateo e un materialista.  È quasi impossibile per un Orientale essere l'uno o l'altro; l'Oriente intende la metafisica troppo [[Well|bene]] per questo.  Naturalmente, la vera obiezione che un cristiano filosofo muoverebbe alla religione di Omar non è che egli non dia posto a Dio, bensì che ne dia troppo.  Il suo è quel terribile teismo che non riesce a immaginare nient'altro se non la divinità, e che nega del tutto i contorni della personalità umana e della volontà umana.

@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/innocence-(chesterton)">The Innocence of Father Brown</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/innocence/story_09_the_hammer_of_god/part_06">‹ part 06</a><a class="ex-next" href="/testi/chesterton/atomized/innocence/story_10_the_eye_of_apollo/part_02">part 02 ›</a></div>
@@ -128,3 +130,43 @@ she could manage the lift.  She seemed almost to resent the fact
 of Flambeau opening the lift-door for her; and that gentleman went
 up to his own apartments smiling with somewhat mingled feelings
 at the memory of such spit-fire self-dependence.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/innocence-(chesterton)">The Innocence of Father Brown</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/innocence/story_09_the_hammer_of_god/part_06">‹ part 06</a><a class="ex-next" href="/testi/chesterton/atomized/innocence/story_10_the_eye_of_apollo/part_02">part 02 ›</a></div>
+</nav>
+
+# [[innocence]] — L’occhio di [[Apollo]] (parte 1)
+
+                         L’occhio di Apollo
+
+Quel singolare scintillio fumoso, insieme confusione e trasparenza, che è il segreto strano del Tamigi, andava mutando sempre più dal suo grigio al suo estremo sfavillante, mentre il sole saliva allo zenit sopra Westminster, e due uomini attraversavano il ponte di Westminster. Uno era altissimo e l’altro assai basso; li si sarebbe persino potuti paragonare, per un fantasioso capriccio, all’arrogante torre dell’orologio del Parlamento e alle più umili spalle curve dell’Abbazia, ché l’uomo basso vestiva l’abito talare. La descrizione ufficiale dell’uomo alto era: signor Hercule Flambeau, investigatore privato, e stava recandosi ai suoi nuovi uffici, in un nuovo caseggiato di appartamenti che fronteggiava l’ingresso dell’Abbazia. La descrizione ufficiale dell’uomo basso era: reverendo J. Brown, addetto alla chiesa di San Francesco Saverio, a Camberwell, e veniva dal capezzale di un moribondo di Camberwell per vedere i nuovi uffici del suo amico.
+
+L’edificio era americano nella sua altezza da grattacielo, e americano anche nell’oliata complicazione del suo macchinario di telefoni e ascensori. Ma era appena terminato e ancora sprovvisto di personale; solo tre inquilini vi si erano trasferiti; l’ufficio appena sopra Flambeau era occupato, come pure quello appena sotto di lui; i due piani superiori a quello e i tre inferiori erano del tutto vuoti. Ma la prima occhiata alla nuova torre di appartamenti coglieva qualcosa di ben più singolare. Salvo pochi resti di impalcature, l’unico oggetto sfolgorante era stato eretto all’esterno dell’ufficio proprio sopra a quello di Flambeau. Era un’enorme effigie dorata dell’occhio umano, circondata da raggi d’oro, e occupava tanto spazio quanto due o tre finestre dell’ufficio.
+
+«Che diamine è quella cosa?» chiese Padre Brown, e si fermò.
+«Oh, una nuova religione» disse Flambeau ridendo; «una di quelle nuove religioni che ti perdonano i peccati dicendoti che non ne hai mai avuti. Assai simile alla Scienza Cristiana, direi. Il fatto è che un tale che si fa chiamare Kalon (non so quale sia il suo nome, salvo che non può essere quello) ha preso l’appartamento proprio sopra il mio. Io ho due dattilografe sotto di me, e questo entusiasta vecchio impostore sopra. Si fa chiamare il Nuovo Sacerdote di Apollo, e adora il sole.»
+
+«Che stia in guardia» disse Padre Brown. «Il sole era il più crudele di tutti gli dèi. Ma che cosa significa quel mostruoso occhio?»
+
+«Per quanto ne capisco, è una loro teoria» rispose Flambeau, «che un uomo possa sopportare qualsiasi cosa se la sua mente è del tutto salda. I loro due grandi simboli sono il sole e l’occhio aperto; poiché dicono che, se un uomo fosse davvero sano, potrebbe fissare il sole.»
+
+«Se un uomo fosse davvero sano» disse Padre Brown, «non si darebbe la pena di fissarlo.»
+
+«Be’, è tutto quello che posso dirti su questa nuova religione» proseguì Flambeau con noncuranza. «Pretende, naturalmente, di poter guarire tutte le malattie fisiche.»
+
+«Può guarire l’unica malattia spirituale?» chiese Padre Brown, con seria curiosità.
+
+«E qual è l’unica malattia spirituale?» chiese Flambeau, sorridendo.
+
+«Oh, credersi del tutto sani» disse il suo amico.
+
+Flambeau era più interessato al piccolo, quieto ufficio sotto di lui che al fiammeggiante tempio di sopra. Era un lucido meridionale, incapace di concepirsi come qualcosa di diverso da un cattolico o da un ateo; e le nuove religioni di sorta vivace e smorta non erano molto nelle sue corde. Ma l’umanità era sempre nelle sue corde, specie quando era di bell’aspetto; per giunta, le signore del piano di sotto erano, a modo loro, dei caratteri. L’ufficio era tenuto da due sorelle, entrambe esili e brune, una delle quali alta e appariscente. Aveva un profilo scuro, ardente e aquilino, ed era una di quelle donne che si pensano sempre di profilo, come il taglio netto di un’arma. Pareva fendersi la strada attraverso la vita. Aveva occhi di sorprendente brillantezza, ma era la brillantezza dell’acciaio più che dei diamanti; e la sua figura diritta e slanciata era d’una sfumatura troppo rigida per la sua grazia. La sorella minore era come la sua ombra accorciata, un poco più grigia, più pallida e più insignificante. Entrambe portavano un nero d’aspetto professionale, con piccoli polsini e colletti maschili. Ci sono migliaia di simili signore sbrigative e indefesse negli uffici di Londra, ma l’interesse di queste stava piuttosto nella loro posizione reale che in quella apparente.
+
+Poiché Pauline Stacey, la maggiore, era in realtà l’erede di un blasone e di mezza contea, oltre che di grande ricchezza; era stata allevata in castelli e giardini, prima che una gelida fierezza (propria della donna moderna) la spingesse verso quella che ella considerava un’esistenza più aspra e più alta. Non aveva, in verità, rinunciato al suo denaro; in questo vi sarebbe stato un abbandono romantico o monacale del tutto estraneo al suo dispotico utilitarismo. Ella deteneva la propria ricchezza, avrebbe detto, per impiegarla in scopi sociali pratici. Parte l’aveva investita nella propria attività, il nucleo di un emporio modello di dattilografia; parte era distribuita in varie leghe e cause per il progresso di simili lavori tra le donne. Fino a che punto Joan, sua sorella e socia, condividesse questo idealismo alquanto prosaico, nessuno avrebbe potuto dirlo con certezza. Ma ella seguiva la sua guida con un affetto canino che era in qualche modo più attraente, col suo tocco di tragedia, dell’ardore duro e altero della maggiore. Poiché Pauline Stacey non aveva nulla da dire alla tragedia; s’intendeva che ne negasse l’esistenza.
+
+La sua rigida rapidità e la sua fredda impazienza avevano molto divertito Flambeau la prima volta che aveva messo piede nel caseggiato. Egli aveva indugiato fuori dall’ascensore, nell’atrio d’ingresso, aspettando il ragazzo dell’ascensore, che di solito accompagna gli estranei ai vari piani. Ma quella fanciulla dall’occhio vivo, simile a un falco, aveva apertamente rifiutato di sopportare tale indugio ufficiale. Disse seccamente di sapere tutto dell’ascensore, e di non dipendere da ragazzi — né da uomini. Benché il suo appartamento fosse soltanto tre piani più su, riuscì, nei pochi secondi della salita, a dare a Flambeau moltissime delle sue idee fondamentali con fare disinvolto; erano, nell’insieme, che ella era una moderna donna lavoratrice e amava i moderni macchinari del lavoro. I suoi vividi occhi neri fiammeggiavano d’astratta collera contro coloro che rimproverano la scienza meccanica e reclamano il ritorno del romanticismo. Ognuno, disse, dovrebbe saper governare le macchine, proprio come ella sapeva governare l’ascensore. Parve quasi risentirsi del fatto che Flambeau le aprisse la porta dell’ascensore; e quel gentiluomo salì ai propri appartamenti sorridendo con sentimenti alquanto contrastanti al ricordo di una simile focosa indipendenza.

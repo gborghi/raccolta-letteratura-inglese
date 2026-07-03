@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/innocence-(chesterton)">The Innocence of Father Brown</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/innocence/story_11_the_sign_of_the_broken_sword/part_03">‹ part 03</a><a class="ex-next" href="/testi/chesterton/atomized/innocence/story_11_the_sign_of_the_broken_sword/part_05">part 05 ›</a></div>
@@ -123,3 +125,34 @@ have swords, don't they?"
 
 "They are not often mentioned in modern war," said the other dispassionately;
 "but in this affair one falls over the blessed sword everywhere."
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/innocence-(chesterton)">The Innocence of Father Brown</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/innocence/story_11_the_sign_of_the_broken_sword/part_03">‹ part 03</a><a class="ex-next" href="/testi/chesterton/atomized/innocence/story_11_the_sign_of_the_broken_sword/part_05">part 05 ›</a></div>
+</nav>
+
+# [[innocence]] — Il segno della [[Sword|Spada]] spezzata (parte 4)
+
+Il loro sentiero attraverso il bosco cominciò a salire, e chi parlava si fermò un poco per riprendere fiato prima di continuare. Poi proseguì nello stesso tono pratico:
+
+«Solo un mese o due fa, un certo funzionario brasiliano è morto in Inghilterra, avendo litigato con Olivier e lasciato il suo paese. Era una figura [[Well|ben]] nota tanto qui quanto sul Continente, uno spagnolo di nome Espado; lo conoscevo io stesso, un vecchio dandy dal volto giallastro, col naso adunco. Per varie ragioni private ebbi il permesso di vedere i documenti che aveva lasciato; era cattolico, naturalmente, ed ero stato accanto a lui verso la fine. Non c’era nulla di suo che illuminasse un qualche angolo della nera faccenda di St. Clare, tranne cinque o sei comuni quaderni di scuola riempiti col diario di qualche soldato inglese. Posso solo supporre che fu trovato dai brasiliani su uno di quelli che caddero. Comunque, si interrompeva bruscamente la [[Night|notte]] prima della battaglia.
+
+«Ma il resoconto di quell’ultimo giorno nella vita del povero diavolo valeva certamente la lettura. Ce l’ho con me; ma è troppo buio per leggerlo qui, e ve ne darò un riassunto. La prima parte di quella annotazione è piena di scherzi, evidentemente lanciati fra gli uomini, su un tale chiamato l’Avvoltoio. Non sembra che questa persona, chiunque fosse, fosse uno di loro, né tantomeno un inglese; e neppure se ne parla esattamente come di uno dei nemici. Suona piuttosto come se fosse una sorta di intermediario locale e non combattente; forse una guida o un giornalista. È stato appartato in conciliaboli col vecchio Colonnello Clancy; ma lo si vede più spesso parlare col maggiore. In effetti, il maggiore è alquanto in primo piano nel racconto di questo soldato; un uomo magro, dai capelli scuri, a quanto pare, di nome Murray — un uomo del nord dell’Irlanda e un puritano. Ci sono continue facezie sul contrasto fra l’austerità di questo dell’Ulster e la giovialità del Colonnello Clancy. C’è anche qualche scherzo sul fatto che l’Avvoltoio indossava abiti dai colori vivaci.
+
+«Ma tutte queste leggerezze sono spazzate via da quello che si può [[Well|ben]] chiamare il suono di una tromba di guerra. Dietro il campo inglese, e quasi parallela al [[River|fiume]], correva una delle poche grandi strade di quel distretto. Verso ovest la [[Road|strada]] si curvava verso il [[River|fiume]], che essa attraversava per il ponte già menzionato. A oriente la [[Road|strada]] si ritraeva all’indietro verso le terre selvagge, e a un paio di miglia lungo di essa c’era il successivo avamposto inglese. Da questa direzione giunse lungo la [[Road|strada]], quella sera, un luccichio e un fragore di cavalleria leggera, in cui persino il semplice diarista poté riconoscere con stupore il generale col suo stato maggiore. Egli cavalcava il gran [[Horse|cavallo]] bianco che avete visto tanto spesso nei giornali illustrati e nei quadri dell’Accademia; e potete star certi che il saluto che gli tributarono non fu meramente cerimonioso. Egli, per lo meno, non sprecò [[Time|tempo]] in cerimonie, ma, balzando immediatamente giù dalla sella, si mescolò al gruppo di ufficiali, e si buttò in un discorso enfatico benché confidenziale. Ciò che colpì di più il nostro amico diarista fu la sua speciale disposizione a discutere le cose col Maggiore Murray; ma, in verità, una simile scelta, purché non fosse marcata, non aveva nulla di innaturale. I due uomini erano fatti per intendersi; erano uomini che ‘leggevano la Bibbia’; erano entrambi del vecchio tipo di ufficiale evangelico. Comunque stessero le cose, è certo che, quando il generale rimontò a cavallo, stava ancora parlando con ardore a Murray; e che, mentre faceva scendere lentamente il cavallo lungo la strada verso il fiume, l’alto uomo dell’Ulster camminava ancora accanto alle sue redini in ardente dibattito. I soldati osservarono i due finché non scomparvero dietro un gruppo d’alberi dove la strada svoltava verso il fiume. Il colonnello era tornato alla sua tenda, e gli uomini ai loro posti di guardia; l’uomo col diario si attardò ancora quattro minuti, e vide uno spettacolo meraviglioso.
+
+«Il gran cavallo bianco che aveva disceso lentamente la strada, come aveva sfilato in tante processioni, tornò indietro volando, galoppando su per la strada verso di loro come se fosse impazzito per vincere una gara. Dapprima pensarono che fosse fuggito col cavaliere in groppa; ma videro presto che il generale, ottimo cavallerizzo, era egli stesso a spingerlo a tutta velocità. Cavallo e cavaliere piombarono su di loro come un turbine; e poi, arrestando bruscamente il destriero barcollante, il generale volse verso di loro un volto come fiamma, e chiamò il colonnello come la tromba che desta i morti.
+
+«Immagino che tutti gli eventi sconvolgenti di quella catastrofe si accatastarono l’uno sull’altro piuttosto come ciarpame nelle menti di uomini come il nostro amico col diario. Con lo stordito eccitamento di un sogno, si trovarono a cadere — letteralmente a cadere — nei loro ranghi, e appresero che un attacco doveva essere condotto immediatamente attraverso il fiume. Il generale e il maggiore, si diceva, avevano scoperto qualcosa al ponte, e c’era appena il tempo di battersi per la vita. Il maggiore era tornato indietro subito per richiamare la riserva lungo la strada alle spalle; era dubbio se, anche con quel pronto appello, i soccorsi potessero raggiungerli in tempo. Ma dovevano attraversare il torrente quella notte, e impadronirsi delle alture entro il mattino. È col fremito e il palpito stesso di quella romantica marcia notturna che il diario si interrompe di colpo.»
+
+Padre Brown era salito avanti; poiché il sentiero del bosco si faceva più stretto, più ripido e più tortuoso, finché ebbero l’impressione di ascendere una scala a chiocciola. La voce del prete giungeva dall’alto, fuori dalla tenebra.
+
+«C’era un’altra cosa, piccola ed enorme. Quando il generale li spinse alla loro cavalleresca carica, sguainò a metà la spada dal fodero; e poi, come vergognandosi di un simile melodramma, la ricacciò dentro. Di nuovo la spada, vedete.»
+
+Una mezza luce trapelò attraverso la rete di rami sopra di loro, gettando il fantasma di una rete attorno ai loro piedi; poiché stavano risalendo verso la fioca luminosità della notte nuda. Flambeau sentiva la verità tutt’intorno a sé come un’atmosfera, ma non come un’idea. Rispose con la mente frastornata: «Ebbene, che cosa c’è di strano nella spada? Gli ufficiali di solito hanno le spade, no?»
+
+«Non se ne fa spesso menzione nella guerra moderna,» disse l’altro con distacco; «ma in questa faccenda si inciampa dappertutto in quella benedetta spada.»

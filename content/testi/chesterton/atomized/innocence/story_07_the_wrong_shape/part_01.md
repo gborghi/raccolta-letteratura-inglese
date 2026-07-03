@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/innocence-(chesterton)">The Innocence of Father Brown</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/innocence/story_06_the_honour_of_israel_gow/part_05">‹ part 05</a><a class="ex-next" href="/testi/chesterton/atomized/innocence/story_07_the_wrong_shape/part_02">part 02 ›</a></div>
@@ -118,3 +120,118 @@ billycock hat on the back of his head tumbled up the steps in his eagerness.
 He was a dissipated-looking youth with a gorgeous red necktie all awry,
 as if he had slept in it, and he kept fidgeting and lashing about with one
 of those little jointed canes.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/innocence-(chesterton)">The Innocence of Father Brown</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/innocence/story_06_the_honour_of_israel_gow/part_05">‹ part 05</a><a class="ex-next" href="/testi/chesterton/atomized/innocence/story_07_the_wrong_shape/part_02">part 02 ›</a></div>
+</nav>
+
+# [[innocence]] — La forma sbagliata (parte 1)
+
+                          La forma sbagliata
+
+Certe delle grandi strade che escono da Londra verso nord si prolungano
+lontano nella campagna come una sorta di spettro attenuato e interrotto di
+via cittadina, con ampi vuoti tra gli edifici, ma conservando la linea.
+Qui si troverà un gruppo di botteghe, seguito da un campo recintato o da un
+paddock, e poi una famosa osteria, e poi magari un orto mercantile
+o un vivaio, e poi una grande casa privata, e poi
+un altro campo e un'altra locanda, e così via. Se qualcuno percorre
+una di queste strade, passerà davanti a una casa che probabilmente
+gli attirerà lo sguardo, per quanto non sappia spiegarne l'attrattiva.
+È una casa lunga e bassa, che corre parallela alla strada,
+dipinta per lo più di bianco e verde pallido, con una veranda e tende parasole,
+e portici sormontati da quelle bizzarre cupolette simili a
+ombrelli di legno che si vedono in certe case all'antica.
+E infatti è una casa all'antica, molto inglese e molto
+suburbana nel buon vecchio senso agiato di Clapham. Eppure la casa
+ha l'aria di essere stata costruita soprattutto per il caldo.
+Guardando la sua vernice bianca e le tende parasole si pensa vagamente a *pugaree*
+e persino a palme. Non riesco a risalire alla radice di questa sensazione;
+forse il luogo fu costruito da un anglo-indiano.
+
+Chiunque passasse davanti a questa casa, dico, ne sarebbe fatalmente affascinato;
+sentirebbe che è un luogo intorno al quale c'è qualche storia da raccontare.
+E avrebbe avuto ragione, come sentirete tra breve.
+Perché questa è la storia — la storia delle strane cose che vi accaddero
+davvero durante la Pentecoste dell'anno 18—:
+
+Chiunque fosse passato davanti alla casa il giovedì prima della Pentecoste,
+verso le quattro e mezzo del pomeriggio, avrebbe visto aprirsi la porta d'ingresso,
+e Padre Brown, della piccola chiesa di St. Mungo, uscirne
+fumando una grossa pipa in compagnia di un amico francese assai alto,
+un certo Flambeau, che fumava una sigaretta piccolissima.
+Queste persone possono interessare o meno al lettore,
+ma la verità è che non erano le sole cose interessanti
+che si mostrarono quando la porta d'ingresso della casa bianca e verde
+venne aperta. Vi sono altre particolarità in questa casa,
+che vanno descritte per cominciare, non solo perché il lettore
+possa comprendere questo tragico racconto, ma anche perché comprenda
+che cosa fu che l'apertura della porta rivelò.
+
+L'intera casa era costruita sulla pianta di una T, ma una T
+con una traversa lunghissima e una coda cortissima.
+La lunga traversa era la facciata che correva dinanzi
+alla strada, con la porta d'ingresso nel mezzo; era alta due
+piani, e conteneva quasi tutte le stanze importanti.
+La corta coda, che si prolungava sul retro immediatamente
+di fronte alla porta d'ingresso, era alta un solo piano, e consisteva
+soltanto di due lunghe stanze, l'una che immetteva nell'altra.
+La prima di queste due stanze era lo studio in cui il celebre
+signor Quinton scriveva i suoi sfrenati poemi e romanzi orientali.
+La stanza più interna era una serra a vetri piena di fioriture
+tropicali di una bellezza affatto singolare e quasi mostruosa,
+e in pomeriggi come quello ardente di sfarzosa luce solare.
+Così, quando la porta dell'atrio era aperta, più di un passante letteralmente si fermava
+a fissare e a rimanere senza fiato; poiché il suo sguardo scorreva lungo una prospettiva di ricche stanze
+fino a qualcosa che somigliava davvero a una scena di trasformazione in una féerie:
+nubi purpuree e soli d'oro e stelle cremisi, insieme
+cocentemente vivide e tuttavia trasparenti e lontane.
+
+Leonard Quinton, il poeta, aveva egli stesso disposto con la massima cura questo effetto;
+ed è dubbio che egli abbia mai espresso tanto perfettamente la propria personalità in alcuna
+delle sue poesie. Perché era un uomo che beveva e si immergeva nei colori, che assecondava
+la sua brama di colore con qualche trascuratezza della forma — persino della buona forma.
+Fu questo che volse così interamente il suo genio all'arte e all'immaginario orientale;
+a quei tappeti sconcertanti o a quei ricami accecanti in cui tutti i colori
+sembrano precipitati in un fortunato caos, senza nulla da simboleggiare o da insegnare.
+Aveva tentato, forse non con pieno successo artistico, ma con
+riconosciuta fantasia e inventiva, di comporre poemi epici e storie d'amore
+che riflettessero il tumulto di un colore violento e persino crudele; racconti di cieli
+tropicali d'oro fiammeggiante o di rame rosso sangue; di eroi orientali che cavalcavano
+con mitre da dodici turbanti su elefanti dipinti di porpora o di verde pavone;
+di gioielli giganteschi che cento negri non avrebbero potuto reggere, ma che ardevano
+di fuochi antichi e dalle strane tinte.
+
+In breve (per mettere la cosa dal punto di vista più comune),
+egli trafficava molto in cieli orientali, piuttosto peggiori della maggior parte degli inferni occidentali;
+in monarchi orientali, che potremmo forse chiamare maniaci;
+e in gioielli orientali che un gioielliere di Bond Street (se i cento
+barcollanti negri glieli avessero portati in bottega) forse
+non avrebbe giudicato autentici. Quinton era un genio, sia pure morboso;
+e persino la sua morbosità appariva più nella sua vita che nella sua opera.
+Di temperamento era debole e stizzoso, e la sua salute aveva sofferto
+gravemente per gli esperimenti orientali con l'oppio. Sua moglie — una donna avvenente,
+laboriosa, e, in verità, sovraffaticata — protestava contro l'oppio,
+ma protestava molto di più contro un eremita indiano in carne e ossa, in vesti bianche e gialle,
+che il marito si ostinava a ospitare per mesi interi,
+un Virgilio che guidasse il suo spirito attraverso i cieli e gli inferni
+d'Oriente.
+
+Fu da questa dimora d'artista che Padre Brown e il suo amico misero piede
+sulla soglia; e a giudicare dai loro volti, ne uscirono
+con molto sollievo. Flambeau aveva conosciuto Quinton negli sfrenati anni di studente a Parigi,
+e avevano rinnovato la conoscenza per un fine settimana; ma a prescindere
+dagli sviluppi più responsabili di Flambeau negli ultimi tempi, egli non andava più d'accordo con
+il poeta. Soffocarsi con l'oppio e scrivere piccoli versi erotici
+su pergamena non era la sua idea di come un gentiluomo debba andare in malora.
+Mentre i due indugiavano sulla soglia, prima di fare un giro in giardino,
+il cancello del giardino d'ingresso fu spalancato con violenza, e un giovane con una
+bombetta rovesciata sulla nuca inciampò su per gli scalini nella sua foga.
+Era un giovanotto dall'aria dissipata, con una vistosa cravatta rossa tutta di traverso,
+come se ci avesse dormito, e non smetteva di agitarsi e di frustare l'aria con uno
+di quei bastoncini snodati.

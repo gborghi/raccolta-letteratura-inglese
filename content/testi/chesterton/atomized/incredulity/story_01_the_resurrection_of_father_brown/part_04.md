@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/incredulity-(chesterton)">Incredulity</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/incredulity/story_01_the_resurrection_of_father_brown/part_03">‹ part 03</a><a class="ex-next" href="/testi/chesterton/atomized/incredulity/story_01_the_resurrection_of_father_brown/part_05">part 05 ›</a></div>
@@ -132,3 +134,38 @@ on earth might have been the recognition of their faces.
 Alvarez repeated violently that it was no work of his, and attended
 the funeral, walking behind the coffin in his splendid silver
 and green uniform with a sort of bravado of reverence.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/incredulity-(chesterton)">Incredulity</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/incredulity/story_01_the_resurrection_of_father_brown/part_03">‹ part 03</a><a class="ex-next" href="/testi/chesterton/atomized/incredulity/story_01_the_resurrection_of_father_brown/part_05">part 05 ›</a></div>
+</nav>
+
+Si sorprese a osservare, senza volerlo, quella figura nera così ordinaria e persino comica mentre si affaccendava di qua e di là; a osservarla con una fascinazione quasi morbosa, come se fosse un [[Riddle|indovinello]] ambulante o una vivente contraddizione. Aveva trovato qualcosa che non poteva fare a meno di amare nel cuore stesso di tutto ciò che odiava; era come se fosse stato orribilmente tormentato da demoni minori e avesse poi scoperto che il Diavolo era una persona del tutto comune.
+
+Fu così che, guardando dalla sua [[Window|finestra]] in quella [[Night|notte]] rischiarata di luna, egli vide passare il Diavolo, il demonio di una inspiegabile innocenza, col suo largo cappello nero e il lungo pastrano nero, avanzare strascicando i piedi lungo la strada verso il portone, e lo vide con un interesse che egli stesso non sapeva spiegarsi. Si domandò dove andasse il prete, e che cosa realmente stesse tramando; e rimase a fissare la strada illuminata dalla luna molto tempo dopo che la piccola figura nera era passata. E poi vide qualcos'altro che accrebbe ancora la sua curiosità. Due altri uomini che riconobbe attraversarono il campo della sua [[Window|finestra]] come attraverso un palcoscenico illuminato. Una specie di ribalta azzurrina della [[Moon|luna]] correva in un alone spettrale attorno al gran cespuglio di capelli ritti sul capo del piccolo Eckstein, il vinaio, e disegnava i contorni di una figura più alta e più scura, dal profilo d'aquila e con uno strano cappello nero all'antica e assai pesante in cima, che pareva rendere l'intera sagoma ancora più bizzarra, come una figura in una pantomima di [[Shadow|ombre]]. Race si rimproverò di lasciare che la [[Moon|luna]] giocasse simili scherzi alla sua fantasia; giacché, a un secondo sguardo, riconobbe i basettoni neri alla spagnola e il volto dai lineamenti spigolosi del dottor Calderón, un degno medico della città, che una volta aveva trovato mentre assisteva professionalmente Mendoza. Eppure c'era qualcosa nel modo in cui i due uomini si bisbigliavano l'un l'altro e scrutavano su per la strada che gli parve singolare. Per un impulso improvviso scavalcò il basso davanzale della [[Window|finestra]] e a capo scoperto s'incamminò su per la [[Road|strada]], seguendo le loro tracce. Li vide sparire sotto la buia arcata, e un istante dopo giunse da oltre un grido spaventoso; curiosamente forte e acuto, e tanto più agghiacciante il [[Blood|sangue]] per Race in quanto diceva qualcosa in modo assai distinto in una lingua che egli non conosceva.
+
+Un attimo dopo vi fu un accorrere di piedi, altre grida, e poi un confuso ruggito di rabbia o di dolore che scosse le torrette e le alte palme del luogo; vi fu un movimento nella folla che si era radunata, come se rifluisse all'indietro attraverso il portone. E poi la buia arcata risuonò di una nuova voce, questa [[Time|volta]] a lui intelligibile, che cadeva con la nota della perdizione, mentre qualcuno gridava attraverso il portone:
+
+«Padre Brown è morto!»
+
+Non seppe mai quale sostegno gli venne meno nell'animo, né perché qualcosa su cui aveva fatto affidamento improvvisamente lo tradisse; ma corse verso il portone e giunse giusto in tempo per incontrare il suo connazionale, il giornalista Snaith, che usciva dal buio ingresso, pallidissimo e facendo schioccare nervosamente le dita.
+
+«È proprio vero», disse Snaith, con qualcosa che, per lui, rasentava la reverenza. «È spacciato. Il dottore l'ha esaminato, e non c'è speranza. Alcuni di questi maledetti Dagos l'hanno accoppato mentre passava sotto il portone… Dio sa perché. Sarà una grande perdita per questo posto.»
+
+Race non rispose, o forse non poté rispondere, ma proseguì di corsa sotto l'arco fino alla scena che si trovava oltre. La piccola figura nera giaceva là dov'era caduta, sulla distesa deserta di larghe pietre punteggiate qua e là di spini verdi; e la gran folla veniva tenuta indietro, principalmente dai soli gesti di una figura gigantesca in primo piano. Poiché molti erano lì che ondeggiavano di qua e di là al solo muovere della sua mano, come se egli fosse stato un mago.
+
+Alvarez, il dittatore e demagogo, era una figura alta e spavalda, sempre vestito piuttosto sgargiantemente, e in quell'occasione portava una divisa verde con ricami come serpenti d'argento che vi strisciavano dappertutto, e al collo un'onorificenza sospesa a un nastro d'un vivissimo color granata. I suoi capelli, corti e ricci, erano già grigi, e per contrasto la sua carnagione, che gli amici dicevano olivastra e i nemici da meticcio, appariva quasi letteralmente dorata, come se fosse una maschera modellata in oro. Ma il suo volto dai grandi lineamenti, che era energico e arguto, in quel momento era, come si conveniva, grave e cupo. Aveva atteso, spiegò, Padre Brown al caffè, quando aveva udito un fruscìo e un tonfo e, uscendo, aveva trovato il cadavere disteso sul lastricato.
+
+«So che cosa alcuni di voi stanno pensando», disse, guardandosi attorno con fierezza, «e se avete paura di me — come l'avete — lo dirò io per voi. Sono un ateo; non ho un dio da invocare per coloro che non vogliono credere alla mia parola. Ma vi dico, nel nome di ogni radice d'onore che possa restare a un soldato e a un uomo, che io non ho avuto parte in questo. Se avessi qui gli uomini che l'hanno fatto, gioirei di impiccarli a quell'albero.»
+
+«Naturalmente siamo lieti di sentirvelo dire», disse il vecchio Mendoza, rigido e solenne, ritto accanto al [[Body|corpo]] del suo caduto coadiutore. «Questo colpo è stato troppo tremendo perché possiamo dire, al momento, che cos'altro proviamo. Suggerisco che sarà più decoroso e conveniente rimuovere il corpo del mio amico e sciogliere questa adunanza irregolare. Comprendo», aggiunse gravemente rivolto al dottore, «che purtroppo non vi è alcun [[Doubt|dubbio]].»
+
+«Non vi è alcun dubbio», disse il dottor Calderón.
+
+John Race tornò al suo alloggio triste e con un singolare senso di vuoto. Gli pareva impossibile poter sentire la mancanza di un uomo che non aveva mai conosciuto. Apprese che il funerale avrebbe avuto luogo l'indomani; ché tutti sentivano che la crisi doveva essere superata il più in fretta possibile, per timore dei tumulti che di ora in ora si facevano più probabili. Quando Snaith aveva visto la fila di Pellirosse seduti sotto la veranda, avrebbero potuto sembrare una fila di antiche immagini azteche scolpite nel legno rosso. Ma non li aveva visti com'erano quando appresero che il prete era morto.
+
+Certo si sarebbero levati in rivoluzione e avrebbero linciato il capo repubblicano, se non fossero stati immediatamente frenati dalla diretta necessità di comportarsi con rispetto verso la bara del loro proprio capo religioso. Gli assassini veri e propri, che sarebbe stato più naturale linciare, parevano essersi dileguati nel nulla. Nessuno conosceva i loro nomi; e nessuno avrebbe mai saputo se il morente avesse persino visto i loro volti. Quello strano sguardo di sorpresa che fu, a quanto pare, il suo ultimo sguardo sulla terra, poteva essere stato il riconoscimento dei loro volti. Alvarez ripeté con veemenza che non era opera sua, e partecipò al funerale, camminando dietro la bara nella sua splendida divisa d'argento e verde con una sorta di spavalderia di reverenza.

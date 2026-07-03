@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/wifrb11-(chesterton)">The Wisdom of Father Brown</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/wifrb11/story_03_the_duel_of_dr_hirsch/part_05">‹ part 05</a><a class="ex-next" href="/testi/chesterton/atomized/wifrb11/story_04_the_man_in_the_passage/part_02">part 02 ›</a></div>
@@ -135,3 +137,135 @@ Set in dreamy and exquisite scenery, and moving in mystical dances,
 the green costume, like burnished beetle-wings, expressed all the
 elusive individuality of an elfin [[Queen|queen]].  But when personally confronted
 in what was still broad daylight, a man looked only at the woman's face.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/wifrb11-(chesterton)">The Wisdom of Father Brown</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/wifrb11/story_03_the_duel_of_dr_hirsch/part_05">‹ part 05</a><a class="ex-next" href="/testi/chesterton/atomized/wifrb11/story_04_the_man_in_the_passage/part_02">part 02 ›</a></div>
+</nav>
+
+# [[wifrb11]] — L'uomo nell'androne (parte 1)
+
+                        L'uomo nell'andito
+
+DUE uomini comparvero simultaneamente ai due estremi di una specie di andito
+che correva lungo il fianco del Teatro [[Apollo]] all'Adelphi.
+La luce serale nelle strade era ampia e luminosa,
+opalescente e vuota.  L'andito era relativamente lungo e scuro,
+sicché ciascuno dei due poteva scorgere l'altro come una mera silhouette nera all'estremità opposta.
+Nondimeno, ognuno riconosceva l'altro, persino in quel profilo d'inchiostro;
+poiché entrambi erano uomini dall'aspetto notevole ed entrambi si odiavano.
+
+     L'andito coperto sboccava a un capo su una delle ripide strade
+dell'Adelphi, e all'altro su una terrazza affacciata
+sul [[River|fiume]] tinto del colore del tramonto.  Un lato dell'andito era un muro cieco,
+poiché l'edificio che vi si appoggiava era un vecchio ristorante-teatro fallito,
+ormai chiuso.  L'altro lato dell'andito conteneva due porte,
+una a ciascun capo.  Nessuna delle due era ciò che comunemente si chiama porta di scena;
+erano una sorta di porte di scena speciali e private, usate da
+artisti del tutto particolari, e nella fattispecie dal grande attore
+e dalla grande attrice della rappresentazione shakespeariana del momento.
+Persone di tale eminenza amano spesso avere simili uscite ed entrate private,
+per incontrare gli amici o per evitarli.
+
+     I due uomini in questione erano appunto due di quegli amici,
+uomini che evidentemente conoscevano quelle porte e contavano che si aprissero,
+poiché ciascuno si avvicinò alla porta all'estremità superiore con eguale disinvoltura
+e sicurezza.  Non però con eguale [[Speed|prontezza]]; ché l'uomo
+che camminava svelto era quello venuto dall'altro capo del tunnel,
+sicché entrambi giunsero davanti alla segreta porta di scena quasi
+nel medesimo istante.  Si salutarono con cortesia,
+e attesero un momento prima che uno di loro, il camminatore più svelto
+che pareva avere la pazienza più corta, bussasse alla porta.
+
+     In questo come in ogni altra cosa i due uomini erano opposti e nessuno
+poteva dirsi inferiore.  Come persone private entrambi erano belli,
+capaci e ben visti.  Come persone pubbliche, entrambi appartenevano al più alto rango pubblico.
+Ma tutto in loro, dalla gloria alla bella presenza,
+era di specie diversa e incomparabile.  Sir Wilson Seymour era
+l'uomo la cui importanza è nota a chiunque conti qualcosa.
+Più ci si mescolava alla cerchia più interna di ogni ambiente o professione,
+più spesso s'incontrava Sir Wilson Seymour.  Era l'unico uomo intelligente
+in venti commissioni di sciocchi--su ogni sorta di argomento,
+dalla [[Reform|riforma]] della Royal Academy al progetto di bimetallismo
+per la Grande Britannia.  Nelle Arti soprattutto era onnipotente.
+Era così singolare che nessuno riusciva a decidere del tutto se fosse
+un grande [[aristocrat|aristocratico]] datosi all'Arte, o un grande [[artist|artista]] di cui
+gli aristocratici si erano impadroniti.  Ma non lo si poteva incontrare per cinque minuti
+senza rendersi conto d'esserne stati governati per tutta la vita.
+
+     Il suo aspetto era «distinto» esattamente nel medesimo senso;
+era al tempo stesso convenzionale e unico.  La moda non avrebbe trovato nulla da ridire
+sul suo alto cilindro di seta--, eppure non somigliava a quello di nessun altro--
+un poco più alto, forse, e tale da aggiungere qualcosa alla sua statura naturale.
+La figura alta e slanciata aveva una lieve curvatura, eppure appariva
+il contrario di fiacca.  I capelli erano grigio-argento, ma non pareva vecchio;
+li portava più lunghi del consueto, eppure non pareva effeminato;
+erano ricci, ma non parevano arricciati.  La barba accuratamente appuntita
+lo faceva apparire più virile e battagliero che altrimenti, come accade in quei
+vecchi ammiragli di Velázquez con i cui foschi ritratti era addobbata la sua [[house|casa]].
+I guanti grigi erano una sfumatura più azzurri, il bastone dal pomo d'argento una sfumatura più lungo
+delle decine di simili guanti e bastoni che si agitavano e sventolavano attorno
+ai teatri e ai ristoranti.
+
+     L'altro uomo non era tanto alto, eppure nessuno lo avrebbe giudicato basso,
+ma soltanto forte e bello.  Anche i suoi capelli erano ricci,
+ma biondi e tagliati corti su una testa forte e massiccia--il tipo di testa
+con cui si sfonda una porta, come diceva Chaucer di quella del Mugnaio.
+I baffi militareschi e il portamento delle spalle
+lo rivelavano soldato, ma aveva un paio di quei singolari occhi azzurri, franchi
+e penetranti, che sono più comuni nei marinai.
+Il volto era piuttosto quadrato, la mascella era quadrata, le spalle
+erano quadrate, persino la giacca era quadrata.  Anzi, nella scuola scatenata
+della caricatura allora in voga, il signor Max Beerbohm lo aveva rappresentato come
+una proposizione del quarto libro di Euclide.
+
+     Poiché anche lui era un uomo pubblico, sebbene di tutt'altra
+specie di [[success|successo]].  Non occorreva frequentare la buona società
+per aver sentito parlare del capitano Cutler, dell'assedio di Hong-Kong
+e della grande marcia attraverso la Cina.  Non si poteva sfuggire
+al sentirne parlare dovunque si fosse; il suo ritratto era su una cartolina sì e una no;
+le sue carte geografiche e le sue battaglie su un giornale illustrato sì e uno no; [[songs|canzoni]] in suo [[Honour|onore]]
+in un numero di music-hall sì e uno no, o su un organetto sì e uno no.
+La sua fama, benché probabilmente più effimera, era dieci volte più ampia,
+popolare e spontanea di quella dell'altro.  In migliaia di
+case inglesi egli appariva enorme al di sopra dell'Inghilterra, come Nelson.
+Eppure aveva infinitamente meno potere in Inghilterra di Sir Wilson Seymour.
+
+     Aprì loro la porta un anziano servitore o «vestiarista»,
+il cui volto e la cui figura sfiniti, la cui giacca e i pantaloni neri e logori
+contrastavano stranamente con lo scintillante interno del camerino della grande attrice.
+Era attrezzato e riempito di specchi
+disposti a ogni angolo di rifrazione, sicché parevano le cento sfaccettature
+di un unico enorme diamante--se solo si potesse penetrare dentro un diamante.
+Gli altri tratti di lusso, alcuni [[Flowers|fiori]], alcuni cuscini colorati,
+alcuni ritagli di costume di scena, venivano moltiplicati da tutti gli specchi nella
+[[Madness|follia]] delle Mille e una notte, e danzavano e si scambiavano di posto
+di continuo, man mano che l'inserviente strascicante spingeva in fuori uno [[Mirror|specchio]]
+o lo ricacciava contro la parete.
+
+     Entrambi si rivolsero allo squallido vestiarista chiamandolo per nome, Parkinson,
+e chiesero della signora, la signorina Aurora Rome.  Parkinson disse che ella era
+nell'altra stanza, ma che sarebbe andato ad avvisarla.  Un'ombra passò sulla fronte
+di entrambi i visitatori; poiché l'altra stanza era la stanza privata del
+grande attore con cui la signorina Aurora recitava, ed ella era
+di quel genere che non accende l'ammirazione senza accendere la [[Jealousy|gelosia]].
+In circa mezzo minuto, tuttavia, la porta interna si aprì, ed ella entrò
+come faceva sempre, anche nella vita privata, sicché il [[Silence|silenzio]] stesso
+pareva un fragore di applausi, e per giunta [[Well|ben]] meritato.
+Era abbigliata in una foggia alquanto strana di rasi verde pavone e
+azzurro pavone, che luccicavano come metalli azzurri e verdi,
+di quelli che deliziano i bambini e gli esteti, e la sua pesante, calda chioma castana
+incorniciava uno di quei volti [[Magic|magici]] che sono pericolosi per tutti gli uomini,
+ma specialmente per i ragazzi e per gli uomini che incanutiscono.  In compagnia
+del suo collega maschile, il grande attore americano Isidore Bruno,
+ella stava producendo un'interpretazione particolarmente poetica e fantastica
+del Sogno di una [[Night|notte]] di mezza estate:  in cui la preminenza artistica era attribuita
+a [[Oberon]] e [[Titania]], ossia a Bruno e a lei stessa.
+Immerso in una scenografia sognante e squisita, e mosso in danze mistiche,
+il costume verde, come dorsi bruniti di scarabeo, esprimeva tutta l'
+elusiva individualità di una [[Queen|regina]] degli elfi.  Ma quando la si aveva di fronte di persona
+in quella che era ancora piena luce del giorno, un uomo guardava soltanto il volto della donna.

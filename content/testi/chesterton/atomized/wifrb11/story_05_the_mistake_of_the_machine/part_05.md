@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/wifrb11-(chesterton)">The Wisdom of Father Brown</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/wifrb11/story_05_the_mistake_of_the_machine/part_04">‹ part 04</a><a class="ex-next" href="/testi/chesterton/atomized/wifrb11/story_06_the_head_of_caesar/part_01">part 01 ›</a></div>
@@ -149,3 +151,149 @@ She had Arranged Freak Dinner.  Now Safe in--"
      Mr Greenwood Usher lifted his eyes, but Father Brown was gone.
 
                                   SIX
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/wifrb11-(chesterton)">The Wisdom of Father Brown</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/wifrb11/story_05_the_mistake_of_the_machine/part_04">‹ part 04</a><a class="ex-next" href="/testi/chesterton/atomized/wifrb11/story_06_the_head_of_caesar/part_01">part 01 ›</a></div>
+</nav>
+
+# [[wifrb11]] — L'errore della [[Machine|macchina]] (parte 5)
+
+     Lo stupefatto americano aveva già dischiuso le labbra per protestare
+quando la porta della sua stanza privata e ufficiale fu percossa
+e scossa in un modo privo di cerimonie a cui egli era del tutto disavvezzo.
+
+     La porta si spalancò. L'istante prima Greywood Usher stava
+giungendo alla conclusione che [[Father Brown|Padre Brown]] fosse forse pazzo.
+L'istante dopo cominciò a pensare che il pazzo fosse lui stesso.
+Irruppe e cadde dentro la sua stanza privata un uomo negli stracci più luridi,
+con un unto cappello floscio ancora storto sul capo, e una scalcinata visiera verde
+spinta su da uno dei suoi occhi, entrambi fiammeggianti come quelli di una tigre.
+Il resto del suo viso era quasi indistinguibile, mascherato com'era da
+una barba e da basette arruffate attraverso cui il naso riusciva a stento
+a sporgere, e ulteriormente sepolto in una lurida sciarpa o fazzoletto rosso.
+Il signor Usher si vantava di aver visto la maggior parte degli esemplari più rozzi
+dello Stato, ma pensò di non aver mai visto un babbuino vestito
+da spaventapasseri come quello. Ma, soprattutto, non aveva mai in tutta la sua
+placida esistenza scientifica sentito un uomo simile rivolgergli per primo la parola.
+
+     «Senta un po', vecchio Usher», gridò l'essere dal fazzoletto rosso,
+«mi sto stancando. Non provi a giocare a nascondino con me;
+non mi lascio mica infinocchiare. Lasci andare i miei ospiti, e io lascerò
+correre sulla vostra graziosa macchineria a orologeria. Lo trattenga qui un solo istante e si
+sentirà proprio meschino. Immagino di non essere un uomo senza appoggi.»
+
+     L'eminente Usher fissava il [[Monster|mostro]] mugghiante
+con uno stupore che aveva prosciugato ogni altro sentimento.
+Il solo urto ai suoi occhi aveva reso le sue orecchie quasi inutili.
+Alla fine suonò un campanello con una mano violenta. Mentre il campanello
+squillava ancora forte, la voce di [[Father Brown|Padre Brown]] scese sommessa ma distinta.
+
+     «Ho una proposta da fare», disse, «ma pare
+un po' sconcertante. Non conosco questo signore — ma —
+ma credo di conoscerlo. Ora, tu lo conosci — lo conosci assai [[Well|bene]] —
+ma non lo conosci — naturalmente. Suona paradossale, lo so.»
+
+     «Immagino che il Cosmo sia impazzito», disse Usher, e crollò spalmato
+nella sua rotonda poltrona d'ufficio.
+
+     «Ora, senta un po'», vociferò lo sconosciuto, battendo sul tavolo,
+ma parlando con una voce tanto più misteriosa
+in quanto era relativamente mite e ragionevole, benché ancora rimbombante.
+«Non la lascerò entrare. Voglio —»
+
+     «Chi diavolo siete voi?» urlò Usher, drizzandosi di colpo a sedere.
+
+     «Credo che il signore si chiami Todd», disse il prete.
+
+     Poi raccolse il ritaglio rosa di giornale.
+
+     «[[Fear|Temo]] che tu non legga per bene i giornali mondani», disse,
+e cominciò a leggere ad alta voce con voce monotona: «`O serrata nei
+seni ingioiellati dei più gai capofila della nostra città; ma si parla
+di una graziosa parodia dei modi e dei costumi dell'altro capo
+della scala sociale.' C'è stata una grande Cena dei Bassifondi, stasera, su a
+Pilgrim's Pond; e un uomo, uno degli invitati, è scomparso.
+Il signor Ireton Todd è un buon padrone di casa, e l'ha rintracciato fin qui,
+senza nemmeno aspettare di togliersi il costume in maschera.»
+
+     «Quale uomo intende?»
+
+     «Intendo l'uomo dagli abiti comicamente mal tagliati che hai visto
+correre attraverso il campo arato. Non faresti meglio ad andare a
+indagare su di lui? Sarà piuttosto impaziente di tornare al suo champagne,
+da cui è fuggito con tanta fretta, quando il detenuto col fucile
+è comparso all'orizzonte.»
+
+     «Vuoi seriamente dire —» cominciò l'ufficiale.
+
+     «Ma via, guardi qui, signor Usher», disse Padre Brown con calma,
+«tu hai detto che la macchina non poteva sbagliare; e in un certo senso non ha sbagliato.
+Ma l'altra macchina sì; la macchina che l'azionava.
+Tu hai supposto che l'uomo in stracci sussultasse al nome di Lord Falconroy
+perché era l'assassino di Lord Falconroy. Sussultò al nome
+di Lord Falconroy perché egli è Lord Falconroy.»
+
+     «E allora perché diamine non l'ha detto?» domandò Usher sbarrando gli occhi.
+
+     «Sentiva che la sua condizione e il suo recente panico non erano molto patrizî»,
+rispose il prete, «e così dapprima cercò di tacere il nome.
+Ma stava appunto per dirtelo, quando» — e Padre Brown abbassò
+lo sguardo sui propri stivali — «quando una donna trovò per lui un altro nome.»
+
+     «Ma non puoi essere tanto pazzo da dire», disse Greywood Usher,
+bianchissimo, «che Lord Falconroy fosse Drugger Davis.»
+
+     Il prete lo guardò con grande serietà, ma con un viso
+sconcertante e indecifrabile.
+
+     «Non dico nulla in proposito», disse. «Lascio
+tutto il resto a te. Il tuo giornale rosa dice che il titolo
+gli fu recentemente rinnovato; ma quei giornali sono assai poco attendibili.
+Dice che egli fu negli Stati in gioventù; ma l'intera storia sembra
+assai strana. Davis e Falconroy sono entrambi due bei codardi,
+ma lo sono anche molti altri uomini. Non impiccherei un cane sulla mia sola opinione
+in proposito. Ma penso», proseguì sommessamente e in tono meditativo,
+«penso che voi americani siate troppo modesti. Penso che idealizziate
+l'aristocrazia inglese — perfino nel supporla tanto aristocratica.
+Vedi un bell'inglese in abito da sera; sai
+che è nella Camera dei Lord; e t'immagini che abbia un padre.
+Non tieni conto della nostra esuberanza e slancio nazionale. Molti dei nostri
+più influenti nobiluomini non solo si sono innalzati di recente, ma —»
+
+     «Oh, smettila!» gridò Greywood Usher, torcendo una magra mano
+d'impazienza contro un'ombra d'ironia sul viso dell'altro.
+
+     «Non stia a parlare con questo lunatico!» gridò Todd brutalmente.
+«Mi porti dal mio amico.»
+
+     La mattina seguente Padre Brown comparve con la stessa espressione compunta,
+recando ancora un altro pezzo di giornale rosa.
+
+     «Temo che tu trascuri piuttosto la stampa mondana», disse,
+«ma questo ritaglio potrebbe interessarti.»
+
+     Usher lesse i titoli: «I Festaioli Smarriti dell'Ultimo-Tiro:
+Ilare Episodio presso Pilgrim's Pond.» Il trafiletto proseguiva:
+«Un'occorrenza risibile ha avuto luogo davanti all'Autorimessa Wilkinson
+la scorsa notte. Un poliziotto di servizio ha avuto l'attenzione richiamata da alcuni monelli
+verso un uomo in tenuta carceraria che saliva con considerevole freddezza
+al posto di guida di una Panhard piuttosto di gran classe; era accompagnato
+da una ragazza avvolta in uno scialle a brandelli. All'intervento della polizia,
+la giovane donna gettò indietro lo scialle, e tutti riconobbero
+la figlia del Milionario Todd, appena giunta dalla Cena Stravagante dei Bassifondi
+allo Stagno, dove tutti gli invitati più scelti erano in un simile déshabillé.
+Ella e il signore che aveva indossato la divisa carceraria stavano andando a fare
+la consueta gita di piacere.»
+
+     Sotto il ritaglio rosa il signor Usher trovò una striscia di un giornale più tardo,
+intitolata: «Sbalorditiva Fuga della Figlia del Milionario con un Detenuto.
+Aveva Lei Organizzato la Cena Stravagante. Ora al Sicuro a —»
+
+     Il signor Greenwood Usher alzò gli occhi, ma Padre Brown se n'era andato.
+
+                                  SEI

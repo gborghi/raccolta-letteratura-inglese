@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/everlasting-man-(chesterton)">The Everlasting Man</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/everlasting_man/chapter_02/part_34">‹ part 34</a><a class="ex-next" href="/testi/chesterton/atomized/everlasting_man/chapter_02/part_36">part 36 ›</a></div>
@@ -158,3 +160,157 @@ in fashionable drawing-rooms, like those of the later Roman Empire.
 But in passing to eastern sages, and the somewhat different
 atmosphere of the east, we may approach a rather important [[Truth|truth]]
 by other path.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/everlasting-man-(chesterton)">The Everlasting Man</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/everlasting_man/chapter_02/part_34">‹ part 34</a><a class="ex-next" href="/testi/chesterton/atomized/everlasting_man/chapter_02/part_36">part 36 ›</a></div>
+</nav>
+
+La civiltà che aveva il proprio centro in Tiro e Sidone era
+soprattutto pratica.  Ha lasciato poco in fatto di arte
+e nulla in fatto di poesia.  Ma si vantava di essere
+oltremodo efficiente; e seguiva, nella sua [[philosophy|filosofia]] e nella sua religione,
+quello strano e talvolta segreto filo di pensiero che
+abbiamo già notato in coloro che cercano effetti immediati.
+In una simile mentalità c'è sempre l'idea che esista una
+scorciatoia verso il segreto di ogni [[success|successo]]; qualcosa che sconvolgerebbe
+il mondo con questa sorta di sfrontata radicalità.  Essi credevano,
+per usare l'appropriata formula moderna, in coloro che consegnano la merce.
+Nei loro rapporti col dio Moloch, essi stessi erano sempre
+attenti a consegnare la merce.  Era un'operazione curiosa,
+sulla quale dovremo tornare più di una volta nel resto
+del racconto; qui basti dire che implicava la teoria
+che ho suggerito, circa un certo atteggiamento verso i figli.
+Fu questo a suscitargli contro, in un furore simultaneo, il servo dell'unico
+Dio in Palestina e i custodi di tutti gli dèi domestici a Roma.
+Fu questo a sfidare due realtà per natura tanto divise da ogni
+sorta di distanza e disunione, la cui [[Union|unione]] doveva salvare il mondo.
+
+Ho chiamato col nome di Filosofi la quarta e ultima divisione
+degli elementi spirituali in cui dovrei suddividere l'umanità
+pagana.  Confesso che essa comprende, nella mia mente, molto
+di ciò che di solito si classificherebbe altrimenti; e che quelle
+che qui si chiamano filosofie molto spesso si chiamano religioni.
+Credo tuttavia che la mia descrizione risulterà
+assai più realistica e non meno rispettosa.
+Ma dobbiamo anzitutto prendere la [[philosophy|filosofia]] nella sua forma più pura e limpida,
+per poterne tracciare il profilo normale; e ciò lo si trova
+nel mondo dei profili più puri e limpidi, in quella cultura
+del Mediterraneo di cui abbiamo considerato le mitologie
+e le idolatrie negli ultimi due capitoli.
+
+Il politeismo, ovvero quell'aspetto del paganesimo, non fu mai per il pagano
+ciò che il cattolicesimo è per il cattolico.  Non fu mai una visione dell'
+universo capace di appagare tutti i lati della vita; una [[Truth|verità]] completa e complessa,
+con qualcosa da dire su ogni cosa.  Era soltanto l'appagamento
+di un lato dell'[[Soul|anima]] dell'uomo, anche a volerlo chiamare il lato religioso;
+e io penso sia più esatto chiamarlo il lato immaginativo.
+Ma questo esso lo appagava; e alla fine lo appagò fino alla sazietà.
+Tutto quel mondo era un tessuto di racconti e culti intrecciati, e vi correva
+dentro e fuori, come già abbiamo visto, quel filo nero tra i suoi
+colori più innocenti; il paganesimo più tenebroso che era in realtà demonismo.
+Ma tutti sappiamo che ciò non significava che tutti i pagani pensassero
+soltanto agli dèi pagani.  Proprio perché la mitologia appagava soltanto
+un umore, in altri umori essi si volgevano a qualcosa di totalmente diverso.
+Ma è importantissimo rendersi conto che era totalmente diverso.
+Era troppo diverso per essere incoerente.  Era tanto estraneo che
+non entrava in urto.  Mentre una folla di gente si riversava, in un giorno
+di festa pubblica, alla festa di [[Adonis|Adone]] o ai giochi in [[Honour|onore]] di [[Apollo]],
+questo o quell'uomo preferiva restarsene a [[Home|casa]] a elaborare
+una piccola teoria sulla [[Nature|natura]] delle cose.  Talvolta il suo passatempo
+prendeva perfino la forma di riflettere sulla [[Nature|natura]] di Dio;
+o anche, in quel senso, sulla [[Nature|natura]] degli dèi.
+Ma assai di rado gli veniva in mente di contrapporre la sua [[Nature|natura]] degli dèi
+agli dèi della [[Nature|natura]].
+
+È necessario insistere su questa astrazione nel primo studioso
+delle astrazioni.  Egli non era tanto ostile quanto distratto.
+Il suo passatempo poteva essere l'universo; ma dapprima il passatempo era
+privato come se si fosse trattato di numismatica o di una partita a dama.
+E anche quando la sua saggezza divenne un possesso pubblico,
+e quasi una situazione politica, ben di rado si collocò sullo
+stesso piano delle istituzioni popolari e religiose.
+Aristotele, col suo colossale buon senso, fu forse il più grande
+di tutti i filosofi; certamente la più pratica di tutte le filosofie.
+Ma Aristotele non avrebbe eretto l'Assoluto accanto
+all'[[Apollo]] di Delfi, come religione simile o rivale,
+più di quanto Archimede avrebbe pensato di erigere la leva a una sorta
+di idolo o feticcio da sostituire al Palladio della [[City|città]].
+Oppure potremmo altrettanto [[Well|bene]] immaginare Euclide che innalza un altare a un triangolo
+isoscele, o che offre sacrifici al quadrato dell'ipotenusa.
+L'uno meditava sulla metafisica come l'altro sulla matematica;
+per [[Love|amore]] della [[Truth|verità]], o per curiosità, o per il gusto della cosa.
+Ma quel genere di gusto non sembra mai aver interferito granché con
+l'altro genere di gusto; il gusto di danzare o di cantare per celebrare
+qualche briccona [[Romance|storia]] su Zeus che si tramuta in toro o in cigno.
+È forse la prova di una certa superficialità e persino
+insincerità del politeismo popolare, che degli uomini potessero
+essere filosofi e persino scettici senza turbarlo.
+Quei pensatori potevano smuovere le fondamenta del mondo senza
+alterare nemmeno il contorno di quella nube colorata che pendeva su di esso
+nell'aria.
+
+Poiché i pensatori smuovevano davvero le fondamenta del mondo,
+anche quando un curioso compromesso sembrava impedir loro di
+smuovere le fondamenta della [[City|città]].  I due grandi filosofi
+dell'antichità ci appaiono in effetti come difensori di idee sane e persino
+sacre; le loro massime spesso si leggono come le risposte a
+domande scettiche troppo compiutamente risolte per essere sempre registrate.
+Aristotele annientò un centinaio di anarchici e di maniaci adoratori della [[Nature|natura]]
+con l'affermazione fondamentale che l'uomo è un animale politico.
+Platone in un certo senso anticipò il realismo cattolico, quale fu
+attaccato dal nominalismo eretico, insistendo sul fatto ugualmente
+fondamentale che le idee sono realtà; che le idee esistono proprio come esistono gli uomini.
+Platone tuttavia sembrava talvolta quasi immaginare che le idee esistano come gli uomini
+non esistono; o che degli uomini quasi non occorra tener conto laddove
+essi confliggano con le idee.  Aveva qualcosa di quel sentimento sociale
+che chiamiamo fabiano, nel suo ideale di adattare il cittadino alla [[City|città]].
+Come una testa immaginaria a un cappello ideale; e per quanto grande e glorioso
+egli resti, è stato il Padre di tutti i maniaci delle fisime.
+Aristotele anticipò più pienamente la [[Sanity|sanità]] sacramentale che doveva
+combinare il [[Body|corpo]] e l'[[Soul|anima]] delle cose; poiché egli considerò
+la [[Nature|natura]] degli uomini così [[Well|come]] la [[Nature|natura]] della morale, e guardò
+agli occhi così [[Well|come]] alla luce.  Ma benché questi grandi uomini
+fossero in quel senso costruttivi e conservatori, appartenevano
+a un mondo dove il pensiero era libero fino al punto di essere fantasioso.
+Molti altri grandi ingegni li seguirono in effetti,
+alcuni esaltando una visione astratta della virtù, altri seguendo più
+razionalisticamente la necessità dell'umana ricerca della felicità.
+I primi ebbero il nome di Stoici; e il loro nome è passato in
+proverbio per quello che è in effetti uno dei principali ideali morali dell'umanità:
+quello di fortificare la mente stessa finché non sia di una tempra tale da
+resistere alla sciagura o persino al [[Pain|dolore]].  Ma è ammesso che un gran numero
+di filosofi degenerò in ciò che ancora chiamiamo sofisti.
+Divennero una sorta di scettici di professione che andavano in giro a porre
+domande scomode, ed erano lautamente pagati per rendersi
+molesti alle persone normali.  Fu forse un'accidentale somiglianza
+con simili ciarlatani questuanti a essere responsabile dell'impopolarità
+del grande Socrate; la cui [[Death|morte]] potrebbe sembrare contraddire l'ipotesi
+di una tregua permanente tra i filosofi e gli dèi.
+Ma Socrate non morì come un monoteista che denunciava il politeismo;
+e certamente non come un [[Prophet|profeta]] che denunciava gli idoli.  È chiaro a chiunque
+sappia leggere tra le righe che vi era una certa idea, giusta o sbagliata,
+di un influsso puramente personale che toccava la morale e forse la politica.
+Il compromesso generale rimase, sia che i Greci ritenessero
+i loro miti uno scherzo, sia che ritenessero le loro teorie uno scherzo.
+Non vi fu mai alcuna collisione in cui l'uno davvero distruggesse l'altro,
+né vi fu mai alcuna combinazione in cui l'uno fosse davvero
+riconciliato con l'altro.  Di certo non lavoravano insieme;
+semmai il filosofo era un rivale del sacerdote.
+Ma entrambi parevano aver accettato una sorta di separazione delle funzioni
+e restavano parti dello stesso sistema sociale.  Un'altra importante
+tradizione discende da Pitagora; il quale è significativo perché sta
+più vicino di ogni altro ai mistici orientali che a loro volta dovranno essere considerati.
+Egli insegnò una sorta di misticismo della matematica, che il numero è la
+realtà ultima; ma sembra anche aver insegnato la trasmigrazione
+delle anime come i Brahmini; e aver lasciato ai suoi seguaci
+certi trucchi tradizionali di vegetarianismo e di bevitura d'[[Water|acqua]],
+assai comuni tra i saggi orientali, specie tra quelli che figurano
+nei salotti alla moda, come quelli del tardo Impero Romano.
+Ma nel passare ai saggi orientali, e all'atmosfera alquanto diversa
+dell'oriente, possiamo accostarci a una [[Truth|verità]] piuttosto importante
+per un'altra via.

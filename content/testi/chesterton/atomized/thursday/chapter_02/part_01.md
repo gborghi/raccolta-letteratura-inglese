@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/thursday-(chesterton)">The Man Who Was Thursday</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/thursday/chapter_01/part_03">‹ part 03</a><a class="ex-next" href="/testi/chesterton/atomized/thursday/chapter_02/part_02">part 02 ›</a></div>
@@ -150,3 +152,74 @@ you down a peg.  That way you have of lighting a cigar would
 make a priest break the seal of confession.  [[Well]], you said
 that you were quite certain I was not a serious anarchist.
 Does this place strike you as being serious?"
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/thursday-(chesterton)">The Man Who Was Thursday</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/thursday/chapter_01/part_03">‹ part 03</a><a class="ex-next" href="/testi/chesterton/atomized/thursday/chapter_02/part_02">part 02 ›</a></div>
+</nav>
+
+# [[thursday]] — Capitolo 2 (parte 1)
+
+                          CAPITOLO II
+
+                 IL SEGRETO DI [[Gabriel Syme|GABRIEL SYME]]
+
+LA carrozza si fermò davanti a una birreria particolarmente tetra e unta, nella quale Gregory guidò rapidamente il suo compagno. Presero posto in una specie di saletta angusta e buia, a un tavolo di legno macchiato che aveva una sola gamba di legno. La stanza era così piccola e scura che ben poco si poteva vedere del cameriere che fu chiamato, oltre a una vaga e oscura impressione di qualcosa di massiccio e barbuto.
+
+«Gradisce una piccola cena?» chiese Gregory con cortesia. «Il pâté de foie gras qui non è buono, ma posso raccomandarle la selvaggina.»
+
+Syme accolse l'osservazione con impassibilità, immaginando che fosse uno scherzo. Assecondando la vena di [[Humour|umorismo]], disse, con una indifferenza [[Well|beneducata]]:
+
+«Oh, mi porti dell'aragosta con la maionese.»
+
+Con suo indescrivibile stupore, l'uomo si limitò a dire: «Senz'altro, signore!» e se ne andò, a quanto pareva, per procurargliela.
+
+«Cosa berrà?» riprese Gregory, con la stessa aria trascurata eppure di scusa. «Io prenderò soltanto una crème de menthe; ho già cenato. Ma dello champagne ci si può davvero fidare. Mi permetta almeno di iniziare con una mezza bottiglia di Pommery?»
+
+«Grazie!» disse l'immobile Syme. «È molto gentile.»
+
+I suoi ulteriori tentativi di conversazione, di per sé alquanto sconnessi, furono infine troncati come da un fulmine dall'effettiva comparsa dell'aragosta. Syme l'assaggiò, e la trovò particolarmente buona. Poi cominciò all'improvviso a mangiare con grande rapidità e appetito.
+
+«Mi scusi se mi diverto in modo piuttosto evidente!» disse a Gregory, sorridendo. «Non ho spesso la fortuna di fare [[A Dream|un sogno]] come questo. È una novità per me che [[nightmare|un incubo]] conduca a un'aragosta. Di solito è il contrario.»
+
+«Le assicuro che non sta dormendo,» disse Gregory. «Lei è, al contrario, vicinissimo al momento più concreto ed eccitante della sua esistenza. Ah, ecco che arriva il suo champagne! Ammetto che possa esserci una lieve sproporzione, diciamo così, fra le disposizioni interne di questo eccellente albergo e il suo esterno semplice e senza pretese. Ma tutto ciò è dovuto alla nostra modestia. Siamo gli uomini più modesti che siano mai vissuti sulla terra.»
+
+«E chi siamo noi?» chiese Syme, vuotando il bicchiere di champagne.
+
+«È semplicissimo,» rispose Gregory. «Siamo gli anarchici seri, in cui lei non crede.»
+
+«Oh!» disse Syme secco. «Vi trattate [[Well|bene]] quanto a bevande.»
+
+«Sì, siamo seri su ogni cosa,» rispose Gregory.
+
+Poi, dopo una pausa, aggiunse:
+
+«Se tra qualche istante questo tavolo comincerà a girare un poco, non lo attribuisca alle sue incursioni nello champagne. Non vorrei che si facesse un torto.»
+
+«[[Well|Be']], se non sono ubriaco, sono pazzo,» rispose Syme con perfetta calma; «ma confido di sapermi comportare da gentiluomo in entrambe le condizioni. Posso fumare?»
+
+«Certamente!» disse Gregory, tirando fuori un portasigari. «Provi uno dei miei.»
+
+Syme prese il sigaro, ne tagliò l'estremità con un tagliasigari che pescò dal taschino del panciotto, se lo mise in bocca, lo accese lentamente e lasciò uscire una lunga nuvola di fumo. Non gli fa poco onore l'aver compiuto questi riti con tanta compostezza, perché quasi prima che avesse cominciato, il tavolo al quale sedeva aveva preso a ruotare, dapprima lentamente, e poi rapidamente, come in una folle seduta spiritica.
+
+«Non ci badi,» disse Gregory; «è una specie di vite.»
+
+«Proprio così,» disse Syme placido, «una specie di vite. Com'è semplice!»
+
+Un istante dopo il fumo del suo sigaro, che aveva ondeggiato per la stanza in serpeggianti volute, salì dritto come da una ciminiera di fabbrica, e i due, con le loro sedie e il tavolo, precipitarono giù attraverso il pavimento come se la terra li avesse inghiottiti. Scesero sferragliando per una specie di ruggente ciminiera, rapidi come un ascensore lanciato senza freno, e giunsero con un urto brusco in [[Bottom|fondo]]. Ma quando Gregory spalancò un paio di porte e lasciò entrare una rossa luce sotterranea, Syme fumava ancora con una gamba accavallata sull'altra, e non gli si era mosso un biondo capello.
+
+Gregory lo condusse giù per un basso corridoio a volta, in fondo al quale c'era la luce rossa. Era un'enorme lanterna cremisi, grande quasi come un caminetto, fissata sopra una porticina di ferro piccola ma pesante. Nella porta c'era una specie di sportello o inferriata, e su questo Gregory batté cinque volte. Una voce pesante con accento straniero gli chiese chi fosse. A ciò egli diede la risposta più o meno inaspettata: «Il signor Joseph Chamberlain.» I pesanti cardini cominciarono a muoversi; era evidentemente una specie di parola d'ordine.
+
+Oltre la soglia il corridoio luccicava come se fosse rivestito di una rete d'acciaio. A un secondo sguardo, Syme vide che lo scintillante disegno era in realtà composto di file e file di fucili e rivoltelle, fittamente stipati o incastrati l'uno nell'altro.
+
+«Devo pregarla di perdonarmi tutte queste formalità,» disse Gregory; «qui dobbiamo essere molto rigorosi.»
+
+«Oh, non si scusi,» disse Syme. «Conosco la vostra passione per l'ordine e la legge,» e mise piede nel corridoio rivestito di armi d'acciaio. Con i suoi lunghi capelli biondi e la sua palandrana piuttosto affettata, appariva una figura singolarmente fragile e stravagante mentre percorreva quello splendente viale di [[Death|morte]].
+
+Attraversarono parecchi corridoi del genere, e sbucarono infine in una bizzarra camera d'acciaio dalle pareti curve, quasi sferica nella forma, ma che presentava, con le sue gradinate di panche, qualcosa dell'aspetto di un'aula per conferenze scientifiche. In quel locale non c'erano fucili né pistole, ma intorno alle pareti pendevano forme più dubbie e più terribili, cose che parevano i bulbi di piante di ferro, o le uova di [[Birds|uccelli]] di ferro. Erano bombe, e la stanza stessa pareva l'interno di una bomba. Syme scosse la cenere del sigaro contro la parete, ed entrò.
+
+«E ora, mio caro signor Syme,» disse Gregory, gettandosi in maniera espansiva sulla panca sotto la bomba più grande, «ora siamo del tutto a nostro agio, dunque parliamo come si deve. Nessuna parola umana potrebbe darle un'idea del perché l'ho condotta qui. È stata una di quelle emozioni del tutto arbitrarie, come buttarsi da una rupe o cadere in [[Love|amore]]. Basti dire che lei era un tipo indicibilmente irritante, e, a suo onore, lo è ancora. Infrangerei venti giuramenti di segretezza per il piacere di ridimensionarla un poco. Quel suo modo di accendere un sigaro farebbe violare a un prete il sigillo della confessione. [[Well|Ebbene]], lei ha detto di essere assolutamente certo che io non fossi un anarchico serio. Questo posto le fa l'impressione di essere una cosa seria?»

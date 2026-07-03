@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/thursday-(chesterton)">The Man Who Was Thursday</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/thursday/chapter_07/part_02">‹ part 02</a><a class="ex-next" href="/testi/chesterton/atomized/thursday/chapter_08/part_01">part 01 ›</a></div>
@@ -120,3 +122,122 @@ might be smoked or knives drawn.
 
 A moment later Professor de Worms entered the place, sat down carefully,
 and asked for a glass of milk.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/thursday-(chesterton)">The Man Who Was Thursday</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/thursday/chapter_07/part_02">‹ part 02</a><a class="ex-next" href="/testi/chesterton/atomized/thursday/chapter_08/part_01">part 01 ›</a></div>
+</nav>
+
+# [[thursday]] — Capitolo 7 (parte 3)
+
+Ogni movimento della figura vacillante del vecchio e delle sue mani vaghe,
+ogni gesto incerto e ogni pausa presa dal panico, sembravano porre fuori
+questione che egli fosse indifeso, che fosse nell'ultima imbecillità
+del [[Body|corpo]]. Si muoveva a pollici, si calava con piccoli ansimi di cautela.
+Eppure, a meno che le entità filosofiche chiamate [[Time|tempo]] e spazio non abbiano
+neppure un vestigio di un'esistenza pratica, appariva del tutto indubitabile
+che egli fosse corso dietro all'omnibus.
+
+Syme scattò eretto sulla vettura oscillante, e dopo aver fissato con occhi
+smarriti il cielo invernale, che si faceva più cupo a ogni istante,
+scese di corsa i gradini. Aveva represso un impulso elementare a saltare
+oltre il fianco.
+
+Troppo sconcertato per guardarsi indietro o per ragionare, si precipitò
+in uno dei piccoli cortili a lato di Fleet Street come un coniglio si precipita
+in una tana. Aveva una vaga idea, se questo incomprensibile diavoletto a molla
+lo stava davvero inseguendo, che in quel labirinto di stradine avrebbe potuto
+presto fargli perdere la pista. Si tuffò dentro e fuori quei viottoli tortuosi,
+che assomigliavano più a crepe che a vie di passaggio; e nel [[Time|tempo]] in cui ebbe compiuto
+una ventina di angoli alternati e descritto un impensabile poligono, si fermò
+per ascoltare qualsiasi rumore d'inseguimento. Non ce n'era nessuno; e in ogni
+caso non avrebbe potuto essercene molto, poiché le stradine erano dense
+di [[Snow|neve]] senza suono. Da qualche parte dietro Red [[Lion]] [[Court]], tuttavia,
+notò un luogo dove qualche energico cittadino aveva sgombrato la [[Snow|neve]]
+per uno spazio di circa venti metri, lasciando i ciottoli umidi e luccicanti.
+Vi prestò poca attenzione mentre lo oltrepassava, tuffandosi soltanto
+in un altro braccio ancora del labirinto. Ma quando, qualche centinaio
+di metri più oltre, si fermò di nuovo immobile ad ascoltare, anche il suo
+cuore si fermò, poiché udì, da quello spazio di pietre scabre, il tintinnio
+della stampella e il passo affannoso dell'infernale sciancato.
+
+Il cielo lassù era carico delle nubi della [[Snow|neve]], lasciando [[London|Londra]]
+in un buio e in un'oppressione prematuri per quell'ora della sera.
+Ai due lati di Syme le pareti del vicolo erano cieche e senza tratti;
+non vi era una piccola [[Window|finestra]] né alcuna sorta di apertura. Sentì un nuovo
+impulso a rompere fuori da quell'alveare di case, e a ritrovarsi ancora una volta
+nella strada aperta e illuminata dai lampioni. Eppure vagabondò e schivò
+per un lungo [[Time|tempo]] prima di imbattersi nell'arteria principale. Quando
+vi riuscì, la imboccò molto più in su di quanto avesse immaginato. Sbucò
+in quello che sembrava il vasto vuoto di Ludgate Circus, e vide la [[Cathedral|Cattedrale]]
+di St. Paul assisa nel cielo.
+
+Dapprima trasalì nel trovare queste grandi strade così deserte, come se
+una pestilenza avesse spazzato la [[City|città]]. Poi si disse che un certo grado
+di vuoto era naturale; in primo luogo perché la [[Storm|tempesta]] di [[Snow|neve]] era
+persino pericolosamente fitta, e in secondo luogo perché era [[Sunday|domenica]].
+E alla parola stessa [[Sunday|domenica]] si morse il labbro; la parola era ormai
+a nolo come un qualche osceno bisticcio. Sotto la bianca nebbia di [[Snow|neve]]
+alta lassù in cielo l'intera atmosfera della [[City|città]] era mutata in una
+assai strana specie di crepuscolo verde, come di uomini sotto il mare.
+Il tramonto sigillato e imbronciato dietro l'oscura cupola di St. Paul aveva
+in sé colori fumosi e sinistri — colori di verde malaticcio, di rosso morto
+o di bronzo in decomposizione, che erano appena abbastanza luminosi
+da sottolineare la solida bianchezza della [[Snow|neve]]. Ma proprio a ridosso
+di questi colori tetri si [[Rose|ergeva]] la nera mole della [[Cathedral|cattedrale]];
+e sulla cima della [[Cathedral|cattedrale]] c'era uno schizzo casuale e una grande
+macchia di [[Snow|neve]], ancora aggrappata come a una vetta alpina. Era caduta
+per caso, ma caduta appunto così da drappeggiare a metà la cupola dal suo punto
+più sommo, e da far risaltare in perfetto argento il grande globo e la [[Cross|croce]].
+Quando Syme la vide si raddrizzò d'un tratto, e fece con il suo bastone-[[Sword|spada]]
+un involontario saluto.
+
+Sapeva che quella figura malvagia, la sua [[Shadow|ombra]], stava strisciando
+rapida o lenta dietro di lui, e non gliene importava.
+
+Sembrava un simbolo della [[Faith|fede]] e del valore umani che, mentre i cieli
+si oscuravano, quell'alto luogo della terra fosse luminoso. I diavoli avrebbero
+potuto conquistare il cielo, ma non avevano ancora conquistato la [[Cross|croce]].
+Ebbe un nuovo impulso a strappar via il segreto di quel paralitico che danzava,
+saltava e inseguiva; e all'imbocco del [[Court|cortile]], là dove si apriva
+sul Circus, si voltò, bastone in pugno, per affrontare il suo inseguitore.
+
+Il Professor de Worms venne lentamente a girare l'angolo dell'irregolare vicolo
+alle sue spalle, la sua forma innaturale stagliata contro un solitario lampione
+a gas, che richiamava irresistibilmente quella tanto fantasiosa figura delle
+filastrocche infantili, «l'uomo storto che percorse un miglio storto». Sembrava
+davvero come se fosse stato contorto dalle stesse vie tortuose che aveva
+percorso. Si avvicinava sempre di più, la luce del lampione che gli brillava
+sugli occhiali sollevati, sul viso sollevato e paziente. Syme lo attendeva
+come San Giorgio attese il drago, come un uomo attende una spiegazione finale
+o la [[Death|morte]]. E il vecchio Professore gli venne proprio davanti e gli passò
+accanto come un perfetto sconosciuto, senza neppure un battito delle sue meste
+palpebre.
+
+C'era qualcosa in questa silenziosa e inattesa [[innocence|innocenza]] che lasciò
+Syme in una furia definitiva. Il viso e i modi scoloriti dell'uomo parevano
+affermare che l'intero inseguimento fosse stato un caso. Syme fu galvanizzato
+da un'energia che era qualcosa a metà tra l'amarezza e uno scoppio di puerile
+scherno. Fece un gesto selvaggio come per far saltar via il cappello del vecchio,
+gridò qualcosa come «Prendimi se ci riesci», e si mise a correre via attraverso
+il bianco e aperto Circus. L'occultamento era ormai impossibile; e voltandosi
+a guardare al di sopra della spalla, poté vedere la nera figura del vecchio
+signore venirgli dietro a lunghe falcate dondolanti come un uomo che vince
+una corsa sul miglio. Ma la testa su quel [[Body|corpo]] balzante era ancora pallida,
+[[Grave|grave]] e professionale, come la testa di un docente sul [[Body|corpo]]
+di un arlecchino.
+
+Questa oltraggiosa caccia sfrecciò attraverso Ludgate Circus, su per Ludgate
+[[Hill]], intorno alla [[Cathedral|Cattedrale]] di St. Paul, lungo Cheapside,
+mentre Syme ricordava tutti gli incubi che avesse mai conosciuto. Poi Syme
+deviò di scatto verso il [[River|fiume]], e finì quasi giù presso i docks.
+Vide i vetri gialli di una bassa e illuminata [[house|osteria]], vi si gettò dentro
+e ordinò della birra. Era una taverna immonda, spruzzata di marinai stranieri,
+un luogo dove si poteva fumare oppio o sguainare coltelli.
+
+Un momento dopo il Professor de Worms entrò nel locale, si sedette con cautela,
+e chiese un bicchiere di latte.

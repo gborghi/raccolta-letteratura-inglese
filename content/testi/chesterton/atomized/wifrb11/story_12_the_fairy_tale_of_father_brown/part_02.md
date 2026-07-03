@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/wifrb11-(chesterton)">The Wisdom of Father Brown</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/wifrb11/story_12_the_fairy_tale_of_father_brown/part_01">‹ part 01</a><a class="ex-next" href="/testi/chesterton/atomized/wifrb11/story_12_the_fairy_tale_of_father_brown/part_03">part 03 ›</a></div>
@@ -117,3 +119,117 @@ secret apartments and strong military protection were due less to [[Fear|fear]]
 of the populace than to the pursuit of some private investigation of--"
 
      "Had the [[Flowers|flowers]] got long stalks?" asked [[Father Brown]].
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/wifrb11-(chesterton)">The Wisdom of Father Brown</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/wifrb11/story_12_the_fairy_tale_of_father_brown/part_01">‹ part 01</a><a class="ex-next" href="/testi/chesterton/atomized/wifrb11/story_12_the_fairy_tale_of_father_brown/part_03">part 03 ›</a></div>
+</nav>
+
+# [[wifrb11]] — La fiaba di [[Father Brown|Padre Brown]] (parte 2)
+
+     «La scienza umana non può mai essere del tutto certa di cose simili»,
+disse Padre Brown, sempre guardando il rosso germogliare dei rami
+sopra il suo capo, «non foss'altro per la difficoltà che riguarda la definizione
+e la connotazione. Cos'è un'arma? Vi è chi è stato assassinato
+con i più miti conforti domestici; certamente con bollitori del tè,
+e probabilmente con copriteiere. D'altra parte, se mostrassi
+a un antico Britanno una rivoltella, dubito che capirebbe che è un'arma --
+finché non gli venisse sparata addosso, s'intende. Forse qualcuno introdusse
+un'arma da fuoco tanto nuova da non parere nemmeno un'arma da fuoco.
+Forse aveva l'aspetto di un ditale o cosa simile. La pallottola
+aveva qualcosa di particolare?»
+
+     «Non che io abbia mai udito», rispose Flambeau; «ma le mie informazioni
+sono frammentarie, e provengono soltanto dal mio vecchio amico Grimm.
+Era un investigatore assai capace al servizio tedesco, e cercò
+di arrestarmi; io arrestai lui invece, e facemmo molte interessanti chiacchierate.
+Era incaricato qui dell'indagine sul Principe Otto, ma dimenticai
+di chiedergli alcunché sulla pallottola. Secondo Grimm,
+ciò che accadde fu questo.» Fece una pausa per vuotare la maggior parte
+della sua scura birra d'un fiato, e poi riprese:
+
+     «La sera in questione, pare, il Principe era atteso
+in una delle sale esterne, perché doveva ricevere
+certi visitatori che desiderava davvero incontrare. Erano periti
+geologi mandati a indagare la vecchia questione del preteso giacimento d'oro
+nelle rocce di qui, sul quale (a quanto si diceva) la piccola città-stato
+aveva così a lungo mantenuto il proprio credito ed era stata capace di trattare con
+i vicini persino sotto il bombardamento incessante di eserciti più grandi.
+Fino ad allora non era mai stato scoperto dalla più rigorosa indagine
+che potesse --»
+
+     «Che potesse essere ben certa di scoprire una pistola giocattolo»,
+disse Padre Brown con un sorriso. «Ma quanto al fratello che tradì?
+Non aveva nulla da riferire al Principe?»
+
+     «Asseverò sempre di non sapere», replicò Flambeau;
+«che questo era l'unico segreto che i suoi fratelli non gli avevano detto.
+È giusto dire che ricevette qualche sostegno da
+parole frammentarie -- pronunciate dal grande Ludwig nell'ora della morte,
+quando guardò Heinrich ma indicò Paul, e disse,
+`Tu non gli hai detto...' e poco dopo fu incapace di parlare.
+Comunque, la deputazione di illustri geologi e mineralogisti
+di [[Paris|Parigi]] e Berlino era là nell'abito più magnifico e
+appropriato, ché non vi sono uomini a cui piaccia tanto sfoggiare le proprie onorificenze
+quanto agli uomini di scienza -- come sa chiunque sia mai stato a
+un ricevimento della Royal Society. Fu una brillante adunanza,
+ma assai tarda, e a poco a poco il Ciambellano -- hai visto anche il suo ritratto:
+un uomo dalle sopracciglia nere, gli occhi seri e una specie di
+sorriso insignificante sotto di esse -- il Ciambellano, dico, scoprì che vi era
+là ogni cosa tranne il Principe stesso. Perlustrò tutti i
+saloni esterni; poi, ricordando gli accessi di folle [[Fear|paura]] dell'uomo,
+si affrettò alla camera più interna. Anche quella era vuota, ma la torretta o cabina
+d'acciaio eretta nel mezzo di essa richiese un po' di [[Time|tempo]] per aprirsi.
+Quando si aprì, era vuota anch'essa. Andò a guardare dentro
+la buca nel terreno, che pareva più profonda e in qualche modo tanto più
+simile a una [[Grave|tomba]] -- questo è il suo racconto, s'intende. E proprio mentre lo faceva
+udì un'esplosione di grida e di tumulto nelle lunghe stanze
+e nei corridoi al di fuori.
+
+     «Dapprima fu un fragore lontano e un fremito di qualcosa di impensabile
+all'orizzonte della folla, persino al di là del [[Castle|castello]]. Poi fu
+un clamore senza parole, allarmante nella sua vicinanza, e abbastanza forte da essere distinto
+se ogni parola non avesse ucciso l'altra. Poi vennero parole
+di terribile chiarezza, che si avvicinavano, e poi un uomo,
+che irruppe nella stanza e diede la notizia con la brevità con cui tali notizie si danno.
+
+     «Otto, Principe di Heiligwaldenstein e Grossenmark, giaceva
+nella rugiada del crepuscolo sempre più fondo nei boschi al di là del [[Castle|castello]],
+con le braccia spalancate e il volto rivolto in alto verso la [[Moon|luna]].
+Il [[Blood|sangue]] pulsava ancora dalla tempia e dalla mascella fracassate,
+ma era la sola parte di lui che si movesse come cosa viva.
+Indossava la sua completa uniforme bianca e gialla, come per ricevere i
+suoi ospiti all'interno, salvo che la fascia o sciarpa era stata slegata e giaceva
+alquanto sgualcita al suo fianco. Prima che lo si potesse sollevare, era morto.
+Ma, morto o vivo, egli era un [[Riddle|enigma]] -- lui che si era sempre nascosto nella
+camera più interna, là fuori nei boschi umidi, disarmato e [[Alone|solo]].»
+
+     «Chi trovò il suo [[Body|corpo]]?» chiese [[Father Brown|Padre Brown]].
+
+     «Una ragazza addetta alla [[Court|Corte]], di nome Hedwig von non so che»,
+replicò il suo amico, «che era uscita nel bosco a cogliere [[Flowers|fiori]] selvatici.»
+
+     «Ne aveva colti?» chiese il sacerdote, fissando piuttosto vacuo
+il velo dei rami sopra di lui.
+
+     «Sì», replicò [[Flambeau]]. «Ricordo in particolare che
+il Ciambellano, o il vecchio Grimm o qualcuno, disse quanto fosse orribile,
+quando accorsero al suo grido, vedere una ragazza che teneva [[spring|primaverili]] [[Flowers|fiori]]
+e si chinava su quel -- quel crollo sanguinoso. Comunque, il punto principale è
+che prima che arrivassero i soccorsi egli era morto, e la notizia, naturalmente,
+dovette essere riportata al [[Castle|castello]]. La costernazione che suscitò fu
+qualcosa che oltrepassava persino quella naturale in una [[Court|Corte]] alla caduta di un potente.
+I visitatori stranieri, specie i periti minerari, erano nel più selvaggio
+[[Doubt|dubbio]] e agitazione, come [[Well|pure]] molti importanti funzionari prussiani,
+e presto cominciò a farsi chiaro che il progetto di trovare il tesoro
+pesava assai più nella faccenda di quanto la gente avesse supposto.
+A periti e funzionari erano stati promessi grandi premi o
+vantaggi internazionali, e alcuni dicevano persino che gli appartamenti segreti del Principe
+e la forte protezione militare fossero dovuti meno alla [[Fear|paura]]
+della popolazione che al perseguimento di una qualche indagine privata su --»
+
+     «I [[Flowers|fiori]] avevano gambi lunghi?» chiese [[Father Brown|Padre Brown]].
