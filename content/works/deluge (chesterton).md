@@ -1,5 +1,5 @@
 ---
-title: deluge
+title: The Deluge
 author: Chesterton
 type: work
 cluster: Faith · Providence · Divine Love
@@ -17,6 +17,8 @@ tags:
   - form/lyric
   - form/ballad
 ---
+
+# deluge
 
 *by Chesterton*  ·  **Cluster:** [[Faith · Providence · Divine Love]]
 

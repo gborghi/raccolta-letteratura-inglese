@@ -1,5 +1,5 @@
 ---
-title: the-englishman
+title: The Englishman
 author: Chesterton
 type: work
 cluster: Heroism · Hero · Last Stand
@@ -16,6 +16,8 @@ tags:
   - histref/christianity
   - archetype/hero
 ---
+
+# the-englishman
 
 *by Chesterton*  ·  **Cluster:** [[Heroism · Hero · Last Stand]]
 

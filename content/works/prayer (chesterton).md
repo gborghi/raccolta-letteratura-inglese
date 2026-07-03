@@ -1,5 +1,5 @@
 ---
-title: prayer
+title: A Prayer in Darkness
 author: Chesterton
 type: work
 cluster: Faith · Providence · Divine Love
@@ -19,6 +19,8 @@ tags:
   - character/christ
   - histref/christianity
 ---
+
+# prayer
 
 *by Chesterton*  ·  **Cluster:** [[Faith · Providence · Divine Love]]
 

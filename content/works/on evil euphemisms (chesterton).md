@@ -1,5 +1,5 @@
 ---
-title: on evil euphemisms
+title: On Evil Euphemisms
 author: Chesterton
 type: work
 cluster: Artist and Society · Truth · Regency/Georgian England

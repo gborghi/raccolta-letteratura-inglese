@@ -1,5 +1,5 @@
 ---
-title: logic
+title: LOGIC and LAWN TENNIS
 author: Chesterton
 type: work
 cluster: Essay · Critique of Progress · Common Man
@@ -14,6 +14,8 @@ tags:
   - concept/paradox
   - histref/christianity
 ---
+
+# logic
 
 *by Chesterton*  ·  **Cluster:** [[Essay · Critique of Progress · Common Man]]
 

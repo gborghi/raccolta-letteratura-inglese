@@ -1,5 +1,5 @@
 ---
-title: oak
+title: The Song of the Oak
 author: Chesterton
 type: work
 cluster: Essay · Critique of Progress · Common Man
@@ -15,6 +15,8 @@ tags:
   - motif/blood
   - concept/critique_of_progress
 ---
+
+# oak
 
 *by Chesterton*  ·  **Cluster:** [[Essay · Critique of Progress · Common Man]]
 

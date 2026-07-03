@@ -1,5 +1,5 @@
 ---
-title: convert
+title: The Convert
 author: Chesterton
 type: work
 cluster: Christianity · Faith and Doubt · Doubt
@@ -16,6 +16,8 @@ tags:
   - histref/the_bible
   - concept/wonder_and_gratitude
 ---
+
+# convert
 
 *by Chesterton*  ·  **Cluster:** [[Christianity · Faith and Doubt · Doubt]]
 

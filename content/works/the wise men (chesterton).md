@@ -1,5 +1,5 @@
 ---
-title: the wise men
+title: The Wise Men
 author: Chesterton
 type: work
 cluster: Grace and Redemption · Humility · Bread and Wine / Eucharist

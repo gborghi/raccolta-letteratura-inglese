@@ -1,5 +1,5 @@
 ---
-title: ascetic
+title: THE SONG of the STRANGE ASCETIC
 author: Chesterton
 type: work
 cluster: Wine and Drink · Ballad / Ballade · Road
@@ -18,6 +18,8 @@ tags:
   - motif/fire
   - histref/classical_antiquity
 ---
+
+# ascetic
 
 *by Chesterton*  ·  **Cluster:** [[Wine and Drink · Ballad Ballade · Road]]
 

@@ -1,5 +1,5 @@
 ---
-title: eternities
+title: Eternities
 author: Chesterton
 type: work
 cluster: Self-Knowledge · Immortality · Self-Reliance

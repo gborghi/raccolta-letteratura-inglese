@@ -1,5 +1,5 @@
 ---
-title: american-morals
+title: On American Morals
 author: Chesterton
 type: work
 cluster: Essay · Critique of Progress · Common Man
@@ -15,6 +15,8 @@ tags:
   - concept/truth
   - histref/puritanism
 ---
+
+# american-morals
 
 *by Chesterton*  ·  **Cluster:** [[Essay · Critique of Progress · Common Man]]
 

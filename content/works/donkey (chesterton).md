@@ -1,5 +1,5 @@
 ---
-title: donkey
+title: The Donkey
 author: Chesterton
 type: work
 cluster: Martyrdom · Martyr / Saint · Cross
@@ -18,6 +18,8 @@ tags:
   - motif/moon
   - form/lyric
 ---
+
+# donkey
 
 *by Chesterton*  ·  **Cluster:** [[Martyrdom · Martyr Saint · Cross]]
 

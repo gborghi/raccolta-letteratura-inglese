@@ -1,5 +1,5 @@
 ---
-title: aristocrat
+title: The Aristocrat
 author: Chesterton
 type: work
 cluster: Temptation · Good vs Evil · Serpent / Snake
@@ -20,6 +20,8 @@ tags:
   - motif/money_gold
   - character/satan
 ---
+
+# aristocrat
 
 *by Chesterton*  ·  **Cluster:** [[Temptation · Good vs Evil · Serpent Snake]]
 

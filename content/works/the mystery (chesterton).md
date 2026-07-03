@@ -1,5 +1,5 @@
 ---
-title: the mystery
+title: The Mystery
 author: Chesterton
 type: work
 cluster: Wonder and Gratitude · Sublime · Storm

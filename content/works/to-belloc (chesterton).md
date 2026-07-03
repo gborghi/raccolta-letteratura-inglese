@@ -1,5 +1,5 @@
 ---
-title: to-belloc
+title: To Hilaire Belloc
 author: Chesterton
 type: work
 cluster: Lyric · Romantic Love · Marriage and Fidelity
@@ -16,6 +16,8 @@ tags:
   - motif/moon
   - histref/napoleonic_wars
 ---
+
+# to-belloc
 
 *by Chesterton*  ·  **Cluster:** [[Lyric · Romantic Love · Marriage and Fidelity]]
 

@@ -1,5 +1,5 @@
 ---
-title: unity
+title: The Higher Unity
 author: Chesterton
 type: work
 cluster: Satire of Society · Epigram · Satire
@@ -14,6 +14,8 @@ tags:
   - histref/christianity
   - concept/martyrdom
 ---
+
+# unity
 
 *by Chesterton*  ·  **Cluster:** [[Satire of Society · Epigram · Satire]]
 

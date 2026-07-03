@@ -1,5 +1,5 @@
 ---
-title: asparagus
+title: Asparagus
 author: Chesterton
 type: work
 cluster: Essay · Critique of Progress · Common Man

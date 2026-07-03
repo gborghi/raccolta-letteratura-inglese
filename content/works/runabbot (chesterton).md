@@ -1,5 +1,5 @@
 ---
-title: runabbot
+title: The Runaway Abbot
 author: Chesterton
 type: work
 cluster: Grace and Redemption · Humility · Bread and Wine / Eucharist
@@ -16,6 +16,8 @@ tags:
   - motif/fire
   - motif/the_cross
 ---
+
+# runabbot
 
 *by Chesterton*  ·  **Cluster:** [[Grace and Redemption · Humility · Bread and Wine Eucharist]]
 

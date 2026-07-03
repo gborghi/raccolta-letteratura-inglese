@@ -1,5 +1,5 @@
 ---
-title: skeptic
+title: Skepticism and Spiritualism
 author: Chesterton
 type: work
 cluster: Christianity · Faith and Doubt · Doubt
@@ -14,6 +14,8 @@ tags:
   - concept/doubt
   - concept/critique_of_progress
 ---
+
+# skeptic
 
 *by Chesterton*  ·  **Cluster:** [[Christianity · Faith and Doubt · Doubt]]
 

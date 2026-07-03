@@ -1,5 +1,5 @@
 ---
-title: artist
+title: ON the DISASTROUS SPREAD of AESTHETICISM in ALL CLASSES
 author: Chesterton
 type: work
 cluster: Maturation and Growth · Childhood · Innocence and Experience
@@ -23,6 +23,8 @@ tags:
   - motif/flowers
   - archetype/child
 ---
+
+# artist
 
 *by Chesterton*  ·  **Cluster:** [[Maturation and Growth · Childhood · Innocence and Experience]]
 

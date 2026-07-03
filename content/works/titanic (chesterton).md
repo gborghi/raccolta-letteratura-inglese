@@ -1,5 +1,5 @@
 ---
-title: titanic
+title: The Great Shipwreck as Analogy
 author: Chesterton
 type: work
 cluster: Ship · Endurance
@@ -18,6 +18,8 @@ tags:
   - setting/a_ship
   - setting/the_sea
 ---
+
+# titanic
 
 *by Chesterton*  ·  **Cluster:** [[Ship · Endurance]]
 

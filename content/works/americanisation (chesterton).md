@@ -1,5 +1,5 @@
 ---
-title: americanisation
+title: Americanisation
 author: Chesterton
 type: work
 cluster: Satire of Society · Epigram · Satire

@@ -1,5 +1,5 @@
 ---
-title: childsnow
+title: A Child of the Snows
 author: Chesterton
 type: work
 cluster: Faith · Providence · Divine Love
@@ -21,6 +21,8 @@ tags:
   - character/christ
   - archetype/innocent
 ---
+
+# childsnow
 
 *by Chesterton*  ·  **Cluster:** [[Faith · Providence · Divine Love]]
 

@@ -1,5 +1,5 @@
 ---
-title: praise of dust
+title: The Praise Of Dust
 author: Chesterton
 type: work
 cluster: Mortality · Grave · Memento Mori
@@ -18,6 +18,8 @@ tags:
   - motif/white_and_red
   - histref/the_bible
 ---
+
+# praise of dust
 
 *by Chesterton*  ·  **Cluster:** [[Mortality · Grave · Memento Mori]]
 

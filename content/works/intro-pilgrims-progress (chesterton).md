@@ -1,5 +1,5 @@
 ---
-title: intro-pilgrims-progress
+title: 'Introduction to John Bunyan''s ''THE PILGRIM''S PROGRESS'','
 author: Chesterton
 type: work
 cluster: Allegory · Quest · Pilgrim
@@ -21,6 +21,8 @@ tags:
   - motif/the_journey
   - motif/the_city
 ---
+
+# intro-pilgrims-progress
 
 *by Chesterton*  ·  **Cluster:** [[Allegory · Quest · Pilgrim]]
 

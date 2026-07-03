@@ -1,5 +1,5 @@
 ---
-title: intro-love-and-freindship
+title: 'Introduction to Jane Austen''s ''Love and Freindship'','
 author: Chesterton
 type: work
 cluster: Artist and Society · Truth · Regency/Georgian England
@@ -15,6 +15,8 @@ tags:
   - form/satire
   - concept/satire_of_society
 ---
+
+# intro-love-and-freindship
 
 *by Chesterton*  ·  **Cluster:** [[Artist and Society · Truth · Regency Georgian England]]
 

@@ -1,5 +1,5 @@
 ---
-title: ILN-1930-04-19
+title: 'Illustrated London News, April 19, 1930'
 author: Chesterton
 type: work
 cluster: Artist and Society · Truth · Regency/Georgian England
@@ -17,6 +17,8 @@ tags:
   - form/literary_criticism
   - histref/the_first_world_war
 ---
+
+# ILN-1930-04-19
 
 *by Chesterton*  ·  **Cluster:** [[Artist and Society · Truth · Regency Georgian England]]
 

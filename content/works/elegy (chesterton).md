@@ -1,5 +1,5 @@
 ---
-title: elegy
+title: Elegy in a Country Churchyard
 author: Chesterton
 type: work
 cluster: Grief and Loss · Elegy · Clothing and Costume
@@ -15,6 +15,8 @@ tags:
   - setting/rural_england
   - form/elegy
 ---
+
+# elegy
 
 *by Chesterton*  ·  **Cluster:** [[Grief and Loss · Elegy · Clothing and Costume]]
 

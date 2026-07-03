@@ -1,5 +1,5 @@
 ---
-title: how-not-to-do-it
+title: How Not To Do It
 author: Chesterton
 type: work
 cluster: Essay · Critique of Progress · Common Man
@@ -14,6 +14,8 @@ tags:
   - concept/honour
   - form/essay
 ---
+
+# how-not-to-do-it
 
 *by Chesterton*  ·  **Cluster:** [[Essay · Critique of Progress · Common Man]]
 

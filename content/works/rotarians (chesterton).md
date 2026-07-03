@@ -1,5 +1,5 @@
 ---
-title: rotarians
+title: Rotarians - (1927)
 author: Chesterton
 type: work
 cluster: Satire of Society · Epigram · Satire
@@ -15,6 +15,8 @@ tags:
   - concept/martyrdom
   - archetype/martyr
 ---
+
+# rotarians
 
 *by Chesterton*  ·  **Cluster:** [[Satire of Society · Epigram · Satire]]
 

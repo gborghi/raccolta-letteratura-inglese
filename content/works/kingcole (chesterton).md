@@ -1,5 +1,5 @@
 ---
-title: kingcole
+title: Variations of an Air
 author: Chesterton
 type: work
 cluster: Satire of Society · Epigram · Satire
@@ -15,6 +15,8 @@ tags:
   - concept/joy
   - concept/imagination
 ---
+
+# kingcole
 
 *by Chesterton*  ·  **Cluster:** [[Satire of Society · Epigram · Satire]]
 

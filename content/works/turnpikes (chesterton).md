@@ -1,5 +1,5 @@
 ---
-title: turnpikes
+title: On Turnpikes and Medievalism
 author: Chesterton
 type: work
 cluster: Essay · Critique of Progress · Common Man
@@ -17,6 +17,8 @@ tags:
   - motif/the_road
   - histref/medieval_england
 ---
+
+# turnpikes
 
 *by Chesterton*  ·  **Cluster:** [[Essay · Critique of Progress · Common Man]]
 

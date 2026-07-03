@@ -1,5 +1,5 @@
 ---
-title: sin
+title: The Unpardonable Sin
 author: Chesterton
 type: work
 cluster: Sonnet · Shakespearean Sonnet · Jealousy
@@ -13,6 +13,8 @@ tags:
   - concept/sin_and_the_fall
   - concept/faith
 ---
+
+# sin
 
 *by Chesterton*  ·  **Cluster:** [[Sonnet · Shakespearean Sonnet · Jealousy]]
 

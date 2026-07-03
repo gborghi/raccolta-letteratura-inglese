@@ -1,5 +1,5 @@
 ---
-title: unknown-warrior
+title: TO the UNKNOWN WARRIOR
 author: Chesterton
 type: work
 cluster: Heroism · Hero · Last Stand
@@ -15,6 +15,8 @@ tags:
   - histref/the_first_world_war
   - concept/satire_of_society
 ---
+
+# unknown-warrior
 
 *by Chesterton*  ·  **Cluster:** [[Heroism · Hero · Last Stand]]
 

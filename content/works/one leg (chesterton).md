@@ -1,5 +1,5 @@
 ---
-title: one leg
+title: The Advantages of having One Leg
 author: Chesterton
 type: work
 cluster: Essay · Critique of Progress · Common Man
@@ -14,6 +14,8 @@ tags:
   - concept/humility
   - topos/book_of_nature
 ---
+
+# one leg
 
 *by Chesterton*  ·  **Cluster:** [[Essay · Critique of Progress · Common Man]]
 

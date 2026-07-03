@@ -1,5 +1,5 @@
 ---
-title: chalk
+title: A Piece of Chalk
 author: Chesterton
 type: work
 cluster: Wonder and Gratitude · Sublime · Storm
@@ -17,6 +17,8 @@ tags:
   - motif/light_and_dark
   - setting/rural_england
 ---
+
+# chalk
 
 *by Chesterton*  ·  **Cluster:** [[Wonder and Gratitude · Sublime · Storm]]
 

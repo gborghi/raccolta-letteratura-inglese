@@ -1,5 +1,5 @@
 ---
-title: twelve-men
+title: The Twelve Men
 author: Chesterton
 type: work
 cluster: Essay · Critique of Progress · Common Man
@@ -17,6 +17,8 @@ tags:
   - concept/faith
   - histref/christianity
 ---
+
+# twelve-men
 
 *by Chesterton*  ·  **Cluster:** [[Essay · Critique of Progress · Common Man]]
 

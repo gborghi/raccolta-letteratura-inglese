@@ -1,5 +1,5 @@
 ---
-title: cockneys
+title: COCKNEYS and THEIR JOKES
 author: Chesterton
 type: work
 cluster: City · London · Theatrum Mundi
@@ -18,6 +18,8 @@ tags:
   - archetype/fool
   - setting/london
 ---
+
+# cockneys
 
 *by Chesterton*  ·  **Cluster:** [[City · London · Theatrum Mundi]]
 

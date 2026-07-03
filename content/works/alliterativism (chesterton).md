@@ -1,5 +1,5 @@
 ---
-title: alliterativism
+title: Alliterativism (1914)
 author: Chesterton
 type: work
 cluster: Satire of Society · Epigram · Satire
@@ -15,6 +15,8 @@ tags:
   - concept/nationalism_and_patriotism
   - histref/the_first_world_war
 ---
+
+# alliterativism
 
 *by Chesterton*  ·  **Cluster:** [[Satire of Society · Epigram · Satire]]
 

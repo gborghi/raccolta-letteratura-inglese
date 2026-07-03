@@ -1,5 +1,5 @@
 ---
-title: success
+title: The Fallacy of Success
 author: Chesterton
 type: work
 cluster: Satire of Society · Epigram · Satire
@@ -16,6 +16,8 @@ tags:
   - form/essay
   - form/satire
 ---
+
+# success
 
 *by Chesterton*  ·  **Cluster:** [[Satire of Society · Epigram · Satire]]
 

@@ -1,5 +1,5 @@
 ---
-title: human-tree
+title: The Human Tree
 author: Chesterton
 type: work
 cluster: Christianity · Faith and Doubt · Doubt
@@ -20,6 +20,8 @@ tags:
   - form/lyric
   - setting/rural_england
 ---
+
+# human-tree
 
 *by Chesterton*  ·  **Cluster:** [[Christianity · Faith and Doubt · Doubt]]
 

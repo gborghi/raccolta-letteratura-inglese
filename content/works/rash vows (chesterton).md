@@ -1,5 +1,5 @@
 ---
-title: rash vows
+title: A Defence of Rash Vows
 author: Chesterton
 type: work
 cluster: Lyric · Romantic Love · Marriage and Fidelity
@@ -17,6 +17,8 @@ tags:
   - concept/love_romantic
   - topos/love_as_religion
 ---
+
+# rash vows
 
 *by Chesterton*  ·  **Cluster:** [[Lyric · Romantic Love · Marriage and Fidelity]]
 

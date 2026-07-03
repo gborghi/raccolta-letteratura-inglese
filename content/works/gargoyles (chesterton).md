@@ -1,5 +1,5 @@
 ---
-title: gargoyles
+title: G.K. Chesterton
 author: Chesterton
 type: work
 cluster: Satire of Society · Epigram · Satire
@@ -18,6 +18,8 @@ tags:
   - motif/animals
   - motif/sun
 ---
+
+# gargoyles
 
 *by Chesterton*  ·  **Cluster:** [[Satire of Society · Epigram · Satire]]
 

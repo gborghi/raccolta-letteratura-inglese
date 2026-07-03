@@ -1,5 +1,5 @@
 ---
-title: methuselahite
+title: The Methuselahite
 author: Chesterton
 type: work
 cluster: Paradox · Food and Feasting · Aphorism
@@ -14,6 +14,8 @@ tags:
   - concept/mortality
   - concept/critique_of_progress
 ---
+
+# methuselahite
 
 *by Chesterton*  ·  **Cluster:** [[Paradox · Food and Feasting · Aphorism]]
 

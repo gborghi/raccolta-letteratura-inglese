@@ -1,5 +1,5 @@
 ---
-title: oldsong
+title: The Old Song
 author: Chesterton
 type: work
 cluster: City · London · Theatrum Mundi
@@ -16,6 +16,8 @@ tags:
   - histref/the_bible
   - setting/london
 ---
+
+# oldsong
 
 *by Chesterton*  ·  **Cluster:** [[City · London · Theatrum Mundi]]
 

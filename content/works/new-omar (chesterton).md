@@ -1,5 +1,5 @@
 ---
-title: new-omar
+title: The New Omar
 author: Chesterton
 type: work
 cluster: Satire of Society · Epigram · Satire
@@ -17,6 +17,8 @@ tags:
   - motif/wine_and_drink
   - histref/eastern_religion
 ---
+
+# new-omar
 
 *by Chesterton*  ·  **Cluster:** [[Satire of Society · Epigram · Satire]]
 

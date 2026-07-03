@@ -1,5 +1,5 @@
 ---
-title: last hero
+title: The Last Hero
 author: Chesterton
 type: work
 cluster: Heroism · Hero · Last Stand
@@ -20,6 +20,8 @@ tags:
   - motif/blood
   - motif/swords_weapons
 ---
+
+# last hero
 
 *by Chesterton*  ·  **Cluster:** [[Heroism · Hero · Last Stand]]
 

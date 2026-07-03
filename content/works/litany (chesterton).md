@@ -1,5 +1,5 @@
 ---
-title: litany
+title: A Little Litany
 author: Chesterton
 type: work
 cluster: Faith · Providence · Divine Love
@@ -19,6 +19,8 @@ tags:
   - concept/wonder_and_gratitude
   - histref/christianity
 ---
+
+# litany
 
 *by Chesterton*  ·  **Cluster:** [[Faith · Providence · Divine Love]]
 

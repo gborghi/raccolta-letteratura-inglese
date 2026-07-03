@@ -1,5 +1,5 @@
 ---
-title: suprise
+title: The Sword of Surprise
 author: Chesterton
 type: work
 cluster: Swords and Weapons · Power and Corruption · Tyrant
@@ -15,6 +15,8 @@ tags:
   - motif/eyes_sight
   - form/lyric
 ---
+
+# suprise
 
 *by Chesterton*  ·  **Cluster:** [[Swords and Weapons · Power and Corruption · Tyrant]]
 

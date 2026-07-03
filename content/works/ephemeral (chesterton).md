@@ -1,5 +1,5 @@
 ---
-title: ephemeral
+title: THE CASE for the EPHEMERAL
 author: Chesterton
 type: work
 cluster: Essay · Critique of Progress · Common Man
@@ -15,6 +15,8 @@ tags:
   - concept/the_common_man
   - form/essay
 ---
+
+# ephemeral
 
 *by Chesterton*  ·  **Cluster:** [[Essay · Critique of Progress · Common Man]]
 

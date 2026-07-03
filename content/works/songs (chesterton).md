@@ -1,5 +1,5 @@
 ---
-title: songs
+title: Songs of Education
 author: Chesterton
 type: work
 cluster: Education · Self-Made Man · Wheel
@@ -16,6 +16,8 @@ tags:
   - motif/the_wheel
   - motif/money_gold
 ---
+
+# songs
 
 *by Chesterton*  ·  **Cluster:** [[Education · Self-Made Man · Wheel]]
 

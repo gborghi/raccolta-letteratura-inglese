@@ -1,5 +1,5 @@
 ---
-title: a-hymn
+title: A Hymn
 author: Chesterton
 type: work
 cluster: Faith · Providence · Divine Love
@@ -19,6 +19,8 @@ tags:
   - motif/swords_weapons
   - histref/christianity
 ---
+
+# a-hymn
 
 *by Chesterton*  ·  **Cluster:** [[Faith · Providence · Divine Love]]
 

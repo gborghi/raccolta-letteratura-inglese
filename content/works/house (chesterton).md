@@ -1,5 +1,5 @@
 ---
-title: house
+title: The House of Christmas
 author: Chesterton
 type: work
 cluster: Faith · Providence · Divine Love
@@ -20,6 +20,8 @@ tags:
   - histref/christianity
   - character/christ
 ---
+
+# house
 
 *by Chesterton*  ·  **Cluster:** [[Faith · Providence · Divine Love]]
 

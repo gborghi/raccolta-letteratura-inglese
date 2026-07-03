@@ -1,5 +1,5 @@
 ---
-title: secret-people
+title: The Secret People
 author: Chesterton
 type: work
 cluster: Essay · Critique of Progress · Common Man
@@ -19,6 +19,8 @@ tags:
   - motif/silence
   - setting/rural_england
 ---
+
+# secret-people
 
 *by Chesterton*  ·  **Cluster:** [[Essay · Critique of Progress · Common Man]]
 

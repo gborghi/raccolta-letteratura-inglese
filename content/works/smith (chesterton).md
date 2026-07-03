@@ -1,5 +1,5 @@
 ---
-title: smith
+title: 'Antichrist, or the Reunion of Christendom: An Ode'
 author: Chesterton
 type: work
 cluster: Martyrdom · Martyr / Saint · Cross
@@ -14,6 +14,8 @@ tags:
   - concept/martyrdom
   - motif/the_cross
 ---
+
+# smith
 
 *by Chesterton*  ·  **Cluster:** [[Martyrdom · Martyr Saint · Cross]]
 

@@ -1,5 +1,5 @@
 ---
-title: a word
+title: A Word
 author: Chesterton
 type: work
 cluster: Martyrdom · Martyr / Saint · Cross

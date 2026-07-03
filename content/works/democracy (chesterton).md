@@ -1,5 +1,5 @@
 ---
-title: democracy
+title: Democracy and Industrialism
 author: Chesterton
 type: work
 cluster: Essay · Critique of Progress · Common Man
@@ -16,6 +16,8 @@ tags:
   - concept/satire_of_society
   - form/essay
 ---
+
+# democracy
 
 *by Chesterton*  ·  **Cluster:** [[Essay · Critique of Progress · Common Man]]
 

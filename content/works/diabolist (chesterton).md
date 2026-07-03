@@ -1,5 +1,5 @@
 ---
-title: diabolist
+title: The Diabolist
 author: Chesterton
 type: work
 cluster: Temptation · Good vs Evil · Serpent / Snake
@@ -20,6 +20,8 @@ tags:
   - form/essay
   - form/autobiography
 ---
+
+# diabolist
 
 *by Chesterton*  ·  **Cluster:** [[Temptation · Good vs Evil · Serpent Snake]]
 

@@ -1,5 +1,5 @@
 ---
-title: cheese
+title: Cheese
 author: Chesterton
 type: work
 cluster: Paradox · Food and Feasting · Aphorism

@@ -1,5 +1,5 @@
 ---
-title: great-minimum
+title: The Great Minimum
 author: Chesterton
 type: work
 cluster: Lyric · Romantic Love · Marriage and Fidelity
@@ -17,6 +17,8 @@ tags:
   - motif/stars
   - form/lyric
 ---
+
+# great-minimum
 
 *by Chesterton*  ·  **Cluster:** [[Lyric · Romantic Love · Marriage and Fidelity]]
 

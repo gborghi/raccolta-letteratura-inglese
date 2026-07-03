@@ -1,5 +1,5 @@
 ---
-title: leisure-state
+title: The Ideal of a Leisure State
 author: Chesterton
 type: work
 cluster: Essay · Critique of Progress · Common Man
@@ -15,6 +15,8 @@ tags:
   - concept/satire_of_society
   - histref/the_industrial_revolution
 ---
+
+# leisure-state
 
 *by Chesterton*  ·  **Cluster:** [[Essay · Critique of Progress · Common Man]]
 

@@ -1,5 +1,5 @@
 ---
-title: femina
+title: Femina Contra Mundum
 author: Chesterton
 type: work
 cluster: Wonder and Gratitude · Sublime · Storm
@@ -17,6 +17,8 @@ tags:
   - motif/birds
   - motif/storm
 ---
+
+# femina
 
 *by Chesterton*  ·  **Cluster:** [[Wonder and Gratitude · Sublime · Storm]]
 

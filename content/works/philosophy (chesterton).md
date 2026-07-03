@@ -1,5 +1,5 @@
 ---
-title: philosophy
+title: Philosophy for the Schoolroom
 author: Chesterton
 type: work
 cluster: Essay · Critique of Progress · Common Man
@@ -14,6 +14,8 @@ tags:
   - concept/fate_and_free_will
   - concept/education
 ---
+
+# philosophy
 
 *by Chesterton*  ·  **Cluster:** [[Essay · Critique of Progress · Common Man]]
 

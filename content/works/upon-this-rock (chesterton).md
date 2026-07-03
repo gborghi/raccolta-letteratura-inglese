@@ -1,5 +1,5 @@
 ---
-title: upon-this-rock
+title: Upon This Rock
 author: Chesterton
 type: work
 cluster: Christianity · Faith and Doubt · Doubt
@@ -16,6 +16,8 @@ tags:
   - character/the_virgin_mary
   - histref/christianity
 ---
+
+# upon-this-rock
 
 *by Chesterton*  ·  **Cluster:** [[Christianity · Faith and Doubt · Doubt]]
 

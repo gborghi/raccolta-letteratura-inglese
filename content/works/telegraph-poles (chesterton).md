@@ -1,5 +1,5 @@
 ---
-title: telegraph-poles
+title: The Telegraph Poles
 author: Chesterton
 type: work
 cluster: Essay · Critique of Progress · Common Man
@@ -15,6 +15,8 @@ tags:
   - histref/the_industrial_revolution
   - form/essay
 ---
+
+# telegraph-poles
 
 *by Chesterton*  ·  **Cluster:** [[Essay · Critique of Progress · Common Man]]
 

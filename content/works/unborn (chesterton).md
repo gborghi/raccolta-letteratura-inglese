@@ -1,5 +1,5 @@
 ---
-title: unborn
+title: By the Babe Unborn
 author: Chesterton
 type: work
 cluster: Maturation and Growth · Childhood · Innocence and Experience
@@ -15,6 +15,8 @@ tags:
   - concept/childhood_and_growth
   - form/lyric
 ---
+
+# unborn
 
 *by Chesterton*  ·  **Cluster:** [[Maturation and Growth · Childhood · Innocence and Experience]]
 

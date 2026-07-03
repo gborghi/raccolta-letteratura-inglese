@@ -1,5 +1,5 @@
 ---
-title: lovers
+title: For Lovers Only
 author: Chesterton
 type: work
 cluster: Terror and Horror · Madness · Madness
@@ -17,6 +17,8 @@ tags:
   - archetype/fool
   - motif/madness
 ---
+
+# lovers
 
 *by Chesterton*  ·  **Cluster:** [[Terror and Horror · Madness · Madness]]
 

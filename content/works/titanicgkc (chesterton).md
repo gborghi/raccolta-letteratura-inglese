@@ -1,5 +1,5 @@
 ---
-title: titanicGKC
+title: A Ballade of Theatricals
 author: Chesterton
 type: work
 cluster: Mortality · Grave · Memento Mori
@@ -14,6 +14,8 @@ tags:
   - motif/death
   - motif/masks_disguise
 ---
+
+# titanicGKC
 
 *by Chesterton*  ·  **Cluster:** [[Mortality · Grave · Memento Mori]]
 

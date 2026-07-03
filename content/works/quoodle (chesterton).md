@@ -1,5 +1,5 @@
 ---
-title: quoodle
+title: THE SONG of QUOODLE
 author: Chesterton
 type: work
 cluster: Joy · Animals · Comic Verse / Song
@@ -17,6 +17,8 @@ tags:
   - concept/nature_vs_civilization
   - topos/book_of_nature
 ---
+
+# quoodle
 
 *by Chesterton*  ·  **Cluster:** [[Joy · Animals · Comic Verse Song]]
 

@@ -1,5 +1,5 @@
 ---
-title: frenchenglish
+title: French And English
 author: Chesterton
 type: work
 cluster: Paradox · Food and Feasting · Aphorism
@@ -15,6 +15,8 @@ tags:
   - histref/the_french_revolution
   - concept/the_artist_and_society
 ---
+
+# frenchenglish
 
 *by Chesterton*  ·  **Cluster:** [[Paradox · Food and Feasting · Aphorism]]
 

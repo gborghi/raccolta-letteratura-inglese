@@ -1,5 +1,5 @@
 ---
-title: strange-city
+title: Concerning a Strange City
 author: Chesterton
 type: work
 cluster: Essay · Critique of Progress · Common Man
@@ -15,6 +15,8 @@ tags:
   - form/essay
   - motif/the_city
 ---
+
+# strange-city
 
 *by Chesterton*  ·  **Cluster:** [[Essay · Critique of Progress · Common Man]]
 

@@ -1,5 +1,5 @@
 ---
-title: nightmare
+title: '(Originally appeared in ''The Daily News'', Oct. 16, 1909,'
 author: Chesterton
 type: work
 cluster: Terror and Horror · Madness · Madness
@@ -17,6 +17,8 @@ tags:
   - motif/the_cross
   - form/essay
 ---
+
+# nightmare
 
 *by Chesterton*  ·  **Cluster:** [[Terror and Horror · Madness · Madness]]
 

@@ -1,5 +1,5 @@
 ---
-title: grocer
+title: The Song Against Grocers
 author: Chesterton
 type: work
 cluster: Wine and Drink · Ballad / Ballade · Road
@@ -21,6 +21,8 @@ tags:
   - form/ballad
   - form/satire
 ---
+
+# grocer
 
 *by Chesterton*  ·  **Cluster:** [[Wine and Drink · Ballad Ballade · Road]]
 

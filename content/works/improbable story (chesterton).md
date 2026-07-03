@@ -1,5 +1,5 @@
 ---
-title: improbable story
+title: A Somewhat Improbable Story
 author: Chesterton
 type: work
 cluster: City · London · Theatrum Mundi
@@ -23,6 +23,8 @@ tags:
   - setting/london
   - setting/the_modern_metropolis
 ---
+
+# improbable story
 
 *by Chesterton*  ·  **Cluster:** [[City · London · Theatrum Mundi]]
 

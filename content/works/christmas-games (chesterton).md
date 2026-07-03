@@ -1,5 +1,5 @@
 ---
-title: christmas-games
+title: Christmas and the First Games
 author: Chesterton
 type: work
 cluster: Essay · Critique of Progress · Common Man
@@ -18,6 +18,8 @@ tags:
   - motif/childhood
   - motif/money_gold
 ---
+
+# christmas-games
 
 *by Chesterton*  ·  **Cluster:** [[Essay · Critique of Progress · Common Man]]
 

@@ -1,5 +1,5 @@
 ---
-title: gold-leaves
+title: Gold Leaves
 author: Chesterton
 type: work
 cluster: Seasons · Winter · Autumn
@@ -19,6 +19,8 @@ tags:
   - motif/masks_disguise
   - form/lyric
 ---
+
+# gold-leaves
 
 *by Chesterton*  ·  **Cluster:** [[Seasons · Winter · Autumn]]
 

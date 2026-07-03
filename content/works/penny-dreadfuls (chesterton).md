@@ -1,5 +1,5 @@
 ---
-title: penny-dreadfuls
+title: A DEFENCE of PENNY DREADFULS
 author: Chesterton
 type: work
 cluster: Artist and Society · Truth · Regency/Georgian England
@@ -15,6 +15,8 @@ tags:
   - concept/satire_of_society
   - concept/the_artist_and_society
 ---
+
+# penny-dreadfuls
 
 *by Chesterton*  ·  **Cluster:** [[Artist and Society · Truth · Regency Georgian England]]
 

@@ -1,5 +1,5 @@
 ---
-title: towers-of-time
+title: THE TOWERS of TIME
 author: Chesterton
 type: work
 cluster: Ruins / the Abbey · Sic Transit Gloria Mundi · Ubi Sunt
@@ -19,6 +19,8 @@ tags:
   - histref/ancient_rome
   - character/the_virgin_mary
 ---
+
+# towers-of-time
 
 *by Chesterton*  ·  **Cluster:** [[Ruins the Abbey · Sic Transit Gloria Mundi · Ubi Sunt]]
 

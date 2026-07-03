@@ -1,5 +1,5 @@
 ---
-title: carol
+title: A Christmas Carol
 author: Chesterton
 type: work
 cluster: Faith · Providence · Divine Love
@@ -21,6 +21,8 @@ tags:
   - character/christ
   - archetype/innocent
 ---
+
+# carol
 
 *by Chesterton*  ·  **Cluster:** [[Faith · Providence · Divine Love]]
 

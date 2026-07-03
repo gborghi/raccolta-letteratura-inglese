@@ -1,5 +1,5 @@
 ---
-title: white-horse2
+title: THE BALLAD of the WHITE HORSE
 author: Chesterton
 type: work
 cluster: Heroism · Hero · Last Stand
@@ -36,6 +36,8 @@ tags:
   - character/king_alfred
   - character/the_virgin_mary
 ---
+
+# white-horse2
 
 *by Chesterton*  ·  **Cluster:** [[Heroism · Hero · Last Stand]]
 

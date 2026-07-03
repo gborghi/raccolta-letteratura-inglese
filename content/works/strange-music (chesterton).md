@@ -1,5 +1,5 @@
 ---
-title: strange-music
+title: The Strange Music
 author: Chesterton
 type: work
 cluster: Lyric · Romantic Love · Marriage and Fidelity
@@ -14,6 +14,8 @@ tags:
   - form/lyric
   - archetype/lover
 ---
+
+# strange-music
 
 *by Chesterton*  ·  **Cluster:** [[Lyric · Romantic Love · Marriage and Fidelity]]
 

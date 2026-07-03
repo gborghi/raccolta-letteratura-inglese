@@ -1,5 +1,5 @@
 ---
-title: suicide
+title: A Ballade of Suicide
 author: Chesterton
 type: work
 cluster: Joy · Animals · Comic Verse / Song
@@ -14,6 +14,8 @@ tags:
   - form/ballad
   - form/lyric
 ---
+
+# suicide
 
 *by Chesterton*  ·  **Cluster:** [[Joy · Animals · Comic Verse Song]]
 

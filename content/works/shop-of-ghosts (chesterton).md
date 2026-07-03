@@ -1,5 +1,5 @@
 ---
-title: shop-of-ghosts
+title: The Shop Of Ghosts
 author: Chesterton
 type: work
 cluster: Ghosts · Ghost · Death and Love
@@ -16,6 +16,8 @@ tags:
   - motif/ghosts
   - character/death_personified
 ---
+
+# shop-of-ghosts
 
 *by Chesterton*  ·  **Cluster:** [[Ghosts · Ghost · Death and Love]]
 

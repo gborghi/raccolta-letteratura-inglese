@@ -1,5 +1,5 @@
 ---
-title: skeleton
+title: The Skeleton
 author: Chesterton
 type: work
 cluster: Mortality · Grave · Memento Mori
@@ -16,6 +16,8 @@ tags:
   - motif/flowers
   - character/death_personified
 ---
+
+# skeleton
 
 *by Chesterton*  ·  **Cluster:** [[Mortality · Grave · Memento Mori]]
 

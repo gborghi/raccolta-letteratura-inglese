@@ -1,5 +1,5 @@
 ---
-title: right-and-wrong
+title: The Song of Right and Wrong
 author: Chesterton
 type: work
 cluster: Wine and Drink · Ballad / Ballade · Road
@@ -15,6 +15,8 @@ tags:
   - concept/honour
   - concept/critique_of_progress
 ---
+
+# right-and-wrong
 
 *by Chesterton*  ·  **Cluster:** [[Wine and Drink · Ballad Ballade · Road]]
 

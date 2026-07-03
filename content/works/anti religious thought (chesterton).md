@@ -1,5 +1,5 @@
 ---
-title: anti religious thought
+title: Anti-Religious Thought In The Eighteenth Century
 author: Chesterton
 type: work
 cluster: Christianity · Faith and Doubt · Doubt
@@ -18,6 +18,8 @@ tags:
   - histref/christianity
   - histref/catholic_church
 ---
+
+# anti religious thought
 
 *by Chesterton*  ·  **Cluster:** [[Christianity · Faith and Doubt · Doubt]]
 

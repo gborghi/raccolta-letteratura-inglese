@@ -1,5 +1,5 @@
 ---
-title: child psychology
+title: Child Psychology and Nonsense
 author: Chesterton
 type: work
 cluster: Maturation and Growth · Childhood · Innocence and Experience
@@ -18,6 +18,8 @@ tags:
   - archetype/child
   - motif/moon
 ---
+
+# child psychology
 
 *by Chesterton*  ·  **Cluster:** [[Maturation and Growth · Childhood · Innocence and Experience]]
 

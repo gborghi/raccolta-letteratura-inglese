@@ -1,5 +1,5 @@
 ---
-title: morality
+title: Negative and Positive Morality
 author: Chesterton
 type: work
 cluster: Essay · Critique of Progress · Common Man
@@ -18,6 +18,8 @@ tags:
   - concept/anti_industrialism
   - concept/faith
 ---
+
+# morality
 
 *by Chesterton*  ·  **Cluster:** [[Essay · Critique of Progress · Common Man]]
 

@@ -1,5 +1,5 @@
 ---
-title: pun
+title: The Pun
 author: Chesterton
 type: work
 cluster: Artist and Society · Truth · Regency/Georgian England
@@ -14,6 +14,8 @@ tags:
   - concept/beauty
   - concept/joy
 ---
+
+# pun
 
 *by Chesterton*  ·  **Cluster:** [[Artist and Society · Truth · Regency Georgian England]]
 

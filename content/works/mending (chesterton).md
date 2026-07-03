@@ -1,5 +1,5 @@
 ---
-title: mending
+title: On Mending and Ending Things
 author: Chesterton
 type: work
 cluster: Essay · Critique of Progress · Common Man
@@ -14,6 +14,8 @@ tags:
   - concept/critique_of_progress
   - form/apologetics
 ---
+
+# mending
 
 *by Chesterton*  ·  **Cluster:** [[Essay · Critique of Progress · Common Man]]
 

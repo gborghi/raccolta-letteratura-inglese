@@ -1,5 +1,5 @@
 ---
-title: lepanto
+title: Lepanto
 author: Chesterton
 type: work
 cluster: Heroism · Hero · Last Stand

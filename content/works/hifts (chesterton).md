@@ -1,5 +1,5 @@
 ---
-title: HIFTS
+title: How I Found the Superman
 author: Chesterton
 type: work
 cluster: Essay · Critique of Progress · Common Man
@@ -21,6 +21,8 @@ tags:
   - form/parody
   - setting/london
 ---
+
+# HIFTS
 
 *by Chesterton*  ·  **Cluster:** [[Essay · Critique of Progress · Common Man]]
 

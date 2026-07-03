@@ -1,5 +1,5 @@
 ---
-title: christmas-poem
+title: Christmas Poem
 author: Chesterton
 type: work
 cluster: Faith · Providence · Divine Love
@@ -23,6 +23,8 @@ tags:
   - character/christ
   - archetype/outcast_wanderer
 ---
+
+# christmas-poem
 
 *by Chesterton*  ·  **Cluster:** [[Faith · Providence · Divine Love]]
 

@@ -1,5 +1,5 @@
 ---
-title: arthur
+title: The Myth of Arthur
 author: Chesterton
 type: work
 cluster: Artist and Society · Truth · Regency/Georgian England
@@ -17,6 +17,8 @@ tags:
   - archetype/king
   - motif/swords_weapons
 ---
+
+# arthur
 
 *by Chesterton*  ·  **Cluster:** [[Artist and Society · Truth · Regency Georgian England]]
 

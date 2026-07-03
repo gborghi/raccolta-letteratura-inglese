@@ -1,5 +1,5 @@
 ---
-title: vegetarian
+title: The Logical Vegetarian
 author: Chesterton
 type: work
 cluster: Wine and Drink · Ballad / Ballade · Road
@@ -15,6 +15,8 @@ tags:
   - motif/the_inn_tavern
   - concept/critique_of_progress
 ---
+
+# vegetarian
 
 *by Chesterton*  ·  **Cluster:** [[Wine and Drink · Ballad Ballade · Road]]
 

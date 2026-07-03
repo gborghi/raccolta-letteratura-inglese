@@ -1,5 +1,5 @@
 ---
-title: to st michael
+title: To St. Michael in Time of Peace
 author: Chesterton
 type: work
 cluster: Temptation · Good vs Evil · Serpent / Snake
@@ -18,6 +18,8 @@ tags:
   - histref/christianity
   - character/satan
 ---
+
+# to st michael
 
 *by Chesterton*  ·  **Cluster:** [[Temptation · Good vs Evil · Serpent Snake]]
 

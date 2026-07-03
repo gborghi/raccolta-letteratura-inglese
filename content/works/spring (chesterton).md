@@ -1,5 +1,5 @@
 ---
-title: spring
+title: Second Spring
 author: Chesterton
 type: work
 cluster: Faith · Providence · Divine Love
@@ -22,6 +22,8 @@ tags:
   - form/hymn
   - form/lyric
 ---
+
+# spring
 
 *by Chesterton*  ·  **Cluster:** [[Faith · Providence · Divine Love]]
 

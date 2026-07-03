@@ -1,5 +1,5 @@
 ---
-title: anti-puritan
+title: A Ballade Of An Anti-puritan
 author: Chesterton
 type: work
 cluster: Wine and Drink · Ballad / Ballade · Road
@@ -16,6 +16,8 @@ tags:
   - motif/the_inn_tavern
   - histref/puritanism
 ---
+
+# anti-puritan
 
 *by Chesterton*  ·  **Cluster:** [[Wine and Drink · Ballad Ballade · Road]]
 

@@ -1,5 +1,5 @@
 ---
-title: sexlessness
+title: The Equality of Sexlessness
 author: Chesterton
 type: work
 cluster: Essay · Critique of Progress · Common Man
@@ -16,6 +16,8 @@ tags:
   - concept/identity
   - concept/reform
 ---
+
+# sexlessness
 
 *by Chesterton*  ·  **Cluster:** [[Essay · Critique of Progress · Common Man]]
 

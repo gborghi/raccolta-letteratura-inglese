@@ -1,5 +1,5 @@
 ---
-title: cabman
+title: The Extraordinary Cabman
 author: Chesterton
 type: work
 cluster: Artist and Society · Truth · Regency/Georgian England
@@ -15,6 +15,8 @@ tags:
   - concept/temptation
   - setting/london
 ---
+
+# cabman
 
 *by Chesterton*  ·  **Cluster:** [[Artist and Society · Truth · Regency Georgian England]]
 

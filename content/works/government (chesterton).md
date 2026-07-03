@@ -1,5 +1,5 @@
 ---
-title: government
+title: Government and the Rights of Man
 author: Chesterton
 type: work
 cluster: Essay · Critique of Progress · Common Man
@@ -16,6 +16,8 @@ tags:
   - form/essay
   - form/satire
 ---
+
+# government
 
 *by Chesterton*  ·  **Cluster:** [[Essay · Critique of Progress · Common Man]]
 
