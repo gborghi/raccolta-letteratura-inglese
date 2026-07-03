@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/incredulity-(chesterton)">Incredulity</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/incredulity/story_06_the_dagger_with_wings">‹ Story 06 The Dagger with Wings</a><a class="ex-next" href="/testi/chesterton/atomized/incredulity/story_08_the_ghost_of_gideon_wise">Story 08 The Ghost of Gideon Wise ›</a></div>
@@ -1082,3 +1084,433 @@ pretty banal case.  But we were mixed up in a real musty old
 romance of decayed gentility and a fallen family mansion; and it
 was too much to hope that we could escape having a secret passage.
 It was a priest's hole; and I deserve to be put in it.'
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/incredulity-(chesterton)">Incredulity</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/incredulity/story_06_the_dagger_with_wings">‹ Story 06 The Dagger with Wings</a><a class="ex-next" href="/testi/chesterton/atomized/incredulity/story_08_the_ghost_of_gideon_wise">Story 08 The Ghost of Gideon Wise ›</a></div>
+</nav>
+
+SETTE:  La condanna dei Darnaway
+
+Due paesaggisti stavano contemplando un medesimo paesaggio, che era insieme una veduta di mare, e l'uno e l'altro ne ricevevano una strana impressione, benché le loro impressioni non fossero esattamente le stesse. Per il primo, un artista emergente venuto da Londra, quel luogo era nuovo oltre che singolare. Per il secondo, un artista di provincia ma dotato di una fama che oltrepassava i confini della provincia, era più familiare; e forse tanto più strano proprio per quel che ne sapeva.
+
+Quanto a tono e forma, così come quei due lo vedevano, era una distesa di sabbie contro una distesa di tramonto, l'intera scena giacendo in strisce di colore cupo, verde spento e bronzo e bruno e un grigiastro che non era soltanto smorto, ma che in quel crepuscolo appariva in qualche modo più misterioso dell'oro. Tutto ciò che rompeva quelle linee piatte era un lungo edificio che si protendeva dai campi fin dentro le sabbie del mare, sicché la sua frangia di malinconiche erbe e di giunchi pareva quasi congiungersi con le alghe. Ma il suo tratto più singolare era che la parte superiore aveva i contorni frastagliati di una rovina, trafitta da tante ampie finestre e da così larghi squarci da ridursi a un mero scheletro scuro contro la luce morente; mentre la mole inferiore dell'edificio non aveva quasi finestra alcuna, essendo la maggior parte di esse cieche e murate, e i loro profili appena rintracciabili nel crepuscolo. Ma almeno una finestra era ancora una finestra; e la cosa più strana di tutte pareva questa: che essa mostrava un lume.
+
+«Chi diamine può abitare in quel vecchio guscio?» esclamò il londinese, un uomo grande, dall'aria bohémien, giovane ma con una ispida barba rossa che lo faceva sembrare più anziano; a Chelsea lo conoscevano confidenzialmente come Harry Payne.
+
+«Fantasmi, si direbbe» replicò il suo amico Martin Wood. «[[Well|Ecco]], la gente che ci vive somiglia davvero un po' ai [[Ghosts|fantasmi]].»
+
+Era forse un certo [[Paradox|paradosso]] che l'[[Artist|artista]] di [[London|Londra]] apparisse quasi bucolico nella sua fresca e chiassosa esuberanza e [[Wonder|meraviglia]], mentre l'[[Artist|artista]] del luogo sembrasse una persona più accorta ed esperta, e lo osservasse con un divertimento maturo e benevolo; il secondo, in verità, era in tutto una figura più quieta e più convenzionale, vestito di panni più scuri e col volto squadrato e placido perfettamente rasato.
+
+«È solo un segno dei tempi, si capisce» proseguì, «o del trapasso dei vecchi tempi e, con essi, delle vecchie famiglie. Gli ultimi dei grandi Darnaway vivono in quella casa, e non molti fra i nuovi poveri sono poveri come loro. Non possono nemmeno permettersi di rendere abitabile il loro ultimo piano; e devono vivere nelle stanze inferiori di una rovina, come pipistrelli e civette. Eppure posseggono ritratti di famiglia che risalgono alla Guerra delle Due Rose e alla prima ritrattistica in Inghilterra, e alcuni di essi sono davvero bellissimi; lo so per caso, perché mi hanno chiesto il mio parere professionale per restaurarli. Ce n'è uno in particolare, e fra i più antichi, ma è così bello che ti fa venire i brividi.»
+
+«L'intero posto fa venire i brividi, direi, a giudicare dall'aspetto» replicò Payne.
+
+«Beh» disse l'amico, «a dirti la [[Truth|verità]], è proprio così.»
+
+Il [[Silence|silenzio]] che seguì fu turbato da un lieve fruscio tra i giunchi presso il fossato; e diede loro, con ragione, un piccolo trasalimento nervoso, quando una figura scura scivolò lungo l'argine, muovendosi rapida e quasi come un uccello spaventato. Ma era soltanto un uomo che camminava di buon passo con una borsa nera in mano: un uomo dal viso lungo e giallastro e dagli occhi acuti, che lanciò allo straniero di [[London|Londra]] uno sguardo un poco torvo e sospettoso.
+
+«È solo il dottor Barnet» disse Wood con una sorta di sollievo. «Buonasera, dottore. Salite alla casa? Spero che nessuno stia male.»
+
+«Tutti stanno sempre male in un posto simile» borbottò il dottore; «solo che a volte stanno troppo male per accorgersene. La stessa aria di quel luogo è una piaga e una pestilenza. Non invidio il giovanotto venuto dall'Australia.»
+
+«E chi» chiese Payne d'un tratto e piuttosto distrattamente, «sarebbe mai il giovanotto venuto dall'Australia?»
+
+«Ah!» sbuffò il dottore; «il vostro amico non vi ha parlato di lui? A dire il vero credo che arrivi oggi. Un vero romanzo alla vecchia maniera del melodramma: l'erede che torna dalle colonie al suo castello in rovina, il tutto completo persino di un antico patto familiare che lo destina a sposare la dama in vedetta nella torre coperta d'edera. Roba vecchia e curiosa, non è vero? eppure a volte accade davvero. Ha perfino un po' di denaro, che è l'unico punto luminoso mai apparso in tutta questa faccenda.»
+
+«E che ne pensa la stessa signorina Darnaway, nella sua torre coperta d'edera, di tutta la faccenda?» chiese Martin Wood asciutto.
+
+«Quel che ormai pensa di ogni altra cosa» rispose il dottore. «In quella vecchia tana infestata di superstizioni non si pensa, si sogna soltanto e si va alla deriva. Credo che accetti il patto di famiglia e il marito coloniale come parte della Condanna dei Darnaway, capite. Penso davvero che, se lui si rivelasse un negro gobbo con un occhio solo e una mania omicida, lei giudicherebbe soltanto che vi si aggiunge un tocco finale e che ben si accorda con lo scenario crepuscolare.»
+
+«Non state offrendo al mio amico di Londra un ritratto molto allegro dei miei amici di campagna» disse Wood, ridendo. «Avevo intenzione di condurlo là in visita; nessun [[Artist|artista]] dovrebbe lasciarsi sfuggire quei ritratti dei Darnaway, se gliene capita l'occasione. Ma forse è meglio che rimandi, se sono in piena invasione australiana.»
+
+«Oh, andate pure a vederli, per l'amor del cielo» disse il dottor Barnet con calore. «Qualsiasi cosa possa rischiarare le loro vite tenebrose renderà più facile il mio compito. Ci vorranno parecchi cugini coloniali per rallegrare un poco le cose, immagino; e più siamo, meglio è. Venite, vi accompagno io stesso.»
+
+Man mano che si avvicinavano alla [[house|casa]], la si vide isolata come un'isola in un fossato di [[Water|acqua]] salmastra, che essi attraversarono su un ponte. Dall'altra parte si stendeva una piattaforma di pietra o terrapieno assai ampio, solcato da grandi crepe, in cui qua e là spuntavano ciuffetti di erbacce e di spine. Quella terrazza di roccia appariva vasta e nuda nel grigio crepuscolo, e Payne stentava a credere che un simile angolo di spazio potesse racchiudere tanta [[Soul|anima]] di solitudine selvaggia. La piattaforma si protendeva soltanto da un lato, come un gigantesco gradino di soglia, e oltre di essa c'era la porta; un arco Tudor dalla fronte assai bassa, spalancato, ma buio come una [[Cave|caverna]].
+
+Quando il dottore, sbrigativo, li condusse dentro senza cerimonie, Payne provò, per così dire, un altro soprassalto di sconforto. Si sarebbe aspettato di doversi arrampicare su una torre in rovina, per stretti scaloni a chiocciola; ma in questo caso i primi passi dentro la [[house|casa]] furono invece passi verso il basso. Scesero per parecchie brevi e sconnesse rampe di scale fino a vaste stanze immerse nella penombra, che, se non fosse stato per le loro file di quadri scuri e per le scaffalature polverose, avrebbero potuto essere le tradizionali segrete al di sotto del fossato del [[Castle|castello]]. Qua e là una candela in un vecchio candeliere rischiarava qualche polveroso, casuale dettaglio di una eleganza ormai morta; ma il visitatore non fu tanto colpito o depresso da quella luce artificiale quanto dall'unico pallido barlume di luce naturale. Percorrendo la lunga sala, egli scorse l'unica [[Window|finestra]] in quella parete: una curiosa e bassa [[Window|finestra]] ovale, di foggia tardo-seicentesca. Ma la cosa strana era che essa non dava direttamente su alcun tratto di cielo, bensì soltanto su un riflesso di cielo; una pallida striscia di luce diurna semplicemente rispecchiata nel fossato, sotto l'[[Shadow|ombra]] incombente della sponda. Payne ebbe un [[Memory|ricordo]] della Dama di Shallot, che non vide mai il mondo esterno se non in uno [[Mirror|specchio]]. La dama di questa Shallot non solo, in un certo senso, vedeva il mondo in uno [[Mirror|specchio]], ma addirittura lo vedeva capovolto.
+
+«È come se la casa dei Darnaway stesse cadendo davvero, e non soltanto in senso metaforico», disse Wood a bassa voce; «come se stesse sprofondando lentamente in una palude o in una sabbia mobile, finché il mare non le passi sopra come un tetto verde».
+
+Perfino il robusto dottor Barnet trasalì un poco all'avvicinarsi silenzioso della figura che venne a riceverli. Anzi, la stanza era così silenziosa che tutti sussultarono nell'accorgersi che non era vuota. C'erano tre persone, quando entrarono: tre figure indistinte, immobili nella stanza in penombra; tutte e tre vestite di nero e simili a ombre scure. Man mano che la figura più avanzata si accostava alla grigia luce della [[Window|finestra]], mostrava un volto che appariva quasi grigio quanto la cornice dei suoi capelli. Costui era il vecchio Vine, l'amministratore, rimasto a lungo in loco parentis fin dalla [[Death|morte]] di quel padre eccentrico, l'ultimo Lord Darnaway. Sarebbe stato un bell'uomo, da vecchio, se non avesse avuto denti. Così com'era, gliene restava uno, che di quando in quando si mostrava e gli conferiva un aspetto piuttosto sinistro. Egli accolse il dottore e i suoi amici con squisita cortesia e li accompagnò là dove sedevano le altre due figure vestite di nero. Una di esse parve a Payne aggiungere un altro tocco appropriato di cupa antichità al [[Castle|castello]], per il solo fatto di essere un prete cattolico romano, che avrebbe potuto uscire da un nascondiglio per preti in quei tenebrosi giorni antichi. Payne poteva immaginarlo mentre borbottava preghiere o sgranava il rosario, o suonava a morto le [[Bells|campane]] o compiva un gran numero di indistinte e [[Melancholy|malinconiche]] cose in quel luogo [[Melancholy|malinconico]]. Proprio in quel momento si sarebbe potuto supporre che stesse porgendo conforto religioso alla dama; ma difficilmente si sarebbe potuto supporre che il conforto fosse molto confortante, o comunque molto rallegrante. Del resto, il prete era di per sé abbastanza insignificante, con lineamenti dimessi e piuttosto inespressivi; ma la dama era tutt'altra faccenda. Il suo volto era ben lungi dall'essere dimesso o insignificante; spiccava dall'oscurità del suo abito, dei suoi capelli e dello sfondo con un pallore quasi terribile, ma di una [[Beauty|bellezza]] quasi terribilmente viva. Payne lo contemplò quanto a lungo osò; ed era destinato a contemplarlo assai più a lungo prima di morire.
+
+Wood si limitò a scambiare con i suoi ospiti quelle frasi cortesi e garbate che avrebbero condotto al suo scopo di tornare a osservare i ritratti. Si scusò di aver fatto visita nel giorno che aveva saputo dover essere di accoglienza familiare; ma si convinse ben presto che la famiglia era anzi lievemente sollevata di avere visitatori che la distraessero o attenuassero lo shock. Non esitò, dunque, a guidare Payne attraverso il salone centrale di ricevimento fino alla biblioteca al di là, dove pendeva il ritratto, giacché ce n'era uno che egli era particolarmente intenzionato a mostrare, non solo come dipinto ma quasi come un enigma. Il piccolo prete arrancava con loro; sembrava saperne [[Well|bene]] di vecchi quadri non meno che di vecchie preghiere.
+
+«Vado piuttosto fiero di aver individuato questo», disse Wood. «Credo sia un Holbein. Se non lo è, allora c'era qualcuno, ai tempi di Holbein, che era grande quanto Holbein.»
+
+Era un ritratto nella maniera dura ma sincera e viva del periodo, che raffigurava un uomo vestito di nero, guarnito d'oro e di pelliccia, dal volto pesante, pieno, piuttosto pallido, ma dagli occhi vigili.
+
+«Che peccato che l'arte non abbia potuto fermarsi per sempre proprio a quello stadio di transizione», esclamò Wood, «e non transitare mai più oltre. Non vedete che è realistico quanto basta per essere reale? Non vedete che il volto parla tanto più proprio perché si staglia da una impalcatura piuttosto più rigida di cose meno essenziali? E gli occhi sono ancora più reali del volto. Sull'anima mia, credo che gli occhi siano troppo reali per il volto! È proprio come se quei bulbi oculari sornioni e guizzanti sporgessero da una grande maschera pallida.»
+
+«La rigidità si estende un poco anche alla figura, mi pare», disse Payne. «Non avevano ancora del tutto padroneggiato l'anatomia, quando finì il medioevo, almeno nel nord. Quella gamba sinistra mi sembra parecchio sbagliata nel disegno.»
+
+«Non ne sono così sicuro», replicò Wood pacatamente. «Quei tali che dipingevano proprio quando il realismo cominciava a farsi, e prima che cominciasse a essere esagerato, erano spesso più realistici di quanto pensiamo. Mettevano dettagli veri, da ritrattista, in cose che si crederebbero puramente convenzionali. Potreste dire che le sopracciglia o le orbite di costui sono un po' storte; ma scommetto che, se lo aveste conosciuto, avreste scoperto che uno dei suoi sopraccigli si rizzava davvero più dell'altro. E non mi stupirei se fosse stato zoppo o qualcosa del genere, e se quella gamba nera fosse stata intesa storta.»
+
+«Che vecchio demonio, all'aspetto!», sbottò all'improvviso Payne. «Confido che sua reverenza vorrà scusare il mio linguaggio.»
+
+«Io credo nel diavolo, grazie tante» disse il prete con volto imperscrutabile. «E, cosa abbastanza curiosa, esisteva una leggenda secondo cui il diavolo era zoppo.»
+
+«Insomma» protestò Payne «non vorrete mica dire sul serio che era il diavolo; ma chi diavolo era, allora?»
+
+«Fu il lord Darnaway sotto Enrico VII ed [[Henry VIII|Enrico VIII]]» rispose il compagno. «Ma anche su di lui corrono leggende curiose; una è richiamata da quell'iscrizione che gira attorno alla cornice, e ulteriormente sviluppata in certe annotazioni lasciate da qualcuno in un libro che ho trovato qui. Sono entrambe letture piuttosto singolari.»
+
+Payne si sporse in avanti, allungando il collo per seguire l'arcaica iscrizione che correva attorno alla cornice. Tralasciando i caratteri e l'ortografia antiquati, pareva una sorta di filastrocca in rima che suonava all'incirca così:
+
+Nel settimo erede farò ritorno: nella settima ora me ne andrò via: nessuno in quell'ora mi terrà la mano: e guai a colei che mi tiene il cuore.
+
+«In qualche modo mette i brividi» disse Payne «ma sarà anche perché non ne capisco una parola.»
+
+«Mette i brividi anche quando la si capisce» disse Wood a voce bassa. «Il resoconto redatto in epoca posteriore, nel vecchio libro che ho trovato, racconta per filo e per segno come questo bell'uomo si tolse deliberatamente la vita in modo tale che sua moglie fu giustiziata per il suo omicidio. Un'altra annotazione commemora una tragedia successiva, sette successioni più tardi — sotto i Giorgi — in cui un altro Darnaway si suicidò, non prima di aver premurosamente lasciato del veleno nel vino della moglie. Si dice che entrambi i suicidi avvennero alle sette di sera. Suppongo se ne debba dedurre che egli ritorni davvero a ogni settimo erede e renda la vita spiacevole, come suggerisce la filastrocca, a qualsiasi dama tanto imprudente da sposarlo.»
+
+«A rigor di questo ragionamento» replicò Payne «sarebbe un tantino scomodo per il prossimo settimo gentiluomo.»
+
+La voce di Wood si fece ancora più bassa mentre diceva: «Il nuovo erede sarà il settimo.»
+
+Harry Payne d'un tratto sollevò l'ampio petto e le spalle come chi si scrolla di dosso un fardello.
+
+«Ma che discorsi assurdi stiamo facendo?» esclamò. «Siamo tutti uomini istruiti in un'epoca illuminata, mi pare. Prima di entrare in questa maledetta atmosfera umida non avrei mai creduto che mi sarei ritrovato a parlare di simili cose, se non per riderne.»
+
+«Avete ragione» disse Wood. «Se viveste abbastanza a lungo in questo palazzo sotterraneo, comincereste a sentire le cose in modo diverso. Io ho cominciato a nutrire sensazioni assai singolari riguardo a quel quadro, avendo avuto tanto a che fare col maneggiarlo e appenderlo. A volte mi pare che il volto dipinto sia più vivo dei volti spenti di coloro che abitano qui; che sia una sorta di talismano o di calamita: che comandi gli elementi e attiri a sé i destini degli uomini e delle cose. Suppongo che lo definireste un'idea molto fantasiosa.»
+
+«Che cos'è quel rumore?» esclamò Payne all'improvviso.
+
+Tesero tutti l'orecchio, e non parve esserci alcun rumore se non il sordo rombo del mare lontano; poi cominciarono ad avvertire il senso di qualcosa che vi si mescolava; qualcosa come una voce che chiamava attraverso il frastuono della risacca, dapprima da esso attutita, ma che si faceva sempre più vicina. Un istante dopo ne furono certi: qualcuno gridava fuori, nell'oscurità del crepuscolo.
+
+Payne si volse verso la bassa finestra alle sue spalle e si chinò a guardar fuori. Era la finestra dalla quale nulla si poteva scorgere se non il fossato, con il suo riflesso di riva e di cielo. Ma quella visione capovolta non era la medesima che aveva veduto prima. Dall'ombra sospesa della riva, nell'acqua, pendevano due ombre scure riflesse dai piedi e dalle gambe di una figura che stava ritta là sopra, sulla riva. Attraverso quella feritoia angusta non potevano vedere altro che le due gambe nere contro il riflesso di un tramonto pallido e livido. Ma in qualche modo proprio il fatto che il capo fosse invisibile, come tra le nubi, conferiva qualcosa di terribile al suono che seguì: la voce di un uomo che gridava a gran voce ciò che essi non riuscivano a udire né a comprendere come si deve. Payne in particolare scrutava fuori dalla piccola finestra con volto mutato, e parlò con voce mutata:
+
+«Come sta ritto in modo strano!»
+
+«No, no» disse Wood, in una sorta di sussurro rassicurante. «Le cose spesso appaiono così nei riflessi. È l'ondeggiare dell'acqua che ve lo fa pensare.»
+
+«Pensare cosa?» chiese il prete secco.
+
+«Che la sua gamba sinistra sia storta» disse Wood.
+
+Payne aveva immaginato la finestra ovale come una sorta di specchio mistico; e gli parve che vi fossero, dentro, altre imperscrutabili immagini di sventura. C'era qualcos'altro, accanto alla figura, che egli non comprendeva; tre gambe più sottili che si stagliavano in linee scure contro la luce, come se un mostruoso ragno o uccello a tre zampe stesse in piedi accanto allo straniero. Poi ebbe il pensiero meno folle di un tripode come quello degli oracoli pagani; e l'istante dopo la cosa era svanita e le gambe della figura umana uscivano dal quadro.
+
+Si voltò e incontrò il volto pallido del vecchio Vine, il maggiordomo, con la bocca aperta, smanioso di parlare, e il suo unico dente in mostra. «È arrivato» disse. «Il piroscafo dall'Australia è giunto stamane.»
+
+Mentre ancora tornavano indietro dalla biblioteca al salone centrale, udirono i passi del nuovo venuto risuonare per la scalinata d'ingresso, con svariati bagagli leggeri trascinati dietro di sé. Quando Payne ne vide uno, rise in una reazione di sollievo. Il suo tripode non era altro che le gambe telescopiche di una macchina fotografica portatile, facile da imballare e da sballare; e l'uomo che la portava pareva, fin lì, assumere qualità altrettanto solide e normali. Era vestito di scuro, ma con un'aria trascurata e vacanziera; la sua camicia era di flanella grigia, e i suoi stivali echeggiavano in modo abbastanza perentorio in quelle stanze silenziose. Mentre avanzava a grandi passi per salutare la nuova cerchia, la sua andatura tradiva a malapena l'accenno di una zoppia. Ma Payne e i suoi compagni gli guardavano il volto, e a stento riuscivano a distoglierne gli occhi.
+
+Egli sentiva evidentemente che c'era qualcosa di curioso e di sgradevole nella sua accoglienza; ma avrebbero potuto giurare che egli stesso non ne conoscesse la ragione. La dama, che si supponeva già in qualche modo a lui promessa, era certo abbastanza bella da attrarlo; ma evidentemente lo spaventava anche. Il vecchio maggiordomo gli rendeva una sorta di omaggio feudale, eppure lo trattava come se fosse il fantasma di famiglia. Il prete continuava a guardarlo con un volto del tutto indecifrabile, e perciò forse tanto più sconcertante. Una nuova specie d'ironia, più simile all'ironia greca, cominciò ad attraversare la mente di Payne. Egli aveva sognato lo straniero come un demonio, ma pareva quasi peggio che egli fosse un destino inconsapevole. Sembrava marciare verso il delitto con la mostruosa innocenza di Edipo. Si era accostato alla dimora avita con animo così ciecamente esuberante da aver piantato la macchina fotografica per immortalare la sua prima veduta di essa; e persino la macchina aveva assunto le sembianze del tripode di una tragica pizia.
+
+Nel congedarsi poco dopo, Payne fu sorpreso da qualcosa che rivelava come l'australiano fosse ormai un po' meno inconsapevole di quanto lo circondava. Disse a voce bassa:
+
+«Non andate... o tornate presto. Voi avete l'aria di un essere umano. Questo posto mi mette addosso una vera inquietudine.»
+
+Quando Payne emerse da quelle sale quasi sotterranee e uscì nell'aria della [[Night|notte]] e nell'odore del mare, ebbe la sensazione di essere sbucato da quel mondo sotterraneo dei [[Dreams|sogni]] in cui gli avvenimenti si accavallano l'uno sull'altro in un modo insieme inquieto e irreale.
+
+L'arrivo dello strano parente lo aveva in qualche modo lasciato insoddisfatto e, per così dire, poco persuaso. Il raddoppiarsi del medesimo volto nell'antico ritratto e nel nuovo arrivato lo turbava come un [[Monster|mostro]] bicipite. Eppure non era del tutto un [[nightmare|incubo]]; né era forse quel volto, tra tutti, quello che gli si affacciava con maggiore vividezza.
+
+«Avete detto?» domandò al dottore, mentre insieme percorrevano a lunghi passi le sabbie scure e striate lungo il mare che si oscurava; «avete detto che quel giovane era promesso alla signorina Darnaway per una sorta di patto di famiglia, o qualcosa del genere? Sembra roba da [[Novel|romanzo]].»
+
+«Ma da romanzo storico,» rispose il dottor Barnet. «I Darnaway andarono tutti a [[Sleep|dormire]] qualche secolo fa, quando si facevano davvero le cose che noi non leggiamo se non nei racconti cavallereschi. Sì; credo esista una certa tradizione di famiglia secondo cui i cugini di secondo o terzo grado si sposano sempre quando si trovano in un dato rapporto d'età, allo scopo di riunire le proprietà. Una tradizione maledettamente stupida, direi; e se spesso si sposarono così, tra consanguinei e riconsanguinei, ciò potrebbe spiegare, in base ai princìpi dell'eredità, come mai siano andati tanto in malora.»
+
+«Non direi proprio,» ribatté Payne un po' impettito, «che siano andati tutti in malora.»
+
+«Be',» replicò il dottore, «il giovane non ha certo l'aria di essere in malora, si capisce, per quanto sia decisamente zoppo.»
+
+«Il giovane!» esclamò Payne, colto d'improvviso e senza ragione dall'ira. «[[Well|Ebbene]], se pensate che sia la giovane signora ad avere una cattiva cera, io penso che siate voi ad avere un cattivo gusto.»
+
+Il volto del dottore si fece cupo e amaro. «M'immagino di saperne più di voi,» scattò.
+
+Completarono la passeggiata in silenzio, ciascuno sentendo di essere stato irragionevolmente scortese e di avere subìto una scortesia altrettanto irragionevole; e Payne fu lasciato a rimuginare da solo sulla faccenda, poiché il suo amico Wood era rimasto indietro a sbrigare certi suoi affari relativi ai quadri.
+
+Payne approfittò largamente dell'invito che gli aveva rivolto il cugino coloniale, il quale cercava qualcuno che gli tirasse su il morale. Nelle settimane che seguirono egli conobbe a fondo il buio interno della dimora dei Darnaway; anche se si potrebbe dire che non si limitasse per intero a tirar su il morale del cugino coloniale. La malinconia della signorina era di più antica data e forse aveva bisogno di essere sollevata con maggiore impegno; comunque fosse, egli mostrò una laboriosa prontezza a sollevarla. Non era però privo di coscienza, e la situazione lo rendeva dubbioso e a disagio. Passavano le settimane e nessuno riusciva a scoprire dal contegno del nuovo Darnaway se egli si considerasse impegnato secondo l'antico patto oppure no. Se ne andava vagando trasognato per le buie gallerie e restava a fissare con occhio assente il quadro tetro e sinistro. Le ombre di quella casa-prigione cominciavano di certo a stringersi intorno a lui, e poco rimaneva della sua sicurezza australiana. Ma Payne non riusciva a scoprire nulla sul punto che più gli premeva. Una volta tentò di confidarsi con il suo amico Martin Wood, mentre questi trafficava nella sua veste di appenditore di quadri; ma nemmeno da lui ottenne gran soddisfazione.
+
+«Mi pare che tu non possa metterti in mezzo,» disse Wood seccamente, «a causa del fidanzamento.»
+
+«Certo che non mi metterò in mezzo se c'è un fidanzamento,» ribatté l'amico; «ma c'è davvero? Non le ho detto una parola, naturalmente; però l'ho frequentata abbastanza da essere pressoché certo che lei non creda che ci sia, anche se pensa che potrebbe esserci. Lui non dice che ci sia, né lascia neppure intendere che ci dovrebbe essere. Mi pare che tutto questo tergiversare sia piuttosto ingiusto verso tutti.»
+
+«Verso di te soprattutto, immagino,» disse Wood un po' aspramente. «Ma se vuoi il mio parere, ti dirò quel che penso: penso che abbia paura.»
+
+«Paura di essere respinto?» chiese Payne.
+
+«No; paura di essere accettato,» rispose l'altro. «Non saltarmi addosso: non intendo dire che abbia paura della signora. Intendo dire che ha paura del quadro.»
+
+«Paura del quadro!» ripeté Payne.
+
+«Intendo dire che ha paura della maledizione,» disse Wood. «Non ricordi la filastrocca sulla condanna dei Darnaway che ricadrà su lui e su lei?»
+
+«Sì, ma senti un po',» esclamò Payne; «neppure la condanna dei Darnaway può avere la botte piena e la moglie ubriaca. Prima mi dici che non devo fare a modo mio a causa del patto, e poi che il patto non deve fare a modo suo a causa della maledizione. Ma se la maledizione può distruggere il patto, perché mai lei dovrebbe essere legata al patto? Se hanno paura di sposarsi l'un l'altra, sono liberi di sposare chiunque altro, e non se ne parla più. Perché dovrei soffrire io per l'osservanza di qualcosa che essi non hanno intenzione di osservare? Mi sembra che la tua posizione sia del tutto irragionevole.»
+
+«Certo che è tutto un garbuglio,» disse Wood piuttosto stizzito, e riprese a martellare la cornice di una tela.
+
+Un mattino, all'improvviso, il nuovo erede ruppe il suo lungo e sconcertante [[Silence|silenzio]]. Lo fece in modo curioso, un po' rozzo, come era nel suo stile, ma con un'evidente ansia di fare la cosa giusta. Chiese francamente consiglio, non a questo o a quell'individuo come aveva fatto Payne, ma collettivamente, come a una folla. Quando si decise a parlare, si gettò sull'intera compagnia come un uomo di Stato che si rivolge al Paese. La chiamò «una resa dei conti». Per fortuna la signora non fu inclusa in quell'ampio gesto; e Payne rabbrividì al pensiero di ciò che lei avrebbe provato. Ma l'australiano era del tutto sincero; riteneva che la cosa naturale fosse chiedere aiuto e informazioni, convocando una specie di consiglio di famiglia in cui mise le carte in tavola. Si potrebbe dire che scagliò le carte sul tavolo, poiché lo fece con aria alquanto disperata, come chi sia stato tormentato giorno e notte dalla pressione crescente di un problema. In quel breve tempo le ombre di quel luogo dalle finestre basse e dai pavimenti che sprofondavano lo avevano curiosamente mutato, accentuando una certa somiglianza che si insinuava attraverso tutti i loro ricordi.
+
+I cinque uomini, compreso il medico, sedevano attorno a un tavolo; e Payne rifletteva oziosamente che il proprio abito di tweed chiaro e i propri capelli rossi dovevano essere gli unici colori nella stanza, giacché il prete e l'amministratore erano vestiti di nero, e Wood e Darnaway indossavano d'abitudine completi di un grigio scuro che sembrava quasi nero. Forse era stata questa incongruità ciò che il giovane aveva inteso chiamandolo un essere umano. In quel momento il giovane stesso si voltò bruscamente sulla sedia e prese a parlare. Un attimo dopo l'artista stordito capì che stava parlando della cosa più tremenda del mondo.
+
+«C'è qualcosa di vero in tutto questo?» diceva. «È ciò che ho finito col domandarmi, fino quasi a impazzire. Non avrei mai creduto che sarei arrivato a pensare a simili cose; eppure penso al ritratto e alla filastrocca e alle coincidenze, o comunque le si voglia chiamare, e mi vengono i brividi. C'è qualcosa di vero? Esiste davvero una maledizione dei Darnaway, o è soltanto un caso maledettamente strano? Ho il diritto di sposarmi, o farò piombare qualcosa di grande e nero giù dal cielo, qualcosa di cui non so nulla, su me stesso e su qualcun altro?»
+
+Il suo occhio [[rolling|roteante]] aveva percorso il tavolo e si era fermato sul volto dimesso del prete, al quale ora sembrava rivolgersi. Il senso pratico sommerso di Payne [[Rose|insorse]] in segno di protesta contro il fatto che il problema della superstizione venisse posto davanti a quel tribunale supremamente superstizioso. Sedeva accanto a Darnaway e intervenne prima che il prete potesse rispondere.
+
+«Ebbene, le coincidenze sono curiose, lo ammetto,» disse, forzando un poco una nota di allegria; «ma di sicuro noi...» e allora si fermò come fulminato. Poiché Darnaway aveva voltato di scatto la testa oltre la spalla a quell'interruzione, e con il movimento il suo sopracciglio sinistro guizzò in alto, ben oltre il compagno, e per un istante il volto del ritratto lo fissò con una spettrale, esagerata esattezza. Gli altri lo videro; e tutti ebbero l'aria di essere stati abbagliati da un lampo di luce. Il vecchio amministratore emise un gemito cavo.
+
+«Non serve a niente,» disse con voce roca; «abbiamo a che fare con qualcosa di troppo terribile.»
+
+«Sì,» assentì il prete a bassa voce, «abbiamo a che fare con qualcosa di terribile; con la cosa più terribile che io conosca, e il suo nome è sciocchezza.»
+
+«Che cosa avete detto?» domandò Darnaway, ancora rivolto verso di lui.
+
+«Ho detto sciocchezza,» ripeté il prete. «Finora non ho detto nulla di particolare, perché non erano affari miei; mi trovavo qui solo in servizio temporaneo nei dintorni, e la signorina Darnaway desiderava vedermi. Ma dal momento che me lo chiedete di persona e a bruciapelo, ebbene, è abbastanza facile rispondere. Naturalmente non esiste nessuna maledizione dei Darnaway capace di impedirvi di sposare chiunque abbiate una ragione decente di sposare. Un uomo non è destinato a cadere nel più piccolo peccato veniale, e tanto meno in crimini come il suicidio e l'omicidio. Non vi si può costringere a compiere azioni malvagie contro la vostra volontà perché vi chiamate Darnaway, così come non vi si potrebbe costringere me perché mi chiamo Brown. La maledizione dei Brown,» aggiunse con gusto — «il Fato dei Brown suonerebbe persino meglio.»
+
+«E proprio voi,» ripeté l'australiano, fissandolo, «mi dite di pensarla così.»
+
+«Vi dico di pensare a qualcos'altro,» rispose il prete allegramente. «Che ne è stato della nascente arte della fotografia? Come procede la faccenda della macchina fotografica? So che al piano di sotto è piuttosto buio, ma quelle arcate cave del piano superiore potrebbero facilmente essere trasformate in uno studio fotografico di prim'ordine. Pochi operai potrebbero attrezzarlo con un tetto di vetro in un batter di [[Time|tempo]].»
+
+«Davvero,» protestò Martin Wood, «credo proprio che voi dovreste essere l'ultimo uomo al mondo a mettere le mani su quelle magnifiche arcate gotiche, che sono più o meno la migliore opera che la vostra religione abbia mai prodotto al mondo. Avrei pensato che nutriste qualche sentimento per quel genere d'arte; ma non capisco perché dobbiate essere così straordinariamente appassionato di fotografia.»
+
+«Sono straordinariamente appassionato di luce del giorno,» rispose Padre Brown, «specialmente in questa tetra faccenda; e la fotografia ha la virtù di dipendere dalla luce del giorno. E se non sapete che ridurrei in polvere tutte le arcate gotiche del mondo per salvare la [[Sanity|sanità mentale]] di una sola [[Soul|anima]] umana, allora non sapete della mia religione tanto quanto credete di sapere.»
+
+Il giovane australiano era balzato in piedi come un uomo ringiovanito. «Perbacco! ecco come si parla,» gridò; «anche se non avrei mai pensato di sentirlo proprio da quella parte. Ecco cosa vi dico, reverendo: farò qualcosa che dimostrerà che, dopotutto, non ho perso il mio [[Courage|coraggio]].»
+
+Il vecchio amministratore lo guardava ancora con una vigilanza tremante, come se avvertisse qualcosa di funesto nella sfida del giovane. «Oh,» esclamò, «che cosa avete intenzione di fare adesso?»
+
+«Ho intenzione di fotografare il ritratto,» rispose Darnaway.
+
+Eppure non era passata neppure una settimana che la tempesta della catastrofe parve calare giù dal cielo, oscurando quel sole della ragione al quale il prete si era invano appellato, e sprofondando ancora una volta la dimora nelle tenebre della maledizione dei Darnaway. Era stato abbastanza facile allestire il nuovo studio; e visto dall'interno somigliava molto a un qualsiasi altro studio del genere, vuoto se non per la pienezza della luce bianca. Un uomo che salisse dalle stanze tetre di sotto aveva più che mai la sensazione di entrare in uno splendore più che moderno, bianco e vuoto come il futuro. Su suggerimento di Wood, che conosceva bene il castello e aveva superato i suoi primi brontolii estetici, una piccola stanza rimasta intatta tra le rovine superiori fu facilmente trasformata in una camera oscura, nella quale Darnaway usciva dalla bianca luce del giorno per andare a tentoni tra i bagliori cremisi di una lampada rossa. Wood diceva, ridendo, che la lampada rossa lo aveva riconciliato con il vandalismo; poiché quell'oscurità venata di sangue era romantica quanto la caverna di un alchimista.
+
+Darnaway si era alzato all'alba il giorno in cui intendeva fotografare il misterioso ritratto, e lo aveva fatto portare su dalla biblioteca per l'unica scala a chiocciola che collegava i due piani. Là lo aveva sistemato nell'ampia bianca luce del giorno su una specie di cavalletto e aveva piantato davanti ad esso il treppiede fotografico. Diceva di essere ansioso di inviare una riproduzione dell'opera a un grande antiquario che aveva scritto sulle antichità della casa; ma gli altri sapevano che questa era una scusa dietro cui si celavano cose ben più profonde. Era, se non proprio un duello spirituale tra Darnaway e il quadro demoniaco, quanto meno un duello tra Darnaway e i propri dubbi. Voleva mettere la luce del giorno della fotografia faccia a faccia con quel cupo capolavoro della pittura; e vedere se il chiarore solare della nuova arte non avrebbe scacciato le ombre di quella antica.
+
+Forse era per questo che preferiva sbrigarsela da solo, anche se qualcuno dei preparativi pareva richiedere più tempo e comportare indugi maggiori del normale. Comunque fosse, non incoraggiava affatto i pochi che visitarono il suo studio nel giorno dell'esperimento, e che lo trovarono intento a mettere a fuoco e ad affaccendarsi in un'aria del tutto isolata e impenetrabile. L'amministratore gli aveva lasciato un pasto, giacché egli si rifiutava di scendere; il vecchio gentiluomo tornò poi qualche ora dopo e trovò il pasto smaltito più o meno normalmente; ma quando glielo aveva portato non aveva ottenuto altra gratitudine che un grugnito. Payne salì una volta a vedere come procedesse, ma trovando il fotografo poco disposto alla conversazione ridiscese. Padre Brown si era incamminato da quella parte, con la sua discrezione consueta, per portare a Darnaway una lettera dell'esperto al quale la fotografia doveva essere spedita. Ma lasciò la lettera su un vassoio, e qualunque cosa pensasse di quella grande serra colma di luce del giorno e di dedizione a un passatempo, un mondo che egli stesso in un certo senso aveva creato, se lo tenne per sé e discese. Ebbe ben presto motivo di ricordare che era stato l'ultimo a scendere per la solitaria scala che collegava i piani, lasciandosi dietro un uomo solo e una stanza vuota. Gli altri stavano nel salotto che dava sulla biblioteca, proprio sotto il grande orologio di ebano nero che pareva una bara titanica.
+
+«Come procedeva Darnaway» chiese Payne poco dopo «l'ultima volta che siete salito?»
+
+Il sacerdote si passò una mano sulla fronte. «Non ditemi che sto diventando sensitivo» disse con un sorriso mesto. «Credo di essere del tutto abbagliato dalla luce del giorno lassù in quella stanza, e di non aver visto bene le cose. In tutta onestà, per un istante ho avuto la sensazione che vi fosse qualcosa di sinistro nella figura di Darnaway ritto davanti a quel ritratto.»
+
+«Oh, è la gamba zoppa» disse Barnet con prontezza. «Sappiamo tutto di quella.»
+
+«Sapete» disse Payne di scatto, ma abbassando la voce «io non credo che ne sappiamo tutto, né alcunché. Che cos'ha quella sua gamba? Che cos'aveva la gamba del suo antenato?»
+
+«Oh, c'è qualcosa in proposito nel libro che stavo leggendo là dentro, negli archivi di famiglia» disse Wood; «ve lo vado a prendere.» E fece un passo nella biblioteca lì accanto.
+
+«Credo» disse [[Father Brown|Padre Brown]] con calma «che il signor Payne debba avere qualche ragione particolare per chiederlo.»
+
+«Tanto [[Well|vale]] che lo dica una volta per tutte» disse Payne, ma a voce ancor più bassa. «Dopotutto, c'è una spiegazione razionale. Un uomo venuto da chissà dove potrebbe essersi truccato per somigliare al ritratto. Che cosa sappiamo di Darnaway? Si sta comportando in modo piuttosto strano...»
+
+Gli altri lo fissavano con un'aria alquanto sconcertata; ma il sacerdote parve prenderla con grande calma.
+
+«Non credo che il vecchio ritratto sia mai stato fotografato» disse. «È per questo che vuole farlo. Non ci vedo nulla di strano.»
+
+«Uno stato di cose del tutto ordinario, in fondo» disse Wood con un sorriso; era appena tornato col libro in mano. E proprio mentre parlava vi fu un fremito nel meccanismo del grande orologio scuro alle sue spalle, e rintocchi successivi vibrarono per la stanza fino al numero di sette. All'ultimo rintocco venne dal piano di sopra uno schianto che scosse la casa come una folgore; e Padre Brown era già due gradini su per la scala a chiocciola prima che il suono si fosse spento.
+
+«Dio mio!» gridò Payne senza volerlo; «è solo lassù.»
+
+«Sì» disse [[Father Brown|Padre Brown]] senza voltarsi, mentre spariva su per la scala. «Lo troveremo solo.»
+
+Quando gli altri si riebbero dalla prima paralisi e si precipitarono alla rinfusa su per i gradini di pietra e trovarono la via del nuovo studio, era vero in quel senso che lo trovarono solo. Lo trovarono disteso tra i rottami della sua alta macchina fotografica, con le lunghe gambe scheggiate che sporgevano grottescamente in tre diverse angolazioni; e Darnaway era caduto sopra di essa, con una gamba nera e storta distesa a un quarto angolo lungo il pavimento. Per un istante quel mucchio oscuro sembrò che egli fosse impigliato in un qualche ragno enorme e orribile. Bastarono poco più di un'occhiata e di un tocco per dire loro che era morto. Solo il ritratto se ne stava intatto sul cavalletto, e si sarebbe potuto immaginare che gli occhi sorridenti splendessero.
+
+Un'ora più tardi Padre Brown, mentre aiutava a placare lo sgomento della casa colpita, s'imbatté nel vecchio amministratore che borbottava quasi in modo altrettanto meccanico di quanto l'orologio aveva ticchettato e battuto l'ora terribile. Quasi senza udirle, sapeva quali dovessero essere le parole borbottate.
+
+Nel settimo erede tornerò, nella settima ora me ne andrò.
+
+Mentre stava per dire qualcosa di consolatorio, il vecchio parve d'un tratto ridestarsi e irrigidirsi nell'ira; il suo borbottio si mutò in un grido feroce.
+
+«Voi!» gridò; «voi e la vostra luce del giorno! Neppure voi direte adesso che non c'è nessuna Maledizione per i Darnaway.»
+
+«La mia opinione in proposito non è mutata» disse [[Father Brown|Padre Brown]] con dolcezza. Poi, dopo una pausa, aggiunse: «Spero che rispetterete l'ultimo desiderio del povero Darnaway, e che la fotografia venga spedita.»
+
+«La fotografia!» gridò il dottore aspramente. «A che serve? A dire il vero, è piuttosto curioso; ma non c'è nessuna fotografia. Pare che alla fine non l'abbia mai scattata, dopo aver gingillato tutto il giorno.»
+
+Padre Brown si voltò di scatto. «Allora scattatela voi» disse. «Il povero Darnaway aveva perfettamente ragione. È della massima importanza che la fotografia sia scattata.»
+
+Mentre tutti i visitatori, il dottore, il sacerdote e i due artisti si allontanavano in una nera e desolata processione attraverso le sabbie brune e gialle, dapprima rimasero più o meno silenziosi, quasi fossero stati storditi. E certo vi era stato qualcosa come un tuono in un cielo sereno nel compiersi di quella dimenticata superstizione proprio nel [[Time|momento]] in cui l'avevano più che mai dimenticata; quando il dottore e il sacerdote avevano entrambi riempito la mente di razionalismo come il fotografo aveva riempito le sue stanze di luce del giorno. Potevano essere razionalisti quanto volevano; ma in pieno giorno il settimo erede era tornato, e in pieno giorno alla settima ora era perito.
+
+«Temo che ormai tutti crederanno per sempre alla superstizione dei Darnaway» disse Martin Wood.
+
+«Io conosco qualcuno che non ci crederà» ribatté il dottore in tono aspro. «Perché mai dovrei indulgere alla superstizione solo perché qualcun altro indulge al suicidio?»
+
+«Pensa che il povero signor Darnaway abbia commesso un [[suicide|suicidio]]?» chiese il prete.
+
+«Sono certo che si sia suicidato» rispose il dottore.
+
+«È possibile» convenne l'altro.
+
+«Era completamente solo lassù, e nella camera oscura aveva un intero arsenale di veleni. E poi, è proprio il genere di cose che fanno i Darnaway.»
+
+«Non crede che ci sia qualcosa nel compimento della maledizione di famiglia?»
+
+«Sì» disse il dottore; «credo in una sola maledizione di famiglia, ed è la costituzione della famiglia. Gliel'ho detto, è questione di eredità, e sono tutti mezzo matti. Se ristagni, ti riproduci in consanguineità e rimugini nella tua palude come loro, sei destinato a degenerare, che ti piaccia o no. Le leggi dell'eredità non si possono aggirare; le verità della scienza non si possono negare. Le menti dei Darnaway vanno in pezzi, come vanno in pezzi le loro vecchie pietre e travi corrotte, corrose dal mare e dall'aria salmastra. [[suicide|Suicidio]] — ovviamente ha commesso [[suicide|suicidio]]; oserei dire che tutti gli altri commetteranno il [[suicide|suicidio]]. Forse la cosa migliore che potrebbero fare.»
+
+Mentre l'uomo di scienza parlava, balzò all'improvviso e con sorprendente nitidezza nella [[Memory|memoria]] di Payne il volto della figlia dei Darnaway, tragica maschera pallida contro un buio insondabile, eppure di una [[Beauty|bellezza]] abbagliante e più che mortale. Aprì la bocca per parlare e si scoprì senza parole.
+
+«Capisco» disse padre Brown al dottore; «dunque, in fondo, alla superstizione ci crede davvero?»
+
+«Che intende dire... credere alla superstizione? Io credo al suicidio come necessità scientifica.»
+
+«[[Well|Ebbene]]» ribatté il prete, «non vedo un briciolo di differenza tra la sua superstizione scientifica e l'altra, quella magica. Entrambe sembrano finire col ridurre gli uomini a paralitici, incapaci di muovere le proprie gambe o le proprie braccia, di salvare la propria vita o la propria anima. La filastrocca diceva che la Maledizione dei Darnaway era di essere uccisi, e il manuale scientifico dice che la Maledizione dei Darnaway è di uccidersi. In entrambi i casi sembrano schiavi.»
+
+«Ma credevo avesse detto di credere in una visione razionale di queste cose» disse il dottor Barnet. «Non crede nell'eredità?»
+
+«Ho detto che credo nella luce del giorno» replicò il prete con voce alta e chiara, «e mi rifiuto di scegliere tra due gallerie di superstizione sotterranea che finiscono entrambe nel buio. E la prova è questa: che siete tutti completamente all'oscuro di ciò che è realmente accaduto in quella casa.»
+
+«Intende a proposito del [[suicide|suicidio]]?» chiese Payne.
+
+«Intendo a proposito dell'assassinio» disse padre Brown; e la sua voce, benché appena sollevata a una nota più alta, parve in qualche modo risuonare per tutta la spiaggia. «Fu un assassinio; ma l'assassinio appartiene alla volontà, che Dio ha creato libera.»
+
+Che cosa rispose l'altro in quel momento, Payne non lo seppe mai. Poiché la parola ebbe su di lui un effetto piuttosto curioso: lo scosse come lo squillo di una tromba, e insieme lo inchiodò sul posto. Rimase immobile in mezzo alla distesa di sabbia e lasciò che gli altri proseguissero davanti a lui; sentì il sangue strisciargli per tutte le vene e quella sensazione che si dice faccia rizzare i capelli sul capo; eppure provò una felicità nuova e innaturale. Un processo psicologico troppo rapido e troppo complicato perché lui stesso potesse seguirlo era già giunto a una conclusione che non sapeva analizzare; ma la conclusione era di sollievo. Dopo essere rimasto immobile un istante, si voltò e tornò lentamente attraverso la sabbia verso la casa dei Darnaway.
+
+Attraversò il fossato con un passo che fece tremare il ponte, discese le scale e percorse le lunghe sale con un'andatura fragorosa, finché non giunse al luogo in cui Adelaide Darnaway sedeva aureolata dalla luce fioca della finestra ovale, quasi come una santa dimenticata, lasciata indietro nella terra della morte. Ella alzò lo sguardo, e un'espressione di stupore rese il suo volto ancora più meraviglioso.
+
+«Che cosa c'è?» disse. «Perché siete tornato?»
+
+«Sono venuto per la Bella Addormentata» disse, con un tono che aveva la risonanza di una risata. «Questa vecchia casa si è addormentata molto tempo fa, come ha detto il dottore; ma è sciocco che voi fingiate di essere vecchia. Salite alla luce del giorno e ascoltate la verità. Vi ho portato una parola; è una parola terribile, ma spezza l'incantesimo della vostra prigionia.»
+
+Ella non capì una sola parola di ciò che diceva, ma qualcosa la spinse ad alzarsi e a lasciarsi condurre giù per il lungo salone, su per le scale e fuori, sotto il cielo della sera. Le rovine di un giardino morto si stendevano verso il mare, e una vecchia fontana con la figura di un tritone, verde di ruggine, restava là sospesa, senza versare nulla da un corno inaridito in una vasca vuota. Passando, aveva visto spesso quel profilo desolato contro il cielo della sera, ed esso gli era parso l'emblema di fortune cadute in più di un senso. Di lì a poco, senza dubbio, quelle conche vuote si sarebbero riempite, ma delle pallide, verdi, amare acque del mare, e i fiori sarebbero annegati e strangolati tra le alghe. Così, si era detto, la figlia dei Darnaway avrebbe forse potuto andare sposa; ma sarebbe andata sposa alla morte e a una condanna sorda e spietata come il mare. Ma ora egli posò una mano sul tritone di bronzo, una mano che pareva quella di un gigante, e lo scosse come se volesse rovesciarlo al pari di un idolo o di un dio malvagio del giardino.
+
+«Che cosa intendete?» chiese lei con fermezza. «Qual è questa parola che ci renderà liberi?»
+
+«La parola è assassinio» disse, «e la libertà che porta è fresca come i fiori di primavera. No; non intendo dire di aver ucciso qualcuno. Ma il fatto stesso che qualcuno possa essere assassinato è di per sé una buona notizia, dopo i sogni malvagi in cui avete vissuto. Non capite? In quel vostro sogno tutto ciò che vi accadeva veniva dal di dentro di voi; la Maledizione dei Darnaway era racchiusa nei Darnaway; si dischiudeva come un fiore orribile. Non c'era scampo nemmeno per un caso fortunato; era tutto inevitabile; fosse Vine con le sue storie da vecchie comari, o Barnet con la sua eredità dell'ultima moda. Ma quest'uomo che è morto non fu vittima di una maledizione magica né di una follia ereditaria. Fu assassinato; e per noi quell'assassinio è semplicemente un caso; sì, requiescat in pace: ma un caso fortunato. È un raggio di luce del giorno, perché viene da fuori.»
+
+D'improvviso ella sorrise. «Sì, credo di capire.
+Immagino che parliate come un pazzo, eppure capisco.
+Ma chi lo ha ucciso?»
+
+«Non lo so» rispose lui con calma «ma [[Father Brown|padre Brown]] lo sa.
+E, come dice [[Father Brown|padre Brown]], l'assassinio è quantomeno opera della volontà,
+libera come quel [[Wind|vento]] che viene dal mare.»
+
+«Padre Brown è una persona straordinaria» disse ella dopo una pausa;
+«è stato l'unico che abbia mai rischiarato la mia esistenza
+in un modo qualsiasi, fino a quando...»
+
+«Fino a quando?» chiese Payne, e fece un gesto quasi impetuoso,
+chinandosi verso di lei e spingendo via il [[Monster|mostro]] di bronzo, così che
+parve oscillare sul suo piedistallo.
+
+«Ebbene, fino a quando lo avete fatto voi» disse ella, e sorrise di nuovo.
+
+Così fu ridestato il palazzo addormentato, e non è compito di questo racconto
+descrivere le fasi del suo risveglio, per quanto molto ne fosse già
+accaduto prima che il buio di quella sera calasse sulla riva.
+Mentre Harry Payne muoveva ancora una volta a gran passi verso casa, attraverso quelle
+sabbie oscure che aveva percorso in tanti stati d'animo diversi, egli si trovava al
+punto più alto della felicità che sia concessa in questa vita mortale,
+e l'intero mare rosso che aveva dentro era al culmine della sua marea.
+Non avrebbe avuto difficoltà a immaginare tutto quel luogo
+di nuovo in fiore, e il tritone di bronzo splendente come un dio
+d'oro, e la fontana che sgorgava acqua o vino.
+Ma tutto questo splendore e questo fiorire gli erano stati dischiusi
+da quell'unica parola, «assassinio», e restava pur sempre una parola che egli
+non comprendeva. L'aveva accolta per fede, e non fu insensato;
+poiché era uno di quelli che hanno il senso del suono della [[Truth|verità]].
+
+Fu più di un mese dopo che Payne fece ritorno alla sua [[London|Londra]],
+alla [[house|casa]], per un appuntamento con [[Father Brown|padre Brown]], portando con sé
+la fotografia richiesta. La sua personale [[Romance|storia d'amore]] era prosperata tanto [[Well|bene]]
+quanto si conveniva sotto l'[[Shadow|ombra]] di una simile [[Tragedy|tragedia]], e l'[[Shadow|ombra]]
+stessa perciò gravava su di lui un po' più lieve; ma era difficile
+considerarla altrimenti che come l'[[Shadow|ombra]] di una fatalità di famiglia.
+In molti modi era stato assai occupato; e fu soltanto quando
+la casa dei Darnaway ebbe ripreso la sua routine alquanto severa,
+e il ritratto era da tempo tornato al suo posto nella biblioteca,
+che egli riuscì a fotografarlo con un lampo al magnesio.
+Prima di inviarlo all'antiquario, come inizialmente stabilito,
+lo portò al sacerdote che con tanta insistenza lo aveva reclamato.
+
+«Non riesco a capire il vostro atteggiamento in tutta questa faccenda, padre Brown»
+disse. «Vi comportate come se aveste già risolto il problema in qualche
+modo tutto vostro.»
+
+Il sacerdote scosse il capo con mestizia. «Neanche per sogno»
+rispose. «Devo essere molto sciocco, ma sono del tutto arenato;
+arenato sul punto più pratico di tutti.
+È una faccenda bizzarra: tanto semplice fino a un certo punto, e poi...
+Fatemi dare un'occhiata a quella fotografia, volete?»
+
+La tenne per un istante vicino agli occhi socchiusi e miopi,
+e poi disse: «Avete una lente d'ingrandimento?»
+
+Payne ne produsse una, e il sacerdote vi guardò attraverso
+attentamente per qualche [[Time|tempo]], poi disse: «Guardate il titolo
+di quel libro all'estremità dello scaffale accanto alla cornice;
+è La storia della papessa Giovanna. Ora, mi domando... sì,
+perbacco; e quello sopra è qualcosa che riguarda l'Islanda.
+Signore! che modo curioso di scoprirlo! Che stupido e che asino
+sono stato a non notarlo quando ero là!»
+
+«Ma che cosa avete scoperto?» chiese Payne con impazienza.
+
+«L'ultimo anello» disse padre Brown «e non sono più arenato.
+Sì; credo di sapere ora come andò quella infelice storia dal principio alla fine.»
+
+«Ma perché?» insistette l'altro.
+
+«Perché, ecco» disse il sacerdote con un sorriso «la biblioteca
+dei Darnaway conteneva libri sulla papessa Giovanna e sull'Islanda, per non
+parlare di un altro che vedo, col titolo che comincia con La religione
+di Federico, che non è poi tanto difficile da completare.»
+Poi, vedendo il fastidio dell'altro, il sorriso gli si spense ed egli disse
+con maggiore serietà: «A dire il vero, quest'ultimo punto,
+per quanto sia l'ultimo anello, non è la questione principale.
+Vi erano cose ben più curiose in questo caso.
+Una di esse è piuttosto una curiosità in fatto di prove.
+Lasciate che cominci col dirvi qualcosa che potrà sorprendervi.
+Darnaway non morì alle sette di quella sera.
+Era già morto da un giorno intero.»
+
+«Sorprendere è una parola un po' blanda» disse Payne cupamente «visto che
+voi e io lo vedemmo entrambi camminare in giro dopo quell'ora.»
+
+«No, non lo vedemmo» replicò [[Father Brown|padre Brown]] con calma. «Credo che entrambi vedemmo lui,
+o credemmo di vederlo, affaccendarsi attorno alla messa a fuoco della sua macchina fotografica.
+Non aveva forse il capo sotto quel panno nero quando attraversaste la stanza?
+Lo aveva quando la attraversai io. Ed è per questo che sentii che c'era qualcosa di strano
+nella stanza e nella figura. Non era che la gamba fosse storta,
+ma piuttosto che non era storta. Era vestito con lo stesso tipo
+di abiti scuri; ma se vedete quello che credete essere un uomo, in piedi
+nel modo in cui sta un altro uomo, penserete che egli si trovi in un atteggiamento strano
+e forzato.»
+
+«Volete davvero dire» esclamò Payne con qualcosa di simile a un brivido
+«che era un uomo sconosciuto?»
+
+«Era l'assassino» disse [[Father Brown|padre Brown]]. «Aveva già
+ucciso Darnaway all'alba e nascosto il cadavere e se stesso
+nella camera oscura: un eccellente nascondiglio, perché di norma nessuno
+vi entra, né può vedere granché se pure vi entra.
+Ma lo lasciò cadere sul pavimento alle sette, s'intende,
+affinché tutta la faccenda potesse spiegarsi con la maledizione.»
+
+«Ma non capisco» osservò Payne. «Perché allora non lo uccise
+alle sette, invece di caricarsi di un cadavere
+per quattordici ore?»
+
+«Lasciate che vi ponga un'altra domanda» disse il sacerdote.
+«Perché non fu scattata alcuna fotografia? Perché l'assassino volle esser certo
+di ucciderlo appena si fosse alzato, e prima che potesse scattarla.
+Era essenziale per l'assassino impedire che quella fotografia
+giungesse all'esperto delle antichità dei Darnaway.»
+
+Vi fu un improvviso silenzio per un momento, poi il sacerdote riprese
+con tono più sommesso: «Non vedete quanto è semplice? Ma se voi stesso avete visto
+uno dei lati della possibilità; solo che è ancora più semplice di quanto pensaste.
+Avete detto che si sarebbe potuto truccare un uomo perché somigliasse a un vecchio quadro.
+È certo più semplice che si trucchi un quadro perché somigli a un uomo.
+In parole povere, è vero in un senso piuttosto particolare che non vi fu alcuna Condanna
+dei Darnaway. Non vi fu alcun vecchio quadro; non vi fu alcuna vecchia filastrocca;
+non vi fu alcuna leggenda di un uomo che causò la [[Death|morte]] della propria moglie.
+Ma vi fu un uomo assai malvagio e assai astuto, disposto
+a causare la [[Death|morte]] di un altro uomo per derubarlo della sposa promessa.»
+
+Il sacerdote rivolse a un tratto a Payne un sorriso mesto, quasi a rassicurarlo. «Per un momento avete creduto che alludessi a voi» disse; «ma non eravate l'unico a frequentare quella casa per ragioni sentimentali. Conoscete l'uomo, o per lo meno credete di conoscerlo. Eppure in colui che si faceva chiamare Martin Wood, artista e antiquario, si celavano profondità che nessuna delle sue semplici conoscenze artistiche avrebbe mai potuto sospettare. Ricordate che era stato chiamato a giudicare e a catalogare i quadri; e in una pattumiera aristocratica di quel genere ciò significa in pratica soltanto dire ai Darnaway quali tesori d'arte possiedano. Non si sarebbero stupiti se fossero saltate fuori cose che non avevano mai notato prima. Bisognava farlo bene, e fu fatto bene; forse aveva ragione quando diceva che, se non era un Holbein, era qualcuno del medesimo genio.»
+
+«Mi sento piuttosto sbalordito» disse Payne; «e ci sono venti cose che ancora non riesco a spiegarmi. Come faceva a sapere che aspetto avesse Darnaway? E come lo uccise davvero? I medici sembrano al momento piuttosto perplessi.»
+
+«Ho visto una fotografia che la signora possedeva e che l'australiano aveva spedito prima di sé» disse il sacerdote, «e vi sono parecchi modi in cui egli poté apprendere certe cose, una volta che il nuovo erede fu riconosciuto. Forse questi particolari non li conosceremo mai; ma non sono difficoltà. Ricordate che soleva dare una mano nella camera oscura; mi pare un luogo ideale, poniamo, per pungere un uomo con uno spillo avvelenato, avendo il veleno bell'e pronto sottomano. No; vi dico che queste non erano difficoltà. La difficoltà che mi lasciò interdetto era come Wood potesse trovarsi in due luoghi contemporaneamente. Come poteva prendere il cadavere dalla camera oscura e appoggiarlo alla macchina fotografica in modo che cadesse dopo pochi secondi, senza scendere le scale, mentre si trovava in biblioteca a cercare un libro? E fui tanto sciocco da non guardare mai i libri della biblioteca; e fu solo in questa fotografia, per un colpo di fortuna del tutto immeritato, che scorsi il semplice fatto di un libro sulla papessa Giovanna.»
+
+«Vi siete tenuto il migliore [[Riddle|indovinello]] per la fine» disse Payne cupo. «Che diamine può avere a che fare la papessa Giovanna con tutto questo?»
+
+«Non dimenticate il libro sul Non-so-che d'Islanda» consigliò il sacerdote, «né quello sulla religione di un tale Federico. Non resta che chiedersi che genere d'uomo fosse il defunto Lord Darnaway.»
+
+«Ah, davvero?» osservò Payne con gravità.
+
+«Era un eccentrico colto e spiritoso, a quanto pare» proseguì Padre Brown. «Essendo colto, sapeva che non era mai esistita una persona come la papessa Giovanna. Essendo spiritoso, è probabilissimo che avesse pensato a un titolo come "I serpenti d'Islanda" o a qualcos'altro che non esisteva affatto. Mi arrischio a ricostruire il terzo titolo come "La religione di Federico il Grande" — che parimenti non esiste. Ora, non vi colpisce che questi sarebbero proprio i titoli da mettere sui dorsi di libri inesistenti; o, in altre parole, su una libreria che non era una libreria?»
+
+«Ah!» esclamò Payne; «adesso capisco che cosa intendete. C'era una scala nascosta...»
+
+«Che saliva fino alla stanza che Wood in persona aveva scelto come camera oscura» disse il sacerdote annuendo. «Mi dispiace. Non si poteva farci nulla. È spaventosamente banale e stupido, stupido quanto sono stato io in questo caso tanto banale. Ma eravamo immischiati in un autentico, stantìo vecchio romanzo di nobiltà decaduta e di una dimora avita in rovina; ed era troppo sperare di poter sfuggire a un passaggio segreto. Era un nascondiglio da prete; e meriterei di esservi cacciato dentro.»

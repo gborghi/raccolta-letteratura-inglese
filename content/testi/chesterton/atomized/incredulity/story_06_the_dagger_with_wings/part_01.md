@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/incredulity-(chesterton)">Incredulity</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/incredulity/story_05_the_curse_of_the_golden_cross/part_09">‹ part 09</a><a class="ex-next" href="/testi/chesterton/atomized/incredulity/story_06_the_dagger_with_wings/part_02">part 02 ›</a></div>
@@ -131,3 +133,131 @@ So they all announced in a loud voice that he was a lunatic, and left.
 Of course that does not prove he is a lunatic; but it seems rather rum
 nowadays for a man to expect his valet or his parlour--maid to act
 as an armed guard.'
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/incredulity-(chesterton)">Incredulity</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/incredulity/story_05_the_curse_of_the_golden_cross/part_09">‹ part 09</a><a class="ex-next" href="/testi/chesterton/atomized/incredulity/story_06_the_dagger_with_wings/part_02">part 02 ›</a></div>
+</nav>
+
+SEI:  Il pugnale con le ali
+
+[[Father Brown|PADRE BROWN]], in un certo periodo della sua vita, trovava difficile appendere
+il cappello a un attaccapanni senza reprimere un lieve brivido.
+L'origine di questa fissazione era in verità un semplice particolare nell'ambito di eventi
+assai più complicati; ma era forse l'unico particolare che gli fosse rimasto,
+nella sua vita indaffarata, a rammentargli l'intera faccenda.
+La sua origine remota andava cercata nei fatti che indussero il dottor Boyne,
+l'ufficiale medico aggregato alle forze di polizia, a mandare a chiamare il sacerdote
+in una certa gelida mattina di dicembre.
+
+Il dottor Boyne era un irlandese grande e bruno, uno di quegli irlandesi piuttosto
+sconcertanti che si incontrano per tutto il mondo, i quali discorrono di scetticismo
+scientifico, di materialismo e di cinismo a lungo e con dovizia,
+ma che non si sognerebbero mai di rimettere qualsiasi cosa tocchi il rituale della religione
+ad altro che non sia la religione tradizionale della loro terra natale.
+Sarebbe difficile dire se il loro credo sia una verniciatura assai superficiale
+o un fondamentale substrato; ma con ogni probabilità è l'una e l'altra cosa,
+con una massa di materialismo nel mezzo.  Comunque sia, quando pensò che
+potessero esservi implicate faccende di quel genere, chiese a [[Father Brown]] di passare,
+benché non fingesse alcuna predilezione per quell'aspetto di esse.
+
+«Non sono affatto sicuro di volerla qui, sa,» fu il suo saluto.
+«Non sono ancora sicuro di nulla.  Che io sia impiccato se riesco
+a capire se sia un caso da medico, o da poliziotto,
+o da sacerdote.»
+
+«Ebbene,» disse Padre Brown con un sorriso, «dato che, suppongo, lei è al tempo stesso
+poliziotto e medico, mi pare di essere piuttosto in minoranza.»
+
+«Ammetto che lei è ciò che i politici chiamano una minoranza istruita,»
+replicò il dottore.  «Voglio dire, so che ha dovuto occuparsi un poco
+del nostro mestiere tanto quanto del [[Well|suo]].  Ma è maledettamente difficile dire
+se questa faccenda sia di sua competenza o della nostra, o semplicemente
+di competenza dei Commissari per l'Infermità Mentale.  Abbiamo appena ricevuto un messaggio
+da un uomo che abita qui vicino, in quella [[house|casa]] bianca sulla [[Hill|collina]],
+che chiede protezione contro una persecuzione omicida.
+Abbiamo indagato sui fatti per quanto ci è stato possibile, e forse è meglio
+che io le racconti la storia così come si suppone sia avvenuta,
+dal principio.
+
+«Pare che un uomo di nome Aylmer, ricco proprietario terriero
+nel West Country, si sia sposato piuttosto tardi
+nella vita e abbia avuto tre figli, Philip, Stephen e Arnold.
+Ma ai tempi del suo celibato, quando pensava che non avrebbe avuto
+eredi, aveva adottato un ragazzo che gli sembrava assai brillante
+e promettente, che rispondeva al nome di John Strake.
+La sua origine pare essere incerta; dicono fosse un trovatello;
+alcuni dicono fosse uno zingaro.  Credo che quest'ultima idea si mescoli
+al fatto che Aylmer, nella sua vecchiaia, si dilettava di ogni
+sorta di squallido occultismo, chiromanzia e astrologia comprese,
+e i suoi tre figli dicono che Strake ve lo incoraggiava.
+Ma dissero anche molte altre cose, oltre a questa.
+Dissero che Strake era un mascalzone straordinario, e in particolare
+uno straordinario bugiardo; un genio nell'inventare menzogne su due piedi,
+e nel raccontarle in modo da ingannare un investigatore.
+Ma potrebbe benissimo trattarsi di un pregiudizio naturale, alla luce
+di quanto accadde.
+
+Forse lei può più o meno immaginare che cosa accadde.
+Il vecchio lasciò praticamente ogni cosa al figlio adottivo;
+e quando morì i tre figli veri impugnarono il testamento.
+Dissero che il padre era stato intimidito fino a cedere e,
+per non mettere troppo puntiglio, fino a un'idiozia farfugliante.
+Dissero che Strake aveva i modi più strani e più subdoli
+per raggiungerlo, malgrado le infermiere e la famiglia,
+e per terrorizzarlo sul letto di morte.  Comunque sia, parevano
+aver provato qualcosa circa la condizione mentale del defunto,
+poiché i tribunali annullarono il testamento e i figli ereditarono.
+Si dice che Strake sia esploso nel modo più spaventoso,
+giurando che li avrebbe uccisi tutti e tre, uno dopo l'altro,
+e che nulla avrebbe potuto sottrarli alla sua vendetta.
+È il terzo e ultimo dei fratelli, Arnold Aylmer,
+a chiedere la protezione della polizia.»
+
+«Terzo e ultimo,» disse il sacerdote, guardandolo con gravità.
+
+«Sì,» disse Boyne.  «Gli altri due sono morti.»  Vi fu un [[Silence|silenzio]]
+prima che egli riprendesse.  «È qui che entra in gioco il dubbio.
+Non vi è prova che siano stati assassinati, ma è possibile
+che lo siano stati.  Il maggiore, che aveva assunto la posizione di signorotto,
+si suppone si sia suicidato nel suo giardino.
+Il secondo, che si era dato al commercio come fabbricante,
+fu colpito alla testa dai macchinari della sua fabbrica;
+potrebbe benissimo aver messo un piede in fallo ed essere caduto.
+Ma se Strake li ha davvero uccisi, è certo assai scaltro nel suo
+modo di agire e di dileguarsi.  D'altra parte,
+è più che probabile che l'intera faccenda sia una mania di cospirazione
+fondata su una coincidenza.  Senta, ecco che cosa voglio.
+Voglio qualcuno di buon senso, che non sia un funzionario, che salga a fare
+quattro chiacchiere con questo signor Arnold Aylmer e si formi un'impressione di lui.
+Lei sa com'è fatto un uomo in preda a un delirio, e come appare un uomo
+quando dice la verità.  Voglio che lei sia l'avanguardia,
+prima che noi prendiamo in mano la faccenda.»
+
+«Pare piuttosto strano,» disse [[Father Brown]], «che lei non abbia dovuto
+prenderla in mano prima.  Se c'è qualcosa in questa faccenda,
+sembra andare avanti da parecchio tempo.  C'è
+qualche ragione particolare per cui egli dovrebbe mandare a chiamarla proprio adesso,
+più che in qualsiasi altro momento?»
+
+«Ci avevo pensato, come può immaginare,» rispose il dottor Boyne.
+«Una ragione la dà, ma confesso che è una di quelle cose che mi fanno
+domandare se l'intera storia non sia soltanto il capriccio di qualche
+mezzo matto svitato.  Ha dichiarato che tutta la sua servitù se n'è andata all'improvviso
+in sciopero, abbandonandolo, sicché egli è costretto a ricorrere alla polizia perché
+custodisca la sua casa.  E, facendo indagini, trovo per l'appunto che vi è stato
+un vero e proprio esodo generale di servitori da quella casa sulla collina; e
+naturalmente la città è piena di dicerie, dicerie assai unilaterali, oserei dire.
+Il loro resoconto pare essere che il loro datore di lavoro fosse diventato del tutto
+insopportabile nelle sue smanie, nelle sue paure e nelle sue pretese; che volesse che
+gli facessero la guardia alla casa come sentinelle, o che vegliassero come infermiere
+notturne in un ospedale; che non potessero mai essere lasciati soli, perché egli non
+doveva mai essere lasciato solo.
+Così tutti proclamarono a gran voce che era un pazzo, e se ne andarono.
+Naturalmente ciò non prova che sia un pazzo; ma pare piuttosto bizzarro
+di questi tempi che un uomo si aspetti che il suo cameriere o la sua domestica facciano
+da guardia armata.»

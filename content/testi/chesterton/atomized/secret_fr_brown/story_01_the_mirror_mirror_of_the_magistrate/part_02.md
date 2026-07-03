@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/secret-fr-brown-(chesterton)">secret Fr Brown</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/secret_fr_brown/story_01_the_mirror_mirror_of_the_magistrate/part_01">‹ part 01</a><a class="ex-next" href="/testi/chesterton/atomized/secret_fr_brown/story_01_the_mirror_mirror_of_the_magistrate/part_03">part 03 ›</a></div>
@@ -124,3 +126,54 @@ seemed strangely congruous to that incongruity. It was a stumpy figure
 with a round face and a hat like a black halo. He realized that it was,
 in fact, a priest; but there was something about it that reminded him of
 some quaint old black woodcut at the end of a [[Dance of Death]].
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/secret-fr-brown-(chesterton)">secret Fr Brown</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/secret_fr_brown/story_01_the_mirror_mirror_of_the_magistrate/part_01">‹ part 01</a><a class="ex-next" href="/testi/chesterton/atomized/secret_fr_brown/story_01_the_mirror_mirror_of_the_magistrate/part_03">part 03 ›</a></div>
+</nav>
+
+«Una specie di segnali rossi di pericolo», suggerì l'altro.
+
+«Santo cielo! Temo proprio che siano segnali di pericolo!» E d'un tratto si mise a correre.
+
+Un istante dopo Underhill vide ciò che l'altro aveva visto. L'anello opalescente di luce, simile all'alone della [[Moon|luna]], che cingeva le sponde in pendio dello stagno, era interrotto da due strisce nere, due solchi, che ben presto si rivelarono le lunghe gambe nere di una figura precipitata a testa in giù nella conca, con il capo dentro lo stagno.
+
+«Andiamo», gridò il [[Detective|detective]] con voce tagliente, «quello a me sembra proprio...»
+
+La sua voce si perse, mentre correva attraverso l'ampio prato, debolmente luminoso nella luce artificiale, tagliando in linea retta il grande [[Garden|giardino]] verso lo specchio d'acqua e la figura riversa. Underhill trotterellava con costanza lungo quella traiettoria diritta, quando accadde qualcosa che per un momento lo colse di sorpresa. Bagshaw, che avanzava impassibile come una pallottola verso la figura nera presso lo stagno luminoso, deviò improvvisamente con un angolo netto e prese a correre ancora più rapidamente verso l'[[Shadow|ombra]] della [[house|casa]]. Underhill non riusciva a immaginare che cosa significasse quel cambio di direzione. L'attimo dopo, quando il [[Detective|detective]] fu scomparso nell'[[Shadow|ombra]] della [[house|casa]], da quell'oscurità venne il rumore di una colluttazione e un'imprecazione; e Bagshaw tornò trascinandosi dietro un ometto dai capelli rossi che si dibatteva. Il prigioniero stava evidentemente fuggendo al riparo dell'edificio, quando l'orecchio più fine del [[Detective|detective]] lo aveva udito frusciare come un uccello tra i cespugli.
+
+«Underhill», disse il [[Detective|detective]], «vorrei che corresse a vedere che cosa è successo laggiù, presso lo stagno. E ora, chi siete voi?» chiese, fermandosi di colpo. «Come vi chiamate?»
+
+«[[Michael]] Flood», disse lo sconosciuto in tono brusco. Era un ometto innaturalmente magro, con un naso adunco troppo grande per il suo volto, che era incolore, come pergamena, in contrasto con il color zenzero dei capelli. «Io non c'entro nulla con questa faccenda. L'ho trovato morto e mi sono spaventato; ma ero venuto soltanto per intervistarlo per un giornale.»
+
+«Quando intervistate le celebrità per la stampa», disse Bagshaw, «di solito scavalcate il muro del [[Garden|giardino]]?»
+
+E indicò con aria torva una scia di orme che andavano e venivano lungo il sentiero verso l'aiuola.
+
+L'uomo che si faceva chiamare Flood assunse un'espressione altrettanto torva.
+
+«Un intervistatore potrebbe anche [[Well|benissimo]] scavalcare un muro», disse, «perché non riuscivo a farmi sentire da nessuno alla porta d'ingresso. Il domestico era uscito.»
+
+«Come sapete che era uscito?» chiese il [[Detective|detective]] con sospetto.
+
+«Perché», disse Flood, con una calma quasi innaturale, «non sono l'unico a scavalcare i muri dei [[Garden|giardini]]. Sembra possibilissimo che lo abbiate fatto anche voi. Ma, a ogni modo, il domestico l'ha fatto; perché proprio in questo istante l'ho visto calarsi dal muro, laggiù dall'altra parte del [[Garden|giardino]], proprio accanto alla porta del [[Garden|giardino]].»
+
+«E allora perché non ha usato la porta del [[Garden|giardino]]?» incalzò l'inquisitore [[Cross|serrato]].
+
+«E come faccio a saperlo?» ribatté Flood. «Perché era chiusa, immagino. Ma è meglio che lo chiediate a lui, non a me; sta venendo verso la [[house|casa]] proprio in questo momento.»
+
+C'era, in effetti, un'altra figura d'ombra che cominciava a rendersi visibile attraverso la penombra trapunta di [[Fire|fuoco]], una figura tozza e dalla testa quadra, che indossava un panciotto rosso come l'elemento più vistoso di una livrea piuttosto malandata. Sembrava dirigersi con discreta premura verso una porta laterale della [[house|casa]], finché Bagshaw non lo apostrofò gridandogli di fermarsi. Si avvicinò a loro con grande riluttanza, rivelando un volto pesante e giallastro, con un che di asiatico che ben si accordava con i suoi capelli piatti, di un nero bluastro.
+
+Bagshaw si voltò bruscamente verso l'uomo chiamato Flood. «C'è qualcuno, qui», disse, «che possa testimoniare la vostra [[Identity|identità]]?»
+
+«Non molti, nemmeno in questo Paese», brontolò Flood. «Sono appena arrivato dall'Irlanda; l'unico uomo che conosco da queste parti è il prete della chiesa di San Domenico: [[Father Brown|padre Brown]].»
+
+«Nessuno dei due deve lasciare questo luogo», disse Bagshaw, e poi aggiunse rivolto al domestico: «Ma tu puoi entrare in [[house|casa]] e telefonare alla canonica di San Domenico e chiedere a [[Father Brown|padre Brown]] se gli dispiacerebbe venire qui subito. Niente scherzi, mi raccomando.»
+
+Mentre l'energico [[Detective|detective]] metteva in sicurezza i potenziali fuggitivi, il suo compagno, per sua indicazione, si era affrettato verso la scena vera e propria della [[Tragedy|tragedia]]. Era una scena abbastanza strana; e, in verità, se la [[Tragedy|tragedia]] non fosse stata tragica sarebbe stata altamente fantastica. Il morto (poiché il più breve esame lo dimostrò morto) giaceva con la testa nello stagno, dove il bagliore dell'illuminazione artificiale cingeva il capo con qualcosa che aveva l'aspetto di un alone empio. Il volto era scarno e piuttosto sinistro, la fronte calva, e i radi riccioli grigio scuro, come anelli di ferro; e, nonostante il danno prodotto dalla ferita di pallottola alla tempia, Underhill non ebbe difficoltà a riconoscere i lineamenti che aveva visto nei molti ritratti di Sir Humphrey Gwynne. Il morto era in abito da sera, e le sue lunghe gambe nere, tanto esili da parere quasi ragnesche, erano scomposte in angoli diversi su per la ripida sponda dalla quale era caduto. Come per un bizzarro capriccio di arabesco diabolico, il [[Blood|sangue]] usciva vorticando, molto lentamente, nell'[[Water|acqua]] luminosa in anelli serpentini, simili al cremisi trasparente delle nubi al tramonto.
+
+Underhill non seppe per quanto tempo rimase a fissare quella figura macabra, quando alzò lo sguardo e vide un gruppo di quattro figure ritte sopra di lui, sulla sponda. Era preparato a Bagshaw e al suo prigioniero irlandese, e non ebbe difficoltà a indovinare la condizione del domestico dal panciotto rosso. Ma la quarta figura aveva una sorta di [[Grotesque|grottesca]] solennità che sembrava stranamente congrua a quell'incongruità. Era una figura tarchiata, con un viso rotondo e un cappello come un alone nero. Comprese che si trattava, in effetti, di un prete; ma c'era in lui qualcosa che gli ricordava una di quelle bizzarre, vecchie xilografie in fondo a una [[Dance of Death|Danza della Morte]].

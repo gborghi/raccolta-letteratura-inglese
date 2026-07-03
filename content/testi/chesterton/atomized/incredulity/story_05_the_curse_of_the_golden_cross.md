@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/incredulity-(chesterton)">Incredulity</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/incredulity/story_04_the_miracle_of_moon_crescent">‹ Story 04 The Miracle of Moon Crescent</a><a class="ex-next" href="/testi/chesterton/atomized/incredulity/story_06_the_dagger_with_wings">Story 06 The Dagger with Wings ›</a></div>
@@ -1101,3 +1103,377 @@ while ago it had forgotten war.'
 underground again, but it will come up into the daylight once more.
 As St Antony of Padua humorously remarked, `It is only fishes
 who survive the Deluge.'`
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/incredulity-(chesterton)">Incredulity</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/incredulity/story_04_the_miracle_of_moon_crescent">‹ Story 04 The Miracle of Moon Crescent</a><a class="ex-next" href="/testi/chesterton/atomized/incredulity/story_06_the_dagger_with_wings">Story 06 The Dagger with Wings ›</a></div>
+</nav>
+
+QUINTO: La maledizione della Croce d'oro
+
+Sei persone sedevano attorno a un tavolino, con un'aria quasi tanto stonata e casuale quanto se fossero naufragate ciascuna per proprio conto sulla medesima piccola isola deserta. Almeno il mare le circondava; giacché, in un certo senso, la loro isola era racchiusa dentro un'altra isola, un'isola grande e volante come Laputa. Poiché il tavolino era uno dei molti tavolini disseminati per la sala da pranzo di quel colossale piroscafo, il Moravia, che filava attraverso la notte e l'eterno vuoto dell'Atlantico. La piccola compagnia non aveva nulla in comune, se non che tutti facevano rotta dall'America verso l'Inghilterra. Due di loro, almeno, potevano dirsi celebrità; altri potevano dirsi oscuri, e in un caso o due persino equivoci.
+
+Il primo era il celebre professor Smaill, un'autorità in certi studi archeologici concernenti il tardo Impero bizantino. Le sue lezioni, tenute in un'università americana, erano accolte come di prim'ordine perfino nelle più autorevoli sedi del sapere europee. Le sue opere letterarie erano così pervase da una matura e fantasiosa simpatia per il passato europeo, che spesso faceva trasalire gli estranei sentirlo parlare con accento americano. Eppure, a suo modo, era assai americano; portava lunghi capelli biondi ravviati all'indietro da una grande fronte quadrata, aveva lineamenti lunghi e diritti e una curiosa mescolanza di assorto raccoglimento e di prontezza pronta a scattare, come un leone che rimugini distrattamente sul suo prossimo balzo.
+
+Nel gruppo vi era una sola signora; ed ella era (come i giornalisti dicevano spesso di lei) una folla in una persona sola, sempre pronta a fare da padrona di casa, per non dire da imperatrice, a quel tavolo come a qualunque altro. Era Lady Diana Wales, la celebre viaggiatrice per paesi tropicali e non; ma non v'era nulla di rude o di mascolino nel suo aspetto a tavola. Era bella, di una bellezza quasi tropicale, con una massa di capelli rossi, caldi e pesanti; era vestita in quella che i giornalisti chiamano una foggia ardita, ma il suo viso era intelligente e i suoi occhi avevano quell'aria vivace e piuttosto sporgente che appartiene agli occhi delle signore che fanno domande alle riunioni politiche.
+
+Le altre quattro figure parvero dapprima come ombre in questa presenza sfolgorante; ma, a guardarle da vicino, mostravano le loro differenze. Uno di loro era un giovane iscritto sul registro della nave come Paul T. Tarrant. Era un tipo americano che si potrebbe più giustamente chiamare un antitipo americano. Ogni nazione ha probabilmente il suo antitipo: una sorta di eccezione estrema che conferma la regola nazionale. Gli americani rispettano davvero il lavoro, un po' come gli europei rispettano la guerra. Vi è attorno ad esso un'aureola di eroismo; e chi se ne ritrae è meno di un uomo. L'antitipo risalta appunto per la sua estrema rarità. È il dandy, il bellimbusto: il ricco scioperato che offre un debole cattivo a tanti romanzi americani. Paul Tarrant pareva non avere assolutamente nulla da fare se non cambiarsi d'abito, cosa che faceva circa sei volte al giorno; passando a sfumature più pallide o più intense del suo completo di squisito grigio chiaro, come le delicate variazioni argentee del crepuscolo. Diversamente dalla maggior parte degli americani, coltivava con gran cura una barba corta e riccia; e, diversamente dalla maggior parte dei dandy, anche del suo stesso genere, pareva più imbronciato che vanesio. Forse v'era qualcosa di quasi byroniano nel suo silenzio e nella sua tetraggine.
+
+I due viaggiatori seguenti venivano naturalmente accomunati; e ciò per il solo fatto che erano entrambi conferenzieri inglesi di ritorno da una tournée americana. Uno di loro era indicato come Leonard Smyth, a quanto pareva un poeta minore, ma qualcosa come un giornalista maggiore; testa allungata, capelli chiari, vestito alla perfezione e perfettamente in grado di badare a sé stesso. L'altro offriva un contrasto piuttosto comico, essendo basso e tozzo, con un nero paio di baffi da tricheco, e taciturno tanto quanto l'altro era loquace. Ma poiché era stato tanto accusato di aver derubato quanto lodato per aver salvato una principessa rumena minacciata da un giaguaro del suo serraglio ambulante, e aveva così figurato in un processo mondano, si riteneva naturalmente che le sue opinioni su Dio, sul progresso, sulla propria giovinezza e sull'avvenire dei rapporti anglo-americani sarebbero riuscite di grande interesse e valore per gli abitanti di Minneapolis e di Omaha. La sesta e più insignificante figura era quella di un piccolo prete inglese che rispondeva al nome di Brown. Egli ascoltava la conversazione con rispettosa attenzione, e proprio in quel momento andava formandosi l'impressione che vi fosse una cosa piuttosto curiosa a suo riguardo.
+
+«Immagino che questi vostri studi bizantini, professore» stava dicendo Leonard Smyth, «getterebbero un po' di luce su questa storia di una tomba scoperta chissà dove sulla costa meridionale; vicino a Brighton, non è così? Brighton è ben lontana da Bisanzio, s'intende. Ma ho letto qualcosa a proposito dello stile di sepoltura, o di imbalsamazione, o che so io, che si suppone sia bizantino.»
+
+«Gli studi bizantini devono di certo spingersi molto lontano» rispose [[The Professor|il professore]] con tono asciutto. «Parlano tanto di specialisti; ma io credo che la cosa più difficile al mondo sia specializzarsi. Prendete questo caso, per esempio: come può un uomo sapere qualcosa di Bisanzio, finché non sa tutto di Roma che la precedette e dell'Islam che la seguì? La maggior parte delle arti arabe erano antiche arti bizantine. Ma via, prendete l'algebra...»
+
+«Ma io non prenderò affatto l'algebra» esclamò la signora con tono risoluto. «Non l'ho mai fatto, e non lo farò mai. Sono però tremendamente interessata all'imbalsamazione. Ero con Gatton, sapete, quando aprì le tombe babilonesi. Da allora ho trovato mummie e corpi conservati e tutto quel genere di cose semplicemente elettrizzanti. Raccontateci di questa, vi prego.»
+
+«Gatton era un uomo interessante» disse il professore. «Erano una famiglia interessante. Quel suo fratello che entrò in Parlamento fu ben più di un comune politicante. Non capii mai i fascisti finché egli non tenne quel discorso sull'[[Italy|Italia]].»
+
+«Be', in questo viaggio non andiamo mica in Italia» disse Lady Diana con insistenza, «e credo che voi siate diretto a quel paesino dove hanno trovato la tomba. Nel Sussex, non è vero?»
+
+«Il Sussex è piuttosto vasto, per queste piccole contrade inglesi» rispose il professore. «Ci si potrebbe girovagare per un bel [[Time|po' di tempo]]; ed è un buon luogo dove girovagare. È straordinario come sembrino grandi quelle basse colline, quando ci si sta sopra.»
+
+Vi fu un [[Silence|silenzio]] improvviso e casuale; poi la signora disse: «Oh, salgo in coperta», e si alzò, mentre gli uomini si alzavano con lei. Ma il Professore si attardò e il piccolo prete fu l'ultimo a lasciare la tavola, ripiegando con cura il tovagliolo. E quando furono così rimasti soli, il Professore disse d'un tratto al suo commensale:
+
+«Che cosa direbbe fosse il senso di quella nostra piccola conversazione?»
+
+«Ebbene», rispose padre Brown sorridendo, «giacché me lo chiede, c'è stato qualcosa che mi ha un poco divertito. Posso sbagliarmi; ma mi è parso che la compagnia abbia fatto tre tentativi per indurla a parlare di un certo [[Body|corpo]] imbalsamato che si dice sia stato ritrovato nel Sussex. E lei, dal canto suo, si è offerto con somma cortesia di discorrere: prima di algebra, poi dei Fascisti, e infine del paesaggio delle Downs.»
+
+«In breve», replicò il Professore, «lei ha pensato che io fossi pronto a parlare di qualsiasi argomento fuorché di quello. Aveva perfettamente ragione.»
+
+[[The Professor|Il Professore]] rimase in silenzio per un poco di [[Time|tempo]], lo sguardo abbassato sulla tovaglia; poi alzò gli occhi e parlò con quella rapida impulsività che faceva pensare al balzo del [[Lion|leone]].
+
+«Mi ascolti, padre Brown», disse, «io la considero l'uomo più saggio e più candido che io abbia mai incontrato.»
+
+[[Father Brown]] era molto inglese. Possedeva tutta la normale impotenza nazionale sul da farsi quando un complimento serio e sincero gli viene d'improvviso rivolto in faccia, alla maniera americana. La sua risposta fu un mormorio privo di senso; e fu [[The Professor|il Professore]] a proseguire, con la medesima serietà staccata: «Vede, fino a un certo punto la faccenda è abbastanza semplice. Una tomba cristiana dell'Alto Medioevo, apparentemente quella di un vescovo, è stata rinvenuta sotto una chiesetta a Dulham, sulla costa del Sussex. Il vicario si dà il caso sia egli stesso un discreto archeologo, ed è riuscito a scoprire ben più di quanto io sappia ancora. Correva voce che il cadavere fosse imbalsamato in una maniera propria dei Greci e degli Egizi, ma ignota in Occidente, e specialmente a quell'epoca. Sicché il signor Walters (è questi il vicario) si interroga naturalmente su eventuali influssi bizantini. Ma egli menziona anche qualcos'altro, che riveste per me un interesse persino più personale.»
+
+Il suo lungo volto grave parve farsi ancor più lungo e più grave mentre aggrottava la fronte fissando la tovaglia. Il suo lungo dito pareva tracciarvi sopra dei disegni, come le piante di città morte con i loro templi e i loro sepolcri.
+
+«Le dirò dunque, e a nessun altro, perché io debba andar cauto nel menzionare quella faccenda in compagnia mista; e perché, quanto più gli altri smaniano di parlarne, tanto più io debba stare in guardia. Si afferma inoltre che nella bara vi sia una catena con una [[Cross|croce]], abbastanza comune a vedersi, ma recante sul retro un certo simbolo segreto che si ritrova su una sola altra [[Cross|croce]] al mondo. Proviene dagli arcani della Chiesa delle primissime origini, e si suppone indichi san Pietro nell'atto di fondare la sua Sede ad Antiochia, prima di venire a Roma. In ogni modo, credo non ve ne sia che un'altra simile, ed essa appartiene a me. Ho sentito dire che vi sia intorno una storia di maledizione; ma non ci bado. Comunque, che ci sia o no una maledizione, c'è davvero, in un certo senso, una cospirazione; per quanto la cospirazione possa consistere in un uomo solo.»
+
+«In un uomo solo?» ripeté padre Brown quasi meccanicamente.
+
+«In un pazzo solo, per quel che ne so», disse il professor Smaill. «È una lunga storia, e per certi versi una storia sciocca.»
+
+Tornò a fare una pausa, tracciando piante come disegni architettonici col dito sulla tovaglia, e poi riprese: «Forse è meglio che gliela racconti dal principio, nel caso lei scorga nella vicenda qualche particolare che a me sfugge di senso. Cominciò tanti e tanti anni fa, quando conducevo per conto mio certe indagini sulle antichità di Creta e delle isole greche. Feci gran parte del lavoro praticamente da solo; talora col più rozzo e provvisorio aiuto degli abitanti del luogo, e talora letteralmente [[Alone|solo]]. Fu in quest'ultima circostanza che scoprii un dedalo di passaggi sotterranei che conducevano infine a un cumulo di ricche rovine, ornamenti spezzati e gemme sparse, che presi per i resti di un qualche altare sprofondato, e fra i quali rinvenni la curiosa [[Cross|croce]] d'oro. La rigirai, e sul retro vidi l'Ichthys, ovvero il pesce, che era un antico simbolo cristiano, ma di forma e disegno alquanto diversi da quelli comunemente riscontrati; e, a quanto mi parve, più realistici: quasi che l'arcaico disegnatore avesse inteso farne non già un mero recinto o nimbo convenzionale, ma qualcosa che rassomigliasse un poco di più a un pesce vero. Mi parve di scorgere, verso un'estremità, uno schiacciamento che non aveva nulla della semplice decorazione matematica, ma somigliava piuttosto a una sorta di zoologia rozza, anzi selvaggia.
+
+«Per spiegarle in poche parole perché ritenni importante questo ritrovamento, devo dirle il fine di quello scavo. Anzitutto, esso aveva qualcosa della natura di uno scavo di uno scavo. Non eravamo sulle tracce soltanto delle antichità, ma degli antiquari dell'antichità. Avevamo ragione di credere, o alcuni di noi credevano di aver ragione di credere, che quei passaggi sotterranei, per lo più del periodo minoico, come quel famoso che è addirittura identificato col labirinto del Minotauro, non fossero realmente rimasti perduti e indisturbati per tutti i secoli intercorsi tra il Minotauro e l'esploratore moderno. Credevamo che quei luoghi sotterranei, direi quasi quelle città e villaggi sotterranei, fossero già stati penetrati, nel periodo frapposto, da alcune persone spinte da un qualche movente. Sul movente si contrapponevano diverse scuole di pensiero: alcuni sostenevano che gli Imperatori avessero ordinato un'esplorazione ufficiale per mera curiosità scientifica; altri che la furiosa moda, nel tardo Impero romano, per ogni sorta di torbide superstizioni asiatiche avesse spinto qualche innominata setta manichea o simile a darsi al baccano in quelle caverne, in orge che bisognava tenere nascoste alla faccia del sole. Io appartengo al gruppo che credeva quelle caverne fossero state usate nello stesso modo delle catacombe. Vale a dire, credevamo che, durante alcune delle persecuzioni che si propagavano come un incendio su tutto l'Impero, i Cristiani si fossero nascosti in quegli antichi labirinti pagani di pietra. Fu dunque con un brivido acuto come un tuono che trovai e raccolsi la croce d'oro caduta a terra e ne vidi il disegno; e fu con un fremito di felicità ancor più forte che, voltandomi per riprendere il cammino verso l'esterno e verso l'alto, verso la luce del giorno, alzai lo sguardo alle pareti di nuda roccia che si estendevano senza fine lungo i bassi passaggi, e vidi, graffiata in un contorno ancor più rozzo, ma se possibile ancor più inconfondibile, la forma del Pesce.
+
+«Qualcosa in esso lo faceva sembrare un pesce fossile o un qualche organismo rudimentale fissato per sempre in un mare gelato. Non riuscivo ad analizzare questa analogia, per il resto priva di ogni legame con un semplice disegno graffiato sulla pietra, finché non compresi che nel mio subconscio andavo ripetendo che i primi cristiani dovevano essere apparsi qualcosa di simile a pesci, muti e abitanti di un mondo decaduto, fatto di penombra e [[Silence|silenzio]], sprofondati assai al di sotto dei piedi degli uomini e moventisi in un mondo oscuro, crepuscolare e senza suono.
+
+«Chiunque cammini lungo corridoi di pietra sa che cosa significhi essere seguìto da passi fantasma. L'eco insegue, battendo o schioccando dietro o davanti, così che è quasi impossibile, per l'uomo veramente solo, credere alla propria solitudine. Mi ero abituato agli effetti di quest'eco e da qualche tempo non vi facevo più molto caso, quando scorsi la forma simbolica scarabocchiata sulla parete di roccia. Mi fermai, e nello stesso istante mi parve che anche il cuore mi si arrestasse; perché i miei piedi si erano fermati, ma l'eco continuava a marciare.
+
+«Mi lanciai in avanti, e parve che anche i passi spettrali si mettessero a correre, ma non con quell'esatta [[Imitation|imitazione]] che contraddistingue la ripercussione materiale di un suono. Mi fermai di nuovo, e anche i passi si fermarono; ma avrei giurato che si fermassero un istante troppo tardi; gridai una domanda, e al mio grido fu data risposta; ma la voce non era la mia.
+
+«Veniva da dietro lo spigolo di una roccia proprio dinanzi a me; e per tutta quella caccia sinistra notai che era sempre a un simile angolo del sentiero tortuoso che essa si arrestava e parlava. Il piccolo spazio davanti a me che la mia minuscola torcia elettrica riusciva a illuminare era sempre vuoto come una stanza vuota. In tali condizioni ebbi una conversazione con non so chi, che durò per tutto il tragitto fino al primo bianco baluginare della luce del giorno, e nemmeno là riuscii a vedere in che modo egli svanisse nella luce del giorno. Ma la bocca del labirinto era piena di aperture, di fenditure e di voragini, e non gli sarebbe stato difficile guizzare in qualche modo all'indietro e sparire di nuovo nel mondo sotterraneo delle caverne. So soltanto che sbucai sui gradini solitari di una gran montagna, simili a una terrazza di marmo, variata unicamente da una verde vegetazione che pareva in qualche modo più tropicale della purezza della roccia, come l'invasione orientale che si è diffusa sporadicamente sulla caduta della classica Ellade. Mi affacciai su un mare d'azzurro immacolato, e il sole splendeva costante su una solitudine e un silenzio assoluti; e non c'era un filo d'erba mosso da un sussurro di fuga, né l'ombra dell'ombra di un uomo.
+
+«Era stata una conversazione terribile; così intima e così personale e, in un certo senso, così noncurante. Questo essere, senza corpo, senza volto, senza nome, e che pure mi chiamava per nome, mi aveva parlato in quelle cripte e in quelle fenditure dove eravamo sepolti vivi con non più passione o [[Melodrama|melodramma]] che se fossimo stati seduti in due poltrone di un club. Ma mi aveva anche detto che avrebbe indubbiamente ucciso me, o qualunque altro uomo fosse entrato in possesso della [[Cross|croce]] con il segno del pesce. Mi disse francamente che non era così [[Fool|sciocco]] da assalirmi lì nel labirinto, sapendo che avevo una rivoltella carica, e che egli correva tanto rischio quanto me. Ma mi disse, con eguale calma, che avrebbe pianificato il mio assassinio con la certezza del [[success|successo]], con ogni dettaglio elaborato e ogni pericolo scongiurato, con quella sorta di perfezione artistica che un artigiano cinese o un ricamatore indiano conferisce all'opera artistica di un'intera [[Time|vita]]. Eppure non era un orientale; sono certo che fosse un uomo bianco. Sospetto che fosse un mio connazionale.
+
+«Da allora ho ricevuto di tanto in tanto segni e simboli e strani messaggi impersonali che mi hanno reso certo, quanto meno, che se quell'uomo è un maniaco, è un monomaniaco. Continua a dirmi, in quel modo aereo e distaccato, che i preparativi per la mia morte e la mia sepoltura procedono in maniera soddisfacente; e che l'unico modo in cui posso impedire che siano coronati da un comodo successo è cedere la reliquia in mio possesso — la croce unica che trovai nella caverna. Non pare nutrire alcun sentimento religioso o fanatismo in proposito; pare non avere altra passione che quella di un collezionista di curiosità. È una delle cose che mi fanno sentire sicuro che sia un uomo dell'Occidente e non dell'Oriente. Ma questa particolare curiosità pare averlo fatto impazzire del tutto.
+
+«E poi giunse questa notizia, ancora non confermata, riguardo alla reliquia gemella rinvenuta su un [[Body|corpo]] imbalsamato in una tomba del Sussex. Se prima era stato un maniaco, questa notizia lo trasformò in un indemoniato posseduto da sette diavoli. Che ve ne fosse una appartenente a un altro uomo era già abbastanza grave, ma che ve ne fossero due e nessuna delle due appartenesse a lui era una tortura insopportabile. I suoi folli messaggi cominciarono a giungere fitti e rapidi come rovesci di frecce avvelenate, e ciascuno gridava con più sicurezza del precedente che la [[Death|morte]] mi avrebbe colpito nell'istante in cui avessi teso la mia indegna mano verso la [[Cross|croce]] nella tomba.
+
+«“Non mi conoscerai mai,” scrisse, “non pronuncerai mai il mio nome; non vedrai mai il mio volto; morirai, e non saprai mai chi ti ha ucciso. Posso trovarmi in qualunque forma tra quelle che ti circondano; ma sarò in quella soltanto verso cui ti sei dimenticato di guardare.”
+
+«Da queste minacce deduco che è assai probabile che mi [[Shadow|pedini]] in questa spedizione, e che cerchi di rubare la reliquia o di farmi qualche danno per il fatto che la possiedo. Ma poiché non ho mai visto quell'uomo in vita mia, egli può essere quasi chiunque io incontri. Logicamente parlando, può essere uno qualunque dei camerieri che mi servono a tavola. Può essere uno qualunque dei passeggeri che siedono con me a tavola.»
+
+«Può essere me» disse Padre Brown, con allegro disprezzo per la grammatica.
+
+«Può essere chiunque altro» rispose Smaill con serietà. «È questo che intendevo con ciò che ho detto poco fa. Lei è l'unico uomo di cui mi senta sicuro che non sia il nemico.»
+
+Padre Brown parve di nuovo imbarazzato; poi sorrise e disse: «[[Well|Ebbene]], per quanto strano possa sembrare, non lo sono. Ciò che dobbiamo considerare è se vi sia qualche possibilità di scoprire se egli è davvero qui prima che — prima che si renda sgradevole.»
+
+«C'è un modo per scoprirlo, credo» osservò il Professore con una certa cupezza. «Quando arriveremo a Southampton, prenderò subito un'automobile e mi dirigerò lungo la costa; sarei lieto se voleste accompagnarmi, ma in senso ordinario, s'intende, la nostra piccola compagnia si scioglierà. Se qualcuno di loro dovesse ricomparire in quel piccolo cimitero sulla costa del Sussex, sapremo chi egli sia davvero.»
+
+Il programma del [[The Professor|Professore]] fu debitamente eseguito, almeno per quanto riguardava l'automobile e il suo carico nella persona di [[Father Brown|Padre Brown]]. Costeggiarono la [[Road|strada]] con il mare da un lato e le colline dell'Hampshire e del Sussex dall'altro; né apparve all'occhio [[Shadow|ombra]] alcuna d'inseguimento. Mentre si avvicinavano al villaggio di Dulham, un solo uomo incrociò il loro cammino che avesse qualche legame con la questione in corso: un giornalista che aveva appena visitato la chiesa ed era stato cortesemente accompagnato dal vicario attraverso la cappella di recente scavata; ma le sue osservazioni e i suoi appunti parevano del comune genere giornalistico. Eppure il Professor Smaill era forse un po' fantasioso, e non riusciva a scacciare la sensazione di qualcosa di strano e scoraggiante nell'atteggiamento e nell'aspetto di quell'uomo, alto e trasandato, dal naso adunco e dagli occhi infossati, con i baffi che pendevano avviliti. Sembrava tutt'altro che rallegrato dal suo recente esperimento di turista; anzi, pareva allontanarsi il più rapidamente possibile da quella vista, quando lo fermarono con una domanda.
+
+«Si tratta tutto di una maledizione» disse; «una maledizione sul luogo, secondo la guida o il parroco o l'abitante più anziano o chiunque sia l'autorità in materia; e per la verità, ci si sente proprio così. Maledizione o non maledizione, sono contento di esserne uscito.»
+
+«Credete alle maledizioni?» chiese Smaill incuriosito.
+
+«Non credo a nulla; sono un giornalista» rispose quell'essere [[Melancholy|malinconico]]. «Boon, del Daily Wire. Ma c'è qualcosa di raccapricciante in quella cripta; e non negherò mai d'aver sentito un brivido.» E proseguì a grandi passi verso la stazione ferroviaria, accelerando ancora l'andatura.
+
+«Sembra un corvo o una cornacchia, quel tale» osservò Smaill mentre si volgevano verso il cimitero. «Come si dice, a proposito di un uccello di malaugurio?»
+
+Entrarono lentamente nel cimitero, gli occhi dell'antiquario americano che indugiavano con voluttà sul tetto isolato del portale coperto e sull'enorme, imperscrutabile massa nera del tasso, simile alla notte stessa che sfidasse la piena luce del giorno. Il sentiero saliva tra ondulati ripiani d'erba in cui le lapidi erano inclinate a ogni angolazione, come zattere di pietra sballottate su un mare verde, finché non giunse al crinale oltre il quale il grande mare stesso correva come una sbarra di ferro, con pallidi bagliori dentro simili all'acciaio. Quasi ai loro piedi la dura erba ispida si mutava in un ciuffo d'agrifoglio marino e finiva in sabbia grigia e gialla; e a un piede o due dall'agrifoglio, stagliata scura contro il mare d'acciaio, si ergeva una figura immobile. Se non fosse stato per le sue vesti grigio scuro, avrebbe potuto quasi essere la statua di qualche monumento sepolcrale. Ma Padre Brown riconobbe all'istante qualcosa nell'elegante curva delle spalle e nella sporgenza piuttosto imbronciata della corta barba in fuori.
+
+«Perbacco!» esclamò il [[The Professor|professore]] d'archeologia; «è quel tale, Tarrant, se lo si può chiamare un uomo. Avreste mai pensato, quando ne parlai sul piroscafo, che avrei ottenuto una risposta così pronta alla mia domanda?»
+
+«Temevo che poteste ottenerne fin troppe» rispose [[Father Brown|Padre Brown]].
+
+«Come, che cosa intendete dire?» s'informò il Professore, lanciandogli un'occhiata al di sopra della spalla.
+
+«Intendo» rispose l'altro con dolcezza «che mi è parso di udire delle voci dietro il tasso. Non credo che il signor Tarrant sia così solitario come sembra; oserei perfino dire, così solitario come ama sembrare.»
+
+Proprio mentre Tarrant si voltava lentamente col suo fare accigliato, ne venne la conferma. Un'altra voce, acuta e piuttosto dura, ma non per questo meno femminile, diceva con esperta ironia: «E come potevo sapere che sarebbe stato qui?» Al Professor Smaill fu chiaro che quell'allegra osservazione non era rivolta a lui; sicché fu costretto a concludere, con un certo sconcerto, che era presente addirittura una terza persona. Quando Lady [[Diana]] Wales uscì, raggiante e risoluta come sempre, dall'[[Shadow|ombra]] del tasso, egli notò con cupezza che aveva un'[[Shadow|ombra]] vivente tutta sua. La figura magra e azzimata di Leonard Smyth, quell'insinuante uomo di lettere, apparve immediatamente dietro la sagoma sgargiante di lei, sorridente, la testa un poco reclinata da un lato come quella d'un cane.
+
+«Diamine!» borbottò Smaill; «ma allora ci sono proprio tutti! O tutti tranne quel piccolo imbonitore dai baffi di tricheco.»
+
+Sentì [[Father Brown|Padre Brown]] ridere sommessamente al suo fianco; e in verità la situazione stava diventando qualcosa di più che ridicolo. Sembrava capovolgersi e rovinare loro attorno alle orecchie come un gioco di pantomima; poiché, proprio mentre il [[The Professor|Professore]] stava parlando, le sue parole avevano ricevuto la più comica delle smentite. La testa tonda con il [[Grotesque|grottesco]] nero mezzaluna di baffi era apparsa d'improvviso, e a quanto pareva da un buco nel terreno. Un istante dopo si resero conto che il buco era in realtà un buco assai grande, che immetteva in una scala a pioli discendente nelle viscere della terra; che era, di fatto, l'ingresso alla scena sotterranea che erano venuti a visitare. Il piccolo uomo era stato il primo a trovare l'ingresso, e aveva già disceso uno o due pioli della scala prima di sporgere di nuovo la testa per rivolgersi ai compagni di viaggio. Aveva l'aria di qualche [[Grave|becchino]] particolarmente assurdo in una parodia dell'[[Hamlet|Amleto]]. Disse soltanto, con voce impastata dietro i folti baffi: «È quaggiù.» Ma agli altri della comitiva venne, con un sussulto di consapevolezza, che, per quanto gli fossero seduti di fronte a tavola per una settimana, quasi mai l'avevano udito parlare prima; e che, benché lo si supponesse conferenziere inglese, egli parlava con un accento straniero piuttosto occulto.
+
+«Vedete, mio caro Professore» esclamò Lady [[Diana]] con incisiva allegria, «la vostra mummia bizantina era semplicemente troppo eccitante per lasciarsela sfuggire. Non potevo far altro che venire a vederla; e sono certa che i signori provavano esattamente lo stesso. Ora dovete raccontarci tutto quanto.»
+
+«Non so tutto di questa faccenda», disse [[The Professor|il Professore]] con gravità, per non dire con cupezza, «e sotto certi aspetti non so nemmeno di che cosa si tratti. Certo pare strano che ci siamo ritrovati tutti insieme così presto, ma suppongo che non vi siano limiti alla moderna sete di sapere. Se però dobbiamo davvero visitare tutti quel luogo, la cosa va fatta in maniera responsabile e, se mi permettete, sotto una guida responsabile. Dobbiamo avvertire chiunque sia incaricato degli scavi; con ogni probabilità dovremo perlomeno mettere il nostro nome su un registro.»
+
+A questo scontro fra l'impazienza della signora e i sospetti dell'archeologo seguì qualcosa che assomigliava assai a un battibecco; ma alla fine prevalse l'insistenza di quest'ultimo sui diritti ufficiali del Vicario e sull'indagine locale; l'ometto dai baffi uscì di malavoglia una seconda volta dalla sua fossa e acconsentì in silenzio a una discesa meno impetuosa. Per fortuna, a questo punto comparve il pastore in persona: un gentiluomo dai capelli grigi e di bell'aspetto, con una cadenza melanconica accentuata da un paio di occhiali a doppia lente; e mentre stabiliva rapidamente rapporti cordiali con il Professore in quanto collega antiquario, non sembrava considerare quel suo gruppo di compagni piuttosto variopinto con nulla di più ostile del divertimento.
+
+«[[Hope|Spero]] che nessuno di voi sia superstizioso», disse in tono affabile. «Devo dirvi, tanto per cominciare, che si suppone incombano ogni sorta di malaugurî e maledizioni sulle nostre devote teste in questa impresa. Ho appena finito di decifrare un'iscrizione latina rinvenuta sopra l'ingresso della cappella; e parrebbe che le maledizioni coinvolte non siano meno di tre: una maledizione per chi entra nella camera sigillata, una doppia maledizione per chi apre il feretro, e una tripla e terribilissima maledizione per chi tocca la reliquia d'oro trovata al suo interno. Le prime due maledizioni le ho già attirate su di me», soggiunse con un sorriso; «ma [[Fear|temo]] che perfino voi dovrete incorrere nella prima e più mite di esse, se volete vedere alcunché. Stando alla leggenda, le maledizioni scendono in modo piuttosto indugiante, a lunghi intervalli e in occasioni successive. Non so se questo vi sia di qualche conforto.» E il reverendo signor Walters sorrise ancora una volta nella sua maniera melanconica e benevola.
+
+«Leggenda», ripeté il professor Smaill, «ma insomma, quale leggenda?»
+
+«È una storia piuttosto lunga e mutevole, come le altre leggende locali», rispose il Vicario. «Ma è senza dubbio contemporanea all'[[Time|epoca]] della tomba; e la sua sostanza è racchiusa nell'[[Inscription|iscrizione]], e in linea di massima è questa. Guido de Gisors, signore di questo maniero nei primi anni del tredicesimo secolo, si era invaghito di un bel [[Horse|cavallo]] nero appartenente a un inviato genovese, cavallo che quel pratico principe mercante non voleva vendere se non a un prezzo enorme. L'avarizia spinse Guido al delitto di saccheggiare il santuario e, secondo una versione, perfino di uccidere il vescovo che allora vi risiedeva. Comunque sia, il vescovo pronunciò una maledizione che sarebbe caduta su chiunque avesse continuato a sottrarre la [[Cross|croce]] d'oro dal suo luogo di riposo nella tomba, o avesse osato turbarla una volta che vi fosse tornata. Il signore feudale raccolse il denaro per il [[Horse|cavallo]] vendendo la reliquia d'oro a un orefice della città; ma il primo giorno in cui montò il [[Horse|cavallo]], l'animale si impennò e lo disarcionò davanti al portico della chiesa, spezzandogli il collo. Nel frattempo l'orefice, fino allora ricco e prospero, fu rovinato da una serie di incidenti inspiegabili, e cadde in balìa di un usuraio ebreo che viveva nel maniero. Alla fine lo sventurato orefice, ridotto a non avere davanti a sé che la fame, si impiccò a un melo. La [[Cross|croce]] d'oro, insieme a tutti gli altri suoi beni, la sua [[house|casa]], la bottega e gli arnesi, era da tempo passata in possesso dell'usuraio. Frattanto il figlio ed erede del signore feudale, sconvolto dalla condanna che aveva colpito il suo empio genitore, era diventato un fervente devoto nello spirito tetro e severo di quei tempi, e si era convinto che fosse suo dovere perseguitare ogni eresia e miscredenza fra i suoi vassalli. Così l'ebreo, a sua volta, che il padre aveva cinicamente tollerato, fu spietatamente arso per ordine del figlio; sicché anch'egli, a sua volta, patì per il possesso della reliquia; e dopo queste tre condanne, la reliquia fu restituita alla tomba del vescovo; da allora nessun occhio l'ha veduta e nessuna mano l'ha toccata.»
+
+Lady [[Diana]] Wales parve più colpita di quanto ci si sarebbe potuti aspettare. «Fa davvero venire un certo brivido», disse, «pensare che saremo i primi, tranne il vicario.»
+
+Il pioniere dai grandi baffi e dall'inglese stentato non discese, dopo tutto, per la sua scala prediletta, che in realtà era stata usata soltanto da alcuni degli operai addetti agli scavi; poiché il pastore li condusse in giro fino a un ingresso più ampio e più comodo, un centinaio di metri più in là, dal quale egli stesso era appena riemerso dalle sue indagini sotterranee. Qui la discesa avveniva lungo un pendio abbastanza dolce, senza altre difficoltà che l'oscurità crescente; ben presto infatti si trovarono a procedere in fila indiana giù per una galleria nera come la pece, e passò un certo [[Time|tempo]] prima che scorgessero un barlume di luce davanti a sé. Una volta, durante quella marcia silenziosa, si udì un suono simile a un respiro trattenuto in gola, ed era impossibile dire di chi; e una volta risuonò un'imprecazione come una sorda esplosione, in una lingua sconosciuta.
+
+Sbucarono in una camera circolare, simile a una basilica, entro un anello di archi a tutto sesto; giacché quella cappella era stata edificata prima che il primo arco a sesto acuto del gotico trafiggesse come una lancia la nostra civiltà. Un barlume di luce verdastra fra alcuni dei pilastri segnava il punto dell'altra apertura sul mondo di sopra, e dava una vaga impressione di trovarsi sott'acqua, impressione accresciuta da una o due altre somiglianze accessorie e forse fantasiose. Il motivo a dente di cane dei Normanni si distingueva infatti debolmente intorno a tutti gli archi, conferendo loro, al di sopra della tenebra cavernosa, qualcosa dell'aspetto delle fauci di mostruosi squali. E al centro la mole oscura della tomba stessa, con il suo coperchio di pietra sollevato, avrebbe potuto quasi essere le mascelle di un simile leviatano.
+
+Sia per un senso di convenienza, sia per mancanza di apparecchiature più moderne, l'antiquario in abito talare aveva disposto che la cappella fosse illuminata soltanto da quattro alte candele infilate in grossi candelieri di legno posati sul pavimento. Di queste una sola era accesa quando essi entrarono, e spandeva un debole barlume sulle possenti forme architettoniche. Quando furono tutti radunati, l'ecclesiastico si accinse ad accendere le altre tre, e l'aspetto e il contenuto del grande sarcofago si offrirono più chiaramente alla vista.
+
+Tutti gli sguardi corsero dapprima al volto del morto, conservato attraverso tutti quei secoli nelle linee della vita per mezzo di qualche segreto procedimento orientale, si diceva, ereditato dall'antichità pagana e ignoto agli umili cimiteri della nostra isola. [[The Professor]] a stento riuscì a trattenere un'esclamazione di [[Wonder|meraviglia]]; poiché, sebbene il volto fosse pallido come una maschera di cera, per il resto sembrava quello di un uomo addormentato, che in quello stesso istante avesse chiuso gli occhi. Era un volto del tipo [[ascetic|ascetico]], forse persino fanatico, con un'alta impalcatura di ossa; la figura era ammantata in un piviale d'oro e in sontuosi paramenti, e in alto sul petto, alla base della gola, luccicava la famosa [[Cross|croce]] d'oro appesa a una corta catenella d'oro, o meglio a una collana. La bara di pietra era stata aperta sollevandone il coperchio dal lato del capo e puntellandolo in alto su due robuste stanghe o pertiche di legno, agganciate in cima sotto l'orlo della lastra superiore e incuneate in basso negli angoli della bara, dietro il capo del cadavere. Si potevano dunque scorgere meno i piedi o la parte inferiore della figura, ma la luce delle candele batteva in pieno sul volto; e, in contrasto con le sue tinte d'avorio morto, la [[Cross|croce]] d'oro pareva agitarsi e scintillare come un [[Fire|fuoco]].
+
+L'ampia fronte del professor Smaill portava un profondo solco di riflessione, o forse di preoccupazione, fin da quando l'ecclesiastico aveva raccontato la storia della maledizione. Ma l'intuito femminile, non immune da un'isteria pure femminile, comprese il senso di quella sua immobilità meditabonda meglio di quanto lo comprendessero gli uomini che gli stavano intorno. Nel [[Silence|silenzio]] di quella caverna illuminata dalle candele Lady [[Diana]] gridò a un tratto: «Non toccarla, ti dico!»
+
+Ma l'uomo aveva già compiuto uno dei suoi rapidi movimenti leonini, chinandosi in avanti sopra il corpo. L'istante seguente scattarono tutti, chi in avanti chi indietro, ma tutti con un terribile gesto di chi si abbassa di scatto, come se il cielo stesse crollando.
+
+Non appena il professore posò un dito sulla croce d'oro, i puntelli di legno, che si piegavano lievissimamente nel sostenere il coperchio di pietra sollevato, parvero sobbalzare e raddrizzarsi con uno strappo. L'orlo della lastra di pietra scivolò dal suo appoggio di legno; e in tutte le loro anime e in tutti i loro stomaci si insinuò una nauseante sensazione di rovina precipitante, come se fossero stati tutti scaraventati giù da un precipizio. Smaill aveva ritratto il capo con prontezza, ma non in tempo; e giaceva privo di sensi accanto alla bara, in una rossa pozza di sangue sgorgato dal cuoio capelluto o dal cranio. E l'antica bara di pietra era di nuovo chiusa come lo era stata per secoli; salvo che uno o due bastoni o schegge sporgevano dalla fessura, orribilmente evocatori di ossa stritolate da un orco. Il leviatano aveva serrato le sue fauci di pietra.
+
+Lady Diana fissava lo scempio con occhi che avevano un bagliore elettrico come di follia; i suoi capelli rossi parevano scarlatti contro il pallore del viso in quel crepuscolo verdastro. Smyth guardava lei, sempre con qualcosa di canino nell'inclinazione del capo; ma era l'espressione di un cane che guarda un padrone la cui catastrofe egli può comprendere solo in parte. Tarrant e lo straniero si erano irrigiditi nei loro consueti atteggiamenti imbronciati, ma i loro volti avevano assunto il colore dell'argilla. Il vicario pareva essere svenuto. Padre Brown era inginocchiato accanto alla figura caduta, e cercava di saggiarne le condizioni.
+
+Con sorpresa generale, il fannullone byroniano, Paul Tarrant, si fece avanti per aiutarlo.
+
+«Sarà meglio portarlo su, all'aria aperta» disse. «Suppongo che gli resti giusto una possibilità.»
+
+«Non è morto» disse [[Father Brown]] a voce bassa «ma temo che sia piuttosto grave; non sarà per caso un medico?»
+
+«No; ma nella mia [[Time|vita]] ho dovuto imparare parecchie cose» rispose l'altro. «Ma non pensi a me adesso. La mia vera professione probabilmente la sorprenderebbe.»
+
+«Non credo» replicò [[Father Brown]] con un lieve sorriso. «Ci ho pensato circa a metà della traversata. Lei è un investigatore che pedina qualcuno. Be', a ogni modo la croce è ormai al sicuro dai ladri.»
+
+Mentre parlavano, Tarrant aveva sollevato la fragile figura dell'uomo caduto con disinvolta forza e destrezza, e la trasportava con cautela verso l'uscita. Rispose voltando appena il capo:
+
+«Sì, la [[Cross|croce]] è abbastanza al sicuro.»
+
+«Vuol dire che nessun altro lo è» replicò Brown. «Pensa anche lei alla maledizione?»
+
+[[Father Brown]] andò in giro, per le due ore che seguirono, sotto un peso di accigliata perplessità che era qualcosa di più dello sconvolgimento per il tragico incidente. Aiutò a trasportare la vittima alla piccola locanda di fronte alla chiesa, interpellò il medico, che giudicò la ferita grave e minacciosa, benché non certamente mortale, e portò la notizia al piccolo gruppo di viaggiatori che si era radunato attorno al tavolo nella saletta della locanda. Ma ovunque andasse la nube della [[Mystification|perplessità]] si posava su di lui e pareva farsi più cupa quanto più a fondo egli rifletteva. Poiché il mistero centrale si faceva sempre più misterioso, e proprio nella stessa misura in cui molti dei misteri minori cominciavano a chiarirsi nella sua mente. Esattamente nella misura in cui il significato delle singole figure di quel gruppo variopinto cominciava a spiegarsi, ciò che era accaduto diventava sempre più difficile da spiegare. Leonard Smyth era venuto soltanto perché era venuta Lady [[Diana]]; e Lady [[Diana]] era venuta soltanto perché così le piaceva. Erano impegnati in uno di quei fluttuanti flirt mondani che sono tanto più sciocchi quanto più si atteggiano a semi-intellettuali. Ma il romanticismo della dama aveva un suo lato superstizioso; ed ella era rimasta piuttosto [[Well|ben]] prostrata dal terribile epilogo della sua avventura. Paul Tarrant era un [[Detective|investigatore]] privato, forse incaricato di sorvegliare il flirt per conto di qualche moglie o marito; forse di pedinare il conferenziere straniero dai baffi, che aveva tutta l'aria di uno straniero indesiderabile. Ma se lui o chiunque altro avesse avuto l'intenzione di rubare la reliquia, tale intenzione era stata definitivamente frustrata. E, a ogni umana apparenza, ciò che l'aveva frustrata era o un'incredibile coincidenza o l'intervento dell'antica maledizione.
+
+Mentre se ne stava in preda a un'insolita perplessità in mezzo alla strada del villaggio, fra la locanda e la chiesa, provò un lieve sussulto di sorpresa nel vedere avanzare lungo la via una figura da poco divenuta familiare, ma piuttosto inattesa. Il signor Boon, il giornalista, dall'aria assai sparuta sotto il sole, che ne metteva in risalto le vesti sdrucite come quelle di uno spaventapasseri, teneva gli occhi scuri e infossati (piuttosto ravvicinati ai due lati del lungo naso cadente) fissi sul prete. Questi dovette guardarlo due volte prima di rendersi conto che i folti baffi scuri celavano qualcosa di simile a un ghigno, o quantomeno a un sorriso arcigno.
+
+«Credevo che se ne stesse andando» disse Padre Brown con una punta di asprezza. «Credevo fosse partito con quel treno due ore fa.»
+
+«Be', come vede, non l'ho fatto» disse Boon.
+
+«Perché è tornato?» chiese il prete quasi severamente.
+
+«Non è il genere di piccolo paradiso rurale che un giornalista abbandoni in fretta» rispose l'altro. «Qui le cose accadono troppo in fretta perché valga la pena tornarsene in un posto tetro come [[London|Londra]]. Del resto, non possono tenermi fuori da questa faccenda... intendo dire da questa seconda faccenda. Sono stato io a trovare il [[Body|corpo]], o quantomeno gli abiti. Condotta assai sospetta da parte mia, non trova? Forse pensa che volessi indossare io i suoi vestiti. Non farei un curato incantevole?»
+
+E il magro saltimbanco dal naso lungo compì d'un tratto un gesto stravagante in mezzo alla piazza del mercato, tendendo le braccia e spalancando le mani inguantate di scuro in una sorta di benedizione burlesca, dicendo: «Oh, miei cari fratelli e sorelle, poiché vorrei abbracciarvi tutti...»
+
+«Ma di che diamine sta parlando?» esclamò [[Father Brown]], e picchiettò leggermente le pietre col suo tozzo ombrello, poiché era un po' meno paziente del solito.
+
+«Oh, scoprirà ogni cosa se lo chiede a quella sua brigata da picnic alla locanda» rispose Boon con disprezzo. «Quel tale Tarrant pare sospettare di me solo perché ho trovato gli abiti; benché sia arrivato con appena un minuto di ritardo per trovarli lui stesso. Ma in questa storia ci sono misteri d'ogni sorta. Il piccoletto dai grossi baffi potrebbe nascondere ben più di quanto appaia. E se è per questo, non vedo perché non dovrebbe essere stato lei stesso a uccidere quel povero diavolo.»
+
+[[Father Brown]] non parve minimamente seccato dall'insinuazione, ma sembrò oltremodo turbato e sconcertato dall'osservazione. «Vuol dire» chiese con semplicità «che sarei stato io a tentare di uccidere il professor Smaill?»
+
+«Niente affatto» disse l'altro, agitando la mano con l'aria di chi fa una magnanima concessione. «Ha morti in abbondanza fra cui scegliere. Non deve limitarsi al professor Smaill. Come, non sapeva che era saltato fuori qualcun altro, ben più morto del professor Smaill? E non vedo perché non dovrebbe averlo fatto fuori lei, alla chetichella. Divergenze religiose, sa... deplorevole disunione della cristianità... Immagino che abbia sempre desiderato riavere le parrocchie inglesi.»
+
+«Torno alla locanda» disse il prete con calma; «lei dice che quelli là dentro sanno cosa intende, e forse sapranno anche dirlo.»
+
+In [[Truth|verità]], subito dopo le sue private perplessità conobbero una momentanea dispersione alla notizia di una nuova sciagura. Nell'istante in cui entrò nel piccolo salottino dove il resto della compagnia era radunato, qualcosa nei loro volti pallidi gli disse che erano scossi da qualcosa di ancor più recente dell'incidente al sepolcro. Proprio mentre entrava, Leonard Smyth stava dicendo: «Dove andrà a finire tutto questo?»
+
+«Non finirà mai, ve lo dico io» ripeté Lady Diana, fissando il vuoto con occhi vitrei; «non finirà finché non finiremo tutti quanti. A uno a uno la maledizione ci prenderà; lentamente, forse, come diceva il povero vicario; ma ci prenderà tutti, come ha preso lui.»
+
+«Che cosa mai è successo adesso?» chiese Padre Brown.
+
+Vi fu un silenzio, poi Tarrant disse con una voce che suonava un po' cava: «Il signor Walters, il vicario, si è tolto la vita con un [[suicide|suicidio]]. Immagino sia stato lo choc a fargli perdere la ragione. Ma [[Fear|temo]] che non ci possa essere alcun [[Doubt|dubbio]] al riguardo. Abbiamo appena trovato il suo cappello nero e i suoi abiti su uno scoglio che sporge dalla riva. Pare si sia gettato in mare. Mi era sembrato che la cosa l'avesse ridotto mezzo scemo, e forse avremmo dovuto tenerlo d'occhio; ma c'era tanto di cui occuparsi.»
+
+«Non avreste potuto far nulla» disse la dama. «Non vedete che la cosa dispensa la sua condanna secondo un ordine spaventoso? [[The Professor|Il professore]] toccò la [[Cross|croce]], e se ne andò per primo; il vicario aveva aperto la tomba, e se ne andò per secondo; noi non abbiamo fatto che entrare nella cappella, e noi...»
+
+«Un momento» disse [[Father Brown]], con una voce tagliente che usava assai di rado; «questo deve finire.»
+
+Recava ancora sul volto un cipiglio pesante, benché inconsapevole, ma nei suoi occhi non c'era più la nube della perplessità, bensì una luce di comprensione quasi terribile. «Che [[Fool|sciocco]] sono stato!» mormorò. «Avrei dovuto capirlo da un pezzo. Il racconto della maledizione avrebbe dovuto dirmelo.»
+
+«Vuol dire» incalzò Tarrant «che davvero possiamo essere uccisi ora da qualcosa accaduto nel tredicesimo secolo?»
+
+Padre Brown scosse il capo e rispose con tranquilla enfasi: «Non discuterò se possiamo essere uccisi da qualcosa accaduto nel tredicesimo secolo; ma sono più che certo che non possiamo essere uccisi da qualcosa che nel tredicesimo secolo non è mai accaduto, qualcosa che non è mai accaduto affatto.»
+
+«Be'» disse Tarrant «fa piacere trovare un prete così scettico riguardo al [[Supernatural|soprannaturale]] a tal punto.»
+
+«Niente affatto» replicò il prete con calma; «non è della parte [[Supernatural|soprannaturale]] che [[Doubt|dubito]]. È della parte naturale. Mi trovo esattamente nella posizione di quell'uomo che diceva: "Posso credere all'impossibile, ma non all'improbabile".»
+
+«E questo è ciò che lei chiama un paradosso, non è vero?» chiese l'altro.
+
+«È ciò che io chiamo buon senso, inteso a dovere» rispose [[Father Brown]]. «È davvero più naturale credere a una storia prodigiosa, che tratta di cose che non comprendiamo, che a una storia naturale che contraddice cose che invece comprendiamo. Ditemi che il grande signor Gladstone, nelle sue ultime ore, fu perseguitato dal [[Ghost|fantasma]] di Parnell, e sarò agnostico al riguardo. Ma ditemi che il signor Gladstone, la prima volta che fu presentato alla [[Queen|regina]] Vittoria, tenne il cappello in testa nel suo salotto, le diede una pacca sulla schiena e le offrì un sigaro, e allora non sono affatto agnostico. Questo non è impossibile; è soltanto incredibile. Eppure sono assai più certo che ciò non sia accaduto di quanto lo sia che il [[Ghost|fantasma]] di Parnell non sia apparso; perché viola le leggi del mondo che io comprendo. Così è con quel racconto della maledizione. Non è la leggenda che io non credo... è la [[history|storia]].»
+
+Lady [[Diana]] si era un poco riavuta dalla sua trance di Cassandra,
+e la sua perenne curiosità per le cose nuove tornava ad affacciarsi
+dai suoi occhi vividi e sporgenti.
+
+«Che uomo curioso siete!» disse. «Perché mai dovreste
+dubitare della [[history|storia]]?»
+
+«Non credo alla storia perché non è storia»,
+rispose Padre Brown. «Per chiunque si dia il caso di conoscere
+un poco il Medioevo, tutta la vicenda era all'incirca
+tanto probabile quanto Gladstone che offre alla [[Queen|regina]] Vittoria un sigaro.
+Ma qualcuno sa qualcosa del Medioevo? Sapete
+che cos'era una Gilda? Avete mai sentito parlare del salvo managio suo?
+Sapete che genere di persone fossero i Servi Regis?
+
+«No, certo che non lo so», disse la dama, piuttosto stizzita.
+«Quante parole latine!»
+
+«No, certo», disse Padre Brown. «Se si fosse trattato di Tutankhamon
+e di un manipolo di Africani rinsecchiti, conservati Dio sa perché
+all'altro capo del mondo; se si fosse trattato di Babilonia o della Cina;
+se si fosse trattato di qualche razza remota e misteriosa come l'Uomo
+nella [[Moon|Luna]], i vostri giornali vi avrebbero raccontato ogni cosa,
+fino all'ultima scoperta di uno spazzolino da denti o di un bottone da colletto.
+Ma gli uomini che costruirono le chiese delle vostre parrocchie, e diedero i nomi
+alle vostre città e ai vostri mestieri, e alle strade stesse su cui camminate...
+non vi è mai passato per la mente di saperne qualcosa.
+Non pretendo di saperne molto neppure io; ma ne so abbastanza per capire
+che quella storia è fandonia e assurdità dal principio alla fine. Era
+illegale, per un usuraio, pignorare la bottega e gli arnesi di un uomo.
+È oltremodo improbabile che la Gilda non avrebbe salvato un uomo
+da una simile rovina totale, specie se rovinato da un ebreo.
+Quella gente aveva vizi e tragedie tutte sue;
+talvolta torturava e bruciava la gente. Ma quell'idea di un uomo,
+senza Dio né [[Hope|speranza]] al mondo, che si trascina via a morire perché
+a nessuno importa se vive o no... non è un'idea medievale.
+È un prodotto della nostra scienza economica e del nostro progresso.
+L'ebreo non sarebbe stato vassallo del signore feudale.
+Gli ebrei di norma avevano una posizione speciale come servi del [[King|Re]].
+Soprattutto, l'ebreo non avrebbe potuto in alcun modo essere bruciato
+per la sua religione.»
+
+«I paradossi si moltiplicano», osservò Tarrant; «ma di certo
+non negherete che gli ebrei fossero perseguitati nel Medioevo?»
+
+«Sarebbe più vicino alla [[Truth|verità]]», disse [[Father Brown|Padre Brown]], «dire che furono
+l'unico popolo a non essere perseguitato nel Medioevo.
+Se volete fare la satira del medievalismo, potreste costruire un buon caso
+dicendo che un povero cristiano poteva essere arso vivo per aver commesso
+un errore sull'Homoousion, mentre un ricco ebreo poteva passeggiare
+per strada sogghignando apertamente su Cristo e sulla Madre di Dio.
+Ebbene, ecco a che cosa somiglia quella storia. Non fu mai una storia
+del Medioevo; non fu mai nemmeno una leggenda sul Medioevo.
+Fu inventata da qualcuno le cui nozioni venivano da romanzi e giornali,
+e probabilmente inventata lì per lì, sul momento.»
+
+Gli altri parevano un po' storditi da quella digressione storica,
+e sembravano domandarsi vagamente perché il prete vi ponesse tanta enfasi
+e ne facesse una parte così importante dell'enigma.
+Ma Tarrant, il cui mestiere era estrarre il dettaglio pratico
+da molti grovigli di digressione, si era d'un tratto fatto attento.
+Il mento barbuto era proteso in avanti più che mai,
+ma i suoi occhi tetri erano ben desti. «Ah», disse;
+«inventata lì per lì, sul momento!»
+
+«Forse è un'esagerazione», ammise [[Father Brown|Padre Brown]] con calma.
+«Direi piuttosto inventata con più noncuranza e trascuratezza
+del resto di una trama insolitamente accurata. Ma il macchinatore non
+pensò che i dettagli della storia medievale avrebbero contato granché per chicchessia.
+E il suo calcolo, in linea generale, era pressoché esatto,
+come la maggior parte degli altri suoi calcoli.»
+
+«Il calcolo di chi? Chi aveva ragione?» incalzò la dama con un'improvvisa
+vampata d'impazienza. «Chi è questa persona di cui state parlando?
+Non ne abbiamo passate abbastanza, senza che voi ci facciate accapponare
+la pelle con i vostri "lui" e i vostri "egli"?»
+
+«Sto parlando dell'assassino», disse [[Father Brown|Padre Brown]].
+
+«Quale assassino?» chiese lei bruscamente. «Volete dire che il povero
+Professore è stato assassinato?»
+
+«Be'», disse Tarrant con voce roca, fissando la propria barba,
+«non possiamo dire "assassinato", perché non sappiamo che sia stato ucciso.»
+
+«L'assassino ha ucciso qualcun altro, che non era il Professor Smaill»,
+disse il prete con gravità.
+
+«E chi altri poteva uccidere?» chiese l'altro.
+«Ha ucciso il reverendo John Walters, vicario di Dulham»,
+replicò [[Father Brown|Padre Brown]] con precisione. «Voleva uccidere soltanto quei due,
+perché entrambi avevano messo le mani su reliquie di un unico raro modello.
+L'assassino era una specie di monomaniaco su quel punto.»
+
+«Suona tutto molto strano», mormorò Tarrant.
+«Certo, non possiamo neppure giurare che il vicario sia davvero morto.
+Non abbiamo visto il suo corpo.»
+
+«Oh, invece sì che l'avete visto», disse [[Father Brown|Padre Brown]].
+
+Ci fu un [[Silence|silenzio]] improvviso come il colpo di un gong;
+un [[Silence|silenzio]] in cui quel congetturare inconscio che era tanto
+vivo e infallibile nella donna la spinse quasi a un grido.
+
+«È esattamente ciò che avete visto», proseguì il prete.
+«Avete visto il suo [[Body|corpo]]. Non avete visto lui...
+l'uomo vero e vivo; ma il suo [[Body|corpo]] l'avete visto eccome.
+L'avete fissato a lungo alla luce di quattro grandi ceri;
+e non si dibatteva suicida nel mare, ma giaceva in stato solenne
+come un Principe della Chiesa in un reliquiario eretto prima della Crociata.»
+
+«In parole povere», disse Tarrant, «voi ci chiedete davvero di credere
+che quel [[Body|corpo]] imbalsamato fosse in realtà la salma di un uomo assassinato.»
+
+[[Father Brown|Padre Brown]] tacque per un istante; poi disse quasi con un'aria
+di irrilevanza: «La prima cosa che notai fu la croce;
+o meglio la cordicella che la sosteneva. Naturalmente, per la maggior parte di voi,
+era solo un filo di grani e nient'altro di particolare;
+ma, altrettanto naturalmente, era faccenda più di mia competenza che vostra.
+Ricorderete che stava aderente al mento, con solo pochi
+grani in vista, come se l'intera collana fosse assai corta.
+Ma i grani che si vedevano erano disposti in un modo speciale, prima uno
+e poi tre, e così via; di fatto, capii a colpo d'occhio che
+era un rosario, un comune rosario con una croce all'estremità.
+Ma un rosario ha almeno cinque poste e altri grani in aggiunta;
+e mi domandai naturalmente dove fosse finito tutto il resto.
+Avrebbe fatto ben più di un giro intorno al collo del vecchio.
+Sul momento non riuscii a spiegarmelo; e fu solo
+in seguito che indovinai dove fosse andata a finire la lunghezza in più.
+Era avvolta e riavvolta intorno alla base del sostegno di legno
+fissato nell'angolo della bara, che reggeva su il coperchio.
+Cosicché, quando il povero Smaill diede appena uno strattone alla croce, questa fece scattare
+il sostegno fuori posto e il coperchio gli piombò sul cranio come una
+mazza di pietra.»
+
+«Perbacco!» disse Tarrant; «comincio a credere che ci sia del vero in quello che dite. È una storia ben strana, se è vera.»
+
+«Quando compresi tutto ciò,» proseguì [[Father Brown|padre Brown]], «riuscii, più o meno, a indovinare il resto. Ricordate, anzitutto, che non vi fu mai alcuna autorità archeologica responsabile per nulla che andasse oltre una semplice indagine. Il povero vecchio Walters era un onesto antiquario, impegnato ad aprire la tomba per accertare se ci fosse qualcosa di vero nella leggenda dei corpi imbalsamati. Il resto era tutto diceria, di quella specie che spesso anticipa o esagera simili ritrovamenti. Di fatto, egli scoprì che il corpo non era stato affatto imbalsamato, ma da tempo si era ridotto in polvere. Se non che, mentre lavorava là al lume della sua candela solitaria, in quella cappella infossata, la fiamma proiettò un'altra ombra che non era la sua.»
+
+«Ah!» esclamò Lady [[Diana]] con un soffio mozzato nel respiro; «e ora so cosa intendete. Volete dirci che abbiamo incontrato l'assassino, che abbiamo chiacchierato e scherzato con l'assassino, che gli abbiamo lasciato raccontare una storia romantica e lo abbiamo lasciato andare senza torcergli un capello.»
+
+«Abbandonando il suo travestimento clericale su uno scoglio,» confermò Brown. «È tutto spaventosamente semplice. Quest'uomo giunse prima [[The Professor|del Professore]] nella corsa verso il camposanto e la cappella, forse mentre [[The Professor|il Professore]] stava parlando con quel lugubre giornalista. Sorprese il vecchio ecclesiastico accanto alla bara vuota e lo uccise. Poi si rivestì delle nere vesti tolte al cadavere, lo avvolse in un antico piviale che era tra i veri ritrovamenti della spedizione, e lo depose nella bara, disponendovi il rosario e il sostegno di legno come ho descritto. Quindi, avendo così teso la trappola per il suo secondo nemico, risalì alla luce del giorno e ci accolse tutti con la cortesia più amabile di un parroco di campagna.»
+
+«Correva un rischio considerevole,» obiettò Tarrant, «che qualcuno riconoscesse Walters di vista.»
+
+«Ammetto che era mezzo pazzo,» convenne padre Brown; «e credo che ammetterete anche voi che valeva la pena correre il rischio, giacché, dopotutto, l'ha fatta franca.»
+
+«Ammetto che è stato molto fortunato,» borbottò Tarrant. «E chi diavolo era costui?»
+
+«Come dite, è stato molto fortunato,» rispose padre Brown, «e non da ultimo proprio in questo. Poiché è l'unica cosa che forse non sapremo mai.» Aggrottò la fronte fissando la tavola per un istante, poi riprese: «Questo individuo si aggira minaccioso ormai da anni, ma l'unica cosa di cui si è preoccupato è stata custodire il segreto di chi fosse; e lo custodisce ancora. Ma se il povero Smaill si rimette, come credo che sarà, si può dire con buona certezza che ne sentirete ancora parlare.»
+
+«Ma perché, cosa credete che farà il professor Smaill?» domandò Lady [[Diana]].
+
+«Direi che la prima cosa che farà,» disse Tarrant, «sarà lanciare i detective come [[dogs|segugi]] alle calcagna di quel demonio assassino. Mi piacerebbe dargli la caccia io stesso.»
+
+«Ebbene,» disse padre Brown, sorridendo d'improvviso dopo il suo lungo accesso di perplessità corrucciata, «credo di sapere qual è la primissima cosa che dovrebbe fare.»
+
+«E quale sarebbe?» chiese Lady Diana con aggraziata impazienza.
+
+«Dovrebbe chiedere scusa a tutti voi,» disse [[Father Brown|padre Brown]].
+
+Non fu tuttavia su questo punto che [[Father Brown|padre Brown]] si trovò a conversare col professor Smaill, seduto al suo capezzale durante la lenta convalescenza di quell'eminente archeologo. E nemmeno fu principalmente [[Father Brown|padre Brown]] a tenere le fila del discorso; ché, per quanto [[The Professor|il Professore]] fosse costretto a piccole dosi dello stimolante della conversazione, egli ne concentrava la maggior parte su questi colloqui con l'amico prete. [[Father Brown|Padre Brown]] aveva il talento di tacere in modo incoraggiante, e Smaill ne traeva l'incoraggiamento a parlare di molte cose strane, non sempre facili a dirsi; come le fasi morbose della guarigione e i mostruosi [[Dreams|sogni]] che spesso accompagnano il delirio. È spesso un'esperienza che scombussola alquanto riprendersi lentamente da una brutta botta in testa; e quando la testa è interessante come quella del professor Smaill, persino i suoi turbamenti e le sue distorsioni tendono a essere originali e curiosi. I suoi [[Dreams|sogni]] erano come disegni arditi e ampi, un po' fuori squadra, quali si vedono nelle arti arcaiche, vigorose ma rigide, che egli aveva studiato; erano gremiti di strani santi dalle aureole quadrate e triangolari, di corone e glorie d'oro sporgenti attorno a volti scuri e appiattiti, di aquile venute dall'oriente e degli alti copricapi di uomini barbuti con i capelli acconciati come quelli delle donne. Se non che, come raccontava all'amico, ve n'era uno assai più semplice e meno intricato, che ricorreva di continuo alla sua [[Memory|memoria]] fervida d'immagini. Di continuo tutti quei motivi bizantini svanivano, come svaniva l'oro su cui erano tracciati, quasi fosse sul [[Fire|fuoco]]; e nulla restava se non la nuda e scura parete di roccia su cui la fulgida forma del pesce era disegnata come da un dito intinto nella fosforescenza dei pesci. Poiché quello era il segno che una volta, alzando lo sguardo, egli aveva veduto, nell'istante in cui udì per la prima volta, dietro l'angolo dell'oscuro corridoio, la voce del suo nemico.
+
+«E finalmente,» disse, «credo di aver scorto un significato in quell'immagine e in quella voce; un significato che prima non avevo mai compreso. Perché mai dovrei tormentarmi solo perché un pazzo, tra un milione di uomini savi coalizzati in una grande società contro di lui, sceglie di vantarsi di perseguitarmi o di braccarmi fino alla [[Death|morte]]? L'uomo che tracciò nella buia catacomba il simbolo segreto di [[Christ|Cristo]] fu perseguitato in maniera ben diversa. Egli era il pazzo solitario; l'intera società dei savi era coalizzata non per salvarlo, ma per ucciderlo. A volte mi sono agitato, ho smaniato e mi sono chiesto se questo o quell'uomo fosse il mio persecutore; se fosse Tarrant; se fosse Leonard Smyth; se fosse uno qualunque di loro. E se fossero stati tutti quanti? E se fossero stati tutti gli uomini sul battello e gli uomini sul treno e gli uomini nel villaggio? Supponiamo che, per quanto mi riguardava, fossero tutti assassini. Credevo di aver diritto a essere allarmato perché strisciavo nelle viscere della terra, nel buio, e c'era un uomo che voleva la mia rovina. Come sarebbe stato, se il distruttore si fosse trovato lassù, alla luce del giorno, e avesse posseduto tutta la terra e comandato tutti gli eserciti e le folle? Che sarebbe stato se avesse potuto sbarrare tutte le tane, o stanarmi col fumo dal mio nascondiglio, o uccidermi nel momento stesso in cui mettevo il naso fuori, alla luce del giorno? Cosa significa avere a che fare con un delitto di tali proporzioni? Il mondo ha dimenticato queste cose, come fino a poco tempo fa aveva dimenticato la guerra.»
+
+«Sì,» disse padre Brown, «ma la guerra è venuta. Il pesce può essere ricacciato di nuovo sottoterra, ma tornerà ancora una volta alla luce del giorno. Come osservò argutamente sant'Antonio da Padova: "Sono soltanto i pesci a sopravvivere al Diluvio".»

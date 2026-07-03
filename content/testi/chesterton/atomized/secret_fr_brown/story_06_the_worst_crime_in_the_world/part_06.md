@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/secret-fr-brown-(chesterton)">secret Fr Brown</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/secret_fr_brown/story_06_the_worst_crime_in_the_world/part_05">‹ part 05</a><a class="ex-next" href="/testi/chesterton/atomized/secret_fr_brown/story_07_the_red_moon_moon_of_meru/part_01">part 01 ›</a></div>
@@ -90,3 +92,91 @@ question of wealth and position, I suppose."
 
 "Yes," said [[Father Brown]] dryly; "her mother was all in favour of a
 prudent [[Marriage|marriage]]."
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/secret-fr-brown-(chesterton)">secret Fr Brown</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/secret_fr_brown/story_06_the_worst_crime_in_the_world/part_05">‹ part 05</a><a class="ex-next" href="/testi/chesterton/atomized/secret_fr_brown/story_07_the_red_moon_moon_of_meru/part_01">part 01 ›</a></div>
+</nav>
+
+«Un vecchio di ottant'anni può camminare», disse [[Father Brown]]. «Un
+vecchio può camminare persino parecchio, gironzolando per i viottoli di
+campagna. Ma un vecchio non può saltare. Sarebbe un saltatore ancor meno
+aggraziato di quanto lo fossi io. Eppure, se il baronetto fosse tornato
+mentre lo aspettavamo, sarebbe dovuto entrare come vi eravamo entrati noi
+— saltando il fossato — perché il ponte non fu abbassato che più tardi.
+Sospetto che lo avesse manomesso lui stesso per ritardare le visite
+sgradite, a giudicare dalla rapidità con cui fu riparato. Ma questo non
+importa. Quando vidi quel bizzarro quadretto della figura nera dai
+capelli grigi che spiccava un balzo attraverso il fossato, capii
+all'istante che si trattava di un giovane travestito da vecchio. Ed ecco
+tutta la storia.»
+
+«Volete dire», disse Granby lentamente, «che questo grazioso ragazzo ha
+ucciso il padre, ne ha nascosto il cadavere prima nell'armatura e poi nel
+fossato, si è camuffato e via dicendo?»
+
+«Guarda caso si somigliavano quasi esattamente», disse il prete. «Dai
+ritratti di famiglia potevate vedere quanto forte corresse la
+somiglianza. E poi parlate di travestimento. Ma in un certo senso l'abito
+di ognuno è un travestimento. Il vecchio si camuffava con una parrucca, e
+il giovane con una barba straniera. Quando si radeva e si calava la
+parrucca sulla testa rasata era identico al padre, con un po' di trucco.
+Naturalmente, ora capite perché fu tanto gentile nel farvi salire fin qui
+il giorno dopo in automobile. Era perché lui stesso saliva quella
+[[Night|notte]] in treno. Vi precedette, commise il suo delitto, assunse il
+travestimento e fu pronto per le trattative legali.»
+
+«Ah», disse Granby pensieroso, «le trattative legali! Volete dire,
+naturalmente, che il vero vecchio baronetto avrebbe trattato ben
+diversamente.»
+
+«Vi avrebbe detto chiaro e tondo che il Capitano non avrebbe visto un
+soldo», disse [[Father Brown]]. «La trama, per quanto suoni strana, era in
+realtà l'unico modo per impedirgli di dirvelo. Ma voglio che apprezziate
+l'astuzia di ciò che il tale invece vi disse. Il suo piano serviva
+diversi scopi in una volta sola. Era ricattato da quei Russi per qualche
+scelleratezza; sospetto per tradimento durante la guerra. Sfuggì loro in
+un colpo solo, e probabilmente li mandò a inseguirlo fino a Riga. Ma il
+più bel raffinamento di tutti fu quella teoria che enunciò circa il
+riconoscere il figlio come erede, ma non come essere umano. Non capite
+che, mentre assicurava il credito sull'eredità, forniva anche una specie
+di risposta a quella che ben presto sarebbe stata la più grande delle
+difficoltà?»
+
+«Vedo diverse difficoltà», disse Granby; «a quale vi riferite?»
+
+«Voglio dire che, se il figlio non era neppure diseredato, sarebbe parso
+piuttosto strano che padre e figlio non si incontrassero mai. La teoria
+di un ripudio privato rispondeva a questo. Restava dunque una sola
+difficoltà, come dico, che probabilmente ora sta rendendo perplesso il
+gentiluomo. Come diavolo farà a morire il vecchio?»
+
+«Io so come dovrebbe morire», disse Granby.
+
+[[Father Brown]] parve un po' frastornato, e proseguì in modo più
+assorto.
+
+«Eppure c'è in ciò qualcosa di più», disse. «C'era in quella teoria
+qualcosa che gli piaceva in un modo più — [[Well|be'']], più teorico. Gli dava
+un folle piacere intellettuale dirvi in una veste di aver commesso un
+delitto in un'altra veste — quando davvero l'aveva commesso. È questo che
+intendo per ironia infernale; per lo scherzo condiviso col Diavolo. Volete
+che vi dica una cosa che suona come ciò che chiamano un [[Paradox|paradosso]]? A
+volte è una gioia, nel cuore stesso dell'inferno, dire la [[Truth|verità]]. E
+soprattutto, dirla in modo che tutti la fraintendano. Ecco perché gli
+piaceva quella buffonata di fingersi qualcun altro, e poi dipingersi nero
+— com'era. Ed ecco perché mia nipote lo sentì ridere tra sé, tutto
+[[Alone|solo]], nella galleria dei ritratti.»
+
+Granby ebbe un lieve sussulto, come chi viene ricondotto di soprassalto
+alle cose comuni.
+
+«Vostra nipote», esclamò. «Sua madre non voleva che sposasse Musgrave?
+Una questione di ricchezza e di posizione, immagino.»
+
+«Sì», disse [[Father Brown]] seccamente; «sua madre era tutta a favore di
+un prudente [[Marriage|matrimonio]].»

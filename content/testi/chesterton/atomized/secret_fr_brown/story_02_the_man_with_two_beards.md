@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/secret-fr-brown-(chesterton)">secret Fr Brown</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/secret_fr_brown/story_01_the_mirror_mirror_of_the_magistrate">‹ Story 01 THE Mirror MIRROR OF THE MAGISTRATE</a><a class="ex-next" href="/testi/chesterton/atomized/secret_fr_brown/story_03_the_song_song_of_the_flying_fish">Story 03 THE Song SONG OF THE FLYING FISH ›</a></div>
@@ -827,3 +829,338 @@ this world."
 There was a short pause, and then Devine shrugged his shoulders and
 said: "It all comes back to [[Bees|bees]] and wasps looking very much alike in
 this world, doesn't it?"
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/secret-fr-brown-(chesterton)">secret Fr Brown</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/secret_fr_brown/story_01_the_mirror_mirror_of_the_magistrate">‹ Story 01 THE Mirror MIRROR OF THE MAGISTRATE</a><a class="ex-next" href="/testi/chesterton/atomized/secret_fr_brown/story_03_the_song_song_of_the_flying_fish">Story 03 THE Song SONG OF THE FLYING FISH ›</a></div>
+</nav>
+
+II. L'UOMO DALLE DUE BARBE
+
+Questa storia fu raccontata da [[Father Brown]] al professor Crake, il celebre criminologo, dopo cena in un club, dove i due erano stati presentati l'uno all'altro come cultori di un innocuo passatempo fatto di omicidi e rapine. Ma, poiché la versione di [[Father Brown]] tendeva piuttosto a sminuire la propria parte nella vicenda, la si ripropone qui in uno stile più imparziale. Nacque da un giocoso incrocio di fioretti, in cui [[The Professor|il professore]] si mostrava assai scientifico e il prete piuttosto scettico.
+
+«Mio buon signore», disse [[The Professor|il professore]] in tono di rimprovero, «non crede che la criminologia sia una scienza?»
+
+«Non ne sono sicuro», rispose [[Father Brown]]. «Lei crede che l'agiologia sia una scienza?»
+
+«E cosa sarebbe?» chiese lo specialista di scatto.
+
+«No; non è lo studio delle megere, e non ha nulla a che fare col rogo delle streghe», disse il prete, sorridendo. «È lo studio delle cose sante, dei santi e via dicendo. Vede, i Secoli Bui tentarono di costruire una scienza intorno alla gente buona. Ma la nostra epoca umana e illuminata s'interessa soltanto di una scienza intorno ai malvagi. Eppure credo che la nostra esperienza generale ci dica che ogni sorta immaginabile di uomo è stato un santo. E sospetto che scoprirà, del pari, che ogni sorta immaginabile di uomo è stato un assassino.»
+
+«[[Well|Ebbene]], noi crediamo che gli assassini possano essere classificati piuttosto [[Well|bene]]», osservò Crake. «L'elenco suona alquanto lungo e noioso; ma credo sia esauriente. Anzitutto, ogni forma di uccisione può dividersi in razionale e irrazionale, e prenderemo prima l'ultima, perché sono assai più rare. Esiste una cosa come la mania omicida, ossia l'[[Love|amore]] della macelleria in astratto. Esiste una cosa come l'antipatia irrazionale, benché di rado sia omicida. Poi veniamo ai veri moventi: di questi, alcuni sono meno razionali nel senso di essere puramente romantici e retrospettivi. Gli atti di pura [[Revenge|vendetta]] sono atti di [[Revenge|vendetta]] senza speranza. Così un [[Lover|amante]] talvolta uccide un rivale che non potrebbe mai soppiantare, o un [[Rebel|ribelle]] assassina un [[Tyrant|tiranno]] a conquista ormai compiuta. Ma, più spesso, persino questi atti hanno una spiegazione razionale. Sono omicidi speranzosi. Rientrano nella sezione più ampia della seconda divisione, in ciò che possiamo chiamare delitti prudenziali. Questi, a loro volta, ricadono principalmente sotto due descrizioni. Un uomo uccide o per ottenere ciò che l'altro possiede, sia per furto sia per eredità, oppure per impedire all'altro di agire in qualche modo: come nel caso dell'uccisione di un ricattatore o di un avversario politico; o, nel caso di un ostacolo alquanto più passivo, un marito o una moglie il cui continuato funzionare, come tale, interferisce con altre cose. Crediamo che tale classificazione sia stata pensata piuttosto a fondo e, applicata a dovere, copra l'intero terreno. Ma temo che forse suoni un po' noiosa; [[Hope|spero]] di non annoiarla.»
+
+«Niente affatto», disse [[Father Brown]]. «Se sono parso un po' distratto, devo scusarmi; la [[Truth|verità]] è che stavo pensando a un uomo che conobbi un tempo. Era un assassino; ma non riesco a vedere dove s'incastri nel suo museo di assassini. Non era pazzo, né gli piaceva uccidere. Non odiava l'uomo che uccise; lo conosceva appena, e di certo non aveva nulla di cui vendicarsi con lui. L'altro uomo non possedeva nulla che egli potesse in alcun modo desiderare. L'altro uomo non si stava comportando in alcun modo che l'assassino volesse impedire. L'uomo ucciso non era in condizione di ferire, ostacolare, o anche solo toccare in qualche modo l'assassino. Non c'era donna nella faccenda. Non c'era politica nella faccenda. Quest'uomo uccise un suo simile che era praticamente uno sconosciuto, e ciò per un motivo assai strano; forse unico nella [[history|storia]] umana.»
+
+E così, alla sua maniera più discorsiva, raccontò la storia. La storia può [[Well|bene]] cominciare in una cornice sufficientemente rispettabile, alla tavola della colazione di una degna ancorché benestante famiglia suburbana di nome Bankes, dove la consueta discussione sul giornale era stata, per una volta, messa a tacere dalla discussione su un mistero più vicino a [[Home|casa]]. Simili persone vengono talvolta accusate di spettegolare sui vicini, ma in tale materia sono quasi disumanamente [[Innocent|innocenti]]. I villici di campagna raccontano storie sui loro vicini, vere e false; ma la curiosa cultura del sobborgo moderno crederà qualunque cosa le venga detta sui giornali circa la malvagità del Papa, o il [[Martyrdom|martirio]] del [[King|re]] delle Isole dei Cannibali, e, nell'eccitazione di questi argomenti, non sa mai cosa stia accadendo nella porta accanto. In questo caso, tuttavia, le due forme d'interesse coincisero effettivamente in una coincidenza di emozionante intensità. Il loro stesso sobborgo era stato realmente menzionato nel loro giornale prediletto. Parve loro come una nuova prova della propria esistenza quando videro il nome in stampa. Era quasi come se prima fossero stati inconsci e invisibili; e ora erano reali quanto il [[King|re]] delle Isole dei Cannibali.
+
+Si affermava nel giornale che un criminale un tempo famoso, noto come [[Michael]] Moonshine, e con molti altri nomi che presumibilmente non erano i suoi, era stato di recente rimesso in libertà dopo una lunga [[Imprisonment|reclusione]] per i suoi numerosi furti con scasso; che il luogo in cui si trovava veniva tenuto segreto, ma che lo si riteneva stabilitosi nel sobborgo in questione, che per comodità chiameremo Chisham. Un riassunto di alcune delle sue famose e ardite imprese ed evasioni era dato nello stesso numero. Poiché è caratteristico di quel genere di stampa, destinato a quel genere di pubblico, presupporre che i suoi lettori non abbiano memoria. Mentre il contadino ricorderà per secoli un fuorilegge come [[Robin Hood]] o Rob Roy, l'impiegato ricorderà a stento il nome del criminale su cui discuteva nei tram e nella metropolitana due anni prima. Eppure, [[Michael]] Moonshine aveva davvero mostrato qualcosa dell'eroica furfanteria di Rob Roy o di [[Robin Hood]]. Era degno di essere trasformato in leggenda e non semplicemente in cronaca. Era un ladro fin troppo capace per essere un assassino. Ma la sua tremenda forza e la facilità con cui abbatteva i poliziotti come birilli, li tramortiva, e li legava e imbavagliava, davano quasi un tocco finale di [[Fear|paura]] o di mistero al fatto che non li uccidesse mai. La gente quasi sentiva che sarebbe stato più umano se l'avesse fatto.
+
+Il signor Simon Bankes, il padre di famiglia, era a un tempo più colto e più all'antica del resto. Era un uomo robusto, con una corta barba grigia e una fronte sbarrata di rughe. Aveva una propensione agli aneddoti e alle rimembranze, e ricordava distintamente i giorni in cui i londinesi restavano svegli in ascolto di Mike Moonshine come facevano per [[spring|Spring]]-heeled Jack. Poi c'era sua moglie, una signora magra e bruna. C'era in lei una sorta di acida eleganza, giacché la sua famiglia aveva assai più denaro di quella del marito, se pur meno [[Education|istruzione]]; ed ella possedeva persino una preziosissima collana di smeraldi di sopra, che le dava diritto a un posto di rilievo in una discussione sui ladri. C'era sua figlia. Opal, che era anch'essa magra e bruna e ritenuta dotata di poteri psichici -- almeno da se stessa; poiché aveva scarso incoraggiamento domestico. Gli spiriti di indole ardentemente astrale faranno [[Well|bene]] a non materializzarsi come membri di una famiglia numerosa. C'era suo fratello John, un giovanotto robusto, particolarmente chiassoso nella sua indifferenza allo sviluppo spirituale di lei; e per il resto distinguibile solo per il suo interesse per le automobili. Sembrava essere sempre nell'atto di vendere un'auto e comprarne un'altra; e per qualche processo, arduo da seguire per il teorico dell'economia, gli era sempre possibile comprare un articolo molto migliore vendendo quello che era danneggiato o screditato. C'era suo fratello Philip, un giovane dai capelli scuri e ricci, che si distingueva per la cura nel vestire; il che è senza dubbio parte del dovere del commesso di un agente di cambio, ma, come l'agente di cambio era incline a lasciar intendere, ben difficilmente la sua interezza. Infine, era presente a questa scena familiare il suo amico, Daniel Devine, anch'egli scuro e squisitamente vestito, ma barbuto in una foggia alquanto straniera, e perciò, per molti, lievemente minacciosa.
+
+Fu Devine che aveva introdotto l'argomento del trafiletto di giornale, insinuando con tatto uno strumento di diversione tanto efficace in quello che pareva l'inizio di una piccola lite familiare; poiché la signora psichica aveva cominciato la descrizione di una visione che aveva avuto di volti pallidi fluttuanti nella vuota [[Night|notte]] fuori dalla sua [[Window|finestra]], e John Bankes stava tentando di soffocare con le grida questa rivelazione di uno stato superiore con più della sua consueta cordialità.
+
+Ma il riferimento del giornale al loro nuovo e forse allarmante vicino mise ben presto fuori [[Court|gioco]] entrambi i contendenti.
+
+«Che spavento», esclamò la signora Bankes. «Dev'essere proprio un nuovo arrivato; ma chi mai potrà essere?»
+
+«Non conosco nessun nuovo arrivato in particolare», disse suo marito, «tranne Sir Leopold Pulman, a Beechwood [[house|House]].»
+
+«Mio caro», disse la signora, «come sei assurdo -- Sir Leopold!» Poi, dopo una pausa, aggiunse: «Se qualcuno suggerisse il suo segretario, adesso -- quell'uomo con le fedine; l'ho sempre detto, fin da quando ottenne il posto che sarebbe spettato a Philip----»
+
+«Niente da fare», disse Philip languidamente, dando il suo unico contributo alla conversazione. «Non abbastanza in gamba.»
+
+«L'unico che conosco», osservò Devine, «è quell'uomo di nome Carver, che alloggia alla Fattoria di [[smith|Smith]]. Conduce una vita molto tranquilla, ma è piuttosto interessante come conversatore. Credo che John abbia avuto qualche affare con lui.»
+
+«Se ne intende un po' di automobili», concesse il monomaniaco John. «Se ne intenderà un po' di più quando sarà salito sulla mia auto nuova.»
+
+Devine sorrise lievemente; tutti erano stati minacciati con l'ospitalità dell'auto nuova di John. Poi aggiunse riflessivo:
+
+«È un po' questo che provo nei suoi riguardi. Sa un mucchio di cose sull'andare in automobile e sul viaggiare, e sui modi attivi del mondo, eppure resta sempre a [[Home|casa]] a gingillarsi intorno alle vecchie arnie di [[smith|Smith]]. Dice di interessarsi soltanto all'apicoltura, ed è per questo che sta da [[smith|Smith]]. Sembra un passatempo assai tranquillo per un uomo del suo stampo. Comunque, non ho [[Doubt|dubbio]] che l'auto di John lo scuoterà un po'.»
+
+Mentre Devine si allontanava dalla [[house|villa]] quella sera, il suo volto scuro recava un'espressione di concentrato pensiero. I suoi pensieri sarebbero, forse, stati degni della nostra attenzione, anche a questo stadio; ma basti dire che il loro risvolto pratico fu la risoluzione di rendere un'immediata visita al signor Carver a [[house|casa]] del signor [[smith|Smith]]. Mentre si dirigeva colà, incontrò Barnard, il segretario di Beechwood [[house|House]], cospicuo per la sua figura allampanata e le larghe fedine che la signora Bankes annoverava tra i suoi personali torti. La loro conoscenza era superficiale, e la loro conversazione breve e casuale; ma Devine parve trovarvi materia per ulteriori cogitazioni.
+
+«Senta un po'», disse bruscamente, «mi scusi se glielo chiedo, ma è vero che Lady Pulman possiede dei gioielli assai famosi su alla [[house|House]]? Non sono un ladro professionista, ma ho appena sentito che ce n'è uno che si aggira da queste parti.»
+
+«Farò in modo che ci tenga d'occhio», rispose il segretario. «A dire la [[Truth|verità]], mi sono già azzardato a metterla in guardia io stesso al riguardo. [[Hope|Spero]] che vi abbia badato.»
+
+Mentre parlavano, giunse l'orribile grido di un clacson proprio dietro di loro, e John Bankes si fermò accanto a loro, raggiante al proprio [[Wheel|volante]]. Quando udì della destinazione di Devine, la reclamò come propria, benché il suo tono suggerisse piuttosto un astratto gusto di offrire alla gente un passaggio. Il tragitto fu consumato in continue lodi dell'auto, ora per lo più in fatto di adattabilità al tempo.
+
+«Si chiude ermetica come una scatola», disse, «e si apre con facilità -- facile come aprire la bocca.»
+
+La bocca di Devine, in quel momento, non pareva così facile da aprire, e giunsero alla fattoria di [[smith|Smith]] al suono di un soliloquio. Oltrepassato il cancello esterno, Devine trovò l'uomo che cercava senza entrare nella [[house|casa]]. L'uomo passeggiava per il [[Garden|giardino]], con le mani in tasca, portando un ampio, floscio cappello di paglia; un uomo dal viso lungo e dal mento grande. La larga tesa tagliava via la parte superiore del suo viso con un'[[Shadow|ombra]] che somigliava un poco a una maschera. Sullo sfondo c'era una fila di soleggiate arnie, lungo le quali un uomo anziano, presumibilmente il signor [[smith|Smith]], si muoveva accompagnato da un compagno basso e dall'aspetto comune, in nero abito clericale.
+
+«Ehi», irruppe l'irrefrenabile John, prima che Devine potesse offrire un qualsiasi cortese saluto, «ve l'ho portata qui perché ci facciate un giretto. Vedrete se non è meglio di una "Thunderbolt".»
+
+La bocca del signor Carver si atteggiò a un sorriso che forse voleva essere grazioso, ma appariva piuttosto arcigno. «Temo che stasera sarò troppo occupato per i piaceri», disse.
+
+«Come opera l'affaccendata piccola ape», osservò Devine, altrettanto enigmaticamente. «Le sue [[Bees|api]] devono essere ben affaccendate se la tengono al lavoro tutta la [[Night|notte]]. Mi stavo domandando se----»
+
+«[[Well|Ebbene]]?» incalzò Carver, con una certa fredda sfida.
+
+«[[Well|Ebbene]], si dice che si debba fare il fieno finché splende il sole», disse Devine. «Forse lei fa il miele finché splende la [[Moon|luna]].»
+
+Venne un lampo dall'[[Shadow|ombra]] del cappello a larga tesa, mentre il bianco degli occhi dell'uomo si spostava e brillava.
+
+«Forse c'è parecchio chiaro di luna in questa faccenda», disse: «ma l'avverto, le mie [[Bees|api]] non fanno soltanto il miele. Pungono.»
+
+«Viene con noi in auto?» insistette il fissante John. Ma Carver, benché si fosse scrollato di dosso quel momentaneo tono di sinistra allusività con cui aveva risposto a Devine, era pur sempre reciso nel suo cortese rifiuto.
+
+«Non posso proprio andare», disse. «Ho un mucchio di scrittura da sbrigare. Forse avreste la cortesia di offrire un giretto a qualcuno dei miei amici, se volete compagnia. Questo è il mio amico, il signor [[smith|Smith]], [[Father Brown]]-»
+
+«Ma certo», esclamò Bankes; «vengano tutti quanti.»
+
+«Grazie infinite», disse [[Father Brown]]. «Temo che dovrò declinare; devo recarmi alla Benedizione fra pochi minuti.»
+
+«Allora il signor [[smith|Smith]] fa al caso vostro», disse Carver, con qualcosa di quasi simile all'impazienza. «Sono certo che [[smith|Smith]] [[Longing|brama]] un giro in automobile.»
+
+[[smith|Smith]], che sfoggiava un ampio sogghigno, non recava alcuna apparenza di [[Longing|bramare]] alcunché. Era un ometto attivo e anziano con una parrucca assai onesta; una di quelle parrucche che non sembrano più naturali di un cappello. La sua sfumatura di giallo stonava col suo incolore incarnato. Scosse il capo e rispose con amabile ostinazione:
+
+«Ricordo che feci questa [[Road|strada]] dieci anni fa -- su uno di quei marchingegni. Ci venni dalla casa di mia sorella a Holmgate, e da allora non ho più percorso quella [[Road|strada]] in auto. Fu un viaggio scomodo, ve lo assicuro.»
+
+«Dieci anni fa!» sbuffò John Bankes. «Duemila anni fa andavate in carro coi buoi. Credete che le auto non siano cambiate in dieci anni -- e anche le strade, se è per questo? Nel mio piccolo bolide non ci si accorge nemmeno che le ruote girano. Ci si crede addirittura di volare.»
+
+«Sono certo che [[smith|Smith]] vuole volare», incalzò Carver. «È il sogno della sua vita. Andiamo, [[smith|Smith]], vada fino a Holmgate a trovare sua sorella. Lo sa che dovrebbe andare a trovare sua sorella. Ci vada e ci passi la [[Night|notte]], se le va.»
+
+«[[Well|Ebbene]], di solito ci vado a piedi, e così di solito ci passo la [[Night|notte]]», disse il vecchio [[smith|Smith]]. «Non c'è bisogno di disturbare il signore quest'oggi, in particolare.»
+
+«Ma pensi che spasso sarà per sua sorella vederla arrivare in automobile!» esclamò Carver. «Dovrebbe proprio andarci. Non sia così egoista.»
+
+«Ecco», assentì Bankes, con esuberante benevolenza. «Non sia egoista. Non le farà male. Non ne ha paura, vero?»
+
+«[[Well|Ebbene]]», disse il signor [[smith|Smith]], sbattendo le palpebre pensosamente, «non voglio essere egoista, e non credo di aver paura -- verrò con voi, se la mettete così.»
+
+La coppia partì, tra saluti agitati con la mano che sembravano in qualche modo dare al piccolo gruppo l'aspetto di una folla plaudente. Eppure Devine e il prete si unirono soltanto per cortesia, ed entrambi sentirono che era il gesto dominante del loro ospite a conferirle la sua definitiva aria di commiato. Il particolare diede loro una curiosa sensazione della forza pervasiva della sua personalità.
+
+Nell'istante in cui l'auto fu fuori vista, egli si volse a loro con una sorta di chiassosa scusa e disse: «[[Well|Ebbene]]!»
+
+Lo disse con quella curiosa cordialità che è il rovescio dell'ospitalità. Quella estrema affabilità equivale a un congedo.
+
+«Devo andare», disse Devine. «Non dobbiamo interrompere l'affaccendata ape. Temo di saperne assai poco di [[Bees|api]]; a volte faccio fatica a distinguere un'ape da una vespa.»
+
+«Ho tenuto anche vespe», rispose il misterioso signor Carver. Quando i suoi ospiti furono a qualche metro giù per la strada, Devine disse piuttosto impulsivamente al suo compagno: «Una scena piuttosto strana quella, non trova?»
+
+«Sì», rispose [[Father Brown]]. «E lei cosa ne pensa?»
+
+Devine guardò l'ometto in nero, e qualcosa nello sguardo dei suoi grandi occhi grigi parve rinnovargli l'impulso.
+
+«Penso», disse, «che Carver fosse molto ansioso di avere la [[house|casa]] tutta per sé stanotte. Non so se lei abbia avuto sospetti del genere.»
+
+«Posso avere i miei sospetti», rispose il prete, «ma non sono sicuro che siano gli stessi suoi.»
+
+Quella sera, quando l'ultimo crepuscolo si mutava in tenebra nei giardini attorno alla dimora familiare, Opal Bankes si aggirava per alcune delle stanze fioche e vuote con anche più della sua consueta astrazione; e chiunque l'avesse osservata da vicino avrebbe notato che il suo volto pallido aveva più del suo consueto pallore. Nonostante il suo lusso borghese, la [[house|casa]] nel suo complesso aveva una sfumatura di [[Melancholy|malinconia]] alquanto singolare. Era quella sorta di tristezza immediata che appartiene alle cose che sono vecchie piuttosto che antiche. Era piena di mode sbiadite, più che di costumi storici; di quell'ordine e ornamento che è appena abbastanza recente da essere riconosciuto come morto. Qua e là, vetri colorati primo-vittoriani tingevano il crepuscolo; gli alti soffitti facevano sembrare strette le lunghe stanze; e in fondo alla lunga stanza lungo la quale ella camminava c'era una di quelle finestre rotonde che si trovano negli edifici del suo periodo. Come giunse verso la metà della stanza, si fermò, e poi d'un tratto vacillò un poco, come se una mano invisibile l'avesse colpita in volto.
+
+Un istante dopo vi fu il rumore di colpi alla porta d'ingresso, attutito dalle porte chiuse frapposte. Ella sapeva che il resto della famiglia era nelle parti superiori della [[house|casa]], ma non avrebbe saputo analizzare il motivo che la spinse ad andare lei stessa alla porta d'ingresso. Sulla soglia stava una figura tozza e sciatta in nero, in cui riconobbe il prete cattolico romano, che si chiamava Brown. Lo conosceva solo di sfuggita; ma le era simpatico. Egli non incoraggiava le sue vedute psichiche; anzi, tutto il contrario; ma le scoraggiava come se contassero e non come se non contassero. Non era tanto che non simpatizzasse con le sue opinioni, quanto che simpatizzava ma non concordava. Tutto questo era in una sorta di caos nella sua mente quando si ritrovò a dire, senza saluto, né aspettare di udire quale fosse il suo scopo:
+
+«Sono così contenta che sia venuto. Ho visto un [[Ghost|fantasma]].»
+
+«Non c'è bisogno di angosciarsi per questo», disse. «Càpita spesso. La maggior parte dei [[Ghosts|fantasmi]] non sono [[Ghosts|fantasmi]], e i pochi che possono esserlo non le faranno alcun male. Era un [[Ghost|fantasma]] in particolare?»
+
+«No», ammise, con un vago senso di sollievo, «non era tanto la cosa in sé quanto un'atmosfera di spaventosa [[Decay|decadenza]], una sorta di rovina luminosa. Era un volto. Un volto alla [[Window|finestra]]. Ma era pallido e sgranava gli occhi, e somigliava al ritratto di Giuda.»
+
+«[[Well|Ebbene]], certa gente ha proprio quell'aspetto», rifletté il prete, «e oserei dire che talvolta si affacciano alle finestre. Posso entrare a vedere dove è successo?»
+
+Quando ella tornò nella stanza col visitatore, tuttavia, altri membri della famiglia si erano radunati, e quelli di abitudini meno psichiche avevano ritenuto opportuno accendere le lampade. In presenza della signora Bankes, [[Father Brown]] assunse una cortesia più convenzionale, e si scusò per l'intrusione.
+
+«Temo di prendermi una libertà con la vostra [[house|casa]], signora Bankes», disse. «Ma credo di poter spiegare come mai la faccenda venga a riguardarvi. Ero su alla dimora dei Pulman poco fa, quando fui chiamato al telefono e pregato di venire qui a incontrare un uomo che sta per giungere a comunicare qualcosa che potrebbe essere di un certo peso per voi. Non mi sarei aggiunto alla compagnia, se non che sono richiesto, a quanto pare, perché sono testimone di ciò che è accaduto su a Beechwood. Anzi, sono stato io a dover dare l'allarme.»
+
+«Cos'è accaduto?» ripeté la signora.
+
+«C'è stata una rapina su, a Beechwood [[house|House]]», disse [[Father Brown]], gravemente; «una rapina, e ciò che [[Fear|temo]] sia peggio, i gioielli di Lady Pulman sono spariti; e il suo sventurato segretario, il signor Barnard, è stato raccolto nel [[Garden|giardino]], essendo stato evidentemente colpito da un colpo d'arma da fuoco dallo scassinatore in fuga.»
+
+«Quell'uomo», proruppe la signora della [[house|casa]]. «Credo che fosse----»
+
+Ella incontrò lo sguardo [[Grave|grave]] del prete, e le parole d'un tratto le vennero meno; non seppe mai perché.
+
+«Mi sono messo in comunicazione con la polizia», proseguì, «e con un'altra autorità interessata a questo caso; e dicono che persino un esame superficiale ha rivelato impronte di piedi e impronte digitali e altri indizi di un [[Well|ben]] noto criminale.»
+
+A questo punto, la riunione fu per un momento disturbata dal ritorno di John Bankes, da quella che pareva essere stata una spedizione fallita in automobile. Il vecchio [[smith|Smith]] pareva essere stato, dopotutto, un passeggero deludente.
+
+«Se l'è squagliata, dopotutto, all'ultimo minuto», annunciò con rumoroso disgusto. «È scappato mentre guardavo quella che credevo una foratura. È l'ultima [[Time|volta]] che mi carico uno di questi villani----»
+
+Ma le sue lagnanze ricevettero scarsa attenzione nell'eccitazione generale che si raccoglieva intorno a [[Father Brown]] e alle sue notizie.
+
+«Qualcuno arriverà tra un momento», proseguì il prete, con la stessa aria di ponderato riserbo, «che mi solleverà da questa responsabilità. Quando vi avrò messo di fronte a lui, avrò compiuto il mio dovere di testimone in una faccenda seria. Mi resta solo da dire che una domestica su a Beechwood [[house|House]] mi ha detto di aver visto un volto a una delle finestre----»
+
+«Io ho visto un volto», disse Opal, «a una delle nostre finestre.»
+
+«Oh, tu vedi sempre volti», disse rudemente suo fratello John.
+
+«È [[Well|bene]] vedere i fatti anche quando sono volti», disse [[Father Brown]] con equanimità, «e credo che il volto che hai visto----»
+
+Un altro colpo alla porta d'ingresso risuonò per la [[house|casa]], e un minuto dopo la porta della stanza si aprì e un'altra figura comparve. Devine si [[Rose|sollevò]] a metà dalla sedia alla sua vista.
+
+Era una figura alta ed eretta, con un volto lungo e piuttosto cadaverico, terminante in un formidabile mento. La fronte era piuttosto calva, e gli occhi lucenti e azzurri, che Devine aveva visto l'ultima volta oscurati da un ampio cappello di paglia.
+
+«Vi prego, nessuno si muova», disse l'uomo chiamato Carver, in tono chiaro e cortese. Ma alla mente turbata di Devine la cortesia aveva un'ominosa somiglianza con quella di un brigante che tiene immobile una compagnia con una [[Pistol|pistola]].
+
+«La prego di sedersi, signor Devine», disse Carver; «e, col permesso della signora Bankes, seguirò il suo esempio. La mia presenza qui esige una spiegazione. Immagino che mi abbiate sospettato di essere un eminente e distinto scassinatore.»
+
+«Sì», disse Devine cupamente.
+
+«Come lei ha osservato», disse Carver, «non è sempre facile distinguere una vespa da un'ape.»
+
+Dopo una pausa, continuò: «Posso vantarmi di essere uno degli [[Insects|insetti]] più utili, benché egualmente fastidiosi. Sono un [[Detective|investigatore]], e sono venuto quaggiù a indagare su un presunto rinnovarsi delle attività del criminale che si fa chiamare [[Michael]] Moonshine. Le rapine di [[Jewel|gioielli]] erano la sua specialità; e ce n'è appena stata una a Beechwood [[house|House]], che, per tutte le prove tecniche, è manifestamente opera sua. Non solo le impronte corrispondono, ma forse saprete che quando fu arrestato l'ultima volta, e si crede anche in altre occasioni, indossava un travestimento semplice ma efficace fatto di una barba rossa e di un paio di grandi occhiali dalla montatura di corno.»
+
+Opal Bankes si sporse in avanti con ferocia.
+
+«Era quello», gridò eccitata, «era quello il volto che ho visto, con grandi occhialoni e una barba rossa e irsuta come Giuda. Credevo fosse un [[Ghost|fantasma]].»
+
+«Era anche il [[Ghost|fantasma]] che la domestica di Beechwood ha visto», disse Carver seccamente.
+
+Posò alcune carte e pacchetti sul tavolo, e cominciò a dispiegarli con cura. «Come dicevo», continuò, «fui mandato quaggiù a fare indagini sui piani criminali di quest'uomo, Moonshine. Ecco perché mi sono interessato all'apicoltura e sono andato ad alloggiare dal signor [[smith|Smith]].»
+
+Ci fu un [[Silence|silenzio]], e poi Devine sobbalzò e parlò: «Non vorrà mica dire sul serio che quel simpatico vecchietto----»
+
+«Suvvia, signor Devine», disse Carver, con un sorriso, «lei ha creduto che un'arnia fosse soltanto un nascondiglio per me. Perché non dovrebbe essere un nascondiglio per lui?»
+
+Devine annuì tetro, e l'[[Detective|investigatore]] tornò alle sue carte. «Sospettando di [[smith|Smith]], volevo toglierlo di mezzo e frugare tra le sue cose; così approfittai della gentilezza del signor Bankes nell'offrirgli un giro di piacere. Perquisendo la sua [[house|casa]], trovai alcune cose curiose da possedere per un [[Innocent|innocente]] vecchio campagnolo interessato soltanto alle [[Bees|api]]. Questa è una di esse.»
+
+Dalla carta dispiegata sollevò un oggetto lungo e peloso, quasi scarlatto di colore -- quella sorta di barba finta che si porta in teatro.
+
+Accanto giaceva un vecchio paio di pesanti occhiali dalla montatura di corno.
+
+«Ma ho trovato anche qualcosa», continuò Carver, «che riguarda più direttamente questa [[house|casa]], e dev'essere la mia scusa per l'intrusione di questa [[Night|notte]]. Ho trovato un memorandum, con annotazioni dei nomi e del valore congetturale di vari pezzi di gioielleria nei dintorni. Immediatamente dopo l'annotazione del diadema di Lady Pulman c'era la menzione di una collana di smeraldi appartenente alla signora Bankes.»
+
+La signora Bankes, che fino allora aveva considerato l'invasione della sua [[house|casa]] con un'aria di sprezzante smarrimento, d'un tratto si fece attenta. Il suo volto d'improvviso parve di dieci anni più vecchio e assai più intelligente. Ma prima che potesse parlare, l'impetuoso John si era alzato in tutta la sua statura come un elefante barrito.
+
+«E il diadema è già sparito», ruggì; «e la collana -- vado a controllare quella collana!»
+
+«Non è una cattiva idea», disse Carver, mentre il giovane si precipitava fuori dalla stanza; «benché, naturalmente, abbiamo tenuto gli occhi aperti da quando siamo qui. [[Well|Ebbene]], mi ci volle un po' di [[Time|tempo]] per decifrare il memorandum, che era in codice, e il messaggio telefonico di [[Father Brown]] dalla [[house|House]] giunse mentre ero prossimo alla fine. Gli chiesi di correre qui per primo con la notizia, e io l'avrei seguito; e così----»
+
+Il suo discorso fu spezzato da un grido. Opal era in piedi e indicava rigidamente la [[Window|finestra]] rotonda.
+
+«Eccolo di nuovo!» gridò.
+
+Per un momento tutti videro qualcosa -- qualcosa che scagionava la signora dalle accuse di menzogna e isteria non di rado mosse contro di lei. Spinto fuori dall'oscurità ardesia-azzurra là fuori, il volto era pallido, o, forse, sbiancato dalla pressione contro il vetro; e i grandi occhi sbarrati, cerchiati come da anelli, gli davano piuttosto l'aspetto di un grande pesce che, uscito dal mare azzurro cupo, fiuti l'oblò di una [[Ship|nave]]. Ma le branchie o pinne del pesce erano di un rosso ramato; erano, in [[Truth|verità]], fiere fedine rosse e la parte superiore di una barba rossa. L'attimo dopo era svanito.
+
+Devine aveva fatto un solo passo verso la [[Window|finestra]] quando un urlo risuonò per la [[house|casa]], un urlo che parve scuoterla. Parve quasi troppo assordante per essere distinguibile come parole; eppure bastò a fermare Devine a metà del passo, ed egli seppe cosa era accaduto.
+
+«La collana è sparita!» gridò John Bankes, apparendo enorme e ansante sulla soglia, e quasi all'istante svanendo di nuovo con lo scatto di un segugio all'inseguimento.
+
+«Il ladro era alla [[Window|finestra]] proprio adesso!» gridò l'[[Detective|investigatore]], che si era già lanciato verso la porta, seguendo l'impetuoso John, che era già nel [[Garden|giardino]].
+
+«Fate attenzione», si lamentò la signora, «hanno pistole e cose del genere.»
+
+«Anch'io», tuonò la voce lontana dell'impavido John dal buio [[Garden|giardino]].
+
+Devine aveva, in effetti, notato mentre il giovane gli sfrecciava accanto che brandiva con aria di sfida una rivoltella, e sperò che non ci fosse bisogno per lui di difendersi così. Ma proprio mentre aveva quel pensiero, giunse lo scoppio di due spari, come se l'uno rispondesse all'altro, e destò un selvaggio stormo di echi in quel quieto [[Garden|giardino]] suburbano. Sbatterono le ali nel [[Silence|silenzio]].
+
+«John è morto?» chiese Opal con voce bassa e tremante.
+
+[[Father Brown]] si era già inoltrato più a fondo nel buio, e stava con le spalle a loro, guardando in basso verso qualcosa. Fu lui a risponderle.
+
+«No», disse; «è l'altro.»
+
+Carver lo aveva raggiunto, e per un momento le due figure, l'alta e la bassa, sbarrarono quanto di visuale la luce lunare intermittente e tempestosa consentisse. Poi si scostarono da un lato e gli altri videro la piccola figura minuta giacere lievemente contorta, come nell'ultima lotta. La falsa barba rossa era protesa verso l'alto, come sprezzante verso il cielo, e la [[Moon|luna]] risplendeva sui grandi occhiali finti dell'uomo che era stato chiamato Moonshine.
+
+«Che fine», mormorò l'[[Detective|investigatore]], Carver. «Dopo tutte le sue avventure, farsi sparare quasi per caso da un agente di cambio in un [[Garden|giardino]] suburbano.»
+
+L'agente di cambio in persona, naturalmente, considerava il proprio trionfo con maggiore solennità, benché non senza nervosismo.
+
+«Ho dovuto farlo», ansimò, ancora affannato per lo sforzo. «Mi dispiace, ha sparato lui contro di me.»
+
+«Ci dovrà essere un'inchiesta, naturalmente», disse Carver, gravemente. «Ma credo che non ci sarà nulla di cui lei debba preoccuparsi. C'è una rivoltella caduta dalla sua mano con un colpo esploso; e di certo non ha [[Fire|sparato]] dopo aver ricevuto il suo.»
+
+Nel [[Time|frattempo]] si erano di nuovo radunati nella stanza, e l'[[Detective|investigatore]] stava raccogliendo le sue carte per la partenza. [[Father Brown]] stava in piedi di fronte a lui, guardando in basso verso il tavolo, come immerso in cupe meditazioni. Poi parlò bruscamente:
+
+«Signor Carver, lei ha certamente elaborato un caso assai completo in modo assai magistrale. Sospettavo alquanto la sua occupazione professionale; ma non avrei mai immaginato che avrebbe collegato ogni cosa così in fretta -- le [[Bees|api]] e la barba e gli occhiali e il codice e la collana e tutto quanto.»
+
+«È sempre soddisfacente veder un caso davvero ben rifinito», disse Carver.
+
+«Sì», disse [[Father Brown]], ancora guardando il tavolo. «Lo ammiro moltissimo.» Poi aggiunse con una modestia rasente il nervosismo: «È giusto verso di lei che io dica che non ne credo una sola parola.»
+
+Devine si sporse in avanti con improvviso interesse. «Vuol dire che non crede che egli sia Moonshine, lo scassinatore?»
+
+«So che è lo scassinatore, ma non ha scassinato», rispose [[Father Brown]]. «So che non è venuto qui, né alla [[Great House|grande villa]], per rubare gioielli, o per farsi sparare mentre fuggiva con essi. Dove sono i gioielli?»
+
+«Dove generalmente si trovano in casi simili», disse Carver. «O li ha nascosti o li ha passati a un complice. Questo non era un lavoro da un uomo solo. Naturalmente, i miei uomini stanno perquisendo il [[Garden|giardino]] e allertando il distretto.»
+
+«Forse», suggerì la signora Bankes, «il complice ha rubato la collana mentre Moonshine guardava dentro dalla [[Window|finestra]].»
+
+«Perché Moonshine guardava dentro dalla [[Window|finestra]]?» chiese [[Father Brown]] tranquillamente. «Perché avrebbe dovuto voler guardare dentro dalla [[Window|finestra]]?»
+
+«[[Well|Ebbene]], e lei cosa pensa?» esclamò l'allegro John.
+
+«Penso», disse [[Father Brown]], «che egli non abbia mai voluto guardare dentro dalla [[Window|finestra]].»
+
+«E allora perché l'ha fatto?» domandò Carver. «Che utilità c'è a parlare campato in aria a quel modo? Abbiamo visto l'intera scena recitata sotto i nostri stessi occhi.»
+
+«Ho visto un bel po' di cose recitate sotto i miei occhi a cui non credevo», rispose il prete. «E anche lei, sul palcoscenico e fuori.»
+
+«[[Father Brown]]», disse Devine, con un certo rispetto nel tono, «ci vuol dire perché non riesce a credere ai suoi occhi?»
+
+«Sì, cercherò di dirvelo», rispose il prete. Poi disse gentilmente:
+
+«Voi sapete cosa sono io e cosa siamo noi. Non vi disturbiamo granché. Cerchiamo di essere amici con tutti i nostri vicini. Ma non potete pensare che non facciamo nulla. Non potete pensare che non sappiamo nulla. Ci facciamo gli affari nostri; ma conosciamo la nostra gente. Conoscevo quest'uomo morto davvero molto [[Well|bene]]; ero il suo confessore, e il suo amico. Per quanto un uomo possa, conoscevo la sua mente quando lasciò quel [[Garden|giardino]] quest'oggi; e la sua mente era come un alveare di vetro pieno di dorate [[Bees|api]]. È un'attenuazione dire che la sua [[Reformation|redenzione]] fosse sincera. Era uno di quei grandi penitenti che riescono a trarre più dalla penitenza di quanto altri riescano a trarre dalla virtù. Dico che ero il suo confessore; ma, in verità, ero io ad andare da lui in cerca di conforto. Mi faceva bene stare vicino a un uomo tanto buono. E quando lo vidi giacere là morto nel [[Garden|giardino]], mi parve come se certe strane parole dette anticamente fossero pronunciate su di lui ad alta voce nel mio orecchio. Potrebbero [[Well|ben]] esserlo state; poiché, se mai un uomo andò dritto in cielo, potrebbe essere lui.»
+
+«Al diavolo», disse John Bankes irrequieto, «dopotutto, era un ladro condannato.»
+
+«Sì», disse [[Father Brown]]; «e solo un ladro condannato ha mai udito, in questo mondo, quella promessa: "Questa [[Night|notte]] sarai con Me in Paradiso."»
+
+Nessuno parve saper cosa fare del [[Silence|silenzio]] che seguì, finché Devine non disse, bruscamente, alla fine:
+
+«E allora come diavolo spiegherebbe tutto quanto?»
+
+Il prete scosse il capo. «Non riesco a spiegarlo affatto, per ora», disse, semplicemente. «Riesco a vedere un paio di cose strane, ma non le capisco. Per ora non ho nulla su cui appoggiarmi per provare l'[[innocence|innocenza]] dell'uomo, tranne l'uomo stesso. Ma sono del tutto certo di aver ragione.»
+
+Sospirò, e stese la mano verso il suo grande cappello nero. Nel toglierlo rimase a fissare il tavolo con un'espressione piuttosto nuova, la sua testa rotonda dai capelli lisci inclinata a un nuovo angolo. Era come se qualche curioso animale fosse uscito dal suo cappello, come dal cappello di un prestigiatore. Ma gli altri, guardando il tavolo, non vi riuscirono a vedere nulla, se non i documenti dell'[[Detective|investigatore]] e la pacchiana vecchia barba e gli occhiali di scena.
+
+«Che il Signore ci benedica», mormorò [[Father Brown]], «e lui giace là fuori morto, con una barba e gli occhiali.» Si girò di scatto verso Devine. «Ecco qualcosa da approfondire, se volete saperlo. Perché aveva due barbe?»
+
+Con ciò trotterellò alla sua maniera priva di dignità fuori dalla stanza; ma Devine era ormai divorato dalla curiosità, e lo inseguì nel [[Garden|giardino]] antistante.
+
+«Non posso dirvelo adesso», disse [[Father Brown]]. «Non sono sicuro, e sono tormentato su cosa fare. Passate a trovarmi domani, e forse sarò in grado di raccontarvi tutta la faccenda. Potrebbe già essere risolta per me, e -- avete udito quel rumore?»
+
+«Un'automobile che parte», osservò Devine.
+
+«L'automobile del signor John Bankes», disse il prete. «Credo che vada molto veloce.»
+
+«È certamente di questa opinione», disse Devine, con un sorriso.
+
+«Andrà lontano, [[Well|oltre]] che veloce, questa [[Night|notte]]», disse [[Father Brown]].
+
+«E cosa intende con ciò?» domandò l'altro.
+
+«Intendo che non tornerà», rispose il prete. «John Bankes ha sospettato qualcosa di ciò che io sapevo, da ciò che ho detto. John Bankes se n'è andato, e gli smeraldi e tutti gli altri gioielli con lui.»
+
+Il giorno dopo, Devine trovò [[Father Brown]] che andava avanti e indietro davanti alla fila di arnie, tristemente, ma con una certa serenità.
+
+«Sono stato a dirlo alle [[Bees|api]]», disse. «Sapete, bisogna dirlo alle [[Bees|api]]! "Quei muratori canterini che costruiscono tetti d'oro." Che verso!» Poi più bruscamente. «Gli piacerebbe che ci si prendesse cura delle [[Bees|api]].»
+
+«[[Hope|Spero]] che non voglia che si trascurino gli esseri umani, quando l'intero sciame ronza di curiosità», osservò il giovane. «Aveva perfettamente ragione quando ha detto che Bankes se n'era andato coi gioielli; ma non so come lo sapesse, né cosa ci fosse da sapere.»
+
+[[Father Brown]] sbatté le palpebre benevolmente verso le arnie e disse:
+
+«Ci s'imbatte per caso nelle cose, e c'era un ostacolo fin dall'inizio. Ero perplesso per il povero Barnard colpito su a Beechwood [[house|House]]. Ora, persino quando [[Michael]] era un maestro del crimine, si faceva un punto d'[[Honour|onore]], persino un punto di [[Vanity|vanità]], di riuscire senza alcuna uccisione. Sembrava straordinario che, quando era divenuto una sorta di santo, andasse fuori strada a commettere il peccato che aveva disprezzato quando era peccatore. Il resto della faccenda mi lasciò perplesso fino all'ultimo; non riuscivo a cavarne nulla, se non che non era vera. Poi ebbi un tardivo barlume di buonsenso quando vidi la barba e gli occhialoni e ricordai che il ladro era comparso con un'altra barba e altri occhialoni. Ora, naturalmente, era appena possibile che ne avesse dei duplicati; ma era per lo meno una coincidenza che non usasse né i vecchi occhiali né la vecchia barba, entrambi in buono stato. Di nuovo, era appena possibile che fosse uscito senza di essi e avesse dovuto procurarsene di nuovi; ma era improbabile. Non c'era nulla che lo spingesse ad andare in automobile con Bankes; se davvero fosse andato a scassinare, avrebbe potuto portare con facilità il suo corredo in tasca. E poi, le barbe non crescono sui cespugli. Gli sarebbe stato difficile procurarsi simili cose in un posto qualsiasi in così poco [[Time|tempo]].
+
+«No, più ci pensavo, più sentivo che c'era qualcosa di buffo nel suo avere un corredo completamente nuovo. E allora la [[Truth|verità]] cominciò ad [[Dawn|albeggiarmi]] per ragione, ciò che già sapevo per istinto. Non uscì mai con Bankes con alcuna intenzione di indossare il travestimento. Non indossò mai il travestimento. Qualcun altro fabbricò il travestimento con comodo, e poi glielo mise addosso.»
+
+«Glielo mise addosso!» ripeté Devine. «Come diavolo avrebbe potuto?»
+
+«Torniamo indietro», disse [[Father Brown]], «e guardiamo la cosa attraverso un'altra [[Window|finestra]] -- la [[Window|finestra]] attraverso la quale la giovane signorina vide il [[Ghost|fantasma]].»
+
+«Il [[Ghost|fantasma]]!» ripeté l'altro, con un lieve sussulto.
+
+«Lei lo chiamò il [[Ghost|fantasma]]», disse l'ometto, con compostezza, «e forse non aveva poi tanto torto. È verissimo che ella è ciò che chiamano dotata di poteri psichici. Il suo unico errore è nel credere che essere psichici sia essere spirituali. Alcuni [[Animals|animali]] sono psichici; comunque, ella è una sensitiva, e aveva ragione quando sentì che il volto alla [[Window|finestra]] aveva una sorta di orribile alone di cose mortali.»
+
+«Vuol dire----» cominciò Devine.
+
+«Voglio dire che era un uomo morto quello che guardava dentro dalla [[Window|finestra]]», disse Father Brown. «Era un uomo morto quello che strisciò attorno a più di una [[house|casa]], guardando dentro da più di una [[Window|finestra]]. Agghiacciante, non è vero? Ma in un certo senso era il rovescio di un [[Ghost|fantasma]]; poiché non era la buffonata dell'[[Soul|anima]] liberata dal [[Body|corpo]]. Era la buffonata del [[Body|corpo]] liberato dall'[[Soul|anima]].»
+
+Sbatté di nuovo le palpebre verso l'arnia e continuò: «Ma, suppongo, la spiegazione più breve sia prenderla dal punto di vista dell'uomo che lo fece. Voi conoscete l'uomo che lo fece. John Bankes.»
+
+«L'ultimissimo uomo a cui avrei pensato», disse Devine.
+
+«Il primissimo uomo a cui io pensai», disse [[Father Brown]]; «nella misura in cui avevo il diritto di pensare a chiunque. Amico mio, non esistono tipi sociali o mestieri buoni o cattivi. Qualunque uomo può essere un assassino come il povero John; qualunque uomo, persino lo stesso uomo, può essere un santo come il povero [[Michael]]. Ma se c'è un tipo che tende a volte a essere più assolutamente senza Dio di un altro, è quella sorta piuttosto brutale di uomo d'affari. Non ha alcun ideale sociale, [[Alone|figuriamoci]] una religione; non ha né le tradizioni del gentiluomo né la lealtà di classe del sindacalista. Tutte le sue vanterie di aver concluso buoni affari erano in pratica vanterie di aver truffato la gente. Il suo modo di snobbare i poveri piccoli tentativi di misticismo della sorella era detestabile. Il misticismo di lei era tutto sciocchezze; ma egli odiava lo spiritismo solo perché era spiritualità. Comunque, non c'è [[Doubt|dubbio]] che egli fosse il [[Villain|cattivo]] della vicenda; l'unico interesse sta in un pezzo di malvagità piuttosto originale. Era davvero un movente nuovo e unico per un omicidio. Era il movente di usare il cadavere come oggetto di scena -- una sorta di orribile bambola o fantoccio. All'inizio concepì un piano per uccidere [[Michael]] in automobile, semplicemente per portarlo a [[Home|casa]] e fingere di averlo ucciso nel [[Garden|giardino]]. Ma ogni sorta di fantastici tocchi finali seguirono del tutto naturalmente dal fatto primario; che aveva a sua disposizione, in un'auto chiusa di [[Night|notte]], il [[Body|corpo]] morto di uno scassinatore riconosciuto e riconoscibile. Poteva lasciare le sue impronte digitali e le sue impronte dei piedi; poteva appoggiare il volto familiare contro le finestre e portarlo via. Noterete che Moonshine apparentemente comparve e svanì mentre Bankes era apparentemente fuori dalla stanza in cerca della collana di smeraldi.
+
+«Infine, non gli restava che rovesciare il cadavere sul prato, [[Fire|sparare]] un colpo da ciascuna [[Pistol|pistola]], ed eccolo fatto. Non si sarebbe mai potuto scoprirlo, se non fosse stato per una congettura sulle due barbe.»
+
+«Perché il vostro amico [[Michael]] aveva conservato la vecchia barba?» disse Devine pensosamente. «Questo mi pare discutibile.»
+
+«A me, che lo conoscevo, pare del tutto inevitabile», rispose [[Father Brown]]. «Tutto il suo atteggiamento era come quella parrucca che portava. Non c'era travestimento nei suoi travestimenti. Non voleva più il vecchio travestimento, ma non ne aveva paura; avrebbe sentito come falso distruggere la barba finta. Sarebbe stato come nascondersi; ed egli non si nascondeva. Non si nascondeva da Dio; non si nascondeva da se stesso. Era in piena luce del giorno. Se l'avessero riportato in [[Prison|prigione]], sarebbe stato ancora perfettamente felice. Non era imbiancato di calce, ma lavato bianco. C'era qualcosa di assai strano in lui; quasi tanto strano quanto la [[Grotesque|grottesca]] [[Dance of Death|danza macabra]] attraverso la quale fu trascinato dopo la morte. Quando andava avanti e indietro sorridendo tra queste arnie, persino allora, nel senso più radioso e splendente, era morto. Era fuori dal giudizio di questo mondo.»
+
+Ci fu una breve pausa, e poi Devine si strinse nelle spalle e disse: «Tutto si riconduce alle [[Bees|api]] e alle vespe che si somigliano moltissimo in questo mondo, non è vero?»

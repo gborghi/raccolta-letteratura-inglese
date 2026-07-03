@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/secret-fr-brown-(chesterton)">secret Fr Brown</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/secret_fr_brown/story_05_the_vanishing_of_vaudrey/part_01">‹ part 01</a><a class="ex-next" href="/testi/chesterton/atomized/secret_fr_brown/story_05_the_vanishing_of_vaudrey/part_03">part 03 ›</a></div>
@@ -137,3 +139,136 @@ nothing in the village except buy cigarettes, and nothing here except
 smoke them and read in the library. No; I believe he is a criminal, but
 he did not kill Vaudrey. I might even say more; because he is a criminal
 he did not kill Vaudrey."
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/secret-fr-brown-(chesterton)">secret Fr Brown</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/secret_fr_brown/story_05_the_vanishing_of_vaudrey/part_01">‹ part 01</a><a class="ex-next" href="/testi/chesterton/atomized/secret_fr_brown/story_05_the_vanishing_of_vaudrey/part_03">part 03 ›</a></div>
+</nav>
+
+«Naturalmente, tutti comprendiamo la sua ansia. Suppongo che lei non abbia
+notizie o vedute in proposito?»
+
+«Notizie propriamente non ne ho,» rispose [[smith|Smith]]; «notizie dall'esterno
+almeno. Quanto alle vedute...» E ricadde in un cupo [[Silence|silenzio]].
+
+«Sarei ben lieto di udire le sue vedute,» disse il piccolo prete
+gentilmente. «[[Hope|Spero]] che non le dispiaccia se le dico che mi sembra abbia
+qualcosa che le pesa sull'animo.»
+
+Il giovane si scosse più che sussultare e guardò il prete
+fissamente, con un cipiglio che gettava i suoi occhi infossati in una densa [[Shadow|ombra]].
+
+«[[Well|Ebbene]], avete ragione,» disse infine. «Suppongo che dovrò
+dirlo a qualcuno. E voi mi sembrate una persona sicura a cui dirlo.»
+
+«Sapete cosa è accaduto a Sir [[Arthur]]?» chiese [[Father Brown]]
+con calma, come se fosse la cosa più ordinaria del mondo.
+
+«Sì,» disse il segretario aspramente, «credo di sapere cosa è accaduto a
+Sir [[Arthur]].»
+
+«Una bella mattina,» disse una voce blanda al suo orecchio; «una bella
+mattina per un incontro piuttosto [[Melancholy|malinconico]].»
+
+Questa [[Time|volta]] il segretario sobbalzò come se fosse stato colpito da un proiettile, mentre la grande
+[[Shadow|ombra]] del dottor Abbott gli cadeva attraverso il cammino nel sole già forte.
+Il dottor Abbott era ancora in vestaglia: una sontuosa
+vestaglia orientale coperta di [[Flowers|fiori]] colorati e di draghi,
+che lo faceva assomigliare a una delle più splendenti aiuole
+che crescessero sotto il sole ardente. Portava anche grandi pantofole piatte, che
+erano senza dubbio la ragione per cui si era avvicinato tanto agli altri senza essere
+udito. Sarebbe normalmente sembrato l'ultima persona per un approccio così lieve
+e ariose, poiché era un uomo molto grande, largo e pesante, con un
+volto potente e benevolo assai abbronzato, in una cornice di
+antiquati favoriti grigi e barbetta al mento, che gli pendevano intorno
+lussureggianti, come i lunghi riccioli grigi del suo venerando capo. Le lunghe
+fessure dei suoi occhi erano piuttosto assonnate e, in verità, era un anziano
+gentiluomo per essere in piedi così presto; ma aveva un aspetto insieme robusto e
+segnato dalle intemperie, come un vecchio contadino o capitano di mare che un tempo fosse stato esposto
+a ogni sorta di tempo. Era l'unico vecchio compagno e coetaneo dello
+squire nella compagnia che si riuniva alla [[house|casa]].
+
+«Sembra davvero straordinario,» disse, scuotendo il capo. «Quelle piccole
+case sono come case di bambola, sempre aperte davanti e dietro, e non c'è
+quasi spazio per nascondere nessuno, anche se lo volessero nascondere. E sono
+certo che non vogliono. Dalmon e io li abbiamo tutti [[Cross|interrogati]] ieri;
+sono per lo più vecchiette che non farebbero male a una mosca. Gli uomini sono
+quasi tutti via a mietere, tranne il macellaio; e [[Arthur]] fu visto
+uscire dalla macelleria. E nulla può essere accaduto lungo quel
+tratto presso il [[River|fiume]], perché io ho pescato là tutto il giorno.»
+
+Poi guardò [[smith|Smith]] e lo sguardo dei suoi lunghi occhi parve per un
+momento non solo assonnato, ma un poco furbo.
+
+«Credo che voi e Dalmon possiate testimoniare,» disse, «di avermi visto seduto
+là per tutto il vostro [[Journey|percorso]] all'andata e al ritorno.»
+
+«Sì,» disse Evan [[smith|Smith]] seccamente, e parve piuttosto impaziente per la lunga
+interruzione.
+
+«L'unica cosa a cui riesco a pensare,» proseguì il dottor Abbott lentamente; e poi
+l'interruzione fu essa stessa interrotta. Una figura al contempo lieve e vigorosa
+attraversò molto rapidamente il verde prato tra le vivaci aiuole,
+e John Dalmon apparve tra loro, tenendo in mano un foglio. Era
+vestito con cura e piuttosto olivastro, con un volto molto bello, quadrato e napoleonico,
+e occhi molto tristi: occhi così tristi da sembrare quasi morti. Sembrava
+essere ancora giovane, ma i suoi capelli neri erano incanutiti prematuramente
+alle tempie.
+
+«Ho appena ricevuto questo telegramma dalla polizia,» disse. «Ho telegrafato loro
+ieri [[Night|notte]] e dicono che manderanno subito un uomo. Sapete voi,
+dottor Abbott, di qualcun altro a cui dovremmo mandare a chiamare? Parenti, voglio dire, e
+quel genere di cose.»
+
+«C'è suo nipote, Vernon Vaudrey, naturalmente,» disse il vecchio. «Se
+volete venire con me, credo di potervi dare il suo indirizzo e... e dirvi
+qualcosa di piuttosto particolare su di lui.»
+
+Il dottor Abbott e Dalmon si allontanarono in direzione della [[house|casa]] e, quando
+ebbero percorso una certa distanza, [[Father Brown]] disse semplicemente, come se non
+ci fosse stata alcuna interruzione:
+
+«Dicevate?»
+
+«Siete un uomo dal sangue freddo,» disse il segretario. «Immagino che venga dall'ascoltare
+confessioni. Mi sento piuttosto come se stessi per fare una confessione. Certe
+persone si sentirebbero un po' scosse fuori dallo stato di confidenza da quel
+buffo vecchio elefante che striscia su come una serpe. Ma suppongo che farei meglio a
+tenermi fermo, anche se in verità non è la mia confessione, ma quella di qualcun altro.»
+Si fermò un momento, aggrottando le sopracciglia e tirandosi i baffi; poi disse,
+bruscamente:
+
+«Credo che Sir [[Arthur]] sia scappato, e credo di sapere perché.»
+
+Vi fu un [[Silence|silenzio]] e poi egli esplose di nuovo.
+
+«Mi trovo in una posizione dannata, e la maggior parte della gente direbbe che sto facendo una
+cosa dannata. Ora sto per apparire nella parte della spia e
+del vigliacco e credo di compiere il mio dovere.»
+
+«Dovete esser voi il giudice,» disse [[Father Brown]] gravemente. «Cosa c'è che non va
+nel vostro dovere?»
+
+«Mi trovo nella posizione perfettamente ignobile di fare la spia contro un rivale,
+e per giunta un rivale fortunato,» disse il giovane amaramente; «e non
+so cos'altro al mondo io possa fare. Mi domandavate quale fosse la
+spiegazione della scomparsa di Vaudrey. Sono assolutamente convinto che
+Dalmon sia la spiegazione.»
+
+«Volete dire,» disse il prete, con compostezza, «che Dalmon ha ucciso Sir
+[[Arthur]]?»
+
+«No!» esplose [[smith|Smith]], con sconcertante violenza. «No, cento volte! Non
+ha fatto questo, qualunque altra cosa abbia fatto. Non è un assassino, qualunque
+altra cosa sia. Ha il migliore di tutti gli alibi: la testimonianza di un uomo che
+lo odia. Non è probabile che io spergiuri per [[Love|amore]] di Dalmon; e
+potrei giurare in qualsiasi [[Court|tribunale]] che ieri non fece nulla al vecchio. Dalmon
+e io fummo insieme tutto il giorno, o tutta quella parte del giorno, ed egli
+non fece nulla nel villaggio se non comprare sigarette, e nulla qui se non
+fumarle e leggere in biblioteca. No; credo che sia un criminale, ma
+non ha ucciso Vaudrey. Potrei anche dire di più; proprio perché è un criminale
+non ha ucciso Vaudrey.»

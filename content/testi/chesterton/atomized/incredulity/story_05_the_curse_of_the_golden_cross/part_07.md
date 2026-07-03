@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/incredulity-(chesterton)">Incredulity</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/incredulity/story_05_the_curse_of_the_golden_cross/part_06">‹ part 06</a><a class="ex-next" href="/testi/chesterton/atomized/incredulity/story_05_the_curse_of_the_golden_cross/part_08">part 08 ›</a></div>
@@ -149,3 +151,60 @@ certain it didn't happen than that Parnell's [[Ghost|ghost]] didn't appear;
 because it violates the laws of the world I do understand.
 So it is with that tale of the curse.  It isn't the legend
 that I disbelieve--it's the [[history]].'
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/incredulity-(chesterton)">Incredulity</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/incredulity/story_05_the_curse_of_the_golden_cross/part_06">‹ part 06</a><a class="ex-next" href="/testi/chesterton/atomized/incredulity/story_05_the_curse_of_the_golden_cross/part_08">part 08 ›</a></div>
+</nav>
+
+Mentre se ne stava in preda a un'insolita perplessità in mezzo alla strada del villaggio, fra la locanda e la chiesa, provò un lieve sussulto di sorpresa nel vedere avanzare lungo la via una figura da poco divenuta familiare, ma piuttosto inattesa. Il signor Boon, il giornalista, dall'aria assai sparuta sotto il sole, che ne metteva in risalto le vesti sdrucite come quelle di uno spaventapasseri, teneva gli occhi scuri e infossati (piuttosto ravvicinati ai due lati del lungo naso cadente) fissi sul prete. Questi dovette guardarlo due volte prima di rendersi conto che i folti baffi scuri celavano qualcosa di simile a un ghigno, o quantomeno a un sorriso arcigno.
+
+«Credevo che se ne stesse andando» disse Padre Brown con una punta di asprezza. «Credevo fosse partito con quel treno due ore fa.»
+
+«Be', come vede, non l'ho fatto» disse Boon.
+
+«Perché è tornato?» chiese il prete quasi severamente.
+
+«Non è il genere di piccolo paradiso rurale che un giornalista abbandoni in fretta» rispose l'altro. «Qui le cose accadono troppo in fretta perché valga la pena tornarsene in un posto tetro come [[London|Londra]]. Del resto, non possono tenermi fuori da questa faccenda... intendo dire da questa seconda faccenda. Sono stato io a trovare il [[Body|corpo]], o quantomeno gli abiti. Condotta assai sospetta da parte mia, non trova? Forse pensa che volessi indossare io i suoi vestiti. Non farei un curato incantevole?»
+
+E il magro saltimbanco dal naso lungo compì d'un tratto un gesto stravagante in mezzo alla piazza del mercato, tendendo le braccia e spalancando le mani inguantate di scuro in una sorta di benedizione burlesca, dicendo: «Oh, miei cari fratelli e sorelle, poiché vorrei abbracciarvi tutti...»
+
+«Ma di che diamine sta parlando?» esclamò [[Father Brown]], e picchiettò leggermente le pietre col suo tozzo ombrello, poiché era un po' meno paziente del solito.
+
+«Oh, scoprirà ogni cosa se lo chiede a quella sua brigata da picnic alla locanda» rispose Boon con disprezzo. «Quel tale Tarrant pare sospettare di me solo perché ho trovato gli abiti; benché sia arrivato con appena un minuto di ritardo per trovarli lui stesso. Ma in questa storia ci sono misteri d'ogni sorta. Il piccoletto dai grossi baffi potrebbe nascondere ben più di quanto appaia. E se è per questo, non vedo perché non dovrebbe essere stato lei stesso a uccidere quel povero diavolo.»
+
+[[Father Brown]] non parve minimamente seccato dall'insinuazione, ma sembrò oltremodo turbato e sconcertato dall'osservazione. «Vuol dire» chiese con semplicità «che sarei stato io a tentare di uccidere il professor Smaill?»
+
+«Niente affatto» disse l'altro, agitando la mano con l'aria di chi fa una magnanima concessione. «Ha morti in abbondanza fra cui scegliere. Non deve limitarsi al professor Smaill. Come, non sapeva che era saltato fuori qualcun altro, ben più morto del professor Smaill? E non vedo perché non dovrebbe averlo fatto fuori lei, alla chetichella. Divergenze religiose, sa... deplorevole disunione della cristianità... Immagino che abbia sempre desiderato riavere le parrocchie inglesi.»
+
+«Torno alla locanda» disse il prete con calma; «lei dice che quelli là dentro sanno cosa intende, e forse sapranno anche dirlo.»
+
+In [[Truth|verità]], subito dopo le sue private perplessità conobbero una momentanea dispersione alla notizia di una nuova sciagura. Nell'istante in cui entrò nel piccolo salottino dove il resto della compagnia era radunato, qualcosa nei loro volti pallidi gli disse che erano scossi da qualcosa di ancor più recente dell'incidente al sepolcro. Proprio mentre entrava, Leonard Smyth stava dicendo: «Dove andrà a finire tutto questo?»
+
+«Non finirà mai, ve lo dico io» ripeté Lady Diana, fissando il vuoto con occhi vitrei; «non finirà finché non finiremo tutti quanti. A uno a uno la maledizione ci prenderà; lentamente, forse, come diceva il povero vicario; ma ci prenderà tutti, come ha preso lui.»
+
+«Che cosa mai è successo adesso?» chiese Padre Brown.
+
+Vi fu un silenzio, poi Tarrant disse con una voce che suonava un po' cava: «Il signor Walters, il vicario, si è tolto la vita con un [[suicide|suicidio]]. Immagino sia stato lo choc a fargli perdere la ragione. Ma [[Fear|temo]] che non ci possa essere alcun [[Doubt|dubbio]] al riguardo. Abbiamo appena trovato il suo cappello nero e i suoi abiti su uno scoglio che sporge dalla riva. Pare si sia gettato in mare. Mi era sembrato che la cosa l'avesse ridotto mezzo scemo, e forse avremmo dovuto tenerlo d'occhio; ma c'era tanto di cui occuparsi.»
+
+«Non avreste potuto far nulla» disse la dama. «Non vedete che la cosa dispensa la sua condanna secondo un ordine spaventoso? [[The Professor|Il professore]] toccò la [[Cross|croce]], e se ne andò per primo; il vicario aveva aperto la tomba, e se ne andò per secondo; noi non abbiamo fatto che entrare nella cappella, e noi...»
+
+«Un momento» disse [[Father Brown]], con una voce tagliente che usava assai di rado; «questo deve finire.»
+
+Recava ancora sul volto un cipiglio pesante, benché inconsapevole, ma nei suoi occhi non c'era più la nube della perplessità, bensì una luce di comprensione quasi terribile. «Che [[Fool|sciocco]] sono stato!» mormorò. «Avrei dovuto capirlo da un pezzo. Il racconto della maledizione avrebbe dovuto dirmelo.»
+
+«Vuol dire» incalzò Tarrant «che davvero possiamo essere uccisi ora da qualcosa accaduto nel tredicesimo secolo?»
+
+Padre Brown scosse il capo e rispose con tranquilla enfasi: «Non discuterò se possiamo essere uccisi da qualcosa accaduto nel tredicesimo secolo; ma sono più che certo che non possiamo essere uccisi da qualcosa che nel tredicesimo secolo non è mai accaduto, qualcosa che non è mai accaduto affatto.»
+
+«Be'» disse Tarrant «fa piacere trovare un prete così scettico riguardo al [[Supernatural|soprannaturale]] a tal punto.»
+
+«Niente affatto» replicò il prete con calma; «non è della parte [[Supernatural|soprannaturale]] che [[Doubt|dubito]]. È della parte naturale. Mi trovo esattamente nella posizione di quell'uomo che diceva: "Posso credere all'impossibile, ma non all'improbabile".»
+
+«E questo è ciò che lei chiama un paradosso, non è vero?» chiese l'altro.
+
+«È ciò che io chiamo buon senso, inteso a dovere» rispose [[Father Brown]]. «È davvero più naturale credere a una storia prodigiosa, che tratta di cose che non comprendiamo, che a una storia naturale che contraddice cose che invece comprendiamo. Ditemi che il grande signor Gladstone, nelle sue ultime ore, fu perseguitato dal [[Ghost|fantasma]] di Parnell, e sarò agnostico al riguardo. Ma ditemi che il signor Gladstone, la prima volta che fu presentato alla [[Queen|regina]] Vittoria, tenne il cappello in testa nel suo salotto, le diede una pacca sulla schiena e le offrì un sigaro, e allora non sono affatto agnostico. Questo non è impossibile; è soltanto incredibile. Eppure sono assai più certo che ciò non sia accaduto di quanto lo sia che il [[Ghost|fantasma]] di Parnell non sia apparso; perché viola le leggi del mondo che io comprendo. Così è con quel racconto della maledizione. Non è la leggenda che io non credo... è la [[history|storia]].»

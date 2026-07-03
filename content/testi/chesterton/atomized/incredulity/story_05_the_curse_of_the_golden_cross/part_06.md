@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/incredulity-(chesterton)">Incredulity</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/incredulity/story_05_the_curse_of_the_golden_cross/part_05">‹ part 05</a><a class="ex-next" href="/testi/chesterton/atomized/incredulity/story_05_the_curse_of_the_golden_cross/part_07">part 07 ›</a></div>
@@ -136,3 +138,42 @@ of an undesirable alien.  But if he or anybody else had intended
 to steal the relic, the intention had been finally frustrated.
 And to all mortal appearance, what had frustrated it was either
 an incredible coincidence or the intervention of the ancient curse.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/incredulity-(chesterton)">Incredulity</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/incredulity/story_05_the_curse_of_the_golden_cross/part_05">‹ part 05</a><a class="ex-next" href="/testi/chesterton/atomized/incredulity/story_05_the_curse_of_the_golden_cross/part_07">part 07 ›</a></div>
+</nav>
+
+Sia per un senso di convenienza, sia per mancanza di apparecchiature più moderne, l'antiquario in abito talare aveva disposto che la cappella fosse illuminata soltanto da quattro alte candele infilate in grossi candelieri di legno posati sul pavimento. Di queste una sola era accesa quando essi entrarono, e spandeva un debole barlume sulle possenti forme architettoniche. Quando furono tutti radunati, l'ecclesiastico si accinse ad accendere le altre tre, e l'aspetto e il contenuto del grande sarcofago si offrirono più chiaramente alla vista.
+
+Tutti gli sguardi corsero dapprima al volto del morto, conservato attraverso tutti quei secoli nelle linee della vita per mezzo di qualche segreto procedimento orientale, si diceva, ereditato dall'antichità pagana e ignoto agli umili cimiteri della nostra isola. [[The Professor]] a stento riuscì a trattenere un'esclamazione di [[Wonder|meraviglia]]; poiché, sebbene il volto fosse pallido come una maschera di cera, per il resto sembrava quello di un uomo addormentato, che in quello stesso istante avesse chiuso gli occhi. Era un volto del tipo [[ascetic|ascetico]], forse persino fanatico, con un'alta impalcatura di ossa; la figura era ammantata in un piviale d'oro e in sontuosi paramenti, e in alto sul petto, alla base della gola, luccicava la famosa [[Cross|croce]] d'oro appesa a una corta catenella d'oro, o meglio a una collana. La bara di pietra era stata aperta sollevandone il coperchio dal lato del capo e puntellandolo in alto su due robuste stanghe o pertiche di legno, agganciate in cima sotto l'orlo della lastra superiore e incuneate in basso negli angoli della bara, dietro il capo del cadavere. Si potevano dunque scorgere meno i piedi o la parte inferiore della figura, ma la luce delle candele batteva in pieno sul volto; e, in contrasto con le sue tinte d'avorio morto, la [[Cross|croce]] d'oro pareva agitarsi e scintillare come un [[Fire|fuoco]].
+
+L'ampia fronte del professor Smaill portava un profondo solco di riflessione, o forse di preoccupazione, fin da quando l'ecclesiastico aveva raccontato la storia della maledizione. Ma l'intuito femminile, non immune da un'isteria pure femminile, comprese il senso di quella sua immobilità meditabonda meglio di quanto lo comprendessero gli uomini che gli stavano intorno. Nel [[Silence|silenzio]] di quella caverna illuminata dalle candele Lady [[Diana]] gridò a un tratto: «Non toccarla, ti dico!»
+
+Ma l'uomo aveva già compiuto uno dei suoi rapidi movimenti leonini, chinandosi in avanti sopra il corpo. L'istante seguente scattarono tutti, chi in avanti chi indietro, ma tutti con un terribile gesto di chi si abbassa di scatto, come se il cielo stesse crollando.
+
+Non appena il professore posò un dito sulla croce d'oro, i puntelli di legno, che si piegavano lievissimamente nel sostenere il coperchio di pietra sollevato, parvero sobbalzare e raddrizzarsi con uno strappo. L'orlo della lastra di pietra scivolò dal suo appoggio di legno; e in tutte le loro anime e in tutti i loro stomaci si insinuò una nauseante sensazione di rovina precipitante, come se fossero stati tutti scaraventati giù da un precipizio. Smaill aveva ritratto il capo con prontezza, ma non in tempo; e giaceva privo di sensi accanto alla bara, in una rossa pozza di sangue sgorgato dal cuoio capelluto o dal cranio. E l'antica bara di pietra era di nuovo chiusa come lo era stata per secoli; salvo che uno o due bastoni o schegge sporgevano dalla fessura, orribilmente evocatori di ossa stritolate da un orco. Il leviatano aveva serrato le sue fauci di pietra.
+
+Lady Diana fissava lo scempio con occhi che avevano un bagliore elettrico come di follia; i suoi capelli rossi parevano scarlatti contro il pallore del viso in quel crepuscolo verdastro. Smyth guardava lei, sempre con qualcosa di canino nell'inclinazione del capo; ma era l'espressione di un cane che guarda un padrone la cui catastrofe egli può comprendere solo in parte. Tarrant e lo straniero si erano irrigiditi nei loro consueti atteggiamenti imbronciati, ma i loro volti avevano assunto il colore dell'argilla. Il vicario pareva essere svenuto. Padre Brown era inginocchiato accanto alla figura caduta, e cercava di saggiarne le condizioni.
+
+Con sorpresa generale, il fannullone byroniano, Paul Tarrant, si fece avanti per aiutarlo.
+
+«Sarà meglio portarlo su, all'aria aperta» disse. «Suppongo che gli resti giusto una possibilità.»
+
+«Non è morto» disse [[Father Brown]] a voce bassa «ma temo che sia piuttosto grave; non sarà per caso un medico?»
+
+«No; ma nella mia [[Time|vita]] ho dovuto imparare parecchie cose» rispose l'altro. «Ma non pensi a me adesso. La mia vera professione probabilmente la sorprenderebbe.»
+
+«Non credo» replicò [[Father Brown]] con un lieve sorriso. «Ci ho pensato circa a metà della traversata. Lei è un investigatore che pedina qualcuno. Be', a ogni modo la croce è ormai al sicuro dai ladri.»
+
+Mentre parlavano, Tarrant aveva sollevato la fragile figura dell'uomo caduto con disinvolta forza e destrezza, e la trasportava con cautela verso l'uscita. Rispose voltando appena il capo:
+
+«Sì, la [[Cross|croce]] è abbastanza al sicuro.»
+
+«Vuol dire che nessun altro lo è» replicò Brown. «Pensa anche lei alla maledizione?»
+
+[[Father Brown]] andò in giro, per le due ore che seguirono, sotto un peso di accigliata perplessità che era qualcosa di più dello sconvolgimento per il tragico incidente. Aiutò a trasportare la vittima alla piccola locanda di fronte alla chiesa, interpellò il medico, che giudicò la ferita grave e minacciosa, benché non certamente mortale, e portò la notizia al piccolo gruppo di viaggiatori che si era radunato attorno al tavolo nella saletta della locanda. Ma ovunque andasse la nube della [[Mystification|perplessità]] si posava su di lui e pareva farsi più cupa quanto più a fondo egli rifletteva. Poiché il mistero centrale si faceva sempre più misterioso, e proprio nella stessa misura in cui molti dei misteri minori cominciavano a chiarirsi nella sua mente. Esattamente nella misura in cui il significato delle singole figure di quel gruppo variopinto cominciava a spiegarsi, ciò che era accaduto diventava sempre più difficile da spiegare. Leonard Smyth era venuto soltanto perché era venuta Lady [[Diana]]; e Lady [[Diana]] era venuta soltanto perché così le piaceva. Erano impegnati in uno di quei fluttuanti flirt mondani che sono tanto più sciocchi quanto più si atteggiano a semi-intellettuali. Ma il romanticismo della dama aveva un suo lato superstizioso; ed ella era rimasta piuttosto [[Well|ben]] prostrata dal terribile epilogo della sua avventura. Paul Tarrant era un [[Detective|investigatore]] privato, forse incaricato di sorvegliare il flirt per conto di qualche moglie o marito; forse di pedinare il conferenziere straniero dai baffi, che aveva tutta l'aria di uno straniero indesiderabile. Ma se lui o chiunque altro avesse avuto l'intenzione di rubare la reliquia, tale intenzione era stata definitivamente frustrata. E, a ogni umana apparenza, ciò che l'aveva frustrata era o un'incredibile coincidenza o l'intervento dell'antica maledizione.

@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/incredulity-(chesterton)">Incredulity</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/incredulity/story_06_the_dagger_with_wings/part_04">‹ part 04</a><a class="ex-next" href="/testi/chesterton/atomized/incredulity/story_06_the_dagger_with_wings/part_06">part 06 ›</a></div>
@@ -134,3 +136,50 @@ He did not at any [[Time|time]] look like a methodical person,
 but at this moment his distraction must have been extreme.
 He drank with a long gulp and began to talk rather feverishly,
 as if to fill up a [[Silence|silence]].
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/incredulity-(chesterton)">Incredulity</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/incredulity/story_06_the_dagger_with_wings/part_04">‹ part 04</a><a class="ex-next" href="/testi/chesterton/atomized/incredulity/story_06_the_dagger_with_wings/part_06">part 06 ›</a></div>
+</nav>
+
+Poi si drizzò e rimase a guardare il prete con una curiosa concentrazione. «Se vuole aspettare qui un momento», disse, «le mostrerò una cosa.»
+
+Ripassò dalla porta centrale, richiudendola dietro di sé; diretto, suppose il prete, alla vecchia credenza o forse alla propria camera da letto. [[Father Brown]] rimase seduto, lo sguardo perso sul tappeto, dove un fioco bagliore rosso scendeva dal vetro della porta. Una volta parve avvivarsi come un rubino e poi tornò a spegnersi, come se il sole di quel giorno tempestoso fosse passato da una nuvola all'altra. Nulla si muoveva, salvo le creature acquatiche che galleggiavano avanti e indietro nella boccia di un verde smorto. [[Father Brown]] stava pensando intensamente.
+
+Un minuto o due dopo si alzò e scivolò senza rumore fino alla nicchia del telefono, dove chiamò il suo amico dottor Boyne, alla sede ufficiale. «Volevo parlarle di Aylmer e delle sue faccende», disse a bassa voce. «È una storia bizzarra, ma sono piuttosto propenso a credere che ci sia qualcosa di vero. Se fossi in lei, manderei subito quassù alcuni uomini; quattro o cinque, direi, e circonderei la [[house|casa]]. Se qualcosa accadrà, ci sarà probabilmente qualcosa di sensazionale in fatto di fuga.»
+
+Poi tornò a sedersi, fissando il tappeto scuro, che di nuovo ardeva rosso [[Blood|sangue]] alla luce della porta a vetri. Qualcosa in quella luce filtrata mise la sua mente a vagare per certe terre di confine del pensiero, con la prima bianca alba che precede il sopraggiungere del colore, e tutto quel mistero che è alternativamente velato e svelato nel simbolo delle finestre e delle porte.
+
+Un ululato disumano in voce umana giunse da oltre le porte chiuse, quasi simultaneamente al rumore di uno sparo. Prima ancora che gli echi del colpo si fossero spenti, la porta fu spalancata con violenza e il suo ospite entrò barcollando nella stanza, la vestaglia mezza strappata dalla spalla e la lunga [[Pistol|pistola]] fumante in mano. Sembrava tremare in ogni membro, eppure era scosso in parte da un riso innaturale.
+
+«Gloria alla Magia Bianca!» esclamò. «Gloria al proiettile d'argento! Il mastino infernale ha dato la caccia una volta di troppo, e i miei fratelli sono finalmente vendicati.»
+
+Sprofondò in una poltrona e la [[Pistol|pistola]] gli scivolò di mano e cadde sul pavimento. [[Father Brown]] gli sfrecciò accanto, s'infilò per la porta a vetri e percorse il corridoio. Facendolo, posò la mano sulla maniglia della porta della camera da letto, come se avesse una mezza intenzione di entrare; poi si chinò un istante, come per esaminare qualcosa, e infine corse alla porta esterna e l'aprì.
+
+Sul campo di [[Snow|neve]], che poco prima era stato così immacolato, giaceva un unico oggetto nero. A prima vista somigliava un po' a un enorme pipistrello. A un secondo sguardo si vedeva che era, dopo tutto, una figura umana; caduta bocconi, l'intera testa coperta da un ampio cappello nero che aveva un che di latino-americano; mentre l'apparenza di ali nere derivava dai due lembi o maniche larghe di un vastissimo mantello nero, spiegate, forse per caso, in tutta la loro lunghezza ai due lati. Entrambe le mani erano nascoste, sebbene [[Father Brown]] credesse di poter individuare la posizione di una di esse, e vide, vicino a questa, sotto l'orlo del mantello, il luccichio di qualche arma metallica. L'effetto principale, tuttavia, era curiosamente simile a quello delle semplici stravaganze dell'araldica; come un'aquila nera spiegata su un campo bianco. Ma girandovi intorno e spiando sotto il cappello il prete riuscì a intravedere il volto, che era davvero quello che il suo ospite aveva definito raffinato e intellettuale; perfino scettico e austero: il volto di John Strake.
+
+«Be', che io sia impiccato», mormorò padre Brown. «Sembra davvero un enorme vampiro calato in picchiata come un uccello.»
+
+«E in che altro modo avrebbe potuto arrivare?» giunse una voce dalla soglia, e padre Brown alzò lo sguardo per vedere Aylmer di nuovo là ritto.
+
+«Non avrebbe potuto venire a piedi?» rispose [[Father Brown]] evasivo.
+
+Aylmer tese il braccio e con un gesto spazzò il bianco paesaggio.
+
+«Guardi la neve», disse con una voce profonda che aveva in sé una sorta di rullo e di fremito. «Non è forse la [[Snow|neve]] intatta, pura come la [[Magic|magia]] bianca che lei stesso ha nominato? C'è forse una macchia su di essa per miglia e miglia, tranne quell'unica lorda chiazza nera che vi è caduta? Non ci sono orme, salvo poche, sue e mie; non ce n'è alcuna che si avvicini alla [[house|casa]] da nessuna parte.»
+
+Poi guardò il piccolo prete per un momento con un'espressione concentrata e curiosa, e disse: «Le dirò un'altra cosa. Quel mantello con cui vola è troppo lungo per camminarci. Non era un uomo molto alto, e gli si sarebbe trascinato dietro come uno strascico regale. Lo distenda pure sul suo corpo, se vuole, e veda.»
+
+«Che cosa è accaduto a voi due?» chiese [[Father Brown]] a bruciapelo.
+
+«È stato troppo rapido per descriverlo», rispose Aylmer. «Avevo guardato fuori dalla porta e mi stavo voltando quando venne una sorta di impeto di [[Wind|vento]] tutt'intorno a me, come se fossi sballottato da una [[Wheel|ruota]] che girasse a mezz'aria. In qualche modo mi girai su me stesso e sparai alla cieca; e poi non vidi altro che quel che vede adesso. Ma sono moralmente certo che lei non lo vedrebbe se non avessi avuto un proiettile d'argento nel fucile. Sarebbe stato un [[Body|corpo]] diverso quello disteso là nella [[Snow|neve]].»
+
+«A proposito», osservò padre Brown, «lo lasciamo lì disteso nella [[Snow|neve]]? Oppure preferirebbe farlo portare nella sua stanza… suppongo che quella nel corridoio sia la sua camera da letto?»
+
+«No, no», rispose Aylmer in fretta, «dobbiamo lasciarlo qui finché la polizia non l'avrà visto. E poi, ne ho avuto abbastanza di simili cose per il momento. Qualunque altra cosa accada, ho intenzione di bermi qualcosa. Dopodiché, possono impiccarmi, se vogliono.»
+
+Dentro l'appartamento centrale, tra la palma e la boccia dei pesci, Aylmer si lasciò cadere in una poltrona. Aveva quasi rovesciato la boccia mentre entrava barcollando nella stanza, ma era riuscito a trovare la caraffa di brandy dopo aver ficcato la mano piuttosto alla cieca in vari armadietti e angoli. In nessun [[Time|momento]] aveva l'aria di una persona metodica, ma in quell'istante il suo smarrimento doveva essere estremo. Bevve con un lungo sorso e cominciò a parlare in modo piuttosto febbrile, come per colmare un [[Silence|silenzio]].

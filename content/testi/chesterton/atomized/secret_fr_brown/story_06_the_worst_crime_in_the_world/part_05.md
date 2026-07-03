@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/secret-fr-brown-(chesterton)">secret Fr Brown</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/secret_fr_brown/story_06_the_worst_crime_in_the_world/part_04">‹ part 04</a><a class="ex-next" href="/testi/chesterton/atomized/secret_fr_brown/story_06_the_worst_crime_in_the_world/part_06">part 06 ›</a></div>
@@ -131,3 +133,62 @@ back while we were waiting; and that was why we had to wait so long. And
 when I saw that, I suddenly saw a picture that told the whole story.'
 
 "[[Well]]," asked the other impatiently, "and what about it?"
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/secret-fr-brown-(chesterton)">secret Fr Brown</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/secret_fr_brown/story_06_the_worst_crime_in_the_world/part_04">‹ part 04</a><a class="ex-next" href="/testi/chesterton/atomized/secret_fr_brown/story_06_the_worst_crime_in_the_world/part_06">part 06 ›</a></div>
+</nav>
+
+«È un colpo piuttosto duro» disse con voce spenta; «ma avrei dovuto indovinarlo. Avrei dovuto indovinarlo quando entrai la prima volta e vidi quella cosa lì ritta.»
+
+«Quando vedeste che cosa?» chiese Granby, spazientito.
+
+«Quando vidi che c'era una sola armatura» rispose [[Father Brown|Padre Brown]]. Seguì un [[Silence|silenzio]] durante il quale l'avvocato si limitò a fissare l'amico, e poi l'amico riprese.
+
+«Proprio l'altro giorno stavo per dire a mia nipote che ci sono due tipi di uomini capaci di ridere quando sono [[Alone|soli]]. Si potrebbe quasi dire che chi lo fa è o molto buono o molto cattivo. Vedete, o sta confidando la barzelletta a Dio, o la sta confidando al Diavolo. Ma in ogni caso ha una [[Inner Life|vita interiore]]. [[Well|Ebbene]], esiste davvero una specie d'uomo che confida la barzelletta al Diavolo. A costui non importa se nessuno coglie la battuta; se a nessuno si può nemmeno concedere, senza pericolo, di conoscerla. La battuta basta a se stessa, purché sia abbastanza sinistra e maligna.»
+
+«Ma di che cosa state parlando?» incalzò Granby. «Di chi state parlando? Di quale di loro, voglio dire? Chi è questa persona che si sta scambiando una barzelletta sinistra con Sua Maestà Satanica?»
+
+[[Father Brown|Padre Brown]] volse lo sguardo verso di lui con un sorriso spettrale.
+
+«Ah» disse, «questo è il bello della battuta.»
+
+Seguì un altro [[Silence|silenzio]], ma questa [[Time|volta]] il [[Silence|silenzio]] sembrava piuttosto denso e opprimente che semplicemente vuoto; pareva calare su di loro come il crepuscolo che a poco a poco trascolorava dall'imbrunire al buio. Padre Brown continuò a parlare con voce piana, seduto impassibile, con i gomiti sul tavolo.
+
+«Ho passato in rassegna la famiglia Musgrave» disse. «Sono un ceppo vigoroso e longevo, e anche nell'ordine naturale delle cose credo che dovreste aspettare parecchio [[Time|tempo]] per i vostri denari.»
+
+«A questo siamo del tutto preparati» rispose il legale; «ma comunque non può durare all'infinito. Il vecchio ha quasi ottant'anni, benché cammini ancora, e la gente della locanda qui ride e dice di non credere che morirà mai.»
+
+[[Father Brown|Padre Brown]] balzò in piedi con uno di quei suoi rari ma rapidi movimenti, ma rimase con le mani sul tavolo, chinato in avanti, guardando l'amico in faccia.
+
+«Ecco» esclamò con voce bassa ma concitata. «Questo è l'unico problema. Questa è l'unica vera difficoltà. Come farà a morire? Come diamine può morire?»
+
+«Che diamine intendete dire?» chiese Granby.
+
+«Intendo» giunse la voce del prete dalla stanza che si oscurava, «che conosco il delitto commesso da James Musgrave.»
+
+Il suo tono aveva in sé un tal gelo che Granby riuscì a stento a trattenere un brivido; mormorò un'altra domanda.
+
+«Fu davvero il peggior delitto del mondo» disse [[Father Brown|Padre Brown]]. «O almeno, molte comunità e civiltà l'hanno reputato tale. Fin dai tempi più remoti è sempre stato additato, nella tribù e nel villaggio, a una punizione tremenda. Ma comunque, ora so ciò che il giovane Musgrave fece davvero, e perché lo fece.»
+
+«E che cosa fece?» chiese l'avvocato.
+
+«Uccise suo padre» rispose il prete.
+
+L'avvocato a sua volta si [[Rose|alzò]] dal seggio e guardò dall'altra parte del tavolo con la fronte corrugata.
+
+«Ma suo padre è al [[Castle|castello]]» esclamò con tono tagliente.
+
+«Suo padre è nel fossato» disse il prete, «e sono stato uno [[Fool|sciocco]] a non capirlo fin dal principio, quando qualcosa in quell'armatura mi diede da pensare. Non ricordate l'aspetto di quella stanza? Con quanta cura era stata disposta e adornata? C'erano due asce da battaglia incrociate appese a un lato del [[Fire|caminetto]], due asce da battaglia incrociate all'altro. C'era uno scudo tondo scozzese su una parete, uno scudo tondo scozzese sull'altra. E c'era un'armatura ritta a guardia di un lato del focolare, e uno spazio vuoto sull'altro. Nulla mi persuaderà che un uomo, il quale aveva disposto tutto il resto di quella stanza con una simmetria tanto esagerata, abbia lasciato zoppa proprio quell'unica particolarità. C'era quasi certamente un altro uomo in armatura. E che ne è stato di lui?»
+
+Si fermò un istante, poi proseguì con tono più prosaico: «A pensarci bene, è un ottimo piano per un delitto, e risolve l'eterno problema di come disfarsi del [[Body|corpo]]. Il [[Body|corpo]] poteva starsene ritto dentro quell'armatura completa da torneo per ore, o perfino per giorni, mentre i servitori andavano e venivano, finché l'assassino non lo trascinava fuori nel cuore della [[Night|notte]] e lo calava nel fossato, senza nemmeno attraversare il ponte. E allora, che bella probabilità aveva dalla sua parte! Non appena il [[Body|corpo]] si fosse anche solo un poco decomposto in quell'[[Water|acqua]] stagnante, prima o poi non sarebbe rimasto altro che uno [[skeleton|scheletro]] in armatura trecentesca, cosa assai probabile a trovarsi nel fossato di un vecchio [[Castle|castello]] di confine. Era improbabile che qualcuno andasse a cercare qualcosa là, ma se anche l'avesse fatto, ben presto sarebbe stato tutto ciò che avrebbe trovato. E ne ho avuto qualche conferma. Fu quando diceste che stavo cercando una pianta rara; era una pianta in parecchi sensi, se mi perdonate lo scherzo. Vidi le impronte di due piedi affondate tanto profonde nell'argine compatto da esser certo che l'uomo o era molto pesante, o portava qualcosa di molto pesante. E inoltre, tra parentesi, c'è un'altra morale da trarre da quel piccolo incidente, quando eseguii il mio celebre balzo aggraziato e felino.»
+
+«Ho la testa che gira un po'» disse Granby, «ma comincio a farmi un'idea di che cosa parli tutto questo [[nightmare|incubo]]. Che c'entrate voi e il vostro balzo felino?»
+
+«All'ufficio postale, oggi» disse [[Father Brown|Padre Brown]], «ho casualmente confermato l'affermazione che il baronetto mi fece ieri, cioè che vi era stato subito dopo l'ora di [[Time|chiusura]] il giorno precedente: vale a dire non solo il giorno stesso del nostro arrivo, ma all'[[Time|ora]] precisa in cui arrivammo. Non vedete che cosa significa? Significa che in realtà era fuori quando ci presentammo, e rientrò mentre aspettavamo; ed ecco perché dovemmo aspettare tanto a lungo. E quando lo compresi, vidi d'un tratto un quadro che raccontava l'intera storia.»
+
+«[[Well|Ebbene]]» chiese l'altro, spazientito, «e con ciò?»

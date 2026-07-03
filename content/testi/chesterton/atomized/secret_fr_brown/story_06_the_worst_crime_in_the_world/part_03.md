@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/secret-fr-brown-(chesterton)">secret Fr Brown</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/secret_fr_brown/story_06_the_worst_crime_in_the_world/part_02">‹ part 02</a><a class="ex-next" href="/testi/chesterton/atomized/secret_fr_brown/story_06_the_worst_crime_in_the_world/part_04">part 04 ›</a></div>
@@ -140,3 +142,46 @@ has come down, and from father to son it shall continue. You may assure
 yourselves, gentlemen, and you may assure my son, that I shall not leave
 my money to a [[Home|home]] for lost cats. Musgrave shall leave it to Musgrave
 till the heavens fall."
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/secret-fr-brown-(chesterton)">secret Fr Brown</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/secret_fr_brown/story_06_the_worst_crime_in_the_world/part_02">‹ part 02</a><a class="ex-next" href="/testi/chesterton/atomized/secret_fr_brown/story_06_the_worst_crime_in_the_world/part_04">part 04 ›</a></div>
+</nav>
+
+Interruppero il loro [[Journey|viaggio]] assai piacevolmente in una delle grandi vallate del West Riding, cenando e pernottando in una comoda locanda, e ripartiti di buon mattino il giorno seguente cominciarono a costeggiare la riviera del Northumberland finché non giunsero in una regione che era un labirinto di dune di sabbia e di rigogliosi prati marini, nel cuore dei quali sorgeva, chissà dove, l'antico [[Castle|castello]] di confine, rimasto monumento tanto singolare quanto misterioso delle vecchie guerre di frontiera. Lo trovarono infine, seguendo un sentiero che correva lungo un lungo braccio di mare protendentesi nell'entroterra, il quale si mutava alla fine in una sorta di rozzo canale che terminava nel fossato del [[Castle|castello]]. Il [[Castle|castello]] era davvero un [[Castle|castello]], della pianta quadrata e merlata che i Normanni edificarono ovunque, dalla Galilea ai Grampiani. Aveva realmente e veramente una saracinesca e un ponte levatoio, e ne furono avvertiti in modo assai realistico da un incidente che ritardò il loro ingresso.
+
+Guadarono in mezzo all'erba lunga e ispida e ai cardi fino alla sponda del fossato, che scorreva come un nastro nero cosparso di [[Leaves|foglie]] morte e di schiuma, simile a un'ebano intarsiato di un motivo d'oro. A malapena una iarda o due oltre il nastro nero c'erano l'altra sponda verde e i grandi pilastri di pietra del portale. Ma tanto poco, a quanto pareva, quella solitaria fortezza era stata avvicinata dall'esterno, che quando l'impaziente Granby gridò dall'altra parte verso le figure indistinte dietro la saracinesca, esse parvero avere non poca difficoltà anche solo ad abbassare il grande ponte levatoio arrugginito. Esso si avviò, rovesciandosi come una grande torre che cadesse sopra di loro, e poi si bloccò, restando sospeso a mezz'aria con un'inclinazione minacciosa.
+
+L'impaziente Granby, saltellando sulla sponda, gridò al suo compagno:
+
+«Oh, non sopporto questi modi da lumaca! Perbacco, sarebbe meno faticoso saltare.»
+
+E con la sua caratteristica impetuosità saltò davvero, atterrando con un leggero barcollamento al sicuro sulla riva interna. Le corte gambe di [[Father Brown]] non erano adatte al salto. Ma la sua indole era più adatta di quella dei più a cadere con un tonfo in un'[[Water|acqua]] fangosissima. Grazie alla prontezza del compagno evitò di cadervi troppo dentro. Ma mentre veniva issato su per la sponda verde e viscida, si fermò a capo chino, scrutando un punto particolare del pendio erboso.
+
+«State facendo botanica?» chiese Granby irritato. «Non abbiamo [[Time|tempo]] perché vi mettiate a raccogliere piante rare, dopo l'ultimo vostro tentativo da palombaro fra le meraviglie degli abissi. Andiamo, fangoso o no, dobbiamo presentarci al baronetto.»
+
+Quando furono penetrati nel [[Castle|castello]], furono accolti con abbastanza cortesia da un vecchio domestico, l'unico in vista, e dopo aver esposto il motivo della loro visita furono introdotti in una lunga sala rivestita di pannelli di quercia, con finestre a graticcio di foggia antiquata. Armi di molti secoli diversi pendevano in composizioni equilibrate sulle pareti scure, e una completa armatura del Trecento se ne stava come una sentinella accanto al grande camino. In un'altra lunga sala più oltre si scorgevano, attraverso la porta socchiusa, i colori scuri delle file di ritratti di famiglia.
+
+«Mi sento come se fossi finito dentro un [[Novel|romanzo]] invece che in una [[house|casa]]» disse l'avvocato. «Non avevo idea che qualcuno tenesse davvero in vita a questo modo i "Misteri di Udolpho".»
+
+«Già; il vecchio gentiluomo porta avanti la sua mania storica con coerenza, non c'è che dire» rispose il prete; «e queste cose non sono nemmeno dei falsi. Non è opera di qualcuno che crede che tutti gli uomini del Medioevo siano vissuti nello stesso [[Time|tempo]]. Talvolta compongono armature con pezzi di provenienza diversa; ma quell'armatura copriva tutta un solo uomo, e lo copriva assai completamente. Vedete, è del tipo tardo, da giostra.»
+
+«Io penso che sia un ospite del tipo tardo, se è per chiacchierare» brontolò Granby. «Ci sta facendo aspettare un [[Time|tempo]] indiavolato.»
+
+«Dovete aspettarvi che tutto vada a rilento in un luogo simile» disse [[Father Brown]]. «Trovo molto garbato da parte sua ricevirci comunque: due perfetti sconosciuti venuti a porgli domande estremamente personali.»
+
+E, in effetti, quando il padrone di [[house|casa]] comparve, non ebbero motivo di lamentarsi dell'accoglienza; anzi, presero coscienza di qualcosa di genuino in quelle tradizioni di educazione e di contegno che sapevano conservare senza sforzo la loro nativa dignità in quella barbara [[Solitude|solitudine]], e dopo quei lunghi anni di isolamento campagnolo e di malinconia. Il baronetto non parve né sorpreso né imbarazzato dalla rara visita; e sebbene sospettassero che non aveva avuto un estraneo in [[house|casa]] per un quarto di [[Time|vita]], si comportò come se un attimo prima stesse congedandosi con un inchino da certe duchesse. Non mostrò né timidezza né impazienza quando toccarono la faccenda assai privata della loro missione; dopo un poco di riflessione senza fretta, parve riconoscere che, date le circostanze, la loro curiosità era giustificata. Era un vecchio gentiluomo magro, dall'aria acuta, con sopracciglia nere e un lungo mento, e sebbene i capelli accuratamente arricciati che portava fossero senza dubbio una parrucca, ebbe la saggezza di indossare la parrucca grigia di un uomo anziano.
+
+«Quanto alla questione che vi riguarda direttamente» disse, «la risposta è davvero semplicissima. Mi propongo di certo di trasmettere l'intera mia proprietà a mio figlio, come mio padre la trasmise a me; e nulla — dico con piena consapevolezza, nulla — mi indurrebbe a seguire un'altra via.»
+
+«Vi sono profondamente grato dell'informazione» rispose l'avvocato. «Ma la vostra cortesia mi incoraggia a osservare che ponete la cosa in termini assai perentori. Non vorrei insinuare che sia minimamente probabile che vostro figlio faccia alcunché tale da farvi [[Doubt|dubitare]] della sua idoneità all'incarico. Eppure, potrebbe...»
+
+«Esattamente» disse Sir John Musgrave asciutto, «potrebbe. È piuttosto un'attenuazione dire che potrebbe. Volete avere la bontà di passare un momento nell'altra stanza con me?»
+
+Li condusse nella galleria più interna, di cui avevano già colto un'occhiata, e si fermò gravemente davanti a una fila di ritratti anneriti e accigliati.
+
+«Questo è Sir Roger Musgrave» disse, indicando un personaggio dal volto allungato con una nera parrucca. «Fu uno dei più bassi bugiardi e furfanti dei furfanteschi [[Time|tempi]] di Guglielmo d'Orange, traditore di due re e press'a poco assassino di due mogli. Quello è suo padre, Sir Robert, un vecchio cavaliere perfettamente onesto. Quello è suo figlio, Sir James, uno dei più nobili martiri giacobiti e uno dei primi a tentare qualche riparazione verso la Chiesa e i poveri. Ha forse importanza che la [[house|Casa]] dei Musgrave, la potenza, l'[[Honour|onore]], l'autorità, siano discesi da un uomo buono a un altro uomo buono attraverso l'intervallo di uno cattivo? Edoardo I governò [[Well|bene]] l'Inghilterra. [[Edward III|Edoardo III]] coprì l'Inghilterra di gloria. Eppure la seconda gloria discese dalla prima gloria attraverso l'infamia e l'imbecillità di Edoardo II, che vezzeggiava Gaveston e fuggì davanti a Bruce. Credetemi, signor Granby, la [[Greatness|grandezza]] di una [[Great House|grande casata]] e della [[history|storia]] è qualcosa di più di questi individui accidentali che la portano avanti, per quanto non le rechino lustro. Di padre in figlio è discesa la nostra eredità, e di padre in figlio continuerà. Potete star certi, signori, e potete assicurare a mio figlio, che non lascerò il mio denaro a un [[Home|ricovero]] per gatti smarriti. Un Musgrave lo lascerà a un Musgrave finché non crollino i cieli.»

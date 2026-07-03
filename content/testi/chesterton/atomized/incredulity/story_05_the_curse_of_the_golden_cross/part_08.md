@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/incredulity-(chesterton)">Incredulity</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/incredulity/story_05_the_curse_of_the_golden_cross/part_07">‹ part 07</a><a class="ex-next" href="/testi/chesterton/atomized/incredulity/story_05_the_curse_of_the_golden_cross/part_09">part 09 ›</a></div>
@@ -148,3 +150,147 @@ that was fixed in the corner of the coffin, holding up the lid.
 So that when poor Smaill merely plucked at the cross it jerked
 the prop out of its place and the lid fell on his skull like a
 club of stone.'
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/incredulity-(chesterton)">Incredulity</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/incredulity/story_05_the_curse_of_the_golden_cross/part_07">‹ part 07</a><a class="ex-next" href="/testi/chesterton/atomized/incredulity/story_05_the_curse_of_the_golden_cross/part_09">part 09 ›</a></div>
+</nav>
+
+Lady [[Diana]] si era un poco riavuta dalla sua trance di Cassandra,
+e la sua perenne curiosità per le cose nuove tornava ad affacciarsi
+dai suoi occhi vividi e sporgenti.
+
+«Che uomo curioso siete!» disse. «Perché mai dovreste
+dubitare della [[history|storia]]?»
+
+«Non credo alla storia perché non è storia»,
+rispose Padre Brown. «Per chiunque si dia il caso di conoscere
+un poco il Medioevo, tutta la vicenda era all'incirca
+tanto probabile quanto Gladstone che offre alla [[Queen|regina]] Vittoria un sigaro.
+Ma qualcuno sa qualcosa del Medioevo? Sapete
+che cos'era una Gilda? Avete mai sentito parlare del salvo managio suo?
+Sapete che genere di persone fossero i Servi Regis?
+
+«No, certo che non lo so», disse la dama, piuttosto stizzita.
+«Quante parole latine!»
+
+«No, certo», disse Padre Brown. «Se si fosse trattato di Tutankhamon
+e di un manipolo di Africani rinsecchiti, conservati Dio sa perché
+all'altro capo del mondo; se si fosse trattato di Babilonia o della Cina;
+se si fosse trattato di qualche razza remota e misteriosa come l'Uomo
+nella [[Moon|Luna]], i vostri giornali vi avrebbero raccontato ogni cosa,
+fino all'ultima scoperta di uno spazzolino da denti o di un bottone da colletto.
+Ma gli uomini che costruirono le chiese delle vostre parrocchie, e diedero i nomi
+alle vostre città e ai vostri mestieri, e alle strade stesse su cui camminate...
+non vi è mai passato per la mente di saperne qualcosa.
+Non pretendo di saperne molto neppure io; ma ne so abbastanza per capire
+che quella storia è fandonia e assurdità dal principio alla fine. Era
+illegale, per un usuraio, pignorare la bottega e gli arnesi di un uomo.
+È oltremodo improbabile che la Gilda non avrebbe salvato un uomo
+da una simile rovina totale, specie se rovinato da un ebreo.
+Quella gente aveva vizi e tragedie tutte sue;
+talvolta torturava e bruciava la gente. Ma quell'idea di un uomo,
+senza Dio né [[Hope|speranza]] al mondo, che si trascina via a morire perché
+a nessuno importa se vive o no... non è un'idea medievale.
+È un prodotto della nostra scienza economica e del nostro progresso.
+L'ebreo non sarebbe stato vassallo del signore feudale.
+Gli ebrei di norma avevano una posizione speciale come servi del [[King|Re]].
+Soprattutto, l'ebreo non avrebbe potuto in alcun modo essere bruciato
+per la sua religione.»
+
+«I paradossi si moltiplicano», osservò Tarrant; «ma di certo
+non negherete che gli ebrei fossero perseguitati nel Medioevo?»
+
+«Sarebbe più vicino alla [[Truth|verità]]», disse [[Father Brown|Padre Brown]], «dire che furono
+l'unico popolo a non essere perseguitato nel Medioevo.
+Se volete fare la satira del medievalismo, potreste costruire un buon caso
+dicendo che un povero cristiano poteva essere arso vivo per aver commesso
+un errore sull'Homoousion, mentre un ricco ebreo poteva passeggiare
+per strada sogghignando apertamente su Cristo e sulla Madre di Dio.
+Ebbene, ecco a che cosa somiglia quella storia. Non fu mai una storia
+del Medioevo; non fu mai nemmeno una leggenda sul Medioevo.
+Fu inventata da qualcuno le cui nozioni venivano da romanzi e giornali,
+e probabilmente inventata lì per lì, sul momento.»
+
+Gli altri parevano un po' storditi da quella digressione storica,
+e sembravano domandarsi vagamente perché il prete vi ponesse tanta enfasi
+e ne facesse una parte così importante dell'enigma.
+Ma Tarrant, il cui mestiere era estrarre il dettaglio pratico
+da molti grovigli di digressione, si era d'un tratto fatto attento.
+Il mento barbuto era proteso in avanti più che mai,
+ma i suoi occhi tetri erano ben desti. «Ah», disse;
+«inventata lì per lì, sul momento!»
+
+«Forse è un'esagerazione», ammise [[Father Brown|Padre Brown]] con calma.
+«Direi piuttosto inventata con più noncuranza e trascuratezza
+del resto di una trama insolitamente accurata. Ma il macchinatore non
+pensò che i dettagli della storia medievale avrebbero contato granché per chicchessia.
+E il suo calcolo, in linea generale, era pressoché esatto,
+come la maggior parte degli altri suoi calcoli.»
+
+«Il calcolo di chi? Chi aveva ragione?» incalzò la dama con un'improvvisa
+vampata d'impazienza. «Chi è questa persona di cui state parlando?
+Non ne abbiamo passate abbastanza, senza che voi ci facciate accapponare
+la pelle con i vostri "lui" e i vostri "egli"?»
+
+«Sto parlando dell'assassino», disse [[Father Brown|Padre Brown]].
+
+«Quale assassino?» chiese lei bruscamente. «Volete dire che il povero
+Professore è stato assassinato?»
+
+«Be'», disse Tarrant con voce roca, fissando la propria barba,
+«non possiamo dire "assassinato", perché non sappiamo che sia stato ucciso.»
+
+«L'assassino ha ucciso qualcun altro, che non era il Professor Smaill»,
+disse il prete con gravità.
+
+«E chi altri poteva uccidere?» chiese l'altro.
+«Ha ucciso il reverendo John Walters, vicario di Dulham»,
+replicò [[Father Brown|Padre Brown]] con precisione. «Voleva uccidere soltanto quei due,
+perché entrambi avevano messo le mani su reliquie di un unico raro modello.
+L'assassino era una specie di monomaniaco su quel punto.»
+
+«Suona tutto molto strano», mormorò Tarrant.
+«Certo, non possiamo neppure giurare che il vicario sia davvero morto.
+Non abbiamo visto il suo corpo.»
+
+«Oh, invece sì che l'avete visto», disse [[Father Brown|Padre Brown]].
+
+Ci fu un [[Silence|silenzio]] improvviso come il colpo di un gong;
+un [[Silence|silenzio]] in cui quel congetturare inconscio che era tanto
+vivo e infallibile nella donna la spinse quasi a un grido.
+
+«È esattamente ciò che avete visto», proseguì il prete.
+«Avete visto il suo [[Body|corpo]]. Non avete visto lui...
+l'uomo vero e vivo; ma il suo [[Body|corpo]] l'avete visto eccome.
+L'avete fissato a lungo alla luce di quattro grandi ceri;
+e non si dibatteva suicida nel mare, ma giaceva in stato solenne
+come un Principe della Chiesa in un reliquiario eretto prima della Crociata.»
+
+«In parole povere», disse Tarrant, «voi ci chiedete davvero di credere
+che quel [[Body|corpo]] imbalsamato fosse in realtà la salma di un uomo assassinato.»
+
+[[Father Brown|Padre Brown]] tacque per un istante; poi disse quasi con un'aria
+di irrilevanza: «La prima cosa che notai fu la croce;
+o meglio la cordicella che la sosteneva. Naturalmente, per la maggior parte di voi,
+era solo un filo di grani e nient'altro di particolare;
+ma, altrettanto naturalmente, era faccenda più di mia competenza che vostra.
+Ricorderete che stava aderente al mento, con solo pochi
+grani in vista, come se l'intera collana fosse assai corta.
+Ma i grani che si vedevano erano disposti in un modo speciale, prima uno
+e poi tre, e così via; di fatto, capii a colpo d'occhio che
+era un rosario, un comune rosario con una croce all'estremità.
+Ma un rosario ha almeno cinque poste e altri grani in aggiunta;
+e mi domandai naturalmente dove fosse finito tutto il resto.
+Avrebbe fatto ben più di un giro intorno al collo del vecchio.
+Sul momento non riuscii a spiegarmelo; e fu solo
+in seguito che indovinai dove fosse andata a finire la lunghezza in più.
+Era avvolta e riavvolta intorno alla base del sostegno di legno
+fissato nell'angolo della bara, che reggeva su il coperchio.
+Cosicché, quando il povero Smaill diede appena uno strattone alla croce, questa fece scattare
+il sostegno fuori posto e il coperchio gli piombò sul cranio come una
+mazza di pietra.»

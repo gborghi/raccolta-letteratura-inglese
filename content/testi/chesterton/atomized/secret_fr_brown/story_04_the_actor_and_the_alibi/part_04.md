@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/secret-fr-brown-(chesterton)">secret Fr Brown</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/secret_fr_brown/story_04_the_actor_and_the_alibi/part_03">‹ part 03</a><a class="ex-next" href="/testi/chesterton/atomized/secret_fr_brown/story_04_the_actor_and_the_alibi/part_05">part 05 ›</a></div>
@@ -135,3 +137,144 @@ sadly.
 "Nil nisi bonum indeed," said Jarvis grimly. "I don't think Randall at
 any rate has heard of the story of the strange lady visitor. By the way,
 don't you think it probably was the strange woman?"
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/secret-fr-brown-(chesterton)">secret Fr Brown</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/secret_fr_brown/story_04_the_actor_and_the_alibi/part_03">‹ part 03</a><a class="ex-next" href="/testi/chesterton/atomized/secret_fr_brown/story_04_the_actor_and_the_alibi/part_05">part 05 ›</a></div>
+</nav>
+
+Rimasero entrambi per un istante in atteggiamento d'ascolto, sicché la
+voce tonante dell'attore sul palcoscenico poteva davvero udirsi
+[[rolling|rimbombare]] fioca giù per le scale e lungo il corridoio. Prima
+che avessero ripreso a parlare o riconquistato la loro compostezza
+abituale, gli orecchi si riempirono di un altro suono. Fu uno schianto
+sordo ma pesante, e proveniva da dietro la porta chiusa dello studio
+privato di Mundon Mandeville.
+
+[[Father Brown|Padre Brown]] si lanciò lungo il corridoio come una freccia
+scoccata dall'arco, e già armeggiava con la maniglia prima ancora che
+Jarvis si fosse riscosso con un sussulto e avesse cominciato a seguirlo.
+
+«La porta è chiusa a chiave» disse il prete, voltando un viso un po'
+pallido. «E sono del tutto favorevole ad abbatterla.»
+
+«Vuoi dire» chiese Jarvis con un'aria piuttosto atterrita «che il
+visitatore ignoto è di nuovo entrato là dentro? Credi che si tratti di
+qualcosa di serio?» Dopo un momento aggiunse: «Forse riesco a far
+scorrere indietro il chiavistello; conosco il congegno di queste porte.»
+
+Si inginocchiò ed estrasse un temperino munito di un lungo arnese
+d'acciaio, lo manovrò per un istante, e la porta si spalancò sullo
+studio del direttore. Quasi la prima cosa che notarono fu che non
+c'era nessun'altra porta e neppure una [[Window|finestra]], ma sul tavolo
+si ergeva una grande lampada elettrica. Non fu però proprio la prima
+cosa che notarono; perché ancor prima di quella avevano visto che
+Mandeville giaceva bocconi in mezzo alla stanza e il [[Blood|sangue]]
+strisciava fuori da sotto il suo volto riverso come un disegno di serpi
+scarlatte che luccicavano malvagiamente in quella luce sotterranea e
+innaturale.
+
+Non seppero dire quanto a lungo si fossero fissati l'un l'altro quando
+Jarvis disse, come chi lascia sfuggire qualcosa che aveva trattenuto col
+fiato:
+
+«Se la sconosciuta è entrata in qualche modo, in qualche modo se n'è
+andata.»
+
+«Forse pensiamo troppo alla sconosciuta» disse [[Father Brown|Padre Brown]].
+«Ci sono tante cose strane in questo strano teatro che si tende
+piuttosto a dimenticarne qualcuna.»
+
+«Ma quali cose intendi?» chiese l'amico in fretta.
+
+«Ce ne sono molte» disse il prete. «C'è l'altra porta chiusa a chiave,
+per esempio.»
+
+«Ma l'altra porta è chiusa a chiave» esclamò Jarvis fissandolo.
+
+«Eppure te ne sei dimenticato lo stesso» disse [[Father Brown|Padre Brown]].
+Qualche istante dopo soggiunse pensieroso: «Quella signora Sands è un
+tipo scontroso e tetro.»
+
+«Vuoi dire» chiese l'altro a voce più bassa «che sta mentendo e che
+l'italiana è uscita davvero?»
+
+«No» disse il prete con calma; «credo di intenderlo più o meno come uno
+studio distaccato di carattere.»
+
+«Non puoi voler dire» esclamò l'attore «che sia stata la signora Sands
+in persona?»
+
+«Non intendevo uno studio del suo carattere» disse [[Father Brown|Padre Brown]].
+
+Mentre si scambiavano queste brusche riflessioni, [[Father Brown|Padre Brown]]
+si era inginocchiato accanto al [[Body|corpo]] e aveva accertato che era, al
+di là di ogni [[Hope|speranza]] o dubbio, un [[Body|corpo]] senza vita. Accanto
+ad esso, benché non immediatamente visibile dalla soglia, giaceva un
+pugnale del genere teatrale; disteso come se fosse caduto dalla ferita o
+dalla mano dell'assassino. Secondo Jarvis, che riconobbe lo strumento,
+non c'era molto da ricavarne, a meno che gli esperti non riuscissero a
+trovarvi qualche impronta digitale. Era un pugnale di scena; vale a
+dire, non era proprietà di nessuno; se ne stava in giro per il teatro da
+lungo [[Time|tempo]], e chiunque avrebbe potuto raccoglierlo. Poi il prete
+si [[Rose|alzò]] e si guardò attorno gravemente per la stanza.
+
+«Dobbiamo mandare a chiamare la polizia» disse; «e un medico, per quanto
+il medico giunga troppo tardi. A guardare questa stanza, del resto, non
+vedo come la nostra amica italiana avrebbe potuto farcela.»
+
+«L'italiana!» esclamò l'amico; «direi proprio di no. Avrei pensato che
+avesse un alibi, se mai qualcuno ne aveva uno. Due stanze separate,
+entrambe chiuse a chiave, alle estremità opposte di un lungo corridoio,
+con un testimone fisso a sorvegliarlo.»
+
+«No» disse [[Father Brown|Padre Brown]]. «Non proprio. La difficoltà è come
+avrebbe potuto entrare da questa parte. Penso che potrebbe essere uscita
+dall'altra.»
+
+«E perché?» chiese l'altro.
+
+«Ti ho detto» disse [[Father Brown|Padre Brown]] «che pareva stesse rompendo
+del vetro: specchi o finestre. Sciocco che sono, avevo dimenticato una
+cosa che sapevo [[Well|benissimo]]: che è piuttosto superstiziosa. Non era
+probabile che rompesse uno [[Mirror|specchio]]; perciò sospetto che abbia
+rotto una [[Window|finestra]]. È vero che tutto questo è al di sotto del
+pianterreno; ma potrebbe trattarsi di un lucernario o di una
+[[Window|finestra]] che dà su un cortiletto. Solo che qui non pare esserci
+né lucernari né cortiletti.» E fissò il soffitto con grande intensità
+per un [[Time|tempo]] considerevole.
+
+D'improvviso ritornò alla vita cosciente con un sussulto. «Dobbiamo
+salire di sopra, telefonare e avvertire tutti. È piuttosto penoso... Dio
+mio, li senti quegli attori che ancora gridano e declamano di sopra? La
+commedia va ancora avanti. Suppongo sia questo che chiamano ironia
+tragica.»
+
+Quando fu deciso dal fato che il teatro dovesse mutarsi in una
+[[house|casa]] di lutto, agli attori fu offerta l'occasione di mostrare
+molte delle virtù autentiche del loro tipo e del loro mestiere. Si
+comportarono, come suol dirsi, da gentiluomini; e non soltanto da
+primi gentiluomini di scena. Non tutti avevano amato o stimato
+Mandeville, ma sapevano esattamente le cose giuste da dire sul suo
+conto; mostrarono non solo comprensione ma delicatezza nel loro
+atteggiamento verso la vedova. Ella era divenuta, in un senso nuovo e
+assai diverso, una [[Queen|regina]] della [[Tragedy|tragedia]]: la sua parola
+più lieve era legge, e mentre si muoveva lenta e mesta, essi le
+sbrigavano mille commissioni.
+
+«È sempre stata un carattere forte» disse il vecchio Randall con voce
+piuttosto roca; «e aveva la testa migliore di tutti noi. Certo, il
+povero Mandeville non è mai stato al suo livello quanto a
+[[Education|istruzione]] e via dicendo; ma lei ha sempre fatto il proprio
+dovere in modo splendido. Era addirittura patetico il modo in cui talora
+diceva di aver desiderato una vita più intellettuale; ma
+Mandeville... [[Well|insomma]], nil nisi bonum, come si dice.» E il vecchio
+signore se ne andò scuotendo tristemente il capo.
+
+«Nil nisi bonum, davvero» disse Jarvis con amarezza. «Non credo che
+Randall, almeno lui, abbia sentito la storia della strana visitatrice.
+A proposito, non pensi che probabilmente sia stata la strana donna?»

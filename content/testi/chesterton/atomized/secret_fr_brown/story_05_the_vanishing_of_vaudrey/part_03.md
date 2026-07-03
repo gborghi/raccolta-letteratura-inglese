@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/secret-fr-brown-(chesterton)">secret Fr Brown</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/secret_fr_brown/story_05_the_vanishing_of_vaudrey/part_02">‹ part 02</a><a class="ex-next" href="/testi/chesterton/atomized/secret_fr_brown/story_05_the_vanishing_of_vaudrey/part_04">part 04 ›</a></div>
@@ -117,3 +119,116 @@ later, Evan [[smith|Smith]] heard his own name called cautiously and yet clearly
 from the green depths of the thicket. He stepped rapidly in that
 direction and met [[Father Brown]] returning. The priest said to him, in a
 very low voice:
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/secret-fr-brown-(chesterton)">secret Fr Brown</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/secret_fr_brown/story_05_the_vanishing_of_vaudrey/part_02">‹ part 02</a><a class="ex-next" href="/testi/chesterton/atomized/secret_fr_brown/story_05_the_vanishing_of_vaudrey/part_04">part 04 ›</a></div>
+</nav>
+
+«Sì,» disse l'altro pazientemente, «e cosa significa questo?»
+
+«Significa,» replicò il segretario, «che è un criminale che commette
+un altro crimine: e il suo crimine dipende dal tenere Vaudrey in vita.»
+
+«Oh, capisco,» disse [[Father Brown]].
+
+«Conosco Sybil Rye piuttosto [[Well|bene]], e il suo carattere è gran parte di questa
+storia. È un carattere davvero eccellente in entrambi i sensi: cioè, è di
+nobile qualità e di tessitura fin troppo delicata. È una di quelle
+persone terribilmente coscienziose, senza nulla di quella corazza di
+abitudine e di duro buon senso che molte persone coscienziose acquisiscono. È
+quasi follemente sensibile e allo stesso [[Time|tempo]] del tutto disinteressata. La sua
+[[history|storia]] è curiosa: fu lasciata letteralmente senza un soldo come una trovatella
+e Sir [[Arthur]] la prese nella sua [[house|casa]] e la trattò con
+riguardo, cosa che stupì molti; poiché, senza essere severi con il vecchio,
+non era molto nel suo stile. Ma, quando ebbe circa diciassette anni, la
+spiegazione le giunse con uno shock; poiché il suo tutore le chiese di
+sposarlo. Ora arrivo alla parte curiosa della storia. In un modo o nell'
+altro, Sybil aveva udito da qualcuno (sospetto piuttosto dal vecchio Abbott)
+che Sir [[Arthur]] Vaudrey, nella sua sfrenata giovinezza, aveva commesso qualche crimine
+o, almeno, fatto qualche gran torto a qualcuno, che l'aveva messo in
+seri guai. Non so cosa fosse. Ma fu una sorta di
+[[nightmare|incubo]] per la ragazza alla sua età cruda e sentimentale, e lo fece sembrare
+come un [[Monster|mostro]], almeno troppo tale per l'intima relazione del [[Marriage|matrimonio]].
+Ciò che ella fece fu incredibilmente tipico di lei. Con impotente terrore e
+con eroico [[Courage|coraggio]] gli disse la [[Truth|verità]] con le proprie labbra tremanti.
+Ammise che la sua repulsione potesse essere morbosa; la confessò come una
+segreta [[Madness|follia]]. Con suo sollievo e sorpresa egli la prese con calma e
+cortesia, e apparentemente non disse altro sull'argomento; e il suo senso
+della generosità di lui fu grandemente accresciuto dalla fase successiva della storia.
+Nella sua vita solitaria entrò l'influenza di un uomo altrettanto solitario.
+Egli si era accampato come una sorta di eremita su una delle isole del
+[[River|fiume]]; e suppongo che il mistero lo rendesse attraente, benché ammetta che
+è attraente abbastanza; un gentiluomo, e assai spiritoso, sebbene molto
+[[Melancholy|malinconico]]: il che, suppongo, accresceva il [[Romance|romanticismo]]. Era quest'uomo,
+Dalmon, naturalmente; e a tutt'oggi non sono sicuro fino a che punto ella lo
+accettasse davvero; ma si arrivò al punto che egli ottenne il permesso di vedere il suo
+tutore. Posso immaginarla mentre attende quel colloquio in un'agonia di terrore
+domandandosi come il vecchio bellimbusto avrebbe preso l'apparizione di un rivale. Ma
+anche qui ella scoprì di avergli apparentemente fatto un'ingiustizia. Egli
+accolse il giovane con cordiale ospitalità e sembrò
+deliziato dalle prospettive della giovane coppia. Egli e Dalmon andavano
+insieme a caccia e a pesca ed erano i migliori amici, quando un giorno
+ella ebbe un altro shock. Dalmon si lasciò sfuggire in conversazione qualche
+frase casuale, che il vecchio «non era cambiato molto in trent'anni», e la
+[[Truth|verità]] sulla strana intimità le esplose davanti. Tutta quella presentazione e
+ospitalità erano state una mascherata; i due uomini evidentemente si erano conosciuti
+prima. Ecco perché il più giovane era sceso piuttosto di nascosto
+in quel distretto. Ecco perché il più anziano si prestava così
+prontamente a promuovere il matrimonio. Mi [[Wonder|domando]] cosa stiate pensando.»
+
+«So cosa state pensando,» disse [[Father Brown]], con un sorriso, «e
+sembra del tutto logico. Qui abbiamo Vaudrey, con qualche brutta storia nel
+suo passato: un misterioso straniero venuto a perseguitarlo, e che ottiene da lui tutto ciò
+che vuole. In parole povere, voi pensate che Dalmon sia un ricattatore.»
+
+«Sì,» disse l'altro; «e per giunta è una cosa marcia da pensare.»
+
+[[Father Brown]] rifletté un momento e poi disse: «Credo che mi
+piacerebbe salire alla [[house|casa]] adesso e fare due chiacchiere con il dottor Abbott.»
+
+Quando uscì di nuovo dalla [[house|casa]] un'ora o due dopo, poteva
+avere parlato con il dottor Abbott, ma emerse in compagnia di Sybil
+Rye, una ragazza pallida dai capelli rossicci e dal profilo delicato e quasi
+tremulo; al vederla, si poteva istantaneamente comprendere tutto il
+racconto del segretario sul suo rabbrividente candore. Ricordava Godiva e
+certi racconti di martiri vergini; solo i timidi possono essere così spudorati per amore della
+[[Conscience|coscienza]]. [[smith|Smith]] si fece avanti per incontrarli, e per un momento
+rimasero a parlare sul prato. La giornata, che era stata splendida fin dallo
+spuntar del giorno, ora ardeva e persino abbagliava; ma [[Father Brown]] portava il suo
+nero fagotto di ombrello [[Well|oltre]] a indossare il suo nero ombrello di
+cappello; e sembrava, in generale, abbottonato per affrontare la [[Storm|tempesta]]. Ma
+forse era solo un effetto inconscio dell'atteggiamento; e forse la
+[[Storm|tempesta]] non era una [[Storm|tempesta]] materiale.
+
+«Ciò che odio di tutta questa faccenda,» stava dicendo Sybil a bassa voce, «sono le
+chiacchiere che già cominciano; sospetti contro tutti. John ed
+Evan possono garantire l'uno per l'altro, immagino; ma il dottor Abbott ha avuto una
+scena tremenda con il macellaio, il quale crede di essere accusato e di conseguenza va
+lanciando accuse a destra e a manca.»
+
+Evan [[smith|Smith]] appariva assai a disagio; poi sbottò: «Sentite,
+Sybil, non posso dire molto, ma non crediamo che ci sia alcun bisogno di tutto
+questo. È tutto molto brutto, ma non pensiamo che ci sia stata... alcuna
+violenza.»
+
+«Avete una teoria, allora?» disse la ragazza, guardando all'istante il
+prete.
+
+«Ho udito una teoria,» rispose, «che mi sembra molto
+convincente.»
+
+Rimase a guardare piuttosto sognante verso il [[River|fiume]]; e [[smith|Smith]] e Sybil
+cominciarono a parlarsi rapidamente, a voce bassa. Il prete
+si lasciò andare lungo la riva del [[River|fiume]], rimuginando, e si addentrò in un boschetto
+di alberi radi su una riva quasi a strapiombo. Il sole forte batteva sul
+sottile velo di piccole [[Leaves|foglie]] danzanti come piccole fiamme verdi, e tutti gli
+[[Birds|uccelli]] cantavano come se l'albero avesse cento lingue. Un minuto o due
+più tardi, Evan [[smith|Smith]] udì il proprio nome chiamare cautamente eppure chiaramente
+dalle verdi profondità della macchia. Si mosse rapidamente in quella
+direzione e incontrò [[Father Brown]] che tornava. Il prete gli disse, in una
+voce molto bassa:

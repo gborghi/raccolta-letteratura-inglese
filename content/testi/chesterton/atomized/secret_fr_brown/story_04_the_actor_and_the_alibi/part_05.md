@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/secret-fr-brown-(chesterton)">secret Fr Brown</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/secret_fr_brown/story_04_the_actor_and_the_alibi/part_04">‹ part 04</a><a class="ex-next" href="/testi/chesterton/atomized/secret_fr_brown/story_04_the_actor_and_the_alibi/part_06">part 06 ›</a></div>
@@ -127,3 +129,52 @@ and ask Mrs. Mandeville if I may speak to her in private?"
 
 "Oh, certainly," said Jarvis, as he turned towards the door. "But what's
 the matter with you?"
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/secret-fr-brown-(chesterton)">secret Fr Brown</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/secret_fr_brown/story_04_the_actor_and_the_alibi/part_04">‹ part 04</a><a class="ex-next" href="/testi/chesterton/atomized/secret_fr_brown/story_04_the_actor_and_the_alibi/part_06">part 06 ›</a></div>
+</nav>
+
+«Dipende» disse il prete, «da chi intende per la donna sconosciuta.»
+
+«Oh! Non intendo l'italiana» si affrettò a dire Jarvis. «Sebbene, a dire il vero, aveste ragione anche su di lei. Quando entrarono, il lucernario era in frantumi e la stanza vuota; ma, per quanto la polizia sia riuscita ad accertare, se ne tornò semplicemente a [[Home|casa]] nel modo più innocuo del mondo. No, intendo la donna che fu udita minacciarlo a quel misterioso convegno; la donna che diceva d'essere sua moglie. Crede che lo fosse davvero?»
+
+«È possibile» disse [[Father Brown]], fissando assorto il vuoto, «che fosse davvero sua moglie.»
+
+«Il che ci fornirebbe il movente della [[Jealousy|gelosia]] per il suo nuovo matrimonio bigamo» rifletté Jarvis, «poiché al [[Body|cadavere]] non fu sottratto nulla. Nessun bisogno di andare a frugare tra servi ladri o attori squattrinati. Ma, del resto, avrete certo notato la cosa più singolare e spiccata di tutto il caso?»
+
+«Ho notato parecchie cose singolari» disse [[Father Brown]]. «A quale allude?»
+
+«Alludo all'alibi collettivo» disse Jarvis gravemente. «Non capita spesso che quasi un'intera compagnia abbia un alibi pubblico come questo; un alibi su un palcoscenico illuminato, con tutti a farsi da testimoni l'un l'altro. A conti fatti, è una fortuna sfacciata per i nostri amici che il povero Mandeville avesse messo quelle due sciocche signore dell'alta società nel palco a seguire le prove. Possono testimoniare che l'intero atto fu recitato senza il minimo intoppo, con i personaggi in scena per tutto il [[Time|tempo]]. Cominciarono ben prima che Mandeville fosse visto per l'ultima volta entrare nella sua stanza. Proseguirono almeno cinque o dieci minuti dopo che lei ed io trovammo il suo [[Body|cadavere]]. E, per una fortunata coincidenza, l'istante in cui lo udimmo davvero cadere cadde nel [[Time|tempo]] in cui tutti i personaggi erano insieme sul palcoscenico.»
+
+«Sì, questo è senza dubbio molto importante e semplifica tutto» convenne [[Father Brown]]. «Contiamo dunque le persone coperte dall'alibi. C'era Randall: sono piuttosto propenso a credere che Randall in pratica odiasse il direttore, per quanto in questo momento sappia dissimulare molto bene i suoi sentimenti. Ma è escluso; era la sua voce quella che udimmo tuonare sopra le nostre teste dal palco. C'è il nostro jeune premier, il signor Knight: ho buone ragioni per supporre che provasse [[Love|amore]] per la moglie di Mandeville e che non nascondesse quel sentimento quanto avrebbe potuto; ma lui è fuori causa, perché si trovava in scena nello stesso [[Time|momento]], a farsi tuonare addosso. C'era quell'amabile ebreo che si fa chiamare Aubrey Vernon, ed è fuori; e c'è la signora Mandeville, ed è fuori. Il loro alibi collettivo, come dice lei, dipende soprattutto da Lady Miriam e dalla sua amica nel palco; sebbene vi sia poi la conferma di semplice buon senso, che l'atto doveva pur essere portato a termine e che il consueto svolgimento del teatro non pare aver subito interruzioni. I testimoni legali, tuttavia, sono Lady Miriam e la sua amica, Miss Talbot. Immagino che lei sia certo che siano a posto?»
+
+«Lady Miriam?» disse Jarvis sorpreso. «Oh, sì... Suppongo intenda che ha un'aria da strana vamp. Ma lei non ha idea di come appaiano oggigiorno persino le signore delle migliori famiglie. E poi, c'è forse qualche ragione particolare per dubitare della loro testimonianza?»
+
+«Solo che ci mette di fronte a un muro cieco» disse [[Father Brown]]. «Non vede che questo alibi collettivo copre praticamente tutti quanti? Quei quattro erano gli unici a recitare nel teatro in quel [[Time|momento]]; e non c'era quasi nessun domestico nel teatro; nessuno, in verità, tranne il vecchio Sam, che sorveglia l'unico ingresso ordinario, e la donna che vigilava sulla porta di Miss Maroni. Non resta a disposizione nessun altro tranne lei ed io. Potremmo di certo essere accusati del delitto, tanto più che siamo stati noi a trovare il [[Body|cadavere]]. Pare non ci sia nessun altro che possa essere accusato. Non l'avrà mica ucciso lei mentre non guardavo, per caso?»
+
+Jarvis sollevò lo sguardo con un lieve sobbalzo e fissò per un istante, poi il largo sorriso tornò sul suo volto bruno. Scosse il capo.
+
+«Non è stato lei» disse [[Father Brown]]; «e ammetteremo per un momento, unicamente per amor di ragionamento, che non sia stato io. Escluse le persone sul palcoscenico, ciò ci [[Leaves|lascia]] davvero con la Signora dietro la sua porta chiusa a chiave, la sentinella davanti a quella porta, e il vecchio Sam. Oppure sta pensando alle due signore nel palco? Certo, avrebbero potuto sgusciar via dal palco.»
+
+«No» disse Jarvis; «sto pensando alla donna sconosciuta che venne a dire a Mandeville di essere sua moglie.»
+
+«Forse lo era davvero» disse il prete; e questa [[Time|volta]] ci fu nella sua voce ferma una nota che indusse il compagno a rimettersi ancora una volta in piedi e a sporgersi sopra il tavolo.
+
+«Abbiamo detto» osservò con voce bassa e concitata «che questa prima moglie poteva essere gelosa dell'altra moglie.»
+
+«No» disse [[Father Brown]]; «poteva essere gelosa della ragazza italiana, forse, o di Lady Miriam Marden. Ma non era gelosa dell'altra moglie.»
+
+«E perché no?»
+
+«Perché non c'era nessun'altra moglie» disse [[Father Brown]]. «Lungi dall'essere un bigamo, il signor Mandeville mi pare essere stato un uomo altamente monogamo. Sua moglie gli stava quasi troppo appresso; gli stava tanto appresso che voi tutti caritatevolmente supponete che dovesse essere qualcun altro. Ma non vedo come potesse essere con lui quando fu ucciso, giacché conveniamo che stava recitando per tutto il [[Time|tempo]] davanti alle luci della ribalta. E per giunta recitando una parte importante...»
+
+«Vuol davvero dire» esclamò Jarvis, «che la donna sconosciuta che lo perseguitava come un [[Ghost|fantasma]] non era altro che la signora Mandeville che conosciamo tutti?» Ma non ricevette risposta; poiché [[Father Brown]] fissava il vuoto con un'espressione assente, quasi da idiota. Aveva sempre l'aria più ebete proprio nell'istante in cui era più acuto.
+
+L'istante seguente balzò in piedi, con l'aria sconvolta e angosciata. «È spaventoso» disse. «Non sono sicuro che non sia il caso peggiore che mi sia mai capitato; ma devo andare fino in fondo. Vorrebbe andare a chiedere alla signora Mandeville se posso parlarle in privato?»
+
+«Ma certo» disse Jarvis, voltandosi verso la porta. «Ma che cosa le prende?»

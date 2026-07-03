@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/incredulity-(chesterton)">Incredulity</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/incredulity/story_07_the_doom_of_the_darnaways/part_04">‹ part 04</a><a class="ex-next" href="/testi/chesterton/atomized/incredulity/story_07_the_doom_of_the_darnaways/part_06">part 06 ›</a></div>
@@ -140,3 +142,46 @@ demoniac picture, at least a duel between Darnaway and his own doubts.
 He wanted to bring the daylight of photography face to face with
 that dark masterpiece of painting; and to see whether the sunshine
 of the new art would not drive out the shadows of the old.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/incredulity-(chesterton)">Incredulity</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/incredulity/story_07_the_doom_of_the_darnaways/part_04">‹ part 04</a><a class="ex-next" href="/testi/chesterton/atomized/incredulity/story_07_the_doom_of_the_darnaways/part_06">part 06 ›</a></div>
+</nav>
+
+I cinque uomini, compreso il medico, sedevano attorno a un tavolo; e Payne rifletteva oziosamente che il proprio abito di tweed chiaro e i propri capelli rossi dovevano essere gli unici colori nella stanza, giacché il prete e l'amministratore erano vestiti di nero, e Wood e Darnaway indossavano d'abitudine completi di un grigio scuro che sembrava quasi nero. Forse era stata questa incongruità ciò che il giovane aveva inteso chiamandolo un essere umano. In quel momento il giovane stesso si voltò bruscamente sulla sedia e prese a parlare. Un attimo dopo l'artista stordito capì che stava parlando della cosa più tremenda del mondo.
+
+«C'è qualcosa di vero in tutto questo?» diceva. «È ciò che ho finito col domandarmi, fino quasi a impazzire. Non avrei mai creduto che sarei arrivato a pensare a simili cose; eppure penso al ritratto e alla filastrocca e alle coincidenze, o comunque le si voglia chiamare, e mi vengono i brividi. C'è qualcosa di vero? Esiste davvero una maledizione dei Darnaway, o è soltanto un caso maledettamente strano? Ho il diritto di sposarmi, o farò piombare qualcosa di grande e nero giù dal cielo, qualcosa di cui non so nulla, su me stesso e su qualcun altro?»
+
+Il suo occhio [[rolling|roteante]] aveva percorso il tavolo e si era fermato sul volto dimesso del prete, al quale ora sembrava rivolgersi. Il senso pratico sommerso di Payne [[Rose|insorse]] in segno di protesta contro il fatto che il problema della superstizione venisse posto davanti a quel tribunale supremamente superstizioso. Sedeva accanto a Darnaway e intervenne prima che il prete potesse rispondere.
+
+«Ebbene, le coincidenze sono curiose, lo ammetto,» disse, forzando un poco una nota di allegria; «ma di sicuro noi...» e allora si fermò come fulminato. Poiché Darnaway aveva voltato di scatto la testa oltre la spalla a quell'interruzione, e con il movimento il suo sopracciglio sinistro guizzò in alto, ben oltre il compagno, e per un istante il volto del ritratto lo fissò con una spettrale, esagerata esattezza. Gli altri lo videro; e tutti ebbero l'aria di essere stati abbagliati da un lampo di luce. Il vecchio amministratore emise un gemito cavo.
+
+«Non serve a niente,» disse con voce roca; «abbiamo a che fare con qualcosa di troppo terribile.»
+
+«Sì,» assentì il prete a bassa voce, «abbiamo a che fare con qualcosa di terribile; con la cosa più terribile che io conosca, e il suo nome è sciocchezza.»
+
+«Che cosa avete detto?» domandò Darnaway, ancora rivolto verso di lui.
+
+«Ho detto sciocchezza,» ripeté il prete. «Finora non ho detto nulla di particolare, perché non erano affari miei; mi trovavo qui solo in servizio temporaneo nei dintorni, e la signorina Darnaway desiderava vedermi. Ma dal momento che me lo chiedete di persona e a bruciapelo, ebbene, è abbastanza facile rispondere. Naturalmente non esiste nessuna maledizione dei Darnaway capace di impedirvi di sposare chiunque abbiate una ragione decente di sposare. Un uomo non è destinato a cadere nel più piccolo peccato veniale, e tanto meno in crimini come il suicidio e l'omicidio. Non vi si può costringere a compiere azioni malvagie contro la vostra volontà perché vi chiamate Darnaway, così come non vi si potrebbe costringere me perché mi chiamo Brown. La maledizione dei Brown,» aggiunse con gusto — «il Fato dei Brown suonerebbe persino meglio.»
+
+«E proprio voi,» ripeté l'australiano, fissandolo, «mi dite di pensarla così.»
+
+«Vi dico di pensare a qualcos'altro,» rispose il prete allegramente. «Che ne è stato della nascente arte della fotografia? Come procede la faccenda della macchina fotografica? So che al piano di sotto è piuttosto buio, ma quelle arcate cave del piano superiore potrebbero facilmente essere trasformate in uno studio fotografico di prim'ordine. Pochi operai potrebbero attrezzarlo con un tetto di vetro in un batter di [[Time|tempo]].»
+
+«Davvero,» protestò Martin Wood, «credo proprio che voi dovreste essere l'ultimo uomo al mondo a mettere le mani su quelle magnifiche arcate gotiche, che sono più o meno la migliore opera che la vostra religione abbia mai prodotto al mondo. Avrei pensato che nutriste qualche sentimento per quel genere d'arte; ma non capisco perché dobbiate essere così straordinariamente appassionato di fotografia.»
+
+«Sono straordinariamente appassionato di luce del giorno,» rispose Padre Brown, «specialmente in questa tetra faccenda; e la fotografia ha la virtù di dipendere dalla luce del giorno. E se non sapete che ridurrei in polvere tutte le arcate gotiche del mondo per salvare la [[Sanity|sanità mentale]] di una sola [[Soul|anima]] umana, allora non sapete della mia religione tanto quanto credete di sapere.»
+
+Il giovane australiano era balzato in piedi come un uomo ringiovanito. «Perbacco! ecco come si parla,» gridò; «anche se non avrei mai pensato di sentirlo proprio da quella parte. Ecco cosa vi dico, reverendo: farò qualcosa che dimostrerà che, dopotutto, non ho perso il mio [[Courage|coraggio]].»
+
+Il vecchio amministratore lo guardava ancora con una vigilanza tremante, come se avvertisse qualcosa di funesto nella sfida del giovane. «Oh,» esclamò, «che cosa avete intenzione di fare adesso?»
+
+«Ho intenzione di fotografare il ritratto,» rispose Darnaway.
+
+Eppure non era passata neppure una settimana che la tempesta della catastrofe parve calare giù dal cielo, oscurando quel sole della ragione al quale il prete si era invano appellato, e sprofondando ancora una volta la dimora nelle tenebre della maledizione dei Darnaway. Era stato abbastanza facile allestire il nuovo studio; e visto dall'interno somigliava molto a un qualsiasi altro studio del genere, vuoto se non per la pienezza della luce bianca. Un uomo che salisse dalle stanze tetre di sotto aveva più che mai la sensazione di entrare in uno splendore più che moderno, bianco e vuoto come il futuro. Su suggerimento di Wood, che conosceva bene il castello e aveva superato i suoi primi brontolii estetici, una piccola stanza rimasta intatta tra le rovine superiori fu facilmente trasformata in una camera oscura, nella quale Darnaway usciva dalla bianca luce del giorno per andare a tentoni tra i bagliori cremisi di una lampada rossa. Wood diceva, ridendo, che la lampada rossa lo aveva riconciliato con il vandalismo; poiché quell'oscurità venata di sangue era romantica quanto la caverna di un alchimista.
+
+Darnaway si era alzato all'alba il giorno in cui intendeva fotografare il misterioso ritratto, e lo aveva fatto portare su dalla biblioteca per l'unica scala a chiocciola che collegava i due piani. Là lo aveva sistemato nell'ampia bianca luce del giorno su una specie di cavalletto e aveva piantato davanti ad esso il treppiede fotografico. Diceva di essere ansioso di inviare una riproduzione dell'opera a un grande antiquario che aveva scritto sulle antichità della casa; ma gli altri sapevano che questa era una scusa dietro cui si celavano cose ben più profonde. Era, se non proprio un duello spirituale tra Darnaway e il quadro demoniaco, quanto meno un duello tra Darnaway e i propri dubbi. Voleva mettere la luce del giorno della fotografia faccia a faccia con quel cupo capolavoro della pittura; e vedere se il chiarore solare della nuova arte non avrebbe scacciato le ombre di quella antica.

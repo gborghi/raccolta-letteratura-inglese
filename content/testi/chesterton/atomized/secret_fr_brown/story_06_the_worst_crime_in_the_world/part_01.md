@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/secret-fr-brown-(chesterton)">secret Fr Brown</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/secret_fr_brown/story_05_the_vanishing_of_vaudrey/part_07">‹ part 07</a><a class="ex-next" href="/testi/chesterton/atomized/secret_fr_brown/story_06_the_worst_crime_in_the_world/part_02">part 02 ›</a></div>
@@ -122,3 +124,44 @@ and he's been a journalist."
 [[rolling]] stone, who's been a journalist and a lecturer and an actor, and
 all sorts of things. I've got to know where I stand. . . . Why, there he
 is."
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/secret-fr-brown-(chesterton)">secret Fr Brown</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/secret_fr_brown/story_05_the_vanishing_of_vaudrey/part_07">‹ part 07</a><a class="ex-next" href="/testi/chesterton/atomized/secret_fr_brown/story_06_the_worst_crime_in_the_world/part_02">part 02 ›</a></div>
+</nav>
+
+VI IL PEGGIOR DELITTO DEL MONDO
+
+[[Father Brown|PADRE BROWN]] se ne andava girovagando per una pinacoteca con un'espressione che lasciava intendere come non fosse venuto lì per guardare i quadri. In effetti non aveva alcuna voglia di guardarli, per quanto i quadri gli piacessero [[Well|abbastanza]]. Non che vi fosse alcunché di immorale o di sconveniente in quei disegni pittorici di sfrenata modernità. Ci sarebbe voluto un temperamento assai infiammabile per essere spinto a una qualsiasi delle passioni più pagane dallo spettacolo di spirali interrotte, di coni rovesciati e di cilindri spezzati con cui l'arte del futuro ispirava o minacciava il genere umano. La [[Truth|verità]] è che [[Father Brown]] stava cercando una giovane amica che aveva fissato quel luogo d'incontro alquanto stonato, essendo lei di indole più futurista. La giovane amica era anche una giovane parente; una dei pochi parenti che avesse. Si chiamava Elizabeth Fane, semplificato in Betty, ed era la [[Child|figlia]] di una sorella che si era imparentata, sposandosi, con una stirpe di raffinati ma squattrinati signorotti di campagna. E poiché lo squire era morto [[Well|tanto]] quanto squattrinato, [[Father Brown]] rivestiva il ruolo di protettore [[Well|altrettanto]] quanto di sacerdote, e in un certo senso di tutore [[Well|altrettanto]] quanto di zio. In quel momento, tuttavia, sbatteva le palpebre guardandosi attorno tra i capannelli della galleria, senza scorgere i familiari capelli castani e il volto luminoso della nipote. Ciò nondimeno vide alcune persone che conosceva e un buon numero di persone che non conosceva, comprese certune che, per pura questione di gusto, non aveva un gran desiderio di conoscere.
+
+Tra le persone che il sacerdote non conosceva e che pure destavano il suo interesse c'era un giovane agile e sveglio, vestito con grande eleganza e dall'aspetto piuttosto straniero, poiché, mentre la barba era tagliata a punta come quella di un vecchio spagnolo, i capelli scuri erano rasati così corti da sembrare un aderente zucchetto nero. Tra le persone che il sacerdote non aveva particolarmente voglia di conoscere c'era una signora dall'aria assai autoritaria, vestita in modo appariscente di scarlatto, con una criniera di capelli gialli troppo lunghi per dirsi tagliati alla maschietta, ma troppo sciolti per dirsi qualsiasi altra cosa. Aveva un volto forte e piuttosto pesante, dal colorito pallido e alquanto malsano, e quando guardava qualcuno coltivava le seduzioni di un basilisco. Si trascinava al seguito un uomo basso con una gran barba e una faccia larghissima, dagli occhi ridotti a lunghe fessure assonnate. L'espressione del suo volto era raggiante e benevola, benché solo a metà desta; ma il collo taurino, visto di spalle, aveva un che di brutale.
+
+[[Father Brown]] fissò lo sguardo sulla signora, sentendo che l'apparizione e l'avvicinarsi della nipote sarebbe stato un gradevole contrasto. Eppure, per qualche ragione, continuò a fissarla, finché non giunse al punto di sentire che l'apparizione di chiunque sarebbe stata un gradevole contrasto. Fu perciò con un certo sollievo, sebbene con un lieve sussulto come di risveglio, che si voltò al suono del proprio nome e vide un altro volto che conosceva.
+
+Era il viso acuto ma non ostile di un avvocato di nome Granby, le cui chiazze di capelli grigi avrebbero potuto quasi passare per la cipria di una parrucca, tanto erano stonate rispetto alla sua giovanile energia nei movimenti. Era uno di quegli uomini della [[City]] che sfrecciano di qua e di là come scolaretti, entrando e uscendo dai loro uffici. Non poteva certo correre per l'elegante pinacoteca proprio a quel modo; ma aveva l'aria di volerlo fare, e si agitava lanciando occhiate a destra e a sinistra in cerca di qualcuno che conoscesse.
+
+«Non sapevo», disse [[Father Brown]] sorridendo, «che lei fosse un patrono della Nuova Arte».
+
+«E io non sapevo che lo fosse lei», ribatté l'altro. «Sono venuto qui per acchiappare un uomo».
+
+«[[Hope|Spero]] che avrà buona caccia», rispose il sacerdote. «Sto facendo pressappoco la stessa cosa».
+
+«Mi ha detto che era di passaggio, diretto sul Continente», sbuffò il procuratore, «e se potevo incontrarlo in questo posto strambo». Rimuginò un istante, poi disse bruscamente: «Senta un po', so che lei sa mantenere un segreto. Conosce Sir John Musgrave?»
+
+«No», rispose il sacerdote; «ma non avrei mai pensato che fosse un segreto, benché dicano che si nasconda in un [[Castle|castello]]. Non è quel vecchio di cui raccontano tutte quelle storie: come viva in una torre con tanto di saracinesca e ponte levatoio autentici, e come si rifiuti in genere di uscire dal Medioevo? È uno dei suoi clienti?»
+
+«No», replicò seccamente Granby: «è suo figlio, il capitano Musgrave, che si è rivolto a noi. Ma il vecchio conta parecchio nella faccenda, e io non lo conosco; ecco il punto. Senta, è una cosa confidenziale, come dicevo, ma di lei mi posso fidare». Abbassò la voce e trasse l'amico in disparte, in una galleria laterale che conteneva raffigurazioni di svariati oggetti reali, e che era relativamente deserta.
+
+«Questo giovane Musgrave», disse, «vuole ottenere da noi una grossa somma su un post obit a carico del suo vecchio padre, nel Northumberland. Il vecchio ha superato da un pezzo i settant'anni e presumibilmente obit in un [[Time|momento]] o nell'altro, per così dire; ma quanto al post? Che ne sarà, dopo, del suo denaro, dei suoi castelli, delle sue saracinesche e di tutto il resto? È una bellissima vecchia tenuta, che vale ancora un mucchio di soldi, ma stranamente non è vincolata a un fedecommesso. Vede dunque a che punto siamo. La questione è, come diceva quel tale in Dickens: il vecchio è ben disposto?»
+
+«Se è ben disposto verso suo figlio, lei si sentirà tanto più ben disposto», osservò [[Father Brown]]. «No, temo di non poterla aiutare. Non ho mai incontrato Sir John Musgrave, e ho capito che ben poche persone lo incontrano di questi tempi. Ma sembra evidente che lei abbia diritto a una risposta su questo punto prima di prestare al giovane gentiluomo il denaro del suo studio. È forse il tipo d'uomo che si diseredano con uno scellino?»
+
+«[[Well|Beh]], sono dubbioso», rispose l'altro. «È molto popolare e brillante, e una gran figura in società; ma sta parecchio all'estero, ed è stato giornalista».
+
+«[[Well|Beh]]», disse [[Father Brown]], «questo non è un delitto. O almeno non sempre».
+
+«Sciocchezze!» tagliò corto Granby. «Sa bene che cosa intendo: è piuttosto un [[rolling|sasso che rotola]], uno che è stato giornalista e conferenziere e attore, e ogni sorta di cose. Ho bisogno di sapere a che punto mi trovo... Ma guarda, eccolo là».

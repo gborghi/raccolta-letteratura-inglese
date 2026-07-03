@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/secret-fr-brown-(chesterton)">secret Fr Brown</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/secret_fr_brown/story_05_the_vanishing_of_vaudrey/part_06">‹ part 06</a><a class="ex-next" href="/testi/chesterton/atomized/secret_fr_brown/story_06_the_worst_crime_in_the_world/part_01">part 01 ›</a></div>
@@ -121,3 +123,120 @@ off to see Vernon Vaudrey, the nephew; but Vernon Vaudrey hasn't heard
 of him and Dalmon seems to have disappeared entirely."
 
 "Dear me," said [[Father Brown]]. "How strange!"
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/secret-fr-brown-(chesterton)">secret Fr Brown</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/secret_fr_brown/story_05_the_vanishing_of_vaudrey/part_06">‹ part 06</a><a class="ex-next" href="/testi/chesterton/atomized/secret_fr_brown/story_06_the_worst_crime_in_the_world/part_01">part 01 ›</a></div>
+</nav>
+
+«Non era contro John Dalmon che progettava vendetta,» replicò il
+prete, gravemente.
+
+Vi fu un [[Silence|silenzio]]; ed egli riprese, quasi come cambiando argomento.
+«Quando trovammo il [[Body|corpo]], ricordate, vedemmo il volto capovolto; e
+voi diceste che sembrava il volto di un demonio. Vi è venuto in mente che
+anche l'assassino vide il volto capovolto, venendo da dietro la poltrona del
+barbiere?»
+
+«Ma questa è tutta morbosa stravaganza,» protestò il suo compagno. «Ero
+del tutto abituato al volto quando era diritto.»
+
+«Forse non l'avete mai visto diritto,» disse [[Father Brown]]. «Vi
+dissi che gli artisti capovolgono un quadro quando vogliono
+vederlo diritto. Forse, durante tutte quelle colazioni e quei
+tè, vi eravate abituato al volto di un demonio.»
+
+«A cosa diavolo mirate?» domandò [[smith|Smith]], impaziente.
+
+«Parlo per parabole,» replicò l'altro in tono piuttosto cupo. «Naturalmente,
+Sir [[Arthur]] non era in realtà un demonio; era un uomo con un
+carattere che si era costruito da un temperamento che avrebbe potuto anche
+essere volto al bene. Ma quegli occhi strabuzzati e sospettosi; quella bocca serrata,
+eppure tremula, avrebbero potuto dirvi qualcosa se non vi ci foste
+tanto abituato. Sapete, ci sono corpi fisici su cui una ferita
+non si rimargina. Sir [[Arthur]] aveva una mente di quel genere. Era come se
+le mancasse una pelle; egli aveva una febbrile vigilanza di [[Vanity|vanità]]; quegli occhi tesi
+erano aperti con un'insonnia di egoismo. La sensibilità non deve essere
+egoismo. Sybil Rye, per esempio, ha la stessa pelle sottile e riesce
+a essere una sorta di santa. Ma Vaudrey aveva volto tutto ciò in [[Pride|orgoglio]] velenoso;
+un [[Pride|orgoglio]] che non era neppure sicuro e [[Self|autosoddisfatto]]. Ogni graffio sulla
+superficie della sua [[Soul|anima]] suppurava. Ed è questo il significato di quella vecchia
+storia del gettare l'uomo nel porcile. Se lo avesse gettato allora
+e lì, dopo essere stato chiamato porco, avrebbe potuto essere uno scusabile
+scoppio di passione. Ma non c'era alcun porcile; ed è proprio questo il
+punto. Vaudrey ricordò lo sciocco insulto per anni e anni, finché non
+poté portare l'orientale nell'improbabile vicinanza di un porcile;
+e allora si prese quella che considerava l'unica appropriata e artistica
+[[Revenge|vendetta]]... Oh, Dio mio! gli piaceva che le sue vendette fossero appropriate e
+artistiche.»
+
+[[smith|Smith]] lo guardò con curiosità. «Non state pensando alla storia del
+porcile,» disse.
+
+«No,» disse [[Father Brown]]; «all'altra storia.» Controllò il brivido
+nella sua voce, e proseguì:
+
+«Ricordando quella storia di un complotto fantastico eppure paziente per far sì che la
+vendetta si adattasse al crimine, considerate l'altra storia che ci sta davanti. Aveva qualcun
+altro, a vostra conoscenza, mai insultato Vaudrey, o offertogli ciò che egli
+riteneva un insulto mortale? Sì; una donna lo insultò.»
+
+Una sorta di vago orrore cominciò a [[Dawn|albeggiare]] negli occhi di Evan; egli ascoltava
+intensamente.
+
+«Una ragazza, poco più di una [[Child|bambina]], rifiutò di sposarlo, perché egli era
+un tempo stato una sorta di criminale; era, in verità, stato in [[Prison|prigione]] per breve
+[[Time|tempo]] per l'oltraggio all'egiziano. E quel pazzo disse, nell'inferno
+del suo cuore: "Ella sposerà un assassino."»
+
+Presero la [[Road|strada]] verso la [[Great House|grande casa]] e proseguirono lungo il [[River|fiume]]
+per qualche [[Time|tempo]] in [[Silence|silenzio]], prima che egli riprendesse: «Vaudrey era in condizione
+di ricattare Dalmon, che aveva commesso un omicidio molto tempo fa; probabilmente
+sapeva di parecchi crimini fra i compagni sfrenati della sua giovinezza. Probabilmente
+era un crimine sfrenato con qualche tratto attenuante; poiché gli omicidi più sfrenati
+non sono mai i peggiori. E Dalmon mi sembra un uomo che conosce
+il rimorso, persino per aver ucciso Vaudrey. Ma egli era in potere di Vaudrey e,
+fra loro due, intrappolarono la ragazza assai abilmente in un fidanzamento;
+lasciando che l'[[Lover|innamorato]] tentasse prima la sorte, per esempio, e l'altro si limitasse
+a incoraggiare magnificamente. Ma Dalmon stesso non sapeva, nessuno tranne
+il Diavolo in persona sapeva, cosa vi fosse davvero nella mente di quel vecchio.
+
+«Poi, qualche giorno fa, Dalmon fece una spaventosa scoperta. Aveva obbedito,
+non del tutto controvoglia; era stato uno strumento; e improvvisamente scoprì
+come lo strumento sarebbe stato spezzato e gettato via. Si imbatté in certi
+appunti di Vaudrey nella biblioteca che, per quanto camuffati fossero, parlavano di
+preparativi per fornire informazioni alla polizia. Comprese l'
+intero complotto e rimase sbalordito come lo fui io quando lo compresi per la prima volta. Nel
+momento in cui la sposa e lo sposo si fossero sposati, lo sposo sarebbe stato
+arrestato e impiccato. La schizzinosa signora, che obiettava a un marito che
+era stato in [[Prison|prigione]], non avrebbe avuto marito se non un marito sulla
+forca. Ecco cosa Sir [[Arthur]] Vaudrey considerava un artistico coronamento
+della storia.»
+
+Evan [[smith|Smith]], pallido come un morto, taceva; e, lontano, giù per la prospettiva
+della [[Road|strada]], videro la grande figura e l'ampio cappello del dottor Abbott
+avanzare verso di loro; anche nel profilo c'era una certa
+agitazione. Ma erano ancora scossi dalla propria privata [[Apocalypse|apocalisse]].
+
+«Come dite, l'odio è una cosa odiosa,» disse Evan infine; «e, sapete,
+una cosa mi dà una sorta di sollievo. Tutto il mio odio per il povero Dalmon
+è uscito da me... ora che so come egli fu due volte assassino.»
+
+Fu in [[Silence|silenzio]] che percorsero il resto della distanza e incontrarono il
+grande dottore che veniva verso di loro, con le sue grandi mani guantate protese
+in una sorta di gesto disperato e la sua barba grigia agitata dal [[Wind|vento]].
+
+«Ci sono terribili notizie,» disse. «Il [[Body|corpo]] di [[Arthur]] è stato trovato. Egli
+sembra essere morto nel suo [[Garden|giardino]].»
+
+«Povero me,» disse [[Father Brown]], piuttosto meccanicamente. «Che terribile cosa!»
+
+«E c'è di più,» gridò il dottore ansimando. «John Dalmon è
+partito per andare a trovare Vernon Vaudrey, il nipote; ma Vernon Vaudrey non ha avuto
+notizie di lui e Dalmon sembra essere scomparso del tutto.»
+
+«Povero me,» disse [[Father Brown]]. «Che strano!»

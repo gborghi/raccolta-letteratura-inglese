@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/secret-fr-brown-(chesterton)">secret Fr Brown</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/secret_fr_brown/story_05_the_vanishing_of_vaudrey/part_05">‹ part 05</a><a class="ex-next" href="/testi/chesterton/atomized/secret_fr_brown/story_05_the_vanishing_of_vaudrey/part_07">part 07 ›</a></div>
@@ -119,3 +121,118 @@ but for vengeance. And he planned the most hideous vengeance I ever
 heard of."
 
 "But why should he plan vengeance on John Dalmon?" inquired [[smith|Smith]].
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/secret-fr-brown-(chesterton)">secret Fr Brown</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/secret_fr_brown/story_05_the_vanishing_of_vaudrey/part_05">‹ part 05</a><a class="ex-next" href="/testi/chesterton/atomized/secret_fr_brown/story_05_the_vanishing_of_vaudrey/part_07">part 07 ›</a></div>
+</nav>
+
+«So che l'avevate,» disse. «Lo odiavate; ed è così che so che non
+lo avete ucciso. Volete dirci cosa accadde, o lo dirò io?»
+
+Vi fu un [[Silence|silenzio]] riempito dal debole ticchettio di un [[Clock|orologio]] nella
+cucina sul retro; e poi [[Father Brown]] proseguì.
+
+«Ciò che accadde fu questo. Quando il signor Dalmon mise piede nella vostra bottega esterna,
+chiese certe sigarette che erano nella [[Window|vetrina]]. Voi usciste
+un momento, come spesso fanno i bottegai, per accertarvi di cosa
+intendesse; e in quel momento di [[Time|tempo]] egli scorse nella stanza interna il
+rasoio che avevate appena posato, e la testa di un giallo biancastro di Sir [[Arthur]]
+sulla poltrona del barbiere; probabilmente entrambi luccicanti alla luce di quella
+piccola [[Window|finestra]] più in là. Gli bastò un istante per raccogliere il
+rasoio e tagliare la gola e tornare al bancone. La vittima non
+si sarebbe nemmeno allarmata per il rasoio e la mano. Morì sorridendo ai suoi
+propri pensieri. E che pensieri! Né, credo, Dalmon si allarmò. Egli
+lo aveva fatto così rapidamente e silenziosamente che il signor [[smith|Smith]] qui presente avrebbe potuto giurare
+in [[Court|tribunale]] che i due erano insieme per tutto il [[Time|tempo]]. Ma c'era qualcuno
+che si allarmò, molto legittimamente, e quello eravate voi. Avevate litigato
+con il vostro padrone di casa per arretrati d'affitto e cose simili; tornaste nella
+vostra bottega e trovaste il vostro nemico assassinato sulla vostra poltrona, con il vostro
+rasoio. Non fu del tutto innaturale che disperaste di
+scagionarvi, e preferiste ripulire il pasticcio; lavare il
+pavimento e gettare il cadavere nel [[River|fiume]] di [[Night|notte]], in un sacco di patate
+piuttosto lascamente legato. Fu piuttosto fortunato che ci fossero orari fissi
+dopo i quali la vostra bottega di barbiere era chiusa; così aveste [[Time|tempo]] in abbondanza. Sembra
+che vi siate ricordato di tutto tranne il cappello... Oh, non abbiate
+paura; io dimenticherò tutto, cappello compreso.»
+
+E passò placidamente attraverso la bottega esterna nella strada al di là,
+seguito dallo stupefatto [[smith|Smith]], lasciandosi dietro il barbiere sbalordito
+e con lo sguardo fisso.
+
+«Vedete,» disse [[Father Brown]] al suo compagno, «era uno di quei
+casi in cui un movente è davvero troppo debole per condannare un uomo eppure abbastanza forte
+da assolverlo. Un ometto nervoso come quello sarebbe l'ultimo
+uomo a uccidere davvero un uomo grande e forte per una lite su del denaro. Ma egli
+sarebbe il primo a [[Fear|temere]] di essere accusato di averlo
+fatto... Ah, c'era una maledetta differenza nel movente dell'uomo
+che l'ha fatto davvero.» E ricadde nella riflessione, fissando e quasi
+sbarrando gli occhi nel vuoto.
+
+«È semplicemente atroce,» gemette Evan [[smith|Smith]]. «Un'ora o due fa insultavo Dalmon come
+ricattatore e mascalzone, eppure mi sconvolge del tutto
+sentire che ha davvero fatto questo, dopotutto.»
+
+Il prete sembrava ancora essere in una sorta di trance, come un uomo che fissa
+in basso in un abisso. Infine le sue labbra si mossero ed egli mormorò, più come se
+fosse una [[prayer|preghiera]] che un'imprecazione: «Dio misericordioso, che orribile [[Revenge|vendetta]]!»
+
+L'amico lo interrogò, ma egli continuò come parlando a se stesso.
+
+«Che orribile racconto di odio! Che vendetta per un verme mortale
+da compiere su un altro! Arriveremo mai in [[Bottom|fondo]] a questo insondabile
+cuore umano, dove tali abominevoli immaginazioni possono albergare? Dio ci salvi
+tutti dall'[[Pride|orgoglio]]; ma non riesco ancora a farmi in mente alcuna immagine di odio e
+di vendetta simile a quella.»
+
+«Sì,» disse [[smith|Smith]]; «e non riesco proprio a immaginarmi perché egli dovesse uccidere Vaudrey
+del tutto. Se Dalmon era un ricattatore, sembrerebbe più naturale che
+Vaudrey uccidesse lui. Come dite, il taglio della gola fu una faccenda
+orribile, ma...»
+
+[[Father Brown]] sussultò, e batté le palpebre come un uomo risvegliato dal [[Sleep|sonno]].
+
+«Oh, quello!» corresse in fretta. «Non stavo pensando a quello. Non
+intendevo l'omicidio nella bottega del barbiere, quando... quando dissi un orribile
+racconto di vendetta. Stavo pensando a un racconto molto più orribile di
+quello; anche se, naturalmente, quello era abbastanza orribile, a modo suo. Ma quello
+era molto più comprensibile; quasi chiunque avrebbe potuto farlo. In
+effetti, fu quasi un atto di [[Self|legittima]] difesa.»
+
+«Cosa?» esclamò il segretario incredulo. «Un uomo striscia dietro
+un altro uomo e gli taglia la gola, mentre quello sorride piacevolmente al
+soffitto in una poltrona da barbiere, e voi dite che fu [[Self|legittima]] difesa!»
+
+«Non dico che fu una [[Self|legittima]] difesa giustificabile,» replicò l'altro. «Dico
+soltanto che molti uomini vi sarebbero stati spinti, per difendersi
+contro una spaventosa calamità, che era anche uno spaventoso crimine. Era
+quell'altro crimine a cui pensavo. Tanto per cominciare, riguardo a quella
+domanda che avete appena fatto: perché il ricattatore dovrebbe essere l'assassino?
+[[Well|Ebbene]], ci sono parecchie confusioni ed errori convenzionali su un
+punto come questo.» Fece una pausa, come raccogliendo i suoi pensieri dopo la sua
+recente trance d'orrore, e proseguì in tono ordinario.
+
+«Voi osservate che due uomini, uno più anziano e uno più giovane, vanno in giro insieme e
+concordano su un progetto matrimoniale; ma l'origine della loro intimità è vecchia
+e nascosta. Uno è ricco e l'altro povero; e voi indovinate un
+ricatto. Avete perfettamente ragione, almeno fino a quel punto. Dove avete
+del tutto torto è nell'indovinare chi è chi. Voi presumete che il povero
+stesse ricattando il ricco. In realtà, il ricco stava
+ricattando il povero.»
+
+«Ma questo sembra un'assurdità,» obiettò il segretario.
+
+«È molto peggio di un'assurdità; ma non è affatto raro,» replicò
+l'altro. «Metà della politica moderna consiste in uomini ricchi che ricattano
+la gente. La vostra idea che sia un'assurdità poggia su due illusioni che sono
+entrambe assurde. Una è che gli uomini ricchi non vogliano mai essere più ricchi; l'
+altra è che un uomo possa essere ricattato solo per denaro. È quest'ultima
+che è in questione qui. Sir [[Arthur]] Vaudrey agiva non per avarizia,
+ma per vendetta. Ed egli progettò la più orribile vendetta di cui io abbia mai
+udito.»
+
+«Ma perché avrebbe dovuto progettare vendetta contro John Dalmon?» s'informò [[smith|Smith]].

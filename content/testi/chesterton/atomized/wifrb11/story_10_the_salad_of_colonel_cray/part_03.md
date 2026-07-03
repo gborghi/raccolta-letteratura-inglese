@@ -165,7 +165,7 @@ over all the earth.  As indeed I found it to be.
 
      «I veri pazzi» spiegò [[Father Brown]] «assecondano sempre la propria morbosità. Non vi lottano mai contro. Voi, invece, cercate di trovare le tracce dello scassinatore, anche là dove non ce ne sono. Vi state battendo contro di essa. Voi volete ciò che nessun pazzo desidera mai.»
 
-     «E che cosa sarebbe?»
+«E che cosa, dunque?»
 
      «Volete che vi si dimostri in torto» disse Brown.
 

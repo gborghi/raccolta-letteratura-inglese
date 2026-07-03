@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/incredulity-(chesterton)">Incredulity</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/incredulity/story_06_the_dagger_with_wings/part_07">‹ part 07</a><a class="ex-next" href="/testi/chesterton/atomized/incredulity/story_07_the_doom_of_the_darnaways/part_01">part 01 ›</a></div>
@@ -117,3 +119,116 @@ out as the [[Snow|snow]] had painted out the footprints of the man of [[Blood|bl
 As he shuffled homewards through the [[Snow|snow]], he muttered to himself:
 `And yet he is right enough about there being a white magic,
 if he only knows where to look for it.'
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/incredulity-(chesterton)">Incredulity</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/incredulity/story_06_the_dagger_with_wings/part_07">‹ part 07</a><a class="ex-next" href="/testi/chesterton/atomized/incredulity/story_07_the_doom_of_the_darnaways/part_01">part 01 ›</a></div>
+</nav>
+
+«Credo di aver sospettato davvero nel momento in cui vi ho telefonato»,
+rispose l'amico. «E non fu nulla di più che la luce rossa
+proveniente dalla porta chiusa, che si ravvivava e si oscurava sul tappeto.
+Sembrava una macchia di [[Blood|sangue]] che si faceva viva a mano a mano che
+gridava vendetta. Perché avrebbe dovuto mutare a quel modo?
+Sapevo che il sole non era spuntato; poteva accadere soltanto perché la
+seconda porta dietro di essa era stata aperta e richiusa sul [[Garden|giardino]].
+Ma se lui fosse uscito e avesse veduto allora il proprio nemico, avrebbe
+dato l'allarme in quel momento; e fu qualche [[Time|tempo]] più tardi
+che avvenne la zuffa. Cominciai a sentire che era uscito
+per fare qualcosa... per preparare qualcosa... ma quanto al momento in cui
+ne fui certo, questa è tutt'altra faccenda. Sapevo che proprio alla
+fine egli tentava di ipnotizzarmi, di soggiogarmi con l'arte nera
+di occhi simili a talismani e di una voce simile a un incantesimo.
+È ciò che soleva fare col vecchio Aylmer, senza [[Doubt|dubbio]].
+Ma non era soltanto il modo in cui lo diceva, era ciò che diceva.
+Era la religione e la [[philosophy|filosofia]] che vi stavano dentro.»
+
+«Temo di essere un uomo pratico», disse il dottore con burbero umorismo,
+«e non mi curo granché di religione e [[philosophy|filosofia]].»
+
+«Non sarete mai un uomo pratico finché non lo farete», disse Padre Brown.
+«Sentite, dottore; voi mi conoscete piuttosto [[Well|bene]]; credo che
+sappiate ch'io non sono un bigotto. Sapete che so bene esservi ogni sorta
+di gente in tutte le religioni; uomini buoni in quelle cattive e uomini cattivi in quelle buone.
+Ma c'è un piccolo fatto che ho appreso semplicemente da
+uomo pratico, un punto interamente pratico, che ho colto
+per esperienza, come i trucchi di un animale o il marchio
+di fabbrica di un buon vino. Non ho quasi mai incontrato un criminale
+che filosofeggiasse, che non filosofeggiasse lungo
+quelle linee dell'orientalismo, della ricorrenza e della reincarnazione,
+e della [[Wheel|ruota]] del destino e del serpente che si morde la coda.
+Ho scoperto, semplicemente in pratica, che v'è una maledizione sopra
+i servi di quel serpente; sul loro ventre andranno
+e [[Dust|polvere]] mangeranno; e non nacque mai furfante
+o dissoluto che non sapesse discorrere di quella sorta di spiritualità.
+Può darsi che non sia così nelle sue vere origini religiose;
+ma qui, nel nostro mondo di ogni giorno, è la religione dei mascalzoni;
+e io sapevo che a parlare era un mascalzone.»
+
+«Diamine», disse Boyne, «avrei creduto che un mascalzone potesse
+piuttosto [[Well|bene]] professare qualunque religione gli piacesse.»
+
+«Sì», convenne l'altro; «poteva professare qualunque religione;
+vale a dire, poteva fingere qualunque religione, se tutto era finzione.
+Se si fosse trattato di mera ipocrisia meccanica e nient'altro,
+senza [[Doubt|dubbio]] avrebbe potuto compierlo un mero ipocrita meccanico.
+Ogni sorta di maschera può essere posta su ogni sorta di volto. Chiunque può imparare
+certe frasi, o dichiarare a parole di sostenere certe opinioni.
+Posso uscire per strada e dichiarare di essere un metodista wesleyano
+o un sandemaniano, benché [[Fear|temo]] con accento poco convincente.
+Ma noi stiamo parlando di un [[Artist|artista]]; e per il godimento dell'[[Artist|artista]]
+la maschera deve, in una certa misura, essere modellata sul volto.
+Ciò che egli plasma al di fuori di sé deve corrispondere a qualcosa dentro di sé;
+egli può trarre i propri effetti soltanto da alcune delle materie della sua [[Soul|anima]].
+Suppongo che avrebbe potuto dire d'essere un metodista wesleyano;
+ma non avrebbe mai potuto essere un eloquente metodista come sa essere un
+eloquente mistico e fatalista. Parlo di quella sorta d'ideale
+a cui un tale uomo pensa se davvero cerca d'essere idealista.
+Fu tutto il suo gioco, con me, essere quanto più idealista possibile;
+e ogniqualvolta ciò viene tentato da un uomo di quella specie, troverete di solito
+che è quella la specie d'ideale. Un uomo di quella specie può grondare
+di sangue; ma sarà sempre in grado di dirvi con tutta sincerità
+che il buddismo è migliore del [[Christianity|cristianesimo]]. Anzi, vi dirà
+con tutta sincerità che il buddismo è più cristiano del [[Christianity|cristianesimo]].
+Questo [[Alone|solo]] basta a gettare un raggio orrendo e spettrale di luce
+sulla sua idea del [[Christianity|cristianesimo]].»
+
+«Sull'anima mia», disse il dottore ridendo, «non riesco a capire se
+lo stiate denunciando o difendendo.»
+
+«Non è difendere un uomo dire che è un genio», disse Padre Brown.
+«Tutt'altro. Ed è semplicemente un fatto psicologico che
+un [[Artist|artista]] tradisce se stesso con una qualche sorta di sincerità.
+Leonardo da Vinci non può disegnare come se non sapesse disegnare.
+Anche se ci provasse, ne verrebbe sempre una vigorosa [[Parody|parodia]] di una cosa debole.
+Quest'uomo avrebbe ricavato qualcosa di troppo terribile e meraviglioso
+dal metodista wesleyano.»
+
+Quando il prete si rimise in cammino e volse il viso verso casa,
+il freddo si era fatto più intenso e pure, in qualche modo, inebriante.
+Gli alberi si ergevano come candelabri d'argento di qualche incredibile, gelida
+candelora di [[Purification|purificazione]]. Era un freddo pungente, come quella [[Sword|spada]]
+d'argento di puro [[Pain|dolore]] che una volta trafisse il cuore stesso della purezza.
+Ma non era un freddo che uccide, se non nel senso di parer voler uccidere
+tutti gli ostacoli mortali alla nostra immortale e incommensurabile vitalità.
+Il cielo verde pallido del crepuscolo, con una stella simile alla stella di Betlemme,
+sembrava, per qualche strana contraddizione, essere una caverna di limpidezza.
+Era come se potesse esistere una verde fornace di freddo che destasse
+tutte le cose alla vita come fa il calore, e come se, quanto più addentro
+esse penetravano in quei freddi colori cristallini, tanto più
+si facessero lievi come creature alate e limpide come vetro colorato!
+Vibrava di [[Truth|verità]] e separava la [[Truth|verità]] dall'errore con una lama
+di ghiaccio; ma tutto ciò che rimaneva non si era mai sentito tanto vivo.
+Era come se ogni gioia fosse un [[Jewel|gioiello]] nel cuore di un ghiacciaio.
+Il prete a stento comprendeva il proprio stato d'animo mentre si inoltrava
+sempre più addentro nel verde imbrunire, bevendo sorsi sempre
+più profondi di quella verginale vivacità dell'aria.
+Qualche dimenticato groviglio e morbosità pareva restare indietro, o cancellato
+come la [[Snow|neve]] aveva cancellato le orme dell'uomo di [[Blood|sangue]].
+Mentre trascinava i passi verso casa attraverso la [[Snow|neve]], mormorava tra sé:
+«E tuttavia ha proprio ragione quanto all'esistere di una magia bianca,
+purché sappia dove cercarla.»

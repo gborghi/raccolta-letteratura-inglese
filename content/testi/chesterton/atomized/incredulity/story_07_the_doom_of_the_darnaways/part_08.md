@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/incredulity-(chesterton)">Incredulity</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/incredulity/story_07_the_doom_of_the_darnaways/part_07">‹ part 07</a><a class="ex-next" href="/testi/chesterton/atomized/incredulity/story_07_the_doom_of_the_darnaways/part_09">part 09 ›</a></div>
@@ -144,3 +146,143 @@ of the Darnaways.  There was no old picture; there was no old rhyme;
 there was no legend of a man who caused his wife's [[Death|death]].
 But there was a very wicked and a very clever man who was willing
 to cause another man's [[Death|death]] in order to rob him of his promised wife.'
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/incredulity-(chesterton)">Incredulity</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/incredulity/story_07_the_doom_of_the_darnaways/part_07">‹ part 07</a><a class="ex-next" href="/testi/chesterton/atomized/incredulity/story_07_the_doom_of_the_darnaways/part_09">part 09 ›</a></div>
+</nav>
+
+D'improvviso ella sorrise. «Sì, credo di capire.
+Immagino che parliate come un pazzo, eppure capisco.
+Ma chi lo ha ucciso?»
+
+«Non lo so» rispose lui con calma «ma [[Father Brown|padre Brown]] lo sa.
+E, come dice [[Father Brown|padre Brown]], l'assassinio è quantomeno opera della volontà,
+libera come quel [[Wind|vento]] che viene dal mare.»
+
+«Padre Brown è una persona straordinaria» disse ella dopo una pausa;
+«è stato l'unico che abbia mai rischiarato la mia esistenza
+in un modo qualsiasi, fino a quando...»
+
+«Fino a quando?» chiese Payne, e fece un gesto quasi impetuoso,
+chinandosi verso di lei e spingendo via il [[Monster|mostro]] di bronzo, così che
+parve oscillare sul suo piedistallo.
+
+«Ebbene, fino a quando lo avete fatto voi» disse ella, e sorrise di nuovo.
+
+Così fu ridestato il palazzo addormentato, e non è compito di questo racconto
+descrivere le fasi del suo risveglio, per quanto molto ne fosse già
+accaduto prima che il buio di quella sera calasse sulla riva.
+Mentre Harry Payne muoveva ancora una volta a gran passi verso casa, attraverso quelle
+sabbie oscure che aveva percorso in tanti stati d'animo diversi, egli si trovava al
+punto più alto della felicità che sia concessa in questa vita mortale,
+e l'intero mare rosso che aveva dentro era al culmine della sua marea.
+Non avrebbe avuto difficoltà a immaginare tutto quel luogo
+di nuovo in fiore, e il tritone di bronzo splendente come un dio
+d'oro, e la fontana che sgorgava acqua o vino.
+Ma tutto questo splendore e questo fiorire gli erano stati dischiusi
+da quell'unica parola, «assassinio», e restava pur sempre una parola che egli
+non comprendeva. L'aveva accolta per fede, e non fu insensato;
+poiché era uno di quelli che hanno il senso del suono della [[Truth|verità]].
+
+Fu più di un mese dopo che Payne fece ritorno alla sua [[London|Londra]],
+alla [[house|casa]], per un appuntamento con [[Father Brown|padre Brown]], portando con sé
+la fotografia richiesta. La sua personale [[Romance|storia d'amore]] era prosperata tanto [[Well|bene]]
+quanto si conveniva sotto l'[[Shadow|ombra]] di una simile [[Tragedy|tragedia]], e l'[[Shadow|ombra]]
+stessa perciò gravava su di lui un po' più lieve; ma era difficile
+considerarla altrimenti che come l'[[Shadow|ombra]] di una fatalità di famiglia.
+In molti modi era stato assai occupato; e fu soltanto quando
+la casa dei Darnaway ebbe ripreso la sua routine alquanto severa,
+e il ritratto era da tempo tornato al suo posto nella biblioteca,
+che egli riuscì a fotografarlo con un lampo al magnesio.
+Prima di inviarlo all'antiquario, come inizialmente stabilito,
+lo portò al sacerdote che con tanta insistenza lo aveva reclamato.
+
+«Non riesco a capire il vostro atteggiamento in tutta questa faccenda, padre Brown»
+disse. «Vi comportate come se aveste già risolto il problema in qualche
+modo tutto vostro.»
+
+Il sacerdote scosse il capo con mestizia. «Neanche per sogno»
+rispose. «Devo essere molto sciocco, ma sono del tutto arenato;
+arenato sul punto più pratico di tutti.
+È una faccenda bizzarra: tanto semplice fino a un certo punto, e poi...
+Fatemi dare un'occhiata a quella fotografia, volete?»
+
+La tenne per un istante vicino agli occhi socchiusi e miopi,
+e poi disse: «Avete una lente d'ingrandimento?»
+
+Payne ne produsse una, e il sacerdote vi guardò attraverso
+attentamente per qualche [[Time|tempo]], poi disse: «Guardate il titolo
+di quel libro all'estremità dello scaffale accanto alla cornice;
+è La storia della papessa Giovanna. Ora, mi domando... sì,
+perbacco; e quello sopra è qualcosa che riguarda l'Islanda.
+Signore! che modo curioso di scoprirlo! Che stupido e che asino
+sono stato a non notarlo quando ero là!»
+
+«Ma che cosa avete scoperto?» chiese Payne con impazienza.
+
+«L'ultimo anello» disse padre Brown «e non sono più arenato.
+Sì; credo di sapere ora come andò quella infelice storia dal principio alla fine.»
+
+«Ma perché?» insistette l'altro.
+
+«Perché, ecco» disse il sacerdote con un sorriso «la biblioteca
+dei Darnaway conteneva libri sulla papessa Giovanna e sull'Islanda, per non
+parlare di un altro che vedo, col titolo che comincia con La religione
+di Federico, che non è poi tanto difficile da completare.»
+Poi, vedendo il fastidio dell'altro, il sorriso gli si spense ed egli disse
+con maggiore serietà: «A dire il vero, quest'ultimo punto,
+per quanto sia l'ultimo anello, non è la questione principale.
+Vi erano cose ben più curiose in questo caso.
+Una di esse è piuttosto una curiosità in fatto di prove.
+Lasciate che cominci col dirvi qualcosa che potrà sorprendervi.
+Darnaway non morì alle sette di quella sera.
+Era già morto da un giorno intero.»
+
+«Sorprendere è una parola un po' blanda» disse Payne cupamente «visto che
+voi e io lo vedemmo entrambi camminare in giro dopo quell'ora.»
+
+«No, non lo vedemmo» replicò [[Father Brown|padre Brown]] con calma. «Credo che entrambi vedemmo lui,
+o credemmo di vederlo, affaccendarsi attorno alla messa a fuoco della sua macchina fotografica.
+Non aveva forse il capo sotto quel panno nero quando attraversaste la stanza?
+Lo aveva quando la attraversai io. Ed è per questo che sentii che c'era qualcosa di strano
+nella stanza e nella figura. Non era che la gamba fosse storta,
+ma piuttosto che non era storta. Era vestito con lo stesso tipo
+di abiti scuri; ma se vedete quello che credete essere un uomo, in piedi
+nel modo in cui sta un altro uomo, penserete che egli si trovi in un atteggiamento strano
+e forzato.»
+
+«Volete davvero dire» esclamò Payne con qualcosa di simile a un brivido
+«che era un uomo sconosciuto?»
+
+«Era l'assassino» disse [[Father Brown|padre Brown]]. «Aveva già
+ucciso Darnaway all'alba e nascosto il cadavere e se stesso
+nella camera oscura: un eccellente nascondiglio, perché di norma nessuno
+vi entra, né può vedere granché se pure vi entra.
+Ma lo lasciò cadere sul pavimento alle sette, s'intende,
+affinché tutta la faccenda potesse spiegarsi con la maledizione.»
+
+«Ma non capisco» osservò Payne. «Perché allora non lo uccise
+alle sette, invece di caricarsi di un cadavere
+per quattordici ore?»
+
+«Lasciate che vi ponga un'altra domanda» disse il sacerdote.
+«Perché non fu scattata alcuna fotografia? Perché l'assassino volle esser certo
+di ucciderlo appena si fosse alzato, e prima che potesse scattarla.
+Era essenziale per l'assassino impedire che quella fotografia
+giungesse all'esperto delle antichità dei Darnaway.»
+
+Vi fu un improvviso silenzio per un momento, poi il sacerdote riprese
+con tono più sommesso: «Non vedete quanto è semplice? Ma se voi stesso avete visto
+uno dei lati della possibilità; solo che è ancora più semplice di quanto pensaste.
+Avete detto che si sarebbe potuto truccare un uomo perché somigliasse a un vecchio quadro.
+È certo più semplice che si trucchi un quadro perché somigli a un uomo.
+In parole povere, è vero in un senso piuttosto particolare che non vi fu alcuna Condanna
+dei Darnaway. Non vi fu alcun vecchio quadro; non vi fu alcuna vecchia filastrocca;
+non vi fu alcuna leggenda di un uomo che causò la [[Death|morte]] della propria moglie.
+Ma vi fu un uomo assai malvagio e assai astuto, disposto
+a causare la [[Death|morte]] di un altro uomo per derubarlo della sposa promessa.»

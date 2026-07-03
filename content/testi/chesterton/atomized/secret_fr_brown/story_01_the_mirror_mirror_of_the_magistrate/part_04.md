@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/secret-fr-brown-(chesterton)">secret Fr Brown</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/secret_fr_brown/story_01_the_mirror_mirror_of_the_magistrate/part_03">‹ part 03</a><a class="ex-next" href="/testi/chesterton/atomized/secret_fr_brown/story_01_the_mirror_mirror_of_the_magistrate/part_05">part 05 ›</a></div>
@@ -132,3 +134,132 @@ could only throw out suggestions about a Bolshevist conspiracy which
 sounded a little thin. But when it came to investigating the facts of
 Orm's mysterious behaviour that [[Night|night]] he was considerably more
 effective.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/secret-fr-brown-(chesterton)">secret Fr Brown</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/secret_fr_brown/story_01_the_mirror_mirror_of_the_magistrate/part_03">‹ part 03</a><a class="ex-next" href="/testi/chesterton/atomized/secret_fr_brown/story_01_the_mirror_mirror_of_the_magistrate/part_05">part 05 ›</a></div>
+</nav>
+
+Non vi fu risposta; e uscirono dalla porta principale nel [[Garden|giardino]]
+antistante, un'aiuola più angusta e più regolare di [[Flowers|fiori]], che aveva a
+un'estremità una siepe stranamente potata con un varco al centro, simile a
+una verde [[Cave|caverna]], sotto l'[[Shadow|ombra]] della quale facevano capolino alcuni
+gradini spezzati.
+
+[[Father Brown]] si avvicinò al varco e vi chinò il capo. Pochi istanti dopo
+che era scomparso, tutti trasalirono nell'udire la sua voce pacata
+conversare al di sopra delle loro teste, come se parlasse con qualcuno in
+cima a un albero. Il [[Detective|detective]] lo seguì, e scoprì che quella curiosa
+scala coperta conduceva a quel che pareva un ponte spezzato, sospeso sugli
+spazi più bui e più vuoti del [[Garden|giardino]]. Girava appena intorno all'angolo
+della [[house|casa]], portando in vista il campo di luci colorate al di là e più in
+basso. Probabilmente era il residuo di qualche abbandonata fantasia
+architettonica: costruire una sorta di terrazza su archi attraverso il
+prato. Bagshaw lo giudicò un curioso vicolo cieco in cui trovare qualcuno
+nelle prime ore tra la [[Night|notte]] e il mattino; ma in quel momento non stava
+badando ai particolari. Stava guardando l'uomo che era stato trovato.
+
+Mentre l'uomo se ne stava di spalle — un uomo piccolo, in abito grigio
+chiaro — l'unico tratto che spiccava in lui era una meravigliosa massa di
+capelli, gialli e radiosi come la corolla di un enorme dente di leone.
+Spiccavano letteralmente come un'aureola, e qualcosa in quell'accostamento
+rendeva il volto, quando lentamente e imbronciato si volse verso di loro,
+uno stridente urto di contrasto. Quell'aureola avrebbe dovuto racchiudere
+un viso ovale d'indole vagamente angelica; ma il viso era arcigno e
+attempato, con una mascella poderosa e un naso corto che in qualche modo
+richiamava il naso rotto di un pugile.
+
+«Questi è il signor Orm, il celebre poeta, se ho ben capito», disse
+[[Father Brown]], con la stessa calma con cui avrebbe presentato due persone
+in un salotto.
+
+«Chiunque egli sia», disse Bagshaw, «devo pregarlo di seguirmi e di
+rispondere a qualche domanda».
+
+Il signor Osric Orm, il poeta, non era un modello di [[Self|espressione di sé]] quando
+si trattava di rispondere a delle domande. Là, in quell'angolo del vecchio
+[[Garden|giardino]], mentre il grigio crepuscolo che precede l'[[Dawn|alba]] cominciava a
+insinuarsi sulle pesanti siepi e sul ponte spezzato, e in seguito in una
+successione di circostanze e di fasi d'indagine giudiziaria che si facevano
+sempre più minacciose, si rifiutò di dire alcunché, salvo che aveva avuto
+intenzione di far visita a Sir Humphrey Gwynne, ma non l'aveva fatto perché
+non era riuscito a trovare nessuno che rispondesse al campanello. Quando gli
+fu fatto notare che la porta era praticamente aperta, sbuffò. Quando gli si
+insinuò che l'ora era alquanto tarda, ringhiò. Il poco che disse fu oscuro,
+o perché in verità non conosceva quasi affatto l'inglese, o perché sapeva
+troppo bene di non doverne conoscere. Le sue opinioni parevano d'indole
+nichilista e distruttrice, come del resto era la tendenza della sua poesia
+per quanti fossero in grado di seguirla; e sembrava possibile che i suoi
+affari col giudice, e forse la sua lite col giudice, fossero stati qualcosa
+sulla linea anarchica. Si sapeva che Gwynne aveva avuto una sorta di mania
+per le spie bolsceviche, come già l'aveva avuta per le spie tedesche. A ogni
+modo, una coincidenza, appena pochi istanti dopo la sua cattura, confermò
+Bagshaw nell'impressione che il caso andasse preso sul serio. Mentre
+uscivano dal cancello principale sulla strada, capitò loro d'imbattersi in
+un altro vicino ancora, Duller, il commerciante di sigari della porta
+accanto, cospicuo per il suo volto bruno e sagace e per l'orchidea unica
+all'occhiello; poiché aveva un nome in quel ramo dell'orticoltura. Con una
+certa sorpresa degli altri, salutò il suo vicino, il poeta, con tono
+disinvolto, quasi come se si fosse aspettato di vederlo.
+
+«Ehilà, eccoci di nuovo qui», disse. «Una bella chiacchierata col vecchio
+Gwynne, immagino?»
+
+«Sir Humphrey Gwynne è morto», disse Bagshaw. «Sto indagando sul caso e
+devo chiederle di spiegarsi».
+
+Buller rimase immobile come il lampione che gli stava accanto, forse
+irrigidito dalla sorpresa. L'estremità rossa del suo sigaro si ravvivava e
+si spegneva ritmicamente, ma il suo volto bruno era nell'[[Shadow|ombra]]; quando
+parlò fu con una voce affatto nuova.
+
+«Intendo soltanto», disse, «che quando sono passato due ore fa il signor
+Orm stava entrando da questo cancello per vedere Sir Humphrey».
+
+«Egli dice di non averlo ancora visto», osservò Bagshaw, «né di essere
+neppure entrato nella [[house|casa]]».
+
+«È un bel po' di [[Time|tempo]] per restarsene sullo scalino della porta», osservò
+Buller.
+
+«Sì», disse [[Father Brown]]; «è un bel po' di [[Time|tempo]] per restarsene per la
+strada».
+
+«Da allora sono tornato a [[Home|casa]]», disse il commerciante di sigari.
+«Stavo scrivendo lettere e sono uscito di nuovo per impostarle».
+
+«Dovrà raccontare tutto questo più tardi», disse Bagshaw. «Buona
+[[Night|notte]] — o buon mattino».
+
+Il processo a Osric Orm per l'assassinio di Sir Humphrey Gwynne, che riempì
+i giornali per tante settimane, si imperniò in realtà tutto quanto sullo
+stesso nodo di quel breve colloquio sotto il lampione, mentre l'[[Dawn|alba]]
+grigioverde spuntava sulle strade e i giardini bui. Tutto tornava
+all'enigma di quelle due ore vuote fra il [[Time|momento]] in cui Buller aveva visto
+Orm entrare dal cancello del [[Garden|giardino]] e il [[Time|momento]] in cui Padre Brown
+l'aveva trovato che apparentemente indugiava ancora nel [[Garden|giardino]]. Aveva
+certamente avuto il [[Time|tempo]] di commettere sei omicidi, e quasi avrebbe
+potuto commetterli per mancanza di qualcosa da fare; poiché non seppe dare
+alcun resoconto coerente di ciò che stava facendo. L'accusa sostenne che
+aveva avuto anche l'occasione, dato che la porta principale era socchiusa e
+la porta laterale che dava sul [[Garden|giardino]] più grande era rimasta aperta.
+La [[Court|corte]] seguì, con notevole interesse, la limpida ricostruzione fatta
+da Bagshaw della colluttazione nel corridoio, di cui le tracce erano così
+evidenti; anzi, la polizia aveva ormai ritrovato il proiettile che aveva
+mandato in frantumi il vetro. Infine, il varco nella siepe fino al quale
+egli era stato seguito aveva assai l'aspetto di un nascondiglio. D'altra
+parte, Sir Matthew Blake, l'abilissimo difensore, rovesciò quest'ultimo
+argomento nel senso opposto: domandando perché mai un uomo dovesse
+intrappolarsi in un luogo privo di ogni possibile uscita, quando sarebbe
+stato palesemente assai più sensato svignarsela nella strada. Sir Matthew
+Blake fece inoltre efficace uso del mistero che ancora avvolgeva il movente
+dell'assassinio. Anzi, su questo punto, gli scambi tra Sir Matthew Blake e
+Sir [[Arthur]] Travers, l'avvocato dell'accusa altrettanto brillante,
+volsero piuttosto a vantaggio dell'imputato. Sir [[Arthur]] poteva soltanto
+buttar lì insinuazioni su una cospirazione bolscevica che suonavano un po'
+esili. Ma quando si venne a indagare i fatti del misterioso comportamento
+di Orm quella [[Night|notte]], fu considerevolmente più efficace.

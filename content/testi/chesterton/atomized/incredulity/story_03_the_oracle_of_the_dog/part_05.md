@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/incredulity-(chesterton)">Incredulity</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/incredulity/story_03_the_oracle_of_the_dog/part_04">‹ part 04</a><a class="ex-next" href="/testi/chesterton/atomized/incredulity/story_03_the_oracle_of_the_dog/part_06">part 06 ›</a></div>
@@ -150,3 +152,50 @@ But it was in connexion with that that she said something I didn't
 understand at the [[Time|time]]; but now I'm sure it must be as you say.
 She said with a sort of sudden and splendid arrogance that
 was entirely altruistic:
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/incredulity-(chesterton)">Incredulity</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/incredulity/story_03_the_oracle_of_the_dog/part_04">‹ part 04</a><a class="ex-next" href="/testi/chesterton/atomized/incredulity/story_03_the_oracle_of_the_dog/part_06">part 06 ›</a></div>
+</nav>
+
+Fissava riflessivo il soffitto mentre parlava, ma nel dire le ultime parole l'occhio gli si drizzò all'erta come se avesse d'improvviso scorto una curiosa mosca sul soffitto.
+
+«[[Well|Be']], che farebbe lei al riguardo?», chiese il giovane. «Lei ha molta esperienza; che cosa consiglierebbe ora?»
+
+«Temo di non esserle di grande aiuto», disse [[Father Brown|Padre Brown]] con un sospiro. «Non posso suggerire molto senza essere mai stato vicino né al luogo né alle persone. Per il momento non può che proseguire con le indagini sul posto. Deduco che il suo amico della Polizia indiana sia più o meno a capo della sua inchiesta laggiù. Io ci farei un salto per vedere come se la cava. Guarderei che cosa ha combinato in fatto d'indagine dilettantesca. Potrebbero già esserci novità.»
+
+Come i suoi ospiti, il bipede e il quadrupede, scomparvero, Padre Brown prese la penna e tornò alla sua occupazione interrotta, la preparazione d'un ciclo di conferenze sull'enciclica Rerum Novarum. L'argomento era vasto ed egli dovette rifonderlo più d'una volta, sicché era pressappoco similmente occupato quando, un due giorni dopo, il grosso cane nero venne di nuovo saltellando nella stanza e gli si sdraiò addosso tutto entusiasmo ed eccitazione. Il padrone che seguiva il cane condivideva l'eccitazione se non l'entusiasmo. Era eccitato in modo meno piacevole, perché i suoi occhi azzurri parevano schizzargli dalla testa e il suo viso ardente era persino un po' pallido.
+
+«Lei mi disse», esordì bruscamente e senza preamboli, «di scoprire che cosa stesse facendo Harry Druce. Sa che cosa ha fatto?» Il prete non rispose, e il giovane proseguì con tono spezzato: «Le dirò io che cosa ha fatto. Si è ucciso.»
+
+Le labbra di Padre Brown si mossero appena, e non c'era nulla di pratico in ciò che diceva — nulla che abbia a che fare con questa storia o con questo mondo.
+
+«A volte mi fa venire i brividi», disse Fiennes. «Se lo... se lo aspettava?»
+
+«Lo ritenevo possibile», disse [[Father Brown|Padre Brown]]; «per questo le chiesi di andare a vedere che cosa stesse facendo. Speravo che non arrivasse troppo tardi.»
+
+«Fui io a trovarlo», disse Fiennes con voce piuttosto roca. «Fu la cosa più orribile e più sinistra che abbia mai conosciuto. Scesi di nuovo in quel vecchio giardino, e sapevo che c'era in esso qualcosa di nuovo e d'innaturale, oltre al delitto. I fiori ondeggiavano ancora in masse azzurre da ciascun lato del nero ingresso nel vecchio grigio padiglione; ma a me i fiori azzurri parevano diavoli azzurri danzanti dinanzi a qualche oscura caverna degli inferi. Mi guardai attorno, tutto pareva al suo posto consueto. Ma la strana idea mi crebbe dentro che ci fosse qualcosa di sbagliato nella forma stessa del cielo. E poi vidi che cos'era. La Rupe della Fortuna s'era sempre elevata sullo sfondo, oltre la siepe del giardino e contro il mare. La Rupe della Fortuna era sparita.»
+
+Padre Brown aveva alzato il capo e ascoltava intento.
+
+«Era come se una montagna se ne fosse andata via da un paesaggio o una [[Moon|luna]] fosse caduta dal cielo; benché sapessi, s'intende, che un tocco in qualunque [[Time|momento]] avrebbe rovesciato la cosa. Qualcosa m'invase e mi precipitai giù per quel [[Garden|giardino]] come il [[Wind|vento]], sfondando quella siepe come se fosse una ragnatela. Era una siepe davvero sottile, benché la sua intatta compostezza le avesse permesso di servire a tutti gli scopi d'un muro. Sulla riva trovai la roccia mobile caduta dal suo piedistallo; e il povero Harry Druce giaceva come un rottame là sotto. Un braccio le era gettato intorno in una sorta d'abbraccio, come se se l'avesse tirata addosso; e sull'ampia sabbia bruna accanto ad essa, in grandi lettere sconnesse, aveva scarabocchiato le parole: «La Rupe della Fortuna cade sullo Sciocco».»
+
+«Fu il testamento del colonnello a produrre tutto ciò», osservò [[Father Brown|Padre Brown]]. «Il giovane aveva puntato tutto sul trarre profitto dal disonore di Donald, specie quando lo zio lo mandò a chiamare lo stesso giorno dell'avvocato, e lo accolse con tanto calore. Altrimenti era rovinato; aveva perduto il posto in polizia; era ridotto sul lastrico a Monte Carlo. E si uccise quando scoprì d'aver ucciso il proprio congiunto per nulla.»
+
+«Un momento, si fermi!», gridò Fiennes con gli occhi sbarrati. «Va troppo in fretta per me.»
+
+«A proposito del testamento», proseguì con calma [[Father Brown|Padre Brown]], «prima che me ne dimentichi, o che passiamo a cose più grosse, c'era una spiegazione semplice, credo, di tutta quella faccenda del nome del dottore. Ho idea d'aver già sentito entrambi i nomi da qualche parte. Il dottore è in realtà un nobile francese col titolo di marchese de Villon. Ma è anche un ardente repubblicano e ha abbandonato il titolo, ripiegando sul dimenticato cognome di famiglia. «Col vostro Cittadino Riquetti avete tenuto in scacco l'Europa per dieci giorni.»»
+
+«Che cos'è?», chiese il giovane con aria smarrita.
+
+«Non importa», disse il prete. «Nove volte su dieci mutare il proprio nome è una cosa da mascalzoni; ma questo era un tratto di nobile [[Fanaticism|fanatismo]]. È qui il senso del suo sarcasmo sugli Americani che non hanno nomi — cioè, titoli. Ora, in Inghilterra il marchese di Hartington non è mai chiamato signor Hartington; ma in Francia il marchese de Villon è chiamato M. de Villon. Sicché potrebbe [[Well|ben]] sembrare un cambiamento di nome. Quanto ai discorsi sull'uccidere, ho idea che anche quello fosse un punto d'etichetta francese. Il dottore parlava di sfidare Floyd a duello, e la ragazza cercava di dissuaderlo.»
+
+«Oh, capisco», esclamò lentamente Fiennes. «Ora capisco che cosa intendeva.»
+
+«E di che si tratta?», chiese il compagno, sorridendo.
+
+«[[Well|Be']]», disse il giovane, «è una cosa che mi accadde poco prima che trovassi il corpo di quel pover'uomo; solo che la catastrofe me la scacciò dalla mente. Immagino sia difficile ricordare un piccolo idillio romantico quando si è appena inciampati in una tragedia. Ma mentre scendevo per i viottoli che portano alla vecchia dimora del colonnello, incontrai sua figlia a passeggio col dottor Valentine. Era in lutto, s'intende, e lui vestiva sempre di nero come se andasse a un funerale; ma non posso dire che i loro volti fossero molto funerei. Mai ho visto due persone dall'aria, a modo loro, più dignitosamente raggiante e lieta. Si fermarono e mi salutarono, e poi lei mi disse che erano sposati e vivevano in una casetta ai margini della città, dove il dottore continuava a esercitare. La cosa mi sorprese piuttosto, perché sapevo che il testamento del suo vecchio padre le aveva lasciato le sue proprietà; e vi alludei con delicatezza dicendo che mi recavo appunto alla vecchia dimora del padre e mezzo m'aspettavo di incontrarla lì. Ma lei si limitò a ridere e disse: «Oh, abbiamo rinunciato a tutto ciò. A mio marito non piacciono le ereditiere.» E scoprii con una certa meraviglia che avevano davvero insistito per restituire le proprietà al povero Donald; sicché [[Hope|spero]] che abbia avuto un sano scossone e la tratti con giudizio. Non c'è mai stato molto di male in lui, in fondo; era giovanissimo e suo padre non era molto saggio. Ma fu a proposito di ciò che lei disse una cosa che sul [[Time|momento]] non compresi; ma ora sono sicuro che dev'essere come dice lei. Disse con una sorta d'improvvisa e splendida arroganza che era del tutto altruistica:

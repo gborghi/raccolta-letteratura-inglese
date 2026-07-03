@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/incredulity-(chesterton)">Incredulity</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/incredulity/story_07_the_doom_of_the_darnaways/part_05">‹ part 05</a><a class="ex-next" href="/testi/chesterton/atomized/incredulity/story_07_the_doom_of_the_darnaways/part_07">part 07 ›</a></div>
@@ -136,3 +138,56 @@ rationalism as the photographer had filled his rooms with daylight.
 They might be as rationalistic as they liked; but in broad daylight
 the seventh heir had returned, and in broad daylight at the seventh
 hour he had perished.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/incredulity-(chesterton)">Incredulity</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/incredulity/story_07_the_doom_of_the_darnaways/part_05">‹ part 05</a><a class="ex-next" href="/testi/chesterton/atomized/incredulity/story_07_the_doom_of_the_darnaways/part_07">part 07 ›</a></div>
+</nav>
+
+Forse era per questo che preferiva sbrigarsela da solo, anche se qualcuno dei preparativi pareva richiedere più tempo e comportare indugi maggiori del normale. Comunque fosse, non incoraggiava affatto i pochi che visitarono il suo studio nel giorno dell'esperimento, e che lo trovarono intento a mettere a fuoco e ad affaccendarsi in un'aria del tutto isolata e impenetrabile. L'amministratore gli aveva lasciato un pasto, giacché egli si rifiutava di scendere; il vecchio gentiluomo tornò poi qualche ora dopo e trovò il pasto smaltito più o meno normalmente; ma quando glielo aveva portato non aveva ottenuto altra gratitudine che un grugnito. Payne salì una volta a vedere come procedesse, ma trovando il fotografo poco disposto alla conversazione ridiscese. Padre Brown si era incamminato da quella parte, con la sua discrezione consueta, per portare a Darnaway una lettera dell'esperto al quale la fotografia doveva essere spedita. Ma lasciò la lettera su un vassoio, e qualunque cosa pensasse di quella grande serra colma di luce del giorno e di dedizione a un passatempo, un mondo che egli stesso in un certo senso aveva creato, se lo tenne per sé e discese. Ebbe ben presto motivo di ricordare che era stato l'ultimo a scendere per la solitaria scala che collegava i piani, lasciandosi dietro un uomo solo e una stanza vuota. Gli altri stavano nel salotto che dava sulla biblioteca, proprio sotto il grande orologio di ebano nero che pareva una bara titanica.
+
+«Come procedeva Darnaway» chiese Payne poco dopo «l'ultima volta che siete salito?»
+
+Il sacerdote si passò una mano sulla fronte. «Non ditemi che sto diventando sensitivo» disse con un sorriso mesto. «Credo di essere del tutto abbagliato dalla luce del giorno lassù in quella stanza, e di non aver visto bene le cose. In tutta onestà, per un istante ho avuto la sensazione che vi fosse qualcosa di sinistro nella figura di Darnaway ritto davanti a quel ritratto.»
+
+«Oh, è la gamba zoppa» disse Barnet con prontezza. «Sappiamo tutto di quella.»
+
+«Sapete» disse Payne di scatto, ma abbassando la voce «io non credo che ne sappiamo tutto, né alcunché. Che cos'ha quella sua gamba? Che cos'aveva la gamba del suo antenato?»
+
+«Oh, c'è qualcosa in proposito nel libro che stavo leggendo là dentro, negli archivi di famiglia» disse Wood; «ve lo vado a prendere.» E fece un passo nella biblioteca lì accanto.
+
+«Credo» disse [[Father Brown|Padre Brown]] con calma «che il signor Payne debba avere qualche ragione particolare per chiederlo.»
+
+«Tanto [[Well|vale]] che lo dica una volta per tutte» disse Payne, ma a voce ancor più bassa. «Dopotutto, c'è una spiegazione razionale. Un uomo venuto da chissà dove potrebbe essersi truccato per somigliare al ritratto. Che cosa sappiamo di Darnaway? Si sta comportando in modo piuttosto strano...»
+
+Gli altri lo fissavano con un'aria alquanto sconcertata; ma il sacerdote parve prenderla con grande calma.
+
+«Non credo che il vecchio ritratto sia mai stato fotografato» disse. «È per questo che vuole farlo. Non ci vedo nulla di strano.»
+
+«Uno stato di cose del tutto ordinario, in fondo» disse Wood con un sorriso; era appena tornato col libro in mano. E proprio mentre parlava vi fu un fremito nel meccanismo del grande orologio scuro alle sue spalle, e rintocchi successivi vibrarono per la stanza fino al numero di sette. All'ultimo rintocco venne dal piano di sopra uno schianto che scosse la casa come una folgore; e Padre Brown era già due gradini su per la scala a chiocciola prima che il suono si fosse spento.
+
+«Dio mio!» gridò Payne senza volerlo; «è solo lassù.»
+
+«Sì» disse [[Father Brown|Padre Brown]] senza voltarsi, mentre spariva su per la scala. «Lo troveremo solo.»
+
+Quando gli altri si riebbero dalla prima paralisi e si precipitarono alla rinfusa su per i gradini di pietra e trovarono la via del nuovo studio, era vero in quel senso che lo trovarono solo. Lo trovarono disteso tra i rottami della sua alta macchina fotografica, con le lunghe gambe scheggiate che sporgevano grottescamente in tre diverse angolazioni; e Darnaway era caduto sopra di essa, con una gamba nera e storta distesa a un quarto angolo lungo il pavimento. Per un istante quel mucchio oscuro sembrò che egli fosse impigliato in un qualche ragno enorme e orribile. Bastarono poco più di un'occhiata e di un tocco per dire loro che era morto. Solo il ritratto se ne stava intatto sul cavalletto, e si sarebbe potuto immaginare che gli occhi sorridenti splendessero.
+
+Un'ora più tardi Padre Brown, mentre aiutava a placare lo sgomento della casa colpita, s'imbatté nel vecchio amministratore che borbottava quasi in modo altrettanto meccanico di quanto l'orologio aveva ticchettato e battuto l'ora terribile. Quasi senza udirle, sapeva quali dovessero essere le parole borbottate.
+
+Nel settimo erede tornerò, nella settima ora me ne andrò.
+
+Mentre stava per dire qualcosa di consolatorio, il vecchio parve d'un tratto ridestarsi e irrigidirsi nell'ira; il suo borbottio si mutò in un grido feroce.
+
+«Voi!» gridò; «voi e la vostra luce del giorno! Neppure voi direte adesso che non c'è nessuna Maledizione per i Darnaway.»
+
+«La mia opinione in proposito non è mutata» disse [[Father Brown|Padre Brown]] con dolcezza. Poi, dopo una pausa, aggiunse: «Spero che rispetterete l'ultimo desiderio del povero Darnaway, e che la fotografia venga spedita.»
+
+«La fotografia!» gridò il dottore aspramente. «A che serve? A dire il vero, è piuttosto curioso; ma non c'è nessuna fotografia. Pare che alla fine non l'abbia mai scattata, dopo aver gingillato tutto il giorno.»
+
+Padre Brown si voltò di scatto. «Allora scattatela voi» disse. «Il povero Darnaway aveva perfettamente ragione. È della massima importanza che la fotografia sia scattata.»
+
+Mentre tutti i visitatori, il dottore, il sacerdote e i due artisti si allontanavano in una nera e desolata processione attraverso le sabbie brune e gialle, dapprima rimasero più o meno silenziosi, quasi fossero stati storditi. E certo vi era stato qualcosa come un tuono in un cielo sereno nel compiersi di quella dimenticata superstizione proprio nel [[Time|momento]] in cui l'avevano più che mai dimenticata; quando il dottore e il sacerdote avevano entrambi riempito la mente di razionalismo come il fotografo aveva riempito le sue stanze di luce del giorno. Potevano essere razionalisti quanto volevano; ma in pieno giorno il settimo erede era tornato, e in pieno giorno alla settima ora era perito.

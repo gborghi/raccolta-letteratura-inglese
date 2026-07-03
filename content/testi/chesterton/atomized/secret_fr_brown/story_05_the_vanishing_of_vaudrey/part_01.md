@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/secret-fr-brown-(chesterton)">secret Fr Brown</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/secret_fr_brown/story_04_the_actor_and_the_alibi/part_07">‹ part 07</a><a class="ex-next" href="/testi/chesterton/atomized/secret_fr_brown/story_05_the_vanishing_of_vaudrey/part_02">part 02 ›</a></div>
@@ -110,3 +112,109 @@ of it for me, even if she is engaged to Dalmon. Shocked, I suppose?"
 
 [[Father Brown]] did not look very much shocked, but his face was often
 rather expressionless; he merely said, mildly:
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/secret-fr-brown-(chesterton)">secret Fr Brown</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/secret_fr_brown/story_04_the_actor_and_the_alibi/part_07">‹ part 07</a><a class="ex-next" href="/testi/chesterton/atomized/secret_fr_brown/story_05_the_vanishing_of_vaudrey/part_02">part 02 ›</a></div>
+</nav>
+
+V LA SCOMPARSA DI VAUDREY
+
+SIR [[Arthur|ARTHUR]] VAUDREY, nel suo abito grigio chiaro d'[[Summer|estate]], e portando sulla
+testa grigia il cappello bianco che ostentava con tanta baldanza, se ne andava a passo
+svelto lungo la [[Road|strada]] presso il [[River|fiume]], dalla propria [[house|casa]] al piccolo gruppo
+di abitazioni che erano quasi come dépendance della sua, entrò in quel
+piccolo [[Hamlet|borgo]], e poi svanì completamente, come se fosse stato portato
+via dalle fate.
+
+La sparizione appariva tanto più assoluta e improvvisa a causa della
+familiarità della scena e dell'estrema semplicità delle condizioni del
+problema. Il [[Hamlet|borgo]] non poteva dirsi un villaggio; anzi, non era
+molto più di una piccola e stranamente isolata strada. Sorgeva in
+mezzo a vasti campi aperti e a distese di pianura, una mera fila delle quattro
+o cinque botteghe assolutamente indispensabili ai vicini; ossia a pochi
+contadini e alla famiglia della [[Great House|grande casa]]. C'era una macelleria all'
+angolo, davanti alla quale, a quanto pareva, Sir [[Arthur]] era stato visto l'ultima volta. Fu
+visto da due giovani ospiti della sua [[house|casa]]: Evan [[smith|Smith]], che gli faceva da
+segretario, e John Dalmon, che si supponeva generalmente fidanzato
+con la sua pupilla. Accanto alla macelleria c'era una piccola bottega che combinava un
+gran numero di funzioni, come se ne trovano nei villaggi, dove una
+vecchietta vendeva dolciumi, bastoni da passeggio, palline da golf, gomma, gomitoli
+di spago e una carta da lettere assai sbiadita. Oltre a questa c'era il
+tabaccaio, verso il quale i due giovani si stavano dirigendo quando
+scorsero per l'ultima volta il loro ospite in piedi davanti alla
+bottega del macellaio; e più in là c'era una piccola e squallida sartoria, tenuta da
+due signore. Una bottega pallida e lucida, che offriva al passante grandi
+coppe di limonata verde e assai smorta, completava l'isolato di edifici;
+poiché l'unica locanda vera e cristiana dei dintorni sorgeva isolata,
+a una certa distanza, giù per la [[Road|strada]] maestra. Fra la locanda e il [[Hamlet|borgo]] c'era un [[Cross|croce]]
+vio, presso il quale stavano un poliziotto e un funzionario in divisa di un
+club automobilistico; ed entrambi concordavano che Sir [[Arthur]] non era mai passato per quel
+punto della [[Road|strada]].
+
+Era stato in un'ora mattutina di una splendida giornata d'[[Summer|estate]] che il vecchio
+gentiluomo se n'era andato allegramente a grandi passi su per la [[Road|strada]], dondolando il suo
+bastone da passeggio e sventolando i guanti gialli. Era un buon dandy, ma
+di specie vigorosa e virile, specialmente per la sua età. La sua forza
+fisica e la sua attività erano ancora assai notevoli, e i suoi capelli ricci
+potevano essere un giallo così pallido da sembrar bianco, anziché un bianco
+che fosse un giallo sbiadito. Il suo volto ben rasato era bello, con un
+naso dall'arco alto come quello del Duca di Wellington; ma i tratti più
+salienti erano gli occhi. Non erano salienti solo in senso metaforico;
+qualcosa di sporgente e quasi protuberante in essi era
+forse l'unica sproporzione dei suoi lineamenti; ma le labbra erano
+sensibili e serrate un poco strettamente, come per un atto di volontà. Era lo
+squire di tutta quella contrada e il proprietario del piccolo [[Hamlet|borgo]]. In quel
+genere di luogo tutti non solo conoscono tutti gli altri, ma di solito
+sanno dove si trovi chiunque in qualsiasi dato momento. Il corso normale sarebbe
+stato che Sir [[Arthur]] camminasse fino al villaggio, dicesse quello che voleva
+dire al macellaio o a chiunque altro, e poi tornasse a piedi alla sua [[house|casa]],
+il tutto nel giro di circa mezz'ora: come fecero i due giovani
+quando ebbero comprato le loro sigarette. Ma sulla [[Road|strada]] non videro nessuno
+tornare; anzi, non c'era nessuno in vista, tranne l'unico altro ospite
+della [[house|casa]], un certo dottor Abbott, che sedeva con l'ampia schiena
+rivolta a loro sulla riva del [[River|fiume]], pescando con molta pazienza.
+
+Quando tutti e tre gli ospiti tornarono per la colazione, parvero pensare
+poco o nulla della continua assenza dello squire; ma quando la
+giornata avanzò ed egli mancò a un pasto dopo l'altro, cominciarono naturalmente
+a essere perplessi, e Sybil Rye, la signora della casa, cominciò a essere
+seriamente allarmata. Spedizioni di ricognizione vennero mandate al
+villaggio più e più volte senza trovare alcuna traccia; e alla fine, quando
+scese l'oscurità, la [[house|casa]] fu piena di una vera e propria [[Fear|paura]]. Sybil aveva mandato a chiamare
+[[Father Brown]], che era un suo amico e l'aveva aiutata a uscire da una
+difficoltà in passato; e sotto la pressione dell'apparente pericolo egli
+aveva acconsentito a rimanere alla [[house|casa]] e a seguire la faccenda fino in fondo.
+
+Fu così che quando spuntò l'[[Dawn|alba]] del nuovo giorno senza notizie, Padre
+Brown era già in piedi di buon'ora e all'erta per qualsiasi cosa; la sua nera,
+tozza figura si poteva vedere misurare a passi il sentiero del [[Garden|giardino]], là dove il [[Garden|giardino]] era
+arginato lungo il [[River|fiume]], mentre scrutava il paesaggio in su e in giù con
+il suo sguardo miope e piuttosto velato.
+
+Si accorse che un'altra figura si muoveva ancor più irrequieta lungo
+l'argine, e salutò per nome Evan [[smith|Smith]], il segretario.
+
+Evan [[smith|Smith]] era un giovane alto, dai capelli biondi, dall'aria piuttosto tormentata,
+come forse era naturale in quell'ora di sgomento. Ma qualcosa del
+genere lo accompagnava sempre. Forse era più marcato perché aveva
+quel tipo di slancio e portamento atletici e quel tipo di leonini capelli
+gialli e di baffi che accompagnano (sempre nella narrativa e talvolta nella
+realtà) un franco e allegro contegno da «gioventù inglese». Poiché nel suo caso
+essi accompagnavano occhi profondi e cavernosi e un'aria piuttosto smunta, il
+contrasto con la convenzionale figura alta e i capelli biondi del [[Romance|romanzo]] poteva
+avere un che di sinistro. Ma [[Father Brown]] gli sorrise
+abbastanza affabilmente e poi disse in tono più serio:
+
+«È una faccenda penosa.»
+
+«È una faccenda molto penosa per Miss Rye,» rispose il giovane
+cupamente; «e non vedo perché dovrei nascondere qual è la parte peggiore
+per me, anche se lei è fidanzata con Dalmon. Scandalizzato, immagino?»
+
+[[Father Brown]] non sembrava molto scandalizzato, ma il suo volto era spesso
+piuttosto inespressivo; disse soltanto, con mitezza:

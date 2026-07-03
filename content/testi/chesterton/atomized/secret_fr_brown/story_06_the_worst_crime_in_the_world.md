@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/secret-fr-brown-(chesterton)">secret Fr Brown</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/secret_fr_brown/story_05_the_vanishing_of_vaudrey">‹ Story 05 THE VANISHING OF VAUDREY</a><a class="ex-next" href="/testi/chesterton/atomized/secret_fr_brown/story_07_the_red_moon_moon_of_meru">Story 07 THE RED Moon MOON OF MERU ›</a></div>
@@ -693,3 +695,397 @@ question of wealth and position, I suppose."
 
 "Yes," said [[Father Brown]] dryly; "her mother was all in favour of a
 prudent [[Marriage|marriage]]."
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/secret-fr-brown-(chesterton)">secret Fr Brown</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/secret_fr_brown/story_05_the_vanishing_of_vaudrey">‹ Story 05 THE VANISHING OF VAUDREY</a><a class="ex-next" href="/testi/chesterton/atomized/secret_fr_brown/story_07_the_red_moon_moon_of_meru">Story 07 THE RED Moon MOON OF MERU ›</a></div>
+</nav>
+
+VI IL PEGGIOR DELITTO DEL MONDO
+
+[[Father Brown|PADRE BROWN]] se ne andava girovagando per una pinacoteca con un'espressione che lasciava intendere come non fosse venuto lì per guardare i quadri. In effetti non aveva alcuna voglia di guardarli, per quanto i quadri gli piacessero [[Well|abbastanza]]. Non che vi fosse alcunché di immorale o di sconveniente in quei disegni pittorici di sfrenata modernità. Ci sarebbe voluto un temperamento assai infiammabile per essere spinto a una qualsiasi delle passioni più pagane dallo spettacolo di spirali interrotte, di coni rovesciati e di cilindri spezzati con cui l'arte del futuro ispirava o minacciava il genere umano. La [[Truth|verità]] è che [[Father Brown]] stava cercando una giovane amica che aveva fissato quel luogo d'incontro alquanto stonato, essendo lei di indole più futurista. La giovane amica era anche una giovane parente; una dei pochi parenti che avesse. Si chiamava Elizabeth Fane, semplificato in Betty, ed era la [[Child|figlia]] di una sorella che si era imparentata, sposandosi, con una stirpe di raffinati ma squattrinati signorotti di campagna. E poiché lo squire era morto [[Well|tanto]] quanto squattrinato, [[Father Brown]] rivestiva il ruolo di protettore [[Well|altrettanto]] quanto di sacerdote, e in un certo senso di tutore [[Well|altrettanto]] quanto di zio. In quel momento, tuttavia, sbatteva le palpebre guardandosi attorno tra i capannelli della galleria, senza scorgere i familiari capelli castani e il volto luminoso della nipote. Ciò nondimeno vide alcune persone che conosceva e un buon numero di persone che non conosceva, comprese certune che, per pura questione di gusto, non aveva un gran desiderio di conoscere.
+
+Tra le persone che il sacerdote non conosceva e che pure destavano il suo interesse c'era un giovane agile e sveglio, vestito con grande eleganza e dall'aspetto piuttosto straniero, poiché, mentre la barba era tagliata a punta come quella di un vecchio spagnolo, i capelli scuri erano rasati così corti da sembrare un aderente zucchetto nero. Tra le persone che il sacerdote non aveva particolarmente voglia di conoscere c'era una signora dall'aria assai autoritaria, vestita in modo appariscente di scarlatto, con una criniera di capelli gialli troppo lunghi per dirsi tagliati alla maschietta, ma troppo sciolti per dirsi qualsiasi altra cosa. Aveva un volto forte e piuttosto pesante, dal colorito pallido e alquanto malsano, e quando guardava qualcuno coltivava le seduzioni di un basilisco. Si trascinava al seguito un uomo basso con una gran barba e una faccia larghissima, dagli occhi ridotti a lunghe fessure assonnate. L'espressione del suo volto era raggiante e benevola, benché solo a metà desta; ma il collo taurino, visto di spalle, aveva un che di brutale.
+
+[[Father Brown]] fissò lo sguardo sulla signora, sentendo che l'apparizione e l'avvicinarsi della nipote sarebbe stato un gradevole contrasto. Eppure, per qualche ragione, continuò a fissarla, finché non giunse al punto di sentire che l'apparizione di chiunque sarebbe stata un gradevole contrasto. Fu perciò con un certo sollievo, sebbene con un lieve sussulto come di risveglio, che si voltò al suono del proprio nome e vide un altro volto che conosceva.
+
+Era il viso acuto ma non ostile di un avvocato di nome Granby, le cui chiazze di capelli grigi avrebbero potuto quasi passare per la cipria di una parrucca, tanto erano stonate rispetto alla sua giovanile energia nei movimenti. Era uno di quegli uomini della [[City]] che sfrecciano di qua e di là come scolaretti, entrando e uscendo dai loro uffici. Non poteva certo correre per l'elegante pinacoteca proprio a quel modo; ma aveva l'aria di volerlo fare, e si agitava lanciando occhiate a destra e a sinistra in cerca di qualcuno che conoscesse.
+
+«Non sapevo», disse [[Father Brown]] sorridendo, «che lei fosse un patrono della Nuova Arte».
+
+«E io non sapevo che lo fosse lei», ribatté l'altro. «Sono venuto qui per acchiappare un uomo».
+
+«[[Hope|Spero]] che avrà buona caccia», rispose il sacerdote. «Sto facendo pressappoco la stessa cosa».
+
+«Mi ha detto che era di passaggio, diretto sul Continente», sbuffò il procuratore, «e se potevo incontrarlo in questo posto strambo». Rimuginò un istante, poi disse bruscamente: «Senta un po', so che lei sa mantenere un segreto. Conosce Sir John Musgrave?»
+
+«No», rispose il sacerdote; «ma non avrei mai pensato che fosse un segreto, benché dicano che si nasconda in un [[Castle|castello]]. Non è quel vecchio di cui raccontano tutte quelle storie: come viva in una torre con tanto di saracinesca e ponte levatoio autentici, e come si rifiuti in genere di uscire dal Medioevo? È uno dei suoi clienti?»
+
+«No», replicò seccamente Granby: «è suo figlio, il capitano Musgrave, che si è rivolto a noi. Ma il vecchio conta parecchio nella faccenda, e io non lo conosco; ecco il punto. Senta, è una cosa confidenziale, come dicevo, ma di lei mi posso fidare». Abbassò la voce e trasse l'amico in disparte, in una galleria laterale che conteneva raffigurazioni di svariati oggetti reali, e che era relativamente deserta.
+
+«Questo giovane Musgrave», disse, «vuole ottenere da noi una grossa somma su un post obit a carico del suo vecchio padre, nel Northumberland. Il vecchio ha superato da un pezzo i settant'anni e presumibilmente obit in un [[Time|momento]] o nell'altro, per così dire; ma quanto al post? Che ne sarà, dopo, del suo denaro, dei suoi castelli, delle sue saracinesche e di tutto il resto? È una bellissima vecchia tenuta, che vale ancora un mucchio di soldi, ma stranamente non è vincolata a un fedecommesso. Vede dunque a che punto siamo. La questione è, come diceva quel tale in Dickens: il vecchio è ben disposto?»
+
+«Se è ben disposto verso suo figlio, lei si sentirà tanto più ben disposto», osservò [[Father Brown]]. «No, temo di non poterla aiutare. Non ho mai incontrato Sir John Musgrave, e ho capito che ben poche persone lo incontrano di questi tempi. Ma sembra evidente che lei abbia diritto a una risposta su questo punto prima di prestare al giovane gentiluomo il denaro del suo studio. È forse il tipo d'uomo che si diseredano con uno scellino?»
+
+«[[Well|Beh]], sono dubbioso», rispose l'altro. «È molto popolare e brillante, e una gran figura in società; ma sta parecchio all'estero, ed è stato giornalista».
+
+«[[Well|Beh]]», disse [[Father Brown]], «questo non è un delitto. O almeno non sempre».
+
+«Sciocchezze!» tagliò corto Granby. «Sa bene che cosa intendo: è piuttosto un [[rolling|sasso che rotola]], uno che è stato giornalista e conferenziere e attore, e ogni sorta di cose. Ho bisogno di sapere a che punto mi trovo... Ma guarda, eccolo là».
+
+E il legale, che aveva battuto i piedi con impazienza su e giù per la
+galleria più deserta, si voltò di scatto e si lanciò di corsa nella sala
+più affollata. Correva verso il giovane alto e [[Well|ben]] vestito, dai
+capelli corti e dalla barba d'aria straniera.
+
+I due si allontanarono insieme conversando, e per qualche istante
+[[Father Brown]] li seguì con i suoi occhi socchiusi da miope. Il suo
+sguardo fu però distolto e richiamato dall'arrivo trafelato e persino
+chiassoso di sua nipote, Betty. Con non poca sorpresa dello zio, ella lo
+ricondusse nella sala più vuota e lo piantò su un sedile che pareva
+un'isola in quel mare di pavimento.
+
+«Ho una cosa che devo assolutamente dirti», disse. «È così sciocca che
+nessun altro potrebbe capirla.»
+
+«Mi lasci sopraffatto», disse [[Father Brown]]. «Riguarda quella
+faccenda di cui tua madre aveva cominciato a parlarmi? Fidanzamenti e
+tutto il resto; non ciò che gli storici militari chiamano un impegno
+generale.»
+
+«Sai», disse lei, «che vorrebbe fidanzarmi con il capitano Musgrave.»
+
+«Non lo sapevo», disse [[Father Brown]] con [[Resignation|rassegnazione]];
+«ma il capitano Musgrave pare essere un argomento assai di moda.»
+
+«Certo, siamo molto poveri», disse lei, «e non serve a niente dire che
+questo non fa alcuna differenza.»
+
+«Vuoi sposarlo?» chiese [[Father Brown]], guardandola attraverso le
+palpebre socchiuse.
+
+Ella aggrottò la fronte fissando il pavimento, e rispose con voce più
+bassa:
+
+«Credevo di sì. Almeno, credo di aver creduto di sì. Ma ho appena avuto
+un certo turbamento.»
+
+«Allora raccontaci tutto.»
+
+«L'ho sentito ridere», disse lei.
+
+«È un'eccellente qualità mondana», rispose lui.
+
+«Non capisci», disse la ragazza. «Non aveva nulla di mondano. Era
+proprio questo il punto: che non era mondano.»
+
+Si fermò un momento, poi proseguì con fermezza: «Sono arrivata qui
+piuttosto presto, e l'ho visto seduto tutto [[Alone|solo]] in mezzo a
+quella galleria dei quadri nuovi, che allora era del tutto vuota. Non
+aveva idea che io o chiunque altro fossimo vicini; se ne stava seduto
+tutto [[Alone|solo]], e rideva.»
+
+«[[Well|Be']], non c'è da [[Wonder|meravigliarsi]]», disse [[Father Brown]].
+«Non sono un critico d'arte, io, ma come giudizio complessivo dei quadri
+presi nel loro insieme...»
+
+«Oh, non capirai», disse lei quasi con stizza. «Non era affatto così.
+Non stava guardando i quadri. Fissava dritto in su verso il soffitto; ma
+i suoi occhi parevano rivolti all'interno, e rideva in un modo che mi
+gelò il [[Blood|sangue]].»
+
+Il prete si era alzato e passeggiava per la stanza con le mani dietro la
+schiena. «Non bisogna essere frettolosi in un caso del genere», cominciò.
+«Vi sono due specie di uomini... ma difficilmente possiamo discutere di
+lui proprio ora, perché eccolo qui.»
+
+Il capitano Musgrave entrò rapido nella stanza e la spazzò con un
+sorriso. Granby, l'avvocato, gli era subito alle spalle, e il suo volto
+da uomo di legge recava una nuova espressione di sollievo e
+soddisfazione.
+
+«Devo scusarmi per tutto quello che ho detto sul capitano», disse al
+prete mentre andavano insieme verso la porta. «È un tipo del tutto
+assennato e comprende benissimo il mio punto di vista. Mi ha chiesto lui
+stesso perché non andassi al nord a vedere il suo vecchio padre; potrei
+sentire dalle labbra dello stesso vecchio come stanno le cose riguardo
+all'eredità. [[Well|Ebbene]], non poteva dire nulla di più leale, no? Ma è
+così ansioso di sistemare la faccenda che si è offerto di portarmi con la
+sua vettura fino a Musgrave Moss. Così si chiama la tenuta. Ho suggerito
+che, se era tanto gentile, potevamo andare insieme; e partiamo domani
+mattina.»
+
+Mentre parlavano, Betty e il capitano varcarono insieme la soglia,
+formando in quella cornice per lo meno una specie di quadro che qualcuno
+sarebbe stato abbastanza sentimentale da preferire ai coni e ai
+cilindri. Quali che fossero le loro altre affinità, erano entrambi assai
+belli a vedersi; e l'avvocato fu indotto a farne osservazione, quando il
+quadro mutò di colpo.
+
+Il capitano James Musgrave gettò lo sguardo nella galleria principale, e
+i suoi occhi ridenti e trionfanti si inchiodarono su qualcosa che parve
+trasformarlo da capo a piedi. [[Father Brown]] si voltò come sotto
+un'[[Shadow|ombra]] incombente di presentimento; e vide il volto torvo,
+quasi livido, della grossa donna in scarlatto sotto la sua leonina
+chioma gialla. Se ne stava sempre lievemente curva, come un toro che
+abbassa le corna, e l'espressione del suo viso pallido e pastoso era
+tanto opprimente e ipnotica che a stento notarono l'omino dalla gran
+barba che le stava accanto.
+
+Musgrave avanzò verso il centro della stanza in direzione di lei, quasi
+come una figura di cera splendidamente vestita e caricata a molla per
+camminare. Le disse poche parole che non poterono essere udite. Ella non
+rispose; ma si allontanarono insieme, percorrendo la lunga galleria come
+in [[debate|discussione]], mentre l'uomo tozzo dal collo taurino e dalla
+barba chiudeva la fila come un [[Grotesque|grottesco]] paggio da
+folletto.
+
+«Il Cielo ci assista!» mormorò [[Father Brown]], seguendoli con lo
+sguardo aggrottato. «Chi diamine è quella donna?»
+
+«Nessuna amica mia, per fortuna», rispose Granby con cupa leggerezza. «Ha
+l'aria che un piccolo flirt con lei potrebbe finire in tragedia, non
+trova?»
+
+«Non credo che stia flirtando con lei», disse [[Father Brown]].
+
+Proprio mentre parlava, il gruppo in questione si voltò in fondo alla
+galleria e si sciolse, e il capitano Musgrave tornò da loro a passi
+frettolosi.
+
+«Sentite», esclamò, parlando in tono abbastanza naturale, benché
+sembrasse loro che il colorito gli fosse mutato. «Mi dispiace
+terribilmente, signor Granby, ma mi accorgo di non poter venire al nord
+con lei domani. Naturalmente, prenda la vettura lo stesso. La prenda, la
+prego; a me non servirà. Io... devo trovarmi a [[London|Londra]] per
+qualche giorno. Porti con sé un amico, se vuole.»
+
+«Il mio amico, [[Father Brown]]...» cominciò l'avvocato.
+
+«Se il capitano Musgrave è davvero tanto gentile», disse [[Father Brown]]
+con gravità. «Posso spiegare che ho una certa parte nell'indagine del
+signor Granby, e sarebbe per me un grande sollievo poter andare.»
+
+Fu così che, il giorno seguente, un'elegantissima vettura, con un
+autista non meno elegante, sfrecciò verso il nord attraverso le brughiere
+dello Yorkshire, portando il carico incongruo di un prete che somigliava
+piuttosto a un fagotto nero, e di un avvocato che aveva l'abitudine di
+correre in giro sulle proprie gambe anziché filare veloce sulle ruote
+altrui.
+
+Interruppero il loro [[Journey|viaggio]] assai piacevolmente in una delle grandi vallate del West Riding, cenando e pernottando in una comoda locanda, e ripartiti di buon mattino il giorno seguente cominciarono a costeggiare la riviera del Northumberland finché non giunsero in una regione che era un labirinto di dune di sabbia e di rigogliosi prati marini, nel cuore dei quali sorgeva, chissà dove, l'antico [[Castle|castello]] di confine, rimasto monumento tanto singolare quanto misterioso delle vecchie guerre di frontiera. Lo trovarono infine, seguendo un sentiero che correva lungo un lungo braccio di mare protendentesi nell'entroterra, il quale si mutava alla fine in una sorta di rozzo canale che terminava nel fossato del [[Castle|castello]]. Il [[Castle|castello]] era davvero un [[Castle|castello]], della pianta quadrata e merlata che i Normanni edificarono ovunque, dalla Galilea ai Grampiani. Aveva realmente e veramente una saracinesca e un ponte levatoio, e ne furono avvertiti in modo assai realistico da un incidente che ritardò il loro ingresso.
+
+Guadarono in mezzo all'erba lunga e ispida e ai cardi fino alla sponda del fossato, che scorreva come un nastro nero cosparso di [[Leaves|foglie]] morte e di schiuma, simile a un'ebano intarsiato di un motivo d'oro. A malapena una iarda o due oltre il nastro nero c'erano l'altra sponda verde e i grandi pilastri di pietra del portale. Ma tanto poco, a quanto pareva, quella solitaria fortezza era stata avvicinata dall'esterno, che quando l'impaziente Granby gridò dall'altra parte verso le figure indistinte dietro la saracinesca, esse parvero avere non poca difficoltà anche solo ad abbassare il grande ponte levatoio arrugginito. Esso si avviò, rovesciandosi come una grande torre che cadesse sopra di loro, e poi si bloccò, restando sospeso a mezz'aria con un'inclinazione minacciosa.
+
+L'impaziente Granby, saltellando sulla sponda, gridò al suo compagno:
+
+«Oh, non sopporto questi modi da lumaca! Perbacco, sarebbe meno faticoso saltare.»
+
+E con la sua caratteristica impetuosità saltò davvero, atterrando con un leggero barcollamento al sicuro sulla riva interna. Le corte gambe di [[Father Brown]] non erano adatte al salto. Ma la sua indole era più adatta di quella dei più a cadere con un tonfo in un'[[Water|acqua]] fangosissima. Grazie alla prontezza del compagno evitò di cadervi troppo dentro. Ma mentre veniva issato su per la sponda verde e viscida, si fermò a capo chino, scrutando un punto particolare del pendio erboso.
+
+«State facendo botanica?» chiese Granby irritato. «Non abbiamo [[Time|tempo]] perché vi mettiate a raccogliere piante rare, dopo l'ultimo vostro tentativo da palombaro fra le meraviglie degli abissi. Andiamo, fangoso o no, dobbiamo presentarci al baronetto.»
+
+Quando furono penetrati nel [[Castle|castello]], furono accolti con abbastanza cortesia da un vecchio domestico, l'unico in vista, e dopo aver esposto il motivo della loro visita furono introdotti in una lunga sala rivestita di pannelli di quercia, con finestre a graticcio di foggia antiquata. Armi di molti secoli diversi pendevano in composizioni equilibrate sulle pareti scure, e una completa armatura del Trecento se ne stava come una sentinella accanto al grande camino. In un'altra lunga sala più oltre si scorgevano, attraverso la porta socchiusa, i colori scuri delle file di ritratti di famiglia.
+
+«Mi sento come se fossi finito dentro un [[Novel|romanzo]] invece che in una [[house|casa]]» disse l'avvocato. «Non avevo idea che qualcuno tenesse davvero in vita a questo modo i "Misteri di Udolpho".»
+
+«Già; il vecchio gentiluomo porta avanti la sua mania storica con coerenza, non c'è che dire» rispose il prete; «e queste cose non sono nemmeno dei falsi. Non è opera di qualcuno che crede che tutti gli uomini del Medioevo siano vissuti nello stesso [[Time|tempo]]. Talvolta compongono armature con pezzi di provenienza diversa; ma quell'armatura copriva tutta un solo uomo, e lo copriva assai completamente. Vedete, è del tipo tardo, da giostra.»
+
+«Io penso che sia un ospite del tipo tardo, se è per chiacchierare» brontolò Granby. «Ci sta facendo aspettare un [[Time|tempo]] indiavolato.»
+
+«Dovete aspettarvi che tutto vada a rilento in un luogo simile» disse [[Father Brown]]. «Trovo molto garbato da parte sua ricevirci comunque: due perfetti sconosciuti venuti a porgli domande estremamente personali.»
+
+E, in effetti, quando il padrone di [[house|casa]] comparve, non ebbero motivo di lamentarsi dell'accoglienza; anzi, presero coscienza di qualcosa di genuino in quelle tradizioni di educazione e di contegno che sapevano conservare senza sforzo la loro nativa dignità in quella barbara [[Solitude|solitudine]], e dopo quei lunghi anni di isolamento campagnolo e di malinconia. Il baronetto non parve né sorpreso né imbarazzato dalla rara visita; e sebbene sospettassero che non aveva avuto un estraneo in [[house|casa]] per un quarto di [[Time|vita]], si comportò come se un attimo prima stesse congedandosi con un inchino da certe duchesse. Non mostrò né timidezza né impazienza quando toccarono la faccenda assai privata della loro missione; dopo un poco di riflessione senza fretta, parve riconoscere che, date le circostanze, la loro curiosità era giustificata. Era un vecchio gentiluomo magro, dall'aria acuta, con sopracciglia nere e un lungo mento, e sebbene i capelli accuratamente arricciati che portava fossero senza dubbio una parrucca, ebbe la saggezza di indossare la parrucca grigia di un uomo anziano.
+
+«Quanto alla questione che vi riguarda direttamente» disse, «la risposta è davvero semplicissima. Mi propongo di certo di trasmettere l'intera mia proprietà a mio figlio, come mio padre la trasmise a me; e nulla — dico con piena consapevolezza, nulla — mi indurrebbe a seguire un'altra via.»
+
+«Vi sono profondamente grato dell'informazione» rispose l'avvocato. «Ma la vostra cortesia mi incoraggia a osservare che ponete la cosa in termini assai perentori. Non vorrei insinuare che sia minimamente probabile che vostro figlio faccia alcunché tale da farvi [[Doubt|dubitare]] della sua idoneità all'incarico. Eppure, potrebbe...»
+
+«Esattamente» disse Sir John Musgrave asciutto, «potrebbe. È piuttosto un'attenuazione dire che potrebbe. Volete avere la bontà di passare un momento nell'altra stanza con me?»
+
+Li condusse nella galleria più interna, di cui avevano già colto un'occhiata, e si fermò gravemente davanti a una fila di ritratti anneriti e accigliati.
+
+«Questo è Sir Roger Musgrave» disse, indicando un personaggio dal volto allungato con una nera parrucca. «Fu uno dei più bassi bugiardi e furfanti dei furfanteschi [[Time|tempi]] di Guglielmo d'Orange, traditore di due re e press'a poco assassino di due mogli. Quello è suo padre, Sir Robert, un vecchio cavaliere perfettamente onesto. Quello è suo figlio, Sir James, uno dei più nobili martiri giacobiti e uno dei primi a tentare qualche riparazione verso la Chiesa e i poveri. Ha forse importanza che la [[house|Casa]] dei Musgrave, la potenza, l'[[Honour|onore]], l'autorità, siano discesi da un uomo buono a un altro uomo buono attraverso l'intervallo di uno cattivo? Edoardo I governò [[Well|bene]] l'Inghilterra. [[Edward III|Edoardo III]] coprì l'Inghilterra di gloria. Eppure la seconda gloria discese dalla prima gloria attraverso l'infamia e l'imbecillità di Edoardo II, che vezzeggiava Gaveston e fuggì davanti a Bruce. Credetemi, signor Granby, la [[Greatness|grandezza]] di una [[Great House|grande casata]] e della [[history|storia]] è qualcosa di più di questi individui accidentali che la portano avanti, per quanto non le rechino lustro. Di padre in figlio è discesa la nostra eredità, e di padre in figlio continuerà. Potete star certi, signori, e potete assicurare a mio figlio, che non lascerò il mio denaro a un [[Home|ricovero]] per gatti smarriti. Un Musgrave lo lascerà a un Musgrave finché non crollino i cieli.»
+
+«Sì», disse [[Father Brown]] pensieroso; «capisco cosa intende».
+
+«E saremo più che lieti», disse l'avvocato, «di recare una così felice rassicurazione a suo figlio».
+
+«Potete recargli la rassicurazione», disse il loro ospite con gravità. «È al sicuro, in ogni caso, nel possesso del [[Castle|castello]], del titolo, delle terre e del denaro. Non v'è che una piccola aggiunta, del tutto privata, a quell'accordo. In nessuna circostanza, di alcun genere, gli rivolgerò mai la parola finché avrò vita».
+
+L'avvocato mantenne il medesimo atteggiamento rispettoso, ma ora fissava rispettosamente l'ospite.
+
+«Ma... cosa mai può aver...»
+
+«Io sono un gentiluomo privato», disse Musgrave, «come [[Well|pure]] custode di una grande eredità. E mio figlio ha fatto qualcosa di così orribile da aver cessato di essere... non dirò un gentiluomo... ma persino un essere umano. È il peggior delitto del mondo. Ricorda cosa disse Douglas quando Marmion, suo ospite, si offrì di stringergli la mano?»
+
+«Sì», disse [[Father Brown]].
+
+«"I miei castelli sono del mio [[King|re]] [[Alone|soltanto]], dalla torretta alla pietra di fondazione"», disse Musgrave. «"La mano di Douglas appartiene a lui solo"».
+
+Si volse verso l'altra stanza e ricondusse là dentro i suoi visitatori piuttosto sconcertati.
+
+«[[Hope|Spero]] che prenderete qualche rinfresco», disse, con la stessa foggia pacata. «Se avete qualche [[Doubt|dubbio]] circa i vostri spostamenti, sarei lieto di offrirvi l'ospitalità del [[Castle|castello]] per la [[Night|notte]]».
+
+«Grazie, Sir John», disse il prete con voce spenta, «ma credo faremmo meglio ad andare».
+
+«Farò abbassare il ponte all'istante», disse il loro ospite; e in pochi istanti il cigolio di quell'enorme e assurdamente antiquato congegno riempì il [[Castle|castello]] come lo stridere di un mulino. Arrugginito com'era, tuttavia, funzionò con successo questa [[Time|volta]], ed essi si ritrovarono di nuovo in piedi sull'erbosa sponda oltre il fossato.
+
+Granby fu improvvisamente scosso da un brivido.
+
+«Che diavolo ha mai fatto suo figlio?» esclamò.
+
+[[Father Brown]] non rispose. Ma quando furono ripartiti con l'automobile e ebbero proseguito il loro [[Journey|viaggio]] verso un villaggio poco distante, chiamato Graystones, dove smontarono alla locanda delle Sette [[Stars|Stelle]], l'avvocato apprese con lieve stupore che il prete non si proponeva di viaggiare molto oltre; in altre parole, che aveva a quanto pareva ogni intenzione di rimanere nei paraggi.
+
+«Non riesco a decidermi a lasciare le cose così», disse con gravità. «Rimanderò indietro l'automobile, e lei, naturalmente, vorrà del tutto legittimamente andarsene con essa. La sua domanda ha avuto risposta: si tratta semplicemente di sapere se la sua ditta può permettersi di prestare denaro sulle prospettive del giovane Musgrave. Ma la mia domanda non ha avuto risposta: si tratta di sapere se egli è un marito adatto per Betty. Devo cercare di scoprire se ha davvero commesso qualcosa di terribile, oppure se è la fissazione di un vecchio pazzo».
+
+«Ma», obiettò l'avvocato, «se vuole scoprire qualcosa su di lui, perché non gli va dietro? Perché dovrebbe gironzolare in questo buco desolato dove egli non viene quasi mai?»
+
+«A che servirebbe andargli dietro?» chiese l'altro. «Non ha alcun senso avvicinare un giovanotto alla moda in Bond Street e dirgli: "Mi scusi, ma ha per caso commesso un delitto troppo orribile per un essere umano?" Se è tanto malvagio da compierlo, è certamente tanto malvagio da negarlo. E noi non sappiamo neppure di cosa si tratti. No, c'è un solo uomo che lo sa, e che potrebbe dirlo, in qualche ulteriore scoppio di dignitosa eccentricità. Per il momento intendo restargli vicino».
+
+E in [[Truth|verità]] [[Father Brown]] restò davvero vicino all'eccentrico baronetto, e lo incontrò effettivamente in più di un'occasione, con la massima cortesia da entrambe le parti. Poiché il baronetto, malgrado gli anni, era assai vigoroso e un gran camminatore, e lo si poteva spesso vedere arrancare per il villaggio e lungo i viottoli di campagna. Il giorno stesso dopo il loro arrivo, [[Father Brown]], uscendo dalla locanda sull'acciottolata piazza del mercato, vide l'oscura e distinta figura passare a grandi passi in direzione dell'ufficio postale. Era vestito con molta sobrietà di nero, ma il suo volto energico risultava ancor più imponente nella forte luce del sole; con i capelli argentei, le sopracciglia brune e il mento lungo, aveva qualcosa che ricordava Henry Irving, o qualche altro celebre attore. Malgrado la canizie, la sua figura, come [[Well|pure]] il suo volto, suggeriva forza, ed egli reggeva il bastone più come un randello che come una gruccia. Salutò il prete, e parlò con la stessa aria di venire senza timore al punto che aveva contraddistinto le sue rivelazioni del giorno prima.
+
+«Se è ancora interessato a mio figlio», disse, usando il termine con gelida indifferenza, «non lo vedrà granché. Ha appena lasciato il paese. Fra noi, potrei dire che è fuggito dal paese».
+
+«Davvero», disse [[Father Brown]] con uno sguardo [[Grave|grave]].
+
+«Certa gente di cui non ho mai sentito parlare, tali Grunov, mi ha assillato, proprio me, a proposito di dove si trovi», disse Sir John; «e sono appena venuto a spedire un telegramma per dir loro che, per quanto ne so, egli vive presso il Fermo Posta di Riga. Persino questo è stato una seccatura. Sono venuto ieri per farlo, ma ho trovato l'ufficio postale chiuso per cinque minuti di ritardo. Si ferma a lungo? [[Hope|Spero]] che mi farà un'altra visita».
+
+Quando il prete riferì all'avvocato il suo breve colloquio con il vecchio Musgrave nel villaggio, l'avvocato rimase insieme perplesso e incuriosito. «Perché il Capitano se l'è squagliata?» chiese. «Chi è l'altra gente che lo cerca? Chi diavolo sono i Grunov?»
+
+«Per la prima cosa, non lo so», rispose [[Father Brown]]. «Può darsi che il suo misterioso peccato sia venuto alla luce. Sarei piuttosto propenso a supporre che l'altra gente lo ricatti a tal proposito. Per la terza cosa, credo di saperlo. Quell'orribile donna grassa dai capelli gialli si chiama Madame Grunov, e quel piccolo uomo passa per suo marito».
+
+Il giorno dopo [[Father Brown]] rientrò piuttosto spossato, e gettò a terra il nero fardello del suo ombrello con l'aria di un [[Pilgrim|pellegrino]] che depone il bordone. Aveva un'aria alquanto avvilita. Ma era come tante volte accadeva nelle sue indagini criminali. Non era l'avvilimento del fallimento, bensì l'avvilimento del [[success|successo]].
+
+«È un colpo piuttosto duro» disse con voce spenta; «ma avrei dovuto indovinarlo. Avrei dovuto indovinarlo quando entrai la prima volta e vidi quella cosa lì ritta.»
+
+«Quando vedeste che cosa?» chiese Granby, spazientito.
+
+«Quando vidi che c'era una sola armatura» rispose [[Father Brown|Padre Brown]]. Seguì un [[Silence|silenzio]] durante il quale l'avvocato si limitò a fissare l'amico, e poi l'amico riprese.
+
+«Proprio l'altro giorno stavo per dire a mia nipote che ci sono due tipi di uomini capaci di ridere quando sono [[Alone|soli]]. Si potrebbe quasi dire che chi lo fa è o molto buono o molto cattivo. Vedete, o sta confidando la barzelletta a Dio, o la sta confidando al Diavolo. Ma in ogni caso ha una [[Inner Life|vita interiore]]. [[Well|Ebbene]], esiste davvero una specie d'uomo che confida la barzelletta al Diavolo. A costui non importa se nessuno coglie la battuta; se a nessuno si può nemmeno concedere, senza pericolo, di conoscerla. La battuta basta a se stessa, purché sia abbastanza sinistra e maligna.»
+
+«Ma di che cosa state parlando?» incalzò Granby. «Di chi state parlando? Di quale di loro, voglio dire? Chi è questa persona che si sta scambiando una barzelletta sinistra con Sua Maestà Satanica?»
+
+[[Father Brown|Padre Brown]] volse lo sguardo verso di lui con un sorriso spettrale.
+
+«Ah» disse, «questo è il bello della battuta.»
+
+Seguì un altro [[Silence|silenzio]], ma questa [[Time|volta]] il [[Silence|silenzio]] sembrava piuttosto denso e opprimente che semplicemente vuoto; pareva calare su di loro come il crepuscolo che a poco a poco trascolorava dall'imbrunire al buio. Padre Brown continuò a parlare con voce piana, seduto impassibile, con i gomiti sul tavolo.
+
+«Ho passato in rassegna la famiglia Musgrave» disse. «Sono un ceppo vigoroso e longevo, e anche nell'ordine naturale delle cose credo che dovreste aspettare parecchio [[Time|tempo]] per i vostri denari.»
+
+«A questo siamo del tutto preparati» rispose il legale; «ma comunque non può durare all'infinito. Il vecchio ha quasi ottant'anni, benché cammini ancora, e la gente della locanda qui ride e dice di non credere che morirà mai.»
+
+[[Father Brown|Padre Brown]] balzò in piedi con uno di quei suoi rari ma rapidi movimenti, ma rimase con le mani sul tavolo, chinato in avanti, guardando l'amico in faccia.
+
+«Ecco» esclamò con voce bassa ma concitata. «Questo è l'unico problema. Questa è l'unica vera difficoltà. Come farà a morire? Come diamine può morire?»
+
+«Che diamine intendete dire?» chiese Granby.
+
+«Intendo» giunse la voce del prete dalla stanza che si oscurava, «che conosco il delitto commesso da James Musgrave.»
+
+Il suo tono aveva in sé un tal gelo che Granby riuscì a stento a trattenere un brivido; mormorò un'altra domanda.
+
+«Fu davvero il peggior delitto del mondo» disse [[Father Brown|Padre Brown]]. «O almeno, molte comunità e civiltà l'hanno reputato tale. Fin dai tempi più remoti è sempre stato additato, nella tribù e nel villaggio, a una punizione tremenda. Ma comunque, ora so ciò che il giovane Musgrave fece davvero, e perché lo fece.»
+
+«E che cosa fece?» chiese l'avvocato.
+
+«Uccise suo padre» rispose il prete.
+
+L'avvocato a sua volta si [[Rose|alzò]] dal seggio e guardò dall'altra parte del tavolo con la fronte corrugata.
+
+«Ma suo padre è al [[Castle|castello]]» esclamò con tono tagliente.
+
+«Suo padre è nel fossato» disse il prete, «e sono stato uno [[Fool|sciocco]] a non capirlo fin dal principio, quando qualcosa in quell'armatura mi diede da pensare. Non ricordate l'aspetto di quella stanza? Con quanta cura era stata disposta e adornata? C'erano due asce da battaglia incrociate appese a un lato del [[Fire|caminetto]], due asce da battaglia incrociate all'altro. C'era uno scudo tondo scozzese su una parete, uno scudo tondo scozzese sull'altra. E c'era un'armatura ritta a guardia di un lato del focolare, e uno spazio vuoto sull'altro. Nulla mi persuaderà che un uomo, il quale aveva disposto tutto il resto di quella stanza con una simmetria tanto esagerata, abbia lasciato zoppa proprio quell'unica particolarità. C'era quasi certamente un altro uomo in armatura. E che ne è stato di lui?»
+
+Si fermò un istante, poi proseguì con tono più prosaico: «A pensarci bene, è un ottimo piano per un delitto, e risolve l'eterno problema di come disfarsi del [[Body|corpo]]. Il [[Body|corpo]] poteva starsene ritto dentro quell'armatura completa da torneo per ore, o perfino per giorni, mentre i servitori andavano e venivano, finché l'assassino non lo trascinava fuori nel cuore della [[Night|notte]] e lo calava nel fossato, senza nemmeno attraversare il ponte. E allora, che bella probabilità aveva dalla sua parte! Non appena il [[Body|corpo]] si fosse anche solo un poco decomposto in quell'[[Water|acqua]] stagnante, prima o poi non sarebbe rimasto altro che uno [[skeleton|scheletro]] in armatura trecentesca, cosa assai probabile a trovarsi nel fossato di un vecchio [[Castle|castello]] di confine. Era improbabile che qualcuno andasse a cercare qualcosa là, ma se anche l'avesse fatto, ben presto sarebbe stato tutto ciò che avrebbe trovato. E ne ho avuto qualche conferma. Fu quando diceste che stavo cercando una pianta rara; era una pianta in parecchi sensi, se mi perdonate lo scherzo. Vidi le impronte di due piedi affondate tanto profonde nell'argine compatto da esser certo che l'uomo o era molto pesante, o portava qualcosa di molto pesante. E inoltre, tra parentesi, c'è un'altra morale da trarre da quel piccolo incidente, quando eseguii il mio celebre balzo aggraziato e felino.»
+
+«Ho la testa che gira un po'» disse Granby, «ma comincio a farmi un'idea di che cosa parli tutto questo [[nightmare|incubo]]. Che c'entrate voi e il vostro balzo felino?»
+
+«All'ufficio postale, oggi» disse [[Father Brown|Padre Brown]], «ho casualmente confermato l'affermazione che il baronetto mi fece ieri, cioè che vi era stato subito dopo l'ora di [[Time|chiusura]] il giorno precedente: vale a dire non solo il giorno stesso del nostro arrivo, ma all'[[Time|ora]] precisa in cui arrivammo. Non vedete che cosa significa? Significa che in realtà era fuori quando ci presentammo, e rientrò mentre aspettavamo; ed ecco perché dovemmo aspettare tanto a lungo. E quando lo compresi, vidi d'un tratto un quadro che raccontava l'intera storia.»
+
+«[[Well|Ebbene]]» chiese l'altro, spazientito, «e con ciò?»
+
+«Un vecchio di ottant'anni può camminare», disse [[Father Brown]]. «Un
+vecchio può camminare persino parecchio, gironzolando per i viottoli di
+campagna. Ma un vecchio non può saltare. Sarebbe un saltatore ancor meno
+aggraziato di quanto lo fossi io. Eppure, se il baronetto fosse tornato
+mentre lo aspettavamo, sarebbe dovuto entrare come vi eravamo entrati noi
+— saltando il fossato — perché il ponte non fu abbassato che più tardi.
+Sospetto che lo avesse manomesso lui stesso per ritardare le visite
+sgradite, a giudicare dalla rapidità con cui fu riparato. Ma questo non
+importa. Quando vidi quel bizzarro quadretto della figura nera dai
+capelli grigi che spiccava un balzo attraverso il fossato, capii
+all'istante che si trattava di un giovane travestito da vecchio. Ed ecco
+tutta la storia.»
+
+«Volete dire», disse Granby lentamente, «che questo grazioso ragazzo ha
+ucciso il padre, ne ha nascosto il cadavere prima nell'armatura e poi nel
+fossato, si è camuffato e via dicendo?»
+
+«Guarda caso si somigliavano quasi esattamente», disse il prete. «Dai
+ritratti di famiglia potevate vedere quanto forte corresse la
+somiglianza. E poi parlate di travestimento. Ma in un certo senso l'abito
+di ognuno è un travestimento. Il vecchio si camuffava con una parrucca, e
+il giovane con una barba straniera. Quando si radeva e si calava la
+parrucca sulla testa rasata era identico al padre, con un po' di trucco.
+Naturalmente, ora capite perché fu tanto gentile nel farvi salire fin qui
+il giorno dopo in automobile. Era perché lui stesso saliva quella
+[[Night|notte]] in treno. Vi precedette, commise il suo delitto, assunse il
+travestimento e fu pronto per le trattative legali.»
+
+«Ah», disse Granby pensieroso, «le trattative legali! Volete dire,
+naturalmente, che il vero vecchio baronetto avrebbe trattato ben
+diversamente.»
+
+«Vi avrebbe detto chiaro e tondo che il Capitano non avrebbe visto un
+soldo», disse [[Father Brown]]. «La trama, per quanto suoni strana, era in
+realtà l'unico modo per impedirgli di dirvelo. Ma voglio che apprezziate
+l'astuzia di ciò che il tale invece vi disse. Il suo piano serviva
+diversi scopi in una volta sola. Era ricattato da quei Russi per qualche
+scelleratezza; sospetto per tradimento durante la guerra. Sfuggì loro in
+un colpo solo, e probabilmente li mandò a inseguirlo fino a Riga. Ma il
+più bel raffinamento di tutti fu quella teoria che enunciò circa il
+riconoscere il figlio come erede, ma non come essere umano. Non capite
+che, mentre assicurava il credito sull'eredità, forniva anche una specie
+di risposta a quella che ben presto sarebbe stata la più grande delle
+difficoltà?»
+
+«Vedo diverse difficoltà», disse Granby; «a quale vi riferite?»
+
+«Voglio dire che, se il figlio non era neppure diseredato, sarebbe parso
+piuttosto strano che padre e figlio non si incontrassero mai. La teoria
+di un ripudio privato rispondeva a questo. Restava dunque una sola
+difficoltà, come dico, che probabilmente ora sta rendendo perplesso il
+gentiluomo. Come diavolo farà a morire il vecchio?»
+
+«Io so come dovrebbe morire», disse Granby.
+
+[[Father Brown]] parve un po' frastornato, e proseguì in modo più
+assorto.
+
+«Eppure c'è in ciò qualcosa di più», disse. «C'era in quella teoria
+qualcosa che gli piaceva in un modo più — [[Well|be'']], più teorico. Gli dava
+un folle piacere intellettuale dirvi in una veste di aver commesso un
+delitto in un'altra veste — quando davvero l'aveva commesso. È questo che
+intendo per ironia infernale; per lo scherzo condiviso col Diavolo. Volete
+che vi dica una cosa che suona come ciò che chiamano un [[Paradox|paradosso]]? A
+volte è una gioia, nel cuore stesso dell'inferno, dire la [[Truth|verità]]. E
+soprattutto, dirla in modo che tutti la fraintendano. Ecco perché gli
+piaceva quella buffonata di fingersi qualcun altro, e poi dipingersi nero
+— com'era. Ed ecco perché mia nipote lo sentì ridere tra sé, tutto
+[[Alone|solo]], nella galleria dei ritratti.»
+
+Granby ebbe un lieve sussulto, come chi viene ricondotto di soprassalto
+alle cose comuni.
+
+«Vostra nipote», esclamò. «Sua madre non voleva che sposasse Musgrave?
+Una questione di ricchezza e di posizione, immagino.»
+
+«Sì», disse [[Father Brown]] seccamente; «sua madre era tutta a favore di
+un prudente [[Marriage|matrimonio]].»

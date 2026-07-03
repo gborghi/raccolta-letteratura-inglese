@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/secret-fr-brown-(chesterton)">secret Fr Brown</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/secret_fr_brown/story_03_the_song_song_of_the_flying_fish/part_02">‹ part 02</a><a class="ex-next" href="/testi/chesterton/atomized/secret_fr_brown/story_03_the_song_song_of_the_flying_fish/part_04">part 04 ›</a></div>
@@ -114,3 +116,34 @@ seemed as if a vast murmuring machinery under the world were really
 moving whole landscapes hither and thither, so that the ends of the
 earth might appear in a man's front-[[Garden|garden]], or his own front-[[Garden|garden]]
 be exiled beyond the sea.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/secret-fr-brown-(chesterton)">secret Fr Brown</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/secret_fr_brown/story_03_the_song_song_of_the_flying_fish/part_02">‹ part 02</a><a class="ex-next" href="/testi/chesterton/atomized/secret_fr_brown/story_03_the_song_song_of_the_flying_fish/part_04">part 04 ›</a></div>
+</nav>
+
+«Sì, questo forse lo capirei meglio», disse il giovane a bassa voce.
+
+Boyle aveva seguito la conversazione con curiosa attenzione, poiché nel contegno di più d'uno dei presenti c'era qualcosa che gli pareva significativo, o addirittura singolare. Quando il discorso scivolò sulla musica, con un appello all'azzimato direttore di banca (che era un dilettante di musica di un certo merito), il giovane segretario si riscosse di soprassalto ai suoi doveri di segreteria, e rammentò al suo datore di lavoro che il capo contabile se ne stava ancora lì paziente, con le carte in mano.
+
+«Oh, di quelle non c'è bisogno di occuparsi adesso, Jameson», disse Smart con una certa fretta. «È solo una faccenda del mio conto; ne parlerò più tardi con il signor [[smith|Smith]]. Diceva dunque del violoncello, signor [[smith|Smith]]...»
+
+Ma il gelido soffio degli affari era bastato a disperdere i fumi del discorso trascendentale, e gli ospiti cominciarono a congedarsi l'uno dopo l'altro. Solo il signor Imlack [[smith|Smith]], direttore di banca e musicista, rimase per ultimo; e quando gli altri se ne furono andati, lui e il padrone di casa passarono nella stanza interna, dove si custodivano i pesci d'oro, e ne chiusero la porta.
+
+La [[house|casa]] era lunga e stretta, con un balcone coperto che correva lungo il primo piano, il quale consisteva per lo più in una sorta di appartamento riservato al padrone stesso: la sua camera da letto, lo spogliatoio, e una stanza interna in cui i suoi tesori di grandissimo valore venivano talora riposti per la [[Night|notte]], anziché lasciati nelle stanze del piano di sotto. Questo balcone, come la porta insufficientemente sbarrata al di sotto, era motivo di preoccupazione per la governante, per il capo contabile e per gli altri che deploravano la sbadataggine del collezionista; ma, in [[Truth|verità]], quel vecchio e astuto gentiluomo era più prudente di quanto sembrasse. Non professava gran fiducia nelle antiquate serrature della vecchia [[house|casa]], che la governante si doleva di veder arrugginire nell'ozio, ma teneva d'occhio il punto più importante, quello strategico. Metteva sempre i suoi pesci d'oro prediletti nella stanza dietro la sua camera da letto per la [[Night|notte]], e vi dormiva davanti, per così dire, con una [[Pistol|pistola]] sotto il cuscino. E quando Boyle e Jameson, in attesa che tornasse dal tête-à-tête, videro alfine la porta aprirsi e ricomparire il loro datore di lavoro, questi recava la grande boccia di vetro con la stessa riverenza con cui si porterebbe la reliquia di un santo.
+
+Fuori, gli ultimi lembi del tramonto ancora indugiavano agli angoli della verde piazza; ma dentro era già stata accesa una lampada; e nel mescolarsi delle due luci il globo colorato splendeva come un mostruoso [[Jewel|gioiello]], e i profili fantastici dei pesci di fuoco parevano davvero conferirgli qualcosa del mistero di un talismano, come strane forme intraviste da un veggente nel cristallo del destino. Sopra la spalla del vecchio, il volto olivastro di Imlack [[smith|Smith]] fissava come una sfinge.
+
+«Questa [[Night|notte]] parto per [[London|Londra]], signor Boyle», disse il vecchio Smart, con più gravità di quanta ne mostrasse di solito. «Il signor [[smith|Smith]] ed io prendiamo il treno delle sei e quarantacinque. Preferirei, Jameson, che questa [[Night|notte]] lei [[Sleep|dormisse]] di sopra, nella mia camera; se mette la boccia nella stanza sul retro come al solito, sarà del tutto al sicuro. Non che io creda possa succedere alcunché.»
+
+«Dovunque può succedere di tutto», disse il signor [[smith|Smith]] con un sorriso. «Lei di solito si porta a letto un'arma, mi pare. Forse, in questo caso, farebbe meglio a lasciarla a casa.»
+
+Peregrine Smart non rispose, e uscirono dalla [[house|casa]] sulla [[Road|strada]] che girava attorno al verde della piazza.
+
+Quella [[Night|notte]] il segretario e il capo contabile dormirono, secondo le istruzioni, nella camera del loro datore di lavoro. A voler essere più precisi, Jameson, il capo contabile, dormì in un letto nello spogliatoio, ma la porta di comunicazione restava aperta, e le due stanze che si allungavano sulla facciata erano praticamente una sola. Solo la camera da letto aveva una lunga [[Window|portafinestra]] che dava sul balcone, e un ingresso sul retro verso l'appartamento interno dove per sicurezza era stata posta la boccia dei pesci d'oro. Boyle trascinò il proprio letto di traverso, così da sbarrare quell'ingresso, mise la rivoltella sotto il cuscino, poi si svestì e si coricò, con la sensazione di aver preso ogni precauzione possibile contro un evento impossibile o improbabile. Non vedeva perché dovesse esserci un particolare pericolo di un normale furto con scasso; e quanto al furto spirituale che figurava nei racconti da viaggiatore del conte de Lara, se i suoi pensieri vi correvano ora, così vicino al [[Sleep|sonno]], era perché erano fatti della stessa materia di cui son fatti i [[Dreams|sogni]]. Presto si mutarono davvero in [[Dreams|sogni]], con intervalli di sopore senza sogni. Il vecchio contabile fu un po' più irrequieto del solito; ma dopo essersi agitato ancora un poco e aver ripetuto qualcuno dei suoi rimpianti e ammonimenti prediletti, anch'egli si ritirò nel suo letto allo stesso modo e prese sonno. La [[Moon|luna]] si fece più chiara e poi di nuovo si offuscò sopra la verde piazza e i grigi blocchi delle case, in una [[Solitude|solitudine]] e in un [[Silence|silenzio]] che parevano privi di ogni testimone umano; e fu quando le bianche fenditure dell'alba erano già apparse agli angoli del cielo grigio che la cosa accadde.
+
+Boyle, essendo giovane, era naturalmente il più sano e il più pesante dormitore dei due. Per quanto abbastanza vivace una volta sveglio, aveva sempre un fardello da sollevare nel destarsi. Per di più, aveva [[Dreams|sogni]] di quel genere che si aggrappano alle menti che riemergono come i tentacoli confusi di una piovra. Erano un guazzabuglio di molte cose, compreso l'ultimo sguardo gettato dal balcone attraverso le quattro strade grigie e la verde piazza. Ma il loro disegno mutava e si spostava e girava vertiginosamente, accompagnato da un basso stridore, che risuonava in qualche modo come un [[River|fiume]] sotterraneo, e forse non era altro che il vecchio signor Jameson che russava nello spogliatoio. Ma nella mente del sognatore tutto quel mormorio e quel movimento era vagamente collegato alle parole del conte de Lara, su una sapienza capace di reggere le leve del [[Time|tempo]] e dello spazio e di far girare il mondo. Nel sogno pareva che un vasto e mormorante macchinario sotto la terra stesse davvero spostando interi paesaggi di qua e di là, sicché i confini del mondo potevano comparire nel [[Garden|giardino]] davanti alla casa di un uomo, o il suo stesso [[Garden|giardino]] essere esiliato oltre il mare.

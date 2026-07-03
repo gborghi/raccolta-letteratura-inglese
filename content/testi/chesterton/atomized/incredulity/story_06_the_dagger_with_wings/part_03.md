@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/incredulity-(chesterton)">Incredulity</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/incredulity/story_06_the_dagger_with_wings/part_02">‹ part 02</a><a class="ex-next" href="/testi/chesterton/atomized/incredulity/story_06_the_dagger_with_wings/part_04">part 04 ›</a></div>
@@ -146,3 +148,60 @@ being common, as from an [[Artist|artist]]'s [[Sketch|sketch]]--book; and on it 
 boldly in red ink a dagger decorated with wings like the rod of Hermes,
 with the written words, `Death comes the day after this, as it came
 to your brothers.'
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/incredulity-(chesterton)">Incredulity</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/incredulity/story_06_the_dagger_with_wings/part_02">‹ part 02</a><a class="ex-next" href="/testi/chesterton/atomized/incredulity/story_06_the_dagger_with_wings/part_04">part 04 ›</a></div>
+</nav>
+
+«Sono il signor Aylmer» disse «ma ho perso l'abitudine di aspettarmi visite.»
+
+Qualcosa nell'occhio inquieto del signor Aylmer indusse il prete ad andare dritto al punto. Se la persecuzione di quell'uomo non era che una monomania, egli sarebbe stato tanto meno propenso a risentirsene.
+
+«Mi domandavo» disse dolcemente Padre Brown «se sia proprio vero che lei non aspetta mai visite.»
+
+«Ha ragione» rispose l'ospite con fermezza. «Aspetto sempre un visitatore. E potrebbe essere l'ultimo.»
+
+«Spero di no» disse Padre Brown «ma almeno mi conforta dedurre che io non gli assomiglio granché.»
+
+Il signor Aylmer si scosse con una specie di risata feroce. «Di certo no» disse.
+
+«Signor Aylmer» disse [[Father Brown|Padre Brown]] con franchezza «mi scuso per la libertà che mi prendo, ma alcuni miei amici mi hanno parlato dei suoi guai e mi hanno pregato di vedere se potevo fare qualcosa per lei. La verità è che ho una certa piccola esperienza in faccende come questa.»
+
+«Non ci sono faccende come questa» disse Aylmer.
+
+«Vuol dire» osservò Padre Brown «che le tragedie della sua sventurata famiglia non furono morti normali?»
+
+«Voglio dire che non furono nemmeno omicidi normali» rispose l'altro. «L'uomo che sta braccando tutti noi verso la [[Death|morte]] è un mastino infernale, e la sua potenza viene dall'inferno.»
+
+«Ogni male ha un'unica origine» disse gravemente il prete. «Ma come sa che non furono omicidi normali?»
+
+Aylmer rispose con un gesto che offriva all'ospite una sedia; poi si sedette lentamente su un'altra, aggrottando le sopracciglia, con le mani sulle ginocchia; ma quando alzò lo sguardo la sua espressione si era fatta più mite e più pensosa, e la sua voce era del tutto cordiale e pacata.
+
+«Signore» disse «non voglio che lei mi immagini per nulla una persona irragionevole. Sono giunto a queste conclusioni con la ragione, perché purtroppo la ragione conduce davvero là. Ho letto moltissimo su questi argomenti; poiché fui l'unico a ereditare l'erudizione di mio padre in materie alquanto oscure, e da allora ne ho ereditato anche la biblioteca. Ma ciò che le dico non poggia su quel che ho letto, bensì su quel che ho visto.»
+
+[[Father Brown|Padre Brown]] annuì, e l'altro proseguì, come scegliendo con cura le parole: «Nel caso del mio fratello maggiore, dapprima non ero certo. Non c'erano tracce né impronte là dove lo trovarono ucciso da un colpo d'arma da fuoco, e la pistola era rimasta accanto a lui. Ma aveva appena ricevuto una lettera minatoria, certamente del nostro nemico, poiché recava un segno simile a un pugnale alato, che era uno dei suoi infernali trucchi cabalistici. E una serva disse di aver visto qualcosa muoversi lungo il muro del giardino nel crepuscolo, qualcosa di troppo grande per essere un gatto. Su questo mi fermo; tutto ciò che posso dire è che, se l'assassino venne, riuscì a non lasciare traccia del suo venire. Ma quando morì mio fratello Stephen fu diverso; e da allora ho saputo. Una macchina lavorava su un'impalcatura aperta sotto la torre della fabbrica; io salii sulla piattaforma un attimo dopo che egli era caduto sotto il maglio di ferro che lo colpì; non vidi nient'altro colpirlo, ma vidi ciò che vidi.
+
+«Una gran ventata di fumo di fabbrica stava [[rolling|rotolando]] tra me e la torre; ma attraverso uno squarcio di esso vidi, in cima ad essa, una scura figura umana avvolta in quello che pareva un mantello nero. Poi il fumo sulfureo tornò a spingersi fra noi; e quando si diradò alzai lo sguardo verso il lontano comignolo: non c'era nessuno. Sono un uomo razionale, e domanderò a tutti gli uomini razionali come avesse raggiunto quel torrione vertiginoso e inavvicinabile, e come lo avesse lasciato.»
+
+Fissava il prete con una sfida da sfinge; poi, dopo un [[Silence|silenzio]], disse bruscamente: «A mio fratello sfondarono il cranio, ma il corpo non subì gran danno. E nella sua tasca trovammo uno di quei messaggi d'avvertimento, datato del giorno prima e recante il timbro del pugnale volante.
+
+«Sono certo» proseguì con gravità «che il simbolo del pugnale alato non sia semplicemente arbitrario o casuale. Nulla, in quell'uomo abominevole, è casuale. Egli è tutto disegno; anche se è invero un disegno oscurissimo e intricato. La sua mente è intessuta non solo di elaborati stratagemmi, ma di ogni sorta di linguaggi e segni segreti, di muti segnali e figure senza parole che sono i nomi di cose senza nome. Egli è la peggior specie d'uomo che il mondo conosca: è il mistico malvagio. Ora, io non pretendo di penetrare tutto ciò che questo simbolo racchiude; ma pare certo che debba avere una relazione con tutto ciò che vi fu di più notevole, o persino d'incredibile, nei suoi movimenti mentre aleggiava attorno alla mia sventurata famiglia. Non c'è forse un legame fra l'idea di un'arma alata e il mistero per cui Philip fu colpito a morte sul proprio prato senza che il più lieve tocco d'impronta avesse turbato la polvere o l'erba? Non c'è forse un legame fra il pugnale piumato che vola come una freccia impennata e quella figura appesa in cima al vacillante comignolo, ammantata di un mantello a mo' di penne?»
+
+«Lei vuol dire» disse [[Father Brown|Padre Brown]] pensosamente «che egli si trova in un perpetuo stato di levitazione.»
+
+«Simon Mago lo fece» rispose Aylmer «e una delle predizioni più comuni dei Secoli Bui era che l'Anticristo avrebbe saputo volare. Comunque sia, sul documento c'era il pugnale volante; e, potesse volare o no, di certo poteva colpire.»
+
+«Ha notato di che tipo di carta si trattasse?» chiese [[Father Brown|Padre Brown]]. «Carta comune?»
+
+Il volto da [[The Sphinx|sfinge]] proruppe d'improvviso in una risata aspra.
+
+«Può vedere lei stesso come sono fatti» disse Aylmer cupamente «perché stamattina ne ho ricevuto uno anch'io.»
+
+Ora si era abbandonato all'indietro sulla sedia, con le lunghe gambe protese fuori dalla veste da camera verde, che gli stava un po' corta, e il mento barbuto affondato nel petto. Senza muoversi altrimenti, cacciò la mano in fondo alla tasca della veste da camera e porse, all'estremità di un braccio rigido, un frammento di carta che tremolava. Tutto il suo atteggiamento suggeriva una sorta di paralisi, che era insieme rigidità e collasso. Ma l'osservazione successiva del prete ebbe il curioso effetto di ridestarlo.
+
+[[Father Brown|Padre Brown]] sbatteva le palpebre, alla sua maniera di miope, davanti alla carta che gli veniva porta. Era una carta di tipo singolare, ruvida senza essere comune, come tratta dall'album di [[Sketch|schizzi]] di un [[Artist|artista]]; e su di essa era disegnato arditamente, in inchiostro rosso, un pugnale ornato di ali come la verga di Ermes, con queste parole scritte: «La morte viene il giorno dopo questo, come venne ai tuoi fratelli.»

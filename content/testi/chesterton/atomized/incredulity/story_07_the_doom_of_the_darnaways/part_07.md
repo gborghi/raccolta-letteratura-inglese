@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/incredulity-(chesterton)">Incredulity</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/incredulity/story_07_the_doom_of_the_darnaways/part_06">‹ part 06</a><a class="ex-next" href="/testi/chesterton/atomized/incredulity/story_07_the_doom_of_the_darnaways/part_08">part 08 ›</a></div>
@@ -142,3 +144,58 @@ But this man who died was not the victim of a magic curse or an
 inherited madness.  He was murdered; and for us that murder is simply
 an accident; yes, requiescat in pace:  but a happy accident.
 It is a ray of daylight, because it comes from outside.'
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/incredulity-(chesterton)">Incredulity</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/incredulity/story_07_the_doom_of_the_darnaways/part_06">‹ part 06</a><a class="ex-next" href="/testi/chesterton/atomized/incredulity/story_07_the_doom_of_the_darnaways/part_08">part 08 ›</a></div>
+</nav>
+
+«Temo che ormai tutti crederanno per sempre alla superstizione dei Darnaway» disse Martin Wood.
+
+«Io conosco qualcuno che non ci crederà» ribatté il dottore in tono aspro. «Perché mai dovrei indulgere alla superstizione solo perché qualcun altro indulge al suicidio?»
+
+«Pensa che il povero signor Darnaway abbia commesso un [[suicide|suicidio]]?» chiese il prete.
+
+«Sono certo che si sia suicidato» rispose il dottore.
+
+«È possibile» convenne l'altro.
+
+«Era completamente solo lassù, e nella camera oscura aveva un intero arsenale di veleni. E poi, è proprio il genere di cose che fanno i Darnaway.»
+
+«Non crede che ci sia qualcosa nel compimento della maledizione di famiglia?»
+
+«Sì» disse il dottore; «credo in una sola maledizione di famiglia, ed è la costituzione della famiglia. Gliel'ho detto, è questione di eredità, e sono tutti mezzo matti. Se ristagni, ti riproduci in consanguineità e rimugini nella tua palude come loro, sei destinato a degenerare, che ti piaccia o no. Le leggi dell'eredità non si possono aggirare; le verità della scienza non si possono negare. Le menti dei Darnaway vanno in pezzi, come vanno in pezzi le loro vecchie pietre e travi corrotte, corrose dal mare e dall'aria salmastra. [[suicide|Suicidio]] — ovviamente ha commesso [[suicide|suicidio]]; oserei dire che tutti gli altri commetteranno il [[suicide|suicidio]]. Forse la cosa migliore che potrebbero fare.»
+
+Mentre l'uomo di scienza parlava, balzò all'improvviso e con sorprendente nitidezza nella [[Memory|memoria]] di Payne il volto della figlia dei Darnaway, tragica maschera pallida contro un buio insondabile, eppure di una [[Beauty|bellezza]] abbagliante e più che mortale. Aprì la bocca per parlare e si scoprì senza parole.
+
+«Capisco» disse padre Brown al dottore; «dunque, in fondo, alla superstizione ci crede davvero?»
+
+«Che intende dire... credere alla superstizione? Io credo al suicidio come necessità scientifica.»
+
+«[[Well|Ebbene]]» ribatté il prete, «non vedo un briciolo di differenza tra la sua superstizione scientifica e l'altra, quella magica. Entrambe sembrano finire col ridurre gli uomini a paralitici, incapaci di muovere le proprie gambe o le proprie braccia, di salvare la propria vita o la propria anima. La filastrocca diceva che la Maledizione dei Darnaway era di essere uccisi, e il manuale scientifico dice che la Maledizione dei Darnaway è di uccidersi. In entrambi i casi sembrano schiavi.»
+
+«Ma credevo avesse detto di credere in una visione razionale di queste cose» disse il dottor Barnet. «Non crede nell'eredità?»
+
+«Ho detto che credo nella luce del giorno» replicò il prete con voce alta e chiara, «e mi rifiuto di scegliere tra due gallerie di superstizione sotterranea che finiscono entrambe nel buio. E la prova è questa: che siete tutti completamente all'oscuro di ciò che è realmente accaduto in quella casa.»
+
+«Intende a proposito del [[suicide|suicidio]]?» chiese Payne.
+
+«Intendo a proposito dell'assassinio» disse padre Brown; e la sua voce, benché appena sollevata a una nota più alta, parve in qualche modo risuonare per tutta la spiaggia. «Fu un assassinio; ma l'assassinio appartiene alla volontà, che Dio ha creato libera.»
+
+Che cosa rispose l'altro in quel momento, Payne non lo seppe mai. Poiché la parola ebbe su di lui un effetto piuttosto curioso: lo scosse come lo squillo di una tromba, e insieme lo inchiodò sul posto. Rimase immobile in mezzo alla distesa di sabbia e lasciò che gli altri proseguissero davanti a lui; sentì il sangue strisciargli per tutte le vene e quella sensazione che si dice faccia rizzare i capelli sul capo; eppure provò una felicità nuova e innaturale. Un processo psicologico troppo rapido e troppo complicato perché lui stesso potesse seguirlo era già giunto a una conclusione che non sapeva analizzare; ma la conclusione era di sollievo. Dopo essere rimasto immobile un istante, si voltò e tornò lentamente attraverso la sabbia verso la casa dei Darnaway.
+
+Attraversò il fossato con un passo che fece tremare il ponte, discese le scale e percorse le lunghe sale con un'andatura fragorosa, finché non giunse al luogo in cui Adelaide Darnaway sedeva aureolata dalla luce fioca della finestra ovale, quasi come una santa dimenticata, lasciata indietro nella terra della morte. Ella alzò lo sguardo, e un'espressione di stupore rese il suo volto ancora più meraviglioso.
+
+«Che cosa c'è?» disse. «Perché siete tornato?»
+
+«Sono venuto per la Bella Addormentata» disse, con un tono che aveva la risonanza di una risata. «Questa vecchia casa si è addormentata molto tempo fa, come ha detto il dottore; ma è sciocco che voi fingiate di essere vecchia. Salite alla luce del giorno e ascoltate la verità. Vi ho portato una parola; è una parola terribile, ma spezza l'incantesimo della vostra prigionia.»
+
+Ella non capì una sola parola di ciò che diceva, ma qualcosa la spinse ad alzarsi e a lasciarsi condurre giù per il lungo salone, su per le scale e fuori, sotto il cielo della sera. Le rovine di un giardino morto si stendevano verso il mare, e una vecchia fontana con la figura di un tritone, verde di ruggine, restava là sospesa, senza versare nulla da un corno inaridito in una vasca vuota. Passando, aveva visto spesso quel profilo desolato contro il cielo della sera, ed esso gli era parso l'emblema di fortune cadute in più di un senso. Di lì a poco, senza dubbio, quelle conche vuote si sarebbero riempite, ma delle pallide, verdi, amare acque del mare, e i fiori sarebbero annegati e strangolati tra le alghe. Così, si era detto, la figlia dei Darnaway avrebbe forse potuto andare sposa; ma sarebbe andata sposa alla morte e a una condanna sorda e spietata come il mare. Ma ora egli posò una mano sul tritone di bronzo, una mano che pareva quella di un gigante, e lo scosse come se volesse rovesciarlo al pari di un idolo o di un dio malvagio del giardino.
+
+«Che cosa intendete?» chiese lei con fermezza. «Qual è questa parola che ci renderà liberi?»
+
+«La parola è assassinio» disse, «e la libertà che porta è fresca come i fiori di primavera. No; non intendo dire di aver ucciso qualcuno. Ma il fatto stesso che qualcuno possa essere assassinato è di per sé una buona notizia, dopo i sogni malvagi in cui avete vissuto. Non capite? In quel vostro sogno tutto ciò che vi accadeva veniva dal di dentro di voi; la Maledizione dei Darnaway era racchiusa nei Darnaway; si dischiudeva come un fiore orribile. Non c'era scampo nemmeno per un caso fortunato; era tutto inevitabile; fosse Vine con le sue storie da vecchie comari, o Barnet con la sua eredità dell'ultima moda. Ma quest'uomo che è morto non fu vittima di una maledizione magica né di una follia ereditaria. Fu assassinato; e per noi quell'assassinio è semplicemente un caso; sì, requiescat in pace: ma un caso fortunato. È un raggio di luce del giorno, perché viene da fuori.»

@@ -16,15 +16,15 @@ tags:
 </nav>
 
 
-The unghosted writer is thus not only uninspired, but also uncritical. The notion that self-criticism is necessarily a clog upon inspiration is quite erroneous, and is honoured only in the mind of the fifth-rate poetaster. Creative criticism is the Spirit's continual response to its own creation; the purely destructive and inhibiting kind of criticism being, like all destructive forces, merely the diabolic antitype of its divine archetype.
+The unghosted writer is thus not only uninspired, but also uncritical. The notion that [[Self|self]]-criticism is necessarily a clog upon inspiration is quite erroneous, and is honoured only in the mind of the fifth-rate poetaster. Creative criticism is the Spirit's continual response to its own creation; the purely destructive and inhibiting kind of criticism being, like all destructive forces, merely the diabolic antitype of its divine archetype.
 
-It is the deadness of the unghosted that hangs like a millstone upon the eloquence of pedestrian politicians and of conscientious parsons who have no gift for preaching. Words which should be living fall from their lips like stones, lacking the spirit of wisdom, which is the life. It is as though the speaker could not hear what he was saying-still less, hear himself with the ears of his listeners. The spirit is poured out neither in heaven nor in earth. In the theatre of creation, the father sits aloof, insulated from contact; the son, like an automaton, exhibits a meaningless pattern of word and gesture; the stalls are empty, and the dust-covers pulled over them.
+It is the deadness of the unghosted that hangs like a millstone upon the eloquence of pedestrian politicians and of conscientious parsons who have no gift for preaching. Words which should be living fall from their lips like stones, lacking the spirit of wisdom, which is the life. It is as though the speaker could not hear what he was saying-still less, hear himself with the ears of his listeners. The spirit is poured out neither in heaven nor in earth. In the theatre of creation, the father sits aloof, insulated from contact; the son, like an automaton, exhibits a meaningless pattern of word and gesture; the stalls are empty, and the [[Dust|dust]]-covers pulled over them.
 
 What do you read, my lord?-Words, words, words.
 
-A distressing trait of the unghosted is their complacency; they walk and talk, and do not know that they are dead. Neither, of course, are they alive to the deadness of their own creation. How should they be? Only the living can draw any distinction between death and life. Hence the lifeless sermons, the inanimate speeches, cumbered with the carcases of worn-out metaphor and flowers of rhetoric trampled to death; hence the movement into urgent battle of the embalmed mummies of sentiment, horsed like the dead Cid, and rigid in their grave-bands beneath the imposing panoply. Hence (more amusingly) those humourless juxtapositions of dead and living imagery which-to the astonished chagrin of the perpetrator-are hailed as mixed metaphor by the joyous and ribald ear of the live reader:
+A distressing trait of the unghosted is their complacency; they walk and talk, and do not know that they are dead. Neither, of course, are they alive to the deadness of their own creation. How should they be? Only the living can draw any distinction between [[Death|death]] and life. Hence the lifeless sermons, the inanimate speeches, cumbered with the carcases of worn-out metaphor and [[Flowers|flowers]] of rhetoric trampled to [[Death|death]]; hence the movement into urgent battle of the embalmed mummies of sentiment, horsed like the dead Cid, and rigid in their [[Grave|grave]]-bands beneath the imposing panoply. Hence (more amusingly) those humourless juxtapositions of dead and living imagery which-to the astonished chagrin of the perpetrator-are hailed as mixed metaphor by the joyous and ribald ear of the live reader:
 
-No doubt he has a hawk-like desire for action, without bridle and without saddle, across the Atlantic; [ ](20140909_split_028.html#fn_69)
+No [[Doubt|doubt]] he has a hawk-like [[Desire|desire]] for action, without bridle and without saddle, across the Atlantic; [ ](20140909_split_028.html#fn_69)
 
 the unfortunate verbal associations:
 
@@ -40,7 +40,7 @@ Th' amazing work that HARRIS hath begun; [ ](20140909_split_028.html#fn_71)
 
 hence also pomposity, pedestrianism, anti-climax, and those ill-timed "lines" in stage-plays which provoke laughter in the wrong place.
 
-All this, indeed, comes back to that which is the very essence of the ghost's *persona* : the power to know good from evil. [ ](20140909_split_028.html#fn_72) It is the failure of this power which cuts off inspiration by cutting off contact with the father, who *is* the positive goodness in creation, and which destroys critical judgment by destroying the disjunction between negative and positive, between chaos and creation.
+All this, indeed, comes back to that which is the very essence of the [[Ghost|ghost]]'s *persona* : the power to know good from evil. [ ](20140909_split_028.html#fn_72) It is the failure of this power which cuts off inspiration by cutting off contact with the father, who *is* the positive goodness in creation, and which destroys critical judgment by destroying the disjunction between negative and positive, between chaos and creation.
 
 
 <span class="qlang-split" data-lang="it"></span>

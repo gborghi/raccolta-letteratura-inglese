@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/incredulity-(chesterton)">Incredulity</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/incredulity/story_07_the_doom_of_the_darnaways/part_02">‹ part 02</a><a class="ex-next" href="/testi/chesterton/atomized/incredulity/story_07_the_doom_of_the_darnaways/part_04">part 04 ›</a></div>
@@ -151,3 +153,58 @@ He had approached the family mansion in so blindly buoyant a spirit
 as to have set up his camera to photograph his first sight of it;
 and even the camera had taken on the semblance of the tripod
 of a tragic pythoness.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/incredulity-(chesterton)">Incredulity</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/incredulity/story_07_the_doom_of_the_darnaways/part_02">‹ part 02</a><a class="ex-next" href="/testi/chesterton/atomized/incredulity/story_07_the_doom_of_the_darnaways/part_04">part 04 ›</a></div>
+</nav>
+
+«Io credo nel diavolo, grazie tante» disse il prete con volto imperscrutabile. «E, cosa abbastanza curiosa, esisteva una leggenda secondo cui il diavolo era zoppo.»
+
+«Insomma» protestò Payne «non vorrete mica dire sul serio che era il diavolo; ma chi diavolo era, allora?»
+
+«Fu il lord Darnaway sotto Enrico VII ed [[Henry VIII|Enrico VIII]]» rispose il compagno. «Ma anche su di lui corrono leggende curiose; una è richiamata da quell'iscrizione che gira attorno alla cornice, e ulteriormente sviluppata in certe annotazioni lasciate da qualcuno in un libro che ho trovato qui. Sono entrambe letture piuttosto singolari.»
+
+Payne si sporse in avanti, allungando il collo per seguire l'arcaica iscrizione che correva attorno alla cornice. Tralasciando i caratteri e l'ortografia antiquati, pareva una sorta di filastrocca in rima che suonava all'incirca così:
+
+Nel settimo erede farò ritorno: nella settima ora me ne andrò via: nessuno in quell'ora mi terrà la mano: e guai a colei che mi tiene il cuore.
+
+«In qualche modo mette i brividi» disse Payne «ma sarà anche perché non ne capisco una parola.»
+
+«Mette i brividi anche quando la si capisce» disse Wood a voce bassa. «Il resoconto redatto in epoca posteriore, nel vecchio libro che ho trovato, racconta per filo e per segno come questo bell'uomo si tolse deliberatamente la vita in modo tale che sua moglie fu giustiziata per il suo omicidio. Un'altra annotazione commemora una tragedia successiva, sette successioni più tardi — sotto i Giorgi — in cui un altro Darnaway si suicidò, non prima di aver premurosamente lasciato del veleno nel vino della moglie. Si dice che entrambi i suicidi avvennero alle sette di sera. Suppongo se ne debba dedurre che egli ritorni davvero a ogni settimo erede e renda la vita spiacevole, come suggerisce la filastrocca, a qualsiasi dama tanto imprudente da sposarlo.»
+
+«A rigor di questo ragionamento» replicò Payne «sarebbe un tantino scomodo per il prossimo settimo gentiluomo.»
+
+La voce di Wood si fece ancora più bassa mentre diceva: «Il nuovo erede sarà il settimo.»
+
+Harry Payne d'un tratto sollevò l'ampio petto e le spalle come chi si scrolla di dosso un fardello.
+
+«Ma che discorsi assurdi stiamo facendo?» esclamò. «Siamo tutti uomini istruiti in un'epoca illuminata, mi pare. Prima di entrare in questa maledetta atmosfera umida non avrei mai creduto che mi sarei ritrovato a parlare di simili cose, se non per riderne.»
+
+«Avete ragione» disse Wood. «Se viveste abbastanza a lungo in questo palazzo sotterraneo, comincereste a sentire le cose in modo diverso. Io ho cominciato a nutrire sensazioni assai singolari riguardo a quel quadro, avendo avuto tanto a che fare col maneggiarlo e appenderlo. A volte mi pare che il volto dipinto sia più vivo dei volti spenti di coloro che abitano qui; che sia una sorta di talismano o di calamita: che comandi gli elementi e attiri a sé i destini degli uomini e delle cose. Suppongo che lo definireste un'idea molto fantasiosa.»
+
+«Che cos'è quel rumore?» esclamò Payne all'improvviso.
+
+Tesero tutti l'orecchio, e non parve esserci alcun rumore se non il sordo rombo del mare lontano; poi cominciarono ad avvertire il senso di qualcosa che vi si mescolava; qualcosa come una voce che chiamava attraverso il frastuono della risacca, dapprima da esso attutita, ma che si faceva sempre più vicina. Un istante dopo ne furono certi: qualcuno gridava fuori, nell'oscurità del crepuscolo.
+
+Payne si volse verso la bassa finestra alle sue spalle e si chinò a guardar fuori. Era la finestra dalla quale nulla si poteva scorgere se non il fossato, con il suo riflesso di riva e di cielo. Ma quella visione capovolta non era la medesima che aveva veduto prima. Dall'ombra sospesa della riva, nell'acqua, pendevano due ombre scure riflesse dai piedi e dalle gambe di una figura che stava ritta là sopra, sulla riva. Attraverso quella feritoia angusta non potevano vedere altro che le due gambe nere contro il riflesso di un tramonto pallido e livido. Ma in qualche modo proprio il fatto che il capo fosse invisibile, come tra le nubi, conferiva qualcosa di terribile al suono che seguì: la voce di un uomo che gridava a gran voce ciò che essi non riuscivano a udire né a comprendere come si deve. Payne in particolare scrutava fuori dalla piccola finestra con volto mutato, e parlò con voce mutata:
+
+«Come sta ritto in modo strano!»
+
+«No, no» disse Wood, in una sorta di sussurro rassicurante. «Le cose spesso appaiono così nei riflessi. È l'ondeggiare dell'acqua che ve lo fa pensare.»
+
+«Pensare cosa?» chiese il prete secco.
+
+«Che la sua gamba sinistra sia storta» disse Wood.
+
+Payne aveva immaginato la finestra ovale come una sorta di specchio mistico; e gli parve che vi fossero, dentro, altre imperscrutabili immagini di sventura. C'era qualcos'altro, accanto alla figura, che egli non comprendeva; tre gambe più sottili che si stagliavano in linee scure contro la luce, come se un mostruoso ragno o uccello a tre zampe stesse in piedi accanto allo straniero. Poi ebbe il pensiero meno folle di un tripode come quello degli oracoli pagani; e l'istante dopo la cosa era svanita e le gambe della figura umana uscivano dal quadro.
+
+Si voltò e incontrò il volto pallido del vecchio Vine, il maggiordomo, con la bocca aperta, smanioso di parlare, e il suo unico dente in mostra. «È arrivato» disse. «Il piroscafo dall'Australia è giunto stamane.»
+
+Mentre ancora tornavano indietro dalla biblioteca al salone centrale, udirono i passi del nuovo venuto risuonare per la scalinata d'ingresso, con svariati bagagli leggeri trascinati dietro di sé. Quando Payne ne vide uno, rise in una reazione di sollievo. Il suo tripode non era altro che le gambe telescopiche di una macchina fotografica portatile, facile da imballare e da sballare; e l'uomo che la portava pareva, fin lì, assumere qualità altrettanto solide e normali. Era vestito di scuro, ma con un'aria trascurata e vacanziera; la sua camicia era di flanella grigia, e i suoi stivali echeggiavano in modo abbastanza perentorio in quelle stanze silenziose. Mentre avanzava a grandi passi per salutare la nuova cerchia, la sua andatura tradiva a malapena l'accenno di una zoppia. Ma Payne e i suoi compagni gli guardavano il volto, e a stento riuscivano a distoglierne gli occhi.
+
+Egli sentiva evidentemente che c'era qualcosa di curioso e di sgradevole nella sua accoglienza; ma avrebbero potuto giurare che egli stesso non ne conoscesse la ragione. La dama, che si supponeva già in qualche modo a lui promessa, era certo abbastanza bella da attrarlo; ma evidentemente lo spaventava anche. Il vecchio maggiordomo gli rendeva una sorta di omaggio feudale, eppure lo trattava come se fosse il fantasma di famiglia. Il prete continuava a guardarlo con un volto del tutto indecifrabile, e perciò forse tanto più sconcertante. Una nuova specie d'ironia, più simile all'ironia greca, cominciò ad attraversare la mente di Payne. Egli aveva sognato lo straniero come un demonio, ma pareva quasi peggio che egli fosse un destino inconsapevole. Sembrava marciare verso il delitto con la mostruosa innocenza di Edipo. Si era accostato alla dimora avita con animo così ciecamente esuberante da aver piantato la macchina fotografica per immortalare la sua prima veduta di essa; e persino la macchina aveva assunto le sembianze del tripode di una tragica pizia.

@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/incredulity-(chesterton)">Incredulity</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/incredulity/story_05_the_curse_of_the_golden_cross/part_03">‹ part 03</a><a class="ex-next" href="/testi/chesterton/atomized/incredulity/story_05_the_curse_of_the_golden_cross/part_05">part 05 ›</a></div>
@@ -128,3 +130,42 @@ trenchant cheerfulness, `your Byzantine mummy was simply
 too exciting to be missed.  I simply had to come along
 and see it; and I'm sure the gentlemen felt just the same.
 Now you must tell us all about it.'
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/incredulity-(chesterton)">Incredulity</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/incredulity/story_05_the_curse_of_the_golden_cross/part_03">‹ part 03</a><a class="ex-next" href="/testi/chesterton/atomized/incredulity/story_05_the_curse_of_the_golden_cross/part_05">part 05 ›</a></div>
+</nav>
+
+«C'è un modo per scoprirlo, credo» osservò il Professore con una certa cupezza. «Quando arriveremo a Southampton, prenderò subito un'automobile e mi dirigerò lungo la costa; sarei lieto se voleste accompagnarmi, ma in senso ordinario, s'intende, la nostra piccola compagnia si scioglierà. Se qualcuno di loro dovesse ricomparire in quel piccolo cimitero sulla costa del Sussex, sapremo chi egli sia davvero.»
+
+Il programma del [[The Professor|Professore]] fu debitamente eseguito, almeno per quanto riguardava l'automobile e il suo carico nella persona di [[Father Brown|Padre Brown]]. Costeggiarono la [[Road|strada]] con il mare da un lato e le colline dell'Hampshire e del Sussex dall'altro; né apparve all'occhio [[Shadow|ombra]] alcuna d'inseguimento. Mentre si avvicinavano al villaggio di Dulham, un solo uomo incrociò il loro cammino che avesse qualche legame con la questione in corso: un giornalista che aveva appena visitato la chiesa ed era stato cortesemente accompagnato dal vicario attraverso la cappella di recente scavata; ma le sue osservazioni e i suoi appunti parevano del comune genere giornalistico. Eppure il Professor Smaill era forse un po' fantasioso, e non riusciva a scacciare la sensazione di qualcosa di strano e scoraggiante nell'atteggiamento e nell'aspetto di quell'uomo, alto e trasandato, dal naso adunco e dagli occhi infossati, con i baffi che pendevano avviliti. Sembrava tutt'altro che rallegrato dal suo recente esperimento di turista; anzi, pareva allontanarsi il più rapidamente possibile da quella vista, quando lo fermarono con una domanda.
+
+«Si tratta tutto di una maledizione» disse; «una maledizione sul luogo, secondo la guida o il parroco o l'abitante più anziano o chiunque sia l'autorità in materia; e per la verità, ci si sente proprio così. Maledizione o non maledizione, sono contento di esserne uscito.»
+
+«Credete alle maledizioni?» chiese Smaill incuriosito.
+
+«Non credo a nulla; sono un giornalista» rispose quell'essere [[Melancholy|malinconico]]. «Boon, del Daily Wire. Ma c'è qualcosa di raccapricciante in quella cripta; e non negherò mai d'aver sentito un brivido.» E proseguì a grandi passi verso la stazione ferroviaria, accelerando ancora l'andatura.
+
+«Sembra un corvo o una cornacchia, quel tale» osservò Smaill mentre si volgevano verso il cimitero. «Come si dice, a proposito di un uccello di malaugurio?»
+
+Entrarono lentamente nel cimitero, gli occhi dell'antiquario americano che indugiavano con voluttà sul tetto isolato del portale coperto e sull'enorme, imperscrutabile massa nera del tasso, simile alla notte stessa che sfidasse la piena luce del giorno. Il sentiero saliva tra ondulati ripiani d'erba in cui le lapidi erano inclinate a ogni angolazione, come zattere di pietra sballottate su un mare verde, finché non giunse al crinale oltre il quale il grande mare stesso correva come una sbarra di ferro, con pallidi bagliori dentro simili all'acciaio. Quasi ai loro piedi la dura erba ispida si mutava in un ciuffo d'agrifoglio marino e finiva in sabbia grigia e gialla; e a un piede o due dall'agrifoglio, stagliata scura contro il mare d'acciaio, si ergeva una figura immobile. Se non fosse stato per le sue vesti grigio scuro, avrebbe potuto quasi essere la statua di qualche monumento sepolcrale. Ma Padre Brown riconobbe all'istante qualcosa nell'elegante curva delle spalle e nella sporgenza piuttosto imbronciata della corta barba in fuori.
+
+«Perbacco!» esclamò il [[The Professor|professore]] d'archeologia; «è quel tale, Tarrant, se lo si può chiamare un uomo. Avreste mai pensato, quando ne parlai sul piroscafo, che avrei ottenuto una risposta così pronta alla mia domanda?»
+
+«Temevo che poteste ottenerne fin troppe» rispose [[Father Brown|Padre Brown]].
+
+«Come, che cosa intendete dire?» s'informò il Professore, lanciandogli un'occhiata al di sopra della spalla.
+
+«Intendo» rispose l'altro con dolcezza «che mi è parso di udire delle voci dietro il tasso. Non credo che il signor Tarrant sia così solitario come sembra; oserei perfino dire, così solitario come ama sembrare.»
+
+Proprio mentre Tarrant si voltava lentamente col suo fare accigliato, ne venne la conferma. Un'altra voce, acuta e piuttosto dura, ma non per questo meno femminile, diceva con esperta ironia: «E come potevo sapere che sarebbe stato qui?» Al Professor Smaill fu chiaro che quell'allegra osservazione non era rivolta a lui; sicché fu costretto a concludere, con un certo sconcerto, che era presente addirittura una terza persona. Quando Lady [[Diana]] Wales uscì, raggiante e risoluta come sempre, dall'[[Shadow|ombra]] del tasso, egli notò con cupezza che aveva un'[[Shadow|ombra]] vivente tutta sua. La figura magra e azzimata di Leonard Smyth, quell'insinuante uomo di lettere, apparve immediatamente dietro la sagoma sgargiante di lei, sorridente, la testa un poco reclinata da un lato come quella d'un cane.
+
+«Diamine!» borbottò Smaill; «ma allora ci sono proprio tutti! O tutti tranne quel piccolo imbonitore dai baffi di tricheco.»
+
+Sentì [[Father Brown|Padre Brown]] ridere sommessamente al suo fianco; e in verità la situazione stava diventando qualcosa di più che ridicolo. Sembrava capovolgersi e rovinare loro attorno alle orecchie come un gioco di pantomima; poiché, proprio mentre il [[The Professor|Professore]] stava parlando, le sue parole avevano ricevuto la più comica delle smentite. La testa tonda con il [[Grotesque|grottesco]] nero mezzaluna di baffi era apparsa d'improvviso, e a quanto pareva da un buco nel terreno. Un istante dopo si resero conto che il buco era in realtà un buco assai grande, che immetteva in una scala a pioli discendente nelle viscere della terra; che era, di fatto, l'ingresso alla scena sotterranea che erano venuti a visitare. Il piccolo uomo era stato il primo a trovare l'ingresso, e aveva già disceso uno o due pioli della scala prima di sporgere di nuovo la testa per rivolgersi ai compagni di viaggio. Aveva l'aria di qualche [[Grave|becchino]] particolarmente assurdo in una parodia dell'[[Hamlet|Amleto]]. Disse soltanto, con voce impastata dietro i folti baffi: «È quaggiù.» Ma agli altri della comitiva venne, con un sussulto di consapevolezza, che, per quanto gli fossero seduti di fronte a tavola per una settimana, quasi mai l'avevano udito parlare prima; e che, benché lo si supponesse conferenziere inglese, egli parlava con un accento straniero piuttosto occulto.
+
+«Vedete, mio caro Professore» esclamò Lady [[Diana]] con incisiva allegria, «la vostra mummia bizantina era semplicemente troppo eccitante per lasciarsela sfuggire. Non potevo far altro che venire a vederla; e sono certa che i signori provavano esattamente lo stesso. Ora dovete raccontarci tutto quanto.»

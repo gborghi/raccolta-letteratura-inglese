@@ -220,7 +220,7 @@ in qualcosa che somigliava al sospetto.
 «Difficilmente la chiamerei una sezione» disse Syme, ridendo; «la chiamerei
 tutt'al più una radice.»
 
-«Che cosa intendete?»
+«Cosa volete dire?»
 
 «Il fatto è» disse Syme serenamente, «la [[Truth|verità]] è che sono un sabbatario.  Sono
 stato mandato qui appositamente per verificare che voi diate la debita osservanza alla [[Sunday|Domenica]].»

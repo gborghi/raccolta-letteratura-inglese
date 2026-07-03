@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/secret-fr-brown-(chesterton)">secret Fr Brown</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/secret_fr_brown/story_04_the_actor_and_the_alibi/part_06">‹ part 06</a><a class="ex-next" href="/testi/chesterton/atomized/secret_fr_brown/story_05_the_vanishing_of_vaudrey/part_01">part 01 ›</a></div>
@@ -72,3 +74,28 @@ nonsense and more than damned nonsense--nonsense that can damn."
 
 [[Father Brown]] frowned, which he did very rarely; and there was still a
 cloud on his brow as he put on his hat and went out into the [[Night|night]].
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/secret-fr-brown-(chesterton)">secret Fr Brown</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/secret_fr_brown/story_04_the_actor_and_the_alibi/part_06">‹ part 06</a><a class="ex-next" href="/testi/chesterton/atomized/secret_fr_brown/story_05_the_vanishing_of_vaudrey/part_01">part 01 ›</a></div>
+</nav>
+
+«[[Well|Beh]], non ne sarei così sicuro», disse [[Father Brown|padre Brown]] con un sorriso. «Ma in questo caso non ha avuto bisogno di ricorrere ad alcuna stregoneria. Ora so che è stata lei, e in modo davvero semplicissimo».
+
+«Perché ne è così sicuro?», domandò Jarvis, guardandolo con aria perplessa.
+
+«Perché la commedia era The School for Scandal», rispose [[Father Brown|padre Brown]], «e precisamente quell'atto di The School for Scandal. Vorrei ricordarle, come ho appena detto, che lei disponeva sempre i mobili come più le piaceva. Vorrei ricordarle anche che questo palcoscenico fu costruito e usato per le pantomime; era naturale che avesse botole e uscite a sorpresa di quel genere. E quando lei mi dice che dei testimoni potrebbero attestare di aver visto tutti gli attori sulla scena, vorrei ricordarle che nella scena principale di The School for Scandal uno degli attori principali resta per un [[Time|tempo]] considerevole sul palcoscenico, ma non è visto. Tecnicamente è "in scena", ma di fatto potrebbe benissimo essere "fuori scena". È il Paravento di Lady Teazle e l'Alibi della signora Mandeville».
+
+Vi fu un [[Silence|silenzio]], poi l'attore disse: «Lei pensa che sia sgusciata attraverso una botola, dietro un paravento, fino al piano di sotto, dov'era lo studio del direttore?».
+
+«Di certo se l'è svignata in qualche modo; e questo è il modo più probabile», disse l'altro. «Lo ritengo tanto più probabile in quanto colse l'occasione di una prova non in costume, e anzi la organizzò lei stessa. È una supposizione; ma immagino che, se fosse stata una prova generale in costume, sarebbe stato più difficile passare attraverso una botola con le crinoline del Settecento. Ci sono molte piccole difficoltà, naturalmente, ma credo che si potessero tutte superare a suo [[Time|tempo]] e a turno».
+
+«Quello che io non riesco a superare è la grande difficoltà», disse Jarvis, appoggiando la testa sulla mano con una specie di gemito. «Semplicemente non riesco a convincermi che una creatura radiosa e serena come lei potesse perdere a tal punto, per così dire, l'equilibrio del corpo, per non parlare dell'equilibrio morale. Vi era un movente abbastanza forte? Era davvero tanto [[Love|innamorata]] di Knight?».
+
+«Lo [[Hope|spero]]», rispose il suo compagno; «perché sarebbe davvero la scusa più umana. Ma mi spiace dire che ho i miei dubbi. Voleva sbarazzarsi del marito, che era un mestierante all'antica, provinciale, e per giunta nemmeno con molto denaro. Voleva farsi una carriera come brillante moglie di un attore brillante e in rapida ascesa. Ma in quel senso non aveva alcuna voglia di recitare in The School for Scandal. Non sarebbe fuggita con un uomo se non come ultima risorsa. Non era in lei una passione umana, ma una specie di rispettabilità infernale. Perseguitava di continuo il marito in segreto e lo tormentava perché [[divorce|divorziasse]] o comunque si togliesse di mezzo; e poiché lui rifiutava, alla fine pagò per il suo rifiuto. C'è un'altra cosa che deve ricordare. Lei parla di questi intellettuali che avrebbero un'arte più alta e un teatro più filosofico. Ma si ricordi che razza di roba è tanta di quella [[philosophy|filosofia]]! Si ricordi che sorta di condotta quegli intellettuali spesso presentano come la più elevata! Tutto un discorso sulla Volontà di Potenza e sul Diritto di Vivere e sul Diritto all'Esperienza: sciocchezze maledette, e più che maledette sciocchezze; sciocchezze che possono dannare».
+
+[[Father Brown|Padre Brown]] aggrottò la fronte, cosa che gli capitava molto di rado; e vi era ancora una nube sul suo volto mentre si metteva il cappello e usciva nella [[Night|notte]].

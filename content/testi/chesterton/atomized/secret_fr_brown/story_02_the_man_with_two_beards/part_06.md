@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/secret-fr-brown-(chesterton)">secret Fr Brown</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/secret_fr_brown/story_02_the_man_with_two_beards/part_05">‹ part 05</a><a class="ex-next" href="/testi/chesterton/atomized/secret_fr_brown/story_02_the_man_with_two_beards/part_07">part 07 ›</a></div>
@@ -141,3 +143,72 @@ him go motoring with Bankes at all; if he was really going burgling, he
 could have taken his outfit easily in his pocket. Besides, beards don't
 grow on bushes. He would have found it hard to get such things anywhere
 in the [[Time|time]].
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/secret-fr-brown-(chesterton)">secret Fr Brown</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/secret_fr_brown/story_02_the_man_with_two_beards/part_05">‹ part 05</a><a class="ex-next" href="/testi/chesterton/atomized/secret_fr_brown/story_02_the_man_with_two_beards/part_07">part 07 ›</a></div>
+</nav>
+
+«Dove generalmente si trovano in casi simili», disse Carver. «O li ha nascosti o li ha passati a un complice. Questo non era un lavoro da un uomo solo. Naturalmente, i miei uomini stanno perquisendo il [[Garden|giardino]] e allertando il distretto.»
+
+«Forse», suggerì la signora Bankes, «il complice ha rubato la collana mentre Moonshine guardava dentro dalla [[Window|finestra]].»
+
+«Perché Moonshine guardava dentro dalla [[Window|finestra]]?» chiese [[Father Brown]] tranquillamente. «Perché avrebbe dovuto voler guardare dentro dalla [[Window|finestra]]?»
+
+«[[Well|Ebbene]], e lei cosa pensa?» esclamò l'allegro John.
+
+«Penso», disse [[Father Brown]], «che egli non abbia mai voluto guardare dentro dalla [[Window|finestra]].»
+
+«E allora perché l'ha fatto?» domandò Carver. «Che utilità c'è a parlare campato in aria a quel modo? Abbiamo visto l'intera scena recitata sotto i nostri stessi occhi.»
+
+«Ho visto un bel po' di cose recitate sotto i miei occhi a cui non credevo», rispose il prete. «E anche lei, sul palcoscenico e fuori.»
+
+«[[Father Brown]]», disse Devine, con un certo rispetto nel tono, «ci vuol dire perché non riesce a credere ai suoi occhi?»
+
+«Sì, cercherò di dirvelo», rispose il prete. Poi disse gentilmente:
+
+«Voi sapete cosa sono io e cosa siamo noi. Non vi disturbiamo granché. Cerchiamo di essere amici con tutti i nostri vicini. Ma non potete pensare che non facciamo nulla. Non potete pensare che non sappiamo nulla. Ci facciamo gli affari nostri; ma conosciamo la nostra gente. Conoscevo quest'uomo morto davvero molto [[Well|bene]]; ero il suo confessore, e il suo amico. Per quanto un uomo possa, conoscevo la sua mente quando lasciò quel [[Garden|giardino]] quest'oggi; e la sua mente era come un alveare di vetro pieno di dorate [[Bees|api]]. È un'attenuazione dire che la sua [[Reformation|redenzione]] fosse sincera. Era uno di quei grandi penitenti che riescono a trarre più dalla penitenza di quanto altri riescano a trarre dalla virtù. Dico che ero il suo confessore; ma, in verità, ero io ad andare da lui in cerca di conforto. Mi faceva bene stare vicino a un uomo tanto buono. E quando lo vidi giacere là morto nel [[Garden|giardino]], mi parve come se certe strane parole dette anticamente fossero pronunciate su di lui ad alta voce nel mio orecchio. Potrebbero [[Well|ben]] esserlo state; poiché, se mai un uomo andò dritto in cielo, potrebbe essere lui.»
+
+«Al diavolo», disse John Bankes irrequieto, «dopotutto, era un ladro condannato.»
+
+«Sì», disse [[Father Brown]]; «e solo un ladro condannato ha mai udito, in questo mondo, quella promessa: "Questa [[Night|notte]] sarai con Me in Paradiso."»
+
+Nessuno parve saper cosa fare del [[Silence|silenzio]] che seguì, finché Devine non disse, bruscamente, alla fine:
+
+«E allora come diavolo spiegherebbe tutto quanto?»
+
+Il prete scosse il capo. «Non riesco a spiegarlo affatto, per ora», disse, semplicemente. «Riesco a vedere un paio di cose strane, ma non le capisco. Per ora non ho nulla su cui appoggiarmi per provare l'[[innocence|innocenza]] dell'uomo, tranne l'uomo stesso. Ma sono del tutto certo di aver ragione.»
+
+Sospirò, e stese la mano verso il suo grande cappello nero. Nel toglierlo rimase a fissare il tavolo con un'espressione piuttosto nuova, la sua testa rotonda dai capelli lisci inclinata a un nuovo angolo. Era come se qualche curioso animale fosse uscito dal suo cappello, come dal cappello di un prestigiatore. Ma gli altri, guardando il tavolo, non vi riuscirono a vedere nulla, se non i documenti dell'[[Detective|investigatore]] e la pacchiana vecchia barba e gli occhiali di scena.
+
+«Che il Signore ci benedica», mormorò [[Father Brown]], «e lui giace là fuori morto, con una barba e gli occhiali.» Si girò di scatto verso Devine. «Ecco qualcosa da approfondire, se volete saperlo. Perché aveva due barbe?»
+
+Con ciò trotterellò alla sua maniera priva di dignità fuori dalla stanza; ma Devine era ormai divorato dalla curiosità, e lo inseguì nel [[Garden|giardino]] antistante.
+
+«Non posso dirvelo adesso», disse [[Father Brown]]. «Non sono sicuro, e sono tormentato su cosa fare. Passate a trovarmi domani, e forse sarò in grado di raccontarvi tutta la faccenda. Potrebbe già essere risolta per me, e -- avete udito quel rumore?»
+
+«Un'automobile che parte», osservò Devine.
+
+«L'automobile del signor John Bankes», disse il prete. «Credo che vada molto veloce.»
+
+«È certamente di questa opinione», disse Devine, con un sorriso.
+
+«Andrà lontano, [[Well|oltre]] che veloce, questa [[Night|notte]]», disse [[Father Brown]].
+
+«E cosa intende con ciò?» domandò l'altro.
+
+«Intendo che non tornerà», rispose il prete. «John Bankes ha sospettato qualcosa di ciò che io sapevo, da ciò che ho detto. John Bankes se n'è andato, e gli smeraldi e tutti gli altri gioielli con lui.»
+
+Il giorno dopo, Devine trovò [[Father Brown]] che andava avanti e indietro davanti alla fila di arnie, tristemente, ma con una certa serenità.
+
+«Sono stato a dirlo alle [[Bees|api]]», disse. «Sapete, bisogna dirlo alle [[Bees|api]]! "Quei muratori canterini che costruiscono tetti d'oro." Che verso!» Poi più bruscamente. «Gli piacerebbe che ci si prendesse cura delle [[Bees|api]].»
+
+«[[Hope|Spero]] che non voglia che si trascurino gli esseri umani, quando l'intero sciame ronza di curiosità», osservò il giovane. «Aveva perfettamente ragione quando ha detto che Bankes se n'era andato coi gioielli; ma non so come lo sapesse, né cosa ci fosse da sapere.»
+
+[[Father Brown]] sbatté le palpebre benevolmente verso le arnie e disse:
+
+«Ci s'imbatte per caso nelle cose, e c'era un ostacolo fin dall'inizio. Ero perplesso per il povero Barnard colpito su a Beechwood [[house|House]]. Ora, persino quando [[Michael]] era un maestro del crimine, si faceva un punto d'[[Honour|onore]], persino un punto di [[Vanity|vanità]], di riuscire senza alcuna uccisione. Sembrava straordinario che, quando era divenuto una sorta di santo, andasse fuori strada a commettere il peccato che aveva disprezzato quando era peccatore. Il resto della faccenda mi lasciò perplesso fino all'ultimo; non riuscivo a cavarne nulla, se non che non era vera. Poi ebbi un tardivo barlume di buonsenso quando vidi la barba e gli occhialoni e ricordai che il ladro era comparso con un'altra barba e altri occhialoni. Ora, naturalmente, era appena possibile che ne avesse dei duplicati; ma era per lo meno una coincidenza che non usasse né i vecchi occhiali né la vecchia barba, entrambi in buono stato. Di nuovo, era appena possibile che fosse uscito senza di essi e avesse dovuto procurarsene di nuovi; ma era improbabile. Non c'era nulla che lo spingesse ad andare in automobile con Bankes; se davvero fosse andato a scassinare, avrebbe potuto portare con facilità il suo corredo in tasca. E poi, le barbe non crescono sui cespugli. Gli sarebbe stato difficile procurarsi simili cose in un posto qualsiasi in così poco [[Time|tempo]].

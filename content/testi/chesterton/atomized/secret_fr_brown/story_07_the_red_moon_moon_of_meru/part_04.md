@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/secret-fr-brown-(chesterton)">secret Fr Brown</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/secret_fr_brown/story_07_the_red_moon_moon_of_meru/part_03">‹ part 03</a><a class="ex-next" href="/testi/chesterton/atomized/secret_fr_brown/story_07_the_red_moon_moon_of_meru/part_05">part 05 ›</a></div>
@@ -138,3 +140,70 @@ great spiritual powers, but----"
 
 Hardcastle [[Rose|rose]] impatiently and began to pace the room with his hands in
 his pockets.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/secret-fr-brown-(chesterton)">secret Fr Brown</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/secret_fr_brown/story_07_the_red_moon_moon_of_meru/part_03">‹ part 03</a><a class="ex-next" href="/testi/chesterton/atomized/secret_fr_brown/story_07_the_red_moon_moon_of_meru/part_05">part 05 ›</a></div>
+</nav>
+
+«Senti un po'» gridò l'impetuoso Tommy Hunter, «bernoccoli io non ne ho; ma tu ne avrai di sicuro qualcuno [[Well|ben]] presto, brutto...»
+
+Hardcastle lo trattenne con dolcezza mentre quello si precipitava di nuovo verso la porta; e per un istante l'intera comitiva si era voltata di nuovo e guardava dentro la stanza interna.
+
+Fu in quel momento che la cosa accadde. Fu ancora una volta l'impetuoso Tommy il primo a muoversi, e questa [[Time|volta]] con miglior esito. Prima che alcun altro avesse visto alcunché, quando Hardcastle si era appena rammentato con un sussulto di aver lasciato la gemma sul davanzale di pietra, Tommy aveva attraversato il chiostro con il balzo di un gatto e, sporgendosi con il capo e le spalle fuori dell'apertura fra due colonne, aveva gridato con una voce che risuonò per tutte le arcate: «L'ho preso!»
+
+In quell'istante di [[Time|tempo]], subito dopo che si erano voltati e subito prima di udire il suo grido trionfante, avevano tutti visto la cosa accadere. Dietro l'angolo di una delle due colonne era guizzata dentro e fuori una mano bruna, o piuttosto color bronzo, del colore dell'oro spento; simile a quelle che avevano visto altrove. La mano aveva colpito diritta come un serpente che scatta; istantanea come il guizzo della lunga lingua di un formichiere. Ma aveva ghermito il [[Jewel|gioiello]]. La lastra di pietra del davanzale della [[Window|finestra]] brillava nuda nella luce pallida e morente.
+
+«L'ho preso» ansimò Tommy Hunter; «ma si dimena parecchio. Voialtri correte a tagliargli la strada davanti... in ogni caso non può essersene disfatto.»
+
+Gli altri obbedirono, alcuni precipitandosi lungo il corridoio, altri scavalcando il muretto, cosicché una piccola folla, composta da Hardcastle, da Lord Mounteagle, da [[Father Brown]] e persino dall'inseparabile signor Phroso dei bernoccoli, ebbe presto circondato il prigioniero Maestro della Montagna, che Hunter teneva stretto disperatamente per il colletto con una mano, scuotendolo ogni tanto in un modo assai poco riguardoso della dignità dei Profeti come categoria.
+
+«Adesso lo teniamo, comunque» disse Hunter, mollando la presa con un sospiro. «Non ci resta che perquisirlo. L'oggetto dev'essere qui.»
+
+Tre quarti d'ora più tardi. Hunter e Hardcastle, i loro cilindri, le cravatte, i guanti, gli sparati e le ghette alquanto malconci per le recenti fatiche, si trovarono faccia a faccia nel chiostro e si scrutarono a vicenda.
+
+«[[Well|Ebbene]]» chiese Hardcastle con misura, «hai qualche idea sul mistero?»
+
+«Che diamine» replicò Hunter; «non puoi chiamarlo un mistero. Perbacco, l'abbiamo visto tutti con i nostri occhi prenderlo.»
+
+«Sì» replicò l'altro, «ma non l'abbiamo visto tutti con i nostri occhi perderlo. E il mistero è: dove l'ha perso, se non riusciamo a trovarlo?»
+
+«Da qualche parte dev'essere» disse Hunter. «Hai frugato nella fontana e tutt'intorno a quel vecchio dio marcio là?»
+
+«Non ho sezionato i pesciolini» disse Hardcastle, sollevando il monocolo e squadrando l'altro. «Stai pensando all'anello di Policrate?»
+
+A quanto pare l'esame, attraverso il monocolo, del volto tondo che gli stava davanti lo persuase che esso non celava una simile meditazione sulla leggenda greca.
+
+«Addosso non ce l'ha, lo ammetto» ripeté Hunter di scatto, «a meno che non l'abbia inghiottito.»
+
+«Dobbiamo sezionare anche il [[Prophet|Profeta]]?» chiese l'altro sorridendo. «Ma ecco che arriva il nostro ospite.»
+
+«È una faccenda oltremodo penosa» disse Lord Mounteagle, torcendosi i bianchi baffi con mano nervosa e persino tremula. «Cosa orribile avere un furto in [[house|casa]] propria, per non [[Alone|dire]] del collegarlo a un uomo come il Maestro. Ma, lo confesso, non riesco proprio a raccapezzarmi nel modo in cui ne parla. Vorrei che veniste dentro a vedere cosa ne pensate.»
+
+Entrarono insieme, con Hunter che restava indietro e si metteva a conversare con [[Father Brown]], il quale batteva i tacchi girellando per il chiostro.
+
+«Dovete essere molto forte» disse il prete affabilmente. «Lo avete tenuto con una sola mano; eppure sembrava assai vigoroso, anche quando eravamo in otto mani a trattenerlo, come uno di quegli dèi indiani.»
+
+Fecero un giro o due per il chiostro, conversando; e poi entrarono anche loro nella stanza interna, dove il Maestro della Montagna sedeva su una panca, nella veste di prigioniero, ma con più l'aria di un [[King|re]].
+
+Era vero, come aveva detto Lord Mounteagle, che il suo contegno e il suo tono non erano molto facili da comprendere. Parlava con un senso sereno, e tuttavia riservato, del proprio potere. Pareva piuttosto divertito dai loro suggerimenti su banali nascondigli per la gemma; e di certo non mostrava il minimo risentimento. Sembrava ridere, in un modo ancora imperscrutabile, dei loro sforzi di rintracciare ciò che tutti lo avevano visto prendere.
+
+«State imparando qualcosina» disse, con insolente benevolenza, «delle leggi del [[Time|tempo]] e dello spazio; riguardo alle quali la vostra scienza più recente è mille anni indietro rispetto alla nostra religione più antica. Non sapete nemmeno cosa significhi davvero nascondere una cosa. Anzi, miei poveri amici, non sapete nemmeno cosa significhi vedere una cosa; o forse la vedreste con la stessa chiarezza con cui la vedo io.»
+
+«Volete dire che è qui?» incalzò Hardcastle aspramente.
+
+«"Qui" è anch'essa una parola dai molti significati» replicò il mistico. «Ma non ho detto che fosse qui. Ho detto soltanto che potevo vederla.»
+
+Ci fu un [[Silence|silenzio]] irritato, ed egli proseguì con voce assonnata.
+
+«Se voi foste totalmente, insondabilmente silenziosi, credete che potreste udire un grido dall'altro capo del mondo? Il grido di un fedele [[Alone|solo]] su quelle [[Mountains|montagne]], dove siede l'immagine originaria, essa stessa simile a una montagna. Alcuni dicono che persino Ebrei e Musulmani potrebbero adorare quell'immagine; poiché non fu mai fatta da mano d'uomo. Udite! Sentite il grido con cui egli leva il capo e scorge, in quell'incavo di pietra rimasto vuoto per età intere, l'unica [[Moon|luna]] rossa e adirata che è l'occhio della montagna?»
+
+«Volete davvero dire» esclamò Lord Mounteagle, un poco turbato, «che potreste farla passare da qui al Monte Meru? Un tempo credevo che aveste grandi poteri spirituali, ma...»
+
+«Forse» disse il Maestro, «ne ho più di quanti ne crederete mai.»
+
+Hardcastle si [[Rose|alzò]] spazientito e cominciò a percorrere la stanza a grandi passi, con le mani in tasca.

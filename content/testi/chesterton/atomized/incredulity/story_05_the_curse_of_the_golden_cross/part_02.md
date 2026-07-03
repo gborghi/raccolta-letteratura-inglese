@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/incredulity-(chesterton)">Incredulity</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/incredulity/story_05_the_curse_of_the_golden_cross/part_01">‹ part 01</a><a class="ex-next" href="/testi/chesterton/atomized/incredulity/story_05_the_curse_of_the_golden_cross/part_03">part 03 ›</a></div>
@@ -130,3 +132,38 @@ to make my way once more outwards and upwards into the light of day,
 I looked up at the walls of bare rock that extended endlessly
 along the low passages, and saw scratched in yet ruder outline,
 but if possible more unmistakable, the shape of the Fish.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/incredulity-(chesterton)">Incredulity</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/incredulity/story_05_the_curse_of_the_golden_cross/part_01">‹ part 01</a><a class="ex-next" href="/testi/chesterton/atomized/incredulity/story_05_the_curse_of_the_golden_cross/part_03">part 03 ›</a></div>
+</nav>
+
+Vi fu un [[Silence|silenzio]] improvviso e casuale; poi la signora disse: «Oh, salgo in coperta», e si alzò, mentre gli uomini si alzavano con lei. Ma il Professore si attardò e il piccolo prete fu l'ultimo a lasciare la tavola, ripiegando con cura il tovagliolo. E quando furono così rimasti soli, il Professore disse d'un tratto al suo commensale:
+
+«Che cosa direbbe fosse il senso di quella nostra piccola conversazione?»
+
+«Ebbene», rispose padre Brown sorridendo, «giacché me lo chiede, c'è stato qualcosa che mi ha un poco divertito. Posso sbagliarmi; ma mi è parso che la compagnia abbia fatto tre tentativi per indurla a parlare di un certo [[Body|corpo]] imbalsamato che si dice sia stato ritrovato nel Sussex. E lei, dal canto suo, si è offerto con somma cortesia di discorrere: prima di algebra, poi dei Fascisti, e infine del paesaggio delle Downs.»
+
+«In breve», replicò il Professore, «lei ha pensato che io fossi pronto a parlare di qualsiasi argomento fuorché di quello. Aveva perfettamente ragione.»
+
+[[The Professor|Il Professore]] rimase in silenzio per un poco di [[Time|tempo]], lo sguardo abbassato sulla tovaglia; poi alzò gli occhi e parlò con quella rapida impulsività che faceva pensare al balzo del [[Lion|leone]].
+
+«Mi ascolti, padre Brown», disse, «io la considero l'uomo più saggio e più candido che io abbia mai incontrato.»
+
+[[Father Brown]] era molto inglese. Possedeva tutta la normale impotenza nazionale sul da farsi quando un complimento serio e sincero gli viene d'improvviso rivolto in faccia, alla maniera americana. La sua risposta fu un mormorio privo di senso; e fu [[The Professor|il Professore]] a proseguire, con la medesima serietà staccata: «Vede, fino a un certo punto la faccenda è abbastanza semplice. Una tomba cristiana dell'Alto Medioevo, apparentemente quella di un vescovo, è stata rinvenuta sotto una chiesetta a Dulham, sulla costa del Sussex. Il vicario si dà il caso sia egli stesso un discreto archeologo, ed è riuscito a scoprire ben più di quanto io sappia ancora. Correva voce che il cadavere fosse imbalsamato in una maniera propria dei Greci e degli Egizi, ma ignota in Occidente, e specialmente a quell'epoca. Sicché il signor Walters (è questi il vicario) si interroga naturalmente su eventuali influssi bizantini. Ma egli menziona anche qualcos'altro, che riveste per me un interesse persino più personale.»
+
+Il suo lungo volto grave parve farsi ancor più lungo e più grave mentre aggrottava la fronte fissando la tovaglia. Il suo lungo dito pareva tracciarvi sopra dei disegni, come le piante di città morte con i loro templi e i loro sepolcri.
+
+«Le dirò dunque, e a nessun altro, perché io debba andar cauto nel menzionare quella faccenda in compagnia mista; e perché, quanto più gli altri smaniano di parlarne, tanto più io debba stare in guardia. Si afferma inoltre che nella bara vi sia una catena con una [[Cross|croce]], abbastanza comune a vedersi, ma recante sul retro un certo simbolo segreto che si ritrova su una sola altra [[Cross|croce]] al mondo. Proviene dagli arcani della Chiesa delle primissime origini, e si suppone indichi san Pietro nell'atto di fondare la sua Sede ad Antiochia, prima di venire a Roma. In ogni modo, credo non ve ne sia che un'altra simile, ed essa appartiene a me. Ho sentito dire che vi sia intorno una storia di maledizione; ma non ci bado. Comunque, che ci sia o no una maledizione, c'è davvero, in un certo senso, una cospirazione; per quanto la cospirazione possa consistere in un uomo solo.»
+
+«In un uomo solo?» ripeté padre Brown quasi meccanicamente.
+
+«In un pazzo solo, per quel che ne so», disse il professor Smaill. «È una lunga storia, e per certi versi una storia sciocca.»
+
+Tornò a fare una pausa, tracciando piante come disegni architettonici col dito sulla tovaglia, e poi riprese: «Forse è meglio che gliela racconti dal principio, nel caso lei scorga nella vicenda qualche particolare che a me sfugge di senso. Cominciò tanti e tanti anni fa, quando conducevo per conto mio certe indagini sulle antichità di Creta e delle isole greche. Feci gran parte del lavoro praticamente da solo; talora col più rozzo e provvisorio aiuto degli abitanti del luogo, e talora letteralmente [[Alone|solo]]. Fu in quest'ultima circostanza che scoprii un dedalo di passaggi sotterranei che conducevano infine a un cumulo di ricche rovine, ornamenti spezzati e gemme sparse, che presi per i resti di un qualche altare sprofondato, e fra i quali rinvenni la curiosa [[Cross|croce]] d'oro. La rigirai, e sul retro vidi l'Ichthys, ovvero il pesce, che era un antico simbolo cristiano, ma di forma e disegno alquanto diversi da quelli comunemente riscontrati; e, a quanto mi parve, più realistici: quasi che l'arcaico disegnatore avesse inteso farne non già un mero recinto o nimbo convenzionale, ma qualcosa che rassomigliasse un poco di più a un pesce vero. Mi parve di scorgere, verso un'estremità, uno schiacciamento che non aveva nulla della semplice decorazione matematica, ma somigliava piuttosto a una sorta di zoologia rozza, anzi selvaggia.
+
+«Per spiegarle in poche parole perché ritenni importante questo ritrovamento, devo dirle il fine di quello scavo. Anzitutto, esso aveva qualcosa della natura di uno scavo di uno scavo. Non eravamo sulle tracce soltanto delle antichità, ma degli antiquari dell'antichità. Avevamo ragione di credere, o alcuni di noi credevano di aver ragione di credere, che quei passaggi sotterranei, per lo più del periodo minoico, come quel famoso che è addirittura identificato col labirinto del Minotauro, non fossero realmente rimasti perduti e indisturbati per tutti i secoli intercorsi tra il Minotauro e l'esploratore moderno. Credevamo che quei luoghi sotterranei, direi quasi quelle città e villaggi sotterranei, fossero già stati penetrati, nel periodo frapposto, da alcune persone spinte da un qualche movente. Sul movente si contrapponevano diverse scuole di pensiero: alcuni sostenevano che gli Imperatori avessero ordinato un'esplorazione ufficiale per mera curiosità scientifica; altri che la furiosa moda, nel tardo Impero romano, per ogni sorta di torbide superstizioni asiatiche avesse spinto qualche innominata setta manichea o simile a darsi al baccano in quelle caverne, in orge che bisognava tenere nascoste alla faccia del sole. Io appartengo al gruppo che credeva quelle caverne fossero state usate nello stesso modo delle catacombe. Vale a dire, credevamo che, durante alcune delle persecuzioni che si propagavano come un incendio su tutto l'Impero, i Cristiani si fossero nascosti in quegli antichi labirinti pagani di pietra. Fu dunque con un brivido acuto come un tuono che trovai e raccolsi la croce d'oro caduta a terra e ne vidi il disegno; e fu con un fremito di felicità ancor più forte che, voltandomi per riprendere il cammino verso l'esterno e verso l'alto, verso la luce del giorno, alzai lo sguardo alle pareti di nuda roccia che si estendevano senza fine lungo i bassi passaggi, e vidi, graffiata in un contorno ancor più rozzo, ma se possibile ancor più inconfondibile, la forma del Pesce.

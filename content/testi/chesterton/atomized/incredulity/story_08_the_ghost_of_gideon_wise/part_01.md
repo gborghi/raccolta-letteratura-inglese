@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/incredulity-(chesterton)">Incredulity</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/incredulity/story_07_the_doom_of_the_darnaways/part_09">‹ part 09</a><a class="ex-next" href="/testi/chesterton/atomized/incredulity/story_08_the_ghost_of_gideon_wise/part_02">part 02 ›</a></div>
@@ -144,3 +146,46 @@ each other, after all, were John Elias and Jacob P. Stein.
 They were so like in face and mind and manner, that the millionaire
 might have disappeared down a trap--door in the Babylon Hotel
 and come up again in the stronghold of the Bolshevists.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/incredulity-(chesterton)">Incredulity</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/incredulity/story_07_the_doom_of_the_darnaways/part_09">‹ part 09</a><a class="ex-next" href="/testi/chesterton/atomized/incredulity/story_08_the_ghost_of_gideon_wise/part_02">part 02 ›</a></div>
+</nav>
+
+OTTO:  Il fantasma di Gideon Wise
+
+PADRE BROWN considerò sempre quel caso come l'esempio più bizzarro della teoria dell'alibi: la teoria per cui si sostiene, a dispetto del mitologico uccello irlandese, che è impossibile per chiunque trovarsi in due luoghi contemporaneamente. Tanto per cominciare, James Byrne, essendo un giornalista irlandese, era forse ciò che più si avvicinava all'uccello irlandese. Egli riuscì ad approssimarsi, quanto è dato a chiunque, all'essere in due luoghi nello stesso momento: poiché si trovò in due luoghi collocati agli opposti estremi del mondo sociale e politico nel giro di venti minuti. Il primo erano le sale babilonesi del grande albergo, luogo d'incontro dei tre magnati del commercio impegnati a organizzare una serrata delle miniere di carbone e a denunciarla come uno sciopero del carbone; il secondo era una curiosa taverna, con la facciata di una drogheria, dove si riuniva il più sotterraneo triumvirato di coloro che sarebbero stati ben lieti di trasformare la serrata in uno sciopero — e lo sciopero in una rivoluzione. Il cronista andava e veniva tra i tre milionari e i tre capi bolscevichi con l'immunità dell'araldo moderno o del nuovo ambasciatore.
+
+Trovò i tre magnati delle miniere nascosti in una giungla di piante fiorite e in una foresta di colonne scanalate e sgargianti di stucco dorato; gabbie dorate pendevano in alto sotto le cupole dipinte, tra le foglie più elevate delle palme, e vi stavano dentro uccelli dai colori variopinti e dai versi disparati. Nessun uccello nel deserto cantò mai più inascoltato, e nessun fiore sprecò mai la propria dolcezza nell'aria del deserto più compiutamente di quanto i fiori di quelle alte piante sprecassero la loro su quegli uomini d'affari svelti e trafelati, per lo più americani, che parlavano e correvano avanti e indietro in quel luogo. E là, in mezzo a un tripudio di ornamenti rococò che nessuno guardava mai, a un cinguettio di costosi uccelli esotici che nessuno udiva mai, a una massa di sfarzose tappezzerie e a un labirinto di architetture lussuose, i tre uomini sedevano e discorrevano di come il successo si fondasse sul pensiero, sulla parsimonia, su una vigile economia e sull'autocontrollo.
+
+Uno di loro, per la verità, non parlava tanto quanto gli altri; ma osservava con occhi lucidissimi e immobili, che parevano stretti insieme dal suo pince-nez, e il sorriso perpetuo sotto i piccoli baffi neri somigliava piuttosto a un ghigno perpetuo. Costui era il famoso Jacob P. Stein, e non parlava se non quando aveva qualcosa da dire. Ma il suo compagno, il vecchio Gallup della Pennsylvania, un omone grasso e imponente dai venerandi capelli grigi ma con una faccia da pugile, parlava moltissimo. Era di umore gioviale e per metà stuzzicava, per metà tiranneggiava il terzo milionario, Gideon Wise — un vecchio uccello duro, secco e spigoloso, del tipo che i suoi connazionali paragonano al noce americano, con una rigida barba grigia sul mento e i modi e gli abiti di un qualsiasi vecchio contadino delle pianure centrali. C'era un'antica disputa tra Wise e Gallup a proposito di combinazione e concorrenza. Il vecchio Wise conservava ancora, con i modi del vecchio uomo dei boschi, qualcosa delle opinioni del vecchio individualista; apparteneva, come diremmo in Inghilterra, alla Scuola di Manchester; e Gallup cercava sempre di persuaderlo a eliminare la concorrenza e a mettere in comune le risorse del mondo.
+
+«Dovrai entrarci anche tu, vecchio mio, prima o poi», stava dicendo Gallup con affabilità mentre Byrne entrava. «È così che va il mondo, e non possiamo più tornare all'impresa a conduzione unica. Dobbiamo tutti fare fronte comune.»
+
+«Se posso dire una parola», disse Stein, nel suo modo tranquillo, «direi che c'è qualcosa di ancor più urgente che fare fronte comune sul piano commerciale. In ogni caso, dobbiamo fare fronte comune sul piano politico; ed è per questo che ho chiesto al signor Byrne di incontrarci qui oggi. Sulla questione politica dobbiamo unirci; per la semplice ragione che tutti i nostri nemici più pericolosi sono già uniti.»
+
+«Oh, sono pienamente d'accordo sull'unione politica», borbottò Gideon Wise.
+
+«Sentite», disse Stein al giornalista; «so che voi avete libero accesso a questi strani ambienti, signor Byrne, e vorrei che faceste qualcosa per noi in via ufficiosa. Voi sapete dove s'incontrano quegli uomini; ce ne sono solo due o tre che contano, John Elias e Jake Halket, che è quello che fa tutte le arringhe, e forse quel tale poeta, [[Home]].»
+
+«Ma se Home era un tempo amico di Gideon», disse il beffardo signor Gallup; «stava nella sua classe della [[Sunday|scuola domenicale]] o qualcosa del genere.»
+
+«Era un cristiano, allora», disse solennemente il vecchio Gideon; «ma quando un uomo si mette con gli atei non si sa mai. Lo incontro ancora ogni tanto. Ero prontissimo a sostenerlo contro la guerra e la coscrizione e tutto quel genere di cose, naturalmente, ma quando si arriva a tutti i maledetti bolscevichi del creato...»
+
+«Scusatemi», s'interpose Stein, «la faccenda è piuttosto urgente, sicché spero mi perdonerete se la sottopongo subito al signor Byrne. Signor Byrne, posso dirvi in confidenza che sono in possesso di informazioni, o meglio di prove, che manderebbero almeno due di quegli uomini in prigione per lunghe pene, in relazione a cospirazioni durante l'ultima guerra. Non voglio servirmi di quelle prove. Ma voglio che andiate da loro con discrezione e diciate loro che me ne servirò, e me ne servirò domani, a meno che non mutino atteggiamento.»
+
+«[[Well|Ebbene]]», replicò Byrne, «ciò che proponete verrebbe di certo definito occultamento di un reato e potrebbe essere definito ricatto. Non pensate che sia piuttosto pericoloso?»
+
+«Penso che sia piuttosto pericoloso per loro», disse Stein con uno scatto; «e voglio che andiate a dirglielo.»
+
+«Oh, molto [[Well|bene]]», disse Byrne alzandosi, con un sospiro semiironico. «Fa tutto parte del mestiere; ma se mi caccio nei guai, vi avverto che cercherò di trascinarci anche voi.»
+
+«Puoi provarci, ragazzo», disse il vecchio Gallup con una risata cordiale.
+
+Poiché tanto ancora sopravvive di quel grande sogno di Jefferson, e di quella cosa che gli uomini hanno chiamato [[democracy|Democrazia]], che nel suo paese, mentre i ricchi governano da tiranni, i poveri non parlano da schiavi; ma tra l'oppressore e l'oppresso vi è schiettezza.
+
+Il luogo d'incontro dei rivoluzionari era uno strano ambiente spoglio e imbiancato a calce, sulle cui pareti stavano uno o due schizzi deformi e rozzi in bianco e nero, nello stile di qualcosa che doveva essere Arte Proletaria, di cui non un proletario su un milione avrebbe saputo cavare né capo né coda. Forse l'unico punto in comune tra le due sale del consiglio era che entrambe violavano la Costituzione americana con l'esposizione di bevande alcoliche. Cocktail di vari colori erano stati posti dinanzi ai tre milionari. Halket, il più violento dei bolscevichi, ritenne opportuno bere soltanto vodka. Era un tipo lungo e goffo, con una curva minacciosa delle spalle, e il suo stesso profilo era aggressivo come quello di un cane, il naso e le labbra spinti in avanti insieme, queste ultime ornate da baffi rossi arruffati, e il tutto arricciato all'infuori in un perpetuo disprezzo. John Elias era un uomo bruno e vigile, con gli occhiali e una barba nera a punta; e aveva appreso in molti caffè europei il gusto dell'assenzio. Il primo e ultimo pensiero del giornalista fu quanto, in fin dei conti, John Elias e Jacob P. Stein si somigliassero. Erano tanto simili nel volto, nella mente e nei modi, che il milionario avrebbe potuto sparire per una botola nel Babylon Hotel e riemergere nella roccaforte dei bolscevichi.

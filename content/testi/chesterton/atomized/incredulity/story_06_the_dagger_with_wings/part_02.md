@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/incredulity-(chesterton)">Incredulity</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/incredulity/story_06_the_dagger_with_wings/part_01">‹ part 01</a><a class="ex-next" href="/testi/chesterton/atomized/incredulity/story_06_the_dagger_with_wings/part_03">part 03 ›</a></div>
@@ -122,3 +124,32 @@ had rather run to seed under the [[Shadow|shadow]] either of a delusion or a dan
 He had a fine aquiline face when seen in profile, but when seen full face
 the first impression was that of the untidiness and even the wilderness
 of his loose brown beard.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/incredulity-(chesterton)">Incredulity</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/incredulity/story_06_the_dagger_with_wings/part_01">‹ part 01</a><a class="ex-next" href="/testi/chesterton/atomized/incredulity/story_06_the_dagger_with_wings/part_03">part 03 ›</a></div>
+</nav>
+
+«E così», disse il prete con un sorriso, «vuole che un poliziotto gli faccia da cameriera perché la sua cameriera non vuole fargli da poliziotto.»
+
+«Anche a me parve un po' esagerato», convenne il dottore; «ma non me la sento di assumermi la responsabilità di un rifiuto netto prima di aver tentato un compromesso. Il compromesso siete voi.»
+
+«[[Well|Benissimo]]», disse [[Father Brown|Padre Brown]] con semplicità. «Andrò a fargli visita ora, se volete.»
+
+La campagna ondulata intorno alla cittadina era sigillata e serrata dal gelo, e il cielo era limpido e freddo come l'acciaio, salvo a nord-est, dove nuvole dagli aloni lividi cominciavano ad arrampicarsi lungo la volta. Era contro quei colori più cupi e più sinistri che la casa sulla collina brillava con una fila di pallidi pilastri, formando un breve colonnato di gusto classico. Una strada tortuosa vi saliva attraversando la curva del poggio, per poi tuffarsi in una massa di cespugli scuri. Proprio prima di raggiungere i cespugli l'aria pareva farsi sempre più fredda, come se egli si avvicinasse a una ghiacciaia o al Polo Nord. Ma era un uomo eminentemente pratico, che mai coltivava simili fantasie se non come fantasie. E si limitò a lanciare un'occhiata alla grande nuvola livida che avanzava strisciando sopra la casa, e osservò allegramente: «Sta per [[Snow|nevicare]].»
+
+Attraverso un basso cancello di ferro battuto ornamentale, di foggia italianeggiante, entrò in un [[Garden|giardino]] che aveva qualcosa di quella desolazione che appartiene soltanto al disordine delle cose ordinate. I germogli verde cupo erano grigi per la lieve polvere del [[Frost|gelo]], grosse erbacce avevano orlato il disegno sbiadito delle aiuole come in una cornice sfilacciata; e la [[house|casa]] stava come immersa fino alla cintola in una foresta stentata di arbusti e cespugli. La vegetazione consisteva in gran parte di sempreverdi o di piante assai resistenti; e sebbene fosse così fitta e pesante, era troppo nordica per potersi dire lussureggiante. La si sarebbe potuta definire una giungla artica. E così era, in un certo senso, anche la [[house|casa]] stessa, che con la sua fila di colonne e la sua facciata classica avrebbe potuto affacciarsi sul Mediterraneo; ma che ora pareva avvizzire nel [[Wind|vento]] del Mare del Nord. Qua e là l'ornamento classico accentuava il contrasto; cariatidi e maschere scolpite di [[Comedy|Commedia]] o di [[Tragedy|Tragedia]] guardavano dall'alto, dagli angoli dell'edificio, la grigia confusione dei sentieri del [[Garden|giardino]]; ma quei volti sembravano morsi dal [[Frost|gelo]]. Perfino le volute dei capitelli parevano essersi raggomitolate per il freddo.
+
+[[Father Brown|Padre Brown]] salì gli erbosi gradini fino a un portico quadrato fiancheggiato da grandi pilastri e bussò alla porta. Circa quattro minuti dopo, bussò di nuovo. Poi rimase immobile, ad attendere pazientemente con le spalle alla porta, e volse lo sguardo sul paesaggio che lentamente si oscurava. Si oscurava sotto l'[[Shadow|ombra]] di quell'unico grande continente di nuvola giunto in volo dal nord; e proprio mentre guardava oltre i pilastri del portico, che parevano enormi e neri sopra di lui nel crepuscolo, vide l'orlo opalescente e strisciante della grande nuvola mentre veleggiava sopra il tetto e si inarcava sul portico come un baldacchino. Il grande baldacchino, con le sue frange dai tenui colori, pareva calare sempre più giù sul [[Garden|giardino]] al di là, finché di quello che poco prima era stato un cielo d'[[Winter|inverno]] limpido e dai toni pallidi non rimasero che poche nastri e brandelli d'argento, come un tramonto malaticcio. [[Father Brown|Padre Brown]] attese, e dall'interno non venne alcun suono.
+
+Allora scese lestamente i gradini e girò intorno alla [[house|casa]] in cerca di un altro ingresso. Alla fine ne trovò uno, una porta laterale nel muro piano, e anche su questa martellò, e anche fuori da questa attese. Poi provò la maniglia e trovò la porta apparentemente sprangata o assicurata in qualche modo; e allora si mosse lungo quel lato della [[house|casa]], rimuginando sulle possibilità della situazione, e domandandosi se l'eccentrico signor Aylmer si fosse barricato troppo in profondità nella [[house|casa]] per udire qualsiasi richiamo; oppure se forse si sarebbe barricato tanto più saldamente, nella supposizione che ogni richiamo dovesse essere la sfida del vendicatore Strake. Poteva darsi che i domestici in fuga avessero soltanto aperto una porta al momento di andarsene, al mattino, e che il padrone l'avesse poi chiusa; ma qualunque cosa egli avesse fatto, era improbabile che essi, nello stato d'animo di quel momento, avessero badato con tanta cura alle difese. Egli proseguì il suo giro furtivo intorno al luogo: non era davvero un luogo grande, benché forse un po' pretenzioso; e in pochi istanti si accorse di averne compiuto l'intero circuito. Un momento dopo trovò ciò che sospettava e cercava. La [[Window|portafinestra]] di una stanza, velata e ombreggiata dal rampicante, stava aperta di uno spiraglio, indubbiamente lasciata socchiusa per caso, ed egli si ritrovò in una stanza centrale, comodamente tappezzata in una maniera piuttosto all'antica, con una scala che ne saliva da un lato e una porta che ne usciva dall'altro. Immediatamente di fronte a lui c'era un'altra porta con un vetro rosso incastonato, un po' troppo sgargiante per i gusti più recenti; qualcosa che somigliava a una figura in veste rossa in vetro colorato dozzinale. Su un tavolino rotondo alla sua destra c'era una sorta di acquario — una grande ampolla piena d'[[Water|acqua]] verdastra, in cui pesci e cose simili si muovevano come in una vasca; e proprio di fronte una pianta della varietà delle palme dalle grandi [[Leaves|foglie]] verdi. Tutto ciò appariva così polveroso e primo-vittoriano che il telefono, visibile nell'alcova velata da una tenda, riusciva quasi una sorpresa.
+
+«Chi è?» chiamò una voce, secca e piuttosto sospettosa, da dietro la porta a vetri colorati.
+
+«Potrei vedere il signor Aylmer?» chiese il prete in tono di scusa.
+
+La porta si aprì e ne uscì un gentiluomo in vestaglia verde pavone, con aria interrogativa. I capelli erano piuttosto ruvidi e in disordine, come se fosse stato a letto o vivesse in uno stato di perenne, lento levarsi; ma i suoi occhi non erano soltanto svegli, bensì all'erta, e taluni li avrebbero detti allarmati. [[Father Brown|Padre Brown]] sapeva che quella contraddizione era abbastanza probabile in un uomo che s'era piuttosto lasciato andare sotto l'[[Shadow|ombra]] di un'illusione o di un pericolo. Aveva un bel volto aquilino visto di profilo, ma visto di fronte la prima impressione era quella del disordine e persino della selvatichezza della sua sciolta barba castana.

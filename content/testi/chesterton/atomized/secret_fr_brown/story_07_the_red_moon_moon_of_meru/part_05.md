@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/secret-fr-brown-(chesterton)">secret Fr Brown</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/secret_fr_brown/story_07_the_red_moon_moon_of_meru/part_04">‹ part 04</a><a class="ex-next" href="/testi/chesterton/atomized/secret_fr_brown/story_07_the_red_moon_moon_of_meru/part_06">part 06 ›</a></div>
@@ -150,3 +152,70 @@ and Hunter who refused. He said he'd waste no [[Time|time]] on such nonsense;
 having apparently wasted a lot of his life on proving it to be nonsense.
 That seems inconsistent. He thought in this case it was crystal-
 gazing; but he found it was palmistry."
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/secret-fr-brown-(chesterton)">secret Fr Brown</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/secret_fr_brown/story_07_the_red_moon_moon_of_meru/part_04">‹ part 04</a><a class="ex-next" href="/testi/chesterton/atomized/secret_fr_brown/story_07_the_red_moon_moon_of_meru/part_06">part 06 ›</a></div>
+</nav>
+
+«Non ho mai creduto quanto ci credevate voi; ma ammetto che poteri di un certo tipo possano... Buon Dio!»
+
+La sua voce alta e dura s'era spezzata a mezz'aria, ed egli rimase impietrito a fissare; il monocolo gli cadde dall'occhio. Tutti volsero il viso nella medesima direzione; e su ogni volto pareva dipinta la stessa animazione sospesa.
+
+La [[Moon|Luna]] Rossa di Meru giaceva sul davanzale di pietra della [[Window|finestra]], esattamente come l'avevano vista l'ultima volta. Poteva essere una scintilla rossa soffiata lì da un falò, o un petalo di [[Rose|rosa]] rosso lasciato cadere da una [[Rose|rosa]] sfatta; ma era caduta precisamente nel punto stesso in cui Hardcastle l'aveva sbadatamente posata.
+
+Questa [[Time|volta]] Hardcastle non tentò di riprenderla; ma il suo contegno era alquanto notevole. Si voltò lentamente e riprese a passeggiare a grandi passi per la stanza; senonché nei suoi movimenti v'era qualcosa di autorevole, dove prima non v'era stato che inquietudine. Alla fine si arrestò dinanzi al Maestro, seduto, e s'inchinò con un sorriso alquanto sardonico.
+
+«Maestro», disse, «vi dobbiamo tutti delle scuse e, quel che più conta, ci avete impartito a tutti una lezione. Credetemi, servirà da lezione [[Well|così come]] da scherzo. Ricorderò sempre i poteri davvero singolari che possedete, e con quanta innocuità li usiate. Lady Mounteagle», proseguì, volgendosi verso di lei, «mi perdonerete d'essermi rivolto prima al Maestro; ma è a voi che ebbi l'[[Honour|onore]] di offrire questa spiegazione qualche [[Time|tempo]] fa. Posso dire d'averla spiegata prima ancora che accadesse. Vi dissi che la maggior parte di queste cose può essere interpretata attraverso una qualche forma d'ipnotismo. Molti ritengono che sia questa la spiegazione di tutte quelle storie indiane sulla pianta di mango e sul ragazzo che s'arrampica su una corda gettata in aria. Non accade davvero; ma gli spettatori sono ipnotizzati fino a immaginare che accada. Così noi tutti fummo ipnotizzati fino a immaginare che questo furto fosse accaduto. Quella mano bruna che entrava dalla [[Window|finestra]] e trafugava la gemma era un'illusione momentanea; una mano [[A Dream|in sogno]]. Solo che, avendo visto sparire la pietra, non la cercammo più là dov'era prima. Ci tuffammo nello stagno e rivoltammo ogni foglia dei gigli d'[[Water|acqua]]; poco mancava che propinassimo emetici ai pesci rossi. Ma il rubino era stato qui tutto il [[Time|tempo]].»
+
+E lanciò uno sguardo agli occhi opalescenti e alla bocca sorridente e barbuta del Maestro, e vide che il sorriso s'era fatto d'un'ombra più largo. V'era in esso qualcosa che fece balzare in piedi gli altri con un'aria di subito rilassamento e di generale, affannoso sollievo.
+
+«È uno scampo assai fortunato per tutti noi», disse Lord Mounteagle, sorridendo piuttosto nervosamente. «Non ci può essere il minimo [[Doubt|dubbio]] che sia come dite voi. È stato un episodio oltremodo penoso e davvero non so quali scuse...»
+
+«Non ho lagnanze da muovere», disse il Maestro della Montagna, sempre sorridendo. «Voi non avete mai toccato Me.»
+
+Mentre gli altri se ne andavano esultanti, con Hardcastle per [[Hero|eroe]] del momento, il piccolo Frenologo dai favoriti si diresse con passo indolente verso la sua tenda assurda. Voltandosi a guardare oltre la spalla, si sorprese di trovare [[Father Brown]] che lo seguiva.
+
+«Posso tastarvi le protuberanze?» domandò l'esperto, nel suo tono blandamente sarcastico.
+
+«Non credo che vogliate tastarne più alcuna, non è vero?» disse il prete di buon umore. «Voi siete un [[Detective|investigatore]], non è così?»
+
+«Già», rispose l'altro. «Lady Mounteagle mi ha chiesto di tenere d'occhio il Maestro, non essendo affatto una [[Fool|sciocca]], a dispetto di tutto il suo misticismo; e quando egli ha lasciato la sua tenda, non ho potuto seguirlo se non comportandomi da seccatore e da monomaniaco. Se qualcuno fosse entrato nella mia tenda, mi sarebbe toccato cercare le Protuberanze in un'enciclopedia.»
+
+«Protuberanze, ma guarda un po'; vedi Folk-Lore», osservò [[Father Brown]], sognante. «[[Well|Ebbene]], eravate proprio nella parte a tormentare la gente... a un bazar.»
+
+«Caso curioso, non è vero?» osservò il fallace Frenologo. «Strano pensare che la cosa era là tutto il [[Time|tempo]].»
+
+«Molto strano», disse il prete.
+
+Qualcosa nella sua voce fece fermare e fissare l'altro.
+
+«Sentite un po'!» esclamò; «che cosa avete? Perché mi guardate a quel modo? Non credete forse che fosse là tutto il [[Time|tempo]]?»
+
+[[Father Brown]] batté le palpebre quasi avesse ricevuto un colpo; poi disse lentamente e con esitazione: «No, il fatto è... che non riesco... non riesco proprio a convincermene.»
+
+«Non siete il tipo d'uomo», disse l'altro con acume, «da dire una cosa simile senza ragione. Perché non credete che il rubino fosse stato là tutto il [[Time|tempo]]?»
+
+«Solo perché ve l'ho rimesso io stesso», disse [[Father Brown]].
+
+L'altro rimase inchiodato al suolo, come uno cui i capelli si rizzino sul capo. Aprì la bocca senza proferir parola.
+
+«O piuttosto», proseguì il prete, «ho persuaso il ladro a lasciarmelo rimettere. Gli ho detto ciò che avevo indovinato e gli ho mostrato che c'era ancora [[Time|tempo]] per il pentimento. Non mi dispiace confidarvelo in segreto professionale; del resto, non credo che i Mounteagle sporgeranno denuncia, ora che hanno riavuto la cosa, specie considerando chi l'ha rubata.»
+
+«Volete dire il Maestro?» domandò il defunto Phroso.
+
+«No», disse [[Father Brown]], «il Maestro non l'ha rubata.»
+
+«Ma non capisco», obiettò l'altro. «Nessuno era fuori dalla [[Window|finestra]] tranne il Maestro; e una mano è venuta di certo da fuori.»
+
+«La mano è venuta da fuori, ma il ladro è venuto da dentro», disse [[Father Brown]].
+
+«Pare che siamo di nuovo tra i mistici. Sentite, io sono un uomo pratico; volevo solo sapere se tutto è a posto col rubino...»
+
+«Sapevo che tutto era fuori posto», disse [[Father Brown]], «prima ancora di sapere che ci fosse un rubino.»
+
+Dopo una pausa proseguì pensieroso. «Fin da quel loro battibecco, laggiù presso le tende, capii che le cose andavano storte. La gente vi dirà che le teorie non contano e che la [[logic|logica]] e la [[philosophy|filosofia]] non sono pratiche. Non credetele. La ragione viene da Dio, e quando le cose sono irragionevoli c'è qualcosa che non va. Ora, quella discussione del tutto astratta finì con qualcosa di buffo. Considerate quali erano le teorie. Hardcastle assumeva un'aria un tantino superiore e sosteneva che tutte le cose fossero perfettamente possibili; ma per lo più si compivano semplicemente per [[Mesmerism|mesmerismo]], o per chiaroveggenza; nomi scientifici per rompicapi filosofici, secondo il solito stile. Ma Hunter riteneva che fosse tutta pura frode e voleva smascherarla. Per testimonianza di Lady Mounteagle, egli non solo andava in giro a smascherare indovini e simili, ma era anzi sceso apposta per affrontare costui. Non veniva spesso; non andava d'accordo con Mounteagle, dal quale, da scialacquatore qual era, cercava sempre di farsi prestare denaro; ma quando seppe che il Maestro stava per venire, accorse in tutta fretta. Molto [[Well|bene]]. Nonostante ciò, fu Hardcastle ad andare a consultare lo stregone e Hunter a rifiutarsi. Disse che non avrebbe sprecato [[Time|tempo]] in simili sciocchezze; avendo, a quanto pare, sprecato gran parte della sua vita a dimostrare che erano sciocchezze. La cosa pare incoerente. Egli pensava che in questo caso si trattasse di lettura nella sfera di cristallo; ma scoprì che era chiromanzia.»

@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/secret-fr-brown-(chesterton)">secret Fr Brown</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/secret_fr_brown/story_02_the_man_with_two_beards/part_03">‹ part 03</a><a class="ex-next" href="/testi/chesterton/atomized/secret_fr_brown/story_02_the_man_with_two_beards/part_05">part 05 ›</a></div>
@@ -140,3 +142,74 @@ seriously mean to say that nice old man----"
 "Come, Mr. Devine," said Carver, with a smile, "you believed a beehive
 was only a hiding-place for me. Why shouldn't it be a hiding-place
 for him?"
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/secret-fr-brown-(chesterton)">secret Fr Brown</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/secret_fr_brown/story_02_the_man_with_two_beards/part_03">‹ part 03</a><a class="ex-next" href="/testi/chesterton/atomized/secret_fr_brown/story_02_the_man_with_two_beards/part_05">part 05 ›</a></div>
+</nav>
+
+«Sono così contenta che sia venuto. Ho visto un [[Ghost|fantasma]].»
+
+«Non c'è bisogno di angosciarsi per questo», disse. «Càpita spesso. La maggior parte dei [[Ghosts|fantasmi]] non sono [[Ghosts|fantasmi]], e i pochi che possono esserlo non le faranno alcun male. Era un [[Ghost|fantasma]] in particolare?»
+
+«No», ammise, con un vago senso di sollievo, «non era tanto la cosa in sé quanto un'atmosfera di spaventosa [[Decay|decadenza]], una sorta di rovina luminosa. Era un volto. Un volto alla [[Window|finestra]]. Ma era pallido e sgranava gli occhi, e somigliava al ritratto di Giuda.»
+
+«[[Well|Ebbene]], certa gente ha proprio quell'aspetto», rifletté il prete, «e oserei dire che talvolta si affacciano alle finestre. Posso entrare a vedere dove è successo?»
+
+Quando ella tornò nella stanza col visitatore, tuttavia, altri membri della famiglia si erano radunati, e quelli di abitudini meno psichiche avevano ritenuto opportuno accendere le lampade. In presenza della signora Bankes, [[Father Brown]] assunse una cortesia più convenzionale, e si scusò per l'intrusione.
+
+«Temo di prendermi una libertà con la vostra [[house|casa]], signora Bankes», disse. «Ma credo di poter spiegare come mai la faccenda venga a riguardarvi. Ero su alla dimora dei Pulman poco fa, quando fui chiamato al telefono e pregato di venire qui a incontrare un uomo che sta per giungere a comunicare qualcosa che potrebbe essere di un certo peso per voi. Non mi sarei aggiunto alla compagnia, se non che sono richiesto, a quanto pare, perché sono testimone di ciò che è accaduto su a Beechwood. Anzi, sono stato io a dover dare l'allarme.»
+
+«Cos'è accaduto?» ripeté la signora.
+
+«C'è stata una rapina su, a Beechwood [[house|House]]», disse [[Father Brown]], gravemente; «una rapina, e ciò che [[Fear|temo]] sia peggio, i gioielli di Lady Pulman sono spariti; e il suo sventurato segretario, il signor Barnard, è stato raccolto nel [[Garden|giardino]], essendo stato evidentemente colpito da un colpo d'arma da fuoco dallo scassinatore in fuga.»
+
+«Quell'uomo», proruppe la signora della [[house|casa]]. «Credo che fosse----»
+
+Ella incontrò lo sguardo [[Grave|grave]] del prete, e le parole d'un tratto le vennero meno; non seppe mai perché.
+
+«Mi sono messo in comunicazione con la polizia», proseguì, «e con un'altra autorità interessata a questo caso; e dicono che persino un esame superficiale ha rivelato impronte di piedi e impronte digitali e altri indizi di un [[Well|ben]] noto criminale.»
+
+A questo punto, la riunione fu per un momento disturbata dal ritorno di John Bankes, da quella che pareva essere stata una spedizione fallita in automobile. Il vecchio [[smith|Smith]] pareva essere stato, dopotutto, un passeggero deludente.
+
+«Se l'è squagliata, dopotutto, all'ultimo minuto», annunciò con rumoroso disgusto. «È scappato mentre guardavo quella che credevo una foratura. È l'ultima [[Time|volta]] che mi carico uno di questi villani----»
+
+Ma le sue lagnanze ricevettero scarsa attenzione nell'eccitazione generale che si raccoglieva intorno a [[Father Brown]] e alle sue notizie.
+
+«Qualcuno arriverà tra un momento», proseguì il prete, con la stessa aria di ponderato riserbo, «che mi solleverà da questa responsabilità. Quando vi avrò messo di fronte a lui, avrò compiuto il mio dovere di testimone in una faccenda seria. Mi resta solo da dire che una domestica su a Beechwood [[house|House]] mi ha detto di aver visto un volto a una delle finestre----»
+
+«Io ho visto un volto», disse Opal, «a una delle nostre finestre.»
+
+«Oh, tu vedi sempre volti», disse rudemente suo fratello John.
+
+«È [[Well|bene]] vedere i fatti anche quando sono volti», disse [[Father Brown]] con equanimità, «e credo che il volto che hai visto----»
+
+Un altro colpo alla porta d'ingresso risuonò per la [[house|casa]], e un minuto dopo la porta della stanza si aprì e un'altra figura comparve. Devine si [[Rose|sollevò]] a metà dalla sedia alla sua vista.
+
+Era una figura alta ed eretta, con un volto lungo e piuttosto cadaverico, terminante in un formidabile mento. La fronte era piuttosto calva, e gli occhi lucenti e azzurri, che Devine aveva visto l'ultima volta oscurati da un ampio cappello di paglia.
+
+«Vi prego, nessuno si muova», disse l'uomo chiamato Carver, in tono chiaro e cortese. Ma alla mente turbata di Devine la cortesia aveva un'ominosa somiglianza con quella di un brigante che tiene immobile una compagnia con una [[Pistol|pistola]].
+
+«La prego di sedersi, signor Devine», disse Carver; «e, col permesso della signora Bankes, seguirò il suo esempio. La mia presenza qui esige una spiegazione. Immagino che mi abbiate sospettato di essere un eminente e distinto scassinatore.»
+
+«Sì», disse Devine cupamente.
+
+«Come lei ha osservato», disse Carver, «non è sempre facile distinguere una vespa da un'ape.»
+
+Dopo una pausa, continuò: «Posso vantarmi di essere uno degli [[Insects|insetti]] più utili, benché egualmente fastidiosi. Sono un [[Detective|investigatore]], e sono venuto quaggiù a indagare su un presunto rinnovarsi delle attività del criminale che si fa chiamare [[Michael]] Moonshine. Le rapine di [[Jewel|gioielli]] erano la sua specialità; e ce n'è appena stata una a Beechwood [[house|House]], che, per tutte le prove tecniche, è manifestamente opera sua. Non solo le impronte corrispondono, ma forse saprete che quando fu arrestato l'ultima volta, e si crede anche in altre occasioni, indossava un travestimento semplice ma efficace fatto di una barba rossa e di un paio di grandi occhiali dalla montatura di corno.»
+
+Opal Bankes si sporse in avanti con ferocia.
+
+«Era quello», gridò eccitata, «era quello il volto che ho visto, con grandi occhialoni e una barba rossa e irsuta come Giuda. Credevo fosse un [[Ghost|fantasma]].»
+
+«Era anche il [[Ghost|fantasma]] che la domestica di Beechwood ha visto», disse Carver seccamente.
+
+Posò alcune carte e pacchetti sul tavolo, e cominciò a dispiegarli con cura. «Come dicevo», continuò, «fui mandato quaggiù a fare indagini sui piani criminali di quest'uomo, Moonshine. Ecco perché mi sono interessato all'apicoltura e sono andato ad alloggiare dal signor [[smith|Smith]].»
+
+Ci fu un [[Silence|silenzio]], e poi Devine sobbalzò e parlò: «Non vorrà mica dire sul serio che quel simpatico vecchietto----»
+
+«Suvvia, signor Devine», disse Carver, con un sorriso, «lei ha creduto che un'arnia fosse soltanto un nascondiglio per me. Perché non dovrebbe essere un nascondiglio per lui?»

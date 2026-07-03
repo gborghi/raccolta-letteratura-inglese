@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/secret-fr-brown-(chesterton)">secret Fr Brown</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/secret_fr_brown/story_05_the_vanishing_of_vaudrey/part_04">‹ part 04</a><a class="ex-next" href="/testi/chesterton/atomized/secret_fr_brown/story_05_the_vanishing_of_vaudrey/part_06">part 06 ›</a></div>
@@ -133,3 +135,132 @@ for hating the squire?"
 
 The man in the corner babbled something that [[smith|Smith]] could not hear; but
 the priest nodded.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/secret-fr-brown-(chesterton)">secret Fr Brown</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/secret_fr_brown/story_05_the_vanishing_of_vaudrey/part_04">‹ part 04</a><a class="ex-next" href="/testi/chesterton/atomized/secret_fr_brown/story_05_the_vanishing_of_vaudrey/part_06">part 06 ›</a></div>
+</nav>
+
+«Cosa vi prende?» domandò [[smith|Smith]] con una certa esasperazione; poiché
+[[Father Brown]] stava [[rolling|roteando]] gli occhi e borbottando, e aveva pronunciato la
+parola «tabaccaio» come se fosse una terribile parola di sventura.
+
+«Avete notato,» disse il prete, dopo una pausa, «qualcosa di piuttosto
+curioso nel suo volto?»
+
+«Curioso, mio Dio!» disse Evan, con un brivido retrospettivo. «Comunque, gli avevano
+tagliato la gola...»
+
+«Ho detto il suo volto,» disse il religioso con calma. «Del resto, non avete notato
+che si è ferito la mano e c'è una piccola benda intorno?»
+
+«Oh, quello non ha nulla a che vedere,» disse Evan in fretta. «È accaduto
+prima ed è stato del tutto un incidente. Si tagliò la mano con una boccetta d'inchiostro
+rotta mentre lavoravamo insieme.»
+
+«Ha comunque qualcosa a che vedere, malgrado ciò,» replicò [[Father Brown]].
+
+Vi fu un lungo [[Silence|silenzio]], e il prete camminò cupamente lungo la sabbia,
+trascinando l'ombrello e talvolta borbottando la parola «tabaccaio»,
+finché quella stessa parola gelò l'amico di [[Fear|paura]]. Poi improvvisamente sollevò
+l'ombrello e indicò una [[house|rimessa per barche]] fra i giunchi.
+
+«È quella la barca di famiglia?» chiese. «Vorrei che mi remaste su per il
+[[River|fiume]]; voglio guardare quelle case da dietro. Non c'è [[Time|tempo]] da
+perdere. Potrebbero trovare il [[Body|corpo]]; ma dobbiamo correre il rischio.»
+
+[[smith|Smith]] stava già spingendo la piccola barca controcorrente verso il [[Hamlet|borgo]]
+prima che [[Father Brown]] parlasse di nuovo. Poi disse:
+
+«A proposito, ho scoperto dal vecchio Abbott qual era la vera storia della
+malefatta del povero Vaudrey. Era una storia piuttosto curiosa su un
+funzionario egiziano che lo aveva insultato dicendo che un buon musulmano
+avrebbe evitato i porci e gli inglesi, ma preferiva i porci; o qualche
+osservazione altrettanto delicata. Qualunque cosa accadde all'[[Time|epoca]], la lite fu
+apparentemente rinnovata qualche anno dopo, quando il funzionario visitò l'Inghilterra;
+e Vaudrey, nella sua violenta passione, trascinò l'uomo a un porcile
+nella fattoria annessa alla [[house|casa]] di campagna e ve lo gettò, rompendogli il
+braccio e la gamba e lasciandovelo fino al mattino seguente. Ci fu un bel
+putiferio in proposito, naturalmente, ma molti pensarono che Vaudrey avesse agito in una
+scusabile passione di patriottismo. Comunque, non sembra proprio il genere di cosa
+che avrebbe tenuto un uomo in silenzio sotto un ricatto mortale per decenni.»
+
+«Allora non pensate che avesse a che vedere con la storia che stiamo
+esaminando?» chiese il segretario, pensieroso.
+
+«Penso che avesse un maledetto sacco a che vedere con la storia che sto esaminando
+ora,» disse [[Father Brown]].
+
+Stavano ora scivolando oltre il muretto basso e le ripide strisce di [[Garden|giardino]] posteriore
+che scendevano dalle porte sul retro fino al [[River|fiume]]. [[Father Brown]]
+le contò attentamente, indicando con l'ombrello, e quando arrivò
+al terzo disse di nuovo:
+
+«Tabaccaio! È forse il tabaccaio, per caso...? Ma credo che
+agirò sulla base della mia congettura finché non saprò. Solo, vi dirò cos'era che ho trovato
+strano nel volto di Sir [[Arthur]].»
+
+«E cos'era?» chiese il suo compagno, fermandosi e appoggiandosi ai suoi
+remi per un istante.
+
+«Era un gran dandy,» disse [[Father Brown]], «e il volto era solo per metà
+rasato... Potreste fermarvi qui un momento? Potremmo legare la barca a
+quel palo.»
+
+Un minuto o due dopo si erano arrampicati oltre il muretto ed
+stavano salendo i ripidi sentieri acciottolati del piccolo [[Garden|giardino]], con le sue
+aiuole rettangolari di ortaggi e [[Flowers|fiori]].
+
+«Vedete, il tabaccaio coltiva davvero le patate,» disse [[Father Brown]].
+«Associazioni con Sir Walter Raleigh, senza [[Doubt|dubbio]]. Un mucchio di patate e
+un mucchio di sacchi di patate. Questa piccola gente di campagna non ha perduto tutte
+le abitudini dei contadini; svolgono ancora due o tre mestieri alla volta. Ma
+i tabaccai di campagna molto spesso fanno un mestiere in più, a cui io non
+avevo mai pensato finché non ho visto il mento di Vaudrey. Nove volte su dieci chiamate
+la bottega la tabaccheria, ma è anche la barbieria. Si era tagliato la mano
+e non poteva radersi da solo; così venne quassù. Vi suggerisce
+qualcos'altro, questo?»
+
+«Suggerisce parecchio,» replicò [[smith|Smith]]; «ma m'aspetto che suggerirà
+parecchio di più a voi.»
+
+«Suggerisce, per esempio,» osservò [[Father Brown]], «le uniche
+condizioni in cui un gentiluomo vigoroso e piuttosto violento potrebbe
+star sorridendo piacevolmente mentre gli si taglia la gola?»
+
+Un momento dopo avevano attraversato uno o due bui corridoi sul
+retro della [[house|casa]], ed entrarono nella stanza sul retro della bottega, fiocamente illuminata da
+luce filtrata proveniente dall'esterno e da uno specchio polveroso e incrinato. Sembrava,
+in qualche modo, il verde crepuscolo di una vasca; ma c'era luce
+sufficiente per vedere il rudimentale armamentario di una bottega di barbiere e il pallido e
+persino attonito volto di un barbiere.
+
+L'occhio di [[Father Brown]] vagò per la stanza, che sembrava essere stata appena
+di recente pulita e riordinata, finché il suo sguardo trovò qualcosa in un polveroso
+angolo proprio dietro la porta. Era un cappello appeso a un attaccapanni. Era
+un cappello bianco, e assai [[Well|ben]] noto a tutto quel villaggio. Eppure,
+per quanto vistoso fosse sempre parso nella strada, sembrava solo un
+esempio di quel genere di piccola cosa che un certo tipo di uomo spesso dimentica del tutto,
+quando ha lavato con la massima cura i pavimenti o distrutto stracci
+macchiati.
+
+«Sir [[Arthur]] Vaudrey fu rasato qui ieri mattina, credo,» disse
+[[Father Brown]] con voce piana.
+
+Per il barbiere, un ometto piccolo, calvo e occhialuto di nome
+Wicks, l'improvvisa apparizione di queste due figure dal suo stesso retrobottega
+fu come l'apparizione di due [[Ghosts|fantasmi]] risorti da una [[Grave|tomba]]
+sotto il pavimento. Ma fu subito evidente che aveva più motivo
+di spaventarsi di qualsiasi fantasia superstiziosa. Si ritrasse, potremmo quasi
+dire che raggrinzì, in un angolo della stanza buia; e tutto
+in lui pareva rimpicciolire, tranne i suoi grandi occhiali da folletto.
+
+«Ditemi una cosa,» continuò il prete, con calma. «Avevate un motivo
+per odiare lo squire?»
+
+L'uomo nell'angolo balbettò qualcosa che [[smith|Smith]] non riuscì a udire; ma
+il prete annuì.

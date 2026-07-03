@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/secret-fr-brown-(chesterton)">secret Fr Brown</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/secret_fr_brown/story_01_the_mirror_mirror_of_the_magistrate/part_06">‹ part 06</a><a class="ex-next" href="/testi/chesterton/atomized/secret_fr_brown/story_02_the_man_with_two_beards/part_01">part 01 ›</a></div>
@@ -108,3 +110,107 @@ he--"
 
 "Yes," said Bagshaw, "he shot at the same man again, but not in a
 [[Mirror|mirror]]."
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/secret-fr-brown-(chesterton)">secret Fr Brown</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/secret_fr_brown/story_01_the_mirror_mirror_of_the_magistrate/part_06">‹ part 06</a><a class="ex-next" href="/testi/chesterton/atomized/secret_fr_brown/story_02_the_man_with_two_beards/part_01">part 01 ›</a></div>
+</nav>
+
+«[[Well|Insomma]], a che altro avrebbe potuto sparare, se non a Gwynne?» chiese il
+[[Detective|detective]].
+
+«È un punto metafisico piuttosto sottile» rispose il suo compagno in abito
+talare, quasi trasognato. «In un certo senso, naturalmente, sparava a Gwynne. Ma
+Gwynne non era là per essere colpito. Il criminale era [[Alone|solo]] nell'atrio.»
+
+Rimase in silenzio un istante, poi proseguì con calma. «Immagini lo
+specchio in fondo al corridoio, prima che andasse in frantumi, e la
+palma alta che vi si inarcava sopra. Nella penombra, riflettendo quelle
+pareti monocrome, sarebbe sembrato la fine del corridoio. Un uomo
+riflesso in esso sarebbe sembrato un uomo che veniva dall'interno della [[house|casa]].
+Sarebbe sembrato il padrone di [[house|casa]]... purché il riflesso gli
+somigliasse anche solo un poco.»
+
+«Un momento» esclamò Bagshaw. «Credo di cominciare a...»
+
+«Comincia a vedere» disse [[Father Brown]]. «Comincia a vedere perché tutti
+i sospetti di questo caso devono essere [[Innocent|innocenti]]. Nessuno di loro avrebbe potuto
+scambiare il proprio riflesso per il vecchio Gwynne. Orm avrebbe capito
+subito che quel suo cespuglio di capelli gialli non era una testa calva. Flood avrebbe
+visto la propria testa rossa, e Green il proprio panciotto rosso. Del resto sono
+tutti bassi e malmessi; nessuno di loro avrebbe potuto credere che la propria immagine fosse
+un signore alto, magro e anziano in abito da sera. Ci occorre un altro, altrettanto
+alto e magro, che gli faccia riscontro. È questo che intendevo dicendo che sapevo
+che aspetto avesse l'assassino.»
+
+«E che cosa ne deduce?» chiese Bagshaw, fissandolo
+con fermezza.
+
+Il prete emise una sorta di risata secca e tagliente, stranamente diversa
+dal suo consueto modo mite di parlare.
+
+«Mi accingo a sostenere» disse, «proprio ciò che lei diceva essere così
+ridicolo e impossibile.»
+
+«Cosa volete dire?»
+
+«Fonderò la difesa» disse [[Father Brown]], «sul fatto che
+il pubblico accusatore ha la testa calva.»
+
+«Oh, mio Dio!» disse il [[Detective|detective]] a bassa voce, e si alzò in piedi, con lo sguardo fisso.
+
+[[Father Brown]] aveva ripreso il suo monologo con aria imperturbabile.
+
+«Lei ha seguito i movimenti di parecchie persone in questa
+faccenda; voi poliziotti eravate prodigiosamente interessati ai movimenti
+del poeta, del domestico e dell'irlandese. Colui i cui movimenti
+sembrano essere stati piuttosto dimenticati è il morto stesso. Il suo domestico
+fu del tutto sinceramente sbalordito nello scoprire che il padrone era tornato. Il
+padrone era andato a un gran pranzo di tutti i luminari della professione
+legale, ma lo aveva lasciato bruscamente ed era tornato a [[Home|casa]]. Non stava male, perché
+non chiese alcun soccorso; con ogni probabilità aveva litigato con qualche
+luminare della professione legale. È tra i luminari di quella
+professione che avremmo dovuto cercare per primo il suo nemico. Tornò,
+e si chiuse nel bungalow, dove custodiva tutti i suoi
+documenti privati sulle pratiche di tradimento. Ma il luminare della professione
+legale, che sapeva esservi qualcosa contro di sé in quei documenti,
+fu tanto premuroso da seguire il suo accusatore fino a [[Home|casa]]; anch'egli in
+abito da sera, ma con una [[Pistol|pistola]] in tasca. Ecco tutto; e
+nessuno avrebbe mai potuto immaginarlo, se non fosse stato per lo [[Mirror|specchio]].»
+
+Parve fissare il vuoto per un istante, poi aggiunse:
+
+«Strana cosa è uno [[Mirror|specchio]]; una cornice che racchiude centinaia di
+immagini diverse, tutte vivide e tutte svanite per sempre. Eppure c'era
+qualcosa di particolarmente strano nel vetro appeso in fondo a quel
+grigio corridoio, sotto quella verde palma. È come se fosse un [[Magic|magico]] vetro
+e avesse un destino diverso dagli altri, come se la sua immagine potesse in qualche modo
+sopravvivergli, sospesa nell'aria di quella [[house|casa]] al crepuscolo come uno spettro; o
+almeno come un diagramma astratto, lo [[skeleton|scheletro]] di un ragionamento. Potremmo,
+almeno, evocare dal nulla ciò che vide Sir [[Arthur]]
+Travers. E, a proposito, c'era una cosa verissima che lei ha detto
+sul suo conto.»
+
+«Sono lieto di sentirlo» disse Bagshaw con torva buona [[Nature|indole]]. «Quale
+era?»
+
+«Lei ha detto» osservò il prete «che Sir [[Arthur]] doveva avere qualche buona
+ragione per volere Orm impiccato.»
+
+Una settimana dopo il prete incontrò di nuovo il [[Detective|detective]] della polizia, e apprese
+che le autorità si erano già mosse sulle nuove piste d'indagine
+quando furono interrotte da un evento clamoroso.
+
+«Sir [[Arthur]] Travers» cominciò [[Father Brown]].
+
+«Sir [[Arthur]] Travers è morto» disse Bagshaw, seccamente.
+
+«Ah!» disse l'altro, con un lieve nodo alla voce; «vuol dire che
+egli...»
+
+«Sì» disse Bagshaw, «ha sparato di nuovo allo stesso uomo, ma non in uno
+[[Mirror|specchio]].»

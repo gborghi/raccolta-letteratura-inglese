@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/incredulity-(chesterton)">Incredulity</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/incredulity/story_08_the_ghost_of_gideon_wise/part_06">‹ part 06</a><span></span></div>
@@ -88,3 +90,34 @@ the climbing adventure.'
 And how very literary!  [[Home]] is a sneak and a skunk, but do
 not forget that, like many other sneaks and skunks in [[history]],
 he is also a poet.'
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/incredulity-(chesterton)">Incredulity</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/incredulity/story_08_the_ghost_of_gideon_wise/part_06">‹ part 06</a><span></span></div>
+</nav>
+
+«E anche una spiegazione lucidissima» disse il giornalista con trasporto.
+
+Rimasero per un [[Time|po']] a contemplare il mare in [[Silence|silenzio]], poi [[Father Brown]] riprese con tono allegro: «E così eccoci di nuovo alla ghiacciaia. Il punto in cui, fin dal principio, in questa faccenda avete preso tutti la strada sbagliata è lo stesso in cui la prende buona parte dei giornali e degli uomini pubblici. Ed è perché avete dato per scontato che nel mondo moderno non ci sia nulla per cui valga la pena battersi, tranne il bolscevismo. Questa storia non ha nulla a che vedere con il bolscevismo; se non forse come paravento.»
+
+«Non vedo come sia possibile» obiettò Byrne. «Qui abbiamo i tre milionari di quell'unica impresa assassinati...»
+
+«No!» disse il prete con voce acuta e squillante. «Non è così. È proprio questo il punto. Non avete tre milionari assassinati. Ne avete due assassinati; e avete il terzo milionario vivo e vegeto, pronto a scalciare e prontissimo a farlo. E avete quel terzo milionario liberato per sempre dalla minaccia che gli era stata scagliata contro sotto i vostri stessi occhi, in termini scherzosamente cortesi, in quella conversazione che avete descritto come avvenuta in albergo. Gallup e Stein minacciarono il più vecchio stampo e più indipendente dei bottegai, dicendogli che, se non fosse entrato nel loro cartello, l'avrebbero messo al gelo. Da qui la ghiacciaia, naturalmente.»
+
+Dopo una pausa proseguì. «C'è indubbiamente un movimento bolscevico nel mondo moderno, e indubbiamente gli si deve resistere, per quanto io non creda granché nel vostro modo di resistergli. Ma ciò che nessuno nota è che esiste un altro movimento altrettanto moderno e altrettanto in marcia: il grande movimento verso il monopolio, ossia la trasformazione di tutti i commerci in trust. Anche quella è una rivoluzione. Anche quella produce ciò che producono tutte le rivoluzioni. Per quella, e contro quella, gli uomini uccidono, come fanno per il bolscevismo e contro di esso. Ha i suoi ultimatum, le sue invasioni e le sue esecuzioni. Questi magnati dei trust hanno le loro corti come i re; hanno le loro guardie del corpo e i loro sicari; hanno le loro spie nel campo nemico. Home era una delle spie del vecchio Gideon in uno dei campi nemici; ma qui venne usato contro un altro nemico: i rivali che lo stavano rovinando perché non si piegava.»
+
+«Continuo a non capire bene in che modo sia stato usato» disse Byrne, «né a che cosa servisse.»
+
+«Ma non capite» esclamò [[Father Brown]] in tono aspro, «che si fornirono l'un l'altro un alibi?»
+
+Byrne continuava a guardarlo con una punta di dubbio, benché sul suo volto stesse albeggiando la comprensione.
+
+«È questo che intendo» proseguì l'altro, «quando dico che erano dentro perché ne erano fuori. Quasi tutti direbbero che dovevano essere estranei agli altri due delitti, perché erano implicati in questo. In realtà erano implicati negli altri due proprio perché erano estranei a questo; perché questo non è mai avvenuto affatto. Un genere di alibi molto strano e improbabile, certo; improbabile, e perciò impenetrabile. Quasi tutti direbbero che un uomo il quale confessa un omicidio dev'essere sincero; che un uomo il quale perdona il proprio assassino dev'essere sincero. A nessuno verrebbe in mente l'idea che la cosa non sia mai avvenuta, sicché l'uno non aveva nulla da perdonare e l'altro nulla da temere. Furono inchiodati qui per quella notte da una storia che li accusava. Ma quella notte non erano qui; perché Home stava assassinando il vecchio Gallup nel bosco, mentre Wise strangolava quel piccolo ebreo nel suo bagno romano. Ecco perché mi domando se Wise fosse davvero abbastanza robusto per l'impresa dell'arrampicata.»
+
+«Era proprio una bella impresa» disse Byrne con rammarico. «Si incastonava nel paesaggio, ed era davvero assai convincente.»
+
+«Troppo convincente per convincere» disse [[Father Brown]], scuotendo il capo. «Com'era vivida quella schiuma illuminata dalla luna, scagliata in alto e mutata in un [[Ghost|fantasma]]. E com'era letteraria! [[Home]] è un vigliacco e una carogna, ma non dimenticate che, come tanti altri vigliacchi e carogne nella [[history|storia]], è anche un poeta.»

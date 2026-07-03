@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/secret-fr-brown-(chesterton)">secret Fr Brown</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/secret_fr_brown/story_02_the_man_with_two_beards/part_02">‹ part 02</a><a class="ex-next" href="/testi/chesterton/atomized/secret_fr_brown/story_02_the_man_with_two_beards/part_04">part 04 ›</a></div>
@@ -148,3 +150,74 @@ as if they did not matter. It was not so much that he did not sympathize
 with her opinions, as that he did sympathize but did not agree. All this
 was in some sort of chaos in her mind as she found herself saying,
 without greeting, or waiting to hear his business:
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/secret-fr-brown-(chesterton)">secret Fr Brown</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/secret_fr_brown/story_02_the_man_with_two_beards/part_02">‹ part 02</a><a class="ex-next" href="/testi/chesterton/atomized/secret_fr_brown/story_02_the_man_with_two_beards/part_04">part 04 ›</a></div>
+</nav>
+
+«Ehi», irruppe l'irrefrenabile John, prima che Devine potesse offrire un qualsiasi cortese saluto, «ve l'ho portata qui perché ci facciate un giretto. Vedrete se non è meglio di una "Thunderbolt".»
+
+La bocca del signor Carver si atteggiò a un sorriso che forse voleva essere grazioso, ma appariva piuttosto arcigno. «Temo che stasera sarò troppo occupato per i piaceri», disse.
+
+«Come opera l'affaccendata piccola ape», osservò Devine, altrettanto enigmaticamente. «Le sue [[Bees|api]] devono essere ben affaccendate se la tengono al lavoro tutta la [[Night|notte]]. Mi stavo domandando se----»
+
+«[[Well|Ebbene]]?» incalzò Carver, con una certa fredda sfida.
+
+«[[Well|Ebbene]], si dice che si debba fare il fieno finché splende il sole», disse Devine. «Forse lei fa il miele finché splende la [[Moon|luna]].»
+
+Venne un lampo dall'[[Shadow|ombra]] del cappello a larga tesa, mentre il bianco degli occhi dell'uomo si spostava e brillava.
+
+«Forse c'è parecchio chiaro di luna in questa faccenda», disse: «ma l'avverto, le mie [[Bees|api]] non fanno soltanto il miele. Pungono.»
+
+«Viene con noi in auto?» insistette il fissante John. Ma Carver, benché si fosse scrollato di dosso quel momentaneo tono di sinistra allusività con cui aveva risposto a Devine, era pur sempre reciso nel suo cortese rifiuto.
+
+«Non posso proprio andare», disse. «Ho un mucchio di scrittura da sbrigare. Forse avreste la cortesia di offrire un giretto a qualcuno dei miei amici, se volete compagnia. Questo è il mio amico, il signor [[smith|Smith]], [[Father Brown]]-»
+
+«Ma certo», esclamò Bankes; «vengano tutti quanti.»
+
+«Grazie infinite», disse [[Father Brown]]. «Temo che dovrò declinare; devo recarmi alla Benedizione fra pochi minuti.»
+
+«Allora il signor [[smith|Smith]] fa al caso vostro», disse Carver, con qualcosa di quasi simile all'impazienza. «Sono certo che [[smith|Smith]] [[Longing|brama]] un giro in automobile.»
+
+[[smith|Smith]], che sfoggiava un ampio sogghigno, non recava alcuna apparenza di [[Longing|bramare]] alcunché. Era un ometto attivo e anziano con una parrucca assai onesta; una di quelle parrucche che non sembrano più naturali di un cappello. La sua sfumatura di giallo stonava col suo incolore incarnato. Scosse il capo e rispose con amabile ostinazione:
+
+«Ricordo che feci questa [[Road|strada]] dieci anni fa -- su uno di quei marchingegni. Ci venni dalla casa di mia sorella a Holmgate, e da allora non ho più percorso quella [[Road|strada]] in auto. Fu un viaggio scomodo, ve lo assicuro.»
+
+«Dieci anni fa!» sbuffò John Bankes. «Duemila anni fa andavate in carro coi buoi. Credete che le auto non siano cambiate in dieci anni -- e anche le strade, se è per questo? Nel mio piccolo bolide non ci si accorge nemmeno che le ruote girano. Ci si crede addirittura di volare.»
+
+«Sono certo che [[smith|Smith]] vuole volare», incalzò Carver. «È il sogno della sua vita. Andiamo, [[smith|Smith]], vada fino a Holmgate a trovare sua sorella. Lo sa che dovrebbe andare a trovare sua sorella. Ci vada e ci passi la [[Night|notte]], se le va.»
+
+«[[Well|Ebbene]], di solito ci vado a piedi, e così di solito ci passo la [[Night|notte]]», disse il vecchio [[smith|Smith]]. «Non c'è bisogno di disturbare il signore quest'oggi, in particolare.»
+
+«Ma pensi che spasso sarà per sua sorella vederla arrivare in automobile!» esclamò Carver. «Dovrebbe proprio andarci. Non sia così egoista.»
+
+«Ecco», assentì Bankes, con esuberante benevolenza. «Non sia egoista. Non le farà male. Non ne ha paura, vero?»
+
+«[[Well|Ebbene]]», disse il signor [[smith|Smith]], sbattendo le palpebre pensosamente, «non voglio essere egoista, e non credo di aver paura -- verrò con voi, se la mettete così.»
+
+La coppia partì, tra saluti agitati con la mano che sembravano in qualche modo dare al piccolo gruppo l'aspetto di una folla plaudente. Eppure Devine e il prete si unirono soltanto per cortesia, ed entrambi sentirono che era il gesto dominante del loro ospite a conferirle la sua definitiva aria di commiato. Il particolare diede loro una curiosa sensazione della forza pervasiva della sua personalità.
+
+Nell'istante in cui l'auto fu fuori vista, egli si volse a loro con una sorta di chiassosa scusa e disse: «[[Well|Ebbene]]!»
+
+Lo disse con quella curiosa cordialità che è il rovescio dell'ospitalità. Quella estrema affabilità equivale a un congedo.
+
+«Devo andare», disse Devine. «Non dobbiamo interrompere l'affaccendata ape. Temo di saperne assai poco di [[Bees|api]]; a volte faccio fatica a distinguere un'ape da una vespa.»
+
+«Ho tenuto anche vespe», rispose il misterioso signor Carver. Quando i suoi ospiti furono a qualche metro giù per la strada, Devine disse piuttosto impulsivamente al suo compagno: «Una scena piuttosto strana quella, non trova?»
+
+«Sì», rispose [[Father Brown]]. «E lei cosa ne pensa?»
+
+Devine guardò l'ometto in nero, e qualcosa nello sguardo dei suoi grandi occhi grigi parve rinnovargli l'impulso.
+
+«Penso», disse, «che Carver fosse molto ansioso di avere la [[house|casa]] tutta per sé stanotte. Non so se lei abbia avuto sospetti del genere.»
+
+«Posso avere i miei sospetti», rispose il prete, «ma non sono sicuro che siano gli stessi suoi.»
+
+Quella sera, quando l'ultimo crepuscolo si mutava in tenebra nei giardini attorno alla dimora familiare, Opal Bankes si aggirava per alcune delle stanze fioche e vuote con anche più della sua consueta astrazione; e chiunque l'avesse osservata da vicino avrebbe notato che il suo volto pallido aveva più del suo consueto pallore. Nonostante il suo lusso borghese, la [[house|casa]] nel suo complesso aveva una sfumatura di [[Melancholy|malinconia]] alquanto singolare. Era quella sorta di tristezza immediata che appartiene alle cose che sono vecchie piuttosto che antiche. Era piena di mode sbiadite, più che di costumi storici; di quell'ordine e ornamento che è appena abbastanza recente da essere riconosciuto come morto. Qua e là, vetri colorati primo-vittoriani tingevano il crepuscolo; gli alti soffitti facevano sembrare strette le lunghe stanze; e in fondo alla lunga stanza lungo la quale ella camminava c'era una di quelle finestre rotonde che si trovano negli edifici del suo periodo. Come giunse verso la metà della stanza, si fermò, e poi d'un tratto vacillò un poco, come se una mano invisibile l'avesse colpita in volto.
+
+Un istante dopo vi fu il rumore di colpi alla porta d'ingresso, attutito dalle porte chiuse frapposte. Ella sapeva che il resto della famiglia era nelle parti superiori della [[house|casa]], ma non avrebbe saputo analizzare il motivo che la spinse ad andare lei stessa alla porta d'ingresso. Sulla soglia stava una figura tozza e sciatta in nero, in cui riconobbe il prete cattolico romano, che si chiamava Brown. Lo conosceva solo di sfuggita; ma le era simpatico. Egli non incoraggiava le sue vedute psichiche; anzi, tutto il contrario; ma le scoraggiava come se contassero e non come se non contassero. Non era tanto che non simpatizzasse con le sue opinioni, quanto che simpatizzava ma non concordava. Tutto questo era in una sorta di caos nella sua mente quando si ritrovò a dire, senza saluto, né aspettare di udire quale fosse il suo scopo:

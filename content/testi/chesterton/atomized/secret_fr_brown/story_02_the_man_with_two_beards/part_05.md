@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/secret-fr-brown-(chesterton)">secret Fr Brown</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/secret_fr_brown/story_02_the_man_with_two_beards/part_04">‹ part 04</a><a class="ex-next" href="/testi/chesterton/atomized/secret_fr_brown/story_02_the_man_with_two_beards/part_06">part 06 ›</a></div>
@@ -142,3 +144,72 @@ believe he is Moonshine, the burglar?"
 "I know he is the burglar, but he didn't burgle," answered [[Father Brown]].
 "I know he didn't come here, or to the [[Great House|great house]], to steal jewels, or
 get shot getting away with them. Where are the jewels?"
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/secret-fr-brown-(chesterton)">secret Fr Brown</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/secret_fr_brown/story_02_the_man_with_two_beards/part_04">‹ part 04</a><a class="ex-next" href="/testi/chesterton/atomized/secret_fr_brown/story_02_the_man_with_two_beards/part_06">part 06 ›</a></div>
+</nav>
+
+Devine annuì tetro, e l'[[Detective|investigatore]] tornò alle sue carte. «Sospettando di [[smith|Smith]], volevo toglierlo di mezzo e frugare tra le sue cose; così approfittai della gentilezza del signor Bankes nell'offrirgli un giro di piacere. Perquisendo la sua [[house|casa]], trovai alcune cose curiose da possedere per un [[Innocent|innocente]] vecchio campagnolo interessato soltanto alle [[Bees|api]]. Questa è una di esse.»
+
+Dalla carta dispiegata sollevò un oggetto lungo e peloso, quasi scarlatto di colore -- quella sorta di barba finta che si porta in teatro.
+
+Accanto giaceva un vecchio paio di pesanti occhiali dalla montatura di corno.
+
+«Ma ho trovato anche qualcosa», continuò Carver, «che riguarda più direttamente questa [[house|casa]], e dev'essere la mia scusa per l'intrusione di questa [[Night|notte]]. Ho trovato un memorandum, con annotazioni dei nomi e del valore congetturale di vari pezzi di gioielleria nei dintorni. Immediatamente dopo l'annotazione del diadema di Lady Pulman c'era la menzione di una collana di smeraldi appartenente alla signora Bankes.»
+
+La signora Bankes, che fino allora aveva considerato l'invasione della sua [[house|casa]] con un'aria di sprezzante smarrimento, d'un tratto si fece attenta. Il suo volto d'improvviso parve di dieci anni più vecchio e assai più intelligente. Ma prima che potesse parlare, l'impetuoso John si era alzato in tutta la sua statura come un elefante barrito.
+
+«E il diadema è già sparito», ruggì; «e la collana -- vado a controllare quella collana!»
+
+«Non è una cattiva idea», disse Carver, mentre il giovane si precipitava fuori dalla stanza; «benché, naturalmente, abbiamo tenuto gli occhi aperti da quando siamo qui. [[Well|Ebbene]], mi ci volle un po' di [[Time|tempo]] per decifrare il memorandum, che era in codice, e il messaggio telefonico di [[Father Brown]] dalla [[house|House]] giunse mentre ero prossimo alla fine. Gli chiesi di correre qui per primo con la notizia, e io l'avrei seguito; e così----»
+
+Il suo discorso fu spezzato da un grido. Opal era in piedi e indicava rigidamente la [[Window|finestra]] rotonda.
+
+«Eccolo di nuovo!» gridò.
+
+Per un momento tutti videro qualcosa -- qualcosa che scagionava la signora dalle accuse di menzogna e isteria non di rado mosse contro di lei. Spinto fuori dall'oscurità ardesia-azzurra là fuori, il volto era pallido, o, forse, sbiancato dalla pressione contro il vetro; e i grandi occhi sbarrati, cerchiati come da anelli, gli davano piuttosto l'aspetto di un grande pesce che, uscito dal mare azzurro cupo, fiuti l'oblò di una [[Ship|nave]]. Ma le branchie o pinne del pesce erano di un rosso ramato; erano, in [[Truth|verità]], fiere fedine rosse e la parte superiore di una barba rossa. L'attimo dopo era svanito.
+
+Devine aveva fatto un solo passo verso la [[Window|finestra]] quando un urlo risuonò per la [[house|casa]], un urlo che parve scuoterla. Parve quasi troppo assordante per essere distinguibile come parole; eppure bastò a fermare Devine a metà del passo, ed egli seppe cosa era accaduto.
+
+«La collana è sparita!» gridò John Bankes, apparendo enorme e ansante sulla soglia, e quasi all'istante svanendo di nuovo con lo scatto di un segugio all'inseguimento.
+
+«Il ladro era alla [[Window|finestra]] proprio adesso!» gridò l'[[Detective|investigatore]], che si era già lanciato verso la porta, seguendo l'impetuoso John, che era già nel [[Garden|giardino]].
+
+«Fate attenzione», si lamentò la signora, «hanno pistole e cose del genere.»
+
+«Anch'io», tuonò la voce lontana dell'impavido John dal buio [[Garden|giardino]].
+
+Devine aveva, in effetti, notato mentre il giovane gli sfrecciava accanto che brandiva con aria di sfida una rivoltella, e sperò che non ci fosse bisogno per lui di difendersi così. Ma proprio mentre aveva quel pensiero, giunse lo scoppio di due spari, come se l'uno rispondesse all'altro, e destò un selvaggio stormo di echi in quel quieto [[Garden|giardino]] suburbano. Sbatterono le ali nel [[Silence|silenzio]].
+
+«John è morto?» chiese Opal con voce bassa e tremante.
+
+[[Father Brown]] si era già inoltrato più a fondo nel buio, e stava con le spalle a loro, guardando in basso verso qualcosa. Fu lui a risponderle.
+
+«No», disse; «è l'altro.»
+
+Carver lo aveva raggiunto, e per un momento le due figure, l'alta e la bassa, sbarrarono quanto di visuale la luce lunare intermittente e tempestosa consentisse. Poi si scostarono da un lato e gli altri videro la piccola figura minuta giacere lievemente contorta, come nell'ultima lotta. La falsa barba rossa era protesa verso l'alto, come sprezzante verso il cielo, e la [[Moon|luna]] risplendeva sui grandi occhiali finti dell'uomo che era stato chiamato Moonshine.
+
+«Che fine», mormorò l'[[Detective|investigatore]], Carver. «Dopo tutte le sue avventure, farsi sparare quasi per caso da un agente di cambio in un [[Garden|giardino]] suburbano.»
+
+L'agente di cambio in persona, naturalmente, considerava il proprio trionfo con maggiore solennità, benché non senza nervosismo.
+
+«Ho dovuto farlo», ansimò, ancora affannato per lo sforzo. «Mi dispiace, ha sparato lui contro di me.»
+
+«Ci dovrà essere un'inchiesta, naturalmente», disse Carver, gravemente. «Ma credo che non ci sarà nulla di cui lei debba preoccuparsi. C'è una rivoltella caduta dalla sua mano con un colpo esploso; e di certo non ha [[Fire|sparato]] dopo aver ricevuto il suo.»
+
+Nel [[Time|frattempo]] si erano di nuovo radunati nella stanza, e l'[[Detective|investigatore]] stava raccogliendo le sue carte per la partenza. [[Father Brown]] stava in piedi di fronte a lui, guardando in basso verso il tavolo, come immerso in cupe meditazioni. Poi parlò bruscamente:
+
+«Signor Carver, lei ha certamente elaborato un caso assai completo in modo assai magistrale. Sospettavo alquanto la sua occupazione professionale; ma non avrei mai immaginato che avrebbe collegato ogni cosa così in fretta -- le [[Bees|api]] e la barba e gli occhiali e il codice e la collana e tutto quanto.»
+
+«È sempre soddisfacente veder un caso davvero ben rifinito», disse Carver.
+
+«Sì», disse [[Father Brown]], ancora guardando il tavolo. «Lo ammiro moltissimo.» Poi aggiunse con una modestia rasente il nervosismo: «È giusto verso di lei che io dica che non ne credo una sola parola.»
+
+Devine si sporse in avanti con improvviso interesse. «Vuol dire che non crede che egli sia Moonshine, lo scassinatore?»
+
+«So che è lo scassinatore, ma non ha scassinato», rispose [[Father Brown]]. «So che non è venuto qui, né alla [[Great House|grande villa]], per rubare gioielli, o per farsi sparare mentre fuggiva con essi. Dove sono i gioielli?»

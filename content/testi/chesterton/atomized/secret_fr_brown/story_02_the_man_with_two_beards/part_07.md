@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/secret-fr-brown-(chesterton)">secret Fr Brown</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/secret_fr_brown/story_02_the_man_with_two_beards/part_06">‹ part 06</a><a class="ex-next" href="/testi/chesterton/atomized/secret_fr_brown/story_03_the_song_song_of_the_flying_fish/part_01">part 01 ›</a></div>
@@ -98,3 +100,40 @@ this world."
 There was a short pause, and then Devine shrugged his shoulders and
 said: "It all comes back to [[Bees|bees]] and wasps looking very much alike in
 this world, doesn't it?"
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/secret-fr-brown-(chesterton)">secret Fr Brown</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/secret_fr_brown/story_02_the_man_with_two_beards/part_06">‹ part 06</a><a class="ex-next" href="/testi/chesterton/atomized/secret_fr_brown/story_03_the_song_song_of_the_flying_fish/part_01">part 01 ›</a></div>
+</nav>
+
+«No, più ci pensavo, più sentivo che c'era qualcosa di buffo nel suo avere un corredo completamente nuovo. E allora la [[Truth|verità]] cominciò ad [[Dawn|albeggiarmi]] per ragione, ciò che già sapevo per istinto. Non uscì mai con Bankes con alcuna intenzione di indossare il travestimento. Non indossò mai il travestimento. Qualcun altro fabbricò il travestimento con comodo, e poi glielo mise addosso.»
+
+«Glielo mise addosso!» ripeté Devine. «Come diavolo avrebbe potuto?»
+
+«Torniamo indietro», disse [[Father Brown]], «e guardiamo la cosa attraverso un'altra [[Window|finestra]] -- la [[Window|finestra]] attraverso la quale la giovane signorina vide il [[Ghost|fantasma]].»
+
+«Il [[Ghost|fantasma]]!» ripeté l'altro, con un lieve sussulto.
+
+«Lei lo chiamò il [[Ghost|fantasma]]», disse l'ometto, con compostezza, «e forse non aveva poi tanto torto. È verissimo che ella è ciò che chiamano dotata di poteri psichici. Il suo unico errore è nel credere che essere psichici sia essere spirituali. Alcuni [[Animals|animali]] sono psichici; comunque, ella è una sensitiva, e aveva ragione quando sentì che il volto alla [[Window|finestra]] aveva una sorta di orribile alone di cose mortali.»
+
+«Vuol dire----» cominciò Devine.
+
+«Voglio dire che era un uomo morto quello che guardava dentro dalla [[Window|finestra]]», disse Father Brown. «Era un uomo morto quello che strisciò attorno a più di una [[house|casa]], guardando dentro da più di una [[Window|finestra]]. Agghiacciante, non è vero? Ma in un certo senso era il rovescio di un [[Ghost|fantasma]]; poiché non era la buffonata dell'[[Soul|anima]] liberata dal [[Body|corpo]]. Era la buffonata del [[Body|corpo]] liberato dall'[[Soul|anima]].»
+
+Sbatté di nuovo le palpebre verso l'arnia e continuò: «Ma, suppongo, la spiegazione più breve sia prenderla dal punto di vista dell'uomo che lo fece. Voi conoscete l'uomo che lo fece. John Bankes.»
+
+«L'ultimissimo uomo a cui avrei pensato», disse Devine.
+
+«Il primissimo uomo a cui io pensai», disse [[Father Brown]]; «nella misura in cui avevo il diritto di pensare a chiunque. Amico mio, non esistono tipi sociali o mestieri buoni o cattivi. Qualunque uomo può essere un assassino come il povero John; qualunque uomo, persino lo stesso uomo, può essere un santo come il povero [[Michael]]. Ma se c'è un tipo che tende a volte a essere più assolutamente senza Dio di un altro, è quella sorta piuttosto brutale di uomo d'affari. Non ha alcun ideale sociale, [[Alone|figuriamoci]] una religione; non ha né le tradizioni del gentiluomo né la lealtà di classe del sindacalista. Tutte le sue vanterie di aver concluso buoni affari erano in pratica vanterie di aver truffato la gente. Il suo modo di snobbare i poveri piccoli tentativi di misticismo della sorella era detestabile. Il misticismo di lei era tutto sciocchezze; ma egli odiava lo spiritismo solo perché era spiritualità. Comunque, non c'è [[Doubt|dubbio]] che egli fosse il [[Villain|cattivo]] della vicenda; l'unico interesse sta in un pezzo di malvagità piuttosto originale. Era davvero un movente nuovo e unico per un omicidio. Era il movente di usare il cadavere come oggetto di scena -- una sorta di orribile bambola o fantoccio. All'inizio concepì un piano per uccidere [[Michael]] in automobile, semplicemente per portarlo a [[Home|casa]] e fingere di averlo ucciso nel [[Garden|giardino]]. Ma ogni sorta di fantastici tocchi finali seguirono del tutto naturalmente dal fatto primario; che aveva a sua disposizione, in un'auto chiusa di [[Night|notte]], il [[Body|corpo]] morto di uno scassinatore riconosciuto e riconoscibile. Poteva lasciare le sue impronte digitali e le sue impronte dei piedi; poteva appoggiare il volto familiare contro le finestre e portarlo via. Noterete che Moonshine apparentemente comparve e svanì mentre Bankes era apparentemente fuori dalla stanza in cerca della collana di smeraldi.
+
+«Infine, non gli restava che rovesciare il cadavere sul prato, [[Fire|sparare]] un colpo da ciascuna [[Pistol|pistola]], ed eccolo fatto. Non si sarebbe mai potuto scoprirlo, se non fosse stato per una congettura sulle due barbe.»
+
+«Perché il vostro amico [[Michael]] aveva conservato la vecchia barba?» disse Devine pensosamente. «Questo mi pare discutibile.»
+
+«A me, che lo conoscevo, pare del tutto inevitabile», rispose [[Father Brown]]. «Tutto il suo atteggiamento era come quella parrucca che portava. Non c'era travestimento nei suoi travestimenti. Non voleva più il vecchio travestimento, ma non ne aveva paura; avrebbe sentito come falso distruggere la barba finta. Sarebbe stato come nascondersi; ed egli non si nascondeva. Non si nascondeva da Dio; non si nascondeva da se stesso. Era in piena luce del giorno. Se l'avessero riportato in [[Prison|prigione]], sarebbe stato ancora perfettamente felice. Non era imbiancato di calce, ma lavato bianco. C'era qualcosa di assai strano in lui; quasi tanto strano quanto la [[Grotesque|grottesca]] [[Dance of Death|danza macabra]] attraverso la quale fu trascinato dopo la morte. Quando andava avanti e indietro sorridendo tra queste arnie, persino allora, nel senso più radioso e splendente, era morto. Era fuori dal giudizio di questo mondo.»
+
+Ci fu una breve pausa, e poi Devine si strinse nelle spalle e disse: «Tutto si riconduce alle [[Bees|api]] e alle vespe che si somigliano moltissimo in questo mondo, non è vero?»

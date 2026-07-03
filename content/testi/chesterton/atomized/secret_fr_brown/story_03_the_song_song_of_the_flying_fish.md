@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/secret-fr-brown-(chesterton)">secret Fr Brown</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/secret_fr_brown/story_02_the_man_with_two_beards">‹ Story 02 THE MAN WITH TWO BEARDS</a><a class="ex-next" href="/testi/chesterton/atomized/secret_fr_brown/story_04_the_actor_and_the_alibi">Story 04 THE ACTOR AND THE ALIBI ›</a></div>
@@ -794,3 +796,367 @@ employer, could go on saying for days that something ought to be done,
 or might as [[Well|well]] be done. But if you convey to a woman that something
 ought to be done, there is always a dreadful danger that she will
 suddenly do it."
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/secret-fr-brown-(chesterton)">secret Fr Brown</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/secret_fr_brown/story_02_the_man_with_two_beards">‹ Story 02 THE MAN WITH TWO BEARDS</a><a class="ex-next" href="/testi/chesterton/atomized/secret_fr_brown/story_04_the_actor_and_the_alibi">Story 04 THE ACTOR AND THE ALIBI ›</a></div>
+</nav>
+
+III IL [[Song|CANTO]] DEL PESCE VOLANTE
+
+L'[[Soul|anima]] del signor Peregrine Smart ronzava come una mosca intorno a un unico possesso e a un unico scherzo. Poteva passare per uno scherzo innocuo, giacché consisteva semplicemente nel domandare alla gente se avessero visto i suoi pesci d'oro. Poteva anche passare per uno scherzo costoso; ma è dubbio se egli non fosse in segreto più affezionato allo scherzo che alla prova della spesa. Discorrendo con i vicini di quel piccolo agglomerato di case nuove che era cresciuto attorno all'antico prato del villaggio, non perdeva [[Time|tempo]] a volgere la conversazione in direzione del suo passatempo. Con il dottor Burdock, biologo emergente dal mento risoluto e dai capelli tirati all'indietro alla tedesca, il signor Smart operava la transizione più agevole. «Lei si interessa di storia [[history|naturale]]; ha visto i miei pesci d'oro?». Per un evoluzionista così ortodosso come il dottor Burdock senza dubbio tutta la [[Nature|natura]] era una cosa sola; ma a prima vista il legame non era stretto, dacché egli era uno specialista che si era concentrato interamente sulla primitiva ascendenza della giraffa. Con [[Father Brown]], venuto da una chiesa della vicina cittadina di provincia, egli seguiva un rapido concatenarsi di pensieri che toccava i temi di «Roma — san Pietro — pescatore — pesce — pesci d'oro». Discorrendo con il signor Imlack [[smith|Smith]], il direttore della banca, un gentiluomo esile e giallastro, di aspetto ricercato ma di modi tranquilli, torceva con violenza la conversazione verso l'argomento del regime aureo, dal quale non c'era che un passo per giungere ai pesci d'oro. Discorrendo con quel brillante viaggiatore e studioso d'Oriente, il conte Yvon de Lara (il cui titolo era francese e il volto piuttosto russo, per non dire tartaro), il versatile conversatore mostrava un interesse intenso e intelligente per il Gange e per l'Oceano Indiano, che conduceva naturalmente alla possibile presenza di pesci d'oro in quelle acque.
+
+Dal signor Harry Hartopp, il giovane gentiluomo ricchissimo ma timidissimo e taciturno che di recente era sceso da [[London|Londra]], aveva alla fine estorto l'informazione che l'imbarazzato giovanotto in questione non si interessava di pesca, e aveva poi soggiunto: «A proposito di pesca, ha visto i miei pesci d'oro?».
+
+La particolarità di quei pesci d'oro era che erano fatti d'oro. Facevano parte di un giocattolo eccentrico ma dispendioso, che si diceva fabbricato per il capriccio di qualche ricco principe orientale, e il signor Smart lo aveva rilevato a qualche vendita o in qualche bottega di curiosità, di quelle che frequentava allo scopo di ingombrare la sua [[house|casa]] di oggetti unici e inutili. Dall'altro capo della stanza esso pareva una boccia insolitamente grande contenente pesci vivi insolitamente grandi; a un'ispezione più ravvicinata si rivelava una enorme bolla di vetro di Venezia soffiato con squisita arte, sottilissimo e delicatamente velato di un colore lievemente iridescente, nel cui crepuscolo dai toni tenui pendevano [[Grotesque|grotteschi]] pesci d'oro dagli occhi di grossi rubini. Nel suo insieme la cosa valeva senza dubbio parecchio per la sola materia; quanto di più sarebbe dipeso dalle ondate di follia che passano sul mondo dei collezionisti. Il nuovo segretario del signor Smart, un giovane di nome Francis Boyle, benché irlandese e non famoso per la prudenza, era lievemente sorpreso di sentirlo parlare così apertamente delle gemme della sua collezione a quel gruppo di quasi sconosciuti che si erano posati, in modo piuttosto nomade, nel vicinato; giacché i collezionisti sono di solito vigili e talvolta segreti. Nel prendere confidenza con le sue nuove mansioni, il signor Boyle scoprì di non essere [[Alone|solo]] in questo sentimento, e che in altri esso passava da una lieve [[Wonder|meraviglia]] a una [[Grave|grave]] disapprovazione.
+
+«C'è da meravigliarsi [[Wonder|che]] non gli abbiano ancora tagliato la gola», disse Harris, il cameriere del signor Smart, non senza un compiacimento ipotetico, quasi avesse detto, in senso puramente artistico: «È un peccato».
+
+«È straordinario come lasci le cose [[Leaves|in giro]]», disse Jameson, il capo impiegato del signor Smart, che era salito dall'ufficio per assistere il nuovo segretario, «e non vuole nemmeno mettere quelle sgangherate vecchie sbarre di traverso alla sua sgangherata vecchia porta».
+
+«Con [[Father Brown]] e il dottore va tutto [[Well|bene]]», disse la governante del signor Smart, con quella vigorosa vaghezza che contrassegnava le sue opinioni, «ma quando si arriva agli stranieri, io la chiamo tentare la [[Providence|Provvidenza]]. E non c'è solo il conte; anche quell'uomo della banca mi pare troppo giallo per essere inglese».
+
+«[[Well|Be']], quel giovane Hartopp è abbastanza inglese», disse Boyle con bonarietà, «al punto di non avere una parola da spendere per sé».
+
+«Tanto più pensa», disse la governante. «Può darsi che non sia proprio uno straniero, ma non è quello [[Fool|sciocco]] che sembra. Straniero è chi straniero fa, dico io», aggiunse cupamente.
+
+La sua disapprovazione si sarebbe probabilmente aggravata se avesse udito la conversazione svoltasi quel pomeriggio nel salotto del suo padrone, una conversazione di cui i pesci d'oro erano il pretesto, benché l'offensivo straniero tendesse sempre più a esserne la figura centrale. Non che parlasse tanto; ma persino i suoi silenzi avevano qualcosa di positivo. Appariva ancora più massiccio a starsene raggomitolato in una specie di mucchio sopra un mucchio di cuscini, e nel crepuscolo che si faceva più fitto il suo ampio volto mongolico pareva debolmente luminoso, come una [[Moon|luna]]. Forse lo sfondo faceva risaltare qualcosa di atmosfericamente asiatico nel suo viso e nella sua figura, poiché la stanza era un caos di curiosità più o meno costose, in mezzo alle quali si scorgevano le curve tortuose e i colori ardenti di innumerevoli armi orientali, pipe e vasi orientali, strumenti musicali orientali e manoscritti miniati. Comunque fosse, mentre la conversazione procedeva, Boyle sentiva sempre più che la figura seduta sui cuscini e scura contro il crepuscolo aveva l'esatto profilo di una enorme immagine di Buddha.
+
+La conversazione fu abbastanza generale, giacché era presente tutto il piccolo gruppo locale. Essi avevano, in verità, l'abitudine di lasciarsi cadere spesso nelle rispettive case, e a quel [[Time|punto]] costituivano una sorta di circolo, composto delle persone provenienti dalle quattro o cinque case che sorgevano intorno al prato. Di queste case, quella di Peregrine Smart era la più antica, la più grande e la più pittoresca; si allungava disordinatamente lungo quasi tutto un lato della piazza, lasciando posto soltanto a una piccola villa, abitata da un colonnello a riposo di nome Varney, che si diceva fosse un invalido, e che di certo non lo si vedeva mai uscire. Ad angolo retto rispetto a queste stavano due o tre botteghe che servivano ai bisogni più semplici del [[Hamlet|borgo]], e all'angolo la locanda del Drago Azzurro, presso la quale alloggiava il signor Hartopp, il forestiero venuto da [[London|Londra]]. Sul lato opposto si trovavano tre case, una affittata dal conte de Lara, una dal dottor Burdock, e la terza ancora vuota. Sul quarto lato c'era la banca, con un'attigua [[house|casa]] per il direttore, e uno steccato che recingeva del terreno concesso in affitto per edificarvi. Era dunque un gruppo molto [[Self|autosufficiente]], e la relativa desolazione della campagna aperta per miglia tutt'intorno gettava i suoi membri sempre più l'uno nella compagnia dell'altro. Quel pomeriggio, un forestiero aveva davvero fatto irruzione nel cerchio [[Magic|magico]]: un tale dal volto affilato, con feroci ciuffi di sopracciglia e di baffi, e vestito così malamente che doveva per forza essere un milionario o un duca, se davvero (come si sosteneva) era sceso a trattare affari con il vecchio collezionista. Ma era conosciuto, almeno al Drago Azzurro, come il signor Harmer.
+
+A lui erano state di nuovo narrate le glorie dei pesci dorati e le
+critiche intorno alla loro custodia.
+
+«La gente non fa che ripetermi che dovrei rinchiuderli con maggior
+cura», osservò il signor Smart, inarcando un sopracciglio al di sopra
+della spalla verso il dipendente che se ne stava lì con in mano certe
+carte venute dall'ufficio. Smart era un ometto anziano dal viso tondo e
+dal corpo tondo, non dissimile da un pappagallo spennato. «Jameson,
+Harris e tutti gli altri mi stanno sempre addosso perché sbarri le
+porte come se questa fosse una fortezza medievale, sebbene in verità
+queste vecchie sbarre marce e arrugginite siano troppo medievali,
+credo io, per tenere fuori chicchessia. Io preferisco affidarmi alla
+fortuna e alla polizia locale.»
+
+«Non sono sempre le sbarre migliori a tenere fuori la gente», disse il
+Conte. «Tutto dipende da chi cerca di entrare. C'era un antico eremita
+indù che viveva nudo in una [[Cave|caverna]] e attraversò i tre eserciti
+che accerchiavano il Mogol e sottrasse il grande rubino dal turbante del
+[[Tyrant|tiranno]], e tornò indietro illeso come un'[[Shadow|ombra]]. Poiché
+desiderava insegnare ai grandi quanto sono piccole le leggi dello spazio
+e del [[Time|tempo]].»
+
+«Quando studiamo davvero le piccole leggi dello spazio e del
+[[Time|tempo]]», disse il dottor Burdock in tono asciutto, «scopriamo di
+solito come questi trucchi vengano eseguiti. La scienza occidentale ha
+fatto entrare la luce del giorno su buona parte della [[Magic|magia]]
+orientale. Senza dubbio molto si può ottenere con l'ipnotismo e la
+suggestione, per non parlare dei giochi di prestigio.»
+
+«Il rubino non era nella tenda reale», osservò il Conte nella sua
+maniera trasognata; «eppure egli lo trovò fra un centinaio di tende.»
+
+«Non si può forse spiegare tutto questo con la telepatia?» domandò il
+dottore con asprezza. La domanda suonò tanto più aspra in quanto fu
+seguita da un pesante [[Silence|silenzio]], quasi che l'illustre
+viaggiatore orientale si fosse, con imperfetta cortesia, [[Sleep|addormentato]].
+
+«Vi chiedo scusa», disse ridestandosi con un sorriso improvviso.
+«Avevo dimenticato che stavamo parlando con le parole. In Oriente noi
+parliamo con i pensieri, e così non ci fraintendiamo mai. È strano
+come voi occidentali adoriate le parole e vi accontentiate delle parole.
+Che differenza fa a una cosa che ora la chiamiate telepatia, come un
+tempo la chiamavate buffoneria? Se un uomo si arrampica in cielo su un
+albero di mango, in che cosa muta il fatto se diciamo che è soltanto
+levitazione, invece di dire che è soltanto menzogna? Se una [[Witch|strega]]
+medievale agitasse una bacchetta e mi trasformasse in un babbuino
+azzurro, voi direste che è soltanto atavismo.»
+
+Il dottore ebbe per un istante l'aria di chi potrebbe osservare che,
+dopo tutto, non sarebbe stato un mutamento così grande. Ma prima che la
+sua irritazione potesse trovare quello o qualsiasi altro sfogo, l'uomo
+di nome Harmer lo interruppe burberamente:
+
+«È pur vero che quei prestigiatori indiani sanno fare cose strane, ma
+noto che di solito le fanno in India. Complici, forse, o semplice
+psicologia delle masse. Non credo che quei trucchi siano mai stati
+messi in scena in un villaggio inglese, e direi che i pesci rossi del
+nostro amico sono del tutto al sicuro.»
+
+«Vi racconterò una storia», disse de Lara, nel suo modo immoto, «che
+non accadde in India, bensì fuori da una caserma inglese, nella parte
+più modernizzata del Cairo. Una sentinella se ne stava in piedi dietro
+l'inferriata di un cancello di ferro, guardando fuori tra le sbarre
+verso la strada. Comparve, oltre il cancello, un mendicante scalzo e
+vestito di stracci indigeni, il quale gli chiese, in un inglese di
+sorprendente nitidezza e raffinatezza, un certo documento ufficiale
+custodito nell'edificio per sicurezza. Il soldato disse all'uomo, s'intende,
+che non poteva entrare; e l'uomo rispose, sorridendo: "Che cosa è dentro
+e che cosa è fuori?" Il soldato stava ancora fissando con disprezzo
+attraverso l'inferriata di ferro quando a poco a poco si rese conto che,
+sebbene né lui né il cancello si fossero mossi, egli si trovava in realtà
+in mezzo alla strada e guardava verso il cortile della caserma, dove il
+mendicante se ne stava immobile e sorridente e ugualmente fermo. Allora,
+quando il mendicante si volse verso l'edificio, la sentinella si ridestò
+al poco senno che le restava, e gridò a tutti i soldati entro il recinto
+sbarrato di tenere ben stretto il prigioniero. "Comunque, di là non
+uscirai", disse con vendicativa foga. Allora il mendicante disse con la
+sua voce argentina: "Che cosa è fuori e che cosa è dentro?" E il soldato,
+sempre fissando attraverso le medesime sbarre, vide che esse erano di
+nuovo fra lui e la strada, dove il mendicante se ne stava libero e
+sorridente con un foglio in mano.»
+
+Il signor Imlack [[smith|Smith]], il direttore della banca, guardava il
+tappeto con il capo bruno e liscio chino, e parlò per la prima
+[[Time|volta]].
+
+«È accaduto qualcosa a proposito del foglio?» domandò.
+
+«I vostri istinti professionali sono esatti, signore», disse il Conte
+con torva affabilità. «Era un documento di considerevole importanza
+finanziaria. Le sue conseguenze furono internazionali.»
+
+«[[Hope|Spero]] che non capitino spesso», disse tetro il giovane Hartopp.
+
+«Io non tocco il lato politico», disse il Conte con serenità, «ma
+soltanto quello filosofico. Esso illustra come l'uomo saggio possa
+mettersi alle spalle il [[Time|tempo]] e lo spazio e azionarne le leve,
+per così dire, sicché il mondo intero ruota davanti ai nostri occhi. Ma è
+poi così difficile, per voi altri, credere che i poteri spirituali siano
+davvero più potenti di quelli materiali?»
+
+«[[Well|Ebbene]]», disse allegramente il vecchio Smart, «non pretendo di
+essere un'autorità in fatto di poteri spirituali. Che ne dite voi,
+[[Father Brown]]?»
+
+«L'unica cosa che mi colpisce», rispose il piccolo prete, «è che tutti
+gli atti [[Supernatural|soprannaturali]] di cui abbiamo sinora sentito
+parlare paiono essere furti. E rubare con metodi spirituali mi sembra
+press'a poco lo stesso che rubare con metodi materiali.»
+
+«[[Father Brown]] è un filisteo», disse [[smith|Smith]] con un sorriso.
+
+«Provo simpatia per quella tribù», disse [[Father Brown]]. «Un filisteo
+non è che un uomo il quale ha ragione senza sapere perché.»
+
+«Tutto questo è troppo sottile per me», disse Hartopp di cuore.
+
+«Forse», disse [[Father Brown]] con un sorriso, «vi piacerebbe parlare
+senza parole, come suggerisce il Conte. Egli comincerebbe col non dire
+nulla in modo assai eloquente, e voi ribattereste con uno scoppio di
+taciturnità.»
+
+«Qualcosa si potrebbe fare con la musica», mormorò il Conte
+sognante. «Sarebbe meglio di tutte queste parole.»
+
+«Sì, questo forse lo capirei meglio», disse il giovane a bassa voce.
+
+Boyle aveva seguito la conversazione con curiosa attenzione, poiché nel contegno di più d'uno dei presenti c'era qualcosa che gli pareva significativo, o addirittura singolare. Quando il discorso scivolò sulla musica, con un appello all'azzimato direttore di banca (che era un dilettante di musica di un certo merito), il giovane segretario si riscosse di soprassalto ai suoi doveri di segreteria, e rammentò al suo datore di lavoro che il capo contabile se ne stava ancora lì paziente, con le carte in mano.
+
+«Oh, di quelle non c'è bisogno di occuparsi adesso, Jameson», disse Smart con una certa fretta. «È solo una faccenda del mio conto; ne parlerò più tardi con il signor [[smith|Smith]]. Diceva dunque del violoncello, signor [[smith|Smith]]...»
+
+Ma il gelido soffio degli affari era bastato a disperdere i fumi del discorso trascendentale, e gli ospiti cominciarono a congedarsi l'uno dopo l'altro. Solo il signor Imlack [[smith|Smith]], direttore di banca e musicista, rimase per ultimo; e quando gli altri se ne furono andati, lui e il padrone di casa passarono nella stanza interna, dove si custodivano i pesci d'oro, e ne chiusero la porta.
+
+La [[house|casa]] era lunga e stretta, con un balcone coperto che correva lungo il primo piano, il quale consisteva per lo più in una sorta di appartamento riservato al padrone stesso: la sua camera da letto, lo spogliatoio, e una stanza interna in cui i suoi tesori di grandissimo valore venivano talora riposti per la [[Night|notte]], anziché lasciati nelle stanze del piano di sotto. Questo balcone, come la porta insufficientemente sbarrata al di sotto, era motivo di preoccupazione per la governante, per il capo contabile e per gli altri che deploravano la sbadataggine del collezionista; ma, in [[Truth|verità]], quel vecchio e astuto gentiluomo era più prudente di quanto sembrasse. Non professava gran fiducia nelle antiquate serrature della vecchia [[house|casa]], che la governante si doleva di veder arrugginire nell'ozio, ma teneva d'occhio il punto più importante, quello strategico. Metteva sempre i suoi pesci d'oro prediletti nella stanza dietro la sua camera da letto per la [[Night|notte]], e vi dormiva davanti, per così dire, con una [[Pistol|pistola]] sotto il cuscino. E quando Boyle e Jameson, in attesa che tornasse dal tête-à-tête, videro alfine la porta aprirsi e ricomparire il loro datore di lavoro, questi recava la grande boccia di vetro con la stessa riverenza con cui si porterebbe la reliquia di un santo.
+
+Fuori, gli ultimi lembi del tramonto ancora indugiavano agli angoli della verde piazza; ma dentro era già stata accesa una lampada; e nel mescolarsi delle due luci il globo colorato splendeva come un mostruoso [[Jewel|gioiello]], e i profili fantastici dei pesci di fuoco parevano davvero conferirgli qualcosa del mistero di un talismano, come strane forme intraviste da un veggente nel cristallo del destino. Sopra la spalla del vecchio, il volto olivastro di Imlack [[smith|Smith]] fissava come una sfinge.
+
+«Questa [[Night|notte]] parto per [[London|Londra]], signor Boyle», disse il vecchio Smart, con più gravità di quanta ne mostrasse di solito. «Il signor [[smith|Smith]] ed io prendiamo il treno delle sei e quarantacinque. Preferirei, Jameson, che questa [[Night|notte]] lei [[Sleep|dormisse]] di sopra, nella mia camera; se mette la boccia nella stanza sul retro come al solito, sarà del tutto al sicuro. Non che io creda possa succedere alcunché.»
+
+«Dovunque può succedere di tutto», disse il signor [[smith|Smith]] con un sorriso. «Lei di solito si porta a letto un'arma, mi pare. Forse, in questo caso, farebbe meglio a lasciarla a casa.»
+
+Peregrine Smart non rispose, e uscirono dalla [[house|casa]] sulla [[Road|strada]] che girava attorno al verde della piazza.
+
+Quella [[Night|notte]] il segretario e il capo contabile dormirono, secondo le istruzioni, nella camera del loro datore di lavoro. A voler essere più precisi, Jameson, il capo contabile, dormì in un letto nello spogliatoio, ma la porta di comunicazione restava aperta, e le due stanze che si allungavano sulla facciata erano praticamente una sola. Solo la camera da letto aveva una lunga [[Window|portafinestra]] che dava sul balcone, e un ingresso sul retro verso l'appartamento interno dove per sicurezza era stata posta la boccia dei pesci d'oro. Boyle trascinò il proprio letto di traverso, così da sbarrare quell'ingresso, mise la rivoltella sotto il cuscino, poi si svestì e si coricò, con la sensazione di aver preso ogni precauzione possibile contro un evento impossibile o improbabile. Non vedeva perché dovesse esserci un particolare pericolo di un normale furto con scasso; e quanto al furto spirituale che figurava nei racconti da viaggiatore del conte de Lara, se i suoi pensieri vi correvano ora, così vicino al [[Sleep|sonno]], era perché erano fatti della stessa materia di cui son fatti i [[Dreams|sogni]]. Presto si mutarono davvero in [[Dreams|sogni]], con intervalli di sopore senza sogni. Il vecchio contabile fu un po' più irrequieto del solito; ma dopo essersi agitato ancora un poco e aver ripetuto qualcuno dei suoi rimpianti e ammonimenti prediletti, anch'egli si ritirò nel suo letto allo stesso modo e prese sonno. La [[Moon|luna]] si fece più chiara e poi di nuovo si offuscò sopra la verde piazza e i grigi blocchi delle case, in una [[Solitude|solitudine]] e in un [[Silence|silenzio]] che parevano privi di ogni testimone umano; e fu quando le bianche fenditure dell'alba erano già apparse agli angoli del cielo grigio che la cosa accadde.
+
+Boyle, essendo giovane, era naturalmente il più sano e il più pesante dormitore dei due. Per quanto abbastanza vivace una volta sveglio, aveva sempre un fardello da sollevare nel destarsi. Per di più, aveva [[Dreams|sogni]] di quel genere che si aggrappano alle menti che riemergono come i tentacoli confusi di una piovra. Erano un guazzabuglio di molte cose, compreso l'ultimo sguardo gettato dal balcone attraverso le quattro strade grigie e la verde piazza. Ma il loro disegno mutava e si spostava e girava vertiginosamente, accompagnato da un basso stridore, che risuonava in qualche modo come un [[River|fiume]] sotterraneo, e forse non era altro che il vecchio signor Jameson che russava nello spogliatoio. Ma nella mente del sognatore tutto quel mormorio e quel movimento era vagamente collegato alle parole del conte de Lara, su una sapienza capace di reggere le leve del [[Time|tempo]] e dello spazio e di far girare il mondo. Nel sogno pareva che un vasto e mormorante macchinario sotto la terra stesse davvero spostando interi paesaggi di qua e di là, sicché i confini del mondo potevano comparire nel [[Garden|giardino]] davanti alla casa di un uomo, o il suo stesso [[Garden|giardino]] essere esiliato oltre il mare.
+
+Le prime impressioni compiute che ricevette furono le parole di un [[Song|canto]], con un accompagnamento piuttosto tenue e metallico; erano cantate con accento straniero e da una voce che gli suonava ancora estranea e tuttavia vagamente familiare. Eppure non riusciva a persuadersi del tutto di non stare inventando versi nel [[Sleep|sonno]].
+
+Sopra la terra e sopra il mare
+
+I miei pesci volanti verranno a me,
+
+ché la nota non è del mondo che li desta,
+
+ma nel----
+
+Si tirò in piedi a fatica e vide che il suo compagno di guardia era già fuori dal letto; Jameson scrutava fuori dalla lunga [[Window|finestra]] verso il balcone e gridava con voce tagliente a qualcuno giù nella strada.
+
+«Chi va là?» chiamò con voce aspra. «Che cosa volete?»
+
+Si volse verso Boyle in agitazione, dicendo: «C'è qualcuno che si aggira qui fuori. Lo sapevo che non era prudente. Scendo a sbarrare quel portone d'ingresso, comunque la mettano.»
+
+Corse giù per le scale tutto trafelato e Boyle poté udire lo sferragliare delle spranghe contro il portone; ma Boyle stesso uscì sul balcone e volse lo sguardo sulla lunga [[Road|strada]] grigia che saliva verso la [[house|casa]], e credette di sognare ancora.
+
+Su quella [[Road|strada]] grigia che attraversava quella brughiera deserta e passava per quel piccolo [[Hamlet|villaggio]] inglese, era apparsa una figura che avrebbe potuto uscire dritta dalla giungla o dal bazar: una figura tratta da uno dei fantastici racconti del Conte; una figura tratta dalle «Mille e una notte». Il crepuscolo grigio e alquanto spettrale, che comincia a definire e insieme a scolorire ogni cosa quando la luce a oriente ha cessato di essere localizzata, si sollevò lentamente come un velo di garza grigia e gli mostrò una figura avvolta in una veste stravagante. Una sciarpa d'uno strano azzurro marino, vasta e voluminosa, girava intorno al capo a mo' di turbante, e poi di nuovo sotto il mento, dandole in complesso l'aspetto d'un cappuccio; per quanto concerneva il volto, l'effetto era quello di una maschera. Poiché la stoffa attorno al capo era tirata stretta come un velo; e il capo stesso era chino su un bizzarro strumento musicale d'argento o d'acciaio, foggiato come un violino deforme o storto. Lo si suonava con qualcosa di simile a un pettine d'argento, e le note erano stranamente sottili e acute. Prima che Boyle potesse aprir bocca, lo stesso accento straniero e ossessivo si levò da sotto l'[[Shadow|ombra]] del burnus, cantando parole della medesima specie:
+
+Come gli [[Birds|uccelli]] d'oro tornano all'albero
+
+i miei pesci d'oro ritornano a me.
+
+Tornate----
+
+«Non avete alcun diritto di stare qui», gridò Boyle esasperato, quasi senza sapere ciò che diceva.
+
+«Ho diritto sui pesci d'oro», disse lo straniero, parlando più da [[King|re]] Salomone che da beduino scalzo in un logoro mantello azzurro. «Ed essi verranno a me. Venite!»
+
+Percosse il suo strano violino mentre la sua voce si [[Rose|levava]] acuta sulla parola. Vi fu una fitta di suono che parve trafiggere la mente, e poi giunse un suono più fioco, come una risposta: un vibrante sussurro. Veniva dalla stanza buia lì dietro, dove stava la boccia dei pesci d'oro.
+
+Boyle si volse verso di essa; e proprio mentre si voltava l'eco nella stanza interna si mutò in un lungo suono squillante come di campanello elettrico, e poi in un debole fracasso. Erano trascorsi ancora pochi secondi da quando aveva apostrofato l'uomo dal balcone; ma il vecchio impiegato aveva già riguadagnato la cima delle scale, ansimando un poco, giacché era un signore attempato.
+
+«Ho serrato il portone, a ogni modo», disse.
+
+«La porta della stalla», disse Boyle dal buio della stanza interna.
+
+Jameson lo seguì in quell'appartamento e lo trovò che fissava il pavimento, cosparso d'un pulviscolo di vetri colorati simili ai frammenti curvi d'un arcobaleno infranto.
+
+«Che cosa intendete con la porta della stalla?» cominciò Jameson.
+
+«Intendo che il destriero è stato rubato», rispose Boyle. «I destrieri volanti. I pesci volanti che il nostro amico arabo lì fuori ha appena richiamato con un fischio come tanti cagnolini ammaestrati.»
+
+«Ma come ha potuto?» esplose il vecchio impiegato, come se simili eventi fossero appena decorosi.
+
+«[[Well|Fatto sta]] che sono spariti», disse Boyle secco. «La boccia infranta è qui, e ci sarebbe voluto un bel po' di [[Time|tempo]] per aprirla come si deve, ma un solo secondo per mandarla in frantumi. I pesci però sono spariti, Dio sa come, benché credo che al nostro amico si dovrebbe chiederne conto.»
+
+«Stiamo perdendo [[Time|tempo]]», disse Jameson smarrito. «Dovremmo mettergli subito le mani addosso.»
+
+«Molto meglio telefonare subito alla polizia», rispose Boyle. «Con le automobili e i telefoni loro lo sopravanzeranno in un lampo, arrivando ben più lontano di quanto potremmo mai fare noi, correndo per il villaggio in camicia da notte. Ma può darsi che vi siano cose che nemmeno le auto e i fili della polizia riusciranno a sopravanzare.»
+
+Mentre Jameson parlava con la stazione di polizia al telefono con voce agitata, Boyle uscì di nuovo sul balcone e scrutò in fretta quel grigio paesaggio dell'alba. Non c'era traccia dell'uomo col turbante, né altro segno di vita, salvo qualche fioco movimento che un occhio esperto avrebbe potuto riconoscere nell'albergo del Drago Azzurro. Solo Boyle, per la prima [[Time|volta]], notò coscientemente qualcosa che per tutto il tempo aveva notato senza avvedersene. Era come un fatto che si dibatteva nella mente sommersa reclamando il proprio significato. Era semplicemente il fatto che il grigio paesaggio non era mai stato interamente grigio; vi era una macchia dorata in mezzo alle sue strisce di colore scolorito, una lampada accesa in una delle case dall'altra parte del prato... Qualcosa, forse irrazionale, gli disse che ardeva da tutte le ore della notte e solo ora impallidiva con l'[[Dawn|alba]]. Contò le case, e il suo calcolo diede un risultato che pareva combaciare con qualcosa, non sapeva bene cosa. A ogni modo, era a quanto pareva la [[house|casa]] del Conte Yvon de Lara.
+
+L'ispettore Pinner era giunto con parecchi poliziotti, e aveva compiuto parecchie cose con piglio rapido e risoluto, ben consapevole che la stessa assurdità di quei costosi ninnoli poteva dare al caso notevole risalto sui giornali. Aveva esaminato ogni cosa, misurato ogni cosa, raccolto la deposizione di tutti, preso le impronte digitali a tutti, indispettito tutti, e alla fine si era ritrovato di fronte a un fatto che non poteva credere. Un arabo venuto dal [[Desert|deserto]] aveva risalito la pubblica [[Road|strada]] e si era fermato davanti alla [[house|casa]] del signor Peregrine Smart, dove una boccia di pesci d'oro artificiali era custodita in una stanza interna; aveva quindi cantato o recitato una piccola poesia, e la boccia era esplosa come una bomba e i pesci erano svaniti nel nulla. Né valse a rasserenare l'ispettore l'udirsi dire da un Conte straniero, con voce morbida e vellutata, che i confini dell'esperienza si andavano dilatando.
+
+In verità, l'atteggiamento di ciascun membro del piccolo gruppo era abbastanza caratteristico. Peregrine Smart in persona era tornato da [[London|Londra]] la mattina seguente per apprendere la notizia della perdita. Naturalmente ammise di aver subito uno choc; ma era tipico di qualcosa di sportivo e brioso in quel vecchietto, qualcosa che rendeva sempre la sua piccola figura impettita simile a quella di un passero maschio, il fatto che mostrasse più vivacità nella ricerca che abbattimento per la perdita. L'uomo di nome Harmer, che era venuto al villaggio proprio allo scopo di comprare i pesci d'oro, poteva essere scusato se si mostrava un po' irritabile nell'apprendere che non erano più lì a disposizione di chi volesse acquistarli. Ma, in [[Truth|verità]], i suoi baffi e le sopracciglia piuttosto aggressivi parevano irti di qualcosa di più preciso della delusione, e gli occhi che saettavano sulla compagnia erano accesi di una vigilanza che [[Well|ben]] poteva chiamarsi sospetto. Il volto giallastro del direttore di banca, anch'egli tornato da [[London|Londra]] benché con un treno più tardo, sembrava, di volta in volta, attirare come una calamita quegli occhi scintillanti e mobili. Delle due figure rimaste del circolo originario, [[Father Brown|Padre Brown]] taceva di solito quando non gli si rivolgeva la parola, e lo stordito Hartopp taceva spesso anche quando gliela si rivolgeva.
+
+Ma il Conte non era uomo da lasciar passare nulla che desse un apparente vantaggio alle sue tesi. Sorrise al suo rivale razionalista, il dottore, nel modo di chi sa quanto sia possibile riuscire irritanti mostrandosi accattivanti.
+
+«Ammetterà, dottore», disse, «che almeno alcune delle storie che lei giudicava tanto inverosimili appaiono oggi un poco più realistiche di quanto non apparissero ieri. Quando un uomo cencioso come quelli che ho descritto è capace, con una sola parola, di dissolvere un solido recipiente entro le quattro pareti della [[house|casa]] davanti alla quale sta, all'esterno, forse lo si potrebbe chiamare un esempio di ciò che dicevo a proposito dei poteri spirituali e delle barriere materiali.»
+
+«E lo si potrebbe chiamare un esempio di ciò che dicevo io», ribatté il dottore secco, «e cioè che basta un po' di cognizione scientifica per mostrare come si facciano i trucchi.»
+
+«Vuole davvero dire, dottore», domandò Smart con una certa concitazione, «che è in grado di gettare una qualche luce scientifica su questo mistero?»
+
+«Posso gettare luce su ciò che il Conte chiama mistero», disse il dottore, «perché non è affatto un mistero. Quella parte è abbastanza chiara. Un suono non è che un'onda di vibrazione, e certe vibrazioni possono infrangere il vetro, se il suono è di un certo tipo e il vetro di un certo tipo. L'uomo non se ne stava fermo sulla [[Road|strada]] a pensare, il che, a detta del Conte, sarebbe il metodo ideale quando gli Orientali desiderano fare due chiacchiere. Cantò a gran voce ciò che voleva, ben forte, e batté una nota acuta su uno strumento. È cosa simile a molti esperimenti coi quali si è incrinato del vetro di composizione speciale.»
+
+«Come l'esperimento», disse il Conte con leggerezza, «col quale parecchi lingotti d'oro massiccio hanno d'un tratto cessato di esistere.»
+
+«Ecco l'ispettore Pinner», disse Boyle. «Detto tra noi, credo che considererebbe la spiegazione naturale del dottore altrettanto una favola quanto quella soprannaturale del Conte. Un intelletto molto scettico, quello del signor Pinner, specie nei miei riguardi. Ho la netta impressione di essere sotto sospetto.»
+
+«Credo che siamo tutti sotto sospetto», disse il Conte.
+
+Fu proprio la presenza di questo sospetto nel suo caso a indurre Boyle a chiedere il consiglio personale di [[Father Brown|Padre Brown]]. Passeggiavano insieme intorno al prato del villaggio, qualche ora più tardi nel corso della giornata, quando il prete, che ascoltava aggrottando pensoso la fronte verso il suolo, si fermò all'improvviso.
+
+«Vede questo?» chiese. «Qualcuno ha lavato il selciato qui, proprio questa piccola striscia di selciato davanti alla [[house|casa]] del colonnello Varney. Mi [[Wonder|domando]] se sia stato fatto ieri.»
+
+[[Father Brown|Padre Brown]] guardò con una certa intensità la [[house|casa]], che era alta e stretta, e portava file di tende parasole a righe di colori vivaci ma già sbiaditi. Le fessure e gli interstizi che lasciavano intravedere l'interno apparivano tanto più bui; anzi, sembravano quasi neri per contrasto con la facciata così dorata nella luce del mattino.
+
+«Quella è la [[house|casa]] del colonnello Varney, non è vero?» chiese. «Anche lui viene dall'Oriente, mi pare. Che sorta d'uomo è?»
+
+«Non l'ho mai nemmeno visto», rispose Boyle. «Non credo che l'abbia visto nessuno, tranne il dottor Burdock, e ho la netta impressione che il dottore non lo veda più di quanto sia costretto.»
+
+«[[Well|Ebbene]], vado a vederlo per un minuto», disse [[Father Brown|Padre Brown]].
+
+Il grande portone si aprì e inghiottì il piccolo prete, e il suo amico rimase a fissarlo in modo attonito e irragionevole, come chiedendosi se si sarebbe mai riaperto. Si aprì dopo pochi minuti, e Padre Brown ne uscì, ancora sorridente, e riprese il suo lento e gingillante giro intorno al quadrato delle strade. A tratti pareva aver dimenticato del tutto la faccenda che aveva per le mani, poiché faceva osservazioni di sfuggita su questioni storiche e sociali, o sulle prospettive di sviluppo del distretto. Osservò il terreno usato per l'inizio di una nuova [[Road|strada]] presso la banca; guardò al di là del vecchio prato del villaggio con un'espressione vaga.
+
+«Terra comune. Suppongo che la gente dovrebbe pascolarvi maiali e oche, se avessero maiali od oche; per come stanno le cose, sembra non nutrire altro che ortiche e cardi. Che peccato che ciò che doveva essere una sorta di ampio prato sia stato ridotto a una piccola e meschina landa selvaggia. Quella di fronte è la [[house|casa]] del dottor Burdock, non è vero?»
+
+«Sì», rispose Boyle, quasi sobbalzando a questo brusco poscritto.
+
+«Benissimo», rispose [[Father Brown|Padre Brown]], «allora credo che rientreremo.»
+
+Mentre aprivano il portone della [[house|casa]] di Smart e salivano le scale, Boyle ripeté al suo compagno molti particolari del dramma che vi si era svolto allo spuntar del giorno.
+
+«Suppongo che lei non si sia riassopito?» chiese [[Father Brown|Padre Brown]], «dando [[Time|tempo]] a qualcuno di scalare il balcone mentre Jameson correva giù a sprangare la porta.»
+
+«No», rispose Boyle; «di questo sono certo. Mi svegliai sentendo Jameson intimare l'altolà allo sconosciuto dal balcone; poi lo sentii correre giù per le scale e mettere le sbarre, e poi in due balzi fui io stesso sul balcone.»
+
+«Oppure potrebbe essersi infilato tra voi entrando da un'altra parte? Vi sono altri ingressi oltre a quello principale?»
+
+«A quanto pare no», rispose Boyle con gravità.
+
+«Sarà meglio che me ne accerti, non vi pare?» chiese [[Father Brown]] in tono di scusa, e scese di nuovo le scale a piccoli passi silenziosi. Boyle rimase nella camera da letto sul davanti, seguendolo con lo sguardo alquanto perplesso. Dopo un intervallo relativamente breve, quel volto tondo e piuttosto campagnolo riapparve in cima alle scale, somigliante non poco a uno [[Ghost|spettro]] di rapa dal largo sogghigno.
+
+«No; credo che la faccenda degli ingressi si possa considerare risolta», disse lo [[Ghost|spettro]] di rapa, allegramente. «E adesso, penso, avendo per così dire chiuso ogni cosa in una scatola ben serrata, possiamo fare l'inventario di quel che abbiamo. È un affare piuttosto curioso.»
+
+«Credete», chiese Boyle, «che il Conte o il colonnello, o qualcuno di questi viaggiatori d'Oriente, abbiano a che fare con la cosa? Credete che sia... soprannaturale?»
+
+«Vi concederò questo», disse il prete con gravità: «se il Conte, o il colonnello, o qualcuno dei vostri vicini si è davvero travestito da arabo e si è avvicinato furtivamente a questa [[house|casa]] nel buio... allora è stato soprannaturale.»
+
+«Che cosa intendete? Perché?»
+
+«Perché l'arabo non ha lasciato impronte», rispose [[Father Brown]]. «Il colonnello da un lato e il banchiere dall'altro sono i più prossimi dei vostri vicini. Quel terriccio rosso e smosso sta tra voi e la banca; stamperebbe piedi nudi come un calco di gesso e lascerebbe probabilmente segni rossi dappertutto. Ho affrontato il carattere del colonnello, condito di curry, per accertarmi che il selciato davanti fosse stato lavato ieri e non oggi; era abbastanza bagnato da produrre impronte umide lungo tutta la [[Road|strada]]. Ora, se il visitatore fosse stato il Conte o il dottore nelle case di fronte, avrebbe potuto, naturalmente, attraversare il terreno comune. Ma a piedi nudi l'avrebbe trovato quanto mai scomodo, poiché quel terreno è, come ho notato, una sola massa di spine, cardi e ortiche urticanti. Di certo si sarebbe punto, e probabilmente ne avrebbe lasciato tracce. A meno che, come dite voi, non fosse un essere soprannaturale.»
+
+Boyle fissò con insistenza il [[Grave|grave]] e indecifrabile volto del suo amico in tonaca.
+
+«Volete dire che lo era?» domandò infine.
+
+«C'è una [[Truth|verità]] generale da tenere a mente», disse [[Father Brown]], dopo una pausa. «Una cosa può talvolta essere troppo vicina per essere vista, come, ad esempio, un uomo non riesce a vedere sé stesso. C'era un uomo che aveva una mosca nell'occhio mentre guardava attraverso il telescopio, e scoprì che sulla [[Moon|luna]] c'era un drago quanto mai incredibile. E mi si dice che, se un uomo ode la riproduzione esatta della propria voce, essa suona come la voce di uno sconosciuto. Allo stesso modo, se qualcosa sta proprio in primo piano nella nostra vita, a stento la vediamo, e se pure la vedessimo, potremmo giudicarla assai strana. Se la cosa in primo piano passasse in secondo piano, probabilmente crederemmo che sia giunta da una lontananza remota. Uscite di nuovo davanti alla [[house|casa]] per un momento. Voglio mostrarvi come appare da un altro punto di vista.»
+
+Si era già alzato, e mentre scendevano le scale proseguì le sue osservazioni in modo un po' brancolante, come se pensasse ad alta voce.
+
+«Il Conte e tutta l'atmosfera asiatica entrano in gioco, perché, in un caso come questo, tutto dipende dalla preparazione della mente. Un uomo può giungere a una condizione in cui un mattone, cadendogli sulla testa, gli sembrerà un mattone babilonese scolpito in caratteri cuneiformi, precipitato dai Giardini Pensili di Babilonia, sicché non guarderà mai il mattone per accorgersi che è del medesimo stampo dei mattoni della sua stessa [[house|casa]]. Così nel vostro caso...»
+
+«Che cosa significa questo?» interruppe Boyle, fissando e indicando l'ingresso. «Che cosa mai, in nome della [[Wonder|meraviglia]], significa? La porta è di nuovo sbarrata.»
+
+Fissava la porta d'ingresso dalla quale erano entrati soltanto poco prima, e attraverso la quale stavano di nuovo, come una volta, le grandi bande scure di ferro arrugginito che un tempo, come aveva detto, avevano chiuso la stalla troppo tardi. C'era qualcosa di cupamente e mutamente ironico in quei vecchi chiavistelli che si serravano dietro di loro imprigionandoli come di propria iniziativa.
+
+«Oh, quelli!» disse [[Father Brown]] con noncuranza. «Quelle sbarre le ho messe io stesso, proprio adesso. Non mi avete sentito?»
+
+«No», rispose Boyle, sbarrando gli occhi. «Non ho sentito nulla.»
+
+«[[Well|Ecco]], immaginavo che non l'avreste sentito», disse l'altro con calma. «Non c'è davvero alcun motivo perché chi sta di sopra debba udire quelle sbarre mentre le si mette. Una specie di gancio s'incastra facilmente in una specie di foro. Quando si è ben vicini si sente un tonfo sordo; ma è tutto qui. L'unica cosa che faccia un rumore udibile di sopra è questa.»
+
+E sollevò la sbarra dal suo alloggiamento e la lasciò cadere con un fragore metallico accanto alla porta.
+
+«Fa rumore, se si disserra la porta», disse [[Father Brown]] con gravità, «anche se lo si fa con molta cautela.»
+
+«Volete dire...»
+
+«Voglio dire», disse [[Father Brown]], «che ciò che avete udito di sopra era Jameson che apriva la porta, non che la chiudeva. E ora apriamo noi stessi la porta e usciamo.»
+
+Quando si trovarono fuori nella strada, sotto il balcone, il piccolo prete riprese la spiegazione di prima con la stessa freddezza di una lezione di chimica.
+
+«Stavo dicendo che un uomo può essere nella disposizione di cercare qualcosa di molto lontano, e non rendersi conto che si tratta di qualcosa di molto vicino, qualcosa di molto vicino a sé stesso, forse qualcosa di molto simile a sé stesso. Era una cosa strana e forestiera quella che avete visto quando avete guardato giù verso questa [[Road|strada]]. Suppongo che non vi sia mai venuto in mente di considerare che cosa vide lui, quando guardò su verso quel balcone.»
+
+Boyle fissava il balcone e non rispose, e l'altro aggiunse:
+
+«Vi è parso molto selvaggio e meraviglioso che un arabo attraversasse l'Inghilterra civile a piedi nudi. Non avete ricordato che in quello stesso momento anche voi eravate a piedi nudi.»
+
+Boyle trovò finalmente le parole, e furono per ripetere parole già dette.
+
+«Jameson ha aperto la porta», disse meccanicamente.
+
+«Sì», assentì l'amico. «Jameson ha aperto la porta ed è uscito nella [[Road|strada]] in abito da notte, proprio come voi siete uscito sul balcone. Ha afferrato due cose che avevate visto un centinaio di volte: quel pezzo di vecchia tenda azzurra che si è avvolto attorno al capo, e lo strumento musicale orientale che dovete aver visto spesso in quel mucchio di curiosità d'Oriente. Il resto era atmosfera e recitazione, recitazione finissima, poiché egli è un [[artist|artista]] finissimo del crimine.»
+
+«Jameson!» esclamò Boyle incredulo. «Era un vecchio arnese così insulso che non lo notavo nemmeno.»
+
+«Per l'appunto» disse il prete, «era un [[artist|artista]]. Se sapeva recitare la parte del mago o del trovatore per sei minuti, credete che non sapesse recitare quella dell'impiegato per sei settimane?»
+
+«Non mi è ancora del tutto chiaro il suo scopo» disse Boyle.
+
+«Il suo scopo è stato raggiunto» rispose [[Father Brown]], «o quasi del tutto raggiunto. I pesci d'oro se li era già presi, s'intende, giacché di occasioni per farlo ne aveva avute venti. Ma se si fosse limitato a prenderli, chiunque si sarebbe reso conto che aveva avuto venti occasioni di farlo. Inventando un mago misterioso venuto dall'estremità della terra, spinse i pensieri di tutti a vagare lontano, verso l'Arabia e l'India, tanto che voi stesso stentate a credere che l'intera faccenda fosse così vicina, in [[Home|casa]] vostra. Vi stava troppo accanto per poterla vedere.»
+
+«Se è così» disse Boyle, «fu un rischio straordinario da correre, e dovette calcolare i tempi al centimetro. È vero che non ho mai udito l'uomo in strada dire nulla mentre Jameson parlava dal balcone, sicché suppongo fosse tutta una finzione. E suppongo sia vero che ci fu il [[Time|tempo]] perché lui uscisse prima che mi fossi svegliato del tutto e mi fossi affacciato sul balcone.»
+
+«Ogni delitto dipende dal fatto che qualcuno non si svegli troppo presto» rispose Padre Brown; «e, in ogni senso, i più fra noi si svegliano troppo tardi. Io, per primo, mi sono svegliato troppo tardi. Perché immagino che sia fuggito da un pezzo, poco prima o poco dopo che gli avessero preso le impronte digitali.»
+
+«Voi, comunque, vi siete svegliato prima di chiunque altro» disse Boyle, «e io in quel senso non mi sarei svegliato mai. Jameson era così corretto e scialbo che di lui mi dimenticavo del tutto.»
+
+«Guardatevi dall'uomo che dimenticate» ribatté l'amico; «è l'unico uomo che vi ha interamente in suo potere. Ma nemmeno io lo sospettai, finché non mi raccontaste come lo aveste udito sprangare la porta.»
+
+«In ogni caso, lo dobbiamo tutto a voi» disse Boyle con calore.
+
+«Lo dovete tutto alla signora Robinson» disse [[Father Brown]] con un sorriso.
+
+«La signora Robinson?» domandò il segretario meravigliato. «Non vorrete dire la governante?»
+
+«Guardatevi dalla donna che dimenticate, e ancora di più» rispose l'altro. «Costui era un criminale di altissima classe; era stato un ottimo attore, e perciò era un buon psicologo. Un uomo come il Conte non ode mai altra voce che la propria; ma quest'uomo sapeva ascoltare, quando tutti avevate dimenticato che fosse là, e raccogliere esattamente i materiali giusti per il suo [[Romance|romanzo]], e conoscere esattamente la nota giusta da toccare per traviarvi tutti. Ma commise un grave errore nella psicologia della signora Robinson, la governante.»
+
+«Non capisco» rispose Boyle, «che cosa possa averci a che fare lei.»
+
+«Jameson non si aspettava che le porte venissero sprangate» disse [[Father Brown]]. «Sapeva che un mucchio di uomini, specie uomini sbadati come voi e il vostro datore di lavoro, possono continuare per giorni a dire che qualcosa andrebbe fatto, o che tanto varrebbe [[Well|farlo]]. Ma se fate capire a una donna che qualcosa andrebbe fatto, c'è sempre il terribile pericolo che lei lo faccia all'improvviso.»

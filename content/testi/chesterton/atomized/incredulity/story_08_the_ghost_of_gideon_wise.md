@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/incredulity-(chesterton)">Incredulity</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/incredulity/story_07_the_doom_of_the_darnaways">‹ Story 07 The Doom of the Darnaways</a><a class="ex-next" href="/testi/chesterton/atomized/incredulity/story_01_the_resurrection_of_father_brown/part_01">part 01 ›</a></div>
@@ -843,3 +845,288 @@ the climbing adventure.'
 And how very literary!  [[Home]] is a sneak and a skunk, but do
 not forget that, like many other sneaks and skunks in [[history]],
 he is also a poet.'
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/incredulity-(chesterton)">Incredulity</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/incredulity/story_07_the_doom_of_the_darnaways">‹ Story 07 The Doom of the Darnaways</a><a class="ex-next" href="/testi/chesterton/atomized/incredulity/story_01_the_resurrection_of_father_brown/part_01">part 01 ›</a></div>
+</nav>
+
+OTTO:  Il fantasma di Gideon Wise
+
+PADRE BROWN considerò sempre quel caso come l'esempio più bizzarro della teoria dell'alibi: la teoria per cui si sostiene, a dispetto del mitologico uccello irlandese, che è impossibile per chiunque trovarsi in due luoghi contemporaneamente. Tanto per cominciare, James Byrne, essendo un giornalista irlandese, era forse ciò che più si avvicinava all'uccello irlandese. Egli riuscì ad approssimarsi, quanto è dato a chiunque, all'essere in due luoghi nello stesso momento: poiché si trovò in due luoghi collocati agli opposti estremi del mondo sociale e politico nel giro di venti minuti. Il primo erano le sale babilonesi del grande albergo, luogo d'incontro dei tre magnati del commercio impegnati a organizzare una serrata delle miniere di carbone e a denunciarla come uno sciopero del carbone; il secondo era una curiosa taverna, con la facciata di una drogheria, dove si riuniva il più sotterraneo triumvirato di coloro che sarebbero stati ben lieti di trasformare la serrata in uno sciopero — e lo sciopero in una rivoluzione. Il cronista andava e veniva tra i tre milionari e i tre capi bolscevichi con l'immunità dell'araldo moderno o del nuovo ambasciatore.
+
+Trovò i tre magnati delle miniere nascosti in una giungla di piante fiorite e in una foresta di colonne scanalate e sgargianti di stucco dorato; gabbie dorate pendevano in alto sotto le cupole dipinte, tra le foglie più elevate delle palme, e vi stavano dentro uccelli dai colori variopinti e dai versi disparati. Nessun uccello nel deserto cantò mai più inascoltato, e nessun fiore sprecò mai la propria dolcezza nell'aria del deserto più compiutamente di quanto i fiori di quelle alte piante sprecassero la loro su quegli uomini d'affari svelti e trafelati, per lo più americani, che parlavano e correvano avanti e indietro in quel luogo. E là, in mezzo a un tripudio di ornamenti rococò che nessuno guardava mai, a un cinguettio di costosi uccelli esotici che nessuno udiva mai, a una massa di sfarzose tappezzerie e a un labirinto di architetture lussuose, i tre uomini sedevano e discorrevano di come il successo si fondasse sul pensiero, sulla parsimonia, su una vigile economia e sull'autocontrollo.
+
+Uno di loro, per la verità, non parlava tanto quanto gli altri; ma osservava con occhi lucidissimi e immobili, che parevano stretti insieme dal suo pince-nez, e il sorriso perpetuo sotto i piccoli baffi neri somigliava piuttosto a un ghigno perpetuo. Costui era il famoso Jacob P. Stein, e non parlava se non quando aveva qualcosa da dire. Ma il suo compagno, il vecchio Gallup della Pennsylvania, un omone grasso e imponente dai venerandi capelli grigi ma con una faccia da pugile, parlava moltissimo. Era di umore gioviale e per metà stuzzicava, per metà tiranneggiava il terzo milionario, Gideon Wise — un vecchio uccello duro, secco e spigoloso, del tipo che i suoi connazionali paragonano al noce americano, con una rigida barba grigia sul mento e i modi e gli abiti di un qualsiasi vecchio contadino delle pianure centrali. C'era un'antica disputa tra Wise e Gallup a proposito di combinazione e concorrenza. Il vecchio Wise conservava ancora, con i modi del vecchio uomo dei boschi, qualcosa delle opinioni del vecchio individualista; apparteneva, come diremmo in Inghilterra, alla Scuola di Manchester; e Gallup cercava sempre di persuaderlo a eliminare la concorrenza e a mettere in comune le risorse del mondo.
+
+«Dovrai entrarci anche tu, vecchio mio, prima o poi», stava dicendo Gallup con affabilità mentre Byrne entrava. «È così che va il mondo, e non possiamo più tornare all'impresa a conduzione unica. Dobbiamo tutti fare fronte comune.»
+
+«Se posso dire una parola», disse Stein, nel suo modo tranquillo, «direi che c'è qualcosa di ancor più urgente che fare fronte comune sul piano commerciale. In ogni caso, dobbiamo fare fronte comune sul piano politico; ed è per questo che ho chiesto al signor Byrne di incontrarci qui oggi. Sulla questione politica dobbiamo unirci; per la semplice ragione che tutti i nostri nemici più pericolosi sono già uniti.»
+
+«Oh, sono pienamente d'accordo sull'unione politica», borbottò Gideon Wise.
+
+«Sentite», disse Stein al giornalista; «so che voi avete libero accesso a questi strani ambienti, signor Byrne, e vorrei che faceste qualcosa per noi in via ufficiosa. Voi sapete dove s'incontrano quegli uomini; ce ne sono solo due o tre che contano, John Elias e Jake Halket, che è quello che fa tutte le arringhe, e forse quel tale poeta, [[Home]].»
+
+«Ma se Home era un tempo amico di Gideon», disse il beffardo signor Gallup; «stava nella sua classe della [[Sunday|scuola domenicale]] o qualcosa del genere.»
+
+«Era un cristiano, allora», disse solennemente il vecchio Gideon; «ma quando un uomo si mette con gli atei non si sa mai. Lo incontro ancora ogni tanto. Ero prontissimo a sostenerlo contro la guerra e la coscrizione e tutto quel genere di cose, naturalmente, ma quando si arriva a tutti i maledetti bolscevichi del creato...»
+
+«Scusatemi», s'interpose Stein, «la faccenda è piuttosto urgente, sicché spero mi perdonerete se la sottopongo subito al signor Byrne. Signor Byrne, posso dirvi in confidenza che sono in possesso di informazioni, o meglio di prove, che manderebbero almeno due di quegli uomini in prigione per lunghe pene, in relazione a cospirazioni durante l'ultima guerra. Non voglio servirmi di quelle prove. Ma voglio che andiate da loro con discrezione e diciate loro che me ne servirò, e me ne servirò domani, a meno che non mutino atteggiamento.»
+
+«[[Well|Ebbene]]», replicò Byrne, «ciò che proponete verrebbe di certo definito occultamento di un reato e potrebbe essere definito ricatto. Non pensate che sia piuttosto pericoloso?»
+
+«Penso che sia piuttosto pericoloso per loro», disse Stein con uno scatto; «e voglio che andiate a dirglielo.»
+
+«Oh, molto [[Well|bene]]», disse Byrne alzandosi, con un sospiro semiironico. «Fa tutto parte del mestiere; ma se mi caccio nei guai, vi avverto che cercherò di trascinarci anche voi.»
+
+«Puoi provarci, ragazzo», disse il vecchio Gallup con una risata cordiale.
+
+Poiché tanto ancora sopravvive di quel grande sogno di Jefferson, e di quella cosa che gli uomini hanno chiamato [[democracy|Democrazia]], che nel suo paese, mentre i ricchi governano da tiranni, i poveri non parlano da schiavi; ma tra l'oppressore e l'oppresso vi è schiettezza.
+
+Il luogo d'incontro dei rivoluzionari era uno strano ambiente spoglio e imbiancato a calce, sulle cui pareti stavano uno o due schizzi deformi e rozzi in bianco e nero, nello stile di qualcosa che doveva essere Arte Proletaria, di cui non un proletario su un milione avrebbe saputo cavare né capo né coda. Forse l'unico punto in comune tra le due sale del consiglio era che entrambe violavano la Costituzione americana con l'esposizione di bevande alcoliche. Cocktail di vari colori erano stati posti dinanzi ai tre milionari. Halket, il più violento dei bolscevichi, ritenne opportuno bere soltanto vodka. Era un tipo lungo e goffo, con una curva minacciosa delle spalle, e il suo stesso profilo era aggressivo come quello di un cane, il naso e le labbra spinti in avanti insieme, queste ultime ornate da baffi rossi arruffati, e il tutto arricciato all'infuori in un perpetuo disprezzo. John Elias era un uomo bruno e vigile, con gli occhiali e una barba nera a punta; e aveva appreso in molti caffè europei il gusto dell'assenzio. Il primo e ultimo pensiero del giornalista fu quanto, in fin dei conti, John Elias e Jacob P. Stein si somigliassero. Erano tanto simili nel volto, nella mente e nei modi, che il milionario avrebbe potuto sparire per una botola nel Babylon Hotel e riemergere nella roccaforte dei bolscevichi.
+
+Anche il terzo uomo aveva un gusto singolare in fatto di bevande, e la sua bevanda era il simbolo di lui. Ciò che stava dinanzi al poeta [[Home]] era infatti un bicchiere di latte, e la sua stessa mitezza pareva avere, in quello scenario, qualcosa di sinistro, come se quel colore opaco e scolorito fosse d'una pasta lebbrosa più velenosa del verde morto e malsano dell'assenzio. Eppure, in [[Truth|verità]], la mitezza era abbastanza genuina; poiché Henry [[Home]] era giunto al campo della rivoluzione lungo una [[Road|strada]] assai diversa e da origini assai diverse da quelle di Jake, il comune agitatore da comizio, e di Elias, il cosmopolita tessitore d'intrighi. Aveva avuto quella che si dice un'educazione accurata, da bambino era andato alla cappella nella sua [[Childhood|infanzia]], e portava attraverso la vita un astinenzialismo di cui non riuscì a liberarsi neppure quando gettò via bagatelle come il [[Christianity|Cristianesimo]] e il [[Marriage|matrimonio]]. Aveva capelli biondi e un bel viso che avrebbe potuto rassomigliare a quello di Shelley, se non avesse indebolito il mento con una piccola frangia di barba forestiera. In qualche modo la barba lo faceva sembrare più simile a una donna; era come se quei pochi peli dorati fossero tutto ciò che egli sapeva fare.
+
+Quando il giornalista entrò, il famigerato Jake stava parlando, come faceva quasi sempre. [[Home]] aveva pronunciato una qualche frase casuale e convenzionale sul «Cielo non voglia» questo o quello, e ciò fu più che sufficiente a scatenare in Jake un torrente di bestemmie.
+
+«Il Cielo non voglia! ed è più o meno [[Well|proprio]] tutto quel che diamine sa fare», disse. «Il Cielo non fa mai altro che proibire questo, quello e quell'altro; ci proibisce di scioperare, e ci proibisce di batterci, e ci proibisce di far fuori quei maledetti usurai e sanguisughe là dove se ne stanno seduti. Perché il Cielo non proibisce qualcosa a loro, tanto per cambiare? Perché quei maledetti preti e parroci non si alzano in piedi e non dicono la verità su quelle bestie, per una volta? Perché il loro prezioso Dio non...»
+
+Elias si concesse un lieve sospiro, come di tenue stanchezza.
+
+«I preti», disse, «appartenevano, come ha dimostrato Marx, alla fase feudale dello sviluppo economico e non sono dunque più realmente parte del problema. La parte un tempo recitata dal prete è oggi recitata dall'esperto capitalista e...»
+
+«Sì», interruppe il giornalista, con la sua torva e ironica implacabilità, «ed è ora che sappiate che alcuni di loro sono maledettamente esperti nel recitarla». E senza distogliere i propri occhi dagli occhi luminosi ma spenti di Elias, gli riferì della minaccia di Stein.
+
+«Ero preparato a qualcosa del genere», disse il sorridente Elias senza muoversi; «direi anzi del tutto preparato».
+
+«Sudici [[dogs|cani]]!» esplose Jake. «Se un pover'uomo dicesse una cosa simile, finirebbe ai lavori forzati. Ma scommetto che loro finiranno in un posto peggiore prima ancora di rendersene conto. Se non vanno all'inferno, non so proprio dove diavolo andranno a finire...»
+
+[[Home]] fece un gesto di protesta, forse non tanto per ciò che l'uomo stava dicendo quanto per ciò che stava per dire, ed Elias troncò il discorso con fredda esattezza.
+
+«È del tutto superfluo, per noi», disse, guardando Byrne fisso attraverso gli occhiali, «scambiare minacce con l'altra parte. Ci basta che le loro minacce siano del tutto inefficaci per quanto ci riguarda. Anche noi abbiamo preso tutte le nostre disposizioni, e alcune di esse non appariranno finché non appariranno in movimento. Per quanto ci riguarda, una rottura immediata e una prova di forza estrema saranno del tutto conformi al piano».
+
+Mentre egli parlava in maniera assai quieta e dignitosa, qualcosa nel suo viso giallo e immobile e nei suoi grandi occhialoni fece salire un vago [[Fear|timore]] lungo la schiena del giornalista. Il viso selvaggio di Halket poteva sembrare che avesse un ringhio nella sua stessa sagoma, visto di profilo; ma visto in faccia, la rabbia covante nei suoi occhi aveva anche qualcosa d'ansioso, come se l'[[Riddle|enigma]] etico ed economico fosse dopo tutto un po' troppo per lui; e [[Home]] pareva ancora più sospeso ai fili dell'affanno e dell'auto[[Self|critica]]. Ma in quel terzo uomo dagli occhialoni, che parlava con tanto buonsenso e semplicità, c'era qualcosa di [[Uncanny|perturbante]]; era come un morto che parlasse a tavola.
+
+Mentre Byrne usciva con il suo messaggio di sfida, e passava lungo lo stretto corridoio accanto alla drogheria, ne trovò l'estremità sbarrata da una figura strana eppure stranamente familiare: bassa e tozza, e dall'aria piuttosto bizzarra vista in scuro controluce, con la testa tonda e il cappello a larghe tese.
+
+«Padre Brown!» esclamò il giornalista stupito. «Credo che dobbiate essere entrato dalla porta sbagliata. Non è probabile che voi facciate parte di questa piccola cospirazione».
+
+«La mia è una cospirazione piuttosto più antica», replicò Padre Brown sorridendo, «ma è una cospirazione assai diffusa».
+
+«[[Well|Beh]]», replicò Byrne, «non riesco a immaginare che qualcuna delle persone qui dentro sia a mille miglia da ciò che vi riguarda».
+
+«Non è sempre facile dirlo», replicò il prete con calma; «ma, in verità, c'è qui una persona che ne è distante appena un pollice».
+
+Scomparve nell'ingresso buio e il giornalista proseguì per la sua strada assai perplesso. Fu ancor più perplesso per un piccolo incidente che gli capitò mentre svoltava verso l'albergo per fare rapporto ai suoi clienti capitalisti. Il pergolato di fiori e di gabbie d'uccelli in cui quei vecchi signori scontrosi stavano annidati si raggiungeva per una rampa di gradini di marmo, fiancheggiata da ninfe e tritoni dorati. Giù per quei gradini scendeva di corsa un giovane sveglio dai capelli neri, il naso all'insù e un fiore all'occhiello, il quale lo afferrò e lo tirò da parte prima che potesse salire la scala.
+
+«Sentite un po'», sussurrò il giovane, «io sono Potter, il segretario del vecchio Gid, sapete: ora, detto fra noi, c'è una specie di fulmine che si sta forgiando, non è vero, eh?»
+
+«Sono giunto alla conclusione», rispose Byrne con cautela, «che il Ciclope avesse qualcosa sull'incudine. Ma ricordatevi sempre che il Ciclope è un gigante, ma ha un occhio solo. Io credo che il bolscevismo sia...»
+
+Mentre parlava, il segretario ascoltava con un volto che aveva una certa immobilità quasi mongolica, nonostante la vivacità delle gambe e dell'abbigliamento. Ma quando Byrne pronunciò la parola «bolscevismo», gli occhi acuti del giovane guizzarono ed egli disse rapidamente:
+
+«Cosa c'entra quel... ah, sì, quella specie di fulmine; mi scusi tanto, errore mio. È così facile dire incudine quando si intende ghiacciaia.»
+
+E con ciò lo straordinario giovanotto scomparve giù per i gradini, e Byrne continuò a salirli, mentre la sua mente si andava velando di sempre più fitta perplessità.
+
+Trovò il gruppo dei tre accresciuto a quattro dalla presenza di un individuo dal volto affilato come una scure, con capelli radissimi color paglia e un monocolo, che pareva fungere da una sorta di consigliere per il vecchio Gallup, forse il suo legale, benché non fosse propriamente indicato come tale. Si chiamava Nares, e le domande che rivolgeva a Byrne vertevano principalmente, per una ragione o per l'altra, sul numero di coloro che erano probabilmente iscritti all'organizzazione rivoluzionaria. Poiché di questo Byrne sapeva poco, ancor meno ne disse; e i quattro uomini alla fine si levarono dai loro posti, e l'ultima parola spettò all'uomo che era stato il più taciturno.
+
+«La ringrazio, signor Byrne» disse Stein, ripiegando gli occhiali. «Non resta che dire che tutto è pronto; su questo punto concordo pienamente con il signor Elias. Domani, prima di mezzogiorno, la polizia avrà arrestato il signor Elias, sulla base delle prove che per allora avrò messo davanti a loro, e quei tre, almeno, saranno in carcere prima di notte. Come sapete, ho tentato di evitare questa strada. Credo sia tutto, signori.»
+
+Ma il signor Jacob P. Stein non depose la sua formale denuncia il giorno dopo, per una ragione che ha spesso interrotto le attività di caratteri tanto industriosi. Non lo fece perché si dava il caso che fosse morto; e nulla del resto del programma venne portato a compimento, per una ragione che Byrne trovò esposta in lettere giganti quando aprì il suo giornale del mattino: «Tremendo Triplice Omicidio: Tre Milionari Trucidati in Una Sola [[Night|Notte]].» Seguivano altre frasi esclamative in caratteri più piccoli, appena quattro volte la dimensione dei caratteri normali, che insistevano sul tratto singolare del mistero: il fatto che i tre uomini fossero stati uccisi non solo simultaneamente, ma in tre luoghi assai distanti tra loro: Stein nella sua raffinata e lussuosa villa di campagna, a centocinquanta chilometri nell'entroterra; Wise fuori dal piccolo bungalow sulla costa dove viveva di brezze marine e di vita semplice; e il vecchio Gallup in un boschetto proprio davanti al cancello del guardiano della sua [[Great House|grande dimora]], all'altro capo della contea. In tutti e tre i casi non poteva esservi alcun [[Doubt|dubbio]] sulle scene di violenza che avevano preceduto la [[Death|morte]], sebbene il [[Body|corpo]] vero e proprio di Gallup non fosse stato ritrovato che il secondo giorno, dove pendeva, enorme e orribile, tra le forcelle e i rami spezzati del boschetto in cui il suo peso era precipitato, come un bisonte che si getta contro le lance; mentre Wise era stato chiaramente scaraventato oltre la scogliera nel mare, non senza lotta, poiché le impronte dei suoi piedi che scivolavano e raspavano si potevano ancora seguire sull'orlo stesso del precipizio. Ma il primo segnale della [[Tragedy|tragedia]] era stato la vista del suo largo e floscio cappello di paglia, che galleggiava lontano sulle onde e ben visibile dalle scogliere sovrastanti. Anche il [[Body|corpo]] di Stein aveva dapprima sfuggito le ricerche, finché una debole traccia di [[Blood|sangue]] non condusse gli investigatori a una vasca da bagno su antico modello romano che egli stava facendo costruire nel suo [[Garden|giardino]]; giacché era stato un uomo dall'indole incline all'esperimento e con un gusto per le antichità.
+
+Qualunque cosa potesse pensare, Byrne era costretto ad ammettere che, per come stavano le cose, non vi era alcuna prova legale contro chicchessia. Un movente per l'omicidio non bastava. Nemmeno una disposizione morale all'omicidio bastava. E non riusciva a concepire quel pallido giovane pacifista, Henry [[Home]], che macellava un altro uomo con brutale violenza, per quanto potesse immaginare il bestemmiatore Jake e persino l'ebreo dal ghigno sarcastico capaci di qualsiasi cosa. La polizia, e l'uomo che pareva coadiuvarla (che non era altri che il piuttosto misterioso individuo dal monocolo, presentato come il signor Nares), si rendevano conto della situazione con la medesima chiarezza del giornalista.
+
+Sapevano che, per il momento, i cospiratori bolscevichi non potevano essere perseguiti e condannati, e che sarebbe stato un fallimento altamente clamoroso se fossero stati perseguiti e assolti. Nares esordì con astuto candore chiamandoli, in un certo senso, a consiglio, invitandoli a un conciliabolo privato e chiedendo loro di esprimere liberamente le proprie opinioni nell'interesse dell'umanità. Aveva iniziato le sue indagini sulla scena più vicina della [[Tragedy|tragedia]], il bungalow in riva al mare; e a Byrne fu concesso di assistere a una scena curiosa, che era al tempo stesso un pacifico colloquio di diplomatici e una velata [[Inquisition|inquisizione]], ovvero la messa alla prova dei sospetti. Con non poca sorpresa di Byrne, l'incongrua compagnia, seduta intorno al tavolo nel bungalow sul mare, comprendeva la tozza figura e la testa da civetta di [[Father Brown]], benché il suo legame con la faccenda non venisse alla luce se non qualche [[Time|tempo]] dopo. La presenza del giovane Potter, il segretario del defunto, era più naturale; eppure, in qualche modo, il suo contegno non era altrettanto naturale. Lui [[Alone|soltanto]] conosceva bene il luogo del loro incontro, ed era persino, in un certo tetro senso, il loro anfitrione; e tuttavia offriva ben poco aiuto o informazione. Il suo viso rotondo dal naso camuso portava un'espressione più simile al broncio che al dolore.
+
+Jake Halket, come al solito, parlava più di tutti; e da un uomo del suo stampo non ci si poteva aspettare che sostenesse la cortese finzione secondo cui lui e i suoi amici non erano accusati. Il giovane [[Home]], nella sua maniera più raffinata, cercava di trattenerlo quando prese a insultare gli uomini che erano stati assassinati; ma Jake era sempre pronto a strapazzare a suon di urla i suoi amici quanto i suoi nemici. In un fiotto di bestemmie sgravò la propria [[Soul|anima]] di un necrologio assai poco ufficiale del defunto Gideon Wise. Elias sedeva perfettamente immobile e apparentemente indifferente dietro quegli occhiali che gli mascheravano gli occhi.
+
+«Sarebbe inutile, suppongo» disse Nares con freddezza, «dirle che le sue osservazioni sono indecenti. Forse la toccherà di più se le dico che sono imprudenti. Lei praticamente ammette di aver odiato il morto.»
+
+«Mi volete sbattere in gattabuia per questo, eh?» sghignazzò il demagogo. «E va bene. Solo che dovrete costruire una [[Prison|prigione]] per un milione di uomini, se avete intenzione di incarcerare tutti i poveracci che avevano ragione di odiare Gid Wise. E lo sapete [[Well|bene]] quanto lo so io che è sacrosanta [[Truth|verità]].»
+
+Nares taceva; e nessuno parlò finché Elias non intervenne con quel suo strascicato eloquio, così nitido eppure lievemente blesato.
+
+«Questa mi sembra una discussione del tutto improduttiva da entrambe le parti», disse. «Ci avete convocati qui o per chiederci informazioni o per sottoporci a un [[Cross|interrogatorio]] serrato. Se avete fiducia in noi, vi diciamo che non abbiamo informazioni. Se diffidate di noi, dovete dirci di che cosa siamo accusati, oppure avere la cortesia di tenervi il fatto per voi. Nessuno è stato in grado di indicare la benché minima traccia di prova che colleghi qualcuno di noi a queste tragedie, non più di quanto ci colleghi all'assassinio di [[Julius Caesar]]. Non osate arrestarci, e non volete crederci. Che senso ha che rimaniamo qui?»
+
+E si [[Rose|alzò]], abbottonandosi con calma la giacca, seguito dall'esempio degli amici. Mentre si dirigevano verso la porta, il giovane [[Home]] si voltò e per un istante affrontò gli inquirenti con il suo pallido volto fanatico.
+
+«Desidero dire», disse, «che sono stato in un lurido carcere per tutta la durata della guerra perché non ho voluto acconsentire a uccidere un uomo.»
+
+Con ciò uscirono, e i membri del gruppo rimasti si guardarono l'un l'altro con aria torva.
+
+«Non credo proprio», disse Padre Brown, «che restiamo del tutto vittoriosi, malgrado la ritirata.»
+
+«Non m'importa di nulla», disse Nares, «tranne di essere stato malmenato da quel bestemmiatore d'un mascalzone di Halket. [[Home]] è comunque un gentiluomo. Ma checché ne dicano, sono più che certo che sanno; sono coinvolti, o almeno la maggior parte di loro. L'hanno quasi ammesso. Ci hanno schernito perché non siamo in grado di provare di aver ragione, molto più che di aver torto. Che cosa ne pensa, [[Father Brown|Padre Brown]]?»
+
+L'interpellato guardò verso Nares con uno sguardo di una mitezza e di una meditabondità quasi sconcertanti.
+
+«È verissimo», disse, «che mi sono fatto l'idea che una persona in particolare sappia più di quanto ci abbia detto. Ma penso che sarebbe [[Well|bene]] che non facessi il suo nome, per ora.»
+
+Il monocolo cadde dall'occhio di Nares, che alzò lo sguardo di scatto. «Per il momento questo è ufficioso», disse. «Suppongo lei sappia che, in una fase successiva, se lei trattiene informazioni, la sua posizione potrebbe farsi seria.»
+
+«La mia posizione è semplice», rispose il prete. «Sono qui per tutelare i legittimi interessi del mio amico Halket. Penso che, date le circostanze, sarà nel suo interesse se le dico che, a mio avviso, egli reciderà tra non molto i suoi legami con questa organizzazione, e cesserà di essere socialista in quel senso. Ho ogni motivo di credere che finirà probabilmente come cattolico.»
+
+«Halket!» esplose l'altro incredulo. «Ma se maledice i preti dalla mattina alla [[Night|sera]]!»
+
+«Non credo che lei capisca bene quel genere di uomo», disse Padre Brown con dolcezza. «Egli maledice i preti perché essi non riescono (a suo giudizio) a sfidare il mondo intero in nome della giustizia. Perché mai dovrebbe aspettarsi che essi sfidino il mondo intero in nome della giustizia, se non avesse già cominciato a presumere che essi fossero — ciò che sono? Ma non ci siamo riuniti qui per discutere la psicologia della conversione. Lo accenno soltanto perché potrebbe semplificarle il compito — restringere, forse, il campo delle ricerche.»
+
+«Se fosse vero, lo restringerebbe di [[Well|bella]] forza a quel farabutto dalla faccia stretta di Elias — e non me ne [[Wonder|meraviglierei]], ché un diavolo più raccapricciante, più freddo di sangue e più sogghignante non l'ho mai visto.»
+
+[[Father Brown|Padre Brown]] sospirò. «Mi ha sempre ricordato il povero Stein», disse, «anzi credo fossero in qualche modo imparentati.»
+
+«Oh, senta un po'», cominciò Nares, quando la sua protesta fu troncata dallo spalancarsi della porta, che rivelò di nuovo la figura lunga e sciolta e il pallido volto del giovane [[Home]]; ma sembrava che egli avesse non soltanto il suo pallore naturale, bensì un nuovo e innaturale pallore.
+
+«Ehilà», gridò Nares, inforcando il suo unico monocolo, «perché è tornato indietro?»
+
+[[Home]] attraversò la stanza con passo piuttosto malfermo, senza una parola, e si lasciò cadere pesantemente su una sedia. Poi disse, come in una specie di stordimento: «Ho perso di vista gli altri... Mi sono smarrito. Ho pensato che fosse meglio tornare indietro.»
+
+Sul tavolo c'erano gli avanzi dei rinfreschi serali, ed Henry Home, quel proibizionista di tutta una vita, si versò un bicchiere da vino colmo di brandy da liquore e lo trangugiò d'un fiato. «Sembra sconvolto», disse [[Father Brown|Padre Brown]].
+
+[[Home]] si era portato le mani alla fronte e parlava come da sotto la sua [[Shadow|ombra]]: sembrava rivolgersi soltanto al prete, a voce bassa.
+
+«Tanto vale che ve lo dica. Ho visto un fantasma.»
+
+«Un [[Ghost|fantasma]]!» ripeté Nares stupefatto. «Il fantasma di chi?»
+
+«Il [[Ghost|fantasma]] di Gideon Wise, il padrone di questa [[house|casa]]», rispose [[Home]] con maggiore fermezza, «ritto sull'abisso in cui è precipitato.»
+
+«Oh, sciocchezze!» disse Nares; «nessuna persona assennata crede ai fantasmi.»
+
+«Non è esattamente così», disse [[Father Brown|Padre Brown]], con un lieve sorriso. «In realtà vi sono prove altrettanto buone a favore di molti fantasmi quante ve ne sono a favore della maggior parte dei delitti.»
+
+«[[Well|Be']], è mio mestiere correre dietro ai criminali», disse Nares piuttosto bruscamente, «e lascerò che altri corrano via dai fantasmi. Se di questi tempi qualcuno sceglie di aver paura dei fantasmi, sono affari suoi.»
+
+«Non ho detto di averne paura, per quanto oserei dire che potrei averne», disse [[Father Brown|Padre Brown]]. «Nessuno lo sa finché non ci prova. Ho detto che ci credo, in ogni caso, abbastanza da voler saperne di più su questo. Che cosa ha visto, esattamente, signor Home?»
+
+«Era laggiù, sull'orlo di quelle scogliere sgretolate; sa che c'è una specie di varco o fenditura proprio nel punto in cui egli fu gettato di sotto. Gli altri erano andati avanti, e io stavo attraversando la brughiera verso il sentiero lungo la scogliera. Andavo spesso da quella parte, perché mi piaceva vedere l'alto mare frangersi contro le rupi. Non ci ho badato molto, sta[[Night|notte]], oltre a stupirmi che il mare fosse così agitato in una [[Night|notte]] di chiaro di luna come questa. Vedevo le pallide creste degli spruzzi apparire e scomparire mentre le grandi onde balzavano contro il promontorio. Tre volte vidi il momentaneo baluginio della schiuma al chiaro di luna, e poi vidi qualcosa di imperscrutabile. Il quarto lampo della schiuma d'argento parve fissarsi nel cielo. Non ricadde; attesi con folle intensità che ricadesse. Immaginai di essere impazzito, e che il [[Time|tempo]] fosse stato per me misteriosamente arrestato o prolungato. Poi mi avvicinai, e allora credo di aver gridato forte. Poiché quello spruzzo sospeso, come fiocchi di neve non ancora caduti, si era ricomposto in un volto e in una figura, bianca come il lebbroso splendente d'una leggenda, e terribile come la [[Lightning|folgore]] immobile.»
+
+«E dite che era Gideon Wise?»
+
+Home annuì senza parlare. Ci fu un silenzio, rotto di colpo da Nares che balzava in piedi; e con tale violenza, invero, che rovesciò una sedia.
+
+«Oh, sono tutte sciocchezze» disse; «ma faremmo meglio a uscire e vedere.»
+
+«Io non ci vado» disse [[Home]] con improvvisa veemenza. «Non camminerò mai più per quel sentiero.»
+
+«Credo che dovremo tutti camminare per quel sentiero, questa notte» disse il sacerdote con gravità; «anche se non negherò mai che sia stato un sentiero pericoloso... e per più d'una persona.»
+
+«Non lo farò... Dio, come mi tormentate tutti quanti» gridò Home, e gli occhi presero a roteargli in modo strano. Si era alzato con gli altri, ma non accennava a muoversi verso la porta.
+
+«Signor [[Home]]» disse Nares con fermezza, «io sono un agente di polizia, e questa casa, per quanto voi non lo sappiate, è circondata dalla polizia. Ho cercato di indagare in maniera amichevole, ma devo indagare su ogni cosa, anche su una cosa sciocca come un fantasma. Devo pregarvi di condurmi sul luogo di cui parlate.»
+
+Ci fu un altro silenzio, mentre Home stava lì ansimando e ansando come in preda a un indicibile terrore. Poi tutt'a un tratto si rimise seduto sulla sedia e disse con voce affatto nuova e assai più composta:
+
+«Non posso farlo. [[Well|Tanto vale]] che sappiate il perché. Lo saprete prima o poi. L'ho ucciso io.»
+
+Per un istante ci fu l'immobilità di una [[house|casa]] colpita da un fulmine e piena di cadaveri. Poi la voce di [[Father Brown|Padre Brown]] risuonò in quell'enorme [[Silence|silenzio]] stranamente esile, come il guaito d'un topo.
+
+«L'avete ucciso deliberatamente?» chiese.
+
+«Come si può rispondere a una simile domanda?» rispose l'uomo sulla sedia, mordicchiandosi cupamente il dito. «Ero pazzo, suppongo. Era insopportabile e insolente, lo so. Ero sulla sua terra e credo che mi abbia colpito; comunque sia, venimmo alle mani ed egli precipitò dalla scogliera. Quando fui ben lontano dal luogo, mi si palesò d'un tratto che avevo commesso un delitto che mi recideva dal consorzio degli uomini; il marchio di Caino mi pulsava sulla fronte e nel cervello stesso; compresi per la prima volta che avevo davvero ucciso un uomo. Sapevo che prima o poi avrei dovuto confessarlo.» Si drizzò all'improvviso sulla sedia. «Ma non dirò nulla contro nessun altro. È inutile interrogarmi su complotti o complici... non dirò nulla.»
+
+«Alla luce degli altri omicidi» disse Nares, «è difficile credere che la lite fosse tanto premeditata da fuggirvi di mente. Di certo qualcuno vi ha mandato là?»
+
+«Non dirò nulla contro coloro con cui ho lavorato» disse Home con fierezza. «Sono un assassino, ma non sarò un traditore.»
+
+Nares si frappose tra l'uomo e la porta e chiamò, con tono ufficiale, qualcuno di fuori.
+
+«In ogni caso andremo tutti sul posto» disse a bassa voce al segretario; «ma quest'uomo dev'essere tenuto in custodia.»
+
+I presenti, nel complesso, sentirono che andare a caccia di spettri su una scogliera marina era un anticlimax assai sciocco, dopo la confessione dell'assassino. Ma Nares, benché il più scettico e sprezzante di tutti, ritenne suo dovere non lasciare nulla di intentato; non lasciare, per così dire, alcuna pietra tombale non rivoltata. Ché, in fin dei conti, quella scogliera friabile era l'unica pietra tombale sopra la fossa d'acqua del povero Gideon Wise. Nares chiuse a chiave la porta, essendo l'ultimo a uscire dalla casa, e seguì gli altri attraverso la brughiera fino alla scogliera, quando si stupì di vedere il giovane Potter, il segretario, tornare in fretta verso di loro, il volto che al chiaro di luna appariva bianco come una luna.
+
+«Per Dio, signore» disse, parlando per la prima [[Time|volta]] quella [[Night|notte]], «c'è davvero qualcosa laggiù. È... è proprio come lui.»
+
+«Ma tu deliri» ansimò il [[Detective|detective]]. «Tutti quanti delirano.»
+
+«Credete che io non lo riconosca quando lo vedo?» gridò il segretario con singolare amarezza. «Ho le mie buone ragioni.»
+
+«Forse» disse il [[Detective|detective]] in tono tagliente, «siete uno di quelli che avevano ragione di odiarlo, come diceva Halket.»
+
+«Forse» disse il segretario; «comunque sia, lo riconosco, e vi dico che lo vedo starsene lì ritto e sbarrato sotto questa luna infernale.»
+
+E indicò la fenditura nelle scogliere, dove già si scorgeva qualcosa che avrebbe potuto essere un raggio di luna o una striscia di spuma, ma che cominciava già a parere un po' più solido. Si erano avvicinati strisciando di un centinaio di metri, e quella cosa era ancora immobile; ma pareva una statua d'argento.
+
+Lo stesso Nares appariva un po' pallido e sembrava indugiare, dibattendo sul da farsi. Potter era spaventato, francamente, quanto lo stesso Home; e persino Byrne, che era un cronista incallito, era piuttosto restio ad avvicinarsi, potendone fare a meno. Non poteva pertanto fare a meno di trovare un po' curioso che l'unico uomo il quale non pareva spaventato da un fantasma fosse l'uomo che aveva dichiarato apertamente che avrebbe potuto esserci. Ché Padre Brown avanzava con lo stesso passo saldo e pesante, come se andasse a consultare una bacheca di avvisi.
+
+«Non pare che vi turbi granché» disse Byrne al sacerdote; «eppure credevo che foste l'unico a credere negli spettri.»
+
+«Se è per questo» rispose [[Father Brown|Padre Brown]], «io credevo che voi foste uno di quelli che non ci credono. Ma credere nei fantasmi è una cosa, e credere in un fantasma è tutt'altra faccenda.»
+
+Byrne parve alquanto vergognarsi di sé, e lanciò quasi di soppiatto un'occhiata ai promontori frananti nel freddo chiaro di luna, che erano il ritrovo della visione o dell'illusione. «Non ci ho creduto finché non l'ho visto» disse.
+
+«E io ci ho creduto finché non l'ho visto» disse Padre Brown. Il giornalista lo seguì con lo sguardo mentre se ne andava, arrancando pesante, attraverso la grande distesa deserta che saliva verso il promontorio spaccato come il fianco in pendio d'una collina tagliata in due. Sotto la luna scolorita l'erba pareva una lunga capigliatura grigia tutta pettinata da una parte dal vento, e sembrava indicare il luogo dove la scogliera che si sgretolava mostrava pallidi bagliori di gesso nel verde-grigio della cotica, e dove sorgeva la pallida figura o l'ombra lucente che nessuno ancora sapeva spiegarsi. Per il momento quella pallida figura dominava un paesaggio desolato, vuoto tranne che per la nera sagoma squadrata e sbrigativa del sacerdote che avanzava solo verso di essa. Poi il prigioniero Home si strappò all'improvviso ai suoi custodi con un grido lacerante e corse avanti al sacerdote, cadendo in ginocchio dinanzi allo spettro.
+
+«Ho confessato», lo sentirono gridare. «Perché sei venuto a dir loro che ti ho ucciso?»
+
+«Sono venuto a dir loro che non l'hai fatto», disse il [[Ghost|fantasma]], e gli tese una mano. Allora l'uomo inginocchiato balzò in piedi con un urlo di tutt'altra specie; e capirono che era una mano di carne.
+
+Fu la più straordinaria salvezza dalla [[Death|morte]] che si ricordasse negli annali recenti, dissero l'esperto [[Detective|investigatore]] e il non meno esperto giornalista. Eppure, in un certo senso, era stata semplicissima, dopotutto. Schegge e frammenti della rupe si staccavano di continuo, e alcuni si erano impigliati nell'enorme fenditura, così da formare quello che in realtà era un cornicione, o una tasca, in ciò che si supponeva fosse un salto a picco, giù nelle tenebre, fino al mare. Il vecchio, che era un vecchio assai coriaceo e nerboruto, era caduto su questa più bassa spalla di roccia e aveva trascorso un paio di ore terribili — ventiquattro, per la precisione — nel tentativo di risalire per rupi che gli franavano sotto senza tregua, ma che alla fine, con le loro stesse rovine, formarono una sorta di scala di salvezza. Poteva essere questa la spiegazione dell'illusione ottica di [[Home]] circa un'onda bianca che appariva e scompariva, e che infine venne a fermarsi. Comunque fosse, ecco lì Gideon Wise, saldo d'ossa e di tendini, coi suoi capelli bianchi e i suoi abiti bianchi e polverosi da campagna e i suoi lineamenti rudi da campagnolo, che erano tuttavia molto meno rudi del solito. Forse fa bene ai milionari passare ventiquattro ore su un cornicione di roccia, a un palmo dall'[[Eternity|eternità]]. Comunque fosse, non solo disconobbe ogni rancore verso il criminale, ma diede dell'accaduto un resoconto che attenuava considerevolmente il delitto. Dichiarò che [[Home]] non l'aveva affatto gettato di sotto; che il terreno, sgretolandosi di continuo, aveva ceduto sotto di lui, e che [[Home]] aveva perfino accennato a un gesto, come per tentare di salvarlo.
+
+«Su quel provvidenziale scoglio, laggiù», disse solennemente, «ho promesso al Signore di perdonare i miei nemici; e il Signore mi giudicherebbe ben meschino se non perdonassi un piccolo incidente come questo.»
+
+[[Home]] dovette naturalmente allontanarsi sotto la sorveglianza della polizia, ma l'[[Detective|investigatore]] non si nascondeva che la detenzione del prigioniero sarebbe stata probabilmente breve, e la pena, ammesso che ve ne fosse, irrilevante. Non a ogni assassino capita di poter mettere l'assassinato al banco dei testimoni a rilasciargli un attestato di buona condotta.
+
+«È un caso strano», disse Byrne, mentre l'investigatore e gli altri s'affrettavano lungo il sentiero della scogliera verso la città.
+
+«Lo è», disse [[Father Brown]]. «Non ci riguarda affatto; ma vorrei che restaste con me a ragionarci sopra.»
+
+Vi fu un silenzio, poi Byrne acconsentì dicendo d'improvviso: «Immagino che pensaste già a [[Home]], quando diceste che qualcuno non stava dicendo tutto ciò che sapeva.»
+
+«Quando dissi quello», replicò l'amico, «pensavo all'oltremodo silenzioso signor Potter, il segretario del non più defunto né (diciamo così) compianto signor Gideon Wise.»
+
+«Be', l'unica volta che Potter mi rivolse la parola lo credetti un pazzo», disse Byrne, sgranando gli occhi, «ma non pensai mai che fosse un criminale. Disse qualcosa a proposito del fatto che tutto quanto aveva a che vedere con una ghiacciaia.»
+
+«Sì, pensavo che ne sapesse qualcosa», disse Padre Brown pensieroso. «Non ho mai detto che c'entrasse... Suppongo che il vecchio Wise sia davvero abbastanza robusto da essere risalito da quella voragine.»
+
+«Che cosa intendete?» chiese il cronista stupito. «Ma certo che è uscito da quella voragine; eccolo lì.»
+
+Il prete non rispose alla domanda, ma chiese bruscamente: «Che cosa pensate di Home?»
+
+«[[Well|Be']], non lo si può definire propriamente un criminale», rispose Byrne. «Non ha mai avuto nulla di alcun criminale che io abbia conosciuto, e qualche esperienza ce l'ho; e Nares, naturalmente, ne ha molta di più. Non credo che l'abbiamo mai davvero creduto un criminale.»
+
+«E io non ho mai creduto in lui in un'altra veste», disse il prete con calma. «Voi ne saprete di più sui criminali. Ma c'è una categoria di persone su cui probabilmente ne so più io di voi, o perfino di Nares, se è per questo. Ne ho conosciuti parecchi, e conosco le loro piccole abitudini.»
+
+«Un'altra categoria di persone», ripeté Byrne, sconcertato. «Ma insomma, quale categoria conoscete?»
+
+«I penitenti», disse Padre Brown.
+
+«Non capisco bene», obiettò Byrne. «Volete dire che non credete al suo delitto?»
+
+«Non credo alla sua confessione», disse [[Father Brown]]. «Ne ho udite parecchie di confessioni, e non ce n'è mai stata una autentica come quella. Era romantica; era tutta presa dai libri. Guardate come ha parlato di portare il marchio di Caino. Roba da libri. Non è ciò che proverebbe chi avesse compiuto di persona un'azione fino allora orribile ai suoi occhi. Supponete di essere un onesto scrivano o un garzone di bottega, sconvolto nel sentire che per la prima volta avete rubato del denaro. Rifletteresti subito che la vostra azione è identica a quella di Barabba? Supponete di aver ucciso un bambino in un accesso di collera spaventoso. Risalireste la storia, fino a poter identificare la vostra azione con quella di un potentato idumeo di nome Erode? Credetemi, i nostri delitti sono fin troppo orribilmente privati e prosaici perché i nostri primi pensieri corrano a paralleli storici, per quanto calzanti. E perché mai si è dato tanta pena di dire che non avrebbe tradito i suoi colleghi? Proprio dicendolo, li tradiva. Nessuno gli aveva ancora chiesto di tradire alcunché o alcuno. No; non credo che fosse sincero, e non gli darei l'assoluzione. Un bel modo di procedere, se la gente cominciasse a farsi assolvere di ciò che non ha commesso.» E Padre Brown, il capo voltato altrove, fissava immoto il mare aperto.
+
+«Ma non capisco dove volete arrivare», esclamò Byrne. «Che senso ha ronzargli intorno coi sospetti, quando è ormai perdonato? È fuori dai guai comunque. È perfettamente al sicuro.»
+
+Padre Brown girò su se stesso come una trottola e afferrò l'amico per la giacca con un'eccitazione inattesa e inspiegabile.
+
+«Ecco», gridò con enfasi. «Attaccatevi a questo! È perfettamente al sicuro. È fuori dai guai. Ecco perché è la chiave di tutto l'enigma.»
+
+«Oh, misericordia», disse Byrne fiaccamente.
+
+«Voglio dire», insisté il piccolo prete, «che c'è dentro proprio perché ne è fuori. È tutta qui la spiegazione.»
+
+«E anche una spiegazione lucidissima» disse il giornalista con trasporto.
+
+Rimasero per un [[Time|po']] a contemplare il mare in [[Silence|silenzio]], poi [[Father Brown]] riprese con tono allegro: «E così eccoci di nuovo alla ghiacciaia. Il punto in cui, fin dal principio, in questa faccenda avete preso tutti la strada sbagliata è lo stesso in cui la prende buona parte dei giornali e degli uomini pubblici. Ed è perché avete dato per scontato che nel mondo moderno non ci sia nulla per cui valga la pena battersi, tranne il bolscevismo. Questa storia non ha nulla a che vedere con il bolscevismo; se non forse come paravento.»
+
+«Non vedo come sia possibile» obiettò Byrne. «Qui abbiamo i tre milionari di quell'unica impresa assassinati...»
+
+«No!» disse il prete con voce acuta e squillante. «Non è così. È proprio questo il punto. Non avete tre milionari assassinati. Ne avete due assassinati; e avete il terzo milionario vivo e vegeto, pronto a scalciare e prontissimo a farlo. E avete quel terzo milionario liberato per sempre dalla minaccia che gli era stata scagliata contro sotto i vostri stessi occhi, in termini scherzosamente cortesi, in quella conversazione che avete descritto come avvenuta in albergo. Gallup e Stein minacciarono il più vecchio stampo e più indipendente dei bottegai, dicendogli che, se non fosse entrato nel loro cartello, l'avrebbero messo al gelo. Da qui la ghiacciaia, naturalmente.»
+
+Dopo una pausa proseguì. «C'è indubbiamente un movimento bolscevico nel mondo moderno, e indubbiamente gli si deve resistere, per quanto io non creda granché nel vostro modo di resistergli. Ma ciò che nessuno nota è che esiste un altro movimento altrettanto moderno e altrettanto in marcia: il grande movimento verso il monopolio, ossia la trasformazione di tutti i commerci in trust. Anche quella è una rivoluzione. Anche quella produce ciò che producono tutte le rivoluzioni. Per quella, e contro quella, gli uomini uccidono, come fanno per il bolscevismo e contro di esso. Ha i suoi ultimatum, le sue invasioni e le sue esecuzioni. Questi magnati dei trust hanno le loro corti come i re; hanno le loro guardie del corpo e i loro sicari; hanno le loro spie nel campo nemico. Home era una delle spie del vecchio Gideon in uno dei campi nemici; ma qui venne usato contro un altro nemico: i rivali che lo stavano rovinando perché non si piegava.»
+
+«Continuo a non capire bene in che modo sia stato usato» disse Byrne, «né a che cosa servisse.»
+
+«Ma non capite» esclamò [[Father Brown]] in tono aspro, «che si fornirono l'un l'altro un alibi?»
+
+Byrne continuava a guardarlo con una punta di dubbio, benché sul suo volto stesse albeggiando la comprensione.
+
+«È questo che intendo» proseguì l'altro, «quando dico che erano dentro perché ne erano fuori. Quasi tutti direbbero che dovevano essere estranei agli altri due delitti, perché erano implicati in questo. In realtà erano implicati negli altri due proprio perché erano estranei a questo; perché questo non è mai avvenuto affatto. Un genere di alibi molto strano e improbabile, certo; improbabile, e perciò impenetrabile. Quasi tutti direbbero che un uomo il quale confessa un omicidio dev'essere sincero; che un uomo il quale perdona il proprio assassino dev'essere sincero. A nessuno verrebbe in mente l'idea che la cosa non sia mai avvenuta, sicché l'uno non aveva nulla da perdonare e l'altro nulla da temere. Furono inchiodati qui per quella notte da una storia che li accusava. Ma quella notte non erano qui; perché Home stava assassinando il vecchio Gallup nel bosco, mentre Wise strangolava quel piccolo ebreo nel suo bagno romano. Ecco perché mi domando se Wise fosse davvero abbastanza robusto per l'impresa dell'arrampicata.»
+
+«Era proprio una bella impresa» disse Byrne con rammarico. «Si incastonava nel paesaggio, ed era davvero assai convincente.»
+
+«Troppo convincente per convincere» disse [[Father Brown]], scuotendo il capo. «Com'era vivida quella schiuma illuminata dalla luna, scagliata in alto e mutata in un [[Ghost|fantasma]]. E com'era letteraria! [[Home]] è un vigliacco e una carogna, ma non dimenticate che, come tanti altri vigliacchi e carogne nella [[history|storia]], è anche un poeta.»

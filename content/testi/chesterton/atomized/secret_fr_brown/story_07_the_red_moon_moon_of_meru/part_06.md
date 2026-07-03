@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/secret-fr-brown-(chesterton)">secret Fr Brown</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/secret_fr_brown/story_07_the_red_moon_moon_of_meru/part_05">‹ part 05</a><a class="ex-next" href="/testi/chesterton/atomized/secret_fr_brown/story_08_the_chief_mourner_of_marne/part_01">part 01 ›</a></div>
@@ -104,3 +106,36 @@ precious stones; often carved like cameos and coloured like [[Flowers|flowers]].
 The other looked at him inquiringly; and the priest's finger was pointed
 to the Gothic outline of the great Abbey. "A great graven stone," he
 said, "and that was also stolen."
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/secret-fr-brown-(chesterton)">secret Fr Brown</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/secret_fr_brown/story_07_the_red_moon_moon_of_meru/part_05">‹ part 05</a><a class="ex-next" href="/testi/chesterton/atomized/secret_fr_brown/story_08_the_chief_mourner_of_marne/part_01">part 01 ›</a></div>
+</nav>
+
+«Vuoi dire che se ne fece un pretesto?» chiese il suo compagno, perplesso.
+
+«Sulle prime lo credetti» rispose il prete; «ma ora so che non era un pretesto, bensì una ragione. Fu davvero scoraggiato dallo scoprire che si trattava di una chiromante, perché...»
+
+«[[Well|E allora]]?» incalzò l'altro, spazientito.
+
+«Perché non voleva togliersi il guanto» disse [[Father Brown]].
+
+«Togliersi il guanto?» ripeté chi lo interrogava.
+
+«Se lo avesse fatto» disse [[Father Brown]] con dolcezza, «avremmo visto tutti che la sua mano era già dipinta di un bruno pallido. ... Oh, sì, venne quaggiù apposta perché c'era il Maestro. Venne quaggiù pienamente preparato.»
+
+«Vuoi dire» esclamò Phroso, «che era la mano di Hunter, dipinta di bruno, quella che entrò dalla [[Window|finestra]]? Ma se era con noi per tutto il [[Time|tempo]]!»
+
+«Va' a provarci sul posto e scoprirai che è del tutto possibile» disse il prete. «Hunter balzò in avanti e si sporse dalla [[Window|finestra]]; in un lampo poteva strapparsi il guanto, rimboccarsi la manica e spingere di nuovo la mano intorno all'altro lato del pilastro, mentre con l'altra mano afferrava l'indiano e gridava di aver preso il ladro. Notai in quel [[Time|momento]] che teneva il ladro con una sola mano, dove ogni uomo assennato ne avrebbe usate due. Ma l'altra mano stava infilando il [[Jewel|gioiello]] nella tasca dei calzoni.»
+
+Vi fu una lunga pausa, poi l'ex frenologo disse lentamente: «[[Well|Ebbene]], è un bel colpo. Ma la cosa continua a confondermi. Tanto per cominciare, non spiega lo strano comportamento del vecchio mago in persona. Se era del tutto [[Innocent|innocente]], perché diavolo non lo disse? Perché non si indignò all'essere accusato e perquisito? Perché se ne stette soltanto a sorridere, alludendo in modo sornione alle cose selvagge e meravigliose che avrebbe potuto fare?»
+
+«Ah!» esclamò [[Father Brown]], con una nota acuta nella voce: «qui tocchi il punto! Tutto ciò che questa gente non capisce e non vuole capire. Tutte le religioni sono uguali, dice Lady Mounteagle. Ah sì, perbacco! Ti dico che alcune di esse sono così diverse che l'uomo migliore di un credo sarà insensibile là dove l'uomo peggiore di un altro sarà sensibile. Ti ho detto che non mi piaceva il potere spirituale, perché l'accento cade sulla parola: potere. Non dico che il Maestro ruberebbe un rubino, molto probabilmente no; molto probabilmente non lo riterrebbe degno d'essere rubato. Non sarebbe propriamente la sua [[Temptation|tentazione]] prendere gioielli; ma sarebbe la sua [[Temptation|tentazione]] prendersi il merito di miracoli che non gli appartenevano più dei gioielli. Fu a quella specie di [[Temptation|tentazione]], a quella specie di furto, che cedette oggi. Gli piaceva che noi credessimo ch'egli possedesse meravigliosi poteri mentali capaci di far volare un oggetto materiale attraverso lo spazio; e persino quando non l'aveva fatto, ci lasciava credere di averlo fatto. Il concetto di proprietà privata non gli si sarebbe affacciato affatto, in primo luogo. La questione non gli si sarebbe presentata nella forma: "Devo rubare questo ciottolo?", ma soltanto nella forma: "Potrei far sparire un ciottolo e farlo ricomparire su una montagna lontana?". La questione di chi fosse il ciottolo gli sarebbe parsa irrilevante. È questo che intendo quando dico che l'essere religiosi è diverso. Egli è molto orgoglioso di avere ciò che chiama poteri spirituali. Ma ciò che chiama spirituale non significa ciò che noi chiamiamo morale. Significa piuttosto mentale; il potere della mente sulla materia; il mago che comanda gli elementi. Ora, noi non siamo così, nemmeno quando non siamo migliori; nemmeno quando siamo peggiori. Noi, i cui padri almeno furono cristiani, che siamo cresciuti sotto quelle arcate medievali anche se le agghindiamo con tutti i demoni dell'Asia, noi abbiamo l'[[Ambition|ambizione]] esattamente opposta e la vergogna esattamente opposta. Noi saremmo tutti ansiosi che nessuno pensasse che l'avevamo fatto. Egli era realmente ansioso che tutti pensassero che l'aveva fatto lui, persino quando non l'aveva fatto. Rubò addirittura il merito di aver rubato. Mentre noi tutti scacciavamo il delitto da noi come una serpe, egli in realtà lo adescava a sé come un incantatore di serpenti. Ma le serpi non sono animali domestici in questo paese! Qui le tradizioni della Cristianità si fanno subito sentire, sotto una prova come questa. Guarda per esempio il vecchio Mounteagle in persona! Ah, puoi essere orientale ed esoterico quanto ti pare, portare il turbante e la lunga veste e vivere di messaggi dai Mahatma; ma se un pezzetto di pietra viene rubato in [[house|casa]] tua, e i tuoi amici sono sospettati, scoprirai assai presto di essere un comune gentiluomo inglese in preda all'agitazione. L'uomo che davvero lo fece non vorrebbe mai che noi pensassimo che l'aveva fatto lui, perché anche lui era un gentiluomo inglese. Ed era anche qualcosa di ben migliore; era un ladro cristiano. [[Hope|Spero]] e credo che fosse un ladro penitente.»
+
+«Secondo il tuo racconto» disse il suo compagno ridendo, «il ladro cristiano e l'impostore pagano andavano per opposti. Uno era spiacente d'averlo fatto, l'altro era spiacente di non averlo fatto.»
+
+«Non dobbiamo essere troppo severi con nessuno dei due» disse [[Father Brown]]. «Altri gentiluomini inglesi hanno rubato prima d'ora, e sono stati coperti da protezione legale e politica; e anche l'Occidente ha il suo modo di coprire il furto con la sofisticheria. Dopo tutto, il rubino non è l'unica specie di pietra preziosa al mondo ad aver cambiato padrone; lo stesso vale per altre pietre preziose; spesso intagliate come cammei e colorate come [[Flowers|fiori]].» L'altro lo guardò interrogativamente; e il dito del prete era puntato verso il profilo gotico della grande Abbazia. «Una grande pietra scolpita» disse, «e anch'essa fu rubata.»

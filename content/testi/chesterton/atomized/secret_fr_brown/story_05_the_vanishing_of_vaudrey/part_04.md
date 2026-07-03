@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/secret-fr-brown-(chesterton)">secret Fr Brown</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/secret_fr_brown/story_05_the_vanishing_of_vaudrey/part_03">‹ part 03</a><a class="ex-next" href="/testi/chesterton/atomized/secret_fr_brown/story_05_the_vanishing_of_vaudrey/part_05">part 05 ›</a></div>
@@ -126,3 +128,124 @@ the corpse.
 "Ah," he said, straightening himself and letting out a great breath.
 "The tobacconist! Why in the world didn't I remember that about the
 tobacconist?"
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/secret-fr-brown-(chesterton)">secret Fr Brown</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/secret_fr_brown/story_05_the_vanishing_of_vaudrey/part_03">‹ part 03</a><a class="ex-next" href="/testi/chesterton/atomized/secret_fr_brown/story_05_the_vanishing_of_vaudrey/part_05">part 05 ›</a></div>
+</nav>
+
+«Non lasciate che la signora scenda quaggiù. Non potete sbarazzarvi di lei? Chiedetele di
+telefonare o qualcosa del genere; e poi tornate qui.»
+
+Evan [[smith|Smith]] si voltò con un'aria piuttosto disperata di noncuranza e
+si avvicinò alla ragazza; ma ella non era il tipo di persona a cui sia difficile
+dare da fare con piccole incombenze per altri. In pochissimo [[Time|tempo]] era
+svanita nella [[house|casa]] e [[smith|Smith]] si voltò per scoprire che [[Father Brown]] era
+ancora una volta svanito nella macchia. Poco oltre il gruppo di alberi c'era
+una specie di piccolo abisso dove il tappeto erboso era franato al livello della
+sabbia presso il [[River|fiume]]. [[Father Brown]] stava in piedi sull'orlo di questa fenditura,
+guardando in basso; ma, o per caso o di proposito, teneva il cappello
+in mano, nonostante il sole forte gli battesse sul capo.
+
+«Fareste meglio a vederlo voi stesso,» disse, pesantemente, «a titolo di
+prova. Ma vi avverto di prepararvi.»
+
+«Prepararmi a cosa?» chiese l'altro.
+
+«Solo alla cosa più orribile che io abbia mai visto in vita mia,» disse Padre
+Brown.
+
+Anche [[smith|Smith]] si fece all'orlo della riva erbosa e a fatica
+represse un grido piuttosto simile a un urlo.
+
+Sir [[Arthur]] Vaudrey lo fissava e gli sogghignava dal basso; il volto era
+rivolto in su, tanto che egli avrebbe potuto posarvi sopra il piede; la testa era gettata
+all'indietro, con la sua parrucca di capelli di un giallo biancastro verso di lui, così che egli vedeva
+il volto capovolto. Questo lo faceva sembrare tanto più parte di un
+[[nightmare|incubo]]; come se un uomo camminasse in giro con la testa infilata al
+contrario. Cosa stava facendo? Era possibile che Vaudrey stesse davvero
+strisciando in giro, nascondendosi nelle fessure del campo e della riva, e sbirciandoli
+fuori in quella posizione innaturale? Il resto della figura sembrava rannicchiato
+e quasi storto, come se fosse stato mutilato o deforme, ma
+guardando più da vicino, questo sembrava solo lo scorcio degli arti
+caduti in un mucchio. Era pazzo? Lo era? Più [[smith|Smith]] lo guardava più
+la posizione sembrava rigida.
+
+«Non riuscite a vederlo bene da qui,» disse [[Father Brown]], «ma gli hanno
+tagliato la gola.»
+
+[[smith|Smith]] rabbrividì all'improvviso. «Posso [[Well|ben]] credere che sia la cosa più orribile
+che abbiate visto,» disse. «Credo sia il vedere il volto capovolto.
+Ho visto quel volto a colazione, o a pranzo, ogni giorno per dieci anni;
+ed è sempre sembrato del tutto piacevole ed educato. Lo capovolgete
+e sembra il volto di un demonio.»
+
+«Il volto sta davvero sorridendo,» disse [[Father Brown]], sobriamente; «il che
+è forse non l'ultima parte dell'[[Riddle|enigma]]. Non molti uomini sorridono mentre gli tagliano
+la gola, anche se sono loro stessi a farlo. Quel sorriso,
+unito a quegli occhi da uva spina che sembravano sempre sporgergli
+dalla testa, basta, senza [[Doubt|dubbio]], a spiegare l'espressione. Ma
+è vero, le cose sembrano diverse capovolte. Gli artisti spesso capovolgono i loro
+disegni per verificarne la correttezza. Talvolta, quando è
+difficile capovolgere l'oggetto stesso (come nel caso del
+Cervino, diciamo), è noto che si mettano a testa in giù,
+o almeno guardino fra le proprie gambe.»
+
+Il prete, che parlava così con leggerezza per calmare i nervi dell'altro
+uomo, concluse dicendo, in tono più serio: «Capisco benissimo
+quanto debba avervi sconvolto. Purtroppo, ha anche sconvolto qualcos'altro.»
+
+«Cosa volete dire?»
+
+«Ha sconvolto tutta la nostra teoria così completa,» replicò l'altro;
+e cominciò a scendere arrampicandosi giù per la riva sulla piccola striscia di sabbia presso il
+[[River|fiume]].
+
+«Forse l'ha fatto lui stesso,» disse [[smith|Smith]] bruscamente. «Dopotutto, è la
+specie più ovvia di fuga, e si accorda molto [[Well|bene]] con la nostra teoria. Egli
+voleva un luogo tranquillo e venne qui e si tagliò la gola.»
+
+«Non è affatto venuto qui,» disse [[Father Brown]]. «Almeno, non da vivo,
+e non per via di terra. Non fu ucciso qui; non c'è abbastanza [[Blood|sangue]]. Questo
+sole gli ha ormai asciugato piuttosto [[Well|bene]] i capelli e i vestiti; ma ci sono le
+tracce di due rigagnoli d'[[Water|acqua]] nella sabbia. Proprio qui intorno la marea
+sale dal mare e forma un vortice che ha spinto il [[Body|corpo]] nell'
+insenatura e ve l'ha lasciato quando la marea si è ritirata. Ma il [[Body|corpo]] deve prima essere stato
+trascinato giù per il [[River|fiume]], presumibilmente dal villaggio, perché il [[River|fiume]]
+scorre proprio dietro la fila delle piccole case e botteghe. Il povero Vaudrey morì
+lassù nel [[Hamlet|borgo]], in qualche modo; dopotutto, non credo che si sia
+[[suicide|suicidato]]; ma il guaio è: chi avrebbe voluto, o potuto, ucciderlo lassù
+in quel misero posticino?»
+
+Cominciò a disegnare grezzi schizzi con la punta del suo tozzo ombrello sulla
+striscia di sabbia.
+
+«Vediamo; come si dispone la fila di botteghe? Prima, la macelleria; [[Well|beh]],
+naturalmente, un macellaio sarebbe un esecutore ideale con un grande coltello
+da trinciare. Ma voi avete visto Vaudrey uscire, e non è molto probabile che egli
+sia rimasto nella bottega esterna mentre il macellaio diceva: "Buongiorno. Permettetemi
+di tagliarvi la gola! Grazie. E il prossimo articolo, prego?" Sir [[Arthur]]
+non mi dà l'impressione del tipo d'uomo che sarebbe rimasto là con un
+piacevole sorriso mentre questo accadeva. Era un uomo molto forte e vigoroso,
+con un temperamento piuttosto violento. E chi altri, tranne il macellaio,
+avrebbe potuto tenergli testa? La bottega seguente è tenuta da una vecchia. Poi
+viene il tabaccaio, che di certo è un uomo, ma mi dicono piuttosto
+piccolo e timido. Poi c'è la sartoria, gestita da due signorine
+zitelle, e poi una bottega di ristoro gestita da un uomo che si trova per caso in
+ospedale e che ha lasciato la moglie a occuparsene. Ci sono due o tre
+ragazzi del villaggio, garzoni e fattorini, ma erano via per un
+incarico speciale. La bottega di ristoro chiude la strada; non c'è nulla
+oltre a quella, tranne la locanda, con il poliziotto nel mezzo.»
+
+Fece un colpetto con il puntale del suo ombrello per rappresentare il
+poliziotto, e rimase cupamente a fissare su per il [[River|fiume]]. Poi fece un
+lieve movimento con la mano e, attraversando rapidamente, si chinò sopra
+il cadavere.
+
+«Ah,» disse, raddrizzandosi e lasciando uscire un gran respiro.
+«Il tabaccaio! Perché diavolo non me ne sono ricordato, di quella faccenda del
+tabaccaio?»

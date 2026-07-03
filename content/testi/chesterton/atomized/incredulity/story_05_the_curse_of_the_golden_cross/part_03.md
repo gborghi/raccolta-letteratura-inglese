@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/incredulity-(chesterton)">Incredulity</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/incredulity/story_05_the_curse_of_the_golden_cross/part_02">‹ part 02</a><a class="ex-next" href="/testi/chesterton/atomized/incredulity/story_05_the_curse_of_the_golden_cross/part_04">part 04 ›</a></div>
@@ -121,3 +123,36 @@ Father Brown again looked embarrassed; then he smiled and said:
 `[[Well]], oddly enough, I'm not.  What we have to consider
 is any chance of finding out if he really is here before he--
 before he makes himself unpleasant.'
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/incredulity-(chesterton)">Incredulity</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/incredulity/story_05_the_curse_of_the_golden_cross/part_02">‹ part 02</a><a class="ex-next" href="/testi/chesterton/atomized/incredulity/story_05_the_curse_of_the_golden_cross/part_04">part 04 ›</a></div>
+</nav>
+
+«Qualcosa in esso lo faceva sembrare un pesce fossile o un qualche organismo rudimentale fissato per sempre in un mare gelato. Non riuscivo ad analizzare questa analogia, per il resto priva di ogni legame con un semplice disegno graffiato sulla pietra, finché non compresi che nel mio subconscio andavo ripetendo che i primi cristiani dovevano essere apparsi qualcosa di simile a pesci, muti e abitanti di un mondo decaduto, fatto di penombra e [[Silence|silenzio]], sprofondati assai al di sotto dei piedi degli uomini e moventisi in un mondo oscuro, crepuscolare e senza suono.
+
+«Chiunque cammini lungo corridoi di pietra sa che cosa significhi essere seguìto da passi fantasma. L'eco insegue, battendo o schioccando dietro o davanti, così che è quasi impossibile, per l'uomo veramente solo, credere alla propria solitudine. Mi ero abituato agli effetti di quest'eco e da qualche tempo non vi facevo più molto caso, quando scorsi la forma simbolica scarabocchiata sulla parete di roccia. Mi fermai, e nello stesso istante mi parve che anche il cuore mi si arrestasse; perché i miei piedi si erano fermati, ma l'eco continuava a marciare.
+
+«Mi lanciai in avanti, e parve che anche i passi spettrali si mettessero a correre, ma non con quell'esatta [[Imitation|imitazione]] che contraddistingue la ripercussione materiale di un suono. Mi fermai di nuovo, e anche i passi si fermarono; ma avrei giurato che si fermassero un istante troppo tardi; gridai una domanda, e al mio grido fu data risposta; ma la voce non era la mia.
+
+«Veniva da dietro lo spigolo di una roccia proprio dinanzi a me; e per tutta quella caccia sinistra notai che era sempre a un simile angolo del sentiero tortuoso che essa si arrestava e parlava. Il piccolo spazio davanti a me che la mia minuscola torcia elettrica riusciva a illuminare era sempre vuoto come una stanza vuota. In tali condizioni ebbi una conversazione con non so chi, che durò per tutto il tragitto fino al primo bianco baluginare della luce del giorno, e nemmeno là riuscii a vedere in che modo egli svanisse nella luce del giorno. Ma la bocca del labirinto era piena di aperture, di fenditure e di voragini, e non gli sarebbe stato difficile guizzare in qualche modo all'indietro e sparire di nuovo nel mondo sotterraneo delle caverne. So soltanto che sbucai sui gradini solitari di una gran montagna, simili a una terrazza di marmo, variata unicamente da una verde vegetazione che pareva in qualche modo più tropicale della purezza della roccia, come l'invasione orientale che si è diffusa sporadicamente sulla caduta della classica Ellade. Mi affacciai su un mare d'azzurro immacolato, e il sole splendeva costante su una solitudine e un silenzio assoluti; e non c'era un filo d'erba mosso da un sussurro di fuga, né l'ombra dell'ombra di un uomo.
+
+«Era stata una conversazione terribile; così intima e così personale e, in un certo senso, così noncurante. Questo essere, senza corpo, senza volto, senza nome, e che pure mi chiamava per nome, mi aveva parlato in quelle cripte e in quelle fenditure dove eravamo sepolti vivi con non più passione o [[Melodrama|melodramma]] che se fossimo stati seduti in due poltrone di un club. Ma mi aveva anche detto che avrebbe indubbiamente ucciso me, o qualunque altro uomo fosse entrato in possesso della [[Cross|croce]] con il segno del pesce. Mi disse francamente che non era così [[Fool|sciocco]] da assalirmi lì nel labirinto, sapendo che avevo una rivoltella carica, e che egli correva tanto rischio quanto me. Ma mi disse, con eguale calma, che avrebbe pianificato il mio assassinio con la certezza del [[success|successo]], con ogni dettaglio elaborato e ogni pericolo scongiurato, con quella sorta di perfezione artistica che un artigiano cinese o un ricamatore indiano conferisce all'opera artistica di un'intera [[Time|vita]]. Eppure non era un orientale; sono certo che fosse un uomo bianco. Sospetto che fosse un mio connazionale.
+
+«Da allora ho ricevuto di tanto in tanto segni e simboli e strani messaggi impersonali che mi hanno reso certo, quanto meno, che se quell'uomo è un maniaco, è un monomaniaco. Continua a dirmi, in quel modo aereo e distaccato, che i preparativi per la mia morte e la mia sepoltura procedono in maniera soddisfacente; e che l'unico modo in cui posso impedire che siano coronati da un comodo successo è cedere la reliquia in mio possesso — la croce unica che trovai nella caverna. Non pare nutrire alcun sentimento religioso o fanatismo in proposito; pare non avere altra passione che quella di un collezionista di curiosità. È una delle cose che mi fanno sentire sicuro che sia un uomo dell'Occidente e non dell'Oriente. Ma questa particolare curiosità pare averlo fatto impazzire del tutto.
+
+«E poi giunse questa notizia, ancora non confermata, riguardo alla reliquia gemella rinvenuta su un [[Body|corpo]] imbalsamato in una tomba del Sussex. Se prima era stato un maniaco, questa notizia lo trasformò in un indemoniato posseduto da sette diavoli. Che ve ne fosse una appartenente a un altro uomo era già abbastanza grave, ma che ve ne fossero due e nessuna delle due appartenesse a lui era una tortura insopportabile. I suoi folli messaggi cominciarono a giungere fitti e rapidi come rovesci di frecce avvelenate, e ciascuno gridava con più sicurezza del precedente che la [[Death|morte]] mi avrebbe colpito nell'istante in cui avessi teso la mia indegna mano verso la [[Cross|croce]] nella tomba.
+
+«“Non mi conoscerai mai,” scrisse, “non pronuncerai mai il mio nome; non vedrai mai il mio volto; morirai, e non saprai mai chi ti ha ucciso. Posso trovarmi in qualunque forma tra quelle che ti circondano; ma sarò in quella soltanto verso cui ti sei dimenticato di guardare.”
+
+«Da queste minacce deduco che è assai probabile che mi [[Shadow|pedini]] in questa spedizione, e che cerchi di rubare la reliquia o di farmi qualche danno per il fatto che la possiedo. Ma poiché non ho mai visto quell'uomo in vita mia, egli può essere quasi chiunque io incontri. Logicamente parlando, può essere uno qualunque dei camerieri che mi servono a tavola. Può essere uno qualunque dei passeggeri che siedono con me a tavola.»
+
+«Può essere me» disse Padre Brown, con allegro disprezzo per la grammatica.
+
+«Può essere chiunque altro» rispose Smaill con serietà. «È questo che intendevo con ciò che ho detto poco fa. Lei è l'unico uomo di cui mi senta sicuro che non sia il nemico.»
+
+Padre Brown parve di nuovo imbarazzato; poi sorrise e disse: «[[Well|Ebbene]], per quanto strano possa sembrare, non lo sono. Ciò che dobbiamo considerare è se vi sia qualche possibilità di scoprire se egli è davvero qui prima che — prima che si renda sgradevole.»

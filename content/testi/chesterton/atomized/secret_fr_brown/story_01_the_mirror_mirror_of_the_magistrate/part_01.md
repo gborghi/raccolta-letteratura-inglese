@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/secret-fr-brown-(chesterton)">secret Fr Brown</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/secret_fr_brown/story_08_the_chief_mourner_of_marne">‹ Story 08 THE CHIEF MOURNER OF MARNE</a><a class="ex-next" href="/testi/chesterton/atomized/secret_fr_brown/story_01_the_mirror_mirror_of_the_magistrate/part_02">part 02 ›</a></div>
@@ -129,3 +131,133 @@ electricity that he works from that bungalow or hut over there, where he
 does his work and keeps his papers. Buller, who knows him very [[Well|well]],
 says the coloured lamps are rather more often a sign he's not to be
 disturbed."
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/secret-fr-brown-(chesterton)">secret Fr Brown</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/secret_fr_brown/story_08_the_chief_mourner_of_marne">‹ Story 08 THE CHIEF MOURNER OF MARNE</a><a class="ex-next" href="/testi/chesterton/atomized/secret_fr_brown/story_01_the_mirror_mirror_of_the_magistrate/part_02">part 02 ›</a></div>
+</nav>
+
+I. LO [[Mirror|SPECCHIO]] DEL MAGISTRATO
+
+JAMES BAGSHAW e Wilfred Underhill erano vecchi amici, e amavano
+vagabondare per le strade di [[Night|notte]], chiacchierando senza fine mentre
+svoltavano un angolo dopo l'altro nel silenzioso e apparentemente
+inanimato labirinto del vasto sobborgo in cui abitavano. Il primo, un
+uomo grande, bruno, di indole gioviale, con una striscia di baffi neri,
+era un [[Detective|detective]] di professione, al servizio della polizia; il secondo,
+un signore dal volto affilato e dall'aria sensibile, coi capelli chiari,
+era un dilettante appassionato di investigazione. Riuscirà uno shock,
+per i lettori del miglior [[Romance|romanzo]] scientifico, apprendere che era il
+poliziotto a parlare ed era il dilettante ad ascoltare, e per giunta con
+una certa deferenza.
+
+«Il nostro è l'unico mestiere», disse Bagshaw, «in cui si dà sempre per
+scontato che il professionista abbia torto. In fondo, nessuno scrive
+storie in cui i parrucchieri non sanno tagliare i capelli e devono
+farsi aiutare da un cliente; o in cui un [[cabman]] non sa guidare la
+carrozza finché il passeggero non gli spiega la [[philosophy|filosofia]] del
+condurre carrozze. Ciò nondimeno, non negherei mai che spesso tendiamo a
+incanalarci in un solco: o, in altre parole, che scontiamo gli svantaggi
+del procedere secondo una regola. Il torto dei romanzieri è che non ci
+concedono nemmeno i vantaggi del procedere secondo una regola.»
+
+«Ma di certo», disse Underhill, «Sherlock Holmes direbbe che procedeva
+secondo una regola logica.»
+
+«Può darsi che abbia ragione», rispose l'altro; «ma io intendo una
+regola collettiva. È come il lavoro di stato maggiore di un esercito.
+Mettiamo in comune le nostre informazioni.»
+
+«E lei non crede che le storie di [[Detective|detective]] ne tengano conto?»
+domandò l'amico.
+
+«[[Well|Ebbene]], prendiamo un caso qualsiasi, immaginario, di Sherlock Holmes e
+Lestrade, il [[Detective|detective]] ufficiale. Sherlock Holmes, mettiamo, è capace
+di indovinare che un perfetto sconosciuto il quale attraversa la strada
+è uno straniero, semplicemente perché pare che cerchi il traffico sulla
+destra invece che sulla sinistra. Sono prontissimo ad ammettere che
+Holmes potrebbe indovinarlo. Sono altrettanto sicuro che Lestrade non
+indovinerebbe nulla del genere. Ma ciò che tralasciano è il fatto che il
+poliziotto, il quale non saprebbe indovinare, con ogni probabilità
+potrebbe sapere. Lestrade potrebbe sapere che quell'uomo era straniero
+semplicemente perché il suo dipartimento ha il compito di tenere
+d'occhio tutti gli stranieri; qualcuno direbbe anche tutti gli
+indigeni. Come poliziotto, sono lieto che la polizia sappia tante cose;
+perché ogni uomo desidera fare bene il proprio [[Well|mestiere]]. Ma come
+cittadino, talvolta mi [[Wonder|domando]] se non ne sappiano troppe.»
+
+«Non vorrà mica seriamente sostenere», esclamò Underhill incredulo,
+«che lei sappia qualcosa sulla gente estranea in una strada estranea.
+Che se un uomo uscisse da quella [[house|casa]] laggiù, lei saprebbe qualcosa
+su di lui?»
+
+«Lo saprei, se fosse il padrone di casa», rispose Bagshaw. «Quella
+[[house|casa]] è affittata da un letterato di origine anglo-rumena, che di solito
+vive a [[Paris|Parigi]], ma è qui da noi in relazione con un suo dramma poetico.
+Si chiama Osric Orm, uno dei nuovi poeti, e piuttosto arduo da leggere,
+a quanto pare.»
+
+«Ma io intendo tutta la gente lungo la [[Road|strada]]», disse il compagno.
+«Pensavo a quanto tutto appaia strano e nuovo e senza nome, con questi
+alti muri spogli e queste case perdute in vasti giardini. Non può
+conoscerli tutti.»
+
+«Ne conosco alcuni», rispose Bagshaw. «Questo muro di [[Garden|giardino]] sotto cui
+stiamo camminando è in fondo alla tenuta di Sir Humphrey Gwynne, più
+noto come il giudice Gwynne, il vecchio magistrato che fece tanto
+chiasso a proposito dello spionaggio durante la guerra. La [[house|casa]]
+attigua appartiene a un ricco mercante di sigari. Viene
+dall'[[america|America]] spagnola e ha un aspetto assai fosco e spagnolo lui
+stesso; eppure porta il nome quanto mai inglese di Buller. La [[house|casa]] al
+di là di quella... ha sentito quel rumore?»
+
+«Ho sentito qualcosa», disse Underhill, «ma davvero non so cosa fosse.»
+
+«Io so cos'era», replicò il [[Detective|detective]], «era una rivoltella piuttosto
+pesante, esplosa due volte, seguita da un grido d'aiuto. E veniva dritto
+dal [[Garden|giardino]] sul retro del giudice Gwynne, quel paradiso di pace e di
+legalità.»
+
+Scrutò la strada in su e in giù, poi aggiunse:
+
+«E l'unico cancello del [[Garden|giardino]] sul retro sta a mezzo miglio di giro
+dall'altra parte. Vorrei che questo muro fosse un po' più basso, o che io
+fossi un po' più leggero; ma bisogna tentare.»
+
+«Un po' più avanti è più basso», disse Underhill, «e pare che ci sia un
+albero che potrebbe tornare utile.»
+
+Si mossero in fretta lungo il muro e trovarono un punto in cui esso
+sembrava chinarsi di colpo, quasi come se fosse mezzo sprofondato nella
+terra; e un albero da [[Garden|giardino]], sgargiante del più festoso fiore di
+[[Garden|giardino]], si sporgeva dal buio recinto ed era indorato dal barlume di un
+solitario lampione. Bagshaw afferrò il ramo storto e scavalcò con una
+gamba il muro basso; e l'istante dopo si ritrovarono immersi fino al
+ginocchio tra le piante scricchiolanti di un'aiuola di [[Garden|giardino]].
+
+Il [[Garden|giardino]] del giudice Gwynne, di [[Night|notte]], era uno spettacolo alquanto
+singolare. Era vasto e giaceva sull'orlo deserto del sobborgo,
+nell'[[Shadow|ombra]] di un'alta e scura [[house|casa]] che era l'ultima della sua fila
+di case. La [[house|casa]] era letteralmente buia, con le imposte serrate e
+senza luci, almeno sul lato che dava sul [[Garden|giardino]]. Ma il [[Garden|giardino]] stesso,
+che giaceva nella sua [[Shadow|ombra]] e avrebbe dovuto essere una distesa di
+tenebra assoluta, mostrava uno scintillio disordinato, come quello di
+fuochi d'artificio che si spengono; quasi che un razzo gigantesco fosse
+caduto in [[Fire|fiamme]] tra gli alberi. Man mano che avanzavano riuscirono a
+individuarlo come la luce di alcune lampade colorate, impigliate tra gli
+alberi come i frutti-[[Jewel|gioiello]] di Aladino, e soprattutto come la luce
+che saliva da un piccolo lago o stagno rotondo, il quale luccicava di
+tinte pallide come se una lampada fosse accesa sotto di esso.
+
+«Sta dando una festa?» chiese Underhill. «Il [[Garden|giardino]] pare illuminato.»
+
+«No», rispose Bagshaw. «È un suo passatempo, e credo che preferisca
+dedicarvisi quando è [[Alone|solo]]. Gli piace trastullarsi con un piccolo
+impianto elettrico che aziona da quel bungalow o capanno laggiù, dove
+svolge il suo lavoro e custodisce le sue carte. Buller, che lo conosce
+molto [[Well|bene]], dice che le lampade colorate sono, il più delle volte, un
+segno che non vuol essere disturbato.»

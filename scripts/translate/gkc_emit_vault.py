@@ -20,16 +20,23 @@ DATA = os.path.join(ROOT, "data")
 PAGE_STORE = os.path.join(DATA, "translations_pages.jsonl")
 VAULT_AUTHORS = "E:/giovanni/Dropbox/insegnamento/Wiligelmo/SubjectBrain/English/Authors"
 FM_RE = re.compile(r"^---\r?\n(.*?)\r?\n---\r?\n?(.*)$", re.S)
+QSWITCH_RE = re.compile(r'<div class="qlang-switch"[^>]*></div>\s*\n?')
+QSPLIT_RE = re.compile(r'\n?\s*<span class="qlang-split"[^>]*></span>.*$', re.S)
 
 def sha(s): return hashlib.sha1(s.encode("utf-8")).hexdigest()
+
+def strip_qlang(body):
+    # drop the language-toggle div and everything from the EN/IT split onward,
+    # so we only ever see the English body of an already-bilingual page.
+    return QSPLIT_RE.sub("", QSWITCH_RE.sub("", body))
 
 def parse(path):
     raw = open(path, encoding="utf-8").read()
     m = FM_RE.match(raw)
     if not m:
-        return None, raw
+        return None, strip_qlang(raw)
     tm = re.search(r'(?m)^title:\s*"?(.*?)"?\s*$', m.group(1))
-    return (tm.group(1) if tm else None), m.group(2)
+    return (tm.group(1) if tm else None), strip_qlang(m.group(2))
 
 def prose_parts(body):
     """Ordered (stripped_key, raw_block) for prose blocks (skip nav/blank/non-prose)."""

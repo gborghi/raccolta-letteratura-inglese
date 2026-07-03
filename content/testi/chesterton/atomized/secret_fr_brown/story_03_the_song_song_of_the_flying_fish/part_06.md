@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/secret-fr-brown-(chesterton)">secret Fr Brown</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/secret_fr_brown/story_03_the_song_song_of_the_flying_fish/part_05">‹ part 05</a><a class="ex-next" href="/testi/chesterton/atomized/secret_fr_brown/story_03_the_song_song_of_the_flying_fish/part_07">part 07 ›</a></div>
@@ -147,3 +149,70 @@ old blue curtain that he wrapped round his head, and the Oriental
 musical instrument you must have often seen in that heap of Oriental
 curiosities. The rest was atmosphere and acting, very fine acting, for
 he is a very fine [[artist]] in crime."
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/secret-fr-brown-(chesterton)">secret Fr Brown</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/secret_fr_brown/story_03_the_song_song_of_the_flying_fish/part_05">‹ part 05</a><a class="ex-next" href="/testi/chesterton/atomized/secret_fr_brown/story_03_the_song_song_of_the_flying_fish/part_07">part 07 ›</a></div>
+</nav>
+
+«Oppure potrebbe essersi infilato tra voi entrando da un'altra parte? Vi sono altri ingressi oltre a quello principale?»
+
+«A quanto pare no», rispose Boyle con gravità.
+
+«Sarà meglio che me ne accerti, non vi pare?» chiese [[Father Brown]] in tono di scusa, e scese di nuovo le scale a piccoli passi silenziosi. Boyle rimase nella camera da letto sul davanti, seguendolo con lo sguardo alquanto perplesso. Dopo un intervallo relativamente breve, quel volto tondo e piuttosto campagnolo riapparve in cima alle scale, somigliante non poco a uno [[Ghost|spettro]] di rapa dal largo sogghigno.
+
+«No; credo che la faccenda degli ingressi si possa considerare risolta», disse lo [[Ghost|spettro]] di rapa, allegramente. «E adesso, penso, avendo per così dire chiuso ogni cosa in una scatola ben serrata, possiamo fare l'inventario di quel che abbiamo. È un affare piuttosto curioso.»
+
+«Credete», chiese Boyle, «che il Conte o il colonnello, o qualcuno di questi viaggiatori d'Oriente, abbiano a che fare con la cosa? Credete che sia... soprannaturale?»
+
+«Vi concederò questo», disse il prete con gravità: «se il Conte, o il colonnello, o qualcuno dei vostri vicini si è davvero travestito da arabo e si è avvicinato furtivamente a questa [[house|casa]] nel buio... allora è stato soprannaturale.»
+
+«Che cosa intendete? Perché?»
+
+«Perché l'arabo non ha lasciato impronte», rispose [[Father Brown]]. «Il colonnello da un lato e il banchiere dall'altro sono i più prossimi dei vostri vicini. Quel terriccio rosso e smosso sta tra voi e la banca; stamperebbe piedi nudi come un calco di gesso e lascerebbe probabilmente segni rossi dappertutto. Ho affrontato il carattere del colonnello, condito di curry, per accertarmi che il selciato davanti fosse stato lavato ieri e non oggi; era abbastanza bagnato da produrre impronte umide lungo tutta la [[Road|strada]]. Ora, se il visitatore fosse stato il Conte o il dottore nelle case di fronte, avrebbe potuto, naturalmente, attraversare il terreno comune. Ma a piedi nudi l'avrebbe trovato quanto mai scomodo, poiché quel terreno è, come ho notato, una sola massa di spine, cardi e ortiche urticanti. Di certo si sarebbe punto, e probabilmente ne avrebbe lasciato tracce. A meno che, come dite voi, non fosse un essere soprannaturale.»
+
+Boyle fissò con insistenza il [[Grave|grave]] e indecifrabile volto del suo amico in tonaca.
+
+«Volete dire che lo era?» domandò infine.
+
+«C'è una [[Truth|verità]] generale da tenere a mente», disse [[Father Brown]], dopo una pausa. «Una cosa può talvolta essere troppo vicina per essere vista, come, ad esempio, un uomo non riesce a vedere sé stesso. C'era un uomo che aveva una mosca nell'occhio mentre guardava attraverso il telescopio, e scoprì che sulla [[Moon|luna]] c'era un drago quanto mai incredibile. E mi si dice che, se un uomo ode la riproduzione esatta della propria voce, essa suona come la voce di uno sconosciuto. Allo stesso modo, se qualcosa sta proprio in primo piano nella nostra vita, a stento la vediamo, e se pure la vedessimo, potremmo giudicarla assai strana. Se la cosa in primo piano passasse in secondo piano, probabilmente crederemmo che sia giunta da una lontananza remota. Uscite di nuovo davanti alla [[house|casa]] per un momento. Voglio mostrarvi come appare da un altro punto di vista.»
+
+Si era già alzato, e mentre scendevano le scale proseguì le sue osservazioni in modo un po' brancolante, come se pensasse ad alta voce.
+
+«Il Conte e tutta l'atmosfera asiatica entrano in gioco, perché, in un caso come questo, tutto dipende dalla preparazione della mente. Un uomo può giungere a una condizione in cui un mattone, cadendogli sulla testa, gli sembrerà un mattone babilonese scolpito in caratteri cuneiformi, precipitato dai Giardini Pensili di Babilonia, sicché non guarderà mai il mattone per accorgersi che è del medesimo stampo dei mattoni della sua stessa [[house|casa]]. Così nel vostro caso...»
+
+«Che cosa significa questo?» interruppe Boyle, fissando e indicando l'ingresso. «Che cosa mai, in nome della [[Wonder|meraviglia]], significa? La porta è di nuovo sbarrata.»
+
+Fissava la porta d'ingresso dalla quale erano entrati soltanto poco prima, e attraverso la quale stavano di nuovo, come una volta, le grandi bande scure di ferro arrugginito che un tempo, come aveva detto, avevano chiuso la stalla troppo tardi. C'era qualcosa di cupamente e mutamente ironico in quei vecchi chiavistelli che si serravano dietro di loro imprigionandoli come di propria iniziativa.
+
+«Oh, quelli!» disse [[Father Brown]] con noncuranza. «Quelle sbarre le ho messe io stesso, proprio adesso. Non mi avete sentito?»
+
+«No», rispose Boyle, sbarrando gli occhi. «Non ho sentito nulla.»
+
+«[[Well|Ecco]], immaginavo che non l'avreste sentito», disse l'altro con calma. «Non c'è davvero alcun motivo perché chi sta di sopra debba udire quelle sbarre mentre le si mette. Una specie di gancio s'incastra facilmente in una specie di foro. Quando si è ben vicini si sente un tonfo sordo; ma è tutto qui. L'unica cosa che faccia un rumore udibile di sopra è questa.»
+
+E sollevò la sbarra dal suo alloggiamento e la lasciò cadere con un fragore metallico accanto alla porta.
+
+«Fa rumore, se si disserra la porta», disse [[Father Brown]] con gravità, «anche se lo si fa con molta cautela.»
+
+«Volete dire...»
+
+«Voglio dire», disse [[Father Brown]], «che ciò che avete udito di sopra era Jameson che apriva la porta, non che la chiudeva. E ora apriamo noi stessi la porta e usciamo.»
+
+Quando si trovarono fuori nella strada, sotto il balcone, il piccolo prete riprese la spiegazione di prima con la stessa freddezza di una lezione di chimica.
+
+«Stavo dicendo che un uomo può essere nella disposizione di cercare qualcosa di molto lontano, e non rendersi conto che si tratta di qualcosa di molto vicino, qualcosa di molto vicino a sé stesso, forse qualcosa di molto simile a sé stesso. Era una cosa strana e forestiera quella che avete visto quando avete guardato giù verso questa [[Road|strada]]. Suppongo che non vi sia mai venuto in mente di considerare che cosa vide lui, quando guardò su verso quel balcone.»
+
+Boyle fissava il balcone e non rispose, e l'altro aggiunse:
+
+«Vi è parso molto selvaggio e meraviglioso che un arabo attraversasse l'Inghilterra civile a piedi nudi. Non avete ricordato che in quello stesso momento anche voi eravate a piedi nudi.»
+
+Boyle trovò finalmente le parole, e furono per ripetere parole già dette.
+
+«Jameson ha aperto la porta», disse meccanicamente.
+
+«Sì», assentì l'amico. «Jameson ha aperto la porta ed è uscito nella [[Road|strada]] in abito da notte, proprio come voi siete uscito sul balcone. Ha afferrato due cose che avevate visto un centinaio di volte: quel pezzo di vecchia tenda azzurra che si è avvolto attorno al capo, e lo strumento musicale orientale che dovete aver visto spesso in quel mucchio di curiosità d'Oriente. Il resto era atmosfera e recitazione, recitazione finissima, poiché egli è un [[artist|artista]] finissimo del crimine.»

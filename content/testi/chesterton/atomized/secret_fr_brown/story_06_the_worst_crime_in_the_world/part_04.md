@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/secret-fr-brown-(chesterton)">secret Fr Brown</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/secret_fr_brown/story_06_the_worst_crime_in_the_world/part_03">‹ part 03</a><a class="ex-next" href="/testi/chesterton/atomized/secret_fr_brown/story_06_the_worst_crime_in_the_world/part_05">part 05 ›</a></div>
@@ -133,3 +135,62 @@ black bundle of an umbrella with the air of a [[Pilgrim|pilgrim]] laying down hi
 staff. He had an air of some depression. But it was as it was so often
 in his criminal investigations. It was not the depression of failure,
 but the depression of [[success]].
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/secret-fr-brown-(chesterton)">secret Fr Brown</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/secret_fr_brown/story_06_the_worst_crime_in_the_world/part_03">‹ part 03</a><a class="ex-next" href="/testi/chesterton/atomized/secret_fr_brown/story_06_the_worst_crime_in_the_world/part_05">part 05 ›</a></div>
+</nav>
+
+«Sì», disse [[Father Brown]] pensieroso; «capisco cosa intende».
+
+«E saremo più che lieti», disse l'avvocato, «di recare una così felice rassicurazione a suo figlio».
+
+«Potete recargli la rassicurazione», disse il loro ospite con gravità. «È al sicuro, in ogni caso, nel possesso del [[Castle|castello]], del titolo, delle terre e del denaro. Non v'è che una piccola aggiunta, del tutto privata, a quell'accordo. In nessuna circostanza, di alcun genere, gli rivolgerò mai la parola finché avrò vita».
+
+L'avvocato mantenne il medesimo atteggiamento rispettoso, ma ora fissava rispettosamente l'ospite.
+
+«Ma... cosa mai può aver...»
+
+«Io sono un gentiluomo privato», disse Musgrave, «come [[Well|pure]] custode di una grande eredità. E mio figlio ha fatto qualcosa di così orribile da aver cessato di essere... non dirò un gentiluomo... ma persino un essere umano. È il peggior delitto del mondo. Ricorda cosa disse Douglas quando Marmion, suo ospite, si offrì di stringergli la mano?»
+
+«Sì», disse [[Father Brown]].
+
+«"I miei castelli sono del mio [[King|re]] [[Alone|soltanto]], dalla torretta alla pietra di fondazione"», disse Musgrave. «"La mano di Douglas appartiene a lui solo"».
+
+Si volse verso l'altra stanza e ricondusse là dentro i suoi visitatori piuttosto sconcertati.
+
+«[[Hope|Spero]] che prenderete qualche rinfresco», disse, con la stessa foggia pacata. «Se avete qualche [[Doubt|dubbio]] circa i vostri spostamenti, sarei lieto di offrirvi l'ospitalità del [[Castle|castello]] per la [[Night|notte]]».
+
+«Grazie, Sir John», disse il prete con voce spenta, «ma credo faremmo meglio ad andare».
+
+«Farò abbassare il ponte all'istante», disse il loro ospite; e in pochi istanti il cigolio di quell'enorme e assurdamente antiquato congegno riempì il [[Castle|castello]] come lo stridere di un mulino. Arrugginito com'era, tuttavia, funzionò con successo questa [[Time|volta]], ed essi si ritrovarono di nuovo in piedi sull'erbosa sponda oltre il fossato.
+
+Granby fu improvvisamente scosso da un brivido.
+
+«Che diavolo ha mai fatto suo figlio?» esclamò.
+
+[[Father Brown]] non rispose. Ma quando furono ripartiti con l'automobile e ebbero proseguito il loro [[Journey|viaggio]] verso un villaggio poco distante, chiamato Graystones, dove smontarono alla locanda delle Sette [[Stars|Stelle]], l'avvocato apprese con lieve stupore che il prete non si proponeva di viaggiare molto oltre; in altre parole, che aveva a quanto pareva ogni intenzione di rimanere nei paraggi.
+
+«Non riesco a decidermi a lasciare le cose così», disse con gravità. «Rimanderò indietro l'automobile, e lei, naturalmente, vorrà del tutto legittimamente andarsene con essa. La sua domanda ha avuto risposta: si tratta semplicemente di sapere se la sua ditta può permettersi di prestare denaro sulle prospettive del giovane Musgrave. Ma la mia domanda non ha avuto risposta: si tratta di sapere se egli è un marito adatto per Betty. Devo cercare di scoprire se ha davvero commesso qualcosa di terribile, oppure se è la fissazione di un vecchio pazzo».
+
+«Ma», obiettò l'avvocato, «se vuole scoprire qualcosa su di lui, perché non gli va dietro? Perché dovrebbe gironzolare in questo buco desolato dove egli non viene quasi mai?»
+
+«A che servirebbe andargli dietro?» chiese l'altro. «Non ha alcun senso avvicinare un giovanotto alla moda in Bond Street e dirgli: "Mi scusi, ma ha per caso commesso un delitto troppo orribile per un essere umano?" Se è tanto malvagio da compierlo, è certamente tanto malvagio da negarlo. E noi non sappiamo neppure di cosa si tratti. No, c'è un solo uomo che lo sa, e che potrebbe dirlo, in qualche ulteriore scoppio di dignitosa eccentricità. Per il momento intendo restargli vicino».
+
+E in [[Truth|verità]] [[Father Brown]] restò davvero vicino all'eccentrico baronetto, e lo incontrò effettivamente in più di un'occasione, con la massima cortesia da entrambe le parti. Poiché il baronetto, malgrado gli anni, era assai vigoroso e un gran camminatore, e lo si poteva spesso vedere arrancare per il villaggio e lungo i viottoli di campagna. Il giorno stesso dopo il loro arrivo, [[Father Brown]], uscendo dalla locanda sull'acciottolata piazza del mercato, vide l'oscura e distinta figura passare a grandi passi in direzione dell'ufficio postale. Era vestito con molta sobrietà di nero, ma il suo volto energico risultava ancor più imponente nella forte luce del sole; con i capelli argentei, le sopracciglia brune e il mento lungo, aveva qualcosa che ricordava Henry Irving, o qualche altro celebre attore. Malgrado la canizie, la sua figura, come [[Well|pure]] il suo volto, suggeriva forza, ed egli reggeva il bastone più come un randello che come una gruccia. Salutò il prete, e parlò con la stessa aria di venire senza timore al punto che aveva contraddistinto le sue rivelazioni del giorno prima.
+
+«Se è ancora interessato a mio figlio», disse, usando il termine con gelida indifferenza, «non lo vedrà granché. Ha appena lasciato il paese. Fra noi, potrei dire che è fuggito dal paese».
+
+«Davvero», disse [[Father Brown]] con uno sguardo [[Grave|grave]].
+
+«Certa gente di cui non ho mai sentito parlare, tali Grunov, mi ha assillato, proprio me, a proposito di dove si trovi», disse Sir John; «e sono appena venuto a spedire un telegramma per dir loro che, per quanto ne so, egli vive presso il Fermo Posta di Riga. Persino questo è stato una seccatura. Sono venuto ieri per farlo, ma ho trovato l'ufficio postale chiuso per cinque minuti di ritardo. Si ferma a lungo? [[Hope|Spero]] che mi farà un'altra visita».
+
+Quando il prete riferì all'avvocato il suo breve colloquio con il vecchio Musgrave nel villaggio, l'avvocato rimase insieme perplesso e incuriosito. «Perché il Capitano se l'è squagliata?» chiese. «Chi è l'altra gente che lo cerca? Chi diavolo sono i Grunov?»
+
+«Per la prima cosa, non lo so», rispose [[Father Brown]]. «Può darsi che il suo misterioso peccato sia venuto alla luce. Sarei piuttosto propenso a supporre che l'altra gente lo ricatti a tal proposito. Per la terza cosa, credo di saperlo. Quell'orribile donna grassa dai capelli gialli si chiama Madame Grunov, e quel piccolo uomo passa per suo marito».
+
+Il giorno dopo [[Father Brown]] rientrò piuttosto spossato, e gettò a terra il nero fardello del suo ombrello con l'aria di un [[Pilgrim|pellegrino]] che depone il bordone. Aveva un'aria alquanto avvilita. Ma era come tante volte accadeva nelle sue indagini criminali. Non era l'avvilimento del fallimento, bensì l'avvilimento del [[success|successo]].

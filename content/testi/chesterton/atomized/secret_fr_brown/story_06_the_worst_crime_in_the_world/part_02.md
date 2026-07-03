@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/secret-fr-brown-(chesterton)">secret Fr Brown</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/secret_fr_brown/story_06_the_worst_crime_in_the_world/part_01">‹ part 01</a><a class="ex-next" href="/testi/chesterton/atomized/secret_fr_brown/story_06_the_worst_crime_in_the_world/part_03">part 03 ›</a></div>
@@ -142,3 +144,152 @@ elegant chauffeur, shot north the next day over the Yorkshire moors,
 bearing the incongruous burden of a priest who looked rather like a
 black bundle, and a lawyer who had the habit of running about on his
 feet instead of racing on somebody else's wheels.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/secret-fr-brown-(chesterton)">secret Fr Brown</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/secret_fr_brown/story_06_the_worst_crime_in_the_world/part_01">‹ part 01</a><a class="ex-next" href="/testi/chesterton/atomized/secret_fr_brown/story_06_the_worst_crime_in_the_world/part_03">part 03 ›</a></div>
+</nav>
+
+E il legale, che aveva battuto i piedi con impazienza su e giù per la
+galleria più deserta, si voltò di scatto e si lanciò di corsa nella sala
+più affollata. Correva verso il giovane alto e [[Well|ben]] vestito, dai
+capelli corti e dalla barba d'aria straniera.
+
+I due si allontanarono insieme conversando, e per qualche istante
+[[Father Brown]] li seguì con i suoi occhi socchiusi da miope. Il suo
+sguardo fu però distolto e richiamato dall'arrivo trafelato e persino
+chiassoso di sua nipote, Betty. Con non poca sorpresa dello zio, ella lo
+ricondusse nella sala più vuota e lo piantò su un sedile che pareva
+un'isola in quel mare di pavimento.
+
+«Ho una cosa che devo assolutamente dirti», disse. «È così sciocca che
+nessun altro potrebbe capirla.»
+
+«Mi lasci sopraffatto», disse [[Father Brown]]. «Riguarda quella
+faccenda di cui tua madre aveva cominciato a parlarmi? Fidanzamenti e
+tutto il resto; non ciò che gli storici militari chiamano un impegno
+generale.»
+
+«Sai», disse lei, «che vorrebbe fidanzarmi con il capitano Musgrave.»
+
+«Non lo sapevo», disse [[Father Brown]] con [[Resignation|rassegnazione]];
+«ma il capitano Musgrave pare essere un argomento assai di moda.»
+
+«Certo, siamo molto poveri», disse lei, «e non serve a niente dire che
+questo non fa alcuna differenza.»
+
+«Vuoi sposarlo?» chiese [[Father Brown]], guardandola attraverso le
+palpebre socchiuse.
+
+Ella aggrottò la fronte fissando il pavimento, e rispose con voce più
+bassa:
+
+«Credevo di sì. Almeno, credo di aver creduto di sì. Ma ho appena avuto
+un certo turbamento.»
+
+«Allora raccontaci tutto.»
+
+«L'ho sentito ridere», disse lei.
+
+«È un'eccellente qualità mondana», rispose lui.
+
+«Non capisci», disse la ragazza. «Non aveva nulla di mondano. Era
+proprio questo il punto: che non era mondano.»
+
+Si fermò un momento, poi proseguì con fermezza: «Sono arrivata qui
+piuttosto presto, e l'ho visto seduto tutto [[Alone|solo]] in mezzo a
+quella galleria dei quadri nuovi, che allora era del tutto vuota. Non
+aveva idea che io o chiunque altro fossimo vicini; se ne stava seduto
+tutto [[Alone|solo]], e rideva.»
+
+«[[Well|Be']], non c'è da [[Wonder|meravigliarsi]]», disse [[Father Brown]].
+«Non sono un critico d'arte, io, ma come giudizio complessivo dei quadri
+presi nel loro insieme...»
+
+«Oh, non capirai», disse lei quasi con stizza. «Non era affatto così.
+Non stava guardando i quadri. Fissava dritto in su verso il soffitto; ma
+i suoi occhi parevano rivolti all'interno, e rideva in un modo che mi
+gelò il [[Blood|sangue]].»
+
+Il prete si era alzato e passeggiava per la stanza con le mani dietro la
+schiena. «Non bisogna essere frettolosi in un caso del genere», cominciò.
+«Vi sono due specie di uomini... ma difficilmente possiamo discutere di
+lui proprio ora, perché eccolo qui.»
+
+Il capitano Musgrave entrò rapido nella stanza e la spazzò con un
+sorriso. Granby, l'avvocato, gli era subito alle spalle, e il suo volto
+da uomo di legge recava una nuova espressione di sollievo e
+soddisfazione.
+
+«Devo scusarmi per tutto quello che ho detto sul capitano», disse al
+prete mentre andavano insieme verso la porta. «È un tipo del tutto
+assennato e comprende benissimo il mio punto di vista. Mi ha chiesto lui
+stesso perché non andassi al nord a vedere il suo vecchio padre; potrei
+sentire dalle labbra dello stesso vecchio come stanno le cose riguardo
+all'eredità. [[Well|Ebbene]], non poteva dire nulla di più leale, no? Ma è
+così ansioso di sistemare la faccenda che si è offerto di portarmi con la
+sua vettura fino a Musgrave Moss. Così si chiama la tenuta. Ho suggerito
+che, se era tanto gentile, potevamo andare insieme; e partiamo domani
+mattina.»
+
+Mentre parlavano, Betty e il capitano varcarono insieme la soglia,
+formando in quella cornice per lo meno una specie di quadro che qualcuno
+sarebbe stato abbastanza sentimentale da preferire ai coni e ai
+cilindri. Quali che fossero le loro altre affinità, erano entrambi assai
+belli a vedersi; e l'avvocato fu indotto a farne osservazione, quando il
+quadro mutò di colpo.
+
+Il capitano James Musgrave gettò lo sguardo nella galleria principale, e
+i suoi occhi ridenti e trionfanti si inchiodarono su qualcosa che parve
+trasformarlo da capo a piedi. [[Father Brown]] si voltò come sotto
+un'[[Shadow|ombra]] incombente di presentimento; e vide il volto torvo,
+quasi livido, della grossa donna in scarlatto sotto la sua leonina
+chioma gialla. Se ne stava sempre lievemente curva, come un toro che
+abbassa le corna, e l'espressione del suo viso pallido e pastoso era
+tanto opprimente e ipnotica che a stento notarono l'omino dalla gran
+barba che le stava accanto.
+
+Musgrave avanzò verso il centro della stanza in direzione di lei, quasi
+come una figura di cera splendidamente vestita e caricata a molla per
+camminare. Le disse poche parole che non poterono essere udite. Ella non
+rispose; ma si allontanarono insieme, percorrendo la lunga galleria come
+in [[debate|discussione]], mentre l'uomo tozzo dal collo taurino e dalla
+barba chiudeva la fila come un [[Grotesque|grottesco]] paggio da
+folletto.
+
+«Il Cielo ci assista!» mormorò [[Father Brown]], seguendoli con lo
+sguardo aggrottato. «Chi diamine è quella donna?»
+
+«Nessuna amica mia, per fortuna», rispose Granby con cupa leggerezza. «Ha
+l'aria che un piccolo flirt con lei potrebbe finire in tragedia, non
+trova?»
+
+«Non credo che stia flirtando con lei», disse [[Father Brown]].
+
+Proprio mentre parlava, il gruppo in questione si voltò in fondo alla
+galleria e si sciolse, e il capitano Musgrave tornò da loro a passi
+frettolosi.
+
+«Sentite», esclamò, parlando in tono abbastanza naturale, benché
+sembrasse loro che il colorito gli fosse mutato. «Mi dispiace
+terribilmente, signor Granby, ma mi accorgo di non poter venire al nord
+con lei domani. Naturalmente, prenda la vettura lo stesso. La prenda, la
+prego; a me non servirà. Io... devo trovarmi a [[London|Londra]] per
+qualche giorno. Porti con sé un amico, se vuole.»
+
+«Il mio amico, [[Father Brown]]...» cominciò l'avvocato.
+
+«Se il capitano Musgrave è davvero tanto gentile», disse [[Father Brown]]
+con gravità. «Posso spiegare che ho una certa parte nell'indagine del
+signor Granby, e sarebbe per me un grande sollievo poter andare.»
+
+Fu così che, il giorno seguente, un'elegantissima vettura, con un
+autista non meno elegante, sfrecciò verso il nord attraverso le brughiere
+dello Yorkshire, portando il carico incongruo di un prete che somigliava
+piuttosto a un fagotto nero, e di un avvocato che aveva l'abitudine di
+correre in giro sulle proprie gambe anziché filare veloce sulle ruote
+altrui.

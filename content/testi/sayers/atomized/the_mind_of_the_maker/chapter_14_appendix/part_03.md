@@ -22,7 +22,7 @@ tags:
 
 [ ](20140909_split_021.html#fr_41) G. K. Chesterton: *The Victorian Age in Literature* .
 
-[ ](20140909_split_021.html#fr_42) An unwise tenderness towards the created characters of fiction is, of course, only one of the forms which the writer's sentimentality may take. The tenderness may be poured out upon words or paragraphs of the book itself, so that the author becomes incapable of that firm massacre of unnecessary purple passages which is known to the literary trade as "murdering one's darlings". The waste-paper baskets of the world are stuffed with unpruned works whose creators suffered from this brand of sentimentality. (I have known a young woman who, in a similar spirit, could not bring herself to trim her "holiday snaps" so as to make them into well-balanced pictures; she protested that she "just couldn't bear" to sacrifice so much as a strip of blank sky or the out-of-focus intrusion of Uncle Bertie's boot from these creative efforts). The tenderness which prompts the biographer to exhibit his subject as a dreary paragon of all the virtues is another, slightly more complicated, version of the sentimental treatment of an imagined hero.
+[ ](20140909_split_021.html#fr_42) An unwise tenderness towards the created characters of fiction is, of course, only one of the forms which the writer's sentimentality may take. The tenderness may be poured out upon words or paragraphs of the book itself, so that the author becomes incapable of that firm massacre of unnecessary purple passages which is known to the literary trade as "murdering one's darlings". The waste-paper baskets of the world are stuffed with unpruned works whose creators suffered from this brand of sentimentality. (I have known a young woman who, in a similar spirit, could not bring herself to trim her "holiday snaps" so as to make them into [[Well|well]]-balanced pictures; she protested that she "just couldn't bear" to sacrifice so much as a strip of blank sky or the out-of-focus intrusion of Uncle Bertie's boot from these creative efforts). The tenderness which prompts the biographer to exhibit his subject as a dreary paragon of all the virtues is another, slightly more complicated, version of the sentimental treatment of an imagined [[Hero|hero]].
 
 [ ](20140909_split_021.html#fr_43) So Spenser:
 
@@ -46,7 +46,7 @@ Yet praise likewise deserve good thewes enforst with paine.
 
 [ ](20140909_split_021.html#fr_44) T. S. Eliot: *Gerontion* .
 
-[ ](20140909_split_021.html#fr_45) William Blake: *Songs of Experience* .
+[ ](20140909_split_021.html#fr_45) William Blake: *[[songs|Songs]] of Experience* .
 
 [ ](20140909_split_021.html#fr_46) Revelation of St. John vi. 16, 17.
 
@@ -54,15 +54,15 @@ Yet praise likewise deserve good thewes enforst with paine.
 
 [ ](20140909_split_021.html#fr_48) It is, of course, irrelevant to object that this "creature" struggling towards manifestation is "really" only a part of the maker's own ego. *All* creatures are a part of the Maker's mind, and have no independent existence till they attain partial independence by manifestation.
 
-[ ](20140909_split_023.html#fr_49) C. S. Lewis: *The Allegory of Love* .
+[ ](20140909_split_023.html#fr_49) C. S. Lewis: *The [[Allegory]] of [[Love]]* .
 
-[ ](20140909_split_023.html#fr_50) When the artist has the book complete in his head before writing it down (see [p. 31](20140909_split_009.html#Page_31) ) the son is, of course, present in full activity with much of the work (e.g. style, characterisation, sequence of episodes) already consciously realised; but this is not the case with the ingenuous gentleman in question, as we soon discover if we ask him to explain his idea. What is lacking in him is not time or a chair, but the first notion of how to set about the job.
+[ ](20140909_split_023.html#fr_50) When the [[Artist|artist]] has the book complete in his head before writing it down (see [p. 31](20140909_split_009.html#Page_31) ) the son is, of course, present in full activity with much of the work (e.g. style, characterisation, sequence of episodes) already consciously realised; but this is not the case with the ingenuous gentleman in question, as we soon discover if we ask him to explain his idea. What is lacking in him is not [[Time|time]] or a chair, but the first notion of how to set about the job.
 
 [ ](20140909_split_023.html#fr_51) Babette Deutsch: *This Modern Poetry* .
 
 [ ](20140909_split_023.html#fr_52) Constant Coquelin: *L'Art du Comédien* .
 
-[ ](20140909_split_023.html#fr_53) It ought not to be, but probably is, necessary to make plain at this point that it is not loftiness of theme and language that is the distinguishing characteristic of the father-centred, but the fact that all the writer's work and every part of it can be referred to a coherent and controlling unity of Idea. Blake, Aquinas, Euclid, and Bach are all patricentric, and so is Lewis Carroll in the "Alice" books; but Milton is not, nor Donne, though the father is powerful in both of them.
+[ ](20140909_split_023.html#fr_53) It ought not to be, but probably is, necessary to make plain at this point that it is not loftiness of theme and language that is the distinguishing characteristic of the father-centred, but the fact that all the writer's work and every part of it can be referred to a coherent and controlling [[unity]] of Idea. Blake, [[aquinas|Aquinas]], Euclid, and Bach are all patricentric, and so is Lewis Carroll in the "Alice" books; but [[Milton]] is not, nor Donne, though the father is powerful in both of them.
 
 [ ](20140909_split_023.html#fr_54) Dean Burgon: Petra: *Newdigate Prize Poem* , 1845.
 
@@ -70,7 +70,7 @@ Yet praise likewise deserve good thewes enforst with paine.
 
 [ ](20140909_split_023.html#fr_56) Letter to Proctor, 19.4.29.
 
-[ ](20140909_split_023.html#fr_57) Song in *Death's Jest-book* .
+[ ](20140909_split_023.html#fr_57) [[Song]] in *[[Death]]'s Jest-book* .
 
 [ ](20140909_split_023.html#fr_58) Letter to Kelsall, 30.4.29.
 
@@ -86,7 +86,7 @@ Yet praise likewise deserve good thewes enforst with paine.
 
 [ ](20140909_split_023.html#fr_64) Sheridan: *The Critic* , Act III.
 
-[ ](20140909_split_023.html#fr_65) Patripassianism is the heresy which maintains that God the Father suffered on the cross with God the Son. Here it will be well to remind ourselves again that in our analogy "vicissitudes and torments" mean those which attend literary creation, and have nothing to do with the subject of the work or the emotions of the author's personal life.
+[ ](20140909_split_023.html#fr_65) Patripassianism is the heresy which maintains that God the Father suffered on the [[Cross|cross]] with God the Son. Here it will be [[Well|well]] to remind ourselves again that in our analogy "vicissitudes and torments" mean those which attend literary creation, and have nothing to do with the subject of the work or the emotions of the author's personal life.
 
 [ ](20140909_split_023.html#fr_66) G. K. Chesterton: *The Victorian Age in Literature* .
 
@@ -94,9 +94,9 @@ Yet praise likewise deserve good thewes enforst with paine.
 
 [ ](20140909_split_023.html#fr_68) [Chapter VIII](20140909_split_018.html#c8) , *sup.*
 
-[ ](20140909_split_023.html#fr_69) *Ramsay MacDonald* , in a debate on Unemployment, 16.2.33. *Hansard* , Vol. 274, p. 1312.
+[ ](20140909_split_023.html#fr_69) *Ramsay MacDonald* , in a [[debate]] on Unemployment, 16.2.33. *Hansard* , Vol. 274, p. 1312.
 
-[ ](20140909_split_023.html#fr_70) Some minor eighteenth-century poet, I think, on the subject of the Ark crossing Jordan. I have forgotten the reference, but the lapidary phrase itself is stamped indelibly on the memory.
+[ ](20140909_split_023.html#fr_70) Some minor eighteenth-century poet, I think, on the subject of the Ark crossing Jordan. I have forgotten the reference, but the lapidary phrase itself is stamped indelibly on the [[Memory|memory]].
 
 
 <span class="qlang-split" data-lang="it"></span>
