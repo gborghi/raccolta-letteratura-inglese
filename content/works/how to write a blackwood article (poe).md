@@ -25,6 +25,10 @@ tags:
 > [!abstract] 
 > Literary satire in which Signora Psyche Zenobia receives absurd instructions for manufacturing a sensational magazine 'intensity' article.
 
+## Testo / Text
+
+- [How to Write a Blackwood Article](/testi/poe/atomized/how_to_write_a_blackwood_article/how_to_write_a_blackwood_article)
+
 ## Connections
 
 **Motifs:** [[Letters and Writing]], [[Book Reading]], [[Clothing and Costume]]

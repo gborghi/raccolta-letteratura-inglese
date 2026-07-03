@@ -22,6 +22,10 @@ tags:
 > [!abstract] 
 > A pseudo-scientific horror tale in which a dying man is mesmerized at the point of death and held suspended for months until his sudden, grotesque dissolution; themes of death, the uncanny, and bodily decay.
 
+## Testo / Text
+
+- [The Facts in the Case of M. Valdemar](/testi/poe/atomized/the_facts_in_the_case_of_m_valdemar/the_facts_in_the_case_of_m_valdemar)
+
 ## Connections
 
 **Motifs:** [[Death]], [[Decay]], [[Sleeper Awakes (2)]]

@@ -20,6 +20,10 @@ tags:
 > [!abstract] 
 > Whimsical love-letters and a mock-autobiography addressed to his fiancee Frances Blogg; turns ordinary domestic objects sacramental, treats love and death as kindred transformations.
 
+## Testo / Text
+
+- [to-frances](/testi/chesterton/atomized/to_frances/to_frances)
+
 ## Connections
 
 **Motifs:** [[Letters and Writing]], [[Marriage]]

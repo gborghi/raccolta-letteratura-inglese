@@ -37,6 +37,10 @@ tags:
 > [!abstract] 
 > Aesthetic critical dialogue arguing art over nature, lying as art, and that life imitates art; a manifesto of art for art's sake rich in paradox and epigram.
 
+## Testo / Text
+
+- [The Decay of Lying](/testi/wilde/atomized/024_the_decay_of_lying/024_the_decay_of_lying)
+
 ## Connections
 
 **Topoi:** [[Book of Nature]], [[World Upside Down]]

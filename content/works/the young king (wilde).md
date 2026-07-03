@@ -45,6 +45,10 @@ tags:
 > [!abstract] 
 > A fairy-tale allegory in which a beauty-loving young king, taught by three dreams of the suffering behind his coronation finery, renounces luxury and is crowned by divine light as a Christ-like figure.
 
+## Testo / Text
+
+- [The Young King](/testi/wilde/atomized/016_the_young_king/016_the_young_king)
+
 ## Connections
 
 **Topoi:** [[Sleeper Awakes]], [[Dance of Death]], [[World Upside Down]]

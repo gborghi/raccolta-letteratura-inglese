@@ -44,6 +44,10 @@ tags:
 > [!abstract] 
 > Long prison letter charting Wilde's spiritual development through sorrow, humility and conversion, with Christ reimagined as the supreme individualist and romantic artist.
 
+## Testo / Text
+
+- [De Profundis](/testi/wilde/atomized/029_de_profundis/029_de_profundis)
+
 ## Connections
 
 **Topoi:** [[Katabasis Descent]], [[Fall from Innocence]]

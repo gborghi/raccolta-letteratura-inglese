@@ -36,6 +36,10 @@ tags:
 > [!abstract] 
 > Critical biography of Wainewright, the artist-forger-poisoner, exploring the relation of art and crime, the artist and society, and the amorality of beauty.
 
+## Testo / Text
+
+- [Pen, Pencil and Poison](/testi/wilde/atomized/025_pen_pencil_and_poison/025_pen_pencil_and_poison)
+
 ## Connections
 
 **Topoi:** [[Double]]

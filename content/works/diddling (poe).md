@@ -25,6 +25,10 @@ tags:
 > [!abstract] 
 > A mock-scientific satirical essay defining man as 'an animal that diddles' and cataloguing petty swindles; a comic anatomy of deception, the trickster, and social satire.
 
+## Testo / Text
+
+- [Diddling](/testi/poe/atomized/diddling/diddling)
+
 ## Connections
 
 **Topoi:** [[World Upside Down]]

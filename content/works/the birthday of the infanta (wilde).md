@@ -44,6 +44,10 @@ tags:
 > [!abstract] 
 > At the Spanish court a deformed dwarf, loved by no one, dances for the Infanta until a mirror reveals his ugliness and his heart breaks; a tragic tale of cruelty, beauty versus ugliness, and the grotesque.
 
+## Testo / Text
+
+- [The Birthday of the Infanta](/testi/wilde/atomized/017_the_birthday_of_the_infanta/017_the_birthday_of_the_infanta)
+
 ## Connections
 
 **Topoi:** [[Double]], [[Vanitas]], [[Fall from Innocence]]

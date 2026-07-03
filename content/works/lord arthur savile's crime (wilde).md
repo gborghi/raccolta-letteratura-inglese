@@ -48,6 +48,10 @@ tags:
 > [!abstract] 
 > A comic society tale in which a young aristocrat, told by a cheiromantist that he is fated to commit murder, treats the prophecy as a moral duty to be discharged before marriage; a satire of fashionable London that inverts fate, conscience and guilt into farce.
 
+## Testo / Text
+
+- [Lord Arthur Savile's Crime](/testi/wilde/atomized/020_lord_arthur_saviles_crime/020_lord_arthur_saviles_crime)
+
 ## Connections
 
 **Topoi:** [[Theatrum Mundi]], [[All the World's a Stage]], [[World Upside Down]], [[Memento Mori]]

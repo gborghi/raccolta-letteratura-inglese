@@ -24,6 +24,10 @@ tags:
 > [!abstract] 
 > A collection of critical essays on figures such as Charlotte Bronte, William Morris, Byron, Pope, St Francis, Stevenson, Carlyle and Tolstoy; literary criticism that probes the inner truth and creed behind each writer's art.
 
+## Testo / Text
+
+- [VariedTypes](/testi/chesterton/atomized/variedtypes/variedtypes)
+
 ## Connections
 
 **Themes & Concepts:** [[Artist and Society]], [[Truth]], [[Appearance vs Reality]], [[Common Man]], [[Beauty]], [[Imagination]]

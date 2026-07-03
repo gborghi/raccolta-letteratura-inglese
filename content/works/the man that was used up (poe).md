@@ -30,6 +30,10 @@ tags:
 > [!abstract] 
 > Grotesque satire in which a celebrated war-hero general proves to be a literal assemblage of manufactured prosthetics, mocking the age's faith in mechanical progress and hollow public reputation.
 
+## Testo / Text
+
+- [The Man That Was Used Up](/testi/poe/atomized/the_man_that_was_used_up/the_man_that_was_used_up)
+
 ## Connections
 
 **Topoi:** [[World Upside Down]]

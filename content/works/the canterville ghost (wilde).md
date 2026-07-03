@@ -49,6 +49,10 @@ tags:
 > [!abstract] 
 > A comic-gothic story parodying the haunted-house tale: a centuries-old English ghost is defeated by an unflappable, materialist American family, yet finds release through a child's pity and prayer, ending in genuine grace, forgiveness and the recurrent bloodstain motif.
 
+## Testo / Text
+
+- [The Canterville Ghost](/testi/wilde/atomized/021_the_canterville_ghost/021_the_canterville_ghost)
+
 ## Connections
 
 **Topoi:** [[World Upside Down]], [[Memento Mori]], [[Sleeper Awakes]]

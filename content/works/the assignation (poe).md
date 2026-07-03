@@ -33,6 +33,10 @@ tags:
 > [!abstract] 
 > A Byronic stranger in Venice and the married Marchesa Aphrodite share a forbidden love that ends in their simultaneous death by poison at the appointed hour; a tale of love-as-religion, doomed passion and aestheticism.
 
+## Testo / Text
+
+- [The Assignation](/testi/poe/atomized/the_assignation/the_assignation)
+
 ## Connections
 
 **Topoi:** [[Love as Religion]], [[Unattainable Beloved]]

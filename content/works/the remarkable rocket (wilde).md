@@ -35,6 +35,10 @@ tags:
 > [!abstract] 
 > A satirical fairy tale skewering vanity and self-importance: a pompous rocket convinced of his own greatness fizzles unseen in a ditch, a comedy of pride and self-delusion.
 
+## Testo / Text
+
+- [The Remarkable Rocket](/testi/wilde/atomized/015_the_remarkable_rocket/015_the_remarkable_rocket)
+
 ## Connections
 
 **Topoi:** [[Vanitas]], [[World Upside Down]]

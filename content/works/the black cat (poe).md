@@ -30,6 +30,10 @@ tags:
 > [!abstract] 
 > A condemned narrator confesses how alcohol and the spirit of perverseness led him to mutilate and hang his cat and murder his wife, his guilt betrayed by a second cat; a tale of guilt, madness and the grotesque.
 
+## Testo / Text
+
+- [The Black Cat](/testi/poe/atomized/the_black_cat/the_black_cat)
+
 ## Connections
 
 **Topoi:** [[Fall from Innocence]]

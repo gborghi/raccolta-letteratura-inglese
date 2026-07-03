@@ -22,6 +22,10 @@ tags:
 > [!abstract] 
 > A satirical horror-comedy: a visitor to a French madhouse discovers the lunatics have overthrown their keepers and taken over the asylum. Themes of madness, the world upside down, and appearance vs reality.
 
+## Testo / Text
+
+- [The System of Doctor Tarr and Professor Fether](/testi/poe/atomized/the_system_of_doctor_tarr_and_professor_fether/the_system_of_doctor_tarr_and_professor_fether)
+
 ## Connections
 
 **Topoi:** [[World Upside Down]]

@@ -22,6 +22,10 @@ tags:
 > [!abstract] 
 > Pamphlet arguing that extending divorce is the rich man's weapon against the poor family, defending marriage as a democratic vow of 'for better, for worse'.
 
+## Testo / Text
+
+- [Divorce Democracy](/testi/chesterton/atomized/divorce_democracy/divorce_democracy)
+
 ## Connections
 
 **Motifs:** [[Marriage]]

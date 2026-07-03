@@ -37,6 +37,10 @@ tags:
 > [!abstract] 
 > Political-aesthetic essay arguing that abolishing private property frees a true Individualism, attacking poverty, charity, authority and public opinion, and championing the artist's autonomy from society.
 
+## Testo / Text
+
+- [The Soul of Man under Socialism](/testi/wilde/atomized/028_the_soul_of_man_under_socialism/028_the_soul_of_man_under_socialism)
+
 ## Connections
 
 **Topoi:** [[Golden Age]], [[World Upside Down]]

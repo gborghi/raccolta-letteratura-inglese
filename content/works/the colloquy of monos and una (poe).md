@@ -22,6 +22,10 @@ tags:
 > [!abstract] 
 > A dialogue between two reunited souls after death describing the sensations of dying and bodily decay, framed by a critique of mechanical progress and modern civilization.
 
+## Testo / Text
+
+- [The Colloquy of Monos and Una](/testi/poe/atomized/the_colloquy_of_monos_and_una/the_colloquy_of_monos_and_una)
+
 ## Connections
 
 **Motifs:** [[Death]], [[Decay]]

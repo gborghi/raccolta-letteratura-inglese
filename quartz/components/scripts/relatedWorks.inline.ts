@@ -134,8 +134,10 @@ function initLangToggle() {
   }
 
   const bp = document.body.dataset.basepath || ""
-  const stored = localStorage.getItem("qlang")
-  let active = stored && langs.includes(stored) ? stored : defaultLang
+  // Always open in the page's default language (English). A previously chosen
+  // language is NOT made the global sticky default — the toggle only switches the
+  // current view. This keeps every work opening in EN as requested.
+  let active = defaultLang
 
   function apply(lang: string) {
     for (const l of langs) for (const n of groups[l]) n.style.display = l === lang ? "" : "none"
@@ -164,7 +166,6 @@ function initLangToggle() {
       b.textContent = l.toUpperCase()
     }
     b.addEventListener("click", () => {
-      localStorage.setItem("qlang", l)
       apply(l)
     })
     sw.appendChild(b)

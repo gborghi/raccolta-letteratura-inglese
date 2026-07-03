@@ -26,6 +26,10 @@ tags:
 > [!abstract] 
 > Pseudo-scientific dialogue in which a dying mesmerized man reveals a metaphysics of God as 'unparticled matter,' the soul's immortality, and death as metamorphosis; ends with the sleep-waker's death.
 
+## Testo / Text
+
+- [Mesmeric Revelation](/testi/poe/atomized/mesmeric_revelation/mesmeric_revelation)
+
 ## Connections
 
 **Topoi:** [[Sleeper Awakes]]

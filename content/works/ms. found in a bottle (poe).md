@@ -35,6 +35,10 @@ tags:
 > [!abstract] 
 > A rationalist narrator's manuscript of a doomed sea voyage: storm, a spectral ghost-ship crewed by aged phantoms, and a final plunge into a southern polar whirlpool toward forbidden knowledge.
 
+## Testo / Text
+
+- [Ms. Found in a Bottle](/testi/poe/atomized/ms_found_in_a_bottle/ms_found_in_a_bottle)
+
 ## Connections
 
 **Topoi:** [[Night Journey Vision]], [[Katabasis Descent]], [[Quest]]

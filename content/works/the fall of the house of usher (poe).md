@@ -27,6 +27,10 @@ tags:
 > [!abstract] 
 > A gothic tale of the doomed twins Roderick and Madeline Usher, premature burial, hereditary madness and the literal collapse of their decaying house; a study in terror, the double, and the uncanny.
 
+## Testo / Text
+
+- [The Fall of the House of Usher](/testi/poe/atomized/the_fall_of_the_house_of_usher/the_fall_of_the_house_of_usher)
+
 ## Connections
 
 **Topoi:** [[Double]]

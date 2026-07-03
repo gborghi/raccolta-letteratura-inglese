@@ -30,6 +30,10 @@ tags:
 > [!abstract] 
 > Satirical epistolary science-fiction set in 2848, a balloon-borne letter mocking democracy, scientific method and human progress; a manuscript-in-a-bottle frame satirizing the future's contempt for the past.
 
+## Testo / Text
+
+- [Mellonta Tauta](/testi/poe/atomized/mellonta_tauta/mellonta_tauta)
+
 ## Connections
 
 **Topoi:** [[World Upside Down]], [[Eternal Return]]

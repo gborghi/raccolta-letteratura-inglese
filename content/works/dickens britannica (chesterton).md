@@ -22,6 +22,10 @@ tags:
 > [!abstract] 
 > Biographical-critical appreciation of Charles Dickens written for the Encyclopaedia Britannica, praising his comic, superhuman imagination and his roots in the insecure Victorian middle class.
 
+## Testo / Text
+
+- [dickens Britannica](/testi/chesterton/atomized/dickens_britannica/dickens_britannica)
+
 ## Connections
 
 **Themes & Concepts:** [[Imagination]], [[Artist and Society]], [[Common Man]], [[Poverty]]

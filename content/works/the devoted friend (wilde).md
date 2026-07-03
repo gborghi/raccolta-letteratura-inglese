@@ -38,6 +38,10 @@ tags:
 > [!abstract] 
 > A satirical fable in which a rich Miller exploits and finally causes the death of little Hans while endlessly preaching the virtues of 'true friendship', mocking hypocrisy and false friendship.
 
+## Testo / Text
+
+- [The Devoted Friend](/testi/wilde/atomized/014_the_devoted_friend/014_the_devoted_friend)
+
 ## Connections
 
 **Topoi:** [[World Upside Down]]

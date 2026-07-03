@@ -21,6 +21,10 @@ tags:
 > [!abstract] 
 > A comic satire in which a devilish stranger invades an orderly clockwork Dutch borough and overturns its obsession with time and routine; a burlesque of bourgeois order turned upside down.
 
+## Testo / Text
+
+- [The Devil in the Belfry](/testi/poe/atomized/the_devil_in_the_belfry/the_devil_in_the_belfry)
+
 ## Connections
 
 **Topoi:** [[World Upside Down]]

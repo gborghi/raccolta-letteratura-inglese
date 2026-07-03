@@ -22,6 +22,10 @@ tags:
 > [!abstract] 
 > A proto-science-fiction hoax-tale: a bankrupt Rotterdam bellows-mender escapes his debts by ballooning to the Moon, narrated with pseudo-scientific detail. Themes of the quest, the journey, satire and wonder.
 
+## Testo / Text
+
+- [The Unparalleled Adventures of one Hans Pfaall](/testi/poe/atomized/the_unparalleled_adventures_of_one_hans_pfaall/the_unparalleled_adventures_of_one_hans_pfaall)
+
 ## Connections
 
 **Topoi:** [[Quest]]

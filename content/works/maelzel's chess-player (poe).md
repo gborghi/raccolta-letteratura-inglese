@@ -24,6 +24,10 @@ tags:
 > [!abstract] 
 > Analytical essay using step-by-step ratiocination to prove Maelzel's chess automaton is operated by a concealed human, not pure machine.
 
+## Testo / Text
+
+- [Maelzel's Chess-Player](/testi/poe/atomized/maelzel_s_chess_player/maelzel_s_chess_player)
+
 ## Connections
 
 **Archetypes:** [[Detective]]

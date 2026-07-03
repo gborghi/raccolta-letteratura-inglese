@@ -26,6 +26,10 @@ tags:
 > [!abstract] 
 > A Restoration-set short story in which a weaponless schoolmaster defeats a magnetic sword with a wooden cross-shaped stick; faith, paradox, chivalry, the cross.
 
+## Testo / Text
+
+- [Sword](/testi/chesterton/atomized/sword/sword)
+
 ## Connections
 
 **Archetypes:** [[Hero]]

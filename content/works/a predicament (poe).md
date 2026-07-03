@@ -28,6 +28,10 @@ tags:
 > [!abstract] 
 > A grotesque satire (companion to 'How to Write a Blackwood Article') in which Signora Psyche Zenobia is decapitated by a giant clock-hand; parodies sensational magazine fiction through black comedy and the grotesque.
 
+## Testo / Text
+
+- [A Predicament](/testi/poe/atomized/a_predicament/a_predicament)
+
 ## Connections
 
 **Topoi:** [[Tempus Fugit]], [[Memento Mori]]

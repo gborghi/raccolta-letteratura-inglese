@@ -48,6 +48,10 @@ tags:
 > [!abstract] 
 > A fairy tale of a beautiful but proud and cruel foundling who, punished with ugliness for denying his beggar mother, undergoes a penitential quest of humility and charity, is restored, and redeemed in an explicitly Christ-toned arc of fall, suffering and redemption.
 
+## Testo / Text
+
+- [The Star-Child](/testi/wilde/atomized/019_the_star_child/019_the_star_child)
+
 ## Connections
 
 **Topoi:** [[Fall from Innocence]], [[Quest]], [[Paradise Lost]], [[Fortune's Wheel]]

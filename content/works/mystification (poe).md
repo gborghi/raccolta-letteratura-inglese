@@ -29,6 +29,10 @@ tags:
 > [!abstract] 
 > A comic tale of the trickster Baron Ritzner von Jung, master of mystification, who humiliates a pompous duellist with a nonsense treatise and a decanter hurled at a mirror; satire of the duello and honor.
 
+## Testo / Text
+
+- [Mystification](/testi/poe/atomized/mystification/mystification)
+
 ## Connections
 
 **Archetypes:** [[Trickster]], [[Fool]]

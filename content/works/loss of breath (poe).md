@@ -26,6 +26,10 @@ tags:
 > [!abstract] 
 > Grotesque comic tale of a man who literally loses his breath, is mangled, hanged, entombed, and revived, parodying horror sensationalism.
 
+## Testo / Text
+
+- [Loss of Breath](/testi/poe/atomized/loss_of_breath/loss_of_breath)
+
 ## Connections
 
 **Topoi:** [[Sleeper Awakes]]

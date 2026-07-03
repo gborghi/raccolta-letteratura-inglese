@@ -27,6 +27,10 @@ tags:
 > [!abstract] 
 > A drunken skeptic is plagued by a grotesque liquor-cask spirit who orchestrates a cascade of absurd accidents to punish his disbelief in the improbable; a comic extravaganza on chance and the grotesque.
 
+## Testo / Text
+
+- [The Angel of the Odd](/testi/poe/atomized/the_angel_of_the_odd/the_angel_of_the_odd)
+
 ## Connections
 
 **Archetypes:** [[Trickster]], [[Fool]]

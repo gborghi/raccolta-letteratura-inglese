@@ -26,6 +26,10 @@ tags:
 > [!abstract] 
 > A doppelganger tale: the dissolute narrator is shadowed all his life by a double bearing his own name who thwarts his every vice, until he kills him and destroys himself; the double is his conscience. Themes of the double, conscience, guilt and identity.
 
+## Testo / Text
+
+- [William Wilson](/testi/poe/atomized/william_wilson/william_wilson)
+
 ## Connections
 
 **Topoi:** [[Double]]

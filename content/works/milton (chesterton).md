@@ -23,6 +23,10 @@ tags:
 > [!abstract] 
 > A critical essay on the contrast between the cold, proud, Puritan man Milton and his warm, sensuous poetry; analyses Calvinism, Puritan aristocracy, the Reformation, and Milton's likeness to his own Satan.
 
+## Testo / Text
+
+- [Milton](/testi/chesterton/atomized/milton/milton)
+
 ## Connections
 
 **Topoi:** [[Paradise Lost]]

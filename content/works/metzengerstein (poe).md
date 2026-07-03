@@ -32,6 +32,10 @@ tags:
 > [!abstract] 
 > Gothic horror tale of feuding Hungarian houses and metempsychosis: a demonic horse embodying a dead rival drives the dissolute young Baron to a fiery, fated doom.
 
+## Testo / Text
+
+- [Metzengerstein](/testi/poe/atomized/metzengerstein/metzengerstein)
+
 ## Connections
 
 **Topoi:** [[Eternal Return]], [[Double]]

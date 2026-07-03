@@ -29,6 +29,10 @@ tags:
 > [!abstract] 
 > A chapter from The New Jerusalem defending the First Crusade as a rational, popular religious war and a revolution of the common man; narrates the siege of Jerusalem and Godfrey de Bouillon's heroism, with the cross as central symbol.
 
+## Testo / Text
+
+- [meaning of the crusade](/testi/chesterton/atomized/meaning_of_the_crusade/meaning_of_the_crusade)
+
 ## Connections
 
 **Topoi:** [[Quest]]

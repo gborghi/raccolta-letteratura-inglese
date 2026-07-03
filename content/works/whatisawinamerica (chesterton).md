@@ -22,6 +22,10 @@ tags:
 > [!abstract] 
 > A book of travel essays reflecting on American democracy, Prohibition, business, Lincoln and the spirit of the nation; meditates on the rights of man, the creed of equality, and the contrast between America and England.
 
+## Testo / Text
+
+- [WhatISawInAmerica](/testi/chesterton/atomized/whatisawinamerica/whatisawinamerica)
+
 ## Connections
 
 **Themes & Concepts:** [[Nationalism and Patriotism]], [[Satire of Society]], [[Justice Right and Wrong]], [[Identity]], [[Critique of Progress]]

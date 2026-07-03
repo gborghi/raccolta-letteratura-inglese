@@ -25,6 +25,10 @@ tags:
 > [!abstract] 
 > A fabricated newspaper account of the first transatlantic balloon crossing, presented as fact; a hoax celebrating science, technology and the credulity of the age.
 
+## Testo / Text
+
+- [The Balloon-Hoax](/testi/poe/atomized/the_balloon_hoax/the_balloon_hoax)
+
 ## Connections
 
 **Motifs:** [[Sea]], [[Journey]], [[Wind]]

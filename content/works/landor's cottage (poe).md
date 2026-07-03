@@ -32,6 +32,10 @@ tags:
 > [!abstract] 
 > Descriptive prose pendant to Arnheim, a wanderer's discovery of an exquisitely composed valley, cottage, and landscape-as-art.
 
+## Testo / Text
+
+- [Landor's Cottage](/testi/poe/atomized/landor_s_cottage/landor_s_cottage)
+
 ## Connections
 
 **Topoi:** [[Locus Amoenus]], [[Beatus Ille (Happy the Man Rural Retreat)]]

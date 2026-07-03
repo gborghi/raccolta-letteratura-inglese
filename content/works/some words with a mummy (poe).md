@@ -30,6 +30,10 @@ tags:
 > [!abstract] 
 > A galvanized Egyptian mummy, Count Allamistakeo, debates modern Americans and deflates 19th-century faith in progress, democracy and science; a satire blending the grotesque with critique of progress.
 
+## Testo / Text
+
+- [Some Words with a Mummy](/testi/poe/atomized/some_words_with_a_mummy/some_words_with_a_mummy)
+
 ## Connections
 
 **Topoi:** [[Sleeper Awakes]], [[World Upside Down]]

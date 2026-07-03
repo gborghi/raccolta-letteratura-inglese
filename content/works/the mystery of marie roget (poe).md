@@ -35,6 +35,10 @@ tags:
 > [!abstract] 
 > A Dupin ratiocinative tale reconstructing the murder of a young Parisian shop-girl (mirroring the real Mary Rogers case) through probability, newspaper analysis, and armchair detection.
 
+## Testo / Text
+
+- [The Mystery of Marie Roget](/testi/poe/atomized/the_mystery_of_marie_roget/the_mystery_of_marie_roget)
+
 ## Connections
 
 **Archetypes:** [[Detective]], [[(Reputed) Fallen Woman]]

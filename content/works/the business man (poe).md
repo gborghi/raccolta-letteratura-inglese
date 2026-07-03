@@ -25,6 +25,10 @@ tags:
 > [!abstract] 
 > A self-styled methodical 'man of business' satirizes commercial society by pursuing a series of petty, swindling 'methodical' trades; a satire of money-grubbing and bourgeois respectability.
 
+## Testo / Text
+
+- [The Business Man](/testi/poe/atomized/the_business_man/the_business_man)
+
 ## Connections
 
 **Archetypes:** [[Self-Made Man]], [[Trickster]], [[Fool]]

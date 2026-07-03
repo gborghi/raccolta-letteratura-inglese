@@ -25,6 +25,10 @@ tags:
 > [!abstract] 
 > Chesterton's literary-critical essay on Shakespeare's comedy, praising its 'mysticism of happiness', the dream-atmosphere of the enchanted wood, the greatness of the fool Bottom, and its evocation of Merrie England.
 
+## Testo / Text
+
+- [midsummer nights dream](/testi/chesterton/atomized/midsummer_nights_dream/midsummer_nights_dream)
+
 ## Connections
 
 **Archetypes:** [[Fool]]

@@ -336,6 +336,7 @@ async function publishUnits(rawSourceToWork, translations = new Map()) {
   const excerpts = []
   const excerptsKw = {}
   const workUnits = new Map() // work href -> [{ slug, title, relU }] reading units (TOC)
+  const workContainers = new Map() // work href -> { slug, title, relU } full-text page (single-essay fallback)
   let copied = 0
 
   const authors = await fs.readdir(AUTHORS_DIR, { withFileTypes: true })
@@ -409,6 +410,12 @@ async function publishUnits(rawSourceToWork, translations = new Map()) {
           if (parentWorkHref && ["chapter", "scene", "story", "section"].includes(it.unitType)) {
             if (!workUnits.has(parentWorkHref)) workUnits.set(parentWorkHref, [])
             workUnits.get(parentWorkHref).push({ slug: it.slug, title, relU: it.relU })
+          }
+          // The full-text container (unitType "work", e.g. a single essay atomized
+          // only into paragraph fragments) is the reading page for works with no
+          // chapters/scenes. Keep it as a fallback so the work note can link to it.
+          if (parentWorkHref && it.unitType === "work") {
+            workContainers.set(parentWorkHref, { slug: it.slug, title, relU: it.relU })
           }
 
           // prev/next within the reading sequence
@@ -491,7 +498,7 @@ async function publishUnits(rawSourceToWork, translations = new Map()) {
       }
     }
   }
-  return { unitHref, excerpts, excerptsKw, copied, workUnits }
+  return { unitHref, excerpts, excerptsKw, copied, workUnits, workContainers }
 }
 
 async function main() {
@@ -574,7 +581,7 @@ async function main() {
   }
 
   // ---- Publish atomized excerpts / play scenes / long-poem sections ----
-  const { unitHref, excerpts, excerptsKw, copied: unitsCopied, workUnits } = await publishUnits(rawSourceToWork, translations)
+  const { unitHref, excerpts, excerptsKw, copied: unitsCopied, workUnits, workContainers } = await publishUnits(rawSourceToWork, translations)
   await fs.writeFile(
     path.join(ROOT, "quartz", "static", "excerpts.json"),
     JSON.stringify(excerpts),
@@ -636,7 +643,12 @@ async function main() {
     // append. Strip the repeated "<Work> — " prefix from each unit title.
     let workTocMd = ""
     if (data.type === "work") {
-      const units = workUnits.get(slugFromRel(rel))
+      let units = workUnits.get(slugFromRel(rel))
+      if (!units || !units.length) {
+        // No chapters/scenes: fall back to the single full-text page ("Testo / Text").
+        const c = workContainers.get(slugFromRel(rel))
+        if (c) units = [c]
+      }
       if (units && units.length) {
         const sorted = [...units].sort((a, b) =>
           a.relU.localeCompare(b.relU, undefined, { numeric: true }))

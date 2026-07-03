@@ -22,6 +22,10 @@ tags:
 > [!abstract] 
 > A reflective tale-essay on landscape gardening as the highest art, in which a wealthy aesthete builds an earthly paradise; its matter is beauty, the sublime, and the artist's creation of an ideal garden.
 
+## Testo / Text
+
+- [The Domain of Arnheim](/testi/poe/atomized/the_domain_of_arnheim/the_domain_of_arnheim)
+
 ## Connections
 
 **Topoi:** [[Locus Amoenus]]

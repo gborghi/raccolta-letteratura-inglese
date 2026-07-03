@@ -38,6 +38,10 @@ tags:
 > [!abstract] 
 > Critical dialogue arguing that criticism is itself a creative art; a sustained aesthetic meditation on beauty, imagination, contemplation and the artist and society.
 
+## Testo / Text
+
+- [The Critic as Artist](/testi/wilde/atomized/026_the_critic_as_artist/026_the_critic_as_artist)
+
 ## Connections
 
 **Topoi:** [[Immortality Through Verse]], [[Book of Nature]]

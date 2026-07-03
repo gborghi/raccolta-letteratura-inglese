@@ -32,6 +32,10 @@ tags:
 > [!abstract] 
 > Tale of an abused dwarf jester who exacts fiery revenge on a cruel king and his courtiers at a masquerade.
 
+## Testo / Text
+
+- [Hop-Frog](/testi/poe/atomized/hop_frog/hop_frog)
+
 ## Connections
 
 **Topoi:** [[World Upside Down]]

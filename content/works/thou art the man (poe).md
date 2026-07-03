@@ -24,6 +24,10 @@ tags:
 > [!abstract] 
 > A comic detective/ratiocination tale: the narrator unmasks 'Old Charley Goodfellow' as the murderer of his friend by springing the corpse from a wine-box to cry 'Thou art the man'. Themes of detection, guilt, deception and appearance vs reality.
 
+## Testo / Text
+
+- [Thou Art the Man](/testi/poe/atomized/thou_art_the_man/thou_art_the_man)
+
 ## Connections
 
 **Archetypes:** [[Detective]], [[Trickster]]

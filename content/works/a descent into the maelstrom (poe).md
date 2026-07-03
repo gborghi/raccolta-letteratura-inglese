@@ -32,6 +32,10 @@ tags:
 > [!abstract] 
 > A frame-narrative sea tale in which an old fisherman recounts surviving the Norwegian whirlpool by rational observation; explores terror, the sublime, and reason against the destructive power of nature.
 
+## Testo / Text
+
+- [A Descent Into the Maelstrom](/testi/poe/atomized/a_descent_into_the_maelstrom/a_descent_into_the_maelstrom)
+
 ## Connections
 
 **Topoi:** [[Katabasis Descent]], [[Night Journey Vision]], [[Book of Nature]]

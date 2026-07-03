@@ -22,6 +22,10 @@ tags:
 > [!abstract] 
 > A literary-critical review of the letters and poems of the Manx poet T. E. Brown, meditating on friendship, the privacy of private letters, and frivolity as something sacred. Themes: friendship, the artist and his work, and reflection on death and judgment.
 
+## Testo / Text
+
+- [The Speaker](/testi/chesterton/atomized/the_speaker/the_speaker)
+
 ## Connections
 
 **Motifs:** [[Letters and Writing]]

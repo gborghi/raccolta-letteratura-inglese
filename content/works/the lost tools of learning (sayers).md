@@ -42,6 +42,10 @@ tags:
 > [!abstract] 
 > In this 1947 Oxford lecture Sayers contends that modern schooling teaches a multitude of "subjects" but fails to teach children how to think, leaving them defenceless against propaganda, advertising and sloppy argument. Her remedy is to revive the medieval Trivium—Grammar, Dialectic and Rhetoric—as the true tools of learning, matching each to a natural stage of the child's development (the Poll-parrot, the Pert and the Poetic ages). The sole end of education, she insists, is to teach people how to learn for themselves, so that any subject becomes an open door.
 
+## Testo / Text
+
+- [The Lost Tools of Learning](/testi/sayers/atomized/the_lost_tools_of_learning/the_lost_tools_of_learning)
+
 ## Connections
 
 **Archetypes:** [[Child]], [[Mentor]]
@@ -59,6 +63,10 @@ tags:
 
 > [!abstract] 
 > In questa conferenza tenuta a Oxford nel 1947, Sayers sostiene che la scuola moderna insegna una moltitudine di "materie" ma non insegna ai ragazzi a pensare, lasciandoli indifesi di fronte alla propaganda, alla pubblicità e alle argomentazioni sciatte. Il suo rimedio è far rivivere il Trivio medievale—Grammatica, Dialettica e Retorica—quali veri strumenti dell'apprendimento, facendo corrispondere ciascuno a una fase naturale dello sviluppo del bambino (l'età del Pappagallo, l'età Impertinente e l'età Poetica). L'unico fine dell'educazione, insiste, è insegnare alle persone a imparare da sé, così che ogni materia diventi una porta aperta.
+
+## Testo / Text
+
+- [The Lost Tools of Learning](/testi/sayers/atomized/the_lost_tools_of_learning/the_lost_tools_of_learning)
 
 ## Connections
 

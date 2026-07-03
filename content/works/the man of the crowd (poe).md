@@ -32,6 +32,10 @@ tags:
 > [!abstract] 
 > A convalescent narrator obsessively follows an enigmatic old man through nocturnal London, finding in his refusal to be alone the unreadable type and genius of deep crime amid the modern crowd.
 
+## Testo / Text
+
+- [The Man of the Crowd](/testi/poe/atomized/the_man_of_the_crowd/the_man_of_the_crowd)
+
 ## Connections
 
 **Topoi:** [[Theatrum Mundi]]

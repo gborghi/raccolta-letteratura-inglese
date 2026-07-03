@@ -31,6 +31,10 @@ tags:
 > [!abstract] 
 > Wilde's critical essay on Shakespeare's use of costume and illusion, arguing that archaeological accuracy is a method of artistic illusion and ending on the paradox that the truths of metaphysics are the truths of masks.
 
+## Testo / Text
+
+- [The Truth of Masks](/testi/wilde/atomized/027_the_truth_of_masks/027_the_truth_of_masks)
+
 ## Connections
 
 **Topoi:** [[Theatrum Mundi]]

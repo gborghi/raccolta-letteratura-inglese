@@ -24,6 +24,10 @@ tags:
 > [!abstract] 
 > A theological-literary essay reading Job as a poem of paradox in which God answers suffering not with explanation but with wonder, turning scepticism against itself.
 
+## Testo / Text
+
+- [job](/testi/chesterton/atomized/job/job)
+
 ## Connections
 
 **Themes & Concepts:** [[Paradox]], [[Faith and Doubt]], [[Doubt]], [[Wonder and Gratitude]], [[Providence]], [[Grief and Loss]], [[Humility]]

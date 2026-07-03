@@ -44,6 +44,10 @@ tags:
 > [!abstract] 
 > A story-essay defending the Willie Hughes theory of Shakespeare's Sonnets, in which a forged portrait, aesthetic faith, and male friendship lead two men to die for a literary idea.
 
+## Testo / Text
+
+- [The Portrait of Mr. W. H.](/testi/wilde/atomized/010_the_portrait_of_mr_w_h/010_the_portrait_of_mr_w_h)
+
 ## Connections
 
 **Topoi:** [[Immortality Through Verse]], [[Love as Religion]], [[Theatrum Mundi]]

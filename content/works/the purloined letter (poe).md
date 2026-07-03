@@ -12,6 +12,10 @@ tags:
 
 *by Poe*  ·  **Cluster:** [[Unclustered]]
 
+## Testo / Text
+
+- [The Purloined Letter](/testi/poe/atomized/the_purloined_letter/the_purloined_letter)
+
 ## Connections
 
 **Characters:** [[C. Auguste Dupin]]

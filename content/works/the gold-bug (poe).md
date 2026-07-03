@@ -21,6 +21,10 @@ tags:
 > [!abstract] 
 > A tale of ratiocination in which Legrand decodes a pirate's cryptogram to unearth Captain Kidd's buried treasure; a detective-style story driven by cipher-breaking, gold, and analytic reasoning.
 
+## Testo / Text
+
+- [The Gold-Bug](/testi/poe/atomized/the_gold_bug/the_gold_bug)
+
 ## Connections
 
 **Topoi:** [[Quest]]

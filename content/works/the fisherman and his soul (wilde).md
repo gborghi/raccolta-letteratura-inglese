@@ -49,6 +49,10 @@ tags:
 > [!abstract] 
 > A fairy tale in which a young fisherman cuts away his shadow-soul to wed a mermaid; the disembodied, heartless Soul becomes his tempting double, dramatizing desire versus soul, body versus spirit, and the sea as the realm of pagan love against the Priest's Christian condemnation.
 
+## Testo / Text
+
+- [The Fisherman and his Soul](/testi/wilde/atomized/018_the_fisherman_and_his_soul/018_the_fisherman_and_his_soul)
+
 ## Connections
 
 **Topoi:** [[Double]], [[Quest]], [[Love as Religion]], [[Katabasis Descent]]

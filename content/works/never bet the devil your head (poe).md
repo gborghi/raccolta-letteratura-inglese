@@ -27,6 +27,10 @@ tags:
 > [!abstract] 
 > A satirical moral tale mocking the demand that fiction carry a moral: the reprobate Toby Dammit literally loses his head to a diabolical old gentleman after wagering it once too often. Satire of transcendentalism.
 
+## Testo / Text
+
+- [Never Bet the Devil your Head](/testi/poe/atomized/never_bet_the_devil_your_head/never_bet_the_devil_your_head)
+
 ## Connections
 
 **Archetypes:** [[Satanic Figure]], [[Fool]]

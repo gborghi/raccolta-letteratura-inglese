@@ -24,6 +24,10 @@ tags:
 > [!abstract] 
 > A wartime biography and character study of the WWI general Lord Kitchener, read as a silent epic hero condemned to act an allegory of England's imperial-to-patriotic transfiguration and the raising of the New Armies.
 
+## Testo / Text
+
+- [LordKitchener](/testi/chesterton/atomized/lordkitchener/lordkitchener)
+
 ## Connections
 
 **Archetypes:** [[Hero]]

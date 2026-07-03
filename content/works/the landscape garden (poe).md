@@ -31,6 +31,10 @@ tags:
 > [!abstract] 
 > Aesthetic tale-essay in which the immensely wealthy poet Ellison devotes his fortune to landscape-gardening as the supreme art, theorizing beauty, nature and the artist's creation of an intermediate Nature between man and God.
 
+## Testo / Text
+
+- [The Landscape Garden](/testi/poe/atomized/the_landscape_garden/the_landscape_garden)
+
 ## Connections
 
 **Topoi:** [[Locus Amoenus]], [[Book of Nature]]

@@ -33,6 +33,10 @@ tags:
 > [!abstract] 
 > A comic tale in which a vain restaurateur-philosopher is visited by the Devil, who eats souls and declines to buy Bon-Bon's; a satire on metaphysics, wine, and the philosopher's pride through a Faustian comedy.
 
+## Testo / Text
+
+- [Bon-Bon](/testi/poe/atomized/bon_bon/bon_bon)
+
 ## Connections
 
 **Topoi:** [[World Upside Down]]

@@ -30,6 +30,10 @@ tags:
 > [!abstract] 
 > Comic mock-autobiography satirizing the corruption, puffery and vanity of the American literary marketplace through the rise of a fatuous, self-glorifying editor.
 
+## Testo / Text
+
+- [The Literary Life of Thingum Bob, Esq](/testi/poe/atomized/the_literary_life_of_thingum_bob_esq/the_literary_life_of_thingum_bob_esq)
+
 ## Connections
 
 **Topoi:** [[Theatrum Mundi]]

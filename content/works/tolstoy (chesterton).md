@@ -21,6 +21,10 @@ tags:
 > [!abstract] 
 > A critical essay (with Perris and Garnett) on Tolstoy: his cult of simplification, his realism about war, and Chesterton's argument that logic without mysticism breeds fanaticism and madness.
 
+## Testo / Text
+
+- [tolstoy](/testi/chesterton/atomized/tolstoy/tolstoy)
+
 ## Connections
 
 **Themes & Concepts:** [[Faith]], [[Madness]], [[War and its Cost]], [[Artist and Society]], [[Truth]]

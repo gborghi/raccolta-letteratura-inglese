@@ -30,6 +30,10 @@ tags:
 > [!abstract] 
 > The foundational tale of ratiocination in which C. Auguste Dupin solves a baffling Parisian double murder through analytical deduction, inaugurating modern detective fiction.
 
+## Testo / Text
+
+- [The Murders in the Rue Morgue](/testi/poe/atomized/the_murders_in_the_rue_morgue/the_murders_in_the_rue_morgue)
+
 ## Connections
 
 **Archetypes:** [[Detective]]

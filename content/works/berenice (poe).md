@@ -32,6 +32,10 @@ tags:
 > [!abstract] 
 > A gothic horror tale in which the monomaniac Egaeus, obsessed with his dying cousin Berenice's teeth, violates her premature grave to extract them; explores madness, obsession, decay, and the horror of the body.
 
+## Testo / Text
+
+- [Berenice](/testi/poe/atomized/berenice/berenice)
+
 ## Connections
 
 **Topoi:** [[Memento Mori]]

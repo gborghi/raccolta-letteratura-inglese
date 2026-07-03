@@ -23,6 +23,10 @@ tags:
 > [!abstract] 
 > A philosophical essay arguing that existence is fundamentally good at its origin (not merely at some progressive end), attacking facile optimism, Meliorism, and the modern cult of unity; celebrates wonder, variety and the dignity of the common life.
 
+## Testo / Text
+
+- [What is Right With the World](/testi/chesterton/atomized/what_is_right_with_the_world/what_is_right_with_the_world)
+
 ## Connections
 
 **Themes & Concepts:** [[Wonder and Gratitude]], [[Critique of Progress]], [[Paradox]], [[Joy]], [[Common Man]], [[Sin and the Fall]], [[Faith]], [[Natural Order]]

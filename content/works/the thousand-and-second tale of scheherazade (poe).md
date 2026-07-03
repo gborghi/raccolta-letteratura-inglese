@@ -22,6 +22,10 @@ tags:
 > [!abstract] 
 > A satirical frame-tale extending the Arabian Nights: Scheherazade tells of Sindbad's encounters with modern marvels of science, which the incredulous king finds too improbable, and has her executed. Themes of truth stranger than fiction, satire and wonder.
 
+## Testo / Text
+
+- [The Thousand-And-Second Tale of Scheherazade](/testi/poe/atomized/the_thousand_and_second_tale_of_scheherazade/the_thousand_and_second_tale_of_scheherazade)
+
 ## Connections
 
 **Archetypes:** [[Trickster]]
