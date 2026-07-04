@@ -391,7 +391,7 @@ discover who [[Sunday]] is.
 
 # [[thursday]] — Capitolo 15
 
-                          CAPITOLO XV
+CAPITOLO XV
 
                           L'ACCUSATORE
 

@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/fancies-versis-fads-(chesterton)">Fancies Versis Fads</a> › <a href="/testi/chesterton/atomized/fancies_versis_fads/chapter_01_manufacturers">Chapter 01 MANUFACTURERS</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/fancies_versis_fads/chapter_01_manufacturers/part_49">‹ part 49</a><a class="ex-next" href="/testi/chesterton/atomized/fancies_versis_fads/chapter_01_manufacturers/part_51">part 51 ›</a></div>
@@ -132,3 +134,131 @@ Speaking from the standpoint of moral earnestness, I confess
 it seems to me trivial and spiteful and even a little vulgar.
 After which impertinent criticism, I Will now repeat in a loud voice,
 and for the mere lust of saying it as often as possible:
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/fancies-versis-fads-(chesterton)">Fancies Versis Fads</a> › <a href="/testi/chesterton/atomized/fancies_versis_fads/chapter_01_manufacturers">Chapter 01 MANUFACTURERS</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/fancies_versis_fads/chapter_01_manufacturers/part_49">‹ part 49</a><a class="ex-next" href="/testi/chesterton/atomized/fancies_versis_fads/chapter_01_manufacturers/part_51">part 51 ›</a></div>
+</nav>
+
+Il mio primo impulso a scrivere, e quasi il mio primo impulso a pensare,
+fu una rivolta di disgusto verso i Decadenti e il pessimismo
+estetico degli anni Novanta. Ora è quasi impossibile far
+[[Home|penetrare]] in chicchessia, persino in me stesso, quanto definitiva quella _fin de siècle_
+sembrasse; non la fine del secolo ma la fine del mondo.
+Per un ragazzo il suo primo odio è quasi altrettanto immortale del suo primo [[Love|amore]].
+Egli non si rende conto che gli oggetti dell'uno e dell'altro possono mutare;
+e io non sapevo che il crepuscolo degli dèi era soltanto un umore.
+Pensavo che tutto l'ingegno e la saggezza del mondo si fossero
+collegati per calunniare e deprimere il mondo, e nel divenire
+ottimista provavo i sentimenti d'un fuorilegge. Come il Principe [[Florizel]]
+di Boemia, mi sentivo [[Alone|solo]] in un lussuoso Club del [[suicide|Suicidio]].
+Ma persino la [[Death|morte]] pareva essere una [[Death|morte]] viva o piuttosto eterna.
+Oggi l'intera faccenda è semplicemente morta; non era sufficientemente
+immortale per essere dannata, ma allora l'immagine di [[Dorian Gray]] era
+davvero un idolo, con qualcosa dell'infinita giovinezza d'un dio.
+Oggi il ritratto di [[Dorian Gray]] è davvero invecchiato. Dodo allora
+non era una femmina meramente divertente; era l'eterno femminino.
+Oggi il Dodo è estinto. Allora, soprattutto, chiunque rivendicasse
+intelligenza insisteva su ciò che si chiamava «l'Arte per l'Arte».
+Oggi persino il biografo di Oscar Wilde propone d'abbandonare
+«l'arte per l'arte», e di sostituirvi «l'arte per la vita».
+Ma al [[Time|tempo]] io ero più incline a sostituirvi «niente arte,
+per l'amor di Dio». Avrei preferito non avere alcuna arte piuttosto che una
+che si occupasse d'accordare sfumature di pavone e turchese
+per uno schema decorativo di diavoli azzurri. Presi a rifletterci,
+e più ci pensavo più mi facevo certo che l'intera
+faccenda era una fallacia; che l'arte non poteva esistere separata,
+e ancor meno in opposizione, dalla vita; specie dalla vita dell'[[Soul|anima]],
+che è salvezza; e che la grande arte non era mai stata tanto distaccata
+quanto ciò dalla [[Conscience|coscienza]] e dal buon senso, o da ciò che il mio critico
+chiamerebbe serietà morale. Sfortunatamente, quando col [[Time|tempo]] avevo
+smascherato la fallacia essa era interamente evaporata come moda.
+Da allora ho preso le annichilazioni universali con più leggerezza.
+Ma posso ancora essere scosso, come sempre lo può l'uomo dai ricordi delle sue
+prime eccitazioni o ambizioni, da qualsiasi cosa mostri lo zoccolo fesso
+di quel particolare diavolo azzurro. Sono ancora pronto a bastonarlo,
+benché non pensi più ch'egli abbia uno zoccolo fesso o anche solo una zampa zoppa
+su cui reggersi. Ma ciò nondimeno c'è un solo argomento reale che io
+riconosco ancora dalla sua parte; e quell'argomento sta in una sola parola.
+C'è ancora una parola che l'esteta può sussurrare;
+e il sussurro riporterà tutte le mie paure infantili che l'esteta
+possa aver ragione dopo tutto. C'è un nome che davvero mi pare
+un forte argomento a favore della dottrina decadente secondo cui «l'arte è amorale».
+Quando quel nome è pronunciato, il mondo di Wilde e di Whistler torna
+con tutta la sua fredda levità e il suo cinico intenditismo;
+la farfalla diviene un peso, e il garofano verde prospera come
+il verde alloro. Per un istante credo davvero nell'«arte per l'arte».
+E quel nome è John [[Milton]].
+
+Mi pare davvero che [[Milton]] fosse un [[Artist|artista]], e nient'altro
+che un [[Artist|artista]]; e tuttavia un [[Artist|artista]] tanto grande da sostenere con la propria
+forza l'idea che l'arte possa esistere da [[Alone|sola]]. Mi pare un esempio quasi
+solitario d'un uomo di magnifico genio la cui [[Greatness|grandezza]]
+non dipende affatto dalla serietà morale, o da alcunché
+di connesso con la [[morality|moralità]]. La sua [[Greatness|grandezza]] sta in uno stile, e in uno stile
+che mi pare piuttosto insolitamente separato dalla sua sostanza.
+Qual è l'esatta [[Nature|natura]] del piacere che io, per parte mia,
+provo nel leggere e ripetere alcuni versi siffatti, ad esempio,
+come quelli familiari:
+
+   Dying put on the weeds of Dominic
+   Or in Franciscan think to pass disguised.
+
+Per quanto posso vedere, l'intero effetto sta in un certo inaspettato
+ordine e disposizione di parole, indipendente e distinto,
+come i perfetti modi d'un eccentrico gentiluomo.
+Di' invece «Put on in [[Death|death]] the weeds of Dominic»,
+e l'intera unica dignità del verso è crollata.
+È qualcosa nella quieta ma sicura inversione di «Dying
+put on» che raggiunge esattamente quella perpetua lieve novità
+che Aristotele profondamente disse essere il linguaggio della poesia.
+L'idea in sé è nel migliore dei casi un'ovvia e persino convenzionale
+condanna della superstizione, e in ultimo senso piuttosto
+superficiale. Giungendo là dove giunge, in verità, essa non tanto
+suggerisce serietà morale quanto piuttosto una moraleggiante pedanteria.
+Poiché è trascinata dentro assai laboriosamente proprio nell'ultimo luogo
+in cui la si desidera, davanti a una splendidamente vasta e luminosa visione
+del mondo appena creato, e della prima [[innocence|innocenza]] della terra e del cielo.
+È quel passo in cui il viandante per lo spazio s'avvicina all'Eden;
+uno dei più incontestabili trionfi di tutta la letteratura umana.
+Quel libro almeno del «[[Paradise Lost]]» potrebbe rivendicare il più
+audace titolo di «Paradiso Ritrovato». Ma se era necessario
+per il poeta diretto all'Eden passare per il Limbo, perché era
+necessario passare per Lambeth e Little Bethel? Perché egli
+doveva andarvi via Roma e Ginevra? Perché era necessario paragonare
+i detriti del Limbo ai dettagli delle contese ecclesiastiche
+del Seicento, quando egli si muoveva in un mondo anteriore
+all'[[Dawn|alba]] di tutti i secoli, o all'[[Shadow|ombra]] della prima contesa?
+Perché parlava come se la Chiesa fosse riformata prima che il mondo fosse fatto,
+o come se Latimer accendesse la sua candela prima che Dio facesse il sole e la [[Moon|luna]]?
+Matthew Arnold si fece beffe di coloro che rivendicavano una sanzione divina per
+l'episcopato suggerendo che quando Dio disse: «Sia la luce»,
+Egli disse anche: «Siano i Vescovi». Ma il suo prediletto [[Milton]]
+andò assai vicino a suggerire che quando Dio disse: «Sia la luce»,
+Egli subito dopo osservò: «Siano i Non Conformisti». Non provo
+questo semplicemente perché le mie simpatie religiose si trovano a essere piuttosto
+dall'altra parte. È in verità probabile che [[Milton]] non apprezzasse
+un intero mondo d'idee in cui egli non vedeva che le corruzioni:
+l'idea delle reliquie e degli atti simbolici e il dramma del letto di morte.
+Non allarga il suo posto nella [[philosophy|filosofia]] della [[history|storia]] che questo
+debba essere il suo unico rapporto o con la divina demagogia dei [[dogs|Cani]]
+di Dio o con la fantastica confraternita dei Giocolieri di Dio.
+Ma proverei esattamente la medesima incongruità se l'animosità teologica
+fosse rivolta all'altro verso. Sarebbe altrettanto sproporzionato
+se l'avvicinamento all'Eden fosse interrotto da facezie contro i Puritani,
+o se il Limbo fosse cosparso di cappelli a punta di campanile e di rotoli
+d'interminabili sermoni calvinisti. Sentiremmo comunque che un libro
+del «[[Paradise Lost]]» non era il luogo adatto per un passo dell'Hudibras.
+Tanto lungi dall'essere moralmente serio, nel senso migliore, c'è
+qualcosa di quasi filosoficamente frivolo nell'incapacità
+di pensare fermamente e magnanimamente alle Cose Prime,
+e ai colori primari della tavolozza creatrice, senza guastare
+il quadro con questo spargere inchiostro di politica settaria.
+Parlando dal punto di vista della serietà morale, confesso
+che mi pare banale e maligno e persino un po' volgare.
+Dopo la quale impertinente critica, ripeterò ora a gran voce,
+e per il mero gusto di dirlo il più spesso possibile:

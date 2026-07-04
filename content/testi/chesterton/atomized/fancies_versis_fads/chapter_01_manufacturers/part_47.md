@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/fancies-versis-fads-(chesterton)">Fancies Versis Fads</a> › <a href="/testi/chesterton/atomized/fancies_versis_fads/chapter_01_manufacturers">Chapter 01 MANUFACTURERS</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/fancies_versis_fads/chapter_01_manufacturers/part_46">‹ part 46</a><a class="ex-next" href="/testi/chesterton/atomized/fancies_versis_fads/chapter_01_manufacturers/part_48">part 48 ›</a></div>
@@ -123,3 +125,122 @@ _made_ to do something, say so, and establish [[Slavery|slavery]].
 But do not be muddled by the mere word "strike" into mixing it
 up with breaking a [[Window|window]] or hitting a policeman on the nose.
 Do not be stunned by a metaphor; there are no metaphors in fairy tales.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/fancies-versis-fads-(chesterton)">Fancies Versis Fads</a> › <a href="/testi/chesterton/atomized/fancies_versis_fads/chapter_01_manufacturers">Chapter 01 MANUFACTURERS</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/fancies_versis_fads/chapter_01_manufacturers/part_46">‹ part 46</a><a class="ex-next" href="/testi/chesterton/atomized/fancies_versis_fads/chapter_01_manufacturers/part_48">part 48 ›</a></div>
+</nav>
+
+Nelle correnti critiche agli Scioperi c'è un tono particolare,
+che mi tocca non come questione di politica, bensì piuttosto
+di [[philosophy|filosofia]], o persino di poesia. È, in verità, lo spirito servile
+espresso, se non nella sua poesia, almeno nella sua retorica.
+Ma è uno spirito che posso onestamente dichiarare d'aver odiato e fatto
+del mio meglio per martellare assai prima d'aver mai udito parlare dello Stato Servile,
+assai prima d'aver mai sognato d'applicare questa prova agli Scioperi,
+o anzi d'applicarla a una qualsiasi questione politica.
+Lo sentii originariamente sfiorando cose insieme elementari e quotidiane—
+cose come l'erba o la luce del giorno, come le pietre o le margherite.
+Ma alla loro luce, per lo meno, mi sono sempre ribellato alla tendenza
+o al tono di cui parlo. Lo si potrebbe grossolanamente descrivere come lo spirito
+di dare le cose per scontate. Ma, in verità, per quanto strano,
+la forma stessa di questa frase manca piuttosto il proprio significato.
+Lo spirito, intendo, a rigore, non dà le cose per concesse.
+Le prende come se non fossero state concesse. Le prende
+come se le detenesse per qualcosa di più autocratico d'un diritto;
+per una fredda e inconscia occupazione, rigida come un privilegio
+e infondata come un capriccio. In realtà, le cose in genere
+sono concesse in ultima istanza da Dio, ma spesso immediatamente dagli uomini.
+Ma questo tipo d'uomo è tanto inconscio di ciò che gli è stato
+dato ch'egli è quasi inconscio di ciò che ha ottenuto;
+non rendendosi conto delle cose come doni, a stento se ne rende conto come beni.
+Riguardo alle cose naturali, con cui ho cominciato, questo oblio ha
+solo effetti interiori e spirituali, e non esteriori e politici.
+Se dimentichiamo il sole il sole non dimenticherà noi, o meglio, egli non
+si ricorderà di noi per [[Revenge|vendicarsi]] «scioperando» contro di noi con un'insolazione.
+Le [[Stars|stelle]] non si metteranno in sciopero né estingueranno l'illuminazione
+dell'universo come gli elettricisti estinguerebbero l'illuminazione
+della [[City|città]]. E così, mentre ripetiamo che c'è una speciale
+[[Providence|provvidenza]] in una stella cadente, possiamo ignorarla in una stella fissa.
+Ma quando insieme ignoriamo e diamo per scontate migliaia di creature umane
+pensanti, meditabonde, libere, sole e capricciose, esse ci
+ricorderanno che non possiamo comandare le anime più di quanto possiamo comandare le [[Stars|stelle]].
+Questo dovere primario del [[Doubt|dubbio]] e della [[Wonder|meraviglia]] non ha nulla a che fare
+con i torti o le ragioni delle particolari contese industriali.
+Gli operai potrebbero aver del tutto torto a scioperare, e noi dovremmo
+comunque avere assai più torto nel non aspettarci mai che essi scioperino.
+In ultima analisi, è un umore mistico ma quanto mai necessario di stupore
+di fronte a tutto ciò che sta fuori dalla propria [[Soul|anima]]—persino il proprio [[Body|corpo]].
+Può persino comportare una visione selvaggia in cui i propri stivali
+ai propri piedi paiono cose distanti e non familiari.
+E se ciò suona un po' fantastico, è assai meno fantastico
+dell'estremo opposto—lo stato dell'uomo che si sente come se
+possedesse non solo i propri piedi, ma centinaia di altri piedi umani
+come un enorme millepiedi, o come se fosse un piovra universale,
+e tutte le rotaie, i tubi e i binari del tram fossero i suoi propri tentacoli,
+i nervi del suo proprio [[Body|corpo]], o la circolazione del suo proprio [[Blood|sangue]].
+Quello è un [[nightmare|incubo]] assai peggiore, e in questo momento assai più comune.
+
+Tennyson toccò una nota vera dell'Ottocento quando parlò
+delle «fiabe della scienza e del lungo risultato del [[Time|tempo]]».
+I vittoriani provavano una [[Wonder|meraviglia]] assai reale e persino infantile davanti a cose
+come la macchina a vapore o il telefono, considerate come giocattoli.
+Sfortunatamente il lungo risultato del [[Time|tempo]], sulle fiabe della scienza,
+è stato quello di estendere la scienza e sminuire la fiaba, ossia
+il senso della fiaba. Prendi ad esempio il caso attuale
+delle Metropolitane. Supponi che in un'età dell'[[innocence|innocenza]] tu avessi incontrato
+uno strano uomo che ti avesse promesso di trasportarti per la forza del
+[[Lightning|fulmine]] attraverso le viscere della terra. Supponi che ti avesse offerto,
+in modo amichevole, di scagliarti da un capo all'altro di [[London|Londra]],
+non solo come un fulmine, ma per la stessa forza d'un fulmine.
+O se lo raffiguriamo come una ferrovia pneumatica e non elettrica;
+supponi che allegramente ti avesse promesso di soffiarti attraverso una cerbottana
+fino all'altro lato del ponte di [[London|Londra]]. Supponi che ti avesse indicato tutte
+queste affascinanti opportunità additando un buco nel terreno
+e dicendoti che ti avrebbe portato laggiù in una sorta di stanza volante
+o cadente. [[Hope|Spero]] che tu avresti convenuto che c'era
+una speciale [[Providence|provvidenza]] in una stanza cadente. Ma che tu potessi o meno
+chiamarla provvidenziale, avresti convenuto di chiamarla speciale.
+Avresti per lo meno pensato che lo strano uomo fosse un uomo assai strano.
+L'avresti forse chiamato un bugiardo assai strano e speciale,
+se si fosse limitato a impegnarsi a farlo. L'avresti persino potuto chiamare
+un mago, se l'avesse fatto davvero. Ma il punto è questo, che tu
+non l'avresti chiamato bolscevico solo perché non l'avesse fatto.
+Avresti considerato una cosa meravigliosa che fosse fatto affatto;
+sfrecciando in quella rapida carrozza attraverso quelle segrete caverne, ti
+sentiresti trascinato via come Cenerentola portata via nella carrozza
+ch'era stata un tempo una zucca. Ma per quanto tali cose accadessero
+in ogni fiaba, non ci si aspettavano in alcuna fiaba.
+Nessuno se la prendeva con le fate e si lamentava che non
+lavorassero perché non compivano sempre prodigi. La stampa
+in quelle contrade non prorompeva in grandi titoloni «Zucche in stallo;
+niente scene di trasformazione», o «Le bacchette non funzionano; carestia di carrozze».
+Non annunciavano con orrore uno «Sciopero delle fate madrine».
+Non tracciavano quadri pieni di panico di folle di fate madrine,
+radunate in parchi e piazze, solo perché la maggioranza
+delle zucche continuava tuttora a essere zucca. Ora io non sostengo
+che dovremmo trattare ogni ragazza della metropolitana come la nostra fata madrina;
+ella potrebbe risentirsi della familiarità, specie della suggestione di
+qualcosa di tanto prossimo a una nonna. Ma suggerisco che dovremmo,
+con un ritorno a sentimenti più antichi, renderci conto che gli inservienti della metropolitana
+stanno facendo per noi qualcosa che non potremmo fare da noi stessi;
+qualcosa che non è affatto parte delle nostre capacità naturali, o persino
+dei nostri diritti naturali. Non è inevitabile, né nella [[Nature|natura]]
+delle cose, che quando abbiamo camminato quanto possiamo o vogliamo,
+qualcun altro debba portarci più oltre su un carro, sia pure a pagamento:
+o che quando abbiamo vagato su per una [[Road|strada]] e siamo giunti a un [[River|fiume]],
+un perfetto sconosciuto debba traghettarci in una barca, anche se lo corrompiamo
+perché lo faccia. Se guardassimo le cose in questa chiara bianca
+luce del giorno della [[Wonder|meraviglia]], che risplende su tutte le strade delle fiabe,
+giungeremmo a vedere infine la più semplice [[Truth|verità]] sugli Scioperi,
+che è del tutto mancata in tutti i commenti contemporanei su di essi.
+È semplicemente il fatto che gli scioperanti non stanno _facendo_ qualcosa:
+non stanno facendo nulla. Se intendi che dovrebbero essere
+_costretti_ a fare qualcosa, dillo, e istituisci la [[Slavery|schiavitù]].
+Ma non lasciarti confondere dalla mera parola «sciopero» al punto di scambiarla
+per rompere una [[Window|finestra]] o colpire un poliziotto sul naso.
+Non lasciarti sbalordire da una metafora; non ci sono metafore nelle fiabe.

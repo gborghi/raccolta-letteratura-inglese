@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/don-quixote-(chesterton)">Don Quixote</a> › <a href="/testi/chesterton/atomized/don_quixote/chapter_14">Chapter 14</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/don_quixote/chapter_14/part_04">‹ part 04</a><a class="ex-next" href="/testi/chesterton/atomized/don_quixote/chapter_15/part_01">part 01 ›</a></div>
@@ -116,5 +118,119 @@ leadership of all England hardly seemed to him a change at all.
 For indeed there was in that [[house]]-party one face that had fallen
 into the habit of watching for all changes, like the changes
 of sunset and [[Dawn|dawn]].
+
+-^-
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/don-quixote-(chesterton)">Don Quixote</a> › <a href="/testi/chesterton/atomized/don_quixote/chapter_14">Chapter 14</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/don_quixote/chapter_14/part_04">‹ part 04</a><a class="ex-next" href="/testi/chesterton/atomized/don_quixote/chapter_15/part_01">part 01 ›</a></div>
+</nav>
+
+Poiché era più di un corteo storico, era più di una moda;
+ma aveva le sue tappe e i suoi punti di svolta come una moda.
+Forse il principale punto di svolta fu il momento in cui il signor Julian Archer
+(ora Sir Julian Archer dopo l'accollata di uno dei nuovi ordini
+cavallereschi) scoprì seriamente che doveva guidare la moda
+o restarne indietro. Tutti noi che abbiamo osservato i mutamenti passare
+su una società conosciamo quell'istante indeterminato eppure determinante.
+Vale per ogni cosa, dal concedere il voto alle donne al concedere alle donne
+di non portare i capelli. Fu marcato nel movimento delle Suffragette,
+che molte donne della classe media avevano a lungo sostenuto, quando le grandi dame
+cominciarono ad abbracciarlo. Segna la transizione dal [[Time|tempo]]
+in cui è la nuova moda al [[Time|tempo]] in cui è la moda.
+Fino a quel momento gli esempi possono essere numerosi, ma sono ancora notevoli;
+dopo quel momento è la trascuratezza a essere notevole. È quel genere
+di momento, in ogni movimento, in cui Sir Julian Archer
+compare come comparve ora; un cavaliere in armatura scintillante, pronto a
+ogni pericolosa impresa.
+
+Eppure Sir Julian Archer era troppo vanitoso per non essere in un certo senso semplice,
+e troppo semplice per non essere in un certo senso sincero. Mutamenti sociali
+di questo genere sono resi possibili tra masse considerevoli
+di persone da due ironie della [[Nature|natura]] umana. La prima è che
+la vita di quasi ogni uomo è stata sufficientemente frammentaria e piena
+di possibilità perché egli ricordi _qualche_ moto della propria
+mente verso ciò che è divenuto il moto del [[Time|tempo]].
+La seconda è che egli quasi sempre si fa un falso quadro del
+proprio passato, e alimenta un [[Memory|ricordo]] fittizio, per cui quel dettaglio
+pare, a posteriori, dominare la sua carriera.
+
+Julian Archer (come è già stato fedelmente registrato)
+aveva scritto molto [[Time|tempo]] fa una storia d'avventura assai ragazzesca, da ragazzi,
+sulla Battaglia di Agincourt. Era solo una delle
+multiformi e assai moderne attività della sua riuscita carriera:
+e non era stata nemmeno una delle più riuscite.
+Ma con i nuovi discorsi tutt'intorno a lui, Archer cominciò a insistere
+sempre più sulla sua iniziativa in materia.
+
+«Non hanno voluto ascoltarmi,» disse scuotendo il capo tetro.
+«Non conviene essere un po' troppo in anticipo sul campo...
+Naturalmente, Herne è un uomo [[Well|colto]]; è il suo mestiere...
+Suppongo che veda praticamente ogni libro che esce.
+Pare che abbia avuto abbastanza buon senso da cogliere un suggerimento, eh, che ne dite?»
+
+«Oh, capisco,» disse Olive Ashley, inarcando le scure sopracciglia
+in lieve sorpresa. «Non ci avevo pensato.»
+
+E rifletté al tempo stesso con rammarico e con capriccio sulla propria
+concentrata passione per le cose medievali, che tutti
+avevano dapprima deriso, poi imitato, poi dimenticato.
+
+Lo stesso valeva per Sir Aubrey Wister, quel valoroso benché
+alquanto anziano cavaliere; poiché così pure era stata trasformata la figura
+del vecchio esteta che gironzolava per i salotti e lodava
+i grandi Vittoriani che avevano lodato i grandi Primitivi.
+Parlava un po' di più dei grandi Primitivi e un po' meno dei
+grandi Vittoriani. Ma poiché così spesso in passato aveva patrocinato
+Cimabue e detto una parola d'incoraggiamento a Giotto e Botticelli,
+non gli fu difficile persuadersi di essere stato
+un [[Prophet|profeta]] che levava invano la propria voce, predicendo la venuta
+del signor Herne come il Messia Medievale.
+
+«Mio caro signore,» diceva confidenzialmente, «il periodo
+era di inconcepibile vandalismo e volgarità.
+Non so davvero come vi sia sopravvissuto.
+Ma tenni duro; e, come vedete, la mia opera non è stata
+del tutto infruttuosa... ehm... non del tutto infruttuosa.
+Gli stessi modelli dei loro costumi sarebbero periti;
+a malapena un solo quadro da cui traggono i loro
+disegni sarebbe sopravvissuto... se non fosse per la mia piccola protesta.
+Ciò dimostra che cosa può fare una parola detta a [[Time|tempo]] debito.»
+
+Lo stesso Lord Seawood ne fu influenzato pressoché nello stesso modo.
+Insensibilmente, spostò il centro di gravità tra i suoi due passatempi.
+Parlava un po' di più del suo passatempo privato dell'araldica.
+Parlava un po' meno del suo passatempo pubblico del Parlamento.
+Insisteva meno sulla [[Greatness|grandezza]] di Lord Palmerston e più
+sulla [[Greatness|grandezza]] del Principe Nero, da cui la famiglia Seawood
+pretendeva di discendere. E anche in lui questa commovente convinzione
+crebbe silenziosamente nell'ombra; la sensazione di aver egli stesso
+avuto molto a che fare con la fondazione della Lega del [[Lion|Leone]]
+e la [[Resurrection|resurrezione]] di [[Richard|Riccardo]] Coeur-de-[[Lion]]. La sentiva
+tanto più vividamente per via dell'istituzione dello Scudo
+dell'[[Honour|Onore]], che era una delle più recenti e orgogliose aggiunte
+al piano ed era stata inaugurata nel suo stesso parco.
+
+In tutto questo cambiamento di clima, Herne era rimasto immutato.
+Come molti idealisti, era di un tipo che si sarebbe
+accontentato di una completa oscurità, ma non sapeva misurare o concepire
+la portata di una fama completa. Se poteva fare un passo
+fino all'estremità del parco, [[Well|tanto]] valeva che ne facesse un altro
+fino all'estremità del mondo. Non vedeva il mondo in scala.
+Aveva costretto tutti i suoi banali compagni a rientrare nei loro abiti da mascherata
+e li aveva obbligati a recitare la [[Masque|mascherata]] fino alla morte.
+Aggrappandosi lui stesso al suo arco da [[Robin Hood]] e alla lancia da cinghiale,
+era giunto a trovarsi non lasciato indietro dalla compagnia
+ma a marciare davanti a essa. Il passaggio da quella [[Loneliness|solitudine]]
+a quella leadership gli parve davvero una cosa elettrizzante e trionfale.
+Ma il passaggio dalla guida di quel ricevimento in [[house|casa]] alla
+guida di tutta l'Inghilterra non gli parve affatto un cambiamento.
+Poiché in verità c'era in quel ricevimento in [[house|casa]] un volto che era caduto
+nell'abitudine di spiare ogni cambiamento, come i cambiamenti
+del tramonto e dell'[[Dawn|alba]].
 
 -^-

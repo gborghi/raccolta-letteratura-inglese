@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/fourfaultlessfelons-(chesterton)">FourFaultlessFelons</a> › <a href="/testi/chesterton/atomized/fourfaultlessfelons/story_08_ii_the_man_with_the_black_bag">Story 08 Ii The Man With The Black Bag</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/fourfaultlessfelons/story_07_the_honest_quack/part_02">‹ part 02</a><a class="ex-next" href="/testi/chesterton/atomized/fourfaultlessfelons/story_08_ii_the_man_with_the_black_bag/part_02">part 02 ›</a></div>
@@ -189,3 +191,188 @@ lordly manner and surveyed the street. "Where is this car?" he said
 sarcastically.
 
 "By the rate it was going at, I should say it was about seven miles
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/fourfaultlessfelons-(chesterton)">FourFaultlessFelons</a> › <a href="/testi/chesterton/atomized/fourfaultlessfelons/story_08_ii_the_man_with_the_black_bag">Story 08 Ii The Man With The Black Bag</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/fourfaultlessfelons/story_07_the_honest_quack/part_02">‹ part 02</a><a class="ex-next" href="/testi/chesterton/atomized/fourfaultlessfelons/story_08_ii_the_man_with_the_black_bag/part_02">part 02 ›</a></div>
+</nav>
+
+II L'UOMO CON LA BORSA NERA
+
+ENID WINDRUSH, una giovane donna assai avvenente, con una brillante criniera di
+
+capelli chiari e un profilo del tipo ardente e sanguigno, era rimasta
+
+indietro rispetto al suo compagno nel salire l'erta strada e si era fermata a fare
+
+un piccolo acquisto in una piccola pasticceria. Davanti a lei la [[Road|strada]]
+
+si [[Rose|levava]] in una brusca curva bianca attraverso una [[Hill|collina]] e gli spazi aperti di un
+
+parco suburbano. L'esile orlo bianco di quella che era evidentemente una colossale nube
+
+bianca appena si mostrava sopra il crinale, producendo uno di quei rari effetti
+
+che quasi persuadono l'uomo naturale, a dispetto di tutte le prove addotte
+
+in tal senso, che il mondo è rotondo. Contro quello sfondo di cielo azzurro,
+
+di [[Road|strada]] bianca e di orlo bianco di nube, solo due figure umane si
+
+trovavano in quel momento ad apparire. Sembravano del tutto slegate e
+
+in effetti erano in ogni punto possibile dissimili. Eppure, un momento
+
+dopo, ella trasalì e scattò in avanti in fretta. Poiché vide rappresentarsi,
+
+in quell'alto luogo alla piena luce del sole, quello che pareva essere uno dei
+
+casi più inspiegabili di aggressione e percosse in tutti gli annali del
+
+crimine.
+
+Uno dei due uomini in questione era alto e barbuto, con i capelli piuttosto lunghi
+
+sotto un cappello a larga tesa; portava abiti ampi e camminava a passi
+
+ampi nel centro assolato della via. Poco prima di superare
+
+il crinale si voltò e guardò oziosamente indietro giù per la [[Road|strada]] che aveva
+
+salito. L'altro uomo procedeva compostamente lungo il marciapiede e
+
+pareva essere in ogni modo una persona più composta e persino più
+
+insulsa. Portava un cilindro e la sua figura compatta ma non appariscente era
+
+vestita con cura di abiti scuri; camminava svelto e rapido, ma assai
+
+silenzioso, e recava una piccola borsa nera. Avrebbe potuto essere un impiegato della [[City]]
+
+che si vantava di essere puntuale, ma temeva di essere un poco in
+
+ritardo. Comunque, sembrava guardare dritto davanti a sé e non prendere
+
+interesse a nulla se non alla sua meta.
+
+Del tutto all'improvviso egli svoltò ad angolo retto dal marciapiede, si scagliò,
+
+con borsa e tutto, in mezzo alla [[Road|strada]] e parve inchiodare o
+
+strozzare il signore con la barba e il cappellone. Egli era il
+
+più basso dei due, ma il suo [[spring|balzo]] fu come quello di un gatto nero e aveva
+
+tutto il vantaggio dell'energia giovanile e della sorpresa. L'uomo alto andò
+
+barcollando all'indietro verso il marciapiede opposto, ma un momento dopo
+
+si era liberato dal suo misterioso nemico e aveva cominciato a restituire i colpi
+
+con vigore ristoratore. In questo momento un'automobile che veniva da oltre la
+
+[[Hill|collina]] oscurò per un istante la vista che la ragazza aveva del conflitto, e quando lo
+
+spazio tornò sgombro, esso subì ancora un terzo mutamento. L'uomo in nero,
+
+il cui cilindro era ormai piantato un po' di traverso sulla testa, ma che ancora
+
+stringeva febbrilmente la sua borsa, pareva cercare di interrompere il contatto, per
+
+usare la frase militare, e sembrava restio a proseguire ciò che aveva così
+
+sconsideratamente cominciato. Indietreggiò leggermente, agitando mano e borsa in un modo che nemmeno
+
+una ragazza, a tale distanza, avrebbe potuto scambiare per movimenti di pugilato;
+
+parevano piuttosto movimenti di rimostranza. Poiché, tuttavia, l'
+
+uomo alto, ora senza cappello e con i capelli e la barba al vento, sembrava deciso a
+
+perseguire la sua vendetta, l'altro d'un tratto scagliò via la borsa, si rimboccò
+
+i puliti polsini e procedette a menare colpi sull'altro in maniera del tutto nuova,
+
+vigorosa e scientifica. Tutto ciò era accaduto in meno di mezzo
+
+minuto, ma a quel [[Time|punto]] la ragazza correva su per la strada quanto più
+
+velocemente poteva, lasciando un pasticciere a bocca aperta con un piccolo
+
+pacchetto di carta marrone che gli penzolava dal dito. Poiché, guarda caso, la signorina
+
+Enid Windrush nutriva un certo interesse per l'uomo alto dalla lunga
+
+barba, un interesse che molti giustamente rimprovereranno come antiquato e
+
+superstizioso, ma dal quale ella non era mai riuscita del tutto a
+
+emanciparsi. Egli era suo padre.
+
+Nel [[Time|momento]] in cui giunse sulla scena, o forse perché era giunta
+
+sulla scena, la violenza della pantomima si era alquanto placata, ma entrambe
+
+le parti ancora ansimavano e sbuffavano con le passioni della guerra. Il
+
+portatore del cilindro, a un esame più ravvicinato, si rivelò un giovane
+
+uomo dai capelli scuri, il cui volto squadrato e le spalle squadrate avevano un tocco di
+
+napoleonico; per il resto appariva assai rispettabile e piuttosto
+
+reticente che no, e non c'era certo nulla in lui a
+
+spiegare la sua bizzarria d'assalto.
+
+Né in verità pareva pensare che la spiegazione fosse richiesta a
+
+lui.
+
+«[[Well|Bene]]!» disse, respirando affannosamente, «di tutti i maledetti vecchi sciocchi!... Di
+
+tutti i dannati vecchi somari rimbambiti...»
+
+«Quest'uomo» dichiarò Windrush con focosa alterigia, «mi ha aggredito
+
+criminalmente in mezzo alla [[Road|strada]] senza ragione alcuna e...»
+
+«Questo è quello che dice lui!» gridò il giovane in una sorta di trionfante
+
+derisione. «Senza ragione alcuna! E in mezzo alla [[Road|strada]]! Oh, la mia
+
+nonnina dagli occhi verdi!»
+
+«[[Well|Bene]], quale ragione?» cominciò la signorina Windrush, tentando di intervenire.
+
+«Ma perché era in mezzo alla [[Road|strada]], è ovvio!» esplose il
+
+giovane. «Sarebbe stato in mezzo al Cimitero di Kensal Green ben
+
+presto. E, parlando in generale, direi che dovrebbe essere in mezzo
+
+al Manicomio di Hanwell adesso. Dev'essere scappato di là, immagino,
+
+per andarsene a zonzo su per il mezzo di una [[Road|strada]] moderna in quel modo, voltando
+
+la schiena per ammirare il paesaggio, come se fosse [[Alone|solo]] nel Sahara. Ma
+
+ogni idiota di villaggio ragionevolmente moderno sa che gli automobilisti non possono vedere
+
+che cosa c'è dall'altra parte di questa [[Hill|collina]] quando la superano, e se io
+
+non avessi per caso udito l'automobile...»
+
+«L'automobile!» disse l'[[Artist|artista]] con [[Grave|grave]] e severo stupore, come chi
+
+sorprende un [[Child|bambino]] a inventare frottole. «Quale automobile?» Si voltò in modo
+
+signorile e scrutò la strada. «Dov'è questa automobile?» disse
+
+sarcasticamente.
+
+«Dalla velocità a cui andava, direi che ormai è a una decina di chilometri

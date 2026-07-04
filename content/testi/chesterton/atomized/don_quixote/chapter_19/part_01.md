@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/don-quixote-(chesterton)">Don Quixote</a> › <a href="/testi/chesterton/atomized/don_quixote/chapter_19">Chapter 19</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/don_quixote/chapter_18/part_03">‹ part 03</a><a class="ex-next" href="/testi/chesterton/atomized/don_quixote/chapter_19/part_02">part 02 ›</a></div>
@@ -153,3 +155,58 @@ light and outside there was only lead.  But who was really
 inside? . . . Those three walls with all their hooded windows,
 seemed to be watching; seemed to have watched from the beginning
 of all their follies and to be still watching--and waiting.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/don-quixote-(chesterton)">Don Quixote</a> › <a href="/testi/chesterton/atomized/don_quixote/chapter_19">Chapter 19</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/don_quixote/chapter_18/part_03">‹ part 03</a><a class="ex-next" href="/testi/chesterton/atomized/don_quixote/chapter_19/part_02">part 02 ›</a></div>
+</nav>
+
+CAPITOLO XVIII
+
+IL SEGRETO DI SEAWOOD
+
+Era stato un giorno di sbalordimento per molti, in cui il loro [[Prophet|profeta]] che era venuto a benedire era rimasto a maledire e alla fine se n'era andato maledicendo. Ma di tutti coloro che erano rimasti sconvolti dal giudizio che li aveva condannati, forse non uno era stato più sbalordito dell'uomo che il giudizio aveva giustificato. John Braintree rimase a fissare per tutto il procedimento con cui quelle che gli parevano leggi dell'Età della Pietra venivano dissotterrate come asce di pietra e offerte a lui come armi. Qualunque altra cosa si fosse aspettato, fosse vendicatività feudale o magnanimità cavalleresca, non aveva mai sognato di sentire sostenere la propria causa come un pezzo di puro medievalismo. Per quanto riusciva a capire, egli stesso era di gran lunga la persona più medievale presente. Ciò lo faceva sentire molto a disagio.
+
+Poi, mentre stava [[rolling|roteando]] gli occhi intorno alla dissoluzione di quella bizzarra scena di trasformazione, essi si posarono su un oggetto particolare; si irrigidì, si ricompose, diede una breve risata e attraversò a grandi passi verso il punto dove Olive stava ritta accanto al trono vuoto. Le pose le mani sulle spalle e disse: «Sembra, cara, che dopotutto siamo riconciliati.»
+
+Ella lo guardò senza muoversi e con un lento sorriso. «È spaventoso», disse, «pensare che io debba rallegrarmi del litigio che rende possibile la — la [[Reconciliation|riconciliazione]].»
+
+«Mi perdonerai se sento soltanto la gioia e non lo spavento», rispose lui. «La gente deve stare dalla mia parte se sta dalla sua parte — voglio dire se sta davvero dalla sua parte, come te.»
+
+«Non troverò poi così difficile stare dalla tua parte», disse lei. «Ho trovato molto difficile non starci. Specialmente quando era la parte perdente.»
+
+«Vedremo [[Well|bene]] ora», disse lui, «se non sarà la parte vincente. Questo ha messo coraggio in tutta la mia gente, te lo assicuro. Mi sento come se avessi rinnovato la mia giovinezza come quella dell'aquila; solo che non è il signor Herne ad averlo fatto.»
+
+Ella parve leggermente imbarazzata e poi disse dubbiosa: «Suppongo che qualcun altro erediterà l'organizzazione.»
+
+«L'organizzazione può andare al diavolo», disse Braintree. «Non supporrai mica che siamo stati battuti da un'organizzazione? Siamo stati battuti da un uomo e da uomini pronti a seguirlo. Credi che m'importi qualcosa degli uomini che erano pronti ad [[Desert|abbandonarlo]]? Ho detto che non avevo paura di archi e asce da battaglia del Trecento; e infatti no; e di certo non ho paura di un'ascia da battaglia del Trecento brandita dal vecchio Seawood. Oh sì, suppongo che andranno avanti con le recite. Avremo il piacere di sentir parlare a lungo di Sir Julian Archer, il brillante Lord Alto Arbitro e universalmente popolare [[King|Re]] d'Armi. Ma non ci crederai capaci di sfondare a fracasso tutta quella roba come carta colorata? L'[[Soul|anima]] se n'è andata; l'[[Soul|anima]] cavalca per la [[Road|strada]] a un miglio di distanza.»
+
+«Sì, credo che tu abbia ragione», disse lei dopo una pausa, «e non soltanto perché [[Michael]] Herne è stato qualcosa come un grand'uomo. È più di questo. L'[[Pride|orgoglio]] è uscito da loro; la loro giovinezza e la loro [[innocence|innocenza]] sono uscite da loro. Hanno udito la [[Truth|verità]] e sanno che è vera. E c'è uno di loro per il quale sono molto infelice.»
+
+Egli la guardò con serietà e disse: «[[Well|Ebbene]], naturalmente mi dispiace per parecchi di loro, in un certo senso; ma vuoi dire —»
+
+«Voglio dire Rosamund», rispose lei abbassando la voce. «Credo sia la cosa più cupa e grande e spaventosa che sia mai accaduta a chiunque; molto peggio di qualsiasi cosa sia mai accaduta a noi.»
+
+«Non sono sicuro di capire», disse lui.
+
+«Naturalmente non capisci», replicò lei.
+
+Egli la guardò in modo perplesso; ed ella proruppe con una sorta di passione.
+
+«Naturalmente non capisci! So che è stato duro per te; ed è stato abbastanza duro per me. Ma noi non siamo passati attraverso ciò che loro hanno attraversato — ciò che _lei_ sta attraversando. Ci siamo separati perché ciascuno di noi credeva che l'altro attaccasse qualcosa di buono; ma non abbiamo, grazie a Dio, mai dovuto attaccarci a vicenda. Tu non hai dovuto alzarti a insultare mio padre; e io non ho dovuto sedere in silenzio e udirlo. Non eri _tu_ a maledire direttamente e personalmente me e i miei; non eri tu, fra tutti gli uomini, che ho dovuto udire dire cose odiose sulla mia stessa [[Home|casa]]. Non so che cosa avrei fatto. Credo che sarei semplicemente morta. Che cosa supponi che lei stia facendo?»
+
+«Mi dispiace terribilmente», rispose lui, «ma davvero non so esattamente di che cosa tu stia parlando. Chi è _lei_? Vuoi dire Rosamund Severne?»
+
+«Naturalmente voglio dire Rosamund Severne», gridò lei con collera, «e lui non le ha lasciato nemmeno il nome. Come supponi che ciò mi sarebbe piaciuto? Che cosa stai a fissare? Vuoi davvero dire che non sai che Rosamund e [[Michael]] Herne sono [[Love|innamorati]] l'uno dell'altra?»
+
+«Non pare che io sappia granché», disse lui, «ma se è vero, naturalmente capisco ciò che intendi.»
+
+«Devo andare a trovarla», disse Olive, «eppure so a stento come farlo.»
+
+Attraversò il [[Garden|giardino]] ormai deserto verso la [[house|casa]]; e nel far ciò, qualcosa la indusse a fermarsi e a contemplare per un istante il monumento che sorgeva sul prato; l'immagine spezzata ritta sul drago. E mentre lo guardava, cose strane e nuove entrarono nella sua [[Soul|anima]] e nei suoi occhi. Nella limpida ed esaltata intensità della sua felicità e infelicità, le pareva di vederlo per la prima [[Time|volta]].
+
+Poi si guardò intorno, come quasi spaventata dalla quiete, l'improvvisa e totale quiete che era succeduta a tutto il trambusto di quel terribile pomeriggio. Il gran prato, racchiuso su tre lati dalla facciata e dalle due ali degli edifici dell'Abbazia, non un'ora prima ribolliva di folle irate e ora era vuoto come i cortili di una [[City|città]] dei morti. La sera ruotava verso l'oscurità e la tonda [[Moon|luna]] si [[Rose|levò]] e brillò via via più intensa finché le deboli ombre della nuova luce smorta cominciarono a mutare sui [[gargoyles|doccioni]] e sugli ornamenti gotici mentre perdevano l'ultima [[Shadow|ombra]] del sole. E mentre il volto di tutto quell'antico edificio guizzava e mutava sotto la luce mutevole, esso parve venire più pienamente in primo piano nella sua mente e assumere un significato che ella non aveva mai compreso prima; benché avrebbe dovuto essere la prima, così avrebbe potuto immaginare, a comprenderlo fin dal principio. Quel traforo aguzzo e affusolato, di cui aveva parlato con leggerezza a Monkey tanto tempo prima, il vetro scuro delle finestre, denso di colori che si potevano scoprire soltanto dall'interno — d'un tratto le disse qualcosa; un [[Paradox|paradosso]]. Dentro c'era luce e fuori c'era soltanto piombo. Ma chi era davvero dentro?... Quelle tre pareti con tutte le loro finestre incappucciate parevano vigilare; parevano aver vigilato fin dal principio di tutte le loro follie e vigilare ancora — e attendere.

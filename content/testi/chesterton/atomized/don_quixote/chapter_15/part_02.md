@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/don-quixote-(chesterton)">Don Quixote</a> › <a href="/testi/chesterton/atomized/don_quixote/chapter_15">Chapter 15</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/don_quixote/chapter_15/part_01">‹ part 01</a><a class="ex-next" href="/testi/chesterton/atomized/don_quixote/chapter_15/part_03">part 03 ›</a></div>
@@ -127,3 +129,126 @@ doubled up with laughter day and [[Night|night]] in the days when men
 wore trousers."  And she continued to pour out her defence,
 with all the passion with which a practical young woman,
 repeats the opinions of somebody else.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/don-quixote-(chesterton)">Don Quixote</a> › <a href="/testi/chesterton/atomized/don_quixote/chapter_15">Chapter 15</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/don_quixote/chapter_15/part_01">‹ part 01</a><a class="ex-next" href="/testi/chesterton/atomized/don_quixote/chapter_15/part_03">part 03 ›</a></div>
+</nav>
+
+La settimana seguente portò la notizia di due grandi elezioni:
+l'una una risposta di sfida all'altra. Il martedì la notizia
+fu recata a Herne che Braintree era stato eletto da un'enorme
+e urlante maggioranza laburista.
+
+E il [[thursday|giovedì]] fu ricevuta da quella mente astratta, cieca di
+luce interiore, la grida e il trambusto e l'acclamazione che annunciavano
+che egli stesso era stato scelto dagli Ordini e dai Collegi Elettorali
+come [[King|Re]] d'Armi sull'intero mondo del West Country.
+Fu in una sorta di sogno a occhi aperti che venne scortato a un
+alto trono posto su quel verde altopiano di Seawood Park.
+Da un lato del nuovo [[King|re]] stava Rosamund Severne, Dama di
+qualche nuovo grado e reggente lo Scudo dell'[[Honour|Onore]], a forma
+di cuore e blasonato col [[Lion|leone]], che doveva essere assegnato
+al miglior cavaliere che avesse compiuto l'impresa più audace.
+Appariva assai statuaria; e pochi avrebbero potuto indovinare
+con quanta energia si affannasse nel preparare la cerimonia;
+o quanto ciò somigliasse al suo modo di preparare gli spettacoli teatrali.
+A sinistra stava il suo amico, il giovane squire ed esploratore,
+che una volta aveva presentato a Braintree, dall'aria davvero molto seria;
+poiché egli aveva superato il punto della consapevolezza di [[Self|sé]] e sentiva la sua
+uniforme araldica naturale quanto quella degli Scots Greys. Reggeva
+ciò che veniva chiamato la [[Sword|Spada]] di San Giorgio, con l'elsa a [[Cross|croce]] rivolta in alto;
+poiché [[Michael]] aveva detto, in uno dei suoi frammenti mistici,
+«Un uomo non merita mai una [[Sword|spada]] finché non sa impugnarla dalla lama.
+La sua mano può sanguinare; ma è allora che egli vede la [[Cross|Croce]].»
+Ma Herne sedeva sul suo alto trono al di sopra di tutta la folla variopinta,
+e i suoi occhi parevano abitare gli orizzonti e i luoghi alti.
+Così molti fanatici hanno cavalcato alto sulle nubi sopra scene
+altrettanto assurde; così Robespierre camminò nella sua giacca azzurra alla Festa
+dell'Essere Supremo. Lord Eden scorse quei limpidi occhi,
+come pozze immote e lucenti, e mormorò: «Quest'uomo è pazzo.
+È pericoloso per gli uomini squilibrati quando i loro [[Dreams|sogni]] si avverano.
+Ma la [[Madness|follia]] di un uomo può essere l'[[Sanity|assennatezza]] di una società.»
+
+«[[Well|Ebbene]]!» gridò Julian Archer, battendosi l'elsa della [[Sword|spada]] con quell'aria
+di rispondere per tutti che era così cordiale e ristoratrice.
+«È stata una gran giornata e il mondo ne sentirà parlare.
+La gente di questa zona scoprirà che dobbiamo davvero metterci al lavoro.
+Questo è il genere di cosa che stanerà Braintree e tutta
+la sua marmaglia di straccioni e li farà correre come topi.»
+
+Rosamund era ancora piuttosto simile a una statua sorridente; ma Olive
+in piedi dietro di lei era parsa scura come la sua [[Shadow|ombra]].
+Ora Olive parlò all'improvviso e la sua voce chiara risuonò come acciaio.
+
+«Non è uno straccione,» disse. «È un ingegnere;
+e sa molto più di voi. Che cosa siete la maggior parte di voi,
+se è per questo? Un ingegnere vale quanto un bibliotecario.
+Direi.»
+
+Ci fu un [[Silence|silenzio]] mortale; e Archer, con un gesto impotente,
+guardò verso l'alto, come se il cielo dovesse spaccarsi alla bestemmia;
+ma la maggior parte delle dame e dei gentiluomini guardò verso il basso, alle proprie
+scarpe medievali a punta; poiché si resero conto che era peggio di una bestemmia;
+era certamente, date le circostanze, un gusto oltremodo cattivo.
+
+Ma benché i gruppi avessero cominciato a rompersi e a mescolarsi,
+il [[King|Re]] d'Armi non aveva ancora lasciato il suo trono; come presto avrebbero
+scoperto, in più di un senso. Non fece più caso
+alla donna che l'aveva appena insultato di quanto ne avrebbe fatto se ella non fosse
+stata lì; ma all'improvviso aggrottò le sopracciglia su Julian Archer;
+e una sorta di brivido subconscio disse a tutti che, in una
+mente almeno, la regalità era una realtà.
+
+«Sir Julian,» disse il [[King|Re]] d'Armi severamente, «penso che abbiate
+letto assai male i vostri libri di caccia. Non pare che sappiate
+che siamo tornati a giorni più valorosi e migliori e ci siamo lasciati indietro
+il [[Time|tempo]] in cui i gentiluomini potevano pavoneggiarsi cacciando animali nocivi.
+Il nostro è lo spirito delle epoche in cui le bestie regali potevano rivoltarsi
+e uccidere i cacciatori; il grande cinghiale e il nobile cervo.
+Siamo del mondo che sapeva rispettare i propri nemici;
+sì, persino quando erano bestie. Io conosco John Braintree;
+e non ci fu mai uomo più valoroso a camminare su questa terra. Dobbiamo forse
+combattere per la nostra [[Faith|fede]] e sogghignare di lui perché combatte per la sua?
+Andate a ucciderlo se osate; ma se dovesse uccidervi lui,
+sarete tanto onorato nella vostra [[Death|morte]] quanto ora siete
+disonorato dalla vostra lingua.»
+
+Per un istante l'impressione, o illusione, fu sbalorditiva e completa.
+Aveva parlato spontaneamente e semplicemente da sé; ma avrebbe potuto
+essere una reincarnazione. Così esattamente avrebbe potuto [[Richard|Riccardo]] Cuor di [[Lion|Leone]]
+parlare a un cortigiano che imputasse viltà al Saladino.
+
+Ma in quella folla immota vi fu un cambiamento che avrebbe potuto
+essere ancor più sorprendente se molti l'avessero notato;
+poiché il pallido volto di Olive Ashley si era mutato in una fiamma rossa;
+e una sorta di grido, che era metà un rantolo, le fu strappato.
+
+«Ah, ora so che è davvero cominciata!»
+
+E da quel momento ella si mosse leggera nella variopinta processione,
+come se un peso le fosse stato tolto di dosso. Parve destarsi
+per la prima [[Time|volta]] a tutta quella decorativa [[Dance|danza]], che era così vicina
+ai suoi vecchi [[Dreams|sogni]], e prendervi parte senza ulteriore [[Doubt|dubbio]]
+o affanno. I suoi occhi scuri brillavano, come a un [[Memory|ricordo]].
+Un poco più tardi nel corso della cerimonia si trovò a parlare
+con Rosamund. Abbassò la voce e disse quasi come chi
+confida un segreto: «Lo intende davvero! Comprende davvero.
+Non è uno snob o un gradasso prepotente o niente del genere.
+Crede davvero nei bei vecchi tempi... e anche nei bei tempi nuovi.»
+
+«Certo che lo intende!» gridò Rosamund con grande indignazione.
+«Certo che ci crede davvero e si comporta anche di conseguenza!
+Se solo sapessi che cosa fosse per me vedere finalmente fare _qualcosa,_
+dopo l'eterno chiacchierare a vanvera di Monkey e Julian
+e tutti gli altri. E poi, ha perfettamente ragione a crederci.
+Che diritto ha chiunque di riderne? I bei vestiti
+non sono neppure la metà tanto ridicoli dei brutti vestiti. Avremmo dovuto
+piegarci in due dalle risate giorno e [[Night|notte]] ai tempi in cui gli uomini
+portavano i pantaloni.» E continuò a riversare la sua difesa,
+con tutta la passione con cui una pratica giovane donna
+ripete le opinioni di qualcun altro.

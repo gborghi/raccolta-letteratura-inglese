@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/fourfaultlessfelons-(chesterton)">FourFaultlessFelons</a> › <a href="/testi/chesterton/atomized/fourfaultlessfelons/story_13_ii_the_burglar_and_the_brooch">Story 13 Ii The Burglar And The Brooch</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/fourfaultlessfelons/story_13_ii_the_burglar_and_the_brooch/part_06">‹ part 06</a><a class="ex-next" href="/testi/chesterton/atomized/fourfaultlessfelons/story_13_ii_the_burglar_and_the_brooch/part_08">part 08 ›</a></div>
@@ -193,3 +195,192 @@ I'm told Lord Crayle suffered badly when the Russian debt was beyond
 recovery, and I don't suppose his wife gets a salary for attacking
 
 tobacco. So they must be pretty poor, and would surely know whether
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/fourfaultlessfelons-(chesterton)">FourFaultlessFelons</a> › <a href="/testi/chesterton/atomized/fourfaultlessfelons/story_13_ii_the_burglar_and_the_brooch">Story 13 Ii The Burglar And The Brooch</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/fourfaultlessfelons/story_13_ii_the_burglar_and_the_brooch/part_06">‹ part 06</a><a class="ex-next" href="/testi/chesterton/atomized/fourfaultlessfelons/story_13_ii_the_burglar_and_the_brooch/part_08">part 08 ›</a></div>
+</nav>
+
+borseggiatore che sgraffigna monetine da sei pence alla povera gente che esce dal
+
+cinema, so semplicemente che non lo sei, e non se ne parli più. È l'
+
+ultimo tocco finale che rovina un'opera d'arte.»
+
+«Che cosa suppone che io sia?» chiese lui aspramente.
+
+«[[Well|Be'']], non vuole dirmelo lei?» s'informò lei con una certa vivacità.
+
+Dopo un [[Silence|silenzio]] teso egli disse con una curiosa intonazione: «Farei
+
+qualsiasi cosa per lei.»
+
+«[[Well|Be'']],» rispose lei, «tutti sanno che la maledizione del mio sesso è la
+
+curiosità.»
+
+Egli affondò la testa tra le mani e dopo un [[Silence|silenzio]] disse con un gran
+
+gemito: «Amor Vincit Omnia.»
+
+Un istante o due dopo rialzò la testa e cominciò a parlare, e gli
+
+occhi di lei si fecero trasognati di stupore mentre stava ad ascoltare sotto le
+
+[[Stars|stelle]].
+
+IV I PROBLEMI DEL [[Detective|DETECTIVE]] PRICE
+
+IL SIGNOR PETER PRICE, l'investigatore privato, non ardeva di quella
+
+storica ammirazione per il tipo noto come la Lady inglese che era
+
+tanto d'onore alla mente e al cuore del signor Geoffrey Chaucer e del signor
+
+Alan Nadoway. La Lady inglese è un [[Jewel|gioiello]] dalle molte sfaccettature, o addirittura un
+
+fiore che comprende alcune variazioni botaniche. E il signor Price aveva visto, in
+
+molte occasioni, quel volto della dea che viene rivolto a camerieri
+
+stranieri, a vetturini scontenti, a persone che vogliono le finestre chiuse o aperte in
+
+momenti inopportuni, e ad altri manifesti nemici della società umana. E si
+
+stava appena riprendendo da un colloquio con un esemplare assai spiccato del
+
+tipo, una certa signora [[Milton]]-[[Mowbray]], che gli aveva parlato con toni chiari e
+
+decisi per circa tre quarti d'ora, senza dirgli
+
+nulla di cui riuscisse a cavare un qualche senso.
+
+Per quanto egli riuscisse a ricostruire dai suoi appunti, era press'a poco
+
+questo. Era sicura che ci fosse stato un furto con scasso nella [[house|casa]] del signor Nadoway,
+
+dove lei e sua nipote alloggiavano, e che glielo tenessero nascosto,
+
+affinché non scoprisse di essere stata derubata. Era sicura che il
+
+furto fosse avvenuto alla [[house|casa]] dei Nadoway, perché una proprietà appartenente al giovane
+
+signor Nadoway era stata trovata dopo un furto in un'altra [[house|casa]]. L'altra
+
+[[house|casa]] era la [[house|casa]] di Lady Crayle, e il ladro doveva esserci andato dai
+
+Nadoway, portando con sé la roba dei Nadoway e poi lasciandola cadere
+
+nella fuga. In effetti, doveva aver lasciato cadere qualcosa anche dai
+
+Nadoway, giacché era sicura che sua nipote avesse raccolto una specie di spilla,
+
+che nessuno aveva mai visto prima. Ma sua nipote non voleva dir nulla
+
+al riguardo; le tenevano tutti nascoste le cose... cioè, all'
+
+indignata signora [[Milton]]-[[Mowbray]].
+
+«Pare un ladro piuttosto sbadato,» aveva detto il signor Price, guardando
+
+il soffitto, «e non quel che si direbbe fortunato nel suo mestiere.
+
+Prima ruba qualcosa a qualcuno e la [[Leaves|lascia]] dal signor Nadoway.
+
+Poi ruba qualcosa al signor Nadoway e la [[Leaves|lascia]] da Lady Crayle.
+
+Ha davvero rubato qualcosa a Lady Crayle? E in quale [[house|casa]] l'ha
+
+lasciata?»
+
+Era un uomo basso, grasso, calvastro, i cui lineamenti parevano ripiegarsi
+
+su se stessi, sicché era impossibile dire con certezza se
+
+sorridesse, ma la signora, in ogni caso, non era né dell'umore né nella
+
+disposizione di scrutargli il volto in cerca d'ironia.
+
+«Questo,» disse lei trionfante, «è proprio quel che dico io! Nessuno vuol dirmi nulla.
+
+Sono tutti perfettamente vaghi. Persino Lady Crayle è vaga. Dice che
+
+suppone debba essere stato un furto, altrimenti perché l'uomo sarebbe scappato?
+
+E i Nadoway sono ancor più vaghi. Ho detto loro più e più volte che non
+
+devono avere riguardi per i miei sentimenti, non svengo mica, anche se sono stata
+
+derubata. Ma davvero credo di avere il diritto di sapere.»
+
+«Forse li aiuterebbe un pochino,» disse il [[Detective|detective]] privato, «se
+
+prima di tutto dicesse loro se lei è stata derubata. Vede, questa
+
+mi pare una faccenda piuttosto sconcertante sotto parecchi aspetti, ma quel che sto
+
+cercando di appurare è che cosa sia stato preso a chi. Ammettiamo, per amor
+
+di ragionamento, che ci siano stati due furti. E ammettiamo, per amor
+
+di ragionamento, che ci fosse un solo ladro. Si presume che fosse un
+
+ladro, perché [[Leaves|lascia]] in giro, nelle case altrui, cose che
+
+lei pensa non possano essere appartenute a lui. Ma nessuna di queste cose, per quanto io
+
+capisca, apparteneva a nessuna delle persone che egli era allora nell'atto di
+
+derubare. Nessuna di queste cose, per esempio, apparteneva a lei.»
+
+«Come faccio a saperlo?» disse lei con un gesto ampio di agnosticismo.
+
+«Nessuno vuol dirmi la [[Truth|verità]]. Io sono...»
+
+«Mia cara signora,» disse il signor Price con tardiva fermezza, «lei non può
+
+pretendere che qualcuno le dica la [[Truth|verità]] su se stessa. Ha perduto
+
+qualcosa lei? Le manca qualcosa? Se è per questo,
+
+manca qualcosa a Lady Crayle?»
+
+«Lady Crayle non saprebbe se le manca qualcosa o no,» disse
+
+la signora [[Mowbray]] con improvvisa acredine. «È la più vaga di tutti.»
+
+«Capisco,» disse il signor Price, annuendo pensieroso. «Lady Crayle non saprebbe
+
+se le manca qualcosa o no. E arguisco piuttosto che
+
+lei stessa si trova nella stessa difficoltà.»
+
+Poi, prima che lei potesse rendersi conto dell'affronto abbastanza da replicare, egli disse
+
+rapidamente: «Ho sempre pensato che Lady Crayle fosse ritenuta molto capace, una
+
+grande organizzatrice e tutto il resto.»
+
+«Oh, sa organizzare riunioni e movimenti e tutte quelle sciocchezze,» disse
+
+la dama vittoriana con disprezzo. «Parli della sua Lega contro il Tabacco o
+
+della sua polemica sulla definizione delle droghe, e c'è tutta. Ma non nota
+
+mai nulla di quel che giace in giro per la sua stessa [[house|casa]].»
+
+«Nota suo marito, per esempio?» s'informò il signor Price. «Lo si
+
+lascia giacere molto in giro per la [[house|casa]]? Ho sempre inteso che fosse un uomo assai
+
+illustre ai suoi tempi e, naturalmente, è una famiglia terribilmente antica.
+
+Mi dicono che Lord Crayle abbia sofferto duramente quando il debito russo divenne
+
+irrecuperabile, e non suppongo che sua moglie percepisca uno stipendio per attaccare
+
+il tabacco. Sicché devono essere piuttosto poveri, e di certo saprebbero se

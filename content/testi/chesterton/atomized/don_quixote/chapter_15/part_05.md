@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/don-quixote-(chesterton)">Don Quixote</a> › <a href="/testi/chesterton/atomized/don_quixote/chapter_15">Chapter 15</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/don_quixote/chapter_15/part_04">‹ part 04</a><a class="ex-next" href="/testi/chesterton/atomized/don_quixote/chapter_16/part_01">part 01 ›</a></div>
@@ -152,5 +154,155 @@ so that it seemed to flame like the [[Sword|sword]] of St. [[Michael]].
 And then there sounded over all that staring crowd the ancient
 words that accompany the Accollade and dedicate a man to God
 and the cause of the widow and [[Orphan|orphan]].
+
+-^-
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/don-quixote-(chesterton)">Don Quixote</a> › <a href="/testi/chesterton/atomized/don_quixote/chapter_15">Chapter 15</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/don_quixote/chapter_15/part_04">‹ part 04</a><a class="ex-next" href="/testi/chesterton/atomized/don_quixote/chapter_16/part_01">part 01 ›</a></div>
+</nav>
+
+Anche questa perorazione cadde in un abisso di [[Silence|silenzio]]; ma dopo che il [[Silence|silenzio]]
+fu durato per alcuni istanti che parvero eterni, alcuni tra i più ansiosi
+e vigili della folla si accorsero che la statua sul trono
+si era mossa. Era già quasi come se una statua vera si fosse mossa.
+Ma quando l'uomo parlò, non fu con alcuno dei tuoni di un dio,
+ma con un gesto casuale eppure decisivo come quello di un ordinario magistrato
+che prende una decisione.
+
+«Va tutto bene,» disse, «dategli lo Scudo.»
+
+Fu in questo momento che Il Movimento sfuggì alla presa immaginativa
+di Sir Julian Archer. In seguito, quando la grande catastrofe
+si fu verificata, era solito dire, con tetra saggezza,
+ai suoi amici al club che aveva sempre capito che l'intera
+faccenda stava cominciando ad andare storta. Ma sul momento, in verità,
+il suo guaio era che non capiva nulla; la cosa pareva
+scivolargli dalle mani come il liscio ma enorme gonfiarsi
+di qualche piccolo palloncino giocattolo che si fa grande e spezza il suo spago.
+Si era adattato con agile grazia al passaggio dall'
+elegante abito mattutino al fantastico abito medievale.
+Ma lì era stato sostenuto da un movimento in tutto il mondo sociale
+intorno a lui; per non parlare della figlia di un nobiluomo.
+Trovò notevolmente più difficile adattare il suo abito medievale
+ancor più bruscamente all'atmosfera del cappello e della carrozza da nolo.
+Ma quando [[Michael]] Herne all'improvviso si alzò in piedi nel suo alto seggio e
+cominciò a parlare, in una sorta di stile severo e affannoso, non poté
+affatto compiere l'ultimo balzo di connessione logica o illogica.
+Pareva essere entrato in un mondo insensato in cui gli eventi accadevano
+senza alcuna sequenza. Era impossibile capire alcunché,
+tranne che Herne era in preda a una furia smisurata per qualcosa.
+Chiunque potrebbe essere giustificato, naturalmente, nell'essere in preda a una
+furia smisurata di fronte a un cappello come quello.
+Ma il cappello aveva ammorbato il paesaggio per un [[Time|tempo]] piuttosto lungo
+senza che il [[King|Re]] d'Armi ne prendesse alcuna nota ufficiale;
+e ora parevano essere passati a qualcosa di del tutto diverso.
+Non riusciva minimamente a capire di che cosa Herne stesse parlando.
+Pareva raccontare una storia. La raccontava
+in uno strano modo; rigido eppure schietto;
+in qualche modo come se fosse tratta dalla [[Bible|Bibbia]] e tutto quel genere di cose.
+Nessuno avrebbe mai potuto supporre che fosse la stessa storia
+che Douglas Murrel aveva raccontato. In ogni caso, non era la stessa storia
+che Julian Archer aveva udito.
+
+Herne aveva perso qualcosa della normale lentezza del suo gesto
+e della sua dizione, e le sue parole parevano venire sempre più rapide;
+il suo affanno era quello di un uomo che ha ricevuto un colpo.
+Ma Archer non riusciva a cavarne nulla, tranne che era una
+storia di un vecchio che aveva una figlia; e di come lei lo seguisse
+fedelmente nelle sue peregrinazioni, quando era stato derubato
+dai ladri e caduto in tempi cattivi. Archer vide come in una visione
+le dure illustrazioni di una storia da scuola [[Sunday|domenicale]] della prima età vittoriana,
+con una figlia assai sciatta e un vecchio dalla lunga barba grigia.
+Non avevano altro che l'uno l'altra; erano dimenticati dal mondo:
+non intralciavano il cammino di nessuno; non minacciavano nulla e non provocavano nessuno.
+E persino nel loro rifugio venivano stanati da strani uomini,
+con una fredda e immotivata malignità che non aveva l'umana
+decenza dell'odio. Esaminarono l'uomo come se fosse un
+animale e lo trascinarono via come se fosse già un cadavere.
+Non si curavano affatto delle tragiche virtù che calpestavano;
+o di quell'intatto giglio di lealtà che pigiavano nel fango.
+
+«Voi,» gridò il [[King|Re]] d'Armi con indignazione a tutti i suoi nemici
+che non erano presenti, «voi che parlate del nostro ricostruire le rovine
+della tirannia o del riportare le barbariche corone d'oro!
+È forse scritto dei re che facessero queste cose? È forse scritto
+persino dei tiranni? Fu forse narrato un racconto come questo di [[King|re]] [[Richard|Riccardo]]? Fu forse
+narrato persino di [[King John|Re Giovanni]]? Voi conoscete il peggio che si possa dire del
+più sfrenato che il mondo feudale potesse fare; siete voi a dirlo.
+Voi sapete che cosa è Giovanni Senzaterra in tutta la vostra popolare [[history|storia]]
+tratta dall'Ivanhoe e dai romanzacci a un penny. Giovanni è il traditore;
+Giovanni è il [[Tyrant|tiranno]]; Giovanni è il criminale universale; e quali
+sono i delitti di Giovanni? Che assassinò un principe reale.
+Che ruppe [[Faith|fede]] con un'aristocrazia di nobili.
+Che tolse un dente a un ricco banchiere ebreo;
+forse era otturato d'oro, di qui il clamore!
+Che attaccò il [[King|re]] suo padre o soppiantò il [[King|re]]
+suo fratello. Ah, era pericoloso stare in alto in quei giorni!
+Era pericoloso essere un principe, essere un nobile, essere
+vicino al camminante turbine dell'ira del [[King|re]].
+Chi entrava nel palazzo spesso portava la propria vita nelle proprie mani;
+entrava nella [[Cave|caverna]] del [[Lion|leone]], se era la [[Cave|caverna]] del
+Cuor di [[Lion|Leone]]. Era sfortunato essere ricco e destare l'invidia regale.
+Era sfortunato essere potente. Era sfortunato
+essere fortunato.
+
+«Ma quando mai fu detto del [[Tyrant|tiranno]], del possente cacciatore
+al cospetto del Signore o del Diavolo, che sospendesse la sua caccia per rivoltare
+una pietra a rubare le uova degli [[Insects|insetti]] o frugasse in una pozza per
+separare il girino dalla rana? Quando mai ebbe quella minuta
+e microscopica malizia che non poteva lasciare nulla senza tormento,
+che poteva odiare gli indifesi più dei superbi, che poteva
+coprire la terra di spie per rovinare le [[Love|storie d'amore]] dei servi della gleba
+o mobilitare un esercito per portare via un vecchio mendicante dalla sua [[Child|figlia]]?
+I re passavano a cavallo e gettavano a tali mendicanti una maledizione o una moneta;
+non si fermavano laboriosamente a smembrare le loro piccole
+famiglie membro a membro; affinché il cuore umano che si nutre dei
+suoi tristi affetti potesse patire l'ultima e più lunga agonia.
+C'erano buoni re che servivano i mendicanti
+come domestici; sì, persino quando i mendicanti erano lebbrosi.
+C'erano cattivi re che avrebbero respinto i mendicanti
+e cavalcato oltre, e poi probabilmente l'avrebbero ricordato con terrore
+nell'ora della [[Death|morte]] e avrebbero lasciato denaro per messe e opere di carità.
+Ma non incatenavano un vecchio medievale solo per la sua cecità,
+come hanno incatenato il vecchio moderno solo per la sua teoria
+sul daltonismo. E questa è la specie di ragnatela
+di preoccupazione e miseria che avete steso su tutta l'infelice
+massa dell'umanità, perché, il cielo ci aiuti, siete troppo umani,
+siete troppo liberali, siete troppo filantropi per sopportare un [[government|governo]] umano
+e il nome di un [[King|re]].
+
+«Ci biasimate se abbiamo sognato un ritorno a cose più semplici?
+Ci biasimate se talvolta immaginiamo che un uomo potrebbe non fare ciò che tutta
+questa macchina sta facendo, se una volta fosse un uomo e non più una [[Machine|macchina]]?
+E che cosa marcia contro di noi oggi se non la macchina?
+Che cosa ha Braintree da dirci oggi se non che siamo
+sentimentali ignoranti della scienza, della scienza sociale,
+della scienza economica, di dura e obiettiva e logica scienza...
+di quella scienza che trascinò quel vecchio come un lebbroso via da tutto ciò che amava?
+Diciamo a John Braintree che non siamo ignoranti della scienza.
+Diciamo a John Braintree che sappiamo già troppo della scienza.
+Diciamo a John Braintree in faccia che abbiamo avuto abbastanza
+scienza, abbastanza illuminismo, abbastanza [[Education|istruzione]],
+abbastanza di tutto il suo ordine sociale con la sua tagliola di macchine e
+il suo [[Death|raggio mortale]] della conoscenza. Portate questo messaggio a John Braintree;
+tutte le cose giungono a una fine e queste cose sono finite. Per noi non
+può esserci fine se non l'inizio. Nel mattino del mondo,
+nell'Assemblea dei Cavalieri, nella [[house|casa]], tra i verdi boschi
+della Allegra Inghilterra, nella Camelot delle Contee Occidentali, io do lo scudo
+all'unico uomo che ha compiuto l'unica azione di tutti i nostri giorni che vale la pena di compiere;
+che ha vendicato un torto su almeno un mascalzone e salvato
+una donna in pericolo.»
+
+Si chinò dal suo trono con un rapido movimento e prese
+la grande [[Sword|spada]] dall'uomo sottostante; la sollevò e la scosse
+così che parve fiammeggiare come la [[Sword|spada]] di San [[Michael|Michele]].
+E poi risuonarono su tutta quella folla attonita le antiche
+parole che accompagnano l'Accollata e consacrano un uomo a Dio
+e alla causa della vedova e dell'[[Orphan|orfano]].
 
 -^-

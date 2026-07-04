@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/don-quixote-(chesterton)">Don Quixote</a> › <a href="/testi/chesterton/atomized/don_quixote/chapter_14">Chapter 14</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/don_quixote/chapter_14/part_01">‹ part 01</a><a class="ex-next" href="/testi/chesterton/atomized/don_quixote/chapter_14/part_03">part 03 ›</a></div>
@@ -120,3 +122,119 @@ But there was a great deal more of a more sincere sort,
 not without a certain juvenile eloquence, protesting against
 that suicidal pessimism of the great reactionary who declared
 that the age of chivalry was past.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/don-quixote-(chesterton)">Don Quixote</a> › <a href="/testi/chesterton/atomized/don_quixote/chapter_14">Chapter 14</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/don_quixote/chapter_14/part_01">‹ part 01</a><a class="ex-next" href="/testi/chesterton/atomized/don_quixote/chapter_14/part_03">part 03 ›</a></div>
+</nav>
+
+Era caratteristico di Rosamund che ella fosse sempre stata non
+solo sconcertata ma anche stancata dall'apertura mentale, o piuttosto dall'
+indiscriminata ospitalità intellettuale di un uomo come Douglas Murrel.
+A lei appariva mera vaghezza e vuoto e assenza di scopo.
+Non riusciva mai a comprendere come egli potesse essere al tempo stesso intimo amico
+di Olive e del suo medievalismo e di Braintree e del suo bolscevismo.
+Voleva qualcuno che facesse qualcosa; e Murrel si rifiutava assolutamente
+di fare qualcosa. Ma quando qualcuno era davvero pronto a fare qualcosa,
+ella ne era così contenta che trascurava piuttosto di criticare che cosa
+esattamente egli stesse per fare.
+
+Del tutto all'improvviso, e forse per caso, le si era fatto chiaro,
+al suo occhio così univoco, qualcosa come un raggio di luce che ella potesse seguire;
+qualcosa che potesse comprendere. Senza dubbio lo comprendeva
+meglio perché si collegava in modo blando alle
+tradizioni che le avevano insegnato fin dall'[[Childhood|infanzia]] a preservare.
+Non si era mai preoccupata del gusto del padre per l'araldica;
+non aveva nemmeno visto molto suo padre. Ma proprio come era
+lieta che suo padre fosse lì, era lieta che l'araldica fosse lì.
+Le persone che hanno quel genere di sostegno storico lo ricordano sempre,
+se non altro nel loro subconscio. In ogni caso, l'ovvia deduzione
+era errata, e la gente cominciò presto a dire che ella stesse effettivamente
+incoraggiando il bibliotecario nella sua veste di pazzo.
+
+È quasi superfluo dire che la figlia di Lord Seawood si muoveva
+trascinando nubi di gloria sotto forma di folle di giovanotti.
+Aveva in effetti un triplice titolo a quel genere di popolarità.
+Era un'ereditiera; ma va reso loro il merito di dire che molti dei
+più cavallereschi l'ammiravano non perché fosse un'ereditiera
+ma perché era bella. Era bella, ma va
+reso a lei il merito di dire che molti dei più razionali l'ammiravano
+non perché fosse una [[Beauty|bellezza]] ma perché era una brava ragazza;
+e più precisamente ciò che chiamavano una buona compagna. Ne seguiva,
+dunque, che dove ella conduceva molti l'avrebbero seguita, anche se li conduceva
+in una [[Dance|danza]] assai diversa dalle danze allora di moda.
+Così crebbe, metà per scherzo e sempre più sul serio,
+un nuovo "medievalismo" alla moda; una caccia in cui tutti
+i giovanotti seguivano la dama che seguiva il bibliotecario.
+E poiché c'era in ciò un certo candore da [[Love|amore]] acerbo,
+del [[Moon|lunatico]] che non si vergogna di piangere per la [[Moon|luna]],
+vi era in esso qualcosa della sincerità della giovinezza e della primavera.
+Era una [[Romance|storia d'amore]] tanto [[Well|quanto]] una goliardata. I giovanotti divennero
+in un certo modo poeti, sia pure poeti assai minori. Con l'aiuto di
+Herne come studioso e di Rosamund come vigorosa direttrice di scena,
+riempivano i loro versi di emblemi e insegne e processioni,
+ancor più sprezzanti della modernità dell'abito teatrale che
+essi avevano deposto e che Herne aveva conservato. I giovanotti erano
+particolarmente affascinati dall'idea di far rivivere l'uso dell'arco;
+forse con un subconscio [[Memory|ricordo]] delle frecce del dio dell'[[Love|amore]].
+Forse fu qualche sciocca associazione con [[Valentine|San Valentino]] a dare inizio
+al gioco di inviare frecce come messaggere di benvenuto o di guerra.
+
+Il tiro con l'arco era una moda ai [[Time|tempi]] vittoriani; e molte
+dame e molti gentiluomini vittoriani possono aver aleggiato attorno
+ai prati di Seawood Abbey, dediti a quel grazioso sport;
+molti possono persino aver rivisitato la scena come lievemente stupiti
+[[Ghosts|fantasmi]] in lunghi favoriti e pantaloni a tromba o in nebulose
+crinoline che ondeggiavano e fluttuavano come palloni. Molti insigni
+personaggi vittoriani avevano senza dubbio onorato quel passatempo;
+ma lo facevano entro certi visibili limiti vittoriani.
+Scagliavano le loro frecce correttamente contro i bersagli e non (inspiegabilmente)
+contro i cilindri. Usavano ben pochi di quei grandi gesti che
+nel passato sono appartenuti ai grandi archi degli eroi.
+Sir Robert Peel, se prudente come [[Ulysses|Ulisse]], non si voltò dicendo:
+«Ora tirerò a un altro bersaglio,» per trafiggere con il suo
+dardo il panciotto riccamente decorato del signor Disraeli.
+Non è registrato da nessuna parte che Lord Derby abbia posato una mela
+in cima al cilindro di Lord Stanley, per poi informare cupamente
+il Primo Ministro (poniamo Lord Aberdeen)
+che teneva un'altra freccia per usi politici più elevati.
+Lord Palmerston, benché effettivamente noto col soprannome di Cupido,
+non attirava l'attenzione delle dame che favoriva
+trafiggendone in questa aerea maniera i cuffiotti vittoriani.
+Lord Shaftesbury raramente compariva nel personaggio
+e nel costume dell'arciere sulla Fontana di Shaftesbury;
+ed è un errore supporre che egli vi sia raffigurato.
+Soprattutto, non venne di certo mai in mente al celebre
+Rowland [[Hill]] che scagliare frecce in tutte le direzioni
+potesse costituire un sostituto della Posta a un Penny.
+Non c'era, dunque, alcun reale precedente storico per lo stato
+di cose che cominciò a svilupparsi rapidamente a Seawood Abbey,
+sotto l'influenza del bibliotecario evaso.
+
+Quest'ultima idea, di recapitare comunicazioni casuali a persone
+a qualche piccola distanza, inviando un proiettile alato
+a fischiare accanto alle loro teste o a fracassarsi contro le loro finestre,
+parve aver colpito particolarmente la fantasia del signor Herne; e fu
+con questo mezzo che egli e il suo malaccorto gruppo di simpatizzanti
+(che cominciavano a entrare nello spirito del gioco)
+consegnarono a un gran numero di persone il loro proclama del
+Nuovo Regime. Descrivere per esteso tutti i dettagli implicati
+nel Nuovo Regime comporterebbe la trascrizione di un notevole
+numero di rotoli o strisce di carta, che venivano recapitati
+ai vicini in questo modo rapido benché non efficiente.
+Portavano tutti il titolo di La Lega del [[Lion|Leone]]; ed erano
+apparentemente un appello a tutte le persone perché imitassero le qualità migliori
+di [[King|re]] [[Richard|Riccardo]] Primo e dei Crociati, in condizioni
+che non potevano ritenersi favorevoli all'impresa.
+Lo stupito cittadino veniva informato che l'Inghilterra aveva ormai
+raggiunto una crisi in cui il [[Courage|coraggio]] morale [[Alone|soltanto]] poteva salvarla;
+non foss'altro che il [[Courage|coraggio]] morale richiesto per puntare un arco
+a casaccio mentre si butta giù due righe a un amico.
+Ma c'era molto altro di un genere più sincero,
+non privo di una certa giovanile eloquenza, che protestava contro
+quel pessimismo suicida del grande reazionario che dichiarava
+che l'età della cavalleria era tramontata.

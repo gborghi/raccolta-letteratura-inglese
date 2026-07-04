@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/fancies-versis-fads-(chesterton)">Fancies Versis Fads</a> › <a href="/testi/chesterton/atomized/fancies_versis_fads/chapter_01_manufacturers">Chapter 01 MANUFACTURERS</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/fancies_versis_fads/chapter_01_manufacturers/part_07">‹ part 07</a><a class="ex-next" href="/testi/chesterton/atomized/fancies_versis_fads/chapter_01_manufacturers/part_09">part 09 ›</a></div>
@@ -119,3 +121,113 @@ He was a man to whom duty had come in a very dreadful and
 repulsive form, and to a man not fitted for that form of duty.
 There was a conflict, but he was conscious of it from beginning to end.
 He was not an unconscious person; but a far too conscious one.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/fancies-versis-fads-(chesterton)">Fancies Versis Fads</a> › <a href="/testi/chesterton/atomized/fancies_versis_fads/chapter_01_manufacturers">Chapter 01 MANUFACTURERS</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/fancies_versis_fads/chapter_01_manufacturers/part_07">‹ part 07</a><a class="ex-next" href="/testi/chesterton/atomized/fancies_versis_fads/chapter_01_manufacturers/part_09">part 09 ›</a></div>
+</nav>
+
+Il signor Beresford dovrà dunque scusarmi se, con un sincero
+[[Desire|desiderio]] di seguire seriamente il suo serio argomento, noto fin
+dall'inizio un certo normale elemento di [[Comedy|commedia]] di cui i critici
+della sua scuola sembrano piuttosto inconsapevoli. Quando egli chiede se questa
+teoria della Nemesi della repressione possa servire agli scopi di una grande
+opera letteraria, parrebbe naturale a prima vista metterla alla prova con
+l'esempio delle più grandi opere letterarie. E, giudicati con questa prova
+scientifica, si deve ammettere che i nostri classici della letteratura
+apparirebbero fallire. [[Lady Macbeth]] non soffre da [[Sleep|sonnambula]] perché ha
+resistito all'impulso di assassinare [[Duncan]], ma piuttosto (per qualche
+curioso gioco del pensiero) perché vi ha ceduto. Lo zio di [[Hamlet|Amleto]] è
+in uno stato d'animo morboso non, come ci si aspetterebbe naturalmente, perché
+ha ostacolato il proprio sviluppo lasciando in vita e in possesso il proprio
+fratello; ma in realtà perché si è trionfalmente liberato dall'impulso morboso
+di versare [[Poison|veleno]] nell'orecchio del fratello. Secondo la teoria
+della psicoanalisi, così come viene esposta, un uomo dovrebbe essere
+perseguitato dai [[Ghosts|fantasmi]] di tutti gli uomini che non ha
+assassinato. Anche se questi fossero limitati a quelli per cui ha provato una
+vaga voglia di assassinarli, potrebbero formare una folla rispettabile che gli
+si accalca alle calcagna. Eppure Shakespeare pare certamente rappresentare
+[[Macbeth]] come perseguitato da [[Banquo]], che egli tolse d'un colpo solo
+dalla luce del sole e dalla propria sub-coscienza. L'inferno dovrebbe
+significare il rimpianto per le occasioni perdute di delinquere; l'insopportabile
+pensiero delle case ancora in piedi, non arse né svaligiate, o di ricchi zii
+ancora in giro vivi con le loro sporgenti [[Chains|catene]] dell'orologio.
+Eppure [[Dante]] pareva certamente rappresentarlo come concernente
+esclusivamente cose fatte e finite, e non come la [[Imagination|immaginazione]]
+morbosamente congestionata di un ladro che non aveva rubato e di un assassino
+che non aveva assassinato. In breve, è fin troppo evidente che i poeti e i
+saggi del passato sapevano assai poco di psicoanalisi, e, che il signor
+Beresford possa o meno conseguire con essa grandi effetti letterari, essi
+riuscirono a conseguire i loro effetti letterari senza di essa. Questo non è
+che un punto preliminare, e affronto il problema più serio fra pochi minuti, se
+la moda non sarà cambiata prima di allora. Per il momento prendo soltanto la
+prova dell'esperienza letteraria, e di quanto indipendenti da simili teorie
+siano stati i veri capolavori dell'uomo. Gli uomini si esaltano ancora sulle
+parti poetiche di poeti come Shakespeare e [[Dante]]; se prendono [[Sleep|sonno]], è
+sulle parti scientifiche. È su qualche sistema delle sfere che [[Dante]]
+riteneva l'astronomia più recente, o su qualche argomento circa gli umori del
+[[Body|corpo]] che Shakespeare riteneva la fisiologia più recente. Mi appello
+all'indistruttibile senso di umanità del signor Beresford e al suo ancora non
+distrutto senso dell'[[Humour|umorismo]]. Che ne sarebbe stato dell'opera di
+Dickens se fosse stata riscritta per illustrare la tesi di Darwin? E persino
+dell'opera del signor Kipling se modificata per venire incontro alle teorie del
+signor Kidd? Credetemi, le proporzioni sono quali le ho dette. L'arte è lunga,
+ma la scienza è fugace; e la sub-coscienza del signor Beresford, per quanto
+robusta e prode, corre il rischio di essere non tanto un tamburo attutito
+quanto un tamburo che qualcuno mette a tacere per sempre, bucandolo, solo per
+scoprire che dentro non c'è nulla.
+
+Ma c'è un'incidentale morale nella faccenda che mi pare attuale e piuttosto
+sorprendente. Riguarda l'idea della punizione.
+
+Gli psicoanalisti continuano a ronzare in maniera misteriosa attorno al
+problema di [[Hamlet|Amleto]]. Sono particolarmente interessati alle cose di
+cui [[Hamlet|Amleto]] era inconsapevole, per non parlare delle cose di cui era
+inconsapevole Shakespeare. È vano per razionalisti all'antica come me far
+notare che questo è come dissezionare il cervello di [[Puck]] o rivelare la
+vera vita privata di Pulcinella e sua moglie. La discussione non ruota più
+intorno alla questione se [[Hamlet|Amleto]] sia pazzo, ma se lo siano tutti,
+specialmente gli esperti che indagano la [[Madness|pazzia]]. E la cosa curiosa
+di questo processo è che, anche quando i critici sono davvero sottili abbastanza
+da vedere cose sottili, non sono mai semplici abbastanza da vedere cose
+[[Self|auto]]-evidenti. Si riferisce che un critico davvero fine sostenne che in
+[[Hamlet|Amleto]] la coscienza voleva una cosa e la sub-coscienza un'altra. A
+quanto pare l'[[Hamlet|Amleto]] cosciente aveva senza riserve abbracciato e
+persino accolto con favore l'obbligo della vendetta, ma lo shock (ci vien
+detto) aveva reso penoso l'intero soggetto, e aveva dato origine a una strana e
+segreta avversione per il piano. Non parve venire in mente agli scrittori che
+potesse esserci forse qualcosa di lievemente penoso, nel migliore dei casi, nel
+tagliare la gola al proprio zio nonché marito della propria madre. Poteva
+certamente esserci un'avversione per l'atto; ma non vedo bene perché dovesse
+essere un'avversione inconscia. Sembra appena possibile che un uomo possa
+essere del tutto conscio di non gradire un simile compito. In ciò egli si
+distingueva dalla [[morality|morale]] moderna: credeva nella possibilità di non
+gradirlo e tuttavia farlo.
+
+Ma, a seguire l'argomento di questi critici, si penserebbe che assassinare il
+capo della propria famiglia fosse una sorta di festa di famiglia o di scherzo
+familiare; un gaio e [[Innocent|innocente]] sollazzo nel quale il giovane
+principe si sarebbe naturalmente gettato con sconsiderata esuberanza, se non
+fosse stato per i pensieri oscuri e riservati che gli avevano dato
+un'inspiegabile ripugnanza per esso. Si supponga che a uno di questi moderni
+critici della classe media, del mio stesso rango e della mia stessa routine di
+vita (magari attraverso la sua fiducia nei messaggi di una seduta spiritica),
+venisse fatto capire che era suo compito andare a [[Home|casa]] a Brompton o a
+Surbiton e piantare il coltello da trinciare nello zio William, che aveva
+avvelenato qualcuno ed era fuori dalla portata della legge. È possibile che il
+primo pensiero del critico sarebbe che si trattava di un felice modo di
+trascorrere un mezzo giorno di vacanza; e che solo nella sub-coscienza del
+critico si agiterebbe il sospetto che ci fosse qualcosa di infelice
+nell'intera faccenda. Ma sembra anche possibile che il rammarico possa non
+restare confinato alla sua sub-coscienza, ma possa affiorare quasi alla
+superficie della sua coscienza. In parole povere, questo genere di critica ha
+perduto gli ultimi brandelli di buon senso. [[Hamlet|Amleto]] non richiede
+alcuna simile spiegazione sub-conscia, perché egli spiega sé stesso, e forse
+era anche troppo incline a farlo. Era un uomo al quale il dovere era giunto in
+una forma assai spaventosa e ripugnante, e un uomo non adatto a quella forma di
+dovere. C'era un conflitto, ma egli ne fu conscio dal principio alla fine. Non
+era una persona inconscia; ma una fin troppo conscia.

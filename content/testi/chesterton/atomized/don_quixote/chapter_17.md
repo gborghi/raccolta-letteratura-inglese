@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/don-quixote-(chesterton)">Don Quixote</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/don_quixote/chapter_16">‹ Chapter 16</a><a class="ex-next" href="/testi/chesterton/atomized/don_quixote/chapter_18">Chapter 18 ›</a></div>
@@ -478,5 +480,158 @@ The [[Court]] appeared to take no notice of the interruption or the rebuke;
 but anyone looking closely at the man delivering its decision would
 have seen that his gravity grew more and more severe, like a strain,
 and that he was pale with the effort to be thus concentrated and cold.
+
+-^-
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/don-quixote-(chesterton)">Don Quixote</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/don_quixote/chapter_16">‹ Chapter 16</a><a class="ex-next" href="/testi/chesterton/atomized/don_quixote/chapter_18">Chapter 18 ›</a></div>
+</nav>
+<nav class="excerpt-children">
+<div class="excerpt-children-label">In questa sezione</div>
+<ul><li><a href="/testi/chesterton/atomized/don_quixote/chapter_17/part_01">Part 1</a></li><li><a href="/testi/chesterton/atomized/don_quixote/chapter_17/part_02">Part 2</a></li><li><a href="/testi/chesterton/atomized/don_quixote/chapter_17/part_03">Part 3</a></li><li><a href="/testi/chesterton/atomized/don_quixote/chapter_17/part_04">Part 4</a></li></ul>
+</nav>
+
+CAPITOLO XVI
+
+IL GIUDIZIO DEL [[King|RE]]
+
+Lord Seawood e Lord Eden sedevano nella loro prediletta [[house|casetta]] [[Summer|estiva]] sul prato, la stessa in cui un tempo era penetrata la freccia come il primo dardo di una nuova aurora; e a giudicare dai loro volti erano in dubbio se il sole non fosse in eclissi. La rigidità dell'espressione di Lord Eden poteva invero avere molti significati; ma il vecchio Seawood scuoteva il capo in modo apertamente sconsolato.
+
+«Se si fossero valsi del mio intervento», disse. «Avrei potuto, credo, rendere chiara l'impossibilità della loro posizione; una posizione del tutto senza precedenti in tutta la mia vita pubblica. Il ripristino delle nostre belle e antiche forme storiche deve avere la profonda simpatia di ogni uomo colto; ma è contro ogni precedente che essi si servano di queste forme per la pratica soppressione di una minaccia materiale. Che cosa avrebbe detto Peel, se gli si fosse proposto di impiegare soltanto le antiquate alabarde di pochi Beefeater della Torre invece dell'eccellente ed efficace Corpo di Polizia che egli ebbe il genio e l'[[Imagination|immaginazione]] di concepire? Che cosa avrebbe detto Palmerston, se qualcuno gli avesse suggerito che la Mazza posata sul tavolo del Parlamento potesse essere usata come randello con cui sedare un tumulto in Parliament Square? Per quanto ci sia impossibile proiettare sul futuro le azioni dei potenti trapassati del passato, ritengo probabile che egli ne avrebbe fatto oggetto di uno scherzo. Ma gli uomini della presente generazione sono privi di [[Humour|umorismo]].»
+
+«Il nostro amico il [[King|Re]] d'Armi è privo di [[Humour|umorismo]], eccome», strascicò Eden. «Talvolta mi [[Wonder|domando]] se non sia più felice per questo.»
+
+«Là», disse l'altro nobiluomo con fermezza, «non posso concordare. Il nostro [[Humour|umorismo]] inglese, quale quello che si trova nelle migliori pagine di _Punch_, è —.»
+
+In quel momento un valletto comparve silenziosamente e bruscamente sull'ingresso della capanna, mormorò alcune parole rituali e porse un biglietto al suo padrone. La lettura di esso mutò l'espressione dolorosa del suo padrone in una di schietto stupore.
+
+«Che Dio benedica la mia [[Soul|anima]]», disse Lord Seawood; e rimase a fissare la carta che teneva in mano.
+
+Poiché su quella carta era scarabocchiato in una grafia larga e ardita un messaggio destinato, nei pochi giorni seguenti, a mutare l'intero volto dell'Inghilterra; come nulla, per secoli, era mai stato mutato da una battaglia su suolo inglese.
+
+«O il nostro giovane amico [[Suffering|soffre]] davvero di allucinazioni», disse infine, «oppure —»
+
+«Oppure», disse Lord Eden fissando il tetto della [[house|casetta]] [[Summer|estiva]], «ha circondato e preso la città di Milldyke, ha catturato il quartier generale bolscevico e sta conducendo qui i capi per il processo.»
+
+«Questo è oltremodo notevole», disse l'altro nobiluomo. «Ne eravate informato in anticipo?»
+
+«Non ne ero affatto informato», rispose Eden, «ma in ogni caso lo ritenevo altamente probabile.»
+
+«Curioso», ripeté Seawood, «e io lo ritenevo così altamente improbabile; così altamente improbabile da confondersi con ciò che chiamiamo l'impossibile. Che una semplice armata da palcoscenico di quella specie — ma io credevo che tutte le persone istruite e illuminate sapessero che tali armi sono ormai del tutto obsolete.»
+
+«Questo», rispose Eden, «avviene perché le persone istruite e illuminate non pensano mai. Il vostro uomo illuminato sta sempre a sottrarre il numero che aveva pensato per primo. Sembra essere un segno di [[Education|istruzione]] dare dapprima una cosa per scontata e poi dimenticarsi di verificare se sia ancora là. Le armi ne sono un ottimo esempio pratico. L'uomo dice che non porterà più una [[Sword|spada]] perché non serve più a nulla contro un fucile. Poi getta via tutti i fucili come reliquie di barbarie; e poi si stupisce quando un barbaro lo infilza con una [[Sword|spada]]. Voi dite che picche e alabarde non sono armi adatte alle condizioni moderne. Io dico che le picche sono armi eccellenti contro chi non ha picche. Voi dite che è tutto armamento medievale e antiquato. Ma io punto i miei quattrini sugli uomini che fabbricano armamento medievale contro uomini che si limitano a disapprovare l'armamento moderno. E che cosa hanno mai fatto questi partiti politici a proposito dell'armamento, se non dichiarare di disapprovarlo? Vi rinunciano e lo trascurano e non pensano mai alla parte che ha avuto nella [[history|storia]] politica; eppure vanno in giro con una vaga sicurezza come se fossero cinti di invisibili fucili pronti a sparare al primo accenno di pericolo. Fanno ciò che fanno sempre; confondono la loro Utopia che non viene mai con la loro vecchia sicurezza vittoriana che se n'è già andata. Io, per parte mia, non sono affatto sorpreso che un branco di alabardieri da pantomima possa cacciarli via dal palcoscenico a spintoni. Ho sempre pensato che un _coup d'état_ si potesse effettuare con forze assai esigue contro gente che non vuole imparare a usare la forza che possiede. Ma non ho mai avuto il [[Courage|coraggio]] morale di farlo io stesso; ci vuole qualcuno molto diverso dalla nostra specie.»
+
+«Forse», osservò l'altro [[aristocrat|aristocratico]], «ciò era dovuto al nostro essere, secondo una formula politica assai recente, troppo orgogliosi per combattere.»
+
+«Sì», rispose il vecchio statista. «Sono gli umili a combattere.»
+
+«Non sono sicuro di seguire bene ciò che intendete», disse Lord Seawood.
+
+«Intendo che io sono troppo malvagio per combattere», disse Lord Eden. «Sono gli [[Innocent|innocenti]] a uccidere e ad ardere e a rompere la pace. Sono i bambini a precipitarsi e a fracassare e a picchiarsi l'un l'altro, e di questi è il regno dei cieli.»
+
+Non è certo che neppure allora il suo venerabile compagno vittoriano fosse interamente e lucidamente d'accordo con lui; ma non c'era altro da cavargli sull'argomento; ed egli rimase con un volto di selce a guardare su per il lungo sentiero verso i cancelli del parco. E in verità quella [[Road|strada]] e quell'ingresso erano già scossi dal tumulto e dal trionfo di cui egli parlava; e dai [[songs|canti]] dei giovani che tornano dalla battaglia.
+
+«Chiedo scusa a Herne», disse Julian Archer con cordiale generosità. «È un uomo forte. Ho sempre detto che ciò che desideravamo vedere era un Uomo Forte in Inghilterra.»
+
+«Una volta vidi un Uomo Forte all'Olympia», disse Murrel con aria di rimembranza. «Credo che la gente spesso gli chiedesse scusa.»
+
+«Sai cosa intendo», rispose l'altro di buon umore. «Uno statista. Un uomo che sa quel che vuole.»
+
+«[[Well|Ebbene]], suppongo che anche un pazzo sappia quel che vuole», rispose Murrel. «Mi vien fatto di pensare che uno statista dovrebbe sapere un poco anche di ciò che vogliono gli altri.»
+
+«Mio caro Monkey, che cos'hai», domandò Archer. «Sembri proprio imbronciato quando tutti gli altri sono contenti.»
+
+«Non è tanto offensivo quanto essere contenti quando tutti gli altri sono imbronciati», rispose Murrel. «Ma se intendi chiedermi se sono soddisfatto, ammetterò la tua penetrazione nel percepire che non lo sono. Hai detto poc'anzi che desideravamo un uomo forte in Inghilterra. Ora, io direi che l'unico luogo in cui non abbiamo mai desiderato un uomo forte è l'Inghilterra. Ricordo una sola persona che intraprese quella professione, il povero vecchio Cromwell; e la conseguenza fu che lo dissotterrammo per impiccarlo dopo che era morto e impazzimmo di gioia per un mese perché il trono tornava a un uomo debole — o a uno che ritenevamo un uomo debole. Questi modi prepotenti non ci si addicono affatto, siano essi rivoluzionari o reazionari. I Francesi e gli Italiani hanno frontiere e si sentono tutti soldati. Così la parola di comando non pare loro umiliante; l'uomo non è che un uomo, ma comanda perché è il comandante. Ma noi non siamo abbastanza democratici per avere un dittatore. Il nostro popolo ama essere governato da gentiluomini, in un modo generico. Ma nessuno potrebbe sopportare di essere governato da un solo gentiluomo. L'idea è troppo orribile.»
+
+«Non so bene cosa tu intenda esattamente», disse Archer scontento, «ma sono lieto di dire che, a mio parere, Herne sa bene ciò che intende. E farà capire proprio [[Well|bene]] a questi individui ciò che intende, e [[Well|bene]] per giunta.»
+
+«Mio caro amico», disse Murrel, «ci vuole di tutto per fare un mondo. Io non m'entusiasmo per i gentiluomini, come sai; sono spesso, e abbastanza sovente, una gente soffocante. Ma i gentiluomini sono riusciti a governare quest'isola con discreto successo per circa trecento anni; e ci sono riusciti perché nessuno mai capì che cosa intendessero. Potevano commettere un errore oggi e disfarlo domani, senza che nessuno ne sapesse nulla. Ma non andarono mai troppo oltre in una qualsiasi direzione da rendere del tutto impossibile tornare indietro. Cedevano sempre qui e modificavano là; e rappezzavano le cose in qualche modo. Ora, può essere uno spettacolo magnifico vedere il vecchio Herne caricare con tutta la sua cavalleria. Ma se caricherà, non potrà ritirarsi. Se a te appare come un [[Hero|eroe]], apparirà come un [[Tyrant|tiranno]] agli altri. Ora, era proprio l'[[Soul|anima]] della nostra vecchia politica aristocratica che perfino un [[Tyrant|tiranno]] non dovesse mai apparire come un [[Tyrant|tiranno]]. Poteva abbattere le siepi di tutti e rubare le terre di tutti, ma doveva farlo per Atto del Parlamento e non con una gran [[Sword|spada]] a due mani. E se incontrava la gente che aveva spodestato, doveva essere assai cortese con loro e informarsi dei loro reumatismi. È questo che tenne in piedi la Costituzione britannica — informarsi dei reumatismi. Se comincia a fare occhi neri o cicatrici sanguinanti alla gente, quelle cose saranno ricordate in tutt'altro modo, che egli avesse ragione o torto nella contesa. E Herne non ha, di gran lunga, tutta la ragione che crede di avere in questa contesa; essendo un tipo di mente semplice.»
+
+«[[Well|Ebbene]]», osservò Archer, «non sei un compagno d'armi molto entusiasta.»
+
+«Quanto a questo», disse Murrel cupamente, «non so se io sia un compagno d'armi; ma non sono un lattante in braccio. E Herne lo è.»
+
+«Eccoti di nuovo», osservò Archer irritato. «Lo difendevi sempre finché era inconcludente.»
+
+«E tu lo insultavi sempre finché era innocuo», replicò Murrel. «Lo chiamavi sempre lunatico. [[Well|Ebbene]], può essere; personalmente i lunatici mi piacciono piuttosto. Ciò di cui mi lagno è che tu sei passato di netto dalla sua parte, semplicemente perché è un lunatico pericoloso.»
+
+«Piuttosto ben riuscito, per un lunatico», disse l'altro.
+
+«È l'unica specie pericolosa», disse Murrel. «È questo che intendo dicendo che è un lattante; e un lattante a cui non si dovrebbe permettere di portare armi. Tutto gli è troppo semplice. Perfino il suo [[success|successo]] gli è troppo semplice. Vede tutto in bianco e nero; col bisogno di ripristinare il santo ordine e una gerarchia di cavalleria da un lato e nient'altro che barbari urlanti e cieca anarchia dall'altro. Riuscirà; è già riuscito. Terrà la sua [[Court|corte]] e imporrà il suo giudizio e porrà fine all'ammutinamento; e tu non vedrai che sarà cominciata una nuova specie di [[history|storia]]. I nostri capipartito sono sempre stati riconciliati dalla [[history|storia]]; e Pitt e Fox ebbero statue una accanto all'altra. Ma tu stai dando inizio a due storie, una raccontata dai vincitori e l'altra dai vinti. Herne pronuncerà il suo giudizio, che sarà lodato da tutti gli organi dello Stato come un giudizio di Mansfield; ma Braintree pronuncerà una difesa o una sfida che sarà ricordata da tutti i ribelli come il discorso morente di Emmett. Tu stai creando qualcosa di nuovo; a un tempo una [[Sword|spada]] che divide e uno scudo con due facce. Non è l'Inghilterra; non siamo noi stessi. È Alva, un [[Hero|eroe]] per i cattolici e un folletto per i protestanti; è Federico, il padre della Prussia e l'assassino della Polonia. Quando vedrai Braintree condannato da questo tribunale, non capirai quanto verrà condannato insieme a lui; quanto di ciò che a te piace tanto quanto a me.»
+
+«Sei un bolscevico?», chiese il suo amico, fissandolo in modo perplesso.
+
+«Sono l'ultimo Liberale», disse Murrel. «Anzi, sono evaso dal museo di Madame Tussaud.»
+
+. . . . . . . .
+
+[[Michael]] Herne prendeva tutti i suoi doveri sul serio, ma fu presto evidente ad alcuni che ne prendeva uno con tristezza. Fu evidente almeno a Rosamund Severne, e lei ne indovinò rapidamente la causa. Era una donna del genere che ha molto della madre; quel genere di dama si trova spesso legata a quel genere di lunatico. Sapeva che egli prendeva sul serio le altre e più esteriori funzioni, e stranamente senza un sorriso. Sapeva che poteva guidare i suoi uomini come Comandante delle Centurie e poi pronunciare giudizio come Presidente della [[Court|Corte]] d'Arbitrato, senza mai pensare, neppure una volta, a Pooh-Bah. Sapeva che poteva deporre la cappa rossa e il cimiero che portava da Comandante e indossare, sopra il suo abito verde, vesti di un cupo porpora e un alto cappello di strana foggia, simile a quello di un Doge prima di salire al seggio del giudizio, e non ricordare mai, per un istante, le cento uniformi dell'Imperatore di Germania. Ma in quest'ultimo caso della [[Court|Corte]] d'Arbitrato ella vedeva che vi era qualcosa di un poco più grave della gravità. Tanto per cominciare, sembrava esservi un immenso carico di lavoro. Herne lavorava tutto il giorno e vegliava quasi tutta la [[Night|notte]] su [[Mountains|montagne]] di libri e balle di carte; e si faceva pallido per la veglia e la concentrazione. Ella sapeva, in modo generale, che era suo compito stabilire la legge, la vecchia legge feudale o qualunque cosa fosse quella che ora veniva ricostituita, e applicarla allo schiacciamento di tutta questa anarchia e ostruzione industriale. Approvava di cuore ciò; anzi, era stato quasi il fondamento della sua approvazione. Ma non aveva compreso che avrebbe comportato tanta ricerca e codificazione tratta dai bizzarri vecchi codici e statuti. Né in verità erano coinvolti i bizzarri vecchi codici [[Alone|soltanto]]; c'erano cose che ella riteneva ancor più bizzarre. Nuovi documenti su argomenti che parevano i più irrilevanti, per lo più argomenti scientifici, venivano consegnati ad accrescere la pila; uno recava sul retro la firma di Douglas Murrel. Che cosa mai potesse avere a che fare Monkey con tutto ciò, lei non riusciva a concepirlo. Ma benché vi fossero tutte queste cose a stancare e persino a preoccupare l'Arbitro, ella sapeva [[Well|bene]] che qualcos'altro rendeva il suo dovere alquanto penoso per lui.
+
+«So come ti senti, [[Michael]]», disse lei. «È odioso dover trionfare su persone che ci sono care. E so che John Braintree ti è caro.»
+
+Egli la guardò per un istante da sopra la spalla, e lei fu del tutto trasalita dall'espressione del suo volto.
+
+«Non sapevo che ti fosse caro fino a questo punto», disse lei.
+
+Egli voltò via il capo bruscamente; anzi, vi era qualcosa di stranamente brusco in tutto il suo contegno.
+
+«Ma io conosco [[Well|bene]] anche l'altra parte di te», disse lei. «Farai giustizia.»
+
+«Sì», rispose lui. «Farò giustizia.» E si prese il capo fra le mani.
+
+Ella provò un fine rispetto per la sua spezzata [[Friendship|amicizia]] e lasciò in silenzio la biblioteca.
+
+Un minuto o due dopo egli riprese la penna e continuò ad annotare documenti e a sfogliare relazioni; ma prima di far ciò guardò per un istante la vasta volta della biblioteca dove aveva faticato così a lungo; e specialmente quell'alto angolo dello scaffale a cui si era arrampicato al principio di questa storia.
+
+John Braintree, che non aveva mai nutrito alcuna particolare riverenza per il romantico sfarzo dell'ora, neppure quando era lodato dalla persona a cui teneva di più, non era probabile che lo ammirasse quando gli si presentava schierato con tutti i terrori del giudizio contro di lui, e adornato delle vesti di porpora e delle dorate impugnature di [[Sword|spada]] di tutte le persone a cui teneva di meno. Il suo contegno era apertamente sprezzante; ma il disprezzo non è mai spregevole in coloro che sono sconfitti e sfidanti. Quando gli fu chiesto se desiderasse aggiungere qualche dichiarazione preliminare ai documenti posti dinanzi alla [[Court|Corte]], egli era apparso sfidosamente distaccato come Carlo Primo.
+
+«Non vedo alcuna [[Court|Corte]]», disse. «Vedo soltanto un mucchio di persone che sembrano travestite da [[Court|figure]] di carte da gioco. Non conosco alcuna ragione per cui dovrei riconoscere la forza bruta dei briganti, semplicemente perché sono briganti da palcoscenico. Suppongo che dovrò ascoltare mentre la buffonata procede; ma non mi propongo di dire nulla finché non tirerete fuori i cavalletti e i morsetti per i pollici e le fascine per bruciarci vivi. Poiché presumo che abbiate fatto rivivere anche queste, con tutte le svanite bellezze del Medioevo. Voi siete uno studioso di riconosciuta dottrina e suppongo che ci darete una completa ricostruzione storica del medievalismo.»
+
+«Sì», rispose Herne con completa gravità. «Non nei dettagli, forse, giacché nessuno difenderebbe ogni dettaglio di un qualsiasi sistema, ma nel disegno generale noi [[Desire|desideriamo]] ricostruire lo schema medievale. Voi, tuttavia, non siete accusato di alcuna condotta che potesse in alcun caso comportare la pena del rogo; e quella questione, pertanto, non si pone.»
+
+«Oh, grazie», disse Braintree amabilmente. «Ma non è questo un favoritismo?»
+
+«All'ordine, all'ordine», gridò Julian Archer indignato. «Come possiamo procedere se la [[Court|Corte]] non è rispettata?»
+
+«Ma per queste cose», continuò l'Arbitro, «per le quali si può dimostrare che siete responsabile, in relazione a un qualsiasi pericolo pubblico, per queste voi e ogni altra persona sarete giudicati da questa [[Court|Corte]] e da questa [[Court|Corte]] [[Alone|soltanto]]. Non sono io a parlare: è la Legge.»
+
+[[Michael]] Herne troncò a mezz'aria, con un gesto tagliente come il fendente di una [[Sword|spada]], il grido di acclamazione e di applauso che salutò le sue parole. Gli uomini che lo applaudivano, anticipando le sue parole con volti raggianti, avevano fino allora sempre trovato quelle parole simili alle parole di un condottiero, squillanti e trascinanti e battagliere e persino sfarzose. Ma egli aveva un senso troppo serio di tutte le nuove parti che recitava per essere sfarzoso sul seggio del giudizio. Qualunque condanna dovesse pronunciare contro i nemici del suo nuovo regno, doveva essere pesata con la compostezza e persino con la freddezza di una giustizia impersonale. L'applauso si spense in un [[Silence|silenzio]]; ma era ancora un [[Silence|silenzio]] impaziente e persino entusiasta. Egli proseguì con una voce singolarmente piana e persino monotona.
+
+«È stato nostro compito», disse, «recuperare un ordine antico. Vorremmo rifare una vecchia legge, ma in ciò non possiamo del tutto sottrarci al dovere di farne una nuova. Le grandi epoche da cui traiamo la nostra vita erano ricche di varietà e persino di eccezioni; e da esse dobbiamo astrarre principi generali a prescindere dai dettagli contraddittori. Nel caso dinanzi a noi delle contese sorte intorno a ciò che si chiamano i prodotti del Carbone, specialmente il lavoro necessario alla produzione di tinture e colori dal catrame di carbone, dobbiamo cominciare col ricorrere a certi principi generali che un tempo governavano il lavoro necessario del mondo. Quei principi erano assai diversi da quelli di cui più udiamo parlare nei tempi più moderni, e nei movimenti di un'epoca inquieta e spesso senza legge. Erano contrassegnati dall'ordine e, aggiungerò, dall'obbedienza.»
+
+Un mormorio d'approvazione ruppe fra i suoi seguaci; e Braintree, dall'altra parte, emise un'aspra risata.
+
+«Nell'antica organizzazione delle corporazioni», continuò Herne, «questa obbedienza era attesa dagli apprendisti e dai garzoni verso una classe che può, in senso lato, chiamarsi, come nel nostro sistema moderno, i Maestri. Un Maestro era colui che produceva un Capolavoro. Vale a dire, aveva superato un esame da parte della corporazione con un'opera compiuta del mestiere; e la corporazione esigeva un serio livello di maestria. Era normalmente con gli attrezzi e la bottega e il capitale privato di questo Maestro che l'opera veniva compiuta; l'apprendista era colui a cui questo mestiere veniva insegnato, e il garzone colui che non lo aveva del tutto appreso, ma stava completando la propria [[Education|istruzione]] mettendosi a servizio presso diversi maestri, spesso nel corso di un [[Journey|viaggio]] attraverso luoghi diversi. Gli uomini potevano infine diventare Maestri producendo Capolavori a tempo debito. Questa è, a grandi linee, l'antica organizzazione del Lavoro. Applicandola al caso presente, troviamo la seguente situazione. Vi sono, nell'ampio campo coperto da questo lavoro, praticamente tre Maestri; nel senso di uomini con i cui attrezzi e capitale il mestiere è condotto. Ho accertato i loro nomi e trovo che fra loro si spartiscono praticamente quella proprietà. Uno è Sir Howard Pryce, in passato Maestro nella fabbricazione del sapone, ma divenuto in qualche rapido modo, a sua volta, Maestro nella materia delle Vernici e delle Tinture. Il secondo è [[Hubert]] [[arthur|Arthur]] Severne, ora Barone Seawood. Il terzo è John Henry Heriot Eames, ora noto come Conte di Eden. Ma non ho alcuna annotazione della data o dell'occasione in cui essi presentarono Capolavori nella fabbricazione di tinture o pigmenti. E non sono stato in grado di ottenere alcuna prova che essi lavorino personalmente nel mestiere, o che educhino i loro apprendisti a farlo.»
+
+Il volto di Douglas Murrel aveva portato per un certo [[Time|tempo]] un'espressione vivace e sveglia; ma a questo [[Time|punto]] un'espressione di genere del tutto nuovo cominciò a guizzare su alcuni dei volti intorno a lui. Invero lo sguardo di attonita [[Mystification|perplessità]], che si era fissato per un istante sui bei lineamenti di Julian Archer, aveva già ceduto il posto a quella covante protesta che sempre giaceva così vicino alla superficie della sua [[Self|auto]]-espressione sociale; ed egli aveva già raggiunto il punto di esclamare: «Oh! io dico —.»
+
+«In questa faccenda», proseguì l'Arbitro, «dobbiamo aver cura di distinguere il principio intellettuale in gioco da qualsiasi differenza emotiva riguardo al tono e ai termini della discussione. Non mi riferirò al linguaggio qui usato dal Capo dell'organizzazione del Lavoro, specialmente nel suo riferimento a me stesso. Ma se egli afferma che il Mestiere dovrebbe essere controllato da coloro che lo praticano completamente e competentemente, non ho esitazione nel dire che egli enuncia l'antico ideale medievale e lo enuncia correttamente.»
+
+Per la prima [[Time|volta]] nel procedimento Braintree stesso parve essere ridotto all'immobilità; con lo sguardo fisso e senza nulla da dire. Se era un complimento essere chiamato un corretto medievalista, era uno che egli pareva avere difficoltà a ricevere con la dovuta grazia. Ma tra i gruppi mutati e irrequieti dall'altra parte i mormorii erano già cresciuti più forti e più articolati; e Julian Archer, non ancora disposto a interrompere l'oratore, conduceva un'indignata conversazione con Murrel in bisbigli assai risonanti.
+
+«Naturalmente», continuò Herne, «è facoltà di Lord Eden e Lord Seawood valersi di questo sistema e presentare un Capolavoro di questa forma di lavoro manuale. Non so se essi riprenderebbero un mestiere di cui erano occupati in qualche [[Time|tempo]] di cui non ho alcun documento; o se sarebbe necessario che venissero iscritti sotto contratto d'apprendistato; e agissero come due apprendisti presso qualche operaio già esistente. . . .»
+
+«Perdonatemi», disse il robusto e assennato signor Hanbury alzandosi d'improvviso in piedi, «ma stiamo tutti facendo uno scherzo? Chiedo solo per informazione; perché mi piacciono gli scherzi.»
+
+Herne lo guardò ed egli si sedette; e l'altro proseguì saldo come sempre.
+
+«Nel terzo caso, quello del gentiluomo un tempo interessato alla fabbricazione del Sapone, confesso di vederci meno chiaro. Non comprendo bene per quale processo egli sia passato da un Mestiere e Mistero all'altro; un procedere per nulla facile sotto il vecchio ordine e organizzazione che stiamo cercando di ripristinare. Ma questo, a sua volta, mi conduce a un'altra questione; anch'essa immediatamente connessa con la causa che stiamo dibattendo; della quale sono costretto a parlare più severamente. Su questo primo punto, tuttavia, la decisione sia chiara. È il giudizio dell'Arbitro e della [[Court|Corte]] d'Arbitrato che la tesi di John Braintree, secondo cui il Mestiere dovrebbe essere governato unicamente dai Maestri Artigiani, è conforme alla nostra tradizione, è giusta ed è approvata.»
+
+«Che io sia dannato se lo è», disse Hanbury, continuando ad apparire del tutto impassibile dopo aver pronunciato l'osservazione.
+
+«Diamine, è l'intera questione», gridò Archer, con una voce assai ragionevole che si [[Rose|levò]] a qualcosa di simile a uno strillo. «Ma una decisione simile —»
+
+«La decisione è data», disse l'Arbitro con fermezza.
+
+«No, ma —», cominciò Sir Julian Archer per nulla con fermezza, «voi semplicemente non potete —»
+
+«All'ordine, all'ordine», disse Braintree sardonicamente. «Come possiamo andare avanti se la [[Court|Corte]] non è rispettata?»
+
+La [[Court|Corte]] parve non far caso all'interruzione o al rimprovero; ma chiunque avesse guardato da vicino l'uomo che pronunciava la sua decisione avrebbe visto che la sua gravità si faceva sempre più severa, come uno sforzo teso, e che egli era pallido per la fatica di essere così concentrato e freddo.
 
 -^-

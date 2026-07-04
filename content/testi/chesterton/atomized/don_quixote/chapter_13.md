@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/don-quixote-(chesterton)">Don Quixote</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/don_quixote/chapter_12">‹ Chapter 12</a><a class="ex-next" href="/testi/chesterton/atomized/don_quixote/chapter_14">Chapter 14 ›</a></div>
@@ -349,5 +351,352 @@ Both the noblemen [[Rose|rose]] to their feet and regarded this object for
 a moment in [[Silence|silence]]; before the more practical politician observed
 that the shaft had fastened to it a flapping [[Fragment|fragment]] of paper,
 on which something seemed to be written.
+
+-^-
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/don-quixote-(chesterton)">Don Quixote</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/don_quixote/chapter_12">‹ Chapter 12</a><a class="ex-next" href="/testi/chesterton/atomized/don_quixote/chapter_14">Chapter 14 ›</a></div>
+</nav>
+<nav class="excerpt-children">
+<div class="excerpt-children-label">In questa sezione</div>
+<ul><li><a href="/testi/chesterton/atomized/don_quixote/chapter_13/part_01">Part 1</a></li><li><a href="/testi/chesterton/atomized/don_quixote/chapter_13/part_02">Part 2</a></li><li><a href="/testi/chesterton/atomized/don_quixote/chapter_13/part_03">Part 3</a></li></ul>
+</nav>
+
+CAPITOLO XII
+
+LO STATISTA E IL [[Summer|PADIGLIONE]] [[house|ESTIVO]]
+
+A questo punto della conversazione, quell'angolo particolare del [[Garden|giardino]]
+si riempì dell'ampia e vivace presenza di Julian Archer in
+splendido abito da sera; entrò con foga e poi si arrestò di colpo,
+fissando [[Michael]] Herne.
+
+«Dico,» gridò, «ma non _vi cambierete_ mai?»
+
+Forse fu la sesta ripetizione di questa singola frase a far impazzire
+il bibliotecario di Seawood.
+
+Comunque sia, egli si voltò di scatto, fissando a sua volta, e all'improvviso
+gridò con una voce che risuonò lungo il sentiero del [[Garden|giardino]].
+
+«No. Non mi cambierò mai.»
+
+Dopo aver lanciato occhiate fulminanti per un istante, proseguì: «Voi tutti
+[[Love|amate]] il cambiamento e vivete di cambiamento; ma io non cambierò mai.
+Fu per il cambiamento che cadeste; è per questa [[Madness|follia]] del cambiamento
+che continuate a cadere. Aveste il vostro momento felice, quando gli uomini
+erano semplici e sani e composti e connaturati a questa terra
+quanto mai possono esserlo. Lo perdeste; e persino quando lo riavete per un istante,
+non avete il buon senso di trattenerlo. Io non cambierò mai.»
+
+«Non so che cosa voglia dire,» disse Archer, quasi come se avesse
+parlato di un animale o almeno di un neonato.
+
+«Io so che cosa vuol dire,» disse Braintree cupo, «e non è vero.
+Credete davvero, signor Herne, che tutto quel misticismo
+sia vero? Che cosa intendete esattamente dicendo che questa vecchia società
+vostra era sana?»
+
+«Intendo che la vecchia società era veritiera e che voi siete in un groviglio
+di menzogne,» rispose Herne. «Non intendo che fosse perfetta o indolore.
+Intendo che chiamava il [[Pain|dolore]] e l'imperfezione col loro nome. Voi parlate
+di despoti e vassalli e tutto il resto; [[Well|beh]], anche voi avete coercizione
+e disuguaglianza; ma non osate chiamare nulla col suo nome di battesimo.
+Difendete ogni singola cosa dicendo che è qualcos'altro.
+Avete un [[King|re]] e poi spiegate che non gli è concesso di essere un [[King|re]].
+Avete una [[house|Camera]] dei Lord e dite che è la stessa cosa di una [[house|Camera]] dei Comuni.
+Quando volete adulare un operaio o un contadino dite che è
+un vero gentiluomo; il che è come dire che è un autentico Visconte.
+Quando volete adulare il gentiluomo dite che non usa il proprio
+titolo. Lasciate a un milionario i suoi milioni e poi lo lodate
+perché è "semplice", ossia meschino e non magnifico;
+come se ci fosse del bene nell'oro, se non nello scintillare! Scusate i preti
+dicendo che non sono pretini e ci assicurate premurosamente che gli ecclesiastici
+sanno giocare a cricket. Avete maestri che rifiutano la dottrina, che significa
+soltanto insegnamento; e dottori in teologia che rinnegano ogni cosa divina.
+È tutto falso e codardo e vergognosamente pieno di vergogna.
+Ogni cosa prolunga la propria esistenza negando di esistere.»
+
+«Ciò che dite può essere vero di tali cose, o di alcune di esse,»
+rispose Braintree. «Ma io non voglio affatto prolungarne l'esistenza.
+E se si arriva a maledire e profetizzare, per Dio,
+ne vedrete alcune morte prima di morire voi.»
+
+«Forse,» disse Herne guardandolo con i suoi grandi occhi pallidi,
+«le vedrete morire e poi vivere; il che è cosa molto diversa
+dall'esistere. Non sono sicuro che il [[King|re]] non possa tornare a essere
+un [[King|re]].»
+
+Il Sindacalista parve scorgere qualcosa negli occhi fissi
+del bibliotecario che mutò e quasi raggelò il suo umore.
+
+«Credete che questa sia un'epoca,» chiese, «in cui qualcuno possa
+fare la parte di [[King|re]] [[Richard|Riccardo]]?»
+
+«Credo che questa sia un'epoca,» rispose l'altro, «in cui qualcuno dovrebbe
+fare la parte di... Coeur-de-[[Lion]].»
+
+«Ah,» disse Olive, come se cominciasse a vedere qualcosa per la prima [[Time|volta]].
+«Intendete che ci manca l'unica virtù di [[King|re]] [[Richard|Riccardo]].»
+
+«L'unica virtù di [[King|re]] [[Richard|Riccardo]],» disse Braintree, «era starsene
+fuori dal paese.»
+
+«Forse,» rispose lei. «Lui e la sua virtù potrebbero tornare.»
+
+«Quando tornerà troverà il paese assai cambiato,»
+disse il Sindacalista cupo. «Niente servi della gleba; niente vassalli; e persino
+i braccianti che osano guardarlo in faccia. Troverà che qualcosa
+ha spezzato la propria catena; qualcosa si è aperto, dilatato, sollevato;
+qualcosa di selvaggio e terribile e gigantesco che incute terrore persino
+nel cuore di un [[Lion|leone]].»
+
+«Qualcosa?» ripeté Olive.
+
+«Il cuore di un uomo,» rispose lui.
+
+Olive rimase a guardare, in una specie di stordimento o abbagliamento, ora l'uno ora l'altro.
+Poiché da un lato stavano tutte le cose che aveva sognato,
+vestite nel loro giusto secolo. E dall'altro qualcosa
+di più profondamente elettrizzante, che non aveva mai sognato.
+Le sue emozioni aggrovigliate proruppero da lei con un grido piuttosto curioso.
+
+«Oh, vorrei che Monkey fosse di nuovo qui!»
+
+Braintree le lanciò un'occhiata acuta e chiese piuttosto burbero: «Perché?»
+
+«Perché state cambiando tutti,» disse lei. «Perché parlate tutti
+come facevate nella recita. Perché siete entrambi feroci
+e splendidi e magnifici e magnanimi e non avete né l'uno né l'altro
+un briciolo di buon senso.»
+
+«Non sapevo che tu fossi specializzata nell'avere buon senso,» disse Braintree.
+
+«Non ne ho mai avuto,» rispose lei. «Rosamund mi ha sempre detto che non ne
+avevo. Ma qualunque donna ne avrebbe più di te.»
+
+«Ecco che arriva la dama in questione,» disse Braintree piuttosto tetro.
+«[[Hope|Spero]] che soddisfi le tue esigenze.»
+
+«Dirà quel che dico io,» disse Olive con calma.
+«La [[Madness|follia]] è contagiosa. Il contagio si diffonde.
+Nessuno di voi può uscire... dalla mia povera piccola recita.»
+
+E in effetti, quando Rosamund Severne attraversò il prato con incedere
+risoluto, come un [[Wind|vento]], il [[Wind|vento]] urtò qualcosa e si mutò
+in [[Storm|tempesta]]. La [[Storm|tempesta]] infuriò per un'ora o due e ci basta
+registrarne la fine; che fu questa: Rosamund fece ciò che assai di rado veniva
+fatto da lei o da chiunque altro; ciò che non era stato fatto da quando Murrel
+aveva presentato la petizione per l'ammissione di Braintree.
+Irruppe nello studio del padre e affrontò il padre.
+
+Lord Seawood alzò lo sguardo da un mucchio di lettere e disse: «Che c'è?»
+Il suo tono avrebbe potuto dirsi di scusa o persino nervoso;
+ma era di quel genere che fa sentire gli altri nervosi e li spinge a scusarsi.
+
+Ma Rosamund non si sentiva mai nervosa e non pensava a scusarsi;
+anzi, nemmeno a spiegare. Disse in modo esplosivo:
+«Le cose là fuori stanno diventando assolutamente terribili. Il bibliotecario
+non vuole togliersi i vestiti.»
+
+«[[Well|Beh]], lo [[Hope|spero]] proprio,» disse Lord Seawood, e attese pazientemente.
+
+«Voglio dire,» aggiunse lei in fretta, «voglio dire che ormai va oltre lo scherzo.
+Non capisci? È ancora vestito tutto di verde.»
+
+«Suppongo che, a rigore, la nostra livrea sia blu,»
+disse Lord Seawood pensieroso. «Oggigiorno non conta molto;
+ma l'araldica è sempre stata un mio passatempo... [[Well|Beh]], non credo
+sia possibile ormai insistere sui colori corretti. E nessuno vede
+mai molto il bibliotecario. Le biblioteche non sono luoghi di ritrovo molto frequentati.
+E quanto all'individuo in sé... un tipo molto tranquillo, se ricordo bene.
+Nessuno che possa notarlo.»
+
+«Oh,» disse Rosamund, con una quiete e una compostezza quasi minacciose.
+«Pensi che nessuno lo noterà mai?»
+
+«Non credo proprio,» disse Lord Seawood. «Io stesso non l'ho mai notato.»
+
+. . . . . . . .
+
+Se Lord Seawood è rimasto finora dietro le quinte del dramma
+di "Blondel il Trovatore", se è rimasto dietro le tende
+e gli arazzi di Seawood Abbey, è soltanto perché così egli
+rimase durante tutti quei superficiali procedimenti mondani, e fu,
+nel vero senso della parola, cospicuo per la sua assenza.
+Questo fatto nasceva da molte cause, ma principalmente da due:
+primo, che aveva la sventura di essere un invalido, e
+secondo, che aveva la sventura di essere uno statista.
+Era uno di quelli che si ritirano in un mondo sempre più
+angusto con il pretesto di agire in una sfera sempre più ampia.
+Viveva in un piccolo mondo per [[Love|amore]] delle grandi questioni.
+Aveva, come aveva accennato, una sorta di passatempo per l'araldica
+e per il tracciare la [[history|storia]] della propria e di altre
+nobili famiglie, ma si sentiva tanto più a suo agio in quanto c'erano
+soltanto due o tre altri esperti in Inghilterra che si curassero
+affatto di tali cose. E come trattava l'araldica,
+così trattava la società; la politica e molte altre cose.
+Non parlava mai con nessuno tranne che con gli esperti; vale a dire,
+che, fidandosi dell'esperto, si fidava sempre dell'eccezione.
+Le persone eccezionali gli fornivano informazioni di valore eccezionale;
+ma egli non sapeva mai che cosa accadesse nella propria [[house|casa]].
+Di tanto in tanto era consapevole che i dettagli delle sue
+disposizioni domestiche non erano quelli di sempre;
+e questa era press'a poco l'estensione della sua consapevolezza dell'intera
+faccenda della recita del Trovatore e del suo strano seguito.
+Ma se avesse notato il bibliotecario in cima alla scala,
+è dubbio che gli avrebbe chiesto perché fosse lì.
+È più probabile che avrebbe aperto comunicazioni
+con uno specialista scientifico sull'uso delle scale;
+ma solo dopo essersi onestamente convinto di avere
+il migliore specialista del [[Time|tempo]]. Avrebbe difeso
+il principio aristocratico con un appello all'etimologia greca,
+dicendo che insisteva nell'avere il meglio di ogni cosa.
+E, a rendergli giustizia, benché fosse troppo invalido
+e forse troppo maniaco per bere o fumare, non teneva mai
+nella propria [[house|casa]] vino o sigari che non fossero i migliori in assoluto.
+Era, nella sua persona, un ometto ossuto e fragile,
+con un naso dall'arcata alta e spigoli dappertutto, e una capacità
+di fissare le persone all'improvviso con uno sguardo di attenzione trasalita,
+che aveva un effetto quasi sbalorditivo su coloro che commettevano
+l'errore di supporre che fosse semplicemente uno [[Fool|sciocco]]. L'intera
+sua personalità alquanto riservata, con la sua concentrazione
+e il suo smarrimento, la sua attenzione e la sua disattenzione,
+va compresa con una simpatia che rasenta la sottigliezza,
+prima che si possano concepire le condizioni di questo dramma.
+Probabilmente era il solo uomo al mondo che potesse avere
+simili cose accadute nella propria [[house|casa]] senza rendersi conto
+fino a che punto fossero giunte.
+
+Ma viene un momento in cui persino l'eremita in una [[Cave|caverna]] sulle [[Mountains|montagne]]
+guarda fuori e vede che la [[City|città]] nella valle fiammeggia di bandiere.
+Viene un momento in cui persino il più drogato e sognante studioso in una
+soffitta guarda fuori dalla [[Window|finestra]] e vede che la città è illuminata.
+E alla fine Lord Seawood cominciò a rendersi conto che una rivoluzione era
+avvenuta fuori dalla porta del proprio studio, benché non ne avesse
+ricevuto alcun rapporto ufficiale. Se fosse stata
+una rivoluzione in Guatemala, ne avrebbe saputo tutto non appena
+avesse potuto comunicare col Ministro guatemalteco a [[London|Londra]].
+Se fosse stata una rivoluzione nel Tibet Settentrionale, naturalmente
+avrebbe mandato a chiamare Biggle, che è il solo tale che sia mai davvero
+_stato_ nel Tibet Settentrionale. Ma poiché essa non faceva che imperversare e ruggire
+per tutto il suo [[Garden|giardino]] e il suo salotto, egli era cauto nel
+ricevere quelli che potevano essere resoconti esagerati. Così accadde
+che circa una quindicina di giorni dopo egli sedeva nel [[Summer|padiglione]] [[house|estivo]]
+che sorgeva al termine del sentiero del [[Garden|giardino]] di fronte alla biblioteca,
+impegnato in una [[Grave|grave]] consultazione con il Primo Ministro. Non
+notava nulla in tutto il paesaggio tranne il Primo Ministro.
+Ciò non era affatto un segno di snobismo, poiché egli
+si riteneva, in senso sociale e genealogico, più importante
+di qualsiasi Primo Ministro; benché quello in questione fosse il Conte di Eden.
+Ma attribuiva importanza all'essere rinchiuso solo con persone
+d'importanza. Ascoltava con solenne ricettività tutte le notizie
+che un messaggero così importante poteva recargli dal mondo esterno;
+ma non gli importava nulla se non del mondo esterno. Viveva, se non
+ai confini della terra, quanto meno all'estremità del telefono.
+Le opinioni dello stesso Primo Ministro, su questa concentrata
+compiacenza del suo ospite, avrebbero forse meritato di essere udite, poiché Lord Eden
+era un uomo di un certo [[Humour|umorismo]], di quel genere che si giudica piuttosto scontroso
+e cinico, perché guarda in faccia i fatti e non tratta granché in
+slogan. Lord Eden era un uomo dal volto magro e rugoso, in tale contrasto
+con i suoi capelli gialli da farli sembrare una parrucca gialla.
+Era lui a parlare per la maggior parte, ma il suo ospite non perse mai l'aria
+di uno che ascolta con gravità un rapporto portato al quartier generale.
+
+«Il guaio è,» disse il Primo Ministro, «che la loro parte
+ha improvvisamente prodotto qualcuno che crede in qualcosa.
+In un certo senso non è leale. Sapevamo tutto dei deputati laburisti,
+naturalmente, ed erano dannati come tutti gli altri deputati.
+Non potevate insultarli; li conquistavate a poco a poco;
+dicevate loro che erano ammirevoli parlamentari e avversari
+degni della vostra spada, e poi, naturalmente, prima o poi trovavate qualche
+impiego per loro; ed eccoli sistemati.
+Ma questa faccenda della gente del Catrame di Carbone è diversa.
+I Sindacati, di per sé, non sarebbero stati molto diversi,
+naturalmente. La gente a una riunione di un [[Union|Sindacato]] non sa su che cosa
+stia votando...»
+
+«Certo che no,» disse Seawood annuendo con gravità e cortesia,
+«del tutto ignorante, immagino?»
+
+«...più di quanto lo sappiamo noi,» proseguì Lord Eden, «più di quanto
+lo sappia la [[house|Camera]] dei Comuni o la [[house|Camera]] dei Lord. Avete mai
+conosciuto una riunione di partito che sapesse su che cosa stava votando?
+Si chiamavano Socialisti o qualcosa del genere e noi ci chiamavamo
+Imperialisti o qualcosa del genere. Ma, in realtà,
+le cose si erano fatte sempre più tranquille da entrambe le parti.
+Ma ora che è saltato fuori questo Braintree, che dice tutte le loro
+sciocchezze in un modo nuovo, sembra che noi non abbiamo nessuna delle nostre
+sciocchezze da opporgli. Un tempo era l'Impero.
+Ma qualcosa è andato storto in tutto ciò; i maledetti Coloniali
+venivano qui e la gente li vedeva, ed ecco fatto.
+Non parlano come se volessero morire per noi, e nessuno
+sembra desiderare granché di vivere con loro. Ma qualunque cosa fosse,
+tutta quella specie di quadro e di poesia della cosa sembra essersi
+esaurita dalla nostra parte; proprio nel momento in cui qualcosa
+di pittoresco salta fuori dall'altra.»
+
+«È pittoresco questo signor Braintree?» chiese Lord Seawood,
+del tutto ignaro che il signor Braintree era stato suo ospite
+per un [[Time|tempo]] considerevole.
+
+«Questi tali sembrano pensarlo,» rispose il Primo Ministro.
+«Non è tanto la gente del Carbone in sé; sono molto
+più i Sindacati affiliati collegati con i sottoprodotti;
+tutta la gente che sembra aver aizzato proprio qui intorno.
+È per questo che sono venuto a chiedervene. Siamo entrambi interessati al
+Catrame di Carbone tanto [[Well|quanto]] al Carbone, e sarei ben lieto di avere la vostra opinione.
+Sembra esserci un diavolo di quantità di questi piccoli Sindacati immischiati
+nella faccenda. Dovete saperne più di chiunque altro...
+tranne lo stesso Braintree, naturalmente. E non serve a niente chiederlo a lui.
+Vorrei Dio che servisse.»
+
+«È del tutto vero che ho un interesse considerevole in
+questa zona,» disse Lord Seawood, inclinando il capo,
+«come sapete, la maggior parte di noi al giorno d'oggi deve darsi un poco al commercio.
+Avrebbe inorridito i nostri antenati, immagino, ma è
+meglio che perdere le tenute e così via. Sì, posso dirvi
+in confidenza che i miei interessi sono impegnati ancor più
+nei sottoprodotti che nel materiale originario, per così dire.
+Tanto più è sfortunato che questo signor Braintree abbia
+scelto proprio quello come campo di battaglia.»
+
+«Ha [[Well|proprio]] tutta l'aria di un campo di battaglia,» rispose il
+politico cupo. «Non credo che verrebbero davvero
+a uccidere la gente, ma sono [[Well|ben]] pronti a qualsiasi cosa
+che non arrivi a tanto. Ed è proprio questo il peggio. Se solo
+si [[Rebel|ribellassero]] davvero, potrebbero essere repressi abbastanza facilmente.
+Ma che diavolo si può fare con dei ribelli che non si [[Rebel|ribellano]]?
+Non credo che Machiavelli abbia mai dato un consiglio su questo problema.»
+
+Lord Seawood congiunse le lunghe dita sottili e si schiarì la gola.
+
+«Non pretendo di essere Machiavelli,» disse con marcata modestia, «ma
+[[Hope|spero]] di non sbagliarmi nel supporre che, in un certo senso, stiate chiedendo
+il mio consiglio. [[Well|Ebbene]], le condizioni sono tali, lo ammetto, da richiedere una
+conoscenza piuttosto particolare, e ho dedicato una certa attenzione a questo problema,
+e specialmente a problemi paralleli in Australia e in Alaska.
+Per cominciare, le condizioni della produzione di tutti i derivati
+del carbone comportano considerazioni che sono comunemente comprese...»
+
+«Dio mio!» gridò Lord Eden e si abbassò di scatto come se un colpo fosse stato
+mirato alla sua testa. La sua esclamazione era abbastanza naturale; benché, tale fosse
+l'incredibile assorbimento in [[Self|sé]] dell'altro uomo che egli ne scorse la causa
+almeno un secondo dopo.
+
+Ciò che Lord Seawood vide era una lunga freccia piumata che stava ancora
+vibrando nel legname del [[Summer|padiglione]] [[house|estivo]], immediatamente sopra
+la testa di Lord Eden. Ma ciò che Lord Eden aveva visto era lo stesso singolare
+proiettile arrivare fischiando nell'aria da qualche parte remota del [[Garden|giardino]]
+e passargli sopra con un rumore simile a quello di qualche insetto gigantesco.
+Entrambi i nobili si [[Rose|levarono]] in piedi e osservarono questo oggetto per
+un istante in [[Silence|silenzio]]; prima che il politico, più pratico, osservasse
+che all'asta era fissato un [[Fragment|frammento]] svolazzante di carta,
+su cui pareva fosse scritto qualcosa.
 
 -^-

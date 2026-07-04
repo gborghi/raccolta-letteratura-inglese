@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/don-quixote-(chesterton)">Don Quixote</a> › <a href="/testi/chesterton/atomized/don_quixote/chapter_16">Chapter 16</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/don_quixote/chapter_16/part_01">‹ part 01</a><a class="ex-next" href="/testi/chesterton/atomized/don_quixote/chapter_16/part_03">part 03 ›</a></div>
@@ -137,3 +139,135 @@ revolutionary women are only going along with revolutionary men.
 But I _am_ independent.  I am thinking for myself.  I am living
 my own life, as they call it; and a most miserable life it is.
 I am not going along with a revolutionary man."
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/don-quixote-(chesterton)">Don Quixote</a> › <a href="/testi/chesterton/atomized/don_quixote/chapter_16">Chapter 16</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/don_quixote/chapter_16/part_01">‹ part 01</a><a class="ex-next" href="/testi/chesterton/atomized/don_quixote/chapter_16/part_03">part 03 ›</a></div>
+</nav>
+
+Poiché mai in alcun giornale o libro o rivista dell'Inghilterra moderna
+alcunché di lontanamente somigliante a una [[history|Storia]] del Movimento del [[Union|Sindacato]]
+era mai capitato sotto gli occhi di un'intelligente e istruita signora inglese
+come Olive Ashley. L'intero di quell'enorme mutamento storico
+era avvenuto, per quanto la riguardava, dietro un sipario;
+e il sipario era letteralmente un foglio di carta; un foglio di giornale.
+Non sapeva nulla delle differenze tra i Sindacalisti;
+nulla dei veri difetti dei Sindacati; nemmeno i veri nomi
+degli uomini che dirigevano masse grandi quanto l'esercito di Napoleone.
+La strada pareva piena di volti estranei o di volti tanto più estranei
+perché familiari. Colse una fugace visione dell'ampia e goffa figura
+del conducente d'omnibus di cui Monkey si faceva tanto amico.
+Parlava, o piuttosto ascoltava, con gli altri; e il suo largo,
+lucido, bonario volto pareva assentire a tutto ciò che si diceva.
+Se la signorina Ashley avesse accompagnato Monkey nel suo vergognoso giro
+per le osterie, avrebbe persino riconosciuto
+il celebre Vecchio George, che ora accoglieva la sfida della
+disputa politica come aveva accolto le canzonature della taverna.
+Se avesse saputo di più della vita popolare, avrebbe compreso
+il minaccioso significato della presenza di questi assai assonnati e
+amabili poveri inglesi in mezzo a quei tetri gruppi nelle strade.
+Ma l'istante dopo si era del tutto dimenticata di loro.
+Era solo riuscita a penetrare in un [[Court|cortile]] esterno del tempio
+dell'officialismo (era proprio come attendere in un ufficio [[government|Governativo]])
+quando udì la voce di Braintree fuori nel corridoio ed egli entrò
+rapidamente nella stanza.
+
+Quando John Braintree entrò nella stanza, Olive all'istante
+e in un lampo colse ogni dettaglio di lui; tutto ciò che le piaceva
+nel suo aspetto e tutto ciò che le dispiaceva nei suoi vestiti.
+Non si era di nuovo lasciato crescere la barba, quale che fosse la sua reazione verso la rivoluzione;
+era sempre magro ed era in parte un effetto dell'energia
+che apparisse sciupato; sembrava vigoroso come sempre.
+Ma quando la vide, parve semplicemente sbalordito e stupefatto dal
+mero fatto della sua presenza. Tutti gli affanni gli uscirono dagli occhi;
+e sotto di essi si riversò piuttosto una sorta di splendente tristezza.
+Poiché gli affanni non sono mai altro che affanni, comunque li
+rigiriamo. Ma una tristezza è sempre una gioia rovesciata.
+Qualcosa nella situazione la fece alzare in piedi e parlare con
+una innaturale semplicità.
+
+«Che cosa posso dire?» disse. «Ora credo che dobbiamo separarci.»
+
+Così, per la prima [[Time|volta]], fu davvero ammesso tra loro che si erano
+uniti.
+
+C'è un gran mucchio di fallacia e follia nell'ordinario
+discorso della conversazione confidenziale; per non parlare della
+ripugnante nozione americana di una chiacchierata a cuore aperto.
+Le persone sono spesso assai fuorvianti quando parlano di se stesse;
+persino quando sono perfettamente oneste, e persino modeste,
+nel parlare di se stesse. Ma le persone rivelano moltissimo
+fintanto che parlano di ogni cosa tranne che di se stesse.
+Quei due avevano parlato così spesso e così a lungo di tutte le cose
+a cui tenevano tanto meno che l'uno all'altra,
+che erano giunti a una quasi [[Uncanny|inquietante]] onniscienza, e talvolta avrebbero potuto
+dedurre ciò che l'uno o l'altra pensava della cucina da osservazioni su Confucio. E, perciò, a questa
+impreparata e apparentemente futile crisi, parlavano
+in ciò che si direbbero parabole; e nessuno dei due per un solo istante
+fraintese l'altro.
+
+«Mio Dio,» disse Braintree, dalla profondità della sua piena comprensione.
+
+«Lo dici tu,» disse lei, «ma io lo intendo davvero.»
+
+«Non sono un ateo, se è questo che intendi,» disse egli
+con un sorriso alquanto acido. «Ma forse è vero che io
+ho solo il sostantivo e tu hai l'aggettivo possessivo.
+Suppongo che Dio appartenga a te, come tante altre cose buone?»
+
+«Credi che non le darei tutte a te?» disse lei.
+«Eppure suppongo che ci sia qualcosa nella mente che non si può
+cedere a nessuno.»
+
+«Se non ti [[Love|amassi]] potrei mentire,» disse egli; e di nuovo nessuno
+dei due si accorse che una parola era stata detta per la prima [[Time|volta]].
+«Dio, che magnifico banchetto di menzogne potrei imbandire proprio adesso,
+spiegando quanto mi hai lasciato perplesso col tuo incomprensibile atteggiamento;
+e che cosa avevo fatto per perdere la nostra bella [[Friendship|amicizia]] intellettuale;
+e non avevo forse almeno diritto a una spiegazione;
+e tutto il resto. Signore, se solo fossi un vero politico!
+Ci vuole un vero politico per dire che la politica non conta.
+Come sarebbe delizioso dire tutte le cose ordinarie e naturali
+e da giornale... per quanto profondamente differiamo su molti punti...
+opposti come siamo in politica. Io per primo sono libero di dire
+che mai... è il fiero vanto della vita politica in questo
+paese che le più selvagge divergenze di partito non distruggano necessariamente
+quell'essenziale buona intesa... oh, l'inferno e il diavolo
+e tutti i letamai del mondo! So che cosa intendiamo.
+Tu e io siamo persone che non possono fare a meno di curarsi del giusto e dell'ingiusto.»
+
+Poi dopo un lungo [[Silence|silenzio]] disse: «Suppongo che tu creda in Herne
+e in tutta la sua rinascita della cavalleria? Suppongo che tu creda davvero
+che sia cavalleresca; e persino che tu sappia che cosa intendi con ciò?»
+
+«Non ho mai creduto nella sua cavalleria,» disse lei, «finché egli non ha detto
+di credere nella tua.»
+
+«È stato molto gentile da parte sua,» disse Braintree del tutto seriamente.
+«È un brav'uomo. Ma temo che i suoi complimenti mi farebbero
+parecchio male nel mio stesso campo. Alcune di quelle parole sono
+ormai divenute simboli di qualcos'altro per la nostra gente.»
+
+«Potrei rispondere alla tua gente,» disse lei, «piuttosto come tu hai
+risposto a me. So di essere chiamata antiquata; e la tua
+gente ha tutte le nuove mode. Mi sento in [[Cross|collera]] con loro;
+mi sento incline a insultarli chiamandoli alla moda. Ma lo sono
+davvero. Non prendono forse su tutta questa faccenda
+di una donna che vive per se stessa e del sesso che non fa differenza
+e tutto il resto; proprio come le duchesse intellettuali?
+Direbbero tutti che sono al di là dei tempi, e parlerebbero di me
+come se fossi una schiava in un harem. Eppure li sfiderò
+su questo, dal tragico e odioso groviglio in cui mi trovo
+oggi. Parlano di una donna che pensa per se stessa!
+Parlano di una donna che sta [[Alone|sola]]! Quante delle mogli
+dei vostri Socialisti sono là fuori ad attaccare il Socialismo? Quante donne
+fidanzate a Deputati laburisti votano contro di loro alle urne
+o parlano contro di loro dal palco? Nove decimi delle vostre
+donne rivoluzionarie non fanno che seguire uomini rivoluzionari.
+Ma io _sono_ indipendente. Penso per me stessa. Vivo
+la mia stessa vita, come la chiamano; ed è una vita quanto mai infelice.
+Io non sto seguendo un uomo rivoluzionario.»

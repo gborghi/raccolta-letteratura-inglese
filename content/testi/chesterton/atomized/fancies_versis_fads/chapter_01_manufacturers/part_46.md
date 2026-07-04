@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/fancies-versis-fads-(chesterton)">Fancies Versis Fads</a> › <a href="/testi/chesterton/atomized/fancies_versis_fads/chapter_01_manufacturers">Chapter 01 MANUFACTURERS</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/fancies_versis_fads/chapter_01_manufacturers/part_45">‹ part 45</a><a class="ex-next" href="/testi/chesterton/atomized/fancies_versis_fads/chapter_01_manufacturers/part_47">part 47 ›</a></div>
@@ -130,3 +132,129 @@ that we do treat merely as furniture a number of people who are,
 at the very least, live stock.  And the proof of it is that when they
 move we are startled like the secretary sitting on the praying man;
 but perhaps it is we who should begin to pray.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/fancies-versis-fads-(chesterton)">Fancies Versis Fads</a> › <a href="/testi/chesterton/atomized/fancies_versis_fads/chapter_01_manufacturers">Chapter 01 MANUFACTURERS</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/fancies_versis_fads/chapter_01_manufacturers/part_45">‹ part 45</a><a class="ex-next" href="/testi/chesterton/atomized/fancies_versis_fads/chapter_01_manufacturers/part_47">part 47 ›</a></div>
+</nav>
+
+In altre parole, ti ritrovi ai piedi d'una rupe montana ripida e vertiginosa,
+che è il vero carattere e la [[Conscience|coscienza]] d'un uomo.
+Per essere davvero una cosa sola con quell'uomo, dovresti risolvere
+problemi reali e credere che le tue stesse soluzioni fossero reali.
+Nel trattare con quell'unico uomo avresti in realtà un compito assai più immane
+e più arduo che nel trattare con la tua ressa di migliaia.
+Ed è il compito da cui la gente fugge quando desidera scampare
+dalla domesticità al lavoro pubblico, e specialmente al lavoro educativo.
+Desiderano scampare da un senso di fallimento che è semplicemente
+un senso di realtà. Desiderano riconquistare l'illusione della
+piazza del mercato. È un'illusione che si dilegua negli interni oscuri
+della domesticità, dove dimorano le realtà. Come ho detto, sono
+ben lungi dal condannarla del tutto; è un piacere lecito,
+e una parte della vita, nella sua debita proporzione, come ogni altro.
+Ma mi preme far notare alle femministe e ai fanatici delle mode
+che non è un avvicinamento alla [[Truth|verità]], bensì piuttosto il contrario.
+La pubblicità è piuttosto della [[Nature|natura]] d'un innocuo [[Romance|romanzesco]].
+La vita pubblica, nel suo meglio, conterrà una gran dose di
+innocuo fantasticare romanzesco, e assai più spesso un fantasticare assai dannoso.
+In altre parole, mi preme far notare che il passaggio
+dalla vita privata alla vita pubblica, per quanto possa essere giusto o sbagliato,
+o necessario o non necessario, o desiderabile o indesiderabile,
+è sempre di necessità un passaggio da un lavoro più grande
+a uno più piccolo, e da un lavoro più arduo a uno più facile.
+Ed ecco perché la maggior parte dei moderni desidera davvero passare dal
+grande compito domestico a quello commerciale più piccolo e più facile.
+Preferirebbero fornire le livree a cento valletti piuttosto che
+scomodarsi con le faccende d'[[Love|amore]] d'uno solo. Preferirebbero ricevere
+i saluti di cento soldati piuttosto che tentare di salvare l'[[Soul|anima]] d'uno solo.
+Preferirebbero distribuire moduli d'imposta sul reddito o moduli del telegrafo
+a cento uomini piuttosto che pasti, conversazione e sostegno morale a uno solo.
+Preferirebbero organizzare il corso educativo di [[history|storia]] o geografia,
+o correggere i compiti d'esame di algebra o trigonometria, per
+cento fanciulli, piuttosto che lottare con l'intero carattere umano d'uno solo.
+Poiché chiunque si renda responsabile d'un solo piccolo pargolo,
+nella sua interezza, scoprirà presto di star lottando con giganteschi
+angeli e demoni.
+
+In un altro senso c'è qualcosa d'illusorio, o d'irresponsabile,
+nella funzione puramente pubblica, specie nel caso dell'
+[[Education|educazione]] pubblica. L'educatore in genere si occupa d'una sola
+sezione della mente dell'allievo. Ma sempre si occupa d'una sola sezione
+della vita dell'allievo. Il genitore deve occuparsi, non soltanto dell'intero
+carattere del [[Child|fanciullo]], ma anche dell'intera carriera del [[Child|fanciullo]].
+Il maestro semina il seme, ma il genitore miete oltre che [[Well|seminare]].
+Il maestro di scuola vede più fanciulli, ma non è chiaro che egli veda
+più [[Childhood|fanciullezza]]; di certo vede meno gioventù e nessuna maturità.
+Il numero di bambine che assumono acido prussico è necessariamente esiguo.
+I ragazzi che si impiccano ai pilastri del letto, dopo una vita di crimine,
+sono in genere la minoranza. Ma il genitore deve prefigurarsi l'intera
+vita dell'individuo, e non semplicemente la vita scolastica dello scolaro.
+Non è probabile che il genitore anticipi esattamente
+il crimine e l'acido prussico come [[Crown|corona]] della carriera dell'infante.
+Ma anticiperà d'udire del crimine se sarà commesso;
+gli sarà probabilmente riferito del [[suicide|suicidio]] se avrà luogo.
+È del tutto dubbio se il maestro o la maestra
+ne udranno mai parlare affatto. Tutti sanno che gli insegnanti hanno
+un compito estenuante e spesso eroico, ma non è ingiusto verso di loro
+ricordare che in questo senso essi hanno un compito eccezionalmente felice.
+Il cinico direbbe che l'insegnante è felice nel non vedere mai
+i risultati del proprio insegnamento. Preferisco limitarmi
+a dire che egli non ha la fatica supplementare di doverlo stimare
+dall'altro capo. L'insegnante è di rado presente alla [[Death|morte]].
+Per usare una più mite metafora teatrale, di rado è presente la [[Night|sera]] dello spettacolo.
+Ma questo è solo uno dei molti esempi della medesima [[Truth|verità]]:
+che ciò che si chiama vita pubblica non è più grande della vita privata,
+bensì più piccola. Ciò che chiamiamo vita pubblica è una faccenda frammentaria
+di sezioni e [[Seasons|stagioni]] e impressioni; è solo nella vita privata
+che dimora la pienezza della nostra vita corporea.
+
+--
+
+GLI SCIOPERI E LO SPIRITO DELLA [[Wonder|MERAVIGLIA]]
+
+C'È una storia che mi diletta tanto che sono certo
+d'averla ripetuta a stampa, intorno a una presunta e forse
+leggendaria segretaria di Madame Blavatsky o della signora Besant,
+che fu talmente deliziata da un nuovo sofà o ottomana che vi sedeva
+di preferenza mentre riposava o leggeva la propria corrispondenza.
+Alla fine esso si mosse leggermente, ed ella scoprì ch'era un mahatma coperto dalla
+sua veste orientale e rigido in [[Prayer|preghiera]], o in qualche più impersonale estasi.
+Che una segretaria debba avere un sedile ogni gentiluomo l'approverà;
+che ci si debba sedere su un mahatma nessun cristiano lo negherà;
+ciononostante, c'è un'altra possibile morale nella [[Fable|favola]]
+che è un rimprovero piuttosto a chi siede che al sedile.
+La si potrebbe esporre, come in una sorta di visione o [[Allegory|allegoria]], immaginando
+che tutto il nostro mobilio fosse davvero fatto così di membra vive invece
+che di legni morti. Supponiamo che le gambe della tavola fossero letteralmente gambe—
+le gambe di schiavi che stanno immobili. Supponiamo che i braccioli d'una poltrona
+fossero davvero braccia—le braccia d'un paziente domestico tese
+in permanenza, come quelle d'una vecchia [[Nurse|bambinaia]] in attesa d'un pargolo.
+Sarebbe fatto apposta per far sentire l'agiato occupante della comoda
+poltrona piuttosto come un pargolo; il che potrebbe giovargli. Supponiamo che ogni
+sofà fosse come quello della segretaria della signora Besant—fatto semplicemente d'un uomo.
+Non occorre che siano fatti soltanto di teosofi o buddisti—Dio ne scampi.
+Molti di noi preferirebbero di gran lunga affidarsi a un musulmano o a un turco.
+Questo potrebbe, con stretta esattezza, chiamarsi sedersi su un ottomano.
+Ho persino letto, mi pare, di qualche potentato orientale che gioiva
+d'un nome dal suono simile a «sofà». Si potrebbe persino insinuare che alcuni
+di essi potrebbero essere cristiani, ma non c'è ragione, s'intende,
+per cui tutti non dovrebbero star pregando. Sedersi su un uomo mentre esso
+prega richiederebbe senza dubbio una certa disinvoltura. Darebbe anche
+una versione più letterale del possesso d'un inginocchiatoio.
+Sarebbe facile dilatare la stravaganza in una visione d'un'intera
+[[house|casa]] viva, un'architettura di braccia e di gambe, un tempio di templi
+dello spirito. Le quattro pareti potrebbero esser fatte d'uomini come i quadrati
+nelle formazioni militari. C'è persino, forse, un'[[Shadow|ombra]] della fantasia
+nelle frasi popolari che paragonano il tetto alla testa umana,
+che chiamano cilindro il cappello a canna di fumo, o alludono leggermente
+a tutti i moderni copricapi maschili come «tegole». Ma l'unico valore
+della visione, come della maggior parte delle visioni—anche le più capovolte—
+è un valore morale. Essa raffigura, in emblema ed enigma, la [[Truth|verità]]
+che noi trattiamo davvero come semplice mobilio un certo numero di persone che sono,
+per lo meno, bestiame vivo. E la prova di ciò è che quando esse
+si muovono trasaliamo come la segretaria seduta sull'uomo in preghiera;
+ma forse siamo noi che dovremmo cominciare a pregare.

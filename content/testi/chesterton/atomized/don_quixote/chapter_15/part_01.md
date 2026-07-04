@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/don-quixote-(chesterton)">Don Quixote</a> › <a href="/testi/chesterton/atomized/don_quixote/chapter_15">Chapter 15</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/don_quixote/chapter_14/part_05">‹ part 05</a><a class="ex-next" href="/testi/chesterton/atomized/don_quixote/chapter_15/part_02">part 02 ›</a></div>
@@ -124,3 +126,123 @@ chauffeur can drive me to Margate when I want to go to Manchester.
 My valet brushes my clothes and has something to say about them.
 But Control means that I must wear yellow trousers and a pink
 waistcoat if he chooses to lay them out for me."
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/don-quixote-(chesterton)">Don Quixote</a> › <a href="/testi/chesterton/atomized/don_quixote/chapter_15">Chapter 15</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/don_quixote/chapter_14/part_05">‹ part 05</a><a class="ex-next" href="/testi/chesterton/atomized/don_quixote/chapter_15/part_02">part 02 ›</a></div>
+</nav>
+
+CAPITOLO XIV
+
+IL RITORNO DEL CAVALIERE ERRANTE
+
+Nella grande Elezione Generale, che era stata prodotta dalla grande
+minaccia di Braintree e del suo nuovo Sindacalismo, e che aveva condotto
+al varo del movimento in opposizione a essa, si riferì
+che il signor [[Michael]] Herne fosse entrato in una cabina elettorale per esprimere
+il proprio voto; e vi fosse rimasto per tre quarti d'ora,
+misteriosamente occupato o forse assorto in [[Prayer|preghiera]]. A quanto pareva
+non aveva mai votato prima; non essendo un'abitudine paleo-ittita;
+ma quando gli fu minuziosamente spiegato che doveva
+soltanto tracciare una [[Cross|croce]] sul pezzo di carta di fronte al nome
+del suo candidato preferito, egli parve del tutto incantato e affascinato
+dall'idea. A questo [[Time|tempo]], s'intende, il suo periodo paleo-ittita
+era da tempo divenuto preistorico e stratificato nel passato;
+e il suo più recente entusiasmo medievale divorava i suoi giorni e le sue notti.
+Nondimeno poteva a quanto pare concedere un [[Time|tempo]] alquanto anomalo al
+moderno e piuttosto meccanico procedimento del votare; quando avrebbe potuto
+essere intento a tendere l'arco lungo o a colpire di lancia una testa di Saraceno.
+Archer e i suoi altri colleghi divennero un poco spazientiti, e non
+poco perplessi, per la sua misteriosa immersione nell'urna;
+scalpitavano irrequieti all'esterno e alla fine entrarono,
+per vedere la sua alta e immobile schiena ancora immota nella sua
+cella separata, come di un moderno confessionale. Furono infine
+spinti alla grossolana indelicatezza di disturbare il Cittadino quando è [[Alone|solo]]
+col suo Dovere, avvicinandosi alle sue spalle e tirandogli le falde della giacca.
+Poiché ciò non ebbe alcun effetto particolare, commisero l'oltraggio anarchico
+e antidemocratico di guardargli effettivamente da sopra la spalla.
+Trovarono che aveva disposto sulla piccola mensola, come su un tavolo,
+tutti i colori da miniatura (presumibilmente presi in prestito dalla signorina Ashley),
+colori d'oro e d'argento e tutti i colori dell'arcobaleno.
+Con questi era intento a compiere il proprio dovere democratico con quasi
+una dolorosa cura e pazienza. Gli era stato detto di tracciare una [[Cross|croce]] e
+stava tracciando una [[Cross|croce]]. La faceva come sarebbe stata fatta
+da un monaco nei Secoli Bui; vale a dire in colori assai gai e glorificati.
+La [[Cross|croce]] era d'oro, in un suo angolo c'erano tre [[Birds|uccelli]] azzurri,
+in un altro angolo c'erano tre pesci rossi, in un altro piante,
+in un altro pianeti e così via; pareva progettata sullo schema
+del Cantico delle Creature di San Francesco d'Assisi.
+Fu molto sorpreso di sentirsi dire che ciò non era richiesto
+dalle disposizioni della Legge Elettorale; ma si controllò e
+diede solo un lieve sospiro, quando fu informato dai funzionari del seggio
+elettorale che il suo voto era annullato, perché aveva "rovinato"
+una scheda elettorale.
+
+Fuori, per la strada, tuttavia, c'era un buon numero di persone che
+pensavano che persino il consueto frettoloso sgorbio sulla scheda elettorale fosse
+quasi altrettanto uno spreco di [[Time|tempo]] quanto l'elaborato rituale del signor Herne.
+Era il [[Paradox|paradosso]] di quella particolare Elezione Generale che essa fosse una grande
+crisi perché un'altra cosa era assai più grande; ed era intensamente
+eccitante perché la gente era eccitata per qualcos'altro. Era
+piuttosto simile a una di quelle elezioni che hanno luogo durante una grande guerra.
+Anzi, si potrebbe dire che ebbe luogo durante una rivoluzione.
+
+Il Grande Sciopero che raccolse tutti i lavoratori dei mestieri della tintura
+e della fabbricazione dei colori, con scioperi di solidarietà tra vari organismi
+collegati al Catrame di Carbone e al Carbone, aveva il suo quartier generale a Milldyke
+e il suo capo in John Braintree. Ma era assai più di uno sciopero
+del genere locale e limitato che la sua descrizione potrebbe implicare.
+Non era il genere di sciopero di cui gli uomini delle classi più agiate
+si erano abituati a brontolare; avvezzi ai loro
+disagi come ai loro agi. Era qualcosa di interamente nuovo,
+per cui tali uomini, non innaturalmente e forse non irragionevolmente,
+prorompevano in proteste acute e persino stridule.
+
+Nel momento stesso in cui Herne era medievalmente occupato nella cella monastica
+del seggio elettorale, Braintree riempiva la piazza del mercato di Milldyke
+con la sua voce tonante nel discorso più sensazionale della sua carriera.
+Era sensazionale nella sostanza tanto [[Well|quanto]] nello stile. Non domandava più, come nelle
+prime fasi di questa [[history|storia]], ciò che chiamava Riconoscimento.
+Domandava il Controllo.
+
+«I vostri padroni vi dicono,» disse, «che siete avidi materialisti
+abituati a strepitare per salari più alti. Hanno ragione.
+I vostri padroni vi dicono che vi mancano ideali e non comprendete
+l'[[Ambition|ambizione]] e l'istinto di governare. Hanno ragione.
+Insinuano che siete schiavi e bestie da soma, in quanto
+vorreste soltanto divorare provviste e sfuggire alla responsabilità.
+Hanno ragione. Hanno ragione fintanto che vi accontentate di chiedere
+solo salari, solo cibo, solo un servizio [[Well|ben]] pagato.
+Ma mostriamo ai nostri padroni che abbiamo tratto profitto
+dalle lezioni morali che sono tanto buoni da impartirci.
+Torniamo a loro penitenti; diciamo loro che intendiamo emendare
+le nostre colpe di meschina contrattazione e di richiesta meramente materialistica.
+Diciamo loro che abbiamo un'[[Ambition|ambizione]]; ed è governare.
+Che abbiamo un ideale; ed è governare in modo uguale.
+Che abbiamo una fame e un'alta sete di responsabilità;
+per la gloriosa e gioiosa responsabilità di governare
+ciò che essi malgovernano, di gestire ciò che essi hanno mal gestito,
+di condividere tra noi come lavoratori e compagni quel diretto
+e democratico [[government|governo]] della nostra stessa industria che
+finora è servito a mantenere pochi parassiti nel lusso nei loro
+palazzi e nei loro parchi.»
+
+Dopo quel discorso a Milldyke tutte le comunicazioni furono interrotte e un abisso
+si spalancò tra Braintree e i parchi e i palazzi cui aveva alluso.
+La richiesta che i lavoratori manuali diventassero i gestori
+degli stabilimenti consolidò contro di lui, in verità, una gran massa
+di persone che non vivevano affatto in palazzi o parchi.
+Era così manifestamente e follemente rivoluzionaria che quasi nessuno vi concordava
+se non era già pronto a definirsi un rivoluzionario.
+E i veri rivoluzionari sono rari. Harry Hanbury, amico di Rosamund,
+uno squire assai gentile e ragionevole, parlò per gli altri.
+«Diamine, sono tutto per pagare alla gente buoni salari, come cerco di pagare
+buoni salari al mio autista e al mio cameriere. Ma Controllo significa che l'
+autista può portarmi a Margate quando io voglio andare a Manchester.
+Il mio cameriere mi spazzola i vestiti e ha qualcosa da dire su di essi.
+Ma Controllo significa che io devo indossare pantaloni gialli e un panciotto rosa
+se a lui piace prepararmeli.»

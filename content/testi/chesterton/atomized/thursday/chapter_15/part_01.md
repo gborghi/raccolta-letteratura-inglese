@@ -146,7 +146,7 @@ on their chairs of stone.  Not one of them had spoken a word.
 
 # [[thursday]] — Capitolo 15 (parte 1)
 
-                          CAPITOLO XV
+CAPITOLO XV
 
                           L'ACCUSATORE
 

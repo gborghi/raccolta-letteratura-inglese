@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/fourfaultlessfelons-(chesterton)">FourFaultlessFelons</a> › <a href="/testi/chesterton/atomized/fourfaultlessfelons/story_08_ii_the_man_with_the_black_bag">Story 08 Ii The Man With The Black Bag</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/fourfaultlessfelons/story_08_ii_the_man_with_the_black_bag/part_01">‹ part 01</a><a class="ex-next" href="/testi/chesterton/atomized/fourfaultlessfelons/story_08_ii_the_man_with_the_black_bag/part_03">part 03 ›</a></div>
@@ -183,3 +185,182 @@ not follow that they have no value."
 don't see the value of it as art and poetry-let [[Alone|alone]] reason or sense.
 
 What's the [[Beauty|beauty]] of one dingy old tree stuck in the middle of bricks and
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/fourfaultlessfelons-(chesterton)">FourFaultlessFelons</a> › <a href="/testi/chesterton/atomized/fourfaultlessfelons/story_08_ii_the_man_with_the_black_bag">Story 08 Ii The Man With The Black Bag</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/fourfaultlessfelons/story_08_ii_the_man_with_the_black_bag/part_01">‹ part 01</a><a class="ex-next" href="/testi/chesterton/atomized/fourfaultlessfelons/story_08_ii_the_man_with_the_black_bag/part_03">part 03 ›</a></div>
+</nav>
+
+di distanza» disse l'altro.
+
+«Ma certo che è verissimo» disse Enid, mentre una luce le si faceva chiara.
+
+«C'era un'automobile che è venuta velocissima oltre la [[Hill|collina]], proprio mentre lei...»
+
+«Proprio mentre commettevo la mia aggressione criminale» disse il giovane dal
+
+cilindro.
+
+Walter Windrush era un gentiluomo e, cosa che non è affatto sempre la stessa
+
+cosa, un uomo che teneva a una reputazione di bel comportamento. Ma sarebbe
+
+stato più che umano, se avesse trovato facile riadattare rapidamente le sue
+
+relazioni verso un gentiluomo, che dapprima lo aveva scaraventato attraverso la [[Road|strada]] e
+
+poi, alla sua reazione, aveva cominciato a tempestarlo di pugni come un pugile, e
+
+scorgere all'istante nel medesimo essere, e velato dal medesimo volto e dalla medesima forma,
+
+un amato amico e salvatore a cui doveva ora dedicare l'intera vita
+
+in gratitudine. I suoi ringraziamenti furono un poco storditi ed esitanti, ma
+
+sua figlia era in condizione di essere più magnanima e cordiale. Dopo
+
+razionale riconsiderazione, il giovane le piaceva piuttosto d'aspetto, poiché
+
+la pulizia e la rispettabilità non sempre dispiacciono alle signore che hanno visto
+
+parecchio della [[Sublime|sublime]] libertà della vita artistica. Inoltre, ella non era
+
+stata afferrata all'improvviso per la gola in mezzo alla [[Road|strada]].
+
+Cominciarono a scambiarsi biglietti e cortesie; il giovane apprese con
+
+sorpresa di aver insultato o soccorso un illustre uomo di lettere,
+
+e l'altro apprese che il suo insultatore o soccorritore era un giovane medico,
+
+la cui targa d'ottone avevano visto da qualche parte nei dintorni, incisa
+
+col nome di John Judson.
+
+«Oh, se lei è un medico» disse il poeta, scherzando in maniera piuttosto
+
+sconnessa, «sono sicuro che si è reso colpevole di condotta grossolanamente antiprofessionale.
+
+Dovrebbe essere segnalato al Consiglio Medico per aver tolto il pane
+
+di bocca al mio medico. Credevo che voi uomini di medicina vi fermaste solo a contare gli
+
+incidenti in strada e a metterli sul lato attivo del
+
+libro mastro. Ma se io fossi stato mezzo ucciso dall'automobile, lei avrebbe potuto
+
+finirmi con un'operazione.»
+
+Sembrava destino, fin dal primo momento, che questi due personaggi alquanto
+
+polemici dovessero sempre dirsi l'un l'altro la cosa sbagliata. Il giovane
+
+medico sorrise arcigno, ma vi era un lampo di battaglia nel suo occhio mentre
+
+rispondeva: «Oh, credo che di norma cerchiamo di salvare chiunque, in strada o
+
+nel rigagnolo o dovunque. Certo non sapevo di star salvando un poeta;
+
+credevo di star salvando soltanto un comune e utile cittadino.»
+
+Va ammesso con rammarico che questo era un campione delle comuni
+
+conversazioni tra i due. E, cosa abbastanza curiosa, quelle conversazioni
+
+divennero piuttosto frequenti. A quanto pareva, si incontravano solo per litigare, eppure
+
+si incontravano di continuo. Per una ragione o per l'altra, il dottor Judson
+
+veniva continuamente alla [[house|casa]] del poeta con un pretesto o con un altro,
+
+e il poeta non mancava mai di ospitalità, benché essa avesse un così strano suono
+
+di ostilità. Lo si può in parte spiegare col fatto che ciascuno aveva incontrato
+
+per la prima [[Time|volta]] la propria completa antitesi e il proprio antagonista completamente
+
+convinto. Windrush era un uomo nell'antica tradizione di Shelley o di Walt
+
+Whitman. Era un poeta per il quale la poesia sembrava quasi sinonimo di
+
+libertà. Se aveva racchiuso un albero selvatico in un docile [[Garden|giardino]] suburbano, era,
+
+a suo dire, perché esso potesse essere l'ultima cosa cui fosse davvero permesso di crescere
+
+selvaggia. Se camminava per un sentiero solitario appartato da alti muri, era
+
+evidentemente per quell'istinto che ha condotto più d'uno squire a recintare una
+
+terra selvaggia e a chiamarla parco. Amava la [[Loneliness|solitudine]] perché era l'
+
+unica forma perfetta di fare a modo suo. Considerava tutta la meccanica
+
+civiltà che si era diffusa attorno a lui come una mera [[Slavery|schiavitù]] materialistica,
+
+e, per quanto possibile, la trattava come se non ci fosse; persino, come abbiamo
+
+visto, al punto di stare in mezzo a una [[Road|strada]] principale con
+
+la schiena rivolta a un'automobile.
+
+Il dottor Judson era il genere d'uomo di cui gli amici più sciocchi dicono che
+
+andrà avanti, perché crede in se stesso. Questa era probabilmente una
+
+calunnia ai suoi danni. Egli non credeva soltanto in se stesso; credeva in
+
+cose che richiedono ben più [[Faith|fede]]: in cose che alcuni ritengono assai più
+
+incredibili e difficili da credere. Credeva nell'organizzazione moderna
+
+e nel macchinario e nella divisione del lavoro e nell'autorità dello
+
+specialista. Soprattutto, credeva nel suo mestiere; nella sua arte e scienza e
+
+professione. Faceva parte di una scuola avanzata, che proponeva molte ardite
+
+teorie, specialmente nel campo della psicologia e della psicoanalisi.
+
+Enid Windrush cominciò a notare il suo nome apposto in calce a lettere nei
+
+giornali ordinari, e poi ad articoli nelle riviste scientifiche. Aveva
+
+la semplicità di portare le sue modernissime monomanie nella vita privata,
+
+e le esponeva a lei per ore di [[Time|seguito]], camminando su e giù per l'
+
+artistico salotto, mentre Windrush vagava attorno al suo privato
+
+[[Garden|giardino]] intento a un perenne culto degli alberi. Quel camminare su e giù era
+
+caratteristico, poiché la seconda precisa impressione che Judson produceva,
+
+dopo l'impressione di compostezza professionale e di squallore dell'abbigliamento, era
+
+l'impressione di un'energia gorgogliante e persino irrequieta. Talvolta si era,
+
+con caratteristica schiettezza, lanciato in rimostranze contro il
+
+poeta stesso a proposito della sua propria eccentricità poetica: l'Albero, di cui il poeta
+
+parlava sempre come del tipo dell'energia che si irradia nell'universo.
+
+«Ma a che serve?» esclamava Judson dalle profondità di una cupa
+
+esasperazione. «A che pro avere una cosa simile?»
+
+«Ma a nulla, affatto» rispondeva il suo ospite. «Suppongo che sia del tutto inutile
+
+nel senso in cui tu intendi l'utilità. Ma anche se l'arte e la poesia non hanno utilità, non
+
+ne consegue che non abbiano valore.»
+
+«Ma senti un po'» ricominciava il medico, aggrottando dolorosamente le ciglia. «Non
+
+ne vedo il valore in quanto arte e poesia, e [[Alone|men che meno]] in quanto ragione o buon senso.
+
+Che [[Beauty|bellezza]] c'è in un solo squallido vecchio albero piantato in mezzo a mattoni e

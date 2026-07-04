@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/fourfaultlessfelons-(chesterton)">FourFaultlessFelons</a> › <a href="/testi/chesterton/atomized/fourfaultlessfelons/story_13_ii_the_burglar_and_the_brooch">Story 13 Ii The Burglar And The Brooch</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/fourfaultlessfelons/story_13_ii_the_burglar_and_the_brooch/part_05">‹ part 05</a><a class="ex-next" href="/testi/chesterton/atomized/fourfaultlessfelons/story_13_ii_the_burglar_and_the_brooch/part_07">part 07 ›</a></div>
@@ -195,3 +197,194 @@ you like. I don't understand what it all means, but it doesn't mean what
 it says, certainly not what you say. I could bring myself to believe that
 
 you were a burglar and broke into rich houses. But when you say you're a
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/fourfaultlessfelons-(chesterton)">FourFaultlessFelons</a> › <a href="/testi/chesterton/atomized/fourfaultlessfelons/story_13_ii_the_burglar_and_the_brooch">Story 13 Ii The Burglar And The Brooch</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/fourfaultlessfelons/story_13_ii_the_burglar_and_the_brooch/part_05">‹ part 05</a><a class="ex-next" href="/testi/chesterton/atomized/fourfaultlessfelons/story_13_ii_the_burglar_and_the_brooch/part_07">part 07 ›</a></div>
+</nav>
+
+tasche. «Devi ricordare che sono solo agli inizi della mia carriera
+
+di ladro.»
+
+«Sei alla fine della tua carriera di ladro,» disse il vecchio Nadoway, «oppure
+
+all'inizio della tua carriera di galeotto per cinque anni a
+
+Dartmoor. Con quel portasigari e quel biglietto, Lady Crayle può farti condannare, e lo
+
+farà se ne do l'ordine. Sono venuto qui solo per offrirti un'ultima possibilità, dopo che
+
+ne hai buttate via un migliaio. Pianta questa faccenda del rubare, qui
+
+e ora, e ti troverò un lavoro. Prendere o lasciare.»
+
+«Tuo padre e io,» disse Norman Nadoway, col suo accento distaccato e
+
+delicato, «non siamo sempre stati d'accordo sul trattamento dei casi difficili. Ma egli
+
+è ovviamente nel giusto in questo. Ho molta simpatia per te
+
+sotto molti aspetti, ma una cosa è perdonare un uomo che ruba quando forse
+
+sta morendo di fame... altra cosa è perdonarlo quando preferirebbe
+
+continuare a morire di fame, purché possa continuare a rubare.»
+
+«È questo il punto,» convenne il flemmatico John con fraterna ammirazione.
+
+«Siamo disposti a riconoscere un fratello che non è più un ladro. L'
+
+unica altra cosa che potremmo riconoscere sarebbe un ladro che non è più
+
+un fratello. Sei tu, Alan, quello a cui papà è pronto a dare un
+
+lavoro, oppure un tale della strada che dobbiamo semplicemente consegnare alla
+
+polizia? Ma, perbacco, non puoi essere entrambi.»
+
+Gli occhi di Alan vagarono per la [[house|casa]] e per il [[Garden|giardino]] di famiglia e si posarono per un
+
+istante su Millicent, con una certa espressione di pathos. Poi si
+
+risedette sulla panchina del [[Garden|giardino]], coi gomiti sulle ginocchia, e affondò
+
+la testa tra le mani come se stesse lottando in [[Prayer|preghiera]], o almeno in una
+
+perplessità dello spirito. Gli altri tre uomini lo osservavano con una
+
+goffa rigidità.
+
+Infine rialzò la testa di scatto, gettando all'indietro i suoi ricci neri e
+
+piumati, e tutti videro all'istante che il suo viso pallido aveva una nuova
+
+espressione.
+
+«[[Well|Ebbene]],» disse il vecchio Jacob, non senza una nuova nota di supplica, «non vuoi
+
+rinunciare a tutta questa canaglia di faccenda dei furti?»
+
+Alan Nadoway si [[Rose|alzò]]. «Sì, padre,» disse gravemente. «Ora che vengo a considerarla
+
+seriamente, vedo che hai diritto alla mia promessa. Rinuncerò
+
+alla faccenda dei furti.»
+
+«Sia ringraziato Dio,» disse suo fratello Norman, la sua voce dura e delicata
+
+scossa per la prima [[Time|volta]]. «Non intendo fare la morale adesso, ma scoprirai
+
+che c'è una cosa in qualsiasi altro lavoro tu ottenga: sarà uno
+
+in cui un uomo non ha bisogno di nascondersi.»
+
+«In fondo è un mestiere marcio, quello del ladro,» disse John col suo scattoso
+
+tentativo di giovialità e di generale [[Reconciliation|riconciliazione]]. «Dev'essere un vero e proprio
+
+[[nightmare|incubo]] entrare sempre nella [[house|casa]] sbagliata dalla parte sbagliata, un po'
+
+come infilarsi i pantaloni al contrario. Ti renderà di più davvero,
+
+e avrai pace dello spirito.»
+
+«Sì,» disse Alan pensieroso; «tutto quel che dici è vero, e c'è una
+
+sorta di intralcio complicato in quella vita; imparare dove si trovano
+
+i tesori e così via. No, volterò pagina. Voglio
+
+[[Reform|correggermi]] e passare a tutt'altro genere di vita. Un
+
+genere più semplice, più diretto. Mi dicono che il borseggio è
+
+molto più lucroso di questi tempi.»
+
+Continuò a fissare pensieroso le palme lontane, ma tutti gli altri
+
+visi erano rivolti verso di lui con uno sguardo incredulo.
+
+«Un mio amico dalle parti di Lambeth,» disse Alan, «se la cava assai
+
+[[Well|bene]] con la gente che esce dalle stazioni della metropolitana e così via. Certo,
+
+sono molto più poveri della gente che possiede tutte queste casseforti e gioielli
+
+e roba varia, ma poi sono in tanti, ed è sorprendente quel che
+
+si riesce a raccogliere entro la fine della giornata. Il mio amico ha rimediato quindici scellini in
+
+monetine da sei pence e in soldi di rame dalla gente che usciva dal cinema, ma d'altronde è
+
+terribilmente lesto di dita. Immagino di poter imparare il trucco.»
+
+Ci fu un [[Silence|silenzio]] sbigottito e poi Norman disse con voce controllata:
+
+«Sarebbe per me di una certa importanza sapere che questo è uno scherzo. Rischierò
+
+la mia reputazione di uomo di [[Humour|spirito]].»
+
+«Scherzo,» disse Alan, con aria distratta. «Scherzo... Oh, no, non è
+
+uno scherzo. È un lavoro. E un lavoro assai migliore di qualsiasi altro mio padre mi
+
+offrirà.»
+
+«Allora puoi seguirlo fino alla galera!» disse il vecchio, e la sua voce risuonò
+
+nel [[Garden|giardino]] come un cannone che annuncia il tramonto. «Sgombra da questo posto
+
+in tre minuti e non chiamerò il poliziotto giù per la [[Road|strada]].»
+
+E con ciò voltò le spalle e si allontanò a grandi passi seguito dagli altri
+
+figli, e Alan rimase in piedi [[Alone|solo]] accanto alla panchina del [[Garden|giardino]], e avrebbe
+
+potuto essere una statua nel [[Garden|giardino]].
+
+Il [[Garden|giardino]], in effetti, si era fatto più immoto, e in un certo senso grigio e
+
+statuario, con l'avanzare strisciante del crepuscolo, e qualcosa del suo
+
+carattere troppo florido era velato dall'oscurità e dai vapori umidi che cominciavano a
+
+levarsi dai prati circostanti, benché in alto il cielo fosse limpido e
+
+cominciasse a mostrare le punte delle [[Stars|stelle]] nel grigiore generale. Le punte
+
+si ravvivarono e l'oscurità sprofondò sempre più, e non pareva per
+
+il momento che le due statue umane rimaste nel [[Garden|giardino]] si sarebbero mosse. Poi
+
+la donna si mosse assai rapidamente, camminando dritta attraverso il prato fin dove
+
+l'uomo stava presso la panchina del [[Garden|giardino]], e in quella maggiore gravità e
+
+immobilità egli divenne consapevole dell'ultima incongruità. Il viso di lei, che
+
+era di solito assai [[Grave|serio]], era increspato di scherno, come quello di un elfo.
+
+«[[Well|Be'']],» disse lei, «adesso l'hai fatta.»
+
+«Se intende,» rispose lui, «che l'ho fatta finita con le mie prospettive qui, non
+
+ho mai pensato di averne alcuna.»
+
+«No, non intendo questo,» disse lei. «Quando dico che l'hai fatta, intendo
+
+che l'hai esagerata.»
+
+«Esagerato cosa?» chiese lui nello stesso stile di pietra.
+
+«Esagerato la menzogna,» disse lei, sorridendo con fermezza. «Caricato la parte, se
+
+preferisci. Non capisco che cosa significhi tutto ciò, ma non significa quel
+
+che dice, di certo non quel che dici tu. Riuscirei a indurmi a credere che
+
+tu fossi un ladro e irrompessi nelle case dei ricchi. Ma quando dici di essere un

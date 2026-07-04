@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/fancies-versis-fads-(chesterton)">Fancies Versis Fads</a> › <a href="/testi/chesterton/atomized/fancies_versis_fads/chapter_01_manufacturers">Chapter 01 MANUFACTURERS</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/fancies_versis_fads/chapter_01_manufacturers/part_20">‹ part 20</a><a class="ex-next" href="/testi/chesterton/atomized/fancies_versis_fads/chapter_01_manufacturers/part_22">part 22 ›</a></div>
@@ -121,3 +123,127 @@ service to the state and not justice to the individual.
 And second, that the modern world, like the heathen world, is here
 inflicting it chiefly on subordinate and submerged classes of society;
 on slaves or those who are almost slaves.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/fancies-versis-fads-(chesterton)">Fancies Versis Fads</a> › <a href="/testi/chesterton/atomized/fancies_versis_fads/chapter_01_manufacturers">Chapter 01 MANUFACTURERS</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/fancies_versis_fads/chapter_01_manufacturers/part_20">‹ part 20</a><a class="ex-next" href="/testi/chesterton/atomized/fancies_versis_fads/chapter_01_manufacturers/part_22">part 22 ›</a></div>
+</nav>
+
+Il signor Arnold Bennett non oscura la questione con la lugubre
+metafisica del determinismo; è un giornalista troppo brillante e
+scaltro per fare una cosa simile. Ma si appella pur sempre, in modo
+schietto, alla [[Charity|carità]], e perfino al [[Christianity|Cristianesimo]],
+fondandovi l'idea che non dovremmo giudicare affatto le persone, né
+tantomeno biasimarle. Come chiunque altro ragioni in questo modo, egli
+si immagina di perorare la causa della [[Mercy|misericordia]] e dell'umanità.
+Come chiunque altro ragioni in questo modo, sta facendo esattamente il
+contrario. Questa singolare idea di non giudicare le persone significa
+in realtà impiccarle senza processo. Sostituirebbe davvero al giudizio
+non la [[Mercy|misericordia]], ma qualcosa che somiglia assai più a un
+assassinio. Poiché il processo logico attraverso cui la discussione
+passa è sempre il medesimo; l'ho visto in cento dibattiti sul fato e
+sul libero arbitrio. Dapprima qualcuno dice, come il signor Bennett:
+«Siamo più benevoli verso i nostri fratelli, e non li biasimiamo per
+colpe che non possiamo giudicare». Poi una qualche persona di comune
+buon senso ribatte: «Vuoi davvero dire che lasceresti chiunque
+sfilarti il portafogli o tagliarti la gola senza protestare?». Allora
+il primo risponde sempre come risponde il signor Bennett: «Oh, no; lo
+punirei per proteggere me stesso e proteggere la società; ma non lo
+_biasimerei_, perché non oserei giudicarlo». Il filosofo pare aver
+dimenticato di essere partito con l'idea di essere più benevolo verso
+il tagliagole e il tagliaborse. Il suo senso dell'[[Humour|umorismo]]
+dovrebbe suggerirgli che il tagliaborse potrebbe forse preferire
+d'essere biasimato, piuttosto che finire ai lavori forzati per la
+protezione della società.
+
+Ora, naturalmente, il signor Bennett ha perfettamente ragione nel
+senso più mistico e perciò più profondamente morale. Non sappiamo ciò
+che Dio sa dei meriti di un uomo. Né sappiamo ciò che Dio sa dei
+bisogni di una comunità. Un uomo che avvelena la sua piccola nipote
+per denaro può avere motivi e scusanti misteriosi che non possiamo
+comprendere. E così può servire misteriosi fini sociali che non
+possiamo seguire. Non siamo infallibili quando crediamo di punire i
+criminali; ma non siamo infallibili neppure quando crediamo di
+proteggere la società. La nostra inevitabile ignoranza mi sembra
+tagliare da entrambe le parti. Ma persino nella nostra ignoranza una
+cosa è chiara in modo vivido. La soluzione del signor Bennett non è la
+più misericordiosa, bensì la meno misericordiosa delle due. Dire che
+possiamo punire le persone, ma non biasimarle, equivale a dire che
+abbiamo il diritto di essere crudeli con loro, ma non il diritto di
+essere benevoli.
+
+Perché, dopotutto, il biasimo è di per sé un complimento. È un
+complimento perché è un appello; e un appello a un uomo in quanto
+[[Artist|artista]] creativo che plasma la propria [[Soul|anima]]. Dire
+a un uomo «canaglia» o «[[Villain|furfante]]» nella società ordinaria
+può sembrare brusco; ma è anche ellittico. È l'abbreviazione di un
+[[Sublime|sublime]] apostrofe spirituale, per il quale può non esservi
+[[Time|tempo]] nella nostra affaccendata vita sociale. Quando incontrate
+un milionario, l'accaparratore di molti mercati, a cena a Mayfair, e lo
+salutate (com'è vostra abitudine) con l'esclamazione «Mascalzone!»,
+non fate che accorciare, per comodità, un'espressione come questa:
+«Come potete voi, che avete lo spirito divino dell'uomo, il quale
+potrebbe essere più alto degli angeli, trascinarlo tanto in basso da
+farvi mascalzone?». Quando venite presentati, a un ricevimento in
+[[Garden|giardino]], a un ministro del Gabinetto che intasca mance su
+appalti [[government|governativi]], e quando gli dite, nel modo
+consueto, «Briccone!», non fate che usare l'ultima parola di una
+lunga dissertazione morale; la quale, in effetti, suona: «Quanto è
+patetico lo spettacolo spirituale di questo ministro del Gabinetto,
+che essendo fin da principio reso glorioso dall'immagine di Dio, si
+china tanto verso ambizioni minori da lasciarsene trasformare in un
+briccone». È un mero prendere la coda di una frase perché stia per
+tutto il resto; come dire 'bus per omnibus. È ancora più simile al
+caso di quel puritano del diciassettesimo secolo il cui nome suonava
+press'a poco così: «Se-Gesù-[[Christ|Cristo]]-Non-Fosse-Morto-Per-Te-Saresti-Stato-Dannato,
+Higgins»; ma che, per popolare comodità, veniva chiamato «Dannato
+Higgins». Ma è comunque evidente che quando diamo a un uomo del
+vigliacco, così facendo gli stiamo chiedendo come possa essere un
+vigliacco quando potrebbe essere un [[Hero|eroe]]. Quando rimproveriamo
+un uomo d'essere un peccatore, sottintendiamo che egli abbia le facoltà
+di un santo.
+
+Ma punirlo per la protezione della società non comporta alcun riguardo
+per lui. Non comporta alcun limite di proporzione nella punizione. Vi
+sono alcuni limiti a ciò che gli uomini comuni sono propensi a dire
+che un uomo comune meriti. Ma non vi sono limiti a ciò che il pericolo
+della comunità possa supporsi esigere. Non vorremmo, neppure se
+potessimo, bollire il milionario nell'olio o scorticare vivo il povero
+piccolo politicante; poiché non pensiamo che un uomo meriti d'essere
+scorticato vivo per aver preso commissioni sugli appalti. Ma non è
+affatto così certo che scorticarlo vivo non possa proteggere la
+comunità. La corruzione può distruggere le comunità; e la tortura può
+dissuadere gli uomini. Comunque sia, la cosa non è tanto
+evidentemente inutile quanto è evidentemente ingiusta e vendicativa.
+Ci asteniamo da simili fantastiche punizioni, in gran parte perché
+_abbiamo_ una certa idea di far corrispondere la pena al reato, e non
+soltanto di farla corrispondere alla comunità. Se lo Stato fosse
+l'unica considerazione, se ne potrebbe dedurre a priori che gli uomini
+sarebbero assai più crudeli. E infatti, là dove lo Stato fu l'unica
+considerazione, si scoprì per esperienza che erano assai più crudeli.
+Erano assai più crudeli proprio perché erano affrancati da ogni
+responsabilità circa l'[[innocence|innocenza]] o la [[Guilt|colpa]]
+dell'individuo. Credo che nella Roma pagana, il modello di una lealtà
+meramente civica e secolare, fosse pratica comune torturare gli schiavi
+di ogni casa sottoposta a inchiesta legale. Se aveste protestato,
+poiché nessun delitto era stato provato a carico degli schiavi, lo
+Stato avrebbe risposto alla maniera moderna: «Non stiamo punendo il
+delitto; stiamo proteggendo la comunità».
+
+Ora, quell'esempio è pertinente proprio adesso in più modi d'uno.
+Naturalmente non intendo dire che questo fosse il movente di tutte le
+crudeltà storiche, o che alcune non [[spring|scaturissero]] da un
+movente affatto opposto. Ma fu il movente di una simile tirannia nel
+mondo pagano; e in questo, come in altre cose, il mondo moderno è
+divenuto in gran parte un mondo pagano. E la tirannia moderna può
+trovare il proprio prototipo nella tortura degli schiavi pagani sotto
+due aspetti fondamentali. Primo, che il mondo moderno è tornato al
+criterio del mondo pagano, quello di considerare il servizio allo Stato
+e non la giustizia verso l'individuo. E secondo, che il mondo moderno,
+come il mondo pagano, la infligge qui principalmente sulle classi
+subordinate e sommerse della società; sugli schiavi o su coloro che
+sono quasi schiavi.

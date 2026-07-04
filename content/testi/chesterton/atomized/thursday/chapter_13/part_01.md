@@ -170,7 +170,7 @@ upon the Tree of Life?  I dare say it will grow on me some day."
 
 # [[thursday]] — Capitolo 13 (parte 1)
 
-                         CAPITOLO XIII
+CAPITOLO XIII
 
                 L’INSEGUIMENTO DEL PRESIDENTE
 

@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/fancies-versis-fads-(chesterton)">Fancies Versis Fads</a> › <a href="/testi/chesterton/atomized/fancies_versis_fads/chapter_01_manufacturers">Chapter 01 MANUFACTURERS</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/fancies_versis_fads/chapter_01_manufacturers/part_50">‹ part 50</a><a class="ex-next" href="/testi/chesterton/atomized/fancies_versis_fads/chapter_01_manufacturers/part_52">part 52 ›</a></div>
@@ -109,3 +111,108 @@ in everything except the fact (not wholly remote from [[Literary Criticism|liter
 that they did not write so [[Well|well]] as he did.  But they wrote [[Well|well]] enough
 to lift the load of materialism from the English name and show us
 the shining fields of a Paradise that is not wholly lost.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/fancies-versis-fads-(chesterton)">Fancies Versis Fads</a> › <a href="/testi/chesterton/atomized/fancies_versis_fads/chapter_01_manufacturers">Chapter 01 MANUFACTURERS</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/fancies_versis_fads/chapter_01_manufacturers/part_50">‹ part 50</a><a class="ex-next" href="/testi/chesterton/atomized/fancies_versis_fads/chapter_01_manufacturers/part_52">part 52 ›</a></div>
+</nav>
+
+   Dying put on the weeds of Dominic
+   Or in Franciscan think to pass disguised.
+
+E la gioia esuberante che ne traggo è la cosa più vicina che io abbia mai
+conosciuto all'arte per l'arte.
+
+Insomma, mi pare che [[Milton]] sia stato un grande [[Artist|artista]], e che
+sia stato anche un grande accidente. Fu press'a poco nello stesso senso in cui
+il suo maestro Cromwell fu un grande accidente. Non è vero che tutte
+le virtù morali si cristallizzarono in [[Milton]] e nei suoi Puritani.
+Non è vero che tutte le virtù militari si concentrarono
+in Cromwell e nei suoi Ironsides. Vi erano masse di devozione morale
+da una parte, e masse di valore militare dall'altra.
+Ma accadde proprio che [[Milton]] avesse più abilità e [[success|successo]]
+nell'espressione letteraria, e Cromwell più abilità e [[success|successo]]
+nella scienza militare, di qualunque dei loro molti rivali.
+Rappresentare Cromwell come un demonio o [[Milton]] come un ipocrita significa correre
+all'estremo opposto e rendersi ridicoli; entrambi credettero abbastanza
+sinceramente in certe idee morali del loro [[Time|tempo]]. Solo che quelle non erano,
+come pare si supponga, le uniche idee morali del loro [[Time|tempo]].
+E non erano, a mio privato giudizio, le migliori idee morali
+del loro [[Time|tempo]]. Una di esse era l'idea che la saggezza sia più
+o meno indebolita dal riso e da un gusto popolare per il piacere;
+e possiamo chiamarla serietà morale, se ci piace. Ma il punto
+è che Cromwell non ebbe successo per la sua serietà morale, bensì per
+la sua strategia; e [[Milton]] non ebbe successo per la sua serietà morale,
+bensì per il suo stile.
+
+E, prima di tutto, lasciatemi toccare la forma più alta di serietà morale
+e il rapporto di [[Milton]] con la poesia religiosa del suo tempo.
+«[[Paradise Lost]]» è certamente un poema religioso; ma, per molti
+dei suoi ammiratori, la religione ne è la parte meno ammirevole.
+Il poeta si propone in verità di giustificare agli uomini le vie di Dio; ma io
+non ho mai sentito di alcuno che lo leggesse per vederle giustificate,
+come ancora si legge un poema davvero religioso, quale l'oscuro e
+quasi scettico Libro di Giobbe. Difficilmente si può dire che un poema giustifichi
+le vie di Dio, quando il suo effetto più frequente è, per ammissione generale, di
+far simpatizzare la gente con [[Satan|Satana]]. In tutto questo, in un certo senso, argomento
+contro me stesso; poiché tutti i miei istinti, come ho detto, sono contrari
+alla teoria estetica secondo cui un'arte così grande possa essere del tutto irreligiosa.
+E convengo che perfino in [[Milton]] vi siano bagliori di [[Christianity|cristianesimo]].
+Nessuno che ne fosse del tutto privo avrebbe potuto scrivere il solo verso:
+«By the dear might of Him that walked the waves.» Ma non è
+troppo dire che sia l'unico luogo in cui quella Figura
+cammini nell'intero mondo di [[Milton]]. Nessuno, immagino, è mai
+riuscito a riconoscere [[Christ|Cristo]] nel freddo conquistatore che guida
+un carro nella guerra in Cielo, come [[Apollo]] in guerra contro i Titani.
+Nessuno L'ha mai udito nelle solenni disquisizioni, sia
+del Concilio in Cielo sia del «Paradise Regained». Ma a parte
+tutti questi problemi particolari, è certo la [[Truth|verità]] generale
+che il grande [[Epic|poema epico]] religioso ci colpisce con un senso di sproporzione;
+il senso di quanto poco esso sia religioso, considerando quanto manifestamente
+sia grande. Pare quasi strano che un uomo abbia scritto
+tanto e così [[Well|bene]] senza inciampare nella tradizione cristiana.
+
+Ora, nell'età di [[Milton]] vi fu un tripudio di poesia religiosa.
+La maggior parte di essa aveva serietà morale, e molta possedeva splendida
+convinzione spirituale. Ma per lo più non era la poesia dei Puritani;
+al contrario, era per lo più la poesia dei Cavalieri.
+La religione più vera — potremmo dire la religione più realistica —
+non si trova in [[Milton]], ma in Vaughan, in Traherne, in Crashaw,
+in Herbert, e perfino in Herrick. La prova migliore ne è che la
+religione è viva ancor oggi, come religione e non semplicemente come letteratura.
+Un cattolico romano può leggere Crashaw, un anglo-cattolico può leggere Herbert,
+in uno spirito direttamente devozionale; io [[Doubt|dubito]] gravemente che molti moderni
+Congregazionalisti leggano la teologia di «[[Paradise Lost]]» in quello spirito.
+Per il momento accenno soltanto a questa emozione puramente religiosa;
+non nego che la poesia di [[Milton]], come ogni grande poesia,
+possa destare altre grandi emozioni. Per esempio, un uomo colpito
+da uno dei lutti della Grande Guerra potrebbe [[Well|bene]] trovare una serenità
+stoica nei grandi versi che cominciano: «Nothing is here, for [[Tears|tears]].»
+Quella sorta di consolazione è espressa, con quanta nobiltà si potrebbe esprimere,
+da [[Milton]]; ma potrebbe essere espressa da Sofocle o da Goethe, o perfino
+da Lucrezio o da Voltaire. Ma supponendo che un uomo cercasse una consolazione
+di specie più cristiana, non la troverebbe affatto in [[Milton]],
+come la troverebbe nei versi che cominciano: «They are all gone into
+the world of light.» I due grandi poemi puritani nel loro insieme non
+contengono tutto ciò che si dice dicendo: «O holy [[Hope|hope]] and high [[Humility|humility]].»
+Né la [[Hope|speranza]] né l'[[Humility|umiltà]] furono specialità puritane.
+
+Ma non era soltanto nel misticismo devozionale che questi Cavalieri potevano
+sfidare il grande Puritano; era in un misticismo più umanistico
+e persino più moderno. Essi risplendono di quel bianco mistero della luce del giorno
+che molti suppongono sia sorto con Wordsworth e con Blake.
+In quel senso essi rendono mistica la terra là dove [[Milton]] rese soltanto
+materiale il Cielo. Né sono inferiori in [[Freedom|libertà]] filosofica;
+il solo verso di Crashaw, rivolto a una donna, «By thy
+large draughts of intellectual day», è meno probabile, immagino,
+che sia stato rivolto da Adamo a Eva, o da [[Milton]] alla signora [[Milton]].
+Mi pare che questi uomini fossero superiori a [[Milton]] in magnanimità,
+in cavalleria, in gioia di vivere, nell'equilibrio di [[Sanity|assennatezza]] e sottigliezza,
+in tutto tranne che nel fatto (non del tutto estraneo alla [[Literary Criticism|critica letteraria]])
+che essi non scrivevano così [[Well|bene]] come lui. Ma scrivevano abbastanza [[Well|bene]]
+da sollevare il peso del materialismo dal nome inglese e mostrarci
+i campi splendenti di un Paradiso che non è del tutto perduto.

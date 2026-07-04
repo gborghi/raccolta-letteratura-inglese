@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/fancies-versis-fads-(chesterton)">Fancies Versis Fads</a> › <a href="/testi/chesterton/atomized/fancies_versis_fads/chapter_01_manufacturers">Chapter 01 MANUFACTURERS</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/fancies_versis_fads/chapter_01_manufacturers/part_28">‹ part 28</a><a class="ex-next" href="/testi/chesterton/atomized/fancies_versis_fads/chapter_01_manufacturers/part_30">part 30 ›</a></div>
@@ -131,3 +133,138 @@ For the apologists of the Slave States, or, at least, of the
 Southern States, make the same admission even in their own defence.
 If they denied breaking up the slave family, it was because they
 denied that there was any slave family to break up.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/fancies-versis-fads-(chesterton)">Fancies Versis Fads</a> › <a href="/testi/chesterton/atomized/fancies_versis_fads/chapter_01_manufacturers">Chapter 01 MANUFACTURERS</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/fancies_versis_fads/chapter_01_manufacturers/part_28">‹ part 28</a><a class="ex-next" href="/testi/chesterton/atomized/fancies_versis_fads/chapter_01_manufacturers/part_30">part 30 ›</a></div>
+</nav>
+
+
+--
+
+IL SENTIMENTALISMO DEL [[divorce|DIVORZIO]]
+
+Il [[divorce|DIVORZIO]] è una cosa che i giornali ora non solo
+pubblicizzano, ma caldeggiano, quasi fosse un piacere in sé. Potrebbe
+darsi, in verità, che tutti i [[Flowers|fiori]] e i festeggiamenti vengano
+ormai trasferiti dallo sposalizio alla moda al [[divorce|divorzio]] alla
+moda. Una superba torta di [[divorce|divorzio]], ghiacciata e glassata,
+sarà fornita per il banchetto, e negli ambienti militari verrà tagliata
+con la [[Sword|spada]] del correo. Uno sfolgorante spiegamento di regali di
+[[divorce|divorzio]] sarà disposto per l'ispezione della compagnia,
+sorvegliato da un [[Detective|investigatore]] travestito da comune invitato
+al [[divorce|divorzio]]. Forse verrà rispolverata l'antica colazione di
+[[divorce|divorzio]]; comunque sia, si leveranno i brindisi, gli invitati
+si raccoglieranno sulla soglia per veder partire marito e moglie in
+direzioni opposte; e tutto andrà allegro come una campana da
+[[Court|tribunale]] del [[divorce|divorzio]]. Tutto ciò, benché ad alcuni
+possa sembrare un po' fantasioso, sarebbe in realtà assai meno fantastico
+del genere di cose che davvero si dicono sull'argomento. Non intendo
+discutere la profondità e la sostanza di quell'argomento. Io stesso
+professo una visione mistica del [[Marriage|matrimonio]]; ma non intendo
+[[debate|dibatterla]] qui. Ma, semplicemente nell'interesse della
+chiarezza e della [[logic|logica]], vorrei protestare contro il modo in
+cui esso viene di frequente dibattuto. Il procedimento non può
+razionalmente chiamarsi affatto un [[debate|dibattito]]. È una sorta di
+[[Chorus|coro]] di sentimentali nei giornali sensazionalistici, che
+intonano perpetuamente qualche formula come questa: «Rispettiamo il
+[[Marriage|matrimonio]], riveriamo il [[Marriage|matrimonio]], santo,
+sacro, ineffabilmente squisito e ideale [[Marriage|matrimonio]]. Il vero
+[[Marriage|matrimonio]] è [[Love|amore]], e quando l'[[Love|amore]] muta,
+il [[Marriage|matrimonio]] muta, e quando l'[[Love|amore]] cessa o
+ricomincia, il [[Marriage|matrimonio]] fa altrettanto; meraviglioso,
+bellissimo, beatifico [[Marriage|matrimonio]].»
+
+Ora, con tutta la ragionevole simpatia per ogni cosa sentimentale, posso
+osservare che tutte quelle chiacchiere sono fandonie. Il
+[[Marriage|matrimonio]] è un'istituzione come un'altra, istituita
+deliberatamente per avere certe funzioni e certi limiti; è un'istituzione
+come la proprietà privata, o la coscrizione, o le libertà legali del
+cittadino. Parlarne come se fosse creato o disciolto da certi mutevoli
+stati d'animo è un puro spreco di parole. Lo scopo della proprietà privata
+è che quanti più cittadini possibile abbiano una certa dignità e un certo
+piacere nell'essere padroni di cose materiali. Ma si supponga che un ladro
+di cani dicesse che, non appena un uomo si annoia del proprio cane, questo
+cessa d'essere il suo cane, ed egli cessa d'esserne responsabile. Si
+supponga che dicesse che, per il semplice fatto di bramare il cane, egli
+potrebbe immediatamente possederlo moralmente. La risposta sarebbe che
+l'unico modo per rendere gli uomini responsabili dei [[dogs|cani]] era fare
+della relazione una relazione legale, a prescindere dalle simpatie e
+antipatie del momento. Si supponga che uno scassinatore dicesse: «La
+proprietà privata io la venero, la proprietà privata io la riverisco; ma
+sono convinto che il signor Brown non apprezzi davvero i suoi cucchiai
+d'argento con gli Apostoli come simili oggetti sacri meriterebbero d'essere
+apprezzati; essi hanno perciò cessato d'essere sua proprietà; in realtà
+sono già divenuti proprietà mia, poiché ne apprezzo il prezioso carattere
+come nessun altro sa fare.» Si supponga che un assassino dicesse: «Cosa può
+esservi di più amabile e ammirevole della vita umana vissuta con il dovuto
+senso della sua inestimabile opportunità! Ma mi rincresce osservare che il
+signor Robinson ha ultimamente un aspetto decisamente stanco e
+[[Melancholy|malinconico]]; la vita accettata in questo spirito deprimente
+e demoralizzante non può più veramente chiamarsi vita; è piuttosto la mia
+stessa esuberante e forse esagerata gioia di vivere che debbo soddisfare
+tagliandogli la gola con un trinciante.»
+
+È ovvio che questi filosofi non riuscirebbero a capire ciò che intendiamo
+per regola, del tutto a prescindere dal problema delle sue eccezioni. Non
+riuscirebbero ad afferrare ciò che intendiamo per istituzione, sia essa
+l'istituzione della legge, della proprietà, o del [[Marriage|matrimonio]].
+Una persona ragionevole risponderà certamente allo scassinatore:
+«Difficilmente ci placherai con meri elogi poetici della proprietà; perché
+la tua tesi sarebbe assai più convincente se tu negassi, come fanno i
+comunisti, che la proprietà debba esistere del tutto. Ci possono essere, e
+certamente ci sono, gravi abusi nella proprietà privata; ma, finché essa è
+un'istituzione, non può mutare semplicemente con gli stati d'animo e le
+emozioni. Una fattoria non può semplicemente allontanarsi galleggiando dal
+fattore, in proporzione all'affievolirsi del suo interesse per essa. Una
+[[house|casa]] non può scostarsi a poco a poco dal padrone di casa, per
+certe sottili sfumature di sentimento che egli si trovi a nutrire verso di
+essa. Un cane non può andarsene alla deriva come [[A Dream|un sogno]], e
+cominciare ad appartenere a qualcun altro che si trovi proprio allora a
+sognarlo. E nemmeno la seria relazione sociale di marito e moglie, di madre
+e padre, o persino di uomo e donna, può essere risolta in tutte le sue
+relazioni da passioni e reazioni del sentimento.» Questa questione è del
+tutto distinta dalla questione se vi siano eccezioni alla regola della
+lealtà, o quali esse siano. Il punto primario è che esiste un'istituzione
+verso cui essere leali. Se i nuovi sentimentali intendono ciò che dicono,
+quando dicono di venerare quell'istituzione, non devono lasciar intendere
+che un'istituzione possa essere effettivamente identica a un'emozione. Ed è
+questo che la loro retorica lascia intendere, per quanto si possa dire che
+lasci intendere alcunché.
+
+Questi scrittori ci spiegano sempre perché credono nel [[divorce|divorzio]].
+Credo di poter capire facilmente perché credono nel [[divorce|divorzio]].
+Ciò che non capisco è perché credano nel [[Marriage|matrimonio]]. Proprio
+come lo scassinatore filosofo sarebbe più filosofico se fosse un
+bolscevico, così questo genere di fautore del [[divorce|divorzio]] sarebbe
+più filosofico se fosse un libero [[Lover|amante]]. Poiché i suoi argomenti
+non sembrano mai toccare il [[Marriage|matrimonio]] come istituzione, o
+come qualcosa di più che un'esperienza individuale. La vera spiegazione di
+questa strana indifferenza all'idea istituzionale è, immagino, qualcosa non
+solo di più profondo, ma di più ampio; qualcosa che riguarda tutte le
+istituzioni del mondo moderno. La [[Truth|verità]] è che questi sociologi
+non sono affatto interessati a promuovere quel genere di vita sociale che
+il [[Marriage|matrimonio]] promuove. Quel genere di società di cui il
+[[Marriage|matrimonio]] è sempre stato il pilastro più saldo è ciò che
+talvolta si chiama la società distributiva; la società in cui la maggior
+parte dei cittadini possiede una tollerabile quota di proprietà,
+specialmente proprietà a portata di mano. Dovunque, in tutto il mondo, la
+fattoria va con la famiglia e la famiglia con la fattoria. Se l'intero
+gruppo domestico non si tiene unito con una sorta di lealtà o di
+patriottismo locale, se l'eredità della proprietà non è logica e
+legittima, se le liti familiari non sono tenute fuori dai tribunali del
+burocratismo, la tradizione della proprietà familiare non può essere
+trasmessa intatta. D'altro canto, lo Stato Servile, che è l'opposto dello
+Stato distributivo, è sempre stato piuttosto imbarazzato dall'istituzione
+del [[Marriage|matrimonio]]. È una vecchia storia che la
+[[Slavery|schiavitù]] dei negri di "Uncle Tom's Cabin" facesse la sua opera
+peggiore nello sfascio delle famiglie. Ma, per quanto curioso, la stessa
+storia è raccontata da entrambe le parti. Poiché gli apologeti degli Stati
+schiavisti, o, per lo meno, degli Stati del Sud, fanno la medesima
+ammissione persino a propria difesa. Se negavano di distruggere la famiglia
+degli schiavi, era perché negavano che vi fosse alcuna famiglia di schiavi
+da distruggere.

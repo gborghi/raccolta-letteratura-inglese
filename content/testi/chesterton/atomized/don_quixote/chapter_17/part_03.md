@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/don-quixote-(chesterton)">Don Quixote</a> › <a href="/testi/chesterton/atomized/don_quixote/chapter_17">Chapter 17</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/don_quixote/chapter_17/part_02">‹ part 02</a><a class="ex-next" href="/testi/chesterton/atomized/don_quixote/chapter_17/part_04">part 04 ›</a></div>
@@ -136,3 +138,48 @@ But I have no note of the date or occasion of their presenting
 Masterpieces in the manufacture of dyes or pigments.  And I have been
 unable to obtain any evidence of their labouring personally in the craft,
 or of their educating their apprentices to do so."
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/don-quixote-(chesterton)">Don Quixote</a> › <a href="/testi/chesterton/atomized/don_quixote/chapter_17">Chapter 17</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/don_quixote/chapter_17/part_02">‹ part 02</a><a class="ex-next" href="/testi/chesterton/atomized/don_quixote/chapter_17/part_04">part 04 ›</a></div>
+</nav>
+
+«So come ti senti, [[Michael]]», disse lei. «È odioso dover trionfare su persone che ci sono care. E so che John Braintree ti è caro.»
+
+Egli la guardò per un istante da sopra la spalla, e lei fu del tutto trasalita dall'espressione del suo volto.
+
+«Non sapevo che ti fosse caro fino a questo punto», disse lei.
+
+Egli voltò via il capo bruscamente; anzi, vi era qualcosa di stranamente brusco in tutto il suo contegno.
+
+«Ma io conosco [[Well|bene]] anche l'altra parte di te», disse lei. «Farai giustizia.»
+
+«Sì», rispose lui. «Farò giustizia.» E si prese il capo fra le mani.
+
+Ella provò un fine rispetto per la sua spezzata [[Friendship|amicizia]] e lasciò in silenzio la biblioteca.
+
+Un minuto o due dopo egli riprese la penna e continuò ad annotare documenti e a sfogliare relazioni; ma prima di far ciò guardò per un istante la vasta volta della biblioteca dove aveva faticato così a lungo; e specialmente quell'alto angolo dello scaffale a cui si era arrampicato al principio di questa storia.
+
+John Braintree, che non aveva mai nutrito alcuna particolare riverenza per il romantico sfarzo dell'ora, neppure quando era lodato dalla persona a cui teneva di più, non era probabile che lo ammirasse quando gli si presentava schierato con tutti i terrori del giudizio contro di lui, e adornato delle vesti di porpora e delle dorate impugnature di [[Sword|spada]] di tutte le persone a cui teneva di meno. Il suo contegno era apertamente sprezzante; ma il disprezzo non è mai spregevole in coloro che sono sconfitti e sfidanti. Quando gli fu chiesto se desiderasse aggiungere qualche dichiarazione preliminare ai documenti posti dinanzi alla [[Court|Corte]], egli era apparso sfidosamente distaccato come Carlo Primo.
+
+«Non vedo alcuna [[Court|Corte]]», disse. «Vedo soltanto un mucchio di persone che sembrano travestite da [[Court|figure]] di carte da gioco. Non conosco alcuna ragione per cui dovrei riconoscere la forza bruta dei briganti, semplicemente perché sono briganti da palcoscenico. Suppongo che dovrò ascoltare mentre la buffonata procede; ma non mi propongo di dire nulla finché non tirerete fuori i cavalletti e i morsetti per i pollici e le fascine per bruciarci vivi. Poiché presumo che abbiate fatto rivivere anche queste, con tutte le svanite bellezze del Medioevo. Voi siete uno studioso di riconosciuta dottrina e suppongo che ci darete una completa ricostruzione storica del medievalismo.»
+
+«Sì», rispose Herne con completa gravità. «Non nei dettagli, forse, giacché nessuno difenderebbe ogni dettaglio di un qualsiasi sistema, ma nel disegno generale noi [[Desire|desideriamo]] ricostruire lo schema medievale. Voi, tuttavia, non siete accusato di alcuna condotta che potesse in alcun caso comportare la pena del rogo; e quella questione, pertanto, non si pone.»
+
+«Oh, grazie», disse Braintree amabilmente. «Ma non è questo un favoritismo?»
+
+«All'ordine, all'ordine», gridò Julian Archer indignato. «Come possiamo procedere se la [[Court|Corte]] non è rispettata?»
+
+«Ma per queste cose», continuò l'Arbitro, «per le quali si può dimostrare che siete responsabile, in relazione a un qualsiasi pericolo pubblico, per queste voi e ogni altra persona sarete giudicati da questa [[Court|Corte]] e da questa [[Court|Corte]] [[Alone|soltanto]]. Non sono io a parlare: è la Legge.»
+
+[[Michael]] Herne troncò a mezz'aria, con un gesto tagliente come il fendente di una [[Sword|spada]], il grido di acclamazione e di applauso che salutò le sue parole. Gli uomini che lo applaudivano, anticipando le sue parole con volti raggianti, avevano fino allora sempre trovato quelle parole simili alle parole di un condottiero, squillanti e trascinanti e battagliere e persino sfarzose. Ma egli aveva un senso troppo serio di tutte le nuove parti che recitava per essere sfarzoso sul seggio del giudizio. Qualunque condanna dovesse pronunciare contro i nemici del suo nuovo regno, doveva essere pesata con la compostezza e persino con la freddezza di una giustizia impersonale. L'applauso si spense in un [[Silence|silenzio]]; ma era ancora un [[Silence|silenzio]] impaziente e persino entusiasta. Egli proseguì con una voce singolarmente piana e persino monotona.
+
+«È stato nostro compito», disse, «recuperare un ordine antico. Vorremmo rifare una vecchia legge, ma in ciò non possiamo del tutto sottrarci al dovere di farne una nuova. Le grandi epoche da cui traiamo la nostra vita erano ricche di varietà e persino di eccezioni; e da esse dobbiamo astrarre principi generali a prescindere dai dettagli contraddittori. Nel caso dinanzi a noi delle contese sorte intorno a ciò che si chiamano i prodotti del Carbone, specialmente il lavoro necessario alla produzione di tinture e colori dal catrame di carbone, dobbiamo cominciare col ricorrere a certi principi generali che un tempo governavano il lavoro necessario del mondo. Quei principi erano assai diversi da quelli di cui più udiamo parlare nei tempi più moderni, e nei movimenti di un'epoca inquieta e spesso senza legge. Erano contrassegnati dall'ordine e, aggiungerò, dall'obbedienza.»
+
+Un mormorio d'approvazione ruppe fra i suoi seguaci; e Braintree, dall'altra parte, emise un'aspra risata.
+
+«Nell'antica organizzazione delle corporazioni», continuò Herne, «questa obbedienza era attesa dagli apprendisti e dai garzoni verso una classe che può, in senso lato, chiamarsi, come nel nostro sistema moderno, i Maestri. Un Maestro era colui che produceva un Capolavoro. Vale a dire, aveva superato un esame da parte della corporazione con un'opera compiuta del mestiere; e la corporazione esigeva un serio livello di maestria. Era normalmente con gli attrezzi e la bottega e il capitale privato di questo Maestro che l'opera veniva compiuta; l'apprendista era colui a cui questo mestiere veniva insegnato, e il garzone colui che non lo aveva del tutto appreso, ma stava completando la propria [[Education|istruzione]] mettendosi a servizio presso diversi maestri, spesso nel corso di un [[Journey|viaggio]] attraverso luoghi diversi. Gli uomini potevano infine diventare Maestri producendo Capolavori a tempo debito. Questa è, a grandi linee, l'antica organizzazione del Lavoro. Applicandola al caso presente, troviamo la seguente situazione. Vi sono, nell'ampio campo coperto da questo lavoro, praticamente tre Maestri; nel senso di uomini con i cui attrezzi e capitale il mestiere è condotto. Ho accertato i loro nomi e trovo che fra loro si spartiscono praticamente quella proprietà. Uno è Sir Howard Pryce, in passato Maestro nella fabbricazione del sapone, ma divenuto in qualche rapido modo, a sua volta, Maestro nella materia delle Vernici e delle Tinture. Il secondo è [[Hubert]] [[arthur|Arthur]] Severne, ora Barone Seawood. Il terzo è John Henry Heriot Eames, ora noto come Conte di Eden. Ma non ho alcuna annotazione della data o dell'occasione in cui essi presentarono Capolavori nella fabbricazione di tinture o pigmenti. E non sono stato in grado di ottenere alcuna prova che essi lavorino personalmente nel mestiere, o che educhino i loro apprendisti a farlo.»

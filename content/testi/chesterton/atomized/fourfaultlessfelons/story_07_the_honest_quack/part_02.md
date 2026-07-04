@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/fourfaultlessfelons-(chesterton)">FourFaultlessFelons</a> › <a href="/testi/chesterton/atomized/fourfaultlessfelons/story_07_the_honest_quack">Story 07 The Honest Quack</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/fourfaultlessfelons/story_07_the_honest_quack/part_01">‹ part 01</a><a class="ex-next" href="/testi/chesterton/atomized/fourfaultlessfelons/story_08_ii_the_man_with_the_black_bag/part_01">part 01 ›</a></div>
@@ -197,3 +199,196 @@ more and more to treating this place as sacred to his own [[Solitude|solitude]],
 through long days and nights nothing ever stirred in that strange
 
 enclosure but its lonely master walking round and round his tree.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/fourfaultlessfelons-(chesterton)">FourFaultlessFelons</a> › <a href="/testi/chesterton/atomized/fourfaultlessfelons/story_07_the_honest_quack">Story 07 The Honest Quack</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/fourfaultlessfelons/story_07_the_honest_quack/part_01">‹ part 01</a><a class="ex-next" href="/testi/chesterton/atomized/fourfaultlessfelons/story_08_ii_the_man_with_the_black_bag/part_01">part 01 ›</a></div>
+</nav>
+
+[[Home|dimora]]. Non può esistere in nessun luogo al mondo qualcosa di simile a quella fantasia
+
+di terra e cielo e [[Water|acqua]]; costruita su ponti come [[Venice|Venezia]], e che lascia
+
+sbirciare la luce del giorno attraverso le sue caverne come l'inferno nel poema di [[Milton]];
+
+fenduta come dall'Alfeo, il [[River|fiume]] sotterraneo, e che si erge nuda e libera dalla
+
+terra aggrappata come i morti alla tromba del giudizio. Non ho mai visto
+
+nulla di simile. Non desidero davvero vedere nient'altro.»
+
+C'era forse qualche scusante per quel suo capriccio d'[[Imagination|immaginazione]], nelle
+
+condizioni momentanee che aggiungevano mistero al capriccio della [[Nature|natura]]. Il
+
+cielo tempestoso sopra la brughiera era mutato dal grigio al porpora, e da quello
+
+a una sorta di cupo rosso indiano che si ravvivava soltanto all'orizzonte in
+
+un'unica striscia scarlatta di tramonto. Contro questo sfondo il nero e
+
+bizzarro profilo dell'albero aveva davvero l'aspetto di qualcosa di più
+
+mistico che un oggetto naturale; come se un albero cercasse di camminare o un
+
+[[Monster|mostro]] delle acque si levasse in uno sforzo selvaggio di volare. Ma anche se
+
+i compagni di Windrush fossero stati più partecipi di tali umori di quanto
+
+fossero, difficilmente sarebbero stati preparati alla risolutezza con cui egli
+
+si gettò giù su un ciuffo d'erba accanto al ruscello e tirò fuori una
+
+pipa e una borsa da tabacco, quasi come se si fosse appena seduto in una poltrona
+
+al club.
+
+«Posso chiederti che cosa stai facendo?» chiese l'amico.
+
+«Sto acquisendo diritti di occupante» disse l'altro.
+
+Entrambi lo assediarono di rimostranze, e apparve sempre più
+
+evidente agli altri che egli faceva perfettamente sul serio, anche se non era
+
+perfettamente sano di mente. L'uomo d'affari gli indicò in maniera brusca che,
+
+se davvero e sinceramente s'interessava a quell'assurdo brandello di terra incolta,
+
+avrebbe fatto meglio a consultare gli agenti della tenuta di cui esso faceva
+
+parte, poiché non avrebbe ottenuto alcun «diritto di occupante» in mezzo secolo.
+
+Con estremo stupore del consulente, il poeta lo ringraziò assai
+
+gravemente per il consiglio e tirò fuori un pezzo di carta per annotare il
+
+nome e l'indirizzo dell'agente.
+
+«Nel frattempo» disse il signore commerciante con gran decisione, «poiché questo
+
+non mi pare affatto un luogo gradevole in cui accovacciarsi, dovrai
+
+venire ad accovacciarti ai Tre Pavoni se vuoi trattare ancora qualche
+
+affare con me.»
+
+«Non fare lo [[Fool|sciocco]], Windrush» disse l'altro compagno bruscamente, «non puoi
+
+davvero voler essere lasciato qui tutta la [[Night|notte]].»
+
+«Guarda caso è esattamente quel che voglio» replicò Windrush. «Ho
+
+visto il sole affondare nella mia pozza privata, e voglio veder sorgere la [[Moon|luna]]
+
+da essa. Non si può biasimare un aspirante acquirente per aver messo alla prova la
+
+proprietà in ogni condizione.»
+
+L'amico d'affari si era già voltato, e la sua figura scura e robusta,
+
+che esprimeva disprezzo nella linea stessa della schiena, era scomparsa dietro l'
+
+albero sconquassato. L'altro uomo indugiò ancora un momento, ma di fronte
+
+all'irrazionale razionalità dell'ultima osservazione, anch'egli seguì lo
+
+stesso cammino. Aveva percorso circa sei metri e stava anch'egli girando attorno all'
+
+albero, quando l'intero contegno del poeta mutò all'improvviso. Egli gettò la
+
+pipa con una parola di scusa e rincorse gli amici con uno stile e un gesto
+
+del tutto nuovi, inchinandosi con ampi movimenti di cortesia.
+
+«Chiedo scusa» disse magnificamente; «[[Hope|spero]] proprio che tornerete a
+
+scendere alla mia dimoretta. [[Fear|Temo]] di aver mancato di ospitalità.»
+
+Dopo aver egli stesso indugiato un momento o due presso l'albero e poi
+
+ripreso il suo posto sulla riva, sedette contemplando in maniera affascinata le
+
+pozze davanti a sé che, nell'ultima intensità del tramonto, brillavano come
+
+laghi di [[Blood|sangue]]. Rimase effettivamente così per molte ore, vedendo le rosse
+
+pozze farsi nere con la [[Night|notte]] e bianche col chiaro di luna; come se fosse
+
+davvero qualche eremita indù caduto in una pietrosa estasi. Ma quando
+
+si mosse la mattina seguente, sembrava colmo di una praticità assai più
+
+[[Novel|nuova]] e sorprendente. Si recò dagli agenti della
+
+tenuta; spiegò e trattò per diversi mesi, e alla fine
+
+divenne l'effettivo possessore legale di circa due acri di terreno
+
+che circondavano il suo prediletto capriccio di vegetazione, e procedette a recintarlo
+
+con la più matematica rigidità, come un colono che pianta i paletti di una
+
+concessione in un [[Desert|deserto]]. Il resto della sua straordinaria impresa fu tanto
+
+più straordinario in quanto relativamente ordinario. Costruì una piccola
+
+[[house|casa]] sul terreno; si diede ad abitudini di operosità letteraria e di
+
+rispettabilità che presto gli consentirono di trasformarla in una dimora di campagna
+
+assai presentabile. A tempo debito completò persino la propria solidificazione
+
+sociale prendendo moglie, la quale morì dopo avergli dato un solo
+
+[[Child|figlio]], una figlia. La figlia crebbe abbastanza felicemente in quelle rustiche
+
+ma non rozze condizioni, e la vita del signor Walter Windrush proseguì in
+
+sufficiente serenità, fino all'avvento della grande [[Tragedy|tragedia]] della sua tarda
+
+vita.
+
+Il nome di quella [[Tragedy|tragedia]] era [[London|Londra]]. L'infinita espansione della [[City|città]]
+
+venne strisciando su quelle colline e quelle lande come un mare montante, e il
+
+resto della sua [[history|storia]], o di quella parte della sua [[history|storia]], riguardò interamente
+
+i suoi umori di sfida e le sue misure di difesa di fronte a
+
+un così incongruo [[deluge|diluvio]]. Giurò per tutte le Muse che se quell'
+
+odioso labirinto di bruttezza e volgarità doveva davvero circondare il suo
+
+sacro albero e il suo segreto [[Garden|giardino]], quanto meno non doveva toccarli. Egli
+
+eresse un muro ridicolmente alto tutt'attorno al luogo; osservava la
+
+più grande cerimonia nell'ammettervi chicchessia, e anzi, verso la
+
+fine, la cerimonia s'indurì piuttosto in sospetto. Certi ospiti incauti avevano
+
+trattato il [[Garden|giardino]] come se fosse un [[Garden|giardino]]; anzi, persino l'albero come se
+
+fosse un albero. E poiché era suo vanto che questo suo eremo fosse l'ultimo
+
+spazio libero della terra rimasto in Inghilterra, e il rifugio di una poesia
+
+dappertutto altrove conquistata dalla prosa, cadde da ultimo nell'abitudine di
+
+chiudere a chiave la porta del [[Garden|giardino]] e di mettersi la chiave in tasca. In
+
+ogni altro aspetto della vita era assai ospitale e umano; concedeva
+
+alla figlia ottimi [[Time|momenti]] in ogni altra direzione, ma tendeva
+
+sempre più a trattare quel luogo come sacro alla propria [[Solitude|solitudine]], e
+
+per lunghi giorni e lunghe notti nulla si muoveva mai in quello strano
+
+recinto se non il suo solitario padrone che girava e rigirava attorno al suo albero.

@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/eugenics-(chesterton)">Eugenics</a> › <a href="/testi/chesterton/atomized/eugenics/chapter_03">Chapter 03</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/eugenics/chapter_03/part_17">‹ part 17</a><a class="ex-next" href="/testi/chesterton/atomized/eugenics/chapter_03/part_19">part 19 ›</a></div>
@@ -124,3 +126,36 @@ When I was in [[America]], people were already "defending" tobacco.
 People who defend tobacco are on the [[Road|road]] to proving that daylight
 is defensible, or that it is not really sinful to sneeze.
 In other words, they are quietly going mad.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/eugenics-(chesterton)">Eugenics</a> › <a href="/testi/chesterton/atomized/eugenics/chapter_03">Chapter 03</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/eugenics/chapter_03/part_17">‹ part 17</a><a class="ex-next" href="/testi/chesterton/atomized/eugenics/chapter_03/part_19">part 19 ›</a></div>
+</nav>
+
+La prima volta ne udii una durante la mia traversata verso l'[[America]], in mezzo al mare in vista del Nuovo Mondo, con la Statua della Libertà che cominciava a profilarsi all'orizzonte. Dalle labbra di un giovane ingegnere scozzese, la persona più impensata al mondo, udii per la prima [[Time|volta]] queste immortali parole tratte da una [[Song|canzone]] di music-hall di [[London|Londra]]:—
+
+    «Il babbo è stato licenziato dagli impianti dell'[[Water|acqua]]
+     per aver fumato la sua vecchia pipa di radica;
+     il babbo è stato licenziato dagli impianti dell'[[Water|acqua]]
+    perché poteva dar [[Fire|fuoco]] agli impianti dell'[[Water|acqua]].»
+
+Come dissi ai miei amici in [[America]], penso non sia da patriota vantarsi; e il vantarsi in sé non è certo cosa di cui vantarsi. [[Doubt|Dubito]] del potere persuasivo dell'inglese quale esemplificato in Kipling, e lo si può facilmente imporre agli stranieri in dose eccessiva, persino quale esemplificato in Dickens. Non sono affatto un imperialista, e solo in rare e opportune occasioni uno sciovinista. Ma quando odo quelle parole sul babbo e sugli impianti dell'[[Water|acqua]], quando odo sotto cieli stranieri lontani qualcosa di così gloriosamente inglese come quello, allora davvero (dissi loro), allora davvero:—
+
+    «Ringrazio la bontà e la grazia
+     che alla mia nascita hanno sorriso,
+     e mi hanno fatto, come qui mi vedete,
+     un piccolo [[Child|bimbo]] inglese.»
+
+Ma quella nobile strofa sugli impianti dell'[[Water|acqua]] ha altri elementi di nobiltà oltre alla nazionalità. Fornisce un compatto e quasi perfetto compendio dell'intero problema sociale nei paesi industriali come l'Inghilterra e l'[[America]]. Se volessi esporre sistematicamente gli elementi del problema etico ed economico a Pittsburgh o a Sheffield, non potrei far di meglio che prendere queste poche parole come testo, e suddividerle come i punti di un sermone. Permettetemi di annotare qui i punti in modo un po' sommario.
+
+I.— Il babbo. Questa parola è ancora in uso tra i più ignoranti e mal pagati della comunità industriale; ed è l'insegna di un'antica convenzione o unità chiamata la famiglia. Un uomo e una donna, avendo giurato di essere fedeli l'uno all'altra, l'uomo si rende responsabile di tutti i figli della donna, ed è così genericamente chiamato «babbo». Non si deve supporre che il poeta o cantore sia necessariamente uno dei figli. Può essere la moglie, chiamata dal medesimo rituale «mamma». Le povere mogli inglesi dicono «babbo» come le povere mogli irlandesi dicono «Lui», intendendo il capo titolare della [[house|casa]]. Il punto da cogliere è che tra gli ignoranti questa convenzione o usanza esiste ancora. Il babbo e la famiglia sono le fondamenta del pensiero; l'autorità naturale viene ancora naturale al poeta; ma è sovrapposta e contrastata da autorità più artificiali; il funzionario, il maestro di scuola, il poliziotto, il datore di lavoro, e così via. Che cosa siano queste forze che combattono la famiglia lo vedremo, miei cari fratelli, quando passeremo al nostro secondo punto; che è:—
+
+2.— È stato licenziato. Questo idioma segna uno stadio della [[history|storia]] della lingua più tardo del comparativamente primitivo vocabolo «babbo». È inutile discutere se il termine provenga dalla Turchia o da qualche altra società servile. In [[America]] dicono che il babbo è stato buttato fuori. Ma esso implica l'intero singolare sistema economico sotto il quale il babbo deve ora vivere. Benché per tradizione familiare lo si supponga un padrone, egli può ora, per tradizione industriale, essere soltanto un particolare genere di servo; un servo che non ha la sicurezza di uno schiavo. Se possedesse la propria bottega e i propri arnesi, non potrebbe essere licenziato. Se il suo padrone possedesse lui, non potrebbe essere licenziato. Lo schiavo e il membro della gilda sanno dove [[Sleep|dormiranno]] ogni [[Night|notte]]; era soltanto il proletario dell'industrialismo individualista che poteva essere licenziato, se non nello stile del Bosforo, almeno nel senso del Lungotamigi. Passiamo al terzo punto.
+
+3.— Dagli impianti dell'[[Water|Acqua]]. Questo dettaglio della vita del babbo è assai importante; poiché questa è la risposta alla maggior parte dei socialisti, come la sezione precedente lo è a tanti dei capitalisti. Gli impianti dell'[[Water|acqua]] che impiegavano il babbo sono un'istituzione assai grande, ufficiale e impersonale. Che si tratti tecnicamente di un dipartimento burocratico o di una grande impresa, ciò comporta poca o nessuna differenza nei sentimenti del babbo nei suoi confronti. Gli impianti dell'[[Water|acqua]] potrebbero o non potrebbero essere nazionalizzati; e ciò non farebbe alcuna necessaria differenza quanto al licenziamento del babbo, e nessuna differenza affatto quanto all'accusa contro di lui di giocare col [[Fire|fuoco]]. Anzi, se i capitalisti hanno più probabilità di licenziarlo, i socialisti hanno probabilità ancor maggiori di proibirgli il fumo. Non vi è alcuna [[Freedom|libertà]] per il babbo se non in una qualche sorta di proprietà privata di cose come l'[[Water|acqua]] e il [[Fire|fuoco]]. Se possedesse il proprio [[Well|pozzo]], la sua [[Water|acqua]] non potrebbe mai essere tagliata, e finché siede accanto al proprio [[Fire|fuoco]] la sua pipa non potrà mai essere spenta. Questo è il vero significato della proprietà, e il vero argomento contro il Socialismo; probabilmente l'unico argomento contro il Socialismo.
+
+4.— Per aver fumato. Nulla contrassegna questa bizzarra fase intermedia dell'industrialismo più stranamente del fatto che, mentre i datori di lavoro rivendicano ancora il diritto di licenziarlo come un estraneo, cominciano già a rivendicare il diritto di sorvegliarlo come un figlio. Economicamente egli può andare a morir di fame sul Lungotamigi; ma eticamente e igienicamente dev'essere controllato e coccolato nella nursery. Il [[government|Governo]] ripudia ogni responsabilità nel provvedere a che egli abbia il pane. Ma ansiosamente accetta ogni responsabilità nel provvedere a che egli non abbia la birra. Approva una legge sull'assicurazione per costringerlo a procurarsi medicine; ma è dichiaratamente indifferente a che egli sia in grado di procurarsi i pasti. Così, mentre il licenziamento è incoerente con la famiglia, la sorveglianza è in realtà incoerente col licenziamento. L'intera faccenda è una aggrovigliata catena di contraddizioni. È vero che nel particolare e sacro testo delle scritture che stiamo qui considerando, il fumo è proibito su un fondamento generale e pubblico e non su uno medicinale e privato. Ma è nondimeno pertinente ricordare che, come i suoi padroni hanno già dimostrato che l'alcol è un [[Poison|veleno]], potranno presto dimostrare che la nicotina è un [[Poison|veleno]]. E cosa più significativa di tutte, questa sorta di pericolo è persino maggiore in quella che si chiama la nuova [[democracy|democrazia]] d'[[America]] che in quella che si chiama la vecchia oligarchia d'Inghilterra. Quando ero in [[America]], la gente stava già «difendendo» il tabacco. Le persone che difendono il tabacco sono sulla [[Road|strada]] che porta a dimostrare che la luce del giorno è difendibile, o che non è davvero peccaminoso starnutire. In altre parole, stanno tranquillamente impazzendo.

@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/fourfaultlessfelons-(chesterton)">FourFaultlessFelons</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/fourfaultlessfelons/story_14_v_the_thief_on_trial">‹ Story 14 V The Thief On Trial</a><a class="ex-next" href="/testi/chesterton/atomized/fourfaultlessfelons/story_16_the_loyal_traitor">Story 16 The Loyal Traitor ›</a></div>
@@ -443,3 +445,442 @@ wist he why, and what thereof he meant."
 And then he bent swiftly towards her; and she understood why that [[Garden|garden]]
 
 had always seemed to hold a secret and to be waiting for a surprise.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/fourfaultlessfelons-(chesterton)">FourFaultlessFelons</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/fourfaultlessfelons/story_14_v_the_thief_on_trial">‹ Story 14 V The Thief On Trial</a><a class="ex-next" href="/testi/chesterton/atomized/fourfaultlessfelons/story_16_the_loyal_traitor">Story 16 The Loyal Traitor ›</a></div>
+</nav>
+<nav class="excerpt-children">
+<div class="excerpt-children-label">In questa sezione</div>
+<ul><li><a href="/testi/chesterton/atomized/fourfaultlessfelons/story_15_vi_the_cleansing_of_the_name/part_01">Part 1</a></li><li><a href="/testi/chesterton/atomized/fourfaultlessfelons/story_15_vi_the_cleansing_of_the_name/part_02">Part 2</a></li></ul>
+</nav>
+
+VI LA PURIFICAZIONE DEL NOME
+
+IL processo e l'assoluzione di Alan Nadoway in un'aula di [[Court|tribunale]] furono soltanto un
+
+epilogo del vero dramma. Egli avrebbe forse detto che erano soltanto una
+
+arlecchinata al termine della fiaba scenica. La vera scena conclusiva e il
+
+calar del sipario avevano avuto luogo su quel verde palcoscenico di «The Lawns», che
+
+Millicent, per quanto strano, aveva sempre sentito simile a una specie di scenario
+
+teatrale, rigido eppure stravagante, con i profili frastagliati delle
+
+piante esotiche come fauci di squali e la bassa fila delle bow-window
+
+come gli occhialoni da automobilista di un [[Monster|mostro]]. A tutta la sua grottesca
+
+stranezza si era sempre mescolato nella sua mente qualcosa di quasi operistico eppure genuino;
+
+qualcosa di sentimento o passione reali quale vi era nell'Ottocento
+
+vittoriano, malgrado tutto ciò che si dice della compassatezza e del ritegno
+
+vittoriani. Era quella cosa essenzialmente [[Innocent|innocente]], quella cosa difettosa ma non cinica,
+
+il Movimento Romantico. L'uomo che le stava dinanzi, con la sua
+
+bizzarra e straniera mezza barba, aveva in sé qualcosa d'indescrivibile che
+
+apparteneva ad Alfred de Musset o a Chopin. Ella non sapeva in che sorta
+
+di armonia si mescolassero questi pensieri fantasiosi, ma sapeva che la
+
+musica era come un'antica melodia.
+
+Aveva appena pronunciato queste parole: «Non posso sopportare il [[Silence|silenzio]], perché è
+
+ingiusto. È ingiusto verso di voi».
+
+Ed egli aveva risposto: «È proprio perché è ingiusto verso di me che è giusto.
+
+Questa è tutta la storia; benché suppongo che voi la definireste una storia
+
+strana».
+
+«Non m'importa che parliate per enigmi», rispose Millicent [[Milton]]
+
+con fermezza, «ma voglio che comprendiate qualcosa di più. È ingiusto verso di
+
+me."
+
+Dopo un [[Silence|silenzio]] egli disse a bassa voce: «Sì; è questo che mi ha preso.
+
+È questo che mi ha spezzato in due. Mi sono imbattuto in qualcosa di più grande
+
+di tutto il piano che avevo fatto per la mia vita. [[Well|Ebbene]], suppongo che dovrò
+
+raccontarvi la mia storia».
+
+«Credevo», disse ella con un lieve sorriso, «che mi aveste già raccontato
+
+la vostra storia».
+
+«Sì», replicò Alan; «vi ho raccontato la mia storia, e come. Tutto verissimo, tralasciando
+
+soltanto le cose importanti».
+
+«[[Well|Ebbene]]», disse Millicent, «mi piacerebbe certamente udirla con le
+
+cose importanti al loro posto».
+
+«La difficoltà è», disse egli, «che le cose importanti non si possono
+
+descrivere. Le parole vanno tutte storte quando si descrivono simili cose. Erano
+
+più grandi di naufragi o di isole [[Desert|deserte]], ma accaddero tutte
+
+dentro la mia testa».
+
+Dopo un [[Silence|silenzio]] riprese, più lentamente, come un uomo che cerca nuove
+
+parole.
+
+«Quando stavo annegando nel Pacifico, credo di aver avuto una Visione. Mi [[Rose|sollevai]] per
+
+la terza [[Time|volta]] sulla cima di una grande onda e vidi una Visione. Credo
+
+che ciò che vidi fosse la Religione».
+
+Qualcosa negli involontari moti mentali della Lady inglese fu
+
+arrestato e quasi raggelato. Ella si sentì vagamente ostile a certe
+
+associazioni, non sapeva bene quali. Era essa stessa devotamente, se pure alquanto
+
+vagamente, legata a una tradizione di Alta Chiesa, ma coglieva solo a metà
+
+il pregiudizio che si era destato in lei. Gli uomini che vengono dalle colonie e
+
+dai confini della terra, e dicono di aver trovato la religione, quasi sempre intendono
+
+di aver «trovato Gesù» o di essere stati a un raduno revivalista in qualche luogo;
+
+e l'intera faccenda pareva socialmente incongrua con la cultura di lui e con la
+
+sua. Non somigliava affatto ad Alfred de Musset.
+
+Con la [[Uncanny|sinistra]] chiaroveggenza del mistico egli parve cogliere il suo
+
+fuggevole [[Doubt|dubbio]] e disse allegramente: «Oh, non intendo di aver incontrato un
+
+missionario battista. Vi sono due specie di missionari: quelli giusti e quelli
+
+sbagliati, e sbagliano entrambi. Almeno sbagliano entrambi riguardo alla
+
+cosa a cui sto pensando. I missionari stupidi dicono che i selvaggi si prostrano
+
+nel fango dinanzi a idoli di fango, e andranno tutti all'inferno per idolatria se
+
+non si fanno astemi e non portano bombette. I missionari
+
+intelligenti dicono che i selvaggi hanno grandi possibilità e spesso un
+
+codice morale assai elevato, il che è verissimo, ma non è il punto. Quel che
+
+non vedono è che assai spesso i selvaggi hanno davvero afferrato
+
+la religione, e che molte persone dotate di un codice morale elevato non sanno cosa
+
+significhi la religione. Fuggirebbero urlando di terrore, se solo
+
+scorgessero una traccia della Religione. È una cosa spaventosa.
+
+«Ne appresi qualcosa dal pazzo con cui vissi sull'isola
+
+[[Desert|deserta]]. Vi ho detto ch'egli era praticamente impazzito, oltre che essersi fatto [[Well|del tutto]]
+
+selvaggio. Ma c'era qualcosa da imparare da lui, che non si può imparare
+
+dalle società etiche e dai predicatori popolari. Il poveretto era approdato
+
+a riva aggrappandosi a un buffo ombrello all'antica, che per caso
+
+aveva il manico intagliato in un volto [[Grotesque|grottesco]], e quando emerse delirando
+
+dal suo delirio, per quel tanto che mai ne emerse, considerava l'ombrello
+
+come il dio che lo aveva salvato, e lo eresse in una specie di
+
+sacrario e vi si prostrava dinanzi e gli offriva sacrifici. È questo il
+
+punto... I sacrifici. Quando aveva fame bruciava dinanzi ad esso un po' del suo
+
+cibo. Quando aveva sete, versava ugualmente un po' della
+
+birra indigena che fabbricava. Credo che avrebbe potuto sacrificarmi al suo
+
+idolo. Sono certo che avrebbe sacrificato se stesso. Non voglio dire» — parlava
+
+ancora più lentamente e con grande gravità — «non voglio dire esattamente che i
+
+cannibali abbiano ragione, o il sacrificio umano e tutto il resto. Hanno torto — se ci si
+
+riflette — hanno davvero torto, perché la gente non vuole essere
+
+mangiata. Ma se io voglio essere sacrificato chi mi fermerà? Nessuno,
+
+neppure Dio in persona, mi fermerà, se voglio patire ingiustizia. Vietarmi
+
+di patire ingiustizia sarebbe la più grande ingiustizia di tutte».
+
+«Siete piuttosto sconnesso», disse ella, «ma comincio ad avere un
+
+barlume di ciò che intendete. Presumo che non intendiate di aver visto dalla
+
+cima dell'onda la visione del divino ombrello».
+
+«E credete», egli chiese, «che ciò che vidi fosse un quadro di angeli
+
+che suonavano l'arpa uscito dalla [[Bible|Bibbia]] di famiglia? Ciò che vidi, per quanto io possa
+
+essere detto aver soltanto visto qualcosa, era mio padre seduto a capo
+
+della tavola, in qualche grande banchetto o consiglio d'amministrazione, e forse
+
+tutti che brindavano alla sua salute con lo champagne, mentre egli sedeva sorridendo grave,
+
+col suo bicchiere d'[[Water|acqua]] accanto, perché è un rigido
+
+astemio. Oh, mio Dio!»
+
+«[[Well|Ebbene]]», disse Millicent, mentre il sorriso tornava lentamente ad affiorare; «pare
+
+certo alquanto diverso dal paradiso e dalle arpe».
+
+«Ma io», proseguì Alan, «ero perduto come alga sciolta e affondavo come una
+
+pietra, per essere dimenticato nel fango sotto il mare».
+
+«Fu orribilmente duro», disse ella con voce tremante.
+
+Con sua sorpresa egli rispose con una risata piuttosto stridula. «Credete che io
+
+intenda di averlo invidiato?» esclamò. «Sarebbe un ben curioso modo di concepire
+
+la religione. Era tutto all'opposto. Dalla cima dell'onda guardai
+
+in basso e lo vidi con un limpido orrore di pietà. Dalla cima dell'onda
+
+pregai, per un solo istante appassionato, che la mia misera [[Death|morte]] potesse valere
+
+a liberarlo da quell'inferno.
+
+«Orribile ospitalità, orribile cortesia, orribili complimenti e
+
+congratulazioni, lodi e pubblicità e popolarità della vecchia ditta, le
+
+vecchie sane tradizioni commerciali, e il sole del [[success|successo]] alto in cielo e
+
+scintillante ovunque su un grande spaventoso sepolcro imbiancato dell'ipocrisia
+
+umana. E sapevo che dentro era pieno di ossa di morti, di
+
+uomini morti d'alcol o di fame o di [[Despair|disperazione]], in carceri e
+
+ospizi e manicomi, perché questa cosa odiosa aveva rovinato cento
+
+imprese per costruirne una. Orribile rapina, orribile tirannia, orribile
+
+trionfo. E, più orribile di tutto, ad aggiungersi a tutti gli orrori, il fatto che io
+
+amavo mio padre.
+
+«Era stato buono con me quand'ero piccolo, e quand'era più povero e
+
+più semplice, e da ragazzo cominciai col fare del suo [[success|successo]] un culto d'[[Hero|eroe]]. Le
+
+prime grandi réclame a colori furono per me ciò che i libri illustrati per l'infanzia
+
+sono per gli altri bambini. Erano una fiaba, ma, ahimè, l'unica
+
+fiaba a cui non si poteva continuare a credere. Così eccomi lì, a sentire ciò che
+
+sentivo eppure a sapere ciò che sapevo. Bisogna [[Love|amare]] come io amavo e odiare come
+
+io odiavo, prima di scorgere in lontananza la cosa chiamata Religione, il cui altro
+
+nome è Sacrificio Umano».
+
+«Ma di certo», disse Millicent, «le cose vanno assai meglio con la
+
+ditta ora».
+
+«Sì», disse egli, «le cose vanno meglio ed è questo che le rende peggiori. È
+
+questo il peggio di tutto».
+
+Fece una pausa un istante e proseguì in tono più basso: «Jack e Norman sono buoni
+
+figliuoli, buoni quanto possono esserlo», disse; «hanno fatto del loro meglio,
+
+ma per che cosa? Il loro meglio per farne il meglio possibile. Per coprire il tutto. Per dare una
+
+nuova mano di calce al sepolcro imbiancato. Le cose si devono
+
+dimenticare, le cose si devono lasciar cadere dalla conversazione, delle cose si deve
+
+pensare meglio — più caritatevolmente — dopo tutto ormai è una vecchia storia. Ma
+
+ciò non ha nulla a che fare con ciò che le cose sono, nel mondo dove le cose sono,
+
+e sempre sono; nel mondo del paradiso e dell'inferno. Nessuno ha chiesto scusa.
+
+Nessuno ha confessato. Nessuno ha fatto penitenza. E in quell'istante, dalla
+
+cima dell'onda, gridai a Dio che potessi fare penitenza, non fosse
+
+che morendo nel mare... Oh, non capite? Non
+
+capite quanto siano superficiali tutti questi moderni, quando vi dicono che non
+
+esiste cosa come l'Espiazione o la Redenzione, quando è l'unica cosa per
+
+la quale l'intero cuore langue dinanzi ai peccati del mondo? L'intero
+
+universo era in errore, mentre la menzogna di mio padre fioriva come il verde
+
+alloro. Non era la rispettabilità a poterlo redimere. Era la
+
+religione, l'espiazione, il sacrificio, la [[Suffering|sofferenza]]. Qualcuno doveva essere terribilmente
+
+buono, per bilanciare ciò che era tanto malvagio. Qualcuno doveva essere buono senza necessità, per
+
+far pendere i piatti di quel giudizio. Egli fu crudele e ne ebbe merito.
+
+Qualcun altro doveva essere buono e non averne merito alcuno. Non
+
+capite?»
+
+«Sì, comincio a capire», disse ella. «Vi trovo piuttosto
+
+incredibile».
+
+«In quell'istante giurai», disse Alan, «che mi sarei fatto chiamare con tutti i nomi
+
+con cui egli avrebbe dovuto essere chiamato. Avrei portato il nome di ladro, perché egli
+
+lo meritava. Sarei stato disprezzato e respinto e forse sarei finito in prigione,
+
+perché sceglievo a quel modo di essere mio padre. Sì, avrei ereditato.
+
+Sarei stato il suo erede».
+
+Pronunciò le ultime parole su una nota che la scosse dalla sua statuaria
+
+immobilità, ed ella gli venne incontro con un moto inconsapevole, esclamando:
+
+«Siete l'uomo più meraviglioso e sorprendente del mondo — per aver fatto
+
+una cosa tanto stupendamente stupida».
+
+Egli l'afferrò mentre si faceva avanti, con una brusca e schiacciante
+
+stretta delle mani, e poi rispose: «Voi siete la donna più meravigliosa
+
+e sorprendente del mondo, per avermi impedito di farla».
+
+«E anche questo pare terribile», disse ella. «Non voglio sentire di aver
+
+infranto una cosa folle così magnifica; forse ho avuto torto dopo tutto. Ma
+
+non pensate voi stesso che stesse diventando impossibile — per altri versi».
+
+Egli annuì grave, continuando a scrutarla negli occhi, che nessuno ormai
+
+avrebbe detto languidi e alteri. «Ormai conoscete la storia dall'interno
+
+a questo [[Time|punto]]. Cominciai come scassinatore del genere di Babbo Natale, introducendomi nelle
+
+case e lasciando doni in casseforti e armadi. Mi dispiaceva per il vecchio
+
+Crayle, la cui maledetta moglie pedante non gli permetteva di fumare, così gli
+
+buttai qualche sigaro. Ma non sono sicuro che nemmeno lì io non abbia fatto
+
+più male che bene. Poi credetti di dispiacermi soltanto per voi. Mi sarei
+
+dispiaciuto per chiunque fosse segretario nella nostra famiglia».
+
+Ella rise su una nota bassa e tremula. «E così mi buttaste un fermaglio
+
+d'argento con la catenella per tirarmi su».
+
+«Ma in quel caso», disse egli, «il fermaglio si agganciò e tenne».
+
+«Graffiò anche un po' mia zia», disse ella. «E nell'insieme, creò
+
+delle complicazioni, non è vero? E tutta quella faccenda delle tasche della povera
+
+gente — [[Well|ecco]], in qualche modo non potevo fare a meno di sentire che poteva cacciare loro tanto [[Well|quanto]]
+
+voi nei guai».
+
+«I poveri sono sempre nei guai», disse egli tetro. «Sono tutti
+
+quel che voi chiamate noti alla polizia. Era perfettamente sincero, quando vi
+
+dissi come mi irrita che non sia loro nemmeno permesso mendicare, ed è per questo
+
+che cominciai a far loro l'elemosina prima che cominciassero a mendicare. Ma è quanto
+
+mai vero che non si sarebbe potuto continuare a lungo. E anche questo mi ha insegnato
+
+un'altra lezione [[Well|ancora]], e capisco qualcosa nella vita umana e
+
+nella [[history|storia]] che non avevo mai capito prima. Perché la gente che ha davvero quelle selvagge
+
+visioni e voti, che vuole espiare e pregare per questo mondo malvagio,
+
+non possa davvero farlo in qualunque modo e dappertutto. Devono vivere secondo
+
+una regola. Devono entrare in monasteri e simili luoghi; è solo giusto verso il
+
+resto del mondo. Ma d'ora innanzi, quando vedrò queste grandi prigioni di
+
+[[Prayer|preghiera]] e di [[Solitude|solitudine]], o scorgerò i loro freddi corridoi e le loro nude
+
+celle, capirò. Saprò che nel cuore di quella regola
+
+e di quella routine vi è la più selvaggia [[Freedom|libertà]] della volontà umana; un turbine
+
+di libertà».
+
+«Alan, mi spaventate di nuovo», disse ella, «come se voi stesso foste
+
+qualcosa di strano e solitario, come se anche voi...»
+
+Egli scosse il capo, con piena comprensione. «No», disse; «ho
+
+scoperto tutto anche su me stesso [[Well|quanto]] agli altri. Molte persone commettono quell'errore
+
+su se stesse quando sono giovani. Ma un uomo è o di quella specie o
+
+dell'altra, e io sono dell'altra specie. Ricordate quando ci incontrammo la prima volta
+
+e parlammo di Chaucer e della catenella con l'Amor Vincit Omnia?»
+
+E senza distogliere gli occhi né le mani da dove riposavano, ripeté
+
+le parole d'esordio di [[Theseus]] nel Racconto del Cavaliere sul sacramento del
+
+[[Marriage|matrimonio]], e poiché egli pronunciò quelle nobili parole come se fossero una lingua
+
+viva, io le scriverò qui così, a dispetto dei commentatori
+
+letterari: "... The first Mover of the Cause above When he first made
+
+the fair chain of [[Love|love]] Great was the effect and high was his intent: [[Well]]
+
+wist he why, and what thereof he meant."
+
+E poi si chinò rapido verso di lei; ed ella comprese perché quel [[Garden|giardino]]
+
+era sempre parso custodire un segreto ed essere in attesa di una sorpresa.

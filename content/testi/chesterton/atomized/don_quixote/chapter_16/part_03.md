@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/don-quixote-(chesterton)">Don Quixote</a> › <a href="/testi/chesterton/atomized/don_quixote/chapter_16">Chapter 16</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/don_quixote/chapter_16/part_02">‹ part 02</a><a class="ex-next" href="/testi/chesterton/atomized/don_quixote/chapter_16/part_04">part 04 ›</a></div>
@@ -140,3 +142,138 @@ of his impossible [[Romance|romance]].  The pale and vivid face of Olive Ashley
 with its lift and poise and pointed chin had entered his world
 like a wedge, like the spear of something external and antagonistic.
 He had hated all her world all the more for not hating her.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/don-quixote-(chesterton)">Don Quixote</a> › <a href="/testi/chesterton/atomized/don_quixote/chapter_16">Chapter 16</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/don_quixote/chapter_16/part_02">‹ part 02</a><a class="ex-next" href="/testi/chesterton/atomized/don_quixote/chapter_16/part_04">part 04 ›</a></div>
+</nav>
+
+Ci fu di nuovo un lungo [[Silence|silenzio]]; il genere di [[Silence|silenzio]] che perdura
+perché è superfluo, o piuttosto impossibile, porre domande;
+e poi Braintree fece un passo avanti e disse: «[[Well|Ebbene]], io sono
+abbastanza infelice, se questo fa parte della [[logic|logica]] del caso;
+e tuttavia, di nuovo, fa proprio parte di questa infernale fornace di realtà
+che io non possa attaccare la [[logic|logica]]. Com'è facile attaccare la [[logic|logica]]!
+Com'è impossibile trovare qualcos'altro tranne la menzogna!
+E poi dicono che le donne non sono logiche; perché
+non sprecano mai [[logic|logica]] su cose che non contano. Mio Dio,
+c'è forse una via d'_uscita_ dalla [[logic|logica]]?»
+
+Per chiunque non avesse conosciuto la loro conoscenza reciproca,
+questa conversazione sarebbe sembrata una serie di indovinelli;
+ma Braintree conosceva le risposte prima che gli indovinelli fossero posti.
+Sapeva che questa donna si era impadronita di una religione
+e che una religione è spesso una [[Renunciation|rinuncia]].
+Non sarebbe andata con lui senza aiutarlo fino alla [[Death|morte]].
+E non l'avrebbe aiutato; gli avrebbe resistito fino alla [[Death|morte]].
+Quell'antagonismo tra loro, come era sorto in sciocche osservazioni
+e casuali _battute_ nel loro primo colloquio nella lunga
+sala di Seawood, quell'antagonismo, trasfigurato, illuminato,
+approfondito ma tanto più definito dal conoscere tutto il meglio
+l'uno dell'altra, era risorto a una nobile altezza di ragione,
+che egli era l'ultimo uomo al mondo a disprezzare.
+La gente ride di queste cose quando le trova nelle vecchie
+storie della virtù romana. Sono persone che non hanno mai amato
+al [[Time|tempo]] stesso una [[Truth|verità]] e un amico.
+
+«Ci sono alcune cose,» disse lei alla fine, «di cui io so
+più di te. Ti prendevi gioco delle mie vecchie
+storie di cavalieri e dame; non credo che ti abbasserai a riderne
+ora che le combatti; ma rideresti di nuovo se fossimo
+tornati ai vecchi giorni oziosi. Eppure quelle cose non sono del tutto oziose o ridicole.
+La poesia talvolta parla più chiaro della prosa, credo;
+e qualcuno disse che le nostre anime sono [[Love|amore]] e un perpetuo addio.
+Hai mai letto quella parte in Malory... sulla separazione
+di Lancillotto e Ginevra?»
+
+«Lo vedo nel tuo volto,» disse egli e la baciò una volta, e si
+separarono come gli [[lovers|amanti]] di Camelot.
+
+. . . . . . . .
+
+Fuori nelle buie strade le folle si erano fatte sempre più fitte;
+e c'erano mormorii di mistificazioni e indugi. Come tutti gli uomini
+nell'innaturale postura della rivolta, avevano bisogno di essere perpetuamente
+stimolati da qualcosa che accadeva; fosse favorevole o ostile.
+Una sfida dall'altra parte sarebbe andata bene; ma una sfida dalla propria
+parte era la migliore; e c'erano state promesse di una grande demagogica
+esibizione quella sera. Non c'era ancora stata alcuna positiva mancanza di puntualità;
+ma qualcosa diceva loro che da qualche parte c'era un piccolo intoppo.
+E fu cinque minuti dopo che Braintree, tra un ruggito di acclamazioni,
+apparve sul balcone.
+
+Non aveva detto una dozzina di parole prima che divenisse evidente che
+parlava in un tono che era stato inconsueto nella politica inglese.
+Aveva qualcosa da dire che era del genere definitivo.
+Rifiutava un tribunale; e in ciò c'è qualcosa di quel genere
+che sempre commuove il profondo elemento della poesia [[Epic|epica]] in una folla.
+Poiché nulla può davvero essere approvato o applaudito se non la finalità.
+Ecco perché tutte le etiche dell'evoluzione e le espansive idee
+di indefinito progresso non hanno mai fatto presa su alcuna folla umana.
+
+Il nuovo seggio del [[government|governo]] aveva istituito un seggio di giudizio, o camera
+d'inchiesta, per la composizione dello sciopero che Braintree guidava.
+Era ora uno sciopero in gran parte confinato ai Sindacati
+del suo stesso distretto; che erano impegnati nella fabbricazione
+di tinture e colori, in origine derivati dal Catrame di Carbone. La
+genuinissima energia che sosteneva il nuovo [[government|governo]] si era
+subito misurata col problema industriale in questione.
+Era probabile che sarebbe stato risolto su linee alquanto più assennate
+e semplici di quelle dei complicati compromessi
+del vecchio politico di professione. Ma sarebbe stato risolto.
+Questo era ciò che i nuovi governanti assai legittimamente pretendevano.
+Ed era questo a cui Braintree e gli scioperanti assai
+legittimamente si opponevano.
+
+«Per quasi cento anni,» disse, «ci hanno tuonato addosso circa il nostro dovere
+di rispettare la Costituzione: il [[King|re]] e la [[house|Camera]]
+dei Lord... e persino la [[house|Camera]] dei Comuni. Anche quella dovevamo rispettare.
+(Risate.) Dovevamo essere Costituzionalisti perfetti.
+Sì, amici miei, dovevamo essere i soli Costituzionalisti.
+Eravamo noi la gente tranquilla, i sudditi leali, la gente che prendeva
+sul serio il [[King|re]] e i lord. Ma loro dovevano essere abbastanza liberi.
+Ogni volta che il capriccio li prendeva di rovesciare la Costituzione,
+dovevano essere indulti in tutti i piaceri della rivoluzione.
+Potevano in ventiquattr'ore capovolgere il [[government|governo]] d'Inghilterra;
+e dirci che non dovevamo essere governati
+da una monarchia costituzionale ma da un ballo in maschera.
+Dov'è il [[King|re]]? Chi è il [[King|re]]? Ho sentito che è un
+bibliotecario interessato agli Ittiti. (Risate.) E noi siamo
+convocati davanti a questo tribunale rivoluzionario... (acclamazioni)... per spiegare
+perché per quarant'anni, sotto intollerabile provocazione,
+ci siamo astenuti dal ricorrere alla rivoluzione. (Forti acclamazioni.) Non ci importa
+se ascoltano il loro bibliotecario lunatico, se così vogliono.
+Lasceremo questo antico e tradizionale ordine di cavalleria che
+ha dieci settimane; rispetteremo i profondi principi Conservatori
+di continuità che non sono mai esistiti fino all'altro giorno.
+Ma non ascolteremo il suo giudizio. Non ci saremmo sottomessi
+a un Torismo legittimo. Non ci sottometteremo ora a un Torismo illegittimo.
+E se questa bottega di curiosità di Wardour Street ci manda un messaggio
+che dobbiamo comparire alla sua [[Court|Corte]]... la nostra risposta è in quattro parole:
+"Noi non verremo."»
+
+Braintree aveva descritto Herne come un bibliotecario interessato agli Ittiti
+ma non mancava mai, in pubblico o in privato, di riconoscerlo come un capo
+di uomini assai più interessato alla [[Resurrection|resurrezione]] del Medioevo.
+Eppure avrebbe assai sorpreso Braintree sapere come
+Herne fosse effettivamente occupato nel momento in cui le parole venivano pronunciate.
+C'era tra loro in verità quell'eterna [[Cross|contrapposizione]] di intenti
+che sorge tra i due opposti tipi di uomo veritiero.
+C'era tutto il contrasto tra l'uomo che sa fin dall'inizio
+esattamente ciò per cui si batte, il cui cerchio visivo, sia esso angusto
+o no, è intensamente chiaro, che vede tutte le cose esterne come concordi
+o discordi con esso... e quell'altro tipo che è consapevole
+di ogni cosa prima di essere consapevole di sé, che può divorare
+biblioteche prima di rendersi conto in quale mente esse siano state assorbite,
+che può creare terre fatate in cui la propria figura è invisibile
+o quantomeno trasparente. Braintree aveva saputo fin dall'inizio,
+quasi fin dal primo litigio nella lunga sala di Seawood,
+l'ironia della propria irritata ammirazione. Aveva sentito il [[Paradox|paradosso]]
+della propria impossibile [[Romance|storia d'amore]]. Il pallido e vivido volto di Olive Ashley
+col suo slancio e la sua posa e il mento appuntito era entrato nel suo mondo
+come un cuneo, come la lancia di qualcosa di esterno e antagonistico.
+Aveva odiato tutto il suo mondo tanto più per non odiare lei.

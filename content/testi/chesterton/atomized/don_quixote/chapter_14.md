@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/don-quixote-(chesterton)">Don Quixote</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/don_quixote/chapter_13">‹ Chapter 13</a><a class="ex-next" href="/testi/chesterton/atomized/don_quixote/chapter_15">Chapter 15 ›</a></div>
@@ -588,5 +590,590 @@ leadership of all England hardly seemed to him a change at all.
 For indeed there was in that [[house]]-party one face that had fallen
 into the habit of watching for all changes, like the changes
 of sunset and [[Dawn|dawn]].
+
+-^-
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/don-quixote-(chesterton)">Don Quixote</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/don_quixote/chapter_13">‹ Chapter 13</a><a class="ex-next" href="/testi/chesterton/atomized/don_quixote/chapter_15">Chapter 15 ›</a></div>
+</nav>
+<nav class="excerpt-children">
+<div class="excerpt-children-label">In questa sezione</div>
+<ul><li><a href="/testi/chesterton/atomized/don_quixote/chapter_14/part_01">Part 1</a></li><li><a href="/testi/chesterton/atomized/don_quixote/chapter_14/part_02">Part 2</a></li><li><a href="/testi/chesterton/atomized/don_quixote/chapter_14/part_03">Part 3</a></li><li><a href="/testi/chesterton/atomized/don_quixote/chapter_14/part_04">Part 4</a></li><li><a href="/testi/chesterton/atomized/don_quixote/chapter_14/part_05">Part 5</a></li></ul>
+</nav>
+
+CAPITOLO XIII
+
+IL VITTORIANO E LA FRECCIA
+
+La freccia che era entrata nel [[Summer|padiglione]] [[house|estivo]] con un suono
+simile a un [[Song|canto]] destò il degno proprietario del luogo
+a un mondo esterno che si era interamente trasformato.
+Perché si fosse trasformato, e quale fosse la [[Nature|natura]]
+della trasformazione, gli riuscì abbastanza sconcertante scoprirlo;
+ma è quasi altrettanto sconcertante descriverlo.
+Cominciò, in un certo senso, con la follia isolata di un uomo;
+eppure fu quasi ugualmente dovuto, per un [[Paradox|paradosso]] non insolito,
+all'altrettanto isolata [[Sanity|assennatezza]] di una donna.
+
+Il signor Herne, il bibliotecario, si era positivamente e definitivamente rifiutato
+di cambiarsi i vestiti.
+
+«[[Well|Beh]], non posso,» gridò in preda alla [[Despair|disperazione]]. «Semplicemente non posso. Mi sentirei
+uno [[Fool|sciocco]], proprio come se...»
+
+«[[Well|Ebbene]]?» chiese Rosamund guardandolo con occhi tondi.
+
+«Mi sentirei come se fossi in costume,» disse.
+Rosamund era meno spazientita di quanto ci si potesse aspettare.
+
+«Volete dire,» chiese lei molto lentamente, come se stesse riflettendo,
+«che vi trovate a sentirvi più naturale con quegli indumenti?»
+
+«Ma certo,» gridò lui con una specie di gioia.
+«Ma se sono più naturali. Molte cose sono davvero
+più naturali, benché io non le abbia mai avute in vita mia.
+È naturale tenere alta la testa, ma non l'avevo mai fatto prima.
+Mettevo le mani nelle tasche dei pantaloni e in qualche modo
+questo pare significhi stare sempre con una specie di curvatura.
+Ora metto le mani nella cintura e mi fa sentire dieci
+pollici più alto. Ma guardate questa lancia.»
+
+Aveva l'abitudine di andare in giro con la lancia da cinghiale che [[King|re]] [[Richard|Riccardo]]
+aveva portato nella sua veste di guardaboschi; e ora piantò l'asta
+nell'erba per attirarne l'attenzione di lei, benché fosse molto letteralmente
+semplice come un manico di picca.
+
+«Nel momento stesso in cui cominciate a portare un oggetto di questo genere,» gridò,
+«vi rendete subito conto del perché gli uomini di solito portassero lunghe
+pertiche dell'uno o dell'altro tipo; lance o picche o bastoni
+da pellegrino, o bastoni [[Pastoral|pastorali]]. Potete tenerli a distanza
+di braccio e poi gettare indietro la testa come se portasse un cimiero.
+Dovete chinarvi verso i piccoli bastoni da passeggio moderni per potervi
+appoggiare; come se vi appoggiaste a una stampella, e infatti è così.
+L'intero mondo nostro si appoggia a una stampella,
+perché è uno storpio.»
+
+Poi si fermò di colpo e la guardò con una specie di improvvisa timidezza.
+
+«Ma voi... Stavo giusto pensando che dovreste andare in giro
+con uno scettro come una lancia... ma, naturalmente... se davvero
+disapprovate tutto questo...»
+
+«Non ne sono sicura,» rispose lei con la sua maniera lenta e lievemente perplessa,
+che talvolta contrastava con la sua consueta e loquace efficienza,
+«non sono affatto sicura di disapprovarlo.»
+
+Egli parve provare un silenzioso urto di sollievo, non forse
+molto facile da spiegare. Ma in verità questo era l'elemento del suo
+contegno meno facilmente spiegabile. Malgrado tutta la sua testa alta
+e il suo contegno leonino nei momenti di astrazione, malgrado tutta la fissità
+del suo atteggiamento o della sua posa, non aveva alcuna aria di sfrontatezza né,
+in senso ordinario, di sfida. Era semplicemente imbarazzato,
+o piuttosto paralizzato, in presenza dei propri vecchi vestiti.
+In breve, aveva esattamente lo stesso atteggiamento nel togliersi
+il suo costume verde che aveva avuto un tempo nell'indossarlo.
+
+Quando Rosamund aveva attraversato con il suo passo rapido il prato fino al piccolo
+gruppo dove Herne discuteva con Braintree, chiunque al mondo,
+compresi i due sconvolti contendenti, si sarebbe aspettato
+che lei riducesse a nulla l'intera assurda disputa.
+Ci si sarebbe potuti aspettare che ordinasse al bibliotecario di correre a cambiarsi
+immediatamente i vestiti, come un monello che fosse caduto in uno stagno.
+Ma le bizzarre e quasi favolose creature chiamate anime umane
+non fanno sempre, o forse nemmeno spesso, ciò che ci si aspetta da loro.
+Se si potesse supporre che una qualsiasi persona assennata avesse previsto tutta questa
+folle vicenda, essa non avrebbe avuto alcun [[Doubt|dubbio]] su quale delle due donne
+coinvolte sarebbe stata più spazientita dalla sua follia.
+L'uomo assennato avrebbe detto che Olive Ashley, con il suo passatempo
+per il medievalismo, avrebbe compreso persino un medievalista piuttosto folle;
+mentre chiunque fosse moderna come la sua amica dai capelli rossi non si sarebbe nemmeno
+fermata a chiedersi se fosse medievalismo, di fronte all'ovvio
+fatto che era [[Madness|follia]]. Ma d'altronde nessun uomo assennato avrebbe mai
+creduto che sarebbe accaduto affatto.
+
+In ogni caso l'uomo assennato si sarebbe sbagliato, come spesso accade.
+Olive aveva sempre i propri [[Dreams|sogni]]: ma il cuore di Rosamund aveva fame
+di due cose, la semplificazione e l'azione. Il suo pensare era lento;
+perciò amava la semplicità. I suoi impulsi erano rapidi; perciò amava l'azione.
+
+Rosamund Severne, in senso corporeo, era nata degna di una [[Crown|corona]];
+e persino, in senso biografico, all'[[Shadow|ombra]] di un coronetto.
+Era suo destino muoversi contro un magnifico sfondo di [[River|fiume]]
+e colline terrazzate e le rovine di un luogo storico, e la medievale
+mascherata che aveva assunto pareva del tutto adatta alla sua presenza.
+Agli occhi visionari del bibliotecario, ella appariva ugualmente
+una principessa in quel costume o in uno più convenzionale. Ma questi
+accidenti di nascita e persino di [[Beauty|bellezza]] sono assai ingannevoli in psicologia.
+Se il signor Herne avesse posseduto maggiore conoscenza del mondo, egli avrebbe
+riconosciuto un tipo che si vede in ambienti assai diversi.
+La grande valle verde e la grande grigia [[house|casa]] dell'abbazia sarebbero
+svanite dalla sua vista ed egli avrebbe visto al loro posto scrivanie
+e macchine da scrivere e file di opere di consultazione assai noiose. Avrebbe
+visto in quel viso squadrato e in quegli occhi [[Grave|gravi]] e onesti un tipo
+assai moderno e assai variamente distribuito nel mondo moderno.
+Quella giovane donna la si trova in molti luoghi dove è richiesta
+per sostenere la vacillante spiritualità di uomini come il signor Herne.
+Come Segretaria della Compagnia di Colonizzazione Sottomarina, spiega con fermezza a
+una lunga processione di postulanti che c'è posto nel mare per più uomini
+di quanti vi siano mai entrati. Come Direttrice della Società dei Marciapiedi Elastici,
+conosce l'intera causa di questa essenziale [[Reform|riforma]], e sa mostrare
+come essa elimini la necessità di stivali migliori o di una vita in campagna.
+Il movimento per dimostrare che "[[Paradise Lost]]" fu scritto da Carlo II
+deve la sua vasta popolarità interamente alla sua energia e alla sua efficienza.
+Il congegno con cui la sommità dei cilindri può essere sollevata con uno spago,
+a scopo di ventilazione, non avrebbe mai raggiunto il suo attuale
+universale [[success|successo]], se non ci fosse stata una persona assennata nell'ufficio.
+In tutte queste posizioni ella ha la stessa potente semplicità
+e la stessa sincerità nel perseguire un'idea alla [[Time|volta]].
+In tutte queste posizioni è assai coscienziosa e assai priva di scrupoli.
+
+Era caratteristico di Rosamund che ella fosse sempre stata non
+solo sconcertata ma anche stancata dall'apertura mentale, o piuttosto dall'
+indiscriminata ospitalità intellettuale di un uomo come Douglas Murrel.
+A lei appariva mera vaghezza e vuoto e assenza di scopo.
+Non riusciva mai a comprendere come egli potesse essere al tempo stesso intimo amico
+di Olive e del suo medievalismo e di Braintree e del suo bolscevismo.
+Voleva qualcuno che facesse qualcosa; e Murrel si rifiutava assolutamente
+di fare qualcosa. Ma quando qualcuno era davvero pronto a fare qualcosa,
+ella ne era così contenta che trascurava piuttosto di criticare che cosa
+esattamente egli stesse per fare.
+
+Del tutto all'improvviso, e forse per caso, le si era fatto chiaro,
+al suo occhio così univoco, qualcosa come un raggio di luce che ella potesse seguire;
+qualcosa che potesse comprendere. Senza dubbio lo comprendeva
+meglio perché si collegava in modo blando alle
+tradizioni che le avevano insegnato fin dall'[[Childhood|infanzia]] a preservare.
+Non si era mai preoccupata del gusto del padre per l'araldica;
+non aveva nemmeno visto molto suo padre. Ma proprio come era
+lieta che suo padre fosse lì, era lieta che l'araldica fosse lì.
+Le persone che hanno quel genere di sostegno storico lo ricordano sempre,
+se non altro nel loro subconscio. In ogni caso, l'ovvia deduzione
+era errata, e la gente cominciò presto a dire che ella stesse effettivamente
+incoraggiando il bibliotecario nella sua veste di pazzo.
+
+È quasi superfluo dire che la figlia di Lord Seawood si muoveva
+trascinando nubi di gloria sotto forma di folle di giovanotti.
+Aveva in effetti un triplice titolo a quel genere di popolarità.
+Era un'ereditiera; ma va reso loro il merito di dire che molti dei
+più cavallereschi l'ammiravano non perché fosse un'ereditiera
+ma perché era bella. Era bella, ma va
+reso a lei il merito di dire che molti dei più razionali l'ammiravano
+non perché fosse una [[Beauty|bellezza]] ma perché era una brava ragazza;
+e più precisamente ciò che chiamavano una buona compagna. Ne seguiva,
+dunque, che dove ella conduceva molti l'avrebbero seguita, anche se li conduceva
+in una [[Dance|danza]] assai diversa dalle danze allora di moda.
+Così crebbe, metà per scherzo e sempre più sul serio,
+un nuovo "medievalismo" alla moda; una caccia in cui tutti
+i giovanotti seguivano la dama che seguiva il bibliotecario.
+E poiché c'era in ciò un certo candore da [[Love|amore]] acerbo,
+del [[Moon|lunatico]] che non si vergogna di piangere per la [[Moon|luna]],
+vi era in esso qualcosa della sincerità della giovinezza e della primavera.
+Era una [[Romance|storia d'amore]] tanto [[Well|quanto]] una goliardata. I giovanotti divennero
+in un certo modo poeti, sia pure poeti assai minori. Con l'aiuto di
+Herne come studioso e di Rosamund come vigorosa direttrice di scena,
+riempivano i loro versi di emblemi e insegne e processioni,
+ancor più sprezzanti della modernità dell'abito teatrale che
+essi avevano deposto e che Herne aveva conservato. I giovanotti erano
+particolarmente affascinati dall'idea di far rivivere l'uso dell'arco;
+forse con un subconscio [[Memory|ricordo]] delle frecce del dio dell'[[Love|amore]].
+Forse fu qualche sciocca associazione con [[Valentine|San Valentino]] a dare inizio
+al gioco di inviare frecce come messaggere di benvenuto o di guerra.
+
+Il tiro con l'arco era una moda ai [[Time|tempi]] vittoriani; e molte
+dame e molti gentiluomini vittoriani possono aver aleggiato attorno
+ai prati di Seawood Abbey, dediti a quel grazioso sport;
+molti possono persino aver rivisitato la scena come lievemente stupiti
+[[Ghosts|fantasmi]] in lunghi favoriti e pantaloni a tromba o in nebulose
+crinoline che ondeggiavano e fluttuavano come palloni. Molti insigni
+personaggi vittoriani avevano senza dubbio onorato quel passatempo;
+ma lo facevano entro certi visibili limiti vittoriani.
+Scagliavano le loro frecce correttamente contro i bersagli e non (inspiegabilmente)
+contro i cilindri. Usavano ben pochi di quei grandi gesti che
+nel passato sono appartenuti ai grandi archi degli eroi.
+Sir Robert Peel, se prudente come [[Ulysses|Ulisse]], non si voltò dicendo:
+«Ora tirerò a un altro bersaglio,» per trafiggere con il suo
+dardo il panciotto riccamente decorato del signor Disraeli.
+Non è registrato da nessuna parte che Lord Derby abbia posato una mela
+in cima al cilindro di Lord Stanley, per poi informare cupamente
+il Primo Ministro (poniamo Lord Aberdeen)
+che teneva un'altra freccia per usi politici più elevati.
+Lord Palmerston, benché effettivamente noto col soprannome di Cupido,
+non attirava l'attenzione delle dame che favoriva
+trafiggendone in questa aerea maniera i cuffiotti vittoriani.
+Lord Shaftesbury raramente compariva nel personaggio
+e nel costume dell'arciere sulla Fontana di Shaftesbury;
+ed è un errore supporre che egli vi sia raffigurato.
+Soprattutto, non venne di certo mai in mente al celebre
+Rowland [[Hill]] che scagliare frecce in tutte le direzioni
+potesse costituire un sostituto della Posta a un Penny.
+Non c'era, dunque, alcun reale precedente storico per lo stato
+di cose che cominciò a svilupparsi rapidamente a Seawood Abbey,
+sotto l'influenza del bibliotecario evaso.
+
+Quest'ultima idea, di recapitare comunicazioni casuali a persone
+a qualche piccola distanza, inviando un proiettile alato
+a fischiare accanto alle loro teste o a fracassarsi contro le loro finestre,
+parve aver colpito particolarmente la fantasia del signor Herne; e fu
+con questo mezzo che egli e il suo malaccorto gruppo di simpatizzanti
+(che cominciavano a entrare nello spirito del gioco)
+consegnarono a un gran numero di persone il loro proclama del
+Nuovo Regime. Descrivere per esteso tutti i dettagli implicati
+nel Nuovo Regime comporterebbe la trascrizione di un notevole
+numero di rotoli o strisce di carta, che venivano recapitati
+ai vicini in questo modo rapido benché non efficiente.
+Portavano tutti il titolo di La Lega del [[Lion|Leone]]; ed erano
+apparentemente un appello a tutte le persone perché imitassero le qualità migliori
+di [[King|re]] [[Richard|Riccardo]] Primo e dei Crociati, in condizioni
+che non potevano ritenersi favorevoli all'impresa.
+Lo stupito cittadino veniva informato che l'Inghilterra aveva ormai
+raggiunto una crisi in cui il [[Courage|coraggio]] morale [[Alone|soltanto]] poteva salvarla;
+non foss'altro che il [[Courage|coraggio]] morale richiesto per puntare un arco
+a casaccio mentre si butta giù due righe a un amico.
+Ma c'era molto altro di un genere più sincero,
+non privo di una certa giovanile eloquenza, che protestava contro
+quel pessimismo suicida del grande reazionario che dichiarava
+che l'età della cavalleria era tramontata.
+
+Inutile dire che la maggior parte delle persone che ricevevano questi messaggi
+ne era divertita; alcune infastidite; e alcune, per quanto strano forse,
+piuttosto sollevate e ravvivate, come se avessero visto qualche gioco della loro
+[[Childhood|infanzia]] o l'ideale della loro fanciullezza risorgere all'improvviso dai morti.
+Ma non si può dire che l'appello, così com'era, fosse adatto
+ai tipici visitatori della residenza di campagna di Lord Seawood.
+Nobili e gentiluomini che erano scesi per cacciare erano spesso
+alquanto seccati di sentirsi dire da una persona ardente ed entusiasta,
+vestita interamente di verde brillante, che questa era la vera
+definizione del buon tiro in un piccolo luogo di campagna.
+Venerabili sportivi, che si ritenevano tiratori scelti,
+non venivano rabboniti quando il bibliotecario spiegava loro pazientemente e gentilmente
+quanto fosse contratto, quanto ingobbito, quanto sgraziato, l'atteggiamento accovacciato
+di chi impugna un fucile, in confronto allo slancio divino e al balzo
+nella figura di chi ha appena scoccato una freccia,
+immobilizzata com'è per sempre nell'immobilità dell'[[Apollo]] del Belvedere.
+In breve, quanto più lontano andavano le frecce, tanto meno probabile
+pareva che avessero davvero gli effetti addolcenti delle frecce
+del Dio dell'[[Love|Amore]]. E ciò pareva giungere a un remoto estremo
+di improbabilità nell'ultimissima portata o estremità dei loro viaggi;
+quando l'araldo volante della cavalleria aveva effettivamente raggiunto un bersaglio così distante
+e impenetrabile da destare l'attenzione del padrone
+di [[house|casa]].
+
+Come già osservato, è alquanto più di una metafora dire
+che la notizia raggiunse Lord Seawood come un fulmine a ciel sereno.
+Il fulmine giunse in un lampo dal cielo azzurro dell'[[Summer|estate]]
+nelle nere ombre del [[Summer|padiglione]] [[house|estivo]]. Si conficcò
+nel muro sopra la testa del Primo Ministro; e prima
+che Lord Seawood l'avesse recepito, Lord Eden l'aveva estratto.
+Vi trovò attaccato un documento arrotolato; che i due nobili
+si misero a fissare con gradi alquanto diversi di pazienza.
+Spiegava la necessità di un nuovo ordine di nobiltà volontaria;
+e i due nobili involontari trovarono il suo tono aristocratico
+esaltato quasi terrificante. Enunciava le prove e i cimenti
+mediante i quali una più severa concezione della cavalleria potesse essere introdotta
+nel mondo; benché sia solo giustizia verso tutti gli interessati
+dire che non conteneva la parola Samurai. Spiegava
+che un appello all'antica virtù della lealtà poteva [[Alone|da solo]]
+radunare l'umanità per il ripristino di un degno ordine sociale,
+quale era immaginato dagli antichi ordini cavallereschi.
+Spiegava molte altre cose; ma dal punto
+di vista dei due anziani gentiluomini nel [[Summer|padiglione]] [[house|estivo]],
+non spiegava del tutto la freccia nel muro.
+
+Lord Eden rimase in silenzio; anzi pareva studiare
+il documento con più gravità o cupa attenzione di quanto
+ci si potesse aspettare. Ma Lord Seawood, dopo alcune brusche esclamazioni,
+si volse per una sorta di cieco istinto verso la soglia e il [[Garden|giardino]]
+da cui era venuto il fulmine. E là vide,
+lontano nella media distanza, all'estremità del lungo prato,
+qualcosa che lo stupì tanto quanto una schiera di angeli
+con aureole e ali dorate.
+
+Erano una schiera di persone fantasticamente vestite con gli abiti
+di cinque secoli prima; molte di esse tenevano archi;
+ma ciò che colpì Lord Seawood più duramente di qualsiasi freccia fu il fatto
+che sua figlia stava in testa all'intero gruppo, in una
+forma oltraggiosa di abbigliamento che terminava in due corna come quelle di un bufalo;
+e portava un ampio sorriso.
+
+Non aveva mai nemmeno pensato che cose tanto vicine a lui potessero andare storte...
+o piuttosto impazzire. Si sentì come se i suoi stessi stivali l'avessero preso a calci,
+o come se la sua cravatta avesse preso vita e lo strangolasse come un garrottatore.
+
+«Buon Dio!» gridò, «Che cosa è successo qui?»
+
+I suoi sentimenti erano semplicemente quelli di un intenditore con una collezione di
+preziose porcellane, che scopre che un branco di scolaretti ha sparato
+con le fionde a un pollice di un'incomparabile vaso cinese azzurro.
+Ma prodigiosi vasi di porcellana della dinastia Ming avrebbero potuto fracassarsi da
+ogni lato attorno a lui senza destare la sua attenzione come essa era ora destata.
+I passatempi degli uomini sono molti e strani e misteriosi. Ed egli
+risentiva profondissimamente che qualcuno danneggiasse la sua collezione di Primi Ministri.
+Quel [[Summer|padiglione]] [[house|estivo]] nel [[Garden|giardino]] era per lui sacro quanto qualsiasi tempio cinese
+pieno di antenati; poiché in esso c'erano i sottili [[Ghosts|fantasmi]] di molti politici.
+Molte di quelle tranquille conferenze che influivano sui destini dell'Impero
+erano state tenute in quella capannuccia giocattolo. Era caratteristico di Lord Seawood
+che ciò che più gli piaceva fosse incontrare uomini pubblici in modo privato;
+persino in modo segreto. Era di gran lunga troppo raffinato gentiluomo, egli stesso, per [[Desire|desiderare]] che i
+giornali della [[Sunday|domenica]] dicessero che il Primo Ministro aveva visitato Seawood Abbey.
+Ma si fece freddo come la [[Death|morte]] al pensiero dei giornali che dicessero che
+il Primo Ministro aveva visitato Seawood Abbey e vi aveva perso un occhio.
+
+L'occhiata che lanciò alla banda di scolaretti fu, dunque,
+molto sommaria e, naturalmente, del tutto sprezzante.
+Percepì vagamente che un volto spiccava dal suo
+confuso sfondo, con una gravità quasi spettrale.
+Era il volto dai lineamenti alti e finanziari del bibliotecario; e in
+confronto a esso gli altri erano di un genere misto e quasi beffardo.
+Alcuni sorridevano; alcuni ridevano; ma questo non faceva che aggiungere
+un tocco alla naturale irritazione e al disdegno del nobiluomo.
+Era qualche sciocca goliardata, naturalmente, tra gli amici di Rosamund;
+doveva avere amici piuttosto marci.
+
+«[[Hope|Spero]] che siate consapevoli,» disse freddamente ma con voce chiara e forte,
+«di aver appena quasi ucciso il Primo Ministro.
+Date queste circostanze, penso che vedrete l'opportunità
+di scegliere qualche altro gioco.»
+
+Si voltò e tornò verso il [[Summer|padiglione]] [[house|estivo]], essendosi fin lì controllato
+con un convenzionale riguardo per i suoi sgraditi ospiti.
+Ma quando tornò sotto il piccolo tetto di paglia e vide
+nell'[[Shadow|ombra]] il pallido e angoloso profilo del Primo Ministro
+ancora chino sul pezzo di carta con fredda concentrazione,
+la furia di Lord Seawood proruppe di nuovo all'improvviso. Sentì in quel gelato
+volto l'insondabile disprezzo che la grande mente del grande statista
+doveva provare per questo sudicio eppure micidiale scherzo pratico.
+Il [[Silence|silenzio]] dell'uomo si apriva come un abisso di ghiaccio; un abisso in cui
+scusa dopo scusa potevano essere lasciate cadere senza scandagliarne le profondità,
+né destare risposta alcuna.
+
+«Semplicemente non so che cosa dire,» disse disperatamente.
+«Ho quasi voglia di buttarli fuori tutti di [[house|casa]], la ragazza
+e tutti quanti... Qualsiasi cosa io possa fare...»
+
+Il Primo Ministro ancora non alzava lo sguardo, ma continuava
+in modo glaciale a scorrere il foglio che aveva in mano.
+Di tanto in tanto inarcava un poco le sopracciglia; di tanto in tanto le sollevava
+un poco; ma le sue labbra serrate non si mossero mai.
+
+Il suo ospite fu colto all'improvviso da una sorta di terrore,
+la cui portata egli stesso non riusciva a seguire.
+Credette di aver offerto un insulto che il [[Blood|sangue]] non avrebbe potuto cancellare.
+Il [[Silence|silenzio]] gli spezzò i nervi ed egli disse bruscamente: «Per l'amor
+di Dio, non continuate a leggere quella robaccia! So che è dannatamente buffa;
+ma non è così dannatamente buffa per me... che accade in [[house|casa]] mia.
+Non potete immaginare che io gradisca vedere un ospite insultato, e [[Alone|tanto meno]] voi.
+Ditemi che cosa volete e lo farò.»
+
+«[[Well|Ebbene]],» disse il Primo Ministro, e posò lentamente il foglio
+sul tavolinetto rotondo. «[[Well|Ebbene]], finalmente l'abbiamo trovata.»
+
+«Trovata cosa?» esclamò il suo sconvolto amico.
+
+«La nostra ultima occasione,» disse il Primo Ministro.
+
+Ci fu nel buio [[Summer|padiglione]] [[house|estivo]] un [[Silence|silenzio]] così improvviso e completo
+che si poteva udire il ronzio di una mosca e il lontano mormorio
+del parlottare degli ammutinati. Il [[Silence|silenzio]] era meramente accidentale;
+eppure qualcosa si [[Rose|levò]] nell'[[Soul|animo]] di Seawood a protestare contro di esso;
+come se il [[Silence|silenzio]] stesse plasmando il destino e dovesse essere impedito di farlo.
+
+«Che cosa intendete?» esclamò bruscamente. «Quale ultima occasione?»
+
+«L'ultima occasione di cui parlavamo non dieci minuti fa,»
+rispose il politico con un cupo sorriso. «Non stavo forse parlando
+proprio di questa cosa prima che volasse dentro dalla [[Window|finestra]], come la colomba
+col ramoscello d'ulivo? Non stavo forse dicendo proprio che dobbiamo
+avere qualcosa di nuovo perché il povero vecchio Impero è andato a male?
+Non stavo forse dicendo che volevamo una nuova cosa positiva da opporre a
+Braintree e alla Nuova [[democracy|Democrazia]]? [[Well|Ebbene]], allora.»
+
+«Che diamine intendete?» esclamò Lord Seawood.
+
+«Intendo che questa cosa dev'essere sostenuta,» gridò il
+Primo Ministro, battendo sul tavolinetto con una vivacità
+quasi sconcertante in uno del suo contegno arido e tetro.
+«Dev'essere sostenuta con [[Horse|cavalleria]], fanteria e artiglieria;
+o, ciò che è dannatamente più importante, con sterline, scellini e pence.
+Dev'essere sostenuta come non abbiamo mai sostenuto niente in vita nostra.
+Signore, che un uomo della mia età debba vivere abbastanza da vedere la breccia
+nella linea nemica e l'occasione per una carica di cavalleria!
+Dev'essere martellata [[Home|a fondo]] per quanto vale e molto di più;
+e prima cominciamo, meglio è. Dove sono questi individui?»
+
+«Ma volete davvero dire,» gridò Seawood sbarrando gli occhi, «che c'è
+qualcosa da fare con degli sciocchi come...»
+
+«E supponiamo che lo siano,» sbottò Eden. «Sono forse uno [[Fool|sciocco]] da immaginare
+che si possa fare qualcosa senza sciocchi?»
+
+Lord Seawood si ricompose; ma continuava a sbarrare gli occhi.
+
+«Suppongo intendiate che una nuova politica... non posso certo dire una politica popolare...
+forse piuttosto una riuscita politica antipopolare...»
+
+«Entrambe, se volete,» disse l'altro. «Perché no?»
+
+«Non avrei mai pensato,» disse Lord Seawood, «che il popolino
+potesse essere particolarmente interessato a tutta questa elaborata teoria antiquaria
+sulla cavalleria.»
+
+«Avete mai considerato,» chiese il Primo Ministro,
+guardandosi alle spalle, «il significato della parola cavalleria?»
+
+«Intendete nel senso etimologico?» chiese l'altro nobiluomo.
+
+«Intendo nel senso del [[Horse|cavallo]],» rispose Eden. «Ciò che alla gente piace davvero
+è un uomo a [[Horse|cavallo]]... e non le importa molto se è un [[Horse|cavallo]] alto.
+Date al popolo abbondanza di sport... tornei, corse di [[Horse|cavalli]]... _panem et
+circenses,_ ragazzo mio... questo servirà come lato popolare della politica.
+Se potessimo mobilitare tutto ciò che fa il Derby potremmo
+combattere il [[deluge|Diluvio]].»
+
+«Comincio,» disse Seawood, «ad avere una specie di folle idea
+di ciò che intendete.»
+
+«Intendo,» rispose il suo amico, «che la [[democracy|Democrazia]] si cura dannatamente
+di più della disuguaglianza dei cavalli che dell'uguaglianza degli uomini.»
+
+E varcando la soglia attraversò a grandi passi il [[Garden|giardino]] con un passo
+quasi sorprendentemente ringiovanito; e prima ancora che il suo ospite si fosse mosso
+egli udì la voce del Primo Ministro in lontananza levarsi come una tromba,
+come la voce dei grandi oratori di cinquant'anni prima.
+
+Fu così che il bibliotecario che si rifiutò di cambiarsi i vestiti
+riuscì a cambiare il proprio paese. Poiché da questo piccolo
+e [[Grotesque|grottesco]] incidente venne tutta quella famosa rivoluzione,
+o reazione, che trasformò il volto della società inglese,
+e frenò e mutò il corso della sua [[history|storia]].
+Come tutte le rivoluzioni attuate dagli inglesi, e specialmente
+le rivoluzioni attuate dai Conservatori, fu molto attenta
+a preservare quei poteri che erano già impotenti.
+Si udirono persino alcuni Conservatori di tipo piuttosto senile parlare ancora
+del carattere Costituzionale del completo sovvertimento della Costituzione.
+Le fu concesso di mantenere, anzi si supponeva sostenesse,
+l'antico modello monarchico di questo paese. Ma in pratica il nuovo potere fu diviso
+tra tre o quattro monarchi subordinati che governavano vaste
+province dell'Inghilterra, come Lord Luogotenenti ingranditi;
+e chiamati, secondo il [[Romance|romanticismo]] o l'affettazione del
+movimento, Re d'Arme. Occupavano in verità una posizione con
+qualcosa della santità e dell'immunità simbolica di un araldo;
+ma possedevano anche non pochi dei poteri di un [[King|re]].
+Comandavano le bande di giovanotti chiamate Ordini
+della Cavalleria, che fungevano da una sorta di milizia o cavalleria territoriale.
+Tenevano corti e amministravano l'alta e la bassa giustizia
+secondo le ricerche del signor Herne sul diritto medievale.
+Era qualcosa di più di un corteo storico; eppure vi confluì
+molta di quella passione popolare che un [[Time|tempo]]
+riempiva metà delle città e dei villaggi d'Inghilterra di cortei;
+la fame di un popolino che il [[Puritanism|Puritanesimo]] e l'Industrialismo
+avevano così a lungo affamato del festino degli occhi e della fantasia.
+
+Poiché era più di un corteo storico, era più di una moda;
+ma aveva le sue tappe e i suoi punti di svolta come una moda.
+Forse il principale punto di svolta fu il momento in cui il signor Julian Archer
+(ora Sir Julian Archer dopo l'accollata di uno dei nuovi ordini
+cavallereschi) scoprì seriamente che doveva guidare la moda
+o restarne indietro. Tutti noi che abbiamo osservato i mutamenti passare
+su una società conosciamo quell'istante indeterminato eppure determinante.
+Vale per ogni cosa, dal concedere il voto alle donne al concedere alle donne
+di non portare i capelli. Fu marcato nel movimento delle Suffragette,
+che molte donne della classe media avevano a lungo sostenuto, quando le grandi dame
+cominciarono ad abbracciarlo. Segna la transizione dal [[Time|tempo]]
+in cui è la nuova moda al [[Time|tempo]] in cui è la moda.
+Fino a quel momento gli esempi possono essere numerosi, ma sono ancora notevoli;
+dopo quel momento è la trascuratezza a essere notevole. È quel genere
+di momento, in ogni movimento, in cui Sir Julian Archer
+compare come comparve ora; un cavaliere in armatura scintillante, pronto a
+ogni pericolosa impresa.
+
+Eppure Sir Julian Archer era troppo vanitoso per non essere in un certo senso semplice,
+e troppo semplice per non essere in un certo senso sincero. Mutamenti sociali
+di questo genere sono resi possibili tra masse considerevoli
+di persone da due ironie della [[Nature|natura]] umana. La prima è che
+la vita di quasi ogni uomo è stata sufficientemente frammentaria e piena
+di possibilità perché egli ricordi _qualche_ moto della propria
+mente verso ciò che è divenuto il moto del [[Time|tempo]].
+La seconda è che egli quasi sempre si fa un falso quadro del
+proprio passato, e alimenta un [[Memory|ricordo]] fittizio, per cui quel dettaglio
+pare, a posteriori, dominare la sua carriera.
+
+Julian Archer (come è già stato fedelmente registrato)
+aveva scritto molto [[Time|tempo]] fa una storia d'avventura assai ragazzesca, da ragazzi,
+sulla Battaglia di Agincourt. Era solo una delle
+multiformi e assai moderne attività della sua riuscita carriera:
+e non era stata nemmeno una delle più riuscite.
+Ma con i nuovi discorsi tutt'intorno a lui, Archer cominciò a insistere
+sempre più sulla sua iniziativa in materia.
+
+«Non hanno voluto ascoltarmi,» disse scuotendo il capo tetro.
+«Non conviene essere un po' troppo in anticipo sul campo...
+Naturalmente, Herne è un uomo [[Well|colto]]; è il suo mestiere...
+Suppongo che veda praticamente ogni libro che esce.
+Pare che abbia avuto abbastanza buon senso da cogliere un suggerimento, eh, che ne dite?»
+
+«Oh, capisco,» disse Olive Ashley, inarcando le scure sopracciglia
+in lieve sorpresa. «Non ci avevo pensato.»
+
+E rifletté al tempo stesso con rammarico e con capriccio sulla propria
+concentrata passione per le cose medievali, che tutti
+avevano dapprima deriso, poi imitato, poi dimenticato.
+
+Lo stesso valeva per Sir Aubrey Wister, quel valoroso benché
+alquanto anziano cavaliere; poiché così pure era stata trasformata la figura
+del vecchio esteta che gironzolava per i salotti e lodava
+i grandi Vittoriani che avevano lodato i grandi Primitivi.
+Parlava un po' di più dei grandi Primitivi e un po' meno dei
+grandi Vittoriani. Ma poiché così spesso in passato aveva patrocinato
+Cimabue e detto una parola d'incoraggiamento a Giotto e Botticelli,
+non gli fu difficile persuadersi di essere stato
+un [[Prophet|profeta]] che levava invano la propria voce, predicendo la venuta
+del signor Herne come il Messia Medievale.
+
+«Mio caro signore,» diceva confidenzialmente, «il periodo
+era di inconcepibile vandalismo e volgarità.
+Non so davvero come vi sia sopravvissuto.
+Ma tenni duro; e, come vedete, la mia opera non è stata
+del tutto infruttuosa... ehm... non del tutto infruttuosa.
+Gli stessi modelli dei loro costumi sarebbero periti;
+a malapena un solo quadro da cui traggono i loro
+disegni sarebbe sopravvissuto... se non fosse per la mia piccola protesta.
+Ciò dimostra che cosa può fare una parola detta a [[Time|tempo]] debito.»
+
+Lo stesso Lord Seawood ne fu influenzato pressoché nello stesso modo.
+Insensibilmente, spostò il centro di gravità tra i suoi due passatempi.
+Parlava un po' di più del suo passatempo privato dell'araldica.
+Parlava un po' meno del suo passatempo pubblico del Parlamento.
+Insisteva meno sulla [[Greatness|grandezza]] di Lord Palmerston e più
+sulla [[Greatness|grandezza]] del Principe Nero, da cui la famiglia Seawood
+pretendeva di discendere. E anche in lui questa commovente convinzione
+crebbe silenziosamente nell'ombra; la sensazione di aver egli stesso
+avuto molto a che fare con la fondazione della Lega del [[Lion|Leone]]
+e la [[Resurrection|resurrezione]] di [[Richard|Riccardo]] Coeur-de-[[Lion]]. La sentiva
+tanto più vividamente per via dell'istituzione dello Scudo
+dell'[[Honour|Onore]], che era una delle più recenti e orgogliose aggiunte
+al piano ed era stata inaugurata nel suo stesso parco.
+
+In tutto questo cambiamento di clima, Herne era rimasto immutato.
+Come molti idealisti, era di un tipo che si sarebbe
+accontentato di una completa oscurità, ma non sapeva misurare o concepire
+la portata di una fama completa. Se poteva fare un passo
+fino all'estremità del parco, [[Well|tanto]] valeva che ne facesse un altro
+fino all'estremità del mondo. Non vedeva il mondo in scala.
+Aveva costretto tutti i suoi banali compagni a rientrare nei loro abiti da mascherata
+e li aveva obbligati a recitare la [[Masque|mascherata]] fino alla morte.
+Aggrappandosi lui stesso al suo arco da [[Robin Hood]] e alla lancia da cinghiale,
+era giunto a trovarsi non lasciato indietro dalla compagnia
+ma a marciare davanti a essa. Il passaggio da quella [[Loneliness|solitudine]]
+a quella leadership gli parve davvero una cosa elettrizzante e trionfale.
+Ma il passaggio dalla guida di quel ricevimento in [[house|casa]] alla
+guida di tutta l'Inghilterra non gli parve affatto un cambiamento.
+Poiché in verità c'era in quel ricevimento in [[house|casa]] un volto che era caduto
+nell'abitudine di spiare ogni cambiamento, come i cambiamenti
+del tramonto e dell'[[Dawn|alba]].
 
 -^-

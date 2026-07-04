@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/don-quixote-(chesterton)">Don Quixote</a> › <a href="/testi/chesterton/atomized/don_quixote/chapter_15">Chapter 15</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/don_quixote/chapter_15/part_02">‹ part 02</a><a class="ex-next" href="/testi/chesterton/atomized/don_quixote/chapter_15/part_04">part 04 ›</a></div>
@@ -137,3 +139,136 @@ but when she saw the shape of that obsolete pot of paint, with its
 large stopper and the faded trade mark of decorative fishes upon it,
 her eyes were stung with [[Tears|tears]] so that she herself was startled by them.
 It was as if she had suddenly heard the voice of her father.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/don-quixote-(chesterton)">Don Quixote</a> › <a href="/testi/chesterton/atomized/don_quixote/chapter_15">Chapter 15</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/don_quixote/chapter_15/part_02">‹ part 02</a><a class="ex-next" href="/testi/chesterton/atomized/don_quixote/chapter_15/part_04">part 04 ›</a></div>
+</nav>
+
+Ma Olive guardava dall'alto prato su per la lunga bianca [[Road|strada]]
+che serpeggiava lontano verso il tramonto e pareva sciogliere il suo argento
+in quel rame e oro.
+
+«Una volta mi chiesero,» disse, «se pensavo che [[King Arthur|Re Artù]]
+sarebbe tornato. In una sera come questa... non riesci a
+immaginare la culminazione che giunge, e noi che vediamo qualche cavaliere
+della Tavola Rotonda avanzare a spron battuto lungo la [[Road|strada]], lontanissimo,
+che ci reca un messaggio dal [[King|re]]?»
+
+«[[Well|Beh]], è davvero curioso che tu lo dica,» disse la più
+pratica Rosamund, «perché c'è davvero qualcuno che arriva;
+e credo che sia anche a [[Horse|cavallo]].»
+
+«Pare che sia dietro un [[Horse|cavallo]],» disse Olive a bassa voce.
+«Quel sole basso mi abbaglia gli occhi... Può essere un carro romano?
+Suppongo che [[arthur|Artù]] sarebbe _davvero_ un Romano?»
+
+«È una forma assai strana,» disse Rosamund; e anche la sua voce era mutata.
+
+Il cavaliere errante dalla [[Court|Corte]] di [[King Arthur|Re Artù]] era certamente una
+forma assai strana; poiché, mentre l'equipaggio si avvicinava sempre più,
+esso assunse, agli occhi stupiti della folla medievale, l'aspetto
+di una malandata carrozza da nolo, sormontata da un [[cabman|vetturino]] con un malandato
+cilindro. Egli si tolse il malconcio copricapo con un cortese saluto
+e rivelò gli spartani lineamenti di Douglas Murrel.
+
+Il signor Douglas Murrel, dopo aver così salutato la compagnia,
+rimise il suo notevole cappello, forse un po' di sbieco,
+e procedette a cadere giù dalla carrozza. Non è facile
+cadere da una carrozza con gravità e disinvoltura mondana;
+ma il signor Murrel vi riuscì con l'acrobatica precisione di un tempo.
+Il cappello cadde, ma egli l'afferrò con grande destrezza;
+e subito attraversò a piedi verso Olive Ashley, osservando
+senza alcun imbarazzo.
+
+«Dico; ho preso quella roba che volevi.»
+
+La compagnia, guardando il suo colletto e la sua cravatta e i suoi pantaloni
+(che erano particolarmente cospicui quando fece una ruota
+dalla cima della carrozza), ebbe la curiosa sensazione di vedere
+qualcuno vestito col bizzarro costume di un'epoca passata.
+In effetti, provavano press'a poco gli stessi sentimenti che egli stesso
+aveva provato quando vide per la prima volta la carrozza da nolo; benché le carrozze da nolo
+avessero solo di recente cominciato a diminuire e a scomparire a [[London|Londra]].
+Così rapidamente s'indurisce la moda umana e la gente si abitua
+a un nuovo ambiente.
+
+«Monkey!» ansimò Olive. «Dove diamine sei stato per tutto questo [[Time|tempo]]?
+Non hai sentito niente di niente?»
+
+«Ho dovuto frugare un pochino per trovare i colori,»
+disse Murrel modestamente, «e da quando ho comprato la carrozza ho
+dato passaggi alla gente sulla [[Road|strada]]. Ma comunque l'ho preso.»
+
+Poi per la prima [[Time|volta]] parve ritenere necessario notare
+la singolare scena che lo circondava; benché il contrasto fosse
+grande come se fosse caduto da un altro mondo e apparso
+nell'antica cornice come lo Yankee alla [[Court|Corte]] di [[King Arthur|Re Artù]];
+se qualcuno tanto inglese quanto lui potesse mai essere paragonato
+a uno Yankee.
+
+«Ce l'ho nella carrozza,» spiegò. «Sono quasi certo che sia
+ciò che volevi... Dico, Olive, la tua recita è _ancora_ in corso?
+Ritorno a Matusalemme, eh? So che hai una penna feconda;
+ma davvero, una recita che dura un mese...»
+
+«Non è una recita,» rispose lei, fissandolo in modo impietrito.
+«È cominciata come una recita; ma non stiamo più recitando.»
+
+«Mi dispiace sentirlo,» disse. «Anch'io mi sono divertito parecchio;
+ma anche in questo c'era un lato serio. C'è il Primo Ministro qui?
+Mi hanno detto che sarebbe venuto... e mi piacerebbe piuttosto vederlo.»
+
+«Oh, non posso raccontarlo tutto in un minuto,» esclamò lei, quasi spazientita.
+«Non sai che ora non c'è un Primo Ministro; non di quel tipo?
+Il [[King|Re]] d'Armi dirige tutto qui intorno.»
+
+E accennò piuttosto disperatamente verso quel potentato, che era ancora
+seduto sul suo alto seggio; probabilmente perché aveva dimenticato di scendere.
+Lo stesso motivo l'aveva un tempo trattenuto in cima allo scaffale della biblioteca.
+
+Douglas Murrel parve accogliere tutto ciò con più compostezza di quanto
+ci si potesse aspettare; forse ricordava l'incidente nella biblioteca.
+Ma il suo contegno verso il monarca medievale fu scrupolosamente corretto.
+S'inchinò leggermente, e poi si tuffò nell'interno della carrozza da nolo;
+e riemerse, tenendo un informe pacco in una mano e il cappello
+nell'altra. Parve avere difficoltà a scartare il pacco
+con una mano sola, e si volse verso il trono con un'aria di scusa
+assai appropriata.
+
+«Perdonatemi, Vostra Maestà,» disse. «Può la mia famiglia avere l'antico
+e ancestrale privilegio di tenere il cappello a [[Court|Corte]]? Sono
+sicuro che qualcosa del genere dev'esserci stato concesso dopo
+che tentammo senza successo di salvare i Principi nella Torre.
+Vedete, è così scomodo tenere in mano un cappello; ma ho un grande
+affetto per questo cappello.»
+
+Se si aspettava di veder brillare qualche barlume di [[Humour|umorismo]] di risposta sul volto
+del fanatico sopra di lui, rimase deluso; ma il [[King|Re]] d'Armi
+disse con perfetta gravità: «Copritevi pure senz'altro.
+Conta solo l'intenzione nella cortesia.
+[[Doubt|Dubito]] che coloro che avevano simili privilegi vi insistessero davvero;
+mi pare di ricordare un [[King|re]] che disse, assai giustamente,
+a un tale privilegiato lord: "Avete il diritto di tenere il cappello
+davanti a me, ma non davanti alle dame." Nello stesso spirito, dove
+(come in questo caso) lo scopo è effettivamente compiacere una dama,
+la forma è ovviamente dispensata.»
+
+E si guardò intorno in modo ragionevole, come se la sua [[logic|logica]] avesse di certo
+soddisfatto tutti come soddisfaceva lui, e Douglas Murrel solennemente
+si mise il cappello e procedette a togliere un prodigioso numero di involucri
+dal pacco.
+
+Quando alla fine esso emerse, era un barattolo o una bottiglia cilindrica di vetro,
+estremamente sudicia, con iscrizioni e ornamenti indistinguibili;
+ma quando la porse a Olive, egli vide che la sua ricerca non era stata
+vana. Non c'è modo di spiegare come la mera forma e il mero dettaglio
+di cose perdute nell'[[Childhood|infanzia]] possano trasalire e trafiggere le emozioni;
+ma quando ella vide la forma di quel vaso di colore ormai fuori uso, col suo
+grande tappo e il marchio di fabbrica sbiadito dei pesci decorativi su di esso,
+i suoi occhi furono punti dalle [[Tears|lacrime]] così che ella stessa ne fu trasalita.
+Era come se avesse udito d'improvviso la voce di suo padre.

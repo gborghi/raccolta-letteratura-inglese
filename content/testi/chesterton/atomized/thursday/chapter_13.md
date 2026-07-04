@@ -519,7 +519,7 @@ Let's follow it!"
 
 # [[thursday]] — Capitolo 13
 
-                         CAPITOLO XIII
+CAPITOLO XIII
 
                 L’INSEGUIMENTO DEL PRESIDENTE
 

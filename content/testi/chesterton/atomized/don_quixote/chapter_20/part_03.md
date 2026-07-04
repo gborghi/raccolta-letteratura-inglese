@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/don-quixote-(chesterton)">Don Quixote</a> › <a href="/testi/chesterton/atomized/don_quixote/chapter_20">Chapter 20</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/don_quixote/chapter_20/part_02">‹ part 02</a><span></span></div>
@@ -106,3 +108,50 @@ could see, or would probably ever understand.
 -^-
 
 END
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/don-quixote-(chesterton)">Don Quixote</a> › <a href="/testi/chesterton/atomized/don_quixote/chapter_20">Chapter 20</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/don_quixote/chapter_20/part_02">‹ part 02</a><span></span></div>
+</nav>
+
+A tal punto quella grande sete di colore, che aveva colmato la sua vita, fu nutrita come da un calice di fiamma, da quel segno insignificante e in quel luogo sordido, che a stento lo sorprese di trovarsi al cospetto di lei, che stava incoronata nei suoi [[Dreams|sogni]] come nel [[Melodrama|melodramma]] e nella [[Tragedy|tragedia]] di altri giorni. Un abito scuro e diritto le pendeva dal collo ai talloni, ma era di foggia normale; e i suoi capelli rossi somigliavano ancora a una [[Crown|corona]].
+
+Con quella bizzarra e goffa prontezza, che apparteneva a lui [[Alone|soltanto]], disse il suo pensiero più semplice in parole schiette: «Sei un'[[Nurse|infermiera]] e non una monaca.»
+
+Ella sorrise. «Sai poco delle monache, se credi che quella sia la fine naturale di una storia — una storia come la nostra. Credimi, non c'è nulla di vero in quella sentimentale idea che essere monaca sia un ripiego.»
+
+«Vuoi davvero dire», disse lui, e poi si fermò.
+
+«Voglio dire», disse lei, «che non ho mai del tutto smesso di pensare che potrei avere la fortuna di essere il ripiego. Suppongo sia il genere di cosa che è stata detta parecchie volte... Credo di aver sempre pensato che mi avresti trovata.»
+
+Dopo una momentanea pausa proseguì: «Non abbiamo bisogno di ricordare quel vecchio litigio; credo che sia sempre stato qualcosa di molto migliore e di molto peggiore di un litigio. Mio padre aveva meno colpa di quanto tu credessi; più colpa di quanto io credessi; ma non siamo né tu né io a giudicare. Ma non fu lui a commettere il vero torto da cui sono sgorgati tutti questi torti.»
+
+«So cosa intendi», replicò lui. «Avevo piuttosto cominciato a pensarlo anch'io, quanto più leggevo di [[history|storia]]. Ma in tutta quella [[history|storia]] non c'è nulla di così nobile quanto te e quanto ciò che hai fatto. Sei il più grande dei personaggi storici; e i dotti potranno giungere a chiamarti una leggenda.»
+
+«Fu Olive a comprenderlo per prima», disse lei gravemente. «È molto più rapida di me e vide tutto in un lampo; un lampo di luce lunare, come disse lei. Io potei soltanto andarmene e riflettere sulle cose lentamente e stupidamente da sola; ma alla fine ci arrivai.»
+
+«Vuoi dire», chiese [[Michael]] lentamente, «che anche Olive Ashley — ci è arrivata?»
+
+«Sì», rispose lei, «e la cosa curiosa è che John Braintree non pare affatto darsene pensiero. Almeno molti la troverebbero una cosa curiosa; ora sono sposati e sembrano concordare quasi su ogni cosa. Mi [[Wonder|domando]] quanto ci fosse davvero su cui le persone buone potessero discordare in quei vecchi tempi litigiosi.»
+
+«Lo so», rispose lui. «Sembra che tutti siano sposati. E ciò mi ha fatto sentire piuttosto smarrito e solo nell'ultimo mese o giù di lì.»
+
+«Perfino Monkey è sposato, ho sentito», disse lei. «Sembra la fine del mondo. Ma forse è il principio del mondo. Di una cosa puoi essere certo, benché molti ne riderebbero. Ogni volta che i [[Monks|monaci]] tornano, i matrimoni torneranno.»
+
+«È tornato in quella cittadina di mare e ha sposato la figlia del dottor Hendry», spiegò [[Michael]] Herne piuttosto vagamente. «Ci siamo separati per una sorta di silenzioso consenso all'Abbazia di Seawood ed egli è andato a ovest e io a est. Dovevo andare a cercarti [[Alone|solo]]: ed ero molto [[Alone|solo]].»
+
+«Dici "ero"», disse lei con un sorriso; e d'un tratto si mossero l'uno verso l'altra e s'incontrarono come si erano incontrati nel [[Garden|giardino]] tanto tempo prima — in un [[Silence|silenzio]] colmo di molte cose; un [[Silence|silenzio]] che egli ruppe dicendo d'un tratto, alla sua maniera brusca e goffa: «Suppongo di essere un eretico.»
+
+«Vedremo tutto questo», disse lei con serena magnificenza.
+
+I pensieri di Herne tornarono bruscamente e distrattamente all'antica ingarbugliata discussione fra lui e Archer sull'eresia albigese e su che cosa dovesse seguire alla [[conversion|conversione]] da essa; rimase un istante con la mente vagante. Poi in quella stretta via della lanterna colorata accadde una cosa nuova e sorprendente; qualcosa che non era mai accaduto in tutte le sottosopra vicende della sua carriera storica. [[Michael]] Herne rise. Per la prima [[Time|volta]] in vita sua vide seriamente una battuta e deliberatamente la fece. È tipico di lui che la sua unica battuta fosse una che nessun altro poteva vedere, o probabilmente avrebbe mai compreso.
+
+«Senti... _iit in matrimonium._»
+
+-^-
+
+FINE

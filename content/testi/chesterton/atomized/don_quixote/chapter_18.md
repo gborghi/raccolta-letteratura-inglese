@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/don-quixote-(chesterton)">Don Quixote</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/don_quixote/chapter_17">‹ Chapter 17</a><a class="ex-next" href="/testi/chesterton/atomized/don_quixote/chapter_19">Chapter 19 ›</a></div>
@@ -418,5 +420,157 @@ And yet, though that towering and toppling appendage of absurdity
 was dragged behind him like an overwhelming load, for that instant
 of [[Time|time]] it was erased and forgotten, in the force and appalling
 passion of his face.
+
+-^-
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/don-quixote-(chesterton)">Don Quixote</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/don_quixote/chapter_17">‹ Chapter 17</a><a class="ex-next" href="/testi/chesterton/atomized/don_quixote/chapter_19">Chapter 19 ›</a></div>
+</nav>
+<nav class="excerpt-children">
+<div class="excerpt-children-label">In questa sezione</div>
+<ul><li><a href="/testi/chesterton/atomized/don_quixote/chapter_18/part_01">Part 1</a></li><li><a href="/testi/chesterton/atomized/don_quixote/chapter_18/part_02">Part 2</a></li><li><a href="/testi/chesterton/atomized/don_quixote/chapter_18/part_03">Part 3</a></li></ul>
+</nav>
+
+CAPITOLO XVII
+
+LA PARTENZA DI [[Don Quixote|DON CHISCIOTTE]]
+
+E durante tutto questo primo trambusto, i due nobiluomini che erano stati nominati sedevano immobili e rigidi come mummie; benché la ragione della rigidità potesse differire. Lord Seawood restava semplicemente a bocca aperta; portava sul volto quell'espressione che potrebbe avere una testa umana se il [[Body|corpo]] le fosse d'un tratto spazzato via di sotto e la si lasciasse penzolare a mezz'aria. Il giudice poteva scherzare; ma non era così che un giudice dovesse scherzare. E se non scherzava... dov'erano la terra e l'aria e il cielo? Ma Lord Eden, cosa abbastanza curiosa, sedeva del tutto impassibile e il suo sorriso arcaico semmai si fece più profondo. Pareva, alla sua torva maniera, del tutto compiaciuto. Era quasi come se avesse indovinato ciò che stava per venire. Poiché nell'istante seguente l'Arbitro proseguì.
+
+«Il principio è approvato, cioè, per quanto concerne quella sua enunciazione. Anche qui è essenziale intendere tali enunciazioni con una certa precisione logica. Se stiamo definendo o descrivendo un Mestiere o un Commercio, quale esso era in origine e quale ragionevolmente dovrebbe essere, questa è l'enunciazione e non ne chiediamo altre. Il [[government|governo]] di tale mestiere o commercio spetta di diritto ai maestri artigiani e ai maestri mercanti. Ma il vecchio ordine riconosceva [[Well|del pari]] altri diritti; e fra essi il diritto di proprietà privata. L'artigiano lavorava e il mercante commerciava con la propria proprietà privata. In un caso come il presente, dobbiamo ammettere che, anche se il diritto astratto di gestione dovesse spettare ai lavoratori, i materiali appartengono ancora di fatto ai tre uomini che ho nominato.»
+
+«Così va meglio», giunse l'inciso archeriano come una sorta di sospiro esplosivo; e la testa del vecchio Seawood cominciò ad annuire tremula e dubbiosa come quella di una bambola cinese. Ma la dura testa di Eden rimase immobile, col suo sorriso duro e sicuro.
+
+«In generale», continuò l'espositore, «l'etica e la giurisprudenza medievali affermavano il principio della proprietà privata con alquanto più elaborazione e modificazione della maggior parte dei sistemi moderni, finché non si giunge al sistema chiamato Socialismo. Era generalmente ammesso, per esempio, che un uomo potesse essere realmente o apparentemente in possesso di beni su cui non aveva alcun diritto, perché erano stati acquisiti con metodi condannati dalla morale cristiana; come, per esempio, mediante l'usura. Vi erano anche leggi contro ciò che si chiamava accaparramento e altri metodi per assicurarsi l'intera quantità di un particolare materiale sul mercato. Al di fuori di tali delitti, tuttavia, che erano spesso severamente puniti con la gogna e persino con la forca, il possesso personale della ricchezza era accettato come normale; e non vedo alcun ragionevole [[Doubt|dubbio]] che la ricchezza personale di queste tre persone sia ciò che viene effettivamente impiegato in questa industria. È, mi permetto di osservare, la maggior parte della loro ricchezza personale. Due di loro sono i titolari di vasti possedimenti terrieri; ma questi sono divenuti sempre meno redditizi e sono in parte ipotecati. La ricchezza che li rende tutti uomini facoltosi proviene dalle riuscite operazioni della Compagnia dei Colori e delle Tinture di Catrame di Carbone, di cui possiedono la maggior parte delle azioni. Quelle operazioni sono tanto riuscite che, in tutto questo paese, e praticamente in tutto il mondo industrializzato, l'unico tipo di colori d'artista, matite, pastelli e via dicendo che si vendano e si usino proviene dagli stabilimenti chimici dove questi sottoprodotti vengono impiegati. Non resta che chiedere per quale forma d'impresa commerciale sia stata raggiunta una tale superiorità.»
+
+Un curioso mutamento era a questo [[Time|punto]] sopravvenuto nell'uditorio. La maggior parte di loro, cullati dalle frasi familiari del magnifico prospetto o rapporto commerciale, avevano annuito fino quasi ad assopirsi in un sonno d'assenso. Ma, cosa assai più notevole, per la prima [[Time|volta]] Lord Seawood sorrideva; e Lord Eden no.
+
+«Accade che un incidente, o piuttosto un'avventura (una delle più onorevoli avventure dei nuovi Compagni di questo Reame) abbia rivelato i fatti riguardo a un caso emblematico. Abbiamo in verità dinanzi a noi la [[history|storia]] di un maestro Artigiano dell'antica specie; uno che indubbiamente componeva i propri pigmenti con le proprie mani e secondo il proprio gusto e giudizio; e che produceva così un particolare articolo che i migliori artisti del suo [[Time|tempo]] consideravano unico e che gli artisti posteriori hanno cercato invano di sostituire. L'articolo non è venduto dalla Compagnia dei Colori e delle Tinture di Catrame di Carbone. L'uomo non trae in alcun modo profitto, né è nemmeno impiegato, dalla Compagnia dei Colori e delle Tinture di Catrame di Carbone. Che ne è stato di quel Capolavoro? Che ne è stato di quel Maestro?
+
+«Dalle informazioni postemi dinanzi dai valorosi gentiluomini che ho menzionato, sono in grado di dire che cosa ne sia stato di loro. L'uomo fu ridotto con la forza a una condizione di mendicità, fu talmente spezzato dalla [[Despair|disperazione]] da essere accusato di follia; ed è perfettamente chiaro che i metodi impiegati per cacciarlo dalla sua bottega e dal suo sostentamento furono i metodi di cui ho parlato; l'accaparramento dei materiali prima che potessero giungergli, il taglio delle sue forniture, l'abbassamento dei suoi prezzi mediante una congiura per vendere sottocosto e tutto il resto. Non ho bisogno di descriverli più in generale di quanto abbia già fatto; dicendo che presso i nostri padri gli uomini che facevano queste cose potevano essere messi alla gogna o impiccati. Gli uomini che hanno fatto queste cose oggi sono i tre azionisti di questa Compagnia; i tre Maestri di questo Commercio.»
+
+Poi nominò di nuovo i tre formalmente e per esteso con voce dura; ma sul nome di Lord Seawood la sua voce parve per un istante spezzarsi. Non guardò alcun volto nella folla.
+
+«Su questo secondo punto, pertanto, la [[Court|Corte]] d'Arbitrato decide che la proprietà privata impiegata in questa attività non è stata legittimamente acquisita; e non può invocare, come normalmente farebbe, il privilegio del giusto possesso. Per riassumere, si decreta, primo, che il mestiere debba essere governato dai suoi membri pienamente affrancati, salvo ogni giusta pretesa di proprietà; e secondo, che la pretesa di proprietà avanzata in questo caso non è giusta. Aggiudicheremo alla Gilda —.»
+
+Il vecchio Seawood balzò in piedi come galvanizzato; e una semplice sorta di vanagloria, più profonda di tutte le vanità vittoriane, salì ansimando alla superficie come una creatura che annega. Dimenticò perfino la snobistica [[Fear|paura]] dello snobismo.
+
+«Avevo immaginato», disse, balbettando con enfasi, «che questo movimento dovesse ripristinare un vero rispetto per la Nobiltà. Non mi risulta che alcuna di queste regole di bottega si applicasse alla Nobiltà.»
+
+«Ah», disse Herne a bassa voce come in un inciso; «è giunto infine.»
+
+Parve che egli parlasse per la prima [[Time|volta]] con voce umana, e l'effetto fu tanto più strano per le strane parole con cui riprese a parlare. «Non sono un uomo», disse. «Sono qui soltanto un portavoce per rendere chiara la legge; la legge che nulla sa di uomini o di donne. Ma vi domando questo prima che sia troppo tardi. Non fate appello a rango e titolo; non avanzate la vostra pretesa come nobili e pari.»
+
+«Perché no?», gridò il turbolento Archer.
+
+«Perché anche su questo», replicò Herne, che era mortalmente pallido, «siete stati abbastanza sciocchi da ordinarmi di scoprire la [[Truth|verità]].»
+
+«Oh, che diavolo significa tutto questo», gridò Archer nella sua angoscia.
+
+«Che io sia dannato se lo so», replicò l'impassibile signor Hanbury.
+
+«Ah sì, avevo dimenticato», disse l'Arbitro con voce vibrante, «voi non siete comuni artigiani; non avete imparato a fabbricare vernici; non avete immerso le mani nelle tinture. Avete attraversato prove più alte; avete vegliato le vostre armi; avete conquistato i vostri speroni. Ma i vostri cimieri e titoli vi vengono da remota antichità; e non avete dimenticato i nomi che portate.»
+
+«Naturalmente non abbiamo dimenticato i nostri nomi», disse Eden irritato.
+
+«Cosa abbastanza strana», disse l'Arbitro, «è esattamente ciò che avete fatto.»
+
+Vi fu un altro enigmatico [[Silence|silenzio]], che pareva colmo degli occhi sbarrati di Archer e Hanbury; e poi la voce dell'Arbitro si udì ancora una volta; ma diede loro un nuovo sussulto, poiché aveva ripreso il peso plumbeo dell'esposizione legale.
+
+«Nel corso dell'applicazione di seri metodi storici a queste questioni di araldica ed ereditarietà, verso le quali la mia attenzione era stata indirizzata, ho scoperto un singolare stato di cose. Sembrerebbe essere precisamente lo stato di cose opposto a quello che prevale nell'impressione popolare comune. Per dirla in breve, ho trovato assai poche persone in possesso di alberi genealogici che sarebbero riconosciuti nel senso araldico o feudale dell'aristocrazia medievale. Ma quei pochi che ci sono sono persone del tutto povere e oscure, nemmeno del rango che chiameremmo ceto medio. Ma in tutte e tre le contee sottoposte al mio esame, gli uomini che sembrano non avere alcun diritto alla nascita nobile sono i nobiluomini.»
+
+Lo disse con tono spento e impersonale, come se stesse tenendo una lezione a degli studenti sugli Ittiti. Ma forse fu un poco calcato; le parole con cui proseguì erano un po' troppo morte e distinte. «I loro possedimenti sono stati generalmente ottenuti assai di recente e spesso con metodi di dubbia [[morality|moralità]], [[Alone|per non dire]] cavalleria; da piccoli notai e speculatori che impiegavano varie forme di ipoteca, di pignoramento e via dicendo. Nell'assumere i possedimenti, queste ingegnose persone assunsero generalmente non soltanto i titoli, ma i nomi di famiglie più antiche. Il nome della famiglia Eden non è Eames ma Evans. Il nome della famiglia Seawood non è Severne ma [[smith|Smith]].»
+
+E a quel punto Murrel, che aveva osservato con pena il volto pallido e l'atteggiamento rigido dell'oratore, borbottò d'un tratto un'esclamazione e comprese.
+
+Tutt'intorno vi era ora un trambusto del tutto scomposto e senza freni; ma non era ancora un grido concertato, bensì un rumore come di tutti che parlavano in una volta; e alto al di sopra di tutto la dura voce dell'Arbitro si poteva ancora udire.
+
+«Gli unici due uomini in questa parte della contea che possono rivendicare la nobiltà a cui è stato fatto appello sono un uomo che ora guida un omnibus fra qui e la città di Milldyke e un piccolo [[grocer|fruttivendolo]] della stessa città. Nessun'altra persona può chiamarsi _Armiger Generosus_ eccetto William Pond e George Carter.»
+
+«Oh, santo cielo, il vecchio George!», gridò Murrel, colto di sorpresa fino a rovesciare indietro il capo con uno scoppio di risa. Il riso fu contagioso; ruppe la tensione e li accolse tutti in un baratro fragoroso; il vero rifugio degli inglesi. Perfino Braintree, ricordando d'un tratto il solido sorriso del vecchio George al Green Dragon, non riuscì a dominare il proprio spasso.
+
+Ma, come Lord Seawood aveva esattamente osservato, l'Arbitro della [[Court|Corte]] d'Arbitrato era carente di senso dell'[[Humour|umorismo]]. Non aveva mai debitamente studiato i vecchi volumi di _Punch_.
+
+«Non so», disse, «perché il lignaggio di quest'uomo debba essere ridicolo. Egli non ha, per quanto ne so, fatto nulla per macchiare il proprio stemma. Non ha cospirato con ladri e accaparratori per rovinare uomini onesti. Non ha preso denaro a usura né accumulato campo su campo con l'inganno, servito le famiglie regnanti come un cane e poi banchettato sulle famiglie morenti come un avvoltoio. Ma voi — voi che venite qui a calpestare il volto dei poveri con le vostre pomposità di proprietà e di gentilizio, e col vostro gran fioretto finale di cavalleria — e voi? Voi sedete nella [[house|casa]] di un altro; portate il nome di un altro; il blasone di un altro è sul vostro scudo; il cimiero di un altro è sui vostri pilastri del cancello; tutta la vostra storia è la storia di uomini nuovi in vecchi panni, e voi venite qui da me a perorare contro la giustizia nel nome della vostra nobile discendenza.»
+
+Il riso si era spento, ma il rumore era anche più forte; non vi era ora più travestimento o esitazione riguardo alla sua [[Nature|natura]]; tutte le grida spezzate si erano riunite; vi era un nuovo rumore della folla quando si muta in muta che dà la caccia. Archer e Hanbury e altri dieci o dodici uomini erano in piedi e gridavano; e tuttavia alta al di sopra di tutti gli altri rumori una voce sola riusciva ancora a librarsi senza essere zittita; la voce del fanatico sul seggio del giudizio.
+
+«Sia dunque messo agli atti per il terzo giudizio e la risposta alla terza istanza. Questi tre uomini hanno rivendicato il dominio di un mestiere e l'obbedienza di tutti i loro operai; e la loro causa è giudicata. Avanzano la pretesa del dominio e non sono padroni. Avanzano la pretesa della proprietà e non sono i proprietari. Avanzano la pretesa della nobiltà e non sono nobili. Le tre istanze sono respinte.»
+
+«[[Well|Ebbene]]», ansimò Archer, «e per quanto tempo tutto ciò dovrà essere tollerato?»
+
+Il rumore si era alquanto placato come per stanchezza; e ciascuno guardava l'altro come chiedendosi davvero che cosa sarebbe venuto dopo.
+
+Lord Eden si era alzato lentamente e pigramente in piedi, con le mani ficcate nelle tasche dei pantaloni.
+
+«Si è fatta menzione», disse, «di qualcuno accusato di follia. Mi dispiace che una penosa scena del genere sia dovuta accadere in questo luogo; ma non è [[Time|ora]] che qualche persona umana intervenga?»
+
+«Qualcuno mandi a chiamare un medico», gridò Archer con voce squillante ed eccitata.
+
+«L'avete nominato voi stesso, Eden», disse Murrel, guardando bruscamente da sopra la spalla.
+
+«Tutti commettiamo errori», disse Eden pacatamente. «Non negherò mai che il lunatico ha riso di me. Ma è una scena piuttosto sgradevole per le dame.»
+
+«Sì», disse Braintree. «Le dame hanno l'occasione di ammirare il grande finale di tutta la vostra lealtà e dei vostri voti.»
+
+«Se», disse l'Arbitro con calma, «questa è la fine della vostra lealtà verso di me, non è la fine della mia lealtà verso di voi; o verso la legge che ho giurato di esporre. Nulla è per me scendere da questo seggio; ma tutto è dire la [[Truth|verità]] mentre qui mi trovo; ed è meno di nulla se voi odiate la [[Truth|verità]] o no.»
+
+«Siete sempre stato un commediante», gridò Julian Archer con collera.
+
+Uno strano sorriso passò sul volto pallido del giudice.
+
+«Là», disse, «vi sbagliate singolarmente. Non sono sempre stato un commediante; ero una persona assai umile e monotona finché voi non mi avete voluto e mi avete fatto commediante. Ma ho scoperto che la commedia che recitavate era qualcosa di molto più reale della vita che conducevate. Le rime che pronunciammo nella recita su quel prato erano tanto più simili alla vita di qualsiasi vita che allora conducevate. E quanto simili a ciò che viviamo ora.» La sua voce non mutò, ma parve scorrere più rapidamente, come se il verso fosse più naturale della prosa.
+
+  «I re malvagi seggon comodi sui loro troni,
+   la vergogna sanata dall'abitudine; ma qual panico in alto,
+   qual bianco terrore selvaggio se un [[King|re]] fosse buono,
+   qual vacillar delle [[Stars|stelle]]; qual prodigio!
+   Gli uomini sopportano facilmente un padrone ingiusto,
+   ma un padrone giusto nessuno lo sopporterà;
+   i suoi nobili insorgeranno, i suoi cavalieri lo tradiranno,
+   ed egli andrà, come io vado, [[Alone|solo]].»
+
+Scese d'un tratto dalla pedana; e parve più alto per la discesa.
+
+«Se cesso di essere [[King|re]] o giudice», gridò, «sarò ancora un cavaliere; fosse pure, come nella commedia, un cavaliere errante. Ma voi sarete tutti commedianti. Furfanti e vagabondi, dove avete rubato i vostri speroni?»
+
+Uno spasimo di qualcosa d'indescrivibile, come un tic d'involontaria umiliazione, attraversò il volto arcigno del vecchio Eden, ed egli disse irritato: «Vorrei che questa scena finisse.»
+
+Poteva avere una sola fine. Braintree ardeva di una cupa esultanza; ma gli uomini intorno a lui comprendevano quasi altrettanto poco della decisione in loro favore quanto gli uomini di fronte; e in ogni caso questi ultimi erano da tempo ben oltre il permettere loro d'intervenire. E tutta quella cavalleresca compagnia rispose con mormorii o con cupo [[Silence|silenzio]] all'appello di sostegno del loro defunto capo. In risposta a quel richiamo solo due di loro si mossero. Dai margini esterni della folla Olive Ashley si fece lentamente avanti col movimento di una principessa e, gettando uno sguardo oscuramente radioso al capo dei lavoratori, prese posto accanto al seggio del giudizio. Non osò guardare il volto bianco e petrigno della donna che le era amica. Un istante dopo Douglas Murrel si alzò con indolenza sui piedi con una singolare smorfia e andò a mettersi dal lato opposto dell'Arbitro. Sembravano strane ripetizioni, e persino parodie, della dama e dello scudiero che avevano retto lo scudo e la [[Sword|spada]] ai suoi due lati, il giorno in cui fu incoronato.
+
+Ritto dinanzi al suo seggio del giudizio, il giudice fece un ultimo gesto rituale come lo stracciarsi delle vesti degli antichi. Si strappò di dosso la lunga veste scura di nero e di porpora che era il suo paramento giudiziario, e lasciandola cadere si erse nel completo abito di verde aderente che aveva sempre indossato dal drammatico giorno seguito al dramma.
+
+«Andrò come un vero fuorilegge», disse, «e come gli uomini fanno rapina sulla strada maestra, io farò giustizia sulla strada maestra; e sarà reputato un delitto più selvaggio.»
+
+Volse loro le spalle e per un istante il suo sguardo selvaggio parve errare qua e là intorno al trono vuoto.
+
+«Avete perduto qualcosa?», chiese Murrel.
+
+«Ho perduto ogni cosa», rispose Herne, e Murrel guardò per un istante nei suoi occhi spettrali.
+
+Poi vide ciò che cercava e raccolse la grande lancia che era andata con la sua veste da guardaboschi e si allontanò a grandi passi verso i cancelli del parco.
+
+Murrel rimase a fissarlo mentre si allontanava, e poi, come sospinto da un nuovo impulso, gli corse dietro lungo il sentiero, chiamandolo per nome. L'uomo in verde si voltò e lo guardò con volto pallido e paziente.
+
+«Senti», disse Murrel, «posso venire con te?»
+
+«Perché dovresti venire con me?», chiese Herne, non sgarbatamente ma piuttosto come se si rivolgesse a uno straniero.
+
+«Non mi conosci?», chiese Murrel. «Non conosci il mio nome? [[Well|Ebbene]], forse non conosci il mio vero nome.»
+
+«Che cosa vuoi dire?», chiese Herne.
+
+«Il mio nome», disse l'altro, «è Sancho Panza.»
+
+Venti minuti più tardi partì dalle terre di Lord Seawood un _cortege_ eminentemente calcolato a mostrare come il [[Grotesque|grottesco]] [[dogs|insegua]] le orme del fantastico. Poiché il signor Douglas Murrel non aveva affatto l'intenzione di perdere la propria facoltà di godere dell'assurdo con completa gravità. L'ultima fase di quell'uscita valeva la pena di essere vista, benché solo pochi degli sbandati festaioli o rivoltosi fossero là a vederla. Non appena Murrel ebbe ottenuto il posto di scudiero per cui aveva supplicato, sparì dietro una rimessa attigua e ricomparve appollaiato in cima al suo celebre hansom e conducendone lo sgangherato [[Horse|cavallo]] da carrozza. Inchinandosi dal suo trespolo con la deferenza di un servitore raffinato, sembrava invitare il suo nuovo padrone a salire nella carrozza. Ma vi doveva essere ancora un crescendo o un bathos e una mescolanza del [[Sublime|sublime]] e del ridicolo; poiché con un ultimo impulso di oltraggiosa solennità, il cavaliere errante in verde balzò a cavalcioni del [[Horse|cavallo]] da carrozza e segnalò con la lancia levata.
+
+Come una rivelazione di [[Lightning|fulmine]], nell'istante prima che la risata annientatrice calasse come la [[Night|notte]], coloro che la videro videro una visione e un [[Memory|ricordo]], luminoso e fragile come un'istantanea [[Resurrection|resurrezione]] dei morti. Le ossa del volto scarno e dai lineamenti marcati, la forcuta barba simile a fiamma, gli occhi incavati e quasi frenetici, erano in una cornice che sorprendeva col riconoscimento; rigido sopra la sella di Ronzinante, alto e in armi lacere, egli levava quella vana lancia che per trecento anni non ci ha insegnato altro che a ridere dello scuotersi dell'asta. E dietro di lui si [[Rose|levava]] una vasta [[Shadow|ombra]] spalancata come la vera visione di quel leviatano del riso; la [[Grotesque|grottesca]] carrozza come le fauci di un dragone beffardo che lo inseguiva per sempre, come la vasta [[Shadow|ombra]] della caricatura insegue la nostra disperata dignità e [[Beauty|bellezza]], incombendo sopra di lui per sempre minacciosa come l'onda del mondo; e sopra tutto, lo spirito umano minore e più lieve, non malevolo, che guardava dall'alto tutto ciò che è più sublime.
+
+E tuttavia, benché quella torreggiante e vacillante appendice d'assurdità fosse trascinata dietro di lui come un carico soverchiante, per quell'istante di [[Time|tempo]] essa fu cancellata e dimenticata, nella forza e nella terrificante passione del suo volto.
 
 -^-

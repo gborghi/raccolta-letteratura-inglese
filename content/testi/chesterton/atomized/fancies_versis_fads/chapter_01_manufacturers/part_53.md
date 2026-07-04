@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/fancies-versis-fads-(chesterton)">Fancies Versis Fads</a> › <a href="/testi/chesterton/atomized/fancies_versis_fads/chapter_01_manufacturers">Chapter 01 MANUFACTURERS</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/fancies_versis_fads/chapter_01_manufacturers/part_52">‹ part 52</a><a class="ex-next" href="/testi/chesterton/atomized/fancies_versis_fads/chapter_01_manufacturers/part_54">part 54 ›</a></div>
@@ -116,3 +118,115 @@ they were [[Well|well]] aware of his activities as an oppressor of those below.
 This aspect, as has already been noted, was best described by a
 friend of Johnson, for whom Johnson had a very noble and rather
 unique appreciation--[[Oliver]] Goldsmith.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/fancies-versis-fads-(chesterton)">Fancies Versis Fads</a> › <a href="/testi/chesterton/atomized/fancies_versis_fads/chapter_01_manufacturers">Chapter 01 MANUFACTURERS</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/fancies_versis_fads/chapter_01_manufacturers/part_52">‹ part 52</a><a class="ex-next" href="/testi/chesterton/atomized/fancies_versis_fads/chapter_01_manufacturers/part_54">part 54 ›</a></div>
+</nav>
+
+Prenderò un solo esempio di ciò che intendo per questo malinteso puramente
+letterario: un esempio dagli stessi «Gulliver's Travels».
+Il caso della sottovalutazione di Swift è particolarmente sottile,
+poiché Swift era realmente squilibrato come individuo, cosa che ha reso
+assai più facile ai critici il non mantenere il piuttosto delicato equilibrio
+della giustizia sul suo conto. Vi è un motivo superficiale per dire
+che fosse pazzo, a prescindere dall'accidente fisico della sua [[Madness|follia]];
+ma il punto è che perfino coloro che hanno compreso che egli era
+talvolta pazzo di rabbia non hanno compreso contro che cosa fosse in rabbia.
+E ve n'è una curiosa illustrazione nella conclusione della storia
+di Gulliver. Tutti ricordano la brutta faccenda degli Yahoo,
+e la faccenda ancor più brutta degli esseri umani reali che ricordavano
+al viaggiatore reduce gli Yahoo; come Gulliver dapprima rifuggisse dai
+suoi amici, e solo gradualmente acconsentisse a sedere accanto alla moglie.
+E tutti ricordano il pittoresco ma ostile [[Sketch|ritratto]] che
+Thackeray fa della [[Satire|satira]] e del satirico; di Swift come nero
+e malvagio bestemmiatore che si mette a scrivere la sua terribile [[Allegory|allegoria]],
+la cui unica morale è che tutte le cose sono, e sempre devono essere,
+prive di valore e vili. Dico che tutti ricordano entrambi
+questi passi letterari; ma, in verità, [[Fear|temo]] che molti ricordino
+il passo critico senza ricordare davvero il passo creativo,
+e che molti abbiano letto Thackeray senza aver letto Swift.
+
+Ora, è qui che la [[Literary Criticism|critica letteraria]] pura ha una parola da dire.
+Un uomo di lettere può essere pazzo o sano nella sua costituzione cerebrale;
+può aver ragione o torto nelle sue antipatie politiche; può essere qualunque cosa
+ci accada di amare o detestare dal nostro individuale punto di vista.
+Ma c'è una cosa a cui un uomo di lettere ha diritto,
+qualunque egli sia, ed è una giusta comprensione critica di qualsiasi
+particolare effetto letterario a cui manifestamente mira e che consegue.
+Ha diritto al suo culmine, e diritto a non essere giudicato
+senza riferimento al suo culmine. Non sarebbe giusto tralasciare
+i bellissimi ultimi versi del «[[Paradise Lost]]» come mero anticlimax;
+senza comprendere che il poeta ebbe una nobile intenzione nel permettere
+che quella conclusione, dopo tutto il tuono e le trombe del giudizio,
+cadesse e si spegnesse su una nota più mite di [[Mercy|misericordia]] e di ragionevole [[Hope|speranza]].
+Non sarebbe giusto marchiare l'episodio di Ignoranza,
+dannato proprio alle porte del Cielo alla fine del libro di Bunyan,
+come una mera macchia di nera crudeltà e livore calvinista, senza comprendere
+che lo scrittore intese pienamente la sua tremenda ironia, come un ultimo tocco
+del dito della [[Fear|paura]]. Ma questa giustizia che si rende ai maestri puritani
+dell'[[Imagination|immaginazione]] non è stata quasi mai resa ai grandi maestri Tory
+dell'ironia. Nessun critico che io abbia letto ha notato il vero punto
+e il culmine di quel passo sugli Yahoo. Swift vi conduce
+abbastanza spietatamente, poiché un [[Artist|artista]] di quella sorta è spesso spietato;
+e ciò è accresciuto dal suo naturale talento per una specie di folle realtà
+del dettaglio, come nella descrizione della distanza lentamente diminuita
+tra sé e la moglie alla tavola da pranzo. Ma egli stava lavorando
+verso qualcosa che desiderava davvero dire, qualcosa che valeva [[Well|bene]]
+la pena di dire, ma che pochi paiono aver ritenuto degno di essere udito.
+Egli fa capire di aver a poco a poco perduto la ripugnanza per l'umanità di cui
+il parallelo con gli Yahoo lo aveva riempito, che, sebbene gli uomini siano per molti versi
+meschini e animaleschi, giunse a sentirli normali e tollerabili;
+che il senso della loro indegnità ora torna assai di rado;
+e che, in verità, c'è una sola cosa che lo ravviva.
+Se una di queste creature esibisce [[Pride|Orgoglio]].
+
+Questa è la voce di Swift, e il grido che mette sotto accusa l'aristocrazia.
+È naturale che una scimmia raccolga noci, e può
+essere perdonabile che John Churchill raccolga ghinee.
+Ma pensare che John Churchill possa essere orgoglioso del suo mucchio di ghinee,
+possa [[convert|convertirle]] in [[Stars|stelle]] e corone, e possa portare quel volto calmo
+e classico sdegnoso al di sopra della moltitudine! È naturale
+che le scimmie femmine vengano in qualche modo accoppiate; ma pensare che la Duchessa
+di Yarmouth sia orgogliosa di essere la Duchessa di Yarmouth! Può
+non sorprendere che la nobiltà si sia accapigliata come
+Yahoo strillanti per gli stracci e i nastri della Rivoluzione,
+facendo lo sgambetto e tradendo chiunque e tutti a turno, con ogni
+sudicia astuzia del tradimento, per qualunque cosa potessero arraffare.
+Ma che quelli di loro che avevano ottenuto tutto disprezzassero poi
+quelli che non avevano ottenuto nulla, che i ricchi sogghignassero dei poveri
+perché non avevano parte del bottino, che questa oligarchia di Yahoo
+si sentisse davvero superiore a qualunque cosa o a chiunque — questo sì muove
+il [[Prophet|profeta]] della parte perdente a un'indignazione che è qualcosa di assai
+più profondo e più nobile delle negative frivolezze che chiamiamo bestemmia.
+Swift fu forse più un Geremia che un Isaia, e per giunta un Geremia
+difettoso; ma nel grande culmine della sua tetra [[Satire|satira]]
+egli è nondimeno un veggente e un dicitore delle cose di Dio;
+perché rende la testimonianza del più forte e più penetrante
+degli intelletti umani alla profonda [[Truth|verità]] della meschinità e
+imbecillità dell'[[Pride|orgoglio]].
+
+E gli altri uomini della stessa tradizione avevano essenzialmente
+lo stesso istinto. Johnson fu per molti versi ingiusto verso Swift,
+proprio come Cobbett fu poi ingiusto verso Johnson. Ma guardando
+indietro lungo la prospettiva della [[history|storia]] possiamo tutti vedere che quei tre
+grandi uomini erano tutti rivolti nella stessa direzione; che tutti rimpiangevano
+l'ascesa di una rapace e paganizzata aristocrazia commerciale,
+e la sua conquista sulle antiche tradizioni popolari, che taluni chiamerebbero
+pregiudizi popolari. Quando Johnson disse che il diavolo era
+il primo Whig, avrebbe potuto semplicemente variare la frase dicendo
+che era il primo [[aristocrat|aristocratico]]. Poiché gli uomini di questa tradizione Tory,
+nello spirito se non nella definizione, distinguevano tra il privilegio
+della monarchia e quello della nuova aristocrazia mediante un criterio assai sostenibile.
+Il segno dell'aristocrazia è l'[[Ambition|ambizione]]. Il [[King|re]] non può essere ambizioso.
+Potremmo dirlo oggi affermando che la monarchia è autorità; ma nella sua
+essenza l'aristocrazia è sempre anarchia. Ma gli uomini di quella scuola
+non criticavano l'oligarca soltanto come [[Rebel|ribelle]] contro chi gli stava sopra;
+erano [[Well|ben]] consapevoli delle sue attività come oppressore di chi gli stava sotto.
+Questo aspetto, come già si è notato, fu descritto meglio da un
+amico di Johnson, per il quale Johnson nutriva un apprezzamento assai nobile e piuttosto
+unico — [[Oliver]] Goldsmith.

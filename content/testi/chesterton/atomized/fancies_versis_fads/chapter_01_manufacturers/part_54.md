@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/fancies-versis-fads-(chesterton)">Fancies Versis Fads</a> › <a href="/testi/chesterton/atomized/fancies_versis_fads/chapter_01_manufacturers">Chapter 01 MANUFACTURERS</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/fancies_versis_fads/chapter_01_manufacturers/part_53">‹ part 53</a><span></span></div>
@@ -65,3 +67,64 @@ but I know not when we shall find our way back to our own land.
 --
 
 THE END
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/fancies-versis-fads-(chesterton)">Fancies Versis Fads</a> › <a href="/testi/chesterton/atomized/fancies_versis_fads/chapter_01_manufacturers">Chapter 01 MANUFACTURERS</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/fancies_versis_fads/chapter_01_manufacturers/part_53">‹ part 53</a><span></span></div>
+</nav>
+
+[[Hope|Spero]] che l'autore di un pregevole studio sul signor Belloc
+apparso in questa rivista non pensi che io mi limiti a contraddire
+una delle sue osservazioni se mi azzardo ad aggiungervi qualcosa.
+Egli usò la frase che il signor Belloc era stato anticipato da Disraeli
+nella sua visione dell'Inghilterra come evolutasi in un'oligarchia veneziana.
+La [[Truth|verità]] è che Disraeli fu anticipato da Bolingbroke e dai molti
+uomini altamente intelligenti che erano d'accordo con lui; e non ultimo da Goldsmith.
+L'intera veduta, compreso proprio il parallelo con [[Venice|Venezia]], si può trovare
+enunciata con luminosa [[logic|logica]] e forza persuasiva nel «Vicar of Wakefield».
+E Goldsmith affrontò il problema interamente dal lato popolare.
+Nessuno può scambiare il suo torysmo per una snobistica sottomissione a un
+privilegio o a un titolo:
+
+   Principi e signori, l'[[Shadow|ombra]] di un'ombra,
+   un soffio può crearli, come un soffio li ha creati:
+   ma un ardito contadinato, l'[[Pride|orgoglio]] di una nazione,
+   una volta distrutto non potrà mai più esser rimpiazzato.
+
+[[Hope|Spero]] che avesse torto; ma talvolta ho l'orribile sensazione
+che possa aver avuto ragione.
+
+Ma qui, grazie a Dio, non ho motivo di toccare la politica moderna.
+Fui educato, non meno del mio critico, nella convinzione che il whiggismo
+fosse una pura liberazione; e [[Hope|spero]] di essere ancora disposto quanto lui a
+rispettare i Puritani per la loro virtù individuale [[Well|come pure]] per il loro
+genio individuale. Ma smuove tutti i miei ricordi dell'immoralità
+degli anni Novanta l'essere accusato di indifferenza verso l'importanza
+di essere seri. Ed è per amore della letteratura inglese
+che protesto contro l'insinuazione che non avessimo altra purezza
+se non il [[Puritanism|puritanesimo]], o che soltanto un uomo come l'autore del «[[Paradise Lost]]»
+potesse riuscire a stare dalla parte degli angeli.
+
+Nel giorno della Pace collocai fuori dalla mia [[house|casa]] due torce, e le
+intrecciai con l'alloro; perché pensavo che almeno non vi fosse nulla
+di pacifista nell'alloro. Ma quella [[Night|notte]], dopo che il falò e i
+fuochi d'artificio si furono spenti, si levò un [[Wind|vento]] che soffiò con crescente
+violenza, spazzando via la pioggia. E al mattino trovai uno dei
+pali inghirlandati d'alloro divelto e disteso a caso sul suolo bagnato di pioggia;
+mentre l'altro stava ancora eretto, verde e scintillante al sole.
+Pensai che i pagani lo avrebbero certamente chiamato un presagio;
+ed era un presagio che stranamente si accordava al mio senso di qualche grande opera
+per metà compiuta e per metà frustrata. E pensai vagamente a quell'
+uomo di Virgilio, che pregò di poter uccidere il suo nemico e tornare
+alla sua patria; e gli dèi udirono metà della [[Prayer|preghiera]], e l'altra metà
+fu dispersa ai venti. Poiché sapevo che avevamo ragione di rallegrarci;
+giacché il [[Tyrant|tiranno]] era davvero ucciso e la sua tirannia caduta per sempre;
+ma non so quando ritroveremo la via del ritorno alla nostra terra.
+
+--
+
+FINE

@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/fancies-versis-fads-(chesterton)">Fancies Versis Fads</a> › <a href="/testi/chesterton/atomized/fancies_versis_fads/chapter_01_manufacturers">Chapter 01 MANUFACTURERS</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/fancies_versis_fads/chapter_01_manufacturers/part_10">‹ part 10</a><a class="ex-next" href="/testi/chesterton/atomized/fancies_versis_fads/chapter_01_manufacturers/part_12">part 12 ›</a></div>
@@ -120,3 +122,119 @@ are the very things which their placid universalism forbids;
 and that there is nothing better or more beautiful than a noble hatred.
 I do not profess to feel it for them; but they themselves do not
 seem to feel it for anything.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/fancies-versis-fads-(chesterton)">Fancies Versis Fads</a> › <a href="/testi/chesterton/atomized/fancies_versis_fads/chapter_01_manufacturers">Chapter 01 MANUFACTURERS</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/fancies_versis_fads/chapter_01_manufacturers/part_10">‹ part 10</a><a class="ex-next" href="/testi/chesterton/atomized/fancies_versis_fads/chapter_01_manufacturers/part_12">part 12 ›</a></div>
+</nav>
+
+Ma la [[philosophy|filosofia]] dei due Simplicio è abbastanza chiara.
+Il primo è un'espansione della semplicità verso la complessità;
+Simplicio, consapevole di non saper fare da sé le torte,
+si accosta ad esse con un ardore non privo di reverenza.
+Il secondo, invece, è una reazione della complessità verso la semplicità;
+in altre parole l'altro Simplicio rifiuta le torte per varie ragioni,
+spesso compresa quella di averne mangiate troppe.
+La maggior parte della Vita Semplice quale la vediamo oggi ha, naturalmente,
+questo carattere della sazietà o dell'ingozzatura di Simplicio,
+quando ormai è divenuto meno semplice e certo meno goloso.
+Questa reazione può assumere due forme diverse: può spingere Simplicio
+a cercare dolciumi sempre più costosi e stravaganti,
+oppure può ridurlo a sgranocchiare qualche nuova sorta di biscotto alle noci.
+Perché conviene notare, di sfuggita, che con ogni probabilità non lo ridurrà
+a mangiare pane secco.  La Vita Semplice non accetta mai nulla
+che sia semplice nel senso di [[Self|evidente]] di per sé e familiare.
+La cosa dev'essere insolitamente semplice; non dev'essere semplicemente comune.
+La sua [[philosophy|filosofia]] dev'essere qualcosa di più alto della normale tavola
+della colazione, e qualcosa di più secco del pane secco.  Il procedimento consueto,
+per come l'ho osservato nei compendi [[vegetarian|vegetariani]] e in altri,
+sembra in un certo senso davvero abbastanza semplice.  Il pasticciere produce
+quella che pare la stessa specie di torta, o dovrebbe parerlo;
+solo che ha la crosta più sottile fuori e nulla del tutto dentro.
+Poi, invece di chiedere un penny a Simplicio, gliene chiede una sterlina,
+o forse una ghinea o un biglietto da cinque sterline.  E, cosa più strana di tutte,
+il cliente è spesso un Simplicio così singolarmente Semplice che paga.
+Perché quella è forse la differenza ultima e più marcata tra
+il Simplicio dello Spirito Semplice e il Simplicio della Vita Semplice.
+È il fatto che l'ardente e riconoscente Simplicio non era
+in possesso di un penny.  Il Simplicio più raffinato ed esaltato
+è generalmente in possesso di fin troppi penny.
+È spesso molto ricco, e deve esserlo; perché quanto più secche e sottili
+e vuote sono le torte, tanto più caro gliele fanno pagare.
+Ma questo [[Alone|soltanto]] rivelerà un altro lato dello stesso [[Paradox|paradosso]];
+e se è possibile spendere un mucchio di denaro nella Vita Semplice,
+è anche possibile ricavarne un mucchio di denaro.
+Vi sono parecchi [[Self|reclamisti]] che se la passano molto [[Well|bene]] con la nuova
+[[Self|rinuncia]]. Ma la ricchezza sta sempre a un capo o all'altro della faccenda;
+ed è questa la grande differenza tra i due Simplicio.
+Forse è la differenza tra Simon Pietro e Simon Mago.
+
+Ho davanti a me un piccolo opuscolo in cui si danno le indicazioni
+più precise per un Finto Tacchino, per un pasticcio di carne [[vegetarian|vegetariano]],
+e per un budino di Natale cauto e igienico.  Non ho mai del tutto
+capito perché debba far parte della Vita Semplice avere qualcosa
+di tanto ingannevole e quasi cospiratorio come un tacchino d'[[Imitation|imitazione]].
+Al rozzo e comico assessore si potrà perdonare, nella sua festosa buffoneria,
+di burlarsi di una tartaruga; ma di certo un umanitario magro e serioso non dovrebbe
+burlarsi di un tacchino.  Né capisco la teoria dell'[[Imitation|imitazione]]
+nel suo rapporto con l'ideale.  Di certo chi ritiene il mangiar carne mero
+cannibalismo non dovrebbe disporre le verdure in modo da farle sembrare un animale.
+È come se un cannibale convertito delle Isole Sandwich disponesse
+i tagli di carne nella forma di un missionario.  I missionari
+guarderebbero di certo all'operato del loro [[convert|convertito]] con qualcosa
+di meno dell'approvazione, e forse con qualcosa di affine all'allarme.
+Ma la coerenza di queste concessioni la lascerò da parte,
+perché qui non mi occupo delle concessioni bensì
+del credo stesso.  E mi occupo del credo non solo
+in quanto influisce sulla sua pratica nella dieta o nella cucina, ma della sua teoria generale.
+Perché i compilatori del libretto che ho davanti sono grandi in [[philosophy|filosofia]]
+ed etica.  Vi sono pagine intere sulla fratellanza e la comunione
+e la felicità e la guarigione.  In breve, come osserva lo scrittore,
+abbiamo «anche alcuni Aiuti Mentali, quali sono esposti nel diluvio
+della Letteratura Psicologica odierna — ma elevati a un piano più alto.»
+Può essere un po' rischioso esporre una cosa in un diluvio, o un po'
+difficile elevare un diluvio a un piano più alto; ma dietro
+queste espressioni piuttosto vaghe c'è un'intelligenza e un punto
+di vista moderni assai reali, comuni a un considerevole numero di persone colte,
+e [[Well|ben]] degni di qualche ulteriore studio.
+
+Sotto il titolo «Come Pensare» ci sono ventiquattro regole di cui
+le prime poche sono: «Svuota la Mente», «Pensa alle Cose Migliori»,
+«Apprezza», «Analizza», «Preparati Fisicamente», «Preparati Mentalmente»,
+e così via.  Ho incontrato alcuni studenti seri di questa scuola, che a quanto
+pareva si erano incamminati su questo corso, ma al [[Time|momento]] del nostro incontro
+avevano preso il diploma solo fino all'adempimento della prima regola.
+Era più evidente, nel complesso, che erano riusciti nel
+processo preliminare di svuotare la mente piuttosto che aver già pensato
+alle cose migliori, o analizzato o apprezzato alcunché in particolare.
+Ma ce n'erano altri, lo ammetto volentieri, che avevano davvero pensato
+a certe cose in modo genuinamente riflessivo, per quanto se
+fossero davvero le cose migliori potrebbe comportare una divergenza d'opinione
+tra noi.  Comunque, per quanto li riguarda, è una scuola
+di pensiero, e perciò degna di essere pensata.  Essendo stato in grado,
+fino a questo punto, di apprezzare, tenterò ora di analizzare.
+Ho tentato di scoprire nella mia stessa mente dove stia realmente
+la differenza tra noi, a prescindere da tutte queste facezie superficiali e
+argomentazioni giornalistiche; di chiedermi perché mai esattamente il loro ideale
+[[vegetarian|vegetariano]] differisca tanto dal mio ideale cristiano.  E il risultato
+della concentrata contemplazione del loro ideale è, lo confesso,
+un piuttosto impaziente balzo in avanti nel percorso della loro iniziazione.
+Sono fortemente disposto a «Prepararmi Fisicamente» a un conflitto con
+il [[vegetarian|vegetariano]] ideale, con l'unica [[Hope|speranza]] di colpirlo sul naso.
+In uno dei racconti del signor P. G. Wodehouse il [[vegetarian|vegetariano]] rimprovera
+il suo nemico per aver minacciato di scuoiarlo, ricordandogli che l'uomo
+dovrebbe pensare solo pensieri belli; al che il nemico dà
+la risposta inconfutabile: «Scuoiarti è un bel pensiero.»
+Allo stesso modo io sono del tutto pronto a pensare alle cose migliori;
+ma penso che colpire il [[vegetarian|vegetariano]] ideale sul naso sarebbe una
+delle cose migliori del mondo.  Questo può essere un esempio estremo;
+ma implica un principio assai più serio.  Ciò che simili
+filosofi dimenticano spesso è che tra le cose migliori del mondo
+vi sono proprio quelle che il loro placido universalismo proibisce;
+e che non c'è nulla di meglio o di più bello di un nobile odio.
+Non pretendo di provarlo per loro; ma essi stessi non
+paiono provarlo per nulla.

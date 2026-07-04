@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/don-quixote-(chesterton)">Don Quixote</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/don_quixote/chapter_18">‹ Chapter 18</a><a class="ex-next" href="/testi/chesterton/atomized/don_quixote/chapter_20">Chapter 20 ›</a></div>
@@ -317,5 +319,124 @@ replied the implacable politician.
 to be so happy?"
 
 He laughed shortly and they went out along the grey [[Road|road]] toward Milldyke.
+
+-^-
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/don-quixote-(chesterton)">Don Quixote</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/don_quixote/chapter_18">‹ Chapter 18</a><a class="ex-next" href="/testi/chesterton/atomized/don_quixote/chapter_20">Chapter 20 ›</a></div>
+</nav>
+<nav class="excerpt-children">
+<div class="excerpt-children-label">In questa sezione</div>
+<ul><li><a href="/testi/chesterton/atomized/don_quixote/chapter_19/part_01">Part 1</a></li><li><a href="/testi/chesterton/atomized/don_quixote/chapter_19/part_02">Part 2</a></li></ul>
+</nav>
+
+CAPITOLO XVIII
+
+IL SEGRETO DI SEAWOOD
+
+Era stato un giorno di sbalordimento per molti, in cui il loro [[Prophet|profeta]] che era venuto a benedire era rimasto a maledire e alla fine se n'era andato maledicendo. Ma di tutti coloro che erano rimasti sconvolti dal giudizio che li aveva condannati, forse non uno era stato più sbalordito dell'uomo che il giudizio aveva giustificato. John Braintree rimase a fissare per tutto il procedimento con cui quelle che gli parevano leggi dell'Età della Pietra venivano dissotterrate come asce di pietra e offerte a lui come armi. Qualunque altra cosa si fosse aspettato, fosse vendicatività feudale o magnanimità cavalleresca, non aveva mai sognato di sentire sostenere la propria causa come un pezzo di puro medievalismo. Per quanto riusciva a capire, egli stesso era di gran lunga la persona più medievale presente. Ciò lo faceva sentire molto a disagio.
+
+Poi, mentre stava [[rolling|roteando]] gli occhi intorno alla dissoluzione di quella bizzarra scena di trasformazione, essi si posarono su un oggetto particolare; si irrigidì, si ricompose, diede una breve risata e attraversò a grandi passi verso il punto dove Olive stava ritta accanto al trono vuoto. Le pose le mani sulle spalle e disse: «Sembra, cara, che dopotutto siamo riconciliati.»
+
+Ella lo guardò senza muoversi e con un lento sorriso. «È spaventoso», disse, «pensare che io debba rallegrarmi del litigio che rende possibile la — la [[Reconciliation|riconciliazione]].»
+
+«Mi perdonerai se sento soltanto la gioia e non lo spavento», rispose lui. «La gente deve stare dalla mia parte se sta dalla sua parte — voglio dire se sta davvero dalla sua parte, come te.»
+
+«Non troverò poi così difficile stare dalla tua parte», disse lei. «Ho trovato molto difficile non starci. Specialmente quando era la parte perdente.»
+
+«Vedremo [[Well|bene]] ora», disse lui, «se non sarà la parte vincente. Questo ha messo coraggio in tutta la mia gente, te lo assicuro. Mi sento come se avessi rinnovato la mia giovinezza come quella dell'aquila; solo che non è il signor Herne ad averlo fatto.»
+
+Ella parve leggermente imbarazzata e poi disse dubbiosa: «Suppongo che qualcun altro erediterà l'organizzazione.»
+
+«L'organizzazione può andare al diavolo», disse Braintree. «Non supporrai mica che siamo stati battuti da un'organizzazione? Siamo stati battuti da un uomo e da uomini pronti a seguirlo. Credi che m'importi qualcosa degli uomini che erano pronti ad [[Desert|abbandonarlo]]? Ho detto che non avevo paura di archi e asce da battaglia del Trecento; e infatti no; e di certo non ho paura di un'ascia da battaglia del Trecento brandita dal vecchio Seawood. Oh sì, suppongo che andranno avanti con le recite. Avremo il piacere di sentir parlare a lungo di Sir Julian Archer, il brillante Lord Alto Arbitro e universalmente popolare [[King|Re]] d'Armi. Ma non ci crederai capaci di sfondare a fracasso tutta quella roba come carta colorata? L'[[Soul|anima]] se n'è andata; l'[[Soul|anima]] cavalca per la [[Road|strada]] a un miglio di distanza.»
+
+«Sì, credo che tu abbia ragione», disse lei dopo una pausa, «e non soltanto perché [[Michael]] Herne è stato qualcosa come un grand'uomo. È più di questo. L'[[Pride|orgoglio]] è uscito da loro; la loro giovinezza e la loro [[innocence|innocenza]] sono uscite da loro. Hanno udito la [[Truth|verità]] e sanno che è vera. E c'è uno di loro per il quale sono molto infelice.»
+
+Egli la guardò con serietà e disse: «[[Well|Ebbene]], naturalmente mi dispiace per parecchi di loro, in un certo senso; ma vuoi dire —»
+
+«Voglio dire Rosamund», rispose lei abbassando la voce. «Credo sia la cosa più cupa e grande e spaventosa che sia mai accaduta a chiunque; molto peggio di qualsiasi cosa sia mai accaduta a noi.»
+
+«Non sono sicuro di capire», disse lui.
+
+«Naturalmente non capisci», replicò lei.
+
+Egli la guardò in modo perplesso; ed ella proruppe con una sorta di passione.
+
+«Naturalmente non capisci! So che è stato duro per te; ed è stato abbastanza duro per me. Ma noi non siamo passati attraverso ciò che loro hanno attraversato — ciò che _lei_ sta attraversando. Ci siamo separati perché ciascuno di noi credeva che l'altro attaccasse qualcosa di buono; ma non abbiamo, grazie a Dio, mai dovuto attaccarci a vicenda. Tu non hai dovuto alzarti a insultare mio padre; e io non ho dovuto sedere in silenzio e udirlo. Non eri _tu_ a maledire direttamente e personalmente me e i miei; non eri tu, fra tutti gli uomini, che ho dovuto udire dire cose odiose sulla mia stessa [[Home|casa]]. Non so che cosa avrei fatto. Credo che sarei semplicemente morta. Che cosa supponi che lei stia facendo?»
+
+«Mi dispiace terribilmente», rispose lui, «ma davvero non so esattamente di che cosa tu stia parlando. Chi è _lei_? Vuoi dire Rosamund Severne?»
+
+«Naturalmente voglio dire Rosamund Severne», gridò lei con collera, «e lui non le ha lasciato nemmeno il nome. Come supponi che ciò mi sarebbe piaciuto? Che cosa stai a fissare? Vuoi davvero dire che non sai che Rosamund e [[Michael]] Herne sono [[Love|innamorati]] l'uno dell'altra?»
+
+«Non pare che io sappia granché», disse lui, «ma se è vero, naturalmente capisco ciò che intendi.»
+
+«Devo andare a trovarla», disse Olive, «eppure so a stento come farlo.»
+
+Attraversò il [[Garden|giardino]] ormai deserto verso la [[house|casa]]; e nel far ciò, qualcosa la indusse a fermarsi e a contemplare per un istante il monumento che sorgeva sul prato; l'immagine spezzata ritta sul drago. E mentre lo guardava, cose strane e nuove entrarono nella sua [[Soul|anima]] e nei suoi occhi. Nella limpida ed esaltata intensità della sua felicità e infelicità, le pareva di vederlo per la prima [[Time|volta]].
+
+Poi si guardò intorno, come quasi spaventata dalla quiete, l'improvvisa e totale quiete che era succeduta a tutto il trambusto di quel terribile pomeriggio. Il gran prato, racchiuso su tre lati dalla facciata e dalle due ali degli edifici dell'Abbazia, non un'ora prima ribolliva di folle irate e ora era vuoto come i cortili di una [[City|città]] dei morti. La sera ruotava verso l'oscurità e la tonda [[Moon|luna]] si [[Rose|levò]] e brillò via via più intensa finché le deboli ombre della nuova luce smorta cominciarono a mutare sui [[gargoyles|doccioni]] e sugli ornamenti gotici mentre perdevano l'ultima [[Shadow|ombra]] del sole. E mentre il volto di tutto quell'antico edificio guizzava e mutava sotto la luce mutevole, esso parve venire più pienamente in primo piano nella sua mente e assumere un significato che ella non aveva mai compreso prima; benché avrebbe dovuto essere la prima, così avrebbe potuto immaginare, a comprenderlo fin dal principio. Quel traforo aguzzo e affusolato, di cui aveva parlato con leggerezza a Monkey tanto tempo prima, il vetro scuro delle finestre, denso di colori che si potevano scoprire soltanto dall'interno — d'un tratto le disse qualcosa; un [[Paradox|paradosso]]. Dentro c'era luce e fuori c'era soltanto piombo. Ma chi era davvero dentro?... Quelle tre pareti con tutte le loro finestre incappucciate parevano vigilare; parevano aver vigilato fin dal principio di tutte le loro follie e vigilare ancora — e attendere.
+
+D'improvviso e in silenzio, come con una sorta di soffice urto, ella si imbatté in Rosamund stessa, ritta nel gran portale. Non ebbe bisogno di guardare quella perfetta maschera di [[Tragedy|Tragedia]]; evitò di guardarla; ma afferrò l'amica per il braccio e disse incoerentemente: «Oh, non so che cosa dirti... e ho tanto da dire.»
+
+Non vi fu risposta ed ella proruppe di nuovo: «È una vergogna che debba accadere a te, che non sei mai stata altro che buona con tutto il mondo. È una vergogna che qualcuno racconti simili storie.»
+
+Allora Rosamund Severne disse con una spaventosa voce spenta: «Lui dice sempre la [[Truth|verità]].»
+
+«Credo che tu sia la donna più nobile del mondo», disse Olive.
+
+«Soltanto la più sfortunata», disse l'altra. «Non è colpa di nessuno. È come se ci fosse una maledizione su questo luogo.»
+
+E in quell'istante di [[Time|tempo]] Olive ricevette una rivelazione come una luce accecante; e comprese il proprio tremore nell'[[Shadow|ombra]] di quelle mura vigilanti.
+
+«Rosamund, c'è una maledizione sul luogo», disse. «C'è una maledizione perché c'è una benedizione. Ma non ha nulla a che fare con qualcosa di cui abbiamo mai parlato. Non ha nulla a che fare con qualcosa che quell'uomo ha detto. Non è una maledizione sul tuo nome o su quello di chiunque altro, qualunque sia il tuo nome e sia esso antico o nuovo. La maledizione è nel nome di questa [[house|casa]].»
+
+«Il nome di questa [[house|casa]]», ripeté l'altra con voce spenta.
+
+«L'hai visto in cima alla tua carta da lettere mille volte e l'hai dato per scontato; e non hai mai visto che _quello_ è la menzogna. Non importa se la posizione di tuo padre sia falsa o no: non importa se sia antica o nuova. Questo luogo non appartiene alle vecchie famiglie più che alle nuove famiglie. Appartiene a Dio.»
+
+Rosamund parve irrigidirsi d'un tratto come una statua letterale e tuttavia si sarebbe potuto giurare che la statua avesse orecchie per udire.
+
+Olive proruppe di nuovo col suo spezzato soliloquio: «Perché tutte le nostre vacillanti fantasie su re e cavalieri sono crollate con fracasso; perché tutta la nostra Tavola Rotonda è in rovina? Perché non abbiamo mai cominciato dal principio. Perché non siamo mai tornati alla Cosa stessa. La Cosa che ha prodotto tutto il resto; l'[[Love|amore]] della Cosa dove essa realmente vive. Su questo luogo, tanto tempo fa, duecento uomini vissero e La amarono.»
+
+Si fermò e parve rendersi conto che le sue parole uscivano a tumulto alla rovescia; e che lei stessa, a stento dava un buon esempio del cominciare dal principio. Fece uno sforzo disperato di chiarezza.
+
+«Non vedi — i moderni possono avere ragione a essere moderni; ci possono essere persone che non chiedono di meglio che banche e agenti di cambio; ci possono essere persone che trovano Milldyke un bel luogo. Tuo padre e i suoi amici possono aver avuto ragione a modo loro; sono certa che non avevano tutto il torto che sembravano avere quando lui li insultava... è stato odioso, e comunque non aveva alcun diritto di [[spring|piombartelo]] addosso in quel modo, senza avvertirti prima.»
+
+La statua parlò di nuovo; pareva che non parlasse se non per pronunciare una sola sorta di petrigna difesa.
+
+«Mi ha avvertito prima. E credo che ciò sia stato più terribile.»
+
+«Lascia che io dica ciò che sto cercando di dire», disse Olive con tono patetico. «Mi sento come se non appartenesse a me, e dovessi donarlo. Ci possono essere persone per le quali è insensato parlare di un fiore di cavalleria; suona come un fiore di macelleria. Ma _se_ vogliamo il fiore della cavalleria, dobbiamo tornare fino in fondo alla radice della cavalleria. Dobbiamo tornare indietro anche se la troviamo in un luogo spinoso che la gente chiama teologia. Dobbiamo pensare diversamente riguardo alla [[Death|morte]] e al libero arbitrio e alla [[Loneliness|solitudine]] e all'ultimo appello. È proprio lo stesso con le cose popolari che sappiamo trasformare in cose alla moda; danze popolari e cortei e chiamare ogni cosa una Gilda. I nostri padri facevano queste cose a migliaia; gente del tutto comune; non stravaganti. Ci chiediamo sempre come le facessero. Ciò che dobbiamo chiederci è perché le facessero... Rosamund, _questo_ è il perché le facevano. Qualcosa viveva qui. Qualcosa che essi amavano. Alcuni di loro lo amavano tanto... Oh, non sappiamo, tu e io, qual è l'unica prova? Volevano essere [[Alone|soli]] con esso.»
+
+La statua si mosse impercettibilmente come voltandosi; e Olive le afferrò di nuovo il braccio in una sorta di rimorso.
+
+«Devi credermi pazza a parlare così mentre tu soffri; ma è come se scoppiassi di novelle — di qualcosa di più grande di tutto l'universo del dolore. Rosamund, c'è davvero la gioia. Non l'esultanza ma la gioia; non l'esultare per questo o quello; ma la cosa stessa, che noi vediamo soltanto riflessa negli specchi — i quali talvolta si spezzano. Ed essa viveva qui. È per questo che non volevano nient'altro; nemmeno ciò che vogliamo noi; nemmeno il meglio che conosciamo... Ed è questo che se n'è andato — il bene stesso. Ora abbiamo soltanto mali da odiare, e grazie a Dio li odiamo.»
+
+Indicò d'un tratto il monumento nel mezzo del quale le rughe e le circonvoluzioni erano tracciate minuziosamente dalla punta d'argento della luce di [[Moon|luna]], come la fosforescenza che delinea qualche [[Monster|mostro]] marino dagli occhi sporgenti.
+
+«Ci resta soltanto il drago. Cento volte ho guardato quel drago e l'ho odiato e non l'ho mai compreso. Ritto e alto sopra quell'orrore stava San [[Michael|Michele]] o Santa Margherita, soggiogandolo e vincendolo; ma è il vincitore che è svanito. Non abbiamo idea di come sarebbe davvero; non abbiamo cercato d'immaginare quale immagine stesse davvero là. Ci danzammo intorno e pensammo a ogni altra cosa tranne quella. Ardeva in questa [[Court|corte]] un gran falò di passione visionaria che nello spirito si poteva scorgere per miglia e gli uomini vivevano nel suo calore; la passione e il possesso positivi, la cosa che val la pena di avere in sé. Ma ora i migliori fra loro sono negativi; combattono l'assenza di essa nel mondo. Combattono per la [[Truth|verità]] dove non c'è. Combattono per l'[[Honour|onore]] dove non c'è. Hanno mille volte ragione; ma finisce con la [[Truth|verità]] e l'[[Honour|onore]] che combattono l'una contro l'altro, come combatterono il povero Jack e [[Michael]]. Non abbiamo alcun senso né alcun luogo in cui queste virtù siano felici, in cui queste virtù siano semplicemente se stesse. Io [[Love|amo]] Jack e Jack ama la giustizia; ma egli ama la giustizia dove non c'è. Dovrebbe esserci un modo di amarla dove c'è.»
+
+«E dov'è questo, mi [[Wonder|domando]]?», disse Rosamund a bassa voce.
+
+«Come potremmo saperlo», gridò Olive, «noi che abbiamo scacciato gli uomini che lo sapevano?»
+
+Un profondo abisso di [[Silence|silenzio]] si aprì fra loro; e infine Rosamund disse alla sua semplice maniera: «Sono molto stupida. Dovrò cercare di riflettere su ciò che intendi. Sono certa che non ti dispiacerà se non parliamo più ora.»
+
+Olive tornò lentamente indietro attraverso i verdi cortili e fuori dall'[[Shadow|ombra]] delle grigie mura e trovò John Braintree ad attenderla. Se ne andarono insieme, ma rimasero piuttosto silenziosi per la prima parte del cammino; poi Olive disse d'un tratto: «Che strana storia è tutto questo... Voglio dire da quando ho messo il povero Monkey a correre dietro alla vernice rossa. Che rabbia avevo con te e la tua cravatta rossa; eppure, in un modo bizzarro, salta fuori che era la stessa specie di rosso. Io non lo sapevo e tu non lo sapevi; eppure eri tu a risalire ciecamente al colore che io cercavo, come un [[Child|bimbo]] dietro una nube di tramonto. Eri tu che cercavi davvero di vendicare l'amico di mio padre.»
+
+«Avrei dovuto cercare di ottenergli i suoi diritti, lo [[Hope|spero]]», rispose Braintree.
+
+«Oh, sei sempre così accanito riguardo ai diritti», disse lei ridendo con una lieve impazienza. «E la povera Rosamund... devi ammettere che parli terribilmente tanto di diritti. Ne sei proprio sicuro?»
+
+«[[Hope|Spero]] di fare terribilmente tanto a proposito di essi prima di aver finito», rispose l'implacabile politico.
+
+«Ma tu», chiese lei, «credi che qualcuno abbia davvero il diritto di essere così felice?»
+
+Egli rise brevemente e uscirono lungo la grigia [[Road|strada]] verso Milldyke.
 
 -^-

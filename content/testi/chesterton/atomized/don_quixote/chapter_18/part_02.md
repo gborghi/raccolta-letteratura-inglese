@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/don-quixote-(chesterton)">Don Quixote</a> › <a href="/testi/chesterton/atomized/don_quixote/chapter_18">Chapter 18</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/don_quixote/chapter_18/part_01">‹ part 01</a><a class="ex-next" href="/testi/chesterton/atomized/don_quixote/chapter_18/part_03">part 03 ›</a></div>
@@ -141,3 +143,56 @@ They make the claim of mastery and they are not masters.
 They make the claim of property and they are not the proprietors.
 They make the claim of nobility and they are not nobles.
 The three pleas are disallowed."
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/don-quixote-(chesterton)">Don Quixote</a> › <a href="/testi/chesterton/atomized/don_quixote/chapter_18">Chapter 18</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/don_quixote/chapter_18/part_01">‹ part 01</a><a class="ex-next" href="/testi/chesterton/atomized/don_quixote/chapter_18/part_03">part 03 ›</a></div>
+</nav>
+
+Il vecchio Seawood balzò in piedi come galvanizzato; e una semplice sorta di vanagloria, più profonda di tutte le vanità vittoriane, salì ansimando alla superficie come una creatura che annega. Dimenticò perfino la snobistica [[Fear|paura]] dello snobismo.
+
+«Avevo immaginato», disse, balbettando con enfasi, «che questo movimento dovesse ripristinare un vero rispetto per la Nobiltà. Non mi risulta che alcuna di queste regole di bottega si applicasse alla Nobiltà.»
+
+«Ah», disse Herne a bassa voce come in un inciso; «è giunto infine.»
+
+Parve che egli parlasse per la prima [[Time|volta]] con voce umana, e l'effetto fu tanto più strano per le strane parole con cui riprese a parlare. «Non sono un uomo», disse. «Sono qui soltanto un portavoce per rendere chiara la legge; la legge che nulla sa di uomini o di donne. Ma vi domando questo prima che sia troppo tardi. Non fate appello a rango e titolo; non avanzate la vostra pretesa come nobili e pari.»
+
+«Perché no?», gridò il turbolento Archer.
+
+«Perché anche su questo», replicò Herne, che era mortalmente pallido, «siete stati abbastanza sciocchi da ordinarmi di scoprire la [[Truth|verità]].»
+
+«Oh, che diavolo significa tutto questo», gridò Archer nella sua angoscia.
+
+«Che io sia dannato se lo so», replicò l'impassibile signor Hanbury.
+
+«Ah sì, avevo dimenticato», disse l'Arbitro con voce vibrante, «voi non siete comuni artigiani; non avete imparato a fabbricare vernici; non avete immerso le mani nelle tinture. Avete attraversato prove più alte; avete vegliato le vostre armi; avete conquistato i vostri speroni. Ma i vostri cimieri e titoli vi vengono da remota antichità; e non avete dimenticato i nomi che portate.»
+
+«Naturalmente non abbiamo dimenticato i nostri nomi», disse Eden irritato.
+
+«Cosa abbastanza strana», disse l'Arbitro, «è esattamente ciò che avete fatto.»
+
+Vi fu un altro enigmatico [[Silence|silenzio]], che pareva colmo degli occhi sbarrati di Archer e Hanbury; e poi la voce dell'Arbitro si udì ancora una volta; ma diede loro un nuovo sussulto, poiché aveva ripreso il peso plumbeo dell'esposizione legale.
+
+«Nel corso dell'applicazione di seri metodi storici a queste questioni di araldica ed ereditarietà, verso le quali la mia attenzione era stata indirizzata, ho scoperto un singolare stato di cose. Sembrerebbe essere precisamente lo stato di cose opposto a quello che prevale nell'impressione popolare comune. Per dirla in breve, ho trovato assai poche persone in possesso di alberi genealogici che sarebbero riconosciuti nel senso araldico o feudale dell'aristocrazia medievale. Ma quei pochi che ci sono sono persone del tutto povere e oscure, nemmeno del rango che chiameremmo ceto medio. Ma in tutte e tre le contee sottoposte al mio esame, gli uomini che sembrano non avere alcun diritto alla nascita nobile sono i nobiluomini.»
+
+Lo disse con tono spento e impersonale, come se stesse tenendo una lezione a degli studenti sugli Ittiti. Ma forse fu un poco calcato; le parole con cui proseguì erano un po' troppo morte e distinte. «I loro possedimenti sono stati generalmente ottenuti assai di recente e spesso con metodi di dubbia [[morality|moralità]], [[Alone|per non dire]] cavalleria; da piccoli notai e speculatori che impiegavano varie forme di ipoteca, di pignoramento e via dicendo. Nell'assumere i possedimenti, queste ingegnose persone assunsero generalmente non soltanto i titoli, ma i nomi di famiglie più antiche. Il nome della famiglia Eden non è Eames ma Evans. Il nome della famiglia Seawood non è Severne ma [[smith|Smith]].»
+
+E a quel punto Murrel, che aveva osservato con pena il volto pallido e l'atteggiamento rigido dell'oratore, borbottò d'un tratto un'esclamazione e comprese.
+
+Tutt'intorno vi era ora un trambusto del tutto scomposto e senza freni; ma non era ancora un grido concertato, bensì un rumore come di tutti che parlavano in una volta; e alto al di sopra di tutto la dura voce dell'Arbitro si poteva ancora udire.
+
+«Gli unici due uomini in questa parte della contea che possono rivendicare la nobiltà a cui è stato fatto appello sono un uomo che ora guida un omnibus fra qui e la città di Milldyke e un piccolo [[grocer|fruttivendolo]] della stessa città. Nessun'altra persona può chiamarsi _Armiger Generosus_ eccetto William Pond e George Carter.»
+
+«Oh, santo cielo, il vecchio George!», gridò Murrel, colto di sorpresa fino a rovesciare indietro il capo con uno scoppio di risa. Il riso fu contagioso; ruppe la tensione e li accolse tutti in un baratro fragoroso; il vero rifugio degli inglesi. Perfino Braintree, ricordando d'un tratto il solido sorriso del vecchio George al Green Dragon, non riuscì a dominare il proprio spasso.
+
+Ma, come Lord Seawood aveva esattamente osservato, l'Arbitro della [[Court|Corte]] d'Arbitrato era carente di senso dell'[[Humour|umorismo]]. Non aveva mai debitamente studiato i vecchi volumi di _Punch_.
+
+«Non so», disse, «perché il lignaggio di quest'uomo debba essere ridicolo. Egli non ha, per quanto ne so, fatto nulla per macchiare il proprio stemma. Non ha cospirato con ladri e accaparratori per rovinare uomini onesti. Non ha preso denaro a usura né accumulato campo su campo con l'inganno, servito le famiglie regnanti come un cane e poi banchettato sulle famiglie morenti come un avvoltoio. Ma voi — voi che venite qui a calpestare il volto dei poveri con le vostre pomposità di proprietà e di gentilizio, e col vostro gran fioretto finale di cavalleria — e voi? Voi sedete nella [[house|casa]] di un altro; portate il nome di un altro; il blasone di un altro è sul vostro scudo; il cimiero di un altro è sui vostri pilastri del cancello; tutta la vostra storia è la storia di uomini nuovi in vecchi panni, e voi venite qui da me a perorare contro la giustizia nel nome della vostra nobile discendenza.»
+
+Il riso si era spento, ma il rumore era anche più forte; non vi era ora più travestimento o esitazione riguardo alla sua [[Nature|natura]]; tutte le grida spezzate si erano riunite; vi era un nuovo rumore della folla quando si muta in muta che dà la caccia. Archer e Hanbury e altri dieci o dodici uomini erano in piedi e gridavano; e tuttavia alta al di sopra di tutti gli altri rumori una voce sola riusciva ancora a librarsi senza essere zittita; la voce del fanatico sul seggio del giudizio.
+
+«Sia dunque messo agli atti per il terzo giudizio e la risposta alla terza istanza. Questi tre uomini hanno rivendicato il dominio di un mestiere e l'obbedienza di tutti i loro operai; e la loro causa è giudicata. Avanzano la pretesa del dominio e non sono padroni. Avanzano la pretesa della proprietà e non sono i proprietari. Avanzano la pretesa della nobiltà e non sono nobili. Le tre istanze sono respinte.»

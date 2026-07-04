@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/fourfaultlessfelons-(chesterton)">FourFaultlessFelons</a> › <a href="/testi/chesterton/atomized/fourfaultlessfelons/story_13_ii_the_burglar_and_the_brooch">Story 13 Ii The Burglar And The Brooch</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/fourfaultlessfelons/story_13_ii_the_burglar_and_the_brooch/part_07">‹ part 07</a><a class="ex-next" href="/testi/chesterton/atomized/fourfaultlessfelons/story_13_ii_the_burglar_and_the_brooch/part_09">part 09 ›</a></div>
@@ -183,3 +185,182 @@ The situation was the more sensationally insulting or exasperating,
 because the thief had not only robbed the poor in a most heartless and
 
 cynical fashion, but had selected the poor of the very district where his
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/fourfaultlessfelons-(chesterton)">FourFaultlessFelons</a> › <a href="/testi/chesterton/atomized/fourfaultlessfelons/story_13_ii_the_burglar_and_the_brooch">Story 13 Ii The Burglar And The Brooch</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/fourfaultlessfelons/story_13_ii_the_burglar_and_the_brooch/part_07">‹ part 07</a><a class="ex-next" href="/testi/chesterton/atomized/fourfaultlessfelons/story_13_ii_the_burglar_and_the_brooch/part_09">part 09 ›</a></div>
+</nav>
+
+abbiano perduto qualcosa di gran valore.»
+
+Restò in silenzio un momento, rimuginando, e poi disse d'improvviso come un
+
+colpo di [[Pistol|pistola]]: «Che cosa esattamente hanno raccolto dopo che il ladro
+
+se la svignò?»
+
+«Credo che non fosse altro che sigari,» rispose seccamente la signora [[Mowbray]]. «Un
+
+grosso portasigari zeppo. Ma poiché conteneva il biglietto di uno dei
+
+Nadoway, presumiamo che il ladro l'avesse rubato dalla loro [[house|casa]].»
+
+«Proprio così,» rispose lui. «E ora, riguardo alle altre cose che aveva rubato
+
+dalla loro [[house|casa]]. Sono certo che lei comprende che, se devo aiutarla, devo
+
+essere autorizzato ad assumere una posizione più o meno confidenziale.
+
+Arguisco che sua nipote sia diventata la segretaria del signor Jacob Nadoway.
+
+Penso di poter dedurre che l'aver assunto una simile posizione implichi in una certa misura
+
+la necessità di lavorare per vivere.»
+
+«Ero contraria che andasse a lavorare per quella gente, e del tutto,» disse la signora
+
+[[Mowbray]]. «Ma quando tutti questi Governi socialisti ci hanno portato via tutti
+
+i nostri soldi, che possiamo fare?»
+
+«Lo so... lo so,» disse il [[Detective|detective]], annuendo in modo quasi sognante;
+
+i suoi occhi erano di nuovo fissi al soffitto ed egli pareva seguire un
+
+filo di pensiero lontano migliaia di chilometri. Infine disse: «A volte
+
+vediamo queste cose in quadri del tutto impersonali. Non si intende alludere ad
+
+alcuna persona. Supponiamo di parlare di nessuno in particolare.
+
+Ma il quadro che vedo è quello di una ragazza che un tempo sapeva tutto del lusso
+
+e delle cose graziose, che ha accettato una vita più opaca e più dimessa perché
+
+non c'è altro da fare, e che si guadagna lo stipendio da un vecchio piuttosto
+
+meschino senza aspettarsi nulla di simile a una manna. E poi c'è
+
+un altro quadro curioso. Un uomo che è stato un uomo di mondo qualunque
+
+ma costretto a vivere la vita semplice, in parte dalla [[Poverty|povertà]] e in parte
+
+dall'avere una moglie puritana con la fissa contro tutti i suoi antichi lussi e
+
+specialmente contro il tabacco... Le suggerisce qualcosa tutto ciò?»
+
+«No, non mi suggerisce nulla,» disse la signora [[Mowbray]], alzandosi e frusciando. «Ritengo tutto
+
+questo quanto mai insoddisfacente, e non so di che cosa lei stia parlando.»
+
+«Era davvero uno scassinatore assai distratto,» disse il [[Detective|detective]].
+
+«Se avesse saputo quel che faceva, avrebbe lasciato cadere due spille.»
+
+Dieci minuti dopo la signora [[Mowbray]] si era scossa dai piedi la [[Dust|polvere]] del polverosissimo
+
+studio dell'[[Detective|investigatore]] e se n'era andata a riversare altrove i suoi lamenti;
+
+e il signor Peter Price andò al telefono con un sorriso che pareva
+
+nascondere persino a se stesso. Chiamò un certo suo amico nel
+
+dipartimento ufficiale di polizia, e la loro conversazione fu lunga e dettagliata.
+
+Riguardava in gran parte la diffusione della piccola criminalità, specialmente il furto,
+
+in alcuni dei quartieri più poveri di [[London|Londra]]. E tuttavia, per quanto strano,
+
+il signor Price aggiunse gli appunti di questa conversazione telefonica ai suoi appunti
+
+della conversazione con l'aristocratica signora [[Milton]]-[[Mowbray]].
+
+Poi si riappoggiò allo schienale della poltrona e rimase a fissare il
+
+soffitto, immerso in profondo pensiero e con un'espressione quasi
+
+napoleonica, giacché, in fondo, anche Napoleone era basso e nei suoi ultimi
+
+anni grasso, e anche nel signor Peter Price è possibile che ci fosse più di
+
+quanto apparisse a prima vista.
+
+La [[Truth|verità]] era che il signor Peter Price attendeva un altro arrivo, in
+
+conformità con un altro appuntamento. I due non erano scollegati, benché
+
+avrebbe assai stupito la signora [[Mowbray]] se avesse visto una figura
+
+tanto familiare come quella del signor John Nadoway, di Nadoway e Figlio, entrare nello
+
+studio del [[Detective|detective]] così poco dopo la sua partenza. Ma molti anni prima, il
+
+Socio Minore era stato messo in notevoli difficoltà nel coprire
+
+alcune delle prime imprese del Socio Maggiore. Molto dopo che il vecchio
+
+Nadoway era diventato ricco, e il giovane Nadoway aveva così tardivamente deciso
+
+che anch'egli dovesse diventare rispettabile, c'erano vecchi scandali che si trascinavano
+
+dietro l'azienda come una tradizione di ricatto, e malcontenti che
+
+era ancora piuttosto difficile mettere a tacere. Il giovane John Nadoway si era
+
+rivolto all'agenzia privata e all'esperienza pratica del signor Price, il quale
+
+aveva pagato o spaventato i malcontenti così efficacemente che la nuova
+
+reputazione dei Nadoway era abbastanza al sicuro. Al signor Price, dunque, il giovane
+
+Nadoway si rivolse ancora una volta, di fronte a uno scandalo familiare di scala
+
+assai più spaventosa e gigantesca.
+
+Poiché Alan Nadoway, non più agendo in anonimo né come un ladro nella
+
+[[Night|notte]], ma annunciando il proprio nome ancor più chiaramente di quando aveva lasciato
+
+il suo biglietto da visita, aveva dichiarato che era sua intenzione borseggiare
+
+per vivere nei dintorni di Lambeth; e che, se fosse finito
+
+alla sbarra e nella cronaca nera, non sarebbe stato sotto falso nome. Nella
+
+curiosa comunicazione inviata al fratello, dichiarava gravemente che
+
+sebbene non ci fosse ovviamente nulla di moralmente sbagliato nel borseggio, non
+
+poteva conciliarlo con la propria [[Conscience|coscienza]] (forse, ammetteva, una troppo
+
+sensibile [[Conscience|coscienza]]) ingannare un gentile poliziotto dando un nome falso.
+
+Aveva tentato tre volte, dichiarava con pathos, di chiamarsi
+
+Nogglewop e in ogni caso la voce gli era venuta meno per l'emozione.
+
+Fu tre o quattro giorni dopo il ricevimento di questa lettera che il
+
+fulmine cadde. Il Nome di Nadoway, oggetto di tante contese,
+
+fiammeggiò in bianco e nero nei titoli di tutti i giornali della sera; in
+
+modo assai diverso da quello in cui fiammeggiava in tante delle
+
+pubblicità parallele. Alan Nadoway, annunciandosi come il figlio maggiore
+
+di Sir Jacob Nadoway (giacché tale era ormai il titolo del padre),
+
+comparve al [[Court|tribunale]] penale, accusato di borseggio non solo una volta
+
+ma regolarmente e con successo per parecchie settimane.
+
+La situazione era tanto più clamorosamente offensiva o esasperante,
+
+perché il ladro non solo aveva derubato i poveri in modo quanto mai spietato e
+
+cinico, ma aveva scelto i poveri del quartiere stesso dove suo

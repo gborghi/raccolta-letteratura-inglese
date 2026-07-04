@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/don-quixote-(chesterton)">Don Quixote</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/don_quixote/chapter_14">‹ Chapter 14</a><a class="ex-next" href="/testi/chesterton/atomized/don_quixote/chapter_16">Chapter 16 ›</a></div>
@@ -621,5 +623,624 @@ so that it seemed to flame like the [[Sword|sword]] of St. [[Michael]].
 And then there sounded over all that staring crowd the ancient
 words that accompany the Accollade and dedicate a man to God
 and the cause of the widow and [[Orphan|orphan]].
+
+-^-
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/don-quixote-(chesterton)">Don Quixote</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/don_quixote/chapter_14">‹ Chapter 14</a><a class="ex-next" href="/testi/chesterton/atomized/don_quixote/chapter_16">Chapter 16 ›</a></div>
+</nav>
+<nav class="excerpt-children">
+<div class="excerpt-children-label">In questa sezione</div>
+<ul><li><a href="/testi/chesterton/atomized/don_quixote/chapter_15/part_01">Part 1</a></li><li><a href="/testi/chesterton/atomized/don_quixote/chapter_15/part_02">Part 2</a></li><li><a href="/testi/chesterton/atomized/don_quixote/chapter_15/part_03">Part 3</a></li><li><a href="/testi/chesterton/atomized/don_quixote/chapter_15/part_04">Part 4</a></li><li><a href="/testi/chesterton/atomized/don_quixote/chapter_15/part_05">Part 5</a></li></ul>
+</nav>
+
+CAPITOLO XIV
+
+IL RITORNO DEL CAVALIERE ERRANTE
+
+Nella grande Elezione Generale, che era stata prodotta dalla grande
+minaccia di Braintree e del suo nuovo Sindacalismo, e che aveva condotto
+al varo del movimento in opposizione a essa, si riferì
+che il signor [[Michael]] Herne fosse entrato in una cabina elettorale per esprimere
+il proprio voto; e vi fosse rimasto per tre quarti d'ora,
+misteriosamente occupato o forse assorto in [[Prayer|preghiera]]. A quanto pareva
+non aveva mai votato prima; non essendo un'abitudine paleo-ittita;
+ma quando gli fu minuziosamente spiegato che doveva
+soltanto tracciare una [[Cross|croce]] sul pezzo di carta di fronte al nome
+del suo candidato preferito, egli parve del tutto incantato e affascinato
+dall'idea. A questo [[Time|tempo]], s'intende, il suo periodo paleo-ittita
+era da tempo divenuto preistorico e stratificato nel passato;
+e il suo più recente entusiasmo medievale divorava i suoi giorni e le sue notti.
+Nondimeno poteva a quanto pare concedere un [[Time|tempo]] alquanto anomalo al
+moderno e piuttosto meccanico procedimento del votare; quando avrebbe potuto
+essere intento a tendere l'arco lungo o a colpire di lancia una testa di Saraceno.
+Archer e i suoi altri colleghi divennero un poco spazientiti, e non
+poco perplessi, per la sua misteriosa immersione nell'urna;
+scalpitavano irrequieti all'esterno e alla fine entrarono,
+per vedere la sua alta e immobile schiena ancora immota nella sua
+cella separata, come di un moderno confessionale. Furono infine
+spinti alla grossolana indelicatezza di disturbare il Cittadino quando è [[Alone|solo]]
+col suo Dovere, avvicinandosi alle sue spalle e tirandogli le falde della giacca.
+Poiché ciò non ebbe alcun effetto particolare, commisero l'oltraggio anarchico
+e antidemocratico di guardargli effettivamente da sopra la spalla.
+Trovarono che aveva disposto sulla piccola mensola, come su un tavolo,
+tutti i colori da miniatura (presumibilmente presi in prestito dalla signorina Ashley),
+colori d'oro e d'argento e tutti i colori dell'arcobaleno.
+Con questi era intento a compiere il proprio dovere democratico con quasi
+una dolorosa cura e pazienza. Gli era stato detto di tracciare una [[Cross|croce]] e
+stava tracciando una [[Cross|croce]]. La faceva come sarebbe stata fatta
+da un monaco nei Secoli Bui; vale a dire in colori assai gai e glorificati.
+La [[Cross|croce]] era d'oro, in un suo angolo c'erano tre [[Birds|uccelli]] azzurri,
+in un altro angolo c'erano tre pesci rossi, in un altro piante,
+in un altro pianeti e così via; pareva progettata sullo schema
+del Cantico delle Creature di San Francesco d'Assisi.
+Fu molto sorpreso di sentirsi dire che ciò non era richiesto
+dalle disposizioni della Legge Elettorale; ma si controllò e
+diede solo un lieve sospiro, quando fu informato dai funzionari del seggio
+elettorale che il suo voto era annullato, perché aveva "rovinato"
+una scheda elettorale.
+
+Fuori, per la strada, tuttavia, c'era un buon numero di persone che
+pensavano che persino il consueto frettoloso sgorbio sulla scheda elettorale fosse
+quasi altrettanto uno spreco di [[Time|tempo]] quanto l'elaborato rituale del signor Herne.
+Era il [[Paradox|paradosso]] di quella particolare Elezione Generale che essa fosse una grande
+crisi perché un'altra cosa era assai più grande; ed era intensamente
+eccitante perché la gente era eccitata per qualcos'altro. Era
+piuttosto simile a una di quelle elezioni che hanno luogo durante una grande guerra.
+Anzi, si potrebbe dire che ebbe luogo durante una rivoluzione.
+
+Il Grande Sciopero che raccolse tutti i lavoratori dei mestieri della tintura
+e della fabbricazione dei colori, con scioperi di solidarietà tra vari organismi
+collegati al Catrame di Carbone e al Carbone, aveva il suo quartier generale a Milldyke
+e il suo capo in John Braintree. Ma era assai più di uno sciopero
+del genere locale e limitato che la sua descrizione potrebbe implicare.
+Non era il genere di sciopero di cui gli uomini delle classi più agiate
+si erano abituati a brontolare; avvezzi ai loro
+disagi come ai loro agi. Era qualcosa di interamente nuovo,
+per cui tali uomini, non innaturalmente e forse non irragionevolmente,
+prorompevano in proteste acute e persino stridule.
+
+Nel momento stesso in cui Herne era medievalmente occupato nella cella monastica
+del seggio elettorale, Braintree riempiva la piazza del mercato di Milldyke
+con la sua voce tonante nel discorso più sensazionale della sua carriera.
+Era sensazionale nella sostanza tanto [[Well|quanto]] nello stile. Non domandava più, come nelle
+prime fasi di questa [[history|storia]], ciò che chiamava Riconoscimento.
+Domandava il Controllo.
+
+«I vostri padroni vi dicono,» disse, «che siete avidi materialisti
+abituati a strepitare per salari più alti. Hanno ragione.
+I vostri padroni vi dicono che vi mancano ideali e non comprendete
+l'[[Ambition|ambizione]] e l'istinto di governare. Hanno ragione.
+Insinuano che siete schiavi e bestie da soma, in quanto
+vorreste soltanto divorare provviste e sfuggire alla responsabilità.
+Hanno ragione. Hanno ragione fintanto che vi accontentate di chiedere
+solo salari, solo cibo, solo un servizio [[Well|ben]] pagato.
+Ma mostriamo ai nostri padroni che abbiamo tratto profitto
+dalle lezioni morali che sono tanto buoni da impartirci.
+Torniamo a loro penitenti; diciamo loro che intendiamo emendare
+le nostre colpe di meschina contrattazione e di richiesta meramente materialistica.
+Diciamo loro che abbiamo un'[[Ambition|ambizione]]; ed è governare.
+Che abbiamo un ideale; ed è governare in modo uguale.
+Che abbiamo una fame e un'alta sete di responsabilità;
+per la gloriosa e gioiosa responsabilità di governare
+ciò che essi malgovernano, di gestire ciò che essi hanno mal gestito,
+di condividere tra noi come lavoratori e compagni quel diretto
+e democratico [[government|governo]] della nostra stessa industria che
+finora è servito a mantenere pochi parassiti nel lusso nei loro
+palazzi e nei loro parchi.»
+
+Dopo quel discorso a Milldyke tutte le comunicazioni furono interrotte e un abisso
+si spalancò tra Braintree e i parchi e i palazzi cui aveva alluso.
+La richiesta che i lavoratori manuali diventassero i gestori
+degli stabilimenti consolidò contro di lui, in verità, una gran massa
+di persone che non vivevano affatto in palazzi o parchi.
+Era così manifestamente e follemente rivoluzionaria che quasi nessuno vi concordava
+se non era già pronto a definirsi un rivoluzionario.
+E i veri rivoluzionari sono rari. Harry Hanbury, amico di Rosamund,
+uno squire assai gentile e ragionevole, parlò per gli altri.
+«Diamine, sono tutto per pagare alla gente buoni salari, come cerco di pagare
+buoni salari al mio autista e al mio cameriere. Ma Controllo significa che l'
+autista può portarmi a Margate quando io voglio andare a Manchester.
+Il mio cameriere mi spazzola i vestiti e ha qualcosa da dire su di essi.
+Ma Controllo significa che io devo indossare pantaloni gialli e un panciotto rosa
+se a lui piace prepararmeli.»
+
+La settimana seguente portò la notizia di due grandi elezioni:
+l'una una risposta di sfida all'altra. Il martedì la notizia
+fu recata a Herne che Braintree era stato eletto da un'enorme
+e urlante maggioranza laburista.
+
+E il [[thursday|giovedì]] fu ricevuta da quella mente astratta, cieca di
+luce interiore, la grida e il trambusto e l'acclamazione che annunciavano
+che egli stesso era stato scelto dagli Ordini e dai Collegi Elettorali
+come [[King|Re]] d'Armi sull'intero mondo del West Country.
+Fu in una sorta di sogno a occhi aperti che venne scortato a un
+alto trono posto su quel verde altopiano di Seawood Park.
+Da un lato del nuovo [[King|re]] stava Rosamund Severne, Dama di
+qualche nuovo grado e reggente lo Scudo dell'[[Honour|Onore]], a forma
+di cuore e blasonato col [[Lion|leone]], che doveva essere assegnato
+al miglior cavaliere che avesse compiuto l'impresa più audace.
+Appariva assai statuaria; e pochi avrebbero potuto indovinare
+con quanta energia si affannasse nel preparare la cerimonia;
+o quanto ciò somigliasse al suo modo di preparare gli spettacoli teatrali.
+A sinistra stava il suo amico, il giovane squire ed esploratore,
+che una volta aveva presentato a Braintree, dall'aria davvero molto seria;
+poiché egli aveva superato il punto della consapevolezza di [[Self|sé]] e sentiva la sua
+uniforme araldica naturale quanto quella degli Scots Greys. Reggeva
+ciò che veniva chiamato la [[Sword|Spada]] di San Giorgio, con l'elsa a [[Cross|croce]] rivolta in alto;
+poiché [[Michael]] aveva detto, in uno dei suoi frammenti mistici,
+«Un uomo non merita mai una [[Sword|spada]] finché non sa impugnarla dalla lama.
+La sua mano può sanguinare; ma è allora che egli vede la [[Cross|Croce]].»
+Ma Herne sedeva sul suo alto trono al di sopra di tutta la folla variopinta,
+e i suoi occhi parevano abitare gli orizzonti e i luoghi alti.
+Così molti fanatici hanno cavalcato alto sulle nubi sopra scene
+altrettanto assurde; così Robespierre camminò nella sua giacca azzurra alla Festa
+dell'Essere Supremo. Lord Eden scorse quei limpidi occhi,
+come pozze immote e lucenti, e mormorò: «Quest'uomo è pazzo.
+È pericoloso per gli uomini squilibrati quando i loro [[Dreams|sogni]] si avverano.
+Ma la [[Madness|follia]] di un uomo può essere l'[[Sanity|assennatezza]] di una società.»
+
+«[[Well|Ebbene]]!» gridò Julian Archer, battendosi l'elsa della [[Sword|spada]] con quell'aria
+di rispondere per tutti che era così cordiale e ristoratrice.
+«È stata una gran giornata e il mondo ne sentirà parlare.
+La gente di questa zona scoprirà che dobbiamo davvero metterci al lavoro.
+Questo è il genere di cosa che stanerà Braintree e tutta
+la sua marmaglia di straccioni e li farà correre come topi.»
+
+Rosamund era ancora piuttosto simile a una statua sorridente; ma Olive
+in piedi dietro di lei era parsa scura come la sua [[Shadow|ombra]].
+Ora Olive parlò all'improvviso e la sua voce chiara risuonò come acciaio.
+
+«Non è uno straccione,» disse. «È un ingegnere;
+e sa molto più di voi. Che cosa siete la maggior parte di voi,
+se è per questo? Un ingegnere vale quanto un bibliotecario.
+Direi.»
+
+Ci fu un [[Silence|silenzio]] mortale; e Archer, con un gesto impotente,
+guardò verso l'alto, come se il cielo dovesse spaccarsi alla bestemmia;
+ma la maggior parte delle dame e dei gentiluomini guardò verso il basso, alle proprie
+scarpe medievali a punta; poiché si resero conto che era peggio di una bestemmia;
+era certamente, date le circostanze, un gusto oltremodo cattivo.
+
+Ma benché i gruppi avessero cominciato a rompersi e a mescolarsi,
+il [[King|Re]] d'Armi non aveva ancora lasciato il suo trono; come presto avrebbero
+scoperto, in più di un senso. Non fece più caso
+alla donna che l'aveva appena insultato di quanto ne avrebbe fatto se ella non fosse
+stata lì; ma all'improvviso aggrottò le sopracciglia su Julian Archer;
+e una sorta di brivido subconscio disse a tutti che, in una
+mente almeno, la regalità era una realtà.
+
+«Sir Julian,» disse il [[King|Re]] d'Armi severamente, «penso che abbiate
+letto assai male i vostri libri di caccia. Non pare che sappiate
+che siamo tornati a giorni più valorosi e migliori e ci siamo lasciati indietro
+il [[Time|tempo]] in cui i gentiluomini potevano pavoneggiarsi cacciando animali nocivi.
+Il nostro è lo spirito delle epoche in cui le bestie regali potevano rivoltarsi
+e uccidere i cacciatori; il grande cinghiale e il nobile cervo.
+Siamo del mondo che sapeva rispettare i propri nemici;
+sì, persino quando erano bestie. Io conosco John Braintree;
+e non ci fu mai uomo più valoroso a camminare su questa terra. Dobbiamo forse
+combattere per la nostra [[Faith|fede]] e sogghignare di lui perché combatte per la sua?
+Andate a ucciderlo se osate; ma se dovesse uccidervi lui,
+sarete tanto onorato nella vostra [[Death|morte]] quanto ora siete
+disonorato dalla vostra lingua.»
+
+Per un istante l'impressione, o illusione, fu sbalorditiva e completa.
+Aveva parlato spontaneamente e semplicemente da sé; ma avrebbe potuto
+essere una reincarnazione. Così esattamente avrebbe potuto [[Richard|Riccardo]] Cuor di [[Lion|Leone]]
+parlare a un cortigiano che imputasse viltà al Saladino.
+
+Ma in quella folla immota vi fu un cambiamento che avrebbe potuto
+essere ancor più sorprendente se molti l'avessero notato;
+poiché il pallido volto di Olive Ashley si era mutato in una fiamma rossa;
+e una sorta di grido, che era metà un rantolo, le fu strappato.
+
+«Ah, ora so che è davvero cominciata!»
+
+E da quel momento ella si mosse leggera nella variopinta processione,
+come se un peso le fosse stato tolto di dosso. Parve destarsi
+per la prima [[Time|volta]] a tutta quella decorativa [[Dance|danza]], che era così vicina
+ai suoi vecchi [[Dreams|sogni]], e prendervi parte senza ulteriore [[Doubt|dubbio]]
+o affanno. I suoi occhi scuri brillavano, come a un [[Memory|ricordo]].
+Un poco più tardi nel corso della cerimonia si trovò a parlare
+con Rosamund. Abbassò la voce e disse quasi come chi
+confida un segreto: «Lo intende davvero! Comprende davvero.
+Non è uno snob o un gradasso prepotente o niente del genere.
+Crede davvero nei bei vecchi tempi... e anche nei bei tempi nuovi.»
+
+«Certo che lo intende!» gridò Rosamund con grande indignazione.
+«Certo che ci crede davvero e si comporta anche di conseguenza!
+Se solo sapessi che cosa fosse per me vedere finalmente fare _qualcosa,_
+dopo l'eterno chiacchierare a vanvera di Monkey e Julian
+e tutti gli altri. E poi, ha perfettamente ragione a crederci.
+Che diritto ha chiunque di riderne? I bei vestiti
+non sono neppure la metà tanto ridicoli dei brutti vestiti. Avremmo dovuto
+piegarci in due dalle risate giorno e [[Night|notte]] ai tempi in cui gli uomini
+portavano i pantaloni.» E continuò a riversare la sua difesa,
+con tutta la passione con cui una pratica giovane donna
+ripete le opinioni di qualcun altro.
+
+Ma Olive guardava dall'alto prato su per la lunga bianca [[Road|strada]]
+che serpeggiava lontano verso il tramonto e pareva sciogliere il suo argento
+in quel rame e oro.
+
+«Una volta mi chiesero,» disse, «se pensavo che [[King Arthur|Re Artù]]
+sarebbe tornato. In una sera come questa... non riesci a
+immaginare la culminazione che giunge, e noi che vediamo qualche cavaliere
+della Tavola Rotonda avanzare a spron battuto lungo la [[Road|strada]], lontanissimo,
+che ci reca un messaggio dal [[King|re]]?»
+
+«[[Well|Beh]], è davvero curioso che tu lo dica,» disse la più
+pratica Rosamund, «perché c'è davvero qualcuno che arriva;
+e credo che sia anche a [[Horse|cavallo]].»
+
+«Pare che sia dietro un [[Horse|cavallo]],» disse Olive a bassa voce.
+«Quel sole basso mi abbaglia gli occhi... Può essere un carro romano?
+Suppongo che [[arthur|Artù]] sarebbe _davvero_ un Romano?»
+
+«È una forma assai strana,» disse Rosamund; e anche la sua voce era mutata.
+
+Il cavaliere errante dalla [[Court|Corte]] di [[King Arthur|Re Artù]] era certamente una
+forma assai strana; poiché, mentre l'equipaggio si avvicinava sempre più,
+esso assunse, agli occhi stupiti della folla medievale, l'aspetto
+di una malandata carrozza da nolo, sormontata da un [[cabman|vetturino]] con un malandato
+cilindro. Egli si tolse il malconcio copricapo con un cortese saluto
+e rivelò gli spartani lineamenti di Douglas Murrel.
+
+Il signor Douglas Murrel, dopo aver così salutato la compagnia,
+rimise il suo notevole cappello, forse un po' di sbieco,
+e procedette a cadere giù dalla carrozza. Non è facile
+cadere da una carrozza con gravità e disinvoltura mondana;
+ma il signor Murrel vi riuscì con l'acrobatica precisione di un tempo.
+Il cappello cadde, ma egli l'afferrò con grande destrezza;
+e subito attraversò a piedi verso Olive Ashley, osservando
+senza alcun imbarazzo.
+
+«Dico; ho preso quella roba che volevi.»
+
+La compagnia, guardando il suo colletto e la sua cravatta e i suoi pantaloni
+(che erano particolarmente cospicui quando fece una ruota
+dalla cima della carrozza), ebbe la curiosa sensazione di vedere
+qualcuno vestito col bizzarro costume di un'epoca passata.
+In effetti, provavano press'a poco gli stessi sentimenti che egli stesso
+aveva provato quando vide per la prima volta la carrozza da nolo; benché le carrozze da nolo
+avessero solo di recente cominciato a diminuire e a scomparire a [[London|Londra]].
+Così rapidamente s'indurisce la moda umana e la gente si abitua
+a un nuovo ambiente.
+
+«Monkey!» ansimò Olive. «Dove diamine sei stato per tutto questo [[Time|tempo]]?
+Non hai sentito niente di niente?»
+
+«Ho dovuto frugare un pochino per trovare i colori,»
+disse Murrel modestamente, «e da quando ho comprato la carrozza ho
+dato passaggi alla gente sulla [[Road|strada]]. Ma comunque l'ho preso.»
+
+Poi per la prima [[Time|volta]] parve ritenere necessario notare
+la singolare scena che lo circondava; benché il contrasto fosse
+grande come se fosse caduto da un altro mondo e apparso
+nell'antica cornice come lo Yankee alla [[Court|Corte]] di [[King Arthur|Re Artù]];
+se qualcuno tanto inglese quanto lui potesse mai essere paragonato
+a uno Yankee.
+
+«Ce l'ho nella carrozza,» spiegò. «Sono quasi certo che sia
+ciò che volevi... Dico, Olive, la tua recita è _ancora_ in corso?
+Ritorno a Matusalemme, eh? So che hai una penna feconda;
+ma davvero, una recita che dura un mese...»
+
+«Non è una recita,» rispose lei, fissandolo in modo impietrito.
+«È cominciata come una recita; ma non stiamo più recitando.»
+
+«Mi dispiace sentirlo,» disse. «Anch'io mi sono divertito parecchio;
+ma anche in questo c'era un lato serio. C'è il Primo Ministro qui?
+Mi hanno detto che sarebbe venuto... e mi piacerebbe piuttosto vederlo.»
+
+«Oh, non posso raccontarlo tutto in un minuto,» esclamò lei, quasi spazientita.
+«Non sai che ora non c'è un Primo Ministro; non di quel tipo?
+Il [[King|Re]] d'Armi dirige tutto qui intorno.»
+
+E accennò piuttosto disperatamente verso quel potentato, che era ancora
+seduto sul suo alto seggio; probabilmente perché aveva dimenticato di scendere.
+Lo stesso motivo l'aveva un tempo trattenuto in cima allo scaffale della biblioteca.
+
+Douglas Murrel parve accogliere tutto ciò con più compostezza di quanto
+ci si potesse aspettare; forse ricordava l'incidente nella biblioteca.
+Ma il suo contegno verso il monarca medievale fu scrupolosamente corretto.
+S'inchinò leggermente, e poi si tuffò nell'interno della carrozza da nolo;
+e riemerse, tenendo un informe pacco in una mano e il cappello
+nell'altra. Parve avere difficoltà a scartare il pacco
+con una mano sola, e si volse verso il trono con un'aria di scusa
+assai appropriata.
+
+«Perdonatemi, Vostra Maestà,» disse. «Può la mia famiglia avere l'antico
+e ancestrale privilegio di tenere il cappello a [[Court|Corte]]? Sono
+sicuro che qualcosa del genere dev'esserci stato concesso dopo
+che tentammo senza successo di salvare i Principi nella Torre.
+Vedete, è così scomodo tenere in mano un cappello; ma ho un grande
+affetto per questo cappello.»
+
+Se si aspettava di veder brillare qualche barlume di [[Humour|umorismo]] di risposta sul volto
+del fanatico sopra di lui, rimase deluso; ma il [[King|Re]] d'Armi
+disse con perfetta gravità: «Copritevi pure senz'altro.
+Conta solo l'intenzione nella cortesia.
+[[Doubt|Dubito]] che coloro che avevano simili privilegi vi insistessero davvero;
+mi pare di ricordare un [[King|re]] che disse, assai giustamente,
+a un tale privilegiato lord: "Avete il diritto di tenere il cappello
+davanti a me, ma non davanti alle dame." Nello stesso spirito, dove
+(come in questo caso) lo scopo è effettivamente compiacere una dama,
+la forma è ovviamente dispensata.»
+
+E si guardò intorno in modo ragionevole, come se la sua [[logic|logica]] avesse di certo
+soddisfatto tutti come soddisfaceva lui, e Douglas Murrel solennemente
+si mise il cappello e procedette a togliere un prodigioso numero di involucri
+dal pacco.
+
+Quando alla fine esso emerse, era un barattolo o una bottiglia cilindrica di vetro,
+estremamente sudicia, con iscrizioni e ornamenti indistinguibili;
+ma quando la porse a Olive, egli vide che la sua ricerca non era stata
+vana. Non c'è modo di spiegare come la mera forma e il mero dettaglio
+di cose perdute nell'[[Childhood|infanzia]] possano trasalire e trafiggere le emozioni;
+ma quando ella vide la forma di quel vaso di colore ormai fuori uso, col suo
+grande tappo e il marchio di fabbrica sbiadito dei pesci decorativi su di esso,
+i suoi occhi furono punti dalle [[Tears|lacrime]] così che ella stessa ne fu trasalita.
+Era come se avesse udito d'improvviso la voce di suo padre.
+
+«Come diamine hai fatto a trovarlo?» gridò lei, in modo assai
+contraddittorio; poiché aveva inteso soltanto che egli lo cercasse,
+tutt'al più, nel negozio più vicino della città più vicina.
+Ma quel grido [[Alone|soltanto]] rivelò il pessimismo subconscio che era
+sotteso a tutti i suoi affetti archeologici; ella non aveva creduto
+che alcuna delle cose morte che desiderava potesse tornare.
+Quando ne vide una, essa coronò e completò quel ristabilimento
+di fiducia che ella aveva provato quando Herne aveva rimproverato Archer.
+Entrambe queste cose in qualche modo risuonavano di realtà. Tutti i costumi
+e i cerimoniali che erano stati ripristinati potevano dopotutto essere,
+come Murrel aveva suggerito, una mera continuazione della recitazione.
+Ma i Colori da Miniatura di Hendry erano una cosa reale; reale
+quanto una bambola di legno amata nella stanza dei bimbi o perduta nel [[Garden|giardino]].
+Dopo quel momento ella non ebbe mai più un [[Doubt|dubbio]] sulla propria parte nel
+grande [[debate|dibattito]].
+
+Pochi in verità, tuttavia, in quella variopinta folla erano propensi
+a condividere le emozioni della signorina Ashley riguardo al pacco. Nessun altro
+poteva avvertire il contrasto tra Monkey mandato fuori piuttosto
+come un fattorino e il suo ritorno come un cavaliere errante. Agli
+altri, ormai nel pieno slancio delle più maestose nuove mode,
+il povero Monkey non appariva affatto come un cavaliere errante. Per quanto
+potessero variare nell'apprezzamento intellettuale del
+cambiamento, le loro membra si erano abituate alla caduta di panneggi più liberi
+e i loro occhi ai colori di folle più gaie.
+Non pensavano più tanto che il proprio abito fosse pittoresco;
+pensavano semplicemente che il suo abito fosse fuori quadro.
+Non era solo una macchia sul paesaggio ma un ingombro nel traffico.
+Diede una pacca affettuosa al suo [[Horse|cavallo]], e quello strano [[Monster|mostro]]
+preistorico parve persino compiere movimenti goffi
+come se ricambiasse il suo affetto.
+
+«La cosa strana è,» disse Archer nel suo stile confidenziale ed enfatico
+al giovane squire che portava la [[Sword|spada]], «la cosa strana è che non riesce a
+_vedere_ di essere fuori posto. Sempre così difficile gestire i tizi
+che non riescono a _vedere_ quando sono fuori posto.»
+
+Ricadde in un cupo [[Silence|silenzio]], e in compagnia di tutti i suoi associati,
+si dispose ad ascoltare piuttosto nervosamente un dialogo che era
+già cominciato tra il nuovo arrivato e il potentato sul trono.
+Avevano qualche motivo di sentirsi nervosi; consapevoli com'erano
+di quanto questa assurda processione uscita da una farsa in tre atti
+dovesse essersi allargata attraverso la visione del visionario [[King|re]].
+Era tanto più allarmante quando l'incongruo Murrel insistette
+nel rivolgersi al trono con una civiltà alquanto burlesca,
+ma con un'apparente pertinacia d'intenzione. Pareva appellarsi
+al [[King|Re]] d'Armi, poiché quella persona ora esercitava le funzioni
+sia di Primo Ministro sia di Signore del Maniero, riguardo ai dettagli
+delle proprie recenti avventure; quelle peregrinazioni ai confini
+delle cose dove si era imbattuto nelle rovine di una carrozza da nolo.
+Archer udì le sue cortesi impertinenze collegarsi
+a poco a poco in un lungo soliloquio. Avrebbe potuto davvero essere
+un viaggiatore che narra i propri viaggi alla [[Court|corte]] di qualche favoloso [[King|re]].
+Ma quando Archer cominciò ad ascoltare un poco stancamente quali fossero le
+esperienze, perse ogni romantica illusione a loro riguardo.
+Monkey stava certamente raccontando una storia; una lunga storia; e una dannatamente
+sciocca storia, pensò Archer.
+
+Dapprima era andato in un negozio. Poi era andato in un altro negozio;
+o in un'altra parte dello stesso negozio. Poi era andato in un'[[house|osteria]].
+Così tipico di Monkey capitare prima o poi in un'[[house|osteria]],
+e scommetti prima piuttosto che poi; come se un gentiluomo
+non potesse farsi mandare tranquillamente in camera qualsiasi cosa volesse.
+Poi seguirono lunghe confuse conversazioni all'[[house|osteria]],
+compresa un'[[Imitation|imitazione]] di una barista d'alto bordo; quanto mai inopportuna
+in una simile occasione. Poi pareva fosse andato a fare una passeggiata,
+lo sa il cielo dove, e avesse parlato con un [[cabman|vetturino]], lo sa il cielo perché.
+Poi andò in qualche catapecchia in una città di mare e si cacciò nei
+guai con la polizia. Tutti sapevano naturalmente che Monkey era
+ghiotto di scherzi pratici; ma a rendergli giustizia, di solito non ti aveva
+annoiato con essi in seguito, per non parlare di [[Alone|farlo]] a questa lunghezza. Pareva
+avesse giocato un tiro a qualche dottore incaricato di qualche pazzo,
+così che non rinchiusero il pazzo ma soltanto il dottore.
+Peccato che non avessero spartito la differenza rinchiudendo Monkey.
+Ma che cosa mai avesse a che fare tutto ciò con Il Movimento
+e con le probabilità di battere Braintree e i Bolscevichi, Archer
+avrebbe assai voluto saperlo... Oh signore, la storia
+andava ancora avanti. Pareva esserci ora una ragazza dentro;
+e naturalmente questo poteva spiegare tutto, persino con un tipo
+come Monkey, che sempre giocava a fare lo scapolo scapestrato.
+Ma perché diamine stava riversando tutto ciò _adesso,_ quando erano
+proprio sul punto di cominciare le regolari formalità dello Scudo
+e della [[Sword|Spada]]? E perché il [[King|Re]] d'Armi ascoltava in quel modo,
+così fermo e quasi impietrito? Forse era gelato di rabbia.
+Forse si era [[Sleep|addormentato]].
+
+La maggior parte della compagnia in verità, compreso il giovane con la [[Sword|spada]],
+non era proprio così sensibile quanto il signor Archer riguardo al tono,
+il tono davvero giusto e migliore, adatto alle occasioni mondane.
+Non erano tanto seccati quanto quell'[[Artist|artista]] della vita per la discordia
+o il monologo di Monkey. Ma non ne erano più favorevolmente, o almeno
+più seriamente, impressionati. Alcuni cominciarono a sorridere,
+alcuni a ridere; benché avessero una certa aria di farlo con decoro,
+come se ridessero in chiesa. Nessuno aveva la minima idea di che cosa
+Murrel stesse parlando, o comunque perché ne stesse parlando.
+Ma coloro che lo conoscevano meglio erano un poco perplessi per l'ansiosa
+esattezza con cui stava raccontando la sua prolissa storia.
+E per tutto il [[Time|tempo]] il [[King|Re]] d'Armi sedeva immobile come una statua e
+nessuno sapeva se fosse mortalmente offeso o semplicemente sordo come una campana.
+
+«Vedete,» stava concludendo Murrel in uno stile disinvolto e confidenziale,
+che alcuni ritenevano privo di certi elementi della nobile prosa
+di Malory, «potete dire che erano tutti un dannato mucchio di mascalzoni;
+ma ci sono mascalzoni e mascalzoni; alcuni nascono mascalzoni,
+alcuni raggiungono la mascalzoneria e ad alcuni la mascalzoneria viene imposta,
+come dice il poeta. E mi parve che al povero vecchio Hendry la
+mascalzoneria fosse stata imposta piuttosto malamente, da una serie della più putrida
+sfortuna che si sia mai udita, e da un mucchio di sudici furfanti che lo rovinavano.
+Ma l'altro dottore era un mascalzone nato di natura, e amava
+la mascalzoneria per se stessa; così davvero non me ne importava un accidente se
+cacciavano il puzzone in una cella imbottita o no; ma non
+credo che l'abbiano fatto, perché in seguito feci loro l'occhiolino.
+E poi me la battei prima che il poliziotto potesse muoversi;
+e me ne venni via sulla carrozza, che comunque corre più veloce di un poliziotto.
+Ed ecco fatto. Ecco, per così dire, come [[Well|dannatamente]] stanno le cose.»
+
+Anche questa perorazione cadde in un abisso di [[Silence|silenzio]]; ma dopo che il [[Silence|silenzio]]
+fu durato per alcuni istanti che parvero eterni, alcuni tra i più ansiosi
+e vigili della folla si accorsero che la statua sul trono
+si era mossa. Era già quasi come se una statua vera si fosse mossa.
+Ma quando l'uomo parlò, non fu con alcuno dei tuoni di un dio,
+ma con un gesto casuale eppure decisivo come quello di un ordinario magistrato
+che prende una decisione.
+
+«Va tutto bene,» disse, «dategli lo Scudo.»
+
+Fu in questo momento che Il Movimento sfuggì alla presa immaginativa
+di Sir Julian Archer. In seguito, quando la grande catastrofe
+si fu verificata, era solito dire, con tetra saggezza,
+ai suoi amici al club che aveva sempre capito che l'intera
+faccenda stava cominciando ad andare storta. Ma sul momento, in verità,
+il suo guaio era che non capiva nulla; la cosa pareva
+scivolargli dalle mani come il liscio ma enorme gonfiarsi
+di qualche piccolo palloncino giocattolo che si fa grande e spezza il suo spago.
+Si era adattato con agile grazia al passaggio dall'
+elegante abito mattutino al fantastico abito medievale.
+Ma lì era stato sostenuto da un movimento in tutto il mondo sociale
+intorno a lui; per non parlare della figlia di un nobiluomo.
+Trovò notevolmente più difficile adattare il suo abito medievale
+ancor più bruscamente all'atmosfera del cappello e della carrozza da nolo.
+Ma quando [[Michael]] Herne all'improvviso si alzò in piedi nel suo alto seggio e
+cominciò a parlare, in una sorta di stile severo e affannoso, non poté
+affatto compiere l'ultimo balzo di connessione logica o illogica.
+Pareva essere entrato in un mondo insensato in cui gli eventi accadevano
+senza alcuna sequenza. Era impossibile capire alcunché,
+tranne che Herne era in preda a una furia smisurata per qualcosa.
+Chiunque potrebbe essere giustificato, naturalmente, nell'essere in preda a una
+furia smisurata di fronte a un cappello come quello.
+Ma il cappello aveva ammorbato il paesaggio per un [[Time|tempo]] piuttosto lungo
+senza che il [[King|Re]] d'Armi ne prendesse alcuna nota ufficiale;
+e ora parevano essere passati a qualcosa di del tutto diverso.
+Non riusciva minimamente a capire di che cosa Herne stesse parlando.
+Pareva raccontare una storia. La raccontava
+in uno strano modo; rigido eppure schietto;
+in qualche modo come se fosse tratta dalla [[Bible|Bibbia]] e tutto quel genere di cose.
+Nessuno avrebbe mai potuto supporre che fosse la stessa storia
+che Douglas Murrel aveva raccontato. In ogni caso, non era la stessa storia
+che Julian Archer aveva udito.
+
+Herne aveva perso qualcosa della normale lentezza del suo gesto
+e della sua dizione, e le sue parole parevano venire sempre più rapide;
+il suo affanno era quello di un uomo che ha ricevuto un colpo.
+Ma Archer non riusciva a cavarne nulla, tranne che era una
+storia di un vecchio che aveva una figlia; e di come lei lo seguisse
+fedelmente nelle sue peregrinazioni, quando era stato derubato
+dai ladri e caduto in tempi cattivi. Archer vide come in una visione
+le dure illustrazioni di una storia da scuola [[Sunday|domenicale]] della prima età vittoriana,
+con una figlia assai sciatta e un vecchio dalla lunga barba grigia.
+Non avevano altro che l'uno l'altra; erano dimenticati dal mondo:
+non intralciavano il cammino di nessuno; non minacciavano nulla e non provocavano nessuno.
+E persino nel loro rifugio venivano stanati da strani uomini,
+con una fredda e immotivata malignità che non aveva l'umana
+decenza dell'odio. Esaminarono l'uomo come se fosse un
+animale e lo trascinarono via come se fosse già un cadavere.
+Non si curavano affatto delle tragiche virtù che calpestavano;
+o di quell'intatto giglio di lealtà che pigiavano nel fango.
+
+«Voi,» gridò il [[King|Re]] d'Armi con indignazione a tutti i suoi nemici
+che non erano presenti, «voi che parlate del nostro ricostruire le rovine
+della tirannia o del riportare le barbariche corone d'oro!
+È forse scritto dei re che facessero queste cose? È forse scritto
+persino dei tiranni? Fu forse narrato un racconto come questo di [[King|re]] [[Richard|Riccardo]]? Fu forse
+narrato persino di [[King John|Re Giovanni]]? Voi conoscete il peggio che si possa dire del
+più sfrenato che il mondo feudale potesse fare; siete voi a dirlo.
+Voi sapete che cosa è Giovanni Senzaterra in tutta la vostra popolare [[history|storia]]
+tratta dall'Ivanhoe e dai romanzacci a un penny. Giovanni è il traditore;
+Giovanni è il [[Tyrant|tiranno]]; Giovanni è il criminale universale; e quali
+sono i delitti di Giovanni? Che assassinò un principe reale.
+Che ruppe [[Faith|fede]] con un'aristocrazia di nobili.
+Che tolse un dente a un ricco banchiere ebreo;
+forse era otturato d'oro, di qui il clamore!
+Che attaccò il [[King|re]] suo padre o soppiantò il [[King|re]]
+suo fratello. Ah, era pericoloso stare in alto in quei giorni!
+Era pericoloso essere un principe, essere un nobile, essere
+vicino al camminante turbine dell'ira del [[King|re]].
+Chi entrava nel palazzo spesso portava la propria vita nelle proprie mani;
+entrava nella [[Cave|caverna]] del [[Lion|leone]], se era la [[Cave|caverna]] del
+Cuor di [[Lion|Leone]]. Era sfortunato essere ricco e destare l'invidia regale.
+Era sfortunato essere potente. Era sfortunato
+essere fortunato.
+
+«Ma quando mai fu detto del [[Tyrant|tiranno]], del possente cacciatore
+al cospetto del Signore o del Diavolo, che sospendesse la sua caccia per rivoltare
+una pietra a rubare le uova degli [[Insects|insetti]] o frugasse in una pozza per
+separare il girino dalla rana? Quando mai ebbe quella minuta
+e microscopica malizia che non poteva lasciare nulla senza tormento,
+che poteva odiare gli indifesi più dei superbi, che poteva
+coprire la terra di spie per rovinare le [[Love|storie d'amore]] dei servi della gleba
+o mobilitare un esercito per portare via un vecchio mendicante dalla sua [[Child|figlia]]?
+I re passavano a cavallo e gettavano a tali mendicanti una maledizione o una moneta;
+non si fermavano laboriosamente a smembrare le loro piccole
+famiglie membro a membro; affinché il cuore umano che si nutre dei
+suoi tristi affetti potesse patire l'ultima e più lunga agonia.
+C'erano buoni re che servivano i mendicanti
+come domestici; sì, persino quando i mendicanti erano lebbrosi.
+C'erano cattivi re che avrebbero respinto i mendicanti
+e cavalcato oltre, e poi probabilmente l'avrebbero ricordato con terrore
+nell'ora della [[Death|morte]] e avrebbero lasciato denaro per messe e opere di carità.
+Ma non incatenavano un vecchio medievale solo per la sua cecità,
+come hanno incatenato il vecchio moderno solo per la sua teoria
+sul daltonismo. E questa è la specie di ragnatela
+di preoccupazione e miseria che avete steso su tutta l'infelice
+massa dell'umanità, perché, il cielo ci aiuti, siete troppo umani,
+siete troppo liberali, siete troppo filantropi per sopportare un [[government|governo]] umano
+e il nome di un [[King|re]].
+
+«Ci biasimate se abbiamo sognato un ritorno a cose più semplici?
+Ci biasimate se talvolta immaginiamo che un uomo potrebbe non fare ciò che tutta
+questa macchina sta facendo, se una volta fosse un uomo e non più una [[Machine|macchina]]?
+E che cosa marcia contro di noi oggi se non la macchina?
+Che cosa ha Braintree da dirci oggi se non che siamo
+sentimentali ignoranti della scienza, della scienza sociale,
+della scienza economica, di dura e obiettiva e logica scienza...
+di quella scienza che trascinò quel vecchio come un lebbroso via da tutto ciò che amava?
+Diciamo a John Braintree che non siamo ignoranti della scienza.
+Diciamo a John Braintree che sappiamo già troppo della scienza.
+Diciamo a John Braintree in faccia che abbiamo avuto abbastanza
+scienza, abbastanza illuminismo, abbastanza [[Education|istruzione]],
+abbastanza di tutto il suo ordine sociale con la sua tagliola di macchine e
+il suo [[Death|raggio mortale]] della conoscenza. Portate questo messaggio a John Braintree;
+tutte le cose giungono a una fine e queste cose sono finite. Per noi non
+può esserci fine se non l'inizio. Nel mattino del mondo,
+nell'Assemblea dei Cavalieri, nella [[house|casa]], tra i verdi boschi
+della Allegra Inghilterra, nella Camelot delle Contee Occidentali, io do lo scudo
+all'unico uomo che ha compiuto l'unica azione di tutti i nostri giorni che vale la pena di compiere;
+che ha vendicato un torto su almeno un mascalzone e salvato
+una donna in pericolo.»
+
+Si chinò dal suo trono con un rapido movimento e prese
+la grande [[Sword|spada]] dall'uomo sottostante; la sollevò e la scosse
+così che parve fiammeggiare come la [[Sword|spada]] di San [[Michael|Michele]].
+E poi risuonarono su tutta quella folla attonita le antiche
+parole che accompagnano l'Accollata e consacrano un uomo a Dio
+e alla causa della vedova e dell'[[Orphan|orfano]].
 
 -^-

@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/fourfaultlessfelons-(chesterton)">FourFaultlessFelons</a> › <a href="/testi/chesterton/atomized/fourfaultlessfelons/story_17_ii_the_procession_of_the_plotters">Story 17 Ii The Procession Of The Plotters</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/fourfaultlessfelons/story_15_vi_the_cleansing_of_the_name/part_02">‹ part 02</a><a class="ex-next" href="/testi/chesterton/atomized/fourfaultlessfelons/story_17_ii_the_procession_of_the_plotters/part_02">part 02 ›</a></div>
@@ -181,3 +183,180 @@ number of people go to the pawnbroker's-especially this pawnbroker; he is
 little Loeb, who calls himself Lobb and lives at the corner of the Old
 
 Market, in the poorest part of the town. He's a Jew, of course, but not
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/fourfaultlessfelons-(chesterton)">FourFaultlessFelons</a> › <a href="/testi/chesterton/atomized/fourfaultlessfelons/story_17_ii_the_procession_of_the_plotters">Story 17 Ii The Procession Of The Plotters</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/fourfaultlessfelons/story_15_vi_the_cleansing_of_the_name/part_02">‹ part 02</a><a class="ex-next" href="/testi/chesterton/atomized/fourfaultlessfelons/story_17_ii_the_procession_of_the_plotters/part_02">part 02 ›</a></div>
+</nav>
+
+II IL CORTEO DEI COSPIRATORI
+
+SI è già spiegato che Pavonia era governata secondo illuminati
+
+principi moderni. Vale a dire, il [[King|re]] era popolare e senza potere;
+
+il primo ministro eletto dal popolo era impopolare e moderatamente potente; il
+
+capo della polizia segreta era assai più potente, e il quieto e
+
+intelligente banchiere, a cui tutti erano debitori di denaro, era il più potente
+
+di tutti. Ma tutti e quattro erano moderati nei rispettivi ruoli;
+
+nessuno di loro aveva mai spinto le cose fino alla rottura e tutti e quattro
+
+avevano spesso l'abitudine di discutere, in un informale Consiglio della Corona, i
+
+crescenti problemi dello Stato.
+
+Il [[King|re]], il cui titolo storico era Clodoveo III, era un uomo allampanato e
+
+piuttosto [[Melancholy|malinconico]] con baffi gialli e imperiale, e occhi piuttosto
+
+infossati; abbastanza [[Well|ben]] educato da far apparire la propria stanchezza impersonale
+
+anziché personale nella sua applicazione, ma per il resto compagnia poco
+
+eccitante. Il primo ministro era basso e tarchiato, e assai vivace per
+
+la sua corpulenza; benché Pavoniano d'origine borghese somigliava piuttosto a un
+
+politico francese, il che non è affatto lo stesso che somigliare a un
+
+francese comune. Portava il pince-nez e una corta barba e parlava agli
+
+individui con tono guardingo, ma alle grandi folle con tono confidenziale di
+
+voce. Si chiamava Valence ed era stato ritenuto piuttosto un radicale,
+
+finché il nuovo movimento rivoluzionario non lo aveva improvvisamente rivelato come un
+
+capitalista piuttosto ostinato, volgendo, per così dire, la sua robusta figura nera
+
+contro il rosso bagliore. Il capo della polizia era un grosso soldato biliare
+
+di nome Grimm, il cui volto giallo raccontava di febbri contratte in molti paesi e la cui
+
+bocca serrata raccontava assai poco di qualsiasi cosa. Era l'unica persona presente
+
+che avesse l'aria di poter riuscire in qualche modo formidabile in un'ora di pericolo
+
+nazionale, ed era sempre il più pessimista dei quattro sulle proprie
+
+speranze di farvi fronte. L'ultimo era una figuretta esile e raffinata
+
+con capelli lisci e grigi e un naso adunco piuttosto grande per i suoi
+
+lineamenti smunti. Era vestito di grigio scuro sì che le sue strisce di
+
+membra parevano ripetere le sue strisce di capelli, e solo quando calzò con cura
+
+un paio di occhialoni di tartaruga, i suoi occhi parvero d'improvviso
+
+risaltare e prender vita, come s'egli fosse un [[Monster|mostro]] che si metteva e toglieva gli occhi
+
+come una maschera. Costui era Isidor Simon, il banchiere, e non aveva mai
+
+accettato alcun titolo benché molti gliene fossero stati offerti. L'occasione della
+
+loro riunione straordinaria era che il selvaggio e finora piuttosto vago
+
+movimento chiamato la Confraternita della Parola aveva improvvisamente ricevuto sostegno
+
+da una parte assai inattesa. Il poeta [[Sebastian]] era soltanto un povero
+
+libero battitore bohémien, di oscura origine e nascita apparentemente illegittima.
+
+Perfino il suo cognome era dubbio: era facile per i giornali farsi beffe
+
+delle sue vere affettazioni e sottovalutare la sua vera influenza. Ma quando
+
+fu realmente annunciato che un uomo come il professor Phocus si era dichiarato
+
+amico e seguace del poeta, tutti sentirono che l'intera
+
+situazione sociale era mutata. Phocus era tutt'altra faccenda; egli era il
+
+mondo scientifico: il mondo dei collegi e dei comitati. Era un nome; non
+
+era invero molto [[Well|ben]] conosciuto di persona, essendo assai solitario, ma
+
+la sua bizzarra figura con l'alto e stretto cilindro, più simile a una pipa che a un
+
+cappello, e gli occhiali verdi che portava per proteggere i deboli occhi dalla
+
+luce comune del giorno, era un oggetto abbastanza familiare in certi luoghi,
+
+specialmente il grande Museo Nazionale, dove non solo si specializzava in
+
+certe antichità paleo-pavoniane, ma conduceva gruppi scelti di
+
+studenti in giro a ispezionare le reliquie e le sculture che illustravano
+
+quel ramo di studi. Era universalmente riconosciuto come un uomo di vasta
+
+erudizione e laboriosa precisione, e quando fu dichiarato a chiare lettere di stampa
+
+ch'egli, il professor Phocus, aveva trovato profezie riguardanti la Parola
+
+nei geroglifici preistorici di Pavonia, solo due spiegazioni parvero
+
+possibili, entrambe egualmente catastrofiche. O il grande Phocus era improvvisamente
+
+impazzito, oppure c'era davvero qualcosa di vero.
+
+Per qualche [[Time|tempo]] il banchiere era riuscito a placare i timori del
+
+Consiglio, con quello che poteva parere un argomento professionale, ma che di questi tempi è un
+
+argomento pratico. Un poeta popolare poteva mettere tutte le folle nelle
+
+strade a cantare i suoi [[songs|canti]], e un dotto di reputazione europea poteva
+
+indurre tutti gli accademici del mondo a leggere il suo libro. Ma lo stipendio del
+
+dotto, per condurre i turisti in giro fra i geroglifici, era un
+
+po' più di cinque ghinee la settimana, e lo stipendio del poeta era una
+
+quantità ignota che era spesso una quantità negativa. Non si può fare una
+
+rivoluzione moderna, né alcunché di moderno, senza denaro. Era difficile
+
+vedere come il poeta e [[The Professor|il professore]] riuscissero a pagare gli occasionali
+
+volantini che diffondevano o la stampa del poema sulla Parola; per non
+
+[[Alone|dire]] di munizioni o vettovagliamento o paga dei soldati o di qualsiasi cosa sia
+
+necessaria per gli alti scopi della guerra civile. Il signor Simon, il
+
+consigliere finanziario, aveva perciò consigliato al [[King|re]] di ignorare il movimento finché
+
+il suo appoggio non fosse un po' più finanziario. Ma a questo Consiglio il capo
+
+della polizia aveva portato notizie che parevano mutare ogni cosa.
+
+«Naturalmente», disse alla sua lenta maniera, «avevo spesso visto il poeta entrare
+
+dal prestatore su pegno».
+
+«Il rifugio naturale dei poeti, suppongo», disse il primo ministro, e
+
+sentì piuttosto la mancanza della risatina da educanda con cui la sua facezia sarebbe stata
+
+accolta in un pubblico comizio, poiché il volto del [[King|re]] era vacuo e triste e
+
+quello del banchiere noncurante e disattento. Nessun mutamento appariva mai sul volto di Grimm,
+
+nemmeno sui palchi pubblici, ed egli proseguì imperturbabile: «Naturalmente, un
+
+gran numero di persone va dal prestatore su pegno — specialmente da questo prestatore; è
+
+il piccolo Loeb, che si fa chiamare Lobb e vive all'angolo del Vecchio
+
+Mercato, nella parte più povera della città. È un ebreo, naturalmente, ma non

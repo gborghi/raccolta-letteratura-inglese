@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/don-quixote-(chesterton)">Don Quixote</a> › <a href="/testi/chesterton/atomized/don_quixote/chapter_14">Chapter 14</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/don_quixote/chapter_14/part_03">‹ part 03</a><a class="ex-next" href="/testi/chesterton/atomized/don_quixote/chapter_14/part_05">part 05 ›</a></div>
@@ -136,3 +138,134 @@ into it much of that popular passion which at one [[Time|time]]
 filled half the towns and villages in England with pageants;
 the hunger of a populace which [[Puritanism]] and Industrialism
 had so long starved for the feast of the eyes and the fancy.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/don-quixote-(chesterton)">Don Quixote</a> › <a href="/testi/chesterton/atomized/don_quixote/chapter_14">Chapter 14</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/don_quixote/chapter_14/part_03">‹ part 03</a><a class="ex-next" href="/testi/chesterton/atomized/don_quixote/chapter_14/part_05">part 05 ›</a></div>
+</nav>
+
+«Semplicemente non so che cosa dire,» disse disperatamente.
+«Ho quasi voglia di buttarli fuori tutti di [[house|casa]], la ragazza
+e tutti quanti... Qualsiasi cosa io possa fare...»
+
+Il Primo Ministro ancora non alzava lo sguardo, ma continuava
+in modo glaciale a scorrere il foglio che aveva in mano.
+Di tanto in tanto inarcava un poco le sopracciglia; di tanto in tanto le sollevava
+un poco; ma le sue labbra serrate non si mossero mai.
+
+Il suo ospite fu colto all'improvviso da una sorta di terrore,
+la cui portata egli stesso non riusciva a seguire.
+Credette di aver offerto un insulto che il [[Blood|sangue]] non avrebbe potuto cancellare.
+Il [[Silence|silenzio]] gli spezzò i nervi ed egli disse bruscamente: «Per l'amor
+di Dio, non continuate a leggere quella robaccia! So che è dannatamente buffa;
+ma non è così dannatamente buffa per me... che accade in [[house|casa]] mia.
+Non potete immaginare che io gradisca vedere un ospite insultato, e [[Alone|tanto meno]] voi.
+Ditemi che cosa volete e lo farò.»
+
+«[[Well|Ebbene]],» disse il Primo Ministro, e posò lentamente il foglio
+sul tavolinetto rotondo. «[[Well|Ebbene]], finalmente l'abbiamo trovata.»
+
+«Trovata cosa?» esclamò il suo sconvolto amico.
+
+«La nostra ultima occasione,» disse il Primo Ministro.
+
+Ci fu nel buio [[Summer|padiglione]] [[house|estivo]] un [[Silence|silenzio]] così improvviso e completo
+che si poteva udire il ronzio di una mosca e il lontano mormorio
+del parlottare degli ammutinati. Il [[Silence|silenzio]] era meramente accidentale;
+eppure qualcosa si [[Rose|levò]] nell'[[Soul|animo]] di Seawood a protestare contro di esso;
+come se il [[Silence|silenzio]] stesse plasmando il destino e dovesse essere impedito di farlo.
+
+«Che cosa intendete?» esclamò bruscamente. «Quale ultima occasione?»
+
+«L'ultima occasione di cui parlavamo non dieci minuti fa,»
+rispose il politico con un cupo sorriso. «Non stavo forse parlando
+proprio di questa cosa prima che volasse dentro dalla [[Window|finestra]], come la colomba
+col ramoscello d'ulivo? Non stavo forse dicendo proprio che dobbiamo
+avere qualcosa di nuovo perché il povero vecchio Impero è andato a male?
+Non stavo forse dicendo che volevamo una nuova cosa positiva da opporre a
+Braintree e alla Nuova [[democracy|Democrazia]]? [[Well|Ebbene]], allora.»
+
+«Che diamine intendete?» esclamò Lord Seawood.
+
+«Intendo che questa cosa dev'essere sostenuta,» gridò il
+Primo Ministro, battendo sul tavolinetto con una vivacità
+quasi sconcertante in uno del suo contegno arido e tetro.
+«Dev'essere sostenuta con [[Horse|cavalleria]], fanteria e artiglieria;
+o, ciò che è dannatamente più importante, con sterline, scellini e pence.
+Dev'essere sostenuta come non abbiamo mai sostenuto niente in vita nostra.
+Signore, che un uomo della mia età debba vivere abbastanza da vedere la breccia
+nella linea nemica e l'occasione per una carica di cavalleria!
+Dev'essere martellata [[Home|a fondo]] per quanto vale e molto di più;
+e prima cominciamo, meglio è. Dove sono questi individui?»
+
+«Ma volete davvero dire,» gridò Seawood sbarrando gli occhi, «che c'è
+qualcosa da fare con degli sciocchi come...»
+
+«E supponiamo che lo siano,» sbottò Eden. «Sono forse uno [[Fool|sciocco]] da immaginare
+che si possa fare qualcosa senza sciocchi?»
+
+Lord Seawood si ricompose; ma continuava a sbarrare gli occhi.
+
+«Suppongo intendiate che una nuova politica... non posso certo dire una politica popolare...
+forse piuttosto una riuscita politica antipopolare...»
+
+«Entrambe, se volete,» disse l'altro. «Perché no?»
+
+«Non avrei mai pensato,» disse Lord Seawood, «che il popolino
+potesse essere particolarmente interessato a tutta questa elaborata teoria antiquaria
+sulla cavalleria.»
+
+«Avete mai considerato,» chiese il Primo Ministro,
+guardandosi alle spalle, «il significato della parola cavalleria?»
+
+«Intendete nel senso etimologico?» chiese l'altro nobiluomo.
+
+«Intendo nel senso del [[Horse|cavallo]],» rispose Eden. «Ciò che alla gente piace davvero
+è un uomo a [[Horse|cavallo]]... e non le importa molto se è un [[Horse|cavallo]] alto.
+Date al popolo abbondanza di sport... tornei, corse di [[Horse|cavalli]]... _panem et
+circenses,_ ragazzo mio... questo servirà come lato popolare della politica.
+Se potessimo mobilitare tutto ciò che fa il Derby potremmo
+combattere il [[deluge|Diluvio]].»
+
+«Comincio,» disse Seawood, «ad avere una specie di folle idea
+di ciò che intendete.»
+
+«Intendo,» rispose il suo amico, «che la [[democracy|Democrazia]] si cura dannatamente
+di più della disuguaglianza dei cavalli che dell'uguaglianza degli uomini.»
+
+E varcando la soglia attraversò a grandi passi il [[Garden|giardino]] con un passo
+quasi sorprendentemente ringiovanito; e prima ancora che il suo ospite si fosse mosso
+egli udì la voce del Primo Ministro in lontananza levarsi come una tromba,
+come la voce dei grandi oratori di cinquant'anni prima.
+
+Fu così che il bibliotecario che si rifiutò di cambiarsi i vestiti
+riuscì a cambiare il proprio paese. Poiché da questo piccolo
+e [[Grotesque|grottesco]] incidente venne tutta quella famosa rivoluzione,
+o reazione, che trasformò il volto della società inglese,
+e frenò e mutò il corso della sua [[history|storia]].
+Come tutte le rivoluzioni attuate dagli inglesi, e specialmente
+le rivoluzioni attuate dai Conservatori, fu molto attenta
+a preservare quei poteri che erano già impotenti.
+Si udirono persino alcuni Conservatori di tipo piuttosto senile parlare ancora
+del carattere Costituzionale del completo sovvertimento della Costituzione.
+Le fu concesso di mantenere, anzi si supponeva sostenesse,
+l'antico modello monarchico di questo paese. Ma in pratica il nuovo potere fu diviso
+tra tre o quattro monarchi subordinati che governavano vaste
+province dell'Inghilterra, come Lord Luogotenenti ingranditi;
+e chiamati, secondo il [[Romance|romanticismo]] o l'affettazione del
+movimento, Re d'Arme. Occupavano in verità una posizione con
+qualcosa della santità e dell'immunità simbolica di un araldo;
+ma possedevano anche non pochi dei poteri di un [[King|re]].
+Comandavano le bande di giovanotti chiamate Ordini
+della Cavalleria, che fungevano da una sorta di milizia o cavalleria territoriale.
+Tenevano corti e amministravano l'alta e la bassa giustizia
+secondo le ricerche del signor Herne sul diritto medievale.
+Era qualcosa di più di un corteo storico; eppure vi confluì
+molta di quella passione popolare che un [[Time|tempo]]
+riempiva metà delle città e dei villaggi d'Inghilterra di cortei;
+la fame di un popolino che il [[Puritanism|Puritanesimo]] e l'Industrialismo
+avevano così a lungo affamato del festino degli occhi e della fantasia.

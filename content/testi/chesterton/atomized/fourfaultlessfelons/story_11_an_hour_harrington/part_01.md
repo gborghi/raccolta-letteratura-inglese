@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/fourfaultlessfelons-(chesterton)">FourFaultlessFelons</a> › <a href="/testi/chesterton/atomized/fourfaultlessfelons/story_11_an_hour_harrington">Story 11 An Hour Harrington</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/fourfaultlessfelons/story_09_iv_the_disease_of_duodiapsychosis/part_03">‹ part 03</a><a class="ex-next" href="/testi/chesterton/atomized/fourfaultlessfelons/story_11_an_hour_harrington/part_02">part 02 ›</a></div>
@@ -191,3 +193,190 @@ Harrington-and, apparently, you."
 "I suppose," said Judson, "that Harrington, or Wilmot, or whatever you
 
 call him, told you that the [[Artist|artist]] admitted being ambidexterous-doing
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/fourfaultlessfelons-(chesterton)">FourFaultlessFelons</a> › <a href="/testi/chesterton/atomized/fourfaultlessfelons/story_11_an_hour_harrington">Story 11 An Hour Harrington</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/fourfaultlessfelons/story_09_iv_the_disease_of_duodiapsychosis/part_03">‹ part 03</a><a class="ex-next" href="/testi/chesterton/atomized/fourfaultlessfelons/story_11_an_hour_harrington/part_02">part 02 ›</a></div>
+</nav>
+
+UN'ORA. HARRINGTON.
+
+«Questo è del mio superiore», disse il funzionario. «Il [[Detective|detective]]
+
+capo che ha studiato questa faccenda sul posto. Anzi, uno dei
+
+principali detective al mondo oggigiorno, suppongo.»
+
+«Sì», disse il dottore, seccamente. «Il signor Harrington non ha forse condotto i suoi studi
+
+sotto il nome di signor Wilmot? E abitato qui accanto?»
+
+«Lei pare saperne un paio», disse l'ispettore Brandon con un sorriso.
+
+«[[Well|Beh]], il suo amico si comportava tanto da scassinatore che ho intuito dovesse
+
+essere un poliziotto», disse Judson, «e diceva di avere la migliore autorità; ho
+
+scoperto che non era l'autorità della famiglia, così ho presunto che fosse probabilmente
+
+l'autorità della legge.»
+
+«Qualunque cosa abbia detto era piuttosto fondata, può esserne certo», disse l'altro.
+
+«Harrington è quasi infallibile, alla lunga. E in questo caso
+
+è stato certamente giustificato da ciò che ha trovato, benché nessuno lo avrebbe mai
+
+immaginato.»
+
+«Ciò che ha trovato», disse il dottore, «era lo [[skeleton|scheletro]] di un uomo, cacciato
+
+nella cavità dell'albero, evidentemente lì da molto [[Time|tempo]],
+
+segnato da un'inconfondibile ferita all'occipite, inferta con violenza e
+
+vibrata con la mano sinistra.»
+
+Brandon lo fissò. «E come sa che lui ha trovato questo?»
+
+chiese.
+
+«Lo so perché l'ho trovato io stesso», rispose Judson.
+
+Ci fu una pausa, e poi aggiunse: «Sì, ispettore, è del tutto vero
+
+che io so qualcosa di questa faccenda; come le ho detto, posso condurla
+
+da Windrush in persona, se necessario. Naturalmente, non pretendo alcun diritto di
+
+mercanteggiare con lei, ma poiché per il momento lei è bloccato da quel telegramma,
+
+e io potrei essere in grado di aiutare, le spiace ricambiarmi con un
+
+favore? Vuole raccontarmi tutta la storia? O forse dovrei dire l'intera
+
+teoria?»
+
+Il volto di Brandon della C.I.D. non era solo faceto e bonario;
+
+era anche assai intelligente, una volta consumata la prima patina di
+
+flemma ufficiale. Guardò il dottore pensierosamente per un
+
+poco, e parve approvare ciò che studiava. Poi disse con un
+
+sorriso: «Suppongo che lei sia uno di quei detective dilettanti che leggono
+
+storie [[Detective|poliziesche]], o addirittura le scrivono. [[Well|Beh]], non nego che questa sia un po'
+
+una storia [[Detective|poliziesca]]. E c'è una domanda che salta sempre fuori
+
+nei libri e nei discorsi di quel genere, ed è piuttosto pertinente qui. L'ha
+
+vista venti volte. Supponga che un vero Uomo di Genio volesse commettere un
+
+crimine.»
+
+Ruminò un poco e poi proseguì. «Dal nostro punto di vista, il
+
+grande problema in ogni crimine d'omicidio è sempre che cosa fare del [[Body|corpo]].
+
+Immagino che questo fatto abbia salvato molti dall'essere assassinati. Il fatto
+
+che egli sia più pericoloso al suo nemico da morto che da vivo. Si tentano ogni sorta di
+
+espedienti; smembrare e disperdere il [[Body|corpo]], gettarlo in
+
+fornaci e forni, metterlo sotto pavimenti di cemento, come il dottor Crippen.
+
+E nello studio di simili storie, questa storia spicca davvero come il
+
+straordinario eppure efficace espediente di quello che io chiamo un Uomo di Genio.
+
+«Isaac Morse prosperava circa vent'anni fa come agente e
+
+consulente finanziario; immagino lei sappia cosa significhi. In effetti prosperava come
+
+usuraio, e prosperava come l'alloro verde, ovvero l'
+
+empio. Prosperava tanto, e tanto a
+
+spese altrui, che era probabilmente assai impopolare presso un buon numero di
+
+persone le cui condizioni non erano così floride. Tra queste c'erano due
+
+studenti; l'uno, che era una persona meno interessante, era uno
+
+studente di medicina di nome Duveen. L'altro era uno studente d'arte di nome Windrush.
+
+«Il consulente finanziario fu tanto imprudente da lasciare l'automobile e
+
+l'autista, e attraversare a piedi un angolo di brughiera fino all'albergo dove si
+
+sarebbe tenuta la conferenza. Nel farlo, passarono per una conca desolatissima
+
+nella landa, contrassegnata soltanto da questo strano albero cavo... Che cosa avrebbe fatto
+
+l'ordinario, stupido, professionale assassino? Avrebbe
+
+ucciso, senza dubbio quando l'altro compagno voltava le spalle, e se
+
+l'avesse fatta franca, sarebbe tornato di soppiatto e avrebbe cercato di grattare una [[Grave|fossa]]
+
+poco profonda nella sabbiosa brughiera. O avrebbe cercato di portar via il cadavere in una cassa sotto
+
+gli occhi di tutti i servitori della locanda. Questa è la differenza tra
+
+lui e un uomo con [[Imagination|immaginazione]]... un [[Artist|artista]]. L'[[Artist|artista]] tentò qualcosa di
+
+perfettamente folle e nuovo, e apparentemente assurdo; ma qualcosa che ha
+
+funzionato per vent'anni. Professò di provare un romantico affetto per
+
+quel luogo particolare, si vantò dell'intenzione di comprarlo e di viverci.
+
+Lo comprò davvero, e vi visse davvero, e con questo metodo davvero
+
+seppellì a tutti gli occhi tranne i suoi il segreto di ciò che vi aveva lasciato. Poiché
+
+in quei pochi istanti, quando l'altro studente era andato avanti ed era
+
+nascosto oltre l'albero sghembo, colpì Morse con un colpo mortale della sua
+
+mano sinistra e ne gettò il [[Body|corpo]] nella spalancata caverna dell'albero. Era
+
+un luogo solitario e naturalmente nessuno lo vide effettivamente compiere il misfatto. Ma
+
+molto dopo che lo studente di medicina era proseguito verso l'albergo e aveva preso un
+
+treno per [[London|Londra]], un altro viaggiatore sulla landa vide Windrush seduto
+
+a fissare l'albero e le pozze, in una cupa fantasticheria senza dubbio piena
+
+del suo audace disegno. Ed è cosa curiosa che perfino il passante trovò
+
+la sua figura solitaria tragica quanto [[Cain|Caino]], e le pozze sotto il rosso
+
+tramonto parevano [[Blood|sangue]].
+
+«Il resto del suo audace disegno, o posa artistica, funzionò abbastanza
+
+facilmente. Vantandosi d'essere stravagante, sfuggì a ogni possibilità del
+
+sospetto di essere criminale. Poteva ingabbiare l'albero come un animale
+
+selvatico, senza che nessuno lo trovasse più sciocco di quanto sembrasse. Noterà
+
+che il suo ingabbiare si fece più rigoroso; quando la gente cominciò a toccare o
+
+esaminare l'albero, chiuse fuori tutti dal [[Garden|giardino]]. Tranne
+
+Harrington... e, a quanto pare, lei.»
+
+«Suppongo», disse Judson, «che Harrington, o Wilmot, o comunque lo si
+
+chiami, le abbia detto che l'[[Artist|artista]] ammetteva di essere ambidestro... di fare

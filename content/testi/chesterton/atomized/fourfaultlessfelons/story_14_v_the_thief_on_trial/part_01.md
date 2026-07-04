@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/fourfaultlessfelons-(chesterton)">FourFaultlessFelons</a> › <a href="/testi/chesterton/atomized/fourfaultlessfelons/story_14_v_the_thief_on_trial">Story 14 V The Thief On Trial</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/fourfaultlessfelons/story_13_ii_the_burglar_and_the_brooch/part_09">‹ part 09</a><a class="ex-next" href="/testi/chesterton/atomized/fourfaultlessfelons/story_14_v_the_thief_on_trial/part_02">part 02 ›</a></div>
@@ -193,3 +195,192 @@ enough on the spot...."
 "This is most irregular," said the judge. "I understand that the witness,
 
 Isidor Green, is to give his own evidence later. The prosecution had
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/fourfaultlessfelons-(chesterton)">FourFaultlessFelons</a> › <a href="/testi/chesterton/atomized/fourfaultlessfelons/story_14_v_the_thief_on_trial">Story 14 V The Thief On Trial</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/fourfaultlessfelons/story_13_ii_the_burglar_and_the_brooch/part_09">‹ part 09</a><a class="ex-next" href="/testi/chesterton/atomized/fourfaultlessfelons/story_14_v_the_thief_on_trial/part_02">part 02 ›</a></div>
+</nav>
+
+V IL LADRO ALLA SBARRA
+
+CI fu un'agitazione e un indugio straordinari intorno alla trattazione
+
+della causa di Alan Nadoway, considerando che si trattava semplicemente del processo a un
+
+comune borsaiolo. Anzitutto si andava ripetendo dappertutto, in apparenza
+
+su buona fonte, che l'imputato intendeva dichiararsi colpevole. Poi vennero
+
+ogni sorta di trambusti nel suo originario ambiente sociale, e una serie di
+
+colloqui privilegiati fra l'imputato e i membri della sua famiglia. Ma
+
+fu solo dopo che suo padre, il vecchio Sir Jacob Nadoway, ebbe mandato il proprio
+
+segretario privato alla [[Prison|prigione]], apparentemente per condurre colloqui di lunghezza senza precedenti
+
+con l'imputato, che si sparse la voce ch'egli si dichiarava
+
+innocente dopo tutto. Poi ci fu il medesimo genere di dicerie e
+
+dispute intorno alla sua scelta di un difensore, e infine si annunciò che
+
+egli aveva insistito per condurre da sé la propria difesa.
+
+Era stato rinviato a giudizio dopo prove puramente formali, e nei suoi
+
+primi tempi di [[Silence|silenzio]] e resa. Fu davanti a un giudice e a una giuria
+
+che l'accusa contro di lui venne pienamente esposta, e il pubblico ministero
+
+la aprì in tono di severo rammarico. L'imputato era purtroppo il
+
+figlio di una grande e illustre famiglia, la macchia sullo stemma di una
+
+nobile, generosa e filantropica [[house|casata]]. Tutti conoscevano le
+
+grandi riforme nelle condizioni dell'impiego che sarebbero sempre state
+
+associate al nome del fratello maggiore, il signor John Nadoway. Molti che
+
+non potevano approvare le pratiche ritualistiche, né sottomettere il proprio intelletto
+
+ai dogmi ecclesiastici sostenuti dall'altro fratello, il reverendo Norman
+
+Nadoway, non avevano tuttavia meno rispetto per la solida opera sociale e l'attiva
+
+[[Charity|carità]] di quell'ecclesiastico fra i poveri. Ma, comunque potesse essere in
+
+altri paesi, la legge inglese non aveva riguardo per le persone ed era
+
+tenuta a inseguire il delitto fin nei suoi più rispettabili rifugi. Questo
+
+sventurato, Alan Nadoway, era sempre stato un buono a [[Well|nulla]] e un
+
+peso e un disonore per la sua famiglia. Era stato sospettato, e anzi
+
+condannato, di tentativi di furto con scasso nelle case dei suoi familiari e
+
+amici.
+
+Qui il giudice intervenne, dicendo: «Questa è un'osservazione del tutto sconveniente. Non
+
+trovo nulla circa lo scasso nel capo d'imputazione per cui l'imputato è
+
+sotto processo». A questo l'imputato osservò con voce allegra: «Non me ne
+
+importa, mylord». Ma nessuno gli badò minimamente, in presenza
+
+di una procedura legale davvero sconveniente, e il giudice e l'avvocato
+
+seguitarono a guardarsi l'un l'altro con volti lugubri, finché
+
+l'avvocato non si scusò e riprese. In ogni caso, disse, poteva esservi
+
+poco [[Doubt|dubbio]] sull'accusa di piccolo furto, di fronte ai testimoni
+
+che intendeva chiamare al banco.
+
+L'agente di polizia Brindle prestò giuramento e rese la sua testimonianza in un lungo
+
+monotono gorgogliante, senza alcuna apparente punteggiatura, come se non fosse
+
+soltanto tutta una frase ma tutta una sola parola.
+
+«Agendo su informazione ricevuta seguii l'imputato dalla [[house|casa]] del
+
+reverendo Norman Nadoway verso il cinema-teatro Yperion a circa
+
+cento iarde di distanza vidi l'imputato mettere la mano nella tasca del
+
+soprabito di un uomo fermo sotto un lampione dopo aver avvertito l'uomo di
+
+esaminare le tasche seguii l'imputato che si era unito alla folla
+
+fuori dal teatro un uomo nella folla si voltò e accusò
+
+l'imputato di avergli vuotato le tasche si offrì di battersi con l'imputato e io
+
+sopraggiunsi per fermare la rissa dissi lo denuncia quest'uomo ed egli disse sì
+
+l'imputato disse supponiamo che io lo denunci per aggressione mentre
+
+interrogavo l'altro uomo l'imputato corse avanti e mise la mano nella
+
+tasca della marsina di un uomo in coda. Dissi allora a quest'uomo di esaminare
+
+le tasche e presi l'imputato in custodia».
+
+«Desidera contro[[Cross|interrogare]] questo testimone?» chiese il giudice.
+
+«Sono certo che vossignoria mi perdonerà, date le circostanze», disse
+
+l'imputato, «se non sono [[Well|ben]] pratico delle forme di questa [[Court|corte]]. Ma
+
+posso a questo punto chiedere se l'accusa intende chiamare queste
+
+tre persone che si suppone io abbia derubato?»
+
+«Non ho obiezione a dichiarare», disse il pubblico ministero, «che
+
+chiameremo Harry Hamble, impiegato di allibratore, l'uomo che si dice abbia
+
+minacciato di battersi con l'imputato, e Isidor Green, maestro di musica,
+
+l'ultimo uomo derubato dall'imputato prima del suo arresto».
+
+«E il primo uomo?» chiese l'imputato. «Perché non viene
+
+chiamato?»
+
+«A dire il vero, mylord», disse l'avvocato, «la polizia non è stata
+
+in grado di scoprirne il nome e l'indirizzo».
+
+«Posso chiedere al testimone», disse Alan Nadoway, «come sia venuto a crearsi questo
+
+curioso stato di cose?»
+
+«[[Well|Ecco]]», disse l'agente, «il fatto è che appena gli ebbi voltato le
+
+spalle per un minuto, era sparito».
+
+«Volete dire», chiese Nadoway, «che diceste a un uomo ch'egli era la
+
+vittima di un furto e poteva ricuperare il proprio denaro, ed egli sull'istante se la
+
+svignò senza lasciare il nome, come se fosse egli stesso un ladro?»
+
+«[[Well|Ecco]], non lo capisco, e questo è quanto», disse il poliziotto.
+
+«Con l'indulgenza di vossignoria», disse l'imputato, «c'è un altro
+
+punto. Mentre due nomi figurano come testimoni, un solo nome, quello del signor
+
+Hamble, appare come querelante. Pare che ci fosse qualcosa di vago
+
+anche intorno al terzo testimone. Non vi è parso, agente?»
+
+Al di fuori del disumano organetto della sua testimonianza ufficiale, il poliziotto
+
+era un essere umano e capace di divertirsi.
+
+«[[Well|Ecco]], devo dire che era abbastanza vago», ammise con un lieve ghigno.
+
+«È uno di questi tipi artistici e musicali, e le sue nozioni sul contare
+
+il denaro sono qualcosa di cronico. Gli dissi di guardare se avesse perso qualcosa ed
+
+egli lo sommò sei volte. E a volte faceva 2 scellini e 8 pence e a volte
+
+3 scellini e 4 pence e a volte arrivava fino a 4 scellini. Così pensammo che non fosse
+
+del tutto in sé...»
+
+«Questo è quanto mai irregolare», disse il giudice. «Mi risulta che il testimone,
+
+Isidor Green, debba rendere la propria testimonianza più tardi. L'accusa aveva

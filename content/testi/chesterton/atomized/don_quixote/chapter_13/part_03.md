@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/don-quixote-(chesterton)">Don Quixote</a> › <a href="/testi/chesterton/atomized/don_quixote/chapter_13">Chapter 13</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/don_quixote/chapter_13/part_02">‹ part 02</a><a class="ex-next" href="/testi/chesterton/atomized/don_quixote/chapter_14/part_01">part 01 ›</a></div>
@@ -104,5 +106,107 @@ Both the noblemen [[Rose|rose]] to their feet and regarded this object for
 a moment in [[Silence|silence]]; before the more practical politician observed
 that the shaft had fastened to it a flapping [[Fragment|fragment]] of paper,
 on which something seemed to be written.
+
+-^-
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/don-quixote-(chesterton)">Don Quixote</a> › <a href="/testi/chesterton/atomized/don_quixote/chapter_13">Chapter 13</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/don_quixote/chapter_13/part_02">‹ part 02</a><a class="ex-next" href="/testi/chesterton/atomized/don_quixote/chapter_14/part_01">part 01 ›</a></div>
+</nav>
+
+«Il guaio è,» disse il Primo Ministro, «che la loro parte
+ha improvvisamente prodotto qualcuno che crede in qualcosa.
+In un certo senso non è leale. Sapevamo tutto dei deputati laburisti,
+naturalmente, ed erano dannati come tutti gli altri deputati.
+Non potevate insultarli; li conquistavate a poco a poco;
+dicevate loro che erano ammirevoli parlamentari e avversari
+degni della vostra spada, e poi, naturalmente, prima o poi trovavate qualche
+impiego per loro; ed eccoli sistemati.
+Ma questa faccenda della gente del Catrame di Carbone è diversa.
+I Sindacati, di per sé, non sarebbero stati molto diversi,
+naturalmente. La gente a una riunione di un [[Union|Sindacato]] non sa su che cosa
+stia votando...»
+
+«Certo che no,» disse Seawood annuendo con gravità e cortesia,
+«del tutto ignorante, immagino?»
+
+«...più di quanto lo sappiamo noi,» proseguì Lord Eden, «più di quanto
+lo sappia la [[house|Camera]] dei Comuni o la [[house|Camera]] dei Lord. Avete mai
+conosciuto una riunione di partito che sapesse su che cosa stava votando?
+Si chiamavano Socialisti o qualcosa del genere e noi ci chiamavamo
+Imperialisti o qualcosa del genere. Ma, in realtà,
+le cose si erano fatte sempre più tranquille da entrambe le parti.
+Ma ora che è saltato fuori questo Braintree, che dice tutte le loro
+sciocchezze in un modo nuovo, sembra che noi non abbiamo nessuna delle nostre
+sciocchezze da opporgli. Un tempo era l'Impero.
+Ma qualcosa è andato storto in tutto ciò; i maledetti Coloniali
+venivano qui e la gente li vedeva, ed ecco fatto.
+Non parlano come se volessero morire per noi, e nessuno
+sembra desiderare granché di vivere con loro. Ma qualunque cosa fosse,
+tutta quella specie di quadro e di poesia della cosa sembra essersi
+esaurita dalla nostra parte; proprio nel momento in cui qualcosa
+di pittoresco salta fuori dall'altra.»
+
+«È pittoresco questo signor Braintree?» chiese Lord Seawood,
+del tutto ignaro che il signor Braintree era stato suo ospite
+per un [[Time|tempo]] considerevole.
+
+«Questi tali sembrano pensarlo,» rispose il Primo Ministro.
+«Non è tanto la gente del Carbone in sé; sono molto
+più i Sindacati affiliati collegati con i sottoprodotti;
+tutta la gente che sembra aver aizzato proprio qui intorno.
+È per questo che sono venuto a chiedervene. Siamo entrambi interessati al
+Catrame di Carbone tanto [[Well|quanto]] al Carbone, e sarei ben lieto di avere la vostra opinione.
+Sembra esserci un diavolo di quantità di questi piccoli Sindacati immischiati
+nella faccenda. Dovete saperne più di chiunque altro...
+tranne lo stesso Braintree, naturalmente. E non serve a niente chiederlo a lui.
+Vorrei Dio che servisse.»
+
+«È del tutto vero che ho un interesse considerevole in
+questa zona,» disse Lord Seawood, inclinando il capo,
+«come sapete, la maggior parte di noi al giorno d'oggi deve darsi un poco al commercio.
+Avrebbe inorridito i nostri antenati, immagino, ma è
+meglio che perdere le tenute e così via. Sì, posso dirvi
+in confidenza che i miei interessi sono impegnati ancor più
+nei sottoprodotti che nel materiale originario, per così dire.
+Tanto più è sfortunato che questo signor Braintree abbia
+scelto proprio quello come campo di battaglia.»
+
+«Ha [[Well|proprio]] tutta l'aria di un campo di battaglia,» rispose il
+politico cupo. «Non credo che verrebbero davvero
+a uccidere la gente, ma sono [[Well|ben]] pronti a qualsiasi cosa
+che non arrivi a tanto. Ed è proprio questo il peggio. Se solo
+si [[Rebel|ribellassero]] davvero, potrebbero essere repressi abbastanza facilmente.
+Ma che diavolo si può fare con dei ribelli che non si [[Rebel|ribellano]]?
+Non credo che Machiavelli abbia mai dato un consiglio su questo problema.»
+
+Lord Seawood congiunse le lunghe dita sottili e si schiarì la gola.
+
+«Non pretendo di essere Machiavelli,» disse con marcata modestia, «ma
+[[Hope|spero]] di non sbagliarmi nel supporre che, in un certo senso, stiate chiedendo
+il mio consiglio. [[Well|Ebbene]], le condizioni sono tali, lo ammetto, da richiedere una
+conoscenza piuttosto particolare, e ho dedicato una certa attenzione a questo problema,
+e specialmente a problemi paralleli in Australia e in Alaska.
+Per cominciare, le condizioni della produzione di tutti i derivati
+del carbone comportano considerazioni che sono comunemente comprese...»
+
+«Dio mio!» gridò Lord Eden e si abbassò di scatto come se un colpo fosse stato
+mirato alla sua testa. La sua esclamazione era abbastanza naturale; benché, tale fosse
+l'incredibile assorbimento in [[Self|sé]] dell'altro uomo che egli ne scorse la causa
+almeno un secondo dopo.
+
+Ciò che Lord Seawood vide era una lunga freccia piumata che stava ancora
+vibrando nel legname del [[Summer|padiglione]] [[house|estivo]], immediatamente sopra
+la testa di Lord Eden. Ma ciò che Lord Eden aveva visto era lo stesso singolare
+proiettile arrivare fischiando nell'aria da qualche parte remota del [[Garden|giardino]]
+e passargli sopra con un rumore simile a quello di qualche insetto gigantesco.
+Entrambi i nobili si [[Rose|levarono]] in piedi e osservarono questo oggetto per
+un istante in [[Silence|silenzio]]; prima che il politico, più pratico, osservasse
+che all'asta era fissato un [[Fragment|frammento]] svolazzante di carta,
+su cui pareva fosse scritto qualcosa.
 
 -^-

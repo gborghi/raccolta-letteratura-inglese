@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/fourfaultlessfelons-(chesterton)">FourFaultlessFelons</a> › <a href="/testi/chesterton/atomized/fourfaultlessfelons/story_13_ii_the_burglar_and_the_brooch">Story 13 Ii The Burglar And The Brooch</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/fourfaultlessfelons/story_13_ii_the_burglar_and_the_brooch/part_04">‹ part 04</a><a class="ex-next" href="/testi/chesterton/atomized/fourfaultlessfelons/story_13_ii_the_burglar_and_the_brooch/part_06">part 06 ›</a></div>
@@ -187,3 +189,186 @@ you out of the police-[[Court|court]] if you break into the neighbours' houses a
 leave your cigar-case with a card inside?"
 
 "Careless-careless," said Alan in a vexed tone, rising with his hands in
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/fourfaultlessfelons-(chesterton)">FourFaultlessFelons</a> › <a href="/testi/chesterton/atomized/fourfaultlessfelons/story_13_ii_the_burglar_and_the_brooch">Story 13 Ii The Burglar And The Brooch</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/fourfaultlessfelons/story_13_ii_the_burglar_and_the_brooch/part_04">‹ part 04</a><a class="ex-next" href="/testi/chesterton/atomized/fourfaultlessfelons/story_13_ii_the_burglar_and_the_brooch/part_06">part 06 ›</a></div>
+</nav>
+
+comodo, ma non fu un [[suicide|suicidio]] bensì un'ondata a spazzarmi via
+
+all'improvviso una [[Night|notte]], abbastanza presto perché mi vedessero e levassero il grido di "Uomo
+
+in mare!". Quella brutta barchetta, col suo capitano ancor più
+
+brutto, bordeggiò per quattro ore cercando di ripescarmi, ma non ci
+
+fu verso, e alla fine fui raccolto da una specie di canoa
+
+indigena, remata da una specie di mezzo-indigeno lunatico che davvero e per davvero viveva
+
+su un'isola [[Desert|deserta]]. Lo chiamai a gran voce come poco prima avevo invano chiamato la
+
+[[Ship|nave]], e lui mi diede brandy e riparo e tutto il resto, come cosa
+
+del tutto ovvia. Era proprio un tipo, un uomo bianco, o biancastro, che si era
+
+imbarbarito e non portava nient'altro che un paio di occhiali e adorava un
+
+dio di sua fattura che si era ricavato da un vecchio ombrello. Ma non trovò
+
+strano che gli chiedessi aiuto, e a modo suo me lo diede. Poi
+
+venne il giorno in cui avvistammo una [[Ship|nave]], molto al largo, ma che passava accanto all'
+
+isola, e io chiamai e chiamai e sventolai lunghi lenzuoli e asciugamani e accesi
+
+fuochi di segnalazione e tutto il resto. E alla fine la [[Ship|nave]] mutò rotta e
+
+toccò l'isola per prenderci a bordo; erano tutti piuttosto asciutti e
+
+burocratici, ma lo fecero come un regolare dovere. E per tutto questo [[Time|tempo]],
+
+e specialmente in quell'ultimo tratto del viaggio verso casa, cantavo tra
+
+me e me una [[Song|canzone]] antica quanto il mondo: Coelum non animam... "Sui fiumi di
+
+Babilonia"... ossia, in altre parole, di tutte le cose la peggiore è l'[[Exile|esilio]], e sarà
+
+[[Well|bene]] per l'uomo stare nella propria [[Home|casa]]. Dopo tutte le mie selvagge fughe per un
+
+pelo, misi piede sul molo di Liverpool come uno scolaretto varca la
+
+[[house|casa]] di suo padre il primo giorno delle vacanze di Natale. Avevo
+
+dimenticato di non avere praticamente denaro, e chiesi a un uomo di darmene o
+
+prestarmene un po'. Fui immediatamente arrestato per accattonaggio e cominciai la mia carriera
+
+di criminale dormendo in prigione.
+
+«Ora suppongo che lei veda il senso della [[Parable|parabola]] economica. Ero stato ai
+
+confini della terra, e tra la feccia della terra; ero stato tra
+
+ogni sorta di straccioni che avevano ben poco da dare ed erano spesso del tutto
+
+restii a darlo. Avevo fatto cenni alle navi di passaggio e lanciato richiami ai
+
+viaggiatori di passaggio e senza dubbio ero stato di cuore maledetto per questo. Ma
+
+nessuno pensò mai che fosse strano che chiedessi aiuto. Nessuno
+
+pensò di certo che fosse criminale che io strillassi a una [[Ship|nave]] mentre stavo
+
+annegando, o che strisciassi verso un [[Fire|fuoco]] da campo mentre stavo morendo. In tutti quei
+
+mari selvaggi e in quei luoghi desolati la gente dava per scontato di dover soccorrere chi
+
+annegava e chi moriva. Non fui mai davvero punito per essere nel bisogno
+
+finché non giunsi a una [[City|città]] civile. Non fui mai chiamato criminale per aver chiesto
+
+comprensione, finché non feci ritorno alla mia stessa [[Home|casa]].
+
+«[[Well|Ebbene]], se ha compreso quella [[Parable|parabola]] del Nuovo Figliol Prodigo,
+
+forse capirà perché egli pensa di aver trovato i Porci quando tornò
+
+a [[Home|casa]]; molti più Porci che Vitelli Grassi. Il resto della storia
+
+consistette in gran parte di aggressioni alla polizia, effrazioni e scassi di
+
+vari locali e tutto il resto. La mia famiglia si è finalmente resa
+
+conto che io potrei essere recuperato o la mia posizione regolarizzata; principalmente,
+
+immagino... nel caso di alcuni di loro almeno... perché il fatto che persone come lei
+
+e sua zia siano state messe a parte del segreto rischia di essere socialmente
+
+imbarazzante. Comunque sia, dobbiamo incontrarci qui questo pomeriggio e formare un comitato
+
+per trasformarmi in un personaggio rispettabile. Ma non credo che si rendano
+
+del tutto conto dell'impresa che si sono presi. Non credo che sappiano bene che cosa
+
+accade dentro persone come me; ed è proprio perché desidero piuttosto che lei
+
+lo capisca, prima che comincino a cianciare, che le ho raccontato quella che
+
+chiamo la [[Parable|parabola]] dell'[[Exile|esilio]]. Ricordi sempre che finché fu
+
+tra estranei, per non dire tra farabutti, ebbe una possibilità.»
+
+Erano rimasti seduti su una panchina del [[Garden|giardino]] durante la conversazione e
+
+Millicent si [[Rose|alzò]], vedendo il gruppo vestito di nero del padre e dei
+
+fratelli avvicinarsi attraverso il prato.
+
+Alan Nadoway rimase seduto con languore alquanto ostentato, e il suo
+
+significato si fece più tagliente quando lei si accorse che il vecchio Jacob Nadoway
+
+camminava [[Well|molto]] avanti agli altri e che le sue sopracciglia erano nere come un
+
+temporale sotto il sole. Fu subito palese che era accaduto qualcosa di
+
+nuovo e brutto.
+
+«Forse sarebbe affettazione informarvi,» disse il padre con
+
+pesante amarezza, «che c'è stato un altro furto con scasso nei
+
+dintorni.»
+
+«Un altro?» disse Alan, inarcando le sopracciglia. «Questa, a pensarci
+
+bene, è una parola piuttosto curiosa. E qual è l'altro?»
+
+«La signora [[Mowbray]],» disse il padre severamente, «ieri è andata a far visita alla
+
+sua amica, Lady Crayle. Era naturalmente turbata per quel che era
+
+accaduto nella nostra stessa [[house|casa]], e pare che qualcosa sia accaduto circa un'
+
+ora prima dai Crayle.»
+
+«Che cosa hanno sgraffignato ai Crayle?» chiese il giovane, con paziente
+
+interesse. «Come hanno fatto a sapere che c'era stato un furto?»
+
+«Il ladro fu sorpreso e se la svignò,» disse Jacob Nadoway.
+
+«Purtroppo, lasciò cadere qualcosa e la lasciò dietro di sé nella fretta
+
+della fuga.»
+
+«Purtroppo!» ripeté Alan con l'aria di essere blandamente e
+
+convenzionalmente scandalizzato. «Purtroppo per chi?»
+
+«Purtroppo per te,» disse il padre. Ci fu un penoso [[Silence|silenzio]] e
+
+John Nadoway lo ruppe alla sua maniera goffa ma invincibilmente
+
+bonaria.
+
+«Senti un po', Alan,» disse. «Se qualcuno deve aiutarti, questo genere di
+
+giochetti deve cessare. Potevamo farlo passare per una sorta di scherzo
+
+quando lo facesti a noi, ma anche allora spaventasti la signorina [[Milton]],
+
+e la signora [[Mowbray]] è tutta sconvolta. Ma come diavolo facciamo a tenerti
+
+fuori dal [[Court|tribunale]] penale se irrompi nelle case dei vicini e
+
+lasci il tuo portasigari con dentro un biglietto?»
+
+«Sbadato... sbadato,» disse Alan in tono seccato, alzandosi con le mani nelle

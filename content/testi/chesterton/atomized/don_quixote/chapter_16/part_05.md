@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/don-quixote-(chesterton)">Don Quixote</a> › <a href="/testi/chesterton/atomized/don_quixote/chapter_16">Chapter 16</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/don_quixote/chapter_16/part_04">‹ part 04</a><a class="ex-next" href="/testi/chesterton/atomized/don_quixote/chapter_17/part_01">part 01 ›</a></div>
@@ -93,5 +95,96 @@ And no man could have guessed that the sad farewell was soon to be
 followed with fuller [[Reconciliation|reconciliation]] and understanding; but that over
 the two coloured and shining figures, on the shoulder of the golden down,
 hung a dark cloud of sundering and division and doom.
+
+-^-
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/don-quixote-(chesterton)">Don Quixote</a> › <a href="/testi/chesterton/atomized/don_quixote/chapter_16">Chapter 16</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/don_quixote/chapter_16/part_04">‹ part 04</a><a class="ex-next" href="/testi/chesterton/atomized/don_quixote/chapter_17/part_01">part 01 ›</a></div>
+</nav>
+
+«Verranno!» ripeté lei con una certa eccitazione.
+«Vuoi dire che Braintree ha ceduto?»
+
+«Verranno, sì,» ripeté annuendo. «Braintree non ha
+ceduto; anzi non mi aspettavo che lo facesse.
+A dire il [[Truth|vero]], lo rispetto piuttosto per non averlo fatto.
+È un uomo assai coraggioso e coerente; ed è sempre
+tanto più piacevole avere un avversario di quel genere.»
+
+«Ma non capisco,» gridò lei. «Che cosa intendi dicendo
+che non cederanno ma verranno?»
+
+«La nuova costituzione,» spiegò egli, «prevede questa situazione,
+come suppongo facciano la maggior parte delle costituzioni. È piuttosto come ciò che eravamo soliti
+chiamare un _subpoena._ Non so quanti uomini vorrò con me;
+ma suppongo che alcune delle Centurie dovranno uscire.»
+
+«Cosa!» gridò lei. «Non vorrai dire che stai per _andare a prenderli_
+e portarli alla [[Court|Corte]]!»
+
+«Oh sì, la legge è del tutto chiara su questo punto,» rispose egli.
+«E poiché la legge fa di me l'ufficiale esecutivo, non ho davvero
+alcuna volontà in materia.»
+
+«Sembri avere più volontà di chiunque altro io abbia incontrato finora,»
+disse lei. «Dovresti sentire Monkey!»
+
+«Naturalmente,» disse egli nel suo modo pedante, «ciò che affermo
+è un proposito e non una predizione. Non posso rispondere
+di ciò che chiunque altro farà o riuscirà a fare.
+Ma verranno qui o io non verrò.»
+
+La sua meticolosa fraseologia all'improvviso fremette attraverso i suoi pensieri
+mentre ella comprendeva ciò che egli intendeva.
+
+«Vuoi dire che ci sarà uno scontro,» disse lei.
+
+«Ci sarà di certo dalla nostra parte se ci sarà dalla loro,» rispose egli.
+
+«Sei il solo uomo in questa [[house|casa]],» gridò Rosamund e si trovò
+all'improvviso a tremare dalla testa ai piedi.
+
+Parve come se il suo rigido atteggiamento vacillasse così che egli perse
+il controllo di sé del tutto inaspettatamente. Emise una sorta di grido.
+
+«Non devi dirmi questo; sono debole; e più debole che mai proprio ora,
+quando dovrei cercare di essere forte.»
+
+«Non sei affatto debole,» disse lei, ritrovando la propria ferma voce.
+
+«Sono pazzo,» disse egli. «Ti [[Love|amo]].»
+
+Ella era muta. Egli le afferrò entrambe le mani e le sue braccia fremettero
+fino alle spalle come per una scossa elettrica.
+
+«Che cosa sto facendo e dicendo?» gridò aspramente. «Io... a te, a cui
+tanti uomini devono averlo detto. Che cosa dirai?»
+
+Ella rimase china in avanti a guardare fisso il suo volto.
+
+«Dico ciò che ho detto,» rispose. «Sei il solo uomo.»
+
+«I tuoi occhi mi accecano,» disse egli.
+
+Non parlarono più; ma la grande terra intorno e sopra di loro parlò per loro
+mentre si [[Rose|levava]] nelle possenti terrazze verso le colossali pietre angolari
+delle [[Mountains|montagne]]; e il grande [[Wind|vento]] dell'Inghilterra Occidentale che dondolava
+le cime dei suoi regali alberi; e tutta quella vasta valle di Avalon
+che ha visto l'adunata di eroi e l'incontro di immortali [[lovers|amanti]],
+era piena di un movimento come di cavalli scalpitanti e di trombe,
+quando i re vanno alla guerra e le regine regnano in loro vece.
+
+Così essi rimasero per un istante sulla cima del mondo e nel più alto
+luogo della nostra umana fortuna, quasi nel momento in cui Olive e
+John Braintree nella buia e fumosa città si dicevano il loro triste addio.
+E nessuno avrebbe potuto indovinare che il triste addio sarebbe presto stato
+seguito da una più piena [[Reconciliation|riconciliazione]] e comprensione; ma che sopra
+le due figure variopinte e splendenti, sulla spalla del dorato poggio,
+incombeva una nube oscura di separazione e divisione e destino.
 
 -^-

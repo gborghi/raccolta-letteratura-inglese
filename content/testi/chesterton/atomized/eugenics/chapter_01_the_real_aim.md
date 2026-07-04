@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/eugenics-(chesterton)">Eugenics</a></div>
 <div class="excerpt-pn"><span></span><a class="ex-next" href="/testi/chesterton/atomized/eugenics/chapter_02">Chapter 02 ›</a></div>
@@ -75,6 +77,43 @@ bullying bureaucracy and the same terrorism by tenth-rate professors
 that have led the German Empire to its recent conspicuous triumph.
 For that reason, three years after the war with Prussia, I collect
 and publish these papers.
+
+G. K. C.
+
+---/---
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/eugenics-(chesterton)">Eugenics</a></div>
+<div class="excerpt-pn"><span></span><a class="ex-next" href="/testi/chesterton/atomized/eugenics/chapter_02">Chapter 02 ›</a></div>
+</nav>
+
+PARTE SECONDA: IL VERO SCOPO
+
+    I L'impotenza dell'impenitenza
+   II Vera [[history|Storia]] di un Vagabondo
+  III Vera [[history|Storia]] di un Eugenista
+   IV La vendetta della carne
+    V La meschinità del movente
+   VI L'eclissi della libertà
+  VII La trasformazione del socialismo
+ VIII La fine degli dèi domestici
+   IX Un breve capitolo
+
++ + +
+
+AL LETTORE
+
+Pubblico questi saggi nel [[Time|momento]] presente per una particolare ragione connessa con la situazione presente; una ragione che vorrei brevemente sottolineare e chiarire.
+
+Benché la maggior parte delle conclusioni, specialmente verso la fine, siano concepite con riferimento a eventi recenti, la vera e propria mole degli appunti preliminari sulla scienza dell'[[Eugenics|Eugenetica]] fu scritta prima della guerra. Era un [[Time|tempo]] in cui questo tema era l'argomento del momento; in cui i neonati eugenici — non visibilmente molto distinguibili dagli altri neonati — si sdraiavano dappertutto sui giornali illustrati; in cui la fantasia evoluzionistica di Nietzsche era il nuovo grido fra gli intellettuali; e in cui il signor Bernard [[Shaw]] e altri prendevano in considerazione l'idea che allevare un uomo come un [[Horse|cavallo]] da tiro fosse la vera via per conseguire quella civiltà superiore, di magnanimità intellettuale e di intuito compassionevole, che si può trovare nei cavalli da tiro. Può quindi apparire che io abbia preso la questione in modo troppo polemico, e mi sembra di averla talvolta presa troppo sul serio. Ma la critica dell'[[Eugenics|Eugenetica]] presto si dilatò da sé in una critica più generale di una moderna mania di ufficialismo scientifico e di rigida organizzazione sociale.
+
+E poi giunse l'ora in cui sentii, non senza sollievo, che avrei [[Well|ben]] potuto gettare tutti i miei appunti nel [[Fire|fuoco]]. Il [[Fire|fuoco]] era assai grande, e stava bruciando cose più grandi di simili pedantesche ciarlatanerie. E, in ogni caso, la questione stessa si stava risolvendo in uno stile assai diverso. L'ufficialismo scientifico e l'organizzazione nello Stato che vi si era specializzato erano entrati in guerra con la più antica cultura della Cristianità. O il prussianesimo avrebbe vinto e la protesta sarebbe stata vana, oppure il prussianesimo avrebbe perso e la protesta sarebbe stata superflua. Man mano che la guerra avanzava dal gas [[Poison|velenoso]] alla pirateria contro i neutrali, si faceva sempre più evidente che lo Stato scientificamente organizzato non cresceva in popolarità. Qualunque cosa accadesse, nessun inglese sarebbe mai più andato a ficcare il naso fra i lezzi di quel basso laboratorio. Così ritenni irrilevante tutto ciò che avevo scritto, e me lo tolsi dalla mente.
+
+Con grande dolore devo dire che non è irrilevante. È divenuto via via evidente, al mio sguardo sbalordito, che le classi dirigenti in Inghilterra procedono ancora sul presupposto che la Prussia sia un modello per il mondo intero. Se parti del mio libro hanno quasi nove anni, la maggior parte dei loro principi e procedimenti è assai più antica. Non possono offrirci altro che la stessa soffocante scienza, la stessa prepotente burocrazia e lo stesso terrorismo di professori di decim'ordine che hanno condotto l'Impero germanico al suo recente e cospicuo trionfo. Per questa ragione, tre anni dopo la guerra con la Prussia, raccolgo e pubblico questi scritti.
 
 G. K. C.
 

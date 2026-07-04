@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/fancies-versis-fads-(chesterton)">Fancies Versis Fads</a> › <a href="/testi/chesterton/atomized/fancies_versis_fads/chapter_01_manufacturers">Chapter 01 MANUFACTURERS</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/fancies_versis_fads/chapter_01_manufacturers/part_27">‹ part 27</a><a class="ex-next" href="/testi/chesterton/atomized/fancies_versis_fads/chapter_01_manufacturers/part_29">part 29 ›</a></div>
@@ -118,3 +120,119 @@ religion is different from his, and I am uncommonly glad of it.
 But if he simply says that men cannot be equal because some of them
 are clever and some of them are stupid--why then I shall merely agree
 (not without [[Tears|tears]]) that some of them are very stupid.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/fancies-versis-fads-(chesterton)">Fancies Versis Fads</a> › <a href="/testi/chesterton/atomized/fancies_versis_fads/chapter_01_manufacturers">Chapter 01 MANUFACTURERS</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/fancies_versis_fads/chapter_01_manufacturers/part_27">‹ part 27</a><a class="ex-next" href="/testi/chesterton/atomized/fancies_versis_fads/chapter_01_manufacturers/part_29">part 29 ›</a></div>
+</nav>
+
+Ora, c'è un difetto in ogni analogia; ma il difetto nella mia analogia non
+è un difetto nel mio ragionamento; è il difetto principale del
+ragionamento del signor Moore. Si potrebbe dire che perfino in un
+naufragio gli uomini non sono uguali, poiché alcuni di noi potrebbero
+essere tanto forti da riuscire a nuotare fino a riva, o alcuni di noi
+potrebbero essere tanto coriacei che il [[King|re]] dell'isola si
+pentirebbe del suo avventato voto dopo il primo morso. Ma è precisamente
+qui che devo di nuovo, con la maggior delicatezza possibile, attirare
+l'attenzione del lettore su quella modesta e poco nota istituzione che si
+chiama [[Death|morte]]. Siamo tutti in una barca che certamente ci
+annegherà tutti, e ci annegherà ugualmente, il più forte insieme al più
+debole; navighiamo verso la terra di un orco, _edax rerum,_ che divora
+tutto senza distinzione. E il senso della frase sull'essere tutti nella
+stessa barca è, non che non vi siano gradi fra le persone in una barca, ma
+che tutti quei gradi sono nulla a paragone dello stupendo fatto che la
+barca torni a [[Home|casa]] o vada a fondo. Ed è quando giungo alla
+particolare critica alle mie osservazioni sul "fatto di dover morire" che
+mi sento più sicuro d'aver avuto ragione io e che il signor Moore ha torto.
+
+Si noterà che ho parlato del fatto di dover morire, non del fatto di
+morire. La fratellanza degli uomini, essendo cosa spirituale, non riguarda
+semplicemente la [[Truth|verità]] che tutti gli uomini moriranno, ma la
+[[Truth|verità]] che tutti gli uomini lo sanno. È vero, come dice il
+signor Moore, che tutto morirà, «sia esso leviatano o farfalla, quercia o
+violetta, verme o aquila»; ma esattamente ciò che, fin dal principio, non
+sappiamo è se essi lo sappiano. Può il signor Moore tirar su il leviatano
+con un amo, ed estrarne le speranze e i timori riguardo al celeste
+ramponiere? Può cavar di soppiatto la [[philosophy|filosofia]] da un
+verme, o indurre il bruco a parlare della debole possibilità di una
+farfalla? Il bruco sulla foglia potrà ripetere a Blake il dolore di sua
+madre; ma non ripete a nessuno il proprio dolore per la propria madre. Può
+egli sapere se le querce affrontino il loro destino con cuore di quercia,
+come vuole la frase in una [[Song|canzone]] di marinai? Non può; ed è
+questo tutto il punto della fratellanza umana, il punto che i vegetariani
+non riescono a vedere. È per questo che un ramponiere non è un assassino;
+è per questo che mangiare il grasso di balena, benché non attraente per la
+fantasia, non è ripugnante per la [[Conscience|coscienza]]. Non sappiamo
+che cosa una balena pensi della [[Death|morte]]; ancor meno che cosa le
+altre balene pensino del suo essere uccisa e mangiata. Potrebbe essere una
+balena pessimista, e desiderare perpetuamente che questo troppo, troppo
+solido grasso si sciogliesse, si liquefacesse e si risolvesse in rugiada.
+Potrebbe essere una balena fanatica, e sentirsi freneticamente certa di
+passare all'istante in un polare paradiso di balene, governato dalla sacra
+balena che inghiottì Giona. Ma non possiamo strapparle alcun segno o gesto
+che suggerisca simili riflessioni; e il buon senso pratico della cosa è
+che nessuna creatura al di fuori dell'uomo sembra avere alcun senso della
+[[Death|morte]]. Il signor Moore ha dunque scelto un punto stranamente
+sfortunato su cui sfidare la vera dottrina egualitaria. Quasi il più
+notevole e persino sbalorditivo suggello della solidarietà e identità del
+genere umano è precisamente questo fatto, non solo della [[Death|morte]],
+ma dell'[[Shadow|ombra]] della [[Death|morte]]. Di qualunque uomo sappiamo
+ciò che non sappiamo di qualunque altra cosa: che la sua [[Death|morte]] è
+ciò che chiamiamo una [[Tragedy|tragedia]]. Dal fatto che essa è una
+[[Tragedy|tragedia]] discendono tutte le forme e le prove per cui diciamo
+che è un assassinio o un'esecuzione, un [[Martyrdom|martirio]] o un
+[[suicide|suicidio]]. Tutte dipendono da un'eco o vibrazione, non solo
+nell'[[Soul|anima]] dell'uomo; ma nelle anime di tutti gli uomini.
+
+Stranamente, il signor Moore ha commesso esattamente lo stesso errore
+riguardo al comico che riguardo al tragico. È vero, credo, che quasi tutto
+ciò che ha una forma è umoristico; ma non è vero che tutto ciò che ha una
+forma abbia il senso dell'[[Humour|umorismo]]. La balena potrà essere
+ridicola, ma non è la balena che ride; l'immagine, anzi, è quasi
+allarmante. E nell'istante in cui la questione è sollevata, ci scontriamo
+con un altro fatto colossale, che rimpicciolisce tutte le differenziazioni
+umane: il fatto che l'uomo è l'unica creatura che rida. Al cospetto di
+questo fatto prodigioso, il fatto che gli uomini ridano in diversa misura,
+e di cose diverse, si raggrinzisce non solo nell'insignificanza ma
+nell'invisibilità. È vero che ho spesso sentito l'universo fisico come
+qualcosa di simile a uno spettacolo pirotecnico: il più concreto di tutti
+gli scherzi. Ma se il cosmo è concepito per uno scherzo, gli uomini
+sembrano essere gli unici cospiratori cosmici a essere stati messi a parte
+dello scherzo. Non potrebbe esservi fratellanza pari alla nostra massoneria
+in quel piacere segreto. È vero che non vi sono limiti a questa facoltà di
+scherzare, che essa non è confinata ai comuni scherzi umani; ma è confinata
+agli scherzitori umani. Il signor Moore potrà scoppiare a ridere quando
+contempla la stella del mattino, o essere gettato in convulsioni di ilarità
+dall'effetto del sorgere della luna visto attraverso una foschia. Potrà,
+per citare il suo stesso catalogo, cogliere tutto lo spasso di un'aquila o
+di una quercia. Potremmo imbatterci in lui, in qualche quieta valletta, che
+si [[rolling|rotola]] in fragorosa allegria alla vista di una violetta. Ma
+non troveremo la violetta in stato di fragorosa allegria per il signor
+Moore. Egli potrà ridere del verme; ma il verme non si volterà a ridere di
+lui. Per quel conforto egli dovrà rivolgersi ai suoi compagni di peccato:
+io sarò sempre pronto a compiacerlo.
+
+La [[Truth|verità]] qui in gioco ha avuto molti nomi: che l'uomo è
+l'immagine di Dio; che è il microcosmo; che è la misura di tutte le cose. È
+il microcosmo nel senso che è lo [[Mirror|specchio]], l'unico cristallo che
+conosciamo in cui la fantasia e il [[Fear|timore]] nelle cose sono, nel
+[[Double|duplice]] e reale senso, cose di riflesso. Al cospetto di questo
+misterioso monopolio le differenze fra gli uomini sono come [[Dust|polvere]].
+È questo che l'uguaglianza degli uomini significa per me; ed è l'unica cosa
+intelligibile che essa abbia mai significato per chiunque. Le cose comuni
+agli uomini surclassano infinitamente tutte le classi. Perché un uomo
+dissenta da questo è necessario che lo comprenda; il signor Moore potrà
+davvero dissentirne; ma l'ordinario antiegualitario moderno non lo
+comprende, né a quanto pare comprende alcunché d'altro. Se un uomo dice
+d'avere un proprio dogma trascendentale, come forse il signor Moore può
+averlo, che mescola l'uomo con la [[Nature|natura]] o pretende di scorgere
+altri valori negli uomini, non dirò altro se non che la mia religione è
+diversa dalla sua, e ne sono straordinariamente lieto. Ma se egli dice
+semplicemente che gli uomini non possono essere uguali perché alcuni di
+essi sono intelligenti e alcuni sono stupidi — ebbene, allora mi limiterò a
+convenire (non senza [[Tears|lacrime]]) che alcuni di essi sono davvero
+molto stupidi.

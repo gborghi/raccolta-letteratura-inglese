@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/fourfaultlessfelons-(chesterton)">FourFaultlessFelons</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/fourfaultlessfelons/story_06_vi_the_thing_that_really_happened">‹ Story 06 Vi The Thing That Really Happened</a><a class="ex-next" href="/testi/chesterton/atomized/fourfaultlessfelons/story_08_ii_the_man_with_the_black_bag">Story 08 Ii The Man With The Black Bag ›</a></div>
@@ -378,3 +380,377 @@ more and more to treating this place as sacred to his own [[Solitude|solitude]],
 through long days and nights nothing ever stirred in that strange
 
 enclosure but its lonely master walking round and round his tree.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/fourfaultlessfelons-(chesterton)">FourFaultlessFelons</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/fourfaultlessfelons/story_06_vi_the_thing_that_really_happened">‹ Story 06 Vi The Thing That Really Happened</a><a class="ex-next" href="/testi/chesterton/atomized/fourfaultlessfelons/story_08_ii_the_man_with_the_black_bag">Story 08 Ii The Man With The Black Bag ›</a></div>
+</nav>
+<nav class="excerpt-children">
+<div class="excerpt-children-label">In questa sezione</div>
+<ul><li><a href="/testi/chesterton/atomized/fourfaultlessfelons/story_07_the_honest_quack/part_01">Part 1</a></li><li><a href="/testi/chesterton/atomized/fourfaultlessfelons/story_07_the_honest_quack/part_02">Part 2</a></li></ul>
+</nav>
+
+IL CIARLATANO ONESTO
+I IL PROLOGO DELL'ALBERO
+
+IL SIGNOR WALTER WINDRUSH, l'eminente ed eccentrico pittore e poeta, viveva a
+
+[[London|Londra]] e aveva un curioso albero nel [[Garden|giardino]] sul retro. Questo da [[Alone|solo]] non
+
+avrebbe provocato gli eventi assurdi qui narrati. Molte persone,
+
+senza la scusante di essere poeti, hanno piantato singolari vegetali nei
+
+loro giardini sul retro. I due fatti curiosi riguardo a questa curiosità erano,
+
+primo, che egli la riteneva abbastanza notevole da attirare folle dagli
+
+estremi confini della terra a guardarla, e, secondo, che se e quando le folle
+
+venivano davvero a guardarla, egli non le lasciava guardare.
+
+Tanto per cominciare, non l'aveva affatto piantato lui. Cosa strana, aveva un aspetto tale
+
+da far pensare che avesse cercato di piantarlo e avesse fallito; o forse che avesse tentato di sradicarlo
+
+di nuovo, e fosse fallito di nuovo. Freddi critici classici dicevano di poter
+
+comprendere lo sradicamento meglio della piantagione. Poiché era un
+
+oggetto [[Grotesque|grottesco]]; una cosa indefinibile, dall'aspetto stentato o capitozzato alla
+
+maniera che ricorda i faggi di Burnham, ma non facilmente classificabile come
+
+vegetazione. Era così tozzo nel tronco che i rami sembravano [[spring|scaturire]]
+
+dalle radici e le radici dai rami. Anche le radici si [[Rose|levavano]]
+
+libere dal suolo, così che la luce vi trapelava come tra i
+
+rami, la terra essendo stata dilavata da una [[spring|sorgente]] naturale proprio sul retro.
+
+Ma la circonferenza dell'insieme era assai ampia, e la cosa somigliava piuttosto
+
+a un polipo o a una seppia che si irradiava in tutte le direzioni. A volte
+
+pareva che qualche mano enorme discesa dal cielo, come il gigante di Giacomino e il
+
+fagiolo magico, avesse cercato di divellere l'albero dalla terra afferrandolo per i capelli della sua
+
+testa.
+
+Nessuno, in verità, aveva mai piantato questo particolare albero da [[Garden|giardino]]. Era cresciuto
+
+come l'erba, e persino come l'erba selvatica delle praterie più selvagge. Era,
+
+con ogni probabilità, di gran lunga la cosa più antica di quei paraggi: non c'era
+
+nulla che provasse che non fosse più antico di Stonehenge. Non era mai stato
+
+piantato nel [[Garden|giardino]] di nessuno. Ogni altra cosa era stata piantata attorno a esso.
+
+Il [[Garden|giardino]] e il muro del [[Garden|giardino]] e la [[house|casa]] erano stati piantati attorno a esso.
+
+La strada era stata piantata attorno a esso; il sobborgo era stato piantato attorno a
+
+esso. [[London|Londra]], per così dire, era stata piantata attorno a esso. Poiché,
+
+sebbene il sobborgo in questione fosse ormai sprofondato così addentro nella metropoli che
+
+nessuno pensava mai a esso se non come a qualcosa di metropolitano, apparteneva a un
+
+distretto dove l'espansione urbana era stata relativamente recente e rapida,
+
+e non era davvero passato poi così tanto tempo da quando lo strano albero si ergeva
+
+[[Alone|solitario]] su una brughiera ventosa e senza sentieri.
+
+Le circostanze della sua ultima conservazione o prigionia furono le
+
+seguenti. Quasi mezza vita prima, accadde che Windrush, il quale
+
+era allora uno studente d'arte, stesse attraversando la landa aperta con due
+
+compagni, uno studente della sua stessa età, ma iscritto alla sezione medica e
+
+non a quella artistica del suo stesso collegio, l'altro un amico un poco più anziano,
+
+un uomo d'affari che i giovani desideravano consultare su una questione
+
+d'affari. Si proponevano di discutere i loro affari (i quali non erano
+
+del tutto estranei alla generale incapacità dei giovani studenti di essere
+
+pratici) alla locanda dei Tre Pavoni ai margini della landa;
+
+e l'uomo più anziano in particolare mostrava una certa impazienza di raggiungerne il riparo,
+
+poiché il [[Wind|vento]] si andava alzando e il crepuscolo calava su quel paesaggio piuttosto
+
+desolato.
+
+Fu a questo punto che il loro cammino venne ritardato dalla condotta oltremodo
+
+esasperante di Walter Windrush. Si muoveva con la stessa rapidità degli
+
+altri, quando lo strano profilo dell'albero parve inchiodarlo sul
+
+posto. Levò addirittura le mani, non solo in una pantomima di stupore
+
+inconsueta negli uomini della sua razza, ma con gesti che avrebbero potuto essere
+
+presi per una sorta di culto pagano. Parlò con voce sommessa, e
+
+indicò, come per richiamare la loro attenzione su un funerale o su qualche occasione di
+
+soggezione. Il suo amico scienziato ammise che il modo in cui l'albero
+
+si divaricava fuori dalla terra era qualcosa di una curiosità botanica, ma non
+
+aveva bisogno di essere molto scienziato per scoprirne la causa nel ruscello o nella
+
+fonte, che sgorgava dal terreno più alto dietro di esso e si era aperta la
+
+via attraverso le fessure delle radici. Ebbe la curiosità di saltare su
+
+una delle radici alte e di issarsi su uno dei rami bassi,
+
+e poi, osservando che l'albero sembrava mezzo cavo, si volse come
+
+per riprendere la marcia. Il signore commerciante aspettava già
+
+con una certa impazienza di farlo. Ma Walter Windrush non poteva essere destato
+
+dalla sua estasi di ammirazione. Continuò a girare e rigirare attorno all'
+
+albero, a fissare giù nelle sparse pozze d'[[Water|acqua]] e poi su verso la
+
+larga coppa o nido formato dalla [[Crown|corona]] dei rami.
+
+«Dapprima» disse infine «non sapevo che cosa mi fosse accaduto. Ora
+
+capisco.»
+
+«Non posso dire di capire io» disse l'amico secco secco, «a meno che non si tratti di dare i numeri. Quanto
+
+a lungo intendi bighellonare qui?»
+
+Windrush non rispose subito; poi disse: «Non sai che
+
+tutti i poeti e i pittori e le persone come me sono per natura Comunisti? E
+
+non sai che, per la stessa ragione, siamo tutti per natura vagabondi?»
+
+«Confesso» disse il loro consulente d'affari piuttosto arcigno, «che alcune
+
+delle tue recenti pagliacciate finanziarie potrebbero piacere ai Comunisti. Ma quanto ai
+
+vagabondi, immagino che i vagabondi almeno abbiano la virtù di darsi una
+
+mossa.»
+
+«Non mi capisci» disse Windrush con una strana sorta di sognante
+
+pazienza; «voglio dire che ora non sono più un Comunista. Non sono più un vagabondo,
+
+non più.»
+
+Vi fu un [[Silence|silenzio]] attonito e poi egli disse nello stesso tono: «Mai
+
+prima in tutta la mia vita ho visto qualcosa che desiderassi possedere.»
+
+«Vuoi davvero dire» protestò l'altro «che ti piacerebbe
+
+possedere questo solo vecchio albero marcio?»
+
+Windrush proseguì come se l'altro non avesse parlato. «Mai prima ho
+
+visto, in tutte le mie peregrinazioni, un luogo dove desiderassi fermarmi e fare la mia
+
+[[Home|dimora]]. Non può esistere in nessun luogo al mondo qualcosa di simile a quella fantasia
+
+di terra e cielo e [[Water|acqua]]; costruita su ponti come [[Venice|Venezia]], e che lascia
+
+sbirciare la luce del giorno attraverso le sue caverne come l'inferno nel poema di [[Milton]];
+
+fenduta come dall'Alfeo, il [[River|fiume]] sotterraneo, e che si erge nuda e libera dalla
+
+terra aggrappata come i morti alla tromba del giudizio. Non ho mai visto
+
+nulla di simile. Non desidero davvero vedere nient'altro.»
+
+C'era forse qualche scusante per quel suo capriccio d'[[Imagination|immaginazione]], nelle
+
+condizioni momentanee che aggiungevano mistero al capriccio della [[Nature|natura]]. Il
+
+cielo tempestoso sopra la brughiera era mutato dal grigio al porpora, e da quello
+
+a una sorta di cupo rosso indiano che si ravvivava soltanto all'orizzonte in
+
+un'unica striscia scarlatta di tramonto. Contro questo sfondo il nero e
+
+bizzarro profilo dell'albero aveva davvero l'aspetto di qualcosa di più
+
+mistico che un oggetto naturale; come se un albero cercasse di camminare o un
+
+[[Monster|mostro]] delle acque si levasse in uno sforzo selvaggio di volare. Ma anche se
+
+i compagni di Windrush fossero stati più partecipi di tali umori di quanto
+
+fossero, difficilmente sarebbero stati preparati alla risolutezza con cui egli
+
+si gettò giù su un ciuffo d'erba accanto al ruscello e tirò fuori una
+
+pipa e una borsa da tabacco, quasi come se si fosse appena seduto in una poltrona
+
+al club.
+
+«Posso chiederti che cosa stai facendo?» chiese l'amico.
+
+«Sto acquisendo diritti di occupante» disse l'altro.
+
+Entrambi lo assediarono di rimostranze, e apparve sempre più
+
+evidente agli altri che egli faceva perfettamente sul serio, anche se non era
+
+perfettamente sano di mente. L'uomo d'affari gli indicò in maniera brusca che,
+
+se davvero e sinceramente s'interessava a quell'assurdo brandello di terra incolta,
+
+avrebbe fatto meglio a consultare gli agenti della tenuta di cui esso faceva
+
+parte, poiché non avrebbe ottenuto alcun «diritto di occupante» in mezzo secolo.
+
+Con estremo stupore del consulente, il poeta lo ringraziò assai
+
+gravemente per il consiglio e tirò fuori un pezzo di carta per annotare il
+
+nome e l'indirizzo dell'agente.
+
+«Nel frattempo» disse il signore commerciante con gran decisione, «poiché questo
+
+non mi pare affatto un luogo gradevole in cui accovacciarsi, dovrai
+
+venire ad accovacciarti ai Tre Pavoni se vuoi trattare ancora qualche
+
+affare con me.»
+
+«Non fare lo [[Fool|sciocco]], Windrush» disse l'altro compagno bruscamente, «non puoi
+
+davvero voler essere lasciato qui tutta la [[Night|notte]].»
+
+«Guarda caso è esattamente quel che voglio» replicò Windrush. «Ho
+
+visto il sole affondare nella mia pozza privata, e voglio veder sorgere la [[Moon|luna]]
+
+da essa. Non si può biasimare un aspirante acquirente per aver messo alla prova la
+
+proprietà in ogni condizione.»
+
+L'amico d'affari si era già voltato, e la sua figura scura e robusta,
+
+che esprimeva disprezzo nella linea stessa della schiena, era scomparsa dietro l'
+
+albero sconquassato. L'altro uomo indugiò ancora un momento, ma di fronte
+
+all'irrazionale razionalità dell'ultima osservazione, anch'egli seguì lo
+
+stesso cammino. Aveva percorso circa sei metri e stava anch'egli girando attorno all'
+
+albero, quando l'intero contegno del poeta mutò all'improvviso. Egli gettò la
+
+pipa con una parola di scusa e rincorse gli amici con uno stile e un gesto
+
+del tutto nuovi, inchinandosi con ampi movimenti di cortesia.
+
+«Chiedo scusa» disse magnificamente; «[[Hope|spero]] proprio che tornerete a
+
+scendere alla mia dimoretta. [[Fear|Temo]] di aver mancato di ospitalità.»
+
+Dopo aver egli stesso indugiato un momento o due presso l'albero e poi
+
+ripreso il suo posto sulla riva, sedette contemplando in maniera affascinata le
+
+pozze davanti a sé che, nell'ultima intensità del tramonto, brillavano come
+
+laghi di [[Blood|sangue]]. Rimase effettivamente così per molte ore, vedendo le rosse
+
+pozze farsi nere con la [[Night|notte]] e bianche col chiaro di luna; come se fosse
+
+davvero qualche eremita indù caduto in una pietrosa estasi. Ma quando
+
+si mosse la mattina seguente, sembrava colmo di una praticità assai più
+
+[[Novel|nuova]] e sorprendente. Si recò dagli agenti della
+
+tenuta; spiegò e trattò per diversi mesi, e alla fine
+
+divenne l'effettivo possessore legale di circa due acri di terreno
+
+che circondavano il suo prediletto capriccio di vegetazione, e procedette a recintarlo
+
+con la più matematica rigidità, come un colono che pianta i paletti di una
+
+concessione in un [[Desert|deserto]]. Il resto della sua straordinaria impresa fu tanto
+
+più straordinario in quanto relativamente ordinario. Costruì una piccola
+
+[[house|casa]] sul terreno; si diede ad abitudini di operosità letteraria e di
+
+rispettabilità che presto gli consentirono di trasformarla in una dimora di campagna
+
+assai presentabile. A tempo debito completò persino la propria solidificazione
+
+sociale prendendo moglie, la quale morì dopo avergli dato un solo
+
+[[Child|figlio]], una figlia. La figlia crebbe abbastanza felicemente in quelle rustiche
+
+ma non rozze condizioni, e la vita del signor Walter Windrush proseguì in
+
+sufficiente serenità, fino all'avvento della grande [[Tragedy|tragedia]] della sua tarda
+
+vita.
+
+Il nome di quella [[Tragedy|tragedia]] era [[London|Londra]]. L'infinita espansione della [[City|città]]
+
+venne strisciando su quelle colline e quelle lande come un mare montante, e il
+
+resto della sua [[history|storia]], o di quella parte della sua [[history|storia]], riguardò interamente
+
+i suoi umori di sfida e le sue misure di difesa di fronte a
+
+un così incongruo [[deluge|diluvio]]. Giurò per tutte le Muse che se quell'
+
+odioso labirinto di bruttezza e volgarità doveva davvero circondare il suo
+
+sacro albero e il suo segreto [[Garden|giardino]], quanto meno non doveva toccarli. Egli
+
+eresse un muro ridicolmente alto tutt'attorno al luogo; osservava la
+
+più grande cerimonia nell'ammettervi chicchessia, e anzi, verso la
+
+fine, la cerimonia s'indurì piuttosto in sospetto. Certi ospiti incauti avevano
+
+trattato il [[Garden|giardino]] come se fosse un [[Garden|giardino]]; anzi, persino l'albero come se
+
+fosse un albero. E poiché era suo vanto che questo suo eremo fosse l'ultimo
+
+spazio libero della terra rimasto in Inghilterra, e il rifugio di una poesia
+
+dappertutto altrove conquistata dalla prosa, cadde da ultimo nell'abitudine di
+
+chiudere a chiave la porta del [[Garden|giardino]] e di mettersi la chiave in tasca. In
+
+ogni altro aspetto della vita era assai ospitale e umano; concedeva
+
+alla figlia ottimi [[Time|momenti]] in ogni altra direzione, ma tendeva
+
+sempre più a trattare quel luogo come sacro alla propria [[Solitude|solitudine]], e
+
+per lunghi giorni e lunghe notti nulla si muoveva mai in quello strano
+
+recinto se non il suo solitario padrone che girava e rigirava attorno al suo albero.

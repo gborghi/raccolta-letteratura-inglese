@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/fancies-versis-fads-(chesterton)">Fancies Versis Fads</a> › <a href="/testi/chesterton/atomized/fancies_versis_fads/chapter_01_manufacturers">Chapter 01 MANUFACTURERS</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/fancies_versis_fads/chapter_01_manufacturers/part_11">‹ part 11</a><a class="ex-next" href="/testi/chesterton/atomized/fancies_versis_fads/chapter_01_manufacturers/part_13">part 13 ›</a></div>
@@ -114,3 +116,109 @@ and must be studied scientifically, however hideous it may be.
 [[Death]] also is a disease; and frequently a fatal one.
 Experiments must be made in it; and it must be inflicted in any form,
 however hideous, in a cool and scientific manner.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/fancies-versis-fads-(chesterton)">Fancies Versis Fads</a> › <a href="/testi/chesterton/atomized/fancies_versis_fads/chapter_01_manufacturers">Chapter 01 MANUFACTURERS</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/fancies_versis_fads/chapter_01_manufacturers/part_11">‹ part 11</a><a class="ex-next" href="/testi/chesterton/atomized/fancies_versis_fads/chapter_01_manufacturers/part_13">part 13 ›</a></div>
+</nav>
+
+Ma poiché il mio nuovo istruttore idealista mi dice di analizzare, tenterò di
+analizzare. Nel modo ordinario forse basterebbe dire che non mi piacciono i
+suoi ideali, e che preferisco i miei, come direi che non mi piace il sapore
+della cotoletta di noci quanto il sapore della cotoletta di vitello. Ma proprio
+come è possibile risolvere il cibo in formule sui proteidi, così è in parte
+possibile risolvere la preferenza religiosa in formule sui princìpi. Il massimo
+che possiamo [[Hope|sperare]] di fare è scoprire quali di questi princìpi siano
+i primi princìpi. E a questo proposito vorrei parlare un po' più seriamente, e
+persino un po' più rispettosamente, delle formule sullo svuotare la mente. Non
+nego che sia talvolta una buona cosa svuotare la mente della mera
+accumulazione di impressioni secondarie e terziarie. Se ciò che s'intende è
+qualcosa che un mio amico una volta chiamò «una pulizia mentale di
+[[spring|primavera]]», allora capisco cosa significa. Ma la più drastica
+pulizia di [[spring|primavera]] in una [[house|casa]] non lava via, di norma,
+la [[house|casa]]. Non abbatte il tetto come una ragnatela, né estirpa i muri
+come erbacce. E la vera formula non è tanto svuotare la mente quanto scoprire
+che non possiamo svuotare la mente, svuotandola quanto più possiamo. In altre
+parole, torniamo sempre a certi fondamenti che sono convinzioni, perché a
+malapena riusciamo persino a concepirne i contrari. Ma è il [[Paradox|paradosso]]
+del linguaggio umano che, per quanto queste verità siano in un certo modo
+senza pari, dure e chiare, pure ogni tentativo di parlarne ha sempre
+l'apparenza di essere nebuloso ed elusivo.
+
+Ora questo antagonismo, quando è così analizzato, mi pare sorgere da un'ultima
+cosa in fondo alle menti di questi uomini: che essi credono nel prendere sul
+serio il [[Body|corpo]]. Il [[Body|corpo]] è una sorta di dio pagano, benché i
+pagani siano più spesso stoici che epicurei. Tanto per cominciare, esso è esso
+stesso un principio. Il [[Body|corpo]], se non il creatore dell'[[Soul|anima]]
+in Cielo, è considerato il pratico produttore di essa sulla terra. In questo il
+loro materialismo è il fondamento stesso del loro ascetismo. Essi vogliono che
+consumiamo frutta pulita e [[Water|acqua]] limpida affinché le nostre menti
+siano limpide o le nostre vite pulite. Il [[Body|corpo]] è una sorta di magica
+fabbrica dove queste cose entrano come verdure ed escono come virtù. Così la
+digestione ha il primo segno di una divinità: quello di essere un'origine. Ha
+il secondo segno di una divinità: che, se essa è soddisfatta, le altre cose non
+contano, o comunque le altre cose seguono al loro posto. E così, direbbero, i
+servigi del [[Body|corpo]] dovrebbero essere seri e non [[Grotesque|grotteschi]];
+e i suoi più piccoli cenni dovrebbero essere presi come terribili
+avvertimenti. L'arte vi ha un posto perché il [[Body|corpo]] deve essere
+drappeggiato come un altare; e la scienza vi è ostentata perché il servizio
+dev'essere in latino o in greco o in qualche lingua ieratica. Comprendo
+benissimo queste cose che circondano un dio o un altare; ma io non mi trovo a
+venerare a quell'altare né a credere in quel dio. Non penso che il
+[[Body|corpo]] debba essere preso sul serio; penso che sia assai più sicuro e
+sano quando è preso comicamente e persino grossolanamente. E penso che, quando
+al [[Body|corpo]] viene concessa una vacanza, come gli è concessa in un grande
+banchetto, esso dovrebbe essere lasciato libero non solo per la saggezza ma per
+la follia, non solo di [[Dance|danzare]] ma di fare capriole a gambe all'aria.
+In breve, quando gli è davvero permesso di esagerare i propri piaceri, esso
+dovrebbe anche esagerare la propria assurdità. Il [[Body|corpo]] ha il proprio
+rango, e i propri diritti, e il proprio posto sotto il [[government|governo]];
+ma il [[Body|corpo]] non è il [[King|re]], bensì piuttosto il Buffone di
+[[Court|Corte]]. E l'umana e storica importanza dei vecchi scherzi e delle
+buffonerie del Natale, per quanto volgari o triti o triviali appaiano, sta nel
+fatto che in essi l'istinto popolare resistette sempre a questa pagana
+solennità sulle cose sensuali. Un uomo era destinato a sentirsi piuttosto un'oca
+mentre mangiava l'oca; e a rendersi conto d'essere fatto della stessa materia
+di cui è fatto il ripieno. Ecco perché chiunque abbia in queste cose il tocco
+del comico avrà anche il gusto del conservatore; sarà restio a mutare ciò che
+quell'istinto popolare ha foggiato a propria assurda immagine. Sarà dubbioso
+riguardo a un budino di Natale modellato nella forma della Piramide o del
+Partenone, o di qualsiasi cosa che non sia tonda e ridicola come il mondo. E
+quando il signor [[Pickwick]], tondo e ridicolo come qualsiasi budino di Natale
+o qualsiasi mondo che valga la pena di vivere, se ne stava a gambe larghe e
+sorridente sotto il vischio, egli disinfettò quel vegetale della sua antica e
+quasi [[vegetarian|vegetariana]] tristezza e del suo paganesimo, del
+[[Blood|sangue]] di Baldur e del sacrificio umano dei Druidi.
+
+--
+
+SHAKESPEARE E LA DAMA LEGALE
+
+MI [[Wonder|DOMANDO]] quanto a lungo la donna emancipata sopporterà l'odioso
+bando che la esclude dal fare il boia. O piuttosto, per parlare con maggiore
+esattezza, la boia. Il fatto stesso che ci sia qualcosa di vagamente insolito e
+goffo nella parola non è che una prova dei secoli di oppressione sessuale che ci
+hanno abituati a questo privilegio sessuale. L'[[Ambition|ambizione]] non
+sarebbe forse stata compresa dalle eroine pudiche e sentimentali di Fanny
+Burney e di Jane Austen. Ma è ormai convenuto che quanto più andiamo oltre
+queste appassite convenienze, tanto meglio è; e io davvero non vedo come
+potremmo andare oltre. Ci sono sempre i torturatori, s'intende; i quali
+probabilmente ritorneranno sotto qualche nome scientifico. Gli oscurantisti
+potranno usare il vecchio argomento, che la donna non si è mai elevata al primo
+rango in quest'arte o in altre; che Jack Ketch non fu Jemima Ketch, e che il
+carnefice si chiamava Sansone e non Dalila. E saranno travolti dalla vecchia
+replica: che finché non avremo centinaia di donne sane felicemente impegnate in
+questa salubre occupazione, sarà impossibile giudicare se possano elevarsi al
+di sopra della media oppure no. I lacrimosi sentimentali possono avvertire
+qualcosa di sgradevole, qualcosa di lievemente ripugnante, nel nuovo mestiere
+femminile. Ma, come disse l'indignata donna-poliziotto l'altro giorno, quando
+un magistrato escluse alcune del suo sesso e servizio da rivelazioni
+rivoltanti, «il crimine è una malattia», e dev'essere studiato
+scientificamente, per quanto orrendo possa essere. Anche la [[Death|morte]] è
+una malattia; e frequentemente una malattia fatale. Su di essa vanno fatti
+esperimenti; ed essa dev'essere inflitta in qualsiasi forma, per quanto
+orrenda, in maniera fredda e scientifica.

@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/don-quixote-(chesterton)">Don Quixote</a> › <a href="/testi/chesterton/atomized/don_quixote/chapter_18">Chapter 18</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/don_quixote/chapter_17/part_04">‹ part 04</a><a class="ex-next" href="/testi/chesterton/atomized/don_quixote/chapter_18/part_02">part 02 ›</a></div>
@@ -123,3 +125,34 @@ To sum up, it is decreed, first that the craft should be ruled by its
 fully enfranchised members, subject to any just claim of property;
 and second, that the claim of property made in this case is not just.
 We shall adjudge to the Guild--."
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/don-quixote-(chesterton)">Don Quixote</a> › <a href="/testi/chesterton/atomized/don_quixote/chapter_18">Chapter 18</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/don_quixote/chapter_17/part_04">‹ part 04</a><a class="ex-next" href="/testi/chesterton/atomized/don_quixote/chapter_18/part_02">part 02 ›</a></div>
+</nav>
+
+CAPITOLO XVII
+
+LA PARTENZA DI [[Don Quixote|DON CHISCIOTTE]]
+
+E durante tutto questo primo trambusto, i due nobiluomini che erano stati nominati sedevano immobili e rigidi come mummie; benché la ragione della rigidità potesse differire. Lord Seawood restava semplicemente a bocca aperta; portava sul volto quell'espressione che potrebbe avere una testa umana se il [[Body|corpo]] le fosse d'un tratto spazzato via di sotto e la si lasciasse penzolare a mezz'aria. Il giudice poteva scherzare; ma non era così che un giudice dovesse scherzare. E se non scherzava... dov'erano la terra e l'aria e il cielo? Ma Lord Eden, cosa abbastanza curiosa, sedeva del tutto impassibile e il suo sorriso arcaico semmai si fece più profondo. Pareva, alla sua torva maniera, del tutto compiaciuto. Era quasi come se avesse indovinato ciò che stava per venire. Poiché nell'istante seguente l'Arbitro proseguì.
+
+«Il principio è approvato, cioè, per quanto concerne quella sua enunciazione. Anche qui è essenziale intendere tali enunciazioni con una certa precisione logica. Se stiamo definendo o descrivendo un Mestiere o un Commercio, quale esso era in origine e quale ragionevolmente dovrebbe essere, questa è l'enunciazione e non ne chiediamo altre. Il [[government|governo]] di tale mestiere o commercio spetta di diritto ai maestri artigiani e ai maestri mercanti. Ma il vecchio ordine riconosceva [[Well|del pari]] altri diritti; e fra essi il diritto di proprietà privata. L'artigiano lavorava e il mercante commerciava con la propria proprietà privata. In un caso come il presente, dobbiamo ammettere che, anche se il diritto astratto di gestione dovesse spettare ai lavoratori, i materiali appartengono ancora di fatto ai tre uomini che ho nominato.»
+
+«Così va meglio», giunse l'inciso archeriano come una sorta di sospiro esplosivo; e la testa del vecchio Seawood cominciò ad annuire tremula e dubbiosa come quella di una bambola cinese. Ma la dura testa di Eden rimase immobile, col suo sorriso duro e sicuro.
+
+«In generale», continuò l'espositore, «l'etica e la giurisprudenza medievali affermavano il principio della proprietà privata con alquanto più elaborazione e modificazione della maggior parte dei sistemi moderni, finché non si giunge al sistema chiamato Socialismo. Era generalmente ammesso, per esempio, che un uomo potesse essere realmente o apparentemente in possesso di beni su cui non aveva alcun diritto, perché erano stati acquisiti con metodi condannati dalla morale cristiana; come, per esempio, mediante l'usura. Vi erano anche leggi contro ciò che si chiamava accaparramento e altri metodi per assicurarsi l'intera quantità di un particolare materiale sul mercato. Al di fuori di tali delitti, tuttavia, che erano spesso severamente puniti con la gogna e persino con la forca, il possesso personale della ricchezza era accettato come normale; e non vedo alcun ragionevole [[Doubt|dubbio]] che la ricchezza personale di queste tre persone sia ciò che viene effettivamente impiegato in questa industria. È, mi permetto di osservare, la maggior parte della loro ricchezza personale. Due di loro sono i titolari di vasti possedimenti terrieri; ma questi sono divenuti sempre meno redditizi e sono in parte ipotecati. La ricchezza che li rende tutti uomini facoltosi proviene dalle riuscite operazioni della Compagnia dei Colori e delle Tinture di Catrame di Carbone, di cui possiedono la maggior parte delle azioni. Quelle operazioni sono tanto riuscite che, in tutto questo paese, e praticamente in tutto il mondo industrializzato, l'unico tipo di colori d'artista, matite, pastelli e via dicendo che si vendano e si usino proviene dagli stabilimenti chimici dove questi sottoprodotti vengono impiegati. Non resta che chiedere per quale forma d'impresa commerciale sia stata raggiunta una tale superiorità.»
+
+Un curioso mutamento era a questo [[Time|punto]] sopravvenuto nell'uditorio. La maggior parte di loro, cullati dalle frasi familiari del magnifico prospetto o rapporto commerciale, avevano annuito fino quasi ad assopirsi in un sonno d'assenso. Ma, cosa assai più notevole, per la prima [[Time|volta]] Lord Seawood sorrideva; e Lord Eden no.
+
+«Accade che un incidente, o piuttosto un'avventura (una delle più onorevoli avventure dei nuovi Compagni di questo Reame) abbia rivelato i fatti riguardo a un caso emblematico. Abbiamo in verità dinanzi a noi la [[history|storia]] di un maestro Artigiano dell'antica specie; uno che indubbiamente componeva i propri pigmenti con le proprie mani e secondo il proprio gusto e giudizio; e che produceva così un particolare articolo che i migliori artisti del suo [[Time|tempo]] consideravano unico e che gli artisti posteriori hanno cercato invano di sostituire. L'articolo non è venduto dalla Compagnia dei Colori e delle Tinture di Catrame di Carbone. L'uomo non trae in alcun modo profitto, né è nemmeno impiegato, dalla Compagnia dei Colori e delle Tinture di Catrame di Carbone. Che ne è stato di quel Capolavoro? Che ne è stato di quel Maestro?
+
+«Dalle informazioni postemi dinanzi dai valorosi gentiluomini che ho menzionato, sono in grado di dire che cosa ne sia stato di loro. L'uomo fu ridotto con la forza a una condizione di mendicità, fu talmente spezzato dalla [[Despair|disperazione]] da essere accusato di follia; ed è perfettamente chiaro che i metodi impiegati per cacciarlo dalla sua bottega e dal suo sostentamento furono i metodi di cui ho parlato; l'accaparramento dei materiali prima che potessero giungergli, il taglio delle sue forniture, l'abbassamento dei suoi prezzi mediante una congiura per vendere sottocosto e tutto il resto. Non ho bisogno di descriverli più in generale di quanto abbia già fatto; dicendo che presso i nostri padri gli uomini che facevano queste cose potevano essere messi alla gogna o impiccati. Gli uomini che hanno fatto queste cose oggi sono i tre azionisti di questa Compagnia; i tre Maestri di questo Commercio.»
+
+Poi nominò di nuovo i tre formalmente e per esteso con voce dura; ma sul nome di Lord Seawood la sua voce parve per un istante spezzarsi. Non guardò alcun volto nella folla.
+
+«Su questo secondo punto, pertanto, la [[Court|Corte]] d'Arbitrato decide che la proprietà privata impiegata in questa attività non è stata legittimamente acquisita; e non può invocare, come normalmente farebbe, il privilegio del giusto possesso. Per riassumere, si decreta, primo, che il mestiere debba essere governato dai suoi membri pienamente affrancati, salvo ogni giusta pretesa di proprietà; e secondo, che la pretesa di proprietà avanzata in questo caso non è giusta. Aggiudicheremo alla Gilda —.»

@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/don-quixote-(chesterton)">Don Quixote</a> › <a href="/testi/chesterton/atomized/don_quixote/chapter_20">Chapter 20</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/don_quixote/chapter_19/part_02">‹ part 02</a><a class="ex-next" href="/testi/chesterton/atomized/don_quixote/chapter_20/part_02">part 02 ›</a></div>
@@ -136,3 +138,48 @@ As it was, he looked uncomfortable and said:  "Look here, you mustn't
 give me credit like that.  I'm not on as Galahad in this scene.
 I [[Hope|hope]] I'd have done my best for the old Honkey; but I did like that girl;
 I liked her rather a lot."
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/don-quixote-(chesterton)">Don Quixote</a> › <a href="/testi/chesterton/atomized/don_quixote/chapter_20">Chapter 20</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/don_quixote/chapter_19/part_02">‹ part 02</a><a class="ex-next" href="/testi/chesterton/atomized/don_quixote/chapter_20/part_02">part 02 ›</a></div>
+</nav>
+
+CAPITOLO XIX
+
+IL RITORNO DI [[Don Quixote|DON QUIXOTE]]
+
+Un giorno, forse, si racconterà la storia delle avventure del nuovo [[Don Quixote|Don Chisciotte]] e del nuovo Sancho Panza, mentre vagavano per le tortuose strade d'Inghilterra. Dal punto di vista della popolazione fredda e satirica, la storia era piuttosto quella del procedere dell'hansom, attraverso scene dove gli hansom assai raramente compaiono. Fu forse un procedere senza precedenti attraverso radure boschive e per lande desolate; e, come metodo di viaggio scelto da un cavaliere e dal suo scudiero, nuovo perfino negli annali della cavalleria. Ma qualche cronista tumultuosamente romantico potrà ancora dare qualche resoconto di come essi tentassero in vari modi di usare il veicolo per la difesa e la consolazione degli oppressi. Di come dessero passaggi ai vagabondi e giri ai bambini; di come trasformassero la carrozza in un chiosco del caffè a Reading e in una tenda nella Piana di Salisbury. Di come la carrozza figurasse come [[Machine|cabina]] da bagno nel terribile fatto di Worthing. Di come fosse considerata dai semplici calvinisti della Frontiera come un pulpito ambulante, con un posto in basso per il cantore che intonava i salmi e un posto in alto per il ministro che predicava, cosa che il signor Douglas Murrel si diede a fare con grande unzione ed edificazione. Di come il signor Douglas Murrel organizzasse una serie di conferenze storiche del signor Herne dall'alto della carrozza, e le assecondasse con commenti e spiegazioni, facendo del giro di conferenze un vero e proprio [[success|successo]] finanziario con metodi forse non invariabilmente rispettosi del conferenziere. Ma benché possano esservi stati momenti in cui lo scudiero difettava di una completa serietà, è probabile nel complesso che facessero un gran bene. Si misero nei guai con la polizia, cosa in sé quasi un segno di santità; ebbero a azzuffarsi con un buon numero di persone nella vita privata, ma per lo più con persone che avevano un gran bisogno d'essere azzuffate. E Herne, almeno, era del tutto convinto della seria utilità sociale di questa linea d'attacco. Uomo più triste e concepibilmente perfino più saggio, ebbe molti lunghi colloqui con il suo amico, nei quali non cessava mai di elaborare la Difesa di [[Don Quixote|Don Chisciotte]] e la necessità del suo reale ritorno. Uno fu particolarmente memorabile: ebbe luogo mentre sedevano sotto una siepe negli alti sentieri del Sussex.
+
+«Dicono che io sono indietro coi tempi», disse Herne, «e che vivo nei giorni che [[Don Quixote|Don Chisciotte]] sognava. Sembrano dimenticare che essi stessi sono almeno trecento anni indietro coi tempi e vivono nei giorni in cui Cervantes sognava [[Don Quixote|Don Chisciotte]]. Vivono ancora nel [[Renaissance|Rinascimento]]; in ciò che Cervantes naturalmente considerava la Nuova Nascita. Ma io dico che un bimbo che ha trecento anni sta già facendosi avanti negli anni. È [[Time|ora]] che rinasca.»
+
+«Deve rinascere», chiese Murrel, «come un cavaliere errante medievale?»
+
+«Perché no?», chiese l'altro, «se l'uomo del [[Renaissance|Rinascimento]] rinacque come un antico greco? Cervantes riteneva che il [[Romance|Romanticismo]] stesse morendo e che la Ragione potesse ragionevolmente prenderne il posto. Ma io dico che nel nostro [[Time|tempo]] è la Ragione a morire, in quel senso; e la sua vecchiaia è in verità meno rispettabile del vecchio [[Romance|romanticismo]]. Vogliamo tornare all'attacco più semplice e diretto. Ciò che ora vogliamo è qualcuno che creda davvero nell'assalire i giganti.»
+
+«E che riesce ad assalire i mulini a vento», rispose Murrel.
+
+«Hai mai riflettuto», disse il suo amico, «su quale buona cosa sarebbe stata se avesse fracassato i mulini a vento? Da quel che ora so della [[history|storia]] medievale, direi che il suo unico errore fu di assalire i mulini invece dei mugnai. Il mugnaio era l'intermediario del medioevo. Era il principio di tutti gli intermediari delle epoche moderne. I suoi mulini erano il principio di tutti i mulini e le manifatture che hanno oscurato e degradato la vita moderna. Sicché perfino Cervantes, in un certo senso, scelse un esempio contro se stesso. E lo stesso vale ancor più per gli altri esempi. [[Don Quixote|Don Chisciotte]] liberò un mucchio di prigionieri che erano soltanto galeotti. Oggigiorno sono per lo più coloro che sono stati ridotti in miseria a essere incarcerati, e coloro che li hanno derubati a essere liberi. Non sono sicuro che l'errore sarebbe poi così errato.»
+
+«Non credi», chiese Murrel, «che le cose moderne siano troppo complicate per essere affrontate in un modo così semplice?»
+
+«Io credo», replicò Herne, «che le cose moderne siano troppo complicate per essere affrontate se non in un modo semplice.»
+
+Si [[Rose|levò]] in piedi e passeggiò avanti e indietro sulla [[Road|strada]] con tutta la sognante energia del suo prototipo. Sembrava sforzarsi di strappare da sé il proprio vero significato.
+
+«Non vedi», gridò, «questa è la morale di tutta la faccenda. Tutto il vostro macchinario è divenuto tanto disumano da essere divenuto naturale. Nel divenire una seconda [[Nature|natura]], è divenuto remoto e indifferente e crudele come la [[Nature|natura]]. Il Cavaliere cavalca ancora una volta nella foresta. Solo che è smarrito fra le ruote invece che fra i boschi. Avete costruito il vostro sistema morto su scala così vasta che voi stessi non sapete come o dove colpirà. È questo il [[Paradox|paradosso]]! Le cose sono divenute incalcolabili a forza di essere calcolate. Avete legato gli uomini a strumenti così giganteschi che non sanno su chi calino i colpi. Avete giustificato l'[[nightmare|incubo]] di [[Don Quixote|Don Chisciotte]]. I mulini _sono_ davvero giganti.»
+
+«C'è forse un metodo, in tal caso», domandò l'altro.
+
+«Sì; e tu l'hai trovato», replicò Herne. «Tu non ti sei affannato coi sistemi, quando hai visto che un medico pazzo era più pazzo del pazzo. Sei tu a guidare e io a seguire. Tu non sei Sancho Panza. Tu sei l'altro.»
+
+Tese la mano con qualcosa dell'antico gesto.
+
+«Ciò che dissi sul seggio del giudizio lo ripeto qui sul ciglio della strada. Tu sei l'unico di loro rinato. Tu sei il cavaliere che è tornato.»
+
+Douglas Murrel fu bruscamente e orribilmente confuso.
+
+Quel complimento era forse l'unica cosa che avrebbe potuto pungolarlo a parlare di certe faccende; poiché sotto tutta questa buffoneria egli aveva qualcosa di più della reticenza della sua razza. Comunque, ebbe un'aria a disagio e disse: «Senti, non devi darmi merito così. In questa scena non recito la parte di Galahad. [[Hope|Spero]] di aver fatto del mio meglio per il vecchio Honkey; ma quella ragazza mi piaceva; mi piaceva parecchio.»

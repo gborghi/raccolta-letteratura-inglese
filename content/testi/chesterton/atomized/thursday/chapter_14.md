@@ -503,7 +503,7 @@ of a troubadour.  For these disguises did not disguise, but reveal.
 
 # [[thursday]] — Capitolo 14
 
-                         CAPITOLO XIV
+CAPITOLO XIV
 
                     I SEI FILOSOFI
 

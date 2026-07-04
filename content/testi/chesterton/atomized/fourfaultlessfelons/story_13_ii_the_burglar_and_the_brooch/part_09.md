@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/fourfaultlessfelons-(chesterton)">FourFaultlessFelons</a> › <a href="/testi/chesterton/atomized/fourfaultlessfelons/story_13_ii_the_burglar_and_the_brooch">Story 13 Ii The Burglar And The Brooch</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/fourfaultlessfelons/story_13_ii_the_burglar_and_the_brooch/part_08">‹ part 08</a><a class="ex-next" href="/testi/chesterton/atomized/fourfaultlessfelons/story_14_v_the_thief_on_trial/part_01">part 01 ›</a></div>
@@ -185,3 +187,184 @@ The Junior Partner resumed his plodding march with the new addition to
 his list of worries; that among the inmates of the [[house]], was a lady who
 
 was a lunatic.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/fourfaultlessfelons-(chesterton)">FourFaultlessFelons</a> › <a href="/testi/chesterton/atomized/fourfaultlessfelons/story_13_ii_the_burglar_and_the_brooch">Story 13 Ii The Burglar And The Brooch</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/fourfaultlessfelons/story_13_ii_the_burglar_and_the_brooch/part_08">‹ part 08</a><a class="ex-next" href="/testi/chesterton/atomized/fourfaultlessfelons/story_14_v_the_thief_on_trial/part_01">part 01 ›</a></div>
+</nav>
+
+fratello, il reverendo Norman Nadoway, era da poco diventato un parroco caritatevole e
+
+popolare, prodigo di ogni sorta di buone opere.
+
+«Pare incredibile,» disse John Nadoway con pesante enfasi, «che un
+
+uomo possa essere tanto malvagio.»
+
+«Sì,» disse Peter Price, un po' assonnato; «pare incredibile.» Poi
+
+si alzò con le mani in tasca e guardò fuori dalla [[Window|finestra]] e
+
+osservò: «Sa, a pensarci bene, è proprio la parola
+
+adatta. Pare incredibile.»
+
+«Eppure è successo,» disse John con un gemito.
+
+Peter Price rimase in silenzio così a lungo che John a un tratto balzò in piedi come un
+
+uomo potrebbe fare all'udire un rumore. «Che diavolo le prende?»
+
+chiese. «Non è del tutto certo che sia successo?»
+
+Price annuì e rispose: «Se lei dice che è successo, sì, sono del tutto
+
+certo. Ma se mi chiede che cosa sia successo, non sono affatto certo. Solo
+
+che comincio ad avere una vasta e generica sorta di sospetto.»
+
+Poi, dopo un altro [[Silence|silenzio]], disse d'improvviso: «Senta, non voglio rischiare di
+
+destare speranze o sospetti ancora, ma se mi permette di vedere l'avvocato
+
+che sta preparando la difesa di suo fratello, credo piuttosto di poter avere
+
+qualcosa da suggerirgli.»
+
+John Nadoway lasciò gli uffici dell'[[Detective|investigatore]] con andatura lenta e
+
+espressione perplessa, che continuò a portare per tutta la strada fino alla sua
+
+[[house|casa]] di campagna, dove giunse quella sera, guidando la propria automobile con
+
+la sua consueta competenza, ma senza dismettere affatto la sua insolita perplessità
+
+e cupezza. Tutto era diventato così sconcertante, [[Well|come]] pure così doloroso, che
+
+si trovò spinto contro i margini dell'esistenza, in un modo raro
+
+nell'esperienza degli uomini del suo tipo. Avrebbe detto in tutta
+
+semplicità di non essere un pensatore, e non avrebbe visto nulla
+
+di innaturale nell'idea di un uomo che cammina attraverso la vita fino alla [[Death|morte]], senza
+
+fermarsi da nessuna parte a pensare. Ma tutto, fin dal contegno di quel
+
+piccolo pratico [[Detective|investigatore]] privato, era così maledettamente misterioso. Persino gli
+
+alberi scuri davanti alla [[house|casa]] di suo padre parevano ergersi in forme
+
+serpentine come enormi punti interrogativi. Le [[Stars|stelle]] somigliavano a quelle
+
+altre [[Stars|stelle]] chiamate asterischi, che stanno nei passi soppressi di un
+
+rompicapo o di un cifrario. E l'unica [[Window|finestra]] illuminata nella massa buia della
+
+[[house|casa]] era come un occhio sogghignante. Sapeva fin troppo [[Well|bene]] che una nube di vergogna
+
+e di rovina gravava su quella [[house|casa]], come un nembo di tempesta sul punto di scoppiare. Era
+
+il genere di rovina che aveva cercato di scongiurare per tutta la vita, e ora che era
+
+giunta a stento poteva persino fingere che non fosse meritata.
+
+Nell'[[Shadow|ombra]] della veranda, con una sorta di silenzioso sussulto, si imbatté in
+
+Millicent, seduta su una sedia da [[Garden|giardino]] e con lo sguardo perso nel buio. E in
+
+tutta quella nera e tragica [[house|casa]] di enigmi, forse il suo viso era l'
+
+[[Riddle|enigma]] più oscuro e più imperscrutabile, perché era felice.
+
+Mentre guardava, in effetti, e divenne consapevole della figura robusta dell'
+
+uomo d'affari che anneriva il fioco luccichio di luce sul prato, una sorta di
+
+nebuloso mutamento le passò negli occhi, che non era [[Pain|dolore]] ma aveva in sé
+
+qualcosa di pathos. Sentì una sorta di triste [[Friendship|amicizia]] uscire in un'
+
+onda di comprensione verso quell'uomo forte, riuscito e sventurato... come
+
+verso qualcosa di sordo o di cieco. Non riusciva ad analizzare l'intenerimento,
+
+che era anche un distacco, finché non ricordò di essere stata quasi
+
+[[Love|innamorata]] di lui quando era un ragazzo in quel [[Garden|giardino]]. Non sapeva perché
+
+dovesse sentire in modo così acuto e quasi tragico di non essere [[Love|innamorata]]
+
+di lui adesso. Che non avrebbe mai, mai potuto essere [[Love|innamorata]] di quel tipo
+
+d'uomo adesso. Quel tipo d'uomo... [[Well|be'']], era il tipo di uomo del tutto buono
+
+che pensava che dire la [[Truth|verità]] fosse giusto tanto quanto lavarsi i denti. Sarebbe
+
+stato come amare qualcuno tutto piatto... solo in due dimensioni.
+
+Poiché sentiva che in lei si era aperta una profondità come una nuova dimensione,
+
+piena di [[Stars|stelle]] a testa in giù e delle infinità capovolte di Einstein. A stento
+
+guardava in quell'abisso alle sue spalle, a stento coglieva la novità positiva,
+
+ma solo il netto negativo, che non era [[Love|innamorata]] di John
+
+Nadoway.
+
+Tanto più la sua fredda compassione andava verso di lui, senza timidezza, come
+
+verso un fratello. «Mi dispiace tanto,» esclamò, «per tutto quel che deve star [[Suffering|Soffrendo]]
+
+proprio ora. Deve sembrarle così terribile.»
+
+«La ringrazio,» disse lui, non senza emozione. «Stiamo attraversando un [[Time|momento]] difficile,
+
+s'intende... e la comprensione dei vecchi amici non fa male.»
+
+«So quanto è stato buono,» disse lei, «e quanto ha lavorato duramente per
+
+tenere lontano qualsiasi cosa somigliasse al disonore. E questo deve sembrarle così
+
+disonorevole.»
+
+La ripetizione di quell'unica parola «sembrare» penetrò infine la sua mente solida
+
+come una cosa un po' strana.
+
+«Temo che non lo sembri soltanto,» disse lui, «un Nadoway che borseggia
+
+è circa il peggio che si possa immaginare.»
+
+«È proprio così,» disse lei, annuendo in modo piuttosto strano. «Attraverso il peggio che
+
+si possa immaginare viene il meglio che non si potrebbe immaginare.»
+
+«Temo di non seguirla,» disse il Socio Minore.
+
+«Si va attraverso il peggio fino al meglio, come si va attraverso l'ovest fino all'
+
+est,» disse lei, «e c'è davvero un luogo, sul retro del mondo,
+
+dove l'est e l'ovest sono una cosa sola. Non riesce a sentire che c'è qualcosa di così
+
+spaventosamente e freneticamente buono da sembrare per forza cattivo?»
+
+Egli la fissò con aria vacua, e lei proseguì come pensando ad alta voce.
+
+«Un divampare nel cielo fa una macchia nella vista. E in fondo,» aggiunse
+
+quasi in un sussurro, «il sole fu oscurato, perché un uomo era
+
+troppo buono per vivere.»
+
+Il Socio Minore riprese la sua marcia arrancante con la nuova aggiunta al
+
+suo elenco di preoccupazioni: che tra i residenti della [[house|casa]] c'era una signora che
+
+era una lunatica.

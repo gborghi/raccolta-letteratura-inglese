@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/fourfaultlessfelons-(chesterton)">FourFaultlessFelons</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/fourfaultlessfelons/story_15_vi_the_cleansing_of_the_name">‹ Story 15 Vi The Cleansing Of The Name</a><a class="ex-next" href="/testi/chesterton/atomized/fourfaultlessfelons/story_17_ii_the_procession_of_the_plotters">Story 17 Ii The Procession Of The Plotters ›</a></div>
@@ -306,3 +308,305 @@ attitude of [[Sublime|sublime]] impudence and cried aloud: "But how hard it is f
 ugliness to rise against [[Beauty|beauty]]. And we are an ugly lot!"
 
 And the Princess drove on in a condition of towering rage.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/fourfaultlessfelons-(chesterton)">FourFaultlessFelons</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/fourfaultlessfelons/story_15_vi_the_cleansing_of_the_name">‹ Story 15 Vi The Cleansing Of The Name</a><a class="ex-next" href="/testi/chesterton/atomized/fourfaultlessfelons/story_17_ii_the_procession_of_the_plotters">Story 17 Ii The Procession Of The Plotters ›</a></div>
+</nav>
+
+IL TRADITORE LEALE
+I LA MINACCIA DELLA PAROLA
+
+SARÀ meglio, tanto per il lettore quanto per lo scrittore, non preoccuparsi di
+
+quale particolare paese fu teatro di questo straordinario episodio. Lo si
+
+può [[Well|ben]] lasciare vago, purché sia fermamente stabilito che non fu
+
+nei Balcani, dove tanti romanzieri si sono precipitati a piantare i loro
+
+paletti fin da quando il signor Anthony [[Hope]] compì il suo colpo di Stato in Ruritania.
+
+Il regno balcanico è comodo perché i re vi vengono uccisi e i governi
+
+dispotici rovesciati con piacevole rapidità e frequenza, e la
+
+[[Crown|corona]] può toccare a qualsiasi avventuriero, buono o cattivo. Ma frattanto, nel medesimo
+
+Stato balcanico, le fattorie restano nelle medesime famiglie, il fazzoletto di terra,
+
+il frutteto o la vigna, discende di padre in figlio; la rude
+
+eguaglianza della piccola proprietà contadina non è mai stata gran che turbata da
+
+grandi operazioni finanziarie. In breve, nel regno balcanico c'è una certa
+
+sicurezza e continuità per la Famiglia, purché non sia la Famiglia
+
+Reale.
+
+Ma col regno di cui qui si tratta, quale differenza! Qualunque nome
+
+gli si voglia dare, era almeno una società altamente civile e [[Well|ben]] ordinata,
+
+in cui la Famiglia Reale continuava serena e sicura sotto la
+
+protezione della polizia e le limitazioni costituzionali; in cui tutti i pubblici
+
+servizi erano condotti con una regolarità rasente il tedio, e in cui
+
+nessuno veniva mai rovinato o rovesciato tranne il macellaio, il fornaio, il
+
+candelaio e i vari tipi di bottegai e comuni cittadini
+
+che per caso venissero ad [[Cross|attraversare]] il cammino di grandi operazioni commerciali. Il
+
+paese poteva [[Well|ben]] essere uno dei più piccoli Stati tedeschi che sono stati
+
+industrializzati per dipendenza da miniere e fabbriche, o una delle antiche
+
+dipendenze dell'Impero austriaco. Non importa; basta
+
+ad assicurarsi il rispetto e l'interesse del lettore sapere che era una comunità
+
+del tutto moderna e illuminata, che era progredita in ogni scienza e
+
+aveva perfezionato ogni comodità sociale finché non si trovò a ragionevole
+
+distanza dalla rivoluzione; non una piccola rivoluzione di palazzo da quattro soldi, in cui
+
+pochi principi vengono assassinati, ma una vera rivoluzione sociale internazionale,
+
+universale; probabilmente iniziando con uno sciopero generale e probabilmente finendo
+
+con bancarotta e carestia.
+
+Era tanto più possibile in quanto avvenimenti burrascosi di questo genere erano
+
+già scoppiati in un vicino Stato industriale e, dopo alcuni
+
+mesi di una guerra civile assai sconcertante, erano finiti con la vittoria di uno
+
+dei sei generali rivoluzionari che si combattevano l'un l'altro sul campo; il
+
+vincitore essendo un certo generale Case, un abile soldato che in origine
+
+era venuto con le truppe coloniali di guarnigione nei dintorni, e a cui
+
+le chiacchiere locali attribuivano di essere in parte negro, fatto che
+
+consolava considerevolmente coloro che erano stati da lui sconfitti. Per il nostro
+
+territorio, che chiameremo Pavonia, egli fu importante soltanto come
+
+sfortunatamente fortunato esempio.
+
+La crisi pubblica divenne acuta in Pavonia con l'apparizione della
+
+piuttosto misteriosa agitazione intorno a «La Parola». Ancor oggi vi sono
+
+dispute sulla [[Nature|natura]] del movimento. Alcuni degli agenti del [[government|governo]]
+
+e degli inquirenti giuravano che il popolino ignorante credeva davvero che, con
+
+la scoperta di una nuova Parola, tutto al mondo sarebbe stato spiegato.
+
+Apparve realmente un pamphlet sfrenato, in cui l'autore sosteneva con
+
+folle ingegnosità che, come tutta la moderna pubblicità e divulgazione consistono
+
+nel concentrare un libro in un paragrafo, o un capitolo in una frase,
+
+così alla fine tutta la [[Truth|verità]] sul presente problema sarebbe stata
+
+concentrata in una parola. Folle d'impazienti malcontenti erano esortate ad
+
+attendere la Parola; e si fornivano visioni apocalittiche delle scene
+
+di sconvolgimento mondiale che sarebbero seguite, una volta pronunciata la Parola. La
+
+Parola avrebbe contenuto in sé, si asseriva con gravità, un completo piano di
+
+operazioni e una spiegazione dell'intera strategia organizzata della
+
+rivolta. Alcuni dicevano che tutta l'idea fosse nata da un poeta boemo,
+
+che firmava le sue [[Poems|poesie]] «[[Sebastian]]», e aveva certamente composto una [[Lyric|lirica]]
+
+invocazione piena di allusioni alla Parola. Molti ripetevano i versi che
+
+dicevano:
+
+Come il serpente d'[[Aaron|Aronne]] ingoiò serpi e verghe,
+
+Come Dio [[Alone|solo]] è più grande degli dèi,
+
+Come ogni [[Stars|stella]] si dissolve nell'unico sole,
+
+Le parole son molte, ma la Parola è una.
+
+Ma nessuno in carica vide mai il poeta rivoluzionario che lanciava queste
+
+piccole inezie al [[government|Governo]] e al pubblico; finché non fu identificato
+
+un giorno per strada dall'ultima persona che avesse probabilità d'incontrarlo.
+
+La principessa Aurelia Augusta Augustina, ecc. ecc. (che aveva incastonato
+
+da qualche parte fra i suoi stratificati nomi cristiani il nome di Maria, con cui
+
+per comodità era chiamata dalla famiglia), era la nipote del
+
+monarca regnante e, avendo appena lasciato la scuola, non apprezzava ancora del tutto
+
+la differenza fra regnare e governare. Era una vigorosa
+
+giovane donna dai capelli rossi e dal naso romano, e avendo finora imparato
+
+sui Reali più dalla [[history|storia]] che dalla politica, prendeva la loro posizione
+
+con una certa semplicità e poteva perfino immaginare (proprio come se fosse
+
+stata davvero nei Balcani) che valesse la pena di assassinarli o di
+
+obbedir loro. Era tornata nella vita della [[Court|corte]] e della capitale,
+
+che aveva lasciata da mera [[Child|bambina]], piena di quell'irreprimibile [[Desire|desiderio]] di
+
+rendersi utile, così normale nelle donne e così pericoloso nelle grandi dame,
+
+e per il momento si rendeva molesta rivolgendo a tutti domande
+
+su ogni cosa. Naturalmente rivolgeva domande sull'[[Riddle|enigma]]
+
+politico popolare della Parola e, in generale, come direbbe il signor [[Edmund]] Burke,
+
+sulla causa dei presenti malcontenti. Era tanto più
+
+incuriosita quando nessuno sapeva dirle che cosa fosse la Parola e assai pochi,
+
+nel suo mondo, di che cosa trattasse tutta la baraonda. Fu perciò con un
+
+considerevole fervore di superiorità che ella tornò dalla sua famiglia un
+
+pomeriggio e annunciò di aver realmente veduto il sedizioso
+
+menestrello, apparentemente responsabile della rima rivoluzionaria alquanto oscura
+
+e del movimento rivoluzionario alquanto misterioso.
+
+La sua automobile procedeva lenta lungo una strada tranquilla, perché ella era in
+
+cerca di un negozio di curiosità che aveva conosciuto nell'[[Childhood|infanzia]] e non riusciva
+
+a localizzare subito. Poco oltre il negozio di curiosità c'era un caffè, con alcuni
+
+tavolini all'aperto alla maniera continentale, e a uno di questi tavolini
+
+sedeva davanti a un liquore verde un individuo dall'aria bizzarra con
+
+capelli lunghissimi e un altissimo colletto o cravatta. Ho detto che l'identificazione storica
+
+e geografica conta poco in questo caso; e il
+
+lettore può, se gli aggrada, rivestire questo strano episodio di qualunque foggia stramba o
+
+antiquata di fantasie di costume, poiché in verità la moda più recente
+
+è piena di curiosi ritorni e di mode che potrebbero essere o assai
+
+vecchie o assai nuove. L'uomo dal colletto poteva essere qualche eccentrico
+
+contemporaneo o creazione di Balzac; poteva del pari [[Well|bene]] essere uno
+
+studente d'arte d'oggi, con le vedute più futuriste ma i favoriti più
+
+primo-vittoriani. La sua criniera di lunghi capelli era di un incredibile castano
+
+scuro che pareva un cremisi smorto piuttosto che ordinario rosso; la sua barba
+
+biforcuta era del medesimo innaturale colore e veniva messa in risalto dall'alta
+
+cravatta che era di un vivido verde-pavone. Il colore della
+
+cravatta variava, tuttavia, di giorno in giorno; a volte era di un verde
+
+più brillante quando lo spirito della [[spring|primavera]] gl'ispirava i [[songs|canti]]; a volte purpureo
+
+quando lamentava la ricca [[Tragedy|tragedia]] dei suoi amori; a volte del tutto
+
+nero quando aveva deciso che il [[Time|momento]] fosse davvero venuto di distruggere
+
+l'universo. Egli spiegava ai suoi amici di seguire senza
+
+esitare il filo dell'umore e del cielo del mattino, ma essi non gli
+
+raccomandarono mai una cravatta che non contrastasse efficacemente con la barba.
+
+Poiché costui non era altri che il poeta [[Sebastian]], i cui versi contavano
+
+tanto nel movimento rivoluzionario del momento.
+
+La principessa, naturalmente, era del tutto ignara della sua [[Identity|identità]], e lo
+
+avrebbe oltrepassato senza alcun commento particolare oltre a una disapprovazione della sua
+
+cravatta. Ma egli tornò alla sua attenzione e vi rimase a causa
+
+delle condizioni curiosamente diverse in cui ella lo vide solo un'ora o
+
+due più tardi, quando i negozi e le fabbriche ebbero chiuso i battenti e riversato
+
+fuori le loro popolazioni. Quando ella ripassò per la strada
+
+tranquilla, non era più tranquilla. Era specialmente il contrario di tranquilla nei
+
+pressi del caffè dove lo straniero aveva bevuto il
+
+liquore verde, e se l'automobile ora procedeva lenta, era per la
+
+difficoltà di farsi strada attraverso una folla sempre più fitta. Poiché
+
+l'individuo dai lunghi capelli e dalla cravatta stava ora ritto sul tavolino del caffè
+
+e declamava quelli che parevano frammenti alterni di prosa e di versi,
+
+con alcuni tipi intermedi moderni difficili da definire. Ella giunse giusto in
+
+[[Time|tempo]], tuttavia, per udire la fine dell'ormai familiare cantilena o motto
+
+rimato: «Come Dio [[Alone|solo]] è più grande degli dèi, Come ogni [[Stars|stella]] si dissolve
+
+nell'unico sole, Le parole son molte, ma la Parola è una.
+
+«Ma la Parola non varcherà le mie labbra, né quelle dei Quattro Custodi della
+
+Parola che già la conoscono, finché la prima parte dell'opera non sarà stata
+
+compiuta. Quando gl'impotenti si saranno levati contro i potenti, quando
+
+i poveri si saranno levati al di sopra dei ricchi, quando i deboli si saranno levati e mostrati
+
+più forti dei forti, quando...»
+
+In quel momento egli e i suoi uditori si accorsero d'improvviso del sobrio
+
+ma elegante veicolo che spingeva la prua come una barca al di sopra delle
+
+onde popolari, e del volto alquanto altero che appariva al di sopra di
+
+esso, giusto dietro il volto ligneo dell'autista. Quasi tutti i presenti
+
+riconobbero la dama e vi fu un improvviso movimento e arresto, come
+
+d'imbarazzo, ma il poeta ritto sul tavolino assunse un nuovo
+
+atteggiamento di [[Sublime|sublime]] impudenza e gridò forte: «Ma quant'è duro per
+
+la bruttezza levarsi contro la [[Beauty|bellezza]]. E noi siamo una brutta genìa!»
+
+E la principessa proseguì in corsa in uno stato di collera montante.

@@ -154,7 +154,7 @@ hours in a parlour with an absent-minded tiger?"
 
 # [[thursday]] — Capitolo 14 (parte 1)
 
-                         CAPITOLO XIV
+CAPITOLO XIV
 
                     I SEI FILOSOFI
 

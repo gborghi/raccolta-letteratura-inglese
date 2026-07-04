@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/don-quixote-(chesterton)">Don Quixote</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/don_quixote/chapter_19">‹ Chapter 19</a><a class="ex-next" href="/testi/chesterton/atomized/don_quixote/chapter_02/part_01">part 01 ›</a></div>
@@ -365,3 +367,142 @@ could see, or would probably ever understand.
 -^-
 
 END
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/don-quixote-(chesterton)">Don Quixote</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/don_quixote/chapter_19">‹ Chapter 19</a><a class="ex-next" href="/testi/chesterton/atomized/don_quixote/chapter_02/part_01">part 01 ›</a></div>
+</nav>
+<nav class="excerpt-children">
+<div class="excerpt-children-label">In questa sezione</div>
+<ul><li><a href="/testi/chesterton/atomized/don_quixote/chapter_20/part_01">Part 1</a></li><li><a href="/testi/chesterton/atomized/don_quixote/chapter_20/part_02">Part 2</a></li><li><a href="/testi/chesterton/atomized/don_quixote/chapter_20/part_03">Part 3</a></li></ul>
+</nav>
+
+CAPITOLO XIX
+
+IL RITORNO DI [[Don Quixote|DON QUIXOTE]]
+
+Un giorno, forse, si racconterà la storia delle avventure del nuovo [[Don Quixote|Don Chisciotte]] e del nuovo Sancho Panza, mentre vagavano per le tortuose strade d'Inghilterra. Dal punto di vista della popolazione fredda e satirica, la storia era piuttosto quella del procedere dell'hansom, attraverso scene dove gli hansom assai raramente compaiono. Fu forse un procedere senza precedenti attraverso radure boschive e per lande desolate; e, come metodo di viaggio scelto da un cavaliere e dal suo scudiero, nuovo perfino negli annali della cavalleria. Ma qualche cronista tumultuosamente romantico potrà ancora dare qualche resoconto di come essi tentassero in vari modi di usare il veicolo per la difesa e la consolazione degli oppressi. Di come dessero passaggi ai vagabondi e giri ai bambini; di come trasformassero la carrozza in un chiosco del caffè a Reading e in una tenda nella Piana di Salisbury. Di come la carrozza figurasse come [[Machine|cabina]] da bagno nel terribile fatto di Worthing. Di come fosse considerata dai semplici calvinisti della Frontiera come un pulpito ambulante, con un posto in basso per il cantore che intonava i salmi e un posto in alto per il ministro che predicava, cosa che il signor Douglas Murrel si diede a fare con grande unzione ed edificazione. Di come il signor Douglas Murrel organizzasse una serie di conferenze storiche del signor Herne dall'alto della carrozza, e le assecondasse con commenti e spiegazioni, facendo del giro di conferenze un vero e proprio [[success|successo]] finanziario con metodi forse non invariabilmente rispettosi del conferenziere. Ma benché possano esservi stati momenti in cui lo scudiero difettava di una completa serietà, è probabile nel complesso che facessero un gran bene. Si misero nei guai con la polizia, cosa in sé quasi un segno di santità; ebbero a azzuffarsi con un buon numero di persone nella vita privata, ma per lo più con persone che avevano un gran bisogno d'essere azzuffate. E Herne, almeno, era del tutto convinto della seria utilità sociale di questa linea d'attacco. Uomo più triste e concepibilmente perfino più saggio, ebbe molti lunghi colloqui con il suo amico, nei quali non cessava mai di elaborare la Difesa di [[Don Quixote|Don Chisciotte]] e la necessità del suo reale ritorno. Uno fu particolarmente memorabile: ebbe luogo mentre sedevano sotto una siepe negli alti sentieri del Sussex.
+
+«Dicono che io sono indietro coi tempi», disse Herne, «e che vivo nei giorni che [[Don Quixote|Don Chisciotte]] sognava. Sembrano dimenticare che essi stessi sono almeno trecento anni indietro coi tempi e vivono nei giorni in cui Cervantes sognava [[Don Quixote|Don Chisciotte]]. Vivono ancora nel [[Renaissance|Rinascimento]]; in ciò che Cervantes naturalmente considerava la Nuova Nascita. Ma io dico che un bimbo che ha trecento anni sta già facendosi avanti negli anni. È [[Time|ora]] che rinasca.»
+
+«Deve rinascere», chiese Murrel, «come un cavaliere errante medievale?»
+
+«Perché no?», chiese l'altro, «se l'uomo del [[Renaissance|Rinascimento]] rinacque come un antico greco? Cervantes riteneva che il [[Romance|Romanticismo]] stesse morendo e che la Ragione potesse ragionevolmente prenderne il posto. Ma io dico che nel nostro [[Time|tempo]] è la Ragione a morire, in quel senso; e la sua vecchiaia è in verità meno rispettabile del vecchio [[Romance|romanticismo]]. Vogliamo tornare all'attacco più semplice e diretto. Ciò che ora vogliamo è qualcuno che creda davvero nell'assalire i giganti.»
+
+«E che riesce ad assalire i mulini a vento», rispose Murrel.
+
+«Hai mai riflettuto», disse il suo amico, «su quale buona cosa sarebbe stata se avesse fracassato i mulini a vento? Da quel che ora so della [[history|storia]] medievale, direi che il suo unico errore fu di assalire i mulini invece dei mugnai. Il mugnaio era l'intermediario del medioevo. Era il principio di tutti gli intermediari delle epoche moderne. I suoi mulini erano il principio di tutti i mulini e le manifatture che hanno oscurato e degradato la vita moderna. Sicché perfino Cervantes, in un certo senso, scelse un esempio contro se stesso. E lo stesso vale ancor più per gli altri esempi. [[Don Quixote|Don Chisciotte]] liberò un mucchio di prigionieri che erano soltanto galeotti. Oggigiorno sono per lo più coloro che sono stati ridotti in miseria a essere incarcerati, e coloro che li hanno derubati a essere liberi. Non sono sicuro che l'errore sarebbe poi così errato.»
+
+«Non credi», chiese Murrel, «che le cose moderne siano troppo complicate per essere affrontate in un modo così semplice?»
+
+«Io credo», replicò Herne, «che le cose moderne siano troppo complicate per essere affrontate se non in un modo semplice.»
+
+Si [[Rose|levò]] in piedi e passeggiò avanti e indietro sulla [[Road|strada]] con tutta la sognante energia del suo prototipo. Sembrava sforzarsi di strappare da sé il proprio vero significato.
+
+«Non vedi», gridò, «questa è la morale di tutta la faccenda. Tutto il vostro macchinario è divenuto tanto disumano da essere divenuto naturale. Nel divenire una seconda [[Nature|natura]], è divenuto remoto e indifferente e crudele come la [[Nature|natura]]. Il Cavaliere cavalca ancora una volta nella foresta. Solo che è smarrito fra le ruote invece che fra i boschi. Avete costruito il vostro sistema morto su scala così vasta che voi stessi non sapete come o dove colpirà. È questo il [[Paradox|paradosso]]! Le cose sono divenute incalcolabili a forza di essere calcolate. Avete legato gli uomini a strumenti così giganteschi che non sanno su chi calino i colpi. Avete giustificato l'[[nightmare|incubo]] di [[Don Quixote|Don Chisciotte]]. I mulini _sono_ davvero giganti.»
+
+«C'è forse un metodo, in tal caso», domandò l'altro.
+
+«Sì; e tu l'hai trovato», replicò Herne. «Tu non ti sei affannato coi sistemi, quando hai visto che un medico pazzo era più pazzo del pazzo. Sei tu a guidare e io a seguire. Tu non sei Sancho Panza. Tu sei l'altro.»
+
+Tese la mano con qualcosa dell'antico gesto.
+
+«Ciò che dissi sul seggio del giudizio lo ripeto qui sul ciglio della strada. Tu sei l'unico di loro rinato. Tu sei il cavaliere che è tornato.»
+
+Douglas Murrel fu bruscamente e orribilmente confuso.
+
+Quel complimento era forse l'unica cosa che avrebbe potuto pungolarlo a parlare di certe faccende; poiché sotto tutta questa buffoneria egli aveva qualcosa di più della reticenza della sua razza. Comunque, ebbe un'aria a disagio e disse: «Senti, non devi darmi merito così. In questa scena non recito la parte di Galahad. [[Hope|Spero]] di aver fatto del mio meglio per il vecchio Honkey; ma quella ragazza mi piaceva; mi piaceva parecchio.»
+
+«Gliel'hai detto?», chiese Herne alla sua maniera diretta.
+
+«Non potevo [[Well|bene]]», replicò l'altro, «proprio mentre lei era in una specie d'obbligo verso di me.»
+
+«Mio caro Murrel», gridò Herne con impulsiva semplicità, «questo è del tutto donchisciottesco!»
+
+Murrel balzò in piedi e mandò un unico scoppio di risa.
+
+«Hai fatto la migliore battuta in trecento anni», disse.
+
+«Non la vedo», disse Herne pensoso. «Si ritiene generalmente possibile fare una battuta e non vederla? Ma quanto a ciò che hai detto, non credi che potrebbe esserci una prescrizione che ti concede un nuovo inizio? Ti piacerebbe scendere — scendere di nuovo verso ovest?»
+
+La fronte di Murrel parve annodarsi in un nuovo imbarazzo. «La [[Truth|verità]] è che ho piuttosto evitato quei paraggi — e l'argomento. Pensavo che tu —»
+
+«So cosa intendi», disse Herne. «Per lungo [[Time|tempo]] a stento riuscivo a guardare fuori da una [[Window|finestra]] rivolta da quella parte. Volevo volgere le spalle al [[Wind|vento]] d'ovest; e i tramonti mi bruciavano come ferri roventi. Ma un uomo si fa più calmo col passare degli anni, anche se non si fa più allegro. Non credo che potrei andare alla [[house|casa]] stessa; ma sarei davvero lieto di sentire notizie di — chiunque.»
+
+«Oh, se ci andiamo», disse Murrel allegramente, «m'incarico io di entrare a informarmi.»
+
+«Vuoi dire», chiese Herne quasi timidamente, «entrare nella — Abbazia di Seawood?»
+
+«Sì», rispose Murrel brevemente. «Oserei dire che siamo sulla stessa barca. Potrei trovare l'altra [[house|casa]] un poco più ardua.»
+
+Portarono a termine il resto del loro programma per tacito, per non dire taciturno, accordo; e così accadde che, prima di aver scambiato molte altre parole, giunsero effettivamente in vista di tutto ciò che per tanto tempo non avevano visto e avevano evitato di vedere; il sole della sera sugli alti prati di Seawood e i ripidi tetti gotici fra gli alberi.
+
+Di certo non ebbero bisogno di parole di spiegazione quando [[Michael]] Herne si fermò e guardò verso l'amico, come invitandolo a proseguire. Murrel annuì e andò rapidamente col suo passo leggero e agile su per il ripido sentiero boschivo e oltre lo scavalcasiepe e scese nel viale che conduceva al portale principale. I giardini parevano press'a poco come un tempo, ma un poco più curati e, in qualche modo indefinibile, più quieti; ma il gran cancello, che era sempre stato aperto, era chiuso.
+
+Monkey non era un mistico; ma questo fatto lo colpì con un funebre brivido che aveva in sé qualcosa di misticismo. Quell'elemento incongruo crebbe in lui in qualche indescrivibile modo subconscio mentre si avvicinava ai grandi portoni e, per la prima [[Time|volta]] in vita sua, vi bussò e suonò una gran campana di ferro. Si sentì piuttosto come se fosse in [[A Dream|un sogno]]; e tuttavia come se fosse prossimo a qualche più strano risveglio. Ma per quanto bizzarre fossero le sue informi attese, non erano così bizzarre come ciò che trovò.
+
+Circa mezz'ora dopo uscì dal grande portone, che fu chiuso dietro di lui, scavalcò lo scavalcasiepe e scese quietamente per il sentiero verso il suo amico; ma già mentre si avvicinava, il suo amico avvertì che c'era qualcosa di strano nella sua quiete. Si sedette sul ciglio e ruminò per un istante; poi disse: «Una cosa straordinaria è accaduta all'Abbazia di Seawood. Non è stata esattamente bruciata al suolo, perché in qualche modo sembra essere ancora là, e ha un'aria piuttosto più [[Well|ben]] conservata di prima. Non è stata, in alcun senso materiale o meteorologico, colpita da un [[Lightning|fulmine]] dal cielo. E tuttavia non sono sicuro... comunque una catastrofe assolutamente sbalorditiva e fragorosa è caduta su quell'Abbazia.»
+
+«Che cosa vuoi dire? Che cosa è accaduto all'Abbazia?»
+
+«È diventata un'Abbazia», disse Murrel gravemente.
+
+«Che cosa vuoi dire?», gridò l'altro, protendendosi in avanti con improvvisa ansia.
+
+«Intendo ciò che dico. È diventata un'Abbazia. Ho appena parlato con l'Abate. Mi ha dato un bel po' di notizie, malgrado la sua clausura monastica; poiché conosce parecchi dei nostri vecchi amici.»
+
+«Vuoi dire che è un monastero. Che notizie ti ha dato?»
+
+«Era pieno di pettegolezzi mondani», disse Murrel con la sua voce [[Melancholy|malinconica]]. «Cominciò tutto con la morte di Lord Seawood circa un anno fa. La proprietà passò alla sua — alla sua erede, la quale a quanto pare è 'passata dall'altra parte', come si suol dire. È diventata cattolica; e per giunta un tipo del tutto straordinario di cattolica. Ha ceduto tutta questa vasta proprietà al mio amico l'Abate e ai suoi allegri compagni; ed è scesa a lavorare come [[Nurse|infermiera]] in un qualche insediamento cattolico giù ai Docks; Limehouse, credo, dove i cinesi strangolano le loro figlie secondo i Dodici Immortali Principi.»
+
+Il pallido bibliotecario era balzato in piedi con tutta l'energia della cavalleria errante; ma il suo sguardo era rivolto lontano dalle torri di Seawood.
+
+«Non lo comprendo ancora bene», disse, «ma è tutto diverso. È difficile ma è diverso. È difficile perché sembra strano...»
+
+«Sembra strano», affermò Murrel, «scendere a Limehouse e chiedere a uno strangolatore cinese dell'Onorevole Rosamund Severne. Ma devo dirti, sull'autorità dell'Abate, che lei dichiara che il suo nome non è Rosamund Severne. Se ho ben capito, potrai trovarla chiedendo della signorina [[smith|Smith]].»
+
+E a quel punto ancora una volta la follia colpì il bibliotecario di Seawood come un [[Lightning|fulmine]] dal cielo; e scavalcando una siepe si mise a correre verso oriente in direzione di una pineta che gli attraversava il cammino, la quale si poteva presumere fosse alle porte di Limehouse e offrisse occasioni per informarsi della signorina [[smith|Smith]].
+
+Fu poco più di tre mesi dopo che il procedere dei lunatici giunse alla sua meta stabilita, e con esso questa storia. Il suo passo era mutato dal saltellare a qualcosa di più simile all'arrancare e all'infilarsi nei labirinti dei più bassi quartieri di Limehouse. Ma ebbe fine una [[Night|notte]] in cui una sorta di verde nebbia crepuscolare pendeva come i fumi di qualche droga di stregoneria, mentre svoltava in una fenditura di strada angusta, all'angolo della quale pendeva una lanterna di carta dipinta. Un poco più in giù per l'oscuro budello risplendeva un'altra lanterna; che pareva meno cinese; e quando le si fece vicino vide che era una gabbia di piombo munita di grandi frammenti di vetro colorato, il cui rozzo profilo mostrava una figura di San Francesco con un ardente angelo rosso dietro di lui. In qualche modo questa infantile trasparenza pareva una parola d'ordine e un segnale di tutto ciò che egli aveva un tempo cercato di fare su grande scala, o Olive Ashley su piccola scala; e tuttavia con qualche segreta e viva differenza; che la lampada era accesa dall'interno.
+
+A tal punto quella grande sete di colore, che aveva colmato la sua vita, fu nutrita come da un calice di fiamma, da quel segno insignificante e in quel luogo sordido, che a stento lo sorprese di trovarsi al cospetto di lei, che stava incoronata nei suoi [[Dreams|sogni]] come nel [[Melodrama|melodramma]] e nella [[Tragedy|tragedia]] di altri giorni. Un abito scuro e diritto le pendeva dal collo ai talloni, ma era di foggia normale; e i suoi capelli rossi somigliavano ancora a una [[Crown|corona]].
+
+Con quella bizzarra e goffa prontezza, che apparteneva a lui [[Alone|soltanto]], disse il suo pensiero più semplice in parole schiette: «Sei un'[[Nurse|infermiera]] e non una monaca.»
+
+Ella sorrise. «Sai poco delle monache, se credi che quella sia la fine naturale di una storia — una storia come la nostra. Credimi, non c'è nulla di vero in quella sentimentale idea che essere monaca sia un ripiego.»
+
+«Vuoi davvero dire», disse lui, e poi si fermò.
+
+«Voglio dire», disse lei, «che non ho mai del tutto smesso di pensare che potrei avere la fortuna di essere il ripiego. Suppongo sia il genere di cosa che è stata detta parecchie volte... Credo di aver sempre pensato che mi avresti trovata.»
+
+Dopo una momentanea pausa proseguì: «Non abbiamo bisogno di ricordare quel vecchio litigio; credo che sia sempre stato qualcosa di molto migliore e di molto peggiore di un litigio. Mio padre aveva meno colpa di quanto tu credessi; più colpa di quanto io credessi; ma non siamo né tu né io a giudicare. Ma non fu lui a commettere il vero torto da cui sono sgorgati tutti questi torti.»
+
+«So cosa intendi», replicò lui. «Avevo piuttosto cominciato a pensarlo anch'io, quanto più leggevo di [[history|storia]]. Ma in tutta quella [[history|storia]] non c'è nulla di così nobile quanto te e quanto ciò che hai fatto. Sei il più grande dei personaggi storici; e i dotti potranno giungere a chiamarti una leggenda.»
+
+«Fu Olive a comprenderlo per prima», disse lei gravemente. «È molto più rapida di me e vide tutto in un lampo; un lampo di luce lunare, come disse lei. Io potei soltanto andarmene e riflettere sulle cose lentamente e stupidamente da sola; ma alla fine ci arrivai.»
+
+«Vuoi dire», chiese [[Michael]] lentamente, «che anche Olive Ashley — ci è arrivata?»
+
+«Sì», rispose lei, «e la cosa curiosa è che John Braintree non pare affatto darsene pensiero. Almeno molti la troverebbero una cosa curiosa; ora sono sposati e sembrano concordare quasi su ogni cosa. Mi [[Wonder|domando]] quanto ci fosse davvero su cui le persone buone potessero discordare in quei vecchi tempi litigiosi.»
+
+«Lo so», rispose lui. «Sembra che tutti siano sposati. E ciò mi ha fatto sentire piuttosto smarrito e solo nell'ultimo mese o giù di lì.»
+
+«Perfino Monkey è sposato, ho sentito», disse lei. «Sembra la fine del mondo. Ma forse è il principio del mondo. Di una cosa puoi essere certo, benché molti ne riderebbero. Ogni volta che i [[Monks|monaci]] tornano, i matrimoni torneranno.»
+
+«È tornato in quella cittadina di mare e ha sposato la figlia del dottor Hendry», spiegò [[Michael]] Herne piuttosto vagamente. «Ci siamo separati per una sorta di silenzioso consenso all'Abbazia di Seawood ed egli è andato a ovest e io a est. Dovevo andare a cercarti [[Alone|solo]]: ed ero molto [[Alone|solo]].»
+
+«Dici "ero"», disse lei con un sorriso; e d'un tratto si mossero l'uno verso l'altra e s'incontrarono come si erano incontrati nel [[Garden|giardino]] tanto tempo prima — in un [[Silence|silenzio]] colmo di molte cose; un [[Silence|silenzio]] che egli ruppe dicendo d'un tratto, alla sua maniera brusca e goffa: «Suppongo di essere un eretico.»
+
+«Vedremo tutto questo», disse lei con serena magnificenza.
+
+I pensieri di Herne tornarono bruscamente e distrattamente all'antica ingarbugliata discussione fra lui e Archer sull'eresia albigese e su che cosa dovesse seguire alla [[conversion|conversione]] da essa; rimase un istante con la mente vagante. Poi in quella stretta via della lanterna colorata accadde una cosa nuova e sorprendente; qualcosa che non era mai accaduto in tutte le sottosopra vicende della sua carriera storica. [[Michael]] Herne rise. Per la prima [[Time|volta]] in vita sua vide seriamente una battuta e deliberatamente la fece. È tipico di lui che la sua unica battuta fosse una che nessun altro poteva vedere, o probabilmente avrebbe mai compreso.
+
+«Senti... _iit in matrimonium._»
+
+-^-
+
+FINE

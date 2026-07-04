@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/fancies-versis-fads-(chesterton)">Fancies Versis Fads</a> › <a href="/testi/chesterton/atomized/fancies_versis_fads/chapter_01_manufacturers">Chapter 01 MANUFACTURERS</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/fancies_versis_fads/chapter_01_manufacturers/part_51">‹ part 51</a><a class="ex-next" href="/testi/chesterton/atomized/fancies_versis_fads/chapter_01_manufacturers/part_53">part 53 ›</a></div>
@@ -119,3 +121,118 @@ of the Christian martyrs about Nero, because of the legal fiction
 that the Imperator was only a military general.  These fictions do not
 prevent imaginative persons from writing books like the "[[Apocalypse]]"
 or books like "Gulliver's Travels."
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/fancies-versis-fads-(chesterton)">Fancies Versis Fads</a> › <a href="/testi/chesterton/atomized/fancies_versis_fads/chapter_01_manufacturers">Chapter 01 MANUFACTURERS</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/fancies_versis_fads/chapter_01_manufacturers/part_51">‹ part 51</a><a class="ex-next" href="/testi/chesterton/atomized/fancies_versis_fads/chapter_01_manufacturers/part_53">part 53 ›</a></div>
+</nav>
+
+Di tal fatta era il partito [[anti-puritan|anti-puritano]]; e il lettore potrà apprenderne
+di più dall'autore di «The Glass of Fashion».
+Là potrà farsi un'idea generale di come, senza i Puritani, l'Inghilterra
+sarebbe stata abbandonata alla mera scurrilità e licenza; devastata dalle
+bestemmie di George Herbert; rotolata nel fango del vile
+materialismo di Vaughan; solleticata a un riso sguaiato dal facile
+cinismo e dalle familiarità da taverna di Crashaw e Traherne.
+Ma la stessa tradizione dei Cavalieri proseguì nell'età seguente,
+e anzi nel secolo seguente; e il critico deve estendere la sua
+condanna fino a includere le brutali buffonerie del vescovo Ken o la gaia
+e spensierata mondanità di Jeremy Collier. Anzi, deve estenderla
+fino a comprendere gli ultimi Tories che serbarono la tradizione dei Giacobiti;
+l'allegria spensierata del decano Swift, la dissipazione senza Dio
+del dottor Johnson. Nessuno di questi uomini fu Puritano; tutti quanti
+furono strenui avversari del [[Puritanism|puritanesimo]] politico e religioso.
+La [[Truth|verità]] è che la letteratura inglese reca una testimonianza assai continua e
+splendida del fatto che l'Inghilterra non fu semplicemente puritana.
+Ben Jonson in «Bartholomew Fair» parlò per la maggior parte degli inglesi,
+e certamente per la maggior parte dei poeti inglesi. L'anti-[[Puritanism|puritanesimo]] fu la sola
+cosa comune a Shakespeare e a Dryden, a Swift e a Jonson,
+a Cobbett e a Dickens. E il pregiudizio storico in senso contrario è venuto,
+non dalla superiorità puritana, ma semplicemente dal [[success|successo]] puritano.
+Fu il trionfo politico del partito, nella Rivoluzione e
+nel conseguente industrialismo commerciale, a soffocare la testimonianza
+del popolo e dei poeti. La lealtà svanì in poche
+[[songs|canzoni]] popolari; i Cromwelliani non ebbero mai alcuna [[Song|canzone]] popolare da veder morire.
+La [[history|storia]] inglese si è allontanata dalla letteratura inglese. La nostra cultura,
+come la nostra agricoltura, è a un tempo assai indigena e assai trascurata.
+E poiché tale trascuratezza è deplorevole, non fosse che come trascuratezza della letteratura,
+mi soffermerò in conclusione sul periodo posteriore, due generazioni
+dopo [[Milton]], quando l'ultimo dei veri Tories bevve vino con
+Bolingbroke o tè con Johnson.
+
+La [[Truth|verità]] che sfugge riguardo ai Tories di questa tradizione
+è che erano ribelli. Avevano le virtù dei ribelli;
+avevano anche i vizi dei ribelli. Swift aveva il furore di un [[Rebel|ribelle]];
+Johnson la ruvidezza di un [[Rebel|ribelle]]; Goldsmith la morbosa sensibilità di
+un [[Rebel|ribelle]]; e Scott, al termine del processo, qualcosa della [[Despair|disperazione]]
+e della mera retrospezione di un [[Rebel|ribelle]] sconfitto. E la scuola Whig
+di [[Literary Criticism|critica letteraria]], come la scuola Whig di [[history|storia]] politica,
+ha omesso o mancato questa [[Truth|verità]] sul loro conto, perché necessariamente
+ometteva la stessa esistenza della cosa contro cui essi si ribellavano.
+Per Macaulay e Thackeray e la media della liberalità vittoriana
+la Rivoluzione del 1688 fu semplicemente un'emancipazione, la sconfitta
+degli Stuart fu semplicemente una caduta di tirannia e superstizione;
+la politica del Settecento fu semplicemente un progresso
+che conduceva alla pura e felice politica dell'Ottocento;
+la [[Freedom|libertà]] che lentamente si allargava, eccetera, eccetera. Questo rende l'atteggiamento
+dei ribelli Tory del tutto privo di senso; sicché i critici in questione
+sono stati costretti a rappresentare alcuni dei più grandi inglesi mai
+vissuti come una mera processione di pazzi e di ridicoli eccentrici.
+Ma questi ribelli, a torto o a ragione, possono essere compresi soltanto in
+rapporto al reale potere contro cui si ribellavano;
+e le loro [[titanic|titaniche]] figure si tracciano meglio alla luce
+del [[Lightning|lampo]] che essi sfidavano. Quel potere era una cosa positiva;
+era tutt'altro che una mera negativa emancipazione di tutti.
+Era definito quanto la monarchia che aveva sostituito; poiché fu
+un'aristocrazia a sostituirla. Era l'oligarchia delle grandi
+famiglie Whig, una consorteria davvero assai chiusa, che aveva il Parlamento
+per forma legale, ma la nuova ricchezza per sostanza essenziale.
+Ecco perché questi Giacobiti attardati appaiono più pittoreschi quando
+sono contrapposti ad alcuni dei principi del nuovo ordine aristocratico.
+Ecco perché Bolingbroke resta nella [[Memory|memoria]], ritto nel suo palco alla
+rappresentazione del «Cato», scagliando la sua sfida a Marlborough.
+Ecco perché Johnson resta rigido nel suo magnifico disdegno,
+scagliando la sua sfida a Chesterfield. Churchill e Chesterfield
+non erano uomini da poco, né per personalità né per potere; erano
+brillanti ornamenti del trionfo del mondo. Rappresentavano
+la classe dirigente inglese quando essa poteva davvero governare; la moderna
+plutocrazia quando meritava ancora di essere chiamata anche aristocrazia.
+E tutto il senso della posizione di questi uomini di lettere è
+che essi negavano e denunciavano qualcosa che cresceva
+ogni giorno in prestigio e prosperità; qualcosa che sembrava avere,
+e in effetti aveva, non solo il presente ma il futuro dalla sua parte.
+La sola cosa che non aveva dalla sua parte era l'antica tradizione
+del popolo inglese. Quel popolo veniva sempre più
+tormentato da sfratti e recinzioni, affinché le sue antiche terre comuni
+e i possedimenti dei piccoli proprietari fossero aggiunti agli enormi latifondi
+dell'onnipotente aristocrazia. Uno dei ribelli Tory ha egli stesso reso
+immortale quell'infamia nei grandi versi del «Deserted Village».
+Almeno, è immortale nel senso che ormai non potrà mai andar perduto
+per gli [[lovers|amanti]] della letteratura inglese; ma persino questa testimonianza fu per
+lungo [[Time|tempo]] perduta al pubblico per sottovalutazione e trascuratezza.
+In tempi recenti il «Deserted Village» fu proprio un
+poema abbandonato. Ma di ciò avrò forse occasione di parlare più avanti.
+Il punto per il momento è che la psicologia di questi uomini,
+nel suo male come nel suo [[Well|bene]], va interpretata non tanto
+in termini di una lealtà attardata quanto di una rivoluzione frustrata.
+Alcuni di loro avevano, certo, elementi di stravaganza e morbosità
+peculiari dei loro caratteri; ma divennero dieci volte più
+stravaganti e più morbosi man mano che le loro anime si gonfiavano dentro di loro al
+[[success|successo]] degli spudorati e all'insolenza dei fortunati.
+[[Doubt|Dubito]] che qualcuno abbia mai provato tanta amarezza contro gli Stuart.
+Ora, questo malinteso ha prodotto una lacuna assai deplorevole nella
+[[Literary Criticism|critica letteraria]]. I capolavori di questi uomini sono rappresentati
+come assai più contorti o bislacchi o incoerenti di quanto realmente fossero,
+perché il loro obiettivo non è visto obiettivamente. È come giudicare
+i deliri di qualche predicatore puritano senza tener conto del fatto
+che il Papa o il [[King|Re]] avessero mai posseduto alcun potere.
+Ignorare il fatto delle grandi famiglie Whig a causa della finzione
+legale di un libero Parlamento è come ignorare i sentimenti
+dei martiri cristiani verso Nerone, a causa della finzione legale
+che l'Imperatore fosse soltanto un generale militare. Queste finzioni non
+impediscono alle persone dotate di immaginazione di scrivere libri come l'«[[Apocalypse|Apocalisse]]»
+o libri come i «Gulliver's Travels».

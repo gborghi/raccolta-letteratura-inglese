@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/don-quixote-(chesterton)">Don Quixote</a> › <a href="/testi/chesterton/atomized/don_quixote/chapter_15">Chapter 15</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/don_quixote/chapter_15/part_03">‹ part 03</a><a class="ex-next" href="/testi/chesterton/atomized/don_quixote/chapter_15/part_05">part 05 ›</a></div>
@@ -129,3 +131,128 @@ believe they did, because I tipped them the wink afterwards.
 And then I did a bunk before the bobby could get a move on;
 and came away on the cab, which runs faster than a bobby does anyhow.
 And there you are.  There, so to speak, you bally [[Well|well]] are."
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/don-quixote-(chesterton)">Don Quixote</a> › <a href="/testi/chesterton/atomized/don_quixote/chapter_15">Chapter 15</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/don_quixote/chapter_15/part_03">‹ part 03</a><a class="ex-next" href="/testi/chesterton/atomized/don_quixote/chapter_15/part_05">part 05 ›</a></div>
+</nav>
+
+«Come diamine hai fatto a trovarlo?» gridò lei, in modo assai
+contraddittorio; poiché aveva inteso soltanto che egli lo cercasse,
+tutt'al più, nel negozio più vicino della città più vicina.
+Ma quel grido [[Alone|soltanto]] rivelò il pessimismo subconscio che era
+sotteso a tutti i suoi affetti archeologici; ella non aveva creduto
+che alcuna delle cose morte che desiderava potesse tornare.
+Quando ne vide una, essa coronò e completò quel ristabilimento
+di fiducia che ella aveva provato quando Herne aveva rimproverato Archer.
+Entrambe queste cose in qualche modo risuonavano di realtà. Tutti i costumi
+e i cerimoniali che erano stati ripristinati potevano dopotutto essere,
+come Murrel aveva suggerito, una mera continuazione della recitazione.
+Ma i Colori da Miniatura di Hendry erano una cosa reale; reale
+quanto una bambola di legno amata nella stanza dei bimbi o perduta nel [[Garden|giardino]].
+Dopo quel momento ella non ebbe mai più un [[Doubt|dubbio]] sulla propria parte nel
+grande [[debate|dibattito]].
+
+Pochi in verità, tuttavia, in quella variopinta folla erano propensi
+a condividere le emozioni della signorina Ashley riguardo al pacco. Nessun altro
+poteva avvertire il contrasto tra Monkey mandato fuori piuttosto
+come un fattorino e il suo ritorno come un cavaliere errante. Agli
+altri, ormai nel pieno slancio delle più maestose nuove mode,
+il povero Monkey non appariva affatto come un cavaliere errante. Per quanto
+potessero variare nell'apprezzamento intellettuale del
+cambiamento, le loro membra si erano abituate alla caduta di panneggi più liberi
+e i loro occhi ai colori di folle più gaie.
+Non pensavano più tanto che il proprio abito fosse pittoresco;
+pensavano semplicemente che il suo abito fosse fuori quadro.
+Non era solo una macchia sul paesaggio ma un ingombro nel traffico.
+Diede una pacca affettuosa al suo [[Horse|cavallo]], e quello strano [[Monster|mostro]]
+preistorico parve persino compiere movimenti goffi
+come se ricambiasse il suo affetto.
+
+«La cosa strana è,» disse Archer nel suo stile confidenziale ed enfatico
+al giovane squire che portava la [[Sword|spada]], «la cosa strana è che non riesce a
+_vedere_ di essere fuori posto. Sempre così difficile gestire i tizi
+che non riescono a _vedere_ quando sono fuori posto.»
+
+Ricadde in un cupo [[Silence|silenzio]], e in compagnia di tutti i suoi associati,
+si dispose ad ascoltare piuttosto nervosamente un dialogo che era
+già cominciato tra il nuovo arrivato e il potentato sul trono.
+Avevano qualche motivo di sentirsi nervosi; consapevoli com'erano
+di quanto questa assurda processione uscita da una farsa in tre atti
+dovesse essersi allargata attraverso la visione del visionario [[King|re]].
+Era tanto più allarmante quando l'incongruo Murrel insistette
+nel rivolgersi al trono con una civiltà alquanto burlesca,
+ma con un'apparente pertinacia d'intenzione. Pareva appellarsi
+al [[King|Re]] d'Armi, poiché quella persona ora esercitava le funzioni
+sia di Primo Ministro sia di Signore del Maniero, riguardo ai dettagli
+delle proprie recenti avventure; quelle peregrinazioni ai confini
+delle cose dove si era imbattuto nelle rovine di una carrozza da nolo.
+Archer udì le sue cortesi impertinenze collegarsi
+a poco a poco in un lungo soliloquio. Avrebbe potuto davvero essere
+un viaggiatore che narra i propri viaggi alla [[Court|corte]] di qualche favoloso [[King|re]].
+Ma quando Archer cominciò ad ascoltare un poco stancamente quali fossero le
+esperienze, perse ogni romantica illusione a loro riguardo.
+Monkey stava certamente raccontando una storia; una lunga storia; e una dannatamente
+sciocca storia, pensò Archer.
+
+Dapprima era andato in un negozio. Poi era andato in un altro negozio;
+o in un'altra parte dello stesso negozio. Poi era andato in un'[[house|osteria]].
+Così tipico di Monkey capitare prima o poi in un'[[house|osteria]],
+e scommetti prima piuttosto che poi; come se un gentiluomo
+non potesse farsi mandare tranquillamente in camera qualsiasi cosa volesse.
+Poi seguirono lunghe confuse conversazioni all'[[house|osteria]],
+compresa un'[[Imitation|imitazione]] di una barista d'alto bordo; quanto mai inopportuna
+in una simile occasione. Poi pareva fosse andato a fare una passeggiata,
+lo sa il cielo dove, e avesse parlato con un [[cabman|vetturino]], lo sa il cielo perché.
+Poi andò in qualche catapecchia in una città di mare e si cacciò nei
+guai con la polizia. Tutti sapevano naturalmente che Monkey era
+ghiotto di scherzi pratici; ma a rendergli giustizia, di solito non ti aveva
+annoiato con essi in seguito, per non parlare di [[Alone|farlo]] a questa lunghezza. Pareva
+avesse giocato un tiro a qualche dottore incaricato di qualche pazzo,
+così che non rinchiusero il pazzo ma soltanto il dottore.
+Peccato che non avessero spartito la differenza rinchiudendo Monkey.
+Ma che cosa mai avesse a che fare tutto ciò con Il Movimento
+e con le probabilità di battere Braintree e i Bolscevichi, Archer
+avrebbe assai voluto saperlo... Oh signore, la storia
+andava ancora avanti. Pareva esserci ora una ragazza dentro;
+e naturalmente questo poteva spiegare tutto, persino con un tipo
+come Monkey, che sempre giocava a fare lo scapolo scapestrato.
+Ma perché diamine stava riversando tutto ciò _adesso,_ quando erano
+proprio sul punto di cominciare le regolari formalità dello Scudo
+e della [[Sword|Spada]]? E perché il [[King|Re]] d'Armi ascoltava in quel modo,
+così fermo e quasi impietrito? Forse era gelato di rabbia.
+Forse si era [[Sleep|addormentato]].
+
+La maggior parte della compagnia in verità, compreso il giovane con la [[Sword|spada]],
+non era proprio così sensibile quanto il signor Archer riguardo al tono,
+il tono davvero giusto e migliore, adatto alle occasioni mondane.
+Non erano tanto seccati quanto quell'[[Artist|artista]] della vita per la discordia
+o il monologo di Monkey. Ma non ne erano più favorevolmente, o almeno
+più seriamente, impressionati. Alcuni cominciarono a sorridere,
+alcuni a ridere; benché avessero una certa aria di farlo con decoro,
+come se ridessero in chiesa. Nessuno aveva la minima idea di che cosa
+Murrel stesse parlando, o comunque perché ne stesse parlando.
+Ma coloro che lo conoscevano meglio erano un poco perplessi per l'ansiosa
+esattezza con cui stava raccontando la sua prolissa storia.
+E per tutto il [[Time|tempo]] il [[King|Re]] d'Armi sedeva immobile come una statua e
+nessuno sapeva se fosse mortalmente offeso o semplicemente sordo come una campana.
+
+«Vedete,» stava concludendo Murrel in uno stile disinvolto e confidenziale,
+che alcuni ritenevano privo di certi elementi della nobile prosa
+di Malory, «potete dire che erano tutti un dannato mucchio di mascalzoni;
+ma ci sono mascalzoni e mascalzoni; alcuni nascono mascalzoni,
+alcuni raggiungono la mascalzoneria e ad alcuni la mascalzoneria viene imposta,
+come dice il poeta. E mi parve che al povero vecchio Hendry la
+mascalzoneria fosse stata imposta piuttosto malamente, da una serie della più putrida
+sfortuna che si sia mai udita, e da un mucchio di sudici furfanti che lo rovinavano.
+Ma l'altro dottore era un mascalzone nato di natura, e amava
+la mascalzoneria per se stessa; così davvero non me ne importava un accidente se
+cacciavano il puzzone in una cella imbottita o no; ma non
+credo che l'abbiano fatto, perché in seguito feci loro l'occhiolino.
+E poi me la battei prima che il poliziotto potesse muoversi;
+e me ne venni via sulla carrozza, che comunque corre più veloce di un poliziotto.
+Ed ecco fatto. Ecco, per così dire, come [[Well|dannatamente]] stanno le cose.»

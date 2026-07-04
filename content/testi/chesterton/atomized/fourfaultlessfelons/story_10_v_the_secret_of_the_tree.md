@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/fourfaultlessfelons-(chesterton)">FourFaultlessFelons</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/fourfaultlessfelons/story_09_iv_the_disease_of_duodiapsychosis">‹ Story 09 Iv The Disease Of Duodiapsychosis</a><a class="ex-next" href="/testi/chesterton/atomized/fourfaultlessfelons/story_11_an_hour_harrington">Story 11 An Hour Harrington ›</a></div>
@@ -179,3 +181,178 @@ pausing for an explanation, if you're quite sure of what you say."
 He handed the telegram to the doctor, who read with his rapid glance the
 
 words: DON'T DO ANYTHING ABOUT W. W. TILL I COME. SHALL BE ROUND IN HALF
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/fourfaultlessfelons-(chesterton)">FourFaultlessFelons</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/fourfaultlessfelons/story_09_iv_the_disease_of_duodiapsychosis">‹ Story 09 Iv The Disease Of Duodiapsychosis</a><a class="ex-next" href="/testi/chesterton/atomized/fourfaultlessfelons/story_11_an_hour_harrington">Story 11 An Hour Harrington ›</a></div>
+</nav>
+
+V IL SEGRETO DELL'ALBERO
+
+I moventi dei semplici sono più sottili di quelli dei sottili. I
+
+primi non districano le proprie emozioni e il risultato è spesso più
+
+misterioso, tanto più che essi non tentano mai in seguito di risolvere il
+
+mistero. Enid era un carattere elementarissimo e inconsapevole, che non era mai
+
+stato prima gettato in un simile turbine di pensieri e sentimenti.
+
+E il suo primo sentimento, sotto quell'ultimo colpo, fu un primitivo sentimento
+
+umano: che per lei l'isolamento era giunto al termine. Aveva trovato
+
+qualcosa di più schiacciante e complicato di quanto potesse portare [[Alone|da sola]], e
+
+doveva avere un amico.
+
+Uscì perciò dritta dal portone e giù per la [[Road|strada]] a
+
+cercare un amico. Andò a cercare un ciarlatano, un intrigante, un [[Grotesque|grottesco]] e menzognero
+
+mistagogo, un uomo che aveva fatto a lei e ai suoi il torto più abominevole,
+
+e lo trovò proprio mentre entrava nella propria [[house|casa]], con la targa d'ottone
+
+sul davanti. Qualcosa d'impossibile a formularsi in parole le diceva che, in
+
+qualche modo oscuro, distorto, imperscrutabile, egli era dalla sua parte, e che
+
+sarebbe riuscito a ottenere qualunque cosa avesse scelto di tentare. Fermò il [[Villain|malvagio]]
+
+della sua strana storia e gli parlò con tutta naturalezza, come se fosse suo
+
+fratello.
+
+«Vorrei che tornasse da noi un momento», disse. «Ora è successa un'altra
+
+cosa spaventosa e non riesco a raccapezzarmi di
+
+nulla.»
+
+Egli si voltò prontamente e gettò un'occhiata acuta su per la strada.
+
+«Ah», disse, «allora la polizia è già arrivata.»
+
+Ella lo fissò senza parole per un momento, mentre una luce cominciava a poco a poco a
+
+farsi strada nel suo cervello vacillante.
+
+«Sapeva che stavano arrivando?» gridò; e poi, in un ultimo lampo universale,
+
+parve cogliere mille cose in una volta. Il prodotto combinato
+
+di tutte esse fu forse curioso. Poiché da lei proruppe soltanto
+
+l'espressione di un'incredula meraviglia: «Ma allora non è
+
+cattivo?»
+
+«Solo moderatamente», replicò. «Ma oso dire che ciò che ho fatto sarebbe
+
+considerato indifendibile. Era l'unica cosa che mi venisse in mente per salvarlo.
+
+Bisognava farla piuttosto in fretta.»
+
+Trasse un profondo respiro e le albeggiò a poco a poco, come
+
+qualcosa scorto in lontananza, un [[Memory|ricordo]] e un significato.
+
+«Ma sì, ora capisco», disse. «È stato proprio come ciò che fece, quando lo
+
+spinse via da sotto l'automobile.»
+
+«Temo di essere impetuoso», disse Judson, «e forse salto troppo presto.»
+
+«Ma in entrambe le occasioni», disse lei, «lei ha saltato giusto in [[Time|tempo]].»
+
+Poi entrò nella [[house|casa]] [[Alone|da sola]]; la sua mente era ancora stratificata di
+
+terrore; l'idea del padre come una scimmia, come un pazzo, come qualcosa di
+
+peggio. Eppure in un angolo della sua [[Soul|anima]] subconscia e sprofondata qualcosa
+
+cantava, perché il suo amico non era poi così cattivo.
+
+Dieci minuti dopo, quando l'ispettore Brandon, un rappresentante dai capelli color sabbia
+
+della C.I.D., d'aspetto flemmatico ma dall'occhio vivace, entrò nel
+
+salotto dei Windrush, si trovò di fronte un signore dalla medicina,
+
+dal volto squadrato e dalle spalle squadrate, dai capelli scuri e da un imperscrutabile
+
+sorriso. Nessuno, che avesse visto il dottor Judson scosso dalle varie passioni
+
+del recente pericolo e della crisi, avrebbe potuto riconoscerlo, nel placido e
+
+impenetrabile amico di famiglia che ora sedeva di fronte al poliziotto.
+
+«Sono certo, ispettore, che lei concorderà con me nel desiderare di risparmiare
+
+la sfortunata signora per quanto possibile», disse con scioltezza. «Si dà il caso che io sia
+
+il medico di famiglia, e dovrò comunque rispondere delle sue
+
+condizioni. Ma sono responsabile anche in altri modi, e lei
+
+può credermi sulla parola: un uomo nella mia posizione non porrà alcun ostacolo
+
+al suo dovere. [[Hope|Spero]] che lei non abbia obiezioni, per il
+
+momento, a spiegarmi la [[Nature|natura]] generale della sua faccenda.»
+
+«[[Well|Beh]], signore», disse l'ispettore, «per quel che riguarda ciò, di
+
+solito in questi casi è piuttosto un sollievo poter parlare a una terza
+
+persona. Ma lei capirà, naturalmente, che mi aspetterò che parli
+
+chiaro.»
+
+«Parlerò abbastanza chiaro», rispose il dottore con freddezza. «Mi risulta
+
+che lei abbia un mandato per l'arresto del signor Walter Windrush.»
+
+Il poliziotto annuì.
+
+«Per l'omicidio di Isaac Morse», disse. «Sa dov'è Windrush
+
+in questo momento?»
+
+«Sì», disse Judson con gravità, «so dov'è Windrush in questo momento.»
+
+Guardò tranquillamente al di là del tavolo, con le sopracciglia distese, e aggiunse: «Glielo
+
+dirò, se vuole. La condurrò da lui, se vuole. So
+
+esattamente dov'è proprio ora.»
+
+«Non dobbiamo avere nessun nascondiglio o imbroglio, sa», disse l'
+
+ispettore. «Si assumerà una grave responsabilità, se c'è una qualche
+
+possibilità che egli fugga.»
+
+«Non fuggirà», disse il dottor Judson.
+
+Ci fu un [[Silence|silenzio]], che fu rotto da un lieve trambusto là fuori e un
+
+fattorino del telegrafo salì di corsa i gradini con un dispaccio per l'ispettore. Quel
+
+funzionario lo lesse con un cipiglio di sorpresa, e poi guardò il suo
+
+compagno.
+
+«Questo arriva opportuno, in un certo senso», disse. «Pare giustificare una nostra
+
+pausa per una spiegazione, se lei è ben sicuro di ciò che dice.»
+
+Porse il telegramma al dottore, che lesse con la sua rapida occhiata le
+
+parole: NON FARE NULLA RIGUARDO A W. W. FINCHÉ NON ARRIVO. SARÒ LÌ TRA MEZZ'

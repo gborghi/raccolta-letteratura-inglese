@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/don-quixote-(chesterton)">Don Quixote</a> › <a href="/testi/chesterton/atomized/don_quixote/chapter_17">Chapter 17</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/don_quixote/chapter_17/part_01">‹ part 01</a><a class="ex-next" href="/testi/chesterton/atomized/don_quixote/chapter_17/part_03">part 03 ›</a></div>
@@ -154,3 +156,44 @@ What in the world Monkey could have to do with it she could not conceive.
 But though there were all these things to weary and even worry
 the Arbiter, she knew [[Well|well]] enough that something else made his duty
 somewhat distressing to him.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/don-quixote-(chesterton)">Don Quixote</a> › <a href="/testi/chesterton/atomized/don_quixote/chapter_17">Chapter 17</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/don_quixote/chapter_17/part_01">‹ part 01</a><a class="ex-next" href="/testi/chesterton/atomized/don_quixote/chapter_17/part_03">part 03 ›</a></div>
+</nav>
+
+«Sai cosa intendo», rispose l'altro di buon umore. «Uno statista. Un uomo che sa quel che vuole.»
+
+«[[Well|Ebbene]], suppongo che anche un pazzo sappia quel che vuole», rispose Murrel. «Mi vien fatto di pensare che uno statista dovrebbe sapere un poco anche di ciò che vogliono gli altri.»
+
+«Mio caro Monkey, che cos'hai», domandò Archer. «Sembri proprio imbronciato quando tutti gli altri sono contenti.»
+
+«Non è tanto offensivo quanto essere contenti quando tutti gli altri sono imbronciati», rispose Murrel. «Ma se intendi chiedermi se sono soddisfatto, ammetterò la tua penetrazione nel percepire che non lo sono. Hai detto poc'anzi che desideravamo un uomo forte in Inghilterra. Ora, io direi che l'unico luogo in cui non abbiamo mai desiderato un uomo forte è l'Inghilterra. Ricordo una sola persona che intraprese quella professione, il povero vecchio Cromwell; e la conseguenza fu che lo dissotterrammo per impiccarlo dopo che era morto e impazzimmo di gioia per un mese perché il trono tornava a un uomo debole — o a uno che ritenevamo un uomo debole. Questi modi prepotenti non ci si addicono affatto, siano essi rivoluzionari o reazionari. I Francesi e gli Italiani hanno frontiere e si sentono tutti soldati. Così la parola di comando non pare loro umiliante; l'uomo non è che un uomo, ma comanda perché è il comandante. Ma noi non siamo abbastanza democratici per avere un dittatore. Il nostro popolo ama essere governato da gentiluomini, in un modo generico. Ma nessuno potrebbe sopportare di essere governato da un solo gentiluomo. L'idea è troppo orribile.»
+
+«Non so bene cosa tu intenda esattamente», disse Archer scontento, «ma sono lieto di dire che, a mio parere, Herne sa bene ciò che intende. E farà capire proprio [[Well|bene]] a questi individui ciò che intende, e [[Well|bene]] per giunta.»
+
+«Mio caro amico», disse Murrel, «ci vuole di tutto per fare un mondo. Io non m'entusiasmo per i gentiluomini, come sai; sono spesso, e abbastanza sovente, una gente soffocante. Ma i gentiluomini sono riusciti a governare quest'isola con discreto successo per circa trecento anni; e ci sono riusciti perché nessuno mai capì che cosa intendessero. Potevano commettere un errore oggi e disfarlo domani, senza che nessuno ne sapesse nulla. Ma non andarono mai troppo oltre in una qualsiasi direzione da rendere del tutto impossibile tornare indietro. Cedevano sempre qui e modificavano là; e rappezzavano le cose in qualche modo. Ora, può essere uno spettacolo magnifico vedere il vecchio Herne caricare con tutta la sua cavalleria. Ma se caricherà, non potrà ritirarsi. Se a te appare come un [[Hero|eroe]], apparirà come un [[Tyrant|tiranno]] agli altri. Ora, era proprio l'[[Soul|anima]] della nostra vecchia politica aristocratica che perfino un [[Tyrant|tiranno]] non dovesse mai apparire come un [[Tyrant|tiranno]]. Poteva abbattere le siepi di tutti e rubare le terre di tutti, ma doveva farlo per Atto del Parlamento e non con una gran [[Sword|spada]] a due mani. E se incontrava la gente che aveva spodestato, doveva essere assai cortese con loro e informarsi dei loro reumatismi. È questo che tenne in piedi la Costituzione britannica — informarsi dei reumatismi. Se comincia a fare occhi neri o cicatrici sanguinanti alla gente, quelle cose saranno ricordate in tutt'altro modo, che egli avesse ragione o torto nella contesa. E Herne non ha, di gran lunga, tutta la ragione che crede di avere in questa contesa; essendo un tipo di mente semplice.»
+
+«[[Well|Ebbene]]», osservò Archer, «non sei un compagno d'armi molto entusiasta.»
+
+«Quanto a questo», disse Murrel cupamente, «non so se io sia un compagno d'armi; ma non sono un lattante in braccio. E Herne lo è.»
+
+«Eccoti di nuovo», osservò Archer irritato. «Lo difendevi sempre finché era inconcludente.»
+
+«E tu lo insultavi sempre finché era innocuo», replicò Murrel. «Lo chiamavi sempre lunatico. [[Well|Ebbene]], può essere; personalmente i lunatici mi piacciono piuttosto. Ciò di cui mi lagno è che tu sei passato di netto dalla sua parte, semplicemente perché è un lunatico pericoloso.»
+
+«Piuttosto ben riuscito, per un lunatico», disse l'altro.
+
+«È l'unica specie pericolosa», disse Murrel. «È questo che intendo dicendo che è un lattante; e un lattante a cui non si dovrebbe permettere di portare armi. Tutto gli è troppo semplice. Perfino il suo [[success|successo]] gli è troppo semplice. Vede tutto in bianco e nero; col bisogno di ripristinare il santo ordine e una gerarchia di cavalleria da un lato e nient'altro che barbari urlanti e cieca anarchia dall'altro. Riuscirà; è già riuscito. Terrà la sua [[Court|corte]] e imporrà il suo giudizio e porrà fine all'ammutinamento; e tu non vedrai che sarà cominciata una nuova specie di [[history|storia]]. I nostri capipartito sono sempre stati riconciliati dalla [[history|storia]]; e Pitt e Fox ebbero statue una accanto all'altra. Ma tu stai dando inizio a due storie, una raccontata dai vincitori e l'altra dai vinti. Herne pronuncerà il suo giudizio, che sarà lodato da tutti gli organi dello Stato come un giudizio di Mansfield; ma Braintree pronuncerà una difesa o una sfida che sarà ricordata da tutti i ribelli come il discorso morente di Emmett. Tu stai creando qualcosa di nuovo; a un tempo una [[Sword|spada]] che divide e uno scudo con due facce. Non è l'Inghilterra; non siamo noi stessi. È Alva, un [[Hero|eroe]] per i cattolici e un folletto per i protestanti; è Federico, il padre della Prussia e l'assassino della Polonia. Quando vedrai Braintree condannato da questo tribunale, non capirai quanto verrà condannato insieme a lui; quanto di ciò che a te piace tanto quanto a me.»
+
+«Sei un bolscevico?», chiese il suo amico, fissandolo in modo perplesso.
+
+«Sono l'ultimo Liberale», disse Murrel. «Anzi, sono evaso dal museo di Madame Tussaud.»
+
+. . . . . . . .
+
+[[Michael]] Herne prendeva tutti i suoi doveri sul serio, ma fu presto evidente ad alcuni che ne prendeva uno con tristezza. Fu evidente almeno a Rosamund Severne, e lei ne indovinò rapidamente la causa. Era una donna del genere che ha molto della madre; quel genere di dama si trova spesso legata a quel genere di lunatico. Sapeva che egli prendeva sul serio le altre e più esteriori funzioni, e stranamente senza un sorriso. Sapeva che poteva guidare i suoi uomini come Comandante delle Centurie e poi pronunciare giudizio come Presidente della [[Court|Corte]] d'Arbitrato, senza mai pensare, neppure una volta, a Pooh-Bah. Sapeva che poteva deporre la cappa rossa e il cimiero che portava da Comandante e indossare, sopra il suo abito verde, vesti di un cupo porpora e un alto cappello di strana foggia, simile a quello di un Doge prima di salire al seggio del giudizio, e non ricordare mai, per un istante, le cento uniformi dell'Imperatore di Germania. Ma in quest'ultimo caso della [[Court|Corte]] d'Arbitrato ella vedeva che vi era qualcosa di un poco più grave della gravità. Tanto per cominciare, sembrava esservi un immenso carico di lavoro. Herne lavorava tutto il giorno e vegliava quasi tutta la [[Night|notte]] su [[Mountains|montagne]] di libri e balle di carte; e si faceva pallido per la veglia e la concentrazione. Ella sapeva, in modo generale, che era suo compito stabilire la legge, la vecchia legge feudale o qualunque cosa fosse quella che ora veniva ricostituita, e applicarla allo schiacciamento di tutta questa anarchia e ostruzione industriale. Approvava di cuore ciò; anzi, era stato quasi il fondamento della sua approvazione. Ma non aveva compreso che avrebbe comportato tanta ricerca e codificazione tratta dai bizzarri vecchi codici e statuti. Né in verità erano coinvolti i bizzarri vecchi codici [[Alone|soltanto]]; c'erano cose che ella riteneva ancor più bizzarre. Nuovi documenti su argomenti che parevano i più irrilevanti, per lo più argomenti scientifici, venivano consegnati ad accrescere la pila; uno recava sul retro la firma di Douglas Murrel. Che cosa mai potesse avere a che fare Monkey con tutto ciò, lei non riusciva a concepirlo. Ma benché vi fossero tutte queste cose a stancare e persino a preoccupare l'Arbitro, ella sapeva [[Well|bene]] che qualcos'altro rendeva il suo dovere alquanto penoso per lui.

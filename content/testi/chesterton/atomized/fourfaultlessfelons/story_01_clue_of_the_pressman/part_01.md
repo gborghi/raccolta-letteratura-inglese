@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/fourfaultlessfelons-(chesterton)">FourFaultlessFelons</a> › <a href="/testi/chesterton/atomized/fourfaultlessfelons/story_01_clue_of_the_pressman">Story 01 Clue Of The Pressman</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/fourfaultlessfelons/story_22_epilogue_of_the_pressman">‹ Story 22 Epilogue Of The Pressman</a><a class="ex-next" href="/testi/chesterton/atomized/fourfaultlessfelons/story_01_clue_of_the_pressman/part_02">part 02 ›</a></div>
@@ -188,3 +190,187 @@ complete contradiction to such a meteor of fashion as the Count. The man
 next him, though more alert, was equally solid and respectable and free
 
 from fashionable pretensions; a short, square man with a square face and
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/fourfaultlessfelons-(chesterton)">FourFaultlessFelons</a> › <a href="/testi/chesterton/atomized/fourfaultlessfelons/story_01_clue_of_the_pressman">Story 01 Clue Of The Pressman</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/fourfaultlessfelons/story_22_epilogue_of_the_pressman">‹ Story 22 Epilogue Of The Pressman</a><a class="ex-next" href="/testi/chesterton/atomized/fourfaultlessfelons/story_01_clue_of_the_pressman/part_02">part 02 ›</a></div>
+</nav>
+
+L'INDIZIO DEL CRONISTA
+I PROLOGO DEL CRONISTA
+
+IL SIGNOR ASA LEE PINION, del Chicago Comet, aveva attraversato metà dell'[[America]],
+
+l'intero Atlantico, e alla fine perfino Piccadilly Circus,
+
+all'inseguimento della notevole, se non famigerata, figura del conte Raoul de
+
+Marillac. Il signor Pinion voleva ottenere ciò che si chiama «un pezzo»; un pezzo da
+
+mettere nel suo giornale. Un pezzo lo ottenne, ma non lo mise nel suo giornale.
+
+Era una storia troppo grossa, perfino per il Comet. Forse la metafora è vera
+
+in più d'un senso, e la [[Fable|favola]] era alta come il campanile d'una chiesa o una
+
+torre tra le [[Stars|stelle]]: al di là tanto della comprensione [[Well|quanto]] della credenza. Comunque,
+
+il signor Pinion decise di non rischiare i commenti dei suoi lettori. Ma non è questa una
+
+ragione perché il presente scrittore, scrivendo per lettori più elevati, spirituali e
+
+divinamente creduli, debba imitare il suo [[Silence|silenzio]].
+
+Davvero, l'aneddoto che udì era del tutto incredibile: e il signor Pinion non era
+
+intollerante. Mentre il Conte dipingeva la città di rosso e se stesso
+
+di nero, era ben possibile credere che non fosse così nero come veniva
+
+dipinto. Dopotutto, la sua stravaganza e il suo lusso, per quanto
+
+ostentati, non facevano particolar danno a nessuno tranne che a lui stesso; e se
+
+frequentava i dissipati e i degradati, non lo si era mai visto
+
+molestare gli [[Innocent|innocenti]] o le persone rispettabili. Ma per quanto fosse credibile
+
+abbastanza che il nobiluomo non fosse così nero come veniva dipinto, certamente
+
+non poteva essere così bianco come veniva dipinto, nella folle storia che fu
+
+raccontata quella sera. La storia veniva da un amico del Conte, un amico fin troppo
+
+amichevole, pensò il signor Pinion, amichevole fino al punto della
+
+debolezza mentale. Suppose che dovesse trattarsi d'un'illusione o d'una burla; comunque
+
+non la mise nel suo giornale. Eppure è a causa di questo assai
+
+improbabile aneddoto che il conte de Marillac si trova all'apertura di
+
+questo libro, a introdurre le quattro storie che furono presentate come
+
+parallele alla sua.
+
+Ma vi era un fatto che colpì il giornalista come strano fin dal
+
+principio. Capiva [[Well|bene]] abbastanza che sarebbe stato difficile acciuffare
+
+il Conte in qualche luogo, mentre turbinava da un impegno mondano all'altro,
+
+nel modo giustamente detto «sfrenato». E non si offese quando
+
+Marillac disse che poteva concedergli solo dieci minuti al suo club di [[London|Londra]] prima
+
+di proseguire verso una prima [[Night|serata]] teatrale e le altre festività che ne seguivano.
+
+Durante quei dieci minuti, tuttavia, Marillac fu del tutto cortese, rispose alle
+
+domande mondane piuttosto superficiali a cui il Comet voleva risposta, e
+
+con molta affabilità presentò il giornalista a tre o quattro compagni di club
+
+o camerati che gli stavano attorno nella sala, e che continuarono
+
+a starsene lì attorno dopo che il Conte stesso ebbe fatto la sua raggiante e sfolgorante
+
+uscita.
+
+«Suppongo», disse uno di loro, «che il vecchio birbante sia andato a vedere
+
+la nuova commedia scandalosa con tutta la nuova gente scandalosa.»
+
+«Sì», grugnì un uomo corpulento in piedi davanti al [[Fire|fuoco]]. «È andato con
+
+la persona più scandalosa di tutte, l'autore, la signora Prague. Autrice, direi,
+
+così si definirebbe — essendo soltanto colta e non istruita.»
+
+«Va sempre alla prima [[Night|serata]] di quelle commedie», assentì l'altro.
+
+«Forse pensa che non ci sarà una seconda [[Night|serata]], se la polizia fa irruzione nel
+
+locale.»
+
+«Che commedia è?» chiese l'americano con voce gentile. Era un tranquillo
+
+ometto dalla testa molto allungata e un raffinato profilo di falco; era
+
+assai meno chiassoso e disinvolto degli inglesi.
+
+«Naked Souls», disse il primo con un lieve gemito. «Versione drammatizzata
+
+del [[Novel|romanzo]] che ha scosso il mondo, Pan's Pipes. Si azzuffa cupamente con i fatti della
+
+vita.»
+
+«Anche audace, brioso e ritorno alla [[Nature|Natura]]», disse l'uomo accanto al [[Fire|fuoco]]. «Se ne
+
+sente parlar molto di questi tempi, di Pan's Pipes. Mi paiono un po' troppo simili a
+
+tubi di scarico.»
+
+«Vedete», disse l'altro, «la signora Prague è così Moderna che deve tornare
+
+indietro a Pan. Dice di non poter sopportare di credere che Pan sia morto.»
+
+«Io penso», disse l'uomo corpulento, con un tocco di pesante violenza, «che Pan
+
+non solo sia morto, ma marcisca e puzzi in mezzo alla strada.»
+
+Erano i quattro amici di Marillac a lasciar perplesso il signor Pinion. Erano
+
+evidentemente amici piuttosto intimi, eppure non erano, nel complesso,
+
+del genere che verosimilmente sarebbero stati anche solo conoscenti. Marillac stesso era press'a poco
+
+ciò che ci si poteva aspettare, un po' più irrequieto e smunto di quanto i suoi
+
+bei ritratti potessero lasciar intendere, cosa abbastanza verosimile date le sue
+
+ore piccole e gli anni che avanzavano. I suoi capelli ricci erano ancora scuri e
+
+folti, ma la sua barba grigia e appuntita imbiancava rapidamente; i suoi occhi erano un
+
+po' infossati, e avevano un'espressione più ansiosa di quanto si potesse dedurre,
+
+da lontano, dai suoi gesti esuberanti e dal passo rapido. Tutto ciò era
+
+del tutto conforme al personaggio, ma il tono del gruppo era diverso. Una sola figura
+
+[[Alone|sola]] fra le quattro sembrava in qualche senso appartenere al mondo di Marillac, avendo
+
+qualcosa del portamento di un ufficiale, con quella sottile sfumatura
+
+che suggerisce un ufficiale straniero. Aveva un volto ben rasato, regolare e assai
+
+impassibile; era seduto quando s'inchinò cortesemente allo
+
+sconosciuto, ma qualcosa nell'inchino faceva pensare che, in piedi, avrebbe
+
+battuto i tacchi. Gli altri erano del tutto inglesi e del tutto
+
+diversi. Uno di loro era l'uomo assai corpulento, dalle grandi spalle curve ma
+
+possenti e una grande testa non ancora calva ma striata di castani piuttosto radi
+
+capelli. Ma la cosa che colpiva in lui era quell'indescrivibile impressione
+
+di [[Dust|polvere]] o ragnatele che appartiene a un uomo forte che conduce vita sedentaria,
+
+forse scientifica o erudita, ma di certo oscura, nel metodo se
+
+non nell'effetto; quel tipo di uomo borghese con un hobby, che pare
+
+esserne stato scavato fuori con una vanga. Era difficile immaginare una più
+
+completa contraddizione a una tal meteora della moda quale il Conte. L'uomo
+
+accanto a lui, benché più sveglio, era ugualmente solido e rispettabile e libero
+
+da pretese di moda; un uomo basso e tarchiato con un volto squadrato e

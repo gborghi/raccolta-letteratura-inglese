@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/fancies-versis-fads-(chesterton)">Fancies Versis Fads</a> › <a href="/testi/chesterton/atomized/fancies_versis_fads/chapter_01_manufacturers">Chapter 01 MANUFACTURERS</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/fancies_versis_fads/chapter_01_manufacturers/part_26">‹ part 26</a><a class="ex-next" href="/testi/chesterton/atomized/fancies_versis_fads/chapter_01_manufacturers/part_28">part 28 ›</a></div>
@@ -132,3 +134,133 @@ of being wrecked, were to exclaim in a loud voice, "I will eat every
 single man who has arrived by that identical boat and no other,"
 we should all be eaten, and we should all be equally eaten.
 For being eaten, considered as a [[Tragedy|tragedy]], is not a matter of degree.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/fancies-versis-fads-(chesterton)">Fancies Versis Fads</a> › <a href="/testi/chesterton/atomized/fancies_versis_fads/chapter_01_manufacturers">Chapter 01 MANUFACTURERS</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/fancies_versis_fads/chapter_01_manufacturers/part_26">‹ part 26</a><a class="ex-next" href="/testi/chesterton/atomized/fancies_versis_fads/chapter_01_manufacturers/part_28">part 28 ›</a></div>
+</nav>
+
+Ma, di fatto, l'argomento è particolarmente calzante nel caso della Cina.
+Poiché [[Fear|temo]] che la Cina interessi la maggior parte di noi
+soprattutto in quanto altro capo del mondo. È apprezzata come qualcosa di
+lontano, e perciò di fantastico, come un regno tra le nubi dell'alba. Non
+sono le virtù ben reali della tradizione cinese — il suo stoicismo, il suo
+senso dell'[[Honour|onore]], i suoi antichi culti contadini — che la
+maggior parte della gente vuol mettere in una commedia. È l'ordinario
+sentimento romantico verso qualcosa di remoto e stravagante, come i
+marziani o l'Uomo nella [[Moon|Luna]]. È perfettamente ragionevole nutrire
+quel sentimento romantico con moderazione, come gli altri svaghi. Ma non è
+ragionevole aspettarsi che la persona remota si senta remota da se stessa,
+o che l'uomo all'altro capo del mondo non lo senta come questo capo. Non
+dobbiamo chiedere allo strambo orientale di sentirsi strambo, o a un
+cinese di stupirsi d'essere cinese. Se, dunque, l'[[Artist|artista]]
+letterario ha il legittimo scopo letterario di esprimere l'atmosfera
+misteriosa e aliena che la Cina evoca in lui, probabilmente lo farà assai
+meglio con l'aiuto di un attore che non sia cinese. Naturalmente, non sto
+criticando i particolari specifici di quella specifica rappresentazione,
+di cui so poco o nulla. Non conosco le circostanze; e in quelle
+circostanze, per quel che ne so, l'esperimento può essere stato molto
+necessario o molto riuscito. Protesto soltanto contro una teoria della
+[[Truth|verità]] drammatica, addotta a difesa dell'esperimento drammatico,
+che mi sembra fatta apposta per falsificare l'intera arte del dramma. Si
+fonda esattamente sulla stessa fallacia di quella del bimbo nella
+filastrocca di Stevenson, il quale pensava che i bambini giapponesi
+dovessero soffrire di nostalgia di [[Home|casa]] per il fatto d'essere
+sempre all'estero in Giappone.
+
+Questo ci porta assai vicino a un'antica e piuttosto trita controversia
+teatrale, sul se l'allestimento debba essere semplice o elaborato. Non
+intendo ricominciare da capo quella disputa. Ciò di cui c'è davvero
+bisogno non è tanto il semplice direttore di scena quanto il semplice
+spettatore. In un senso ben reale, ciò che serve è il critico semplice,
+che sarebbe in [[Truth|verità]] il più sottile dei critici. I sani istinti
+umani in queste cose sono guastati almeno tanto dalla raffinatezza in
+platea quanto dall'elaborazione sul palco. Una mente davvero semplice
+godrebbe di una scena semplice e anche di una scena sfarzosa. Un istinto
+popolare, che si trova in tutto il folklore, saprebbe [[Well|bene]]
+abbastanza quando l'una o l'altra fosse appropriata. Ma ciò che qui è in
+gioco non è l'intera raffinatezza, bensì soltanto un particolare sofisma,
+e contro quel sofisma possiamo [[Well|ben]] soffermarci a protestare. È la
+fallacia critica di tagliare la testa a un vero [[donkey|asino]] per
+metterla addosso a [[Bottom]] il Tessitore; quando la testa è simbolica, e
+in tal caso più appropriata al critico che all'attore.
+
+--
+
+LA SOCIETÀ SEGRETA DEL GENERE UMANO
+
+CON quel fantastico [[Love|amore]] del [[Paradox|paradosso]] che dà
+[[Pain|pena]] a tanti critici, io una volta suggerii che potrebbe esservi
+una qualche [[Truth|verità]] nella nozione della fratellanza degli uomini.
+Questo fu naturalmente argomento di severa critica dal punto di vista
+moderno o modernista; e ricordo che la sua confutazione più arguta
+comparve in un libro che si intitolava "We Moderns". Era scritto da un
+signor Edward Moore, e scritto per giunta assai [[Well|bene]]; anzi,
+l'autore fece a se stesso una certa ingiustizia insistendo sulla propria
+modernità; poiché non era poi così moderno, ma davvero piuttosto lucido e
+coerente. Ma mi arrischierò a prendere qui la sua osservazione come testo,
+perché concerne una materia sulla quale la maggior parte dei moderni
+offusca il consiglio in modo altamente incoerente. Concerne la
+[[Nature|natura]] dell'[[unity|unità]] degli uomini; che io certamente
+enunciai, nella sua forma più sfidante, come l'uguaglianza dell'uomo. E
+dissi che questa norma, o luogo d'incontro del genere umano, si può trovare
+nei due estremi del comico e del tragico. Dissi che nessuna
+[[Tragedy|tragedia]] individuale potrebbe essere tanto tragica quanto il
+dover morire; e tutti gli uomini devono ugualmente morire. Dissi che nulla
+può essere più buffo dell'avere due gambe; e tutti gli uomini possono
+ugualmente partecipare alla burla.
+
+Il critico in questione fu terribilmente severo su questa osservazione.
+Credo che le parole della sua condanna suonassero così: «[[Well|Ebbene]],
+in questo passo c'è un errore tanto palese che è quasi inconcepibile che un
+pensatore responsabile abbia potuto avanzarlo persino per scherzo. Poiché è
+chiaro che gli elementi tragico e comico di cui parla il signor Chesterton
+rendono uguali non solo il genere umano, ma _tutta la vita_. Tutto ciò che
+vive deve morire; e perciò è, nel senso del signor Chesterton, tragico.
+Tutto ciò che vive ha una forma; e perciò è, nel senso del signor
+Chesterton, comico. Le sue premesse conducono all'uguaglianza non del
+genere umano, ma di tutto ciò che vive; sia esso leviatano o farfalla,
+quercia o violetta, verme o aquila. ... Avesse detto questo! Allora noi che
+affermiamo la disuguaglianza saremmo i primi a fargli eco.» Non mi riesce
+difficile mostrare che là dove il signor Moore crede che l'uguaglianza sia
+errata è esattamente là dove essa è giusta; e comincerò dalla
+[[Mortality|mortalità]]; premettendo che lo stesso vale (per chi ci crede)
+dell'[[Immortality|immortalità]]. Entrambe sono assoluti: un uomo non può
+essere alquanto mortale; né può essere piuttosto immortale.
+
+Per cominciare, bisogna intendere che avere un'uguaglianza nell'essere neri
+o bianchi non è nemmeno la stessa cosa che essere ugualmente neri o
+bianchi. È generalmente lecito ricorrere a un'illustrazione familiare; e
+prenderò l'espressione corrente dell'essere tutti nella stessa barca. Il
+signor Moore, io e tutti gli uomini non solo siamo tutti nella stessa
+barca, ma abbiamo un'uguaglianza ben reale implicita in quel fatto.
+Nondimeno, poiché esiste la parola "dentro" [[Well|non meno]] della parola
+"in", c'è un senso in cui alcuni di noi potrebbero essere nella barca più
+di altri. I miei compagni di viaggio potrebbero avermi stivato in
+[[Bottom|fondo]] alla barca ed essersi seduti sopra di me, mossi da una
+naturale avversione al mio sedermi sopra di loro. Ho notato che spesso
+vengo così stipato, a titolo preliminare, nei sedili posteriori o nelle
+parti basilari di carrozze, automobili o barche; essendovi evidentemente
+la sensazione che io sia la materia di cui si fanno le fondamenta di un
+edificio piuttosto che i suoi svettanti minareti o le sue affusolate
+guglie. Nel frattempo il signor Moore potrebbe scrutare il mondo dalla
+cima dell'albero, se ve ne fosse una, o sporgersi oltre la prua con i
+gesti protesi in avanti di un capo di uomini, o persino sedere di
+preferenza sull'orlo della barca con i piedi che sguazzano nell'[[Water|acqua]],
+a indicare il massimo distacco aristocratico possibile da noi e dalle
+nostre faccende. Nondimeno, nelle grandi e ultime questioni che sono
+l'intero significato della frase "tutti nella stessa barca", saremmo tutti
+ugualmente nella stessa barca. Dipenderemmo tutti ugualmente dal fatto
+rassicurante che una barca può galleggiare. Se non galleggiasse ma
+affondasse, ciascuno di noi avrebbe perduto la sua unica e sola barca nel
+medesimo [[Time|momento]] decisivo e nel medesimo sconcertante modo. Se il
+[[King|Re]] delle Isole dei Cannibali, sulla cui isola principale potremmo
+patire l'inconveniente di far naufragio, esclamasse a gran voce: «Mangerò
+ogni singolo uomo giunto con quella identica barca e con nessun'altra»,
+saremmo tutti mangiati, e saremmo tutti ugualmente mangiati. Poiché
+l'essere mangiati, considerato come [[Tragedy|tragedia]], non è questione
+di grado.

@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/fancies-versis-fads-(chesterton)">Fancies Versis Fads</a> › <a href="/testi/chesterton/atomized/fancies_versis_fads/chapter_01_manufacturers">Chapter 01 MANUFACTURERS</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/fancies_versis_fads/chapter_01_manufacturers/part_09">‹ part 09</a><a class="ex-next" href="/testi/chesterton/atomized/fancies_versis_fads/chapter_01_manufacturers/part_11">part 11 ›</a></div>
@@ -123,3 +125,117 @@ The [[morality]] of that tradition is much too simple and obvious
 to be understood to-day. Awful as it may seem to many modern people,
 it means no less than that Simple Simon should have his pies,
 even in the absence of his pennies.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/fancies-versis-fads-(chesterton)">Fancies Versis Fads</a> › <a href="/testi/chesterton/atomized/fancies_versis_fads/chapter_01_manufacturers">Chapter 01 MANUFACTURERS</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/fancies_versis_fads/chapter_01_manufacturers/part_09">‹ part 09</a><a class="ex-next" href="/testi/chesterton/atomized/fancies_versis_fads/chapter_01_manufacturers/part_11">part 11 ›</a></div>
+</nav>
+
+È dunque molto naturale che gli uomini stiano cercando di dissolvere il
+problema morale di [[Hamlet|Amleto]] negli elementi amorali della coscienza e
+dell'incoscienza. Il genere di dovere che [[Hamlet|Amleto]] schivò è
+esattamente il genere di dovere che tutti noi stiamo schivando: quello di
+detronizzare la giustizia e rivendicare la [[Truth|verità]]. Molti sono ora in
+uno stato d'animo tale da negare che sia un dovere perché è un pericolo. Questo
+si applica, s'intende, non solo alle faccende internazionali, ma a quelle
+interne e specialmente industriali. Al capitalismo fu concesso di crescere fino
+a diventare una torreggiante tirannide in Inghilterra perché gli inglesi
+rimandavano sempre la loro rivoluzione popolare, proprio come il Principe di
+[[Denmark|Danimarca]] rimandava la sua rivoluzione di palazzo. Facevano la
+predica ai francesi sul loro [[Love|amore]] per le sanguinose rivoluzioni,
+esattamente come ora fanno la predica ai francesi sul loro [[Love|amore]] per
+le sanguinose guerre. Ma la pazienza che permise che l'Inghilterra fosse
+trasformata in una plutocrazia non era la pazienza dei santi; era quella
+pazienza che paralizzò il nobile principe della [[Tragedy|tragedia]];
+_accidia_ e il gran rifiuto. In ogni caso, il punto vitale è che, rifiutando di
+punire i potenti, presto perdemmo l'idea stessa della punizione; e mutammo la
+nostra polizia in una mera persecuzione dei poveri.
+
+--
+
+IL SIGNIFICATO DEL FINTO TACCHINO
+
+AVENDO da poco preso parte a una rappresentazione di Filastrocche, nella parte
+del vecchio [[King|Re]] Cole, meditai non tanto sul glorioso passato del gran
+regno di Colchester, quanto sul più dubbio avvenire delle Filastrocche. I
+Movimenti Moderni non sanno produrre una filastrocca; è una delle molte cose
+che non li si può nemmeno concepire nell'atto di fare. Ma se non sanno creare la
+filastrocca, la distruggeranno? I nuovi poeti hanno già abolito la rima; e
+presumibilmente i nuovi pedagogisti aboliranno presto le stanze dei bambini.
+Oppure, se non distruggeranno, [[Reform|riformeranno]]; il che è peggio? Le
+filastrocche sono una vera e propria rete di nozioni e allusioni che gli
+illuminati disapprovano. Per prendere a esempio solo la filastrocca che mi
+toccò in sorte, alcuni potrebbero ritenere la sola menzione di un [[King|re]]
+un pezzo di realismo reazionario, incoerente con quell'[[Self|auto]]-determinazione
+democratica di cui tutti godiamo sotto qualche cinque Controllori e un comitato
+del Gabinetto. Forse nella versione emendata egli sarà chiamato Presidente
+Cole. Probabilmente lo si confonderà con il signor G. D. H. Cole, primo
+Presidente della Repubblica Socialista Corporativa. Con la più grande
+ammirazione per il signor Cole, non riesco proprio a immaginarmelo come figura
+così festosa; e sono incline a pensare che le medesime influenze
+probabilmente elimineranno la festosità. Si dice che l'[[America]], avendo già
+abolito la coppa, stia ora tentando di abolire la pipa. Dopo di che potrebbe
+assai ragionevolmente proseguire abolendo i violinisti; giacché la musica può
+far impazzire assai più del vino. [[tolstoy|Tolstoj]], l'unico coerente
+[[Prophet|profeta]] della Vita Semplice, giunse davvero a denunciare la musica
+come una mera droga. Comunque sia, è del tutto intollerabile che le
+[[Innocent|innocenti]] menti dei bambini vengano avvelenate con l'idea di
+qualcuno che chiede la sua pipa e la sua coppa. Ci dovrà essere qualche altra
+versione, tipo: «Chiese il suo latte e chiese la sua pastiglia», o qualunque
+forma di piacere corporeo sia ancora concessa al genere umano. Questa
+particolare strofa dovrà evidentemente essere alterata parecchio; è fondata su
+una [[philosophy|filosofia]] così antiquata che [[Fear|temo]] che perfino
+l'alterazione non sarà facile né completa. Non sono sicuro, per esempio, che
+non ci sia un [[Memory|ricordo]] di animismo e di spiritismo nella parola
+stessa «[[Soul|anima]]», usata nel chiamare il monarca una vecchia
+[[Soul|anima]] allegra. Parrebbe che qualche altra semplice espressione, come
+«un vecchio organismo allegro», potrebbe essere usata con vantaggio. Anzi,
+essa salverebbe più di un vantaggio; giacché, se il lettore vorrà dire la riga
+emendata in maniera fluente e lirica, non potrà non osservare che l'esperimento
+ha infranto i ceppi del metro formale, e ha conseguito una di quelle melodie
+più ampie e più leggiadre che associamo al _vers libre._
+
+È inutile annotare i numerosi altri esempi di filastrocche a cui si applica la
+stessa critica. Alcuni degli altri casi sono perfino più scandalosi per il vero
+spirito scientifico. Per esempio, nella tipicamente vecchia filastrocca di
+«Ragazze e ragazzi venite fuori a giocare», compaiono le parole davvero
+spaventose: «Lasciate la vostra cena e lasciate il vostro [[Sleep|sonno]]».
+Come osservò il grande riformatore medico dei nostri giorni, in una frase
+suggestiva e immortale: «Tutti gli Eugenisti sono concordi sull'importanza del
+[[Sleep|sonno]]». Il caso della cena può essere più complesso e controverso. Se
+la cena fosse una cena davvero igienica e salubre, potrebbe non essere così
+difficile lasciarla. Ma è ovvio che l'intera visione che la filastrocca evoca è
+del tutto incompatibile con una saggia supervisione educativa. È una selvaggia
+visione di bambini che giocano nelle strade al chiaro di luna, per tutto il
+mondo come se fossero fate. Al chiaro di luna, come alla musica, si attribuisce
+un potere di sconvolgere la ragione; ed è quantomeno ovvio che
+l'indulgenza è sia inopportuna sia irragionevole. Nessun riformatore
+scientifico desidera un'azione precipitosa e distruttiva; giacché la sua
+[[Reform|riforma]] è fondata su quell'evoluzione che ha prodotto l'antropoide
+dall'ameba, un processo che nessuno ha mai bollato come precipitoso. Ma quando
+l'eugenista rammenta gli sconsiderati e [[Romantic Love|romantici amori]]
+incoraggiati da un simile chiaro di luna, dovrà considerare seriamente il
+problema di abolire la [[Moon|luna]].
+
+Ma in verità io ho molta più simpatia per la semplicità del bimbo che piange
+per la [[Moon|luna]] che per il genere di semplicità che liquida la
+[[Moon|luna]] come pura luce di luna. E in verità penso che questi due
+antagonistici tipi di semplicità siano forse i termini cardine della presente
+transizione. È una cosa nuova chiamata Vita Semplice contro una cosa più antica
+che potrebbe essere chiamata l'[[Soul|Anima]] Semplice; esemplificata forse, per
+quanto concerne le filastrocche, dall'episodio del Semplice Simone. Io
+preferisco il vecchio Semplice Simone, il quale, benché ignaro della teoria
+economica dello scambio, aveva perlomeno un positivo e poetico entusiasmo per
+le torte. Lo ritengo assai più saggio del nuovo Semplice Simone, che
+semplifica la propria esistenza per mezzo di una perversa e pedante antipatia
+per le torte. È superfluo aggiungere che questa [[philosophy|filosofia]] delle
+torte è applicabile con particolare forza alle torte di frutta secca; e quindi
+all'intera tradizione natalizia che discese dai primi canti al mondo
+immaginativo di Dickens. La [[morality|morale]] di quella tradizione è troppo
+semplice e ovvia per essere compresa oggigiorno. Per quanto tremendo possa
+sembrare a molti moderni, essa significa niente meno che questo: che il Semplice
+Simone dovrebbe avere le sue torte, anche in assenza dei suoi soldi.

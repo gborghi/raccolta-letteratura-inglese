@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/fourfaultlessfelons-(chesterton)">FourFaultlessFelons</a> › <a href="/testi/chesterton/atomized/fourfaultlessfelons/story_08_ii_the_man_with_the_black_bag">Story 08 Ii The Man With The Black Bag</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/fourfaultlessfelons/story_08_ii_the_man_with_the_black_bag/part_03">‹ part 03</a><a class="ex-next" href="/testi/chesterton/atomized/fourfaultlessfelons/story_08_ii_the_man_with_the_black_bag/part_05">part 05 ›</a></div>
@@ -187,3 +189,186 @@ boosting can do--"
 spectacle of himself on the Arboreal question. He did not answer a single
 
 one of my points, except with that absurd quibble about the word Eocene.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/fourfaultlessfelons-(chesterton)">FourFaultlessFelons</a> › <a href="/testi/chesterton/atomized/fourfaultlessfelons/story_08_ii_the_man_with_the_black_bag">Story 08 Ii The Man With The Black Bag</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/fourfaultlessfelons/story_08_ii_the_man_with_the_black_bag/part_03">‹ part 03</a><a class="ex-next" href="/testi/chesterton/atomized/fourfaultlessfelons/story_08_ii_the_man_with_the_black_bag/part_05">part 05 ›</a></div>
+</nav>
+
+biondi capelli gli giacevano sulla guancia in un'allusione a nascenti basette; non
+
+gli piaceva il modo in cui sorrideva cortesemente mentre gli altri
+
+parlavano. Non gli piaceva il modo in cui parlava lui stesso, in maniera larga e
+
+indifferente, di arte, scienza o sport come se tutti gli argomenti fossero
+
+egualmente importanti o non importanti; né il modo in cui si scusava
+
+alternativamente col poeta e col medico per farlo. Da ultimo, il medico
+
+lievemente disapprovava il fatto che il visitatore fosse più alto di lui di circa
+
+sei centimetri, e altresì la (infernalmente affettata) curvatura di spalle
+
+con cui quasi rimediava alla differenza. Se il medico avesse saputo tanto
+
+sulla propria psicologia quanto ne sapeva su quella di chiunque altro, avrebbe
+
+potuto comprendere meglio i sintomi. Vi è di norma una sola condizione
+
+in cui un uomo prova antipatia per un altro uomo per tutto ciò che vi è di repulsivo e tutto
+
+ciò che vi è di attraente in lui.
+
+Il nome del gentiluomo della porta accanto pareva essere Wilmot, e non
+
+c'era nulla a indicare che egli avesse qualcosa da fare al mondo tranne
+
+collezionare impressioni di sorta coltivata. S'interessava di poesia,
+
+il che poteva servire a spiegare come avesse trovato favore presso il poeta.
+
+Sfortunatamente, s'interessava anche di scienza; e questo non trovò affatto
+
+favore presso lo scienziato. Non c'è nulla che
+
+esasperi un appassionato specialista e credente nella specializzazione tanto quanto
+
+qualcuno che graziosamente lo informa degli elementi della sua stessa materia,
+
+specialmente quando (come talvolta accade) sono gli elementi che lo
+
+specialista stesso aveva cominciato a demolire e abolire dieci anni prima. La
+
+protesta del medico fu veemente fino al limite della villania, ed egli dichiarò
+
+che certe nozioni sull'Uomo Arboricolo erano state smascherate come sciocchezze quando
+
+Doone aveva iniziato a scrivere. Non occorre certo dire che Doone, essendo un
+
+grande scienziato, era quasi universalmente lodato dai giornali
+
+per aver detto qualcosa di assai simile all'opposto di ciò che effettivamente diceva nei
+
+suoi libri e nelle sue conferenze. Judson aveva seguito le conferenze; Judson aveva letto
+
+i libri, ma Wilmot aveva letto i giornali. Questo naturalmente dava a Wilmot
+
+un gran vantaggio nella discussione davanti a qualunque moderno pubblico coltivato.
+
+Il [[debate|dibattito]] era sorto da un casuale vanto del poeta a proposito dei suoi
+
+primi esperimenti come pittore. Egli mostrò loro certi vecchi disegni ritmici
+
+di sorta decorativa; e disse di essersi spesso esercitato a disegnare con entrambe le
+
+mani simultaneamente, e di aver talvolta cominciato a scorgere i primi accenni di
+
+una differenza o indipendenza nell'azione delle due mani.
+
+«Così potrebbe finire, suppongo» disse Wilmot sorridendo, «col disegnare una
+
+caricatura del suo editore con una mano mentre elabora i
+
+dettagli di un piano urbanistico con l'altra.»
+
+«Una nuova versione» disse Judson piuttosto arcigno, «del non lasciar sapere alla tua mano
+
+sinistra ciò che fa la tua destra. Se lo chiedete a me, direi che è
+
+un trucco dannatamente pericoloso.»
+
+«Avrei pensato» disse lo strano gentiluomo languidamente, «che il vostro
+
+amico Doone avrebbe approvato un uomo che usa due mani, dato che il suo
+
+sacro antenato la scimmia in realtà ne usa quattro.»
+
+Judson scattò in piedi alla sua maniera esplosiva. «Doone si occupa dei cervelli degli
+
+uomini e delle scimmie, e usa il proprio da uomo» disse. «Non posso farci nulla
+
+se certi uomini preferiscono usare il proprio da scimmie.»
+
+Quando egli se ne fu andato, Windrush apparve non poco infastidito da simili bruschi
+
+modi, benché Wilmot fosse del tutto sereno.
+
+«Quel giovane sta diventando insopportabile» disse l'[[Artist|artista]]. «Trasforma
+
+ogni conversazione in una discussione e ogni discussione in un litigio. Che
+
+diavolo importa a chicchessia di ciò che Doone realmente disse?»
+
+Al corrucciato dottor Judson, tuttavia, importava evidentemente moltissimo
+
+ciò che Doone realmente disse. Importava tanto che il medico (come già
+
+indicato) si prese la briga di [[Cross|attraversare]] la città per udire Doone
+
+dirlo realmente. Forse c'era qualcosa come un tocco di morbosità nella
+
+sua ostinazione a dimostrarsi nel giusto su un tal punto, e certamente
+
+era il genere d'uomo che non sopporta di lasciare una discussione senza risposta;
+
+forse aveva altri moventi o ragioni mescolati nella sua mente. Comunque, egli
+
+partì tempestosamente in direzione di quel sacrario o tribunale scientifico,
+
+lasciando Windrush adirato, Wilmot sprezzante ed Enid perplessa e addolorata.
+
+La grande dimora del West End del dottor Doone, col suo classico portico
+
+colonnato e le tende piuttosto funebri, non intimidì il medico più giovane mentre
+
+saliva risoluto i gradini di corsa e suonava vigorosamente il campanello. Fu
+
+introdotto nello studio del grande uomo e dopo poche frasi riuscì a
+
+richiamarsi alla memoria e a ricevere un riconoscimento mitemente benevolo. Il
+
+grande dottor Doone era un vecchio gentiluomo assai avvenente, dai ricci capelli bianchi
+
+e dal naso adunco, e non dimostrava molto più dei numerosi
+
+ritratti che apparivano nei settimanali colti a illustrare il conflitto tra
+
+Religione e Scienza. A Judson non ci volle molto a verificare l'esattezza
+
+della sua versione della Teoria originaria di Doone. Ma per tutto il [[Time|tempo]] in cui
+
+parlavano, gli occhi scuri e irrequieti del giovane medico saettavano
+
+per la stanza, sondando ogni angolo, in una infinita curiosità professionale
+
+circa i progressi della scienza. Vide le cataste di libri nuovi e di
+
+riviste che giacevano sul tavolo come erano arrivate per posta; ne sfogliò
+
+persino automaticamente le pagine di alcuni, mentre il suo occhio
+
+vagava e correva lungo le serrate file degli scaffali, e Doone
+
+continuava a parlare, come sogliono i vecchi, di vecchi amici e di vecchi nemici.
+
+«Fu quell'egregio Grossmark» stava dicendo con rinascente
+
+animazione, «a fare la stessa assurda confusione del mio pensiero. Ti
+
+ricordi Grossmark? Di tutti gli straordinari esempi di ciò che una concertata
+
+montatura può fare...»
+
+«Un po' come il modo in cui viene montato Cubbitt adesso» disse Judson.
+
+«Può darsi» disse Doone piuttosto irritato. «Ma Grossmark si rese davvero
+
+ridicolo sulla questione arboricola. Non rispose a un solo
+
+dei miei punti, se non con quell'assurdo cavillo sulla parola Eocene.

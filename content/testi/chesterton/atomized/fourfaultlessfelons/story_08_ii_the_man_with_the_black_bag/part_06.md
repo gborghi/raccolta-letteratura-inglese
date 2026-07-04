@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/fourfaultlessfelons-(chesterton)">FourFaultlessFelons</a> › <a href="/testi/chesterton/atomized/fourfaultlessfelons/story_08_ii_the_man_with_the_black_bag">Story 08 Ii The Man With The Black Bag</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/fourfaultlessfelons/story_08_ii_the_man_with_the_black_bag/part_05">‹ part 05</a><a class="ex-next" href="/testi/chesterton/atomized/fourfaultlessfelons/story_09_iv_the_disease_of_duodiapsychosis/part_01">part 01 ›</a></div>
@@ -151,3 +153,150 @@ even in repeating the same words. But it was long before she came to
 understand the difference between those two exclamations, or what had
 
 happened between them.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/fourfaultlessfelons-(chesterton)">FourFaultlessFelons</a> › <a href="/testi/chesterton/atomized/fourfaultlessfelons/story_08_ii_the_man_with_the_black_bag">Story 08 Ii The Man With The Black Bag</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/fourfaultlessfelons/story_08_ii_the_man_with_the_black_bag/part_05">‹ part 05</a><a class="ex-next" href="/testi/chesterton/atomized/fourfaultlessfelons/story_09_iv_the_disease_of_duodiapsychosis/part_01">part 01 ›</a></div>
+</nav>
+
+bomba nera e rotonda che ticchettasse e fumasse in salotto.
+
+Alla fine egli disse con voce aspra: «Vorrei poter vedere quell'albero a cui suo
+
+padre tiene tanto.»
+
+«Temo sia impossibile», disse lei. «È davvero l'unico punto su cui è
+
+molto puntiglioso. Dice che gli piacerebbe che ogni altro uomo avesse un
+
+albero prediletto... nel senso di un luogo di [[Solitude|solitudine]] tutto suo. Ma dice che
+
+non presterebbe a nessuno il suo albero più di quanto presterebbe il suo spazzolino.»
+
+«Sono tutte sciocchezze», disse il dottore burbero. «Che cosa farebbe se io
+
+saltassi semplicemente un muro, o in qualche modo entrassi nel suo [[Garden|giardino]]?»
+
+«Mi dispiace terribilmente», disse lei con voce tremula, «ma se entrasse nel
+
+suo [[Garden|giardino]], non tornerebbe mai più nella sua [[house|casa]].»
+
+Judson balzò in piedi e lei sentì in qualche modo che l'ultimo scatto era
+
+risuonato prima dello scoppio e della detonazione.
+
+«Eppure permette al signor Wilmot di entrare nel suo [[Garden|giardino]]. Quel signore pare
+
+privilegiato in molti modi.»
+
+Enid rimase a fissarlo per qualche secondo senza parole. «Permette al signor
+
+Wilmot di entrare nel suo [[Garden|giardino]]!» ripeté.
+
+«Grazie a Dio», disse il dottore. «Comunque lei non sembra saperne
+
+nulla. Wilmot mi ha detto di avere la migliore autorità possibile, e io
+
+naturalmente pensai alla sua autorità o a quella di suo padre. Ma, certo,
+
+è anche possibile... Ecco, aspetti un momento... Le farò
+
+sapere più tardi... Suo padre mi vieterà la [[house|casa]]! Non è vero?»
+
+E con ciò questo tutt'altro che rassicurante professionista della medicina schizzò via dalla
+
+[[house|casa]] con la stessa bruschezza con cui vi era entrato. Le venne da pensare che dovesse
+
+avere modi mirabili al capezzale.
+
+Enid cenò [[Alone|sola]], rimuginando assai pensierosa critiche molto complesse e persino
+
+contraddittorie su quello straordinario giovane. Poi i suoi
+
+pensieri corsero al padre e al suo genere del tutto diverso di
+
+anticonformismo, e qualcosa la spinse a incamminarsi verso lo studio e
+
+atelier sul retro della [[house|casa]], che sporgeva nel [[Garden|giardino]]. Qui c'erano
+
+le grandi tele scarabocchiate con gli schizzi incompiuti su cui
+
+la disputa aveva infuriato il giorno prima, e lei li guardò a disagio,
+
+ricordando gli estremi polemici a cui simili cose potevano dar
+
+luogo. Lei stessa era di un genere d'intelligenza schietta e assai
+
+sana, e non riusciva a vedere qualcosa su cui litigare in tali
+
+cose più di quanto potesse vedere metafisica in una carta da parati o morale in un
+
+tappeto turco. Ma l'atmosfera di [[debate|discussione]] la turbava, in parte perché
+
+turbava suo padre, e guardò piuttosto imbronciata fuori dalle
+
+vetrate all'estremità dell'atelier, nel buio dell'appartato
+
+[[Garden|giardino]].
+
+Dapprima fu perplessa, in modo inconscio, che vi potesse essere qualcosa
+
+come una brezza in quella limpida [[Night|notte]] di luna. Si destò gradualmente alla
+
+consapevolezza che nulla si muoveva nel [[Garden|giardino]] tranne l'unica cosa al
+
+suo centro; il profilo rozzo e sgraziato dell'albero senza nome. Ebbe
+
+un istante di puerile paura da spauracchio all'idea che potesse muoversi
+
+da sé come un animale, o creare il proprio [[Wind|vento]] come un ventaglio gigante. Poi
+
+vide che la sua forma era mutata, come se fosse spuntato un nuovo ramo, e
+
+poi vide che una figura umana vi si dondolava sopra. La figura si dondolò e
+
+si lasciò cadere alla maniera di una scimmia e poi avanzò verso la [[Window|finestra]] nel
+
+profilo riconoscibile di un uomo. Mentre lo faceva, tutti i pensieri minori
+
+svanirono, ed ella seppe che non era suo padre né il signor Wilmot della porta
+
+accanto. Un crescente ma incomprensibile terrore la afferrò, come quando
+
+i volti degli amici mutano in un brutto sogno. John Judson si accostò
+
+alla [[Window|finestra]] chiusa e parlò, ma lei non poté udire ciò che disse. Tutto
+
+l'[[nightmare|incubo]] era in quella bocca che si muoveva senza suono contro quella pellicola invisibile.
+
+Era come se fosse muto come un pesce, che risale a un oblò, e il suo
+
+volto era pallido come il ventre dei pesci degli abissi.
+
+Le finestre che davano sul [[Garden|giardino]] erano chiuse a chiave, come tutte le uscite simili, ma
+
+lei sapeva dove il padre teneva le chiavi, e in un attimo furono aperte.
+
+Il suo saluto indignato le si arrestò sulle labbra, poiché Judson gridò, con una
+
+voce rauca che non aveva mai udito da alcun essere umano: «Suo padre... deve
+
+essere pazzo.»
+
+Si fermò e parve sgomento delle proprie parole. Poi si portò le mani alle
+
+fronte sporgente, come afferrandosi i corti capelli scuri, e dopo un
+
+[[Silence|silenzio]] disse, ma con un'enfasi diversa: «Deve essere pazzo.»
+
+L'istinto di Enid le disse che egli aveva detto due cose del tutto diverse,
+
+pur ripetendo le stesse parole. Ma passò molto tempo prima che ella giungesse
+
+a comprendere la differenza tra quelle due esclamazioni, o ciò che era
+
+accaduto tra l'una e l'altra.

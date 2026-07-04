@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/don-quixote-(chesterton)">Don Quixote</a> › <a href="/testi/chesterton/atomized/don_quixote/chapter_16">Chapter 16</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/don_quixote/chapter_15/part_05">‹ part 05</a><a class="ex-next" href="/testi/chesterton/atomized/don_quixote/chapter_16/part_02">part 02 ›</a></div>
@@ -116,3 +118,115 @@ Hatton, the man who had been caricatured so often in the papers
 as the [[Fire|fire]]-brand of Red Revolution, was a good deal blamed
 for his extreme caution and consideration for the employers.
 Some even said he was in the pay of the capitalists.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/don-quixote-(chesterton)">Don Quixote</a> › <a href="/testi/chesterton/atomized/don_quixote/chapter_16">Chapter 16</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/don_quixote/chapter_15/part_05">‹ part 05</a><a class="ex-next" href="/testi/chesterton/atomized/don_quixote/chapter_16/part_02">part 02 ›</a></div>
+</nav>
+
+CAPITOLO XV
+
+LA SEPARAZIONE DELLE VIE
+
+Olive Ashley si allontanò dalla scena dell'indignata
+orazione, apparendo persino più pallida del solito; né era pallida soltanto
+per l'eccitazione, ma anche per una sorta di [[Pain|dolore]] inflitto da [[Self|sé]].
+Pareva essere giunta all'improvviso al termine e all'orlo di qualcosa;
+a una sfida e a una scelta. Era una di quelle donne
+che non si possono trattenere dal ferire se stesse, una volta che
+il loro senso morale è fortemente commosso. Aveva bisogno di una religione;
+e soprattutto di un altare su cui essere un sacrificio.
+Aveva anche, a suo modo, una singolare intensità intellettuale;
+e le idee per lei non erano meri concetti. E le pareva,
+con una brusca e terribile chiarezza, di non poter più
+mantenere il suo colloquio meramente romantico col nemico,
+a meno che non fosse pronta a passare onestamente dalla sua parte.
+Se fosse passata dall'altra parte, vi sarebbe passata per sempre; e
+doveva considerare che cosa esattamente si sarebbe lasciata dietro.
+Se fosse stato semplicemente il mondo intero, o in altre parole la società,
+non avrebbe esitato; ma era l'Inghilterra; era il patriottismo;
+era la semplice morale. Se la nuova causa nazionale fosse stata davvero
+soltanto una buffonata antiquaria, o uno spettacolo araldico, o persino
+una reazione sentimentale come quella che un tempo avrebbe potuto sognare,
+avrebbe potuto indursi facilmente ad abbandonarla.
+Ma ora con tutto il suo cervello e la sua [[Conscience|coscienza]] era convinta
+che sarebbe stato come disertare la [[Flag|bandiera]] in una grande guerra.
+La sua convinzione era stata finalmente suggellata dalla denuncia
+degli oppressori di Hendry in termini umani e commoventi; la causa
+era la causa del vecchio amico di suo padre e di suo padre.
+Ma è un fatto ironico che ciò che più l'aveva convinta
+della giustizia del grande nemico di Braintree fosse stata la [[Truth|verità]]
+del suo tributo a Braintree. Senza una parola a nessuno,
+uscì dal cancello principale e prese la [[Road|strada]] per la città.
+
+Mentre Olive camminava lentamente attraverso i tetri sobborghi verso i luoghi ancor più oscuri
+del centro della città delle fabbriche, si rese conto di aver
+varcato una frontiera e di camminare in un mondo che non conosceva.
+Naturalmente era stata in simili città mille volte, e persino in quella
+particolare città abbastanza spesso; essendo la città più vicina a Seawood Abbey
+e alla [[house|casa]] della sua amica. Ma la frontiera che aveva varcato non era
+tanto di spazio quanto di [[Time|tempo]]; o forse non di spazio ma di spirito.
+Come qualcuno che scopre una nuova dimensione, si rese conto che c'era,
+ed era esistito per tutto il [[Time|tempo]], un altro mondo accanto al suo,
+un mondo di cui non aveva udito nulla; nulla dai giornali;
+nulla dai politici, persino quando parlavano dopo cena.
+Il [[Paradox|paradosso]] era che i giornali e i politici non erano mai così silenziosi
+al riguardo come quando si supponeva ne stessero parlando.
+
+Il grande Sciopero che era cominciato lontano nelle miniere andava
+avanti da quasi un mese. Olive e i suoi amici lo consideravano
+una Rivoluzione; in ciò concordando col piccolissimo
+ma determinato gruppo di Comunisti tra gli scioperanti.
+Ma non era il suo essere una rivoluzione a sorprenderla o a lasciarla perplessa.
+Era piuttosto che era diverso da qualsiasi cosa avesse mai associato
+a quella parola. Aveva visto sciocchi film e melodrammi sulla
+[[French Revolution|Rivoluzione francese]] e aveva immaginato che una sollevazione popolare dovesse essere una folla,
+e che una folla dovesse essere una folla di demoni seminudi e urlanti.
+Aveva sentito descrivere questa cosa davanti a lei come assai più feroce
+di quanto fosse e assai più mite di quanto fosse; descritta da un tipo
+di galoppino di partito come una cospirazione di sanguinari briganti contro Dio e
+la Primrose League; e da un altro tipo di galoppino di partito come un banale
+benché deplorevole malinteso, che sarebbe presto stato appianato
+dalla comprensiva arte di governo del Sottosegretario
+al Ministero del Capitale. Aveva sentito parlare di politica
+tutta la vita; benché non se ne fosse mai interessata.
+Ma non aveva mai dubitato che questa fosse la politica moderna; e che
+interessarsi alla politica moderna significasse interessarsi ad essa.
+Il Primo Ministro e il Parlamento e il Ministero degli Esteri
+e il Board of Trade e cose tediose di quel genere...
+c'erano quelle cose e tutto il resto era Rivoluzione.
+Ma mentre passava dapprima attraverso i gruppi nei gruppi per strada,
+e poi attraverso i gruppi negli uffici esterni degli edifici ufficiali,
+le si fece chiara una [[Truth|verità]] assai diversa.
+
+C'era un Primo Ministro di cui non aveva mai sentito parlare; ed era
+un uomo che conosceva. C'era un Parlamento di cui non aveva mai sentito parlare;
+ed egli l'aveva appena influenzato con un discorso storico che non sarebbe mai passato
+alla [[history|storia]]. C'era un Board of Trade di cui non aveva mai sentito parlare;
+un Board che si riuniva davvero e aveva assai più da dire
+sul Commercio. C'erano Dipartimenti [[government|Governativi]] del tutto fuori
+dal [[government|Governo]]; Dipartimenti [[government|Governativi]] del tutto contro il [[government|Governo]].
+C'era una burocrazia; c'era una gerarchia; c'era un esercito.
+Aveva le qualità e i difetti di tali sistemi; ma non era
+minimamente simile alla spaventosa folla francese del film.
+Udiva la gente parlare intorno a lei e menzionare
+nomi come la sua stessa classe menzionava i nomi dei politici;
+e scoprì che non ne conosceva nessuno, tranne Braintree, e quello
+di un altro che era stato capricciosamente prescelto dai giornali
+fra tutti gli altri e caricaturato come una sorta di infuriato buffone.
+Ma gli statisti di questo Stato sepolto venivano nominati con
+un'aria di calma familiarità, che la fece sentire come se fosse
+caduta dalla [[Moon|luna]]. Jimson aveva ragione dopotutto e benché
+Hutchins avesse fatto un buon lavoro ai suoi [[Time|tempi]], ora aveva torto.
+Non dovevano sempre lasciare che Ned Bruce li rigirasse coi discorsi.
+Di tanto in tanto Braintree veniva nominato come il capo principale,
+e non di rado criticato, il che la irritava
+parecchio; provava un piccolo fremito quando veniva lodato.
+Hatton, l'uomo che era stato così spesso caricaturato dai giornali
+come il [[Fire|tizzone]] della Rivoluzione Rossa, veniva assai biasimato
+per la sua estrema cautela e il suo riguardo verso i datori di lavoro.
+Alcuni dicevano persino che era al soldo dei capitalisti.

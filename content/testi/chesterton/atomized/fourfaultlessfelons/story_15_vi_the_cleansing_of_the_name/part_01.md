@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/fourfaultlessfelons-(chesterton)">FourFaultlessFelons</a> › <a href="/testi/chesterton/atomized/fourfaultlessfelons/story_15_vi_the_cleansing_of_the_name">Story 15 Vi The Cleansing Of The Name</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/fourfaultlessfelons/story_14_v_the_thief_on_trial/part_03">‹ part 03</a><a class="ex-next" href="/testi/chesterton/atomized/fourfaultlessfelons/story_15_vi_the_cleansing_of_the_name/part_02">part 02 ›</a></div>
@@ -195,3 +197,194 @@ the top of the wave the vision of the divine umbrella."
 "And do you think," he asked, "that what I saw was a picture of angels
 
 playing harps out of the Family [[Bible]]? What I saw, so far as I can be
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/fourfaultlessfelons-(chesterton)">FourFaultlessFelons</a> › <a href="/testi/chesterton/atomized/fourfaultlessfelons/story_15_vi_the_cleansing_of_the_name">Story 15 Vi The Cleansing Of The Name</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/fourfaultlessfelons/story_14_v_the_thief_on_trial/part_03">‹ part 03</a><a class="ex-next" href="/testi/chesterton/atomized/fourfaultlessfelons/story_15_vi_the_cleansing_of_the_name/part_02">part 02 ›</a></div>
+</nav>
+
+VI LA PURIFICAZIONE DEL NOME
+
+IL processo e l'assoluzione di Alan Nadoway in un'aula di [[Court|tribunale]] furono soltanto un
+
+epilogo del vero dramma. Egli avrebbe forse detto che erano soltanto una
+
+arlecchinata al termine della fiaba scenica. La vera scena conclusiva e il
+
+calar del sipario avevano avuto luogo su quel verde palcoscenico di «The Lawns», che
+
+Millicent, per quanto strano, aveva sempre sentito simile a una specie di scenario
+
+teatrale, rigido eppure stravagante, con i profili frastagliati delle
+
+piante esotiche come fauci di squali e la bassa fila delle bow-window
+
+come gli occhialoni da automobilista di un [[Monster|mostro]]. A tutta la sua grottesca
+
+stranezza si era sempre mescolato nella sua mente qualcosa di quasi operistico eppure genuino;
+
+qualcosa di sentimento o passione reali quale vi era nell'Ottocento
+
+vittoriano, malgrado tutto ciò che si dice della compassatezza e del ritegno
+
+vittoriani. Era quella cosa essenzialmente [[Innocent|innocente]], quella cosa difettosa ma non cinica,
+
+il Movimento Romantico. L'uomo che le stava dinanzi, con la sua
+
+bizzarra e straniera mezza barba, aveva in sé qualcosa d'indescrivibile che
+
+apparteneva ad Alfred de Musset o a Chopin. Ella non sapeva in che sorta
+
+di armonia si mescolassero questi pensieri fantasiosi, ma sapeva che la
+
+musica era come un'antica melodia.
+
+Aveva appena pronunciato queste parole: «Non posso sopportare il [[Silence|silenzio]], perché è
+
+ingiusto. È ingiusto verso di voi».
+
+Ed egli aveva risposto: «È proprio perché è ingiusto verso di me che è giusto.
+
+Questa è tutta la storia; benché suppongo che voi la definireste una storia
+
+strana».
+
+«Non m'importa che parliate per enigmi», rispose Millicent [[Milton]]
+
+con fermezza, «ma voglio che comprendiate qualcosa di più. È ingiusto verso di
+
+me."
+
+Dopo un [[Silence|silenzio]] egli disse a bassa voce: «Sì; è questo che mi ha preso.
+
+È questo che mi ha spezzato in due. Mi sono imbattuto in qualcosa di più grande
+
+di tutto il piano che avevo fatto per la mia vita. [[Well|Ebbene]], suppongo che dovrò
+
+raccontarvi la mia storia».
+
+«Credevo», disse ella con un lieve sorriso, «che mi aveste già raccontato
+
+la vostra storia».
+
+«Sì», replicò Alan; «vi ho raccontato la mia storia, e come. Tutto verissimo, tralasciando
+
+soltanto le cose importanti».
+
+«[[Well|Ebbene]]», disse Millicent, «mi piacerebbe certamente udirla con le
+
+cose importanti al loro posto».
+
+«La difficoltà è», disse egli, «che le cose importanti non si possono
+
+descrivere. Le parole vanno tutte storte quando si descrivono simili cose. Erano
+
+più grandi di naufragi o di isole [[Desert|deserte]], ma accaddero tutte
+
+dentro la mia testa».
+
+Dopo un [[Silence|silenzio]] riprese, più lentamente, come un uomo che cerca nuove
+
+parole.
+
+«Quando stavo annegando nel Pacifico, credo di aver avuto una Visione. Mi [[Rose|sollevai]] per
+
+la terza [[Time|volta]] sulla cima di una grande onda e vidi una Visione. Credo
+
+che ciò che vidi fosse la Religione».
+
+Qualcosa negli involontari moti mentali della Lady inglese fu
+
+arrestato e quasi raggelato. Ella si sentì vagamente ostile a certe
+
+associazioni, non sapeva bene quali. Era essa stessa devotamente, se pure alquanto
+
+vagamente, legata a una tradizione di Alta Chiesa, ma coglieva solo a metà
+
+il pregiudizio che si era destato in lei. Gli uomini che vengono dalle colonie e
+
+dai confini della terra, e dicono di aver trovato la religione, quasi sempre intendono
+
+di aver «trovato Gesù» o di essere stati a un raduno revivalista in qualche luogo;
+
+e l'intera faccenda pareva socialmente incongrua con la cultura di lui e con la
+
+sua. Non somigliava affatto ad Alfred de Musset.
+
+Con la [[Uncanny|sinistra]] chiaroveggenza del mistico egli parve cogliere il suo
+
+fuggevole [[Doubt|dubbio]] e disse allegramente: «Oh, non intendo di aver incontrato un
+
+missionario battista. Vi sono due specie di missionari: quelli giusti e quelli
+
+sbagliati, e sbagliano entrambi. Almeno sbagliano entrambi riguardo alla
+
+cosa a cui sto pensando. I missionari stupidi dicono che i selvaggi si prostrano
+
+nel fango dinanzi a idoli di fango, e andranno tutti all'inferno per idolatria se
+
+non si fanno astemi e non portano bombette. I missionari
+
+intelligenti dicono che i selvaggi hanno grandi possibilità e spesso un
+
+codice morale assai elevato, il che è verissimo, ma non è il punto. Quel che
+
+non vedono è che assai spesso i selvaggi hanno davvero afferrato
+
+la religione, e che molte persone dotate di un codice morale elevato non sanno cosa
+
+significhi la religione. Fuggirebbero urlando di terrore, se solo
+
+scorgessero una traccia della Religione. È una cosa spaventosa.
+
+«Ne appresi qualcosa dal pazzo con cui vissi sull'isola
+
+[[Desert|deserta]]. Vi ho detto ch'egli era praticamente impazzito, oltre che essersi fatto [[Well|del tutto]]
+
+selvaggio. Ma c'era qualcosa da imparare da lui, che non si può imparare
+
+dalle società etiche e dai predicatori popolari. Il poveretto era approdato
+
+a riva aggrappandosi a un buffo ombrello all'antica, che per caso
+
+aveva il manico intagliato in un volto [[Grotesque|grottesco]], e quando emerse delirando
+
+dal suo delirio, per quel tanto che mai ne emerse, considerava l'ombrello
+
+come il dio che lo aveva salvato, e lo eresse in una specie di
+
+sacrario e vi si prostrava dinanzi e gli offriva sacrifici. È questo il
+
+punto... I sacrifici. Quando aveva fame bruciava dinanzi ad esso un po' del suo
+
+cibo. Quando aveva sete, versava ugualmente un po' della
+
+birra indigena che fabbricava. Credo che avrebbe potuto sacrificarmi al suo
+
+idolo. Sono certo che avrebbe sacrificato se stesso. Non voglio dire» — parlava
+
+ancora più lentamente e con grande gravità — «non voglio dire esattamente che i
+
+cannibali abbiano ragione, o il sacrificio umano e tutto il resto. Hanno torto — se ci si
+
+riflette — hanno davvero torto, perché la gente non vuole essere
+
+mangiata. Ma se io voglio essere sacrificato chi mi fermerà? Nessuno,
+
+neppure Dio in persona, mi fermerà, se voglio patire ingiustizia. Vietarmi
+
+di patire ingiustizia sarebbe la più grande ingiustizia di tutte».
+
+«Siete piuttosto sconnesso», disse ella, «ma comincio ad avere un
+
+barlume di ciò che intendete. Presumo che non intendiate di aver visto dalla
+
+cima dell'onda la visione del divino ombrello».
+
+«E credete», egli chiese, «che ciò che vidi fosse un quadro di angeli
+
+che suonavano l'arpa uscito dalla [[Bible|Bibbia]] di famiglia? Ciò che vidi, per quanto io possa
