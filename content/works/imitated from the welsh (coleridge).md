@@ -2,7 +2,7 @@
 title: IMITATED FROM THE WELSH
 author: Coleridge
 type: work
-cluster: Greek Mythology · Lust / Sexual Desire · Desire
+cluster: Greek Mythology · Lust Sexual Desire · Desire
 source: Authors/Coleridge/_raw/054_IMITATED_FROM_THE_WELSH.md
 tags:
   - graph/work

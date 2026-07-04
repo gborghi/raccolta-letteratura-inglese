@@ -2,7 +2,7 @@
 title: ON DONNE’S POEM ‘TO A FLEA
 author: Coleridge
 type: work
-cluster: Letters and Writing · Immortality Through Verse · Immortality of Art / Fame
+cluster: Letters and Writing · Immortality Through Verse · Immortality of Art Fame
 source: Authors/Coleridge/_raw/369_ON_DONNES_POEM_TO_A_FLEA.md
 tags:
   - graph/work

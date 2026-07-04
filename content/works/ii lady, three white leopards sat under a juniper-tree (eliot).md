@@ -2,7 +2,7 @@
 title: 'II Lady, three white leopards sat under a juniper-tree'
 author: Eliot
 type: work
-cluster: Grace and Redemption · Humility · Bread and Wine / Eucharist
+cluster: Grace and Redemption · Humility · Bread and Wine Eucharist
 source: >-
   Authors/Eliot/_raw/037_II_Lady_three_white_leopards_sat_under_a_juniper-tree.md
 tags:

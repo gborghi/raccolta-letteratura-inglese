@@ -2,7 +2,7 @@
 title: 'LETTER, JULY 19, 1802.'
 author: Coleridge
 type: work
-cluster: Joy · Animals · Comic Verse / Song
+cluster: Joy · Animals · Comic Verse Song
 source: Authors/Coleridge/_raw/206_LETTER_JULY_19_1802.md
 tags:
   - graph/work

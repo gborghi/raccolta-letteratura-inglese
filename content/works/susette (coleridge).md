@@ -2,7 +2,7 @@
 title: SUSETTE
 author: Coleridge
 type: work
-cluster: Joy · Animals · Comic Verse / Song
+cluster: Joy · Animals · Comic Verse Song
 source: Authors/Coleridge/_raw/440_SUSETTE.md
 tags:
   - graph/work

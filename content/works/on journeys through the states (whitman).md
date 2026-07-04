@@ -2,7 +2,7 @@
 title: On Journeys Through the States
 author: Whitman
 type: work
-cluster: Nationalism and Patriotism · Democracy · Liberty / Political Freedom
+cluster: Nationalism and Patriotism · Democracy · Liberty Political Freedom
 source: Authors/Whitman/_raw/013_On_Journeys_Through_the_States.md
 tags:
   - graph/work

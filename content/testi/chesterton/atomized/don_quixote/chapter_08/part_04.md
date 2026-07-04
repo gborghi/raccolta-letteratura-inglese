@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/don-quixote-(chesterton)">Don Quixote</a> › <a href="/testi/chesterton/atomized/don_quixote/chapter_08">Chapter 08</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/don_quixote/chapter_08/part_03">‹ part 03</a><a class="ex-next" href="/testi/chesterton/atomized/don_quixote/chapter_09/part_01">part 01 ›</a></div>
@@ -109,5 +111,52 @@ as he was leaving it; a figure at once fearfully unfamiliar.
 He struggled with some confusion of [[Identity|identity]]; as in a [[nightmare]].
 Then he sank into a stupefied certainty; for the figure was that
 of Mr. John Braintree; and he had shaved off his beard.
+
+-^-
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/don-quixote-(chesterton)">Don Quixote</a> › <a href="/testi/chesterton/atomized/don_quixote/chapter_08">Chapter 08</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/don_quixote/chapter_08/part_03">‹ part 03</a><a class="ex-next" href="/testi/chesterton/atomized/don_quixote/chapter_09/part_01">part 01 ›</a></div>
+</nav>
+
+«Ma come possiamo andare avanti?» chiese Rosamund esasperata. «Chi altri c'è che potrebbe fare il [[King|Re]]? Abbiamo avuto abbastanza guai a procurarci un Trovatore aggiunto, finché il signor Herne non è stato tanto gentile da aiutarci.»
+
+«Il guaio è», disse Archer, «che se io facessi il [[King|Re]], non avreste nessuno che possa fare Blondel.»
+
+«[[Well|E allora]]», disse Rosamund piuttosto seccata, «in tal caso bisognerebbe lasciar perdere.»
+
+Vi fu un [[Silence|silenzio]] ed essi rimasero a guardarsi l'un l'altro. Poi tutti insieme volsero il capo e guardarono verso l'altra estremità della lunga stanza, da cui aveva parlato una voce nuova.
+
+Poiché Olive Ashley si era alzata all'improvviso dalla sua occupazione e si era voltata per parlare. Rimasero un po' sbalorditi, giacché non avevano avuto la minima idea che ella stesse persino ascoltando.
+
+«Bisognerebbe lasciar perdere», disse, «a meno che non riusciate a convincere il signor Herne a fare lui stesso il [[King|Re]]. È l'unica persona che sappia o a cui importi di che cosa si tratti veramente.»
+
+«Che Dio benedica la mia [[Soul|anima]]», fu il commento premuroso del signor Herne.
+
+«Non so che cosa vi immaginiate che significhi tutto ciò», proseguì Olive con una certa amarezza. «Pare che l'abbiate trasformato tutto in una sorta di opera lirica... un'opera buffa. [[Well|Beh]], io non ne so nulla, nel modo in cui ne sa lui; ma con tutto ciò intendevo dire qualcosa. Oh, non m'immagino di poterlo esprimere come si deve... nemmeno la metà di [[Well|quanto]] lo esprima una qualsiasi vecchia [[Song|canzone]] come quella che dice 'Will ye no come back again?' oppure 'When the [[King]] enjoys his own again.'»
+
+«Quella è giacobita», spiegò Archer con benevolenza. «Fai un po' di confusione tra i periodi, eh?»
+
+«Non so quale sia il [[King|Re]] che dovrebbe tornare, più di quanto non lo sappia chiunque altro», rispose Olive con fermezza. «[[King Arthur|Re Artù]] o il [[King|Re]] [[Richard]] o il [[King|Re]] Carlo o qualcuno. Ma il signor Herne sa davvero qualcosa di ciò che quegli uomini intendevano per un [[King|re]]. Vorrei quasi che il signor Herne fosse davvero [[King|Re]] d'Inghilterra.»
+
+Julian Archer gettò indietro il capo e proruppe in una risata deliziata. V'era qualcosa di esagerato e quasi innaturale nella sua risata; come lo stridulo scherno con cui gli uomini hanno accolto le profezie.
+
+«Ma senti un po'», protestò la più pratica Rosamund, «anche ammesso che il signor Herne possa fare il [[King|Re]], chi farà allora la sua parte, quella per cui ci siamo tanto arrabattati prima?»
+
+Olive Ashley voltò di nuovo le spalle e parve riprendere a riordinare i suoi colori.
+
+«Oh», disse, piuttosto bruscamente, «a quello posso pensarci io. Un mio amico se ne incaricherà, se volete.»
+
+Gli altri la fissarono con una certa [[Wonder|meraviglia]]; e poi Rosamund disse: «Non faremmo meglio a consultare Monkey su questo? Conosce così tanta gente.»
+
+«Mi dispiace», replicò Olive, sempre riordinando, «temo di averlo mandato a sbrigare una faccenda per conto mio. È stato tanto gentile da offrirsi di procurarmi uno dei miei colori.»
+
+E in verità era vero che, mentre la cerchia sociale andava assestandosi (con lo sconcerto del signor Archer) in una sorta di accettazione dell'idea dell'incoronazione del signor Herne, il loro amico Douglas Murrel stava proprio in quel momento accingendosi a una spedizione che avrebbe avuto un curioso effetto su tutte le loro sorti. Olive Ashley gli aveva chiesto di scoprire se un particolare pigmento fosse ancora reperibile presso i colorifici per [[Artist|artisti]]. Ma egli aveva tutto l'esagerato [[Love|amore]] dello scapolo allegro per l'avventura, e specialmente per i preparativi dell'avventura. Proprio come s'era messo in cammino nel suo giro notturno con il signor Braintree con la generale sensazione che la [[Night|notte]] sarebbe durata in eterno, così si accinse alla sua piccola commissione per la signorina Ashley con il generale presupposto che essa lo avrebbe condotto ai confini del mondo. E in verità forse lo condusse, in un certo senso, ai confini del mondo; o forse agli inizi d'un altro. Prelevò dalla banca una somma di denaro considerevole; si riempì le tasche di tabacco e fiaschette e temperini come se stesse andando al Polo Nord. La maggior parte degli uomini intelligenti fa questo gioco infantile con sé stessa in una forma o nell'altra; ma egli lo stava di certo portando piuttosto in là e si comportava come se si aspettasse d'incontrare orchi e draghi mentre risaliva la strada.
+
+E, di fatto, non appena ebbe messo piede fuori dall'antica porta gotica di Seawood, si trovò faccia a faccia con un prodigio. Avrebbe quasi potuto dire un [[Monster|mostro]]. Una figura stava entrando nella [[house|casa]] mentre egli ne usciva; una figura al tempo stesso spaventosamente estranea. Lottò con una certa confusione d'[[Identity|identità]]; come in un [[nightmare|incubo]]. Poi sprofondò in una stupefatta certezza; poiché la figura era quella del signor John Braintree; e s'era rasato la barba.
 
 -^-

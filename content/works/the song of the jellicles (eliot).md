@@ -2,7 +2,7 @@
 title: The Song of the Jellicles
 author: Eliot
 type: work
-cluster: Joy · Animals · Comic Verse / Song
+cluster: Joy · Animals · Comic Verse Song
 source: Authors/Eliot/_raw/084_The_Song_of_the_Jellicles.md
 tags:
   - graph/work

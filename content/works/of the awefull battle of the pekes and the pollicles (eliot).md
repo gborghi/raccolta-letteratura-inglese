@@ -2,7 +2,7 @@
 title: Of the Awefull Battle of the Pekes and the Pollicles
 author: Eliot
 type: work
-cluster: Joy · Animals · Comic Verse / Song
+cluster: Joy · Animals · Comic Verse Song
 source: Authors/Eliot/_raw/087_Of_the_Awefull_Battle_of_the_Pekes_and_the_Pollicles.md
 tags:
   - graph/work

@@ -2,7 +2,7 @@
 title: The Sphinx
 author: Wilde
 type: work
-cluster: Greek Mythology · Lust / Sexual Desire · Desire
+cluster: Greek Mythology · Lust Sexual Desire · Desire
 source: Authors/Wilde/_raw/030_The_Sphinx.md
 tags:
   - graph/work

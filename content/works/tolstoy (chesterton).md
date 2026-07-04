@@ -2,7 +2,7 @@
 title: Leo Tolstoy
 author: Chesterton
 type: work
-cluster: Artist and Society · Truth · Regency/Georgian England
+cluster: Artist and Society · Truth · Regency Georgian England
 source: Authors/Chesterton/_raw/tolstoy.md
 tags:
   - graph/work

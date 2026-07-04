@@ -4,7 +4,7 @@ title: >-
   1796,
 author: Coleridge
 type: work
-cluster: Nationalism and Patriotism · Democracy · Liberty / Political Freedom
+cluster: Nationalism and Patriotism · Democracy · Liberty Political Freedom
 source: >-
   Authors/Coleridge/_raw/116_VERSES_ADDRESSED_TO_J_HORNE_TOOKE_AND_THE_COMPANY_WHO_MET_ON_JUNE_28TH_1796.md
 tags:

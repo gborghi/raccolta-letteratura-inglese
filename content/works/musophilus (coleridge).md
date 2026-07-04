@@ -2,7 +2,7 @@
 title: MUSOPHILUS
 author: Coleridge
 type: work
-cluster: Letters and Writing · Immortality Through Verse · Immortality of Art / Fame
+cluster: Letters and Writing · Immortality Through Verse · Immortality of Art Fame
 source: Authors/Coleridge/_raw/428_MUSOPHILUS.md
 tags:
   - graph/work

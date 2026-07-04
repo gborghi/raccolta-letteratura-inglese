@@ -2,7 +2,7 @@
 title: The Rolling English Road
 author: Chesterton
 type: work
-cluster: Wine and Drink · Ballad / Ballade · Road
+cluster: Wine and Drink · Ballad Ballade · Road
 source: Authors/Chesterton/_raw/rolling.md
 tags:
   - graph/work

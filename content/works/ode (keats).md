@@ -2,7 +2,7 @@
 title: ODE
 author: Keats
 type: work
-cluster: Letters and Writing · Immortality Through Verse · Immortality of Art / Fame
+cluster: Letters and Writing · Immortality Through Verse · Immortality of Art Fame
 source: Authors/Keats/_raw/036_ODE.md
 tags:
   - graph/work

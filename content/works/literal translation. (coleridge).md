@@ -2,7 +2,7 @@
 title: LITERAL TRANSLATION.
 author: Coleridge
 type: work
-cluster: Nationalism and Patriotism · Democracy · Liberty / Political Freedom
+cluster: Nationalism and Patriotism · Democracy · Liberty Political Freedom
 source: Authors/Coleridge/_raw/112_LITERAL_TRANSLATION.md
 tags:
   - graph/work

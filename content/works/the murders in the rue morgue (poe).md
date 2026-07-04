@@ -2,7 +2,7 @@
 title: The Murders in the Rue Morgue
 author: Poe
 type: work
-cluster: Short Story · Concealment / Hidden Identity · Justice / Right and Wrong
+cluster: Short Story · Concealment Hidden Identity · Justice Right and Wrong
 source: Authors/Poe/_raw/The Murders in the Rue Morgue.md
 tags:
   - graph/work

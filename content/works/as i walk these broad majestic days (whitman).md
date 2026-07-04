@@ -2,7 +2,7 @@
 title: As I Walk These Broad Majestic Days
 author: Whitman
 type: work
-cluster: Nationalism and Patriotism · Democracy · Liberty / Political Freedom
+cluster: Nationalism and Patriotism · Democracy · Liberty Political Freedom
 source: Authors/Whitman/_raw/275_As_I_Walk_These_Broad_Majestic_Days.md
 tags:
   - graph/work

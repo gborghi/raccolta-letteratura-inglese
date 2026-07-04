@@ -2,7 +2,7 @@
 title: A Song of Opposites
 author: Keats
 type: work
-cluster: Joy · Animals · Comic Verse / Song
+cluster: Joy · Animals · Comic Verse Song
 source: Authors/Keats/_raw/071_A_Song_of_Opposites.md
 tags:
   - graph/work

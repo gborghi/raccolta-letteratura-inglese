@@ -2,7 +2,7 @@
 title: Lune de Miel
 author: Eliot
 type: work
-cluster: Ruins / the Abbey · Sic Transit Gloria Mundi · Ubi Sunt
+cluster: Ruins the Abbey · Sic Transit Gloria Mundi · Ubi Sunt
 source: Authors/Eliot/_raw/021_Lune_de_Miel.md
 tags:
   - graph/work

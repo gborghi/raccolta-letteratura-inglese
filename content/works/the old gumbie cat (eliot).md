@@ -2,7 +2,7 @@
 title: The Old Gumbie Cat
 author: Eliot
 type: work
-cluster: Joy · Animals · Comic Verse / Song
+cluster: Joy · Animals · Comic Verse Song
 source: Authors/Eliot/_raw/081_The_Old_Gumbie_Cat.md
 tags:
   - graph/work

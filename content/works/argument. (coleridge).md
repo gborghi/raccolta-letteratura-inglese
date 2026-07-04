@@ -2,7 +2,7 @@
 title: ARGUMENT.
 author: Coleridge
 type: work
-cluster: Nationalism and Patriotism · Democracy · Liberty / Political Freedom
+cluster: Nationalism and Patriotism · Democracy · Liberty Political Freedom
 source: Authors/Coleridge/_raw/149_ARGUMENT_1.md
 tags:
   - graph/work

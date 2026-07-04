@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/don-quixote-(chesterton)">Don Quixote</a> › <a href="/testi/chesterton/atomized/don_quixote/chapter_04">Chapter 04</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/don_quixote/chapter_04/part_01">‹ part 01</a><a class="ex-next" href="/testi/chesterton/atomized/don_quixote/chapter_04/part_03">part 03 ›</a></div>
@@ -141,3 +143,67 @@ was a suspension of speech and an instantaneous [[Silence|silence]];
 and the eyes of the learned librarian, like the eyes of a [[Fool|fool]],
 were in the ends of the earth.  Then he went on as with a
 sort of soliloquy.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/don-quixote-(chesterton)">Don Quixote</a> › <a href="/testi/chesterton/atomized/don_quixote/chapter_04">Chapter 04</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/don_quixote/chapter_04/part_01">‹ part 01</a><a class="ex-next" href="/testi/chesterton/atomized/don_quixote/chapter_04/part_03">part 03 ›</a></div>
+</nav>
+
+Del resto, era figlio di un povero pastore; era uno dei pochi che siano riusciti a essere insocievoli a [[Oxford]], non per positiva avversione alla società, ma per un altrettanto positivo [[Love|amore]] della [[Solitude|solitudine]]; e i suoi pochi ma tenaci esercizi fisici erano o solitari, come il camminare e il nuotare, oppure piuttosto rari ed eccentrici, come la scherma. Aveva un'ottima cultura generale in fatto di libri e, dovendosi guadagnare da vivere, era ben lieto di guadagnare uno stipendio badando alla bella e antica biblioteca raccolta dai precedenti proprietari di Seawood Abbey. Ma l'unica vacanza della sua vita era stata piena di duro lavoro, quando era andato come assistente subalterno agli scavi delle città ittite in Arabia; e tutti i suoi [[Dreams|sogni]] a occhi aperti non erano che repliche di quella vacanza.
+
+Se ne stava in piedi presso la portafinestra aperta dalla quale la biblioteca guardava sul prato, con le mani nelle tasche dei pantaloni e negli occhi quello sguardo piuttosto cieco dell'introspezione, quando la verde linea del [[Garden|giardino]] fu spezzata dall'apparizione di tre figure, due delle quali, almeno, si sarebbero potute dire notevoli, per non dire sconcertanti. Sarebbero potute essere [[Ghosts|fantasmi]] dai gai colori, usciti dal passato. Il loro costume era ben lungi dall'essere ittita, come anche un più umile grado di specializzazione avrebbe [[Well|ben]] potuto avvedersi; ma era quasi altrettanto stravagante. Solo la terza figura, in giacca e pantaloni di leggero tweed, era di una rassicurante modernità.
+
+«Oh, signor Herne» gli stava dicendo una giovane dama in tono cortese ma piuttosto sicuro di sé; una giovane dama incorniciata da un meraviglioso copricapo cornuto e da una attillata veste azzurra dalle maniche a punta pendenti. «Vogliamo chiederle un gran favore. Siamo in un'imbarazzante difficoltà senza fine.»
+
+Gli occhi del signor Herne parvero mutare messa a fuoco, come dotati d'una nuova lente, per perdere la distanza e cogliere il primo piano; un primo piano tutto occupato dalla magnifica giovane dama. Parve fare su di lui un curioso effetto, perché rimase muto per un istante, e poi disse con più calore di quanto ci si sarebbe aspettati dal suo aspetto.
+
+«Qualunque cosa io possa fare...»
+
+«Si tratta solo di sostenere una piccolissima parte nella nostra recita» supplicò lei, «è una vergogna assegnargliene una così esigua, ma sono venuti a mancare tutti quanti e noi non vogliamo rinunciare all'intera faccenda.»
+
+«Che recita è?» chiese lui.
+
+«Oh, sono tutte sciocchezze, s'intende» disse lei con disinvoltura, «s'intitola "Blondel the Troubadour", e parla di [[Richard]] Coeur de [[Lion]] e di serenate e di principesse e di castelli e delle solite cose del genere. Ma ci occorre qualcuno per il Secondo Trovatore, che deve andare in giro con Blondel e parlargli. O piuttosto farsi parlare, perché, naturalmente, è Blondel a fare tutti i discorsi. Non le ci vorrebbe molto a imparare la parte.»
+«Basta pizzicare la lieve chitarra» disse Murrel in tono incoraggiante, «una specie di variante medievale del suonare il vecchio banjo.»
+
+«Ciò che ci occorre davvero» disse Archer con maggiore serietà, «è un ricco sfondo romantico, per così dire. È questo che rappresenta il Secondo Trovatore; come in "The Forest [[lovers|Lovers]]", [[Dreams|sogni]] fanciulleschi del passato, pieni di cavalieri erranti e di eremiti e di tutto il resto.»
+
+«È piuttosto brutale chiedere a qualcuno di fare da ricco sfondo romantico con un preavviso così breve» ammise Murrel, «ma lei sa di che si tratta. Faccia da sfondo, signor Herne, su.»
+
+Il lungo volto del signor Herne aveva assunto un'espressione del più grande cordoglio.
+
+«Mi dispiace terribilmente» disse, «mi sarebbe piaciuto immensamente aiutarvi in qualsiasi modo. Ma non è il mio periodo.»
+
+Mentre gli altri lo guardavano perplessi, egli proseguì come un uomo che pensa ad alta voce.
+
+«Garton Rogers è l'uomo che fa per voi. Floyd è bravissimo; ma dà il meglio di sé sulla Quarta Crociata. Sono certo che il miglior consiglio che potrei darvi è di rivolgervi a Rogers del Balliol.»
+
+«Lo conosco un po'» disse Murrel, guardando l'altro con un sorriso piuttosto storto. «Era il mio tutore.»
+
+«Eccellente!» disse il bibliotecario. «Non potreste far di meglio.»
+
+«Sì, lo conosco» disse Murrel con gravità, «non ha ancora del tutto settantatré anni ed è completamente calvo; e tanto grasso che riesce a stento a camminare.»
+
+La ragazza esplose in qualcosa di non molto più dignitoso di una risatina; «Santo cielo!» disse. «Pensa un po' a portarlo fin qui da [[Oxford]] e a conciarlo in quel modo» e indicò con irrefrenabile ilarità le gambe del signor Archer, che erano di data alquanto dubbia.
+
+«È l'unico uomo che saprebbe interpretare il periodo» disse il bibliotecario, scuotendo il capo. «Quanto al portarlo da [[Oxford]], l'unico altro uomo che mi venga in mente dovreste portarlo da [[Paris|Parigi]]. Vi sono uno o due francesi e un tedesco. Ma non c'è in Inghilterra altro storico che gli stia alla pari.»
+
+«Oh, andiamo» protestò Archer, «Bancock è il più celebre scrittore di storia dopo Macaulay; celebre in tutto il mondo.»
+
+«Scrive libri, non è vero?» osservò il bibliotecario con una sottile sfumatura di disgusto. «Garton Rogers è l'unico uomo che fa per voi.»
+
+La dama dal copricapo cornuto esplose di nuovo. «Ma, che il Cielo mi benedica l'[[Soul|anima]]» esclamò, «dura solo un paio d'ore all'incirca!»
+
+«Abbastanza a lungo perché si notino i piccoli errori» disse il bibliotecario tetro. «Ricostruire un periodo passato per due ore filate richiede più lavoro di quanto possiate immaginare. Se solo fosse il mio periodo, ora...»
+
+«[[Well|Ebbene]], se davvero vogliamo un uomo dotto, chi potrebbe essere migliore di lei?» chiese la dama, con luminoso ma illogico trionfo.
+
+Herne la guardava con una sorta di triste ardore; poi distolse lo sguardo verso l'orizzonte e sospirò.
+
+«Voi non capite» disse a bassa voce, «il periodo di un uomo è, in un certo senso, la sua vita. Un uomo ha bisogno di vivere fra dipinti e intagli e cose medievali prima di poter attraversare una stanza come l'avrebbe attraversata un uomo del Medioevo. Lo so nel mio proprio periodo; la gente mi dice che i vecchi intagli dei sacerdoti e degli dèi ittiti le paiono rigidi. Ma io mi sento come se sapessi, da quegli atteggiamenti rigidi, che sorta di danze avessero. A volte mi sembra di poterne udire la musica.»
+
+Per la prima [[Time|volta]] in quella cacofonia di [[Cross|equivoci]] vi fu una sospensione della parola e un istantaneo [[Silence|silenzio]]; e gli occhi del dotto bibliotecario, come gli occhi di uno [[Fool|sciocco]], erano ai confini della terra. Poi egli proseguì come in una sorta di soliloquio.

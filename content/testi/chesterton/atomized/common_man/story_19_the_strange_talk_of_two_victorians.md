@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/common-man-(chesterton)">Common Man</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/common_man/story_18_henry_james">‹ Story 18 Henry James</a><a class="ex-next" href="/testi/chesterton/atomized/common_man/story_20_laughter">Story 20 Laughter ›</a></div>
@@ -182,3 +184,181 @@ a strange stream and almost a new [[City|city]]; the rocks she had heard
 resound with a voice crying, "I am the Immaculate Conception. . . ."
 
 "Good Lord, how little wealthy people know!"
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/common-man-(chesterton)">Common Man</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/common_man/story_18_henry_james">‹ Story 18 Henry James</a><a class="ex-next" href="/testi/chesterton/atomized/common_man/story_20_laughter">Story 20 Laughter ›</a></div>
+</nav>
+
+LO STRANO COLLOQUIO DI DUE VITTORIANI
+
+La [[Faith|Fede]] ritorna sempre con un contrattacco; e per lo più
+non si tratta soltanto di un attacco vittorioso, ma quasi sempre di un attacco a sorpresa.
+
+Qui più che altrove è l'inatteso che accade;
+la religione che si supponeva marcire lentamente fra contadinerie illetterate
+si è trovata presente in numero incalzante nelle nuove città industriali;
+il credo tollerato con compassione in pochi vecchi sentimentali
+va oggi facendo proseliti fra i giovani quasi soltanto
+tra i logici dalla testa dura.
+
+Ma questa tendenza a una [[Reconciliation|riconciliazione]] con gli intellettuali,
+un tempo considerata una [[Reconciliation|riconciliazione]] con gli inconciliabili, ha prodotto,
+tra gli altri singolari aspetti della situazione, questo fatto: che il gruppo
+più recente è composto un po' troppo di coloro che sono in grado di insegnare,
+mentre non esiste ancora una folla sufficiente, né un pubblico più vasto,
+di coloro che sono in grado di imparare.  Vi è, per esempio,
+un'enorme massa di materiale nella [[history|storia]] cattolica per ottimi romanzi o drammi;
+e vi è una considerevole proporzione di cattolici capaci di
+scriverli; ma non esiste ancora un numero sufficiente di lettori
+comuni capaci di leggerli, nel senso di comprenderli.
+Ciò è vero soprattutto per l'alta qualità storica dell'ironia.
+
+Un inglese che prenda coscienza della vera [[history|storia]] religiosa del suo paese
+si imbatte di continuo in piccoli episodi sociali e politici, la cui
+ironia è grande quanto la [[Greek Tragedy|tragedia greca]]; e poi si ricorda della maggior parte
+degli altri inglesi, ed è costretto ad ammettere che per loro sarebbe arabo.
+Proprio quel punto ironico che a lui dà un torvo compiacimento
+sarebbe del tutto privo di senso, perché il pubblico in generale prenderebbe probabilmente
+il suggerimento in tutta serietà, senza nemmeno cogliere lo scherzo.
+
+Così, almeno fino a poco fa, il pubblico difficilmente coglieva lo scherzo
+del parlare della Regina Vergine [[Queen|Regina]] o della Gloriosa Rivoluzione.
+Non si può avere dramma senza pubblico; non si può avere ironia
+senza un pubblico istruito.
+
+Mi domandavo l'altro giorno se qualcuno avesse mai pensato
+a una commedia, o piuttosto a una scena, che potrebbe essere una scena bellissima
+scritta da chiunque conosca [[Well|bene]] l'Inghilterra del Settecento.
+La si potrebbe intitolare «Cinque irlandesi».
+
+Seduti attorno a un tavolo in una caffetteria (ma cospicuamente non intenti a bere
+caffè) vi sarebbero Goldsmith, un vecchio Tory quasi giacobita; Sheridan,
+un più giovane Whig quasi giacobino; Burke, un Whig più allarmato
+di qualunque Tory circa il turbamento dell'equilibrio della Costituzione britannica
+(che egli aveva in gran parte inventato di sana pianta con la sua testa altamente immaginosa);
+Grattan, oratore Whig anch'egli, ma nativo del Parlamento irlandese;
+e (se lo si potesse trascinar dentro in qualche modo) qualcuno di più pericoloso,
+come Lord Edward o Tone, che presagisce la Ribellione irlandese.
+Tutti costoro erano protestanti.  Tutti, o nelle proprie persone
+o attraverso le loro famiglie, potevano in qualche modo esser fatti risalire
+al [[Time|tempo]] in cui parve che il cuore dell'Irlanda si fosse spezzato;
+e per un uomo che non abbandonasse la [[Faith|Fede]] non vi era alcuna normale
+[[Hope|speranza]] sulla terra.
+
+Credo che qualcuno potrebbe fare un bello studio, in vari stadi,
+di come strato dopo strato cominciasse a incrinarsi e quella terribile, proibita
+Cosa ancestrale [[Rose|si levasse]] lentamente a incombere su di loro come uno [[Ghost|spettro]].
+Comincerebbero decorosamente, s'intende, probabilmente discutendo
+l'Emancipazione cattolica con fredda liberalità pagana; e il vino
+e le parole e la passione irlandese per la recriminazione personale,
+e specialmente per la rievocazione familiare, farebbero zampillare strane cose
+dalle profondità; e attraverso una scena furiosa mi è parso davvero
+di udire d'un tratto l'acuta voce di Sheridan, stridula per l'ebbrezza,
+gridare qualche insulto:  «Hai dimenticato quello, O'Bourke?»  E allora
+mi sono ricordato che un pubblico in un teatro di [[London|Londra]] non capirebbe probabilmente
+nulla dell'idea di quella grande, eterna Cosa che terribilmente ritorna;
+perché un buon numero di loro non sa che essa è eterna, e a stento
+che essa è grande.
+
+Nel garbatissimo [[Sketch|ritratto]] della Regina [[Queen|Vittoria]] di Edith Sitwell mi sono
+imbattuto in un altro bizzarro piccolo dramma, che in questo caso sarebbe
+un dialogo a due.  E in questo caso, la cosa accadde davvero.
+Vi è descritta brevemente e con imparzialità; ma chiunque
+conosca le persone e l'epoca può facilmente comprenderla e ampliarla;
+e a me diverte enormemente; diverte ed è anche enorme.
+Ha esattamente quella torva ironia greca del contrasto tra grandi
+cose conosciute e la cosa più grande che non è conosciuta.  Fu
+una discussione, e persino una disputa tra due eminentissimi vittoriani.
+Verteva sulla notizia della proclamazione del dogma
+dell'Immacolata Concezione.
+
+Erano entrambi uomini dabbene; erano entrambi uomini di primissimo piano
+agli occhi del pubblico.  Entrambi avevano la più raffinata cultura del protestante;
+entrambi avevano una lieve venatura di pedanteria; ma entrambi avevano un calore di generosa
+convinzione per le loro cause predilette; nessuno dei due era certamente uno [[Fool|sciocco]];
+nessuno dei due era un anticattolico nel senso gretto e volgare;
+entrambi credevano d'esser inondati dalla piena luce del giorno dell'età
+dei lumi e della libertà; e, al tempo [[Time|stesso]], entrambi avevano
+passatempi e interessi intelligenti che potevano ammorbidirli verso
+più antiche tradizioni religiose.
+
+Uno era un gran lettore dei Padri e della prima letteratura devozionale;
+l'altro aveva un gusto genuino per ciò che era ancora spesso considerato
+la puerile e dozzinale bigiotteria della pittura medievale.
+Uno era un membro dell'Alta Chiesa del Movimento di [[Oxford]]; l'altro era un
+luterano liberale.  Uno era il grande Gladstone; l'altro era Alberto,
+il Principe Consorte.
+
+I due uomini conversarono e furono in disaccordo.  Furono in netto disaccordo.
+Il punto su cui erano in disaccordo era straordinario.
+Ma non era straordinario neppure per un centesimo quanto il punto
+su cui erano d'accordo.
+
+Il signor Gladstone era assai addolorato perché aveva trovato
+il Principe Consorte in uno stato di ilarità indecente, gli pareva,
+per la notizia riguardante l'Immacolata Concezione.  L'ilarità indecente
+non è un vizio che macchi in modo cospicuo il nome del Principe Alberto, più
+di quanto macchi quello di Gladstone; due disputanti più solenni sarebbe difficile trovarli.
+Ma il Principe Alberto era il più allegro, perché (disse in sostanza)
+è sempre una buona cosa quando un sistema malvagio che vacilla verso la sua caduta
+compie qualche atto d'arroganza follemente insensato e frenetico;
+il che con tutta certezza lo trascinerà al crollo finale.
+Roma era arrancata avanti in qualche modo fino ad allora; ma, ovviamente, Roma non
+avrebbe più avuto una gamba su cui reggersi dopo di ciò.
+
+Ma il signor Gladstone (del Movimento di [[Oxford]]) non poteva unirsi a questo
+semplice trionfo tedesco sul disastro e sull'onta che avevano finalmente
+distrutto la [[City|Città]] Eterna.  Con quei profondi toni di rimprovero che sapeva
+padroneggiare così [[Well|bene]], rimproverò il Principe per la sua insensibilità a questo
+annientamento e infangamento di un nome che tanto aveva significato nella [[history|storia]];
+nessun cristiano, egli sentiva, poteva restare insensibile alla totale rovina
+di una sezione così ampia del mondo cristiano.  Diceva sul serio.  Ne era
+tremendamente turbato.  Ritornò sull'argomento in seguito;
+implorando ripetutamente il Principe Alberto di versare almeno una lacrima sulle
+rovine di San Pietro, ormai giacenti desolate quanto Stonehenge.
+
+Ma anche il Principe fu fermo; e rimase nel suo stato piuttosto raro
+di alto morale per la notizia che l'affare indebitamente protratto
+era concluso; e il Papa aveva finalmente firmato la propria rovina.
+
+E tutto ciò per che cosa?  Perché una [[Crown|corona]] in più era stata
+aggiunta a quella torre di corone che folla dopo folla, [[City|città]] dopo [[City|città]],
+nazione dopo nazione, età dopo età, hanno innalzato sempre più in alto sull'
+immagine che, fra tutte le altre, è più saldamente basata, fondata ed edificata,
+per quanto riguarda questa terra, nell'affetto del popolo universale.
+E il Principe Alberto, con le sue disinteressate fatiche per l'[[Education|educazione]]
+delle classi lavoratrici, e Gladstone, con il suo fiducioso appello
+al gran cuore del popolo, comprendevano così poco di ciò che quella
+[[Crown|corona]] e quell'immagine realmente significassero per milioni di comuni poveri,
+in tutte le campagne e le città di mezzo mondo, che
+si aspettavano davvero che essa sarebbe stata detronizzata come una tirannia,
+per quest'ultima insolenza rovinosa nelle pretese di un [[Tyrant|tiranno]].
+
+L'unica cosa straordinaria su cui questi uomini straordinari
+concordavano, a quanto pare, era che la decisione sarebbe stata impopolare.
+... Una delle Ballate di Belloc aveva un ritornello ricordato soprattutto
+per l'Envoi, che diceva:
+
+  Principe, è vero che quando incontrasti lo Zar
+  dicesti che gli inglesi trovano volgare
+  ravvivare a nuova vita un sigaro semispento?
+  Buon Dio, quanto poco sanno i ricchi!
+
+Comunque sia, l'unico assunto condiviso da questi ammirevoli uomini pubblici pare
+sia stato errato in qualche punto.  Le venditrici di mele non si precipitarono all'impazzata
+fuori dalla chiesa; le sartine nelle soffitte non scagliarono a terra le loro piccole immagini
+di Maria, apprendendo che era stata chiamata Immacolata.
+
+Quattro anni dopo che questi potentati ebbero il loro deplorevole dissidio,
+mentre il Vescovo ancora aggrottava le ciglia e il parroco temeva di credere,
+piccoli capannelli di poveri contadini cominciarono a raccogliersi intorno a una strana
+[[Child|bambina]] denutrita davanti a una fenditura nelle rocce, dalla quale sarebbe [[spring|scaturito]]
+uno strano ruscello e quasi una nuova [[City|città]]; le rocce che ella aveva udito
+risuonare di una voce che gridava: «Io sono l'Immacolata Concezione...».
+
+«Buon Dio, quanto poco sanno i ricchi!»

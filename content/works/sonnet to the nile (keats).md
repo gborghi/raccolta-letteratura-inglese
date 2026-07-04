@@ -2,7 +2,7 @@
 title: Sonnet to the Nile
 author: Keats
 type: work
-cluster: Greek Mythology · Lust / Sexual Desire · Desire
+cluster: Greek Mythology · Lust Sexual Desire · Desire
 source: Authors/Keats/_raw/078_Sonnet_to_the_Nile.md
 tags:
   - graph/work

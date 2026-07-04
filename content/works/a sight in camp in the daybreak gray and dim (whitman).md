@@ -2,7 +2,7 @@
 title: A Sight in Camp in the Daybreak Gray and Dim
 author: Whitman
 type: work
-cluster: Martyrdom · Martyr / Saint · Cross
+cluster: Martyrdom · Martyr Saint · Cross
 source: Authors/Whitman/_raw/158_A_Sight_in_Camp_in_the_Daybreak_Gray_and_Dim.md
 tags:
   - graph/work

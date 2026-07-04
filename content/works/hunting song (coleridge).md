@@ -2,7 +2,7 @@
 title: HUNTING SONG
 author: Coleridge
 type: work
-cluster: Joy · Animals · Comic Verse / Song
+cluster: Joy · Animals · Comic Verse Song
 source: Authors/Coleridge/_raw/255_HUNTING_SONG.md
 tags:
   - graph/work

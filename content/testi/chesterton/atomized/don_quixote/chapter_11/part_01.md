@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/don-quixote-(chesterton)">Don Quixote</a> › <a href="/testi/chesterton/atomized/don_quixote/chapter_11">Chapter 11</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/don_quixote/chapter_10/part_05">‹ part 05</a><a class="ex-next" href="/testi/chesterton/atomized/don_quixote/chapter_11/part_02">part 02 ›</a></div>
@@ -126,3 +128,124 @@ the wilder aspects of our fallen [[Nature|nature]] . . . the [[Body|body]] of ou
 I think it is in the Greek Testament . . . the [[Body|body]] of our humiliation.
 It sounds only too like the struggle of some unfortunate whom society
 finds it a sad necessity to restrain."
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/don-quixote-(chesterton)">Don Quixote</a> › <a href="/testi/chesterton/atomized/don_quixote/chapter_11">Chapter 11</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/don_quixote/chapter_10/part_05">‹ part 05</a><a class="ex-next" href="/testi/chesterton/atomized/don_quixote/chapter_11/part_02">part 02 ›</a></div>
+</nav>
+
+CAPITOLO X
+
+QUANDO I MEDICI DISSENTONO
+
+La [[house|casa]] dal portico colonnato verso cui l'arrancante vettura
+finì per arrancare aveva ben poco che la distinguesse da una prospera
+[[house|casa]] privata.  Giacché l'indirizzo di tutte le recenti leggi e
+consuetudini era stato quello di condurre in privato le faccende pubbliche.
+Il funzionario era tanto più onnipotente in quanto vestiva sempre
+in borghese.  Era possibile condurre la gente da e verso un simile
+luogo senza alcuna particolare ostentazione di violenza;
+semplicemente perché tutti sapevano che la violenza sarebbe stata inutile.
+Il medico si era ormai abituato a portarsi via con noncuranza i suoi
+pazienti folli in una vettura; e costoro di rado facevano storie.
+Non erano poi così folli.
+
+Questa particolare sede della nuova Commissione per l'Alienazione Mentale
+era stata istituita in città soltanto di recente; ché la disseminazione
+di simili uffici nei centri minori era stata un ripensamento.
+Gli inservienti che se ne stavano quatti in agguato nel vestibolo o aprivano
+cancelli e porte erano nuovi, se non al mestiere, almeno
+al quartiere.  E il magistrato che sedeva in una stanza
+interna, per esaminare i casi via via che si presentavano, era il più nuovo
+di tutti.  Purtroppo, per quanto nuovo, era anche vecchio.
+Aveva svolto lo stesso lavoro in molti altri luoghi; e ne aveva così contratto
+l'abitudine di sbrigarlo scorrevolmente, rapidamente e pericolosamente [[Well|bene]].
+Ma cominciava a essere un po' troppo vecchio per fare alcunché.
+La vista non era più quella di un tempo; l'udito non era quello che egli credeva
+fosse.  Era un chirurgo militare in pensione, di nome Wotton.
+Aveva baffi grigi accuratamente regolati, e un'espressione piuttosto
+assonnata; era giunto a una fase piuttosto assonnata tanto
+del lavoro di quella giornata quanto del lavoro di tutta la sua vita.
+
+Aveva sulla scrivania una quantità di carte, fra cui un promemoria
+di certi appuntamenti fissati per quel pomeriggio in relazione alla
+Commissione per l'Alienazione.  Nella sua stanza profonda e comodamente imbottita
+non udì naturalmente la scalcinata vettura arrancare fino alla porta;
+e ancor meno la manovra rapida e silenziosa con cui un signore dai modi distinti
+aiutò i due occupanti a scendere e, con molte frasi cortesi,
+riuscì a sospingerli nella stanza esterna dell'edificio.
+Quel tale era d'aspetto così signorile che per il momento nessuno pensò
+di mettere in dubbio il suo diritto di fare da intermediario; gli inservienti
+in servizio lo accolsero come un pezzo evidentemente assai levigato dell'ingranaggio,
+e persino il medico ufficiale si lasciò con cortesia
+indicare la via, con un cenno, verso una stanza laterale a sinistra del sancta sanctorum del magistrato.
+Forse, se avessero guardato dalla [[Window|finestra]] un istante prima,
+e avessero visto quel signore cadere giù dalla cima della vettura,
+ne sarebbero rimasti più turbati.  Comunque fosse, il medico ufficiale
+cominciò a turbarsi assai decisamente quando quel signore
+(che egli aveva scorto solo in penombra su una scala buia e appena
+cominciato vagamente a riconoscere) non soltanto si chiuse la porta alle spalle
+con un cortese inchino, ma d'un tratto la serrò a chiave.
+
+Di tutto ciò il magistrato non udì nulla; poiché la cosa fu compiuta
+con silenziosa rapidità in mezzo a quello slancio della routine che
+dorme come una trottola in movimento.  Il primo avviso che ne ebbe fu
+un colpo alla porta e una voce che diceva: «Da questa parte, dottore».
+Era prassi consueta, in casi simili, che l'uomo di medicina
+responsabile dell'internamento avesse un colloquio prima col magistrato;
+il quale poi aveva un colloquio (di solito assai più breve) con la vittima.
+Quel particolare pomeriggio il signor Wotton sperava che entrambi i colloqui
+fossero davvero brevissimi.  Non alzò gli occhi dalle sue carte,
+ma si limitò a dire: «È il Caso n. 9.871, non è vero; un caso
+di mania di cospirazione, mi pare».
+
+Il dottor Hendry inclinò il capo nel suo modo più aggraziato.
+«La cospirazione è, naturalmente, un sintomo piuttosto che una causa», disse.
+«La causa è puramente fisica... puramente fisica», e tossì
+in maniera raffinata.  «Non c'è bisogno che ci si dica, a quest'[[Time|ora]] del giorno,
+che la distorsione dei sensi si ripercuote sul cervello, eh?
+In questo caso ho i più validi motivi per supporre che il disturbo
+sia sorto in origine da una malattia assai comune del nervo ottico.
+Il procedimento con cui sono giunto a questa conclusione è di per sé
+piuttosto interessante.»
+
+Al termine di circa dieci minuti, apparve chiaro che il signor Wotton non
+era di quel parere.  Il capo gli era ancora chino sulle carte e di conseguenza
+non studiava direttamente la figura che gli stava davanti.  Se l'avesse fatto, avrebbe forse
+concepito qualche sospetto per gli abiti straordinariamente logori del dottor Hendry.
+Così invece udiva soltanto la voce straordinariamente colta del dottor Hendry.
+
+«Non credo che occorra addentrarci in tutto questo», disse infine,
+dopo che il suo visitatore vi si era addentrato per un bel pezzo,
+e pareva allarmantemente capace di addentrarvisi ancora molto di più.
+«Se è sicuro che si tratta di un caso di quel genere, un caso di mania
+davvero pericolosa, immagino che vada bene.»
+
+«In tutta la mia esperienza», disse il dottor Hendry solennemente, e con pieno
+senso di responsabilità, «non ne ho mai conosciuto uno più chiaro.
+Questa questione ottica sta diventando [[Grave|grave]], signore.  Sta diventando minacciosa.
+Persino in questo momento, mentre parlo, persone indiscutibilmente pazze
+vanno errando per il mondo, e per giunta pronunciano pareri
+autorevoli su argomenti scientifici.  Non più tardi dell'altro giorno...»
+
+In quel momento la sua voce melodiosa e persuasiva fu per un istante sommersa
+da suoni assai notevoli provenienti dalla stanza attigua.
+Il rumore somigliava a quello di un [[Body|corpo]] enorme e pesante scagliato
+contro la porta; e nel [[Silence|silenzio]] che seguì si udì, attraverso la spessa
+parete, qualcosa come imprecazioni gutturali, roche e fioche per il furore.
+
+«Santo cielo!» esclamò il signor Wotton, destandosi di soprassalto e alzando
+gli occhi per la prima [[Time|volta]].  «Che diamine è stato?»
+
+Il dottor Hendry scosse il capo con una bella tristezza,
+ma continuò a sorridere.
+
+«La nostra è un'occupazione [[Melancholy|malinconica]]», disse.  «Aver a che fare con gli aspetti più deboli e
+più selvaggi della nostra [[Nature|natura]] decaduta... il [[Body|corpo]] della nostra umiliazione,
+mi pare sia nel Testamento greco... il [[Body|corpo]] della nostra umiliazione.
+Suona anche troppo simile al dibattersi di qualche disgraziato che la società
+trova triste necessità di dover contenere.»

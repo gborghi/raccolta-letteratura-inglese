@@ -2,7 +2,7 @@
 title: My Legacy
 author: Whitman
 type: work
-cluster: Letters and Writing · Immortality Through Verse · Immortality of Art / Fame
+cluster: Letters and Writing · Immortality Through Verse · Immortality of Art Fame
 source: Authors/Whitman/_raw/283_My_Legacy.md
 tags:
   - graph/work

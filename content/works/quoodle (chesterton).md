@@ -2,7 +2,7 @@
 title: THE SONG of QUOODLE
 author: Chesterton
 type: work
-cluster: Joy · Animals · Comic Verse / Song
+cluster: Joy · Animals · Comic Verse Song
 source: Authors/Chesterton/_raw/quoodle.md
 tags:
   - graph/work

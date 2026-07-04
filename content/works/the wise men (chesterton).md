@@ -2,7 +2,7 @@
 title: The Wise Men
 author: Chesterton
 type: work
-cluster: Grace and Redemption · Humility · Bread and Wine / Eucharist
+cluster: Grace and Redemption · Humility · Bread and Wine Eucharist
 source: Authors/Chesterton/_raw/the_wise_men.md
 tags:
   - graph/work

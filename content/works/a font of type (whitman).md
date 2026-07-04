@@ -2,7 +2,7 @@
 title: A Font of Type
 author: Whitman
 type: work
-cluster: Letters and Writing · Immortality Through Verse · Immortality of Art / Fame
+cluster: Letters and Writing · Immortality Through Verse · Immortality of Art Fame
 source: Authors/Whitman/_raw/300_A_Font_of_Type.md
 tags:
   - graph/work

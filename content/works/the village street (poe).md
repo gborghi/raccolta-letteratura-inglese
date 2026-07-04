@@ -2,7 +2,7 @@
 title: The Village Street
 author: Poe
 type: work
-cluster: Unrequited / Frustrated Love · Unattainable Beloved · Petrarchan Sonnet
+cluster: Unrequited Frustrated Love · Unattainable Beloved · Petrarchan Sonnet
 source: Authors/Poe/_raw/The Village Street.md
 tags:
   - graph/work

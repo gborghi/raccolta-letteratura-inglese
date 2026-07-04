@@ -2,7 +2,7 @@
 title: The Tenant of Wildfell Hall
 author: Bronte
 type: work
-cluster: Wine and Drink · Ballad / Ballade · Road
+cluster: Wine and Drink · Ballad Ballade · Road
 source: Authors/Bronte/_raw/The Tenant of Wildfell Hall.md
 tags:
   - graph/work

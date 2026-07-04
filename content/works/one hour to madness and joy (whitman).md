@@ -2,7 +2,7 @@
 title: One Hour to Madness and Joy
 author: Whitman
 type: work
-cluster: Joy · Animals · Comic Verse / Song
+cluster: Joy · Animals · Comic Verse Song
 source: Authors/Whitman/_raw/032_One_Hour_to_Madness_and_Joy.md
 tags:
   - graph/work

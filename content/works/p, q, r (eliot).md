@@ -2,7 +2,7 @@
 title: 'P, Q, R'
 author: Eliot
 type: work
-cluster: Letters and Writing · Immortality Through Verse · Immortality of Art / Fame
+cluster: Letters and Writing · Immortality Through Verse · Immortality of Art Fame
 source: Authors/Eliot/_raw/121_P_Q_R.md
 tags:
   - graph/work

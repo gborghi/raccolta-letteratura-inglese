@@ -2,7 +2,7 @@
 title: 'V O Lord, deliver me from the man of excellent intention and impure heart'
 author: Eliot
 type: work
-cluster: Grace and Redemption · Humility · Bread and Wine / Eucharist
+cluster: Grace and Redemption · Humility · Bread and Wine Eucharist
 source: >-
   Authors/Eliot/_raw/062_V_O_Lord_deliver_me_from_the_man_of_excellent_intention_and_impure_heart.md
 tags:

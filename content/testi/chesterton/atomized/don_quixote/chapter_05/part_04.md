@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/don-quixote-(chesterton)">Don Quixote</a> › <a href="/testi/chesterton/atomized/don_quixote/chapter_05">Chapter 05</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/don_quixote/chapter_05/part_03">‹ part 03</a><a class="ex-next" href="/testi/chesterton/atomized/don_quixote/chapter_06/part_01">part 01 ›</a></div>
@@ -98,5 +100,101 @@ the ticking till the [[Clock|clock]] stops."
 forget it."  And, indeed, though she was not particularly clever,
 she was one of those rare and rather valuable people who never forget
 anything they have once learnt.
+
+-^-
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/don-quixote-(chesterton)">Don Quixote</a> › <a href="/testi/chesterton/atomized/don_quixote/chapter_05">Chapter 05</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/don_quixote/chapter_05/part_03">‹ part 03</a><a class="ex-next" href="/testi/chesterton/atomized/don_quixote/chapter_06/part_01">part 01 ›</a></div>
+</nav>
+
+«No, non lo credo, dato che me lo chiedete», disse egli, burberamente.
+«Credo che stiamo discutendo sui due bordi di un abisso, e che
+quella piccola parola è una voragine tra due metà dell'umanità.
+Se davvero vi preme saperlo, posso darvi un piccolo consiglio?
+Quando volete farci credere che comprendete la situazione,
+e disapprovate comunque lo sciopero, dite qualsiasi cosa al mondo
+tranne quella. Dite che c'è il diavolo tra i minatori;
+dite che c'è tradimento e anarchia tra i minatori;
+dite che c'è bestemmia e [[Madness|follia]] tra i minatori.
+Ma non dite che c'è agitazione tra i minatori. Poiché quella piccola
+parola tradisce l'intera cosa che vi sta in fondo alla mente;
+è molto antica e il suo nome è [[Slavery|Schiavitù]].»
+
+«Questo è davvero straordinario», disse il signor Wister.
+
+«Non è vero?» disse la signora. «Elettrizzante!»
+
+«No, del tutto semplice», disse il Sindacalista. «Supponete che ci sia un uomo
+nella vostra carbonaia invece che nella vostra miniera di carbone. Supponete che sia suo
+compito spaccare carbone tutto il giorno, e che possiate sentirlo martellare.
+Supponiamo che sia pagato per farlo; supponiamo che onestamente
+riteniate che sia pagato a sufficienza. Eppure, potete sentirlo spaccare
+tutto il giorno mentre voi fumate o suonate il pianoforte...
+finché a un certo punto il rumore nella carbonaia cessa d'improvviso.
+Può essere un male che cessi... può essere un bene... può essere ogni
+sorta di cosa. Ma non vedete... nulla può farvi vedere...
+cosa intendete davvero quando dite soltanto, come [[Hamlet|Amleto]] alla sua
+vecchia talpa: "Riposa, spirito turbato".»
+
+«Ah», disse il signor Wister, con benevolenza, «lieto di vedere
+che avete letto Shakespeare.»
+
+Ma Braintree proseguì senza far caso all'osservazione.
+
+«Il martellare nella vostra carbonaia che sempre risuona cessa
+per un istante. E cosa dite all'uomo laggiù
+nell'oscurità? Non dite: "Grazie per averlo fatto [[Well|bene]]".
+Non dite nemmeno: "Maledetto voi per averlo fatto male". Ciò che
+dite è: "Riposa; [[Sleep|dormi]] pure. Riprendi il tuo normale stato di quiete.
+Continua in quello stato di completa immobilità che ti è
+normale e che nulla avrebbe mai dovuto turbare.
+Continua quel movimento ritmico e cullante che dev'essere per te
+la stessa cosa del sonno; che è per te una seconda [[Nature|natura]] e parte
+della [[Nature|natura]] delle cose. _Continuez_, come disse Dio nel racconto di Belloc.
+Che non vi sia agitazione".»
+
+Mentre parlava con veemenza, ma non con violenza, si accorse
+vagamente che molti più volti erano rivolti
+verso di lui e verso il suo gruppo, non fissandolo scortesemente, ma dando
+un'impressione generale di una folla che si dirigeva in quella direzione.
+Vide Murrel che lo osservava con [[Melancholy|malinconico]] divertimento al di sopra
+di una sigaretta floscia, e Archer che gli lanciava un'occhiata di tanto in tanto
+al di sopra della spalla come temendo che appiccasse il [[Fire|fuoco]] alla [[house|casa]].
+Vide i volti ansiosi e semiseri di parecchie
+signore di quel tipo sempre affamato di un qualsiasi accadimento.
+Tutti quelli vicini a lui erano nebulosi e confondenti;
+ma in mezzo a tutti loro poteva scorgere, laggiù nell'angolo della stanza,
+lontano ma distinto e persino irragionevolmente distinto, il pallido
+ma vivido volto della piccola signorina Ashley della scatola dei colori, che osservava...
+
+«Ma l'uomo nella carbonaia è soltanto un estraneo venuto dalla strada»,
+proseguì, «che è entrato nel vostro buco nero per assalire una roccia
+come assalirebbe una belva o qualsiasi altra bruta forza della [[Nature|natura]].
+Spaccare carbone in una carbonaia è un'azione. Spaccarlo in una miniera di carbone
+è un'avventura. La belva può uccidere nella sua stessa caverna.
+E combattere con quella belva è agitazione eterna; una guerra col caos,
+non meno di quella di un uomo che si apre a colpi il proprio cammino attraverso una foresta africana.»
+
+«Il signor Hanbury», disse Rosamund, sorridendo, «è appena tornato
+da una spedizione di quel genere.»
+
+«Sì», disse Braintree, «ma quando gli càpita di non partire per una spedizione,
+non dite che c'è Agitazione al Travellers' Club.»
+
+«M'avete beccato. Ottimo», disse Hanbury, alla sua maniera bonaria.
+
+«Non vedete», proseguì Braintree, «che quando dite ciò di noi,
+sottintendete che siamo soltanto tanto meccanismo a orologeria, e non vi accorgete nemmeno
+del ticchettio finché l'[[Clock|orologio]] non si ferma.»
+
+«Sì», disse Rosamund, «credo di capire cosa intendete e non lo
+dimenticherò.» E in effetti, benché non fosse particolarmente intelligente,
+era una di quelle persone rare e piuttosto preziose che non dimenticano mai
+nulla di ciò che hanno appreso una volta.
 
 -^-

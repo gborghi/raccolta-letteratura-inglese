@@ -2,7 +2,7 @@
 title: 'A, B, C'
 author: Eliot
 type: work
-cluster: Letters and Writing · Immortality Through Verse · Immortality of Art / Fame
+cluster: Letters and Writing · Immortality Through Verse · Immortality of Art Fame
 source: Authors/Eliot/_raw/116_A_B_C.md
 tags:
   - graph/work

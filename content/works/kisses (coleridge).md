@@ -2,7 +2,7 @@
 title: KISSES
 author: Coleridge
 type: work
-cluster: Greek Mythology · Lust / Sexual Desire · Desire
+cluster: Greek Mythology · Lust Sexual Desire · Desire
 source: Authors/Coleridge/_raw/044_KISSES.md
 tags:
   - graph/work

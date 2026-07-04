@@ -2,7 +2,7 @@
 title: DRINKING VERSUS THINKING
 author: Coleridge
 type: work
-cluster: Wine and Drink · Ballad / Ballade · Road
+cluster: Wine and Drink · Ballad Ballade · Road
 source: Authors/Coleridge/_raw/366_DRINKING_VERSUS_THINKING.md
 tags:
   - graph/work

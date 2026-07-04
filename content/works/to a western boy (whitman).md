@@ -2,7 +2,7 @@
 title: To a Western Boy
 author: Whitman
 type: work
-cluster: Comradeship · Union · Hands / Hand in Hand
+cluster: Comradeship · Union · Hands Hand in Hand
 source: Authors/Whitman/_raw/076_To_a_Western_Boy.md
 tags:
   - graph/work

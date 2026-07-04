@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/common-man-(chesterton)">Common Man</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/common_man/story_25_elizabeth_barrett_browning">‹ Story 25 Elizabeth Barrett Browning</a><a class="ex-next" href="/testi/chesterton/atomized/common_man/story_27_the_meaning_of_metre">Story 27 The Meaning Of Metre ›</a></div>
@@ -725,3 +727,724 @@ and, above all, the Tree was right.  Now if Barrie had told the tale,
 he would have taken a gentle [[Pride|pride]] in leaving us in [[Doubt|doubt]] on that
 very point; of suggesting that the sceptic might be the sane man,
 and the Tree might be a delusion.  But the Tree is not a delusion.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/common-man-(chesterton)">Common Man</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/common_man/story_25_elizabeth_barrett_browning">‹ Story 25 Elizabeth Barrett Browning</a><a class="ex-next" href="/testi/chesterton/atomized/common_man/story_27_the_meaning_of_metre">Story 27 The Meaning Of Metre ›</a></div>
+</nav>
+<nav class="excerpt-children">
+<div class="excerpt-children-label">In questa sezione</div>
+<ul><li><a href="/testi/chesterton/atomized/common_man/story_26_the_erastian_on_the_establishment/part_01">Part 1</a></li><li><a href="/testi/chesterton/atomized/common_man/story_26_the_erastian_on_the_establishment/part_02">Part 2</a></li><li><a href="/testi/chesterton/atomized/common_man/story_26_the_erastian_on_the_establishment/part_03">Part 3</a></li><li><a href="/testi/chesterton/atomized/common_man/story_26_the_erastian_on_the_establishment/part_04">Part 4</a></li><li><a href="/testi/chesterton/atomized/common_man/story_26_the_erastian_on_the_establishment/part_05">Part 5</a></li><li><a href="/testi/chesterton/atomized/common_man/story_26_the_erastian_on_the_establishment/part_06">Part 6</a></li><li><a href="/testi/chesterton/atomized/common_man/story_26_the_erastian_on_the_establishment/part_07">Part 7</a></li></ul>
+</nav>
+
+L'ERASTIANO SULLA CHIESA DI STATO
+
+Il decano Inge è così palesemente il più acuto, il più colto
+e il più originale della scuola scettica che rappresenta,
+che talvolta si ha inevitabilmente l'impressione di prendere di mira
+proprio lui, quando la singolarità è dovuta soltanto alla sua eccellenza.
+È dovuta, se dobbiamo dirlo più crudamente, al fatto che vi sono
+davvero pochissimi intellettuali di quella scuola che meritino una risposta.
+Io stesso, forse, l'ho spesso detto più crudamente di quanto intendessi;
+ma il [[Double|duplice]] dovere che ne consegue presenta un problema di non facile soluzione.
+Il guaio è che egli si trova davvero in una posizione tanto falsa
+che la sua schietta descrizione suona già come un motteggio.
+Eppure può non essere intesa come un motteggio, ma soltanto come una [[Truth|verità]].
+Certo la sua posizione non pare a lui altrettanto falsa quanto pare
+a noi; ma scusarla richiederebbe una lunga spiegazione, impossibile
+in un'espressione così breve. Per esempio, l'altro giorno egli scrisse
+una severa condanna di quei membri del clero anglicano
+che sono favorevoli alla separazione della Chiesa d'Inghilterra dallo Stato.
+Può sembrare brusco ribattere, come io sarei il primo tentato di fare,
+che il decano esiti naturalmente a recidere quell'unica sottilissima
+striscia di burocratico nastro rosso che ancora lo collega al [[Christianity|Cristianesimo]].
+Eppure è verissimo; e non è necessariamente soltanto ostile.
+
+Per comprendere il curioso caso del decano Inge, in uno spirito di
+[[Charity|carità]] cristiana, dobbiamo lasciare per un momento ogni questione
+di credo e di definizione e richiamare alla mente un'altra immagine.
+È l'immagine che aveva in mente Matthew Arnold quando dichiarò apertamente
+che, pur essendo egli stesso quasi un agnostico, desiderava tuttavia conservare
+le istituzioni della religione, e specialmente la letteratura della religione;
+che le trovava conservate al meglio nella Chiesa d'Inghilterra
+e non consigliava a nessuno di lasciarla. Dobbiamo richiamare l'immagine di una
+storica gerarchia di sacerdoti che sono anche professori, e la cui
+occupazione principale è l'erudizione e lo studio delle lettere; non
+per nulla sia Arnold sia Inge ebbero legami con [[Oxford]].
+La maggior parte di tali uomini sarebbe probabilmente cristiana per sentimento
+ereditario e per materia di studio; ma il loro [[Christianity|Cristianesimo]] non sarebbe, per così dire,
+il punto centrale. Possiamo anche immaginare meglio l'istituzione se la
+pensiamo come una fondazione confuciana anziché cristiana.
+La sua idea è quella di una cultura classica che rimane indisturbata. Ma vi è
+questo ulteriore punto essenziale; che, se le sue tradizioni e i suoi riti devono
+restare indisturbati, così pure devono restare indisturbati i suoi dubbi e le sue negazioni.
+Dev'essere tanto tradizionale che uno scettico vi sia al sicuro.
+
+Qualcosa di simile può essere davvero esistito in paralleli cinesi e in altri
+paralleli pagani. Qualcosa di simile probabilmente esistette davvero fra
+gli ultimi sacerdoti pagani dell'antichità. Un allegro vecchio Flamine o
+Pontefice Massimo ellenico non desiderava essere disturbato mentre spiegava via
+gli dèi ai suoi amici; e certamente non desiderava assumersi
+la responsabilità di tracciare la linea esatta fra [[Truth|verità]] e [[Fable|favola]]
+nelle metamorfosi di Ovidio o nelle genealogie di Giove.
+E qualcosa di analogo esistette davvero nell'anglicanesimo accademico
+dell'età erastiana in Inghilterra, quando dotti whig e vescovi piuttosto
+mondani citavano indifferentemente Orazio, Agostino e Gibbon
+davanti a noci e vino. È questa la Chiesa di Stato che il decano Inge
+ama davvero vedere stabilita; è questa l'istituzione civile
+che egli crede davvero e sinceramente essere una buona cosa;
+una tradizionale [[Home|dimora]] di sapere e di liberale [[Education|educazione]], sia pure principalmente
+per pochi; una cosa che al mondo esterno appaia autorevole
+come gli abati medievali, ma che nella sua [[Inner Life|vita interiore]] sia disinvolta come
+i filosofi greci; una cosa che non abbia bisogno di escludere gli eretici,
+ma che escluda gli ignoranti; una cosa che possa ammettere ogni interrogativo
+purché non sia mai essa stessa messa in questione.
+
+Ora, una tradizione culturale di quel genere può avere molti segni di dignità
+e di valore nazionale; e un uomo può, senza assurdità né falsità,
+desiderare di conservarla come cosa nazionale. Ma vi sono diverse
+condizioni da ricordare, che il decano Inge ora sembra continuamente
+dimenticare. Anzitutto, la nazione deve perseverare nel medesimo
+atteggiamento di rispetto verso il collegio dei professori, o comunque
+lo si voglia chiamare. L'atteggiamento moderno cambia molto rapidamente;
+e credo sarebbe un'esagerazione dire che tutta l'Inghilterra
+sia ora colma d'affetto e di venerazione per i Dons.
+Un'altra difficoltà è che, qualunque cosa possa fare questa sorta di sinodo cinese,
+esso non può coesistere con una religione reale e appassionata.
+Fu sconfitto dai cristiani alla fine dell'era romana.
+Fu sconfitto perfino dai metodisti alla fine del
+Settecento. Del povero Carlo II si cita spesso
+che egli disse che il [[Puritanism|Puritanesimo]] non era religione da gentiluomo.
+Non si aggiunge altrettanto spesso che egli disse anche che l'anglicanesimo non era
+religione da cristiano.
+
+Questo, immagino, è ciò che il decano intende davvero; e spiega perché egli
+sia al tempo stesso così conservatore e così iconoclasta; così scettico
+e così tory. Non è, s'intende, ciò che dice con tante parole.
+Costretto a difendere il suo manipolo di pezzi grossi, con le loro biblioteche
+e le loro rendite, egli caratteristicamente estrae un vecchio libro da quei
+polverosi scaffali e cita da Burke la tesi secondo cui la Chiesa non era
+che lo Stato veduto sotto una certa luce e lo Stato non era che la Chiesa
+veduta sotto un'altra luce. Burke mi ha sempre colpito come, fra tutti gli uomini,
+quello dalla mente più immaginosa e più totalmente irreale.
+Perfino nel momento in cui pronunciava una frase simile, doveva sapere che la Chiesa
+era gremita di gente che non vi credeva, e che
+i capi dello Stato avevano quasi cessato di fingere di crederci.
+Per tutto il [[Time|tempo]], val la pena notarlo, Burke discuteva gravemente
+l'ammissione nella Chiesa di dissenzienti il cui intero entusiasmo
+era dichiaratamente rivolto a rendere il loro Dio calvinista, se possibile,
+ancor più diavolo di quanto già fosse. Egli sapeva che il mondo intorno a lui
+era affollato di simili fanatici e di simili bestemmiatori; eppure
+riusciva a indursi a immaginare che l'effettiva condizione secolare
+di tutta l'Inghilterra fosse la Chiesa di [[Christ|Cristo]], purché si spostasse appena
+il proprio punto di vista. Ma era già piuttosto strano sostenere questo perfino
+ai [[Time|tempi]] di Burke; è perfettamente folle sostenerlo ai [[Time|tempi]] nostri.
+Il decano Inge ammette che due grandi calamità potrebbero davvero rovinare il suo piano,
+e rendere impossibile la posizione della Chiesa d'Inghilterra.
+Ma egli ritiene che nessuna delle due sia abbastanza probabile da meritare considerazione.
+La prima è: che cosa accadrebbe se una gran [[Body|parte]] dell'Inghilterra abbandonasse
+davvero il [[Christianity|Cristianesimo]]? La seconda è: che cosa accadrebbe se l'Inghilterra
+passasse a Roma? La risposta a entrambe queste impossibilità
+è semplicissima. È che la seconda potrebbe accadere da un giorno all'altro,
+e la prima è già accaduta.
+
+Naturalmente è possibile giocare all'infinito con la parola «cristiano»
+e prolungarne perpetuamente l'epoca diminuendone perpetuamente il significato.
+Quando col [[Time|tempo]] tutti avranno convenuto che essere cristiano significa soltanto
+ritenere che [[Christ|Cristo]] fosse un uomo buono, sarà davvero vero
+che a poche persone fuori dei manicomi si potrà negare il nome
+di cristiano. Ma è in realtà una mera alterazione del significato
+di una parola ciò che ci impedisce di dire francamente che una gran massa,
+probabilmente una maggioranza, della nostra gente moderna è pagana.
+Molti di loro si fanno beffe di quei modelli di pietà familiare o di dignità
+pubblica che erano generalmente accettati dai pagani. Ma la maggior parte di loro,
+se pure ha una religione, ha una religione di panteismo o di pura
+etica che la maggior parte dei grandi caratteri cristiani della [[history|storia]],
+cattolici o protestanti, avrebbe immediatamente bollato come pagana.
+Se aveste interrogato Wesley, o Swedenborg, o il Dr. Johnson, o Baxter,
+o Lutero, avrebbero definito pagano l'atteggiamento moderno
+ancor più prontamente, se possibile, di quanto lo avrebbero fatto Bossuet o Bellarmino.
+Se è vero che la Chiesa è semplicemente la religione dello Stato,
+siamo arrivati assai vicini a dire che è semplicemente l'irreligione
+dello Stato.
+
+Ci fu un uomo amaro e cinico (anche lui, ne sono certo, un uomo di [[Oxford]])
+che disse: «La Chiesa d'Inghilterra è il nostro ultimo baluardo
+contro il [[Christianity|Cristianesimo]]». Questo è del tutto ingiusto come descrizione
+della Chiesa d'Inghilterra. Ma non è del tutto ingiusto
+come descrizione del decano Inge. Ciò che sta davvero in fondo alla sua
+mente è questa immagine di una grande tradizione accademica e culturale,
+istituita come bisogno nazionale ma non specificamente come bisogno spirituale.
+Deve avere testi religiosi — da criticare; cerimoniale religioso —
+da [[Reform|riformare]] leggermente e piuttosto pomposamente di [[Time|tempo]] in [[Time|tempo]];
+una sorta di presunzione sulla religione, nel senso che non potrebbe
+tollerare gli orrori di qualcosa come la negazione russa della religione.
+Ma per tutto il tempo essa sarà soggetta a una prova inequivocabile.
+Può coesistere con il [[Doubt|Dubbio]]; ma non può coesistere con la [[Faith|Fede]].
+
+Alla fine del suo articolo, il decano Inge cerca di respingere come impertinente
+il termine erastianesimo; il termine è troppo palesemente vero per non irritare.
+Ma in ogni caso egli ne sottovaluta assurdamente il significato attuale.
+Non si tratta di stabilire se coloro che formano una nazione essendo
+inglesi possano in astratto formare una religione essendo anglicani.
+Si tratta di stabilire se una Chiesa che quantomeno esiste,
+con alcuni che vi appartengono e altri che non vi appartengono,
+debba essere governata da coloro che non vi appartengono.
+L'erastianesimo esiste oggi nel senso perfettamente pratico
+che qualsiasi ebreo, Holy Roller o ateo di Hyde Park può dettare
+ciò che quella Chiesa cristiana dovrà fare in qualunque materia,
+per quanto intima e sacra. Bradlaugh fu Membro del Parlamento;
+[[Well|ben]] avrebbe potuto diventare Ministro di Gabinetto e nominare Vescovi.
+Il signor Saklatvala fu un leader socialista e [[Well|ben]] avrebbe potuto
+essere Ministro laburista, con una maggioranza alla [[house|Camera]], e avrebbe potuto
+per Atto del Parlamento fare del [[Prayer|libro di preghiere]] tutto ciò che gli piacesse.
+Questo è la Chiesa di Stato, come oggi universalmente intesa;
+questo è ciò che il decano Inge desidera e presumibilmente difende; o deve accingersi
+al delicato compito di difendere.
+
+LA FINE DEI MODERNI
+
+Tutte le scuole di pensiero, moderate o rivoluzionarie o reazionarie,
+concordano nel ritenere che il futuro sia pieno di nuove possibilità o pericoli,
+che le varie forme di rivolta nell'arte o nel pensiero siano l'
+inizio di grandi mutamenti, e specialmente che certi geni,
+creativi o distruttivi, abbiano spalancato le porte di un mondo nuovo.
+Il comunista può ritenere che siano le porte del cielo,
+o il conservatore che siano le porte dell'inferno. Ma entrambi
+sostanzialmente convengono che esse segnino non soltanto la fine del mondo,
+ma l'inizio di un altro mondo. Gli scrittori moderni che sono stati
+salutati ora come dinamici ora come demoniaci sono, nel bene o nel male,
+soltanto i precursori di altri ancor più dinamici o più demoniaci.
+Entrambe le parti sono cordialmente d'accordo su questo; e io ho la sventura
+di dissentire da entrambe.
+
+Penso che il primo fatto riguardo a ciò che si può grossolanamente chiamare Futurismo sia che
+esso non ha futuro. Ha ancora un presente vivacissimo e interessantissimo.
+Anzi, ha già un passato pittoresco e romantico. La vita
+di D. H. Lawrence, per esempio, è già divenuta una mera leggenda,
+che potrebbe essere di qualsiasi antichità; e il fascino romantico e piuttosto
+sentimentale che già si è raccolto attorno a lui è ormai altrettanto
+distante e diffuso di quello che si raccolse attorno a Byron o Burns.
+Quanto al presente, nessun periodo potrebbe essere del tutto grigio in cui
+il signor Aldous Huxley stesse scrivendo; ma è significativo notare
+ciò che egli scrive. In Brave New World egli mostra che, per quanto cupamente
+possa godere del presente, egli già decisamente odia il futuro.
+E io differisco da lui soltanto nel non credere che vi sia alcun tale
+futuro da odiare.
+
+Prendo questi due nomi come tipici di ciò che nell'ultimo decennio
+è stato chiamato modernità o rivolta; ma la tesi che vorrei
+seriamente proporre abbraccia qualcosa di più ampio e forse di più semplice.
+Gli elementi rivoluzionari della nostra epoca segnano non l'inizio,
+ma la fine, di un'epoca di rivoluzione. Esiterei a descrivere
+un certo numero di distinti e spesso onesti gentiluomini di lettere come Feccia;
+o avrei dato quel titolo breve e comodo a questo articolo.
+Preferisco riporre lo stesso significato, o anche la stessa metafora,
+nelle parole di un poeta rivoluzionario (la cui attuale impopolarità
+basta a mostrare quanto sia insicuro il futuro della poesia rivoluzionaria)
+e, mentre bevo alla [[Memory|memoria]] di Lawrence o alla salute di Huxley,
+mormorare le parole:
+
+  Tuo è l'ultimo vino che verso
+  L'ultimo che vuoto nel calice.
+
+Ciò suggerirà la stessa idea in un linguaggio meno offensivo.
+In breve, è indubbiamente vero, con le parole del signor Jefferson Brick
+(quel pioniere della rivolta), che la Libagione della [[Freedom|Libertà]] deve
+talvolta essere tracannata nel [[Blood|Sangue]]; ma sia essa nel [[Blood|sangue]] o nel vino,
+quella coppa è ormai quasi vuota.
+
+La mia ragione per pensare questo non ha nulla a che fare con simpatie o antipatie
+o col desiderio che si fa padre del pensiero; è il tipo di [[logic|logica]]
+che assomiglia più alla matematica o agli scacchi. A quasi tutti i moderni
+sistemi morali e metafisici, così come enunciati dai moderni stessi,
+mi accontenterei di aggiungere il commento: «Matto in tre mosse».
+Vale a dire, questi pensatori si sono cacciati in posizioni che sono
+già condannate dalle leggi del pensiero; o, per mutare la figura matematica
+in figura militare, le loro posizioni sono aggirate, le loro
+comunicazioni tagliate e le loro munizioni molto evidentemente agli sgoccioli.
+In molti casi, la loro forma di rivolta è tale da poter essere soltanto una sorta
+di formazione temporanea.
+
+Semplicemente per chiarire ciò che intendo, prenderò prima un esempio estremamente rozzo e
+perfino goffo. Esso non tocca i tipi più insigni
+che ho menzionato; ma mostra in forma assai chiara e piana
+il senso in cui simili cose sono intrinsecamente fugaci.
+Intendo ciò che si può chiamare l'uso letterario della bestemmia. Prima, quando
+lo spirito di rivolta era più giovane, essa fu usata da alcuni uomini di genio;
+da Swinburne, nella cui opera pare ora avere interamente perduto il suo pungiglione.
+Di recente uno scrittore moderno, incaricato proprio di compiere uno studio speciale
+su Swinburne, chiese stancamente come mai qualcuno potesse eccitarsi per
+i versi che dicevano che anche il Galileo sarebbe sceso fra i morti.
+Essa turbò anche la fine letteratura e la assai confusa cosmica
+[[philosophy|filosofia]] di Thomas Hardy, il quale cercò di dire (nello stesso [[Time|tempo]])
+che Dio non esisteva, e che avrebbe dovuto vergognarsi di esistere;
+o forse che avrebbe dovuto vergognarsi di non esistere.
+
+Questa irritabile profanità, che è già piuttosto stantia fra
+le persone colte, è a quanto pare ancora del tutto fresca per i comunisti;
+ma ciò avviene perché la [[Russia]] bolscevica è lo Stato più arretrato
+d'Europa. Si dice perfino che siano stati fatti tentativi di stampare asserzioni
+ateistiche sulle scatole di fiammiferi e di venderle in Inghilterra come propaganda.
+Se è vero, essi devono avere un'idea assai bizzarra dell'Inghilterra,
+per supporre che la sua popolazione un po' troppo inerte potesse essere aizzata
+a una guerra civile universale da parolacce stampate su una scatola di fiammiferi.
+Ma l'unico punto qui è che questo tipo di turpiloquio,
+come ogni turpiloquio, necessariamente si indebolisce con l'uso.
+La letteratura dell'ateismo è destinata a fallire, esattamente in proporzione
+al suo successo. I bolscevichi non hanno soltanto tentato di abolire Dio,
+il che alcuni ritengono un trucco che richiede un certo ingegno. Hanno tentato
+di fare un'istituzione dell'abolizione di Dio; e quando Dio
+è abolito, l'abolizione è abolita. Non potrà mai esserci alcun
+futuro per la letteratura della bestemmia; poiché, se fallisce, fallisce;
+e se riesce, diventa una letteratura di rispettabilità.
+In breve, tutto quel genere di effetto può essere soltanto un effetto istantaneo;
+come fracassare un vaso prezioso che non può essere fracassato una seconda volta.
+Il gesto di sfida al cielo può essere impressionante soltanto come ultimo gesto.
+La bestemmia è per definizione la fine di tutto, incluso
+il bestemmiatore. La moglie di Giobbe ne vide il buon senso,
+quando istintivamente disse: «Maledici Dio e muori». Il poeta moderno,
+per qualche sbadata dimenticanza, così spesso trascura di morire.
+
+Questo è un esempio assai rozzo e popolare; ma esso definisce esattamente
+ciò che intendo quando dico che tutti questi dinamici movimenti apportatori
+di [[Death|morte]] recano in sé i semi della propria [[Death|morte]]. E quando ci volgiamo verso gli
+scrittori più sottili e suggestivi, come quelli che ho nominato,
+troveremo che questa è esattamente la loro stessa condizione.
+Essi non stanno aprendo le porte né del cielo né dell'inferno;
+sono in un vicolo cieco, in fondo al quale non c'è alcuna porta.
+Filosofeggiano sempre e non hanno alcuna [[philosophy|filosofia]].
+Non hanno raggiunto quella realtà, quella ragione delle cose, e neppure
+quella pienamente realizzata irragionevolezza delle cose, che ovviamente
+e anzi dichiaratamente vanno cercando. Ma, ciò che qui più importa,
+essi non conoscono neppure (come i vecchi rivoluzionari) la direzione
+in cui devono cercarla. Hanno mancato di scoprire,
+non soltanto qualsiasi scopo nel mondo, ma perfino qualsiasi scopo nella volontà.
+Sono spiritosi, brillanti e alla moda: dei falliti.
+Sono giunti a una fine; e non sono giunti a un Fine.
+I ribelli precedenti erano felici di essere pionieri degli effettivi
+movimenti in avanti del loro [[Time|tempo]]; come Walt Whitman, scure alla mano,
+camminava innanzi all'effettiva marcia della [[democracy|democrazia]] industriale.
+Ma il signor Aldous Huxley difficilmente si lascia scuotere dalla parola [[democracy|Democrazia]].
+D. H. Lawrence, d'altra parte, poteva lasciarsi scuotere dalla
+parola Industrialismo.
+
+Per quanto concerne questo, il caso è abbastanza semplice. Lawrence, che tanti
+moderni hanno fatto una sorta di banco di prova della modernità, era in realtà in violenta
+rivolta contro qualsiasi cosa possa dirsi moderna.
+Egli non odiava soltanto il macchinario industriale e la servile
+società che esso ha prodotto. Odiava praticamente tutti gli effetti
+della scienza e dell'[[Education|istruzione]] pubblica e perfino del progresso politico.
+Tutto ciò è giustissimo e sacrosanto; ma egli odiava anche l'intellettualismo
+insieme all'industrialismo; benché perché mai qualcuno debba ritenere
+l'industrialismo particolarmente intellettuale, io non riesca a immaginarlo.
+Ma egli aveva perfettamente ragione nella sua rivolta contro queste cose;
+solo che esse sono tutte, per loro stessa [[Nature|natura]], cose moderne o assai recenti.
+Egli stesso era favorevole a cose assai antiche, e in particolare a una delle
+cose più antiche della terra, il culto della terra stessa;
+la [[Great Mother|Grande Madre]]: Demetra. Ma egli non poteva, per sua stessa ammissione,
+fare neppure questo, senza quasi letteralmente tagliarsi la testa.
+Ciò può considerarsi, in un pensatore, quantomeno equivalente
+a tagliarsi la gola. Egli confessò, in effetti,
+di poter adorare Demetra soltanto dal collo in giù.
+Poteva farlo soltanto opponendo il subconscio alla
+coscienza, o in altre parole, i [[Dreams|sogni]] alla luce del giorno.
+È di certo un notevole vangelo per un'età di realismo.
+In un celebre passo egli scrisse: «Nel mio cuore oscuro vi sono dèi»,
+ma aggiunse che nella sua «mente bianca» non vi erano, essendo stati
+lavati o imbiancati via da un'elementare [[Education|istruzione]]. Ma la moderna
+mente istruita non è bianca; è soltanto pallida.
+
+Il punto è che, da ogni punto di vista, antico o moderno,
+la sua soluzione non è una soluzione. Un uomo non può lasciare la testa a [[Home|casa]]
+e mandare il proprio [[Body|corpo]] a danzare per il mondo facendo ciò che gli pare;
+e non c'è ragione terrena per supporre che esso farà
+ciò che dovrebbe, da un punto di vista moderno o da qualsiasi altro.
+Per esempio, se gli venisse voglia di cibo, ruberà, e ruberà
+altrettanto prontamente dai Magazzini Comunisti quanto dalle case private.
+Questo non è l'inizio di una nuova vita; una splendida giungla che si apre
+davanti all'uomo come una sorta di Mowgli. È la fine di un argomento del tutto
+impossibile, che non può essere spinto oltre.
+Un uomo che sguazzasse nella terra con gli [[Animals|animali]] non sarebbe un animale.
+Sarebbe soltanto un pazzo; il che è l'esatto opposto di un animale.
+Non c'era via d'uscita dall'impasse intellettuale o anti-intellettuale
+in cui Lawrence si era cacciato; tranne la terza [[Road|via]]
+a cui egli non pensò mai... forse perché conduce a Roma.
+Se il mero razionalismo è insufficiente, dobbiamo elevarci al di sopra della ragione
+e non al di sotto di essa. L'appello diretto alla [[Nature|Natura]] è del tutto innaturale.
+Ammetto che fu debolmente concesso dai panteisti della prima
+fase rivoluzionaria; ora assai remota; e molti che
+passerebbero per pii lo accettarono. Il professor Babbitt ha messo
+in luce alcune delle pericolose concessioni in Wordsworth.
+Un altro scrittore, ancor più ortodosso, espresse l'errore di quel periodo.
+Egli disse che dobbiamo salire attraverso la [[Nature|Natura]] fino al Dio della [[Nature|Natura]].
+Sbagliava. Dobbiamo scendere da Dio giù fino alla [[Nature|Natura]] di Dio.
+La [[Nature|Natura]] è giusta soltanto quando la si vede alla luce del più alto diritto;
+sia esso, come direbbero alcuni umanisti, nella mente dell'Uomo,
+o, come direbbero i cristiani, nella mente di Dio. Ma essi credono davvero
+nel loro Dio; e Lawrence non credeva davvero nella sua Dea.
+Egli appassionatamente non credeva in nulla, tranne qualcosa
+in cui non poteva davvero credere.
+
+Il signor Aldous Huxley, che ho preso come l'altro talento eminente
+di quel [[Time|tempo]], vede questa impossibilità e la evita.
+Ma può evitarla soltanto riducendo il proprio criterio a
+qualcosa di così esile da poter appena reggersi. In uno dei suoi romanzi
+un personaggio riassume gran parte dell'insegnamento generale dell'autore,
+dicendo che l'Uomo non deve [[Hope|sperare]] di essere né un animale né un angelo.
+Aggiunge, significativamente, che è una faccenda da funambolo.
+Ora, camminare su una fune è insieme difficile e pericoloso;
+e l'autore rende la vita buona in realtà più difficile di quanto essa sia
+per un [[ascetic|asceta]]. Egli deve non soltanto evitare di essere un animale, ma deve
+guardarsi da qualsiasi malaugurato incidente che potesse trasformarlo in un angelo.
+Vale a dire, gli è vietato avere gli entusiasmi e le ambizioni
+spirituali che hanno sostenuto i santi, e tuttavia deve
+diventare a [[Blood|mente fredda]] qualcosa di ben più eccezionale di un santo.
+Nessuno chiede a un realista come il signor Huxley di idealizzare il reale.
+Ma un tale realista dovrà pur sapere che la [[Nature|natura]] umana non può mostrare,
+a ogni istante, il valore e la vigilanza di un funambolo
+spirituale, non può soffrire per questo ideale più di tutti
+gli eroi, e tuttavia vedersi vietato perfino di idealizzare il proprio ideale.
+Il progetto di vita è semplicemente e ovviamente inattuabile; là dove i progetti
+dei più selvaggi mistici e martiri si sono dimostrati attuabili.
+
+Dico che non aborro questi uomini come le prime figure
+di un avanzante esercito anarchico. Al contrario, ammiro
+questi uomini come le ultime figure di un esercito anarchico sconfitto.
+Prendo questi due scrittori originali e vigorosi come tipi di molti altri;
+ma il punto è che essi non sono, come gli anarchici della [[history|storia]],
+alla testa di un esercito che marcia in una direzione decisa.
+È esattamente ciò che non sono. Lawrence si scagliava contro
+quasi tutto; Huxley, essendo più sensibile, rifugge da
+quasi tutto. Ma, per quanto preziosa sia la vivida descrizione
+dell'uno o l'acuta critica dell'altro, essi non sono
+preziosi come guide; e certamente non come guide a una rivoluzione.
+Non avevano la semplificazione data o dalla religione o dall'irreligione.
+C'era qualcosa di grandioso in D. H. Lawrence che brancolava ciecamente
+nel buio; ma egli era davvero al buio, non soltanto sulla Volontà
+di Dio, ma sulla volontà di D. H. Lawrence. Era pronto
+ad andare ovunque; ma non sapeva davvero dove andare poi.
+Aldous Huxley è idealmente spiritoso; ma è al colmo dell'arguzia e insieme alla fine di essa.
+
+Ora, naturalmente vi sono innumerevoli copisti e seguaci che si dicono
+rivoluzionari, i quali direbbero di sapere dove andare;
+semplicemente perché si accontentano di qualche parola convenzionale
+come Comunismo. Poiché Comunismo è quasi la stessa parola di convenzione;
+significa gente che si mette «insieme», e nient'altro.
+Ma proprio questo fatto illustra ciò che dico, quando dico
+che all'esercito mancano le munizioni e che la fine è vicina.
+Quando cominciò il grande movimento democratico, esso fu sostenuto da reali
+emozioni democratiche. Soltanto la [[Comradeship|Fratellanza]] può essere l'[[Soul|anima]] del Comunismo;
+poiché altrimenti esso non ha [[Soul|anima]]. Ma quanto più notiamo l'effettivo temperamento
+dei nuovi ribelli, tanto più noteremo che tutto ciò se n'è andato.
+Gli uomini che si dicono comunisti non sono Compagni.
+Il loro tono è amaramente individualistico, e amaramente critico.
+Quando Walt Whitman guardava una folla, è davvero esatto dire
+che egli amava la folla. Quando un poeta moderno, imitando il verso
+libero di Whitman (che era la cosa meno libera in lui),
+descrive una folla, è sempre per descrivere il proprio disgusto per la folla.
+Essi non hanno alcuno dei sentimenti naturali che corrisponderebbero ai
+loro dogmi innaturali. In altre parole, all'esercito manca la polvere,
+manca la passione, mancano gli impulsi primari che fanno agire un simile
+esercito. Poiché essi non sono un'avanguardia che avanza, sono la fine
+di un'avventura rivoluzionaria, nel bene e nel male, che cominciò
+più di cento anni fa; e stanno combattendo l'azione di retroguardia
+di una ritirata. Libertà, Uguaglianza e Fraternità significavano davvero
+qualcosa per le emozioni di coloro che per primi usarono la frase.
+Ma la Fraternità è l'ultima emozione che si sia disposti a trovare in un acre
+articolo o poema di un [[Rebel|ribelle]] moderno; la Libertà è perduta in entrambi i sistemi,
+il vecchio e il nuovo; e l'Uguaglianza rimane soltanto nella forma di un piatto
+tentativo di uniformità, copiato proprio da quel meccanico capitalismo
+che i ribelli respingerebbero.
+
+Insieme a coloro che accettano la cosa come un'etichetta, o [[Hope|sperano]]
+fallacemente di poterla accettare come una moda, ve ne sono alcuni
+che la accettano in un modo più nobile ma assai negativo; proprio per le
+ragioni che ho addotto in questo articolo. Voglio dire che essi la accettano
+disperatamente, come l'unica via d'uscita da un'impasse intellettuale.
+Non è troppo dire che il signor Middleton Murry accetta
+i Soviet con i gesti di un grande pagano che accetta il [[suicide|suicidio]].
+Egli pare esultare al pensiero che sia la fine di tutto,
+o almeno la fine di quasi tutto ciò che gli piace. Questo è ancora
+un altro esempio della psicologia che ho tentato di descrivere;
+la psicologia di uomini giunti alla fine. Non voglio confondere
+questa netta impressione con lo stanco chiacchiericcio giornalistico sul pessimismo.
+La gente chiamerà il signor Aldous Huxley un pessimista; nel senso di uno
+che vede tutto nel peggiore dei modi. Per me egli è quel carattere assai più cupo;
+l'uomo che fa buon viso a cattivo gioco. Egli dà il miglior consiglio che può;
+in condizioni di convergente impossibilità. Non scrivo
+qui in spirito ostile su alcuno di questi recenti scrittori realistici
+o rivoluzionari; al contrario, sinceramente simpatizzo
+con loro, perché, diversamente dai rivoluzionari precedenti, sanno di essere
+in un vicolo cieco intellettuale. Senza dubbio vi sono migliaia di gai
+e baldanzosi innovatori, che non sono abbastanza intelligenti da saperlo.
+Ma il medesimo schema di sconfitta è disteso sull'intera situazione.
+Lo si può vedere, per esempio, nelle migliaia di sconsiderati romanzi «sessuali»,
+i cui autori sono evidentemente inconsapevoli di essere
+caduti in una contraddizione logica riguardo all'intera posizione del sesso.
+Essi ereditano la nozione che il sesso sia un serio crocevia e una crisi;
+poiché in verità questo è necessario alla stessa [[Nature|natura]] di un [[Novel|romanzo]].
+In ciò essi vivono sull'ultimo lascito del Romanticismo;
+il quale, a sua volta, viveva sull'ultimo lascito della religione.
+Ma la loro nuova e semplice [[philosophy|filosofia]] insegna loro che il sesso è
+soltanto quel genere di necessità che è anche una banalità; che il sesso
+non è più cruciale del fumare. Cosicché il romanziere moderno,
+lacerato fra due idee, deve tentare di scrivere una storia su un uomo
+che fuma venti sigarette e cerca di credere che ciascuna di esse
+sia una crisi. In tutte queste cose vi è un groviglio intellettuale;
+quel genere di groviglio che alla fine si stringe e strozza.
+Di questo tipo di filosofo è esattamente e letteralmente vero
+dire che, se gli dai corda a sufficienza, si impiccherà.
+È consolante riflettere che il [[suicide|suicidio]] occupa un [[Sublime|sublime]] posto
+nella sua [[philosophy|filosofia]].
+
+WALTER DE LA MARE — Non sempre si è compreso a sufficienza
+che un critico di poesia dovrebbe essere un critico poetico.
+La [[history|storia]] letteraria è disseminata dei disastri di buoni critici
+diventati cattivi critici, semplicemente per essersi scontrati con buoni poeti.
+Ma uno dei primi fatti che un buon critico poetico realizzerà
+è quello che il poeta di necessità realizza: la limitatezza del linguaggio,
+e specialmente la [[Poverty|povertà]] e la goffaggine del linguaggio della lode.
+Non c'è quasi lode di poeti che non suoni
+come se fossero tutti la stessa specie di poeti, e questo è vero
+perfino quando la lode intende dire precisamente l'opposto.
+Così l'abitudine di chiamare qualcuno «unico» è diventata universale,
+e possiamo insistere che un uomo è originale, e tuttavia lasciare l'impressione
+che l'originalità sia rara quanto il [[Original Sin|peccato originale]].
+
+Ma questa difficoltà si applica in modo speciale al signor Walter de la
+Mare e alla sua poesia, perché i termini poetici comuni di lode per
+quella poesia sono applicati anche a un genere di poesia del tutto diverso.
+Egli sta assai vicino, per [[Time|tempo]], luogo e apparenza,
+a un gruppo di scrittori, la maggior parte dei quali buoni scrittori e alcuni
+grandi scrittori, dai quali egli è in realtà del tutto libero e distinto.
+Solo che gli epiteti applicati a lui sono applicati anche a loro.
+Quando diciamo che è un poeta sognante e fantastico, un interprete
+del regno degli elfi, un cantore di strane rime che hanno un incantesimo
+e un fascino selvaggio per i fanciulli, e via dicendo, siamo costretti a usare
+un certo numero di termini che sono ormai divenuti un po' triti, forse,
+applicati ad altre persone di talento del tutto diverse.
+Le fonti, le fondamenta, i principi primi dell'
+[[Imagination|immaginazione]] e la visione della vita sono in realtà del tutto diversi
+in un uomo come il signor de la Mare da ciò che sono, diciamo,
+in un uomo come Sir James Barrie o un uomo come il signor A. A. Milne.
+Questo, non ho quasi bisogno di dirlo, non ha nulla a che vedere con lo svalutare
+questi autori, ma soltanto con l'apprezzare ciascun autore per ciò che è.
+Eppure vi è una sorta di groviglio di tradizione, e un riconosciuto
+traffico su certi soggetti, che potrebbe [[Well|bene]] confondere un lettore
+moderno riguardo a tutto questo genere di letteratura di fantasia. Per esempio;
+potremmo cominciare col dire che la tradizione di Treasure Island
+e dei suoi pirati fu continuata in Peter Pan e nei suoi pirati.
+Potremmo dire che i fanciulli elfici di Peter Pan furono
+continuati nei fanciulli elfici di When We Were Very Young.
+E poi potremmo immaginare vagamente che tutto questo genere di cose,
+la bottiglia di rum e la cena del coccodrillo e la colazione del [[King|re]],
+fossero tutte in qualche modo pigiate o rimescolate insieme in un guazzabuglio chiamato
+Peacock Pie. Ma questo significa mancare del tutto il punto riguardo al poeta,
+e specialmente là dove egli è qualcosa di più di un poeta. Sarebbe facile
+collegarlo alla tradizione di Treasure Island; poiché egli ha
+scritto egli stesso una fantasia assai affascinante sulle Isole [[Desert|Deserte]].
+Ma l'associazione sarebbe un errore, poiché egli non si è realmente accumulato
+un tesoro nello stesso genere di isole del tesoro.
+Vi è davvero una sorta di dinastia, una dinastia scozzese, di Stevenson
+e Barrie. Ma essa discese, sul versante infantile, a scozzesi come
+Kenneth Graham e, sul versante virile, o almeno fanciullesco, a scozzesi
+come John Buchan. Non ha nulla a che vedere con Walter de la Mare;
+perché la sua [[philosophy|filosofia]] è diversa. Un modo di dirlo sarebbe
+dire che, per quanto poetiche siano le fiabe degli scozzesi,
+esse sono le fiabe degli Scettici. Le fiabe
+di de la Mare non sono quelle dello Scettico ma del Mistico.
+Prendete l'idea primaria con cui davvero cominciò tutta la migliore opera per l'infanzia
+immaginativa, quale fornita da Stevenson e Barrie.
+Essa cominciò con un'idea che si chiama «far finta». Vale a dire,
+in senso stretto, è scritta da uomini che non credono;
+e perfino scritta per fanciulli che non credono;
+fanciulli che, del tutto logicamente e legittimamente, fanno finta.
+Ma il mondo di de la Mare non è meramente un mondo di illusione;
+è, in tutt'altro senso, un mondo di [[Imagination|immaginazione]]. È un mondo reale
+la cui realtà può esserci rappresentata soltanto per immagini.
+De la Mare non crede, in senso materiale, che vi sia
+un orco che striscia attorno alle case ed è respinto dall'influsso
+del Santo [[Child|Bambino]]; non più di quanto Barrie creda che vi sia
+un immortale ragazzino che gioca fisicamente nei Kensington Gardens.
+Ma de la Mare crede davvero che vi sia un divorante
+male che è sempre in guerra con l'[[innocence|innocenza]] e la felicità;
+e Barrie non crede che l'[[innocence|innocenza]] e la felicità continuino
+ad avere un'ininterrotta legittima occupazione dei Kensington Gardens.
+Le storie della scuola di Peter Pan sono radiosi e ristoratori [[Dreams|sogni]];
+ma sono [[Dreams|sogni]]. Sono i [[Dreams|sogni]] di qualcuno che prende
+rifugio dalla vita reale in una [[Inner Life|vita interiore]] dell'[[Imagination|immaginazione]];
+ma non necessariamente di qualcuno che crede che vi sia anche
+una più vasta vita universale corrispondente a quell'[[Imagination|immaginazione]].
+Il primo è un favolista, ma il secondo è un simbolista; come se
+paragonassimo gli [[Animals|animali]] parlanti di La Fontaine con i tipici
+[[Animals|animali]] di Blake. Blake (benché certamente pazzo in modo tranquillo)
+probabilmente non credeva che leoni e tigri d'oro camminassero
+sulle colline di Albione; e La Fontaine non credeva
+che leoni loquaci intrattenessero chiacchierate conversazioni con le volpi.
+Ma Blake credeva davvero che certe tremende verità, mostrabili soltanto
+sotto le forme di leoni d'oro, fossero realmente vere; e, ciò che è
+più importante di tutto, non fossero soltanto dentro di lui, ma oltre di lui.
+Così la conversazione dei buffi porcellini e orsetti del signor Milne è
+deliziosa quanto La Fontaine, e ingannevole soltanto nello stesso senso di
+La Fontaine. Vale a dire, non è falsa perché è finzione;
+o, come si diceva, favolosa. Ma le rime del Principe Pazzo,
+benché sarebbero dette fantastiche, non sono meramente favolose.
+Il Principe Pazzo, come il Poeta Pazzo, nella persona del povero Blake, è,
+dopo tutto, qualcosa di essenzialmente diverso dal Cappellaio Matto.
+Vi sono cavi sottotoni nelle sue bizzarre domande, sull'erba verde
+per le tombe, che davvero riecheggiano da cose profonde e segrete
+come la [[Grave|tomba]].
+
+Molti che ricordano le rime infantili apparentemente insensate che
+figurano fra i versi di Walter de la Mare per i fanciulli possono immaginare
+che io stia tracciando una sottile distinzione; ma non è una distinzione
+di grado bensì di direzione. Il pappagallo e la scimmia che accudivano
+i nani sull'Isola di Lone possono sembrare altrettanto sconnessi dalla
+normale [[history|storia]] naturale quanto il gufo e la micetta che andarono per mare.
+Ma rimane una distinzione reale, al di fuori di tutta la [[history|storia]] naturale,
+fra [[history|storia]] innaturale e [[history|storia]] [[Supernatural|soprannaturale]]. I pappagalli e le scimmie
+del signor de la Mare sono simbolici quanto le strane bestie nel Libro
+dell'[[Apocalypse|Apocalisse]]. Solo che sono simbolici in un senso che significa qualcosa
+di migliore dell'allegorico. Il simbolismo è superiore all'[[Allegory|allegoria]],
+in quanto il simbolo si adatta esattamente; e non c'è perciò alcuna
+superflua spiegazione che debba passare attraverso il linguaggio ordinario,
+o debba, o anzi possa, essere tradotta in altre parole.
+Se un pappagallo significa soltanto parola, o una scimmia significa soltanto malizia
+(come generalmente fa) allora nulla oltre l'eleganza pittorica
+si guadagna col non trattare direttamente della malizia, o col non parlare
+apertamente della parola. E la mera [[Allegory|allegoria]] non va mai oltre
+un'eleganza pittorica, che adorna ciò che [[Well|bene]] potrebbe restare disadorno.
+Ma il grande mistico può talvolta presentarci un pappagallo purpureo
+o una scimmia verdemare, in un modo tale da suggerire
+idee sommerse o misteriose, e perfino verità, che non potrebbero
+in alcun modo essere trasmesse da nessun'altra creatura di nessun altro colore.
+Il significato si adatta al simbolo e il simbolo al significato; e non possiamo
+separarli l'uno dall'altro, come possiamo nell'analisi dell'[[Allegory|allegoria]].
+E vi è un lato della vita spirituale, per così dire, che [[Well|bene]] potrebbe
+essere rappresentato da scimmie verdemare, la cui colorazione non è meramente
+arbitraria come quella dei misteriosi mostri in quella pregevole
+ma puramente insensata rima sui Jumblies, le cui teste erano
+verdi e le cui mani erano azzurre. Lo schema cromatico qui è gradevole,
+ma non è mancanza di rispetto verso il grande signor Lear delle Nonsense Rhymes
+dire che la sua cosmica [[philosophy|filosofia]] non sarebbe stata sconvolta
+neppure se le loro mani fossero state verdi e le loro teste azzurre.
+Il nonsenso di Walter de la Mare non è mai insensato in quel senso.
+Se la sua scimmia è verdemare, è per qualche ragione tanto profonda
+e significativa quanto il mare; anche se egli non può esprimerla
+in alcun altro modo se non con una paziente e rassegnata verzura.
+E non menzionerebbe mai neppure un'erbaccia verde, un romice o un'ortica in un fosso,
+senza intendere che essa rechi la stessa testimonianza nello stesso modo.
+
+È il primo [[Paradox|paradosso]] riguardo a lui che possiamo trovare la prova della sua
+[[Faith|fede]] nella sua consapevolezza del male. È il secondo [[Paradox|paradosso]] che possiamo
+trovare le sorgenti spirituali di gran parte della sua poesia nella sua prosa.
+Se ci volgiamo, per esempio, a quel [[Short Story|racconto]] assai potente e perfino
+terribile intitolato Seaton's Aunt, troviamo che abbiamo direttamente a che fare
+col diabolico. Lo fa in un senso del tutto impossibile in tutti
+i maestri meramente romantici o meramente ironici di quel nonsenso che è
+dichiaratamente illusione. Non c'era alcun nonsenso in Seaton's Aunt.
+Non c'era alcuna illusione riguardo alla sua concentrata e paralizzante malignità;
+ma era una malignità che aveva un'estensione al di là di questo mondo.
+Ella era una [[Witch|strega]]; e la consapevolezza che le streghe possano occasionalmente esistere
+è parte del Realismo, e una prova per chiunque pretenda un senso della Realtà.
+Poiché noi non desideriamo particolarmente che esse esistano; ma esistono.
+Ora, il paese delle meraviglie degli altri incantatori dell'[[Childhood|infanzia]] consiste
+interamente di cose che noi vogliamo che esistano o che loro vogliono che esistano.
+Che appartengano alla più antica scuola inglese o vittoriana di
+Lewis Carroll e Lear, o alla più tarda scuola scozzese di Stevenson
+e Barrie, il loro intero scopo è creare una sorta di cosmo entro
+il cosmo, che sia libero dal male; una sfera di cristallo
+in cui non vi siano crepe o difetti o nubi di male.
+Peter Pan è una meravigliosa evocazione dei felici sogni a occhi aperti dell'[[Childhood|infanzia]].
+Vi sono abbondanza di combattimenti e ferocia; perché combattimenti
+e ferocia sono fra i più felici [[Dreams|sogni]] di un'infanzia davvero
+[[Innocent|innocente]] e cristiana [[Childhood|infanzia]]. Ma Capitan Uncino il Pirata
+non è in realtà malvagio; è soltanto feroce; il che, dopotutto,
+è suo semplice dovere essere, come pirata onesto e industrioso.
+Ma vi sono rime, perfino rime infantili, di Walter de la Mare in cui
+il brivido è un brivido vero, non soltanto della spina dorsale ma dello spirito.
+Hanno un'atmosfera che non è meramente elettrizzante, ma anche agghiacciante.
+Posano un dito che non è di carne su un nervo che non è
+del [[Body|corpo]]; nel loro speciale modo di suggerire il gelo
+del mutamento o della [[Death|morte]] o dell'antichità. Fare questo era contrario all'intero
+scopo e all'origine del paese delle fate degli ultimi vittoriani.
+Come tutta la letteratura, esso non può essere davvero compreso senza riferimento
+alla [[history|storia]]; e, come tutta la [[history|storia]], non può essere davvero compreso
+senza riferimento alla religione. Man mano che lo scetticismo prosciugava gradualmente
+la religione convenzionale degli inglesi, e perfino degli scozzesi,
+gli spiriti poetici e umani si volsero sempre più alla costruzione di un
+mondo interiore di fantasia, che fosse insieme un rifugio e un surrogato.
+William Morris, uno dei più larghi e umani di questi ultimi
+vittoriani, lo ammise riconoscendo la visione puramente decorativa
+nella propria opera:
+
+  Così è di questo Paradiso terreno,
+  Se leggerete a dovere e mi perdonerete
+  Che mi sforzo di edificare un'ombrosa isola di beatitudine
+  In mezzo al battito del mare d'acciaio.
+
+Ed è l'ironia del caso che questi uomini, che erano razionalisti
+e realisti riguardo al mondo reale, fossero proprio per quella ragione risoluti
+a essere raggianti ottimisti una volta entrati nella [[City|Città]] dei [[Dreams|Sogni]]
+che era la loro [[City|Città]] di rifugio. I pessimisti insistevano nell'avere
+felici [[Dreams|sogni]]; gli scettici insistevano nell'avere droghe onnipotenti.
+Ma il mistico non tratta in [[Dreams|sogni]] bensì in visioni; vale a dire,
+in cose vedute e non parventi. Il mistico non [[Desire|desidera]] droghe
+ma il bere di quel vino che desta i morti; diverso di [[Nature|natura]]
+da qualsiasi oppiaceo che lenisce i vivi.
+
+In breve, possiamo dire che il primo Novecento presentò due
+movimenti verso il fantasioso o il fantastico, e via dal meramente
+razionale o materiale: un movimento centripeto e un movimento centrifugo.
+L'una spirale spirituale operava verso l'interno, verso i segreti
+soggettivi [[Dreams|sogni]] dell'uomo; l'altra operava verso l'esterno, verso
+i poteri o le verità spirituali che parevano al di là della portata dell'uomo.
+Il nuovo mondo creato dalla prima era la grande, splendente, iridescente bolla
+del sogno a occhi aperti di Barrie; il mondo rivelato dalla seconda era quel mondo
+di strani cieli, ai confini della terra e agli angoli del mare,
+che appare nei lontani bagliori dell'[[Imagination|immaginazione]] di de la Mare.
+Potremmo dire in breve che Stevenson e Barrie potevano produrre truci
+bucanieri grondanti di sangue senza spaventare i fanciulli;
+laddove de la Mare poteva produrre salici capitozzati o granai
+imbiancati con un imminente rischio di spaventare i fanciulli, e perfino
+gli adulti. Ma è giusto dire che vi è una
+sottigliezza possibile soltanto al primo metodo, così [[Well|come]] una sottigliezza
+possibile al secondo. È, come si è già suggerito,
+la sottigliezza di un'ironia che a un tempo accetta e sconta l'illusione.
+È l'intero punto della migliore opera di Barrie, per esempio,
+che qualcuno stia ingannando sé stesso, ma anche che qualcuno stia
+osservando qualcuno che inganna sé stesso; e se entrambi
+ingannano sé stessi, tanto meglio per la terza persona
+che osserva da un terzo angolo. Gran parte di questo genere di opera
+è come un mondo di specchi riflessi in specchi; la reduplicazione
+del riflesso; l'[[Shadow|ombra]] di un'ombra. Per citare un solo esempio:
+un palazzo da fiaba è di per sé soltanto una fantasia; ma la scena della [[Court|corte]]
+in A Kiss for Cinderella non è meramente la fantasia fiabesca,
+ma la fantasia di un [[Child|bambino]] sulla fantasia. Questo genere di intensiva
+delicatezza immaginativa è in teoria una cosa di infinite possibilità;
+e questa appartiene davvero alla scuola meramente soggettiva del simbolismo.
+Ma ciò che ho chiamato la scuola veramente simbolica del simbolismo appartiene ancora
+del tutto a un altro e, non posso non pensarlo, più vasto mondo.
+È tutto quel mondo dei poteri e dei misteri al di là dell'umanità che
+perfino lo scettico acconsentirebbe a coprire con la celebre etichetta:
+«Importante, Se Vero». Forse un esempio buono quanto se ne possa trovare è
+in quel davvero straordinario [[Sketch|bozzetto]] di de la Mare intitolato «The Tree».
+Posso immaginare moltitudini di persone del tutto intelligenti totalmente
+incapaci di raccapezzarcisi. Riguarda un mercante
+di frutta e suo fratello, che era un [[Artist|artista]], e un Albero,
+di cui si parla in un modo del tutto indescrivibile; come se esso fosse
+non soltanto più importante di qualsiasi cosa, ma fuori del mondo.
+Ora, Barrie avrebbe potuto trattare mirabilmente un tema del genere;
+e probabilmente rendere più chiara la [[Comedy|commedia]] umana. Ma la differenza
+è precisamente questa. Perfino il lettore che non riesce a comprendere nient'altro
+riguardo alla storia di de la Mare comprende decisamente questo:
+che in qualche modo il mercante di frutta aveva torto, e l'[[Artist|artista]] aveva ragione;
+e, soprattutto, l'Albero aveva ragione. Ora, se Barrie avesse raccontato il racconto,
+avrebbe provato un gentile [[Pride|orgoglio]] nel lasciarci nel [[Doubt|Dubbio]] proprio
+su quel punto; nel suggerire che lo scettico potesse essere l'uomo sano di mente,
+e l'Albero potesse essere una delusione. Ma l'Albero non è una delusione.

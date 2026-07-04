@@ -2,7 +2,7 @@
 title: Delicate Cluster
 author: Whitman
 type: work
-cluster: Nationalism and Patriotism · Democracy · Liberty / Political Freedom
+cluster: Nationalism and Patriotism · Democracy · Liberty Political Freedom
 source: Authors/Whitman/_raw/178_Delicate_Cluster.md
 tags:
   - graph/work

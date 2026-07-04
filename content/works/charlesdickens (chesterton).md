@@ -2,7 +2,7 @@
 title: Charles Dickens
 author: Chesterton
 type: work
-cluster: Artist and Society · Truth · Regency/Georgian England
+cluster: Artist and Society · Truth · Regency Georgian England
 source: Authors/Chesterton/_raw/CharlesDickens.md
 tags:
   - graph/work

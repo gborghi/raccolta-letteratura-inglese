@@ -2,7 +2,7 @@
 title: La Sainte Courtisane
 author: Wilde
 type: work
-cluster: Martyrdom · Martyr / Saint · Cross
+cluster: Martyrdom · Martyr Saint · Cross
 source: Authors/Wilde/_raw/007_La_Sainte_Courtisane.md
 tags:
   - graph/work

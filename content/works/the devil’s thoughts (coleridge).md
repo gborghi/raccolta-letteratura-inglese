@@ -2,7 +2,7 @@
 title: THE DEVIL’S THOUGHTS
 author: Coleridge
 type: work
-cluster: Wine and Drink · Ballad / Ballade · Road
+cluster: Wine and Drink · Ballad Ballade · Road
 source: Authors/Coleridge/_raw/179_THE_DEVILS_THOUGHTS.md
 tags:
   - graph/work

@@ -2,7 +2,7 @@
 title: How to Write a Blackwood Article
 author: Poe
 type: work
-cluster: Artist and Society · Truth · Regency/Georgian England
+cluster: Artist and Society · Truth · Regency Georgian England
 source: Authors/Poe/_raw/How to Write a Blackwood Article.md
 tags:
   - graph/work

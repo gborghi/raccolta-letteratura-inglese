@@ -2,7 +2,7 @@
 title: America
 author: Whitman
 type: work
-cluster: Nationalism and Patriotism · Democracy · Liberty / Political Freedom
+cluster: Nationalism and Patriotism · Democracy · Liberty Political Freedom
 source: Authors/Whitman/_raw/306_America.md
 tags:
   - graph/work

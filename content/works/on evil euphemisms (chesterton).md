@@ -2,7 +2,7 @@
 title: On Evil Euphemisms
 author: Chesterton
 type: work
-cluster: Artist and Society · Truth · Regency/Georgian England
+cluster: Artist and Society · Truth · Regency Georgian England
 source: Authors/Chesterton/_raw/on_evil_euphemisms.md
 tags:
   - graph/work

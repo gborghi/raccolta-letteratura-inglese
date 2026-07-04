@@ -2,7 +2,7 @@
 title: A Promise to California
 author: Whitman
 type: work
-cluster: Comradeship · Union · Hands / Hand in Hand
+cluster: Comradeship · Union · Hands Hand in Hand
 source: Authors/Whitman/_raw/066_A_Promise_to_California.md
 tags:
   - graph/work

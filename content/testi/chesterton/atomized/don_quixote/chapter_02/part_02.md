@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/don-quixote-(chesterton)">Don Quixote</a> › <a href="/testi/chesterton/atomized/don_quixote/chapter_02">Chapter 02</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/don_quixote/chapter_02/part_01">‹ part 01</a><a class="ex-next" href="/testi/chesterton/atomized/don_quixote/chapter_02/part_03">part 03 ›</a></div>
@@ -126,3 +128,40 @@ because he heard he was standing for Parliament as a Unionist.
 When he found it meant a Trade Unionist he was a bit put off,
 of course; but he couldn't make a scene.  I fancy it would puzzle
 him to say what either of the terms mean."
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/don-quixote-(chesterton)">Don Quixote</a> › <a href="/testi/chesterton/atomized/don_quixote/chapter_02">Chapter 02</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/don_quixote/chapter_02/part_01">‹ part 01</a><a class="ex-next" href="/testi/chesterton/atomized/don_quixote/chapter_02/part_03">part 03 ›</a></div>
+</nav>
+
+«Ho un gusto da negro», spiegò, stendendo una gigantesca striscia di colore sanguigno, «questi grigi bastardi dei mistici mi stancano quanto sono stanchi loro. Parlano di un [[Renaissance|Rinascimento]] celtico; ma io sto per un [[Renaissance|Rinascimento]] etiope. Il banjo dev'essere più veramente come-si-chiama del liuto del vecchio Dolmetsch. Nessuna danza tranne il profondo, il struggente Break-Down: ci sono le [[Tears|lacrime]] nel nome stesso; nessun personaggio storico tranne Toussaint L'Ouverture e Booker Washington, nessun personaggio di fantasia tranne lo Zio Remo e lo Zio Tom. Scommetto che ci vorrebbe poco a far tingere di nero la faccia allo Smart Set, come un tempo si incipriavano i capelli. Da parte mia, comincio a sentire un senso in tutta la mia vita malspesa. Qualcosa mi dice che ero destinato a fare il negro di Margate. Io _trovo_ la volgarità così deliziosa, tu no?»
+
+Ella non rispose; anzi, pareva un po' assorta. Il suo [[Humour|umore]] era stato lievemente acido; ma quando il suo volto si faceva serio era interamente giovane. Il suo bel profilo dalle labbra socchiuse suggeriva d'un tratto non solo una [[Child|bambina]], ma una [[Child|bambina]] smarrita.
+
+«Ricordo una vecchia miniatura in cui c'era un negro», disse infine. «Era uno dei Tre Re a Betlemme, con corone d'oro. Uno di loro era del tutto nero; ma aveva una veste rossa come fiamme. Vedi dunque che, perfino a proposito di un negro e dei suoi abiti vistosi, c'è un modo di farlo. Ma oggi non riusciamo a ottenere l'esatto rosso che usavano allora; conosco gente che ci ha davvero provato. È una delle arti perdute, come le vetrate.»
+
+«Questo rosso andrà [[Well|benissimo]] per il nostro scopo moderno», disse Murrel con pacatezza.
+
+Ella continuava a guardare, astratta, verso la cerchia dei boschi sotto il cielo mattutino. «Mi [[Wonder|domando]] talvolta», disse, «quali siano i nostri scopi moderni.
+
+«Dipingere la città di rosso, immagino», rispose egli.
+
+«Anche l'oro antico che usavano è scomparso», proseguì ella. «Ieri guardavo un vecchio messale in biblioteca. Sai che indoravano sempre il nome di Dio? Credo che se oggi indorassero una parola sarebbe Oro.»
+
+Il [[Silence|silenzio]] operoso che ne seguì fu infine rotto da una voce lontana che, giù per i corridoi, gridava: «Monkey!» in modo chiassoso e imperioso. Murrel non aveva la minima obiezione a farsi chiamare Monkey, eppure provava sempre un lieve disgusto quando era Julian Archer a chiamarlo così. Nulla aveva a che fare con la [[Jealousy|gelosia]]; benché Archer avesse la stessa vaga universalità nel [[success|successo]] che Murrel aveva nel fallimento. Aveva a che fare con una sottile sfumatura tra familiarità e intimità, che uomini come Murrel non sono mai pronti a ignorare, per quanto pronti possano essere a tingersi la faccia di nero. Ai tempi di [[Oxford]] aveva spesso spinto le baruffe fino a una distanza misurabile dall'omicidio. Ma non gettava mai la gente dalle finestre più alte a meno che non fossero suoi amici personali.
+
+Julian Archer era uno di quegli uomini che paiono trovarsi in moltissimi luoghi contemporaneamente; e assai importanti per una qualche ragione difficile da precisare. Non era né uno [[Fool|sciocco]] né un impostore: si disimpegnava con onore e misura nei vari esami o incarichi che parevano imporglisi. Ma gli osservatori di specie più sottile non riuscivano mai a capire bene perché queste cose si imponessero sempre a lui, e non all'uomo della porta accanto. Qualche rivista organizzava, poniamo, un simposio su «Dobbiamo mangiare carne?», in cui si raccoglievano le risposte di Bernard [[Shaw]], del dottor Saleeby, di Lord Dawson di Penn e del signor Julian Archer. Si costituiva un comitato per un Teatro Nazionale o un Memoriale di Shakespeare: e dal palco venivano pronunciati discorsi dalla signorina [[Viola]] Tree, da Sir [[arthur|Arthur]] Pinero, dal signor Comyns Carr e dal signor Julian Archer. Si pubblicava un libro collettivo di saggi intitolato «La [[Hope|Speranza]] di un Aldilà», con contributi di Sir [[Oliver]] Lodge, della signorina Marie Corelli, del signor Joseph McCabe e del signor Julian Archer. Era Membro del Parlamento e di molti altri circoli. Aveva scritto un [[Historical Novel|romanzo storico]]; era un ammirevole attore dilettante: sicché le sue pretese a interpretare la parte principale nel dramma di «Blondel il Trovatore» non potevano essere contestate. In tutto ciò non c'era nulla di riprovevole né di eccentrico. Il suo [[Historical Novel|romanzo storico]] su Agincourt era abbastanza buono, considerato come un moderno [[Historical Novel|romanzo storico]]; vale a dire, considerato come le avventure di un moderno collegiale a un ballo in maschera. Era favorevole a una moderata indulgenza nella carne; e a una moderata indulgenza nell'[[Immortality|immortalità]] personale. Ma le sue temperate opinioni venivano proferite in modo sonoro e categorico, come nella voce profonda e risonante che ora rimbombava giù per i corridoi. Era uno di quelli che sanno sopportare quel [[Silence|silenzio]] che segue a un luogo comune. La sua voce lo precedeva ovunque; così come la sua reputazione e la sua fotografia sui giornali mondani, con quei riccioli scuri e quel bel volto ardito. La signorina Ashley osservò che aveva l'aria di un tenore. Il signor Murrel si accontentò di rispondere che non ne aveva il suono.
+
+Entrò nella stanza nel costume completo da Trovatore, tranne che per un telegramma che teneva in mano. Il costume completo da trovatore reggeva bene il confronto con quello indossato dal signor Snodgrass, essendo più elegante e altrettanto storico. Aveva provato la sua parte ed era acceso di trionfo e di fatica; ma il telegramma, a quanto pareva, lo aveva piuttosto contrariato.
+
+«Senti un po'», disse, «Braintree non vuole recitare.»
+
+«[[Well|Beh]]», disse Murrel, dipingendo imperturbabile, «non ho mai pensato che l'avrebbe fatto.»
+
+«Una gran seccatura, lo so, dover chiedere a un tipo così: ma non c'era proprio nessun altro. Avevo detto a Lord Seawood che era una sciocchezza organizzarla in questo periodo dell'[[Time|anno]], quando tutti i suoi amici sono via. Braintree è soltanto una conoscenza, s'intende, e non riesco a immaginare come sia mai arrivato a esserlo.»
+
+«Fu un errore, credo», disse Murrel. «Seawood gli fece visita perché aveva sentito che si candidava al Parlamento come Unionista. Quando scoprì che significava Sindacalista rimase un po' spiazzato, naturalmente; ma non poteva fare una scenata. Immagino che sarebbe in imbarazzo a dire cosa significhi l'uno o l'altro dei due termini.»

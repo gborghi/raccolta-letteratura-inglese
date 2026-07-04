@@ -2,7 +2,7 @@
 title: Growltiger’s Last Stand
 author: Eliot
 type: work
-cluster: Joy · Animals · Comic Verse / Song
+cluster: Joy · Animals · Comic Verse Song
 source: Authors/Eliot/_raw/082_Growltigers_Last_Stand.md
 tags:
   - graph/work

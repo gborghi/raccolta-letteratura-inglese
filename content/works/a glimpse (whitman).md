@@ -2,7 +2,7 @@
 title: A Glimpse
 author: Whitman
 type: work
-cluster: Comradeship · Union · Hands / Hand in Hand
+cluster: Comradeship · Union · Hands Hand in Hand
 source: Authors/Whitman/_raw/069_A_Glimpse.md
 tags:
   - graph/work

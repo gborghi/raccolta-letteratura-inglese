@@ -2,7 +2,7 @@
 title: Mélange Adultère de Tout
 author: Eliot
 type: work
-cluster: Artist and Society · Truth · Regency/Georgian England
+cluster: Artist and Society · Truth · Regency Georgian England
 source: Authors/Eliot/_raw/020_Mélange_Adultère_de_Tout.md
 tags:
   - graph/work

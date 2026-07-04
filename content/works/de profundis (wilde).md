@@ -2,7 +2,7 @@
 title: De Profundis
 author: Wilde
 type: work
-cluster: Martyrdom · Martyr / Saint · Cross
+cluster: Martyrdom · Martyr Saint · Cross
 source: Authors/Wilde/_raw/029_De_Profundis.md
 tags:
   - graph/work

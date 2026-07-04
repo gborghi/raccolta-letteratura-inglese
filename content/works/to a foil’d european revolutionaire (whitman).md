@@ -2,7 +2,7 @@
 title: To a Foil’d European Revolutionaire
 author: Whitman
 type: work
-cluster: Nationalism and Patriotism · Democracy · Liberty / Political Freedom
+cluster: Nationalism and Patriotism · Democracy · Liberty Political Freedom
 source: Authors/Whitman/_raw/197_To_a_Foil_d_European_Revolutionaire.md
 tags:
   - graph/work

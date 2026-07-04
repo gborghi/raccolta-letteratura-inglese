@@ -2,7 +2,7 @@
 title: Apollo and the Graces
 author: Keats
 type: work
-cluster: Joy · Animals · Comic Verse / Song
+cluster: Joy · Animals · Comic Verse Song
 source: Authors/Keats/_raw/130_Apollo_and_the_Graces.md
 tags:
   - graph/work

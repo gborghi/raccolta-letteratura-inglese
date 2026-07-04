@@ -2,7 +2,7 @@
 title: Our Old Feuillage
 author: Whitman
 type: work
-cluster: Nationalism and Patriotism · Democracy · Liberty / Political Freedom
+cluster: Nationalism and Patriotism · Democracy · Liberty Political Freedom
 source: Authors/Whitman/_raw/086_Our_Old_Feuillage.md
 tags:
   - graph/work

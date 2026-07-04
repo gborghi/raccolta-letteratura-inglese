@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/don-quixote-(chesterton)">Don Quixote</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/don_quixote/chapter_06">‹ Chapter 06</a><a class="ex-next" href="/testi/chesterton/atomized/don_quixote/chapter_08">Chapter 08 ›</a></div>
@@ -365,5 +367,128 @@ I'll show you the red colour I mean in the book, and you shall
 compare it yourself with the colours in my paint-box. And
 then you shall go out yourself and see whether you can buy me
 a cake of it."
+
+-^-
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/don-quixote-(chesterton)">Don Quixote</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/don_quixote/chapter_06">‹ Chapter 06</a><a class="ex-next" href="/testi/chesterton/atomized/don_quixote/chapter_08">Chapter 08 ›</a></div>
+</nav>
+<nav class="excerpt-children">
+<div class="excerpt-children-label">In questa sezione</div>
+<ul><li><a href="/testi/chesterton/atomized/don_quixote/chapter_07/part_01">Part 1</a></li><li><a href="/testi/chesterton/atomized/don_quixote/chapter_07/part_02">Part 2</a></li><li><a href="/testi/chesterton/atomized/don_quixote/chapter_07/part_03">Part 3</a></li></ul>
+</nav>
+
+CAPITOLO VI
+
+UN INCARICO DA COLORISTA
+
+Mentre Murrel guardava, gli si fece a poco a poco strada nella mente (che forse si andava sgombrando piuttosto lentamente da molti fumi festaioli) la coscienza di uno dei risultati della sua insensata spedizione notturna, o esperimento nell'[[Education|educazione]] dei rivoluzionari. Era rimasto fuori tutta la [[Night|notte]] e non aveva veduto nulla di ciò che era ultimamente accaduto ai suoi amici e alle loro recite. Ma ricordava che era stato quasi esattamente in questo momento del mattino, con le sue ombre lunghe, sottili e affusolate e il debole, remoto rossore dell'[[Dawn|alba]], che aveva abbandonato la sua pittura degli scenari e si era tuffato nella biblioteca all'inseguimento del bibliotecario. Aveva lasciato il bibliotecario in cima alla scala poco più di ventiquattr'ore prima. Ed ecco la scala buttata via come cianfrusaglia nel [[Garden|giardino]], macchiata di muffa, uno [[skeleton|scheletro]] sul quale i ragni tessevano le loro argentee tele mattutine. Che cosa era accaduto, e perché quel particolare mobile era stato così gettato nel [[Garden|giardino]]? Ricordò le facezie di Julian Archer, e il suo volto si contrasse in uno spasimo di fastidio mentre si dirigeva in fretta verso la biblioteca e vi gettava un'occhiata.
+
+La sua prima impressione fu che la stanza lunga e alta, interamente rivestita di libri, fosse vuota. Un istante dopo vide che in alto, nell'angolo buio dove il bibliotecario aveva trovato i suoi testi francesi di [[history|storia]] medievale, pendeva una strana sorta di nuvola o foschia luminosa e azzurrina. Poi vide che la luce elettrica ardeva ancora, e che il velo di vapore attraverso cui essa splendeva era il risultato del fatto che qualcuno aveva fumato su quel remoto posatoio, e fumato per un considerevole numero di ore, forse (come cominciava ad [[Dawn|albeggiare]] nella mente dello sviato festaiolo) tutta la [[Night|notte]] e gran parte del giorno prima. Poi per la prima [[Time|volta]] si raffigurò chiaramente le due lunghe gambe del signor [[Michael]] Herne, ancora penzolanti dalla sua alta cornice; dove pareva che egli avesse letto senza posa da un'aurora all'altra. Per fortuna, sembrava che avesse qualcosa da fumare. Ma non poteva assolutamente avere avuto nulla da mangiare. «Che il Signore ci benedica», mormorò Murrel fra sé, «quest'uomo dev'essere affamato! E il [[Sleep|sonno]], poi? Se avesse dormito su quella cornice, immagino sarebbe caduto giù».
+
+Chiamò con cautela l'uomo lassù, un po' come si fa con un [[Child|bambino]] che gioca sull'orlo di un precipizio. Gli disse, quasi in tono rassicurante: «Va tutto bene; ho la scala».
+
+Il bibliotecario alzò placidamente lo sguardo al di sopra del suo grosso libro. «Vuole che scenda?» chiese.
+
+E allora Murrel vide l'ultimo dei prodigi delle sue assurde ventiquattr'ore. Poiché, senza aspettare affatto la scala, il bibliotecario si lasciò scivolare rapidamente giù per la facciata dello scaffale, trovando appigli nei ripiani, con qualche difficoltà e non poco pericolo, per atterrare infine sui piedi. È vero che, giunto a terra, ebbe un barcollamento.
+
+«Ha interpellato Garton Rogers?» domandò. «Che periodo interessante!»
+
+Murrel non si lasciava sgomentare facilmente, ma per un momento anche lui quasi barcollò. Non poté che rispondere con uno sguardo attonito e la ripetizione della parola: «Periodo! Quale periodo?»
+
+«[[Well|Ebbene]]», replicò il signor Herne, il bibliotecario, socchiudendo gli occhi. «Suppongo che potremmo collocare il periodo più interessante, diciamo, dal 1080 al 1260. Che ne pensa?»
+
+«Penso che sia una lunga [[Time|attesa]] per un pasto», rispose Murrel. «Amico mio, dev'essere ridotto alla fame. È davvero rimasto appollaiato lassù per... per duecento anni, per così dire?»
+
+«Mi sento un po' buffo, in effetti», replicò Herne.
+
+«Non approvo il suo gusto in fatto di divertimenti», rispose l'altro. «Senta, andrò a procurarle qualcosa da mangiare. La servitù non è ancora in piedi; ma un garzone di cucina, un tempo mio amico, mi mostrò una volta la via della dispensa».
+
+Uscì in fretta dalla stanza e tornò dopo circa cinque minuti recando un vassoio carico di cose incongrue, tra le quali parevano predominare le bottiglie di birra.
+
+«Antico [[cheese|formaggio]] britannico», disse, deponendo i vari oggetti sopra uno scaffale girevole. «Pollo freddo, probabilmente non anteriore al 1390. Birra, quale la beveva [[Richard|Riccardo]] Cuor di [[Lion|Leone]]; o almeno quel tanto che ne lasciò. _Jambon froid à la mode Troubadour._ Cominci subito, la prego. Le assicuro che il mangiare e il bere erano in uso già nel migliore dei periodi».
+
+«Non posso davvero bere tutta questa birra», disse il bibliotecario. «È prestissimo».
+
+«Al contrario, è tardissimo», disse Murrel. «Non mi dispiace farle compagnia, giacché sto giusto concludendo una sorta di banchetto per conto mio. Un altro sorsetto non ci farà alcun male, come dice l'antica [[Song|canzone]] provenzale dei Trovatori».
+
+«Davvero», disse Herne, «non capisco bene che cosa significhi tutto questo».
+
+«Neanch'io», replicò Murrel, «ma la [[Truth|verità]] è che anch'io sono stato fuori dal letto tutta la [[Night|notte]]. Impegnato in ricerche. Non proprio ricerche sul suo periodo, ma su un altro periodo; un periodo sistematico, organizzato, pieno di sociologia e di tutto il resto. Mi perdonerà se anch'io sono un po' intontito. Mi domando se davvero ci fosse una così maledetta differenza tra un periodo e l'altro».
+
+«Ma vede», esclamò Herne con ardore, «in un certo senso è proprio così che la penso io. È straordinario quali paralleli si trovino tra questo periodo medievale e la mia materia. Com'è interessante tutto quel mutamento, quel trasformarsi del vecchio funzionario imperiale in nobile ereditario! Non le parrebbe di leggere della trasformazione dei Nal dopo l'invasione degli Zamul?»
+
+«Come no!» disse Murrel con fiacco fervore. «[[Well|Ebbene]], [[Hope|spero]] che potrà informarci per bene sui Trovatori».
+
+«[[Well|Ebbene]], certo lei e i suoi amici sanno il fatto vostro», disse il bibliotecario. «Avete studiato tutto per benino tempo fa; ma mi [[Wonder|meraviglia]] alquanto che vi siate concentrati tanto sui Trovatori. Avrei pensato che i Trovieri si sarebbero adattati meglio al vostro disegno».
+
+«È questione di convenzione, immagino», rispose Murrel. «È cosa del tutto regolare farsi fare una serenata da un Trovatore; ma se trovassero un Troviere a gironzolare per il [[Garden|giardino]], non sarebbe molto rispettabile ed egli potrebbe essere acciuffato dalla polizia per vagabondaggio con l'intento di commettere un reato».
+
+Il bibliotecario parve un poco perplesso. Poi disse: «In un primo momento credevo che il Troviere fosse qualcosa come lo Zel, o suonatore di liuto; ma sono giunto alla conclusione che fosse soltanto una specie di Pani».
+
+«L'ho sempre sospettato», disse Murrel cupamente, «ma mi piacerebbe moltissimo avere in proposito il parere di Julian Archer».
+
+«Sì», replicò umilmente il bibliotecario, «suppongo che il signor Archer sia una grande autorità in materia».
+
+«L'ho sempre trovato una grande autorità in ogni materia», disse Murrel in tono misurato. «Ma poi, vede, io sono ignorante in ogni materia... con l'eccezione forse della birra, di cui pare che stia prendendo più della mia giusta parte. Suvvia, signor Herne, faccia girare la bruna coppa in modo più festoso, la prego. Forse vorrà favorire la compagnia con una [[Song|canzone]]... un'antica [[Song|canzone]] ittita da bere».
+
+«No, davvero», disse il bibliotecario con serietà, «non potrei assolutamente cantarla; il canto non è tra i miei talenti».
+
+«Cadere dalla cima degli scaffali pare essere tra i suoi talenti», ribatté il compagno. «Io cado spesso dagli omnibus e cose del genere; ma non avrei saputo farlo meglio io stesso. Mi sembra, mio caro signore, che lei sia un po' un mistero. Ora che è forse un poco ristorato dal cibo e dalla bevanda, specialmente dalla bevanda, forse vorrà spiegarsi. Se ha potuto scendere in un qualsiasi [[Time|momento]] durante le ultime ventiquattr'ore, posso chiederle perché non le sia mai venuto in mente che vi sarebbe qualcosa da dire a favore dell'andare a letto, e persino dell'alzarsi per la colazione?»
+
+«Confesso che avrei preferito quest'ultima cosa», disse il signor Herne, modestamente. «Forse ero un po' stordito e nervoso per il salto, finché lei non mi ha spaventato inducendomi a farlo. Non è mia abitudine arrampicarmi sui muri a quel modo».
+
+«Ciò che vorrei sapere è: se lei è un tale scalatore alpino, perché è rimasto su quella cornice del precipizio per tutta la [[Night|notte]], ad aspettare l'[[Dawn|alba]]? Non avevo idea che i bibliotecari fossero alpinisti dal piede tanto leggero. Ma perché? Perché non scendere? Scenda, ché l'[[Love|amore]] abita nella valle; ed è del tutto inutile attendere il venire dell'[[Love|amore]] appollaiati sulla cima di uno scaffale. Perché lo ha fatto?»
+
+«Dovrei vergognarmi di me, lo so», replicò tristemente lo studioso. «Lei parla d'[[Love|amore]], e in realtà è una specie di infedeltà. Mi sento proprio come se mi fossi [[Love|innamorato]] della moglie di un altro. Un uomo dovrebbe tenersi fedele alla propria materia».
+
+«Lei pensa che la Principessa Pal-Ul... come si chiama?... sarà gelosa di Berengaria di Navarra?» suggerì Murrel. «Ottima storia da rivista... lei perseguitato dalla sua mummia, che si trascina e sbatacchia per tutti i corridoi nella [[Night|notte]]. Non c'è da [[Wonder|meravigliarsi]] che avesse paura di scendere. Ma suppongo che intenda dire che era interessato ai libri lassù».
+
+«Ne ero avvinto», disse il bibliotecario con una sorta di gemito. «Non avevo idea che la ricostruzione della civiltà dopo le guerre barbariche e i secoli bui fosse una faccenda tanto affascinante e dai molteplici aspetti. Quella questione del Servo Vincolato alla Terra da [[Alone|Solo]]... Temo che, se mi fossi imbattuto in tutto ciò da più giovane...»
+
+«Avrebbe fatto qualcosa di disperato al riguardo, immagino», disse Murrel. «Si sarebbe gettato follemente nello studio del gotico perpendicolare, o avrebbe dilapidato le sue sostanze in dissolute lastre tombali di ottone e vetrate istoriate. [[Well|Ebbene]], non è troppo tardi, suppongo».
+
+Un minuto o due più tardi Murrel alzò gli occhi di scatto in risposta a un [[Silence|silenzio]], come gli uomini alzano gli occhi in risposta a un discorso. Vi era qualcosa di sorprendente nel modo in cui il Bibliotecario aveva smesso di parlare; qualcosa di ancor più sorprendente nel modo in cui guardava fuori, tra le porte a vetri aperte, attraverso gli spazi del [[Garden|giardino]] che a poco a poco si riscaldavano alla luce crescente del sole. Guardava giù per il lungo viale, con strisce di piatte ma fiammeggianti aiuole ai due lati, un poco simili alle bordure di una miniatura medievale, e in fondo a quella lunga prospettiva si ergeva il [[Fragment|frammento]] di muratura medievale, posato sul suo piedistallo settecentesco al di sopra della grande distesa del [[Garden|giardino]], e del digradare di tutta la campagna.
+
+«Mi [[Wonder|domando]]», disse, «quanto ci sia di vero in quel termine che udiamo tanto spesso: "Troppo tardi". A volte mi pare che sia o del tutto vero o del tutto falso. O tutto è troppo tardi, o nulla è troppo tardi. Sembra in qualche modo trovarsi proprio sul confine tra illusione e realtà. Ogni uomo commette errori; dicono che un uomo che non commette mai errori non combina mai nient'altro. Ma pensa che un uomo possa commettere un errore e non combinare nient'altro? Pensa che egli possa morire avendo mancato l'occasione di vivere?»
+
+«[[Well|Ebbene]], come le ho detto», disse Murrel, «sono incline a pensare che una materia sia press'a poco come un'altra. Sarebbero tutte interessanti per un uomo come lei e assai sconcertanti per un uomo come me».
+
+«Sì», replicò Herne con un'inattesa nota di decisione. «Ma supponga che una delle materie sia davvero la materia di uomini come lei e me. Supponga che avessimo dimenticato il volto di nostro padre pur di dissotterrare le ossa del trisavolo di qualcun altro. Supponga che io debba essere perseguitato da qualcuno che non è una mummia, o da una mummia che non è morta?»
+
+Murrel continuò a fissare Herne con curiosità, e Herne continuò a fissare intento il lontano monumento sul prato.
+
+Olive Ashley era per certi versi una persona singolare; descritta dai suoi amici, nei loro vari gerghi, come una ragazza strampalata, un tipo bizzarro e un originale; e in nulla più bizzarra, a ben pensarci, che in quel semplice atto con cui la sua storia comincia: il fatto che ella andasse ancora «miniando» quando tutti sentivano che la recita era la cosa che contava. Se ne stava china, quasi accovacciata, si potrebbe dire, sul suo minuscolo passatempo medievale, nel cuore stesso, o centro vuoto, del turbine delle assurde recite. Pareva qualcuno che cogliesse margherite a Epsom Downs volgendo le spalle al Derby. Eppure era stata lei l'autrice della commedia e la prima entusiasta della materia.
+
+«E poi», come osservò Rosamund Severne con un ampio gesto quasi di [[Despair|disperazione]], «quando Olive ebbe ottenuto ciò che voleva, parve non volerlo più. Le si diede la sua vecchia commedia medievale, e allora fu lei a stancarsene! Tornò a trastullarsi con quelle sue misere vernicine dorate, e lasciò a noi il resto del lavoro».
+
+«[[Well|Ebbene]], [[Well|ebbene]]», aveva detto Murrel, giacché era un paciere universale, «forse è [[Well|bene]] che il lavoro sia lasciato a voi. Siete così pratica. Siete una Donna d'Azione».
+
+E Rosamund fu alquanto placata, e ammise di aver spesso desiderato di essere un uomo.
+
+I desideri della sua amica Olive rimanevano un po' un mistero; ma si può congetturare che questo non fosse tra essi. In verità non era del tutto esatto dire, come diceva Rosamund, che le avessero dato la sua vecchia commedia medievale. Sarebbe più esatto dire che gliel'avevano portata via. L'avevano immensamente migliorata; sembravano esserne del tutto sicuri, e senza [[Doubt|dubbio]] dovevano ben saperlo. Le rendevano ogni possibile omaggio, come a una cosa che si poteva elaborare con grandissimo successo per la scena. Un poco adattata, offriva alcune mirabili entrate e uscite per il signor Julian Archer. Solo che ella cominciava ad avere un sentimento profondo e deplorevole, riguardo a quel gentiluomo: che preferiva le uscite alle entrate. Non ne diceva nulla, e a lui meno che a chiunque. Era una signora di un certo tipo; di quelle che possono litigare con chi amano, ma non con chi disprezzano. Così si rannicchiò nel suo guscio; in quel guscio in cui la vernice d'oro era curiosamente conservata nelle vecchie scatole di colori.
+
+Se sceglieva di colorare d'argento un albero convenzionale, non udiva dietro le spalle la voce sonora del signor Archer che diceva come sarebbe parso meschino non mettervi l'oro. Se dipingeva d'un rosso vivo un pesce decorativo e bizzarro, non si trovava di fronte lo sguardo esasperato della sua migliore amica che diceva: «Cara mia, tu _sai_ che io non posso portare il rosso». Douglas non poteva giocare tiri birboni con le torrette e i padiglioni dei suoi quadri, per quanto apparissero strani e sbilenchi come palazzi da pantomima. Se quelle case erano scherzi, erano scherzi suoi; e non erano affatto pratici. Il cammello non poteva passare per la cruna dell'ago; e l'elefante da pantomima non poteva passare per il buco della serratura della porta che custodiva la sua camera delle immagini. Quella divina [[house|casa]] delle bambole in cui giocava con santi pigmei e angeli pigmei era troppo piccola perché quella gente, come grossi e goffi fratelli e sorelle, vi si cacciasse dentro a precipizio. Così ella ripiegò sul suo vecchio passatempo, tra la [[Wonder|meraviglia]] generale. Nondimeno, in questo particolare mattino, era un poco meno blandamente monomaniaca del solito. Dopo aver lavorato per una decina di minuti, si [[Rose|alzò]] in piedi, guardando fuori nel [[Garden|giardino]]. Poi uscì quasi come un automa, il pennello ancora in mano. Rimase per un po' di [[Time|tempo]] a guardare il grande [[Fragment|frammento]] gotico sul piedistallo, nell'[[Shadow|ombra]] del quale ella e Murrel avevano dibattuto il terribile problema di John Braintree. Poi guardò dall'altra parte, verso le porte e le finestre dell'ala opposta della [[house|casa]]; e vide che sulla soglia della biblioteca stava il bibliotecario, con accanto Douglas Murrel.
+
+La vista di questi due [[Birds|uccelli]] mattinieri parve destare il terzo mattiniero a un contatto più pratico col mondo che si ridestava. Fu come se ella prendesse d'un tratto una risoluzione, o divenisse consapevole di una risoluzione già presa. Camminò un poco più in fretta e in una direzione mutata, verso la biblioteca; e giuntavi, quasi ignorando la brezzosa sorpresa del saluto di Murrel, disse al bibliotecario con una curiosa serietà: «Signor Herne, vorrei che mi lasciasse guardare un libro nella biblioteca».
+
+Herne trasalì come da una trance e disse: «Chiedo scusa».
+
+«Volevo parlarle proprio di questo», disse Olive Ashley. «L'altro giorno guardavo un libro nella biblioteca, un libro miniato su San Luigi, credo; e vi era un rosso meraviglioso; un rosso vivido come se fosse rovente, eppure delicato nella tinta come uno squarcio limpido nel tramonto. Ora, un colore simile non riesco a trovarlo in nessun luogo».
+
+«Oh, non saprei», disse Murrel col suo fare disinvolto. «Ritengo che oggigiorno si possa ottenere [[Well|praticamente]] qualsiasi cosa, se si sa dove andare».
+
+«Vuol dire», disse Olive con una certa amarezza, «che oggigiorno si può ottenere qualsiasi cosa, se si sa come pagarla».
+
+«Mi [[Wonder|domando]]», disse il bibliotecario meditabondo, «se, offrendomi ora di pagare per un _palumon_ paleo-ittita, mi [[Wonder|domando]] se sarebbe facile procurarselo».
+
+«Non dico che Selfridge lo metta proprio in [[Window|vetrina]]», disse Murrel, «ma probabilmente trovereste da qualche parte qualche altro milionario americano disposto a fare quello che lui chiamerebbe un affare con esso».
+
+«Ora senta, Douglas», esclamò Olive con un certo [[Fire|fuoco]], «so che lei ha una passione per le scommesse, le puntate e cose del genere. Le mostrerò il rosso che intendo, nel libro, e lei lo confronterà lui stesso con i colori della mia scatola di vernici. E poi uscirà lei in persona a vedere se riesce a comprarmi una pastiglia di quel colore».
 
 -^-

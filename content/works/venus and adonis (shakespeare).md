@@ -2,7 +2,7 @@
 title: VENUS AND ADONIS
 author: Shakespeare
 type: work
-cluster: Greek Mythology · Lust / Sexual Desire · Desire
+cluster: Greek Mythology · Lust Sexual Desire · Desire
 source: Authors/Shakespeare/_raw/007_Venus_and_Adonis.md
 tags:
   - graph/work

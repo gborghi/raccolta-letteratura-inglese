@@ -2,7 +2,7 @@
 title: Pioneers! O Pioneers!
 author: Whitman
 type: work
-cluster: Nationalism and Patriotism · Democracy · Liberty / Political Freedom
+cluster: Nationalism and Patriotism · Democracy · Liberty Political Freedom
 source: Authors/Whitman/_raw/095_Pioneers_O_Pioneers.md
 tags:
   - graph/work

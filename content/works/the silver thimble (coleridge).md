@@ -2,7 +2,7 @@
 title: THE SILVER THIMBLE
 author: Coleridge
 type: work
-cluster: Greek Mythology · Lust / Sexual Desire · Desire
+cluster: Greek Mythology · Lust Sexual Desire · Desire
 source: Authors/Coleridge/_raw/106_THE_SILVER_THIMBLE.md
 tags:
   - graph/work

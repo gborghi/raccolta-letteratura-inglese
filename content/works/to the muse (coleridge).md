@@ -2,7 +2,7 @@
 title: TO THE MUSE
 author: Coleridge
 type: work
-cluster: Artist and Society · Truth · Regency/Georgian England
+cluster: Artist and Society · Truth · Regency Georgian England
 source: Authors/Coleridge/_raw/008_TO_THE_MUSE.md
 tags:
   - graph/work

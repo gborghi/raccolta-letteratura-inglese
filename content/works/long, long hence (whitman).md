@@ -2,7 +2,7 @@
 title: 'Long, Long Hence'
 author: Whitman
 type: work
-cluster: Letters and Writing · Immortality Through Verse · Immortality of Art / Fame
+cluster: Letters and Writing · Immortality Through Verse · Immortality of Art Fame
 source: Authors/Whitman/_raw/362_Long_Long_Hence.md
 tags:
   - graph/work

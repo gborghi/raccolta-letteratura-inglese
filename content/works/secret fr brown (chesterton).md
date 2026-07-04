@@ -2,7 +2,7 @@
 title: The Secret of Father Brown
 author: Chesterton
 type: work
-cluster: Short Story · Concealment / Hidden Identity · Justice / Right and Wrong
+cluster: Short Story · Concealment Hidden Identity · Justice Right and Wrong
 source: Authors/Chesterton/_raw/secret_Fr_Brown.md
 tags:
   - graph/work

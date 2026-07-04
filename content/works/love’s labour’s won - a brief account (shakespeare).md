@@ -2,7 +2,7 @@
 title: LOVE’S LABOUR’S WON - A BRIEF ACCOUNT
 author: Shakespeare
 type: work
-cluster: Artist and Society · Truth · Regency/Georgian England
+cluster: Artist and Society · Truth · Regency Georgian England
 source: Authors/Shakespeare/_raw/012_Loves_Labours_Won.md
 tags:
   - graph/work

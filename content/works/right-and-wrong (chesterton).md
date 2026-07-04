@@ -2,7 +2,7 @@
 title: The Song of Right and Wrong
 author: Chesterton
 type: work
-cluster: Wine and Drink · Ballad / Ballade · Road
+cluster: Wine and Drink · Ballad Ballade · Road
 source: Authors/Chesterton/_raw/right-and-wrong.md
 tags:
   - graph/work

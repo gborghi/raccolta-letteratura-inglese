@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/don-quixote-(chesterton)">Don Quixote</a></div>
 <div class="excerpt-pn"><span></span><a class="ex-next" href="/testi/chesterton/atomized/don_quixote/chapter_02">Chapter 02 ›</a></div>
@@ -37,5 +39,40 @@ XVIII THE SECRET OF SEAWOOD XIX THE RETURN OF [[Don Quixote|DON QUIXOTE]]
 -^-
 
 THE RETURN OF [[Don Quixote|DON QUIXOTE]]
+
+-^-
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/don-quixote-(chesterton)">Don Quixote</a></div>
+<div class="excerpt-pn"><span></span><a class="ex-next" href="/testi/chesterton/atomized/don_quixote/chapter_02">Chapter 02 ›</a></div>
+</nav>
+
+CAPITOLO
+    I  UNA FALLA NELLA CASTA
+   II  UN UOMO PERICOLOSO
+  III  LA SCALA NELLA BIBLIOTECA
+   IV  IL PRIMO PROCESSO DI JOHN BRAINTREE
+    V  IL SECONDO PROCESSO DI JOHN BRAINTREE
+   VI  UN INCARICO DA COLORISTA
+  VII  «BLONDEL IL TROVATORE»
+ VIII  LE DISAVVENTURE DI MONKEY
+   IX  IL MISTERO DI UNA CARROZZA
+    X  QUANDO I DOTTORI NON CONCORDANO
+   XI  LA FOLLIA DEL BIBLIOTECARIO
+  XII  L'UOMO DI STATO E IL [[house|PADIGLIONE]] [[Summer|ESTIVO]]
+ XIII  IL VITTORIANO E LA FRECCIA
+  XIV  IL RITORNO DEL CAVALIERE ERRANTE
+   XV  LA SEPARAZIONE DELLE STRADE
+  XVI  IL GIUDIZIO DEL [[King|RE]]
+ XVII  LA PARTENZA DI [[Don Quixote|DON QUIXOTE]]
+XVIII IL SEGRETO DI SEAWOOD XIX IL RITORNO DI [[Don Quixote|DON QUIXOTE]]
+
+-^-
+
+IL RITORNO DI [[Don Quixote|DON QUIXOTE]]
 
 -^-

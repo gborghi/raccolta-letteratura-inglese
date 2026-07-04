@@ -2,7 +2,7 @@
 title: The Runaway Abbot
 author: Chesterton
 type: work
-cluster: Grace and Redemption · Humility · Bread and Wine / Eucharist
+cluster: Grace and Redemption · Humility · Bread and Wine Eucharist
 source: Authors/Chesterton/_raw/runabbot.md
 tags:
   - graph/work

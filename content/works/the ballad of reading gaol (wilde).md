@@ -2,7 +2,7 @@
 title: The Ballad of Reading Gaol
 author: Wilde
 type: work
-cluster: Martyrdom · Martyr / Saint · Cross
+cluster: Martyrdom · Martyr Saint · Cross
 source: Authors/Wilde/_raw/031_The_Ballad_of_Reading_Gaol.md
 tags:
   - graph/work

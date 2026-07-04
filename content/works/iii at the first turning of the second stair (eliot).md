@@ -2,7 +2,7 @@
 title: III At the first turning of the second stair
 author: Eliot
 type: work
-cluster: Temptation · Good vs Evil · Serpent / Snake
+cluster: Temptation · Good vs Evil · Serpent Snake
 source: Authors/Eliot/_raw/038_III_At_the_first_turning_of_the_second_stair.md
 tags:
   - graph/work

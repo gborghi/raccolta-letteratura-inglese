@@ -2,7 +2,7 @@
 title: THE KISS
 author: Coleridge
 type: work
-cluster: Greek Mythology · Lust / Sexual Desire · Desire
+cluster: Greek Mythology · Lust Sexual Desire · Desire
 source: Authors/Coleridge/_raw/063_THE_KISS.md
 tags:
   - graph/work

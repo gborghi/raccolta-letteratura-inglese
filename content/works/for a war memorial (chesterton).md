@@ -2,7 +2,7 @@
 title: For a War Memorial
 author: Chesterton
 type: work
-cluster: Ruins / the Abbey · Sic Transit Gloria Mundi · Ubi Sunt
+cluster: Ruins the Abbey · Sic Transit Gloria Mundi · Ubi Sunt
 source: Authors/Chesterton/_raw/For_a_War_Memorial.md
 tags:
   - graph/work

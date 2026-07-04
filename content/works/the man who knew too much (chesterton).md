@@ -2,7 +2,7 @@
 title: The Man Who Knew Too Much
 author: Chesterton
 type: work
-cluster: Short Story · Concealment / Hidden Identity · Justice / Right and Wrong
+cluster: Short Story · Concealment Hidden Identity · Justice Right and Wrong
 source: Authors/Chesterton/_raw/The_Man_Who_Knew_Too_Much.md
 tags:
   - graph/work

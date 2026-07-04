@@ -2,7 +2,7 @@
 title: The Pun
 author: Chesterton
 type: work
-cluster: Artist and Society · Truth · Regency/Georgian England
+cluster: Artist and Society · Truth · Regency Georgian England
 source: Authors/Chesterton/_raw/pun.md
 tags:
   - graph/work

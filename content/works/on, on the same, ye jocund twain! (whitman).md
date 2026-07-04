@@ -2,7 +2,7 @@
 title: 'On, on the Same, Ye Jocund Twain!'
 author: Whitman
 type: work
-cluster: Nationalism and Patriotism · Democracy · Liberty / Political Freedom
+cluster: Nationalism and Patriotism · Democracy · Liberty Political Freedom
 source: Authors/Whitman/_raw/354_On_on_the_Same_Ye_Jocund_Twain.md
 tags:
   - graph/work

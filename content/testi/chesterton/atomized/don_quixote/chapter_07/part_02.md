@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/don-quixote-(chesterton)">Don Quixote</a> › <a href="/testi/chesterton/atomized/don_quixote/chapter_07">Chapter 07</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/don_quixote/chapter_07/part_01">‹ part 01</a><a class="ex-next" href="/testi/chesterton/atomized/don_quixote/chapter_07/part_03">part 03 ›</a></div>
@@ -135,3 +137,50 @@ enthusiast for the subject.
 Gave her her old medieval play and then it was she that got sick of it!
 Went back to pottering about with her potty little gold paints,
 and let us do the rest of the work."
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/don-quixote-(chesterton)">Don Quixote</a> › <a href="/testi/chesterton/atomized/don_quixote/chapter_07">Chapter 07</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/don_quixote/chapter_07/part_01">‹ part 01</a><a class="ex-next" href="/testi/chesterton/atomized/don_quixote/chapter_07/part_03">part 03 ›</a></div>
+</nav>
+
+Il bibliotecario parve un poco perplesso. Poi disse: «In un primo momento credevo che il Troviere fosse qualcosa come lo Zel, o suonatore di liuto; ma sono giunto alla conclusione che fosse soltanto una specie di Pani».
+
+«L'ho sempre sospettato», disse Murrel cupamente, «ma mi piacerebbe moltissimo avere in proposito il parere di Julian Archer».
+
+«Sì», replicò umilmente il bibliotecario, «suppongo che il signor Archer sia una grande autorità in materia».
+
+«L'ho sempre trovato una grande autorità in ogni materia», disse Murrel in tono misurato. «Ma poi, vede, io sono ignorante in ogni materia... con l'eccezione forse della birra, di cui pare che stia prendendo più della mia giusta parte. Suvvia, signor Herne, faccia girare la bruna coppa in modo più festoso, la prego. Forse vorrà favorire la compagnia con una [[Song|canzone]]... un'antica [[Song|canzone]] ittita da bere».
+
+«No, davvero», disse il bibliotecario con serietà, «non potrei assolutamente cantarla; il canto non è tra i miei talenti».
+
+«Cadere dalla cima degli scaffali pare essere tra i suoi talenti», ribatté il compagno. «Io cado spesso dagli omnibus e cose del genere; ma non avrei saputo farlo meglio io stesso. Mi sembra, mio caro signore, che lei sia un po' un mistero. Ora che è forse un poco ristorato dal cibo e dalla bevanda, specialmente dalla bevanda, forse vorrà spiegarsi. Se ha potuto scendere in un qualsiasi [[Time|momento]] durante le ultime ventiquattr'ore, posso chiederle perché non le sia mai venuto in mente che vi sarebbe qualcosa da dire a favore dell'andare a letto, e persino dell'alzarsi per la colazione?»
+
+«Confesso che avrei preferito quest'ultima cosa», disse il signor Herne, modestamente. «Forse ero un po' stordito e nervoso per il salto, finché lei non mi ha spaventato inducendomi a farlo. Non è mia abitudine arrampicarmi sui muri a quel modo».
+
+«Ciò che vorrei sapere è: se lei è un tale scalatore alpino, perché è rimasto su quella cornice del precipizio per tutta la [[Night|notte]], ad aspettare l'[[Dawn|alba]]? Non avevo idea che i bibliotecari fossero alpinisti dal piede tanto leggero. Ma perché? Perché non scendere? Scenda, ché l'[[Love|amore]] abita nella valle; ed è del tutto inutile attendere il venire dell'[[Love|amore]] appollaiati sulla cima di uno scaffale. Perché lo ha fatto?»
+
+«Dovrei vergognarmi di me, lo so», replicò tristemente lo studioso. «Lei parla d'[[Love|amore]], e in realtà è una specie di infedeltà. Mi sento proprio come se mi fossi [[Love|innamorato]] della moglie di un altro. Un uomo dovrebbe tenersi fedele alla propria materia».
+
+«Lei pensa che la Principessa Pal-Ul... come si chiama?... sarà gelosa di Berengaria di Navarra?» suggerì Murrel. «Ottima storia da rivista... lei perseguitato dalla sua mummia, che si trascina e sbatacchia per tutti i corridoi nella [[Night|notte]]. Non c'è da [[Wonder|meravigliarsi]] che avesse paura di scendere. Ma suppongo che intenda dire che era interessato ai libri lassù».
+
+«Ne ero avvinto», disse il bibliotecario con una sorta di gemito. «Non avevo idea che la ricostruzione della civiltà dopo le guerre barbariche e i secoli bui fosse una faccenda tanto affascinante e dai molteplici aspetti. Quella questione del Servo Vincolato alla Terra da [[Alone|Solo]]... Temo che, se mi fossi imbattuto in tutto ciò da più giovane...»
+
+«Avrebbe fatto qualcosa di disperato al riguardo, immagino», disse Murrel. «Si sarebbe gettato follemente nello studio del gotico perpendicolare, o avrebbe dilapidato le sue sostanze in dissolute lastre tombali di ottone e vetrate istoriate. [[Well|Ebbene]], non è troppo tardi, suppongo».
+
+Un minuto o due più tardi Murrel alzò gli occhi di scatto in risposta a un [[Silence|silenzio]], come gli uomini alzano gli occhi in risposta a un discorso. Vi era qualcosa di sorprendente nel modo in cui il Bibliotecario aveva smesso di parlare; qualcosa di ancor più sorprendente nel modo in cui guardava fuori, tra le porte a vetri aperte, attraverso gli spazi del [[Garden|giardino]] che a poco a poco si riscaldavano alla luce crescente del sole. Guardava giù per il lungo viale, con strisce di piatte ma fiammeggianti aiuole ai due lati, un poco simili alle bordure di una miniatura medievale, e in fondo a quella lunga prospettiva si ergeva il [[Fragment|frammento]] di muratura medievale, posato sul suo piedistallo settecentesco al di sopra della grande distesa del [[Garden|giardino]], e del digradare di tutta la campagna.
+
+«Mi [[Wonder|domando]]», disse, «quanto ci sia di vero in quel termine che udiamo tanto spesso: "Troppo tardi". A volte mi pare che sia o del tutto vero o del tutto falso. O tutto è troppo tardi, o nulla è troppo tardi. Sembra in qualche modo trovarsi proprio sul confine tra illusione e realtà. Ogni uomo commette errori; dicono che un uomo che non commette mai errori non combina mai nient'altro. Ma pensa che un uomo possa commettere un errore e non combinare nient'altro? Pensa che egli possa morire avendo mancato l'occasione di vivere?»
+
+«[[Well|Ebbene]], come le ho detto», disse Murrel, «sono incline a pensare che una materia sia press'a poco come un'altra. Sarebbero tutte interessanti per un uomo come lei e assai sconcertanti per un uomo come me».
+
+«Sì», replicò Herne con un'inattesa nota di decisione. «Ma supponga che una delle materie sia davvero la materia di uomini come lei e me. Supponga che avessimo dimenticato il volto di nostro padre pur di dissotterrare le ossa del trisavolo di qualcun altro. Supponga che io debba essere perseguitato da qualcuno che non è una mummia, o da una mummia che non è morta?»
+
+Murrel continuò a fissare Herne con curiosità, e Herne continuò a fissare intento il lontano monumento sul prato.
+
+Olive Ashley era per certi versi una persona singolare; descritta dai suoi amici, nei loro vari gerghi, come una ragazza strampalata, un tipo bizzarro e un originale; e in nulla più bizzarra, a ben pensarci, che in quel semplice atto con cui la sua storia comincia: il fatto che ella andasse ancora «miniando» quando tutti sentivano che la recita era la cosa che contava. Se ne stava china, quasi accovacciata, si potrebbe dire, sul suo minuscolo passatempo medievale, nel cuore stesso, o centro vuoto, del turbine delle assurde recite. Pareva qualcuno che cogliesse margherite a Epsom Downs volgendo le spalle al Derby. Eppure era stata lei l'autrice della commedia e la prima entusiasta della materia.
+
+«E poi», come osservò Rosamund Severne con un ampio gesto quasi di [[Despair|disperazione]], «quando Olive ebbe ottenuto ciò che voleva, parve non volerlo più. Le si diede la sua vecchia commedia medievale, e allora fu lei a stancarsene! Tornò a trastullarsi con quelle sue misere vernicine dorate, e lasciò a noi il resto del lavoro».

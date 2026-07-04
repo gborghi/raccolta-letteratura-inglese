@@ -2,7 +2,7 @@
 title: THE RASH CONJURER
 author: Coleridge
 type: work
-cluster: Temptation · Good vs Evil · Serpent / Snake
+cluster: Temptation · Good vs Evil · Serpent Snake
 source: Authors/Coleridge/_raw/228_THE_RASH_CONJURER.md
 tags:
   - graph/work

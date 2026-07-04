@@ -2,7 +2,7 @@
 title: The Decay of Lying
 author: Wilde
 type: work
-cluster: Artist and Society · Truth · Regency/Georgian England
+cluster: Artist and Society · Truth · Regency Georgian England
 source: Authors/Wilde/_raw/024_The_Decay_of_Lying.md
 tags:
   - graph/work

@@ -2,7 +2,7 @@
 title: The Coliseum
 author: Poe
 type: work
-cluster: Ruins / the Abbey · Sic Transit Gloria Mundi · Ubi Sunt
+cluster: Ruins the Abbey · Sic Transit Gloria Mundi · Ubi Sunt
 source: Authors/Poe/_raw/The Coliseum.md
 tags:
   - graph/work

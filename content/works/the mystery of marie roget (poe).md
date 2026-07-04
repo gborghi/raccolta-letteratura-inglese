@@ -2,7 +2,7 @@
 title: The Mystery of Marie Roget
 author: Poe
 type: work
-cluster: Short Story · Concealment / Hidden Identity · Justice / Right and Wrong
+cluster: Short Story · Concealment Hidden Identity · Justice Right and Wrong
 source: Authors/Poe/_raw/The Mystery of Marie Roget.md
 tags:
   - graph/work

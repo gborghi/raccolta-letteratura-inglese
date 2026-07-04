@@ -2,7 +2,7 @@
 title: 'G, H, I'
 author: Eliot
 type: work
-cluster: Letters and Writing · Immortality Through Verse · Immortality of Art / Fame
+cluster: Letters and Writing · Immortality Through Verse · Immortality of Art Fame
 source: Authors/Eliot/_raw/118_G_H_I.md
 tags:
   - graph/work

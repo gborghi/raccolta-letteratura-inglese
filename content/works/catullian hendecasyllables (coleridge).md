@@ -2,7 +2,7 @@
 title: CATULLIAN HENDECASYLLABLES
 author: Coleridge
 type: work
-cluster: Greek Mythology · Lust / Sexual Desire · Desire
+cluster: Greek Mythology · Lust Sexual Desire · Desire
 source: Authors/Coleridge/_raw/163_CATULLIAN_HENDECASYLLABLES.md
 tags:
   - graph/work

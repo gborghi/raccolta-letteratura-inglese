@@ -2,7 +2,7 @@
 title: Never Bet the Devil your Head
 author: Poe
 type: work
-cluster: Temptation · Good vs Evil · Serpent / Snake
+cluster: Temptation · Good vs Evil · Serpent Snake
 source: Authors/Poe/_raw/Never Bet the Devil your Head.md
 tags:
   - graph/work

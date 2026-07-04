@@ -2,7 +2,7 @@
 title: A Carol Closing Sixty-Nine
 author: Whitman
 type: work
-cluster: Nationalism and Patriotism · Democracy · Liberty / Political Freedom
+cluster: Nationalism and Patriotism · Democracy · Liberty Political Freedom
 source: Authors/Whitman/_raw/298_A_Carol_Closing_Sixty_Nine.md
 tags:
   - graph/work

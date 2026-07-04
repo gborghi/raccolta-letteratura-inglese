@@ -2,7 +2,7 @@
 title: Fast Anchor’d Eternal O Love!
 author: Whitman
 type: work
-cluster: Comradeship · Union · Hands / Hand in Hand
+cluster: Comradeship · Union · Hands Hand in Hand
 source: Authors/Whitman/_raw/077_Fast_Anchor_d_Eternal_O_Love.md
 tags:
   - graph/work

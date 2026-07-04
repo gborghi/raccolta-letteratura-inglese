@@ -2,7 +2,7 @@
 title: The Lost Tools of Learning
 author: Sayers
 type: work
-cluster: Classical Education · The Trivium · Critique Of Progress
+cluster: Essay · Critique of Progress · Common Man
 source: Authors/Sayers/_raw/The_Lost_Tools_of_Learning.md
 tags:
   - graph/work
@@ -37,7 +37,7 @@ tags:
 <div class="qlang-switch" data-default="en"></div>
 
 
-*by Sayers*  ·  **Cluster:** [[Classical Education · The Trivium · Critique Of Progress]]
+*by Sayers*  ·  **Cluster:** [[Essay · Critique of Progress · Common Man]]
 
 > [!abstract] 
 > In this 1947 Oxford lecture Sayers contends that modern schooling teaches a multitude of "subjects" but fails to teach children how to think, leaving them defenceless against propaganda, advertising and sloppy argument. Her remedy is to revive the medieval Trivium—Grammar, Dialectic and Rhetoric—as the true tools of learning, matching each to a natural stage of the child's development (the Poll-parrot, the Pert and the Poetic ages). The sole end of education, she insists, is to teach people how to learn for themselves, so that any subject becomes an open door.

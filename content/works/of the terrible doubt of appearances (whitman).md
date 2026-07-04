@@ -2,7 +2,7 @@
 title: Of the Terrible Doubt of Appearances
 author: Whitman
 type: work
-cluster: Comradeship · Union · Hands / Hand in Hand
+cluster: Comradeship · Union · Hands Hand in Hand
 source: Authors/Whitman/_raw/049_Of_the_Terrible_Doubt_of_Appearances.md
 tags:
   - graph/work

@@ -2,7 +2,7 @@
 title: To St. Michael in Time of Peace
 author: Chesterton
 type: work
-cluster: Temptation · Good vs Evil · Serpent / Snake
+cluster: Temptation · Good vs Evil · Serpent Snake
 source: Authors/Chesterton/_raw/to_st_michael.md
 tags:
   - graph/work

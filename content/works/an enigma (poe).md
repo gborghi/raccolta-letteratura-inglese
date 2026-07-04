@@ -2,7 +2,7 @@
 title: An Enigma
 author: Poe
 type: work
-cluster: Letters and Writing · Immortality Through Verse · Immortality of Art / Fame
+cluster: Letters and Writing · Immortality Through Verse · Immortality of Art Fame
 source: Authors/Poe/_raw/An Enigma.md
 tags:
   - graph/work

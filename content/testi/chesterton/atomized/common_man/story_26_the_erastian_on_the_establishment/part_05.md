@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/common-man-(chesterton)">Common Man</a> › <a href="/testi/chesterton/atomized/common_man/story_26_the_erastian_on_the_establishment">Story 26 The Erastian On The Establishment</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/common_man/story_26_the_erastian_on_the_establishment/part_04">‹ part 04</a><a class="ex-next" href="/testi/chesterton/atomized/common_man/story_26_the_erastian_on_the_establishment/part_06">part 06 ›</a></div>
@@ -152,3 +154,151 @@ after all, something essentially different from The Mad Hatter.
 There are hollow undertones in his queer questions, about green grass
 for graves, which do really re-echo from things deep and secret
 as the [[Grave|grave]].
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/common-man-(chesterton)">Common Man</a> › <a href="/testi/chesterton/atomized/common_man/story_26_the_erastian_on_the_establishment">Story 26 The Erastian On The Establishment</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/common_man/story_26_the_erastian_on_the_establishment/part_04">‹ part 04</a><a class="ex-next" href="/testi/chesterton/atomized/common_man/story_26_the_erastian_on_the_establishment/part_06">part 06 ›</a></div>
+</nav>
+
+Insieme a coloro che accettano la cosa come un'etichetta, o [[Hope|sperano]]
+fallacemente di poterla accettare come una moda, ve ne sono alcuni
+che la accettano in un modo più nobile ma assai negativo; proprio per le
+ragioni che ho addotto in questo articolo. Voglio dire che essi la accettano
+disperatamente, come l'unica via d'uscita da un'impasse intellettuale.
+Non è troppo dire che il signor Middleton Murry accetta
+i Soviet con i gesti di un grande pagano che accetta il [[suicide|suicidio]].
+Egli pare esultare al pensiero che sia la fine di tutto,
+o almeno la fine di quasi tutto ciò che gli piace. Questo è ancora
+un altro esempio della psicologia che ho tentato di descrivere;
+la psicologia di uomini giunti alla fine. Non voglio confondere
+questa netta impressione con lo stanco chiacchiericcio giornalistico sul pessimismo.
+La gente chiamerà il signor Aldous Huxley un pessimista; nel senso di uno
+che vede tutto nel peggiore dei modi. Per me egli è quel carattere assai più cupo;
+l'uomo che fa buon viso a cattivo gioco. Egli dà il miglior consiglio che può;
+in condizioni di convergente impossibilità. Non scrivo
+qui in spirito ostile su alcuno di questi recenti scrittori realistici
+o rivoluzionari; al contrario, sinceramente simpatizzo
+con loro, perché, diversamente dai rivoluzionari precedenti, sanno di essere
+in un vicolo cieco intellettuale. Senza dubbio vi sono migliaia di gai
+e baldanzosi innovatori, che non sono abbastanza intelligenti da saperlo.
+Ma il medesimo schema di sconfitta è disteso sull'intera situazione.
+Lo si può vedere, per esempio, nelle migliaia di sconsiderati romanzi «sessuali»,
+i cui autori sono evidentemente inconsapevoli di essere
+caduti in una contraddizione logica riguardo all'intera posizione del sesso.
+Essi ereditano la nozione che il sesso sia un serio crocevia e una crisi;
+poiché in verità questo è necessario alla stessa [[Nature|natura]] di un [[Novel|romanzo]].
+In ciò essi vivono sull'ultimo lascito del Romanticismo;
+il quale, a sua volta, viveva sull'ultimo lascito della religione.
+Ma la loro nuova e semplice [[philosophy|filosofia]] insegna loro che il sesso è
+soltanto quel genere di necessità che è anche una banalità; che il sesso
+non è più cruciale del fumare. Cosicché il romanziere moderno,
+lacerato fra due idee, deve tentare di scrivere una storia su un uomo
+che fuma venti sigarette e cerca di credere che ciascuna di esse
+sia una crisi. In tutte queste cose vi è un groviglio intellettuale;
+quel genere di groviglio che alla fine si stringe e strozza.
+Di questo tipo di filosofo è esattamente e letteralmente vero
+dire che, se gli dai corda a sufficienza, si impiccherà.
+È consolante riflettere che il [[suicide|suicidio]] occupa un [[Sublime|sublime]] posto
+nella sua [[philosophy|filosofia]].
+
+WALTER DE LA MARE — Non sempre si è compreso a sufficienza
+che un critico di poesia dovrebbe essere un critico poetico.
+La [[history|storia]] letteraria è disseminata dei disastri di buoni critici
+diventati cattivi critici, semplicemente per essersi scontrati con buoni poeti.
+Ma uno dei primi fatti che un buon critico poetico realizzerà
+è quello che il poeta di necessità realizza: la limitatezza del linguaggio,
+e specialmente la [[Poverty|povertà]] e la goffaggine del linguaggio della lode.
+Non c'è quasi lode di poeti che non suoni
+come se fossero tutti la stessa specie di poeti, e questo è vero
+perfino quando la lode intende dire precisamente l'opposto.
+Così l'abitudine di chiamare qualcuno «unico» è diventata universale,
+e possiamo insistere che un uomo è originale, e tuttavia lasciare l'impressione
+che l'originalità sia rara quanto il [[Original Sin|peccato originale]].
+
+Ma questa difficoltà si applica in modo speciale al signor Walter de la
+Mare e alla sua poesia, perché i termini poetici comuni di lode per
+quella poesia sono applicati anche a un genere di poesia del tutto diverso.
+Egli sta assai vicino, per [[Time|tempo]], luogo e apparenza,
+a un gruppo di scrittori, la maggior parte dei quali buoni scrittori e alcuni
+grandi scrittori, dai quali egli è in realtà del tutto libero e distinto.
+Solo che gli epiteti applicati a lui sono applicati anche a loro.
+Quando diciamo che è un poeta sognante e fantastico, un interprete
+del regno degli elfi, un cantore di strane rime che hanno un incantesimo
+e un fascino selvaggio per i fanciulli, e via dicendo, siamo costretti a usare
+un certo numero di termini che sono ormai divenuti un po' triti, forse,
+applicati ad altre persone di talento del tutto diverse.
+Le fonti, le fondamenta, i principi primi dell'
+[[Imagination|immaginazione]] e la visione della vita sono in realtà del tutto diversi
+in un uomo come il signor de la Mare da ciò che sono, diciamo,
+in un uomo come Sir James Barrie o un uomo come il signor A. A. Milne.
+Questo, non ho quasi bisogno di dirlo, non ha nulla a che vedere con lo svalutare
+questi autori, ma soltanto con l'apprezzare ciascun autore per ciò che è.
+Eppure vi è una sorta di groviglio di tradizione, e un riconosciuto
+traffico su certi soggetti, che potrebbe [[Well|bene]] confondere un lettore
+moderno riguardo a tutto questo genere di letteratura di fantasia. Per esempio;
+potremmo cominciare col dire che la tradizione di Treasure Island
+e dei suoi pirati fu continuata in Peter Pan e nei suoi pirati.
+Potremmo dire che i fanciulli elfici di Peter Pan furono
+continuati nei fanciulli elfici di When We Were Very Young.
+E poi potremmo immaginare vagamente che tutto questo genere di cose,
+la bottiglia di rum e la cena del coccodrillo e la colazione del [[King|re]],
+fossero tutte in qualche modo pigiate o rimescolate insieme in un guazzabuglio chiamato
+Peacock Pie. Ma questo significa mancare del tutto il punto riguardo al poeta,
+e specialmente là dove egli è qualcosa di più di un poeta. Sarebbe facile
+collegarlo alla tradizione di Treasure Island; poiché egli ha
+scritto egli stesso una fantasia assai affascinante sulle Isole [[Desert|Deserte]].
+Ma l'associazione sarebbe un errore, poiché egli non si è realmente accumulato
+un tesoro nello stesso genere di isole del tesoro.
+Vi è davvero una sorta di dinastia, una dinastia scozzese, di Stevenson
+e Barrie. Ma essa discese, sul versante infantile, a scozzesi come
+Kenneth Graham e, sul versante virile, o almeno fanciullesco, a scozzesi
+come John Buchan. Non ha nulla a che vedere con Walter de la Mare;
+perché la sua [[philosophy|filosofia]] è diversa. Un modo di dirlo sarebbe
+dire che, per quanto poetiche siano le fiabe degli scozzesi,
+esse sono le fiabe degli Scettici. Le fiabe
+di de la Mare non sono quelle dello Scettico ma del Mistico.
+Prendete l'idea primaria con cui davvero cominciò tutta la migliore opera per l'infanzia
+immaginativa, quale fornita da Stevenson e Barrie.
+Essa cominciò con un'idea che si chiama «far finta». Vale a dire,
+in senso stretto, è scritta da uomini che non credono;
+e perfino scritta per fanciulli che non credono;
+fanciulli che, del tutto logicamente e legittimamente, fanno finta.
+Ma il mondo di de la Mare non è meramente un mondo di illusione;
+è, in tutt'altro senso, un mondo di [[Imagination|immaginazione]]. È un mondo reale
+la cui realtà può esserci rappresentata soltanto per immagini.
+De la Mare non crede, in senso materiale, che vi sia
+un orco che striscia attorno alle case ed è respinto dall'influsso
+del Santo [[Child|Bambino]]; non più di quanto Barrie creda che vi sia
+un immortale ragazzino che gioca fisicamente nei Kensington Gardens.
+Ma de la Mare crede davvero che vi sia un divorante
+male che è sempre in guerra con l'[[innocence|innocenza]] e la felicità;
+e Barrie non crede che l'[[innocence|innocenza]] e la felicità continuino
+ad avere un'ininterrotta legittima occupazione dei Kensington Gardens.
+Le storie della scuola di Peter Pan sono radiosi e ristoratori [[Dreams|sogni]];
+ma sono [[Dreams|sogni]]. Sono i [[Dreams|sogni]] di qualcuno che prende
+rifugio dalla vita reale in una [[Inner Life|vita interiore]] dell'[[Imagination|immaginazione]];
+ma non necessariamente di qualcuno che crede che vi sia anche
+una più vasta vita universale corrispondente a quell'[[Imagination|immaginazione]].
+Il primo è un favolista, ma il secondo è un simbolista; come se
+paragonassimo gli [[Animals|animali]] parlanti di La Fontaine con i tipici
+[[Animals|animali]] di Blake. Blake (benché certamente pazzo in modo tranquillo)
+probabilmente non credeva che leoni e tigri d'oro camminassero
+sulle colline di Albione; e La Fontaine non credeva
+che leoni loquaci intrattenessero chiacchierate conversazioni con le volpi.
+Ma Blake credeva davvero che certe tremende verità, mostrabili soltanto
+sotto le forme di leoni d'oro, fossero realmente vere; e, ciò che è
+più importante di tutto, non fossero soltanto dentro di lui, ma oltre di lui.
+Così la conversazione dei buffi porcellini e orsetti del signor Milne è
+deliziosa quanto La Fontaine, e ingannevole soltanto nello stesso senso di
+La Fontaine. Vale a dire, non è falsa perché è finzione;
+o, come si diceva, favolosa. Ma le rime del Principe Pazzo,
+benché sarebbero dette fantastiche, non sono meramente favolose.
+Il Principe Pazzo, come il Poeta Pazzo, nella persona del povero Blake, è,
+dopo tutto, qualcosa di essenzialmente diverso dal Cappellaio Matto.
+Vi sono cavi sottotoni nelle sue bizzarre domande, sull'erba verde
+per le tombe, che davvero riecheggiano da cose profonde e segrete
+come la [[Grave|tomba]].

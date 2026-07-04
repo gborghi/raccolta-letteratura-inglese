@@ -2,7 +2,7 @@
 title: To Him That Was Crucified
 author: Whitman
 type: work
-cluster: Martyrdom · Martyr / Saint · Cross
+cluster: Martyrdom · Martyr Saint · Cross
 source: Authors/Whitman/_raw/205_To_Him_That_Was_Crucified.md
 tags:
   - graph/work

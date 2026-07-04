@@ -2,7 +2,7 @@
 title: From Paumanok Starting I Fly Like a Bird
 author: Whitman
 type: work
-cluster: Joy · Animals · Comic Verse / Song
+cluster: Joy · Animals · Comic Verse Song
 source: Authors/Whitman/_raw/145_From_Paumanok_Starting_I_Fly_Like_a_Bird.md
 tags:
   - graph/work

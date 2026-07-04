@@ -2,7 +2,7 @@
 title: 'LINES TO A COMIC AUTHOR, ON AN ABUSIVE REVIEW'
 author: Coleridge
 type: work
-cluster: Artist and Society · Truth · Regency/Georgian England
+cluster: Artist and Society · Truth · Regency Georgian England
 source: Authors/Coleridge/_raw/283_LINES_TO_A_COMIC_AUTHOR_ON_AN_ABUSIVE_REVIEW.md
 tags:
   - graph/work

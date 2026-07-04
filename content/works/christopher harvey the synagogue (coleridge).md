@@ -2,7 +2,7 @@
 title: CHRISTOPHER HARVEY THE SYNAGOGUE
 author: Coleridge
 type: work
-cluster: Grace and Redemption · Humility · Bread and Wine / Eucharist
+cluster: Grace and Redemption · Humility · Bread and Wine Eucharist
 source: Authors/Coleridge/_raw/429_CHRISTOPHER_HARVEY_THE_SYNAGOGUE.md
 tags:
   - graph/work

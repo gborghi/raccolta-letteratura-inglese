@@ -2,7 +2,7 @@
 title: Orange Buds by Mail from Florida
 author: Whitman
 type: work
-cluster: Nationalism and Patriotism · Democracy · Liberty / Political Freedom
+cluster: Nationalism and Patriotism · Democracy · Liberty Political Freedom
 source: Authors/Whitman/_raw/340_Orange_Buds_by_Mail_from_Florida.md
 tags:
   - graph/work

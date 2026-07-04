@@ -2,7 +2,7 @@
 title: O! Were I one of the Olympian twelve
 author: Keats
 type: work
-cluster: Unrequited / Frustrated Love · Unattainable Beloved · Petrarchan Sonnet
+cluster: Unrequited Frustrated Love · Unattainable Beloved · Petrarchan Sonnet
 source: Authors/Keats/_raw/084_O_Were_I_one_of_the_Olympian_twelve.md
 tags:
   - graph/work

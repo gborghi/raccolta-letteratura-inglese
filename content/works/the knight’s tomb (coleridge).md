@@ -2,7 +2,7 @@
 title: THE KNIGHT’S TOMB
 author: Coleridge
 type: work
-cluster: Ruins / the Abbey · Sic Transit Gloria Mundi · Ubi Sunt
+cluster: Ruins the Abbey · Sic Transit Gloria Mundi · Ubi Sunt
 source: Authors/Coleridge/_raw/259_THE_KNIGHTS_TOMB.md
 tags:
   - graph/work

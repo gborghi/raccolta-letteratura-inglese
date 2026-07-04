@@ -2,7 +2,7 @@
 title: Daisy’s Song
 author: Keats
 type: work
-cluster: Joy · Animals · Comic Verse / Song
+cluster: Joy · Animals · Comic Verse Song
 source: Authors/Keats/_raw/085_Daisys_Song.md
 tags:
   - graph/work

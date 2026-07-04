@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/don-quixote-(chesterton)">Don Quixote</a> › <a href="/testi/chesterton/atomized/don_quixote/chapter_05">Chapter 05</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/don_quixote/chapter_05/part_02">‹ part 02</a><a class="ex-next" href="/testi/chesterton/atomized/don_quixote/chapter_05/part_04">part 04 ›</a></div>
@@ -149,3 +151,148 @@ felt any shame in looking on the faces of her fellows.
 
 "Don't you think," she said at last, "we are just quarrelling
 about a word?"
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/don-quixote-(chesterton)">Don Quixote</a> › <a href="/testi/chesterton/atomized/don_quixote/chapter_05">Chapter 05</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/don_quixote/chapter_05/part_02">‹ part 02</a><a class="ex-next" href="/testi/chesterton/atomized/don_quixote/chapter_05/part_04">part 04 ›</a></div>
+</nav>
+
+Braintree acconsentì cortesemente, non avendo alcuna cognizione particolare
+di quadri e nessuna cognizione affatto di Pigmenti. Questa ignoranza,
+o indifferenza, completò il quadro fondato sulla rozza cravatta.
+L'esperto, ora pienamente cosciente di parlare a
+un perfetto [[Outsider|estraneo]], si espanse con raggiante condiscendenza.
+Tenne una sorta di conferenza.
+
+«Ruskin è molto solido su quel punto», disse il signor Almeric Wister.
+«Sareste del tutto al sicuro a leggere Ruskin, non foss'altro come una specie
+di introduzione all'argomento. Con l'eccezione di Pater,
+naturalmente, non c'è stato critico che, dopo di lui, avesse quell'atmosfera
+di autorità. La [[democracy|Democrazia]], naturalmente, non è favorevole all'autorità.
+E [[Fear|temo]] assai, signor Braintree, che la [[democracy|democrazia]] non sia
+favorevole all'arte.»
+
+«[[Well|Ebbene]], se mai avremo un po' di [[democracy|democrazia]], suppongo che lo
+scopriremo», disse Braintree.
+
+«[[Fear|Temo]]», disse Wister, scuotendo il capo, «che ne abbiamo già
+abbastanza da indurci a trascurare ogni autorità artistica.»
+
+In quel momento, Rosamund dai capelli rossi e dal volto quadrato e assennato
+si avvicinò, guidando attraverso la folla un giovanotto robusto, che aveva anch'egli
+un volto assennato; ma la somiglianza finiva lì, poiché egli era tozzo
+e persino ordinario, con capelli corti e ispidi e un paio di baffetti a spazzolino.
+Ma aveva gli occhi limpidi di un uomo di [[Courage|coraggio]] e i suoi modi erano
+molto piacevoli e schietti. Era uno squire dei dintorni,
+di nome Hanbury, con una certa fama di viaggiatore ai tropici.
+Dopo averlo presentato e scambiato qualche parola con il gruppo,
+ella disse a Wister: «Temo di avervi interrotto»; il che era
+in effetti il caso.
+
+«Stavo dicendo», disse Wister, con leggerezza, ma anche con una certa altezzosità,
+«che [[Fear|temo]] che siamo scesi alla [[democracy|democrazia]] e a un'epoca di piccoli uomini.
+I grandi Vittoriani non ci sono più.»
+
+«Sì, naturalmente», rispose la ragazza, un po' meccanicamente.
+
+«Non ci sono più giganti», riprese egli.
+
+«Doveva essere una lagnanza piuttosto comune in Cornovaglia»,
+osservò Braintree, «quando Jack l'Ammazzagiganti aveva compiuto
+i suoi giri professionali.»
+
+«Quando avrete letto le opere dei giganti vittoriani»,
+disse Wister, con un certo disprezzo, «capirete forse
+cosa intendo per gigante.»
+
+«Non potete davvero voler dire, signor Braintree», protestò la signora,
+«che desiderate che i grandi uomini vengano uccisi.»
+
+«[[Well|Ebbene]], credo che ci sia qualcosa di vero in quest'idea», disse Braintree.
+«Tennyson meritava di essere ucciso per aver scritto la May-[[Queen|Queen]],
+e Browning meritava di essere ucciso per aver fatto rimare "promise"
+con "from mice", e Carlyle meritava di essere ucciso per essere Carlyle;
+ed Herbert Spencer meritava di essere ucciso per aver scritto "The Man
+versus the State"; e Dickens meritava di essere ucciso per non
+aver ucciso [[Little Nell]] abbastanza in fretta; e Ruskin meritava di essere ucciso
+per aver detto che l'Uomo non dovrebbe avere più [[Freedom|libertà]] del sole;
+e Gladstone meritava di essere ucciso per aver abbandonato Parnell;
+e Disraeli meritava di essere ucciso per aver parlato di un
+"padre che si ritrae", e Thackeray...»
+
+«[[Mercy|Misericordia]]!» interruppe la signora, ridendo, «dovete pur
+fermarvi da qualche parte. Quanto sembra che abbiate letto!»
+
+Wister parve, per una qualche ragione, molto seccato;
+quasi astioso. «Se volete il mio parere», disse, «è tutto frutto della plebaglia
+e del suo odio per la superiorità. Vuole sempre trascinare il merito verso il basso.
+Ecco perché i vostri infernali sindacati non vogliono che un buon operaio sia pagato
+meglio di uno cattivo.»
+
+«Ciò è stato difeso su basi economiche», disse Braintree,
+con moderazione. «Un'autorità ha fatto notare che i mestieri migliori
+sono già pagati in modo uguale.»
+
+«Karl Marx, suppongo», disse l'esperto, spazientito.
+
+«No, John Ruskin», replicò l'altro. «Uno dei vostri giganti vittoriani.»
+Poi aggiunse: «Ma il testo e il titolo del libro non erano di
+John Ruskin, bensì di Gesù [[Christ|Cristo]]; il quale non ebbe, ahimè, il privilegio
+di essere un vittoriano.»
+
+Il tozzo omino di nome Hanbury sentì forse che la conversazione
+stava diventando troppo religiosa per essere rispettabile; comunque, s'intromise
+in tono pacificatore, dicendo: «Venite dal bacino minerario, signor Braintree?»
+
+L'altro acconsentì, piuttosto cupamente.
+
+«Suppongo», disse il nuovo interlocutore di Braintree, «suppongo che ci sarà
+parecchia agitazione tra i minatori?»
+
+«Al contrario», replicò Braintree, «ci sarà parecchia
+quiete tra i minatori.»
+
+L'altro aggrottò la fronte per un momentaneo [[Doubt|dubbio]], e disse assai rapidamente:
+«Non vorrete dire che lo sciopero è revocato?»
+
+«Lo sciopero è quanto mai in atto», disse Braintree, torvo, «sicché
+non ci sarà più agitazione.»
+
+«E dunque, cosa _intendete_ dire?» esclamò la giovane signora molto pratica,
+di lì a poco destinata a diventare la Principessa dei Trovatori.
+
+«Intendo ciò che dico», replicò egli, seccamente. «Dico che ci sarà
+molta quiete tra i minatori. Voi parlate sempre
+come se scioperare significasse lanciare una bomba o far saltare in aria una [[house|casa]].
+Scioperare significa semplicemente riposare.»
+
+«Ma è un vero e proprio [[Paradox|paradosso]]!» esclamò la padrona di casa, con una sorta di giubilo,
+come se fosse un nuovo gioco di società e il suo ricevimento stesse ormai davvero
+per essere un [[success|successo]].
+
+«Avrei pensato che fosse un luogo comune, o altrimenti una semplice [[Truth|verità]]»,
+replicò Braintree. «Durante uno sciopero i lavoratori riposano;
+e per alcuni di loro è un'esperienza del tutto nuova e piacevole, ve lo garantisco.»
+
+«Non possiamo forse dire», disse Wister, con voce profonda, «che il vero
+riposo sta nella fatica?»
+
+«Potete dirlo», disse Braintree, seccamente. «È un paese libero... per voi, quantomeno.
+E già che ci siete, potete anche dire che la vera fatica
+sta nel riposo. E allora sarete del tutto entusiasti dell'idea
+di uno sciopero.»
+
+La padrona di casa lo stava osservando con un'espressione nuova,
+ferma e tuttavia lentamente mutevole; l'espressione con cui
+le persone dai processi mentali lenti ma sinceri riconoscono qualcosa
+di cui bisogna tener conto, e che forse va persino rispettato.
+Poiché sebbene, o forse proprio perché, era cresciuta soffocata
+dalla ricchezza e dal lusso, era del tutto [[Innocent|innocente]], e non aveva mai
+provato alcuna vergogna nel guardare i volti dei propri simili.
+
+«Non credete», disse infine, «che stiamo semplicemente litigando
+su una parola?»

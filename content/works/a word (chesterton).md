@@ -2,7 +2,7 @@
 title: A Word
 author: Chesterton
 type: work
-cluster: Martyrdom · Martyr / Saint · Cross
+cluster: Martyrdom · Martyr Saint · Cross
 source: Authors/Chesterton/_raw/a_word.md
 tags:
   - graph/work

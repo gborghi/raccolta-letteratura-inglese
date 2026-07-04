@@ -2,7 +2,7 @@
 title: 'Skimbleshanks: the Railway Cat'
 author: Eliot
 type: work
-cluster: Joy · Animals · Comic Verse / Song
+cluster: Joy · Animals · Comic Verse Song
 source: Authors/Eliot/_raw/092_Skimbleshanks_the_Railway_Cat.md
 tags:
   - graph/work

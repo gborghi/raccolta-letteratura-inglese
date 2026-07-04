@@ -2,7 +2,7 @@
 title: 'Long, Too Long America'
 author: Whitman
 type: work
-cluster: Nationalism and Patriotism · Democracy · Liberty / Political Freedom
+cluster: Nationalism and Patriotism · Democracy · Liberty Political Freedom
 source: Authors/Whitman/_raw/163_Long_Too_Long_America.md
 tags:
   - graph/work

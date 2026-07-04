@@ -2,7 +2,7 @@
 title: No Labor-Saving Machine
 author: Whitman
 type: work
-cluster: Comradeship · Union · Hands / Hand in Hand
+cluster: Comradeship · Union · Hands Hand in Hand
 source: Authors/Whitman/_raw/068_No_Labor_Saving_Machine.md
 tags:
   - graph/work

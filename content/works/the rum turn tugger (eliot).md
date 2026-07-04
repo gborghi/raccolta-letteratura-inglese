@@ -2,7 +2,7 @@
 title: The Rum Turn Tugger
 author: Eliot
 type: work
-cluster: Joy · Animals · Comic Verse / Song
+cluster: Joy · Animals · Comic Verse Song
 source: Authors/Eliot/_raw/083_The_Rum_Turn_Tugger.md
 tags:
   - graph/work

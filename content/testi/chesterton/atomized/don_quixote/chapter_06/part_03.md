@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/don-quixote-(chesterton)">Don Quixote</a> › <a href="/testi/chesterton/atomized/don_quixote/chapter_06">Chapter 06</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/don_quixote/chapter_06/part_02">‹ part 02</a><a class="ex-next" href="/testi/chesterton/atomized/don_quixote/chapter_07/part_01">part 01 ›</a></div>
@@ -130,5 +132,42 @@ But he had not done with practical jokes that day; for as he came back
 through the [[Garden|garden]] of Seawood he saw something which startled him;
 the ladder from the library leaning against a tool-shed. He stopped,
 and his good-humoured face grew almost grim.
+
+-^-
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/don-quixote-(chesterton)">Don Quixote</a> › <a href="/testi/chesterton/atomized/don_quixote/chapter_06">Chapter 06</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/don_quixote/chapter_06/part_02">‹ part 02</a><a class="ex-next" href="/testi/chesterton/atomized/don_quixote/chapter_07/part_01">part 01 ›</a></div>
+</nav>
+
+Per quanto il vorticoso baccano avesse un centro, pareva esserci qualcosa come un circolo sociale attorno a un ometto che stava proprio addossato al banco; e ciò non tanto perché fosse un parlatore quanto perché pareva essere un argomento. Tutti facevano battute su di lui, come se fosse il tempo che fa o il Ministero della Guerra o un qualsiasi tema riconosciuto per l'[[Artist|artista]] satirico. Molte erano dirette, nella forma «Ti sposi presto, George?» oppure «Che ne hai fatto di tutti i tuoi soldi, George?». Altre osservazioni erano in terza persona, come «Il vecchio George è andato in giro troppo con le ragazze», oppure «Scommetto che il vecchio George si è perso a [[London|Londra]]», e così via. Era notevole che questo concentrato [[Fire|fuoco]] di [[Satire|satira]] fosse del tutto gioviale e amichevole. Era ancor più notevole che il vecchio George in persona non paresse provare alcuna specie di fastidio né tanto meno di sorpresa per la propria posizione misteriosamente isolata di bersaglio umano. Era un uomo basso, tozzo, piuttosto assonnato, che se ne stava tutto il [[Time|tempo]] con gli occhi socchiusi e un sorriso beatifico, come se questa peculiare forma di popolarità fosse un piacere mai venuto meno. Si chiamava George Carter, ed era un piccolo [[grocer|erbivendolo]] di quelle parti. Perché egli, più di un altro, dovesse essere ritenuto in un qualsiasi dato momento essere in [[Love|amore]] o smarrito a [[London|Londra]], il visitatore non poté indovinarlo dai discorsi di due ore, e probabilmente non l'avrebbe mai scoperto se avesse ascoltato quei discorsi per dieci anni. L'uomo era semplicemente una calamita; aveva un qualche mistico potere di attrarre a sé tutte le canzonature che potessero svolazzare per la stanza. Si diceva che diventasse piuttosto imbronciato se per caso non le riceveva. Braintree non seppe cavare nulla dal mistero; ma vi ripensò talvolta molto tempo dopo, quando udiva la gente parlare, nei salotti socialisti, di brutali zoticoni e di masse selvagge che schernivano chiunque fosse difettoso o eccentrico. Si domandò se, forse, non fosse stato presente a una di quelle scene orribili e barbariche.
+
+Nel frattempo, Murrel continuava a battere a intervalli sul banco e a scambiare frizzi con una grossa giovane donna che a quanto pareva aveva cercato di far sembrare i propri capelli una parrucca. Poi si lasciò trascinare in un'interminabile disputa con l'uomo accanto a lui sul fatto se un certo [[Horse|cavallo]] potesse vincere per un certo numero di frazioni di lunghezze; la differenza essendo a quanto pareva di grado e non di principio fondamentale. Il [[debate|dibattito]] non avanzava molto rapidamente verso alcuna conclusione definitiva, poiché consisteva per lo più nella ripetizione delle premesse più e più volte con fermezza sempre crescente. Questi due disputanti erano cortesi [[Well|oltre]] che fermi; ma la loro conversazione era alquanto impacciata dalla condotta di un uomo immensamente alto e allampanato e malandato, dai baffi cadenti, che si sporgeva sopra di loro, parlando tutto il [[Time|tempo]], in un [[Well|ben]] intenzionato sforzo di sottoporre il punto in contesa al tetro Braintree.
+
+«Io un signore lo riconosco quando lo vedo», ripeteva l'uomo lungo a intervalli, «e glielo chiedo... glielo chiedo, come a un signore; io un signore lo riconosco quando lo...»
+
+«Io non sono un signore», disse il sindacalista, con una certa amarezza.
+
+L'uomo lungo cercò di sporgersi su di lui con vasti gesti paterni, come chi placa un [[Child|bambino]] piagnucoloso.
+
+«Ma no, non dica così, signore», disse il tipo paterno. «Non dica così... Io un vero gran signore lo riconosco quando lo vedo, e glielo domando...»
+
+Braintree si voltò con uno scatto e si scontrò con un grosso terrazziere coperto di [[Dust|polvere]] bianca, il quale si scusò con ammirevole amabilità e poi sputò sul pavimento cosparso di segatura.
+
+Quella [[Night|notte]] fu come un [[nightmare|incubo]]. A John Braintree parve tanto interminabile quanto priva di senso, e tuttavia follemente monotona. Poiché Murrel condusse il suo festoso conducente d'autobus in vacanza di bar in bar, senza in realtà bere granché, senza bere neppure la metà di quanto un duca o un dotto solitario berrebbe da una caraffa di porto, ma bevendola all'accompagnamento di infinite chiacchiere e frastuono e puzzo e incessante interminabile argomentazione; argomentazione che poteva davvero dirsi interminabile, nel senso letterale che non pareva neppure suscettibile di essere terminata. Quando il sesto locale [[house|pubblico]] risuonò di rimbombanti grida di «[[Time|Ora di chiusura]]», e le folle vennero spinte e sospinte fuori e le imposte furono chiuse, l'infaticabile Murrel diede inizio a un corrispondente giro di chioschi del caffè, col lodevole scopo di garantire la sobrietà. Qui mangiò spessi panini e bevve caffè color marroncino, sempre discutendo con i suoi simili sui pregi dei cavalli e sulle prospettive degli eventi sportivi. L'[[Dawn|alba]] spuntava sopra le colline e la frangia delle ciminiere delle fabbriche, quando John Braintree si volse a un tratto verso l'amico e parlò in un tono che ne impose l'attenzione.
+
+«Douglas», disse, «non c'è più bisogno che tu reciti la tua [[Allegory|allegoria]]. Ho sempre saputo che sei un tipo in gamba, e comincio ad avere una qualche idea di come la tua specie sia riuscita a governare un'intera nazione così a lungo; ma nemmeno io sono del tutto uno [[Fool|sciocco]]. So che cosa vuoi dire. Non l'hai detto con la tua stessa lingua, ma l'hai detto con diecimila altre lingue sta[[Night|notte]]. Hai detto: "Sì, John Braintree, con i pezzi grossi puoi andare d'accordo benissimo. È con la plebaglia che non ci sai fare. Hai passato un'ora nel salotto e hai raccontato loro tutto su Shakespeare e sugli armonici di bicchieri. Ora che hai passato una [[Night|notte]] nelle strade dei poveri, dimmi... chi di noi due conosce meglio il popolo?"»
+
+Murrel taceva. Dopo un momento l'altro proseguì.
+
+«È la miglior risposta che tu potessi dare, e non ti importunerò ora con controrisposte. Potrei dirti qualcosa sul perché noi rifuggiamo da queste cose più di voi; su come voi possiate scherzarci e noi abbiamo invece dovuto combatterle. Ma preferisco per ora mostrarti che ho capito e che non serbo rancore».
+
+«Lo so che non ne serbi», rispose Murrel. «Il nostro amico al pub non ha scelto i termini con molto tatto; ma c'era qualcosa di vero in quel che diceva sul fatto che tu sei un signore. [[Well|Ebbene]], questo è, speriamo [[Hope|bene]], l'ultimo dei miei scherzi pratici».
+
+Ma non aveva ancora finito con gli scherzi pratici quel giorno; poiché mentre tornava attraverso il [[Garden|giardino]] di Seawood vide qualcosa che lo fece trasalire: la scala della biblioteca appoggiata contro un capanno degli attrezzi. Si fermò, e il suo viso bonario si fece quasi arcigno.
 
 -^-

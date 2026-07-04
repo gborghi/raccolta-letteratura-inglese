@@ -2,7 +2,7 @@
 title: I Hear It Was Charged Against Me
 author: Whitman
 type: work
-cluster: Comradeship · Union · Hands / Hand in Hand
+cluster: Comradeship · Union · Hands Hand in Hand
 source: Authors/Whitman/_raw/062_I_Hear_It_Was_Charged_Against_Me.md
 tags:
   - graph/work

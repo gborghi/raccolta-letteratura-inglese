@@ -2,7 +2,7 @@
 title: REPLY TO THE ABOVE
 author: Coleridge
 type: work
-cluster: Grace and Redemption · Humility · Bread and Wine / Eucharist
+cluster: Grace and Redemption · Humility · Bread and Wine Eucharist
 source: Authors/Coleridge/_raw/211_REPLY_TO_THE_ABOVE.md
 tags:
   - graph/work

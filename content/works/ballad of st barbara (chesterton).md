@@ -2,7 +2,7 @@
 title: Ballad of St Barbara
 author: Chesterton
 type: work
-cluster: Martyrdom · Martyr / Saint · Cross
+cluster: Martyrdom · Martyr Saint · Cross
 source: Authors/Chesterton/_raw/Ballad_of_St_Barbara.md
 tags:
   - graph/work

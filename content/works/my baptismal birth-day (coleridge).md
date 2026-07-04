@@ -2,7 +2,7 @@
 title: MY BAPTISMAL BIRTH-DAY
 author: Coleridge
 type: work
-cluster: Grace and Redemption · Humility · Bread and Wine / Eucharist
+cluster: Grace and Redemption · Humility · Bread and Wine Eucharist
 source: Authors/Coleridge/_raw/303_MY_BAPTISMAL_BIRTH-DAY.md
 tags:
   - graph/work

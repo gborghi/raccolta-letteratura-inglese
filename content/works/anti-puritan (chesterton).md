@@ -2,7 +2,7 @@
 title: A Ballade Of An Anti-puritan
 author: Chesterton
 type: work
-cluster: Wine and Drink · Ballad / Ballade · Road
+cluster: Wine and Drink · Ballad Ballade · Road
 source: Authors/Chesterton/_raw/anti-puritan.md
 tags:
   - graph/work

@@ -2,7 +2,7 @@
 title: Come to Think of It
 author: Chesterton
 type: work
-cluster: Artist and Society · Truth · Regency/Georgian England
+cluster: Artist and Society · Truth · Regency Georgian England
 source: Authors/Chesterton/_raw/GKC_Come_to_Think.md
 tags:
   - graph/work

@@ -2,7 +2,7 @@
 title: Two or Three
 author: Keats
 type: work
-cluster: Joy · Animals · Comic Verse / Song
+cluster: Joy · Animals · Comic Verse Song
 source: Authors/Keats/_raw/124_Two_or_Three.md
 tags:
   - graph/work

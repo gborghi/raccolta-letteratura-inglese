@@ -2,7 +2,7 @@
 title: THE SNOW-DROP
 author: Coleridge
 type: work
-cluster: Letters and Writing · Immortality Through Verse · Immortality of Art / Fame
+cluster: Letters and Writing · Immortality Through Verse · Immortality of Art Fame
 source: Authors/Coleridge/_raw/198_THE_SNOW-DROP.md
 tags:
   - graph/work

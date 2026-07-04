@@ -2,7 +2,7 @@
 title: To the East and to the West
 author: Whitman
 type: work
-cluster: Comradeship · Union · Hands / Hand in Hand
+cluster: Comradeship · Union · Hands Hand in Hand
 source: Authors/Whitman/_raw/074_To_the_East_and_to_the_West.md
 tags:
   - graph/work

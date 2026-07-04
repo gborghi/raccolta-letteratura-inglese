@@ -2,7 +2,7 @@
 title: Cat Morgan Introduces Himself
 author: Eliot
 type: work
-cluster: Joy · Animals · Comic Verse / Song
+cluster: Joy · Animals · Comic Verse Song
 source: Authors/Eliot/_raw/094_Cat_Morgan_Introduces_Himself.md
 tags:
   - graph/work

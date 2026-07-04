@@ -2,7 +2,7 @@
 title: SCHILLER
 author: Coleridge
 type: work
-cluster: Joy · Animals · Comic Verse / Song
+cluster: Joy · Animals · Comic Verse Song
 source: Authors/Coleridge/_raw/438_SCHILLER.md
 tags:
   - graph/work

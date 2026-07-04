@@ -2,7 +2,7 @@
 title: TO EARL STANHOPE
 author: Coleridge
 type: work
-cluster: Nationalism and Patriotism · Democracy · Liberty / Political Freedom
+cluster: Nationalism and Patriotism · Democracy · Liberty Political Freedom
 source: Authors/Coleridge/_raw/094_TO_EARL_STANHOPE.md
 tags:
   - graph/work

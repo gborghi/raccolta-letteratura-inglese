@@ -2,7 +2,7 @@
 title: Ms. Found in a Bottle
 author: Poe
 type: work
-cluster: Night Journey / Vision · Katabasis / Descent · Quest Hero
+cluster: Night Journey Vision · Katabasis Descent · Quest Hero
 source: Authors/Poe/_raw/Ms. Found in a Bottle.md
 tags:
   - graph/work

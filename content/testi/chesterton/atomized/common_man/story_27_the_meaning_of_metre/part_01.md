@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/common-man-(chesterton)">Common Man</a> › <a href="/testi/chesterton/atomized/common_man/story_27_the_meaning_of_metre">Story 27 The Meaning Of Metre</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/common_man/story_26_the_erastian_on_the_establishment/part_07">‹ part 07</a><a class="ex-next" href="/testi/chesterton/atomized/common_man/story_27_the_meaning_of_metre/part_02">part 02 ›</a></div>
@@ -128,3 +130,38 @@ of something at once distant and definite.  The spiritual thrill
 is all in the idea that the place is a place, however spiritual;
 that it is some strange spot where the sky touches the earth,
 or where [[Eternity|eternity]] contrives to live on the borderland of [[Time|time]] and space.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/common-man-(chesterton)">Common Man</a> › <a href="/testi/chesterton/atomized/common_man/story_27_the_meaning_of_metre">Story 27 The Meaning Of Metre</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/common_man/story_26_the_erastian_on_the_establishment/part_07">‹ part 07</a><a class="ex-next" href="/testi/chesterton/atomized/common_man/story_27_the_meaning_of_metre/part_02">part 02 ›</a></div>
+</nav>
+
+IL SENSO DEL METRO
+
+Bret Harte imitò forse Swinburne? Oppure (pensiero assai più piacevole) fu Swinburne a imitare Bret Harte? Lottò forse Swinburne, nello spirito, con quell'ammirevole poema intitolato «The Heathen Chinee», per poi levarsi dalla lettura ispirato e infiammato a comporre la grande [[Greek Tragedy|tragedia greca]] di «Atalanta in Calydon»? So bene che a certe menti accademiche e pedanti tutto ciò non parrà un esatto raffronto letterario; eppure esso tocca un piccolo punto che si potrebbe dire una curiosità della letteratura. A costoro suonerà come se io insinuassi che John Ruskin non fu che un plagiario di Josh Billings. Comunque sia, è una coincidenza piuttosto singolare che esista un particolare metro poetico, composto di una quartina e di un unico lungo verso finale, il quale non si ritrova in nessun altro luogo di tutta la letteratura, per quanto io sappia, se non nel più bello e più tragico [[Chorus|coro]] dell'Atalanta di Swinburne e nel poema del Heathen Chinee. Sarebbe possibile ricavare un effetto poetico assai gradevole intrecciando i versi dell'uno con i versi dell'altro, e produrre così un poema compiuto e continuo, tutto sulla medesima bella melodia, che combini (come solo i più grandi capolavori sanno fare) le qualità dell'umanista e dell'umorista; gli elementi del [[Grave|grave]] e del gaio. Non v'è qui spazio per intrecciare per intero le due narrazioni; ma un verso o due basteranno a mostrare che esse si muovono con la stessa melodia nel medesimo metro.
+
+  Oh, avessi io con piedi
+  senza sandali, scalzi,
+  troppo arditi, troppo veloci,
+  non nuotato né mai calcato
+  dall'Arcadia a Calidone verso settentrione una raffica dell'invidia
+  di Dio.
+
+  Le quali espressioni sono forti,
+  eppur fiaccamente lascerebbero intendere
+  qualche resoconto di un torto,
+  per non dirlo una menzogna,
+  che fu perpetrato ai danni di William mio socio, il quale medesimo
+  essendo W. Nye.
+
+Si potrà obiettare con malizia, da parte dei privi di orecchio, che l'[[Identity|identità]] non è che un accidente della disposizione sulla pagina; giacché il verso lungo potrebbe essere diviso, o i versi brevi collegati insieme. Ma ciò non è vero. Quell'ultimo lungo verso che [[rolling|rotola]] è davvero unico, come un'onda che spazza via tutto ciò che l'ha preceduto. E la morale è che il metro non è artificiale ma elementale; è liscio come il Niagara. Quel lungo verso impetuoso esprime davvero il culto del mare di Swinburne; quel lungo verso serpeggiante esprime davvero la distaccata lucidità di Truthful James. Da allora, gli scrittori hanno frantumato la scrittura in pezzi per renderla esplosiva. L'altro Truthful James — alludo a Henry James — cominciò l'impresa con una gragnuola di virgole; i poeti più moderni sono ben capaci di conservare le virgole e di tralasciare le parole. Altri vorrebbero produrre un'esplosione, o almeno un fracasso, con qualche verso del tipo: «Scoppia. Deflagra. Scoppia-Deflagra retro-deflagrato. Bang!». Ma in verità non è nemmeno così fragoroso come un verso quale: «Dove il tonante Bosforo risponde al tuono dei mari Pontici»; perché in qualche modo suggerisce, non un rumore naturale che non si può fermare, ma un rumore artificiale che effettivamente si ferma, non foss'altro che a colpi di punti fermi. Il metro è più naturale del [[Free Verse|verso libero]]; perché ha in sé più del movimento della [[Nature|natura]], e delle curve del [[Wind|vento]] e dell'onda.
+
+A PROPOSITO DI UNA STRANA [[City|CITTÀ]]
+
+Ognuno ha la propria privata e quasi segreta scelta fra gli esempi del misterioso potere delle parole, quel potere che una certa combinazione verbale esercita sulle emozioni e persino sull'[[Soul|anima]]. È cosa risaputa che la letteratura possiede talvolta un incanto, non nel senso dell'incanto di una donna soltanto, ma dell'incanto di una [[Witch|strega]]. Gli storici eruditi si domandano come l'ignorante [[Imagination|immaginazione]] dei Secoli Bui abbia deformato il poeta Virgilio in un mago; e una risposta alla domanda, forse, è che egli lo fosse davvero. Teologi e filosofi [[debate|dibattono]] intorno all'ispirazione delle Scritture; ma forse l'argomento più filosofico, a favore dell'ispirazione di certe sentenze scritturali, è semplicemente che esse suonano come tali. I grandi versi dei poeti sono simili a paesaggi o a visioni; ma la stessa strana luce si può trovare non soltanto negli alti luoghi della poesia, bensì anche negli angoli più oscuri della prosa. E, nel mio caso personale, non vi sono parole nella letteratura che producano più direttamente questo effetto indescrivibile di alcune che compaiono, quasi per caso, in un episodio del [[Romance|romanzo]] di [[arthur|Artù]] di Malory. Esse ricorrono in una delle visioni di Sir Galahad; o forse di Sir Percivale, ché il resto della scena è alquanto sbiadito dalla mia [[Memory|memoria]], salvo quella costellazione di parole che risplende in mezzo ad essa. Ma credo che san Giuseppe d'Arimatea mostri al cavaliere la visione di un oggetto velato; presumibilmente il Santo Graal. Ed egli aggiunge la frase: «Ma tu lo vedrai svelato nella [[City|città]] di Sarras, nel luogo spirituale».
+
+L'[[Soul|anima]] di tutto questo, s'intende, sfugge all'analisi; e nondimeno un tentativo di analisi presenta certi aspetti d'interesse. Non so esprimere ciò che intendo se non dicendo che è la parte finita dell'immagine a suggerire davvero l'infinito. Le persone più dabbene e serie, invece di dire il luogo spirituale, direbbero il mondo spirituale. Certe persone tetre e disgustose, invece di dire il luogo spirituale, direbbero il piano spirituale. E l'immediato gelo, il disincanto di questi mutamenti, è dovuto a un vago ma vivido sentimento che la cosa spirituale sia divenuta meno reale. Un mondo suona come un diagramma astronomico, e un piano suona come un diagramma geometrico; ed entrambi sono astrazioni. Ma un luogo non è un'astrazione, bensì un'attualità. E lo scrittore non solo dice espressamente che si tratta di un luogo, ma gli conferisce un nome definito come il nome di un luogo. Sarras non è un'astrazione; non è nemmeno un'[[Allegory|allegoria]]. Non è nemmeno come se egli avesse detto la [[City|Città]] del Cielo o la [[City|Città]] del Paradiso. Questi, benché non irreali, sono almeno universali. Ma il nome dato possiede [[Identity|identità]], che è qualcosa di assai più intenso dell'universalità. Sarras significa soltanto Sarras, come Sarum significa soltanto Sarum, o (se è per questo) come Surbiton significa soltanto Surbiton. Ma proprio il fatto che non ne avessimo mai udito parlare prima, e che non se ne faccia più menzione, che vi si accenni di sfuggita e senza spiegazione, conferisce una curiosa intensità all'accenno di qualcosa a un tempo lontano e definito. Il brivido spirituale sta tutto nell'idea che il luogo sia un luogo, per quanto spirituale; che sia qualche strana località dove il cielo tocca la terra, o dove l'[[Eternity|eternità]] riesce a vivere sulla soglia del [[Time|tempo]] e dello spazio.

@@ -2,7 +2,7 @@
 title: Turn O Libertad
 author: Whitman
 type: work
-cluster: Nationalism and Patriotism · Democracy · Liberty / Political Freedom
+cluster: Nationalism and Patriotism · Democracy · Liberty Political Freedom
 source: Authors/Whitman/_raw/183_Turn_O_Libertad.md
 tags:
   - graph/work

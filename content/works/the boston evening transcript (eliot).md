@@ -2,7 +2,7 @@
 title: The Boston Evening Transcript
 author: Eliot
 type: work
-cluster: New England / America · New England
+cluster: New England America · New England
 source: Authors/Eliot/_raw/007_The_Boston_Evening_Transcript.md
 tags:
   - graph/work

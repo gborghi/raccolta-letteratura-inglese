@@ -2,7 +2,7 @@
 title: Song of the Open Road
 author: Whitman
 type: work
-cluster: Wine and Drink · Ballad / Ballade · Road
+cluster: Wine and Drink · Ballad Ballade · Road
 source: Authors/Whitman/_raw/083_Song_of_the_Open_Road.md
 tags:
   - graph/work

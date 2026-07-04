@@ -2,7 +2,7 @@
 title: AN ODE IN THE MANNER OF ANACREON
 author: Coleridge
 type: work
-cluster: Greek Mythology · Lust / Sexual Desire · Desire
+cluster: Greek Mythology · Lust Sexual Desire · Desire
 source: Authors/Coleridge/_raw/034_AN_ODE_IN_THE_MANNER_OF_ANACREON.md
 tags:
   - graph/work

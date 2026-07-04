@@ -2,7 +2,7 @@
 title: The Logical Vegetarian
 author: Chesterton
 type: work
-cluster: Wine and Drink · Ballad / Ballade · Road
+cluster: Wine and Drink · Ballad Ballade · Road
 source: Authors/Chesterton/_raw/vegetarian.md
 tags:
   - graph/work

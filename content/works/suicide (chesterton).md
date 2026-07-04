@@ -2,7 +2,7 @@
 title: A Ballade of Suicide
 author: Chesterton
 type: work
-cluster: Joy · Animals · Comic Verse / Song
+cluster: Joy · Animals · Comic Verse Song
 source: Authors/Chesterton/_raw/suicide.md
 tags:
   - graph/work

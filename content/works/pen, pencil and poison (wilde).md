@@ -2,7 +2,7 @@
 title: 'Pen, Pencil and Poison'
 author: Wilde
 type: work
-cluster: Artist and Society · Truth · Regency/Georgian England
+cluster: Artist and Society · Truth · Regency Georgian England
 source: Authors/Wilde/_raw/025_Pen_Pencil_and_Poison.md
 tags:
   - graph/work

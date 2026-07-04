@@ -2,7 +2,7 @@
 title: City of Orgies
 author: Whitman
 type: work
-cluster: Greek Mythology · Lust / Sexual Desire · Desire
+cluster: Greek Mythology · Lust Sexual Desire · Desire
 source: Authors/Whitman/_raw/057_City_of_Orgies.md
 tags:
   - graph/work

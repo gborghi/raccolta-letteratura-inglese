@@ -2,7 +2,7 @@
 title: Thoughts
 author: Whitman
 type: work
-cluster: Nationalism and Patriotism · Democracy · Liberty / Political Freedom
+cluster: Nationalism and Patriotism · Democracy · Liberty Political Freedom
 source: Authors/Whitman/_raw/280_Thoughts.md
 tags:
   - graph/work

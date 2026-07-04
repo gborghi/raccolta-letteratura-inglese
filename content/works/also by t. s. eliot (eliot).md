@@ -2,7 +2,7 @@
 title: Also by T. S. Eliot
 author: Eliot
 type: work
-cluster: Artist and Society · Truth · Regency/Georgian England
+cluster: Artist and Society · Truth · Regency Georgian England
 source: Authors/Eliot/_raw/125_Also_by_T_S_Eliot.md
 tags:
   - graph/work

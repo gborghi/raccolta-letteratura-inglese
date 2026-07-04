@@ -2,7 +2,7 @@
 title: LINES ON THE MERMAID TAVERN
 author: Keats
 type: work
-cluster: Wine and Drink · Ballad / Ballade · Road
+cluster: Wine and Drink · Ballad Ballade · Road
 source: Authors/Keats/_raw/037_LINES_ON_THE_MERMAID_TAVERN.md
 tags:
   - graph/work

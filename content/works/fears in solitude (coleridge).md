@@ -2,7 +2,7 @@
 title: FEARS IN SOLITUDE
 author: Coleridge
 type: work
-cluster: Nationalism and Patriotism · Democracy · Liberty / Political Freedom
+cluster: Nationalism and Patriotism · Democracy · Liberty Political Freedom
 source: Authors/Coleridge/_raw/153_FEARS_IN_SOLITUDE.md
 tags:
   - graph/work

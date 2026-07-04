@@ -2,7 +2,7 @@
 title: Milton
 author: Chesterton
 type: work
-cluster: Temptation · Good vs Evil · Serpent / Snake
+cluster: Temptation · Good vs Evil · Serpent Snake
 source: Authors/Chesterton/_raw/Milton.md
 tags:
   - graph/work

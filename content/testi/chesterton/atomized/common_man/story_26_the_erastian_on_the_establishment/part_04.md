@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/common-man-(chesterton)">Common Man</a> › <a href="/testi/chesterton/atomized/common_man/story_26_the_erastian_on_the_establishment">Story 26 The Erastian On The Establishment</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/common_man/story_26_the_erastian_on_the_establishment/part_03">‹ part 03</a><a class="ex-next" href="/testi/chesterton/atomized/common_man/story_26_the_erastian_on_the_establishment/part_05">part 05 ›</a></div>
@@ -115,3 +117,114 @@ article or poem by a modern [[Rebel|rebel]]; Liberty is lost in both systems,
 old and new; and Equality only remains in the form of a dull
 attempt at uniformity, copied from that very mechanical capitalism
 which the rebels would reject.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/common-man-(chesterton)">Common Man</a> › <a href="/testi/chesterton/atomized/common_man/story_26_the_erastian_on_the_establishment">Story 26 The Erastian On The Establishment</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/common_man/story_26_the_erastian_on_the_establishment/part_03">‹ part 03</a><a class="ex-next" href="/testi/chesterton/atomized/common_man/story_26_the_erastian_on_the_establishment/part_05">part 05 ›</a></div>
+</nav>
+
+Il punto è che, da ogni punto di vista, antico o moderno,
+la sua soluzione non è una soluzione. Un uomo non può lasciare la testa a [[Home|casa]]
+e mandare il proprio [[Body|corpo]] a danzare per il mondo facendo ciò che gli pare;
+e non c'è ragione terrena per supporre che esso farà
+ciò che dovrebbe, da un punto di vista moderno o da qualsiasi altro.
+Per esempio, se gli venisse voglia di cibo, ruberà, e ruberà
+altrettanto prontamente dai Magazzini Comunisti quanto dalle case private.
+Questo non è l'inizio di una nuova vita; una splendida giungla che si apre
+davanti all'uomo come una sorta di Mowgli. È la fine di un argomento del tutto
+impossibile, che non può essere spinto oltre.
+Un uomo che sguazzasse nella terra con gli [[Animals|animali]] non sarebbe un animale.
+Sarebbe soltanto un pazzo; il che è l'esatto opposto di un animale.
+Non c'era via d'uscita dall'impasse intellettuale o anti-intellettuale
+in cui Lawrence si era cacciato; tranne la terza [[Road|via]]
+a cui egli non pensò mai... forse perché conduce a Roma.
+Se il mero razionalismo è insufficiente, dobbiamo elevarci al di sopra della ragione
+e non al di sotto di essa. L'appello diretto alla [[Nature|Natura]] è del tutto innaturale.
+Ammetto che fu debolmente concesso dai panteisti della prima
+fase rivoluzionaria; ora assai remota; e molti che
+passerebbero per pii lo accettarono. Il professor Babbitt ha messo
+in luce alcune delle pericolose concessioni in Wordsworth.
+Un altro scrittore, ancor più ortodosso, espresse l'errore di quel periodo.
+Egli disse che dobbiamo salire attraverso la [[Nature|Natura]] fino al Dio della [[Nature|Natura]].
+Sbagliava. Dobbiamo scendere da Dio giù fino alla [[Nature|Natura]] di Dio.
+La [[Nature|Natura]] è giusta soltanto quando la si vede alla luce del più alto diritto;
+sia esso, come direbbero alcuni umanisti, nella mente dell'Uomo,
+o, come direbbero i cristiani, nella mente di Dio. Ma essi credono davvero
+nel loro Dio; e Lawrence non credeva davvero nella sua Dea.
+Egli appassionatamente non credeva in nulla, tranne qualcosa
+in cui non poteva davvero credere.
+
+Il signor Aldous Huxley, che ho preso come l'altro talento eminente
+di quel [[Time|tempo]], vede questa impossibilità e la evita.
+Ma può evitarla soltanto riducendo il proprio criterio a
+qualcosa di così esile da poter appena reggersi. In uno dei suoi romanzi
+un personaggio riassume gran parte dell'insegnamento generale dell'autore,
+dicendo che l'Uomo non deve [[Hope|sperare]] di essere né un animale né un angelo.
+Aggiunge, significativamente, che è una faccenda da funambolo.
+Ora, camminare su una fune è insieme difficile e pericoloso;
+e l'autore rende la vita buona in realtà più difficile di quanto essa sia
+per un [[ascetic|asceta]]. Egli deve non soltanto evitare di essere un animale, ma deve
+guardarsi da qualsiasi malaugurato incidente che potesse trasformarlo in un angelo.
+Vale a dire, gli è vietato avere gli entusiasmi e le ambizioni
+spirituali che hanno sostenuto i santi, e tuttavia deve
+diventare a [[Blood|mente fredda]] qualcosa di ben più eccezionale di un santo.
+Nessuno chiede a un realista come il signor Huxley di idealizzare il reale.
+Ma un tale realista dovrà pur sapere che la [[Nature|natura]] umana non può mostrare,
+a ogni istante, il valore e la vigilanza di un funambolo
+spirituale, non può soffrire per questo ideale più di tutti
+gli eroi, e tuttavia vedersi vietato perfino di idealizzare il proprio ideale.
+Il progetto di vita è semplicemente e ovviamente inattuabile; là dove i progetti
+dei più selvaggi mistici e martiri si sono dimostrati attuabili.
+
+Dico che non aborro questi uomini come le prime figure
+di un avanzante esercito anarchico. Al contrario, ammiro
+questi uomini come le ultime figure di un esercito anarchico sconfitto.
+Prendo questi due scrittori originali e vigorosi come tipi di molti altri;
+ma il punto è che essi non sono, come gli anarchici della [[history|storia]],
+alla testa di un esercito che marcia in una direzione decisa.
+È esattamente ciò che non sono. Lawrence si scagliava contro
+quasi tutto; Huxley, essendo più sensibile, rifugge da
+quasi tutto. Ma, per quanto preziosa sia la vivida descrizione
+dell'uno o l'acuta critica dell'altro, essi non sono
+preziosi come guide; e certamente non come guide a una rivoluzione.
+Non avevano la semplificazione data o dalla religione o dall'irreligione.
+C'era qualcosa di grandioso in D. H. Lawrence che brancolava ciecamente
+nel buio; ma egli era davvero al buio, non soltanto sulla Volontà
+di Dio, ma sulla volontà di D. H. Lawrence. Era pronto
+ad andare ovunque; ma non sapeva davvero dove andare poi.
+Aldous Huxley è idealmente spiritoso; ma è al colmo dell'arguzia e insieme alla fine di essa.
+
+Ora, naturalmente vi sono innumerevoli copisti e seguaci che si dicono
+rivoluzionari, i quali direbbero di sapere dove andare;
+semplicemente perché si accontentano di qualche parola convenzionale
+come Comunismo. Poiché Comunismo è quasi la stessa parola di convenzione;
+significa gente che si mette «insieme», e nient'altro.
+Ma proprio questo fatto illustra ciò che dico, quando dico
+che all'esercito mancano le munizioni e che la fine è vicina.
+Quando cominciò il grande movimento democratico, esso fu sostenuto da reali
+emozioni democratiche. Soltanto la [[Comradeship|Fratellanza]] può essere l'[[Soul|anima]] del Comunismo;
+poiché altrimenti esso non ha [[Soul|anima]]. Ma quanto più notiamo l'effettivo temperamento
+dei nuovi ribelli, tanto più noteremo che tutto ciò se n'è andato.
+Gli uomini che si dicono comunisti non sono Compagni.
+Il loro tono è amaramente individualistico, e amaramente critico.
+Quando Walt Whitman guardava una folla, è davvero esatto dire
+che egli amava la folla. Quando un poeta moderno, imitando il verso
+libero di Whitman (che era la cosa meno libera in lui),
+descrive una folla, è sempre per descrivere il proprio disgusto per la folla.
+Essi non hanno alcuno dei sentimenti naturali che corrisponderebbero ai
+loro dogmi innaturali. In altre parole, all'esercito manca la polvere,
+manca la passione, mancano gli impulsi primari che fanno agire un simile
+esercito. Poiché essi non sono un'avanguardia che avanza, sono la fine
+di un'avventura rivoluzionaria, nel bene e nel male, che cominciò
+più di cento anni fa; e stanno combattendo l'azione di retroguardia
+di una ritirata. Libertà, Uguaglianza e Fraternità significavano davvero
+qualcosa per le emozioni di coloro che per primi usarono la frase.
+Ma la Fraternità è l'ultima emozione che si sia disposti a trovare in un acre
+articolo o poema di un [[Rebel|ribelle]] moderno; la Libertà è perduta in entrambi i sistemi,
+il vecchio e il nuovo; e l'Uguaglianza rimane soltanto nella forma di un piatto
+tentativo di uniformità, copiato proprio da quel meccanico capitalismo
+che i ribelli respingerebbero.

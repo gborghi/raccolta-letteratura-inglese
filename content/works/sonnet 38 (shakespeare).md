@@ -2,7 +2,7 @@
 title: Sonnet 38
 author: Shakespeare
 type: work
-cluster: Letters and Writing · Immortality Through Verse · Immortality of Art / Fame
+cluster: Letters and Writing · Immortality Through Verse · Immortality of Art Fame
 source: Authors/Shakespeare/Sonnets/Sonnet_038.md
 tags:
   - graph/work

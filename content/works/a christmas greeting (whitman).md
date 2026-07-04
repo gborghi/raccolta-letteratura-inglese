@@ -2,7 +2,7 @@
 title: A Christmas Greeting
 author: Whitman
 type: work
-cluster: Nationalism and Patriotism · Democracy · Liberty / Political Freedom
+cluster: Nationalism and Patriotism · Democracy · Liberty Political Freedom
 source: Authors/Whitman/_raw/367_A_Christmas_Greeting.md
 tags:
   - graph/work

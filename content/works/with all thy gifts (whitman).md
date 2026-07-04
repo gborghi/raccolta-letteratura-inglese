@@ -2,7 +2,7 @@
 title: With All Thy Gifts
 author: Whitman
 type: work
-cluster: Nationalism and Patriotism · Democracy · Liberty / Political Freedom
+cluster: Nationalism and Patriotism · Democracy · Liberty Political Freedom
 source: Authors/Whitman/_raw/226_With_All_Thy_Gifts.md
 tags:
   - graph/work

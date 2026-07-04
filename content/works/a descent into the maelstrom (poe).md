@@ -2,7 +2,7 @@
 title: A Descent Into the Maelstrom
 author: Poe
 type: work
-cluster: Night Journey / Vision · Katabasis / Descent · Quest Hero
+cluster: Night Journey Vision · Katabasis Descent · Quest Hero
 source: Authors/Poe/_raw/A Descent Into the Maelstrom.md
 tags:
   - graph/work

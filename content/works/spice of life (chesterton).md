@@ -2,7 +2,7 @@
 title: The Spice of Life
 author: Chesterton
 type: work
-cluster: Artist and Society · Truth · Regency/Georgian England
+cluster: Artist and Society · Truth · Regency Georgian England
 source: Authors/Chesterton/_raw/Spice_Of_Life.md
 tags:
   - graph/work

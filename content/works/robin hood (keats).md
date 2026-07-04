@@ -2,7 +2,7 @@
 title: ROBIN HOOD
 author: Keats
 type: work
-cluster: Wine and Drink · Ballad / Ballade · Road
+cluster: Wine and Drink · Ballad Ballade · Road
 source: Authors/Keats/_raw/038_ROBIN_HOOD.md
 tags:
   - graph/work

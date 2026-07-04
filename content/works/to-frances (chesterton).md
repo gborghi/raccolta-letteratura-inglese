@@ -2,7 +2,7 @@
 title: To Frances
 author: Chesterton
 type: work
-cluster: Letters and Writing · Immortality Through Verse · Immortality of Art / Fame
+cluster: Letters and Writing · Immortality Through Verse · Immortality of Art Fame
 source: Authors/Chesterton/_raw/to-frances.md
 tags:
   - graph/work

@@ -2,7 +2,7 @@
 title: Mannahatta
 author: Whitman
 type: work
-cluster: Nationalism and Patriotism · Democracy · Liberty / Political Freedom
+cluster: Nationalism and Patriotism · Democracy · Liberty Political Freedom
 source: Authors/Whitman/_raw/260_Mannahatta.md
 tags:
   - graph/work

@@ -2,7 +2,7 @@
 title: NOTES BY PROFESSOR SAINTSBURY
 author: Coleridge
 type: work
-cluster: Artist and Society · Truth · Regency/Georgian England
+cluster: Artist and Society · Truth · Regency Georgian England
 source: Authors/Coleridge/_raw/411_NOTES_BY_PROFESSOR_SAINTSBURY.md
 tags:
   - graph/work

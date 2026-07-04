@@ -2,7 +2,7 @@
 title: SNOW DROP.
 author: Coleridge
 type: work
-cluster: Letters and Writing · Immortality Through Verse · Immortality of Art / Fame
+cluster: Letters and Writing · Immortality Through Verse · Immortality of Art Fame
 source: Authors/Coleridge/_raw/199_SNOW_DROP.md
 tags:
   - graph/work

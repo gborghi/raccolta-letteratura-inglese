@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/don-quixote-(chesterton)">Don Quixote</a> › <a href="/testi/chesterton/atomized/don_quixote/chapter_06">Chapter 06</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/don_quixote/chapter_06/part_01">‹ part 01</a><a class="ex-next" href="/testi/chesterton/atomized/don_quixote/chapter_06/part_03">part 03 ›</a></div>
@@ -152,3 +154,50 @@ and an authoritative voice from behind the counter would say:
 "Now then--now then," and the expression would be tacitly withdrawn.
 Murrel had gone up to the counter, nodding to various people and rapped
 on it with a few coppers asking for four of something.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/don-quixote-(chesterton)">Don Quixote</a> › <a href="/testi/chesterton/atomized/don_quixote/chapter_06">Chapter 06</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/don_quixote/chapter_06/part_01">‹ part 01</a><a class="ex-next" href="/testi/chesterton/atomized/don_quixote/chapter_06/part_03">part 03 ›</a></div>
+</nav>
+
+«Le dispiace se divido con lei l'omnibus?» chiese Murrel, lasciandosi cadere su una panca accanto al solitario passeggero esterno; poiché nessun altro pareva viaggiare su quel veicolo; sedevano [[Well|ben]] avanti sui sedili anteriori e la piena raffica dell'aria [[Night|notturna]] li investiva in faccia mentre il veicolo cominciava a muoversi. Parve destare Braintree da una trance di astrazione, ed egli assentì piuttosto seccamente.
+
+«La [[Truth|verità]] è», disse Murrel, «che mi sento invogliato a venire a dare un'occhiata alla tua carbonaia».
+
+«Non ti piacerebbe essere chiuso a chiave nella carbonaia», disse l'altro, ancora un po' burbero.
+
+«Naturalmente preferirei essere chiuso a chiave nella cantina dei vini», ammise Murrel. «Una nuova versione della tua [[Parable|parabola]] del Lavoro. I vani e oziosi a gozzovigliare di sopra, mentre il sordo e ostinato suono dei tappi che saltavano diceva loro che io ero ancora di sotto, a faticare, a sgobbare, mai in riposo... Ma davvero, vecchio mio, c'era molto di vero in quel che hai detto su te stesso e sui tuoi antri fuligginosi, e ho pensato di darvi una sbirciata».
+
+Al signor Almeric Wister e ad altri sarebbe potuto sembrare privo di tatto parlare all'uomo più povero del suo fuligginoso ambiente. Ma Murrel non era privo di tatto; e non si sbagliava quando diceva di conoscere qualcosa degli uomini. Conosceva la morbosa suscettibilità della specie più maschile di uomini. Conosceva la quasi maniacale paura dello snobismo del suo amico; e si guardò bene dal dire alcunché sui successi del salotto. Parlare di Braintree come di uno schiavo in una carbonaia significava rinsaldare il suo [[Self|amor]] proprio.
+
+«Per lo più tintorie e roba del genere, non è vero?» chiese Murrel, contemplando la foresta di ciminiere che cominciava a spuntare attraverso la foschia dell'orizzonte.
+
+«Sottoprodotti del carbone di vario genere», rispose l'amico, «usati per colori chimici, tinture e smalti, e ogni sorta di cose. Mi pare che, nella società capitalistica, il sottoprodotto stia diventando più grande del prodotto principale. Dicono che i milioni del tuo amico Seawood vengano assai più dai prodotti del catrame di carbone che dal carbone stesso... Ho sentito dire che qualcosa del genere si usava per la giubba rossa dei soldati».
+
+«E che dire della cravatta rossa del socialista?» chiese Murrel con tono di rimprovero. «Jack, non posso credere che quella tua cravatta rossa sia intinta di fresco nel [[Blood|sangue]] degli aristocratici. Per quanto io sia ansioso di pensar [[Well|bene]] di te, non riesco a credere che tu venga fumante dal massacro della nostra vecchia nobiltà. E poi, ho sempre inteso che il [[Blood|sangue]] fosse blu. Possibile che tu stesso sia ora una réclame ambulante delle tintorie del vecchio Comesichiama? Comprate le Nostre Cravatte Rosse. Signori Sindacalisti Vestiti a Puntino. Il signor John Braintree, il [[Well|Ben]] Noto Rivoluzionario, Scrive: "Da quando uso il Vostro..."»
+
+«Nessuno oggigiorno sa da dove venga alcunché, Douglas», disse Braintree tranquillamente. «È ciò che si chiama pubblicità e giornalismo popolare in uno stato capitalista. La mia cravatta può ben essere fatta da capitalisti; così come la tua può essere fatta da isolani cannibali, per quel che ne sai».
+
+«Tessuta con le fedine dei missionari», replicò Murrel. «Un pensiero piacevole. E immagino che il tuo lavoro sia far comizi in giro per tutti questi operai».
+
+«Le loro condizioni sono infami», disse Braintree, «specialmente quei poveri diavoli che lavorano su certe tinture e vernici e simili, che sono semplicemente maledetti veleni e pestilenze. Non hanno quasi nessun sindacato degno di questo nome e le loro ore di lavoro sono di gran lunga troppo lunghe».
+
+«Sono le ore lunghe che mettono un uomo più al tappeto», convenne Murrel. «Nessuno ha abbastanza svago o divertimento a questo mondo, non è vero, Bill?»
+
+Braintree era forse segretamente un po' lusingato dal fatto che l'amico lo chiamasse sempre Jack; ma era del tutto incapace di capire perché, in un eccesso di intimità, dovesse rivolgersi a lui chiamandolo Bill. Stava per fare una domanda, quando un grugnito uscito dal buio davanti a lui gli ricordò a un tratto qualcuno la cui stessa esistenza era costretto ad ammettere di aver completamente dimenticato. Pareva che William fosse il nome di battesimo del conducente dell'omnibus; e che Douglas Murrel avesse l'abitudine di chiamarlo così. Il grugnito di risposta della persona chiamata Bill fu sufficiente a indicare che egli conveniva pienamente sul fatto che le ore dell'impiego proletario fossero di gran lunga troppo lunghe.
+
+«[[Well|Ebbene]], tu stai a posto, Bill», disse Murrel. «Sei uno dei fortunati, specialmente sta[[Night|notte]]. Il vecchio Charley entra in servizio al Dragone, no?»
+
+«Ma sì», disse il conducente in tono lento e sontuosamente sprezzante. «Entra in servizio al Dragone, ma...» Lasciando la cosa lì, quasi come se entrare in servizio al Dragone fosse qualcosa che persino le limitate facoltà del vecchio Charley ci si potesse aspettare sapessero sbrigare, ma che al di là di ciò vi fosse ben poco motivo di consolazione.
+
+«Lui entra in servizio al Dragone e noi smontiamo al Dragone», continuò Murrel, «così puoi venire a berne una alla mia salute. Per mostrarmi che non serbi rancore per la faccenda di Golliwog. Ma ti giuro che ti avevo detto soltanto di puntarlo per un piazzamento».
+
+«Non importa, signore. Lei non ci pensi, a quella storia», osservò il benevolo Bill, in un fervore di cristiano [[Forgiveness|perdono]]. «Non importa mettere su una piccola puntata; e se perde la puntata... be', tant'è».
+
+«Proprio così», disse Murrel. «Ed eccoci al Dragone; immagino che qualcuno debba entrare a tirar fuori il vecchio Charley».
+
+Col degno scopo di accelerare così il servizio dei veicoli pubblici, Murrel parve d'un tratto cadere dalla cima dell'omnibus. Ricadde però in piedi, avendo in realtà disceso compiendo una specie di ruota per aria sul perno di un unico appiglio. Poi si fece largo a spallate dentro il bar illuminato e rumoroso del Dragone Verde, con un movimento così risoluto che gli altri due uomini naturalmente lo seguirono. Il conducente dell'omnibus, il cui nome per esteso era William Pond, seguì invero senza alcuna finzione di riluttanza. Il democratico John Braintree seguì con una lieve riluttanza e una certa affettazione di noncuranza. Non era né proibizionista né bacchettone; e avrebbe bevuto birra con tutta naturalezza in qualsiasi locanda lungo la strada durante una gita a piedi. Ma il Dragone Verde sorgeva alla periferia di una città industriale; e il luogo in cui entrarono non era un salottino da bar né una sala né una di quelle spregevoli piccole cabine chiamate Bar Privati. Era il Bar Pubblico, ossia il luogo aperto e onesto in cui bevono i poveri. E nell'istante in cui Braintree ne varcò la soglia, seppe di trovarsi di fronte a qualcosa di nuovo; a qualcosa che non aveva mai toccato né gustato né visto né odorato prima, in tutti i suoi quindici anni di comizi. C'era parecchio da odorare [[Well|oltre]] che da vedere; e molto che non si sentiva incline a toccare, e ancor meno a gustare. Il locale era caldissimo e fittamente affollato e pieno di un assordante frastuono di gente che parlava tutta insieme. Molti di loro non parevano curarsi granché se gli altri li ascoltassero o parlassero nello stesso [[Time|momento]]. Gran parte del discorso gli era totalmente incomprensibile, benché evidentemente pieno di espressioni enfatiche; come se una folla bestemmiasse in olandese o in portoghese. Di tanto in tanto, nel fiume di parole piuttosto brutte e incomprensibili, ricorreva una certa parola e una voce autorevole da dietro il banco diceva: «E adesso... e adesso», e l'espressione veniva tacitamente ritirata. Murrel si era accostato al banco, salutando con un cenno del capo varie persone, e vi picchiò sopra con qualche moneta di rame chiedendo quattro di qualcosa.

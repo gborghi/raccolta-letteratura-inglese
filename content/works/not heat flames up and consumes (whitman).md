@@ -2,7 +2,7 @@
 title: Not Heat Flames Up and Consumes
 author: Whitman
 type: work
-cluster: Comradeship · Union · Hands / Hand in Hand
+cluster: Comradeship · Union · Hands Hand in Hand
 source: Authors/Whitman/_raw/055_Not_Heat_Flames_Up_and_Consumes.md
 tags:
   - graph/work

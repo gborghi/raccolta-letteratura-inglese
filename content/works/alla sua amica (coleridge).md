@@ -2,7 +2,7 @@
 title: ALLA SUA AMICA
 author: Coleridge
 type: work
-cluster: Greek Mythology · Lust / Sexual Desire · Desire
+cluster: Greek Mythology · Lust Sexual Desire · Desire
 source: Authors/Coleridge/_raw/446_ALLA_SUA_AMICA.md
 tags:
   - graph/work

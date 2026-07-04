@@ -2,7 +2,7 @@
 title: Sonnet 144
 author: Shakespeare
 type: work
-cluster: Temptation · Good vs Evil · Serpent / Snake
+cluster: Temptation · Good vs Evil · Serpent Snake
 source: Authors/Shakespeare/Sonnets/Sonnet_144.md
 tags:
   - graph/work

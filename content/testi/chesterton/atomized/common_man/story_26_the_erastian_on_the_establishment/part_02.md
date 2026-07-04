@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/common-man-(chesterton)">Common Man</a> › <a href="/testi/chesterton/atomized/common_man/story_26_the_erastian_on_the_establishment">Story 26 The Erastian On The Establishment</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/common_man/story_26_the_erastian_on_the_establishment/part_01">‹ part 01</a><a class="ex-next" href="/testi/chesterton/atomized/common_man/story_26_the_erastian_on_the_establishment/part_03">part 03 ›</a></div>
@@ -119,3 +121,118 @@ In short, it is doubtless true, in the words of Mr. Jefferson Brick
 (that pioneer of revolt), that the Libation of [[Freedom]] must
 sometimes be quaffed in [[Blood]]; but whether it be in [[Blood|blood]] or wine,
 that cup is very nearly dry.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/common-man-(chesterton)">Common Man</a> › <a href="/testi/chesterton/atomized/common_man/story_26_the_erastian_on_the_establishment">Story 26 The Erastian On The Establishment</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/common_man/story_26_the_erastian_on_the_establishment/part_01">‹ part 01</a><a class="ex-next" href="/testi/chesterton/atomized/common_man/story_26_the_erastian_on_the_establishment/part_03">part 03 ›</a></div>
+</nav>
+
+Naturalmente è possibile giocare all'infinito con la parola «cristiano»
+e prolungarne perpetuamente l'epoca diminuendone perpetuamente il significato.
+Quando col [[Time|tempo]] tutti avranno convenuto che essere cristiano significa soltanto
+ritenere che [[Christ|Cristo]] fosse un uomo buono, sarà davvero vero
+che a poche persone fuori dei manicomi si potrà negare il nome
+di cristiano. Ma è in realtà una mera alterazione del significato
+di una parola ciò che ci impedisce di dire francamente che una gran massa,
+probabilmente una maggioranza, della nostra gente moderna è pagana.
+Molti di loro si fanno beffe di quei modelli di pietà familiare o di dignità
+pubblica che erano generalmente accettati dai pagani. Ma la maggior parte di loro,
+se pure ha una religione, ha una religione di panteismo o di pura
+etica che la maggior parte dei grandi caratteri cristiani della [[history|storia]],
+cattolici o protestanti, avrebbe immediatamente bollato come pagana.
+Se aveste interrogato Wesley, o Swedenborg, o il Dr. Johnson, o Baxter,
+o Lutero, avrebbero definito pagano l'atteggiamento moderno
+ancor più prontamente, se possibile, di quanto lo avrebbero fatto Bossuet o Bellarmino.
+Se è vero che la Chiesa è semplicemente la religione dello Stato,
+siamo arrivati assai vicini a dire che è semplicemente l'irreligione
+dello Stato.
+
+Ci fu un uomo amaro e cinico (anche lui, ne sono certo, un uomo di [[Oxford]])
+che disse: «La Chiesa d'Inghilterra è il nostro ultimo baluardo
+contro il [[Christianity|Cristianesimo]]». Questo è del tutto ingiusto come descrizione
+della Chiesa d'Inghilterra. Ma non è del tutto ingiusto
+come descrizione del decano Inge. Ciò che sta davvero in fondo alla sua
+mente è questa immagine di una grande tradizione accademica e culturale,
+istituita come bisogno nazionale ma non specificamente come bisogno spirituale.
+Deve avere testi religiosi — da criticare; cerimoniale religioso —
+da [[Reform|riformare]] leggermente e piuttosto pomposamente di [[Time|tempo]] in [[Time|tempo]];
+una sorta di presunzione sulla religione, nel senso che non potrebbe
+tollerare gli orrori di qualcosa come la negazione russa della religione.
+Ma per tutto il tempo essa sarà soggetta a una prova inequivocabile.
+Può coesistere con il [[Doubt|Dubbio]]; ma non può coesistere con la [[Faith|Fede]].
+
+Alla fine del suo articolo, il decano Inge cerca di respingere come impertinente
+il termine erastianesimo; il termine è troppo palesemente vero per non irritare.
+Ma in ogni caso egli ne sottovaluta assurdamente il significato attuale.
+Non si tratta di stabilire se coloro che formano una nazione essendo
+inglesi possano in astratto formare una religione essendo anglicani.
+Si tratta di stabilire se una Chiesa che quantomeno esiste,
+con alcuni che vi appartengono e altri che non vi appartengono,
+debba essere governata da coloro che non vi appartengono.
+L'erastianesimo esiste oggi nel senso perfettamente pratico
+che qualsiasi ebreo, Holy Roller o ateo di Hyde Park può dettare
+ciò che quella Chiesa cristiana dovrà fare in qualunque materia,
+per quanto intima e sacra. Bradlaugh fu Membro del Parlamento;
+[[Well|ben]] avrebbe potuto diventare Ministro di Gabinetto e nominare Vescovi.
+Il signor Saklatvala fu un leader socialista e [[Well|ben]] avrebbe potuto
+essere Ministro laburista, con una maggioranza alla [[house|Camera]], e avrebbe potuto
+per Atto del Parlamento fare del [[Prayer|libro di preghiere]] tutto ciò che gli piacesse.
+Questo è la Chiesa di Stato, come oggi universalmente intesa;
+questo è ciò che il decano Inge desidera e presumibilmente difende; o deve accingersi
+al delicato compito di difendere.
+
+LA FINE DEI MODERNI
+
+Tutte le scuole di pensiero, moderate o rivoluzionarie o reazionarie,
+concordano nel ritenere che il futuro sia pieno di nuove possibilità o pericoli,
+che le varie forme di rivolta nell'arte o nel pensiero siano l'
+inizio di grandi mutamenti, e specialmente che certi geni,
+creativi o distruttivi, abbiano spalancato le porte di un mondo nuovo.
+Il comunista può ritenere che siano le porte del cielo,
+o il conservatore che siano le porte dell'inferno. Ma entrambi
+sostanzialmente convengono che esse segnino non soltanto la fine del mondo,
+ma l'inizio di un altro mondo. Gli scrittori moderni che sono stati
+salutati ora come dinamici ora come demoniaci sono, nel bene o nel male,
+soltanto i precursori di altri ancor più dinamici o più demoniaci.
+Entrambe le parti sono cordialmente d'accordo su questo; e io ho la sventura
+di dissentire da entrambe.
+
+Penso che il primo fatto riguardo a ciò che si può grossolanamente chiamare Futurismo sia che
+esso non ha futuro. Ha ancora un presente vivacissimo e interessantissimo.
+Anzi, ha già un passato pittoresco e romantico. La vita
+di D. H. Lawrence, per esempio, è già divenuta una mera leggenda,
+che potrebbe essere di qualsiasi antichità; e il fascino romantico e piuttosto
+sentimentale che già si è raccolto attorno a lui è ormai altrettanto
+distante e diffuso di quello che si raccolse attorno a Byron o Burns.
+Quanto al presente, nessun periodo potrebbe essere del tutto grigio in cui
+il signor Aldous Huxley stesse scrivendo; ma è significativo notare
+ciò che egli scrive. In Brave New World egli mostra che, per quanto cupamente
+possa godere del presente, egli già decisamente odia il futuro.
+E io differisco da lui soltanto nel non credere che vi sia alcun tale
+futuro da odiare.
+
+Prendo questi due nomi come tipici di ciò che nell'ultimo decennio
+è stato chiamato modernità o rivolta; ma la tesi che vorrei
+seriamente proporre abbraccia qualcosa di più ampio e forse di più semplice.
+Gli elementi rivoluzionari della nostra epoca segnano non l'inizio,
+ma la fine, di un'epoca di rivoluzione. Esiterei a descrivere
+un certo numero di distinti e spesso onesti gentiluomini di lettere come Feccia;
+o avrei dato quel titolo breve e comodo a questo articolo.
+Preferisco riporre lo stesso significato, o anche la stessa metafora,
+nelle parole di un poeta rivoluzionario (la cui attuale impopolarità
+basta a mostrare quanto sia insicuro il futuro della poesia rivoluzionaria)
+e, mentre bevo alla [[Memory|memoria]] di Lawrence o alla salute di Huxley,
+mormorare le parole:
+
+  Tuo è l'ultimo vino che verso
+  L'ultimo che vuoto nel calice.
+
+Ciò suggerirà la stessa idea in un linguaggio meno offensivo.
+In breve, è indubbiamente vero, con le parole del signor Jefferson Brick
+(quel pioniere della rivolta), che la Libagione della [[Freedom|Libertà]] deve
+talvolta essere tracannata nel [[Blood|Sangue]]; ma sia essa nel [[Blood|sangue]] o nel vino,
+quella coppa è ormai quasi vuota.

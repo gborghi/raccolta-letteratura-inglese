@@ -2,7 +2,7 @@
 title: Thou Art the Man
 author: Poe
 type: work
-cluster: Short Story · Concealment / Hidden Identity · Justice / Right and Wrong
+cluster: Short Story · Concealment Hidden Identity · Justice Right and Wrong
 source: Authors/Poe/_raw/Thou Art the Man.md
 tags:
   - graph/work

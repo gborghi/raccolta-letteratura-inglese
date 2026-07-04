@@ -2,7 +2,7 @@
 title: A TOMBLESS EPITAPH
 author: Coleridge
 type: work
-cluster: Artist and Society · Truth · Regency/Georgian England
+cluster: Artist and Society · Truth · Regency Georgian England
 source: Authors/Coleridge/_raw/237_A_TOMBLESS_EPITAPH.md
 tags:
   - graph/work

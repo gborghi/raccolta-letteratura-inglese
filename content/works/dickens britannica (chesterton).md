@@ -2,7 +2,7 @@
 title: Charles Dickens (Encyclopaedia Britannica)
 author: Chesterton
 type: work
-cluster: Artist and Society · Truth · Regency/Georgian England
+cluster: Artist and Society · Truth · Regency Georgian England
 source: Authors/Chesterton/_raw/dickens_Britannica.md
 tags:
   - graph/work

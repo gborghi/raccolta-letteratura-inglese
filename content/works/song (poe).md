@@ -2,7 +2,7 @@
 title: Song
 author: Poe
 type: work
-cluster: Unrequited / Frustrated Love · Unattainable Beloved · Petrarchan Sonnet
+cluster: Unrequited Frustrated Love · Unattainable Beloved · Petrarchan Sonnet
 source: Authors/Poe/_raw/Song.md
 tags:
   - graph/work

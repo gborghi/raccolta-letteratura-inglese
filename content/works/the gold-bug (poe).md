@@ -2,7 +2,7 @@
 title: The Gold-Bug
 author: Poe
 type: work
-cluster: Short Story · Concealment / Hidden Identity · Justice / Right and Wrong
+cluster: Short Story · Concealment Hidden Identity · Justice Right and Wrong
 source: Authors/Poe/_raw/The Gold-Bug.md
 tags:
   - graph/work

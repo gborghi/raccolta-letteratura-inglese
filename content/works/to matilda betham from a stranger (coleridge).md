@@ -2,7 +2,7 @@
 title: TO MATILDA BETHAM FROM A STRANGER
 author: Coleridge
 type: work
-cluster: Artist and Society · Truth · Regency/Georgian England
+cluster: Artist and Society · Truth · Regency Georgian England
 source: Authors/Coleridge/_raw/208_TO_MATILDA_BETHAM_FROM_A_STRANGER.md
 tags:
   - graph/work

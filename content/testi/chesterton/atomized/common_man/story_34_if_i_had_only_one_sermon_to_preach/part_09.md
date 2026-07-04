@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/common-man-(chesterton)">Common Man</a> › <a href="/testi/chesterton/atomized/common_man/story_34_if_i_had_only_one_sermon_to_preach">Story 34 If I Had Only One Sermon To Preach</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/common_man/story_34_if_i_had_only_one_sermon_to_preach/part_08">‹ part 08</a><span></span></div>
@@ -58,3 +60,16 @@ Perhaps there are things that are too great to happen, and too
 big to pass through the narrow doors of birth.  For this world
 is too small for the [[Soul|soul]] of man; and, since the end of Eden,
 the very sky is not large enough for [[lovers]].
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/common-man-(chesterton)">Common Man</a> › <a href="/testi/chesterton/atomized/common_man/story_34_if_i_had_only_one_sermon_to_preach">Story 34 If I Had Only One Sermon To Preach</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/common_man/story_34_if_i_had_only_one_sermon_to_preach/part_08">‹ part 08</a><span></span></div>
+</nav>
+
+E così, dopo quell'unico folle barbaglio in cui balenò la possibilità dell'impossibile, ricadiamo, nel migliore dei casi, in una sfilza di cose di terz'ordine. Carlo I fu migliore, uomo triste e altero, ma buono per quanto un uomo può esserlo senza avere il buon umore. Carlo II ebbe il buon umore senza essere buono; ma il peggio di lui fu che la sua vita fu una lunga resa; Giacomo II ebbe le virtù del nonno, per quel poco che valevano, e fu perciò tradito e spezzato. Poi venne Guglielmo l'Olandese, con il quale entra di nuovo il sentore di qualcosa di sinistro e di estraneo. Non vorrei insinuare che simili calvinisti fossero calvinisti antinomiani; ma c'è qualcosa di strano nel pensare che due volte, in quel [[Time|tempo]], entrasse insieme a quella [[logic|logica]] contro natura il vociferare e il sentore di un [[Desire|desiderio]] contro natura. Ma quando arriviamo ad Anna e al primo, scialbo Giorgio, non è più il [[King|Re]] a contare. I principi mercanti hanno soppiantato tutti gli altri principi; l'Inghilterra si è votata al puro commercio e allo sviluppo capitalistico; e vediamo istituirsi l'una dopo l'altra la Rendita Nazionale, la Banca d'Inghilterra, i mezzi penny di Wood, la Bolla dei Mari del Sud, e tutte le tipiche istituzioni del [[government|Governo]] degli affari. Non discuterò qui se il seguito moderno, con i suoi trust cosmopoliti, il suo complicato e praticamente segreto controllo finanziario, la sua marcia delle macchine e la sua cancellazione della proprietà privata e della libertà personale, sia nel complesso un bene o un male. Esprimerò soltanto l'intuizione che, anche se è cosa molto buona, qualcos'altro avrebbe potuto essere migliore. Non ho bisogno di negare che sotto certi aspetti il mondo abbia progredito in ordine e filantropia; ho bisogno soltanto di dichiarare il mio sospetto che il mondo avrebbe potuto progredire assai più in fretta. E penso che i paesi del nord, in particolare, avrebbero progredito assai più in fretta, se la filantropia fosse stata guidata fin dal principio da una [[philosophy|filosofia]] più ampia, come quella di Bellarmino e di More; se avesse attinto direttamente dal [[Renaissance|Rinascimento]] e non fosse stata sviata e ritardata dal cupo settarismo del diciassettesimo secolo. Ma in ogni caso le grandi istituzioni morali dei tempi moderni, lo Straddle, l'Accaparramento del grano, la Fusione e tutto il resto, non saranno toccate dalla mia piccola fantasticheria letteraria; e non mi occorre sentire alcuna responsabilità se sciupo qualche ora della mia inefficiente esistenza sognando le cose che avrebbero potuto essere (le quali, mi diranno i deterministi, non avrebbero mai potuto essere) e intrecciando questo sbiadito serto per il principe degli eroi e la [[Queen|regina]] dei cuori.
+
+Forse esistono cose troppo grandi per accadere, e troppo grandi per passare per le anguste porte della nascita. Perché questo mondo è troppo piccolo per l'[[Soul|anima]] dell'uomo; e, dopo la fine dell'Eden, il cielo stesso non è abbastanza vasto per gli [[lovers|amanti]].

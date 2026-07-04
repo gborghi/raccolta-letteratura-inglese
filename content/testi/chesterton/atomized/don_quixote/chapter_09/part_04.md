@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/don-quixote-(chesterton)">Don Quixote</a> › <a href="/testi/chesterton/atomized/don_quixote/chapter_09">Chapter 09</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/don_quixote/chapter_09/part_03">‹ part 03</a><a class="ex-next" href="/testi/chesterton/atomized/don_quixote/chapter_10/part_01">part 01 ›</a></div>
@@ -180,5 +182,183 @@ badinage and had then betaken himself to the [[Road|road]] running to the coast.
 Before doing so, however, he paid two or three other visits, one to
 a bank, another to a business friend and a third to his solicitor;
 and came out on each occasion looking rather grim.
+
+-^-
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/don-quixote-(chesterton)">Don Quixote</a> › <a href="/testi/chesterton/atomized/don_quixote/chapter_09">Chapter 09</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/don_quixote/chapter_09/part_03">‹ part 03</a><a class="ex-next" href="/testi/chesterton/atomized/don_quixote/chapter_10/part_01">part 01 ›</a></div>
+</nav>
+
+«Teneva una botteguccia nell'Haymarket, ma credo che fosse
+sempre gremita dei suoi amici artisti, come il padre della signorina Ashley.
+Conosceva quasi tutti gli uomini eminenti del suo tempo, e alcuni li
+conosceva anche piuttosto [[Well|bene]]. Ora, si direbbe che un bottegaio di quella
+risma non possa svanire del tutto senza lasciare la minima traccia.
+Non vi aspettereste di riuscire a rintracciare un uomo simile e la
+sua mercanzia saltar fuori da qualche parte?»
+
+«Sì», disse l'altro lentamente, «mi aspetterei di trovarlo
+impiegato da qualche parte, questo sì; mi aspetterei di scoprire che si è
+trovato un posto nei nostri stabilimenti, o in qualcuna delle grandi ditte.»
+
+«Ah», fece Murrel, e ricadde in un [[Silence|silenzio]] meditativo.
+
+Poi disse, all'improvviso: «Se è per questo, parecchi dei nostri piccoli
+possidenti e signorotti di campagna se la passano piuttosto male, di questi tempi.
+Ma immagino che li trovereste tutti a far da maggiordomi e valletti
+a qualcuno dei duchi.»
+
+«Oh, [[Well|beh]]... immagino che sarebbe una faccenda un po' diversa», disse il
+direttore con imbarazzo, non sapendo bene se dovesse ridere.
+Si ritirò in un ufficio sul retro a consultare i registri d'affari e i
+repertori. Lasciò il visitatore nella convinzione che
+stesse cercando alla lettera «H» il nome di Hendry.
+In realtà cercava alla lettera «M»
+il nome di Murrel. Ma ciò che scoprì in
+quest'ultima indagine lo dispose più favorevolmente verso la prima.
+Si tuffò in un esame assai più minuzioso dei registri,
+telefonò e interrogò tutti i capi più anziani dei vari reparti,
+e dopo una gran mole di questa fatica gratuita s'imbatté davvero
+in una traccia della dimenticata faccenda in questione; la quale, a
+rendergli giustizia, inseguì una volta afferratala con qualcosa
+della disinteressata energia di un [[Detective|detective]] in un [[Novel|romanzo]] sensazionale.
+Dopo un [[Time|tempo]] considerevole, tornò da Murrel,
+sfoggiando un ampio sorriso e fregandosi le mani in trionfo.
+
+«Molto gentile da parte sua aver reso omaggio ai nostri piccoli tentativi
+di organizzazione, signor Murrel», disse il direttore in maniera del tutto lieta
+e raggiante. «C'è davvero qualcosa da dire
+a favore dell'organizzazione, sa.»
+
+«[[Hope|Spero]] di non aver causato una gran disorganizzazione», disse Murrel.
+«Temo che la mia richiesta fosse piuttosto insolita.
+Immagino che ben pochi dei suoi clienti vengano a ordinare al banco
+dei preraffaelliti defunti. In qualche modo, non sembra
+il genere di posto dove ci si ferma per due chiacchiere,
+solo per dire che si aveva un amico che era amico di William Morris.
+È terribilmente gentile da parte sua prendersi il disturbo.»
+
+«Fin troppo lieto», replicò l'affabile funzionario, «fin troppo lieto
+di darle una buona impressione del nostro sistema, glielo assicuro.
+[[Well|Ebbene]], credo di poterle fornire qualche informazioncina su questo Hendry.
+Pare che un [[Time|tempo]] ci fosse un uomo con quel nome impiegato
+temporaneamente in questo reparto. Sembra aver fatto domanda di lavoro,
+e sembrava avere una certa conoscenza del mestiere. La fine
+dell'esperimento fu assai poco soddisfacente. Credo che il poveretto
+fosse un po' toccato; si lamentava di dolori alla testa e via dicendo.
+Comunque, un bel giorno diede in escandescenze e scagliò il capo del reparto di
+netto attraverso un gran quadro su un cavalletto. Non trovo nulla circa il fatto
+che sia stato mandato in [[Prison|prigione]] o in manicomio, come ci si aspetterebbe naturalmente.
+A dire il vero, posso dirle che teniamo un registro piuttosto accurato
+del tenore di vita dei nostri impiegati, dei procedimenti della polizia e via dicendo;
+sicché immagino che sia semplicemente scappato. Naturalmente non lavorerà mai
+più per noi; è inutile cercare di aiutare gente di quella risma.»
+
+«Sa dove abita?» chiese Murrel con aria cupa.
+
+«No; credo che fosse parte del problema», replicò l'altro.
+«La maggior parte della nostra gente, a quel [[Time|tempo]], viveva sul posto.
+Dicono che pranzasse sempre al Cane Pezzato;
+e questo [[Alone|di per sé]] aveva già una brutta aria, s'intende; noi preferiamo di gran lunga che la nostra gente
+si serva dei regolari ristoranti predisposti allo scopo.
+Probabilmente era il bere il suo vero male;
+e uomini di quella specie non si risollevano mai.»
+
+«Mi [[Wonder|domando]]», disse Murrel, «che ne sia stato delle sue Vernici Luminose.»
+
+«Oh, i metodi sono stati moltissimo perfezionati, s'intende, dal suo [[Time|tempo]]»,
+disse l'altro. «Fin troppo felice di esserle utile in qualcosa,
+signor Murrel, e [[Hope|spero]] che lei non pensi che io cerchi di forzarle la mano.
+Ma a dire il vero, non potrebbe far di meglio che
+l'Illuminatore Empire che vendiamo sempre. Ormai ha praticamente
+soppiantato tutti gli altri; deve averlo visto dappertutto.
+L'intero apparecchio è compatto e completo, e ogni cosa assai
+più comoda del vecchio procedimento.»
+
+Attraversò la stanza fino a una delle scrivanie e prese alcuni volantini stampati e
+colorati che porse a Murrel in modo quasi noncurante.
+Murrel li guardò e le sopracciglia gli si sollevarono in una lieve
+e momentanea sorpresa. Sul prospetto vide il nome
+del grande e pomposo fabbricante col quale Braintree aveva
+discusso nel salotto; ma il tratto saliente del volantino
+era una grande fotografia del signor Almeric Wister, l'esperto d'arte,
+con la sua firma apposta in calce a un attestato che dichiarava come
+quei colori [[Alone|soltanto]] potessero appagare il vero istinto per la [[Beauty|bellezza]].
+
+«Toh, lo conosco», disse Murrel. «È quello che parla
+dei grandi vittoriani. Mi [[Wonder|domando]] se sappia che cosa sia accaduto
+agli amici dei grandi vittoriani.»
+
+«Possiamo fornirgliene immediatamente, se lo desidera», disse il signor Harker.
+
+«Grazie», disse Murrel, in maniera piuttosto trasognata, «ma credo
+che prenderò soltanto una scatola di quei gessetti per bambini che quella gentile
+signorina mi ha offerto.»
+
+E in effetti tornò con aria [[Grave|grave]] e contrita
+al banco d'origine, per compiere solennemente il suo acquisto.
+
+«Non c'è nient'altro che io possa fare?» s'informò ansiosamente il direttore.
+
+«Nulla», disse Murrel in maniera insolitamente tetra.
+«Riconosco senz'altro che non c'è nulla che lei possa fare.
+Al diavolo, forse non c'è nulla da fare.»
+
+«Qualcosa non va?» chiese Harker.
+
+«Comincio ad avere dei dolori alla testa», disse Murrel.
+«Probabilmente sono ereditari. Vengono a intervalli
+e producono risultati spaventosi. Non vorrei che si ripetessero
+scene incresciose... con tutti questi cavalletti in
+giro... grazie. Arrivederci.»
+
+E si recò, non per la prima [[Time|volta]], al Cane Pezzato.
+In quell'antica [[house|osteria]] ebbe un colpo di fortuna insolito.
+Aveva portato il discorso sull'attraente argomento del vetro rotto,
+sentendo vagamente che se un uomo come Hendry frequentava un'[[house|osteria]]
+abbastanza spesso, prima o poi avrebbe di certo rotto qualcosa.
+Fu [[Well|ben]] accolto.
+
+Il suo aspetto ordinario e gioviale creò ben presto un'atmosfera
+sociale in cui i ricordi venivano incoraggiati a sbocciare.
+La giovane signorina al banco ricordava sì il signore che aveva rotto
+un bicchiere; l'oste lo ricordava con maggiore dovizia di particolari,
+avendo altercato sul pagamento del bicchiere.
+Insieme [[Shadow|abbozzarono]] un ritratto sfumato; di capelli
+arruffati e vestiti logori e lunghe dita agitate.
+
+«Ricorda», chiese Murrel con noncuranza, «se il signor Hendry
+avesse detto dove intendesse recarsi in seguito?»
+
+«Dottor Hendry, si faceva sempre chiamare», disse l'oste, lentamente.
+«Non so perché, se non che c'era una certa chimica di mezzo con
+le sue vernici e cose del genere. Ma andava enormemente fiero di essere un vero medico
+uscito dagli ospedali, benché sia dannato se mi piacerebbe averlo a curarmi.
+Ti [[Poison|avvelenerebbe]] con le sue vernici, credo.»
+
+«Vuol dire per sbaglio?» chiese Murrel, mite.
+
+«Per sbaglio, sì», concesse l'oste assai lentamente,
+e aggiunse con voce ragionevole: «ma non è che uno voglia essere
+avvelenato per sbaglio più che di proposito, no?»
+
+«No; ammetto francamente di no», disse Murrel.
+«Mi [[Wonder|domando]] dove abbia portato tutte le sue vernici, o veleni.»
+
+Fu a questo punto che la cameriera del banco divenne d'un tratto comunicativa
+e conciliante, e dichiarò di aver udito distintamente il dottor Hendry
+menzionare il nome di una stazione balneare ormai spenta sulla costa.
+Aveva persino un'idea del nome della via; e con questo
+il temerario avventuriero si sentì pronto ad agire senza ulteriore indugio.
+Aveva lasciato che la conversazione si spegnesse con tutto il tradizionale
+scambio di frizzi, e poi si era incamminato sulla [[Road|strada]] che correva verso la costa.
+Prima però di far ciò, fece due o tre altre visite, una a
+una banca, un'altra a un amico d'affari e una terza al suo notaio;
+e in ogni occasione ne uscì con aria piuttosto arcigna.
 
 -^-

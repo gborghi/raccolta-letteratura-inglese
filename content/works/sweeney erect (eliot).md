@@ -2,7 +2,7 @@
 title: Sweeney Erect
 author: Eliot
 type: work
-cluster: Greek Mythology · Lust / Sexual Desire · Desire
+cluster: Greek Mythology · Lust Sexual Desire · Desire
 source: Authors/Eliot/_raw/017_Sweeney_Erect.md
 tags:
   - graph/work

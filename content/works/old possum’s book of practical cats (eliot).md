@@ -2,7 +2,7 @@
 title: OLD POSSUM’S BOOK  OF PRACTICAL CATS
 author: Eliot
 type: work
-cluster: Joy · Animals · Comic Verse / Song
+cluster: Joy · Animals · Comic Verse Song
 source: Authors/Eliot/_raw/079_OLD_POSSUMS_BOOK_OF_PRACTICAL_CATS.md
 tags:
   - graph/work

@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/common-man-(chesterton)">Common Man</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/common_man/story_30_books_for_boys">‹ Story 30 Books For Boys</a><a class="ex-next" href="/testi/chesterton/atomized/common_man/story_32_a_note_on_nudism">Story 32 A Note On Nudism ›</a></div>
@@ -179,3 +181,50 @@ roughly like this:
 The mightiest gift that God of his largesse Made in creation,
 perfect even as He, Most of His substance, and to Him most dear,
 He gave to the Will and it was Liberty.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/common-man-(chesterton)">Common Man</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/common_man/story_30_books_for_boys">‹ Story 30 Books For Boys</a><a class="ex-next" href="/testi/chesterton/atomized/common_man/story_32_a_note_on_nudism">Story 32 A Note On Nudism ›</a></div>
+</nav>
+
+IL PROFILO DELLA LIBERTÀ
+
+Vi è una qualità di cui oggi si ha bisogno per la diffusione di ogni [[Truth|verità]], e in particolare della [[Truth|verità]] religiosa, una qualità semplicissima e vivida, ma che trovo assai difficile racchiudere in una parola. Tante parole sono ormai diventate slogan.
+
+Suppongo che i nostri critici, alla loro maniera erudita, ricorrerebbero alla poco nota parola greca [[Paradox|paradosso]], se io mi limitassi a dire che non sono abbastanza larghi di mente da poter essere cattolici. Nel loro gergo, avere la mente larga significa così spesso averla vuota.
+
+Se dicessi che soffrono di una mancanza di [[Imagination|immaginazione]], potrebbero supporre (il cielo li aiuti) che io intenda dire che ciò in cui crediamo è tutto immaginario. Né, in verità, alcuno di questi due termini definisce la cosa precisa che ho in mente. Sarei più vicino al segno se dicessi che non sanno vedere un argomento tutt'intorno; o che non sanno vedere alcuna cosa contro lo sfondo di tutto il resto.
+
+L'uomo dotto, di quel tipo che potrei chiamare cantabrigense, somiglia a chi spendesse anni interi nel tracciare una minuziosa carta topografica del territorio compreso fra Cork e Dublino, senza mai scoprire che l'Irlanda è un'isola. Non si tratta di comprendere qualcosa di difficile. Si tratta piuttosto di aprire la mente abbastanza da comprendere qualcosa di facile. Non lo si ottiene con anni di fatica; è più probabile ottenerlo in un momento di pigrizia, quando il cartografo che a lungo si è chinato sulla carta col naso incollato a Cork può abbandonarsi un istante all'indietro e vedere d'un tratto l'Irlanda. È assai più difficile indurre simili uomini ad abbandonarsi un istante all'indietro e vedere la Cristianità.
+
+La [[Catholic Church|Chiesa cattolica]] viene sempre definita nei termini della particolare contesa che le tocca avere con persone particolari in un luogo particolare. Poiché le sette protestanti dell'Europa settentrionale, per uno o due secoli, disapprovarono i rosari, l'incenso, le candele e i confessionali, si diffuse l'impressione che i cattolici romani fossero semplicemente gente cui piacevano i confessionali, le candele, l'incenso e i rosari. Ma non è ciò che direbbe dei cattolici romani un manicheo, un musulmano, un indù o un antico filosofo greco.
+
+I buddisti hanno l'incenso; i musulmani hanno qualcosa di molto simile ai rosari; e non v'è quasi essere umano pagano e sano su questa terra che possa concepire perché mai qualcuno debba nutrire un odio particolare verso le candele. I buddisti direbbero che i cattolici sono gente che insiste su un Dio personale e su un'[[Immortality|immortalità]] personale. I musulmani direbbero che i cattolici sono gente che crede che Dio abbia avuto un Figlio il quale assunse forma umana, e che non ritiene idolatrico che egli assuma poi forma pittorica o scultorea. Ogni gruppo del mondo avrebbe la sua propria angolatura o prospettiva; e il protestante a stento riconoscerebbe il medesimo oggetto che aveva considerato soltanto nella sua propria prospettiva.
+
+Nondimeno ciascuna di queste, presa in sé, è in un certo senso angusta; e soffermarvisi restringe la questione. Ciò che ci occorre è avere una qualche impressione generale dell'intero sfondo dell'umanità, e specialmente dell'umanità pagana, contro il quale si possa scorgere il profilo dell'oggetto, come, nella carta dell'Irlanda, l'isola si scorge contro il mare.
+
+Ora, il vero sfondo di tutta quella paganità umana è piuttosto uno sfondo grigio. Vi sono chiazze particolari, che si trovano vicine a noi nello spazio e nel [[Time|tempo]], le quali sono state ridipinte di fresco in vari modi. Ridipinte così di fresco che nessuno sa ancora quanto dureranno i colori. Come gli imperialisti volevano dipingere di rosso la carta, così gli internazionalisti e gli idealisti vogliono ora dipingerla di rosa. Ma nessuno di loro ha dipinto neppure la metà di quanto, nel loro ottimismo, hanno talora supposto. E persino nelle aree dove prevale una sorta di ottimismo ufficiale, come in certe parti d'[[America]], c'è molta più della vecchia, ordinaria [[Melancholy|malinconia]] degli uomini di quanta se ne potrebbe dedurre dai titoli dei giornali o dai programmi politici. E credo che la più generale [[philosophy|filosofia]] degli uomini lasciati a se stessi, e forse la più pratica illustrazione della Caduta dell'Uomo, sia una vaga impressione di Fato.
+
+Se un uomo vorrà davvero parlare coi poveri, in quasi ogni paese, credo che generalmente troverà che essi sono o cristiani o fatalisti. Questo fatalismo è più o meno vario e complicato, s'intende, nei diversi luoghi, da diverse mitologie o filosofie. Generalmente si scoprirà che la mitologia è una specie di poesia, che incarna un culto delle forze selvagge della [[Nature|natura]]; un culto della [[Nature|natura]] che, quando si frammenta, si chiama politeismo, e, quando si unifica, si chiama panteismo. Ma talvolta di teismo, nel panteismo, resta ben poco.
+
+Vi sono poi intere regioni dove esiste un vero teismo che è nondimeno permeato da un umore di fatalismo. Ciò, suppongo, è vero almeno per vaste aree dell'[[Islam]]. Vi sono poi quelle che si possono chiamare le filosofie della [[Resignation|rassegnazione]], che probabilmente coprono aree altrettanto vaste dell'antica civiltà dell'Asia.
+
+Non occorre qui insistere su alcun punto controverso contro queste cose, e nemmeno intorno ad esse. Ma do per certo che tutte quelle note di ricorrenza e di ritmo cosmico, e di un ciclo che comincia e finisce in se stesso, che si ripetono così di frequente a proposito del buddismo, del brahmanesimo e della teosofia, sono in senso generale imparentate con una sottomissione quasi impersonale a una legge in ultima analisi impersonale. È questo il tono dell'intera faccenda; e, come ho detto, il tono o la tinta di essa ci colpisce come piuttosto grigia; o almeno neutra e negativa.
+
+Lo stesso avviene per quasi tutto ciò che sappiamo dei miti e della metafisica dell'antichità pagana. È una calunnia moderna sui pagani rappresentare il paganesimo come pressoché identico al piacere. Ma comunque, nessuno che conosca la grande letteratura greca e latina, sia pure nella misura più minima, sognerà mai di identificare il paganesimo con l'ottimismo. Sarebbe quantomeno assai più vicino alla [[Truth|verità]] dire che lì, come ovunque altrove, il carattere fondamentale del paganesimo è il pessimismo. Ma in ogni caso, si può ben dire con equità che è il fatalismo.
+
+Su questo sfondo grigio v'è uno schizzo, una stella d'argento o d'oro; una cosa simile a una fiamma. È del tutto eccezionale e straordinaria. Fra i suoi molti caratteri straordinari, questo è forse il principale: che proclama la Libertà. O, come unico vero significato di quel termine, proclama la Volontà. Con voce strana, come di tromba dal cielo, narra una strana storia, la cui essenza stessa è che è fatta di Volontà, o di una libera divergenza di Volontà.
+
+La Volontà fece il mondo; la Volontà ferì il mondo; la medesima Volontà divina diede al mondo per la seconda [[Time|volta]] la sua opportunità; la medesima Volontà umana può per l'ultima [[Time|volta]] compiere la sua scelta. Ecco la vera, spiccata peculiarità, o eccentricità, della peculiare setta chiamata dei cattolici romani. E se qualcuno obietta al mio limitare una concezione così vasta ai cattolici romani, convengo volentieri che vi sono molti che la stimano tanto da dover evidentemente essere cattolici romani. Ma se qualcuno dice che essa non è di fatto e nella [[history|storia]] legata alla [[Faith|Fede]] del cattolicesimo romano, basta rinviarlo alla [[history|storia]] e ai fatti.
+
+Nessuno pose particolarmente in rilievo questa libertà spirituale finché non fu istituita la Chiesa. La gente cominciò all'istante a mettere in dubbio questa libertà spirituale, quando la Chiesa cominciò a frantumarsi. Nell'istante in cui una breccia, o anche solo una crepa, si aprì nella diga del cattolicesimo, vi si riversò dentro l'amaro mare del calvinismo, ossia, in altre parole, di una forma crudelissima di fatalismo. Da quel [[Time|tempo]] in poi, esso ha assunto la forma assai più scialba del determinismo. Questa tristezza e questo senso di schiavitù sono così generali nel genere umano che fecero immediatamente la loro comparsa non appena lo speciale messaggio spirituale di libertà fu, in qualche luogo, messo a tacere o interrotto. Ovunque quel messaggio venga udito, gli uomini pensano e parlano in termini di volontà e di scelta; e non trovano alcun senso in nessuna delle filosofie del fato, siano esse disperate o rassegnate.
+
+È vano parlare a un cattolico di ottimismo o di pessimismo; poiché sarà lui stesso a decidere se l'universo sarà, per lui, il migliore o il peggiore dei mondi possibili. È inutile dirgli che potrebbe essere più tutt'uno con la vita universale in quanto buddista o panteista; poiché egli sa che, in quel senso, potrebbe essere più tutt'uno con la vita universale in quanto rapa o albero. È tutta la sua [[Hope|speranza]] e la sua gloria il non essere tutt'uno con la vita universale; ma l'ergersi al di fuori di essa, un'eccezione e persino un miracolo.
+
+V'è un grande passo nel «Paradiso» di [[Dante]], che vorrei conoscere l'italiano abbastanza per apprezzare, o l'inglese abbastanza per tradurre. Ma lo raccomanderei a coloro che potessero immaginare che la mia insistenza su questa qualità eccezionale non sia che una moderna imbiancatura di una superstizione medievale; e specialmente a coloro cui fu insegnato, in laborioso dettaglio, da storici dotti e assai stolti, a considerare il medioevo come angusto e incatenato. Poiché suona all'incirca così:
+
+Lo maggior don che Dio per sua larghezza Fesse creando, e a la sua bontate Più conformato, e quel ch'e' più apprezza, Fu de la volontà la libertate.

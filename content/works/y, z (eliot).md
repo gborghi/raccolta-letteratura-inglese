@@ -2,7 +2,7 @@
 title: 'Y, Z'
 author: Eliot
 type: work
-cluster: Artist and Society · Truth · Regency/Georgian England
+cluster: Artist and Society · Truth · Regency Georgian England
 source: Authors/Eliot/_raw/124_Y_Z.md
 tags:
   - graph/work

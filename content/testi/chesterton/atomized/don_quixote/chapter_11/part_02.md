@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/don-quixote-(chesterton)">Don Quixote</a> › <a href="/testi/chesterton/atomized/don_quixote/chapter_11">Chapter 11</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/don_quixote/chapter_11/part_01">‹ part 01</a><a class="ex-next" href="/testi/chesterton/atomized/don_quixote/chapter_11/part_03">part 03 ›</a></div>
@@ -117,3 +119,116 @@ it almost reverently as a rounded and perfected thing, a poem.
 But if all went [[Well|well]], one consequence was likely enough to follow;
 and when he had waited for about ten minutes, he was gratified
 to find his calculation correct.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/don-quixote-(chesterton)">Don Quixote</a> › <a href="/testi/chesterton/atomized/don_quixote/chapter_11">Chapter 11</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/don_quixote/chapter_11/part_01">‹ part 01</a><a class="ex-next" href="/testi/chesterton/atomized/don_quixote/chapter_11/part_03">part 03 ›</a></div>
+</nav>
+
+In quel momento il [[Body|corpo]] della nostra umiliazione fu di nuovo
+scagliato con fracasso contro la porta; e pareva
+un [[Body|corpo]] di un certo peso e slancio e persino di una certa nobiltà.
+Il magistrato non era del tutto soddisfatto.  Pazienti o prigionieri
+(o comunque si dovessero chiamare le nuove vittime sociali) venivano invero
+spesso condotti nella stanza attigua ad attendere l'esame;
+ma di norma sotto la custodia di inservienti che avrebbero
+impedito loro di manifestare la propria impazienza in uno stile tanto vivace.
+L'unica altra ipotesi era che il folle nella stanza accanto fosse
+tanto straordinariamente vivace da aver ucciso il proprio guardiano.
+
+Qualunque altra cosa fosse il vecchio chirurgo militare, era un uomo di [[Courage|coraggio]].
+Si alzò dalla scrivania e andò verso la porta che era
+ancora scossa e vibrante per gli urti provenienti dall'interno.
+La guardò un istante col capo inclinato da un lato;
+poi deliberatamente la aprì.  Benché non mostrasse alcuna [[Fear|paura]],
+dovette dar prova di non poca agilità, balzando indietro per non essere
+steso lungo disteso a terra dalla cosa che uscì dalla stanza.
+In quel momento l'avrebbe definita una cosa piuttosto che un uomo.
+Aveva occhi sporgenti che gli uscivano dalla testa come corna;
+e il signor Wotton ebbe la confusa sensazione, a conferma della teoria
+del dottore, che la disgraziata creatura dovesse avere qualcosa che non andava
+negli occhi.  Aveva lunghi ciuffi fulvi di baffi e di capelli
+ritti in tutte le direzioni; giacché da qualche [[Time|tempo]] andava
+inutilmente spazzolandosi la chioma contro il muro.
+Fu solo quando piombò nella piena luce del giorno della stanza
+che il magistrato vide come indossasse un panciotto bianco
+e un paio di calzoni grigi, quali di rado portano un tricheco
+o persino un uomo selvatico dei boschi.
+
+«[[Well|Be']], comunque», borbottò, «è vestito, se non proprio
+nel pieno delle sue facoltà.»
+
+L'omone che era caduto attraverso la soglia si raddrizzò
+e si levò in piedi con uno sguardo piuttosto stralunato; le sue fulve
+zanne più aggressive che mai.  Ma presto risultò
+chiaro almeno che possedeva la facoltà della parola.
+Le sue prime esternazioni, essendo imprecazioni in una lingua continentale,
+avrebbero invero potuto essere scambiate per grida inarticolate;
+ma i due personaggi di scienza che lo stavano ascoltando
+furono presto in grado di riconoscere il suono del linguaggio scientifico
+che si districava da altre lingue straniere.
+In effetti il medico ufficiale stava stilando il suo rapporto ufficiale;
+ma non pareva affatto tale.
+
+La situazione era piuttosto dura per lui; e lo scherzo di cui egli era
+stato vittima non sarà seriamente difeso, ma solo silenziosamente goduto,
+dai saggi e dai buoni.  Anch'egli aveva una teoria assai completa sulle cause
+del crollo mentale tra i suoi concittadini.  Anch'egli sapeva ricondurre
+a cause fisiologiche e organiche la condizione mentale del suo prigioniero.
+Sapeva spiegare la [[Nature|natura]] della Repulsione Spinale con altrettanta assennatezza e
+serenità di quanto Hendry sapesse spiegare quella del Daltonismo.  Ma in qualche modo
+non gli era stata allestita una scena tanto favorevole alla sua esposizione.
+Nell'istante stesso in cui avrebbe dovuto far vela nella stanza del magistrato
+per presentare il rapporto, e Hendry avrebbe dovuto essere rinchiuso nella sala
+d'attesa ad aspettarne l'esito, lo spregiudicato signor Murrel aveva rapidamente
+rovesciato le posizioni dei due uomini di scienza, con i deplorevoli
+risultati che abbiamo già visto.  Il funzionario, trovandosi in trappola,
+si era comportato come spesso si comportano le persone assai sanguigne e sicure di sé
+quando accade loro qualcosa che non credono mai possibile.
+Giacché è l'uomo la cui vita procede con moto liscio e rapido,
+normalmente pago di [[Self|sé]] e sorridente, mai costretto
+a scansarsi per alcunché, quello che va a sbattere con fracasso contro un ostacolo reale.
+D'altra parte, la [[history|storia]] del povero Hendry era stata esattamente
+l'opposto.  Egli si era aggrappato pateticamente ai suoi modi cortesi,
+come all'unica reliquia della sua condizione sociale, attraverso cento umiliazioni;
+ed era avvezzo a spiegare le cose con eleganza ai creditori e ad assumere
+un tono colto e leggermente pedante nel parlare con i poliziotti.
+La conseguenza fu che, mentre il medico ufficiale ansimava e sbuffava
+e imprecava in modo incomprensibile, il folle certificato se ne stava
+col capo graziosamente inclinato da un lato, emettendo un lieve chiocciare
+in gola per significare il proprio dolore alla rovina della mente umana.
+Il chirurgo militare guardò per un istante dall'uno all'altro, poi
+fissò gli occhi sullo straniero che imprecava; come li aveva fissati su molti
+maniaci omicidi in passato.  Fu così che questi tre illustri uomini di medicina
+finalmente si incontrarono; in un consulto piuttosto informale.
+
+Fuori, nella via che si inerpicava follemente verso la scogliera sul mare,
+Douglas Murrel sedeva in cima alla sua vettura, col viso rivolto
+al cielo come chi ha compiuto un lavoro [[Well|bene]] e degnamente.
+Portava un cilindro nero straordinariamente ammaccato e sciupato,
+che non era suo; ché aveva comprato il cappello insieme con la vettura;
+per quanto fosse il genere di cappello che un uomo avrebbe [[Well|ben]] potuto essere
+pagato per indossare, anziché pagare per indossarlo.  Serviva al suo
+particolare scopo, tuttavia, con grande semplicità e [[success|successo]].
+Il cappello domina e definisce una figura vestita di abiti dimessi
+e incolori; e finché lo portava passava abbastanza
+[[Well|bene]] per il conducente di un veicolo tanto antiquato.
+Quando se lo toglieva e si insinuava tra i funzionari,
+con i capelli [[Well|ben]] spazzolati e i modi signorili, costoro non avevano
+ragione di [[Doubt|dubitare]] delle sue pretese a una diversa posizione.
+In cima alla vettura, però, aveva rimesso il cappello;
+non senza pompa, come un conquistatore potrebbe [[Crown|incoronarsi]] d'alloro.
+
+Credeva di sapere ciò che probabilmente sarebbe accaduto e decise
+di attenderlo.  La conclusione dell'immediato dramma dell'esperto
+[[government|governativo]] catturato non si aspettava di vederla a quello stadio;
+si ripromise che, se le cose fossero andate troppo oltre, avrebbe potuto
+mettersi in contatto con le autorità più tardi.  Così invece la lasciava
+quasi con reverenza come cosa compiuta e perfetta, una poesia.
+Ma se tutto fosse andato [[Well|bene]], una conseguenza aveva buone probabilità di seguirne;
+e quando ebbe atteso circa dieci minuti, ebbe la soddisfazione
+di trovare esatto il proprio calcolo.

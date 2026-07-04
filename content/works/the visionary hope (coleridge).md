@@ -2,7 +2,7 @@
 title: THE VISIONARY HOPE
 author: Coleridge
 type: work
-cluster: Unrequited / Frustrated Love · Unattainable Beloved · Petrarchan Sonnet
+cluster: Unrequited Frustrated Love · Unattainable Beloved · Petrarchan Sonnet
 source: Authors/Coleridge/_raw/240_THE_VISIONARY_HOPE.md
 tags:
   - graph/work

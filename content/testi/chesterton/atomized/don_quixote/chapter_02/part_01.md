@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/don-quixote-(chesterton)">Don Quixote</a> › <a href="/testi/chesterton/atomized/don_quixote/chapter_02">Chapter 02</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/don_quixote/chapter_20">‹ Chapter 20</a><a class="ex-next" href="/testi/chesterton/atomized/don_quixote/chapter_02/part_02">part 02 ›</a></div>
@@ -134,3 +136,42 @@ His face, which was plain but not common-place, habitually wore
 a dolorous expression which was almost comic; especially in
 connection with the sporting colours of his neckties and waistcoats,
 which were almost as lively as the colours on his brush.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/don-quixote-(chesterton)">Don Quixote</a> › <a href="/testi/chesterton/atomized/don_quixote/chapter_02">Chapter 02</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/don_quixote/chapter_20">‹ Chapter 20</a><a class="ex-next" href="/testi/chesterton/atomized/don_quixote/chapter_02/part_02">part 02 ›</a></div>
+</nav>
+
+CAPITOLO I
+
+UNA FALLA NELLA CASTA
+
+L'estremità della sala più lunga di Seawood Abbey era inondata di luce; poiché le pareti erano quasi interamente fatte di finestre e la sala si affacciava su un tratto a terrazza del [[Garden|giardino]] soprastante il parco, in un mattino quasi senza nubi. Murrel, chiamato Monkey per una qualche ragione che tutti avevano ormai dimenticato, e Olive Ashley approfittavano di quella luce per dedicarsi alla pittura; benché ella dipingesse in scala assai minuta ed egli in scala assai grande. Ella disponeva con estrema cura pigmenti particolari, a [[Imitation|imitazione]] della piatta oreficeria della miniatura medievale, per la quale nutriva un grande entusiasmo, come parte di una nozione piuttosto vaga di un passato storico. Egli, invece, era quanto mai moderno, e si affannava con parecchi secchi colmi di colori assai grezzi e con pennelli che raggiungevano la statura di scope. Con questi menava fendenti su ampi fogli di stecca e di tela, destinati a fare da scenario in certe recite private allora in preparazione. Nessuno dei due sapeva dipingere; né immaginava di saperlo. Ma ella, in un certo senso, cercava di farlo; ed egli no.
+
+«È [[Well|facile]] per te parlare di dissonanze», stava dicendo con una punta di difesa, poiché ella era una signora dallo spirito critico, «ma il tuo stile di pittura restringe la mente. In fondo, la scenografia non è che miniatura vista al microscopio.»
+
+«Detesto i microscopi», osservò ella brevemente.
+
+«[[Well|Beh]], tu hai l'aria di averne bisogno, a scrutare così quella roba», ribatté il suo compagno, «anzi, mi pare d'aver visto certa gente avvitarsi un affare enorme nell'occhio mentre lo faceva. [[Hope|Spero]] che tu non arrivi a tanto: non si addirebbe affatto al tuo stile.»
+
+Ciò era vero, non c'è [[Doubt|dubbio]], poiché ella era una ragazza piccola e snella, dai lineamenti scuri e delicati di quel tipo che si dice regolare; e il suo abito verde scuro, estetico ma agli antipodi del bohémien, aveva qualcosa d'affine alle piccole severità del suo compito. C'era nei suoi gesti una sfumatura vagamente da zitella, benché ella fosse giovanissima. Era degno di nota che, mentre la stanza era cosparsa di carte e di strofinacci e dei fallimenti sgargianti dell'arte del signor Murrel, la sua scatola di colori piatti, con l'astuccio e i minori accessori, fosse disposta intorno a lei con protettiva precisione. Non era di quelle a cui è destinato il foglietto di avvertenze talvolta venduto insieme alle scatole di colori; e non era mai stato necessario esortarla a non mettersi il pennello in bocca.
+
+«Quel che voglio dire», riprese, tornando al tema dei microscopi, «è che tutta la tua scienza e la tua roba moderna non hanno fatto che rendere brutte le cose, e brutta [[Well|anche]] la gente. Non ho più voglia di guardare in un microscopio di quanta ne abbia di guardare in un tombino. Non si vede che una quantità di orribili bestioline che brulicano. Non voglio proprio guardare in basso. Ecco perché amo tutta questa vecchia pittura e architettura gotica; nel gotico tutte le linee salgono, dritte fino alla guglia stessa che indica il cielo.»
+
+«È una scortesia bella e buona», disse Murrel, «e credo che avrebbero potuto darci atto di aver notato il cielo.»
+
+«Sai benissimo [[Well|cosa]] intendo», replicò la signora, dipingendo placidamente, «tutta l'originalità di quei medievali stava nel modo in cui costruivano le loro chiese. Il loro punto essenziale erano gli archi a sesto acuto.»
+
+«E le lance dal punto acuto», assentì egli. «Quando non facevi ciò che loro gradivano, ti pungolavano e basta. Troppo acute, secondo me. Quasi al limite dell'allusione.»
+
+«Comunque a quei tempi i gentiluomini si pungolavano l'un l'altro con le lance», rispose Olive, «non andavano a sedersi su poltrone di felpa per vedere un irlandese che tempesta di pugni un negro. Non assisterei per nulla al mondo a un incontro di pugilato moderno; ma non mi dispiacerebbe affatto essere una dama a uno degli antichi tornei.»
+
+«Tu potresti essere una dama, ma io non sarei un signore», disse cupo lo scenografo. «Non è la mia fortuna. Anche se fossi un [[King|re]], finirei soltanto affogato in una botte di malvasia per non sorridere mai più. Ma è più da me nascere servo della gleba o qualcosa del genere. Un lebbroso, o qualche altra istituzione medievale del genere. Sì, andrebbe proprio così: nell'istante stesso in cui ficcassi il naso nel Duecento verrei nominato Lebbroso Capo del [[King|re]] o di qualcun altro; e dovrei sbirciare in chiesa attraverso quella famosa piccola [[Window|finestrella]].»
+
+«Al momento non sbirci in chiesa attraverso alcuna [[Window|finestra]]», osservò la signora, «né ti è mai venuto in mente di farlo neppure attraverso la porta.»
+
+«Oh, tutto ciò lo lascio a te», disse egli, e si mise a schizzare colore in [[Silence|silenzio]]. Era impegnato in un modesto interno, «La Sala del Trono di [[Richard]] Cuor di [[Lion|Leone]]», che trattava in uno schema di scarlatto, cremisi e porpora che la signorina Ashley si sforzava invano di arginare; benché ella avesse davvero qualche diritto di protesta in materia, avendo sia scelto il soggetto medievale sia perfino scritto il dramma, per quanto glielo consentissero i suoi più burloni collaboratori. Trattava tutto di Blondel, il Trovatore, che portava serenate a Cuor di [[Lion|Leone]] e a molte altre persone; compresa la figlia di [[house|casa]]; la quale era dedita al teatro e lo teneva impegnato in quell'arte. L'Onorevole Douglas Murrel, ovvero Monkey, affrontava allegramente il proprio in[[success|successo]] nella scenografia, essendo riuscito con pari infelicità in molte altre cose. Era uomo di vasta cultura, e aveva fallito in ogni materia. Aveva fallito soprattutto in politica; essendo stato un tempo definito il futuro capo del suo partito, qualunque esso fosse. Ma nel momento supremo non era riuscito a cogliere il nesso logico tra il principio di tassare le riserve di caccia al cervo e quello di conservare un vecchio modello di fucile per l'esercito indiano: e il nipote di un usuraio alsaziano, al cui limpido cervello il nesso appariva più evidente, gli era scivolato al posto. Da allora aveva mostrato quel gusto per la bassa compagnia che ha tenuto tanti aristocratici lontani dai guai e il loro paese lontano dal pericolo, e lo aveva mostrato in modo incongruo (come talvolta accade a costoro) avendo qualcosa di vagamente gergale e da stalla nel vestire stesso e nell'aspetto, come di uno stalliere senza scopo. Aveva i capelli chiarissimi e che cominciavano a imbiancare assai prematuramente; poiché anch'egli era giovane, benché di molti anni più anziano della sua compagna. Il suo volto, che era comune ma non banale, portava abitualmente un'espressione dolorosa quasi comica; specie in accostamento ai colori sportivi delle sue cravatte e dei suoi panciotti, quasi altrettanto vivaci dei colori sul suo pennello.

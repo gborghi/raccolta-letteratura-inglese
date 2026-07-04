@@ -2,7 +2,7 @@
 title: 'Bravo, Paris Exposition!'
 author: Whitman
 type: work
-cluster: Nationalism and Patriotism · Democracy · Liberty / Political Freedom
+cluster: Nationalism and Patriotism · Democracy · Liberty Political Freedom
 source: Authors/Whitman/_raw/363_Bravo_Paris_Exposition.md
 tags:
   - graph/work

@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/don-quixote-(chesterton)">Don Quixote</a> › <a href="/testi/chesterton/atomized/don_quixote/chapter_03">Chapter 03</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/don_quixote/chapter_02/part_03">‹ part 03</a><a class="ex-next" href="/testi/chesterton/atomized/don_quixote/chapter_03/part_02">part 02 ›</a></div>
@@ -153,3 +155,151 @@ women are decent to them, and everybody's decent to them;
 and the [[Time|time]] comes when they become just--[[Well|well]], what do you
 call a man who has a letter to deliver from his friend and is
 afraid to deliver it?"
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/don-quixote-(chesterton)">Don Quixote</a> › <a href="/testi/chesterton/atomized/don_quixote/chapter_03">Chapter 03</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/don_quixote/chapter_02/part_03">‹ part 03</a><a class="ex-next" href="/testi/chesterton/atomized/don_quixote/chapter_03/part_02">part 02 ›</a></div>
+</nav>
+
+CAPITOLO II
+
+UN UOMO PERICOLOSO
+
+John Braintree era un giovane alto, magro e vigile, con la barba nera
+e un cipiglio nero che pareva, in una certa misura, portare per principio,
+come la sua cravatta rossa. Poiché, quando sorrideva, come fece per un
+istante alla vista delle scenografie di Murrel, aveva un'aria abbastanza
+gradevole. Presentato alla dama, s'inchinò con una cortesia formale e
+quasi rigida; quello stile un tempo proprio degli aristocratici, ma oggi
+assai più comune tra gli artigiani [[Well|bene]] educati; poiché Braintree
+aveva cominciato la vita come ingegnere.
+
+«Sono venuto quassù perché me l'hai chiesto, Douglas» disse,
+«ma ti dico che è inutile.»
+
+«Non ti piace il mio schema di colori?» chiese Murrel.
+«È molto ammirato.»
+
+«[[Well|Beh]]» replicò l'altro, «non so se mi piaccia poi tanto che tu
+spalmi un romantico porpora su tutta quella vecchia tirannia feudale e
+superstizione; ma non è questa la mia difficoltà. Senti, Douglas; sono
+venuto qui col preciso patto di poter dire ciò che mi pareva; e tuttavia,
+malgrado ciò, non ho particolarmente voglia di parlar male dell'uomo nella
+[[house|casa]] di lui, se posso evitarlo. Perciò forse il modo più breve
+di esporre la difficoltà sarà dire che il [[Union|Sindacato]] dei minatori,
+qui, ha proclamato uno sciopero; e che io sono il segretario del
+[[Union|Sindacato]] dei minatori. E poiché sto cercando di rovinargli il
+lavoro restando fuori, penso che sarebbe un po' meschino rovinargli lo
+spettacolo entrando in scena.»
+
+«Per che cosa scioperate?» chiese Archer.
+
+«[[Well|Beh]], vogliamo più denaro» rispose Braintree freddamente. «Quando
+due penny comprano appena una pagnotta da un penny, vogliamo due penny per
+comprarla. La chiamano la complessità del Sistema Industriale. Ma ciò che
+per il [[Union|Sindacato]] conta ancora di più è la richiesta di riconoscimento.»
+
+«Riconoscimento di che cosa?»
+
+«[[Well|Beh]], vede, il [[Union|Sindacato]] dei mestieri non esiste. È una
+tirannia opprimente, e minaccia di distruggere tutto il commercio britannico;
+ma non esiste. L'unica cosa di cui Lord Seawood e tutti i suoi critici più
+indignati sono certi è che non esiste. E così, per suggerire che una simile
+entità potrebbe forse esistere, ci riserviamo il diritto di scioperare.»
+
+«E lasciare tutto il povero pubblico senza carbone,
+suppongo» gridò Archer con foga, «se lo fate, credo
+che scoprirete che l'opinione pubblica è un po' troppo forte per voi.
+Se non volete estrarre il carbone e il [[government|Governo]] non vi costringe,
+troveremo gente che lo estragga. Io, per esempio, garantirei
+per un centinaio di giovani di [[Oxford]] e di Cambridge o della [[City]],
+che non si farebbero scrupolo di lavorare in miniera per mandare all'aria la vostra congiura.»
+
+«Già che ci siete» replicò Braintree con disprezzo,
+«potreste [[Well|anche]] procurarvi un centinaio di minatori per finire
+la miniatura della signorina Ashley. L'attività mineraria è un mestiere
+molto specializzato, mio buon signore. Un minatore non è uno scaricatore
+di carbone. Come scaricatore di carbone potreste far molto [[Well|bene]].»
+
+«Suppongo che lo intendiate come un insulto» disse Archer.
+
+«Oh, no» rispose Braintree, «come un complimento.»
+
+Murrel s'interpose in tono conciliante. «Ecco, vi state tutti convertendo alla mia idea;
+prima uno scaricatore di carbone, suppongo, e poi uno spazzacamino e così via,
+fino al nero perfetto.»
+
+«Ma non siete un sindacalista?» chiese Olive con estrema severità.
+Poi, dopo una pausa, aggiunse: «Che cos'è un sindacalista?»
+
+«Il modo più breve di dirlo, direi» disse Braintree,
+con maggior riflessione, «sarebbe dire che, a nostro avviso,
+la miniera dovrebbe appartenere al minatore.»
+
+«La miniera è mia, insomma» disse Murrel, «un bel motto feudale medievale.»
+
+«Trovo che quel motto sia molto moderno» osservò Olive un po' acidula,
+«ma come ve la cavereste col minatore che possiede la miniera?»
+
+«Idea ridicola, non è vero?» disse il sindacalista. «Tanto [[Well|varrebbe]]
+parlare del pittore che possiede la scatola dei colori.»
+
+Olive [[Rose|si alzò]] e si diresse alle portefinestre che davano aperte sul [[Garden|giardino]];
+e guardò fuori, aggrottando le sopracciglia. Il cipiglio era in parte rivolto al sindacalista,
+ma in parte anche a certi suoi pensieri. Dopo qualche minuto di
+[[Silence|silenzio]], uscì sul vialetto di ghiaia e si allontanò lentamente.
+C'era nel gesto un certo rimprovero contenuto; ma Braintree
+era troppo acceso nel suo intellettualismo per farci caso.
+
+«Non credo» proseguì, «che nessuno abbia mai compreso
+quanto sia folle e utopistico che un violinista possieda il proprio violino.»
+
+«Oh, sciocchezze, voi e il vostro violino» esclamò l'impetuoso signor Archer,
+«come può una massa d'individui volgari...»
+
+Murrel ancora una volta spostò il discorso sulle sue frivolezze originarie.
+
+«[[Well|Beh]], [[Well|beh]]» disse, «questi problemi sociali non si risolveranno mai
+finché non ripiegheremo sul mio espediente. Tutta la nobiltà e la cultura
+di Francia si radunò per veder Luigi XVI indossare il berretto rosso.
+Che spettacolo sarà quando tutti i nostri artisti e maestri del pensiero
+si raduneranno per vedermi tingere reverentemente di nero il volto di Lord Seawood.»
+
+Braintree fissava ancora Julian Archer con volto adombrato.
+
+«Per ora» disse, «i nostri artisti e maestri sono arrivati
+soltanto a lustrargli gli stivali.»
+
+Archer balzò in piedi come se fosse stato nominato tanto [[Well|quanto]] guardato.
+
+«Quando si accusa un gentiluomo di annerire stivali» disse,
+«c'è il pericolo che finisca invece per annerire occhi.»
+
+Braintree cavò un pugno ossuto dalla tasca.
+
+«Oh, ve l'ho detto» disse, «che ci riserviamo il diritto di scioperare.»
+
+«Non fate gli sciocchi, né l'uno né l'altro» insistette il paciere,
+interponendo il suo grosso pennello rosso, «non scalmanarti, Jack.
+Ci metterai il piede in mezzo... nelle tende rosse di [[King|Re]] [[Richard|Riccardo]].»
+
+Archer si ritirò lentamente al suo posto; e il suo antagonista,
+dopo un istante d'esitazione, si volse per uscire dalle
+finestre aperte.
+
+«Non temere» ringhiò, «non farò un buco nella tua tela.
+Mi accontento d'aver fatto un buco nella tua casta.
+Che cosa vuoi da me? So che sei davvero un gentiluomo;
+eppure mi piaci lo stesso. Ma che bene ha mai fatto a noi
+il tuo essere un gentiluomo vero o un gentiluomo finto?
+Sai [[Well|bene]] quanto me che uomini come me vengono invitati in case
+come questa, e ci vanno per dire una parola in favore dei loro compagni;
+e voi siete gentili con loro, e ogni sorta di belle
+donne è gentile con loro, e tutti sono gentili con loro;
+e viene il [[Time|momento]] in cui diventano proprio... [[Well|beh]], come
+chiamate un uomo che ha una lettera da consegnare da parte dell'amico e ha
+paura di consegnarla?»

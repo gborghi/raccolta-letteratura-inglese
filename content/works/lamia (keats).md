@@ -2,7 +2,7 @@
 title: Lamia
 author: Keats
 type: work
-cluster: Greek Mythology · Lust / Sexual Desire · Desire
+cluster: Greek Mythology · Lust Sexual Desire · Desire
 source: Authors/Keats/_raw/140_Lamia.md
 tags:
   - graph/work

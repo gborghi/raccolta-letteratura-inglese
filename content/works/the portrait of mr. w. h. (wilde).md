@@ -2,7 +2,7 @@
 title: The Portrait of Mr. W. H.
 author: Wilde
 type: work
-cluster: Artist and Society · Truth · Regency/Georgian England
+cluster: Artist and Society · Truth · Regency Georgian England
 source: Authors/Wilde/_raw/010_The_Portrait_of_Mr_W_H.md
 tags:
   - graph/work

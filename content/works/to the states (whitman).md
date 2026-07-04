@@ -2,7 +2,7 @@
 title: To the States
 author: Whitman
 type: work
-cluster: Nationalism and Patriotism · Democracy · Liberty / Political Freedom
+cluster: Nationalism and Patriotism · Democracy · Liberty Political Freedom
 source: Authors/Whitman/_raw/012_To_the_States.md
 tags:
   - graph/work

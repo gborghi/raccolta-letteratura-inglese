@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/don-quixote-(chesterton)">Don Quixote</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/don_quixote/chapter_10">‹ Chapter 10</a><a class="ex-next" href="/testi/chesterton/atomized/don_quixote/chapter_12">Chapter 12 ›</a></div>
@@ -385,5 +387,387 @@ out of the [[Window|window]] like that.  . . . if I should be passing
 some [[Time|time]] . . . ?"
 
 "Yes." She said, "I often look out of the [[Window|window]]."
+
+-^-
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/don-quixote-(chesterton)">Don Quixote</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/don_quixote/chapter_10">‹ Chapter 10</a><a class="ex-next" href="/testi/chesterton/atomized/don_quixote/chapter_12">Chapter 12 ›</a></div>
+</nav>
+<nav class="excerpt-children">
+<div class="excerpt-children-label">In questa sezione</div>
+<ul><li><a href="/testi/chesterton/atomized/don_quixote/chapter_11/part_01">Part 1</a></li><li><a href="/testi/chesterton/atomized/don_quixote/chapter_11/part_02">Part 2</a></li><li><a href="/testi/chesterton/atomized/don_quixote/chapter_11/part_03">Part 3</a></li></ul>
+</nav>
+
+CAPITOLO X
+
+QUANDO I MEDICI DISSENTONO
+
+La [[house|casa]] dal portico colonnato verso cui l'arrancante vettura
+finì per arrancare aveva ben poco che la distinguesse da una prospera
+[[house|casa]] privata.  Giacché l'indirizzo di tutte le recenti leggi e
+consuetudini era stato quello di condurre in privato le faccende pubbliche.
+Il funzionario era tanto più onnipotente in quanto vestiva sempre
+in borghese.  Era possibile condurre la gente da e verso un simile
+luogo senza alcuna particolare ostentazione di violenza;
+semplicemente perché tutti sapevano che la violenza sarebbe stata inutile.
+Il medico si era ormai abituato a portarsi via con noncuranza i suoi
+pazienti folli in una vettura; e costoro di rado facevano storie.
+Non erano poi così folli.
+
+Questa particolare sede della nuova Commissione per l'Alienazione Mentale
+era stata istituita in città soltanto di recente; ché la disseminazione
+di simili uffici nei centri minori era stata un ripensamento.
+Gli inservienti che se ne stavano quatti in agguato nel vestibolo o aprivano
+cancelli e porte erano nuovi, se non al mestiere, almeno
+al quartiere.  E il magistrato che sedeva in una stanza
+interna, per esaminare i casi via via che si presentavano, era il più nuovo
+di tutti.  Purtroppo, per quanto nuovo, era anche vecchio.
+Aveva svolto lo stesso lavoro in molti altri luoghi; e ne aveva così contratto
+l'abitudine di sbrigarlo scorrevolmente, rapidamente e pericolosamente [[Well|bene]].
+Ma cominciava a essere un po' troppo vecchio per fare alcunché.
+La vista non era più quella di un tempo; l'udito non era quello che egli credeva
+fosse.  Era un chirurgo militare in pensione, di nome Wotton.
+Aveva baffi grigi accuratamente regolati, e un'espressione piuttosto
+assonnata; era giunto a una fase piuttosto assonnata tanto
+del lavoro di quella giornata quanto del lavoro di tutta la sua vita.
+
+Aveva sulla scrivania una quantità di carte, fra cui un promemoria
+di certi appuntamenti fissati per quel pomeriggio in relazione alla
+Commissione per l'Alienazione.  Nella sua stanza profonda e comodamente imbottita
+non udì naturalmente la scalcinata vettura arrancare fino alla porta;
+e ancor meno la manovra rapida e silenziosa con cui un signore dai modi distinti
+aiutò i due occupanti a scendere e, con molte frasi cortesi,
+riuscì a sospingerli nella stanza esterna dell'edificio.
+Quel tale era d'aspetto così signorile che per il momento nessuno pensò
+di mettere in dubbio il suo diritto di fare da intermediario; gli inservienti
+in servizio lo accolsero come un pezzo evidentemente assai levigato dell'ingranaggio,
+e persino il medico ufficiale si lasciò con cortesia
+indicare la via, con un cenno, verso una stanza laterale a sinistra del sancta sanctorum del magistrato.
+Forse, se avessero guardato dalla [[Window|finestra]] un istante prima,
+e avessero visto quel signore cadere giù dalla cima della vettura,
+ne sarebbero rimasti più turbati.  Comunque fosse, il medico ufficiale
+cominciò a turbarsi assai decisamente quando quel signore
+(che egli aveva scorto solo in penombra su una scala buia e appena
+cominciato vagamente a riconoscere) non soltanto si chiuse la porta alle spalle
+con un cortese inchino, ma d'un tratto la serrò a chiave.
+
+Di tutto ciò il magistrato non udì nulla; poiché la cosa fu compiuta
+con silenziosa rapidità in mezzo a quello slancio della routine che
+dorme come una trottola in movimento.  Il primo avviso che ne ebbe fu
+un colpo alla porta e una voce che diceva: «Da questa parte, dottore».
+Era prassi consueta, in casi simili, che l'uomo di medicina
+responsabile dell'internamento avesse un colloquio prima col magistrato;
+il quale poi aveva un colloquio (di solito assai più breve) con la vittima.
+Quel particolare pomeriggio il signor Wotton sperava che entrambi i colloqui
+fossero davvero brevissimi.  Non alzò gli occhi dalle sue carte,
+ma si limitò a dire: «È il Caso n. 9.871, non è vero; un caso
+di mania di cospirazione, mi pare».
+
+Il dottor Hendry inclinò il capo nel suo modo più aggraziato.
+«La cospirazione è, naturalmente, un sintomo piuttosto che una causa», disse.
+«La causa è puramente fisica... puramente fisica», e tossì
+in maniera raffinata.  «Non c'è bisogno che ci si dica, a quest'[[Time|ora]] del giorno,
+che la distorsione dei sensi si ripercuote sul cervello, eh?
+In questo caso ho i più validi motivi per supporre che il disturbo
+sia sorto in origine da una malattia assai comune del nervo ottico.
+Il procedimento con cui sono giunto a questa conclusione è di per sé
+piuttosto interessante.»
+
+Al termine di circa dieci minuti, apparve chiaro che il signor Wotton non
+era di quel parere.  Il capo gli era ancora chino sulle carte e di conseguenza
+non studiava direttamente la figura che gli stava davanti.  Se l'avesse fatto, avrebbe forse
+concepito qualche sospetto per gli abiti straordinariamente logori del dottor Hendry.
+Così invece udiva soltanto la voce straordinariamente colta del dottor Hendry.
+
+«Non credo che occorra addentrarci in tutto questo», disse infine,
+dopo che il suo visitatore vi si era addentrato per un bel pezzo,
+e pareva allarmantemente capace di addentrarvisi ancora molto di più.
+«Se è sicuro che si tratta di un caso di quel genere, un caso di mania
+davvero pericolosa, immagino che vada bene.»
+
+«In tutta la mia esperienza», disse il dottor Hendry solennemente, e con pieno
+senso di responsabilità, «non ne ho mai conosciuto uno più chiaro.
+Questa questione ottica sta diventando [[Grave|grave]], signore.  Sta diventando minacciosa.
+Persino in questo momento, mentre parlo, persone indiscutibilmente pazze
+vanno errando per il mondo, e per giunta pronunciano pareri
+autorevoli su argomenti scientifici.  Non più tardi dell'altro giorno...»
+
+In quel momento la sua voce melodiosa e persuasiva fu per un istante sommersa
+da suoni assai notevoli provenienti dalla stanza attigua.
+Il rumore somigliava a quello di un [[Body|corpo]] enorme e pesante scagliato
+contro la porta; e nel [[Silence|silenzio]] che seguì si udì, attraverso la spessa
+parete, qualcosa come imprecazioni gutturali, roche e fioche per il furore.
+
+«Santo cielo!» esclamò il signor Wotton, destandosi di soprassalto e alzando
+gli occhi per la prima [[Time|volta]].  «Che diamine è stato?»
+
+Il dottor Hendry scosse il capo con una bella tristezza,
+ma continuò a sorridere.
+
+«La nostra è un'occupazione [[Melancholy|malinconica]]», disse.  «Aver a che fare con gli aspetti più deboli e
+più selvaggi della nostra [[Nature|natura]] decaduta... il [[Body|corpo]] della nostra umiliazione,
+mi pare sia nel Testamento greco... il [[Body|corpo]] della nostra umiliazione.
+Suona anche troppo simile al dibattersi di qualche disgraziato che la società
+trova triste necessità di dover contenere.»
+
+In quel momento il [[Body|corpo]] della nostra umiliazione fu di nuovo
+scagliato con fracasso contro la porta; e pareva
+un [[Body|corpo]] di un certo peso e slancio e persino di una certa nobiltà.
+Il magistrato non era del tutto soddisfatto.  Pazienti o prigionieri
+(o comunque si dovessero chiamare le nuove vittime sociali) venivano invero
+spesso condotti nella stanza attigua ad attendere l'esame;
+ma di norma sotto la custodia di inservienti che avrebbero
+impedito loro di manifestare la propria impazienza in uno stile tanto vivace.
+L'unica altra ipotesi era che il folle nella stanza accanto fosse
+tanto straordinariamente vivace da aver ucciso il proprio guardiano.
+
+Qualunque altra cosa fosse il vecchio chirurgo militare, era un uomo di [[Courage|coraggio]].
+Si alzò dalla scrivania e andò verso la porta che era
+ancora scossa e vibrante per gli urti provenienti dall'interno.
+La guardò un istante col capo inclinato da un lato;
+poi deliberatamente la aprì.  Benché non mostrasse alcuna [[Fear|paura]],
+dovette dar prova di non poca agilità, balzando indietro per non essere
+steso lungo disteso a terra dalla cosa che uscì dalla stanza.
+In quel momento l'avrebbe definita una cosa piuttosto che un uomo.
+Aveva occhi sporgenti che gli uscivano dalla testa come corna;
+e il signor Wotton ebbe la confusa sensazione, a conferma della teoria
+del dottore, che la disgraziata creatura dovesse avere qualcosa che non andava
+negli occhi.  Aveva lunghi ciuffi fulvi di baffi e di capelli
+ritti in tutte le direzioni; giacché da qualche [[Time|tempo]] andava
+inutilmente spazzolandosi la chioma contro il muro.
+Fu solo quando piombò nella piena luce del giorno della stanza
+che il magistrato vide come indossasse un panciotto bianco
+e un paio di calzoni grigi, quali di rado portano un tricheco
+o persino un uomo selvatico dei boschi.
+
+«[[Well|Be']], comunque», borbottò, «è vestito, se non proprio
+nel pieno delle sue facoltà.»
+
+L'omone che era caduto attraverso la soglia si raddrizzò
+e si levò in piedi con uno sguardo piuttosto stralunato; le sue fulve
+zanne più aggressive che mai.  Ma presto risultò
+chiaro almeno che possedeva la facoltà della parola.
+Le sue prime esternazioni, essendo imprecazioni in una lingua continentale,
+avrebbero invero potuto essere scambiate per grida inarticolate;
+ma i due personaggi di scienza che lo stavano ascoltando
+furono presto in grado di riconoscere il suono del linguaggio scientifico
+che si districava da altre lingue straniere.
+In effetti il medico ufficiale stava stilando il suo rapporto ufficiale;
+ma non pareva affatto tale.
+
+La situazione era piuttosto dura per lui; e lo scherzo di cui egli era
+stato vittima non sarà seriamente difeso, ma solo silenziosamente goduto,
+dai saggi e dai buoni.  Anch'egli aveva una teoria assai completa sulle cause
+del crollo mentale tra i suoi concittadini.  Anch'egli sapeva ricondurre
+a cause fisiologiche e organiche la condizione mentale del suo prigioniero.
+Sapeva spiegare la [[Nature|natura]] della Repulsione Spinale con altrettanta assennatezza e
+serenità di quanto Hendry sapesse spiegare quella del Daltonismo.  Ma in qualche modo
+non gli era stata allestita una scena tanto favorevole alla sua esposizione.
+Nell'istante stesso in cui avrebbe dovuto far vela nella stanza del magistrato
+per presentare il rapporto, e Hendry avrebbe dovuto essere rinchiuso nella sala
+d'attesa ad aspettarne l'esito, lo spregiudicato signor Murrel aveva rapidamente
+rovesciato le posizioni dei due uomini di scienza, con i deplorevoli
+risultati che abbiamo già visto.  Il funzionario, trovandosi in trappola,
+si era comportato come spesso si comportano le persone assai sanguigne e sicure di sé
+quando accade loro qualcosa che non credono mai possibile.
+Giacché è l'uomo la cui vita procede con moto liscio e rapido,
+normalmente pago di [[Self|sé]] e sorridente, mai costretto
+a scansarsi per alcunché, quello che va a sbattere con fracasso contro un ostacolo reale.
+D'altra parte, la [[history|storia]] del povero Hendry era stata esattamente
+l'opposto.  Egli si era aggrappato pateticamente ai suoi modi cortesi,
+come all'unica reliquia della sua condizione sociale, attraverso cento umiliazioni;
+ed era avvezzo a spiegare le cose con eleganza ai creditori e ad assumere
+un tono colto e leggermente pedante nel parlare con i poliziotti.
+La conseguenza fu che, mentre il medico ufficiale ansimava e sbuffava
+e imprecava in modo incomprensibile, il folle certificato se ne stava
+col capo graziosamente inclinato da un lato, emettendo un lieve chiocciare
+in gola per significare il proprio dolore alla rovina della mente umana.
+Il chirurgo militare guardò per un istante dall'uno all'altro, poi
+fissò gli occhi sullo straniero che imprecava; come li aveva fissati su molti
+maniaci omicidi in passato.  Fu così che questi tre illustri uomini di medicina
+finalmente si incontrarono; in un consulto piuttosto informale.
+
+Fuori, nella via che si inerpicava follemente verso la scogliera sul mare,
+Douglas Murrel sedeva in cima alla sua vettura, col viso rivolto
+al cielo come chi ha compiuto un lavoro [[Well|bene]] e degnamente.
+Portava un cilindro nero straordinariamente ammaccato e sciupato,
+che non era suo; ché aveva comprato il cappello insieme con la vettura;
+per quanto fosse il genere di cappello che un uomo avrebbe [[Well|ben]] potuto essere
+pagato per indossare, anziché pagare per indossarlo.  Serviva al suo
+particolare scopo, tuttavia, con grande semplicità e [[success|successo]].
+Il cappello domina e definisce una figura vestita di abiti dimessi
+e incolori; e finché lo portava passava abbastanza
+[[Well|bene]] per il conducente di un veicolo tanto antiquato.
+Quando se lo toglieva e si insinuava tra i funzionari,
+con i capelli [[Well|ben]] spazzolati e i modi signorili, costoro non avevano
+ragione di [[Doubt|dubitare]] delle sue pretese a una diversa posizione.
+In cima alla vettura, però, aveva rimesso il cappello;
+non senza pompa, come un conquistatore potrebbe [[Crown|incoronarsi]] d'alloro.
+
+Credeva di sapere ciò che probabilmente sarebbe accaduto e decise
+di attenderlo.  La conclusione dell'immediato dramma dell'esperto
+[[government|governativo]] catturato non si aspettava di vederla a quello stadio;
+si ripromise che, se le cose fossero andate troppo oltre, avrebbe potuto
+mettersi in contatto con le autorità più tardi.  Così invece la lasciava
+quasi con reverenza come cosa compiuta e perfetta, una poesia.
+Ma se tutto fosse andato [[Well|bene]], una conseguenza aveva buone probabilità di seguirne;
+e quando ebbe atteso circa dieci minuti, ebbe la soddisfazione
+di trovare esatto il proprio calcolo.
+
+Il dottor Hendry, un tempo famoso nel mondo dell'arte, uscì tra
+le scure colonne del portico che si stagliavano contro il mare;
+libero come il gabbiano che sbandava lungo la linea della scogliera.
+Aveva un'aria di buon gusto quasi aggressivo; come se informasse
+l'intera via che si sarebbe rifiutato di informare chicchessia
+sui delicati [[Secrets|segreti]] professionali che gli erano stati appena confidati.  Fece
+un gesto come per calzarsi un paio di guanti invisibili, e con tutta
+naturalezza salì sulla vettura, prima ancora di averci pensato.
+Il coscienzioso [[cabman|vetturino]] si calò il cilindro sulle sopracciglia
+e lo condusse via rapidamente su per le strade ripide e sassose.
+
+Per il momento almeno, il cronista può [[Well|ben]] mantenere un tremendo
+[[Silence|silenzio]] su ciò che avvenne tra il magistrato e il medico.
+E invero la mente stessa di Murrel mostrava una curiosa e piuttosto indescrivibile
+disposizione ad abbandonare l'intero argomento e a lasciarselo alle spalle.
+Aveva fama di fare scherzi.  Ma questo momento della sua
+vita verrà in certo modo frainteso se si suppone che egli lo pensasse
+anzitutto e soprattutto come uno scherzo ai danni del medico straniero.
+Un sentimento più confuso e insieme più felice albergava nella sua mente, come se la vera storia
+gli stesse davanti piuttosto che dietro; come se l'inattesa liberazione
+del povero vecchio bislacco, con la sua monomania daltonica, non fosse che il simbolo
+della liberazione di molte cose e dell'aprirsi di un mondo più luminoso.
+Qualcosa si era spezzato; foss'anche solo un nastro di burocrazia; ed egli non
+sapeva ancora quanto fosse stato liberato.  Mentre svoltava l'angolo, un fascio
+di sole calò lungo la ripida via, parendo solido come quello che esce dalle nuvole solide
+nelle vecchie illustrazioni della [[Bible|Bibbia]], e alzando lo sguardo alla [[Window|finestra]] dell'alta
+e stretta [[house|casa]] vide la figlia di Hendry.
+
+La donna che si affacciava dalla [[Window|finestra]] compariva, in un certo senso,
+per la prima [[Time|volta]] in questa storia.  Fin qui era stata avvolta
+nelle ombre, nelle penombre delle ripide scale e dell'alta [[house|casa]] buia.
+Era stata mascherata dall'indigenza; e bisogna aver
+vissuto in una simile [[house|casa]] per sapere quanto l'indigenza possa mascherare.
+Era impallidita come una pianta in una [[house|casa]] angusta e sprangata;
+una [[house|casa]] in cui non c'erano specchi; men che meno quegli specchi umani
+che chiamiamo volti.  Aveva da tempo cessato di pensare al proprio aspetto;
+e sarebbe rimasta più stupita di chiunque altro se avesse potuto
+stare nella via e vedere il proprio aspetto alla [[Window|finestra]].
+Eppure, mentre guardava giù nella via, era qualcosa di più
+che stupita.  La [[Beauty|bellezza]] che si dischiudeva dal di dentro, come un
+fiore [[Magic|magico]] sul balcone, non era dovuta interamente al prorompere
+di sole che aveva investito la via.  Era la cosa più bella
+del mondo; forse l'unica cosa davvero bella del mondo.
+Era lo stupore che si perdette nell'Eden e tornerà con la
+Visione Beatifica, uno stupore così forte da durare in eterno.
+
+Non era invero che meraviglia per ciò che vedeva nella via;
+ma vi era in essa la gioia che saluta soltanto il rovesciamento
+di tutte le cose del mondo; ciò che è troppo bello per essere vero.
+Per comprendere il suo stupore sarebbe necessario raccontare
+la sua storia; e la sua storia sarebbe di tutt'altro
+genere rispetto a questa storia, e somiglierebbe piuttosto a quei lunghi
+romanzi scientifici e realisti che non sono affatto storie.
+Dal giorno in cui suo padre era stato rovinato da una banda
+di furfanti che si trovavano a essere troppo ricchi per poter essere puniti,
+la sua vita era discesa gradino dopo gradino in quel mondo
+dove si dà per scontato che tutti siano furfanti e li si punisce
+in una sorta di rotazione; la polizia considerandosi piuttosto
+come i secondini di un'ampia e slegata [[Prison|prigione]] a cielo aperto.
+Da tempo aveva rinunciato ad avere qualsiasi reazione viva a quella tendenza;
+sembrava perfettamente naturale finché era una tendenza verso il basso.
+Se suo padre fosse stato portato via e impiccato, ne sarebbe
+stata affranta e amareggiata e indignata; ma non ne
+sarebbe stata sorpresa.
+
+Ma quando lo vide tornare sorridente su una vettura, rimase
+completamente sorpresa.  Mai aveva saputo di alcun essere vivente sfuggire
+alla trappola in cui credeva che egli fosse caduto; mai aveva visto
+orme uscire da quella buia tana dell'efficienza.  Era come se lei
+avesse visto il sole tornare indietro verso l'Oriente, o il Tamigi fermarsi
+d'un tratto a Greenwich e cominciare a rifluire verso [[Oxford]].  Ma non v'era
+alcun [[Doubt|dubbio]] che fosse suo padre, appoggiato all'indietro e sorridente nella vettura.
+Come era uscito col gesto di calzarsi guanti invisibili,
+così si appoggiava all'indietro col gesto di fumare un invisibile sigaro.
+Mentre lo fissava, si accorse che il [[cabman|vetturino]] si era tolto
+il cappello in suo onore, con uno svolazzo notevolmente elegante per un cappello
+tanto deplorevole.  Il levarsi del cappello diede l'ultimo scossone ai suoi sensi;
+ché rivelò i capelli incolori ma accuratamente spazzolati del signor Murrel,
+l'eccentrico gentiluomo che si era presentato alla [[house|casa]] poche ore prima.
+
+Il dottor Hendry balzò giù dalla vettura con grazia affatto giovanile, e la mano
+gli andò con un altro gesto automatico verso una tasca del tutto vuota.
+Viveva nei bei tempi andati.
+
+«Non c'è di che», disse Murrel in fretta, rimettendosi l'atroce cappello.
+«Questa è la mia vettura e lo faccio per divertimento.  L'arte per l'arte,
+come solevano dire i suoi vecchi amici.  Io sono un'armonia, come diceva Whistler;
+un'armonia in nero e bruno.  Il suo amico il medico pazzo è,
+confido, a quest'[[Time|ora]] un'armonia in nero e blu.»
+
+Hendry riconobbe la voce educata, ché vi sono cose
+che un uomo non dimentica mai.  Riconobbe la voce a dispetto del cappello,
+anche quando essa parlava, con tutta evidenza, attraverso il cappello.
+
+«Mio caro signore», disse, «ho verso di lei un grande debito di gratitudine.
+La prego, entri.»
+
+«Oh, grazie», disse Murrel, scendendo dal suo trespolo.
+«Il mio destriero arabo, che ha dormito così spesso nella mia tenda nel
+[[Desert|deserto]], monterà probabilmente fedele guardia là fuori.
+Non pare soffrire di alcun folle impulso a galoppare.»
+
+Salì per la seconda [[Time|volta]] la buia e ripida scala,
+su per la quale aveva visto il degno specialista della mente inerpicarsi
+come un [[Monster|mostro]] uscito dagli abissi.  I suoi pensieri tornarono
+a quel disgraziato esperto in un momentaneo rimorso;
+ma si disse che vi sarebbe stata poca difficoltà
+nel raddrizzare la faccenda.
+
+«Ma questo non significherà», disse lei, «che tornerà di nuovo
+a prendere mio padre?»
+
+Murrel sorrise e scosse il capo.  «Non se lo conosco un minimo»,
+disse, «e nemmeno se conosco il vecchio Wotton.  Wotton è un vecchio gentiluomo
+perfettamente onesto; e capirà subito che con suo padre non ci poteva essere granché
+di storto, neppure la metà che con l'altro.
+E anche l'altro non sarà esattamente ansioso di proclamare al mondo
+di aver dato una così buona [[Imitation|imitazione]] di un maniaco furioso da farsi
+rinchiudere.»
+
+«Allora ci ha davvero salvati», disse lei.  «È una
+cosa meravigliosa.»
+
+«Non tanto meravigliosa quanto il fatto che voi aveste bisogno d'esser salvati, direi»,
+disse Murrell.  «Non so davvero dove andremo a finire.
+Suppongo che mandino un pazzo a catturare un pazzo secondo il principio
+di mandare un ladro a catturare un ladro.»
+
+«Ho conosciuto alcuni ladri», disse il dottor Hendry, arricciandosi i baffi
+con improvvisa fierezza, «ma non sono ancora stati catturati.»
+
+Murrel lo guardò per un istante, e capì che lo spirito
+gli era tornato.
+
+«Forse cercheremo di catturarli, i ladri, dopotutto», disse;
+e non sapeva di pronunciare una sorta di profezia
+sulla sorte della sua [[Home|casa]] e dei suoi amici e di molte cose che conosceva.
+Ché lontano, a Seawood Abbey, cose che egli avrebbe
+giudicato del tutto fantastiche andavano prendendo colore e forma
+e marciavano verso il culmine di questa [[history|storia]].
+Di queste cose non sapeva nulla; ma, cosa abbastanza curiosa,
+la sua stessa [[Imagination|immaginazione]] era già velata di colori nuovi,
+più fulgidi e romantici delle Vernici Luminescenti di Hendry.
+Aveva una vaga sensazione di vittoria; ma essa aveva toccato il culmine
+quando aveva alzato lo sguardo e visto il viso della fanciulla alla [[Window|finestra]];
+si sporse d'impulso e disse: «Vi affacciate spesso
+alla [[Window|finestra]], così... se dovessi passare
+qualche [[Time|volta]]...?»
+
+«Sì.» disse lei, «Mi affaccio spesso alla [[Window|finestra]].»
 
 -^-

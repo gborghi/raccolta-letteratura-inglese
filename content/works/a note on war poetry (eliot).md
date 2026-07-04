@@ -2,7 +2,7 @@
 title: A Note on War Poetry
 author: Eliot
 type: work
-cluster: Letters and Writing · Immortality Through Verse · Immortality of Art / Fame
+cluster: Letters and Writing · Immortality Through Verse · Immortality of Art Fame
 source: Authors/Eliot/_raw/075_A_Note_on_War_Poetry.md
 tags:
   - graph/work

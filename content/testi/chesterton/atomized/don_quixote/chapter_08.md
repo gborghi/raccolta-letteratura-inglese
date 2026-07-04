@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/don-quixote-(chesterton)">Don Quixote</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/don_quixote/chapter_07">‹ Chapter 07</a><a class="ex-next" href="/testi/chesterton/atomized/don_quixote/chapter_09">Chapter 09 ›</a></div>
@@ -460,5 +462,150 @@ as he was leaving it; a figure at once fearfully unfamiliar.
 He struggled with some confusion of [[Identity|identity]]; as in a [[nightmare]].
 Then he sank into a stupefied certainty; for the figure was that
 of Mr. John Braintree; and he had shaved off his beard.
+
+-^-
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/don-quixote-(chesterton)">Don Quixote</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/don_quixote/chapter_07">‹ Chapter 07</a><a class="ex-next" href="/testi/chesterton/atomized/don_quixote/chapter_09">Chapter 09 ›</a></div>
+</nav>
+<nav class="excerpt-children">
+<div class="excerpt-children-label">In questa sezione</div>
+<ul><li><a href="/testi/chesterton/atomized/don_quixote/chapter_08/part_01">Part 1</a></li><li><a href="/testi/chesterton/atomized/don_quixote/chapter_08/part_02">Part 2</a></li><li><a href="/testi/chesterton/atomized/don_quixote/chapter_08/part_03">Part 3</a></li><li><a href="/testi/chesterton/atomized/don_quixote/chapter_08/part_04">Part 4</a></li></ul>
+</nav>
+
+CAPITOLO VII
+
+«BLONDEL IL TROVATORE»
+
+«Oh», disse Murrel con una certa aria vuota. «Oh, sì... Qualsiasi cosa per farti piacere.»
+
+Nella sua foga Olive Ashley gli era sfrecciata accanto dentro la biblioteca, senza attendere l'aiuto del bibliotecario, il quale continuava a fissare le profondità della lontananza con occhi ciechi ma lucenti. Trascinò giù un ingombrante volume da uno degli scaffali più bassi e lo aprì su una pagina blasonata, sulla quale le lettere parevano aver preso vita e strisciare all'intorno come draghi dorati. In un angolo v'era l'immagine del [[Monster|mostro]] dalle molte teste dell'[[Apocalypse|Apocalisse]]; e persino all'occhio distratto del suo compagno la sua tinta risplendeva attraverso i secoli d'un rosso che aveva la purezza della fiamma.
+
+«Vuoi dire», egli chiese, «che devo andare a caccia di quel particolare animale per le strade di [[London|Londra]]?»
+
+«Voglio dire che devi andare a caccia di quella particolare vernice», disse lei, «e dal momento che dici di poter trovare qualsiasi cosa per le strade di [[London|Londra]], suppongo che non dovrai cacciarla molto lontano. C'era un tale di nome Hendry, al Haymarket, che la vendeva quando ero [[Child|bambina]]; ma non riesco a trovare quella sorta di bel rosso trecentesco presso nessun colorificio per [[Artist|artisti]] qui attorno.»
+
+«[[Well|Beh]], anch'io mi sono dato a dipingere la città di rosso, a modo mio, in maniera tranquilla, nelle ultime ore», disse Murrel con modestia, «ma suppongo che non fosse un bel rosso trecentesco. Era soltanto un rosso novecentesco, come la cravatta di Braintree. Gli dissi in [[Time|quel momento]] che quella cravatta avrebbe potuto cominciare a incendiare la città.»
+
+«Braintree!» disse Olive piuttosto bruscamente. «Il signor Braintree era con te quando... quando avete dipinto la città di rosso?»
+
+«Non posso dire che fosse quel che si dice un allegro e chiassoso compagnone di baldoria», disse Murrel in tono di scusa. «Questi rivoluzionari rossi paiono aver avuto terribilmente poca pratica nel guardare il vino quando è rosso. A proposito, non potrei andare a caccia io di quella, non credi? Supponi che io ti riportassi una dozzina di bottiglie di porto, qualche dozzina di borgogna, un po' di chiaretto, fiaschi di Chianti, botti di curiosi vini spagnoli, e così via... non credi che riusciresti a ottenere il colore giusto? Mescolare le bevande, come mescolare i colori, potrebbe forse...»
+
+«Ma il signor Braintree che cosa ci faceva là?» chiese Olive con una certa severità.
+
+«Veniva istruito», rispose Murrel virtuosamente. «Seguiva un corso; portava avanti quel corso d'istruzione che il tuo stesso entusiasmo educativo aveva tracciato per lui. Dicevi che desiderava essere introdotto in un mondo più vasto e udire discussioni su cose di cui non aveva mai sentito parlare. Sono certo che quella discussione che avemmo al Pig and Whistle fu una di cui non aveva mai sentito parlare in vita sua.»
+
+«Sai [[Well|benissimo]]», ribatté lei un po' seccata, «che non ho mai voluto che andasse in quei posti orribili. Intendevo che avesse vere discussioni con persone intellettuali su cose importanti.»
+
+«Mia cara ragazza», rispose Murrel con calma, «non vedi ancora che cosa significa? Braintree può far saltare tutte le vostre teste in _quel_ genere di discussione. Ha dieci volte più chiara la ragione per cui pensa ciò che pensa di quanto l'abbia la maggior parte di quelli che tu chiami persone colte. Ha letto altrettanto e ricorda molto di più di ciò che ha letto. E possiede certi criteri per stabilire se una cosa è vera o no, che può applicare all'istante. I criteri possono anche essere del tutto sbagliati, ma lui sa applicarli e produrre il risultato sull'istante. Non senti mai quanto siamo vaghi tutti noi?»
+
+«Sì», rispose lei con accento meno aspro, «lui sa quel che vuole.»
+
+«È vero che non sa abbastanza su certi generi di menti umane», proseguì Murrel, «ma conosce la nostra specie meglio di taluni; e ti aspettavi davvero che si prostrasse dinanzi alla mente del vecchio Wister? No, no, mia cara Olive, se vuoi davvero vederlo prostrato, o veder chiunque prostrato, devi venire con me stasera al Pig and Whistle...»
+
+«Non voglio vedere nessuno prostrato», rispose lei, «e credo che sia stato molto sbagliato da parte tua portarlo in posti così bassi.»
+
+«E di me che ne è?» chiese il gentiluomo in tono lamentoso. «Che ne è della mia morale? La mia educazione morale non ha alcuna importanza? La mia [[Soul|anima]] immortale non ha alcun valore? Perché tanta leggerezza e indifferenza per le mie prospettive spirituali al Pig and Whistle?»
+
+«Oh», replicò lei con studiata indifferenza, «tutti sanno che a te quel genere di cose non importa.»
+
+«Innalzo contro la Cravatta Rossa il blasone più veramente democratico del Naso Rosso; e mi appello dalla Marsigliese al Music Hall», disse, sorridendo. «Non credi che, se andassi a caccia del Naso Rosso per [[London|Londra]], scartando il rosa, il porpora, il semplice rossiccio, il cremisi troppo fosco, e così via, potrei trovare alla fine un naso di quella delicata tinta trecentesca che...»
+
+«Se riesci a trovare la vernice», ribatté Olive, «non m'importa a chi dipingi il naso. Ma preferirei quello del signor Archer.»
+
+È necessario che il paziente e [[Suffering|longanime]] lettore sappia qualcosa dell'episodio centrale della commedia intitolata «Blondel il Trovatore», poiché [[Alone|esso soltanto]] poteva rendere possibile o credibile l'episodio centrale del racconto intitolato «Il Ritorno di [[Don Quixote]]». In questo dramma Blondel [[Leaves|lascia]] la sua dama-[[Love|amore]] in uno stato alquanto superfluo di [[Mystification|mistificazione]] e [[Jealousy|gelosia]], immaginando che egli stia percorrendo il Continente per far serenate a dame d'ogni nazionalità e d'ogni tipo di [[Beauty|bellezza]]; mentre in realtà egli fa la serenata soltanto a un grande e muscoloso gentiluomo per ragioni puramente politiche. Il grande e muscoloso gentiluomo, altrimenti detto [[Richard]] Cuor di [[Lion|Leone]], doveva in quell'occasione essere interpretato da un gentiluomo moderno che corrispondeva a quella descrizione per quanto riguardava l'esteriorità; un certo maggiore Trelawney, lontano cugino della signorina Ashley. Era uno di quegli uomini, che a volte si incontrano nel mondo dell'alta società, i quali paiono in qualche modo misterioso capaci di recitare, quando a stento sanno leggere e apparentemente sono del tutto incapaci di pensare. Ma benché fosse un tipo bonario ed eccellente nelle recite, era anche un tipo estremamente noncurante ed era stato fin lì assai negligente in fatto di prove. In ogni caso, i motivi politici che si supponeva spingessero Blondel a cercare dappertutto quel grande e muscoloso gentiluomo erano naturalmente della specie più nobile. I suoi motivi lungo tutta la commedia erano d'un disinteresse quasi irritante; d'una purezza che rasentava la perversità. Murrel non riusciva mai a celare il proprio divertimento nell'udire questi sentimenti suicidamente altruistici esalati dalle labbra del signor Julian Archer. Blondel, insomma, traboccava di lealtà verso il suo [[King|re]] e d'[[Love|amore]] per la sua patria e d'un [[Desire|desiderio]] di restituire il primo alla seconda. Voleva ricondurre il [[King|re]] a restaurare l'ordine nel suo regno e a sconfiggere gli intrighi di Giovanni, quel [[Villain|malvagio]] universale e utile, per non dire sovraffaticato, di tante storie di crociate.
+
+Il culmine non era un cattivo pezzo di teatro amatoriale. Quando Blondel il Trovatore ha finalmente scoperto il [[Castle|castello]] che racchiude il suo signore, e ha radunato (in modo alquanto inverosimile) una compagnia di cortigiani, dame di [[Court|corte]], araldi e simili nel folto della foresta austriaca dinanzi alle porte di quella prigione, per accogliere il regale prigioniero con leali acclamazioni, il [[King|Re]] [[Richard]] esce con uno squillo di trombe, prende il centro della scena, e lì dinanzi a tutta la sua [[Court|corte]] peripatetica, con gesti oltremodo regali, abdica al suo regale trono. Dichiara che non sarà più un [[King|re]], ma soltanto un cavaliere errante. Era stato in verità sufficientemente errante in ogni senso, quando la sventura si abbatté su di lui; ma essa non l'ha guarito dalla sua personale versione dell'idea che errare è umano. Aveva vagabondato per quelle foreste dell'Europa Centrale, cadendo per via in varie avventure, quando infine cadde nella disavventura della prigionia austriaca. Ora dichiarava che quei vagabondaggi senza nome, nonostante la loro conclusione, erano state le ore più felici della sua vita. Pronuncia una fulminante denuncia della malvagità degli altri re e principi del suo [[Time|tempo]] e della disgustosa condizione degli affari politici in generale. La signorina Olive Ashley aveva un talento assai grazioso nell'imitare il più turgido [[Blank Verse|verso sciolto]] elisabettiano. Egli esprime una preferenza per la compagnia personale dei serpenti rispetto a quella di Filippo Augusto, il [[King of France|Re di Francia]]; paragona il cinghiale selvatico delle foreste, con suo vantaggio, agli uomini di Stato che gestiscono gli affari pubblici al momento presente; e fa un discorso di natura cordiale e ospitale, rivolto principalmente ai lupi e ai venti d'[[Winter|inverno]], pregandoli di mettersi comodi a sue spese, purché non gli si richieda d'incontrare nessuno dei suoi parenti o dei suoi recenti consiglieri politici. Con una perorazione che si conclude con un distico rimato, alla maniera shakespeariana, egli rinuncia alla sua [[Crown|corona]], sguaina la sua [[Sword|spada]] e si avvia all'Uscita di destra, con non innaturale irritazione di Blondel, il quale ha sacrificato il proprio [[Romance|romanzo]] privato al proprio dovere pubblico, solo per vedere il proprio dovere pubblico svignarsela fuori dal palcoscenico all'inseguimento d'un [[Romance|romanzo]] privato. L'opportuno e oltremodo inverosimile arrivo di Berengaria di Navarra, nel folto delle medesime foreste, lo induce alla fine a tornare alla propria lealtà verso sé stesso. E il lettore deve davvero essere mal pratico delle leggi del dramma romantico se ha bisogno che gli si dica che la comparsa della [[Queen|regina]], e la sua [[Reconciliation|riconciliazione]] con il [[King|re]], sono il segnale d'una oltremodo affrettata ma altrettanto soddisfacente [[Reconciliation|riconciliazione]] fra Blondel e la sua giovane dama. Già un'atmosfera pervade la foresta austriaca, accompagnata da una debole musica e dalla luce della sera, che corrisponde al raggrupparsi delle figure presso le luci della ribalta e all'affrettato tuffarsi verso cappelli e ombrelli in platea.
+
+Tale era la commedia di «Blondel il Trovatore», non del tutto un cattivo esemplare del [[Romance|romanzo]] sentimentale e all'antica, popolare prima della guerra, ma ora ricordato soltanto per via dei romantici risultati che esso produsse in seguito nella vita reale. Mentre gli altri erano occupati ciascuno a modo suo con la recitazione o con la scenografia, due altre figure di quel dramma umano rimasero fedeli ad altri entusiasmi, non senza effetto sul loro avvenire. Olive Ashley continuava a gingillarsi impenitente con colori e messali miniati presi dalla biblioteca. E [[Michael]] Herne continuava a divorare volume dopo volume sulla [[history|storia]], la [[philosophy|filosofia]], la teologia, l'etica e l'economia dei quattro secoli medievali, nella [[Hope|speranza]] di rendersi idoneo a recitare le quindici righe di [[Blank Verse|verso sciolto]] assegnate dalla signorina Ashley al Secondo Trovatore.
+
+È giusto dire, tuttavia, che Archer era altrettanto industrioso a modo suo quanto lo era Herne a modo proprio. Poiché erano i Due Trovatori, si trovavano spesso a studiare fianco a fianco.
+
+«Mi pare», disse un giorno Julian Archer, gettando a terra il manoscritto con cui aveva rinfrescato la sua [[Memory|memoria]], «che questo tale Blondel come [[Lover|innamorato]] sia un po' un impostore. A me piace metterci un po' più di passione.»
+
+«Certo v'era qualcosa di curiosamente astratto, e a prima vista artificiale, in tutta quell'etichetta provenzale», convenne il Secondo Trovatore, altrimenti detto signor Herne. «Le Corti d'[[Love|Amore]] paiono essere state pedantesche, quasi cavillose. Talvolta non sembrava aver importanza se l'[[Lover|innamorato]] avesse mai visto la dama; come nel caso di Rudel e della Principessa di Tripoli. Talvolta era un cortese inchino alla moglie del proprio signore feudale, un'adorazione aperta e tollerata. Ma suppongo che spesso vi fosse una vera passione [[Well|altresì]].»
+
+«Ce n'è maledettamente poca nella signorina Ashley e nel suo Trovatore», disse il deluso dilettante. «Tutte nozioni spirituali e sciocchezze. Non credo affatto che egli volesse sposarsi.»
+
+«Pensi che fosse influenzato dalle dottrine albigesi?» domandò il bibliotecario, con serietà e quasi con ansia. «È vero, certo, che la sede dell'eresia era nel meridione e che moltissimi dei trovatori parevano essere stati implicati in quel movimento filosofico o in altri simili.»
+
+«I suoi movimenti sono di sicuro filosofici», disse Archer. «A me piace che i miei movimenti siano un po' meno filosofici quando faccio l'[[Love|amore]] a una ragazza sul palcoscenico. È quasi come se lei volesse davvero che egli tergiversasse invece di fare la fatidica domanda.»
+
+«La questione dell'evitare il [[Marriage|matrimonio]] pare essere stata essenziale nell'eresia», disse Herne. «Noto che nei registri degli uomini che tornavano all'ortodossia dopo la Crociata di Montfort e Domenico, ricorre ripetuta la voce _iit in matrimonium._ Sarebbe certamente interessante interpretare la parte come quella di un simile pessimista e idealista semi-orientale; un uomo che sente la carne essere un disonore per lo spirito, persino nella sua forma più amabile e lecita. Nulla di ciò emerge molto chiaramente nelle righe che la signorina Ashley mi ha dato da recitare; ma forse la tua parte rende il punto un poco più chiaro.»
+
+«Io credo che egli metta un bel po' di [[Time|tempo]] ad arrivare al punto», rispose Archer. «Non offre alcuno spazio a un attore romantico.»
+
+«Temo di non sapere nulla di alcun genere di recitazione», disse il bibliotecario, tristemente. «È una fortuna che tu mi abbia dato solo poche righe nella commedia.»
+
+Si fermò un momento, e Julian Archer lo guardò con una pietà quasi distratta, mentre mormorava che sarebbe andato tutto bene [[Night|la sera della recita]]. Poiché Archer, con tutto il suo assai pratico _savoir faire,_ non era l'uomo capace di avvertire i più sottili mutamenti del clima sociale; ed egli considerava ancora il bibliotecario più o meno come una sorta di strano valletto o di garzone di scuderia introdotto per pura necessità, semplicemente per dire: «Milord, la carrozza attende.» Sempre preoccupato delle proprie energie pratiche, non prestava alcuna attenzione alle chiacchiere di quell'uomo intorno al suo hobby dei libri antichi, ed era soltanto vagamente conscio che quell'uomo stesse ancora chiacchierando.
+
+«Ma non posso fare a meno di pensare», stava proseguendo il bibliotecario, con la sua voce bassa e meditativa, «che potrebbe offrire uno spazio piuttosto interessante a un attore romantico, il recitare esattamente quel genere di alto e tuttavia vuoto [[Romance|romanzo]]. Vi è una sorta di [[Dance|danza]] che esprime disprezzo per il [[Body|corpo]]. La si può veder correre come un motivo attraverso un'infinità di intrecci e arabeschi asiatici. Quella [[Dance|danza]] era la [[Dance|danza]] dei trovatori albigesi; ed era una [[Dance of Death|danza della morte]]. Poiché quello spirito può disprezzare il [[Body|corpo]] in uno di due modi: mutilandolo come un fachiro o vezzeggiandolo come un sultano; ma senza mai rendergli [[Honour|onore]]. Sarà di certo piuttosto interessante per te interpretare l'amaro edonismo, le grida alte e selvagge, i corni e i clamori dell'antico baccanale pagano, insieme al sottostante pessimismo.»
+
+«Il sottostante pessimismo lo sento benissimo», rispose Archer, «quando Trelawney non viene alle prove e Olive Ashley non fa che gingillarsi con quei suoi insignificanti coloretti.»
+
+Abbassò un poco la voce in fretta con le ultime parole, poiché si rese conto per la prima [[Time|volta]] che la dama in questione era seduta all'altra estremità della biblioteca, con la schiena rivolta verso di lui, china sui libri e intenta a gingillarsi come s'è descritto. A quanto pareva ella non lo aveva udito; in ogni caso non si voltò, e Julian Archer proseguì nel medesimo tono di allegro brontolìo.
+
+«Non credo che tu abbia molta esperienza di ciò che davvero avvince un pubblico», disse. «Naturalmente nessuno suppone che, in un certo senso, non andrà tutto bene. Nessuno è propenso a farci il verso...»
+
+«A farci quale verso?» chiese il signor Herne, con mite interesse.
+
+«Nessuno è propenso a urlarci contro e a fischiarci, o a lanciarci uova marce nel salotto di Lord Seawood, naturalmente», proseguì Archer, «ma si riesce sempre a capire se un pubblico è avvinto o no. Perlomeno, ci si riesce sempre quando si è avuta tanta esperienza quanta ne ho io. Ora, a meno che lei non riesca a mettere un po' più di brio nel dialogo, non sono sicuro di poter avvincere il mio pubblico.»
+
+Herne cercava di ascoltare cortesemente con una metà della sua mente, ma per l'altra metà il [[Garden|giardino]] al di là stava assumendo, come tanto spesso accadeva, la vaga qualità d'un corteo trionfale in una visione. Lontano, in fondo a un viale d'erba lucente, tra alberi delicati, scintillante nella luce del sole, egli scorse la figura della Principessa della commedia. Rosamund era vestita delle sue magnifiche vesti azzurre con il suo copricapo azzurro quasi fantastico, e mentre veniva avanti seguendo la curva del sentiero fece un gesto verso l'esterno insieme di [[Freedom|libertà]] e di stanchezza, protendendo le braccia o gettando in fuori le mani come per stirarsi. Le lunghe maniche a punta che indossava conferivano a quel gesto qualcosa dell'apparenza d'un uccello che batte le ali; un uccello del paradiso, come aveva detto l'attore.
+
+Un mezzo pensiero si formò nella mente del bibliotecario circa il fatto se fosse quel genere di uccello che nessuno gli avrebbe mai fatto nel salotto di Lord Seawood.
+
+Man mano che la figura azzurra si avvicinava lungo i verdi viali, tuttavia, persino il sognante bibliotecario cominciò a pensare che potesse esserci un'altra ragione per quel gesto verso l'esterno. Qualcosa nel suo volto suggeriva che quel movimento fosse stato uno d'impazienza o persino di sgomento, giacché non può fare a meno di sembrare una maschera di [[Tragedy|tragedia]] su irritazioni del tutto banali. Ci si sarebbe potuti chiedere se ella considerasse banale la sua presente irritazione. Ma ella recava inconsapevolmente con sé un tale fulgore di buona salute e una tale sicurezza di modi, che v'era una seconda incongruenza persino nella pienezza e nella fermezza della sua voce. V'era in essa qualcosa di chiassoso, che faceva suonare persino le cattive notizie come se fossero buone.
+
+«Ed ecco qui una bella faccenda», disse indignata, spiegando con un colpo un telegramma e volgendo attorno lo sguardo con una collera impersonale. «Hugh Trelawney dice che dopotutto non può recitare la parte del [[King|Re]].»
+
+Su certe questioni la mente di Julian Archer lavorava davvero assai rapidamente. Era, in un certo senso, tanto contrariato quanto lei; ma prima che ella avesse parlato di nuovo, egli aveva già considerato la possibilità di assumere lui stesso una nuova parte, e di trovare il [[Time|tempo]] d'imparare le battute assegnate al [[King|Re]]. Sarebbe stata una fatica; ma egli non aveva mai avuto nulla in contrario al duro lavoro quando ne valeva la pena. La grande difficoltà che scorgeva era la difficoltà d'immaginare chiunque nella sua parte di Trovatore.
+
+Gli altri non avevano ancora cominciato a guardare avanti, e la dama vacillava ancora, per così dire, sotto il colpo del traditore Trelawney. «Suppongo che dovremo piantar lì tutto quanto», disse.
+
+«Oh, andiamo», disse Archer con maggior tolleranza, «io non lo farei, se fossi in te. Sarebbe piuttosto una vergogna, quando ci siamo tutti presi tanto disturbo.» Il suo sguardo vagò senza motivo verso l'altra estremità della stanza, dove il capo scuro e la schiena rigida della signorina Ashley erano ostinatamente fissi in un'attenzione concentrata sulle miniature. Era molto [[Time|tempo]] che ella non appariva concentrata, a quanto pareva, su null'altro; salvo che per lunghe sparizioni, che si supponevano passeggiate in campagna, e che erano rimaste qualcosa di misterioso.
+
+«Ma sai, a volte mi sono alzato alle sei per tre giorni di fila», disse il signor Archer, semplicemente a illustrazione dell'operosità della compagnia.
+
+«Ma come possiamo andare avanti?» chiese Rosamund esasperata. «Chi altri c'è che potrebbe fare il [[King|Re]]? Abbiamo avuto abbastanza guai a procurarci un Trovatore aggiunto, finché il signor Herne non è stato tanto gentile da aiutarci.»
+
+«Il guaio è», disse Archer, «che se io facessi il [[King|Re]], non avreste nessuno che possa fare Blondel.»
+
+«[[Well|E allora]]», disse Rosamund piuttosto seccata, «in tal caso bisognerebbe lasciar perdere.»
+
+Vi fu un [[Silence|silenzio]] ed essi rimasero a guardarsi l'un l'altro. Poi tutti insieme volsero il capo e guardarono verso l'altra estremità della lunga stanza, da cui aveva parlato una voce nuova.
+
+Poiché Olive Ashley si era alzata all'improvviso dalla sua occupazione e si era voltata per parlare. Rimasero un po' sbalorditi, giacché non avevano avuto la minima idea che ella stesse persino ascoltando.
+
+«Bisognerebbe lasciar perdere», disse, «a meno che non riusciate a convincere il signor Herne a fare lui stesso il [[King|Re]]. È l'unica persona che sappia o a cui importi di che cosa si tratti veramente.»
+
+«Che Dio benedica la mia [[Soul|anima]]», fu il commento premuroso del signor Herne.
+
+«Non so che cosa vi immaginiate che significhi tutto ciò», proseguì Olive con una certa amarezza. «Pare che l'abbiate trasformato tutto in una sorta di opera lirica... un'opera buffa. [[Well|Beh]], io non ne so nulla, nel modo in cui ne sa lui; ma con tutto ciò intendevo dire qualcosa. Oh, non m'immagino di poterlo esprimere come si deve... nemmeno la metà di [[Well|quanto]] lo esprima una qualsiasi vecchia [[Song|canzone]] come quella che dice 'Will ye no come back again?' oppure 'When the [[King]] enjoys his own again.'»
+
+«Quella è giacobita», spiegò Archer con benevolenza. «Fai un po' di confusione tra i periodi, eh?»
+
+«Non so quale sia il [[King|Re]] che dovrebbe tornare, più di quanto non lo sappia chiunque altro», rispose Olive con fermezza. «[[King Arthur|Re Artù]] o il [[King|Re]] [[Richard]] o il [[King|Re]] Carlo o qualcuno. Ma il signor Herne sa davvero qualcosa di ciò che quegli uomini intendevano per un [[King|re]]. Vorrei quasi che il signor Herne fosse davvero [[King|Re]] d'Inghilterra.»
+
+Julian Archer gettò indietro il capo e proruppe in una risata deliziata. V'era qualcosa di esagerato e quasi innaturale nella sua risata; come lo stridulo scherno con cui gli uomini hanno accolto le profezie.
+
+«Ma senti un po'», protestò la più pratica Rosamund, «anche ammesso che il signor Herne possa fare il [[King|Re]], chi farà allora la sua parte, quella per cui ci siamo tanto arrabattati prima?»
+
+Olive Ashley voltò di nuovo le spalle e parve riprendere a riordinare i suoi colori.
+
+«Oh», disse, piuttosto bruscamente, «a quello posso pensarci io. Un mio amico se ne incaricherà, se volete.»
+
+Gli altri la fissarono con una certa [[Wonder|meraviglia]]; e poi Rosamund disse: «Non faremmo meglio a consultare Monkey su questo? Conosce così tanta gente.»
+
+«Mi dispiace», replicò Olive, sempre riordinando, «temo di averlo mandato a sbrigare una faccenda per conto mio. È stato tanto gentile da offrirsi di procurarmi uno dei miei colori.»
+
+E in verità era vero che, mentre la cerchia sociale andava assestandosi (con lo sconcerto del signor Archer) in una sorta di accettazione dell'idea dell'incoronazione del signor Herne, il loro amico Douglas Murrel stava proprio in quel momento accingendosi a una spedizione che avrebbe avuto un curioso effetto su tutte le loro sorti. Olive Ashley gli aveva chiesto di scoprire se un particolare pigmento fosse ancora reperibile presso i colorifici per [[Artist|artisti]]. Ma egli aveva tutto l'esagerato [[Love|amore]] dello scapolo allegro per l'avventura, e specialmente per i preparativi dell'avventura. Proprio come s'era messo in cammino nel suo giro notturno con il signor Braintree con la generale sensazione che la [[Night|notte]] sarebbe durata in eterno, così si accinse alla sua piccola commissione per la signorina Ashley con il generale presupposto che essa lo avrebbe condotto ai confini del mondo. E in verità forse lo condusse, in un certo senso, ai confini del mondo; o forse agli inizi d'un altro. Prelevò dalla banca una somma di denaro considerevole; si riempì le tasche di tabacco e fiaschette e temperini come se stesse andando al Polo Nord. La maggior parte degli uomini intelligenti fa questo gioco infantile con sé stessa in una forma o nell'altra; ma egli lo stava di certo portando piuttosto in là e si comportava come se si aspettasse d'incontrare orchi e draghi mentre risaliva la strada.
+
+E, di fatto, non appena ebbe messo piede fuori dall'antica porta gotica di Seawood, si trovò faccia a faccia con un prodigio. Avrebbe quasi potuto dire un [[Monster|mostro]]. Una figura stava entrando nella [[house|casa]] mentre egli ne usciva; una figura al tempo stesso spaventosamente estranea. Lottò con una certa confusione d'[[Identity|identità]]; come in un [[nightmare|incubo]]. Poi sprofondò in una stupefatta certezza; poiché la figura era quella del signor John Braintree; e s'era rasato la barba.
 
 -^-

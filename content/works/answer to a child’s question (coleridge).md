@@ -2,7 +2,7 @@
 title: ANSWER TO A CHILD’S QUESTION
 author: Coleridge
 type: work
-cluster: Joy · Animals · Comic Verse / Song
+cluster: Joy · Animals · Comic Verse Song
 source: Authors/Coleridge/_raw/215_ANSWER_TO_A_CHILDS_QUESTION.md
 tags:
   - graph/work

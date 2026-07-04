@@ -4,7 +4,7 @@ title: >-
   NAME OF ALE
 author: Coleridge
 type: work
-cluster: Joy · Animals · Comic Verse / Song
+cluster: Joy · Animals · Comic Verse Song
 source: >-
   Authors/Coleridge/_raw/365_SONG_TO_BE_SUNG_BY_THE_LOVERS_OF_ALL_THE_NOBLE_LIQUORS_COMPRISED_UNDER_THE_NAME.md
 tags:

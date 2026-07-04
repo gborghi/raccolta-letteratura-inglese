@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/common-man-(chesterton)">Common Man</a> › <a href="/testi/chesterton/atomized/common_man/story_26_the_erastian_on_the_establishment">Story 26 The Erastian On The Establishment</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/common_man/story_23_vulgarity/part_03">‹ part 03</a><a class="ex-next" href="/testi/chesterton/atomized/common_man/story_26_the_erastian_on_the_establishment/part_02">part 02 ›</a></div>
@@ -124,3 +126,123 @@ abandoned [[Christianity]]?  The other is what would happen if England
 went over to Rome?  The answer to both these impossibilities
 is very simple.  It is that the second might happen any day,
 and the first has happened already.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/common-man-(chesterton)">Common Man</a> › <a href="/testi/chesterton/atomized/common_man/story_26_the_erastian_on_the_establishment">Story 26 The Erastian On The Establishment</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/common_man/story_23_vulgarity/part_03">‹ part 03</a><a class="ex-next" href="/testi/chesterton/atomized/common_man/story_26_the_erastian_on_the_establishment/part_02">part 02 ›</a></div>
+</nav>
+
+L'ERASTIANO SULLA CHIESA DI STATO
+
+Il decano Inge è così palesemente il più acuto, il più colto
+e il più originale della scuola scettica che rappresenta,
+che talvolta si ha inevitabilmente l'impressione di prendere di mira
+proprio lui, quando la singolarità è dovuta soltanto alla sua eccellenza.
+È dovuta, se dobbiamo dirlo più crudamente, al fatto che vi sono
+davvero pochissimi intellettuali di quella scuola che meritino una risposta.
+Io stesso, forse, l'ho spesso detto più crudamente di quanto intendessi;
+ma il [[Double|duplice]] dovere che ne consegue presenta un problema di non facile soluzione.
+Il guaio è che egli si trova davvero in una posizione tanto falsa
+che la sua schietta descrizione suona già come un motteggio.
+Eppure può non essere intesa come un motteggio, ma soltanto come una [[Truth|verità]].
+Certo la sua posizione non pare a lui altrettanto falsa quanto pare
+a noi; ma scusarla richiederebbe una lunga spiegazione, impossibile
+in un'espressione così breve. Per esempio, l'altro giorno egli scrisse
+una severa condanna di quei membri del clero anglicano
+che sono favorevoli alla separazione della Chiesa d'Inghilterra dallo Stato.
+Può sembrare brusco ribattere, come io sarei il primo tentato di fare,
+che il decano esiti naturalmente a recidere quell'unica sottilissima
+striscia di burocratico nastro rosso che ancora lo collega al [[Christianity|Cristianesimo]].
+Eppure è verissimo; e non è necessariamente soltanto ostile.
+
+Per comprendere il curioso caso del decano Inge, in uno spirito di
+[[Charity|carità]] cristiana, dobbiamo lasciare per un momento ogni questione
+di credo e di definizione e richiamare alla mente un'altra immagine.
+È l'immagine che aveva in mente Matthew Arnold quando dichiarò apertamente
+che, pur essendo egli stesso quasi un agnostico, desiderava tuttavia conservare
+le istituzioni della religione, e specialmente la letteratura della religione;
+che le trovava conservate al meglio nella Chiesa d'Inghilterra
+e non consigliava a nessuno di lasciarla. Dobbiamo richiamare l'immagine di una
+storica gerarchia di sacerdoti che sono anche professori, e la cui
+occupazione principale è l'erudizione e lo studio delle lettere; non
+per nulla sia Arnold sia Inge ebbero legami con [[Oxford]].
+La maggior parte di tali uomini sarebbe probabilmente cristiana per sentimento
+ereditario e per materia di studio; ma il loro [[Christianity|Cristianesimo]] non sarebbe, per così dire,
+il punto centrale. Possiamo anche immaginare meglio l'istituzione se la
+pensiamo come una fondazione confuciana anziché cristiana.
+La sua idea è quella di una cultura classica che rimane indisturbata. Ma vi è
+questo ulteriore punto essenziale; che, se le sue tradizioni e i suoi riti devono
+restare indisturbati, così pure devono restare indisturbati i suoi dubbi e le sue negazioni.
+Dev'essere tanto tradizionale che uno scettico vi sia al sicuro.
+
+Qualcosa di simile può essere davvero esistito in paralleli cinesi e in altri
+paralleli pagani. Qualcosa di simile probabilmente esistette davvero fra
+gli ultimi sacerdoti pagani dell'antichità. Un allegro vecchio Flamine o
+Pontefice Massimo ellenico non desiderava essere disturbato mentre spiegava via
+gli dèi ai suoi amici; e certamente non desiderava assumersi
+la responsabilità di tracciare la linea esatta fra [[Truth|verità]] e [[Fable|favola]]
+nelle metamorfosi di Ovidio o nelle genealogie di Giove.
+E qualcosa di analogo esistette davvero nell'anglicanesimo accademico
+dell'età erastiana in Inghilterra, quando dotti whig e vescovi piuttosto
+mondani citavano indifferentemente Orazio, Agostino e Gibbon
+davanti a noci e vino. È questa la Chiesa di Stato che il decano Inge
+ama davvero vedere stabilita; è questa l'istituzione civile
+che egli crede davvero e sinceramente essere una buona cosa;
+una tradizionale [[Home|dimora]] di sapere e di liberale [[Education|educazione]], sia pure principalmente
+per pochi; una cosa che al mondo esterno appaia autorevole
+come gli abati medievali, ma che nella sua [[Inner Life|vita interiore]] sia disinvolta come
+i filosofi greci; una cosa che non abbia bisogno di escludere gli eretici,
+ma che escluda gli ignoranti; una cosa che possa ammettere ogni interrogativo
+purché non sia mai essa stessa messa in questione.
+
+Ora, una tradizione culturale di quel genere può avere molti segni di dignità
+e di valore nazionale; e un uomo può, senza assurdità né falsità,
+desiderare di conservarla come cosa nazionale. Ma vi sono diverse
+condizioni da ricordare, che il decano Inge ora sembra continuamente
+dimenticare. Anzitutto, la nazione deve perseverare nel medesimo
+atteggiamento di rispetto verso il collegio dei professori, o comunque
+lo si voglia chiamare. L'atteggiamento moderno cambia molto rapidamente;
+e credo sarebbe un'esagerazione dire che tutta l'Inghilterra
+sia ora colma d'affetto e di venerazione per i Dons.
+Un'altra difficoltà è che, qualunque cosa possa fare questa sorta di sinodo cinese,
+esso non può coesistere con una religione reale e appassionata.
+Fu sconfitto dai cristiani alla fine dell'era romana.
+Fu sconfitto perfino dai metodisti alla fine del
+Settecento. Del povero Carlo II si cita spesso
+che egli disse che il [[Puritanism|Puritanesimo]] non era religione da gentiluomo.
+Non si aggiunge altrettanto spesso che egli disse anche che l'anglicanesimo non era
+religione da cristiano.
+
+Questo, immagino, è ciò che il decano intende davvero; e spiega perché egli
+sia al tempo stesso così conservatore e così iconoclasta; così scettico
+e così tory. Non è, s'intende, ciò che dice con tante parole.
+Costretto a difendere il suo manipolo di pezzi grossi, con le loro biblioteche
+e le loro rendite, egli caratteristicamente estrae un vecchio libro da quei
+polverosi scaffali e cita da Burke la tesi secondo cui la Chiesa non era
+che lo Stato veduto sotto una certa luce e lo Stato non era che la Chiesa
+veduta sotto un'altra luce. Burke mi ha sempre colpito come, fra tutti gli uomini,
+quello dalla mente più immaginosa e più totalmente irreale.
+Perfino nel momento in cui pronunciava una frase simile, doveva sapere che la Chiesa
+era gremita di gente che non vi credeva, e che
+i capi dello Stato avevano quasi cessato di fingere di crederci.
+Per tutto il [[Time|tempo]], val la pena notarlo, Burke discuteva gravemente
+l'ammissione nella Chiesa di dissenzienti il cui intero entusiasmo
+era dichiaratamente rivolto a rendere il loro Dio calvinista, se possibile,
+ancor più diavolo di quanto già fosse. Egli sapeva che il mondo intorno a lui
+era affollato di simili fanatici e di simili bestemmiatori; eppure
+riusciva a indursi a immaginare che l'effettiva condizione secolare
+di tutta l'Inghilterra fosse la Chiesa di [[Christ|Cristo]], purché si spostasse appena
+il proprio punto di vista. Ma era già piuttosto strano sostenere questo perfino
+ai [[Time|tempi]] di Burke; è perfettamente folle sostenerlo ai [[Time|tempi]] nostri.
+Il decano Inge ammette che due grandi calamità potrebbero davvero rovinare il suo piano,
+e rendere impossibile la posizione della Chiesa d'Inghilterra.
+Ma egli ritiene che nessuna delle due sia abbastanza probabile da meritare considerazione.
+La prima è: che cosa accadrebbe se una gran [[Body|parte]] dell'Inghilterra abbandonasse
+davvero il [[Christianity|Cristianesimo]]? La seconda è: che cosa accadrebbe se l'Inghilterra
+passasse a Roma? La risposta a entrambe queste impossibilità
+è semplicissima. È che la seconda potrebbe accadere da un giorno all'altro,
+e la prima è già accaduta.

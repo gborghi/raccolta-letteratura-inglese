@@ -2,7 +2,7 @@
 title: 'Song: ‘The moonflower opens to the moth’'
 author: Eliot
 type: work
-cluster: Joy · Animals · Comic Verse / Song
+cluster: Joy · Animals · Comic Verse Song
 source: Authors/Eliot/_raw/110_Song_The_moonflower_opens_to_the_moth.md
 tags:
   - graph/work

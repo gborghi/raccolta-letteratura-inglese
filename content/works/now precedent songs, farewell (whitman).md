@@ -2,7 +2,7 @@
 title: 'Now Precedent Songs, Farewell'
 author: Whitman
 type: work
-cluster: Letters and Writing · Immortality Through Verse · Immortality of Art / Fame
+cluster: Letters and Writing · Immortality Through Verse · Immortality of Art Fame
 source: Authors/Whitman/_raw/347_Now_Precedent_Songs_Farewell.md
 tags:
   - graph/work

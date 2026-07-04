@@ -4,7 +4,7 @@ title: >-
   THE U.S.A. TO ENGLAND
 author: Coleridge
 type: work
-cluster: Nationalism and Patriotism · Democracy · Liberty / Political Freedom
+cluster: Nationalism and Patriotism · Democracy · Liberty Political Freedom
 source: >-
   Authors/Coleridge/_raw/289_LINES_WRITTEN_IN_COMMONPLACE_BOOK_OF_MISS_BARBOUR_DAUGHTER_OF_THE_MINISTER_OF_TH.md
 tags:

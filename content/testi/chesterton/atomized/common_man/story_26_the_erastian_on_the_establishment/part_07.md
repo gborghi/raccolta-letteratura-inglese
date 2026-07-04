@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/common-man-(chesterton)">Common Man</a> › <a href="/testi/chesterton/atomized/common_man/story_26_the_erastian_on_the_establishment">Story 26 The Erastian On The Establishment</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/common_man/story_26_the_erastian_on_the_establishment/part_06">‹ part 06</a><a class="ex-next" href="/testi/chesterton/atomized/common_man/story_27_the_meaning_of_metre/part_01">part 01 ›</a></div>
@@ -64,3 +66,63 @@ and, above all, the Tree was right.  Now if Barrie had told the tale,
 he would have taken a gentle [[Pride|pride]] in leaving us in [[Doubt|doubt]] on that
 very point; of suggesting that the sceptic might be the sane man,
 and the Tree might be a delusion.  But the Tree is not a delusion.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/common-man-(chesterton)">Common Man</a> › <a href="/testi/chesterton/atomized/common_man/story_26_the_erastian_on_the_establishment">Story 26 The Erastian On The Establishment</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/common_man/story_26_the_erastian_on_the_establishment/part_06">‹ part 06</a><a class="ex-next" href="/testi/chesterton/atomized/common_man/story_27_the_meaning_of_metre/part_01">part 01 ›</a></div>
+</nav>
+
+In breve, possiamo dire che il primo Novecento presentò due
+movimenti verso il fantasioso o il fantastico, e via dal meramente
+razionale o materiale: un movimento centripeto e un movimento centrifugo.
+L'una spirale spirituale operava verso l'interno, verso i segreti
+soggettivi [[Dreams|sogni]] dell'uomo; l'altra operava verso l'esterno, verso
+i poteri o le verità spirituali che parevano al di là della portata dell'uomo.
+Il nuovo mondo creato dalla prima era la grande, splendente, iridescente bolla
+del sogno a occhi aperti di Barrie; il mondo rivelato dalla seconda era quel mondo
+di strani cieli, ai confini della terra e agli angoli del mare,
+che appare nei lontani bagliori dell'[[Imagination|immaginazione]] di de la Mare.
+Potremmo dire in breve che Stevenson e Barrie potevano produrre truci
+bucanieri grondanti di sangue senza spaventare i fanciulli;
+laddove de la Mare poteva produrre salici capitozzati o granai
+imbiancati con un imminente rischio di spaventare i fanciulli, e perfino
+gli adulti. Ma è giusto dire che vi è una
+sottigliezza possibile soltanto al primo metodo, così [[Well|come]] una sottigliezza
+possibile al secondo. È, come si è già suggerito,
+la sottigliezza di un'ironia che a un tempo accetta e sconta l'illusione.
+È l'intero punto della migliore opera di Barrie, per esempio,
+che qualcuno stia ingannando sé stesso, ma anche che qualcuno stia
+osservando qualcuno che inganna sé stesso; e se entrambi
+ingannano sé stessi, tanto meglio per la terza persona
+che osserva da un terzo angolo. Gran parte di questo genere di opera
+è come un mondo di specchi riflessi in specchi; la reduplicazione
+del riflesso; l'[[Shadow|ombra]] di un'ombra. Per citare un solo esempio:
+un palazzo da fiaba è di per sé soltanto una fantasia; ma la scena della [[Court|corte]]
+in A Kiss for Cinderella non è meramente la fantasia fiabesca,
+ma la fantasia di un [[Child|bambino]] sulla fantasia. Questo genere di intensiva
+delicatezza immaginativa è in teoria una cosa di infinite possibilità;
+e questa appartiene davvero alla scuola meramente soggettiva del simbolismo.
+Ma ciò che ho chiamato la scuola veramente simbolica del simbolismo appartiene ancora
+del tutto a un altro e, non posso non pensarlo, più vasto mondo.
+È tutto quel mondo dei poteri e dei misteri al di là dell'umanità che
+perfino lo scettico acconsentirebbe a coprire con la celebre etichetta:
+«Importante, Se Vero». Forse un esempio buono quanto se ne possa trovare è
+in quel davvero straordinario [[Sketch|bozzetto]] di de la Mare intitolato «The Tree».
+Posso immaginare moltitudini di persone del tutto intelligenti totalmente
+incapaci di raccapezzarcisi. Riguarda un mercante
+di frutta e suo fratello, che era un [[Artist|artista]], e un Albero,
+di cui si parla in un modo del tutto indescrivibile; come se esso fosse
+non soltanto più importante di qualsiasi cosa, ma fuori del mondo.
+Ora, Barrie avrebbe potuto trattare mirabilmente un tema del genere;
+e probabilmente rendere più chiara la [[Comedy|commedia]] umana. Ma la differenza
+è precisamente questa. Perfino il lettore che non riesce a comprendere nient'altro
+riguardo alla storia di de la Mare comprende decisamente questo:
+che in qualche modo il mercante di frutta aveva torto, e l'[[Artist|artista]] aveva ragione;
+e, soprattutto, l'Albero aveva ragione. Ora, se Barrie avesse raccontato il racconto,
+avrebbe provato un gentile [[Pride|orgoglio]] nel lasciarci nel [[Doubt|Dubbio]] proprio
+su quel punto; nel suggerire che lo scettico potesse essere l'uomo sano di mente,
+e l'Albero potesse essere una delusione. Ma l'Albero non è una delusione.

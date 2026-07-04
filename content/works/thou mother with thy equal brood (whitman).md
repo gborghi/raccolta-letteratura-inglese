@@ -2,7 +2,7 @@
 title: Thou Mother with Thy Equal Brood
 author: Whitman
 type: work
-cluster: Nationalism and Patriotism · Democracy · Liberty / Political Freedom
+cluster: Nationalism and Patriotism · Democracy · Liberty Political Freedom
 source: Authors/Whitman/_raw/253_Thou_Mother_with_Thy_Equal_Brood.md
 tags:
   - graph/work

@@ -2,7 +2,7 @@
 title: 'Song of Four Faeries - Fire, Air, Earth, and Water -'
 author: Keats
 type: work
-cluster: Joy · Animals · Comic Verse / Song
+cluster: Joy · Animals · Comic Verse Song
 source: Authors/Keats/_raw/126_Song_of_Four_Faeries_-_Fire_Air_Earth_and_Water_-.md
 tags:
   - graph/work

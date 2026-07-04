@@ -2,7 +2,7 @@
 title: I Was Looking a Long While
 author: Whitman
 type: work
-cluster: Nationalism and Patriotism · Democracy · Liberty / Political Freedom
+cluster: Nationalism and Patriotism · Democracy · Liberty Political Freedom
 source: Authors/Whitman/_raw/209_I_Was_Looking_a_Long_While.md
 tags:
   - graph/work

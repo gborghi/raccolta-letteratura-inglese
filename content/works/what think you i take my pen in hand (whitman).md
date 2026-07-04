@@ -2,7 +2,7 @@
 title: What Think You I Take My Pen in Hand?
 author: Whitman
 type: work
-cluster: Comradeship · Union · Hands / Hand in Hand
+cluster: Comradeship · Union · Hands Hand in Hand
 source: Authors/Whitman/_raw/073_What_Think_You_I_Take_My_Pen_in_Hand.md
 tags:
   - graph/work

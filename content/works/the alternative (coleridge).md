@@ -2,7 +2,7 @@
 title: THE ALTERNATIVE
 author: Coleridge
 type: work
-cluster: Unrequited / Frustrated Love · Unattainable Beloved · Petrarchan Sonnet
+cluster: Unrequited Frustrated Love · Unattainable Beloved · Petrarchan Sonnet
 source: Authors/Coleridge/_raw/358_THE_ALTERNATIVE.md
 tags:
   - graph/work

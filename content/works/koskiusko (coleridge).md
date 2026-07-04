@@ -2,7 +2,7 @@
 title: KOSKIUSKO
 author: Coleridge
 type: work
-cluster: Nationalism and Patriotism · Democracy · Liberty / Political Freedom
+cluster: Nationalism and Patriotism · Democracy · Liberty Political Freedom
 source: Authors/Coleridge/_raw/086_KOSKIUSKO.md
 tags:
   - graph/work

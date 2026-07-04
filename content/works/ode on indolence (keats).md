@@ -2,7 +2,7 @@
 title: Ode on Indolence
 author: Keats
 type: work
-cluster: Short Story · Concealment / Hidden Identity · Justice / Right and Wrong
+cluster: Short Story · Concealment Hidden Identity · Justice Right and Wrong
 source: Authors/Keats/_raw/119_Ode_on_Indolence.md
 tags:
   - graph/work

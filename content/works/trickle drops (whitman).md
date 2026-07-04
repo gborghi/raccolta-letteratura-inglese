@@ -2,7 +2,7 @@
 title: Trickle Drops
 author: Whitman
 type: work
-cluster: Letters and Writing · Immortality Through Verse · Immortality of Art / Fame
+cluster: Letters and Writing · Immortality Through Verse · Immortality of Art Fame
 source: Authors/Whitman/_raw/056_Trickle_Drops.md
 tags:
   - graph/work

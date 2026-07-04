@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/don-quixote-(chesterton)">Don Quixote</a> › <a href="/testi/chesterton/atomized/don_quixote/chapter_07">Chapter 07</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/don_quixote/chapter_07/part_02">‹ part 02</a><a class="ex-next" href="/testi/chesterton/atomized/don_quixote/chapter_08/part_01">part 01 ›</a></div>
@@ -107,5 +109,40 @@ I'll show you the red colour I mean in the book, and you shall
 compare it yourself with the colours in my paint-box. And
 then you shall go out yourself and see whether you can buy me
 a cake of it."
+
+-^-
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/don-quixote-(chesterton)">Don Quixote</a> › <a href="/testi/chesterton/atomized/don_quixote/chapter_07">Chapter 07</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/don_quixote/chapter_07/part_02">‹ part 02</a><a class="ex-next" href="/testi/chesterton/atomized/don_quixote/chapter_08/part_01">part 01 ›</a></div>
+</nav>
+
+«[[Well|Ebbene]], [[Well|ebbene]]», aveva detto Murrel, giacché era un paciere universale, «forse è [[Well|bene]] che il lavoro sia lasciato a voi. Siete così pratica. Siete una Donna d'Azione».
+
+E Rosamund fu alquanto placata, e ammise di aver spesso desiderato di essere un uomo.
+
+I desideri della sua amica Olive rimanevano un po' un mistero; ma si può congetturare che questo non fosse tra essi. In verità non era del tutto esatto dire, come diceva Rosamund, che le avessero dato la sua vecchia commedia medievale. Sarebbe più esatto dire che gliel'avevano portata via. L'avevano immensamente migliorata; sembravano esserne del tutto sicuri, e senza [[Doubt|dubbio]] dovevano ben saperlo. Le rendevano ogni possibile omaggio, come a una cosa che si poteva elaborare con grandissimo successo per la scena. Un poco adattata, offriva alcune mirabili entrate e uscite per il signor Julian Archer. Solo che ella cominciava ad avere un sentimento profondo e deplorevole, riguardo a quel gentiluomo: che preferiva le uscite alle entrate. Non ne diceva nulla, e a lui meno che a chiunque. Era una signora di un certo tipo; di quelle che possono litigare con chi amano, ma non con chi disprezzano. Così si rannicchiò nel suo guscio; in quel guscio in cui la vernice d'oro era curiosamente conservata nelle vecchie scatole di colori.
+
+Se sceglieva di colorare d'argento un albero convenzionale, non udiva dietro le spalle la voce sonora del signor Archer che diceva come sarebbe parso meschino non mettervi l'oro. Se dipingeva d'un rosso vivo un pesce decorativo e bizzarro, non si trovava di fronte lo sguardo esasperato della sua migliore amica che diceva: «Cara mia, tu _sai_ che io non posso portare il rosso». Douglas non poteva giocare tiri birboni con le torrette e i padiglioni dei suoi quadri, per quanto apparissero strani e sbilenchi come palazzi da pantomima. Se quelle case erano scherzi, erano scherzi suoi; e non erano affatto pratici. Il cammello non poteva passare per la cruna dell'ago; e l'elefante da pantomima non poteva passare per il buco della serratura della porta che custodiva la sua camera delle immagini. Quella divina [[house|casa]] delle bambole in cui giocava con santi pigmei e angeli pigmei era troppo piccola perché quella gente, come grossi e goffi fratelli e sorelle, vi si cacciasse dentro a precipizio. Così ella ripiegò sul suo vecchio passatempo, tra la [[Wonder|meraviglia]] generale. Nondimeno, in questo particolare mattino, era un poco meno blandamente monomaniaca del solito. Dopo aver lavorato per una decina di minuti, si [[Rose|alzò]] in piedi, guardando fuori nel [[Garden|giardino]]. Poi uscì quasi come un automa, il pennello ancora in mano. Rimase per un po' di [[Time|tempo]] a guardare il grande [[Fragment|frammento]] gotico sul piedistallo, nell'[[Shadow|ombra]] del quale ella e Murrel avevano dibattuto il terribile problema di John Braintree. Poi guardò dall'altra parte, verso le porte e le finestre dell'ala opposta della [[house|casa]]; e vide che sulla soglia della biblioteca stava il bibliotecario, con accanto Douglas Murrel.
+
+La vista di questi due [[Birds|uccelli]] mattinieri parve destare il terzo mattiniero a un contatto più pratico col mondo che si ridestava. Fu come se ella prendesse d'un tratto una risoluzione, o divenisse consapevole di una risoluzione già presa. Camminò un poco più in fretta e in una direzione mutata, verso la biblioteca; e giuntavi, quasi ignorando la brezzosa sorpresa del saluto di Murrel, disse al bibliotecario con una curiosa serietà: «Signor Herne, vorrei che mi lasciasse guardare un libro nella biblioteca».
+
+Herne trasalì come da una trance e disse: «Chiedo scusa».
+
+«Volevo parlarle proprio di questo», disse Olive Ashley. «L'altro giorno guardavo un libro nella biblioteca, un libro miniato su San Luigi, credo; e vi era un rosso meraviglioso; un rosso vivido come se fosse rovente, eppure delicato nella tinta come uno squarcio limpido nel tramonto. Ora, un colore simile non riesco a trovarlo in nessun luogo».
+
+«Oh, non saprei», disse Murrel col suo fare disinvolto. «Ritengo che oggigiorno si possa ottenere [[Well|praticamente]] qualsiasi cosa, se si sa dove andare».
+
+«Vuol dire», disse Olive con una certa amarezza, «che oggigiorno si può ottenere qualsiasi cosa, se si sa come pagarla».
+
+«Mi [[Wonder|domando]]», disse il bibliotecario meditabondo, «se, offrendomi ora di pagare per un _palumon_ paleo-ittita, mi [[Wonder|domando]] se sarebbe facile procurarselo».
+
+«Non dico che Selfridge lo metta proprio in [[Window|vetrina]]», disse Murrel, «ma probabilmente trovereste da qualche parte qualche altro milionario americano disposto a fare quello che lui chiamerebbe un affare con esso».
+
+«Ora senta, Douglas», esclamò Olive con un certo [[Fire|fuoco]], «so che lei ha una passione per le scommesse, le puntate e cose del genere. Le mostrerò il rosso che intendo, nel libro, e lei lo confronterà lui stesso con i colori della mia scatola di vernici. E poi uscirà lei in persona a vedere se riesce a comprarmi una pastiglia di quel colore».
 
 -^-

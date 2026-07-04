@@ -2,7 +2,7 @@
 title: 'Spain, 1873-74'
 author: Whitman
 type: work
-cluster: Ruins / the Abbey · Sic Transit Gloria Mundi · Ubi Sunt
+cluster: Ruins the Abbey · Sic Transit Gloria Mundi · Ubi Sunt
 source: Authors/Whitman/_raw/268_Spain_1873_74.md
 tags:
   - graph/work

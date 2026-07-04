@@ -2,7 +2,7 @@
 title: DEVONSHIRE ROADS
 author: Coleridge
 type: work
-cluster: Wine and Drink · Ballad / Ballade · Road
+cluster: Wine and Drink · Ballad Ballade · Road
 source: Authors/Coleridge/_raw/028_DEVONSHIRE_ROADS.md
 tags:
   - graph/work

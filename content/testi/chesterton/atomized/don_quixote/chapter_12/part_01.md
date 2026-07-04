@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/don-quixote-(chesterton)">Don Quixote</a> › <a href="/testi/chesterton/atomized/don_quixote/chapter_12">Chapter 12</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/don_quixote/chapter_11/part_03">‹ part 03</a><a class="ex-next" href="/testi/chesterton/atomized/don_quixote/chapter_12/part_02">part 02 ›</a></div>
@@ -142,3 +144,68 @@ _He_ is not a snob or a silly flunkey of old Seawood.
 He is the only man I have ever seen who might really defy
 [[democracy]] and the revolution, I know it simply from the way
 he strode about that silly stage and spoke--"
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/don-quixote-(chesterton)">Don Quixote</a> › <a href="/testi/chesterton/atomized/don_quixote/chapter_12">Chapter 12</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/don_quixote/chapter_11/part_03">‹ part 03</a><a class="ex-next" href="/testi/chesterton/atomized/don_quixote/chapter_12/part_02">part 02 ›</a></div>
+</nav>
+
+CAPITOLO XI
+
+LA FOLLIA DEL BIBLIOTECARIO
+
+Lontano, nell'abbazia di Seawood, la grande rappresentazione di «Blondel il Trovatore» era finita. Non era stata soltanto un [[success|successo]], ma una sensazione. Dopo che la si fu recitata due volte in due pomeriggi consecutivi, se ne diede una sorta di speciale replica a richiesta la mattina seguente, in ora relativamente mattutina, per la gioia degli scolari e di altri; e Julian Archer si stava finalmente togliendo l'armatura con un'aria di una certa stanchezza e sollievo. Alcuni tra i più malevoli dicevano che la sua spossatezza dipendeva in parte dal fatto che non era stato lui la sensazione.
+
+«Ecco, è finita» disse a [[Michael]] Herne, che gli stava accanto, ancora avvolto nei romantici cenci verdi del [[King|Re]] fuorilegge. «Vado a infilarmi qualcosa di più comodo. Grazie al cielo non dovremo indossare di nuovo questa roba.»
+
+«Immagino di no» disse Herne, e abbassò lo sguardo sulle proprie lunghe gambe verdi con una sorta di stordimento, quasi non avesse mai visto prima le proprie gambe. «Immagino che non li indosseremo mai più.»
+
+Rimase così, immobile, per un istante; poi, mentre Archer sfrecciava di nuovo verso il proprio camerino, il bibliotecario lo seguì lentamente e si ritirò nei propri appartamenti attigui alla biblioteca.
+
+Un'altra persona rimase come stordita dal pensiero, benché la rappresentazione fosse finita da tempo. Ed era l'autrice della commedia; la quale non aveva affatto la sensazione di averla scritta. Olive Ashley si sentiva come se avesse soltanto acceso un fiammifero a mezzanotte, e questo fosse divampato e si fosse allargato negli sovrumani splendori del sole di mezzanotte. Si sentiva come se avesse dipinto uno dei suoi angeli d'oro e di porpora e il volto dipinto avesse parlato, e avesse detto cose terribili. Poiché quell'eccentrico bibliotecario, tramutato per un'ora in un [[King|re]] da pantomima, poteva essere posseduto da un demonio. Solo che il demonio somigliava un poco all'angelo d'oro e di porpora. Qualcosa pareva sgorgare da lui che nessuno aveva mai pensato fosse in lui; e che la poetessa non poteva vantarsi di avervi messo. Le parve che egli abbracciasse e valicasse con un solo passo tutti gli abissi e tutte le vette note alla segreta [[Humility|umiltà]] dell'[[Artist|artista]]. Non le pareva di udire i versi che aveva scritto. Suonavano come i versi che le sarebbe piaciuto aver scritto. Provava non solo eccitazione, ma attesa. Poiché egli aveva il potere di far sembrare ogni verso più grande del precedente; eppure non erano che i suoi versi discretamente passabili. Il momento che ardeva nella sua [[Memory|memoria]], e in quella di molti ben meno sensibili, fu quello in cui il [[King|Re]], catturato come fuorilegge, rifiutò l'offerta della propria [[Crown|corona]] e dichiarò che, in un mondo di principi malvagi, preferiva la vita errante dei boschi.
+
+  Io che canto in cima agli alti alberi al mattino
+  dovrò calare a farmi Austria; come quel bruto
+  e brigante che m'ha irretito, o esser fatto
+  schiavo, spia, baro, un [[King of France|Re di Francia]]?
+  E quale altra [[Shadow|ombra]] di corona incombe su questa terra?
+  I re malvagi siedon comodi sui loro troni,
+  la vergogna sanata dall'abitudine; ma qual panico lassù,
+  qual selvaggio bianco terrore se un [[King|re]] fosse buono!
+  Qual vacillare delle [[Stars|stelle]]; qual prodigio.
+  Gli uomini sopportano facilmente un padrone ingiusto,
+  ma un padrone giusto nessuno lo sopporterà;
+  i suoi nobili insorgeranno, i suoi cavalieri lo tradiranno,
+  ed egli se ne andrà, come me ne vado io, [[Alone|solo]].
+
+Un'[[Shadow|ombra]] cadde su di lei sull'erba; e, per quanto assorta, le parve di riconoscere persino la forma di quell'[[Shadow|ombra]]. Braintree, rivestito e tornato in senno (che alcuni consideravano un senno assai malato), l'aveva raggiunta nel [[Garden|giardino]].
+
+Prima che egli potesse parlare, lei disse d'impulso: «Ho scoperto una cosa. È più naturale parlare in poesia che parlare in prosa. Proprio come c'è più spontaneità nel cantare che nel balbettare. Solo che, vedete, la maggior parte di noi balbetta.»
+
+«Il vostro bibliotecario di certo non ha balbettato» disse Braintree. «Si potrebbe quasi dire che cantasse. Io sono una persona piuttosto prosaica; eppure in qualche modo mi sento come se avessi ascoltato della buona musica. Tutto ciò appare misteriosissimo. Quando un bibliotecario sa recitare un [[King|Re]] a quel modo, pare esservi una sola conclusione possibile: che finora abbia solo recitato il bibliotecario. E per quanto eccellente fosse come [[King|Re]], ritengo che la sua creazione della parte di un imbarazzato topo di biblioteca fosse una prova ancor più compiuta. Le [[Stars|stelle]] del teatro vengono spesso a nascondersi dietro gli scaffali a questo modo?»
+
+«Voi pensate che recitasse sempre» disse Olive, «e io so che non recitava mai. Questa è la spiegazione.»
+
+«Credo che abbiate ragione» rispose lui. «Ma non avreste giurato di trovarvi al cospetto di un grande attore?»
+
+«No, no; è proprio questo il punto» esclamò lei con veemenza. «Avrei giurato di trovarmi al cospetto di un grande uomo.»
+
+Dopo una pausa proseguì: «Non intendo un grande uomo di teatro come Garrick o Irving o chicchessia. Intendo un grande uomo _morto_ — spaventosamente vivo. Intendo un uomo medievale: un uomo risorto dalla [[Grave|tomba]].»
+
+«So cosa intendete» convenne l'altro, «e naturalmente avete perfettamente ragione. Intendete che egli non avrebbe potuto sostenere nessun'altra parte. Il vostro amico signor Archer avrebbe potuto sostenere qualunque altra parte; ma è soltanto un buon attore.»
+
+«Tutto ciò sembra così strano» disse Olive. «Perché mai il signor Herne, fuori dalla biblioteca, dovrebbe essere... così?»
+
+«Credo di sapere perché» disse Braintree, e la sua voce si abbassò fino a qualcosa che somigliava a un ringhio. «In un senso che nessuno comprende, egli prende davvero la cosa sul serio. E così faccio io; la prendo maledettamente sul serio.»
+
+«Intendete la mia commedia?» chiese lei con un sorriso.
+
+«Ho acconsentito a indossare quei cenci da trovatore e a recitare» disse lui. «Non potrei dare prova maggiore di devozione.»
+
+«Intendo» disse lei un poco in fretta, «cosa intendete a proposito del prendere sul serio la parte del [[King|Re]]?»
+
+«Non mi piacciono i re» replicò Braintree piuttosto rudemente. «Non mi piacciono i cavalieri e i nobili e tutta quella parata di aristocrazia armata. Ma a quell'uomo piacciono. Non finge soltanto che gli piacciano. _Lui_ non è uno snob né uno sciocco lacchè del vecchio Seawood. È l'unico uomo che io abbia mai visto capace di sfidare davvero la [[democracy|democrazia]] e la rivoluzione, lo so semplicemente dal modo in cui incedeva su quel palco sciocco e parlava...»

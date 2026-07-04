@@ -2,7 +2,7 @@
 title: Whoever You Are Holding Me Now in Hand
 author: Whitman
 type: work
-cluster: Comradeship · Union · Hands / Hand in Hand
+cluster: Comradeship · Union · Hands Hand in Hand
 source: Authors/Whitman/_raw/045_Whoever_You_Are_Holding_Me_Now_in_Hand.md
 tags:
   - graph/work

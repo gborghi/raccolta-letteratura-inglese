@@ -2,7 +2,7 @@
 title: Salut au Monde!
 author: Whitman
 type: work
-cluster: Nationalism and Patriotism · Democracy · Liberty / Political Freedom
+cluster: Nationalism and Patriotism · Democracy · Liberty Political Freedom
 source: Authors/Whitman/_raw/082_Salut_au_Monde.md
 tags:
   - graph/work

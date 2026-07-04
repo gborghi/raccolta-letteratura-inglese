@@ -2,7 +2,7 @@
 title: PROGRESS OF VICE
 author: Coleridge
 type: work
-cluster: Temptation · Good vs Evil · Serpent / Snake
+cluster: Temptation · Good vs Evil · Serpent Snake
 source: Authors/Coleridge/_raw/011_PROGRESS_OF_VICE.md
 tags:
   - graph/work

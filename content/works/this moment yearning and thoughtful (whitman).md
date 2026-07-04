@@ -2,7 +2,7 @@
 title: This Moment Yearning and Thoughtful
 author: Whitman
 type: work
-cluster: Comradeship · Union · Hands / Hand in Hand
+cluster: Comradeship · Union · Hands Hand in Hand
 source: Authors/Whitman/_raw/061_This_Moment_Yearning_and_Thoughtful.md
 tags:
   - graph/work

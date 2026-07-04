@@ -2,7 +2,7 @@
 title: TO LORD STANHOPE
 author: Coleridge
 type: work
-cluster: Nationalism and Patriotism · Democracy · Liberty / Political Freedom
+cluster: Nationalism and Patriotism · Democracy · Liberty Political Freedom
 source: Authors/Coleridge/_raw/093_TO_LORD_STANHOPE.md
 tags:
   - graph/work

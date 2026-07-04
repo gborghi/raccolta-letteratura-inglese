@@ -2,7 +2,7 @@
 title: Mungojerrie and Rumpelteazer
 author: Eliot
 type: work
-cluster: Joy · Animals · Comic Verse / Song
+cluster: Joy · Animals · Comic Verse Song
 source: Authors/Eliot/_raw/085_Mungojerrie_and_Rumpelteazer.md
 tags:
   - graph/work

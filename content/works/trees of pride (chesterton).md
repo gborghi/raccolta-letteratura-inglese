@@ -2,7 +2,7 @@
 title: The Trees of Pride
 author: Chesterton
 type: work
-cluster: Short Story · Concealment / Hidden Identity · Justice / Right and Wrong
+cluster: Short Story · Concealment Hidden Identity · Justice Right and Wrong
 source: Authors/Chesterton/_raw/trees_of_pride.md
 tags:
   - graph/work

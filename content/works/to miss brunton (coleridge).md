@@ -2,7 +2,7 @@
 title: TO MISS BRUNTON
 author: Coleridge
 type: work
-cluster: Greek Mythology · Lust / Sexual Desire · Desire
+cluster: Greek Mythology · Lust Sexual Desire · Desire
 source: Authors/Coleridge/_raw/066_TO_MISS_BRUNTON.md
 tags:
   - graph/work

@@ -2,7 +2,7 @@
 title: Old Deuteronomy
 author: Eliot
 type: work
-cluster: Joy · Animals · Comic Verse / Song
+cluster: Joy · Animals · Comic Verse Song
 source: Authors/Eliot/_raw/086_Old_Deuteronomy.md
 tags:
   - graph/work

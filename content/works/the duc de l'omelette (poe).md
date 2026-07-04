@@ -2,7 +2,7 @@
 title: The Duc de L'omelette
 author: Poe
 type: work
-cluster: Temptation · Good vs Evil · Serpent / Snake
+cluster: Temptation · Good vs Evil · Serpent Snake
 source: Authors/Poe/_raw/The Duc de L'omelette.md
 tags:
   - graph/work

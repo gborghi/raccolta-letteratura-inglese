@@ -2,7 +2,7 @@
 title: 'JEUX D’ESPRIT: MY GODMOTHER’S BEARD'
 author: Coleridge
 type: work
-cluster: Greek Mythology · Lust / Sexual Desire · Desire
+cluster: Greek Mythology · Lust Sexual Desire · Desire
 source: Authors/Coleridge/_raw/361_JEUX_DESPRIT_MY_GODMOTHERS_BEARD.md
 tags:
   - graph/work

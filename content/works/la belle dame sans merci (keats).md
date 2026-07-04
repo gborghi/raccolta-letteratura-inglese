@@ -2,7 +2,7 @@
 title: La Belle Dame Sans Merci
 author: Keats
 type: work
-cluster: Greek Mythology · Lust / Sexual Desire · Desire
+cluster: Greek Mythology · Lust Sexual Desire · Desire
 source: Authors/Keats/_raw/125_La_Belle_Dame_Sans_Merci.md
 tags:
   - graph/work

@@ -2,7 +2,7 @@
 title: A LOVER’S COMPLAINT TO HIS MISTRESS
 author: Coleridge
 type: work
-cluster: Unrequited / Frustrated Love · Unattainable Beloved · Petrarchan Sonnet
+cluster: Unrequited Frustrated Love · Unattainable Beloved · Petrarchan Sonnet
 source: Authors/Coleridge/_raw/037_A_LOVERS_COMPLAINT_TO_HIS_MISTRESS.md
 tags:
   - graph/work

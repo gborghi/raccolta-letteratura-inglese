@@ -2,7 +2,7 @@
 title: Sonnet to a Cat
 author: Keats
 type: work
-cluster: Joy · Animals · Comic Verse / Song
+cluster: Joy · Animals · Comic Verse Song
 source: Authors/Keats/_raw/072_Sonnet_to_a_Cat.md
 tags:
   - graph/work

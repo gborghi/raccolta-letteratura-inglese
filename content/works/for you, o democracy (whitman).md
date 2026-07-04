@@ -2,7 +2,7 @@
 title: 'For You, O Democracy'
 author: Whitman
 type: work
-cluster: Nationalism and Patriotism · Democracy · Liberty / Political Freedom
+cluster: Nationalism and Patriotism · Democracy · Liberty Political Freedom
 source: Authors/Whitman/_raw/046_For_You_O_Democracy.md
 tags:
   - graph/work

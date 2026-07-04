@@ -2,7 +2,7 @@
 title: I Dream’d in a Dream
 author: Whitman
 type: work
-cluster: Comradeship · Union · Hands / Hand in Hand
+cluster: Comradeship · Union · Hands Hand in Hand
 source: Authors/Whitman/_raw/072_I_Dream_d_in_a_Dream.md
 tags:
   - graph/work

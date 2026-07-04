@@ -2,7 +2,7 @@
 title: Years of the Modern
 author: Whitman
 type: work
-cluster: Nationalism and Patriotism · Democracy · Liberty / Political Freedom
+cluster: Nationalism and Patriotism · Democracy · Liberty Political Freedom
 source: Authors/Whitman/_raw/278_Years_of_the_Modern.md
 tags:
   - graph/work

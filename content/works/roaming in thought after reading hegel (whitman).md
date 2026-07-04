@@ -2,7 +2,7 @@
 title: Roaming in Thought (After reading Hegel)
 author: Whitman
 type: work
-cluster: Temptation · Good vs Evil · Serpent / Snake
+cluster: Temptation · Good vs Evil · Serpent Snake
 source: Authors/Whitman/_raw/126_Roaming_in_Thought_After_reading_Hegel.md
 tags:
   - graph/work

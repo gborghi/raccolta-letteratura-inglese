@@ -2,7 +2,7 @@
 title: O Tan-Faced Prairie-Boy
 author: Whitman
 type: work
-cluster: Comradeship · Union · Hands / Hand in Hand
+cluster: Comradeship · Union · Hands Hand in Hand
 source: Authors/Whitman/_raw/173_O_Tan_Faced_Prairie_Boy.md
 tags:
   - graph/work

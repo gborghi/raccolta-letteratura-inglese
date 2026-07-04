@@ -2,7 +2,7 @@
 title: Sometimes with One I Love
 author: Whitman
 type: work
-cluster: Unrequited / Frustrated Love · Unattainable Beloved · Petrarchan Sonnet
+cluster: Unrequited Frustrated Love · Unattainable Beloved · Petrarchan Sonnet
 source: Authors/Whitman/_raw/075_Sometimes_with_One_I_Love.md
 tags:
   - graph/work

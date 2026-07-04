@@ -2,7 +2,7 @@
 title: Roots of the World
 author: Chesterton
 type: work
-cluster: Temptation · Good vs Evil · Serpent / Snake
+cluster: Temptation · Good vs Evil · Serpent Snake
 source: Authors/Chesterton/_raw/Roots_of_the_World.md
 tags:
   - graph/work

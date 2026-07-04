@@ -2,7 +2,7 @@
 title: The Truth of Masks
 author: Wilde
 type: work
-cluster: Artist and Society · Truth · Regency/Georgian England
+cluster: Artist and Society · Truth · Regency Georgian England
 source: Authors/Wilde/_raw/027_The_Truth_of_Masks.md
 tags:
   - graph/work

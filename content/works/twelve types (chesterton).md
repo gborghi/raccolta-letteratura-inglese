@@ -2,7 +2,7 @@
 title: Twelve Types
 author: Chesterton
 type: work
-cluster: Artist and Society · Truth · Regency/Georgian England
+cluster: Artist and Society · Truth · Regency Georgian England
 source: Authors/Chesterton/_raw/Twelve_Types.md
 tags:
   - graph/work

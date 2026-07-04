@@ -2,7 +2,7 @@
 title: Al Aaraaf
 author: Poe
 type: work
-cluster: Greek Mythology · Lust / Sexual Desire · Desire
+cluster: Greek Mythology · Lust Sexual Desire · Desire
 source: Authors/Poe/_raw/Al Aaraaf.md
 tags:
   - graph/work

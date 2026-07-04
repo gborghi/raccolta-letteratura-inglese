@@ -2,7 +2,7 @@
 title: An Extempore
 author: Keats
 type: work
-cluster: Joy · Animals · Comic Verse / Song
+cluster: Joy · Animals · Comic Verse Song
 source: Authors/Keats/_raw/122_An_Extempore.md
 tags:
   - graph/work

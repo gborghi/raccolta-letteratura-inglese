@@ -2,7 +2,7 @@
 title: The Mind of the Maker
 author: Sayers
 type: work
-cluster: The Trinity · Creativity · Apologetics
+cluster: Faith · Providence · Divine Love
 source: Authors/Sayers/_raw/The_Mind_of_the_Maker.md
 tags:
   - graph/work
@@ -48,7 +48,7 @@ tags:
 <div class="qlang-switch" data-default="en"></div>
 
 
-*by Sayers*  ·  **Cluster:** [[The Trinity · Creativity · Apologetics]]
+*by Sayers*  ·  **Cluster:** [[Faith · Providence · Divine Love]]
 
 > [!abstract] 
 > Writing not as an apologist but as a professional writer, Sayers argues that the Christian creeds' statements about God the Creator are, when tested against direct experience, an exact description of the human creative mind. Every act of making is a threefold, Trinitarian structure—the Creative Idea (the Father), the Creative Energy or Activity incarnate in matter (the Word), and the Creative Power responding in the reader's soul (the Spirit)—three distinct "Persons" that are yet one work. From this analogy she illuminates free will, miracle, the problem of evil, self-expression, and the worth of work, and she diagnoses a modern age that mistakes life for a "problem" to be solved rather than a creation to be made.

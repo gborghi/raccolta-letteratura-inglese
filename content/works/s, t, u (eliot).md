@@ -2,7 +2,7 @@
 title: 'S, T, U'
 author: Eliot
 type: work
-cluster: Letters and Writing · Immortality Through Verse · Immortality of Art / Fame
+cluster: Letters and Writing · Immortality Through Verse · Immortality of Art Fame
 source: Authors/Eliot/_raw/122_S_T_U.md
 tags:
   - graph/work

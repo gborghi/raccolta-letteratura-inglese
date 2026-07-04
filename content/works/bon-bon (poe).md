@@ -2,7 +2,7 @@
 title: Bon-Bon
 author: Poe
 type: work
-cluster: Temptation · Good vs Evil · Serpent / Snake
+cluster: Temptation · Good vs Evil · Serpent Snake
 source: Authors/Poe/_raw/Bon-Bon.md
 tags:
   - graph/work

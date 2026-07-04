@@ -2,7 +2,7 @@
 title: TO THE AUTHOR OF POEMS
 author: Coleridge
 type: work
-cluster: Letters and Writing · Immortality Through Verse · Immortality of Art / Fame
+cluster: Letters and Writing · Immortality Through Verse · Immortality of Art Fame
 source: Authors/Coleridge/_raw/105_TO_THE_AUTHOR_OF_POEMS.md
 tags:
   - graph/work

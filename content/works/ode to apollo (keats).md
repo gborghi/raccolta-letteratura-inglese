@@ -2,7 +2,7 @@
 title: Ode to Apollo
 author: Keats
 type: work
-cluster: Letters and Writing · Immortality Through Verse · Immortality of Art / Fame
+cluster: Letters and Writing · Immortality Through Verse · Immortality of Art Fame
 source: Authors/Keats/_raw/048_Ode_to_Apollo.md
 tags:
   - graph/work

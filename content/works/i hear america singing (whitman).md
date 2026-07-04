@@ -2,7 +2,7 @@
 title: I Hear America Singing
 author: Whitman
 type: work
-cluster: Nationalism and Patriotism · Democracy · Liberty / Political Freedom
+cluster: Nationalism and Patriotism · Democracy · Liberty Political Freedom
 source: Authors/Whitman/_raw/018_I_Hear_America_Singing.md
 tags:
   - graph/work

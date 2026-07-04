@@ -2,7 +2,7 @@
 title: AN ANGEL VISITANT
 author: Coleridge
 type: work
-cluster: Joy · Animals · Comic Verse / Song
+cluster: Joy · Animals · Comic Verse Song
 source: Authors/Coleridge/_raw/233_AN_ANGEL_VISITANT.md
 tags:
   - graph/work

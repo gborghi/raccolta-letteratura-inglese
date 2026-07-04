@@ -2,7 +2,7 @@
 title: The United States to Old World Critics
 author: Whitman
 type: work
-cluster: Nationalism and Patriotism · Democracy · Liberty / Political Freedom
+cluster: Nationalism and Patriotism · Democracy · Liberty Political Freedom
 source: Authors/Whitman/_raw/329_The_United_States_to_Old_World_Critics.md
 tags:
   - graph/work

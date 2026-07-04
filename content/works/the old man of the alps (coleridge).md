@@ -2,7 +2,7 @@
 title: THE OLD MAN OF THE ALPS
 author: Coleridge
 type: work
-cluster: Joy · Animals · Comic Verse / Song
+cluster: Joy · Animals · Comic Verse Song
 source: Authors/Coleridge/_raw/150_THE_OLD_MAN_OF_THE_ALPS.md
 tags:
   - graph/work

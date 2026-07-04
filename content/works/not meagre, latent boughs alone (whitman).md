@@ -2,7 +2,7 @@
 title: 'Not Meagre, Latent Boughs Alone'
 author: Whitman
 type: work
-cluster: Letters and Writing · Immortality Through Verse · Immortality of Art / Fame
+cluster: Letters and Writing · Immortality Through Verse · Immortality of Art Fame
 source: Authors/Whitman/_raw/343_Not_Meagre_Latent_Boughs_Alone.md
 tags:
   - graph/work

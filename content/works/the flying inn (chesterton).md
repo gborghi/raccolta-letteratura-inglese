@@ -2,7 +2,7 @@
 title: The Flying Inn
 author: Chesterton
 type: work
-cluster: Wine and Drink · Ballad / Ballade · Road
+cluster: Wine and Drink · Ballad Ballade · Road
 source: Authors/Chesterton/_raw/The_Flying_Inn.md
 tags:
   - graph/work

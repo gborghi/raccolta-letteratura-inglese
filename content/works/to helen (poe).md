@@ -2,7 +2,7 @@
 title: To Helen
 author: Poe
 type: work
-cluster: Greek Mythology · Lust / Sexual Desire · Desire
+cluster: Greek Mythology · Lust Sexual Desire · Desire
 source: Authors/Poe/_raw/To Helen (2).md
 tags:
   - graph/work

@@ -2,7 +2,7 @@
 title: Others May Praise What They Like
 author: Whitman
 type: work
-cluster: Nationalism and Patriotism · Democracy · Liberty / Political Freedom
+cluster: Nationalism and Patriotism · Democracy · Liberty Political Freedom
 source: Authors/Whitman/_raw/217_Others_May_Praise_What_They_Like.md
 tags:
   - graph/work

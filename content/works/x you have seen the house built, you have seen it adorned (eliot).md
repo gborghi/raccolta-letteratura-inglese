@@ -2,7 +2,7 @@
 title: 'X You have seen the house built, you have seen it adorned'
 author: Eliot
 type: work
-cluster: Temptation · Good vs Evil · Serpent / Snake
+cluster: Temptation · Good vs Evil · Serpent Snake
 source: >-
   Authors/Eliot/_raw/067_X_You_have_seen_the_house_built_you_have_seen_it_adorned.md
 tags:

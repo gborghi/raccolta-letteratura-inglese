@@ -2,7 +2,7 @@
 title: 'J, K, L'
 author: Eliot
 type: work
-cluster: Letters and Writing · Immortality Through Verse · Immortality of Art / Fame
+cluster: Letters and Writing · Immortality Through Verse · Immortality of Art Fame
 source: Authors/Eliot/_raw/119_J_K_L.md
 tags:
   - graph/work

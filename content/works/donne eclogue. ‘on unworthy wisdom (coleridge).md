@@ -2,7 +2,7 @@
 title: 'DONNE: ECLOGUE. ‘ON UNWORTHY WISDOM'
 author: Coleridge
 type: work
-cluster: Letters and Writing · Immortality Through Verse · Immortality of Art / Fame
+cluster: Letters and Writing · Immortality Through Verse · Immortality of Art Fame
 source: Authors/Coleridge/_raw/421_DONNE_ECLOGUE_ON_UNWORTHY_WISDOM.md
 tags:
   - graph/work

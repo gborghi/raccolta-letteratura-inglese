@@ -2,7 +2,7 @@
 title: Cousin Nancy
 author: Eliot
 type: work
-cluster: New England / America · New England
+cluster: New England America · New England
 source: Authors/Eliot/_raw/009_Cousin_Nancy.md
 tags:
   - graph/work

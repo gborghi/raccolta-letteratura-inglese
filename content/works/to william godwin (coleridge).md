@@ -2,7 +2,7 @@
 title: TO WILLIAM GODWIN
 author: Coleridge
 type: work
-cluster: Short Story · Concealment / Hidden Identity · Justice / Right and Wrong
+cluster: Short Story · Concealment Hidden Identity · Justice Right and Wrong
 source: Authors/Coleridge/_raw/090_TO_WILLIAM_GODWIN.md
 tags:
   - graph/work

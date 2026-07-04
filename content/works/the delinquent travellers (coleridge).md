@@ -2,7 +2,7 @@
 title: THE DELINQUENT TRAVELLERS
 author: Coleridge
 type: work
-cluster: Wine and Drink · Ballad / Ballade · Road
+cluster: Wine and Drink · Ballad Ballade · Road
 source: Authors/Coleridge/_raw/267_THE_DELINQUENT_TRAVELLERS.md
 tags:
   - graph/work

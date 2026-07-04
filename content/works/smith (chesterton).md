@@ -2,7 +2,7 @@
 title: 'Antichrist, or the Reunion of Christendom: An Ode'
 author: Chesterton
 type: work
-cluster: Martyrdom · Martyr / Saint · Cross
+cluster: Martyrdom · Martyr Saint · Cross
 source: Authors/Chesterton/_raw/smith.md
 tags:
   - graph/work

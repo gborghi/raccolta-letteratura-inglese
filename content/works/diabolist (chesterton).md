@@ -2,7 +2,7 @@
 title: The Diabolist
 author: Chesterton
 type: work
-cluster: Temptation · Good vs Evil · Serpent / Snake
+cluster: Temptation · Good vs Evil · Serpent Snake
 source: Authors/Chesterton/_raw/diabolist.md
 tags:
   - graph/work

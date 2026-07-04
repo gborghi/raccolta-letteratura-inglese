@@ -2,7 +2,7 @@
 title: Race of Veterans
 author: Whitman
 type: work
-cluster: Nationalism and Patriotism · Democracy · Liberty / Political Freedom
+cluster: Nationalism and Patriotism · Democracy · Liberty Political Freedom
 source: Authors/Whitman/_raw/171_Race_of_Veterans.md
 tags:
   - graph/work

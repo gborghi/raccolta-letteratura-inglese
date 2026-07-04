@@ -2,7 +2,7 @@
 title: The Critic as Artist
 author: Wilde
 type: work
-cluster: Artist and Society · Truth · Regency/Georgian England
+cluster: Artist and Society · Truth · Regency Georgian England
 source: Authors/Wilde/_raw/026_The_Critic_as_Artist.md
 tags:
   - graph/work

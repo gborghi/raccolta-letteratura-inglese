@@ -2,7 +2,7 @@
 title: The Myth of Arthur
 author: Chesterton
 type: work
-cluster: Artist and Society · Truth · Regency/Georgian England
+cluster: Artist and Society · Truth · Regency Georgian England
 source: Authors/Chesterton/_raw/arthur.md
 tags:
   - graph/work

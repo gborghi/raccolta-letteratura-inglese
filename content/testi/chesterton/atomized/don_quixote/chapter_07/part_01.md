@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/don-quixote-(chesterton)">Don Quixote</a> › <a href="/testi/chesterton/atomized/don_quixote/chapter_07">Chapter 07</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/don_quixote/chapter_06/part_03">‹ part 03</a><a class="ex-next" href="/testi/chesterton/atomized/don_quixote/chapter_07/part_02">part 02 ›</a></div>
@@ -145,3 +147,58 @@ your plan better."
 but if they found a Trouvère hanging about the [[Garden|garden]],
 it would not be very respectable and he might be pinched
 by the police for loitering with intent to commit a felony."
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/don-quixote-(chesterton)">Don Quixote</a> › <a href="/testi/chesterton/atomized/don_quixote/chapter_07">Chapter 07</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/don_quixote/chapter_06/part_03">‹ part 03</a><a class="ex-next" href="/testi/chesterton/atomized/don_quixote/chapter_07/part_02">part 02 ›</a></div>
+</nav>
+
+CAPITOLO VI
+
+UN INCARICO DA COLORISTA
+
+Mentre Murrel guardava, gli si fece a poco a poco strada nella mente (che forse si andava sgombrando piuttosto lentamente da molti fumi festaioli) la coscienza di uno dei risultati della sua insensata spedizione notturna, o esperimento nell'[[Education|educazione]] dei rivoluzionari. Era rimasto fuori tutta la [[Night|notte]] e non aveva veduto nulla di ciò che era ultimamente accaduto ai suoi amici e alle loro recite. Ma ricordava che era stato quasi esattamente in questo momento del mattino, con le sue ombre lunghe, sottili e affusolate e il debole, remoto rossore dell'[[Dawn|alba]], che aveva abbandonato la sua pittura degli scenari e si era tuffato nella biblioteca all'inseguimento del bibliotecario. Aveva lasciato il bibliotecario in cima alla scala poco più di ventiquattr'ore prima. Ed ecco la scala buttata via come cianfrusaglia nel [[Garden|giardino]], macchiata di muffa, uno [[skeleton|scheletro]] sul quale i ragni tessevano le loro argentee tele mattutine. Che cosa era accaduto, e perché quel particolare mobile era stato così gettato nel [[Garden|giardino]]? Ricordò le facezie di Julian Archer, e il suo volto si contrasse in uno spasimo di fastidio mentre si dirigeva in fretta verso la biblioteca e vi gettava un'occhiata.
+
+La sua prima impressione fu che la stanza lunga e alta, interamente rivestita di libri, fosse vuota. Un istante dopo vide che in alto, nell'angolo buio dove il bibliotecario aveva trovato i suoi testi francesi di [[history|storia]] medievale, pendeva una strana sorta di nuvola o foschia luminosa e azzurrina. Poi vide che la luce elettrica ardeva ancora, e che il velo di vapore attraverso cui essa splendeva era il risultato del fatto che qualcuno aveva fumato su quel remoto posatoio, e fumato per un considerevole numero di ore, forse (come cominciava ad [[Dawn|albeggiare]] nella mente dello sviato festaiolo) tutta la [[Night|notte]] e gran parte del giorno prima. Poi per la prima [[Time|volta]] si raffigurò chiaramente le due lunghe gambe del signor [[Michael]] Herne, ancora penzolanti dalla sua alta cornice; dove pareva che egli avesse letto senza posa da un'aurora all'altra. Per fortuna, sembrava che avesse qualcosa da fumare. Ma non poteva assolutamente avere avuto nulla da mangiare. «Che il Signore ci benedica», mormorò Murrel fra sé, «quest'uomo dev'essere affamato! E il [[Sleep|sonno]], poi? Se avesse dormito su quella cornice, immagino sarebbe caduto giù».
+
+Chiamò con cautela l'uomo lassù, un po' come si fa con un [[Child|bambino]] che gioca sull'orlo di un precipizio. Gli disse, quasi in tono rassicurante: «Va tutto bene; ho la scala».
+
+Il bibliotecario alzò placidamente lo sguardo al di sopra del suo grosso libro. «Vuole che scenda?» chiese.
+
+E allora Murrel vide l'ultimo dei prodigi delle sue assurde ventiquattr'ore. Poiché, senza aspettare affatto la scala, il bibliotecario si lasciò scivolare rapidamente giù per la facciata dello scaffale, trovando appigli nei ripiani, con qualche difficoltà e non poco pericolo, per atterrare infine sui piedi. È vero che, giunto a terra, ebbe un barcollamento.
+
+«Ha interpellato Garton Rogers?» domandò. «Che periodo interessante!»
+
+Murrel non si lasciava sgomentare facilmente, ma per un momento anche lui quasi barcollò. Non poté che rispondere con uno sguardo attonito e la ripetizione della parola: «Periodo! Quale periodo?»
+
+«[[Well|Ebbene]]», replicò il signor Herne, il bibliotecario, socchiudendo gli occhi. «Suppongo che potremmo collocare il periodo più interessante, diciamo, dal 1080 al 1260. Che ne pensa?»
+
+«Penso che sia una lunga [[Time|attesa]] per un pasto», rispose Murrel. «Amico mio, dev'essere ridotto alla fame. È davvero rimasto appollaiato lassù per... per duecento anni, per così dire?»
+
+«Mi sento un po' buffo, in effetti», replicò Herne.
+
+«Non approvo il suo gusto in fatto di divertimenti», rispose l'altro. «Senta, andrò a procurarle qualcosa da mangiare. La servitù non è ancora in piedi; ma un garzone di cucina, un tempo mio amico, mi mostrò una volta la via della dispensa».
+
+Uscì in fretta dalla stanza e tornò dopo circa cinque minuti recando un vassoio carico di cose incongrue, tra le quali parevano predominare le bottiglie di birra.
+
+«Antico [[cheese|formaggio]] britannico», disse, deponendo i vari oggetti sopra uno scaffale girevole. «Pollo freddo, probabilmente non anteriore al 1390. Birra, quale la beveva [[Richard|Riccardo]] Cuor di [[Lion|Leone]]; o almeno quel tanto che ne lasciò. _Jambon froid à la mode Troubadour._ Cominci subito, la prego. Le assicuro che il mangiare e il bere erano in uso già nel migliore dei periodi».
+
+«Non posso davvero bere tutta questa birra», disse il bibliotecario. «È prestissimo».
+
+«Al contrario, è tardissimo», disse Murrel. «Non mi dispiace farle compagnia, giacché sto giusto concludendo una sorta di banchetto per conto mio. Un altro sorsetto non ci farà alcun male, come dice l'antica [[Song|canzone]] provenzale dei Trovatori».
+
+«Davvero», disse Herne, «non capisco bene che cosa significhi tutto questo».
+
+«Neanch'io», replicò Murrel, «ma la [[Truth|verità]] è che anch'io sono stato fuori dal letto tutta la [[Night|notte]]. Impegnato in ricerche. Non proprio ricerche sul suo periodo, ma su un altro periodo; un periodo sistematico, organizzato, pieno di sociologia e di tutto il resto. Mi perdonerà se anch'io sono un po' intontito. Mi domando se davvero ci fosse una così maledetta differenza tra un periodo e l'altro».
+
+«Ma vede», esclamò Herne con ardore, «in un certo senso è proprio così che la penso io. È straordinario quali paralleli si trovino tra questo periodo medievale e la mia materia. Com'è interessante tutto quel mutamento, quel trasformarsi del vecchio funzionario imperiale in nobile ereditario! Non le parrebbe di leggere della trasformazione dei Nal dopo l'invasione degli Zamul?»
+
+«Come no!» disse Murrel con fiacco fervore. «[[Well|Ebbene]], [[Hope|spero]] che potrà informarci per bene sui Trovatori».
+
+«[[Well|Ebbene]], certo lei e i suoi amici sanno il fatto vostro», disse il bibliotecario. «Avete studiato tutto per benino tempo fa; ma mi [[Wonder|meraviglia]] alquanto che vi siate concentrati tanto sui Trovatori. Avrei pensato che i Trovieri si sarebbero adattati meglio al vostro disegno».
+
+«È questione di convenzione, immagino», rispose Murrel. «È cosa del tutto regolare farsi fare una serenata da un Trovatore; ma se trovassero un Troviere a gironzolare per il [[Garden|giardino]], non sarebbe molto rispettabile ed egli potrebbe essere acciuffato dalla polizia per vagabondaggio con l'intento di commettere un reato».

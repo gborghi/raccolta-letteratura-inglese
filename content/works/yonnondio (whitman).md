@@ -2,7 +2,7 @@
 title: Yonnondio
 author: Whitman
 type: work
-cluster: Ruins / the Abbey · Sic Transit Gloria Mundi · Ubi Sunt
+cluster: Ruins the Abbey · Sic Transit Gloria Mundi · Ubi Sunt
 source: Authors/Whitman/_raw/325_Yonnondio.md
 tags:
   - graph/work

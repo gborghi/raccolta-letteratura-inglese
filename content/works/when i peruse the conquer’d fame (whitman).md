@@ -2,7 +2,7 @@
 title: When I Peruse the Conquer’d Fame
 author: Whitman
 type: work
-cluster: Comradeship · Union · Hands / Hand in Hand
+cluster: Comradeship · Union · Hands Hand in Hand
 source: Authors/Whitman/_raw/064_When_I_Peruse_the_Conquer_d_Fame.md
 tags:
   - graph/work

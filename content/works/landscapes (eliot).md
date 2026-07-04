@@ -2,7 +2,7 @@
 title: Landscapes
 author: Eliot
 type: work
-cluster: New England / America · New England
+cluster: New England America · New England
 source: Authors/Eliot/_raw/055_Landscapes.md
 tags:
   - graph/work

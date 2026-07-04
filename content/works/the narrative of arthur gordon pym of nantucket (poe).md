@@ -2,7 +2,7 @@
 title: The Narrative of Arthur Gordon Pym of Nantucket
 author: Poe
 type: work
-cluster: Night Journey / Vision · Katabasis / Descent · Quest Hero
+cluster: Night Journey Vision · Katabasis Descent · Quest Hero
 source: Authors/Poe/_raw/The Narrative of Arthur Gordon Pym of Nantucket.md
 tags:
   - graph/work

@@ -2,7 +2,7 @@
 title: Chanting the Square Deific
 author: Whitman
 type: work
-cluster: Temptation · Good vs Evil · Serpent / Snake
+cluster: Temptation · Good vs Evil · Serpent Snake
 source: Authors/Whitman/_raw/237_Chanting_the_Square_Deific.md
 tags:
   - graph/work

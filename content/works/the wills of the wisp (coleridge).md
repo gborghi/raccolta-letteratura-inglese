@@ -2,7 +2,7 @@
 title: THE WILLS OF THE WISP
 author: Coleridge
 type: work
-cluster: Greek Mythology · Lust / Sexual Desire · Desire
+cluster: Greek Mythology · Lust Sexual Desire · Desire
 source: Authors/Coleridge/_raw/367_THE_WILLS_OF_THE_WISP.md
 tags:
   - graph/work

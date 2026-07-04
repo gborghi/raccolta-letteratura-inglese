@@ -2,7 +2,7 @@
 title: ORIGINAL POETRY.
 author: Coleridge
 type: work
-cluster: Nationalism and Patriotism · Democracy · Liberty / Political Freedom
+cluster: Nationalism and Patriotism · Democracy · Liberty Political Freedom
 source: Authors/Coleridge/_raw/148_ORIGINAL_POETRY.md
 tags:
   - graph/work

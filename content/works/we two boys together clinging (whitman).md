@@ -2,7 +2,7 @@
 title: We Two Boys Together Clinging
 author: Whitman
 type: work
-cluster: Comradeship · Union · Hands / Hand in Hand
+cluster: Comradeship · Union · Hands Hand in Hand
 source: Authors/Whitman/_raw/065_We_Two_Boys_Together_Clinging.md
 tags:
   - graph/work

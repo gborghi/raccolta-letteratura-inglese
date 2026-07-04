@@ -2,7 +2,7 @@
 title: Sonnet on Sitting Down to Read King Lear Once Again
 author: Keats
 type: work
-cluster: Letters and Writing · Immortality Through Verse · Immortality of Art / Fame
+cluster: Letters and Writing · Immortality Through Verse · Immortality of Art Fame
 source: Authors/Keats/_raw/074_Sonnet_on_Sitting_Down_to_Read_King_Lear_Once_Again.md
 tags:
   - graph/work

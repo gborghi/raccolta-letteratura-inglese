@@ -2,7 +2,7 @@
 title: JOB’S LUCK
 author: Coleridge
 type: work
-cluster: Temptation · Good vs Evil · Serpent / Snake
+cluster: Temptation · Good vs Evil · Serpent Snake
 source: Authors/Coleridge/_raw/316_JOBS_LUCK.md
 tags:
   - graph/work

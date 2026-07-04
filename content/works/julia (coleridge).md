@@ -2,7 +2,7 @@
 title: JULIA
 author: Coleridge
 type: work
-cluster: Joy · Animals · Comic Verse / Song
+cluster: Joy · Animals · Comic Verse Song
 source: Authors/Coleridge/_raw/005_JULIA.md
 tags:
   - graph/work

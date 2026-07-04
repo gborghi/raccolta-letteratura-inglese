@@ -2,7 +2,7 @@
 title: Two Kinds of Paradox
 author: Chesterton
 type: work
-cluster: Artist and Society · Truth · Regency/Georgian England
+cluster: Artist and Society · Truth · Regency Georgian England
 source: Authors/Chesterton/_raw/Two_Kinds_of_Paradox.md
 tags:
   - graph/work

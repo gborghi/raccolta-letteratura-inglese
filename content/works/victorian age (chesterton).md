@@ -2,7 +2,7 @@
 title: The Victorian Age in Literature
 author: Chesterton
 type: work
-cluster: Artist and Society · Truth · Regency/Georgian England
+cluster: Artist and Society · Truth · Regency Georgian England
 source: Authors/Chesterton/_raw/Victorian_Age.md
 tags:
   - graph/work

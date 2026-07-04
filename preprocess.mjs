@@ -968,7 +968,7 @@ async function main() {
   // Map the 12 biggest clusters to their emblem files (by leading keyword).
   const clusterEmblem = [
     [/^Death/, "cluster-death"],
-    [/^Romantic Love/, "cluster-love"],
+    [/Frustrated Love/, "cluster-love"],
     [/^Grief/, "cluster-grief"],
     [/^Sonnet/, "cluster-sonnet"],
     [/^Wonder/, "cluster-wonder"],
@@ -978,7 +978,7 @@ async function main() {
     [/^Money/, "cluster-money"],
     [/^Seasons/, "cluster-seasons"],
     [/^Nature ·/, "cluster-nature"],
-    [/^The Sea/, "cluster-sea"],
+    [/^Sea ·/, "cluster-sea"],
   ]
   const clustersWheel = clusterEmblem
     .map(([re, img]) => {

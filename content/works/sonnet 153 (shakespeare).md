@@ -2,7 +2,7 @@
 title: Sonnet 153
 author: Shakespeare
 type: work
-cluster: Greek Mythology · Lust / Sexual Desire · Desire
+cluster: Greek Mythology · Lust Sexual Desire · Desire
 source: Authors/Shakespeare/Sonnets/Sonnet_153.md
 tags:
   - graph/work

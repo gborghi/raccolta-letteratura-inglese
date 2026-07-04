@@ -2,7 +2,7 @@
 title: MILESISCHES MÄHRCHEN
 author: Coleridge
 type: work
-cluster: Greek Mythology · Lust / Sexual Desire · Desire
+cluster: Greek Mythology · Lust Sexual Desire · Desire
 source: Authors/Coleridge/_raw/433_MILESISCHES_MÄHRCHEN.md
 tags:
   - graph/work

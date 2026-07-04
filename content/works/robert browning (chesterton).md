@@ -2,7 +2,7 @@
 title: Robert Browning
 author: Chesterton
 type: work
-cluster: Artist and Society · Truth · Regency/Georgian England
+cluster: Artist and Society · Truth · Regency Georgian England
 source: Authors/Chesterton/_raw/Robert_Browning.md
 tags:
   - graph/work

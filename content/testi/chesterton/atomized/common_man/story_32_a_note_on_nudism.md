@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/common-man-(chesterton)">Common Man</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/common_man/story_31_the_outline_of_liberty">‹ Story 31 The Outline Of Liberty</a><a class="ex-next" href="/testi/chesterton/atomized/common_man/story_33_consulting_the_encyclopaedia">Story 33 Consulting The Encyclopaedia ›</a></div>
@@ -70,3 +72,20 @@ would die for her [[Faith|faith]] or promise, or any worthy obligation.
 We know nothing about the other woman, except that (like the pig
 and other [[Animals|animals]]), she feels more comfortable without clothes.
 It seems to me an insufficient basis for moral confidence.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/common-man-(chesterton)">Common Man</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/common_man/story_31_the_outline_of_liberty">‹ Story 31 The Outline Of Liberty</a><a class="ex-next" href="/testi/chesterton/atomized/common_man/story_33_consulting_the_encyclopaedia">Story 33 Consulting The Encyclopaedia ›</a></div>
+</nav>
+
+UNA NOTA SUL NUDISMO
+
+C'è una piccola abitudine di alcuni fra i più intelligenti scrittori moderni contro la quale vorrei protestare. Consiste nel rifiutarsi recisamente di esporre l'opinione altrui così com'è, e di considerarla per quello che vale in sé. Lo scrittore moderno deve sempre presupporre che si tratti di scegliere fra la propria opinione estrema e qualcosa che sta all'estremo opposto. Ne ho trovato un curioso esempio in un libro davvero eccellente della signorina Cicely Hamilton, intitolato *Modern Germanies*. Vi si riferiva alla setta dei nudisti, i quali hanno fatto rinascere l'antica eresia degli adamiti e vanno in giro senza alcun vestito, prendendosi molto sul serio, come se la [[Nakedness|nudità]] fosse una nuova invenzione. Credo che la signorina Hamilton abbia in realtà esitato un poco, sospinta dal suo istinto di persona civile a ridere, e dal suo istinto di persona progressista ad applaudire. Che fa allora? Ripete immediatamente la vecchia storia secondo cui in *Paul et Virginie*, quel [[Novel|romanzo]] settecentesco tanto artificioso e sentimentale, l'eroina annega perché si rifiuta di togliersi i vestiti. Aggiunge poi che, «dovendo scegliere» fra Virginie e una qualche svampita tedesca che trova più comodo non avere vestiti da sventolare, sceglierà quest'ultima. Ma, in primo luogo, perché mai dovrebbe «dover scegliere»? Perché non considerare il nudismo per quello che vale in sé, e la concezione normale dei vestiti, propria delle persone sane, anch'essa per quello che vale in sé? Se devo giudicare un ubriacone, lo giudicherò senza tirare in ballo il paragone con un folle fachiro che si è deliberatamente lasciato morire di sete nel [[Desert|deserto]]. Se devo giudicare un avaro, lo chiamerò avaro, malgrado la possibile esistenza di un nobile pazzo e ubriaco a Vienna, che ha gettato in un tombino diecimila monete d'oro. Non riesco a capire perché la signorina Hamilton debba invocare una stravaganza soltanto per giustificarne un'altra.
+
+In secondo luogo, se davvero suppone che la [[morality|morale]] normale, tradizionale o cristiana sia rappresentata da Virginie, probabilmente si sbaglia di grosso. La maggior parte delle autorità cristiane direbbe che la sua idea di sacrificio si accostava molto al peccato del [[suicide|suicidio]]. Perché *Paul et Virginie* non fu scritto in un'epoca cristiana, ma in un'epoca assai pagana, quando la Francia pre-rivoluzionaria era [[Love|innamorata]] degli stoici pagani, i quali non disapprovavano il [[suicide|suicidio]]. La storia stessa è in gran parte fondata su un antico [[Romance|romanzo]] classico. Non la si può prendere come tipica del [[Christianity|cristianesimo]] moderno, e nemmeno del [[Christianity|cristianesimo]] medievale. È giusto ricordare che, in questo senso, Virginie è un'eroina pagana; e Godiva era un'eroina cristiana.
+
+Infine, non sono affatto sicuro che sceglierei la svampita tedesca, quand'anche fossi costretto alla scelta. Possiamo pensare che un sacrificio sia offerto a un codice d'[[Honour|onore]] sbagliato; ma resta il sacrificio, e resta l'[[Honour|onore]]. Non abbiamo alcun motivo di supporre che la nudista sappia nemmeno che cosa intendiamo per [[Honour|onore]]. Di lei non sappiamo nulla, se non che ignora che cosa intendiamo per dignità. Come semplice dato di psicologia pratica, ritengo estremamente probabile che la povera fanciulla in errore, che sarebbe morta per la propria dignità, sarebbe anche morta per la propria patria, sarebbe morta per i propri amici, sarebbe morta per la propria [[Faith|fede]] o per una promessa, o per qualsiasi obbligo degno. Dell'altra donna non sappiamo nulla, se non che (come il maiale e gli altri [[Animals|animali]]) si sente più a proprio agio senza vestiti. Mi pare una base insufficiente per riporvi una fiducia morale.

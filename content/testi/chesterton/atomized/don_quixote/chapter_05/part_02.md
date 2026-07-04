@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/don-quixote-(chesterton)">Don Quixote</a> › <a href="/testi/chesterton/atomized/don_quixote/chapter_05">Chapter 05</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/don_quixote/chapter_05/part_01">‹ part 01</a><a class="ex-next" href="/testi/chesterton/atomized/don_quixote/chapter_05/part_03">part 03 ›</a></div>
@@ -128,3 +130,127 @@ Some association of ideas led Wister to echo unconsciously the
 complaint of Olive Ashley and remark that the red used for the wings
 of one of the angels was something of a lost technical secret.
 When one considered how the Last Supper had faded--
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/don-quixote-(chesterton)">Don Quixote</a> › <a href="/testi/chesterton/atomized/don_quixote/chapter_05">Chapter 05</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/don_quixote/chapter_05/part_01">‹ part 01</a><a class="ex-next" href="/testi/chesterton/atomized/don_quixote/chapter_05/part_03">part 03 ›</a></div>
+</nav>
+
+La teoria di Olive sull'educare l'uomo ineducato mediante la frequentazione
+di uomini istruiti parve dargli parecchio materiale
+su cui riflettere, mentre attraversava l'erboso spiazzo tirando calci ai talloni,
+con le mani ficcate a fondo nelle tasche dei pantaloni. Certo,
+qualcosa di vero c'era; i giovanotti a volte trovavano il proprio livello
+andando a [[Oxford]]. Scoprono in che modo la loro [[Education|educazione]]
+sia stata trascurata, anche se poi continuano a trascurarla.
+Ma egli non aveva mai visto l'esperimento tentato su uno strato sociale così buio
+come il nero e sepolto filone di carbone che il Sindacalista rappresentava.
+Non riusciva a immaginare qualcuno tanto rude e ostinato nella sua demagogia
+quanto il suo amico Jack Braintree imparare a poco a poco a tenere in equilibrio
+una sigaretta e una tazza da tè e a discorrere dello Shakespeare rumeno.
+Quel pomeriggio ci sarebbe stato un ricevimento di quel genere, lo sapeva...
+ma Braintree in mezzo a esso! Certo, c'era tutto un mondo di cose
+che il cupo comiziante uscito dai bassifondi non conosceva.
+Non era però così sicuro che potessero mai essere cose che
+lui avesse voglia di conoscere.
+
+Avendo tuttavia deciso una volta per tutte di venire in soccorso
+della Società e di Olive Ashley, esibendo così il minatore illetterato
+alla stregua di un ilota ubriaco, si mise gravemente all'opera; ed era
+quanto mai caratteristico di lui che la sua gravità nascondesse la sua profonda
+e semplice gioia per uno scherzo. Forse la questione di chi fosse
+colui ai danni del quale lo scherzo veniva giocato non era poi così semplice.
+Si diresse verso l'ala dell'edificio che conteneva
+lo studio, non spesso violato, del grande Lord Seawood in persona.
+Vi rimase un'ora, e ne uscì sorridendo.
+
+Fu così che, attraverso queste manovre di cui era
+del tutto ignaro, lo sconcertato Braintree, la barba e i capelli scuri
+che parevano rizzarglisi in ogni direzione mentre si guardava
+intorno in cerca di illuminazione, si ritrovò quel pomeriggio
+(dopo un solenne e misteriosamente inutile colloquio con il
+grande capitalista) scaricato da un'altra porta nel salotto
+dell'aristocrazia dell'intelletto che avrebbe dovuto completare la sua [[Education|educazione]].
+Aveva certamente un aspetto piuttosto incompleto; in piedi in quella stanza
+con una curvatura di spalle e un cipiglio, non meno imbronciati
+per il fatto di essere imbronciati inconsapevolmente. Non era brutto;
+ma appariva goffo. Soprattutto, appariva ostile;
+e si sentiva tale. Erano gli altri, a rendere loro giustizia,
+a mostrare cordialità; talvolta, forse, un po'
+pesante nella sua espansività. C'era un ampio, blando gentiluomo dalla testa calva
+che era particolarmente espansivo; e mai più espansivo,
+si potrebbe dire mai più rumoroso, di quando si faceva confidenziale.
+Aveva in sé qualcosa di quel potentato delle Bab Ballads
+il cui bisbiglio era un urlo spaventoso.
+
+«Ciò di cui abbiamo bisogno», disse, polverizzando con dolcezza qualcosa nel cavo
+del palmo con il pugno serrato, «ciò di cui abbiamo bisogno per la pace industriale
+è l'istruzione industriale. Non date mai ascolto ai reazionari.
+Non credete mai a quei tali che dicono che l'[[Education|educazione]] popolare è un errore.
+Certo, le masse devono avere un'[[Education|educazione]]. Ma soprattutto,
+un'[[Education|educazione]] economica. Se solo riuscissimo a ficcare nelle teste della gente
+qualche nozione delle leggi dell'economia politica, non sentiremmo
+più parlare di queste dispute che cacciano il commercio fuori dal paese
+e minacciano di puntare una [[Pistol|pistola]] alla tempia del pubblico.
+Quali che siano le nostre opinioni, tutti vogliamo impedirlo.
+Quale che sia il nostro partito, non lo vogliamo. Non
+lo dico nell'interesse di alcun partito; dico che è qualcosa
+del tutto al di sopra dei partiti.»
+
+«Ma se io dico», rispose Braintree, «che vogliamo anche l'estensione
+della domanda effettiva, non è forse questo al di sopra dei partiti?»
+
+L'uomo corpulento gli lanciò un'occhiata rapida e quasi furtiva.
+Poi disse: «Certo... oh, certo.»
+
+Vi fu un [[Silence|silenzio]] e poi qualche allegra osservazione sul tempo;
+e poi Braintree si accorse che l'uomo corpulento in qualche modo
+si era allontanato da lui in modo fluido e inoffensivo, nuotando come qualche
+silenzioso leviatano verso altri mari. La testa calva dell'uomo corpulento
+e il pince-nez piuttosto pomposamente appollaiato avevano in qualche modo dato
+l'impressione che egli fosse un professore di economia politica.
+La sua conversazione aveva in qualche modo dato l'impressione che non lo fosse.
+La prima tappa del corso di cultura del signor Braintree fu,
+forse, infelice. Poiché lasciò quel cupo personaggio
+con una crescente impressione interiore, giusta o sbagliata che fosse, secondo la quale
+il fautore dell'[[Education|Educazione]] economica per le Masse non aveva
+egli stesso la minima idea di cosa significhi «domanda effettiva».
+
+Questo primo fiasco, tuttavia, non può essere conteggiato con equità;
+poiché il grosso uomo calvo (che era, in effetti, un certo Sir Howard Pryce,
+a capo di una ben grossa impresa di saponi) aveva forse messo il piede
+per caso all'interno del terreno piuttosto ristretto del Sindacalista stesso.
+Il salotto conteneva un gran numero di persone che non erano affatto
+inclini a discutere di istruzione industriale o di domanda economica.
+Fra di esse, inutile dirlo, vi era il signor Almeric Wister.
+È inutile dirlo, poiché c'è sempre il signor Almeric Wister
+ovunque venti o trenta persone siano radunate in quel particolare
+genere di pomeriggio mondano.
+
+Il signor Almeric Wister era, ed è, l'unico punto fisso attorno al quale si sono raccolte
+innumerevoli forme lievemente differenziate di futilità mondana.
+Riusciva a essere così onnipresente all'ora del tè a Mayfair
+che alcuni hanno sostenuto che non fosse un uomo ma un consorzio;
+e un certo numero di Wister sparsi per i diversi salotti,
+tutti alti e allampanati e dagli occhi infossati e accuratamente vestiti,
+e tutti con voci profonde e capelli e barba radi ma piuttosto lunghi,
+con un che di esteta. Ma persino nei ricevimenti simili
+nelle case di campagna ve n'era sempre un certo numero di lui; sicché
+parrebbe che il consorzio inviasse compagnie di giro in provincia.
+Godeva di una vaga fama di esperto d'arte ed era eccellente sulla durata
+dei pigmenti. Era il tipo d'uomo che ricorda Rossetti e possiede
+aneddoti inediti su Whistler. Quando fu presentato per la prima volta
+a Braintree, il suo occhio incontrò la cravatta rossa di quel demagogo,
+da cui dedusse correttamente che Braintree non era un esperto d'arte.
+L'esperto si sentì perciò libero di essere ancora più esperto del solito.
+I suoi occhi infossati si voltarono con rimprovero dalla cravatta a un
+quadro alla parete, di Lippi o di qualche primitivo italiano;
+poiché la Seawood Abbey possedeva bei quadri oltre che [[Well|belle]] pile di libri.
+Una qualche associazione di idee condusse Wister a fare eco inconsapevolmente alla
+lagnanza di Olive Ashley e a osservare che il rosso usato per le ali
+di uno degli angeli era un po' un segreto tecnico ormai perduto.
+A pensare a come si era sbiadito il Cenacolo...

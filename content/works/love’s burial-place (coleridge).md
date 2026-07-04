@@ -2,7 +2,7 @@
 title: LOVE’S BURIAL-PLACE
 author: Coleridge
 type: work
-cluster: Unrequited / Frustrated Love · Unattainable Beloved · Petrarchan Sonnet
+cluster: Unrequited Frustrated Love · Unattainable Beloved · Petrarchan Sonnet
 source: Authors/Coleridge/_raw/282_LOVES_BURIAL-PLACE.md
 tags:
   - graph/work

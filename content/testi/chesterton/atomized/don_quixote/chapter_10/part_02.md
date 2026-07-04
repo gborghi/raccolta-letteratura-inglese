@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/don-quixote-(chesterton)">Don Quixote</a> › <a href="/testi/chesterton/atomized/don_quixote/chapter_10">Chapter 10</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/don_quixote/chapter_10/part_01">‹ part 01</a><a class="ex-next" href="/testi/chesterton/atomized/don_quixote/chapter_10/part_03">part 03 ›</a></div>
@@ -132,3 +134,39 @@ was very keen on both of them.  But I remember how wild
 he used to be if anybody forgot that glass is transparent.
 'If anybody paints a single thing in a [[Window|window]] that looks really solid,'
 he used to say, 'he ought to be made to sit on it.'"
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/don-quixote-(chesterton)">Don Quixote</a> › <a href="/testi/chesterton/atomized/don_quixote/chapter_10">Chapter 10</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/don_quixote/chapter_10/part_01">‹ part 01</a><a class="ex-next" href="/testi/chesterton/atomized/don_quixote/chapter_10/part_03">part 03 ›</a></div>
+</nav>
+
+Murrel, avendo per questa strada tortuosa finalmente raggiunto il proprio [[Desire|desiderio]], quasi balzò in avanti come un segugio sciolto dal guinzaglio. Domandò il numero della via che era onorato dalla residenza del signor Hendry; e quasi subito dopo si avviò a grandi passi giù per la ripida strada verso di esso.
+
+Bussato alla porta, attese; e dopo un intervallo considerevole udì alle sue spalle il rumore di essa che veniva lentissimamente aperta.
+
+Si voltò e per fortuna parlò all'istante. La porta si era schiusa di poco più di una fessura; e il primo fatto che rivelò fu che la catena era ancora tirata di traverso. All'interno, molto più fiocamente, cominciò a discernere dentro quell'alta e buia [[house|casa]] i lineamenti e la figura balenanti di un essere umano. La figura era esile e i lineamenti erano insieme affilati e pallidi. Ma qualcosa di quasi atmosferico gli disse che la figura era femminile e persino giovane; e quando ne udì la voce, un momento più tardi, essa gli disse qualcos'altro che fu per lui più di una sorpresa.
+
+Dapprima, tuttavia, non vi fu parola alcuna ma soltanto un gesto rapidissimo e silenzioso. La giovane donna là dentro, non avendo veduto altro che la sagoma e il profilo del cappello di Murrel e avendo giudicato che fosse ragionevolmente rispettabile, si accinse a richiudere la porta. Aveva già a che fare con persone che apparivano rispettabili, e persino responsabili. E quella era, all'epoca in questione, la sua risposta a costoro. Ma Murrel possedeva qualcosa della prontezza di uno schermidore che balza e affonda nell'unico varco di quello che sembrava un labirinto di parate e difese. Cacciò nella fessura il cuneo di una parola.
+
+Era probabilmente l'unica parola che avrebbe arrestato il movimento. La giovane donna, ahimè, non aveva dimestichezza con persone che in casi simili avessero motivo di piantare un piede sulla soglia. Non le era ignota l'arte di sbatterci contro la porta così da schiacciarlo o da procurarne la pronta rimozione. Ma Murrel ricordava cose che aveva sentito dire nell'[[house|osteria]] e nella bottega all'inizio del suo [[Journey|viaggio]]; e usò la frase che non era mai stata udita in quella strada e che era stata quasi dimenticata da quella donna. Un istinto lo indusse a togliersi il cappello e a dire:
+«Il dottor Hendry è in casa?»
+
+L'uomo non vive di [[Alone|solo]] pane, ma soprattutto di etichetta e più che mai di considerazione. È per la considerazione che persino gli affamati vivono ed è per la mancanza di essa che muoiono. Fu un dettaglio assai determinante il fatto che Hendry fosse stato un tempo fiero della sua laurea in medicina; e un dettaglio ancor più determinante che nessuno dei suoi nuovi vicini fosse ormai minimamente disposto a riconoscergliela. E questa era sua figlia, che era appena abbastanza grande da ricordare quando gliela si concedeva liberamente. Aveva i capelli sugli occhi in un modo quasi sciatto e il grembiule era macchiato e liso come qualunque altro straccio di quella strada; ma quando parlò, lo sconosciuto seppe all'istante che ella ricordava; e che le cose che ricordava erano cose di tradizione e di intelletto.
+
+Douglas Murrel si trovò dentro un minuscolo ingresso in cui non v'era nulla se non un brutto portaombrelli privo perfino di ombrelli. Poco dopo si trovò a salire una scala assai ripida e stretta in un'oscurità quasi totale; e poco dopo ancora fu bruscamente lasciato precipitare in una stanzetta ammuffita, ingombra di quegli oggetti che erano appena troppo scadenti per essere venduti o persino impegnati; dove sedeva l'uomo che egli era andato a cercare nel suo erratico [[Journey|viaggio]], come Stanley andò a cercare Livingstone.
+
+Il dottor Hendry aveva una chioma piuttosto simile alla grigia sommità di un cardo appassito; ci si aspettava quasi di vederla avvizzire visibilmente sotto gli occhi e le parti del soffione staccarsi e disperdersi mestamente nel [[Wind|vento]]. Ma per il resto era più lindo di quanto ci si sarebbe potuti aspettare; benché l'effetto potesse esser prodotto dall'essere egli abbottonato molto strettamente e ordinatamente fino alla gola; come si dice sia talvolta abitudine degli affamati. Dopo anni di astrazione in mezzo a uno squallido ambiente, egli stava ancora più appollaiato che seduto sulla polverosa sedia, come se qualcosa di delicato e sdegnoso persino nel suo subconscio lo inducesse a posarvisi con cautela. Era uno di quegli uomini che possono essere così completamente inconsapevoli da risultare oltraggiosamente scortesi; ma che, nel momento in cui divengono consapevoli, si fanno quasi dolorosamente cortesi. Nell'istante in cui si accorse di Murrel la sua cortesia lo fece balzare in piedi con uno scatto, come una marionetta assai sottile appesa a dei fili.
+
+Se fu sconcertato dal complimento di essere chiamato dottore, fu ancor più inebriato dall'argomento che il suo visitatore gli pose dinanzi. Come tutti i vecchi, e la maggior parte degli uomini caduti in disgrazia, egli viveva nel passato; e gli parve per un istante incredibile che il passato fosse di nuovo presente. Poiché quella stanza buia, in cui egli era sigillato e dimenticato come un morto in una tomba, aveva udito ancora una volta una voce umana chiedere i Colori da Miniatura di Hendry.
+
+Si [[Rose|levò]] sulle gambe sottili e vacillanti e andò senza una parola a uno scaffale su cui stavano un certo numero di oggetti assai mal assortiti, e ne tolse una vecchia scatola di latta che portò al tavolo e cominciò piuttosto tremante ad aprire. Conteneva due o tre boccette di vetro tonde e tozze coperte di [[Dust|polvere]]; e quando le vide parve che gli si sciogliesse la lingua.
+
+«Andrebbero usati col veicolo che è nella scatola,» disse. «Molti cercano di usarli con l'olio o con l'[[Water|acqua]], o con ogni sorta di cose»; per quanto in verità fossero passati almeno trent'anni da quando qualcuno avesse mai provato a usarli con alcunché.
+
+«Dirò alla mia amica di stare attenta,» disse Murrel, con un sorriso. «So che vuole lavorare secondo i vecchi metodi.»
+
+«Ah, appunto,» disse il vecchio, sollevando d'improvviso il capo con un'aria del tutto sostenuta. «Sarò sempre pronto a dare qualsiasi consiglio... qualsiasi consiglio possa essere di una qualche utilità, ne sono certo.» Si schiarì la gola con un ritorno di pienezza nella voce che aveva quasi del formidabile. «La cosa da ricordare, prima di tutto, s'intende, è che questo tipo di colorazione è per sua [[Nature|natura]] opaco. Tante persone confondono il fatto che sia brillante con l'idea che sia trasparente. Io stesso ho sempre visto che la confusione nasceva dal parallelo con la vetrata istoriata. Entrambe, s'intende, erano arti tipicamente medievali, e Morris ne era assai appassionato. Ma ricordo come s'infuriasse se qualcuno dimenticava che il vetro è trasparente. 'Se qualcuno dipinge in una [[Window|finestra]] una sola cosa che paia davvero solida,' era solito dire, 'lo si dovrebbe costringere a sederci sopra.'»

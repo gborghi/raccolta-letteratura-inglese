@@ -2,7 +2,7 @@
 title: A METRICAL ACCIDENT
 author: Coleridge
 type: work
-cluster: Martyrdom · Martyr / Saint · Cross
+cluster: Martyrdom · Martyr Saint · Cross
 source: Authors/Coleridge/_raw/410_A_METRICAL_ACCIDENT.md
 tags:
   - graph/work

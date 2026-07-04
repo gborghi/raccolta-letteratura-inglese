@@ -2,7 +2,7 @@
 title: 'M, N, O'
 author: Eliot
 type: work
-cluster: Letters and Writing · Immortality Through Verse · Immortality of Art / Fame
+cluster: Letters and Writing · Immortality Through Verse · Immortality of Art Fame
 source: Authors/Eliot/_raw/120_M_N_O.md
 tags:
   - graph/work

@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/don-quixote-(chesterton)">Don Quixote</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/don_quixote/chapter_03">‹ Chapter 03</a><a class="ex-next" href="/testi/chesterton/atomized/don_quixote/chapter_05">Chapter 05 ›</a></div>
@@ -375,5 +377,122 @@ They were talking about something else; something that was to be
 the first step leading to strange consequences; to a strange tale
 turning on the absence of several persons from their accustomed places,
 and not least on the absence of a ladder from the library.
+
+-^-
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/don-quixote-(chesterton)">Don Quixote</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/don_quixote/chapter_03">‹ Chapter 03</a><a class="ex-next" href="/testi/chesterton/atomized/don_quixote/chapter_05">Chapter 05 ›</a></div>
+</nav>
+<nav class="excerpt-children">
+<div class="excerpt-children-label">In questa sezione</div>
+<ul><li><a href="/testi/chesterton/atomized/don_quixote/chapter_04/part_01">Part 1</a></li><li><a href="/testi/chesterton/atomized/don_quixote/chapter_04/part_02">Part 2</a></li><li><a href="/testi/chesterton/atomized/don_quixote/chapter_04/part_03">Part 3</a></li></ul>
+</nav>
+
+CAPITOLO III
+
+LA SCALA NELLA BIBLIOTECA
+
+Il bibliotecario di Seawood aveva avuto, un tempo, il suo nome sui giornali; benché probabilmente ne fosse ignaro. Fu durante la grande Controversia del Cammello del 1906, quando il professor Otto Elk, quel devastante studioso di ebraico, conduceva la sua grande e valorosa campagna contro il Libro del Deuteronomio, e s'era giovato della singolare dimestichezza dell'oscuro bibliotecario con i Paleo-Ittiti. Il lettore dotto è avvertito che non si trattava di volgari Ittiti, bensì di una stirpe ancor più remota coperta dal medesimo nome. Egli sapeva davvero una quantità prodigiosa di cose su questi Ittiti, ma soltanto, come teneva a precisare con cura, dall'unificazione del regno per opera di Pan-El-Zaga (popolarmente e scioccamente chiamato Pan-Ul-Zaga) fino alla disastrosa battaglia di Uli-Zamul, dopo la quale la vera civiltà paleo-ittita, s'intende, non si può certo dire che sia continuata. Nel suo caso si può dire sul serio che nessuno sapeva quanto egli sapesse. Non aveva mai scritto un libro sui suoi Ittiti; se l'avesse fatto, sarebbe stato una biblioteca. Ma nessuno avrebbe potuto recensirlo, tranne lui stesso.
+
+Nella pubblica controversia la sua comparsa e la sua scomparsa furono ugualmente isolate e bizzarre. Pare che esistesse un sistema, o alfabeto, di geroglifici ittiti, diversi da tutti gli altri geroglifici, i quali, in verità, all'occhio distratto del freddo mondo, non parevano affatto geroglifici, ma superfici irregolari di pietra in parte corrosa. Ma poiché la [[Bible|Bibbia]] diceva da qualche parte che un tale aveva menato via quarantasette cammelli, il professor Elk poté diffondere la grande e lieta novella che, nel resoconto ittita di quello ch'era evidentemente il medesimo episodio, le ricerche del dotto Herne avevano già decifrato una distinta allusione a soli quaranta cammelli; scoperta che intaccava gravemente i fondamenti della cosmologia cristiana e sembrava a molti aprire allarmanti e promettenti prospettive in materia dell'istituzione del [[Marriage|matrimonio]]. Il nome del bibliotecario divenne assai corrente nel giornalismo per un [[Time|tempo]], e l'insistenza sulla persecuzione o sull'incuria patite per mano degli ortodossi da Galileo, Bruno e Herne divenne una gradevole variazione sulla riconosciuta triade di Galileo, Bruno e Darwin. Incuria, in verità, in un certo senso può anche esserci stata; giacché il bibliotecario di Seawood continuava faticosamente a compitare i suoi geroglifici senza aiuto alcuno, e aveva già scoperto che alle parole «quaranta cammelli» seguivano le parole «e sette». Ma non v'era nulla, in un simile particolare, che potesse indurre un mondo in cammino a distogliersi o a immischiarsi nelle ammuffite occupazioni di uno studioso solitario.
+
+Il bibliotecario era di certo di quella specie che vive lontana dalla luce del giorno, e adatta a essere un'ombra fra le ombre di una grande biblioteca. La sua figura era lunga e agile, ma teneva abitualmente una spalla un po' più alta dell'altra; i suoi capelli erano di un biondo polveroso. Il volto era scarno e i lineamenti lunghi e diritti; ma i suoi smorti occhi azzurri erano d'un tantino più distanziati di quelli degli altri uomini, il che accresceva l'impressione di avere un occhio storto. Era davvero un effetto piuttosto strano, come se il suo occhio fosse altrove; non nel semplice senso di guardare da un'altra parte, ma quasi come se si trovasse in una testa diversa dalla sua. E in effetti, in un certo modo, così era: si trovava nella testa di un Ittita di diecimila anni fa.
+
+Poiché v'era in [[Michael]] Herne qualcosa che forse è in ogni specialista, sepolto sotto le sue [[Mountains|montagne]] di materiale e capace, [[Alone|da solo]], di consentirgli di sostenerle; qualcosa di ciò che, quando trova sfogo in un'aria più alta, si chiama poesia. Egli faceva istintivamente immagini delle cose che studiava. Anche uomini perspicaci, sensibili a molti angoli della [[history|storia]], avrebbero visto in lui soltanto un polveroso antiquario, che armeggiava con pentole e tegami preistorici o con l'eterna accetta di pietra; un'accetta che i più di noi sono ben disposti a seppellire. Ma gli avrebbero fatto un torto. Per informi che fossero, quelle cose per lui non erano idoli, ma strumenti. Quando guardava l'accetta ittita, la immaginava davvero mentre uccideva qualcosa per la pentola ittita; quando guardava la pentola, la vedeva davvero bollire, per cuocere qualcosa ucciso con l'accetta. Non l'avrebbe chiamato «qualcosa», s'intende, ma le avrebbe dato il nome di qualche uccello o bestia sufficientemente commestibile; era pienissimo in grado di compilare un _menu_ ittita. Da tali flebili frammenti egli aveva in verità eretto una [[City|città]] e uno Stato visionari e arcaici, che eclissavano l'Assiria nella loro elefantiaca e sformata enormità. La sua [[Soul|anima]] era lontana, e camminava sotto strani cieli di turchese e d'oro; fra copricapi come alti sepolcri e sepolcri più alti delle cittadelle; e barbe intrecciate quasi in figurati arazzi. Quando guardava fuori dalla [[Window|finestra]] aperta della biblioteca il giardiniere che spazzava i lindi viali del [[Garden|giardino]] di Seawood, non erano queste le cose che vedeva. Vedeva quegli enormi bruti in trono e quegli [[Birds|uccelli]] che parevano scolpiti nelle [[Mountains|montagne]]. Vedeva quei volti vasti e soverchianti, che parevano progettati come città. V'erano perfino indizi che egli avesse lasciato che gli Ittiti gli invadessero la mente fino a un lieve turbamento. Correva la storia di un incauto professore che aveva ripetuto oziosi pettegolezzi contro la moralità della principessa ittita Pal-Ul-Gazil, e che il bibliotecario aveva bastonato con la lunga scopa adoperata per spolverare i libri, costringendolo a rifugiarsi in cima alla scaletta della biblioteca. Ma i pareri erano discordi sul fatto che questa storia si fondasse sui fatti o sul signor Douglas Murrel.
+
+Comunque, l'aneddoto era almeno un'[[Allegory|allegoria]]. Pochi si rendono conto di quanta guerra polemica e quanto tumulto possano celarsi sotto un oscuro passatempo. Lo spirito combattivo si è quasi rifugiato nei passatempi come in buche e cantucci della terra, lasciando i più vasti campi pubblici singolarmente scialbi, piatti e privi di vero [[debate|dibattito]]. Si potrebbe immaginare che il _Daily Wire_ fosse un foglio all'arma bianca e la _Review of Assyrian Excavation_ una cosa mite e pacifica. Ma in [[Truth|verità]] è tutto il contrario. È il giornale popolare che è divenuto freddo e convenzionale, e pieno di luoghi comuni adoperati senza alcuna convinzione. È il giornale erudito che è pieno di [[Fire|fuoco]], di [[Fanaticism|fanatismo]] e di rivalità. Il signor Herne non sapeva contenersi quando pensava al professor Poole e alla sua assurda e mostruosa ipotesi sul sandalo pre-ittita. Inseguiva [[The Professor|il Professore]], se non con una scopa, almeno con una penna brandita come un'arma; e spendeva, in tali questioni inaudite, energie di vera eloquenza, di [[logic|logica]] e di vivo entusiasmo delle quali il mondo non avrà mai neppure notizia. E quando scopriva fatti nuovi, smascherava fallacie accettate o si concentrava su contraddizioni che denudava con abbagliante lucidità, non era d'un pollice più vicino ad alcun riconoscimento pubblico, ma era qualcosa che gli uomini pubblici non possono sempre vantarsi di essere. Era felice.
+
+Del resto, era figlio di un povero pastore; era uno dei pochi che siano riusciti a essere insocievoli a [[Oxford]], non per positiva avversione alla società, ma per un altrettanto positivo [[Love|amore]] della [[Solitude|solitudine]]; e i suoi pochi ma tenaci esercizi fisici erano o solitari, come il camminare e il nuotare, oppure piuttosto rari ed eccentrici, come la scherma. Aveva un'ottima cultura generale in fatto di libri e, dovendosi guadagnare da vivere, era ben lieto di guadagnare uno stipendio badando alla bella e antica biblioteca raccolta dai precedenti proprietari di Seawood Abbey. Ma l'unica vacanza della sua vita era stata piena di duro lavoro, quando era andato come assistente subalterno agli scavi delle città ittite in Arabia; e tutti i suoi [[Dreams|sogni]] a occhi aperti non erano che repliche di quella vacanza.
+
+Se ne stava in piedi presso la portafinestra aperta dalla quale la biblioteca guardava sul prato, con le mani nelle tasche dei pantaloni e negli occhi quello sguardo piuttosto cieco dell'introspezione, quando la verde linea del [[Garden|giardino]] fu spezzata dall'apparizione di tre figure, due delle quali, almeno, si sarebbero potute dire notevoli, per non dire sconcertanti. Sarebbero potute essere [[Ghosts|fantasmi]] dai gai colori, usciti dal passato. Il loro costume era ben lungi dall'essere ittita, come anche un più umile grado di specializzazione avrebbe [[Well|ben]] potuto avvedersi; ma era quasi altrettanto stravagante. Solo la terza figura, in giacca e pantaloni di leggero tweed, era di una rassicurante modernità.
+
+«Oh, signor Herne» gli stava dicendo una giovane dama in tono cortese ma piuttosto sicuro di sé; una giovane dama incorniciata da un meraviglioso copricapo cornuto e da una attillata veste azzurra dalle maniche a punta pendenti. «Vogliamo chiederle un gran favore. Siamo in un'imbarazzante difficoltà senza fine.»
+
+Gli occhi del signor Herne parvero mutare messa a fuoco, come dotati d'una nuova lente, per perdere la distanza e cogliere il primo piano; un primo piano tutto occupato dalla magnifica giovane dama. Parve fare su di lui un curioso effetto, perché rimase muto per un istante, e poi disse con più calore di quanto ci si sarebbe aspettati dal suo aspetto.
+
+«Qualunque cosa io possa fare...»
+
+«Si tratta solo di sostenere una piccolissima parte nella nostra recita» supplicò lei, «è una vergogna assegnargliene una così esigua, ma sono venuti a mancare tutti quanti e noi non vogliamo rinunciare all'intera faccenda.»
+
+«Che recita è?» chiese lui.
+
+«Oh, sono tutte sciocchezze, s'intende» disse lei con disinvoltura, «s'intitola "Blondel the Troubadour", e parla di [[Richard]] Coeur de [[Lion]] e di serenate e di principesse e di castelli e delle solite cose del genere. Ma ci occorre qualcuno per il Secondo Trovatore, che deve andare in giro con Blondel e parlargli. O piuttosto farsi parlare, perché, naturalmente, è Blondel a fare tutti i discorsi. Non le ci vorrebbe molto a imparare la parte.»
+«Basta pizzicare la lieve chitarra» disse Murrel in tono incoraggiante, «una specie di variante medievale del suonare il vecchio banjo.»
+
+«Ciò che ci occorre davvero» disse Archer con maggiore serietà, «è un ricco sfondo romantico, per così dire. È questo che rappresenta il Secondo Trovatore; come in "The Forest [[lovers|Lovers]]", [[Dreams|sogni]] fanciulleschi del passato, pieni di cavalieri erranti e di eremiti e di tutto il resto.»
+
+«È piuttosto brutale chiedere a qualcuno di fare da ricco sfondo romantico con un preavviso così breve» ammise Murrel, «ma lei sa di che si tratta. Faccia da sfondo, signor Herne, su.»
+
+Il lungo volto del signor Herne aveva assunto un'espressione del più grande cordoglio.
+
+«Mi dispiace terribilmente» disse, «mi sarebbe piaciuto immensamente aiutarvi in qualsiasi modo. Ma non è il mio periodo.»
+
+Mentre gli altri lo guardavano perplessi, egli proseguì come un uomo che pensa ad alta voce.
+
+«Garton Rogers è l'uomo che fa per voi. Floyd è bravissimo; ma dà il meglio di sé sulla Quarta Crociata. Sono certo che il miglior consiglio che potrei darvi è di rivolgervi a Rogers del Balliol.»
+
+«Lo conosco un po'» disse Murrel, guardando l'altro con un sorriso piuttosto storto. «Era il mio tutore.»
+
+«Eccellente!» disse il bibliotecario. «Non potreste far di meglio.»
+
+«Sì, lo conosco» disse Murrel con gravità, «non ha ancora del tutto settantatré anni ed è completamente calvo; e tanto grasso che riesce a stento a camminare.»
+
+La ragazza esplose in qualcosa di non molto più dignitoso di una risatina; «Santo cielo!» disse. «Pensa un po' a portarlo fin qui da [[Oxford]] e a conciarlo in quel modo» e indicò con irrefrenabile ilarità le gambe del signor Archer, che erano di data alquanto dubbia.
+
+«È l'unico uomo che saprebbe interpretare il periodo» disse il bibliotecario, scuotendo il capo. «Quanto al portarlo da [[Oxford]], l'unico altro uomo che mi venga in mente dovreste portarlo da [[Paris|Parigi]]. Vi sono uno o due francesi e un tedesco. Ma non c'è in Inghilterra altro storico che gli stia alla pari.»
+
+«Oh, andiamo» protestò Archer, «Bancock è il più celebre scrittore di storia dopo Macaulay; celebre in tutto il mondo.»
+
+«Scrive libri, non è vero?» osservò il bibliotecario con una sottile sfumatura di disgusto. «Garton Rogers è l'unico uomo che fa per voi.»
+
+La dama dal copricapo cornuto esplose di nuovo. «Ma, che il Cielo mi benedica l'[[Soul|anima]]» esclamò, «dura solo un paio d'ore all'incirca!»
+
+«Abbastanza a lungo perché si notino i piccoli errori» disse il bibliotecario tetro. «Ricostruire un periodo passato per due ore filate richiede più lavoro di quanto possiate immaginare. Se solo fosse il mio periodo, ora...»
+
+«[[Well|Ebbene]], se davvero vogliamo un uomo dotto, chi potrebbe essere migliore di lei?» chiese la dama, con luminoso ma illogico trionfo.
+
+Herne la guardava con una sorta di triste ardore; poi distolse lo sguardo verso l'orizzonte e sospirò.
+
+«Voi non capite» disse a bassa voce, «il periodo di un uomo è, in un certo senso, la sua vita. Un uomo ha bisogno di vivere fra dipinti e intagli e cose medievali prima di poter attraversare una stanza come l'avrebbe attraversata un uomo del Medioevo. Lo so nel mio proprio periodo; la gente mi dice che i vecchi intagli dei sacerdoti e degli dèi ittiti le paiono rigidi. Ma io mi sento come se sapessi, da quegli atteggiamenti rigidi, che sorta di danze avessero. A volte mi sembra di poterne udire la musica.»
+
+Per la prima [[Time|volta]] in quella cacofonia di [[Cross|equivoci]] vi fu una sospensione della parola e un istantaneo [[Silence|silenzio]]; e gli occhi del dotto bibliotecario, come gli occhi di uno [[Fool|sciocco]], erano ai confini della terra. Poi egli proseguì come in una sorta di soliloquio.
+
+«Se tentassi di recitare un periodo nel quale non avessi immerso la mente, verrei colto in fallo. Confonderei le cose. Se dovessi suonare la chitarra di cui parlate, non sarebbe la specie giusta di chitarra. La suonerei come se fosse lo _shenaum_ o quanto meno il parzialmente ellenico _hinopis._ Chiunque vedrebbe che il mio movimento non è un movimento del tardo dodicesimo secolo. Chiunque direbbe subito: "Ecco un gesto ittita".»
+
+«Proprio la frase» disse Murrel fissandolo «che balzerebbe a cento labbra.»
+
+Ma benché continuasse a fissare il bibliotecario con schietto e ammirato [[Mystification|sconcerto]], si andava via via convincendo della serietà di tutta quella strana situazione. Poiché scorgeva sul volto di Herne quell'espressione di accortezza che è la prova ultima della semplicità.
+
+«Ma diamine» esplose Archer, come chi si scrolla di dosso un [[nightmare|incubo]] ipnotico, «vi dico che è solo una recita! La mia parte la so già; ed è molto più lunga della sua.»
+
+«In ogni caso, lei ha avuto un vantaggio nello studiarla» insisté Herne, «e nello studiare l'intera faccenda; ha riflettuto sui Trovatori; ha vissuto nel periodo. Chiunque vedrebbe che io no. Ci sarebbe sempre qualche minuscola cosetta» spiegò quasi con astuzia, «qualche piccolo trucco che mi sarei lasciato sfuggire, qualche errore, qualcosa che non potrebbe essere medievale. Non credo giusto intromettermi nelle faccende di chi conosce la propria materia; e lei ha studiato il periodo.»
+
+Fissava il volto alquanto inespressivo, per quanto bello, della giovane donna che gli stava dinanzi; mentre Archer, nell'[[Shadow|ombra]] dietro di lei, pareva finalmente sopraffatto da una sorta di disperato divertimento. D'un tratto il bibliotecario perse la sua meditativa immobilità e parve destarsi alla vita.
+
+«Naturalmente, potrei cercarvi qualcosa nella biblioteca» disse, voltandosi verso gli scaffali. «C'è un'ottima collana francese su tutti gli aspetti del periodo sullo scaffale più alto, credo.»
+
+La biblioteca era una stanza di altezza del tutto insolita, con un tetto spiovente inclinato in alto come il tetto di una chiesa. Non è anzi impossibile che fosse stato il tetto di una chiesa, o quanto meno di una cappella, poiché faceva parte della vecchia ala che aveva rappresentato Seawood Abbey quando era davvero un'abbazia. Sicché lo scaffale più alto era qualcosa di più simile alla cima di un precipizio che alla sommità di un ordinario scaffale. Vi si poteva accedere soltanto per mezzo di una lunghissima scala da biblioteca, che in quel momento era appoggiata agli scaffali. Il bibliotecario, nel suo nuovo impulso di movimento, fu in cima all'alta scala prima che alcuno potesse fermarlo; frugando in una fila di volumi polverosi rimpiccioliti dalla distanza e affatto indistinguibili. Estrasse un grosso volume dalla schiera dei volumi; e trovando piuttosto scomodo esaminarlo mentre stava in equilibrio in cima a una scala, si issò sullo scaffale, nel vuoto lasciato dal libro, e vi si sedette come fosse un nuovo e prezioso in-folio donato alla biblioteca. Lassù, sotto il tetto, era piuttosto buio; ma vi pendeva una luce elettrica ed egli con calma l'accese. Seguì un [[Silence|silenzio]] ed egli continuò a starsene appollaiato su quel remoto trespolo, con le lunghe gambe penzoloni a mezz'aria e la testa del tutto invisibile dietro la parete di cuoio del grosso volume.
+«Matto» disse Archer a bassa voce. «Un po' toccato, non trovi? Si è già dimenticato completamente di noi. Se gli togliessimo la scala, non credo che se ne accorgerebbe. Ecco un'occasione per uno dei tuoi scherzi, Monkey.»
+
+«No, grazie» ribatté Murrel in breve. «Niente burle su questo, se non ti spiace.»
+
+«Perché no?» incalzò Archer. «Ma se tu stesso hai portato via la scala quando il Primo Ministro stava inaugurando una statua in cima a una colonna, e ce l'hai lasciato per tre ore.»
+
+«Quello era diverso» disse Murrel burbero; ma non spiegò perché fosse diverso. Forse non sapeva chiaramente egli stesso perché fosse diverso, salvo che il Primo Ministro era suo cugino di primo grado e s'era deliberatamente esposto a essere burlato scegliendo di fare il politico. Comunque, avvertiva acutamente la differenza, e quando il faceto Archer mise le mani sulla scala per portarla via, gli disse di piantarla in un tono che rasentava la ferocia.
+
+In quel momento, però, accadde che una voce [[Well|ben]] nota lo chiamasse per nome dalla soglia che si apriva sul [[Garden|giardino]]. Egli si voltò e vide la scura figura di Olive Ashley incorniciata nel vano della porta, con qualcosa nell'atteggiamento che era insieme trepidante e imperioso.
+
+«Faresti proprio [[Well|bene]] a lasciare [[Alone|in pace]] quella scala» disse in fretta da sopra la spalla mentre si allontanava, «o, per Giove...»
+
+«[[Well|Ebbene]]?» incalzò lo sfidante Archer.
+
+«O mi concederò quello che chiameremmo un gesto ittita» disse Murrel, e attraversò in fretta la stanza fino al punto dove stava Olive. L'altra ragazza era già uscita nel [[Garden|giardino]] per parlarle, poiché era evidentemente eccitata per qualcosa; e Archer rimase [[Alone|solo]] con l'ignaro bibliotecario e con l'allettante scala.
+
+Archer si sentiva come uno scolaro sfidato a compiere qualche impresa. Non era un vigliacco; ed era assai vanitoso. Sganciò la scala dall'alto scaffale con grandissima cura, senza smuovere un granello di [[Dust|polvere]] sui polverosi ripiani né un capello sulla testa dell'ignaro studioso che leggeva il grosso libro. Portò quietamente la scala fuori nel [[Garden|giardino]] e l'appoggiò contro una rimessa. Poi si guardò intorno in cerca del resto della compagnia; e alla fine li scorse come un gruppo lontano sul prato, così immersi nella conversazione da essere altrettanto ignari del delitto quanto la vittima stessa. Parlavano di qualcos'altro; qualcosa che sarebbe stato il primo passo verso strane conseguenze; verso una strana vicenda imperniata sull'assenza di parecchie persone dai loro posti consueti, e non ultima sull'assenza di una scala dalla biblioteca.
 
 -^-

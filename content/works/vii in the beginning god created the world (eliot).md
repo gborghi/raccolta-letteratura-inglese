@@ -2,7 +2,7 @@
 title: VII In the beginning god created the world
 author: Eliot
 type: work
-cluster: Martyrdom · Martyr / Saint · Cross
+cluster: Martyrdom · Martyr Saint · Cross
 source: Authors/Eliot/_raw/064_VII_In_the_beginning_god_created_the_world.md
 tags:
   - graph/work

@@ -2,7 +2,7 @@
 title: O Hymen! O Hymenee!
 author: Whitman
 type: work
-cluster: Greek Mythology · Lust / Sexual Desire · Desire
+cluster: Greek Mythology · Lust Sexual Desire · Desire
 source: Authors/Whitman/_raw/036_O_Hymen_O_Hymenee.md
 tags:
   - graph/work

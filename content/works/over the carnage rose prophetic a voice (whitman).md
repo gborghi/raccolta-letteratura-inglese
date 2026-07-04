@@ -2,7 +2,7 @@
 title: Over the Carnage Rose Prophetic a Voice
 author: Whitman
 type: work
-cluster: Comradeship · Union · Hands / Hand in Hand
+cluster: Comradeship · Union · Hands Hand in Hand
 source: Authors/Whitman/_raw/166_Over_the_Carnage_Rose_Prophetic_a_Voice.md
 tags:
   - graph/work

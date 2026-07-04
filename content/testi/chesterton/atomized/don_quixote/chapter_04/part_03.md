@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/don-quixote-(chesterton)">Don Quixote</a> › <a href="/testi/chesterton/atomized/don_quixote/chapter_04">Chapter 04</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/don_quixote/chapter_04/part_02">‹ part 02</a><a class="ex-next" href="/testi/chesterton/atomized/don_quixote/chapter_05/part_01">part 01 ›</a></div>
@@ -125,5 +127,49 @@ They were talking about something else; something that was to be
 the first step leading to strange consequences; to a strange tale
 turning on the absence of several persons from their accustomed places,
 and not least on the absence of a ladder from the library.
+
+-^-
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/don-quixote-(chesterton)">Don Quixote</a> › <a href="/testi/chesterton/atomized/don_quixote/chapter_04">Chapter 04</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/don_quixote/chapter_04/part_02">‹ part 02</a><a class="ex-next" href="/testi/chesterton/atomized/don_quixote/chapter_05/part_01">part 01 ›</a></div>
+</nav>
+
+«Se tentassi di recitare un periodo nel quale non avessi immerso la mente, verrei colto in fallo. Confonderei le cose. Se dovessi suonare la chitarra di cui parlate, non sarebbe la specie giusta di chitarra. La suonerei come se fosse lo _shenaum_ o quanto meno il parzialmente ellenico _hinopis._ Chiunque vedrebbe che il mio movimento non è un movimento del tardo dodicesimo secolo. Chiunque direbbe subito: "Ecco un gesto ittita".»
+
+«Proprio la frase» disse Murrel fissandolo «che balzerebbe a cento labbra.»
+
+Ma benché continuasse a fissare il bibliotecario con schietto e ammirato [[Mystification|sconcerto]], si andava via via convincendo della serietà di tutta quella strana situazione. Poiché scorgeva sul volto di Herne quell'espressione di accortezza che è la prova ultima della semplicità.
+
+«Ma diamine» esplose Archer, come chi si scrolla di dosso un [[nightmare|incubo]] ipnotico, «vi dico che è solo una recita! La mia parte la so già; ed è molto più lunga della sua.»
+
+«In ogni caso, lei ha avuto un vantaggio nello studiarla» insisté Herne, «e nello studiare l'intera faccenda; ha riflettuto sui Trovatori; ha vissuto nel periodo. Chiunque vedrebbe che io no. Ci sarebbe sempre qualche minuscola cosetta» spiegò quasi con astuzia, «qualche piccolo trucco che mi sarei lasciato sfuggire, qualche errore, qualcosa che non potrebbe essere medievale. Non credo giusto intromettermi nelle faccende di chi conosce la propria materia; e lei ha studiato il periodo.»
+
+Fissava il volto alquanto inespressivo, per quanto bello, della giovane donna che gli stava dinanzi; mentre Archer, nell'[[Shadow|ombra]] dietro di lei, pareva finalmente sopraffatto da una sorta di disperato divertimento. D'un tratto il bibliotecario perse la sua meditativa immobilità e parve destarsi alla vita.
+
+«Naturalmente, potrei cercarvi qualcosa nella biblioteca» disse, voltandosi verso gli scaffali. «C'è un'ottima collana francese su tutti gli aspetti del periodo sullo scaffale più alto, credo.»
+
+La biblioteca era una stanza di altezza del tutto insolita, con un tetto spiovente inclinato in alto come il tetto di una chiesa. Non è anzi impossibile che fosse stato il tetto di una chiesa, o quanto meno di una cappella, poiché faceva parte della vecchia ala che aveva rappresentato Seawood Abbey quando era davvero un'abbazia. Sicché lo scaffale più alto era qualcosa di più simile alla cima di un precipizio che alla sommità di un ordinario scaffale. Vi si poteva accedere soltanto per mezzo di una lunghissima scala da biblioteca, che in quel momento era appoggiata agli scaffali. Il bibliotecario, nel suo nuovo impulso di movimento, fu in cima all'alta scala prima che alcuno potesse fermarlo; frugando in una fila di volumi polverosi rimpiccioliti dalla distanza e affatto indistinguibili. Estrasse un grosso volume dalla schiera dei volumi; e trovando piuttosto scomodo esaminarlo mentre stava in equilibrio in cima a una scala, si issò sullo scaffale, nel vuoto lasciato dal libro, e vi si sedette come fosse un nuovo e prezioso in-folio donato alla biblioteca. Lassù, sotto il tetto, era piuttosto buio; ma vi pendeva una luce elettrica ed egli con calma l'accese. Seguì un [[Silence|silenzio]] ed egli continuò a starsene appollaiato su quel remoto trespolo, con le lunghe gambe penzoloni a mezz'aria e la testa del tutto invisibile dietro la parete di cuoio del grosso volume.
+«Matto» disse Archer a bassa voce. «Un po' toccato, non trovi? Si è già dimenticato completamente di noi. Se gli togliessimo la scala, non credo che se ne accorgerebbe. Ecco un'occasione per uno dei tuoi scherzi, Monkey.»
+
+«No, grazie» ribatté Murrel in breve. «Niente burle su questo, se non ti spiace.»
+
+«Perché no?» incalzò Archer. «Ma se tu stesso hai portato via la scala quando il Primo Ministro stava inaugurando una statua in cima a una colonna, e ce l'hai lasciato per tre ore.»
+
+«Quello era diverso» disse Murrel burbero; ma non spiegò perché fosse diverso. Forse non sapeva chiaramente egli stesso perché fosse diverso, salvo che il Primo Ministro era suo cugino di primo grado e s'era deliberatamente esposto a essere burlato scegliendo di fare il politico. Comunque, avvertiva acutamente la differenza, e quando il faceto Archer mise le mani sulla scala per portarla via, gli disse di piantarla in un tono che rasentava la ferocia.
+
+In quel momento, però, accadde che una voce [[Well|ben]] nota lo chiamasse per nome dalla soglia che si apriva sul [[Garden|giardino]]. Egli si voltò e vide la scura figura di Olive Ashley incorniciata nel vano della porta, con qualcosa nell'atteggiamento che era insieme trepidante e imperioso.
+
+«Faresti proprio [[Well|bene]] a lasciare [[Alone|in pace]] quella scala» disse in fretta da sopra la spalla mentre si allontanava, «o, per Giove...»
+
+«[[Well|Ebbene]]?» incalzò lo sfidante Archer.
+
+«O mi concederò quello che chiameremmo un gesto ittita» disse Murrel, e attraversò in fretta la stanza fino al punto dove stava Olive. L'altra ragazza era già uscita nel [[Garden|giardino]] per parlarle, poiché era evidentemente eccitata per qualcosa; e Archer rimase [[Alone|solo]] con l'ignaro bibliotecario e con l'allettante scala.
+
+Archer si sentiva come uno scolaro sfidato a compiere qualche impresa. Non era un vigliacco; ed era assai vanitoso. Sganciò la scala dall'alto scaffale con grandissima cura, senza smuovere un granello di [[Dust|polvere]] sui polverosi ripiani né un capello sulla testa dell'ignaro studioso che leggeva il grosso libro. Portò quietamente la scala fuori nel [[Garden|giardino]] e l'appoggiò contro una rimessa. Poi si guardò intorno in cerca del resto della compagnia; e alla fine li scorse come un gruppo lontano sul prato, così immersi nella conversazione da essere altrettanto ignari del delitto quanto la vittima stessa. Parlavano di qualcos'altro; qualcosa che sarebbe stato il primo passo verso strane conseguenze; verso una strana vicenda imperniata sull'assenza di parecchie persone dai loro posti consueti, e non ultima sull'assenza di una scala dalla biblioteca.
 
 -^-

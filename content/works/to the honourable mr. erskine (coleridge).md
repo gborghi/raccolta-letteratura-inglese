@@ -2,7 +2,7 @@
 title: TO THE HONOURABLE MR. ERSKINE
 author: Coleridge
 type: work
-cluster: Nationalism and Patriotism · Democracy · Liberty / Political Freedom
+cluster: Nationalism and Patriotism · Democracy · Liberty Political Freedom
 source: Authors/Coleridge/_raw/082_TO_THE_HONOURABLE_MR_ERSKINE.md
 tags:
   - graph/work

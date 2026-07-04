@@ -2,7 +2,7 @@
 title: Full of Life Now
 author: Whitman
 type: work
-cluster: Comradeship · Union · Hands / Hand in Hand
+cluster: Comradeship · Union · Hands Hand in Hand
 source: Authors/Whitman/_raw/081_Full_of_Life_Now.md
 tags:
   - graph/work

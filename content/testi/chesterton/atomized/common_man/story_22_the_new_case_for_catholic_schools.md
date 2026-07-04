@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/common-man-(chesterton)">Common Man</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/common_man/story_21_tales_from_tolstoi">‹ Story 21 Tales From Tolstoi</a><a class="ex-next" href="/testi/chesterton/atomized/common_man/story_23_vulgarity">Story 23 Vulgarity ›</a></div>
@@ -178,3 +180,50 @@ of undeveloped and unscientific [[Education|education]]; while we are,
 in this at any rate, on the side of all modern psychologists
 and serious educationists in recognising the idea of atmosphere.
 They sometimes like to call it environment.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/common-man-(chesterton)">Common Man</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/common_man/story_21_tales_from_tolstoi">‹ Story 21 Tales From Tolstoi</a><a class="ex-next" href="/testi/chesterton/atomized/common_man/story_23_vulgarity">Story 23 Vulgarity ›</a></div>
+</nav>
+
+LA NUOVA CAUSA DELLE SCUOLE CATTOLICHE
+
+Si sono dette quantità sterminate di sciocchezze intorno alla necessità della novità, e in questo senso non c'è nulla di particolarmente meritorio nell'essere moderni. Un uomo che descriva seriamente il proprio credo come Modernismo potrebbe altrettanto [[Well|bene]] inventarsi un credo chiamato Lunedismo, a significare che ripone una speciale [[Faith|fede]] nelle fantasie che gli sono venute in mente di lunedì; oppure un credo chiamato Mattutinismo, a significare che crede nei pensieri che gli sono venuti la mattina ma non il pomeriggio.
+
+La modernità non è che il momento del [[Time|tempo]] in cui ci capita di trovarci, e nessuno che rifletta supporrà che sia per forza superiore, tanto al [[Time|tempo]] che viene dopo di essa quanto al [[Time|tempo]] che l'ha preceduta. Ma in un senso relativo e ragionevole possiamo pur rallegrarci di conoscere le notizie del momento, e di aver preso atto di fatti o scoperte recenti che taluni ancora ignorano.
+
+Ed è in questo senso che possiamo davvero chiamare il concetto fondamentale dell'[[Education|Educazione]] cattolica un fatto scientifico, e in particolare un fatto psicologico. La nostra richiesta di una cultura completa, fondata su una propria [[philosophy|filosofia]] e su una propria religione, è una richiesta a cui in verità non si può replicare, alla luce della psicologia più viva e persino più moderna. E del resto, per coloro che tengono a simili cose, difficilmente si potrebbe trovare parola più moderna di atmosfera.
+
+Ora, finché sono impegnati a fare qualsivoglia cosa che non sia discutere con noi, i nostri amici moderni e scientifici non si stancano mai di ripeterci che l'[[Education|educazione]] va trattata come un tutto; che tutte le parti della mente si influenzano a vicenda; che nulla è troppo insignificante per essere significativo e persino simbolico; che tutti i pensieri possono essere colorati da emozioni consce o inconsce; che il sapere non può mai stare in compartimenti stagni; che quello che potrebbe sembrare un dettaglio insensato può essere il simbolo di un profondo [[Desire|desiderio]]; che nulla è negativo, nulla è nudo, nulla sta separato e [[Alone|solo]].
+
+Adoperano questi argomenti per ogni sorta di scopi, alcuni abbastanza assennati, altri di una scempiaggine quasi folle; ma è così, grosso modo, che ragionano. E l'unica cosa che non sanno è che stanno ragionando in favore dell'[[Education|educazione]] cattolica, e in particolare in favore dell'atmosfera cattolica nelle scuole cattoliche. Forse, se lo sapessero, smetterebbero.
+
+In effetti, coloro che rifiutano di capire che i bambini cattolici debbono avere una scuola interamente cattolica sono rimasti indietro, ai vecchi tempi cattivi, come direbbero loro, quando nessuno voleva l'[[Education|educazione]] ma soltanto l'istruzione. Sono reliquie di quel [[Time|tempo]] defunto in cui si riteneva sufficiente addestrare gli allievi in due o tre lezioni tediose e slegate che si supponevano del tutto meccaniche. Discendono dal Filisteo originario che per primo parlò delle «Tre erre»; e la freddura su di lui è assai simbolica del suo tipo o del suo [[Time|tempo]]. Perché era quella specie d'uomo che insiste alla lettera sull'alfabetismo, e, proprio così facendo, si rivela analfabeta.
+
+Erano uomini ricchi e assai poco istruiti quelli che a gran voce reclamavano l'[[Education|educazione]]. E fra i segni della loro ignoranza e stupidità c'era quel segno particolare per cui consideravano le lettere e le cifre come cose morte, del tutto separate l'una dall'altra e da una visione generale della vita. Pensavano a un ragazzo che impara le lettere come a qualcosa di completamente reciso, per esempio, da ciò che s'intende per uomo di lettere. Pensavano che un ragazzo che calcola potesse essere reso simile a una [[Machine|macchina]] calcolatrice.
+
+Quando dunque qualcuno diceva loro: «Queste cose vanno insegnate in un'atmosfera spirituale», lo giudicavano una sciocchezza; avevano la vaga idea che significasse che un [[Child|bambino]] potesse eseguire una semplice addizione solo se circondato dall'odore dell'incenso. Ma consideravano la semplice addizione ben più semplice di quanto non sia. Quando il polemista cattolico diceva loro: «Persino l'alfabeto si può imparare in modo cattolico», lo credevano un bigotto vaneggiante, credevano intendesse che nessuno dovesse mai leggere altro che un messale latino.
+
+Ma egli intendeva quello che diceva, e ciò che diceva è psicologia perfettamente sana. Esiste un modo cattolico di guardare all'imparare l'alfabeto; esso, per esempio, ti impedisce di credere che l'unica cosa che conti sia imparare l'alfabeto; o di disprezzare persone migliori di te, per il solo fatto che a loro non è capitato di imparare l'alfabeto.
+
+La vecchia scuola di istruttori, priva di ogni senso psicologico, era solita dire: «Che senso mai può esserci nel mescolare l'aritmetica con la religione?». Ma l'aritmetica è mescolata con la religione, o alla peggio con la [[philosophy|filosofia]]. Fa una gran differenza, eccome, che l'istruttore lasci intendere che la [[Truth|verità]] è reale, oppure relativa, oppure mutevole, oppure un'illusione. L'uomo che disse: «Due più due potrebbero fare cinque nelle [[Stars|stelle]] fisse», insegnava l'aritmetica in modo anti-razionale, e, di conseguenza, in modo anti-cattolico. Il cattolico è ben più certo delle verità fisse che delle [[Stars|stelle]] fisse.
+
+Ma io non sto ora discutendo quale [[philosophy|filosofia]] sia la migliore; sto soltanto facendo notare che ogni [[Education|educazione]] insegna una [[philosophy|filosofia]]; se non per dogma, allora per suggestione, per implicazione, per atmosfera. Ogni parte di quell'[[Education|educazione]] è in rapporto con ogni altra parte. Se non tutte concorrono a trasmettere una qualche visione generale della vita, non è [[Education|educazione]] affatto. E i moderni educatori, i moderni psicologi, i moderni uomini di scienza, tutti convengono nell'affermare e riaffermare questo — finché non cominciano a litigare con i cattolici a proposito delle scuole cattoliche.
+
+Insomma, se c'è una [[Truth|verità]] psicologica scopribile dalla ragione umana, è questa: che i cattolici o debbono fare a meno dell'insegnamento cattolico, oppure possedere e governare scuole cattoliche. C'è una ragione per rifiutare di lasciar crescere cattoliche le famiglie cattoliche, mediante qualsiasi congegno che meriti il nome di [[Education|educazione]] nel senso corrente. C'è una ragione per rifiutare di fare ai cattolici qualsivoglia concessione, e per ignorarne l'idiosincrasia come se fosse una follia. C'è una ragione per questo, perché c'è, e c'è sempre stata, una ragione per la persecuzione; perché lo Stato agisca in base al principio che certe filosofie sono false e pericolose e devono essere schiacciate anche se professate in buona fede; anzi, che devono essere schiacciate soprattutto se professate in buona fede.
+
+Ma se i cattolici devono insegnare il cattolicesimo per tutto il [[Time|tempo]], non possono limitarsi a insegnare la teologia cattolica per una parte del [[Time|tempo]]. Sono i nostri avversari, e non noi, a conferire alla teologia dogmatica una posizione davvero oltraggiosa e superstiziosa. Sono loro a supporre che quella «materia» speciale che si chiama teologia possa essere infilata dentro la gente con un esperimento della durata di mezz'ora; e che questa magica inoculazione basti loro per una settimana intera in un mondo intriso da cima a fondo di una concezione della vita del tutto contraria.
+
+La teologia non è che religione resa articolata; ma, per quanto sembri strano ai veri cristiani che ci criticano, è necessario avere tanto la religione [[Well|quanto]] la teologia. E la religione, come essi hanno abbastanza spesso la cortesia di ricordarci quando questo particolare problema non è in ballo, è cosa per ogni giorno della settimana e non soltanto per la [[Sunday|domenica]] o per le funzioni ecclesiastiche.
+
+La [[Truth|verità]] è che il mondo moderno si è votato a due concezioni dell'[[Education|educazione]] del tutto diverse e incoerenti fra loro. Esso cerca sempre di allargare l'ambito dell'[[Education|educazione]]; e cerca sempre di escluderne ogni religione e [[philosophy|filosofia]]. Ma questa è pura assurdità. Puoi avere un'[[Education|educazione]] che insegna l'ateismo perché l'ateismo è vero, e può essere, dal suo proprio punto di vista, un'[[Education|educazione]] completa. Ma non puoi avere un'[[Education|educazione]] che pretenda di insegnare tutta la [[Truth|verità]], e poi si rifiuti di discutere se l'ateismo sia vero.
+
+Da quando è giunta la più ambiziosa [[Education|educazione]] psicologica, le nostre scuole hanno preteso di sviluppare tutti i lati della [[Nature|natura]] umana; vale a dire, di produrre un essere umano completo. Non si può fare questo e insieme ignorare del tutto una grande tradizione vivente, che insegna come un essere umano completo debba essere un essere umano cristiano o cattolico. O la si perseguita fino a farla sparire, oppure le si permette di rendere completa la propria [[Education|educazione]].
+
+Quando si supponeva che l'insegnamento consistesse nel compitare, nel far di conto e nel tracciare aste e uncini, si poteva sostenere una qualche ragione dicendo che poteva essere impartito indifferentemente da un battista o da un buddhista. Ma che senso ha, al mondo, avere un'[[Education|educazione]] che comprende lezioni di «cittadinanza», per esempio; e poi fingere di non includervi nulla che somigli a una teoria morale, e ignorare tutti coloro che per caso ritengono che una teoria morale dipenda da una teologia morale.
+
+I nostri maestri di scuola dichiarano di far emergere ogni lato dell'allievo: il lato estetico; il lato atletico; il lato politico, e così via; eppure continuano a ripetere lo stantio luogo comune ottocentesco secondo cui la pubblica istruzione non avrebbe nulla a che fare con il lato religioso. La [[Truth|verità]] è che, in questa materia, sono i nostri nemici a essere impantanati, e a restare ancora nell'atmosfera afosa di un'[[Education|educazione]] arretrata e non scientifica; mentre noi siamo, almeno in questo, dalla parte di tutti i moderni psicologi e dei seri educatori nel riconoscere l'idea di atmosfera. A loro talvolta piace chiamarla ambiente.

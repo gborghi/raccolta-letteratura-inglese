@@ -2,7 +2,7 @@
 title: Fill for me a brimming bowl
 author: Keats
 type: work
-cluster: Unrequited / Frustrated Love · Unattainable Beloved · Petrarchan Sonnet
+cluster: Unrequited Frustrated Love · Unattainable Beloved · Petrarchan Sonnet
 source: Authors/Keats/_raw/043_Fill_for_me_a_brimming_bowl.md
 tags:
   - graph/work

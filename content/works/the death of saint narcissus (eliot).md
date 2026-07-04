@@ -2,7 +2,7 @@
 title: The Death of Saint Narcissus
 author: Eliot
 type: work
-cluster: Martyrdom · Martyr / Saint · Cross
+cluster: Martyrdom · Martyr Saint · Cross
 source: Authors/Eliot/_raw/115_The_Death_of_Saint_Narcissus.md
 tags:
   - graph/work

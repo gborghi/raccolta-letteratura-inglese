@@ -2,7 +2,7 @@
 title: The Club of Queer Trades
 author: Chesterton
 type: work
-cluster: Short Story · Concealment / Hidden Identity · Justice / Right and Wrong
+cluster: Short Story · Concealment Hidden Identity · Justice Right and Wrong
 source: Authors/Chesterton/_raw/queertrades.md
 tags:
   - graph/work

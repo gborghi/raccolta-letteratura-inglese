@@ -2,7 +2,7 @@
 title: On Seeing the Elgin Marbles
 author: Keats
 type: work
-cluster: Ruins / the Abbey · Sic Transit Gloria Mundi · Ubi Sunt
+cluster: Ruins the Abbey · Sic Transit Gloria Mundi · Ubi Sunt
 source: Authors/Keats/_raw/061_On_Seeing_the_Elgin_Marbles.md
 tags:
   - graph/work

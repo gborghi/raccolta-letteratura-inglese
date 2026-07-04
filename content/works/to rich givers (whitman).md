@@ -2,7 +2,7 @@
 title: To Rich Givers
 author: Whitman
 type: work
-cluster: Wine and Drink · Ballad / Ballade · Road
+cluster: Wine and Drink · Ballad Ballade · Road
 source: Authors/Whitman/_raw/124_To_Rich_Givers.md
 tags:
   - graph/work

@@ -2,7 +2,7 @@
 title: A Midsummer Night's Dream
 author: Chesterton
 type: work
-cluster: Artist and Society · Truth · Regency/Georgian England
+cluster: Artist and Society · Truth · Regency Georgian England
 source: Authors/Chesterton/_raw/midsummer_nights_dream.md
 tags:
   - graph/work

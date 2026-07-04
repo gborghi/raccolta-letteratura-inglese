@@ -2,7 +2,7 @@
 title: A Leaf for Hand in Hand
 author: Whitman
 type: work
-cluster: Comradeship · Union · Hands / Hand in Hand
+cluster: Comradeship · Union · Hands Hand in Hand
 source: Authors/Whitman/_raw/070_A_Leaf_for_Hand_in_Hand.md
 tags:
   - graph/work

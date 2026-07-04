@@ -2,7 +2,7 @@
 title: Maelzel's Chess-Player
 author: Poe
 type: work
-cluster: Short Story · Concealment / Hidden Identity · Justice / Right and Wrong
+cluster: Short Story · Concealment Hidden Identity · Justice Right and Wrong
 source: Authors/Poe/_raw/Maelzel's Chess-Player.md
 tags:
   - graph/work

@@ -2,7 +2,7 @@
 title: 'Fragment of an Ode to Maia,'
 author: Keats
 type: work
-cluster: Greek Mythology · Lust / Sexual Desire · Desire
+cluster: Greek Mythology · Lust Sexual Desire · Desire
 source: Authors/Keats/_raw/096_Fragment_of_an_Ode_to_Maia.md
 tags:
   - graph/work

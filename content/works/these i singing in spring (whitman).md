@@ -2,7 +2,7 @@
 title: These I Singing in Spring
 author: Whitman
 type: work
-cluster: Comradeship · Union · Hands / Hand in Hand
+cluster: Comradeship · Union · Hands Hand in Hand
 source: Authors/Whitman/_raw/047_These_I_Singing_in_Spring.md
 tags:
   - graph/work

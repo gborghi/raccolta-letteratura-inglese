@@ -2,7 +2,7 @@
 title: The Narrative of A. Gordon Pym (Raven Edition)
 author: Poe
 type: work
-cluster: Night Journey / Vision · Katabasis / Descent · Quest Hero
+cluster: Night Journey Vision · Katabasis Descent · Quest Hero
 source: Authors/Poe/_raw/The Narrative of A. Gordon Pym (Raven Edition).md
 tags:
   - graph/work

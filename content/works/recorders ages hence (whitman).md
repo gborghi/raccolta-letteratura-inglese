@@ -2,7 +2,7 @@
 title: Recorders Ages Hence
 author: Whitman
 type: work
-cluster: Comradeship · Union · Hands / Hand in Hand
+cluster: Comradeship · Union · Hands Hand in Hand
 source: Authors/Whitman/_raw/051_Recorders_Ages_Hence.md
 tags:
   - graph/work

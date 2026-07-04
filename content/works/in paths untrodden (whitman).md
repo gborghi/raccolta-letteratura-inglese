@@ -2,7 +2,7 @@
 title: In Paths Untrodden
 author: Whitman
 type: work
-cluster: Comradeship · Union · Hands / Hand in Hand
+cluster: Comradeship · Union · Hands Hand in Hand
 source: Authors/Whitman/_raw/043_In_Paths_Untrodden.md
 tags:
   - graph/work

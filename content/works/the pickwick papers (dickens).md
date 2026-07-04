@@ -2,7 +2,7 @@
 title: The Pickwick Papers
 author: Dickens
 type: work
-cluster: Wine and Drink · Ballad / Ballade · Road
+cluster: Wine and Drink · Ballad Ballade · Road
 source: Authors/Dickens/_raw/The_Pickwick_Papers.md
 tags:
   - graph/work

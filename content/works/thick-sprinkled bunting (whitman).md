@@ -2,7 +2,7 @@
 title: Thick-Sprinkled Bunting
 author: Whitman
 type: work
-cluster: Nationalism and Patriotism · Democracy · Liberty / Political Freedom
+cluster: Nationalism and Patriotism · Democracy · Liberty Political Freedom
 source: Authors/Whitman/_raw/272_Thick_Sprinkled_Bunting.md
 tags:
   - graph/work

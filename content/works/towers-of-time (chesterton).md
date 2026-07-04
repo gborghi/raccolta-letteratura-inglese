@@ -2,7 +2,7 @@
 title: THE TOWERS of TIME
 author: Chesterton
 type: work
-cluster: Ruins / the Abbey · Sic Transit Gloria Mundi · Ubi Sunt
+cluster: Ruins the Abbey · Sic Transit Gloria Mundi · Ubi Sunt
 source: Authors/Chesterton/_raw/towers-of-time.md
 tags:
   - graph/work

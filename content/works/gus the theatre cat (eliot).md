@@ -2,7 +2,7 @@
 title: 'Gus: the Theatre Cat'
 author: Eliot
 type: work
-cluster: Joy · Animals · Comic Verse / Song
+cluster: Joy · Animals · Comic Verse Song
 source: Authors/Eliot/_raw/090_Gus_the_Theatre_Cat.md
 tags:
   - graph/work

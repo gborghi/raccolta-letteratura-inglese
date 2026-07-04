@@ -2,7 +2,7 @@
 title: Roots and Leaves Themselves Alone
 author: Whitman
 type: work
-cluster: Letters and Writing · Immortality Through Verse · Immortality of Art / Fame
+cluster: Letters and Writing · Immortality Through Verse · Immortality of Art Fame
 source: Authors/Whitman/_raw/054_Roots_and_Leaves_Themselves_Alone.md
 tags:
   - graph/work

@@ -2,7 +2,7 @@
 title: A Galloway Song
 author: Keats
 type: work
-cluster: Joy · Animals · Comic Verse / Song
+cluster: Joy · Animals · Comic Verse Song
 source: Authors/Keats/_raw/101_A_Galloway_Song.md
 tags:
   - graph/work

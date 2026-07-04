@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/don-quixote-(chesterton)">Don Quixote</a> › <a href="/testi/chesterton/atomized/don_quixote/chapter_10">Chapter 10</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/don_quixote/chapter_10/part_02">‹ part 02</a><a class="ex-next" href="/testi/chesterton/atomized/don_quixote/chapter_10/part_04">part 04 ›</a></div>
@@ -144,3 +146,58 @@ effected rapidly and without a hitch.  Murrel felt what he had
 never felt fully since he was a boy, a sudden and boiling rage.
 He opened his mouth to speak, but the girl had already struck
 in with her voice of steel.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/don-quixote-(chesterton)">Don Quixote</a> › <a href="/testi/chesterton/atomized/don_quixote/chapter_10">Chapter 10</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/don_quixote/chapter_10/part_02">‹ part 02</a><a class="ex-next" href="/testi/chesterton/atomized/don_quixote/chapter_10/part_04">part 04 ›</a></div>
+</nav>
+
+Murrel riprese il suo interrogatorio.
+
+«Immagino, dottor Hendry», disse, «che i suoi vecchi studi di chimica le siano stati di grande aiuto nel comporre questi colori».
+
+L'anziano signore scosse il capo pensieroso.
+
+«La chimica da [[Alone|sola]] difficilmente mi avrebbe insegnato tutto ciò che so», disse. «È una questione di ottica. È una questione di fisiologia». D'improvviso protese la barba di là dal tavolo e disse in fretta, con voce sibilante: «È ancor più una questione di psicologia patologica».
+
+«Oh», fece il visitatore, e attese ciò che sarebbe seguito.
+
+«Sa lei», disse Hendry con una sobrietà di tono repentina, «sa lei perché ho perduto tutti i miei clienti? Sa perché sono ridotto a questo punto?»
+
+«Per quanto riesco a capire», disse Murrel con una certa burbera energia che sorprese lui stesso, «mi pare che lei sia stato trattato in maniera indegnamente pessima da un mucchio di gente che voleva vendere la propria merce».
+
+L'esperto sorrise con dolcezza e scosse il capo.
+
+«È una questione di scienza», disse. «Non è affatto facile, per un medico, spiegare tutto ciò a un profano. Questa sua amica, ora: mi pare lei abbia detto che è la figlia del mio vecchio amico Ashley. Ebbene, là lei ha una discendenza eccezionalmente sana ancora sopravvissuta. Probabilmente senza traccia alcuna dell'afflizione».
+
+Mentre queste osservazioni, del tutto incomprensibili per lui, venivano pronunciate con la medesima benevolenza cattedratica e sdegnosa, l'attenzione del visitatore era fissa su altro. Studiava con ben maggiore attenzione la ragazza sullo sfondo.
+
+Il volto in sé era assai più interessante di quanto avesse supposto dallo scorcio intravisto nella penombra della soglia. Ella aveva ributtato all'indietro le nere ciocche scarmigliate che le pendevano sugli occhi come pennacchi su un carro funebre. Il suo profilo era di quelli che si dicono aquilini, e la sua magrezza lo rendeva un po' troppo letteralmente simile a un'aquila. Ma ella non cessava di apparire giovane persino quando la si sarebbe quasi detta morta o morente. C'era in lei qualcosa di teso e all'erta, e i suoi occhi erano vigilissimi; specialmente in quel momento. Ché pareva chiaro che non le piacesse la piega che il discorso stava prendendo.
+
+«Vi sono due semplici princìpi di fisiologia», proseguì il padre nel suo agevole stile espositivo, «che non sono mai riuscito a far comprendere ai miei colleghi. Il primo è che una malattia può colpire una maggioranza. Può colpire un'intera generazione, come una pestilenza colpisce un'intera contrada. Il secondo è che le malattie che affliggono i sensi principali sono affini alle malattie della mente. E perché mai il daltonismo dovrebbe fare eccezione?»
+
+«Oh», disse Murrel, drizzandosi di scatto con un sussulto, mentre una mezza luce si faceva strada nel suo sconcerto. «Oh. Già. Il daltonismo. Vuol dire che tutto questo è sorto perché quasi tutti sono daltonici».
+
+«Quasi tutti coloro che sono soggetti alle peculiari condizioni di questo periodo della [[history|storia]] della terra», corresse il dottore con garbo. «Quanto alla durata dell'epidemia, o alla sua possibile periodicità, quello è un altro discorso. Se le facesse piacere vedere una serie di appunti che ho raccolto...»
+
+«Vuol dunque dire», fece Murrel, «che quel grande emporio che si stende lungo tutta la strada fu costruito in una sorta di frenesia di daltonismo; e che il povero vecchio Wister si fece stampare il ritratto su diecimila volantini per celebrare l'occasione del suo divenire daltonico».
+
+«È evidente che la faccenda ha una qualche rintracciabile origine scientifica», disse il dottor Hendry, «e mi pare che la mia ipotesi tenga il campo».
+
+«A me pare che sia il grande emporio a tenere il campo», disse Murrel, «e mi [[Wonder|domando]] se quella commessa che mi ha offerto gessetti e inchiostro rosso sappia della propria origine scientifica».
+
+«Ricordo che il mio vecchio amico Potter soleva dire», osservò l'altro, fissando il soffitto, «che quando si è trovata l'origine scientifica, essa è sempre un'origine assai semplice. In questo caso, per esempio, chiunque guardasse la superficie della situazione direbbe naturalmente che l'intera umanità è impazzita. Chiunque affermi che i colori che reclamizzano su quel volantino sono migliori dei miei colori dev'essere manifestamente pazzo. E così, in un certo senso, la maggior parte di questa gente è davvero pazza. Ciò che gli uomini di scienza dell'epoca hanno del tutto omesso di indagare a dovere è il _perché_ siano pazzi. Ora, secondo la mia teoria, l'inconfondibile sintomo del daltonismo è connesso con...»
+
+«Temo che dobbiate scusare mio padre se non prosegue oltre», disse la giovane donna con una voce a un tempo aspra e raffinata. «Credo sia un poco stanco».
+
+«Oh, ma certo», disse Murrel, e si alzò in maniera piuttosto stordita. Si stava dirigendo verso la porta, quando fu d'improvviso arrestato da una trasformazione quasi allarmante nella giovane signora. Ella stava ancora ritta, in un atteggiamento piuttosto rigido, dietro la sedia del padre. Ma i suoi occhi, insieme scuri e lucenti, si spostarono e guizzarono, per così dire, in una splendente obliquità verso la [[Window|finestra]]; e ogni linea della sua figura non priva di grazia si mutò in una linea retta, come un'asta d'acciaio. Nel morto [[Silence|silenzio]] si poté udire un suono attraverso la [[Window|finestra]] semiaperta. Era il suono delle grandi ruote pesanti e sferraglianti dell'antiquato hansom che accostava alla porta.
+
+Murrel, ancora colmo d'imbarazzo, aprì la porta della stanza e uscì sul buio pianerottolo. Voltandosi, scoprì, con una certa sorpresa, che la ragazza lo aveva seguito.
+
+«Sa lei che cosa significa?» chiese ella. «Quel bruto là è venuto a prendere mio padre».
+
+Un vago presentimento del probabile stato delle cose cominciò ad affiorargli nella mente. Sapeva che una serie di leggi nuove e piuttosto drastiche, le quali in pratica si abbattevano soltanto sulle strade dei poveri, avevano conferito a funzionari medici e di altro genere poteri assai bruschi e arbitrari sulle persone che si supponeva difettassero della piena efficienza del direttore dell'emporio. Gli parve fin troppo probabile che lo scopritore della notevole teoria scientifica del daltonismo come causa della [[Decay|decadenza]] sociale potesse apparire manchevole di tale efficienza. Anzi, pareva persino che la sua stessa figlia la pensasse così, a giudicare dai suoi disperati sforzi di allontanare il povero vecchio signore dall'argomento. In parole povere, qualcuno stava per trattare l'eccentrico come un pazzo. E poiché egli non era un milionario eccentrico né uno squire eccentrico, né, di questi tempi, era neppure considerato un gentiluomo eccentrico, era assai probabile che la nuova classificazione potesse essere effettuata rapidamente e senza intoppi. Murrel provò ciò che non provava più pienamente da quando era ragazzo: una collera improvvisa e ribollente. Aprì la bocca per parlare, ma la ragazza era già intervenuta con la sua voce d'acciaio.

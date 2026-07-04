@@ -2,7 +2,7 @@
 title: Eldorado
 author: Poe
 type: work
-cluster: Night Journey / Vision · Katabasis / Descent · Quest Hero
+cluster: Night Journey Vision · Katabasis Descent · Quest Hero
 source: Authors/Poe/_raw/Eldorado.md
 tags:
   - graph/work

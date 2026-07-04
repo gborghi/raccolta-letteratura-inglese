@@ -2,7 +2,7 @@
 title: Sonnet 107
 author: Shakespeare
 type: work
-cluster: Letters and Writing · Immortality Through Verse · Immortality of Art / Fame
+cluster: Letters and Writing · Immortality Through Verse · Immortality of Art Fame
 source: Authors/Shakespeare/Sonnets/Sonnet_107.md
 tags:
   - graph/work

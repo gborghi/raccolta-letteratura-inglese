@@ -2,7 +2,7 @@
 title: TO A YOUNG LADY
 author: Coleridge
 type: work
-cluster: Joy · Animals · Comic Verse / Song
+cluster: Joy · Animals · Comic Verse Song
 source: Authors/Coleridge/_raw/151_TO_A_YOUNG_LADY.md
 tags:
   - graph/work

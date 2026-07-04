@@ -2,7 +2,7 @@
 title: Behold This Swarthy Face
 author: Whitman
 type: work
-cluster: Comradeship · Union · Hands / Hand in Hand
+cluster: Comradeship · Union · Hands Hand in Hand
 source: Authors/Whitman/_raw/058_Behold_This_Swarthy_Face.md
 tags:
   - graph/work

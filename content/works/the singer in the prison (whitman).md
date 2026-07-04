@@ -2,7 +2,7 @@
 title: The Singer in the Prison
 author: Whitman
 type: work
-cluster: Grace and Redemption · Humility · Bread and Wine / Eucharist
+cluster: Grace and Redemption · Humility · Bread and Wine Eucharist
 source: Authors/Whitman/_raw/200_The_Singer_in_the_Prison.md
 tags:
   - graph/work

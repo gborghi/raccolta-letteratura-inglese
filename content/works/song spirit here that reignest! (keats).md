@@ -2,7 +2,7 @@
 title: 'Song: Spirit here that reignest!'
 author: Keats
 type: work
-cluster: Joy · Animals · Comic Verse / Song
+cluster: Joy · Animals · Comic Verse Song
 source: Authors/Keats/_raw/091_Song_Spirit_here_that_reignest.md
 tags:
   - graph/work

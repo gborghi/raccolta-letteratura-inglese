@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/common-man-(chesterton)">Common Man</a> › <a href="/testi/chesterton/atomized/common_man/story_34_if_i_had_only_one_sermon_to_preach">Story 34 If I Had Only One Sermon To Preach</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/common_man/story_34_if_i_had_only_one_sermon_to_preach/part_01">‹ part 01</a><a class="ex-next" href="/testi/chesterton/atomized/common_man/story_34_if_i_had_only_one_sermon_to_preach/part_03">part 03 ›</a></div>
@@ -152,3 +154,151 @@ which hardens the mind not only against the traditions
 of the past, but even against the surprises of the future.
 Nil admirari becomes the motto of all nihilists; and it ends,
 in the most complete and exact sense, in nothing.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/common-man-(chesterton)">Common Man</a> › <a href="/testi/chesterton/atomized/common_man/story_34_if_i_had_only_one_sermon_to_preach">Story 34 If I Had Only One Sermon To Preach</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/common_man/story_34_if_i_had_only_one_sermon_to_preach/part_01">‹ part 01</a><a class="ex-next" href="/testi/chesterton/atomized/common_man/story_34_if_i_had_only_one_sermon_to_preach/part_03">part 03 ›</a></div>
+</nav>
+
+Vi è dunque un [[Paradox|paradosso]] in tutta questa posizione. L'idea spirituale
+del male dell'[[Pride|orgoglio]], e in special modo dell'[[Pride|orgoglio]] spirituale, veniva liquidata
+come un frammento di misticismo di cui la [[morality|morale]] moderna non aveva alcun bisogno, essendo
+questa destinata a farsi puramente sociale e pratica. E, di fatto, proprio di esso vi è
+particolarissimo bisogno appunto perché la [[morality|morale]] è sociale e pratica.
+Nell'ipotesi che non si debba aver cura di nulla, se non di rendere
+felici gli altri esseri umani, questa è con tutta certezza la cosa
+che li renderà infelici. L'argomento pratico contro l'[[Pride|orgoglio]],
+come mera sorgente di disagio e di discordia sociale, è semmai
+ancora più evidente di per [[Self|sé]] di quello, più mistico, che lo condanna
+come un ergere l'[[Self|io]] contro l'[[Soul|anima]] del mondo.
+Eppure, benché vediamo questa cosa da ogni lato nella vita moderna,
+davvero ben poco ne udiamo nella letteratura e
+nella teoria etica moderne. Anzi, gran parte della letteratura e dell'etica moderne
+parrebbe fatta apposta per incoraggiare l'[[Pride|orgoglio]] spirituale.
+Torme di scribi e di sapienti sono affaccendate a scrivere sull'importanza
+della coltura di [[Self|sé]] e della realizzazione di [[Self|sé]]; su come ogni [[Child|fanciullo]]
+debba essere educato a sviluppare la propria personalità (qualunque cosa essa sia);
+su come ogni uomo debba votarsi al [[success|successo]], e ogni
+uomo di successo debba votarsi a coltivare una personalità magnetica e
+avvincente; su come ogni uomo possa diventare un superuomo
+(seguendo il Nostro Corso per Corrispondenza) oppure, nel genere più raffinato
+e artistico di narrativa, su come un superuomo particolarmente superiore possa
+imparare a guardare dall'alto in basso la mera folla dei comuni superuomini, che formano
+la popolazione di quel bizzarro mondo. La teoria moderna, nel suo insieme,
+tende piuttosto a incoraggiare l'egoismo. Ma di ciò non dobbiamo allarmarci.
+La pratica moderna, essendo esattamente come la pratica antica, continua di gran cuore
+a scoraggiarlo. L'uomo dalla forte personalità magnetica è
+ancora l'uomo che coloro i quali meglio lo conoscono [[Desire|desiderano]] più caldamente prendere a calci
+per cacciarlo dal circolo. L'uomo giunto a uno stadio davvero acuto di realizzazione di [[Self|sé]]
+non è oggetto più gradevole al circolo di quanto lo sia alla taverna.
+Persino il più illuminato e scientifico dei circoli riesce a
+vederlo in trasparenza, il superuomo; e a vedere che è diventato una noia.
+È nella pratica che la [[philosophy|filosofia]] dell'[[Pride|orgoglio]] crolla;
+alla prova degli istinti morali dell'uomo, ovunque due o tre siano
+riuniti insieme; ed è la semplice esperienza dell'umanità moderna
+a dare risposta all'eresia moderna.
+
+Vi è, in verità, un'altra esperienza pratica, nota a noi tutti,
+ancor più pungente e viva della concreta impopolarità del prepotente
+o del [[Fool|folle]] tracotante. Tutti sappiamo che esiste una cosa chiamata
+egoismo assai più profonda dell'egotismo. Di tutte le malattie
+spirituali, è la più impalpabile e la più intollerabile.
+Si dice sia imparentata con l'isteria; talvolta sembra quasi
+imparentata con la possessione diabolica. È quella condizione in cui
+la vittima compie mille cose diverse da un unico immutabile movente,
+quello di una [[Vanity|vanità]] divorante; e fa il broncio o sorride, calunnia o loda,
+cospira e trama oppure siede immobile e non fa nulla, il tutto in un'unica
+vigilanza insonne sull'effetto sociale di una sola persona.
+Mi stupisce che nel mondo moderno, che ciancia
+perpetuamente di psicologia e di sociologia, della tirannide
+di cui ci minacciano pochi infanti deboli di mente,
+dell'avvelenamento alcolico e della cura dei nevrotici, di mezzo
+centinaio di cose che sfiorano il tema e mai colgono il segno —
+mi stupisce che questi moderni abbiano davvero così poco da dire
+sulla causa e sulla cura di una condizione morale che avvelena quasi
+ogni famiglia e ogni cerchia di amici. Non c'è quasi psicologo
+pratico che abbia da dire in proposito qualcosa di anche solo lontanamente
+illuminante quanto la letterale esattezza dell'antica massima del sacerdote:
+che l'[[Pride|orgoglio]] viene dall'inferno. Poiché c'è qualcosa di terribilmente vivido
+e spaventosamente immutabile, in questa [[Madness|follia]] al suo peggio, che rende
+quella parola breve e antiquata assai più calzante di qualunque altra.
+E allora, come dicevo, i dotti se ne vanno vagando in discorsi
+sul bere o sul tabacco, sulla malvagità dei bicchieri di vino o
+sul carattere incredibile delle osterie. L'opera più malvagia in questo
+mondo è simboleggiata non da un bicchiere ma da uno specchio;
+e non si compie nelle osterie, bensì nella più privata
+di tutte le case private, che è una [[house|casa]] di specchi.
+
+La frase verrebbe probabilmente fraintesa; ma comincerei
+il mio sermone dicendo alla gente di non godersela.
+Direi loro di godere danze e teatri e gite in automobile e
+champagne e ostriche; di godere jazz e cocktail e locali [[Night|notturni]]
+se non sanno godere di nulla di meglio; di godere bigamia e furto con scasso e
+qualunque delitto del calendario, di preferenza a quest'altra alternativa;
+ma di non imparare mai a godersela. Gli esseri umani sono felici
+finché conservano la facoltà ricettiva e la facoltà di reagire
+con sorpresa e gratitudine a qualcosa di esterno. Finché
+possiedono ciò, possiedono, come le più grandi menti hanno sempre dichiarato,
+un che di presente nell'[[Childhood|infanzia]] e che può ancora preservare
+e rinvigorire l'età adulta. Nell'istante in cui l'[[Self|io]] interiore viene consapevolmente sentito
+come qualcosa di superiore a ciascuno dei doni che gli si possano recare,
+o a ciascuna delle avventure di cui possa godere, ecco apparire una sorta
+di schizzinosità che divora [[Self|se stessa]] e un disincanto anticipato,
+che adempie tutti gli emblemi tartarei della sete e della [[Despair|disperazione]].
+
+Difficoltà possono facilmente sorgere, s'intende, in un [[debate|dibattito]] siffatto
+per l'accidente di parole usate in sensi diversi; e talvolta
+in sensi affatto contrari. Per esempio, quando diciamo che qualcuno
+è «orgoglioso di» qualcosa, come un uomo orgoglioso della moglie
+o un popolo orgoglioso dei suoi eroi, intendiamo in realtà qualcosa che è
+proprio l'opposto dell'[[Pride|orgoglio]]. Poiché ciò implica che l'uomo pensi
+che qualcosa di esterno a sé gli occorra per dargli grande gloria;
+e una tale gloria è davvero riconosciuta come un dono. Allo stesso modo,
+la parola risulterà certamente fuorviante, se dico che l'elemento peggiore
+e più deprimente, tra gli elementi misti del presente
+e dell'immediato futuro, mi sembra essere un elemento di impudenza.
+Poiché c'è una specie di impudenza che tutti troviamo o
+divertente o corroborante; come nell'impudenza del monello di strada.
+Ma anche qui le circostanze disarmano la cosa del suo male reale.
+La qualità comunemente detta «faccia tosta» non è un'affermazione di superiorità,
+bensì piuttosto un ardito tentativo di bilanciare l'inferiorità. Quando ti avvicini
+a un nobiluomo assai ricco e potente e gli calchi scherzosamente il cappello
+sugli occhi (come è tua abitudine), non stai insinuando di essere tu stesso
+al di sopra di ogni umana follia, bensì piuttosto di esserne capace,
+e che anch'egli dovrebbe averne un'esperienza più ampia e più ricca.
+Quando dài una gomitata nel panciotto a un Duca Reale, alla tua maniera scherzosa,
+non stai prendendo te stesso troppo sul serio, ma soltanto, forse, non prendendo
+lui così sul serio come di solito si ritiene corretto. Questa sorta di impudenza
+può prestare il fianco alla critica, così come è certamente soggetta a pericoli.
+Ma c'è una sorta di dura impudenza intellettuale, che davvero
+si considera impalpabile a ogni replica o giudizio; e vi è
+un certo numero, tra le nuove generazioni e i movimenti sociali,
+di coloro che cadono in questa debolezza fondamentale. È una debolezza;
+poiché consiste nel radicarsi stabilmente a credere ciò che perfino
+il vano e lo sciocco possono credere solo a sbalzi e a intermittenza, ma che
+tutti gli uomini desiderano credere e si trovano spesso abbastanza deboli da credere:
+che siano essi stessi a costituire il criterio supremo delle cose.
+L'[[Pride|orgoglio]] consiste nel fare della propria personalità l'unico metro,
+anziché fare della [[Truth|verità]] il metro. Non è [[Pride|orgoglio]] voler
+fare [[Well|bene]], o anche solo apparire [[Well|bene]], secondo un criterio reale.
+È [[Pride|orgoglio]] pensare che una cosa appaia brutta perché non ha l'aspetto
+di qualcosa di caratteristico di se stessi. Ora, nel generale offuscarsi
+dei criteri chiari e astratti, vi è oggi una reale tendenza,
+in un giovane (e forse persino in una giovane donna), a ripiegare su quel
+criterio personale, semplicemente per mancanza di un qualsiasi criterio impersonale degno di fiducia.
+Non essendovi alcun criterio abbastanza saldo perché l'[[Self|io]] vi si plasmi
+per adattarvisi, tutti i criteri possono essere plasmati per adattarsi all'[[Self|io]].
+Ma l'[[Self|io]] in quanto [[Self|io]] è cosa assai piccola e qualcosa
+di molto simile a un accidente. Di qui sorge un nuovo genere di ristrettezza;
+che alligna specialmente in coloro che si vantano di larghezza. Lo scettico
+si sente troppo grande per misurare la vita con le cose più grandi;
+e finisce col misurarla con la più piccola cosa di tutte.
+Si produce anche una sorta di ossificazione subconscia;
+che indurisce la mente non solo contro le tradizioni
+del passato, ma persino contro le sorprese del futuro.
+Nil admirari diventa il motto di tutti i nichilisti; ed esso finisce,
+nel senso più completo ed esatto, in nulla.

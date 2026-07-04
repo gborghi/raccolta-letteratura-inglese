@@ -2,7 +2,7 @@
 title: Lines On Seeing a Lock of Milton’s Hair
 author: Keats
 type: work
-cluster: Letters and Writing · Immortality Through Verse · Immortality of Art / Fame
+cluster: Letters and Writing · Immortality Through Verse · Immortality of Art Fame
 source: Authors/Keats/_raw/073_Lines_On_Seeing_a_Lock_of_Miltons_Hair.md
 tags:
   - graph/work

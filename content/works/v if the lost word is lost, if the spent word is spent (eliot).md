@@ -2,7 +2,7 @@
 title: 'V If the lost word is lost, if the spent word is spent'
 author: Eliot
 type: work
-cluster: Grace and Redemption · Humility · Bread and Wine / Eucharist
+cluster: Grace and Redemption · Humility · Bread and Wine Eucharist
 source: >-
   Authors/Eliot/_raw/040_V_If_the_lost_word_is_lost_if_the_spent_word_is_spent.md
 tags:

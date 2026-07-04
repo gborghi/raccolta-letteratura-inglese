@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/don-quixote-(chesterton)">Don Quixote</a> › <a href="/testi/chesterton/atomized/don_quixote/chapter_10">Chapter 10</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/don_quixote/chapter_10/part_03">‹ part 03</a><a class="ex-next" href="/testi/chesterton/atomized/don_quixote/chapter_10/part_05">part 05 ›</a></div>
@@ -138,3 +140,52 @@ legs astraddle on the top of the cab, and took out his pocket book.
 He leaned across at the considerable peril of pitching over,
 and said, confidentially:  "Look here, old fellow, I want to
 buy your cab."
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/don-quixote-(chesterton)">Don Quixote</a> › <a href="/testi/chesterton/atomized/don_quixote/chapter_10">Chapter 10</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/don_quixote/chapter_10/part_03">‹ part 03</a><a class="ex-next" href="/testi/chesterton/atomized/don_quixote/chapter_10/part_05">part 05 ›</a></div>
+</nav>
+
+«È andata così fin dall'inizio», disse lei. «Prima lo scaraventano nel rigagnolo e poi lo biasimano perché ci sta. È come se si martellasse la testa a un [[Child|bambino]] finché non resta stordito e istupidito, per poi rimproverarlo di essere uno zuccone.»
+
+«Suo padre», osservò il visitatore con aria dubbiosa, «non mi fa affatto l'impressione di uno stupido.»
+
+«Oh, no», rispose lei, «è troppo intelligente, e questo prova che è tocco. Se non fosse tocco, proverebbe che è mezzo scemo. Se non è in un modo, è nell'altro. Sanno sempre come incastrarti.»
+
+«Ma chi sono _loro?_» chiese Murrel, con una voce bassa e — per chiunque lo conoscesse — piuttosto minacciosa.
+
+Alla domanda rispose in un certo senso, non la persona a cui era rivolta, ma una voce profonda e piuttosto gutturale che saliva dalla nera tromba delle scale, appartenente a qualcuno che stava montando i gradini. Le scale traballanti scricchiolavano e persino tremavano sotto di lui mentre saliva, poiché era un uomo pesante, e quando emerse nella penombra dalla piccola [[Window|finestra]] del pianerottolo parve riempire tutto l'ingresso con una mole di grosso cappotto e larghe spalle. Il volto così rivolto verso la luce ricordò a Murrel, sul primo momento, qualcosa a metà tra un tricheco e una balena; era come se un qualche [[Monster|mostro]] degli abissi stesse affiorando dalle profondità e volgesse in su la sua faccia tonda, pallida e pescosa come una [[Moon|luna]]. Quando osservò l'uomo con maggiore attenzione e minore fantasia, si accorse che l'effetto derivava da capelli biondissimi tagliati cortissimi, in contrasto con dei baffi che parevano un paio di pallide zanne, e dalla luce della [[Window|finestra]] sugli occhiali tondi.
+
+Era il dottor Gambrel, che parlava un inglese perfetto, ma inciampò sulle ripide scale e imprecò sottovoce in qualche altra lingua. Monkey ascoltò intento per un istante, poi rientrò silenziosamente nella stanza.
+
+«Perché non tenete un lume?» chiese bruscamente il dottore.
+
+«Suppongo di essere una pazza anch'io?» ribatté la signorina Hendry. «Sono prontissima a essere qualunque cosa si supponga sia mio padre.»
+
+«[[Well|Suvvia]], [[Well|suvvia]], è tutto molto penoso», disse il dottore ritrovando la sua compostezza e, con essa, qualcosa di più simile a una benevolenza insensibile. «Ma non si guadagna nulla a tergiversare. Fareste molto meglio a lasciarmi vedere subito vostro padre.»
+
+«Oh, va benissimo», rispose lei. «Suppongo che dovrò farlo.»
+
+Si voltò di scatto e aprì la porta che li fece entrare entrambi nella piccola stanza squallida dove sedeva il dottor Hendry. Non vi era nulla di particolarmente notevole, se non lo squallore; il dottore c'era già stato in precedenza, e la giovane donna non ne era quasi mai uscita negli ultimi cinque anni. È dunque forse un fatto piuttosto singolare che perfino il dottore la guardasse con una vaga sorpresa, la cui causa in quel momento era troppo ferocemente agitato per definire con precisione. Quanto alla giovane donna, guardò la stanza con uno sguardo di attonito stupore di pietra.
+
+Non c'era altra porta nella stanza; il dottor Hendry sedeva [[Alone|solo]] al suo tavolo, e il signor Douglas Murrel era completamente scomparso.
+
+Prima che il dottor Gambrel potesse fare osservazioni sul fatto, o anche solo prenderne piena coscienza, lo sventurato Hendry era balzato in piedi dalla sedia e pareva gettato in un'agitazione di resa e di rimostranza mescolate insieme, che troncò ogni altra linea di conversazione.
+
+«Vorrete capire», disse, «che protesto formalmente contro la vostra interpretazione del mio caso. Se potessi esporre pienamente i fatti al mondo scientifico, non avrei la minima difficoltà a dimostrare che l'argomento va interamente nel senso opposto. Ammetto che, in questo momento, la media della nostra società soffre, a causa di certe malattie ottiche che...»
+
+Il dottor Gambrel aveva il potere dello Stato moderno, che è forse maggiore di quello di qualsiasi Stato, almeno per quanto concerne i settori sui quali si estende. Aveva il potere di invadere questa [[house|casa]] e di disgregare questa famiglia e di fare ciò che voleva con questo suo membro; ma nemmeno lui aveva il potere di farlo smettere di parlare. Nonostante ogni sforzo ufficiale, la conferenza del dottor Hendry sul Daltonismo proseguì per un [[Time|tempo]] considerevole. Continuò mentre il dottore più responsabile lo sospingeva a poco a poco verso la porta, mentre lo conduceva giù per le scale, e almeno fino a quando riuscì a trascinarlo fuori sulla soglia. Ma nel frattempo erano accadute altre cose, che non furono notate da coloro che ascoltavano (per quanto controvoglia) la conferenza cominciata nella stanza al piano di sopra.
+
+. . . . . . . .
+
+Il [[cabman|cocchiere]] appollaiato sull'antica carrozza era un tipo paziente, e ne aveva ben donde. Aspettava da un [[Time|po']] fuori dalla [[house|casa]] degli Hendry, quando accadde qualcosa che era senza dubbio più adatto a rallegrare il suo ozio di tutto ciò che era accaduto fino ad allora.
+
+Consisté in un signore che pareva cadere dal cielo sul tetto della carrozza, e che si raddrizzava con qualche difficoltà nell'atto di [[rolling|rotolarne]] quasi giù. Questo inatteso visitatore, quando alla fine si ritrovò per il verso giusto, rivelò allo stupefatto [[cabman|cocchiere]] il volto e la figura del signore con cui aveva chiacchierato poco prima un po' più giù per la [[Road|strada]]. Un prolungato sguardo al nuovo venuto, seguito da un prolungato sguardo alla [[Window|finestra]] proprio lì sopra, rivelò al conducente che il primo non era in realtà piombato dal cielo, ma solo dal davanzale della [[Window|finestra]]. Ma benché l'incidente non fosse per definizione un miracolo, era certamente qualcosa di prodigioso. Coloro che ebbero il privilegio di vedere Murrel cadere dal davanzale della [[Window|finestra]] sul tetto della vettura avrebbero forse potuto formulare una teoria sul perché fosse stato in origine soprannominato Monkey.
+
+Il [[cabman|cocchiere]] rimase ancor più sorpreso quando il suo nuovo compagno gli sorrise con fare cordiale e disse, come chi riprende una conversazione: «Come stavo dicendo...»
+
+È superfluo tornare indietro, dopo tutti questi anni e le avventurose conseguenze che ne scaturirono, per riferire ciò che stava dicendo. Ma ha una certa diretta importanza per la storia riferire ciò che disse. Dopo qualche cordiale svolazzo, si sedette saldamente a gambe divaricate in cima alla carrozza, e tirò fuori il taccuino. Si sporse in avanti, con notevole rischio di ribaltarsi, e disse, in tono confidenziale: «Senti un po', vecchio mio, voglio comprarti la carrozza.»

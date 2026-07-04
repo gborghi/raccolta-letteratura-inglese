@@ -2,7 +2,7 @@
 title: O Star of France (1870-71)
 author: Whitman
 type: work
-cluster: Martyrdom · Martyr / Saint · Cross
+cluster: Martyrdom · Martyr Saint · Cross
 source: Authors/Whitman/_raw/221_O_Star_of_France_1870_71.md
 tags:
   - graph/work

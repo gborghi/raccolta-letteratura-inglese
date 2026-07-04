@@ -2,7 +2,7 @@
 title: THE SONG of the STRANGE ASCETIC
 author: Chesterton
 type: work
-cluster: Wine and Drink · Ballad / Ballade · Road
+cluster: Wine and Drink · Ballad Ballade · Road
 source: Authors/Chesterton/_raw/ascetic.md
 tags:
   - graph/work

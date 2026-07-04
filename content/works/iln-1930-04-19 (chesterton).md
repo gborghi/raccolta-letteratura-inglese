@@ -2,7 +2,7 @@
 title: 'Illustrated London News, April 19, 1930'
 author: Chesterton
 type: work
-cluster: Artist and Society · Truth · Regency/Georgian England
+cluster: Artist and Society · Truth · Regency Georgian England
 source: Authors/Chesterton/_raw/ILN-1930-04-19.md
 tags:
   - graph/work

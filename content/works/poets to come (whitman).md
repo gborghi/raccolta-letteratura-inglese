@@ -2,7 +2,7 @@
 title: Poets to Come
 author: Whitman
 type: work
-cluster: Letters and Writing · Immortality Through Verse · Immortality of Art / Fame
+cluster: Letters and Writing · Immortality Through Verse · Immortality of Art Fame
 source: Authors/Whitman/_raw/022_Poets_to_Come.md
 tags:
   - graph/work

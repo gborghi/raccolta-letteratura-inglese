@@ -2,7 +2,7 @@
 title: MOTTO FOR A TRANSPARENCY
 author: Coleridge
 type: work
-cluster: Nationalism and Patriotism · Democracy · Liberty / Political Freedom
+cluster: Nationalism and Patriotism · Democracy · Liberty Political Freedom
 source: Authors/Coleridge/_raw/352_MOTTO_FOR_A_TRANSPARENCY.md
 tags:
   - graph/work

@@ -2,7 +2,7 @@
 title: ADAPTATIONS
 author: Coleridge
 type: work
-cluster: Artist and Society · Truth · Regency/Georgian England
+cluster: Artist and Society · Truth · Regency Georgian England
 source: Authors/Coleridge/_raw/417_ADAPTATIONS.md
 tags:
   - graph/work

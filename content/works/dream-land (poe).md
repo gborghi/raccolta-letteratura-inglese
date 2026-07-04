@@ -2,7 +2,7 @@
 title: Dream-Land
 author: Poe
 type: work
-cluster: Night Journey / Vision · Katabasis / Descent · Quest Hero
+cluster: Night Journey Vision · Katabasis Descent · Quest Hero
 source: Authors/Poe/_raw/Dream-Land.md
 tags:
   - graph/work

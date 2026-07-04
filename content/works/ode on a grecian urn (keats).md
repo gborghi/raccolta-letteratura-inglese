@@ -2,7 +2,7 @@
 title: ODE ON A GRECIAN URN
 author: Keats
 type: work
-cluster: Letters and Writing · Immortality Through Verse · Immortality of Art / Fame
+cluster: Letters and Writing · Immortality Through Verse · Immortality of Art Fame
 source: Authors/Keats/_raw/033_ODE_ON_A_GRECIAN_URN.md
 tags:
   - graph/work

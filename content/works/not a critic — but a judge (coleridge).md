@@ -2,7 +2,7 @@
 title: NOT A CRITIC — BUT A JUDGE
 author: Coleridge
 type: work
-cluster: Artist and Society · Truth · Regency/Georgian England
+cluster: Artist and Society · Truth · Regency Georgian England
 source: Authors/Coleridge/_raw/384_NOT_A_CRITIC_BUT_A_JUDGE.md
 tags:
   - graph/work

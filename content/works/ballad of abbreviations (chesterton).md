@@ -2,7 +2,7 @@
 title: Ballad Of Abbreviations
 author: Chesterton
 type: work
-cluster: Wine and Drink · Ballad / Ballade · Road
+cluster: Wine and Drink · Ballad Ballade · Road
 source: Authors/Chesterton/_raw/Ballad_Of_Abbreviations.md
 tags:
   - graph/work

@@ -2,7 +2,7 @@
 title: Francis Xavier
 author: Chesterton
 type: work
-cluster: Martyrdom · Martyr / Saint · Cross
+cluster: Martyrdom · Martyr Saint · Cross
 source: Authors/Chesterton/_raw/Francis_Xavier.md
 tags:
   - graph/work

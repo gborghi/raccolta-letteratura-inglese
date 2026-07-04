@@ -2,7 +2,7 @@
 title: What Best I See in Thee
 author: Whitman
 type: work
-cluster: Nationalism and Patriotism · Democracy · Liberty / Political Freedom
+cluster: Nationalism and Patriotism · Democracy · Liberty Political Freedom
 source: Authors/Whitman/_raw/273_What_Best_I_See_in_Thee.md
 tags:
   - graph/work

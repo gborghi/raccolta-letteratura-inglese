@@ -2,7 +2,7 @@
 title: FORBEARANCE
 author: Coleridge
 type: work
-cluster: Grace and Redemption · Humility · Bread and Wine / Eucharist
+cluster: Grace and Redemption · Humility · Bread and Wine Eucharist
 source: Authors/Coleridge/_raw/299_FORBEARANCE.md
 tags:
   - graph/work

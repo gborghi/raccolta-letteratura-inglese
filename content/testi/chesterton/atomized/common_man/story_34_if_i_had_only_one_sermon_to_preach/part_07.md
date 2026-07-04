@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/common-man-(chesterton)">Common Man</a> › <a href="/testi/chesterton/atomized/common_man/story_34_if_i_had_only_one_sermon_to_preach">Story 34 If I Had Only One Sermon To Preach</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/common_man/story_34_if_i_had_only_one_sermon_to_preach/part_06">‹ part 06</a><a class="ex-next" href="/testi/chesterton/atomized/common_man/story_34_if_i_had_only_one_sermon_to_preach/part_08">part 08 ›</a></div>
@@ -131,3 +133,130 @@ that it was the last Catholic [[Queen|queen]] who felt the loss of the last
 French possession, and had "Calais" written on her heart.
 With her died, perhaps, the last of that spirit which had somewhere
 in its depths a spiritual Channel Tunnel.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/common-man-(chesterton)">Common Man</a> › <a href="/testi/chesterton/atomized/common_man/story_34_if_i_had_only_one_sermon_to_preach">Story 34 If I Had Only One Sermon To Preach</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/common_man/story_34_if_i_had_only_one_sermon_to_preach/part_06">‹ part 06</a><a class="ex-next" href="/testi/chesterton/atomized/common_man/story_34_if_i_had_only_one_sermon_to_preach/part_08">part 08 ›</a></div>
+</nav>
+
+Gli storici si accapigliano se gli inglesi, sotto Elisabetta,
+preferissero il [[Prayer|libro delle preghiere]] o il messale. Ma di certo nessuno
+si accapiglierà sul fatto se preferissero la Mezzaluna o la [[Cross|Croce]].
+I dotti disputano su come l'Inghilterra fosse divisa fra cattolici
+e protestanti. Ma nessuno disputerà su ciò che l'Inghilterra avrebbe provato,
+sentendosi dire che il mondo intero era ormai disperatamente diviso fra
+cristiani e maomettani. In breve, credo che sotto tale
+influsso l'Inghilterra avrebbe semplicemente allargato la propria mente; foss'anche
+allargata soltanto per accogliere una grande battaglia invece di una piccola.
+Di quella battaglia più vasta, e delle nostre migliori speranze in essa, [[Don John of Austria|Don Giovanni d'Austria]]
+era universalmente considerato l'incarnazione e il segno levato in alto.
+Non soltanto la lode dovuta agli eroi, ma l'adulazione inevitabilmente tributata
+ai principi, avrebbe recato quel trionfo innanzi a lui, ovunque
+andasse, come un suono di trombe. Ognuno avrebbe sentito in lui
+tanto il [[Renaissance|Rinascimento]] quanto la Crociata; come quelle due cose sono ordito
+e trama negli aurei arazzi dell'Ariosto. Ognuno avrebbe
+sentito insieme la rinascita dell'Europa e la sua quasi [[Death|morte]].
+Né la lode sarebbe dovuta venire soltanto da comuni adulatori.
+Tutti i buoni inglesi avrebbero potuto diventare buoni europei; esprimerei
+meglio il mio pensiero dicendo grandi europei. In tutta
+quella folla, forse, soltanto Shakespeare non avrebbe potuto essere più grande.
+Eppure non ne sono così certo; poiché di sicuro avrebbe potuto essere più gaio.
+Quali che fossero le sue idee politiche (e sospetto fossero assai simili
+a quelle del suo amico, il cattolico Southampton) non v'è [[Doubt|dubbio]]
+che le sue tragedie siano eternamente contorte e tormentate da qualcosa
+come un'ossessione per l'usurpazione, i re trucidati e le corone rubate;
+e per tutta l'insicurezza del diritto regale e d'ogni altro diritto.
+Nessuno sa come il suo cuore, se non la sua mente, si sarebbe potuto dilatare
+in quella davvero «gloriosa [[Summer|estate]]» di una sovranità che appagava la sua
+sete cinquecentesca di un sovrano eroico e magnanimo.
+Egli, almeno, non sarebbe rimasto indifferente al significato del
+grande trionfo nel Mediterraneo. I sostenitori dell'estrema insularità
+spirituale hanno spesso citato i grandi versi in cui Shakespeare
+lodò l'Inghilterra, come qualcosa di separato e reciso dal mare.
+Piuttosto sogliono dimenticare ciò per cui davvero la lodò.
+
+  Questa [[Nurse|nutrice]], questo grembo fecondo di re regali,
+  Temuti per la loro stirpe e famosi per la loro nascita,
+  Rinomati per le loro gesta tanto lontano da [[Home|casa]],
+  Per servizio cristiano e vera cavalleria,
+  Quanto il sepolcro, nell'ostinata Giudea,
+  Del riscatto del mondo, il Figlio della beata Maria.
+
+Credo davvero che l'uomo che scrisse quei versi avrebbe accolto
+il vincitore di [[lepanto|Lepanto]] quasi con lo stesso calore con cui dovette accogliere
+un calvinista scozzese spaventato da un pugnale sguainato.
+
+Quanto a Maria, immagino non vi sarebbe stata difficoltà alcuna.
+Maria era l'erede perfettamente legittima al trono d'Inghilterra, il che è
+più di quanto si possa dire di Elisabetta. Il generale senso di lealtà
+verso il sovrano legittimo, enormemente forte in Inghilterra,
+sarebbe defluito verso di lei più liberamente che verso Elisabetta;
+poiché era persona più amabile e accessibile.
+Colei che tanto spesso, e forse troppo spesso, aveva acceso [[Love|amore]] persino
+nella [[house|casa]] stessa dell'odio, avrebbe certo potuto essere amata a sufficienza
+in una più lieta dimora dell'[[Love|amore]] insediato in trono; come nel fulgido palazzo
+di Renato di Provenza. Non vedo difficoltà circa la sua popolarità;
+ma persino il suo sposo, lo si chiamasse Consorte o [[King|Re]],
+avrebbe potuto certo, a dir poco, essere popolare
+quanto qualsiasi altro [[King|re]] consorte. Non dirò che sarebbe stato più
+popolare di Guglielmo d'Orange; ché non avrebbe potuto esserlo di meno.
+Ma gli inglesi sanno essere cortesi con gli stranieri, persino con i consorti stranieri.
+Tennyson, come Poeta Laureato, fu colpito dalla somiglianza
+fra il principe Alberto e un ideale cavaliere della Tavola Rotonda.
+Ben Jonson, come Poeta Laureato, non avrebbe dovuto forzare la cortesia
+fino a tal punto, per paragonare [[Don John|Don Giovanni]] a un cavaliere arturiano.
+Almeno nessuno avrebbe potuto dire che fosse un cavaliere da salotto. Ma, ciò che è assai
+più importante, la Britannia sarebbe stata, in un senso altro e più reale,
+tornata ai tempi arturiani. Avrebbe difeso l'intera tradizione
+della cultura romana e della morale cristiana contro pagani e barbari
+dai confini della terra. Se ciò fosse stato pienamente compreso,
+credete che qualcuno sarebbe andato in giro a chiedersi se un buon
+calvinista dovesse essere supralapsario o sublapsario? Non sarebbe
+più stata una questione provinciale, se qualche soldato puritano
+avesse mozzato il naso a un santo di pietra nella [[Cathedral|Cattedrale]] di Salisbury;
+sarebbe stata la questione se qualche derviscio venuto dal [[Desert|deserto]] dovesse
+[[Dance|danzare]] fra i frantumi in pezzi del Mosè di Michelangelo.
+Tutti i cristiani normali, avessero compreso il pericolo, si sarebbero
+serrati in difesa della Cristianità. E l'Inghilterra avrebbe conseguito
+gloria nella battaglia, come fece quando quella [[Ship|nave]] dalle vele cremisi
+portò i leopardi inglesi all'assalto di Acri.
+
+Avrebbe potuto significare, [[Fear|temo]], una certa dose di ostilità verso la Francia:
+la rivale della combinazione ispano-austriaca; benché anche qui
+vi siano influssi conciliatori, e le simpatie di Maria sarebbero sempre
+state per il paese della sua giovinezza e della sua poesia più celebre.
+Ma, in ogni caso, non sarebbe stata come l'ostilità verso la Francia,
+o piuttosto il cieco odio della Francia, che davvero ereditammo dalla vittoria
+dei Whig. Sarebbe stata più simile alle guerre medievali
+coi francesi, condotte da uomini che erano essi stessi mezzi francesi.
+Le conquiste inglesi in Francia furono una sorta di gorgo e risacca
+dell'originaria conquista francese in Inghilterra; l'intera faccenda
+fu quasi una guerra civile. Poiché vi era più internazionalismo
+nella guerra medievale di quanto ve ne sia nella pace moderna. Lo stesso valeva
+per le guerre effettive che pure scoppiarono fra Francia e Spagna;
+esse non spezzarono l'intima [[unity|unità]] della cultura latina.
+Luigi XIV fu colpevole di una lieve esagerazione nel dire
+che i [[Mountains|monti]] chiamati Pirenei erano interamente scomparsi dal
+paesaggio. Molti scrupolosi viaggiatori ne hanno verificato l'esistenza
+e segnalato l'errore regale. Ma vi era questa [[Truth|verità]] in ciò:
+che i Pirenei erano, in ogni senso, una divisione naturale.
+Lo Stretto di Dover divenne ben presto una divisione assai innaturale.
+Divenne un abisso spirituale, non fra santi patroni diversi
+ma fra dèi diversi; forse fra universi diversi.
+Gli uomini che combatterono a Crécy e ad Azincourt avevano la stessa religione —
+da trascurare. Ma gli uomini che combatterono a Blenheim e a Waterloo
+presentavano questo tratto affatto [[Novel|nuovo]] — che gli inglesi nutrivano eguale odio
+per la religione francese e per l'irreligione francese. Non riuscivano a comprendere
+gli ideali di nessuna delle due parti nella grande guerra civile dell'intera civiltà.
+Quella limitazione somigliava davvero allo Stretto di Dover,
+essendo insieme angusta e desolata e abbastanza pericolosa da risultare decisiva;
+amara come il mare e ben simboleggiata dal mal di mare. Forse,
+dopo tutto, vi era un fondo di verità nel racconto narrato nelle nostre storie per l'infanzia —
+che fu l'ultima [[Queen|regina]] cattolica a sentire la perdita dell'ultimo
+possedimento francese, e ad avere «Calais» scritto sul cuore.
+Con lei morì, forse, l'ultimo di quello spirito che aveva, in qualche
+sua profondità, uno spirituale Tunnel della Manica.

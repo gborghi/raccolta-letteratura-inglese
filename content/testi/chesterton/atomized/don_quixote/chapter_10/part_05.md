@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/don-quixote-(chesterton)">Don Quixote</a> › <a href="/testi/chesterton/atomized/don_quixote/chapter_10">Chapter 10</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/don_quixote/chapter_10/part_04">‹ part 04</a><a class="ex-next" href="/testi/chesterton/atomized/don_quixote/chapter_11/part_01">part 01 ›</a></div>
@@ -91,5 +93,30 @@ The [[Road|road]] grew steeper, the street rearing against the cabhorse
 or the cabhorse against the cab.  But they came to a standstill
 before a porch with two pillars between which they saw
 the grey-green sea.
+
+-^-
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/don-quixote-(chesterton)">Don Quixote</a> › <a href="/testi/chesterton/atomized/don_quixote/chapter_10">Chapter 10</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/don_quixote/chapter_10/part_04">‹ part 04</a><a class="ex-next" href="/testi/chesterton/atomized/don_quixote/chapter_11/part_01">part 01 ›</a></div>
+</nav>
+
+Murrel non ignorava del tutto la disciplina scientifica in nome della quale si stava consumando l'ultimo atto della [[Tragedy|tragedia]] dei Colori Luminosi di Hendry. Ricordava di aver avuto, molto [[Time|tempo]] addietro, una discussione con Julian Archer, gran conoscitore della materia. Era una delle qualità che facevano di Julian Archer l'uomo pubblico per eccellenza, mirabilmente e supremamente adatto a quel ruolo. Sapeva accalorarsi all'improvviso, e con perfetta sincerità, su qualunque argomento, purché fosse quello che in quel momento riempiva i giornali. Se il [[King|Re]] d'Albania (la cui vita privata, ahimè, [[Leaves|lascia]] tanto a desiderare) si trovava in quel dato momento in urto con la sesta principessa tedesca entrata per matrimonio nella sua famiglia, Mr. Julian Archer si mutava all'istante in un cavaliere errante pronto ad [[Cross|attraversare]] l'Europa in sua difesa, senza il minimo riguardo per le altre cinque principesse che al momento non erano sotto gli occhi del pubblico. Ma si fraintenderebbe del tutto il tipo e l'individuo se si supponesse che vi fosse qualcosa di palesemente untuoso o farisaico nel modo in cui egli perorava questi entusiasmi mutevoli. In ciascun caso, di volta in volta, il volto bello e infervorato di Archer si sporgeva sempre sopra la tavola con la stessa aria di protesta incontenibile e di indignazione traboccante. E Murrel gli sedeva di fronte, dritto sulla sedia, e rifletteva che era proprio questo a fare l'uomo pubblico: la facoltà di eccitarsi nello stesso istante in cui si eccitava la stampa. E rifletteva pure che egli stesso era un uomo privato senza speranza. Si era sempre sentito un uomo privato, benché la sua famiglia e i suoi amici avessero considerevole peso nello Stato; ma non si era mai sentito tanto disperatamente, e quasi pietosamente, privato come in quei momenti, quando restava lì simile a un piccolo oggetto congelato, ancora umido e gelido nel soffio di una fornace.
+
+«Non puoi essere contrario; nessuno può esserlo», aveva esclamato Archer. «È semplicemente una legge per introdurre un po' più di umanità nei manicomi.»
+
+«Lo so», aveva risposto l'amico, con una certa cupezza. «Introduce moltissima umanità nei manicomi. È esattamente ciò che fa. Stenterai a crederlo, ma c'è ancora parecchia umanità che non desidera affatto essere introdotta nei manicomi.» Ma se rammentava la faccenda, era soprattutto perché Archer e i giornali si erano congratulati a vicenda per un'altra novità piuttosto attinente al caso presente. Si trattava della maggiore riservatezza della procedura. Un magistrato di tipo speciale avrebbe risolto simili casi in un colloquio privato come una visita dal medico.
+
+«Su queste cose stiamo diventando più civili», diceva Archer. «È proprio come per le esecuzioni pubbliche. Un tempo impiccavamo un uomo davanti a un'enorme folla; ma ora la cosa si fa in modo più decoroso.»
+
+«Sarà», brontolava Murrel. «Ma saremmo piuttosto seccati se i nostri amici e parenti cominciassero a sparire in silenzio; e ogni volta che ci fosse smarrita una madre o non riuscissimo a mettere le mani su una nipote prediletta, venissimo a sapere che il nostro povero congiunto era stato portato via e impiccato con squisita delicatezza.»
+
+Murrel sapeva che Hendry veniva condotto a un colloquio di quel genere; e ascoltava tetro, nella carrozza, il suo monologo medico. Hendry era un pazzo disperatamente inglese, rifletteva, per essersi rifugiato in un'idea fissa e in una teoria anziché in un rancore e in una vendetta. Era stato rovinato come Hendry del segreto dei pigmenti medievali. Eppure era quasi felice di essere Hendry del segreto della vista malata. Il dottor Gambrel, curiosamente, aveva anch'egli una teoria. Si chiamava Repulsione Spinale e rintracciava disturbi cerebrali in tutti coloro che sedevano sull'orlo delle sedie, come faceva Hendry. Il dottor Gambrel aveva raccolto un buon numero di poveri diavoli dall'orlo delle sedie: degno simbolo del precario cornicione delle loro esistenze. Era prontissimo a esporre questa teoria in [[Court|tribunale]], ma non ebbe modo di esporla nella carrozza.
+
+C'era qualcosa di macabro nell'avanzare della carrozza che arrancava su per le vie ripide di quella grigia città di mare. Fin dall'infanzia gli era parso che l'espressione «una carrozza che striscia» avesse un che d'[[nightmare|incubo]]; come se la carrozza si trascinasse dietro i suoi passeggeri e li inghiottisse nelle fauci spalancate. Il [[Horse|cavallo]] aveva un profilo spigoloso: i legni scuri che intarsiavano la carrozza suggerivano una bara. La [[Road|strada]] si faceva più erta, la via impennandosi contro il cavallo o il cavallo contro la carrozza. Ma si fermarono davanti a un portico con due colonne, tra le quali scorsero il mare grigioverde.
 
 -^-

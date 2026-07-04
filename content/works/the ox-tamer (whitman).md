@@ -2,7 +2,7 @@
 title: The Ox-Tamer
 author: Whitman
 type: work
-cluster: Joy · Animals · Comic Verse / Song
+cluster: Joy · Animals · Comic Verse Song
 source: Authors/Whitman/_raw/222_The_Ox_Tamer.md
 tags:
   - graph/work

@@ -2,7 +2,7 @@
 title: The Aristocrat
 author: Chesterton
 type: work
-cluster: Temptation · Good vs Evil · Serpent / Snake
+cluster: Temptation · Good vs Evil · Serpent Snake
 source: Authors/Chesterton/_raw/aristocrat.md
 tags:
   - graph/work

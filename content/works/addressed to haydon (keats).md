@@ -2,7 +2,7 @@
 title: ADDRESSED TO HAYDON
 author: Keats
 type: work
-cluster: Artist and Society · Truth · Regency/Georgian England
+cluster: Artist and Society · Truth · Regency Georgian England
 source: Authors/Keats/_raw/024_ADDRESSED_TO_HAYDON.md
 tags:
   - graph/work

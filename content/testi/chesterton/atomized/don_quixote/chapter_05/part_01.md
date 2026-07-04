@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/don-quixote-(chesterton)">Don Quixote</a> › <a href="/testi/chesterton/atomized/don_quixote/chapter_05">Chapter 05</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/don_quixote/chapter_04/part_03">‹ part 03</a><a class="ex-next" href="/testi/chesterton/atomized/don_quixote/chapter_05/part_02">part 02 ›</a></div>
@@ -137,3 +139,136 @@ me that it's all for his own good."
 walking rather more slowly than when coming away from it.
 But he did not see the ladder leaning up against the outhouse,
 or the development of this story might have been disastrously foiled.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/don-quixote-(chesterton)">Don Quixote</a> › <a href="/testi/chesterton/atomized/don_quixote/chapter_05">Chapter 05</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/don_quixote/chapter_04/part_03">‹ part 03</a><a class="ex-next" href="/testi/chesterton/atomized/don_quixote/chapter_05/part_02">part 02 ›</a></div>
+</nav>
+
+CAPITOLO IV
+
+IL PRIMO PROCESSO DI JOHN BRAINTREE
+
+Il signore soprannominato Scimmia attraversò rapidamente l'ampia
+e ventosa distesa di prato, dirigendosi verso quel solitario monumento
+(se così lo si può chiamare), o curiosità, o reliquia, che si ergeva
+in mezzo a quello spazio aperto. Era, in effetti, un grande
+[[Fragment|frammento]] caduto dai portali gotici della vecchia Abbazia,
+qui incongruamente issato su un piedistallo più moderno,
+probabilmente per il piuttosto nebuloso romanticismo di qualche signore
+di cent'anni fa, il quale pensava che un successivo accumulo
+di muschio e di chiaro di luna avrebbe potuto renderlo un soggetto adatto
+all'ingegnoso autore di «Marmion». A un esame ravvicinato
+(che nessuno in particolare gli aveva mai concesso) le linee spezzate
+di esso si potevano tracciare vagamente nella forma di un [[Monster|mostro]] piuttosto ripugnante,
+dagli occhi sporgenti e lo sguardo rivolto in alto, forse un drago morente,
+al di sopra del quale qualcosa si drizzava in linee verticali come alberi spezzati
+o colonne, forse la parte inferiore di una figura umana.
+Ma non fu per un qualche ardore da antiquario nel notare questi dettagli
+che il signor Douglas Murrel si affrettò verso il luogo; bensì perché
+la signora molto impaziente che lo aveva convocato fuori di [[house|casa]]
+per un affare urgente aveva indicato quel posto per l'appuntamento.
+Dall'altra parte del [[Garden|giardino]] poteva vedere Olive Ashley in piedi accanto
+alla pietra, e vedere che non stava affatto ferma allo stesso modo.
+Persino a quella distanza pareva esservi qualcosa
+di irrequieto e persino di nervoso nel suo gesto e nel suo portamento.
+Ella era forse l'unica persona che avesse mai posato lo sguardo su
+quel blocco di roccia laboriosamente scolpita; e persino lei ammetteva
+che fosse brutto e che non ne conoscesse il significato.
+In ogni caso, in quel momento non lo stava guardando.
+
+«Voglio che mi facciate un favore», disse, bruscamente, e prima
+che lui potesse parlare. Poi aggiunse, alquanto illogicamente,
+«Non so perché dovrebbe essere un favore a me. Non m'importa.
+È per il bene di tutti... la società e tutto il resto!»
+
+«Capisco», disse Murrel, con gravità, e forse con un po' di ironia.
+
+«E poi, è vostro amico; intendo quel Braintree.»
+Poi il suo tono cambiò di nuovo, ed ella disse in modo esplosivo:
+«È tutta colpa vostra! Avevate proprio bisogno di presentarmelo.»
+
+«[[Well|Ebbene]], cosa c'è che non va?» domandò il suo compagno, pazientemente.
+
+«Solo che semplicemente lo detesto», disse lei. «È stato abominevolmente scortese e...»
+
+«Sentite un po'...» gridò Murrel, seccamente, con una nota nuova
+e insolita nella voce.
+
+«Oh, no», disse Olive, di malumore, «non intendo così. Non
+voglio che qualcuno lo sfidi a duello; non è stato scortese in senso convenzionale.
+Semplicemente orribilmente presuntuoso e dogmatico, a sentenziare
+con paroloni tratti dai suoi orridi opuscoli stranieri...
+a gridare ogni sorta di sciocchezze sul sindacalismo coordinato
+e sul proletario non so cosa...»
+
+«Tali parole non sono degne delle labbra di una signora», disse Murrel, scuotendo il capo,
+«ma temo di non capire ancora bene di che si tratti.
+Dato che non devo sfidarlo per aver detto sindacalismo coordinato (che mi pare
+un'ottima ragione per sfidare un uomo), che diamine è
+che volete?»
+
+«Voglio che gli venga abbassata la cresta», osservò la giovane donna,
+con vendicativa cupezza. «Voglio che qualcuno gli ficchi in testa
+che in realtà è del tutto ignorante. Ma se non ha mai frequentato
+persone istruite. Lo si vede dal modo
+in cui cammina e si veste. In qualche modo sento che potrei sopportare qualunque cosa
+se solo non spingesse in fuori quella gran barba nera e ispida.
+Potrebbe apparire perfettamente accettabile senza la barba.»
+
+«Devo forse intendere», domandò Murrel, «che desiderate che io vada
+a rasare a forza il gentiluomo?»
+
+«Sciocchezze», replicò lei, con impazienza, «voglio soltanto che lui,
+anche solo per un piccolo istante, desideri essere rasato.
+Ciò che voglio è mostrargli come sono davvero le persone istruite.
+È tutto per il suo bene. Potrebbe... potrebbe migliorare
+di gran lunga.»
+
+«Deve forse iscriversi a un corso serale o a una scuola [[Night|notturna]]?»
+s'informò Murrel con innocenza, «o magari a una scuola [[Sunday|domenicale]].»
+
+«Nessuno impara mai nulla a scuola», replicò lei,
+«intendo l'unico luogo dove qualcuno impara davvero qualcosa...
+il mondo; il gran mondo. Voglio che veda che esistono cose
+molto più grandi delle sue brontolone piccole manie... voglio che senta
+la gente parlare di musica e di architettura e di [[history|storia]],
+e di tutte le cose che le persone davvero colte conoscono.
+Certo, si è montato la testa arringando per le strade e
+sentenziando in luride osterie... facendo il prepotente con gente persino
+più ignorante di lui. Ma se solo una volta si trovasse tra persone davvero
+raffinate, è abbastanza intelligente da riuscire a sentirsi stupido.»
+
+«E così, volendo un dotto solenne, colto fino alla punta delle dita,
+avete naturalmente pensato a me», osservò Scimmia, in tono di approvazione.
+«Volete che lo leghi a una poltrona da salotto e gli somministri
+tè e [[tolstoy|Tolstòj]], o Tupper, o chiunque sia il beniamino del momento.
+Mia cara Olive, non verrebbe.»
+
+«Ho pensato a tutto questo», disse lei, piuttosto in fretta,
+«ecco cosa intendevo chiamandolo un favore... un favore a lui
+e a tutti i miei simili, s'intende. Sentite, voglio che voi
+persuadiate Lord Seawood a invitarlo per una qualche riunione d'affari
+riguardo allo sciopero. È l'unica cosa per cui verrebbe;
+e dopo di che lo presenteremo a qualcuno che parlerà
+molto al di sopra della sua testa, così che lui in qualche modo cresca... cresca.
+È una cosa davvero seria, Douglas. Ha un potere terribile
+su quegli operai. Se non riusciamo a fargli vedere la [[Truth|verità]], essi
+tutti quanti... è un oratore, a modo suo.»
+
+«Sapevo che eravate un'[[aristocrat|aristocratica]] gonfia di privilegi», disse lui, contemplando la tesa
+ed esile signorina, «ma non avrei mai immaginato che foste una tale diplomatica.
+[[Well|Ebbene]], suppongo di dover collaborare al vostro orrido complotto, se davvero mi assicurate
+che è tutto per il suo bene.»
+
+«Certo che è per il suo bene», replicò lei, con sicurezza.
+«Non ci avrei mai pensato, se non fosse stato per quello.»
+
+«Proprio così», rispose Murrel, e tornò verso [[house|casa]],
+camminando un po' più lentamente di quando se n'era allontanato.
+Ma non vide la scala appoggiata contro la rimessa,
+altrimenti lo svolgimento di questa storia avrebbe potuto essere disastrosamente sventato.

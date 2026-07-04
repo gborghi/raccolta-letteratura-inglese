@@ -2,7 +2,7 @@
 title: You Say You Love
 author: Keats
 type: work
-cluster: Unrequited / Frustrated Love · Unattainable Beloved · Petrarchan Sonnet
+cluster: Unrequited Frustrated Love · Unattainable Beloved · Petrarchan Sonnet
 source: Authors/Keats/_raw/131_You_Say_You_Love.md
 tags:
   - graph/work

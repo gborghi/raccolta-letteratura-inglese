@@ -2,7 +2,7 @@
 title: Lady Susan
 author: Austen
 type: work
-cluster: Greek Mythology · Lust / Sexual Desire · Desire
+cluster: Greek Mythology · Lust Sexual Desire · Desire
 source: Authors/Austen/_raw/Lady Susan.md
 tags:
   - graph/work

@@ -2,7 +2,7 @@
 title: CONSTANCY TO AN IDEAL OBJECT
 author: Coleridge
 type: work
-cluster: Unrequited / Frustrated Love · Unattainable Beloved · Petrarchan Sonnet
+cluster: Unrequited Frustrated Love · Unattainable Beloved · Petrarchan Sonnet
 source: Authors/Coleridge/_raw/272_CONSTANCY_TO_AN_IDEAL_OBJECT.md
 tags:
   - graph/work
