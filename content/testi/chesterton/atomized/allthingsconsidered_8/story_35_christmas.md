@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/allthingsconsidered-8-(chesterton)">AllThingsConsidered 8</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/allthingsconsidered_8/story_34_a_dead_poet">‹ Story 34 A DEAD POET</a><a class="ex-next" href="/testi/chesterton/atomized/allthingsconsidered_8/story_02_cockneys_cockneys_and_their_jokes/part_01">part 01 ›</a></div>
@@ -682,4 +684,429 @@ or filename 24689 would be found at:
      http://www.gutenberg.net/2/4/6/8/24689
 
 An alternative method of locating eBooks:
+     http://www.gutenberg.net/GUTINDEX.ALL
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/allthingsconsidered-8-(chesterton)">AllThingsConsidered 8</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/allthingsconsidered_8/story_34_a_dead_poet">‹ Story 34 A DEAD POET</a><a class="ex-next" href="/testi/chesterton/atomized/allthingsconsidered_8/story_02_cockneys_cockneys_and_their_jokes/part_01">part 01 ›</a></div>
+</nav>
+<nav class="excerpt-children">
+<div class="excerpt-children-label">In questa sezione</div>
+<ul><li><a href="/testi/chesterton/atomized/allthingsconsidered_8/story_35_christmas/part_01">Part 1</a></li><li><a href="/testi/chesterton/atomized/allthingsconsidered_8/story_35_christmas/part_02">Part 2</a></li><li><a href="/testi/chesterton/atomized/allthingsconsidered_8/story_35_christmas/part_03">Part 3</a></li><li><a href="/testi/chesterton/atomized/allthingsconsidered_8/story_35_christmas/part_04">Part 4</a></li><li><a href="/testi/chesterton/atomized/allthingsconsidered_8/story_35_christmas/part_05">Part 5</a></li><li><a href="/testi/chesterton/atomized/allthingsconsidered_8/story_35_christmas/part_06">Part 6</a></li></ul>
+</nav>
+
+NATALE
+
+Non c'è abitudine più pericolosa o più disgustosa di quella di celebrare il Natale prima che venga, come sto facendo io in questo articolo. È l'essenza stessa di una festa il fatto che essa irrompa sull'uomo brillante e improvvisa, che in un istante il gran giorno non ci sia e nell'istante successivo il gran giorno ci sia. Fino a un certo preciso momento vi sentite ordinari e tristi; poiché è soltanto mercoledì. Nell'istante seguente il cuore vi balza in petto e la vostra [[Soul|anima]] e il vostro [[Body|corpo]] [[Dance|danzano]] insieme come [[lovers|amanti]]; poiché in un solo scoppio e vampata è divenuto [[thursday|giovedì]]. Do per scontato (naturalmente) che voi siate adoratori di Thor, e che ne celebriate il giorno una volta la settimana, magari con sacrifici umani. Se invece siete un moderno cristiano inglese, salutate (naturalmente) con la medesima esplosione di allegria l'apparire della [[Sunday|domenica]] inglese. Ma io dico che, qualunque sia il giorno che per voi è festivo o simbolico, è essenziale che vi sia una linea nera del tutto netta tra esso e il [[Time|tempo]] che lo precede. E tutte le antiche e salutari usanze legate al Natale tendevano a questo: che non si dovesse toccare né vedere né conoscere né parlare di alcunché prima dell'effettivo giungere del giorno di Natale. Così, per esempio, ai bambini non venivano mai dati i loro regali prima dell'effettivo arrivare dell'ora stabilita. I regali erano tenuti legati in pacchetti di carta marrone, dai quali talvolta sporgeva per caso il braccio di una bambola o la gamba di un [[donkey|asinello]]. Vorrei che questo principio venisse adottato riguardo alle moderne cerimonie e pubblicazioni natalizie. Specialmente dovrebbe essere osservato a proposito di ciò che si chiamano i numeri natalizi delle riviste. I direttori delle riviste fanno uscire i loro numeri natalizi con tanto anticipo sul [[Time|tempo]] che è più probabile che il lettore stia ancora piangendo il tacchino dell'anno scorso di quanto si sia seriamente accinto a pregustare per bene il tacchino che ha da venire. I numeri natalizi delle riviste dovrebbero essere legati in carta marrone e conservati per il giorno di Natale. A ben pensarci, sarei favorevole a che venissero legati in carta marrone i direttori. Se poi la gamba o il braccio di un direttore debba mai essere lasciato sporgere, lo rimetto alla scelta individuale.
+
+Naturalmente, tutta questa segretezza intorno al Natale è meramente sentimentale e cerimoniale; se non vi piace ciò che è sentimentale e cerimoniale, non celebrate affatto il Natale. Non sarete puniti, se non lo fate; e inoltre, poiché non siamo più governati da quei robusti Puritani che conquistarono per noi la libertà civile e religiosa, non sarete puniti nemmeno se lo fate. Ma non riesco a capire perché qualcuno dovrebbe darsi pena di un cerimoniale se non cerimonialmente. Se una cosa esiste soltanto per essere aggraziata, fatela con grazia oppure non fatela. Se una cosa esiste soltanto in quanto pretende di essere solenne, fatela solennemente oppure non fatela. Non ha senso farla in modo sciatto; né vi è in ciò alcuna libertà. Posso capire l'uomo che si toglie il cappello davanti a una signora perché è il simbolo consuetudinario. Lo capisco, dico; anzi, lo conosco assai intimamente. Posso anche capire l'uomo che si rifiuta di togliersi il cappello davanti a una signora, come gli antichi Quaccheri, perché ritiene che un simbolo sia superstizione. Ma che senso avrebbe eseguire una forma arbitraria di rispetto in modo tale che non fosse una forma di rispetto? Rispettiamo il gentiluomo che si toglie il cappello davanti alla signora; rispettiamo il fanatico che non vuole togliersi il cappello davanti alla signora. Ma che cosa dovremmo pensare dell'uomo che tenesse le mani in tasca e chiedesse alla signora di togliergli lui il cappello perché si sente stanco?
+
+Questo significa combinare insolenza e superstizione; e il mondo moderno è pieno di questa strana combinazione. Non vi è segno della immensa debolezza mentale della modernità più impressionante di questa generale disposizione a mantenere le vecchie forme, ma a mantenerle in modo informale e fiacco. Perché prendere qualcosa che era inteso soltanto per essere rispettoso e conservarlo irrispettosamente? Perché prendere qualcosa che potreste facilmente abolire come superstizione e perpetuarlo con cura come una noia? Vi sono stati molti esempi di questo compromesso da mezze menti. Non era forse vero, per esempio, che l'altro giorno un americano folle stava cercando di comprare l'Abbazia di Glastonbury e di trasferirla pietra per pietra in [[america|America]]? Simili cose non sono soltanto illogiche, ma idiote. Non c'è ragione particolare per cui un intraprendente finanziere americano debba portare rispetto all'Abbazia di Glastonbury. Ma se deve portare rispetto all'Abbazia di Glastonbury, deve portare rispetto a Glastonbury. Se è questione di sentimento, perché dovrebbe rovinare la scena? Se non è questione di sentimento, perché mai avrebbe dovuto visitare la scena? Chiamare Vandalismo questo genere di cose è una descrizione assai inadeguata e ingiusta. I Vandali erano gente molto assennata. Non credevano in una religione, e perciò la insultavano; non vedevano alcuna utilità in certi edifici, e perciò li abbattevano. Ma non erano tanto sciocchi da ingombrare la loro marcia con i frammenti dell'edificio che essi stessi avevano guastato. Erano almeno superiori al moderno modo di ragionare americano. Non profanavano le pietre perché le tenevano per sacre.
+
+Un altro esempio della stessa illogicità l'ho osservato l'altro giorno a una specie di «At [[Home]]». Vidi quello che sembrava un essere umano vestito con una marsina nera, un panciotto nero da sera e pantaloni neri da sera, ma con uno sparato di camicia fatto di lana Jaeger. Che senso può avere questa sorta di cosa? Se un uomo ritiene l'igiene più importante della convenzione (una veduta egoistica e pagana, poiché le bestie che periscono sono più igieniche dell'uomo, e l'uomo è al di sopra di esse soltanto perché è più convenzionale), se, dico, un uomo ritiene che l'igiene sia più importante della convenzione, che cosa mai lo obbliga a indossare uno sparato di camicia? Ma prendere un costume la cui unica concepibile ragione o vantaggio è che sia una specie di uniforme, e poi non indossarlo alla maniera dell'uniforme — questo significa non essere né un bohémien né un gentiluomo. È una sciocca affettazione, penso, in un ufficiale inglese delle Life Guards non indossare mai la propria uniforme se può farne a meno. Ma sarebbe ancora più sciocco se si mostrasse in giro per la città con una giubba scarlatta e una corazza Jaeger. È usanza oggigiorno avere Commissioni Rituali e Rapporti Rituali che stabiliscono compromessi piuttosto insensati nel cerimoniale della Chiesa d'Inghilterra. Così forse avremo un compromesso ecclesiastico per cui tutti i Vescovi indosseranno piviali Jaeger e mitrie Jaeger. Analogamente il [[King|Re]] potrebbe insistere per avere una [[Crown|corona]] Jaeger. Ma non credo che lo farà, poiché comprende la [[logic|logica]] della faccenda meglio di così. Il monarca moderno, da persona ragionevole, porta la sua [[Crown|corona]] il più di rado che può; ma se la porta, allora l'unico senso di una [[Crown|corona]] è che sia una [[Crown|corona]]. Sicché lasciate che assicuri allo sconosciuto gentiluomo dalla veste di lana che l'unico senso di uno sparato di camicia bianco è che sia uno sparato di camicia bianco. La rigidità può esserne il difetto insormontabile; ma è certamente il suo unico possibile merito.
+
+Siamo dunque coerenti riguardo al Natale, e o manteniamo le usanze o non le manteniamo. Se non vi piacciono il sentimento e il simbolismo, non vi piace il Natale; andatevene e celebrate qualcos'altro; suggerirei il compleanno del signor McCabe. Senza [[Doubt|dubbio]] potreste avere una sorta di Natale scientifico con un budino igienico e regali altamente istruttivi infilati in una calza Jaeger; andate e fatelo, allora. Se vi piacciono quelle cose, siete senza dubbio un buon tipo, e le vostre intenzioni sono eccellenti. Non ho alcun [[Doubt|dubbio]] che vi interessiate davvero all'umanità; ma non riesco a pensare che l'umanità s'interesserà mai molto a voi. L'umanità è antigienica fin dalla sua stessa [[Nature|natura]] e origine. È talmente un'eccezione nella [[Nature|Natura]] che le leggi della [[Nature|Natura]] non significano davvero nulla per essa. Ora, il Natale viene attaccato anche sul terreno umanitario. Ouida lo definì una festa di macello e di ghiottoneria. Il signor [[Shaw]] suggerì che fosse stato inventato dai pollivendoli. La cosa andrebbe considerata prima che diventi più considerevole.
+
+Non so se un animale ucciso a Natale abbia avuto un [[Time|tempo]] migliore o peggiore di quello che avrebbe avuto se non ci fosse stato alcun Natale o alcun pranzo di Natale. Ma so bene che la combattente e [[Suffering|sofferente]] fratellanza cui appartengo e a cui devo ogni cosa, l'Umanità, avrebbe un [[Time|tempo]] assai peggiore se non esistesse una cosa come il Natale o i pranzi di Natale. Se il tacchino che Scrooge donò a [[Bob Cratchit]] abbia sperimentato una carriera più amabile o più [[Melancholy|malinconica]] di quella di tacchini meno attraenti è un argomento sul quale non posso nemmeno congetturare. Ma che Scrooge fosse migliore per aver donato il tacchino, e Cratchit più felice per averlo ricevuto, lo so come due fatti, come so di avere due piedi. Che cosa possano essere la vita e la [[Death|morte]] per un tacchino non sono affari miei; ma l'[[Soul|anima]] di Scrooge e il [[Body|corpo]] di Cratchit sono affari miei. Nulla mi indurrà a rattristare le case degli uomini, a distruggere le festività umane, a insultare i doni umani e le umane beneficenze per amore di qualche ipotetica conoscenza che la [[Nature|Natura]] ha velato ai nostri occhi. Noi uomini e donne siamo tutti sulla stessa barca, sopra un mare in tempesta. Ci dobbiamo l'un l'altro una terribile e tragica lealtà. Se catturiamo squali per cibo, siano uccisi nel modo più pietoso; chi vuole [[Love|ami]] pure gli squali, e li vezzeggi, e leghi nastri intorno al loro collo e dia loro zucchero e insegni loro a [[Dance|danzare]]. Ma se una volta un uomo suggerisce che uno squalo debba essere stimato più di un marinaio, o che al povero squalo possa esser permesso di staccare a morsi ogni tanto la gamba di un negro, allora sottoporrei quell'uomo alla [[Court|corte]] marziale — è un traditore della [[Ship|nave]].
+
+E mentre assumo questa veduta dell'[[Humanitarianism|umanitarismo]] di stampo anti-natalizio, è pertinente dire che sono un fermo antivivisezionista. Vale a dire, se c'è una qualche vivisezione, io le sono contro. Sono contro il sezionamento di [[dogs|cani]] coscienti per la stessa ragione per cui sono a favore del mangiare tacchini morti. Il nesso può non essere ovvio; ma ciò è dovuto alla condizione stranamente malsana del pensiero moderno. Sono contro la crudele vivisezione come sono contro un crudele ascetismo anti-natalizio, perché entrambi comportano lo sconvolgimento di sodalizi esistenti e l'oltraggio di normali buoni sentimenti per amore di qualcosa che è intellettuale, fantasioso e remoto. Non è una cosa umana, non è una cosa umanitaria, quando vedete una povera donna fissare affamata un'aringa affumicata, pensare non agli ovvi sentimenti della donna, ma agli inimmaginabili sentimenti dell'aringa defunta. Similmente, non è umano, non è umanitario, quando guardate un cane, pensare a quali teoriche scoperte potreste forse fare se vi fosse permesso di praticargli un foro nella testa. Sia la fantasticheria degli umanitari sui sentimenti celati dentro l'aringa, sia la fantasticheria dei vivisezionisti sulla conoscenza celata dentro il cane, sono fantasticherie malsane, perché sconvolgono una umana [[Sanity|sanità di mente]] che è certa per amore di qualcosa che è per necessità incerto. Il vivisezionista, per fare qualcosa che può essere o non essere utile, fa qualcosa che è certamente orribile. L'umanitario anti-natalizio, nel cercare di provare per un tacchino una simpatia che nessun uomo può provare per un tacchino, perde la simpatia che già ha per la felicità di milioni di poveri.
+
+Non è raro oggigiorno che gli estremi folli, nella realtà, si incontrino. Così ho sempre sentito che il brutale Imperialismo e la non-resistenza tolstoiana non solo non fossero opposti, ma fossero la stessa cosa. Sono lo stesso spregevole pensiero, che la conquista non possa essere osteggiata, guardato dai due punti di vista del conquistatore e del conquistato. Così, di nuovo, il proibizionismo e il davvero degradato vendere gin e tracannare acquavite hanno esattamente la stessa [[philosophy|filosofia]] morale. Sono entrambi fondati sull'idea che il liquore fermentato non sia una bevanda, ma una droga. Ma sono particolarmente certo che l'estremo dell'umanità [[vegetarian|vegetariana]] sia, come ho detto, affine all'estremo della crudeltà scientifica: entrambi permettono a una dubbia speculazione di interferire con la loro ordinaria [[Charity|carità]]. La sana regola morale in faccende come la vivisezione mi si presenta sempre in questo modo. Non vi è necessità etica più essenziale e vitale di questa: che le eccezioni casuistiche, pur ammesse, debbano essere ammesse come eccezioni. E ne consegue, io penso, che, per quanto si possa compiere una cosa orrenda in una situazione orrenda, dobbiamo essere del tutto certi di trovarci effettivamente e già in quella situazione. Così, tutti i moralisti sani ammettono che si possa talvolta dire una bugia; ma nessun moralista sano approverebbe che si insegni a un fanciullo a esercitarsi nel dire bugie, nel caso un giorno debba dirne una giustificabile. Così, la [[morality|morale]] ha spesso giustificato lo sparare a un rapinatore o a uno scassinatore. Ma non giustificherebbe l'andare nella scuola [[Sunday|domenicale]] del villaggio e sparare a tutti i fanciulli che avessero l'aria di poter crescere fino a diventare scassinatori. Il bisogno può sorgere; ma il bisogno dev'essere sorto. Mi pare del tutto chiaro che, se oltrepassate questo limite, fate un passo oltre un precipizio.
+
+Ora, che torturare un animale sia o non sia una cosa immorale, è, quanto meno, una cosa spaventosa. Appartiene all'ordine degli atti eccezionali e persino disperati. Salvo che per qualche straordinaria ragione, non ferirei gravemente un animale; con una straordinaria ragione lo ferirei gravemente. Se (per esempio) un elefante impazzito inseguisse me e la mia famiglia, e potessi sparargli soltanto in modo tale che morisse in agonia, esso dovrebbe morire in agonia. Ma l'elefante ci sarebbe. Non lo farei a un elefante ipotetico. Ora, mi pare sempre che questo sia il punto debole dell'ordinario argomento vivisezionista: «Supponete che vostra moglie stia morendo». La vivisezione non è compiuta da un uomo la cui moglie sta morendo. Se lo fosse, potrebbe essere sollevata all'altezza del momento, come lo sarebbero il mentire o il rubare pane, o qualsiasi altra brutta azione. Ma questa brutta azione è compiuta a [[Blood|sangue]] freddo, con comodo, da uomini che non sono sicuri che essa sarà di una qualche utilità per qualcuno — uomini dei quali il massimo che si possa dire è che potrebbero forse gettare i primi germi di qualche scoperta che potrebbe magari salvare la vita della moglie di qualcun altro in un remoto futuro. Ciò è troppo freddo e distante per privare un atto del suo immediato orrore. È come addestrare il [[Child|fanciullo]] a dire bugie per amore di qualche grande dilemma che potrebbe non presentarglisi mai. State facendo una cosa crudele, ma non con abbastanza passione da renderla benigna.
+
+Tanto basti sul perché io sia antivivisezionista; e vorrei dire, in conclusione, che tutti gli altri antivivisezionisti di mia conoscenza indeboliscono infinitamente la loro causa nel congiungere questo attacco a una specialità scientifica, in cui il cuore umano è comunemente dalla loro parte, con attacchi a usanze umane universali, in cui il cuore umano non è affatto dalla loro parte. Ho udito degli umanitari, per esempio, parlare della vivisezione e degli sport all'aria aperta come se fossero lo stesso genere di cosa. La differenza mi pare semplice ed enorme. Nello sport un uomo entra in un bosco e si mescola alla vita esistente di quel bosco; diviene distruttore soltanto nel senso semplice e sano in cui tutte le creature sono distruttrici; diviene per un istante, per esse, ciò che esse sono per lui — un altro animale. Nella vivisezione un uomo prende una creatura più semplice e la sottopone a sottigliezze che nessuno tranne l'uomo potrebbe infliggerle, e delle quali l'uomo è perciò gravemente e terribilmente responsabile.
+
+Nel frattempo, resta vero che mangerò una gran quantità di tacchino questo Natale; e non è affatto vero (come dicono i vegetariani) che lo farò perché non mi rendo conto di ciò che faccio, o perché faccio ciò che so essere male, o che lo faccia con vergogna o [[Doubt|dubbio]] o un fondamentale turbamento della [[Conscience|coscienza]]. In un senso so [[Well|bene]] ciò che faccio; in un altro senso so [[Well|bene]] di non sapere ciò che faccio. Scrooge e i Cratchit e io siamo, come ho detto, tutti in una sola barca; il tacchino e io siamo, a dir molto, navi che si incrociano nella [[Night|notte]] e si salutano al passaggio. Gli auguro ogni [[Well|bene]]; ma è davvero praticamente impossibile scoprire se lo tratto [[Well|bene]]. Posso evitare, ed evito con orrore, ogni tormento speciale e artificiale a suo danno, il conficcargli spilli per divertimento o il conficcargli coltelli per indagine scientifica. Ma se, nutrendolo lentamente e uccidendolo rapidamente per i bisogni dei miei fratelli, io abbia migliorato ai suoi stessi occhi solenni il suo strano e separato destino, se io l'abbia reso, al cospetto di Dio, uno schiavo o un martire, o uno di coloro che gli dèi [[Love|amano]] e che muoiono giovani — ciò è assai più lontano dalle mie possibilità di conoscenza dei più astrusi intrichi del misticismo o della teologia. Un tacchino è più occulto e tremendo di tutti gli angeli e gli arcangeli. Nella misura in cui Dio ci ha in parte rivelato un mondo angelico, ci ha in parte detto che cosa significhi un angelo. Ma Dio non ci ha mai detto che cosa significhi un tacchino. E se andate a fissare un tacchino vivo per un'ora o due, scoprirete alla fine di esse che l'enigma è piuttosto cresciuto che diminuito.
+
+Fine di «All Things Considered» del Project Gutenberg, di G. K. Chesterton
+
+*** FINE DI QUESTO EBOOK PROJECT GUTENBERG, ALL THINGS CONSIDERED ***
+
+***** Questo file dovrebbe chiamarsi 11505-8.txt oppure 11505-8.zip *****
+Questo e tutti i file associati, in vari formati, si trovano in:
+        http://www.gutenberg.net/1/1/5/0/11505/
+
+Prodotto da Robert Shimmin, jayam e l'Online Distributed Proofreading
+Team
+
+Le edizioni aggiornate sostituiranno la precedente — le vecchie edizioni
+verranno rinominate.
+
+Creare le opere a partire da edizioni a stampa di pubblico dominio significa che
+nessuno detiene un copyright statunitense su queste opere, sicché la Fondazione
+(e voi!) potete copiarle e distribuirle negli Stati Uniti senza
+permesso e senza pagare diritti d'autore. Regole speciali,
+esposte nella parte relativa ai Termini Generali d'Uso di questa licenza, si applicano al
+copiare e distribuire opere elettroniche Project Gutenberg-tm per
+proteggere il concetto e il marchio PROJECT GUTENBERG-tm. Project
+Gutenberg è un marchio registrato, e non può essere usato se
+fate pagare gli eBook, a meno che non riceviate uno specifico permesso. Se
+non fate pagare nulla per le copie di questo eBook, conformarsi alle
+regole è molto facile. Potete usare questo eBook per quasi qualunque scopo,
+come la creazione di opere derivate, rapporti, esecuzioni e
+ricerche. Esse possono essere modificate, stampate e regalate — potete fare
+praticamente QUALSIASI COSA con gli eBook di pubblico dominio. La ridistribuzione è
+soggetta alla licenza del marchio, specialmente la ridistribuzione
+commerciale.
+
+*** INIZIO: LICENZA COMPLETA ***
+
+LA LICENZA COMPLETA PROJECT GUTENBERG
+SI PREGA DI LEGGERE QUESTO PRIMA DI DISTRIBUIRE O USARE QUEST'OPERA
+
+Per proteggere la missione del Project Gutenberg-tm di promuovere la libera
+distribuzione di opere elettroniche, usando o distribuendo quest'opera
+(o qualunque altra opera associata in qualsiasi modo alla frase «Project
+Gutenberg»), voi accettate di conformarvi a tutti i termini della Licenza completa Project
+Gutenberg-tm (disponibile con questo file oppure in rete all'indirizzo
+http://gutenberg.net/license).
+
+Sezione 1. Termini Generali d'Uso e Ridistribuzione delle opere elettroniche
+Project Gutenberg-tm
+
+1.A. Leggendo o usando una qualsiasi parte di quest'opera elettronica Project Gutenberg-tm,
+voi indicate di aver letto, compreso, accettato e
+approvato tutti i termini di questa licenza e dell'accordo sulla proprietà intellettuale
+(marchio/copyright). Se non accettate di attenervi a tutti
+i termini di questo accordo, dovete cessare di usare e restituire o distruggere
+tutte le copie di opere elettroniche Project Gutenberg-tm in vostro possesso.
+Se avete pagato una tariffa per ottenere una copia o l'accesso a un'opera
+elettronica Project Gutenberg-tm e non accettate di essere vincolati dai
+termini di questo accordo, potete ottenere un rimborso dalla persona o
+dall'ente al quale avete pagato la tariffa, come esposto nel paragrafo 1.E.8.
+
+1.B. «Project Gutenberg» è un marchio registrato. Può essere
+usato o associato in qualsiasi modo a un'opera elettronica soltanto da persone che
+accettino di essere vincolate dai termini di questo accordo. Vi sono alcune
+cose che potete fare con la maggior parte delle opere elettroniche Project Gutenberg-tm
+anche senza conformarvi ai termini completi di questo accordo. Vedi
+il paragrafo 1.C qui sotto. Vi sono molte cose che potete fare con le opere
+elettroniche Project Gutenberg-tm se seguite i termini di questo accordo
+e aiutate a preservare il libero accesso futuro alle opere elettroniche Project
+Gutenberg-tm. Vedi il paragrafo 1.E qui sotto.
+
+1.C. La Project Gutenberg Literary Archive Foundation («la Fondazione»
+o PGLAF) detiene un copyright di raccolta sulla collezione di opere elettroniche
+Project Gutenberg-tm. Quasi tutte le singole opere della
+collezione sono di pubblico dominio negli Stati Uniti. Se una
+singola opera è di pubblico dominio negli Stati Uniti e voi vi
+trovate negli Stati Uniti, noi non rivendichiamo il diritto di impedirvi di
+copiare, distribuire, eseguire, esibire o creare opere derivate
+basate sull'opera, purché tutti i riferimenti a Project Gutenberg
+siano rimossi. Naturalmente, [[Hope|speriamo]] che voi sosteniate la missione del Project
+Gutenberg-tm di promuovere il libero accesso alle opere elettroniche
+condividendo liberamente le opere Project Gutenberg-tm nel rispetto dei termini di
+questo accordo, così da mantenere il nome Project Gutenberg-tm associato
+all'opera. Potete facilmente conformarvi ai termini di questo accordo
+mantenendo quest'opera nel medesimo formato con l'annessa Licenza completa Project
+Gutenberg-tm quando la condividete senza pagamento con altri.
+
+1.D. Anche le leggi sul copyright del luogo in cui vi trovate governano
+ciò che potete fare con quest'opera. Le leggi sul copyright nella maggior parte dei paesi sono in
+un costante stato di cambiamento. Se vi trovate fuori dagli Stati Uniti, controllate
+le leggi del vostro paese in aggiunta ai termini di questo accordo
+prima di scaricare, copiare, esibire, eseguire, distribuire o
+creare opere derivate basate su quest'opera o su qualsiasi altra opera Project
+Gutenberg-tm. La Fondazione non fornisce alcuna garanzia circa
+lo status di copyright di alcuna opera in alcun paese al di fuori degli Stati
+Uniti.
+
+1.E. A meno che non abbiate rimosso tutti i riferimenti a Project Gutenberg:
+
+1.E.1. La seguente frase, con collegamenti attivi verso, o altro immediato
+accesso a, la Licenza completa Project Gutenberg-tm deve apparire ben in evidenza
+ogni volta che una copia di un'opera Project Gutenberg-tm (qualsiasi opera su cui
+appaia la frase «Project Gutenberg», o alla quale la frase «Project
+Gutenberg» sia associata) viene consultata, esibita, eseguita, visualizzata,
+copiata o distribuita:
+
+Questo eBook è a uso di chiunque, ovunque, senza alcun costo e con
+quasi nessuna restrizione di sorta. Potete copiarlo, regalarlo o
+riutilizzarlo secondo i termini della Licenza Project Gutenberg inclusa
+con questo eBook o in rete all'indirizzo www.gutenberg.net
+
+1.E.2. Se una singola opera elettronica Project Gutenberg-tm deriva
+dal pubblico dominio (non contiene un avviso che indichi che è
+pubblicata con il permesso del titolare del copyright), l'opera può essere copiata
+e distribuita a chiunque negli Stati Uniti senza pagare alcuna tariffa
+o spesa. Se state ridistribuendo o fornendo accesso a un'opera
+sulla quale la frase «Project Gutenberg» è associata o compare, dovete
+conformarvi o ai requisiti dei paragrafi da 1.E.1
+a 1.E.7 oppure ottenere il permesso per l'uso dell'opera e del
+marchio Project Gutenberg-tm come esposto nei paragrafi 1.E.8 o
+1.E.9.
+
+1.E.3. Se una singola opera elettronica Project Gutenberg-tm è pubblicata
+con il permesso del titolare del copyright, il vostro uso e la vostra distribuzione
+devono conformarsi sia ai paragrafi da 1.E.1 a 1.E.7 sia a qualsiasi ulteriore
+termine imposto dal titolare del copyright. Ulteriori termini saranno collegati
+alla Licenza Project Gutenberg-tm per tutte le opere pubblicate con il
+permesso del titolare del copyright reperibili all'inizio di quest'opera.
+
+1.E.4. Non scollegate né staccate né rimuovete i termini completi della Licenza Project
+Gutenberg-tm da quest'opera, o da qualsiasi file contenente una parte di quest'opera
+o di qualsiasi altra opera associata a Project Gutenberg-tm.
+
+1.E.5. Non copiate, esibite, eseguite, distribuite o ridistribuite questa
+opera elettronica, o qualsiasi parte di questa opera elettronica, senza
+esibire ben in evidenza la frase esposta nel paragrafo 1.E.1 con
+collegamenti attivi o accesso immediato ai termini completi della Licenza Project
+Gutenberg-tm.
+
+1.E.6. Potete [[convert|convertire]] e distribuire quest'opera in qualsiasi forma binaria,
+compressa, marcata, non proprietaria o proprietaria, inclusa qualsiasi
+forma di elaborazione testi o di ipertesto. Tuttavia, se fornite accesso o
+distribuite copie di un'opera Project Gutenberg-tm in un formato diverso da
+«Plain Vanilla ASCII» o da altro formato usato nella versione ufficiale
+pubblicata sul sito ufficiale Project Gutenberg-tm (www.gutenberg.net),
+dovete, senza alcun costo, tariffa o spesa aggiuntivi per l'utente, fornire una
+copia, un mezzo per esportare una copia, o un mezzo per ottenere una copia su
+richiesta, dell'opera nella sua originaria forma «Plain Vanilla ASCII» o in altra
+forma. Qualsiasi formato alternativo deve includere la Licenza completa Project Gutenberg-tm
+come specificato nel paragrafo 1.E.1.
+
+1.E.7. Non fate pagare una tariffa per l'accesso a, la visualizzazione, l'esibizione,
+l'esecuzione, la copia o la distribuzione di qualsiasi opera Project Gutenberg-tm
+a meno che non vi conformiate al paragrafo 1.E.8 o 1.E.9.
+
+1.E.8. Potete far pagare una ragionevole tariffa per le copie di, o per fornire
+accesso a, o per distribuire opere elettroniche Project Gutenberg-tm a condizione
+che
+
+- Voi paghiate un diritto d'autore del 20% degli utili lordi che ricavate dall'
+     uso di opere Project Gutenberg-tm calcolati usando il metodo
+     che già usate per calcolare le imposte a voi applicabili. Il diritto è
+     dovuto al proprietario del marchio Project Gutenberg-tm, ma egli
+     ha accettato di donare i diritti d'autore ai sensi di questo paragrafo alla
+     Project Gutenberg Literary Archive Foundation. I pagamenti dei diritti
+     devono essere effettuati entro 60 giorni successivi a ciascuna data in cui
+     preparate (o siete legalmente tenuti a preparare) le vostre dichiarazioni
+     fiscali periodiche. I pagamenti dei diritti dovrebbero essere chiaramente contrassegnati come tali e
+     inviati alla Project Gutenberg Literary Archive Foundation all'
+     indirizzo specificato nella Sezione 4, «Informazioni sulle donazioni alla
+     Project Gutenberg Literary Archive Foundation».
+
+- Voi forniate un rimborso completo di qualsiasi somma pagata da un utente che vi notifichi
+     per iscritto (o via e-mail) entro 30 giorni dal ricevimento che egli/ella
+     non accetta i termini della Licenza completa Project Gutenberg-tm.
+     Dovete richiedere a un tale utente di restituire o
+     distruggere tutte le copie delle opere possedute in un supporto fisico
+     e di cessare ogni uso e ogni accesso alle altre copie di
+     opere Project Gutenberg-tm.
+
+- Voi forniate, in accordo con il paragrafo 1.F.3, un rimborso completo di qualsiasi
+     somma pagata per un'opera o una copia sostitutiva, se un difetto nell'
+     opera elettronica viene scoperto e segnalato a voi entro 90 giorni
+     dal ricevimento dell'opera.
+
+- Voi vi conformiate a tutti gli altri termini di questo accordo per la libera
+     distribuzione di opere Project Gutenberg-tm.
+
+1.E.9. Se desiderate far pagare una tariffa o distribuire un'opera elettronica
+Project Gutenberg-tm o un gruppo di opere a termini diversi da quelli
+esposti in questo accordo, dovete ottenere il permesso per iscritto sia
+dalla Project Gutenberg Literary Archive Foundation sia da [[Michael]]
+Hart, il proprietario del marchio Project Gutenberg-tm. Contattate la
+Fondazione come esposto nella Sezione 3 qui sotto.
+
+1.F.
+
+1.F.1. I volontari e i dipendenti del Project Gutenberg impiegano considerevole
+sforzo per identificare, fare ricerche sul copyright, trascrivere e correggere le bozze delle
+opere di pubblico dominio nel creare la collezione Project Gutenberg-tm.
+Nonostante questi sforzi, le opere elettroniche Project Gutenberg-tm,
+e il supporto sul quale possono essere conservate, possono contenere
+«Difetti», quali, ma non limitati a, dati incompleti, inaccurati o
+corrotti, errori di trascrizione, una violazione di copyright o altra proprietà
+intellettuale, un disco o altro supporto difettoso o danneggiato, un
+virus informatico, o codici informatici che danneggino o non possano essere letti dalla
+vostra apparecchiatura.
+
+1.F.2. GARANZIA LIMITATA, ESCLUSIONE DI DANNI - Salvo il «Diritto
+di Sostituzione o Rimborso» descritto nel paragrafo 1.F.3, la Project
+Gutenberg Literary Archive Foundation, il proprietario del marchio Project
+Gutenberg-tm, e qualsiasi altra parte che distribuisca un'opera elettronica Project
+Gutenberg-tm ai sensi di questo accordo, declinano ogni
+responsabilità verso di voi per danni, costi e spese, incluse le spese
+legali. VOI ACCETTATE CHE NON AVETE ALCUN RIMEDIO PER NEGLIGENZA, RESPONSABILITÀ
+OGGETTIVA, VIOLAZIONE DI GARANZIA O VIOLAZIONE DI CONTRATTO SALVO QUELLI
+PREVISTI NEL PARAGRAFO F3. VOI ACCETTATE CHE LA FONDAZIONE, IL
+PROPRIETARIO DEL MARCHIO, E QUALSIASI DISTRIBUTORE AI SENSI DI QUESTO ACCORDO NON SARANNO
+RESPONSABILI VERSO DI VOI PER DANNI EFFETTIVI, DIRETTI, INDIRETTI, CONSEQUENZIALI, PUNITIVI O
+INCIDENTALI ANCHE SE AVETE DATO AVVISO DELLA POSSIBILITÀ DI TALE
+DANNO.
+
+1.F.3. DIRITTO LIMITATO DI SOSTITUZIONE O RIMBORSO - Se scoprite un
+difetto in questa opera elettronica entro 90 giorni dal riceverla, potete
+ricevere un rimborso della somma (se vi è) che avete pagato per essa inviando una
+spiegazione scritta alla persona da cui avete ricevuto l'opera. Se
+avete ricevuto l'opera su un supporto fisico, dovete restituire il supporto con
+la vostra spiegazione scritta. La persona o l'ente che vi ha fornito l'
+opera difettosa può scegliere di fornire una copia sostitutiva in luogo di un
+rimborso. Se avete ricevuto l'opera elettronicamente, la persona o l'ente
+che ve la fornisce può scegliere di darvi una seconda opportunità di
+ricevere l'opera elettronicamente in luogo di un rimborso. Se la seconda copia
+è anch'essa difettosa, potete pretendere un rimborso per iscritto senza ulteriori
+opportunità di risolvere il problema.
+
+1.F.4. Salvo il diritto limitato di sostituzione o rimborso esposto
+nel paragrafo 1.F.3, quest'opera vi è fornita «COSÌ COM'È», SENZA ALTRA
+GARANZIA DI ALCUN GENERE, ESPRESSA O IMPLICITA, INCLUSE MA NON LIMITATE A
+GARANZIE DI COMMERCIABILITÀ O IDONEITÀ A UNO SCOPO QUALSIASI.
+
+1.F.5. Alcuni stati non consentono esclusioni di certe garanzie
+implicite o l'esclusione o la limitazione di certi tipi di danni.
+Se una qualsiasi esclusione o limitazione esposta in questo accordo viola la
+legge dello stato applicabile a questo accordo, l'accordo sarà
+interpretato in modo da attuare la massima esclusione o limitazione consentita dalla
+legge statale applicabile. L'invalidità o l'inapplicabilità di qualsiasi
+disposizione di questo accordo non annullerà le disposizioni restanti.
+
+1.F.6. INDENNIZZO - Voi accettate di indennizzare e di manlevare la Fondazione, il
+proprietario del marchio, qualsiasi agente o dipendente della Fondazione, chiunque
+fornisca copie di opere elettroniche Project Gutenberg-tm in accordo
+con questo accordo, e qualsiasi volontario associato alla produzione,
+promozione e distribuzione di opere elettroniche Project Gutenberg-tm,
+da ogni responsabilità, costo e spesa, incluse le spese legali,
+che sorgano direttamente o indirettamente da uno qualsiasi dei seguenti fatti che voi
+compiate o causiate: (a) distribuzione di questa o di qualsiasi opera Project Gutenberg-tm,
+(b) alterazione, modifica, o aggiunte o cancellazioni a qualsiasi
+opera Project Gutenberg-tm, e (c) qualsiasi Difetto da voi causato.
+
+Sezione 2. Informazioni sulla Missione del Project Gutenberg-tm
+
+Project Gutenberg-tm è sinonimo della libera distribuzione di
+opere elettroniche in formati leggibili dalla più ampia varietà di computer,
+inclusi computer obsoleti, vecchi, di mezza età e nuovi. Esiste
+grazie agli sforzi di centinaia di volontari e alle donazioni di
+persone di ogni ceto sociale.
+
+I volontari e il sostegno finanziario per fornire ai volontari
+l'assistenza di cui hanno bisogno sono cruciali per raggiungere gli obiettivi del Project
+Gutenberg-tm e per assicurare che la collezione Project Gutenberg-tm
+resti liberamente disponibile per le generazioni a venire. Nel 2001, la Project
+Gutenberg Literary Archive Foundation fu creata per fornire un sicuro
+e permanente futuro al Project Gutenberg-tm e alle generazioni future.
+Per saperne di più sulla Project Gutenberg Literary Archive Foundation
+e su come i vostri sforzi e le vostre donazioni possono aiutare, vedi le Sezioni 3 e 4
+e la pagina web della Fondazione all'indirizzo http://www.pglaf.org.
+
+Sezione 3. Informazioni sulla Project Gutenberg Literary Archive
+Foundation
+
+La Project Gutenberg Literary Archive Foundation è una corporazione educativa
+senza scopo di lucro 501(c)(3) organizzata secondo le leggi dello
+stato del Mississippi e a cui è stato concesso lo status di esenzione fiscale dall'Internal
+Revenue Service. Il numero EIN o di identificazione fiscale federale della Fondazione
+è 64-6221541. La sua lettera 501(c)(3) è pubblicata all'indirizzo
+http://pglaf.org/fundraising. I contributi alla Project Gutenberg
+Literary Archive Foundation sono deducibili dalle imposte nella piena misura
+consentita dalle leggi federali statunitensi e dalle leggi del vostro stato.
+
+L'ufficio principale della Fondazione si trova a 4557 Melan Dr. S.
+Fairbanks, AK, 99712., ma i suoi volontari e dipendenti sono sparsi
+in numerose località. Il suo ufficio commerciale si trova a
+809 North 1500 West, Salt Lake [[City]], UT 84116, (801) 596-1887, e-mail
+business@pglaf.org. I collegamenti di contatto e-mail e le informazioni di contatto
+aggiornate si trovano sul sito web della Fondazione e sulla pagina ufficiale
+all'indirizzo http://pglaf.org
+
+Per ulteriori informazioni di contatto:
+     Dr. Gregory B. Newby
+     Chief Executive and Director
+     gbnewby@pglaf.org
+
+Sezione 4. Informazioni sulle Donazioni alla Project Gutenberg
+Literary Archive Foundation
+
+Project Gutenberg-tm dipende e non può sopravvivere senza un ampio e
+diffuso sostegno pubblico e senza donazioni per portare avanti la sua missione di
+aumentare il numero di opere di pubblico dominio e sotto licenza che possano essere
+liberamente distribuite in forma leggibile da [[Machine|macchina]], accessibile dalla più ampia
+gamma di apparecchiature, incluse quelle obsolete. Molte piccole donazioni
+(da 1 a 5.000 dollari) sono particolarmente importanti per mantenere lo status di esenzione
+fiscale presso l'IRS.
+
+La Fondazione si impegna a conformarsi alle leggi che regolano
+le associazioni benefiche e le donazioni benefiche in tutti i 50 stati degli Stati
+Uniti. I requisiti di conformità non sono uniformi e occorrono un
+considerevole sforzo, molte pratiche burocratiche e molte tariffe per soddisfare e mantenere
+questi requisiti. Non sollecitiamo donazioni in località
+dove non abbiamo ricevuto conferma scritta della conformità. Per
+INVIARE DONAZIONI o determinare lo status di conformità per uno
+stato particolare, visitate http://pglaf.org
+
+Sebbene non possiamo e non sollecitiamo contributi da stati in cui
+non abbiamo soddisfatto i requisiti di sollecitazione, non conosciamo alcun divieto
+contro l'accettazione di donazioni non sollecitate da donatori in tali stati che
+si rivolgano a noi con offerte di donazione.
+
+Le donazioni internazionali sono accettate con gratitudine, ma non possiamo fare
+alcuna dichiarazione circa il trattamento fiscale delle donazioni ricevute dall'
+esterno degli Stati Uniti. Le sole leggi statunitensi [[Alone|da sole]] sommergono il nostro piccolo staff.
+
+Vi preghiamo di controllare le pagine web del Project Gutenberg per i metodi e gli indirizzi
+di donazione correnti. Le donazioni sono accettate in diversi altri
+modi, inclusi assegni, pagamenti in rete e donazioni con carta di credito.
+Per donare, vi preghiamo di visitare: http://pglaf.org/donate
+
+Sezione 5. Informazioni Generali sulle opere elettroniche Project Gutenberg-tm.
+
+Il Professor [[Michael]] S. Hart è l'ideatore del concetto Project Gutenberg-tm
+di una biblioteca di opere elettroniche che potessero essere liberamente condivise
+con chiunque. Per trent'anni, egli ha prodotto e distribuito eBook Project
+Gutenberg-tm con soltanto una lasca rete di sostegno volontario.
+
+Gli eBook Project Gutenberg-tm sono spesso creati da diverse edizioni
+a stampa, tutte confermate come Pubblico Dominio negli Stati Uniti
+a meno che non sia incluso un avviso di copyright. Così, non necessariamente
+manteniamo gli eBook in conformità con una particolare edizione cartacea.
+
+Ciascun eBook si trova in una sottodirectory dello stesso numero del
+numero dell'eBook, spesso in diversi formati inclusi plain vanilla ASCII,
+compresso (zippato), HTML e altri.
+
+Le EDIZIONI corrette dei nostri eBook sostituiscono il vecchio file e ne assumono
+il vecchio nome di file e il numero etext. Il vecchio file sostituito viene rinominato.
+Le VERSIONI basate su fonti separate sono trattate come nuovi eBook che ricevono
+nuovi nomi di file e numeri etext.
+
+La maggior parte delle persone comincia dal nostro sito web, che ha la principale funzione di ricerca PG:
+
+     http://www.gutenberg.net
+
+Questo sito web include informazioni sul Project Gutenberg-tm,
+inclusi come fare donazioni alla Project Gutenberg Literary
+Archive Foundation, come aiutare a produrre i nostri nuovi eBook, e come
+abbonarsi alla nostra newsletter via e-mail per avere notizie sui nuovi eBook.
+
+Gli eBook pubblicati prima del novembre 2003, con numeri di eBook AL DI SOTTO di #10000,
+sono archiviati in directory basate sulla loro data di rilascio. Se volete
+scaricare uno qualsiasi di questi eBook direttamente, invece di usare il consueto
+sistema di ricerca, potete utilizzare i seguenti indirizzi e semplicemente
+scaricare per anno etext.
+
+     http://www.gutenberg.net/etext06
+
+    (Oppure /etext 05, 04, 03, 02, 01, 00, 99,
+     98, 97, 96, 95, 94, 93, 92, 92, 91 o 90)
+
+Gli eBook pubblicati a partire dal novembre 2003, con numeri etext OLTRE #10000, sono
+archiviati in modo diverso. L'anno di una data di rilascio non è più parte
+del percorso della directory. Il percorso è basato sul numero etext (che è
+identico al nome del file). Il percorso del file è composto da singole
+cifre corrispondenti a tutte le cifre del nome del file tranne l'ultima. Per
+esempio, un eBook con nome di file 10234 si troverebbe in:
+
+     http://www.gutenberg.net/1/0/2/3/10234
+
+oppure il nome di file 24689 si troverebbe in:
+     http://www.gutenberg.net/2/4/6/8/24689
+
+Un metodo alternativo per localizzare gli eBook:
      http://www.gutenberg.net/GUTINDEX.ALL

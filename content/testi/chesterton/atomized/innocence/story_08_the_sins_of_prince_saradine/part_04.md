@@ -140,7 +140,7 @@ air of hurried politeness.
 
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/works/innocence-(chesterton)">The Innocence of Father Brown</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/innocence-(chesterton)">The Innocence of Father Brown</a> › <a href="/testi/chesterton/atomized/innocence/story_08_the_sins_of_prince_saradine">Story 08 The Sins of Prince Saradine</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/innocence/story_08_the_sins_of_prince_saradine/part_03">‹ part 03</a><a class="ex-next" href="/testi/chesterton/atomized/innocence/story_08_the_sins_of_prince_saradine/part_05">part 05 ›</a></div>
 </nav>
 

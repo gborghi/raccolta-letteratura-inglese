@@ -143,7 +143,7 @@ like the old hotel bar which probably once occupied its place.
 
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/works/innocence-(chesterton)">The Innocence of Father Brown</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/innocence-(chesterton)">The Innocence of Father Brown</a> › <a href="/testi/chesterton/atomized/innocence/story_03_the_queer_feet">Story 03 The Queer Feet</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/innocence/story_02_the_secret_garden/part_07">‹ part 07</a><a class="ex-next" href="/testi/chesterton/atomized/innocence/story_03_the_queer_feet/part_02">part 02 ›</a></div>
 </nav>
 

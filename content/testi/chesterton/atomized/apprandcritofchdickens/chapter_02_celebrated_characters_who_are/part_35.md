@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/apprandcritofchdickens-(chesterton)">ApprAndCritOfChDickens</a> › <a href="/testi/chesterton/atomized/apprandcritofchdickens/chapter_02_celebrated_characters_who_are">Chapter 02 celebrated characters who are</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/apprandcritofchdickens/chapter_02_celebrated_characters_who_are/part_34">‹ part 34</a><a class="ex-next" href="/testi/chesterton/atomized/apprandcritofchdickens/chapter_02_celebrated_characters_who_are/part_36">part 36 ›</a></div>
@@ -181,3 +183,180 @@ Of course such a question can never really be settled precisely, because
 it is the question not merely of a mystery but of a puzzle. For here the
 
 [[Detective|detective]] [[Novel|novel]] differs from every other kind of [[Novel|novel]]. The ordinary
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/apprandcritofchdickens-(chesterton)">ApprAndCritOfChDickens</a> › <a href="/testi/chesterton/atomized/apprandcritofchdickens/chapter_02_celebrated_characters_who_are">Chapter 02 celebrated characters who are</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/apprandcritofchdickens/chapter_02_celebrated_characters_who_are/part_34">‹ part 34</a><a class="ex-next" href="/testi/chesterton/atomized/apprandcritofchdickens/chapter_02_celebrated_characters_who_are/part_36">part 36 ›</a></div>
+</nav>
+
+abbastanza da essere il centro non solo di un qualunque [[Novel|romanzo]], ma di una qualunque arlecchinata.
+
+Ma il punto è che perfino la teoria del signor Cumming Walters, per quanto renda
+
+il mistero più straordinario, non lo rende punto un mistero più grande
+
+di [[Edwin Drood]]. Non avrebbe dovuto intitolarsi _The Mystery of Drood_,
+
+bensì _The Mystery of Datchery_. Questo è l'argomento più forte a favore di Proctor;
+
+se la storia narra del ritorno di Drood nei panni di Datchery, la storia adempie
+
+quantomeno il titolo stampato sul frontespizio.
+
+L'obiezione principale alla teoria di Proctor è che non pare esservi
+
+ragione sufficiente perché Jasper non abbia ucciso il nipote, se
+
+lo voleva. E pare esservi ragione ancor minore perché Drood, se ucciso
+
+senza successo, non abbia dato l'allarme. I giovani architetti felici,
+
+quando siano quasi strangolati da anziani organisti, non se ne vanno di solito a zonzo
+
+per tornare qualche [[Time|tempo]] dopo con una parrucca e un nome falso.
+
+In superficie parrebbe quasi altrettanto strano trovare l'assassino
+
+che indaga sull'origine del delitto, quanto trovare il cadavere
+
+che vi indaga. A questo problema due dei più valenti critici letterari del
+
+nostro [[Time|tempo]], il signor Andrew Lang e il signor William Archer (entrambi persuasi
+
+in linea di massima della teoria di Proctor), si sono dedicati con particolare cura.
+
+Entrambi sono giunti alla medesima conclusione sostanziale; e sospetto che
+
+abbiano ragione. Sostengono che Jasper (la cui mania per l'oppio è tanto
+
+insistita nel racconto) fu colto da una specie di attacco, o trance, o altra
+
+crisi fisica mentre stava commettendo il delitto, sicché lo lasciò
+
+incompiuto; e sostengono altresì che egli aveva narcotizzato Drood, così che Drood,
+
+quando si riebbe dall'aggressione, restò in dubbio su chi fosse stato il suo
+
+assalitore. Questo potrebbe davvero spiegare, se pure un po' fantasiosamente, il suo ritorno
+
+in città nelle vesti di un [[Detective|investigatore]]. Egli potrebbe ritenere di dovere
+
+allo zio (che ricordava per ultimo in una sorta di visione omicida)
+
+una indagine indipendente sulla sua reale colpevolezza o meno.
+
+Potrebbe dire, come [[Hamlet]] disse di una visione ugualmente terrificante: «Avrò
+
+fondamenti più concreti di questo». Per onestà bisogna dire che
+
+c'è qualcosa di vagamente traballante in questa teoria; soprattutto, credo, sotto
+
+questo rispetto: che c'è una sorta di farsesca allegria in
+
+Datchery che non pare del tutto acconcia a un giovane che dovrebbe
+
+essere in un'agonia di [[Doubt|dubbio]] sul se il suo migliore amico fosse o no
+
+il suo assassino. Eppure vi sono molte simili incongruenze in Dickens; e
+
+la spiegazione del signor Archer e del signor Lang è una spiegazione. Non
+
+credo che se ne possa dare una altrettanto buona per rendere ragione del
+
+fatto che il racconto s'intitola _The Mystery of Edwin Drood_, se il racconto praticamente
+
+comincia con il suo cadavere.
+
+Se Drood è davvero morto, non si può fare a meno di sentire che la storia dovrebbe finire
+
+dove finisce, non per caso ma per disegno. Il delitto è
+
+spiegato. Jasper è pronto a essere impiccato, e chiunque altro in un decoroso
+
+[[Novel|romanzo]] dovrebbe essere pronto a sposarsi. Se dovesse esservi molto altro
+
+di qualsiasi cosa, dovrebbe trattarsi di anticlimax. Nondimeno vi sono
+
+gradi di anticlimax. Alcune delle spiegazioni più ovvie di Datchery
+
+sono del tutto ragionevoli, ma sono spiccatamente scialbe. Per esempio,
+
+Datchery potrebbe essere Bazzard; ma non è molto eccitante che lo sia; giacché
+
+non sappiamo nulla di Bazzard e ce ne cale ancor meno. Di nuovo, potrebbe essere Grewgious;
+
+ma c'è qualcosa di insulso nel far travestire un personaggio [[Grotesque|grottesco]]
+
+da un altro personaggio [[Grotesque|grottesco]] in realtà meno divertente di lui.
+
+Ora, il signor Cumming Walters ha almeno avuto il merito di inventare una
+
+teoria che rende la storia almeno una storia interessante, anche se non
+
+è esattamente la storia promessa sulla copertina del libro. L'
+
+evidente nemico di Drood, sul quale il sospetto cade per primo, il fosco e
+
+imbronciato Landless, ha una sorella ancor più fosca e, a parte la sua regale
+
+dignità, ancor più imbronciata di lui. Questa principessa barbarica è manifestamente destinata
+
+a essere (in un modo cupo) [[Love|innamorata]] di Crisparkle, il chierico e
+
+cristiano muscolare che rappresenta l'elemento arioso nelle emozioni
+
+del racconto. Il signor Cumming Walters sostiene seriamente che è questa
+
+principessa barbarica a mettersi una parrucca e a travestirsi da signor Datchery. Egli
+
+perora la sua causa con molta ingegnosità di particolari. [[Helena Landless]] aveva certamente
+
+un movente: salvare il fratello, accusato falsamente, accusando
+
+Jasper a giusta ragione. Aveva certamente alcune delle facoltà; è
+
+minuziosamente affermato nella prima parte della sua storia che era
+
+avvezza da [[Child|bambina]] a travestirsi in abiti maschili e a lanciarsi nelle
+
+più selvagge avventure. Può esservi qualcosa nell'argomento del signor Cumming Walters,
+
+secondo cui la stessa spavalderia di Datchery è la spavalderia [[Self|consapevole di sé]]
+
+di una donna forte in una situazione tanto singolare; certo c'è
+
+la medesima spavalderia in [[Portia|Porzia]] e in [[Rosalind|Rosalinda]]. Nondimeno, io credo,
+
+c'è un'obiezione finale alla teoria; ed è semplicemente questa,
+
+che essa è comica. In generale è sbagliato rappresentare un grande maestro del
+
+[[Grotesque|grottesco]] come [[Grotesque|grottesco]] esattamente là dove non intende esserlo.
+
+E sono persuaso che se Dickens avesse davvero inteso far diventare [[Helena]] Datchery,
+
+l'avrebbe resa fin da principio in qualche modo più lieve,
+
+eccentrica e ridicola; l'avrebbe resa almeno tanto lieve e
+
+ridicola quanto Rosa. Così com'è, c'è qualcosa di stranamente rigido e
+
+incredibile nell'idea di una signora tanto scura e dignitosa che si traveste da
+
+un borioso vecchio signore in cappotto blu e calzoni grigi. Potremmo
+
+quasi altrettanto facilmente immaginare Edith Dombey travestita da [[Major Bagstock]]. Potremmo
+
+quasi altrettanto facilmente immaginare Rebecca in _Ivanhoe_ travestita da Isacco
+
+di York.
+
+Naturalmente una simile questione non può mai essere risolta con precisione, perché
+
+è la questione non semplicemente di un mistero, ma di un rompicapo. Poiché qui il
+
+[[Novel|romanzo]] [[Detective|poliziesco]] differisce da ogni altra specie di [[Novel|romanzo]]. L'ordinario

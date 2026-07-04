@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/scandal-fr-brown-(chesterton)">scandal Fr Brown</a> › <a href="/testi/chesterton/atomized/scandal_fr_brown/story_05_the_pursuit_of_mr_blue">Story 05 The Pursuit of Mr Blue</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/scandal_fr_brown/story_05_the_pursuit_of_mr_blue/part_01">‹ part 01</a><a class="ex-next" href="/testi/chesterton/atomized/scandal_fr_brown/story_05_the_pursuit_of_mr_blue/part_03">part 03 ›</a></div>
@@ -126,3 +128,36 @@ his hand. The eyes in his head shifted and shone in the moonlight, and
 that in a very creepy way; they shot forward and back with [[Lightning|lightning]]
 leaps; almost as if he could shoot them out like luminous horns, as do
 certain reptiles.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/scandal-fr-brown-(chesterton)">scandal Fr Brown</a> › <a href="/testi/chesterton/atomized/scandal_fr_brown/story_05_the_pursuit_of_mr_blue">Story 05 The Pursuit of Mr Blue</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/scandal_fr_brown/story_05_the_pursuit_of_mr_blue/part_01">‹ part 01</a><a class="ex-next" href="/testi/chesterton/atomized/scandal_fr_brown/story_05_the_pursuit_of_mr_blue/part_03">part 03 ›</a></div>
+</nav>
+
+«Non possiamo andare a sederci da qualche parte?» disse Muggleton con impazienza. «Ho una lettera che dovrebbe vedere, se vuole capire qualcosa di tutta questa faccenda.»
+
+[[Father Brown]] si volse con un sospiro dalle bambole saltellanti, andò a sedersi con il suo compagno su una panchina di ferro sulla riva; il compagno aveva già spiegato la lettera e gliela porse in silenzio.
+
+Era una lettera brusca e bizzarra, pensò [[Father Brown]]. Sapeva che i milionari non sempre eccellono nelle buone maniere, specie nel trattare con i loro dipendenti come gli investigatori; ma nella lettera pareva esserci qualcosa di più della semplice sbrigatività.
+
+CARO MUGGLETON,
+
+Non avrei mai pensato di ridurmi a chiedere aiuto di questo genere; ma ne ho quasi abbastanza di tutto. È diventato sempre più intollerabile in questi ultimi due anni. Immagino che tutto ciò che le occorre sapere della storia sia questo. C'è una sudicia canaglia che è mio cugino, mi vergogno a dirlo. È stato bagarino, vagabondo, medico ciarlatano, attore e via dicendo; ha perfino la faccia tosta di recitare sotto il nostro nome e farsi chiamare Bertrand Bruce. Credo che abbia o un lavoretto da nulla al teatro qui, o che ne stia cercando uno. Ma può credermi che quel lavoro non è il suo vero lavoro. Il suo vero lavoro è darmi la caccia e mettermi fuori gioco per sempre, se ci riesce. È una vecchia storia e non riguarda nessuno; ci fu un [[Time|tempo]] in cui partimmo alla pari e corremmo una gara di [[Ambition|ambizione]] – e di ciò che chiamano [[Love|amore]], [[Well|per giunta]]. Fu forse colpa mia se lui era un mascalzone e io un uomo che riesce nelle cose? Ma quel sudicio demonio giura che riuscirà lo stesso; ammazzarmi e scappare con la mia... lasciamo perdere. Suppongo che sia una specie di pazzo, ma presto proverà a essere una specie di assassino. Le darò 5 sterline la settimana se verrà a trovarmi nel casotto all'estremità del pontile, subito dopo la chiusura del pontile stasera – e prenderà su di sé il mio incarico. È l'unico posto sicuro per incontrarsi – se qualcosa è sicuro a questo [[Time|punto]].
+
+J. BRAHAM BRUCE
+
+«Povero me» disse [[Father Brown]] mitemente. «Povero me. Una lettera piuttosto affrettata.»
+
+Muggleton annuì; e dopo una pausa cominciò la propria storia, con una voce stranamente raffinata che contrastava col suo aspetto goffo. Il prete conosceva [[Well|bene]] le passioni di cultura nascosta che si celano in tanti uomini opachi delle classi inferiori e medie; ma perfino lui fu sorpreso dall'eccellente scelta delle parole, solo di un'ombra troppo pedante; l'uomo parlava come un libro.
+
+«Arrivai alla piccola [[house|casetta]] rotonda all'estremità del pontile prima che vi fosse segno alcuno del mio illustre cliente. Aprii la porta ed entrai, pensando che egli potesse preferire che io, [[Well|non meno]] di lui, restassi il più possibile inosservato. Non che importasse molto; perché il pontile era troppo lungo perché qualcuno potesse averci visto dalla spiaggia o dalla passeggiata, e, gettando un'occhiata all'orologio, vidi dall'[[Time|ora]] che l'ingresso del pontile doveva essere già chiuso. Era lusinghiero, in un certo senso, che egli assicurasse in tal modo che restassimo [[Alone|soli]] insieme al convegno, come a mostrare che davvero contava sulla mia assistenza o protezione. Comunque, era stata sua l'idea di incontrarci sul pontile dopo l'[[Time|orario]] di chiusura, sicché mi ci adattai abbastanza volentieri. C'erano due sedie dentro il piccolo padiglione rotondo, o come lo si vuol chiamare; così ne presi semplicemente una e attesi. Non dovetti attendere a lungo. Egli era famoso per la sua puntualità, e infatti, mentre alzavo lo sguardo verso l'unico piccolo [[Window|finestrino]] rotondo di fronte a me, lo vidi passare lentamente, come se compisse un giro preliminare del luogo.
+
+«Avevo visto soltanto dei suoi ritratti, e ciò molto [[Time|tempo]] addietro; e naturalmente era piuttosto più vecchio dei ritratti, ma la somiglianza era inconfondibile. Il profilo che passò davanti al [[Window|finestrino]] era di quella specie detta aquilina, dal becco dell'aquila; ma egli suggeriva piuttosto un'aquila grigia e venerabile; un'aquila in riposo; un'aquila che ha da lungo tempo ripiegato le ali. Non c'era da sbagliarsi, tuttavia, su quell'aria d'autorità, o di silenzioso [[Pride|orgoglio]] nell'abitudine al comando, che ha sempre contrassegnato gli uomini che, come lui, hanno organizzato grandi sistemi e sono stati obbediti. Era vestito sobriamente, per quel poco che potevo vederne; specie a paragone della folla di gitanti balneari che aveva riempito tanta parte della mia giornata; ma mi parve che il suo soprabito fosse di quella foggia particolarmente elegante che è tagliata a seguire la linea della figura, e aveva una striscia di fodera d'astracan che spuntava sui risvolti. Tutto questo, s'intende, lo colsi in un'occhiata, perché mi ero già alzato in piedi ed ero andato alla porta. Tesi la mano e ricevetti il primo colpo di quella terribile sera. La porta era chiusa a chiave. Qualcuno mi aveva chiuso dentro.
+
+«Per un momento rimasi come stordito, ancora fissando il [[Window|finestrino]] rotondo, dal quale, naturalmente, il profilo in movimento era già passato; e poi d'un tratto ne vidi la spiegazione. Un altro profilo, aguzzo come quello di un segugio all'inseguimento, guizzò nel cerchio della visione, come in uno [[Mirror|specchio]] rotondo. Nell'istante in cui lo vidi, seppi chi era. Era il [[Avenger|Vendicatore]]; l'assassino o l'aspirante assassino, che aveva braccato il vecchio milionario così a lungo per terra e per mare, e ora lo aveva rintracciato in quel vicolo cieco di pontile di ferro sospeso tra il mare e la terra. E sapevo, naturalmente, che era stato l'assassino a chiudere la porta a chiave.
+
+«L'uomo che avevo visto per primo era alto, ma il suo inseguitore era ancor più alto; effetto attenuato soltanto dal suo portare le spalle curve molto alte e il collo e la testa protesi in avanti come una vera bestia da preda. L'effetto della combinazione gli dava piuttosto l'aspetto di un gigantesco gobbo. Ma qualcosa del legame di [[Blood|sangue]] che univa quel farabutto al suo famoso congiunto si mostrava nei due profili mentre passavano attraverso il cerchio di vetro. Anche l'inseguitore aveva un naso piuttosto simile al becco di un uccello; benché la sua generale aria di lacera degradazione suggerisse l'avvoltoio anziché l'aquila. Era così poco rasato da esser quasi barbuto, e l'aspetto ingobbito delle sue spalle era accresciuto dalle spire di una rozza sciarpa di lana. Tutte queste sono banalità, e non possono dare l'impressione della brutta energia di quel contorno, o del senso di condanna vendicatrice in quella figura curva e a grandi passi. Ha mai visto il disegno di William Blake, talora chiamato con una certa leggerezza «Il [[Ghost|Fantasma]] di una Pulce», ma anche detto, con qualche maggiore lucidità, «Una Visione di [[Blood|Sangue]] e [[Guilt|Colpa]]», o qualcosa del genere? È proprio un simile [[nightmare|incubo]] di gigante furtivo, dalle spalle alte, che reca un coltello e una scodella. Costui non recava né l'uno né l'altra, ma mentre passava davanti al [[Window|finestrino]] la seconda [[Time|volta]], vidi con i miei occhi che liberava una rivoltella dalle pieghe della sciarpa e la teneva impugnata e pronta nella mano. Gli occhi nella sua testa guizzavano e brillavano al chiaro di luna, e in un modo assai raccapricciante; scattavano avanti e indietro con balzi di [[Lightning|fulmine]]; quasi come se potesse spararli fuori simili a corna luminose, come fanno certi rettili.

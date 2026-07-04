@@ -128,7 +128,7 @@ help him to be an exceptional lawyer.
 
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/works/heret12-(chesterton)">Heretics</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/heret12-(chesterton)">Heretics</a> › <a href="/testi/chesterton/atomized/heret12/story_16_on_the_wit_of_whistler">Story 16 On the Wit of Whistler</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/heret12/story_16_on_the_wit_of_whistler/part_01">‹ part 01</a><a class="ex-next" href="/testi/chesterton/atomized/heret12/story_16_on_the_wit_of_whistler/part_03">part 03 ›</a></div>
 </nav>
 

@@ -152,7 +152,7 @@ I think it is psychologically possible--in an enlightened age, you know."
 
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/works/wifrb11-(chesterton)">The Wisdom of Father Brown</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/wifrb11-(chesterton)">The Wisdom of Father Brown</a> › <a href="/testi/chesterton/atomized/wifrb11/story_03_the_duel_of_dr_hirsch">Story 03 The Duel of Dr Hirsch</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/wifrb11/story_03_the_duel_of_dr_hirsch/part_02">‹ part 02</a><a class="ex-next" href="/testi/chesterton/atomized/wifrb11/story_03_the_duel_of_dr_hirsch/part_04">part 04 ›</a></div>
 </nav>
 

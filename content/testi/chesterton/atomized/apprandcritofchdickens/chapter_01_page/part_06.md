@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/apprandcritofchdickens-(chesterton)">ApprAndCritOfChDickens</a> › <a href="/testi/chesterton/atomized/apprandcritofchdickens/chapter_01_page">Chapter 01 PAGE</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/apprandcritofchdickens/chapter_01_page/part_05">‹ part 05</a><a class="ex-next" href="/testi/chesterton/atomized/apprandcritofchdickens/chapter_01_page/part_07">part 07 ›</a></div>
@@ -185,3 +187,184 @@ writing: that they attach themselves always to some text which is a fact
 rather than an idea. He was one of those sons of Eve who are fonder of
 
 the Tree of Life than of the Tree of Knowledge--even of the knowledge of
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/apprandcritofchdickens-(chesterton)">ApprAndCritOfChDickens</a> › <a href="/testi/chesterton/atomized/apprandcritofchdickens/chapter_01_page">Chapter 01 PAGE</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/apprandcritofchdickens/chapter_01_page/part_05">‹ part 05</a><a class="ex-next" href="/testi/chesterton/atomized/apprandcritofchdickens/chapter_01_page/part_07">part 07 ›</a></div>
+</nav>
+
+di gigantesca domesticità, come i peli e le lentiggini di un
+
+Brobdingnaghiano. Sentiamo il tetro Murdstone abbattersi sulla [[house|casa]] come
+
+un'alta [[Storm|tempesta]] che incede a grandi passi per il cielo. Osserviamo ogni grinza del
+
+volto contadino di Peggotty nei suoi umori di pregiudizio ferrigno o di capricciosa
+
+esitazione. Alziamo lo sguardo e sentiamo che zia Betsey, coi suoi guanti da [[Garden|giardino]],
+
+era davvero terribile—e soprattutto i suoi guanti da [[Garden|giardino]]. Ma non si può sfuggire
+
+all'impressione che, via via che il ragazzo si fa più grande, queste figure si facciano più piccole,
+
+e non risultino forse così pienamente soddisfacenti.
+
+CHRISTMAS BOOKS
+
+E vi è senza dubbio una certa [[unity|unità]] poetica, e una certa ironia, nel radunare
+
+insieme tre o quattro dei più rozzi e più presuntuosi tra i moderni
+
+teorici, con le loro voci stridule e le loro virtù metalliche, sotto la
+
+pienezza e la sonora [[Sanity|sanità]] delle [[Bells|campane]] cristiane. Ma le figure
+
+satireggiate in _The Chimes_ si [[Cross|incrociano]] a vicenda il cammino e in qualche misura si guastano l'una con l'altra.
+
+Lo scopo principale del libro era una protesta contro quell'
+
+impudente e spietato utilitarismo che dispone la gente soltanto
+
+in file di uomini, o addirittura in file di cifre. È una fiammeggiante denuncia
+
+di quella strana [[morality|moralità]] matematica che fu spesso ingiustamente distorta
+
+traendola da Bentham e Mill: una [[morality|moralità]] per cui ogni cittadino deve considerare
+
+sé stesso una frazione, e per giunta una frazione assai volgare. Benché la particolare
+
+forma di questo insolente paternalismo sia mutata, tale rivolta e tale rimprovero sono
+
+ancora di valore, e possono riuscire salutari per coloro che insegnano ai poveri
+
+a essere provvidi. Senza dubbio è una buona idea essere provvidi, nel
+
+senso in cui la [[Providence|Provvidenza]] è provvida, ma ciò dovrebbe significare essere benevoli, e
+
+di certo non semplicemente essere freddi.
+
+_The Cricket on the Hearth_, per quanto popolare, credo, presso molte schiere
+
+del grande esercito dei dickensiani, non può essere trattato in termini così
+
+astratti o solenni. È un breve scorcio domestico; è un
+
+interno. Si deve ricordare che Dickens amava gli interni in quanto
+
+tali; era come un vagabondo romantico che andasse di [[Window|finestra]] in [[Window|finestra]]
+
+a sbirciare dentro i salotti. Aveva quel solido, indescrivibile diletto per
+
+la mera solidità e ordinatezza della buffa piccola umanità nelle sue buffe
+
+piccole case, simili a case di bambola. Per lui ogni [[house|casa]] era una scatola, una
+
+scatola natalizia, in cui una danzante bambola umana era avvolta tra mattoni e
+
+ardesie invece che tra spago e carta da pacchi. Andava da una luccicante
+
+[[Window|finestra]] a un'altra, spiando i salotti illuminati dalle lampade. Così sostò
+
+per un poco a spiare questo interno accogliente per quanto banale del
+
+vetturale e di sua moglie; ma non vi sostò a lungo. Era
+
+in cammino verso città e villaggi più pittoreschi. Già le piante
+
+germogliavano sul balcone di Miss Tox; e il gran [[Wind|vento]] si levava
+
+che scagliò Mr. Pecksniff contro la propria porta di casa.
+
+TALE OF TWO CITIES
+
+Fu comunque un [[Well|bene]] per lui che il popolo [[Rose|insorgesse]] in Francia. Fu comunque un
+
+[[Well|bene]] per lui che la ghigliottina venisse eretta nella Place
+
+de la Concorde. Inconsapevolmente, ma non per caso, Dickens stava qui
+
+elaborando l'intero, veritiero confronto tra il rapido rivoluzionarismo di
+
+[[Paris|Parigi]] e il lento evoluzionismo di [[London|Londra]]. Sidney Carton è uno di quei
+
+[[Sublime|sublimi]] asceti la cui testa li offende, e che se la recidono. Per lui almeno
+
+fu meglio che il [[Blood|sangue]] scorresse a [[Paris|Parigi]], piuttosto che il
+
+vino continuasse a scorrere a [[London|Londra]]. E se dico che perfino ora la
+
+ghigliottina potrebbe essere la cura migliore per più d'un avvocato di [[London|Londra]], vi chiedo di
+
+credere che non sto semplicemente scherzando. Ma non ci crederete.
+
+[[Barnaby Rudge|BARNABY RUDGE]]
+
+Si potrà dire che non v'è confronto tra quell'esplosivo
+
+dischiudersi dell'intelletto a [[Paris|Parigi]] e un antiquato folle a capo di
+
+un gruppetto di protestanti di provincia. L'Uomo della [[Hill|Collina]], dice Victor Hugo
+
+da qualche parte, combatte per un'idea; l'Uomo della Foresta per un pregiudizio.
+
+Ciò nondimeno resta vero che i nemici del berretto rosso a lungo
+
+tentarono di rappresentarlo come una finta decorazione nello stile di Sim
+
+Tappertit. Molto dopo che i rivoluzionari ebbero mostrato più delle
+
+qualità degli uomini, era comune tra signori e lacchè attribuire
+
+loro la teatrale e piratesca boria dei monelli. I re
+
+definivano la [[Pistol|pistola]] di Napoleone una [[Pistol|pistola]] giocattolo perfino mentre teneva sotto tiro la loro
+
+carrozza e s'impadroniva del loro denaro o delle loro vite; definivano la sua [[Sword|spada]] una
+
+[[Sword|spada]] di scena perfino mentre ne fuggivano. Qualcosa della medesima
+
+senile incoerenza si ritrova in un'abitudine inglese e americana
+
+diffusa fino a poco fa: quella di dipingere i sudamericani a un tempo come
+
+furfanti immersi nella carneficina, e insieme come poltroni che giocano alla guerra. Li
+
+biasimano dapprima per la crudeltà di ingaggiare una lotta; e poi per la
+
+debolezza di ingaggiare una finta lotta. Tale, tuttavia, dopo la Rivoluzione
+
+francese e prima di essa, è stato il fatuo atteggiamento di certi
+
+anglosassoni verso l'intera tradizione rivoluzionaria. Sim Tappertit
+
+era una sorta di risposta a tutto; e i giovani venivano scherniti come
+
+garzoni molto dopo che erano ormai padroni. La sorte ascendente delle repubbliche
+
+sudamericane, oggi, è simbolica e persino minacciosa di molte
+
+cose; e può darsi che il [[Romance|romanticismo]] della sommossa non venga tanto
+
+spento quanto esteso; e più vicino a [[Home|casa]] potremo avere ragazzi che tornano a fare i ragazzi
+
+di nuovo, e a [[London|Londra]] il grido: «Ai randelli!».
+
+THE UNCOMMERCIAL TRAVELLER
+
+_The Uncommercial Traveller_ è una raccolta dei ricordi di Dickens
+
+più che dei suoi propositi letterari; ma gli si deve riconoscere che
+
+la [[Memory|memoria]] è spesso, in lui, più sorprendente di quanto non sia la profezia in chiunque altro.
+
+Essi hanno il carattere che appartiene a tutti i suoi vividi scritti
+
+d'occasione: quello di legarsi sempre a qualche pretesto che è un fatto
+
+più che un'idea. Era uno di quei figli di Eva più affezionati
+
+all'Albero della Vita che all'Albero della Conoscenza—perfino della conoscenza di

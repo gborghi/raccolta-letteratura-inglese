@@ -793,6 +793,10 @@ End of the Project Gutenberg Etext of Orthodoxy by G. K. Chesterton
 <div class="excerpt-crumb">Chesterton · <a href="/works/ortho14-(chesterton)">Orthodoxy</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/ortho14/story_07_vii_the_eternal_revolution">‹ Story 07 Vii The Eternal Revolution</a><a class="ex-next" href="/testi/chesterton/atomized/ortho14/story_04_ii_the_maniac/part_01">part 01 ›</a></div>
 </nav>
+<nav class="excerpt-children">
+<div class="excerpt-children-label">In questa sezione</div>
+<ul><li><a href="/testi/chesterton/atomized/ortho14/story_08_ix_authority_and_the_adventurer/part_01">Part 1</a></li><li><a href="/testi/chesterton/atomized/ortho14/story_08_ix_authority_and_the_adventurer/part_02">Part 2</a></li><li><a href="/testi/chesterton/atomized/ortho14/story_08_ix_authority_and_the_adventurer/part_03">Part 3</a></li><li><a href="/testi/chesterton/atomized/ortho14/story_08_ix_authority_and_the_adventurer/part_04">Part 4</a></li><li><a href="/testi/chesterton/atomized/ortho14/story_08_ix_authority_and_the_adventurer/part_05">Part 5</a></li><li><a href="/testi/chesterton/atomized/ortho14/story_08_ix_authority_and_the_adventurer/part_06">Part 6</a></li><li><a href="/testi/chesterton/atomized/ortho14/story_08_ix_authority_and_the_adventurer/part_07">Part 7</a></li></ul>
+</nav>
 
 # [[ortho14]] — Ix Authority And The Adventurer
 

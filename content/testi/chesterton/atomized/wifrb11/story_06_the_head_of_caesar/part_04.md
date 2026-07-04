@@ -139,7 +139,7 @@ the long straight street and the rest is as this gentleman has said.
 
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/works/wifrb11-(chesterton)">The Wisdom of Father Brown</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/wifrb11-(chesterton)">The Wisdom of Father Brown</a> › <a href="/testi/chesterton/atomized/wifrb11/story_06_the_head_of_caesar">Story 06 The Head of Caesar</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/wifrb11/story_06_the_head_of_caesar/part_03">‹ part 03</a><a class="ex-next" href="/testi/chesterton/atomized/wifrb11/story_06_the_head_of_caesar/part_05">part 05 ›</a></div>
 </nav>
 

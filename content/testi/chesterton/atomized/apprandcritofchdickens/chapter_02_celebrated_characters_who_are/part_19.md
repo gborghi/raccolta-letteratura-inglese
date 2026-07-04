@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/apprandcritofchdickens-(chesterton)">ApprAndCritOfChDickens</a> › <a href="/testi/chesterton/atomized/apprandcritofchdickens/chapter_02_celebrated_characters_who_are">Chapter 02 celebrated characters who are</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/apprandcritofchdickens/chapter_02_celebrated_characters_who_are/part_18">‹ part 18</a><a class="ex-next" href="/testi/chesterton/atomized/apprandcritofchdickens/chapter_02_celebrated_characters_who_are/part_20">part 20 ›</a></div>
@@ -179,3 +181,178 @@ when you will not come upon one of the convictions of Dickens; and when
 you do come upon it you do know it. It is as hard and as high as any
 
 precipice or peak of the [[Mountains|mountains]]. The highest and hardest of these
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/apprandcritofchdickens-(chesterton)">ApprAndCritOfChDickens</a> › <a href="/testi/chesterton/atomized/apprandcritofchdickens/chapter_02_celebrated_characters_who_are">Chapter 02 celebrated characters who are</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/apprandcritofchdickens/chapter_02_celebrated_characters_who_are/part_18">‹ part 18</a><a class="ex-next" href="/testi/chesterton/atomized/apprandcritofchdickens/chapter_02_celebrated_characters_who_are/part_20">part 20 ›</a></div>
+</nav>
+
+la [[history|storia]] d'Inghilterra». Poiché egli fu l'incarnazione del Diavolo nel
+
+Rinascimento, quel selvaggio culto del puro piacere e del puro disprezzo che, con le
+
+sue pitture e i suoi palazzi, ha arricchito e rovinato il mondo.
+
+Presto verrà il [[Time|tempo]] in cui il semplice buon senso di Dickens, come il
+
+semplice buon senso di Macaulay (per quanto il suo fosse avvelenato dall'erudizione e
+
+dalla politica Whig), apparirà offrire un quadro più piano e perciò più vero
+
+della massa della [[history|storia]] che non la mistica perversità di un uomo di
+
+genio il quale scriva soltanto attingendo al proprio temperamento, come Carlyle o Taine.
+
+Se un uomo possiede una nuova teoria dell'etica, c'è una cosa che non gli si deve
+
+permettere di fare. Che dia leggi sul Sinai, che detti una [[Bible|Bibbia]], che
+
+riempia il mondo di cattedrali, se ne è capace. Ma non gli si deve permettere
+
+di scrivere una [[history|storia]] d'Inghilterra; né una [[history|storia]] di alcun paese. Tutta la [[history|storia]]
+
+fu condotta secondo la [[morality|morale]] ordinaria: con la sua straordinaria [[morality|morale]]
+
+egli finirà di certo per leggerla tutta di traverso. Così Carlyle tenta di scrivere del
+
+Medioevo con un pregiudizio contro l'[[Humility|umiltà]] e la [[Mercy|misericordia]]; vale a dire, con un pregiudizio
+
+contro l'intera [[morality|morale]] teorica del Medioevo. Il risultato è
+
+che egli trasforma in un mero tumulto di arroganti selvaggi germanici quella che
+
+fu in realtà la più completa e logica, se non la più alta, delle
+
+civiltà umane. Storicamente parlando, è meglio essere Dickens che essere
+
+questo; meglio essere ignoranti, provinciali, sbrigativi, vedere soltanto
+
+l'attimo che passa, ma in quell'attimo essere fedeli alle cose eterne.
+
+Bisogna ricordare, naturalmente, che Dickens offre tutto ciò deliberatamente
+
+soltanto come una [[history|storia]] d'Inghilterra «per [[Child|bambini]]». Vale a dire, egli professa solo di essere
+
+in grado di insegnare la [[history|storia]] come qualunque padre di un bimbo di cinque anni professa di
+
+essere in grado di insegnargli la [[history|storia]]. E per quanto la [[history|storia]] d'Inghilterra verrebbe
+
+certamente insegnata in modo assai diverso (quanto all'effettiva valutazione critica di
+
+eventi e uomini) in una famiglia di più larga cultura o di altra
+
+religione, il metodo generale sarebbe il medesimo. Poiché il metodo generale
+
+è del tutto giusto. Questa [[history|storia]] in bianco e nero di eroi e di malvagi;
+
+questa [[history|storia]] colma di etica battagliera e di null'altro, è il giusto
+
+tipo di [[history|storia]] per i fanciulli. Mi sono spesso domandato come gli scientifici
+
+marxisti e i credenti nella «concezione materialistica della [[history|storia]]» riusciranno
+
+mai a insegnare le loro tetre generalizzazioni economiche ai bambini:
+
+ma suppongo che essi non avranno bambini. La [[history|storia]] di Dickens sarà sempre
+
+popolare presso i giovani; quasi popolare quanto i romanzi di Dickens, e
+
+per la medesima ragione: perché è colma di moralità. La scienza e l'arte
+
+senza [[morality|morale]] non sono pericolose nel senso comunemente supposto. Non
+
+sono pericolose come un [[Fire|incendio]], ma pericolose come una nebbia. Un [[Fire|incendio]] è
+
+pericoloso nel suo fulgore; una nebbia nella sua opacità; e il pensiero senza
+
+morale è semplicemente opaco, come una nebbia. La nebbia sembra insinuarsi lungo la
+
+strada; spegnendo un lampione dopo l'altro. Ma questo lampione plebeo che
+
+i bambini [[Love|amano]] è ancora coronato dalla sua fiamma; e quando i padri
+
+avranno dimenticato l'etica, i loro pargoli si volgeranno a insegnargliela.
+
+TEMPI DIFFICILI
+
+Ho sentito dire che in certi circoli di dibattito vige la regola per cui i
+
+soci possono discutere di qualunque cosa tranne che di religione e di politica. Non riesco a
+
+immaginare di che cosa discutano; ma è del tutto evidente che hanno
+
+escluso i due soli argomenti che siano o importanti o divertenti.
+
+La cosa fa parte di una certa tendenza moderna a evitare le cose perché
+
+conducono al calore; laddove, ovviamente, dovremmo, anche in senso
+
+sociale, ricercare proprio quelle cose. Il calore della discussione è
+
+parte dell'ospitalità tanto quanto il calore del [[Fire|focolare]]. Ed è
+
+singolarmente significativo che nella letteratura inglese le due cose siano
+
+morte insieme. Le stesse persone che biasimerebbero Dickens per la sua
+
+ospitalità sentimentale sono proprio quelle che lo biasimerebbero anche per la
+
+sua angusta convinzione politica. Le stesse persone che lo deriderebbero per il
+
+suo angusto radicalismo sono quelle che lo deriderebbero per il suo ampio
+
+focolare. La convinzione vera e la vera [[Charity|carità]] sono assai più vicine di quanto la gente
+
+supponga. Dickens era capace di amare tutti gli uomini; ma si rifiutava di [[Love|amare]]
+
+tutte le opinioni. L'umanitario moderno sa [[Love|amare]] tutte le opinioni, ma non
+
+sa [[Love|amare]] tutti gli uomini; talvolta sembra, nell'estasi del suo
+
+[[Humanitarianism|umanitarismo]], perfino odiarli tutti. Sa [[Love|amare]] tutte le opinioni,
+
+compresa l'opinione che gli uomini siano indegni d'amore.
+
+Nel sentire Dickens come [[Lover|amante]] non dobbiamo mai dimenticarlo come combattente, e
+
+come combattente per un credo; ma in verità non esiste altra specie di combattente. La
+
+cordialità ch'egli spargeva su tutte le sue creazioni era una cordialità spanta
+
+da un unico centro, da un'unica vetta fiammeggiante. Era disposto a scusare il signor
+
+Micawber d'essere prodigo; ma erano Dickens e la dottrina di Dickens
+
+a dover decidere rigorosamente fino a che punto scusarlo. Era disposto a provar simpatia per
+
+il signor Twemlow a dispetto del suo snobismo, ma erano Dickens e la dottrina di Dickens
+
+i [[Alone|soli]] a poter giudicare fino a che punto egli fosse snob. Non vi
+
+fu mai scrittore più didattico: e appunto per questo non ve ne fu mai uno più divertente. Egli
+
+non aveva la meschina nozione moderna di mantenere la morale nel dubbio. L'avrebbe
+
+considerata una mera sciatteria, come lasciare illeggibile l'ultima
+
+pagina.
+
+Dovunque nell'opera di Dickens questi spigoli della sua opinione assoluta si ergevano
+
+fuori dalla confusione della sua generale bontà, proprio come aguzze e
+
+frastagliate vette si ergono fuori dalla soffice confusione delle foreste.
+
+Dickens è sempre generoso, è per lo più di buon cuore, è spesso
+
+sentimentale, è talvolta insopportabilmente lacrimoso; ma non si sa mai
+
+quando ci si imbatterà in una delle convinzioni di Dickens; e quando
+
+vi ci si imbatte, la si riconosce. È dura e alta quanto un
+
+precipizio o una vetta delle [[Mountains|montagne]]. La più alta e la più dura di queste

@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/as-i-was-saying-(chesterton)">As I Was Saying</a> › <a href="/testi/chesterton/atomized/as_i_was_saying/story_16_read_a_chance_phrase_in_a_daily_paper_th">Story 16 READ a chance phrase in a daily paper th</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/as_i_was_saying/story_16_read_a_chance_phrase_in_a_daily_paper_th/part_02">‹ part 02</a><a class="ex-next" href="/testi/chesterton/atomized/as_i_was_saying/story_16_read_a_chance_phrase_in_a_daily_paper_th/part_04">part 04 ›</a></div>
@@ -124,3 +126,123 @@ perhaps than he himself would otherwise have supported Darwinism.
 Huxley and Herbert Spencer really valued Darwinism, as an argument
 for agnosticism.  It would have been much better if they had cultivated
 a little more agnosticism about Darwinism.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/as-i-was-saying-(chesterton)">As I Was Saying</a> › <a href="/testi/chesterton/atomized/as_i_was_saying/story_16_read_a_chance_phrase_in_a_daily_paper_th">Story 16 READ a chance phrase in a daily paper th</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/as_i_was_saying/story_16_read_a_chance_phrase_in_a_daily_paper_th/part_02">‹ part 02</a><a class="ex-next" href="/testi/chesterton/atomized/as_i_was_saying/story_16_read_a_chance_phrase_in_a_daily_paper_th/part_04">part 04 ›</a></div>
+</nav>
+
+Si cominciava ad ammettere che la grande contesa del Seicento,
+quella sul se l'Inghilterra dovesse essere una Monarchia o un'Aristocrazia,
+non potesse essere adoperata semplicemente per dimostrare che Cromwell non fu
+mai altro che un santo, né Carlo I mai altro che un martire.
+Questo grande mutamento in meglio era in larghissima misura connesso al tramonto
+del vecchio sistema bipartitico. C'era stato un [[Time|tempo]] in cui alla gente
+si diceva di scegliere, non tanto fra Gladstone e Disraeli,
+quanto fra una figura popolare che non era Gladstone e un'altra figura
+popolare che non era Disraeli. Il guardingo Vecchio Uomo di Parlamento,
+con le sue tradizioni tory del Movimento di [[Oxford]], veniva rappresentato
+come un idealista rivoluzionario e scatenato, che dappertutto pretendeva
+che i cieli precipitassero, purché si compisse qualche giustizia utopica.
+Il cinico avventuriero cosmopolita, con la sua romantica devozione
+a Israele e il suo aperto disprezzo per il comune punto di vista
+conservatore, veniva lodato come un gioviale gentiluomo di campagna inglese,
+innocentemente appassionato di raccolti che consistevano soprattutto in primule.
+Queste fatue finzioni elettorali cominciavano a dissolversi;
+in parte per una reazione verso le biografie piuttosto acide di Lytton Strachey,
+in parte per un più sano e liberale interesse storico
+verso personaggi storici che erano davvero esseri umani molto interessanti.
+E poi, quando la [[Truth|verità]] cominciava a trapelare nei libri,
+e persino nei giornali, tutta quella luce fu cancellata da un grande
+e alla moda film, astutamente scritto e brillantemente interpretato,
+in cui Disraeli riappariva ancora una volta come l'Inglese di Dio ricoperto di
+primule e spirante l'[[Innocent|innocente]] patriottismo dei nostri campi natii.
+
+Il secondo fatto da tenere a mente è un certo privilegio quasi analogo
+al monopolio, che appartiene per necessità a cose come il teatro
+e il cinema. In un senso più che metaforico, essi riempiono
+la scena; la dominano; creano il paesaggio.
+Ecco perché non occorre essere puritani per insistere su una
+responsabilità un po' più rigorosa in ogni sorta di recitazione
+che nella materia più sciolta e meno figurativa della letteratura.
+Se un uomo è respinto da un libro, può chiuderlo e aprirne un altro;
+ma non può chiudere un teatro in cui trova ripugnante uno spettacolo,
+né ordinare all'istante a uno dei mille altri teatri di adattarsi al suo gusto.
+Il numero dei teatri è limitato; e persino ai cinema
+c'è qualche limite. Di qui un pericolo reale che la falsità
+storica venga popolarizzata attraverso il film, perché non c'è
+la normale possibilità che un film sia corretto da un altro film.
+Quando compare un libro che espone un dubbio ritratto della [[Queen Elizabeth|regina Elisabetta]],
+generalmente si scoprirà che una mezza dozzina di altri studiosi di storia
+sono indotti a pubblicare altrettante versioni della [[Queen Elizabeth|regina Elisabetta]] nel
+medesimo momento. Possiamo comprare il libro del signor Belloc su Cromwell, e poi
+il libro del signor Buchan su Cromwell; e pagare il nostro denaro e fare la nostra scelta.
+Ma pochi di noi sono in condizione di sborsare il denaro necessario a mettere in scena
+una completa ed elaboratamente allestita versione filmica alternativa di Disraeli.
+La finzione sulla pellicola, la versione di parte nella commedia cinematografica,
+resterà incontraddetta e persino incriticata, in un modo in cui pochi
+libri provocatori possono davvero restare incontraddetti e incriticati.
+Non ci sarà occasione di affrontarla sul suo vasto
+[[Battlefield|campo di battaglia]] di scenografia dispendiosa e moltitudinosa ripetizione.
+E la maggior parte di coloro che ne sono influenzati saprà o si curerà ben poco
+del fatto che essa sia chiamata a render conto da altri critici e altri metodi critici.
+La stessa frase che ho usato con noncuranza, «chiamata a render conto»,
+illustra il punto. Un film falso potrebbe essere confutato in cento libri,
+senza per questo influire molto sul milione di illusi che non avevano mai letto
+i libri, ma soltanto visto il film. La protesta merita di essere sollevata,
+perché il pregiudizio provinciale di questa specie è terribilmente pericoloso
+nell'attuale problema internazionale del momento. È perfettamente
+naturale che le nazioni abbiano un'arte patriottica, e persino, entro certi limiti,
+un'[[Education|educazione]] patriottica. Essa insegna naturalmente alla gente, e specialmente ai giovani,
+a essere fieri dei grandi eroi della loro grande [[history|storia]];
+e a concepire il proprio passato in una sorta di modo poetico, come leggende.
+Ma è proprio qui che possiamo mettere alla prova la differenza fra una leggenda
+e una menzogna. I contorni di un vero [[Hero|eroe]], come Nelson o Sarsfield,
+non si alterano quando la figura viene riempita, negli stadi più maturi
+della conoscenza, dai fatti relativi ai suoi fallimenti, alle sue debolezze o ai suoi limiti.
+L'[[Hero|eroe]] rimane un [[Hero|eroe]]; sebbene il [[Child|fanciullo]], ormai cresciuto,
+sappia che un [[Hero|eroe]] è un uomo. Ma la figura del fittizio
+Beaconsfield non reggerà l'intrusione del vero Disraeli.
+Sarebbe distrutta da tutto ciò che vi era di più interessante
+in Disraeli; persino da tutto ciò che vi era di più genuino in Disraeli.
+Un fantoccio di quella specie non giova affatto al credito o alla gloria nazionale;
+tutti gli stranieri ne ridono, sapendone più di noi;
+e noi stessi possiamo conservare la nostra solennità soltanto non avvicinandoci
+abbastanza da metterci a ridere. È come stendere un mero «velo»
+sugli occhi dell'oscurantismo ufficiale; e dare un nuovo significato reticente
+al titolo di «Lo Schermo».
+
+~||~
+
+_XXXII A proposito del darwinismo_
+
+QUALUNQUE altra cosa si sia evoluta, l'evoluzione non si è evoluta.
+Intendo l'evoluzione come parte dell'[[Education|educazione]]; come un'idea più o meno
+accettata negli ultimi quarant'anni dalla maggior parte delle persone pensanti;
+e forse ancor più dalla maggior parte delle persone non pensanti.
+Coloro che la sostenevano parlavano sempre di crescita e
+di graduale mutamento; ma il loro stesso movimento non era affatto graduale.
+Popolarizzarono un'evoluzione che aveva fin troppo della rivoluzione;
+che arrivava con fin troppa foga; che divenne, come si suol dire,
+l'ultima moda; con alcuni dei suoi esponenti che, senza possibilità di equivoco, smaniavano.
+Essa si opponeva alle idee di creazione [[Supernatural|soprannaturale]] o persino speciale;
+ma la teoria stessa fu creata in un senso molto speciale;
+e fu lanciata e reclamizzata come un miracolo. Molte delle recenti
+rivolte e reazioni e tardive rimesse in discussione sono dovute a quella
+originaria fretta giornalistica; eppure esse stesse rischiano
+di essere trattate a loro volta in modo troppo frettoloso e giornalistico.
+La laboriosità individuale di Darwin fu, invero, minuziosa e paziente; ed egli fu
+personalmente il rovescio esatto di un carattere impetuoso o impaziente.
+Non è per questo meno vero che il darwinismo fu cacciato troppo in fretta
+giù per la gola di tutti, compreso Darwin. Il vecchio Huxley
+aveva tutte le passioni di un pamphlettista e di un uomo di parte; era inoltre
+individualmente e intensamente interessato a certi atteggiamenti etici e
+filosofici tutti suoi, che il darwinismo sosteneva forse più
+di quanto egli stesso non avrebbe altrimenti sostenuto il darwinismo.
+Huxley e Herbert Spencer apprezzavano davvero il darwinismo, come argomento
+a favore dell'agnosticismo. Sarebbe stato molto meglio se avessero coltivato
+un po' più di agnosticismo riguardo al darwinismo.

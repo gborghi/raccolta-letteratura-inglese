@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/all-i-survey-(chesterton)">All I Survey</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/all_i_survey/chapter_38">‹ Chapter 38</a><a class="ex-next" href="/testi/chesterton/atomized/all_i_survey/chapter_40">Chapter 40 ›</a></div>
@@ -132,5 +134,136 @@ which teaches snobbish [[Self|self]]-interest as a sort of ideal.
 If it is permissible to use a phrase like having made good,
 it is permissible to say that this particular phrase has
 most unmistakably made bad.
+
+-*-
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/all-i-survey-(chesterton)">All I Survey</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/all_i_survey/chapter_38">‹ Chapter 38</a><a class="ex-next" href="/testi/chesterton/atomized/all_i_survey/chapter_40">Chapter 40 ›</a></div>
+</nav>
+
+XXXIX
+
+_Sul far bene (making good)--II_
+
+UN critico assai eminente e insigne mi ha reso l'[[Honour|onore]]
+di criticare, in una lettera privata, le osservazioni che ho fatto di recente
+a discredito della locuzione «making good», il «far bene» o «far fortuna».
+Egli concorda con me,
+o quanto meno dissente dal Decano Inge, almeno fino ad ammettere
+che l'uso polemico che il Decano faceva del termine fosse un sofisma.
+Non divergeremmo di molto sulle vedute sociali implicate.
+Ma sulla questione verbale e grammaticale il mio corrispondente
+non concorda, ed è pronto a sostenere che la locuzione
+«making good» possa essere difesa come una forma dell'idioma inglese.
+Egli dice, con molta verità, che è possibile usarla in modo assai
+più naturale e comune di quanto non la si usi nel particolare
+argomento del Decano di San Paolo. Dice che il comune
+e onesto idraulico, di cui parlavo, si potrebbe dire abbia «fatto bene»
+nel portare a termine un piccolo lavoro o contratto, e che non vi sarebbe
+nulla di strano nella frase. È possibile, certo,
+che il Decano rifiuti di accettare l'arbitrato dell'idraulico,
+tanto quanto io rifiuterei di accettare l'arbitrato del Decano.
+Ma il punto mi sembra meritare una parola o due di ulteriore
+delucidazione e chiarimento.
+
+Anzitutto, sul punto primario, sono incline a tenermi fermo;
+intendo il punto della [[logic|logica]] della grammatica. Poiché io sono, lo confesso,
+una mente di tipo latino tanto degenere da ritenere che debba esservi una certa
+[[logic|logica]] nella grammatica. E mi pare un fatto semplice che «fare»
+sia un verbo transitivo, e debba avere un oggetto o accusativo.
+Possiamo far buono un idraulico, o far buono un Decano, o persino far
+buono un povero giornalista sconcertato e sopraffatto, che scrive su un
+settimanale illustrato; ma non possiamo semplicemente «far buono».
+Se è un idioma lecito, dev'essere un'eccezione e non una regola;
+e dev'essere un'eccezione per qualche processo eccezionale,
+come quello di dipendere da parole che sono «sottintese».
+So che questa pratica esiste; né il più logico
+dei Latini può condannarla del tutto, giacché essa esiste perfino nella logica
+lingua latina. C'è una forma, che ricordo d'avere appreso
+faticosamente nella grammatica latina da ragazzo, per cui qualche
+parola come _officium,_ per esempio, poteva essere sottintesa.
+È lecito dire in latino: «È proprio dell'uomo buono venerare
+gli dèi», oppure «È proprio del buon padre nutrire i propri figli».
+Qui certamente vi è qualche parola, come «compito» o «dovere»,
+lasciata a sottintendersi.
+
+Ma il peggio di queste parole che sono sottintese è che esse
+non sono affatto intese. Persino a fronte dei pochi precedenti latini
+piuttosto [[Doubt|dubito]] che sia saggio seguire simili precedenti,
+e ancor più che sia saggio creare nuovi precedenti.
+Ma ciò è particolarmente inopportuno al giorno d'oggi, in un'epoca
+in cui le cose enfaticamente non sono intese; un'epoca in
+cui esse sono, al di là di ogni precedente pregresso, fraintese.
+Poiché gli uomini oggi non concordano, neppure quanto concordavano i Romani,
+sui rapporti dell'uomo buono con gli dèi o sul rapporto
+di un padre con i figli. Nel migliore dei casi, vi è una certa
+ambiguità nel dire: «È proprio dell'uomo buono andare in chiesa».
+Poiché un uomo lo leggerà nella forma «È dovere dell'uomo
+buono andare in chiesa». Un altro lo leggerà, in spirito cinico,
+nella forma «È interesse dell'uomo buono andare in chiesa».
+Un terzo lo leggerà nella forma «È l'infernale seccatura
+inflitta all'uomo buono l'andare in chiesa». Ora, quell'ambiguità
+non si dava così spesso negli ordinamenti sociali più antichi e più semplici.
+Vi è meno di quell'ambiguità nella frase latina.
+Ma non vi è altro che ambiguità nella frase inglese moderna.
+Non vi è che pura, schietta ambiguità in quella frase inglese--
+se pure la si può chiamare una frase inglese. Ed è questa la radice
+della mia impenitente rivolta contro di essa.
+
+Voglio dire che possiamo perdonare l'idraulico (una forma di [[Charity|carità]]
+cristiana che a molti sembra riuscire difficile) quando dice che,
+in qualche piccolo lavoro, ha «fatto bene». Ma lo perdoniamo soltanto
+perché pensiamo che egli, essendo povero e onesto, intenda davvero
+«ho tenuto fede alla mia parola» o «ho tenuto fede al mio patto».
+Eppure resta vero che un idraulico meno onesto,
+e forse un idraulico più ricco, _potrebbe_ intendere con quella frase:
+«Ho portato a compimento la mia intenzione di truffare questo vecchio [[Fool|sciocco]]»,
+oppure «Ho fatto buoni denari con questo affare, e assai
+più di quanto avessi alcun diritto di ricevere».
+
+Ora, è questa l'ambiguità morale di cui mi lagno,
+tanto per cominciare, nella [[Nature|natura]] stessa della frase.
+Ma, nel suo uso effettivo e moderno in un qualsiasi giornale ordinario
+o romanzo, essa va ben oltre l'ambiguità e si fa anarchia.
+È cattiva politica, nel migliore dei casi, lasciare che una parola sia sottintesa;
+poiché essa dapprima è fraintesa, e in seguito travisata
+o tradita o soppiantata da qualche parola più vile nelle menti
+di gente più vile. Anche se l'uomo in origine intendeva:
+«Ho tenuto fede alla mia parola», sarà malaccorto a tralasciare la parola.
+Sarà meglio, in ogni senso, che egli mantenga la parola.
+La parola d'un uomo è fin troppo facile a dimenticarsi. E, dopo un certo [[Time|tempo]],
+qualche nozione più meschina, come il portare a compimento il proprio piano o intrigo
+o cospirazione, si sarà insinuata nel vuoto di quel [[Silence|silenzio]].
+Ma nell'uso volgare della frase, nel mondo moderno in
+questo momento, non vi è la più remota nozione di alcunché di così onesto.
+Coloro che dicono che Hiram Q. Hogswash ha «fatto bene» a Wall Street
+non intesero mai, e non si suppose mai che intendessero,
+che egli avesse tenuto fede ad alcuna parola o ad alcun contratto o ad alcun onesto
+proposito di sorta. Dire che Hiram ha «fatto bene» significa semplicemente
+che Hiram ha fatto denaro, e non significa mai nient'altro.
+Ora, Hiram non è necessariamente da biasimare per aver fatto denaro;
+ma certo neppure è da lodare per questo.
+E questa forma di parole contorta e stentata fu inventata affinché
+egli potesse esserne lodato. Trascinando dentro la parola «buono»
+là dove non è né buona grammatica né buona etica, si crea una falsificazione
+degli standard morali, tendente a suggerire che vi sia
+una qualche connessione tra il fare denaro e l'essere buoni.
+Cosicché, mentre possiamo invocare l'antico Romano per scusare
+l'abitudine primaria di tralasciare parole logicamente necessarie,
+e mentre possiamo invocare il moderno idraulico per scusare il più semplice
+tipo di linguaggio sul «far bene» un lavoro o un contratto, dovremo
+pur sempre lamentarci sulle più vaste e desolanti calamità
+che il Romano e l'idraulico, tra loro, hanno scatenato
+sul mondo moderno. Riconosceremo che questo brano
+di fraseologia è ormai, di fatto, identificato con una [[philosophy|filosofia]]
+che insegna lo snobistico interesse per il [[Self|sé]] come una sorta di ideale.
+Se è lecito usare una frase come «aver fatto bene»,
+è lecito dire che questa particolare frase ha
+nel modo più inequivocabile «fatto male».
 
 -*-

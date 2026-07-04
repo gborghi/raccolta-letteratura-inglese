@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/secret-fr-brown-(chesterton)">secret Fr Brown</a> › <a href="/testi/chesterton/atomized/secret_fr_brown/story_08_the_chief_mourner_of_marne">Story 08 THE CHIEF MOURNER OF MARNE</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/secret_fr_brown/story_08_the_chief_mourner_of_marne/part_08">‹ part 08</a><a class="ex-next" href="/testi/chesterton/atomized/secret_fr_brown/story_08_the_chief_mourner_of_marne/part_10">part 10 ›</a></div>
@@ -122,3 +124,121 @@ difference is perhaps the deepest chasm in modem religion. One is to
 have a horror of him because he is so far off; and the other to have it
 because he is so near. And no virtue and vice are so much divided as
 those two virtues."
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/secret-fr-brown-(chesterton)">secret Fr Brown</a> › <a href="/testi/chesterton/atomized/secret_fr_brown/story_08_the_chief_mourner_of_marne">Story 08 THE CHIEF MOURNER OF MARNE</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/secret_fr_brown/story_08_the_chief_mourner_of_marne/part_08">‹ part 08</a><a class="ex-next" href="/testi/chesterton/atomized/secret_fr_brown/story_08_the_chief_mourner_of_marne/part_10">part 10 ›</a></div>
+</nav>
+
+«Qualcuno potrebbe trovarlo piuttosto morboso», disse Grandison Chace
+con aria dubbiosa.
+
+«Qualcuno», disse [[Father Brown|padre Brown]] con gravità, «indubbiamente pensa che
+la [[Charity|carità]] e l'[[Humility|umiltà]] siano morbose. Il nostro amico poeta lo penserebbe di certo. Ma
+non sto discutendo di simili questioni; cerco soltanto di rispondere alla vostra domanda
+su come proceda di solito. Alcuni dei vostri compatrioti mi hanno
+a quanto pare fatto l'[[Honour|onore]] di chiedermi come sia riuscito a sventare qualche
+errore giudiziario. [[Well|Ebbene]], potrete tornare a riferir loro che lo faccio
+per morbosità. Ma non voglio proprio che pensino che lo faccia
+per [[Magic|magia]]».
+
+Chace continuava a guardarlo con un cipiglio meditabondo; era troppo
+intelligente per non afferrare l'idea; e insieme avrebbe detto di
+avere la mente troppo sana per gradirla. Si sentiva come se stesse parlando con
+un uomo solo e insieme con cento assassini. C'era qualcosa di [[Uncanny|perturbante]]
+in quella figura minuscola, appollaiata come un folletto accanto alla stufa che pareva anch'essa un folletto;
+e nel pensiero che quella testa rotonda avesse racchiuso tutto un universo di
+sragionamenti selvaggi e di ingiustizie immaginate. Era come se il vasto vuoto di
+tenebra dietro di lui fosse una calca di oscure figure gigantesche, i [[Ghosts|fantasmi]] di
+grandi criminali tenuti a bada dal cerchio [[Magic|magico]] della stufa rossa, ma
+pronti a fare a pezzi il loro padrone.
+
+«[[Well|Ebbene]], temo di trovarlo davvero morboso», disse con franchezza. «E non sono
+sicuro che non sia quasi altrettanto morboso della [[Magic|magia]]. Ma morbosità o no, una
+cosa va detta: dev'essere un'esperienza interessante». Poi
+aggiunse, dopo aver riflettuto: «Non so se sareste un vero
+buon criminale. Ma dovreste riuscire un romanziere coi fiocchi».
+
+«Io ho a che fare soltanto con fatti reali», disse [[Father Brown|padre Brown]]. «Ma a volte
+è più difficile immaginare le cose reali di quelle irreali».
+
+«Soprattutto», disse l'altro, «quando si tratta dei grandi delitti del
+mondo».
+
+«Non sono i grandi delitti, ma i piccoli, quelli che sono davvero difficili da
+immaginare», replicò il prete.
+
+«Non capisco bene che cosa intendiate con questo», disse Chace.
+
+«Intendo i delitti comuni, come rubare gioielli», disse [[Father Brown|padre Brown]];
+«come quella faccenda della collana di smeraldi, o del Rubino di Meru, o dei
+pesci rossi artificiali. La difficoltà, in quei casi, è che dovete
+rimpicciolire la vostra mente. Gli imbroglioni di gran classe, che maneggiano grandi idee,
+non fanno quelle cose ovvie. Ero certo che il [[Prophet|Profeta]] non avesse preso il
+rubino; né il Conte i pesci rossi; benché un uomo come Bankes potesse facilmente
+prendere gli smeraldi. Per loro, un [[Jewel|gioiello]] è un pezzo di vetro: e attraverso quel vetro
+sanno vedere. Ma la gente minuta e letterale lo prende per il suo
+valore di mercato.
+
+«Per questo dovete avere una mente piccola. È tremendamente difficile da raggiungere;
+come mettere a fuoco più stretto e più nitido con una macchina fotografica che traballa. Ma alcune cose
+mi hanno aiutato; e hanno anche gettato molta luce sul mistero. Per esempio,
+il tipo d'uomo che si vanta di aver 'smascherato' falsi maghi o poveri
+ciarlatani d'ogni sorta: costui ha sempre una mente piccola. È il genere d'uomo
+che 'vede attraverso' i vagabondi e li coglie in fallo quando dicono bugie. Oso dire
+che a volte possa essere un penoso dovere. Ma è un piacere singolarmente basso.
+Nel momento in cui compresi che cosa significasse una mente piccola, seppi dove cercarla:
+nell'uomo che voleva smascherare il [[Prophet|Profeta]], ed era lui che
+aveva sgraffignato il rubino; nell'uomo che si faceva beffe delle fantasie spiritiche della sorella,
+ed era lui che aveva arraffato gli smeraldi. Uomini simili hanno sempre
+l'occhio ai gioielli; non potrebbero mai elevarsi, con gli imbroglioni superiori, fino a
+disprezzare i gioielli. Quei criminali dalla mente piccola sono sempre del tutto
+convenzionali. Diventano criminali per pura convenzionalità.
+
+«Ci vuole però parecchio [[Time|tempo]] per arrivare a sentire in modo così grossolano. Ci vuole
+un vero e proprio slancio selvaggio di [[Imagination|immaginazione]] per essere tanto convenzionali. Per desiderare un
+solo, insulso oggettino con tanta serietà. Ma ci si riesce. ... Ci si
+può avvicinare. Cominciate col pensare di essere un [[Child|bambino]] avido; a come
+potreste aver rubato una caramella in un negozio; a come ci fosse una caramella
+particolare che desideravate… poi dovete sottrarre la poesia infantile; spegnere
+la luce fatata che brillava sul negozio di dolciumi; immaginate di credere davvero
+di conoscere il mondo e il valore di mercato dei dolci… contraete
+la vostra mente come la messa a fuoco della macchina fotografica… la cosa prende forma e poi si fa nitida...
+e poi, d'un tratto, ecco che viene!»
+
+Parlava come un uomo che avesse un tempo colto una visione divina. Grandison
+Chace lo guardava ancora con un cipiglio in cui si mescolavano [[Mystification|smarrimento]] e
+interesse. Bisogna confessare che sotto quel pesante cipiglio balenò una
+volta uno sguardo di qualcosa di quasi simile all'allarme. Era come se lo
+scoltimento della prima strana confessione del prete lo attraversasse ancora
+fremendo debolmente, come l'ultima vibrazione di un tuono nella
+stanza. Sotto la superficie andava dicendo a se stesso che l'errore era
+stato solo una [[Madness|follia]] passeggera; questo, s'intende. [[Father Brown|Padre Brown]] non poteva
+davvero essere il [[Monster|mostro]] e l'assassino che aveva scorto in quell'attimo accecante e
+sconvolgente. Ma non c'era forse qualcosa che non andava nell'uomo che
+parlava in quel modo tranquillo dell'essere un assassino? Era possibile che il
+prete fosse un po' matto?
+
+«Non pensate», disse, bruscamente, «che questa vostra idea, di un
+uomo che cerca di sentirsi criminale, possa renderlo un po' troppo tollerante
+del delitto?»
+
+[[Father Brown|Padre Brown]] si raddrizzò e parlò con tono più staccato.
+
+«So che fa esattamente il contrario. Risolve l'intero problema del [[Time|tempo]]
+e del peccato. Dà all'uomo il suo rimorso in anticipo».
+
+Ci fu un [[Silence|silenzio]]; l'americano guardò l'alto e ripido tetto che
+si stendeva per metà oltre il recinto; il suo ospite fissava il [[Fire|fuoco]]
+senza muoversi; e poi la voce del prete tornò su una nota diversa, come
+venisse da più in basso.
+
+«Ci sono due modi di rinunciare al diavolo», disse; «e la
+differenza è forse il più profondo abisso della religione moderna. Uno è
+averne orrore perché è così lontano; e l'altro averne orrore
+perché è così vicino. E non vi sono virtù e vizi tanto divisi quanto
+quelle due virtù».

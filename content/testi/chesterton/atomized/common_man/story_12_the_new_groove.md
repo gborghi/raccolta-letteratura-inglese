@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/common-man-(chesterton)">Common Man</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/common_man/story_11_giotto_and_st_francis">‹ Story 11 Giotto And St Francis</a><a class="ex-next" href="/testi/chesterton/atomized/common_man/story_13_the_real_dr_johnson">Story 13 The Real Dr Johnson ›</a></div>
@@ -304,3 +306,303 @@ because I do not want to go on by the cheap train to Utopia.
 I want to go where I like.  I want to stop where I like.
 I want to know the width as [[Well|well]] as the length of the world;
 and to wander off the railway-track in the ancient plains of liberty.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/common-man-(chesterton)">Common Man</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/common_man/story_11_giotto_and_st_francis">‹ Story 11 Giotto And St Francis</a><a class="ex-next" href="/testi/chesterton/atomized/common_man/story_13_the_real_dr_johnson">Story 13 The Real Dr Johnson ›</a></div>
+</nav>
+<nav class="excerpt-children">
+<div class="excerpt-children-label">In questa sezione</div>
+<ul><li><a href="/testi/chesterton/atomized/common_man/story_12_the_new_groove/part_01">Part 1</a></li><li><a href="/testi/chesterton/atomized/common_man/story_12_the_new_groove/part_02">Part 2</a></li><li><a href="/testi/chesterton/atomized/common_man/story_12_the_new_groove/part_03">Part 3</a></li></ul>
+</nav>
+
+IL NUOVO BINARIO
+
+Il poeta Tennyson, da buon vittoriano, dovette scrivere
+buona parte delle sue [[Poems|poesie]] in treno; giacché viaggiare in ferrovia
+era l'invenzione e l'istituzione capitale della sua epoca.  Anzi, confessa
+d'aver composto la poesia di Lady Godiva mentre attendeva il treno;
+e, a giudicare dalla cura con cui è costruito il [[Blank Verse|verso sciolto]], il treno
+doveva essere in grandissimo ritardo.  Ma vi sono altri versi tennysoniani
+che Tennyson sembra aver scritto mentre dormiva in treno.
+Hanno quella singolare mescolanza di confusione e tintinnìo familiare
+a chi va a [[Sleep|dormire]] in treno e non avverte se non il ritmo metallico
+delle ruote che si fonde con i più informi e insensati [[Dreams|sogni]].
+Fu in un simile momento di sonno profondo che Lord Tennyson
+compose le parti più progressive e profetiche di Locksley Hall;
+e ciò è chiaramente provato dal fatto convincente, anzi schiacciante, che
+uno dei versi recita davvero, letteralmente:
+
+Che il gran mondo per sempre ruoti giù pei binari sonanti del mutamento.
+
+Gli psicologi troveranno interessante il curioso spostamento delle parole
+e il disordine delle idee che caratterizzano le frasi coniate
+in [[A Dream|un sogno]].  All'intelligenza comune e desta le parole parrebbero
+prive di senso.  I binari non mutano; non necessariamente risuonano;
+non fanno neppure sonare le campane a distesa.  Ma, come chi dorme in un
+vagone ferroviario mormora, nell'urto del risveglio, qualche frase
+che tradisce un segreto che da sveglio avrebbe probabilmente celato;
+per esempio che viaggia in prima classe con un biglietto di terza,
+o che il cadavere di un creditore è nascosto sotto il sedile—
+così Tennyson, in questo straordinarissimo verso, tradì davvero
+il segreto, e persino il delitto, del proprio mondo
+intellettuale e di gran parte del mondo che è venuto dopo di lui.
+
+Poiché ciò che affligge quasi tutto quel che si fa chiamare mente
+moderna sono semplicemente i binari; e la nostra abitudine ad accontentarci
+dei binari, perché ci si dice che sono binari del mutamento.
+Ed è, come dico, un fatto rivelatore che perfino quando il poeta moderno
+vuole descrivere il mutamento, perfino quando vuole glorificare il mutamento,
+lo descriva pur sempre d'istinto come un binario.
+È un marchio impresso su gran parte del mondo moderno,
+fin dagli albori dell'epoca meccanica e industriale.
+Ma ebbe la sua prima e più netta forma in questa concezione fissa
+del viaggiare in ferrovia.  Si noti in particolare che diciamo
+che la mente moderna è incanalata in un binario piuttosto che in un solco.
+Il solco era un termine usato comunemente per la traccia d'un carro; ai tempi semplici
+in cui non mettevamo il carro davanti al [[Horse|cavallo]].  Quando davanti a noi
+andava una cosa vivente, c'era qualcosa di [[Doubt|incertezza]], d'avventura o d'esitazione
+nelle tracce che essa lasciava, anche se poi diventavano binari per altri.
+V'erano strane curve nel cammino di chi aggiogava il proprio carro anche
+a un [[Horse|cavallo]], e non aveva ancora barattato i cavalli per la cavalleria a vapore.
+V'erano talora tracce assai selvagge e fantastiche in quello di chi
+aggiogava il proprio carro a una stella.  Ma, a prescindere da tali figure
+o fantasie, la peculiarità essenziale del binario è che non vi può
+esser nulla di nuovo in esso, salvo che ci porti in luoghi nuovi,
+o magari ci faccia oltrepassare luoghi nuovi, a una [[Speed|velocità]] del tutto nuova.
+È questo l'essenziale di ciò che intendo per incanalamento moderno;
+che la sua unica forma di progresso è andare sempre più veloci lungo
+una sola linea in una sola direzione.  Non ha la curiosità di fermarsi,
+né il [[Courage|coraggio]] avventuroso di andare all'indietro.
+
+Prendiamo, per chiarezza, questo caso familiare del
+treno ferroviario. La [[history|storia]] della locomotiva a vapore è stata spesso
+presentata in tutte le sue fasi di perfezionamento; l'evoluzione
+del treno moderno dai primi rozzi modelli del Puffing Billy.
+Ma la macchina non produsse altro che macchine sempre più veloci;
+e il punto essenziale è che nessuno si aspettò mai che facesse altro.
+Nessuno, nemmeno in un volo di fantasia, si domandò se si sarebbe sviluppata
+in qualche altra direzione, all'infuori della direzione del proprio binario.
+Per esempio, nessuno suggerì mai che potesse sviluppare un proprio
+tipo di architettura, così che la costruzione delle carrozze
+fosse come la costruzione dei templi o dei municipi. Eppure ci sarebbero
+potute [[Well|benissimo]] essere quattro o cinque scuole d'architettura
+per il disegno dei treni, come ve ne sono per il disegno dei templi.
+Sarebbe una piacevole fantasia se lo stile architettonico del treno
+variasse secondo il paese che attraversa o visita.
+La Pennsylvania Railway Station a [[New York]] è un'opera d'architettura
+nobile e seria; ed è davvero una sorta di saluto alla
+grande [[City|città]] di Filadelfia, verso la quale sono rivolte le sue porte.
+Sarebbe potuto [[Well|benissimo]] accadere che ciò che fu fatto per
+la stazione si facesse per la locomotiva; e che il disegno stesso
+e il colore del veicolo variassero a seconda che esso andasse
+verso le vecchie città francesi o le pianure dei Pellirosse;
+verso le nevi dell'Alaska o gli aranceti della Florida.
+Anzi, credo che vi sarebbe stato molto simbolismo poetico in un
+centinaio di forme, probabilmente custodite da riti e dedicate a dèi
+o a santi patroni, se fosse accaduto che la locomotiva a vapore
+fosse stata scoperta dagli antichi Greci o dai cristiani medievali,
+e non dai Filistei del [[Time|tempo]] vittoriano.  Ma il punto
+è questo: che nessuno pensò mai a simili cose; e certamente
+nessuno pensò di saggiare il progresso del treno con simili prove.
+V'era una sola prova per il treno, ed era la prova del binario;
+della levigatezza del binario; della rettitudine del binario;
+della rapidità con cui esso correva lungo il binario.
+V'era qualcosa, nel tono dell'intera faccenda, che impediva
+perfino alla mera fantasia di svincolarsi in qualsiasi altra direzione;
+o di chiedersi, sia pure invano, se non avrebbe mai potuto portare un [[Castle|castello]] come un
+elefante o una polena come una [[Ship|nave]].
+
+Ora, a dispetto delle più sfrenate pretese d'indipendenza,
+la vita intellettuale d'oggi mi appare tuttora
+simboleggiata soprattutto dal treno, dai binari, dal solco tracciato.
+V'è quanto si vuole di trambusto e vivacità intorno a certe fisse mode
+o direzioni del pensiero; proprio come v'è quanta si vuole di rapidità
+lungo le rotaie fisse della ferrovia. Ma se cominciamo
+a pensare di uscire davvero dai binari, scopriremo
+che ciò che vale per il treno vale ugualmente per la [[Truth|verità]].
+Scopriremo che è in realtà più difficile uscire dal binario
+quando il treno va veloce che quando il treno va piano.
+Scopriremo che la rapidità è rigidità; che il fatto stesso che un
+movimento sociale o politico o artistico vada sempre più veloce
+significa che sempre meno gente ha il [[Courage|coraggio]] di muoversi contro di esso.
+E alla fine forse nessuno spiccherà un balzo verso la vera libertà intellettuale,
+proprio come nessuno salta giù da un treno che corre a ottanta
+miglia all'ora.  Questo mi sembra il primo carattere di ciò che
+chiamiamo pensiero progressivo nel mondo moderno.  Esso è, nel senso
+più esatto del termine, limitato.  È tutto in una sola dimensione.
+È tutto in una sola direzione.  È limitato dal proprio progresso.
+È limitato dalla propria [[Speed|velocità]].
+
+Ho detto che non ha la curiosità di fermarsi.  Se gli abitanti del treno
+fossero veri viaggiatori, che esplorano un paese ignoto per fare scoperte,
+si fermerebbero sempre alle piccole stazioni lungo la via.
+Per esempio, si fermerebbero sempre a considerare la curiosa
+[[Nature|natura]] dei loro stessi termini convenzionali; cosa che
+non fanno mai, in nessun caso.  I loro slogan sono considerati unicamente
+come congegni o strumenti per portarli dove stanno andando;
+non gettano mai indietro un pensiero su donde venga lo slogan.
+Eppure è esattamente ciò che farebbero se pensassero davvero,
+in un senso pieno e a tutto tondo.  Naturalmente si comprenderà,
+quanto a queste mode intellettuali, che grandi masse,
+probabilmente la massa dell'umanità, non viaggiano affatto sul treno.
+Restano nei loro villaggi e sono assai più felici e migliori;
+ma non sono considerate le guide intellettuali del [[Time|tempo]].
+Ciò di cui mi lagno è che le guide intellettuali possono soltanto
+guidare lungo un unico stretto binario; altrimenti detto «il sonante
+binario del mutamento».  Prendiamo, in questa faccenda delle frasi correnti,
+l'esempio della controversia sull'arte avanzata e futurista.
+Non intendo considerare l'arte, ma considerare la controversia;
+come illustrazione di quanto s'è detto sull'opportunità di fermarsi
+e sulla stoltezza del treno che non si ferma mai.
+
+Ora, benché, s'intende, le masse reali non siano affatto convertite
+a Picasso o a Epstein, tuttavia i termini della controversia, gli unici cavilli
+d'argomentazione noti ai giornali, gli unici sofismi familiari e quasi
+popolari al di là del semplice insulto popolare, stanno dalla parte
+delle nuove scuole.  Voglio dire che gli uomini moderni non hanno familiarità
+con gli argomenti razionali in favore della tradizione; ma hanno familiarità,
+e una familiarità quasi stucchevole, con gli argomenti razionali in favore del mutamento.
+Da qualunque parte stia davvero la ragione nella questione dell'arte
+(che ovviamente dipende in gran parte dai singoli artisti),
+tutto il mondo moderno è verbalmente disposto a considerare il nuovo
+[[Artist|artista]] nel giusto e il vecchio [[Artist|artista]] nel torto.  Vi è disposto
+da tutta la [[philosophy|filosofia]] progressiva; che spesso
+è più una fraseologia che una [[philosophy|filosofia]].  Il linguaggio che si affaccia
+più prontamente alla mente di ognuno è il linguaggio dell'innovazione;
+ma è un linguaggio che si esercita più di quanto si esamini.
+Per esempio, è probabile che perfino ora più persone conoscano
+le [[Poems|poesie]] del signor W. B. Yeats che le [[Poems|poesie]] della signorina Edith Sitwell.
+Ma moltissime più persone capiscono ciò che intende la signorina Sitwell quando
+dice semplicemente d'essere criticata ai suoi giorni come Keats fu criticato
+ai suoi, di quante potrebbero mai capire ciò che intende il signor Yeats
+quando dice che nulla di veramente nuovo può essere usato in poesia;
+o che l'[[innocence|innocenza]] nasce soltanto dalla cerimonia e dall'usanza.
+Poiché il primo argomento è un argomento familiare a tutti i moderni
+progressisti e riformatori; le seconde affermazioni sono detti
+assai profondi di un uomo che pensa davvero con la propria testa.
+Convengo che in molte altre cose, e specialmente nei migliori
+esempi della sua poesia, anche la signorina Sitwell sa pensare con la propria testa.
+Dico soltanto che questo particolare argomento («Giovanni Battista fu
+deriso, e io sono derisa»; «Galileo non fu creduto, e io
+non sono creduta»)—questo particolare argomento fa parte del regolare
+e riconosciuto repertorio di trucchi dei riformatori e dei rivoluzionari;
+è parte del vecchissimo armamentario del Nuovo Movimento.
+Ora, se applichiamo tutto ciò, per esempio, alle dispute intorno
+alla pittura o alla scultura, troveremo la stessa situazione:
+che, da qualunque parte stia la ragione, tutto l'apparato del discorso
+moderno favorisce l'idea che la cosa nuova abbia sempre ragione.
+Vi è una precisa selezione di frasi usate, ma di rado esaminate.
+Per esempio, se qualche Filisteo osasse debolmente protestare contro
+[[Helen]] di Troia scolpita con una testa della forma esatta
+della Grande Piramide, o [[Titania]] con una figura che segue le grandi
+linee semplici dell'ippopotamo allo zoo, o magari contro la propria
+figlia prediletta che si presenta al pubblico nella condizione appellante
+e perfino toccante d'avere il naso e le palpebre tagliati via—
+ogni volta che si ode una simile critica, che sia giusta o sbagliata,
+le si risponderà con la precisione di un orologio, con una frase
+del tenore che certa gente vuole che l'arte sia «graziosa-graziosa». Ora
+il primo atto di ogni mente indipendente sarà criticare questa critica;
+e specialmente provare curiosità per la sua curiosa forma.
+Perché tutti dicono «graziosa-graziosa»?  Perché non dire che certa gente
+non ama ciò che è «brutto-brutto», o magari ciò che è «bestiale-bestiale»?
+Qual è il senso di questa bizzarra ripetizione, come un decimale periodico?
+Se avete quella sorta di curiosità indipendente che si ferma alle
+stazioncine lungo la via, se (insomma) non avete fretta di arrivare
+al capolinea alla moda, potete [[Well|ben]] soffermarvi su una frase simile,
+non senza profitto.  Vi accorgerete che la frase è, in realtà,
+un tentativo piuttosto patetico di riprodurre l'esclamazione meravigliata
+di un [[Child|bambino]].  E ciò basterebbe da [[Alone|solo]] a distruggere l'argomento.
+Poiché un [[Child|bambino]] ha un ben saldo senso di [[Wonder|meraviglia]] per ciò che è davvero meraviglioso;
+e per nulla un gusto volgare e verniciato per ciò che è
+convenzionalmente bello.  La cosa che un vero [[Child|bambino]] potrebbe
+chiamare «graziosa-graziosa» non è il ritratto sdolcinato di una debuttante
+o un imbottito gruppo di famiglia reale; è assai più probabile
+che sia un guizzo di [[Fire|fuoco]] rosso o i colori intensi di un grande fiore
+di [[Garden|giardino]] o qualcosa che è davvero elementare ed essenziale;
+qualcosa a suo modo altrettanto «crudo» (come direbbero i nostri cari
+amici) quanto la Grande Piramide o il grande pachiderma.
+I bambini non sono snob in arte più di quanto lo siano in morale.  E se
+spesso provano piacere anche per le cose che sono davvero «graziose»,
+nel senso di una fanciulla aggraziata del Greuze o di una nuvola di fiori rosa
+in [[spring|primavera]], è semplicemente perché vi è un posto perfettamente legittimo
+nell'arte per ciò che è grazioso; e non lo si liquida affatto
+biascicando due volte la stessa parola e chiamandolo
+«grazioso-grazioso». Comunque sia, i moderni più altezzosi commettono
+un grave abbaglio nell'imputare puerilità a difesa di certe cose
+che potrebbero essere difese solo in quanto puerili nel senso più alto.
+Fu Cézanne stesso a dire: «Cerco di ritrovare la visione diretta
+di un [[Child|bambino]]».
+
+Lo stesso vale per tutte le frasi fatte già in circolazione,
+allo scopo di difendere qualsiasi stravaganza, anche prima che esista.
+Così tutti hanno familiarità con la frase che l'arte
+non è fotografia, e che solo alla fotografia si richiede
+d'essere realistica.  Tutti hanno familiarità con la frase,
+e nessuno ha familiarità con le falle o gli errori della frase.
+In verità nulla è meno realistico della fotografia.
+Fin dall'inizio essa è tagliata via da ogni realtà esattamente come la scultura
+di marmo è tagliata via dalla realtà, per il fatto d'essere convenzionalmente incolore;
+per il divorzio della grande [[Union|unione]] ottica di colore e forma.
+Ma non è davvero realistica nemmeno riguardo alla forma.  Ciò che essa
+riproduce più o meno realisticamente sono la luce e l'ombra,
+e la luce spesso falsa la forma e sempre falsa il colore.
+Se vogliamo la vera forma, essa dev'essere disegnata per noi più o meno
+astrattamente da un disegnatore; e quando è così disegnata da Leonardo
+o Michelangelo, non la si può liquidare come fotografica, non più
+che come «graziosa-graziosa». Il moderno [[Artist|artista]] potrà avere le sue ragioni
+per disegnare gambe come fossero cuscini o salsicce; ma ciò non
+fa delle robuste linee spazzanti, dell'osso in pendio o del muscolo che si tende,
+in un grande disegno fiorentino, una piatta riproduzione meccanica,
+di valore solo come la volgare istantanea di un fatto banale.
+Quelle linee sono forti e belle, come sono belle le linee della cascata e
+del gorgo.  Anzi, sono esattamente come le belle
+forme astratte che il moderno [[Artist|artista]] vorrebbe inventare—
+se potesse.
+
+Ho preso soltanto questo unico tipo, il discorso sulle nuove scuole d'arte,
+per illustrare ciò che intendo dicendo che il mondo ha tanta
+fretta d'esser nuovo da non soffermarsi nemmeno sulle verità
+della nuova scuola, [[Alone|non che]] su quelle della vecchia.  Del milione di uomini
+e donne che hanno udito quelle due frasi, quanti hanno udito
+qualche frase della fraseologia e [[philosophy|filosofia]] opposta?
+Voglio dire, qualcuna che offra una difesa filosofica dell'altra [[philosophy|filosofia]]?
+Di tutti coloro cui è stato detto (in modo alquanto superfluo)
+che Epstein non pretende d'esser grazioso, quanti hanno udito
+quella difesa della civiltà, in cui la sua forza stessa si mostra
+nell'essere capace di allevare, librare e proteggere la grazia?
+La ciclopica massiccità stessa delle fondamenta della [[City|città]]
+è provata al meglio dal fatto che nessun terremoto può scuotere la statuetta
+d'avorio sul piedistallo o la pastorella di porcellana sulla mensola.
+Quanti hanno considerato l'argomento più antico, di una cultura che
+è sufficientemente atletica da poter essere elegante?  O, per prendere un altro esempio,
+quanti hanno compreso gli argomenti scientifici e psicologici
+in favore dell'antichità stessa?  Di tutti coloro che rammentano d'essersi sentiti dire
+d'ammirare un quadro moderno, semplicemente perché è ancora più dissimile
+dalla vita di quanto lo sia una fotografia, o di essersi sentiti dire d'ammirare la poesia moderna,
+per nessun'altra ragione se non che è più prosaica dello slang—
+di tutti costoro, quanti ricordano anche solo la giusta osservazione fatta tempo fa
+da [[Oliver]] Wendell Holmes; che i grandi poeti latini in realtà crescono
+più grandi a forza d'esser citati di continuo; che le parole in realtà
+crescono unite insieme col [[Time|tempo]], come fanno le parti di un violino stagionato?
+Non dico che la [[Truth|verità]] stia tutta dalla parte della tradizione;
+dico soltanto che la pubblicità sta tutta dalla parte dell'innovazione.
+Fino alla recente ascesa del gruppo umanista in [[America]],
+quasi nessuno, nemmeno delle classi colte, possedeva anche solo
+il vocabolario per una difesa della tradizione.  Le parole stesse in uso,
+la struttura stessa delle frasi, il tono ordinario di tutta la
+stampa pubblica, m'impedivano di usare gli argomenti reali e ragionevoli
+contro la mera novità.  L'Inghilterra, per quanto strano,
+possiede un vocabolario umanista operante ancor minore dell'[[America]].
+Anche qui l'etica giornalistica operante è stata troppo sfrondata
+e semplificata in poche idee grezze, di attività commerciale
+o di continua [[Reform|riforma]].  Sarò completamente frainteso se mi
+si suppone in cerca di un biglietto di ritorno per Atene o per l'Eden;
+perché non voglio proseguire sul treno a basso costo verso l'Utopia.
+Voglio andare dove mi piace.  Voglio fermarmi dove mi piace.
+Voglio conoscere la larghezza [[Well|non meno]] che la lunghezza del mondo;
+e vagabondare fuori dai binari nelle antiche pianure della libertà.

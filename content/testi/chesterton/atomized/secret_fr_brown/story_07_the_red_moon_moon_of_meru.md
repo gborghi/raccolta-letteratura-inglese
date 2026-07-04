@@ -727,338 +727,261 @@ said, "and that was also stolen."
 <div class="excerpt-crumb">Chesterton · <a href="/works/secret-fr-brown-(chesterton)">secret Fr Brown</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/secret_fr_brown/story_06_the_worst_crime_in_the_world">‹ Story 06 THE WORST CRIME IN THE WORLD</a><a class="ex-next" href="/testi/chesterton/atomized/secret_fr_brown/story_08_the_chief_mourner_of_marne">Story 08 THE CHIEF MOURNER OF MARNE ›</a></div>
 </nav>
+<nav class="excerpt-children">
+<div class="excerpt-children-label">In questa sezione</div>
+<ul><li><a href="/testi/chesterton/atomized/secret_fr_brown/story_07_the_red_moon_moon_of_meru/part_01">Part 1</a></li><li><a href="/testi/chesterton/atomized/secret_fr_brown/story_07_the_red_moon_moon_of_meru/part_02">Part 2</a></li><li><a href="/testi/chesterton/atomized/secret_fr_brown/story_07_the_red_moon_moon_of_meru/part_03">Part 3</a></li><li><a href="/testi/chesterton/atomized/secret_fr_brown/story_07_the_red_moon_moon_of_meru/part_04">Part 4</a></li><li><a href="/testi/chesterton/atomized/secret_fr_brown/story_07_the_red_moon_moon_of_meru/part_05">Part 5</a></li><li><a href="/testi/chesterton/atomized/secret_fr_brown/story_07_the_red_moon_moon_of_meru/part_06">Part 6</a></li></ul>
+</nav>
 
 VII LA [[Moon|LUNA]] ROSSA DI MERU
 
-TUTTI convennero che il bazar all'Abbazia di Mallowood (per gentile concessione di Lady Mounteagle) fosse un grande [[success|successo]]; c'erano giostre, altalene e baracconi, di cui la gente si dilettava assai; menzionerei volentieri anche la [[Charity|Beneficenza]], che era l'eccellente scopo di tutta la faccenda, se soltanto qualcuno avesse saputo dirmi in che cosa consistesse. Ma qui a noi interessano soltanto alcuni di loro; e in particolare tre, una signora e due gentiluomini, che passavano fra due delle principali tende o padiglioni, le voci alte in una disputa. Alla loro destra sorgeva la tenda del Maestro della Montagna, quel chiromante e cristallomante di fama mondiale; una ricca tenda purpurea, tutta percorsa, in nero e oro, dai contorni sgangherati di divinità asiatiche che agitavano un'infinità di braccia come polipi. Forse simboleggiavano la prontezza dell'aiuto divino che vi si poteva ottenere; o forse lasciavano soltanto intendere che l'essere ideale di un pio chiromante avrebbe avuto quante più mani possibile. Dall'altro lato si ergeva la più modesta tenda di Phroso il Frenologo; addobbata con maggiore austerità con i diagrammi delle teste di Socrate e di Shakespeare, le quali risultavano a quanto pareva alquanto bitorzolute. Ma esse erano presentate soltanto in bianco e nero, con numeri e annotazioni, come si conveniva alla rigida dignità di una scienza puramente razionalistica. La tenda purpurea aveva un'apertura simile a una nera caverna, e dentro tutto taceva, come si addiceva. Ma Phroso il Frenologo, un individuo magro, malandato, abbronzato dal sole, con baffi e favoriti neri di una ferocia quasi inverosimile, stava ritto fuori dal proprio tempio, e discorreva, a squarciagola, con nessuno in particolare, spiegando che la testa di un qualunque passante si sarebbe senza dubbio rivelata, all'esame, bitorzoluta esattamente quanto quella di Shakespeare. Anzi, nel momento stesso in cui la signora apparve tra le tende, il vigile Phroso le si avventò addosso e le offrì, con una pantomima di cortesia d'antico stampo, di tastarle le bozze craniche.
+TUTTI convennero che il bazar all'abbazia di Mallowood (per la cortese concessione di Lady Mounteagle) fu un grande [[success|successo]]; c'erano giostre, altalene e baracconi, di cui la gente si compiaceva assai; menzionerei anche la [[Charity|beneficenza]], che era l'eccellente scopo dell'iniziativa, se solo qualcuno di loro sapesse dirmi in che cosa consistesse. Tuttavia, qui ci occupiamo soltanto di pochi di loro; e in particolare di tre: una signora e due gentiluomini, che passavano fra due delle tende o padiglioni principali, con le voci alte nella disputa. Alla loro destra sorgeva la tenda del Maestro della Montagna, quell'indovino di fama mondiale che leggeva nei cristalli e nella chiromanzia; una ricca tenda purpurea, tutta percorsa da tracciati, in nero e oro, dei contorni scomposti di dèi asiatici che agitavano un numero indefinito di braccia come polpi. Forse simboleggiavano la prontezza del soccorso divino che vi si poteva trovare dentro; forse volevano semplicemente insinuare che il perfetto chiromante devoto avrebbe avuto quante più mani possibili. Dall'altro lato sorgeva la più dimessa tenda di Phroso il Frenologo; decorata più austeramente con i diagrammi delle teste di Socrate e di Shakespeare, che a quanto pareva erano di forma piuttosto bitorzoluta. Ma questi erano presentati solo in bianco e nero, con numeri e annotazioni, come si conveniva alla rigida dignità di una scienza puramente razionalistica. La tenda purpurea aveva un'apertura simile a una nera caverna, e dentro tutto taceva come si addiceva. Ma Phroso il Frenologo, un individuo magro, malandato, abbronzato dal sole, con baffi e favoriti neri di una ferocia quasi inverosimile, se ne stava fuori dal proprio tempio e parlava, a squarciagola, a nessuno in particolare, spiegando che la testa di qualunque passante avrebbe senza dubbio dimostrato, a un esame, di essere ogni tanto bitorzoluta quanto quella di Shakespeare. Anzi, nel momento stesso in cui la signora apparve fra le tende, il vigile Phroso le balzò addosso e si offrì, con una pantomima di cortesia d'altri tempi, di tastarle le protuberanze.
 
-Ella rifiutò con una cortesia che somigliava piuttosto a una scortesia; ma bisogna scusarla, poiché era nel bel mezzo di una discussione. E bisognava scusarla anche, o quanto meno era scusata, perché era Lady Mounteagle. Non era però una nullità, in nessun senso; era al tempo stesso bella e sparuta, con uno sguardo affamato negli occhi profondi e scuri e qualcosa di avido e quasi feroce nel sorriso. La sua veste era bizzarra per l'epoca; giacché ciò accadeva prima che la Grande Guerra ci lasciasse nell'attuale nostro stato d'animo di gravità e raccoglimento. Anzi, la veste somigliava piuttosto alla tenda purpurea; essendo di foggia semi-orientale, coperta di emblemi esotici ed esoterici. Ma tutti sapevano che i Mounteagle erano matti; il che era il modo popolare di dire che lei e suo marito si interessavano ai credi e alla cultura dell'Oriente.
+Ella rifiutò con una civiltà che somigliava assai alla scortesia; ma le si deve perdonare, perché era nel bel mezzo di una discussione. Le si doveva perdonare, o comunque le fu perdonato, anche perché era Lady Mounteagle. Non era però, in nessun senso, una nullità; era insieme bella e sparuta, con uno sguardo affamato negli occhi profondi e scuri e qualcosa di avido e quasi feroce nel sorriso. La sua veste era stravagante per l'epoca; poiché era prima che la Grande Guerra ci lasciasse nell'attuale disposizione di gravità e raccoglimento. Anzi, la veste somigliava piuttosto alla tenda purpurea; essendo di foggia semi-orientale, ricoperta di emblemi esotici ed esoterici. Ma tutti sapevano che i Mounteagle erano matti; il che era il modo popolare di dire che lei e il marito si interessavano ai credi e alla cultura dell'Oriente.
 
-L'eccentricità della signora faceva gran contrasto con la convenzionalità dei due gentiluomini, impettiti e abbottonati in tutta la più rigida foggia di quel giorno lontano, dalla punta dei guanti fino ai lucidi cilindri. Eppure anche qui c'era una differenza; poiché James Hardcastle riusciva insieme a sembrare corretto e distinto, mentre Tommy Hunter sembrava soltanto corretto e ordinario. Hardcastle era un politico promettente; che in società pareva interessarsi a tutto tranne che alla politica. Si potrebbe cupamente rispondere che ogni politico è, con enfasi, un politico promettente. Ma, per rendergli giustizia, egli aveva spesso dato prova di sé come politico d'azione. Nessuna tenda purpurea del bazar, tuttavia, gli era stata predisposta perché vi desse spettacolo.
+L'eccentricità della signora faceva grande contrasto con la convenzionalità dei due gentiluomini, che erano impettiti e abbottonati in tutta la maniera più rigida di quel giorno lontano, dalla punta dei guanti fino ai loro lucidi cappelli a cilindro. Eppure anche qui c'era una differenza; poiché James Hardcastle riusciva a un tempo ad apparire corretto e distinto, mentre Tommy Hunter appariva soltanto corretto e insignificante. Hardcastle era un promettente uomo politico; che in società sembrava interessato a tutto tranne che alla politica. Si potrebbe rispondere cupamente che ogni uomo politico è enfaticamente un promettente uomo politico. Ma, per rendergli giustizia, si era spesso mostrato un uomo politico all'opera. Nessuna tenda purpurea del bazar, tuttavia, gli era stata predisposta per esibirsi.
 
-«Da parte mia», disse, avvitandosi il monocolo che era l'unico bagliore sul suo volto duro e forense, «ritengo che si debbano esaurire le possibilità del [[Mesmerism|mesmerismo]] prima di parlare di [[Magic|magia]]. Straordinari poteri psicologici esistono senza dubbio, anche presso popoli in apparenza arretrati. Meraviglie sono state compiute dai fachiri.»
+«Da parte mia», disse, avvitando il monocolo che era l'unico barlume nel suo volto duro e legale, «penso che dobbiamo esaurire le possibilità del [[Mesmerism|mesmerismo]] prima di parlare di [[Magic|magia]]. Poteri psicologici notevoli esistono indubbiamente, anche presso popoli in apparenza arretrati. Cose meravigliose sono state compiute dai fachiri.»
 
-«Ha detto compiute dai fanfaroni?» domandò l'altro giovane, con dubbia [[innocence|innocenza]].
+«Avete detto compiute dai furbacchioni?» chiese l'altro giovanotto, con dubbia [[innocence|innocenza]].
 
-«Tommy, sei semplicemente sciocco», disse la signora. «Perché ti ostini a intrometterti in cose che non capisci? Sei come uno scolaretto che strilla di sapere come si fa un gioco di prestigio. È tutto così Prima Età Vittoriana... quello scetticismo da scolaretto. Quanto al [[Mesmerism|mesmerismo]], [[Doubt|dubito]] che tu possa estenderlo fino a...»
+«Tommy, sei semplicemente sciocco», disse la signora. «Perché continui a intrometterti in cose che non capisci? Sei come uno scolaretto che strilla di sapere come si fa un gioco di prestigio. È tutto così primo-vittoriano... quel scetticismo da scolaretto. Quanto al [[Mesmerism|mesmerismo]], [[Doubt|dubito]] che tu possa estenderlo fino a...»
 
-A questo punto Lady Mounteagle parve scorgere qualcuno che desiderava; una figura nera e tozza, ritta presso un baraccone dove i bambini lanciavano cerchi contro orribili soprammobili. Si slanciò attraverso e gridò:
+A questo punto Lady Mounteagle parve scorgere qualcuno che desiderava; una figura nera e tozza ritta presso una bancarella dove i bambini lanciavano cerchi contro orridi soprammobili. Si slanciò attraverso e gridò:
 
-«[[Father Brown]], vi cercavo. Voglio chiedervi una cosa. Credete nella predizione del futuro?»
+«[[Father Brown]], vi cercavo. Voglio chiedervi una cosa. Credete nell'arte di predire il futuro?»
 
-La persona interpellata guardò piuttosto smarrita il cerchietto che teneva in mano e disse infine:
+La persona interpellata guardò piuttosto perplessa il cerchietto che teneva in mano e disse infine:
 
-«[[Wonder|Mi domando]] in quale senso stiate usando la parola "credere". Certo, se è tutto un imbroglio...»
+«[[Wonder|Mi domando]] in quale senso stiate usando la parola "credere". Naturalmente, se è tutta una frode...»
 
-«Oh, ma il Maestro della Montagna non è affatto un imbroglione», esclamò lei. «Non è per nulla un comune prestigiatore o un indovino. È davvero un grande [[Honour|onore]] per lui degnarsi di predire il futuro alle mie feste; è un grande capo religioso nel suo paese; un [[Prophet|Profeta]] e un Veggente. E persino la sua predizione del futuro non è roba volgare sull'entrare in possesso di una fortuna. Egli vi rivela grandi verità spirituali su voi stessi, sui vostri ideali.»
+«Oh, ma il Maestro della Montagna non è affatto un frodatore», gridò lei. «Non è per niente un comune prestigiatore o un indovino. È davvero un grande [[Honour|onore]] per lui condiscendere a predire la sorte alle mie feste; è un grande capo religioso nel suo paese; un [[Prophet|profeta]] e un veggente. E persino il suo predire la sorte non è roba volgare sull'ereditare fortune. Vi dice grandi verità spirituali su voi stessi, sui vostri ideali.»
 
-«Proprio così», disse [[Father Brown]]. «È appunto ciò a cui mi oppongo. Stavo appena per dire che, se è tutto un imbroglio, non me ne preoccupo poi tanto. Non può essere un imbroglio molto più grande della maggior parte delle cose ai bazar di beneficenza; e lì, in un certo senso, è una specie di burla. Ma se è una religione e rivela verità spirituali... allora è tutto falso come l'inferno, e non lo toccherei neppure con un palo da barcaiolo.»
+«Proprio così», disse [[Father Brown]]. «È a questo che mi oppongo. Stavo appunto per dire che se è tutta una frode, non me ne importa granché. Non può essere molto più frode della maggior parte delle cose ai bazar di beneficenza; e lì, in un certo senso, è una sorta di scherzo pratico. Ma se è una religione e rivela verità spirituali... allora è tutto falso come l'inferno e non lo toccherei nemmeno con un palo.»
 
-«Questo è un po' un [[Paradox|paradosso]]», disse Hardcastle, con un sorriso.
+«Questo è qualcosa di simile a un [[Paradox|paradosso]]», disse Hardcastle, con un sorriso.
 
-«[[Wonder|Mi domando]] che cosa sia un [[Paradox|paradosso]]», osservò il prete con aria ruminante. «A me pare abbastanza ovvio. Suppongo che non farebbe gran male se qualcuno si travestisse da spia tedesca e fingesse di aver raccontato ogni sorta di menzogne ai tedeschi. Ma se un uomo commercia nella [[Truth|verità]] con i tedeschi... [[Well|be']]! Così io penso che se un indovino commercia nella [[Truth|verità]] a quel modo...»
+«[[Wonder|Mi domando]] che cosa sia un [[Paradox|paradosso]]», osservò il prete in tono ruminante. «Mi sembra abbastanza ovvio. Suppongo che non farebbe gran male se qualcuno si travestisse da spia tedesca e fingesse di aver raccontato ogni sorta di menzogne ai tedeschi. Ma se un uomo commercia nella [[Truth|verità]] con i tedeschi... [[Well|be'!]] Così penso che se un indovino commercia in [[Truth|verità]] a quel modo...»
 
-«Lei crede davvero», esordì Hardcastle in tono truce.
+«Voi pensate davvero», cominciò Hardcastle in tono arcigno.
 
-«Sì», rispose l'altro; «credo che stia trafficando con il nemico».
+«Sì», disse l'altro; «penso che commerci col nemico.»
 
-Tommy Hunter scoppiò in una risatina. «[[Well|Be']]», disse, «se [[Father Brown]]
-li ritiene buoni fintanto che sono impostori, immagino che questo
-[[Prophet|profeta]] color rame lo considererà una specie di santo».
+Tommy Hunter proruppe in una risatina. «[[Well]]», disse, «se [[Father Brown]] li ritiene buoni finché sono frodatori, immagino che consideri questo [[Prophet|profeta]] color rame una sorta di santo.»
 
-«Mio cugino Tom è incorreggibile», disse Lady Mounteagle. «Se ne va
-sempre in giro a smascherare gli adepti, come li chiama lui. È venuto
-quaggiù di gran fretta soltanto quando ha saputo che il Maestro sarebbe
-stato qui, credo. Avrebbe cercato di smascherare Buddha o Mosè».
+«Mio cugino Tom è incorreggibile», disse Lady Mounteagle. «Va sempre in giro a smascherare gli adepti, come li chiama lui. È sceso quaggiù in fretta e furia, credo, solo quando ha saputo che il Maestro sarebbe stato qui. Avrebbe cercato di smascherare Budda o Mosè.»
 
-«Pensavo che aveste bisogno di essere un po' sorvegliati», disse il
-giovane, con un sorriso sul volto tondo. «Così sono trotterellato
-quaggiù. Non mi piace questa scimmia bruna che va gattonando in giro».
+«Ho pensato che avessi bisogno di un po' di sorveglianza», disse il giovanotto, con un sogghigno sul volto tondo. «Così sono venuto a fare due passi quaggiù. Non mi piace questa scimmia bruna che striscia in giro.»
 
-«Ci risiamo!», disse Lady Mounteagle. «Anni fa, quando ero in India,
-suppongo che avessimo tutti quel genere di pregiudizio contro la gente
-bruna. Ma ora che so qualcosa dei loro meravigliosi poteri spirituali,
-sono lieta di dire che ho imparato a ricredermi».
+«E dàgli!» disse Lady Mounteagle. «Anni fa, quando ero in India, suppongo che tutti avessimo quel genere di pregiudizio contro la gente bruna. Ma ora che so qualcosa dei loro meravigliosi poteri spirituali, sono lieta di dire che ho imparato meglio.»
 
-«I nostri pregiudizi sembrano tagliare in direzioni opposte», disse
-[[Father Brown]]. «Lei scusa il suo essere bruno perché è bramino; e io
-scuso il suo essere bramino perché è bruno. Francamente, i poteri
-spirituali non mi interessano granché. Ho molta più simpatia per le
-debolezze spirituali. Ma non riesco a capire perché qualcuno debba
-provare antipatia per lui soltanto perché ha lo stesso bel colore del
-rame, o del caffè, o della birra scura come una nocciola, o di quei
-gioiosi torrenti di torba del Nord. Ma d'altronde», aggiunse, guardando
-verso la dama e socchiudendo gli occhi, «suppongo di essere prevenuto in
-favore di tutto ciò che si chiama bruno».
-
-«Ecco!», esclamò Lady Mounteagle con una sorta di trionfo. «Lo sapevo
-che stava soltanto dicendo sciocchezze!»
+«I nostri pregiudizi sembrano tagliare in direzioni opposte», disse [[Father Brown]]. «Voi gli perdonate di essere bruno perché è brahmanico; e io gli perdono di essere brahmanico perché è bruno. Francamente, dei poteri spirituali a me importa poco. Ho molta più simpatia per le debolezze spirituali. Ma non riesco a capire perché si debba provare avversione per lui solo perché è dello stesso bel colore del rame, o del caffè, o della birra scura color nocciola, o di quei allegri ruscelli di torba del Nord. Ma poi», aggiunse, guardando la signora e socchiudendo gli occhi, «suppongo di essere prevenuto in favore di qualunque cosa si chiami bruno.»
 
-«[[Well|Be']]», brontolò l'offeso giovanotto dal volto tondo. «Quando qualcuno
-dice cose sensate, voi le chiamate scetticismo da scolaretto. Quando
-comincerà questa lettura nella sfera di cristallo?»
+«Ecco qua!» gridò Lady Mounteagle con una sorta di trionfo. «Lo sapevo che stavate solo dicendo sciocchezze!»
 
-«In qualsiasi [[Time|momento]] vogliate, credo», rispose la dama. «A dire il vero non è lettura
-nella sfera di cristallo, ma chiromanzia; suppongo che voi direste che è
-tutta la stessa specie di sciocchezza».
+«[[Well]]», borbottò l'oltraggiato giovanotto dal volto tondo. «Quando qualcuno dice cose sensate lo chiami scetticismo da scolaretto. Quando comincia questa lettura nei cristalli?»
 
-«Credo che vi sia una via media tra il senno e la sciocchezza», disse
-Hardcastle, sorridendo. «Ci sono spiegazioni che sono naturali e per
-nulla insensate; eppure i risultati sono davvero sorprendenti. Venite a
-farvi esaminare anche voi? Confesso di essere pieno di curiosità».
+«Quando [[Time|volete]], credo», rispose la signora. «In verità non è lettura nei cristalli, ma chiromanzia; suppongo che diresti che è tutta la stessa sorta di sciocchezze.»
 
-«Oh, non ho pazienza per simili sciocchezze», sbottò lo scettico, il cui
-volto tondo era divenuto piuttosto un volto rosso per il calore del suo
-disprezzo e della sua [[Incredulity|incredulità]]. «Vi lascio sprecare il vostro
-[[Time|tempo]] con il vostro ciarlatano color mogano; io preferisco andare a
-tirare alle noci di cocco».
+«Penso che ci sia una via media fra il senno e l'insensatezza», disse Hardcastle, sorridendo. «Ci sono spiegazioni che sono naturali e per niente insensate; e tuttavia i risultati sono davvero stupefacenti. Venite a farvi operare? Confesso di essere pieno di curiosità.»
 
-Il Frenologo, che ancora aleggiava lì vicino, si slanciò nel varco.
+«Oh, non ho pazienza per simili sciocchezze», sputacchiò lo scettico, il cui volto tondo era diventato piuttosto un volto rosso per il calore del suo disprezzo e della sua [[Incredulity|incredulità]]. «Ti lascio sprecare il tuo [[Time|tempo]] col tuo saltimbanco color mogano; io preferisco andare a tirare alle noci di cocco.»
 
-«Le teste, mio caro signore», disse, «i crani umani hanno un contorno
-assai più sottile di quello delle noci di cocco. Nessuna noce di cocco
-può reggere il confronto con il suo più...»
+Il Frenologo, ancora aleggiante lì presso, si slanciò all'aprirsi del varco.
 
-Hardcastle si era già tuffato nell'oscuro ingresso della tenda
-purpurea; e si udì un basso mormorio di voci all'interno. Mentre Tom
-Hunter si voltava verso il Frenologo con una replica spazientita, nella
-quale mostrò una deplorevole indifferenza per il confine tra le scienze
-naturali e quelle preternaturali, la dama stava giusto per proseguire la
-sua piccola disputa con il piccolo prete, quando si arrestò con una
-certa sorpresa. James Hardcastle era uscito di nuovo dalla tenda, e sul
-suo volto arcigno e nel monocolo sfavillante la sorpresa era dipinta con
-ancor maggiore vivezza. «Non c'è», osservò bruscamente l'uomo politico.
-«Se n'è andato. Un vecchio negro, che pare costituire tutto il suo
-séguito, mi ha farfugliato qualcosa nel senso che il Maestro se ne era
-andato piuttosto che vendere per oro i sacri [[Secrets|segreti]]».
+«Le teste, mio caro signore», disse, «i crani umani hanno un profilo assai più sottile di quello delle noci di cocco. Nessuna noce di cocco può competere con la vostra stessa...»
 
-Lady Mounteagle si volse raggiante verso gli altri. «Ecco», esclamò.
-«Ve l'avevo detto che era ben al di sopra di tutto ciò che immaginavate!
-Detesta trovarsi qui in mezzo alla folla; è tornato alla sua
-[[Solitude|solitudine]]».
+Hardcastle si era già tuffato nel buio ingresso della tenda purpurea; e si udì dentro un basso mormorio di voci. Mentre Tom Hunter si voltava verso il Frenologo con una risposta impaziente, in cui mostrava una deplorevole indifferenza per il confine fra le scienze naturali e quelle preternaturali, la signora stava giusto per riprendere la sua piccola discussione col piccolo prete, quando si fermò alquanto sorpresa. James Hardcastle era uscito di nuovo dalla tenda, e nel suo volto arcigno e nel monocolo sfavillante la sorpresa era dipinta ancor più vividamente. «Non c'è», osservò l'uomo politico bruscamente. «Se n'è andato. Un vecchio negro, che pare costituire il suo seguito, mi ha farfugliato qualcosa nel senso che il Maestro era uscito piuttosto che vendere sacri [[Secrets|segreti]] per oro.»
 
-«Mi dispiace», disse [[Father Brown]] con gravità. «Può darsi che gli
-abbia fatto un torto. Sapete dove è andato?»
+Lady Mounteagle si volse raggiante verso gli altri. «Ecco qua», gridò. «Ve l'avevo detto che era un gradino sopra tutto quello che immaginavate! Detesta stare qui in mezzo alla folla; è tornato alla sua [[Solitude|solitudine]].»
 
-«Credo di sì», rispose la padrona di casa con pari gravità. «Quando
-vuole restare [[Alone|solo]], va sempre al chiostro, proprio in fondo all'ala
-sinistra, oltre lo studio e il museo privato di mio marito, sapete.
-Forse sapete che questa [[house|casa]] un tempo era un'abbazia».
+«Mi dispiace», disse [[Father Brown]] con gravità. «Forse gli ho fatto un torto. Sapete dove è andato?»
 
-«Ne ho sentito parlare», rispose il prete, con un debole sorriso.
+«Credo di sì», disse la padrona di casa con pari gravità. «Quando vuole essere [[Alone|solo]], va sempre nel chiostro, proprio in fondo all'ala sinistra, oltre lo studio e il museo privato di mio marito, sapete. Forse sapete che questa [[house|casa]] fu un tempo un'abbazia.»
 
-«Andiamoci, se volete», disse la dama, spedita. «Dovreste proprio vedere
-la collezione di mio marito; o quantomeno la [[Moon|Luna]] Rossa. Non avete mai
-sentito parlare della [[Moon|Luna]] Rossa di Meru? Sì, è un rubino».
+«Qualcosa ne ho udito», rispose il prete, con un debole sorriso.
 
-«Sarei lietissimo di vedere la collezione», disse Hardcastle con calma,
-«compreso il Maestro della Montagna, se quel [[Prophet|profeta]] è uno dei pezzi
-esposti nel museo». E tutti si volsero verso il sentiero che conduceva
-alla [[house|casa]].
+«Andremo là, se volete», disse la signora, con brio. «Dovreste proprio vedere la collezione di mio marito; o almeno la [[Moon|Luna]] Rossa. Non avete mai sentito parlare della [[Moon|Luna]] Rossa di Meru? Sì, è un rubino.»
 
-«Comunque sia», borbottò lo scettico Thomas, chiudendo la fila, «mi
-piacerebbe proprio sapere per che cosa sia venuto qui il bruno bestione,
-se non è venuto a leggere il futuro».
+«Sarei felice di vedere la collezione», disse Hardcastle con calma, «compreso il Maestro della Montagna, se quel [[Prophet|profeta]] è uno dei pezzi esposti nel museo.» E tutti si volsero verso il sentiero che conduceva alla [[house|casa]].
 
-Mentre quello si allontanava, l'indomito Phroso fece un altro scatto
-dietro di lui, quasi afferrandogli le falde della giacca. «La
-protuberanza...», cominciò.
+«Comunque sia», mormorò lo scettico Thomas, mentre chiudeva la fila, «mi piacerebbe assai sapere per che cosa la bestia bruna sia venuta qui, se non è venuta a predire la sorte.»
 
-«Nessuna protuberanza», disse il giovane, «solo un fastidio. Un fastidio
-ce l'ho sempre quando vengo quaggiù a trovare Mounteagle». E se la diede
-a gambe per sfuggire all'abbraccio dell'uomo di scienza.
+Mentre quello spariva, l'indomabile Phroso fece un altro scatto dietro di lui, quasi ghermendogli le falde della giacca. «La protuberanza...» cominciò.
 
-Nel cammino verso il chiostro i visitatori dovettero attraversare la
-lunga sala che Lord Mounteagle aveva destinato al suo notevole museo
-privato di amuleti e talismani asiatici. Attraverso una porta aperta,
-nella lunghezza della parete di fronte, si potevano scorgere le arcate
-gotiche e il barlume di luce diurna tra esse, a segnare lo spazio
-quadrato e scoperto, lungo il cui bordo coperto i [[Monks|monaci]] avevano
-passeggiato nei tempi antichi. Ma dovettero passare accanto a qualcosa
-che a prima vista pareva assai più straordinario del [[Ghost|fantasma]] di un
-monaco.
+«Nessuna protuberanza», disse il giovanotto, «solo una gobba. Una gobba ce l'ho sempre quando vengo giù a trovare Mounteagle.» E se la diede a gambe per sfuggire all'abbraccio dell'uomo di scienza.
 
-Era un signore anziano, drappeggiato dalla testa ai piedi di bianco, con
-un turbante verde pallido, ma con una carnagione inglese molto rosea e
-bianca e i lisci baffi bianchi di qualche amabile colonnello
-anglo-indiano. Era Lord Mounteagle, che aveva preso i suoi piaceri
-orientali con maggiore malinconia, o quantomeno con maggiore serietà,
-della moglie. Non sapeva parlare d'altro che di religione e [[philosophy|filosofia]]
-orientale; e aveva persino ritenuto necessario vestirsi alla maniera di
-un eremita orientale. Pur essendo felicissimo di mostrare i suoi tesori,
-sembrava tenerli in pregio molto più per le verità che si supponeva vi
-fossero simboleggiate che per il loro valore da collezione, [[Alone|tanto meno]] in denaro. Persino quando tirò fuori il grande rubino, forse l'unica
-cosa di grande valore nel museo, in senso puramente monetario, sembrava
-assai più interessato al suo nome che alla sua dimensione, [[Alone|tanto meno]] al suo prezzo.
+Sulla via del chiostro i visitatori dovettero attraversare la lunga sala che Lord Mounteagle aveva destinato al suo notevole museo privato di amuleti e portafortuna asiatici. Attraverso una porta aperta, nella parete di fronte, in tutta la sua lunghezza, potevano scorgere gli archi gotici e il barlume della luce del giorno fra di essi, che segnava lo spazio quadrato aperto, lungo il cui bordo coperto i [[Monks|monaci]] avevano passeggiato nei giorni antichi. Ma dovettero passare accanto a qualcosa che a prima vista pareva ancor più straordinario del [[Ghost|fantasma]] di un monaco.
 
-Gli altri fissavano tutti quella che sembrava una pietra rossa smisuratamente grande, che ardeva come un falò veduto attraverso una pioggia di [[Blood|sangue]]. Ma Lord Mounteagle la faceva rotolare con noncuranza nel palmo senza degnarla di uno sguardo; e, con gli occhi al soffitto, prese a narrare loro una lunga storia sul carattere leggendario del Monte Meru, e su come, nella mitologia gnostica, esso fosse stato il luogo della lotta di innominate potenze primordiali.
+Era un signore anziano, ammantato dalla testa ai piedi di bianco, con un turbante verde pallido, ma con una carnagione inglese assai rosea e candida e i lisci baffi bianchi di qualche amabile colonnello anglo-indiano. Era Lord Mounteagle, che aveva preso i suoi piaceri orientali più mestamente, o almeno più seriamente, della moglie. Non sapeva parlare d'altro che di religione e [[philosophy|filosofia]] orientale; e aveva ritenuto necessario perfino vestirsi alla maniera di un eremita orientale. Pur essendo lieto di mostrare i suoi tesori, sembrava tenerli in pregio molto più per le verità che si supponeva vi fossero simboleggiate che per il loro valore da collezione, [[Alone|per non dire]] in denaro. Persino quando tirò fuori il grande rubino, forse l'unica cosa di grande valore nel museo, in senso meramente monetario, sembrava molto più interessato al suo nome che alla sua grandezza, [[Alone|per non dire]] al suo prezzo.
 
-Verso la fine della conferenza sul Demiurgo degli gnostici (senza dimenticare la sua connessione con il parallelo concetto di Manicheo), persino il diplomatico signor Hardcastle giudicò che fosse [[Time|tempo]] di creare un diversivo. Chiese di poter osservare la pietra; e poiché la sera calava, e la lunga sala con la sua unica porta si andava via via oscurando, uscì nel chiostro là fuori, per esaminare il [[Jewel|gioiello]] a una luce migliore. Fu allora che, per la prima volta, presero coscienza, lentamente e quasi con un brivido, della viva presenza del Maestro della Montagna.
+Gli altri fissavano tutti quella che pareva una pietra rossa di dimensioni stupefacenti, ardente come un falò visto attraverso una pioggia di [[Blood|sangue]]. Ma Lord Mounteagle la rigirava senza cura nel palmo senza guardarla; e, fissando il soffitto, raccontò loro una lunga storia sul carattere leggendario del Monte Meru, e su come, nella mitologia gnostica, esso fosse stato il luogo della lotta di potenze primordiali e senza nome.
 
-Il chiostro seguiva la pianta consueta, quanto alla sua struttura originaria; ma la fila di pilastri gotici e di archi acuti che formava il quadrato interno era collegata per tutta la sua lunghezza da un muretto basso, alto all'incirca fino alla cintola, che mutava le porte gotiche in finestre gotiche e conferiva a ciascuna una sorta di piatto [[Window|davanzale]] di pietra. Questa modifica risaliva probabilmente a un'epoca antica; ma ve n'erano altre di foggia più bizzarra, che attestavano le idee individuali alquanto insolite di Lord e Lady Mounteagle. Tra i pilastri pendevano tende sottili, o meglio veli, fatti di perline o di leggere canne, alla maniera continentale o meridionale; e su di essi, ancora, si potevano scorgere le linee e i colori di draghi o idoli asiatici, che contrastavano con la grigia intelaiatura gotica in cui erano sospesi. Ma tutto ciò, per quanto turbasse ulteriormente la luce morente del luogo, era la minore delle incongruenze di cui la compagnia, con sentimenti assai diversi, si andava avvedendo.
+Verso la fine della conferenza sul Demiurgo degli Gnostici (senza dimenticarne la connessione col concetto parallelo di Manicheo), persino il tattoso signor Hardcastle giudicò [[Time|tempo]] di creare un diversivo. Chiese il permesso di guardare la pietra; e poiché la sera calava, e la lunga sala con la sua unica porta si andava via via oscurando, uscì nel chiostro là fuori, per esaminare il [[Jewel|gioiello]] a una luce migliore. Fu allora che divennero per la prima volta consapevoli, lentamente e quasi con un brivido, della presenza viva del Maestro della Montagna.
 
-Nello spazio aperto racchiuso dai chiostri correva, come un cerchio dentro un quadrato, un sentiero circolare lastricato di pietre chiare e bordato da una sorta di smalto verde simile a un [[Imitation|imitazione]] di prato. All'interno, proprio nel centro, si [[Rose|levava]] la vasca di una fontana verde cupo, o stagno rialzato, in cui galleggiavano [[Water|ninfee]] e guizzavano avanti e indietro pesci rossi; e alta sopra di essi, il profilo scuro contro la luce morente, sorgeva una grande immagine verde. Volgeva loro le spalle e aveva il volto tanto interamente invisibile, nella posa rannicchiata, che la statua avrebbe potuto quasi sembrare priva di capo. Ma in quel solo scuro profilo, nel fioco crepuscolo, alcuni di loro poterono all'istante vedere che era la forma di nulla di cristiano.
+Il chiostro era della pianta consueta, quanto alla sua struttura originaria; ma la fila di pilastri gotici e archi acuti che formavano il quadrato interno era collegata tutt'intorno da un muretto basso, alto circa fino alla cintola, che trasformava le porte gotiche in finestre gotiche e conferiva a ciascuna una sorta di piatto [[Window|davanzale]] di pietra. Questa modifica era probabilmente di data antica; ma c'erano altre modifiche di specie più bizzarra, che testimoniavano le idee personali piuttosto insolite di Lord e Lady Mounteagle. Fra i pilastri pendevano tendine sottili, o piuttosto veli, fatti di perline o di leggere canne, alla maniera continentale o meridionale; e su questi, ancora, si potevano tracciare le linee e i colori di draghi o idoli asiatici, che contrastavano con la grigia intelaiatura gotica in cui erano sospesi. Ma questo, per quanto turbasse ulteriormente la luce morente del luogo, era la minore delle incongruenze di cui la compagnia, con sentimenti assai vari, divenne consapevole.
 
-A pochi metri di distanza, sul sentiero circolare, e con lo sguardo rivolto verso il grande dio verde, stava l'uomo chiamato il Maestro della Montagna. I suoi lineamenti affilati e finemente rifiniti parevano modellati da qualche abile artefice come una maschera di rame. In contrasto con essa, la sua barba grigio scuro appariva quasi azzurra come l'indaco; cominciava in un ciuffo stretto sul mento, per poi allargarsi come un grande ventaglio o la coda di un uccello. Era ammantato di verde pavone e portava sul capo calvo un alto copricapo dal profilo insolito: un'acconciatura che nessuno di loro aveva mai veduto prima; ma pareva egizia più che indiana. L'uomo se ne stava con gli occhi fissi; occhi spalancati, a forma di pesce, così immobili da parere gli occhi dipinti su un sarcofago di mummia. Ma per quanto la figura del Maestro della Montagna fosse abbastanza singolare, alcuni della compagnia, compreso [[Father Brown]], non guardavano lui; guardavano ancora l'idolo verde cupo che egli stesso stava guardando.
+Nello spazio aperto circondato dai chiostri correva, come un cerchio dentro un quadrato, un sentiero circolare lastricato di pietre pallide e orlato di una sorta di smalto verde simile a un'[[Imitation|imitazione]] di prato. Al di dentro, proprio nel centro, [[Rose|si levava]] la vasca di una fontana verde-scura, o stagno rialzato, in cui galleggiavano [[Water|ninfee]] e guizzavano avanti e indietro pesci rossi; e alto sopra questi, il suo profilo scuro contro la luce morente, sorgeva una grande immagine verde. Le dava le spalle e il suo volto era così completamente invisibile nella postura raggomitolata che la statua avrebbe potuto quasi sembrare priva di testa. Ma in quel mero profilo scuro, nel fioco crepuscolo, alcuni di loro poterono vedere all'istante che era la forma di nessuna cosa cristiana.
 
-«Sembra una cosa ben strana», disse Hardcastle, aggrottando un poco la fronte, «da collocare in mezzo al chiostro di una vecchia abbazia.»
+A pochi metri di distanza, sul sentiero circolare, e rivolto verso il grande dio verde, stava l'uomo chiamato il Maestro della Montagna. I suoi lineamenti aguzzi e finemente rifiniti sembravano modellati da qualche abile artefice come una maschera di rame. In contrasto con questo, la sua barba grigio-scura pareva quasi azzurra come l'indaco; cominciava in un ciuffo stretto sul mento, e poi si allargava all'infuori come un grande ventaglio o la coda di un uccello. Era ammantato di verde pavone e portava sul capo calvo un alto copricapo dal profilo inconsueto: un'acconciatura che nessuno di loro aveva mai visto prima; ma sembrava piuttosto egizia che indiana. L'uomo stava con gli occhi sbarrati; occhi spalancati, a forma di pesce, così immobili da parere gli occhi dipinti su una cassa di mummia. Ma per quanto la figura del Maestro della Montagna fosse abbastanza singolare, alcuni della compagnia, compreso [[Father Brown]], non guardavano lui; guardavano ancora l'idolo verde-scuro che egli stesso guardava.
 
-«E adesso non mi venga a dire che ha intenzione di fare lo sciocco», disse Lady Mounteagle. «È proprio ciò che intendevamo: unire le grandi religioni d'Oriente e d'Occidente; Budda e [[Christ|Cristo]]. Certamente lei deve comprendere che tutte le religioni sono in realtà la medesima cosa.»
+«Sembra una cosa strana», disse Hardcastle, aggrottando un po' la fronte, «da erigere in mezzo al chiostro di una vecchia abbazia.»
 
-«Se così è», disse [[Father Brown]] con dolcezza, «pare piuttosto superfluo spingersi fin nel cuore dell'Asia per procurarsene una.»
+«Ecco, non ditemi che state per fare lo sciocco», disse Lady Mounteagle. «È proprio ciò che intendevamo; collegare le grandi religioni d'Oriente e d'Occidente; Budda e [[Christ|Cristo]]. Dovreste certo capire che tutte le religioni sono in realtà la stessa cosa.»
 
-«Lady Mounteagle intende che sono aspetti o faccette diverse, come ve ne sono di questa pietra», prese a dire Hardcastle; e, cominciando a interessarsi al nuovo argomento, posò il grande rubino sul davanzale o cornice di pietra sotto l'arco gotico. «Ma non ne consegue che si possano mescolare gli aspetti in un solo stile artistico. Si può mescolare il [[Christianity|Cristianesimo]] e l'[[Islam|Islam]], ma non si può mescolare il gotico e il saraceno, e tanto [[Alone|meno]] il vero indiano.»
+«Se lo sono», disse [[Father Brown]] con mitezza, «pare piuttosto superfluo andare in mezzo all'Asia per procurarsene una.»
 
-Mentre parlava, il Maestro della Montagna parve tornare in vita come un catalettico, e si spostò gravemente lungo un altro segmento di quarto del cerchio, e prese posizione all'esterno della loro stessa fila di archi, stando con le spalle a loro e guardando ora verso il dorso dell'idolo. Era evidente che si muoveva a tappe intorno all'intero cerchio, come una lancetta attorno a un [[Clock|orologio]]; ma sostando per la [[prayer|preghiera]] o la contemplazione.
+«Lady Mounteagle intende dire che sono aspetti o sfaccettature diverse, come ce ne sono in questa pietra», cominciò Hardcastle; e, interessatosi al nuovo argomento, posò il grande rubino sul davanzale o cornice di pietra sotto l'arco gotico. «Ma non ne consegue che possiamo mescolare gli aspetti in un unico stile artistico. Potete mescolare [[Christianity|cristianesimo]] e [[Islam|islam]], ma non potete mescolare il gotico e il saraceno, [[Alone|per non dire]] il vero indiano.»
 
-«Qual è la sua religione?» chiese Hardcastle, con un lieve tocco d'impazienza.
+Mentre parlava, il Maestro della Montagna parve ridestarsi come un catalettico, e si mosse gravemente lungo un altro quarto di segmento del cerchio, e prese posizione fuori dalla loro stessa fila di archi, stando con le spalle a loro e guardando ora verso il dorso dell'idolo. Era evidente che si muoveva a tappe intorno all'intero cerchio, come una lancetta intorno a un [[Clock|orologio]]; ma sostando per la [[prayer|preghiera]] o la contemplazione.
 
-«Egli dice», rispose Lord Mounteagle, con reverenza, «che è più antica del Brahmanesimo e più pura del Buddismo.»
+«Qual è la sua religione?» chiese Hardcastle, con un lieve tocco di impazienza.
 
-«Oh», fece Hardcastle, e continuò a fissare attraverso il suo monocolo, ritto con entrambe le mani in tasca.
+«Egli dice», rispose Lord Mounteagle, con reverenza, «che è più antica del brahmanesimo e più pura del buddismo.»
 
-«Dicono», osservò il nobiluomo con la sua voce gentile ma didattica, «che la divinità chiamata il Dio degli Dèi sia scolpita in forma colossale nella caverna del Monte Meru...»
+«Oh», disse Hardcastle, e continuò a fissare attraverso il suo unico occhialino, stando con entrambe le mani in tasca.
 
-Persino la serenità cattedratica di sua signoria fu spezzata di colpo dalla voce che gli giunse alle spalle. Veniva dall'oscurità del museo che avevano appena lasciato, quando erano usciti nel chiostro. Al suo suono i due uomini più giovani parvero dapprima increduli, poi furiosi, e infine quasi crollarono dalle risa.
+«Dicono», osservò il nobiluomo con la sua voce gentile ma didattica, «che la divinità chiamata il Dio degli Dei sia scolpita in forma colossale nella caverna del Monte Meru...»
 
-«[[Hope|Spero]] di non essere importuno», disse la voce urbana e seducente del Professor Phroso, quell'invincibile lottatore della [[Truth|verità]], «ma mi è venuto in mente che qualcuno di voi potrebbe concedere un po' di [[Time|tempo]] a quella tanto disprezzata scienza delle Bernoccoli, la quale...»
+Persino la serenità cattedratica di sua signoria fu spezzata di colpo dalla voce che giunse da sopra la sua spalla. Veniva dal buio del museo che avevano appena lasciato, quando erano usciti nel chiostro. Al suono di essa i due giovani apparvero prima increduli, poi furiosi, e poi quasi crollarono dal ridere.
 
-«Senti un po'» gridò l'impetuoso Tommy Hunter, «bernoccoli io non ne ho; ma tu ne avrai di sicuro qualcuno [[Well|ben]] presto, brutto...»
+«[[Hope|Spero]] di non essere importuno», disse la voce urbana e seducente del professor Phroso, quell'inconquistabile lottatore della [[Truth|verità]], «ma mi è venuto in mente che qualcuno di voi potrebbe concedere un po' di [[Time|tempo]] a quella tanto disprezzata scienza delle Protuberanze, che...»
 
-Hardcastle lo trattenne con dolcezza mentre quello si precipitava di nuovo verso la porta; e per un istante l'intera comitiva si era voltata di nuovo e guardava dentro la stanza interna.
+«Ehi, ascoltate», gridò l'impetuoso Tommy Hunter, «io non ho nessuna protuberanza; ma voi ne avrete [[Well|di certo]] di belle e buone tra poco, brutto...»
 
-Fu in quel momento che la cosa accadde. Fu ancora una volta l'impetuoso Tommy il primo a muoversi, e questa [[Time|volta]] con miglior esito. Prima che alcun altro avesse visto alcunché, quando Hardcastle si era appena rammentato con un sussulto di aver lasciato la gemma sul davanzale di pietra, Tommy aveva attraversato il chiostro con il balzo di un gatto e, sporgendosi con il capo e le spalle fuori dell'apertura fra due colonne, aveva gridato con una voce che risuonò per tutte le arcate: «L'ho preso!»
+Hardcastle lo trattenne con dolcezza mentre si precipitava di nuovo attraverso la porta; e per un momento tutto il gruppo si era voltato di nuovo e guardava indietro nella sala interna.
 
-In quell'istante di [[Time|tempo]], subito dopo che si erano voltati e subito prima di udire il suo grido trionfante, avevano tutti visto la cosa accadere. Dietro l'angolo di una delle due colonne era guizzata dentro e fuori una mano bruna, o piuttosto color bronzo, del colore dell'oro spento; simile a quelle che avevano visto altrove. La mano aveva colpito diritta come un serpente che scatta; istantanea come il guizzo della lunga lingua di un formichiere. Ma aveva ghermito il [[Jewel|gioiello]]. La lastra di pietra del davanzale della [[Window|finestra]] brillava nuda nella luce pallida e morente.
+Fu in quel momento che accadde la cosa. Fu di nuovo l'impetuoso Tommy il primo a muoversi, e questa [[Time|volta]] con effetto migliore. Prima che chiunque altro avesse visto alcunché, quando Hardcastle si era appena ricordato con un sobbalzo di aver lasciato la gemma sul davanzale di pietra, Tommy attraversò il chiostro con il balzo di un gatto e, sporgendosi con la testa e le spalle dall'apertura fra due colonne, aveva gridato con una voce che risuonò per tutti gli archi: «L'ho preso!»
 
-«L'ho preso» ansimò Tommy Hunter; «ma si dimena parecchio. Voialtri correte a tagliargli la strada davanti... in ogni caso non può essersene disfatto.»
+In quell'istante di [[Time|tempo]], subito dopo che si furono voltati, e subito prima di udire il suo grido di trionfo, l'avevano tutti visto accadere. Intorno all'angolo di una delle due colonne era guizzata dentro e fuori di nuovo una mano bruna o piuttosto color bronzo, il colore dell'oro spento; come ne avevano vista altrove. La mano aveva colpito diritta come un serpente che scatta; istantanea come il guizzo della lunga lingua di un formichiere. Ma aveva ghermito il [[Jewel|gioiello]]. La lastra di pietra del [[Window|davanzale]] brillava nuda nella luce pallida e morente.
 
-Gli altri obbedirono, alcuni precipitandosi lungo il corridoio, altri scavalcando il muretto, cosicché una piccola folla, composta da Hardcastle, da Lord Mounteagle, da [[Father Brown]] e persino dall'inseparabile signor Phroso dei bernoccoli, ebbe presto circondato il prigioniero Maestro della Montagna, che Hunter teneva stretto disperatamente per il colletto con una mano, scuotendolo ogni tanto in un modo assai poco riguardoso della dignità dei Profeti come categoria.
+«L'ho preso», ansimò Tommy Hunter; «ma si divincola parecchio. Voialtri corretegli davanti... non può essersene disfatto, in ogni caso.»
 
-«Adesso lo teniamo, comunque» disse Hunter, mollando la presa con un sospiro. «Non ci resta che perquisirlo. L'oggetto dev'essere qui.»
+Gli altri obbedirono, alcuni correndo lungo il corridoio e altri scavalcando il muretto basso, con il risultato che una piccola folla, composta da Hardcastle, Lord Mounteagle, [[Father Brown]] e perfino l'inseparabile signor Phroso delle protuberanze, ebbe presto circondato il catturato Maestro della Montagna, cui Hunter si aggrappava disperatamente per il colletto con una mano, scuotendolo di tanto in tanto in una maniera assai poco riguardosa alla dignità dei Profeti come categoria.
 
-Tre quarti d'ora più tardi. Hunter e Hardcastle, i loro cilindri, le cravatte, i guanti, gli sparati e le ghette alquanto malconci per le recenti fatiche, si trovarono faccia a faccia nel chiostro e si scrutarono a vicenda.
+«Ora l'abbiamo preso, in ogni caso», disse Hunter, lasciando la presa con un sospiro. «Non ci resta che perquisirlo. La cosa dev'essere qui.»
 
-«[[Well|Ebbene]]» chiese Hardcastle con misura, «hai qualche idea sul mistero?»
+Tre quarti d'ora dopo. Hunter e Hardcastle, con i loro cilindri, le cravatte, i guanti, i panciotti e le ghette alquanto malconci per le loro recenti attività, si trovarono faccia a faccia nel chiostro e si guardarono l'un l'altro.
 
-«Che diamine» replicò Hunter; «non puoi chiamarlo un mistero. Perbacco, l'abbiamo visto tutti con i nostri occhi prenderlo.»
+«[[Well]]», chiese Hardcastle con misura, «avete qualche idea sul mistero?»
 
-«Sì» replicò l'altro, «ma non l'abbiamo visto tutti con i nostri occhi perderlo. E il mistero è: dove l'ha perso, se non riusciamo a trovarlo?»
+«Al diavolo», rispose Hunter; «non potete chiamarlo un mistero. Ma se l'abbiamo visto tutti prenderlo con i nostri occhi.»
 
-«Da qualche parte dev'essere» disse Hunter. «Hai frugato nella fontana e tutt'intorno a quel vecchio dio marcio là?»
+«Sì», rispose l'altro, «ma non l'abbiamo tutti visto perderlo con i nostri occhi. E il mistero è: dove l'ha perso, sì che non riusciamo a trovarlo?»
 
-«Non ho sezionato i pesciolini» disse Hardcastle, sollevando il monocolo e squadrando l'altro. «Stai pensando all'anello di Policrate?»
+«Dev'essere da qualche parte», disse Hunter. «Avete cercato nella fontana e tutt'intorno a quel marcio vecchio dio là?»
 
-A quanto pare l'esame, attraverso il monocolo, del volto tondo che gli stava davanti lo persuase che esso non celava una simile meditazione sulla leggenda greca.
+«Non ho sezionato i pesciolini», disse Hardcastle, sollevando l'occhialino e squadrando l'altro. «State pensando all'anello di Policrate?»
 
-«Addosso non ce l'ha, lo ammetto» ripeté Hunter di scatto, «a meno che non l'abbia inghiottito.»
+A quanto pare la squadratura, attraverso l'occhialino, del volto tondo che aveva davanti, lo convinse che esso non celava alcuna meditazione del genere sulla leggenda greca.
 
-«Dobbiamo sezionare anche il [[Prophet|Profeta]]?» chiese l'altro sorridendo. «Ma ecco che arriva il nostro ospite.»
+«Non ce l'ha addosso, lo ammetto», ripeté Hunter, all'improvviso, «a meno che non l'abbia inghiottito.»
 
-«È una faccenda oltremodo penosa» disse Lord Mounteagle, torcendosi i bianchi baffi con mano nervosa e persino tremula. «Cosa orribile avere un furto in [[house|casa]] propria, per non [[Alone|dire]] del collegarlo a un uomo come il Maestro. Ma, lo confesso, non riesco proprio a raccapezzarmi nel modo in cui ne parla. Vorrei che veniste dentro a vedere cosa ne pensate.»
+«Dobbiamo sezionare anche il [[Prophet|profeta]]?» chiese l'altro sorridendo. «Ma ecco che arriva il nostro ospite.»
 
-Entrarono insieme, con Hunter che restava indietro e si metteva a conversare con [[Father Brown]], il quale batteva i tacchi girellando per il chiostro.
+«Questa è una faccenda oltremodo penosa», disse Lord Mounteagle, torcendosi i baffi bianchi con mano nervosa e persino tremula. «Cosa orribile avere un furto in [[house|casa]] propria, [[Alone|per non dire]] collegarlo a un uomo come il Maestro. Ma, lo confesso, non riesco proprio a raccapezzarmi nel modo in cui ne parla. Vorrei che entraste a vedere cosa ne pensate.»
 
-«Dovete essere molto forte» disse il prete affabilmente. «Lo avete tenuto con una sola mano; eppure sembrava assai vigoroso, anche quando eravamo in otto mani a trattenerlo, come uno di quegli dèi indiani.»
+Entrarono insieme, Hunter rimanendo indietro e mettendosi a chiacchierare con [[Father Brown]], che gironzolava battendo i tacchi intorno al chiostro.
 
-Fecero un giro o due per il chiostro, conversando; e poi entrarono anche loro nella stanza interna, dove il Maestro della Montagna sedeva su una panca, nella veste di prigioniero, ma con più l'aria di un [[King|re]].
+«Dovete essere molto forte», disse il prete cordialmente. «L'avete tenuto con una mano; e sembrava piuttosto vigoroso, anche quando avevamo otto mani per tenerlo, come uno di quegli dèi indiani.»
 
-Era vero, come aveva detto Lord Mounteagle, che il suo contegno e il suo tono non erano molto facili da comprendere. Parlava con un senso sereno, e tuttavia riservato, del proprio potere. Pareva piuttosto divertito dai loro suggerimenti su banali nascondigli per la gemma; e di certo non mostrava il minimo risentimento. Sembrava ridere, in un modo ancora imperscrutabile, dei loro sforzi di rintracciare ciò che tutti lo avevano visto prendere.
+Fecero un giro o due intorno al chiostro, conversando; e poi anch'essi entrarono nella sala interna, dove il Maestro della Montagna sedeva su una panca, nella veste di prigioniero, ma con più l'aria di un [[King|re]].
 
-«State imparando qualcosina» disse, con insolente benevolenza, «delle leggi del [[Time|tempo]] e dello spazio; riguardo alle quali la vostra scienza più recente è mille anni indietro rispetto alla nostra religione più antica. Non sapete nemmeno cosa significhi davvero nascondere una cosa. Anzi, miei poveri amici, non sapete nemmeno cosa significhi vedere una cosa; o forse la vedreste con la stessa chiarezza con cui la vedo io.»
+Era vero, come diceva Lord Mounteagle, che la sua aria e il suo tono non erano molto facili da capire. Parlava con un senso sereno, e tuttavia riservato, di potere. Sembrava piuttosto divertito dei loro suggerimenti su banali nascondigli per la gemma; e di certo non mostrava alcun risentimento. Sembrava ridere, in un modo ancora imperscrutabile, dei loro sforzi di rintracciare ciò che tutti l'avevano visto prendere.
 
-«Volete dire che è qui?» incalzò Hardcastle aspramente.
+«State imparando un poco», disse, con insolente benevolenza, «delle leggi del [[Time|tempo]] e dello spazio; sulle quali la vostra ultima scienza è mille anni indietro rispetto alla nostra più antica religione. Non sapete nemmeno che cosa significhi realmente nascondere una cosa. Anzi, poveri piccoli amici miei, non sapete nemmeno che cosa significhi vedere una cosa; o forse la vedreste tanto chiaramente quanto io la vedo.»
 
-«"Qui" è anch'essa una parola dai molti significati» replicò il mistico. «Ma non ho detto che fosse qui. Ho detto soltanto che potevo vederla.»
+«Volete dire che è qui?» domandò Hardcastle aspramente.
+
+«Qui è anch'esso una parola dai molti significati», rispose il mistico. «Ma non ho detto che era qui. Ho detto soltanto che potevo vederla.»
 
 Ci fu un [[Silence|silenzio]] irritato, ed egli proseguì con voce assonnata.
 
-«Se voi foste totalmente, insondabilmente silenziosi, credete che potreste udire un grido dall'altro capo del mondo? Il grido di un fedele [[Alone|solo]] su quelle [[Mountains|montagne]], dove siede l'immagine originaria, essa stessa simile a una montagna. Alcuni dicono che persino Ebrei e Musulmani potrebbero adorare quell'immagine; poiché non fu mai fatta da mano d'uomo. Udite! Sentite il grido con cui egli leva il capo e scorge, in quell'incavo di pietra rimasto vuoto per età intere, l'unica [[Moon|luna]] rossa e adirata che è l'occhio della montagna?»
+«Se voi foste totalmente, insondabilmente silenziosi, credete che potreste udire un grido dall'altro capo del mondo? Il grido di un adoratore [[Alone|solo]] su quelle [[Mountains|montagne]], dove siede l'immagine originaria, essa stessa simile a una montagna. Alcuni dicono che perfino Ebrei e Musulmani potrebbero adorare quell'immagine; perché non fu mai fatta da mano d'uomo. Ascoltate! Udite voi il grido con cui egli leva il capo e vede, in quell'incavo di pietra che è stato vuoto per epoche intere, l'unica [[Moon|luna]] rossa e adirata che è l'occhio della montagna?»
 
-«Volete davvero dire» esclamò Lord Mounteagle, un poco turbato, «che potreste farla passare da qui al Monte Meru? Un tempo credevo che aveste grandi poteri spirituali, ma...»
+«Intendete dire davvero», gridò Lord Mounteagle, un po' scosso, «che potreste farla passare di qui fino al Monte Meru? Ero solito credere che aveste grandi poteri spirituali, ma...»
 
-«Forse» disse il Maestro, «ne ho più di quanti ne crederete mai.»
+«Forse», disse il Maestro, «ne ho più di quanti voi crederete mai.»
 
-Hardcastle si [[Rose|alzò]] spazientito e cominciò a percorrere la stanza a grandi passi, con le mani in tasca.
+Hardcastle [[Rose|si levò]] con impazienza e cominciò a percorrere la stanza con le mani in tasca.
 
-«Non ho mai creduto quanto ci credevate voi; ma ammetto che poteri di un certo tipo possano... Buon Dio!»
+«Non ho mai creduto tanto quanto voi; ma ammetto che poteri di un certo tipo possano... Buon Dio!»
 
-La sua voce alta e dura s'era spezzata a mezz'aria, ed egli rimase impietrito a fissare; il monocolo gli cadde dall'occhio. Tutti volsero il viso nella medesima direzione; e su ogni volto pareva dipinta la stessa animazione sospesa.
+La sua voce alta e dura era stata troncata a mezz'aria, ed egli si fermò a fissare; l'occhialino gli cadde dall'occhio. Tutti volsero i volti nella stessa direzione; e su ogni volto sembrava esserci la stessa animazione sospesa.
 
-La [[Moon|Luna]] Rossa di Meru giaceva sul davanzale di pietra della [[Window|finestra]], esattamente come l'avevano vista l'ultima volta. Poteva essere una scintilla rossa soffiata lì da un falò, o un petalo di [[Rose|rosa]] rosso lasciato cadere da una [[Rose|rosa]] sfatta; ma era caduta precisamente nel punto stesso in cui Hardcastle l'aveva sbadatamente posata.
+La [[Moon|Luna]] Rossa di Meru giaceva sul [[Window|davanzale]] di pietra, esattamente come l'avevano vista l'ultima volta. Poteva essere una scintilla rossa soffiata là da un falò, o un rosso petalo di [[Rose|rosa]] gettato da una [[Rose|rosa]] recisa; ma era caduta esattamente nello stesso punto dove Hardcastle l'aveva sbadatamente deposta.
 
-Questa [[Time|volta]] Hardcastle non tentò di riprenderla; ma il suo contegno era alquanto notevole. Si voltò lentamente e riprese a passeggiare a grandi passi per la stanza; senonché nei suoi movimenti v'era qualcosa di autorevole, dove prima non v'era stato che inquietudine. Alla fine si arrestò dinanzi al Maestro, seduto, e s'inchinò con un sorriso alquanto sardonico.
+Questa [[Time|volta]] Hardcastle non tentò di riprenderla; ma il suo contegno fu alquanto notevole. Si voltò lentamente e ricominciò a incedere per la stanza; ma c'era nei suoi movimenti qualcosa di padronale, dove prima c'era stata solo irrequietezza. Infine si fermò davanti al Maestro seduto, e s'inchinò con un sorriso alquanto sardonico.
 
-«Maestro», disse, «vi dobbiamo tutti delle scuse e, quel che più conta, ci avete impartito a tutti una lezione. Credetemi, servirà da lezione [[Well|così come]] da scherzo. Ricorderò sempre i poteri davvero singolari che possedete, e con quanta innocuità li usiate. Lady Mounteagle», proseguì, volgendosi verso di lei, «mi perdonerete d'essermi rivolto prima al Maestro; ma è a voi che ebbi l'[[Honour|onore]] di offrire questa spiegazione qualche [[Time|tempo]] fa. Posso dire d'averla spiegata prima ancora che accadesse. Vi dissi che la maggior parte di queste cose può essere interpretata attraverso una qualche forma d'ipnotismo. Molti ritengono che sia questa la spiegazione di tutte quelle storie indiane sulla pianta di mango e sul ragazzo che s'arrampica su una corda gettata in aria. Non accade davvero; ma gli spettatori sono ipnotizzati fino a immaginare che accada. Così noi tutti fummo ipnotizzati fino a immaginare che questo furto fosse accaduto. Quella mano bruna che entrava dalla [[Window|finestra]] e trafugava la gemma era un'illusione momentanea; una mano [[A Dream|in sogno]]. Solo che, avendo visto sparire la pietra, non la cercammo più là dov'era prima. Ci tuffammo nello stagno e rivoltammo ogni foglia dei gigli d'[[Water|acqua]]; poco mancava che propinassimo emetici ai pesci rossi. Ma il rubino era stato qui tutto il [[Time|tempo]].»
+«Maestro», disse, «vi dobbiamo tutti delle scuse e, ciò che più conta, ci avete impartito a tutti una lezione. Credetemi, servirà [[Well|tanto]] da lezione quanto da scherzo. Ricorderò sempre i poteri davvero notevoli che possedete, e quanto innocuamente li usate. Lady Mounteagle», proseguì, voltandosi verso di lei, «mi perdonerete di essermi rivolto prima al Maestro; ma era a voi che avevo avuto l'[[Honour|onore]] di offrire questa spiegazione qualche [[Time|tempo]] fa. Posso dire che l'ho spiegata prima che accadesse. Vi dissi che la maggior parte di queste cose può essere interpretata mediante qualche sorta di ipnotismo. Molti credono che questa sia la spiegazione di tutte quelle storie indiane sulla pianta del mango e sul ragazzo che si arrampica su una corda lanciata in aria. Non accade realmente; ma gli spettatori sono mesmerizzati fino a immaginare che sia accaduto. Così noi fummo tutti mesmerizzati fino a immaginare che questo furto fosse accaduto. Quella mano bruna che entrava dalla [[Window|finestra]], e portava via di scatto la gemma, era una momentanea illusione; una mano in [[A Dream|un sogno]]. Solo che, avendo visto la pietra svanire, non la cercammo mai dov'era prima. Ci tuffammo nello stagno e rivoltammo ogni foglia delle [[Water|ninfee]]; poco ci mancò che dessimo emetici ai pesci rossi. Ma il rubino è stato qui per tutto il [[Time|tempo]].»
 
-E lanciò uno sguardo agli occhi opalescenti e alla bocca sorridente e barbuta del Maestro, e vide che il sorriso s'era fatto d'un'ombra più largo. V'era in esso qualcosa che fece balzare in piedi gli altri con un'aria di subito rilassamento e di generale, affannoso sollievo.
+E lanciò un'occhiata agli occhi opalescenti e alla bocca sorridente e barbuta del Maestro, e vide che il sorriso era di una sfumatura appena più ampio. C'era in esso qualcosa che fece balzare gli altri in piedi con un'aria di improvviso rilassamento e di generale, ansimante sollievo.
 
-«È uno scampo assai fortunato per tutti noi», disse Lord Mounteagle, sorridendo piuttosto nervosamente. «Non ci può essere il minimo [[Doubt|dubbio]] che sia come dite voi. È stato un episodio oltremodo penoso e davvero non so quali scuse...»
+«Questa è una fortunatissima salvezza per tutti noi», disse Lord Mounteagle, sorridendo piuttosto nervosamente. «Non ci può essere il minimo [[Doubt|dubbio]] che sia come dite voi. È stato un episodio oltremodo penoso e davvero non so quali scuse...»
 
-«Non ho lagnanze da muovere», disse il Maestro della Montagna, sempre sorridendo. «Voi non avete mai toccato Me.»
+«Non ho lagnanze», disse il Maestro della Montagna, sempre sorridendo. «Non Mi avete mai toccato affatto.»
 
-Mentre gli altri se ne andavano esultanti, con Hardcastle per [[Hero|eroe]] del momento, il piccolo Frenologo dai favoriti si diresse con passo indolente verso la sua tenda assurda. Voltandosi a guardare oltre la spalla, si sorprese di trovare [[Father Brown]] che lo seguiva.
+Mentre gli altri se ne andavano esultanti, con Hardcastle come [[Hero|eroe]] del momento, il piccolo Frenologo dai favoriti si avviò con passo ozioso verso la sua assurda tenda. Guardando da sopra la spalla, si sorprese di trovare [[Father Brown]] che lo seguiva.
 
-«Posso tastarvi le protuberanze?» domandò l'esperto, nel suo tono blandamente sarcastico.
+«Posso tastarvi le protuberanze?» chiese l'esperto, nel suo tono lievemente sarcastico.
 
-«Non credo che vogliate tastarne più alcuna, non è vero?» disse il prete di buon umore. «Voi siete un [[Detective|investigatore]], non è così?»
+«Non credo che vogliate più tastarne, vero?» disse il prete di buon umore. «Voi siete un [[Detective|investigatore]], non è così?»
 
-«Già», rispose l'altro. «Lady Mounteagle mi ha chiesto di tenere d'occhio il Maestro, non essendo affatto una [[Fool|sciocca]], a dispetto di tutto il suo misticismo; e quando egli ha lasciato la sua tenda, non ho potuto seguirlo se non comportandomi da seccatore e da monomaniaco. Se qualcuno fosse entrato nella mia tenda, mi sarebbe toccato cercare le Protuberanze in un'enciclopedia.»
+«Già», rispose l'altro. «Lady Mounteagle mi ha chiesto di tenere d'occhio il Maestro, non essendo affatto una [[Fool|sciocca]], nonostante tutto il suo misticismo; e quando egli lasciò la sua tenda, non potei seguirlo se non comportandomi come una seccatura e un monomaniaco. Se qualcuno fosse entrato nella mia tenda, avrei dovuto cercare Protuberanze in un'enciclopedia.»
 
-«Protuberanze, ma guarda un po'; vedi Folk-Lore», osservò [[Father Brown]], sognante. «[[Well|Ebbene]], eravate proprio nella parte a tormentare la gente... a un bazar.»
+«Protuberanze, Ma Guarda Un Po'; vedi Folclore», osservò [[Father Brown]], sognante. «[[Well]], eravate proprio nella parte a tormentare la gente... a un bazar.»
 
-«Caso curioso, non è vero?» osservò il fallace Frenologo. «Strano pensare che la cosa era là tutto il [[Time|tempo]].»
+«Caso curioso, non è vero?» osservò il fallace Frenologo. «Strano pensare che la cosa fosse là per tutto il [[Time|tempo]].»
 
 «Molto strano», disse il prete.
 
-Qualcosa nella sua voce fece fermare e fissare l'altro.
+Qualcosa nella sua voce fece fermare e fissare l'altro uomo.
 
-«Sentite un po'!» esclamò; «che cosa avete? Perché mi guardate a quel modo? Non credete forse che fosse là tutto il [[Time|tempo]]?»
+«Ehi, ascoltate!» gridò; «cos'avete che non va? Perché avete quell'aria? Non credete che fosse là per tutto il [[Time|tempo]]?»
 
-[[Father Brown]] batté le palpebre quasi avesse ricevuto un colpo; poi disse lentamente e con esitazione: «No, il fatto è... che non riesco... non riesco proprio a convincermene.»
+[[Father Brown]] batté le palpebre come se avesse ricevuto un colpo; poi disse lentamente e con esitazione: «No, il fatto è... non posso... non riesco proprio a convincermene.»
 
-«Non siete il tipo d'uomo», disse l'altro con acume, «da dire una cosa simile senza ragione. Perché non credete che il rubino fosse stato là tutto il [[Time|tempo]]?»
+«Non siete il tipo», disse l'altro con acume, «che direbbe una cosa simile senza ragione. Perché non pensate che il rubino sia stato là per tutto il [[Time|tempo]]?»
 
-«Solo perché ve l'ho rimesso io stesso», disse [[Father Brown]].
+«Solo perché ce l'ho rimesso io stesso», disse [[Father Brown]].
 
-L'altro rimase inchiodato al suolo, come uno cui i capelli si rizzino sul capo. Aprì la bocca senza proferir parola.
+L'altro uomo rimase inchiodato al posto, come chi avesse i capelli ritti in testa. Aprì la bocca senza parola.
 
-«O piuttosto», proseguì il prete, «ho persuaso il ladro a lasciarmelo rimettere. Gli ho detto ciò che avevo indovinato e gli ho mostrato che c'era ancora [[Time|tempo]] per il pentimento. Non mi dispiace confidarvelo in segreto professionale; del resto, non credo che i Mounteagle sporgeranno denuncia, ora che hanno riavuto la cosa, specie considerando chi l'ha rubata.»
+«O piuttosto», proseguì il prete, «persuasi il ladro a lasciarmelo rimettere. Gli dissi ciò che avevo indovinato e gli mostrai che c'era ancora [[Time|tempo]] per il pentimento. Non mi dispiace dirvelo in confidenza professionale; inoltre, non credo che i Mounteagle sporgerebbero denuncia, ora che hanno riavuto la cosa, specie considerando chi l'ha rubata.»
 
-«Volete dire il Maestro?» domandò il defunto Phroso.
+«Intendete il Maestro?» chiese il tardo Phroso.
 
-«No», disse [[Father Brown]], «il Maestro non l'ha rubata.»
+«No», disse [[Father Brown]], «il Maestro non l'ha rubato.»
 
-«Ma non capisco», obiettò l'altro. «Nessuno era fuori dalla [[Window|finestra]] tranne il Maestro; e una mano è venuta di certo da fuori.»
+«Ma non capisco», obiettò l'altro. «Nessuno era fuori dalla [[Window|finestra]] tranne il Maestro; e una mano venne di certo dall'esterno.»
 
-«La mano è venuta da fuori, ma il ladro è venuto da dentro», disse [[Father Brown]].
+«La mano venne dall'esterno, ma il ladro venne dall'interno», disse [[Father Brown]].
 
-«Pare che siamo di nuovo tra i mistici. Sentite, io sono un uomo pratico; volevo solo sapere se tutto è a posto col rubino...»
+«Pare che siamo di nuovo tra i mistici. Ehi, ascoltate, io sono un uomo pratico; volevo solo sapere se è tutto in ordine col rubino...»
 
-«Sapevo che tutto era fuori posto», disse [[Father Brown]], «prima ancora di sapere che ci fosse un rubino.»
+«Sapevo che era tutto sbagliato», disse [[Father Brown]], «prima ancora di sapere che c'era un rubino.»
 
-Dopo una pausa proseguì pensieroso. «Fin da quel loro battibecco, laggiù presso le tende, capii che le cose andavano storte. La gente vi dirà che le teorie non contano e che la [[logic|logica]] e la [[philosophy|filosofia]] non sono pratiche. Non credetele. La ragione viene da Dio, e quando le cose sono irragionevoli c'è qualcosa che non va. Ora, quella discussione del tutto astratta finì con qualcosa di buffo. Considerate quali erano le teorie. Hardcastle assumeva un'aria un tantino superiore e sosteneva che tutte le cose fossero perfettamente possibili; ma per lo più si compivano semplicemente per [[Mesmerism|mesmerismo]], o per chiaroveggenza; nomi scientifici per rompicapi filosofici, secondo il solito stile. Ma Hunter riteneva che fosse tutta pura frode e voleva smascherarla. Per testimonianza di Lady Mounteagle, egli non solo andava in giro a smascherare indovini e simili, ma era anzi sceso apposta per affrontare costui. Non veniva spesso; non andava d'accordo con Mounteagle, dal quale, da scialacquatore qual era, cercava sempre di farsi prestare denaro; ma quando seppe che il Maestro stava per venire, accorse in tutta fretta. Molto [[Well|bene]]. Nonostante ciò, fu Hardcastle ad andare a consultare lo stregone e Hunter a rifiutarsi. Disse che non avrebbe sprecato [[Time|tempo]] in simili sciocchezze; avendo, a quanto pare, sprecato gran parte della sua vita a dimostrare che erano sciocchezze. La cosa pare incoerente. Egli pensava che in questo caso si trattasse di lettura nella sfera di cristallo; ma scoprì che era chiromanzia.»
+Dopo una pausa proseguì pensieroso. «Fin dal principio, in quella loro discussione presso le tende, sapevo che le cose andavano storte. La gente vi dirà che le teorie non contano e che [[logic|logica]] e [[philosophy|filosofia]] non sono pratiche. Non credeteci. La ragione viene da Dio, e quando le cose sono irragionevoli c'è qualcosa che non va. Ebbene, quella discussione del tutto astratta terminò con qualcosa di buffo. Considerate quali erano le teorie. Hardcastle era un tantino sussiegoso e diceva che tutte le cose erano perfettamente possibili; ma erano per lo più compiute soltanto per mezzo del [[Mesmerism|mesmerismo]], o della chiaroveggenza; nomi scientifici per rompicapo filosofici, al modo consueto. Ma Hunter riteneva che fosse tutta pura frode e voleva smascherarla. Per testimonianza di Lady Mounteagle, egli non solo andava in giro a smascherare indovini e simili, ma era addirittura sceso apposta per affrontare questo. Non veniva spesso; non andava d'accordo con Mounteagle, dal quale, essendo uno scialacquatore, cercava sempre di farsi prestare denaro; ma quando udì che il Maestro sarebbe venuto, scese di corsa. [[Well|Benissimo]]. Nonostante ciò, fu Hardcastle ad andare a consultare il mago e Hunter a rifiutare. Disse che non avrebbe sprecato [[Time|tempo]] in simili sciocchezze; avendone a quanto pare sprecato molto della sua vita a dimostrare che erano sciocchezze. Ciò sembra incoerente. In questo caso pensava che fosse lettura nei cristalli; ma scoprì che era chiromanzia.»
 
-«Vuoi dire che se ne fece un pretesto?» chiese il suo compagno, perplesso.
+«Volete dire che se ne fece un pretesto?» chiese il suo compagno, perplesso.
 
-«Sulle prime lo credetti» rispose il prete; «ma ora so che non era un pretesto, bensì una ragione. Fu davvero scoraggiato dallo scoprire che si trattava di una chiromante, perché...»
+«Sul principio lo pensai», rispose il prete; «ma ora so che non era un pretesto, bensì una ragione. Fu davvero dissuaso dallo scoprire che si trattava di un chiromante, perché...»
 
-«[[Well|E allora]]?» incalzò l'altro, spazientito.
+«[[Well]]», domandò l'altro con impazienza.
 
-«Perché non voleva togliersi il guanto» disse [[Father Brown]].
+«Perché non voleva togliersi il guanto», disse [[Father Brown]].
 
-«Togliersi il guanto?» ripeté chi lo interrogava.
+«Togliersi il guanto?» ripeté l'interrogante.
 
-«Se lo avesse fatto» disse [[Father Brown]] con dolcezza, «avremmo visto tutti che la sua mano era già dipinta di un bruno pallido. ... Oh, sì, venne quaggiù apposta perché c'era il Maestro. Venne quaggiù pienamente preparato.»
+«Se l'avesse fatto», disse [[Father Brown]] con mitezza, «avremmo tutti visto che la sua mano era già dipinta di bruno pallido. ... Oh, sì, era proprio sceso apposta perché il Maestro era qui. Era sceso ben bene preparato.»
 
-«Vuoi dire» esclamò Phroso, «che era la mano di Hunter, dipinta di bruno, quella che entrò dalla [[Window|finestra]]? Ma se era con noi per tutto il [[Time|tempo]]!»
+«Volete dire», gridò Phroso, «che fu la mano di Hunter, dipinta di bruno, quella che entrò dalla [[Window|finestra]]? Ma se era con noi per tutto il [[Time|tempo]]!»
 
-«Va' a provarci sul posto e scoprirai che è del tutto possibile» disse il prete. «Hunter balzò in avanti e si sporse dalla [[Window|finestra]]; in un lampo poteva strapparsi il guanto, rimboccarsi la manica e spingere di nuovo la mano intorno all'altro lato del pilastro, mentre con l'altra mano afferrava l'indiano e gridava di aver preso il ladro. Notai in quel [[Time|momento]] che teneva il ladro con una sola mano, dove ogni uomo assennato ne avrebbe usate due. Ma l'altra mano stava infilando il [[Jewel|gioiello]] nella tasca dei calzoni.»
+«Andate a provarci sul posto e scoprirete che è del tutto possibile», disse il prete. «Hunter balzò in avanti e si sporse dalla [[Window|finestra]]; in un lampo poté strapparsi il guanto, rimboccarsi la manica e cacciare la mano indietro intorno all'altro lato del pilastro, mentre afferrava l'indiano con l'altra mano e gridava d'aver preso il ladro. Osservai [[Time|lì per lì]] che teneva il ladro con una sola mano, dove qualunque uomo sensato ne avrebbe usate due. Ma l'altra mano stava facendo scivolare il [[Jewel|gioiello]] nella tasca dei pantaloni.»
 
-Vi fu una lunga pausa, poi l'ex frenologo disse lentamente: «[[Well|Ebbene]], è un bel colpo. Ma la cosa continua a confondermi. Tanto per cominciare, non spiega lo strano comportamento del vecchio mago in persona. Se era del tutto [[Innocent|innocente]], perché diavolo non lo disse? Perché non si indignò all'essere accusato e perquisito? Perché se ne stette soltanto a sorridere, alludendo in modo sornione alle cose selvagge e meravigliose che avrebbe potuto fare?»
+Ci fu una lunga pausa e poi l'ex Frenologo disse lentamente. «[[Well]], questo è sbalorditivo. Ma la cosa mi lascia ancora perplesso. Per prima cosa, non spiega lo strano comportamento del vecchio mago stesso. Se era del tutto [[Innocent|innocente]], perché diavolo non lo disse? Perché non si indignò d'essere accusato e perquisito? Perché si limitò a starsene seduto sorridendo e ad accennare in modo sornione a quali cose folli e meravigliose sapeva fare?»
 
-«Ah!» esclamò [[Father Brown]], con una nota acuta nella voce: «qui tocchi il punto! Tutto ciò che questa gente non capisce e non vuole capire. Tutte le religioni sono uguali, dice Lady Mounteagle. Ah sì, perbacco! Ti dico che alcune di esse sono così diverse che l'uomo migliore di un credo sarà insensibile là dove l'uomo peggiore di un altro sarà sensibile. Ti ho detto che non mi piaceva il potere spirituale, perché l'accento cade sulla parola: potere. Non dico che il Maestro ruberebbe un rubino, molto probabilmente no; molto probabilmente non lo riterrebbe degno d'essere rubato. Non sarebbe propriamente la sua [[Temptation|tentazione]] prendere gioielli; ma sarebbe la sua [[Temptation|tentazione]] prendersi il merito di miracoli che non gli appartenevano più dei gioielli. Fu a quella specie di [[Temptation|tentazione]], a quella specie di furto, che cedette oggi. Gli piaceva che noi credessimo ch'egli possedesse meravigliosi poteri mentali capaci di far volare un oggetto materiale attraverso lo spazio; e persino quando non l'aveva fatto, ci lasciava credere di averlo fatto. Il concetto di proprietà privata non gli si sarebbe affacciato affatto, in primo luogo. La questione non gli si sarebbe presentata nella forma: "Devo rubare questo ciottolo?", ma soltanto nella forma: "Potrei far sparire un ciottolo e farlo ricomparire su una montagna lontana?". La questione di chi fosse il ciottolo gli sarebbe parsa irrilevante. È questo che intendo quando dico che l'essere religiosi è diverso. Egli è molto orgoglioso di avere ciò che chiama poteri spirituali. Ma ciò che chiama spirituale non significa ciò che noi chiamiamo morale. Significa piuttosto mentale; il potere della mente sulla materia; il mago che comanda gli elementi. Ora, noi non siamo così, nemmeno quando non siamo migliori; nemmeno quando siamo peggiori. Noi, i cui padri almeno furono cristiani, che siamo cresciuti sotto quelle arcate medievali anche se le agghindiamo con tutti i demoni dell'Asia, noi abbiamo l'[[Ambition|ambizione]] esattamente opposta e la vergogna esattamente opposta. Noi saremmo tutti ansiosi che nessuno pensasse che l'avevamo fatto. Egli era realmente ansioso che tutti pensassero che l'aveva fatto lui, persino quando non l'aveva fatto. Rubò addirittura il merito di aver rubato. Mentre noi tutti scacciavamo il delitto da noi come una serpe, egli in realtà lo adescava a sé come un incantatore di serpenti. Ma le serpi non sono animali domestici in questo paese! Qui le tradizioni della Cristianità si fanno subito sentire, sotto una prova come questa. Guarda per esempio il vecchio Mounteagle in persona! Ah, puoi essere orientale ed esoterico quanto ti pare, portare il turbante e la lunga veste e vivere di messaggi dai Mahatma; ma se un pezzetto di pietra viene rubato in [[house|casa]] tua, e i tuoi amici sono sospettati, scoprirai assai presto di essere un comune gentiluomo inglese in preda all'agitazione. L'uomo che davvero lo fece non vorrebbe mai che noi pensassimo che l'aveva fatto lui, perché anche lui era un gentiluomo inglese. Ed era anche qualcosa di ben migliore; era un ladro cristiano. [[Hope|Spero]] e credo che fosse un ladro penitente.»
+«Ah!» gridò [[Father Brown]], con una nota tagliente nella voce: «ecco dove ci si scontra! Contro tutto ciò che questa gente non capisce e non vuole capire. Tutte le religioni sono la stessa cosa, dice Lady Mounteagle. Ma davvero, perbacco! Vi dico che alcune di esse sono così diverse che il migliore degli uomini di un credo sarà insensibile là dove il peggiore di un altro sarà sensibile. Vi ho detto che non mi piaceva il potere spirituale, perché l'accento è sulla parola: potere. Non dico che il Maestro ruberebbe un rubino, molto probabilmente non lo farebbe; molto probabilmente non lo riterrebbe degno d'essere rubato. Non sarebbe una sua particolare [[Temptation|tentazione]] prendere gioielli; ma sarebbe la sua [[Temptation|tentazione]] prendersi il merito di miracoli che non gli appartenevano più dei gioielli. Fu a quella sorta di [[Temptation|tentazione]], a quella sorta di furto che egli cedette oggi. Gli piaceva farci credere di possedere meravigliosi poteri mentali capaci di far volare un oggetto materiale attraverso lo spazio; e persino quando non l'aveva fatto, ci permise di crederlo. Il punto sulla proprietà privata non gli si sarebbe affatto presentato in primo luogo. La questione non si sarebbe presentata nella forma: "Devo rubare questo sassolino?" ma solo nella forma: "Potrei far svanire un sassolino e ricomparire su una montagna lontana?" La questione di chi fosse il sassolino gli sarebbe parsa irrilevante. È questo che intendo dicendo che la religione è diversa. Egli è molto orgoglioso di avere ciò che chiama poteri spirituali. Ma ciò che lui chiama spirituale non significa ciò che noi chiamiamo morale. Significa piuttosto mentale; il potere della mente sulla materia; il mago che controlla gli elementi. Ora, noi non siamo così, anche quando non siamo migliori; anche quando siamo peggiori. Noi, i cui padri furono almeno cristiani, che siamo cresciuti sotto quegli archi medievali anche se li infronziamo con tutti i demoni dell'Asia... noi abbiamo l'[[Ambition|ambizione]] esattamente opposta e la vergogna esattamente opposta. Saremmo tutti ansiosi che nessuno pensasse che l'avevamo fatto noi. Egli era realmente ansioso che tutti pensassero che l'aveva fatto lui... anche quando non l'aveva fatto. Rubò addirittura il merito di rubare. Mentre noi allontanavamo tutti da noi il delitto come un serpente, egli lo attirava a sé come un incantatore di serpenti. Ma i serpenti non sono animali da compagnia in questo paese! Qui le tradizioni della cristianità si fanno subito sentire davanti a una prova come questa. Guardate il vecchio Mounteagle stesso, per esempio! Ah, potete essere orientali ed esoterici quanto vi pare, e portare un turbante e una lunga veste e vivere di messaggi dai Mahatma; ma se un pezzo di pietra viene rubato in [[house|casa]] vostra, e i vostri amici sono sospettati, scoprirete assai presto di essere un comune gentiluomo inglese in agitazione. L'uomo che davvero lo fece non vorrebbe mai che noi pensassimo che l'ha fatto lui, perché anche lui era un gentiluomo inglese. Era anche qualcosa di assai migliore; era un ladro cristiano. [[Hope|Spero]] e credo che fosse un ladro penitente.»
 
-«Secondo il tuo racconto» disse il suo compagno ridendo, «il ladro cristiano e l'impostore pagano andavano per opposti. Uno era spiacente d'averlo fatto, l'altro era spiacente di non averlo fatto.»
+«Stando al vostro racconto», disse il suo compagno ridendo, «il ladro cristiano e il frodatore pagano andavano per contrari. L'uno era dispiaciuto d'averlo fatto e l'altro era dispiaciuto di non averlo fatto.»
 
-«Non dobbiamo essere troppo severi con nessuno dei due» disse [[Father Brown]]. «Altri gentiluomini inglesi hanno rubato prima d'ora, e sono stati coperti da protezione legale e politica; e anche l'Occidente ha il suo modo di coprire il furto con la sofisticheria. Dopo tutto, il rubino non è l'unica specie di pietra preziosa al mondo ad aver cambiato padrone; lo stesso vale per altre pietre preziose; spesso intagliate come cammei e colorate come [[Flowers|fiori]].» L'altro lo guardò interrogativamente; e il dito del prete era puntato verso il profilo gotico della grande Abbazia. «Una grande pietra scolpita» disse, «e anch'essa fu rubata.»
+«Non dobbiamo essere troppo severi con nessuno dei due», disse [[Father Brown]]. «Altri gentiluomini inglesi hanno rubato prima d'ora, e sono stati coperti da protezione legale e politica; e anche l'Occidente ha il suo modo di coprire il furto con la sofisticheria. Dopotutto, il rubino non è l'unico genere di pietra preziosa al mondo che abbia cambiato padrone; è vero di altre pietre preziose; spesso intagliate come cammei e colorate come [[Flowers|fiori]].» L'altro lo guardò interrogativamente; e il dito del prete era puntato verso il profilo gotico della grande abbazia. «Una grande pietra scolpita», disse, «e anch'essa fu rubata.»

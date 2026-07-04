@@ -153,7 +153,7 @@ that it had flown in at the [[Window|window]] like a bird.'
 
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/works/incredulity-(chesterton)">Incredulity</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/incredulity-(chesterton)">Incredulity</a> › <a href="/testi/chesterton/atomized/incredulity/story_02_the_arrow_of_heaven">Story 02 The Arrow of Heaven</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/incredulity/story_02_the_arrow_of_heaven/part_06">‹ part 06</a><a class="ex-next" href="/testi/chesterton/atomized/incredulity/story_02_the_arrow_of_heaven/part_08">part 08 ›</a></div>
 </nav>
 

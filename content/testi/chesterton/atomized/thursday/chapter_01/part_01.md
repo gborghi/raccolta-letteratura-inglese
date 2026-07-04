@@ -116,13 +116,13 @@ In fact, Mr. [[Lucian Gregory]], the anarchic poet, connected the two events.
 
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/works/thursday-(chesterton)">The Man Who Was Thursday</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/thursday-(chesterton)">The Man Who Was Thursday</a> › <a href="/testi/chesterton/atomized/thursday/chapter_01">Chapter 01</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/thursday/chapter_15">‹ Chapter 15</a><a class="ex-next" href="/testi/chesterton/atomized/thursday/chapter_01/part_02">part 02 ›</a></div>
 </nav>
 
 # [[thursday]] — Capitolo 1 (parte 1)
 
-                          CAPITOLO I
+CAPITOLO I
 
                  I DUE POETI DI SAFFRON PARK
 

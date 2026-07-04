@@ -159,7 +159,7 @@ and on the blind face of the [[suicide]] was more than the [[Pride|pride]] of Ca
 
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/works/innocence-(chesterton)">The Innocence of Father Brown</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/innocence-(chesterton)">The Innocence of Father Brown</a> › <a href="/testi/chesterton/atomized/innocence/story_02_the_secret_garden">Story 02 The Secret Garden</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/innocence/story_02_the_secret_garden/part_06">‹ part 06</a><a class="ex-next" href="/testi/chesterton/atomized/innocence/story_03_the_queer_feet/part_01">part 01 ›</a></div>
 </nav>
 

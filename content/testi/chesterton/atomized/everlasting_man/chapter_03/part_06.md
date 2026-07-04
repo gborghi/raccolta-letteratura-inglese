@@ -194,7 +194,7 @@ of the imaginary man from the moon to whom the New Testament is new.
 
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/works/everlasting-man-(chesterton)">The Everlasting Man</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/everlasting-man-(chesterton)">The Everlasting Man</a> › <a href="/testi/chesterton/atomized/everlasting_man/chapter_03">Chapter 03</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/everlasting_man/chapter_03/part_05">‹ part 05</a><a class="ex-next" href="/testi/chesterton/atomized/everlasting_man/chapter_03/part_07">part 07 ›</a></div>
 </nav>
 

@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/scandal-fr-brown-(chesterton)">scandal Fr Brown</a> › <a href="/testi/chesterton/atomized/scandal_fr_brown/story_03_the_blast_of_the_book">Story 03 The Blast of the Book</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/scandal_fr_brown/story_02_the_quick_one/part_08">‹ part 08</a><a class="ex-next" href="/testi/chesterton/atomized/scandal_fr_brown/story_03_the_blast_of_the_book/part_02">part 02 ›</a></div>
@@ -123,3 +125,40 @@ without turning round, 'if Mr Pringle comes, send him straight in to me.
 You needn't interrupt your work; I rather want those notes finished
 tonight if possible. You might leave them on my desk tomorrow, if I am
 late.'
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/scandal-fr-brown-(chesterton)">scandal Fr Brown</a> › <a href="/testi/chesterton/atomized/scandal_fr_brown/story_03_the_blast_of_the_book">Story 03 The Blast of the Book</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/scandal_fr_brown/story_02_the_quick_one/part_08">‹ part 08</a><a class="ex-next" href="/testi/chesterton/atomized/scandal_fr_brown/story_03_the_blast_of_the_book/part_02">part 02 ›</a></div>
+</nav>
+
+TRE: L'esplosione del libro
+
+Il professor Openshaw perdeva sempre le staffe, con un fragoroso scoppio, se qualcuno lo chiamava spiritista, o credente nello spiritismo. Questo, tuttavia, non esauriva la sua carica esplosiva; giacché perdeva le staffe anche se qualcuno lo chiamava miscredente in fatto di spiritismo. Era suo [[Pride|orgoglio]] aver dedicato l'intera vita all'indagine dei fenomeni psichici; ma era altresì suo [[Pride|orgoglio]] non aver mai lasciato trapelare il minimo indizio se li ritenesse davvero psichici o meramente fenomenici. Nulla lo dilettava quanto sedere in un circolo di devoti spiritisti e fornire descrizioni devastanti di come avesse smascherato medium dopo medium e scoperto frode dopo frode; poiché in verità era uomo di molto talento e acume da [[Detective|investigatore]], una volta che avesse fissato l'occhio su un oggetto, e fissava sempre l'occhio su un medium, come sull'oggetto più sospetto. Correva voce che avesse smascherato lo stesso ciarlatano spiritista sotto tre travestimenti diversi: vestito da donna, da vecchio dalla barba bianca, e da bramino di un ricco color cioccolato. Simili resoconti rendevano i veri credenti alquanto inquieti, come del resto era loro intento; ma essi non potevano poi lagnarsene, giacché nessuno spiritista nega l'esistenza di medium fraudolenti; solo che la fluente narrazione [[The Professor|del Professore]] poteva [[Well|ben]] far intendere che tutti i medium fossero fraudolenti.
+
+Ma guai al materialista ingenuo e [[Innocent|innocente]] (e i materialisti come razza sono piuttosto [[Innocent|innocenti]] e ingenui) che, facendo affidamento su questa tendenza narrativa, avesse osato avanzare la tesi che i [[Ghosts|fantasmi]] fossero contrari alle leggi di [[Nature|natura]], o che tali cose fossero soltanto vecchie superstizioni; o che fossero tutte fandonie, o, in alternativa, sciocchezze. Costui [[The Professor|il Professore]], rovesciando d'un tratto tutte le sue batterie scientifiche, avrebbe spazzato via dal campo con una cannonata di casi incontestabili e di fenomeni inspiegati, dei quali il misero razionalista non aveva mai udito in vita sua, snocciolando tutte le date e i particolari, esponendo tutte le spiegazioni naturali tentate e abbandonate; esponendo ogni cosa, in verità, tranne se lui, John [[Oliver]] Openshaw, credesse o no negli spiriti, e ciò né lo spiritista né il materialista poterono mai vantarsi di aver scoperto.
+
+Il professor Openshaw, figura magra dai capelli pallidi e leonini e dagli occhi azzurri e ipnotici, se ne stava a scambiare qualche parola con [[Father Brown]], che gli era amico, sui gradini davanti all'albergo dove entrambi avevano fatto colazione quella mattina e dormito la [[Night|notte]] precedente. [[The Professor|Il Professore]] era rientrato piuttosto tardi da uno dei suoi grandi esperimenti, in preda a una generale esasperazione, e ancora fremeva per la battaglia che combatteva sempre [[Alone|da solo]] e contro entrambe le fazioni.
+
+«Oh, voi non m'importate,» disse ridendo. «Voi non ci credete nemmeno se è vero. Ma tutta questa gente continua a chiedermi che cosa cerco di dimostrare. Non pare capire che sono un uomo di scienza. Un uomo di scienza non cerca di dimostrare alcunché. Cerca di scoprire ciò che si dimostrerà da sé.»
+
+«Ma non l'ha ancora scoperto,» disse [[Father Brown]].
+
+«[[Well|Ebbene]], ho qualche mia piccola idea, non del tutto così negativa come la maggior parte crede,» rispose [[The Professor|il Professore]], dopo un istante di [[Silence|silenzio]] accigliato; «comunque, ho cominciato a pensare che, se c'è qualcosa da trovare, lo cercano lungo la strada sbagliata. È tutto troppo teatrale; è pura ostentazione, tutto quel loro lucido ectoplasma e le trombe e le voci e il resto; tutto sul modello dei vecchi melodrammi e dei muffiti romanzi storici sul [[Ghost|Fantasma]] di Famiglia. Se andassero alla [[history|storia]] invece che ai romanzi storici, comincio a credere che troverebbero davvero qualcosa. Ma non apparizioni.»
+
+«Dopo tutto,» disse [[Father Brown]], «le apparizioni sono soltanto apparenze. Suppongo direste che il [[Ghost|Fantasma]] di Famiglia si limita a salvare le apparenze.»
+
+Lo sguardo [[The Professor|del Professore]], che di solito aveva un bel carattere distratto, d'un tratto si fissò e si mise a fuoco come faceva su un medium dubbio. Aveva piuttosto l'aria di un uomo che si avvita nell'occhio una potente lente d'ingrandimento. Non che ritenesse il prete minimamente simile a un medium dubbio; ma fu colto di sorpresa e attirato dall'attenzione dal fatto che il pensiero dell'amico seguisse così da presso il proprio.
+
+«Apperbacco!» mormorò, «però è strano che diciate proprio questo, adesso. Più imparo, più mi pare che ci perdano a cercare soltanto le apparenze. Ora, se guardassero un po' alle Scomparse...»
+
+«Sì,» disse [[Father Brown]], «dopo tutto, le vere leggende sulle fate non parlavano poi tanto dell'apparizione di fate famose; dell'evocare [[Titania]] o del mostrare [[Oberon]] al chiaro di luna. Ma c'erano leggende senza fine su gente che spariva, perché rapita dalle fate. Siete sulle tracce di Kilmeny o di Thomas il Rimatore?»
+
+«Sono sulle tracce di gente comune e moderna, di cui avete letto sui giornali,» rispose Openshaw. «Potete [[Well|ben]] sgranare gli occhi; ma quello è il mio gioco in questo momento; e ci sono su da parecchio [[Time|tempo]]. Francamente, credo che molte apparizioni psichiche si potrebbero spiegare via. Sono le scomparse che non riesco a spiegare, a meno che non siano psichiche. Quella gente sui giornali che svanisce e non viene più ritrovata... se ne conosceste i particolari come li conosco io... e proprio stamattina ho avuto una conferma; una lettera straordinaria da un vecchio missionario, un vecchietto assai rispettabile. Verrà a trovarmi al mio ufficio stamane. Forse potreste pranzare con me o qualcosa del genere; e vi racconterei i risultati... in confidenza.»
+
+«Grazie; verrò... a meno che,» disse [[Father Brown]] modestamente, «le fate non mi abbiano rapito nel frattempo.»
+
+Con ciò si separarono, e Openshaw voltò l'angolo verso un piccolo ufficio che teneva in affitto nel vicinato; principalmente per la pubblicazione di un piccolo periodico, di note psichiche e psicologiche del genere più arido e agnostico. Aveva un solo impiegato, che sedeva a una scrivania nell'ufficio esterno, sommando cifre e fatti ai fini della relazione a stampa; e [[The Professor|il Professore]] si fermò a domandare se il signor Pringle avesse chiamato. L'impiegato rispose meccanicamente di no e continuò meccanicamente ad addizionare cifre; e [[The Professor|il Professore]] si diresse verso la stanza interna che gli faceva da studio. «Ah, a proposito, Berridge,» aggiunse, senza voltarsi, «se viene il signor Pringle, mandatemelo dentro subito. Non c'è bisogno che interrompiate il vostro lavoro; anzi, vorrei quelle note finite stasera, se possibile. Potreste lasciarmele sulla scrivania domani, se faccio tardi.»

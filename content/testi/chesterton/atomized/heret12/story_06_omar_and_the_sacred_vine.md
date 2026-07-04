@@ -245,6 +245,10 @@ know of when you go and where."
 <div class="excerpt-crumb">Chesterton · <a href="/works/heret12-(chesterton)">Heretics</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/heret12/story_05_mr_h_g_wells_and_the_giants">‹ Story 05 Mr H G Wells and the Giants</a><a class="ex-next" href="/testi/chesterton/atomized/heret12/story_07_the_mildness_of_the_yellow_press">Story 07 The Mildness of the Yellow Press ›</a></div>
 </nav>
+<nav class="excerpt-children">
+<div class="excerpt-children-label">In questa sezione</div>
+<ul><li><a href="/testi/chesterton/atomized/heret12/story_06_omar_and_the_sacred_vine/part_01">Part 1</a></li><li><a href="/testi/chesterton/atomized/heret12/story_06_omar_and_the_sacred_vine/part_02">Part 2</a></li></ul>
+</nav>
 
 # [[heret12]] — Omar e la sacra vite
 

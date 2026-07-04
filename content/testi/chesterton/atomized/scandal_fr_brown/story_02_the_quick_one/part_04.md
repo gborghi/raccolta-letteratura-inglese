@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/scandal-fr-brown-(chesterton)">scandal Fr Brown</a> › <a href="/testi/chesterton/atomized/scandal_fr_brown/story_02_the_quick_one">Story 02 The Quick One</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/scandal_fr_brown/story_02_the_quick_one/part_03">‹ part 03</a><a class="ex-next" href="/testi/chesterton/atomized/scandal_fr_brown/story_02_the_quick_one/part_05">part 05 ›</a></div>
@@ -125,3 +127,127 @@ without noticing it.'
 'Yes; and they generally see they get it too,' answered [[Father Brown]].
 'In this case, they had it all carefully carted after them to their own
 room. But this glass was left behind.'
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/scandal-fr-brown-(chesterton)">scandal Fr Brown</a> › <a href="/testi/chesterton/atomized/scandal_fr_brown/story_02_the_quick_one">Story 02 The Quick One</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/scandal_fr_brown/story_02_the_quick_one/part_03">‹ part 03</a><a class="ex-next" href="/testi/chesterton/atomized/scandal_fr_brown/story_02_the_quick_one/part_05">part 05 ›</a></div>
+</nav>
+
+«C'è anche questo, naturalmente», disse [[Father Brown]]. «Sarebbe assai
+ragionevole, per così dire, da parte del nostro amico musulmano averlo
+pugnalato. E potete dire che non conosciamo ancora nessun altro che
+potesse, con qualche ragionevolezza, averlo pugnalato. Ma... ma stavo
+pensando...» E il suo volto tondo tornò d'improvviso vacuo e ogni parola gli
+morì sulle labbra.
+
+«Che c'è adesso?» chiese l'altro.
+
+«[[Well|Beh]], so che suona buffo», disse [[Father Brown]] con voce sconsolata. «Ma
+stavo pensando... stavo pensando che, in un certo senso, non importa granché
+chi lo abbia pugnalato.»
+
+«È questa la Nuova [[morality|Morale]]?» chiese il suo amico. «O forse la vecchia
+Casistica. I gesuiti si danno davvero all'omicidio?»
+
+«Non ho detto che non importa chi lo abbia assassinato», disse [[Father Brown]].
+«Certo l'uomo che lo ha pugnalato potrebbe benissimo essere l'uomo che lo ha
+assassinato. Ma potrebbe essere un uomo del tutto diverso. Comunque sia, fu
+fatto in un [[Time|momento]] del tutto diverso. Immagino che vorrete lavorare
+sull'impugnatura in cerca di impronte digitali; ma non date loro troppo
+peso. Posso immaginare altre ragioni per cui altre persone abbiano
+conficcato questo coltello nel povero vecchio. Non ragioni molto edificanti,
+naturalmente, ma ben distinte dall'omicidio. Dovrete piantargli ancora
+qualche coltello, prima di venirne a capo.»
+
+«Volete dire...» cominciò l'altro, scrutandolo con attenzione.
+
+«Voglio dire l'autopsia», disse il prete, «per trovare la vera causa
+della [[Death|morte]].»
+
+«Avete perfettamente ragione, credo», disse l'Ispettore, «riguardo alla
+pugnalata, in ogni caso. Dobbiamo aspettare il medico; ma sono quasi certo
+che dirà che avete ragione. Non c'è abbastanza [[Blood|sangue]]. Questo coltello fu
+conficcato nel cadavere quand'era ormai freddo da ore. Ma perché?»
+
+«Forse per dare la colpa al maomettano», rispose [[Father Brown]]. «Piuttosto
+meschino, lo ammetto, ma non necessariamente omicidio. Ho l'impressione che
+in questo posto ci sia gente che cerca di serbare [[Secrets|segreti]], senza per
+questo essere per forza assassini.»
+
+«Non ho ancora fatto congetture su questa linea», disse Greenwood. «Cosa
+ve lo fa pensare?»
+
+«Ciò che ho detto ieri, quando siamo entrati per la prima volta in questa
+orribile stanza. Ho detto che sarebbe stato facile commettere un omicidio
+qui. Ma non pensavo a tutte quelle stupide armi, benché voi credeste di sì.
+A tutt'altra cosa.»
+
+Per le ore successive l'Ispettore e il suo amico condussero un'indagine
+minuziosa e accurata sugli andirivieni di tutti quanti nelle ultime
+ventiquattro ore, sul modo in cui le bevande erano state distribuite, sui
+bicchieri lavati o non lavati, e su ogni particolare riguardante ogni
+singola persona coinvolta, o apparentemente non coinvolta. Si sarebbe
+potuto supporre che credessero fossero state avvelenate trenta persone, e
+non una sola, come [[Well|del resto]] era.
+
+Pareva certo che nessuno fosse entrato nell'edificio se non per il grande
+ingresso attiguo al bar; tutti gli altri erano bloccati in un modo o
+nell'altro dai lavori. Un ragazzo aveva pulito i gradini fuori da
+quest'ingresso; ma non aveva nulla di molto chiaro da riferire. Fino allo
+strabiliante ingresso del turco col turbante, con il suo conferenziere
+astemio, non pareva esserci stato molto avventore d'alcun genere, tranne i
+commessi viaggiatori entrati a prendere quelli che chiamavano «quick ones»,
+i loro sorsetti veloci; e parevano essersi mossi tutti insieme, come la
+Nuvola di Wordsworth; c'era una lieve divergenza d'opinione tra il ragazzo
+di fuori e gli uomini di dentro sul fatto che uno di loro non fosse stato
+anormalmente svelto a procurarsi il suo sorso, ed uscito da solo sulla
+soglia; ma il direttore e il barista non serbavano alcun [[Memory|ricordo]] di un
+simile individuo indipendente. Il direttore e il barista conoscevano
+[[Well|benissimo]] tutti i viaggiatori, e non c'era alcun [[Doubt|dubbio]] sui loro movimenti
+nel complesso. Erano stati in piedi al bar a scherzare e a bere; erano stati
+coinvolti, tramite il loro altero capo, il signor Jukes, in un alterco non
+troppo serio col signor Pryce-[[Jones]]; e avevano assistito all'improvviso e
+assai serio alterco tra il signor Akbar e il signor Raggley. Poi era stato
+loro detto che potevano trasferirsi nella Sala Commerciale, e così avevano
+fatto, le loro bevande portate dietro a loro come un trofeo.
+
+«C'è ben poco su cui basarsi», disse l'Ispettore Greenwood. «Naturalmente
+un mucchio di solerti domestici deve fare il proprio dovere come al solito,
+e ha lavato tutti i bicchieri; compreso quello del vecchio Raggley. Se non
+fosse per l'efficienza di tutti gli altri, noi investigatori potremmo
+essere alquanto efficienti.»
+
+«Lo so», disse [[Father Brown]], e la sua bocca riprese il sorriso storto.
+«Talvolta penso che siano stati i criminali a inventare l'igiene. O forse i
+riformatori igienisti hanno inventato il crimine; ne hanno l'aria, certuni.
+Tutti parlano di sozzi covi e luridi bassifondi in cui il crimine può
+scatenarsi; ma è proprio il contrario. Sono detti sozzi non perché vi si
+commettano delitti, ma perché vi si scoprono delitti. È nei luoghi lindi,
+immacolati, puliti e ordinati che il crimine può scatenarsi; niente fango a
+lasciare impronte; niente fondi di bicchiere a contenere il [[Poison|veleno]];
+gentili domestici che lavano via ogni traccia dell'omicidio; e l'assassino
+che uccide e crema sei mogli, e tutto per mancanza di un po' di cristiana
+sporcizia. Forse mi esprimo con troppo calore, ma guardate qui. Si dà il
+caso che io ricordi un bicchiere, che senza dubbio è stato lavato da allora,
+ma sul quale vorrei saperne di più.»
+
+«Intendete il bicchiere di Raggley?» chiese Greenwood.
+
+«No; intendo il bicchiere di Nessuno», rispose il prete. «Stava vicino a
+quel bicchiere di latte e conteneva ancora un dito o due di whisky. [[Well|Ebbene]],
+voi e io non abbiamo bevuto whisky. Mi capita di ricordare che il direttore,
+quando fu offerto da bere dal gioviale Jukes, prese «un goccio di gin».
+[[Hope|Spero]] che non vogliate suggerire che il nostro musulmano fosse un bevitore
+di whisky travestito da turbante verde; o che il reverendo David Pryce-[[Jones]]
+sia riuscito a bere whisky e latte insieme, senza accorgersene.»
+
+«La maggior parte dei commessi viaggiatori ha preso whisky», disse
+l'Ispettore. «Di solito fanno così.»
+
+«Sì; e di solito badano bene di averlo», rispose [[Father Brown]]. «In questo
+caso, se lo fecero portare tutto con cura nella loro stanza. Ma questo
+bicchiere fu lasciato indietro.»

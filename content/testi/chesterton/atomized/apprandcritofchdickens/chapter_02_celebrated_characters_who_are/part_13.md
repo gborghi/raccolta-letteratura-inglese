@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/apprandcritofchdickens-(chesterton)">ApprAndCritOfChDickens</a> › <a href="/testi/chesterton/atomized/apprandcritofchdickens/chapter_02_celebrated_characters_who_are">Chapter 02 celebrated characters who are</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/apprandcritofchdickens/chapter_02_celebrated_characters_who_are/part_12">‹ part 12</a><a class="ex-next" href="/testi/chesterton/atomized/apprandcritofchdickens/chapter_02_celebrated_characters_who_are/part_14">part 14 ›</a></div>
@@ -183,3 +185,182 @@ half-baked battalions of the Revolution. And, like Napoleon, he won
 battle after battle before he knew his own plan of campaign; like
 
 Napoleon, he put the enemies' forces to rout before he had put his own
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/apprandcritofchdickens-(chesterton)">ApprAndCritOfChDickens</a> › <a href="/testi/chesterton/atomized/apprandcritofchdickens/chapter_02_celebrated_characters_who_are">Chapter 02 celebrated characters who are</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/apprandcritofchdickens/chapter_02_celebrated_characters_who_are/part_12">‹ part 12</a><a class="ex-next" href="/testi/chesterton/atomized/apprandcritofchdickens/chapter_02_celebrated_characters_who_are/part_14">part 14 ›</a></div>
+</nav>
+
+così come il signor [[Shaw]] è un opportunista in politica. Il cameriere di Dickens è
+
+pronto a battersi con serietà per «i veri principî dell'arte del servire»,
+
+proprio come Dickens era pronto a battersi per i veri principî del
+
+liberalismo. Il cameriere del signor [[Shaw]] è agnostico; il suo motto è «Non si può
+
+mai sapere». Il cameriere di Dickens è dogmatico; il suo motto è «Si può sapere; e
+
+io ve lo dirò». E il vecchio cameriere inglese all'antica aveva davvero
+
+quest'atteggiamento [[Grave|grave]] e persino morale; era il servitore degli avventori
+
+come il sacerdote è il servitore dei fedeli, ma in un senso appena meno
+
+dignitoso. Non è certo per mera parzialità patriottica che si
+
+rimpiange la scomparsa di questa figura scrupolosa e onorata,
+
+soppiantata da uomini più meschini a mercedi più meschine, dal cameriere tedesco che ha
+
+imparato cinque lingue nel corso della fuga dalla propria, o dal
+
+cameriere italiano che guarda coloro che serve con un tenebroso disprezzo
+
+il quale dev'essere certamente o quello di un dinamitardo o quello di un principe in esilio.
+
+L'umano e ospitale cameriere inglese sta svanendo. E Dickens forse
+
+avrebbe potuto salvarlo, come salvò il Natale.
+
+Ho preso questo caso del cameriere in Dickens e del suo altrettanto
+
+importante corrispondente in Inghilterra come esempio degli schizzi sinceri e cordiali
+
+disseminati in questi racconti brevi. Ma ve ne sono molti altri,
+
+e almeno uno esige una menzione particolare; alludo alla signora Lirriper, la
+
+locandiera di [[London|Londra]]. Non solo Dickens non fece mai nulla di meglio in senso
+
+letterario, ma non adempì mai più perfettamente alla sua principale
+
+funzione morale, quella d'insistere, tra il riso e la leggerezza, sulla
+
+virtù della [[Charity|carità]] cristiana. Molta grossa farsa è stata scritta contro la
+
+padrona di [[house|pensione]]: egli [[Alone|solo]] avrebbe potuto scrivere grossa farsa in suo
+
+favore. È di moda rappresentare la locandiera come una [[Tyrant|tiranna]]; si
+
+dimentica troppo che, se è una degli oppressori, è almeno
+
+altrettanto una degli oppressi. Se è d'umore acido, spesso lo è per le
+
+stesse ragioni che rendono acide tutte le donne (immagino le
+
+qualità esasperanti dell'altro sesso); se è avida, spesso lo è
+
+perché, quando un marito fa della generosità un vizio, è spesso necessario
+
+che una moglie faccia dell'avarizia una virtù. Tutto questo Dickens lo suggerì
+
+con grande solidità e in pochi tratti nel personaggio più remoto della signorina
+
+Wozenham. Ma nella signora Lirriper si spinse oltre, e non se ne trovò peggio.
+
+Nella signora Lirriper suggerì con piena verità quale enorme massa di autentico buon
+
+[[Humour|umore]], di grande pazienza inconsapevole, di infallibile cortesia e
+
+di costante e ardua benevolenza si celi dietro più d'una
+
+porta di [[house|pensione]] e stia raccolta nella persona dal volto rubizzo di più d'una
+
+sconclusionata locandiera. Chiunque potrebbe facilmente scusare il mal[[Humour|umore]] dei
+
+poveri. Ma grandi masse di poveri non hanno neppure un mal[[Humour|umore]] da
+
+scusare. La loro allegria è abbastanza sorprendente da essere il fondamento di una
+
+sacra rappresentazione; ed è certo abbastanza sorprendente da essere il fondamento di
+
+un [[Romance|romanzo]]. Eppure non conosco alcun [[Romance|romanzo]] in cui essa sia espressa
+
+tranne questo.
+
+Della locandiera, come del cameriere, si può dire che Dickens lasciò in un
+
+lieve [[Sketch|schizzo]] ciò che avrebbe potuto sviluppare in un lungo e robusto
+
+[[Novel|romanzo]]. Perché Dickens teneva salda una grande [[Truth|verità]], la cui trascuratezza
+
+ha, per così dire, troncato e reso magra l'opera di molti brillanti
+
+romanzieri moderni. I romanzieri moderni cercano di trarre lunghi romanzi da caratteri
+
+sottili. Ma un carattere sottile giunge presto alla fine, perché
+
+lavora sempre più addentro verso il proprio centro e vi muore. Ma un semplice
+
+carattere prosegue in eterno in un interesse ed un'energia sempre freschi, perché
+
+lavora sempre più in fuori verso l'universo infinito. Il signor George Moore in Francia
+
+non è affatto tanto interessante quanto la signora Lirriper in Francia; perché ella
+
+sta cercando di trovare la Francia, ed egli sta soltanto cercando di trovare George Moore.
+
+La signora Lirriper è l'equivalente femminile del signor [[Pickwick]]. A differenza della signora
+
+Bardell (un'altra e minore locandiera), ella era pienamente degna di essere la signora
+
+[[Pickwick]]. Poiché in entrambi i casi la [[Truth|verità]] essenziale è la stessa; quella
+
+[[innocence|innocenza]] originaria che [[Alone|sola]] merita le avventure e che, [[Alone|sola]], poiché
+
+sa apprezzarle. Abbiamo avuto il signor [[Pickwick]] in Inghilterra e possiamo
+
+immaginarlo in Francia. Abbiamo avuto la signora Lirriper in Francia e possiamo
+
+immaginarla in Mesopotamia o in cielo. Il carattere sottile dei
+
+romanzi moderni non lo possiamo davvero immaginare in alcun luogo, tranne che nei sobborghi o
+
+nel Limbo.
+
+CASA [[house|DESOLATA]]
+
+_Casa desolata_ non è certo il libro migliore di Dickens; ma forse è
+
+il suo miglior [[Novel|romanzo]]. Una simile distinzione non è un mero gioco di parole; va
+
+anzi ricordata con una certa costanza a proposito della sua opera. Questa
+
+storia in particolare rappresenta il punto più alto della sua
+
+maturità intellettuale. Maturità non significa necessariamente perfezione. È ozioso
+
+dire che una patata matura è perfetta; a certuni piacciono le patate novelle. Una
+
+patata matura non è perfetta, ma è una patata matura; la mente di un
+
+intelligente buongustaio potrà trovarla meno adatta al suo scopo particolare;
+
+ma la mente di una patata intelligente la riconoscerebbe subito come, al
+
+di là di ogni [[Doubt|dubbio]], un genuino esemplare pienamente sviluppato della propria
+
+particolare specie. Lo stesso è in qualche misura vero anche della letteratura.
+
+Possiamo dire più o meno quando un essere umano è giunto alla piena
+
+crescita mentale, anche se ci spingiamo fino ad augurarci che non vi fosse mai giunto.
+
+I bambini sono assai più simpatici degli adulti; ma esiste pur
+
+qualcosa come il crescere. Quando Dickens scrisse _Casa desolata_ era cresciuto.
+
+Come Napoleone, aveva formato il suo esercito durante la marcia. Aveva camminato davanti
+
+alla sua turba di personaggi aggressivi come Napoleone davanti ai
+
+battaglioni acerbi della Rivoluzione. E, come Napoleone, vinse
+
+battaglia dopo battaglia prima di conoscere il proprio piano di campagna; come
+
+Napoleone, mise in rotta le forze nemiche prima di aver messo le proprie

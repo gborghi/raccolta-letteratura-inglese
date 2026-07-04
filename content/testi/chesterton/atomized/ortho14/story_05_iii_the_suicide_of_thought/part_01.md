@@ -128,7 +128,7 @@ modern world is at war with reason; and the tower already reels.
 
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/works/ortho14-(chesterton)">Orthodoxy</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/ortho14-(chesterton)">Orthodoxy</a> › <a href="/testi/chesterton/atomized/ortho14/story_05_iii_the_suicide_of_thought">Story 05 Iii The Suicide Of Thought</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/ortho14/story_04_ii_the_maniac/part_05">‹ part 05</a><a class="ex-next" href="/testi/chesterton/atomized/ortho14/story_05_iii_the_suicide_of_thought/part_02">part 02 ›</a></div>
 </nav>
 

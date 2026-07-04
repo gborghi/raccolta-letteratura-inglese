@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/scandal-fr-brown-(chesterton)">scandal Fr Brown</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/scandal_fr_brown/story_09_i_mean_it_s_easy_to_say_you_ve_thrown_it">‹ Story 09 I mean it s easy to say you ve thrown it</a><a class="ex-next" href="/testi/chesterton/atomized/scandal_fr_brown/story_11_the_vampire_of_the_village">Story 11 The Vampire of the Village ›</a></div>
@@ -733,3 +735,250 @@ against the darkness of the vaulted shadows, as it blazed against the
 black enigma of the universe. For some are convinced that this enigma
 also is an Insoluble Problem. And others have equal certitude that it
 has but one solution.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/scandal-fr-brown-(chesterton)">scandal Fr Brown</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/scandal_fr_brown/story_09_i_mean_it_s_easy_to_say_you_ve_thrown_it">‹ Story 09 I mean it s easy to say you ve thrown it</a><a class="ex-next" href="/testi/chesterton/atomized/scandal_fr_brown/story_11_the_vampire_of_the_village">Story 11 The Vampire of the Village ›</a></div>
+</nav>
+<nav class="excerpt-children">
+<div class="excerpt-children-label">In questa sezione</div>
+<ul><li><a href="/testi/chesterton/atomized/scandal_fr_brown/story_10_the_insoluble_problem/part_01">Part 1</a></li><li><a href="/testi/chesterton/atomized/scandal_fr_brown/story_10_the_insoluble_problem/part_02">Part 2</a></li><li><a href="/testi/chesterton/atomized/scandal_fr_brown/story_10_the_insoluble_problem/part_03">Part 3</a></li><li><a href="/testi/chesterton/atomized/scandal_fr_brown/story_10_the_insoluble_problem/part_04">Part 4</a></li><li><a href="/testi/chesterton/atomized/scandal_fr_brown/story_10_the_insoluble_problem/part_05">Part 5</a></li><li><a href="/testi/chesterton/atomized/scandal_fr_brown/story_10_the_insoluble_problem/part_06">Part 6</a></li></ul>
+</nav>
+
+OTTO: Il problema insolubile
+
+Questo bizzarro episodio, per certi versi forse il più bizzarro tra i molti che gli capitarono, accadde a [[Father Brown]] nel [[Time|tempo]] in cui il suo amico francese [[Flambeau]] si era ritirato dalla professione del delitto ed era entrato con grande energia e [[success|successo]] nella professione dell'investigatore criminale. Volle il caso che, tanto come ladro quanto come acchiappaladri, [[Flambeau]] si fosse piuttosto specializzato nella materia dei furti di [[Jewel|gioielli]], nella quale gli si riconosceva la competenza di un esperto, sia nel riconoscere i gioielli sia nell'altrettanto pratica faccenda di riconoscere i ladri di [[Jewel|gioielli]]. E fu proprio in connessione con la sua speciale conoscenza di questo soggetto, e con un incarico speciale che essa gli aveva procurato, che egli telefonò all'amico prete quella particolare mattina con cui questa storia comincia.
+
+[[Father Brown]] fu lietissimo di udire la voce del vecchio amico, anche se al telefono; ma in generale, e specialmente in quel particolare momento, [[Father Brown]] non amava molto il telefono. Egli era di quelli che preferiscono osservare i volti della gente e sentire le atmosfere sociali, e sapeva [[Well|bene]] che, senza queste cose, i messaggi verbali sono soggetti a riuscire assai ingannevoli, soprattutto quando vengono da perfetti sconosciuti. E pareva che, proprio quella mattina, uno sciame di perfetti sconosciuti gli avesse ronzato nell'orecchio con messaggi verbali più o meno oscuri; il telefono sembrava posseduto da un demone della banalità. Forse la voce più singolare fu quella che gli chiese se non rilasciasse regolari permessi per l'omicidio e il furto dietro pagamento di una regolare tariffa esposta nella sua chiesa; e poiché lo sconosciuto, informato che così non era, concluse il colloquio con una risata cavernosa, si può presumere che rimanesse non convinto. Poi una voce femminile agitata e alquanto sconnessa lo chiamò pregandolo di recarsi subito in un certo albergo di cui aveva sentito parlare, a una quarantina di miglia lungo la [[Road|strada]] per una vicina città con [[Cathedral|cattedrale]]; richiesta immediatamente seguita da una smentita nella stessa voce, ancor più agitata e ancor più sconnessa, che gli diceva che non aveva importanza e che dopotutto non c'era bisogno di lui. Poi venne l'intermezzo di un'agenzia di stampa che gli chiedeva se avesse qualcosa da dire su ciò che una certa Attrice Cinematografica aveva dichiarato a proposito dei Baffi per Uomo; e infine ancora un terzo ritorno dell'agitata e sconnessa signora dell'albergo, che diceva che, dopotutto, c'era bisogno di lui. Egli suppose vagamente che ciò segnasse qualcuna di quelle esitazioni e paure non ignote a coloro che virano vagamente in direzione dell'Istruzione religiosa, ma confessò a se stesso un considerevole sollievo quando la voce di [[Flambeau]] chiuse la serie con una cordiale minaccia di presentarsi immediatamente per la colazione.
+
+[[Father Brown]] avrebbe di gran lunga preferito conversare con un amico seduto comodamente davanti a una pipa, ma ben presto apparve che il suo visitatore era sul sentiero di guerra e pieno d'energia, con ogni intenzione di trascinarsi via prigioniero il piccolo prete in una qualche importante spedizione tutta sua. È vero che era coinvolta una circostanza speciale, la quale si poteva supporre reclamasse l'attenzione del prete. [[Flambeau]] aveva figurato parecchie volte negli ultimi tempi come colui che sventava con successo il furto di celebri pietre preziose; aveva strappato la tiara della Duchessa di Dulwich dalla mano stessa del bandito mentre questi fuggiva a precipizio attraverso il [[Garden|giardino]]. Aveva teso una trappola così ingegnosa al criminale che progettava di portar via la celebre Collana di Zaffiri, che l'[[artist|artista]] in questione si portò via effettivamente la copia che egli stesso aveva progettato di lasciare come sostituto.
+
+Tali erano senza dubbio le ragioni che avevano condotto a convocarlo appositamente per vigilare sulla consegna di un tesoro di natura piuttosto diversa; forse ancor più prezioso nella sola materia di cui era fatto, ma dotato anche di un altro genere di valore. Un reliquiario famoso in tutto il mondo, che si supponeva contenesse una reliquia di Santa Dorotea la martire, doveva essere consegnato al monastero cattolico di una città con [[Cathedral|cattedrale]]; e si supponeva che uno dei più celebri ladri di [[Jewel|gioielli]] internazionali vi avesse messo gli occhi sopra; o meglio, presumibilmente, sull'oro e sui rubini della sua montatura, più che sulla sua importanza puramente agiografica. Forse c'era qualcosa in questa associazione di idee che faceva sentire a [[Flambeau]] che il prete sarebbe stato un compagno particolarmente adatto per la sua avventura; comunque sia, gli piombò addosso, spirando [[Fire|fuoco]] e [[Ambition|ambizione]] e assai loquace intorno ai suoi piani per impedire il furto.
+
+[[Flambeau]] infatti troneggiava gigantesco davanti al focolare del prete, nella vecchia posa spavalda del moschettiere, arricciandosi i grandi baffi.
+
+«Non potete,» esclamò, riferendosi alle sessanta miglia di [[Road|strada]] fino a Casterbury. «Non potete permettere che una profana rapina simile avvenga proprio sotto il vostro naso.»
+
+La reliquia non doveva giungere al monastero prima di sera; e non c'era bisogno che i suoi difensori arrivassero prima; giacché in verità un [[Journey|viaggio]] in automobile avrebbe preso loro la maggior parte della giornata. Per di più, Padre Brown osservò con noncuranza che c'era una locanda lungo la [[Road|strada]], nella quale avrebbe preferito pranzare, poiché lo si era già invitato a farvi una capatina appena gli fosse stato comodo.
+
+Mentre procedevano in automobile attraverso un paesaggio densamente boscoso ma scarsamente abitato, nel quale locande e ogni altro edificio parevano farsi sempre più rari, la luce del giorno cominciò ad assumere il carattere di un tempestoso crepuscolo persino nella calura del [[Noon|mezzogiorno]]; e cupe nuvole di porpora si radunavano sopra cupe foreste grigie. Come accade sotto la sinistra quiete di quel genere di luce, quel poco di colore che c'era nel paesaggio acquistava una sorta di bagliore segreto che non si trova negli oggetti sotto il pieno sole; e frastagliate [[Leaves|foglie]] rosse o funghi dorati o arancioni parevano ardere di un cupo [[Fire|fuoco]] tutto loro. Sotto una tale mezza luce giunsero a uno squarcio nel bosco simile a una grande breccia in un muro grigio, e videro al di là, ritta sopra il varco, l'alta e piuttosto stramba locanda che portava il nome di Green Dragon.
+
+I due vecchi compagni erano spesso arrivati insieme a locande e ad altre dimore umane, e vi avevano trovato uno stato di cose alquanto singolare; ma i segni della singolarità si erano di rado manifestati così presto. Poiché mentre la loro automobile era ancora a qualche centinaio di iarde dalla porta verde scuro, che si intonava alle imposte verde scuro dell'edificio alto e stretto, la porta fu spalancata con violenza e una donna con una selvaggia zazzera di capelli rossi si precipitò loro incontro, come pronta ad abbordare l'automobile in piena corsa. [[Flambeau]] arrestò la vettura, ma quasi prima che l'avesse fatto, ella cacciò il suo volto bianco e tragico dentro il [[Window|finestrino]], gridando:
+
+«Siete voi [[Father Brown]]?» e poi, quasi nello stesso respiro: «chi è quest'uomo?»
+
+«Questo signore si chiama [[Flambeau]],» disse [[Father Brown]] con maniera tranquilla, «e che cosa posso fare per voi?»
+
+«Venite dentro la locanda,» disse ella, con straordinaria bruschezza persino date le circostanze. «È stato commesso un delitto.»
+
+Scesero dall'automobile in [[Silence|silenzio]] e la seguirono fino alla porta verde scuro che si apriva verso l'interno su una specie di pergolato verde scuro, formato di pali e di pilastri di legno, inghirlandato di vite e d'edera, che mostrava [[Leaves|foglie]] squadrate di nero e di rosso e di molte tinte fosche. Questo conduceva a sua volta, attraverso una porta interna, a una specie di ampio salotto ornato di arrugginiti trofei d'armi cavalleresche, il cui mobilio pareva antiquato e per giunta in gran disordine, come l'interno di un ripostiglio. Per un momento restarono davvero trasaliti; poiché parve che un grosso pezzo di cianfrusaglia si [[Rose|levasse]] e movesse verso di loro; tanto polveroso e sciatto e sgraziato era l'uomo che così abbandonava quello che sembrava uno stato di permanente immobilità.
+
+Strano a dirsi, l'uomo pareva avere una certa agilità di cortesia, una volta che si moveva davvero; anche se essa suggeriva le giunture di legno di una cerimoniosa scala a libretto o di un ossequioso [[Horse|stendibiancheria]]. Sia [[Flambeau]] sia [[Father Brown]] sentirono di non aver quasi mai posato gli occhi su un uomo tanto difficile da collocare. Non era ciò che si chiama un gentiluomo; eppure aveva qualcosa della polverosa raffinatezza dello studioso; c'era in lui qualcosa di vagamente equivoco o declassato; e tuttavia il suo odore era piuttosto quello del topo di biblioteca che quello del bohémien. Era magro e pallido, con il naso appuntito e una scura barba a punta; la fronte era calva, ma i capelli dietro lunghi e lisci e stopposi; e l'espressione dei suoi occhi era quasi interamente mascherata da un paio di occhiali azzurri. [[Father Brown]] sentì di aver già incontrato qualcosa del genere in qualche luogo, e molto [[Time|tempo]] addietro; ma non riusciva più a dargli un nome. La cianfrusaglia tra cui sedeva era in gran parte cianfrusaglia letteraria; soprattutto fasci di opuscoli del diciassettesimo secolo.
+
+«Ho inteso bene che la signora dice,» chiese [[Flambeau]] gravemente, «che qui c'è stato un delitto?»
+
+La signora annuì col suo capo rosso e arruffato piuttosto spazientita; a parte quei fiammeggianti riccioli da elfo aveva perduto un po' della sua aria selvaggia; il suo abito scuro era di una certa dignità e compostezza; i suoi lineamenti erano forti e belli; e c'era in lei qualcosa che suggeriva quella [[Double|doppia]] forza di [[Body|corpo]] e di mente che rende potenti le donne, particolarmente in contrasto con uomini come l'uomo dagli occhiali azzurri. Nondimeno fu lui a dare l'unica risposta articolata, intervenendo con una certa buffonesca galanteria.
+
+«È vero che la mia sventurata cognata,» spiegò, «ha or ora subìto uno shock spaventosissimo che tutti noi avremmo desiderato risparmiarle. Vorrei soltanto essere stato io stesso a fare la scoperta e ad aver sofferto unicamente l'ulteriore afflizione di recare la terribile notizia. Purtroppo fu la signora Flood in persona a trovare il suo vecchio nonno, da lungo tempo malato e costretto a letto in questo albergo, addirittura morto nel [[Garden|giardino]]; in circostanze che indicano fin troppo chiaramente violenza e aggressione. Curiose circostanze, posso dirlo, davvero curiosissime circostanze.» E tossicchiò lievemente, come per scusarsene.
+
+[[Flambeau]] s'inchinò alla signora ed espresse le sue sincere condoglianze; poi disse all'uomo: «Credo abbiate detto, signore, di essere il cognato della signora Flood.»
+
+«Sono il dottor Oscar Flood,» rispose l'altro. «Mio fratello, il marito di questa signora, è al momento assente sul Continente per affari, ed ella manda avanti l'albergo. Suo nonno era parzialmente paralizzato e assai avanti negli anni. Non lo si era mai visto lasciare la sua camera da letto; sicché queste straordinarie circostanze, davvero...»
+
+«Avete mandato a chiamare un medico o la polizia?» chiese [[Flambeau]].
+
+«Sì,» rispose il dottor Flood, «abbiamo telefonato dopo aver fatto la terribile scoperta; ma difficilmente potranno essere qui prima di qualche ora. Questa locanda di strada sorge in luogo assai remoto. È frequentata soltanto da chi va a Casterbury o anche oltre. Così abbiamo pensato di poter chiedere la vostra preziosa assistenza finché...»
+
+«Se dobbiamo essere di qualche assistenza,» disse [[Father Brown]], interrompendo con maniera troppo assorta per parere scortese, «direi che faremmo meglio ad andare a guardare subito le circostanze.»
+
+Mosse quasi meccanicamente verso la porta; e per poco non urtò un uomo che entrava spingendosi a spallate; un giovane grande e massiccio, dai capelli scuri arruffati e in disordine, che nondimeno sarebbe stato piuttosto bello se non fosse stato per una lieve deformità di un occhio, che gli dava un aspetto piuttosto sinistro.
+
+«Che diavolo state facendo?» sbottò, «a raccontarlo a Tizio, Caio e Sempronio... almeno dovreste aspettare la polizia.»
+
+«Ne risponderò io alla polizia,» disse [[Flambeau]] con una certa magnificenza, e un'improvvisa aria di aver preso il comando di ogni cosa. Avanzò verso l'uscio, e poiché era assai più grande del grande giovane, e i suoi baffi erano formidabili quanto le corna di un toro spagnolo, il grande giovane indietreggiò davanti a lui e ebbe l'aria sconnessa di essere cacciato fuori e lasciato indietro, mentre il gruppo usciva d'impeto nel [[Garden|giardino]] e su per il sentiero lastricato verso la piantagione di gelsi. Solo [[Flambeau]] udì il piccolo prete dire al dottore: «Non pare che ci [[Love|ami]] davvero, vero? A proposito, chi è?»
+
+«Si chiama Dunn,» disse il dottore, con una certa riservatezza di maniera. «Mia cognata gli affidò l'incarico di curare il [[Garden|giardino]], perché aveva perso un occhio in Guerra.»
+
+Mentre attraversavano i cespugli di gelso, il paesaggio del [[Garden|giardino]] presentava quell'effetto ricco eppur sinistro che si trova quando la terra è in realtà più luminosa del cielo. Nella luce spezzata del sole alle loro spalle, le cime degli alberi davanti a loro si ergevano come pallide fiamme verdi contro un cielo che andava sempre più annerendosi per la [[Storm|tempesta]], attraverso ogni sfumatura di porpora e di violetto. La stessa luce colpiva strisce del prato e delle aiuole del [[Garden|giardino]]; e qualunque cosa illuminasse pareva più misteriosamente fosca e segreta a causa della luce. L'aiuola del [[Garden|giardino]] era punteggiata di tulipani che parevano gocce di cupo [[Blood|sangue]], e di alcuni dei quali si sarebbe potuto giurare che fossero davvero neri; e la fila terminava opportunamente con un albero da tulipani; che [[Father Brown]] era incline, in parte forse per qualche confuso [[Memory|ricordo]], a identificare con quello che comunemente si chiama l'albero di Giuda. Ad assecondare l'associazione contribuiva il fatto che da uno dei rami pendeva, come un frutto secco, il [[Body|corpo]] secco e magro di un vecchio, con una lunga barba che dondolava grottescamente nel [[Wind|vento]].
+
+Su di esso giaceva qualcosa di più dell'orrore delle tenebre, l'orrore della luce del sole; poiché il sole intermittente dipingeva l'albero e l'uomo in colori vivaci come una scenografia; l'albero era in fiore e il cadavere era abbigliato di una sbiadita veste da camera verde pavone, e portava sul capo dondolante un berretto scarlatto da fumatore. Aveva anche pantofole rosse da camera, una delle quali era caduta e giaceva sull'erba come una macchia di [[Blood|sangue]].
+
+Ma né [[Flambeau]] né [[Father Brown]] stavano ancora guardando queste cose. Entrambi fissavano uno strano oggetto che pareva sporgere dal mezzo della figura raggrinzita del morto; e che a poco a poco s'avvidero essere l'impugnatura di ferro nera ma piuttosto arrugginita di una [[Sword|spada]] del diciassettesimo secolo, che aveva trafitto completamente il [[Body|corpo]]. Entrambi rimasero quasi immobili mentre la contemplavano; finché l'irrequieto dottor Flood parve spazientirsi assai della loro impassibilità.
+
+«Ciò che più mi lascia perplesso,» disse, facendo schioccare nervosamente le dita, «è lo stato effettivo del [[Body|corpo]]. Eppure mi ha già dato un'idea.»
+
+[[Flambeau]] si era avvicinato all'albero e stava studiando l'impugnatura della [[Sword|spada]] attraverso un monocolo. Ma per qualche strana ragione, fu proprio in quell'istante che il prete, per pura ribellione, roteò su se stesso come una trottola, voltò le spalle al cadavere e guardò scrutando nella direzione esattamente opposta. Fu appena in [[Time|tempo]] per scorgere la testa rossa della signora Flood all'estremità remota del [[Garden|giardino]], rivolta verso un giovane bruno, troppo indistinto per la distanza da poter essere riconosciuto, che in quel momento montava su una motocicletta; il quale svanì, lasciandosi dietro soltanto il fragore morente di quel veicolo. Poi la donna si voltò e cominciò a camminare verso di loro attraverso il [[Garden|giardino]], proprio mentre anche [[Father Brown]] si voltava e cominciava una attenta ispezione dell'impugnatura della [[Sword|spada]] e del cadavere appeso.
+
+«Ho capito che l'avete trovato soltanto una mezz'ora fa,» disse [[Flambeau]]. «C'era qualcuno qui intorno poco prima? Voglio dire qualcuno nella sua camera da letto, o in quella parte della [[house|casa]], o in questa parte del [[Garden|giardino]]... diciamo per un'ora prima?»
+
+«No,» disse il dottore con precisione. «Questo è proprio il tragico accidente. Mia cognata era nella dispensa, che è una specie di [[house|casotto]] annesso sull'altro lato; costui, il Dunn, era nell'orto del [[Garden|giardino]], che è anch'esso in quella direzione; e io stesso frugavo tra i libri, in una stanza proprio dietro quella in cui mi avete trovato. Ci sono due domestiche, ma una era andata alla posta e l'altra era in soffitta.»
+
+«E qualcuna di queste persone,» chiese [[Flambeau]], molto sommessamente, «dico una qualsiasi di queste persone, era in cattivi rapporti col povero vecchio signore?»
+
+«Egli era oggetto di un affetto pressoché universale,» rispose il dottore solennemente. «Se c'erano incomprensioni, erano miti e di un genere comune ai tempi moderni. Il vecchio era attaccato alle antiche abitudini religiose; e forse sua figlia e suo genero avevano vedute alquanto più larghe. Tutto ciò non può aver avuto nulla a che fare con un assassinio orribile e fantastico come questo.»
+
+«Dipende da quanto larghe fossero le vedute moderne,» disse [[Father Brown]], «o da quanto strette.»
+
+In quel momento udirono la signora Flood chiamare a gran voce attraverso il [[Garden|giardino]] mentre veniva, invitando a sé il cognato con una certa impazienza. Egli si affrettò verso di lei e fu presto fuori portata d'orecchio; ma mentre andava agitò la mano in segno di scusa e poi indicò col lungo dito il terreno.
+
+«Troverete le impronte assai intriganti,» disse; con la stessa strana aria, come di un imbonitore funebre.
+
+I due investigatori dilettanti si guardarono l'un l'altro. «Trovo intriganti parecchie altre cose,» disse [[Flambeau]].
+
+«Oh, sì,» disse il prete, fissando l'erba con aria piuttosto sciocca.
+
+«Mi domandavo,» disse [[Flambeau]], «perché mai si dovrebbe impiccare un uomo per il collo fino a farlo morire, e poi darsi la pena di trafiggerlo con una [[Sword|spada]].»
+
+«E io mi domandavo,» disse [[Father Brown]], «perché mai si dovrebbe uccidere un uomo con una [[Sword|spada]] conficcata nel cuore, e poi darsi la pena di impiccarlo per il collo.»
+
+«Oh, tu ti stai semplicemente mettendo di traverso,» protestò l'amico. «Vedo a colpo d'occhio che non l'hanno pugnalato da vivo. Il [[Body|corpo]] avrebbe sanguinato di più e la ferita non si sarebbe chiusa in quel modo.»
+
+«E io potrei vedere a colpo d'occhio,» disse [[Father Brown]], scrutando all'insù molto goffamente, con la sua bassa statura e la sua corta vista, «che non l'hanno impiccato da vivo. Se guardi il nodo del cappio, vedrai che è annodato così maldestramente che un giro di corda lo tiene discosto dal collo, sicché non potrebbe strozzare un uomo per nulla. Era morto prima che gli mettessero la corda addosso; ed era morto prima che gli mettessero la [[Sword|spada]] dentro. E come fu realmente ucciso?»
+
+«Penso,» osservò l'altro, «che faremmo meglio a tornare alla [[house|casa]] e a dare un'occhiata alla sua camera da letto... e ad altre cose.»
+
+«Così faremo,» disse [[Father Brown]]. «Ma tra le altre cose forse faremmo meglio a dare un'occhiata a queste impronte. Meglio cominciare dall'altro capo, credo, dalla sua [[Window|finestra]]. [[Well|Ecco]], non ci sono impronte sul sentiero lastricato, come potrebbero esserci; ma d'altra parte potrebbero anche non esserci. [[Well|Ecco]], qui c'è il prato proprio sotto la [[Window|finestra]] della sua camera. E qui ci sono le sue impronte abbastanza chiare.»
+
+Ammiccò sinistramente alle impronte; e poi cominciò a ripercorrere accuratamente il proprio cammino verso l'albero, ogni tanto chinandosi in maniera poco dignitosa per guardare qualcosa a terra. Alla fine tornò da [[Flambeau]] e disse con tono chiacchierino:
+
+«[[Well|Ecco]], conosci la storia che è scritta lì in modo molto chiaro? Sebbene non sia esattamente una storia chiara.»
+
+«Non mi accontenterei di chiamarla chiara,» disse [[Flambeau]]. «La chiamerei alquanto brutta...»
+
+«[[Well|Ecco]],» disse [[Father Brown]], «la storia che è impressa in modo chiarissimo sul terreno, con gli stampi esatti delle pantofole del vecchio, è questa. Il vecchio paralitico balzò dalla [[Window|finestra]] e corse giù lungo le aiuole parallele al sentiero, tutto smanioso di godersi il divertimento di essere strangolato e pugnalato; tanto smanioso che saltellò su una gamba per pura spensieratezza; e persino ogni tanto fece qualche capriola...»
+
+«Basta!» gridò [[Flambeau]], adirato. «Che diavolo è tutta questa infernale pantomima?»
+
+[[Father Brown]] si limitò ad alzare le sopracciglia e a indicare mitemente i geroglifici nella [[Dust|polvere]]. «Per circa metà del cammino c'è soltanto l'impronta di una pantofola; e in alcuni punti l'impronta di una mano posata tutta sola.»
+
+«Non potrebbe aver zoppicato e poi essere caduto?» chiese [[Flambeau]].
+
+[[Father Brown]] scosse il capo. «Come minimo avrebbe cercato di usare le mani e i piedi, o le ginocchia e i gomiti, per rialzarsi. Non ci sono altre impronte di alcun genere. Naturalmente il sentiero lastricato è assai vicino, e su di esso non ci sono impronte; sebbene potrebbero essercene sulla terra fra le fessure; è un lastricato sconnesso.»
+
+«Per Dio, è un lastricato sconnesso; e un [[Garden|giardino]] sconnesso; e una storia sconnessa!» E [[Flambeau]] guardò cupamente attraverso il cupo [[Garden|giardino]] flagellato dalla [[Storm|tempesta]], attraverso il quale i sentieri storti a mosaico davano davvero una bizzarra aderenza al bizzarro vecchio aggettivo inglese.
+
+«E ora,» disse [[Father Brown]], «saliamo a guardare la sua stanza.» Entrarono per una porta non lontana dalla [[Window|finestra]] della camera; e il prete si fermò un istante a guardare un'ordinaria scopa da [[Garden|giardino]], per spazzare le [[Leaves|foglie]], appoggiata al muro. «Vedi quella?»
+
+«È una scopa,» disse [[Flambeau]], con solida ironia.
+
+«È un errore,» disse [[Father Brown]]; «il primo errore che ho visto in questa curiosa trama.»
+
+Salirono le scale ed entrarono nella camera del vecchio; e un'occhiata ad essa rese abbastanza chiari i fatti principali, sia riguardo al fondamento sia riguardo alla disunione della famiglia. [[Father Brown]] aveva sentito fin dal principio di trovarsi in quella che era, o era stata, una casa cattolica; ma che era abitata, almeno in parte, da cattolici decaduti o assai rilassati. I quadri e le immagini nella stanza del nonno rendevano chiaro che quella pietà positiva che restava era rimasta praticamente confinata in lui; e che i suoi congiunti, per una ragione o per l'altra, si erano fatti pagani. Ma egli convenne che questa era una spiegazione disperatamente inadeguata persino di un delitto ordinario; e ancor meno di un delitto tanto straordinario come questo, [[Alone|figuriamoci]]. «Al diavolo tutto,» borbottò, «il delitto è in realtà la parte meno straordinaria di questa faccenda.» E proprio mentre usava quella frase casuale, una lenta luce cominciò ad [[Dawn|albeggiare]] sul suo volto.
+
+[[Flambeau]] si era seduto su una sedia accanto al tavolino che stava presso il letto del morto. Aggrottava le sopracciglia, assorto, davanti a tre o quattro pillole o pastiglie bianche che giacevano in un piccolo vassoio accanto a una bottiglia d'[[Water|acqua]].
+
+«L'assassino o l'assassina,» disse [[Flambeau]], «aveva una qualche incomprensibile ragione per volerci far credere che il morto fosse strangolato o pugnalato o entrambe le cose. Non fu strangolato né pugnalato né nulla del genere. Perché vollero suggerirlo? La spiegazione più logica è che egli sia morto in qualche modo particolare che, di per sé, suggerirebbe un legame con qualche persona particolare. Supponi, per esempio, che sia stato avvelenato. E supponi che sia coinvolto qualcuno che naturalmente somiglierebbe più a un avvelenatore di chiunque altro.»
+
+«Dopotutto,» disse [[Father Brown]] sommessamente, «il nostro amico dagli occhiali azzurri è un dottore.»
+
+«Esaminerò queste pillole con parecchia cura,» proseguì [[Flambeau]]. «Non voglio perderle, però. Hanno l'aria di essere solubili in [[Water|acqua]].»
+
+«Potrebbe volerci un po' di [[Time|tempo]] per farci qualcosa di scientifico,» disse il prete, «e il medico della polizia potrebbe essere qui prima di allora. Sicché certamente ti consiglierei di non perderle. Cioè, se hai intenzione di aspettare il medico della polizia.»
+
+«Ho intenzione di restare qui finché non avrò risolto questo problema,» disse [[Flambeau]].
+
+«Allora resterai qui per sempre,» disse [[Father Brown]], guardando placidamente fuori dalla [[Window|finestra]]. «Io comunque non credo che resterò in questa stanza.»
+
+«Vuoi dire che non risolverò il problema?» chiese l'amico. «Perché non dovrei risolvere il problema?»
+
+«Perché non è solubile in [[Water|acqua]]. No, e nemmeno nel [[Blood|sangue]],» disse il prete; e scese le scale buie nel [[Garden|giardino]] che s'oscurava. Là vide di nuovo ciò che aveva già visto dalla [[Window|finestra]].
+
+Il calore e il peso e l'oscurità del cielo tempestoso parevano premere ancor più da presso sul paesaggio; le nuvole avevano vinto il sole che, in alto, in uno squarcio che si restringeva, si ergeva più pallido della [[Moon|luna]]. C'era un fremito di tuono nell'aria, ma ormai nessun ulteriore moto di [[Wind|vento]] o di brezza; e persino i colori del [[Garden|giardino]] parevano soltanto sfumature più ricche dell'oscurità. Ma un colore ancora ardeva di una certa fosca vividezza; ed era la chioma rossa della donna di quella [[house|casa]], che stava ritta in una sorta di rigidità, fissando, con le mani cacciate su tra i capelli. Quella scena di eclisse, con qualcosa di più profondo nei suoi stessi dubbi sul suo significato, fece affiorare alla superficie il [[Memory|ricordo]] di versi ossessivi e mistici; e si sorprese a mormorare: «Un luogo segreto, selvaggio e incantato come mai altro, sotto una [[Moon|luna]] calante, fu infestato da donna che piange il suo demone [[Lover|amante]].» Il suo borbottio si fece più agitato. «Santa Maria, Madre di Dio, prega per noi peccatori... è questo; è terribilmente simile a ciò che è; donna che piange il suo demone [[Lover|amante]].»
+
+Era esitante e quasi malfermo mentre si avvicinava alla donna; ma parlò con la sua consueta compostezza. La fissava con grande fermezza, mentre le diceva con premura che ella non doveva lasciarsi prendere dal morboso a causa dei meri accessori accidentali della [[Tragedy|tragedia]], con tutta la loro folle bruttezza. «I quadri nella stanza di suo nonno erano più veri a lui di quel brutto quadro che abbiamo visto,» disse gravemente. «Qualcosa mi dice che egli era un buon uomo; e non importa che cosa i suoi assassini abbiano fatto del suo [[Body|corpo]].»
+
+«Oh, sono stufa dei suoi quadri sacri e delle sue statue!» disse ella, voltando via il capo. «Perché non si difendono, se sono ciò che voi dite che sono? Ma i rivoltosi possono staccare la testa alla Beata Vergine e a loro non accade nulla. Oh, a che serve? Non potete biasimarci, non osate biasimarci, se abbiamo scoperto che l'Uomo è più forte di Dio.»
+
+«Certamente,» disse [[Father Brown]] con grande dolcezza, «non è generoso fare persino della pazienza di Dio verso di noi un capo d'accusa contro di Lui.»
+
+«Dio può essere paziente e l'Uomo impaziente,» rispose ella, «e supponete che a noi piaccia di più l'impazienza. Voi lo chiamate sacrilegio; ma non potete fermarlo.»
+
+[[Father Brown]] fece un curioso piccolo sussulto. «Sacrilegio!» disse; e d'improvviso si voltò di nuovo verso l'uscio con una nuova aria svelta di decisione. Nello stesso momento [[Flambeau]] apparve sulla soglia, pallido d'eccitazione, con un cartoccio di carta in mano. [[Father Brown]] aveva già aperto la bocca per parlare, ma il suo impetuoso amico parlò prima di lui.
+
+«Sono finalmente sulla pista!» gridò [[Flambeau]]. «Queste pillole sembrano uguali, ma sono in realtà diverse. E sai che, proprio nel momento in cui le ho scoperte, quel bruto di giardiniere con un occhio solo cacciò la sua faccia bianca dentro la stanza; e portava una [[Pistol|pistola]] da [[Horse|arcione]]. Gliela feci saltare di mano e lo scaraventai giù per le scale, ma comincio a capire ogni cosa. Se resto qui un'altra ora o due, porterò a termine il mio lavoro.»
+
+«Allora non lo porterai a termine,» disse il prete, con una risonanza nella voce assai rara in lui davvero. «Non resteremo qui un'altra ora. Non resteremo qui un altro minuto. Dobbiamo lasciare questo luogo all'istante!»
+
+«Cosa!» gridò lo sbalordito [[Flambeau]]. «Proprio ora che ci avviciniamo alla [[Truth|verità]]! Ma se puoi ben dire che ci avviciniamo alla [[Truth|verità]] proprio dal fatto che hanno paura di noi.»
+
+[[Father Brown]] lo guardò con volto di pietra e imperscrutabile, e disse: «Non hanno paura di noi quando siamo qui. Avranno paura di noi soltanto quando non saremo qui.»
+
+Entrambi si erano accorti che la figura piuttosto agitata del dottor Flood aleggiava nella foschia sinistra; ora essa si precipitò in avanti con i gesti più sfrenati.
+
+«Fermatevi! Ascoltate!» gridò l'agitato dottore. «Ho scoperto la [[Truth|verità]]!»
+
+«Allora potrete spiegarla alla vostra polizia,» disse [[Father Brown]], brevemente. «Dovrebbe arrivare presto. Ma noi dobbiamo andare.»
+
+Il dottore parve gettato in un vortice di emozioni, per riemergere infine alla superficie con un grido disperato. Spalancò le braccia come una [[Cross|croce]], sbarrando loro il passo.
+
+«E sia!» gridò. «Non v'ingannerò ora, dicendo di aver scoperto la [[Truth|verità]]. Confesserò soltanto la [[Truth|verità]].»
+
+«Allora potrete confessarla al vostro prete,» disse [[Father Brown]], e s'incamminò a grandi passi verso il cancello del [[Garden|giardino]], seguito dal suo amico che lo fissava attonito. Prima che raggiungesse il cancello, un'altra figura gli era balzata di traverso come il [[Wind|vento]]; ed era Dunn il giardiniere che gli gridava dietro qualche inintelligibile scherno agli investigatori che scappavano dal proprio lavoro. Allora il prete si chinò appena in [[Time|tempo]] per schivare un colpo della [[Pistol|pistola]] da [[Horse|arcione]], brandita come una clava. Ma Dunn non fu appena in [[Time|tempo]] per schivare un colpo del pugno di [[Flambeau]], che era come la clava di Ercole. I due lasciarono il signor Dunn steso lungo disteso dietro di loro sul sentiero, e, passando fuori dal cancello, uscirono e salirono nella loro automobile in [[Silence|silenzio]]. [[Flambeau]] fece soltanto una breve domanda e [[Father Brown]] rispose soltanto: «Casterbury.»
+
+Alla fine, dopo un lungo [[Silence|silenzio]], il prete osservò: «Potrei quasi credere che la [[Storm|tempesta]] appartenesse soltanto a quel [[Garden|giardino]], e venisse da una [[Storm|tempesta]] nell'[[Soul|anima]].»
+
+«Amico mio,» disse [[Flambeau]]. «Ti conosco da lungo [[Time|tempo]], e quando mostri certi segni di certezza, seguo la tua guida. Ma [[Hope|spero]] che tu non stia per dirmi che mi hai portato via da quel lavoro affascinante perché non ti piaceva l'atmosfera.»
+
+«[[Well|Ecco]], era certamente un'atmosfera terribile,» rispose [[Father Brown]], con calma. «Spaventosa e appassionata e opprimente. E la cosa più spaventosa di essa era questa: che non vi era in essa alcun odio.»
+
+«Qualcuno,» suggerì [[Flambeau]], «pare avesse una lieve antipatia per il nonno.»
+
+«Nessuno aveva alcuna antipatia per nessuno,» disse [[Father Brown]] con un gemito. «Questa era la cosa spaventosa in quelle tenebre. Era [[Love|amore]].»
+
+«Curioso modo di esprimere l'[[Love|amore]]... strangolare qualcuno e trafiggerlo con una [[Sword|spada]],» osservò l'altro.
+
+«Era [[Love|amore]],» ripeté il prete, «e riempiva la [[house|casa]] di terrore.»
+
+«Non dirmi,» protestò [[Flambeau]], «che quella bella donna è [[Love|innamorata]] di quel ragno con gli occhiali.»
+
+«No,» disse [[Father Brown]] e gemette di nuovo. «È [[Love|innamorata]] di suo marito. È spaventoso.»
+
+«È uno stato di cose che ti ho spesso sentito raccomandare,» replicò [[Flambeau]]. «Non puoi chiamarlo [[Love|amore]] fuorilegge.»
+
+«Non fuorilegge in quel senso,» rispose [[Father Brown]]; poi si voltò di scatto sul gomito e parlò con nuovo calore: «Credi che io non sappia che l'[[Love|amore]] di un uomo e di una donna fu il primo comandamento di Dio ed è glorioso per sempre? Sei uno di quegli idioti che credono che noi non ammiriamo l'[[Love|amore]] e il [[Marriage|matrimonio]]? Ho forse bisogno che mi si parli del [[Garden|Giardino]] dell'Eden o del vino di Cana? È proprio perché la forza che era in quella cosa era la forza di Dio, che essa infuria con quell'energia tremenda persino quando si scioglie da Dio. Quando il [[Garden|Giardino]] diventa una giungla, ma pur sempre una giungla gloriosa; quando la seconda fermentazione muta il vino di Cana nell'aceto del Calvario. Credi che io non sappia tutto questo?»
+
+«Sono certo che lo sai,» disse [[Flambeau]], «ma io non so ancora granché sul mio problema del delitto.»
+
+«Il delitto non può essere risolto,» disse [[Father Brown]].
+
+«E perché no?» domandò l'amico.
+
+«Perché non c'è alcun delitto da risolvere,» disse [[Father Brown]].
+
+[[Flambeau]] rimase muto per pura sorpresa; e fu l'amico a riprendere con tono quieto:
+
+«Ti dirò una cosa curiosa. Ho parlato con quella donna quando era fuori di sé dal dolore; ma non disse mai nulla sul delitto. Non menzionò mai il delitto, né vi alluse nemmeno. Ciò che invece menzionò ripetutamente fu il sacrilegio.» Poi, con un altro scarto di sconnessione verbale, aggiunse: «Hai mai sentito parlare di Tiger Tyrone?»
+
+«Se ne ho sentito parlare!» gridò [[Flambeau]]. «Ma se è proprio l'uomo che si suppone stia dando la caccia al reliquiario, e che mi hanno incaricato appositamente di sventare. È il più violento e temerario dei gangster che abbiano mai visitato questo paese; irlandese, naturalmente, ma di quelli che diventano follemente anticlericali. Forse ha civettato un poco col diabolismo in quelle società segrete; comunque sia, ha un gusto macabro per giocare ogni sorta di tiri selvaggi che paiono più malvagi di quanto siano. Per il resto non è il più malvagio; uccide di rado, e mai per crudeltà; ma adora fare qualsiasi cosa scandalizzi la gente, specialmente la sua gente; svaligiare chiese o dissotterrare scheletri o che so io.»
+
+«Sì,» disse [[Father Brown]], «tutto quadra. Avrei dovuto vederlo tutto molto prima.»
+
+«Non vedo come avremmo potuto vedere alcunché, dopo appena un'ora d'indagine,» disse il [[Detective|detective]] sulla difensiva.
+
+«Avrei dovuto vederlo prima che ci fosse qualcosa da indagare,» disse il prete. «Avrei dovuto saperlo prima che tu arrivassi stamattina.»
+
+«Che diavolo vuoi dire?»
+
+«Mostra soltanto quanto suonino false le voci al telefono,» disse Padre Brown pensosamente. «Ho udito stamattina tutti e tre gli stadi della faccenda; e ho pensato che fossero inezie. Primo, una donna mi chiamò e mi chiese di andare a quella locanda al più presto possibile. Che cosa significava? Naturalmente significava che il vecchio nonno stava morendo. Poi chiamò per dire che, dopotutto, non avevo bisogno di andare. Che cosa significava? Naturalmente significava che il vecchio nonno era morto. Era spirato del tutto in pace nel suo letto; probabilmente un collasso cardiaco per pura vecchiaia. E poi chiamò una terza [[Time|volta]] e disse che, dopotutto, dovevo andare. Che cosa significava? Ah, questo è alquanto più interessante!»
+
+Proseguì dopo un momento di pausa: «Tiger Tyrone, la cui moglie lo adora, si lasciò prendere da una delle sue idee folli, e tuttavia era anche un'idea astuta. Aveva appena saputo che tu gli stavi dando la caccia, che conoscevi lui e i suoi metodi e che venivi a salvare il reliquiario; può aver saputo che io talvolta sono stato di qualche aiuto. Voleva fermarci lungo la [[Road|strada]]; e il suo trucco per farlo fu di inscenare un delitto. Fu una cosa piuttosto orribile da fare; ma non fu un delitto. Probabilmente tiranneggiò sua moglie con un'aria di brutale buon senso, dicendo che poteva sfuggire ai lavori forzati soltanto usando un [[Body|corpo]] morto che da un tale uso non poteva soffrire nulla. Comunque sia, sua moglie avrebbe fatto qualsiasi cosa per lui; ma ella sentiva tutta l'innaturale mostruosità di quella mascherata pendente; ed è per questo che parlava di sacrilegio. Pensava alla profanazione della reliquia; ma anche alla profanazione del letto di [[Death|morte]]. Il fratello è uno di quei ribelli scadenti "scientifici" che armeggiano con bombe difettose; un idealista andato a male. Ma è devoto a Tiger; e così pure il giardiniere. Forse è un punto a suo favore che tanta gente sembri devota a lui.
+
+«C'era un piccolo particolare che mi mise in sospetto assai presto. Tra i vecchi libri che il dottore stava sfogliando c'era un fascio di opuscoli del diciassettesimo secolo; e colsi un titolo: True Declaration of the Trial and Execution of My Lord Stafford. Ora, Stafford fu giustiziato nella faccenda del Complotto Papista, che cominciò con una delle storie di [[Detective|detective]] della [[history|storia]]; la [[Death|morte]] di Sir [[Edmund]] Berry Godfrey. Godfrey fu trovato morto in un fosso, e parte del mistero stava nel fatto che aveva segni di strangolamento, ma era anche trafitto dalla propria [[Sword|spada]]. Pensai subito che qualcuno nella [[house|casa]] potesse aver tratto l'idea da qui. Ma non poteva averla voluta come modo di commettere un delitto. Può averla voluta soltanto come modo di creare un mistero. Poi vidi che ciò si applicava a tutti gli altri particolari oltraggiosi. Erano diabolici a sufficienza; ma non era mera diavoleria; c'era uno straccio di scusa; perché dovevano rendere il mistero il più contraddittorio e complicato possibile, per assicurarsi che ci mettessimo un lungo [[Time|tempo]] a risolverlo... o piuttosto a vederci chiaro. Così trascinarono il povero vecchio giù dal suo letto di morte e fecero saltellare il cadavere e fargli fare capriole e ogni cosa che non avrebbe potuto fare. Dovevano darci un Problema Insolubile. Spazzarono via le proprie tracce dal sentiero, lasciando la scopa. Per fortuna ci vedemmo chiaro in [[Time|tempo]].»
+
+«Tu ci vedesti chiaro in [[Time|tempo]],» disse [[Flambeau]]. «Io forse mi sarei attardato un po' più a lungo sulla seconda pista che avevano lasciato, cosparsa di pillole assortite.»
+
+«[[Well|Ecco]], comunque sia, siamo venuti via,» disse [[Father Brown]], comodamente.
+
+«E questa, presumo,» disse [[Flambeau]], «è la ragione per cui sto correndo a questa velocità lungo la [[Road|strada]] per Casterbury.»
+
+Quella [[Night|notte]], nel monastero e nella chiesa di Casterbury, vi furono eventi tali da sconvolgere la clausura monastica. Il reliquiario di Santa Dorotea, in uno scrigno sfarzoso d'oro e di rubini, fu temporaneamente collocato in una stanza laterale presso la cappella del monastero, per essere portato in processione durante una funzione speciale al termine della Benedizione. Era custodito per il momento da un solo monaco, che lo sorvegliava in maniera tesa e vigile; poiché egli e i suoi confratelli sapevano tutto dell'[[Shadow|ombra]] di pericolo che veniva dall'aggirarsi di Tiger Tyrone. Fu così che il monaco fu in piedi in un lampo, quando vide una delle basse finestre a grata cominciare ad aprirsi e un oggetto scuro insinuarsi come un serpente nero attraverso la fessura. Precipitatosi attraverso la stanza, lo afferrò e scoprì che era il braccio e la manica di un uomo, terminante con un elegante polsino e un lindo guanto grigio scuro. Afferratolo, gridò aiuto, e proprio mentre lo faceva, un uomo si lanciò nella stanza dalla porta alle sue spalle e ghermì lo scrigno che egli si era lasciato dietro sul tavolo. Quasi nello stesso istante, il braccio incastrato nella [[Window|finestra]] gli rimase in mano, ed egli restò a stringere l'arto imbottito di un manichino.
+
+Tiger Tyrone aveva già fatto quel trucco altre volte, ma per il monaco era una novità. Per fortuna, c'era almeno una persona per la quale i trucchi della Tigre non erano una novità; e quella persona apparve con baffi bellicosi, gigantescamente incorniciata nel vano della porta, proprio nel momento in cui la Tigre si voltava per fuggire da lì. [[Flambeau]] e Tiger Tyrone si guardarono l'un l'altro con occhi fermi e si scambiarono qualcosa che somigliava quasi a un saluto militare.
+
+Nel frattempo [[Father Brown]] era scivolato dentro la cappella, per dire una [[prayer|preghiera]] per le diverse persone coinvolte in questi sconvenienti eventi. Ma sorrideva piuttosto che no, e, a dire la [[Truth|verità]], non era affatto senza speranza riguardo al signor Tyrone e alla sua deplorevole famiglia; anzi era piuttosto più fiducioso di quanto lo fosse per molte persone assai più rispettabili. Poi i suoi pensieri si allargarono alle più grandiose prospettive del luogo e dell'occasione. Contro marmi neri e verdi all'estremità della cappella piuttosto rococò, i paramenti rosso scuro della festa di una martire facevano a loro volta da sfondo a un rosso più ardente; un rosso come carboni incandescenti; i rubini del reliquiario; le rose di Santa Dorotea. Ed egli ebbe di nuovo un pensiero da rivolgere indietro agli strani eventi di quel giorno, e alla donna che aveva rabbrividito davanti al sacrilegio che aveva contribuito a compiere. Dopotutto, pensò, anche Santa Dorotea aveva avuto un [[Lover|amante]] pagano; ma egli non l'aveva dominata né distrutto la sua [[Faith|fede]]. Ella era morta libera e per la [[Truth|verità]]; e poi gli aveva mandato rose dal Paradiso.
+
+Alzò gli occhi e vide, attraverso il velo del fumo d'incenso e delle luci tremule, che la Benedizione volgeva al termine mentre la processione attendeva. Il senso delle ricchezze accumulate del [[Time|tempo]] e della tradizione gli passò accanto premendo come una folla in marcia, fila dopo fila, attraverso secoli senza fine; e alto sopra tutti loro, come una ghirlanda di fiamme inestinguibili, come il sole della nostra mezzanotte mortale, il grande ostensorio fiammeggiava contro l'oscurità delle ombre delle volte, come fiammeggiava contro il nero enigma dell'universo. Poiché alcuni sono convinti che anche questo enigma sia un Problema Insolubile. E altri hanno uguale certezza che esso abbia una sola soluzione.

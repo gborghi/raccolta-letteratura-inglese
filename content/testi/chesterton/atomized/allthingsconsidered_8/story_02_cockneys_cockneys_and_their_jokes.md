@@ -241,6 +241,10 @@ and hell are a woman who is not dignified and a man who is.
 <div class="excerpt-crumb">Chesterton · <a href="/works/allthingsconsidered-8-(chesterton)">AllThingsConsidered 8</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/allthingsconsidered_8/story_01_the_case_for_the_ephemeral_ephemeral">‹ Story 01 THE CASE FOR THE ephemeral EPHEMERAL</a><a class="ex-next" href="/testi/chesterton/atomized/allthingsconsidered_8/story_03_the_fallacy_of_success_success">Story 03 THE FALLACY OF success SUCCESS ›</a></div>
 </nav>
+<nav class="excerpt-children">
+<div class="excerpt-children-label">In questa sezione</div>
+<ul><li><a href="/testi/chesterton/atomized/allthingsconsidered_8/story_02_cockneys_cockneys_and_their_jokes/part_01">Part 1</a></li><li><a href="/testi/chesterton/atomized/allthingsconsidered_8/story_02_cockneys_cockneys_and_their_jokes/part_02">Part 2</a></li></ul>
+</nav>
 
 I [[cockneys|COCKNEY]] E LE LORO FACEZIE
 

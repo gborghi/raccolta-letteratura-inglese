@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/scandal-fr-brown-(chesterton)">scandal Fr Brown</a> › <a href="/testi/chesterton/atomized/scandal_fr_brown/story_11_the_vampire_of_the_village">Story 11 The Vampire of the Village</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/scandal_fr_brown/story_11_the_vampire_of_the_village/part_01">‹ part 01</a><a class="ex-next" href="/testi/chesterton/atomized/scandal_fr_brown/story_11_the_vampire_of_the_village/part_03">part 03 ›</a></div>
@@ -132,3 +134,56 @@ mysterious widow was brief but bright. He brought away from it at least
 two facts; one that Mrs Maltravers sometimes talked in a way which the
 Victorian village would call cynical; and, second, that like not a few
 actresses, she happened to belong to his own religious communion.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/scandal-fr-brown-(chesterton)">scandal Fr Brown</a> › <a href="/testi/chesterton/atomized/scandal_fr_brown/story_11_the_vampire_of_the_village">Story 11 The Vampire of the Village</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/scandal_fr_brown/story_11_the_vampire_of_the_village/part_01">‹ part 01</a><a class="ex-next" href="/testi/chesterton/atomized/scandal_fr_brown/story_11_the_vampire_of_the_village/part_03">part 03 ›</a></div>
+</nav>
+
+«Chi perde tutta la propria [[Charity|carità]] perde di solito tutta la propria [[logic|logica]],» osservò [[Father Brown]]. «È piuttosto ridicolo lamentarsi che se ne stia per conto suo; e poi accusarla di ammaliare l'intera popolazione maschile.»
+
+«È vero,» disse il dottore. «Eppure è davvero una persona alquanto enigmatica. L'ho vista e l'ho trovata intrigante; una di quelle donne brune, alte ed eleganti e splendidamente brutte, se capisce cosa intendo. È piuttosto spiritosa, e benché abbastanza giovane mi dà di certo l'impressione di ciò che chiamano — [[Well|beh]], esperienza. Ciò che le vecchie signore chiamano un Passato.»
+
+«Le vecchie signore, essendo tutte nate proprio in questo istante,» osservò Padre Brown. «Credo di poter supporre che si presuma abbia ammaliato il figlio del parroco.»
+
+«Sì, e pare sia un problema assai terribile per il povero vecchio parroco. Si presume che sia vedova.»
+
+Il volto di [[Father Brown]] ebbe un lampo e uno spasimo della sua rara irritazione. «Si presume che sia vedova, come si presume che il figlio del parroco sia il figlio del parroco, e il notaio si presume sia un notaio e lei si presume sia un dottore. Perché diamine non dovrebbe essere vedova? Hanno un solo briciolo di prova prima facie per dubitare che sia ciò che dice di essere?»
+
+Il dottor Mulborough raddrizzò di scatto le larghe spalle e si mise a sedere ritto. «Naturalmente avete ragione ancora una volta,» disse. «Ma non siamo ancora arrivati allo scandalo. [[Well|Ebbene]], lo scandalo è che è vedova.»
+
+«Oh,» disse [[Father Brown]]; e il suo volto mutò ed egli disse qualcosa di sommesso e fioco, che avrebbe quasi potuto essere «Dio mio!»
+
+«Prima di tutto,» disse il dottore, «hanno fatto una scoperta su Mrs Maltravers. È un'attrice.»
+
+«L'avevo immaginato,» disse [[Father Brown]]. «Non importa perché. Avevo un'altra congettura sul suo conto, che sembrerebbe anche più irrilevante.»
+
+«[[Well|Ebbene]], in quel momento bastava e avanzava, come scandalo, che fosse un'attrice. Il caro vecchio ecclesiastico naturalmente ha il cuore spezzato, al pensiero che i suoi bianchi capelli debbano essere condotti nel dolore alla [[Grave|tomba]] da un'attrice e avventuriera. Le zitelle strillano in [[Chorus|coro]]. L'Ammiraglio ammette di essere talvolta andato a teatro in città; ma obietta a simili cose in quello che chiama "il nostro seno". [[Well|Beh]], naturalmente io non ho obiezioni particolari di quel genere. Questa attrice è di certo una signora, se pure un po' una Dama Bruna, alla maniera dei Sonetti; il giovanotto è molto [[Love|innamorato]] di lei; e io sono senza [[Doubt|dubbio]] un vecchio [[Fool|sciocco]] sentimentale ad avere una segreta simpatia per il giovane traviato che si aggira di soppiatto attorno alla Grange dal fossato; e stavo entrando in uno stato d'animo del tutto [[Pastoral|pastorale]] a proposito di questo idillio, quando all'improvviso cadde il fulmine. E io, che sono l'unica persona che abbia mai avuto un po' di simpatia per questa gente, vengo mandato quaggiù a fare il messaggero della sventura.»
+
+«Sì,» disse [[Father Brown]], «e perché siete stato mandato quaggiù?»
+
+Il dottore rispose con una specie di gemito:
+
+«Mrs Maltravers non è soltanto una vedova, ma è la vedova di Mr Maltravers.»
+
+«Suona come una rivelazione sconvolgente, così come la enunciate,» riconobbe seriamente il prete.
+
+«E Mr Maltravers,» proseguì il suo amico medico, «era l'uomo che a quanto pare fu assassinato in questo stesso villaggio un anno o due fa; si suppose che gli avessero fracassato la testa uno dei semplici villici.»
+
+«Ricordo che me l'avete detto,» disse [[Father Brown]]. «Il dottore, o un qualche dottore, disse che probabilmente era morto per essere stato colpito alla testa con un randello.»
+
+Il dottor Mulborough tacque per un momento in accigliato imbarazzo, poi disse seccamente:
+
+«Cane non mangia cane, e i dottori non mordono i dottori, nemmeno quando sono dottori pazzi. Non mi piacerebbe gettare alcuna ombra sul mio eminente predecessore a Potter's Pond, se potessi evitarlo; ma so che con voi i [[Secrets|segreti]] sono davvero al sicuro. E, parlando in confidenza, il mio eminente predecessore a Potter's Pond era un maledetto [[Fool|sciocco]]; un vecchio ubriacone impostore e assolutamente incompetente. Mi fu chiesto, in origine dal Capo della Polizia della Contea (perché ho vissuto a lungo [[Time|tempo]] nella contea, benché solo di recente nel villaggio), di indagare sull'intera faccenda; le deposizioni e i verbali dell'inchiesta e via dicendo. E non c'è semplicemente alcun dubbio in proposito. Maltravers può anche essere stato colpito alla testa; era un attore girovago di passaggio nel luogo; e Potter's Pond ritiene probabilmente che sia tutto nell'[[Natural Order|ordine naturale]] che simile gente venga colpita alla testa. Ma chiunque lo abbia colpito alla testa non lo uccise; è semplicemente impossibile che la lesione, così come descritta, facesse più che stordirlo per qualche ora. Ma di recente sono riuscito a scovare altri fatti attinenti alla questione; e il risultato è piuttosto sinistro.»
+
+Sedeva torvo a guardare il paesaggio che scivolava via oltre il [[Window|finestrino]], poi disse ancora più seccamente: «Vengo quaggiù, e chiedo il vostro aiuto, perché ci sarà una riesumazione. C'è un fortissimo sospetto di [[Poison|veleno]].»
+
+«Ed eccoci alla stazione,» disse [[Father Brown]] allegramente. «Immagino che la vostra idea sia che avvelenare il pover'uomo rientrasse naturalmente fra i doveri domestici di sua moglie.»
+
+«[[Well|Ebbene]], non sembra esserci mai stato nessun altro qui che avesse qualche legame particolare con lui,» rispose Mulborough, mentre scendevano dal treno. «Perlomeno c'è un vecchio strambo compare di lui, un attore fallito, che gironzola qua attorno; ma la polizia e il notaio del posto paiono convinti che sia un impiccione squilibrato; con una qualche idea fissa su una lite con un attore che era suo nemico; ma che di certo non era Maltravers. Un caso errante, direi, e di certo nulla a che vedere col problema del [[Poison|veleno]].»
+
+[[Father Brown]] aveva ascoltato la storia. Ma sapeva di non conoscere mai una storia finché non ne conosceva i personaggi. Trascorse i due o tre giorni seguenti nel fare il giro, con l'uno o l'altro cortese pretesto, per far visita ai principali attori del dramma. Il suo primo colloquio con la misteriosa vedova fu breve ma brillante. Ne portò via almeno due fatti; uno, che Mrs Maltravers parlava talvolta in un modo che il villaggio vittoriano avrebbe definito cinico; e, secondo, che come non poche attrici, si dava il caso appartenesse alla sua stessa comunione religiosa.

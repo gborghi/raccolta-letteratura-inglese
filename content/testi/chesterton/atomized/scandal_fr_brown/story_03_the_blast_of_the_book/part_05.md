@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/scandal-fr-brown-(chesterton)">scandal Fr Brown</a> › <a href="/testi/chesterton/atomized/scandal_fr_brown/story_03_the_blast_of_the_book">Story 03 The Blast of the Book</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/scandal_fr_brown/story_03_the_blast_of_the_book/part_04">‹ part 04</a><a class="ex-next" href="/testi/chesterton/atomized/scandal_fr_brown/story_04_the_green_man/part_01">part 01 ›</a></div>
@@ -140,3 +142,68 @@ Did you never feel just a momentary awe of the awful volume?'
 
 'Oh, that,' said [[Father Brown]]. 'I opened it as soon as I saw it lying
 there. It's all blank pages. You see, I am not superstitious.'
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/scandal-fr-brown-(chesterton)">scandal Fr Brown</a> › <a href="/testi/chesterton/atomized/scandal_fr_brown/story_03_the_blast_of_the_book">Story 03 The Blast of the Book</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/scandal_fr_brown/story_03_the_blast_of_the_book/part_04">‹ part 04</a><a class="ex-next" href="/testi/chesterton/atomized/scandal_fr_brown/story_04_the_green_man/part_01">part 01 ›</a></div>
+</nav>
+
+«Cinque uomini sono ormai svaniti in questo modo impossibile,» disse. «Ognuno è straordinario; eppure l'unico caso che proprio non riesco a mandar giù è il mio impiegato, Berridge. Proprio perché era la creatura più tranquilla, è il caso più bizzarro.»
+
+«Sì,» rispose [[Father Brown]], «è stata una cosa bizzarra da parte di Berridge, in ogni caso. Era terribilmente coscienzioso. Ed era anche così maledettamente attento a tenere tutti gli affari dell'ufficio separati da qualsiasi suo svago personale. Ma se quasi nessuno sapeva che a [[Home|casa]] era un vero e proprio umorista, e...»
+
+«Berridge!» esclamò [[The Professor|il Professore]]. «Che diamine state dicendo? Lo conoscevate?»
+
+«Oh no,» disse [[Father Brown]] con noncuranza, «solo come, per dirla con voi, conosco il cameriere. Ho spesso dovuto aspettare nel vostro ufficio, finché non spuntavate; e naturalmente passavo il [[Time|tempo]] a chiacchierare con il povero Berridge. Era un vero tipo. Ricordo che una volta disse che gli sarebbe piaciuto collezionare cose senza valore, come i collezionisti fanno con le cose sciocche che reputano di valore. Conoscete la vecchia storia della donna che collezionava cose senza valore.»
+
+«Non sono sicuro di capire di che state parlando,» disse Openshaw. «Ma anche se il mio impiegato era eccentrico (e non ho mai conosciuto un uomo che avrei giudicato meno tale), ciò non spiegherebbe che cosa gli è successo; e di certo non spiegherebbe gli altri.»
+
+«Quali altri?» chiese il prete.
+
+[[The Professor|Il Professore]] lo fissò e parlò distintamente, come a un [[Child|bambino]]: «Mio caro [[Father Brown]], Cinque Uomini sono scomparsi.»
+
+«Mio caro professor Openshaw, nessun uomo è scomparso.»
+
+[[Father Brown]] ricambiò lo sguardo dell'ospite con pari fermezza e parlò con pari distinzione. Nondimeno, [[The Professor|il Professore]] esigette che le parole fossero ripetute, ed esse furono ripetute con pari distinzione. «Dico che nessun uomo è scomparso.»
+
+Dopo un attimo di [[Silence|silenzio]], aggiunse: «Suppongo che la cosa più difficile sia convincere qualcuno che 0+0+0=0. Gli uomini credono alle cose più strane se sono in serie; ecco perché [[Macbeth]] credette alle tre parole delle tre streghe; benché la prima fosse qualcosa che sapeva già da sé; e l'ultima qualcosa che poteva realizzare soltanto da sé. Ma nel vostro caso il termine di mezzo è il più debole di tutti.»
+
+«Che cosa intendete?»
+
+«Voi non avete visto nessuno svanire. Non avete visto l'uomo svanire dal piroscafo. Non avete visto l'uomo svanire dalla tenda. Tutto ciò poggia sulla parola del signor Pringle, che non discuterò per il momento. Ma ammetterete questo; voi non avreste mai creduto alla sua parola, se non l'aveste vista confermata dalla scomparsa del vostro impiegato; proprio come [[Macbeth]] non avrebbe mai creduto che sarebbe stato [[King|re]], se non fosse stato confermato nel credere che sarebbe stato signore di Cawdor.»
+
+«Può darsi che sia vero,» disse [[The Professor|il Professore]], annuendo lentamente. «Ma quando fu confermato, seppi che era la [[Truth|verità]]. Voi dite che io stesso non vidi nulla. Ma vidi; vidi il mio stesso impiegato scomparire. Berridge scomparve davvero.»
+
+«Berridge non scomparve,» disse [[Father Brown]]. «Al contrario.»
+
+«Che diavolo intendete con "al contrario"?»
+
+«Intendo,» disse [[Father Brown]], «che egli non scomparve affatto. Egli apparve.»
+
+Openshaw fissò l'amico dall'altra parte del tavolo, ma gli occhi gli si erano già alterati in fronte, come facevano quando si concentravano su una nuova presentazione di un problema. Il prete proseguì: «Egli apparve nel vostro studio, travestito con una folta barba rossa e abbottonato in un goffo mantello, e si annunciò come il reverendo Luke Pringle. E voi non avevate mai guardato il vostro stesso impiegato abbastanza da riconoscerlo di nuovo, quand'era in un travestimento così alla buona.»
+
+«Ma di certo,» cominciò [[The Professor|il Professore]].
+
+«Sapreste descriverlo alla polizia?» chiese [[Father Brown]]. «Voi no. Sapevate probabilmente che era ben rasato e portava occhiali colorati; e il solo togliersi quegli occhiali era un travestimento migliore di qualunque altra cosa indossata. Non avevate mai visto i suoi occhi più di quanto ne aveste vista l'[[Soul|anima]]; allegri occhi ridenti. Aveva piazzato il suo assurdo libro e tutta la scenografia; poi ruppe con calma la [[Window|finestra]], si mise barba e mantello ed entrò nel vostro studio; sapendo che voi non l'avevate mai guardato in vita vostra.»
+
+«Ma perché avrebbe dovuto giocarmi uno scherzo così insensato?» chiese Openshaw.
+
+«Ma perché non l'avevate mai guardato in vita vostra,» disse Father Brown; e la sua mano si curvò e si strinse leggermente, come se avesse potuto battere il pugno sul tavolo, se fosse stato incline a gesticolare. «Lo chiamavate la [[Machine|Macchina]] Calcolatrice, perché era tutto ciò per cui l'avevate mai usato. Non avevate mai scoperto nemmeno quel che un estraneo, entrato per caso nel vostro ufficio, avrebbe potuto scoprire in cinque minuti di chiacchiere: che era un personaggio; che era pieno di stramberie; che aveva ogni sorta di opinioni su di voi e sulle vostre teorie e sulla vostra reputazione di uomo capace di "smascherare" la gente. Non capite la sua smania di dimostrare che non sapevate smascherare il vostro stesso impiegato? Ha idee balzane di ogni genere. Sul collezionare cose inutili, per esempio. Non conoscete la storia della donna che comprò le due cose più inutili: una vecchia targa d'ottone da medico e una gamba di legno? Con quelle il vostro ingegnoso impiegato creò il personaggio del notevole dottor Hankey; con la stessa facilità con cui creò il fantasioso capitano Wales. Piazzandoli in casa [[house|propria]]...»
+
+«Volete dire che quel posto che abbiamo visitato oltre Hampstead era la casa [[house|dimora]] di Berridge?» chiese Openshaw.
+
+«Conoscevate la sua casa [[house|dimora]]... o anche solo il suo indirizzo?» ribatté il prete. «Sentite, non pensiate che io stia parlando in modo irrispettoso di voi o del vostro lavoro. Voi siete un grande servitore della [[Truth|verità]] e sapete che non potrei mai mancarle di rispetto. Avete smascherato un mucchio di bugiardi, quando ci mettevate la testa. Ma non guardate soltanto ai bugiardi. Ogni tanto, guardate anche agli uomini onesti... come il cameriere.»
+
+«Dov'è ora Berridge?» chiese [[The Professor|il Professore]], dopo un lungo [[Silence|silenzio]].
+
+«Non ho il minimo [[Doubt|dubbio]],» disse [[Father Brown]], «che sia tornato nel vostro ufficio. Anzi, vi rientrò nel preciso istante in cui il reverendo Luke Pringle lesse il tremendo volume e si dissolse nel nulla.»
+
+Vi fu un altro lungo [[Silence|silenzio]] e poi il professor Openshaw rise; con la risata di un grande uomo abbastanza grande da saper sembrare piccolo. Poi disse bruscamente:
+
+«Suppongo di meritarmelo; per non aver notato i più prossimi aiutanti che ho. Ma dovete ammettere che l'accumularsi degli episodi era piuttosto formidabile. Non avete mai provato, sia pure per un istante, un timore reverenziale davanti al tremendo volume?»
+
+«Oh, quello,» disse [[Father Brown]]. «L'ho aperto appena l'ho visto lì posato. Sono tutte pagine bianche. Vedete, io non sono superstizioso.»

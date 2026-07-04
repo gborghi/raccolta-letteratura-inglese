@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/all-i-survey-(chesterton)">All I Survey</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/all_i_survey/chapter_41">‹ Chapter 41</a><a class="ex-next" href="/testi/chesterton/atomized/all_i_survey/chapter_43">Chapter 43 ›</a></div>
@@ -134,5 +136,35 @@ as everything except what it ought to be, an independence.
 But the modern world is not so happy in its oblivion of [[Honour|honour]],
 or the eloquence that springs from [[Honour|honour]], as to force us
 to believe in the permanent oblivion of Scott.
+
+-*-
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/all-i-survey-(chesterton)">All I Survey</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/all_i_survey/chapter_41">‹ Chapter 41</a><a class="ex-next" href="/testi/chesterton/atomized/all_i_survey/chapter_43">Chapter 43 ›</a></div>
+</nav>
+
+XLII
+
+_Su Sir Walter Scott_
+
+DURANTE un breve ma forzato ozio che mi è toccato di recente, ho letto gran parte di ciò che si è scritto e detto sul conto di Sir Walter Scott, in occasione delle varie celebrazioni del suo centenario. Come è ovvio, molto era altamente elogiativo, forse fin troppo ovviamente. D'altro canto, gran parte aveva un'aria del tutto superflua di scusa, o un'aria ancora più assurda di degnazione protettrice. Qualcosa era addirittura crudo e privo di comprensione. Un giornalista non solo annunciava con disinvoltura che nella leggenda o nell'autorità letteraria di Walter Scott non vedeva nulla, ma si appellava contro di lui, addirittura, all'autorità di Mark Twain. La cosa mi tocca press'a poco come se mi si dicesse d'improvviso che Charlie Chaplin non ha mai tratto gran piacere da Omero. Non ho la minima idea, s'intende, se sia così; per quanto ne so, il signor Chaplin potrebbe essere un dotto omerista e un profondo studioso di Scott; potrebbe avere gusto migliore di Mark Twain. Mark Twain fu certamente, a modo suo, qualcosa come un uomo di genio; e così, del resto, lo è Charlie Chaplin. Ma esistono la tradizione artistica e la presa culturale, e non mi sarei mai sognato di attendermi che Mark Twain comprendesse la [[Greatness|grandezza]] dei romanzi di Waverley, così come non comprese la [[Greatness|grandezza]] dei romanzi arturiani. Ciò che egli chiamò lo _Yankee alla [[Court|corte]] di [[King Arthur|Re Artù]]_ era, naturalmente, una versione assai goffa di [[King Arthur|Re Artù]] processato nel [[Court|tribunale]] dello Yankee, e i verdetti di quel [[Court|tribunale]] furono conclusivi press'a poco quanto quelli del [[Court|tribunale]] di Dayton, nel Tennessee.
+
+E ancora: può darsi che di Scott sia vero, in questo momento, che è trascurato, secondo una stima meramente numerica dei lettori; e lo stesso, a quest'[[Time|epoca]], potrebbe con ogni probabilità esser vero di Mark Twain. Ma quel genere di calcolo, alla lunga, non fa alcuna differenza per il genio letterario. Vi furono anche, s'intende, difese animose; forse un po' troppo sulla difensiva. Il signor John Buchan si ergeva risoluto, con pugnale e spadone, dinanzi al sacrario; ma persino nel suo eccellente discorso una o due frasi lasciavano intendere che egli difendeva non soltanto una santità, bensì un segreto. C'era giusto un tocco di quello spirito con cui lo Scozzese sembra talvolta quasi vietare all'Inglese di comprendere Burns o di godere dell'haggis. Vi è senza dubbio una [[Truth|verità]] in questa tradizione, giacché ogni scrittore che sia davvero universale è anche nazionale; ma Scott non era soltanto nazionale, bensì assai universale. Poeti continentali, come Goethe e Victor Hugo, difficilmente sarebbero stati se stessi senza Scott. Byron, forse il più continentale di tutti i poeti, non sarebbe stato se stesso senza Scott. Scott fece romanzi scozzeschi, ma fece il [[Romance|romanzesco]] europeo.
+
+Penso che i due tratti di Scott più vividi e vitali siano oggi i più invisibili. Sono tratti naturalmente trascurati nella nostra [[Time|epoca]], ma il difetto sta nella nostra [[Time|epoca]] e non in Scott. Uno riguarda il fatto che egli scrisse romanzi storici, nel senso di storie gremite di personaggi storici. L'altro riguarda il fatto che egli stesso fu un personaggio storico. In verità ci dice molto di più sulla propria età che sulle età precedenti. Troppo spesso si dimentica che i suoi libri migliori, come _L'antiquario_, riguardano in realtà la sua stessa età. Alcuni fra i migliori sono quelli assai prossimi alla sua età, come _Rob Roy_, o il mirabile finale di _Guy Mannering_. Ma vi era qualcosa che Scott condivideva in modo particolare con la propria epoca e che rileggeva sempre a ritroso dentro le altre epoche. Non era soltanto quella cosa vaga che si chiama [[Romance|romanzesco]]; era anche una cosa assai chiara e classica che si chiama retorica. Non era un uomo del Settecento per nulla. Egli era, quasi quanto era ogni altra cosa, un grande oratore. È uno dei limiti della nostra così limitata [[Time|epoca]] farsi beffe dell'oratoria. Ma è soprattutto perché i nostri politici non sanno innalzarvisi che i nostri critici non si degnano di scendervi. Sul finire del Settecento vi era una sorta di atmosfera ardente di grande eloquenza, e in nessuno più che negli uomini d'azione. Nelson e Napoleone erano davvero retorici quanto Danton e Fox.
+
+Ora, Scott possedeva questa specie di eloquenza nel grado più alto. Ne varrebbe [[Well|ben]] la pena di comporre un'antologia dei soli discorsi tratti dai romanzi e dai poemetti romanzeschi di Scott. Dalla risposta del Franklin sassone a De Bracy alla maledizione di Meg Merrilees contro il Laird di Ellangowan, dal discorso con cui il bilioso Luigi XI si leva a dignità di fronte alla [[Death|morte]] al rude rifiuto di Douglas, a Tantallon, di porgere la mano a Marmion, tutti i discorsi sono animosi ed efficaci, considerati come discorsi, qualunque cosa possano valere come scritti. In ciò sta gran parte dell'errore intorno ai romanzi in versi. Non sono sempre poesia, ma sono sempre letteratura. Sono letteratura di quel genere particolare che si esprime in un'oratoria diretta e battagliera; nel discorso che sta più vicino all'azione. La replica della Dama di Branksome ai nemici che tengono in ostaggio suo figlio è quasi filastrocca, considerata come poesia; ma è diretta e persino mortale, considerata come oratoria. Tutto è appropriato ed efficace, dallo scherno per il [[Courage|coraggio]] di Lord Dacre al brusco volgersi dell'invocazione di sfida:
+
+    Per il giovane erede della stirpe di Branksome
+    Dio gli sia d'aiuto, e Dio sia d'aiuto a me.
+
+È questo il modo in cui uomini come Danton e Fox conducevano il [[debate|dibattito]], tra le sommosse e le rivoluzioni che riempirono l'epoca stessa di Scott. Ed egli fu uomo della propria epoca più di quanto sapesse.
+
+Una cosa la trovò davvero nel passato, non ancora del tutto distrutta nel presente, e fu la sua ispirazione principale. Egli non sapeva nulla della religione del passato, e la sua nozione del gotico era più barbara di quella di qualunque Goto. Ma aveva estratto dalle sue tradizioni feudali qualcosa di cui il suo spirito si nutriva veramente; qualcosa senza cui il mondo moderno muore di fame. Trovò l'idea dell'[[Honour|Onore]], che è la vera energia in ogni eloquenza battagliera. Che un uomo debba difendere la dignità della propria famiglia, del proprio podere, del proprio grado legittimo sotto il [[King|Re]], perfino del proprio semplice nome, di qualcosa almeno che fosse più grande di lui stesso: questo era il [[Fire|fuoco]] che Scott trovò ancora ardente dal feudalesimo del Trecento ed espresse nell'oratoria del Settecento. Di tutti gli ideali morali è oggi il più trascurato e frainteso. Non c'è da stupirsi che l'eloquenza da esso scaturita sia anch'essa fraintesa e trascurata. Vediamo quel vuoto spalancarsi ovunque intorno a noi; nel fatto che il [[Marriage|matrimonio]] viene discusso come tutto tranne che per ciò che è, un voto; o che la proprietà viene discussa come tutto tranne che per ciò che dovrebbe essere, un'indipendenza. Ma il mondo moderno non è così felice nel suo oblio dell'[[Honour|onore]], o dell'eloquenza che scaturisce dall'[[Honour|onore]], da costringerci a credere nell'oblio permanente di Scott.
 
 -*-

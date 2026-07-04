@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/secret-fr-brown-(chesterton)">secret Fr Brown</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/secret_fr_brown/story_07_the_red_moon_moon_of_meru">‹ Story 07 THE RED Moon MOON OF MERU</a><a class="ex-next" href="/testi/chesterton/atomized/secret_fr_brown/story_01_the_mirror_mirror_of_the_magistrate/part_01">part 01 ›</a></div>
@@ -1127,3 +1129,746 @@ conceive any man being such a Judas?"
 "I could try." said [[Father Brown]].
 
 THE END
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/secret-fr-brown-(chesterton)">secret Fr Brown</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/secret_fr_brown/story_07_the_red_moon_moon_of_meru">‹ Story 07 THE RED Moon MOON OF MERU</a><a class="ex-next" href="/testi/chesterton/atomized/secret_fr_brown/story_01_the_mirror_mirror_of_the_magistrate/part_01">part 01 ›</a></div>
+</nav>
+<nav class="excerpt-children">
+<div class="excerpt-children-label">In questa sezione</div>
+<ul><li><a href="/testi/chesterton/atomized/secret_fr_brown/story_08_the_chief_mourner_of_marne/part_01">Part 1</a></li><li><a href="/testi/chesterton/atomized/secret_fr_brown/story_08_the_chief_mourner_of_marne/part_02">Part 2</a></li><li><a href="/testi/chesterton/atomized/secret_fr_brown/story_08_the_chief_mourner_of_marne/part_03">Part 3</a></li><li><a href="/testi/chesterton/atomized/secret_fr_brown/story_08_the_chief_mourner_of_marne/part_04">Part 4</a></li><li><a href="/testi/chesterton/atomized/secret_fr_brown/story_08_the_chief_mourner_of_marne/part_05">Part 5</a></li><li><a href="/testi/chesterton/atomized/secret_fr_brown/story_08_the_chief_mourner_of_marne/part_06">Part 6</a></li><li><a href="/testi/chesterton/atomized/secret_fr_brown/story_08_the_chief_mourner_of_marne/part_07">Part 7</a></li><li><a href="/testi/chesterton/atomized/secret_fr_brown/story_08_the_chief_mourner_of_marne/part_08">Part 8</a></li><li><a href="/testi/chesterton/atomized/secret_fr_brown/story_08_the_chief_mourner_of_marne/part_09">Part 9</a></li><li><a href="/testi/chesterton/atomized/secret_fr_brown/story_08_the_chief_mourner_of_marne/part_10">Part 10</a></li></ul>
+</nav>
+
+VIII IL PRINCIPALE DOLENTE DI MARNE
+
+Un abbagliante bagliore di [[Lightning|fulmine]] sbiancò i boschi grigi, tracciando ogni fogliame increspato fino all'ultima foglia arricciata, come se ogni dettaglio fosse disegnato a punta d'argento o inciso nell'argento. Quello stesso strano prodigio del [[Lightning|fulmine]], per cui sembra registrare milioni di minuzie in un istante di [[Time|tempo]], mise in risalto ogni cosa, dall'elegante disordine del picnic disteso sotto l'albero ramoso ai pallidi tratti della [[Road|strada]] serpeggiante, al cui termine attendeva un'automobile bianca. In lontananza una [[Melancholy|malinconica]] dimora dalle quattro torri, simile a un [[Castle|castello]], che nella sera grigia era stata soltanto un fioco e remoto ammasso di mura come una nuvola in disfacimento, parve [[spring|balzare]] in primo piano, ergendosi con tutti i suoi tetti merlati e le finestre vuote e fisse. E in questo, almeno, quella luce aveva in sé qualcosa di rivelatorio. Poiché per alcuni di coloro che erano raccolti sotto l'albero quel [[Castle|castello]] era davvero cosa sbiadita e quasi dimenticata, destinata a dimostrare il suo potere di [[spring|risorgere]] in primo piano nelle loro vite.
+
+La luce rivestì anche, per un istante, del medesimo splendore argenteo, almeno una figura umana che si ergeva immobile come una di quelle torri. Era quella di un uomo alto, ritto su un rialzo del terreno al di sopra degli altri, i quali per lo più sedevano sull'erba o si chinavano a raccogliere il cesto e le stoviglie. Indossava un pittoresco mantello corto, o cappa, fermato da un fermaglio e una catena d'argento, che sfolgorarono come una stella quando il lampo li sfiorò; e qualcosa di metallico nella sua figura immobile era accentuato dal fatto che i suoi capelli fittamente ricciuti erano di quel giallo brunito che si può davvero dire oro, e avevano l'aria di essere più giovani del suo volto, bello di una dura bellezza aquilina, ma che, sotto la luce intensa, appariva un poco rugoso e avvizzito. Forse aveva sofferto per l'uso di una maschera di trucco, giacché Hugo Romaine era il più grande attore del suo tempo. Per quell'istante di illuminazione i riccioli d'oro, la maschera d'avorio e l'ornamento d'argento facevano brillare la sua figura come quella di un uomo in armatura; l'istante successivo la sua sagoma era una silhouette scura, anzi nera, contro il grigio malaticcio del cielo piovoso della sera.
+
+Ma c'era qualcosa nella sua immobilità, simile a quella di una statua, che la distingueva dal gruppo ai suoi piedi. Tutte le altre figure intorno a lui avevano fatto l'ordinario, involontario movimento all'improvviso urto della luce; poiché, per quanto i cieli fossero piovosi, era il primo lampo della [[Storm|tempesta]]. L'unica signora presente, la cui aria di portare con grazia i capelli grigi, come se ne fosse davvero fiera, la denotava una matrona degli Stati Uniti, chiuse con naturalezza gli occhi ed emise un grido acuto. Il marito inglese, il generale Outram, un anglo-indiano assai flemmatico, con la testa calva, i baffi neri e le fedine di foggia antiquata, alzò lo sguardo con un solo movimento rigido e poi riprese la propria occupazione di rassettare. Un giovane di nome Mallow, molto grande e timido, con occhi bruni come quelli di un cane, lasciò cadere una tazza e si scusò goffamente. Un terzo uomo, assai più elegante, con una testa risoluta, come quella di un curioso terrier, e i capelli grigi tirati indietro con rigidezza, non era altri che il grande editore di giornali, Sir John Cockspur; imprecò senza ritegno, ma non in un idioma o accento inglese, giacché veniva da Toronto. Ma l'uomo alto dal mantello corto stava ritto, letteralmente come una statua, nel crepuscolo; il suo volto d'aquila, sotto il pieno bagliore, era parso il busto di un imperatore romano, e le palpebre scolpite non si erano mosse.
+
+Un momento dopo, l'oscura volta si spaccò con un tuono, e la statua parve prendere vita. Girò il capo al di sopra della spalla e disse con noncuranza:
+
+«Circa un minuto e mezzo tra il lampo e il fragore, ma credo che la [[Storm|tempesta]] si stia avvicinando. Un albero non dovrebbe essere un buon ombrello contro il [[Lightning|fulmine]], ma presto ci servirà per la pioggia. Credo che sarà un [[deluge|diluvio]].»
+
+Il giovane lanciò un'occhiata un po' ansiosa alla signora e disse: «Non possiamo trovare riparo da qualche parte? Laggiù pare esserci una [[house|casa]].»
+
+«C'è una [[house|casa]] laggiù», osservò il generale, piuttosto tetro; «ma non proprio ciò che chiamereste un albergo ospitale.»
+
+«È curioso», disse la moglie con tristezza, «che dobbiamo essere sorpresi da una [[Storm|tempesta]] senza nessuna [[house|casa]] vicina se non quella, proprio fra tutte.»
+
+Qualcosa nel suo tono parve trattenere il più giovane, che era insieme sensibile e comprensivo; ma nulla del genere intimidiva l'uomo di Toronto.
+
+«Che cosa ha di strano?» chiese. «Sembra piuttosto una rovina.»
+
+«Quel luogo», disse il generale seccamente, «appartiene al Marchese di Marne.»
+
+«Perbacco!» disse Sir John Cockspur. «Ne ho sentito parlare a lungo, di quel tipo, comunque; e un tipo ben strano, per giunta. L'anno scorso l'ho lanciato come mistero di prima pagina sul Comet. "Il Nobiluomo Che Nessuno Conosce."»
+
+«Sì, anch'io ho sentito parlare di lui», disse il giovane Mallow a voce bassa. «Pare che circolino ogni sorta di storie bizzarre sul perché si nasconda in quel modo. Ho sentito dire che porta una maschera perché è lebbroso. Ma qualcun altro mi ha detto con tutta serietà che c'è una maledizione sulla famiglia: un [[Child|bambino]] nato con qualche spaventosa deformità, che viene tenuto in una stanza buia.»
+
+«Il Marchese di Marne ha tre teste», osservò Romaine con tutta gravità. «Una volta ogni trecento anni un nobile a tre teste adorna l'albero genealogico. Nessun essere umano osa avvicinarsi alla [[house|casa]] maledetta, salvo una silenziosa processione di cappellai, mandati a fornire un numero abnorme di cappelli. Ma», e la sua voce prese una di quelle inflessioni profonde e terribili, capaci di suscitare un tale brivido a teatro, «amici miei, quei cappelli non hanno forma umana.»
+
+La signora americana lo guardò accigliata e con una lieve aria di diffidenza, come se quel gioco di voce l'avesse turbata suo malgrado.
+
+«Non mi piacciono i suoi scherzi macabri», disse; «e comunque preferirei che non scherzasse su questo.»
+
+«Odo e obbedisco», replicò l'attore; «ma mi è forse vietato, come alla Brigata Leggera, persino domandarne il perché?»
+
+«La ragione», ella replicò, «è che non è affatto il Nobile che Nessuno Conosce. Io lo conosco di persona, o almeno lo conoscevo assai [[Well|bene]] quando, trent'anni fa, era addetto d'ambasciata a Washington, ed eravamo tutti giovani. E non portava alcuna maschera; con me, almeno, non la portava. Non era un lebbroso, per quanto fosse forse quasi altrettanto solo. E aveva una sola testa e un solo cuore, e quel cuore era spezzato».
+
+«Una sventurata storia d'[[Love|amore]], si capisce», disse Cockspur. «Farebbe proprio al caso mio, per il Comet».
+
+«Suppongo sia un complimento per noi donne», ella replicò pensierosa, «che voi diate sempre per scontato che a spezzare il cuore d'un uomo sia una donna. Ma vi sono altre specie d'[[Love|amore]] e di lutto. Non avete mai letto 'In Memoriam'? Non avete mai sentito parlare di Davide e Gionata? Ciò che distrusse il povero Marne fu la [[Death|morte]] del fratello; o meglio, era in realtà un cugino di primo grado, ma era stato cresciuto con lui come un fratello, ed era assai più vicino a lui di quanto lo siano la maggior parte dei fratelli. James Mair, come si chiamava il marchese quando io lo conoscevo, era il maggiore dei due, ma recitò sempre la parte dell'adoratore, con Maurice Mair come suo dio. E, a sentir lui, Maurice Mair era davvero un [[Wonder|prodigio]]. James non era uno [[Fool|sciocco]], ed eccelleva nel suo mestiere politico; ma pare che Maurice sapesse fare quello e ogni altra cosa: che fosse un brillante [[artist|artista]], un attore dilettante, un musicista, e tutto il resto. James era assai bello lui stesso, alto, forte e vigoroso, dal naso arcuato e importante; per quanto immagino che i giovani d'oggi lo troverebbero assai bizzarro, con la barba divisa in due folte basette secondo la moda di quei tempi vittoriani. Ma Maurice era del tutto sbarbato e, a giudicare dai ritratti che mi furono mostrati, indubbiamente assai bello; benché somigliasse un poco più a un tenore di quanto a un gentiluomo si convenga. James mi domandava di continuo, e senza posa, se il suo amico non fosse una meraviglia, se qualunque donna non se ne sarebbe [[Love|innamorata]], e via dicendo, sino a diventare piuttosto tedioso, se non fosse che tutto si mutò così di colpo in [[Tragedy|tragedia]]. La sua intera vita pareva racchiusa in quell'idolatria, e un bel giorno l'idolo rovinò a terra e si spezzò come una qualunque bambola di porcellana. Un colpo di freddo preso al mare, ed era tutto finito».
+
+«E dopo di ciò», domandò il giovane, «si rinchiuse così com'è ora?»
+
+«Dapprima se ne andò all'estero», ella rispose; «via, verso l'Asia e le isole dei cannibali e Dio sa dove. Questi colpi mortali prendono le diverse persone in diversi modi. A lui vennero nella forma d'un distacco assoluto, d'una recisione da ogni cosa, persino dalla tradizione e, per quanto gli era possibile, dalla [[Memory|memoria]]. Non poteva sopportare un accenno all'antico legame; un ritratto, un aneddoto, o anche solo un'associazione d'idee. Non poteva sopportare l'incombenza d'un grande funerale pubblico. Non desiderava che fuggire. Rimase lontano per dieci anni. Sentii dire per certe voci che aveva cominciato a rianimarsi un poco verso la fine dell'[[Exile|esilio]]; ma quando fece ritorno alla propria [[Home|casa]] ricadde del tutto. Sprofondò in una malinconia religiosa, e quella è praticamente [[Madness|follia]]».
+
+«I preti se lo son presi, dicono», borbottò il vecchio generale. «So che elargì migliaia di sterline per fondare un monastero, e vive lui stesso quasi come un monaco, o comunque come un eremita. Non riesco a capire quale bene credano che ciò possa fare».
+
+«Maledetta superstizione», sbuffò Cockspur; «faccende del genere andrebbero smascherate. Ecco un uomo che avrebbe potuto essere utile all'Impero e al mondo, e questi vampiri se lo prendono e lo succhiano fino a prosciugarlo. Scommetto che con le loro innaturali idee non gli hanno neppure permesso di sposarsi».
+
+«No, non si è mai sposato», disse la signora. «Era fidanzato quando lo conoscevo, per la verità, ma non credo che quel legame venisse mai al primo posto per lui, e credo che se ne andasse insieme a tutto il resto quando ogni cosa se ne andò. Come [[Hamlet|Amleto]] e [[Ophelia|Ofelia]]: perse la presa sull'[[Love|amore]] perché perse la presa sulla vita. Ma io conoscevo la fanciulla; anzi, la conosco ancora. Detto tra noi, era [[Viola]] Grayson, figlia del vecchio ammiraglio. Neppure lei si è mai sposata».
+
+«È infame! È infernale!» gridò Sir John, balzando in piedi. «Non è soltanto una [[Tragedy|tragedia]], ma un delitto. Ho un dovere verso il pubblico, e intendo far luce su tutto questo insensato [[nightmare|incubo]]. Nel ventesimo secolo...»
+
+Restò quasi soffocato dalla propria protesta, e poi, dopo un [[Silence|silenzio]], il vecchio soldato disse:
+
+«[[Well|Ebbene]], non pretendo di sapere gran che di simili cose, ma penso che questa gente di chiesa dovrebbe meditare un versetto che dice: 'Lascia che i morti seppelliscano i loro morti'».
+
+«Solo che, purtroppo, è proprio a questo che somiglia», disse sua moglie con un sospiro. «È proprio come una di quelle storie da brivido d'un morto che seppellisce un altro morto, ancora e ancora, per sempre».
+
+«La [[Storm|tempesta]] è passata sopra di noi», disse Romaine, con un sorriso piuttosto imperscrutabile. «Dopotutto non dovrete far visita a quella [[house|casa]] inospitale».
+
+Ella d'un tratto rabbrividì.
+
+«Oh, non lo farò mai più!» esclamò.
+
+Mallow la fissava.
+
+«Mai più! L'avete dunque già tentato?» gridò.
+
+«[[Well|Ebbene]], una volta lo feci», disse, con una leggerezza non priva d'un tocco d'[[Pride|orgoglio]]; «ma non c'è bisogno di tornare su tutto questo. Ora non piove più, ma penso che faremmo meglio a rientrare verso l'automobile».
+
+Mentre si allontanavano in processione, Mallow e il generale chiudevano la fila; e quest'ultimo disse d'un tratto, abbassando la voce:
+
+«Non voglio che quel piccolo villano di Cockspur senta, ma poiché avete domandato è meglio che sappiate. È l'unica cosa che non posso perdonare a Marne; ma suppongo che questi [[Monks|monaci]] lo abbiano addestrato a quel modo. Mia moglie, che era stata la miglior amica ch'egli avesse mai avuto in [[america|America]], si recò davvero a quella [[house|casa]] mentre lui passeggiava nel [[Garden|giardino]]. Egli guardava a terra come un monaco, nascosto in un cappuccio nero ridicolo quanto qualunque maschera. Ella aveva fatto passare il proprio biglietto da visita, e stava ritta là, proprio sul suo cammino. E lui le passò accanto senza una parola né uno sguardo, come se fosse stata una pietra. Non era umano; era come un orribile automa. Ben può ella chiamarlo [[Well|davvero]] un uomo morto».
+
+«È tutto molto strano», disse il giovane in tono piuttosto vago. «Non è
+come... come mi sarei aspettato.»
+
+Il giovane signor Mallow, uscito da quel picnic alquanto lugubre, si mise
+pensieroso in cerca di un amico. Non conosceva alcun [[Monks|monaco]], ma
+conosceva un prete, che desiderava ardentemente mettere di fronte alle
+curiose rivelazioni udite quel pomeriggio. Sentiva che gli sarebbe
+piaciuto moltissimo conoscere la [[Truth|verità]] intorno alla crudele
+superstizione che gravava sulla [[house|casa]] di Marne, come la nera nube
+temporalesca che l'aveva vista incombere sopra di essa.
+
+Dopo essere stato rimandato da un luogo all'altro, riuscì infine a
+stanare l'amico [[Father Brown]] nella [[house|casa]] di un altro amico, un
+amico cattolico romano, dalla numerosa famiglia. Entrò con una certa
+bruschezza e trovò [[Father Brown]] seduto sul pavimento, con espressione
+grave, intento ad appuntare sulla testa di un orsacchiotto il cappellino
+alquanto vistoso appartenente a una bambola di cera.
+
+Mallow avvertì una lieve sensazione di incongruità; ma era troppo preso
+dal proprio problema per rimandare la conversazione, se avesse potuto
+evitarlo. Barcollava per una sorta di contraccolpo in un processo
+subconscio che andava avanti da qualche [[Time|tempo]]. Riversò tutta la
+[[Tragedy|tragedia]] della [[house|casa]] di Marne così come l'aveva udita
+dalla moglie del generale, insieme alla maggior parte dei commenti del
+generale e del proprietario del giornale. Con la menzione del
+proprietario del giornale parve crearsi una nuova atmosfera di
+attenzione.
+
+[[Father Brown]] non sapeva né si curava che i suoi atteggiamenti fossero
+comici o dozzinali. Continuò a starsene seduto sul pavimento, dove la sua
+testa grossa e le gambe corte lo facevano somigliare a un bimbo che gioca
+con i balocchi. Ma nei suoi grandi occhi grigi venne ad affacciarsi una
+certa espressione che si è vista negli occhi di molti uomini in molti
+secoli lungo la storia di millenovecento anni; solo che di norma quegli
+uomini non sedevano sui pavimenti, bensì ai tavoli dei concili, o sugli
+stalli dei capitoli, o sui troni dei vescovi e dei cardinali; uno sguardo
+lontano, vigile, greve dell'[[Humility|umiltà]] di un fardello troppo grande
+per gli uomini. Qualcosa di quello sguardo ansioso e proteso lontano si
+ritrova negli occhi dei marinai e di coloro che hanno guidato attraverso
+tante tempeste la [[Ship|nave]] di san Pietro.
+
+«È molto gentile da parte sua raccontarmi tutto questo», disse. «Le sono
+davvero terribilmente grato, perché forse dovremo farci qualcosa. Se si
+trattasse soltanto di persone come lei e il generale, potrebbe restare
+una faccenda privata; ma se Sir John Cockspur ha intenzione di diffondere
+una qualche specie di allarme sui suoi giornali... [[Well|be']], è un
+orangista di Toronto, e difficilmente possiamo tenercene fuori.»
+
+«Ma che cosa dirà a proposito?» chiese Mallow con ansia.
+
+«La prima cosa che direi a proposito», disse [[Father Brown]], «è che, così
+come la racconta lei, non suona come la vita. Supponiamo, per amor di
+discussione, che noi si sia tutti quanti vampiri pessimisti che
+inaridiscono ogni felicità umana. Supponiamo che io sia un vampiro
+pessimista.» Si grattò il naso con l'orsacchiotto, si rese vagamente
+conto dell'incongruità e lo posò. «Supponiamo di distruggere davvero
+ogni legame umano e familiare. Perché mai dovremmo reirretire un uomo in
+un vecchio legame di famiglia proprio quando dava segno di volersene
+liberare? Di certo è un po' ingiusto accusarci al tempo stesso di
+schiacciare un simile affetto e di incoraggiare una simile infatuazione.
+Non vedo perché anche un maniaco religioso dovrebbe essere proprio quel
+particolare tipo di monomaniaco, né come la religione potrebbe accrescere
+quella mania, se non ravvivandola con un po' di [[Hope|speranza]].»
+
+Poi, dopo una pausa, disse: «Mi piacerebbe parlare con quel suo
+generale».
+
+«È stata sua moglie a raccontarmelo», disse Mallow.
+
+«Sì», replicò l'altro; «ma m'interessa di più ciò che lui non le ha
+detto che ciò che lei le ha detto.»
+
+«Crede che lui sappia più di quanto sappia lei?»
+
+«Credo che sappia più di quanto lei dica», rispose [[Father Brown]]. «Lei
+mi dice che ha usato una frase sul perdonare ogni cosa tranne la
+scortesia verso sua moglie. Dopotutto, che altro c'era da perdonare?»
+
+[[Father Brown]] si era alzato e aveva scrollato i suoi abiti informi, e
+stava a guardare il giovane con gli occhi socchiusi e un'espressione
+leggermente beffarda. Un istante dopo si era voltato e, raccolti
+l'ombrello altrettanto informe e il grande cappello sciupato, se ne andò
+arrancando giù per la strada.
+
+Arrancò attraverso una varietà di ampie vie e piazze finché non giunse a
+una bella [[house|casa]] all'antica nel West End, dove chiese al domestico se
+potesse vedere il generale Outram. Dopo un breve parlamentare fu
+introdotto in uno studio, arredato meno di libri che di carte geografiche
+e mappamondi, dove l'anglo-indiano calvo e dalle basette nere sedeva
+fumando un lungo, sottile sigaro nero e giocherellando con degli spilli
+su una mappa.
+
+«Mi spiace importunarla», disse il prete, «e tanto più perché non posso
+impedire che l'intrusione appaia come un'ingerenza. Desidero parlarle di
+una faccenda privata, ma solo nella [[Hope|speranza]] di mantenerla privata.
+Purtroppo alcune persone son propense a renderla pubblica. Credo,
+generale, che lei conosca Sir John Cockspur.»
+
+La massa di baffi e basette nere fungeva da una sorta di maschera per la
+metà inferiore del volto del vecchio generale; era sempre difficile
+capire se sorridesse, ma i suoi occhi castani avevano spesso un certo
+luccichio.
+
+«Lo conoscono tutti, immagino», disse. «Io non lo conosco molto
+[[Well|bene]]..»
+
+«[[Well|Be']], sa che tutti sanno quel che lui sa», disse [[Father Brown]]
+sorridendo, «quando ritiene opportuno stamparlo. E dal mio amico signor
+Mallow, che lei conosce, mi risulta, apprendo che Sir John sta per
+stampare certi articoli anticlericali roventi fondati su quello che
+chiamerebbe il Mistero di Marne. "I [[Monks|monaci]] fanno impazzire il
+marchese", eccetera.»
+
+«Se è così», replicò il generale, «non vedo perché dovrebbe venire da me
+a parlarne. Devo dirle che sono un fervente protestante.»
+
+«Sono molto affezionato ai fervidi protestanti», disse [[Father Brown]].
+«Sono venuto da lei perché ero sicuro che mi avrebbe detto la
+[[Truth|verità]]. [[Hope|Spero]] che non sia poco caritatevole sentirsi meno
+sicuri di Sir John Cockspur.»
+
+Gli occhi castani luccicarono di nuovo, ma il generale non disse nulla.
+
+«Generale», disse [[Father Brown]], «supponiamo che Cockspur, o uno della sua risma, si mettesse a spargere per il mondo storie infamanti contro il vostro paese e la vostra [[Flag|bandiera]]. Supponiamo che dicesse che il vostro reggimento è fuggito in battaglia, o che il vostro stato maggiore era al soldo del nemico. Lascereste che qualcosa si frapponesse fra voi e i fatti capaci di smentirlo? Non vi mettereste sulle tracce della [[Truth|verità]] a ogni costo, chiunque ne dovesse pagare il prezzo? [[Well|Ebbene]], anch'io ho un reggimento, e appartengo a un esercito. Lo si sta screditando con quella che, ne sono certo, è una storia inventata; ma io la storia vera non la conosco. Potete biasimarmi se cerco di scoprirla?»
+
+Il soldato rimase in silenzio, e il prete proseguì:
+
+«Ho sentito la storia che ieri hanno raccontato a Mallow, di come Marne si sia ritirato col cuore spezzato per la [[Death|morte]] di colui che gli era più di un fratello. Sono certo che c'era qualcosa di più. Sono venuto a chiedervi se ne sapete di più.»
+
+«No», disse il generale seccamente; «non posso dirvi altro.»
+
+«Generale», disse [[Father Brown]] con un largo sorriso, «mi avreste dato del gesuita, se fossi stato io a servirmi di un simile equivoco.»
+
+Il soldato rise burbero, poi ringhiò con ostilità assai maggiore.
+
+«[[Well|Ebbene]], allora non ve lo dirò», disse. «Che ne dite?»
+
+«Dico soltanto», rispose il prete con dolcezza, «che in tal caso dovrò dirvelo io.»
+
+Gli occhi castani lo fissarono; ma ora non vi era in essi alcun luccichio. Egli continuò:
+
+«Mi costringete a esporre, forse con minor delicatezza di quanta ne mettereste voi, perché è evidente che c'è dell'altro dietro. Sono più che certo che il marchese abbia motivi migliori per il suo rimuginare e i suoi segreti, che non il semplice aver perduto un vecchio amico. [[Doubt|Dubito]] che i preti c'entrino qualcosa; non so nemmeno se sia un [[convert|convertito]] o solo un uomo che acquieta la propria [[Conscience|coscienza]] con le opere di carità; ma sono sicuro che è qualcosa di più di un semplice principale in lutto. Poiché insistete, vi dirò una o due delle cose che me lo hanno fatto pensare.
+
+«Primo: si è detto che James Mair fosse promesso sposo, ma che in qualche modo tornò libero dopo la [[Death|morte]] di Maurice Mair. Perché mai un uomo d'onore dovrebbe rompere il fidanzamento solo perché è avvilito dalla [[Death|morte]] di un terzo? È molto più probabile che si sarebbe volto a esso in cerca di conforto; ma, in ogni caso, la decenza lo obbligava a portarlo a compimento.»
+
+Il generale si mordeva i baffi neri, e i suoi occhi castani erano diventati assai guardinghi e persino inquieti, ma non rispose.
+
+«Un secondo punto», disse [[Father Brown]], aggrottando le sopracciglia sul tavolo. «James Mair chiedeva di continuo alla sua amata se il cugino Maurice non fosse molto affascinante, e se le donne non dovessero ammirarlo. Non so se alla dama sia venuto in mente che quella domanda potesse avere un altro significato.»
+
+Il generale si alzò in piedi e cominciò a camminare, anzi a battere i piedi, per la stanza.
+
+«Oh, al diavolo tutto quanto», disse, ma senza alcuna aria di animosità.
+
+«Il terzo punto», riprese [[Father Brown]], «è il curioso modo di portare il lutto di James Mair: distruggere tutte le reliquie, velare tutti i ritratti, e così via. A volte succede, lo ammetto; potrebbe significare un semplice, affettuoso cordoglio. Ma potrebbe significare qualcos'altro.»
+
+«Che il diavolo vi porti», disse l'altro. «Ancora per quanto continuerete ad accumulare tutto questo?»
+
+«Il quarto e il quinto punto sono piuttosto decisivi», disse il prete con calma, «specie se li si prende insieme. Il primo è che Maurice Mair sembra non aver avuto funerali degni di nota, considerando che era il rampollo cadetto di una grande famiglia. Dev'essere stato sepolto in fretta; forse di nascosto. E l'ultimo punto è che James Mair scomparve all'istante per terre straniere; fuggì, di fatto, sino ai confini del mondo.
+
+«E dunque», proseguì, sempre con la stessa voce sommessa, «quando cercate di annerire la mia religione per far risplendere la storia dell'affetto puro e perfetto di due fratelli, sembra proprio----»
+
+«Basta!», gridò Outram in un tono simile a uno sparo di [[Pistol|pistola]]. «Devo dirvi di più, o penserete di peggio. Lasciate che vi dica una cosa, per cominciare. Fu un combattimento leale.»
+
+«Ah», disse [[Father Brown]], e parve esalare un immenso respiro.
+
+«Fu un duello», disse l'altro. «Fu probabilmente l'ultimo duello combattuto in Inghilterra, e ormai è cosa di molto tempo fa.»
+
+«Questo va meglio», disse [[Father Brown]]. «Grazie a Dio; va molto meglio.»
+
+«Meglio delle cose brutte che pensavate, immagino?», disse il generale burbero. «[[Well|Ebbene]], è facile per voi sogghignare sull'affetto puro e perfetto; ma per quanto ciò [[Well|valga]], era vero. James Mair era davvero devoto al cugino, cresciutogli accanto come un fratello minore. I fratelli e le sorelle maggiori si dedicano talvolta a un [[Child|bambino]] così, specie quando è una sorta di fenomeno precoce. Ma James Mair era quel genere di carattere semplice in cui perfino l'odio è, in un certo senso, disinteressato. Voglio dire che anche quando la sua tenerezza si muta in ira, essa resta oggettiva, rivolta verso il di fuori, verso il suo oggetto; egli non è consapevole di sé. Ora, il povero Maurice Mair era proprio l'opposto. Era molto più cordiale e amato; ma il suo [[success|successo]] lo aveva fatto vivere in una [[house|casa]] di specchi. Era il primo in ogni sorta di sport, arte e virtù; vinceva quasi sempre, e prendeva le sue vittorie con garbo. Ma se mai, per qualche caso, perdeva, si intravedeva appena qualcosa di non altrettanto garbato; era un po' geloso. Non c'è bisogno che vi racconti tutta la miserabile storia di come fu un po' geloso del fidanzamento del cugino; di come non seppe trattenere la sua irrequieta [[Vanity|vanità]] dall'intromettersi. Basti dire che una delle poche cose in cui James Mair, per ammissione comune, lo superava era la mira con la [[Pistol|pistola]]; e con quella la [[Tragedy|tragedia]] finì.»
+
+«Volete dire che la [[Tragedy|tragedia]] ebbe inizio», replicò il prete. «La [[Tragedy|tragedia]] del sopravvissuto. Pensavo che non avesse bisogno di vampiri in tonaca per rendersi infelice.»
+
+«A mio parere è più infelice di quanto sia necessario», disse il generale. «Dopotutto, come dico, fu una [[Tragedy|tragedia]] spaventosa, ma fu un combattimento leale. E Jim aveva avuto grande provocazione.»
+
+«Come fate a sapere tutto questo?» domandò il prete.
+
+«Lo so perché l'ho visto» rispose Outram impassibile. «Ero il secondo di James Mair, e vidi Maurice Mair cadere fulminato sulla sabbia sotto i miei occhi.»
+
+«Vorrei che me ne diceste di più» disse [[Father Brown|padre Brown]] pensieroso. «Chi era il secondo di Maurice Mair?»
+
+«Lui aveva un padrino più illustre» replicò il generale con tono cupo. «Il suo secondo era Hugo Romaine, il grande attore, sapete. Maurice andava pazzo per il teatro e aveva preso sotto la sua ala Romaine (che allora era un astro nascente, ma ancora un uomo alle prese con le difficoltà); ne finanziava le imprese in cambio di lezioni che il professionista gli impartiva nel suo passatempo di attore dilettante. Ma Romaine, immagino, dipendeva allora quasi interamente dal suo ricco amico, sebbene oggi sia più ricco di qualunque [[aristocrat|aristocratico]]. Perciò l'aver fatto da secondo dice ben poco su ciò che egli pensasse della contesa. Si batterono alla maniera inglese, con un solo secondo per parte; io avrei voluto almeno un chirurgo, ma Maurice rifiutò con veemenza, dicendo che meno gente ne sapeva, meglio era; e che, alla peggio, avremmo potuto subito procurarci aiuto. "C'è un medico nel villaggio, a meno di mezzo miglio" disse; "lo conosco, e possiede il [[Horse|cavallo]] più veloce della contea. Lo si potrebbe portare qui in un [[Time|attimo]]; ma non c'è bisogno di chiamarlo prima di sapere come vanno le cose." [[Well|Ebbene]], sapevamo tutti che era Maurice a correre il rischio maggiore, giacché la [[Pistol|pistola]] non era la sua arma; e così, quando egli rifiutò ogni assistenza, nessuno se la sentì di chiederla. Il duello fu combattuto su un tratto pianeggiante di sabbia, sulla costa orientale della Scozia; e tanto la vista quanto il rumore ne erano celati ai casolari dell'interno da un lungo bastione di dune chiazzate d'erba rada; probabilmente parte dei links, benché a quei tempi nessun inglese avesse mai sentito parlare di golf. Nelle dune si apriva una fenditura profonda e tortuosa, attraverso la quale sbucammo sulla spiaggia. La rivedo ancora adesso: prima una larga striscia di un giallo spento, e più oltre una striscia più stretta di un rosso cupo; un rosso cupo che già pareva la lunga [[Shadow|ombra]] di un atto di [[Blood|sangue]].
+
+«La cosa in sé parve accadere con orribile [[Speed|rapidità]]; come se un turbine si fosse abbattuto sulla sabbia. Al crepitìo stesso dello sparo Maurice Mair parve girare su se stesso come una trottola e piombare bocconi come un birillo. E, per quanto strano, mentre fino a quell'istante mi ero angustiato per lui, nel momento in cui morì tutta la mia pietà andò all'uomo che l'aveva ucciso; e così è tuttora, a quest'ora e in questo giorno. Sapevo che con quel colpo l'intero, immane, terribile pendolo dell'[[Love|amore]] che aveva riempito la vita del mio amico sarebbe tornato indietro; e che, per quante ragioni gli altri potessero trovare di perdonarlo, egli non avrebbe mai perdonato se stesso, in eterno. E così, chissà come, l'immagine davvero viva, quella che mi arde nella [[Memory|memoria]] al punto che non riesco a scacciarla, non è quella della catastrofe, del fumo, del lampo e della figura che cade. Quella parve subito conclusa, come il rumore che desta un uomo dal sonno. Ciò che vidi, ciò che vedrò sempre, è il povero Jim che accorre verso l'amico e avversario caduto; la barba castana che appariva nera contro il pallore spettrale del volto, con i lineamenti marcati che si stagliavano contro il mare; e i gesti frenetici con cui mi faceva segno di correre a cercare il chirurgo nel [[Hamlet|villaggio]] dietro le dune. Aveva lasciato cadere la [[Pistol|pistola]] mentre correva; teneva un guanto in una mano, e le dita molli e svolazzanti di esso parevano allungarsi e sottolineare la sua selvaggia pantomima, ora indicando, ora invocando aiuto. Ecco l'immagine che davvero mi rimane; e in quell'immagine non c'è nient'altro, se non lo sfondo a strisce di sabbia e di mare, e il [[Body|corpo]] scuro e morto disteso immobile come una pietra, e la figura scura del secondo del morto, ritta, arcigna e immota contro l'orizzonte.»
+
+«Romaine se ne stava immobile?» domandò il prete. «Avrei pensato che sarebbe corso verso il cadavere anche più in fretta.»
+
+«Forse lo fece dopo che me ne fui andato» replicò il generale. «Colsi quell'immagine imperitura in un istante, e l'istante successivo mi ero già tuffato fra le dune, lontano dalla vista degli altri. [[Well|Ebbene]], il povero Maurice aveva scelto bene, in fatto di medici; benché il dottore giungesse troppo tardi, giunse più in fretta di quanto avrei creduto possibile. Questo chirurgo di villaggio era un uomo davvero notevole, dai capelli rossi, irascibile, ma straordinariamente forte in prontezza e presenza di spirito. Lo scorsi solo per un lampo, mentre balzava sul suo [[Horse|cavallo]] e partiva tuonando verso la scena della [[Death|morte]], lasciandomi indietro di parecchio. Ma in quel lampo ebbi un senso così vivo della sua personalità che pregai Dio che fosse stato davvero chiamato prima che il duello cominciasse; poiché credo, sull'[[Soul|anima]] mia, che in qualche modo l'avrebbe impedito. Così com'era, ripulì la faccenda con prodigiosa celerità; molto prima che io potessi trascinarmi di nuovo fino alla riva sui miei due piedi, la sua impetuosa concretezza aveva sistemato ogni cosa; il cadavere fu temporaneamente sepolto tra le dune e l'infelice omicida era stato persuaso a fare l'unica cosa che potesse fare: fuggire per salvarsi la vita. Costeggiò la riva finché non giunse a un porto e riuscì a lasciare il paese. Il resto lo conoscete; il povero Jim rimase all'estero per molti anni; più tardi, quando l'intera vicenda fu insabbiata o dimenticata, fece ritorno al suo tetro [[Castle|castello]] ed ereditò automaticamente il titolo. Non l'ho più rivisto da quel giorno a oggi, eppure so che cosa sta scritto a lettere rosse nel più profondo buio della sua mente.»
+
+«Ho capito» disse [[Father Brown|padre Brown]] «che alcuni di voi hanno tentato di vederlo?»
+
+«Mia moglie non ha mai desistito dai suoi tentativi» disse il generale. «Si rifiuta di ammettere che un simile delitto debba escludere un uomo dal consorzio umano per sempre; e confesso che sono incline a darle ragione. Ottant'anni prima lo si sarebbe ritenuto del tutto normale; e in verità fu più omicidio colposo che assassinio. Mia moglie è grande amica della sfortunata signora che fu l'occasione della contesa, e ha in mente che, se Jim acconsentisse a rivedere una volta ancora [[Viola]] Grayson, e a ricevere da lei la certezza che le vecchie liti sono sepolte, ciò potrebbe restituirgli la [[Sanity|ragione]]. Mia moglie sta convocando per domani una sorta di consiglio di vecchi amici, mi pare. È una donna di grande energia.»
+
+[[Father Brown]] giocherellava con gli spilli posati accanto alla mappa del
+generale; sembrava ascoltare piuttosto distrattamente. Aveva quel tipo di
+mente che vede le cose per immagini; e l'immagine che aveva colorato persino
+la mente prosaica del pratico soldato assumeva tinte ancora più
+significative e sinistre nella mente più mistica del sacerdote. Vedeva la
+desolazione rosso cupo della sabbia, del colore stesso di Aceldama, e il
+morto che giaceva in un mucchio scuro, e l'uccisore che, chinandosi mentre
+correva, gesticolava con un guanto in un rimorso demente, e sempre la sua
+[[Imagination|immaginazione]] tornava alla terza cosa che ancora non riusciva a
+incastrare in nessun quadro umano: il secondo dell'ucciso, ritto immobile e
+misterioso, come una scura statua sull'orlo del mare. A qualcuno poteva
+sembrare un dettaglio; ma per lui era proprio quella figura rigida a
+ergersi come un ritto punto interrogativo.
+
+Perché Romaine non si era mosso all'istante? Era la cosa naturale che
+facesse un secondo, per semplice umanità, per non dire per [[Friendship|amicizia]], lasciando
+[[Alone|stare]] tutto il resto. Anche se ci fosse stato qualche [[Double|doppio]] gioco o qualche
+movente più oscuro non ancora compreso, si sarebbe pensato che lo si
+facesse almeno per salvare le apparenze. In ogni caso, quando tutto era
+finito, sarebbe stato naturale che il secondo si muovesse molto prima che
+l'altro secondo fosse svanito oltre le dune.
+
+«Questo Romaine si muove molto lentamente?» domandò.
+
+«È strano che lo chieda» rispose Outram, con uno sguardo tagliente. «No, in
+realtà si muove molto in fretta, quando si muove. Ma, per una curiosa
+coincidenza, stavo giusto pensando che proprio questo pomeriggio l'ho visto
+stare esattamente così, durante il temporale. Se ne stava con quel suo
+mantello dalle fibbie d'argento, e con una mano sul fianco, esattamente e in
+ogni linea come stava su quella sabbia insanguinata tanto tempo fa. Il
+[[Lightning|lampo]] ci accecò tutti, ma lui non batté ciglio. Quando tornò il buio, era
+ancora là in piedi.»
+
+«Immagino che non sia ancora là adesso?» chiese [[Father Brown]]. «Voglio
+dire, immagino che a un certo punto si sia mosso?»
+
+«No, si mosse in modo assai brusco quando venne il tuono» replicò l'altro.
+«Sembrava che lo stesse aspettando, perché ci disse l'esatto [[Time|momento]]
+dell'intervallo. C'è qualcosa che non va?»
+
+«Mi sono punto con uno dei suoi spilli» disse [[Father Brown]]. «[[Hope|Spero]]
+di non averlo rovinato.» Ma i suoi occhi avevano avuto un guizzo e la sua
+bocca si era chiusa di scatto.
+
+«Si sente male?» chiese il generale, fissandolo.
+
+«No» rispose il sacerdote; «solo, non sono così stoico quanto il suo amico
+Romaine. Non posso fare a meno di battere le palpebre quando vedo la luce.»
+
+Si voltò per raccogliere cappello e ombrello; ma quando fu arrivato alla
+porta parve ricordarsi di qualcosa e tornò indietro. Avvicinandosi molto a
+Outram, gli scrutò il volto con un'espressione piuttosto smarrita, da pesce
+moribondo, e fece il gesto di volerlo trattenere per il panciotto.
+
+«Generale» sussurrò quasi, «per amor di Dio, non lasci che sua moglie e
+quell'altra donna si ostinino a rivedere Marne. Non svegli i [[dogs|cani]] che dormono,
+o scatenerà tutti i mastini dell'inferno.»
+
+Il generale rimase [[Alone|solo]] con un'aria di sconcerto nei suoi occhi bruni,
+mentre tornava a sedersi per giocherellare con i suoi spilli.
+
+Ancor più grande, tuttavia, fu lo sconcerto che accompagnò le successive
+tappe della benevola congiura della moglie del generale, che aveva radunato
+il suo piccolo gruppo di solidali per dare l'[[Storm|assalto]] al [[Castle|castello]] del
+misantropo. La prima sorpresa in cui si imbatté fu l'inspiegabile assenza di
+uno degli attori dell'antica [[Tragedy|tragedia]]. Quando, come convenuto, si radunarono
+in un tranquillo albergo assai vicino al [[Castle|castello]], non vi era traccia di
+Hugo Romaine, finché un telegramma tardivo di un avvocato non li informò che
+il grande attore aveva improvvisamente lasciato il paese. La seconda
+sorpresa, quando cominciarono il bombardamento mandando su un messaggio al
+[[Castle|castello]] con l'urgente richiesta di un colloquio, fu la figura che venne
+fuori da quei cupi cancelli a ricevere la delegazione in nome del nobile
+proprietario. Non era affatto la figura che avrebbero immaginato adatta a
+quei tetri viali o a quelle formalità quasi feudali. Non era un maestoso
+intendente o un maggiordomo, e nemmeno un dignitoso siniscalco o un valletto
+alto e decorativo. L'unica figura che uscì dal cavernoso portone del
+[[Castle|castello]] fu la figura bassa e trasandata di Padre Brown.
+
+«Sentite» disse, nel suo modo semplice e imbarazzato. «Ve l'avevo detto che
+avreste fatto molto meglio a lasciarlo [[Alone|in pace]]. Sa quel che fa, e non
+farete altro che rendere tutti infelici.»
+
+Lady Outram, accompagnata da una signora alta e vestita con sobrietà, ancora
+molto bella, presumibilmente l'originaria signorina Grayson, guardò il
+piccolo sacerdote con freddo disprezzo.
+
+«Davvero, signore» disse; «questa è un'occasione del tutto privata, e non
+capisco che cosa ci abbiate a che fare voi.»
+
+«Fidatevi di un prete, quando c'è un'occasione privata di mezzo» ringhiò Sir
+John Cockspur. «Non sapete che vivono dietro le quinte come topi dietro un
+rivestimento di legno, scavandosi la via nelle stanze private di tutti?
+Guardate come si è già impadronito del povero Marne.» Sir John era un po'
+imbronciato, poiché i suoi amici aristocratici lo avevano persuaso a
+rinunciare al grande scoop pubblicitario in cambio del privilegio di essere
+davvero dentro un segreto dell'alta società. Non gli passò mai per la mente
+di domandarsi se non somigliasse anche lui a un topo dietro un rivestimento.
+
+«Oh, va tutto bene» disse [[Father Brown]], con l'impazienza dell'ansia. «Ne
+ho parlato con il marchese e con l'unico prete con cui abbia mai avuto a che
+fare; le sue inclinazioni clericali sono state molto esagerate. Vi dico che
+sa quel che fa; e vi imploro tutti di lasciarlo [[Alone|in pace]].»
+
+«Vorreste lasciarlo a questa [[Death|morte]] vivente, a intristire e impazzire in
+una rovina!» esclamò Lady Outram, con voce che tremava un poco. «E tutto
+perché ebbe la sventura di uccidere un uomo in duello più di un quarto di
+secolo fa. È questa che voi chiamate [[Charity|carità]] cristiana?»
+
+«Sì» rispose il sacerdote imperturbabile; «questa è ciò che io chiamo
+[[Charity|carità]] cristiana.»
+
+«Ecco tutta la [[Charity|carità]] cristiana che riuscirete mai a cavare da questi
+preti», gridò Cockspur con amarezza. «È la loro unica idea di perdono per
+un pover'uomo che ha commesso una follia: murarlo vivo e lasciarlo morire
+di [[Death|fame]] fra digiuni e penitenze e immagini del [[Fire|fuoco]] infernale. E tutto
+perché una pallottola ha sbagliato mira.»
+
+«Davvero, [[Father Brown]]», disse il generale Outram, «credete in coscienza
+che egli meriti questo? È questa la vostra [[Christianity|cristianità]]?»
+
+«Certo la vera [[Christianity|cristianità]]», intervenne la moglie con maggior dolcezza,
+«è quella che tutto sa e tutto perdona; l'[[Love|amore]] che sa ricordare... e dimenticare.»
+
+«[[Father Brown]]», disse il giovane Mallow con grande serietà, «di solito
+concordo con quel che dite; ma che io sia impiccato se riesco a seguirvi
+qui. Un colpo esploso in un duello, seguito all'istante dal rimorso, non è
+un'offesa poi così tremenda.»
+
+«Ammetto», disse [[Father Brown]] con voce spenta, «di prendere una visione
+più grave della sua offesa.»
+
+«Che Dio ammorbidisca il vostro cuore di pietra», disse la strana signora,
+parlando per la prima [[Time|volta]]. «Andrò a parlare con il mio vecchio amico.»
+
+Quasi che la sua voce avesse ridestato un [[Ghost|fantasma]] in quella grande
+[[house|casa]] grigia, qualcosa si mosse là dentro e una figura comparve sulla
+soglia buia in cima alla grande gradinata di pietra. Era vestita di nero
+funebre, ma c'era qualcosa di selvaggio nei capelli scoloriti e qualcosa,
+nei lineamenti pallidi, che pareva il relitto di una statua di marmo.
+
+[[Viola]] Grayson prese a salire con calma la grande gradinata; e Outram
+borbottò dentro i suoi folti baffi neri: «Immagino che non le farà il vuoto
+attorno come fece con mia moglie.»
+
+[[Father Brown]], che pareva sprofondato in un cedimento di [[Resignation|rassegnazione]],
+alzò lo sguardo verso di lui per un istante.
+
+«Il povero Marne ha già abbastanza sulla [[Conscience|coscienza]]», disse. «Assolviamolo
+di ciò che possiamo. Almeno non fece mai il vuoto attorno a vostra moglie.»
+
+«Che cosa intendete con questo?»
+
+«Non l'ha mai conosciuta», disse [[Father Brown]].
+
+Mentre parlavano, l'alta signora salì con fierezza l'ultimo gradino e si
+trovò faccia a faccia con il marchese di Marne. Le labbra di lui si mossero,
+ma qualcosa accadde prima che potesse parlare.
+
+Un urlo squarciò lo spazio aperto e andò a spegnersi in gemiti d'eco lungo
+quelle mura vuote. Per la subitaneità e l'angoscia con cui erompeva dalle
+labbra della donna, avrebbe potuto essere un semplice grido inarticolato.
+Ma era una parola articolata; e tutti la udirono con orribile nitidezza.
+
+«Maurice!»
+
+«Che c'è, cara?» gridò lady Outram, e cominciò a correre su per i gradini;
+poiché l'altra donna vacillava come se potesse precipitare giù per tutta la
+gradinata di pietra. Poi si voltò e prese a scendere, tutta curva e
+rannicchiata e tremante. «Oh, mio Dio», andava dicendo. «Oh, mio Dio, non
+è affatto Jim. è Maurice!»
+
+«Credo, lady Outram», disse il prete con gravità, «che fareste meglio ad
+andare con la vostra amica.»
+
+Come si voltarono, una voce piombò su di loro come una pietra dalla cima
+della scala di pietra, una voce che avrebbe potuto uscire da una [[Grave|fossa]]
+aperta. Era roca e innaturale, come le voci degli uomini rimasti [[Alone|soli]] con
+[[Birds|uccelli]] selvatici su isole [[Desert|deserte]]. Era la voce del marchese di Marne,
+e disse: «Fermatevi!»
+
+«[[Father Brown]]», disse, «prima che i vostri amici si disperdano, vi autorizzo
+a raccontar loro tutto ciò che ho raccontato a voi. Qualunque cosa ne segua,
+non me ne nasconderò più.»
+
+«Avete ragione», disse il prete, «e vi sarà messo a credito.»
+
+«Sì», disse [[Father Brown]] con calma alla compagnia che lo interrogava,
+poco dopo. «Egli mi ha dato il diritto di parlare; ma non lo racconterò
+come me lo raccontò lui, bensì come io stesso lo scoprii. [[Well|Ebbene]], seppi fin
+dal principio che la funesta influenza monacale era tutta sciocchezza da
+romanzi. La nostra gente potrebbe forse, in certi casi, incoraggiare un uomo
+a entrare regolarmente in un monastero, ma di certo non a gironzolare in un
+[[Castle|castello]] medievale. Allo stesso modo, di certo non vorrebbero che si
+travestisse da monaco senza esserlo. Ma mi colpì il pensiero che potesse
+essere lui stesso a voler indossare un cappuccio da monaco, o addirittura una
+maschera. Ne avevo sentito parlare dapprima come di uno in lutto, poi come di
+un assassino; ma già covavo il vago sospetto che la sua ragione per
+nascondersi potesse riguardare non solo ciò che era, ma chi era.
+
+«Poi venne la vivida descrizione del duello data dal generale; e la cosa più
+viva, per me, fu la figura del signor Romaine sullo sfondo; era viva proprio
+perché stava sullo sfondo. Perché mai il generale si lasciò dietro, sulla
+sabbia, un uomo morto, il cui amico se ne stava a metri di distanza da lui
+come un ceppo o una pietra? Poi udii qualcosa, una mera inezia, a proposito
+di una curiosa abitudine di Romaine di restarsene del tutto immobile quando
+attende che accada qualcosa; come attese che il tuono seguisse il
+[[Lightning|lampo]]. [[Well|Ebbene]], quel gesto automatico, in questo caso, tradì ogni cosa.
+Anche in quell'antica occasione, Hugo Romaine stava aspettando qualcosa.»
+
+«Ma era tutto finito», disse il generale. «Che cosa poteva mai aspettare?»
+
+«Aspettava il duello», disse [[Father Brown]].
+
+«Ma vi dico che io il duello l'ho visto!» gridò il generale.
+
+«E io vi dico che il duello non lo vedeste affatto», disse il prete.
+
+«Siete pazzo?» incalzò l'altro. «O perché dovreste credermi cieco?»
+
+«Perché foste accecato... affinché non vedeste», disse il prete. «Perché siete
+un uomo buono e Dio ebbe [[Mercy|misericordia]] della vostra [[innocence|innocenza]], e distolse il
+vostro volto da quella lotta contro natura. Egli innalzò un muro di sabbia e
+di [[Silence|silenzio]] fra voi e ciò che davvero accadde su quella orribile riva rossa,
+abbandonata agli spiriti furenti di Giuda e di [[Cain|Caino]].»
+
+«Diteci che cosa accadde!» ansimò la signora con impazienza.
+
+«Lo racconterò come lo trovai», proseguì il prete. «La cosa successiva che
+scoprii fu che Romaine l'attore aveva ammaestrato Maurice Mair in tutti i
+trucchi del mestiere della recitazione. Ebbi una volta un amico che si diede
+al teatro. Mi fece un resoconto assai spassoso di come la sua prima settimana
+d'addestramento consistesse interamente nel cadere; nell'imparare a cadere
+lungo disteso senza una vacillazione, come se fosse morto stecchito.»
+
+«Dio abbia [[Mercy|misericordia]] di noi!» gridò il generale, e afferrò i braccioli
+della poltrona come per alzarsi.
+
+«Amen» disse [[Father Brown|padre Brown]]. «Mi avete raccontato con quanta rapidità sembrò accadere; e infatti Maurice cadde prima ancora che il proiettile partisse, e rimase perfettamente immobile, in attesa. E il suo scellerato amico e maestro se ne stava anch'egli sullo sfondo, in attesa.»
+
+«Noi siamo in attesa» disse Cockspur «e mi pare di non poter più aspettare.»
+
+«James Mair, già annientato dal rimorso, si precipitò verso l'uomo caduto e si chinò per sollevarlo. Aveva gettato via la [[Pistol|pistola]] come una cosa immonda; ma la [[Pistol|pistola]] di Maurice giaceva ancora sotto la sua mano, e non era stata scaricata. Allora, mentre il più anziano si chinava sul più giovane, il più giovane si sollevò sul braccio sinistro e colpì l'altro in pieno [[Body|petto]]. Sapeva di non essere altrettanto bravo tiratore, ma a quella distanza non c'era pericolo di mancare il cuore.»
+
+Il resto della compagnia si era alzato e fissava il narratore con volti pallidi. «Ne siete certo?» chiese infine Sir John, con voce impastata.
+
+«Ne sono certo» disse [[Father Brown|padre Brown]] «e ora affido Maurice Mair, l'attuale marchese di Marne, alla vostra [[Charity|carità]] cristiana. Oggi mi avete insegnato qualcosa sulla [[Charity|carità]] cristiana. Mi è parso che le concedeste un posto quasi troppo ampio; ma quanta fortuna per i poveri peccatori come costui che voi erriate tanto dalla parte della [[Mercy|misericordia]], e siate pronti a riconciliarvi con l'intera umanità.»
+
+«Al diavolo» esplose il generale; «se credete che io mi lasci riconciliare con una lurida vipera come quella, vi dico che non spenderei una parola per salvarlo dall'inferno. Ho detto che potrei perdonare un duello leale e in piena regola, ma di tutti gli assassini fedifraghi...»
+
+«Andrebbe linciato» gridò Cockspur eccitato. «Andrebbe bruciato vivo come un negro negli Stati. E se davvero esiste una cosa come bruciare in eterno, che ci bruci pure di gran [[Well|gusto]]...»
+
+«Io non lo toccherei neanche con la punta di un remo» disse Mallow.
+
+«C'è un limite alla [[Charity|carità]] umana» disse Lady Outram, tremando in ogni fibra.
+
+«C'è» disse [[Father Brown|padre Brown]] seccamente; «ed è proprio questa la vera differenza fra la [[Charity|carità]] umana e la [[Charity|carità]] cristiana. Dovrete perdonarmi se non sono rimasto del tutto schiacciato dal vostro disprezzo per la mia scarsa carità di oggi; o dalle prediche che mi avete fatto sul perdono dovuto a ogni peccatore. Perché mi pare che voi perdoniate soltanto i peccati che in fondo non ritenete peccaminosi. Perdonate i criminali soltanto quando commettono ciò che non considerate delitti, ma piuttosto convenzioni. Così tollerate un duello convenzionale, esattamente come tollerate un [[divorce|divorzio]] convenzionale. Perdonate perché non c'è nulla da perdonare.»
+
+«Ma, al diavolo» gridò Mallow «non pretenderete mica che noi si sia in grado di perdonare una cosa tanto vile?»
+
+«No» disse il prete; «ma noi dobbiamo essere in grado di perdonarla.»
+
+Si alzò di scatto e volse lo sguardo sui presenti.
+
+«Uomini simili dobbiamo toccarli non con la punta di un remo, ma con una benedizione» disse. «Dobbiamo pronunciare la parola che li salverà dall'inferno. Noi [[Alone|soli]] restiamo a liberarli dalla [[Despair|disperazione]] quando la vostra [[Charity|carità]] umana li abbandona. Andate pure per il vostro sentiero fiorito, perdonando tutti i vostri vizi prediletti e mostrandovi generosi con i vostri delitti alla moda; e lasciateci nelle tenebre, vampiri della [[Night|notte]], a consolare coloro che davvero hanno bisogno di consolazione; coloro che compiono cose davvero indifendibili, cose che né il mondo né essi stessi possono difendere; e che nessuno, tranne un prete, perdonerà. Lasciateci con gli uomini che commettono i delitti meschini, ripugnanti e reali; meschini come san Pietro quando il gallo cantò, eppure venne l'[[Dawn|alba]].»
+
+«L'[[Dawn|alba]]» ripeté Mallow dubbioso. «Volete dire la [[Hope|speranza]]... per lui?»
+
+«Sì» rispose l'altro. «Lasciate che vi ponga una domanda. Voi siete gran dame e uomini d'[[Honour|onore]], sicuri di voi stessi; mai, potete dirvi, vi abbassereste a un movente tanto squallido. Ma ditemi questo. Se qualcuno di voi si fosse così abbassato, chi di voi, anni dopo, quando fosse vecchio e ricco e al sicuro, si sarebbe lasciato spingere dalla [[Conscience|coscienza]] o dal confessore a raccontare una simile storia sul proprio conto? Dite di non poter commettere un delitto tanto vile. Potreste confessare un delitto tanto vile?» Gli altri raccolsero le proprie cose e, a due a due e a tre a tre, sfilarono fuori dalla sala in [[Silence|silenzio]]. E [[Father Brown|padre Brown]], anch'egli in [[Silence|silenzio]], fece ritorno al [[Melancholy|malinconico]] [[Castle|castello]] di Marne.
+
+IL SEGRETO DI [[Flambeau|FLAMBEAU]]
+
+«...quel genere di omicidi in cui recitavo la parte dell'assassino» disse [[Father Brown|padre Brown]], posando il bicchiere di vino. La fila di quadri scarlatti di delitti gli era passata davanti in quell'istante.
+
+«È vero» riprese, dopo una breve pausa «che qualcun altro aveva recitato la parte dell'assassino prima di me, defraudandomi dell'esperienza vera e propria. Ero una sorta di sostituto; sempre pronto a interpretare l'assassino. Almeno, mi facevo un dovere di conoscere la parte a fondo. Voglio dire che, quando cercavo di immaginare lo stato d'animo in cui una cosa simile sarebbe stata compiuta, mi accorgevo sempre che avrei potuto compierla io stesso a certe condizioni mentali, ma non ad altre; e in genere non a quelle più ovvie. E allora, naturalmente, sapevo chi l'avesse davvero commessa; e in genere non era la persona più ovvia.
+
+«Per esempio, sembrava ovvio dire che il poeta rivoluzionario avesse ucciso il vecchio giudice che vedeva rosso davanti ai rivoluzionari rossi. Ma questa non è affatto una ragione perché il poeta rivoluzionario lo uccidesse. Non lo è, se si pensa a che cosa significherebbe davvero essere un poeta rivoluzionario. Ora, mi misi coscienziosamente a essere un poeta rivoluzionario. Intendo quel particolare tipo di [[Lover|amante]] pessimista e anarchico della rivolta, non come [[Reform|riforma]], ma piuttosto come distruzione. Cercai di sgombrare la mia mente da quegli elementi di [[Sanity|equilibrio]] e di buon senso costruttivo che ho avuto la fortuna di apprendere o di ereditare. Chiusi e oscurai tutti i lucernari attraverso cui scende la buona luce del giorno dal cielo; immaginai una mente illuminata soltanto da una luce rossa che sale dal basso; un [[Fire|fuoco]] che squarcia le rocce e apre abissi verso l'alto. E persino con la visione al suo culmine più selvaggio e più tetro, non riuscivo a capire perché un simile visionario dovesse troncare la propria carriera scontrandosi con un comune poliziotto, per aver ucciso uno su un milione di vecchi sciocchi convenzionali, come li avrebbe chiamati. Non lo farebbe; per quante [[songs|canzoni]] di violenza scrivesse. Non lo farebbe, proprio perché scriverebbe [[songs|canzoni]] di violenza. Un uomo che sa esprimersi in un [[Song|canto]] non ha bisogno di esprimersi nel [[suicide|suicidio]]. Una poesia era per lui un avvenimento; e ne avrebbe volute avere altre. Poi pensai a un altro genere di pagano; quello che non distrugge il mondo, ma dipende interamente dal mondo. Pensai che, se non fosse stato per la grazia di Dio, avrei potuto essere un uomo per il quale il mondo era un incendio di luci elettriche, con nient'altro che tenebra assoluta al di là e tutt'intorno. L'uomo mondano, che vive davvero soltanto per questo mondo e non crede in nessun altro, il cui [[success|successo]] e i cui piaceri mondani sono tutto ciò che potrà mai strappare al nulla... ecco l'uomo che sarà davvero capace di qualunque cosa, quando è in pericolo di perdere il mondo intero senza salvare nulla. Non è l'uomo rivoluzionario, ma l'uomo rispettabile, colui che commetterebbe qualsiasi delitto... per salvare la propria rispettabilità. Pensate a che cosa significherebbe la rovina per un uomo come quel brillante avvocato di grido; e la rovina per l'unico delitto ancora davvero odiato dal suo mondo alla moda... il tradimento della patria. Se io fossi stato nella sua posizione, e non avessi avuto nulla di meglio della sua [[philosophy|filosofia]], il cielo [[Alone|solo]] sa che cosa avrei potuto fare. È proprio qui che questo piccolo esercizio religioso torna tanto salutare.»
+
+«Qualcuno potrebbe trovarlo piuttosto morboso», disse Grandison Chace
+con aria dubbiosa.
+
+«Qualcuno», disse [[Father Brown|padre Brown]] con gravità, «indubbiamente pensa che
+la [[Charity|carità]] e l'[[Humility|umiltà]] siano morbose. Il nostro amico poeta lo penserebbe di certo. Ma
+non sto discutendo di simili questioni; cerco soltanto di rispondere alla vostra domanda
+su come proceda di solito. Alcuni dei vostri compatrioti mi hanno
+a quanto pare fatto l'[[Honour|onore]] di chiedermi come sia riuscito a sventare qualche
+errore giudiziario. [[Well|Ebbene]], potrete tornare a riferir loro che lo faccio
+per morbosità. Ma non voglio proprio che pensino che lo faccia
+per [[Magic|magia]]».
+
+Chace continuava a guardarlo con un cipiglio meditabondo; era troppo
+intelligente per non afferrare l'idea; e insieme avrebbe detto di
+avere la mente troppo sana per gradirla. Si sentiva come se stesse parlando con
+un uomo solo e insieme con cento assassini. C'era qualcosa di [[Uncanny|perturbante]]
+in quella figura minuscola, appollaiata come un folletto accanto alla stufa che pareva anch'essa un folletto;
+e nel pensiero che quella testa rotonda avesse racchiuso tutto un universo di
+sragionamenti selvaggi e di ingiustizie immaginate. Era come se il vasto vuoto di
+tenebra dietro di lui fosse una calca di oscure figure gigantesche, i [[Ghosts|fantasmi]] di
+grandi criminali tenuti a bada dal cerchio [[Magic|magico]] della stufa rossa, ma
+pronti a fare a pezzi il loro padrone.
+
+«[[Well|Ebbene]], temo di trovarlo davvero morboso», disse con franchezza. «E non sono
+sicuro che non sia quasi altrettanto morboso della [[Magic|magia]]. Ma morbosità o no, una
+cosa va detta: dev'essere un'esperienza interessante». Poi
+aggiunse, dopo aver riflettuto: «Non so se sareste un vero
+buon criminale. Ma dovreste riuscire un romanziere coi fiocchi».
+
+«Io ho a che fare soltanto con fatti reali», disse [[Father Brown|padre Brown]]. «Ma a volte
+è più difficile immaginare le cose reali di quelle irreali».
+
+«Soprattutto», disse l'altro, «quando si tratta dei grandi delitti del
+mondo».
+
+«Non sono i grandi delitti, ma i piccoli, quelli che sono davvero difficili da
+immaginare», replicò il prete.
+
+«Non capisco bene che cosa intendiate con questo», disse Chace.
+
+«Intendo i delitti comuni, come rubare gioielli», disse [[Father Brown|padre Brown]];
+«come quella faccenda della collana di smeraldi, o del Rubino di Meru, o dei
+pesci rossi artificiali. La difficoltà, in quei casi, è che dovete
+rimpicciolire la vostra mente. Gli imbroglioni di gran classe, che maneggiano grandi idee,
+non fanno quelle cose ovvie. Ero certo che il [[Prophet|Profeta]] non avesse preso il
+rubino; né il Conte i pesci rossi; benché un uomo come Bankes potesse facilmente
+prendere gli smeraldi. Per loro, un [[Jewel|gioiello]] è un pezzo di vetro: e attraverso quel vetro
+sanno vedere. Ma la gente minuta e letterale lo prende per il suo
+valore di mercato.
+
+«Per questo dovete avere una mente piccola. È tremendamente difficile da raggiungere;
+come mettere a fuoco più stretto e più nitido con una macchina fotografica che traballa. Ma alcune cose
+mi hanno aiutato; e hanno anche gettato molta luce sul mistero. Per esempio,
+il tipo d'uomo che si vanta di aver 'smascherato' falsi maghi o poveri
+ciarlatani d'ogni sorta: costui ha sempre una mente piccola. È il genere d'uomo
+che 'vede attraverso' i vagabondi e li coglie in fallo quando dicono bugie. Oso dire
+che a volte possa essere un penoso dovere. Ma è un piacere singolarmente basso.
+Nel momento in cui compresi che cosa significasse una mente piccola, seppi dove cercarla:
+nell'uomo che voleva smascherare il [[Prophet|Profeta]], ed era lui che
+aveva sgraffignato il rubino; nell'uomo che si faceva beffe delle fantasie spiritiche della sorella,
+ed era lui che aveva arraffato gli smeraldi. Uomini simili hanno sempre
+l'occhio ai gioielli; non potrebbero mai elevarsi, con gli imbroglioni superiori, fino a
+disprezzare i gioielli. Quei criminali dalla mente piccola sono sempre del tutto
+convenzionali. Diventano criminali per pura convenzionalità.
+
+«Ci vuole però parecchio [[Time|tempo]] per arrivare a sentire in modo così grossolano. Ci vuole
+un vero e proprio slancio selvaggio di [[Imagination|immaginazione]] per essere tanto convenzionali. Per desiderare un
+solo, insulso oggettino con tanta serietà. Ma ci si riesce. ... Ci si
+può avvicinare. Cominciate col pensare di essere un [[Child|bambino]] avido; a come
+potreste aver rubato una caramella in un negozio; a come ci fosse una caramella
+particolare che desideravate… poi dovete sottrarre la poesia infantile; spegnere
+la luce fatata che brillava sul negozio di dolciumi; immaginate di credere davvero
+di conoscere il mondo e il valore di mercato dei dolci… contraete
+la vostra mente come la messa a fuoco della macchina fotografica… la cosa prende forma e poi si fa nitida...
+e poi, d'un tratto, ecco che viene!»
+
+Parlava come un uomo che avesse un tempo colto una visione divina. Grandison
+Chace lo guardava ancora con un cipiglio in cui si mescolavano [[Mystification|smarrimento]] e
+interesse. Bisogna confessare che sotto quel pesante cipiglio balenò una
+volta uno sguardo di qualcosa di quasi simile all'allarme. Era come se lo
+scoltimento della prima strana confessione del prete lo attraversasse ancora
+fremendo debolmente, come l'ultima vibrazione di un tuono nella
+stanza. Sotto la superficie andava dicendo a se stesso che l'errore era
+stato solo una [[Madness|follia]] passeggera; questo, s'intende. [[Father Brown|Padre Brown]] non poteva
+davvero essere il [[Monster|mostro]] e l'assassino che aveva scorto in quell'attimo accecante e
+sconvolgente. Ma non c'era forse qualcosa che non andava nell'uomo che
+parlava in quel modo tranquillo dell'essere un assassino? Era possibile che il
+prete fosse un po' matto?
+
+«Non pensate», disse, bruscamente, «che questa vostra idea, di un
+uomo che cerca di sentirsi criminale, possa renderlo un po' troppo tollerante
+del delitto?»
+
+[[Father Brown|Padre Brown]] si raddrizzò e parlò con tono più staccato.
+
+«So che fa esattamente il contrario. Risolve l'intero problema del [[Time|tempo]]
+e del peccato. Dà all'uomo il suo rimorso in anticipo».
+
+Ci fu un [[Silence|silenzio]]; l'americano guardò l'alto e ripido tetto che
+si stendeva per metà oltre il recinto; il suo ospite fissava il [[Fire|fuoco]]
+senza muoversi; e poi la voce del prete tornò su una nota diversa, come
+venisse da più in basso.
+
+«Ci sono due modi di rinunciare al diavolo», disse; «e la
+differenza è forse il più profondo abisso della religione moderna. Uno è
+averne orrore perché è così lontano; e l'altro averne orrore
+perché è così vicino. E non vi sono virtù e vizi tanto divisi quanto
+quelle due virtù».
+
+Non risposero, ed egli proseguì con lo stesso tono grave, come se lasciasse
+cadere le parole al pari di piombo fuso.
+
+«Voi forse giudicate orribile un delitto perché non potreste mai commetterlo.
+Io lo giudico orribile perché potrei commetterlo. Voi lo immaginate come una
+sorta di eruzione del Vesuvio; ma questo non sarebbe davvero così terribile come
+questa [[house|casa]] che prende [[Fire|fuoco]]. Se un criminale comparisse
+d'improvviso in questa stanza...»
+
+«Se un criminale comparisse in questa stanza», disse Chace sorridendo, «credo
+che sareste anche troppo indulgente con lui. A quanto pare comincereste col
+dirgli che voi stesso siete un criminale, spiegandogli come fosse del tutto
+naturale che avesse frugato nelle tasche del padre o tagliato la gola alla
+madre. Francamente, non lo trovo pratico. Penso che l'effetto pratico sarebbe
+che nessun criminale si [[Reform|correggerebbe]] mai. È facile teorizzare e
+prendere casi ipotetici; ma tutti sappiamo che stiamo soltanto parlando in aria.
+Seduti qui, nella bella e comoda [[house|casa]] di monsieur Duroc, consapevoli
+della nostra rispettabilità e di tutto il resto, ci dà solo un brivido teatrale
+discorrere di ladri e assassini e dei misteri delle loro anime. Ma chi ha
+davvero a che fare con ladri e assassini deve trattarli in tutt'altro modo. Noi
+siamo al sicuro accanto al focolare; e sappiamo che la [[house|casa]] non è in
+[[Fire|fiamme]]. Sappiamo che non c'è alcun criminale nella stanza.»
+
+Il monsieur Duroc cui si era alluso si [[Rose|alzò]] lentamente da quello che era
+stato chiamato il suo focolare, e la sua enorme [[Shadow|ombra]], proiettata dal
+[[Fire|fuoco]], parve coprire ogni cosa e oscurare perfino la [[Night|notte]]
+stessa sopra di lui.
+
+«C'è un criminale in questa stanza», disse. «Sono io. Sono [[Flambeau]], e la
+polizia di due emisferi mi sta ancora dando la caccia.»
+
+L'americano continuò a fissarlo con occhi di una lucentezza di pietra; sembrava
+incapace di parlare o di muoversi.
+
+«Non c'è nulla di mistico, di metaforico o di vicario nella mia confessione»,
+disse [[Flambeau]]. «Ho rubato per vent'anni con queste due mani; sono fuggito
+dalla polizia su questi due piedi. [[Hope|Spero]] che ammetterete che le mie
+attività furono pratiche. [[Hope|Spero]] che ammetterete che i miei giudici e i
+miei persecutori avevano davvero a che fare con il crimine. Credete che io non
+sappia tutto del loro modo di biasimarlo? Non ho forse udito i sermoni dei
+giusti e visto lo sguardo gelido dei rispettabili; non sono forse stato
+rimproverato in quello stile alto e distante, non mi si è forse chiesto come
+fosse possibile cadere tanto in basso, non mi si è forse detto che nessuna
+persona per bene avrebbe mai potuto sognare una simile depravazione? Credete che
+tutto ciò abbia mai fatto altro che farmi ridere? Solo il mio amico mi disse che
+sapeva esattamente perché rubavo; e da allora non ho più rubato.»
+
+[[Father Brown|Padre Brown]] fece un gesto come di protesta; e Grandison Chace
+lasciò finalmente sfuggire un lungo respiro simile a un fischio.
+
+«Vi ho detto la pura [[Truth|verità]]», disse [[Flambeau]]; «e siete libero di
+consegnarmi alla polizia.»
+
+Ci fu un istante di profondo silenzio, in cui si udì fioca la risata attardata
+dei figli di [[Flambeau]] nell'alta e oscura [[house|casa]] sopra di loro, e il
+grufolare e sbuffare dei grandi maiali grigi nella penombra. E poi fu squarciato
+da una voce acuta, vibrante e con una punta di risentimento, quasi sorprendente
+per chi non comprende il sensibile spirito americano, e quanto esso possa a
+volte avvicinarsi, a dispetto di banali contrasti, alla cavalleria di Spagna.
+
+«Monsieur Duroc», disse con una certa rigidità. «Siamo stati amici, [[Hope|spero]],
+per un periodo assai considerevole; e mi addolorerebbe non poco supporre che mi
+crediate capace di giocarvi un simile tiro mentre godo della vostra ospitalità e
+della compagnia della vostra famiglia, solo perché avete scelto di raccontarmi
+di vostra spontanea volontà un poco della vostra autobiografia. E quando avete
+parlato unicamente in difesa del vostro amico... no, signore, non riesco a
+immaginare che un gentiluomo possa [[Double|tradire]] un altro in simili
+circostanze; sarebbe di gran lunga meglio essere un lurido delatore e vendere
+per denaro il [[Blood|sangue]] degli uomini. Ma in un caso come questo...! Come
+potreste concepire un uomo tanto simile a un Giuda?»
+
+«Potrei provarci», disse [[Father Brown|Padre Brown]].
+
+FINE

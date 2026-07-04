@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/charlesdickens-(chesterton)">CharlesDickens</a> › <a href="/testi/chesterton/atomized/charlesdickens/chapter_05">Chapter 05</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/charlesdickens/chapter_05/part_03">‹ part 03</a><a class="ex-next" href="/testi/chesterton/atomized/charlesdickens/chapter_05/part_05">part 05 ›</a></div>
@@ -159,3 +161,158 @@ That discovery turned him from the author of "Sketches by Boz"
 to the author of "[[David Copperfield]]."  And that discovery constituted
 the thing of which I have spoken--the outstanding and arresting
 original feature in "The [[Pickwick]] Papers."
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/charlesdickens-(chesterton)">CharlesDickens</a> › <a href="/testi/chesterton/atomized/charlesdickens/chapter_05">Chapter 05</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/charlesdickens/chapter_05/part_03">‹ part 03</a><a class="ex-next" href="/testi/chesterton/atomized/charlesdickens/chapter_05/part_05">part 05 ›</a></div>
+</nav>
+
+Dickens era un mitologo più che un romanziere; egli era
+l'ultimo dei mitologi, e forse il più grande.
+Non sempre riuscì a fare dei suoi personaggi degli uomini,
+ma riuscì sempre, per lo meno, a farne degli dèi.
+Sono creature come Pulcinella o Babbo Natale.  Vivono
+staticamente, in una perpetua [[Summer|estate]] dell'essere se stessi.
+Non era intento di Dickens mostrare l'effetto del [[Time|tempo]]
+e delle circostanze su un carattere; non era neppure suo intento
+mostrare l'effetto d'un carattere sul [[Time|tempo]] e sulle circostanze.
+Vale la pena osservare, di passaggio, che ogni volta che tentò di descrivere
+il mutamento in un carattere, egli ne fece un pasticcio, come nel pentimento
+di Dombey o nell'apparente degenerazione di Boffin.  Era suo
+intento mostrare il carattere sospeso in una sorta di felice vuoto, in un mondo
+a parte dal [[Time|tempo]]—sì, ed essenzialmente a parte dalle circostanze,
+benché la frase possa sembrare strana in connessione con le divine
+buffonate da [[Horse|cavalli]] del «[[Pickwick]]».  Ma tutti gli eventi pickwickiani,
+per selvaggi che spesso siano, erano solo concepiti per mettere in mostra
+la maggiore selvatichezza delle anime, o talvolta soltanto per portare
+il lettore a contatto, per così dire, con quella selvatichezza.
+L'autore avrebbe sparato il signor [[Pickwick]] fuori da un can-
+none pur di farlo giungere da Wardle per Natale; avrebbe
+tolto il tetto per farlo cadere alla festa di Bob Sawyer.
+Ma una volta messo [[Pickwick]] da Wardle, col suo punch e un gruppo di
+personalità sgargianti, e nulla lo smuoverà dalla sua sedia.
+Una volta ch'egli è alla festa di Sawyer, dimentica come vi sia giunto;
+dimentica la signora Bardell e tutta la sua storia.  Poiché la storia non era che
+un incantesimo per evocare un dio, e il dio (il signor Jack Hopkins)
+è presente in divina potenza.  Una volta che i grandi personaggi sono faccia
+a faccia, la scala per cui salirono è dimenticata e crolla,
+la struttura della storia va in pezzi, la trama è abbandonata;
+gli altri personaggi vengono lasciati in asso a ogni sorta di crisi;
+l'intera affollata via maestra del racconto è bloccata da due
+o tre parlatori, che si prendono il loro immortale agio come se fossero
+già in Paradiso.  Poiché essi non esistono per la storia;
+la storia esiste per loro; ed essi lo sanno.
+
+A ogni uomo vivente, bisogna [[Hope|sperare]], è in qualche modo
+accaduto d'avere conversato coi suoi amici più affascinanti
+attorno a una tavola in qualche [[Night|notte]] in cui tutte le numerose
+personalità si dispiegarono come grandi [[Flowers|fiori]] tropicali.
+Tutti si calarono nelle loro parti come in qualche deliziosa commedia improvvisata.
+Ogni uomo fu più se stesso di quanto fosse mai stato in questa valle
+di [[Tears|lacrime]].  Ogni uomo fu una bella caricatura di se stesso.
+L'uomo che ha conosciuto tali notti comprenderà le esagerazioni
+del «[[Pickwick]]».  L'uomo che non ha conosciuto tali notti non
+godrà del «[[Pickwick]]» né (immagino) del paradiso.  Poiché, come ho detto,
+Dickens è, in questa materia, vicino alla religione popolare, che è
+l'ultima e la più affidabile religione.  Egli concepisce una gioia senza fine;
+concepisce creature permanenti quanto [[Puck]] o Pan—creature la cui
+volontà di vivere eoni su eoni non può saziare.  Egli non è venuto,
+come scrittore, perché le sue creature copino la vita e ne copino l'angustia;
+è venuto perché esse abbiano vita, e l'abbiano
+più abbondantemente.  È invero assurdo che i Cristiani debbano essere
+chiamati nemici della vita perché desiderano che la vita duri per sempre;
+è ancor più assurdo chiamare ottusi i vecchi scrittori comici
+perché desideravano che i loro immutabili personaggi durassero per sempre.
+Sia la religione popolare, con le sue gioie senza fine, sia la vecchia storia comica,
+con i suoi scherzi senza fine, si sono nel nostro [[Time|tempo]] spente insieme.
+Siamo troppo deboli per [[Desire|desiderare]] quel vigore imperituro.  Crediamo
+che si possa avere troppo d'una cosa buona—una credenza blasfema,
+che d'un sol colpo manda in rovina tutti i cieli che gli uomini hanno sperato.
+Gli antichi grandi sfidatori di Dio non temevano un'[[Eternity|eternità]] di tormento.
+Noi siamo giunti a temere un'[[Eternity|eternità]] di gioia.  Non è mio
+compito qui prendere partito in questa divisione tra coloro che amano
+la vita e i lunghi romanzi e coloro che amano la [[Death|morte]] e i racconti brevi;
+mio unico compito è additare che coloro i quali vedono negli immutabili
+personaggi di Dickens e nei ricorrenti intercalari una mera rigidità
+e mancanza di vivente movimento mancano il punto e la [[Nature|natura]] della sua opera.
+La sua tradizione è tutt'altra tradizione; il suo intento è tutt'altro
+intento da quelli dei moderni romanzieri che rintracciano
+l'alchimia dell'esperienza e le tinte d'[[Autumn|autunno]] del carattere.
+Egli è là, come il popolo comune di tutte le età, per fare divinità;
+è là, come ho detto, per esagerare la vita nella direzione
+della vita.  Lo spirito ch'egli in [[Bottom|fondo]] celebra è quello di due
+amici che bevono vino insieme e conversano attraverso la [[Night|notte]].
+Ma per lui essi sono due amici immortali che conversano attraverso una
+[[Night|notte]] senza fine e versano vino da una bottiglia inesauribile.
+
+Questo, dunque, è il primo saldo fatto da afferrare circa il «[[Pickwick]]»—
+circa il «[[Pickwick]]» più che circa qualsiasi altra delle storie.
+Esso è, in primo luogo e soprattutto, una storia [[Supernatural|soprannaturale]].
+Il signor [[Pickwick]] era una fata.  Lo era anche il vecchio signor Weller.  Ciò non
+implica ch'essi fossero adatti a dondolare in un trapezio di garza;
+implica soltanto che, se ne fossero caduti a capofitto,
+non sarebbero morti.  Ma, a parlare più a rigore,
+il signor [[Samuel Pickwick]] non è la fata; è il principe delle fate;
+ossia, è l'astratto errante e stupitore,
+l'[[Ulysses|Ulisse]] della [[Comedy|Commedia]]; la creatura mezzo umana e mezzo elfica—
+umana abbastanza da errare, umana abbastanza da [[Wonder|stupirsi]], ma pur sempre sorretta
+da quel gaio fatalismo ch'è naturale agli esseri immortali—
+sorretta da quell'accenno di divinità che gli dice nell'ora più buia
+ch'egli è destinato a vivere felice e contento per sempre.
+Si è messo in cammino verso la fine del mondo, ma sa
+che vi troverà una locanda.
+
+E questo ci porta al migliore e più ardito elemento d'originalità
+nel «[[Pickwick]]».  Non è stato, credo, osservato, e può darsi
+che Dickens non lo abbia osservato.  Certo egli non lo pianificò;
+esso crebbe a poco a poco, forse dalla parte inconscia della sua [[Soul|anima]],
+e riscaldò tutta la storia come un lento [[Fire|fuoco]].  Naturalmente esso trasformò
+anche tutta la storia; la trasformò fino a renderla del tutto dissimile da se stessa.
+Intorno a quest'ultimo punto fu combattuta una delle innumerevoli piccole
+guerre di Dickens.  Era parte della sua battagliera [[Vanity|vanità]]
+il rifiutarsi d'ammettere la [[Truth|verità]] della più mite critica.
+Inoltre, egli usava la sua inesauribile ingegnosità per trovare un'apologia
+che era generalmente un ripensamento.  Invece d'ammettere ridendo,
+in risposta alla critica, la gloriosa inverosimiglianza di Pecksniff,
+ribatteva con un ghigno, arguto e assai ingiusto, che non era
+sorpreso che i Pecksniff dovessero negare il ritratto
+di Pecksniff.  Quando gli si obiettò che l'[[Pride|orgoglio]] del vecchio [[Paul Dombey]]
+si spezza tanto bruscamente quanto un bastone, egli tentò di far credere che ci fosse
+stata una struggente lotta psicologica in atto in quel gentiluomo
+per tutto il [[Time|tempo]], che il lettore era troppo stupido per percepire.
+La qual cosa è, temo, una fandonia.  E così, in vena simile,
+egli rispose a coloro che gli additavano l'ovvio e non molto
+sconvolgente fatto che i nostri sentimenti verso [[Pickwick]] sono assai diversi
+nella seconda parte del libro dai nostri sentimenti nella prima;
+che ci troviamo all'inizio a partire in
+compagnia d'un farsesco vecchio [[Fool|sciocco]], se non d'un farsesco vecchio ciarlatano,
+e che ci troviamo alla fine a dire addio a un fine, vecchio
+mercante d'Inghilterra, un monumento di geniale [[Sanity|saggezza]].  Dickens rispose
+con la stessa ingegnosa giustificazione di [[Self|sé]] degli altri casi—
+che di certo accadeva spesso che un uomo ci si presentasse dapprima adorno
+delle sue qualità più [[Grotesque|grottesche]], e che una più piena conoscenza
+ne dispiegasse i più seri meriti.  Questo, naturalmente, è verissimo;
+ma penso che qualsiasi onesto ammiratore del «[[Pickwick]]» sentirà che non
+è una risposta.  Poiché il difetto del «[[Pickwick]]» (se difetto è)
+è un mutamento non nell'[[Hero|eroe]] ma nell'intera atmosfera.
+Il punto non è che [[Pickwick]] si tramuti in una diversa specie d'uomo;
+è che «Il [[Pickwick|Circolo Pickwick]]» si tramuta in una diversa specie di libro.
+E per quanto artistiche possano essere entrambe le parti, questa combinazione dev'essere,
+in stretta arte, chiamata inartistica.  Un uomo è del tutto artisticamente
+giustificato nello scrivere un racconto in cui un uomo vile quanto Bob Acres
+diviene un uomo prode quanto [[Hector|Ettore]].  Ma un uomo non è artisticamente
+giustificato nello scrivere un racconto che comincia nello stile de «I Rivali»
+e finisce nello stile dell'«Iliade».  In altre parole, non ci
+importa che l'[[Hero|eroe]] muti nel corso d'un libro; ma non siamo
+preparati a che l'autore muti nel corso del libro.
+E l'autore mutò davvero nel corso di questo libro.
+Egli fece, nel bel mezzo di questo libro, una grande scoperta, che fu
+la scoperta del suo destino, o, ciò che più importa, del suo dovere.
+Quella scoperta lo tramutò dall'autore degli «Sketches by Boz»
+nell'autore di «[[David Copperfield]]».  E quella scoperta costituì
+la cosa di cui ho parlato—l'eminente e arrestante
+caratteristica originale de «Il [[Pickwick|Circolo Pickwick]]».

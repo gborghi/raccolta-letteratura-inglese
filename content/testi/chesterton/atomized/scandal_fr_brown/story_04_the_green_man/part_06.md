@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/scandal-fr-brown-(chesterton)">scandal Fr Brown</a> › <a href="/testi/chesterton/atomized/scandal_fr_brown/story_04_the_green_man">Story 04 The Green Man</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/scandal_fr_brown/story_04_the_green_man/part_05">‹ part 05</a><a class="ex-next" href="/testi/chesterton/atomized/scandal_fr_brown/story_04_the_green_man/part_07">part 07 ›</a></div>
@@ -133,3 +135,62 @@ marring a rich wife were all Making Good. But he was not a cynical
 scoundrel; or he would simply have come back and jilted or cut you as
 the case might be. He could not face you; while you were there, half of
 his broken ideal was left.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/scandal-fr-brown-(chesterton)">scandal Fr Brown</a> › <a href="/testi/chesterton/atomized/scandal_fr_brown/story_04_the_green_man">Story 04 The Green Man</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/scandal_fr_brown/story_04_the_green_man/part_05">‹ part 05</a><a class="ex-next" href="/testi/chesterton/atomized/scandal_fr_brown/story_04_the_green_man/part_07">part 07 ›</a></div>
+</nav>
+
+Con loro sorpresa non mostrò alcuna disposizione a rientrare nella [[house|casa]], ora che l'intera comitiva stava finalmente per entrarvi. Si gettò sulla panca piuttosto traballante del frondoso pergolato e, mentre il corteo spariva oltre la soglia, accese la pipa e si mise a fissare vacuamente le lunghe [[Leaves|foglie]] frastagliate sopra il suo capo e ad ascoltare gli [[Birds|uccelli]]. Non c'era uomo che avesse un appetito più schietto e duraturo per il non far nulla.
+
+Era, a quanto pareva, in una nube di fumo e in un [[A Dream|sogno]] di astrazione, quando le porte d'ingresso furono di nuovo spalancate e due o tre figure uscirono precipitosamente, correndo verso di lui, la figlia della [[house|casa]] e il suo giovane ammiratore, il signor Rook, facilmente vincitori nella corsa. I loro volti erano accesi di stupore; e il volto dell'ispettore Burns, che avanzava più pesantemente dietro di loro, come un elefante che scuote il [[Garden|giardino]], era acceso [[Well|anche]] di una certa indignazione.
+
+«Che cosa può significare tutto questo?» esclamò Olive, arrivando ansante a fermarsi. «È scomparso!»
+
+«Fuggito!» disse il tenente esplosivamente. «Harker è appena riuscito a fare una valigia ed è fuggito! Uscito di filato dalla porta sul retro e oltre il muro del [[Garden|giardino]], verso Dio sa dove. Che cosa gli ha detto?»
+
+«Non essere sciocco!» disse Olive, con un'espressione più preoccupata. «Naturalmente gli ha detto che l'aveva scoperto, e ora è fuggito. Non avrei mai potuto credere che fosse malvagio a tal punto!»
+
+«[[Well|Ebbene]]!» ansimò l'ispettore, irrompendo in mezzo a loro. «Che cosa ha fatto adesso? Perché mi ha piantato in asso così?»
+
+«[[Well|Ebbene]]», ripeté [[Father Brown|Padre Brown]], «che cosa ho fatto?»
+
+«Ha lasciato scappare un assassino», gridò Burns, con una risolutezza che fu come un tuono nel quieto [[Garden|giardino]]; «ha aiutato un assassino a scappare. Come uno [[Fool|sciocco]] l'ho lasciata avvertire; e ora è a miglia di distanza.»
+
+«Ho aiutato qualche assassino ai miei [[Time|tempi]], è vero», disse Padre Brown; poi aggiunse, con attenta distinzione, «non, si badi bene, aiutato a commettere l'omicidio.»
+
+«Ma lei sapeva tutto il [[Time|tempo]]», insisté Olive. «Ha indovinato fin dal principio che doveva essere lui. È questo che intendeva quando ha detto di essersi turbato per la faccenda del ritrovamento del [[Body|corpo]]. È questo che intendeva il dottore quando ha detto che mio padre poteva essere malvisto da un subalterno.»
+
+«È di questo che mi lamento», disse l'ufficiale indignato. «Lei sapeva già allora che egli era il...»
+
+«Lei sapeva già allora», insisté Olive, «che l'assassino era...»
+
+[[Father Brown|Padre Brown]] annuì gravemente. «Sì», disse. «Sapevo già allora che l'assassino era il vecchio Dyke.»
+
+«Era chi?» ripeté l'ispettore e si arrestò in mezzo a un [[Silence|silenzio]] di morte; punteggiato soltanto dal cinguettio occasionale degli [[Birds|uccelli]].
+
+«Intendo il signor Dyke, il notaio», spiegò [[Father Brown|Padre Brown]], come chi spiega qualcosa di elementare a una classe di bambini. «Quel signore dai capelli grigi che si suppone debba leggere il testamento.»
+
+Rimasero tutti come statue a fissarlo, mentre egli si riempiva di nuovo con cura la pipa e accendeva un fiammifero. Alla fine Burns radunò le proprie facoltà vocali per rompere il [[Silence|silenzio]] soffocante con uno sforzo che somigliava a violenza.
+
+«Ma, in nome del cielo, perché?»
+
+«Ah, perché?» disse il prete e si [[Rose|alzò]] pensosamente, tirando boccate dalla pipa. «Quanto al perché lo abbia fatto... [[Well|ecco]], suppongo che sia venuto il [[Time|momento]] di dirvi, o a quelli di voi che non lo sanno, il fatto che è la chiave di tutta questa faccenda. È una grande sciagura; ed è un grande crimine; ma non è l'omicidio dell'ammiraglio Craven.»
+
+Guardò Olive dritto in faccia e disse molto seriamente: «Vi dico la cattiva notizia senza mezzi termini e in poche parole; perché credo che siate abbastanza coraggiosa, e forse abbastanza felice, per prenderla [[Well|bene]]. Avete la possibilità, e credo la forza, di essere qualcosa come una grande donna. Non siete una grande ereditiera.»
+
+In mezzo al [[Silence|silenzio]] che seguì fu lui a riprendere la sua spiegazione.
+
+«La maggior parte del denaro di vostro padre, mi dispiace dirlo, è svanita. Se n'è andata per la destrezza finanziaria del signore dai capelli grigi di nome Dyke, che è (mi addolora dirlo) un truffatore. L'ammiraglio Craven fu assassinato per farlo [[Silence|tacere]] riguardo al modo in cui era stato truffato. Il fatto che egli fosse rovinato e voi diseredata è l'unico, semplice indizio, non solo dell'omicidio, ma di tutti gli altri misteri di questa faccenda.» Tirò una o due boccate e poi continuò.
+
+«Ho detto al signor Rook che eravate diseredata ed egli è corso indietro per aiutarvi. Il signor Rook è una persona piuttosto notevole.»
+
+«Oh, la smetta», disse il signor Rook con aria ostile.
+
+«Il signor Rook è un [[Monster|mostro]]», disse [[Father Brown|Padre Brown]] con calma scientifica. «È un anacronismo, un atavismo, un bruto [[Survival|sopravvissuto]] dell'Età della Pietra. Se c'era una barbara superstizione che tutti supponevamo del tutto estinta e morta ai giorni nostri, era quella nozione riguardo all'[[Honour|onore]] e all'indipendenza. Ma d'altronde io mi trovo mescolato a tante superstizioni morte. Il signor Rook è un animale estinto. È un plesiosauro. Non voleva vivere alle spalle della moglie, né avere una moglie che potesse dargli del cacciatore di dote. Perciò teneva il broncio in maniera [[Grotesque|grottesca]] e tornò in vita soltanto quando gli portai la buona notizia che eravate rovinata. Voleva lavorare per la moglie e non essere mantenuto da lei. Disgustoso, non è vero? Passiamo al più luminoso argomento del signor Harker.
+
+«Ho detto al signor Harker che eravate diseredata ed egli è fuggito via in una sorta di panico. Non siate troppo severa col signor Harker. Aveva davvero entusiasmi migliori [[Well|oltre che]] peggiori; ma li aveva tutti mescolati insieme. Non c'è nulla di male nell'avere ambizioni; ma egli aveva ambizioni e le chiamava ideali. L'antico senso dell'[[Honour|onore]] insegnava agli uomini a diffidare del [[success|successo]]; a dire: "Questo è un beneficio; potrebbe essere una tangente". La nuova, nove-volte-maledetta sciocchezza del Farsi Strada insegna agli uomini a identificare l'essere buoni col far quattrini. Era tutto qui il suo problema; in ogni altro modo era un giovane pienamente per bene, e ce ne sono a migliaia come lui. Contemplare le [[Stars|stelle]] e salire nel mondo erano tutt'uno con l'Elevazione. Sposare una buona moglie e sposare una moglie ricca erano tutt'uno col Farsi Strada. Ma non era un cinico furfante; altrimenti sarebbe semplicemente tornato e vi avrebbe piantata o scaricata, secondo il caso. Non poteva affrontarvi; finché eravate lì, metà del suo ideale infranto restava in piedi.

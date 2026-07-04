@@ -138,7 +138,7 @@ but no trace of it can be found.
 
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/works/incredulity-(chesterton)">Incredulity</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/incredulity-(chesterton)">Incredulity</a> › <a href="/testi/chesterton/atomized/incredulity/story_03_the_oracle_of_the_dog">Story 03 The Oracle of the Dog</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/incredulity/story_02_the_arrow_of_heaven/part_09">‹ part 09</a><a class="ex-next" href="/testi/chesterton/atomized/incredulity/story_03_the_oracle_of_the_dog/part_02">part 02 ›</a></div>
 </nav>
 

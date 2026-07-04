@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/apprandcritofchdickens-(chesterton)">ApprAndCritOfChDickens</a> › <a href="/testi/chesterton/atomized/apprandcritofchdickens/chapter_01_page">Chapter 01 PAGE</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/apprandcritofchdickens/chapter_01_page/part_03">‹ part 03</a><a class="ex-next" href="/testi/chesterton/atomized/apprandcritofchdickens/chapter_01_page/part_05">part 05 ›</a></div>
@@ -187,3 +189,186 @@ shall not refuse to admit to the Puritans that they conquered and
 crushed the English people; but I do not think that they ever
 
 transformed it. My [[Doubt|doubt]] is chiefly derived from three historical
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/apprandcritofchdickens-(chesterton)">ApprAndCritOfChDickens</a> › <a href="/testi/chesterton/atomized/apprandcritofchdickens/chapter_01_page">Chapter 01 PAGE</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/apprandcritofchdickens/chapter_01_page/part_03">‹ part 03</a><a class="ex-next" href="/testi/chesterton/atomized/apprandcritofchdickens/chapter_01_page/part_05">part 05 ›</a></div>
+</nav>
+
+[[democracy|democrazia]]. In Francia sono i contadini a essere compatti fino all'uniformità;
+
+sono i marchesi a essere un poco folli. Ma in Inghilterra, mentre le buone maniere
+
+frenano e livellano le università e l'esercito, la povera gente è
+
+la creatura più variopinta e divertente del mondo, piena di affetti
+
+umoristici, di pregiudizi e di guizzi d'ironia. I francesi tendono a somigliarsi,
+
+perché sono tutti soldati; i prussiani perché sono tutti
+
+qualcos'altro, probabilmente poliziotti; perfino gli americani sono tutti qualcosa,
+
+per quanto non sia facile dire che cosa sia; va di pari passo con occhi da falco e
+
+un'irrazionale bramosia. Forse sono selvaggi. Ma due vetturini inglesi
+
+saranno grottescamente diversi come il signor Weller e il signor Wegg. Né è
+
+vero dire che io colga questa varietà perché appartiene alla mia stessa gente. Poiché
+
+non scorgo lo stesso grado di varietà nella mia classe o nella classe
+
+che le sta sopra; vi è più somiglianza superficiale fra due medici di
+
+Kensington o fra due duchi delle Highland. No; la [[democracy|democrazia]] è composta in realtà
+
+di personaggi dickensiani, per la semplice ragione che Dickens era egli stesso uno
+
+della [[democracy|democrazia]].
+
+Rimane una cosa da aggiungere a questo tentativo di mostrare Dickens
+
+nelle luci crescenti e mutevoli del nostro [[Time|tempo]]. Dio non voglia che alcuno
+
+(e specialmente alcun dickensiano) diluisca o scoraggi i grandi
+
+sforzi verso il miglioramento sociale. Ma vorrei che i riformatori sociali
+
+ricordassero più spesso che stanno imponendo le loro regole non a punti
+
+e a numeri, ma a Bob Sawyer e a Tim Linkinwater, alla signora Lirriper e al
+
+dottor Marigold. Vorrei che il signor Sidney Webb chiudesse gli occhi finché non _veda_
+
+[[Sam Weller]].
+
+Moltissime circostanze hanno condotto alla trascuratezza, in letteratura, di
+
+quei tipi esuberanti che realmente esistono negli strati più rozzi della
+
+società. Forse la causa principale è che dai tempi di Dickens lo
+
+studio dei poveri ha cessato, dal [[Time|tempo]] di Dickens, di essere un'arte per diventare una sorta di finta
+
+scienza. Dickens prendeva i poveri individualmente: tutta la scrittura moderna tende a
+
+prenderli collettivamente. Si dice che il realista moderno produca una
+
+fotografia anziché un quadro. Ma è un'obiezione insufficiente.
+
+Il vero guaio del realista non è che produca una fotografia,
+
+bensì che produca una fotografia composita. È come tutte le fotografie composite,
+
+sfocata; come tutte le fotografie composite, orrenda; e come
+
+tutte le fotografie composite, dissimile da qualunque cosa e da chiunque. I nuovi
+
+romanzi sociologici, che pretendono di descrivere il tipo astratto delle
+
+classi lavoratrici, peccano in pratica contro il primo canone della letteratura,
+
+vero quando tutti gli altri sono soggetti a eccezione. La letteratura deve sempre essere
+
+un additare ciò che è interessante nella vita; ma questi libri sono
+
+più tediosi della vita che rappresentano. Anche ammettendo che Dickens
+
+esagerasse il grado in cui un uomo differisce da un altro—era almeno
+
+un'esagerazione dalla parte della letteratura; era meglio di un
+
+mero tentativo di ridurre ciò che è realmente vivido e inconfondibile a ciò
+
+che, al confronto, è scialbo o inavvertibile. Perfino i lodevoli e
+
+necessari sforzi del nostro [[Time|tempo]] in certe materie di [[Reform|riforma]] sociale hanno
+
+scoraggiato l'antico e caratteristico modo dickensiano. La gente è tanto ansiosa
+
+di fare qualcosa per il povero, che nutre una sorta di sotterraneo
+
+[[Desire|desiderio]] di credere che vi sia un solo tipo d'uomo per cui farlo. Così,
+
+mentre i vecchi resoconti erano talvolta troppo ripidi e stravaganti, i nuovi
+
+divennero troppo generici e piatti. Si scrive del problema del bere,
+
+per esempio, come se fosse un problema solo. Dickens avrebbe potuto dir loro
+
+che c'è l'abisso che separa il cielo dall'inferno fra gli incongrui
+
+eccessi del signor [[Pickwick]] e l'imbibirsi fatalistico del signor Wickfield. Egli
+
+avrebbe potuto mostrare che nulla vi era in comune fra il brandy e
+
+l'[[Water|acqua]] di Bob Sawyer e il rum e l'[[Water|acqua]] del signor Stiggins. Si parla
+
+di matrimoni imprudenti tra i poveri come se fosse tutta una sola questione.
+
+Dickens avrebbe potuto dir loro che una cosa è sposarsi senza molto
+
+denaro, come [[Stephen Blackpool]], e tutt'altra cosa sposarsi senza la
+
+minima intenzione di tentare mai di procurarsene, come [[Harold Skimpole]].
+
+Si parla dei mariti nelle classi lavoratrici che sono gentili o brutali
+
+con le mogli, come se quello fosse l'unico problema permanente e nessun'altra
+
+possibilità dovesse essere considerata. Dickens avrebbe potuto dir loro che
+
+vi era il caso (il caso tutt'altro che raro) del marito della signora
+
+Gargery non meno che della moglie del signor Quilp. In breve, Dickens vedeva il
+
+problema dei poveri non come una faccenda morta e definita, ma come una faccenda viva
+
+e assai complessa. Sotto certi aspetti sarebbe detto assai più
+
+conservatore dei sociologi moderni, sotto certi altri assai più
+
+rivoluzionario.
+
+LITTLE DORRIT
+
+Nel [[Time|tempo]] del declino e della [[Death|morte]] di Dickens, e ancor più intensamente
+
+dopo, sorse una scuola di critica che sosteneva in sostanza
+
+che un uomo scrivesse meglio quando era malato. Fu un sentimento
+
+pressappoco di questa specie a indurre il signor George Gissing, quell'abile scrittore, quasi
+
+a sostenere che _Little Dorrit_ sia il miglior libro di Dickens. Era
+
+il principio della sua [[philosophy|filosofia]] affermare (non so perché) che un uomo
+
+fosse più incline a percepire la [[Truth|verità]] quando era di umore basso che quando era di
+
+umore alto.
+
+REPRINTED PIECES
+
+I tre articoli sulla [[Sunday|domenica]] di cui parlo sono quasi l'ultima
+
+espressione, in forma articolata, che si abbia nella letteratura inglese dell'antica
+
+ed esistente [[morality|moralità]] del popolo inglese. Si asserisce sempre che
+
+il [[Puritanism|puritanesimo]] entrò con il diciassettesimo secolo e imbevve e assorbì
+
+a fondo gli inglesi. Siamo ormai, si ripete di continuo, un
+
+popolo inguaribilmente puritano. Personalmente, ne dubito. Non
+
+rifiuterò di ammettere ai puritani che essi conquistarono e
+
+schiacciarono il popolo inglese; ma non credo che lo abbiano mai
+
+trasformato. Il mio [[Doubt|dubbio]] deriva principalmente da tre

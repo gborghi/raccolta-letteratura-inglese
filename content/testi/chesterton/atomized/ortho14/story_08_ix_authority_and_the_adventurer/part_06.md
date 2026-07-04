@@ -115,7 +115,7 @@ the gate of all good [[philosophy]].  I have come into my second [[Childhood|chi
 
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/works/ortho14-(chesterton)">Orthodoxy</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/ortho14-(chesterton)">Orthodoxy</a> › <a href="/testi/chesterton/atomized/ortho14/story_08_ix_authority_and_the_adventurer">Story 08 Ix Authority And The Adventurer</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/ortho14/story_08_ix_authority_and_the_adventurer/part_05">‹ part 05</a><a class="ex-next" href="/testi/chesterton/atomized/ortho14/story_08_ix_authority_and_the_adventurer/part_07">part 07 ›</a></div>
 </nav>
 

@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/common-man-(chesterton)">Common Man</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/common_man/story_07_a_tale_of_two_cities">‹ Story 07 A Tale Of Two Cities</a><a class="ex-next" href="/testi/chesterton/atomized/common_man/story_09_from_meredith_to_rupert_brooke">Story 09 From Meredith To Rupert Brooke ›</a></div>
@@ -83,3 +85,22 @@ But they are forced more and more to idealise Bolshevism,
 simply because it is the only thing left that is still new enough
 to be offered as a [[Hope|hope]], when every one of the revolutionary hopes
 they have themselves offered has in its turn become hopeless.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/common-man-(chesterton)">Common Man</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/common_man/story_07_a_tale_of_two_cities">‹ Story 07 A Tale Of Two Cities</a><a class="ex-next" href="/testi/chesterton/atomized/common_man/story_09_from_meredith_to_rupert_brooke">Story 09 From Meredith To Rupert Brooke ›</a></div>
+</nav>
+
+DIO E LE MERCI
+
+Si osserva spesso, e in genere con ragione più che sufficiente, che il bolscevismo è necessariamente legato all'ateismo. Meno ci si rende conto, forse, che l'ateismo si trova ormai sotto la crescente necessità di legarsi al bolscevismo. Poiché il bolscevismo è almeno in parte positivo, per quanto sia in larga misura distruttivo. E la [[history|storia]] della nozione puramente negativa, di un attacco astratto alla religione, è stata sotto questo profilo una [[history|storia]] alquanto curiosa. Presa nel suo insieme, essa è a un tempo [[Melancholy|malinconica]] e comica. Coloro che nei tempi moderni hanno tentato di distruggere la religione popolare, o una [[Faith|fede]] tradizionale, hanno sempre sentito la necessità di offrire qualcosa di solido come surrogato. La cosa bizzarra è che ne hanno offerti una dozzina di totalmente diversi; alcuni di essi del tutto contraddittori; sicché le promesse variavano di continuo, e soltanto la minaccia negativa rimaneva la stessa.
+
+Poco prima della [[French Revolution|Rivoluzione francese]], tra i primi filosofi del Settecento, si dava generalmente per assodato che la Libertà non fosse soltanto una cosa buona, ma l'unica e sola origine di ogni cosa buona. L'uomo che vive secondo [[Nature|Natura]], l'Uomo Naturale o il Buon Selvaggio, si sarebbe trovato immediatamente libero e felice fintanto che non fosse mai andato in chiesa, e avesse avuto cura di ignorare il parroco per strada. Questi filosofi scoprirono ben presto ciò che il parroco avrebbe potuto dir loro fin dal principio: che è alquanto più difficile essere un animale felice che essere un uomo felice. In verità, un uomo non può essere un animale per la stessa ragione per cui non può essere un angelo; perché è un uomo. Ma per un certo [[Time|tempo]] i filosofi che non credevano in Dio, il quale essi consideravano un mito, riuscirono a credere nella [[Nature|Natura]] senza avvedersi che ella è una metafora. E assicuravano a coloro che spingevano avanti verso l'incendio delle chiese, che dopo di ciò sarebbero stati eternamente felici nei loro campi e nei loro giardini.
+
+Poi, dopo la rivoluzione politica, venne la [[Industrial Revolution|rivoluzione industriale]]; e con essa un'enorme, nuova importanza attribuita alla scienza. Gli amabili atei tornarono dal popolo, gli sorrisero, tossirono lievemente, e spiegarono che era ancora necessario incendiare le chiese, ma che si era commesso un piccolo errore riguardo al surrogato delle chiese. La seconda [[philosophy|filosofia]] atea si fondava non sul fatto che la [[Nature|Natura]] è benevola, ma sul fatto che la [[Nature|Natura]] è crudele; non sul fatto che i campi sono liberi e belli, ma sul fatto che gli uomini di scienza e gli industriali sono tanto energici che presto copriranno tutti i campi di fabbriche e magazzini. Ora c'era un nuovo surrogato di Dio; ed era il gas e il carbone e il ferro e il privilegio di far girare ruote allo scopo di lavorare queste sostanze. Ora si affermava positivamente che la libertà economica, la [[Freedom|libertà]] di comprare e vendere e assumere e sfruttare, avrebbe reso gli uomini così beatamente felici da far loro dimenticare tutti i loro [[Dreams|sogni]] dei campi del cielo; o, se è per questo, dei campi della terra. E in qualche modo anche questo è risultato un po' deludente.
+
+Due Paradisi Terrestri erano crollati. Il primo era il paradiso naturale di Rousseau; il secondo il paradiso economico di Ricardo. Gli uomini non divennero perfetti per il fatto di essere liberi di vivere e di [[Love|amare]]; gli uomini non divennero perfetti per il fatto di essere liberi di comprare e vendere. Era evidentemente [[Time|tempo]] che gli atei trovassero un terzo ideale inevitabile e immediato. Lo hanno trovato nel Comunismo. E non li turba affatto che esso sia del tutto diverso dal loro primo ideale e del tutto contrario al secondo. Tutto ciò che vogliono è un qualche presunto miglioramento dell'umanità che valga come mancia per privare l'umanità della divinità. Leggete tra le righe di una cinquantina di libri nuovi — compendi di scienza divulgativa e pubblicazioni educative di [[history|storia]] e di [[philosophy|filosofia]] — e vedrete che l'unico sentimento fondamentale in essi è l'odio della religione. L'unica cosa positiva è negativa. Ma sono costretti sempre più a idealizzare il bolscevismo, semplicemente perché è l'unica cosa rimasta ancora abbastanza nuova da poter essere offerta come [[Hope|speranza]], ora che ognuna delle speranze rivoluzionarie che essi stessi avevano offerto è divenuta a sua volta senza speranza.

@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/allthingsconsidered-8-(chesterton)">AllThingsConsidered 8</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/allthingsconsidered_8/story_13_the_modern_martyr">‹ Story 13 THE MODERN MARTYR</a><a class="ex-next" href="/testi/chesterton/atomized/allthingsconsidered_8/story_15_edward_vii_and_scotland">Story 15 EDWARD VII AND SCOTLAND ›</a></div>
@@ -183,5 +185,186 @@ We have in this country all that has ever been alleged against the evil
 side of religion; the peculiar class with privileges, the sacred words
 that are unpronounceable; the important things known only to the few.
 In fact we lack nothing except the religion.
+
+* * * * *
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/allthingsconsidered-8-(chesterton)">AllThingsConsidered 8</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/allthingsconsidered_8/story_13_the_modern_martyr">‹ Story 13 THE MODERN MARTYR</a><a class="ex-next" href="/testi/chesterton/atomized/allthingsconsidered_8/story_15_edward_vii_and_scotland">Story 15 EDWARD VII AND SCOTLAND ›</a></div>
+</nav>
+
+SUL SEGRETO POLITICO
+
+In generale, d'istinto, in assenza di qualsiasi ragione particolare,
+l'umanità detesta l'idea che qualcosa venga tenuto nascosto; ossia,
+detesta l'idea che qualcosa venga nascosto con successo.
+Il rimpiattino è un passatempo assai popolare; ma esso presuppone la [[Truth|verità]]
+del versetto: «Cercate e troverete». Il genere umano comune
+(gigantesco e invincibile nella sua capacità di gioia) sa trarre grande
+diletto da un gioco chiamato «nascondi il ditale»,
+ma solo perché in realtà è un gioco di «scopri il ditale».
+Supponiamo che al termine di un tale gioco il ditale non
+fosse stato trovato affatto; supponiamo che il suo nascondiglio restasse ignoto per sempre:
+l'effetto sui giocatori non sarebbe giocoso, sarebbe tragico.
+Quel ditale tormenterebbe come un incubo tutti i loro [[Dreams|sogni]]. Morrebbero tutti
+in manicomio. Il piacere sta interamente nell'istante struggente del passaggio
+dal non sapere al sapere. I racconti del mistero sono assai popolari,
+specie se venduti a sei pence; ma ciò accade perché l'autore di un
+racconto del mistero rivela. Lo si apprezza non perché crea il mistero,
+ma perché lo distrugge. Nessuno avrebbe il [[Courage|coraggio]]
+di pubblicare un racconto [[Detective|poliziesco]] che lasciasse il problema esattamente dove lo
+aveva trovato. Ciò spingerebbe alla rivoluzione perfino il pubblico di [[London|Londra]].
+Nessuno oserebbe pubblicare un racconto [[Detective|poliziesco]] che non svelasse nulla.
+
+Vi sono tre ampie categorie di cose particolari in cui la saggezza
+umana concede il segreto. La prima è quella che ho già menzionato:
+quella del rimpiattino, ovvero del [[Novel|romanzo]] poliziesco, in cui esso
+concede la segretezza soltanto per far esplodere e mandare in frantumi la segretezza.
+L'autore fa dapprima un mistero scrupoloso di come il Vescovo
+sia stato assassinato, soltanto perché possa infine proclamare,
+come dall'alto di una torre, all'intera [[democracy|democrazia]] la grande lieta
+novella che a ucciderlo è stata la governante. In tal caso,
+l'ignoranza è apprezzata soltanto perché essere ignari è la migliore e più pura
+preparazione a ricevere le orribili rivelazioni dell'alta società.
+Un po' allo stesso modo, essere agnostici è la migliore e più pura
+preparazione a ricevere le liete rivelazioni di san Giovanni.
+
+Questo primo genere di segretezza possiamo scartarlo, giacché il suo intero fine ultimo
+non è di custodire il segreto, bensì di rivelarlo. Vi è poi una seconda e
+assai più importante categoria di cose che l'umanità conviene di nascondere.
+Sono così importanti che non è affatto possibile discuterne qui.
+Ma tutti sapranno bene di quale genere di cose io intenda parlare. A proposito
+di esse, desidero osservare che, per quanto siano, in un certo senso,
+un segreto, esse sono pur sempre un «secret de Polichinelle».
+Riguardo al sesso e a simili faccende ci troviamo in una massoneria umana;
+la massoneria è disciplinata, ma la massoneria è libera.
+Ci si chiede di tacere su queste cose, ma non
+ci si chiede di ignorarle. Al contrario,
+il fondamentale argomento umano va interamente nella direzione opposta.
+È la cosa più comune all'umanità quella che dall'umanità è più velata.
+È appunto perché tutti sappiamo che essa è lì che non abbiamo
+bisogno di dire che è lì.
+
+Vi è poi una terza categoria di cose su cui la migliore civiltà
+concede il segreto, mal sopporta ogni indagine o spiegazione.
+È il caso delle cose che non hanno bisogno di essere spiegate, perché non
+possono essere spiegate, cose troppo aeree, istintive o impalpabili:
+capricci, impulsi improvvisi, e la specie più [[Innocent|innocente]] di pregiudizio.
+A un uomo non si deve chiedere perché sia loquace o taciturno, per la semplice
+ragione che egli non lo sa. A un uomo non si chiede (nemmeno in [[Germany|Germania]])
+perché cammini lento o svelto, semplicemente perché non saprebbe rispondere.
+Un uomo deve prendere la propria [[Road|strada]] attraverso un bosco, e fare a suo modo
+di una giornata di vacanza. E la ragione è questa: non perché egli abbia
+una ragione forte, ma anzi proprio perché ha una ragione debole;
+perché ha un sentimento lieve e fuggevole intorno alla cosa
+che non saprebbe spiegare a un poliziotto, e che forse la sola
+comparsa di un poliziotto tra i cespugli basterebbe a distruggere.
+Egli deve agire d'impulso, perché l'impulso è privo d'importanza,
+e potrebbe non provare mai più il medesimo impulso. Se preferite dirla
+così, egli deve agire d'impulso perché l'impulso non merita
+un momento di riflessione. Tutte queste fantasie gli uomini sentono che dovrebbero restare private;
+e nemmeno i Fabiani hanno mai proposto d'interferire con esse.
+
+Ora, da una quindicina di giorni i giornali sono pieni dei più svariati
+commenti intorno al problema della segretezza di certi aspetti della nostra
+finanza politica, e in particolare al problema dei fondi di partito.
+Alcuni giornali hanno del tutto mancato di comprendere di che cosa verta la contesa.
+Hanno sostenuto che anche i deputati irlandesi e i deputati laburisti sono
+sotto la medesima [[Shadow|ombra]], o, come taluni hanno detto, ancora di più.
+Il fondamento di questa frenetica affermazione, se lo si considera con pazienza,
+sembra essere semplicemente questo: che i deputati irlandesi e laburisti ricevono denaro per
+ciò che fanno. Tutti gli esseri umani, per quanto ne so, su questa terra ricevono
+denaro per ciò che fanno; l'unica differenza è che alcuni,
+come i deputati irlandesi, qualcosa la fanno.
+
+Non riesco a immaginare che un essere umano possa credere un altro essere
+umano capace di sostenere la tesi che gli uomini non dovrebbero
+ricevere denaro. Il punto è semplicemente che, poiché sappiamo che certo
+denaro è dato lecitamente e certo altro illecitamente, un elementare buon senso
+ci porta a guardare con indifferenza al denaro che è dato
+in mezzo a Ludgate Circus, e a guardare con particolare
+sospetto al denaro che un uomo non dà se non a patto d'essere rinchiuso
+in una cassa o in una [[Machine|cabina]] da bagno. In breve, è troppo sciocco supporre
+che qualcuno abbia mai potuto discutere se sia desiderabile disporre di fondi.
+L'unica cosa che perfino gli idioti avrebbero mai potuto discutere è
+l'occultamento dei fondi. Perciò l'intera questione che dobbiamo
+esaminare è se l'occultamento delle transazioni politiche di denaro,
+l'acquisto di titoli nobiliari, il pagamento delle spese elettorali, sia un genere
+di occultamento che rientra in una qualsiasi delle tre categorie da me menzionate
+tra quelle in cui l'usanza e l'istinto umani ci permettono di occultare.
+Ho suggerito tre generi di segretezza che sono umani e difendibili.
+Può questa istituzione essere difesa per mezzo di uno qualsiasi di essi?
+
+Ora, la questione è se questa segretezza politica appartenga a uno qualsiasi
+dei generi che si possono dire legittimi. Abbiamo grosso modo diviso
+i [[Secrets|segreti]] legittimi in tre categorie. Viene per primo il segreto che
+si custodisce soltanto per essere rivelato, come nei racconti [[Detective|polizieschi]];
+in secondo luogo, il segreto che si custodisce perché tutti lo conoscono, come nel sesso;
+e in terzo luogo, il segreto che si custodisce perché è troppo delicato e
+vago per poter essere spiegato affatto, come nella scelta di una passeggiata in campagna.
+Copre una qualsiasi di queste ampie categorie umane un caso come quello della
+segretezza delle finanze politiche e di partito? Sarebbe assurdo,
+e persino deliziosamente assurdo, pretendere che una di esse lo copra.
+Sarebbe una fantasia sfrenata e affascinante suggerire che i nostri politici
+custodiscano [[Secrets|segreti]] politici soltanto per poter fare rivelazioni politiche.
+Un pari moderno finge d'aver guadagnato il proprio titolo
+soltanto perché possa dichiarare più drammaticamente, con un grido
+di scherno e di gioia, che in realtà lo ha comprato. Il baronetto finge
+d'aver meritato il proprio titolo soltanto per rendere più squisito
+e sorprendente il grande fatto storico che non lo ha meritato affatto.
+Certo questo suona improbabile. Certo tutti i nostri statisti non possono
+serbarsi per l'emozione di un pentimento in punto di [[Death|morte]].
+Lo scrittore di racconti [[Detective|polizieschi]] fa di un uomo un duca unicamente al fine
+di fulminarlo con un'accusa di furto con scasso. Ma di certo il Primo Ministro
+non fa di un uomo un duca unicamente al fine di fulminarlo con una
+accusa di corruzione. No; la teoria da racconto [[Detective|poliziesco]] della segretezza
+dei fondi politici deve (con un sospiro) essere abbandonata.
+
+Né possiamo dire che la cosa si spieghi con quel secondo caso
+di segretezza umana che è tanto segreta da riuscire difficile discuterne
+in pubblico. Un certo pudore si conserva intorno a certe primarie
+faccende umane appunto perché tutti sanno tutto di esse.
+Ma il pudore che tocca contributi, acquisti e titoli nobiliari non è
+mantenuto perché la maggior parte degli uomini comuni sappia ciò che accade; è mantenuto
+appunto perché la maggior parte degli uomini comuni non sa ciò che accade.
+Il consueto sipario del decoro copre i procedimenti normali.
+Ma nessuno dirà che l'essere corrotti sia un procedimento normale.
+
+E se applichiamo il terzo criterio a questo problema della segretezza
+politica, il caso è ancora più chiaro e ancora più comico.
+Di certo nessuno dirà che l'acquisto di titoli nobiliari e simili
+cose sian tenuti segreti perché così lievi, impulsivi
+e privi d'importanza da dover essere questioni di fantasia individuale.
+Un [[Child|bambino]] vede un fiore e per la prima [[Time|volta]] sente l'impulso di coglierlo.
+Ma di certo nessuno dirà che un birraio veda una corona nobiliare e per
+la prima [[Time|volta]] pensi improvvisamente che gli piacerebbe essere un pari.
+L'impulso del [[Child|bambino]] non ha bisogno d'essere spiegato alla polizia,
+per la semplice ragione che non potrebbe essere spiegato a nessuno.
+Ma vi è forse qualcuno che crede che le laboriose ambizioni politiche dei moderni
+uomini d'affari abbiano mai questo carattere aereo e incomunicabile?
+Un uomo disteso sulla spiaggia può gettar sassi in mare senza alcuna
+ragione particolare. Ma vi è forse qualcuno che crede che il birraio getti
+sacchi d'oro nei fondi di partito senza alcuna ragione particolare?
+Anche questa teoria della segretezza del denaro politico dev'essere con rammarico
+abbandonata; e con essa le altre due possibili giustificazioni [[Well|del pari]].
+Questa segretezza è tale da non potersi giustificare né come uno scherzo sensazionale, né
+come una comune massoneria umana, né come un indescrivibile capriccio personale.
+Cosa strana, invero, essa viola tutte e tre le condizioni
+e le categorie a un tempo. Non è nascosta al fine di essere rivelata:
+è nascosta al fine di essere nascosta. Non è tenuta segreta perché è
+un segreto comune del genere umano, ma perché il genere umano non deve mettervi le mani.
+E non è tenuta segreta perché è troppo priva d'importanza per essere detta,
+ma perché è fin troppo importante per sopportare d'essere detta. In breve,
+ciò che abbiamo dinanzi è il reale e forse raro fenomeno politico
+di un [[government|governo]] occulto. Abbiamo una dottrina essoterica e una esoterica.
+L'Inghilterra è in realtà governata da un'arte sacerdotale, ma non da sacerdoti.
+Abbiamo in questo paese tutto ciò che mai sia stato imputato al lato malvagio
+della religione: la classe particolare coi suoi privilegi, le parole sacre
+che è vietato pronunciare, le cose importanti note soltanto a pochi.
+In verità non ci manca nulla, tranne la religione.
 
 * * * * *

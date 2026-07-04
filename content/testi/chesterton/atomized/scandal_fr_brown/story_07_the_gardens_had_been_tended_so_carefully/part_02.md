@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/scandal-fr-brown-(chesterton)">scandal Fr Brown</a> › <a href="/testi/chesterton/atomized/scandal_fr_brown/story_07_the_gardens_had_been_tended_so_carefully">Story 07 The gardens had been tended so carefully</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/scandal_fr_brown/story_07_the_gardens_had_been_tended_so_carefully/part_01">‹ part 01</a><a class="ex-next" href="/testi/chesterton/atomized/scandal_fr_brown/story_07_the_gardens_had_been_tended_so_carefully/part_03">part 03 ›</a></div>
@@ -129,3 +131,52 @@ with the priest's unconscious words of omen; for all the world, as if
 those words had indeed been an augury, in the old Roman sense; and the
 sign of it the flight of a bird. Perhaps Mr Byles might have given a
 lecture on such Roman augury; and especially on that bird of ill - omen.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/scandal-fr-brown-(chesterton)">scandal Fr Brown</a> › <a href="/testi/chesterton/atomized/scandal_fr_brown/story_07_the_gardens_had_been_tended_so_carefully">Story 07 The gardens had been tended so carefully</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/scandal_fr_brown/story_07_the_gardens_had_been_tended_so_carefully/part_01">‹ part 01</a><a class="ex-next" href="/testi/chesterton/atomized/scandal_fr_brown/story_07_the_gardens_had_been_tended_so_carefully/part_03">part 03 ›</a></div>
+</nav>
+
+«Non so se Craken verrà,» disse il Rettore, non senza uno sguardo nervoso alla sedia, che contrastava con la consueta languida [[Freedom|libertà]] del suo contegno. «Io stesso credo nel dare alla gente molta corda; ma confesso di essere giunto al punto di rallegrarmi quando lui è qui, semplicemente perché non è da nessun'altra parte.»
+
+«Non si sa mai cosa combinerà la prossima volta,» disse l'Economo allegramente, «specie quando istruisce i giovani.»
+
+«Un tipo brillante, ma focoso, naturalmente,» disse il Rettore, con una ricaduta piuttosto brusca nel riserbo.
+
+«I fuochi d'artificio sono focosi, e anche brillanti,» borbottò il vecchio Byles, «ma non voglio esser bruciato nel mio letto perché Craken possa figurare come un vero Guy Fawkes.»
+
+«Crede davvero che si unirebbe a una rivoluzione di forza fisica, se ce ne fosse una?» chiese l'Economo sorridendo.
+
+«[[Well|Beh]], lui crede che lo farebbe,» disse Byles seccamente. «L'altro giorno ha detto a un'intera aula piena di studenti che ormai nulla poteva impedire alla Lotta di Classe di trasformarsi in una vera guerra, con gente ammazzata per le strade della città; e che non importava, purché finisse nel Comunismo e nella vittoria della classe operaia.»
+
+«La Lotta di Classe,» meditò il Rettore, con una sorta di disgusto addolcito dalla distanza; poiché aveva conosciuto William Morris tanto tempo prima ed era stato abbastanza familiare con i Socialisti più artistici e agiati. «Non riesco proprio a capire tutta questa faccenda della Lotta di Classe. Quando ero giovane, si supponeva che Socialismo volesse dire affermare che non esistono classi.»
+
+«Un altro modo di dire che i Socialisti non hanno classe,» disse Byles con acido compiacimento.
+
+«Naturalmente, lei sarebbe più contro di loro di quanto lo sia io,» disse il Rettore pensosamente, «ma suppongo che il mio Socialismo sia antiquato quasi quanto il suo Conservatorismo. [[Wonder|Chissà]] cosa pensano davvero i nostri giovani amici. Lei cosa ne pensa, Baker?» disse bruscamente all'Economo alla sua sinistra.
+
+«Oh, io non penso, come dice il volgo,» disse l'Economo ridendo. «Deve ricordare che sono una persona molto volgare. Non sono un pensatore. Sono soltanto un uomo d'affari; e da uomo d'affari penso che sia tutta una fandonia. Non si possono rendere gli uomini uguali, ed è un pessimo affare pagarli allo stesso modo; specie una gran parte di loro che non merita affatto d'esser pagata. Comunque stiano le cose, bisogna prendere la via pratica d'uscita, perché è l'unica via d'uscita. Non è colpa nostra se la [[Nature|natura]] ha fatto di tutto una mischia.»
+
+«Su questo sono d'accordo con lei,» disse [[The Professor|il Professore]] di Chimica, parlando con una zeppola che pareva infantile in un uomo così grosso. «Il Comunismo pretende d'essere oh così moderno; ma non lo è. Un ritorno alle superstizioni dei [[Monks|monaci]] e delle tribù primitive. Un [[government|governo]] scientifico, con una responsabilità davvero etica verso la posterità, sarebbe sempre alla ricerca della linea della promessa e del progresso; non a livellare e ad appiattire tutto di nuovo nel fango. Il Socialismo è sentimentalismo; e più pericoloso d'una pestilenza, perché in quella almeno sopravvivrebbero i più adatti.»
+
+Il Rettore sorrise con un po' di tristezza. «Sa, lei ed io non proveremo mai proprio lo stesso sentimento riguardo alle differenze d'opinione. Non disse qualcuno, qui da noi, a proposito del passeggiare con un amico lungo il [[River|fiume]], "Non differendo di molto, se non nell'opinione"? Non è questo il motto di un'università? Avere centinaia di opinioni e non essere dogmatici. Se qui la gente cade, è per ciò che è, non per ciò che pensa. Forse io sono un relitto del diciottesimo secolo; ma propendo per la vecchia eresia sentimentale: "Per le forme di [[Faith|fede]] lascia che gli zeloti senza grazia combattano; non può aver torto colui la cui vita è nel giusto". Lei cosa ne pensa, [[Father Brown]]?»
+
+Gettò uno sguardo un po' malizioso al prete, dall'altra parte del tavolo, e restò mitemente sorpreso. Poiché aveva sempre trovato il prete assai allegro, amabile e di facile compagnia; e il suo viso tondo era per lo più tutto solido buon [[Humour|umore]]. Ma per qualche ragione, in quel momento, il volto del prete era annodato da un cipiglio assai più cupo di qualsiasi altro la compagnia gli avesse mai visto; sicché per un istante quel volto comune parve davvero più scuro e più minaccioso del viso smunto di Byles. Un istante dopo la nube parve essere passata; ma [[Father Brown]] parlò ancora con una certa gravità e fermezza.
+
+«Io a quella cosa non ci credo, comunque,» disse brevemente. «Come può la sua vita essere nel giusto, se tutta la sua visione della vita è sbagliata? È un pasticcio moderno nato perché la gente non sapeva quanto le visioni della vita possano differire. I Battisti e i Metodisti sapevano di non differire granché nella [[morality|morale]]; ma allora non differivano granché neppure nella religione o nella [[philosophy|filosofia]]. È tutt'altra cosa quando si passa dai Battisti agli Anabattisti; o dai Teosofi ai Thug. L'eresia influisce sempre sulla [[morality|morale]], se è abbastanza eretica. Suppongo che un uomo possa onestamente credere che rubare non sia male. Ma a che serve dire che egli crede onestamente nella disonestà?»
+
+«Serve dannatamente bene,» disse Byles con una feroce contorsione dei lineamenti, che molti ritennero intesa come un sorriso amichevole. «Ed è per questo che mi oppongo ad avere una Cattedra di Furto Teorico in questo College.»
+
+«[[Well|Beh]], siete tutti molto accaniti contro il Comunismo, naturalmente,» disse il Rettore con un sospiro. «Ma credete davvero che ce ne sia tanto contro cui accanirsi? Qualcuna delle vostre eresie è davvero abbastanza grande da essere pericolosa?»
+
+«Credo che siano cresciute tanto,» disse [[Father Brown]] gravemente, «che in certi ambienti sono già date per scontate. Sono ormai inconsce. Cioè, senza [[Conscience|coscienza]].»
+
+«E la fine di tutto ciò,» disse Byles, «sarà la rovina di questo paese.»
+
+«La fine sarà qualcosa di peggio,» disse [[Father Brown]].
+
+Un'[[Shadow|ombra]] scattò o scivolò rapida lungo la parete rivestita di pannelli di fronte, seguita con altrettanta rapidità dalla figura che l'aveva proiettata; una figura alta ma curva, dal profilo vago come quello d'un uccello rapace; accentuato dal fatto che la sua improvvisa apparizione e il suo rapido transito somigliavano a quelli d'un uccello spaventato che voli via da un cespuglio. Era soltanto la figura d'un uomo dalle membra lunghe e le spalle alte, con lunghi baffi cadenti, in verità abbastanza familiare a tutti loro; ma qualcosa nel crepuscolo e nella luce delle candele e nell'[[Shadow|ombra]] volante e guizzante la collegava stranamente alle inconsapevoli parole d'augurio del prete; come se davvero quelle parole fossero state un presagio, nell'antico senso romano; e il segno di esso il volo d'un uccello. Forse il signor Byles avrebbe potuto tenere una lezione su tale augurio romano; e specialmente su quell'uccello di malaugurio.

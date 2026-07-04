@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/apprandcritofchdickens-(chesterton)">ApprAndCritOfChDickens</a> › <a href="/testi/chesterton/atomized/apprandcritofchdickens/chapter_01_page">Chapter 01 PAGE</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/apprandcritofchdickens/chapter_01_page/part_11">‹ part 11</a><a class="ex-next" href="/testi/chesterton/atomized/apprandcritofchdickens/chapter_01_page/part_13">part 13 ›</a></div>
@@ -181,3 +183,180 @@ characters of the great company. Mr. Winkle, who has been an idiot
 (even, perhaps, as Mr. [[Pickwick]] says, "an impostor"), suddenly becomes a
 
 romantic and even reckless [[Lover|lover]], scaling a forbidden wall and planning
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/apprandcritofchdickens-(chesterton)">ApprAndCritOfChDickens</a> › <a href="/testi/chesterton/atomized/apprandcritofchdickens/chapter_01_page">Chapter 01 PAGE</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/apprandcritofchdickens/chapter_01_page/part_11">‹ part 11</a><a class="ex-next" href="/testi/chesterton/atomized/apprandcritofchdickens/chapter_01_page/part_13">part 13 ›</a></div>
+</nav>
+
+senza pudore, come in un album di ritagli; adotta disegni e li abbandona,
+
+comincia episodi e li [[Leaves|lascia]] incompiuti; ma dalla prima pagina
+
+all'ultima vi è un'estasi innominata ed elementare: quella dell'uomo che
+
+fa il genere di cosa che sa fare. Dickens, come ogni altro
+
+scrittore onesto ed efficace, giunse alla fine a un certo grado di cura e di
+
+[[Self|autocontrollo]]. Imparò a far sì che i suoi _dramatis personæ_ assecondassero il suo
+
+dramma; imparò a scrivere storie che erano piene di divagazioni e di
+
+capricci, ma che erano pur sempre storie. Ma prima di scrivere una sola vera
+
+storia, ebbe una sorta di visione. Era una visione del mondo dickensiano: un
+
+labirinto di strade bianche, una mappa gremita di città fantastiche, diligenze tonanti,
+
+piazze di mercato clamorose, locande fragorose, figure strane e
+
+spavalde. Quella visione era _Pickwick_.
+
+Bisogna ricordare che ciò è vero anche in rapporto alla
+
+[[Biography|biografia]] coeva dell'uomo. A prescindere da ogni altra cosa,
+
+_Pickwick_ fu la sua prima grande occasione. Fu un incarico ragguardevole affidato in
+
+un certo senso a un uomo non ancora messo alla prova, perché mostrasse ciò che sapeva fare. Era,
+
+in senso stretto, un campione. E come un campione di cuoio non può essere
+
+che un pezzo di cuoio, o un campione di carbone un pezzo di carbone, così questo
+
+libro va considerato, quanto mai a proposito, semplicemente come un pezzo di Dickens. Era
+
+ansioso di mostrare tutto ciò che aveva dentro. Gli premeva più di provare che
+
+sapeva scrivere [[Well|bene]], che di provare di saper scrivere questo particolare
+
+libro [[Well|bene]]. E questo, in ogni caso, lo dimostrò. Nessuno inviò mai un tale
+
+campione quale il campione di Dickens. Il suo rotolo di cuoio ostruì la
+
+strada; il suo pezzo di carbone diede [[Fire|fuoco]] al Tamigi.
+
+Il libro nacque dal suggerimento di un editore; come è accaduto a molti più buoni
+
+libri di quanti l'arroganza dell'uomo di lettere sia comunemente
+
+disposta ad ammettere. Molto si dice ai nostri [[Time|tempi]] a proposito di [[Apollo]] e
+
+di Admeto, e dell'impossibilità di chiedere al genio di lavorare entro
+
+limiti prescritti o di assecondare un disegno altrui. Ma in fondo, di
+
+fatto, alcuni dei più grandi geni lo hanno fatto, da Shakespeare
+
+che rabberciava cattive commedie e drammatizzava cattivi romanzi fino a Dickens
+
+che scriveva un capolavoro come mera intelaiatura per gli schizzi di un
+
+certo signor Seymour. Né la vera spiegazione è estranea allo spirito e alla potenza
+
+di Dickens. Talenti assai delicati, esili e _bizzarri_ sono invero
+
+incapaci di essere impiegati per un fine esterno, sia di bene pubblico
+
+sia di guadagno privato. Ma a un talento assai grande e ricco si accompagna una
+
+certa sdegnosa generosità che sa applicarsi a qualsiasi cosa. I poeti
+
+minori non sanno scrivere su commissione; ma i grandissimi poeti sì.
+
+Quanto più ampia è la mente dell'uomo, quanto più vasto il suo campo visivo, tanto più
+
+probabile sarà che qualunque cosa gli venga suggerita gli appaia significativa
+
+e promettente; quanto più abbraccia ogni cosa, tanto più pronto
+
+sarà a scrivere qualsiasi cosa. È assai arduo (se è questo il punto)
+
+gettare un mattone a un uomo e chiedergli di scrivere un [[Epic|poema epico]]; ma quanto più è
+
+un grand'uomo, tanto più sarà capace di scrivere intorno al mattone. È
+
+assai ingiusto (se è tutto qui) indicare un cartellone della senape Colman
+
+e pretendere un fiume di eloquenza filosofica; ma quanto più grande è l'uomo,
+
+tanto più probabile è che te lo dia. Così si dimostrò, non
+
+per la prima [[Time|volta]], in questo grande esperimento del primo impiego di
+
+Dickens. I signori Chapman e Hall si presentarono a lui con un progetto per una serie
+
+di racconti sportivi che facessero da contesto, e quasi si direbbe
+
+da pretesto, a una serie di schizzi di Seymour, l'[[artist|artista]] sportivo.
+
+Dickens apportò alcune modifiche al piano, ma ne adottò la caratteristica
+
+principale; e la sua caratteristica principale era il signor Winkle. Pensare a ciò che il
+
+signor Winkle avrebbe potuto essere nelle mani di un ottuso _farceur_, e poi
+
+pensare a ciò che è, significa provare la sensazione che Dickens abbia tratto un
+
+uomo da stracci e rifiuti. Dickens avrebbe lavorato splendidamente e
+
+con successo in molti campi, e avrebbe dato alla luce molti libri brillanti e
+
+figure ardite. Era destinato ad avere l'applauso di interi continenti come uno
+
+statista, e a dettar legge ai suoi editori come un despota; ma forse
+
+non lavorò mai più tanto supremamente [[Well|bene]] come qui, dove lavorò in
+
+[[Chains|catene]]. Ci si può [[Well|bene]] domandare se il suo unico libro di mestiere non sia il suo
+
+capolavoro.
+
+Certo è vero che, procedendo, la sua indipendenza crebbe, ed
+
+egli si liberò del tutto a calci dalle influenze che gli avevano suggerito la storia. Così
+
+Shakespeare dichiarò la propria indipendenza dalla cronaca originale di
+
+[[Hamlet|Amleto]], principe di [[Denmark|Danimarca]], eliminando del tutto (con una certa saggezza)
+
+un altro zio di nome Wiglerus. All'inizio il Nimrod Club di Chapman
+
+e Hall poteva persino avere pari possibilità col [[Pickwick]] Club del giovane
+
+signor Dickens; ma il [[Pickwick]] Club divenne qualcosa di assai migliore di quanto
+
+qualsiasi editore avesse osato sognare. Alcuni dei vecchi legami furono invero
+
+recisi dal caso o da un guaio estraneo; Seymour, per amor del quale forse
+
+l'intera opera era stata concepita, si fece saltare le cervella prima di aver disegnato
+
+dieci illustrazioni. Ma simili cose erano inezie a confronto di _Pickwick_
+
+stesso. Poco importava ormai che Seymour si facesse saltare le cervella fuori, purché
+
+Charles Dickens se le facesse saltare dentro. L'opera divenne
+
+sistematicamente e progressivamente più potente e magistrale. Molti
+
+critici hanno commentato il mutamento alquanto discorde e inartistico
+
+tra la prima parte di _Pickwick_ e la successiva; hanno fatto
+
+notare, non senza buon senso, che il carattere del signor [[Pickwick]] muta
+
+da quello di uno sciocco buffone a quello di un solido mercante. Ma il caso,
+
+se questi critici lo avessero notato, è assai più marcato nei personaggi
+
+minori della grande compagnia. Il signor Winkle, che è stato un idiota
+
+(persino, forse, come dice il signor [[Pickwick]], «un impostore»), diventa d'un tratto un
+
+[[Lover|amante]] romantico e persino temerario, che scala un muro proibito e progetta

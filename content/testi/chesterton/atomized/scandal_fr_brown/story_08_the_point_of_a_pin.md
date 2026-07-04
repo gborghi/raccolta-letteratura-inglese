@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/scandal-fr-brown-(chesterton)">scandal Fr Brown</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/scandal_fr_brown/story_07_the_gardens_had_been_tended_so_carefully">‹ Story 07 The gardens had been tended so carefully</a><a class="ex-next" href="/testi/chesterton/atomized/scandal_fr_brown/story_09_i_mean_it_s_easy_to_say_you_ve_thrown_it">Story 09 I mean it s easy to say you ve thrown it ›</a></div>
@@ -540,3 +542,182 @@ dead,' snorted the young man impatiently.
 
 [[Father Brown]] blinked thoughtfully and then said: 'A [[River|river]] is a good
 place to hide an imaginary [[Body|body]]. It's a rotten bad place to hide a real
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/scandal-fr-brown-(chesterton)">scandal Fr Brown</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/scandal_fr_brown/story_07_the_gardens_had_been_tended_so_carefully">‹ Story 07 The gardens had been tended so carefully</a><a class="ex-next" href="/testi/chesterton/atomized/scandal_fr_brown/story_09_i_mean_it_s_easy_to_say_you_ve_thrown_it">Story 09 I mean it s easy to say you ve thrown it ›</a></div>
+</nav>
+<nav class="excerpt-children">
+<div class="excerpt-children-label">In questa sezione</div>
+<ul><li><a href="/testi/chesterton/atomized/scandal_fr_brown/story_08_the_point_of_a_pin/part_01">Part 1</a></li><li><a href="/testi/chesterton/atomized/scandal_fr_brown/story_08_the_point_of_a_pin/part_02">Part 2</a></li><li><a href="/testi/chesterton/atomized/scandal_fr_brown/story_08_the_point_of_a_pin/part_03">Part 3</a></li><li><a href="/testi/chesterton/atomized/scandal_fr_brown/story_08_the_point_of_a_pin/part_04">Part 4</a></li><li><a href="/testi/chesterton/atomized/scandal_fr_brown/story_08_the_point_of_a_pin/part_05">Part 5</a></li></ul>
+</nav>
+
+SETTE: La punta di uno spillo
+
+[[Father Brown]] sosteneva sempre di aver risolto questo problema nel [[Sleep|sonno]]. Ed era vero, benché in un modo alquanto singolare; poiché avvenne in un [[Time|momento]] in cui il suo [[Sleep|sonno]] era piuttosto disturbato. Era disturbato di primissimo mattino dal martellare che cominciava nell'enorme edificio, o mezzo edificio, che era in via di costruzione di fronte alle sue stanze; una colossale mole di appartamenti ancora per lo più coperta di impalcature e di cartelli che annunciavano i signori Swindon & Sand come costruttori e proprietari. Il martellare riprendeva a intervalli regolari ed era facilmente riconoscibile: perché i signori Swindon & Sand si erano specializzati in un nuovo sistema americano di pavimentazione in cemento che, a dispetto della sua successiva levigatezza, solidità, impenetrabilità e permanente comodità (come descritto nelle pubblicità), doveva essere fissato in certi punti con pesanti attrezzi. [[Father Brown]] si sforzava, tuttavia, di trarne un esiguo conforto; dicendo che lo svegliava sempre in [[Time|tempo]] per la primissima Messa, ed era dunque qualcosa quasi della [[Nature|natura]] di un carillon. Dopotutto, diceva, era quasi altrettanto poetico che i cristiani fossero destati da martelli anziché da [[Bells|campane]]. In realtà, però, i lavori di costruzione gli davano un po' sui nervi, per un'altra ragione. Poiché incombeva come una nuvola sul grattacielo a metà costruito la possibilità di una crisi sindacale, che i giornali si ostinavano caparbiamente a descrivere come uno Sciopero. In verità, se mai fosse accaduto, sarebbe stato una Serrata. Ma egli si tormentava non poco sul fatto che accadesse. E ci si potrebbe chiedere se il martellare metta più a dura prova l'attenzione perché può durare in eterno, o perché può cessare da un momento all'altro.
+
+«Per pura questione di gusto e di fantasia», disse [[Father Brown]], fissando l'edificio con i suoi occhiali da civetta, «mi piacerebbe piuttosto che si fermasse. Vorrei che tutte le case si fermassero finché hanno ancora su le impalcature. Sembra quasi un peccato che le case vengano mai finite. Hanno un'aria così fresca e piena di speranza con tutta quella fatata filigrana di legno bianco, tutte chiare e luminose al sole; e un uomo troppo spesso finisce una [[house|casa]] soltanto trasformandola in una tomba.»
+
+Mentre si voltava dall'oggetto del suo scrutinio, per poco non urtò un uomo che si era appena precipitato attraverso la [[Road|strada]] verso di lui. Era un uomo che conosceva vagamente, ma abbastanza da considerarlo (date le circostanze) una sorta di uccello del malaugurio. Il signor Mastyk era un uomo tozzo dalla testa quadrata che sembrava a malapena europea, vestito con un pesante dandismo che pareva un po' troppo consapevolmente europeizzato. Ma Brown lo aveva visto di recente parlare con il giovane Sand della ditta di costruzioni; e la cosa non gli piaceva. Quel Mastyk era il capo di un'organizzazione piuttosto nuova nella politica industriale inglese; prodotta dagli estremi di entrambe le parti; un vero e proprio esercito di manodopera non appartenente al [[Union|sindacato]] e in gran parte straniera, affittata a squadre a varie ditte; ed evidentemente si aggirava lì nella [[Hope|speranza]] di affittarla a questa. In breve, poteva escogitare qualche modo di scavalcare con l'astuzia il [[Union|Sindacato]] operaio e inondare i cantieri di crumiri. [[Father Brown]] era stato trascinato in alcuni dei dibattiti, essendo in un certo senso chiamato in causa da entrambe le parti. E poiché i Capitalisti riferivano tutti che, per loro certa conoscenza, egli era un bolscevico; e poiché i bolscevichi testimoniavano tutti che egli era un reazionario rigidamente attaccato alle ideologie borghesi, se ne può dedurre che diceva una certa quantità di cose sensate senza alcun effetto apprezzabile su chicchessia. La notizia portata dal signor Mastyk, tuttavia, era tale da strappare tutti dal solco consueto della disputa.
+
+«Vogliono che lei venga subito laggiù», disse il signor Mastyk, in un inglese dall'accento maldestro. «C'è una minaccia di omicidio.»
+
+[[Father Brown]] seguì la sua guida in [[Silence|silenzio]] su per varie scale e scalette fino a una piattaforma dell'edificio incompiuto, sulla quale erano raggruppate le figure più o meno familiari dei capi dell'impresa edile. Comprendevano perfino colui che un tempo ne era stato il capo; benché quel capo fosse da qualche [[Time|tempo]] piuttosto un capo tra le nuvole. Era per lo meno un capo cinto da una corona, che lo nascondeva alla vista umana come una nuvola. Lord Stanes, in altre parole, non solo si era ritirato dagli affari, ma era stato assunto nella [[house|Camera]] dei Lord ed era scomparso. Le sue rare ricomparse erano languide e alquanto tetre; ma questa, in concomitanza con quella di Mastyk, appariva non di meno minacciosa. Lord Stanes era un uomo magro, dalla testa allungata e dagli occhi infossati, con radissimi capelli biondi che sfumavano nella calvizie; ed era la persona più evasiva che il prete avesse mai incontrato. Era impareggiabile nell'autentico talento [[Oxford|oxoniense]] di dire: «Senza [[Doubt|dubbio]] avete ragione», in modo da suonare come: «Senza [[Doubt|dubbio]] credete di aver ragione», oppure di limitarsi a osservare: «Lo credete?» così da sottintendere l'acida aggiunta: «Come no». Ma [[Father Brown]] immaginava che l'uomo non fosse soltanto annoiato, bensì lievemente inasprito, sebbene fosse difficile indovinare se per essere stato chiamato giù dall'Olimpo a dirimere simili beghe commerciali, o semplicemente per non averne più realmente il controllo.
+
+Nel complesso, [[Father Brown]] preferiva piuttosto il gruppo più borghese dei soci. Sir [[Hubert]] Sand e suo nipote Henry; benché dubitasse in cuor suo che avessero davvero molte ideologie. È vero, Sir [[Hubert]] Sand aveva ottenuto una notevole celebrità sui giornali; sia come mecenate dello sport sia come patriota in molte crisi durante e dopo la Grande Guerra. Aveva riportato onori notevoli in Francia, per un uomo della sua età, ed era stato poi presentato come un trionfante capitano d'industria capace di superare le difficoltà tra gli operai delle munizioni. Lo avevano chiamato un Uomo Forte; ma non era colpa sua. Era in effetti un inglese massiccio e cordiale; un gran nuotatore; un buon possidente di campagna; un ammirevole colonnello dilettante. Anzi, qualcosa che si può solo definire un'impronta militare pervadeva il suo aspetto. Stava ingrassando, ma teneva le spalle indietro; i capelli ricci e i baffi erano ancora castani mentre i colori del volto erano già in certa misura appassiti e sbiaditi. Il nipote era un giovanotto robusto del tipo che spinge, o meglio che spintona con le spalle, con una testa relativamente piccola protesa in avanti su un collo tozzo, come se andasse alle cose a testa bassa; un gesto reso in qualche modo alquanto bizzarro e fanciullesco dal pince-nez in bilico sul suo pugnace naso a patata.
+
+[[Father Brown]] aveva già osservato tutte queste cose; e in quel momento tutti stavano guardando qualcosa di interamente nuovo. Al centro della struttura in legno era inchiodato un ampio foglio di carta sciolto e svolazzante, sul quale qualcosa era stato scarabocchiato in rozze e quasi folli lettere maiuscole, come se lo scrivente fosse quasi analfabeta oppure fingesse o parodiasse l'analfabetismo. Le parole recitavano precisamente: «Il Consiglio dei Lavoratori avverte [[Hubert]] Sand che abbasserà i salari e serrerà fuori gli operai a suo rischio e pericolo. Se domani usciranno gli avvisi, egli sarà messo a morte dalla giustizia del popolo.»
+
+Lord Stanes stava proprio arretrando dal suo esame del foglio e, guardando dall'altra parte verso il suo socio, disse con un'intonazione piuttosto curiosa: «[[Well|Beh]], è lei che vogliono assassinare. Evidentemente io non sono ritenuto degno d'essere assassinato.»
+
+Una di quelle scosse ancora elettriche della fantasia che talvolta attraversavano la mente di [[Father Brown]] in modo quasi privo di senso lo percorse in quel preciso istante. Ebbe la strana idea che l'uomo che stava parlando non potesse ora essere assassinato, perché era già morto. Era, ammise allegramente, un'idea perfettamente insensata. Ma c'era qualcosa che gli faceva sempre venire i brividi nel freddo distacco disincantato del nobile socio anziano; nel suo colorito cadaverico e nei suoi occhi inospitali. «Quel tale», pensò nel medesimo umore perverso, «ha occhi verdi e sembra avere [[Blood|sangue]] verde.»
+
+A ogni modo, era certo che Sir [[Hubert]] Sand non avesse [[Blood|sangue]] verde. Il suo [[Blood|sangue]], che era rosso a sufficienza in ogni senso, gli stava salendo verso le guance avvizzite o segnate dalle intemperie con tutta la calda pienezza di vita che appartiene all'indignazione naturale e [[Innocent|innocente]] del bonaccione.
+
+«In tutta la mia vita», disse, con voce forte eppure malferma, «non mi era mai stata detta o fatta una cosa simile. Posso aver dissentito...»
+
+«Su questo nessuno di noi può dissentire», irruppe impetuosamente il nipote. «Ho cercato di andare d'accordo con loro, ma questo è un po' troppo grosso.»
+
+«Non penserà mica davvero», cominciò [[Father Brown]], «che i suoi operai...»
+
+«Dico che possiamo aver dissentito», disse il vecchio Sand, ancora un po' tremulo, «Dio sa se mi è mai piaciuta l'idea di minacciare operai inglesi con manodopera più a buon mercato...»
+
+«A nessuno di noi piaceva», disse il giovane, «ma se ti conosco, zio, questo ha praticamente deciso la faccenda.»
+
+Poi, dopo una pausa, aggiunse: «Immagino, come dici tu, che dissentissimo sui dettagli; ma quanto alla politica vera e propria...»
+
+«Mio caro ragazzo», disse lo zio, comodamente. «Speravo che non ci sarebbe mai stato alcun vero disaccordo.» Dal che chiunque conosca la nazione inglese può giustamente dedurre che c'era stato un disaccordo assai considerevole. In effetti lo zio e il nipote differivano quasi quanto un inglese e un americano. Lo zio aveva l'ideale inglese di starsene fuori dagli affari e di costruirsi una sorta di alibi come gentiluomo di campagna. Il nipote aveva l'ideale americano di entrare dentro gli affari; di entrare nel meccanismo stesso come un meccanico. E, in effetti, aveva lavorato con la maggior parte dei meccanici ed era pratico della maggior parte dei procedimenti e dei trucchi del mestiere. Ed era di nuovo americano nel fatto che faceva questo in parte come datore di lavoro per tenere i suoi uomini all'altezza, ma in qualche modo vago anche come un pari, o per lo meno con l'[[Pride|orgoglio]] di mostrarsi anch'egli un lavoratore. Per questa ragione era spesso apparso quasi come un rappresentante degli operai, su questioni tecniche che erano a cento miglia di distanza dall'eminenza popolare dello zio nella politica o nello sport. Il [[Memory|ricordo]] di quelle molte occasioni, in cui il giovane Henry era praticamente uscito dall'officina in maniche di camicia per reclamare qualche concessione sulle condizioni di lavoro, conferiva una forza peculiare e persino una violenza alla sua presente reazione in senso opposto.
+
+«[[Well|Ebbene]], si sono maledettamente [[Well|ben]] serrati fuori da soli questa [[Time|volta]]», gridò. «Dopo una minaccia simile non resta semplicemente altro che sfidarli. Non resta altro che licenziarli tutti, adesso; all'istante; su due piedi. Altrimenti saremo lo zimbello del mondo.»
+
+Il vecchio Sand aggrottò la fronte con pari indignazione, ma cominciò lentamente: «Sarò criticato moltissimo...»
+
+«Criticato!» gridò il giovane con voce stridula. «Criticato se sfidi una minaccia di omicidio! Hai idea di come sarai criticato se non la sfidi? Non ti godrai i titoloni? "Grande Capitalista Terrorizzato" — "Datore di Lavoro Cede alla Minaccia di Omicidio."»
+
+«Particolarmente», disse Lord Stanes, con qualcosa di lievemente sgradevole nel tono. «Particolarmente ora che è già comparso in tanti titoloni come "L'Uomo Forte dell'Edilizia in Acciaio."»
+
+Sand era tornato molto rosso e la voce gli usciva impastata da sotto i folti baffi. «Naturalmente lì hai ragione. Se questi bruti pensano che io abbia paura...»
+
+A questo punto vi fu un'interruzione nella conversazione del gruppo; e un giovane snello venne verso di loro rapidamente. La prima cosa notevole in lui era che apparteneva a quelli che gli uomini, e anche le donne, giudicano appena un po' troppo di bell'aspetto per apparire belli davvero. Aveva bei capelli scuri e ricci e un baffo di seta, e parlava come un gentiluomo, ma con un accento fin troppo raffinato ed esattamente modulato. [[Father Brown]] lo riconobbe subito come Rupert Rae, il segretario di Sir [[Hubert]], che aveva spesso visto gironzolare per la [[house|casa]] di Sir [[Hubert]]; ma mai con tanta impazienza nei movimenti o con una tale ruga sulla fronte.
+
+«Mi dispiace, signore», disse al suo datore di lavoro, «ma c'è un uomo che si aggira laggiù. Ho fatto del mio meglio per sbarazzarmene. Ha soltanto una lettera, ma giura di doverla consegnare a lei personalmente.»
+
+«Vuoi dire che è andato prima alla mia [[house|casa]]?» disse Sand, lanciando una rapida occhiata al suo segretario. «Immagino che tu sia stato là tutta la mattina.»
+
+«Sì, signore», disse il signor Rupert Rae.
+
+Vi fu un breve [[Silence|silenzio]]; e poi Sir [[Hubert]] Sand fece seccamente intendere che era meglio far venire l'uomo; e l'uomo comparve puntualmente.
+
+Nessuno, neppure la dama meno schizzinosa, avrebbe detto che il nuovo venuto fosse troppo di bell'aspetto. Aveva orecchie molto grandi e una faccia da rana, e fissava davanti a sé con una fissità quasi spettrale, che [[Father Brown]] attribuì al fatto che avesse un occhio di vetro. Anzi, la sua fantasia era tentata di dotare l'uomo di due occhi di vetro; con un'aria tanto vitrea contemplava la compagnia. Ma l'esperienza del prete, distinta dalla sua fantasia, era in grado di suggerire diverse cause naturali per quel bagliore innaturale da figura di cera; una delle quali era un abuso del divino dono del liquore fermentato. L'uomo era basso e malandato e reggeva in una mano una grande bombetta e nell'altra una grande lettera sigillata.
+
+Sir [[Hubert]] Sand lo guardò; e poi disse in tono abbastanza tranquillo, ma con una voce che in qualche modo pareva curiosamente esile, uscendo dalla pienezza della sua presenza corporea: «Oh... siete voi.»
+
+Tese la mano per la lettera; e poi si guardò intorno con aria di scusa, il dito sospeso, prima di strapparne l'apertura e leggerla. Quando l'ebbe letta, se la cacciò nella tasca interna e disse in fretta e un po' aspramente: «[[Well|Beh]], suppongo che tutta questa faccenda sia finita, come dici tu. Nessuna trattativa è più possibile ormai; non potremmo comunque pagare i salari che chiedono. Ma vorrò rivederti, Henry, a proposito di... a proposito di come chiudere le cose in generale.»
+
+«D'accordo», disse Henry, forse un po' imbronciato, come se avrebbe preferito [[Wind|sbrigarle]] da solo. «Sarò su al numero 188 dopo pranzo; devo sapere fin dove sono arrivati lassù.»
+
+L'uomo con l'occhio di vetro, se era un occhio di vetro, se ne andò rigidamente a passi pesanti; e l'occhio di [[Father Brown]] (che non era affatto un occhio di vetro) lo seguì pensieroso mentre si faceva strada tra le scalette e scompariva nella via.
+
+Fu la mattina seguente che [[Father Brown]] ebbe l'insolita esperienza di dormire oltre l'ora; o per lo meno di destarsi dal [[Sleep|sonno]] con la soggettiva convinzione di essere in ritardo. Ciò era dovuto in parte al suo ricordare, come un uomo può ricordare [[A Dream|un sogno]], il fatto di essersi mezzo svegliato a un'ora più regolare e di essersi riaddormentato; un'evenienza abbastanza comune per la maggior parte di noi, ma un'evenienza assai insolita per [[Father Brown]]. E in seguito fu stranamente convinto, con quel lato mistico di sé che era normalmente rivolto lontano dal mondo, che in quell'isolotto oscuro e distaccato del regno dei sogni, tra i due risvegli, giacesse come un tesoro sepolto la [[Truth|verità]] di questa storia.
+
+Come stavano le cose, balzò in piedi con gran prontezza, si infilò gli abiti, afferrò il suo grosso ombrello nodoso e si precipitò nella via, dove la squallida mattina bianca stava spuntando come ghiaccio scheggiato intorno all'enorme edificio nero che gli stava di fronte. Fu sorpreso di scoprire che le strade risplendevano quasi deserte nella fredda luce cristallina; il loro stesso aspetto gli disse che difficilmente poteva essere tardi come aveva temuto. Poi improvvisamente la quiete fu spaccata dalla rapidità simile a una freccia di una lunga automobile grigia che si arrestò davanti ai grandi appartamenti deserti. Lord Stanes si dispiegò dall'interno e si avvicinò alla porta, portando (piuttosto languidamente) due grandi valigie. Nello stesso momento la porta si aprì, e qualcuno parve indietreggiare invece di uscire nella strada. Stanes chiamò due volte l'uomo all'interno, prima che quella persona sembrasse completare il suo gesto originario uscendo sulla soglia; poi i due tennero un breve colloquio, che si concluse con il nobiluomo che portava le sue valigie di sopra, e l'altro che usciva alla piena luce del giorno rivelando le pesanti spalle e la testa scrutatrice del giovane Henry Sand.
+
+[[Father Brown]] non diede peso a questo incontro piuttosto strano, finché due giorni più tardi il giovane arrivò con la propria automobile e implorò il prete di salirvi. «È successo qualcosa di terribile», disse, «e preferirei parlarne con lei piuttosto che con Stanes. Sa, Stanes è arrivato l'altro giorno con la folle idea di accamparsi in uno degli appartamenti appena finiti. Ecco perché ho dovuto andare là presto e aprirgli la porta. Ma tutto questo può aspettare. Voglio che venga subito su, a casa di mio zio.»
+
+«È malato?» domandò il prete rapidamente.
+
+«Credo che sia morto», rispose il nipote.
+
+«Che cosa intende dire quando dice che crede che sia morto?» chiese [[Father Brown]] un po' bruscamente. «Ha un medico?»
+
+«No», rispose l'altro. «Non ho né un medico né un paziente... Non serve a nulla chiamare i medici a esaminare il [[Body|corpo]]; perché il [[Body|corpo]] è fuggito. Ma temo di sapere dove è fuggito... la [[Truth|verità]] è che... l'abbiamo tenuto nascosto per due giorni; ma è scomparso.»
+
+«Non sarebbe meglio», disse [[Father Brown]] mitemente, «se mi raccontasse che cosa è realmente accaduto dal principio?»
+
+«Lo so», rispose Henry Sand; «è una vergogna infernale parlare con tanta leggerezza del povero vecchio; ma la gente diventa così quando è sconvolta. Non sono granché bravo a nascondere le cose; il lungo e il breve della faccenda è che... [[Well|beh]], il lungo non glielo dirò adesso. È ciò che qualcuno definirebbe piuttosto un tiro azzardato; scagliare sospetti a casaccio e via dicendo. Ma il breve è che il mio sventurato zio ha commesso il [[suicide|suicidio]].»
+
+Ormai a questo [[Time|punto]] sfrecciavano lungo la strada in automobile attraverso gli ultimi lembi della città e i primi lembi della foresta e del parco al di là di essa; i cancelli della portineria della piccola tenuta di Sir [[Hubert]] Sand si trovavano circa mezzo miglio più avanti in mezzo alla ressa infittita dei faggi. La tenuta consisteva principalmente in un piccolo parco e in un grande [[Garden|giardino]] ornamentale, che digradava in terrazze di un certo classico sfarzo fino all'orlo stesso del principale [[River|fiume]] del distretto. Non appena giunsero alla [[house|casa]], Henry condusse il prete un po' frettolosamente attraverso le vecchie stanze georgiane e fuori dall'altro lato; dove discesero in silenzio il pendio, un pendio piuttosto ripido arginato di [[Flowers|fiori]], dal quale potevano vedere il pallido [[River|fiume]] disteso davanti a loro quasi piatto come in una veduta a volo d'uccello. Stavano proprio svoltando l'angolo del sentiero sotto un'enorme urna classica coronata da una ghirlanda di gerani alquanto incongrua, quando [[Father Brown]] vide un movimento nei cespugli e negli alberi radi appena sotto di lui, che parve rapido come il movimento di [[Birds|uccelli]] spaventati.
+
+Nell'intrico di alberi radi presso il [[River|fiume]] due figure parvero dividersi o disperdersi; una di esse scivolò rapida nell'ombra e l'altra si fece avanti a fronteggiarli; costringendoli a fermarsi e a un brusco e piuttosto inspiegabile [[Silence|silenzio]]. Poi Henry Sand disse nel suo modo pesante: «Credo che lei conosca [[Father Brown]]... Lady Sand.»
+
+[[Father Brown]] la conosceva davvero; ma in quel momento avrebbe quasi potuto dire di non conoscerla. Il pallore e la contrazione del suo volto erano come una maschera di [[Tragedy|tragedia]]; era molto più giovane del marito, ma in quel momento appariva in qualche modo più vecchia di ogni cosa in quella vecchia [[house|casa]] e in quel [[Garden|giardino]]. E il prete rammentò, con un fremito subconscio, che ella era davvero più antica per tipo e per lignaggio ed era la vera padrona del luogo. Poiché la sua famiglia lo aveva posseduto come aristocratici impoveriti, prima che ella ne risollevasse le fortune sposando un uomo d'affari di successo. Così come stava lì, avrebbe potuto essere un ritratto di famiglia, o persino un [[Ghost|fantasma]] di famiglia. Il suo volto pallido era di quel tipo affilato eppure ovale che si vede in certi antichi ritratti di Maria [[Queen|regina]] di Scozia; e la sua espressione pareva quasi andare oltre la naturale innaturalezza di una situazione in cui il marito era svanito sotto il sospetto di [[suicide|suicidio]]. [[Father Brown]], con il medesimo moto subconscio della mente, si chiese chi fosse colui con cui ella aveva parlato tra gli alberi.
+
+«Suppongo che lei conosca tutte queste terribili notizie», disse, con una sconsolata compostezza. «Il povero [[Hubert]] deve aver ceduto sotto tutta questa persecuzione rivoluzionaria, ed essere stato spinto alla follia fino a togliersi la vita. Non so se lei possa fare qualcosa; o se questi orribili bolscevichi possano essere ritenuti responsabili di averlo braccato fino alla [[Death|morte]].»
+
+«Sono terribilmente addolorato, Lady Sand», disse [[Father Brown]]. «E tuttavia, devo confessarlo, un po' sconcertato. Lei parla di persecuzione; crede davvero che qualcuno potesse braccarlo fino alla [[Death|morte]] semplicemente affiggendo quel foglio al muro?»
+
+«Immagino», rispose la dama, con la fronte che si oscurava, «che vi fossero altre persecuzioni oltre al foglio.»
+
+«Mostra quali errori si possano commettere», disse il prete tristemente. «Non avrei mai pensato che sarebbe stato tanto illogico da morire per evitare la [[Death|morte]].»
+
+«Lo so», rispose lei, fissandolo gravemente. «Non l'avrei mai creduto, se non fosse stato scritto di suo pugno.»
+
+«Cosa?» gridò [[Father Brown]], con un piccolo sussulto come un coniglio a cui abbiano sparato.
+
+«Sì», disse Lady Sand con calma. «Ha lasciato una confessione di [[suicide|suicidio]]; sicché [[Fear|temo]] che non vi sia [[Doubt|dubbio]] al riguardo.» E proseguì su per il pendio da [[Alone|sola]], con tutto l'inviolabile isolamento del [[Ghost|fantasma]] di famiglia.
+
+Gli occhiali di [[Father Brown]] si volsero in muta interrogazione verso le lenti del signor Henry Sand. E quest'ultimo signore, dopo un istante di esitazione, parlò di nuovo nel suo modo piuttosto cieco e avventato: «Sì, vede, ora sembra abbastanza chiaro quel che ha fatto. È sempre stato un gran nuotatore e soleva scendere in vestaglia ogni mattina per un tuffo nel [[River|fiume]]. [[Well|Ebbene]], scese come al solito e lasciò la vestaglia sulla riva; è ancora lì per terra. Ma lasciò anche un messaggio in cui diceva che andava a fare la sua ultima nuotata e poi la [[Death|morte]], o qualcosa del genere.»
+
+«Dove ha lasciato il messaggio?» chiese [[Father Brown]].
+
+«Lo ha scarabocchiato su quell'albero là, sospeso sull'[[Water|acqua]], immagino l'ultima cosa a cui si è aggrappato; proprio sotto il punto dove giace la vestaglia. Venga a vedere di persona.»
+
+[[Father Brown]] corse giù per l'ultimo breve pendio fino alla sponda e scrutò sotto l'albero pendente, le cui fronde quasi si immergevano nella corrente. Difatti, vide sulla liscia corteccia le parole graffiate in modo cospicuo e inequivocabile: «Un'altra nuotata e poi l'annegamento. Addio. [[Hubert]] Sand.» Lo sguardo di [[Father Brown]] risalì lentamente la sponda finché non si posò su uno splendido cencio di veste, tutto rosso e giallo con nappe dorate. Era la vestaglia, e il prete la raccolse e cominciò a rivoltarla. Quasi nel farlo si accorse che una figura aveva guizzato attraverso il suo campo visivo; una figura alta e scura che sgusciava da un gruppo d'alberi all'altro, come seguendo la traccia della dama che scompariva. Aveva pochi [[Doubt|dubbi]] che fosse il compagno da cui ella si era poco prima separata. Aveva un [[Doubt|dubbio]] ancora minore che fosse il segretario del morto, il signor Rupert Rae.
+
+«Naturalmente, potrebbe essere stato un ultimo ripensamento lasciare il messaggio», disse [[Father Brown]], senza alzare lo sguardo, l'occhio inchiodato sull'indumento rosso e oro. «Abbiamo tutti sentito parlare di messaggi d'[[Love|amore]] scritti sugli alberi; e suppongo che potrebbero esserci anche messaggi di [[Death|morte]] scritti sugli alberi.»
+
+«[[Well|Beh]], immagino che non avesse nulla nelle tasche della vestaglia», disse il giovane Sand. «E un uomo potrebbe naturalmente graffiare il suo messaggio su un albero se non aveva né penne, né inchiostro, né carta.»
+
+«Sembrano esercizi di francese», disse il prete tristemente. «Ma non stavo pensando a quello.» Poi, dopo un [[Silence|silenzio]], disse con voce alquanto alterata:
+
+«A dire la [[Truth|verità]], stavo pensando se un uomo non potrebbe naturalmente graffiare il suo messaggio su un albero, anche se avesse pile di penne, e litri d'inchiostro, e risme di carta.»
+
+Henry lo guardava con aria piuttosto trasalita, gli occhiali storti sul naso a patata. «E che cosa intende con questo?» chiese seccamente.
+
+«[[Well|Beh]]», disse [[Father Brown]] lentamente, «non intendo esattamente che i postini porteranno lettere sotto forma di tronchi, o che lei manderà mai due righe a un amico appiccicando un francobollo su un pino. Dovrebbe trattarsi di un genere particolare di posizione; anzi, dovrebbe trattarsi di un genere particolare di persona, che preferisse davvero questa sorta di corrispondenza arborea. Ma, date la posizione e la persona, ripeto ciò che ho detto. Egli scriverebbe comunque su un albero, come dice la [[Song|canzone]], anche se tutto il mondo fosse carta e tutto il mare fosse inchiostro; se quel [[River|fiume]] scorresse d'inchiostro eterno o se tutti questi boschi fossero una foresta di penne d'oca e stilografiche.»
+
+Era evidente che Sand provava qualcosa di raccapricciante di fronte alle fantasiose immagini del prete; se perché le trovava incomprensibili o perché cominciava a comprenderle.
+
+«Vede», disse [[Father Brown]], rivoltando lentamente la vestaglia mentre parlava, «non ci si aspetta che un uomo scriva con la sua migliore calligrafia quando la incide su un albero. E se l'uomo non fosse l'uomo, se mi spiego... Ehilà!»
+
+Stava guardando la vestaglia rossa, e per un istante parve che un po' del rosso gli si fosse staccato sul dito; ma entrambi i volti rivolti verso di essa erano già di una sfumatura più pallida.
+
+«[[Blood|Sangue]]!» disse [[Father Brown]]; e per un istante vi fu un silenzio mortale salvo per i melodiosi rumori del [[River|fiume]].
+
+Henry Sand si schiarì la gola e il naso con rumori che non erano affatto melodiosi. Poi disse piuttosto rauco: «[[Blood|Sangue]] di chi?»
+
+«Oh, mio», disse [[Father Brown]]; ma non sorrise.
+
+Un momento dopo disse: «C'era uno spillo in questa cosa e mi sono punto. Ma non credo che lei colga bene il punto... il punto dello spillo, io sì»; e si succhiò il dito come un [[Child|bambino]].
+
+«Vede», disse dopo un altro [[Silence|silenzio]], «la vestaglia era ripiegata e fermata con uno spillo; nessuno avrebbe potuto dispiegarla, per lo meno senza pungersi. In parole povere, [[Hubert]] Sand non ha mai indossato questa vestaglia. Non più di quanto [[Hubert]] Sand abbia mai scritto su quell'albero. O si sia annegato in quel [[River|fiume]].»
+
+Il pince-nez inclinato sul naso indagatore di Henry cadde con uno scatto; ma per il resto egli rimase immobile, come irrigidito dalla sorpresa.
+
+«Il che ci riporta», proseguì [[Father Brown]] allegramente, «al gusto di qualcuno per lo scrivere la propria corrispondenza privata sugli alberi, come Hiawatha e la sua scrittura per immagini. Sand aveva tutto il [[Time|tempo]] che voleva, prima di annegarsi. Perché non ha lasciato un biglietto per sua moglie come una persona assennata? O, diciamo... Perché l'Altro Uomo non ha lasciato un biglietto per la moglie come una persona assennata? Perché avrebbe dovuto contraffare la calligrafia del marito; cosa sempre insidiosa ora che gli esperti sono così ficcanaso al riguardo. Ma non ci si può aspettare che qualcuno imiti persino la propria calligrafia, [[Alone|tanto meno]] quella di un altro, quando intaglia lettere maiuscole nella corteccia di un albero. Questo non è un [[suicide|suicidio]], signor Sand. Se è qualcosa, è un omicidio.»
+
+La felce e i cespugli del sottobosco scricchiolarono e crepitarono mentre il grosso giovane si [[Rose|levò]] da essi come un leviatano, e restò in piedi accigliato, col collo tozzo proteso in avanti.
+
+«Non sono bravo a nascondere le cose», disse, «e sospettavo a metà qualcosa del genere... me l'aspettavo, si potrebbe dire, da molto [[Time|tempo]]. A dire la [[Truth|verità]], riuscivo a stento a essere cortese con quel tale... con entrambi, se è per questo.»
+
+«Che cosa intende esattamente?» chiese il prete, guardandolo gravemente dritto in faccia.
+
+«Intendo», disse Henry Sand, «che lei mi ha mostrato l'omicidio e io credo di poterle mostrare gli assassini.»
+
+[[Father Brown]] tacque e l'altro proseguì piuttosto a scatti.
+
+«Lei ha detto che la gente talvolta scriveva messaggi d'[[Love|amore]] sugli alberi. [[Well|Ebbene]], di fatto, ce ne sono alcuni su quell'albero; ci sono due specie di monogrammi intrecciati insieme lassù sotto le [[Leaves|foglie]]... suppongo lei sappia che Lady Sand era l'erede di questo luogo molto prima di sposarsi; e conosceva quel maledetto damerino di segretario già a quei tempi. Scommetto che si incontravano qui e scrivevano i loro voti sull'albero degli appuntamenti. Pare che in seguito abbiano usato l'albero degli appuntamenti per un altro scopo. Sentimento, senza [[Doubt|dubbio]], o economia.»
+
+«Devono essere persone davvero orribili», disse [[Father Brown]].
+
+«Non ci sono forse state persone orribili nella [[history|storia]] o nella cronaca nera?» domandò Sand con una certa eccitazione. «Non ci sono forse stati [[lovers|amanti]] che hanno reso l'[[Love|amore]] più orribile dell'odio? Non sa nulla di Bothwell e di tutte le sanguinose leggende di simili [[lovers|amanti]]?»
+
+«Conosco la leggenda di Bothwell», rispose il prete. «So anche che è del tutto leggendaria. Ma naturalmente è vero che dei mariti sono stati talvolta tolti di mezzo così. A proposito, dove è stato tolto di mezzo lui? Voglio dire, dove hanno nascosto il [[Body|corpo]]?»
+
+«Suppongo che lo abbiano annegato, o gettato nell'[[Water|acqua]] quand'era morto», sbuffò il giovane con impazienza.
+
+[[Father Brown]] sbatté pensieroso le palpebre e poi disse: «Un [[River|fiume]] è un buon posto per nascondere un [[Body|corpo]] immaginario. È un pessimo posto per nascondere un vero

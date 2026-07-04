@@ -147,66 +147,66 @@ on the stage from here. Old Randall has a splendid carrying voice."
 
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/works/secret-fr-brown-(chesterton)">secret Fr Brown</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/secret-fr-brown-(chesterton)">secret Fr Brown</a> › <a href="/testi/chesterton/atomized/secret_fr_brown/story_04_the_actor_and_the_alibi">Story 04 THE ACTOR AND THE ALIBI</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/secret_fr_brown/story_04_the_actor_and_the_alibi/part_02">‹ part 02</a><a class="ex-next" href="/testi/chesterton/atomized/secret_fr_brown/story_04_the_actor_and_the_alibi/part_04">part 04 ›</a></div>
 </nav>
 
-«Le commedie sono una noia; ma non ho mai visto una prova con gli abiti di tutti i giorni. Potrebbe essere un po' buffo. In un modo o nell'altro, di questi tempi, non si riesce mai a trovare qualcosa che non si sia già visto.»
+«Le commedie sono una noia; ma non ho mai visto una prova in abiti ordinari. Potrebbe essere un po' buffo. In qualche modo, oggigiorno, non si riesce mai a trovare una cosa che non si sia già vista.»
 
-«Suvvia, signor Mandeville», disse Miss Talbot, battendogli sul braccio con animata insistenza, «lei deve assolutamente lasciarci vedere questa prova. Non possiamo venire di [[Night|notte]], e nemmeno lo vogliamo. Vogliamo vedere tutta la gente buffa negli abiti sbagliati.»
+«E allora, signor Mandeville» disse la signorina Talbot, battendogli sul braccio con animata insistenza, «deve assolutamente lasciarci vedere quella prova. Non possiamo venire stas[[Night|sera]], e non ne abbiamo voglia. Vogliamo vedere tutta la gente buffa con gli abiti sbagliati.»
 
-«Naturalmente posso darvi un palco, se lo desiderate», disse Mandeville in fretta. «Forse vostra signoria vorrà favorire da questa parte.» E li condusse lungo un altro corridoio.
+«Naturalmente posso darvi un palco, se lo desiderate» disse Mandeville in fretta. «Forse Vostra Signoria vorrà venire da questa parte.» E le condusse via lungo un altro corridoio.
 
-«Mi [[Wonder|domando]]», disse Jarvis in tono meditabondo, «se persino Mandeville preferisca quel genere di donna.»
+«Mi [[Wonder|domando]]» disse Jarvis in tono meditativo, «se anche Mandeville preferisca quel genere di donna.»
 
-«[[Well|Ebbene]]», domandò il suo compagno in abito talare, «ha lei qualche ragione per supporre che Mandeville la preferisca davvero?»
+«[[Well]]» chiese il suo compagno in tonaca, «ha qualche ragione per supporre che Mandeville la preferisca davvero?»
 
-Jarvis lo fissò per un istante prima di rispondere.
+Jarvis lo guardò fissamente per un istante prima di rispondere.
 
-«Mandeville è un mistero», disse gravemente. «Oh, sì, lo so che ha tutta l'aria del più banale mascalzone che abbia mai percorso Piccadilly. Ma ciò nondimeno è davvero un mistero. C'è qualcosa sulla sua [[Conscience|coscienza]]. C'è un'[[Shadow|ombra]] nella sua vita. E [[Doubt|dubito]] che essa abbia a che fare con qualche flirt alla moda più di quanto abbia a che fare con la sua povera moglie trascurata. Se così fosse, in quei flirt ci sarebbe più di quanto non appaia a prima vista. A dire il vero, mi capita di saperne più di chiunque altro, per puro caso. Ma persino io non riesco a cavarne nulla, tranne un mistero.»
+«Mandeville è un mistero» disse gravemente. «Oh, sì, lo so che pare all'incirca il più banale dei mascalzoni mai passeggiati per Piccadilly. Ma è davvero un mistero, con tutto ciò. C'è qualcosa sulla sua [[Conscience|coscienza]]. C'è un'[[Shadow|ombra]] nella sua vita. E [[Doubt|dubito]] che abbia più a che fare con qualche flirt alla moda di quanto abbia a che fare con la sua povera moglie trascurata. Se ce l'ha, in essi c'è più di quanto non appaia a prima vista. In effetti, si dà il caso che io ne sappia più di chiunque altro, per puro accidente. Ma persino io non riesco a cavare nulla da ciò che so, se non un mistero.»
 
-Si guardò intorno nel vestibolo per accertarsi che fossero [[Alone|soli]], poi aggiunse, abbassando la voce:
+Si guardò attorno nel vestibolo per accertarsi che fossero [[Alone|soli]] e poi aggiunse, abbassando la voce:
 
-«Non mi dispiace dirglielo, perché so che lei è una torre di [[Silence|silenzio]] quando si tratta di [[Secrets|segreti]]. Ma l'altro giorno ebbi una curiosa scossa; e da allora si è ripetuta più volte. Sa che Mandeville lavora sempre in quella stanzetta in fondo al passaggio, proprio sotto il palcoscenico. [[Well|Ebbene]], per due volte mi capitò di passare di lì quando tutti lo credevano [[Alone|solo]]; e, ciò che più conta, quando io stesso ero in grado di rendere conto di tutte le donne della compagnia, e di tutte le donne che potessero avere qualcosa a che fare con lui, in quanto assenti o ai loro consueti posti.»
+«Non mi dispiace dirglielo, perché so che lei è una torre di [[Silence|silenzio]] quando si tratta di [[Secrets|segreti]]. Ma l'altro giorno ho avuto uno strano turbamento; e da allora si è ripetuto parecchie volte. Sa che Mandeville lavora sempre in quella stanzetta in fondo al corridoio, proprio sotto il palcoscenico. [[Well|Ebbene]], due volte mi è capitato di passare di là quando tutti lo credevano [[Alone|solo]]; e per di più quando io stesso ero in grado di rendere conto di tutte le donne della compagnia, e di tutte le donne che potessero avere a che fare con lui, assenti o ai loro consueti posti.»
 
 «Tutte le donne?» osservò [[Father Brown]] in tono interrogativo.
 
-«C'era una donna con lui», disse Jarvis quasi in un sussurro. «C'è una donna che va sempre a trovarlo; qualcuno che nessuno di noi conosce. Non so nemmeno come faccia ad arrivare là, dato che non passa per il corridoio fino alla porta; ma credo di aver visto una volta una figura velata o incappucciata dileguarsi nel crepuscolo sul retro del teatro, come un [[Ghost|fantasma]]. Ma non può essere un [[Ghost|fantasma]]. E non credo che sia nemmeno una semplice "storia". Non penso che si tratti di [[Love|amore]]. Penso che sia ricatto.»
+«C'era una donna con lui» disse Jarvis quasi in un sussurro. «C'è qualche donna che lo va sempre a trovare; qualcuna che nessuno di noi conosce. Non so nemmeno come faccia ad arrivarci, giacché non è lungo il corridoio che porta alla porta; ma mi pare di aver visto una volta una figura velata o incappucciata dileguarsi nel crepuscolo, sul retro del teatro, come un [[Ghost|fantasma]]. Ma non può essere un [[Ghost|fantasma]]. E non credo che sia nemmeno un'ordinaria "tresca". Non penso che sia questione di [[Love|amore]]. Penso che sia ricatto.»
 
 «Che cosa glielo fa pensare?» chiese l'altro.
 
-«Perché», disse Jarvis, il volto passando dal [[Grave|grave]] al torvo, «una volta udii dei rumori come di un litigio; e poi la strana donna disse, con voce metallica e minacciosa, quattro parole: "Io sono tua moglie".»
+«Perché» disse Jarvis, il volto passando dal [[Grave|grave]] al torvo, «una volta ho udito rumori come di un litigio; e poi la strana donna disse, con voce metallica e minacciosa, quattro parole: "Io sono tua moglie".»
 
-«Lei crede che sia un bigamo», disse [[Father Brown]] in tono riflessivo. «[[Well|Ebbene]], bigamia e ricatto vanno spesso insieme, naturalmente. Ma potrebbe bluffare [[Well|oltre]] che ricattare. Potrebbe essere pazza. Questa gente di teatro ha spesso dei monomaniaci che le corrono dietro. Lei potrebbe aver ragione, ma non salterei alle conclusioni... E a proposito di gente di teatro, non sta per cominciare la prova, e lei non è forse un uomo di teatro?»
+«Lei crede che sia un bigamo» disse [[Father Brown]] riflettendo. «[[Well|Ebbene]], bigamia e ricatto vanno spesso insieme, naturalmente. Ma può darsi che stia bluffando oltre [[Well|che]] ricattando. Può darsi che sia matta. Questa gente di teatro ha spesso dei monomaniaci che le corrono dietro. Può darsi che lei abbia ragione, ma non salterei alle conclusioni… E a proposito di gente di teatro, non sta per cominciare la prova, e lei non è forse un uomo di teatro?»
 
-«Non sono in scena in questo quadro», disse Jarvis con un sorriso. «Stanno facendo un atto solo, sa, finché la sua amica italiana non torna in sé.»
+«Non sono in scena in questo atto» disse Jarvis con un sorriso. «Ne stanno facendo uno solo, sa, finché la sua amica italiana non torni in sé.»
 
-«A proposito della mia amica italiana», osservò il prete, «mi piacerebbe piuttosto sapere se è tornata in sé.»
+«A proposito della mia amica italiana» osservò il prete, «mi piacerebbe piuttosto sapere se è tornata in sé.»
 
-«Possiamo tornare a vedere, se vuole», disse Jarvis; e scesero di nuovo al piano interrato e nel lungo passaggio, a un capo del quale si trovava lo studio di Mandeville e all'altro la porta chiusa della Signora Maroni. La porta pareva essere ancora chiusa; e la signora Sands sedeva arcigna al di fuori di essa, immobile come un idolo di legno.
+«Possiamo tornare indietro a vedere, se vuole» disse Jarvis; e discesero di nuovo al piano interrato e al lungo corridoio, a un'estremità del quale c'era lo studio di Mandeville e all'altra la porta chiusa della signora Maroni. La porta pareva ancora chiusa; e la signora Sands sedeva arcigna di fronte a essa, immobile come un idolo di legno.
 
-Verso l'altro capo del passaggio scorsero alcuni degli altri attori della scena che salivano le scale verso il palcoscenico proprio lì sopra. Vernon e il vecchio Randall andavano avanti, salendo rapidamente le scale; ma la signora Mandeville procedeva più lentamente, con il suo contegno quietamente dignitoso, e Norman Knight sembrava indugiare un poco per parlarle. Qualche parola giunse alle orecchie degli involontari origliatori mentre passavano.
+Presso l'altra estremità del corridoio scorsero alcuni degli altri attori della scena che salivano le scale verso il palco appena al di sopra. Vernon e il vecchio Randall andavano avanti, correndo rapidi su per le scale; ma la signora Mandeville procedeva più lentamente, nel suo modo quietamente dignitoso, e Norman Knight pareva indugiare un poco per parlarle. Poche parole caddero nelle orecchie degli involontari origliatori mentre passavano.
 
-«Le dico che una donna lo va a trovare», stava dicendo Knight con violenza.
+«Le dico che una donna va a trovarlo» stava dicendo Knight con violenza.
 
-«Zitto!» disse la signora, con quella sua voce d'argento che pure aveva in sé qualcosa d'acciaio. «Non deve parlare così. Ricordi che è mio marito.»
+«Zitto!» disse la signora con la sua voce d'argento che aveva in sé ancora qualcosa d'acciaio. «Non deve parlare così. Ricordi che è mio marito.»
 
-«Vorrei Dio che potessi dimenticarlo», disse Knight, e si precipitò su per le scale verso il palcoscenico.
+«Vorrei Dio potessi dimenticarlo» disse Knight, e si precipitò su per le scale verso il palco.
 
-La signora lo seguì, sempre pallida e calma, per prendere il proprio posto lassù.
+La signora lo seguì, sempre pallida e calma, per assumere la propria posizione lassù.
 
-«Qualcun altro lo sa», disse il prete tranquillamente; «ma [[Doubt|dubito]] che sia affar nostro.»
+«Qualcun altro lo sa» disse il prete tranquillamente; «ma [[Doubt|dubito]] che siano affari nostri.»
 
-«Sì», mormorò Jarvis; «sembra che tutti lo sappiano e nessuno ne sappia nulla.»
+«Sì» mormorò Jarvis; «pare che tutti lo sappiano e nessuno sappia nulla al riguardo.»
 
-Proseguirono lungo il passaggio fino all'altro capo, dove la rigida guardiana sedeva fuori dalla porta dell'italiana.
+Proseguirono lungo il corridoio fino all'altra estremità, dove la rigida sorvegliante sedeva fuori della porta dell'italiana.
 
-«No; non è ancora uscita», disse la donna nel suo modo imbronciato; «e non è morta, perché di tanto in tanto l'ho sentita muoversi. Non so che razza di trucchi stia combinando.»
+«No; non è ancora uscita» disse la donna nel suo modo imbronciato; «e non è morta, perché l'ho sentita muoversi di tanto in tanto. Non so che diavolerie stia combinando.»
 
-«Le capita di sapere, signora», disse [[Father Brown]] con brusca cortesia, «dove si trova in questo momento il signor Mandeville?»
+«Le capita di sapere, signora» disse [[Father Brown]] con brusca cortesia, «dove sia il signor Mandeville in questo momento?»
 
-«Sì», rispose pronta. «L'ho visto entrare nella sua stanzetta in fondo al passaggio un minuto o due fa; giusto prima che il suggeritore desse il via e il sipario si alzasse... Dev'essere ancora lì, perché non l'ho visto uscire.»
+«Sì» rispose lei prontamente. «L'ho visto entrare nella sua stanzetta in fondo al corridoio un minuto o due fa; giusto prima che il suggeritore desse la battuta e si alzasse il sipario. Deve essere ancora lì, perché non l'ho visto uscire.»
 
-«Vuol dire che non c'è altra porta al suo ufficio», disse [[Father Brown]] con noncuranza. «[[Well|Bene]], suppongo che la prova sia ormai in pieno svolgimento, malgrado il broncio della Signora.»
+«Vuol dire che non c'è altra porta al suo ufficio» disse [[Father Brown]] con noncuranza. «[[Well|Ebbene]], suppongo che la prova stia ormai procedendo a pieno ritmo, nonostante il muso della signora.»
 
-«Sì», disse Jarvis dopo un momento di [[Silence|silenzio]]; «riesco appena a sentire da qui le voci sul palcoscenico. Il vecchio Randall ha una splendida voce che porta lontano.»
+«Sì» disse Jarvis dopo un momento di [[Silence|silenzio]]; «riesco appena a sentire le voci sul palco da qui. Il vecchio Randall ha una splendida voce che arriva lontano.»

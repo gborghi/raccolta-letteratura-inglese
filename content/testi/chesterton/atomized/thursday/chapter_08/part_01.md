@@ -153,13 +153,13 @@ and shouted with a barbaric laughter.
 
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/works/thursday-(chesterton)">The Man Who Was Thursday</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/thursday-(chesterton)">The Man Who Was Thursday</a> › <a href="/testi/chesterton/atomized/thursday/chapter_08">Chapter 08</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/thursday/chapter_07/part_03">‹ part 03</a><a class="ex-next" href="/testi/chesterton/atomized/thursday/chapter_08/part_02">part 02 ›</a></div>
 </nav>
 
 # [[thursday]] — Capitolo 8 (parte 1)
 
-                         CAPITOLO VIII
+CAPITOLO VIII
 
                     [[The Professor|IL PROFESSORE]] SI SPIEGA
 

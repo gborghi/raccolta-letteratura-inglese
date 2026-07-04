@@ -156,7 +156,7 @@ And when I saw that, I think I saw the whole picture.
 
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/works/incredulity-(chesterton)">Incredulity</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/incredulity-(chesterton)">Incredulity</a> › <a href="/testi/chesterton/atomized/incredulity/story_06_the_dagger_with_wings">Story 06 The Dagger with Wings</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/incredulity/story_06_the_dagger_with_wings/part_05">‹ part 05</a><a class="ex-next" href="/testi/chesterton/atomized/incredulity/story_06_the_dagger_with_wings/part_07">part 07 ›</a></div>
 </nav>
 

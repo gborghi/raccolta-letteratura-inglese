@@ -412,10 +412,14 @@ They had never spoken a word.
 <div class="excerpt-crumb">Chesterton · <a href="/works/thursday-(chesterton)">The Man Who Was Thursday</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/thursday/chapter_03">‹ Chapter 03</a><a class="ex-next" href="/testi/chesterton/atomized/thursday/chapter_05">Chapter 05 ›</a></div>
 </nav>
+<nav class="excerpt-children">
+<div class="excerpt-children-label">In questa sezione</div>
+<ul><li><a href="/testi/chesterton/atomized/thursday/chapter_04/part_01">Part 1</a></li><li><a href="/testi/chesterton/atomized/thursday/chapter_04/part_02">Part 2</a></li><li><a href="/testi/chesterton/atomized/thursday/chapter_04/part_03">Part 3</a></li></ul>
+</nav>
 
 # [[thursday]] — Capitolo 4
 
-                         CAPITOLO IV
+CAPITOLO IV
 
                    IL RACCONTO DI UN [[Detective|INVESTIGATORE]]
 

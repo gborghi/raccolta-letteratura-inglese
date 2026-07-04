@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/scandal-fr-brown-(chesterton)">scandal Fr Brown</a> › <a href="/testi/chesterton/atomized/scandal_fr_brown/story_02_the_quick_one">Story 02 The Quick One</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/scandal_fr_brown/story_02_the_quick_one/part_07">‹ part 07</a><a class="ex-next" href="/testi/chesterton/atomized/scandal_fr_brown/story_03_the_blast_of_the_book/part_01">part 01 ›</a></div>
@@ -122,3 +124,121 @@ that big shining breast - pin.'
 'You mean because it was sham?' asked Greenwood doubtfully.
 
 'Oh, no; because it was genuine,' said [[Father Brown]].
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/scandal-fr-brown-(chesterton)">scandal Fr Brown</a> › <a href="/testi/chesterton/atomized/scandal_fr_brown/story_02_the_quick_one">Story 02 The Quick One</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/scandal_fr_brown/story_02_the_quick_one/part_07">‹ part 07</a><a class="ex-next" href="/testi/chesterton/atomized/scandal_fr_brown/story_03_the_blast_of_the_book/part_01">part 01 ›</a></div>
+</nav>
+
+«Non lo so», disse il prete, con aria vacua. «Non lo so nemmeno con certezza
+riguardo al direttore. Non so nulla del barista. Ho l'impressione che il
+direttore possa essere un po' cospiratore, anche se non era un assassino. Ma
+so che c'è un solitario testimone sulla terra che può aver visto qualcosa; ed
+è per questo che ho messo tutti i vostri [[dogs|segugi]] della polizia sulle sue
+tracce fino ai confini della terra.»
+
+Il misterioso scozzese, quando finalmente comparve davanti alla compagnia
+così radunata, era di certo una figura formidabile; alto, con un'andatura
+dinoccolata e un lungo volto sardonico da accetta, con ciuffi di capelli
+rossi; e, portando non solo un mantello all'Inverness ma un berretto
+Glengarry, poteva [[Well|ben]] essere scusato per un atteggiamento alquanto acre; ma
+chiunque poteva vedere che era del genere disposto a resistere all'arresto,
+anche con la violenza. Non c'era da sorprendersi se era venuto alle mani con
+un tipo battagliero come Raggley. Non c'era neppure da sorprendersi se la
+polizia era stata convinta, dai meri particolari della cattura, che fosse un
+duro e un tipico assassino. Ma egli affermava di essere un agricoltore del
+tutto rispettabile, dell'Aberdeenshire, di nome James Grant; e in qualche
+modo non solo [[Father Brown]], ma anche l'Ispettore Greenwood, uomo scaltro e
+di grande esperienza, furono ben presto convinti che la ferocia dello
+scozzese fosse il furore dell'[[innocence|innocenza]] più che della [[Guilt|colpa]].
+
+«Ora, ciò che vogliamo da voi, signor Grant», disse l'Ispettore
+gravemente, scendendo senza altri preamboli a toni di cortesia, «è
+semplicemente la vostra testimonianza su un fatto molto importante. Sono
+assai addolorato per l'equivoco di cui avete sofferto, ma sono certo che
+desiderate servire i fini della giustizia. Credo che siate entrato in questo
+bar poco dopo l'apertura, alle cinque e mezza, e che vi sia stato servito un
+bicchiere di whisky. Non siamo certi di quale domestico dell'albergo, se il
+barista o il direttore o qualche subalterno, fosse al bar in quel [[Time|momento]].
+Volete guardarvi attorno nella stanza, e dirmi se l'addetto al bar che vi
+servì è presente qui?»
+
+«Sì, è presente», disse il signor Grant, sorridendo cupamente, dopo aver
+spazzato il gruppo con uno sguardo acuto. «Lo riconoscerei ovunque; e
+converrete che è abbastanza grosso da farsi vedere. Li avete tutti così
+imponenti, i vostri camerieri di locanda?»
+
+L'occhio dell'Ispettore rimase duro e fermo, e la sua voce incolore e
+continua; il volto di [[Father Brown]] era vacuo; ma su molti altri volti si
+addensò una nube; il barista non era particolarmente grosso e per niente
+imponente; e il direttore era decisamente piccolo.
+
+«Vogliamo solo che il barista venga identificato», disse l'Ispettore con
+calma. «Naturalmente lo conosciamo; ma vorremmo che voi lo verificaste
+indipendentemente. Volete dire...?» E si arrestò di colpo.
+
+«Beh, eccolo là, chiaro abbastanza», disse lo scozzese con stanchezza; e
+fece un gesto, e con quel gesto il gigantesco Jukes, il principe dei commessi
+viaggiatori, si [[Rose|levò]] come un elefante barrente; e in un lampo tre poliziotti
+gli furono addosso come cani da caccia su una fiera selvaggia.
+
+«[[Well|Ebbene]], tutto ciò era abbastanza semplice», disse [[Father Brown]] all'amico,
+in seguito. «Come vi ho detto, nell'istante in cui entrai nella sala del bar
+vuota, il mio primo pensiero fu che, se il barista lasciava il bar
+incustodito a quel modo, non c'era nulla al mondo che impedisse a voi o a me
+o a chiunque altro di sollevare la ribalta ed entrare, e mettere del
+[[Poison|veleno]] in una qualunque delle bottiglie che stavano lì in attesa dei
+clienti. Naturalmente, un avvelenatore pratico lo farebbe probabilmente come
+fece Jukes, sostituendo una bottiglia avvelenata alla bottiglia ordinaria;
+il che si poteva fare in un lampo. Era abbastanza facile per lui, dato che
+trattava in bottiglie, portarsi una fiaschetta di cherry brandy preparata e
+dello stesso modello. Naturalmente, ci vuole una condizione; ma è una
+condizione abbastanza comune. Non converrebbe granché mettersi ad avvelenare
+la birra o il whisky che decine di persone bevono; ne verrebbe un massacro.
+Ma quando un uomo è [[Well|ben]] noto per bere una sola cosa particolare, come il
+cherry brandy, che non è bevuto da moltissimi, è proprio come avvelenarlo nella
+propria [[Home|casa]]. Solo che è di gran lunga più sicuro. Perché praticamente tutto il
+sospetto ricade all'istante sull'albergo, o su qualcuno che ha a che fare
+con l'albergo; e non c'è argomento terreno che mostri che è stato fatto da
+uno qualsiasi dei cento clienti che potrebbero entrare nel bar: anche se la
+gente si rendesse conto che un cliente potrebbe farlo. Fu press'a poco un
+omicidio anonimo e irresponsabile quanto un uomo possa mai commetterne.»
+
+«E perché di preciso l'assassino lo commise?» chiese l'amico.
+
+[[Father Brown]] si [[Rose|levò]] e con gravità raccolse le carte che poc'anzi aveva
+sparso in un momento di distrazione.
+
+«Posso richiamare la vostra attenzione», disse sorridendo, «al materiale
+della prossima Vita e Lettere del Fu John Raggley? O, se è per questo, alle
+sue stesse parole? Disse proprio in questo bar che stava per smascherare uno
+scandalo sulla gestione degli alberghi; e lo scandalo era quello abbastanza
+comune di un accordo corrotto tra proprietari d'albergo e un venditore che
+prendeva e dava provvigioni segrete, cosicché il suo commercio aveva il
+monopolio di tutto il bere venduto nel locale. Non era nemmeno una [[Slavery|schiavitù]]
+palese come quella di un'ordinaria [[house|locanda]] vincolata a un fornitore; era
+una truffa a spese di tutti coloro che il direttore avrebbe dovuto servire.
+Era un reato legale. Così l'ingegnoso Jukes, cogliendo il primo momento in
+cui il bar era vuoto, come spesso era, entrò e fece lo scambio delle
+bottiglie; disgraziatamente in quello stesso momento uno scozzese con un
+mantello all'Inverness entrò chiedendo aspramente whisky. Jukes vide che
+l'unica sua chance era fingersi il barista e servire il cliente. Fu assai
+sollevato che il cliente fosse Uno Svelto.»
+
+«Penso che siate piuttosto Uno Svelto voi stesso», osservò Greenwood; «se
+dite di aver fiutato qualcosa fin dal principio, nella mera aria di una
+stanza vuota. Sospettaste affatto di Jukes, all'inizio?»
+
+«[[Well|Beh]], suonava piuttosto opulento, in qualche modo», rispose [[Father Brown]]
+vagamente. «Sapete, quando un uomo ha una voce opulenta. E mi domandai
+davvero perché mai dovesse avere una voce così disgustosamente opulenta,
+quando tutti quei bravi compari erano piuttosto poveri. Ma credo che seppi
+che era un impostore quando vidi quella grossa lucente spilla da petto.»
+
+«Volete dire perché era falsa?» chiese Greenwood, dubbioso.
+
+«Oh, no; perché era autentica», disse [[Father Brown]].

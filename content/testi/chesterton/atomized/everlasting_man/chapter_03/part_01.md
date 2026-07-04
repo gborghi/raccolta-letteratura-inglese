@@ -137,7 +137,7 @@ are too near together for the haloes not to mingle and [[Cross|cross]].
 
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/works/everlasting-man-(chesterton)">The Everlasting Man</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/everlasting-man-(chesterton)">The Everlasting Man</a> › <a href="/testi/chesterton/atomized/everlasting_man/chapter_03">Chapter 03</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/everlasting_man/chapter_02/part_47">‹ part 47</a><a class="ex-next" href="/testi/chesterton/atomized/everlasting_man/chapter_03/part_02">part 02 ›</a></div>
 </nav>
 

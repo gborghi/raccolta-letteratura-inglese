@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/apprandcritofchdickens-(chesterton)">ApprAndCritOfChDickens</a> › <a href="/testi/chesterton/atomized/apprandcritofchdickens/chapter_02_celebrated_characters_who_are">Chapter 02 celebrated characters who are</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/apprandcritofchdickens/chapter_02_celebrated_characters_who_are/part_17">‹ part 17</a><a class="ex-next" href="/testi/chesterton/atomized/apprandcritofchdickens/chapter_02_celebrated_characters_who_are/part_19">part 19 ›</a></div>
@@ -177,3 +179,176 @@ of definite badness simply because it was there; and Froude cannot see
 it at all; because Froude followed Carlyle and played tricks with the
 
 eternal [[Conscience|conscience]]. [[Henry VIII]]. _was_ "a blot of [[Blood|blood]] and grease upon
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/apprandcritofchdickens-(chesterton)">ApprAndCritOfChDickens</a> › <a href="/testi/chesterton/atomized/apprandcritofchdickens/chapter_02_celebrated_characters_who_are">Chapter 02 celebrated characters who are</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/apprandcritofchdickens/chapter_02_celebrated_characters_who_are/part_17">‹ part 17</a><a class="ex-next" href="/testi/chesterton/atomized/apprandcritofchdickens/chapter_02_celebrated_characters_who_are/part_19">part 19 ›</a></div>
+</nav>
+
+Essi supponevano che quel particolare problema di cui si occupavano
+
+fosse l'unico problema di cui l'intera umanità si fosse sempre occupata. Si
+
+erano messi in testa che spezzare le catene con un passato morto fosse il
+
+processo perpetuo dell'umanità. La [[Truth|verità]] è evidentemente che l'umanità si è
+
+trovata in molte difficoltà assai diverse da quella. Talvolta
+
+il compito migliore di un'epoca è resistere a qualche invasione straniera; talvolta
+
+predicare un pratico [[Self|autocontrollo]] in un mondo troppo incline all'[[Self|autoindulgenza]] e
+
+alla dispersione; talvolta impedire il crescere nello Stato di grandi nuove
+
+imprese private che lo [[Poison|avvelenerebbero]] o lo opprimerebbero. Soprattutto può
+
+talvolta accadere che il più alto compito di un cittadino pensante sia
+
+fare l'esatto contrario dell'opera che i Radicali dovettero compiere. Può
+
+essere suo dovere supremo aggrapparsi a ogni brandello del passato che riesca a
+
+trovare, se sente che il terreno gli sta cedendo sotto i piedi e sprofondando
+
+nella pura barbarie e nell'oblio di ogni cultura umana. Questa era
+
+esattamente la posizione di tutti gli uomini pensanti in ciò che chiamiamo i secoli bui,
+
+diciamo dal sesto al decimo secolo. La corriva visione progressista della
+
+[[history|storia]] non riesce mai a cavare un ragno dal buco di quell'epoca; era un'epoca
+
+capovolta. Pensiamo alle cose vecchie come barbare e alle cose nuove
+
+come illuminate. In quell'età tutte le cose illuminate erano vecchie; tutte
+
+le cose barbare e brutalmente ignoranti erano nuove e all'ultima moda.
+
+Il repubblicanesimo era una leggenda che sbiadiva; il dispotismo era un esperimento nuovo e riuscito.
+
+Il [[Christianity|Cristianesimo]] non era soltanto migliore dei clan che
+
+si ribellavano contro di esso; il [[Christianity|Cristianesimo]] era più razionalistico di loro.
+
+Quando gli uomini guardavano indietro vedevano progresso e ragione; quando guardavano
+
+avanti vedevano informe tradizione e terrore tribale. A proposito di
+
+un'età siffatta è ovvio che tutti i nostri termini moderni che descrivono [[Reform|riforma]] o
+
+conservazione sono sciocchi e fuori bersaglio. Il Conservatore era allora
+
+l'unico riformatore possibile. Se un uomo non rafforzava i resti
+
+dell'ordine romano e la radice del [[Christianity|Cristianesimo]] romano, egli non faceva che aiutare
+
+il mondo a rotolare in basso verso la rovina e l'idiozia. Ricordate tutte queste
+
+evidenti verità storiche e poi volgetevi al resoconto che dà
+
+Charles Dickens di quel grande uomo, san Dunstano. Non è che il
+
+tono impertinente e da cockney dell'insulto irriti i nervi: è che
+
+egli ha frainteso tutto quanto l'andamento della cosa. Ha la testa piena della
+
+situazione ottocentesca; per cui un prete che impone disciplina è una
+
+persona che in qualche modo sbarra la via all'uguaglianza e alla luce. Mentre il
+
+punto, riguardo a un uomo come Dunstano, era che nessuno in quel luogo tranne lui
+
+si curava minimamente dell'uguaglianza o della luce: e che egli difendeva ciò che
+
+ne restava contro la giovane e crescente potenza delle tenebre e della
+
+divisione e della casta.
+
+Nondimeno l'accusa contro libri come questo è comunemente formulata
+
+in modo sbagliato. La colpa di Dickens non è (come spesso si dice) di «applicare
+
+lo stesso metro morale a tutte le età». Ogni uomo sano deve farlo: un
+
+metro morale deve restare il medesimo, o non è un metro morale. Se
+
+chiamiamo sant'Antonio da Padova un uomo buono, dobbiamo intendere ciò che intendiamo quando
+
+chiamiamo Huxley un uomo buono, altrimenti non ha senso usare la parola
+
+«buono». La colpa della scuola dickensiana di [[history|storia]] popolare sta, non
+
+nell'applicazione di una piana regola del giusto e dell'ingiusto a tutte le circostanze,
+
+ma nell'ignoranza delle circostanze a cui essa veniva applicata. Non è
+
+che essi impongano a torto il principio fisso che la vita dev'essere salvata;
+
+è che portano una pompa da [[Fire|incendio]] a un naufragio e una scialuppa di salvataggio a una
+
+[[house|casa]] in [[Fire|fiamme]]. Il compito di un uomo buono ai [[Time|tempi]] di Dickens era di portare
+
+la giustizia al passo coi tempi. Il compito di un uomo buono ai [[Time|tempi]] di Dunstano era di
+
+faticare per assicurare la [[Survival|sopravvivenza]] di una qualsiasi giustizia.
+
+E Dickens, per il fatto d'essere un uomo vivo e battagliero del proprio [[Time|tempo]],
+
+mantenne sano il proprio cuore, e così vide molte verità con un occhio
+
+limpido: verità che erano guaste per occhi più sottili. Egli aveva davvero molta più
+
+ragione di Carlyle; incommensurabilmente più ragione di Froude. Aveva più
+
+ragione appunto perché applicava una piana morale umana a tutti i fatti così come li
+
+vedeva. Carlyle aveva davvero la vaga idea che in tempi rozzi e crudeli
+
+fosse giusto essere rozzi e crudeli; che la tirannia fosse scusabile nel
+
+dodicesimo secolo: come se il dodicesimo secolo non denunciasse i tiranni
+
+tanto o più di ogni altro. Carlyle, in effetti, si figurava che Rufus fosse
+
+il genere giusto d'uomo; un'opinione che non solo non era condivisa da Anselmo,
+
+ma probabilmente non era condivisa da Rufus. A questo proposito, o piuttosto a
+
+proposito dell'altro caso di Froude, vale la pena prendere
+
+un'altra figura dalla [[history|storia]] di Dickens, che illustra l'altro e
+
+migliore lato del facile e popolare metodo. La pura ignoranza dell'
+
+ambiente lo fece sbagliare su Dunstano. Ma il puro istinto e una buona
+
+tradizione morale lo fecero aver ragione, per esempio, su [[Henry VIII|Enrico VIII]]; ragione
+
+là dove Froude sbaglia clamorosamente. L'[[Imagination|immaginazione]] di Dickens non riusciva a ridipingere
+
+un'età in cui il sapere e la libertà stavano morendo anziché nascendo: ma
+
+[[Henry VIII|Enrico VIII]] visse in un [[Time|tempo]] di crescente conoscenza e inquietudine; un [[Time|tempo]]
+
+perciò alquanto simile a quello vittoriano. E Dickens, nel suo puerile ma
+
+robusto modo, coglie davvero il punto principale su di lui: che era un uomo
+
+malvagio. Gli sfuggono tutte le sfumature sottili, s'intende; ne fa ogni sorta
+
+di uomo malvagio a un tempo. [[Leaves|Tralascia]] i seri interessi dell'uomo:
+
+la sua strana ma reale premura per la teologia; il suo [[Love|amore]] per certe forme legali e
+
+morali; il suo patriottismo semi-inconscio. Ma egli vede la solida mole
+
+di definita malvagità semplicemente perché era là; e Froude non riesce a vederla
+
+affatto; perché Froude seguì Carlyle e giocò brutti scherzi con l'
+
+eterna [[Conscience|coscienza]]. [[Henry VIII|Enrico VIII]] _era_ «una macchia di [[Blood|sangue]] e di grasso su

@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/apprandcritofchdickens-(chesterton)">ApprAndCritOfChDickens</a> › <a href="/testi/chesterton/atomized/apprandcritofchdickens/chapter_02_celebrated_characters_who_are">Chapter 02 celebrated characters who are</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/apprandcritofchdickens/chapter_02_celebrated_characters_who_are/part_21">‹ part 21</a><a class="ex-next" href="/testi/chesterton/atomized/apprandcritofchdickens/chapter_02_celebrated_characters_who_are/part_23">part 23 ›</a></div>
@@ -179,3 +181,178 @@ is that a poor man may be conquered by the world. I shall take the
 opportunity of discussing, in a moment, which of these ideas is true.
 
 Doubtless old John Dickens included both the gay and the sad moral; most
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/apprandcritofchdickens-(chesterton)">ApprAndCritOfChDickens</a> › <a href="/testi/chesterton/atomized/apprandcritofchdickens/chapter_02_celebrated_characters_who_are">Chapter 02 celebrated characters who are</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/apprandcritofchdickens/chapter_02_celebrated_characters_who_are/part_21">‹ part 21</a><a class="ex-next" href="/testi/chesterton/atomized/apprandcritofchdickens/chapter_02_celebrated_characters_who_are/part_23">part 23 ›</a></div>
+</nav>
+
+  [Illustrazione: Charles Dickens, 1858
+
+  Da un disegno in bianco e nero di Baughiet.]
+
+LITTLE DORRIT
+
+_Little Dorrit_ occupa un posto nella vita di Dickens soprattutto come segnale di quanto lontano
+
+egli si fosse spinto lungo la [[Road|strada]] del realismo, della malinconia e di ciò che si chiama
+
+modernità. È vero, non era affatto il migliore dei libri del suo ultimo
+
+periodo; alcuni lo giudicano addirittura il peggiore. _Great Expectations_ è senza dubbio
+
+il migliore dei romanzi tardi; alcuni lo ritengono perfino il migliore di tutti i
+
+romanzi. Né è il [[Novel|romanzo]] più occupato di problemi strettamente recenti;
+
+quel titolo va assegnato a _Hard Times_. Né, d'altra parte, è il
+
+più finemente rifinito o [[Well|ben]] costruito dei libri tardi; tale pretesa
+
+può probabilmente avanzarsi per _Edwin Drood_. Per uno strano [[Paradox|paradosso]] verbale il
+
+più accuratamente rifinito dei suoi racconti tardi è quello che non è
+
+affatto finito. Nella forma, in verità, il libro presenta una superficiale
+
+somiglianza con quelle opere giovanili con cui il giovane Dickens aveva messo
+
+a ridere il mondo intero tanto tempo fa. Gran parte della storia si riferisce a un remoto
+
+[[Time|tempo]] dei primi anni dell'Ottocento; molto di essa fu in realtà rievocato
+
+e ricalcato dalla vita del padre di Dickens nella vecchia Marshalsea
+
+([[Prison|prigione]]). Anche la narrazione ha qualcosa della forma, o piuttosto dell'assenza
+
+di forma, che apparteneva a _Nicholas Nickleby_ o a _Martin Chuzzlewit_.
+
+Ha qualcosa della vecchia aria di essere una sequenza di avventure sconnesse,
+
+come un libro per ragazzi su orsi e indiani. I Dorrit se ne vanno
+
+vagando senza alcuna ragione particolare per il continente d'Europa, proprio come
+
+il giovane [[Martin Chuzzlewit]] andava vagando senza alcuna ragione particolare per il
+
+continente d'[[america|America]]. La storia di _Little Dorrit_ si arresta e indugia alle
+
+porte dell'Ufficio delle Circonlocuzioni press'a poco nello stesso modo in cui la
+
+storia di [[Samuel Pickwick]] si arresta e indugia nell'agitazione politica
+
+di Eatanswill. Il [[Villain|malvagio]], Blandois, è davvero un [[Villain|malvagio]] assai teatrale;
+
+teatrale tanto quanto [[Ralph Nickleby]] o il misterioso Monk. Il segreto
+
+della cupa [[house|casa]] dei Clennam è un segreto assai sciocco; sciocco tanto quanto il
+
+segreto di [[Ralph Nickleby]] o il segreto di Monk. Eppure tutte queste esteriori
+
+somiglianze tra _Little Dorrit_ e i primi libri, tutta questa
+
+sciolta, melodrammatica qualità, non fanno che rendere più evidente e
+
+sorprendente il fatto che un qualche mutamento sia sopravvenuto nell'[[Soul|anima]] di Dickens.
+
+_Hard Times_ è aspro; ma d'altronde _Hard Times_ è un pamphlet sociale;
+
+forse è aspro soltanto come un pamphlet sociale deve essere aspro. _Bleak
+
+House_ è un poco tetro; ma d'altronde _Bleak House_ è quasi un [[Detective|poliziesco]]
+
+romanzo; forse è tetro soltanto nel senso in cui un [[Detective|poliziesco]]
+
+dev'essere tetro. _A Tale of Two Cities_ è una [[Tragedy|tragedia]]; ma d'altronde _A Tale of
+
+Two Cities_ è un racconto della [[French Revolution|Rivoluzione francese]]; forse è una
+
+[[Tragedy|tragedia]] solo perché la [[French Revolution|Rivoluzione francese]] fu una [[Tragedy|tragedia]]. _The Mystery of
+
+Edwin Drood_ è oscuro; ma d'altronde il mistero di chiunque dev'essere oscuro. In
+
+tutti questi altri casi dei libri tardi si può addurre una ragione artistica—
+
+una ragione di tema o di costruzione per la lieve tristezza che
+
+sembra aderire ad essi. Ma proprio perché _Little Dorrit_ è un semplice
+
+[[Novel|romanzo]] dickensiano, esso mostra che qualcosa in qualche modo dev'essere accaduto a
+
+Dickens stesso. Persino nel riprendere la sua vecchia libertà, egli non può riprendere la sua
+
+vecchia ilarità. Può ricreare l'anarchia, ma non il tripudio.
+
+Accade che questa strana differenza tra il modo nuovo e quello vecchio
+
+di Dickens possa essere simboleggiata ed enunciata in un unico, distinto e semplice
+
+contrasto. Il padre di Dickens era stato prigioniero in una [[Prison|prigione]] per debitori, e
+
+le opere di Dickens contengono due ritratti in parte suggeriti dalla personalità
+
+di quel prigioniero. Mr. Micawber ne è un ritratto. Mr. Dorrit ne è
+
+un altro. Questa [[Truth|verità]] è quasi incredibile, ma è la [[Truth|verità]]. Il
+
+gioioso Micawber, la cui stessa [[Despair|disperazione]] era esultante, e il desolato
+
+Dorrit, il cui stesso [[Pride|orgoglio]] era pietoso, erano lo stesso uomo. Il valoroso
+
+Micawber e il nervoso, tremante Dorrit erano lo stesso uomo. Lo sfrontato
+
+Micawber e lo snob, essenzialmente ossequioso Dorrit erano lo stesso
+
+uomo. Non intendo certo dire che l'uno o l'altro dei ritratti fosse una copia
+
+esatta di qualcuno. L'intero genio di Dickens consisteva nel cogliere spunti e
+
+trasformarli in esseri umani. Come prendeva venti persone reali e
+
+le mutava in un'unica persona fittizia, così prendeva una persona reale e
+
+la mutava in venti persone fittizie. Questa qualità suggeriva
+
+un personaggio, quella qualità ne suggeriva un altro. Ma in questo caso, a
+
+ogni modo, egli prese davvero una persona reale e la trasformò in due. E per di
+
+più la trasformò in due persone che paiono del tutto opposte.
+
+Ai lettori comuni di Dickens, dire che Micawber e Dorrit
+
+abbiano in qualche senso lo stesso modello parrà inatteso e stravagante. Nessuna
+
+connessione concepibile tra i due sarebbe mai venuta in mente a
+
+chiunque avesse letto Dickens con semplice e superficiale godimento, come
+
+ogni buona letteratura andrebbe letta. Parrà loro altrettanto
+
+sciocco quanto dire che il Ragazzo Grasso e Mr. [[Alfred Jingle]] furono entrambi ricalcati
+
+dallo stesso personaggio. Parrà tanto insensato quanto dire che il
+
+personaggio di [[Smike]] e il personaggio del [[Major Bagstock]] furono entrambi ricalcati
+
+dal padre di Dickens. Eppure è un incontestabile fatto storico che
+
+Micawber e Dorrit furono entrambi ricalcati dal padre di Dickens, nell'unico
+
+senso in cui una qualsiasi figura della buona letteratura sia mai ricalcata da qualcosa
+
+o da qualcuno. Dickens trasse davvero l'idea centrale di Micawber dal padre;
+
+e quell'idea è che un uomo povero non viene vinto dal mondo. E
+
+Dickens trasse davvero l'idea centrale di Dorrit dal padre; e quell'idea
+
+è che un uomo povero può essere vinto dal mondo. Coglierò
+
+l'occasione di discutere, tra un momento, quale di queste idee sia vera.
+
+Senza dubbio il vecchio John Dickens racchiudeva in sé sia la morale gaia sia quella triste; la maggior

@@ -136,124 +136,52 @@ just as the two men passed. Lady Miriam summoned up the energy to say:
 
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/works/secret-fr-brown-(chesterton)">secret Fr Brown</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/secret-fr-brown-(chesterton)">secret Fr Brown</a> › <a href="/testi/chesterton/atomized/secret_fr_brown/story_04_the_actor_and_the_alibi">Story 04 THE ACTOR AND THE ALIBI</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/secret_fr_brown/story_04_the_actor_and_the_alibi/part_01">‹ part 01</a><a class="ex-next" href="/testi/chesterton/atomized/secret_fr_brown/story_04_the_actor_and_the_alibi/part_03">part 03 ›</a></div>
 </nav>
 
-In quel corridoio sotterraneo, sotto il palcoscenico, comparvero altre due
-figure: la prima era Ashton Jarvis, un tipo gioviale che di solito
-interpretava i cattivi, ma che per il momento aveva ceduto quell'alta
-vocazione al giovanotto ricciuto dal gran naso. L'altra figura era bassa e
-quadrata e vestita tutta di nero: era [[Father Brown|padre Brown]], venuto dalla chiesa
-dietro l'angolo.
+Due altre figure comparvero in quel passaggio sotterraneo sotto il palcoscenico: la prima era Ashton Jarvis, un tipo gioviale che di solito recitava i cattivi, ma che per il momento aveva ceduto quell'alta vocazione al giovane ricciuto dal naso pronunciato. L'altra figura era bassa e tozza e vestita tutta di nero; era [[Father Brown]], della chiesa qui all'angolo.
 
-[[Father Brown|Padre Brown]] pareva prendere con tutta naturalezza, e perfino con
-noncuranza, il fatto che lo si chiamasse a occuparsi della bizzarra condotta
-di una delle sue pecorelle, sia che la si dovesse considerare una pecora nera
-o soltanto un [[Lamb|agnello]] smarrito. Ma non sembrava dare gran peso all'ipotesi del
-[[suicide|suicidio]].
+[[Father Brown]] pareva prendere del tutto con naturalezza, e persino con noncuranza, il fatto di essere chiamato a occuparsi della strana condotta di una delle sue pecorelle, sia che la si dovesse considerare una pecora nera o soltanto un [[Lamb|agnello]] smarrito. Ma non pareva dare molto peso all'ipotesi del [[suicide|suicidio]].
 
-«Suppongo ci fosse qualche ragione, perché uscisse dai gangheri a quel modo»,
-disse. «Qualcuno sa quale fosse?»
+«Suppongo che ci fosse qualche ragione perché desse così di volta al cervello» disse. «Qualcuno sa quale fosse?»
 
-«Scontenta della sua parte, credo», disse l'attore più anziano.
+«Insoddisfatta della sua parte, credo» disse l'attore più anziano.
 
-«Lo sono sempre», borbottò il signor Mundon Mandeville. «E io che pensavo si
-sarebbe occupata mia moglie di tutte quelle faccende.»
+«Lo sono sempre» brontolò il signor Mundon Mandeville. «E pensavo che mia moglie si sarebbe occupata di quelle disposizioni.»
 
-«Posso solo dire», disse la signora Mundon Mandeville con una certa
-stanchezza, «che le ho affidato quella che dovrebbe essere la parte migliore.
-Si suppone che sia ciò che desiderano le ragazze fanatiche del teatro, non è
-vero? Recitare la bella eroina e sposare il bell'[[Hero|eroe]] tra una pioggia di
-mazzi di fiori e le acclamazioni del loggione. Le donne della mia età, com'è
-naturale, devono ripiegare su rispettabili matrone, e io mi sono ben guardata
-dallo scostarmene.»
+«Posso solo dire» disse la signora Mundon Mandeville, piuttosto stancamente, «che le ho dato quella che dovrebbe essere la parte migliore. Si suppone che sia proprio ciò che vogliono le giovani donne invaghite del teatro, no? Recitare la bella giovane eroina e sposare il bel giovane [[Hero|eroe]] tra una pioggia di mazzi di fiori e le acclamazioni del loggione? Le donne della mia età devono naturalmente ripiegare sul recitare rispettabili matrone, e io ho avuto cura di limitarmi a quello.»
 
-«In ogni caso, cambiare le parti adesso sarebbe maledettamente scomodo», disse
-Randall.
+«Sarebbe comunque maledettamente scomodo alterare le parti adesso» disse Randall.
 
-«Non se ne parla nemmeno», dichiarò Norman Knight con fermezza. «Ma se a
-malapena saprei recitare la mia... comunque è troppo tardi.»
+«Non è nemmeno da pensarci» dichiarò con fermezza Norman Knight. «Ma via, io non saprei quasi recitare… ad ogni modo è troppo tardi.»
 
-[[Father Brown|Padre Brown]] si era portato avanti in punta di piedi e se ne stava fuori dalla
-porta chiusa, in ascolto.
+[[Father Brown]] era scivolato avanti e stava in ascolto fuori della porta chiusa a chiave.
 
-«Non si sente nulla?» chiese il direttore con ansia; poi aggiunse, abbassando
-la voce: «Crede che possa essersi fatta del male?»
+«Non si sente alcun rumore?» chiese ansiosamente il direttore; e poi aggiunse a voce più bassa: «Crede che possa essersi tolta la vita?»
 
-«Un certo suono si sente», rispose [[Father Brown|padre Brown]] con calma. «Sarei propenso a
-dedurre da quel suono che è intenta a rompere finestre o specchi,
-probabilmente a colpi di piede. No: non credo ci sia gran pericolo che passi a
-distruggere se stessa. Rompere specchi a colpi di piede è un preludio ben
-inconsueto al [[suicide|suicidio]]. Se fosse stata una tedesca, ritiratasi a meditare
-tranquillamente sulla metafisica e sul weltschmerz, sarei tutto per sfondare
-la porta. Questi italiani non muoiono così facilmente, e non sono inclini a
-uccidersi in un accesso di rabbia. Qualcun altro, forse... sì, è possibile...
-forse sarebbe [[Well|bene]] prendere le solite precauzioni, se dovesse saltar
-fuori con un balzo.»
+«Un certo rumore c'è» rispose [[Father Brown]] con calma. «Sarei incline a dedurre da quel rumore che è occupata a rompere finestre o specchi, probabilmente con i piedi. No; non credo ci sia gran pericolo che passi a distruggere se stessa. Rompere gli specchi con i piedi è un preludio assai inconsueto al [[suicide|suicidio]]. Se fosse stata una tedesca, ritiratasi a riflettere in silenzio sulla metafisica e sul weltschmerz, sarei tutto a favore dell'abbattere la porta. Questi italiani non muoiono davvero così facilmente; e non sono inclini a uccidersi in un accesso di collera. Qualcun altro, forse — sì, è possibile — potrebbe essere [[Well|bene]] prendere le ordinarie precauzioni nel caso in cui esca con un balzo.»
 
-«Dunque non è favorevole a forzare la porta?» chiese Mandeville.
+«Dunque lei non è favorevole a forzare la porta?» chiese Mandeville.
 
-«Non se volete che reciti nel vostro spettacolo», rispose [[Father Brown|padre Brown]]. «Se lo
-fate, farà un putiferio e si rifiuterà di restare qui dentro; se la lasciate
-[[Alone|sola]], probabilmente uscirà per pura curiosità. Se fossi in voi, mi limiterei
-a lasciare qualcuno più o meno di guardia alla porta, confidando nel [[Time|tempo]] per
-un'ora o due.»
+«Non se volete che reciti nella vostra commedia» rispose [[Father Brown]]. «Se lo fate, farà venir giù il tetto e si rifiuterà di restare qui; se la lasciate [[Alone|sola]] — probabilmente uscirà per pura curiosità. Se fossi in voi, mi limiterei a lasciare qualcuno a sorvegliare più o meno la porta, e mi affiderei al [[Time|tempo]] per un'ora o due.»
 
-«In tal caso», disse Mandeville, «non possiamo far altro che proseguire
-provando le scene in cui lei non compare. Mia moglie disporrà tutto il
-necessario per le scenografie, per adesso. In fondo, il quarto atto è la parte
-principale. Fareste meglio a occuparvi di quello.»
+«In tal caso» disse Mandeville, «non possiamo far altro che procedere con le prove delle scene in cui lei non compare. Mia moglie sistemerà tutto il necessario per lo scenario, per ora. Dopo tutto, il quarto atto è la faccenda principale. Fareste bene a occuparvi di quello.»
 
-«Non in costume», disse la moglie di Mandeville agli altri.
+«Non una prova in costume» disse la moglie di Mandeville agli altri.
 
-«Molto [[Well|bene]]», disse Knight, «non in costume, s'intende. Vorrei che i vestiti
-di quel maledetto periodo non fossero così elaborati.»
+«[[Well|Benissimo]]» disse Knight, «non una prova in costume, si capisce. Vorrei che gli abiti di quell'infernale epoca non fossero così complicati.»
 
-«Che spettacolo è?» chiese il prete con un pizzico di curiosità.
+«Qual è la commedia?» chiese il prete con un tocco di curiosità.
 
-«La scuola della maldicenza», disse Mandeville. «Sarà pure letteratura, ma io
-voglio spettacoli. A mia moglie piacciono quelle che lei chiama commedie
-classiche. Molto più classiche che comiche.»
+«La scuola della maldicenza» disse Mandeville. «Sarà letteratura, ma io voglio le commedie. A mia moglie piace quel che lei chiama commedie classiche. Un bel po' più classiche che comiche.»
 
-In quel momento il vecchio portinaio, noto come Sam e unico abitante del
-teatro nelle ore morte, si avvicinò dondolando al direttore con un biglietto,
-per annunciargli che Lady Miriam Marden desiderava vederlo. Egli si voltò, ma
-[[Father Brown|padre Brown]] continuò per qualche secondo a sbattere le palpebre con fissità
-nella direzione della moglie del direttore, e vide che il suo volto smunto
-recava un debole sorriso: non del tutto un sorriso lieto.
+In quel momento il vecchio portinaio noto come Sam, e unico abitante del teatro durante le ore di riposo, si avvicinò dondolando al direttore con un biglietto, per dirgli che Lady Miriam Marden desiderava vederlo. Egli si voltò, ma [[Father Brown]] continuò per qualche secondo a sbattere le palpebre fissamente in direzione della moglie del direttore, e vide che il suo volto smorto recava un debole sorriso; un sorriso non del tutto lieto.
 
-[[Father Brown|Padre Brown]] si allontanò in compagnia dell'uomo che ce l'aveva condotto, il
-quale, per l'appunto, era un amico e una persona della sua stessa
-[[Persuasion|fede]], cosa non insolita tra gli attori. Mentre si allontanava, tuttavia,
-udì la signora Mandeville dare sommesse istruzioni alla signora Sands perché
-assumesse la funzione di sentinella accanto alla porta chiusa.
+[[Father Brown]] si allontanò in compagnia dell'uomo che l'aveva condotto lì, il quale si dava il caso che fosse davvero un amico e una persona della medesima [[Persuasion|persuasione]], cosa non rara tra gli attori. Mentre però si allontanava, udì la signora Mandeville impartire sommessamente alla signora Sands l'ordine di assumere la posizione di sentinella accanto alla porta chiusa.
 
-«La signora Mandeville sembra una donna intelligente», disse il prete al suo
-compagno, «per quanto se ne stia tanto in disparte.»
+«La signora Mandeville pare essere una donna intelligente» disse il prete al suo compagno, «per quanto si tenga tanto in disparte.»
 
-«Un tempo era una donna di grandissimo ingegno», disse Jarvis con tristezza;
-«piuttosto spenta e sciupata, direbbe qualcuno, dall'aver sposato un cafone
-come Mandeville. Ha i più altissimi ideali del teatro, sa; ma, naturalmente,
-non è che di frequente riesca a far guardare le cose sotto quella luce al suo
-signore e padrone. Sa che voleva davvero che una donna simile recitasse la
-parte del ragazzo nella pantomima? Ammetteva che era un'attrice eccellente, ma
-diceva che le pantomime rendevano di più. Questo le dà all'incirca la misura
-del suo acume psicologico e della sua sensibilità. Eppure lei non si è mai
-lamentata. Come mi disse una volta: "Il lamento torna sempre in un'eco dai
-confini del mondo; ma il [[Silence|silenzio]] ci rende più forti". Se solo fosse sposata a
-qualcuno che comprendesse le sue idee, avrebbe potuto essere una delle grandi
-attrici dell'epoca; e in effetti i critici di alto bordo la tengono ancora in
-gran conto. Così com'è, è sposata a quello.»
+«Era un tempo una donna di altissimo ingegno» disse Jarvis tristemente; «piuttosto sbiadita e sprecata, direbbe qualcuno, per aver sposato un cafone come Mandeville. Ha, sa, i più alti ideali riguardo al dramma; ma, naturalmente, non spesso riesce a far sì che il suo signore e padrone guardi qualcosa sotto quella luce. Sa che voleva davvero che una donna simile recitasse la parte di un ragazzo nelle pantomime? Ammetteva che fosse una fine attrice, ma diceva che le pantomime rendevano di più. Questo le dà all'incirca la misura della sua perspicacia e sensibilità psicologica. Ma lei non si è mai lamentata. Come mi disse una volta: "Il lamento torna sempre indietro come un'eco dai confini del mondo; ma il [[Silence|silenzio]] ci rafforza". Se solo fosse sposata a qualcuno che comprendesse le sue idee, avrebbe potuto essere una delle grandi attrici dell'epoca; anzi, i critici più raffinati la stimano ancora molto. Così com'è, è sposata a quello.»
 
-E indicò il punto in cui la grande mole nera di Mandeville stava con la
-schiena rivolta a loro, a parlare con le dame che lo avevano chiamato fuori
-nel vestibolo. Lady Miriam era una dama lunghissima, languida ed elegante,
-avvenente in una foggia recente largamente modellata sulle mummie egizie; i
-capelli scuri tagliati bassi e squadrati, come una specie di elmo, e le labbra
-molto dipinte e sporgenti, che le davano una permanente espressione di
-disprezzo. La sua accompagnatrice era una dama assai vivace, dal viso brutto e
-attraente e dai capelli incipriati di grigio. Era una certa signorina Theresa
-Talbot e parlava moltissimo, mentre la sua compagna sembrava troppo stanca per
-parlare affatto. Solo che, proprio mentre i due uomini passavano, Lady Miriam
-raccolse l'energia sufficiente per dire:
+E indicò dove la grande mole nera di Mandeville stava con le spalle a loro, a parlare con le signore che l'avevano fatto chiamare nel vestibolo. Lady Miriam era una signora assai lunga, languida ed elegante, bella secondo una moda recente in gran parte modellata sulle mummie egiziane; i capelli scuri tagliati bassi e squadrati, come una sorta di elmo, e le labbra assai dipinte e sporgenti, che le davano un'espressione permanente di disprezzo. La sua accompagnatrice era una signora assai vivace, dal volto brutto ma attraente e dai capelli incipriati di grigio. Era una certa signorina Theresa Talbot e parlava moltissimo, mentre la sua compagna pareva troppo stanca per parlare del tutto. Solo che, proprio mentre i due uomini passavano, Lady Miriam raccolse l'energia per dire:

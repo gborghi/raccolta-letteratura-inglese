@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/scandal-fr-brown-(chesterton)">scandal Fr Brown</a> › <a href="/testi/chesterton/atomized/scandal_fr_brown/story_10_the_insoluble_problem">Story 10 The Insoluble Problem</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/scandal_fr_brown/story_10_the_insoluble_problem/part_03">‹ part 03</a><a class="ex-next" href="/testi/chesterton/atomized/scandal_fr_brown/story_10_the_insoluble_problem/part_05">part 05 ›</a></div>
@@ -141,3 +143,62 @@ by woman wailing for her demon [[Lover|lover]].' His muttering became more
 agitated. 'Holy Mary, Mother of God, pray for us sinners . . . that's
 what it is; that's terribly like what it is; woman wailing for her demon
 [[Lover|lover]].'
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/scandal-fr-brown-(chesterton)">scandal Fr Brown</a> › <a href="/testi/chesterton/atomized/scandal_fr_brown/story_10_the_insoluble_problem">Story 10 The Insoluble Problem</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/scandal_fr_brown/story_10_the_insoluble_problem/part_03">‹ part 03</a><a class="ex-next" href="/testi/chesterton/atomized/scandal_fr_brown/story_10_the_insoluble_problem/part_05">part 05 ›</a></div>
+</nav>
+
+«Penso,» osservò l'altro, «che faremmo meglio a tornare alla [[house|casa]] e a dare un'occhiata alla sua camera da letto... e ad altre cose.»
+
+«Così faremo,» disse [[Father Brown]]. «Ma tra le altre cose forse faremmo meglio a dare un'occhiata a queste impronte. Meglio cominciare dall'altro capo, credo, dalla sua [[Window|finestra]]. [[Well|Ecco]], non ci sono impronte sul sentiero lastricato, come potrebbero esserci; ma d'altra parte potrebbero anche non esserci. [[Well|Ecco]], qui c'è il prato proprio sotto la [[Window|finestra]] della sua camera. E qui ci sono le sue impronte abbastanza chiare.»
+
+Ammiccò sinistramente alle impronte; e poi cominciò a ripercorrere accuratamente il proprio cammino verso l'albero, ogni tanto chinandosi in maniera poco dignitosa per guardare qualcosa a terra. Alla fine tornò da [[Flambeau]] e disse con tono chiacchierino:
+
+«[[Well|Ecco]], conosci la storia che è scritta lì in modo molto chiaro? Sebbene non sia esattamente una storia chiara.»
+
+«Non mi accontenterei di chiamarla chiara,» disse [[Flambeau]]. «La chiamerei alquanto brutta...»
+
+«[[Well|Ecco]],» disse [[Father Brown]], «la storia che è impressa in modo chiarissimo sul terreno, con gli stampi esatti delle pantofole del vecchio, è questa. Il vecchio paralitico balzò dalla [[Window|finestra]] e corse giù lungo le aiuole parallele al sentiero, tutto smanioso di godersi il divertimento di essere strangolato e pugnalato; tanto smanioso che saltellò su una gamba per pura spensieratezza; e persino ogni tanto fece qualche capriola...»
+
+«Basta!» gridò [[Flambeau]], adirato. «Che diavolo è tutta questa infernale pantomima?»
+
+[[Father Brown]] si limitò ad alzare le sopracciglia e a indicare mitemente i geroglifici nella [[Dust|polvere]]. «Per circa metà del cammino c'è soltanto l'impronta di una pantofola; e in alcuni punti l'impronta di una mano posata tutta sola.»
+
+«Non potrebbe aver zoppicato e poi essere caduto?» chiese [[Flambeau]].
+
+[[Father Brown]] scosse il capo. «Come minimo avrebbe cercato di usare le mani e i piedi, o le ginocchia e i gomiti, per rialzarsi. Non ci sono altre impronte di alcun genere. Naturalmente il sentiero lastricato è assai vicino, e su di esso non ci sono impronte; sebbene potrebbero essercene sulla terra fra le fessure; è un lastricato sconnesso.»
+
+«Per Dio, è un lastricato sconnesso; e un [[Garden|giardino]] sconnesso; e una storia sconnessa!» E [[Flambeau]] guardò cupamente attraverso il cupo [[Garden|giardino]] flagellato dalla [[Storm|tempesta]], attraverso il quale i sentieri storti a mosaico davano davvero una bizzarra aderenza al bizzarro vecchio aggettivo inglese.
+
+«E ora,» disse [[Father Brown]], «saliamo a guardare la sua stanza.» Entrarono per una porta non lontana dalla [[Window|finestra]] della camera; e il prete si fermò un istante a guardare un'ordinaria scopa da [[Garden|giardino]], per spazzare le [[Leaves|foglie]], appoggiata al muro. «Vedi quella?»
+
+«È una scopa,» disse [[Flambeau]], con solida ironia.
+
+«È un errore,» disse [[Father Brown]]; «il primo errore che ho visto in questa curiosa trama.»
+
+Salirono le scale ed entrarono nella camera del vecchio; e un'occhiata ad essa rese abbastanza chiari i fatti principali, sia riguardo al fondamento sia riguardo alla disunione della famiglia. [[Father Brown]] aveva sentito fin dal principio di trovarsi in quella che era, o era stata, una casa cattolica; ma che era abitata, almeno in parte, da cattolici decaduti o assai rilassati. I quadri e le immagini nella stanza del nonno rendevano chiaro che quella pietà positiva che restava era rimasta praticamente confinata in lui; e che i suoi congiunti, per una ragione o per l'altra, si erano fatti pagani. Ma egli convenne che questa era una spiegazione disperatamente inadeguata persino di un delitto ordinario; e ancor meno di un delitto tanto straordinario come questo, [[Alone|figuriamoci]]. «Al diavolo tutto,» borbottò, «il delitto è in realtà la parte meno straordinaria di questa faccenda.» E proprio mentre usava quella frase casuale, una lenta luce cominciò ad [[Dawn|albeggiare]] sul suo volto.
+
+[[Flambeau]] si era seduto su una sedia accanto al tavolino che stava presso il letto del morto. Aggrottava le sopracciglia, assorto, davanti a tre o quattro pillole o pastiglie bianche che giacevano in un piccolo vassoio accanto a una bottiglia d'[[Water|acqua]].
+
+«L'assassino o l'assassina,» disse [[Flambeau]], «aveva una qualche incomprensibile ragione per volerci far credere che il morto fosse strangolato o pugnalato o entrambe le cose. Non fu strangolato né pugnalato né nulla del genere. Perché vollero suggerirlo? La spiegazione più logica è che egli sia morto in qualche modo particolare che, di per sé, suggerirebbe un legame con qualche persona particolare. Supponi, per esempio, che sia stato avvelenato. E supponi che sia coinvolto qualcuno che naturalmente somiglierebbe più a un avvelenatore di chiunque altro.»
+
+«Dopotutto,» disse [[Father Brown]] sommessamente, «il nostro amico dagli occhiali azzurri è un dottore.»
+
+«Esaminerò queste pillole con parecchia cura,» proseguì [[Flambeau]]. «Non voglio perderle, però. Hanno l'aria di essere solubili in [[Water|acqua]].»
+
+«Potrebbe volerci un po' di [[Time|tempo]] per farci qualcosa di scientifico,» disse il prete, «e il medico della polizia potrebbe essere qui prima di allora. Sicché certamente ti consiglierei di non perderle. Cioè, se hai intenzione di aspettare il medico della polizia.»
+
+«Ho intenzione di restare qui finché non avrò risolto questo problema,» disse [[Flambeau]].
+
+«Allora resterai qui per sempre,» disse [[Father Brown]], guardando placidamente fuori dalla [[Window|finestra]]. «Io comunque non credo che resterò in questa stanza.»
+
+«Vuoi dire che non risolverò il problema?» chiese l'amico. «Perché non dovrei risolvere il problema?»
+
+«Perché non è solubile in [[Water|acqua]]. No, e nemmeno nel [[Blood|sangue]],» disse il prete; e scese le scale buie nel [[Garden|giardino]] che s'oscurava. Là vide di nuovo ciò che aveva già visto dalla [[Window|finestra]].
+
+Il calore e il peso e l'oscurità del cielo tempestoso parevano premere ancor più da presso sul paesaggio; le nuvole avevano vinto il sole che, in alto, in uno squarcio che si restringeva, si ergeva più pallido della [[Moon|luna]]. C'era un fremito di tuono nell'aria, ma ormai nessun ulteriore moto di [[Wind|vento]] o di brezza; e persino i colori del [[Garden|giardino]] parevano soltanto sfumature più ricche dell'oscurità. Ma un colore ancora ardeva di una certa fosca vividezza; ed era la chioma rossa della donna di quella [[house|casa]], che stava ritta in una sorta di rigidità, fissando, con le mani cacciate su tra i capelli. Quella scena di eclisse, con qualcosa di più profondo nei suoi stessi dubbi sul suo significato, fece affiorare alla superficie il [[Memory|ricordo]] di versi ossessivi e mistici; e si sorprese a mormorare: «Un luogo segreto, selvaggio e incantato come mai altro, sotto una [[Moon|luna]] calante, fu infestato da donna che piange il suo demone [[Lover|amante]].» Il suo borbottio si fece più agitato. «Santa Maria, Madre di Dio, prega per noi peccatori... è questo; è terribilmente simile a ciò che è; donna che piange il suo demone [[Lover|amante]].»

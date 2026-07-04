@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/charlesdickens-(chesterton)">CharlesDickens</a> › <a href="/testi/chesterton/atomized/charlesdickens/chapter_05">Chapter 05</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/charlesdickens/chapter_04/part_06">‹ part 06</a><a class="ex-next" href="/testi/chesterton/atomized/charlesdickens/chapter_05/part_02">part 02 ›</a></div>
@@ -140,3 +142,139 @@ of our life, but Dickens's yet more indomitable fancy could touch
 with [[Magic|magic]] even our dull fiction.  Before we are half-way through
 the book the stock characters of dead and damned farces astonish us
 like splendid strangers.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/charlesdickens-(chesterton)">CharlesDickens</a> › <a href="/testi/chesterton/atomized/charlesdickens/chapter_05">Chapter 05</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/charlesdickens/chapter_04/part_06">‹ part 06</a><a class="ex-next" href="/testi/chesterton/atomized/charlesdickens/chapter_05/part_02">part 02 ›</a></div>
+</nav>
+
+CAPITOLO IV
+
+«IL [[Pickwick|CIRCOLO PICKWICK]]»
+
+Intorno alla nascita del «[[Pickwick]]» scoppiò una di quelle liti letterarie
+troppo frequenti nella vita di Dickens.  Simili liti, in verità,
+nascevano di solito da qualche preciso errore o soperchieria
+da parte di qualcun altro; ma erano anche rese possibili
+da una suscettibilità indefinita, da una permalosità propria dello stesso Dickens.
+Egli era tanto sensibile sui punti della paternità personale che perfino il suo
+sacro senso dell'[[Humour|umorismo]] lo abbandonava.  Trasformava in nemici mortali
+persone che avrebbe potuto tramutare assai facilmente in scherzi immortali.
+Non che fosse senza legge; in un certo senso era anzi troppo legalista;
+ma non comprendeva il principio del de minimis non curat lex.
+Chiunque poteva ritrarlo; qualsiasi [[Fool|sciocco]] poteva farlo passare per [[Fool|sciocco]].
+Qualsiasi oscuro pazzo a cui venisse in mente di dire che aveva scritto lui l'intero
+«[[Martin Chuzzlewit]]»; qualsiasi imbrattacarte a due soldi a cui venisse in mente di dire
+che Dickens non portava colletto alla camicia, poteva provocare le più
+appassionate e pubbliche smentite, come d'un uomo che si dichiarasse «non colpevole»
+di stregoneria o d'alto tradimento.  Di qui le lettere di Dickens sono
+piene d'un certo singolare tipo di liti e di lagnanze,
+liti e lagnanze nelle quali non si può dire ch'egli avesse torto,
+ma soltanto che, pur avendo ragione,
+si trovava nel posto sbagliato.  Non era soltanto un uomo generoso,
+era perfino un uomo giusto; l'aver mosso contro chiunque un'accusa
+o una pretesa ingiusta gli sarebbe stato insopportabile.
+La sua debolezza era che trovava la pretesa o l'accusa ingiusta,
+per quanto piccola, altrettanto insopportabile quando era rivolta contro se stesso.
+Nessuno può dire di lui ch'egli avesse spesso torto; possiamo solo dire
+di lui, come di molte persone battagliere, ch'egli aveva troppo spesso ragione.
+
+Le vicende che accompagnarono l'inaugurazione del «[[Pickwick]]»
+non sono, forse, un esempio perfetto di questo tratto, perché Dickens
+era qui un giornalista che campava alla giornata, e il colpo avrebbe forse potuto
+essere più invalidante di quelli inferti a lui nei suoi giorni di trionfo.
+Ma per tutti quei giorni di trionfo, e fino al giorno della sua [[Death|morte]],
+Dickens prese questa vecchia tempesta in un bicchier d'acqua con la più terribile gravità,
+stese dichiarazioni, chiamò testimoni, conservò documenti schiaccianti,
+e trasmise ai suoi figli la follia dimenticata come se fosse stata
+una faida delle Highland.  Eppure la pretesa ingiusta avanzata contro di lui era tanto
+più ridicola ancora che ingiusta, che pare strano
+ch'egli dovesse ricordarsene per un mese se non per proprio divertimento.
+I fatti sono semplici e noti ai più.  Gli editori—
+Chapman & Hall—desideravano produrre una sorta di dispensa periodica con
+illustrazioni comiche d'un popolare caricaturista di nome Seymour.  Questo [[Artist|artista]]
+era famoso soprattutto per la sua resa del lato farsesco dello sport,
+e per assecondare questa specialità gli editori suggerirono a Dickens,
+in modo assai vago, ch'egli scrivesse d'un Circolo Nembrot,
+o qualcosa del genere, un circolo di sportivi dilettanti, condannati a
+perpetue ignominie.  Dickens si oppose in sostanza per due
+ragioni assai sensate—primo, che i bozzetti sportivi erano stantii;
+e secondo, ch'egli non sapeva nulla di sport.  Mutò
+l'idea in quella d'un circolo generale di viaggi e d'indagine,
+il Circolo [[Pickwick]], e conservò un solo fatale sportivo, il signor Winkle,
+il [[Melancholy|malinconico]] residuo del Circolo Nembrot che mai fu.
+Le prime sette illustrazioni apparvero con la firma di
+Seymour e il testo a stampa di Dickens, e in esse Winkle
+e i suoi guai erano abbastanza, ma non straordinariamente in vista.
+Prima che apparisse l'ottava illustrazione, Seymour si era fatto saltare le cervella.
+Dopo un breve intervallo in cui fu impiegato un uomo di nome
+Buss, Dickens ottenne l'assistenza di Hablot K. Browne,
+che tutti chiamiamo «Phiz», e col quale si può quasi, in un certo senso,
+dire ch'egli si sia messo in società.  Erano adatti l'uno
+all'altro e alla comune creazione d'una cosa unica quanto Gilbert
+e Sullivan.  Nessun altro illustratore creò mai i veri personaggi
+di Dickens col preciso e giusto quantum d'esagerazione.
+Nessun altro illustratore respirò mai la vera atmosfera di Dickens,
+in cui gli scrivani sono scrivani e nondimeno, al [[Time|tempo]] stesso, elfi.
+
+Alla mente ottusa la faccenda sopra descritta non sembra offrire
+nulla di molto promettente in fatto di baruffa.  Ma la
+vedova di Seymour riuscì a ricavarne la proposizione che in un modo
+o nell'altro suo marito aveva scritto il «[[Pickwick]]», o, per lo meno,
+era stato responsabile del genio e del [[success|successo]] di esso.
+Non risulta ch'ella avesse alcunché di simile a una ragione
+per questa opinione, tranne l'incontestabile fatto che gli editori
+avevano cominciato con l'idea d'impiegare Seymour.  Questo era
+verissimo, e Dickens (che, oltre alla sua onestà, era
+uomo troppo attaccabrighe per non cercare di tenersi dalla parte della ragione,
+e che mostrava una sorta di feroce scrupolosità nel dire la [[Truth|verità]]
+in casi simili) non lo negò mai né tentò di nasconderlo.
+Era verissimo che, all'inizio, invece che Seymour
+fosse impiegato a illustrare Dickens, si può dire che Dickens fosse
+impiegato a illustrare Seymour.  Ma che Seymour inventasse
+alcunché nel testo a stampa, grande o piccolo, ch'egli inventasse
+o il profilo del carattere del signor [[Pickwick]], o il numero
+del [[cabman|vetturino]] del signor [[Pickwick]], ch'egli inventasse o la storia,
+o anche solo un punto e virgola della storia, non solo non fu mai provato,
+ma non fu mai neppure asserito con molta chiarezza.  Dickens riempie le sue lettere
+di tutto ciò che si può dire contro l'idea della signora Seymour;
+non è affatto chiaro se ci fosse alcunché di definito
+detto a suo favore.
+
+Alla mera superficie del fatto e del diritto della faccenda, Dickens avrebbe dovuto
+essere superiore a questa sciocca vicenda.  Ma in un senso assai più profondo
+e assai più reale egli avrebbe dovuto essere superiore ad essa.
+Essa non toccava affatto né lui né la sua [[Greatness|grandezza]], neppure come
+astratta imputazione.  Se Seymour avesse dato l'avvio alla storia, avesse fornito
+a Dickens i suoi burattini, Tupman o Jingle, Dickens sarebbe pur sempre
+stato Dickens e Seymour soltanto Seymour.  Di fatto,
+si dava il caso che fosse una spregevole menzogna, ma sarebbe stata
+un'egualmente spregevole [[Truth|verità]].  Poiché il fatto è che la [[Greatness|grandezza]]
+di Dickens e specialmente la [[Greatness|grandezza]] del [[Pickwick]] non è d'una specie
+che potesse essere intaccata dal fatto che qualcun altro ne suggerisse la prima idea.
+Non poteva essere intaccata dal fatto che qualcun altro ne scrivesse il primo capitolo.
+Se si potesse dimostrare che un altro uomo aveva suggerito a Hawthorne
+(poniamo il caso) la concezione primaria della «Lettera Scarlatta», Hawthorne, che
+la sviluppò, sarebbe pur sempre un artefice squisito; ma sarebbe di tanto
+meno un creatore.  Ma in un caso come il [[Pickwick]] esiste una prova semplice.
+Se Seymour diede a Dickens l'idea principale del [[Pickwick]], quale fu?
+Non c'è concezione primaria del [[Pickwick]] che alcuno possa suggerire.
+Dickens non solo non ricavò il piano generale da Seymour,
+non lo ricavò affatto.  Nel [[Pickwick]], e, invero, in Dickens
+in generale, è nei dettagli che l'autore è creativo,
+è nei dettagli ch'egli è immenso.  La forza del libro sta
+nel perpetuo torrente d'ingegnoso e inventivo trattamento; il tema
+(almeno all'inizio) semplicemente non esiste.  L'idea di Tupman,
+il grasso rubacuori, è di per sé assai squallida e volgare; è
+il Tupman particolareggiato, come viene sviluppato, che riesce inaspettatamente divertente.
+L'idea di Winkle, il goffo sportivo, è di per sé assai stantia;
+è man mano ch'egli seguita a ripetersi che diviene originale.
+Udiamo parlare d'uomini la cui [[Imagination|immaginazione]] può toccare con la [[Magic|magia]] i fatti scialbi
+della nostra vita, ma la fantasia ancor più indomabile di Dickens poteva toccare
+con la [[Magic|magia]] perfino la nostra scialba finzione.  Prima d'essere a metà
+del libro i personaggi da repertorio di farse morte e dannate ci stupiscono
+come splendidi forestieri.

@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/secret-fr-brown-(chesterton)">secret Fr Brown</a> › <a href="/testi/chesterton/atomized/secret_fr_brown/story_08_the_chief_mourner_of_marne">Story 08 THE CHIEF MOURNER OF MARNE</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/secret_fr_brown/story_08_the_chief_mourner_of_marne/part_05">‹ part 05</a><a class="ex-next" href="/testi/chesterton/atomized/secret_fr_brown/story_08_the_chief_mourner_of_marne/part_07">part 07 ›</a></div>
@@ -125,3 +127,123 @@ of a century ago. Is that what you call Christian [[Charity|charity]]?"
 
 "Yes," answered the priest stolidly; "that is what I call Christian
 [[Charity|charity]]."
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/secret-fr-brown-(chesterton)">secret Fr Brown</a> › <a href="/testi/chesterton/atomized/secret_fr_brown/story_08_the_chief_mourner_of_marne">Story 08 THE CHIEF MOURNER OF MARNE</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/secret_fr_brown/story_08_the_chief_mourner_of_marne/part_05">‹ part 05</a><a class="ex-next" href="/testi/chesterton/atomized/secret_fr_brown/story_08_the_chief_mourner_of_marne/part_07">part 07 ›</a></div>
+</nav>
+
+[[Father Brown]] giocherellava con gli spilli posati accanto alla mappa del
+generale; sembrava ascoltare piuttosto distrattamente. Aveva quel tipo di
+mente che vede le cose per immagini; e l'immagine che aveva colorato persino
+la mente prosaica del pratico soldato assumeva tinte ancora più
+significative e sinistre nella mente più mistica del sacerdote. Vedeva la
+desolazione rosso cupo della sabbia, del colore stesso di Aceldama, e il
+morto che giaceva in un mucchio scuro, e l'uccisore che, chinandosi mentre
+correva, gesticolava con un guanto in un rimorso demente, e sempre la sua
+[[Imagination|immaginazione]] tornava alla terza cosa che ancora non riusciva a
+incastrare in nessun quadro umano: il secondo dell'ucciso, ritto immobile e
+misterioso, come una scura statua sull'orlo del mare. A qualcuno poteva
+sembrare un dettaglio; ma per lui era proprio quella figura rigida a
+ergersi come un ritto punto interrogativo.
+
+Perché Romaine non si era mosso all'istante? Era la cosa naturale che
+facesse un secondo, per semplice umanità, per non dire per [[Friendship|amicizia]], lasciando
+[[Alone|stare]] tutto il resto. Anche se ci fosse stato qualche [[Double|doppio]] gioco o qualche
+movente più oscuro non ancora compreso, si sarebbe pensato che lo si
+facesse almeno per salvare le apparenze. In ogni caso, quando tutto era
+finito, sarebbe stato naturale che il secondo si muovesse molto prima che
+l'altro secondo fosse svanito oltre le dune.
+
+«Questo Romaine si muove molto lentamente?» domandò.
+
+«È strano che lo chieda» rispose Outram, con uno sguardo tagliente. «No, in
+realtà si muove molto in fretta, quando si muove. Ma, per una curiosa
+coincidenza, stavo giusto pensando che proprio questo pomeriggio l'ho visto
+stare esattamente così, durante il temporale. Se ne stava con quel suo
+mantello dalle fibbie d'argento, e con una mano sul fianco, esattamente e in
+ogni linea come stava su quella sabbia insanguinata tanto tempo fa. Il
+[[Lightning|lampo]] ci accecò tutti, ma lui non batté ciglio. Quando tornò il buio, era
+ancora là in piedi.»
+
+«Immagino che non sia ancora là adesso?» chiese [[Father Brown]]. «Voglio
+dire, immagino che a un certo punto si sia mosso?»
+
+«No, si mosse in modo assai brusco quando venne il tuono» replicò l'altro.
+«Sembrava che lo stesse aspettando, perché ci disse l'esatto [[Time|momento]]
+dell'intervallo. C'è qualcosa che non va?»
+
+«Mi sono punto con uno dei suoi spilli» disse [[Father Brown]]. «[[Hope|Spero]]
+di non averlo rovinato.» Ma i suoi occhi avevano avuto un guizzo e la sua
+bocca si era chiusa di scatto.
+
+«Si sente male?» chiese il generale, fissandolo.
+
+«No» rispose il sacerdote; «solo, non sono così stoico quanto il suo amico
+Romaine. Non posso fare a meno di battere le palpebre quando vedo la luce.»
+
+Si voltò per raccogliere cappello e ombrello; ma quando fu arrivato alla
+porta parve ricordarsi di qualcosa e tornò indietro. Avvicinandosi molto a
+Outram, gli scrutò il volto con un'espressione piuttosto smarrita, da pesce
+moribondo, e fece il gesto di volerlo trattenere per il panciotto.
+
+«Generale» sussurrò quasi, «per amor di Dio, non lasci che sua moglie e
+quell'altra donna si ostinino a rivedere Marne. Non svegli i [[dogs|cani]] che dormono,
+o scatenerà tutti i mastini dell'inferno.»
+
+Il generale rimase [[Alone|solo]] con un'aria di sconcerto nei suoi occhi bruni,
+mentre tornava a sedersi per giocherellare con i suoi spilli.
+
+Ancor più grande, tuttavia, fu lo sconcerto che accompagnò le successive
+tappe della benevola congiura della moglie del generale, che aveva radunato
+il suo piccolo gruppo di solidali per dare l'[[Storm|assalto]] al [[Castle|castello]] del
+misantropo. La prima sorpresa in cui si imbatté fu l'inspiegabile assenza di
+uno degli attori dell'antica [[Tragedy|tragedia]]. Quando, come convenuto, si radunarono
+in un tranquillo albergo assai vicino al [[Castle|castello]], non vi era traccia di
+Hugo Romaine, finché un telegramma tardivo di un avvocato non li informò che
+il grande attore aveva improvvisamente lasciato il paese. La seconda
+sorpresa, quando cominciarono il bombardamento mandando su un messaggio al
+[[Castle|castello]] con l'urgente richiesta di un colloquio, fu la figura che venne
+fuori da quei cupi cancelli a ricevere la delegazione in nome del nobile
+proprietario. Non era affatto la figura che avrebbero immaginato adatta a
+quei tetri viali o a quelle formalità quasi feudali. Non era un maestoso
+intendente o un maggiordomo, e nemmeno un dignitoso siniscalco o un valletto
+alto e decorativo. L'unica figura che uscì dal cavernoso portone del
+[[Castle|castello]] fu la figura bassa e trasandata di Padre Brown.
+
+«Sentite» disse, nel suo modo semplice e imbarazzato. «Ve l'avevo detto che
+avreste fatto molto meglio a lasciarlo [[Alone|in pace]]. Sa quel che fa, e non
+farete altro che rendere tutti infelici.»
+
+Lady Outram, accompagnata da una signora alta e vestita con sobrietà, ancora
+molto bella, presumibilmente l'originaria signorina Grayson, guardò il
+piccolo sacerdote con freddo disprezzo.
+
+«Davvero, signore» disse; «questa è un'occasione del tutto privata, e non
+capisco che cosa ci abbiate a che fare voi.»
+
+«Fidatevi di un prete, quando c'è un'occasione privata di mezzo» ringhiò Sir
+John Cockspur. «Non sapete che vivono dietro le quinte come topi dietro un
+rivestimento di legno, scavandosi la via nelle stanze private di tutti?
+Guardate come si è già impadronito del povero Marne.» Sir John era un po'
+imbronciato, poiché i suoi amici aristocratici lo avevano persuaso a
+rinunciare al grande scoop pubblicitario in cambio del privilegio di essere
+davvero dentro un segreto dell'alta società. Non gli passò mai per la mente
+di domandarsi se non somigliasse anche lui a un topo dietro un rivestimento.
+
+«Oh, va tutto bene» disse [[Father Brown]], con l'impazienza dell'ansia. «Ne
+ho parlato con il marchese e con l'unico prete con cui abbia mai avuto a che
+fare; le sue inclinazioni clericali sono state molto esagerate. Vi dico che
+sa quel che fa; e vi imploro tutti di lasciarlo [[Alone|in pace]].»
+
+«Vorreste lasciarlo a questa [[Death|morte]] vivente, a intristire e impazzire in
+una rovina!» esclamò Lady Outram, con voce che tremava un poco. «E tutto
+perché ebbe la sventura di uccidere un uomo in duello più di un quarto di
+secolo fa. È questa che voi chiamate [[Charity|carità]] cristiana?»
+
+«Sì» rispose il sacerdote imperturbabile; «questa è ciò che io chiamo
+[[Charity|carità]] cristiana.»

@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/apprandcritofchdickens-(chesterton)">ApprAndCritOfChDickens</a> › <a href="/testi/chesterton/atomized/apprandcritofchdickens/chapter_01_page">Chapter 01 PAGE</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/apprandcritofchdickens/chapter_01_page/part_34">‹ part 34</a><a class="ex-next" href="/testi/chesterton/atomized/apprandcritofchdickens/chapter_02_celebrated_characters_who_are/part_01">part 01 ›</a></div>
@@ -95,3 +97,94 @@ both acts they recognised a common quality of virtue.
 Now I think it is certainly the disadvantage of _Martin Chuzzlewit_ that
 
 none of its absurd characters are thus sympathetic. There are in the
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/apprandcritofchdickens-(chesterton)">ApprAndCritOfChDickens</a> › <a href="/testi/chesterton/atomized/apprandcritofchdickens/chapter_01_page">Chapter 01 PAGE</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/apprandcritofchdickens/chapter_01_page/part_34">‹ part 34</a><a class="ex-next" href="/testi/chesterton/atomized/apprandcritofchdickens/chapter_02_celebrated_characters_who_are/part_01">part 01 ›</a></div>
+</nav>
+
+fatto; non sono soltanto fili diversi, sono addirittura fili
+
+antagonisti. Intendo dire che l'intero Dickens è composto dal filo della
+
+[[Satire|satira]] e dal filo del sentimentalismo; e il filo della [[Satire|satira]] è
+
+del tutto inutilmente spietato e ostile, e il filo del
+
+sentimentalismo è del tutto inutilmente umanitario e persino lacrimoso. Dal
+
+giusto intreccio di queste due cose dipende gran parte del
+
+[[success|successo]] di Dickens in un [[Novel|romanzo]]. E proprio dalla loro considerazione possiamo
+
+forse giungere nel modo migliore alla soluzione di quel particolare enigma emotivo
+
+che è il [[Novel|romanzo]] intitolato _Martin Chuzzlewit_.
+
+_Martin Chuzzlewit_ risulta, credo, vagamente insoddisfacente per il lettore,
+
+vagamente triste e pesante anche per il lettore che ama Dickens, perché in
+
+_Martin Chuzzlewit_ più che altrove nelle opere di Dickens, più
+
+ancora che in _Oliver Twist_, prevale la specie aspra e
+
+ostile dell'[[Humour|umorismo]] su quella ilare e umana. È assurdo
+
+stabilire simili piccole regole per saggiare la letteratura. Ma
+
+questo si può dire in senso ampio, e tuttavia con sicurezza: che Dickens dà sempre
+
+il suo meglio quando ride delle persone che davvero ammira. È
+
+al suo massimo grado di comicità quando scrive del signor [[Pickwick]], che rappresenta
+
+la virtù passiva. È al suo massimo grado di comicità quando scrive del signor Sam
+
+Weller, che rappresenta la virtù attiva. Non è mai tanto spassoso come quando
+
+parla di persone in cui il divertimento stesso è una virtù, come i poveretti
+
+della Fleet o della Marshalsea. E nei racconti che avevano immediatamente
+
+preceduto _Martin Chuzzlewit_ si era costantemente occupato, nella
+
+maggior parte dei casi, dello studio di simili eccentrici geniali e onorevoli;
+
+se sono pazzi, sono pazzi amabili. Nell'ultimo
+
+importante [[Novel|romanzo]] precedente a _Martin Chuzzlewit_, _Barnaby Rudge_, l'[[Hero|eroe]]
+
+stesso è un pazzo amabile. Nel [[Novel|romanzo]] anteriore a quello, _La bottega
+
+dell'antiquario_, le due figure comiche, [[Dick Swiveller]] e la
+
+[[Marchioness|Marchesina]], non sono soltanto i personaggi più veramente divertenti, ma anche i
+
+più veramente simpatici del libro. Prima di quello venne _Oliver
+
+Twist_ (che è, l'ho detto, un'eccezione), e prima ancora
+
+_Pickwick_, dove l'[[Hero|eroe]] è, come dice il signor Weller, «un angelo in
+
+ghette». Fino a quel momento, dunque, nel complesso, il personaggio centrale di Dickens
+
+era stato l'uomo che donava ai poveri molte cose, oro e vino e
+
+banchetti e buoni consigli; ma fra le altre cose donava loro una bella risata
+
+alle proprie spalle. Il gioviale vecchio mercante inglese del tipo di [[Pickwick]] era
+
+benvoluto sotto entrambi gli aspetti. Alla gente piaceva vederlo gettare il denaro nel
+
+rigagnolo. E piaceva anche vederlo gettarvisi lui stesso, di tanto in tanto. In
+
+entrambi gli atti riconosceva una comune qualità di virtù.
+
+Ora, ritengo che sia certamente lo svantaggio di _Martin Chuzzlewit_ che
+
+nessuno dei suoi assurdi personaggi risulti in tal modo simpatico. Vi sono, nel

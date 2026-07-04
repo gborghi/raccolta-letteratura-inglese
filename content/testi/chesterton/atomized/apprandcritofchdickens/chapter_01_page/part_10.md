@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/apprandcritofchdickens-(chesterton)">ApprAndCritOfChDickens</a> › <a href="/testi/chesterton/atomized/apprandcritofchdickens/chapter_01_page">Chapter 01 PAGE</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/apprandcritofchdickens/chapter_01_page/part_09">‹ part 09</a><a class="ex-next" href="/testi/chesterton/atomized/apprandcritofchdickens/chapter_01_page/part_11">part 11 ›</a></div>
@@ -183,3 +185,182 @@ Mr. Winkle is not a stock and stale subject. Nor is his [[Horse|horse]] a stock
 and stale subject; it is as immortal as the horses of [[Achilles]]. The
 
 notion of a fat old gentleman proud of his legs might easily be vulgar.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/apprandcritofchdickens-(chesterton)">ApprAndCritOfChDickens</a> › <a href="/testi/chesterton/atomized/apprandcritofchdickens/chapter_01_page">Chapter 01 PAGE</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/apprandcritofchdickens/chapter_01_page/part_09">‹ part 09</a><a class="ex-next" href="/testi/chesterton/atomized/apprandcritofchdickens/chapter_01_page/part_11">part 11 ›</a></div>
+</nav>
+
+«Ho l'impressione che siate in errore.» Nessuno riesce a cogliere il vero segreto di
+
+frasi come questa; frasi che in seguito furono sparse con temeraria
+
+prodigalità lungo la conversazione di [[Dick Swiveller]] o del signor
+
+Mantalini, di Sim Tappertit o del signor Pecksniff. Per quanto lo scherzo appaia quanto mai
+
+superficiale, basta rileggerlo un certo numero di volte per accorgersi
+
+che è dei più sottili. La comicità non sta nel fatto che il signor Sparkins si limiti a
+
+usare paroloni, non più di quanto stia nel fatto che il signor Swiveller
+
+beva, o che il signor Mantalini inganni la moglie. È qualcosa nel-
+
+la disposizione delle parole; qualcosa in un ultimo, ispirato tocco
+
+d'assurdità impresso a una frase. A dispetto di tutto, [[Horatio]] Sparkins
+
+fa ridere. Non sappiamo dire perché faccia ridere. Quando sapremo perché fa ridere
+
+sapremo perché Dickens è grande.
+
+Stando come stiamo qui, per così dire, sulla soglia dell'opera di
+
+Dickens, sarà forse [[Well|bene]] enunciare questa [[Truth|verità]] come, dopo tutto,
+
+la più importante di tutte. Questa prima opera aveva, come ho detto, i difetti
+
+di un'opera d'esordio e i difetti particolari che sorgevano dalla
+
+fortuita [[history|storia]] del suo autore; egli fu privato dell'[[Education|istruzione]], e perciò essa era
+
+per certi versi incolta; egli si trovò di fronte alla follia e al fallimento dei
+
+suoi superiori e tutori naturali, e perciò essa era per certi versi
+
+sfacciata e insolente. Ciò nonostante, il dato di fatto capitale intorno all'opera merita d'essere
+
+enunciato qui a beneficio di ogni lettore che voglia seguire l'ordine cronologico
+
+e leggere i _Sketches by Boz_ prima d'imbarcarsi sul mare tempestoso e
+
+splendido del _Pickwick_. Poiché il mare del _Pickwick_, per quanto splendido,
+
+pure a certuni dà il mal di mare. Il gran punto da porre in rilievo in
+
+una simile iniziazione è questo: che la gente, e specialmente la gente raffinata, non
+
+deve giudicare Dickens da quella che chiamerebbe la grossolanità o la
+
+trivialità dei suoi soggetti. È verissimo che i suoi scherzi vertono
+
+spesso sugli stessi _soggetti_ degli scherzi di un giornaletto umoristico da mezzo penny.
+
+Solo che, guarda caso, sono buoni scherzi. Egli fa scherzi sull'ubriachezza,
+
+scherzi sulle suocere, scherzi sui mariti succubi, scherzi (cosa
+
+assai più veramente imperdonabile) sulle zitelle, scherzi sulla vigliaccheria
+
+fisica, scherzi sulla grassezza, scherzi sul sedersi sul proprio cappello.
+
+Egli si fa beffe di tutte queste cose; e la ragione non è troppo difficile
+
+da trovare. Se ne fa beffe perché tutte queste cose, o
+
+quasi tutte, sono davvero molto buffe. Ma un gran numero di coloro
+
+che altrimenti potrebbero leggere e gustare Dickens sono senza dubbio «scoraggiati» (come
+
+suol dirsi) dal fatto che egli sembra far eco a una scadente specie di
+
+luogo comune nella scelta degli episodi e delle immagini. In parte, s'intende, egli
+
+patisce proprio a causa del suo [[success|successo]]; il suo gioco con questi temi
+
+fu così riuscito che da allora tutti gli altri vi hanno sempre più giocato;
+
+egli avrà pure copiato i vecchi scherzi, ma di certo li rinnovò.
+
+Per esempio, «Ally Sloper» fu senza dubbio copiato da [[Wilkins Micawber]].
+
+Ancor oggi si possono scorgere (nella prima pagina di quel bel periodico) la
+
+testa calva e il colletto alto della camicia che tradiscono l'illustre originale da cui
+
+«Ally Sloper» deriva. Ma proprio perché «Sloper» fu rubato
+
+da Micawber, per questa medesima ragione la nuova generazione ha l'impressione che
+
+Micawber sia stato rubato a «Sloper». Molti lettori moderni hanno l'impressione che
+
+Dickens copi i giornaletti umoristici, laddove in [[Truth|verità]] sono i giornaletti umoristici
+
+che ancora copiano Dickens.
+
+Dickens mostrò d'essere un uomo originale proprio accettando sempre temi vecchi e
+
+consacrati. Non v'è segno più chiaro dell'assenza di
+
+originalità nei poeti moderni della loro inclinazione a cercare temi nuovi.
+
+I poeti davvero originali scrivono [[Poems|poesie]] sulla [[Spring|primavera]]. Sono
+
+sempre freschi, come sempre fresca è la [[Spring|primavera]]. Gli uomini del tutto privi
+
+di originalità scrivono [[Poems|poesie]] sulla tortura, o su nuove religioni, o su qualche
+
+perversione dell'osceno, sperando che il solo pungiglione del soggetto possa
+
+parlare per loro. Ma non ci rendiamo abbastanza conto che ciò che è vero per
+
+l'ode classica è vero anche per lo scherzo classico. Un vero poeta scrive
+
+della [[Spring|primavera]] bella perché (dopo mille primavere) la
+
+[[Spring|primavera]] è davvero bella. Allo stesso modo il vero umorista scrive
+
+d'un uomo che si siede sul proprio cappello, perché l'atto di sedersi sul
+
+proprio cappello (per quanto spesso e per quanto mirabilmente compiuto) è davvero
+
+straordinariamente comico. Non dobbiamo respingere un nuovo poeta perché la sua poesia
+
+s'intitola _To a Skylark_; né dobbiamo respingere un umorista perché la sua nuova
+
+farsa s'intitola _My Mother-in-law_. Egli potrebbe davvero avere cose splendide e
+
+ispirate da dire su un problema eterno. Tutta la questione sta nel
+
+vedere se le abbia.
+
+Ora è proprio qui che entrano in gioco Dickens, e il possibile equivoco su
+
+Dickens. Schiere di dame sensibili, schiere di ingenui
+
+esteti, hanno provato un vago ritrarsi da quell'elemento di Dickens che
+
+comincia in modo vago nei _The Tuggses at Ramsgate_ e culmina nel
+
+_Pickwick_. Provano un vago ritrarsi dalla materia stessa;
+
+dal semplice fatto che tanta parte del divertimento verte sul bere o
+
+sul menar le mani, o sul cadere lungo distesi, o sul fuggire con vecchie signore. È a costoro
+
+che si deve rivolgere il primo appello sulla soglia della critica
+
+dickensiana. Che leggano davvero la cosa e vedano davvero se
+
+lo [[Humour|humour]] sia lo scherno greve e ottuso che essi immaginano.
+
+È esattamente qui che è in gioco tutto il genio di Dickens. I suoi
+
+soggetti sono in effetti soggetti stereotipati; come l'allodola di Shelley, o
+
+l'[[Autumn|autunno]] di Keats. Ma tanto più, proprio perché sono soggetti stereotipati, il
+
+lettore si rende conto di quale mago sia all'opera. L'idea di un goffo
+
+tizio che cade da [[Horse|cavallo]] è in effetti un soggetto stereotipato e trito. Ma
+
+il signor Winkle non è un soggetto stereotipato e trito. Né lo è il suo [[Horse|cavallo]], soggetto stereotipato
+
+e trito; è immortale quanto i cavalli di [[Achilles|Achille]]. L'idea
+
+di un vecchio signore corpulento orgoglioso delle proprie gambe potrebbe facilmente riuscire volgare.

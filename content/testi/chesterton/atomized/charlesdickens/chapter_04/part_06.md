@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/charlesdickens-(chesterton)">CharlesDickens</a> › <a href="/testi/chesterton/atomized/charlesdickens/chapter_04">Chapter 04</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/charlesdickens/chapter_04/part_05">‹ part 05</a><a class="ex-next" href="/testi/chesterton/atomized/charlesdickens/chapter_05/part_01">part 01 ›</a></div>
@@ -55,3 +57,14 @@ He was to show them as the most promptly and practically
 compassionate part of our civilisation; which they certainly are.
 The [[democracy]] has a hundred exuberant good qualities;
 the [[democracy]] has only one outstanding sin--it is not democratic.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/charlesdickens-(chesterton)">CharlesDickens</a> › <a href="/testi/chesterton/atomized/charlesdickens/chapter_04">Chapter 04</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/charlesdickens/chapter_04/part_05">‹ part 05</a><a class="ex-next" href="/testi/chesterton/atomized/charlesdickens/chapter_05/part_01">part 01 ›</a></div>
+</nav>
+
+In un modo, tuttavia, gli «Sketches by Boz» spiccano assai simbolicamente nella vita di Dickens. Costituiscono in certa maniera la sua dedicazione al proprio compito peculiare; la pittura insieme partecipe e pur esagerata della piccola borghesia più modesta. Egli doveva far sentire agli uomini che questa scialba classe media era in realtà una specie di terra degli elfi. Ma anche qui l'opera è rozza e non ancora sviluppata; e ciò si mostra nel fatto ch'essa è assai più esageratrice che partecipe. Non ci interessa, s'intende, quella specie di persone che dicono di desiderare che Dickens fosse più raffinato. Se mai quelle persone verranno raffinate sarà col [[Fire|fuoco]]. Ma vi è in quest'opera primissima un elemento che quasi svanì in quelle posteriori, un elemento che è tipico delle classi medie in Inghilterra, e che in un senso più reale merita di essere chiamato volgare. Voglio dire che in queste piccole farse vi è una traccia, nell'autore [[Well|non meno]] che nei personaggi, di quel meschino senso della precedenza sociale, di quel brusio di piccole ignote oligarchie, che è l'unico serio peccato della borghesia di Gran Bretagna. Può parere pedantesco, per esempio, addurre una farsa chiassosa come la storia di [[Horatio]] Sparkins, che racconta come una famiglia arrampicatrice ospitasse un giovane retore credendolo un lord, e scoprisse ch'era il commesso di un merciaio. Senza [[Doubt|dubbio]] erano assai snob nel pensare che un lord dovesse essere eloquente; ma non possiamo fare a meno di sentire che Dickens è quasi altrettanto snob nel trovare tanto buffo che il commesso di un merciaio dovesse essere eloquente. Un uomo libero, si penserebbe, disprezzerebbe la famiglia altrettanto anche se [[Horatio]] fosse stato un pari del regno. Qui, e qui soltanto, vi è appena un tocco della volgarità, dell'unica volgarità del mondo da cui Dickens proveniva. Poiché l'unico elemento di bassezza che vi è realmente nel nostro popolino è esattamente ch'esso è pieno di superiorità e molto conscio della classe. Sfumature, impercettibili agli occhi altrui, ma dure e altezzose come una casta di Brahmini, separano un tipo di sguattera da un altro tipo di sguattera. Dickens era destinato a mostrare con ispirata simbologia tutte le immense virtù della [[democracy|democrazia]]. Doveva mostrarle come la parte più umoristica della nostra civiltà; e certamente lo sono. Doveva mostrarle come la parte più pronta e praticamente compassionevole della nostra civiltà; e certamente lo sono. La [[democracy|democrazia]] ha un centinaio di esuberanti buone qualità; la [[democracy|democrazia]] ha un solo peccato che spicca: non è democratica.

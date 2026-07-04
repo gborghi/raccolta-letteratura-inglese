@@ -136,7 +136,7 @@ at the memory of such spit-fire self-dependence.
 
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/works/innocence-(chesterton)">The Innocence of Father Brown</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/innocence-(chesterton)">The Innocence of Father Brown</a> › <a href="/testi/chesterton/atomized/innocence/story_10_the_eye_of_apollo">Story 10 The Eye of Apollo</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/innocence/story_09_the_hammer_of_god/part_06">‹ part 06</a><a class="ex-next" href="/testi/chesterton/atomized/innocence/story_10_the_eye_of_apollo/part_02">part 02 ›</a></div>
 </nav>
 

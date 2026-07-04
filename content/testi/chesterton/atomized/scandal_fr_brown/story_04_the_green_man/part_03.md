@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/scandal-fr-brown-(chesterton)">scandal Fr Brown</a> › <a href="/testi/chesterton/atomized/scandal_fr_brown/story_04_the_green_man">Story 04 The Green Man</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/scandal_fr_brown/story_04_the_green_man/part_02">‹ part 02</a><a class="ex-next" href="/testi/chesterton/atomized/scandal_fr_brown/story_04_the_green_man/part_04">part 04 ›</a></div>
@@ -150,3 +152,70 @@ mystery at all. Mr Dyke admitted, with a smile, that the Admiral's will
 was a very normal and ordinary document, leaving everything to his only
 [[Child|child]] Olive; and that there really was no particular reason for
 concealing the fact.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/scandal-fr-brown-(chesterton)">scandal Fr Brown</a> › <a href="/testi/chesterton/atomized/scandal_fr_brown/story_04_the_green_man">Story 04 The Green Man</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/scandal_fr_brown/story_04_the_green_man/part_02">‹ part 02</a><a class="ex-next" href="/testi/chesterton/atomized/scandal_fr_brown/story_04_the_green_man/part_04">part 04 ›</a></div>
+</nav>
+
+«Sicché arriviamo», disse il segretario, abbassando la voce per il brivido, «suppongo che arriviamo alla terza possibilità.»
+
+«Non avremo troppa fretta su questo», disse l'ispettore, con disappunto di Harker, che aveva fretta di ogni cosa. «Ma naturalmente ci sono un paio di cose che si vorrebbe sapere. Si vorrebbe sapere... del suo patrimonio, per esempio. Sa chi è probabile che ne erediti? Lei è il suo segretario privato; sa qualcosa del suo testamento?»
+
+«Non sono un segretario tanto privato», rispose il giovane. «I suoi legali sono i signori Willis, Hardman e Dyke, laggiù in Suttford High Street; e credo che il testamento sia in loro custodia.»
+
+«[[Well|Bene]], sarà meglio che vada a trovarli al più presto», disse l'ispettore.
+
+«Andiamo a trovarli subito», disse l'impaziente segretario.
+
+Fece un giro o due su e giù per la stanza, irrequieto, e poi esplose su un altro fronte.
+
+«Che cosa avete fatto del [[Body|corpo]], ispettore?» chiese.
+
+«Il dottor Straker lo sta esaminando ora al commissariato. Il suo referto dovrebbe essere pronto tra un'ora o giù di lì.»
+
+«Non sarà mai pronto troppo presto», disse Harker. «Risparmieremmo [[Time|tempo]] se potessimo incontrarlo dall'avvocato.» Poi si arrestò e il suo tono impetuoso mutò bruscamente in uno di un certo imbarazzo.
+
+«Senta un po'», disse, «voglio... vogliamo tener conto della giovane signorina, la povera figlia dell'ammiraglio, il più possibile, proprio adesso. Ha un'idea che potrebbe essere tutta una sciocchezza; ma non vorrei deluderla. C'è un suo amico che vuole consultare, che al momento sta in città. Un uomo di nome Brown; prete o pastore di qualche sorta... mi ha dato il suo indirizzo. Io non do molto credito a preti o pastori, ma...»
+
+L'ispettore annuì. «Io non do alcun credito a preti o pastori; ma do molto credito a [[Father Brown|Padre Brown]]», disse. «Mi è capitato di aver a che fare con lui in un curioso caso mondano di un [[Jewel|gioiello]]. Avrebbe dovuto fare il poliziotto invece del pastore.»
+
+«Oh, benissimo», disse il segretario trafelato mentre spariva dalla stanza. «Che venga anche lui dall'avvocato.»
+
+Fu così che, quando si affrettarono nella cittadina vicina per incontrare il dottor Straker nello studio del notaio, trovarono [[Father Brown|Padre Brown]] già seduto lì, con le mani incrociate sul suo pesante ombrello, mentre chiacchierava piacevolmente con l'unico membro disponibile dello studio. Anche il dottor Straker era arrivato, ma a quanto pareva solo in quel momento, poiché stava riponendo con cura i guanti nel cilindro e il cilindro su un tavolino laterale. E la mite e raggiante espressione del volto lunare del prete e dei suoi occhiali, insieme alle silenziose risatine del gioviale vecchio avvocato brizzolato con cui parlava, bastavano a mostrare che il dottore non aveva ancora aperto bocca per portare la notizia della [[Death|morte]].
+
+«Una bella mattinata, dopotutto», stava dicendo [[Father Brown|Padre Brown]]. «Quella [[Storm|tempesta]] sembra esserci passata sopra. C'erano certe grosse nubi nere, ma noto che non è caduta una goccia di pioggia.»
+
+«Non una goccia», convenne il notaio giocherellando con una penna; era il terzo socio, il signor Dyke; «non c'è una nuvola in cielo, adesso. È il genere di giornata da vacanza.» Poi si accorse dei nuovi arrivati e alzò lo sguardo, posando la penna e alzandosi. «Ah, signor Harker, come sta? Sento dire che l'ammiraglio è atteso presto a [[Home|casa]].» Allora Harker parlò, e la sua voce risuonò cava nella stanza.
+
+«Mi spiace dire che siamo latori di cattive notizie. L'ammiraglio Craven è annegato prima di raggiungere [[Home|casa]].»
+
+Ci fu un mutamento nell'aria stessa dello studio silenzioso, benché non nell'atteggiamento delle figure immobili; entrambe fissavano chi parlava come se una battuta di spirito fosse rimasta gelata sulle loro labbra. Entrambe ripeterono la parola «annegato» e si guardarono l'un l'altro, e poi di nuovo il loro informatore. Poi ci fu un piccolo tumulto di domande.
+
+«Quando è accaduto?» chiese il prete.
+
+«Dove è stato trovato?» chiese l'avvocato.
+
+«È stato trovato», disse l'ispettore, «in quello stagno presso la costa, non lontano dall'Uomo Verde, e tirato fuori tutto coperto di schiuma verde e di erbacce, così da essere quasi irriconoscibile. Ma il dottor Straker qui ha... Che cosa c'è. [[Father Brown|Padre Brown]]? Si sente male?»
+
+«L'Uomo Verde», disse [[Father Brown|Padre Brown]] con un brivido. «Mi dispiace tanto... Vi chiedo scusa per essermi turbato.»
+
+«Turbato da che cosa?» chiese l'ufficiale, con lo sguardo fisso.
+
+«Dal fatto che fosse coperto di schiuma verde, suppongo», disse il prete, con un riso piuttosto malfermo. Poi aggiunse in tono un po' più deciso: «Pensavo potesse essere stato alghe.»
+
+Ormai a questo [[Time|punto]] tutti guardavano il prete, con un sospetto non innaturale che fosse pazzo; eppure la successiva, cruciale sorpresa non doveva venire da lui. Dopo un [[Silence|silenzio]] di morte, fu il dottore a parlare.
+
+Il dottor Straker era un uomo notevole, anche solo a vederlo. Era altissimo e spigoloso, formale e professionale nel vestire; eppure conservava una foggia che si è a stento più vista dai tempi metà-vittoriani. Benché relativamente giovane, portava la barba castana molto lunga e allargata sul panciotto; in contrasto con essa, i suoi lineamenti, insieme aspri e belli, apparivano singolarmente pallidi. La sua avvenenza era anche sminuita da qualcosa nei suoi occhi profondi che non era uno strabismo, ma come l'[[Shadow|ombra]] di uno strabismo. Tutti notarono queste cose in lui, poiché nel momento in cui parlava emanava un indescrivibile senso di autorità. Ma tutto ciò che disse fu:
+
+«C'è un'altra cosa da dire, se veniamo ai dettagli, sul fatto che l'ammiraglio Craven sia annegato.» Poi aggiunse pensosamente: «L'ammiraglio Craven non è annegato.»
+
+L'ispettore si voltò con una prontezza del tutto nuova e gli sparò una domanda.
+
+«Ho appena esaminato il [[Body|corpo]]», disse il dottor Straker, «la causa della [[Death|morte]] è stata una pugnalata al cuore con qualche lama appuntita, come uno stiletto. Fu dopo la [[Death|morte]], e anzi un certo [[Time|tempo]] dopo, che il [[Body|corpo]] venne nascosto nello stagno.»
+
+[[Father Brown|Padre Brown]] osservava il dottor Straker con un occhio assai vivace, quale di rado rivolgeva ad alcuno; e quando il gruppo nello studio cominciò a sciogliersi, riuscì ad accompagnarsi all'uomo di medicina per un po' di conversazione ulteriore, mentre tornavano giù per la strada. Non c'era stato molto altro a trattenerli, salvo la questione piuttosto formale del testamento. L'impazienza del giovane segretario era stata messa alquanto alla prova dall'etichetta professionale del vecchio avvocato. Ma quest'ultimo fu alla fine indotto, più dal tatto del prete che dall'autorità del poliziotto, ad astenersi dal fare un mistero là dove non c'era alcun mistero. Il signor Dyke ammise, con un sorriso, che il testamento dell'ammiraglio era un documento molto normale e ordinario, che lasciava tutto alla sua unica [[Child|figlia]], Olive; e che non c'era davvero alcuna ragione particolare per nascondere il fatto.

@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/scandal-fr-brown-(chesterton)">scandal Fr Brown</a> › <a href="/testi/chesterton/atomized/scandal_fr_brown/story_11_the_vampire_of_the_village">Story 11 The Vampire of the Village</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/scandal_fr_brown/story_10_the_insoluble_problem/part_06">‹ part 06</a><a class="ex-next" href="/testi/chesterton/atomized/scandal_fr_brown/story_11_the_vampire_of_the_village/part_02">part 02 ›</a></div>
@@ -122,3 +124,44 @@ Miss Carstairs - Carew; âwe do not visit her.â'
 '[[Well]], her seclusion is considered suspicious. She annoys them by being
 good - looking and even what is called good style. And all the young men
 are warned against her as a vamp.'
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/scandal-fr-brown-(chesterton)">scandal Fr Brown</a> › <a href="/testi/chesterton/atomized/scandal_fr_brown/story_11_the_vampire_of_the_village">Story 11 The Vampire of the Village</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/scandal_fr_brown/story_10_the_insoluble_problem/part_06">‹ part 06</a><a class="ex-next" href="/testi/chesterton/atomized/scandal_fr_brown/story_11_the_vampire_of_the_village/part_02">part 02 ›</a></div>
+</nav>
+
+NONO: Il vampiro del villaggio
+
+Alla svolta di un sentiero fra le colline, dove due pioppi si ergevano come piramidi rimpicciolendo il minuscolo villaggio di Potter's Pond, un semplice grumo di case, camminava un tempo un uomo in un costume dal taglio e dal colore assai vistosi, che indossava una sgargiante marsina color magenta e un cappello bianco inclinato su neri riccioli ambrosiaci, i quali terminavano con una specie di svolazzo byroniano di basetta.
+
+L'[[Riddle|enigma]] del perché egli indossasse abiti di così stravagante antichità, eppure li portasse con un'aria di moda e persino di spavalderia, non era che uno dei molti enigmi che alla fine vennero risolti risolvendo il mistero del suo destino. Il punto qui è che, quando ebbe oltrepassato i pioppi, sembrò essersi dileguato; come se si fosse dissolto nella pallida e crescente [[Dawn|alba]] o fosse stato portato via dal [[Wind|vento]] del mattino.
+
+Fu solo circa una settimana dopo che il suo [[Body|corpo]] venne ritrovato a un quarto di miglio di distanza, spezzato sulle ripide rocciaglie di un [[Garden|giardino]] a terrazze che saliva verso una tetra [[house|casa]] dalle imposte serrate, chiamata The Grange. Poco prima di scomparire, era stato per caso udito mentre pareva litigare con alcuni astanti, e in particolare insultare il loro villaggio come «un misero [[Hamlet|borghetto]]»; e si suppose che avesse suscitato qualche estremo furore di patriottismo locale e ne fosse infine rimasto vittima. Perlomeno il medico del luogo testimoniò che il cranio aveva subìto un colpo tale da poter causare la [[Death|morte]], benché probabilmente inferto soltanto con una specie di clava o randello. Ciò si accordava abbastanza [[Well|bene]] con l'idea di un'aggressione da parte di zotici piuttosto feroci. Ma nessuno riuscì mai a trovare il modo di rintracciare uno zotico in particolare; e l'inchiesta emise un verdetto di omicidio a opera di ignoti.
+
+Un anno o due dopo la questione fu riaperta in modo curioso; una serie di eventi che condusse un certo dottor Mulborough, chiamato dagli intimi Mulberry, con appropriata allusione a qualcosa di ricco e succoso nella sua scura rotondità e nella faccia piuttosto imporporata, a viaggiare in treno fino a Potter's Pond, con un amico che aveva spesso consultato su problemi di quel genere. A dispetto dell'esteriore alquanto vinoso e ponderoso del dottore, egli aveva un occhio acuto ed era davvero uomo di notevolissimo buon senso; il che riteneva di dimostrare consultando un piccolo prete di nome Brown, la cui conoscenza aveva fatto molto tempo prima in occasione di un caso di avvelenamento. Il piccolo prete gli sedeva di fronte, con l'aria di un paziente lattante che assorbe insegnamenti; e il dottore andava spiegando per esteso le vere ragioni del [[Journey|viaggio]].
+
+«Non posso concordare con il gentiluomo dalla marsina magenta che Potter's Pond sia soltanto un misero [[Hamlet|borghetto]]. Ma è certamente un villaggio molto remoto e appartato; tanto da sembrare del tutto forestiero, come un villaggio di cent'anni fa. Le zitelle sono davvero zitelle — accidenti, si potrebbe quasi immaginare di vederle filare al fuso. Le signore non sono semplici signore. Sono gentildonne; e il loro chimico non è un chimico, ma uno speziale; pronunciato spziale. Ammettono, sì, l'esistenza di un dottore ordinario come me, ad assistere lo speziale. Ma io sono considerato un'innovazione piuttosto giovanile, perché ho solo cinquantasette anni e sono nella contea da appena ventotto. Il notaio ha l'aria di conoscerla da ventottomila anni. Poi c'è il vecchio Ammiraglio, che è proprio come un'illustrazione di Dickens; con una [[house|casa]] piena di sciabole e di seppie e provvisto di un cannocchiale.»
+
+«Immagino,» disse [[Father Brown]], «che ci sia sempre un certo numero di Ammiragli sospinti a riva. Ma non ho mai capito perché finiscano arenati tanto nell'entroterra.»
+
+«Di certo nessun luogo morto-vivo nelle profondità della campagna è completo senza una di queste creaturine,» disse il dottore. «E poi, naturalmente, c'è il tipo appropriato di ecclesiastico; Tory e di Alta Chiesa in una foggia polverosa che risale all'arcivescovo Laud; più vecchia comare di qualsiasi vecchia comare. È un vecchio uccello studioso dai capelli bianchi, più facile a scandalizzarsi delle zitelle stesse. Anzi, le gentildonne, benché puritane nei loro princìpi, sono talvolta piuttosto schiette nel parlare; come lo erano i veri puritani. Una volta o due ho sentito la vecchia Miss Carstairs-Carew usare espressioni vivaci come qualunque cosa nella [[Bible|Bibbia]]. Il caro vecchio ecclesiastico è assiduo nel leggere la [[Bible|Bibbia]]; ma quasi immagino che chiuda gli occhi quando arriva a quelle parole. [[Well|Insomma]], sa che io non sono particolarmente moderno. Non mi diverte tutto questo jazzare e sfrecciare in automobile dei Bright Young Things...»
+
+«I Bright Young Things non se ne divertono affatto,» disse [[Father Brown]]. «È questa la vera [[Tragedy|tragedia]].»
+
+«Ma io sono naturalmente un po' più in contatto col mondo che non la gente di questo villaggio preistorico,» proseguì il dottore. «Ed ero giunto a un punto in cui quasi accolsi con favore il Grande Scandalo.»
+
+«Non mi dica che i Bright Young Things hanno scoperto Potter's Pond, dopotutto,» osservò il prete, sorridendo.
+
+«Oh, persino il nostro scandalo segue vecchie e consolidate linee melodrammatiche. C'è bisogno che dica che a darci il problema è, per l'appunto, il figlio dell'ecclesiastico? Sarebbe quasi irregolare, se il figlio dell'ecclesiastico fosse del tutto regolare. Per quanto posso vedere, è molto blandamente e quasi fiaccamente irregolare. È stato visto la prima volta a bere birra fuori dal Blue [[Lion]]. Solo che pare sia un poeta, il che da quelle parti è la porta accanto all'essere un bracconiere.»
+
+«Certo,» disse [[Father Brown]], «neppure a Potter's Pond questo può essere il Grande Scandalo.»
+
+«No,» rispose gravemente il dottore. «Il Grande Scandalo cominciò così. Nella [[house|casa]] chiamata The Grange, posta all'estremità di The Grove, vive una signora. Una Signora Solitaria. Si fa chiamare Mrs Maltravers (così, almeno, la mettiamo noi); ma è arrivata soltanto un anno o due fa e nessuno sa nulla di lei. "Non riesco a immaginare perché voglia vivere qui," disse Miss Carstairs-Carew; "noi non le facciamo visita."»
+
+«Forse è proprio per questo che vuole vivere là,» disse [[Father Brown]].
+
+«[[Well|Ebbene]], il suo isolamento è ritenuto sospetto. Li irrita per il fatto di essere di bell'aspetto e persino di quello che si chiama buon stile. E tutti i giovanotti vengono messi in guardia contro di lei come contro una vamp.»

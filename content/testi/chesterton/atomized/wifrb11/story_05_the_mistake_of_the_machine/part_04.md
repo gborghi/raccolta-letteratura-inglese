@@ -131,7 +131,7 @@ you'd never had any vices of your own."
 
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/works/wifrb11-(chesterton)">The Wisdom of Father Brown</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/wifrb11-(chesterton)">The Wisdom of Father Brown</a> › <a href="/testi/chesterton/atomized/wifrb11/story_05_the_mistake_of_the_machine">Story 05 The Mistake of the Machine</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/wifrb11/story_05_the_mistake_of_the_machine/part_03">‹ part 03</a><a class="ex-next" href="/testi/chesterton/atomized/wifrb11/story_05_the_mistake_of_the_machine/part_05">part 05 ›</a></div>
 </nav>
 

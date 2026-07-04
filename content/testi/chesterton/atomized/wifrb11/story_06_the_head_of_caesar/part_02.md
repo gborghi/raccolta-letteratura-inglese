@@ -165,7 +165,7 @@ Nature and the Carstairs Collection had come to grips at last.
 
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/works/wifrb11-(chesterton)">The Wisdom of Father Brown</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/wifrb11-(chesterton)">The Wisdom of Father Brown</a> › <a href="/testi/chesterton/atomized/wifrb11/story_06_the_head_of_caesar">Story 06 The Head of Caesar</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/wifrb11/story_06_the_head_of_caesar/part_01">‹ part 01</a><a class="ex-next" href="/testi/chesterton/atomized/wifrb11/story_06_the_head_of_caesar/part_03">part 03 ›</a></div>
 </nav>
 

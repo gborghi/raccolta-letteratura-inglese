@@ -573,6 +573,10 @@ End of this Project Gutenberg Etext of The Wisdom of [[Father Brown]]
 <div class="excerpt-crumb">Chesterton · <a href="/works/wifrb11-(chesterton)">The Wisdom of Father Brown</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/wifrb11/story_11_the_strange_crime_of_john_boulnois">‹ Story 11 The Strange Crime of John Boulnois</a><a class="ex-next" href="/testi/chesterton/atomized/wifrb11/story_01_the_absence_of_mr_glass/part_01">part 01 ›</a></div>
 </nav>
+<nav class="excerpt-children">
+<div class="excerpt-children-label">In questa sezione</div>
+<ul><li><a href="/testi/chesterton/atomized/wifrb11/story_12_the_fairy_tale_of_father_brown/part_01">Part 1</a></li><li><a href="/testi/chesterton/atomized/wifrb11/story_12_the_fairy_tale_of_father_brown/part_02">Part 2</a></li><li><a href="/testi/chesterton/atomized/wifrb11/story_12_the_fairy_tale_of_father_brown/part_03">Part 3</a></li><li><a href="/testi/chesterton/atomized/wifrb11/story_12_the_fairy_tale_of_father_brown/part_04">Part 4</a></li><li><a href="/testi/chesterton/atomized/wifrb11/story_12_the_fairy_tale_of_father_brown/part_05">Part 5</a></li></ul>
+</nav>
 
 # [[wifrb11]] — La fiaba di [[Father Brown|Padre Brown]]
 

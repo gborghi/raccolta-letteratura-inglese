@@ -150,7 +150,7 @@ It is a ray of daylight, because it comes from outside.'
 
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/works/incredulity-(chesterton)">Incredulity</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/incredulity-(chesterton)">Incredulity</a> › <a href="/testi/chesterton/atomized/incredulity/story_07_the_doom_of_the_darnaways">Story 07 The Doom of the Darnaways</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/incredulity/story_07_the_doom_of_the_darnaways/part_06">‹ part 06</a><a class="ex-next" href="/testi/chesterton/atomized/incredulity/story_07_the_doom_of_the_darnaways/part_08">part 08 ›</a></div>
 </nav>
 

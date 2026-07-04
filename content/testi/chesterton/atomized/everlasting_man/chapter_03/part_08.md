@@ -124,7 +124,7 @@ of the Roman Empire or even on the existence of the world.
 
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/works/everlasting-man-(chesterton)">The Everlasting Man</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/everlasting-man-(chesterton)">The Everlasting Man</a> › <a href="/testi/chesterton/atomized/everlasting_man/chapter_03">Chapter 03</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/everlasting_man/chapter_03/part_07">‹ part 07</a><a class="ex-next" href="/testi/chesterton/atomized/everlasting_man/chapter_03/part_09">part 09 ›</a></div>
 </nav>
 

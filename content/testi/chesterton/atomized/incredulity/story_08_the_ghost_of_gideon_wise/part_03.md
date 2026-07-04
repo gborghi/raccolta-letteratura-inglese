@@ -128,7 +128,7 @@ And you know it's God [[Truth|truth]] as [[Well|well]] as I do.'
 
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/works/incredulity-(chesterton)">Incredulity</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/incredulity-(chesterton)">Incredulity</a> › <a href="/testi/chesterton/atomized/incredulity/story_08_the_ghost_of_gideon_wise">Story 08 The Ghost of Gideon Wise</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/incredulity/story_08_the_ghost_of_gideon_wise/part_02">‹ part 02</a><a class="ex-next" href="/testi/chesterton/atomized/incredulity/story_08_the_ghost_of_gideon_wise/part_04">part 04 ›</a></div>
 </nav>
 

@@ -145,7 +145,7 @@ you can all guess who they were.'
 
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/works/incredulity-(chesterton)">Incredulity</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/incredulity-(chesterton)">Incredulity</a> › <a href="/testi/chesterton/atomized/incredulity/story_04_the_miracle_of_moon_crescent">Story 04 The Miracle of Moon Crescent</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/incredulity/story_04_the_miracle_of_moon_crescent/part_07">‹ part 07</a><a class="ex-next" href="/testi/chesterton/atomized/incredulity/story_04_the_miracle_of_moon_crescent/part_09">part 09 ›</a></div>
 </nav>
 

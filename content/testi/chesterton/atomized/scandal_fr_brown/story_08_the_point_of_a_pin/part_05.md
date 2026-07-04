@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/scandal-fr-brown-(chesterton)">scandal Fr Brown</a> › <a href="/testi/chesterton/atomized/scandal_fr_brown/story_08_the_point_of_a_pin">Story 08 The Point of a Pin</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/scandal_fr_brown/story_08_the_point_of_a_pin/part_04">‹ part 04</a><a class="ex-next" href="/testi/chesterton/atomized/scandal_fr_brown/story_09_i_mean_it_s_easy_to_say_you_ve_thrown_it/part_01">part 01 ›</a></div>
@@ -103,3 +105,54 @@ dead,' snorted the young man impatiently.
 
 [[Father Brown]] blinked thoughtfully and then said: 'A [[River|river]] is a good
 place to hide an imaginary [[Body|body]]. It's a rotten bad place to hide a real
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/scandal-fr-brown-(chesterton)">scandal Fr Brown</a> › <a href="/testi/chesterton/atomized/scandal_fr_brown/story_08_the_point_of_a_pin">Story 08 The Point of a Pin</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/scandal_fr_brown/story_08_the_point_of_a_pin/part_04">‹ part 04</a><a class="ex-next" href="/testi/chesterton/atomized/scandal_fr_brown/story_09_i_mean_it_s_easy_to_say_you_ve_thrown_it/part_01">part 01 ›</a></div>
+</nav>
+
+Era evidente che Sand provava qualcosa di raccapricciante di fronte alle fantasiose immagini del prete; se perché le trovava incomprensibili o perché cominciava a comprenderle.
+
+«Vede», disse [[Father Brown]], rivoltando lentamente la vestaglia mentre parlava, «non ci si aspetta che un uomo scriva con la sua migliore calligrafia quando la incide su un albero. E se l'uomo non fosse l'uomo, se mi spiego... Ehilà!»
+
+Stava guardando la vestaglia rossa, e per un istante parve che un po' del rosso gli si fosse staccato sul dito; ma entrambi i volti rivolti verso di essa erano già di una sfumatura più pallida.
+
+«[[Blood|Sangue]]!» disse [[Father Brown]]; e per un istante vi fu un silenzio mortale salvo per i melodiosi rumori del [[River|fiume]].
+
+Henry Sand si schiarì la gola e il naso con rumori che non erano affatto melodiosi. Poi disse piuttosto rauco: «[[Blood|Sangue]] di chi?»
+
+«Oh, mio», disse [[Father Brown]]; ma non sorrise.
+
+Un momento dopo disse: «C'era uno spillo in questa cosa e mi sono punto. Ma non credo che lei colga bene il punto... il punto dello spillo, io sì»; e si succhiò il dito come un [[Child|bambino]].
+
+«Vede», disse dopo un altro [[Silence|silenzio]], «la vestaglia era ripiegata e fermata con uno spillo; nessuno avrebbe potuto dispiegarla, per lo meno senza pungersi. In parole povere, [[Hubert]] Sand non ha mai indossato questa vestaglia. Non più di quanto [[Hubert]] Sand abbia mai scritto su quell'albero. O si sia annegato in quel [[River|fiume]].»
+
+Il pince-nez inclinato sul naso indagatore di Henry cadde con uno scatto; ma per il resto egli rimase immobile, come irrigidito dalla sorpresa.
+
+«Il che ci riporta», proseguì [[Father Brown]] allegramente, «al gusto di qualcuno per lo scrivere la propria corrispondenza privata sugli alberi, come Hiawatha e la sua scrittura per immagini. Sand aveva tutto il [[Time|tempo]] che voleva, prima di annegarsi. Perché non ha lasciato un biglietto per sua moglie come una persona assennata? O, diciamo... Perché l'Altro Uomo non ha lasciato un biglietto per la moglie come una persona assennata? Perché avrebbe dovuto contraffare la calligrafia del marito; cosa sempre insidiosa ora che gli esperti sono così ficcanaso al riguardo. Ma non ci si può aspettare che qualcuno imiti persino la propria calligrafia, [[Alone|tanto meno]] quella di un altro, quando intaglia lettere maiuscole nella corteccia di un albero. Questo non è un [[suicide|suicidio]], signor Sand. Se è qualcosa, è un omicidio.»
+
+La felce e i cespugli del sottobosco scricchiolarono e crepitarono mentre il grosso giovane si [[Rose|levò]] da essi come un leviatano, e restò in piedi accigliato, col collo tozzo proteso in avanti.
+
+«Non sono bravo a nascondere le cose», disse, «e sospettavo a metà qualcosa del genere... me l'aspettavo, si potrebbe dire, da molto [[Time|tempo]]. A dire la [[Truth|verità]], riuscivo a stento a essere cortese con quel tale... con entrambi, se è per questo.»
+
+«Che cosa intende esattamente?» chiese il prete, guardandolo gravemente dritto in faccia.
+
+«Intendo», disse Henry Sand, «che lei mi ha mostrato l'omicidio e io credo di poterle mostrare gli assassini.»
+
+[[Father Brown]] tacque e l'altro proseguì piuttosto a scatti.
+
+«Lei ha detto che la gente talvolta scriveva messaggi d'[[Love|amore]] sugli alberi. [[Well|Ebbene]], di fatto, ce ne sono alcuni su quell'albero; ci sono due specie di monogrammi intrecciati insieme lassù sotto le [[Leaves|foglie]]... suppongo lei sappia che Lady Sand era l'erede di questo luogo molto prima di sposarsi; e conosceva quel maledetto damerino di segretario già a quei tempi. Scommetto che si incontravano qui e scrivevano i loro voti sull'albero degli appuntamenti. Pare che in seguito abbiano usato l'albero degli appuntamenti per un altro scopo. Sentimento, senza [[Doubt|dubbio]], o economia.»
+
+«Devono essere persone davvero orribili», disse [[Father Brown]].
+
+«Non ci sono forse state persone orribili nella [[history|storia]] o nella cronaca nera?» domandò Sand con una certa eccitazione. «Non ci sono forse stati [[lovers|amanti]] che hanno reso l'[[Love|amore]] più orribile dell'odio? Non sa nulla di Bothwell e di tutte le sanguinose leggende di simili [[lovers|amanti]]?»
+
+«Conosco la leggenda di Bothwell», rispose il prete. «So anche che è del tutto leggendaria. Ma naturalmente è vero che dei mariti sono stati talvolta tolti di mezzo così. A proposito, dove è stato tolto di mezzo lui? Voglio dire, dove hanno nascosto il [[Body|corpo]]?»
+
+«Suppongo che lo abbiano annegato, o gettato nell'[[Water|acqua]] quand'era morto», sbuffò il giovane con impazienza.
+
+[[Father Brown]] sbatté pensieroso le palpebre e poi disse: «Un [[River|fiume]] è un buon posto per nascondere un [[Body|corpo]] immaginario. È un pessimo posto per nascondere un vero

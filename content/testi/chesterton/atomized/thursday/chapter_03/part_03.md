@@ -155,7 +155,7 @@ of [[Clock|clock]]-work suddenly started again--
 
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/works/thursday-(chesterton)">The Man Who Was Thursday</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/thursday-(chesterton)">The Man Who Was Thursday</a> › <a href="/testi/chesterton/atomized/thursday/chapter_03">Chapter 03</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/thursday/chapter_03/part_02">‹ part 02</a><a class="ex-next" href="/testi/chesterton/atomized/thursday/chapter_03/part_04">part 04 ›</a></div>
 </nav>
 

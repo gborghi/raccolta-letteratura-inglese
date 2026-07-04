@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/charlesdickens-(chesterton)">CharlesDickens</a> › <a href="/testi/chesterton/atomized/charlesdickens/chapter_11">Chapter 11</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/charlesdickens/chapter_11/part_03">‹ part 03</a><a class="ex-next" href="/testi/chesterton/atomized/charlesdickens/chapter_11/part_05">part 05 ›</a></div>
@@ -126,3 +128,125 @@ fierce certainties and battles between good and ill--his own.  Oh yes,
 the life we do not care about may easily be a psychological [[Comedy|comedy]].
 Other people's lives may easily be human documents.
 But a man's own life is always a [[Melodrama|melodrama]]."
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/charlesdickens-(chesterton)">CharlesDickens</a> › <a href="/testi/chesterton/atomized/charlesdickens/chapter_11">Chapter 11</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/charlesdickens/chapter_11/part_03">‹ part 03</a><a class="ex-next" href="/testi/chesterton/atomized/charlesdickens/chapter_11/part_05">part 05 ›</a></div>
+</nav>
+
+Poiché, sebbene vi siano molti altri aspetti di «[[David Copperfield]]»,
+questo aspetto autobiografico è, in fin dei conti, il più grande.
+Il punto del libro è che, a differenza di tutti gli altri libri
+di Dickens, esso si occupa di attualità del tutto comuni, ma se ne
+occupa calorosamente e con simpatie battagliere.
+Non è soltanto insieme realistico e romantico; è realistico
+perché è romantico. È [[Nature|natura]] umana descritta con l'esagerazione
+umana. Conosciamo tutti i tipi reali del libro;
+non sono come i tipi turgidi e preternaturali che si trovano altrove
+in Dickens. Non sono creazioni puramente poetiche come il signor Kenwigs
+o il signor Bunsby. Sappiamo tutti che esistono. Conosciamo tutti
+la testarda e umoristica [[Nurse|balia]] all'antica, tanto convenzionale
+eppure tanto originale, tanto dipendente eppure tanto indipendente.
+Conosciamo tutti il patrigno invadente, l'astratto e strano maschio,
+rozzo, bello, imbronciato, di successo, un disgregatore di focolari.
+Conosciamo tutti l'eretta e sardonica zitella, la zitella
+tanto folle nelle piccole cose e tanto assennata nelle grandi.
+Conosciamo tutti il gallo della scuola; conosciamo tutti Steerforth,
+la creatura che gli dèi [[Love|amano]] e che perfino i servitori rispettano.
+Conosciamo la sua madre povera e aristocratica, tanto orgogliosa, tanto gratificata,
+tanto desolata. Conosciamo il tipo di Rosa Dartle, la donna solitaria
+in cui l'affetto stesso è ristagnato in una sorta di [[Poison|veleno]].
+
+Ma se questi sono personaggi reali, sono personaggi
+reali illuminati dai colori della giovinezza e della passione.
+Sono persone reali sentite romanticamente; vale a dire,
+sono persone reali sentite come le persone reali le sentono.
+Sono esagerate, come tutte le figure di Dickens: ma non sono
+esagerate come le personalità vengono esagerate da un [[Artist|artista]];
+sono esagerate come le personalità vengono esagerate dai loro
+stessi amici e nemici. Le anime forti sono vedute attraverso
+la gloriosa foschia delle emozioni che le anime forti realmente creano.
+Abbiamo Murdstone quale sarebbe a un ragazzo che lo odiasse; e giustamente,
+poiché un ragazzo lo odierebbe. Abbiamo Steerforth quale sarebbe
+a un ragazzo che lo adorasse; e giustamente, poiché un ragazzo lo adorerebbe.
+Può darsi che, se queste persone avessero avuto una mera esistenza terrena,
+apparissero ad altri occhi più insignificanti.
+Può darsi che Murdstone nella vita comune fosse solo un pesante uomo
+d'affari con un lato umano che David era troppo imbronciato per scoprire.
+Può darsi che Steerforth fosse solo un pollice o due più alto
+di David, e solo un'ombra o due al di sopra di lui nella piccola
+borghesia; ma ciò non rende il libro meno vero.
+Nel catalogare i fatti della vita l'autore non deve omettere
+quel massiccio fatto che è l'illusione.
+
+Quando diciamo che il libro è fedele alla vita dobbiamo precisare che è
+specialmente fedele alla giovinezza: persino alla fanciullezza. Tutti i personaggi sembrano
+un po' più grandi di quanto realmente fossero, poiché David li guarda dal basso.
+E le prime pagine del libro sono in particolare sorprendentemente vivide.
+Certe sue parti paiono frammenti della nostra infanzia dimenticata.
+La buia [[house|casa]] dell'[[Childhood|infanzia]], la [[Loneliness|solitudine]], le cose
+comprese a metà, la [[Nurse|balia]] con i suoi imperscrutabili musi e la sua ancor più
+imperscrutabile tenerezza, le improvvise deportazioni in luoghi lontani,
+la spiaggia e le sue puerili amicizie, tutto ciò si agita in noi
+quando lo leggiamo, come qualcosa di un'esistenza precedente.
+Soprattutto, Dickens ha eccellentemente raffigurato il [[Child|fanciullo]] intronizzato
+in quell'umile cerchia che solo negli anni successivi egli percepisce essere stata
+umile. Le persone moderne e colte, credo, hanno da ridire sul fatto
+che i loro figli frequentino la compagnia della cucina o siano istruiti da una donna
+come Peggotty. Ma certo è più importante essere educati al senso
+della dignità e dell'uguaglianza umana che a qualsiasi altra cosa al mondo.
+E un [[Child|fanciullo]] che una volta abbia dovuto rispettare una donna gentile e capace
+delle classi inferiori rispetterà le classi inferiori per sempre.
+Il vero modo di superare il male insito nella distinzione di classe non è
+denunciarla come la denunciano i rivoluzionari, ma ignorarla
+come la ignorano i fanciulli.
+
+La prima giovinezza di [[David Copperfield]] è psicologicamente quasi
+altrettanto ben resa della sua [[Childhood|fanciullezza]]. In un tocco specialmente Dickens trafisse
+il nucleo stesso della sensibilità della fanciullezza; fu quando rese
+David più spaventato da un domestico che da chiunque o da qualsiasi altra cosa.
+Il minaccioso Murdstone, la tremenda signora Steerforth non gli riescono altrettanto allarmanti
+quanto il signor Littimer, l'irreprensibile domestico del gentiluomo.
+Questo è squisitamente vero rispetto alle emozioni maschili, specialmente nel
+loro stato non sviluppato. Un giovane di comune [[Courage|coraggio]] non [[Fear|teme]]
+nulla di violento, ma ha un mortale [[Fear|timore]] di tutto ciò che è corretto.
+Questa può essere o non essere la ragione per cui tanto poche scrittrici
+comprendono i loro personaggi maschili, ma resta il fatto che quanto più
+sincero e appassionato e persino avventato è un ragazzo tanto più certo
+egli è di essere convenzionale. Quanto più ardito e libero appare tanto più
+le tradizioni del collegio o le regole del club lo tratterranno
+con i loro ceppi di ragnatela; e quanto meno teme
+i suoi nemici tanto più vilmente temerà i suoi amici.
+Qui sta invero il periodo più oscuro del nostro [[Doubt|dubbio]] e caos etico.
+Il [[Fear|timore]] è che, man mano che la morale diverrà meno urgente, le maniere diverranno
+più urgenti; e uomini che hanno dimenticato il [[Fear|timore]] di Dio manterranno il [[Fear|timore]]
+di Littimer. Sprofonderemo semplicemente in una schiavitù assai più meschina.
+Poiché quando infrangi le grandi leggi, non ottieni la libertà;
+non ottieni neppure l'anarchia. Ottieni le piccole leggi.
+
+Il pungiglione e la forza di questo brano di finzione, dunque,
+(per un raro accidente) risiedono nella circostanza che esso
+fu così largamente fondato su un fatto. «[[David Copperfield]]»
+è la grande risposta di un grande romanziere ai realisti.
+David dice in sostanza: «Come! voi dite che i racconti di Dickens
+sono troppo purpurei per essere davvero accaduti! Ebbene, questo è
+ciò che accadde a me, e mi parve il più purpureo di tutti.
+Voi dite che gli eroi di Dickens sono troppo belli e trionfanti!
+Ebbene, nessun principe o paladino dell'Ariosto fu mai così bello
+e trionfante quanto mi appariva il Capoclasse mentre camminava davanti a me
+nel sole. Voi dite che i malvagi di Dickens sono troppo neri! Ebbene,
+non c'era inchiostro nel calamaio del diavolo abbastanza nero per il mio
+patrigno quando dovevo vivere nella stessa [[house|casa]] con lui.
+I fatti stanno esattamente all'opposto di ciò che voi supponete.
+Questa vita di studi grigi e mezze tinte, la cui assenza
+voi rimpiangete in Dickens, è solo la vita così come la si guarda.
+Questa vita di eroi e malvagi è la vita così come la si vive.
+La vita che un uomo conosce meglio è esattamente la vita che egli trova più colma di
+fiere certezze e battaglie tra il bene e il male: la propria. Oh sì,
+la vita che non ci sta a cuore può essere facilmente una [[Comedy|commedia]] psicologica.
+Le vite altrui possono essere facilmente documenti umani.
+Ma la vita propria di un uomo è sempre un [[Melodrama|melodramma]]».

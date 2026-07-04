@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/charlesdickens-(chesterton)">CharlesDickens</a> › <a href="/testi/chesterton/atomized/charlesdickens/chapter_05">Chapter 05</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/charlesdickens/chapter_05/part_04">‹ part 04</a><a class="ex-next" href="/testi/chesterton/atomized/charlesdickens/chapter_06/part_01">part 01 ›</a></div>
@@ -124,3 +126,123 @@ he will be always "taken in."  To be taken in everywhere is to see
 the inside of everything.  It is the hospitality of circumstance.
 With torches and trumpets, like a guest, the greenhorn is taken
 in by Life.  And the sceptic is cast out by it.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/charlesdickens-(chesterton)">CharlesDickens</a> › <a href="/testi/chesterton/atomized/charlesdickens/chapter_05">Chapter 05</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/charlesdickens/chapter_05/part_04">‹ part 04</a><a class="ex-next" href="/testi/chesterton/atomized/charlesdickens/chapter_06/part_01">part 01 ›</a></div>
+</nav>
+
+Il «[[Pickwick]]», ho detto, è un [[Romance|romanzo]] d'avventura, e [[Samuel Pickwick]]
+è il romantico avventuriero.  Ciò è invero ovvio.
+Ma la strana e commovente scoperta che Dickens fece fu questa—
+che, avendo scelto un grasso vecchio delle classi medie come buona cosa
+di cui fare uno zimbello, egli trovò che un grasso vecchio delle classi
+medie è la cosa migliore in assoluto di cui fare un romantico avventuriero.
+Il «[[Pickwick]]» è supremamente originale in ciò, ch'è l'avventura d'un
+vecchio.  È una fiaba in cui il vincitore non è il più giovane
+dei tre fratelli, ma uno dei più vecchi dei loro zii.
+Il risultato è al tempo stesso nobile e nuovo e vero.  Non v'è nulla che tanto
+abbia bisogno di semplicità quanto l'avventura.  E non v'è nessuno che tanto
+possieda la semplicità quanto un onesto e attempato uomo d'affari.
+Per il [[Romance|romanzesco]] egli è migliore d'una schiera di giovani trovatori;
+poiché il gagliardo giovanotto anticipa le sue avventure,
+proprio come anticipa il suo reddito.  Di qui tanto le avventure
+quanto il reddito, quando egli li raggiunge, non ci sono.
+Ma un uomo nella tarda mezza età s'è avvezzato alle semplici necessità,
+e la sua prima vacanza è una seconda giovinezza.  Un uomo buono, come disse Thackeray
+con così piena e penetrante [[Truth|verità]], diviene più semplice man mano che invecchia.
+[[Samuel Pickwick]] in gioventù fu probabilmente un insopportabile giovane bellimbusto.
+Sapeva allora, o credeva di sapere, tutto sui trucchi da imbroglione
+di truffatori come Jingle.  Sapeva allora, o credeva di sapere, tutto sui
+disegni amorosi di scaltre signore come la signora Bardell.  Ma gli anni
+e la vita reale l'hanno sollevato da questa oziosa e malvagia conoscenza.
+Ha avuto l'alta fortuna, nel perdere le follie della gioventù, di perdere
+anche la saggezza della gioventù.  Dickens ha colto, in maniera al tempo stesso selvaggia
+e convincente, questa bizzarra [[innocence|innocenza]] del pomeriggio della vita.  Il tondo,
+lunare volto, i tondi occhiali [[Moon|lunari]] di [[Samuel Pickwick]]
+si muovono attraverso il racconto come emblemi d'una certa sferica semplicità.
+Sono fissati in quel [[Grave|grave]] stupore che si può scorgere nei bambini;
+quel [[Grave|grave]] stupore ch'è l'unica reale felicità possibile
+all'uomo.  Il tondo volto del [[Pickwick]] è come un tondo e onorevole [[Mirror|specchio]],
+in cui si riflettono tutte le fantasie dell'esistenza terrena;
+poiché lo stupore è, a rigore, l'unica specie di riflessione.
+Tutto ciò crebbe a poco a poco su Dickens.  È curioso richiamare alla mente
+il piano originale, il piano del Circolo Nembrot, e l'autore che doveva
+essere interamente occupato a giocare tiri birboni ai suoi personaggi.
+Egli aveva scelto (o qualcun altro aveva scelto) quel corpulento vecchio
+sempliciotto come persona peculiarmente adatta a cadere in botole,
+a scivolare su scivoli di burro, a lottare con letti a sacco,
+a essere rovesciato da carri e tuffato in stagni per [[Horse|cavalli]].  Ma Dickens,
+e Dickens soltanto, scoprì via via com'era adatto il grasso vecchio
+a soccorrere dame, a sfidare tiranni, a [[Dance|danzare]], a saltare, a sperimentare
+con la vita, a essere un deus ex machinâ e perfino un cavaliere errante.
+Dickens fece questa scoperta.  Dickens entrò nel Circolo [[Pickwick]]
+per schernire, e Dickens vi rimase a pregare.
+
+Molière e i suoi marchesi sono assai divertiti quando il signor Jourdain,
+il grasso vecchio borghese, scopre con delizia
+d'aver parlato in prosa per tutta la vita.  Mi sono spesso
+chiesto se Molière abbia visto come in questo fatto il signor Jourdain torreggi
+al di sopra di tutti loro e tocchi le [[Stars|stelle]].  Egli ha la freschezza
+di godere d'un fatto fresco, la freschezza di godere perfino d'uno vecchio.
+Può sentire che la cosa comune, la prosa, è una conquista
+come il verso; ed è una conquista come il verso;
+è il miracolo del linguaggio.  Può sentire il sottile
+sapore dell'[[Water|acqua]], e farselo rotolare sulla lingua come vino.
+La sua semplice [[Vanity|vanità]] e voracità, il suo [[Innocent|innocente]] [[Love|amore]] per il vivere,
+il suo ignorante [[Love|amore]] per il sapere, sono cose assai più piene di [[Romance|romanticismo]]
+della stanchezza e della fatuità dei ghignanti cavalieri.
+Quando consciamente parla in prosa, inconsciamente pensa in poesia.
+Sarebbe meglio per tutti noi se fossimo tanto consci
+che la cena è cena o che la vita è vita, quanto questo vero
+romantico era che la prosa è effettivamente prosa.  Il signor Jourdain è
+qui il tipo, il signor [[Pickwick]] è altrove il tipo, di questa
+cosa vera e trascurata, il [[Romance|romanticismo]] delle classi medie.
+È usanza nella nostra piccola epoca sogghignare sulle classi medie.
+Gli artisti cockney pretendono di trovare noiosa la borghesia,
+come se gli artisti avessero titolo alcuno per trovare noiosa alcunché.
+I decadenti parlano sprezzantemente delle sue convenzioni e dei suoi compiti prefissati;
+non viene loro mai in mente che le convenzioni e i compiti prefissati sono proprio il modo
+per conservare quel verde nell'erba e quel rosso nelle rose—
+che essi hanno perduto per sempre.  Stevenson, nel suo incomparabile
+«Portatori di lanterna», descrive l'estasi d'uno scolaro
+nel mero fatto d'abbottonare una lanterna cieca sotto un cupo
+soprabito.  Se desiderate quell'estasi dello scolaro,
+dovete avere il ragazzo; ma dovete avere anche la scuola.
+Le rigide occasioni e le ore definite sono proprio il profilo
+di quel godimento.  Un uomo come il signor [[Pickwick]] è stato a scuola
+per tutta la vita, e quando ne esce stupisce i giovani.
+Il suo cuore, come osserva quell'acuto psicologo, il signor Weller,
+era nato più tardi del suo [[Body|corpo]].  Si ricorderà che
+anche il signor [[Pickwick]], quando fu nella scappatella di Winkle e della signorina Allen,
+provò smodato piacere nelle prestazioni d'una lanterna cieca che
+non era abbastanza cieca, e non era che una seccatura per tutti.
+Anche la sua [[Soul|anima]] era coi ragazzi di Stevenson sulle grigie sabbie
+di Haddington, a parlare nel buio in riva al mare.  Anch'egli era
+della lega dei «Portatori di lanterna».  Stevenson, ricordo,
+dice che nelle botteghe di quella cittadina si potevano acquistare
+«Pickwick da un penny (quel notevole sigaro)».  Speriamo che li
+[[Hope|fumassero]], e che il rotondo [[Ghost|fantasma]] del [[Pickwick]] aleggiasse
+sopra gli anelli di fumo.
+
+[[Pickwick]] attraversa la vita con quella divina credulità che
+è la chiave di tutte le avventure.  Lo sprovveduto è l'ultimo
+vincitore in ogni cosa; è lui che ricava di più dalla vita.
+Poiché [[Pickwick]] è sviato da Jingle, sarà condotto alla
+Locanda del Cervo Bianco, e vedrà l'unico Weller lucidare stivali nel cortile.
+Poiché è raggirato da Dodson e Fogg, entrerà
+nella [[house|dimora]]-[[Prison|prigione]] come un paladino, e soccorrerà l'uomo e la donna
+che gli hanno fatto il torto più grande.  La sua [[Soul|anima]] non patirà mai fame di
+imprese o d'eccitazioni, chi è tanto saggio da lasciarsi fare [[Fool|sciocco]].
+Egli si renderà felice nelle trappole che gli sono state tese;
+si rotolerà nelle loro reti e vi [[Sleep|dormirà]].  Tutte le porte si spalancheranno
+a colui che ha una mitezza più temeraria del mero [[Courage|coraggio]].
+Il tutto è infallibilmente espresso in una fortunata frase—
+egli sarà sempre «gabbato».  Essere gabbati dappertutto è vedere
+l'interno d'ogni cosa.  È l'ospitalità della circostanza.
+Con torce e trombe, come un ospite, lo sprovveduto è accolto
+dentro dalla Vita.  E lo scettico ne è cacciato fuori.

@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/all-i-survey-(chesterton)">All I Survey</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/all_i_survey/chapter_39">‹ Chapter 39</a><a class="ex-next" href="/testi/chesterton/atomized/all_i_survey/chapter_41">Chapter 41 ›</a></div>
@@ -140,5 +142,144 @@ these periods always appear to us to be oppressive and inhuman.
 So that the age of the Bright Young Things may yet have to look
 forward to its own appearance in [[history]], as a type of tyranny
 and [[Slavery|slavery]] and stiff as the mummies of the dead.
+
+-*-
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/all-i-survey-(chesterton)">All I Survey</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/all_i_survey/chapter_39">‹ Chapter 39</a><a class="ex-next" href="/testi/chesterton/atomized/all_i_survey/chapter_41">Chapter 41 ›</a></div>
+</nav>
+
+
+XL
+
+_Sulle sopracciglia_
+
+NON seguo le mode; poco so di quel nuovo mondo sfrenato,
+dove le donne possono essere del tutto naturali costruendosi maschere di cerone,
+o dimostrare la propria [[Freedom|libertà]] attenendosi rigorosamente all'usanza.
+Divento consapevole, o semiconsapevole, di qualche mutamento nell'abito
+o nel contegno soltanto quando è ormai divenuto generale.  In questo modo,
+per esempio, mi è stato di recente rivelato che un altro mutamento
+si è compiuto nel volto umano.
+
+È già un luogo comune, suppongo, che l'ideale e
+immortale [[Lover|Innamorato]], quale lo concepì Shakespeare, «sospirando come una fornace,
+con una dolente ballata composta per il sopracciglio della sua signora», debba ora
+andarsene a sospirare per qualcos'altro.  La sua signora non ha più sopracciglia;
+e se ne potrebbe dedurre che egli non produrrà più ballate.
+Comunque sia, ciò suggerisce una sorta di duello metafisico tra
+l'[[Lover|Innamorato]] e il Poeta, piuttosto attraente per i poeti metafisici
+di quel periodo.  Il balladista si aggrapperebbe ancora
+alla sua ballata, inseguendo l'immagine astratta e archetipa
+di un Sopracciglio, anche quando questo fosse del tutto staccato da un volto?
+Preferirebbe il sopracciglio della dama alla dama stessa,
+abbandonandosi dietro il resto della dama come tanta ciarpame,
+e inseguendo soltanto quella peculiare visione di peli svaniti?
+Oppure compirebbe il sacrificio supremo di stracciare la ballata
+e mettersi con la dama, per quanto stranamente sfigurata,
+risolvendo d'ora innanzi di scrivere ballate soltanto sul suo naso,
+sulle sue orecchie, o su qualche parte di lei che sembrasse improbabile
+avesse alcuna immediata premura di tagliarsi via?
+Anche riguardo a quelle, s'intende, non potrebbe mai essere del tutto al sicuro,
+se l'amputazione fosse davvero di moda.
+
+In verità, a proposito di quella famosa frase, mi sono spesso chiesto perché
+i poeti moderni non si divertano più spesso a riprodurre
+l'immaginaria Ballata a un Sopracciglio.  Shakespeare è pieno di spunti
+che potrebbero servire da base a ogni sorta di giochi ed esperimenti;
+Browning accettò una simile sfida ampliando il suggestivo
+verso «Childe Roland to the Dark Tower came»; e il mio stesso padre,
+uomo di molte arti e passatempi che non aveva alcuna [[Ambition|ambizione]]
+di sfruttare, fabbricò un ornamento da tavola modellato in ogni dettaglio sui
+Tre Scrigni di [[Portia|Porzia]].  Certo qualcuno di noi potrebbe pur tentare
+un indirizzo davvero elisabettiano a quel superbo lineamento.
+Certo qualsiasi scrittore moderno, dopo aver sospirato come una fornace per
+qualche minuto, sarebbe in grado di attentare qualcosa di appropriato
+alla maniera del Cinquecento:
+
+Come Iride dai sette colori inarca le sfere, [[Love|Amore]] fece quel ponte
+che inarca i tuoi occhi Splendente come quell'arco pattuito nei cieli;
+un segno Contro il cristallino [[deluge|Diluvio]] delle tue [[Tears|lacrime]] Come linea su linea,
+così fronte a fronte appare ...
+
+A questo punto il poeta alza lo sguardo verso il sopracciglio della dama e
+scopre che è scomparso.  La penna gli cade dalle dita,
+e questo immortale [[Fragment|frammento]] (se posso così modestamente definirlo)
+rimane per sempre frammentario.  Shakespeare, specialmente lo Shakespeare
+dei Sonetti, sapeva più della maggior parte delle persone intorno alla legge
+del mutamento e della dissoluzione che si stende su tutte le cose terrene,
+anche su quelle che paiono le più naturali:
+
+  Poiché né bronzo, né pietra, né terra, né sconfinato mare,
+  Ma la triste [[Mortality|mortalità]] soverchia la loro potenza,
+  Come contro tale furia potrà la [[Beauty]] muovere una difesa,
+  Il cui operare non è più forte di un fiore.
+
+Cito a [[Memory|memoria]].  Comunque sia, neppure questo argomento ci costringe
+a un prematuro cogliere del fiore o a uno strappare via del sopracciglio.
+Ma, malgrado l'alquanto eccessiva preoccupazione di Shakespeare,
+in un certo periodo, per le immagini della [[Mutability|mutevolezza]] e della [[Mortality|mortalità]],
+seriamente [[Doubt|dubito]] che egli si aspettasse mai che sonetti
+o ballate a occhi, sopracciglia, orecchie, nasi e via dicendo dovessero mai
+divenire impossibili per una generale cancellazione di tali lineamenti.
+Ma ciò che è ancor più strano, e che a Shakespeare sarebbe parso
+strano davvero, è il fatto che questa negativa e distruttiva
+operazione abbia luogo in una società votata al piacere,
+e in un'epoca comunemente ritenuta ancor più pagana della sua.
+
+Poiché la vera morale è piuttosto interessante.  Sfido
+chiunque a negare che questa usanza, se non fosse stata adottata
+in nome dell'edonismo, sarebbe stata denunciata come orrenda ascesi.
+Si supponga che vent'anni fa, poniamo nel
+grande periodo del Suffragio, si fosse detto alla gente che in certe antiche società
+le donne erano costrette a radersi le sopracciglia dopo il [[Marriage|matrimonio]].
+Non sarebbe stata subito annoverata tra le crudeli
+deturpazioni imposte dalla [[Jealousy|gelosia]] maschile, come nelle mogli orientali
+costrette ad annerirsi i denti dopo il [[Marriage|matrimonio]]?
+Si supponga che qualche fanatico puritano avesse indignato
+dichiarato che le monache erano costrette a radersi le sopracciglia.
+L'avremmo mai smessa di sentir parlare dell'innaturale
+deturpazione del volto umano al comando della superstizione?
+Non l'avrebbero tutti quasi istintivamente collegata a
+Digiuni e Flagellanti?  Sarebbe mai venuto in mente ad alcuno
+di collegarla alla moda e al piacere?  Se qualcuno avesse detto
+alla Suffragetta che le donne dell'harem godevano nel farsi
+strappare i peli un pollice sopra i bulbi oculari, come avrebbe strillato,
+la Suffragetta, di scherno per la vile scusa maschile!
+Se qualcuno avesse detto al defunto signor Kensit che una moda di andare
+calvi sopra gli occhi fu iniziata per puro divertimento tra le monache
+e le novizie stesse, come avrebbe sbuffato d'[[Incredulity|incredulità]]!
+Eppure la moda è stata, a quanto pare, iniziata per puro
+divertimento tra le dame stesse; e si può presumere
+che essa piaccia loro.  Non m'importa granché che abbiano
+niente sopracciglia o tre sopracciglia, o sopracciglia verdi o triangolari,
+in quei circoli scelti dove simili cose presumibilmente hanno origine.
+Ma vi è un certo interesse intellettuale nel modo
+in cui esse paiono oggigiorno, in tanti casi, muovere
+nella direzione opposta a quella che normalmente si chiamerebbe
+la ricerca del piacere e della [[Beauty|bellezza]].
+
+In breve, l'unico vero interesse di una simile inezia è quello che la connette
+con alcune delle arti serie e delle scuole decorative dei nostri giorni.
+È, suppongo, un'inconsapevole espressione, parallela a molte altre
+espressioni siffatte, di un movimento artistico verso qualcosa che è
+più o meno severo e aspro e persino disumanizzato.  È parte
+di una tendenza a mutare le persone in motivi anziché in ritratti.
+Come reazione contro il deliquescente sentimentalismo che fu la fine
+dell'antico sentimento umanitario, è abbastanza comprensibile:
+ma è comprensibile più che lodevole.
+
+Comunque sia, una cosa è certa: che, per quanto molti periodi del
+passato posseggano una certa cupa e grandiosa solennità, attraverso la
+durezza degli aspetti esteriori o la matematica severità delle linee,
+tali periodi ci appaiono sempre opprimenti e disumani.
+Cosicché l'età dei Bright Young Things potrebbe ancora dover attendere
+la propria comparsa nella [[history|storia]], come un tipo di tirannia
+e di [[Slavery|schiavitù]], e rigida come le mummie dei morti.
 
 -*-

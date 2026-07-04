@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/all-i-survey-(chesterton)">All I Survey</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/all_i_survey/chapter_25">‹ Chapter 25</a><a class="ex-next" href="/testi/chesterton/atomized/all_i_survey/chapter_27">Chapter 27 ›</a></div>
@@ -139,5 +141,143 @@ This new quality of forgetfulness, in our current culture,
 does give some justification to the pessimism of the German professor;
 and if we accept such oblivion, then doubtless our "cycle"
 will really curl up like a worm on the floor and lie still for ever.
+
+-*-
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/all-i-survey-(chesterton)">All I Survey</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/all_i_survey/chapter_25">‹ Chapter 25</a><a class="ex-next" href="/testi/chesterton/atomized/all_i_survey/chapter_27">Chapter 27 ›</a></div>
+</nav>
+
+XXVI
+
+_Sul passato contiguo_
+
+QUASI subito dopo la fine della Grande Guerra un tedesco scrisse
+un libro di gran successo, o assai clamorosamente lanciato, intitolato _Il tramonto
+dell'Occidente_. L'inferenza più umana (a parere di molti)
+era che il tedesco, avendo assistito allo spettacolo del tramonto
+e della caduta dell'Impero germanico, desiderasse naturalmente che tutti gli altri
+tramontassero e cadessero con lui.
+Sentiva che sarebbe stata evidentemente
+una mancanza di gusto e di tatto che una nazione qualsiasi prosperasse, se la [[Germany|Germania]]
+era tramontata; ammesso, del resto, che egli fosse anche solo consapevole dell'esistenza
+di lembi del suo Impero quali la Francia o le Fiandre o l'Inghilterra.
+Comunque sia, egli applicò la sua dottrina a tutto ciò che vi è di più vivo
+nella nostra civiltà, sia che siamo così fatti da chiamarla
+razza indo-germanica, sia che preferiamo chiamarla Cristianità.
+Ma in questa sua teoria di un crollo generale c'era qualcosa di più;
+e cioè anche una teoria di un crollo ricorrente. In questo,
+davvero, e nella sua idea generale di una fase moderna di declino,
+la sua tesi era assai ragionevole ed esposta in modo molto persuasivo.
+Ma ad essa era legato un altro ordine di idee che non sono
+necessariamente parte alcuna della teoria, né che le civiltà
+si indeboliscano periodicamente né che la nostra civiltà si sia indebolita
+nella nostra epoca. Quelle due tesi possono ben [[Well|essere]] vere;
+ma la tesi del libro era falsa.
+
+Per me, almeno, era falsa perché fatalista;
+falsa perché antistorica; e falsa perché implicava
+una particolare falsità intorno allo spirito stesso della grande cultura
+che il critico criticava. È il punto essenziale di quella
+cultura l'essere stata continua; ed era il punto essenziale
+del critico che essa fosse stata discontinua e sconnessa.
+Non si accontentava di dire che le civiltà ruotano in
+cicli separati, nel senso in cui si potrebbe dire che noi apparteniamo
+a una civiltà diversa da quella dei Druidi. Egli fece a pezzi la comune
+[[history|storia]] europea in blocchi che si supponeva non avessero più
+da spartire fra loro di quanto ne abbiano la [[history|storia]] cinese e la [[history|storia]] azteca.
+Egli tagliò in due, nel bel mezzo, la comune [[history|storia]] cristiana,
+per negare che l'una o l'altra parte fosse cristiana.
+Per quanto ricordo, egli attribuì la prima metà
+interamente agli Arabi musulmani, perché non erano cristiani;
+e la seconda metà a gente del tipo di [[Faust]],
+perché erano cristiani piuttosto sospetti, e per giunta tedeschi
+[[Well|anche]]. E parlava di queste divisioni come se fossero
+simili agli abissi che potrebbero separare uno strato pieno
+di cristalli primordiali da uno strato, eoni più tardi,
+contenente le prime fantastiche tracce di vita marsupiale.
+
+Ora, sono del tutto certo, per puro buon senso,
+che la [[history|storia]] della Cristianità, o anche solo la [[history|storia]] d'Europa,
+non fu mai così frammentaria. Noi siamo assai più legati
+agli antichi Greci di quanto lo scrittore tedesco ci concederebbe
+di esserlo ai medievali più tardi, o persino ai moderni più antichi.
+Il genere di distinzione da lui suggerito si verifica soltanto
+quando un ciclo di civiltà muore davvero, e allora
+si fossilizza e resta imperscrutabile come un'ammonite.
+Non abbiamo idea di quale fosse la religione dei Cro-Magnon,
+benché deduciamo da certe raffigurazioni di danze rituali
+(così [[Well|come]] dal nostro stesso buon senso) che ne avessero una.
+Non conosciamo il significato delle Pietre a Coppella e Anello,
+benché i fortunati e civili tra noi usino ancora anelli,
+come nel caso delle fedi nuziali, o coppe persino nel senso di
+coppe di vino. Non sappiamo nemmeno se interpretiamo rettamente quei segni,
+né se siano affatto segni. Ora, gli dèi greci non sono
+mai morti a quel modo; e l'Impero romano non è mai morto
+del tutto. Fra le più moderne città industriali d'Inghilterra,
+molte recano nel loro stesso nome il titolo del Campo Romano;
+e ovunque sorgesse il Campo Romano, là sorse in seguito
+la [[Cathedral|Cattedrale]] cristiana. Non vi fu mai un solo istante,
+nella lunga [[history|storia]] da Erodoto al Signor Spengler, in cui tutti
+gli uomini che contavano in un'epoca non parlassero della Caduta di Troia;
+non vi fu mai una generazione in cui i giovani poeti non facessero
+di quell'antica vicenda un tema per nuove [[Poems|poesie]]. Mi [[Wonder|domando]] se una poesia
+di Heredia su Antonio, o una poesia di Morris su [[Arthur|Artù]],
+appartenga al morto periodo greco o al morto periodo arabo.
+Non vi fu mai una generazione in cui i poeti non invocassero Virgilio,
+non fosse che per imitarlo. Non vi fu mai una generazione in cui
+i filosofi non si riferissero ad Aristotele, non fosse che per contraddirlo.
+Il filo della nostra continuità culturale non si è mai spezzato.
+
+Penso valga la pena di registrare il fatto, in questo momento, per due ragioni.
+La prima è che il medesimo energico autore tedesco ha
+lanciato ancora un altro libro, di molto minore dignità e di molto
+maggiore dogmatismo, riaffermando la sua teoria, e specialmente le parti più
+tetre e barbariche di essa. L'altra è che vi è
+una orribile possibilità che ciò che egli dice falsamente sul nostro
+passato possa dirsi veramente sul nostro presente e sul nostro futuro.
+Voglio dire che, fino ad oggi, gli uomini della nostra antica tradizione hanno
+fatto di tutto tranne che dimenticare. Per quanto fanatico
+o squilibrato potesse esservi nelle loro religioni o nelle loro rivoluzioni,
+essi ebbero ciascuno, a turno, particolare cura di ricordare
+le gesta dei loro padri. Perfino quando avvelenarono il più puro
+Paganesimo di Omero e di Pindaro, non lo distrussero;
+lo lasciarono ritto per sempre contro di sé come un rimprovero.
+Perfino quando detronizzarono gli dèi greci, non li congedarono;
+nel primo giusto furore li denunciarono come demoni,
+ma alla lunga li lasciarono rimanere come elfi.
+Li lasciarono rimanere come figure fantasiose e favolose,
+per la metafora letteraria o la decorazione plastica, sicché la Cristianità
+ha lasciato la ninfa nella poesia o il cupido nella scultura.
+È vero che ora, per la prima [[Time|volta]], la stirpe che ha
+sempre ricordato è invitata da ogni parte a dimenticare.
+
+Sì; è vero che oggi, per la prima [[Time|volta]], i nostri giornali e i nostri
+nuovi politici ci hanno chiesto di dimenticare, non ciò che accadde mille
+anni fa o cent'anni fa, ma ciò che accadde vent'anni fa.
+Quando si tratta di cambiare una politica o di riabilitare
+un politico, ci chiederanno di dimenticare ciò che accadde due anni fa
+o due mesi fa. Qui, davvero, abbiamo il grande Sistema Spengleriano,
+della totale separazione di un episodio storico da un altro.
+Ecco il vero trucco di considerarci divisi da eoni
+e da abissi, non solo dai nostri padri, ma da noi stessi.
+Così, leggendo il quotidiano ogni giorno, e dimenticando
+tutto ciò che diceva il giorno prima, possiamo dividere l'umana
+[[history|storia]] in cicli [[Self|autoconclusi]]; ciascuno costituito, non di cinque
+secoli, ma di ventiquattr'ore. Con questo mezzo possiamo
+considerare il politico in cui riponemmo fiducia la settimana scorsa come consideriamo l'uomo delle [[Cave|caverne]]
+le cui incisioni non riuscimmo a decifrare in cent'anni.
+Con questo mezzo possiamo considerare gli slogan e le politiche
+spavalde che noi stessi acclamammo solo di recente, come se
+fossero geroglifici indecifrabili al pari delle Pietre a Coppella e Anello.
+Questa nuova qualità della dimenticanza, nella nostra cultura odierna,
+dà davvero qualche giustificazione al pessimismo del professore tedesco;
+e se accettiamo tale oblio, allora senza dubbio il nostro «ciclo»
+si arrotolerà davvero come un verme sul pavimento e giacerà immobile per sempre.
 
 -*-

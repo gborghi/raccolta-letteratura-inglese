@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/common-man-(chesterton)">Common Man</a> › <a href="/testi/chesterton/atomized/common_man/story_12_the_new_groove">Story 12 The New Groove</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/common_man/story_12_the_new_groove/part_02">‹ part 02</a><a class="ex-next" href="/testi/chesterton/atomized/common_man/story_14_rabelaisian_regrets/part_01">part 01 ›</a></div>
@@ -82,3 +84,81 @@ because I do not want to go on by the cheap train to Utopia.
 I want to go where I like.  I want to stop where I like.
 I want to know the width as [[Well|well]] as the length of the world;
 and to wander off the railway-track in the ancient plains of liberty.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/common-man-(chesterton)">Common Man</a> › <a href="/testi/chesterton/atomized/common_man/story_12_the_new_groove">Story 12 The New Groove</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/common_man/story_12_the_new_groove/part_02">‹ part 02</a><a class="ex-next" href="/testi/chesterton/atomized/common_man/story_14_rabelaisian_regrets/part_01">part 01 ›</a></div>
+</nav>
+
+Lo stesso vale per tutte le frasi fatte già in circolazione,
+allo scopo di difendere qualsiasi stravaganza, anche prima che esista.
+Così tutti hanno familiarità con la frase che l'arte
+non è fotografia, e che solo alla fotografia si richiede
+d'essere realistica.  Tutti hanno familiarità con la frase,
+e nessuno ha familiarità con le falle o gli errori della frase.
+In verità nulla è meno realistico della fotografia.
+Fin dall'inizio essa è tagliata via da ogni realtà esattamente come la scultura
+di marmo è tagliata via dalla realtà, per il fatto d'essere convenzionalmente incolore;
+per il divorzio della grande [[Union|unione]] ottica di colore e forma.
+Ma non è davvero realistica nemmeno riguardo alla forma.  Ciò che essa
+riproduce più o meno realisticamente sono la luce e l'ombra,
+e la luce spesso falsa la forma e sempre falsa il colore.
+Se vogliamo la vera forma, essa dev'essere disegnata per noi più o meno
+astrattamente da un disegnatore; e quando è così disegnata da Leonardo
+o Michelangelo, non la si può liquidare come fotografica, non più
+che come «graziosa-graziosa». Il moderno [[Artist|artista]] potrà avere le sue ragioni
+per disegnare gambe come fossero cuscini o salsicce; ma ciò non
+fa delle robuste linee spazzanti, dell'osso in pendio o del muscolo che si tende,
+in un grande disegno fiorentino, una piatta riproduzione meccanica,
+di valore solo come la volgare istantanea di un fatto banale.
+Quelle linee sono forti e belle, come sono belle le linee della cascata e
+del gorgo.  Anzi, sono esattamente come le belle
+forme astratte che il moderno [[Artist|artista]] vorrebbe inventare—
+se potesse.
+
+Ho preso soltanto questo unico tipo, il discorso sulle nuove scuole d'arte,
+per illustrare ciò che intendo dicendo che il mondo ha tanta
+fretta d'esser nuovo da non soffermarsi nemmeno sulle verità
+della nuova scuola, [[Alone|non che]] su quelle della vecchia.  Del milione di uomini
+e donne che hanno udito quelle due frasi, quanti hanno udito
+qualche frase della fraseologia e [[philosophy|filosofia]] opposta?
+Voglio dire, qualcuna che offra una difesa filosofica dell'altra [[philosophy|filosofia]]?
+Di tutti coloro cui è stato detto (in modo alquanto superfluo)
+che Epstein non pretende d'esser grazioso, quanti hanno udito
+quella difesa della civiltà, in cui la sua forza stessa si mostra
+nell'essere capace di allevare, librare e proteggere la grazia?
+La ciclopica massiccità stessa delle fondamenta della [[City|città]]
+è provata al meglio dal fatto che nessun terremoto può scuotere la statuetta
+d'avorio sul piedistallo o la pastorella di porcellana sulla mensola.
+Quanti hanno considerato l'argomento più antico, di una cultura che
+è sufficientemente atletica da poter essere elegante?  O, per prendere un altro esempio,
+quanti hanno compreso gli argomenti scientifici e psicologici
+in favore dell'antichità stessa?  Di tutti coloro che rammentano d'essersi sentiti dire
+d'ammirare un quadro moderno, semplicemente perché è ancora più dissimile
+dalla vita di quanto lo sia una fotografia, o di essersi sentiti dire d'ammirare la poesia moderna,
+per nessun'altra ragione se non che è più prosaica dello slang—
+di tutti costoro, quanti ricordano anche solo la giusta osservazione fatta tempo fa
+da [[Oliver]] Wendell Holmes; che i grandi poeti latini in realtà crescono
+più grandi a forza d'esser citati di continuo; che le parole in realtà
+crescono unite insieme col [[Time|tempo]], come fanno le parti di un violino stagionato?
+Non dico che la [[Truth|verità]] stia tutta dalla parte della tradizione;
+dico soltanto che la pubblicità sta tutta dalla parte dell'innovazione.
+Fino alla recente ascesa del gruppo umanista in [[America]],
+quasi nessuno, nemmeno delle classi colte, possedeva anche solo
+il vocabolario per una difesa della tradizione.  Le parole stesse in uso,
+la struttura stessa delle frasi, il tono ordinario di tutta la
+stampa pubblica, m'impedivano di usare gli argomenti reali e ragionevoli
+contro la mera novità.  L'Inghilterra, per quanto strano,
+possiede un vocabolario umanista operante ancor minore dell'[[America]].
+Anche qui l'etica giornalistica operante è stata troppo sfrondata
+e semplificata in poche idee grezze, di attività commerciale
+o di continua [[Reform|riforma]].  Sarò completamente frainteso se mi
+si suppone in cerca di un biglietto di ritorno per Atene o per l'Eden;
+perché non voglio proseguire sul treno a basso costo verso l'Utopia.
+Voglio andare dove mi piace.  Voglio fermarmi dove mi piace.
+Voglio conoscere la larghezza [[Well|non meno]] che la lunghezza del mondo;
+e vagabondare fuori dai binari nelle antiche pianure della libertà.

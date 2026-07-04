@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/common-man-(chesterton)">Common Man</a> › <a href="/testi/chesterton/atomized/common_man/story_12_the_new_groove">Story 12 The New Groove</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/common_man/story_11_giotto_and_st_francis/part_04">‹ part 04</a><a class="ex-next" href="/testi/chesterton/atomized/common_man/story_12_the_new_groove/part_02">part 02 ›</a></div>
@@ -110,3 +112,109 @@ There was something, in the tone of the whole thing, that prevented
 even mere fancy from breaking away in any other direction;
 or wondering, even vainly, if it could ever carry a [[Castle|castle]] like an
 elephant or a figurehead like a [[Ship|ship]].
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/common-man-(chesterton)">Common Man</a> › <a href="/testi/chesterton/atomized/common_man/story_12_the_new_groove">Story 12 The New Groove</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/common_man/story_11_giotto_and_st_francis/part_04">‹ part 04</a><a class="ex-next" href="/testi/chesterton/atomized/common_man/story_12_the_new_groove/part_02">part 02 ›</a></div>
+</nav>
+
+IL NUOVO BINARIO
+
+Il poeta Tennyson, da buon vittoriano, dovette scrivere
+buona parte delle sue [[Poems|poesie]] in treno; giacché viaggiare in ferrovia
+era l'invenzione e l'istituzione capitale della sua epoca.  Anzi, confessa
+d'aver composto la poesia di Lady Godiva mentre attendeva il treno;
+e, a giudicare dalla cura con cui è costruito il [[Blank Verse|verso sciolto]], il treno
+doveva essere in grandissimo ritardo.  Ma vi sono altri versi tennysoniani
+che Tennyson sembra aver scritto mentre dormiva in treno.
+Hanno quella singolare mescolanza di confusione e tintinnìo familiare
+a chi va a [[Sleep|dormire]] in treno e non avverte se non il ritmo metallico
+delle ruote che si fonde con i più informi e insensati [[Dreams|sogni]].
+Fu in un simile momento di sonno profondo che Lord Tennyson
+compose le parti più progressive e profetiche di Locksley Hall;
+e ciò è chiaramente provato dal fatto convincente, anzi schiacciante, che
+uno dei versi recita davvero, letteralmente:
+
+Che il gran mondo per sempre ruoti giù pei binari sonanti del mutamento.
+
+Gli psicologi troveranno interessante il curioso spostamento delle parole
+e il disordine delle idee che caratterizzano le frasi coniate
+in [[A Dream|un sogno]].  All'intelligenza comune e desta le parole parrebbero
+prive di senso.  I binari non mutano; non necessariamente risuonano;
+non fanno neppure sonare le campane a distesa.  Ma, come chi dorme in un
+vagone ferroviario mormora, nell'urto del risveglio, qualche frase
+che tradisce un segreto che da sveglio avrebbe probabilmente celato;
+per esempio che viaggia in prima classe con un biglietto di terza,
+o che il cadavere di un creditore è nascosto sotto il sedile—
+così Tennyson, in questo straordinarissimo verso, tradì davvero
+il segreto, e persino il delitto, del proprio mondo
+intellettuale e di gran parte del mondo che è venuto dopo di lui.
+
+Poiché ciò che affligge quasi tutto quel che si fa chiamare mente
+moderna sono semplicemente i binari; e la nostra abitudine ad accontentarci
+dei binari, perché ci si dice che sono binari del mutamento.
+Ed è, come dico, un fatto rivelatore che perfino quando il poeta moderno
+vuole descrivere il mutamento, perfino quando vuole glorificare il mutamento,
+lo descriva pur sempre d'istinto come un binario.
+È un marchio impresso su gran parte del mondo moderno,
+fin dagli albori dell'epoca meccanica e industriale.
+Ma ebbe la sua prima e più netta forma in questa concezione fissa
+del viaggiare in ferrovia.  Si noti in particolare che diciamo
+che la mente moderna è incanalata in un binario piuttosto che in un solco.
+Il solco era un termine usato comunemente per la traccia d'un carro; ai tempi semplici
+in cui non mettevamo il carro davanti al [[Horse|cavallo]].  Quando davanti a noi
+andava una cosa vivente, c'era qualcosa di [[Doubt|incertezza]], d'avventura o d'esitazione
+nelle tracce che essa lasciava, anche se poi diventavano binari per altri.
+V'erano strane curve nel cammino di chi aggiogava il proprio carro anche
+a un [[Horse|cavallo]], e non aveva ancora barattato i cavalli per la cavalleria a vapore.
+V'erano talora tracce assai selvagge e fantastiche in quello di chi
+aggiogava il proprio carro a una stella.  Ma, a prescindere da tali figure
+o fantasie, la peculiarità essenziale del binario è che non vi può
+esser nulla di nuovo in esso, salvo che ci porti in luoghi nuovi,
+o magari ci faccia oltrepassare luoghi nuovi, a una [[Speed|velocità]] del tutto nuova.
+È questo l'essenziale di ciò che intendo per incanalamento moderno;
+che la sua unica forma di progresso è andare sempre più veloci lungo
+una sola linea in una sola direzione.  Non ha la curiosità di fermarsi,
+né il [[Courage|coraggio]] avventuroso di andare all'indietro.
+
+Prendiamo, per chiarezza, questo caso familiare del
+treno ferroviario. La [[history|storia]] della locomotiva a vapore è stata spesso
+presentata in tutte le sue fasi di perfezionamento; l'evoluzione
+del treno moderno dai primi rozzi modelli del Puffing Billy.
+Ma la macchina non produsse altro che macchine sempre più veloci;
+e il punto essenziale è che nessuno si aspettò mai che facesse altro.
+Nessuno, nemmeno in un volo di fantasia, si domandò se si sarebbe sviluppata
+in qualche altra direzione, all'infuori della direzione del proprio binario.
+Per esempio, nessuno suggerì mai che potesse sviluppare un proprio
+tipo di architettura, così che la costruzione delle carrozze
+fosse come la costruzione dei templi o dei municipi. Eppure ci sarebbero
+potute [[Well|benissimo]] essere quattro o cinque scuole d'architettura
+per il disegno dei treni, come ve ne sono per il disegno dei templi.
+Sarebbe una piacevole fantasia se lo stile architettonico del treno
+variasse secondo il paese che attraversa o visita.
+La Pennsylvania Railway Station a [[New York]] è un'opera d'architettura
+nobile e seria; ed è davvero una sorta di saluto alla
+grande [[City|città]] di Filadelfia, verso la quale sono rivolte le sue porte.
+Sarebbe potuto [[Well|benissimo]] accadere che ciò che fu fatto per
+la stazione si facesse per la locomotiva; e che il disegno stesso
+e il colore del veicolo variassero a seconda che esso andasse
+verso le vecchie città francesi o le pianure dei Pellirosse;
+verso le nevi dell'Alaska o gli aranceti della Florida.
+Anzi, credo che vi sarebbe stato molto simbolismo poetico in un
+centinaio di forme, probabilmente custodite da riti e dedicate a dèi
+o a santi patroni, se fosse accaduto che la locomotiva a vapore
+fosse stata scoperta dagli antichi Greci o dai cristiani medievali,
+e non dai Filistei del [[Time|tempo]] vittoriano.  Ma il punto
+è questo: che nessuno pensò mai a simili cose; e certamente
+nessuno pensò di saggiare il progresso del treno con simili prove.
+V'era una sola prova per il treno, ed era la prova del binario;
+della levigatezza del binario; della rettitudine del binario;
+della rapidità con cui esso correva lungo il binario.
+V'era qualcosa, nel tono dell'intera faccenda, che impediva
+perfino alla mera fantasia di svincolarsi in qualsiasi altra direzione;
+o di chiedersi, sia pure invano, se non avrebbe mai potuto portare un [[Castle|castello]] come un
+elefante o una polena come una [[Ship|nave]].

@@ -152,7 +152,7 @@ as the great church above them.
 
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/works/innocence-(chesterton)">The Innocence of Father Brown</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/innocence-(chesterton)">The Innocence of Father Brown</a> › <a href="/testi/chesterton/atomized/innocence/story_09_the_hammer_of_god">Story 09 The Hammer of God</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/innocence/story_09_the_hammer_of_god/part_02">‹ part 02</a><a class="ex-next" href="/testi/chesterton/atomized/innocence/story_09_the_hammer_of_god/part_04">part 04 ›</a></div>
 </nav>
 

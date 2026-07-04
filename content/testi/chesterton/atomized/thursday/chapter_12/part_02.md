@@ -154,7 +154,7 @@ smoke behind it, and Syme had heard a shot shriek past his ear.
 
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/works/thursday-(chesterton)">The Man Who Was Thursday</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/thursday-(chesterton)">The Man Who Was Thursday</a> › <a href="/testi/chesterton/atomized/thursday/chapter_12">Chapter 12</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/thursday/chapter_12/part_01">‹ part 01</a><a class="ex-next" href="/testi/chesterton/atomized/thursday/chapter_12/part_03">part 03 ›</a></div>
 </nav>
 

@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/scandal-fr-brown-(chesterton)">scandal Fr Brown</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/scandal_fr_brown/story_01_the_scandal_of_father_brown">‹ Story 01 The Scandal of Father Brown</a><a class="ex-next" href="/testi/chesterton/atomized/scandal_fr_brown/story_03_the_blast_of_the_book">Story 03 The Blast of the Book ›</a></div>
@@ -871,3 +873,881 @@ that big shining breast - pin.'
 'You mean because it was sham?' asked Greenwood doubtfully.
 
 'Oh, no; because it was genuine,' said [[Father Brown]].
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/scandal-fr-brown-(chesterton)">scandal Fr Brown</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/scandal_fr_brown/story_01_the_scandal_of_father_brown">‹ Story 01 The Scandal of Father Brown</a><a class="ex-next" href="/testi/chesterton/atomized/scandal_fr_brown/story_03_the_blast_of_the_book">Story 03 The Blast of the Book ›</a></div>
+</nav>
+<nav class="excerpt-children">
+<div class="excerpt-children-label">In questa sezione</div>
+<ul><li><a href="/testi/chesterton/atomized/scandal_fr_brown/story_02_the_quick_one/part_01">Part 1</a></li><li><a href="/testi/chesterton/atomized/scandal_fr_brown/story_02_the_quick_one/part_02">Part 2</a></li><li><a href="/testi/chesterton/atomized/scandal_fr_brown/story_02_the_quick_one/part_03">Part 3</a></li><li><a href="/testi/chesterton/atomized/scandal_fr_brown/story_02_the_quick_one/part_04">Part 4</a></li><li><a href="/testi/chesterton/atomized/scandal_fr_brown/story_02_the_quick_one/part_05">Part 5</a></li><li><a href="/testi/chesterton/atomized/scandal_fr_brown/story_02_the_quick_one/part_06">Part 6</a></li><li><a href="/testi/chesterton/atomized/scandal_fr_brown/story_02_the_quick_one/part_07">Part 7</a></li><li><a href="/testi/chesterton/atomized/scandal_fr_brown/story_02_the_quick_one/part_08">Part 8</a></li></ul>
+</nav>
+
+DUE: Lo Svelto
+
+La strana storia degli sconosciuti male assortiti si ricorda ancora lungo
+quel tratto di costa del Sussex, dove il grande e tranquillo albergo detto
+il Maypole and Garland guarda, oltre i propri giardini, verso il mare. Due
+figure stranamente assortite entrarono davvero in quel tranquillo albergo
+in quel pomeriggio assolato; l'una cospicua nel sole, e visibile lungo
+tutta la spiaggia, per il fatto di portare un lucente turbante verde,
+che incorniciava un volto bruno e una barba nera; l'altra sarebbe parsa
+a taluni ancora più stramba e sinistra, per via del molle cappello nero
+da ecclesiastico, dei baffi biondi e dei capelli biondi lunghi come una
+criniera leonina. Costui almeno era stato spesso visto predicare sulla
+sabbia o dirigere le funzioni della Band of [[Hope]] con una piccola vanga
+di legno; solo che di sicuro non lo si era mai visto entrare nel bar di un
+albergo. L'arrivo di questi curiosi compari fu il culmine della storia, ma
+non il suo principio; e, per rendere quanto più chiara possibile una storia
+alquanto misteriosa, è meglio cominciare dal principio.
+
+Mezz'ora prima che quelle due figure cospicue entrassero nell'albergo, e
+venissero notate da tutti, altre due figure assai poco cospicue vi erano
+pure entrate, e non erano state notate da nessuno. Uno era un uomo grosso,
+e bello di una bellezza pesante, ma aveva la dote di occupare pochissimo
+spazio, come uno sfondo; soltanto un esame quasi morbosamente sospettoso
+dei suoi stivali avrebbe rivelato a chiunque che era un Ispettore di Polizia
+in borghese; in borghese dimessissima. L'altro era un ometto scialbo e
+insignificante, anch'egli in abiti dimessi, se non che i suoi abiti erano
+di taglio clericale; ma nessuno lo aveva mai visto predicare sulla sabbia.
+
+Anche questi viaggiatori si ritrovarono in una sorta di ampia sala per
+fumatori con annesso il bar, per una ragione che determinò tutti gli
+avvenimenti di quel tragico pomeriggio. La [[Truth|verità]] è che il rispettabile
+albergo detto il Maypole and Garland era in fase di «rimessa a nuovo».
+Quanti in passato lo avevano amato erano indotti a dire che lo stavano
+rimettendo a terra; o forse rimettendo del tutto. Tale era l'opinione del
+brontolone locale, il signor Raggley, l'eccentrico vecchio signore che
+sedeva in un angolo bevendo cherry brandy e imprecando. Comunque sia, lo si
+stava accuratamente spogliando di ogni traccia sparsa che indicasse che era
+stato un tempo una locanda inglese; e lo si andava alacremente trasformando,
+metro per metro e stanza per stanza, in qualcosa che somigliava al finto
+palazzo di un usuraio levantino in un film americano. Insomma, lo si stava
+«decorando»; ma l'unica parte in cui la decorazione fosse compiuta, e in
+cui i clienti potessero ancora essere sistemati con qualche agio, era questa
+grande sala che si apriva sull'atrio. Un tempo era stata onorevolmente nota
+come Sala del Bar ed era ora misteriosamente nota come Saloon Lounge, ed era
+stata da poco «decorata» alla maniera di un divano asiatico. Ché l'ornamento
+orientale pervadeva il nuovo assetto; e dove un tempo pendeva a due ganci
+un fucile, e stampe di caccia e un pesce impagliato in una teca di vetro,
+c'erano adesso festoni di drappeggi orientali e trofei di scimitarre,
+tulwar e yatagan, quasi in inconsapevole preparazione all'arrivo del
+signore col turbante. Il punto pratico, tuttavia, era che i pochi ospiti
+effettivamente giunti dovevano essere sospinti in questa sala, ora spazzata
+e adorna, perché tutte le parti più regolari e raffinate dell'albergo erano
+ancora in stato di transizione. Forse era anche questa la ragione per cui
+persino quei pochi ospiti venivano un po' trascurati, essendo il direttore
+e gli altri occupati altrove in spiegazioni o esortazioni. Comunque sia, i
+primi due viaggiatori giunti dovettero battere i tacchi per un certo
+[[Time|tempo]] senza essere serviti. Il bar era in quel momento del tutto vuoto,
+e l'Ispettore suonò e batté con impazienza sul bancone; ma il piccolo prete
+si era già lasciato cadere in una poltrona e non pareva aver fretta di
+nulla. Anzi, il suo amico poliziotto, girando il capo, vide che il volto
+tondo del piccolo ecclesiastico era diventato completamente vacuo, come gli
+capitava talvolta; pareva fissare, attraverso i suoi occhiali lunari, la
+parete appena decorata.
+
+«[[Well|Tanto vale]] che vi offra un soldo per i vostri pensieri», disse l'Ispettore
+Greenwood, voltandosi dal bancone con un sospiro, «visto che nessuno pare
+volere i miei soldi per nient'altro. Questa sembra l'unica stanza della
+[[house|casa]] che non sia piena di scale e di calce; ed è tanto vuota che non c'è
+nemmeno un garzone che mi porti un boccale di birra.»
+
+«Oh... i miei pensieri non valgono un soldo, [[Alone|tanto meno]] un boccale di
+birra», rispose l'ecclesiastico, forbendosi gli occhiali. «Non so perché...
+ma stavo pensando a quanto sarebbe facile commettere un omicidio qui.»
+
+«Voi potete [[Well|ben]] dirlo, [[Father Brown]]», disse l'Ispettore con bonaria
+allegria. «Avete avuto molti più omicidi della vostra giusta parte; e noi
+poveri poliziotti passiamo la vita affamati, anche solo di un omicidio da
+poco. Ma perché mai dovreste dire... Oh, capisco, state guardando tutti
+quei pugnali turchi appesi al muro. Ci sono cose in abbondanza per
+commettere un omicidio, se è questo che intendete. Ma non più che in una
+qualunque cucina: coltelli da trinciare o attizzatoi o che so io. Non è lì
+che sta l'intoppo di un omicidio.»
+
+[[Father Brown]] parve richiamare i suoi pensieri vaganti con un certo
+smarrimento; e disse che supponeva di sì.
+
+«L'omicidio è sempre facile», disse l'Ispettore Greenwood. «Non può esserci
+al mondo nulla di più facile dell'omicidio. Potrei ammazzarvi in questo
+istante, più facilmente di quanto riesca a farmi servire da bere in questo
+maledetto bar. L'unica difficoltà è commettere un omicidio senza
+compromettersi come assassino. È questa ritrosia nel confessare un
+omicidio; è questa sciocca modestia degli assassini riguardo ai propri
+capolavori a creare il guaio. Si intestardiscono su questa straordinaria
+idea fissa di uccidere la gente senza essere scoperti; ed è questo che li
+trattiene, persino in una stanza piena di pugnali. Altrimenti ogni bottega
+di coltellinaio sarebbe piena di cadaveri. E questo, per inciso, spiega
+l'unica specie di omicidio che davvero non si può impedire. Ed è per questo,
+naturalmente, che noi poveri sbirri veniamo sempre incolpati di non averlo
+impedito. Quando un pazzo assassina un [[King|re]] o un Presidente, non lo si
+può impedire. Non si può far vivere un [[King|re]] in una cantina del carbone, né
+portarsi in giro un Presidente in una cassa d'acciaio. Chiunque non abbia
+riguardo a diventare assassino può ucciderlo. È in questo che il pazzo è
+simile al martire: come al di là di questo mondo. Un vero fanatico può
+sempre uccidere chi gli pare.»
+
+Prima che il prete potesse rispondere, una gioiosa brigata di commessi
+viaggiatori irruppe nella stanza come un branco di focene; e il magnifico
+muggito di un uomo grande e raggiante, con una spilla da cravatta
+altrettanto grande e raggiante, fece accorrere il direttore, sollecito e
+ossequioso, come un cane al fischio, con una prontezza che la polizia in
+borghese non era riuscita a ispirare.
+
+«Sono davvero mortificato, signor Jukes», disse il direttore, che sfoggiava
+un sorriso alquanto agitato e un'onda o ricciolo di capelli lucidissimi di
+brillantina sulla fronte. «Al momento siamo un po' a corto di personale; e
+ho dovuto occuparmi di una cosa nell'albergo, signor Jukes.»
+
+Il signor Jukes fu magnanimo, ma in maniera chiassosa; e ordinò da bere per
+tutti, concedendone un bicchiere persino al direttore quasi servile. Il
+signor Jukes era rappresentante di una ditta di vini e liquori assai famosa
+e alla moda; e poteva essersi immaginato come il capo di diritto in un
+luogo simile. Comunque sia, attaccò un monologo turbolento, incline
+piuttosto a insegnare al direttore come mandare avanti il suo albergo; e gli
+altri parevano accettarlo come un'autorità. Il poliziotto e il prete si
+erano ritirati su una bassa panca e a un tavolino sullo sfondo, da cui
+osservavano gli eventi, fino a quel momento alquanto notevole in cui il
+poliziotto dovette intervenire in modo assai risoluto.
+
+Ché la cosa che accadde in seguito, come già narrato, fu la sbalorditiva
+apparizione di un asiatico bruno con un turbante verde, accompagnata dalla
+(se possibile) ancor più sbalorditiva apparizione di un ministro
+anticonformista; presagi come ne compaiono davanti a una sciagura. In
+questo caso non ci fu alcun [[Doubt|dubbio]] sulla testimonianza del portento. Un
+ragazzo taciturno ma attento, intento da un'ora a pulire i gradini (essendo
+un lavoratore senza fretta), il bruno, grasso e corpulento addetto al bar,
+persino il diplomatico ma distratto direttore, tutti resero testimonianza
+del miracolo.
+
+Le apparizioni, come dicono gli scettici, erano dovute a cause del tutto
+naturali. L'uomo dalla criniera di capelli biondi e dagli abiti
+semiclericali non era noto soltanto come predicatore sulla sabbia, ma come
+propagandista in tutto il mondo moderno. Non era altri che il reverendo
+David Pryce-[[Jones]], il cui slogan risuonava lontano: Proibizione e
+[[Purification|Purificazione]] per la Nostra Terra e per le Britannie d'Oltremare. Era
+un eccellente oratore e organizzatore pubblico; e gli era venuta un'idea
+che sarebbe dovuta venire ai proibizionisti già da un pezzo. Era la
+semplice idea che, se la Proibizione è giusta, un qualche [[Honour|onore]] è dovuto
+al [[Prophet|Profeta]] che fu forse il primo proibizionista. Aveva intrattenuto
+corrispondenza con i capi del pensiero religioso maomettano, e aveva
+finalmente indotto un illustre musulmano (uno dei cui nomi era Akbar e il
+resto un'intraducibile ululazione di Allah con i suoi attributi) a venire in
+Inghilterra a tenere conferenze sull'antico divieto musulmano del vino.
+Nessuno dei due era stato di certo, prima d'allora, nel bar di una [[house|locanda]]
+pubblica; ma vi erano giunti per il procedimento già descritto; scacciati dalle
+raffinate sale da tè, sospinti nel saloon appena decorato. Probabilmente
+tutto sarebbe andato per il [[Well|meglio]], se il grande proibizionista, nella
+sua [[innocence|innocenza]], non si fosse avanzato al bancone a chiedere un bicchiere di
+latte.
+
+I commessi viaggiatori, benché fossero una razza bonaria, emisero
+involontari suoni di [[Pain|dolore]]; si udì un mormorio di frizzi soffocati, come
+«Fuggi la coppa» o «Meglio portar fuori la mucca». Ma il magnifico signor
+Jukes, sentendosi in dovere, per la sua ricchezza e la sua spilla da
+cravatta, di produrre un [[Humour|umorismo]] più raffinato, si sventolò come chi stia
+per svenire, e disse in tono patetico: «Sanno che basterebbe una piuma a
+buttarmi giù. Sanno che un soffio mi porterebbe via. Sanno che il mio
+medico mi ha proibito questi colpi. E vengono a bere latte freddo a sangue
+[[Blood|freddo]], sotto i miei stessi occhi.»
+
+Il reverendo David Pryce-[[Jones]], avvezzo a trattare con i disturbatori
+nelle pubbliche adunanze, ebbe l'imprudenza di avventurarsi in rimostranze e
+recriminazioni, in quest'atmosfera tanto diversa e assai più popolare.
+L'orientale astemio si astenne dalla parola [[Well|non meno]] che dai liquori; e ne
+guadagnò di certo in dignità. Anzi, per quanto lo riguardava, la cultura
+musulmana riportò senza dubbio una silenziosa vittoria; era così
+palesemente più signore dei signori commercianti, che cominciò a sorgere
+una lieve irritazione contro il suo aristocratico distacco; e quando il
+signor Pryce-[[Jones]] prese ad accennarvi nell'argomentare, la tensione si
+fece davvero acutissima.
+
+«Vi domando, amici», disse il signor Pryce-[[Jones]], con ampi gesti da
+palcoscenico, «perché il nostro amico qui presente dà a noi cristiani
+l'esempio di un autentico [[Self|autocontrollo]] cristiano e di fratellanza? Perché
+sta qui come modello di vera [[Christianity|Cristianità]], di autentica raffinatezza, di
+genuino contegno signorile, in mezzo a tutti i litigi e i tumulti di luoghi
+come questo? Perché, quali che siano le differenze dottrinali tra noi,
+almeno nel suo suolo la mala pianta, il maledetto luppolo o la vite, non
+ha mai...»
+
+Fu in questo momento cruciale della controversia che John Raggley, la
+procellaria di cento tempeste di controversie, la faccia rossa, i capelli
+bianchi, l'antiquata tuba spinta all'indietro sulla nuca, il bastone
+roteante come una clava, entrò nella [[house|casa]] come un esercito invasore.
+
+John Raggley era generalmente considerato uno svitato. Era il genere d'uomo
+che scrive lettere ai giornali, le quali di regola non compaiono sui
+giornali; ma che compaiono poi come opuscoli, stampati (o mal stampati) a
+sue spese; e diffusi a un centinaio di cestini della carta straccia. Aveva
+litigato tanto con gli squire conservatori quanto con i Consigli di Contea
+radicali; odiava gli ebrei; e diffidava di quasi tutto ciò che si vende
+nelle botteghe, o persino negli alberghi. Ma dietro le sue fisime c'era un
+fondamento di fatti; conosceva la contea in ogni angolo e in ogni curioso
+particolare; ed era un osservatore acuto. Persino il direttore, un tal
+signor Wills, nutriva un ombroso rispetto per il signor Raggley, avendo
+naso per il genere di follia consentita ai possidenti; non già la
+prostrata reverenza che aveva per la gioviale magnificenza del signor
+Jukes, che era davvero buono per gli affari, ma almeno una disposizione a
+evitare di litigare col vecchio brontolone, in parte forse per [[Fear|paura]] della
+lingua del vecchio brontolone.
+
+«E voi vorrete il vostro solito, signore», disse il signor Wills,
+chinandosi e sogghignando attraverso il bancone.
+
+«È l'unica cosa decente che vi sia rimasta», sbuffò il signor Raggley,
+sbattendo giù il suo strano e antiquato cappello. «Che diavolo, a volte
+penso che l'unica cosa inglese rimasta in Inghilterra sia il cherry brandy.
+Il cherry brandy sa davvero di ciliegie. Sapreste trovarmi una birra che
+sappia di luppolo, o un sidro che sappia di mele, o un vino che abbia la
+più remota indicazione di essere fatto d'uva? C'è un'infernale truffa in
+corso, oggigiorno, in ogni locanda del paese, che in qualunque altro paese
+avrebbe suscitato una rivoluzione. Ho scoperto un paio di cose in
+proposito, ve lo garantisco. Aspettate che riesca a stamparle, e la gente
+si drizzerà a sedere. Se potessi impedire che il nostro popolo venga
+avvelenato con tutto questo pessimo bere...»
+
+Anche qui il reverendo David Pryce-[[Jones]] diede prova di una certa mancanza
+di tatto; sebbene fosse una virtù che quasi venerava. Ebbe l'imprudenza di
+tentare di stringere un'alleanza col signor Raggley, mediante una bella
+confusione tra l'idea del cattivo bere e l'idea che il bere sia cattivo.
+Ancora una volta si sforzò di trascinare nell'argomento il suo rigido e
+maestoso amico orientale, quale raffinato straniero superiore ai nostri
+rozzi costumi inglesi. Fu perfino tanto sciocco da parlare di una vasta
+visione teologica; e da menzionare infine il nome di Maometto, che fu
+riecheggiato in una sorta di esplosione.
+
+«Che Dio maledica la vostra [[Soul|anima]]!» ruggì il signor Raggley, con una
+visione teologica assai meno vasta. «Volete forse dire che gli inglesi non
+devono bere birra inglese, perché il vino fu proibito in un maledetto
+[[Desert|deserto]] da quel sudicio vecchio impostore di Maometto?»
+
+In un istante l'Ispettore di Polizia aveva raggiunto con una falcata il
+centro della stanza. Ché, l'istante prima, un notevole mutamento si era
+prodotto nel contegno del signore orientale, il quale fino allora era
+rimasto perfettamente immobile, con occhi fermi e lucenti. Ora egli
+procedette, come aveva detto il suo amico, a dare esempio di autentico
+[[Self|autocontrollo]] cristiano e di fratellanza raggiungendo la parete con un balzo
+di tigre, strappandone uno dei pesanti coltelli che vi pendevano e
+lanciandolo di schianto come un sasso da una fionda, sicché rimase
+conficcato vibrante nel muro esattamente mezzo pollice sopra l'orecchio del
+signor Raggley. Sarebbe rimasto senza dubbio conficcato vibrante nel signor
+Raggley, se l'Ispettore Greenwood non fosse giunto giusto in [[Time|tempo]] a
+strattonargli il braccio e deviarne la mira. [[Father Brown]] rimase seduto al
+suo posto, osservando la scena con gli occhi socchiusi e una piega di
+qualcosa che assomigliava quasi a un sorriso agli angoli della bocca, come
+se scorgesse qualcosa al di là della mera, momentanea violenza della lite.
+
+E allora la lite prese una piega curiosa; che forse non sarà compresa da
+tutti, finché uomini come il signor John Raggley non saranno compresi
+meglio di quanto lo siano ora. Ché il vecchio fanatico dalla faccia rossa
+era in piedi e rideva fragorosamente come se fosse la migliore barzelletta
+che avesse mai udito. Tutta la sua mordace maldicenza e la sua amarezza
+parevano essere svanite; ed egli guardava l'altro fanatico, che aveva
+appena tentato di assassinarlo, con una sorta di chiassosa benevolenza.
+
+«Che vi si accechino gli occhi», disse, «siete il primo uomo che incontro
+in vent'anni!»
+
+«Lo denunciate quest'uomo, signore?» disse l'Ispettore, con aria dubbiosa.
+
+«Denunciarlo, ma neanche per sogno», disse Raggley. «Gli offrirei da bere,
+se gli fosse permesso di bere. Non avevo alcun diritto di insultare la sua
+religione; e vorrei Dio che tutti voi puzzole aveste il fegato di uccidere
+un uomo, non dico per aver insultato la vostra religione, perché non ne
+avete alcuna, ma per aver insultato qualsiasi cosa... persino la vostra
+birra.»
+
+«Ora ci ha chiamati tutti puzzole», disse [[Father Brown]] a Greenwood, «pace
+e armonia paiono ristabilite. Vorrei che quel conferenziere astemio si
+facesse infilzare sul coltello del suo amico; è stato lui a combinare tutti
+i guai.»
+
+Mentre parlava, gli strani gruppi nella stanza stavano già cominciando a
+disperdersi; si era trovato modo di liberare la sala commerciale per i
+commessi viaggiatori, e questi vi si trasferirono, il garzone recando loro
+dietro su un vassoio un nuovo giro di bevande. [[Father Brown]] rimase un
+momento a contemplare i bicchieri lasciati sul bancone; riconoscendo subito
+il malaugurato bicchiere di latte, e un altro che sapeva di whisky; e poi
+si voltò giusto in [[Time|tempo]] per vedere il commiato fra quelle due curiose
+figure, fanatici d'Oriente e d'Occidente. Raggley era ancora ferocemente
+gioviale; c'era ancora qualcosa di un po' fosco e sinistro nel musulmano,
+il che era forse naturale; ma questi si accomiatò con [[Grave|gravi]] gesti di
+dignitosa [[Reconciliation|riconciliazione]]; e tutto lasciava indicare che la contesa era
+davvero finita.
+
+Una certa importanza, tuttavia, rimase legata, nella mente almeno di Padre
+Brown, al [[Memory|ricordo]] e all'interpretazione di quegli ultimi cortesi saluti tra
+i contendenti. Perché, cosa abbastanza curiosa, quando Padre Brown scese
+di buon mattino l'indomani, per compiere i suoi doveri religiosi nei
+dintorni, trovò il lungo bar del saloon, con la sua fantastica decorazione
+asiatica, colmo della bianca luce morta dell'alba, in cui ogni particolare
+era distinto; e uno dei particolari era il [[Body|corpo]] morto di John Raggley,
+piegato e schiacciato in un angolo della stanza, con il pesante pugnale
+ricurvo dall'impugnatura massiccia conficcato nel cuore.
+
+[[Father Brown]] risalì di sopra pian piano e chiamò il suo amico Ispettore;
+e i due rimasero accanto al cadavere, in una [[house|casa]] in cui nessun altro
+era ancora in movimento. «Non dobbiamo né presumere né schivare
+l'ovvio», disse Greenwood dopo un [[Silence|silenzio]], «ma è [[Well|bene]] ricordare,
+credo, ciò che vi dicevo ieri pomeriggio. È piuttosto strano, per inciso,
+che io l'abbia detto... ieri pomeriggio.»
+
+«Lo so», disse il prete, annuendo con uno sguardo da gufo.
+
+«Dicevo», osservò Greenwood, «che l'unica specie di omicidio che non
+possiamo impedire è l'omicidio da parte di qualcuno come un fanatico
+religioso. Quel tizio bruno probabilmente crede che, se lo impiccano, andrà
+dritto in Paradiso per aver difeso l'[[Honour|onore]] del [[Prophet|Profeta]].»
+
+«C'è anche questo, naturalmente», disse [[Father Brown]]. «Sarebbe assai
+ragionevole, per così dire, da parte del nostro amico musulmano averlo
+pugnalato. E potete dire che non conosciamo ancora nessun altro che
+potesse, con qualche ragionevolezza, averlo pugnalato. Ma... ma stavo
+pensando...» E il suo volto tondo tornò d'improvviso vacuo e ogni parola gli
+morì sulle labbra.
+
+«Che c'è adesso?» chiese l'altro.
+
+«[[Well|Beh]], so che suona buffo», disse [[Father Brown]] con voce sconsolata. «Ma
+stavo pensando... stavo pensando che, in un certo senso, non importa granché
+chi lo abbia pugnalato.»
+
+«È questa la Nuova [[morality|Morale]]?» chiese il suo amico. «O forse la vecchia
+Casistica. I gesuiti si danno davvero all'omicidio?»
+
+«Non ho detto che non importa chi lo abbia assassinato», disse [[Father Brown]].
+«Certo l'uomo che lo ha pugnalato potrebbe benissimo essere l'uomo che lo ha
+assassinato. Ma potrebbe essere un uomo del tutto diverso. Comunque sia, fu
+fatto in un [[Time|momento]] del tutto diverso. Immagino che vorrete lavorare
+sull'impugnatura in cerca di impronte digitali; ma non date loro troppo
+peso. Posso immaginare altre ragioni per cui altre persone abbiano
+conficcato questo coltello nel povero vecchio. Non ragioni molto edificanti,
+naturalmente, ma ben distinte dall'omicidio. Dovrete piantargli ancora
+qualche coltello, prima di venirne a capo.»
+
+«Volete dire...» cominciò l'altro, scrutandolo con attenzione.
+
+«Voglio dire l'autopsia», disse il prete, «per trovare la vera causa
+della [[Death|morte]].»
+
+«Avete perfettamente ragione, credo», disse l'Ispettore, «riguardo alla
+pugnalata, in ogni caso. Dobbiamo aspettare il medico; ma sono quasi certo
+che dirà che avete ragione. Non c'è abbastanza [[Blood|sangue]]. Questo coltello fu
+conficcato nel cadavere quand'era ormai freddo da ore. Ma perché?»
+
+«Forse per dare la colpa al maomettano», rispose [[Father Brown]]. «Piuttosto
+meschino, lo ammetto, ma non necessariamente omicidio. Ho l'impressione che
+in questo posto ci sia gente che cerca di serbare [[Secrets|segreti]], senza per
+questo essere per forza assassini.»
+
+«Non ho ancora fatto congetture su questa linea», disse Greenwood. «Cosa
+ve lo fa pensare?»
+
+«Ciò che ho detto ieri, quando siamo entrati per la prima volta in questa
+orribile stanza. Ho detto che sarebbe stato facile commettere un omicidio
+qui. Ma non pensavo a tutte quelle stupide armi, benché voi credeste di sì.
+A tutt'altra cosa.»
+
+Per le ore successive l'Ispettore e il suo amico condussero un'indagine
+minuziosa e accurata sugli andirivieni di tutti quanti nelle ultime
+ventiquattro ore, sul modo in cui le bevande erano state distribuite, sui
+bicchieri lavati o non lavati, e su ogni particolare riguardante ogni
+singola persona coinvolta, o apparentemente non coinvolta. Si sarebbe
+potuto supporre che credessero fossero state avvelenate trenta persone, e
+non una sola, come [[Well|del resto]] era.
+
+Pareva certo che nessuno fosse entrato nell'edificio se non per il grande
+ingresso attiguo al bar; tutti gli altri erano bloccati in un modo o
+nell'altro dai lavori. Un ragazzo aveva pulito i gradini fuori da
+quest'ingresso; ma non aveva nulla di molto chiaro da riferire. Fino allo
+strabiliante ingresso del turco col turbante, con il suo conferenziere
+astemio, non pareva esserci stato molto avventore d'alcun genere, tranne i
+commessi viaggiatori entrati a prendere quelli che chiamavano «quick ones»,
+i loro sorsetti veloci; e parevano essersi mossi tutti insieme, come la
+Nuvola di Wordsworth; c'era una lieve divergenza d'opinione tra il ragazzo
+di fuori e gli uomini di dentro sul fatto che uno di loro non fosse stato
+anormalmente svelto a procurarsi il suo sorso, ed uscito da solo sulla
+soglia; ma il direttore e il barista non serbavano alcun [[Memory|ricordo]] di un
+simile individuo indipendente. Il direttore e il barista conoscevano
+[[Well|benissimo]] tutti i viaggiatori, e non c'era alcun [[Doubt|dubbio]] sui loro movimenti
+nel complesso. Erano stati in piedi al bar a scherzare e a bere; erano stati
+coinvolti, tramite il loro altero capo, il signor Jukes, in un alterco non
+troppo serio col signor Pryce-[[Jones]]; e avevano assistito all'improvviso e
+assai serio alterco tra il signor Akbar e il signor Raggley. Poi era stato
+loro detto che potevano trasferirsi nella Sala Commerciale, e così avevano
+fatto, le loro bevande portate dietro a loro come un trofeo.
+
+«C'è ben poco su cui basarsi», disse l'Ispettore Greenwood. «Naturalmente
+un mucchio di solerti domestici deve fare il proprio dovere come al solito,
+e ha lavato tutti i bicchieri; compreso quello del vecchio Raggley. Se non
+fosse per l'efficienza di tutti gli altri, noi investigatori potremmo
+essere alquanto efficienti.»
+
+«Lo so», disse [[Father Brown]], e la sua bocca riprese il sorriso storto.
+«Talvolta penso che siano stati i criminali a inventare l'igiene. O forse i
+riformatori igienisti hanno inventato il crimine; ne hanno l'aria, certuni.
+Tutti parlano di sozzi covi e luridi bassifondi in cui il crimine può
+scatenarsi; ma è proprio il contrario. Sono detti sozzi non perché vi si
+commettano delitti, ma perché vi si scoprono delitti. È nei luoghi lindi,
+immacolati, puliti e ordinati che il crimine può scatenarsi; niente fango a
+lasciare impronte; niente fondi di bicchiere a contenere il [[Poison|veleno]];
+gentili domestici che lavano via ogni traccia dell'omicidio; e l'assassino
+che uccide e crema sei mogli, e tutto per mancanza di un po' di cristiana
+sporcizia. Forse mi esprimo con troppo calore, ma guardate qui. Si dà il
+caso che io ricordi un bicchiere, che senza dubbio è stato lavato da allora,
+ma sul quale vorrei saperne di più.»
+
+«Intendete il bicchiere di Raggley?» chiese Greenwood.
+
+«No; intendo il bicchiere di Nessuno», rispose il prete. «Stava vicino a
+quel bicchiere di latte e conteneva ancora un dito o due di whisky. [[Well|Ebbene]],
+voi e io non abbiamo bevuto whisky. Mi capita di ricordare che il direttore,
+quando fu offerto da bere dal gioviale Jukes, prese «un goccio di gin».
+[[Hope|Spero]] che non vogliate suggerire che il nostro musulmano fosse un bevitore
+di whisky travestito da turbante verde; o che il reverendo David Pryce-[[Jones]]
+sia riuscito a bere whisky e latte insieme, senza accorgersene.»
+
+«La maggior parte dei commessi viaggiatori ha preso whisky», disse
+l'Ispettore. «Di solito fanno così.»
+
+«Sì; e di solito badano bene di averlo», rispose [[Father Brown]]. «In questo
+caso, se lo fecero portare tutto con cura nella loro stanza. Ma questo
+bicchiere fu lasciato indietro.»
+
+«Una svista, immagino», disse Greenwood, dubbioso. «L'uomo poteva
+facilmente procurarsene un altro nella Sala Commerciale, dopo.»
+
+[[Father Brown]] scosse il capo. «Bisogna vedere la gente com'è. Ora, questa
+sorta di uomini... [[Well|beh]], c'è chi li dice volgari e chi comuni; ma sono tutte
+simpatie e antipatie. Mi accontenterei di dire che sono per lo più uomini
+semplici. Molti di loro ottimi uomini, ben lieti di tornare dalla mogliettina
+e dai ragazzini; alcuni magari mascalzoni; magari con parecchie mogliettine;
+o che hanno perfino assassinato parecchie mogliettine. Ma la maggior parte
+sono uomini semplici; e, badate bene, appena appena un tantino brilli. Non
+troppo; c'è più d'un duca o d'un professore a [[Oxford]] più brillo di loro;
+ma quando un uomo di quella specie è a quel punto della convivialità, non
+può proprio fare a meno di notare le cose, e di notarle a gran voce. Non
+osservate che il minimo incidente li fa scattare a parlare; se la birra
+trabocca in schiuma, traboccano anch'essi con essa, e devono dire «Ehilà,
+[[Emma]]!», o «Mi fai proprio onore, eh?». Ora, direi che è del tutto
+impossibile che cinque di questi allegri compari siedano attorno a un tavolo
+nella Sala Commerciale, e si vedano posare davanti solo quattro bicchieri,
+restando escluso il quinto uomo, senza levare uno strepito. Probabilmente lo
+leverebbero tutti quanti, lo strepito. Di certo lo leverebbe lui. Non
+aspetterebbe, come un inglese di un'altra classe, di potersi procurare un
+bicchiere in santa pace più tardi. L'aria risuonerebbe di cose come «E il
+piccolo me, allora?», oppure «Ehi, George, mi sono forse iscritto alla Band
+of [[Hope]]?», oppure «Vedi mica del verde nel mio turbante, George?». Ma il
+barista non udì lagnanze del genere. Do per certo che il bicchiere di whisky
+lasciato indietro fosse stato quasi vuotato da qualcun altro; qualcuno a
+cui non abbiamo ancora pensato.»
+
+«Ma vi viene in mente qualcuno di simile?» chiese l'altro.
+
+«È perché il direttore e il barista non vogliono saperne di una persona
+simile, che voi scartate l'unica prova davvero indipendente; la
+testimonianza di quel ragazzo là fuori che puliva i gradini. Dice che un
+uomo, che [[Well|magari]] poteva essere un commesso viaggiatore, ma che in realtà
+non si tenne con gli altri commessi, entrò e uscì di nuovo quasi subito. Il
+direttore e il barista non lo videro mai; o dicono di non averlo mai visto.
+Ma in qualche modo si procurò un bicchiere di whisky dal bar. Chiamiamolo,
+per amor di argomentazione, Lo Svelto. Ora, sapete che non mi intrometto
+spesso nei vostri affari, che so voi sbrigate meglio di quanto farei io, o
+di quanto vorrei farli. Non ho mai avuto niente a che fare col mettere in
+moto la macchina della polizia, o col dar la caccia ai criminali, o
+alcunché di simile. Ma, per la prima [[Time|volta]] in vita mia, voglio farlo
+adesso. Voglio che troviate Lo Svelto; che inseguiate Lo Svelto fino ai
+confini della terra; che mettiate in moto tutta l'infernale macchina
+ufficiale come una rete a strascico gettata attraverso le nazioni, e che
+riacciuffiate [[Well|ben bene]] Lo Svelto. Perché è l'uomo che ci serve.»
+
+Greenwood fece un gesto di disperazione. «Ha un volto o una forma o una
+qualche qualità visibile, oltre alla sveltezza?» domandò.
+
+«Portava una specie di mantello all'Inverness», disse [[Father Brown]], «e
+disse al ragazzo là fuori che doveva raggiungere Edimburgo entro l'indomani
+mattina. È tutto ciò che il ragazzo là fuori ricorda. Ma so che la vostra
+organizzazione ha rintracciato gente con indizi ancora più scarsi.»
+
+«Vi ci accanite parecchio», disse l'Ispettore, un po' perplesso.
+
+Anche il prete parve perplesso, come dei propri stessi pensieri; sedette con
+la fronte aggrottata e poi disse bruscamente: «Vedete, è così facile essere
+fraintesi. Tutti gli uomini contano. Voi contate. Io conto. È la cosa più
+difficile da credere in tutta la teologia.»
+
+L'Ispettore lo fissò senza comprendere; ma egli proseguì.
+
+«Contiamo per Dio... Dio solo sa perché. Ma è l'unica possibile
+giustificazione dell'esistenza dei poliziotti.» Il poliziotto non parve
+illuminato quanto alla propria cosmica giustificazione. «Non vedete, la
+legge in fondo ha davvero ragione, in un certo modo. Se tutti gli uomini
+contano, tutti gli omicidi contano. Ciò che Egli ha così misteriosamente
+creato, non dobbiamo lasciare che sia misteriosamente distrutto. Ma...»
+
+Pronunciò l'ultima parola in tono reciso, come chi compie un nuovo passo in
+una decisione.
+
+«Ma, una volta che scendo da quel mistico piano d'uguaglianza, non vedo che
+la maggior parte dei vostri importanti omicidi siano particolarmente
+importanti. Voi mi dite sempre che questo e quel caso sono importanti. Come
+uomo semplice, pratico, di mondo, devo rendermi conto che è il Primo
+Ministro a essere stato assassinato. Come uomo semplice, pratico, di mondo,
+non penso affatto che il Primo Ministro conti. Come mera questione di
+importanza umana, direi che quasi non esiste. Credete forse che, se lui e
+gli altri uomini pubblici venissero uccisi domani, non ci sarebbe altra
+gente pronta ad alzarsi in piedi e a dire che ogni via veniva vagliata, o
+che il [[government|Governo]] aveva la questione allo studio più attento? I signori del
+mondo moderno non contano. Persino i veri signori non contano granché. Quasi
+nessuno di cui leggiate mai sul giornale conta un bel niente.»
+
+Si alzò in piedi, dando un lieve colpetto al tavolo: uno dei suoi rari
+gesti; e la sua voce mutò di nuovo. «Ma Raggley contava. Era uno di una
+grande schiera di circa una mezza dozzina di uomini che avrebbero potuto
+salvare l'Inghilterra. Se ne stanno ritti e scuri come cartelli indicatori
+ignorati, lungo tutta quella liscia [[Road|strada]] in discesa che è sfociata in
+questa palude di puro collasso mercantile. Il decano Swift e il dottor
+Johnson e il vecchio William Cobbett; tutti quanti, senza eccezione, avevano
+fama di essere burberi o selvatici, ed erano tutti amati dai loro amici, e
+lo meritavano tutti. Non avete visto come quel vecchio, col cuore di un
+[[Lion|leone]], si è alzato in piedi e ha perdonato il suo nemico come solo i
+combattenti sanno perdonare? Ha fatto proprio [[Well|ben bene]] ciò di cui parlava
+quel conferenziere della temperanza; ha dato l'esempio a noi cristiani ed è
+stato un modello di [[Christianity|Cristianità]]. E quando c'è l'omicidio turpe e segreto
+di un uomo così... allora sì, penso che conti, che conti a tal punto che
+persino la moderna macchina della polizia diventa una cosa di cui ogni
+persona rispettabile può servirsi... Oh, non c'è di che. E così, per una
+volta tanto, voglio davvero servirmi di voi.»
+
+E così, per un certo tratto di quei giorni e di quelle notti singolari,
+potremmo quasi dire che la piccola figura di [[Father Brown]] spinse innanzi a
+sé all'azione tutti gli eserciti e i congegni delle forze di polizia della
+[[Crown|Corona]], come la piccola figura di Napoleone spingeva le batterie e le
+linee di battaglia della vasta strategia che copriva l'Europa. Stazioni di
+polizia e uffici postali lavorarono tutta la [[Night|notte]]; il traffico fu
+bloccato, la corrispondenza intercettata, indagini vennero fatte in cento
+luoghi, per seguire la traccia fuggitiva di quella figura spettrale, senza
+volto né nome, con un mantello all'Inverness e un biglietto per Edimburgo.
+
+Nel frattempo, naturalmente, le altre linee d'indagine non furono
+trascurate. Il rapporto completo dell'autopsia non era ancora giunto; ma
+tutti parevano certi che si trattasse di un caso di avvelenamento. Ciò
+gettava naturalmente il primo sospetto sul cherry brandy; e questo, di
+nuovo, gettava naturalmente il primo sospetto sull'albergo.
+
+«Molto probabilmente sul direttore dell'albergo», disse Greenwood in tono
+brusco. «Mi ha l'aria di un lombrico ripugnante. Certo potrebbe avere a che
+fare con qualche domestico, come il barista; ha l'aria di un esemplare
+piuttosto imbronciato, e Raggley può averlo maledetto un po', avendo un
+carattere infuocato, benché di solito fosse poi generoso abbastanza. Ma,
+dopo tutto, come dico, la responsabilità primaria, e quindi il sospetto
+primario, ricade sul direttore.»
+
+«Oh, lo sapevo che il sospetto primario sarebbe ricaduto sul direttore»,
+disse [[Father Brown]]. «Ecco perché non lo sospettavo. Vedete, mi
+figuravo piuttosto che qualcun altro dovesse sapere che il sospetto primario
+sarebbe ricaduto sul direttore; o sui domestici dell'albergo. Ecco perché
+ho detto che sarebbe stato facile uccidere chiunque nell'albergo... Ma è
+meglio che andiate a chiarire la faccenda con lui, immagino.»
+
+L'Ispettore andò; ma tornò dopo un colloquio sorprendentemente breve, e
+trovò il suo amico ecclesiastico intento a sfogliare alcune carte che
+parevano una sorta di dossier sulla tempestosa carriera di John Raggley.
+
+«È una faccenda ben strana», disse l'Ispettore. «Credevo che avrei passato
+ore a [[Cross|contro]]interrogare quel viscido rospetto, ché legalmente non abbiamo
+niente contro di lui. E invece è andato in pezzi tutto d'un tratto, e credo
+davvero che mi abbia detto tutto quel che sa per pura strizza.»
+
+«Lo so», disse [[Father Brown]]. «È così che è andato in pezzi quando ha
+trovato il cadavere di Raggley apparentemente avvelenato nel suo albergo.
+Ecco perché ha perso la testa al punto da fare una cosa tanto goffa come
+addobbare il cadavere con un coltello turco, per dar la colpa al negro, come
+direbbe lui. Non ha mai niente che non vada, tranne la strizza; è
+l'ultimissimo uomo che ficcherebbe mai davvero un coltello in una persona
+viva. Scommetto che ha dovuto farsi coraggio per ficcarlo in una morta. Ma
+è la primissima persona a spaventarsi di essere accusata di ciò che non ha
+fatto; e a rendersi [[Fool|ridicola]], come ha fatto.»
+
+«Immagino che dovrò vedere anche il barista», osservò Greenwood.
+
+«Immagino di sì», rispose l'altro. «Personalmente non credo che sia stato
+qualcuno della gente dell'albergo... [[Well|proprio]] perché è stato fatto in modo da
+sembrare che dovesse essere la gente dell'albergo... Ma guardate qui, avete
+visto qualcosa di tutto questo materiale che hanno messo insieme su Raggley?
+Ha avuto una vita davvero interessante; mi [[Wonder|domando]] se qualcuno scriverà la
+sua [[Biography|biografia]].»
+
+«Ho preso nota di tutto ciò che potesse riguardare un affare del genere»,
+rispose il funzionario. «Era vedovo; ma una volta ebbe davvero una lite con
+un uomo a proposito della moglie; un agente immobiliare scozzese allora da
+queste parti; e Raggley pare sia stato piuttosto violento. Dicono che
+odiasse gli scozzesi; forse è per questo... Oh, so di cosa sorridete
+sinistramente. Uno scozzese... Forse un uomo di Edimburgo.»
+
+«Forse», disse [[Father Brown]]. «È del tutto probabile, però, che gli
+scozzesi gli fossero antipatici, a prescindere da ragioni private. È una
+cosa strana, ma tutta quella genìa di radicali conservatori, o comunque li
+vogliate chiamare, che resistettero al movimento mercantile whig, tutti
+quanti trovavano antipatici gli scozzesi. Cobbett sì; il dottor Johnson sì;
+Swift ne descrisse l'accento in uno dei suoi passi più micidiali; persino
+Shakespeare è stato accusato di questo pregiudizio. Ma i pregiudizi dei
+grandi uomini hanno di solito qualcosa a che fare coi princìpi. E c'era una
+ragione, credo. Lo scozzese veniva da una povera terra agricola, che divenne
+una ricca terra industriale. Era abile e attivo; credeva di portare la
+civiltà industriale dal nord; semplicemente non sapeva che al sud c'era
+stata per secoli una civiltà rurale. La terra di suo nonno era assai rurale
+ma non civile... [[Well|Beh]], [[Well|beh]], immagino che non possiamo far altro che
+attendere altre notizie.»
+
+«Non credo proprio che caverete le ultime notizie da Shakespeare e dal
+dottor Johnson», ghignò l'ufficiale di polizia. «Ciò che Shakespeare
+pensava degli scozzesi non è esattamente una prova.»
+
+[[Father Brown]] inarcò un sopracciglio, come se un nuovo pensiero lo avesse
+sorpreso. «Ebbene, ora che ci penso», disse, «potrebbe esserci una prova
+migliore, persino da Shakespeare. Non menziona spesso gli scozzesi. Ma era
+piuttosto incline a burlarsi dei gallesi.»
+
+L'Ispettore scrutava il volto dell'amico; ché gli parve di riconoscervi una
+prontezza dietro l'espressione contegnosa. «Perbacco», disse. «A nessuno era
+venuto in mente di volgere i sospetti in quella direzione, in ogni caso.»
+
+«[[Well|Ebbene]]», disse [[Father Brown]], con serena larghezza di vedute, «avete
+cominciato voi a parlare di fanatici; e di come un fanatico possa fare
+qualsiasi cosa. [[Well|Ebbene]], immagino che abbiamo avuto l'[[Honour|onore]] di ospitare in
+questa sala del bar, ieri, il più grande e chiassoso e testardo fanatico del
+mondo moderno. Se essere un idiota cocciuto con un'idea sola è la strada per
+l'omicidio, avanzo pretesa per il mio reverendo fratello Pryce-[[Jones]], il
+proibizionista, di preferenza a tutti i fachiri d'Asia, ed è perfettamente
+vero, come vi ho detto, che il suo orribile bicchiere di latte stava fianco
+a fianco sul bancone col misterioso bicchiere di whisky.»
+
+«Che voi pensate fosse implicato nell'omicidio», disse Greenwood,
+fissandolo. «Sentite, non so se davvero facciate sul serio oppure no.»
+
+Proprio mentre guardava fisso il volto dell'amico, trovando qualcosa di
+ancora imperscrutabile nella sua espressione, il telefono squillò
+stridulo dietro il bar. Sollevando il ribalta del bancone, l'Ispettore
+Greenwood passò rapidamente dentro, staccò il ricevitore, ascoltò per un
+istante, e poi emise un grido; non rivolto al suo interlocutore, ma
+all'universo in generale. Poi ascoltò ancora più attentamente e disse a
+scatti, in modo esplosivo: «Sì, sì... Venite subito; portatelo qui se
+possibile... Bel lavoro... Congratulazioni.»
+
+Poi l'Ispettore Greenwood tornò nel salotto esterno, come uomo che abbia
+rinnovato la propria giovinezza, si sedette dritto al suo posto, con le mani
+piantate sulle ginocchia, fissò l'amico, e disse:
+
+«[[Father Brown]], non so come facciate. Pare che sapeste che era un assassino
+prima ancora che chiunque altro sapesse che era un uomo. Non era nessuno;
+non era niente; era una lieve confusione nelle testimonianze; nessuno
+nell'albergo lo vide; il ragazzo sui gradini a stento poté giurarci; era
+soltanto una sottile sfumatura di [[Doubt|dubbio]] fondata su un bicchiere più sudicio
+del solito. Ma lo abbiamo preso, ed è l'uomo che ci serve.»
+
+[[Father Brown]] si era alzato con la coscienza della crisi, stringendo
+macchinalmente le carte destinate a tornare tanto preziose al biografo del
+signor Raggley; e restava a fissare l'amico. Forse questo gesto scosse la
+mente dell'amico verso nuove conferme.
+
+«Sì, abbiamo preso Lo Svelto. E svelto lo fu davvero, come argento vivo, nel
+darsi alla fuga; lo abbiamo fermato giusto in tempo... partito per una
+battuta di pesca alle Orcadi, ha detto. Ma è l'uomo giusto, sì; è l'agente
+immobiliare scozzese che fece la [[Love|corte]] alla moglie di Raggley; è l'uomo che
+bevve whisky scozzese in questo bar e poi prese un treno per Edimburgo. E
+nessuno lo avrebbe mai saputo se non fosse stato per voi.»
+
+«[[Well|Ebbene]], quel che intendevo», cominciò [[Father Brown]], in tono piuttosto
+stordito; e in quell'istante ci fu un rumore secco e un rombo di pesanti
+veicoli fuori dall'albergo; e due o tre altri poliziotti subalterni
+ingombrarono il bar con la loro presenza. Uno di loro, invitato dal
+superiore a sedersi, lo fece in maniera espansiva, come chi sia insieme
+felice e stanco; e anch'egli guardò [[Father Brown]] con occhi ammirati.
+
+«Preso l'assassino, signore, oh sì», disse: «So che è un assassino, ché per
+poco non ha assassinato me. Ho catturato certi tipi tosti prima d'ora; ma
+mai uno così... mi ha colpito nello stomaco come il calcio di un [[Horse|cavallo]] e
+per poco non è sfuggito a cinque uomini. Oh, avete acchiappato un vero
+killer questa [[Time|volta]], Ispettore.»
+
+«Dov'è?» chiese [[Father Brown]], fissandolo.
+
+«Fuori nel furgone, in manette», rispose il poliziotto, «e, se siete saggio,
+lo lascerete lì... per il momento.»
+
+[[Father Brown]] sprofondò in una poltrona in una sorta di molle collasso; e
+le carte che aveva nervosamente stretto si sparsero attorno a lui, saettando
+e scivolando per il pavimento come falde di [[Snow|neve]] che si sfaldano. Non solo
+il suo volto, ma tutto il suo [[Body|corpo]] dava l'impressione di un pallone bucato.
+
+«Oh... Oh», ripeté, come se qualunque altra imprecazione fosse inadeguata.
+«Oh... L'ho fatto di nuovo.»
+
+«Se intendete che avete preso di nuovo il criminale», cominciò Greenwood. Ma
+l'amico lo interruppe con una fioca esplosione, come quella dell'[[Water|acqua]]
+gassata che si esaurisce.
+
+«Intendo», disse [[Father Brown]], «che capita di continuo; e davvero non so
+perché. Cerco sempre di dire ciò che intendo. Ma tutti gli altri intendono
+tante cose in ciò che dico.»
+
+«Ma che diamine c'è adesso?» gridò Greenwood, esasperato d'improvviso.
+
+«[[Well|Beh]], io dico delle cose», disse [[Father Brown]] con voce debole, che
+poteva [[Alone|sola]] rendere la debolezza delle parole. «Io dico delle cose, ma tutti
+paiono sapere che significano più di quel che dicono. Una volta vidi uno
+[[Mirror|specchio]] rotto e dissi «È successo qualcosa», e tutti risposero «Sì, sì,
+come dite giustamente, due uomini hanno lottato e uno è corso nel
+[[Garden|giardino]]», e così via. Non lo capisco: «È successo qualcosa» e «Due uomini
+hanno lottato» non mi sembrano affatto la stessa cosa; ma oso dire che
+leggo vecchi libri di [[logic|logica]]. [[Well|Ebbene]], è così anche qui. Voi paiono tutti
+certi che quest'uomo sia un assassino. Ma io non ho mai detto che fosse un
+assassino. Ho detto che era l'uomo che ci serviva. E lo è. Lo voglio
+moltissimo. Lo voglio maledettamente. Lo voglio come l'unica cosa che non
+abbiamo in tutto questo orribile caso: un testimone!»
+
+Lo fissarono tutti, ma in maniera accigliata, come uomini che cerchino di
+seguire una brusca nuova svolta dell'argomentazione; e fu lui a riprendere
+l'argomentazione.
+
+«Fin dal primo minuto in cui entrai in quel grande bar o saloon vuoto, seppi
+che ciò che non andava in tutta questa faccenda era il vuoto; la
+[[Solitude|solitudine]]; troppe occasioni per chiunque di restare [[Alone|solo]]. In una parola,
+l'assenza di testimoni. Tutto ciò che sapevamo era che, quando entrammo, il
+direttore e il barista non erano al bar. Ma quand'è che erano stati al bar?
+Che possibilità c'era di costruire una qualsiasi tabella oraria di chi si
+trovasse dove in un dato [[Time|momento]]? L'intera faccenda era una lacuna per
+mancanza di testimoni. Ho piuttosto l'impressione che il barista o qualcuno
+fosse al bar poco prima che arrivassimo; ed è così che lo scozzese ottenne
+il suo whisky scozzese. Di certo non lo ottenne dopo il nostro arrivo. Ma
+non possiamo nemmeno cominciare a indagare se qualcuno nell'albergo abbia
+avvelenato il cherry brandy del povero Raggley, finché non sappiamo davvero
+chi fosse al bar e quando. Ora voglio che mi facciate un altro favore,
+malgrado questa stupida confusione, che probabilmente è tutta colpa mia.
+Voglio che raduniate tutte le persone coinvolte in questa stanza... credo
+siano ancora tutte reperibili, a meno che l'asiatico non se ne sia tornato
+in Asia... e poi togliate le manette al povero scozzese, e lo portiate qui,
+e lo lasciate dire chi lo servì col whisky, e chi era al bar, e chi altro
+era nella stanza, e tutto il resto. È l'unico uomo la cui testimonianza
+possa coprire proprio quel periodo in cui il delitto fu compiuto. Non vedo
+la minima ragione per dubitare della sua parola.»
+
+«Ma sentite qui», disse Greenwood. «Questo riporta tutto quanto alle
+autorità dell'albergo; e credevo che aveste convenuto che il direttore non
+è l'assassino. È il barista, allora, o chi?»
+
+«Non lo so», disse il prete, con aria vacua. «Non lo so nemmeno con certezza
+riguardo al direttore. Non so nulla del barista. Ho l'impressione che il
+direttore possa essere un po' cospiratore, anche se non era un assassino. Ma
+so che c'è un solitario testimone sulla terra che può aver visto qualcosa; ed
+è per questo che ho messo tutti i vostri [[dogs|segugi]] della polizia sulle sue
+tracce fino ai confini della terra.»
+
+Il misterioso scozzese, quando finalmente comparve davanti alla compagnia
+così radunata, era di certo una figura formidabile; alto, con un'andatura
+dinoccolata e un lungo volto sardonico da accetta, con ciuffi di capelli
+rossi; e, portando non solo un mantello all'Inverness ma un berretto
+Glengarry, poteva [[Well|ben]] essere scusato per un atteggiamento alquanto acre; ma
+chiunque poteva vedere che era del genere disposto a resistere all'arresto,
+anche con la violenza. Non c'era da sorprendersi se era venuto alle mani con
+un tipo battagliero come Raggley. Non c'era neppure da sorprendersi se la
+polizia era stata convinta, dai meri particolari della cattura, che fosse un
+duro e un tipico assassino. Ma egli affermava di essere un agricoltore del
+tutto rispettabile, dell'Aberdeenshire, di nome James Grant; e in qualche
+modo non solo [[Father Brown]], ma anche l'Ispettore Greenwood, uomo scaltro e
+di grande esperienza, furono ben presto convinti che la ferocia dello
+scozzese fosse il furore dell'[[innocence|innocenza]] più che della [[Guilt|colpa]].
+
+«Ora, ciò che vogliamo da voi, signor Grant», disse l'Ispettore
+gravemente, scendendo senza altri preamboli a toni di cortesia, «è
+semplicemente la vostra testimonianza su un fatto molto importante. Sono
+assai addolorato per l'equivoco di cui avete sofferto, ma sono certo che
+desiderate servire i fini della giustizia. Credo che siate entrato in questo
+bar poco dopo l'apertura, alle cinque e mezza, e che vi sia stato servito un
+bicchiere di whisky. Non siamo certi di quale domestico dell'albergo, se il
+barista o il direttore o qualche subalterno, fosse al bar in quel [[Time|momento]].
+Volete guardarvi attorno nella stanza, e dirmi se l'addetto al bar che vi
+servì è presente qui?»
+
+«Sì, è presente», disse il signor Grant, sorridendo cupamente, dopo aver
+spazzato il gruppo con uno sguardo acuto. «Lo riconoscerei ovunque; e
+converrete che è abbastanza grosso da farsi vedere. Li avete tutti così
+imponenti, i vostri camerieri di locanda?»
+
+L'occhio dell'Ispettore rimase duro e fermo, e la sua voce incolore e
+continua; il volto di [[Father Brown]] era vacuo; ma su molti altri volti si
+addensò una nube; il barista non era particolarmente grosso e per niente
+imponente; e il direttore era decisamente piccolo.
+
+«Vogliamo solo che il barista venga identificato», disse l'Ispettore con
+calma. «Naturalmente lo conosciamo; ma vorremmo che voi lo verificaste
+indipendentemente. Volete dire...?» E si arrestò di colpo.
+
+«Beh, eccolo là, chiaro abbastanza», disse lo scozzese con stanchezza; e
+fece un gesto, e con quel gesto il gigantesco Jukes, il principe dei commessi
+viaggiatori, si [[Rose|levò]] come un elefante barrente; e in un lampo tre poliziotti
+gli furono addosso come cani da caccia su una fiera selvaggia.
+
+«[[Well|Ebbene]], tutto ciò era abbastanza semplice», disse [[Father Brown]] all'amico,
+in seguito. «Come vi ho detto, nell'istante in cui entrai nella sala del bar
+vuota, il mio primo pensiero fu che, se il barista lasciava il bar
+incustodito a quel modo, non c'era nulla al mondo che impedisse a voi o a me
+o a chiunque altro di sollevare la ribalta ed entrare, e mettere del
+[[Poison|veleno]] in una qualunque delle bottiglie che stavano lì in attesa dei
+clienti. Naturalmente, un avvelenatore pratico lo farebbe probabilmente come
+fece Jukes, sostituendo una bottiglia avvelenata alla bottiglia ordinaria;
+il che si poteva fare in un lampo. Era abbastanza facile per lui, dato che
+trattava in bottiglie, portarsi una fiaschetta di cherry brandy preparata e
+dello stesso modello. Naturalmente, ci vuole una condizione; ma è una
+condizione abbastanza comune. Non converrebbe granché mettersi ad avvelenare
+la birra o il whisky che decine di persone bevono; ne verrebbe un massacro.
+Ma quando un uomo è [[Well|ben]] noto per bere una sola cosa particolare, come il
+cherry brandy, che non è bevuto da moltissimi, è proprio come avvelenarlo nella
+propria [[Home|casa]]. Solo che è di gran lunga più sicuro. Perché praticamente tutto il
+sospetto ricade all'istante sull'albergo, o su qualcuno che ha a che fare
+con l'albergo; e non c'è argomento terreno che mostri che è stato fatto da
+uno qualsiasi dei cento clienti che potrebbero entrare nel bar: anche se la
+gente si rendesse conto che un cliente potrebbe farlo. Fu press'a poco un
+omicidio anonimo e irresponsabile quanto un uomo possa mai commetterne.»
+
+«E perché di preciso l'assassino lo commise?» chiese l'amico.
+
+[[Father Brown]] si [[Rose|levò]] e con gravità raccolse le carte che poc'anzi aveva
+sparso in un momento di distrazione.
+
+«Posso richiamare la vostra attenzione», disse sorridendo, «al materiale
+della prossima Vita e Lettere del Fu John Raggley? O, se è per questo, alle
+sue stesse parole? Disse proprio in questo bar che stava per smascherare uno
+scandalo sulla gestione degli alberghi; e lo scandalo era quello abbastanza
+comune di un accordo corrotto tra proprietari d'albergo e un venditore che
+prendeva e dava provvigioni segrete, cosicché il suo commercio aveva il
+monopolio di tutto il bere venduto nel locale. Non era nemmeno una [[Slavery|schiavitù]]
+palese come quella di un'ordinaria [[house|locanda]] vincolata a un fornitore; era
+una truffa a spese di tutti coloro che il direttore avrebbe dovuto servire.
+Era un reato legale. Così l'ingegnoso Jukes, cogliendo il primo momento in
+cui il bar era vuoto, come spesso era, entrò e fece lo scambio delle
+bottiglie; disgraziatamente in quello stesso momento uno scozzese con un
+mantello all'Inverness entrò chiedendo aspramente whisky. Jukes vide che
+l'unica sua chance era fingersi il barista e servire il cliente. Fu assai
+sollevato che il cliente fosse Uno Svelto.»
+
+«Penso che siate piuttosto Uno Svelto voi stesso», osservò Greenwood; «se
+dite di aver fiutato qualcosa fin dal principio, nella mera aria di una
+stanza vuota. Sospettaste affatto di Jukes, all'inizio?»
+
+«[[Well|Beh]], suonava piuttosto opulento, in qualche modo», rispose [[Father Brown]]
+vagamente. «Sapete, quando un uomo ha una voce opulenta. E mi domandai
+davvero perché mai dovesse avere una voce così disgustosamente opulenta,
+quando tutti quei bravi compari erano piuttosto poveri. Ma credo che seppi
+che era un impostore quando vidi quella grossa lucente spilla da petto.»
+
+«Volete dire perché era falsa?» chiese Greenwood, dubbioso.
+
+«Oh, no; perché era autentica», disse [[Father Brown]].

@@ -143,7 +143,7 @@ with reddish colouring, and a Roman nose, as it did in Marie Antoinette.
 
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/works/wifrb11-(chesterton)">The Wisdom of Father Brown</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/wifrb11-(chesterton)">The Wisdom of Father Brown</a> › <a href="/testi/chesterton/atomized/wifrb11/story_06_the_head_of_caesar">Story 06 The Head of Caesar</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/wifrb11/story_05_the_mistake_of_the_machine/part_05">‹ part 05</a><a class="ex-next" href="/testi/chesterton/atomized/wifrb11/story_06_the_head_of_caesar/part_02">part 02 ›</a></div>
 </nav>
 

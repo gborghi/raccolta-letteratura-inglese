@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/apprandcritofchdickens-(chesterton)">ApprAndCritOfChDickens</a> › <a href="/testi/chesterton/atomized/apprandcritofchdickens/chapter_02_celebrated_characters_who_are">Chapter 02 celebrated characters who are</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/apprandcritofchdickens/chapter_02_celebrated_characters_who_are/part_36">‹ part 36</a><a class="ex-next" href="/testi/chesterton/atomized/apprandcritofchdickens/chapter_02_celebrated_characters_who_are/part_38">part 38 ›</a></div>
@@ -179,3 +181,178 @@ putting, as it were, after-words and appendices to their already
 finished portraits; the man who did splendid and flamboyant but faulty
 
 portraits never attempted to touch them up. Or rather (we may say again)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/apprandcritofchdickens-(chesterton)">ApprAndCritOfChDickens</a> › <a href="/testi/chesterton/atomized/apprandcritofchdickens/chapter_02_celebrated_characters_who_are">Chapter 02 celebrated characters who are</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/apprandcritofchdickens/chapter_02_celebrated_characters_who_are/part_36">‹ part 36</a><a class="ex-next" href="/testi/chesterton/atomized/apprandcritofchdickens/chapter_02_celebrated_characters_who_are/part_38">part 38 ›</a></div>
+</nav>
+
+in un [[Novel|romanzo]]. Così, ai tempi di _Household Words_, poteva avviare un
+
+vasto disegno di racconti, come _Somebody's Luggage_ o _Seven Poor
+
+Travellers_, e dopo aver scritto una novella o due lasciava il resto ai
+
+suoi colleghi. Così, d'altra parte, al [[Time|tempo]] di _Master Humphrey's
+
+Clock_, poteva avviare una piccola avventura di Master Humphrey e trovarsi
+
+incapace di arrestarla. È del tutto chiaro, credo (benché soltanto per
+
+prova morale, ciò che alcuni chiamano leggere fra le righe), che egli
+
+intendeva in origine narrare molte storie separate delle peregrinazioni di
+
+Master Humphrey per [[London|Londra]], una sola delle quali, e per giunta breve, doveva
+
+riguardare una bambina che tornava a [[Home|casa]]. Per nostra fortuna
+
+quella bambina aveva un nonno, e quel nonno aveva un negozio di
+
+curiosità e per di più un nipote, e quel nipote aveva un amico del tutto
+
+irrilevante che uomini e angeli chiamavano [[Richard]] Swiveller. Una volta entrato
+
+nella compagnia di Swiveller, non è innaturale che Dickens vi si trattenesse
+
+per un libro intero. Il punto essenziale per noi, qui, è tuttavia
+
+che _Master Humphrey's Clock_ fu arrestato dalla mole e dall'energia della
+
+cosa che ne era scaturita. Morì di parto.
+
+Vi è però un'altra circostanza che, persino nella comune opinione
+
+pubblica, rende importante questa miscellanea, oltre al grande [[Novel|romanzo]] che
+
+ne uscì. Intendo dire che il lettore comune riesce a ricordare una cosa
+
+grandiosa a proposito di _Master Humphrey's Clock_, oltre al fatto che esso fu la
+
+cornice de _The Old Curiosity Shop_. Ricorda che il signor [[Pickwick]]
+
+e i Weller risorgono dai morti. Dickens fa sì che [[Samuel Pickwick]]
+
+divenga membro della Società dell'[[Clock|Orologio]] di Master Humphrey; e istituisce una
+
+società parallela in cucina sotto il nome di Mr. Weller's Watch.
+
+Prima di esaminare la questione se Dickens fosse saggio nel fare
+
+questo, vale la pena osservare quanto sia davvero singolare che questo sia l'unico
+
+luogo in cui lo abbia fatto. Dickens, si sarebbe pensato, era proprio l'uomo
+
+che avrebbe potuto naturalmente introdurre vecchi personaggi in storie nuove.
+
+Dickens, di fatto, fu quasi l'unico uomo che non lo fece mai.
+
+Sarebbe parso naturale in lui per una [[Double|duplice]] ragione: primo, che i suoi
+
+personaggi gli erano assai cari, e secondo che non erano molto
+
+preziosi per le sue particolari storie. Gli erano cari, e sono
+
+cari a noi; ma sarebbero potuti [[Well|benissimo]] spuntare (entro certi limiti)
+
+in un ambiente [[Well|tanto quanto]] in un altro. Noi, ne sono certo, saremmo
+
+deliziati d'incontrare il signor Mantalini nella storia di _Dombey and Son_. Ed egli
+
+di sicuro non mancherebbe granché all'intreccio di _[[Nicholas Nickleby]]_.
+
+«Sono un padre affettuoso», disse Dickens, «verso tutti i figli della mia
+
+fantasia; ma come molti altri genitori ho nel profondo del cuore un
+
+[[Child|figlio]] prediletto; e il suo nome è [[David Copperfield]].» Eppure, benché il suo
+
+cuore dovesse spesso struggersi all'indietro verso i figli della sua fantasia
+
+la cui storia era già raccontata, egli non tornò mai a toccarne uno solo neppure
+
+con la punta della penna. I personaggi di _David Copperfield_, come in
+
+tutti gli altri, erano morti per lui una volta terminato il libro; se
+
+li amava come figli, era come figli morti e santificati. È una
+
+prova curiosa della forza e persino del riserbo che si celavano sotto
+
+l'apparente esuberanza di Dickens, il fatto che egli non cedette mai affatto
+
+proprio a quell'indiscrezione o atto di sentimentalismo che parrebbe più
+
+naturale ai suoi affetti e alla sua arte. O piuttosto non vi cedette mai
+
+se non qui, in questo unico caso: il caso di _Master Humphrey's Clock_.
+
+E bisogna ricordare che quasi tutti gli altri vi cedettero.
+
+Vi cedettero in particolare quegli scrittori che comunemente si
+
+reputano superiori a Dickens in arte, esattezza e aderenza alla realtà connessa.
+
+Thackeray vi si rotolò dentro; Anthony Trollope ne visse. Quegli artisti
+
+moderni che più si fanno un [[Pride|vanto]] della separazione e dell'[[unity|unità]] di un'opera
+
+d'arte vi si sono spesso concessi; così, per esempio, Stevenson diede uno
+
+scorcio di Alan Breck ne _The Master of Ballantrae_, e intendeva darne uno
+
+del Master of Ballantrae in un altro racconto mai scritto intitolato
+
+_The Rising Sun_. L'abitudine di riprendere vecchi personaggi è così radicata in
+
+Thackeray che _Vanity Fair_, _Pendennis_, _The Newcomes_ e _Philip_
+
+sono in un certo senso un unico [[Novel|romanzo]]. Di certo il lettore talvolta dimentica
+
+quale d'essi stia leggendo. In séguito non riesce a ricordare se
+
+la migliore descrizione dei rossi favoriti di Lord Steyne o delle rozze
+
+facezie del signor Wagg comparisse in _Vanity Fair_ o in _Pendennis_; non riesce a ricordare
+
+se il suo dialogo prediletto fra Mr. e Mrs. Pendennis comparisse
+
+ne _The Newcomes_ o in _Philip_. Ogni volta che due personaggi di Thackeray in
+
+due romanzi di Thackeray avrebbero potuto per qualsiasi possibilità essere contemporanei,
+
+Thackeray si diletta a collegarli. Fa sì che il maggiore Pendennis saluti col capo il dottor
+
+Firmin, e che il colonnello Newcome inviti a pranzo il maggiore Dobbin. Ogni volta che due
+
+personaggi non avrebbero potuto in alcun modo essere contemporanei, egli si dà
+
+la pena di fare dell'uno il remoto antenato dell'altro. Così creò la
+
+[[Great House|grande casata]] dei Warrington unicamente per collegare un giornalista bohémien
+
+dalla «barba blu» al [[Blood|sangue]] di Henry Esmond. È del tutto impossibile
+
+concepire Dickens che tenga in piedi questa elaborata connessione fra tutti i suoi
+
+personaggi e tutti i suoi libri, specialmente attraverso le epoche. Ci darebbe
+
+una sorta di scossa apprendere da Dickens che [[Major Bagstock]] fosse il
+
+nipote del signor Chester. Ancor meno possiamo immaginare Dickens portare avanti una
+
+cronaca familiare quasi sistematica, come in un certo senso fece
+
+Trollope. Vi dev'essere qualche ragione per un simile [[Paradox|paradosso]]; poiché in sé esso
+
+è davvero curioso. Gli scrittori che scrivevano con cura andavano sempre
+
+apponendo, per così dire, poscritti e appendici ai loro ritratti già
+
+compiuti; l'uomo che tracciava ritratti splendidi e sgargianti ma imperfetti
+
+non tentò mai di ritoccarli. O piuttosto (possiamo dirlo di nuovo)

@@ -293,6 +293,10 @@ great man is superior to other men, like Whistler.
 <div class="excerpt-crumb">Chesterton · <a href="/works/heret12-(chesterton)">Heretics</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/heret12/story_15_on_mr_mccabe_and_a_divine_frivolity">‹ Story 15 On Mr McCabe and a Divine Frivolity</a><a class="ex-next" href="/testi/chesterton/atomized/heret12/story_17_the_fallacy_of_the_young_nation">Story 17 The Fallacy of the Young Nation ›</a></div>
 </nav>
+<nav class="excerpt-children">
+<div class="excerpt-children-label">In questa sezione</div>
+<ul><li><a href="/testi/chesterton/atomized/heret12/story_16_on_the_wit_of_whistler/part_01">Part 1</a></li><li><a href="/testi/chesterton/atomized/heret12/story_16_on_the_wit_of_whistler/part_02">Part 2</a></li><li><a href="/testi/chesterton/atomized/heret12/story_16_on_the_wit_of_whistler/part_03">Part 3</a></li></ul>
+</nav>
 
 # [[heret12]] — Sull'arguzia di Whistler
 

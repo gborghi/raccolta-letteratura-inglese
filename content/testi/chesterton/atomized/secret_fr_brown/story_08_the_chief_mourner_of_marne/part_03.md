@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/secret-fr-brown-(chesterton)">secret Fr Brown</a> › <a href="/testi/chesterton/atomized/secret_fr_brown/story_08_the_chief_mourner_of_marne">Story 08 THE CHIEF MOURNER OF MARNE</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/secret_fr_brown/story_08_the_chief_mourner_of_marne/part_02">‹ part 02</a><a class="ex-next" href="/testi/chesterton/atomized/secret_fr_brown/story_08_the_chief_mourner_of_marne/part_04">part 04 ›</a></div>
@@ -127,3 +129,135 @@ because I was sure you would tell the [[Truth|truth]]. I [[Hope|hope]] it is not
 uncharitable to feel less sure of Sir John Cockspur."
 
 The brown eyes twinkled again, but the general said nothing.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/secret-fr-brown-(chesterton)">secret Fr Brown</a> › <a href="/testi/chesterton/atomized/secret_fr_brown/story_08_the_chief_mourner_of_marne">Story 08 THE CHIEF MOURNER OF MARNE</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/secret_fr_brown/story_08_the_chief_mourner_of_marne/part_02">‹ part 02</a><a class="ex-next" href="/testi/chesterton/atomized/secret_fr_brown/story_08_the_chief_mourner_of_marne/part_04">part 04 ›</a></div>
+</nav>
+
+«È tutto molto strano», disse il giovane in tono piuttosto vago. «Non è
+come... come mi sarei aspettato.»
+
+Il giovane signor Mallow, uscito da quel picnic alquanto lugubre, si mise
+pensieroso in cerca di un amico. Non conosceva alcun [[Monks|monaco]], ma
+conosceva un prete, che desiderava ardentemente mettere di fronte alle
+curiose rivelazioni udite quel pomeriggio. Sentiva che gli sarebbe
+piaciuto moltissimo conoscere la [[Truth|verità]] intorno alla crudele
+superstizione che gravava sulla [[house|casa]] di Marne, come la nera nube
+temporalesca che l'aveva vista incombere sopra di essa.
+
+Dopo essere stato rimandato da un luogo all'altro, riuscì infine a
+stanare l'amico [[Father Brown]] nella [[house|casa]] di un altro amico, un
+amico cattolico romano, dalla numerosa famiglia. Entrò con una certa
+bruschezza e trovò [[Father Brown]] seduto sul pavimento, con espressione
+grave, intento ad appuntare sulla testa di un orsacchiotto il cappellino
+alquanto vistoso appartenente a una bambola di cera.
+
+Mallow avvertì una lieve sensazione di incongruità; ma era troppo preso
+dal proprio problema per rimandare la conversazione, se avesse potuto
+evitarlo. Barcollava per una sorta di contraccolpo in un processo
+subconscio che andava avanti da qualche [[Time|tempo]]. Riversò tutta la
+[[Tragedy|tragedia]] della [[house|casa]] di Marne così come l'aveva udita
+dalla moglie del generale, insieme alla maggior parte dei commenti del
+generale e del proprietario del giornale. Con la menzione del
+proprietario del giornale parve crearsi una nuova atmosfera di
+attenzione.
+
+[[Father Brown]] non sapeva né si curava che i suoi atteggiamenti fossero
+comici o dozzinali. Continuò a starsene seduto sul pavimento, dove la sua
+testa grossa e le gambe corte lo facevano somigliare a un bimbo che gioca
+con i balocchi. Ma nei suoi grandi occhi grigi venne ad affacciarsi una
+certa espressione che si è vista negli occhi di molti uomini in molti
+secoli lungo la storia di millenovecento anni; solo che di norma quegli
+uomini non sedevano sui pavimenti, bensì ai tavoli dei concili, o sugli
+stalli dei capitoli, o sui troni dei vescovi e dei cardinali; uno sguardo
+lontano, vigile, greve dell'[[Humility|umiltà]] di un fardello troppo grande
+per gli uomini. Qualcosa di quello sguardo ansioso e proteso lontano si
+ritrova negli occhi dei marinai e di coloro che hanno guidato attraverso
+tante tempeste la [[Ship|nave]] di san Pietro.
+
+«È molto gentile da parte sua raccontarmi tutto questo», disse. «Le sono
+davvero terribilmente grato, perché forse dovremo farci qualcosa. Se si
+trattasse soltanto di persone come lei e il generale, potrebbe restare
+una faccenda privata; ma se Sir John Cockspur ha intenzione di diffondere
+una qualche specie di allarme sui suoi giornali... [[Well|be']], è un
+orangista di Toronto, e difficilmente possiamo tenercene fuori.»
+
+«Ma che cosa dirà a proposito?» chiese Mallow con ansia.
+
+«La prima cosa che direi a proposito», disse [[Father Brown]], «è che, così
+come la racconta lei, non suona come la vita. Supponiamo, per amor di
+discussione, che noi si sia tutti quanti vampiri pessimisti che
+inaridiscono ogni felicità umana. Supponiamo che io sia un vampiro
+pessimista.» Si grattò il naso con l'orsacchiotto, si rese vagamente
+conto dell'incongruità e lo posò. «Supponiamo di distruggere davvero
+ogni legame umano e familiare. Perché mai dovremmo reirretire un uomo in
+un vecchio legame di famiglia proprio quando dava segno di volersene
+liberare? Di certo è un po' ingiusto accusarci al tempo stesso di
+schiacciare un simile affetto e di incoraggiare una simile infatuazione.
+Non vedo perché anche un maniaco religioso dovrebbe essere proprio quel
+particolare tipo di monomaniaco, né come la religione potrebbe accrescere
+quella mania, se non ravvivandola con un po' di [[Hope|speranza]].»
+
+Poi, dopo una pausa, disse: «Mi piacerebbe parlare con quel suo
+generale».
+
+«È stata sua moglie a raccontarmelo», disse Mallow.
+
+«Sì», replicò l'altro; «ma m'interessa di più ciò che lui non le ha
+detto che ciò che lei le ha detto.»
+
+«Crede che lui sappia più di quanto sappia lei?»
+
+«Credo che sappia più di quanto lei dica», rispose [[Father Brown]]. «Lei
+mi dice che ha usato una frase sul perdonare ogni cosa tranne la
+scortesia verso sua moglie. Dopotutto, che altro c'era da perdonare?»
+
+[[Father Brown]] si era alzato e aveva scrollato i suoi abiti informi, e
+stava a guardare il giovane con gli occhi socchiusi e un'espressione
+leggermente beffarda. Un istante dopo si era voltato e, raccolti
+l'ombrello altrettanto informe e il grande cappello sciupato, se ne andò
+arrancando giù per la strada.
+
+Arrancò attraverso una varietà di ampie vie e piazze finché non giunse a
+una bella [[house|casa]] all'antica nel West End, dove chiese al domestico se
+potesse vedere il generale Outram. Dopo un breve parlamentare fu
+introdotto in uno studio, arredato meno di libri che di carte geografiche
+e mappamondi, dove l'anglo-indiano calvo e dalle basette nere sedeva
+fumando un lungo, sottile sigaro nero e giocherellando con degli spilli
+su una mappa.
+
+«Mi spiace importunarla», disse il prete, «e tanto più perché non posso
+impedire che l'intrusione appaia come un'ingerenza. Desidero parlarle di
+una faccenda privata, ma solo nella [[Hope|speranza]] di mantenerla privata.
+Purtroppo alcune persone son propense a renderla pubblica. Credo,
+generale, che lei conosca Sir John Cockspur.»
+
+La massa di baffi e basette nere fungeva da una sorta di maschera per la
+metà inferiore del volto del vecchio generale; era sempre difficile
+capire se sorridesse, ma i suoi occhi castani avevano spesso un certo
+luccichio.
+
+«Lo conoscono tutti, immagino», disse. «Io non lo conosco molto
+[[Well|bene]]..»
+
+«[[Well|Be']], sa che tutti sanno quel che lui sa», disse [[Father Brown]]
+sorridendo, «quando ritiene opportuno stamparlo. E dal mio amico signor
+Mallow, che lei conosce, mi risulta, apprendo che Sir John sta per
+stampare certi articoli anticlericali roventi fondati su quello che
+chiamerebbe il Mistero di Marne. "I [[Monks|monaci]] fanno impazzire il
+marchese", eccetera.»
+
+«Se è così», replicò il generale, «non vedo perché dovrebbe venire da me
+a parlarne. Devo dirle che sono un fervente protestante.»
+
+«Sono molto affezionato ai fervidi protestanti», disse [[Father Brown]].
+«Sono venuto da lei perché ero sicuro che mi avrebbe detto la
+[[Truth|verità]]. [[Hope|Spero]] che non sia poco caritatevole sentirsi meno
+sicuri di Sir John Cockspur.»
+
+Gli occhi castani luccicarono di nuovo, ma il generale non disse nulla.

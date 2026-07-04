@@ -765,6 +765,10 @@ They sat down on the comfortable padded benches.
 <div class="excerpt-crumb">Chesterton · <a href="/works/innocence-(chesterton)">The Innocence of Father Brown</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/innocence/story_10_the_eye_of_apollo">‹ Story 10 The Eye of Apollo</a><a class="ex-next" href="/testi/chesterton/atomized/innocence/story_12_the_three_tools_of_death">Story 12 The Three Tools of Death ›</a></div>
 </nav>
+<nav class="excerpt-children">
+<div class="excerpt-children-label">In questa sezione</div>
+<ul><li><a href="/testi/chesterton/atomized/innocence/story_11_the_sign_of_the_broken_sword/part_01">Part 1</a></li><li><a href="/testi/chesterton/atomized/innocence/story_11_the_sign_of_the_broken_sword/part_02">Part 2</a></li><li><a href="/testi/chesterton/atomized/innocence/story_11_the_sign_of_the_broken_sword/part_03">Part 3</a></li><li><a href="/testi/chesterton/atomized/innocence/story_11_the_sign_of_the_broken_sword/part_04">Part 4</a></li><li><a href="/testi/chesterton/atomized/innocence/story_11_the_sign_of_the_broken_sword/part_05">Part 5</a></li><li><a href="/testi/chesterton/atomized/innocence/story_11_the_sign_of_the_broken_sword/part_06">Part 6</a></li></ul>
+</nav>
 
 # [[innocence]] — Il segno della [[Sword|Spada]] spezzata
 

@@ -140,7 +140,7 @@ Don't you really believe in the family story at all?"
 
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/works/wifrb11-(chesterton)">The Wisdom of Father Brown</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/wifrb11-(chesterton)">The Wisdom of Father Brown</a> › <a href="/testi/chesterton/atomized/wifrb11/story_08_the_perishing_of_the_pendragons">Story 08 The Perishing of the Pendragons</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/wifrb11/story_08_the_perishing_of_the_pendragons/part_03">‹ part 03</a><a class="ex-next" href="/testi/chesterton/atomized/wifrb11/story_08_the_perishing_of_the_pendragons/part_05">part 05 ›</a></div>
 </nav>
 

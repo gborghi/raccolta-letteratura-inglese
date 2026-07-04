@@ -858,6 +858,10 @@ he is also a poet.'
 <div class="excerpt-crumb">Chesterton · <a href="/works/incredulity-(chesterton)">Incredulity</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/incredulity/story_07_the_doom_of_the_darnaways">‹ Story 07 The Doom of the Darnaways</a><a class="ex-next" href="/testi/chesterton/atomized/incredulity/story_01_the_resurrection_of_father_brown/part_01">part 01 ›</a></div>
 </nav>
+<nav class="excerpt-children">
+<div class="excerpt-children-label">In questa sezione</div>
+<ul><li><a href="/testi/chesterton/atomized/incredulity/story_08_the_ghost_of_gideon_wise/part_01">Part 1</a></li><li><a href="/testi/chesterton/atomized/incredulity/story_08_the_ghost_of_gideon_wise/part_02">Part 2</a></li><li><a href="/testi/chesterton/atomized/incredulity/story_08_the_ghost_of_gideon_wise/part_03">Part 3</a></li><li><a href="/testi/chesterton/atomized/incredulity/story_08_the_ghost_of_gideon_wise/part_04">Part 4</a></li><li><a href="/testi/chesterton/atomized/incredulity/story_08_the_ghost_of_gideon_wise/part_05">Part 5</a></li><li><a href="/testi/chesterton/atomized/incredulity/story_08_the_ghost_of_gideon_wise/part_06">Part 6</a></li><li><a href="/testi/chesterton/atomized/incredulity/story_08_the_ghost_of_gideon_wise/part_07">Part 7</a></li></ul>
+</nav>
 
 OTTO:  Il fantasma di Gideon Wise
 

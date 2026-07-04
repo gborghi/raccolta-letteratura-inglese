@@ -153,7 +153,7 @@ than did the late Colonel Clancy.  And now for the third [[Fragment|fragment]]."
 
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/works/innocence-(chesterton)">The Innocence of Father Brown</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/innocence-(chesterton)">The Innocence of Father Brown</a> › <a href="/testi/chesterton/atomized/innocence/story_11_the_sign_of_the_broken_sword">Story 11 The Sign of the Broken Sword</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/innocence/story_11_the_sign_of_the_broken_sword/part_02">‹ part 02</a><a class="ex-next" href="/testi/chesterton/atomized/innocence/story_11_the_sign_of_the_broken_sword/part_04">part 04 ›</a></div>
 </nav>
 

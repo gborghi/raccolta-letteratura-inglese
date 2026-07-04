@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/apprandcritofchdickens-(chesterton)">ApprAndCritOfChDickens</a> › <a href="/testi/chesterton/atomized/apprandcritofchdickens/chapter_01_page">Chapter 01 PAGE</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/apprandcritofchdickens/chapter_01_page/part_13">‹ part 13</a><a class="ex-next" href="/testi/chesterton/atomized/apprandcritofchdickens/chapter_01_page/part_15">part 15 ›</a></div>
@@ -183,3 +185,182 @@ illegible petitions against a man, [[Romance|romance]] does for him what we shou
 really like to see done. It knocks him down; it shortens the slow
 
 process of historical justice. All romances consist of three characters.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/apprandcritofchdickens-(chesterton)">ApprAndCritOfChDickens</a> › <a href="/testi/chesterton/atomized/apprandcritofchdickens/chapter_01_page">Chapter 01 PAGE</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/apprandcritofchdickens/chapter_01_page/part_13">‹ part 13</a><a class="ex-next" href="/testi/chesterton/atomized/apprandcritofchdickens/chapter_01_page/part_15">part 15 ›</a></div>
+</nav>
+
+costretto a calpestare i propri teneri sentimenti; e proprio per questa ragione esso
+
+è l'unico libro in cui tutta la tenerezza che vi si trova è del tutto
+
+indubitabilmente vera. Un mirabile esempio di ciò che intendo si può rinvenire
+
+nella scena in cui [[Sam Weller]] scende a far visita al padre in lutto dopo
+
+la [[Death|morte]] della matrigna. Il più fedele ammiratore di Dickens a stento
+
+riesce a trattenere un lieve brivido quando pensa a
+
+ciò che Dickens avrebbe potuto fare di quella scena in alcuni dei suoi momenti più espansivi
+
+e lacrimevoli. Per quel che ne so, la vecchia signora Weller avrebbe potuto chiedere
+
+cosa dicessero le onde selvagge; e per quel che ne so il vecchio signor Weller avrebbe potuto
+
+dirglielo. Così com'è, Dickens, costretto a mantenere il racconto teso e
+
+umoristico, offre un quadro di umile rispetto e decoro che è virile,
+
+dignitoso e davvero triste. Non v'è tentativo alcuno, da parte di questi uomini semplici e
+
+onesti, il padre e il figlio, di fingere che la donna morta fosse
+
+alcunché di assai diverso da ciò che era; il loro rispetto è per la [[Death|morte]], e per
+
+la debolezza e il mistero umani che essa deve infine ricoprire. Il vecchio Tony
+
+Weller non dice alla sua bisbetica moglie che ella è già un
+
+angelo dalle ali candide; le parla con un'ammirevole buona [[Nature|natura]] e
+
+buon senso:
+
+     «"Susan", dico, "sei stata in tutto e per tutto una mogliettina davvero buona per me:
+
+     fatti coraggio, mia cara, e vivrai abbastanza da vedermi spaccare la
+
+     testa a quello Stiggins, un giorno o l'altro." A questo sorrise, Samivel... ma
+
+     morì dopo tutto.»
+
+Questa è forse la prima e l'ultima [[Time|volta]] che Dickens abbia mai sfiorato
+
+l'estrema dignità del pathos. Egli sta frenando la propria compassione, e
+
+in seguito la lasciò andare. Ora, il riso è cosa che si può lasciar andare;
+
+il riso ha in sé una qualità di libertà. Ma il dolore ha in sé, per sua
+
+stessa [[Nature|natura]], una qualità di reclusione; il pathos per sua stessa [[Nature|natura]] lotta
+
+con se stesso. L'[[Humour]] è espansivo; erompe all'infuori; il fatto è
+
+attestato dall'espressione comune, «tenersi i fianchi». Ma il dolore non è
+
+espansivo; e fu in seguito l'errore di Dickens l'aver
+
+cercato di renderlo espansivo. È l'unica grande debolezza di Dickens come
+
+grande scrittore, l'aver tentato di fare di quella subitanea tristezza, di quell'improvvisa
+
+pietà che chiamiamo pathos, una cosa affatto ovvia, contagiosa, pubblica,
+
+come se fosse giornalismo o morbillo. È piacevole pensare che in
+
+questo supremo capolavoro, compiuto all'[[Dawn|alba]] della sua carriera, non v'è
+
+nemmeno questa debole macchia sul sole del suo giusto splendore. [[Pickwick]]
+
+sarà sempre ricordato come il grande esempio di tutto ciò che rese
+
+grande Dickens; della solenne convivialità delle grandi amicizie, delle
+
+erratiche avventure delle antiche strade inglesi, dell'ospitalità delle antiche
+
+locande inglesi, della grande, fondamentale bontà e [[Honour|onore]] delle antiche
+
+usanze inglesi. Prima di tutto, però, sarà sempre ricordato per
+
+il suo riso, o, se volete, per la sua follia. Un buon scherzo è l'unica
+
+cosa ultima e sacra che non possa essere criticata. I nostri rapporti
+
+con un buon scherzo sono rapporti diretti e persino divini. Diciamo di
+
+«vedere» uno scherzo proprio come diciamo di «vedere» un [[Ghost|fantasma]] o una visione. Se
+
+l'abbiamo veduta, è vano discutere con noi; e noi abbiamo veduto la visione
+
+del _Pickwick_. Il _Pickwick_ è forse il vertice dell'[[Humour|humour]] di Dickens; credo
+
+che nel complesso lo sia. Ma l'ampio [[Humour|humour]] del _Pickwick_ egli lo allargò
+
+su molti mirabili regni; lo stretto pathos del _Pickwick_ non lo
+
+ritrovò mai più.
+
+[[Nicholas Nickleby|NICHOLAS NICKLEBY]]
+
+Il [[Romance|romanzesco]] è forse il più alto vertice dell'espressione umana, eccetto invero
+
+la religione, cui è strettamente affine. Il [[Romance|romanzesco]] somiglia alla religione
+
+soprattutto in questo, che esso non è solo una semplificazione ma un
+
+accorciamento dell'esistenza. Sia il [[Romance|romanzesco]] sia la religione vedono ogni cosa come
+
+scorciata; vedono ogni cosa in una prospettiva brusca e fantastica,
+
+che culmina in un apice. È tutta l'essenza della prospettiva
+
+il giungere a un punto. Similmente, la religione giunge a un punto: al
+
+punto. Così la religione insiste sempre sulla brevità della vita umana.
+
+Ma non insiste sulla brevità della vita umana come vi insistono i pessimisti.
+
+Il pessimismo insiste sulla brevità della vita umana al fine
+
+di mostrare che la vita è priva di valore. La religione insiste sulla brevità della
+
+vita umana al fine di mostrare che la vita è spaventosamente preziosa: è quasi
+
+orribilmente preziosa. Il pessimismo dice che la vita è così breve da non concedere
+
+a nessuno un'occasione; la religione dice che la vita è così breve da concedere
+
+a ciascuno la sua occasione finale. Nel primo caso la parola brevità significa
+
+futilità; nel secondo caso, opportunità. Ma il caso è ancor più forte
+
+di così. La religione accorcia ogni cosa. La religione accorcia perfino
+
+l'[[Eternity|eternità]]. Là dove la scienza, sottomettendosi al falso metro del [[Time|tempo]], vede
+
+l'evoluzione, che è lenta, la religione vede la creazione, che è subitanea.
+
+Filosoficamente parlando, il processo non è né lento né rapido, poiché
+
+non abbiamo nulla con cui compararlo. La religione preferisce pensarlo come
+
+rapido. Per la religione i [[Flowers|fiori]] spuntano d'improvviso come razzi. Per
+
+la religione le [[Mountains|montagne]] si sollevano d'improvviso come onde. Coloro che
+
+citano quel bel passo che dice che agli occhi di Dio mille anni
+
+sono come il giorno di ieri che è trascorso, e come una veglia nella [[Night|notte]], non colgono
+
+tutta la forza del significato. Per Dio mille anni non sono solo una
+
+veglia, ma un'eccitante veglia. Per Dio il [[Time|tempo]] va al galoppo, come accade
+
+a un uomo che legge un buon racconto.
+
+Tutto ciò è, in umile misura, vero per il [[Romance|romanzesco]]. Il [[Romance|romanzesco]] è un
+
+accorciamento e un affilamento della difficoltà umana. Là dove tu e io dobbiamo
+
+votare contro un uomo, o scrivere (piuttosto fiaccamente) contro un uomo, o firmare
+
+illeggibili petizioni contro un uomo, il [[Romance|romanzesco]] fa per lui ciò che noi
+
+vorremmo davvero veder fatto. Lo atterra; accorcia il lento
+
+processo della giustizia storica. Tutte le storie romanzesche constano di tre personaggi.

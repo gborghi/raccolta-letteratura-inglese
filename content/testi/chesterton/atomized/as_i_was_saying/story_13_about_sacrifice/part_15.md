@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/as-i-was-saying-(chesterton)">As I Was Saying</a> › <a href="/testi/chesterton/atomized/as_i_was_saying/story_13_about_sacrifice">Story 13 ABOUT SACRIFICE</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/as_i_was_saying/story_13_about_sacrifice/part_14">‹ part 14</a><a class="ex-next" href="/testi/chesterton/atomized/as_i_was_saying/story_13_about_sacrifice/part_16">part 16 ›</a></div>
@@ -111,3 +113,110 @@ on which it could really rely.  And it is especially awkward,
 when the young man who has never learned anything except how to hate
 his own father and grandfather, is suddenly called upon to [[Love|love]]
 all men like brothers.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/as-i-was-saying-(chesterton)">As I Was Saying</a> › <a href="/testi/chesterton/atomized/as_i_was_saying/story_13_about_sacrifice">Story 13 ABOUT SACRIFICE</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/as_i_was_saying/story_13_about_sacrifice/part_14">‹ part 14</a><a class="ex-next" href="/testi/chesterton/atomized/as_i_was_saying/story_13_about_sacrifice/part_16">part 16 ›</a></div>
+</nav>
+
+Questa curiosa [[Tragicomedy|tragicommedia]] viene di continuo rimessa in scena,
+specialmente in tempi recenti, ogni volta che un [[debate|dibattito]] verte sulla [[philosophy|filosofia]]
+quale si manifesta nella [[history|storia]].  Così il giovane che si è unito
+al celebre voto pacifista di [[Oxford]] non mancherà, si capisce, di
+proclamare l'ideale dell'internazionalismo, e di trattare il nazionalismo
+come una superstizione preistorica tramandataci dalle età degli antropoidi.
+Lo si può spesso udire dichiarare che gli armamenti e le armi (due cose
+piuttosto diverse) sono un residuo del medievalismo, e che a un
+internazionalista del ventesimo secolo non si può chiedere di tornare
+al Medioevo.  E allora, forse, qualche suo amico cui capiti
+di conoscere qualcosa di [[history|storia]] gli farà notare che avanzare
+verso l'internazionalismo significa proprio tornare al Medioevo.
+Poiché gli abissi profondissimi che oggi dividono le diverse nazioni
+non apparivano che come crepe quando il sistema medievale andò in frantumi.
+È assurdo mettere gli armamenti moderni sullo stesso piano di quelli medievali,
+giacché la polvere da sparo fece assai più per distruggere il sistema medievale
+che per conservarlo.  E l'intellettuale indignato non riesce a decidersi
+se ammirare la polvere da sparo perché fu una scoperta
+scientifica, oppure deplorarla perché è un'arma patriottica.
+Ha le vertigini, nello sforzo di tenersi a uguale distanza dal
+nonno del tredicesimo secolo e dal padre del diciassettesimo.
+Vediamo un compendio limpido di questa contraddizione nel discorrere piuttosto morboso
+che qua e là si sente a proposito di ciò che vien chiamato «la
+prossima guerra».  Curiosamente, sono le stesse persone che sempre ci insegnano,
+nei loro Compendi di [[history|Storia]] e nelle loro Enciclopedie di Ogni Cosa,
+che tutto va sempre di bene in meglio, e che perfino
+i nostri contemporanei più miserabili sono più felici dei loro padri—
+sono queste stesse persone a raccontarci sempre che un solo passo falso
+nella diplomazia moderna, o una sola menzogna nel giornalismo moderno,
+possono precipitare un orrore torreggiante e rovinoso di tortura e
+di panico ben peggiore di qualunque cosa il mondo abbia mai conosciuto prima.
+Ci si potrebbe [[Well|ben]] domandare, con una certa astratta curiosità,
+perché la nostra civiltà debba produrre il peggio in fatto di guerra,
+se deve produrre il meglio in fatto di tutto il resto.
+
+Ho trovato un altro esempio di questa strana [[Parable|parabola]] del figlio, del padre
+e del nonno in un libro che mi è capitato di leggere su un argomento
+del tutto diverso.  È del signor Don Marquis, l'eminente
+scrittore americano, e contiene molte idee bizzarre e divertenti;
+per quanto tenda piuttosto a cadere nel solco di quella sorta di ridicolo,
+fatto di frivolezze su Jehovah e [[Satan]] e i santi e gli angeli,
+che era assai più spassoso quando cominciò in Voltaire di quanto non
+fosse quando finì in Mark Twain.  Ma ciò che mi interessa di questo libro è questo:
+che, mentre esso somiglia al _Black Girl in Search of God_ del signor [[Shaw]]
+in questa specie di profanità professionale, lo scrittore è molto
+più serio, e perciò molto più vivace e divertente,
+nel dare risalto a un'altra idea, anch'essa adombrata dal signor [[Shaw]].
+Intendo tutta quella nozione della Donna Cacciatrice, coi maschi atterriti
+che fuggono davanti alle sue reti e ai suoi dardi, o riluttanti prigionieri del suo
+arco e della sua lancia.  Il tutto dovrebbe suonare modernissimo,
+benché in sé sia piuttosto anti-femminista che anticlericale.
+Ma non suppongo sia mai venuto in mente all'autore anticlericale
+che questo è esattamente l'atteggiamento per cui il mondo ha rimproverato
+la specie più fanatica dei chierici.  Era proprio questa visione «moderna»
+della Donna che davvero fu espressa, e spesso esagerata,
+dai primi eremiti fuggiaschi nel [[Desert|deserto]], o dai più fanatici
+[[Monks|monaci]] fin troppo vicini alla linea di confine della [[Madness|follia]] dei manichei.
+Considerare la Donna, in modo forsennato, come un Terrore Empio, invece che a ragione
+come un Terrore Sacro, era l'abuso dell'ascetismo; ma pare sia
+diventato assai utile e usuale nella modernità.
+
+Anche qui il brillante moderno introduce come modernità
+qualcosa che assomigliava piuttosto a una delle bizze dell'antichità;
+si precipita indietro dal nonno ascetico per sfuggire
+al padre romantico.  E in entrambi i casi la confusione
+è dovuta alla medesima patetica qualità di tutta la sua posizione.
+Barcolla di secolo in secolo, perché non ha
+alcun vero terreno su cui posare i piedi; e non ha terreno
+perché ha distrutto qualunque cosa su cui potesse reggersi.
+Alla gioventù moderna si è rimproverato di aver introdotto la moda delle danze dei negri;
+ma l'unica pagliacciata da negro che davvero rimpiango è la [[Dance|danza]] che un tempo
+era chiamata «The Breakdown», che sfonda il pavimento della sala da ballo
+e finisce con la scomparsa del ballerino e della [[Dance|danza]].
+L'obiezione a tutto questo pensiero meramente distruttivo è che alla fine
+tale distruzione è auto[[Self|distruzione]]. Il gioco del «disfare
+la [[Home|casa]] felice», anche quando è, per davvero, un passatempo lieto e briccone,
+è per forza un passatempo breve; e alla fine sono i giocatori a
+uscire dalle rovine, senza tetto e senza casa, per diventare uomini spezzati.
+Ecco perché la prima cosa da provare per loro è una pietà profonda
+e genuina; una pietà che non è affatto un termine ironico
+per indicare la degnazione.  Come dovremmo essere sinceramente addolorati per i vagabondi
+e i miserabili che sono materialmente senza tetto, così dovremmo dolerci
+per coloro che sono moralmente senza casa, e che soffrono una fame
+filosofica letale quanto la fame fisica.  Non solo è
+vero che alcuni dei più moderni filosofi cercano soltanto
+di dimostrare che non possiamo avere una [[philosophy|filosofia]]; è ancor più vero
+che i più moderni tra gli scienziati della natura cercano soltanto
+di dimostrare che la scienza non è fisica.  Sarebbe ancora più vero dire
+che alcuni di essi cercano di dimostrare che la scienza non è scienza.
+Poiché scienza non è che un'antica parola per conoscenza; e la conoscenza è
+esattamente ciò che alcuni dei nuovi scienziati dicono che non potremo mai ottenere.
+Tutto ciò, a torto o a ragione, ha lasciato quella generazione, in misura senza
+precedenti, sprovvista di qualsiasi assioma su cui agire, o di qualsiasi criterio
+su cui potesse davvero fare affidamento.  Ed è particolarmente imbarazzante
+che il giovane, il quale non ha mai imparato nulla se non a odiare
+il proprio padre e il proprio nonno, sia d'un tratto chiamato ad [[Love|amare]]
+tutti gli uomini come fratelli.

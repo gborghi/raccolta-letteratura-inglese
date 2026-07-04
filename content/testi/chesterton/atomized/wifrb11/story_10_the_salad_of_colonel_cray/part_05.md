@@ -135,7 +135,7 @@ a long time looking for the police."
 
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/works/wifrb11-(chesterton)">The Wisdom of Father Brown</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/wifrb11-(chesterton)">The Wisdom of Father Brown</a> › <a href="/testi/chesterton/atomized/wifrb11/story_10_the_salad_of_colonel_cray">Story 10 The Salad of Colonel Cray</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/wifrb11/story_10_the_salad_of_colonel_cray/part_04">‹ part 04</a><a class="ex-next" href="/testi/chesterton/atomized/wifrb11/story_11_the_strange_crime_of_john_boulnois/part_01">part 01 ›</a></div>
 </nav>
 

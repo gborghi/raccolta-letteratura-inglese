@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/charlesdickens-(chesterton)">CharlesDickens</a> › <a href="/testi/chesterton/atomized/charlesdickens/chapter_14">Chapter 14</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/charlesdickens/chapter_14/part_02">‹ part 02</a><a class="ex-next" href="/testi/chesterton/atomized/charlesdickens/chapter_14/part_04">part 04 ›</a></div>
@@ -137,3 +139,136 @@ the humanity of the oppressed, but even the humanity of the oppressor.
 The satirist had, in a sense, to create the images in the mind before,
 as an iconoclast, he could destroy them.  Dickens had to make
 Squeers live before be could make him die.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/charlesdickens-(chesterton)">CharlesDickens</a> › <a href="/testi/chesterton/atomized/charlesdickens/chapter_14">Chapter 14</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/charlesdickens/chapter_14/part_02">‹ part 02</a><a class="ex-next" href="/testi/chesterton/atomized/charlesdickens/chapter_14/part_04">part 04 ›</a></div>
+</nav>
+
+Uno scrittore abbastanza tipico del recente rivoluzionismo — Gorky — ha intitolato
+uno dei suoi libri con l'inquietante ed efficace titolo «Creature
+che un tempo furono Uomini». Quel titolo spiega l'intero fallimento
+della rivoluzione russa. E la ragione per cui gli scrittori inglesi,
+come Dickens, riuscirono con tutti i loro limiti a realizzare tante
+delle cose effettive cui miravano fu che non avrebbero
+mai potuto porre un simile titolo su un libro umano. Dickens aiutò davvero
+gli sventurati nelle cose cui si dedicava.
+E la ragione è che attraverso tutti i suoi libri e schizzi sugli
+sventurati si potrebbe scrivere il comune titolo: «Creature che
+sono Ancora Uomini».
+
+Esiste dunque davvero questo strano riformatore ottimista;
+l'uomo la cui opera comincia con l'approvazione e finisce con il terremoto.
+Gesù [[Christ|Cristo]] era destinato a fondare una [[Faith|fede]] che rese i ricchi
+più poveri e i poveri più ricchi; ma anche quando stava per
+arricchirli, cominciò con la frase: «Beati i poveri».
+I Gissing e i Gorky dicono, come universale motto letterario,
+«Maledetti i poveri». Fra un milione di persone che hanno debolmente seguito
+[[Christ|Cristo]] in questa divina contraddizione, Dickens spicca in modo particolare.
+Egli diceva, in tutte le sue dichiarazioni riformatrici: «Curate la [[Poverty|povertà]]»;
+ma diceva, in tutte le sue effettive descrizioni: «Beati i poveri».
+Descriveva la loro felicità, e gli uomini si precipitavano a rimuovere
+il loro dolore. Li descriveva come umani, e gli uomini si sdegnavano
+degli insulti alla loro umanità. Non è difficile
+capire perché, come ho detto in una fase precedente di questo libro,
+le denunce di Dickens abbiano avuto un effetto tanto più pratico
+delle denunce di un uomo come Gissing. Entrambi convenivano
+che le anime del popolo fossero in una specie di [[Prison|prigione]].
+Ma Gissing diceva che la [[Prison|prigione]] era piena di anime morte.
+Dickens diceva che la [[Prison|prigione]] era piena di anime vive.
+E l'infuocata cavalcata dei soccorritori sentì che non
+era giunta troppo tardi.
+
+Su questo fatto generale riguardo alle descrizioni della [[Poverty|povertà]] di Dickens
+non vi sarà, suppongo, alcuna seria contesa.
+La contesa riguarderà soltanto la [[Truth|verità]] di quelle descrizioni.
+È chiaro che, laddove Gissing direbbe: «Guardate come la loro [[Poverty|povertà]]
+deprime gli Smith o i Brown», Dickens dice: «Guardate quanto poco,
+in fondo, la loro [[Poverty|povertà]] possa deprimere i Cratchit». Nessuno
+negherà che dei poveri egli fece un tratto speciale. Verremo
+tra un momento alla discussione della veridicità di queste scene.
+Qui basta registrare, a conclusione del nostro
+esame dell'ottimista riformatore, che Dickens fu certamente
+un simile ottimista, e che si fece un dovere di insistere
+su quanta felicità vi sia nelle vite degli infelici.
+Il suo povero è sempre un [[Mark Tapley]], un uomo l'ottimismo del cui
+spirito cresce semmai con il pessimismo della sua esperienza.
+Si può anche registrare come fatto egualmente solido e del tutto egualmente
+dimostrabile che questo Dickens ottimista attuò davvero grandi riforme.
+
+Le riforme di cui Dickens fu strumento erano, in verità, dal punto
+di vista delle nostre travolgenti panacee sociali, speciali e limitate.
+Ma forse, proprio per questa ragione, offrono un compatto e
+concreto esempio del [[Paradox|paradosso]] psicologico di cui parliamo.
+Dickens distrusse davvero — o quantomeno contribuì a distruggere —
+certe istituzioni; le distrusse semplicemente
+descrivendole. Ma il nodo e la peculiarità dell'intera faccenda
+è questa, che, in un certo senso, si può davvero dire che egli descrisse
+queste cose troppo ottimisticamente. In un senso reale, egli descrisse
+la Dotheboys Hall come un luogo migliore di quel che è. In un senso reale,
+egli fece dell'ospizio dei poveri un luogo più gradevole di quanto possa mai essere.
+Poiché la gloria principale di Dickens è che rese questi luoghi interessanti;
+e la principale infamia dell'Inghilterra è che ha reso questi luoghi tetri.
+La tetraggine era la cosa che il genio di Dickens non riuscì mai
+a descrivere; la sua vitalità era così violenta che non poteva introdurre
+nei suoi libri l'impressione genuina neppure di un momento di monotonia.
+Se vi è in qualche punto dei suoi romanzi un istante di [[Silence|silenzio]],
+udiamo solo più chiaramente l'[[Hero|eroe]] che bisbiglia con l'eroina,
+il [[Villain|malvagio]] che affila il pugnale, o lo scricchiolio del macchinario
+che deve far scendere il dio dalla [[Machine|macchina]]. Egli sapeva descrivere
+splendidamente i luoghi tetri, ma non i luoghi squallidi.
+Sapeva descrivere matrimoni infelici, ma non matrimoni monotoni.
+Dev'essere stato genuinamente divertente essere sposati con
+il signor Quilp. Questo senso di un'eccitazione ancora incessante egli lo stende su
+ogni pollice della sua storia, e su ogni oscura distesa del suo paesaggio.
+La sua idea di luogo desolato è un luogo dove tutto può accadere,
+non ha alcuna idea di quel luogo desolato dove nulla può accadere.
+Questa è una buona cosa per la sua [[Soul|anima]], perché il luogo dove nulla
+può accadere è l'inferno. Ma tuttavia, si potrebbe ragionevolmente sostenere,
+dalla mentalità moderna, ch'egli sia ostacolato nel descrivere il male e il dolore
+umani da questa incapacità di immaginare il tedio, da questa tetraggine
+in materia di tetraggine. Poiché, in fondo, è certamente vero
+che la parte peggiore della sorte dello sventurato è il fatto ch'egli
+ha lunghi spazi in cui riesaminare l'irrevocabilità della propria condanna.
+È certamente vero che i giorni peggiori dell'uomo oppresso sono
+i nove giorni su dieci in cui non è oppresso. Questo senso
+di nausea e di monotonia Dickens certamente mancò, o rifiutò, di dare.
+Quando leggiamo una descrizione così eccellente — nei dettagli —
+come quella della Dotheboys Hall, sentiamo che, mentre tutto il resto è accurato,
+l'autore, con le parole dell'eccellente Capitano Nares
+nel «Wrecker» di Stevenson, «dipinge lo squallore piuttosto blando».
+I ragazzi di Dotheboys erano, forse, meno malmenati, ma erano
+certamente più annoiati. Poiché, in verità, come potrebbe qualcuno annoiarsi con
+la compagnia di una creatura tanto sontuosa quanto il signor Squeers? Chi non
+sopporterebbe qualche frustata illogica pur di godersi
+la conversazione di un uomo capace di dire: «Un tipo bizzarro è
+la Natura... La Natura si concepisce più facilmente di quanto si descriva».
+Lo stesso principio si applica all'ospizio dei poveri in «[[Oliver Twist]]». Sentiamo
+vagamente che né [[Oliver]] né alcun altro potrebbe essere del tutto infelice
+alla presenza della purpurea personalità del signor Bumble. L'unica
+cosa ch'egli non descrisse, in nessuno degli abusi che denunciò, fu
+la potenza distruttrice dell'[[Soul|anima]] della routine. Egli fece della cattiva scuola,
+del cattivo sistema parrocchiale, della cattiva [[Prison|prigione]] per debitori qualcosa di ben più
+allegro ed eccitante di quanto in realtà possano essere stati.
+In un certo senso, dunque, li adulò; ma li distrusse con
+l'adulazione. Rendendo la signora Gamp deliziosa, la rese impossibile.
+Diede a tutti un interesse nell'esistenza del signor Bumble;
+e con lo stesso atto diede a tutti un interesse nella sua distruzione.
+Sarebbe difficile trovare un esempio più forte dell'utilità
+e dell'energia del metodo che abbiamo, per amor di discussione,
+chiamato il metodo del riformatore ottimista. Finché le basse scuole
+dello Yorkshire furono del tutto incolori e squallide, continuarono a essere quietamente
+tollerate dal pubblico e quietamente intollerabili alle vittime.
+Finché Squeers fu tanto tetro [[Well|quanto]] crudele, fu permesso;
+nel momento in cui divenne tanto divertente [[Well|quanto]] crudele, fu distrutto.
+Finché Bumble fu semplicemente disumano, fu tollerato.
+Quando divenne umano, l'umanità lo spazzò via del tutto. Poiché, per
+compiere questi grandi atti di giustizia, dobbiamo sempre comprendere non solo
+l'umanità dell'oppresso, ma perfino l'umanità dell'oppressore.
+Il satirico dovette, in un certo senso, creare le immagini nella mente prima
+di poterle distruggere, da iconoclasta. Dickens dovette far
+vivere Squeers prima di poterlo far morire.

@@ -137,7 +137,7 @@ blessing of a jealous God.
 
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/works/everlasting-man-(chesterton)">The Everlasting Man</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/everlasting-man-(chesterton)">The Everlasting Man</a> › <a href="/testi/chesterton/atomized/everlasting_man/chapter_02">Chapter 02</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/everlasting_man/chapter_02/part_25">‹ part 25</a><a class="ex-next" href="/testi/chesterton/atomized/everlasting_man/chapter_02/part_27">part 27 ›</a></div>
 </nav>
 

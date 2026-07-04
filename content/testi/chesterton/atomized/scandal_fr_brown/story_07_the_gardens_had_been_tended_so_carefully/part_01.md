@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/scandal-fr-brown-(chesterton)">scandal Fr Brown</a> › <a href="/testi/chesterton/atomized/scandal_fr_brown/story_07_the_gardens_had_been_tended_so_carefully">Story 07 The gardens had been tended so carefully</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/scandal_fr_brown/story_05_the_pursuit_of_mr_blue/part_06">‹ part 06</a><a class="ex-next" href="/testi/chesterton/atomized/scandal_fr_brown/story_07_the_gardens_had_been_tended_so_carefully/part_02">part 02 ›</a></div>
@@ -125,3 +127,36 @@ a Chair of Persian; opposite the sinister Byles was a very mild -
 looking little Chaplain, with a head like an egg. Opposite the Bursar
 and at the right hand of the Master, was an empty chair; and there were
 many there who were glad to see it empty.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/scandal-fr-brown-(chesterton)">scandal Fr Brown</a> › <a href="/testi/chesterton/atomized/scandal_fr_brown/story_07_the_gardens_had_been_tended_so_carefully">Story 07 The gardens had been tended so carefully</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/scandal_fr_brown/story_05_the_pursuit_of_mr_blue/part_06">‹ part 06</a><a class="ex-next" href="/testi/chesterton/atomized/scandal_fr_brown/story_07_the_gardens_had_been_tended_so_carefully/part_02">part 02 ›</a></div>
+</nav>
+
+uno. I giardini erano stati curati con tanta cura da conseguire il trionfo finale dell'apparire trascurati; gli stessi [[Flowers|fiori]] parevano belli per caso, come eleganti erbacce; e gli abiti moderni possedevano almeno quel tanto di pittoresco che può nascere dal disordine. Il primo dei tre, un uomo alto, calvo, barbuto, lungo come un albero della cuccagna, era una figura ben nota nel Quad, in tocco e toga; e la toga gli scivolava giù da una delle spalle spioventi. Il secondo aveva spalle molto quadre, era basso e tarchiato, con un ghigno piuttosto gioviale, di solito vestito in giacca, con la toga sul braccio. Il terzo era ancor più basso e assai più malandato, in nera veste ecclesiastica. Ma tutti e tre parevano adatti al Mandeville College; e all'atmosfera indefinibile delle due antiche e uniche Università d'Inghilterra. Vi si accordavano e vi si dileguavano; il che lì è considerato quanto di più conveniente.
+
+I due uomini seduti su seggiole da [[Garden|giardino]] presso un tavolino erano una sorta di brillante macchia su quel paesaggio grigioverde. Erano vestiti quasi tutti di nero, eppure scintillavano da capo a piedi, dai loro lucidi cilindri agli stivali perfettamente lustri. Si avvertiva confusamente come un oltraggio che qualcuno potesse essere così [[Well|ben]] vestito nella [[Freedom|libertà]] di [[Well|buon]] tono del Mandeville College. L'unica scusante era che erano stranieri. Uno era un americano, un milionario di nome Hake, vestito in quella maniera immacolata e sfavillante da gentiluomo che solo i ricchi di [[New York]] conoscono. L'altro, che a tutto ciò aggiungeva l'oltraggio di un cappotto d'astrakan (per non dire d'un paio di fioriti favoriti), era un Conte tedesco di grande ricchezza, la parte più breve del cui nome era Von Zimmern. Il mistero di questa storia, tuttavia, non è il mistero del perché si trovassero là. Si trovavano là per la ragione che comunemente spiega l'incontro delle cose incongrue; si proponevano di dare al College un po' di denaro. Erano venuti a sostegno d'un progetto appoggiato da diversi finanzieri e magnati di molti paesi, per fondare una nuova Cattedra di Economia al Mandeville College. Avevano ispezionato il College con quell'instancabile e coscienziosa smania di veder tutto di cui nessun figlio d'Eva è capace tranne l'americano e il tedesco. E ora riposavano dalle loro fatiche, contemplando solennemente i giardini del College. Fin qui tutto bene.
+
+Gli altri tre uomini, che già li avevano incontrati, passarono con un vago saluto; ma uno di loro si fermò; il più piccolo dei tre, in nera veste ecclesiastica.
+
+«Sentite,» disse, con l'aria piuttosto d'un coniglio spaventato, «non mi piace l'aspetto di quei due uomini.»
+
+«Santo cielo! A chi potrebbe piacere?» esclamò l'uomo alto, che si dava il caso fosse il Rettore del Mandeville. «Almeno abbiamo qualche uomo ricco che non se ne va in giro conciato come un manichino da sarto.»
+
+«Sì,» sibilò il piccolo chierico, «è proprio questo che voglio dire. Come manichini da sarto.»
+
+«Ma via, che intendete?» chiese, brusco, il più basso degli altri.
+
+«Intendo che sembrano orribili figure di cera,» disse il chierico con voce fioca. «Intendo che non si muovono. Perché non si muovono?»
+
+D'improvviso, balzando fuori dal suo oscuro ritegno, guizzò attraverso il [[Garden|giardino]] e toccò il Barone tedesco al gomito. Il Barone tedesco cadde all'indietro, sedia e tutto, e le gambe inguainate nei pantaloni che si drizzarono in aria erano rigide quanto le gambe della sedia.
+
+Il signor Gideon P. Hake continuava a fissare i giardini del College con occhi vitrei; ma il paragone con la figura di cera confermava l'impressione che fossero occhi fatti di vetro. In qualche modo la luce ricca del sole e il [[Garden|giardino]] variopinto accrescevano l'inquietante impressione d'una bambola vestita di tutto punto; una marionetta su un palcoscenico italiano. Il piccolo uomo in nero, che era un prete di nome Brown, toccò tentennante il milionario sulla spalla, e il milionario cadde di lato, ma orribilmente tutto d'un pezzo, come qualcosa intagliato nel legno.
+
+«Rigor mortis,» disse [[Father Brown]], «e così presto. Ma varia parecchio, in verità.»
+
+Il motivo per cui i primi tre uomini avevano raggiunto gli altri due tanto tardi (per non dire troppo tardi) si comprenderà meglio notando ciò che era accaduto proprio all'interno dell'edificio, dietro l'arco Tudor, poco [[Time|tempo]] prima che uscissero. Avevano cenato tutti insieme nella Hall, all'High Table; ma i due filantropi stranieri, schiavi del dovere in fatto di veder tutto, erano solennemente tornati alla cappella, di cui un chiostro e una scala restavano ancora da esaminare; promettendo di ricongiungersi agli altri nel [[Garden|giardino]], per esaminare con altrettanta serietà i sigari del College. Gli altri, con spirito più reverente e assennato, si erano ritirati come al solito attorno al lungo, stretto tavolo di quercia, intorno al quale il vino del dopo cena era circolato, per quanto ne sapeva chiunque, fin da quando il College era stato fondato nel Medioevo da Sir John Mandeville, per incoraggiare l'arte del narrar storie. Il Rettore, con la gran barba bionda e la fronte calva, prese il capo del tavolo, e l'uomo tozzo dalla giacca quadrata sedette alla sua sinistra; giacché era l'Economo, ovvero l'uomo d'affari del College. Accanto a lui, da quel lato del tavolo, sedeva un uomo dall'aspetto strano, con quello che non si poteva chiamare altrimenti che un volto storto; poiché i suoi scuri ciuffi di baffi e sopracciglia, inclinati ad angoli contrari, formavano una sorta di zig-zag, come se metà del suo viso fosse raggrinzita o paralizzata. Si chiamava Byles; era il lettore di [[Roman History|Storia Romana]], e le sue opinioni politiche si fondavano su quelle di [[Coriolanus|Coriolano]], per non dire di Tarquinio il Superbo. Questo aspro conservatorismo, e questa visione rabbiosamente reazionaria d'ogni problema corrente, non era del tutto ignoto tra i docenti di stampo più antiquato; ma nel caso di Byles si insinuava il sospetto che fosse più un effetto che una causa della sua acredine. Più d'un osservatore acuto aveva ricevuto l'impressione che ci fosse davvero qualcosa di guasto in Byles; che qualche segreto o qualche grande sventura l'avesse inasprito; come se quel volto mezzo avvizzito fosse stato davvero fulminato come un albero colpito dalla [[Storm|tempesta]]. Più in là ancora sedeva [[Father Brown]], e in fondo al tavolo un Professore di Chimica, grande, biondo e mellifluo, con occhi assonnati e forse un po' furbi. Era [[Well|ben]] noto che questo filosofo naturale considerava gli altri filosofi, di tradizione più classica, press'a poco come vecchie logiche. Dall'altro lato del tavolo, di fronte a [[Father Brown]], sedeva un giovanotto molto bruno e silenzioso, con una barbetta nera a punta, introdotto perché qualcuno aveva insistito per avere una Cattedra di Persiano; di fronte al sinistro Byles sedeva un Cappellano piccolo e mitissimo d'aspetto, con una testa a forma d'uovo. Di fronte all'Economo e alla destra del Rettore c'era una sedia vuota; e molti tra i presenti erano lieti di vederla vuota.

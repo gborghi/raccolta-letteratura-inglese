@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/apprandcritofchdickens-(chesterton)">ApprAndCritOfChDickens</a> › <a href="/testi/chesterton/atomized/apprandcritofchdickens/chapter_02_celebrated_characters_who_are">Chapter 02 celebrated characters who are</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/apprandcritofchdickens/chapter_02_celebrated_characters_who_are/part_39">‹ part 39</a><a class="ex-next" href="/testi/chesterton/atomized/apprandcritofchdickens/chapter_02_celebrated_characters_who_are/part_41">part 41 ›</a></div>
@@ -175,6 +177,203 @@ subject to the trademark license, especially commercial
 redistribution.
 
 *** START: FULL LICENSE ***
+
+THE FULL PROJECT GUTENBERG LICENSE
+
+PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
+
+To protect the Project Gutenberg-tm mission of promoting the free
+
+distribution of electronic works, by using or distributing this work
+
+(or any other work associated in any way with the phrase "Project
+
+Gutenberg"), you agree to comply with all the terms of the Full Project
+
+Gutenberg-tm License (available with this file or online at
+
+http://gutenberg.org/license).
+
+Section 1.  General Terms of Use and Redistributing Project Gutenberg-tm
+
+electronic works
+
+1.A.  By reading or using any part of this Project Gutenberg-tm
+
+electronic work, you indicate that you have read, understand, agree to
+
+and accept all the terms of this license and intellectual property
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/apprandcritofchdickens-(chesterton)">ApprAndCritOfChDickens</a> › <a href="/testi/chesterton/atomized/apprandcritofchdickens/chapter_02_celebrated_characters_who_are">Chapter 02 celebrated characters who are</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/apprandcritofchdickens/chapter_02_celebrated_characters_who_are/part_39">‹ part 39</a><a class="ex-next" href="/testi/chesterton/atomized/apprandcritofchdickens/chapter_02_celebrated_characters_who_are/part_41">part 41 ›</a></div>
+</nav>
+
+opera. Fu un grande romanziere; ma fu anche, tra le altre cose, un
+
+buon giornalista e un uomo buono. Spesso è necessario che un buon
+
+giornalista scriva cattiva letteratura. Talvolta è il primo dovere di un
+
+uomo buono scriverla. I lavori scritti per denaro, a mio sentire, sono cose sacre; ma
+
+possono [[Well|ben]] essere segrete tanto [[Well|quanto]] sacre, come la sacra pentola che è
+
+loro compito far bollire. Nella raccolta intitolata _Reprinted Pieces_ ve ne
+
+sono alcuni, credo, che esigono o meritano questa giustificazione. Ve ne sono molti
+
+che scendono al di sotto del livello dei suoi riconosciuti libri di frammenti, come
+
+_The Sketches by Boz_ e _The Uncommercial Traveller_. Due o tre
+
+elementi della compilazione, tuttavia, la rendono del tutto essenziale a qualsiasi
+
+solido apprezzamento dell'autore.
+
+Di questi, il primo per importanza è quello che viene ultimo nell'ordine. Intendo
+
+i tre notevoli opuscoli sulla [[Sunday|domenica]] inglese, intitolati
+
+_Sunday under Three Heads_. Qui, almeno, troviamo l'eterno Dickens,
+
+sebbene non l'eterno Dickens della narrativa. Gli altri suoi suggerimenti politici e
+
+sociologici in questo volume sono a tal punto irrilevanti da risultare
+
+incidentali, e persino personali. Chiunque avrebbe potuto formarsi l'opinione di Dickens
+
+sulla fustigazione degli aggressori da strada, e mutarla in seguito. Chiunque
+
+avrebbe potuto giungere alla conclusione di Dickens sulle carceri modello, o a
+
+qualsiasi altra conclusione altrettanto ragionevole e irrilevante. Queste cose
+
+non hanno nulla del colore del carattere del grande uomo. Ma sul tema della
+
+[[Sunday|domenica]] inglese egli sta davvero per la propria [[philosophy|filosofia]]. Sta per una
+
+particolare visione, oggi remota tanto dai Liberali quanto dai Conservatori.
+
+Fu, in senso consapevole, il primo dei suoi portavoce. Fu in
+
+ogni senso l'ultimo.
+
+Nel suo appello a favore dei piaceri del popolo, Dickens è rimasto
+
+[[Alone|solo]]. I piaceri del popolo non hanno ora alcun difensore, Radicale o
+
+Tory. I Tories disprezzano il popolo. I Radicali disprezzano i piaceri.
+
+FINE
+
+  +--------------------------------------------------------------+
+
+  | Transcriber's Notes and Errata                               |
+
+  |                                                              |
+
+  | The Illustrations have been moved to between chapters.       |
+
+  |                                                              |
+
+  | The following typographical errors have been corrected:      |
+
+  |                                                              |
+
+  |   |Error              |Correction     |                      |
+
+  |   |a dupe and who was |a dupe who was |                      |
+
+  |   |pyschology         |psychology     |                      |
+
+  |   |Similiarly         |Smilarly       |                      |
+
+  |                                                              |
+
+  | The following words were found in both hyphenated and        |
+
+  | un-hyphenated forms in the text. The numbers in parentheses  |
+
+  | show the number of times each form occurred.                 |
+
+  |                                                              |
+
+  |   |framework (3)  |frame-work (1)  |                         |
+
+  |   |cocksure (2)   |cock-sure (2)   |                         |
+
+  |   |Ironmaster (1) |Iron-master (2) |                         |
+
+  |   |footprints (1) |foot-prints (1) |                         |
+
+  |   |goodwill (1)   |good-will (1)   |                         |
+
+  |                                                              |
+
+  +--------------------------------------------------------------+
+
+End of the Project Gutenberg EBook of Appreciations and Criticisms of the
+
+Works of Charles Dickens, by G. K. Chesterton
+
+*** END OF THIS PROJECT GUTENBERG EBOOK DICKENS ***
+
+***** This file should be named 22362-8.txt or 22362-8.zip *****
+
+This and all associated files of various formats will be found in:
+
+        http://www.gutenberg.org/2/2/3/6/22362/
+
+Produced by Sigal Alon, LN Yaddanapudi and the Online
+
+Distributed Proofreading Team at http://www.pgdp.net (This
+
+file was produced from images generously made available
+
+by The Internet Archive/Canadian Libraries)
+
+Updated editions will replace the previous one--the old editions
+
+will be renamed.
+
+Creating the works from public domain print editions means that no
+
+one owns a United States copyright in these works, so the Foundation
+
+(and you!) can copy and distribute it in the United States without
+
+permission and without paying copyright royalties.  Special rules,
+
+set forth in the General Terms of Use part of this license, apply to
+
+copying and distributing Project Gutenberg-tm electronic works to
+
+protect the PROJECT GUTENBERG-tm concept and trademark.  Project
+
+Gutenberg is a registered trademark, and may not be used if you
+
+charge for the eBooks, unless you receive specific permission.  If you
+
+do not charge anything for copies of this eBook, complying with the
+
+rules is very easy.  You may use this eBook for nearly any purpose
+
+such as creation of derivative works, reports, performances and
+
+research.  They may be modified and printed and given away--you may do
+
+practically ANYTHING with public domain eBooks.  Redistribution is
+
+subject to the trademark license, especially commercial
+
+redistribution.
+
+*** INIZIO: LICENZA COMPLETA ***
 
 THE FULL PROJECT GUTENBERG LICENSE
 

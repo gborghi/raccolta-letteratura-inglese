@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/secret-fr-brown-(chesterton)">secret Fr Brown</a> › <a href="/testi/chesterton/atomized/secret_fr_brown/story_08_the_chief_mourner_of_marne">Story 08 THE CHIEF MOURNER OF MARNE</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/secret_fr_brown/story_08_the_chief_mourner_of_marne/part_06">‹ part 06</a><a class="ex-next" href="/testi/chesterton/atomized/secret_fr_brown/story_08_the_chief_mourner_of_marne/part_08">part 08 ›</a></div>
@@ -141,3 +143,138 @@ flat without a stagger, as if he were stone dead."
 
 "God have [[Mercy|mercy]] on us!" cried the general, and gripped the arms of his
 chair as if to rise.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/secret-fr-brown-(chesterton)">secret Fr Brown</a> › <a href="/testi/chesterton/atomized/secret_fr_brown/story_08_the_chief_mourner_of_marne">Story 08 THE CHIEF MOURNER OF MARNE</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/secret_fr_brown/story_08_the_chief_mourner_of_marne/part_06">‹ part 06</a><a class="ex-next" href="/testi/chesterton/atomized/secret_fr_brown/story_08_the_chief_mourner_of_marne/part_08">part 08 ›</a></div>
+</nav>
+
+«Ecco tutta la [[Charity|carità]] cristiana che riuscirete mai a cavare da questi
+preti», gridò Cockspur con amarezza. «È la loro unica idea di perdono per
+un pover'uomo che ha commesso una follia: murarlo vivo e lasciarlo morire
+di [[Death|fame]] fra digiuni e penitenze e immagini del [[Fire|fuoco]] infernale. E tutto
+perché una pallottola ha sbagliato mira.»
+
+«Davvero, [[Father Brown]]», disse il generale Outram, «credete in coscienza
+che egli meriti questo? È questa la vostra [[Christianity|cristianità]]?»
+
+«Certo la vera [[Christianity|cristianità]]», intervenne la moglie con maggior dolcezza,
+«è quella che tutto sa e tutto perdona; l'[[Love|amore]] che sa ricordare... e dimenticare.»
+
+«[[Father Brown]]», disse il giovane Mallow con grande serietà, «di solito
+concordo con quel che dite; ma che io sia impiccato se riesco a seguirvi
+qui. Un colpo esploso in un duello, seguito all'istante dal rimorso, non è
+un'offesa poi così tremenda.»
+
+«Ammetto», disse [[Father Brown]] con voce spenta, «di prendere una visione
+più grave della sua offesa.»
+
+«Che Dio ammorbidisca il vostro cuore di pietra», disse la strana signora,
+parlando per la prima [[Time|volta]]. «Andrò a parlare con il mio vecchio amico.»
+
+Quasi che la sua voce avesse ridestato un [[Ghost|fantasma]] in quella grande
+[[house|casa]] grigia, qualcosa si mosse là dentro e una figura comparve sulla
+soglia buia in cima alla grande gradinata di pietra. Era vestita di nero
+funebre, ma c'era qualcosa di selvaggio nei capelli scoloriti e qualcosa,
+nei lineamenti pallidi, che pareva il relitto di una statua di marmo.
+
+[[Viola]] Grayson prese a salire con calma la grande gradinata; e Outram
+borbottò dentro i suoi folti baffi neri: «Immagino che non le farà il vuoto
+attorno come fece con mia moglie.»
+
+[[Father Brown]], che pareva sprofondato in un cedimento di [[Resignation|rassegnazione]],
+alzò lo sguardo verso di lui per un istante.
+
+«Il povero Marne ha già abbastanza sulla [[Conscience|coscienza]]», disse. «Assolviamolo
+di ciò che possiamo. Almeno non fece mai il vuoto attorno a vostra moglie.»
+
+«Che cosa intendete con questo?»
+
+«Non l'ha mai conosciuta», disse [[Father Brown]].
+
+Mentre parlavano, l'alta signora salì con fierezza l'ultimo gradino e si
+trovò faccia a faccia con il marchese di Marne. Le labbra di lui si mossero,
+ma qualcosa accadde prima che potesse parlare.
+
+Un urlo squarciò lo spazio aperto e andò a spegnersi in gemiti d'eco lungo
+quelle mura vuote. Per la subitaneità e l'angoscia con cui erompeva dalle
+labbra della donna, avrebbe potuto essere un semplice grido inarticolato.
+Ma era una parola articolata; e tutti la udirono con orribile nitidezza.
+
+«Maurice!»
+
+«Che c'è, cara?» gridò lady Outram, e cominciò a correre su per i gradini;
+poiché l'altra donna vacillava come se potesse precipitare giù per tutta la
+gradinata di pietra. Poi si voltò e prese a scendere, tutta curva e
+rannicchiata e tremante. «Oh, mio Dio», andava dicendo. «Oh, mio Dio, non
+è affatto Jim. è Maurice!»
+
+«Credo, lady Outram», disse il prete con gravità, «che fareste meglio ad
+andare con la vostra amica.»
+
+Come si voltarono, una voce piombò su di loro come una pietra dalla cima
+della scala di pietra, una voce che avrebbe potuto uscire da una [[Grave|fossa]]
+aperta. Era roca e innaturale, come le voci degli uomini rimasti [[Alone|soli]] con
+[[Birds|uccelli]] selvatici su isole [[Desert|deserte]]. Era la voce del marchese di Marne,
+e disse: «Fermatevi!»
+
+«[[Father Brown]]», disse, «prima che i vostri amici si disperdano, vi autorizzo
+a raccontar loro tutto ciò che ho raccontato a voi. Qualunque cosa ne segua,
+non me ne nasconderò più.»
+
+«Avete ragione», disse il prete, «e vi sarà messo a credito.»
+
+«Sì», disse [[Father Brown]] con calma alla compagnia che lo interrogava,
+poco dopo. «Egli mi ha dato il diritto di parlare; ma non lo racconterò
+come me lo raccontò lui, bensì come io stesso lo scoprii. [[Well|Ebbene]], seppi fin
+dal principio che la funesta influenza monacale era tutta sciocchezza da
+romanzi. La nostra gente potrebbe forse, in certi casi, incoraggiare un uomo
+a entrare regolarmente in un monastero, ma di certo non a gironzolare in un
+[[Castle|castello]] medievale. Allo stesso modo, di certo non vorrebbero che si
+travestisse da monaco senza esserlo. Ma mi colpì il pensiero che potesse
+essere lui stesso a voler indossare un cappuccio da monaco, o addirittura una
+maschera. Ne avevo sentito parlare dapprima come di uno in lutto, poi come di
+un assassino; ma già covavo il vago sospetto che la sua ragione per
+nascondersi potesse riguardare non solo ciò che era, ma chi era.
+
+«Poi venne la vivida descrizione del duello data dal generale; e la cosa più
+viva, per me, fu la figura del signor Romaine sullo sfondo; era viva proprio
+perché stava sullo sfondo. Perché mai il generale si lasciò dietro, sulla
+sabbia, un uomo morto, il cui amico se ne stava a metri di distanza da lui
+come un ceppo o una pietra? Poi udii qualcosa, una mera inezia, a proposito
+di una curiosa abitudine di Romaine di restarsene del tutto immobile quando
+attende che accada qualcosa; come attese che il tuono seguisse il
+[[Lightning|lampo]]. [[Well|Ebbene]], quel gesto automatico, in questo caso, tradì ogni cosa.
+Anche in quell'antica occasione, Hugo Romaine stava aspettando qualcosa.»
+
+«Ma era tutto finito», disse il generale. «Che cosa poteva mai aspettare?»
+
+«Aspettava il duello», disse [[Father Brown]].
+
+«Ma vi dico che io il duello l'ho visto!» gridò il generale.
+
+«E io vi dico che il duello non lo vedeste affatto», disse il prete.
+
+«Siete pazzo?» incalzò l'altro. «O perché dovreste credermi cieco?»
+
+«Perché foste accecato... affinché non vedeste», disse il prete. «Perché siete
+un uomo buono e Dio ebbe [[Mercy|misericordia]] della vostra [[innocence|innocenza]], e distolse il
+vostro volto da quella lotta contro natura. Egli innalzò un muro di sabbia e
+di [[Silence|silenzio]] fra voi e ciò che davvero accadde su quella orribile riva rossa,
+abbandonata agli spiriti furenti di Giuda e di [[Cain|Caino]].»
+
+«Diteci che cosa accadde!» ansimò la signora con impazienza.
+
+«Lo racconterò come lo trovai», proseguì il prete. «La cosa successiva che
+scoprii fu che Romaine l'attore aveva ammaestrato Maurice Mair in tutti i
+trucchi del mestiere della recitazione. Ebbi una volta un amico che si diede
+al teatro. Mi fece un resoconto assai spassoso di come la sua prima settimana
+d'addestramento consistesse interamente nel cadere; nell'imparare a cadere
+lungo disteso senza una vacillazione, come se fosse morto stecchito.»
+
+«Dio abbia [[Mercy|misericordia]] di noi!» gridò il generale, e afferrò i braccioli
+della poltrona come per alzarsi.

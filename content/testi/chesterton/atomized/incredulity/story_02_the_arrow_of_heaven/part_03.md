@@ -148,7 +148,7 @@ came into my head just this minute.  It's about you.'
 
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/works/incredulity-(chesterton)">Incredulity</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/incredulity-(chesterton)">Incredulity</a> › <a href="/testi/chesterton/atomized/incredulity/story_02_the_arrow_of_heaven">Story 02 The Arrow of Heaven</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/incredulity/story_02_the_arrow_of_heaven/part_02">‹ part 02</a><a class="ex-next" href="/testi/chesterton/atomized/incredulity/story_02_the_arrow_of_heaven/part_04">part 04 ›</a></div>
 </nav>
 

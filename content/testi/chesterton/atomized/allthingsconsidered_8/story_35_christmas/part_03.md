@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/allthingsconsidered-8-(chesterton)">AllThingsConsidered 8</a> › <a href="/testi/chesterton/atomized/allthingsconsidered_8/story_35_christmas">Story 35 CHRISTMAS</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/allthingsconsidered_8/story_35_christmas/part_02">‹ part 02</a><a class="ex-next" href="/testi/chesterton/atomized/allthingsconsidered_8/story_35_christmas/part_04">part 04 ›</a></div>
@@ -120,4 +122,62 @@ distribution of electronic works, by using or distributing this work
 (or any other work associated in any way with the phrase "Project
 Gutenberg"), you agree to comply with all the terms of the Full Project
 Gutenberg-tm License (available with this file or online at
+http://gutenberg.net/license).
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/allthingsconsidered-8-(chesterton)">AllThingsConsidered 8</a> › <a href="/testi/chesterton/atomized/allthingsconsidered_8/story_35_christmas">Story 35 CHRISTMAS</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/allthingsconsidered_8/story_35_christmas/part_02">‹ part 02</a><a class="ex-next" href="/testi/chesterton/atomized/allthingsconsidered_8/story_35_christmas/part_04">part 04 ›</a></div>
+</nav>
+
+Ora, che torturare un animale sia o non sia una cosa immorale, è, quanto meno, una cosa spaventosa. Appartiene all'ordine degli atti eccezionali e persino disperati. Salvo che per qualche straordinaria ragione, non ferirei gravemente un animale; con una straordinaria ragione lo ferirei gravemente. Se (per esempio) un elefante impazzito inseguisse me e la mia famiglia, e potessi sparargli soltanto in modo tale che morisse in agonia, esso dovrebbe morire in agonia. Ma l'elefante ci sarebbe. Non lo farei a un elefante ipotetico. Ora, mi pare sempre che questo sia il punto debole dell'ordinario argomento vivisezionista: «Supponete che vostra moglie stia morendo». La vivisezione non è compiuta da un uomo la cui moglie sta morendo. Se lo fosse, potrebbe essere sollevata all'altezza del momento, come lo sarebbero il mentire o il rubare pane, o qualsiasi altra brutta azione. Ma questa brutta azione è compiuta a [[Blood|sangue]] freddo, con comodo, da uomini che non sono sicuri che essa sarà di una qualche utilità per qualcuno — uomini dei quali il massimo che si possa dire è che potrebbero forse gettare i primi germi di qualche scoperta che potrebbe magari salvare la vita della moglie di qualcun altro in un remoto futuro. Ciò è troppo freddo e distante per privare un atto del suo immediato orrore. È come addestrare il [[Child|fanciullo]] a dire bugie per amore di qualche grande dilemma che potrebbe non presentarglisi mai. State facendo una cosa crudele, ma non con abbastanza passione da renderla benigna.
+
+Tanto basti sul perché io sia antivivisezionista; e vorrei dire, in conclusione, che tutti gli altri antivivisezionisti di mia conoscenza indeboliscono infinitamente la loro causa nel congiungere questo attacco a una specialità scientifica, in cui il cuore umano è comunemente dalla loro parte, con attacchi a usanze umane universali, in cui il cuore umano non è affatto dalla loro parte. Ho udito degli umanitari, per esempio, parlare della vivisezione e degli sport all'aria aperta come se fossero lo stesso genere di cosa. La differenza mi pare semplice ed enorme. Nello sport un uomo entra in un bosco e si mescola alla vita esistente di quel bosco; diviene distruttore soltanto nel senso semplice e sano in cui tutte le creature sono distruttrici; diviene per un istante, per esse, ciò che esse sono per lui — un altro animale. Nella vivisezione un uomo prende una creatura più semplice e la sottopone a sottigliezze che nessuno tranne l'uomo potrebbe infliggerle, e delle quali l'uomo è perciò gravemente e terribilmente responsabile.
+
+Nel frattempo, resta vero che mangerò una gran quantità di tacchino questo Natale; e non è affatto vero (come dicono i vegetariani) che lo farò perché non mi rendo conto di ciò che faccio, o perché faccio ciò che so essere male, o che lo faccia con vergogna o [[Doubt|dubbio]] o un fondamentale turbamento della [[Conscience|coscienza]]. In un senso so [[Well|bene]] ciò che faccio; in un altro senso so [[Well|bene]] di non sapere ciò che faccio. Scrooge e i Cratchit e io siamo, come ho detto, tutti in una sola barca; il tacchino e io siamo, a dir molto, navi che si incrociano nella [[Night|notte]] e si salutano al passaggio. Gli auguro ogni [[Well|bene]]; ma è davvero praticamente impossibile scoprire se lo tratto [[Well|bene]]. Posso evitare, ed evito con orrore, ogni tormento speciale e artificiale a suo danno, il conficcargli spilli per divertimento o il conficcargli coltelli per indagine scientifica. Ma se, nutrendolo lentamente e uccidendolo rapidamente per i bisogni dei miei fratelli, io abbia migliorato ai suoi stessi occhi solenni il suo strano e separato destino, se io l'abbia reso, al cospetto di Dio, uno schiavo o un martire, o uno di coloro che gli dèi [[Love|amano]] e che muoiono giovani — ciò è assai più lontano dalle mie possibilità di conoscenza dei più astrusi intrichi del misticismo o della teologia. Un tacchino è più occulto e tremendo di tutti gli angeli e gli arcangeli. Nella misura in cui Dio ci ha in parte rivelato un mondo angelico, ci ha in parte detto che cosa significhi un angelo. Ma Dio non ci ha mai detto che cosa significhi un tacchino. E se andate a fissare un tacchino vivo per un'ora o due, scoprirete alla fine di esse che l'enigma è piuttosto cresciuto che diminuito.
+
+Fine di «All Things Considered» del Project Gutenberg, di G. K. Chesterton
+
+*** FINE DI QUESTO EBOOK PROJECT GUTENBERG, ALL THINGS CONSIDERED ***
+
+***** Questo file dovrebbe chiamarsi 11505-8.txt oppure 11505-8.zip *****
+Questo e tutti i file associati, in vari formati, si trovano in:
+        http://www.gutenberg.net/1/1/5/0/11505/
+
+Prodotto da Robert Shimmin, jayam e l'Online Distributed Proofreading
+Team
+
+Le edizioni aggiornate sostituiranno la precedente — le vecchie edizioni
+verranno rinominate.
+
+Creare le opere a partire da edizioni a stampa di pubblico dominio significa che
+nessuno detiene un copyright statunitense su queste opere, sicché la Fondazione
+(e voi!) potete copiarle e distribuirle negli Stati Uniti senza
+permesso e senza pagare diritti d'autore. Regole speciali,
+esposte nella parte relativa ai Termini Generali d'Uso di questa licenza, si applicano al
+copiare e distribuire opere elettroniche Project Gutenberg-tm per
+proteggere il concetto e il marchio PROJECT GUTENBERG-tm. Project
+Gutenberg è un marchio registrato, e non può essere usato se
+fate pagare gli eBook, a meno che non riceviate uno specifico permesso. Se
+non fate pagare nulla per le copie di questo eBook, conformarsi alle
+regole è molto facile. Potete usare questo eBook per quasi qualunque scopo,
+come la creazione di opere derivate, rapporti, esecuzioni e
+ricerche. Esse possono essere modificate, stampate e regalate — potete fare
+praticamente QUALSIASI COSA con gli eBook di pubblico dominio. La ridistribuzione è
+soggetta alla licenza del marchio, specialmente la ridistribuzione
+commerciale.
+
+*** INIZIO: LICENZA COMPLETA ***
+
+LA LICENZA COMPLETA PROJECT GUTENBERG
+SI PREGA DI LEGGERE QUESTO PRIMA DI DISTRIBUIRE O USARE QUEST'OPERA
+
+Per proteggere la missione del Project Gutenberg-tm di promuovere la libera
+distribuzione di opere elettroniche, usando o distribuendo quest'opera
+(o qualunque altra opera associata in qualsiasi modo alla frase «Project
+Gutenberg»), voi accettate di conformarvi a tutti i termini della Licenza completa Project
+Gutenberg-tm (disponibile con questo file oppure in rete all'indirizzo
 http://gutenberg.net/license).

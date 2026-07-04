@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/all-i-survey-(chesterton)">All I Survey</a> › <a href="/testi/chesterton/atomized/all_i_survey/chapter_24">Chapter 24</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/all_i_survey/chapter_44">‹ Chapter 44</a><a class="ex-next" href="/testi/chesterton/atomized/all_i_survey/chapter_24/part_02">part 02 ›</a></div>
@@ -135,3 +137,39 @@ Many a man writing such a poem has held it up for a year
 for want of one verse.  Nor would the newspaper assist him,
 in such a difficulty, by pointing out that there was another
 churchyard much more suitable than that of Stoke Poges.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/all-i-survey-(chesterton)">All I Survey</a> › <a href="/testi/chesterton/atomized/all_i_survey/chapter_24">Chapter 24</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/all_i_survey/chapter_44">‹ Chapter 44</a><a class="ex-next" href="/testi/chesterton/atomized/all_i_survey/chapter_24/part_02">part 02 ›</a></div>
+</nav>
+
+XXIV
+
+_Su Mr. Thomas Gray_
+
+USCÌ un giornale con la notizia, che pareva considerare eccitante e persino allarmante, che Gray non aveva scritto l'«[[elegy|Elegia]] in un cimitero di campagna» nel cimitero di Stoke Poges, bensì in qualche altro cimitero di campagna dello stesso genere, nella stessa campagna. Quale effetto la notizia produrrà su quel particolare tipo di turista americano che ha staccato schegge da alberi e lapidi, quando scoprirà che le schegge provengono dagli alberi sbagliati, o dalle lapidi sbagliate, non mi sento spinto a indagare. Né, del resto, so se la nuova teoria sia dimostrata o no. Né m'importa se la nuova teoria sia dimostrata o no. Ciò che è dimostratissimo, ammesso che ne occorresse la prova, è la completa mancanza di [[Imagination|immaginazione]], in molti giornalisti e archeologi, riguardo al modo in cui un poeta scrive una poesia qualsiasi.
+
+In una simile controversia si sottintende, di solito da entrambe le parti, che ciò che accade sia qualcosa del genere. Il poeta viene e si siede su una lapide, o dovunque si supponesse dovesse sedersi, nell'unico e solo cimitero di Stoke Poges, o in qualunque luogo faccia da rivale a Stoke Poges. Egli ode il Coprifuoco; e vi è un tremendo [[Doubt|dubbio]] e una disputa sul fatto se qualcuno seduto tra le tombe di Stoke Poges possa udire il Coprifuoco, che davvero risuona da Windsor, benché immagini suoni pressoché come qualsiasi altra campana della sera. Poi il poeta tira fuori penna e inchiostro portatili, preferibilmente un gran pennino d'oca e una pergamena (il poeta in questione visse prima del [[Time|tempo]] delle penne stilografiche), e scrive giù il primo verso: «Il coprifuoco suona a rintocchi il giorno che si accomiata». Poi si guarda intorno per accertarsi bene che vi siano armenti muggenti che si snodano su quel particolare prato, che l'aratore sia presente e faccia il suo dovere arrancando verso casa lungo la sua via faticosa, e che tutti gli altri accessori siano in vista. Più tardi dovrà pretendere perentoriamente che una torre ammantata d'edera si trovi nelle immediate vicinanze, abitata da un (se possibile) gufo malinconico. Non sarà l'unico gufo coinvolto nella faccenda. Se non gli sono fornite sul posto tutte queste corrette condizioni, non sarà in grado di scrivere l'[[elegy|Elegia]]. Se, d'altro canto, esse sono tutte presenti e ogni cosa è stata debitamente provveduta, egli scriverà allora l'intera [[elegy|Elegia]], di seguito, tutta d'un fiato, senza arrotolare la pergamena né alzarsi dalla lapide finché non abbia lasciato lo sventurato giovane della poesia finalmente al sicuro in seno al suo Padre e al suo Dio. Poi tornerà a [[Home|casa]] per il tè; e immagino ne avrebbe ben bisogno, dopo uno sforzo letterario tanto prolungato e sostenuto, compiuto in condizioni così umide e vischiose. Questo, con ben poca esagerazione, è ciò che davvero suggeriscono coloro che parlano di Gray il quale scrive la poesia in questo o quel luogo, e sotto questa o quella condizione di colore locale.
+
+Ora, avrei pensato che chiunque sapesse che la poesia non si scrive così. Ma forse, in questo caso, persino un cattivo poeta è meglio di un buon critico. Chiunque abbia mai scritto un verso qualsiasi, buono, cattivo o mediocre, saprà che calcoli di questa sorta sono calcoli sull'incalcolabile. Gray potrebbe aver scritto la poesia, o una qualsiasi parte della poesia, in un qualunque luogo della carta geografica; potrebbe aver visitato la Nuova Stoke Poges o la Vecchia Stoke Poges, o assai probabilmente entrambe, o forse nessuna. Ma, se mi si consente di estrarre un filo di congettura da mille fili di possibilità, oserei suggerire che l'«[[elegy|Elegia]] in un cimitero di campagna», anche se davvero si riferì a un particolare cimitero, fu con ogni probabilità cominciata, proseguita e conclusa piuttosto così:
+
+Mr. Thomas Gray sedeva una sera in una [[house|bottega]] del caffè; [[Hope|speriamo]] una [[house|bottega]] del caffè che non si limitasse al caffè. Qualcosa, un violino o qualche bicchiere di vino, o una buona cena, l'aveva gettato in una disposizione di fantasticheria, di piacevole fantasticheria, benché venata d'una virile e generosa [[Melancholy|malinconia]]. I suoi pensieri giravano e rigiravano, come fanno in tali momenti, intorno al vecchio [[Riddle|enigma]] tantalizzante di ciò che veramente sentiamo riguardo alla vita e alla [[Death|morte]]; riguardo al balocco che Dio ci diede, che è bello e fragile, eppure di certo non frivolo. Disse tra sé: «Dopotutto, chi non sente davvero che davvero importa, con tutte le sue seccature?... Un affare bizzarro... piacevole... ansioso...». Poi qualcosa si mosse più rapido dentro di lui, ed egli disse tra sé, in calda emozione poetica —
+
+    Poiché chi tarantà tarantà tarantà tara,
+    Questo essere piacevole e ansioso mai rassegnò.
+
+Poi il suo impulso prese [[Speed|velocità]] e potenza; e batté sul tavolo e recitò il verso seguente d'un fiato —
+
+Lasciò i tiepidi recinti del giorno gioioso.
+
+Ripeté quel verso più volte. Gli piaceva moltissimo. Poi fu quasi una questione di forma, certo una questione di facilità, apporre la coda al distico —
+
+Né gettò un solo sguardo [[Longing|bramoso]], indugiante, indietro.
+
+Poi si alzò e si mise il cappello. Lasciò i tiepidi recinti della gioiosa [[house|bottega]] del caffè, e tornò a [[Home|casa]] e se ne dimenticò del tutto.
+
+Qualche [[Time|tempo]] più tardi, forse assai lungo [[Time|tempo]] più tardi, passeggiava per la campagna al crepuscolo. È del tutto possibile che passeggiasse a Stoke Poges, o attraverso Stoke Poges, o attraverso un numero qualsiasi di altri luoghi nei dintorni. Forse udì davvero il Coprifuoco, o quello che credeva fosse il Coprifuoco, o quello che fingeva fosse il Coprifuoco. Compose una strofa o due sul paesaggio crepuscolare, colme dello stesso spirito di stoica gratitudine e geniale [[Resignation|rassegnazione]]. Poi notò, con gran gioia, che si sarebbero incastrate nello stesso metro dei versi che aveva composto nella [[house|bottega]] del caffè. Erano proprio nel medesimo umore. Ma non scrisse molte delle strofe nel cimitero. Forse non scrisse nessuna delle strofe nel cimitero. È più probabile che il terzo atto abbia per scena lo studio privato di Mr. Gray, foderato di classici in vecchie rilegature di cuoio, e adorno del celebre gatto e della boccia dei pesci rossi. Là buttò giù versi sconnessi, e cominciò a metterli insieme; finché non parve che un giorno potessero fare una poesia. Ma, salvo qualsiasi informazione che possa esistere sull'argomento, non mi sorprenderebbe affatto, di solito, apprendere che ci volle un diavolo di lungo [[Time|tempo]] prima che essi facessero davvero una poesia. È assai probabile, in astratto, che se ne stancasse a metà strada, e la buttasse via, e la ritrovasse anni dopo. È estremamente probabile che vi fosse un altro lunghissimo intervallo, quando la stava appena terminando, ma non riusciva a terminare di terminarla. Più d'un uomo, nello scrivere una simile poesia, l'ha tenuta in sospeso per un anno per mancanza di un solo verso. Né il giornale l'avrebbe soccorso, in tale difficoltà, facendogli notare che c'era un altro cimitero assai più adatto di quello di Stoke Poges.

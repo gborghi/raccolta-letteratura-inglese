@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/scandal-fr-brown-(chesterton)">scandal Fr Brown</a> › <a href="/testi/chesterton/atomized/scandal_fr_brown/story_05_the_pursuit_of_mr_blue">Story 05 The Pursuit of Mr Blue</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/scandal_fr_brown/story_05_the_pursuit_of_mr_blue/part_02">‹ part 02</a><a class="ex-next" href="/testi/chesterton/atomized/scandal_fr_brown/story_05_the_pursuit_of_mr_blue/part_04">part 04 ›</a></div>
@@ -126,3 +128,50 @@ questions that didn't seem to me to get us any further, except towards a
 quarrel. Perhaps he's jealous because the old man called in somebody
 else, and wasn't content with his elegant secretary's advice. See you
 later.'
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/scandal-fr-brown-(chesterton)">scandal Fr Brown</a> › <a href="/testi/chesterton/atomized/scandal_fr_brown/story_05_the_pursuit_of_mr_blue">Story 05 The Pursuit of Mr Blue</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/scandal_fr_brown/story_05_the_pursuit_of_mr_blue/part_02">‹ part 02</a><a class="ex-next" href="/testi/chesterton/atomized/scandal_fr_brown/story_05_the_pursuit_of_mr_blue/part_04">part 04 ›</a></div>
+</nav>
+
+«Tre volte l'inseguito e l'inseguitore passarono di seguito fuori dal [[Window|finestrino]], calpestando il loro angusto cerchio, prima che mi destassi pienamente al bisogno di qualche azione, per quanto disperata. Scossi la porta con rabbiosa violenza; quando vidi di nuovo il volto della vittima ignara, battei furiosamente sul [[Window|finestrino]]; poi tentai di rompere il [[Window|finestrino]]. Ma era un [[Double|doppio]] [[Window|vetro]] di cristallo eccezionalmente spesso, e tanto profondo era lo strombo che dubitavo di poter raggiungere davvero il [[Window|finestrino]] esterno. Comunque, il mio dignitoso cliente non fece caso al mio frastuono o ai miei segnali; e la rotante pantomima d'[[Shadow|ombra]] di quelle due maschere di fato continuò a girarmi e rigirarmi attorno, finché mi sentii quasi stordito [[Well|oltre che]] nauseato. Poi d'un tratto cessarono di riapparire. Attesi; e sapevo che non sarebbero tornati più. Sapevo che la crisi era giunta.
+
+«Non ho bisogno di dirle altro. Può quasi immaginare il resto, come lo immaginavo io mentre sedevo là impotente, cercando di immaginarlo; o cercando di non immaginarlo. Basti dire che in quel [[Silence|silenzio]] spaventoso, in cui tutti i rumori di passi si erano spenti, non vi furono che due altri rumori oltre al brontolio sordo del mare. Il primo fu il forte fragore di uno sparo e il secondo il rumore più cupo di un tonfo.
+
+«Il mio cliente era stato assassinato a pochi metri da me, e io non potevo dare alcun segno. Non la annoierò con ciò che provai al riguardo. Ma anche se potessi riprendermi dall'assassinio, mi trovo ancora di fronte al mistero.»
+
+«Sì» disse [[Father Brown]] con grande dolcezza, «quale mistero?»
+
+«Il mistero di come l'assassino sia fuggito» rispose l'altro. «Nell'istante in cui la mattina dopo fu consentito alla gente di accedere al pontile, fui liberato dalla mia [[Prison|prigione]] e corsi indietro ai cancelli d'ingresso, per informarmi su chi avesse lasciato il pontile da quando era stato aperto. Senza tediarla coi dettagli, posso spiegarle che erano, per una disposizione piuttosto inconsueta, vere porte di ferro a grandezza naturale che tenevano fuori (o dentro) chiunque finché non venivano aperte. Gli inservienti là non avevano visto ritornare per quella via nessuno che rassomigliasse minimamente all'assassino. Ed era una persona piuttosto inconfondibile. Anche se si fosse in qualche modo travestito, difficilmente avrebbe potuto travestire la sua straordinaria statura o sbarazzarsi del naso di famiglia. È straordinariamente improbabile che tentasse di raggiungere la riva a nuoto, perché il mare era molto agitato; e non ci sono di certo tracce di alcuno sbarco. E, in qualche modo, avendo visto il volto di quel demonio anche una sola volta, [[Alone|per non dire]] circa sei volte, qualcosa mi dà la travolgente convinzione che egli non si sia semplicemente annegato nell'ora del trionfo.»
+
+«Capisco benissimo cosa intende con questo» rispose [[Father Brown]]. «Del resto, sarebbe assai incoerente col tono della sua lettera minatoria iniziale, in cui si riprometteva ogni sorta di vantaggi dopo il delitto... c'è un altro punto che sarebbe [[Well|bene]] verificare. Che dire della struttura del pontile al di sotto? I pontili sono spessissimo fatti con tutta una rete di sostegni di ferro, attraverso i quali un uomo potrebbe arrampicarsi come una scimmia si arrampica attraverso una foresta.»
+
+«Sì, ci ho pensato» rispose l'investigatore privato; «ma purtroppo questo pontile è stranamente costruito per più di un verso. È di lunghezza davvero insolita, e ci sono colonne di ferro con tutto quel groviglio di travi; solo che sono molto distanti tra loro e non riesco a vedere in che modo un uomo potrebbe arrampicarsi dall'una all'altra.»
+
+«L'ho menzionato soltanto» disse [[Father Brown]] pensieroso, «perché quello strano tipo dalle lunghe bassette, il vecchio che predica sulla sabbia, si arrampica spesso sulla trave più vicina. Credo che sieda là a pescare quando la marea sale. Ed è uno strano pesce, per andare a pescare.»
+
+«Come, cosa intende?»
+
+«[[Well|Ebbene]]» disse [[Father Brown]] molto lentamente, giocherellando con un bottone e fissando distratto le grandi acque verdi che scintillavano nell'ultima luce della sera dopo il tramonto. «[[Well|Ebbene]]... cercai di parlargli in modo amichevole – amichevole e non troppo scherzoso, se mi capisce, riguardo al suo combinare gli antichi mestieri del pescare e del predicare; credo di aver fatto l'ovvia allusione: il passo che parla di pescare anime viventi. Ed egli disse in modo assai bizzarro e aspro, mentre risaltava sul suo trespolo di ferro: "[[Well|Ebbene]], io almeno pesco corpi morti".»
+
+«Buon Dio!» esclamò l'[[Detective|investigatore]], fissandolo.
+
+«Sì» disse il prete. «Mi parve un'osservazione strana da fare in tono di chiacchiera, a uno sconosciuto che gioca coi bambini sulla sabbia.»
+
+Dopo un altro [[Silence|silenzio]] carico di sguardi il suo compagno alla fine sbottò: «Non vorrà dire che pensa che egli abbia avuto qualcosa a che fare con la [[Death|morte]].»
+
+«Penso» rispose [[Father Brown]], «che egli potrebbe gettare un po' di luce sulla faccenda.»
+
+«[[Well|Ebbene]], per me è incomprensibile ormai» disse l'[[Detective|investigatore]]. «Per me è incomprensibile che qualcuno possa gettar luce sulla faccenda. È come un tumulto di acque selvagge nel buio pesto; il genere di acque in cui egli... in cui egli cadde. È pura, sfrenata assurdità; un uomo grande che svanisce come una bolla; nessuno potrebbe mai... Senta un po'!» Si fermò all'improvviso, fissando il prete, che non si era mosso, ma continuava a giocherellare col bottone e a fissare i frangenti. «Cosa intende? Perché guarda in quel modo? Non vorrà dirmi che lei... che lei riesce a cavarne un senso?»
+
+«Sarebbe assai meglio se restasse un'assurdità» disse [[Father Brown]] a bassa voce. «[[Well|Ebbene]], se me lo chiede francamente – sì, credo di riuscire a cavarne un senso.»
+
+Ci fu un lungo [[Silence|silenzio]], e poi l'agente investigativo disse con una bruschezza piuttosto singolare: «Oh, ecco che arriva il segretario del vecchio, dall'albergo. Devo andare. Credo che andrò a parlare con quel suo pescatore matto.»
+
+«Post hoc propter hoc?» chiese il prete con un sorriso.
+
+«[[Well|Ebbene]]» disse l'altro, con scatti di franchezza, «il segretario non mi ha in simpatia e non credo che io abbia in simpatia lui. È andato ficcando il naso in giro con un mucchio di domande che non mi parevano portarci da nessuna parte, se non verso una lite. Forse è geloso perché il vecchio ha chiamato qualcun altro e non si è accontentato del consiglio del suo elegante segretario. Ci vediamo dopo.»

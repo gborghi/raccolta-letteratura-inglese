@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/as-i-was-saying-(chesterton)">As I Was Saying</a> › <a href="/testi/chesterton/atomized/as_i_was_saying/story_13_about_sacrifice">Story 13 ABOUT SACRIFICE</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/as_i_was_saying/story_13_about_sacrifice/part_07">‹ part 07</a><a class="ex-next" href="/testi/chesterton/atomized/as_i_was_saying/story_13_about_sacrifice/part_09">part 09 ›</a></div>
@@ -116,3 +118,115 @@ ear that hears all the notes as monotone, and therefore monotonous.
 Even the swaggering person, who was supposed to turn up his nose
 at everything, was at least in a position to sniff the different
 smells of the world, and perhaps to detect their difference.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/as-i-was-saying-(chesterton)">As I Was Saying</a> › <a href="/testi/chesterton/atomized/as_i_was_saying/story_13_about_sacrifice">Story 13 ABOUT SACRIFICE</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/as_i_was_saying/story_13_about_sacrifice/part_07">‹ part 07</a><a class="ex-next" href="/testi/chesterton/atomized/as_i_was_saying/story_13_about_sacrifice/part_09">part 09 ›</a></div>
+</nav>
+
+Possiamo ripiegare sul fondamento storico del progresso moderno, sui princìpi
+che non sono ancora stati formalmente rovesciati; e vi è un argomento a favore.
+Potremmo dire che se sei omicidi impuniti quest'anno diventeranno
+sessanta omicidi impuniti l'anno venturo, il bene comune riposa
+nondimeno sull'idea che l'omicidio sia male. Possiamo dire
+che tre ladri oggi e trenta domani e trecento
+il giorno dopo domani non ci trasformano in una società comunista.
+D'altra parte, possiamo ammettere che, pur non essendo una società comunista,
+essa non è più una società cristiana. E allora, se siamo cristiani,
+possiamo bandire una crociata per [[convert|convertirla]] o soggiogarla. Ora io penso,
+dopo qualche sincera riflessione, che quest'ultima via sia di gran lunga la migliore.
+Non credo che si debba ignorare la morale pagana che ci circonda:
+ciò non diminuisce il paganesimo; e non fa che privarci
+del piacere e del vantaggio di denunciarlo come pagano.
+La presunzione che la tradizione, e persino la convenzione, che la virtù
+e persino la virtù vittoriana, siano ancora la regola, e ogni altra cosa
+un'eccezione, sta tutta dalla parte dei sofisti che difendono il vizio.
+È una regola in forza della quale noi portiamo tutte le impopolari insegne del potere,
+mentre essi godono di tutti i frutti pratici della vittoria. Essi possono
+farsi beffe di noi, perché professano che non vi è nulla da nascondere;
+e noi non possiamo combatterli, perché fingiamo che non vi sia nulla
+da combattere. Ma, soprattutto, dal punto di vista dell'onesto ortodosso,
+l'attuale tregua unilaterale ha questo enorme svantaggio:
+ci impedisce di indicare l'unico fatto solido, sfacciato, stupendo
+che sta dinanzi a tutti i nostri occhi. È il fatto che non solo abbiamo visto
+sorgere una moderna civiltà materialista, ma l'abbiamo vista cadere. Abbiamo
+visto l'imperialismo industriale e l'[[Individualism|individualismo]] fallire _in pratica_.
+Non è più questione di servirsi delle macchine moderne;
+ma di staccarsi dal loro relitto.
+
+~||~
+
+_VI A proposito della spudoratezza_
+
+VI SONO alcuni che amano davvero i dialetti di campagna che l'[[Education|istruzione]]
+statale va sistematicamente distruggendo. Vi sono alcuni che davvero
+li preferiscono al dialetto cockney che l'[[Education|istruzione]] statale va
+sistematicamente diffondendo. Poiché quello è forse l'effetto più pratico
+e riuscito del nostro attuale sistema di pubblica istruzione,
+che i bambini dei villaggi non parlano più come ignoranti abitanti
+del Sussex o del Suffolk; ora parlano come illuminati abitanti
+di Hoxton e di Houndsditch. Fra i reazionari eccentrici
+che hanno effettivamente osservato con rammarico questo mutamento, si è
+notato più di una volta anche un fatto ulteriore e più curioso.
+Un parroco anglicano di campagna, un mio amico, una volta mi disse che
+non si trattava soltanto di una perdita di pronuncia, ma anche di percezione.
+«Non solo non sanno dire la parola, ma non sanno udirla», così
+egli si espresse. Supponiamo che il virtuoso vicario in questione fosse stato
+tanto mal consigliato da insegnare alla sua scuola d'infanzia a recitare, diciamo,
+la «Dolores» di Swinburne — il che, ammetto, non è oltremodo probabile —:
+la loro intonazione sarebbe stata diversa, ma senza alcuna intenzione di differire.
+Il vicario avrebbe detto: «Cinta d'una fiamma di volti leggiadri».
+E i bambini della scuola [[Sunday|domenicale]] avrebbero obbedientemente ripetuto: «Cinta d'una
+fiamma 'e volti leggiadri», con solida certezza e sicurezza
+che questo fosse esattamente ciò che egli aveva detto. Per quanto laboriosamente
+egli potesse supplicarli di dire «volti», essi avrebbero detto «volti» storpiato,
+e sarebbe suonato alle loro orecchie esattamente come «volti».
+
+In breve, questa sorta di cosa non è una variazione o una forma di varietà;
+al contrario, è un'incapacità di vedere che vi sia una qualche varietà.
+Non è una differenza nel senso di una distinzione; al contrario,
+è un improvviso venir meno della facoltà di operare qualsiasi distinzione.
+Tutto ciò che è distinto può forse essere distinto.
+E Burns e Barnes riuscirono in effetti a distinguersi,
+in quella particolare forma di distinzione comunemente chiamata dialetto.
+Ma il mutamento qui in questione è qualcosa di assai più informe
+e assai più temibile di qualsiasi cosa potesse sorgere
+dal più rozzo o più sventurato degli accenti locali o rustici.
+È una certa perdita di acutezza, nell'orecchio non [[Well|meno]] che nella lingua;
+non solo un appiattimento della parola, ma un intorpidimento dell'udito.
+E per quanto sia in sé una faccenda relativamente piccola,
+specie se paragonata a molte faccende parallele, è precisamente
+questa qualità a renderla simbolica nei problemi sociali di
+oggi. Poiché uno dei più profondi mali del giorno d'oggi è questo fatto:
+che qualcosa viene lodato come un nuovo gusto quando è semplicemente
+la condizione che trova ogni cosa insipida. Talora viene
+offerto quasi fosse un nuovo senso; ma non è in realtà
+nemmeno una nuova sensibilità; è piuttosto un [[Pride|orgoglio]] nella nuova insensibilità.
+
+Per esempio, quando qualche antica norma di decoro viene abolita,
+a torto o a ragione, la si suppone sempre pienamente
+giustificata se la gente diventa altrettanto ottusa nell'accettare l'indecenza
+quanto lo era nell'accettare la decenza. Se si può dire
+che i nipoti «si abituano presto» a qualcosa che avrebbe
+spinto i nonni a battersi in duello fino alla [[Death|morte]], si assume
+sempre che i nipoti abbiano trovato un nuovo modo di vivere,
+mentre coloro che si batterono in duello fino alla [[Death|morte]] erano già morti.
+Ma il fatto psicologico è esattamente l'opposto.
+I duellanti potevano essere schizzinosi o persino stravaganti,
+ma erano spaventosamente vivi. È per questo che morirono.
+Le loro sensibilità erano vivide e intense, secondo l'unico vero
+criterio delle sensibilità più fini, o persino dei cinque sensi.
+E cioè che sapevano sentire la differenza fra una cosa
+e un'altra. È l'occhio più vivace che sa vedere la differenza
+fra il blu-pavone e il verde-pavone; è l'occhio più affaticato
+che può vederli entrambi come qualcosa di molto simile al grigio.
+È l'orecchio più pronto che sa cogliere in un discorso la sfumatura fra
+l'[[innocence|innocenza]] e l'ironia, o fra l'ironia e l'insulto. È l'orecchio più ottuso
+che ode tutte le note come un monotono, e perciò monotone.
+Persino la persona spavalda, che si supponeva arricciasse il naso
+davanti a ogni cosa, era almeno in condizione di fiutare i diversi
+odori del mondo, e forse di coglierne la differenza.

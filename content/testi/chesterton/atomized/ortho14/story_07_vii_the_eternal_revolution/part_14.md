@@ -85,7 +85,7 @@ The Titans did not scale heaven; but they laid waste the world.
 
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/works/ortho14-(chesterton)">Orthodoxy</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/ortho14-(chesterton)">Orthodoxy</a> › <a href="/testi/chesterton/atomized/ortho14/story_07_vii_the_eternal_revolution">Story 07 Vii The Eternal Revolution</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/ortho14/story_07_vii_the_eternal_revolution/part_13">‹ part 13</a><a class="ex-next" href="/testi/chesterton/atomized/ortho14/story_08_ix_authority_and_the_adventurer/part_01">part 01 ›</a></div>
 </nav>
 

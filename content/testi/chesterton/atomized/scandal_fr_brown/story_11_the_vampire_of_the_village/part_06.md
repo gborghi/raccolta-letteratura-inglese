@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/scandal-fr-brown-(chesterton)">scandal Fr Brown</a> › <a href="/testi/chesterton/atomized/scandal_fr_brown/story_11_the_vampire_of_the_village">Story 11 The Vampire of the Village</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/scandal_fr_brown/story_11_the_vampire_of_the_village/part_05">‹ part 05</a><span></span></div>
@@ -146,3 +148,46 @@ cushions. 'If it comes to a little cosy company on a railway [[Journey|journey]]
 should prefer the corpse.'
 
 THE END
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/scandal-fr-brown-(chesterton)">scandal Fr Brown</a> › <a href="/testi/chesterton/atomized/scandal_fr_brown/story_11_the_vampire_of_the_village">Story 11 The Vampire of the Village</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/scandal_fr_brown/story_11_the_vampire_of_the_village/part_05">‹ part 05</a><span></span></div>
+</nav>
+
+Uscirono dalla stanza senza essere interrotti dagli altri due, l'uno stordito e barcollante, l'altro ancora cieco e sbuffante e ansante di passioni di sollievo e rabbia. Ma mentre passavano, [[Father Brown]] volse una volta il viso verso il giovane; e il giovane fu uno dei pochissimi esseri umani che abbiano visto quel viso implacabile.
+
+«Aveva ragione, in questo,» disse [[Father Brown]]. «Quando un attore porta la sua malvagità in questo [[Innocent|innocente]] villaggio, sfida il giudizio di Dio.»
+
+«[[Well|Ebbene]],» disse [[Father Brown]], mentre lui e il dottore si sistemavano di nuovo in una carrozza ferroviaria ferma nella stazione di Potter's Pond. «Come dite voi, è una strana storia; ma non credo che sia più una storia di mistero. Comunque, la storia mi pare sia stata, per sommi capi, questa. Maltravers venne qui, con una parte della sua compagnia in tournée; alcuni di loro andarono direttamente a Dutton-Abbot, dove presentavano tutti insieme un qualche [[Melodrama|melodramma]] sui primi anni dell'Ottocento; a lui capitò di gironzolare nel suo costume di scena, il costume assai caratteristico di un dandy di quel [[Time|tempo]]. Un altro personaggio era un parroco all'antica, il cui abito scuro era meno caratteristico e poteva passare per semplicemente fuori moda. Questa parte era sostenuta da un uomo che per lo più recitava vecchi; aveva recitato [[Shylock]] ed era in seguito destinato a recitare [[Polonius]].
+
+«Una terza figura del dramma era il nostro poeta drammatico, che era anche un attore drammatico, e aveva litigato con Maltravers su come rappresentare [[Hamlet|Amleto]], ma anche, e più, su questioni personali. Ritengo probabile che fosse [[Love|innamorato]] di Mrs Maltravers già allora; non credo che ci fosse nulla di male fra loro; e [[Hope|spero]] che ora possa andar tutto bene per loro. Ma può [[Well|ben]] darsi che risentisse di Maltravers nella sua veste coniugale; poiché Maltravers era un prepotente e incline a scatenare risse. In una qualche rissa di quel genere si batterono coi bastoni, e il poeta colpì Maltravers assai forte alla testa, e, alla luce dell'inchiesta, ebbe ogni ragione di supporre di averlo ucciso.
+
+«Una terza persona era presente o al corrente dell'incidente, l'uomo che recitava il vecchio parroco; ed egli si mise a ricattare il presunto assassino, estorcendogli il costo del proprio mantenimento in un certo lusso come ecclesiastico in pensione. Era l'ovvia mascherata per un uomo simile in un luogo simile, semplicemente continuare a indossare i suoi abiti di scena come ecclesiastico in pensione. Ma aveva una sua ragione per essere un ecclesiastico assai ritirato. Poiché la vera storia della [[Death|morte]] di Maltravers era che egli rotolò in una fitta boscaglia di felci, si riprese a poco a poco, cercò di camminare verso una [[house|casa]], e fu infine sopraffatto, non dal colpo, ma dal fatto che il benevolo ecclesiastico gli aveva dato del [[Poison|veleno]] un'ora prima, probabilmente in un bicchiere di Porto. Cominciavo a pensarlo, quando bevvi un bicchiere del Porto del parroco. Mi rese un po' nervoso. La polizia sta lavorando su questa teoria adesso; ma se riusciranno a provare quella parte della storia, non lo so. Dovranno trovare il movente esatto; ma è ovvio che questo gruppo di attori brulicava di litigi e che Maltravers era assai odiato.»
+
+«La polizia può provare qualcosa ora che ha il sospetto,» disse il dottor Mulborough. «Ciò che non capisco è come mai abbiate cominciato a sospettare. Perché mai al mondo avreste dovuto sospettare di quel gentiluomo dalla nera tonaca, così irreprensibile?»
+
+[[Father Brown]] sorrise debolmente. «Suppongo che in un certo senso,» disse, «fosse una questione di conoscenza specifica; quasi una questione professionale, ma in un senso peculiare. Sapete che i nostri polemisti si lamentano spesso che ci sia una gran quantità di ignoranza su cosa sia davvero la nostra religione. Ma è in realtà più curioso di così. È vero, e non è affatto innaturale, che l'Inghilterra non sappia granché della Chiesa di Roma. Ma l'Inghilterra non sa granché neppure della Chiesa d'Inghilterra. Neanche quanto ne so io. Restereste stupito di quanto poco il pubblico medio comprenda delle controversie anglicane; molti di loro non sanno davvero cosa si intenda per uomo di Alta Chiesa o di Bassa Chiesa, persino sui punti particolari della pratica, [[Alone|per non dire]] delle due teorie della [[history|storia]] e della [[philosophy|filosofia]] che vi stanno dietro. Potete vedere questa ignoranza in qualsiasi giornale; in qualsiasi [[Novel|romanzo]] o commedia meramente popolare.
+
+«Ora, la prima cosa che mi colpì fu che questo venerabile chierico aveva confuso l'intera faccenda in modo incredibile. Nessun parroco anglicano potrebbe sbagliarsi così su ogni problema anglicano. Si presumeva fosse un vecchio Tory di Alta Chiesa; e poi si vantava di essere un puritano. Un uomo così potrebbe personalmente essere piuttosto puritaneggiante; ma non la chiamerebbe mai essere un puritano. Professava un orrore per il palcoscenico; non sapeva che gli uomini di Alta Chiesa generalmente non hanno quello speciale orrore, mentre quelli di Bassa Chiesa sì. Parlava come un puritano del Sabato; e poi aveva un crocifisso nella sua stanza. Evidentemente non aveva idea di come debba essere un parroco assai pio, se non che dev'essere molto solenne e venerabile e disapprovare i piaceri del mondo.
+
+«Per tutto questo [[Time|tempo]] una nozione subconscia mi correva per la testa; qualcosa che non riuscivo a fissare nella [[Memory|memoria]]; e poi mi venne all'improvviso. Questo è un Parroco da Palcoscenico. È esattamente il vago e venerabile vecchio [[Fool|sciocco]] che sarebbe la nozione più prossima che un commediografo popolare o un attore della vecchia scuola avesse di qualcosa di tanto strano come un uomo religioso.»
+
+«Per non dire di un medico della vecchia scuola,» disse Mulborough di buon umore, «che non pretende di sapere granché su cosa significhi essere un uomo religioso.»
+
+«In effetti,» proseguì [[Father Brown]], «c'era una causa di sospetto più semplice e più lampante. Riguardava la Dama Bruna della Grange, che si presumeva fosse il Vampiro del Villaggio.
+
+Assai per tempo mi formai l'impressione che questa nera macchia fosse piuttosto il punto luminoso del villaggio. Veniva trattata come un mistero; ma non c'era in realtà nulla di misterioso in lei. Era venuta quaggiù del tutto di recente, del tutto apertamente, sotto il proprio nome, per aiutare le nuove indagini che si dovevano fare sul suo stesso marito. Lui non l'aveva trattata troppo [[Well|bene]]; ma lei aveva dei princìpi, che le suggerivano che qualcosa fosse dovuto al suo nome di sposata e alla comune giustizia. Per la stessa ragione, andò a vivere nella [[house|casa]] fuori dalla quale il marito era stato trovato morto. L'altro caso [[Innocent|innocente]] e lineare, oltre al Vampiro del Villaggio, era lo Scandalo del Villaggio, il dissoluto figlio del parroco. Anch'egli non fece alcun mistero della propria professione o del passato legame col mondo del teatro. È per questo che non sospettai di lui come sospettai del parroco. Ma avrete già indovinato una ragione reale e pertinente per sospettare del parroco.»
+
+«Sì, credo di capire,» disse il dottore, «è per questo che tirate in ballo il nome dell'attrice.»
+
+«Sì, intendo la sua fanatica fissità nel non voler vedere l'attrice,» osservò il prete. «Ma in realtà non aveva nulla in contrario a vedere lei. Aveva in contrario che lei vedesse lui.»
+
+«Sì, questo lo capisco,» convenne l'altro. «Se avesse visto il reverendo Samuel Horner, avrebbe all'istante riconosciuto l'assai poco reverendo attore Hankin, travestito da finto parroco con un carattere piuttosto losco dietro il travestimento. [[Well|Ebbene]], questo è tutto quanto di questo semplice idillio di villaggio, credo. Ma ammetterete che ho mantenuto la mia promessa; vi ho mostrato nel villaggio qualcosa di considerevolmente più raccapricciante di un cadavere; persino di un cadavere imbottito di [[Poison|veleno]]. La nera tonaca di un parroco imbottita di un ricattatore vale perlomeno di essere notata, e il mio uomo vivo è assai più letale del vostro morto.»
+
+«Sì,» disse il dottore, sistemandosi comodamente all'indietro contro i cuscini. «Se si tratta di una piccola e intima compagnia in un [[Journey|viaggio]] ferroviario, preferirei il cadavere.»
+
+FINE

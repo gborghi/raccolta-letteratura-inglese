@@ -127,7 +127,7 @@ will do in a dull world.
 
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/works/ortho14-(chesterton)">Orthodoxy</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/ortho14-(chesterton)">Orthodoxy</a> › <a href="/testi/chesterton/atomized/ortho14/story_04_ii_the_maniac">Story 04 Ii The Maniac</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/ortho14/story_08_ix_authority_and_the_adventurer">‹ Story 08 Ix Authority And The Adventurer</a><a class="ex-next" href="/testi/chesterton/atomized/ortho14/story_04_ii_the_maniac/part_02">part 02 ›</a></div>
 </nav>
 

@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/common-man-(chesterton)">Common Man</a> › <a href="/testi/chesterton/atomized/common_man/story_11_giotto_and_st_francis">Story 11 Giotto And St Francis</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/common_man/story_11_giotto_and_st_francis/part_03">‹ part 03</a><a class="ex-next" href="/testi/chesterton/atomized/common_man/story_12_the_new_groove/part_01">part 01 ›</a></div>
@@ -59,3 +61,14 @@ and desired with all his heart, we may say that they were not wholly
 unlike those strange [[Birds|birds]] in the legend, which the Holy [[Child]]
 pinched into shape out of scraps of clay, and then started into life
 and swiftness with a clap of His little hands.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/common-man-(chesterton)">Common Man</a> › <a href="/testi/chesterton/atomized/common_man/story_11_giotto_and_st_francis">Story 11 Giotto And St Francis</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/common_man/story_11_giotto_and_st_francis/part_03">‹ part 03</a><a class="ex-next" href="/testi/chesterton/atomized/common_man/story_12_the_new_groove/part_01">part 01 ›</a></div>
+</nav>
+
+In un altro senso, tuttavia, lo spirito che illumina questi grandi disegni medievali non è tanto, in generale, lo spirito del pieno giorno, quanto — in un senso piuttosto curioso e peculiare — lo spirito dell'alba. Di quel disegno altamente medievale è giusto dire qualcosa di ciò che Keats disse dell'altamente classico disegno della sua Urna Greca. È una sorta di immortale attimo di mattino, e ciò che è una mera transizione nel [[Time|tempo]] vi è fissato come un assoluto per l'[[Eternity|eternità]]. Siamo così abituati, nei tempi moderni, a pensare in termini di ciò che chiamiamo progresso, che di rado ammettiamo, se non in una parentesi poetica, che esista una cosa come un attimo perfetto migliore di ciò che viene dopo, [[Well|oltre che]] migliore di ciò che venne prima. Eppure si potrebbe [[Well|ben]] sostenere che l'arte, in tutta la sua [[history|storia]], non ebbe momento migliore, né prima né dopo, di questo in cui tutto ciò che era buono nell'antica intelaiatura e nel formalismo ancora rimaneva con la forza eretta di un grande edificio, ma in cui era già entrato quell'impeto di vita e di crescita che l'aveva mutato in qualcosa di simile a una foresta, senza ancora averlo mutato in qualcosa di simile a una giungla. Lo spirito naturalistico dell'Ottocento, quando cominciò per la prima volta a comprendere il genio di Giotto o di san Francesco, così come interpretato dal talento di Ruskin o di Renan, era destinato ad appuntarsi specialmente sul fantasioso e delizioso episodio della Predica agli [[Birds|Uccelli]]. Poiché quella generazione era meno preoccupata della conservazione delle chiese e più della conservazione degli [[Birds|uccelli]], anche se fosse stato nell'equivoco senso della conservazione della selvaggina. Sarebbe facile illustrare l'intero sviluppo, potremmo persino dire l'intera ascesa e discesa, sotto l'emblema o l'esempio dell'uccello. Gli [[Birds|uccelli]] dell'epoca primeva e simbolica erano semplificati e alquanto terribili: come nell'Aquila dell'[[Apocalypse|Apocalisse]] o nella Colomba dello [[Ghost|Spirito Santo]]. Tutti gli altri [[Birds|uccelli]], nello schema bizantino, sarebbero stati astratti e tipici quanto gli [[Birds|uccelli]] di un geroglifico egizio. Gli [[Birds|uccelli]] della successiva epoca realistica, quando i pittori dell'Ottocento avevano portato all'ultima perfezione, o all'ultima sazietà, gli studi di ottica o di fisica cominciati nel Cinquecento, avrebbero [[Well|ben]] potuto essere una dettagliatissima e persino sconcertante esposizione di ornitologia. Ma gli [[Birds|uccelli]] cui san Francesco predicò, nella visione dell'arte del Duecento, erano già [[Birds|uccelli]] capaci di volare e cantare, ma non ancora [[Birds|uccelli]] che si potessero abbattere a fucilate o impagliare; avevano cessato di essere meramente araldici senza diventare meramente scientifici. E poiché, in tutti gli studi su san Francesco, torniamo sempre a quel grande paragone che egli a un tempo negò con tutta la sua [[Humility|umiltà]] e desiderò con tutto il cuore, possiamo dire che essi non erano del tutto dissimili da quegli strani [[Birds|uccelli]] della leggenda che il Santo [[Child|Bambino]] plasmò con briciole d'argilla, e poi avviò alla vita e alla rapidità con un battito delle sue piccole mani.

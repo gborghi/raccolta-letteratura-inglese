@@ -126,7 +126,7 @@ the frame of mind of the cosmopolitan man who has seen men and cities.
 
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/works/heret12-(chesterton)">Heretics</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/heret12-(chesterton)">Heretics</a> › <a href="/testi/chesterton/atomized/heret12/story_03_on_mr_rudyard_kipling_and_making_the_wor">Story 03 On Mr Rudyard Kipling and Making the Wor</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/heret12/story_03_on_mr_rudyard_kipling_and_making_the_wor/part_01">‹ part 01</a><a class="ex-next" href="/testi/chesterton/atomized/heret12/story_03_on_mr_rudyard_kipling_and_making_the_wor/part_03">part 03 ›</a></div>
 </nav>
 

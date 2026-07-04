@@ -720,6 +720,10 @@ I don't look at it so often."
 <div class="excerpt-crumb">Chesterton · <a href="/works/wifrb11-(chesterton)">The Wisdom of Father Brown</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/wifrb11/story_03_the_duel_of_dr_hirsch">‹ Story 03 The Duel of Dr Hirsch</a><a class="ex-next" href="/testi/chesterton/atomized/wifrb11/story_05_the_mistake_of_the_machine">Story 05 The Mistake of the Machine ›</a></div>
 </nav>
+<nav class="excerpt-children">
+<div class="excerpt-children-label">In questa sezione</div>
+<ul><li><a href="/testi/chesterton/atomized/wifrb11/story_04_the_man_in_the_passage/part_01">Part 1</a></li><li><a href="/testi/chesterton/atomized/wifrb11/story_04_the_man_in_the_passage/part_02">Part 2</a></li><li><a href="/testi/chesterton/atomized/wifrb11/story_04_the_man_in_the_passage/part_03">Part 3</a></li><li><a href="/testi/chesterton/atomized/wifrb11/story_04_the_man_in_the_passage/part_04">Part 4</a></li><li><a href="/testi/chesterton/atomized/wifrb11/story_04_the_man_in_the_passage/part_05">Part 5</a></li><li><a href="/testi/chesterton/atomized/wifrb11/story_04_the_man_in_the_passage/part_06">Part 6</a></li></ul>
+</nav>
 
 # [[wifrb11]] — L'uomo nell'andito
 

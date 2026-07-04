@@ -744,6 +744,10 @@ the wooden gate of the yard, and going up to the inspector, said:
 <div class="excerpt-crumb">Chesterton · <a href="/works/innocence-(chesterton)">The Innocence of Father Brown</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/innocence/story_08_the_sins_of_prince_saradine">‹ Story 08 The Sins of Prince Saradine</a><a class="ex-next" href="/testi/chesterton/atomized/innocence/story_10_the_eye_of_apollo">Story 10 The Eye of Apollo ›</a></div>
 </nav>
+<nav class="excerpt-children">
+<div class="excerpt-children-label">In questa sezione</div>
+<ul><li><a href="/testi/chesterton/atomized/innocence/story_09_the_hammer_of_god/part_01">Part 1</a></li><li><a href="/testi/chesterton/atomized/innocence/story_09_the_hammer_of_god/part_02">Part 2</a></li><li><a href="/testi/chesterton/atomized/innocence/story_09_the_hammer_of_god/part_03">Part 3</a></li><li><a href="/testi/chesterton/atomized/innocence/story_09_the_hammer_of_god/part_04">Part 4</a></li><li><a href="/testi/chesterton/atomized/innocence/story_09_the_hammer_of_god/part_05">Part 5</a></li><li><a href="/testi/chesterton/atomized/innocence/story_09_the_hammer_of_god/part_06">Part 6</a></li></ul>
+</nav>
 
 # [[innocence]] — Il martello di Dio
 

@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/apprandcritofchdickens-(chesterton)">ApprAndCritOfChDickens</a> › <a href="/testi/chesterton/atomized/apprandcritofchdickens/chapter_01_page">Chapter 01 PAGE</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/apprandcritofchdickens/chapter_01_page/part_31">‹ part 31</a><a class="ex-next" href="/testi/chesterton/atomized/apprandcritofchdickens/chapter_01_page/part_33">part 33 ›</a></div>
@@ -181,3 +183,180 @@ there being no people to speak of in England except Coodle and Doodle
 the country has been without a [[government|Government]]"; when Dickens says this he
 
 suddenly pounces on and plucks out the one inherent absurdity in the
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/apprandcritofchdickens-(chesterton)">ApprAndCritOfChDickens</a> › <a href="/testi/chesterton/atomized/apprandcritofchdickens/chapter_01_page">Chapter 01 PAGE</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/apprandcritofchdickens/chapter_01_page/part_31">‹ part 31</a><a class="ex-next" href="/testi/chesterton/atomized/apprandcritofchdickens/chapter_01_page/part_33">part 33 ›</a></div>
+</nav>
+
+dovrebbe far ridere, ma Napoleone (come diceva Mrs. Jarley quando le si chiedeva se
+
+il suo spettacolo fosse più buffo di Punch) non era buffo affatto. L'idea di una
+
+scena davvero tragica recitata da minuscole marionette di legno con teste
+
+enormi è trattata da Dickens con squisita delizia. Riusciamo quasi a immaginare la
+
+scena in cui il Napoleone di legno rimprovera sdegnosamente il suo carceriere di legno
+
+per averlo chiamato Generale Bonaparte: «Sir Hudson Low, non chiamatemi così; io
+
+sono Napoleone, Imperatore dei Francesi». C'è anche qualcosa di singolarmente
+
+gradevole nella scena della [[Death|morte]] di Napoleone, in cui egli giaceva a letto
+
+con le manine di legno fuori dal copriletto e il medico (che
+
+era appeso a fili troppo corti) «pronunciava pareri medici nell'aria». Potrà
+
+sembrare frivolo indugiare su simili frivolezze a proposito di un libro
+
+che contiene molte descrizioni romantiche e molte generalizzazioni morali
+
+alle quali Dickens probabilmente attribuiva grande valore. Ma non è per tali cose che
+
+egli è apprezzato. In tutti i suoi scritti, dal suo [[Novel|romanzo]] più ragionato e
+
+sostenuto al suo più folle appunto privato, è sempre questo turbolento
+
+istinto per la farsa che spicca come suo nel senso più alto. La sua
+
+saggezza è, alla meglio, talento; la sua follia è genio. Proprio quella
+
+esuberante levità che noi associamo a un istante, nel suo caso la associamo
+
+all'[[Immortality|immortalità]]. Si dice di certe antiche murature che la malta
+
+fosse così dura da sopravvivere alle pietre. Così, se Dickens potesse tornare a visitare
+
+la cosa che aveva costruito, si stupirebbe di vedere tutto il lavoro che credeva
+
+solido e responsabile consumarsi quasi interamente, mentre le più brevi
+
+frivolezze e i più fugaci scherzi rimarrebbero come colossali rocce
+
+per sempre.
+
+  [Illustrazione: Charles Dickens, 1844
+
+  Da una miniatura di Margaret Gillies.]
+
+[[Martin Chuzzlewit|MARTIN CHUZZLEWIT]]
+
+C'è una certa qualità o elemento che aleggia su tutto
+
+_Martin Chuzzlewit_, cui è difficile, tanto per gli amici quanto per i nemici,
+
+dare un nome. Credo che il lettore che ama gli altri libri di Dickens abbia
+
+l'impressione che sia una specie di [[Melancholy|malinconia]]. Vi sono [[Grotesque|grottesche]]
+
+figure del genere più sfarzoso; vi sono scene farsesche
+
+perfino secondo il metro della licenza farsesca di Dickens; vi è [[Humour|umorismo]]
+
+sia della specie più greve sia della più leggera; vi sono due grandi personalità
+
+comiche che scorrono come una ricca vena attraverso tutta la storia,
+
+Pecksniff e Mrs. Gamp; vi è un accecante lampo di splendore, la
+
+[[Satire|satira]] contro l'ipocrisia americana; vi è la pensione [[house|Todgers]]; vi è
+
+Bailey; vi è Mr. Mould, l'incomparabile impresario di pompe funebri. Eppure,
+
+nonostante tutto, nonostante perfino l'impresario di pompe funebri, il libro è triste.
+
+Nessuno, credo, vi si accostò mai in quell'umore misto di tenerezza stanca
+
+e di prontezza a credere e a ridere in cui la maggior parte dei romanzi di Dickens
+
+si godono meglio. Andiamo da Dickens per un particolare [[Novel|romanzo]] come andiamo verso una
+
+particolare locanda. Andiamo all'insegna del _Circolo [[Pickwick]]_. Andiamo
+
+all'insegna di _Rudge e il Corvo_. Andiamo all'insegna della _Vecchia Bottega_.
+
+Andiamo all'insegna delle _Due Città_. Andiamo dall'una o da tutte
+
+secondo quale specie di ospitalità e quale specie di felicità
+
+ci occorra. Ma è sempre qualche specie di ospitalità e qualche specie di
+
+felicità che ci occorre. E come nel caso delle locande, ricordiamo anche
+
+che, mentre in tutte c'era riparo e in tutte cibo e in tutte una qualche specie di
+
+[[Fire|fuoco]] e in tutte una qualche specie di vino, tuttavia una ci ha lasciato
+
+un indescrivibile e inspiegabile [[Memory|ricordo]] di [[Mortality|mortalità]] e di [[Decay|corruzione]], di
+
+squallore nelle stanze e perfino di insipidità nel banchetto. Così chiunque
+
+abbia goduto le storie di Dickens come vanno godute ha
+
+una indefinibile sensazione che questa sola storia sia triste e quasi inzuppata. Dickens
+
+stesso aveva questa sensazione, benché la sua spavalda [[Vanity|vanità]] gli vietasse di
+
+esprimerla con tante parole. Nonostante Pecksniff, nonostante Mrs.
+
+Gamp, nonostante il ben più grande Bailey, la storia procedeva pesantemente e
+
+perfino esanime; egli vide calare le vendite; s'immaginò che la sua
+
+popolarità andasse scemando, e per un impulso improvviso, quanto mai inartistico eppure quanto mai
+
+artistico, vi trascinò dentro l'episodio della visita di Martin in [[america|America]], che
+
+è il [[Jewel|gioiello]] fiammeggiante e la subitanea redenzione del libro. Lo scrisse
+
+in un periodo inquieto e infelice della sua vita; quando aveva smesso
+
+di vagabondare in [[america|America]], ma non poteva smettere di vagabondare del tutto; quando aveva
+
+perduto la sua originaria routine di lavoro, che era violenta ma regolare, e
+
+non si era ancora acquietato nel pieno godimento del suo [[success|successo]] e dei suoi
+
+anni più tardi. Riversò in questo libro un genio capace di far ridere le
+
+[[Mountains|montagne]], un'inventiva che giocolava con le [[Stars|stelle]]. Ma il libro era
+
+triste; ed egli lo sapeva.
+
+La giusta ragione di ciò è davvero interessante. Eppure è una di quelle che
+
+non è facile enunciare senza premunire il proprio [[Self|sé]] da un lato o
+
+dall'altro contro grandi malintesi; e queste condizioni o
+
+concessioni preliminari devono, in un caso come questo, necessariamente essere fatte
+
+per prime. Dickens era, tra le altre cose, un satirico, un puro satirico. Non
+
+sono mai riuscito a capire perché questo titolo sia sempre riservato in modo speciale
+
+e sacro a Thackeray. Thackeray era un romanziere; nel
+
+senso stretto e ristretto, quantomeno, Thackeray era un romanziere di gran lunga
+
+più grande di Dickens. Ma Dickens era certamente il satirico. L'
+
+essenza della [[Satire|satira]] è che essa percepisce una qualche assurdità insita nella
+
+[[logic|logica]] di una data posizione, e ne trae fuori quell'assurdità e
+
+la isola, sì che tutti possano vederla. Così, per esempio, quando Dickens
+
+dice: «Lord Coodle uscirebbe; Sir Thomas Doodle non entrerebbe; e
+
+non essendovi in Inghilterra persone degne di nota all'infuori di Coodle e Doodle,
+
+il paese è rimasto senza [[government|Governo]]»; quando Dickens dice questo, egli
+
+improvvisamente piomba e strappa via l'unica assurdità insita nel

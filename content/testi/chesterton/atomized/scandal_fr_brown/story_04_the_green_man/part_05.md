@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/scandal-fr-brown-(chesterton)">scandal Fr Brown</a> › <a href="/testi/chesterton/atomized/scandal_fr_brown/story_04_the_green_man">Story 04 The Green Man</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/scandal_fr_brown/story_04_the_green_man/part_04">‹ part 04</a><a class="ex-next" href="/testi/chesterton/atomized/scandal_fr_brown/story_04_the_green_man/part_06">part 06 ›</a></div>
@@ -132,3 +134,56 @@ But [[Father Brown]] was already out of hearing, and a moment afterwards was
 plunged in talk with Harker in the porch. They walked to and fro
 together for a few paces and then disappeared into the dark interior. It
 was about twelve minutes afterwards that [[Father Brown]] came out [[Alone|alone]].
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/scandal-fr-brown-(chesterton)">scandal Fr Brown</a> › <a href="/testi/chesterton/atomized/scandal_fr_brown/story_04_the_green_man">Story 04 The Green Man</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/scandal_fr_brown/story_04_the_green_man/part_04">‹ part 04</a><a class="ex-next" href="/testi/chesterton/atomized/scandal_fr_brown/story_04_the_green_man/part_06">part 06 ›</a></div>
+</nav>
+
+Poi anch'egli si [[Rose|alzò]]; stringendo il suo goffo ombrello con una nuova risoluzione, si rivolse alla ragazza con una nuova gravità.
+
+«C'è qualcos'altro che so, che è la chiave di tutti questi suoi enigmi; ma non glielo dirò ancora. Suppongo sia una cattiva notizia; ma non è affatto brutta come le cose che è andata immaginando.» Si abbottonò il cappotto e si volse verso il cancello. «Vado a vedere questo signor Rook di cui parla. In un capanno presso la riva, vicino a dove il signor Harker lo vide camminare. Credo proprio che abiti lì.» E se ne andò trafelato in direzione della spiaggia.
+
+Olive era una persona fantasiosa; forse troppo fantasiosa per essere lasciata senza pericolo a rimuginare su accenni come quelli che il suo amico aveva lasciato cadere; ma egli aveva piuttosto premura di trovarle il miglior sollievo dai suoi rimuginii. Il misterioso legame tra la prima scossa di illuminazione di [[Father Brown|Padre Brown]] e le parole casuali sullo stagno e sulla locanda incubò la sua fantasia in cento forme di brutta simbologia. L'Uomo Verde diventò un [[Ghost|fantasma]] che si trascinava dietro ripugnanti erbacce e camminava per la campagna sotto la [[Moon|luna]]; l'insegna dell'Uomo Verde diventò una figura umana appesa come a una forca; e lo stagno stesso diventò una taverna, una scura taverna subacquea per i marinai morti. Eppure egli aveva scelto il metodo più rapido per rovesciare tutti quegli incubi, con un'esplosione di accecante luce diurna che sembrava più misteriosa della [[Night|notte]].
+
+Poiché prima che il sole tramontasse, qualcosa era rientrato nella sua vita che le capovolse di nuovo l'intero mondo; qualcosa che a stento aveva saputo di desiderare finché non le fu concesso all'improvviso; qualcosa che era, come [[A Dream|un sogno]], antico e familiare, eppure rimaneva incomprensibile e incredibile. Poiché Roger Rook era venuto avanzando a grandi passi attraverso le sabbie, e persino quando era ancora un puntino in lontananza, ella capì che era trasfigurato; e mentre si faceva sempre più vicino, vide che il suo volto scuro era vivo di riso e di esultanza. Venne dritto verso di lei, come se non si fossero mai separati, e la afferrò per le spalle dicendo: «Ora posso prendermi cura di te, grazie a Dio.»
+
+Ella a stento seppe cosa rispose; ma si udì domandargli piuttosto concitatamente perché sembrasse tanto cambiato e tanto felice.
+
+«Perché sono felice», rispose lui. «Ho sentito la cattiva notizia.»
+
+Tutte le parti interessate, comprese alcune che parevano piuttosto disinteressate, si trovarono radunate sul viale del [[Garden|giardino]] che conduceva a [[house|Casa]] Craven, per ascoltare la formalità, ora davvero formale, della lettura del testamento da parte dell'avvocato; e il probabile, e più pratico, seguito dei consigli dell'avvocato sulla crisi. Oltre al notaio dai capelli grigi in persona, munito del documento testamentario, c'era l'ispettore munito di un'autorità più diretta riguardo al delitto, e il tenente Rook in non dissimulata attenzione verso la signorina; alcuni rimasero piuttosto sconcertati nel vedere l'alta figura del dottore, altri sorrisero un poco nel vedere la tozza figura del prete. Il signor Harker, quel Mercurio Alato, era sfrecciato giù fino ai cancelli della portineria per andare loro incontro, li aveva ricondotti sul prato, e poi si era di nuovo lanciato avanti a loro per preparare il loro ricevimento. Disse che sarebbe tornato in un baleno; e chiunque osservasse quello stantuffo di energia poteva [[Well|ben]] crederlo; ma, per il momento, essi rimasero piuttosto abbandonati sul prato fuori dalla [[house|casa]].
+
+«Mi ricorda qualcuno che fa punti al cricket», disse il tenente.
+
+«Quel giovanotto», disse l'avvocato, «è piuttosto seccato che la legge non possa muoversi così rapidamente come fa lui. Per fortuna la signorina Craven comprende le nostre difficoltà e lentezze professionali. Ha avuto la gentilezza di assicurarmi che ha ancora fiducia nella mia lentezza.»
+
+«Vorrei», disse il dottore, all'improvviso, «avere altrettanta fiducia nella sua rapidità.»
+
+«Come, cosa intende dire?» chiese Rook, aggrottando le sopracciglia; «intende dire che Harker è troppo rapido?»
+
+«Troppo rapido e troppo lento», disse il dottor Straker, alla sua maniera piuttosto criptica. «Conosco almeno un'occasione in cui non fu poi così rapido. Perché si aggirò per metà della [[Night|notte]] intorno allo stagno e all'Uomo Verde, prima che l'ispettore scendesse a trovare il [[Body|corpo]]? Perché andò a incontrare l'ispettore? Perché mai avrebbe dovuto aspettarsi di incontrare l'ispettore davanti all'Uomo Verde?»
+
+«Non la capisco», disse Rook. «Intende dire che Harker non stava dicendo la [[Truth|verità]]?»
+
+Il dottor Straker tacque. L'avvocato brizzolato rise con cupo buon [[Humour|umore]]. «Non ho nulla di più grave da dire contro quel giovanotto», disse, «se non che fece un pronto e lodevole tentativo di insegnarmi il mio mestiere.»
+
+«Se è per questo, tentò di insegnare a me il mio», disse l'ispettore, che si era appena unito al gruppo in prima fila. «Ma questo non importa. Se il dottor Straker intende qualcosa con le sue insinuazioni, quelle sì che importano. Devo pregarla di parlare chiaro, dottore. Potrebbe essere mio dovere interrogarlo all'istante.»
+
+«[[Well|Ecco]], eccolo che arriva», disse Rook, mentre la svelta figura del segretario appariva di nuovo sulla soglia.
+
+A questo punto [[Father Brown|Padre Brown]], che era rimasto silenzioso e inosservato in coda al corteo, stupì moltissimo tutti quanti; forse soprattutto coloro che lo conoscevano. Non solo camminò rapidamente in avanti, ma si voltò fronteggiando l'intero gruppo con un'espressione che imponeva l'arresto ed era quasi minacciosa, come un sergente che ordina l'alt ai soldati.
+
+«Fermi!» disse quasi severamente. «Chiedo scusa a tutti; ma è assolutamente necessario che io veda prima il signor Harker. Devo dirgli una cosa che so; e che non credo nessun altro sappia; qualcosa che egli deve sentire. Potrebbe evitare un tragicissimo malinteso con qualcuno più avanti.»
+
+«Che diamine intende dire?» chiese il vecchio Dyke, l'avvocato.
+
+«Intendo la cattiva notizia», disse [[Father Brown|Padre Brown]].
+
+«Ma senta, dico», cominciò l'ispettore indignato; e poi d'un tratto colse lo sguardo del prete e ricordò strane cose che aveva visto in altri giorni. «[[Well|Insomma]], se fosse chiunque altro al mondo tranne lei, direi che questa è la più infernale delle sfacciataggini...»
+
+Ma [[Father Brown|Padre Brown]] era già fuori portata d'udito, e un momento dopo era immerso in conversazione con Harker sotto il portico. Passeggiarono avanti e indietro insieme per qualche passo e poi scomparvero nell'oscuro interno. Fu circa dodici minuti dopo che [[Father Brown|Padre Brown]] uscì [[Alone|da solo]].

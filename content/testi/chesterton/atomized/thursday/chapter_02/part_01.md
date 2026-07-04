@@ -158,13 +158,13 @@ Does this place strike you as being serious?"
 
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/works/thursday-(chesterton)">The Man Who Was Thursday</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/thursday-(chesterton)">The Man Who Was Thursday</a> › <a href="/testi/chesterton/atomized/thursday/chapter_02">Chapter 02</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/thursday/chapter_01/part_03">‹ part 03</a><a class="ex-next" href="/testi/chesterton/atomized/thursday/chapter_02/part_02">part 02 ›</a></div>
 </nav>
 
 # [[thursday]] — Capitolo 2 (parte 1)
 
-                          CAPITOLO II
+CAPITOLO II
 
                  IL SEGRETO DI [[Gabriel Syme|GABRIEL SYME]]
 

@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/apprandcritofchdickens-(chesterton)">ApprAndCritOfChDickens</a> › <a href="/testi/chesterton/atomized/apprandcritofchdickens/chapter_02_celebrated_characters_who_are">Chapter 02 celebrated characters who are</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/apprandcritofchdickens/chapter_02_celebrated_characters_who_are/part_16">‹ part 16</a><a class="ex-next" href="/testi/chesterton/atomized/apprandcritofchdickens/chapter_02_celebrated_characters_who_are/part_18">part 18 ›</a></div>
@@ -181,3 +183,180 @@ and needful work; but it was so difficult that to the men engaged in it
 it blocked up the perspective and filled the sky, so that they slid into
 
 a very natural mental mistake which coloured all their views of [[history]].
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/apprandcritofchdickens-(chesterton)">ApprAndCritOfChDickens</a> › <a href="/testi/chesterton/atomized/apprandcritofchdickens/chapter_02_celebrated_characters_who_are">Chapter 02 celebrated characters who are</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/apprandcritofchdickens/chapter_02_celebrated_characters_who_are/part_16">‹ part 16</a><a class="ex-next" href="/testi/chesterton/atomized/apprandcritofchdickens/chapter_02_celebrated_characters_who_are/part_18">part 18 ›</a></div>
+</nav>
+
+essere sollevata dal lieve sotterfugio di una finzione. Questa tirannia non sarà mai
+
+sollevata finché tutti gli inglesi non la solleveranno insieme.
+
+[[Child|STORIA]] D'[[history|INGHILTERRA]] PER RAGAZZI
+
+Vi sono opere di grandi autori manifestamente inferiori alla loro produzione
+
+tipica, le quali sono nondimeno necessarie alla loro fama e alla loro figura nel
+
+mondo. Non è difficile richiamarne alla mente degli esempi. Nessuno, per
+
+esempio, parlerebbe dei _Tales of a Grandfather_ di Scott come di ciò che rivela
+
+la potenza che produsse _Kenilworth_ e _Guy Mannering_. Eppure,
+
+senza questa fortuita compilazione minore non avremmo davvero la chiave
+
+di Scott. Senza questo unico libro insignificante non ne vedremmo il
+
+significato. Ché la [[Truth|verità]] era che Scott amava la [[history|storia]] più del
+
+[[Romance|romanzo]], perché era così fatto da trovarla più romanzesca del
+
+[[Romance|romanzo]] stesso. Preferiva le gesta di Wallace e di Douglas a quelle di
+
+Marmion e di Ivanhoe. Perciò le sue ciarliere chiacchiere sui tempi antichi, le sue
+
+divagazioni per secoli morti, ci danno il vero materiale e l'impulso di tutta
+
+la sua opera; rappresentano la cava in cui scavò e il cibo di
+
+cui si nutrì. Quasi [[Alone|solo]] fra i romanzieri Scott preferì davvero
+
+quelle parti dei suoi romanzi storici che non aveva inventato lui stesso.
+
+Egli esulta quando può vantarsi in una nota appassionata di aver rubato qualche
+
+detto alla [[history|storia]]. Così i _Tales of a Grandfather_, benché piccoli, sono
+
+in un certo senso la cornice di tutti i romanzi di Waverley. Ci rendiamo conto che tutti
+
+i romanzi di Scott sono racconti di un nonno.
+
+Ciò che qui si è detto di Scott si potrebbe dire in minor misura
+
+dei _Four Georges_ di Thackeray. Benché stiano più in alto fra le sue opere
+
+di quanto i _Tales of a Grandfather_ fra quelle di Scott, non sono le sue opere
+
+di genio; eppure sembrano in qualche modo circondare, integrare e
+
+spiegare tali opere. Senza i _Four Georges_ conosceremmo meno
+
+il legame che univa Thackeray al principio e alla fine del
+
+secolo diciottesimo; e di là avremmo saputo meno del Colonnello Esmond
+
+e anche meno di Lord Steyne. A questi due esempi che ho addotto dei
+
+lievi esperimenti storici di due romanzieri se ne deve aggiungere un terzo.
+
+Il terzo grande maestro della narrativa inglese la cui gloria riempie il
+
+secolo diciannovesimo produsse anch'egli un piccolo esperimento nella
+
+divulgazione della [[history|storia]]. Esso si separa dagli altri due in parte per
+
+una grande differenza di merito, ma in parte anche per un'assoluta differenza di
+
+tono e di prospettiva. Ci sembra di udirlo d'improvviso come nelle prime parole
+
+pronunciate da una voce nuova, una voce gaia, colloquiale e impaziente. Scott e
+
+Thackeray erano teneramente attaccati al passato; Dickens (nella sua
+
+coscienza, quanto meno) era impaziente con tutto, ma specialmente
+
+impaziente con il passato.
+
+Una raccolta delle opere di Dickens sarebbe incompleta in senso essenziale
+
+oltre che [[Well|oltre]] che letterale senza la sua _Storia d'[[history|Inghilterra]] per ragazzi_. Essa
+
+può non essere importante come contributo alla [[history|storia]], ma è importante
+
+come contributo alla [[Biography|biografia]]; come contributo al carattere e
+
+alla carriera dell'uomo che la scrisse, un uomo tipico del suo [[Time|tempo]]. Che egli
+
+non avesse condotto ricerche storiche personali, che non avesse alcuna particolare
+
+erudizione storica, che non avesse avuto, in [[Truth|verità]], nemmeno qualcosa che
+
+si potesse chiamare una buona [[Education|educazione]], tutto ciò non fa che accentuare non il
+
+merito ma almeno l'importanza del libro. Ché qui possiamo leggere in
+
+lingua schietta e popolare, scritta da un uomo il cui genio per l'esposizione
+
+popolare non è mai stato superato fra gli uomini, un breve resoconto dell'
+
+origine e del significato dell'Inghilterra quale appariva all'inglese medio di
+
+quell'età. Quando visioni più sottili della nostra [[history|storia]], alcune più false e alcune
+
+più vere della sua, saranno divenute popolari, o almeno [[Well|ben]] note, quando nel
+
+prossimo futuro visioni carlyleane o cattoliche o marxiane della [[history|storia]] si saranno
+
+diffuse fra il pubblico dei lettori, questo libro rimarrà sempre
+
+come un vivace e brioso compendio di quella visione della [[history|storia]] sicura di sé,
+
+sana di mente, essenzialmente virile ed essenzialmente non signorile
+
+che caratterizzava i Radicali di quella particolare era radicale. La [[history|storia]]
+
+non ci dice nulla sui periodi di cui parla; ma ci dice
+
+moltissimo sul periodo di cui non parla: il periodo in
+
+cui fu scritta. Non è in alcun senso una [[history|storia]] d'Inghilterra a partire dall'
+
+invasione romana; ma è certamente uno dei documenti che
+
+contribuiranno a una [[history|storia]] d'Inghilterra del secolo diciannovesimo.
+
+Della [[Nature|natura]] effettiva dei suoi limiti filosofici e tecnici
+
+è, suppongo, superfluo parlare. Essi si risolvono tutti in
+
+un solo difetto comune nel mondo moderno, e certamente caratteristico di
+
+storici assai più dotti e pretenziosi di Dickens. Quel difetto
+
+consiste semplicemente nell'ignorare o sottovalutare la varietà di strani mali
+
+e di pericoli unici presenti nel mondo. I Radicali del secolo diciannovesimo
+
+erano impegnati, e assai giustamente impegnati, ad affrontare un
+
+particolare problema della civiltà umana; stavano spostando e
+
+ripartendo più equamente un fardello di consuetudini che era davvero divenuto
+
+privo di senso, spesso accidentale e quasi sempre iniquo. Così, per
+
+esempio, un feroce e battagliero codice penale, che era stato perfettamente
+
+naturale quando i briganti erano forti quanto il [[government|Governo]], era divenuto in
+
+tempi più ordinati nient'altro che una vile e sanguinaria abitudine. Così ancora
+
+i poteri e le decime della Chiesa, che erano stati umani quando ogni uomo sentiva la
+
+Chiesa come la parte migliore di sé, erano meri e meschini privilegi quando la
+
+nazione era piena di sette e piena di liberi pensatori. Questo spazzar via
+
+simboli esteriori che non simboleggiavano più nulla era un'opera onorevole
+
+e necessaria; ma era così difficile che, agli uomini impegnati in essa,
+
+ostruiva la prospettiva e riempiva il cielo, sicché scivolarono in
+
+un errore mentale assai naturale che colorò tutte le loro visioni della [[history|storia]].

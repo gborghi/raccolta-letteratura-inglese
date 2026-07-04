@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/secret-fr-brown-(chesterton)">secret Fr Brown</a> › <a href="/testi/chesterton/atomized/secret_fr_brown/story_08_the_chief_mourner_of_marne">Story 08 THE CHIEF MOURNER OF MARNE</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/secret_fr_brown/story_08_the_chief_mourner_of_marne/part_03">‹ part 03</a><a class="ex-next" href="/testi/chesterton/atomized/secret_fr_brown/story_08_the_chief_mourner_of_marne/part_05">part 05 ›</a></div>
@@ -134,3 +136,64 @@ miserable."
 "To my mind he's more miserable than he need be," said the general.
 "After all, as I say, it was a ghastly [[Tragedy|tragedy]], but it was a fair fight.
 And Jim had great provocation."
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/secret-fr-brown-(chesterton)">secret Fr Brown</a> › <a href="/testi/chesterton/atomized/secret_fr_brown/story_08_the_chief_mourner_of_marne">Story 08 THE CHIEF MOURNER OF MARNE</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/secret_fr_brown/story_08_the_chief_mourner_of_marne/part_03">‹ part 03</a><a class="ex-next" href="/testi/chesterton/atomized/secret_fr_brown/story_08_the_chief_mourner_of_marne/part_05">part 05 ›</a></div>
+</nav>
+
+«Generale», disse [[Father Brown]], «supponiamo che Cockspur, o uno della sua risma, si mettesse a spargere per il mondo storie infamanti contro il vostro paese e la vostra [[Flag|bandiera]]. Supponiamo che dicesse che il vostro reggimento è fuggito in battaglia, o che il vostro stato maggiore era al soldo del nemico. Lascereste che qualcosa si frapponesse fra voi e i fatti capaci di smentirlo? Non vi mettereste sulle tracce della [[Truth|verità]] a ogni costo, chiunque ne dovesse pagare il prezzo? [[Well|Ebbene]], anch'io ho un reggimento, e appartengo a un esercito. Lo si sta screditando con quella che, ne sono certo, è una storia inventata; ma io la storia vera non la conosco. Potete biasimarmi se cerco di scoprirla?»
+
+Il soldato rimase in silenzio, e il prete proseguì:
+
+«Ho sentito la storia che ieri hanno raccontato a Mallow, di come Marne si sia ritirato col cuore spezzato per la [[Death|morte]] di colui che gli era più di un fratello. Sono certo che c'era qualcosa di più. Sono venuto a chiedervi se ne sapete di più.»
+
+«No», disse il generale seccamente; «non posso dirvi altro.»
+
+«Generale», disse [[Father Brown]] con un largo sorriso, «mi avreste dato del gesuita, se fossi stato io a servirmi di un simile equivoco.»
+
+Il soldato rise burbero, poi ringhiò con ostilità assai maggiore.
+
+«[[Well|Ebbene]], allora non ve lo dirò», disse. «Che ne dite?»
+
+«Dico soltanto», rispose il prete con dolcezza, «che in tal caso dovrò dirvelo io.»
+
+Gli occhi castani lo fissarono; ma ora non vi era in essi alcun luccichio. Egli continuò:
+
+«Mi costringete a esporre, forse con minor delicatezza di quanta ne mettereste voi, perché è evidente che c'è dell'altro dietro. Sono più che certo che il marchese abbia motivi migliori per il suo rimuginare e i suoi segreti, che non il semplice aver perduto un vecchio amico. [[Doubt|Dubito]] che i preti c'entrino qualcosa; non so nemmeno se sia un [[convert|convertito]] o solo un uomo che acquieta la propria [[Conscience|coscienza]] con le opere di carità; ma sono sicuro che è qualcosa di più di un semplice principale in lutto. Poiché insistete, vi dirò una o due delle cose che me lo hanno fatto pensare.
+
+«Primo: si è detto che James Mair fosse promesso sposo, ma che in qualche modo tornò libero dopo la [[Death|morte]] di Maurice Mair. Perché mai un uomo d'onore dovrebbe rompere il fidanzamento solo perché è avvilito dalla [[Death|morte]] di un terzo? È molto più probabile che si sarebbe volto a esso in cerca di conforto; ma, in ogni caso, la decenza lo obbligava a portarlo a compimento.»
+
+Il generale si mordeva i baffi neri, e i suoi occhi castani erano diventati assai guardinghi e persino inquieti, ma non rispose.
+
+«Un secondo punto», disse [[Father Brown]], aggrottando le sopracciglia sul tavolo. «James Mair chiedeva di continuo alla sua amata se il cugino Maurice non fosse molto affascinante, e se le donne non dovessero ammirarlo. Non so se alla dama sia venuto in mente che quella domanda potesse avere un altro significato.»
+
+Il generale si alzò in piedi e cominciò a camminare, anzi a battere i piedi, per la stanza.
+
+«Oh, al diavolo tutto quanto», disse, ma senza alcuna aria di animosità.
+
+«Il terzo punto», riprese [[Father Brown]], «è il curioso modo di portare il lutto di James Mair: distruggere tutte le reliquie, velare tutti i ritratti, e così via. A volte succede, lo ammetto; potrebbe significare un semplice, affettuoso cordoglio. Ma potrebbe significare qualcos'altro.»
+
+«Che il diavolo vi porti», disse l'altro. «Ancora per quanto continuerete ad accumulare tutto questo?»
+
+«Il quarto e il quinto punto sono piuttosto decisivi», disse il prete con calma, «specie se li si prende insieme. Il primo è che Maurice Mair sembra non aver avuto funerali degni di nota, considerando che era il rampollo cadetto di una grande famiglia. Dev'essere stato sepolto in fretta; forse di nascosto. E l'ultimo punto è che James Mair scomparve all'istante per terre straniere; fuggì, di fatto, sino ai confini del mondo.
+
+«E dunque», proseguì, sempre con la stessa voce sommessa, «quando cercate di annerire la mia religione per far risplendere la storia dell'affetto puro e perfetto di due fratelli, sembra proprio----»
+
+«Basta!», gridò Outram in un tono simile a uno sparo di [[Pistol|pistola]]. «Devo dirvi di più, o penserete di peggio. Lasciate che vi dica una cosa, per cominciare. Fu un combattimento leale.»
+
+«Ah», disse [[Father Brown]], e parve esalare un immenso respiro.
+
+«Fu un duello», disse l'altro. «Fu probabilmente l'ultimo duello combattuto in Inghilterra, e ormai è cosa di molto tempo fa.»
+
+«Questo va meglio», disse [[Father Brown]]. «Grazie a Dio; va molto meglio.»
+
+«Meglio delle cose brutte che pensavate, immagino?», disse il generale burbero. «[[Well|Ebbene]], è facile per voi sogghignare sull'affetto puro e perfetto; ma per quanto ciò [[Well|valga]], era vero. James Mair era davvero devoto al cugino, cresciutogli accanto come un fratello minore. I fratelli e le sorelle maggiori si dedicano talvolta a un [[Child|bambino]] così, specie quando è una sorta di fenomeno precoce. Ma James Mair era quel genere di carattere semplice in cui perfino l'odio è, in un certo senso, disinteressato. Voglio dire che anche quando la sua tenerezza si muta in ira, essa resta oggettiva, rivolta verso il di fuori, verso il suo oggetto; egli non è consapevole di sé. Ora, il povero Maurice Mair era proprio l'opposto. Era molto più cordiale e amato; ma il suo [[success|successo]] lo aveva fatto vivere in una [[house|casa]] di specchi. Era il primo in ogni sorta di sport, arte e virtù; vinceva quasi sempre, e prendeva le sue vittorie con garbo. Ma se mai, per qualche caso, perdeva, si intravedeva appena qualcosa di non altrettanto garbato; era un po' geloso. Non c'è bisogno che vi racconti tutta la miserabile storia di come fu un po' geloso del fidanzamento del cugino; di come non seppe trattenere la sua irrequieta [[Vanity|vanità]] dall'intromettersi. Basti dire che una delle poche cose in cui James Mair, per ammissione comune, lo superava era la mira con la [[Pistol|pistola]]; e con quella la [[Tragedy|tragedia]] finì.»
+
+«Volete dire che la [[Tragedy|tragedia]] ebbe inizio», replicò il prete. «La [[Tragedy|tragedia]] del sopravvissuto. Pensavo che non avesse bisogno di vampiri in tonaca per rendersi infelice.»
+
+«A mio parere è più infelice di quanto sia necessario», disse il generale. «Dopotutto, come dico, fu una [[Tragedy|tragedia]] spaventosa, ma fu un combattimento leale. E Jim aveva avuto grande provocazione.»

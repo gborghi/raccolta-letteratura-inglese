@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/all-i-survey-(chesterton)">All I Survey</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/all_i_survey/chapter_26">‹ Chapter 26</a><a class="ex-next" href="/testi/chesterton/atomized/all_i_survey/chapter_28">Chapter 28 ›</a></div>
@@ -142,5 +144,145 @@ It is entirely intellectual, and concerned only with an
 intellectual admiration, in the real sense of astonishment,
 for that one [[Melancholy|melancholy]] humorist who lived through the whole
 of that Bedlam and remained at least the sanest of English Kings.
+
+-*-
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/all-i-survey-(chesterton)">All I Survey</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/all_i_survey/chapter_26">‹ Chapter 26</a><a class="ex-next" href="/testi/chesterton/atomized/all_i_survey/chapter_28">Chapter 28 ›</a></div>
+</nav>
+
+XXVII
+
+_Sul Monarca Gioviale_
+
+IL SIGNOR [[Arthur|ARTHUR]] BRYANT ha recentemente pubblicato, per i tipi dei signori
+Longmans, uno studio assai meditato e interessante su [[King|re]] Carlo II.
+Era senza dubbio un ritratto favorevole; ma era un ritratto,
+e non un'effigie, né un idolo, né una statua imbiancata a calce, non più
+di quanto fosse una caricatura. C'è spazio per divergenze di opinione circa
+le proporzioni del quadro, ma era il quadro di un oggetto reale.
+È stata la maledizione della nostra [[history|storia]] da museo delle cere che a ciascuna figura storica
+venisse appiccicata, come un'etichetta, una qualche frase più o meno leggendaria,
+e anche quando la frase era in parte vera essa mancava sempre il cuore
+della [[Truth|verità]]. Il punto, la peculiare [[Truth|verità]], intorno a Carlo II
+mi è sempre parso essere questo: che egli fu una prodigiosa coincidenza.
+Era un principe nato per ereditare una [[Crown|corona]]; ed era un
+uomo di straordinaria abilità e, a un livello più basso, una sorta di genio.
+L'etichetta, o allusione letteraria, ufficialmente appiccicata a Carlo II
+è quasi sempre quell'[[Epigram|epigramma]] di uno dei suoi intimi, secondo cui egli
+«non disse mai una cosa sciocca e non ne fece mai una saggia».
+Ma in verità fu l'epigrammista a dire la cosa sciocca.
+Era, in realtà, quasi il rovescio della [[Truth|verità]].
+Carlo II, essendo un uomo che aveva mantenuto la brillante conversazione mondana
+fino al proprio letto di morte, essendo, per di più, un uomo
+che deve aver fatto la [[Love|corte]] a una quarantina di donne, deve certamente essere sceso
+nella sua [[Grave|tomba]] avendo detto un gran numero di cose sciocche.
+Ma aveva anche fatto un gran numero di cose sagge;
+e alcune cose che un critico potrebbe [[Well|ben]] criticare come troppo sagge,
+in quanto dotate piuttosto della saggezza del serpente che dell'innocenza
+della colomba. Anzi, non riesco al momento a ricordare che egli abbia mai
+fatto una cosa che fosse imprudente, per quanto in alcune occasioni possa
+aver fatto una cosa che fosse indegna. Il signor Belloc, nel suo libro
+su Giacomo II, ha in qualche modo posto l'accento su questo aspetto.
+Ha in qualche modo contrapposto Giacomo II a Carlo II; il primo
+come l'uomo del tutto sincero che ha sempre l'apparenza di essere
+stupido e ostinato, il secondo come l'uomo complesso, incline al compromesso
+e meno eroico, che sembra sempre pieno di tatto e ragionevole.
+La versione del signor [[Arthur]] Bryant si potrebbe quasi definire una difesa di
+Carlo II contro questo implicito paragone. Non gli riesce difficile
+mostrare che Carlo si trovava in una posizione disperatamente difficile,
+che la colpa principale ricadeva sugli sciocchi, sugli imbroglioni e sui bigotti che
+lo incalzavano; ma non sono certo che egli liquidi interamente
+l'appello all'eroico avanzato dal signor Belloc, il quale scrisse:
+«Se avesse resistito, avrebbe perduto la [[Crown|corona]]? Avrebbe dovuto
+resistere e perdere la sua [[Crown|corona]]. Poiché vi sono altre cose
+che un uomo può perdere».
+
+Ma, qualunque cosa possiamo pensare della qualità morale dell'uomo, mi sorprende ancora
+che nessuno abbia mai preso nota, in modo lontanamente adeguato,
+della sua qualità mentale. Nessuno degli Stuart fu stupido, nel senso
+in cui il termine si potrebbe applicare ai primi Giorgio tedeschi.
+Maria [[Queen|regina]] di Scozia fu brillante e colta;
+Giacomo I fu un uomo dotto; Carlo I fu un uomo raffinato;
+Giacomo II fu un uomo capace, specialmente come amministratore
+della Marina; e qualunque sia la [[Truth|verità]] intorno alla figura piuttosto scialba
+e tetra del Primo Pretendente, è evidente
+che Carlo Edoardo del '45 fu un combattente e non uno [[Fool|sciocco]].
+Ma mi pare che Carlo II si distingua fra gli
+Stuart per aver davvero posseduto quella sorta di ingegno che avrebbe potuto
+portarlo alla ribalta se non fosse stato un principe.
+Gran parte dell'equivoco nasce dall'abitudine cieca e maldestra
+di parlare come se un uomo di quel genere fosse soltanto un «bello spirito»,
+e di parlare come se lo «spirito» fosse solo una specie di sciocco lustrino o di orpello
+di stagnola che qualsiasi [[Fool|sciocco]] potrebbe sfoggiare. In realtà, c'è molta
+più saggezza nell'antico uso della parola «spirito» che nel nuovo.
+Nelle antiche espressioni su un uomo che mette a frutto il proprio spirito,
+o che ha spirito a sufficienza per fare questo o quello, la parola era davvero usata
+come sinonimo di mente. Sta quasi sempre a indicare la mente,
+ma soprattutto la presenza di spirito. Molti, che citano lo studiatissimo
+distico dello sfacciato cortigiano sul non dire mai una cosa sciocca
+e sul non fare mai una cosa saggia, non menzionano la ben
+più penetrante e del tutto improvvisata risposta di Carlo, in quel passo
+in cui lo si dà per rispondere: «Sono un [[King|re]] inglese;
+e le mie parole sono mie, ma le mie azioni sono dei miei Ministri».
+L'uomo che parlava così non aveva soltanto spirito,
+o ciò che questa gente intende per spirito; aveva cervello.
+
+Ora, se leggiamo il resoconto particolareggiato, drammatico e avvincente,
+nel libro del signor Bryant, della lunga partita di Poker politico di Carlo II
+contro i politici dell'Opposizione, uomini davvero brillanti come
+Shaftesbury e Halifax, assisteremo a una pura battaglia di cervelli,
+nella quale il suo cervello fu senz'altro il migliore. Egli cominciò senza carte
+di alcun genere; o almeno, non ebbe mai altro che pessime carte nel momento
+peggiore [[Time|tempo]] della battaglia; aveva contro di sé tutti gli uomini più abili dell'epoca, che tenevano in mano
+tutte le carte del gioco; e li batté tutti.
+Superò indenne una Rivoluzione; che non viene annoverata insieme alla
+Gloriosa Rivoluzione o alla Rivoluzione americana solo perché egli la superò indenne.
+E Giacomo II e Giorgio III non fecero altrettanto. E realizzò una Restaurazione;
+non come un giovane principe che torna per il caso della nascita o per la scelta
+del Parlamento, ma come un politico anziano, stanco e del tutto solo,
+a dispetto del Parlamento, e per pura, instancabile intelligenza.
+Poiché la Restaurazione non avvenne al principio del regno di Carlo,
+ma alla fine.
+
+Sarebbe difficile decidere qui sui meriti della sua causa,
+sulla quale gli uomini divergeranno secondo le loro parzialità religiose e
+politiche. È [[Well|bene]] notare, tuttavia, che anche qui
+la maggior parte di coloro che discutono di politica mancano il punto.
+Così essi leggono spesso, nelle fazioni e nei fanatismi
+dell'epoca, un moderno ideale democratico che allora non esisteva
+né nei Whig né nel [[King|re]], ma, semmai, piuttosto più
+nel [[King|re]] che nei Whig. Quando, per esempio, Carlo disse
+che riteneva il suo popolo avrebbe preferito avere un solo [[King|re]] anziché cinque-
+cento Re, la cosa viene spesso interpretata, persino da chi vi concorda,
+come il consueto sarcasmo Tory contro l'informe tirannia della plebaglia.
+Certo, Carlo, o qualsiasi Tory dell'epoca, avrebbe potuto assai
+probabilmente scagliare un sarcasmo contro la tirannia della plebaglia.
+Ma, di fatto, in questo caso intendeva molto più esattamente
+ciò che disse, e ciò che disse era perfettamente corretto.
+Il Parlamento non era il popolo, nemmeno nel modo piuttosto
+meccanico e goffo in cui oggi lo si suppone
+essere il popolo. Si fondava su un suffragio ristretto,
+era tutto crivellato di nepotismo, e per lo più nominato da nobili
+e possidenti. Ma il caso era assai più forte di così.
+Era, nel suo intero atteggiamento e nella sua azione, una classe privilegiata;
+una classe dominante; una cosa simile a una [[house|camera]] di Pari e di Principi.
+Era davvero, come disse Carlo, una [[house|Camera]] di Cinquecento Re.
+Aveva uno speciale privilegio parlamentare, proprio come egli aveva una speciale
+prerogativa regia; ed è esatto dire che il [[King|re]] lottava
+con i Re. Tutto ciò emerge con grande chiarezza nel racconto del signor Bryant
+della controversia da [[nightmare|incubo]] del Complotto Papista.
+Non intendo occuparmi qui del Complotto Papista nei suoi
+altri aspetti, e meno che mai nel suo aspetto papista.
+Il mio interesse, per il momento, non è nemmeno morale, per non dire [[Alone|tanto meno]] religioso.
+È interamente intellettuale, e riguarda soltanto un'
+intellettuale ammirazione, nel senso proprio dello stupore,
+per quell'unico umorista [[Melancholy|malinconico]] che attraversò tutto
+quel manicomio e rimase almeno il più assennato dei Re inglesi.
 
 -*-

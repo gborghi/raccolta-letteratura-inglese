@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/scandal-fr-brown-(chesterton)">scandal Fr Brown</a> › <a href="/testi/chesterton/atomized/scandal_fr_brown/story_01_the_scandal_of_father_brown">Story 01 The Scandal of Father Brown</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/scandal_fr_brown/story_01_the_scandal_of_father_brown/part_04">‹ part 04</a><a class="ex-next" href="/testi/chesterton/atomized/scandal_fr_brown/story_01_the_scandal_of_father_brown/part_06">part 06 ›</a></div>
@@ -131,3 +133,58 @@ making out a case for the loose ways of these Latin Americans - [[Well|well]],
 the queer thing about you' - and he blinked owlishly at the other
 through his spectacles - 'the queerest thing about you is that in a way
 you're right.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/scandal-fr-brown-(chesterton)">scandal Fr Brown</a> › <a href="/testi/chesterton/atomized/scandal_fr_brown/story_01_the_scandal_of_father_brown">Story 01 The Scandal of Father Brown</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/scandal_fr_brown/story_01_the_scandal_of_father_brown/part_04">‹ part 04</a><a class="ex-next" href="/testi/chesterton/atomized/scandal_fr_brown/story_01_the_scandal_of_father_brown/part_06">part 06 ›</a></div>
+</nav>
+
+«Sì,» disse [[Father Brown|Padre Brown]], «l'ho aiutata a fuggire con quell'[[Lover|amante]] dai capelli ricci.»
+
+«Vi definite un ministro di Gesù [[Christ|Cristo]],» gridò Rock, «e vi vantate di un delitto.»
+
+«Sono stato mescolato a parecchi delitti,» disse il prete dolcemente. «Per fortuna, questa volta è una storia senza delitto. È un semplice idillio da [[Fire|focolare]]; che si conclude con un tepore di domesticità.»
+
+«E si conclude con una scala di corda invece che con una corda al collo,» disse Rock. «Non è forse una donna sposata?»
+
+«Oh, sì,» disse [[Father Brown|Padre Brown]].
+
+«[[Well|Ebbene]], non dovrebbe stare con suo marito?» incalzò Rock.
+
+«Sta con suo marito,» disse [[Father Brown|Padre Brown]].
+
+L'altro sobbalzò per l'ira. «Mentite,» disse. «Quel povero omino sta ancora russando a letto.»
+
+«Pare che sappiate un mucchio di cose sui suoi affari privati,» disse [[Father Brown|Padre Brown]] lamentosamente. «Potreste quasi scrivere una vita dell'Uomo con la Barba. L'unica cosa che pare non abbiate mai scoperto su di lui è il suo nome.»
+
+«Sciocchezze,» disse Rock. «Il suo nome è nel registro dell'albergo.»
+
+«Lo so che c'è,» rispose il prete, annuendo gravemente, «in caratteri assai grandi; il nome di Rudel Romanes. Hypatia Potter, che lo incontrò qui, pose il proprio nome arditamente sotto il suo, quando intendeva fuggire con lui; e suo marito pose il proprio nome sotto quello, quando li inseguì fin qui. Lo pose molto stretto sotto il suo, a mo' di protesta. Romanes (che ha barili di denaro, da popolare misantropo che disprezza gli uomini) corruppe le bestie di questo albergo perché lo sbarrassero e lo serrassero e tenessero fuori il legittimo marito. E io, come voi dite giustamente, l'ho aiutato a entrare.»
+
+Quando a un uomo si dice qualcosa che rovescia le cose sottosopra; che è la coda a scodinzolare il cane; che è il pesce ad aver preso il pescatore; che è la terra a girare attorno alla [[Moon|luna]]; egli impiega un certo [[Time|tempo]] prima ancora di chiedere seriamente se sia vero. È ancora appagato dalla consapevolezza che è l'opposto dell'ovvia [[Truth|verità]]. Rock disse infine: «Non vorrete dire che quell'omino è il romantico Rudel di cui leggiamo sempre; e che quel tizio dai capelli ricci è il signor Potter di Pittsburgh.»
+
+«Sì,» disse [[Father Brown|Padre Brown]]. «L'ho capito nel momento stesso in cui ho posato gli occhi su entrambi. Ma l'ho verificato in seguito.»
+
+Rock ruminò per un [[Time|po']] e disse infine: «Suppongo sia appena possibile che abbiate ragione. Ma come siete arrivato a una simile idea, a dispetto dei fatti?»
+
+[[Father Brown|Padre Brown]] parve piuttosto confuso; si lasciò sprofondare in una sedia, e fissò il vuoto, finché un debole sorriso cominciò ad [[Dawn|albeggiare]] sul suo volto rotondo e piuttosto sciocco.
+
+«[[Well|Ebbene]],» disse, «vedete... la [[Truth|verità]] è che io non sono romantico.»
+
+«Non so che diavolo siate,» disse Rock rudemente.
+
+«Voi, invece, siete romantico,» disse [[Father Brown|Padre Brown]] servizievolmente. «Per esempio, vedete qualcuno dall'aria poetica, e presumete che sia un poeta. Sapete che aspetto ha la maggioranza dei poeti? Che selvaggia confusione fu creata da quella coincidenza di tre bell'imbusti aristocratici agli inizi del diciannovesimo secolo: Byron e Goethe e Shelley! Credetemi, di solito un uomo può scrivere: 'La [[Beauty|Bellezza]] ha posato le sue labbra fiammeggianti sulle mie', o qualunque cosa scrivesse quel tale, senza essere lui stesso particolarmente bello. E inoltre, vi rendete conto quanti anni ha generalmente un uomo nel [[Time|tempo]] in cui la sua fama ha ormai riempito il mondo? Watts ritrasse Swinburne con un'aureola di capelli; ma Swinburne era calvo prima ancora che la maggior parte dei suoi ultimi ammiratori americani o australiani avesse sentito parlare delle sue chiome giacintee. E così pure D'Annunzio. In realtà Romanes ha ancora una testa piuttosto bella, come vedrete se la osservate da vicino; ha l'aspetto di un uomo intellettuale; e lo è. Sfortunatamente, come parecchi altri uomini intellettuali, è uno [[Fool|sciocco]]. Si è lasciato andare, inselvatichito dall'egoismo e dall'affannarsi attorno alla propria digestione. Sicché l'ambiziosa signora americana, che pensava sarebbe stato come librarsi verso l'Olimpo con le Nove Muse fuggire con un poeta, scoprì che un giorno o due di ciò le bastavano e avanzavano. Sicché, quando suo marito le venne dietro, e prese d'assalto il posto, ella fu ben lieta di tornare da lui.»
+
+«Ma suo marito?» chiese Rock. «Sono ancora piuttosto perplesso riguardo a suo marito.»
+
+«Ah, avete letto troppi dei vostri erotici romanzi moderni,» disse [[Father Brown|Padre Brown]]; e socchiuse gli occhi in risposta allo sguardo di protesta dell'altro. «So che un mucchio di storie cominciano con una donna selvaggiamente bella maritata a un qualche anziano porco della Borsa. Ma perché? In questo, come nella maggior parte delle cose, i romanzi moderni sono esattamente il rovescio del moderno. Non dico che non accada mai; ma ormai non accade quasi mai, se non per colpa di lei stessa. Le ragazze oggi sposano chi vogliono; specialmente le ragazze viziate come Hypatia. E chi sposano? Una bella e ricca ragazza come quella avrebbe un cerchio di ammiratori; e chi sceglierebbe? Ci sono cento probabilità contro una che sposi giovanissima e scelga l'uomo più bello che ha incontrato a un [[Dance|ballo]] o a una partita di tennis. [[Well|Ebbene]], gli uomini d'affari ordinari sono talvolta belli. Apparve un giovane dio (chiamato Potter) e a lei non importava se fosse un agente di cambio o uno scassinatore. Ma, dato l'ambiente, ammetterete che è più probabile che fosse un agente di cambio; e inoltre è del tutto probabile che si chiamasse Potter. Vedete, siete così inguaribilmente romantico che tutto il vostro ragionamento si fondava sull'idea che un uomo dall'aspetto di un giovane dio non potesse chiamarsi Potter. Credetemi, i nomi non sono distribuiti in modo così appropriato.»
+
+«[[Well|Ebbene]],» disse l'altro, dopo una breve pausa, «e cosa supponete sia accaduto dopo di ciò?»
+
+[[Father Brown|Padre Brown]] si alzò piuttosto bruscamente dal sedile in cui si era lasciato cadere; la luce della candela gettava l'[[Shadow|ombra]] della sua bassa figura sulla parete e sul soffitto, dando la strana impressione che l'equilibrio della stanza fosse stato alterato.
+
+«Ah,» mormorò, «questo è il diavolo della faccenda. Questo è il vero diavolo. Molto peggio dei vecchi demoni indiani di questa giungla. Voi pensavate che io stessi soltanto perorando la causa dei costumi disinvolti di questi Latinoamericani... [[Well|ebbene]], la cosa strana di voi» — e strizzò l'occhio con aria di gufo all'altro attraverso gli occhiali — «la cosa più strana di voi è che, in un certo senso, avete ragione.

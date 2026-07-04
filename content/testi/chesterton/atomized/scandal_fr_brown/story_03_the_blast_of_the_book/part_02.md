@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/scandal-fr-brown-(chesterton)">scandal Fr Brown</a> › <a href="/testi/chesterton/atomized/scandal_fr_brown/story_03_the_blast_of_the_book">Story 03 The Blast of the Book</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/scandal_fr_brown/story_03_the_blast_of_the_book/part_01">‹ part 01</a><a class="ex-next" href="/testi/chesterton/atomized/scandal_fr_brown/story_03_the_blast_of_the_book/part_03">part 03 ›</a></div>
@@ -122,3 +124,36 @@ didn't know what he could answer; but I pressed my logical advantage in
 mere [[Vanity|vanity]]. âIf it comes to that,â I said, âwhat is your version of
 what really happened on the boat?â Still he didn't answer; and I looked
 round and saw that he wasn't there.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/scandal-fr-brown-(chesterton)">scandal Fr Brown</a> › <a href="/testi/chesterton/atomized/scandal_fr_brown/story_03_the_blast_of_the_book">Story 03 The Blast of the Book</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/scandal_fr_brown/story_03_the_blast_of_the_book/part_01">‹ part 01</a><a class="ex-next" href="/testi/chesterton/atomized/scandal_fr_brown/story_03_the_blast_of_the_book/part_03">part 03 ›</a></div>
+</nav>
+
+Ed entrò nel suo ufficio privato, ancora rimuginando sul problema che il nome di Pringle aveva sollevato; o piuttosto, forse, ratificato e confermato nella sua mente. Perfino il più perfettamente equilibrato degli agnostici è in parte umano; ed è possibile che la lettera del missionario paresse acquistare maggior peso in quanto prometteva di sostenere la sua ipotesi privata e ancora provvisoria. Sedette nella sua ampia e comoda poltrona, di fronte all'incisione di Montaigne; e rilesse la breve lettera del reverendo Luke Pringle, che fissava l'appuntamento per quella mattina. Nessuno conosceva meglio del professor Openshaw i segni distintivi della lettera dell'esaltato; i particolari accalcati; la calligrafia ragnesca; la lunghezza e le ripetizioni superflue. Di tutto ciò non v'era traccia in questo caso; solo una breve e sbrigativa dichiarazione dattiloscritta secondo cui lo scrivente si era imbattuto in alcuni curiosi casi di Scomparsa, che parevano rientrare nel campo [[The Professor|del Professore]] in quanto studioso di problemi psichici. [[The Professor|Il Professore]] ne ricevette un'impressione favorevole; né ne ebbe alcuna sfavorevole, malgrado un lieve moto di sorpresa, quando alzò lo sguardo e vide che il reverendo Luke Pringle era già nella stanza.
+
+«Il vostro impiegato mi ha detto di entrare direttamente,» disse il signor Pringle in tono di scusa, ma con un largo e piuttosto piacevole sorriso. Il sorriso era in parte celato da masse di barba e favoriti di un grigio rossastro; una perfetta giungla di barba, quale talvolta la portano gli uomini bianchi che vivono nelle giungle; ma gli occhi sopra il naso camuso non avevano nulla in loro di minimamente selvaggio o strampalato. Openshaw aveva subito puntato su di essi quel riflettore concentrato o quella lente ustoria di scrutinio scettico che rivolgeva a molti uomini per vedere se fossero ciarlatani o maniaci; e, in questo caso, provò un senso di rassicurazione piuttosto insolito. La barba selvaggia poteva ben appartenere a un esaltato, ma gli occhi contraddicevano interamente la barba; erano colmi di quella risata del tutto schietta e amichevole che non si trova mai sui volti di chi è un serio impostore o un serio pazzo. Egli si sarebbe aspettato che un uomo con quegli occhi fosse un filisteo, un allegro scettico, un uomo che sbraitasse un disprezzo superficiale ma cordiale verso [[Ghosts|fantasmi]] e spiriti; ma in ogni caso, nessun ciarlatano di professione poteva permettersi di sembrare tanto frivolo. L'uomo era abbottonato fino alla gola in un vecchio e logoro mantello, e solo il suo largo cappello floscio suggeriva il chierico; ma i missionari dei luoghi selvaggi non sempre si preoccupano di vestire da chierici.
+
+«Probabilmente crederete che tutto questo sia un altro imbroglio, Professore,» disse il signor Pringle, con una sorta di astratto godimento, «e [[Hope|spero]] mi perdonerete se rido della vostra assai naturale aria di disapprovazione. Ciò nondimeno, devo raccontare la mia storia a qualcuno che se ne intende, perché è vera. E, scherzi a parte, è tragica [[Well|oltre]] che vera. [[Well|Ebbene]], per farla breve, ero missionario a Nya-Nya, una stazione dell'Africa occidentale, nel folto delle foreste, dove quasi l'unico altro uomo bianco era l'ufficiale al comando del distretto, il capitano Wales; e lui e io divenimmo piuttosto intimi. Non che a lui piacessero le missioni; era, se posso dir così, ottuso sotto molti aspetti; uno di quegli uomini d'azione dalla testa quadra e dalle spalle quadre che quasi non hanno bisogno di pensare, e ancor [[Alone|meno]] di credere.
+
+Ed è questo che rende il tutto ancora più strano. Un giorno tornò alla sua tenda nella foresta, dopo una breve licenza, e disse di aver vissuto un'esperienza maledettamente bizzarra, e di non sapere che farci. Reggeva un vecchio libro arrugginito dalla rilegatura in cuoio, e lo posò su un tavolo accanto alla sua rivoltella e a una vecchia [[Sword|spada]] araba che teneva, probabilmente come curiosità. Disse che quel libro era appartenuto a un uomo del piroscafo da cui era appena sbarcato; e che quell'uomo giurava che nessuno dovesse aprire il libro, né guardarvi dentro; altrimenti sarebbe stato portato via dal diavolo, o sarebbe scomparso, o qualcosa del genere. Wales disse che erano tutte sciocchezze, naturalmente; e vennero a diverbio; e pare che il risultato fosse che quest'uomo, punto sul vivo dall'accusa di codardia o superstizione, guardò davvero dentro il libro; e all'istante lo lasciò cadere; camminò verso il fianco del piroscafo...»
+
+«Un momento,» disse [[The Professor|il Professore]], che aveva preso una o due note. «Prima che mi diciate altro. Quest'uomo disse a Wales dove aveva preso il libro, o a chi originariamente appartenesse?»
+
+«Sì,» rispose Pringle, ora del tutto [[Grave|serio]]. «Pare che avesse detto di riportarlo al dottor Hankey, il viaggiatore orientalista ora in Inghilterra, al quale originariamente apparteneva, e che l'aveva messo in guardia sulle sue strane proprietà. [[Well|Ebbene]], Hankey è un uomo capace e un tipo piuttosto acido e beffardo; il che lo rende ancora più strano. Ma il nocciolo della storia di Wales è assai più semplice. È che l'uomo che aveva guardato dentro il libro camminò dritto oltre il fianco della [[Ship|nave]], e non fu mai più rivisto.»
+
+«Ci credete voi stesso?» chiese Openshaw dopo una pausa.
+
+«[[Well|Ebbene]], sì,» rispose Pringle. «Ci credo per due ragioni. La prima, che Wales era un uomo del tutto privo d'immaginazione; eppure aggiunse un tocco che solo un uomo dotato d'immaginazione avrebbe potuto aggiungere. Disse che l'uomo camminò dritto oltre il fianco in una giornata immota e serena; ma non ci fu alcun tonfo.»
+
+[[The Professor|Il Professore]] fissò le sue note per alcuni secondi in [[Silence|silenzio]]; poi disse: «E la vostra altra ragione per crederci?»
+
+«La mia altra ragione,» rispose il reverendo Luke Pringle, «è ciò che vidi io stesso.»
+
+Vi fu un altro [[Silence|silenzio]]; finché egli riprese nello stesso tono di chi constata un fatto. Qualunque cosa avesse, non aveva nulla della smania con cui l'esaltato, o perfino il credente, cerca di convincere gli altri.
+
+«Vi ho detto che Wales posò il libro sul tavolo accanto alla [[Sword|spada]]. C'era un solo ingresso alla tenda; e si dava il caso che io vi stessi in piedi, guardando fuori nella foresta, con le spalle al mio compagno. Egli era in piedi presso il tavolo, brontolando e ringhiando sull'intera faccenda; dicendo che era una buffonata, nel ventesimo secolo, aver paura di aprire un libro; chiedendo perché diavolo non dovesse aprirlo lui stesso. Allora qualche istinto si mosse in me e dissi che era meglio non lo facesse, che era meglio restituirlo al dottor Hankey. "Che male potrebbe fare?" disse irrequieto. "Che male ha fatto?" risposi ostinatamente. "Che cosa è successo al vostro amico sul piroscafo?" Non rispose, e in verità non sapevo che cosa potesse rispondere; ma io incalzai il mio vantaggio logico per pura [[Vanity|vanità]]. "Se è per questo," dissi, "qual è la vostra versione di ciò che accadde davvero sul piroscafo?" Continuava a non rispondere; e mi voltai e vidi che non c'era più.

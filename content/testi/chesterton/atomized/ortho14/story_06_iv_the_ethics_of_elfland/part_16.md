@@ -126,7 +126,7 @@ Really, if Jesus of Nazareth was not [[Christ]], He must have been Antichrist.
 
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/works/ortho14-(chesterton)">Orthodoxy</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/ortho14-(chesterton)">Orthodoxy</a> › <a href="/testi/chesterton/atomized/ortho14/story_06_iv_the_ethics_of_elfland">Story 06 Iv The Ethics Of Elfland</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/ortho14/story_06_iv_the_ethics_of_elfland/part_15">‹ part 15</a><a class="ex-next" href="/testi/chesterton/atomized/ortho14/story_06_iv_the_ethics_of_elfland/part_17">part 17 ›</a></div>
 </nav>
 

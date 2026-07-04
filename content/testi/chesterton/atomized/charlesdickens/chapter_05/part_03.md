@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/charlesdickens-(chesterton)">CharlesDickens</a> › <a href="/testi/chesterton/atomized/charlesdickens/chapter_05">Chapter 05</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/charlesdickens/chapter_05/part_02">‹ part 02</a><a class="ex-next" href="/testi/chesterton/atomized/charlesdickens/chapter_05/part_04">part 04 ›</a></div>
@@ -114,3 +116,113 @@ the police, mankind is still driving its dark trade in heroes.
 And elsewhere, and in all other ages, in braver fashion,
 under cleaner skies, the same eternal tale-telling goes on,
 and the whole mortal world is a factory of immortals.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/charlesdickens-(chesterton)">CharlesDickens</a> › <a href="/testi/chesterton/atomized/charlesdickens/chapter_05">Chapter 05</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/charlesdickens/chapter_05/part_02">‹ part 02</a><a class="ex-next" href="/testi/chesterton/atomized/charlesdickens/chapter_05/part_04">part 04 ›</a></div>
+</nav>
+
+Questa è una faccenda semplice; ma, a meno che non venga enunciata e sentita,
+Dickens può essere grandemente frainteso e grandemente sottovalutato.
+Poiché non solo tutta la sua macchina è diretta ad agevolare
+l'esibizione di [[Self|sé]] da parte di certi personaggi, ma qualcosa
+di più profondo e ancor più anti-moderno è del pari vero di lui.
+È del pari vero che tutta la macchina in movimento esiste solo per mettere in mostra
+personaggi interamente statici.  Le cose nella storia di Dickens si spostano
+e mutano solo per darci scorci di grandi personaggi
+che non mutano affatto.  Se avessimo un seguito del [[Pickwick]] dieci
+anni dopo, [[Pickwick]] avrebbe esattamente la stessa età.
+Sappiamo ch'egli non sarebbe caduto in quella strana e bella
+seconda [[Childhood|fanciullezza]] che addolcì e semplificò la fine
+del colonnello Newcome.  Newcome, per tutto il libro, è in
+un'atmosfera di [[Time|tempo]]: [[Pickwick]], per tutto il libro, non lo è.
+Questo sarà probabilmente inteso dalla maggior parte dei moderni come lode
+di Thackeray e biasimo di Dickens.  Ma ciò dimostra solo
+quanto pochi moderni comprendano Dickens.  Dimostra pure
+quanto pochi comprendano le fedi e le favole del genere umano.
+La cosa può essere grossolanamente enunciata in un solo modo.
+Dickens non fece propriamente una letteratura; fece una mitologia.
+
+Per qualche anno il nostro angolo d'Europa occidentale ha avuto un capriccio
+per questa cosa che chiamiamo narrativa; ossia per il mettere per iscritto le nostre
+proprie vite o vite simili al fine di guardarle.  Ma benché la
+chiamiamo narrativa, essa differisce dalle letterature più antiche principalmente
+per l'essere meno fittizia.  Imita non solo la vita, ma le limitazioni
+della vita; non solo riproduce la vita, riproduce la [[Death|morte]].
+Ma fuori di noi, in ogni altro paese, in ogni altra età, si è andata
+svolgendo fin dal principio una specie più fittizia di finzione.
+Intendo la specie ora chiamata folklore, la letteratura del popolo.
+I nostri romanzi moderni, che trattano gli uomini quali essi sono, sono principalmente
+prodotti da una piccola e istruita sezione della società.
+Ma quest'altra letteratura tratta uomini più grandi di quanto essi siano—
+semidei ed eroi; e questa è materia troppo importante
+per essere affidata alle classi istruite.  La foggiatura di questi portenti
+è un mestiere popolare, come arare o murare; gli uomini che
+facevano siepi, gli uomini che facevano fossati, erano gli uomini che facevano divinità.
+Gli uomini non potevano eleggere i loro re, ma potevano eleggere i loro dèi.
+Così ci troviamo di fronte a un fondamentale contrasto tra ciò che si
+chiama narrativa e ciò che si chiama folklore.  L'una esibisce un grado abnorme
+di destrezza operante entro i nostri limiti quotidiani; l'altro
+esibisce desideri del tutto normali estesi oltre quei limiti.
+La narrativa significa le cose comuni viste dalle persone non comuni.
+Le fiabe significano le cose non comuni viste dalle persone comuni.
+
+Man mano che il nostro mondo avanza attraverso la [[history|storia]] verso la sua presente epoca,
+esso diviene più specialistico, meno democratico, e il folklore si tramuta a poco a poco
+in narrativa.  Ma è solo lentamente che l'antico [[Fire|fuoco]] elfico si spegne
+nella luce del comune realismo.  Per età intere dopo che i nostri personaggi si sono
+vestiti degli abiti dei mortali, essi tradiscono il [[Blood|sangue]] degli dèi.
+Perfino la nostra fraseologia è piena di reliquie di ciò.  Quando un [[Novel|romanzo]] moderno
+è dedicato agli smarrimenti d'un debole giovane scrivano che non riesce a decidere
+quale donna voglia sposare, o in quale nuova religione creda,
+noi diamo ancora a questo cafone dalle ginocchia storte il nome di «[[Hero|eroe]]»—il nome che
+è la [[Crown|corona]] d'[[Achilles|Achille]].  La preferenza popolare per una storia con «un
+lieto fine» non è, o per lo meno non era, un mero ottimismo da caramelle;
+è il residuo dell'antica idea del trionfo dell'uccisore di draghi,
+l'ultima apoteosi dell'uomo diletto al cielo.
+
+Ma vi è un'altra e più impalpabile traccia di questo
+soprannaturalismo che svanisce—una traccia assai viva per il lettore,
+ma assai sfuggente per il critico.  È una certa aria di
+infinità negli episodi, perfino nei più brevi episodi—
+un senso che, benché li lasciamo, essi seguitino ancora.
+La nostra moderna attrazione per i racconti brevi non è un accidente di forma;
+è il segno d'un reale senso di fugacità e fragilità;
+significa che l'esistenza è solo un'impressione, e, forse,
+solo un'illusione.  Un [[Short Story|racconto breve]] d'oggi ha l'aria d'[[A Dream|un sogno]];
+ha l'irrevocabile [[Beauty|bellezza]] d'una falsità; abbiamo un barlume di grigie
+strade di [[London|Londra]] o di rosse pianure dell'India, come in una visione d'oppio;
+vediamo persone—persone che ci arrestano, con volti ardenti e imploranti.
+Ma quando la storia è finita, le persone sono finite.  Non abbiamo alcun
+istinto di alcunché di ultimo e duraturo dietro gli episodi.
+I moderni, in una parola, descrivono la vita in racconti brevi
+perché sono posseduti dal sentimento che la vita stessa
+sia un [[Short Story|racconto breve]] quanto mai breve, e forse non un racconto vero.
+Ma in questa letteratura più antica, perfino nella letteratura comica
+(anzi, specialmente nella letteratura comica), è vero il contrario.
+I personaggi sono sentiti come cose fisse di cui abbiamo
+fuggevoli barlumi; ossia, sono sentiti come divini.
+Zio Toby parla per sempre, come gli elfi danzano per sempre.
+Sentiamo che ogni volta che busseremo alla [[house|casa]] di [[Falstaff]], [[Falstaff]]
+sarà in [[Home|casa]].  Lo sentiamo come un Pagano sentirebbe che,
+se un grido rompesse il [[Silence|silenzio]] dopo età d'incredulità, [[Apollo]] sarebbe
+ancora in ascolto nel suo tempio.  Questi scrittori potranno raccontare
+racconti brevi, ma noi sentiamo che essi sono solo parti d'una lunga storia.
+E qui sta il peculiare significato, la peculiare
+sacralità perfino, dei romanzetti da quattro soldi e della comune materia stampata
+fatta per i nostri garzoni.  Qui, in forme fioche e disperate,
+sotto il bando della nostra bassa cultura, tempestati da magistrati sciocchi,
+sbeffeggiati da sciocchi maestri di scuola,—qui è l'antica letteratura popolare
+ancora popolare; qui è l'inconfondibile voluminosità,
+le mille e una storia di Dick Deadshot, come le mille e una
+storia di [[Robin Hood]].  Qui è lo splendido e statico ragazzo, il ragazzo
+che rimane ragazzo attraverso mille volumi e mille anni.
+Qui, in meschini vicoli e in fioche botteghe, ombreggiato e svergognato dalla
+polizia, il genere umano continua a portare avanti il suo oscuro commercio in eroi.
+E altrove, e in tutte le altre età, in foggia più valorosa,
+sotto cieli più tersi, procede lo stesso eterno raccontare di storie,
+e l'intero mondo mortale è una fabbrica d'immortali.

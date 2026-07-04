@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/apprandcritofchdickens-(chesterton)">ApprAndCritOfChDickens</a> › <a href="/testi/chesterton/atomized/apprandcritofchdickens/chapter_01_page">Chapter 01 PAGE</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/apprandcritofchdickens/chapter_01_page/part_18">‹ part 18</a><a class="ex-next" href="/testi/chesterton/atomized/apprandcritofchdickens/chapter_01_page/part_20">part 20 ›</a></div>
@@ -179,3 +181,178 @@ been erected by the superstitions and sentimentalities of the past. In
 pursuance of this idea many of the new men of the new century, quite
 
 confident that they were invigorating the new age, sought to destroy the
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/apprandcritofchdickens-(chesterton)">ApprAndCritOfChDickens</a> › <a href="/testi/chesterton/atomized/apprandcritofchdickens/chapter_01_page">Chapter 01 PAGE</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/apprandcritofchdickens/chapter_01_page/part_18">‹ part 18</a><a class="ex-next" href="/testi/chesterton/atomized/apprandcritofchdickens/chapter_01_page/part_20">part 20 ›</a></div>
+</nav>
+
+dolorosamente reale, tocca la sua orrida vetta in quella bella scena della
+
+[[Death|morte]] di Sikes: la [[house|casa]] assediata, il ragazzo che urla dentro, la folla
+
+che urla fuori, l'assassino ridotto quasi a un maniaco che trascina la sua
+
+vittima inutilmente su e giù per la stanza, la fuga sul tetto, la
+
+corda che di colpo si tende, e la [[Death|morte]] improvvisa, sconvolgente e simbolica: un
+
+uomo impiccato. Vi è, in questa e in simili scene, qualcosa della qualità
+
+di Hogarth e di molti altri moralisti inglesi del primo
+
+Settecento. Non è facile definire a parole questa qualità hogarthiana,
+
+se non dicendo che è una sorta di realismo alfabetico, come il crudele
+
+candore dei bambini. Ma essa reca in sé questi due principi speciali
+
+che la separano da tutto ciò che nel nostro [[Time|tempo]] chiamiamo realismo. Primo: che
+
+per noi una storia morale è una storia di gente morale; per loro una
+
+storia morale significava più spesso una storia di gente immorale. Secondo: che
+
+per noi il realismo si accompagna sempre a una qualche sottile visione della morale;
+
+per loro il realismo si accompagnava sempre a una qualche semplice visione della morale.
+
+La fine di [[Bill Sikes]] esattamente nel modo in cui la legge lo avrebbe ucciso —
+
+questo è un episodio hogarthiano; prosegue quella tradizione di
+
+sconvolgente e scioccante ovvietà.
+
+Tutto questo elemento nel libro era cosa sincera nell'autore, ma non
+
+per questo veniva meno da suoli antichi, dal cimitero e dalla forca, e
+
+dal vicolo dove passeggiava il [[Ghost|fantasma]]. Dickens era sempre attratto da simili
+
+cose, e (come dice Forster con inimitabile semplicità) «se non fosse stato per il suo
+
+forte buonsenso, sarebbe potuto cadere nelle follie dello spiritismo». In
+
+verità, come la maggior parte degli uomini di forte buonsenso della sua tradizione,
+
+Dickens rimase con una mezza fede negli spiriti che divenne in pratica
+
+una fede negli spiriti malvagi. Il grande svantaggio di coloro che hanno troppo
+
+forte buonsenso per credere nel soprannaturalismo è che conservano per ultime
+
+le basse e piccole forme del [[Supernatural|soprannaturale]], come presagi, maledizioni,
+
+spettri e castighi, ma trovano un alto e felice soprannaturalismo
+
+del tutto incredibile. Così i Puritani negavano i sacramenti, ma continuavano a
+
+bruciare streghe. Questa [[Shadow|ombra]] grava, in una certa misura, sugli
+
+scrittori inglesi razionali come Dickens; il soprannaturalismo stava morendo, ma
+
+le sue radici più brutte morirono per ultime. Dickens avrebbe trovato più facile
+
+credere in un [[Ghost|fantasma]] che in una visione della Vergine con gli angeli. Là,
+
+nel bene o nel male, tuttavia, stava la radice dell'antica _diablerie_ in
+
+Dickens, ed è là in _Oliver Twist_. Ma questo era solo il primo
+
+dei nuovi elementi di Dickens, che dovette sorprendere quei dickensiani
+
+che avidamente comprarono il suo secondo libro. Il secondo dei nuovi
+
+elementi di Dickens è ugualmente indiscutibile e distinto. Si gonfiò poi fino a
+
+proporzioni enormi nell'opera di Dickens; ma è qui che ha davvero la sua origine.
+
+Di nuovo, come nel caso dell'elemento di _diablerie_, sarebbe
+
+possibile fare eccezioni tecniche in favore di _Pickwick_. Proprio come
+
+vi erano frammenti del tutto inappropriati dell'elemento macabro in
+
+_Pickwick_, così vi sono allusioni del tutto inappropriate a quest'altro
+
+tema in _Pickwick_. Ma nessuno, leggendo semplicemente _Pickwick_, ricorderebbe
+
+neppure questo tema; nessuno, leggendo semplicemente _Pickwick_, saprebbe che cosa
+
+sia questo tema: questo terzo grande soggetto di Dickens; questo secondo grande
+
+soggetto del Dickens di _Oliver Twist_.
+
+Questo soggetto è l'oppressione sociale. È certo giusto dire che nessuno
+
+avrebbe potuto arguire da _Pickwick_ come questa questione ribollisse nel
+
+[[Blood|sangue]] dell'autore di _Pickwick_. Vi sono, invero, passi,
+
+particolarmente in relazione col signor [[Pickwick]] nella [[Prison|prigione]] per debitori,
+
+che ci provano, ripensando a un'intera carriera pubblica, che Dickens
+
+era stato fin dal principio amaro e indagatore riguardo al problema della
+
+nostra civiltà. Nessuno avrebbe potuto immaginare a quel [[Time|tempo]] che questa
+
+amarezza scorresse in un [[River|fiume]] ininterrotto sotto tutte le ondate di quella superba
+
+allegria ed esuberanza. Con _Oliver Twist_ questo lato più severo di Dickens
+
+si rivelò d'un tratto. Poiché le primissime pagine di _Oliver Twist_ sono
+
+severe perfino quando sono comiche. Divertono, ma non possono essere godute,
+
+come possono esserlo i passi sulle follie del signor Snodgrass o sulle
+
+umiliazioni del signor Winkle. La differenza tra il vecchio, facile [[Humour|umorismo]]
+
+e questo nuovo, aspro [[Humour|umorismo]] è una differenza non di grado ma di specie.
+
+Dickens si fa beffe del signor Bumble perché vuole ucciderlo; si
+
+fece beffe del signor Winkle perché voleva che vivesse per sempre. Dickens
+
+ha impugnato la [[Sword|spada]]; contro che cosa sta dichiarando guerra?
+
+È proprio qui che entra la [[Greatness|grandezza]] di Dickens; è proprio qui
+
+che sta la differenza tra il pedante e il poeta. Dickens entra nella
+
+guerra sociale e politica, e il primo colpo che vibra non è solo
+
+significativo ma perfino sconcertante. Per vederlo appieno dobbiamo apprezzare la
+
+situazione nazionale. Era un'età di [[Reform|riforme]], e perfino di [[Reform|riforme]] radicali;
+
+il mondo era pieno di radicali e riformatori; ma troppi di loro
+
+presero la via di attaccare tutto e ogni cosa che si opponesse a
+
+qualche particolare teoria tra le molte teorie politiche che signoreggiarono
+
+la fine del Settecento. Alcuni avevano tanto perfezionato la
+
+perfetta teoria del repubblicanesimo da restare quasi svegli di [[Night|notte]]
+
+perché la [[Queen|Regina]] Vittoria aveva una [[Crown|corona]] sul capo. Altri erano tanto certi
+
+che l'umanità fosse stata finora semplicemente strangolata nei lacci dello
+
+Stato che vedevano [[Truth|verità]] solo nella distruzione dei dazi o dei
+
+regolamenti. La maggior parte di quella generazione riteneva che la chiarezza,
+
+l'economia e un duro buonsenso avrebbero presto distrutto gli errori che erano
+
+stati eretti dalle superstizioni e dai sentimentalismi del passato. In
+
+proseguimento di quest'idea molti dei nuovi uomini del nuovo secolo, del tutto
+
+fiduciosi di rinvigorire la nuova età, cercarono di distruggere il

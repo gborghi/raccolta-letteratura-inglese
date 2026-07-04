@@ -115,7 +115,7 @@ of passionate relief.
 
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/works/thursday-(chesterton)">The Man Who Was Thursday</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/thursday-(chesterton)">The Man Who Was Thursday</a> › <a href="/testi/chesterton/atomized/thursday/chapter_06">Chapter 06</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/thursday/chapter_06/part_02">‹ part 02</a><a class="ex-next" href="/testi/chesterton/atomized/thursday/chapter_07/part_01">part 01 ›</a></div>
 </nav>
 

@@ -130,7 +130,7 @@ Tell me your story."
 
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/works/wifrb11-(chesterton)">The Wisdom of Father Brown</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/wifrb11-(chesterton)">The Wisdom of Father Brown</a> › <a href="/testi/chesterton/atomized/wifrb11/story_01_the_absence_of_mr_glass">Story 01 The Absence of Mr Glass</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/wifrb11/story_12_the_fairy_tale_of_father_brown">‹ Story 12 The Fairy Tale of Father Brown</a><a class="ex-next" href="/testi/chesterton/atomized/wifrb11/story_01_the_absence_of_mr_glass/part_02">part 02 ›</a></div>
 </nav>
 

@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/as-i-was-saying-(chesterton)">As I Was Saying</a> › <a href="/testi/chesterton/atomized/as_i_was_saying/story_16_read_a_chance_phrase_in_a_daily_paper_th">Story 16 READ a chance phrase in a daily paper th</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/as_i_was_saying/story_16_read_a_chance_phrase_in_a_daily_paper_th/part_08">‹ part 08</a><span></span></div>
@@ -61,3 +63,60 @@ but Virtue and the Worship of God.
 ~||~
 
 _XXXVI About Royal Weddings_
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/as-i-was-saying-(chesterton)">As I Was Saying</a> › <a href="/testi/chesterton/atomized/as_i_was_saying/story_16_read_a_chance_phrase_in_a_daily_paper_th">Story 16 READ a chance phrase in a daily paper th</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/as_i_was_saying/story_16_read_a_chance_phrase_in_a_daily_paper_th/part_08">‹ part 08</a><span></span></div>
+</nav>
+
+È uno scherzo prediletto fra gli storici più solenni ricordare che Robespierre,
+al quale si attribuisce, a lode o a biasimo, la ghigliottinatura di migliaia di nemici
+della sua stessa teoria, cominciò in realtà la propria vita politica con un'argomentazione
+in favore dell'abolizione della pena capitale. Meno spesso si osserva,
+benché sia in verità uno scherzo migliore, che egli si valse dell'unico argomento davvero
+buono per l'abolizione della pena capitale. Disse:
+«Ogni [[Time|volta]] che uccidi un uomo per legge, diminuisci qualcosa
+della sacralità dell'Uomo.» Ma il sacrificio umano, quali che fossero le sue altre
+piccole debolezze, non diminuiva affatto la sacralità dell'Uomo.
+Dal punto di vista di quella particolare eresia pagana,
+anzi accresceva la sacralità dell'Uomo. Poiché era fondato
+sul principio opposto, che la cosa migliore debba essere sacrificata,
+ossia resa sacra. E benché questa particolare forma del sentimento
+sia barbara e ottenebrata, e nella pratica morale abominevole,
+il sentimento in sé è di quelli che dovrebbero essere compresi meglio
+di quanto non lo siano in ciò che comunemente si chiama un'età dei lumi.
+Purtroppo, gli illuminati sono anche ottenebrati. Non sembrano mai
+gettare alcuna luce su queste parti tanto misteriose e interessanti
+della [[Nature|natura]] e della [[history|storia]] dell'Uomo; e poiché non riescono a comprendere
+l'idea nelle sue manifestazioni più alte e più pure, è naturale che
+ne rimangano semplicemente sconcertati nelle sue più basse e più brutali.
+Ma una parte enorme della [[history|storia]] umana resterà per sempre
+inintelligibile a coloro che non sanno nemmeno concepire quest'idea:
+l'idea di rinunciare a una cosa non perché essa sia cattiva, ma perché
+è buona.
+
+Parlando sul serio, s'intende, la maggior parte dei sacrifici umani tende a essere disumana,
+perché tende a essere [[diabolist|diabolica]]. La linea non sempre viene tracciata
+subito, né tracciata con facilità, fra una divinità alquanto tenebrosa e spietata
+e un demonio vero e proprio. Ma una cosa almeno possiamo imparare
+dalla [[history|storia]] reale del mondo, ed è come evitare
+un abbaglio commesso da più della metà delle storie del mondo.
+Qualunque altra cosa sia vera, non è vero che i riti del [[Blood|sangue]] appartengano interamente
+a popoli preistorici o anche soltanto primitivi. Gli storici progressisti,
+di una scuola che ormai non progredisce più tanto visibilmente, fecero del loro meglio
+per suggerire e insinuare che una civiltà complessa sia una garanzia completa
+contro credenze innaturali o cerimonie crudeli. Non lo è affatto.
+Alcune fra le culture più civili e più altamente organizzate,
+come Cartagine al culmine della sua ricchezza, ebbero il sacrificio umano nella sua forma peggiore.
+La cultura, come la scienza, non è protezione contro i demoni.
+E il povero Robespierre era più vicino alla [[Truth|verità]] dei progressisti che vennero dopo
+quando disse che non v'era protezione per lo Stato
+se non la Virtù e il Culto di Dio.
+
+~||~
+
+_XXXVI Sui matrimoni reali_

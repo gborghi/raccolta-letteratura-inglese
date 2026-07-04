@@ -943,6 +943,10 @@ looking up steadily at [[Father Brown]] as the wolf looked at St Francis.
 <div class="excerpt-crumb">Chesterton · <a href="/works/incredulity-(chesterton)">Incredulity</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/incredulity/story_02_the_arrow_of_heaven">‹ Story 02 The Arrow of Heaven</a><a class="ex-next" href="/testi/chesterton/atomized/incredulity/story_04_the_miracle_of_moon_crescent">Story 04 The Miracle of Moon Crescent ›</a></div>
 </nav>
+<nav class="excerpt-children">
+<div class="excerpt-children-label">In questa sezione</div>
+<ul><li><a href="/testi/chesterton/atomized/incredulity/story_03_the_oracle_of_the_dog/part_01">Part 1</a></li><li><a href="/testi/chesterton/atomized/incredulity/story_03_the_oracle_of_the_dog/part_02">Part 2</a></li><li><a href="/testi/chesterton/atomized/incredulity/story_03_the_oracle_of_the_dog/part_03">Part 3</a></li><li><a href="/testi/chesterton/atomized/incredulity/story_03_the_oracle_of_the_dog/part_04">Part 4</a></li><li><a href="/testi/chesterton/atomized/incredulity/story_03_the_oracle_of_the_dog/part_05">Part 5</a></li><li><a href="/testi/chesterton/atomized/incredulity/story_03_the_oracle_of_the_dog/part_06">Part 6</a></li><li><a href="/testi/chesterton/atomized/incredulity/story_03_the_oracle_of_the_dog/part_07">Part 7</a></li><li><a href="/testi/chesterton/atomized/incredulity/story_03_the_oracle_of_the_dog/part_08">Part 8</a></li></ul>
+</nav>
 
 TRE:  L'oracolo del cane
 

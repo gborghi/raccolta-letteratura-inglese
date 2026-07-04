@@ -136,7 +136,7 @@ End of the Project Gutenberg Etext of Orthodoxy by G. K. Chesterton
 
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/works/ortho14-(chesterton)">Orthodoxy</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/ortho14-(chesterton)">Orthodoxy</a> › <a href="/testi/chesterton/atomized/ortho14/story_08_ix_authority_and_the_adventurer">Story 08 Ix Authority And The Adventurer</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/ortho14/story_08_ix_authority_and_the_adventurer/part_06">‹ part 06</a><span></span></div>
 </nav>
 

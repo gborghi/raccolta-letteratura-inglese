@@ -123,7 +123,7 @@ I have called it here the war of the gods and demons.
 
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/works/everlasting-man-(chesterton)">The Everlasting Man</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/everlasting-man-(chesterton)">The Everlasting Man</a> › <a href="/testi/chesterton/atomized/everlasting_man/chapter_02">Chapter 02</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/everlasting_man/chapter_02/part_40">‹ part 40</a><a class="ex-next" href="/testi/chesterton/atomized/everlasting_man/chapter_02/part_42">part 42 ›</a></div>
 </nav>
 

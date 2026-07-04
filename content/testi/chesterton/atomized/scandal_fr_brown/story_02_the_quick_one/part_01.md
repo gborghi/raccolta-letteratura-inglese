@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/scandal-fr-brown-(chesterton)">scandal Fr Brown</a> › <a href="/testi/chesterton/atomized/scandal_fr_brown/story_02_the_quick_one">Story 02 The Quick One</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/scandal_fr_brown/story_01_the_scandal_of_father_brown/part_06">‹ part 06</a><a class="ex-next" href="/testi/chesterton/atomized/scandal_fr_brown/story_02_the_quick_one/part_02">part 02 ›</a></div>
@@ -117,3 +119,117 @@ cellar, or carry about a President in a steel box. Anybody can murder
 him who does not mind being a murderer. That is where the madman is like
 the martyr - sort of beyond this world. A real fanatic can always kill
 anybody he likes.'
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/scandal-fr-brown-(chesterton)">scandal Fr Brown</a> › <a href="/testi/chesterton/atomized/scandal_fr_brown/story_02_the_quick_one">Story 02 The Quick One</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/scandal_fr_brown/story_01_the_scandal_of_father_brown/part_06">‹ part 06</a><a class="ex-next" href="/testi/chesterton/atomized/scandal_fr_brown/story_02_the_quick_one/part_02">part 02 ›</a></div>
+</nav>
+
+DUE: Lo Svelto
+
+La strana storia degli sconosciuti male assortiti si ricorda ancora lungo
+quel tratto di costa del Sussex, dove il grande e tranquillo albergo detto
+il Maypole and Garland guarda, oltre i propri giardini, verso il mare. Due
+figure stranamente assortite entrarono davvero in quel tranquillo albergo
+in quel pomeriggio assolato; l'una cospicua nel sole, e visibile lungo
+tutta la spiaggia, per il fatto di portare un lucente turbante verde,
+che incorniciava un volto bruno e una barba nera; l'altra sarebbe parsa
+a taluni ancora più stramba e sinistra, per via del molle cappello nero
+da ecclesiastico, dei baffi biondi e dei capelli biondi lunghi come una
+criniera leonina. Costui almeno era stato spesso visto predicare sulla
+sabbia o dirigere le funzioni della Band of [[Hope]] con una piccola vanga
+di legno; solo che di sicuro non lo si era mai visto entrare nel bar di un
+albergo. L'arrivo di questi curiosi compari fu il culmine della storia, ma
+non il suo principio; e, per rendere quanto più chiara possibile una storia
+alquanto misteriosa, è meglio cominciare dal principio.
+
+Mezz'ora prima che quelle due figure cospicue entrassero nell'albergo, e
+venissero notate da tutti, altre due figure assai poco cospicue vi erano
+pure entrate, e non erano state notate da nessuno. Uno era un uomo grosso,
+e bello di una bellezza pesante, ma aveva la dote di occupare pochissimo
+spazio, come uno sfondo; soltanto un esame quasi morbosamente sospettoso
+dei suoi stivali avrebbe rivelato a chiunque che era un Ispettore di Polizia
+in borghese; in borghese dimessissima. L'altro era un ometto scialbo e
+insignificante, anch'egli in abiti dimessi, se non che i suoi abiti erano
+di taglio clericale; ma nessuno lo aveva mai visto predicare sulla sabbia.
+
+Anche questi viaggiatori si ritrovarono in una sorta di ampia sala per
+fumatori con annesso il bar, per una ragione che determinò tutti gli
+avvenimenti di quel tragico pomeriggio. La [[Truth|verità]] è che il rispettabile
+albergo detto il Maypole and Garland era in fase di «rimessa a nuovo».
+Quanti in passato lo avevano amato erano indotti a dire che lo stavano
+rimettendo a terra; o forse rimettendo del tutto. Tale era l'opinione del
+brontolone locale, il signor Raggley, l'eccentrico vecchio signore che
+sedeva in un angolo bevendo cherry brandy e imprecando. Comunque sia, lo si
+stava accuratamente spogliando di ogni traccia sparsa che indicasse che era
+stato un tempo una locanda inglese; e lo si andava alacremente trasformando,
+metro per metro e stanza per stanza, in qualcosa che somigliava al finto
+palazzo di un usuraio levantino in un film americano. Insomma, lo si stava
+«decorando»; ma l'unica parte in cui la decorazione fosse compiuta, e in
+cui i clienti potessero ancora essere sistemati con qualche agio, era questa
+grande sala che si apriva sull'atrio. Un tempo era stata onorevolmente nota
+come Sala del Bar ed era ora misteriosamente nota come Saloon Lounge, ed era
+stata da poco «decorata» alla maniera di un divano asiatico. Ché l'ornamento
+orientale pervadeva il nuovo assetto; e dove un tempo pendeva a due ganci
+un fucile, e stampe di caccia e un pesce impagliato in una teca di vetro,
+c'erano adesso festoni di drappeggi orientali e trofei di scimitarre,
+tulwar e yatagan, quasi in inconsapevole preparazione all'arrivo del
+signore col turbante. Il punto pratico, tuttavia, era che i pochi ospiti
+effettivamente giunti dovevano essere sospinti in questa sala, ora spazzata
+e adorna, perché tutte le parti più regolari e raffinate dell'albergo erano
+ancora in stato di transizione. Forse era anche questa la ragione per cui
+persino quei pochi ospiti venivano un po' trascurati, essendo il direttore
+e gli altri occupati altrove in spiegazioni o esortazioni. Comunque sia, i
+primi due viaggiatori giunti dovettero battere i tacchi per un certo
+[[Time|tempo]] senza essere serviti. Il bar era in quel momento del tutto vuoto,
+e l'Ispettore suonò e batté con impazienza sul bancone; ma il piccolo prete
+si era già lasciato cadere in una poltrona e non pareva aver fretta di
+nulla. Anzi, il suo amico poliziotto, girando il capo, vide che il volto
+tondo del piccolo ecclesiastico era diventato completamente vacuo, come gli
+capitava talvolta; pareva fissare, attraverso i suoi occhiali lunari, la
+parete appena decorata.
+
+«[[Well|Tanto vale]] che vi offra un soldo per i vostri pensieri», disse l'Ispettore
+Greenwood, voltandosi dal bancone con un sospiro, «visto che nessuno pare
+volere i miei soldi per nient'altro. Questa sembra l'unica stanza della
+[[house|casa]] che non sia piena di scale e di calce; ed è tanto vuota che non c'è
+nemmeno un garzone che mi porti un boccale di birra.»
+
+«Oh... i miei pensieri non valgono un soldo, [[Alone|tanto meno]] un boccale di
+birra», rispose l'ecclesiastico, forbendosi gli occhiali. «Non so perché...
+ma stavo pensando a quanto sarebbe facile commettere un omicidio qui.»
+
+«Voi potete [[Well|ben]] dirlo, [[Father Brown]]», disse l'Ispettore con bonaria
+allegria. «Avete avuto molti più omicidi della vostra giusta parte; e noi
+poveri poliziotti passiamo la vita affamati, anche solo di un omicidio da
+poco. Ma perché mai dovreste dire... Oh, capisco, state guardando tutti
+quei pugnali turchi appesi al muro. Ci sono cose in abbondanza per
+commettere un omicidio, se è questo che intendete. Ma non più che in una
+qualunque cucina: coltelli da trinciare o attizzatoi o che so io. Non è lì
+che sta l'intoppo di un omicidio.»
+
+[[Father Brown]] parve richiamare i suoi pensieri vaganti con un certo
+smarrimento; e disse che supponeva di sì.
+
+«L'omicidio è sempre facile», disse l'Ispettore Greenwood. «Non può esserci
+al mondo nulla di più facile dell'omicidio. Potrei ammazzarvi in questo
+istante, più facilmente di quanto riesca a farmi servire da bere in questo
+maledetto bar. L'unica difficoltà è commettere un omicidio senza
+compromettersi come assassino. È questa ritrosia nel confessare un
+omicidio; è questa sciocca modestia degli assassini riguardo ai propri
+capolavori a creare il guaio. Si intestardiscono su questa straordinaria
+idea fissa di uccidere la gente senza essere scoperti; ed è questo che li
+trattiene, persino in una stanza piena di pugnali. Altrimenti ogni bottega
+di coltellinaio sarebbe piena di cadaveri. E questo, per inciso, spiega
+l'unica specie di omicidio che davvero non si può impedire. Ed è per questo,
+naturalmente, che noi poveri sbirri veniamo sempre incolpati di non averlo
+impedito. Quando un pazzo assassina un [[King|re]] o un Presidente, non lo si
+può impedire. Non si può far vivere un [[King|re]] in una cantina del carbone, né
+portarsi in giro un Presidente in una cassa d'acciaio. Chiunque non abbia
+riguardo a diventare assassino può ucciderlo. È in questo che il pazzo è
+simile al martire: come al di là di questo mondo. Un vero fanatico può
+sempre uccidere chi gli pare.»

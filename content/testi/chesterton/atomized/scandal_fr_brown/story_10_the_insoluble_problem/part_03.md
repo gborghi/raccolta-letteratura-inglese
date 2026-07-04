@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/scandal-fr-brown-(chesterton)">scandal Fr Brown</a> › <a href="/testi/chesterton/atomized/scandal_fr_brown/story_10_the_insoluble_problem">Story 10 The Insoluble Problem</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/scandal_fr_brown/story_10_the_insoluble_problem/part_02">‹ part 02</a><a class="ex-next" href="/testi/chesterton/atomized/scandal_fr_brown/story_10_the_insoluble_problem/part_04">part 04 ›</a></div>
@@ -122,3 +124,50 @@ it's tied so clumsily that a twist of rope holds it away from the neck,
 so that it couldn't throttle a man at all. He was dead before they put
 the rope on him; and he was dead before they put the [[Sword|sword]] in him. And
 how was he really killed?'
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/scandal-fr-brown-(chesterton)">scandal Fr Brown</a> › <a href="/testi/chesterton/atomized/scandal_fr_brown/story_10_the_insoluble_problem">Story 10 The Insoluble Problem</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/scandal_fr_brown/story_10_the_insoluble_problem/part_02">‹ part 02</a><a class="ex-next" href="/testi/chesterton/atomized/scandal_fr_brown/story_10_the_insoluble_problem/part_04">part 04 ›</a></div>
+</nav>
+
+«Si chiama Dunn,» disse il dottore, con una certa riservatezza di maniera. «Mia cognata gli affidò l'incarico di curare il [[Garden|giardino]], perché aveva perso un occhio in Guerra.»
+
+Mentre attraversavano i cespugli di gelso, il paesaggio del [[Garden|giardino]] presentava quell'effetto ricco eppur sinistro che si trova quando la terra è in realtà più luminosa del cielo. Nella luce spezzata del sole alle loro spalle, le cime degli alberi davanti a loro si ergevano come pallide fiamme verdi contro un cielo che andava sempre più annerendosi per la [[Storm|tempesta]], attraverso ogni sfumatura di porpora e di violetto. La stessa luce colpiva strisce del prato e delle aiuole del [[Garden|giardino]]; e qualunque cosa illuminasse pareva più misteriosamente fosca e segreta a causa della luce. L'aiuola del [[Garden|giardino]] era punteggiata di tulipani che parevano gocce di cupo [[Blood|sangue]], e di alcuni dei quali si sarebbe potuto giurare che fossero davvero neri; e la fila terminava opportunamente con un albero da tulipani; che [[Father Brown]] era incline, in parte forse per qualche confuso [[Memory|ricordo]], a identificare con quello che comunemente si chiama l'albero di Giuda. Ad assecondare l'associazione contribuiva il fatto che da uno dei rami pendeva, come un frutto secco, il [[Body|corpo]] secco e magro di un vecchio, con una lunga barba che dondolava grottescamente nel [[Wind|vento]].
+
+Su di esso giaceva qualcosa di più dell'orrore delle tenebre, l'orrore della luce del sole; poiché il sole intermittente dipingeva l'albero e l'uomo in colori vivaci come una scenografia; l'albero era in fiore e il cadavere era abbigliato di una sbiadita veste da camera verde pavone, e portava sul capo dondolante un berretto scarlatto da fumatore. Aveva anche pantofole rosse da camera, una delle quali era caduta e giaceva sull'erba come una macchia di [[Blood|sangue]].
+
+Ma né [[Flambeau]] né [[Father Brown]] stavano ancora guardando queste cose. Entrambi fissavano uno strano oggetto che pareva sporgere dal mezzo della figura raggrinzita del morto; e che a poco a poco s'avvidero essere l'impugnatura di ferro nera ma piuttosto arrugginita di una [[Sword|spada]] del diciassettesimo secolo, che aveva trafitto completamente il [[Body|corpo]]. Entrambi rimasero quasi immobili mentre la contemplavano; finché l'irrequieto dottor Flood parve spazientirsi assai della loro impassibilità.
+
+«Ciò che più mi lascia perplesso,» disse, facendo schioccare nervosamente le dita, «è lo stato effettivo del [[Body|corpo]]. Eppure mi ha già dato un'idea.»
+
+[[Flambeau]] si era avvicinato all'albero e stava studiando l'impugnatura della [[Sword|spada]] attraverso un monocolo. Ma per qualche strana ragione, fu proprio in quell'istante che il prete, per pura ribellione, roteò su se stesso come una trottola, voltò le spalle al cadavere e guardò scrutando nella direzione esattamente opposta. Fu appena in [[Time|tempo]] per scorgere la testa rossa della signora Flood all'estremità remota del [[Garden|giardino]], rivolta verso un giovane bruno, troppo indistinto per la distanza da poter essere riconosciuto, che in quel momento montava su una motocicletta; il quale svanì, lasciandosi dietro soltanto il fragore morente di quel veicolo. Poi la donna si voltò e cominciò a camminare verso di loro attraverso il [[Garden|giardino]], proprio mentre anche [[Father Brown]] si voltava e cominciava una attenta ispezione dell'impugnatura della [[Sword|spada]] e del cadavere appeso.
+
+«Ho capito che l'avete trovato soltanto una mezz'ora fa,» disse [[Flambeau]]. «C'era qualcuno qui intorno poco prima? Voglio dire qualcuno nella sua camera da letto, o in quella parte della [[house|casa]], o in questa parte del [[Garden|giardino]]... diciamo per un'ora prima?»
+
+«No,» disse il dottore con precisione. «Questo è proprio il tragico accidente. Mia cognata era nella dispensa, che è una specie di [[house|casotto]] annesso sull'altro lato; costui, il Dunn, era nell'orto del [[Garden|giardino]], che è anch'esso in quella direzione; e io stesso frugavo tra i libri, in una stanza proprio dietro quella in cui mi avete trovato. Ci sono due domestiche, ma una era andata alla posta e l'altra era in soffitta.»
+
+«E qualcuna di queste persone,» chiese [[Flambeau]], molto sommessamente, «dico una qualsiasi di queste persone, era in cattivi rapporti col povero vecchio signore?»
+
+«Egli era oggetto di un affetto pressoché universale,» rispose il dottore solennemente. «Se c'erano incomprensioni, erano miti e di un genere comune ai tempi moderni. Il vecchio era attaccato alle antiche abitudini religiose; e forse sua figlia e suo genero avevano vedute alquanto più larghe. Tutto ciò non può aver avuto nulla a che fare con un assassinio orribile e fantastico come questo.»
+
+«Dipende da quanto larghe fossero le vedute moderne,» disse [[Father Brown]], «o da quanto strette.»
+
+In quel momento udirono la signora Flood chiamare a gran voce attraverso il [[Garden|giardino]] mentre veniva, invitando a sé il cognato con una certa impazienza. Egli si affrettò verso di lei e fu presto fuori portata d'orecchio; ma mentre andava agitò la mano in segno di scusa e poi indicò col lungo dito il terreno.
+
+«Troverete le impronte assai intriganti,» disse; con la stessa strana aria, come di un imbonitore funebre.
+
+I due investigatori dilettanti si guardarono l'un l'altro. «Trovo intriganti parecchie altre cose,» disse [[Flambeau]].
+
+«Oh, sì,» disse il prete, fissando l'erba con aria piuttosto sciocca.
+
+«Mi domandavo,» disse [[Flambeau]], «perché mai si dovrebbe impiccare un uomo per il collo fino a farlo morire, e poi darsi la pena di trafiggerlo con una [[Sword|spada]].»
+
+«E io mi domandavo,» disse [[Father Brown]], «perché mai si dovrebbe uccidere un uomo con una [[Sword|spada]] conficcata nel cuore, e poi darsi la pena di impiccarlo per il collo.»
+
+«Oh, tu ti stai semplicemente mettendo di traverso,» protestò l'amico. «Vedo a colpo d'occhio che non l'hanno pugnalato da vivo. Il [[Body|corpo]] avrebbe sanguinato di più e la ferita non si sarebbe chiusa in quel modo.»
+
+«E io potrei vedere a colpo d'occhio,» disse [[Father Brown]], scrutando all'insù molto goffamente, con la sua bassa statura e la sua corta vista, «che non l'hanno impiccato da vivo. Se guardi il nodo del cappio, vedrai che è annodato così maldestramente che un giro di corda lo tiene discosto dal collo, sicché non potrebbe strozzare un uomo per nulla. Era morto prima che gli mettessero la corda addosso; ed era morto prima che gli mettessero la [[Sword|spada]] dentro. E come fu realmente ucciso?»

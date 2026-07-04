@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/as-i-was-saying-(chesterton)">As I Was Saying</a> › <a href="/testi/chesterton/atomized/as_i_was_saying/story_15_confess_that_to_me_the_celebration_of_th">Story 15 CONFESS that to me the celebration of th</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/as_i_was_saying/story_15_confess_that_to_me_the_celebration_of_th/part_10">‹ part 10</a><a class="ex-next" href="/testi/chesterton/atomized/as_i_was_saying/story_16_read_a_chance_phrase_in_a_daily_paper_th/part_01">part 01 ›</a></div>
@@ -87,3 +89,22 @@ may or may not appear as an untried Utopia.
 ~||~
 
 _XXX About the Telephone_
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/as-i-was-saying-(chesterton)">As I Was Saying</a> › <a href="/testi/chesterton/atomized/as_i_was_saying/story_15_confess_that_to_me_the_celebration_of_th">Story 15 CONFESS that to me the celebration of th</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/as_i_was_saying/story_15_confess_that_to_me_the_celebration_of_th/part_10">‹ part 10</a><a class="ex-next" href="/testi/chesterton/atomized/as_i_was_saying/story_16_read_a_chance_phrase_in_a_daily_paper_th/part_01">part 01 ›</a></div>
+</nav>
+
+Si confronti ora quel genere di rudimentali nozioni possedute da un solo ignorante Inglese intorno a un ramo della fisica con la completa ignoranza di quasi tutti gli Inglesi intorno a un punto analogo di [[history|storia]]. Milioni di uomini che di elettricità ne sanno assai più di me (e nessuno potrebbe saperne di meno) sono in questo momento persuasi che l'internazionalismo sia un ideale nuovo; e che questa specie di etica sia recente quanto l'elettricità — o, piuttosto, recente quanto gli elettricisti. Attaccate discorso con quasi chiunque in un treno o in un tram, e scoprirete che costui crede che tutti quanti siamo emersi da tribù selvagge e separate, e che l'idea di [[Friendship|amicizia]] con gli stranieri faccia parte di un moderno ideale di fraternità. Forse egli supporrà vagamente che i Comunisti siano stati i primi Cosmopoliti; che nulla possa collegare le nazioni se non la Terza o la Quarta o la Quinta o la Sesta internazionale, e l'alleanza dei Proletari Di Tutti i Paesi. Ma questa è soltanto una possibilità; giacché i Comunisti sono tuttora una piccola minoranza. Eppure, anche se egli è un cittadino del tutto mite e moderato, dei partiti più antichi, scoprirete che crede che il bigottismo nazionale sia ormai soltanto una cosa del passato; o forse che la fratellanza internazionale possa essere soltanto una cosa dell'avvenire. Dirà che ciò è dovuto al crescere delle idee liberali, che hanno allargato le anguste simpatie della nazione e della tribù. Arriverà persino a sostenere che sia stato Mr. Wells a inventare lo Stato Mondiale; anche se non ha esattamente fondato lo Stato Mondiale. Ma, comunque sia, crederà quasi certamente, in un modo o nell'altro, che risalire nel passato significhi risalire verso zone di patriottismo sempre più faziose e frammentarie; che il mondo abbia cominciato con l'essere sciovinista e sia venuto a poco a poco facendosi più incline alla giustizia verso lo straniero.
+
+Ora, questo è un errore lampante circa il profilo della [[history|storia]]; proprio come sarebbe un errore dire che un qualsiasi uomo preistorico fosse un elettricista solo perché fu colpito da un fulmine. È completamente e colossalmente il contrario del fatto. L'Europa è oggi assai nazionalista, e taluni potranno dire assai gretta. Ma certamente essa fu un tempo assai meno nazionalista e assai meno gretta. Personalmente, il nazionalismo mi piace piuttosto; e so bene che vi sono cose ben peggiori della grettezza. Ma sto parlando di un fatto storico, di un fatto storico semplice e primario; un fatto che sta nella [[history|storia]] esattamente come l'addizione e la sottrazione stanno nell'aritmetica. Chi non lo conosce non conosce l'alfabeto della nostra [[history|storia]] umana. Il fatto è, naturalmente, che una ristretta nazionalità è cresciuta costantemente e vigorosamente negli ultimi seicento anni; e le nazioni europee sono oggi assai più divise di quanto lo fossero al [[Time|tempo]] del Sacro Romano Impero, per non dire del pagano Impero Romano. I Francesi e gli Inglesi che si combatterono a Crécy si somigliavano tra loro più dei Francesi e degli Inglesi che si sostennero a vicenda a Mons. Le nostre nazionalità, buone o cattive che siano (e per me sono abbastanza buone), sono in realtà emerse storicamente a un'esistenza separata da una comune civiltà cosmopolita, che risaliva ai giorni dei Cesari ed era ancora riconosciuta ai giorni dei Papi medievali. Ora, io non sto qui discutendo quale importanza si debba attribuire a questo fatto storico; e tanto meno quali deduzioni se ne debbano trarre. Dico soltanto che il fatto non è comunemente riconosciuto come fatto al pari del fatto dell'elettricità. Dico soltanto che sarei universalmente considerato un idiota se fossi altrettanto ignorante di elettricità quanto la maggior parte dei miei connazionali lo è di [[history|storia]].
+
+Ritengo assai importante insistere sul punto; poiché in questo momento è un punto pericoloso. Tutti vanno domandandosi in maniera smarrita se le grandi nazioni possano comprendersi tra loro; e quasi tutti sostengono che dev'essere una specie di comprensione interamente nuova. Ora, non è certo privo d'importanza far notare che tutte queste grandi nazioni fecero parte di una sola civiltà comune e completamente unita per circa milleseicento anni. Non desidero che esse svaniscano di nuovo nell'[[unity|unità]] pagana del primo secolo o nell'[[unity|unità]] feudale del quattordicesimo. Ma se qualcuno dice che esse non possono trovare un'[[unity|unità]], non è fuori luogo ricordare che essa la trovarono, e per assai più di mille anni. È più promettente dire che la fratellanza internazionale fu l'intero sfondo storico da cui provenimmo, piuttosto che dire che essa possa o non possa apparire come un'Utopia mai sperimentata.
+
+~||~
+
+_XXX A proposito del Telefono_

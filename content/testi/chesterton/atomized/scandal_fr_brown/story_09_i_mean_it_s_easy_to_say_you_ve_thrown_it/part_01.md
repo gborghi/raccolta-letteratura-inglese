@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/scandal-fr-brown-(chesterton)">scandal Fr Brown</a> › <a href="/testi/chesterton/atomized/scandal_fr_brown/story_09_i_mean_it_s_easy_to_say_you_ve_thrown_it">Story 09 I mean it s easy to say you ve thrown it</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/scandal_fr_brown/story_08_the_point_of_a_pin/part_05">‹ part 05</a><a class="ex-next" href="/testi/chesterton/atomized/scandal_fr_brown/story_09_i_mean_it_s_easy_to_say_you_ve_thrown_it/part_02">part 02 ›</a></div>
@@ -119,3 +121,121 @@ it should have been his whole object to keep our thoughts away from it.
 If it was an after - thought, it was the after - thought of a very
 thoughtless person. And I have a notion that this assassin is a very
 thoughtful person. Can you make anything of it?'
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/scandal-fr-brown-(chesterton)">scandal Fr Brown</a> › <a href="/testi/chesterton/atomized/scandal_fr_brown/story_09_i_mean_it_s_easy_to_say_you_ve_thrown_it">Story 09 I mean it s easy to say you ve thrown it</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/scandal_fr_brown/story_08_the_point_of_a_pin/part_05">‹ part 05</a><a class="ex-next" href="/testi/chesterton/atomized/scandal_fr_brown/story_09_i_mean_it_s_easy_to_say_you_ve_thrown_it/part_02">part 02 ›</a></div>
+</nav>
+
+uno. Voglio dire, è facile affermare che l'abbiate gettato in acqua, perché
+potrebbe essere trascinato via verso il mare. Ma se davvero lo si gettasse in
+acqua, ci sarebbero cento probabilità contro una che non accadrebbe affatto; le
+possibilità che finisca a riva da qualche parte sono enormi. Credo che debbano
+aver escogitato un piano migliore per nascondere il [[Body|cadavere]] di questo –
+altrimenti il [[Body|cadavere]] sarebbe già stato ritrovato. E se ci fossero
+stati segni di violenza…»
+
+«Oh, al diavolo il nascondere il [[Body|cadavere]]», disse Henry con una certa
+irritazione; «non abbiamo forse testimoni a sufficienza in quella scritta sul
+loro stesso, diabolico albero?»
+
+«Il [[Body|cadavere]] è il testimone principale in ogni omicidio», rispose
+l'altro. «Il nascondere il [[Body|cadavere]], nove volte su dieci, è il problema
+pratico da risolvere.»
+
+Ci fu un [[Silence|silenzio]]; e [[Father Brown|Padre Brown]] continuò a
+rivoltare la vestaglia rossa e a distenderla sull'erba lucente della riva
+soleggiata; non alzò lo sguardo. Ma già da un certo [[Time|tempo]] era
+consapevole che l'intero paesaggio si era mutato, per lui, per la presenza di un
+terzo; immobile come una statua nel [[Garden|giardino]].
+
+«A proposito», disse abbassando la voce, «come spiega quel tizietto con l'occhio
+di vetro, che ieri ha portato al suo povero zio una lettera? Mi è parso che ne
+fosse rimasto del tutto trasformato dopo averla letta; ecco perché non mi
+sorprese il [[suicide|suicidio]], quando lo credevo un [[suicide|suicidio]].
+Quel tipo era un [[Detective|investigatore]] privato piuttosto di infima specie,
+o mi sbaglio di grosso.»
+
+«Be'», disse Henry in tono esitante, «be', potrebbe esserlo stato… i mariti
+talvolta ingaggiano investigatori nelle tragedie domestiche di questo genere,
+non è vero? Immagino avesse ottenuto le prove del loro intrigo; e così essi…»
+
+«Non parlerei troppo forte», disse [[Father Brown|Padre Brown]], «perché il suo
+[[Detective|investigatore]] sta investigando su di noi in questo preciso
+istante, da circa un metro oltre quei cespugli.»
+
+Alzarono lo sguardo, e per l'appunto il folletto con l'occhio di vetro li stava
+fissando con quella sgradevole ottica, apparendo tanto più
+[[Grotesque|grottesco]] per il fatto di trovarsi tra i fiori bianchi e cerei del
+[[Garden|giardino]] classico.
+
+Henry Sand si rimise in piedi con una rapidità che pareva senza fiato per uno
+della sua mole, e chiese all'uomo, molto adirato e brusco, che cosa stesse
+facendo, ordinandogli al [[Time|tempo]] stesso di sgombrare all'istante.
+
+«Lord Stanes», disse il folletto del [[Garden|giardino]], «sarebbe assai
+obbligato se [[Father Brown|Padre Brown]] volesse salire alla [[house|casa]] a
+parlargli.»
+
+Henry Sand si voltò furibondo; ma il prete attribuì la sua furia
+all'avversione, notoriamente esistente, tra lui e il nobiluomo in questione.
+Mentre risalivano il pendio, [[Father Brown|Padre Brown]] si arrestò un momento
+come per seguire con il dito i disegni sul liscio tronco dell'albero, alzò una
+volta lo sguardo verso il geroglifico più cupo e più nascosto che si diceva
+fosse il resoconto di un [[Romance|amore]]; e poi fissò le lettere più ampie e
+più sghembe della confessione, o presunta confessione di [[suicide|suicidio]].
+
+«Quelle lettere le ricordano qualcosa?» domandò. E quando il suo imbronciato
+compagno scosse il capo, aggiunse: «A me ricordano la scritta di quel cartello
+che lo minacciava della vendetta degli scioperanti.»
+
+«Questo è l'[[Riddle|enigma]] più arduo e la storia più bizzarra che io abbia
+mai affrontato», disse [[Father Brown|Padre Brown]] un mese più tardi, seduto di
+fronte a Lord Stanes nell'appartamento arredato di recente del numero 188,
+l'ultimo appartamento in fondo, il solo a essere terminato prima
+dell'interregno della vertenza industriale e del trasferimento del lavoro dal
+[[Union|Sindacato]]. Era arredato con agio; e Lord Stanes presiedeva a grog e
+sigari, mentre il prete faceva la sua confessione con una smorfia. Lord Stanes
+si era fatto sorprendentemente cordiale, in un modo freddo e disinvolto.
+
+«So che è dire parecchio, con il suo curriculum», disse Stanes, «ma di certo gli
+investigatori, incluso il nostro seducente amico dall'occhio di vetro, non
+sembrano affatto in grado di vedere la soluzione.»
+
+[[Father Brown|Padre Brown]] posò il sigaro e disse con cura: «Non è che non
+riescano a vedere la soluzione. È che non riescono a vedere il problema.»
+
+«Davvero», disse l'altro, «forse nemmeno io riesco a vedere il problema.»
+
+«Il problema è diverso da tutti gli altri problemi, per questa ragione», disse
+Padre Brown. «Sembra che il criminale abbia deliberatamente
+compiuto due cose diverse, ciascuna delle quali avrebbe potuto riuscire; ma che,
+compiute insieme, potevano solo annullarsi a vicenda. Do per certo, come
+fermamente credo, che il medesimo assassino abbia affisso il proclama che
+minacciava una sorta di omicidio bolscevico, e abbia anche scritto sull'albero
+confessando un normale [[suicide|suicidio]]. Ora lei potrebbe dire che, dopo
+tutto, è possibile che il proclama fosse un proclama proletario; che certi
+operai estremisti volessero uccidere il loro datore di lavoro, e lo abbiano
+ucciso. Anche se ciò fosse vero, resterebbe pur sempre il mistero del perché
+essi lasciarono, o perché qualcuno lasciò, una traccia contraria di
+[[Self|auto]]distruzione privata. Ma di certo non è vero. Nessuno di questi
+operai, per quanto esasperato, avrebbe fatto una cosa simile. Li conosco assai
+[[Well|bene]]; conosco i loro capi molto [[Well|bene]]. Supporre che gente come
+Tom Bruce o Hogan assassinerebbe qualcuno che potrebbe attaccare sui giornali, e
+danneggiare in ogni sorta di modi diversi, è il genere di psicologia che le
+persone di buon senso chiamano follia. No; c'era qualcuno, che non era un operaio
+indignato, il quale prima recitò la parte di un operaio indignato, e poi recitò
+la parte di un datore di lavoro suicida. Ma, in nome della
+[[Wonder|meraviglia]], perché? Se pensava di poterlo far passare senza intoppi
+per un [[suicide|suicidio]], perché prima rovinò tutto pubblicando una minaccia
+di omicidio? Lei potrebbe dire che fu un ripensamento imbastire la storia del
+[[suicide|suicidio]], come meno provocatoria di quella dell'omicidio. Ma non era
+meno provocatoria dopo la storia dell'omicidio. Doveva sapere di aver già rivolto
+i nostri pensieri verso l'omicidio, quando invece il suo unico scopo avrebbe
+dovuto essere tenerne lontani i nostri pensieri. Se fu un ripensamento, fu il
+ripensamento di una persona assai sconsiderata. E ho la sensazione che questo
+assassino sia una persona assai riflessiva. Riesce a cavarne qualcosa?»

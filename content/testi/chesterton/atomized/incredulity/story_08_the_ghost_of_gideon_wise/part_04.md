@@ -158,7 +158,7 @@ and terrible as the fixed [[Lightning|lightning]].'
 
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/works/incredulity-(chesterton)">Incredulity</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/incredulity-(chesterton)">Incredulity</a> › <a href="/testi/chesterton/atomized/incredulity/story_08_the_ghost_of_gideon_wise">Story 08 The Ghost of Gideon Wise</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/incredulity/story_08_the_ghost_of_gideon_wise/part_03">‹ part 03</a><a class="ex-next" href="/testi/chesterton/atomized/incredulity/story_08_the_ghost_of_gideon_wise/part_05">part 05 ›</a></div>
 </nav>
 

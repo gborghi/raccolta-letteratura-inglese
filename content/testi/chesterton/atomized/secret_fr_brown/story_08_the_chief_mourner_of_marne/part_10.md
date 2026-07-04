@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/secret-fr-brown-(chesterton)">secret Fr Brown</a> › <a href="/testi/chesterton/atomized/secret_fr_brown/story_08_the_chief_mourner_of_marne">Story 08 THE CHIEF MOURNER OF MARNE</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/secret_fr_brown/story_08_the_chief_mourner_of_marne/part_09">‹ part 09</a><span></span></div>
@@ -89,3 +91,87 @@ conceive any man being such a Judas?"
 "I could try." said [[Father Brown]].
 
 THE END
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/secret-fr-brown-(chesterton)">secret Fr Brown</a> › <a href="/testi/chesterton/atomized/secret_fr_brown/story_08_the_chief_mourner_of_marne">Story 08 THE CHIEF MOURNER OF MARNE</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/secret_fr_brown/story_08_the_chief_mourner_of_marne/part_09">‹ part 09</a><span></span></div>
+</nav>
+
+Non risposero, ed egli proseguì con lo stesso tono grave, come se lasciasse
+cadere le parole al pari di piombo fuso.
+
+«Voi forse giudicate orribile un delitto perché non potreste mai commetterlo.
+Io lo giudico orribile perché potrei commetterlo. Voi lo immaginate come una
+sorta di eruzione del Vesuvio; ma questo non sarebbe davvero così terribile come
+questa [[house|casa]] che prende [[Fire|fuoco]]. Se un criminale comparisse
+d'improvviso in questa stanza...»
+
+«Se un criminale comparisse in questa stanza», disse Chace sorridendo, «credo
+che sareste anche troppo indulgente con lui. A quanto pare comincereste col
+dirgli che voi stesso siete un criminale, spiegandogli come fosse del tutto
+naturale che avesse frugato nelle tasche del padre o tagliato la gola alla
+madre. Francamente, non lo trovo pratico. Penso che l'effetto pratico sarebbe
+che nessun criminale si [[Reform|correggerebbe]] mai. È facile teorizzare e
+prendere casi ipotetici; ma tutti sappiamo che stiamo soltanto parlando in aria.
+Seduti qui, nella bella e comoda [[house|casa]] di monsieur Duroc, consapevoli
+della nostra rispettabilità e di tutto il resto, ci dà solo un brivido teatrale
+discorrere di ladri e assassini e dei misteri delle loro anime. Ma chi ha
+davvero a che fare con ladri e assassini deve trattarli in tutt'altro modo. Noi
+siamo al sicuro accanto al focolare; e sappiamo che la [[house|casa]] non è in
+[[Fire|fiamme]]. Sappiamo che non c'è alcun criminale nella stanza.»
+
+Il monsieur Duroc cui si era alluso si [[Rose|alzò]] lentamente da quello che era
+stato chiamato il suo focolare, e la sua enorme [[Shadow|ombra]], proiettata dal
+[[Fire|fuoco]], parve coprire ogni cosa e oscurare perfino la [[Night|notte]]
+stessa sopra di lui.
+
+«C'è un criminale in questa stanza», disse. «Sono io. Sono [[Flambeau]], e la
+polizia di due emisferi mi sta ancora dando la caccia.»
+
+L'americano continuò a fissarlo con occhi di una lucentezza di pietra; sembrava
+incapace di parlare o di muoversi.
+
+«Non c'è nulla di mistico, di metaforico o di vicario nella mia confessione»,
+disse [[Flambeau]]. «Ho rubato per vent'anni con queste due mani; sono fuggito
+dalla polizia su questi due piedi. [[Hope|Spero]] che ammetterete che le mie
+attività furono pratiche. [[Hope|Spero]] che ammetterete che i miei giudici e i
+miei persecutori avevano davvero a che fare con il crimine. Credete che io non
+sappia tutto del loro modo di biasimarlo? Non ho forse udito i sermoni dei
+giusti e visto lo sguardo gelido dei rispettabili; non sono forse stato
+rimproverato in quello stile alto e distante, non mi si è forse chiesto come
+fosse possibile cadere tanto in basso, non mi si è forse detto che nessuna
+persona per bene avrebbe mai potuto sognare una simile depravazione? Credete che
+tutto ciò abbia mai fatto altro che farmi ridere? Solo il mio amico mi disse che
+sapeva esattamente perché rubavo; e da allora non ho più rubato.»
+
+[[Father Brown|Padre Brown]] fece un gesto come di protesta; e Grandison Chace
+lasciò finalmente sfuggire un lungo respiro simile a un fischio.
+
+«Vi ho detto la pura [[Truth|verità]]», disse [[Flambeau]]; «e siete libero di
+consegnarmi alla polizia.»
+
+Ci fu un istante di profondo silenzio, in cui si udì fioca la risata attardata
+dei figli di [[Flambeau]] nell'alta e oscura [[house|casa]] sopra di loro, e il
+grufolare e sbuffare dei grandi maiali grigi nella penombra. E poi fu squarciato
+da una voce acuta, vibrante e con una punta di risentimento, quasi sorprendente
+per chi non comprende il sensibile spirito americano, e quanto esso possa a
+volte avvicinarsi, a dispetto di banali contrasti, alla cavalleria di Spagna.
+
+«Monsieur Duroc», disse con una certa rigidità. «Siamo stati amici, [[Hope|spero]],
+per un periodo assai considerevole; e mi addolorerebbe non poco supporre che mi
+crediate capace di giocarvi un simile tiro mentre godo della vostra ospitalità e
+della compagnia della vostra famiglia, solo perché avete scelto di raccontarmi
+di vostra spontanea volontà un poco della vostra autobiografia. E quando avete
+parlato unicamente in difesa del vostro amico... no, signore, non riesco a
+immaginare che un gentiluomo possa [[Double|tradire]] un altro in simili
+circostanze; sarebbe di gran lunga meglio essere un lurido delatore e vendere
+per denaro il [[Blood|sangue]] degli uomini. Ma in un caso come questo...! Come
+potreste concepire un uomo tanto simile a un Giuda?»
+
+«Potrei provarci», disse [[Father Brown|Padre Brown]].
+
+FINE

@@ -172,7 +172,7 @@ the halo of hatred around the Church of God.
 
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/works/everlasting-man-(chesterton)">The Everlasting Man</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/everlasting-man-(chesterton)">The Everlasting Man</a> › <a href="/testi/chesterton/atomized/everlasting_man/chapter_02">Chapter 02</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/everlasting_man/chapter_02/part_46">‹ part 46</a><a class="ex-next" href="/testi/chesterton/atomized/everlasting_man/chapter_03/part_01">part 01 ›</a></div>
 </nav>
 

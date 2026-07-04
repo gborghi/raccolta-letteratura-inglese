@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/scandal-fr-brown-(chesterton)">scandal Fr Brown</a> › <a href="/testi/chesterton/atomized/scandal_fr_brown/story_02_the_quick_one">Story 02 The Quick One</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/scandal_fr_brown/story_02_the_quick_one/part_05">‹ part 05</a><a class="ex-next" href="/testi/chesterton/atomized/scandal_fr_brown/story_02_the_quick_one/part_07">part 07 ›</a></div>
@@ -121,3 +123,119 @@ whisky.'
 
 'Which you think was mixed up with the murder,' said Greenwood, staring.
 'Look here, I don't know whether you're really serious or not.'
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/scandal-fr-brown-(chesterton)">scandal Fr Brown</a> › <a href="/testi/chesterton/atomized/scandal_fr_brown/story_02_the_quick_one">Story 02 The Quick One</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/scandal_fr_brown/story_02_the_quick_one/part_05">‹ part 05</a><a class="ex-next" href="/testi/chesterton/atomized/scandal_fr_brown/story_02_the_quick_one/part_07">part 07 ›</a></div>
+</nav>
+
+E così, per un certo tratto di quei giorni e di quelle notti singolari,
+potremmo quasi dire che la piccola figura di [[Father Brown]] spinse innanzi a
+sé all'azione tutti gli eserciti e i congegni delle forze di polizia della
+[[Crown|Corona]], come la piccola figura di Napoleone spingeva le batterie e le
+linee di battaglia della vasta strategia che copriva l'Europa. Stazioni di
+polizia e uffici postali lavorarono tutta la [[Night|notte]]; il traffico fu
+bloccato, la corrispondenza intercettata, indagini vennero fatte in cento
+luoghi, per seguire la traccia fuggitiva di quella figura spettrale, senza
+volto né nome, con un mantello all'Inverness e un biglietto per Edimburgo.
+
+Nel frattempo, naturalmente, le altre linee d'indagine non furono
+trascurate. Il rapporto completo dell'autopsia non era ancora giunto; ma
+tutti parevano certi che si trattasse di un caso di avvelenamento. Ciò
+gettava naturalmente il primo sospetto sul cherry brandy; e questo, di
+nuovo, gettava naturalmente il primo sospetto sull'albergo.
+
+«Molto probabilmente sul direttore dell'albergo», disse Greenwood in tono
+brusco. «Mi ha l'aria di un lombrico ripugnante. Certo potrebbe avere a che
+fare con qualche domestico, come il barista; ha l'aria di un esemplare
+piuttosto imbronciato, e Raggley può averlo maledetto un po', avendo un
+carattere infuocato, benché di solito fosse poi generoso abbastanza. Ma,
+dopo tutto, come dico, la responsabilità primaria, e quindi il sospetto
+primario, ricade sul direttore.»
+
+«Oh, lo sapevo che il sospetto primario sarebbe ricaduto sul direttore»,
+disse [[Father Brown]]. «Ecco perché non lo sospettavo. Vedete, mi
+figuravo piuttosto che qualcun altro dovesse sapere che il sospetto primario
+sarebbe ricaduto sul direttore; o sui domestici dell'albergo. Ecco perché
+ho detto che sarebbe stato facile uccidere chiunque nell'albergo... Ma è
+meglio che andiate a chiarire la faccenda con lui, immagino.»
+
+L'Ispettore andò; ma tornò dopo un colloquio sorprendentemente breve, e
+trovò il suo amico ecclesiastico intento a sfogliare alcune carte che
+parevano una sorta di dossier sulla tempestosa carriera di John Raggley.
+
+«È una faccenda ben strana», disse l'Ispettore. «Credevo che avrei passato
+ore a [[Cross|contro]]interrogare quel viscido rospetto, ché legalmente non abbiamo
+niente contro di lui. E invece è andato in pezzi tutto d'un tratto, e credo
+davvero che mi abbia detto tutto quel che sa per pura strizza.»
+
+«Lo so», disse [[Father Brown]]. «È così che è andato in pezzi quando ha
+trovato il cadavere di Raggley apparentemente avvelenato nel suo albergo.
+Ecco perché ha perso la testa al punto da fare una cosa tanto goffa come
+addobbare il cadavere con un coltello turco, per dar la colpa al negro, come
+direbbe lui. Non ha mai niente che non vada, tranne la strizza; è
+l'ultimissimo uomo che ficcherebbe mai davvero un coltello in una persona
+viva. Scommetto che ha dovuto farsi coraggio per ficcarlo in una morta. Ma
+è la primissima persona a spaventarsi di essere accusata di ciò che non ha
+fatto; e a rendersi [[Fool|ridicola]], come ha fatto.»
+
+«Immagino che dovrò vedere anche il barista», osservò Greenwood.
+
+«Immagino di sì», rispose l'altro. «Personalmente non credo che sia stato
+qualcuno della gente dell'albergo... [[Well|proprio]] perché è stato fatto in modo da
+sembrare che dovesse essere la gente dell'albergo... Ma guardate qui, avete
+visto qualcosa di tutto questo materiale che hanno messo insieme su Raggley?
+Ha avuto una vita davvero interessante; mi [[Wonder|domando]] se qualcuno scriverà la
+sua [[Biography|biografia]].»
+
+«Ho preso nota di tutto ciò che potesse riguardare un affare del genere»,
+rispose il funzionario. «Era vedovo; ma una volta ebbe davvero una lite con
+un uomo a proposito della moglie; un agente immobiliare scozzese allora da
+queste parti; e Raggley pare sia stato piuttosto violento. Dicono che
+odiasse gli scozzesi; forse è per questo... Oh, so di cosa sorridete
+sinistramente. Uno scozzese... Forse un uomo di Edimburgo.»
+
+«Forse», disse [[Father Brown]]. «È del tutto probabile, però, che gli
+scozzesi gli fossero antipatici, a prescindere da ragioni private. È una
+cosa strana, ma tutta quella genìa di radicali conservatori, o comunque li
+vogliate chiamare, che resistettero al movimento mercantile whig, tutti
+quanti trovavano antipatici gli scozzesi. Cobbett sì; il dottor Johnson sì;
+Swift ne descrisse l'accento in uno dei suoi passi più micidiali; persino
+Shakespeare è stato accusato di questo pregiudizio. Ma i pregiudizi dei
+grandi uomini hanno di solito qualcosa a che fare coi princìpi. E c'era una
+ragione, credo. Lo scozzese veniva da una povera terra agricola, che divenne
+una ricca terra industriale. Era abile e attivo; credeva di portare la
+civiltà industriale dal nord; semplicemente non sapeva che al sud c'era
+stata per secoli una civiltà rurale. La terra di suo nonno era assai rurale
+ma non civile... [[Well|Beh]], [[Well|beh]], immagino che non possiamo far altro che
+attendere altre notizie.»
+
+«Non credo proprio che caverete le ultime notizie da Shakespeare e dal
+dottor Johnson», ghignò l'ufficiale di polizia. «Ciò che Shakespeare
+pensava degli scozzesi non è esattamente una prova.»
+
+[[Father Brown]] inarcò un sopracciglio, come se un nuovo pensiero lo avesse
+sorpreso. «Ebbene, ora che ci penso», disse, «potrebbe esserci una prova
+migliore, persino da Shakespeare. Non menziona spesso gli scozzesi. Ma era
+piuttosto incline a burlarsi dei gallesi.»
+
+L'Ispettore scrutava il volto dell'amico; ché gli parve di riconoscervi una
+prontezza dietro l'espressione contegnosa. «Perbacco», disse. «A nessuno era
+venuto in mente di volgere i sospetti in quella direzione, in ogni caso.»
+
+«[[Well|Ebbene]]», disse [[Father Brown]], con serena larghezza di vedute, «avete
+cominciato voi a parlare di fanatici; e di come un fanatico possa fare
+qualsiasi cosa. [[Well|Ebbene]], immagino che abbiamo avuto l'[[Honour|onore]] di ospitare in
+questa sala del bar, ieri, il più grande e chiassoso e testardo fanatico del
+mondo moderno. Se essere un idiota cocciuto con un'idea sola è la strada per
+l'omicidio, avanzo pretesa per il mio reverendo fratello Pryce-[[Jones]], il
+proibizionista, di preferenza a tutti i fachiri d'Asia, ed è perfettamente
+vero, come vi ho detto, che il suo orribile bicchiere di latte stava fianco
+a fianco sul bancone col misterioso bicchiere di whisky.»
+
+«Che voi pensate fosse implicato nell'omicidio», disse Greenwood,
+fissandolo. «Sentite, non so se davvero facciate sul serio oppure no.»

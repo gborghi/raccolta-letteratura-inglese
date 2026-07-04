@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/scandal-fr-brown-(chesterton)">scandal Fr Brown</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/scandal_fr_brown/story_10_the_insoluble_problem">‹ Story 10 The Insoluble Problem</a><a class="ex-next" href="/testi/chesterton/atomized/scandal_fr_brown/story_01_the_scandal_of_father_brown/part_01">part 01 ›</a></div>
@@ -716,3 +718,238 @@ cushions. 'If it comes to a little cosy company on a railway [[Journey|journey]]
 should prefer the corpse.'
 
 THE END
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/scandal-fr-brown-(chesterton)">scandal Fr Brown</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/scandal_fr_brown/story_10_the_insoluble_problem">‹ Story 10 The Insoluble Problem</a><a class="ex-next" href="/testi/chesterton/atomized/scandal_fr_brown/story_01_the_scandal_of_father_brown/part_01">part 01 ›</a></div>
+</nav>
+<nav class="excerpt-children">
+<div class="excerpt-children-label">In questa sezione</div>
+<ul><li><a href="/testi/chesterton/atomized/scandal_fr_brown/story_11_the_vampire_of_the_village/part_01">Part 1</a></li><li><a href="/testi/chesterton/atomized/scandal_fr_brown/story_11_the_vampire_of_the_village/part_02">Part 2</a></li><li><a href="/testi/chesterton/atomized/scandal_fr_brown/story_11_the_vampire_of_the_village/part_03">Part 3</a></li><li><a href="/testi/chesterton/atomized/scandal_fr_brown/story_11_the_vampire_of_the_village/part_04">Part 4</a></li><li><a href="/testi/chesterton/atomized/scandal_fr_brown/story_11_the_vampire_of_the_village/part_05">Part 5</a></li><li><a href="/testi/chesterton/atomized/scandal_fr_brown/story_11_the_vampire_of_the_village/part_06">Part 6</a></li></ul>
+</nav>
+
+NONO: Il vampiro del villaggio
+
+Alla svolta di un sentiero fra le colline, dove due pioppi si ergevano come piramidi rimpicciolendo il minuscolo villaggio di Potter's Pond, un semplice grumo di case, camminava un tempo un uomo in un costume dal taglio e dal colore assai vistosi, che indossava una sgargiante marsina color magenta e un cappello bianco inclinato su neri riccioli ambrosiaci, i quali terminavano con una specie di svolazzo byroniano di basetta.
+
+L'[[Riddle|enigma]] del perché egli indossasse abiti di così stravagante antichità, eppure li portasse con un'aria di moda e persino di spavalderia, non era che uno dei molti enigmi che alla fine vennero risolti risolvendo il mistero del suo destino. Il punto qui è che, quando ebbe oltrepassato i pioppi, sembrò essersi dileguato; come se si fosse dissolto nella pallida e crescente [[Dawn|alba]] o fosse stato portato via dal [[Wind|vento]] del mattino.
+
+Fu solo circa una settimana dopo che il suo [[Body|corpo]] venne ritrovato a un quarto di miglio di distanza, spezzato sulle ripide rocciaglie di un [[Garden|giardino]] a terrazze che saliva verso una tetra [[house|casa]] dalle imposte serrate, chiamata The Grange. Poco prima di scomparire, era stato per caso udito mentre pareva litigare con alcuni astanti, e in particolare insultare il loro villaggio come «un misero [[Hamlet|borghetto]]»; e si suppose che avesse suscitato qualche estremo furore di patriottismo locale e ne fosse infine rimasto vittima. Perlomeno il medico del luogo testimoniò che il cranio aveva subìto un colpo tale da poter causare la [[Death|morte]], benché probabilmente inferto soltanto con una specie di clava o randello. Ciò si accordava abbastanza [[Well|bene]] con l'idea di un'aggressione da parte di zotici piuttosto feroci. Ma nessuno riuscì mai a trovare il modo di rintracciare uno zotico in particolare; e l'inchiesta emise un verdetto di omicidio a opera di ignoti.
+
+Un anno o due dopo la questione fu riaperta in modo curioso; una serie di eventi che condusse un certo dottor Mulborough, chiamato dagli intimi Mulberry, con appropriata allusione a qualcosa di ricco e succoso nella sua scura rotondità e nella faccia piuttosto imporporata, a viaggiare in treno fino a Potter's Pond, con un amico che aveva spesso consultato su problemi di quel genere. A dispetto dell'esteriore alquanto vinoso e ponderoso del dottore, egli aveva un occhio acuto ed era davvero uomo di notevolissimo buon senso; il che riteneva di dimostrare consultando un piccolo prete di nome Brown, la cui conoscenza aveva fatto molto tempo prima in occasione di un caso di avvelenamento. Il piccolo prete gli sedeva di fronte, con l'aria di un paziente lattante che assorbe insegnamenti; e il dottore andava spiegando per esteso le vere ragioni del [[Journey|viaggio]].
+
+«Non posso concordare con il gentiluomo dalla marsina magenta che Potter's Pond sia soltanto un misero [[Hamlet|borghetto]]. Ma è certamente un villaggio molto remoto e appartato; tanto da sembrare del tutto forestiero, come un villaggio di cent'anni fa. Le zitelle sono davvero zitelle — accidenti, si potrebbe quasi immaginare di vederle filare al fuso. Le signore non sono semplici signore. Sono gentildonne; e il loro chimico non è un chimico, ma uno speziale; pronunciato spziale. Ammettono, sì, l'esistenza di un dottore ordinario come me, ad assistere lo speziale. Ma io sono considerato un'innovazione piuttosto giovanile, perché ho solo cinquantasette anni e sono nella contea da appena ventotto. Il notaio ha l'aria di conoscerla da ventottomila anni. Poi c'è il vecchio Ammiraglio, che è proprio come un'illustrazione di Dickens; con una [[house|casa]] piena di sciabole e di seppie e provvisto di un cannocchiale.»
+
+«Immagino,» disse [[Father Brown]], «che ci sia sempre un certo numero di Ammiragli sospinti a riva. Ma non ho mai capito perché finiscano arenati tanto nell'entroterra.»
+
+«Di certo nessun luogo morto-vivo nelle profondità della campagna è completo senza una di queste creaturine,» disse il dottore. «E poi, naturalmente, c'è il tipo appropriato di ecclesiastico; Tory e di Alta Chiesa in una foggia polverosa che risale all'arcivescovo Laud; più vecchia comare di qualsiasi vecchia comare. È un vecchio uccello studioso dai capelli bianchi, più facile a scandalizzarsi delle zitelle stesse. Anzi, le gentildonne, benché puritane nei loro princìpi, sono talvolta piuttosto schiette nel parlare; come lo erano i veri puritani. Una volta o due ho sentito la vecchia Miss Carstairs-Carew usare espressioni vivaci come qualunque cosa nella [[Bible|Bibbia]]. Il caro vecchio ecclesiastico è assiduo nel leggere la [[Bible|Bibbia]]; ma quasi immagino che chiuda gli occhi quando arriva a quelle parole. [[Well|Insomma]], sa che io non sono particolarmente moderno. Non mi diverte tutto questo jazzare e sfrecciare in automobile dei Bright Young Things...»
+
+«I Bright Young Things non se ne divertono affatto,» disse [[Father Brown]]. «È questa la vera [[Tragedy|tragedia]].»
+
+«Ma io sono naturalmente un po' più in contatto col mondo che non la gente di questo villaggio preistorico,» proseguì il dottore. «Ed ero giunto a un punto in cui quasi accolsi con favore il Grande Scandalo.»
+
+«Non mi dica che i Bright Young Things hanno scoperto Potter's Pond, dopotutto,» osservò il prete, sorridendo.
+
+«Oh, persino il nostro scandalo segue vecchie e consolidate linee melodrammatiche. C'è bisogno che dica che a darci il problema è, per l'appunto, il figlio dell'ecclesiastico? Sarebbe quasi irregolare, se il figlio dell'ecclesiastico fosse del tutto regolare. Per quanto posso vedere, è molto blandamente e quasi fiaccamente irregolare. È stato visto la prima volta a bere birra fuori dal Blue [[Lion]]. Solo che pare sia un poeta, il che da quelle parti è la porta accanto all'essere un bracconiere.»
+
+«Certo,» disse [[Father Brown]], «neppure a Potter's Pond questo può essere il Grande Scandalo.»
+
+«No,» rispose gravemente il dottore. «Il Grande Scandalo cominciò così. Nella [[house|casa]] chiamata The Grange, posta all'estremità di The Grove, vive una signora. Una Signora Solitaria. Si fa chiamare Mrs Maltravers (così, almeno, la mettiamo noi); ma è arrivata soltanto un anno o due fa e nessuno sa nulla di lei. "Non riesco a immaginare perché voglia vivere qui," disse Miss Carstairs-Carew; "noi non le facciamo visita."»
+
+«Forse è proprio per questo che vuole vivere là,» disse [[Father Brown]].
+
+«[[Well|Ebbene]], il suo isolamento è ritenuto sospetto. Li irrita per il fatto di essere di bell'aspetto e persino di quello che si chiama buon stile. E tutti i giovanotti vengono messi in guardia contro di lei come contro una vamp.»
+
+«Chi perde tutta la propria [[Charity|carità]] perde di solito tutta la propria [[logic|logica]],» osservò [[Father Brown]]. «È piuttosto ridicolo lamentarsi che se ne stia per conto suo; e poi accusarla di ammaliare l'intera popolazione maschile.»
+
+«È vero,» disse il dottore. «Eppure è davvero una persona alquanto enigmatica. L'ho vista e l'ho trovata intrigante; una di quelle donne brune, alte ed eleganti e splendidamente brutte, se capisce cosa intendo. È piuttosto spiritosa, e benché abbastanza giovane mi dà di certo l'impressione di ciò che chiamano — [[Well|beh]], esperienza. Ciò che le vecchie signore chiamano un Passato.»
+
+«Le vecchie signore, essendo tutte nate proprio in questo istante,» osservò Padre Brown. «Credo di poter supporre che si presuma abbia ammaliato il figlio del parroco.»
+
+«Sì, e pare sia un problema assai terribile per il povero vecchio parroco. Si presume che sia vedova.»
+
+Il volto di [[Father Brown]] ebbe un lampo e uno spasimo della sua rara irritazione. «Si presume che sia vedova, come si presume che il figlio del parroco sia il figlio del parroco, e il notaio si presume sia un notaio e lei si presume sia un dottore. Perché diamine non dovrebbe essere vedova? Hanno un solo briciolo di prova prima facie per dubitare che sia ciò che dice di essere?»
+
+Il dottor Mulborough raddrizzò di scatto le larghe spalle e si mise a sedere ritto. «Naturalmente avete ragione ancora una volta,» disse. «Ma non siamo ancora arrivati allo scandalo. [[Well|Ebbene]], lo scandalo è che è vedova.»
+
+«Oh,» disse [[Father Brown]]; e il suo volto mutò ed egli disse qualcosa di sommesso e fioco, che avrebbe quasi potuto essere «Dio mio!»
+
+«Prima di tutto,» disse il dottore, «hanno fatto una scoperta su Mrs Maltravers. È un'attrice.»
+
+«L'avevo immaginato,» disse [[Father Brown]]. «Non importa perché. Avevo un'altra congettura sul suo conto, che sembrerebbe anche più irrilevante.»
+
+«[[Well|Ebbene]], in quel momento bastava e avanzava, come scandalo, che fosse un'attrice. Il caro vecchio ecclesiastico naturalmente ha il cuore spezzato, al pensiero che i suoi bianchi capelli debbano essere condotti nel dolore alla [[Grave|tomba]] da un'attrice e avventuriera. Le zitelle strillano in [[Chorus|coro]]. L'Ammiraglio ammette di essere talvolta andato a teatro in città; ma obietta a simili cose in quello che chiama "il nostro seno". [[Well|Beh]], naturalmente io non ho obiezioni particolari di quel genere. Questa attrice è di certo una signora, se pure un po' una Dama Bruna, alla maniera dei Sonetti; il giovanotto è molto [[Love|innamorato]] di lei; e io sono senza [[Doubt|dubbio]] un vecchio [[Fool|sciocco]] sentimentale ad avere una segreta simpatia per il giovane traviato che si aggira di soppiatto attorno alla Grange dal fossato; e stavo entrando in uno stato d'animo del tutto [[Pastoral|pastorale]] a proposito di questo idillio, quando all'improvviso cadde il fulmine. E io, che sono l'unica persona che abbia mai avuto un po' di simpatia per questa gente, vengo mandato quaggiù a fare il messaggero della sventura.»
+
+«Sì,» disse [[Father Brown]], «e perché siete stato mandato quaggiù?»
+
+Il dottore rispose con una specie di gemito:
+
+«Mrs Maltravers non è soltanto una vedova, ma è la vedova di Mr Maltravers.»
+
+«Suona come una rivelazione sconvolgente, così come la enunciate,» riconobbe seriamente il prete.
+
+«E Mr Maltravers,» proseguì il suo amico medico, «era l'uomo che a quanto pare fu assassinato in questo stesso villaggio un anno o due fa; si suppose che gli avessero fracassato la testa uno dei semplici villici.»
+
+«Ricordo che me l'avete detto,» disse [[Father Brown]]. «Il dottore, o un qualche dottore, disse che probabilmente era morto per essere stato colpito alla testa con un randello.»
+
+Il dottor Mulborough tacque per un momento in accigliato imbarazzo, poi disse seccamente:
+
+«Cane non mangia cane, e i dottori non mordono i dottori, nemmeno quando sono dottori pazzi. Non mi piacerebbe gettare alcuna ombra sul mio eminente predecessore a Potter's Pond, se potessi evitarlo; ma so che con voi i [[Secrets|segreti]] sono davvero al sicuro. E, parlando in confidenza, il mio eminente predecessore a Potter's Pond era un maledetto [[Fool|sciocco]]; un vecchio ubriacone impostore e assolutamente incompetente. Mi fu chiesto, in origine dal Capo della Polizia della Contea (perché ho vissuto a lungo [[Time|tempo]] nella contea, benché solo di recente nel villaggio), di indagare sull'intera faccenda; le deposizioni e i verbali dell'inchiesta e via dicendo. E non c'è semplicemente alcun dubbio in proposito. Maltravers può anche essere stato colpito alla testa; era un attore girovago di passaggio nel luogo; e Potter's Pond ritiene probabilmente che sia tutto nell'[[Natural Order|ordine naturale]] che simile gente venga colpita alla testa. Ma chiunque lo abbia colpito alla testa non lo uccise; è semplicemente impossibile che la lesione, così come descritta, facesse più che stordirlo per qualche ora. Ma di recente sono riuscito a scovare altri fatti attinenti alla questione; e il risultato è piuttosto sinistro.»
+
+Sedeva torvo a guardare il paesaggio che scivolava via oltre il [[Window|finestrino]], poi disse ancora più seccamente: «Vengo quaggiù, e chiedo il vostro aiuto, perché ci sarà una riesumazione. C'è un fortissimo sospetto di [[Poison|veleno]].»
+
+«Ed eccoci alla stazione,» disse [[Father Brown]] allegramente. «Immagino che la vostra idea sia che avvelenare il pover'uomo rientrasse naturalmente fra i doveri domestici di sua moglie.»
+
+«[[Well|Ebbene]], non sembra esserci mai stato nessun altro qui che avesse qualche legame particolare con lui,» rispose Mulborough, mentre scendevano dal treno. «Perlomeno c'è un vecchio strambo compare di lui, un attore fallito, che gironzola qua attorno; ma la polizia e il notaio del posto paiono convinti che sia un impiccione squilibrato; con una qualche idea fissa su una lite con un attore che era suo nemico; ma che di certo non era Maltravers. Un caso errante, direi, e di certo nulla a che vedere col problema del [[Poison|veleno]].»
+
+[[Father Brown]] aveva ascoltato la storia. Ma sapeva di non conoscere mai una storia finché non ne conosceva i personaggi. Trascorse i due o tre giorni seguenti nel fare il giro, con l'uno o l'altro cortese pretesto, per far visita ai principali attori del dramma. Il suo primo colloquio con la misteriosa vedova fu breve ma brillante. Ne portò via almeno due fatti; uno, che Mrs Maltravers parlava talvolta in un modo che il villaggio vittoriano avrebbe definito cinico; e, secondo, che come non poche attrici, si dava il caso appartenesse alla sua stessa comunione religiosa.
+
+Non era così illogico (né così poco ortodosso) da inferire da questo [[Alone|solo fatto]] che ella fosse [[Innocent|innocente]] del presunto crimine. Sapeva [[Well|bene]] che la sua vecchia comunione religiosa poteva vantare diversi avvelenatori insigni. Ma non aveva difficoltà a comprenderne il legame, in un caso del genere, con una certa libertà intellettuale che questi puritani avrebbero chiamato rilassatezza; e che a questo parrocchiale lembo di una vecchia Inghilterra sarebbe di certo parsa quasi cosmopolita. Comunque, era sicuro che lei potesse contare per molto, tanto nel bene quanto nel male. I suoi occhi bruni erano coraggiosi fino alla battaglia, e la sua bocca enigmatica, spiritosa e piuttosto grande, faceva pensare che i suoi propositi riguardo al poetico figlio del parroco, quali che fossero, erano piantati piuttosto in profondità.
+
+Il poetico figlio del parroco stesso, intervistato in mezzo a un vasto scandalo di villaggio su una panca fuori dal Blue [[Lion]], diede l'impressione di puro broncio. Hurrel Horner, figlio del reverendo Samuel Horner, era un giovane dalla corporatura tozza, in un abito grigio pallido con un tocco di qualcosa di artistico in una cravatta verde pallido, per il resto notevole soprattutto per una criniera di capelli ramati e un cipiglio perenne. Ma [[Father Brown]] aveva un suo modo di indurre la gente a spiegare a considerevole lunghezza perché si rifiutava di dire una sola parola. A proposito del generale pettegolezzo scandalistico del villaggio, il giovanotto cominciò a imprecare liberamente. Vi aggiunse anzi un po' di pettegolezzo scandalistico suo proprio. Alluse con amarezza a presunti flirt passati fra la puritana Miss Carstairs-Carew e Mr Carver il notaio. Accusò persino quel personaggio legale di aver tentato di imporsi alla conoscenza di Mrs Maltravers. Ma quando venne a parlare del proprio padre, fosse per un'acida decenza o pietà, o perché la sua ira era troppo profonda per la parola, sbottò soltanto in poche parole.
+
+«[[Well|Ecco]], le cose stanno così. La denuncia giorno e [[Night|notte]] come un'avventuriera imbellettata; una specie di cameriera da bar coi capelli dorati. Io gli dico che non lo è; l'avete conosciuta voi stesso, e sapete che non lo è. Ma lui non vuole nemmeno incontrarla. Non vuole neppure vederla per strada o guardarla da una [[Window|finestra]]. Un'attrice inquinerebbe la sua [[house|casa]] e persino la sua santa presenza. Se lo chiamano puritano, dice di essere fiero di essere un puritano.»
+
+«Vostro padre,» disse [[Father Brown]], «ha diritto a vedere rispettate le proprie opinioni, quali che siano; non sono opinioni che io stesso capisca molto [[Well|bene]]. Ma convengo che non ha diritto di dettare legge su una signora che non ha mai visto e poi rifiutarsi persino di guardarla, per vedere se ha ragione. Questo è illogico.»
+
+«È il suo punto più irremovibile,» rispose il ragazzo. «Neppure un solo incontro fugace. Naturalmente, tuona [[Well|anche]] contro gli altri miei gusti teatrali.»
+
+[[Father Brown]] seguì prontamente il nuovo spiraglio, e apprese molto di ciò che voleva sapere. La presunta poesia, che era una tale macchia sul carattere del giovane, era quasi interamente poesia drammatica. Aveva scritto tragedie in versi che erano state ammirate da buoni intenditori. Non era un mero [[Fool|sciocco]] invaghito del palcoscenico; anzi, non era affatto uno [[Fool|sciocco]]. Aveva alcune idee davvero originali su come recitare Shakespeare; era facile capire come fosse rimasto abbagliato e deliziato nell'imbattersi nella brillante signora della Grange. E persino la simpatia intellettuale del prete addolcì a tal punto il [[Rebel|ribelle]] di Potter's Pond che, al momento di separarsi, egli sorrise davvero.
+
+Fu quel sorriso a rivelare all'improvviso a [[Father Brown]] che il giovane era davvero infelice. Finché aggrottava la fronte, poteva anche [[Well|ben]] trattarsi soltanto di broncio; ma quando sorrideva, era in qualche modo una rivelazione più autentica di dolore.
+
+Qualcosa continuava a tormentare il prete a proposito di quel colloquio col poeta. Un istinto interiore certificava che il robusto giovanotto era roso dall'interno, da un dolore ancor più grande della storia convenzionale di genitori convenzionali che si fanno ostacolo al corso del vero [[Love|amore]]. Tanto più che non c'era alcuna ovvia causa alternativa. Il ragazzo era già un [[success|successo]] letterario e drammatico piuttosto notevole; si poteva dire che i suoi libri andavano a gonfie vele. Né beveva o dissipava la sua [[Well|ben]] guadagnata ricchezza. Le sue famigerate gozzoviglie al Blue [[Lion]] si riducevano a un bicchiere di birra leggera; e pareva essere piuttosto attento col denaro. [[Father Brown]] pensò a un'altra possibile complicazione in connessione con le ampie risorse e le esigue spese di Hurrel; e la sua fronte si oscurò.
+
+La conversazione di Miss Carstairs-Carew, dalla quale si recò in seguito, era di certo calcolata per dipingere il figlio del parroco coi colori più foschi. Ma poiché era votata a fulminarlo con tutti quei particolari vizi che [[Father Brown]] era ben certo il giovane non esibisse, egli l'attribuì a una comune combinazione di [[Puritanism|puritanesimo]] e chiacchiere. La signora, benché altezzosa, fu però assai garbata, e offrì al visitatore un bicchierino di vino di Porto e una fetta di dolce ai semi, alla maniera delle prozie più antiche di chiunque, prima che egli riuscisse a sottrarsi a un sermone sulla generale [[Decay|decadenza]] della morale e dei costumi.
+
+Il suo successivo scalo fu un vero e proprio contrasto; poiché scomparve giù per un vicolo scuro e sudicio, dove Miss Carstairs-Carew si sarebbe rifiutata di seguirlo persino col pensiero; e poi in una stretta catapecchia resa più rumorosa da una voce alta e declamatoria in un solaio... Da questa riemerse, con un'espressione piuttosto stordita, inseguito fin sul marciapiede da un uomo assai eccitato dal mento bluastro e da una redingote nera stinta fino al verde bottiglia, che gridava argomentando: «Non è scomparso! Maltravers non è mai scomparso! È apparso: è apparso morto e io sono apparso vivo. Ma dov'è tutto il resto della compagnia? Dov'è quell'uomo, quel [[Monster|mostro]], che deliberatamente mi rubò le battute, mi rovinò le scene migliori e mandò in rovina la mia carriera? Io ero il più bel Tubal che avesse mai calcato le tavole del palcoscenico. Lui faceva [[Shylock]] — e non aveva bisogno di recitare granché per quello! E così con la più grande occasione di tutta la mia carriera. Potrei mostrarvi ritagli di giornale sulle mie interpretazioni di Fortebraccio...»
+
+«Sono ben sicuro che fossero splendide e assai [[Well|ben]] meritate,» ansimò il piccolo prete. «Avevo capito che la compagnia aveva lasciato il villaggio prima che Maltravers morisse. Ma va tutto bene. Va tutto benissimo.» E ricominciò ad affrettarsi giù per la strada.
+
+«Doveva fare [[Polonius]],» proseguì l'inestinguibile oratore dietro di lui. [[Father Brown]] all'improvviso si fermò di colpo.
+
+«Oh,» disse assai lentamente, «doveva fare [[Polonius]].»
+
+«Quel [[Villain|furfante]] di Hankin!» strillò l'attore. «Seguitene le tracce. Inseguitelo fino ai confini della terra! Naturalmente aveva lasciato il villaggio; contateci pure. Inseguitelo — trovatelo; e che le maledizioni...» Ma il prete si stava di nuovo allontanando in fretta giù per la strada.
+
+A questa scena melodrammatica seguirono due colloqui assai più prosaici e forse più pratici. Dapprima il prete entrò in banca, dove restò rinchiuso per dieci minuti col direttore; e poi fece una visita del tutto appropriata all'anziano e amabile ecclesiastico. Anche qui tutto pareva molto come era stato descritto, immutato e in apparenza immutabile; un tocco o due di devozione da tradizioni più austere, nell'esiguo crocifisso alla parete, nella grande [[Bible|Bibbia]] sul leggìo e nell'iniziale lamento del vecchio gentiluomo sul crescente disprezzo per la [[Sunday|domenica]]; ma tutto con un aroma di gentilezza che non era privo delle sue piccole raffinatezze e dei suoi appassiti lussi.
+
+Anche l'ecclesiastico offrì al suo ospite un bicchiere di Porto; ma accompagnato da un antico biscotto britannico invece che dal dolce ai semi. Il prete ebbe di nuovo la strana sensazione che tutto fosse quasi troppo perfetto, e che stesse vivendo un secolo prima del suo [[Time|tempo]]. Solo su un punto l'amabile vecchio parroco si rifiutò di sciogliersi in qualsiasi ulteriore amabilità; mitemente ma fermamente sostenne che la sua [[Conscience|coscienza]] non gli avrebbe permesso di incontrare un attore di palcoscenico. Tuttavia, [[Father Brown]] posò il bicchiere di Porto con espressioni di apprezzamento e ringraziamento; e se ne andò a incontrare il suo amico dottore, per appuntamento, all'angolo della strada; donde dovevano recarsi insieme agli uffici di Mr Carver, il notaio.
+
+«Immagino che abbiate fatto il tetro giro,» esordì il dottore, «e abbiate trovato un villaggio assai noioso.»
+
+La risposta di [[Father Brown]] fu tagliente e quasi stridula. «Non chiamate noioso il vostro villaggio. Vi assicuro che è davvero un villaggio straordinarissimo.»
+
+«Ho avuto a che fare con l'unica cosa straordinaria che sia mai accaduta qui, direi io,» osservò il dottor Mulborough. «E persino quella accadde a qualcuno di fuori. Posso dirvi che sono riusciti a condurre la riesumazione in silenzio la scorsa [[Night|notte]]; e io ho fatto l'autopsia stamattina. In parole povere, abbiamo dissotterrato un cadavere semplicemente imbottito di [[Poison|veleno]].»
+
+«Un cadavere imbottito di [[Poison|veleno]],» ripeté [[Father Brown]] piuttosto distrattamente. «Credetemi, il vostro villaggio contiene qualcosa di ben più straordinario di questo.»
+
+Vi fu un brusco [[Silence|silenzio]], seguito dall'altrettanto brusco tirare dell'antiquato cordone del campanello nel portico della [[house|casa]] del notaio; e vennero presto introdotti alla presenza di quel legale gentiluomo, il quale li presentò a loro volta a un gentiluomo dai capelli bianchi e dal volto giallastro con una cicatrice, che pareva essere l'Ammiraglio.
+
+[[Time|Ormai]] l'atmosfera del villaggio era sprofondata quasi nella subcoscienza del piccolo prete; ma egli era consapevole che l'avvocato era proprio il genere di avvocato adatto a essere il consulente di gente come Miss Carstairs-Carew. Ma benché fosse un arcaico vecchio uccello, sembrava qualcosa di più di un fossile. Forse era l'uniformità dello sfondo; ma il prete ebbe di nuovo la curiosa sensazione di essere lui stesso trapiantato indietro nei primi anni dell'Ottocento, piuttosto che il notaio essere sopravvissuto fino ai primi anni del Novecento. Il colletto e la cravatta riuscivano a somigliare quasi a una gorgiera mentre egli vi affondava il lungo mento; ma erano puliti [[Well|oltre]] che netti nel taglio; e c'era persino in lui qualcosa di un asciuttissimo vecchio dandy. In breve, era ciò che si dice [[Well|ben]] conservato, anche se in parte per il fatto di essere pietrificato.
+
+L'avvocato e l'Ammiraglio, e persino il dottore, mostrarono una certa sorpresa nel constatare che [[Father Brown]] era piuttosto incline a difendere il figlio del parroco contro i lamenti locali in favore del parroco.
+
+«Il nostro giovane amico l'ho trovato piuttosto simpatico, da parte mia,» disse. «È un buon conversatore e, immagino, un buon poeta; e Mrs Maltravers, che almeno su questo è seria, dice che è un attore piuttosto valido.»
+
+«Davvero,» disse l'avvocato. «Potter's Pond, Mrs Maltravers a parte, è piuttosto più incline a chiedersi se sia un buon figlio.»
+
+«È un buon figlio,» disse [[Father Brown]]. «È questa la cosa straordinaria.»
+
+«Diamine,» disse l'Ammiraglio. «Intendete dire che è davvero affezionato a suo padre?»
+
+Il prete esitò. Poi disse: «Non ne sono poi così sicuro. È questa l'altra cosa straordinaria.»
+
+«Che diavolo intendete dire?» domandò il marinaio con profanità nautica.
+
+«Intendo,» disse [[Father Brown]], «che il figlio parla ancora del padre in modo duro e implacabile; ma pare, dopotutto, aver fatto più del proprio dovere verso di lui. Ho avuto un colloquio col direttore della banca e, poiché stavamo indagando in confidenza su un grave crimine, sotto autorità della polizia, egli mi ha riferito i fatti. Il vecchio ecclesiastico si è ritirato dal lavoro parrocchiale; anzi, questa non è mai stata propriamente la sua parrocchia. Quella parte della popolazione, che è piuttosto pagana, che va in chiesa se pure ci va, va a Dutton-Abbot, a meno di un miglio da qui. Il vecchio non ha mezzi propri, ma il figlio guadagna un buon denaro; e del vecchio ci si prende [[Well|ben]] cura. Mi ha dato un Porto di annata assolutamente di prim'ordine; ne ho viste file di vecchie bottiglie polverose; e l'ho lasciato mentre sedeva a un pranzetto del tutto ricercato all'antica maniera. Dev'esser fatto tutto col denaro del giovane.»
+
+«Un figlio proprio modello,» disse Carver con un lieve ghigno.
+
+[[Father Brown]] annuì, aggrottando la fronte, come rimuginando un [[Riddle|enigma]] tutto suo; poi disse: «Un figlio modello. Ma piuttosto un modello meccanico.»
+
+In quel momento un impiegato portò una lettera senza francobollo per l'avvocato; una lettera che l'avvocato strappò con impazienza dopo una sola occhiata. Mentre si divideva in due, il prete vide una calligrafia ragnesca, folle, affollata, e la firma di «Phoenix Fitzgerald»; e fece una congettura che l'altro confermò seccamente.
+
+«È quell'attore melodrammatico che ci tormenta di continuo,» disse. «Ha una faida fissa con un qualche compare istrione morto e sepolto, che non può avere nulla a che vedere col caso. Ci rifiutiamo tutti di riceverlo, tranne il dottore, che lo ricevette; e il dottore dice che è pazzo.»
+
+«Sì,» disse [[Father Brown]], increspando le labbra pensosamente. «Direi che è pazzo. Ma naturalmente non ci può essere alcun [[Doubt|dubbio]] che abbia ragione.»
+
+«Ragione?» esclamò Carver bruscamente. «Ragione su cosa?»
+
+«Sul fatto che questo sia collegato alla vecchia compagnia teatrale,» disse [[Father Brown]]. «Sapete qual è stata la prima cosa che mi ha lasciato perplesso in questa storia? È stata quella nozione che Maltravers fosse stato ucciso dai villici perché aveva insultato il loro villaggio. È straordinario ciò che i giudici istruttori riescono a far credere ai giurati; e i giornalisti, naturalmente, sono incredibilmente creduloni. Non possono sapere granché dei villici inglesi. Io sono io stesso un villico inglese; perlomeno sono cresciuto, insieme ad altre rape, nell'Essex. Riuscite a immaginare un bracciante agricolo inglese che idealizza e personifica il proprio villaggio, come il cittadino di un'antica [[City|città]]-stato greca; che sguaina la [[Sword|spada]] per il suo sacro vessillo, come un uomo nella minuscola repubblica medievale di una città italiana? Riuscite a sentire un allegro vecchio nonnino dire: "Il [[Blood|sangue]], il [[Alone|sangue soltanto]], può cancellare l'unica macchia sullo stemma di Potter's Pond"? Per San Giorgio e il Drago, magari lo facessero! Ma, in realtà, ho un argomento più pratico a favore dell'altra ipotesi.»
+
+Fece una pausa per un momento, come per raccogliere i pensieri, poi proseguì: «Fraintesero il senso di quelle poche ultime parole che il povero Maltravers fu udito dire. Non stava dicendo ai villici che il villaggio era soltanto un [[Hamlet|borghetto]]. Stava parlando a un attore; stavano per mettere in scena uno spettacolo in cui Fitzgerald doveva essere Fortebraccio, l'ignoto Hankin doveva essere [[Polonius]], e Maltravers, senza [[Doubt|dubbio]], il Principe di [[Denmark|Danimarca]]. Forse qualcun altro voleva la parte o aveva idee sulla parte; e Maltravers disse con collera: "Saresti un miserabile piccolo Amleto"; tutto qui.»
+
+Il dottor Mulborough fissava; sembrava digerire il suggerimento lentamente ma senza difficoltà. Alla fine disse, prima che gli altri potessero parlare: «E cosa suggerite che facciamo adesso?»
+
+[[Father Brown]] si alzò piuttosto bruscamente; ma parlò abbastanza cortesemente. «Se questi signori vorranno scusarci per un momento, propongo che voi e io, dottore, ci rechiamo subito dagli Horner. So che il parroco e suo figlio saranno entrambi là proprio adesso. E ciò che voglio fare, dottore, è questo. Nessuno nel villaggio sa ancora, credo, della vostra autopsia e del suo esito. Voglio che voi diciate semplicemente sia all'ecclesiastico sia al figlio, mentre sono là insieme, il fatto esatto del caso; che Maltravers è morto per [[Poison|veleno]] e non per un colpo.»
+
+Il dottor Mulborough ebbe ragione di riconsiderare la propria [[Incredulity|incredulità]] quando gli fu detto che si trattava di un villaggio straordinario. La scena che ne seguì, quando egli mise effettivamente in atto il programma del prete, fu di certo di quel genere in cui un uomo, come si suol dire, quasi non crede ai propri occhi.
+
+Il reverendo Samuel Horner stava ritto nella sua nera tonaca, che faceva risaltare l'argento del suo venerabile capo; la mano gli posava in quel momento sul leggìo al quale spesso si fermava a studiare la Scrittura, ora forse soltanto per caso; ma ciò gli conferiva un maggiore aspetto di autorità. E di fronte a lui il figlio ammutinato sedeva sbracato su una sedia, fumando una sigaretta a buon mercato con un cipiglio eccezionalmente greve; un vivace ritratto di giovanile empietà.
+
+Il vecchio con cortesia fece cenno a [[Father Brown]] di sedersi, cosa che egli fece, e restò là seduto in silenzio, fissando placidamente il soffitto. Ma qualcosa fece sentire a Mulborough che avrebbe potuto dare la sua importante notizia in modo più impressionante stando in piedi.
+
+«Sento,» disse, «che dovreste essere informato, quale in un certo senso padre spirituale di questa comunità, che una terribile [[Tragedy|tragedia]] nei suoi annali ha assunto un nuovo significato; possibilmente ancor più terribile. Ricorderete la triste vicenda della [[Death|morte]] di Maltravers; il quale fu giudicato essere stato ucciso col colpo di un bastone, probabilmente brandito da qualche nemico villico.»
+
+L'ecclesiastico fece un gesto con la mano vacillante. «Dio non voglia,» disse, «che io dica qualcosa che possa sembrare attenuare la violenza omicida in qualsiasi caso. Ma quando un attore porta la sua malvagità in questo [[Innocent|innocente]] villaggio, sfida il giudizio di Dio.»
+
+«Forse,» disse gravemente il dottore. «Ma comunque non fu così che il giudizio cadde. Sono appena stato incaricato di condurre un'autopsia sul [[Body|corpo]]; e posso assicurarvi, primo, che il colpo alla testa non avrebbe potuto in alcun modo concepibile causare la [[Death|morte]]; e, secondo, che il [[Body|corpo]] era pieno di [[Poison|veleno]], il quale senza dubbio causò la [[Death|morte]].»
+
+Il giovane Hurrel Horner mandò la sigaretta a volare e fu in piedi con la leggerezza e la rapidità di un gatto. Il suo balzo lo fece atterrare a una iarda dal leggìo.
+
+«Ne siete certo?» ansimò. «Siete assolutamente certo che quel colpo non potesse causare la [[Death|morte]]?»
+
+«Assolutamente certo,» disse il dottore.
+
+«[[Well|Ebbene]],» disse Hurrel, «quasi vorrei che questo lo potesse.»
+
+In un lampo, prima che chiunque potesse muovere un dito, aveva assestato al parroco un colpo stordente sulla bocca, scaraventandolo all'indietro come una sconnessa bambola nera contro la porta.
+
+«Cosa state facendo?» gridò Mulborough, scosso dalla testa ai piedi dallo shock e dal solo suono del colpo. «[[Father Brown]], cosa sta facendo questo pazzo?»
+
+Ma [[Father Brown]] non si era mosso; fissava ancora serenamente il soffitto.
+
+«Aspettavo che lo facesse,» disse il prete placidamente. «Anzi mi [[Wonder|stupisco]] che non l'abbia fatto prima.»
+
+«Buon Dio,» gridò il dottore. «So che pensavamo fosse maltrattato in qualche modo; ma colpire il proprio padre; colpire un ecclesiastico e un non combattente...»
+
+«Non ha colpito il proprio padre; e non ha colpito un ecclesiastico,» disse [[Father Brown]]. «Ha colpito un ricattatore mascalzone di attore travestito da ecclesiastico, che ha vissuto alle sue spalle come una sanguisuga per anni. Ora che sa di essere libero dal ricatto, dà sfogo; e non posso dire di biasimarlo molto. Tanto più che ho fortissimi sospetti che il ricattatore sia [[Well|anche]] un avvelenatore, e come. Credo, Mulborough, che fareste meglio a telefonare alla polizia.»
+
+Uscirono dalla stanza senza essere interrotti dagli altri due, l'uno stordito e barcollante, l'altro ancora cieco e sbuffante e ansante di passioni di sollievo e rabbia. Ma mentre passavano, [[Father Brown]] volse una volta il viso verso il giovane; e il giovane fu uno dei pochissimi esseri umani che abbiano visto quel viso implacabile.
+
+«Aveva ragione, in questo,» disse [[Father Brown]]. «Quando un attore porta la sua malvagità in questo [[Innocent|innocente]] villaggio, sfida il giudizio di Dio.»
+
+«[[Well|Ebbene]],» disse [[Father Brown]], mentre lui e il dottore si sistemavano di nuovo in una carrozza ferroviaria ferma nella stazione di Potter's Pond. «Come dite voi, è una strana storia; ma non credo che sia più una storia di mistero. Comunque, la storia mi pare sia stata, per sommi capi, questa. Maltravers venne qui, con una parte della sua compagnia in tournée; alcuni di loro andarono direttamente a Dutton-Abbot, dove presentavano tutti insieme un qualche [[Melodrama|melodramma]] sui primi anni dell'Ottocento; a lui capitò di gironzolare nel suo costume di scena, il costume assai caratteristico di un dandy di quel [[Time|tempo]]. Un altro personaggio era un parroco all'antica, il cui abito scuro era meno caratteristico e poteva passare per semplicemente fuori moda. Questa parte era sostenuta da un uomo che per lo più recitava vecchi; aveva recitato [[Shylock]] ed era in seguito destinato a recitare [[Polonius]].
+
+«Una terza figura del dramma era il nostro poeta drammatico, che era anche un attore drammatico, e aveva litigato con Maltravers su come rappresentare [[Hamlet|Amleto]], ma anche, e più, su questioni personali. Ritengo probabile che fosse [[Love|innamorato]] di Mrs Maltravers già allora; non credo che ci fosse nulla di male fra loro; e [[Hope|spero]] che ora possa andar tutto bene per loro. Ma può [[Well|ben]] darsi che risentisse di Maltravers nella sua veste coniugale; poiché Maltravers era un prepotente e incline a scatenare risse. In una qualche rissa di quel genere si batterono coi bastoni, e il poeta colpì Maltravers assai forte alla testa, e, alla luce dell'inchiesta, ebbe ogni ragione di supporre di averlo ucciso.
+
+«Una terza persona era presente o al corrente dell'incidente, l'uomo che recitava il vecchio parroco; ed egli si mise a ricattare il presunto assassino, estorcendogli il costo del proprio mantenimento in un certo lusso come ecclesiastico in pensione. Era l'ovvia mascherata per un uomo simile in un luogo simile, semplicemente continuare a indossare i suoi abiti di scena come ecclesiastico in pensione. Ma aveva una sua ragione per essere un ecclesiastico assai ritirato. Poiché la vera storia della [[Death|morte]] di Maltravers era che egli rotolò in una fitta boscaglia di felci, si riprese a poco a poco, cercò di camminare verso una [[house|casa]], e fu infine sopraffatto, non dal colpo, ma dal fatto che il benevolo ecclesiastico gli aveva dato del [[Poison|veleno]] un'ora prima, probabilmente in un bicchiere di Porto. Cominciavo a pensarlo, quando bevvi un bicchiere del Porto del parroco. Mi rese un po' nervoso. La polizia sta lavorando su questa teoria adesso; ma se riusciranno a provare quella parte della storia, non lo so. Dovranno trovare il movente esatto; ma è ovvio che questo gruppo di attori brulicava di litigi e che Maltravers era assai odiato.»
+
+«La polizia può provare qualcosa ora che ha il sospetto,» disse il dottor Mulborough. «Ciò che non capisco è come mai abbiate cominciato a sospettare. Perché mai al mondo avreste dovuto sospettare di quel gentiluomo dalla nera tonaca, così irreprensibile?»
+
+[[Father Brown]] sorrise debolmente. «Suppongo che in un certo senso,» disse, «fosse una questione di conoscenza specifica; quasi una questione professionale, ma in un senso peculiare. Sapete che i nostri polemisti si lamentano spesso che ci sia una gran quantità di ignoranza su cosa sia davvero la nostra religione. Ma è in realtà più curioso di così. È vero, e non è affatto innaturale, che l'Inghilterra non sappia granché della Chiesa di Roma. Ma l'Inghilterra non sa granché neppure della Chiesa d'Inghilterra. Neanche quanto ne so io. Restereste stupito di quanto poco il pubblico medio comprenda delle controversie anglicane; molti di loro non sanno davvero cosa si intenda per uomo di Alta Chiesa o di Bassa Chiesa, persino sui punti particolari della pratica, [[Alone|per non dire]] delle due teorie della [[history|storia]] e della [[philosophy|filosofia]] che vi stanno dietro. Potete vedere questa ignoranza in qualsiasi giornale; in qualsiasi [[Novel|romanzo]] o commedia meramente popolare.
+
+«Ora, la prima cosa che mi colpì fu che questo venerabile chierico aveva confuso l'intera faccenda in modo incredibile. Nessun parroco anglicano potrebbe sbagliarsi così su ogni problema anglicano. Si presumeva fosse un vecchio Tory di Alta Chiesa; e poi si vantava di essere un puritano. Un uomo così potrebbe personalmente essere piuttosto puritaneggiante; ma non la chiamerebbe mai essere un puritano. Professava un orrore per il palcoscenico; non sapeva che gli uomini di Alta Chiesa generalmente non hanno quello speciale orrore, mentre quelli di Bassa Chiesa sì. Parlava come un puritano del Sabato; e poi aveva un crocifisso nella sua stanza. Evidentemente non aveva idea di come debba essere un parroco assai pio, se non che dev'essere molto solenne e venerabile e disapprovare i piaceri del mondo.
+
+«Per tutto questo [[Time|tempo]] una nozione subconscia mi correva per la testa; qualcosa che non riuscivo a fissare nella [[Memory|memoria]]; e poi mi venne all'improvviso. Questo è un Parroco da Palcoscenico. È esattamente il vago e venerabile vecchio [[Fool|sciocco]] che sarebbe la nozione più prossima che un commediografo popolare o un attore della vecchia scuola avesse di qualcosa di tanto strano come un uomo religioso.»
+
+«Per non dire di un medico della vecchia scuola,» disse Mulborough di buon umore, «che non pretende di sapere granché su cosa significhi essere un uomo religioso.»
+
+«In effetti,» proseguì [[Father Brown]], «c'era una causa di sospetto più semplice e più lampante. Riguardava la Dama Bruna della Grange, che si presumeva fosse il Vampiro del Villaggio.
+
+Assai per tempo mi formai l'impressione che questa nera macchia fosse piuttosto il punto luminoso del villaggio. Veniva trattata come un mistero; ma non c'era in realtà nulla di misterioso in lei. Era venuta quaggiù del tutto di recente, del tutto apertamente, sotto il proprio nome, per aiutare le nuove indagini che si dovevano fare sul suo stesso marito. Lui non l'aveva trattata troppo [[Well|bene]]; ma lei aveva dei princìpi, che le suggerivano che qualcosa fosse dovuto al suo nome di sposata e alla comune giustizia. Per la stessa ragione, andò a vivere nella [[house|casa]] fuori dalla quale il marito era stato trovato morto. L'altro caso [[Innocent|innocente]] e lineare, oltre al Vampiro del Villaggio, era lo Scandalo del Villaggio, il dissoluto figlio del parroco. Anch'egli non fece alcun mistero della propria professione o del passato legame col mondo del teatro. È per questo che non sospettai di lui come sospettai del parroco. Ma avrete già indovinato una ragione reale e pertinente per sospettare del parroco.»
+
+«Sì, credo di capire,» disse il dottore, «è per questo che tirate in ballo il nome dell'attrice.»
+
+«Sì, intendo la sua fanatica fissità nel non voler vedere l'attrice,» osservò il prete. «Ma in realtà non aveva nulla in contrario a vedere lei. Aveva in contrario che lei vedesse lui.»
+
+«Sì, questo lo capisco,» convenne l'altro. «Se avesse visto il reverendo Samuel Horner, avrebbe all'istante riconosciuto l'assai poco reverendo attore Hankin, travestito da finto parroco con un carattere piuttosto losco dietro il travestimento. [[Well|Ebbene]], questo è tutto quanto di questo semplice idillio di villaggio, credo. Ma ammetterete che ho mantenuto la mia promessa; vi ho mostrato nel villaggio qualcosa di considerevolmente più raccapricciante di un cadavere; persino di un cadavere imbottito di [[Poison|veleno]]. La nera tonaca di un parroco imbottita di un ricattatore vale perlomeno di essere notata, e il mio uomo vivo è assai più letale del vostro morto.»
+
+«Sì,» disse il dottore, sistemandosi comodamente all'indietro contro i cuscini. «Se si tratta di una piccola e intima compagnia in un [[Journey|viaggio]] ferroviario, preferirei il cadavere.»
+
+FINE

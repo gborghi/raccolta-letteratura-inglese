@@ -96,7 +96,7 @@ he is also a poet.'
 
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/works/incredulity-(chesterton)">Incredulity</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/incredulity-(chesterton)">Incredulity</a> › <a href="/testi/chesterton/atomized/incredulity/story_08_the_ghost_of_gideon_wise">Story 08 The Ghost of Gideon Wise</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/incredulity/story_08_the_ghost_of_gideon_wise/part_06">‹ part 06</a><span></span></div>
 </nav>
 

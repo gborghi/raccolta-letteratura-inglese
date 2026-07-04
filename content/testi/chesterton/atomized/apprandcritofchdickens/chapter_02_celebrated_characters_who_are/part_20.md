@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/apprandcritofchdickens-(chesterton)">ApprAndCritOfChDickens</a> › <a href="/testi/chesterton/atomized/apprandcritofchdickens/chapter_02_celebrated_characters_who_are">Chapter 02 celebrated characters who are</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/apprandcritofchdickens/chapter_02_celebrated_characters_who_are/part_19">‹ part 19</a><a class="ex-next" href="/testi/chesterton/atomized/apprandcritofchdickens/chapter_02_celebrated_characters_who_are/part_21">part 21 ›</a></div>
@@ -185,3 +187,184 @@ they had more and more liberty it did not matter whether they had any
 equality or any fraternity. But this was violating the sacred trinity of
 
 true politics; they confounded the persons and they divided the
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/apprandcritofchdickens-(chesterton)">ApprAndCritOfChDickens</a> › <a href="/testi/chesterton/atomized/apprandcritofchdickens/chapter_02_celebrated_characters_who_are">Chapter 02 celebrated characters who are</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/apprandcritofchdickens/chapter_02_celebrated_characters_who_are/part_19">‹ part 19</a><a class="ex-next" href="/testi/chesterton/atomized/apprandcritofchdickens/chapter_02_celebrated_characters_who_are/part_21">part 21 ›</a></div>
+</nav>
+
+dei vertici è _Hard Times_.
+
+È qui più che in ogni altro luogo che la severità di Dickens emerge
+
+come distinta dalla sua tenerezza; è qui, nel modo più evidente, per così dire,
+
+che gli sporgono le ossa. Vi sono in verità molti altri suoi libri che
+
+sono scritti meglio e in tono più mesto. _Great Expectations_ è
+
+[[Melancholy|malinconico]] in un certo senso; ma dubita di tutto, perfino della propria
+
+[[Melancholy|malinconia]]. _The Tale of Two Cities_ è una grande [[Tragedy|tragedia]], ma è
+
+pur sempre una [[Tragedy|tragedia]] sentimentale. È un grande dramma, ma è pur sempre un
+
+[[Melodrama|melodramma]]. Ma questo racconto, _Hard Times_, è in qualche modo più aspro di tutti
+
+questi. Poiché è l'espressione di un'indignazione giusta che non sa
+
+piegarsi allo [[Humour|humour]] e che non sa piegarsi nemmeno al pathos. Venti
+
+volte abbiamo preso la mano di Dickens, e talora era calda di
+
+baldoria e talora fiacca di stanchezza; ma questa [[Time|volta]] trasaliamo un
+
+poco, perché è disumanamente fredda; e allora comprendiamo di aver
+
+toccato il suo guanto d'acciaio.
+
+Non si può esprimere il vero valore di questo libro senza essere irrilevanti.
+
+È vero che non si può esprimere il vero valore di alcuna cosa senza
+
+essere irrilevanti. Se prendiamo una cosa con leggerezza possiamo prenderla
+
+isolatamente, ma nell'istante in cui prendiamo una cosa sul serio, foss'anche un
+
+vecchio ombrello, è evidente che quell'ombrello si apre sopra di noi nell'
+
+immensità dell'intero universo. Ma vi sono ragioni piuttosto particolari
+
+per cui il valore del libro chiamato _Hard Times_ dovrebbe essere ricondotto a
+
+grandi questioni storiche e teoriche con le quali può parere
+
+superficialmente di avere poco o nulla a che fare. La ragione principale
+
+si può forse enunciare così: che la politica inglese, per più di
+
+un secolo, si era andata ingarbugliando in un groviglio sempre più senza speranza (un
+
+groviglio che, s'intende, da allora è divenuto anche peggiore) e che Dickens
+
+vide, in qualche modo straordinario, ciò che era sbagliato, anche se non vide
+
+ciò che era giusto.
+
+Il liberalismo che Dickens e quasi tutti i suoi contemporanei
+
+professavano era cominciato con la Rivoluzione americana e quella francese. Quasi
+
+tutta la critica inglese moderna intorno a quelle rivoluzioni è stata viziata
+
+dal presupposto che quelle rivoluzioni piombassero su un mondo che era
+
+impreparato alle loro idee: un mondo ignaro della possibilità di simili
+
+idee. Pressoché il medesimo errore commettono coloro che insinuano che il
+
+[[Christianity|Cristianesimo]] fu adottato da un mondo incapace di criticarlo; mentre
+
+è evidente che fu adottato da un mondo stanco di criticare
+
+ogni cosa. L'errore vitale che si commette a proposito della [[French Revolution|Rivoluzione francese]]
+
+è semplicemente questo: che tutti ne parlano come dell'introduzione di una
+
+nuova idea. Non fu l'introduzione di una nuova idea; non vi sono nuove
+
+idee. O se vi sono nuove idee, non provocherebbero la minima
+
+irritazione se venissero introdotte nella società politica; perché il
+
+mondo, non essendovisi mai abituato, non offrirebbe alcuna massa di uomini pronti
+
+a battersi per esse da un momento all'altro. Ciò che era irritante nella
+
+[[French Revolution|Rivoluzione francese]] era questo: che non fu l'introduzione di un
+
+nuovo ideale, bensì l'attuazione pratica di uno antico. Fin dal [[Time|tempo]] delle
+
+prime fiabe gli uomini avevano sempre creduto idealmente nell'uguaglianza; avevano
+
+sempre pensato che qualcosa si dovesse fare, se qualcosa si poteva
+
+fare, per raddrizzare l'equilibrio tra Cenerentola e le sorelle brutte.
+
+La cosa irritante nei francesi non era che dicessero che ciò si doveva
+
+fare; lo dicevano tutti. La cosa irritante nei francesi
+
+era che lo fecero. Si proposero di tradurre in un disegno concreto
+
+ciò che era stato il sogno dell'umanità; e l'umanità, naturalmente,
+
+se ne indispettì. I re d'Europa non mossero guerra alla Rivoluzione
+
+perché fosse una bestemmia, ma perché era una massima da quaderno di scuola
+
+che era stata copiata fin troppo fedelmente. Era un luogo comune che essi avevano
+
+sempre sostenuto in teoria, messo inaspettatamente in pratica. I tiranni non
+
+odiavano la [[democracy|democrazia]] perché fosse un [[Paradox|paradosso]]; la odiavano perché
+
+era una lapalissiana verità che pareva correre il pericolo di avverarsi.
+
+Ora accade che sia enormemente importante avere questa giusta visione della
+
+Rivoluzione nel considerarne gli effetti politici sull'Inghilterra. Poiché gli
+
+inglesi, essendo un popolo profondamente e anzi eccessivamente romantico,
+
+non poterono mai accontentarsi appieno di questa qualità di fredda e nuda ovvietà
+
+della formula repubblicana. La formula repubblicana era soltanto
+
+questa: che lo Stato deve consistere dei suoi cittadini che governano in modo uguale,
+
+per quanto disugualmente possano fare ogni altra cosa. Nella loro qualità di
+
+membri dello Stato essi sono tutti egualmente interessati alla sua
+
+conservazione. Ma gli inglesi cominciarono presto a essere romanticamente inquieti
+
+riguardo a questa eterna lapalissiana verità; cercavano perpetuamente di mutarla in
+
+qualcos'altro, in qualcosa di più pittoresco: il progresso, forse, o
+
+l'anarchia. Alla fine la mutarono nel sistema politico oltremodo eccitante e oltremodo
+
+malfondato che fu noto come la Scuola di Manchester,
+
+e che fu espresso con una sorta di sventatezza logica, più
+
+scusabile in letteratura, dal signor Herbert Spencer. Naturalmente Danton o
+
+Washington o qualunque dei repubblicani delle origini avrebbe pensato che costoro
+
+fossero pazzi. Non avrebbero mai ammesso, neppure per un istante, che lo
+
+Stato non debba interferire con il commercio o la concorrenza; avrebbero soltanto
+
+insistito che, se lo Stato interferiva, doveva essere davvero lo
+
+Stato, cioè il popolo intero. Ma la distanza tra il buon
+
+senso di Danton e la mera estasi di Herbert Spencer segna il
+
+modo inglese di colorare e alterare l'idea rivoluzionaria. Il
+
+popolo inglese, in [[Body|corpo]], divenne cieco, come si suol dire, nell'interpretare la
+
+[[democracy|democrazia]] interamente in termini di libertà. Dissero in sostanza che se
+
+avessero avuto sempre più libertà, poco importava che avessero
+
+uguaglianza o fratellanza. Ma questo violava la sacra trinità della
+
+vera politica; confusero le persone e divisero la

@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/all-i-survey-(chesterton)">All I Survey</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/all_i_survey/chapter_36">‹ Chapter 36</a><a class="ex-next" href="/testi/chesterton/atomized/all_i_survey/chapter_38">Chapter 38 ›</a></div>
@@ -140,5 +142,143 @@ who mention [[King Arthur]] do not even call him [[King Arthur]].
 But I will reserve it for some dull and rainy afternoon,
 in some quiet isolated country [[house]], where there are dons
 who want something to play with.
+
+-*-
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/all-i-survey-(chesterton)">All I Survey</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/all_i_survey/chapter_36">‹ Chapter 36</a><a class="ex-next" href="/testi/chesterton/atomized/all_i_survey/chapter_38">Chapter 38 ›</a></div>
+</nav>
+
+XXXVII
+
+_Sulle lotterie e sul gioco d'azzardo_
+
+Il [[debate|dibattito]] sulla legalizzazione delle lotterie si spegne lentamente,
+come l'eco galoppante del Derby; e persino là dove
+prosegue, è piuttosto tipico dell'[[Time|epoca]] e del paese
+che esso si occupi più della legge che della [[logic|logica]].
+È chiaro che, in pratica, la nazione ha in gran parte abbandonato
+il sentimento puritano che stava dietro ad alcune delle sue leggi più antiche; ma si è
+trattato piuttosto di un mutamento di sentimento che di un mutamento di enunciato.
+Poche persone ricordano davvero quale fosse l'effettiva teoria etica
+che affibbiava a ogni scommessa il cattivo nome di gioco d'azzardo.  Ma ancor meno,
+immagino, saprebbero enunciare la propria nuova teoria etica a favore
+della scommessa, o distinguerla dal gioco d'azzardo che è davvero cattivo.
+Persino quando eravamo puritani non eravamo veri precisianti.
+In altre parole, l'Inghilterra, pur essendo rigorosa nella disciplina,
+non era davvero rigorosa nella dottrina.  Di certo, almeno,
+non era davvero rigorosa nella definizione.  Di conseguenza, io non
+so davvero quale fosse la teoria morale degli avversari
+della scommessa; e non credo che la conoscessero loro stessi.
+La mia [[morality|morale]], che non è mia, bensì quella dell'antica
+cultura morale della Cristianità, è naturalmente abbastanza semplice.
+Ho il diritto di scommettere ciò che ho il diritto di perdere.
+Se scelgo di sedermi sulla selvaggia riva del mare e di occupare l'intera
+vacanza a lanciare sassi nell'acqua, ho anche il diritto,
+se voglio, di variare la monotonia scagliando in mare
+il grosso spillo da cravatta di pietra di [[Moon|luna]] che è l'ornamento delle mie
+cravatte e l'ammirazione dei miei vicini, o di scaraventare
+tra le medesime onde la pesante spilla di quarzo affumicato lasciatami in eredità
+da mia zia Jemima; sempre supponendo che io possa fare quest'ultima cosa senza
+lacerare ingiustamente i sentimenti della zia Jemima, quaggiù o in cielo.
+Ho tanto diritto di gettare in mare i sassi più costosi
+quanto quelli più a buon mercato; purché sia solo a
+mie spese e non qualcosa che ecceda la mia lecita disponibilità;
+il che probabilmente si rivelerebbe essere a spese di qualcun altro.
+Fin qui, sono perfettamente giustificato nel buttar via
+il mio celebre spillo da cravatta o la spilla di mia zia per il mero piacere momentaneo
+di un [[Sublime|sublime]] gesto; per la soddisfazione di sentirmi
+come Policrate o come il grande Doge di [[Venice|Venezia]] che sposa il mare.
+È un puro lusso disfarsene, come è un puro lusso
+custodirli; li conservo solo per gioco, e li perdo
+solo per gioco.  Se un uomo è giustificato nel gettare una perla
+come un ciottolo nel mare di Margate, sapendo che non tornerà,
+è giustificato nel gettarla sul tavolo di Monte Carlo o
+nel puntarla su un [[Horse|cavallo]] ad Ascot:  con la possibilità che essa torni.
+Ma non è giustificato, per esempio, nel gettare il bambino
+in mare, sebbene a Margate molti abbiano provato la tentazione di farlo.
+Né è giustificato nel rischiare il latte del bambino o i soldi per
+i vestiti del bambino ad Ascot o a Monte Carlo; e nessuno negherà
+che molti abbiano fatto questo, e che ne sia venuto molto male.
+Ma il principio è quanto meno chiaro, e non presenta alcun problema
+a coloro che lo professano.
+
+Ho talvolta pensato che la [[philosophy|filosofia]] della scommessa presenti
+una certa somiglianza con qualcos'altro, che potrebbe chiamarsi
+la [[philosophy|filosofia]] della congettura.  Esiste, nel mondo letterario
+o intellettuale, un'operazione che è alquanto
+simile a quella dell'onesta scommessa nel mondo dello sport.
+Essa avviene specialmente nel caso della letteratura inglese; perché in
+Inghilterra accade tanto spesso che l'autore sia il dilettante.
+Accade anche, spesso, che il dilettante possa dare preziosi
+suggerimenti al professionista.  Ma tali suggerimenti dovrebbero sempre
+essere offerti in un certo spirito leggero e sportivo, non dissimile
+dalle congetture del giocatore di specie migliore.  L'[[Outsider|estraneo]]
+non dovrebbe conferire l'intero peso della sua parola o della sua reputazione
+a ipotesi che non saprebbe comprovare in ogni loro dettaglio.
+Se lo fa, tende a diventare il maniaco o addirittura il ciarlatano,
+quella terribile e spaventosa specie di dilettante che si mette a dimostrarti
+che Maria [[Queen|Stuarda]] di Scozia scrisse Shakespeare o che il nome di
+Lord Kitchener è inciso nelle misure della Grande Piramide.
+Ma ho spesso pensato che vi potesse essere un posto per l'intelligente
+congettura che ammette di essere congettura.  Vi potrebbe persino
+essere un posto per una teoria fantasiosa, se dichiaratamente fantasiosa.
+Confesso di aver patito molte cose per opera di quel genere d'uomo che nutre
+la teoria che Bacone scrisse Shakespeare, quando ci crede davvero.
+Ma mi sono grandemente divertito a elaborare una teoria secondo cui Shakespeare
+scrisse Bacone, perché non ci credevo minimamente.
+Nel corso del trasformarla in uno [[Sketch|schizzo]], che non era altro che
+una parodia, mi ritrovai a scoprire molto più di quanto sapessi
+prima sull'effettiva [[Truth|verità]] intorno all'epoca elisabettiana e giacobiana.
+Allo stesso modo, più di un uomo si è davvero messo in tasca denaro contante
+a Newmarket, o al Grand National, grazie a una scommessa fatta
+semplicemente per burla; e la mia tesi è che egli meritò la sua fortuna,
+purché l'avesse davvero fatta per burla.  Nel caso della [[history|storia]]
+e delle scienze affini, sarebbe possibile tracciare una ricca
+e lusinghiera analogia con l'ippodromo.  I dotti di [[Oxford]]
+e di Cambridge, i professori e gli storici di professione,
+che sono spesso, in effetti, degli allibratori, possono essere paragonati ai bookmaker.
+Il sogno o la fantasia lanciati dal mero dilettante letterario
+possono essere paragonati al [[Horse|cavallo]] insospettato nel box assai sconquassato del suo
+cervello leggero e irresponsabile.  Ma il [[Horse|cavallo]] insospettato gli offre sempre
+una bella corsa per i suoi soldi.  Ed esso è giustificato, purché
+non fugga via con tutti quanti i suoi soldi; vale a dire,
+con tutta quanta la sua seria reputazione e la sua pace dell'animo.
+Penso che dovrebbe esservi una categoria speciale di congetture spiritose e
+fantasiose; colpi alla cieca sparati alle possibilità della [[history|storia]];
+suggerimenti che dovrebbero soltanto suggerire, ma potrebbero essere davvero suggestivi.
+Essi formerebbero un terzo tipo di letteratura, tra la solenne
+ottusità delle accademie e la solenne follia dei maniaci.
+
+Per esempio, ebbi una volta l'idea di scrivere un [[Essay|saggio]],
+avanzando una supposizione su [[King Arthur|re Artù]].  Ora, io non sono minimamente
+qualificato per sostenere una tesi interamente seria e solida
+su [[King Arthur|re Artù]].  Un uomo dovrebbe davvero essere uno studioso e uno
+specialista eccezionale, in circa cinque diversi rami del sapere,
+prima di poter trattare a quel modo di [[King Arthur|re Artù]].
+Dovrebbe sapere tutto della leggenda e della letteratura celtica,
+gallese e cornica e di tutto il resto; dovrebbe avere
+una padronanza approfondita della decadenza e caduta dell'Impero Romano,
+delle sue carte e dei suoi metodi militari; dovrebbe essere immerso
+nella cavalleria francese e nel [[Romance|romanzo cavalleresco]] per separare gli elementi
+medievali da quelli più antichi; dovrebbe comprendere le vere
+origini cristiane e cattoliche, datare e distinguere fra
+il Biancospino di Glastonbury e il Graal; dovrebbe essere un asso
+nella strategia e un fuoriclasse nei toponimi. Io non sono nessuna di queste cose,
+eppure avevo un'ideuzza davvero graziosa su [[King Arthur|re Artù]].
+Essa offrirebbe un piacevole passatempo serale a una brigata
+di dotti, intenti a farla a pezzi.  E, per quanto ne so,
+qualcosa potrebbe venirne fuori; persino dalla sua confutazione.
+Non descriverò qui la teoria, se non dicendo che essa prendeva le mosse
+dal curioso fatto che i primi tre o quattro cronisti
+che menzionano [[King Arthur|re Artù]] non lo chiamano nemmeno [[King Arthur|re Artù]].
+Ma la riserberò per qualche pomeriggio uggioso e piovoso,
+in qualche quieta e isolata [[house|casa]] di campagna, dove vi siano dotti
+in cerca di qualcosa con cui trastullarsi.
 
 -*-

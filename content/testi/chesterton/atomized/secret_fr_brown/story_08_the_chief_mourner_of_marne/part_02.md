@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/secret-fr-brown-(chesterton)">secret Fr Brown</a> › <a href="/testi/chesterton/atomized/secret_fr_brown/story_08_the_chief_mourner_of_marne">Story 08 THE CHIEF MOURNER OF MARNE</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/secret_fr_brown/story_08_the_chief_mourner_of_marne/part_01">‹ part 01</a><a class="ex-next" href="/testi/chesterton/atomized/secret_fr_brown/story_08_the_chief_mourner_of_marne/part_03">part 03 ›</a></div>
@@ -124,3 +126,52 @@ had sent her card in, and stood there in his very path. And lie walked
 past her without a word or a glance, as if she had been a stone. He
 wasn't human; he was like some horrible automaton. She may [[Well|well]] call him
 a dead man."
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/secret-fr-brown-(chesterton)">secret Fr Brown</a> › <a href="/testi/chesterton/atomized/secret_fr_brown/story_08_the_chief_mourner_of_marne">Story 08 THE CHIEF MOURNER OF MARNE</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/secret_fr_brown/story_08_the_chief_mourner_of_marne/part_01">‹ part 01</a><a class="ex-next" href="/testi/chesterton/atomized/secret_fr_brown/story_08_the_chief_mourner_of_marne/part_03">part 03 ›</a></div>
+</nav>
+
+«La ragione», ella replicò, «è che non è affatto il Nobile che Nessuno Conosce. Io lo conosco di persona, o almeno lo conoscevo assai [[Well|bene]] quando, trent'anni fa, era addetto d'ambasciata a Washington, ed eravamo tutti giovani. E non portava alcuna maschera; con me, almeno, non la portava. Non era un lebbroso, per quanto fosse forse quasi altrettanto solo. E aveva una sola testa e un solo cuore, e quel cuore era spezzato».
+
+«Una sventurata storia d'[[Love|amore]], si capisce», disse Cockspur. «Farebbe proprio al caso mio, per il Comet».
+
+«Suppongo sia un complimento per noi donne», ella replicò pensierosa, «che voi diate sempre per scontato che a spezzare il cuore d'un uomo sia una donna. Ma vi sono altre specie d'[[Love|amore]] e di lutto. Non avete mai letto 'In Memoriam'? Non avete mai sentito parlare di Davide e Gionata? Ciò che distrusse il povero Marne fu la [[Death|morte]] del fratello; o meglio, era in realtà un cugino di primo grado, ma era stato cresciuto con lui come un fratello, ed era assai più vicino a lui di quanto lo siano la maggior parte dei fratelli. James Mair, come si chiamava il marchese quando io lo conoscevo, era il maggiore dei due, ma recitò sempre la parte dell'adoratore, con Maurice Mair come suo dio. E, a sentir lui, Maurice Mair era davvero un [[Wonder|prodigio]]. James non era uno [[Fool|sciocco]], ed eccelleva nel suo mestiere politico; ma pare che Maurice sapesse fare quello e ogni altra cosa: che fosse un brillante [[artist|artista]], un attore dilettante, un musicista, e tutto il resto. James era assai bello lui stesso, alto, forte e vigoroso, dal naso arcuato e importante; per quanto immagino che i giovani d'oggi lo troverebbero assai bizzarro, con la barba divisa in due folte basette secondo la moda di quei tempi vittoriani. Ma Maurice era del tutto sbarbato e, a giudicare dai ritratti che mi furono mostrati, indubbiamente assai bello; benché somigliasse un poco più a un tenore di quanto a un gentiluomo si convenga. James mi domandava di continuo, e senza posa, se il suo amico non fosse una meraviglia, se qualunque donna non se ne sarebbe [[Love|innamorata]], e via dicendo, sino a diventare piuttosto tedioso, se non fosse che tutto si mutò così di colpo in [[Tragedy|tragedia]]. La sua intera vita pareva racchiusa in quell'idolatria, e un bel giorno l'idolo rovinò a terra e si spezzò come una qualunque bambola di porcellana. Un colpo di freddo preso al mare, ed era tutto finito».
+
+«E dopo di ciò», domandò il giovane, «si rinchiuse così com'è ora?»
+
+«Dapprima se ne andò all'estero», ella rispose; «via, verso l'Asia e le isole dei cannibali e Dio sa dove. Questi colpi mortali prendono le diverse persone in diversi modi. A lui vennero nella forma d'un distacco assoluto, d'una recisione da ogni cosa, persino dalla tradizione e, per quanto gli era possibile, dalla [[Memory|memoria]]. Non poteva sopportare un accenno all'antico legame; un ritratto, un aneddoto, o anche solo un'associazione d'idee. Non poteva sopportare l'incombenza d'un grande funerale pubblico. Non desiderava che fuggire. Rimase lontano per dieci anni. Sentii dire per certe voci che aveva cominciato a rianimarsi un poco verso la fine dell'[[Exile|esilio]]; ma quando fece ritorno alla propria [[Home|casa]] ricadde del tutto. Sprofondò in una malinconia religiosa, e quella è praticamente [[Madness|follia]]».
+
+«I preti se lo son presi, dicono», borbottò il vecchio generale. «So che elargì migliaia di sterline per fondare un monastero, e vive lui stesso quasi come un monaco, o comunque come un eremita. Non riesco a capire quale bene credano che ciò possa fare».
+
+«Maledetta superstizione», sbuffò Cockspur; «faccende del genere andrebbero smascherate. Ecco un uomo che avrebbe potuto essere utile all'Impero e al mondo, e questi vampiri se lo prendono e lo succhiano fino a prosciugarlo. Scommetto che con le loro innaturali idee non gli hanno neppure permesso di sposarsi».
+
+«No, non si è mai sposato», disse la signora. «Era fidanzato quando lo conoscevo, per la verità, ma non credo che quel legame venisse mai al primo posto per lui, e credo che se ne andasse insieme a tutto il resto quando ogni cosa se ne andò. Come [[Hamlet|Amleto]] e [[Ophelia|Ofelia]]: perse la presa sull'[[Love|amore]] perché perse la presa sulla vita. Ma io conoscevo la fanciulla; anzi, la conosco ancora. Detto tra noi, era [[Viola]] Grayson, figlia del vecchio ammiraglio. Neppure lei si è mai sposata».
+
+«È infame! È infernale!» gridò Sir John, balzando in piedi. «Non è soltanto una [[Tragedy|tragedia]], ma un delitto. Ho un dovere verso il pubblico, e intendo far luce su tutto questo insensato [[nightmare|incubo]]. Nel ventesimo secolo...»
+
+Restò quasi soffocato dalla propria protesta, e poi, dopo un [[Silence|silenzio]], il vecchio soldato disse:
+
+«[[Well|Ebbene]], non pretendo di sapere gran che di simili cose, ma penso che questa gente di chiesa dovrebbe meditare un versetto che dice: 'Lascia che i morti seppelliscano i loro morti'».
+
+«Solo che, purtroppo, è proprio a questo che somiglia», disse sua moglie con un sospiro. «È proprio come una di quelle storie da brivido d'un morto che seppellisce un altro morto, ancora e ancora, per sempre».
+
+«La [[Storm|tempesta]] è passata sopra di noi», disse Romaine, con un sorriso piuttosto imperscrutabile. «Dopotutto non dovrete far visita a quella [[house|casa]] inospitale».
+
+Ella d'un tratto rabbrividì.
+
+«Oh, non lo farò mai più!» esclamò.
+
+Mallow la fissava.
+
+«Mai più! L'avete dunque già tentato?» gridò.
+
+«[[Well|Ebbene]], una volta lo feci», disse, con una leggerezza non priva d'un tocco d'[[Pride|orgoglio]]; «ma non c'è bisogno di tornare su tutto questo. Ora non piove più, ma penso che faremmo meglio a rientrare verso l'automobile».
+
+Mentre si allontanavano in processione, Mallow e il generale chiudevano la fila; e quest'ultimo disse d'un tratto, abbassando la voce:
+
+«Non voglio che quel piccolo villano di Cockspur senta, ma poiché avete domandato è meglio che sappiate. È l'unica cosa che non posso perdonare a Marne; ma suppongo che questi [[Monks|monaci]] lo abbiano addestrato a quel modo. Mia moglie, che era stata la miglior amica ch'egli avesse mai avuto in [[america|America]], si recò davvero a quella [[house|casa]] mentre lui passeggiava nel [[Garden|giardino]]. Egli guardava a terra come un monaco, nascosto in un cappuccio nero ridicolo quanto qualunque maschera. Ella aveva fatto passare il proprio biglietto da visita, e stava ritta là, proprio sul suo cammino. E lui le passò accanto senza una parola né uno sguardo, come se fosse stata una pietra. Non era umano; era come un orribile automa. Ben può ella chiamarlo [[Well|davvero]] un uomo morto».

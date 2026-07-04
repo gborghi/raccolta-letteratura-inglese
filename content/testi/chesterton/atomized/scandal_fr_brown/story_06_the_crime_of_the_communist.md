@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/scandal-fr-brown-(chesterton)">scandal Fr Brown</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/scandal_fr_brown/story_05_the_pursuit_of_mr_blue">‹ Story 05 The Pursuit of Mr Blue</a><a class="ex-next" href="/testi/chesterton/atomized/scandal_fr_brown/story_07_the_gardens_had_been_tended_so_carefully">Story 07 The gardens had been tended so carefully ›</a></div>
@@ -31,3 +33,29 @@ bowed, or almost crouched, over the cosier chambers of Humanism and the
 Revival of Learning - though they themselves were in modern clothes
 (that is in clothes whose ugliness would have amazed any of the four
 centuries) yet something in the spirit of the place made them all at
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/scandal-fr-brown-(chesterton)">scandal Fr Brown</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/scandal_fr_brown/story_05_the_pursuit_of_mr_blue">‹ Story 05 The Pursuit of Mr Blue</a><a class="ex-next" href="/testi/chesterton/atomized/scandal_fr_brown/story_07_the_gardens_had_been_tended_so_carefully">Story 07 The gardens had been tended so carefully ›</a></div>
+</nav>
+
+SEI: Il delitto del comunista
+
+Tre uomini uscirono di sotto il basso arco Tudor nella morbida facciata del
+Mandeville College, dentro la forte luce serale di una giornata d'[[Summer|estate]]
+che pareva non dovesse finire mai; e in quella luce videro qualcosa che folgorò
+come un [[Lightning|fulmine]]; [[Well|ben]] atto a essere lo shock della loro vita.
+
+Ancora prima d'aver còlto alcunché che somigliasse a una catastrofe, ebbero
+coscienza di un contrasto. Essi medesimi, in una loro curiosa e quieta maniera,
+s'accordavano perfettamente con ciò che li circondava. Sebbene gli archi Tudor
+che correvano come un chiostro intorno ai giardini del College fossero stati
+eretti quattrocento anni addietro, in quell'istante in cui il Gotico cadde dal
+cielo e s'inchinò, o quasi si rannicchiò, sopra le più accoglienti stanze
+dell'Umanesimo e della Rinascita degli studi — sebbene essi stessi vestissero
+abiti moderni (vale a dire abiti la cui bruttezza avrebbe stupito qualunque dei
+quattro secoli), pure qualcosa nello spirito del luogo li rendeva tutti a

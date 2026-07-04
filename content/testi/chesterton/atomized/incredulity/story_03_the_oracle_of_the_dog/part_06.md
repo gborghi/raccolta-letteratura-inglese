@@ -155,7 +155,7 @@ than you can understand.
 
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/works/incredulity-(chesterton)">Incredulity</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/incredulity-(chesterton)">Incredulity</a> › <a href="/testi/chesterton/atomized/incredulity/story_03_the_oracle_of_the_dog">Story 03 The Oracle of the Dog</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/incredulity/story_03_the_oracle_of_the_dog/part_05">‹ part 05</a><a class="ex-next" href="/testi/chesterton/atomized/incredulity/story_03_the_oracle_of_the_dog/part_07">part 07 ›</a></div>
 </nav>
 

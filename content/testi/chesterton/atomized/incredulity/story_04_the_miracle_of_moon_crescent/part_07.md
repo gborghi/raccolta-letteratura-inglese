@@ -136,7 +136,7 @@ to be the first to sign.'
 
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/works/incredulity-(chesterton)">Incredulity</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/incredulity-(chesterton)">Incredulity</a> › <a href="/testi/chesterton/atomized/incredulity/story_04_the_miracle_of_moon_crescent">Story 04 The Miracle of Moon Crescent</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/incredulity/story_04_the_miracle_of_moon_crescent/part_06">‹ part 06</a><a class="ex-next" href="/testi/chesterton/atomized/incredulity/story_04_the_miracle_of_moon_crescent/part_08">part 08 ›</a></div>
 </nav>
 

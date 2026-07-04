@@ -606,6 +606,10 @@ to be cloistered and ignorant of this world.
 <div class="excerpt-crumb">Chesterton · <a href="/works/innocence-(chesterton)">The Innocence of Father Brown</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/innocence/story_03_the_queer_feet">‹ Story 03 The Queer Feet</a><a class="ex-next" href="/testi/chesterton/atomized/innocence/story_05_the_invisible_man">Story 05 The Invisible Man ›</a></div>
 </nav>
+<nav class="excerpt-children">
+<div class="excerpt-children-label">In questa sezione</div>
+<ul><li><a href="/testi/chesterton/atomized/innocence/story_04_the_flying_stars/part_01">Part 1</a></li><li><a href="/testi/chesterton/atomized/innocence/story_04_the_flying_stars/part_02">Part 2</a></li><li><a href="/testi/chesterton/atomized/innocence/story_04_the_flying_stars/part_03">Part 3</a></li><li><a href="/testi/chesterton/atomized/innocence/story_04_the_flying_stars/part_04">Part 4</a></li><li><a href="/testi/chesterton/atomized/innocence/story_04_the_flying_stars/part_05">Part 5</a></li></ul>
+</nav>
 
 # [[innocence]] — Le [[Stars|stelle]] volanti
 

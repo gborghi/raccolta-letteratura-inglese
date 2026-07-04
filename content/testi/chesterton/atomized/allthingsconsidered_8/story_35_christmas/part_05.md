@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/allthingsconsidered-8-(chesterton)">AllThingsConsidered 8</a> › <a href="/testi/chesterton/atomized/allthingsconsidered_8/story_35_christmas">Story 35 CHRISTMAS</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/allthingsconsidered_8/story_35_christmas/part_04">‹ part 04</a><a class="ex-next" href="/testi/chesterton/atomized/allthingsconsidered_8/story_35_christmas/part_06">part 06 ›</a></div>
@@ -121,3 +123,120 @@ that arise directly or indirectly from any of the following which you do
 or cause to occur: (a) distribution of this or any Project Gutenberg-tm
 work, (b) alteration, modification, or additions or deletions to any
 Project Gutenberg-tm work, and (c) any Defect you cause.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/allthingsconsidered-8-(chesterton)">AllThingsConsidered 8</a> › <a href="/testi/chesterton/atomized/allthingsconsidered_8/story_35_christmas">Story 35 CHRISTMAS</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/allthingsconsidered_8/story_35_christmas/part_04">‹ part 04</a><a class="ex-next" href="/testi/chesterton/atomized/allthingsconsidered_8/story_35_christmas/part_06">part 06 ›</a></div>
+</nav>
+
+1.E.7. Non fate pagare una tariffa per l'accesso a, la visualizzazione, l'esibizione,
+l'esecuzione, la copia o la distribuzione di qualsiasi opera Project Gutenberg-tm
+a meno che non vi conformiate al paragrafo 1.E.8 o 1.E.9.
+
+1.E.8. Potete far pagare una ragionevole tariffa per le copie di, o per fornire
+accesso a, o per distribuire opere elettroniche Project Gutenberg-tm a condizione
+che
+
+- Voi paghiate un diritto d'autore del 20% degli utili lordi che ricavate dall'
+     uso di opere Project Gutenberg-tm calcolati usando il metodo
+     che già usate per calcolare le imposte a voi applicabili. Il diritto è
+     dovuto al proprietario del marchio Project Gutenberg-tm, ma egli
+     ha accettato di donare i diritti d'autore ai sensi di questo paragrafo alla
+     Project Gutenberg Literary Archive Foundation. I pagamenti dei diritti
+     devono essere effettuati entro 60 giorni successivi a ciascuna data in cui
+     preparate (o siete legalmente tenuti a preparare) le vostre dichiarazioni
+     fiscali periodiche. I pagamenti dei diritti dovrebbero essere chiaramente contrassegnati come tali e
+     inviati alla Project Gutenberg Literary Archive Foundation all'
+     indirizzo specificato nella Sezione 4, «Informazioni sulle donazioni alla
+     Project Gutenberg Literary Archive Foundation».
+
+- Voi forniate un rimborso completo di qualsiasi somma pagata da un utente che vi notifichi
+     per iscritto (o via e-mail) entro 30 giorni dal ricevimento che egli/ella
+     non accetta i termini della Licenza completa Project Gutenberg-tm.
+     Dovete richiedere a un tale utente di restituire o
+     distruggere tutte le copie delle opere possedute in un supporto fisico
+     e di cessare ogni uso e ogni accesso alle altre copie di
+     opere Project Gutenberg-tm.
+
+- Voi forniate, in accordo con il paragrafo 1.F.3, un rimborso completo di qualsiasi
+     somma pagata per un'opera o una copia sostitutiva, se un difetto nell'
+     opera elettronica viene scoperto e segnalato a voi entro 90 giorni
+     dal ricevimento dell'opera.
+
+- Voi vi conformiate a tutti gli altri termini di questo accordo per la libera
+     distribuzione di opere Project Gutenberg-tm.
+
+1.E.9. Se desiderate far pagare una tariffa o distribuire un'opera elettronica
+Project Gutenberg-tm o un gruppo di opere a termini diversi da quelli
+esposti in questo accordo, dovete ottenere il permesso per iscritto sia
+dalla Project Gutenberg Literary Archive Foundation sia da [[Michael]]
+Hart, il proprietario del marchio Project Gutenberg-tm. Contattate la
+Fondazione come esposto nella Sezione 3 qui sotto.
+
+1.F.
+
+1.F.1. I volontari e i dipendenti del Project Gutenberg impiegano considerevole
+sforzo per identificare, fare ricerche sul copyright, trascrivere e correggere le bozze delle
+opere di pubblico dominio nel creare la collezione Project Gutenberg-tm.
+Nonostante questi sforzi, le opere elettroniche Project Gutenberg-tm,
+e il supporto sul quale possono essere conservate, possono contenere
+«Difetti», quali, ma non limitati a, dati incompleti, inaccurati o
+corrotti, errori di trascrizione, una violazione di copyright o altra proprietà
+intellettuale, un disco o altro supporto difettoso o danneggiato, un
+virus informatico, o codici informatici che danneggino o non possano essere letti dalla
+vostra apparecchiatura.
+
+1.F.2. GARANZIA LIMITATA, ESCLUSIONE DI DANNI - Salvo il «Diritto
+di Sostituzione o Rimborso» descritto nel paragrafo 1.F.3, la Project
+Gutenberg Literary Archive Foundation, il proprietario del marchio Project
+Gutenberg-tm, e qualsiasi altra parte che distribuisca un'opera elettronica Project
+Gutenberg-tm ai sensi di questo accordo, declinano ogni
+responsabilità verso di voi per danni, costi e spese, incluse le spese
+legali. VOI ACCETTATE CHE NON AVETE ALCUN RIMEDIO PER NEGLIGENZA, RESPONSABILITÀ
+OGGETTIVA, VIOLAZIONE DI GARANZIA O VIOLAZIONE DI CONTRATTO SALVO QUELLI
+PREVISTI NEL PARAGRAFO F3. VOI ACCETTATE CHE LA FONDAZIONE, IL
+PROPRIETARIO DEL MARCHIO, E QUALSIASI DISTRIBUTORE AI SENSI DI QUESTO ACCORDO NON SARANNO
+RESPONSABILI VERSO DI VOI PER DANNI EFFETTIVI, DIRETTI, INDIRETTI, CONSEQUENZIALI, PUNITIVI O
+INCIDENTALI ANCHE SE AVETE DATO AVVISO DELLA POSSIBILITÀ DI TALE
+DANNO.
+
+1.F.3. DIRITTO LIMITATO DI SOSTITUZIONE O RIMBORSO - Se scoprite un
+difetto in questa opera elettronica entro 90 giorni dal riceverla, potete
+ricevere un rimborso della somma (se vi è) che avete pagato per essa inviando una
+spiegazione scritta alla persona da cui avete ricevuto l'opera. Se
+avete ricevuto l'opera su un supporto fisico, dovete restituire il supporto con
+la vostra spiegazione scritta. La persona o l'ente che vi ha fornito l'
+opera difettosa può scegliere di fornire una copia sostitutiva in luogo di un
+rimborso. Se avete ricevuto l'opera elettronicamente, la persona o l'ente
+che ve la fornisce può scegliere di darvi una seconda opportunità di
+ricevere l'opera elettronicamente in luogo di un rimborso. Se la seconda copia
+è anch'essa difettosa, potete pretendere un rimborso per iscritto senza ulteriori
+opportunità di risolvere il problema.
+
+1.F.4. Salvo il diritto limitato di sostituzione o rimborso esposto
+nel paragrafo 1.F.3, quest'opera vi è fornita «COSÌ COM'È», SENZA ALTRA
+GARANZIA DI ALCUN GENERE, ESPRESSA O IMPLICITA, INCLUSE MA NON LIMITATE A
+GARANZIE DI COMMERCIABILITÀ O IDONEITÀ A UNO SCOPO QUALSIASI.
+
+1.F.5. Alcuni stati non consentono esclusioni di certe garanzie
+implicite o l'esclusione o la limitazione di certi tipi di danni.
+Se una qualsiasi esclusione o limitazione esposta in questo accordo viola la
+legge dello stato applicabile a questo accordo, l'accordo sarà
+interpretato in modo da attuare la massima esclusione o limitazione consentita dalla
+legge statale applicabile. L'invalidità o l'inapplicabilità di qualsiasi
+disposizione di questo accordo non annullerà le disposizioni restanti.
+
+1.F.6. INDENNIZZO - Voi accettate di indennizzare e di manlevare la Fondazione, il
+proprietario del marchio, qualsiasi agente o dipendente della Fondazione, chiunque
+fornisca copie di opere elettroniche Project Gutenberg-tm in accordo
+con questo accordo, e qualsiasi volontario associato alla produzione,
+promozione e distribuzione di opere elettroniche Project Gutenberg-tm,
+da ogni responsabilità, costo e spesa, incluse le spese legali,
+che sorgano direttamente o indirettamente da uno qualsiasi dei seguenti fatti che voi
+compiate o causiate: (a) distribuzione di questa o di qualsiasi opera Project Gutenberg-tm,
+(b) alterazione, modifica, o aggiunte o cancellazioni a qualsiasi
+opera Project Gutenberg-tm, e (c) qualsiasi Difetto da voi causato.

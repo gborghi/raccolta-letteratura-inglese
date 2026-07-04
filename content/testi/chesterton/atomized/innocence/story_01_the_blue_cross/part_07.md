@@ -115,7 +115,7 @@ priest blinked about for his umbrella.
 
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/works/innocence-(chesterton)">The Innocence of Father Brown</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/innocence-(chesterton)">The Innocence of Father Brown</a> › <a href="/testi/chesterton/atomized/innocence/story_01_the_blue_cross">Story 01 The Blue Cross</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/innocence/story_01_the_blue_cross/part_06">‹ part 06</a><a class="ex-next" href="/testi/chesterton/atomized/innocence/story_02_the_secret_garden/part_01">part 01 ›</a></div>
 </nav>
 

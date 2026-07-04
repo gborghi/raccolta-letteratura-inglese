@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/all-i-survey-(chesterton)">All I Survey</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/all_i_survey/chapter_33">‹ Chapter 33</a><a class="ex-next" href="/testi/chesterton/atomized/all_i_survey/chapter_35">Chapter 35 ›</a></div>
@@ -145,5 +147,39 @@ There was the whole assumption that anything done by a State Department
 would be perfect and that Supervisors are Supermen.  That was once
 our [[nightmare]]; but flogging it was flogging a dead [[Horse|horse]], or at least
 a dying [[Horse|horse]], and I rather repent of my inhumanity.
+
+-*-
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/all-i-survey-(chesterton)">All I Survey</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/all_i_survey/chapter_33">‹ Chapter 33</a><a class="ex-next" href="/testi/chesterton/atomized/all_i_survey/chapter_35">Chapter 35 ›</a></div>
+</nav>
+
+XXXIV
+
+_Sui mostri_
+
+LESSI in un giornale illustrato — di quelli che scintillano di notizie scientifiche — che era stato trovato in mare un pesce dal sangue verde; anzi, una creatura interamente verde, fino a questo [[Uncanny|inquietante]] icore che le scorreva nelle vene, e per giunta assai grande e velenosa. Chissà perché non riuscivo a togliermela dalla testa, giacché la didascalia mi suggeriva un ritornello perfetto per una Ballata: È stato trovato in mare un pesce dal sangue verde. Ha un'applicazione critica e filosofica così vasta. Ne ho conosciuti tanti, di pesci dal sangue verde, sulla terraferma, che passeggiavano per le strade e sedevano nei circoli, e soprattutto nei comitati. Tanti pesci dal sangue verde hanno scritto libri e critiche di libri, hanno insegnato nelle accademie del sapere e fondato scuole di [[philosophy|filosofia]], al punto da essersi fatti quasi il tipico prodotto biologico dell'attuale stadio dell'evoluzione. Non c'è mai un [[debate|dibattito]] alla [[house|Camera]] dei Comuni, specie a proposito di [[Eugenics|Eugenetica]] o dell'Amputazione Coatta dei Poveri, senza che parecchi pesci dal sangue verde si rizzino sulla coda a parlare. Non c'è mai una petizione, o una lettera alla stampa, che perori la trasformazione delle taverne in sale da tè o musei locali, senza un'intera filza di pesci dal sangue verde appesi alla sua coda, e pesci ben puzzolenti per giunta. Ma per qualche ragione il motivo di questa Ballata inesistente mi ronzava di continuo per il capo, e in qualche modo volgeva i miei pensieri verso i mostri velenosi in generale; verso tutti quei draghi e semidraghi e creature divoratrici che compaiono nelle storie primitive come i principali nemici dell'uomo. Si è supposto che queste leggende alludano in realtà a un'epoca in cui l'uomo preistorico dovette lottare contro enormi [[Animals|animali]] estintisi da allora. E allora mi venne un pensiero: supponiamo che gli eroi primitivi li abbiano uccisi proprio mentre si stavano estinguendo. Voglio dire, supponiamo che si sarebbero estinti comunque, anche se l'Uomo delle [[Cave|Caverne]] se ne fosse rimasto comodamente seduto nella sua [[Cave|caverna]] senza darsi la pena di ucciderli.
+
+Supponiamo che Perseo abbia mutato in roccia il [[Monster|mostro]] marino proprio nell'istante in cui questo era già [[Well|bene]] avviato a diventare un fossile. Supponiamo che San Giorgio sia arrivato non solo appena prima della [[Death|morte]] della Principessa, ma appena prima della [[Death|morte]] del Drago. Supponiamo che abbia fatto irruzione, per così dire con scarso tatto, sul letto di morte del drago, e lo abbia finito con la lancia solo dopo che il medico dei draghi aveva compiuto il lavoro vero con la lancetta. Insomma: è possibile che gli eroi si sarebbero risparmiati la fatica di combattere, se solo avessero tastato il polso o preso la temperatura al morente nemico del genere umano? Il drago è sempre raffigurato con le fauci spalancate, che saettano fuori una lingua biforcuta e fiammeggiante. Ma forse la sta solo tirando fuori per farsela esaminare dal suo medico personale. Forse tutti i mostri, quando compaiono nel [[Song|canto]] e nella storia, versavano in cattive acque, fisicamente [[Well|tanto]] quanto moralmente. Ora che ci penso, questo potrebbe spiegare il pesce dal sangue verde che fu trovato in mare. Forse non è una specie, ma una malattia. Forse il pesce dal sangue verde [[Suffering|soffriva]], se non proprio di anemia, almeno di qualche sottile forma di chloraemia pisciana, o come si chiamerà questo oscuro malanno quando sarà scoperto. Suppongo che un pesce in mare potrebbe difficilmente diventar verde per il mal di mare. E in ogni caso, ci sono teorici della biologia anche sulla terraferma che di recente hanno cominciato ad apparire piuttosto sospetti.
+
+La fantasia potrebbe introdurre molte varianti nelle fiabe. Esse raccontano sempre come la caverna del [[Monster|mostro]] o del gigante sia circondata dalle ossa di migliaia di vittime. Possiamo immaginare l'[[Hero|eroe]] che le conta con cura e fa calcoli sullo stadio d'indigestione a cui un qualsiasi [[Monster|mostro]] dev'essere giunto dopo un simile pasto. Nel reparto speciale dei Giganti c'è una storia su Jack l'Ammazzagiganti e un budino frettoloso, che il Gigante quantomeno divorò. Non so che cosa sia un budino frettoloso, ma arguisco che in questo caso il pasto fu alquanto frettoloso. Tutto ciò non poteva far bene alla salute dei Giganti come classe. E Dickens, che aveva conosciuto parecchi Giganti, quali compaiono nei baracconi ambulanti, attesta la loro delicata costituzione. Ma ammetto che, mentre il mio subconscio divagante correva su questo tema antico, cominciavo a pensare alla sua applicazione moderna. Talvolta mi [[Wonder|domando]] se valga la pena di assalire ogni [[Monster|mostro]] dell'anarchia e dell'assurdità moderne non appena esso compare nel regno del pensiero, o se non finirebbero per uccidersi da soli anche se non venissero uccisi. Talvolta sembrano uccidersi quasi troppo in fretta perché li si possa uccidere. Alcuni che ricordo di aver combattuto per mesi sono ormai morti da anni. Ricordo giganti della blasfemia o della [[philosophy|filosofia]] barbarica; giganti così giganteschi da sembrare capaci non solo di oscurare la terra, ma di sbarrare il cielo. Sfidavano il mondo come Golia, e tutti venivano ammoniti a non raccoglierne la sfida, alla vista di tutte le ossa sparse attorno alle loro caverne. Ma ora sono le loro stesse ossa a essere sparpagliate, e nemmeno uno straccivendolo si chinerà a raccoglierle.
+
+Per esempio, c'era Haeckel e il duro, concreto Materialismo dei suoi giorni. Per anni interi riempii la mia vita combattendo il signor Blatchford e altri a tal proposito, additando le fallacie, per non dire le falsità, di Haeckel. E dov'è ora? Il signor Blatchford ha dimenticato tutto di Haeckel, e così tutti gli altri. I nuovi uomini di scienza lo hanno completamente ripudiato. Ma ricordo quando ogni nuovo uomo di scienza, e specialmente della nuova scienza della sociologia o dell'[[Eugenics|eugenetica]] (è stato trovato in mare un pesce dal sangue verde), lo accoglieva come il fondatore di una nuova religione. E quando il signor Belloc scrisse l'invio di un'altra Ballata —
+
+    Principe, se incontri su un omnibus
+    Un uomo che fa gran pompa
+    Del Dottor Haeckel, ragiona così:
+    Il [[Wind|vento]] li ha spazzati tutti via —
+
+suonava davvero come un'audacia o una temeraria profezia. Mentre ora suona come un truismo, perché si è avverato.
+
+Poi c'era Lombroso, e tutta la ciarlataneria che si chiamava Criminologia. Ricordo quando il nome di Lombroso era come il nome di Newton o di Faraday; ma ora non lo vedo citato spesso, meno che mai tra gli uomini di scienza. È a gloria imperitura del signor H. G. Wells che persino a quei tempi, benché schierato dal lato materialista in molte questioni, egli protestò contro il prematuro dogmatismo dei saccenti che parlavano del «cranio del criminale» o dell'«orecchio del criminale», e che chiamavano i giovani e i seri a estirpare le tendenze criminali ereditarie mediante selezione o segregazione (è stato trovato in mare un pesce dal sangue verde). Valeva la pena di argomentare contro la grande Scienza della Criminologia nel tardo Ottocento? Il drago sarebbe morto di [[Death|morte]] naturale, ammesso che qualcosa in lui potesse essere naturale.
+
+Potrei addurre un numero qualsiasi di altri casi; di altre controversie con cose che credevo dominanti e che in realtà stavano morendo; che in realtà sono morte. C'era la proposta che le persone troppo povere per intentare cause per diffamazione fossero iscritte in una Lista Nera come mascalzoni troppo amanti della birra (è stato trovato in mare un pesce dal sangue verde); c'era l'assurda teoria secondo cui l'essere troppo amanti della birra è ereditario, e la proposta (avanzata dal pesce) che al bevitore di birra fossero proibiti i figli. C'era l'intero assunto che qualunque cosa fatta da un Dicastero Statale sarebbe stata perfetta e che i Sovrintendenti sono Superuomini. Quello un tempo era il nostro [[nightmare|incubo]]; ma flagellarlo era flagellare un [[Horse|cavallo]] morto, o almeno un [[Horse|cavallo]] morente, e quasi mi pento della mia disumanità.
 
 -*-

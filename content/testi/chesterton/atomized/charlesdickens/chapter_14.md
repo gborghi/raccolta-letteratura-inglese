@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/charlesdickens-(chesterton)">CharlesDickens</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/charlesdickens/chapter_13">‹ Chapter 13</a><a class="ex-next" href="/testi/chesterton/atomized/charlesdickens/chapter_15">Chapter 15 ›</a></div>
@@ -537,3 +539,536 @@ that it is wild and utterly unexplained.  Its merit is precisely
 that none of us could have conceived such a thing, that we
 should have rejected the bare idea of it as miracle and unreason.
 It is the best of all impossible worlds.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/charlesdickens-(chesterton)">CharlesDickens</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/charlesdickens/chapter_13">‹ Chapter 13</a><a class="ex-next" href="/testi/chesterton/atomized/charlesdickens/chapter_15">Chapter 15 ›</a></div>
+</nav>
+<nav class="excerpt-children">
+<div class="excerpt-children-label">In questa sezione</div>
+<ul><li><a href="/testi/chesterton/atomized/charlesdickens/chapter_14/part_01">Part 1</a></li><li><a href="/testi/chesterton/atomized/charlesdickens/chapter_14/part_02">Part 2</a></li><li><a href="/testi/chesterton/atomized/charlesdickens/chapter_14/part_03">Part 3</a></li><li><a href="/testi/chesterton/atomized/charlesdickens/chapter_14/part_04">Part 4</a></li></ul>
+</nav>
+
+CAPITOLO XI
+
+DEL PRESUNTO OTTIMISMO DI DICKENS
+
+In una delle commedie del periodo decadente, un intellettuale esprimeva
+l'atmosfera della sua epoca alludendo a Dickens come a «un volgare ottimista».
+In un capitolo precedente ho accennato a qualcosa della reale
+stranezza di una simile espressione. In fondo, il principale motivo di stupore
+(o piuttosto di ammirazione) è che l'ottimismo possa essere volgare.
+In un mondo nel quale la sofferenza fisica è quasi la sorte comune,
+ci lamentiamo davvero che la felicità sia troppo comune. In un mondo
+nel quale la maggioranza è fisicamente miserabile, ci lamentiamo davvero
+della monotonia della lode; siamo annoiati dall'abbondanza dell'approvazione.
+Quando consideriamo quali siano realmente le condizioni del volgo,
+è difficile immaginare un tributo più strano o più splendido
+all'umanità di una frase come volgare ottimismo.
+È come se si parlasse di «volgare [[Martyrdom|martirio]]» o di «comune crocifissione».
+
+Prima di tutto, però, sia detto francamente che c'è un fondamento
+per l'accusa mossa a Dickens, quella implicita nella frase sul
+volgare ottimismo. Essa non riguarda la fiducia di Dickens
+nel valore dell'esistenza e nell'intrinseca vittoria della virtù;
+questo non è ottimismo, ma religione. Non riguarda la sua
+abitudine di rendere luminose le occasioni luminose, e felici le storie felici;
+questo non è ottimismo, ma letteratura. E non riguarda neppure il suo
+peculiare genio nel descrivere una giovialità quasi gonfia e traboccante;
+questo non è ottimismo, è semplicemente Dickens. Di tutte queste più alte
+variazioni dell'ottimismo tratto altrove. Ma al di sopra e al di là
+di tutte queste, c'è un senso reale in cui Dickens si espose
+all'accusa di volgare ottimismo, e [[Desire|desidero]] premettere
+questa ammissione, prima della discussione che segue.
+Dickens aveva davvero la disposizione a rendere i suoi personaggi a ogni costo
+felici, o, per dire più esattamente, aveva la disposizione a renderli
+comodi piuttosto che felici. Aveva una sorta di ospitalità letteraria;
+troppo spesso trattava i suoi personaggi come se fossero suoi ospiti.
+Da un padrone di casa ci si aspetta sempre, e ci si deve sempre aspettare
+finché la civiltà umana è sana, una benevolenza strettamente fisica,
+se volete, una specie di rozza benevolenza. Il cibo e il [[Fire|fuoco]] e simili
+cose dovrebbero sempre essere i simboli dell'uomo che accoglie gli uomini;
+perché sono cose che tutti gli uomini, senza dubbio, hanno in comune.
+Ma qualcosa di più di questo si richiede da un uomo che immagina
+e crea uomini, l'[[Artist|artista]], l'uomo che non riceve uomini,
+ma piuttosto li manda per il mondo.
+
+Come osserverò tra un momento a proposito dei malvagi di Dickens,
+non è vero che rendesse ognuno così a proprio [[Home|agio]].
+Ma lo fece con una certa larga classe di personaggi disparati,
+lo fece con tutti coloro che fossero stati in qualche modo sventurati.
+Ciò aveva avuto la sua origine (un'origine bellissima) nella sua
+consapevolezza di quanto un piccolo piacere fosse tutto, per gente simile.
+Sapeva [[Well|bene]] che la più grande felicità che si sia conosciuta dai tempi
+dell'Eden è la felicità degli infelici. In questo è ammirevole.
+E finché descriveva l'estasi dei poveri,
+la terra di confine tra il [[Pain|dolore]] e il piacere, era al suo massimo.
+Nulla di ciò che sia mai stato scritto sui piaceri umani,
+nessun Paradiso Terrestre, nessuna Utopia si è mai avvicinato tanto al nervo
+vivo della felicità quanto le sue descrizioni delle rare stravaganze
+dei poveri; una descrizione mirabile, per esempio,
+come quella di [[Kit Nubbles]] che porta la famiglia a teatro.
+Perché egli coglie la vera fonte dell'intero piacere: un santo [[Fear|timore]].
+Kit dice al cameriere di portare la birra. E il cameriere,
+invece di dire: «Sarebbe a me che rivolgete codesto linguaggio?»,
+disse: «Un boccale di birra, signore; subito, signore». Quell'interna e tremante
+[[Humility|umiltà]] di Kit è l'unico modo di godersi la vita o i banchetti;
+e il [[Fear|timore]] del cameriere è il principio del pranzare.
+Chi si trova in questo stato d'animo «prende i propri piaceri con tristezza»;
+il che è l'unico modo di prenderli davvero.
+
+Fin qui Dickens ha supremamente ragione. Finché ebbe a che fare
+con tale penuria e tale festa, il suo tocco era quasi
+invariabilmente sicuro. Ma quando venne a casi più difficili,
+a persone che per una ragione o per l'altra non potevano essere guarite con
+una sola buona cena, sviluppò quest'altro male, questo genuinamente
+volgare ottimismo di cui parlo. E il suo segno è questo:
+che dava ai personaggi un conforto che non aveva alcuna speciale
+connessione con loro stessi; scagliava loro il conforto come un'elemosina.
+Vi sono casi, alla fine delle sue storie, in cui la sua gentilezza
+verso i personaggi è una gentilezza sbadata e insolente.
+Egli perde la sua vera [[Charity|carità]] e adotta la [[Charity|carità]] della
+Società per l'Organizzazione della [[Charity]]; la [[Charity|carità]] che non è benigna,
+la [[Charity|carità]] che si gonfia e che si comporta in modo sconveniente.
+Alla fine di alcune delle sue storie, distribuisce ai suoi personaggi
+una specie di assistenza a domicilio.
+
+Darò due esempi. L'intero significato del personaggio
+del signor Micawber è che un uomo può essere sempre quasi ricco aspettandosi
+costantemente la ricchezza. La lezione è davvero importante nella nostra travolgente
+sociologia moderna. Parliamo dell'uomo la cui vita è un fallimento;
+ma la vita di Micawber non è mai un fallimento, perché è sempre una crisi.
+Pensiamo di continuo all'uomo che, se guardasse indietro, vedrebbe che
+la sua esistenza è stata un insuccesso; ma Micawber non guarda mai indietro;
+guarda sempre avanti, perché l'ufficiale giudiziario arriva domani.
+Non si può dire che sia sconfitto, perché la sua assurda battaglia non finisce mai;
+non può [[Despair|disperare]] della vita, perché è troppo occupato a viverla.
+Tutto ciò è di immensa importanza nella comprensione dei poveri;
+vale più di tutti i romanzieri dei bassifondi che abbiano mai insultato la [[democracy|democrazia]].
+Ma come accadde che l'uomo che creò questo Micawber
+potesse mandarlo in pensione alla fine della storia e farne
+un fortunato sindaco coloniale? Micawber non ebbe mai successo,
+né mai dovrebbe averne; il suo regno non è di questo mondo.
+Ma questo è un eccellente esempio della disposizione di Dickens
+a rendere i suoi personaggi grossolanamente e incongruamente comodi.
+C'è un altro esempio nello stesso libro. Dora, la prima moglie
+di [[David Copperfield]], è una figura assai genuina e divertente; ha
+certamente ben più forza di carattere di Agnes. Essa rappresenta
+l'infinita e divina irrazionalità del cuore umano.
+Cosa mai spinse Dickens a farne una tale pedante disumanizzata
+da raccomandare al marito di sposare un'altra donna?
+Si potrebbe facilmente rispettare un marito che dopo il [[Time|tempo]] e l'evoluzione
+contraesse un simile [[Marriage|matrimonio]], ma certo non una moglie che lo desiderasse.
+Se Dora fosse morta odiando Agnes, sapremmo che tutto
+era giusto, e che Dio riconcilierebbe l'inconciliabile.
+Quando Dora muore raccomandando Agnes, sappiamo che tutto è sbagliato,
+almeno se l'ipocrisia, l'artificiosità e la volgarità morale sono sbagliate.
+Anche qui Dickens cede a un mero [[Desire|desiderio]] di dare conforto.
+Vuole ammucchiare cuscini attorno a Dora; e la soffoca
+con essi, come [[Othello]].
+
+Questo è il vero volgare ottimismo di Dickens: esiste davvero; e l'ho
+deliberatamente messo per primo. Ammettiamo che la mente di Dickens fosse fin
+troppo colma di immagini di soddisfazione, di agio e di riposo.
+Ammettiamo che pensasse principalmente ai piaceri delle
+classi oppresse; ammettiamo che non gli costasse quasi alcuno spasimo
+artistico raffigurare gli esseri umani assai più felici di quanto siano.
+Ammettiamo tutto questo, e resta un fatto curioso.
+
+Poiché fu proprio questo Dickens troppo facilmente appagato, quest'uomo con cuscini
+alle spalle e (talvolta pare) bambagia nelle orecchie;
+fu proprio questo felice sognatore, questo volgare ottimista che [[Alone|solo]]
+fra gli scrittori moderni davvero distrusse alcuni dei torti
+che odiava e attuò alcune delle riforme che desiderava.
+Dickens contribuì davvero ad abbattere le prigioni per debitori; e se fu
+troppo ottimista, fu comunque abbastanza distruttore.
+Dickens cacciò davvero Squeers dal suo covo nello Yorkshire;
+e se Dickens era troppo appagato, lo era più di quanto lo fosse Squeers.
+Dickens lasciò davvero il suo segno sul parrocchialismo, sulla cura degli infermi,
+sui funerali, sulle esecuzioni pubbliche, sugli ospizi dei poveri, sulla [[Court|Corte]]
+di Cancelleria. Queste cose furono mutate; sono diverse.
+Può darsi che tali riforme non siano rimedi adeguati;
+ma questa è tutt'altra questione. I sociologi futuri
+potranno giudicare queste vecchie riforme radicali assai anguste o accidentali.
+Ma quali che fossero, i vecchi radicali le portarono a compimento;
+e i nuovi sociologi non riescono a portare a compimento nulla.
+E nel loro pratico compimento Dickens ebbe una parte solida e del tutto
+dimostrabile; questa è la cosa evidente che qui ci riguarda.
+Se Dickens era un ottimista, era un tipo di ottimista straordinariamente attivo
+e utile. Se Dickens era un sentimentale, era
+un sentimentale assai pratico.
+
+E la ragione di ciò è una che affonda in profondità nella [[Reform|riforma]] sociale di Dickens,
+e, come ogni altra cosa reale e desiderabile, implica una specie
+di contraddizione mistica. Se vogliamo salvare l'oppresso, dobbiamo
+avere in noi due emozioni apparentemente antagoniste nello stesso [[Time|tempo]].
+Dobbiamo pensare l'uomo oppresso intensamente miserabile, e nello stesso [[Time|tempo]]
+intensamente attraente e importante. Dobbiamo insistere con violenza sulla
+sua degradazione; dobbiamo insistere con la stessa violenza sulla sua dignità.
+Poiché se allentiamo di un pollice la prima asserzione, gli uomini diranno che egli non
+ha bisogno di essere salvato. E se allentiamo di un pollice l'altra asserzione,
+gli uomini diranno che non vale la pena di salvarlo. Gli ottimisti diranno che la [[Reform|riforma]]
+è inutile. I pessimisti diranno che la [[Reform|riforma]] è senza speranza.
+Dobbiamo applicare entrambe simultaneamente allo stesso uomo oppresso;
+dobbiamo dire che è un verme e un dio; e dobbiamo così esporci
+all'accusa (o al complimento) di trascendentalismo.
+Questo è, in verità, l'argomento più forte a favore della concezione
+religiosa della vita. Se la dignità dell'uomo è una dignità terrena, saremo
+tentati di negare la sua degradazione terrena. Se è una dignità
+celeste, possiamo ammettere la degradazione terrena con tutto il candore
+di Zola. Se siamo idealisti riguardo all'altro mondo, possiamo
+essere realisti riguardo a questo mondo. Ma non è questo il punto.
+Ciò che è del tutto evidente è che, se una lode logica del povero
+viene spinta troppo oltre, e se un logico affanno per lui viene spinto troppo oltre,
+l'una o l'altro comporteranno la rovina del [[Paradox|paradosso]] centrale della [[Reform|riforma]].
+Se il povero è reso troppo ammirevole, cessa di essere pietoso;
+se il povero è reso troppo pietoso, diventa semplicemente spregevole.
+C'è una scuola di compiaciuti ottimisti che negheranno ch'egli sia un povero.
+C'è una scuola di scientifici pessimisti che negheranno ch'egli sia un uomo.
+
+Da questa perenne contraddizione nasce il fatto che vi
+sono sempre due tipi di riformatore. Il primo possiamo chiamarlo per
+comodità il pessimista, il secondo l'ottimista. L'uno si sofferma
+sul fatto che delle anime vanno perdute; l'altro si sofferma
+sul fatto che vale la pena di salvarle. Entrambi, naturalmente, hanno (per
+quanto concerne questo punto) del tutto ragione, ma tendono naturalmente a una
+differenza di metodo, e talvolta a una differenza di percezione.
+Il riformatore pessimista addita gli elementi buoni che l'oppressione
+ha distrutto; il riformatore ottimista, con gioia ancor più feroce,
+addita gli elementi buoni che essa non ha distrutto.
+È la tesi del primo riformatore che la [[Slavery|schiavitù]] abbia reso gli uomini servili.
+È la tesi del secondo riformatore che la [[Slavery|schiavitù]] non abbia reso
+gli uomini servili. Il primo descrive quanto malvagi siano gli uomini in cattive condizioni.
+Il secondo descrive quanto buoni siano gli uomini in cattive condizioni.
+Della prima classe di scrittori, per esempio, è Gorky. Della seconda
+classe di scrittori è Dickens.
+
+Ma qui dobbiamo registrare un fatto reale e alquanto sorprendente.
+Contro ogni apparente probabilità, è certamente vero
+che il riformatore ottimista riforma assai più compiutamente
+del riformatore pessimista. Gli uomini producono cambiamenti violenti
+essendo appagati, essendo fin troppo appagati. L'uomo che disse
+che «le rivoluzioni non si fanno con l'[[Water|acqua]] di [[Rose|rose]]» era evidentemente
+inesperto delle pratiche faccende umane. Uomini come Rousseau
+e Shelley fanno le rivoluzioni, e le fanno con l'[[Water|acqua]] di [[Rose|rose]];
+cioè con una visione troppo rosea e sentimentale della bontà umana.
+Le figure che vengono prima e creano convulsioni e mutamenti
+(per esempio, la figura centrale del Nuovo Testamento)
+hanno sempre l'aria di camminare in una dolcezza e una calma innaturali.
+Ci danno alla fine la loro pace nel [[Blood|sangue]] e nella battaglia e nella divisione;
+non come la dà il mondo essi la danno a noi.
+
+Né la vera ragione del trionfo del riformatore troppo appagato è
+particolarmente difficile da definire. Egli trionfa perché mantiene
+viva nell'[[Soul|anima]] umana un'invincibile certezza che la cosa vale
+la pena di essere fatta, che la guerra vale la pena di essere vinta, che il popolo vale
+la sua liberazione. Ricordo che il signor William Archer,
+qualche [[Time|tempo]] fa, pubblicò in una delle sue interessanti serie di interviste,
+un'intervista al signor Thomas Hardy. Quel potente scrittore veniva
+presentato mentre diceva, nel corso della conversazione, che in
+quel particolare momento non voleva definire la propria opinione riguardo
+all'ultimo problema, se cioè la vita stessa valesse la pena di essere vissuta.
+Vi sono, egli diceva, centinaia di mali rimediabili in questo mondo.
+Quando avremo rimediato a tutti questi (tale era il suo argomento), sarà
+[[Time|tempo]] a sufficienza di chiedersi se l'esistenza stessa, nelle sue migliori
+condizioni possibili, sia preziosa o desiderabile. Qui ci viene presentata, con un
+notevole elemento di quello che si può solo chiamare inconsapevole [[Humour|umorismo]],
+la semplice ragione del fallimento del pessimista come riformatore.
+Il signor Hardy ci chiede, non dirò di comprare un gatto nel sacco;
+ci chiede di comprare il sacco sulla remota possibilità che ci
+sia un gatto dentro. Quando per alcuni frenetici secoli ci
+saremo torturati per salvare l'umanità, sarà allora «[[Time|tempo]] a sufficienza»
+di discutere se essa possa in qualche modo essere salvata. Quando, nel caso
+della [[Mortality|mortalità]] infantile, per esempio, ci saremo sfiniti
+con gli sforzi capaci di scuotere la terra necessari a salvare la vita di ogni
+singolo bambino, sarà allora [[Time|tempo]] a sufficienza di considerare se ogni
+singolo bambino non sarebbe stato più felice da morto. Dovremmo spostare
+le [[Mountains|montagne]] e portare il millennio, perché allora potremo avere un tranquillo
+momento per discutere se il millennio sia poi affatto desiderabile.
+Qui abbiamo il livello di bassa [[Water|marea]] dell'impotenza del triste riformatore.
+E qui abbiamo la ragione del paradossale trionfo di quello felice.
+Il suo trionfo è un trionfo religioso; riposa sulla sua perpetua asserzione
+del valore dell'[[Soul|anima]] umana e della quotidiana vita umana. Riposa
+sulla sua asserzione che la vita umana è godibile perché è umana.
+Ed egli non ammetterà mai, come tanti compassionevoli pessimisti,
+che la vita umana cessi mai di essere umana. Egli non si limita a
+compatire la bassezza degli uomini; sente un'offesa alla loro elevazione.
+La bruta pietà dovrebbe essere data soltanto ai bruti. La crudeltà verso gli [[Animals|animali]] è crudeltà
+e cosa vile; ma la crudeltà verso un uomo non è crudeltà, è tradimento.
+La tirannia su un uomo non è tirannia, è ribellione, poiché l'uomo è regale.
+Ora, la debolezza pratica dell'immensa massa della moderna pietà per
+i poveri e gli oppressi è precisamente che è mera pietà;
+la pietà è pietosa, ma non rispettosa. Gli uomini sentono che la crudeltà
+verso i poveri è una specie di crudeltà verso gli [[Animals|animali]]. Non sentono mai
+che è ingiustizia verso degli eguali; anzi, è tradimento verso dei compagni.
+Questa cupa pietà scientifica, questa brutale pietà, ha una sua elementare
+sincerità; ma è del tutto inutile per ogni fine di [[Reform|riforma]] sociale.
+La [[democracy|democrazia]] spazzò l'Europa con la sciabola quando fu fondata sui
+Diritti dell'Uomo. Non ha fatto letteralmente più nulla da quando è
+stata fondata soltanto sui torti dell'uomo. O, più esattamente
+parlando, il suo recente fallimento è dovuto al suo non ammettere
+l'esistenza di alcun diritto, o torto, né in verità di alcuna umanità.
+L'evoluzione (la sinistra nemica della rivoluzione) non nega in particolare
+l'esistenza di Dio; ciò che nega è l'esistenza dell'uomo.
+E tutta la [[Despair|disperazione]] riguardo ai poveri, e la fredda e ripugnante
+pietà per loro, è stata in gran parte dovuta al vago senso che essi
+siano letteralmente ricaduti nello stato degli [[Animals|animali]] inferiori.
+
+Uno scrittore abbastanza tipico del recente rivoluzionismo — Gorky — ha intitolato
+uno dei suoi libri con l'inquietante ed efficace titolo «Creature
+che un tempo furono Uomini». Quel titolo spiega l'intero fallimento
+della rivoluzione russa. E la ragione per cui gli scrittori inglesi,
+come Dickens, riuscirono con tutti i loro limiti a realizzare tante
+delle cose effettive cui miravano fu che non avrebbero
+mai potuto porre un simile titolo su un libro umano. Dickens aiutò davvero
+gli sventurati nelle cose cui si dedicava.
+E la ragione è che attraverso tutti i suoi libri e schizzi sugli
+sventurati si potrebbe scrivere il comune titolo: «Creature che
+sono Ancora Uomini».
+
+Esiste dunque davvero questo strano riformatore ottimista;
+l'uomo la cui opera comincia con l'approvazione e finisce con il terremoto.
+Gesù [[Christ|Cristo]] era destinato a fondare una [[Faith|fede]] che rese i ricchi
+più poveri e i poveri più ricchi; ma anche quando stava per
+arricchirli, cominciò con la frase: «Beati i poveri».
+I Gissing e i Gorky dicono, come universale motto letterario,
+«Maledetti i poveri». Fra un milione di persone che hanno debolmente seguito
+[[Christ|Cristo]] in questa divina contraddizione, Dickens spicca in modo particolare.
+Egli diceva, in tutte le sue dichiarazioni riformatrici: «Curate la [[Poverty|povertà]]»;
+ma diceva, in tutte le sue effettive descrizioni: «Beati i poveri».
+Descriveva la loro felicità, e gli uomini si precipitavano a rimuovere
+il loro dolore. Li descriveva come umani, e gli uomini si sdegnavano
+degli insulti alla loro umanità. Non è difficile
+capire perché, come ho detto in una fase precedente di questo libro,
+le denunce di Dickens abbiano avuto un effetto tanto più pratico
+delle denunce di un uomo come Gissing. Entrambi convenivano
+che le anime del popolo fossero in una specie di [[Prison|prigione]].
+Ma Gissing diceva che la [[Prison|prigione]] era piena di anime morte.
+Dickens diceva che la [[Prison|prigione]] era piena di anime vive.
+E l'infuocata cavalcata dei soccorritori sentì che non
+era giunta troppo tardi.
+
+Su questo fatto generale riguardo alle descrizioni della [[Poverty|povertà]] di Dickens
+non vi sarà, suppongo, alcuna seria contesa.
+La contesa riguarderà soltanto la [[Truth|verità]] di quelle descrizioni.
+È chiaro che, laddove Gissing direbbe: «Guardate come la loro [[Poverty|povertà]]
+deprime gli Smith o i Brown», Dickens dice: «Guardate quanto poco,
+in fondo, la loro [[Poverty|povertà]] possa deprimere i Cratchit». Nessuno
+negherà che dei poveri egli fece un tratto speciale. Verremo
+tra un momento alla discussione della veridicità di queste scene.
+Qui basta registrare, a conclusione del nostro
+esame dell'ottimista riformatore, che Dickens fu certamente
+un simile ottimista, e che si fece un dovere di insistere
+su quanta felicità vi sia nelle vite degli infelici.
+Il suo povero è sempre un [[Mark Tapley]], un uomo l'ottimismo del cui
+spirito cresce semmai con il pessimismo della sua esperienza.
+Si può anche registrare come fatto egualmente solido e del tutto egualmente
+dimostrabile che questo Dickens ottimista attuò davvero grandi riforme.
+
+Le riforme di cui Dickens fu strumento erano, in verità, dal punto
+di vista delle nostre travolgenti panacee sociali, speciali e limitate.
+Ma forse, proprio per questa ragione, offrono un compatto e
+concreto esempio del [[Paradox|paradosso]] psicologico di cui parliamo.
+Dickens distrusse davvero — o quantomeno contribuì a distruggere —
+certe istituzioni; le distrusse semplicemente
+descrivendole. Ma il nodo e la peculiarità dell'intera faccenda
+è questa, che, in un certo senso, si può davvero dire che egli descrisse
+queste cose troppo ottimisticamente. In un senso reale, egli descrisse
+la Dotheboys Hall come un luogo migliore di quel che è. In un senso reale,
+egli fece dell'ospizio dei poveri un luogo più gradevole di quanto possa mai essere.
+Poiché la gloria principale di Dickens è che rese questi luoghi interessanti;
+e la principale infamia dell'Inghilterra è che ha reso questi luoghi tetri.
+La tetraggine era la cosa che il genio di Dickens non riuscì mai
+a descrivere; la sua vitalità era così violenta che non poteva introdurre
+nei suoi libri l'impressione genuina neppure di un momento di monotonia.
+Se vi è in qualche punto dei suoi romanzi un istante di [[Silence|silenzio]],
+udiamo solo più chiaramente l'[[Hero|eroe]] che bisbiglia con l'eroina,
+il [[Villain|malvagio]] che affila il pugnale, o lo scricchiolio del macchinario
+che deve far scendere il dio dalla [[Machine|macchina]]. Egli sapeva descrivere
+splendidamente i luoghi tetri, ma non i luoghi squallidi.
+Sapeva descrivere matrimoni infelici, ma non matrimoni monotoni.
+Dev'essere stato genuinamente divertente essere sposati con
+il signor Quilp. Questo senso di un'eccitazione ancora incessante egli lo stende su
+ogni pollice della sua storia, e su ogni oscura distesa del suo paesaggio.
+La sua idea di luogo desolato è un luogo dove tutto può accadere,
+non ha alcuna idea di quel luogo desolato dove nulla può accadere.
+Questa è una buona cosa per la sua [[Soul|anima]], perché il luogo dove nulla
+può accadere è l'inferno. Ma tuttavia, si potrebbe ragionevolmente sostenere,
+dalla mentalità moderna, ch'egli sia ostacolato nel descrivere il male e il dolore
+umani da questa incapacità di immaginare il tedio, da questa tetraggine
+in materia di tetraggine. Poiché, in fondo, è certamente vero
+che la parte peggiore della sorte dello sventurato è il fatto ch'egli
+ha lunghi spazi in cui riesaminare l'irrevocabilità della propria condanna.
+È certamente vero che i giorni peggiori dell'uomo oppresso sono
+i nove giorni su dieci in cui non è oppresso. Questo senso
+di nausea e di monotonia Dickens certamente mancò, o rifiutò, di dare.
+Quando leggiamo una descrizione così eccellente — nei dettagli —
+come quella della Dotheboys Hall, sentiamo che, mentre tutto il resto è accurato,
+l'autore, con le parole dell'eccellente Capitano Nares
+nel «Wrecker» di Stevenson, «dipinge lo squallore piuttosto blando».
+I ragazzi di Dotheboys erano, forse, meno malmenati, ma erano
+certamente più annoiati. Poiché, in verità, come potrebbe qualcuno annoiarsi con
+la compagnia di una creatura tanto sontuosa quanto il signor Squeers? Chi non
+sopporterebbe qualche frustata illogica pur di godersi
+la conversazione di un uomo capace di dire: «Un tipo bizzarro è
+la Natura... La Natura si concepisce più facilmente di quanto si descriva».
+Lo stesso principio si applica all'ospizio dei poveri in «[[Oliver Twist]]». Sentiamo
+vagamente che né [[Oliver]] né alcun altro potrebbe essere del tutto infelice
+alla presenza della purpurea personalità del signor Bumble. L'unica
+cosa ch'egli non descrisse, in nessuno degli abusi che denunciò, fu
+la potenza distruttrice dell'[[Soul|anima]] della routine. Egli fece della cattiva scuola,
+del cattivo sistema parrocchiale, della cattiva [[Prison|prigione]] per debitori qualcosa di ben più
+allegro ed eccitante di quanto in realtà possano essere stati.
+In un certo senso, dunque, li adulò; ma li distrusse con
+l'adulazione. Rendendo la signora Gamp deliziosa, la rese impossibile.
+Diede a tutti un interesse nell'esistenza del signor Bumble;
+e con lo stesso atto diede a tutti un interesse nella sua distruzione.
+Sarebbe difficile trovare un esempio più forte dell'utilità
+e dell'energia del metodo che abbiamo, per amor di discussione,
+chiamato il metodo del riformatore ottimista. Finché le basse scuole
+dello Yorkshire furono del tutto incolori e squallide, continuarono a essere quietamente
+tollerate dal pubblico e quietamente intollerabili alle vittime.
+Finché Squeers fu tanto tetro [[Well|quanto]] crudele, fu permesso;
+nel momento in cui divenne tanto divertente [[Well|quanto]] crudele, fu distrutto.
+Finché Bumble fu semplicemente disumano, fu tollerato.
+Quando divenne umano, l'umanità lo spazzò via del tutto. Poiché, per
+compiere questi grandi atti di giustizia, dobbiamo sempre comprendere non solo
+l'umanità dell'oppresso, ma perfino l'umanità dell'oppressore.
+Il satirico dovette, in un certo senso, creare le immagini nella mente prima
+di poterle distruggere, da iconoclasta. Dickens dovette far
+vivere Squeers prima di poterlo far morire.
+
+In connessione con l'accusa di volgare ottimismo, che ho
+preso come testo per questo capitolo, c'è un'altra cosa alquanto
+strana da notare. Nessuno al mondo fu mai meno ottimista
+di Dickens nel suo trattamento del male o dell'uomo malvagio.
+Quando dico ottimista in questa faccenda intendo l'ottimismo, nel
+senso moderno, di un tentativo di imbiancare il male. Nessuno mai
+fece minor tentativo di imbiancare il male di quanto fece Dickens. Nessun nero
+fu mai meno bianco del nero di Dickens. Egli dipinse i suoi
+malvagi e i suoi personaggi perduti più neri di quanto siano in realtà.
+Affolla le sue storie con una specie di [[Villain|malvagio]] rara nella narrativa moderna —
+il [[Villain|malvagio]] davvero privo di ogni «punto che lo riscatti». Non c'è alcun
+punto che riscatti Squeers, o [[Monks]], o [[Ralph Nickleby]],
+o [[Bill Sikes]], o Quilp, o Brass, o il signor Chester,
+o il signor Pecksniff, o [[Jonas Chuzzlewit]], o Carker,
+o [[Uriah Heep]], o Blandois, o un centinaio d'altri.
+Per quanto concerne l'equilibrio tra bene e male nei caratteri umani,
+Dickens certamente non potrebbe essere chiamato
+un volgare ottimista. La sua enfasi sul male era melodrammatica.
+Lo si potrebbe chiamare un volgare pessimista.
+
+Alcuni liquideranno questa lurida malvagità come un dettaglio del suo
+artificioso [[Romance|romanzesco]]. Io non sono incline a farlo. Egli ereditò,
+senza dubbio, questo [[Villain|malvagio]] assoluto come ereditò tante
+altre cose, dall'intera [[history|storia]] della letteratura europea.
+Ma egli infuse nel furfante una peculiare e vigorosa vita
+tutta sua. Non mostrò alcuna tendenza a modificare la sua furfanteria
+in accordo con la crescente riguardosità dell'epoca;
+non pareva desiderare di rendere il suo [[Villain|malvagio]] meno malvagio;
+non desiderava imitare l'analisi di George Eliot,
+o il reverente scetticismo di Thackeray. E tutto ciò
+risale, io credo, a una cosa reale in lui, ch'egli desiderava
+avere un nemico turbolento e incalcolabile.
+Egli desiderava mantener viva l'idea del combattimento, il che significa,
+di necessità, un combattimento contro qualcosa di individuale e di vivo.
+Non so se, nel benevolo razionalismo della sua epoca,
+serbasse nella sua teologia qualche fede in un diavolo personale,
+ma egli creò certamente un diavolo personale in ognuno dei suoi libri.
+
+Un buon esempio di ciò che intendo si può trovare, per esempio,
+in un personaggio come Quilp. Dickens può, per quanto ne so,
+aver avuto in origine qualche idea di descrivere Quilp come lo storpio
+amaro e infelice, una deformità la cui mente è atrofizzata insieme
+al [[Body|corpo]]. Ma se ebbe una simile idea, presto l'abbandonò.
+Quilp non è affatto infelice. Tutta la sua pittoresca vivacità consiste
+nel fatto che ha una specie di infernale felicità, un'atroce
+ilarità che lo fa saltellare in giro come una palla di gomma.
+Quilp non è affatto amaro; ha una gaiezza schietta,
+un'espansività, un'universalità. Desidera far male alla gente
+nello stesso cordiale modo in cui un uomo di buon cuore desidera aiutarla.
+Gli piace [[Poison|avvelenare]] la gente con la stessa specie di clamorosa
+cameratesca con cui un uomo onesto ama offrirle da bere.
+Quilp non è affatto atrofizzato nella mente; non è in realtà
+neppure atrofizzato nel [[Body|corpo]] — il suo [[Body|corpo]], cioè, non è in alcun modo
+inferiore a ciò ch'egli vuole che faccia. La sua piccolezza gli dà
+piuttosto la prontezza di un uccello o la precipitazione di una pallottola.
+In una parola, Quilp è precisamente il diavolo del Medioevo;
+appartiene a quell'epoca stupefacentemente sana in cui perfino gli spiriti
+perduti erano ilari.
+
+Questa cordialità e vivacità nei malvagi di Dickens è degna di nota
+perché è direttamente connessa con la sua stessa allegria. Questa è
+una [[Truth|verità]] poco compresa ai nostri [[Time|tempi]], ma è assai essenziale.
+Se ottimismo significa un'approvazione generale, è certamente vero che quanto
+più un uomo diventa ottimista, tanto più diventa un uomo [[Melancholy|malinconico]].
+Se riesce a lodare ogni cosa, la sua lode svilupperà un'allarmante
+somiglianza con una cortese noia. Dirà che la palude è buona
+quanto il [[Garden|giardino]]; vorrà dire che il [[Garden|giardino]] è tetro quanto la palude.
+Potrà sforzarsi di dire che il vuoto è buono, ma difficilmente
+si impedirà di chiedersi che cosa mai vi sia di buono in un tal bene.
+Questo ottimismo esiste davvero — questo ottimismo che è più disperato
+del pessimismo — questo ottimismo che è il cuore stesso dell'inferno.
+
+Contro un simile straziante vuoto di approvazione priva di gioia c'è un solo
+antidoto: una improvvisa e combattiva fede nel male positivo.
+Questo mondo può essere reso di nuovo bello se lo si contempla come un [[Battlefield|campo di battaglia]].
+Quando abbiamo definito e isolato la cosa malvagia, i colori tornano
+in tutto il resto. Quando le cose malvagie sono divenute malvagie,
+le cose buone, in una fiammeggiante [[Apocalypse|apocalisse]], divengono buone. Vi sono alcuni
+uomini tetri perché non credono in Dio; ma ve ne sono
+molti altri tetri perché non credono nel diavolo.
+L'erba torna a farsi verde quando crediamo nel diavolo, le rose
+tornano a farsi rosse quando crediamo nel diavolo.
+
+Nessun uomo fu più colmo del senso di questa bellicosa base di ogni
+allegria di quanto lo fu Dickens. Sapeva assai [[Well|bene]] l'essenziale [[Truth|verità]],
+che il vero ottimista può continuare a essere ottimista soltanto finché
+è scontento. Poiché il pieno valore di questa vita si può
+ottenere soltanto combattendo; i violenti la prendono d'[[Storm|assalto]]. E se abbiamo
+accettato ogni cosa, abbiamo mancato qualcosa: la guerra. Questa vita
+nostra è una lotta assai godibile, ma una tregua assai miserabile.
+E mi pare strano che così pochi critici di Dickens o di
+altri scrittori romantici abbiano notato questo significato filosofico
+nel [[Villain|malvagio]] non diluito. Il [[Villain|malvagio]] non è nella storia per essere
+un carattere; è lì per essere un pericolo — una minaccia incessante, spietata
+e senza compromessi, come quella delle belve o del mare.
+Per la piena soddisfazione del senso del combattimento, che ovunque
+e sempre implica un senso di uguaglianza, è necessario rendere
+la cosa malvagia un uomo; ma non è sempre necessario, non è
+neppure sempre artistico, renderlo un uomo composito e verosimile.
+In ogni racconto il cui tono sia in qualche modo simbolico, egli può ben
+legittimamente essere reso un'energia primordiale e infernale.
+Egli dev'essere un uomo solo nel senso che deve avere uno spirito e una volontà
+da contrapporre allo spirito e alla volontà dell'uomo che combatte principalmente.
+Il male può essere disumano, ma non dev'essere impersonale, il che è quasi
+esattamente la posizione occupata da [[Satan|Satana]] nello schema teologico.
+
+Ma tutto sommato, come ho osservato prima, la principale sorgente
+in Dickens di ciò che ho chiamato allegria, e che alcuni preferiscono
+chiamare ottimismo, è qualcosa di più profondo di una [[philosophy|filosofia]] verbale.
+È, in fondo, un'incomparabile fame e piacere per la vitalità
+e la varietà, per l'infinita eccentricità dell'esistenza.
+E questa parola «eccentricità» ci porta, forse, più vicino
+alla questione di qualsiasi altra. È, forse, il più forte
+segno della divinità dell'uomo ch'egli parli di questo mondo come di «uno
+strano mondo», benché non ne abbia visto alcun altro. Sentiamo che tutto
+ciò che c'è è eccentrico, benché non sappiamo quale sia il centro.
+Questo sentimento della grottesca stranezza dell'universo scorreva attraverso
+il cervello e il [[Body|corpo]] di Dickens come il folle [[Blood|sangue]] degli elfi.
+Egli vedeva tutte le sue strade in fantastiche prospettive, vedeva tutte
+le sue villette borghesi come sbilenche e selvagge, vedeva il naso di ogni uomo
+grande il doppio di quanto fosse, e gli occhi di ogni uomo come piattini.
+E questa era la base della sua gaiezza — l'unica reale base
+di ogni gaiezza filosofica. Questo mondo non va
+giustificato come lo giustificano gli ottimisti meccanici;
+non va giustificato come il migliore di tutti i mondi possibili.
+Il suo merito non è di essere ordinato e spiegabile; il suo merito è
+di essere selvaggio e del tutto inspiegato. Il suo merito è precisamente
+che nessuno di noi avrebbe potuto concepire una cosa simile, che
+avremmo respinto la semplice idea di esso come miracolo e assurdità.
+È il migliore di tutti i mondi impossibili.

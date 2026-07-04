@@ -135,7 +135,7 @@ There was a short [[Silence|silence]], and then [[Father Brown]] said suddenly;
 
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/works/incredulity-(chesterton)">Incredulity</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/incredulity-(chesterton)">Incredulity</a> › <a href="/testi/chesterton/atomized/incredulity/story_03_the_oracle_of_the_dog">Story 03 The Oracle of the Dog</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/incredulity/story_03_the_oracle_of_the_dog/part_02">‹ part 02</a><a class="ex-next" href="/testi/chesterton/atomized/incredulity/story_03_the_oracle_of_the_dog/part_04">part 04 ›</a></div>
 </nav>
 

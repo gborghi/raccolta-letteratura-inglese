@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/scandal-fr-brown-(chesterton)">scandal Fr Brown</a> › <a href="/testi/chesterton/atomized/scandal_fr_brown/story_02_the_quick_one">Story 02 The Quick One</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/scandal_fr_brown/story_02_the_quick_one/part_01">‹ part 01</a><a class="ex-next" href="/testi/chesterton/atomized/scandal_fr_brown/story_02_the_quick_one/part_03">part 03 ›</a></div>
@@ -113,3 +115,117 @@ of lunacy allowed in the gentry; not indeed the prostrate reverence
 which he had for the jovial magnificence of Mr Jukes, who was really
 good for trade, but a least a disposition to avoid quarrelling with the
 old grumbler, partly perhaps out of [[Fear|fear]] of the old grumbler's tongue.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/scandal-fr-brown-(chesterton)">scandal Fr Brown</a> › <a href="/testi/chesterton/atomized/scandal_fr_brown/story_02_the_quick_one">Story 02 The Quick One</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/scandal_fr_brown/story_02_the_quick_one/part_01">‹ part 01</a><a class="ex-next" href="/testi/chesterton/atomized/scandal_fr_brown/story_02_the_quick_one/part_03">part 03 ›</a></div>
+</nav>
+
+Prima che il prete potesse rispondere, una gioiosa brigata di commessi
+viaggiatori irruppe nella stanza come un branco di focene; e il magnifico
+muggito di un uomo grande e raggiante, con una spilla da cravatta
+altrettanto grande e raggiante, fece accorrere il direttore, sollecito e
+ossequioso, come un cane al fischio, con una prontezza che la polizia in
+borghese non era riuscita a ispirare.
+
+«Sono davvero mortificato, signor Jukes», disse il direttore, che sfoggiava
+un sorriso alquanto agitato e un'onda o ricciolo di capelli lucidissimi di
+brillantina sulla fronte. «Al momento siamo un po' a corto di personale; e
+ho dovuto occuparmi di una cosa nell'albergo, signor Jukes.»
+
+Il signor Jukes fu magnanimo, ma in maniera chiassosa; e ordinò da bere per
+tutti, concedendone un bicchiere persino al direttore quasi servile. Il
+signor Jukes era rappresentante di una ditta di vini e liquori assai famosa
+e alla moda; e poteva essersi immaginato come il capo di diritto in un
+luogo simile. Comunque sia, attaccò un monologo turbolento, incline
+piuttosto a insegnare al direttore come mandare avanti il suo albergo; e gli
+altri parevano accettarlo come un'autorità. Il poliziotto e il prete si
+erano ritirati su una bassa panca e a un tavolino sullo sfondo, da cui
+osservavano gli eventi, fino a quel momento alquanto notevole in cui il
+poliziotto dovette intervenire in modo assai risoluto.
+
+Ché la cosa che accadde in seguito, come già narrato, fu la sbalorditiva
+apparizione di un asiatico bruno con un turbante verde, accompagnata dalla
+(se possibile) ancor più sbalorditiva apparizione di un ministro
+anticonformista; presagi come ne compaiono davanti a una sciagura. In
+questo caso non ci fu alcun [[Doubt|dubbio]] sulla testimonianza del portento. Un
+ragazzo taciturno ma attento, intento da un'ora a pulire i gradini (essendo
+un lavoratore senza fretta), il bruno, grasso e corpulento addetto al bar,
+persino il diplomatico ma distratto direttore, tutti resero testimonianza
+del miracolo.
+
+Le apparizioni, come dicono gli scettici, erano dovute a cause del tutto
+naturali. L'uomo dalla criniera di capelli biondi e dagli abiti
+semiclericali non era noto soltanto come predicatore sulla sabbia, ma come
+propagandista in tutto il mondo moderno. Non era altri che il reverendo
+David Pryce-[[Jones]], il cui slogan risuonava lontano: Proibizione e
+[[Purification|Purificazione]] per la Nostra Terra e per le Britannie d'Oltremare. Era
+un eccellente oratore e organizzatore pubblico; e gli era venuta un'idea
+che sarebbe dovuta venire ai proibizionisti già da un pezzo. Era la
+semplice idea che, se la Proibizione è giusta, un qualche [[Honour|onore]] è dovuto
+al [[Prophet|Profeta]] che fu forse il primo proibizionista. Aveva intrattenuto
+corrispondenza con i capi del pensiero religioso maomettano, e aveva
+finalmente indotto un illustre musulmano (uno dei cui nomi era Akbar e il
+resto un'intraducibile ululazione di Allah con i suoi attributi) a venire in
+Inghilterra a tenere conferenze sull'antico divieto musulmano del vino.
+Nessuno dei due era stato di certo, prima d'allora, nel bar di una [[house|locanda]]
+pubblica; ma vi erano giunti per il procedimento già descritto; scacciati dalle
+raffinate sale da tè, sospinti nel saloon appena decorato. Probabilmente
+tutto sarebbe andato per il [[Well|meglio]], se il grande proibizionista, nella
+sua [[innocence|innocenza]], non si fosse avanzato al bancone a chiedere un bicchiere di
+latte.
+
+I commessi viaggiatori, benché fossero una razza bonaria, emisero
+involontari suoni di [[Pain|dolore]]; si udì un mormorio di frizzi soffocati, come
+«Fuggi la coppa» o «Meglio portar fuori la mucca». Ma il magnifico signor
+Jukes, sentendosi in dovere, per la sua ricchezza e la sua spilla da
+cravatta, di produrre un [[Humour|umorismo]] più raffinato, si sventolò come chi stia
+per svenire, e disse in tono patetico: «Sanno che basterebbe una piuma a
+buttarmi giù. Sanno che un soffio mi porterebbe via. Sanno che il mio
+medico mi ha proibito questi colpi. E vengono a bere latte freddo a sangue
+[[Blood|freddo]], sotto i miei stessi occhi.»
+
+Il reverendo David Pryce-[[Jones]], avvezzo a trattare con i disturbatori
+nelle pubbliche adunanze, ebbe l'imprudenza di avventurarsi in rimostranze e
+recriminazioni, in quest'atmosfera tanto diversa e assai più popolare.
+L'orientale astemio si astenne dalla parola [[Well|non meno]] che dai liquori; e ne
+guadagnò di certo in dignità. Anzi, per quanto lo riguardava, la cultura
+musulmana riportò senza dubbio una silenziosa vittoria; era così
+palesemente più signore dei signori commercianti, che cominciò a sorgere
+una lieve irritazione contro il suo aristocratico distacco; e quando il
+signor Pryce-[[Jones]] prese ad accennarvi nell'argomentare, la tensione si
+fece davvero acutissima.
+
+«Vi domando, amici», disse il signor Pryce-[[Jones]], con ampi gesti da
+palcoscenico, «perché il nostro amico qui presente dà a noi cristiani
+l'esempio di un autentico [[Self|autocontrollo]] cristiano e di fratellanza? Perché
+sta qui come modello di vera [[Christianity|Cristianità]], di autentica raffinatezza, di
+genuino contegno signorile, in mezzo a tutti i litigi e i tumulti di luoghi
+come questo? Perché, quali che siano le differenze dottrinali tra noi,
+almeno nel suo suolo la mala pianta, il maledetto luppolo o la vite, non
+ha mai...»
+
+Fu in questo momento cruciale della controversia che John Raggley, la
+procellaria di cento tempeste di controversie, la faccia rossa, i capelli
+bianchi, l'antiquata tuba spinta all'indietro sulla nuca, il bastone
+roteante come una clava, entrò nella [[house|casa]] come un esercito invasore.
+
+John Raggley era generalmente considerato uno svitato. Era il genere d'uomo
+che scrive lettere ai giornali, le quali di regola non compaiono sui
+giornali; ma che compaiono poi come opuscoli, stampati (o mal stampati) a
+sue spese; e diffusi a un centinaio di cestini della carta straccia. Aveva
+litigato tanto con gli squire conservatori quanto con i Consigli di Contea
+radicali; odiava gli ebrei; e diffidava di quasi tutto ciò che si vende
+nelle botteghe, o persino negli alberghi. Ma dietro le sue fisime c'era un
+fondamento di fatti; conosceva la contea in ogni angolo e in ogni curioso
+particolare; ed era un osservatore acuto. Persino il direttore, un tal
+signor Wills, nutriva un ombroso rispetto per il signor Raggley, avendo
+naso per il genere di follia consentita ai possidenti; non già la
+prostrata reverenza che aveva per la gioviale magnificenza del signor
+Jukes, che era davvero buono per gli affari, ma almeno una disposizione a
+evitare di litigare col vecchio brontolone, in parte forse per [[Fear|paura]] della
+lingua del vecchio brontolone.

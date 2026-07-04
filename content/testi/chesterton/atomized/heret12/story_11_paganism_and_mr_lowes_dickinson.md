@@ -399,6 +399,10 @@ shall end in [[Christianity]].
 <div class="excerpt-crumb">Chesterton · <a href="/works/heret12-(chesterton)">Heretics</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/heret12/story_10_science_and_the_savages">‹ Story 10 Science and the Savages</a><a class="ex-next" href="/testi/chesterton/atomized/heret12/story_12_celts_and_celtophiles">Story 12 Celts and Celtophiles ›</a></div>
 </nav>
+<nav class="excerpt-children">
+<div class="excerpt-children-label">In questa sezione</div>
+<ul><li><a href="/testi/chesterton/atomized/heret12/story_11_paganism_and_mr_lowes_dickinson/part_01">Part 1</a></li><li><a href="/testi/chesterton/atomized/heret12/story_11_paganism_and_mr_lowes_dickinson/part_02">Part 2</a></li><li><a href="/testi/chesterton/atomized/heret12/story_11_paganism_and_mr_lowes_dickinson/part_03">Part 3</a></li></ul>
+</nav>
 
 # [[heret12]] — Il paganesimo e il signor Lowes Dickinson
 

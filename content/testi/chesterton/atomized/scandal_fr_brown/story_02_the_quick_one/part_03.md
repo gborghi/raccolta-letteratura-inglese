@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/scandal-fr-brown-(chesterton)">scandal Fr Brown</a> › <a href="/testi/chesterton/atomized/scandal_fr_brown/story_02_the_quick_one">Story 02 The Quick One</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/scandal_fr_brown/story_02_the_quick_one/part_02">‹ part 02</a><a class="ex-next" href="/testi/chesterton/atomized/scandal_fr_brown/story_02_the_quick_one/part_04">part 04 ›</a></div>
@@ -119,3 +121,120 @@ the way, that I should have said it - yesterday afternoon.'
 is murder by somebody like a religious fanatic. That brown fellow
 probably thinks that if he's hanged, he'll go straight to Paradise for
 defending the [[Honour|honour]] of the [[Prophet]].'
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/scandal-fr-brown-(chesterton)">scandal Fr Brown</a> › <a href="/testi/chesterton/atomized/scandal_fr_brown/story_02_the_quick_one">Story 02 The Quick One</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/scandal_fr_brown/story_02_the_quick_one/part_02">‹ part 02</a><a class="ex-next" href="/testi/chesterton/atomized/scandal_fr_brown/story_02_the_quick_one/part_04">part 04 ›</a></div>
+</nav>
+
+«E voi vorrete il vostro solito, signore», disse il signor Wills,
+chinandosi e sogghignando attraverso il bancone.
+
+«È l'unica cosa decente che vi sia rimasta», sbuffò il signor Raggley,
+sbattendo giù il suo strano e antiquato cappello. «Che diavolo, a volte
+penso che l'unica cosa inglese rimasta in Inghilterra sia il cherry brandy.
+Il cherry brandy sa davvero di ciliegie. Sapreste trovarmi una birra che
+sappia di luppolo, o un sidro che sappia di mele, o un vino che abbia la
+più remota indicazione di essere fatto d'uva? C'è un'infernale truffa in
+corso, oggigiorno, in ogni locanda del paese, che in qualunque altro paese
+avrebbe suscitato una rivoluzione. Ho scoperto un paio di cose in
+proposito, ve lo garantisco. Aspettate che riesca a stamparle, e la gente
+si drizzerà a sedere. Se potessi impedire che il nostro popolo venga
+avvelenato con tutto questo pessimo bere...»
+
+Anche qui il reverendo David Pryce-[[Jones]] diede prova di una certa mancanza
+di tatto; sebbene fosse una virtù che quasi venerava. Ebbe l'imprudenza di
+tentare di stringere un'alleanza col signor Raggley, mediante una bella
+confusione tra l'idea del cattivo bere e l'idea che il bere sia cattivo.
+Ancora una volta si sforzò di trascinare nell'argomento il suo rigido e
+maestoso amico orientale, quale raffinato straniero superiore ai nostri
+rozzi costumi inglesi. Fu perfino tanto sciocco da parlare di una vasta
+visione teologica; e da menzionare infine il nome di Maometto, che fu
+riecheggiato in una sorta di esplosione.
+
+«Che Dio maledica la vostra [[Soul|anima]]!» ruggì il signor Raggley, con una
+visione teologica assai meno vasta. «Volete forse dire che gli inglesi non
+devono bere birra inglese, perché il vino fu proibito in un maledetto
+[[Desert|deserto]] da quel sudicio vecchio impostore di Maometto?»
+
+In un istante l'Ispettore di Polizia aveva raggiunto con una falcata il
+centro della stanza. Ché, l'istante prima, un notevole mutamento si era
+prodotto nel contegno del signore orientale, il quale fino allora era
+rimasto perfettamente immobile, con occhi fermi e lucenti. Ora egli
+procedette, come aveva detto il suo amico, a dare esempio di autentico
+[[Self|autocontrollo]] cristiano e di fratellanza raggiungendo la parete con un balzo
+di tigre, strappandone uno dei pesanti coltelli che vi pendevano e
+lanciandolo di schianto come un sasso da una fionda, sicché rimase
+conficcato vibrante nel muro esattamente mezzo pollice sopra l'orecchio del
+signor Raggley. Sarebbe rimasto senza dubbio conficcato vibrante nel signor
+Raggley, se l'Ispettore Greenwood non fosse giunto giusto in [[Time|tempo]] a
+strattonargli il braccio e deviarne la mira. [[Father Brown]] rimase seduto al
+suo posto, osservando la scena con gli occhi socchiusi e una piega di
+qualcosa che assomigliava quasi a un sorriso agli angoli della bocca, come
+se scorgesse qualcosa al di là della mera, momentanea violenza della lite.
+
+E allora la lite prese una piega curiosa; che forse non sarà compresa da
+tutti, finché uomini come il signor John Raggley non saranno compresi
+meglio di quanto lo siano ora. Ché il vecchio fanatico dalla faccia rossa
+era in piedi e rideva fragorosamente come se fosse la migliore barzelletta
+che avesse mai udito. Tutta la sua mordace maldicenza e la sua amarezza
+parevano essere svanite; ed egli guardava l'altro fanatico, che aveva
+appena tentato di assassinarlo, con una sorta di chiassosa benevolenza.
+
+«Che vi si accechino gli occhi», disse, «siete il primo uomo che incontro
+in vent'anni!»
+
+«Lo denunciate quest'uomo, signore?» disse l'Ispettore, con aria dubbiosa.
+
+«Denunciarlo, ma neanche per sogno», disse Raggley. «Gli offrirei da bere,
+se gli fosse permesso di bere. Non avevo alcun diritto di insultare la sua
+religione; e vorrei Dio che tutti voi puzzole aveste il fegato di uccidere
+un uomo, non dico per aver insultato la vostra religione, perché non ne
+avete alcuna, ma per aver insultato qualsiasi cosa... persino la vostra
+birra.»
+
+«Ora ci ha chiamati tutti puzzole», disse [[Father Brown]] a Greenwood, «pace
+e armonia paiono ristabilite. Vorrei che quel conferenziere astemio si
+facesse infilzare sul coltello del suo amico; è stato lui a combinare tutti
+i guai.»
+
+Mentre parlava, gli strani gruppi nella stanza stavano già cominciando a
+disperdersi; si era trovato modo di liberare la sala commerciale per i
+commessi viaggiatori, e questi vi si trasferirono, il garzone recando loro
+dietro su un vassoio un nuovo giro di bevande. [[Father Brown]] rimase un
+momento a contemplare i bicchieri lasciati sul bancone; riconoscendo subito
+il malaugurato bicchiere di latte, e un altro che sapeva di whisky; e poi
+si voltò giusto in [[Time|tempo]] per vedere il commiato fra quelle due curiose
+figure, fanatici d'Oriente e d'Occidente. Raggley era ancora ferocemente
+gioviale; c'era ancora qualcosa di un po' fosco e sinistro nel musulmano,
+il che era forse naturale; ma questi si accomiatò con [[Grave|gravi]] gesti di
+dignitosa [[Reconciliation|riconciliazione]]; e tutto lasciava indicare che la contesa era
+davvero finita.
+
+Una certa importanza, tuttavia, rimase legata, nella mente almeno di Padre
+Brown, al [[Memory|ricordo]] e all'interpretazione di quegli ultimi cortesi saluti tra
+i contendenti. Perché, cosa abbastanza curiosa, quando Padre Brown scese
+di buon mattino l'indomani, per compiere i suoi doveri religiosi nei
+dintorni, trovò il lungo bar del saloon, con la sua fantastica decorazione
+asiatica, colmo della bianca luce morta dell'alba, in cui ogni particolare
+era distinto; e uno dei particolari era il [[Body|corpo]] morto di John Raggley,
+piegato e schiacciato in un angolo della stanza, con il pesante pugnale
+ricurvo dall'impugnatura massiccia conficcato nel cuore.
+
+[[Father Brown]] risalì di sopra pian piano e chiamò il suo amico Ispettore;
+e i due rimasero accanto al cadavere, in una [[house|casa]] in cui nessun altro
+era ancora in movimento. «Non dobbiamo né presumere né schivare
+l'ovvio», disse Greenwood dopo un [[Silence|silenzio]], «ma è [[Well|bene]] ricordare,
+credo, ciò che vi dicevo ieri pomeriggio. È piuttosto strano, per inciso,
+che io l'abbia detto... ieri pomeriggio.»
+
+«Lo so», disse il prete, annuendo con uno sguardo da gufo.
+
+«Dicevo», osservò Greenwood, «che l'unica specie di omicidio che non
+possiamo impedire è l'omicidio da parte di qualcuno come un fanatico
+religioso. Quel tizio bruno probabilmente crede che, se lo impiccano, andrà
+dritto in Paradiso per aver difeso l'[[Honour|onore]] del [[Prophet|Profeta]].»

@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/apprandcritofchdickens-(chesterton)">ApprAndCritOfChDickens</a> › <a href="/testi/chesterton/atomized/apprandcritofchdickens/chapter_01_page">Chapter 01 PAGE</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/apprandcritofchdickens/chapter_01_page/part_24">‹ part 24</a><a class="ex-next" href="/testi/chesterton/atomized/apprandcritofchdickens/chapter_01_page/part_26">part 26 ›</a></div>
@@ -181,3 +183,180 @@ bodies can be comic; it is only dead souls that can be tragic. But quite
 apart from such irony, the mere picture of the [[Grotesque|grotesque]] gravedigger,
 
 the black-clad prince, and the skull is a picture in the strongest sense
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/apprandcritofchdickens-(chesterton)">ApprAndCritOfChDickens</a> › <a href="/testi/chesterton/atomized/apprandcritofchdickens/chapter_01_page">Chapter 01 PAGE</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/apprandcritofchdickens/chapter_01_page/part_24">‹ part 24</a><a class="ex-next" href="/testi/chesterton/atomized/apprandcritofchdickens/chapter_01_page/part_26">part 26 ›</a></div>
+</nav>
+
+bottega. Quilp potrebbe essere un gargoyle. Potrebbe essere una sorta di
+
+diabolico battente da porta, caduto giù e strisciante sul selciato. Lo stesso
+
+vale per la sinistra e davvero terrificante rigidità di [[Sally Brass]].
+
+Ella somiglia a qualche vecchia figura dallo sguardo fisso intagliata nel legno. [[Sampson Brass]], suo
+
+fratello, è a sua volta un [[Grotesque|grottesco]] alla medesima maniera piuttosto disumana; è
+
+soprattutto sé stesso quando entra con la visiera verde calata sull'occhio.
+
+Attorno a tutto questo gruppo di figure malvage in _The Old Curiosity Shop_ vi è
+
+una sorta di _diablerie_. E vi è pure, entro questa atmosfera, una
+
+straordinaria energia di ironia e di riso. La scena in cui Sampson
+
+Brass redige la descrizione di Quilp, supponendolo morto,
+
+tocca un culmine di divertimento diabolico. «Non diremo proprio storte, signora
+
+Jiniwin», dice delle gambe del suo amico, «ci limiteremo a
+
+storte. Egli se n'è andato, amici miei, là dove le sue gambe non saranno mai messe
+
+in discussione». Passano poi a discutere del naso di lui, e la signora Jiniwin
+
+propende per l'opinione che sia piatto. «Aquilino, megera! Aquilino»,
+
+grida il signor Quilp, cacciando dentro la testa e battendosi il naso con il
+
+pugno. In tutta la brutale esuberanza del
+
+personaggio non c'è nulla di meglio di quel gesto con cui Quilp si prende a pugni la propria faccia
+
+con il proprio pugno. È in verità un simbolo perfetto; poiché Quilp è sempre
+
+in lotta con sé stesso in mancanza di chiunque altro. Egli è energia, e l'energia da
+
+sola è sempre suicida; egli è quell'energia primordiale che [[Tears|lacera]] e
+
+che distrugge sé stessa.
+
+[[Barnaby Rudge|BARNABY RUDGE]]
+
+_Barnaby Rudge_ fu scritto da Dickens nella [[Spring|primavera]] e nella prima marea
+
+montante della sua popolarità; venne immediatamente dopo _The Old Curiosity
+
+Shop_, e solo poco [[Time|tempo]] dopo _Pickwick_. Dickens era uno di quegli
+
+uomini rari ma spesso sincerissimi nei quali il momento più alto del [[success|successo]]
+
+quasi coincide con il momento più alto della giovinezza. Le richieste che gli piovevano addosso in
+
+quel [[Time|tempo]] erano insistenti e travolgenti; ciò accade necessariamente a un
+
+certo stadio della carriera di uno scrittore di successo. Egli aveva avuto successo quel tanto
+
+da suscitare offerte, e non abbastanza da poterle rifiutare. Al
+
+principio della sua carriera poteva gettarsi in _Pickwick_ perché
+
+non v'era null'altro in cui gettarsi. Alla fine della sua vita
+
+poteva gettarsi in _A Tale of Two Cities_, perché rifiutava di
+
+gettarsi in qualsiasi altra cosa. Ma vi fu un periodo intermedio,
+
+nei primi anni della sua vita, in cui vi era quasi troppo lavoro per la sua
+
+[[Imagination|immaginazione]], e tuttavia non abbastanza lavoro per il suo bilancio domestico. A questo
+
+periodo appartiene _Barnaby Rudge_. Ed è un curioso tributo alla del tutto
+
+curiosa [[Greatness|grandezza]] di Dickens che in questo periodo di giovanile tensione
+
+non avvertiamo la tensione ma soltanto la giovinezza. Il suo stesso stupefacente desiderio di
+
+scrivere eguagliava o superava perfino lo stupefacente desiderio dei suoi lettori di leggere.
+
+Lavorare troppo duramente non lo guarì dal suo astratto [[Love|amore]] per il lavoro.
+
+Editori irragionevoli gli chiedevano di scrivere dieci romanzi in una volta; ma egli
+
+voleva scriverne venti in una volta. Tutto questo periodo è stranamente colmo
+
+del suo stesso senso, insieme, di fertilità e di futilità; egli fece un lavoro che
+
+nessun altro avrebbe potuto fare, e tuttavia non poteva ancora essere certo
+
+di essere qualcuno.
+
+_Barnaby Rudge_ segna quest'epoca perché segna il fatto che egli è
+
+ancora confuso su che tipo di persona sarà. Egli ha
+
+già intonato la nota del normale [[Romance|romanzo d'amore]] in _Nicholas Nickleby_;
+
+ha già creato alcuni dei suoi più alti personaggi comici in _Pickwick_
+
+e in _The Old Curiosity Shop_, ma qui tradisce il fatto che è
+
+ancora una questione aperta quale guida ultima seguirà. _Barnaby Rudge_ è
+
+un [[Historical Novel|romanzo storico]] romantico. Il suo disegno ci ricorda Scott; alcune parti
+
+del suo compimento ci ricordano, ahimè!, Harrison Ainsworth. È un [[Historical Novel|romanzo storico]] romantico
+
+di gran pregio; Scott ne sarebbe stato orgoglioso. Ma
+
+è tuttavia ancora così diverso dall'opera generale di Dickens che è
+
+lecito [[Wonder|domandarsi]] fino a che punto Dickens ne fosse orgoglioso. Il libro,
+
+per quanto efficace, è quasi interamente dedicato a trattare di un
+
+certo elemento artistico che (nel suo mero isolamento) Dickens non
+
+coltivava di solito; un elemento che molti uomini di ingegno infinitamente minore
+
+hanno spesso sembrato coltivare con maggior successo; intendo l'elemento del
+
+pittoresco.
+
+È usanza in molti ambienti parlare con un certo tono sprezzante di quell'
+
+elemento che si chiama genericamente pittoresco. Lo si sente sempre come
+
+una forma d'arte inferiore, volgare, e persino artificiale. Eppure due
+
+cose si possono osservare a suo riguardo. La prima è che, con poche
+
+eccezioni, i più grandi artisti letterari sono stati non solo
+
+particolarmente abili nel pittoresco, ma particolarmente affezionati ad esso.
+
+Shakespeare, per esempio, si dilettava di certi contrasti puramente pittorici
+
+che sono del tutto distinti dalla, anche quando sono affini alla,
+
+visione spirituale coinvolta. Per esempio, vi è mirabile [[Satire|satira]] nell'
+
+idea di [[Touchstone]] che insegna la saggezza mondana e l'[[Honour|onore]] mondano ai
+
+villici del bosco. Vi è eccellente [[philosophy|filosofia]] nell'idea del [[Fool|buffone]]
+
+che è il rappresentante della civiltà nella foresta. Ma del tutto a parte
+
+da questo significato più profondo dell'episodio, la mera figura del giullare,
+
+nel suo variopinto abito e nel suo berretto a [[Bells|sonagli]], contro lo sfondo verde
+
+della foresta e le rozze forme dei pastori, è un forte esempio
+
+del puramente pittoresco. Vi è eccellente ironia tragica nel
+
+confronto del filosofo [[Melancholy|malinconico]] tra le tombe con l'
+
+allegro scavatore delle fosse. Riassume il punto essenziale, che i corpi
+
+morti possono essere comici; sono solo le anime morte che possono essere tragiche. Ma del tutto
+
+a parte da tale ironia, la mera immagine del [[Grotesque|grottesco]] becchino,
+
+del principe vestito di nero, e del teschio è un'immagine nel senso più forte

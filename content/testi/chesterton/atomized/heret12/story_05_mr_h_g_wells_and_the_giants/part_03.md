@@ -125,7 +125,7 @@ fairy-tales, are vermin.  Supermen, if not good men, are vermin.
 
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/works/heret12-(chesterton)">Heretics</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/heret12-(chesterton)">Heretics</a> › <a href="/testi/chesterton/atomized/heret12/story_05_mr_h_g_wells_and_the_giants">Story 05 Mr H G Wells and the Giants</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/heret12/story_05_mr_h_g_wells_and_the_giants/part_02">‹ part 02</a><a class="ex-next" href="/testi/chesterton/atomized/heret12/story_05_mr_h_g_wells_and_the_giants/part_04">part 04 ›</a></div>
 </nav>
 

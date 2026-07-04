@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/scandal-fr-brown-(chesterton)">scandal Fr Brown</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/scandal_fr_brown/story_06_the_crime_of_the_communist">‹ Story 06 The Crime of the Communist</a><a class="ex-next" href="/testi/chesterton/atomized/scandal_fr_brown/story_08_the_point_of_a_pin">Story 08 The Point of a Pin ›</a></div>
@@ -730,3 +732,246 @@ doctor curiously.
 'I have to do with England,' said [[Father Brown]]. 'I come from there. And
 the funniest thing of all is that even if you [[Love|love]] it and belong to it,
 you still can't make head or tail of it.'
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/scandal-fr-brown-(chesterton)">scandal Fr Brown</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/scandal_fr_brown/story_06_the_crime_of_the_communist">‹ Story 06 The Crime of the Communist</a><a class="ex-next" href="/testi/chesterton/atomized/scandal_fr_brown/story_08_the_point_of_a_pin">Story 08 The Point of a Pin ›</a></div>
+</nav>
+<nav class="excerpt-children">
+<div class="excerpt-children-label">In questa sezione</div>
+<ul><li><a href="/testi/chesterton/atomized/scandal_fr_brown/story_07_the_gardens_had_been_tended_so_carefully/part_01">Part 1</a></li><li><a href="/testi/chesterton/atomized/scandal_fr_brown/story_07_the_gardens_had_been_tended_so_carefully/part_02">Part 2</a></li><li><a href="/testi/chesterton/atomized/scandal_fr_brown/story_07_the_gardens_had_been_tended_so_carefully/part_03">Part 3</a></li><li><a href="/testi/chesterton/atomized/scandal_fr_brown/story_07_the_gardens_had_been_tended_so_carefully/part_04">Part 4</a></li><li><a href="/testi/chesterton/atomized/scandal_fr_brown/story_07_the_gardens_had_been_tended_so_carefully/part_05">Part 5</a></li><li><a href="/testi/chesterton/atomized/scandal_fr_brown/story_07_the_gardens_had_been_tended_so_carefully/part_06">Part 6</a></li></ul>
+</nav>
+
+uno. I giardini erano stati curati con tanta cura da conseguire il trionfo finale dell'apparire trascurati; gli stessi [[Flowers|fiori]] parevano belli per caso, come eleganti erbacce; e gli abiti moderni possedevano almeno quel tanto di pittoresco che può nascere dal disordine. Il primo dei tre, un uomo alto, calvo, barbuto, lungo come un albero della cuccagna, era una figura ben nota nel Quad, in tocco e toga; e la toga gli scivolava giù da una delle spalle spioventi. Il secondo aveva spalle molto quadre, era basso e tarchiato, con un ghigno piuttosto gioviale, di solito vestito in giacca, con la toga sul braccio. Il terzo era ancor più basso e assai più malandato, in nera veste ecclesiastica. Ma tutti e tre parevano adatti al Mandeville College; e all'atmosfera indefinibile delle due antiche e uniche Università d'Inghilterra. Vi si accordavano e vi si dileguavano; il che lì è considerato quanto di più conveniente.
+
+I due uomini seduti su seggiole da [[Garden|giardino]] presso un tavolino erano una sorta di brillante macchia su quel paesaggio grigioverde. Erano vestiti quasi tutti di nero, eppure scintillavano da capo a piedi, dai loro lucidi cilindri agli stivali perfettamente lustri. Si avvertiva confusamente come un oltraggio che qualcuno potesse essere così [[Well|ben]] vestito nella [[Freedom|libertà]] di [[Well|buon]] tono del Mandeville College. L'unica scusante era che erano stranieri. Uno era un americano, un milionario di nome Hake, vestito in quella maniera immacolata e sfavillante da gentiluomo che solo i ricchi di [[New York]] conoscono. L'altro, che a tutto ciò aggiungeva l'oltraggio di un cappotto d'astrakan (per non dire d'un paio di fioriti favoriti), era un Conte tedesco di grande ricchezza, la parte più breve del cui nome era Von Zimmern. Il mistero di questa storia, tuttavia, non è il mistero del perché si trovassero là. Si trovavano là per la ragione che comunemente spiega l'incontro delle cose incongrue; si proponevano di dare al College un po' di denaro. Erano venuti a sostegno d'un progetto appoggiato da diversi finanzieri e magnati di molti paesi, per fondare una nuova Cattedra di Economia al Mandeville College. Avevano ispezionato il College con quell'instancabile e coscienziosa smania di veder tutto di cui nessun figlio d'Eva è capace tranne l'americano e il tedesco. E ora riposavano dalle loro fatiche, contemplando solennemente i giardini del College. Fin qui tutto bene.
+
+Gli altri tre uomini, che già li avevano incontrati, passarono con un vago saluto; ma uno di loro si fermò; il più piccolo dei tre, in nera veste ecclesiastica.
+
+«Sentite,» disse, con l'aria piuttosto d'un coniglio spaventato, «non mi piace l'aspetto di quei due uomini.»
+
+«Santo cielo! A chi potrebbe piacere?» esclamò l'uomo alto, che si dava il caso fosse il Rettore del Mandeville. «Almeno abbiamo qualche uomo ricco che non se ne va in giro conciato come un manichino da sarto.»
+
+«Sì,» sibilò il piccolo chierico, «è proprio questo che voglio dire. Come manichini da sarto.»
+
+«Ma via, che intendete?» chiese, brusco, il più basso degli altri.
+
+«Intendo che sembrano orribili figure di cera,» disse il chierico con voce fioca. «Intendo che non si muovono. Perché non si muovono?»
+
+D'improvviso, balzando fuori dal suo oscuro ritegno, guizzò attraverso il [[Garden|giardino]] e toccò il Barone tedesco al gomito. Il Barone tedesco cadde all'indietro, sedia e tutto, e le gambe inguainate nei pantaloni che si drizzarono in aria erano rigide quanto le gambe della sedia.
+
+Il signor Gideon P. Hake continuava a fissare i giardini del College con occhi vitrei; ma il paragone con la figura di cera confermava l'impressione che fossero occhi fatti di vetro. In qualche modo la luce ricca del sole e il [[Garden|giardino]] variopinto accrescevano l'inquietante impressione d'una bambola vestita di tutto punto; una marionetta su un palcoscenico italiano. Il piccolo uomo in nero, che era un prete di nome Brown, toccò tentennante il milionario sulla spalla, e il milionario cadde di lato, ma orribilmente tutto d'un pezzo, come qualcosa intagliato nel legno.
+
+«Rigor mortis,» disse [[Father Brown]], «e così presto. Ma varia parecchio, in verità.»
+
+Il motivo per cui i primi tre uomini avevano raggiunto gli altri due tanto tardi (per non dire troppo tardi) si comprenderà meglio notando ciò che era accaduto proprio all'interno dell'edificio, dietro l'arco Tudor, poco [[Time|tempo]] prima che uscissero. Avevano cenato tutti insieme nella Hall, all'High Table; ma i due filantropi stranieri, schiavi del dovere in fatto di veder tutto, erano solennemente tornati alla cappella, di cui un chiostro e una scala restavano ancora da esaminare; promettendo di ricongiungersi agli altri nel [[Garden|giardino]], per esaminare con altrettanta serietà i sigari del College. Gli altri, con spirito più reverente e assennato, si erano ritirati come al solito attorno al lungo, stretto tavolo di quercia, intorno al quale il vino del dopo cena era circolato, per quanto ne sapeva chiunque, fin da quando il College era stato fondato nel Medioevo da Sir John Mandeville, per incoraggiare l'arte del narrar storie. Il Rettore, con la gran barba bionda e la fronte calva, prese il capo del tavolo, e l'uomo tozzo dalla giacca quadrata sedette alla sua sinistra; giacché era l'Economo, ovvero l'uomo d'affari del College. Accanto a lui, da quel lato del tavolo, sedeva un uomo dall'aspetto strano, con quello che non si poteva chiamare altrimenti che un volto storto; poiché i suoi scuri ciuffi di baffi e sopracciglia, inclinati ad angoli contrari, formavano una sorta di zig-zag, come se metà del suo viso fosse raggrinzita o paralizzata. Si chiamava Byles; era il lettore di [[Roman History|Storia Romana]], e le sue opinioni politiche si fondavano su quelle di [[Coriolanus|Coriolano]], per non dire di Tarquinio il Superbo. Questo aspro conservatorismo, e questa visione rabbiosamente reazionaria d'ogni problema corrente, non era del tutto ignoto tra i docenti di stampo più antiquato; ma nel caso di Byles si insinuava il sospetto che fosse più un effetto che una causa della sua acredine. Più d'un osservatore acuto aveva ricevuto l'impressione che ci fosse davvero qualcosa di guasto in Byles; che qualche segreto o qualche grande sventura l'avesse inasprito; come se quel volto mezzo avvizzito fosse stato davvero fulminato come un albero colpito dalla [[Storm|tempesta]]. Più in là ancora sedeva [[Father Brown]], e in fondo al tavolo un Professore di Chimica, grande, biondo e mellifluo, con occhi assonnati e forse un po' furbi. Era [[Well|ben]] noto che questo filosofo naturale considerava gli altri filosofi, di tradizione più classica, press'a poco come vecchie logiche. Dall'altro lato del tavolo, di fronte a [[Father Brown]], sedeva un giovanotto molto bruno e silenzioso, con una barbetta nera a punta, introdotto perché qualcuno aveva insistito per avere una Cattedra di Persiano; di fronte al sinistro Byles sedeva un Cappellano piccolo e mitissimo d'aspetto, con una testa a forma d'uovo. Di fronte all'Economo e alla destra del Rettore c'era una sedia vuota; e molti tra i presenti erano lieti di vederla vuota.
+
+«Non so se Craken verrà,» disse il Rettore, non senza uno sguardo nervoso alla sedia, che contrastava con la consueta languida [[Freedom|libertà]] del suo contegno. «Io stesso credo nel dare alla gente molta corda; ma confesso di essere giunto al punto di rallegrarmi quando lui è qui, semplicemente perché non è da nessun'altra parte.»
+
+«Non si sa mai cosa combinerà la prossima volta,» disse l'Economo allegramente, «specie quando istruisce i giovani.»
+
+«Un tipo brillante, ma focoso, naturalmente,» disse il Rettore, con una ricaduta piuttosto brusca nel riserbo.
+
+«I fuochi d'artificio sono focosi, e anche brillanti,» borbottò il vecchio Byles, «ma non voglio esser bruciato nel mio letto perché Craken possa figurare come un vero Guy Fawkes.»
+
+«Crede davvero che si unirebbe a una rivoluzione di forza fisica, se ce ne fosse una?» chiese l'Economo sorridendo.
+
+«[[Well|Beh]], lui crede che lo farebbe,» disse Byles seccamente. «L'altro giorno ha detto a un'intera aula piena di studenti che ormai nulla poteva impedire alla Lotta di Classe di trasformarsi in una vera guerra, con gente ammazzata per le strade della città; e che non importava, purché finisse nel Comunismo e nella vittoria della classe operaia.»
+
+«La Lotta di Classe,» meditò il Rettore, con una sorta di disgusto addolcito dalla distanza; poiché aveva conosciuto William Morris tanto tempo prima ed era stato abbastanza familiare con i Socialisti più artistici e agiati. «Non riesco proprio a capire tutta questa faccenda della Lotta di Classe. Quando ero giovane, si supponeva che Socialismo volesse dire affermare che non esistono classi.»
+
+«Un altro modo di dire che i Socialisti non hanno classe,» disse Byles con acido compiacimento.
+
+«Naturalmente, lei sarebbe più contro di loro di quanto lo sia io,» disse il Rettore pensosamente, «ma suppongo che il mio Socialismo sia antiquato quasi quanto il suo Conservatorismo. [[Wonder|Chissà]] cosa pensano davvero i nostri giovani amici. Lei cosa ne pensa, Baker?» disse bruscamente all'Economo alla sua sinistra.
+
+«Oh, io non penso, come dice il volgo,» disse l'Economo ridendo. «Deve ricordare che sono una persona molto volgare. Non sono un pensatore. Sono soltanto un uomo d'affari; e da uomo d'affari penso che sia tutta una fandonia. Non si possono rendere gli uomini uguali, ed è un pessimo affare pagarli allo stesso modo; specie una gran parte di loro che non merita affatto d'esser pagata. Comunque stiano le cose, bisogna prendere la via pratica d'uscita, perché è l'unica via d'uscita. Non è colpa nostra se la [[Nature|natura]] ha fatto di tutto una mischia.»
+
+«Su questo sono d'accordo con lei,» disse [[The Professor|il Professore]] di Chimica, parlando con una zeppola che pareva infantile in un uomo così grosso. «Il Comunismo pretende d'essere oh così moderno; ma non lo è. Un ritorno alle superstizioni dei [[Monks|monaci]] e delle tribù primitive. Un [[government|governo]] scientifico, con una responsabilità davvero etica verso la posterità, sarebbe sempre alla ricerca della linea della promessa e del progresso; non a livellare e ad appiattire tutto di nuovo nel fango. Il Socialismo è sentimentalismo; e più pericoloso d'una pestilenza, perché in quella almeno sopravvivrebbero i più adatti.»
+
+Il Rettore sorrise con un po' di tristezza. «Sa, lei ed io non proveremo mai proprio lo stesso sentimento riguardo alle differenze d'opinione. Non disse qualcuno, qui da noi, a proposito del passeggiare con un amico lungo il [[River|fiume]], "Non differendo di molto, se non nell'opinione"? Non è questo il motto di un'università? Avere centinaia di opinioni e non essere dogmatici. Se qui la gente cade, è per ciò che è, non per ciò che pensa. Forse io sono un relitto del diciottesimo secolo; ma propendo per la vecchia eresia sentimentale: "Per le forme di [[Faith|fede]] lascia che gli zeloti senza grazia combattano; non può aver torto colui la cui vita è nel giusto". Lei cosa ne pensa, [[Father Brown]]?»
+
+Gettò uno sguardo un po' malizioso al prete, dall'altra parte del tavolo, e restò mitemente sorpreso. Poiché aveva sempre trovato il prete assai allegro, amabile e di facile compagnia; e il suo viso tondo era per lo più tutto solido buon [[Humour|umore]]. Ma per qualche ragione, in quel momento, il volto del prete era annodato da un cipiglio assai più cupo di qualsiasi altro la compagnia gli avesse mai visto; sicché per un istante quel volto comune parve davvero più scuro e più minaccioso del viso smunto di Byles. Un istante dopo la nube parve essere passata; ma [[Father Brown]] parlò ancora con una certa gravità e fermezza.
+
+«Io a quella cosa non ci credo, comunque,» disse brevemente. «Come può la sua vita essere nel giusto, se tutta la sua visione della vita è sbagliata? È un pasticcio moderno nato perché la gente non sapeva quanto le visioni della vita possano differire. I Battisti e i Metodisti sapevano di non differire granché nella [[morality|morale]]; ma allora non differivano granché neppure nella religione o nella [[philosophy|filosofia]]. È tutt'altra cosa quando si passa dai Battisti agli Anabattisti; o dai Teosofi ai Thug. L'eresia influisce sempre sulla [[morality|morale]], se è abbastanza eretica. Suppongo che un uomo possa onestamente credere che rubare non sia male. Ma a che serve dire che egli crede onestamente nella disonestà?»
+
+«Serve dannatamente bene,» disse Byles con una feroce contorsione dei lineamenti, che molti ritennero intesa come un sorriso amichevole. «Ed è per questo che mi oppongo ad avere una Cattedra di Furto Teorico in questo College.»
+
+«[[Well|Beh]], siete tutti molto accaniti contro il Comunismo, naturalmente,» disse il Rettore con un sospiro. «Ma credete davvero che ce ne sia tanto contro cui accanirsi? Qualcuna delle vostre eresie è davvero abbastanza grande da essere pericolosa?»
+
+«Credo che siano cresciute tanto,» disse [[Father Brown]] gravemente, «che in certi ambienti sono già date per scontate. Sono ormai inconsce. Cioè, senza [[Conscience|coscienza]].»
+
+«E la fine di tutto ciò,» disse Byles, «sarà la rovina di questo paese.»
+
+«La fine sarà qualcosa di peggio,» disse [[Father Brown]].
+
+Un'[[Shadow|ombra]] scattò o scivolò rapida lungo la parete rivestita di pannelli di fronte, seguita con altrettanta rapidità dalla figura che l'aveva proiettata; una figura alta ma curva, dal profilo vago come quello d'un uccello rapace; accentuato dal fatto che la sua improvvisa apparizione e il suo rapido transito somigliavano a quelli d'un uccello spaventato che voli via da un cespuglio. Era soltanto la figura d'un uomo dalle membra lunghe e le spalle alte, con lunghi baffi cadenti, in verità abbastanza familiare a tutti loro; ma qualcosa nel crepuscolo e nella luce delle candele e nell'[[Shadow|ombra]] volante e guizzante la collegava stranamente alle inconsapevoli parole d'augurio del prete; come se davvero quelle parole fossero state un presagio, nell'antico senso romano; e il segno di esso il volo d'un uccello. Forse il signor Byles avrebbe potuto tenere una lezione su tale augurio romano; e specialmente su quell'uccello di malaugurio.
+
+L'uomo alto scattò lungo la parete come la sua stessa [[Shadow|ombra]], finché non sprofondò nella sedia vuota alla destra del Rettore, e guardò dall'altra parte l'Economo e gli altri con occhi incavati e cavernosi. I suoi capelli e baffi spioventi erano assai chiari, ma gli occhi erano tanto infossati da poter sembrare neri. Tutti sapevano, o potevano indovinare, chi fosse il nuovo venuto; ma un incidente seguì all'istante, sufficiente a illuminare la situazione. [[The Professor|Il Professore]] di [[Roman History|Storia Romana]] si [[Rose|alzò]] rigidamente in piedi e uscì impettito dalla stanza, indicando con poca finezza i suoi sentimenti circa il sedere allo stesso tavolo con [[The Professor|il Professore]] di Furto Teorico, altrimenti detto il Comunista, il signor Craken.
+
+Il Rettore del Mandeville coprì la situazione imbarazzante con nervosa grazia. «Stavo difendendo lei, o alcuni aspetti di lei, mio caro Craken,» disse sorridendo, «benché sia certo che lei mi troverebbe del tutto indifendibile. Dopo tutto, non posso dimenticare che i vecchi amici Socialisti della mia gioventù avevano un ideale assai nobile di fratellanza e [[Comradeship|cameratismo]]. William Morris lo racchiuse tutto in una frase: "La fratellanza è il paradiso; e la mancanza di fratellanza è l'inferno".»
+
+«Docenti democratici; ecco il titolo di giornale,» disse il signor Craken piuttosto sgradevolmente. «E Hake il Duro dedicherà la nuova Cattedra Commerciale alla [[Memory|memoria]] di William Morris?»
+
+«[[Well|Beh]],» disse il Rettore, mantenendo ancora una disperata cordialità, «[[Hope|spero]] che possiamo dire, in un certo senso, che tutte le nostre Cattedre sono Cattedre di buona fratellanza.»
+
+«Sì; questa è la versione accademica della massima di Morris,» ringhiò Craken. «"Una Cattedra è il paradiso; e la mancanza d'una Cattedra è l'inferno".»
+
+«Non essere così [[Cross|scontroso]], Craken,» s'intromise l'Economo con vivacità. «Prendi un po' di porto. Tenby, passa il porto al signor Craken.»
+
+«Oh, [[Well|va bene]], ne prenderò un bicchiere,» disse il Professore comunista un po' meno sgarbatamente. «In realtà sono sceso qui per fumare in [[Garden|giardino]]. Poi ho guardato fuori dalla [[Window|finestra]] e ho visto che i vostri due preziosi milionari erano davvero là a sbocciare in [[Garden|giardino]]; freschi, [[Innocent|innocenti]] boccioli. Dopo tutto, potrebbe valer la pena di dir loro un po' quel che penso.»
+
+Il Rettore si era alzato sotto la copertura della sua ultima convenzionale cordialità, ed era anche troppo lieto di lasciare all'Economo il compito di far del suo meglio con l'Uomo Selvaggio. Altri si erano alzati, e i gruppi al tavolo avevano cominciato a sciogliersi; e l'Economo e il signor Craken restarono più o meno [[Alone|soli]] all'estremità del lungo tavolo. Solo [[Father Brown]] continuò a sedere fissando il vuoto con un'espressione piuttosto annuvolata.
+
+«Oh, quanto a questo,» disse l'Economo. «Anch'io ne sono piuttosto stanco, a dir la [[Truth|verità]]; sono stato con loro la maggior parte della giornata a esaminare fatti e cifre e tutta la faccenda di questa nuova cattedra. Ma senti, Craken,» e si sporse attraverso il tavolo parlando con una sorta di dolce enfasi, «non hai davvero bisogno di prendertela tanto per questa nuova cattedra. Non interferisce affatto con la tua materia. Sei l'unico Professore di Economia Politica al Mandeville e, benché io non pretenda di condividere le tue idee, tutti sanno che hai una reputazione europea. Questa è una materia particolare che chiamano Economia Applicata. [[Well|Beh]], perfino oggi, come ti ho detto, ho avuto una montagna di Economia Applicata. In altre parole, ho dovuto parlar d'affari con due uomini d'affari. Vorresti davvero farlo tu? Lo invidieresti? Lo sopporteresti? Non è prova sufficiente che si tratta d'una materia distinta e che [[Well|ben]] potrebbe essere una Cattedra distinta?»
+
+«Santo cielo,» esclamò Craken con l'intensa invocazione dell'ateo. «Credi che io non voglia applicare l'Economia? Solo che, quando la applichiamo noi, tu la chiami rovina rossa e anarchia; e quando la applichi tu, io mi prendo la libertà di chiamarla sfruttamento. Se solo voialtri applicaste l'Economia, è appena possibile che la gente possa ottenere qualcosa da mangiare. Noi siamo i pratici; ed è per questo che avete paura di noi. Ecco perché dovete procurarvi due unti Capitalisti per avviare un'altra cattedra; soltanto perché io ho fatto uscire il segreto dal sacco.»
+
+«Piuttosto un gatto selvatico, non è vero?» disse l'Economo sorridendo, «quello che hai fatto uscire dal sacco?»
+
+«E piuttosto un sacco d'oro, non è vero,» disse Craken, «quello in cui state di nuovo rinchiudendo il gatto?»
+
+«[[Well|Beh]], suppongo che su tutto ciò non saremo mai d'accordo,» disse l'altro. «Ma quei tizi sono usciti dalla loro cappella nel [[Garden|giardino]]; e se vuoi fumarti là la tua pipa, faresti meglio a venire.» Osservò con un certo divertimento il suo compagno frugarsi in tutte le tasche finché non produsse una pipa, e poi, fissandola con aria distratta, Craken si [[Rose|alzò]] in piedi, ma anche nel farlo pareva tastarsi di nuovo tutto addosso. Il signor Baker l'Economo pose fine alla controversia con un felice riso di [[Reconciliation|riconciliazione]]. «Voi siete i pratici, e farete saltare in aria la città con la dinamite. Solo che probabilmente vi dimenticherete la dinamite, come scommetto che ti sei dimenticato il tabacco. Non importa, prendine una presa del mio. Fiammiferi?» Gettò attraverso il tavolo una borsa da tabacco e i suoi accessori; per esser presa al volo dal signor Craken con quella destrezza mai dimenticata da un giocatore di cricket, anche quando adotta opinioni generalmente ritenute non cricket. I due uomini si [[Rose|alzarono]] insieme; ma Baker non poté trattenersi dall'osservare: «Sei davvero tu l'unico pratico? Non c'è nulla da dire in favore dell'Economia Applicata, che si ricorda di portare una borsa da tabacco oltre alla [[Well|pipa]]?»
+
+Craken lo guardò con occhi covanti; e disse infine, dopo aver lentamente vuotato l'ultimo sorso di vino: «Diciamo che c'è un altro genere di praticità. Ammetto pure che dimentico i dettagli e via dicendo. Ciò che voglio tu comprenda è questo» – restituì automaticamente la borsa; ma i suoi occhi erano lontani e ardenti come giaietto, quasi terribili – «poiché l'interno del nostro intelletto è cambiato, poiché noi abbiamo davvero una nuova idea del giusto, faremo cose che tu ritieni davvero sbagliate. E saranno molto pratiche.»
+
+«Sì,» disse [[Father Brown]], uscendo d'improvviso dalla sua trance. «È esattamente ciò che ho detto io.»
+
+Guardò Craken dall'altra parte del tavolo con un sorriso vitreo e piuttosto spettrale, dicendo: «Il signor Craken ed io siamo in completo accordo.»
+
+«[[Well|Beh]],» disse Baker, «Craken va fuori a fumarsi una pipa con i plutocrati; ma [[Doubt|dubito]] che sarà una pipa di pace.»
+
+Si voltò piuttosto bruscamente e chiamò un anziano inserviente sullo sfondo. Mandeville era uno degli ultimi College all'antica; e perfino Craken era uno dei primi Comunisti; d'avanti al Bolscevismo d'oggi. «Questo mi ricorda,» stava dicendo l'Economo, «che, dato che non vuoi far girare la tua pipa della pace, dobbiamo mandar fuori i sigari ai nostri illustri ospiti. Se sono fumatori, devono struggersi dal [[Longing|desiderio]] d'una fumata; giacché ficcano il naso nella cappella fin dall'[[Time|ora]] del pasto.»
+
+Craken proruppe in una risata selvaggia e stridente. «Oh, glieli porto io i loro sigari,» disse. «Sono soltanto un proletario.»
+
+Baker e Brown e l'inserviente furono tutti testimoni del fatto che il Comunista si diresse furibondo nel [[Garden|giardino]] per affrontare i milionari; ma nulla di più si vide o si udì di loro finché, come già registrato, [[Father Brown]] non li trovò morti nelle loro sedie.
+
+Si convenne che il Rettore e il prete restassero a sorvegliare la scena della [[Tragedy|tragedia]], mentre l'Economo, più giovane e più rapido nei movimenti, correva a chiamare medici e poliziotti. [[Father Brown]] si avvicinò al tavolo sul quale uno dei sigari si era consumato per intero, tranne un pollice o due; l'altro era caduto dalla mano e si era spento in scintille morenti sul lastricato sconnesso. Il Rettore del Mandeville si sedette con mano piuttosto malferma su un sedile abbastanza discosto e affondò la fronte calva tra le mani. Poi alzò lo sguardo dapprima piuttosto stancamente; e poi parve davvero trasalire e ruppe l'immobilità del [[Garden|giardino]] con una parola simile a una piccola esplosione d'orrore.
+
+C'era una certa qualità in [[Father Brown]] che talvolta si poteva definire da agghiacciare il [[Blood|sangue]]. Egli pensava sempre a ciò che stava facendo e mai a se fosse fatto; avrebbe compiuto le cose più brutte o orribili o indegne o sudicie con la stessa calma d'un chirurgo. C'era un certo vuoto, nella sua mente semplice, di tutte quelle cose comunemente associate all'essere superstiziosi o sentimentali. Si sedette sulla sedia dalla quale era caduto il cadavere, raccolse il sigaro che il cadavere aveva in parte fumato, ne staccò con cura la cenere, ne esaminò il mozzicone e poi se lo ficcò in bocca e l'accese. Sembrava una sorta di buffonata oscena e [[Grotesque|grottesca]] a derisione dei morti; e a lui pareva il più ordinario buon senso. Una nuvola si levò verso l'alto come il fumo di qualche selvaggio sacrificio idolatrico; ma a [[Father Brown]] appariva un fatto perfettamente [[Self|auto]]evidente che l'unico modo per scoprire com'è un sigaro è fumarlo. Né valse a diminuire l'orrore, per il suo vecchio amico, il Rettore del Mandeville, avere il vago ma acuto sospetto che [[Father Brown]], date le possibilità del caso, stesse rischiando la propria vita.
+
+«No; credo che vada tutto bene,» disse il prete, riposando il mozzicone. «Ottimi sigari. I vostri sigari. Non americani né tedeschi. Non credo che ci sia nulla di strano nel sigaro in sé; ma farebbero meglio a occuparsi delle ceneri. Questi uomini sono stati avvelenati in qualche modo con quel genere di roba che irrigidisce il [[Body|corpo]] rapidamente... A proposito, ecco che arriva qualcuno che ne sa più di noi.»
+
+Il Rettore si raddrizzò con una scossa curiosamente a disagio; poiché in verità la grande [[Shadow|ombra]] che era caduta di traverso al sentiero precedeva una figura che, per quanto pesante, era quasi lieve di passo quanto un'[[Shadow|ombra]]. Il Professor Wadham, eminente titolare della Cattedra di Chimica, si muoveva sempre con gran quiete nonostante la mole, e non c'era nulla di strano nel suo passeggiare per il [[Garden|giardino]]; eppure pareva esserci qualcosa d'innaturalmente pulito nel suo comparire nell'esatto momento in cui si menzionava la chimica.
+
+Il Professor Wadham si vantava della propria quiete; alcuni avrebbero detto della propria insensibilità. Non mosse un capello sul suo appiattito capo color lino, ma restò a guardare in basso i morti con un'ombra di qualcosa di simile all'indifferenza sul grande volto di rana. Solo quando guardò la cenere del sigaro, che il prete aveva conservato, la toccò con un dito; poi parve restare ancor più immobile di prima; ma nell'[[Shadow|ombra]] del suo volto gli occhi per un istante parvero protendersi telescopicamente come uno dei suoi stessi microscopi. Aveva certamente compreso o riconosciuto qualcosa; ma non disse nulla.
+
+«Non so da dove si debba cominciare in questa faccenda,» disse il Rettore.
+
+«Io comincerei,» disse [[Father Brown]], «col chiedere dove questi disgraziati abbiano trascorso gran parte del [[Time|tempo]] oggi.»
+
+«Hanno gironzolato nel mio laboratorio per un bel po' di [[Time|tempo]],» disse Wadham, parlando per la prima [[Time|volta]]. «Baker viene spesso su a far quattro chiacchiere, e questa [[Time|volta]] ha portato i suoi due patroni a ispezionare il mio reparto. Ma credo che siano andati dappertutto; veri turisti. So che sono andati alla cappella e perfino nel tunnel sotto la cripta, dove bisogna accendere le candele; invece di digerire il cibo come persone assennate. Baker pare che li abbia portati dappertutto.»
+
+«Erano interessati a qualcosa di particolare nel suo reparto?» chiese il prete. «Che cosa stava facendo lì proprio allora?»
+
+[[The Professor|Il Professore]] di Chimica mormorò una formula chimica che cominciava con «solfato» e finiva con qualcosa che suonava come «silenio»; incomprensibile a entrambi i suoi ascoltatori. Poi si allontanò stancamente e sedette su una panca lontana al sole, chiudendo gli occhi, ma volgendo in alto il grande volto con pesante indulgenza.
+
+A questo punto, per un netto contrasto, i prati furono attraversati da una figura svelta che avanzava rapida e dritta come una pallottola; e Padre Brown riconobbe i lindi abiti neri e il viso astuto da cane d'un medico legale che aveva incontrato nei quartieri più poveri della città. Era il primo ad arrivare del contingente ufficiale.
+
+«Senta,» disse il Rettore al prete, prima che il dottore fosse a portata d'orecchio. «Devo sapere una cosa. Intendeva davvero ciò che ha detto sul Comunismo come pericolo reale che porta al crimine?»
+
+«Sì,» disse [[Father Brown]] sorridendo piuttosto tetramente, «ho davvero notato il diffondersi di alcuni modi e influssi comunisti; e, in un certo senso, questo è un crimine comunista.»
+
+«Grazie,» disse il Rettore. «Allora devo assentarmi e occuparmi subito d'una cosa. Dica alle autorità che sarò di ritorno tra dieci minuti.»
+
+Il Rettore era scomparso in uno degli archi Tudor proprio all'incirca nel momento in cui il medico legale aveva raggiunto il tavolo e allegramente riconosciuto [[Father Brown]]. Alla proposta di quest'ultimo di sedersi al tavolo della tragedia, il dottor Blake lanciò un'occhiata acuta e dubbiosa al grosso chimico mellifluo e apparentemente sonnolento, che occupava un sedile più discosto. Fu debitamente informato dell'[[Identity|identità]] del [[The Professor|Professore]], e di ciò che si era finora raccolto della testimonianza del [[The Professor|Professore]]; e l'ascoltò in silenzio mentre conduceva un esame preliminare dei cadaveri. Naturalmente pareva più concentrato sui corpi effettivi che sulle testimonianze per sentito dire, finché un particolare non lo distolse d'un tratto interamente dalla scienza dell'anatomia.
+
+«Che cosa ha detto di studiare, il [[The Professor|Professore]]?» domandò.
+
+[[Father Brown]] ripeté pazientemente la formula chimica che non capiva.
+
+«Cosa?» scattò il dottor Blake, come un colpo di [[Pistol|pistola]]. «Perbacco! Questo è piuttosto spaventoso!»
+
+«Perché è un [[Poison|veleno]]?» domandò [[Father Brown]].
+
+«Perché è una sciocchezza,» rispose il dottor Blake. «È semplicemente un'assurdità. Il Professore è un chimico piuttosto famoso. Perché un chimico famoso dice deliberatamente delle sciocchezze?»
+
+«[[Well|Beh]], credo di saperlo,» rispose [[Father Brown]] mitemente. «Dice sciocchezze perché sta mentendo. Sta nascondendo qualcosa; e voleva nasconderlo specialmente a questi due uomini e ai loro rappresentanti.»
+
+Il dottore sollevò lo sguardo dai due uomini e guardò dall'altra parte la figura quasi innaturalmente immobile del grande chimico. Avrebbe potuto quasi dormire; una farfalla da [[Garden|giardino]] si era posata su di lui e pareva mutare la sua immobilità in quella d'un idolo di pietra. Le grandi pieghe del suo volto di rana ricordarono al dottore le pelli pendenti d'un rinoceronte.
+
+«Sì,» disse [[Father Brown]], con voce bassissima. «È un uomo malvagio.»
+
+«Che Dio lo maledica!» esclamò il dottore, mosso d'improvviso fin nelle sue viscere. «Vuol dire che un grande uomo di scienza come quello traffica in omicidi?»
+
+«I critici schizzinosi si sarebbero lamentati del suo trafficare in omicidi,» disse il prete con distacco. «Non dico che io stesso vada matto per la gente che traffica in omicidi a quel modo. Ma ciò che più conta – sono certo che quei poveri diavoli erano tra i suoi critici schizzinosi.»
+
+«Vuol dire che scoprirono il suo segreto e lui li fece tacere?» disse Blake aggrottando le ciglia. «Ma qual era, diavolo, il suo segreto? Come poteva un uomo commettere un omicidio su vasta scala in un luogo come questo?»
+
+«Le ho detto il suo segreto,» disse il prete. «È un segreto dell'[[Soul|anima]]. È un uomo cattivo. Per amor del cielo non pensi che lo dica perché lui ed io siamo di scuole o tradizioni opposte. Ho una folla di amici scienziati; e la maggior parte di loro è eroicamente disinteressata. Perfino dei più scettici direi soltanto che sono disinteressati in modo piuttosto irrazionale. Ma di tanto in tanto ci si imbatte in un uomo che è un materialista, nel senso di una bestia. Ripeto che è un uomo cattivo. Assai peggiore di —» E [[Father Brown]] parve esitare in cerca d'una parola.
+
+«Vuol dire assai peggiore del Comunista?» suggerì l'altro.
+
+«No; voglio dire assai peggiore dell'assassino,» disse [[Father Brown]].
+
+Si alzò in piedi con aria distratta; e a stento si accorse che il suo compagno lo fissava.
+
+«Ma non intendeva dire,» chiese Blake infine, «che questo Wadham è l'assassino?»
+
+«Oh, no,» disse [[Father Brown]] più allegramente. «L'assassino è una persona assai più simpatica e comprensibile. Egli almeno era disperato; e aveva le scusanti dell'improvvisa collera e della [[Despair|disperazione]].»
+
+«Ma come,» esclamò il dottore, «vuol dire che era il Comunista, dopotutto?»
+
+Fu proprio in quel momento, abbastanza a proposito, che gli agenti di polizia comparvero con un annuncio che pareva concludere il caso nel modo più decisivo e soddisfacente. Erano stati alquanto ritardati nel raggiungere la scena del delitto dal semplice fatto che avevano già catturato il criminale. Anzi, lo avevano catturato quasi alle porte della loro stessa sede ufficiale. Avevano già avuto motivo di sospettare le attività di Craken il Comunista durante vari disordini in città; quando udirono dell'oltraggio ritennero sicuro arrestarlo; e trovarono l'arresto pienamente giustificato. Poiché, come l'Ispettore Cook spiegò raggiante a docenti e dottori sul prato del [[Garden|giardino]] di Mandeville, non appena il famigerato Comunista fu perquisito, si scoprì che portava effettivamente con sé una scatola di fiammiferi avvelenati.
+
+Nel momento in cui [[Father Brown]] udì la parola «fiammiferi», balzò dal suo sedile come se un fiammifero fosse stato acceso sotto di lui.
+
+«Ah,» esclamò, con una sorta d'universale raggiante letizia, «e ora è tutto chiaro.»
+
+«Che cosa intende con tutto chiaro?» domandò il Rettore del Mandeville, che era tornato in tutta la pompa del proprio ufficialismo per pareggiare la pompa degli agenti di polizia che ora occupavano il College come un esercito vittorioso. «Vuol dire che ora è convinto che il caso contro Craken sia chiaro?»
+
+«Voglio dire che Craken è scagionato,» disse [[Father Brown]] con fermezza, «e il caso contro Craken è tolto di mezzo. Crede davvero che Craken sia il tipo d'uomo che andrebbe in giro ad avvelenare la gente con dei fiammiferi?»
+
+«[[Well|Va benissimo]] tutto questo,» rispose il Rettore, con l'espressione turbata che non aveva mai perduto da quando era accaduta la prima scena. «Ma è stato lei stesso a dire che i fanatici con falsi principi possono compiere cose malvagie. Quanto a questo, è stato lei stesso a dire che il Comunismo va insinuandosi dappertutto e che le abitudini comuniste si diffondono.»
+
+[[Father Brown]] rise in modo piuttosto mortificato.
+
+«Quanto a quest'ultimo punto,» disse, «suppongo di dovervi tutti una scusa. Pare che io faccia sempre un pasticcio con le mie sciocche piccole battute.»
+
+«Battute!» ripeté il Rettore, fissandolo piuttosto indignato.
+
+«[[Well|Beh]],» spiegò il prete, sfregandosi la testa. «Quando ho parlato d'un'abitudine comunista che si diffonde, intendevo solo un'abitudine che mi è capitato di notare due o tre volte perfino oggi. È un'abitudine comunista per nulla limitata ai Comunisti. È la straordinaria abitudine di tanti uomini, specie inglesi, di mettersi in tasca le scatole di fiammiferi altrui senza ricordarsi di restituirle. Naturalmente, sembra una sciocchezzuola terribilmente stupida di cui parlare. Ma si dà il caso che sia il modo in cui è stato commesso il delitto.»
+
+«A me suona del tutto folle,» disse il dottore.
+
+«[[Well|Beh]], se quasi chiunque può dimenticarsi di restituire i fiammiferi, potete scommetterci le scarpe che Craken se ne sarebbe dimenticato. Così l'avvelenatore che aveva preparato i fiammiferi se ne sbarazzò rifilandoli a Craken, col semplice espediente di prestarglieli e di non farseli restituire. Un modo davvero ammirevole di scaricare la responsabilità; poiché Craken stesso sarebbe stato perfettamente incapace d'immaginare da dove li avesse presi. Ma quando li usò del tutto innocentemente per accendere i sigari che offrì ai nostri due visitatori, cadde in una trappola evidente; una di quelle trappole troppo evidenti. Era l'audace e malvagio Rivoluzionario che assassinava due milionari.»
+
+«[[Well|Beh]], chi altri avrebbe voluto ucciderli?» ringhiò il dottore.
+
+«Ah, chi mai davvero?» rispose il prete; e la sua voce mutò in una gravità assai maggiore. «Qui giungiamo all'altra cosa che vi ho detto; e quella, lasciate che ve lo dica, non era una battuta. Vi ho detto che eresie e false dottrine erano divenute comuni e da conversazione; che tutti vi erano abituati; che nessuno le notava davvero. Credevate che intendessi il Comunismo, quando l'ho detto? Ma no, era proprio il contrario. Eravate tutti nervosi come gatti riguardo al Comunismo; e sorvegliavate Craken come un lupo. Naturalmente. Il Comunismo è un'eresia; ma non è un'eresia che voialtri date per scontata. È il Capitalismo che date per scontato; o piuttosto i vizi del Capitalismo travestiti da un morto Darwinismo. Ricordate ciò che dicevate tutti nel Common Room, sulla vita che è solo una mischia, e la [[Nature|natura]] che esige la [[Survival|sopravvivenza]] dei più adatti, e su come non importi se i poveri sono pagati giustamente o no? Ma quella è l'eresia a cui vi siete abituati, amici miei; ed è ogni briciolo un'eresia tanto quanto il Comunismo. È quella la [[morality|morale]], o immoralità, anticristiana che accogliete con tutta naturalezza. Ed è quell'immoralità che oggi ha fatto d'un uomo un assassino.»
+
+«Quale uomo?» esclamò il Rettore, e la sua voce s'incrinò per un'improvvisa debolezza.
+
+«Lasciate che l'affronti in un altro modo,» disse il prete placidamente. «Parlate tutti come se Craken fosse fuggito; ma non è fuggito. Quando i due uomini crollarono, corse giù per la strada, chiamò il dottore semplicemente gridando dalla [[Window|finestra]], e poco dopo cercava di chiamare la polizia. Fu così che venne arrestato. Ma non vi colpisce, ora che ci si pensa, che il signor Baker l'Economo impieghi un [[Time|tempo]] piuttosto lungo a cercare la polizia?»
+
+«E allora che sta facendo?» chiese il Rettore bruscamente.
+
+«Immagino che stia distruggendo carte; o forse frugando le stanze di questi uomini per assicurarsi che non ci abbiano lasciato una lettera. Oppure potrebbe avere qualcosa a che fare col nostro amico Wadham. Dove entra lui in tutto questo? È in verità molto semplice e anche una sorta di battuta. Il signor Wadham sta sperimentando veleni per la prossima guerra; e possiede qualcosa di cui una vampata di fiamma irrigidisce un uomo, uccidendolo. Naturalmente, non aveva nulla a che fare con l'uccisione di questi uomini; ma nascose il suo segreto chimico per una ragione molto semplice. Uno di loro era uno yankee puritano e l'altro un ebreo cosmopolita; e quei due tipi sono spesso Pacifisti fanatici. Avrebbero chiamato ciò un progettare l'omicidio e probabilmente si sarebbero rifiutati di aiutare il College. Ma Baker era amico di Wadham ed era facile per lui intingere i fiammiferi nel nuovo materiale.»
+
+Un'altra peculiarità del piccolo prete era che la sua mente era tutta d'un pezzo, ed egli era inconsapevole di molte incongruenze; passava dal tono d'un discorso del tutto pubblico a qualcosa di del tutto privato, senza alcun particolare imbarazzo. In questa occasione fece restare la maggior parte della compagnia a bocca aperta per la [[Mystification|perplessità]], cominciando a parlare a una sola persona quando aveva appena parlato a dieci; del tutto indifferente al fatto che solo quell'una potesse avere qualche nozione di ciò di cui parlava.
+
+«Mi dispiace se l'ho fuorviata, dottore, con quella farneticante digressione metafisica sull'uomo del peccato,» disse in tono di scusa. «Naturalmente non aveva nulla a che fare con l'omicidio; ma la [[Truth|verità]] è che per un momento avevo dimenticato tutto dell'omicidio. Avevo dimenticato tutto, vede, tranne una sorta di visione di quel tizio, col suo vasto volto disumano, accovacciato tra i [[Flowers|fiori]] come qualche cieco [[Monster|mostro]] dell'Età della Pietra. E stavo pensando che certi uomini sono piuttosto mostruosi, come uomini di pietra; ma era tutto irrilevante. L'essere cattivi dentro ha assai poco a che fare col commettere crimini fuori. I peggiori criminali non hanno commesso crimini. Il punto pratico è: perché il criminale pratico ha commesso questo crimine? Perché Baker l'Economo ha voluto uccidere questi uomini? È tutto ciò che ora ci riguarda. La risposta è la risposta alla domanda che ho posto due volte. Dove si trovavano questi uomini gran parte del [[Time|tempo]], a parte il ficcare il naso in cappelle o laboratori? Per stessa ammissione dell'Economo, parlavano d'affari con l'Economo.
+
+«Ora, con tutto il rispetto per i morti, non mi prostro esattamente dinanzi all'intelletto di questi due finanzieri. Le loro vedute sull'economia e sull'etica erano pagane e senza cuore. Le loro vedute sulla Pace erano sciocchezze. Le loro vedute sul Porto erano ancor più deplorevoli. Ma una cosa capivano; e cioè gli affari. E ci misero un [[Time|tempo]] notevolmente breve a scoprire che [[The Business Man|l'uomo d'affari]] incaricato dei fondi di questo College era un truffatore. O dovrei dire, un vero seguace della dottrina della lotta illimitata per la vita e della [[Survival|sopravvivenza]] dei più adatti.»
+
+«Vuol dire che stavano per smascherarlo e lui li uccise prima che potessero parlare,» disse il dottore aggrottando le ciglia. «Ci sono un mucchio di dettagli che non capisco.»
+
+«Ci sono alcuni dettagli di cui io stesso non sono sicuro,» disse il prete francamente. «Sospetto che tutta quella faccenda delle candele sottoterra avesse qualcosa a che fare col sottrarre ai milionari i loro fiammiferi, o forse con l'assicurarsi che non avessero fiammiferi. Ma sono certo del gesto principale, il gesto gaio e noncurante di Baker che gettava i suoi fiammiferi al noncurante Craken. Quel gesto fu il colpo micidiale.»
+
+«C'è una cosa che non capisco,» disse l'Ispettore. «Come faceva Baker a sapere che Craken non si sarebbe acceso da sé lì per lì al tavolo, diventando un cadavere indesiderato?»
+
+Il volto di [[Father Brown]] si fece quasi grave di rimprovero; e la sua voce ebbe una sorta di mesto ma generoso calore.
+
+«[[Well|Beh]], accidenti a tutto,» disse, «era soltanto un ateo.»
+
+«Temo di non capire che cosa intenda,» disse l'Ispettore, cortesemente.
+
+«Voleva soltanto abolire Dio,» spiegò [[Father Brown]] in tono temperato e ragionevole. «Voleva soltanto distruggere i Dieci Comandamenti e sradicare tutta la religione e la civiltà che l'avevano fatto, e cancellare tutto il buon senso della proprietà e dell'onestà; e lasciare che la sua cultura e il suo paese fossero appiattiti dai selvaggi venuti dai confini della terra. Era tutto ciò che voleva. Non avete alcun diritto di accusarlo di nulla oltre a questo. Accidenti, ognuno traccia il limite da qualche parte! E voi venite qui a suggerire con calma che un Uomo di Mandeville della vecchia generazione (poiché Craken era della vecchia generazione, quali che fossero le sue vedute) avrebbe cominciato a fumare, o perfino ad accendere un fiammifero, mentre stava ancora bevendo il Porto del College, dell'annata dell'08 – no, no; gli uomini non sono così totalmente privi di leggi e di limiti! Io ero là; l'ho visto; non aveva finito il suo vino, e voi mi chiedete perché non fumò! Nessuna domanda tanto anarchica ha mai scosso le arcate del Mandeville College. Buffo posto, il Mandeville College. Buffo posto, [[Oxford]]. Buffo posto, l'Inghilterra.»
+
+«Ma lei non ha nulla di particolare a che fare con [[Oxford]]?» chiese il dottore incuriosito.
+
+«Ho a che fare con l'Inghilterra,» disse [[Father Brown]]. «Vengo di là. E la cosa più buffa di tutte è che, anche se la si [[Love|ama]] e le si appartiene, non se ne riesce comunque a cavare né capo né coda.»

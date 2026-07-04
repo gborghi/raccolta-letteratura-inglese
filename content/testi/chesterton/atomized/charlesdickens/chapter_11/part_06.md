@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/charlesdickens-(chesterton)">CharlesDickens</a> › <a href="/testi/chesterton/atomized/charlesdickens/chapter_11">Chapter 11</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/charlesdickens/chapter_11/part_05">‹ part 05</a><a class="ex-next" href="/testi/chesterton/atomized/charlesdickens/chapter_12/part_01">part 01 ›</a></div>
@@ -104,3 +106,103 @@ did everything that the blackest misconduct could have done.
 A random sensibility, started about the shuffling of papers
 or the shutting of a [[Window|window]], ended by tearing two clean,
 Christian people from each other, like a blast of bigamy or adultery.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/charlesdickens-(chesterton)">CharlesDickens</a> › <a href="/testi/chesterton/atomized/charlesdickens/chapter_11">Chapter 11</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/charlesdickens/chapter_11/part_05">‹ part 05</a><a class="ex-next" href="/testi/chesterton/atomized/charlesdickens/chapter_12/part_01">part 01 ›</a></div>
+</nav>
+
+Ma c'è una buona ragione per menzionare specialmente Skimpole.
+Nel personaggio di Skimpole, Dickens manifestò ancora una volta
+una qualità in lui assai ammirevole: intendo una disposizione
+a vedere le cose con sanità di mente e a satireggiare persino i propri difetti.
+Egli era comunemente occupato a satireggiare i Gradgrind,
+gli economisti, gli uomini di Smiles e del [[Self|self-help]]. Per lui
+non c'era nulla di più povero della loro ricchezza, nulla di più
+egoista del loro rinunciare a [[Self|sé]]. E contro di loro era
+solito contrapporre le persone di indole più espansiva:
+i felici Swiveller e Micawber, che, se erano poveri,
+erano almeno ricchi quanto il loro ultimo penny poteva renderli.
+Egli amava quella grande spensieratezza cristiana che cerca il proprio cibo
+da Dio. Era semplicemente una sorta d'incontrollabile onestà a
+spingerlo a caldeggiare l'altro lato. Non poteva nascondere a
+se stesso né al mondo quell'uomo che cominciava cercando il proprio cibo
+dal vicino senza informare il vicino del fatto.
+Aveva mostrato quanto potesse essere buona l'irresponsabilità; non poteva
+abbassarsi a nascondere quanto potesse essere cattiva. Creò Skimpole;
+e Skimpole è l'oscuro rovescio di Micawber.
+
+Nel tentare Skimpole egli tentò qualcosa dal significato grande
+e urgente. Lo tentò, dico; non asserisco
+che lo portò a compimento. Come s'è osservato, egli non fu mai
+felice nel descrivere il cambiamento psicologico; i suoi personaggi
+sono i medesimi ieri, oggi e per sempre. E i critici
+si sono lamentati assai giustamente della rozza scelleratezza dell'azione
+di Skimpole nella faccenda di Joe e del signor Bucket. Certamente Skimpole
+non aveva bisogno di commettere un goffo tradimento per guadagnare una goffa bustarella;
+non aveva che da rivolgersi al signor Jarndyce. Aveva perduto il proprio [[Honour|onore]]
+da troppo tempo per aver bisogno di venderlo.
+
+L'effetto è cattivo; ma ripeto che l'intento era grande.
+Dickens volle, sotto il simbolo di Skimpole, additare una
+[[Truth|verità]] che è forse la più terribile nella psicologia morale.
+Intendo il fatto che non è affatto facile tracciare la linea
+tra colpa lieve e colpa grave. Volle mostrare che non vi sono
+difetti, per quanto benevoli, che possiamo permetterci di blandire
+o di lasciar [[Alone|stare]]; volle dire che forse Skimpole era un tempo
+stato un uomo buono quanto Swiveller. Se blandito o lasciato [[Alone|stare]],
+il nostro difetto più benevolo può distruggere la nostra virtù più benevola.
+Una cosa può cominciare come una debolezza assai umana e finire come una debolezza assai
+disumana. Skimpole significa che gli estremi del male sono
+assai più vicini di quanto pensiamo. Un uomo può cominciare con l'essere troppo generoso
+per pagare i propri debiti, e finire con l'essere troppo meschino per pagare i propri debiti.
+Poiché i vizi sono assai stranamente in lega, e s'incoraggiano a vicenda.
+Un uomo sobrio può diventare un ubriacone per essere un codardo.
+Un uomo coraggioso può diventare un codardo per essere un ubriacone.
+Questa è la cosa che Dickens tentava oscuramente di trasmettere in Skimpole:
+che un uomo potrebbe diventare una montagna di egoismo se badasse
+solo alle virtù dickensiane. Non c'è nulla che possa essere trascurato;
+non esiste (voleva dire) una cosa come il peccatuccio.
+
+Mi sono soffermato su questa sua consapevolezza perché, ahimè, essa aveva
+un taglio assai affilato per lui stesso. Persino mentre permetteva che un difetto
+in origine piccolo facesse una [[Comedy|commedia]] di Skimpole, un difetto in origine
+piccolo faceva una [[Tragedy|tragedia]] di Charles Dickens. Poiché Dickens
+aveva anch'egli una cattiva qualità, non intrinsecamente assai terribile,
+che lasciò rovinare la propria vita. Aveva anch'egli una piccola debolezza
+che poteva talvolta divenire più forte di tutte le sue forze.
+Il suo egoismo non era, non occorre quasi dirlo, l'egoismo
+di Gradgrind; egli era particolarmente compassionevole e liberale.
+Né era minimamente l'egoismo di Skimpole. Egli era
+interamente [[Self|autosufficiente]], industrioso e dignitoso.
+Il suo egoismo era tutto un egoismo dei nervi.
+Qualunque cosa il suo capriccio o la temperatura dell'istante gli dicessero
+di fare doveva essere fatta. Era il tipo d'uomo che avrebbe
+spaccato una [[Window|finestra]] se non si fosse aperta a dargli aria.
+E questa sua debolezza aveva, all'[[Time|epoca]] di cui parliamo,
+condotto a una rottura tra sé e la moglie che
+egli era troppo esasperato ed eccitato per sanare in [[Time|tempo]].
+Ogni cosa doveva essere messa a posto, e messa a posto subito, con lui.
+Se [[London|Londra]] lo annoiava, doveva partire subito per il Continente;
+se il Continente lo annoiava, doveva tornare subito a [[London|Londra]].
+Se la giornata era troppo rumorosa, tutta la casa doveva tacere;
+se la [[Night|notte]] era troppo quieta, tutta la casa doveva svegliarsi.
+Soprattutto, aveva il carattere supremo del despota domestico:
+che il suo buon umore era, se possibile, più dispotico del
+suo cattivo umore. Quando era infelice (come spesso era,
+pover'uomo), non dovevano far altro che ascoltare le sue querimonie.
+Quando era felice dovevano ascoltare i suoi romanzi.
+Tutto questo, che era principalmente mera eccitabilità, non pareva
+ammontare a molto; non significava affatto che egli avesse cessato
+di essere un uomo dai costumi puliti e dal cuore gentile e quietamente onesto.
+Ma c'era in ciò questo di malvagio: che egli non resisteva affatto alla propria
+piccola debolezza; la vezzeggiava come Skimpole vezzeggiava la sua.
+E ciò separò lui e la moglie. Un mero sciocco vezzo del temperamento
+fece tutto ciò che la più nera cattiva condotta avrebbe potuto fare.
+Una casuale sensibilità, scatenata a proposito dello scompiglio delle carte
+o della chiusura di una [[Window|finestra]], finì col lacerare due persone pulite
+e cristiane l'una dall'altra, come una raffica di bigamia o adulterio.

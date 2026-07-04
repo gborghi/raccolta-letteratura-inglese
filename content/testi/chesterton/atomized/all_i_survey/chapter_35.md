@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/all-i-survey-(chesterton)">All I Survey</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/all_i_survey/chapter_34">‹ Chapter 34</a><a class="ex-next" href="/testi/chesterton/atomized/all_i_survey/chapter_36">Chapter 36 ›</a></div>
@@ -151,5 +153,154 @@ For [[Romance|romance]] was only the name given to a [[Love|love]] of life which
 something much larger than a life of [[Love|love]], in the Byronic sense.
 And anything from which it has passed is instantly corrupt and crawling
 with worms of [[Death|death]].
+
+-*-
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/all-i-survey-(chesterton)">All I Survey</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/all_i_survey/chapter_34">‹ Chapter 34</a><a class="ex-next" href="/testi/chesterton/atomized/all_i_survey/chapter_36">Chapter 36 ›</a></div>
+</nav>
+
+XXXV
+
+_Sull'amore_
+
+C'ERA un tempo, e forse c'è ancora, una misteriosa istituzione
+per signorine nota col nome di collegio di perfezionamento. La principale accusa
+che le si moveva era che, in certi casi, significava perfezionare
+un'[[Education|educazione]] senza mai averla incominciata. In ogni caso, è questo
+il male di moltissime istituzioni moderne,
+e di nessuna più di quelle che pronunciano sentenza sulla [[history|storia]]
+dell'[[Education|educazione]] femminile e in genere delle faccende femminili.
+La maledizione di quasi tutte simili sentenze è la maledizione giornalistica
+di aver sentito l'ultima notizia; vale a dire, di aver sentito
+la fine della storia senza averne mai neppure sentito il principio.
+Diciamo che certa gente non conosce l'A B C di un argomento,
+ma il guaio con costoro è che essi conoscono l'X Y Z
+di un argomento senza conoscerne l'A B C.
+
+Stamattina ho letto un articolo in una rivista molto seria
+nel quale l'autore citava l'osservazione di Byron secondo cui un certo
+genere di [[Romantic Love|amore romantico]] «è l'intera esistenza della donna».
+L'autore proseguiva affermando che i primi a mettere mai in discussione
+questa concezione furono le rivoluzionarie Suffragette alla fine
+del diciannovesimo secolo. La [[Truth|verità]] è che i primi
+a sostenere mai questa concezione furono i rivoluzionari
+Romantici agli inizi del diciannovesimo secolo.
+L'abitudine di attribuire all'[[Romantic Love|amore romantico]] questa importanza esagerata ed
+esclusiva nella vita umana fu essa stessa una faccenda del tutto moderna
+e rivoluzionaria, e risale al movimento romantico
+comunemente fatto risalire a Rousseau, ma che io credo assai più veracemente
+da ricondurre all'influenza dei sentimentalisti tedeschi.
+La maggior parte di coloro che maledicono Rousseau non hanno mai letto Rousseau,
+o hanno letto soltanto le _Confessioni_ e non il _Contrat Social._
+I critici leggono le _Confessioni,_ non fosse che per condannarle;
+perché i critici stessi sono romantici moderni
+e sentimentalisti; uomini a cui piacciono le Confessioni e dispiacciono i Contratti.
+I critici odiano o schivano il _Contrat Social,_ non perché sia
+sdolcinato e sentimentale (giacché non lo è), ma perché è
+duro e chiaro e lucido e logico. Rousseau ebbe le sue
+debolezze emotive come individuo, al pari di altri individui,
+ma non fu invano un filosofo del diciottesimo secolo.
+Ciò che i moderni gli rimproverano non è la sciocchezza
+delle sue confessioni, bensì la solidità delle sue convinzioni,
+e il fatto che, come i vecchi teologi, egli sapesse tenere
+le idee generali in modo fermo e reciso. Quando si tratta di
+definire i suoi princìpi fondamentali, Rousseau è tanto risoluto quanto Calvino.
+Furono entrambi spietati teorici di Ginevra, benché l'uno predicasse
+la teoria del pessimismo e l'altro la teoria dell'ottimismo.
+Non sostengo di essere d'accordo con nessuno dei due, ma Rousseau
+sarebbe utile quanto Calvino nell'insegnare ad alcuni dei suoi critici
+come si critica.
+
+Ma Rousseau è una parentesi. Da qualunque luogo venisse il vero Movimento Romantico,
+dalle foreste tedesche o dal lago ginevrino,
+esso fu una faccenda recente e rivoluzionaria a paragone
+della [[history|storia]] nel suo complesso. Ma è ovvio che l'ordinario
+critico moderno ignora del tutto la [[history|storia]] nel suo complesso.
+Egli sa che sua madre leggeva Tennyson e sua nonna
+leggeva Byron. Oltre a ciò, non riesce a immaginare proprio nulla;
+suppone che le sue trisavole e le loro
+trisavole avessero continuato a leggere Byron
+dal principio del mondo. Immagina che Byron,
+il quale fu fino all'ultimo un [[Rebel|ribelle]] diseredato e malfamato,
+sia stato fin dal primo momento un'autorità consacrata e convenzionale.
+Suppone perciò che tutte le donne, in tutte le epoche, avrebbero
+accettato il preistorico comandamento byroniano: che il byroniano
+genere di passione romantica fosse l'unica cura delle loro vite.
+Eppure è certo che le donne ebbero moltissime altre cure,
+e furono attaccate a moltissime altre convinzioni.
+Furono sacerdotesse, profetesse, imperatrici, regine,
+badesse, madri, grandi massaie, grandi scrittrici di lettere,
+folli fondatrici di sette, letterate che tenevano salotti, e ogni
+sorta di cose. Se aveste detto a Debora la madre in Israele,
+o a Ipazia la platonica di Alessandria, o a Caterina da Siena,
+o a Giovanna d'Arco, o a [[Isabella]] di Spagna, o a [[Maria]] Teresa d'Austria,
+o perfino a Hannah More o a Joanna Southcott, che l'[[Love|amore]]
+byroniano era «l'intera esistenza della donna», si sarebbero tutte
+mostrate assai indignate e la maggior parte di esse sarebbe montata su tutte le furie.
+Avrebbero domandato, in vari modi, se non esistesse cosa
+alcuna come l'[[Honour|onore]], cosa alcuna come il dovere, cosa alcuna come la gloria,
+cosa alcuna come i grandi studi o le grandi imprese, cosa alcuna
+come le funzioni normali e le fatiche necessarie; e incidentalmente, possiamo aggiungere,
+cosa alcuna come i bambini. Differivano moltissimo nel loro tipo
+di vocazione e perfino nella loro teoria della virtù, ma avevano tutte
+una qualche teoria della virtù che andava un poco più in là di quello.
+Fino a un determinato momento del diciottesimo secolo, praticamente
+ogni persona pensante avrebbe accettato il colossale buon
+senso espresso da un poeta francese del diciassettesimo secolo:
+_«L'amour est un plaisir; l'honneur est un devoir.»_
+
+Venne poi l'estremo accento posto sulla [[Romance|Romanticheria]] presso i Vittoriani;
+giacché i Vittoriani non si segnalarono per l'accento posto sulla virtù,
+bensì per l'accento posto sulla [[Romance|Romanticheria]]. Ma la [[Queen|Regina]] Vittoria visse così a lungo,
+e l'Età Vittoriana impiegò un [[Time|tempo]] così smisuratamente lungo a morire,
+che, al [[Time|tempo]] in cui il signor Bernard [[Shaw]] e altri diedero inizio a quella che
+chiamarono una rivolta realistica contro la [[Romance|Romanticheria]], il sentimentale
+movimento tedesco pareva non solo vecchio quanto Vittoria,
+ma vecchio quanto Boadicea. È altamente tipico, per esempio,
+che il signor Bernard [[Shaw]], in una delle sue primissime critiche,
+si lagnasse della convenzione secondo la quale chiunque
+si supponeva avesse «penetrato nel Sancta Sanctorum»
+purché si accontentasse di dire che «l'[[Love|Amore]] Basta».
+Ma, in verità, la stessa frase «l'[[Love|Amore]] Basta»
+non gli venne da alcuna autorità convenzionale o classica;
+neppure da alcun vittoriano convenzionale o conservatore.
+Gli venne da un libro di un Socialista e Rivoluzionario come lui;
+da un libro pubblicato di recente da William Morris, il quale occupava
+allora la posizione esatta che il signor [[Shaw]] occupa oggi:
+la posizione del Grande Vecchio del Socialismo.
+
+Naturalmente il movimento antiromantico guidato da [[Shaw]], come il movimento romantico
+guidato da Byron, era proceduto alla cieca e aveva sbagliato in ogni
+sorta di modo. Il mondo moderno pare non aver alcuna nozione di come conservare
+cose diverse le une accanto alle altre, di come concedere il posto proprio e proporzionato
+a ciascuna, di come salvare l'intera varia eredità della cultura.
+Non ha altra nozione se non quella di semplificare qualcosa distruggendo
+quasi ogni cosa; sia esso Rousseau che manda in pezzi i regni
+nel nome della ragione, o Byron che manda in pezzi le famiglie nel nome
+della [[Romance|Romanticheria]], o [[Shaw]] che manda in pezzi le romanticherie nel nome della franchezza
+e della formula di Ibsen. Io stesso tengo in altissimo pregio la grande
+illuminazione ottocentesca dell'[[Romantic Love|amore romantico]], così come tengo in pregio
+il grande ideale settecentesco della retta ragione e della dignità umana,
+o l'intensità del Seicento, o l'espansione del Cinquecento,
+o la divina [[logic|logica]] e il valore consacrato del Medioevo.
+Non vedo perché mai alcuna di queste conquiste culturali debba andare perduta
+o venir disprezzata, o perché sia necessario che ogni moda spazzi via
+tutto ciò che di meglio v'è in ogni altra. Può darsi che una sola buona
+usanza corrompa il mondo, ma non ho mai potuto capire perché la seconda
+buona usanza debba negare che la prima buona usanza fosse buona.
+Stando così le cose, coloro che non hanno altra nozione se non quella di rompere con la
+[[Romance|Romanticheria]] vengono visibilmente puniti col rompere con la ragione.
+Ogni nuovo [[Novel|romanzo]] realistico serve a mostrare che il realismo,
+quando è interamente svuotato della [[Romance|Romanticheria]], diventa del tutto irreale.
+Poiché [[Romance|Romanticheria]] non era che il nome dato a un [[Love|amore]] della vita che era
+qualcosa di assai più vasto di una vita d'[[Love|amore]], nel senso byroniano.
+E tutto ciò da cui esso si è dileguato è all'istante corrotto e brulicante
+di vermi di [[Death|morte]].
 
 -*-

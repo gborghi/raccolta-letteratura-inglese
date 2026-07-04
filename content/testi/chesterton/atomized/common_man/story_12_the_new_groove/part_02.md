@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/common-man-(chesterton)">Common Man</a> › <a href="/testi/chesterton/atomized/common_man/story_12_the_new_groove">Story 12 The New Groove</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/common_man/story_12_the_new_groove/part_01">‹ part 01</a><a class="ex-next" href="/testi/chesterton/atomized/common_man/story_12_the_new_groove/part_03">part 03 ›</a></div>
@@ -134,3 +136,133 @@ a bad blunder in imputing childishness in defence of some things
 that could only be defended as being in the higher sense childish.
 It was Cezanne himself who said, "I am trying to recover the direct
 vision of a [[Child|child]]."
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/common-man-(chesterton)">Common Man</a> › <a href="/testi/chesterton/atomized/common_man/story_12_the_new_groove">Story 12 The New Groove</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/common_man/story_12_the_new_groove/part_01">‹ part 01</a><a class="ex-next" href="/testi/chesterton/atomized/common_man/story_12_the_new_groove/part_03">part 03 ›</a></div>
+</nav>
+
+Ora, a dispetto delle più sfrenate pretese d'indipendenza,
+la vita intellettuale d'oggi mi appare tuttora
+simboleggiata soprattutto dal treno, dai binari, dal solco tracciato.
+V'è quanto si vuole di trambusto e vivacità intorno a certe fisse mode
+o direzioni del pensiero; proprio come v'è quanta si vuole di rapidità
+lungo le rotaie fisse della ferrovia. Ma se cominciamo
+a pensare di uscire davvero dai binari, scopriremo
+che ciò che vale per il treno vale ugualmente per la [[Truth|verità]].
+Scopriremo che è in realtà più difficile uscire dal binario
+quando il treno va veloce che quando il treno va piano.
+Scopriremo che la rapidità è rigidità; che il fatto stesso che un
+movimento sociale o politico o artistico vada sempre più veloce
+significa che sempre meno gente ha il [[Courage|coraggio]] di muoversi contro di esso.
+E alla fine forse nessuno spiccherà un balzo verso la vera libertà intellettuale,
+proprio come nessuno salta giù da un treno che corre a ottanta
+miglia all'ora.  Questo mi sembra il primo carattere di ciò che
+chiamiamo pensiero progressivo nel mondo moderno.  Esso è, nel senso
+più esatto del termine, limitato.  È tutto in una sola dimensione.
+È tutto in una sola direzione.  È limitato dal proprio progresso.
+È limitato dalla propria [[Speed|velocità]].
+
+Ho detto che non ha la curiosità di fermarsi.  Se gli abitanti del treno
+fossero veri viaggiatori, che esplorano un paese ignoto per fare scoperte,
+si fermerebbero sempre alle piccole stazioni lungo la via.
+Per esempio, si fermerebbero sempre a considerare la curiosa
+[[Nature|natura]] dei loro stessi termini convenzionali; cosa che
+non fanno mai, in nessun caso.  I loro slogan sono considerati unicamente
+come congegni o strumenti per portarli dove stanno andando;
+non gettano mai indietro un pensiero su donde venga lo slogan.
+Eppure è esattamente ciò che farebbero se pensassero davvero,
+in un senso pieno e a tutto tondo.  Naturalmente si comprenderà,
+quanto a queste mode intellettuali, che grandi masse,
+probabilmente la massa dell'umanità, non viaggiano affatto sul treno.
+Restano nei loro villaggi e sono assai più felici e migliori;
+ma non sono considerate le guide intellettuali del [[Time|tempo]].
+Ciò di cui mi lagno è che le guide intellettuali possono soltanto
+guidare lungo un unico stretto binario; altrimenti detto «il sonante
+binario del mutamento».  Prendiamo, in questa faccenda delle frasi correnti,
+l'esempio della controversia sull'arte avanzata e futurista.
+Non intendo considerare l'arte, ma considerare la controversia;
+come illustrazione di quanto s'è detto sull'opportunità di fermarsi
+e sulla stoltezza del treno che non si ferma mai.
+
+Ora, benché, s'intende, le masse reali non siano affatto convertite
+a Picasso o a Epstein, tuttavia i termini della controversia, gli unici cavilli
+d'argomentazione noti ai giornali, gli unici sofismi familiari e quasi
+popolari al di là del semplice insulto popolare, stanno dalla parte
+delle nuove scuole.  Voglio dire che gli uomini moderni non hanno familiarità
+con gli argomenti razionali in favore della tradizione; ma hanno familiarità,
+e una familiarità quasi stucchevole, con gli argomenti razionali in favore del mutamento.
+Da qualunque parte stia davvero la ragione nella questione dell'arte
+(che ovviamente dipende in gran parte dai singoli artisti),
+tutto il mondo moderno è verbalmente disposto a considerare il nuovo
+[[Artist|artista]] nel giusto e il vecchio [[Artist|artista]] nel torto.  Vi è disposto
+da tutta la [[philosophy|filosofia]] progressiva; che spesso
+è più una fraseologia che una [[philosophy|filosofia]].  Il linguaggio che si affaccia
+più prontamente alla mente di ognuno è il linguaggio dell'innovazione;
+ma è un linguaggio che si esercita più di quanto si esamini.
+Per esempio, è probabile che perfino ora più persone conoscano
+le [[Poems|poesie]] del signor W. B. Yeats che le [[Poems|poesie]] della signorina Edith Sitwell.
+Ma moltissime più persone capiscono ciò che intende la signorina Sitwell quando
+dice semplicemente d'essere criticata ai suoi giorni come Keats fu criticato
+ai suoi, di quante potrebbero mai capire ciò che intende il signor Yeats
+quando dice che nulla di veramente nuovo può essere usato in poesia;
+o che l'[[innocence|innocenza]] nasce soltanto dalla cerimonia e dall'usanza.
+Poiché il primo argomento è un argomento familiare a tutti i moderni
+progressisti e riformatori; le seconde affermazioni sono detti
+assai profondi di un uomo che pensa davvero con la propria testa.
+Convengo che in molte altre cose, e specialmente nei migliori
+esempi della sua poesia, anche la signorina Sitwell sa pensare con la propria testa.
+Dico soltanto che questo particolare argomento («Giovanni Battista fu
+deriso, e io sono derisa»; «Galileo non fu creduto, e io
+non sono creduta»)—questo particolare argomento fa parte del regolare
+e riconosciuto repertorio di trucchi dei riformatori e dei rivoluzionari;
+è parte del vecchissimo armamentario del Nuovo Movimento.
+Ora, se applichiamo tutto ciò, per esempio, alle dispute intorno
+alla pittura o alla scultura, troveremo la stessa situazione:
+che, da qualunque parte stia la ragione, tutto l'apparato del discorso
+moderno favorisce l'idea che la cosa nuova abbia sempre ragione.
+Vi è una precisa selezione di frasi usate, ma di rado esaminate.
+Per esempio, se qualche Filisteo osasse debolmente protestare contro
+[[Helen]] di Troia scolpita con una testa della forma esatta
+della Grande Piramide, o [[Titania]] con una figura che segue le grandi
+linee semplici dell'ippopotamo allo zoo, o magari contro la propria
+figlia prediletta che si presenta al pubblico nella condizione appellante
+e perfino toccante d'avere il naso e le palpebre tagliati via—
+ogni volta che si ode una simile critica, che sia giusta o sbagliata,
+le si risponderà con la precisione di un orologio, con una frase
+del tenore che certa gente vuole che l'arte sia «graziosa-graziosa». Ora
+il primo atto di ogni mente indipendente sarà criticare questa critica;
+e specialmente provare curiosità per la sua curiosa forma.
+Perché tutti dicono «graziosa-graziosa»?  Perché non dire che certa gente
+non ama ciò che è «brutto-brutto», o magari ciò che è «bestiale-bestiale»?
+Qual è il senso di questa bizzarra ripetizione, come un decimale periodico?
+Se avete quella sorta di curiosità indipendente che si ferma alle
+stazioncine lungo la via, se (insomma) non avete fretta di arrivare
+al capolinea alla moda, potete [[Well|ben]] soffermarvi su una frase simile,
+non senza profitto.  Vi accorgerete che la frase è, in realtà,
+un tentativo piuttosto patetico di riprodurre l'esclamazione meravigliata
+di un [[Child|bambino]].  E ciò basterebbe da [[Alone|solo]] a distruggere l'argomento.
+Poiché un [[Child|bambino]] ha un ben saldo senso di [[Wonder|meraviglia]] per ciò che è davvero meraviglioso;
+e per nulla un gusto volgare e verniciato per ciò che è
+convenzionalmente bello.  La cosa che un vero [[Child|bambino]] potrebbe
+chiamare «graziosa-graziosa» non è il ritratto sdolcinato di una debuttante
+o un imbottito gruppo di famiglia reale; è assai più probabile
+che sia un guizzo di [[Fire|fuoco]] rosso o i colori intensi di un grande fiore
+di [[Garden|giardino]] o qualcosa che è davvero elementare ed essenziale;
+qualcosa a suo modo altrettanto «crudo» (come direbbero i nostri cari
+amici) quanto la Grande Piramide o il grande pachiderma.
+I bambini non sono snob in arte più di quanto lo siano in morale.  E se
+spesso provano piacere anche per le cose che sono davvero «graziose»,
+nel senso di una fanciulla aggraziata del Greuze o di una nuvola di fiori rosa
+in [[spring|primavera]], è semplicemente perché vi è un posto perfettamente legittimo
+nell'arte per ciò che è grazioso; e non lo si liquida affatto
+biascicando due volte la stessa parola e chiamandolo
+«grazioso-grazioso». Comunque sia, i moderni più altezzosi commettono
+un grave abbaglio nell'imputare puerilità a difesa di certe cose
+che potrebbero essere difese solo in quanto puerili nel senso più alto.
+Fu Cézanne stesso a dire: «Cerco di ritrovare la visione diretta
+di un [[Child|bambino]]».

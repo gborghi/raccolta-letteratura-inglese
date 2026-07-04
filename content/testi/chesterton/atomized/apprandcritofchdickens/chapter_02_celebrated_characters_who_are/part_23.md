@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/apprandcritofchdickens-(chesterton)">ApprAndCritOfChDickens</a> › <a href="/testi/chesterton/atomized/apprandcritofchdickens/chapter_02_celebrated_characters_who_are">Chapter 02 celebrated characters who are</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/apprandcritofchdickens/chapter_02_celebrated_characters_who_are/part_22">‹ part 22</a><a class="ex-next" href="/testi/chesterton/atomized/apprandcritofchdickens/chapter_02_celebrated_characters_who_are/part_24">part 24 ›</a></div>
@@ -177,3 +179,176 @@ that combination is always one which is very dangerous to the
 temperament which is exposed to it. The only people who ought to be
 
 allowed to work are the people who are able to shirk. The only people
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/apprandcritofchdickens-(chesterton)">ApprAndCritOfChDickens</a> › <a href="/testi/chesterton/atomized/apprandcritofchdickens/chapter_02_celebrated_characters_who_are">Chapter 02 celebrated characters who are</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/apprandcritofchdickens/chapter_02_celebrated_characters_who_are/part_22">‹ part 22</a><a class="ex-next" href="/testi/chesterton/atomized/apprandcritofchdickens/chapter_02_celebrated_characters_who_are/part_24">part 24 ›</a></div>
+</nav>
+
+fanno gli uomini. Qui il mio unico scopo è di far notare che Dickens trasse la
+
+morale allegra nel 1849, e quella triste nel 1857.
+
+In quel [[Time|tempo]] dovette esservi qualche vera tristezza che, come una
+
+nube, andava adombrando Dickens stesso. Non è nulla che un uomo si soffermi sulle
+
+tenebre delle cose tenebrose; ogni uomo sano lo fa. È quando si sofferma
+
+sulle tenebre delle cose luminose che abbiamo motivo di [[Fear|temere]] qualche
+
+malattia degli affetti. Deve esservi stata davvero una qualche depressione
+
+quando un uomo riesce a vedere soltanto il lato triste dei [[Flowers|fiori]], o il lato triste
+
+delle feste, o il lato triste del vino. E deve esservi una depressione
+
+di carattere insolitamente cupo e genuino quando un uomo è giunto a un tal
+
+punto da non riuscire a vedere altro che il lato triste del signor [[Wilkins Micawber]].
+
+Eppure è proprio questo che in realtà era accaduto a Dickens intorno a quel [[Time|tempo]].
+
+Fissando [[Wilkins Micawber]] non riusciva a vedere altro che la debolezza e la
+
+[[Tragedy|tragedia]] rese possibili dalla sua indifferenza, dalla sua indulgenza e
+
+dalla sua spavalderia. Anzi, già in qualche misura si era volto a questo
+
+studio della fiacchezza e della rovina di quell'antico tipo epicureo con cui
+
+un tempo aveva simpatizzato, il tipo di Bob Sawyer o di [[Dick Swiveller]]. Ne aveva
+
+già attaccato il male in _Bleak House_ nel personaggio di
+
+[[Harold Skimpole]], con la sua incuria essenzialmente vile e il suo
+
+comunismo altamente egoistico. Nondimeno, come ho già detto, dovette
+
+trattarsi di un grado tutt'altro che lieve di autentica malinconia quello che spinse Dickens
+
+a cercare una lezione di rovina e di [[Slavery|schiavitù]] nella stessa identica carriera dalla
+
+quale un tempo aveva tratto lezioni di continua ripresa e di una sorta di
+
+fantastica [[Freedom|libertà]]. In quel [[Time|tempo]] dovette esservi qualche [[Melancholy|malinconia]]
+
+dietro gli scritti. Dovette esistere su questa terra, in quel [[Time|tempo]],
+
+quel portento e [[Paradox|paradosso]]: un Dickens alquanto depresso.
+
+Forse fu una reminiscenza di quel proverbio metaforico che ci
+
+dice come «la [[Truth|verità]] giaccia in [[Bottom|fondo]] a un [[Well|pozzo]]». Forse costoro
+
+pensavano che l'unico modo di trovare la [[Truth|verità]] nel [[Well|pozzo]] fosse annegarvisi.
+
+Ma su qualunque esile base teorica, il tipo e l'epoca di
+
+George Gissing ritennero certamente che Dickens, fin dove si era spinto,
+
+fosse tanto peggiore per l'ottimismo della storia di Micawber; sicché non è
+
+innaturale che lo pensassero tanto migliore per il
+
+pessimismo comparativo della storia di _Little Dorrit_. Proprio quelle cose
+
+del racconto che naturalmente dispiacerebbero agli ordinari ammiratori di
+
+Dickens sono le cose che naturalmente piacerebbero a un uomo come George
+
+Gissing. Vi sono molte di queste cose, ma una di esse spicca
+
+preminente e inconfondibile. È il fatto che, tutto sommato,
+
+la principale materia della storia di _Little Dorrit_ è di descrivere
+
+la vittoria delle circostanze su un'[[Soul|anima]]. Le circostanze sono la
+
+rovina finanziaria e la lunga [[Imprisonment|prigionia]] di Edward Dorrit; l'[[Soul|anima]] è
+
+Edward Dorrit medesimo. Si conceda pure che le circostanze siano
+
+eccezionali e opprimenti, che siano denunciate come eccezionali e opprimenti,
+
+che vengano infine fatte saltare e rovesciate: restano pur sempre circostanze. Si
+
+conceda pure che l'[[Soul|anima]] sia quella di un uomo forse in ogni caso debole
+
+e che conservi molti meriti fino all'ultimo: resta pur sempre un'[[Soul|anima]]. Si conceda
+
+pure, soprattutto, che l'ammettere che simili tragedie spirituali
+
+accadano non diminuisca di un solo iota la nostra [[Faith|fede]] nella validità
+
+di qualsiasi lotta spirituale. Per esempio, Stevenson ha fatto uno studio
+
+del crollo del carattere di un uomo buono sotto un peso di cui egli non
+
+ha colpa, nella [[Tragedy|tragedia]] di Henry Durie in _The Master of
+
+Ballantrae_. Eppure ha aggiunto, in bocca a Mackellar, l'esatto
+
+buon senso e la buona teologia della cosa, dicendo: «Non importa un
+
+fico secco; poiché colui che deve giudicare gli annali della nostra vita è il
+
+medesimo che ci ha formati nella fragilità». Concediamo dunque tutto questo, e il
+
+fatto rimane che lo studio della lenta demoralizzazione di un uomo per
+
+mera sventura non era uno studio congeniale a Dickens, non in accordo
+
+con la sua ispirazione originaria, non connesso in alcun modo con la
+
+cosa particolare che egli aveva da dire. In una parola, la cosa non è del tutto
+
+parte di lui; ed egli non era del tutto sé stesso quando la fece.
+
+Era ancora un uomo piuttosto giovane; la sua depressione non veniva dall'età.
+
+Anzi, per quanto ne so, la mera depressione non viene mai dalla mera
+
+età. L'età può trapassare in una bella fantasticheria. L'età può trapassare in una sorta di
+
+bella dabbenaggine. Ma non credo che l'effettivo declinare e chiudersi
+
+della nostra vitalità ordinaria porti con sé alcuna particolare pesantezza dello
+
+spirito. Gli spiriti dei vecchi non tendono, di regola, a farsi sempre più
+
+gravi finché sprofondano nella terra. Piuttosto gli spiriti dei
+
+vecchi sembrano farsi sempre più lievi finché non se ne volano via come
+
+lanugine di cardo. Ovunque vi sia il preciso fenomeno chiamato
+
+depressione, comunemente significa che qualcos'altro ci è stato più vicino
+
+di una cosa tanto normale quanto la [[Death|morte]]. Vi è stata malattia, del corpo o
+
+della mente, oppure vi è stato peccato, oppure vi è stata qualche lotta o
+
+sforzo che ha infranto i confini ordinari della consuetudine umana. Nel
+
+caso di Dickens vi erano state due cose che non appartengono alla routine di
+
+una sana vita umana: vi era stata la lite con la moglie, e
+
+vi era stata la tensione di un lavoro intellettuale incessante ed esagerato.
+
+Non ebbe un [[Time|tempo]] facile; e per giunta (o forse piuttosto
+
+in [[Bottom|fondo]] a esso) non ebbe una [[Nature|natura]] facile. Non soltanto la sua vita
+
+esigeva lavoro, ma il suo carattere esigeva angoscia per il lavoro; e
+
+quella combinazione è sempre una di quelle assai pericolose per il
+
+temperamento che vi è esposto. Le uniche persone a cui dovrebbe essere
+
+concesso di lavorare sono le persone capaci di sottrarsi. Le uniche persone

@@ -423,6 +423,10 @@ of whose glories was that he could not describe a gentleman.
 <div class="excerpt-crumb">Chesterton · <a href="/works/heret12-(chesterton)">Heretics</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/heret12/story_13_on_certain_modern_writers_and_the_instit">‹ Story 13 On Certain Modern Writers and the Instit</a><a class="ex-next" href="/testi/chesterton/atomized/heret12/story_15_on_mr_mccabe_and_a_divine_frivolity">Story 15 On Mr McCabe and a Divine Frivolity ›</a></div>
 </nav>
+<nav class="excerpt-children">
+<div class="excerpt-children-label">In questa sezione</div>
+<ul><li><a href="/testi/chesterton/atomized/heret12/story_14_on_smart_novelists_and_the_smart_set/part_01">Part 1</a></li><li><a href="/testi/chesterton/atomized/heret12/story_14_on_smart_novelists_and_the_smart_set/part_02">Part 2</a></li><li><a href="/testi/chesterton/atomized/heret12/story_14_on_smart_novelists_and_the_smart_set/part_03">Part 3</a></li></ul>
+</nav>
 
 # [[heret12]] — Sui romanzieri alla moda e sul bel mondo
 

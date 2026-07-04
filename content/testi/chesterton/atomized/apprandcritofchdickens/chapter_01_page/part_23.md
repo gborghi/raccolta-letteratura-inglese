@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/apprandcritofchdickens-(chesterton)">ApprAndCritOfChDickens</a> › <a href="/testi/chesterton/atomized/apprandcritofchdickens/chapter_01_page">Chapter 01 PAGE</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/apprandcritofchdickens/chapter_01_page/part_22">‹ part 22</a><a class="ex-next" href="/testi/chesterton/atomized/apprandcritofchdickens/chapter_01_page/part_24">part 24 ›</a></div>
@@ -175,3 +177,174 @@ talking to a highly intelligent lady about Thackeray's _Newcomes_. We
 were speaking of the character of Mrs. Mackenzie, the Campaigner, and in
 
 the middle of the conversation the lady leaned across to me and said in
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/apprandcritofchdickens-(chesterton)">ApprAndCritOfChDickens</a> › <a href="/testi/chesterton/atomized/apprandcritofchdickens/chapter_01_page">Chapter 01 PAGE</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/apprandcritofchdickens/chapter_01_page/part_22">‹ part 22</a><a class="ex-next" href="/testi/chesterton/atomized/apprandcritofchdickens/chapter_01_page/part_24">part 24 ›</a></div>
+</nav>
+
+di questi due personaggi e può avvertirsi dietro di loro per tutto il [[Time|tempo]].
+
+Poiché sono i due personaggi più assurdi del libro, sono anche
+
+i più vividi, umani e immaginabili. Vi sono due storie d'[[Love|amore]] davvero belle
+
+in Dickens; e quasi credo soltanto due. Una è il felice
+
+corteggiamento di Swiveller e della [[Marchioness]]; l'altra è il tragico
+
+corteggiamento di Toots e di [[Florence Dombey]]. Quando [[Dick Swiveller]] si sveglia nel
+
+letto e vede la [[Marchioness]] che gioca a cribbage, pensa che lui e lei
+
+siano un principe e una principessa di una fiaba. E pensa giusto.
+
+Parlo così seriamente di simili personaggi con un intento deliberato; perché
+
+i personaggi frivoli di Dickens vengono presi con troppa frivolezza. Non
+
+è stato messo sufficientemente in luce che tutte le serie idee morali
+
+che Dickens riuscì a esprimere le espresse interamente
+
+attraverso questo fantastico medium, in figure come Swiveller e la
+
+piccola domestica. Il più caloroso ammiratore di Dickens non andrebbe a cercare nei
+
+passi solenni o sentimentali qualcosa di fresco o suggestivo in fatto di [[Faith|fede]]
+
+o di [[philosophy|filosofia]]. Nessuno pretenderebbe che la [[Death|morte]] del piccolo Dombey
+
+(col suo «Che cosa dicono le onde selvagge?») ci abbia detto qualcosa di nuovo o
+
+di reale sulla [[Death|morte]]. Un buon cristiano in punto di morte, si immagina, non solo
+
+non saprebbe che cosa dicono le onde selvagge, ma non se ne curerebbe. Nessuno
+
+pretenderebbe che il pentimento del vecchio [[Paul Dombey]] getti alcuna
+
+luce sulla psicologia o [[philosophy|filosofia]] del pentimento. Senza [[Doubt|dubbio]] il vecchio
+
+Dombey, canuto e amabile, era un gran miglioramento rispetto al vecchio Dombey
+
+dai capelli castani e sgradevole. Ma nel suo caso l'intenerimento del cuore
+
+sembra somigliare troppo da vicino al rammollimento del cervello. Che
+
+questi passi seri siano tanto brutti quanto li giudicano i critici o tanto belli quanto
+
+li trovano i sentimentali, di certo non trasmettono nulla
+
+che somigli a un lampo illuminante o a un'ardita intuizione sulla
+
+[[Nature|natura]] morale degli uomini. Le figure serie non ci dicono nulla sull'
+
+[[Soul|anima]] umana. Le figure comiche sì. Prendete quasi a caso una qualunque di
+
+queste mirabili tirate di [[Dick Swiveller]]. Notate, per esempio, con quanta
+
+squisitezza Dickens ha colto una certa qualità assai profonda e delicata
+
+in [[Bottom|fondo]] a questo genere di uomo ozioso. Intendo quella strana specie impersonale
+
+di giustizia intellettuale, per cui l'individuo frivolo vede le cose come
+
+sono e persino se stesso qual è; ed è al di sopra dell'irritazione. Il signor
+
+Swiveller, ricorderete, chiede alla [[Marchioness]] se la famiglia Brass
+
+parli mai di lui; ella annuisce col capo con vivacità. «"In modo lusinghiero?"
+
+domandò il signor Swiveller. Il movimento del capo della piccola domestica
+
+mutò.... "Ma dice," proseguì la piccola domestica, "che di voi non ci
+
+si può fidare." "[[Well|Ebbene]], sapete, [[Marchioness]]," disse il signor
+
+Swiveller pensosamente, "molte persone, non proprio professionisti,
+
+ma bottegai, hanno avuto la stessa idea. L'eccellente cittadino dal quale
+
+ho ordinato questa birra propende fortemente per tale opinione."»
+
+Questa filosofica [[Freedom|libertà]] da ogni risentimento, questo strano [[Love|amore]] per la
+
+[[Truth|verità]] che sembra scaturire proprio dalla noncuranza, è un esempio ben reale
+
+di osservazione spirituale. Persino tra i bugiardi vi sono due classi,
+
+una incommensurabilmente migliore dell'altra. Il bugiardo onesto è colui che
+
+dice la [[Truth|verità]] sulle proprie vecchie menzogne; che il mercoledì dice: «Ho raccontato una
+
+magnifica bugia lunedì.» Egli mantiene la [[Truth|verità]] in circolazione; nessuna
+
+versione delle cose ristagna in lui e diventa un malvagio segreto. Non
+
+deve convivere con vecchie menzogne; una domesticità orribile. Il signor Swiveller
+
+può ingannare il cameriere sul fatto che abbia o no il denaro per pagare; ma non
+
+inganna l'amico, e non inganna se stesso sul
+
+punto. È consapevole altrettanto [[Well|bene]] quanto chiunque della crescente
+
+falsità della posizione di un gentiluomo che, con i suoi vari debiti, ha
+
+sbarrato tutte le vie che conducono allo Strand tranne una, e che sta per
+
+chiuderla proprio questa [[Night|notte]] con un paio di guanti. Sbarra la via
+
+con un paio di guanti, ma non sbarra la propria mente con un segreto.
+
+Il traffico della [[Truth|verità]] resta pur sempre aperto attraverso la sua [[Soul|anima]].
+
+È dunque proprio in questi personaggi assurdi che possiamo trovare una massa
+
+di suggestioni psicologiche ed etiche. Ciò non si trova nei
+
+personaggi seri, se non appunto in alcuni degli esperimenti più tardi: vi
+
+è un po' di tale suggestione psicologica ed etica in figure come
+
+Gridley, come Jasper, come [[Bradley Headstone]]. Ma in questi libri più antichi
+
+almeno, come _The Old Curiosity Shop_, le figure [[Grave|gravi]] o morali
+
+non gettano luce sulla morale. Sosterrei questa generalizzazione perfino
+
+in presenza di quell'apparente eccezione che è _The Christmas Carol_ con
+
+il suo trio di [[Ghosts|fantasmi]] didattici. La [[Charity|carità]] è certo splendida, a un tempo
+
+un lusso e una necessità; ma Dickens non è più efficace quando
+
+predica la [[Charity|carità]] seriamente; è più efficace quando la predica
+
+clamorosamente; quando la predica per mezzo di massicce
+
+personalità e scene vivide. Si potrebbe dire che dà il meglio non quando
+
+predica il suo [[Love|amore]] per gli uomini, ma quando lo pratica. Nelle sue
+
+pagine [[Grave|gravi]] ci dice di [[Love|amare]] gli uomini; ma nelle sue pagine sfrenate crea
+
+uomini che possiamo [[Love|amare]]. Con la sua solennità ci comanda di [[Love|amare]] il
+
+prossimo. Con la sua caricatura ce lo fa [[Love|amare]].
+
+C'è una curiosa questione letteraria che, mi [[Wonder|domando]], non venga posta più spesso
+
+in letteratura. Fino a che punto può un autore dire una [[Truth|verità]] senza vederla
+
+egli stesso? Forse un esempio concreto esprimerà il mio pensiero. Un tempo
+
+stavo parlando con una signora assai intelligente dei _Newcomes_ di Thackeray. Stavamo
+
+discorrendo del personaggio della signora Mackenzie, la Campaigner, e nel
+
+bel mezzo della conversazione la signora si sporse verso di me e disse con

@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/scandal-fr-brown-(chesterton)">scandal Fr Brown</a> › <a href="/testi/chesterton/atomized/scandal_fr_brown/story_08_the_point_of_a_pin">Story 08 The Point of a Pin</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/scandal_fr_brown/story_08_the_point_of_a_pin/part_01">‹ part 01</a><a class="ex-next" href="/testi/chesterton/atomized/scandal_fr_brown/story_08_the_point_of_a_pin/part_03">part 03 ›</a></div>
@@ -126,3 +128,54 @@ secretary. 'I suppose you've been there all the morning.'
 
 There was a short [[Silence|silence]]; and then Sir [[Hubert]] Sand curtly intimated
 that the man had better be brought along; and the man duly appeared.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/scandal-fr-brown-(chesterton)">scandal Fr Brown</a> › <a href="/testi/chesterton/atomized/scandal_fr_brown/story_08_the_point_of_a_pin">Story 08 The Point of a Pin</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/scandal_fr_brown/story_08_the_point_of_a_pin/part_01">‹ part 01</a><a class="ex-next" href="/testi/chesterton/atomized/scandal_fr_brown/story_08_the_point_of_a_pin/part_03">part 03 ›</a></div>
+</nav>
+
+[[Father Brown]] aveva già osservato tutte queste cose; e in quel momento tutti stavano guardando qualcosa di interamente nuovo. Al centro della struttura in legno era inchiodato un ampio foglio di carta sciolto e svolazzante, sul quale qualcosa era stato scarabocchiato in rozze e quasi folli lettere maiuscole, come se lo scrivente fosse quasi analfabeta oppure fingesse o parodiasse l'analfabetismo. Le parole recitavano precisamente: «Il Consiglio dei Lavoratori avverte [[Hubert]] Sand che abbasserà i salari e serrerà fuori gli operai a suo rischio e pericolo. Se domani usciranno gli avvisi, egli sarà messo a morte dalla giustizia del popolo.»
+
+Lord Stanes stava proprio arretrando dal suo esame del foglio e, guardando dall'altra parte verso il suo socio, disse con un'intonazione piuttosto curiosa: «[[Well|Beh]], è lei che vogliono assassinare. Evidentemente io non sono ritenuto degno d'essere assassinato.»
+
+Una di quelle scosse ancora elettriche della fantasia che talvolta attraversavano la mente di [[Father Brown]] in modo quasi privo di senso lo percorse in quel preciso istante. Ebbe la strana idea che l'uomo che stava parlando non potesse ora essere assassinato, perché era già morto. Era, ammise allegramente, un'idea perfettamente insensata. Ma c'era qualcosa che gli faceva sempre venire i brividi nel freddo distacco disincantato del nobile socio anziano; nel suo colorito cadaverico e nei suoi occhi inospitali. «Quel tale», pensò nel medesimo umore perverso, «ha occhi verdi e sembra avere [[Blood|sangue]] verde.»
+
+A ogni modo, era certo che Sir [[Hubert]] Sand non avesse [[Blood|sangue]] verde. Il suo [[Blood|sangue]], che era rosso a sufficienza in ogni senso, gli stava salendo verso le guance avvizzite o segnate dalle intemperie con tutta la calda pienezza di vita che appartiene all'indignazione naturale e [[Innocent|innocente]] del bonaccione.
+
+«In tutta la mia vita», disse, con voce forte eppure malferma, «non mi era mai stata detta o fatta una cosa simile. Posso aver dissentito...»
+
+«Su questo nessuno di noi può dissentire», irruppe impetuosamente il nipote. «Ho cercato di andare d'accordo con loro, ma questo è un po' troppo grosso.»
+
+«Non penserà mica davvero», cominciò [[Father Brown]], «che i suoi operai...»
+
+«Dico che possiamo aver dissentito», disse il vecchio Sand, ancora un po' tremulo, «Dio sa se mi è mai piaciuta l'idea di minacciare operai inglesi con manodopera più a buon mercato...»
+
+«A nessuno di noi piaceva», disse il giovane, «ma se ti conosco, zio, questo ha praticamente deciso la faccenda.»
+
+Poi, dopo una pausa, aggiunse: «Immagino, come dici tu, che dissentissimo sui dettagli; ma quanto alla politica vera e propria...»
+
+«Mio caro ragazzo», disse lo zio, comodamente. «Speravo che non ci sarebbe mai stato alcun vero disaccordo.» Dal che chiunque conosca la nazione inglese può giustamente dedurre che c'era stato un disaccordo assai considerevole. In effetti lo zio e il nipote differivano quasi quanto un inglese e un americano. Lo zio aveva l'ideale inglese di starsene fuori dagli affari e di costruirsi una sorta di alibi come gentiluomo di campagna. Il nipote aveva l'ideale americano di entrare dentro gli affari; di entrare nel meccanismo stesso come un meccanico. E, in effetti, aveva lavorato con la maggior parte dei meccanici ed era pratico della maggior parte dei procedimenti e dei trucchi del mestiere. Ed era di nuovo americano nel fatto che faceva questo in parte come datore di lavoro per tenere i suoi uomini all'altezza, ma in qualche modo vago anche come un pari, o per lo meno con l'[[Pride|orgoglio]] di mostrarsi anch'egli un lavoratore. Per questa ragione era spesso apparso quasi come un rappresentante degli operai, su questioni tecniche che erano a cento miglia di distanza dall'eminenza popolare dello zio nella politica o nello sport. Il [[Memory|ricordo]] di quelle molte occasioni, in cui il giovane Henry era praticamente uscito dall'officina in maniche di camicia per reclamare qualche concessione sulle condizioni di lavoro, conferiva una forza peculiare e persino una violenza alla sua presente reazione in senso opposto.
+
+«[[Well|Ebbene]], si sono maledettamente [[Well|ben]] serrati fuori da soli questa [[Time|volta]]», gridò. «Dopo una minaccia simile non resta semplicemente altro che sfidarli. Non resta altro che licenziarli tutti, adesso; all'istante; su due piedi. Altrimenti saremo lo zimbello del mondo.»
+
+Il vecchio Sand aggrottò la fronte con pari indignazione, ma cominciò lentamente: «Sarò criticato moltissimo...»
+
+«Criticato!» gridò il giovane con voce stridula. «Criticato se sfidi una minaccia di omicidio! Hai idea di come sarai criticato se non la sfidi? Non ti godrai i titoloni? "Grande Capitalista Terrorizzato" — "Datore di Lavoro Cede alla Minaccia di Omicidio."»
+
+«Particolarmente», disse Lord Stanes, con qualcosa di lievemente sgradevole nel tono. «Particolarmente ora che è già comparso in tanti titoloni come "L'Uomo Forte dell'Edilizia in Acciaio."»
+
+Sand era tornato molto rosso e la voce gli usciva impastata da sotto i folti baffi. «Naturalmente lì hai ragione. Se questi bruti pensano che io abbia paura...»
+
+A questo punto vi fu un'interruzione nella conversazione del gruppo; e un giovane snello venne verso di loro rapidamente. La prima cosa notevole in lui era che apparteneva a quelli che gli uomini, e anche le donne, giudicano appena un po' troppo di bell'aspetto per apparire belli davvero. Aveva bei capelli scuri e ricci e un baffo di seta, e parlava come un gentiluomo, ma con un accento fin troppo raffinato ed esattamente modulato. [[Father Brown]] lo riconobbe subito come Rupert Rae, il segretario di Sir [[Hubert]], che aveva spesso visto gironzolare per la [[house|casa]] di Sir [[Hubert]]; ma mai con tanta impazienza nei movimenti o con una tale ruga sulla fronte.
+
+«Mi dispiace, signore», disse al suo datore di lavoro, «ma c'è un uomo che si aggira laggiù. Ho fatto del mio meglio per sbarazzarmene. Ha soltanto una lettera, ma giura di doverla consegnare a lei personalmente.»
+
+«Vuoi dire che è andato prima alla mia [[house|casa]]?» disse Sand, lanciando una rapida occhiata al suo segretario. «Immagino che tu sia stato là tutta la mattina.»
+
+«Sì, signore», disse il signor Rupert Rae.
+
+Vi fu un breve [[Silence|silenzio]]; e poi Sir [[Hubert]] Sand fece seccamente intendere che era meglio far venire l'uomo; e l'uomo comparve puntualmente.

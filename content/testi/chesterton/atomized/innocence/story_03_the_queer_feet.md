@@ -799,6 +799,10 @@ in search of a penny omnibus.
 <div class="excerpt-crumb">Chesterton · <a href="/works/innocence-(chesterton)">The Innocence of Father Brown</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/innocence/story_02_the_secret_garden">‹ Story 02 The Secret Garden</a><a class="ex-next" href="/testi/chesterton/atomized/innocence/story_04_the_flying_stars">Story 04 The Flying Stars ›</a></div>
 </nav>
+<nav class="excerpt-children">
+<div class="excerpt-children-label">In questa sezione</div>
+<ul><li><a href="/testi/chesterton/atomized/innocence/story_03_the_queer_feet/part_01">Part 1</a></li><li><a href="/testi/chesterton/atomized/innocence/story_03_the_queer_feet/part_02">Part 2</a></li><li><a href="/testi/chesterton/atomized/innocence/story_03_the_queer_feet/part_03">Part 3</a></li><li><a href="/testi/chesterton/atomized/innocence/story_03_the_queer_feet/part_04">Part 4</a></li><li><a href="/testi/chesterton/atomized/innocence/story_03_the_queer_feet/part_05">Part 5</a></li><li><a href="/testi/chesterton/atomized/innocence/story_03_the_queer_feet/part_06">Part 6</a></li><li><a href="/testi/chesterton/atomized/innocence/story_03_the_queer_feet/part_07">Part 7</a></li></ul>
+</nav>
 
 # [[innocence]] — Gli strani passi
 

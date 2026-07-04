@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/common-man-(chesterton)">Common Man</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/common_man/story_04_the_superstition_of_school">‹ Story 04 The Superstition Of School</a><a class="ex-next" href="/testi/chesterton/atomized/common_man/story_06_the_pantomime">Story 06 The Pantomime ›</a></div>
@@ -83,3 +85,24 @@ But if we accept this mystical corporate being, this larger [[Self|self]],
 we must accept it for good and ill.  If we boast of our best,
 we must repent of our worst.  Otherwise patriotism will be a very
 poor thing indeed.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/common-man-(chesterton)">Common Man</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/common_man/story_04_the_superstition_of_school">‹ Story 04 The Superstition Of School</a><a class="ex-next" href="/testi/chesterton/atomized/common_man/story_06_the_pantomime">Story 06 The Pantomime ›</a></div>
+</nav>
+
+PAGARE IL PATRIOTTISMO
+
+Qualcuno, di recente, mi ha rivolto rimostranze a proposito di certe osservazioni che avevo fatto toccando la [[history|storia]] del malgoverno inglese in Irlanda. La critica, come tante altre, si riduceva a questo: che si tratta soltanto di vecchie e infelici faccende lontane, di battaglie combattute chissà quando; che la generazione presente non ne è responsabile; che non v'era, come diceva il mio critico, alcun modo in cui lui o io avremmo potuto favorirle o impedirle; che, se qualcuno era da biasimare, costui era ormai andato a rendere conto di sé; e che noi non abbiamo colpa alcuna. Alla sua protesta, credo, si mescolava una certa insinuazione: che un inglese difetti di patriottismo quando riesuma simili cadaveri per ricollegarli a un delitto.
+
+Ora, la cosa curiosa è questa: che sono io, a mio giudizio, a tener alto il principio del patriottismo; ed è lui, a mio giudizio, a rinnegarlo. In verità sono uno dei pochi rimasti, della mia specie e del mio mestiere, che credano ancora nel patriottismo; così come sono tra i pochi che credano ancora nella [[democracy|democrazia]]. Entrambe queste idee furono esagerate a dismisura e, quel che è peggio, in modo erroneo, o del tutto per il verso sbagliato, durante il diciannovesimo secolo; ma oggi la reazione contro di esse è fortissima, specie tra gli intellettuali. Io però credo davvero che il patriottismo poggi su una [[Truth|verità]] psicologica: una simpatia sociale verso quelli della nostra stessa specie, per cui scorgiamo in loro i nostri atti possibili, e ne comprendiamo la [[history|storia]] dal di dentro. Ma se davvero esiste una cosa come una nazione, quella [[Truth|verità]] è una [[Sword|spada]] a doppio taglio, e dobbiamo lasciarla colpire da entrambe le parti.
+
+Rispondo dunque così al mio critico. È verissimo che non fui io, G. K. Chesterton, a tirare la barba a un capo irlandese a mo' di presentazione mondana; fu Giovanni Plantageneto, poi [[King John|re Giovanni]]; e io non ero presente. Non fui io, ma un ben più illustre signore delle lettere, di nome [[Edmund]] Spenser, a concludere in sostanza che gli irlandesi era meglio sterminarli come vipere; né egli chiese mai il mio parere su un punto tanto vitale. Non trafissi mai con una picca, per diletto, una dama irlandese, dopo l'assedio di Drogheda, come fecero i timorati soldati puritani di [[Oliver]] Cromwell. Nessuno può trovare, di mia mano, un solo rigo che abbia contribuito alla prima stesura delle Leggi Penali; ed è un errore bell'e buono supporre che fossi convocato al Consiglio della Corona quando esso deliberò la sleale rottura del Trattato di Limerick. Non calai mai in vita mia un berretto di pece sul capo di un [[Rebel|ribelle]] irlandese; e non vi fu, delle mille fustigazioni del '98, una sola che io abbia inflitta o anche soltanto ordinata. Se è questo che si vuol dire, non è troppo difficile vedere che è verissimo.
+
+Ma è altrettanto vero che non cavalcai con Chaucer fino a Canterbury, per offrirgli qualche spunto intelligente sui passi migliori dei Canterbury Tales. È altrettanto vero che vi era un ampio e deplorevole vuoto nella brigata seduta alla [[Mermaid]]; che a malapena una parola dei passi più poetici di Shakespeare fu davvero opera mia; che non gli sussurrai io la parola «incarnadine» mentre esitava dopo «multitudinous seas»; che mancai del tutto l'occasione di suggerire che l'[[Hamlet|Amleto]] si sarebbe chiuso con grande effetto per l'irruzione tempestosa di Fortebraccio. Anzi, vecchio e malfermo come sono, sarebbe vano fingere che io abbia perduto una gamba nella battaglia di Trafalgar, o che sia tanto attempato da aver veduto (come avrei desiderato vedere), avvampante di [[Stars|stelle]] sul ponte della [[Death|morte]], la fragile figura e il volto d'elfo del più nobile marinaio della [[history|storia]].
+
+Eppure intendo continuare a essere fiero di Chaucer, di Shakespeare e di Nelson; a sentire che i poeti [[Love|amarono]] davvero la lingua che io [[Love|amo]], e che il marinaio provò qualcosa di ciò che anche noi proviamo per il mare. Ma se accettiamo questo mistico essere collettivo, questo [[Self|io]] più grande, dobbiamo accettarlo nel bene e nel male. Se ci vantiamo del nostro meglio, dobbiamo pentirci del nostro peggio. Altrimenti il patriottismo sarà davvero cosa assai meschina.

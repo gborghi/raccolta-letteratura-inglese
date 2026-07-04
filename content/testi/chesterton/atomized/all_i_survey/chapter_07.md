@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/all-i-survey-(chesterton)">All I Survey</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/all_i_survey/chapter_06">‹ Chapter 06</a><a class="ex-next" href="/testi/chesterton/atomized/all_i_survey/chapter_08">Chapter 08 ›</a></div>
@@ -141,5 +143,144 @@ for [[Greed|greed]], but good men did not colonize only for commerce;
 when the white man was as romantic a figure as the red man,
 and trade had not destroyed the Red Indian to replace him
 by the Regular Guy.
+
+-*-
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/all-i-survey-(chesterton)">All I Survey</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/all_i_survey/chapter_06">‹ Chapter 06</a><a class="ex-next" href="/testi/chesterton/atomized/all_i_survey/chapter_08">Chapter 08 ›</a></div>
+</nav>
+
+VII
+
+_Su Vachel Lindsay_
+
+IL dramma di M. Paul Claudel, _La scarpina di raso,_ tradotto con
+mirabile sottigliezza e duttilità dal Rev. John O'Connor,
+è un'opera di fantasia ricca e quasi sconcertante, e presenta un
+numero infinito di aspetti che non potrebbero essere trattati qui in modo adeguato.
+Ma ne ha uno in particolare, per cui si collega a fatti recenti
+avvenuti in altri campi, e reclama in modo assai speciale un
+commento proprio in questo momento. Per quanto nessuno potrebbe essere più francese di M. Claudel,
+e nulla potrebbe essere più francese di quella particolare specie di arguzia
+e di [[logic|logica]] combattiva che insegue questo tema o questa tesi fino in fondo,
+tuttavia l'intero sfondo del dramma è lo sfondo della
+civiltà spagnola. Perfino in questo momento la civiltà spagnola
+è qualcosa di molto più vasto della civiltà della Spagna.
+Lo era infinitamente di più ai giorni della gloria esterna della Spagna,
+i giorni dell'alleanza con l'Austria e della conquista dell'[[america|America]].
+Attorno a tutta quella cultura vi era un carattere che percorre questo
+dramma come un motivo decorativo, e che si rivelerà sempre più, io credo,
+come il motivo dell'arte di oggi.
+
+Così, non potrebbero esservi due poeti più diversi in ogni tradizione
+o criterio di tipo storico di Paul Claudel e Vachel Lindsay,
+il fervido cantore americano. Per l'adesione esteriore e formale, essi
+parrebbero del tutto estranei l'uno all'altro. Vachel Lindsay era un puritano
+in senso personale; si potrebbe quasi dire in senso politico.
+Era perfino un proibizionista, ed è giusto riconoscere che i suoi
+versi orgiastici dimostrano quanto un uomo possa ubriacarsi senza vino
+quando beve l'aria americana. A volte, anzi, un critico potrebbe essere
+tentato di chiamarla l'aria calda americana. Perché, benché Vachel Lindsay fosse
+un [[artist|artista]] nato, e procedesse seguendo il filo dell'[[Imagination|immaginazione]], vi sono
+passi della sua scrittura più bella che sarebbero stati più belli ancora se egli non
+fosse vissuto nella terra del megafono anziché in quella del corno d'avorio;
+o se le sue tradizioni non gli avessero offerto la scelta fra due trombe:
+tanto la tromba di bronzo della pubblicità [[Well|quanto]] la tromba d'oro della poesia.
+Egli stesso era un uomo del tutto semplice, sincero, e perciò umile;
+ma la gente intorno a lui non credeva nell'[[Humility|umiltà]]; no, nemmeno
+quando la praticava. Credevano però nello slancio, nell'entusiasmo e
+nel gran fracasso; e in una certa misura Vachel Lindsay, perfino nelle sue cose migliori,
+praticava anch'egli tutto ciò. Provo io stesso un'enorme simpatia per il suo particolare dono
+di descrivere uomini che battono i loro gong a gloria dei loro dèi;
+ma sarebbe vano negare che per certi versi i loro dèi non erano i nostri dèi.
+Di sicuro, in ogni caso, non erano gli dèi di M. Claudel. M. Claudel
+non è soltanto cattolico, ma cattolico francese; con la particolare avversione francese
+per la religione orgiastica e per le manìe che invadono la vita domestica.
+Immagino che non vi siano due cose che M. Claudel
+si troverebbe più completamente perplesso a comprendere di (1) un uomo libero che sia
+proibizionista, e (2) un poeta valente che scelga fra tutta la [[history|storia]] umana
+il soggetto di "Il generale Booth entra in Cielo".
+
+Eppure entrambi i poeti, il francese e l'americano,
+illustrano questo terzo elemento che non è né americano né francese.
+Perché in verità Vachel Lindsay era qualcosa di più di un americano;
+egli era (per quanto il termine sarebbe malamente frainteso)
+uno spagnolo-americano. Era, spiritualmente parlando, un californiano.
+Non si ubriacava soltanto dell'aria americana; egli beveva
+l'aria di uno strano paradiso, che in qualche modo sta a parte
+e non somiglia a nulla nel Nuovo Mondo né nel Vecchio; un mare fatato,
+calmato come da un incantesimo, che si stende lontano fin dentro la fantastica
+Cina e la cui costa più vicina è governata da [[Ghosts|fantasmi]]
+più che dai suoi governanti moderni. Perché è sparsa lungo tutta
+quella Costa del Pacifico, in una foggia troppo viva per potersi definire,
+la presenza e la pressione e lo splendore della Spagna.
+Fu qualcosa in quell'aria ricca di tramonto che penetrò
+nei versi di un puritano come Vachel Lindsay, e li rese
+tanto più istintivamente ornati e sontuosi di quelli di
+un mero pagano come Walt Whitman. Whitman fu un grande uomo;
+ma era un uomo degli Stati orientali e del sole del Nord,
+e perciò la sua passione era incolore anche quando non era fredda.
+Il [[Puritanism|puritanesimo]] di Lindsay era più ardente del paganesimo
+di Whitman. E la ragione era, io credo, questa influenza
+inconscia che possiede tutto l'Ovest dell'[[america|America]],
+come l'antica [[Romance|leggenda]] celtica possiede tutto l'Ovest dell'Inghilterra.
+La poesia di Vachel Lindsay dimostra, in ogni sorta di modo spezzato
+e inconscio, quanto egli fosse ossessionato da questa presenza;
+quanto sentisse sotto i propri piedi questo sottosuolo spagnolo degli
+Stati americani. Erano, per citare le parole della sua stessa visione,
+i Relitti dei Galeoni di Spagna che torreggiavano e si gonfiavano
+sopra di lui in una sorta di ardente mostruosità, e davano il loro vero
+contorno simbolico alle Balene d'Oro della California.
+
+In altre parole, vale la pena di rendersi conto che è
+sparsa su grandi spazi della terra una sorta di [[Magic|magia]] spagnola.
+Gli insediamenti spagnoli non sono ciò che si chiamano luoghi morti-viventi,
+nel senso di luoghi in cui i vivi sono morti;
+sono luoghi in cui i morti sono vivi.
+Ma i morti sono vivi, perfino là dove nessun altro è vivo.
+Perfino le parti deserte di quella costa non sono un [[Desert|deserto]];
+e perfino le parti morte di quell'impero non possono morire.
+Ed è la vasta vitalità di quell'impero morto che
+attrae un uomo del Nord francese come M. Claudel, proprio come
+inconsciamente attrasse un americano come il signor Lindsay.
+La narrazione drammatica di M. Claudel, come ho detto,
+abbraccia un vasto campo di idee universali e di problemi individuali.
+È piena di ciò che si trova nel nome stesso di Le Balene d'Oro
+della California, ed è un libro colossale come una balena. Ma è
+anche d'oro, nel senso di essere pieno di cose che valgono davvero
+tanto oro. Eccelle anzi piuttosto nella descrizione
+di cose informi o di forma incalcolabile, come tali
+giganteschi mostri; anzi, per l'appunto, vi è una descrizione tipicamente
+[[Grotesque|grottesca]] degli [[Animals|animali]] veri e propri chiamati balene.
+"La loro testa, che è come un'intera montagna piena di sperma liquido,
+mostra all'angolo della mascella un occhietto non più grande di
+un bottone di panciotto." Vi è la stessa sorta di senso immaginativo
+della forma di qualcosa d'informe in questa bella
+frase sulle amorfe Germanie dell'Europa centrale.
+"Per conoscerla bisogna guardarne il cuore, perché non ha volto."
+
+Tutta quell'immaginosità oscura e insieme esuberante appartiene a una tradizione
+che si può vedere nell'arte e nell'ornamento della Spagna. La si può vedere
+nel particolare [[Love|amore]] spagnolo per il nero; il nero che non è
+la negazione del colore, ma piuttosto l'accumulo del colore.
+La si può vedere nella ricca oscurità delle chiese spagnole,
+trapunta del [[Fire|fuoco]] dorato di innumerevoli candele.
+Ma la si può vedere pienamente e compiutamente solo nella diffusione
+mondiale della cultura spagnola nel sedicesimo secolo,
+quando essa incontrò ai suoi confini mostri più strani delle balene;
+uomini rossi e [[Mountains|montagne]] d'oro e un nuovo mondo.
+Ebbe molti delitti, che non sono nascosti nel poema di Claudel,
+ma ebbe questa assai invidiabile [[Greatness|grandezza]]: che strane [[Stars|stelle]]
+e nuove scienze si aprirono allora a un mondo cristiano
+che era ancora colmo di cavalleria. Allora gli uomini malvagi colonizzavano
+per [[Greed|avidità]], ma gli uomini buoni non colonizzavano solo per il commercio;
+quando l'uomo bianco era una figura romantica quanto l'uomo rosso,
+e il commercio non aveva ancora distrutto il Pellerossa per sostituirlo
+col Bravo Ragazzo qualunque.
 
 -*-

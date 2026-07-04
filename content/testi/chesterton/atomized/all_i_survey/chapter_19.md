@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/all-i-survey-(chesterton)">All I Survey</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/all_i_survey/chapter_18">‹ Chapter 18</a><a class="ex-next" href="/testi/chesterton/atomized/all_i_survey/chapter_20">Chapter 20 ›</a></div>
@@ -160,5 +162,163 @@ In short, the Western man seeks after Liberty, which is
 a real mystery.  Compared with that [[unity|Unity]] is a platitude.
 It is the White Man who is the Dark [[Horse]]; and ourselves
 who are riddles to ourselves.
+
+-*-
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/all-i-survey-(chesterton)">All I Survey</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/all_i_survey/chapter_18">‹ Chapter 18</a><a class="ex-next" href="/testi/chesterton/atomized/all_i_survey/chapter_20">Chapter 20 ›</a></div>
+</nav>
+
+XIX
+
+_Sulla semplicità dell'Asia_
+
+MI FU chiesto di recente di scrivere il prologo di un romanzo
+[[Detective|poliziesco]] a più mani, il quale esigeva una descrizione minuta e vivida
+delle strade di Hong Kong. Non ho mai veduto Hong Kong,
+e non ho la minima idea di che aspetto abbia.
+Ma sarebbe un giornalista di ben poco fegato colui che si lasciasse
+distogliere dal realismo e dall'esattezza fotografica
+da una simile inezia. Nondimeno, mentre andavo rimuginando
+la faccenda, caddi in un ordine di pensieri più generale,
+al quale Hong Kong serve da porta d'ingresso, come serve
+da porta d'ingresso alla Cina. Sebbene io non abbia mai veduto
+i porti misti e cosmopoliti dell'Estremo Oriente, ho pur veduto alcuni
+dei porti ancor più misti e cosmopoliti del Vicino Oriente.
+Sono stato a Port Said e a Suez; e fra questi e Hong Kong
+si distende l'intera cosa vasta e ancora in parte ignota che chiamiamo Asia.
+Ma le mie meditazioni hanno tracimato su questa pagina, poiché esse
+sono manifestamente troppo vaghe e generali per essere sviluppate dinanzi
+agli spiriti [[Innocent|innocenti]] e felici, colmi d'una bella impazienza
+di venire finalmente al delitto.
+
+Qualunque altra cosa gli scribi abbiano scritto intorno all'Asia,
+tutti hanno convenuto nell'affermare che essa è misteriosa.
+Potrà sembrare perverso dire che tale affermazione è
+un'affermazione errata, o addirittura che è un'esagerazione. Eppure io
+credo vi sia un aspetto sotto il quale la si può contraddire.
+Possiamo perfino dire che tutto il punto dell'Asia sta nel fatto che essa
+non è misteriosa; non lo è neppure per metà quanto l'Europa;
+per non dir nulla dell'[[america|America]], che è la più misteriosa di tutte.
+Con ciò voglio dire che vi sono in Europa e in [[america|America]] compromessi
+e complessità, una mescolanza o un equilibrio d'una cosa con l'altra,
+che è in verità assai meno palese nelle passioni crude,
+nei riti rigorosi e negli appetiti antichi dell'Asia.
+Per esempio, un cristiano è perpetuamente in bilico fra
+un ideale cristiano di amare i propri nemici, un ideale
+pagano di punire i propri nemici, e un ideale cavalleresco di
+combattere i propri nemici soltanto lealmente. In Asia, immagino, tanto l'[[Love|amore]]
+quanto l'odio sono stati assai più schietti e senza maschera.
+Sia in poesia sia in politica, un uomo sarebbe assai più semplice
+nel suo proposito di perseguire il proprio [[Love|amore]] o di perseguitare il proprio avversario.
+E, per quanto vi sia [[Truth|verità]] nella tradizione secondo cui l'asiatico è
+così divenuto talora un [[artist|artista]] nella sensualità e un [[artist|artista]]
+nella crudeltà, egli potrebbe [[Well|ben]] sostenere la tesi
+che era un [[artist|artista]] con meno artificio e più sincerità.
+Qualcuno disse, con considerevole [[Truth|verità]], che alla [[Russia]] manca
+il cemento dell'ipocrisia. La cosa potrebbe [[Well|ben]] citarsi a sostegno
+dell'opinione non rara che la [[Russia]] sia una parte dell'Asia.
+
+Si potrebbe dire che l'Asia è troppo vecchia per essere misteriosa.
+Si potrebbe almeno dire che l'Asia è troppo vecchia per essere ipocrita.
+Vi sono mille veli e travestimenti; ma i travestimenti si sono logorati
+assai in migliaia d'anni, e i veli somigliano piuttosto ai veli
+portati dalle donne di malaffare al Cairo e a Port Said: rituali, ma trasparenti.
+Coloro che vorrebbero procurare un brivido puerile combinando l'occulto
+e l'osceno parlano ancora dei Misteri dell'Harem;
+dei [[Secrets|segreti]] dietro i veli e le cortine del serraglio.
+Ma io immagino che vi sia ben poco mistero intorno all'harem,
+per lo meno all'harem musulmano; e nessun segreto se non il segreto palese.
+Immagino che i sentimenti del serraglio, siano essi domestici
+o servili o sensuali, siano spesso ottusi fino a quel punto estremo di
+ottusità che l'Occidente rivoluzionario definisce rispettabile.
+Sospetto vi sia assai più mistero, nel senso di misticismo,
+nei sentimenti di due comuni [[lovers|innamorati]] in un viottolo inglese.
+È doveroso aggiungere che, con tutto il cerimoniale di reticenza
+o d'invisibilità, vi è probabilmente assai meno ipocrita ciarpame di quanto ve ne sia
+in più d'un [[Novel|romanzo]] o giornale inglese. Ma, che si tratti di sottigliezza
+o di sofisma, che si tratti d'ipocrisia o soltanto di umana complessità,
+è in verità in Occidente e non in Oriente che sta il mistero.
+L'occidentale va sempre dicendo di non riuscire a comprendere
+l'orientale; ma la [[Truth|verità]] è che egli non riesce a comprendere sé stesso.
+È la cultura cristiana ad essere intessuta di molti fili,
+di molti tessuti e colori, e attorcigliata nell'unico nodo,
+il nodo che tiene insieme il mondo, ma il nodo che fra tutti i
+nodi è il più difficile da dipanare o da sciogliere. In confronto a quello,
+vi è qualcosa di semplice e di liscio e tutto d'un pezzo nelle
+antiche sete della Cina o nella tessitura contadina dell'India.
+È sul capo del cristiano che sono venuti a cadere gli estremi della terra,
+fin dal principio, le frecce dei persiani o le clave di
+pietra dei celti. E se le palpebre sono, dopo tutto, meno stanche
+di quelle d'un Buddha o d'un dio bramino, può darsi che vi sia
+una lieve fallacia nella nota citazione, e che l'essere colpiti
+sul capo incessantemente dagli angoli del mondo non ci mandi soltanto
+a [[Sleep|dormire]]. Comunque sia, è il cristiano ad essere il vero
+mistero cosmico; la [[Cross|croce]] formata dalle luci a [[Cross|croce]] dei raggi
+dell'alba e del tramonto; il vero crocevia del mondo.
+Ma è pur giusto dire che questa complessità, la quale produce
+la più alta [[philosophy|filosofia]], produce del pari la fandonia. Ne produce
+la specie peggiore; quella in cui l'imbroglione a stento sa d'essere imbroglione.
+Sospetto che vi sia assai meno fandonia in Oriente, e che,
+in confronto a una fandonia così radicata e umanizzata, tutta la sua astuzia
+sia una sorta di semplicità.
+
+In Asia le cose si sono logorate troppo per essere imbottite di
+tale [[Self-Deception|inganno di sé]]; essa è vecchia e le ossa le sporgono.
+Là la meretrice è una meretrice, e non un'attrice mondana
+che la [[Court|Corte]] del [[divorce|divorzio]] passa da un uomo ricco a un altro.
+Là lo schiavo è uno schiavo, e non un dipendente inquadrato
+con un reddito inferiore a quello stabilito dalla legge.
+Là il [[King|re]] è un [[King|re]], e il [[Tyrant|tiranno]] è un [[Tyrant|tiranno]],
+e non un banchiere che minaccia di mandare in bancarotta le nazioni,
+o un privato che detiene tutte le azioni d'una società per azioni.
+Abbiamo senza dubbio, col nostro esempio, introdotto queste benedizioni
+in Asia, ma esse non sono asiatiche. Là l'usuraio era
+un usuraio, e il ladro un ladro; e questo, che era la cosa migliore
+dell'Asia, sarà probabilmente l'unica cosa realmente mutata
+dall'influsso dell'Europa. Ma vale la pena di spendere una parola
+in favore della semplicità dell'Asia, e contro il mistero dell'Asia.
+Poiché su quel presunto mistero dell'Oriente si è eretta in Occidente
+ogni sorta di ciarlataneria. Ogni falsa religione,
+ogni squallida perversione, ogni ignobile società segreta,
+ha preteso di nutrirsi degli strani frutti di quel [[Garden|giardino]] d'Asia.
+E possiamo [[Well|ben]] insinuare che il [[Garden|giardino]] stesso sia un po' più decente,
+anche se è un [[Desert|deserto]].
+
+Vi è un numero sterminato di esempi, buoni e cattivi,
+di quella sorta di rigida semplicità cui alludo, e del senso
+in cui l'[[Orient|Oriente]] ha più semplicità che segretezza.
+Il sistema delle caste dell'India, per esempio, mi sembra essere
+una tirannia; e la peggior specie di tirannia, quella che non è esercitata
+da un [[Tyrant|tiranno]], ma da un'aristocrazia: eppure non è un'ipocrisia.
+Non è neppure quella specie più confusa e inconscia
+d'ipocrisia che chiamiamo fandonia. Non è affatto confusa;
+la sua stessa crudeltà sta nella sua chiarezza. Non si può giocherellare
+con l'idea d'un bramino come si può fare con l'idea d'un Gentiluomo.
+Non si può fingere che i paria siano stati fatti paria interamente
+per far loro un complimento, e nell'interesse della Vera [[democracy|Democrazia]].
+O per lo meno, se gli indiani parlano oggi in tal modo, è
+fin troppo vero che sono stati contagiati dai peggiori
+vizi dell'Occidente. Vorrei essere certo che vengano del pari
+influenzati dai meriti autentici dell'Occidente; e, soprattutto,
+da questo grande merito dell'Occidente, il cui nome è Mistero.
+Ma sono loro, i semplici, a non comprendere noi,
+i mistici. Un hindu brillante e illustre mi
+disse che il problema del mondo è di unire tutte le cose;
+che le cose in cui esse differiscono sono indifferenti,
+e che solo le cose in cui esse sono uguali sono salde.
+Non riuscii a spiegargli che il problema del cristiano
+non è meramente di unire tutte le cose, ma di unire l'[[Union|unione]]
+con la disunione. Le differenze non sono indifferenti;
+e il problema è di lasciare che le cose differiscano mentre concordano.
+In breve, l'uomo occidentale va in cerca della Libertà, che è
+un mistero autentico. In confronto a quella, l'[[unity|Unità]] è una banalità.
+È l'Uomo Bianco ad essere il Cavallo [[Horse|Nero]]; e siamo noi stessi
+ad essere enigmi a noi stessi.
 
 -*-

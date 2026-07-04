@@ -117,7 +117,7 @@ in the word "damn" than in the word "degeneration."
 
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/works/ortho14-(chesterton)">Orthodoxy</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/ortho14-(chesterton)">Orthodoxy</a> › <a href="/testi/chesterton/atomized/ortho14/story_07_vii_the_eternal_revolution">Story 07 Vii The Eternal Revolution</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/ortho14/story_07_vii_the_eternal_revolution/part_07">‹ part 07</a><a class="ex-next" href="/testi/chesterton/atomized/ortho14/story_07_vii_the_eternal_revolution/part_09">part 09 ›</a></div>
 </nav>
 

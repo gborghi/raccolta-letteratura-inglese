@@ -778,500 +778,275 @@ cloud on his brow as he put on his hat and went out into the [[Night|night]].
 <div class="excerpt-crumb">Chesterton · <a href="/works/secret-fr-brown-(chesterton)">secret Fr Brown</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/secret_fr_brown/story_03_the_song_song_of_the_flying_fish">‹ Story 03 THE Song SONG OF THE FLYING FISH</a><a class="ex-next" href="/testi/chesterton/atomized/secret_fr_brown/story_05_the_vanishing_of_vaudrey">Story 05 THE VANISHING OF VAUDREY ›</a></div>
 </nav>
+<nav class="excerpt-children">
+<div class="excerpt-children-label">In questa sezione</div>
+<ul><li><a href="/testi/chesterton/atomized/secret_fr_brown/story_04_the_actor_and_the_alibi/part_01">Part 1</a></li><li><a href="/testi/chesterton/atomized/secret_fr_brown/story_04_the_actor_and_the_alibi/part_02">Part 2</a></li><li><a href="/testi/chesterton/atomized/secret_fr_brown/story_04_the_actor_and_the_alibi/part_03">Part 3</a></li><li><a href="/testi/chesterton/atomized/secret_fr_brown/story_04_the_actor_and_the_alibi/part_04">Part 4</a></li><li><a href="/testi/chesterton/atomized/secret_fr_brown/story_04_the_actor_and_the_alibi/part_05">Part 5</a></li><li><a href="/testi/chesterton/atomized/secret_fr_brown/story_04_the_actor_and_the_alibi/part_06">Part 6</a></li><li><a href="/testi/chesterton/atomized/secret_fr_brown/story_04_the_actor_and_the_alibi/part_07">Part 7</a></li></ul>
+</nav>
 
 IV L'ATTORE E L'ALIBI
 
-IL SIGNOR MUNDON MANDEVILLE, l'impresario teatrale, camminava spedito lungo i corridoi dietro le quinte, o piuttosto sotto le quinte. Il suo abbigliamento era elegante e festoso, forse un po' troppo festoso; festoso era il fiore all'occhiello; festosa perfino la vernice dei suoi stivali; ma il suo volto non era affatto festoso. Era un uomo grande, dal collo taurino e dalle sopracciglia nere, e in quel momento la sua fronte era più fosca del solito. Aveva in ogni caso, naturalmente, le cento seccature che assediano un uomo in una simile posizione; e andavano dalle grandi alle piccole, dalle nuove alle vecchie. Lo irritava attraversare i corridoi dove erano accatastate le vecchie scenografie delle pantomime; perché aveva iniziato con successo la sua carriera in quel teatro con pantomime assai popolari, e da allora si era lasciato indurre a scommettere su un dramma più serio e classico, sul quale aveva perduto un bel po' di denaro. Sicché, vedere le zaffirine Porte del Palazzo Azzurro di Barbablù, o brani del Bosco Incantato degli Aranci d'Oro, appoggiati contro il muro a farsi drappeggiare di ragnatele o rosicchiare dai topi, non gli dava quel senso rasserenante di un ritorno alla semplicità che tutti dovremmo provare quando ci è concessa una fugace visione di quel paese delle meraviglie che è la nostra [[Childhood|infanzia]]. Né aveva il [[Time|tempo]] di versare una lacrima là dove aveva perduto il denaro, o di fantasticare su questo Paradiso di Peter Pan; poiché era stato convocato in tutta fretta per risolvere un problema pratico, non del passato ma dell'istante presente. Era il genere di cosa che talvolta accade in quel mondo strano dietro le quinte; ma era abbastanza grosso da essere serio. La signorina Maroni, la giovane e talentuosa attrice di origine italiana, che si era impegnata a interpretare una parte importante nella commedia che doveva essere provata quel pomeriggio e rappresentata quella sera, all'ultimo momento si era bruscamente, e persino violentemente, rifiutata di fare alcunché del genere. Egli non aveva ancora nemmeno visto l'esasperante signora; e poiché costei si era chiusa a chiave nel proprio camerino e sfidava il mondo attraverso la porta, pareva improbabile, per il momento, che la vedesse. Il signor Mundon Mandeville era abbastanza britannico da spiegarsi la faccenda borbottando che tutti gli stranieri erano matti; ma il pensiero della sua buona sorte nell'abitare l'unica isola sana del pianeta non bastava a rasserenarlo più di quanto facesse il [[Memory|ricordo]] del Bosco Incantato. Tutte queste cose, e molte altre ancora, erano irritanti; eppure un osservatore assai attento avrebbe potuto sospettare che qualcosa non andasse nel signor Mandeville, qualcosa che oltrepassava l'irritazione.
+IL SIGNOR MUNDON MANDEVILLE, il direttore teatrale, camminava spedito attraverso i corridoi che stavano dietro le scene, o piuttosto sotto le scene. L'abito era elegante e festoso, forse un po' troppo festoso; festoso era il fiore all'occhiello; festosa perfino la vernice degli stivali; ma il volto non era affatto festoso. Era un uomo grande, dal collo taurino e dalle sopracciglia nere, e in quel momento la sua fronte era più fosca del solito. Aveva in ogni caso, s'intende, le cento seccature che assediano un uomo in una simile posizione; e andavano dalle grandi alle piccole, dalle nuove alle vecchie. Lo irritava attraversare i corridoi dove giaceva accatastato il vecchio scenario delle pantomime; giacché aveva iniziato con successo la propria carriera in quel teatro con pantomime assai popolari, e da allora si era lasciato indurre a scommettere su un dramma più serio e classico, sul quale aveva perduto parecchio denaro. Sicché vedere le zaffirine Porte del Palazzo Azzurro di Barbablù, o brandelli del Boschetto Incantato degli Aranci d'Oro, appoggiati alla parete per essere festonati di ragnatele o rosicchiati dai topi, non gli dava affatto quel dolce senso di ritorno alla semplicità che tutti dovremmo provare quando ci è concesso di scorgere il paese delle meraviglie della nostra [[Childhood|infanzia]]. Né aveva [[Time|tempo]] di lasciar cadere una lacrima là dove aveva lasciato cadere il denaro, o di sognare quel Paradiso di Peter Pan; poiché era stato convocato in tutta fretta per risolvere un problema pratico, non del passato ma del momento. Era il genere di cosa che talvolta accade in quel mondo strano che sta dietro le quinte; ma era abbastanza grosso da essere serio. La signorina Maroni, la giovane e talentuosa attrice di origine italiana, che si era impegnata a interpretare una parte importante nella commedia che doveva essere provata quel pomeriggio e recitata quella sera, all'ultimo momento aveva bruscamente e persino violentemente rifiutato di far nulla del genere. Egli non aveva ancora nemmeno visto l'esasperante signora; e poiché costei si era chiusa a chiave nel proprio camerino e sfidava il mondo intero attraverso la porta, pareva improbabile, per il momento, che riuscisse a vederla. Il signor Mundon Mandeville era abbastanza britannico da spiegarsi la cosa mormorando che tutti gli stranieri erano matti; ma il pensiero della propria fortuna nell'abitare l'unica isola sana del pianeta non bastava a placarlo più di quanto lo placasse il [[Memory|ricordo]] del Boschetto Incantato. Tutte queste cose, e molte altre, erano seccanti; eppure un osservatore assai intimo avrebbe potuto sospettare che nel signor Mandeville ci fosse qualcosa che non andava, qualcosa che andava oltre la semplice seccatura.
 
-Se è possibile che un uomo pesante e sano appaia smunto, egli appariva smunto. Aveva il viso pieno, ma le orbite infossate; la sua bocca aveva un tremito, come se cercasse sempre di mordere quella nera striscia di baffi che era appena troppo corta per poter essere morsa. Poteva essere un uomo che aveva cominciato a far uso di droghe; ma anche in quell'ipotesi c'era qualcosa che lasciava intendere che avesse una ragione per farlo; che la droga non fosse la causa della [[Tragedy|tragedia]], bensì la [[Tragedy|tragedia]] la causa della droga. Qualunque fosse il suo segreto più profondo, pareva dimorare in quell'estremità buia del lungo corridoio dove si trovava l'ingresso del suo piccolo studio privato; e mentre percorreva il corridoio deserto, gettava indietro di tanto in tanto uno sguardo nervoso.
+Se è possibile a un uomo pesante e sano l'apparire smunto, egli appariva smunto. Il volto era pieno, ma le orbite erano incavate; la bocca gli si contraeva come se cercasse sempre di mordere la striscia nera di baffi che era proprio troppo corta per poter essere morsa. Poteva sembrare un uomo che avesse cominciato a far uso di droghe; ma anche in tale ipotesi c'era qualcosa che suggeriva che egli avesse una ragione per farlo; che la droga non fosse la causa della [[Tragedy|tragedia]], ma la [[Tragedy|tragedia]] la causa della droga. Qualunque fosse il suo segreto più profondo, esso pareva dimorare in quell'estremità buia del lungo corridoio dove si apriva l'ingresso del suo piccolo studio; e mentre percorreva il corridoio deserto, egli lanciava di tanto in tanto un'occhiata nervosa all'indietro.
 
-Comunque, gli affari sono affari; ed egli si diresse verso l'estremità opposta del corridoio, dove la spoglia porta verde della signorina Maroni sfidava il mondo. Un gruppo di attori e di altre persone coinvolte già vi sostava davanti, conferendo e ponderando, si sarebbe quasi potuto immaginare, l'opportunità di un ariete da sfondamento. Il gruppo conteneva almeno una figura già abbastanza [[Well|nota]]; la cui fotografia stava su molte mensole di caminetto e il cui autografo in molti album. Poiché, sebbene Norman Knight recitasse l'[[Hero|eroe]] in un teatro ancora un poco provinciale e all'antica, capace di definirlo il primo attor giovane, egli, quanto meno, era di certo avviato a più ampi trionfi. Era un bell'uomo, dal lungo mento fesso e dai capelli biondi bassi sulla fronte, il che gli conferiva un'aria piuttosto neroniana che non corrispondeva del tutto ai suoi movimenti impulsivi e avventati. Il gruppo comprendeva anche Ralph Randall, che di solito recitava parti di carattere in ruoli anziani, e aveva un faceto volto affilato, azzurrognolo per la rasatura e scolorito dal cerone. Comprendeva il secondo attor giovane di Mandeville, che portava avanti la tradizione non ancora del tutto scomparsa dell'Amico di Charles, un giovane bruno dai capelli ricci e dal profilo alquanto semitico, che rispondeva al nome di Aubrey Vernon.
+Tuttavia gli affari sono affari; ed egli si diresse verso l'estremità opposta del corridoio, dove l'anonima porta verde della signorina Maroni sfidava il mondo. Un gruppo di attori e altre persone coinvolte stava già in piedi davanti a essa, conferendo e considerando, si sarebbe quasi immaginato, l'opportunità di un ariete. Il gruppo conteneva almeno una figura già abbastanza [[Well|nota]]; la cui fotografia stava su molte mensole di caminetti e il cui autografo in molti album. Poiché, per quanto Norman Knight recitasse la parte dell'[[Hero|eroe]] in un teatro ancora un po' provinciale e all'antica, capace di chiamarlo il primo attore brillante, egli, per lo meno, era di certo sulla via di trionfi più vasti. Era un bell'uomo, dal mento lungo e fesso e dai capelli biondi bassi sulla fronte, che gli davano un'aria alquanto neroniana, non del tutto corrispondente ai suoi movimenti impulsivi e impetuosi. Il gruppo conteneva anche Ralph Randall, che di solito recitava parti di carattere anziano, e aveva un volto affilato e faceto, bluastro per la rasatura e scolorito dal cerone. Conteneva il secondo attore brillante di Mandeville, il quale portava avanti la tradizione non ancora del tutto tramontata dell'Amico del Protagonista, un giovane bruno dai capelli ricci e dal profilo alquanto semitico, che rispondeva al nome di Aubrey Vernon.
 
-Comprendeva la cameriera o vestiarista della moglie del signor Mundon Mandeville, una persona dall'aria assai vigorosa, dai capelli rossi ben tirati e dal volto duro e legnoso. E comprendeva anche, per inciso, la moglie di Mandeville, una donna quieta rimasta sullo sfondo, dal viso pallido e paziente, i cui lineamenti non avevano perduto una simmetria e una severità classiche, ma che appariva tanto più pallido in quanto perfino i suoi occhi erano pallidi, e i suoi pallidi capelli biondi le posavano in due semplici bande come quelli di una Madonna assai arcaica. Non tutti sapevano che un tempo era stata un'attrice seria e affermata in Ibsen e nel dramma intellettuale. Ma suo marito non teneva in gran conto i drammi a tesi; e certamente in quel momento era più interessato al problema di far uscire un'attrice straniera da una stanza chiusa a chiave: una nuova versione del gioco di prestigio della Dama che Scompare.
+Comprendeva la cameriera o vestiarista della moglie del signor Mundon Mandeville, una persona dall'aspetto assai vigoroso, dai capelli rossi tirati e dal volto duro come il legno. Comprendeva anche, incidentalmente, la moglie di Mandeville, una donna silenziosa sullo sfondo, dal viso pallido e paziente, i cui lineamenti non avevano perduto una classica simmetria e severità, ma che appariva tanto più pallido in quanto i suoi occhi stessi erano pallidi, e i suoi capelli d'un giallo pallido le scendevano in due semplici bande come quelli di una Madonna assai arcaica. Non tutti sapevano che ella era stata un tempo un'attrice seria e affermata in Ibsen e nel dramma intellettuale. Ma il marito non teneva in gran conto le commedie a tesi; e certo in quel momento era più interessato al problema di far uscire un'attrice straniera da una stanza chiusa a chiave; una nuova versione del gioco di prestigio della Dama che Scompare.
 
-«Non è ancora uscita?» domandò, rivolgendosi all'efficiente assistente di sua moglie anziché a sua moglie.
+«Non è ancora uscita?» domandò, rivolgendosi alla efficiente domestica della moglie piuttosto che alla moglie stessa.
 
-«No, signore» rispose la donna — che era conosciuta come la signora Sands — in tono cupo.
+«No, signore» rispose la donna — nota come la signora Sands — in modo cupo.
 
-«Cominciamo a essere un po' allarmati» disse il vecchio Randall. «Sembrava del tutto fuori di sé, e temiamo che possa persino farsi del male.»
+«Cominciamo a essere un po' allarmati» disse il vecchio Randall. «Pareva del tutto squilibrata, e temiamo che possa perfino farsi del male.»
 
-«Al diavolo!» esclamò Mandeville alla sua maniera semplice e schietta. «La pubblicità è ottima cosa, ma quel genere di pubblicità non lo vogliamo. Non ha proprio nessun amico qui? Nessuno ha una qualche influenza su di lei?»
+«Al diavolo!» disse Mandeville nel suo modo semplice e ingenuo. «La pubblicità è cosa ottima, ma quel genere di pubblicità non lo vogliamo. Non ha amici qui? Nessuno ha un po' d'influenza su di lei?»
 
-«Jarvis pensa che l'unico uomo capace di gestirla sia il suo prete, qui all'angolo» disse Randall; «e nel caso davvero si mettesse a impiccarsi a un attaccapanni, ho pensato che forse sarebbe meglio averlo qui. Jarvis è andato a chiamarlo… e, a dire il vero, eccolo che arriva.»
+«Jarvis pensa che l'unico uomo che potrebbe gestirla sia il suo prete, qui all'angolo» disse Randall; «e nel caso in cui cominci davvero a impiccarsi a un attaccapanni, ho pensato che forse sarebbe stato meglio averlo qui. Jarvis è andato a chiamarlo… e, per la verità, eccolo che arriva.»
 
-In quel corridoio sotterraneo, sotto il palcoscenico, comparvero altre due
-figure: la prima era Ashton Jarvis, un tipo gioviale che di solito
-interpretava i cattivi, ma che per il momento aveva ceduto quell'alta
-vocazione al giovanotto ricciuto dal gran naso. L'altra figura era bassa e
-quadrata e vestita tutta di nero: era [[Father Brown|padre Brown]], venuto dalla chiesa
-dietro l'angolo.
+Due altre figure comparvero in quel passaggio sotterraneo sotto il palcoscenico: la prima era Ashton Jarvis, un tipo gioviale che di solito recitava i cattivi, ma che per il momento aveva ceduto quell'alta vocazione al giovane ricciuto dal naso pronunciato. L'altra figura era bassa e tozza e vestita tutta di nero; era [[Father Brown]], della chiesa qui all'angolo.
 
-[[Father Brown|Padre Brown]] pareva prendere con tutta naturalezza, e perfino con
-noncuranza, il fatto che lo si chiamasse a occuparsi della bizzarra condotta
-di una delle sue pecorelle, sia che la si dovesse considerare una pecora nera
-o soltanto un [[Lamb|agnello]] smarrito. Ma non sembrava dare gran peso all'ipotesi del
-[[suicide|suicidio]].
+[[Father Brown]] pareva prendere del tutto con naturalezza, e persino con noncuranza, il fatto di essere chiamato a occuparsi della strana condotta di una delle sue pecorelle, sia che la si dovesse considerare una pecora nera o soltanto un [[Lamb|agnello]] smarrito. Ma non pareva dare molto peso all'ipotesi del [[suicide|suicidio]].
 
-«Suppongo ci fosse qualche ragione, perché uscisse dai gangheri a quel modo»,
-disse. «Qualcuno sa quale fosse?»
+«Suppongo che ci fosse qualche ragione perché desse così di volta al cervello» disse. «Qualcuno sa quale fosse?»
 
-«Scontenta della sua parte, credo», disse l'attore più anziano.
+«Insoddisfatta della sua parte, credo» disse l'attore più anziano.
 
-«Lo sono sempre», borbottò il signor Mundon Mandeville. «E io che pensavo si
-sarebbe occupata mia moglie di tutte quelle faccende.»
+«Lo sono sempre» brontolò il signor Mundon Mandeville. «E pensavo che mia moglie si sarebbe occupata di quelle disposizioni.»
 
-«Posso solo dire», disse la signora Mundon Mandeville con una certa
-stanchezza, «che le ho affidato quella che dovrebbe essere la parte migliore.
-Si suppone che sia ciò che desiderano le ragazze fanatiche del teatro, non è
-vero? Recitare la bella eroina e sposare il bell'[[Hero|eroe]] tra una pioggia di
-mazzi di fiori e le acclamazioni del loggione. Le donne della mia età, com'è
-naturale, devono ripiegare su rispettabili matrone, e io mi sono ben guardata
-dallo scostarmene.»
+«Posso solo dire» disse la signora Mundon Mandeville, piuttosto stancamente, «che le ho dato quella che dovrebbe essere la parte migliore. Si suppone che sia proprio ciò che vogliono le giovani donne invaghite del teatro, no? Recitare la bella giovane eroina e sposare il bel giovane [[Hero|eroe]] tra una pioggia di mazzi di fiori e le acclamazioni del loggione? Le donne della mia età devono naturalmente ripiegare sul recitare rispettabili matrone, e io ho avuto cura di limitarmi a quello.»
 
-«In ogni caso, cambiare le parti adesso sarebbe maledettamente scomodo», disse
-Randall.
+«Sarebbe comunque maledettamente scomodo alterare le parti adesso» disse Randall.
 
-«Non se ne parla nemmeno», dichiarò Norman Knight con fermezza. «Ma se a
-malapena saprei recitare la mia... comunque è troppo tardi.»
+«Non è nemmeno da pensarci» dichiarò con fermezza Norman Knight. «Ma via, io non saprei quasi recitare… ad ogni modo è troppo tardi.»
 
-[[Father Brown|Padre Brown]] si era portato avanti in punta di piedi e se ne stava fuori dalla
-porta chiusa, in ascolto.
+[[Father Brown]] era scivolato avanti e stava in ascolto fuori della porta chiusa a chiave.
 
-«Non si sente nulla?» chiese il direttore con ansia; poi aggiunse, abbassando
-la voce: «Crede che possa essersi fatta del male?»
+«Non si sente alcun rumore?» chiese ansiosamente il direttore; e poi aggiunse a voce più bassa: «Crede che possa essersi tolta la vita?»
 
-«Un certo suono si sente», rispose [[Father Brown|padre Brown]] con calma. «Sarei propenso a
-dedurre da quel suono che è intenta a rompere finestre o specchi,
-probabilmente a colpi di piede. No: non credo ci sia gran pericolo che passi a
-distruggere se stessa. Rompere specchi a colpi di piede è un preludio ben
-inconsueto al [[suicide|suicidio]]. Se fosse stata una tedesca, ritiratasi a meditare
-tranquillamente sulla metafisica e sul weltschmerz, sarei tutto per sfondare
-la porta. Questi italiani non muoiono così facilmente, e non sono inclini a
-uccidersi in un accesso di rabbia. Qualcun altro, forse... sì, è possibile...
-forse sarebbe [[Well|bene]] prendere le solite precauzioni, se dovesse saltar
-fuori con un balzo.»
+«Un certo rumore c'è» rispose [[Father Brown]] con calma. «Sarei incline a dedurre da quel rumore che è occupata a rompere finestre o specchi, probabilmente con i piedi. No; non credo ci sia gran pericolo che passi a distruggere se stessa. Rompere gli specchi con i piedi è un preludio assai inconsueto al [[suicide|suicidio]]. Se fosse stata una tedesca, ritiratasi a riflettere in silenzio sulla metafisica e sul weltschmerz, sarei tutto a favore dell'abbattere la porta. Questi italiani non muoiono davvero così facilmente; e non sono inclini a uccidersi in un accesso di collera. Qualcun altro, forse — sì, è possibile — potrebbe essere [[Well|bene]] prendere le ordinarie precauzioni nel caso in cui esca con un balzo.»
 
-«Dunque non è favorevole a forzare la porta?» chiese Mandeville.
+«Dunque lei non è favorevole a forzare la porta?» chiese Mandeville.
 
-«Non se volete che reciti nel vostro spettacolo», rispose [[Father Brown|padre Brown]]. «Se lo
-fate, farà un putiferio e si rifiuterà di restare qui dentro; se la lasciate
-[[Alone|sola]], probabilmente uscirà per pura curiosità. Se fossi in voi, mi limiterei
-a lasciare qualcuno più o meno di guardia alla porta, confidando nel [[Time|tempo]] per
-un'ora o due.»
+«Non se volete che reciti nella vostra commedia» rispose [[Father Brown]]. «Se lo fate, farà venir giù il tetto e si rifiuterà di restare qui; se la lasciate [[Alone|sola]] — probabilmente uscirà per pura curiosità. Se fossi in voi, mi limiterei a lasciare qualcuno a sorvegliare più o meno la porta, e mi affiderei al [[Time|tempo]] per un'ora o due.»
 
-«In tal caso», disse Mandeville, «non possiamo far altro che proseguire
-provando le scene in cui lei non compare. Mia moglie disporrà tutto il
-necessario per le scenografie, per adesso. In fondo, il quarto atto è la parte
-principale. Fareste meglio a occuparvi di quello.»
+«In tal caso» disse Mandeville, «non possiamo far altro che procedere con le prove delle scene in cui lei non compare. Mia moglie sistemerà tutto il necessario per lo scenario, per ora. Dopo tutto, il quarto atto è la faccenda principale. Fareste bene a occuparvi di quello.»
 
-«Non in costume», disse la moglie di Mandeville agli altri.
+«Non una prova in costume» disse la moglie di Mandeville agli altri.
 
-«Molto [[Well|bene]]», disse Knight, «non in costume, s'intende. Vorrei che i vestiti
-di quel maledetto periodo non fossero così elaborati.»
+«[[Well|Benissimo]]» disse Knight, «non una prova in costume, si capisce. Vorrei che gli abiti di quell'infernale epoca non fossero così complicati.»
 
-«Che spettacolo è?» chiese il prete con un pizzico di curiosità.
+«Qual è la commedia?» chiese il prete con un tocco di curiosità.
 
-«La scuola della maldicenza», disse Mandeville. «Sarà pure letteratura, ma io
-voglio spettacoli. A mia moglie piacciono quelle che lei chiama commedie
-classiche. Molto più classiche che comiche.»
+«La scuola della maldicenza» disse Mandeville. «Sarà letteratura, ma io voglio le commedie. A mia moglie piace quel che lei chiama commedie classiche. Un bel po' più classiche che comiche.»
 
-In quel momento il vecchio portinaio, noto come Sam e unico abitante del
-teatro nelle ore morte, si avvicinò dondolando al direttore con un biglietto,
-per annunciargli che Lady Miriam Marden desiderava vederlo. Egli si voltò, ma
-[[Father Brown|padre Brown]] continuò per qualche secondo a sbattere le palpebre con fissità
-nella direzione della moglie del direttore, e vide che il suo volto smunto
-recava un debole sorriso: non del tutto un sorriso lieto.
+In quel momento il vecchio portinaio noto come Sam, e unico abitante del teatro durante le ore di riposo, si avvicinò dondolando al direttore con un biglietto, per dirgli che Lady Miriam Marden desiderava vederlo. Egli si voltò, ma [[Father Brown]] continuò per qualche secondo a sbattere le palpebre fissamente in direzione della moglie del direttore, e vide che il suo volto smorto recava un debole sorriso; un sorriso non del tutto lieto.
 
-[[Father Brown|Padre Brown]] si allontanò in compagnia dell'uomo che ce l'aveva condotto, il
-quale, per l'appunto, era un amico e una persona della sua stessa
-[[Persuasion|fede]], cosa non insolita tra gli attori. Mentre si allontanava, tuttavia,
-udì la signora Mandeville dare sommesse istruzioni alla signora Sands perché
-assumesse la funzione di sentinella accanto alla porta chiusa.
+[[Father Brown]] si allontanò in compagnia dell'uomo che l'aveva condotto lì, il quale si dava il caso che fosse davvero un amico e una persona della medesima [[Persuasion|persuasione]], cosa non rara tra gli attori. Mentre però si allontanava, udì la signora Mandeville impartire sommessamente alla signora Sands l'ordine di assumere la posizione di sentinella accanto alla porta chiusa.
 
-«La signora Mandeville sembra una donna intelligente», disse il prete al suo
-compagno, «per quanto se ne stia tanto in disparte.»
+«La signora Mandeville pare essere una donna intelligente» disse il prete al suo compagno, «per quanto si tenga tanto in disparte.»
 
-«Un tempo era una donna di grandissimo ingegno», disse Jarvis con tristezza;
-«piuttosto spenta e sciupata, direbbe qualcuno, dall'aver sposato un cafone
-come Mandeville. Ha i più altissimi ideali del teatro, sa; ma, naturalmente,
-non è che di frequente riesca a far guardare le cose sotto quella luce al suo
-signore e padrone. Sa che voleva davvero che una donna simile recitasse la
-parte del ragazzo nella pantomima? Ammetteva che era un'attrice eccellente, ma
-diceva che le pantomime rendevano di più. Questo le dà all'incirca la misura
-del suo acume psicologico e della sua sensibilità. Eppure lei non si è mai
-lamentata. Come mi disse una volta: "Il lamento torna sempre in un'eco dai
-confini del mondo; ma il [[Silence|silenzio]] ci rende più forti". Se solo fosse sposata a
-qualcuno che comprendesse le sue idee, avrebbe potuto essere una delle grandi
-attrici dell'epoca; e in effetti i critici di alto bordo la tengono ancora in
-gran conto. Così com'è, è sposata a quello.»
+«Era un tempo una donna di altissimo ingegno» disse Jarvis tristemente; «piuttosto sbiadita e sprecata, direbbe qualcuno, per aver sposato un cafone come Mandeville. Ha, sa, i più alti ideali riguardo al dramma; ma, naturalmente, non spesso riesce a far sì che il suo signore e padrone guardi qualcosa sotto quella luce. Sa che voleva davvero che una donna simile recitasse la parte di un ragazzo nelle pantomime? Ammetteva che fosse una fine attrice, ma diceva che le pantomime rendevano di più. Questo le dà all'incirca la misura della sua perspicacia e sensibilità psicologica. Ma lei non si è mai lamentata. Come mi disse una volta: "Il lamento torna sempre indietro come un'eco dai confini del mondo; ma il [[Silence|silenzio]] ci rafforza". Se solo fosse sposata a qualcuno che comprendesse le sue idee, avrebbe potuto essere una delle grandi attrici dell'epoca; anzi, i critici più raffinati la stimano ancora molto. Così com'è, è sposata a quello.»
 
-E indicò il punto in cui la grande mole nera di Mandeville stava con la
-schiena rivolta a loro, a parlare con le dame che lo avevano chiamato fuori
-nel vestibolo. Lady Miriam era una dama lunghissima, languida ed elegante,
-avvenente in una foggia recente largamente modellata sulle mummie egizie; i
-capelli scuri tagliati bassi e squadrati, come una specie di elmo, e le labbra
-molto dipinte e sporgenti, che le davano una permanente espressione di
-disprezzo. La sua accompagnatrice era una dama assai vivace, dal viso brutto e
-attraente e dai capelli incipriati di grigio. Era una certa signorina Theresa
-Talbot e parlava moltissimo, mentre la sua compagna sembrava troppo stanca per
-parlare affatto. Solo che, proprio mentre i due uomini passavano, Lady Miriam
-raccolse l'energia sufficiente per dire:
+E indicò dove la grande mole nera di Mandeville stava con le spalle a loro, a parlare con le signore che l'avevano fatto chiamare nel vestibolo. Lady Miriam era una signora assai lunga, languida ed elegante, bella secondo una moda recente in gran parte modellata sulle mummie egiziane; i capelli scuri tagliati bassi e squadrati, come una sorta di elmo, e le labbra assai dipinte e sporgenti, che le davano un'espressione permanente di disprezzo. La sua accompagnatrice era una signora assai vivace, dal volto brutto ma attraente e dai capelli incipriati di grigio. Era una certa signorina Theresa Talbot e parlava moltissimo, mentre la sua compagna pareva troppo stanca per parlare del tutto. Solo che, proprio mentre i due uomini passavano, Lady Miriam raccolse l'energia per dire:
 
-«Le commedie sono una noia; ma non ho mai visto una prova con gli abiti di tutti i giorni. Potrebbe essere un po' buffo. In un modo o nell'altro, di questi tempi, non si riesce mai a trovare qualcosa che non si sia già visto.»
+«Le commedie sono una noia; ma non ho mai visto una prova in abiti ordinari. Potrebbe essere un po' buffo. In qualche modo, oggigiorno, non si riesce mai a trovare una cosa che non si sia già vista.»
 
-«Suvvia, signor Mandeville», disse Miss Talbot, battendogli sul braccio con animata insistenza, «lei deve assolutamente lasciarci vedere questa prova. Non possiamo venire di [[Night|notte]], e nemmeno lo vogliamo. Vogliamo vedere tutta la gente buffa negli abiti sbagliati.»
+«E allora, signor Mandeville» disse la signorina Talbot, battendogli sul braccio con animata insistenza, «deve assolutamente lasciarci vedere quella prova. Non possiamo venire stas[[Night|sera]], e non ne abbiamo voglia. Vogliamo vedere tutta la gente buffa con gli abiti sbagliati.»
 
-«Naturalmente posso darvi un palco, se lo desiderate», disse Mandeville in fretta. «Forse vostra signoria vorrà favorire da questa parte.» E li condusse lungo un altro corridoio.
+«Naturalmente posso darvi un palco, se lo desiderate» disse Mandeville in fretta. «Forse Vostra Signoria vorrà venire da questa parte.» E le condusse via lungo un altro corridoio.
 
-«Mi [[Wonder|domando]]», disse Jarvis in tono meditabondo, «se persino Mandeville preferisca quel genere di donna.»
+«Mi [[Wonder|domando]]» disse Jarvis in tono meditativo, «se anche Mandeville preferisca quel genere di donna.»
 
-«[[Well|Ebbene]]», domandò il suo compagno in abito talare, «ha lei qualche ragione per supporre che Mandeville la preferisca davvero?»
+«[[Well]]» chiese il suo compagno in tonaca, «ha qualche ragione per supporre che Mandeville la preferisca davvero?»
 
-Jarvis lo fissò per un istante prima di rispondere.
+Jarvis lo guardò fissamente per un istante prima di rispondere.
 
-«Mandeville è un mistero», disse gravemente. «Oh, sì, lo so che ha tutta l'aria del più banale mascalzone che abbia mai percorso Piccadilly. Ma ciò nondimeno è davvero un mistero. C'è qualcosa sulla sua [[Conscience|coscienza]]. C'è un'[[Shadow|ombra]] nella sua vita. E [[Doubt|dubito]] che essa abbia a che fare con qualche flirt alla moda più di quanto abbia a che fare con la sua povera moglie trascurata. Se così fosse, in quei flirt ci sarebbe più di quanto non appaia a prima vista. A dire il vero, mi capita di saperne più di chiunque altro, per puro caso. Ma persino io non riesco a cavarne nulla, tranne un mistero.»
+«Mandeville è un mistero» disse gravemente. «Oh, sì, lo so che pare all'incirca il più banale dei mascalzoni mai passeggiati per Piccadilly. Ma è davvero un mistero, con tutto ciò. C'è qualcosa sulla sua [[Conscience|coscienza]]. C'è un'[[Shadow|ombra]] nella sua vita. E [[Doubt|dubito]] che abbia più a che fare con qualche flirt alla moda di quanto abbia a che fare con la sua povera moglie trascurata. Se ce l'ha, in essi c'è più di quanto non appaia a prima vista. In effetti, si dà il caso che io ne sappia più di chiunque altro, per puro accidente. Ma persino io non riesco a cavare nulla da ciò che so, se non un mistero.»
 
-Si guardò intorno nel vestibolo per accertarsi che fossero [[Alone|soli]], poi aggiunse, abbassando la voce:
+Si guardò attorno nel vestibolo per accertarsi che fossero [[Alone|soli]] e poi aggiunse, abbassando la voce:
 
-«Non mi dispiace dirglielo, perché so che lei è una torre di [[Silence|silenzio]] quando si tratta di [[Secrets|segreti]]. Ma l'altro giorno ebbi una curiosa scossa; e da allora si è ripetuta più volte. Sa che Mandeville lavora sempre in quella stanzetta in fondo al passaggio, proprio sotto il palcoscenico. [[Well|Ebbene]], per due volte mi capitò di passare di lì quando tutti lo credevano [[Alone|solo]]; e, ciò che più conta, quando io stesso ero in grado di rendere conto di tutte le donne della compagnia, e di tutte le donne che potessero avere qualcosa a che fare con lui, in quanto assenti o ai loro consueti posti.»
+«Non mi dispiace dirglielo, perché so che lei è una torre di [[Silence|silenzio]] quando si tratta di [[Secrets|segreti]]. Ma l'altro giorno ho avuto uno strano turbamento; e da allora si è ripetuto parecchie volte. Sa che Mandeville lavora sempre in quella stanzetta in fondo al corridoio, proprio sotto il palcoscenico. [[Well|Ebbene]], due volte mi è capitato di passare di là quando tutti lo credevano [[Alone|solo]]; e per di più quando io stesso ero in grado di rendere conto di tutte le donne della compagnia, e di tutte le donne che potessero avere a che fare con lui, assenti o ai loro consueti posti.»
 
 «Tutte le donne?» osservò [[Father Brown]] in tono interrogativo.
 
-«C'era una donna con lui», disse Jarvis quasi in un sussurro. «C'è una donna che va sempre a trovarlo; qualcuno che nessuno di noi conosce. Non so nemmeno come faccia ad arrivare là, dato che non passa per il corridoio fino alla porta; ma credo di aver visto una volta una figura velata o incappucciata dileguarsi nel crepuscolo sul retro del teatro, come un [[Ghost|fantasma]]. Ma non può essere un [[Ghost|fantasma]]. E non credo che sia nemmeno una semplice "storia". Non penso che si tratti di [[Love|amore]]. Penso che sia ricatto.»
+«C'era una donna con lui» disse Jarvis quasi in un sussurro. «C'è qualche donna che lo va sempre a trovare; qualcuna che nessuno di noi conosce. Non so nemmeno come faccia ad arrivarci, giacché non è lungo il corridoio che porta alla porta; ma mi pare di aver visto una volta una figura velata o incappucciata dileguarsi nel crepuscolo, sul retro del teatro, come un [[Ghost|fantasma]]. Ma non può essere un [[Ghost|fantasma]]. E non credo che sia nemmeno un'ordinaria "tresca". Non penso che sia questione di [[Love|amore]]. Penso che sia ricatto.»
 
 «Che cosa glielo fa pensare?» chiese l'altro.
 
-«Perché», disse Jarvis, il volto passando dal [[Grave|grave]] al torvo, «una volta udii dei rumori come di un litigio; e poi la strana donna disse, con voce metallica e minacciosa, quattro parole: "Io sono tua moglie".»
+«Perché» disse Jarvis, il volto passando dal [[Grave|grave]] al torvo, «una volta ho udito rumori come di un litigio; e poi la strana donna disse, con voce metallica e minacciosa, quattro parole: "Io sono tua moglie".»
 
-«Lei crede che sia un bigamo», disse [[Father Brown]] in tono riflessivo. «[[Well|Ebbene]], bigamia e ricatto vanno spesso insieme, naturalmente. Ma potrebbe bluffare [[Well|oltre]] che ricattare. Potrebbe essere pazza. Questa gente di teatro ha spesso dei monomaniaci che le corrono dietro. Lei potrebbe aver ragione, ma non salterei alle conclusioni... E a proposito di gente di teatro, non sta per cominciare la prova, e lei non è forse un uomo di teatro?»
+«Lei crede che sia un bigamo» disse [[Father Brown]] riflettendo. «[[Well|Ebbene]], bigamia e ricatto vanno spesso insieme, naturalmente. Ma può darsi che stia bluffando oltre [[Well|che]] ricattando. Può darsi che sia matta. Questa gente di teatro ha spesso dei monomaniaci che le corrono dietro. Può darsi che lei abbia ragione, ma non salterei alle conclusioni… E a proposito di gente di teatro, non sta per cominciare la prova, e lei non è forse un uomo di teatro?»
 
-«Non sono in scena in questo quadro», disse Jarvis con un sorriso. «Stanno facendo un atto solo, sa, finché la sua amica italiana non torna in sé.»
+«Non sono in scena in questo atto» disse Jarvis con un sorriso. «Ne stanno facendo uno solo, sa, finché la sua amica italiana non torni in sé.»
 
-«A proposito della mia amica italiana», osservò il prete, «mi piacerebbe piuttosto sapere se è tornata in sé.»
+«A proposito della mia amica italiana» osservò il prete, «mi piacerebbe piuttosto sapere se è tornata in sé.»
 
-«Possiamo tornare a vedere, se vuole», disse Jarvis; e scesero di nuovo al piano interrato e nel lungo passaggio, a un capo del quale si trovava lo studio di Mandeville e all'altro la porta chiusa della Signora Maroni. La porta pareva essere ancora chiusa; e la signora Sands sedeva arcigna al di fuori di essa, immobile come un idolo di legno.
+«Possiamo tornare indietro a vedere, se vuole» disse Jarvis; e discesero di nuovo al piano interrato e al lungo corridoio, a un'estremità del quale c'era lo studio di Mandeville e all'altra la porta chiusa della signora Maroni. La porta pareva ancora chiusa; e la signora Sands sedeva arcigna di fronte a essa, immobile come un idolo di legno.
 
-Verso l'altro capo del passaggio scorsero alcuni degli altri attori della scena che salivano le scale verso il palcoscenico proprio lì sopra. Vernon e il vecchio Randall andavano avanti, salendo rapidamente le scale; ma la signora Mandeville procedeva più lentamente, con il suo contegno quietamente dignitoso, e Norman Knight sembrava indugiare un poco per parlarle. Qualche parola giunse alle orecchie degli involontari origliatori mentre passavano.
+Presso l'altra estremità del corridoio scorsero alcuni degli altri attori della scena che salivano le scale verso il palco appena al di sopra. Vernon e il vecchio Randall andavano avanti, correndo rapidi su per le scale; ma la signora Mandeville procedeva più lentamente, nel suo modo quietamente dignitoso, e Norman Knight pareva indugiare un poco per parlarle. Poche parole caddero nelle orecchie degli involontari origliatori mentre passavano.
 
-«Le dico che una donna lo va a trovare», stava dicendo Knight con violenza.
+«Le dico che una donna va a trovarlo» stava dicendo Knight con violenza.
 
-«Zitto!» disse la signora, con quella sua voce d'argento che pure aveva in sé qualcosa d'acciaio. «Non deve parlare così. Ricordi che è mio marito.»
+«Zitto!» disse la signora con la sua voce d'argento che aveva in sé ancora qualcosa d'acciaio. «Non deve parlare così. Ricordi che è mio marito.»
 
-«Vorrei Dio che potessi dimenticarlo», disse Knight, e si precipitò su per le scale verso il palcoscenico.
+«Vorrei Dio potessi dimenticarlo» disse Knight, e si precipitò su per le scale verso il palco.
 
-La signora lo seguì, sempre pallida e calma, per prendere il proprio posto lassù.
+La signora lo seguì, sempre pallida e calma, per assumere la propria posizione lassù.
 
-«Qualcun altro lo sa», disse il prete tranquillamente; «ma [[Doubt|dubito]] che sia affar nostro.»
+«Qualcun altro lo sa» disse il prete tranquillamente; «ma [[Doubt|dubito]] che siano affari nostri.»
 
-«Sì», mormorò Jarvis; «sembra che tutti lo sappiano e nessuno ne sappia nulla.»
+«Sì» mormorò Jarvis; «pare che tutti lo sappiano e nessuno sappia nulla al riguardo.»
 
-Proseguirono lungo il passaggio fino all'altro capo, dove la rigida guardiana sedeva fuori dalla porta dell'italiana.
+Proseguirono lungo il corridoio fino all'altra estremità, dove la rigida sorvegliante sedeva fuori della porta dell'italiana.
 
-«No; non è ancora uscita», disse la donna nel suo modo imbronciato; «e non è morta, perché di tanto in tanto l'ho sentita muoversi. Non so che razza di trucchi stia combinando.»
+«No; non è ancora uscita» disse la donna nel suo modo imbronciato; «e non è morta, perché l'ho sentita muoversi di tanto in tanto. Non so che diavolerie stia combinando.»
 
-«Le capita di sapere, signora», disse [[Father Brown]] con brusca cortesia, «dove si trova in questo momento il signor Mandeville?»
+«Le capita di sapere, signora» disse [[Father Brown]] con brusca cortesia, «dove sia il signor Mandeville in questo momento?»
 
-«Sì», rispose pronta. «L'ho visto entrare nella sua stanzetta in fondo al passaggio un minuto o due fa; giusto prima che il suggeritore desse il via e il sipario si alzasse... Dev'essere ancora lì, perché non l'ho visto uscire.»
+«Sì» rispose lei prontamente. «L'ho visto entrare nella sua stanzetta in fondo al corridoio un minuto o due fa; giusto prima che il suggeritore desse la battuta e si alzasse il sipario. Deve essere ancora lì, perché non l'ho visto uscire.»
 
-«Vuol dire che non c'è altra porta al suo ufficio», disse [[Father Brown]] con noncuranza. «[[Well|Bene]], suppongo che la prova sia ormai in pieno svolgimento, malgrado il broncio della Signora.»
+«Vuol dire che non c'è altra porta al suo ufficio» disse [[Father Brown]] con noncuranza. «[[Well|Ebbene]], suppongo che la prova stia ormai procedendo a pieno ritmo, nonostante il muso della signora.»
 
-«Sì», disse Jarvis dopo un momento di [[Silence|silenzio]]; «riesco appena a sentire da qui le voci sul palcoscenico. Il vecchio Randall ha una splendida voce che porta lontano.»
+«Sì» disse Jarvis dopo un momento di [[Silence|silenzio]]; «riesco appena a sentire le voci sul palco da qui. Il vecchio Randall ha una splendida voce che arriva lontano.»
 
-Rimasero entrambi per un istante in atteggiamento d'ascolto, sicché la
-voce tonante dell'attore sul palcoscenico poteva davvero udirsi
-[[rolling|rimbombare]] fioca giù per le scale e lungo il corridoio. Prima
-che avessero ripreso a parlare o riconquistato la loro compostezza
-abituale, gli orecchi si riempirono di un altro suono. Fu uno schianto
-sordo ma pesante, e proveniva da dietro la porta chiusa dello studio
-privato di Mundon Mandeville.
+Rimasero entrambi per un istante in atteggiamento di ascolto, così che la voce tonante dell'attore sul palco poteva davvero essere udita [[rolling|rotolare]] fioca giù per le scale e lungo il corridoio. Prima che avessero parlato di nuovo o ripreso la loro posa normale, le loro orecchie si riempirono di un altro suono. Fu un tonfo sordo ma pesante, e proveniva da dietro la porta chiusa della stanza privata di Mundon Mandeville.
 
-[[Father Brown|Padre Brown]] si lanciò lungo il corridoio come una freccia
-scoccata dall'arco, e già armeggiava con la maniglia prima ancora che
-Jarvis si fosse riscosso con un sussulto e avesse cominciato a seguirlo.
+[[Father Brown]] si lanciò di corsa lungo il corridoio come una freccia scoccata dall'arco e stava già lottando con la maniglia della porta prima ancora che Jarvis si fosse riscosso di soprassalto e avesse cominciato a seguirlo.
 
-«La porta è chiusa a chiave» disse il prete, voltando un viso un po'
-pallido. «E sono del tutto favorevole ad abbatterla.»
+«La porta è chiusa a chiave» disse il prete, voltando un volto un poco pallido. «E sono tutto a favore dell'abbattere questa porta.»
 
-«Vuoi dire» chiese Jarvis con un'aria piuttosto atterrita «che il
-visitatore ignoto è di nuovo entrato là dentro? Credi che si tratti di
-qualcosa di serio?» Dopo un momento aggiunse: «Forse riesco a far
-scorrere indietro il chiavistello; conosco il congegno di queste porte.»
+«Vuol dire» chiese Jarvis con un'espressione piuttosto sconvolta, «che la visitatrice sconosciuta è entrata di nuovo qui dentro? Crede che sia qualcosa di serio?» Dopo un momento aggiunse: «Forse posso far scorrere indietro il chiavistello; conosco la serratura di queste porte.»
 
-Si inginocchiò ed estrasse un temperino munito di un lungo arnese
-d'acciaio, lo manovrò per un istante, e la porta si spalancò sullo
-studio del direttore. Quasi la prima cosa che notarono fu che non
-c'era nessun'altra porta e neppure una [[Window|finestra]], ma sul tavolo
-si ergeva una grande lampada elettrica. Non fu però proprio la prima
-cosa che notarono; perché ancor prima di quella avevano visto che
-Mandeville giaceva bocconi in mezzo alla stanza e il [[Blood|sangue]]
-strisciava fuori da sotto il suo volto riverso come un disegno di serpi
-scarlatte che luccicavano malvagiamente in quella luce sotterranea e
-innaturale.
+Si inginocchiò ed estrasse un coltellino a serramanico con un lungo arnese d'acciaio, lo manovrò per un momento, e la porta si spalancò sullo studio del direttore. Quasi la prima cosa che notarono fu che non c'era altra porta e nemmeno una [[Window|finestra]], ma sul tavolo stava una grande lampada elettrica. Ma non fu proprio la prima cosa che notarono; poiché già prima di quella avevano visto che Mandeville giaceva bocconi in mezzo alla stanza e il [[Blood|sangue]] strisciava di sotto al suo volto riverso come un disegno di serpi scarlatte che luccicavano malvagiamente in quella innaturale luce sotterranea.
 
-Non seppero dire quanto a lungo si fossero fissati l'un l'altro quando
-Jarvis disse, come chi lascia sfuggire qualcosa che aveva trattenuto col
-fiato:
+Non seppero per quanto tempo fossero rimasti a fissarsi l'un l'altro, quando Jarvis disse, come uno che lasci sfuggire qualcosa che aveva trattenuto col fiato:
 
-«Se la sconosciuta è entrata in qualche modo, in qualche modo se n'è
-andata.»
+«Se l'estranea è entrata in qualche modo, se n'è andata in qualche modo.»
 
-«Forse pensiamo troppo alla sconosciuta» disse [[Father Brown|Padre Brown]].
-«Ci sono tante cose strane in questo strano teatro che si tende
-piuttosto a dimenticarne qualcuna.»
+«Forse pensiamo troppo all'estranea» disse [[Father Brown]]. «Ci sono tante cose strane in questo strano teatro, che si tende piuttosto a dimenticarne qualcuna.»
 
-«Ma quali cose intendi?» chiese l'amico in fretta.
+«Ma quali cose intende?» chiese l'amico rapidamente.
 
-«Ce ne sono molte» disse il prete. «C'è l'altra porta chiusa a chiave,
-per esempio.»
+«Ce ne sono molte» disse il prete. «C'è l'altra porta chiusa a chiave, per esempio.»
 
 «Ma l'altra porta è chiusa a chiave» esclamò Jarvis fissandolo.
 
-«Eppure te ne sei dimenticato lo stesso» disse [[Father Brown|Padre Brown]].
-Qualche istante dopo soggiunse pensieroso: «Quella signora Sands è un
-tipo scontroso e tetro.»
+«Eppure l'ha dimenticata lo stesso» disse [[Father Brown]]. Pochi istanti dopo disse pensieroso: «Quella signora Sands è un tipo scorbutico e tetro.»
 
-«Vuoi dire» chiese l'altro a voce più bassa «che sta mentendo e che
-l'italiana è uscita davvero?»
+«Vuol dire» chiese l'altro a voce più bassa, «che mente e che l'italiana è uscita davvero?»
 
-«No» disse il prete con calma; «credo di intenderlo più o meno come uno
-studio distaccato di carattere.»
+«No» disse il prete con calma; «credo di averlo inteso più o meno come uno studio distaccato di carattere.»
 
-«Non puoi voler dire» esclamò l'attore «che sia stata la signora Sands
-in persona?»
+«Non vorrà dire» esclamò l'attore, «che sia stata la signora Sands a farlo?»
 
-«Non intendevo uno studio del suo carattere» disse [[Father Brown|Padre Brown]].
+«Non intendevo uno studio del suo carattere» disse [[Father Brown]].
 
-Mentre si scambiavano queste brusche riflessioni, [[Father Brown|Padre Brown]]
-si era inginocchiato accanto al [[Body|corpo]] e aveva accertato che era, al
-di là di ogni [[Hope|speranza]] o dubbio, un [[Body|corpo]] senza vita. Accanto
-ad esso, benché non immediatamente visibile dalla soglia, giaceva un
-pugnale del genere teatrale; disteso come se fosse caduto dalla ferita o
-dalla mano dell'assassino. Secondo Jarvis, che riconobbe lo strumento,
-non c'era molto da ricavarne, a meno che gli esperti non riuscissero a
-trovarvi qualche impronta digitale. Era un pugnale di scena; vale a
-dire, non era proprietà di nessuno; se ne stava in giro per il teatro da
-lungo [[Time|tempo]], e chiunque avrebbe potuto raccoglierlo. Poi il prete
-si [[Rose|alzò]] e si guardò attorno gravemente per la stanza.
+Mentre si scambiavano queste brusche riflessioni, [[Father Brown]] si era inginocchiato accanto al [[Body|corpo]] e aveva accertato che era, al di là di ogni [[Hope|speranza]] o dubbio, un [[Body|corpo]] morto. Accanto a esso giaceva, benché non immediatamente visibile dalla soglia, un pugnale del tipo teatrale; giaceva come se fosse caduto dalla ferita o dalla mano dell'assassino. A detta di Jarvis, che riconobbe lo strumento, non c'era molto da apprendere da esso, a meno che gli esperti non riuscissero a trovarvi delle impronte digitali. Era un pugnale di scena; vale a dire, non era proprietà di nessuno; se ne stava in giro per il teatro da lungo [[Time|tempo]], e chiunque avrebbe potuto raccoglierlo. Poi il prete si [[Rose|rialzò]] e si guardò gravemente intorno per la stanza.
 
-«Dobbiamo mandare a chiamare la polizia» disse; «e un medico, per quanto
-il medico giunga troppo tardi. A guardare questa stanza, del resto, non
-vedo come la nostra amica italiana avrebbe potuto farcela.»
+«Dobbiamo mandare a chiamare la polizia» disse; «e un medico, benché il medico giunga troppo tardi. A proposito, guardando questa stanza, non vedo come la nostra amica italiana avrebbe potuto riuscirci.»
 
-«L'italiana!» esclamò l'amico; «direi proprio di no. Avrei pensato che
-avesse un alibi, se mai qualcuno ne aveva uno. Due stanze separate,
-entrambe chiuse a chiave, alle estremità opposte di un lungo corridoio,
-con un testimone fisso a sorvegliarlo.»
+«L'italiana!» esclamò l'amico; «direi proprio di no. Avrei creduto che avesse un alibi, se qualcuno ce l'ha. Due stanze separate, entrambe chiuse a chiave, alle estremità opposte di un lungo corridoio, con un testimone fisso di guardia.»
 
-«No» disse [[Father Brown|Padre Brown]]. «Non proprio. La difficoltà è come
-avrebbe potuto entrare da questa parte. Penso che potrebbe essere uscita
-dall'altra.»
+«No» disse [[Father Brown]]. «Non del tutto. La difficoltà è come avrebbe potuto entrare da questa parte. Credo che possa essere uscita dall'altra.»
 
 «E perché?» chiese l'altro.
 
-«Ti ho detto» disse [[Father Brown|Padre Brown]] «che pareva stesse rompendo
-del vetro: specchi o finestre. Sciocco che sono, avevo dimenticato una
-cosa che sapevo [[Well|benissimo]]: che è piuttosto superstiziosa. Non era
-probabile che rompesse uno [[Mirror|specchio]]; perciò sospetto che abbia
-rotto una [[Window|finestra]]. È vero che tutto questo è al di sotto del
-pianterreno; ma potrebbe trattarsi di un lucernario o di una
-[[Window|finestra]] che dà su un cortiletto. Solo che qui non pare esserci
-né lucernari né cortiletti.» E fissò il soffitto con grande intensità
-per un [[Time|tempo]] considerevole.
+«Le ho detto» disse [[Father Brown]], «che il rumore faceva pensare che stesse rompendo dei vetri — specchi o finestre. Sciocco come sono, ho dimenticato una cosa che sapevo assai [[Well|bene]]: che è piuttosto superstiziosa. Non sarebbe probabile che rompesse uno [[Mirror|specchio]]; sicché sospetto che abbia rotto una [[Window|finestra]]. È vero che tutto questo sta al di sotto del pianterreno; ma potrebbe trattarsi di un lucernario o di una [[Window|finestra]] che dà su un cortiletto. Ma qui non pare esserci alcun lucernario né cortiletto.» E fissò il soffitto assai intensamente per un [[Time|tempo]] considerevole.
 
-D'improvviso ritornò alla vita cosciente con un sussulto. «Dobbiamo
-salire di sopra, telefonare e avvertire tutti. È piuttosto penoso... Dio
-mio, li senti quegli attori che ancora gridano e declamano di sopra? La
-commedia va ancora avanti. Suppongo sia questo che chiamano ironia
-tragica.»
+D'un tratto tornò alla vita cosciente con un sussulto. «Dobbiamo salire di sopra e telefonare e avvertire tutti. È piuttosto penoso… Dio mio, riesce a sentire quegli attori che continuano a gridare e declamare di sopra? La commedia va ancora avanti. Suppongo che sia questo che intendono per ironia tragica.»
 
-Quando fu deciso dal fato che il teatro dovesse mutarsi in una
-[[house|casa]] di lutto, agli attori fu offerta l'occasione di mostrare
-molte delle virtù autentiche del loro tipo e del loro mestiere. Si
-comportarono, come suol dirsi, da gentiluomini; e non soltanto da
-primi gentiluomini di scena. Non tutti avevano amato o stimato
-Mandeville, ma sapevano esattamente le cose giuste da dire sul suo
-conto; mostrarono non solo comprensione ma delicatezza nel loro
-atteggiamento verso la vedova. Ella era divenuta, in un senso nuovo e
-assai diverso, una [[Queen|regina]] della [[Tragedy|tragedia]]: la sua parola
-più lieve era legge, e mentre si muoveva lenta e mesta, essi le
-sbrigavano mille commissioni.
+Quando fu destino che il teatro dovesse essere mutato in una [[house|casa]] di lutto, agli attori fu data l'occasione di mostrare molte delle vere virtù del loro genere e del loro mestiere. Si comportarono, come si suol dire, da gentiluomini; e non soltanto da primi attori brillanti. Non tutti loro avevano amato o avuto fiducia in Mandeville, ma sapevano esattamente le cose giuste da dire su di lui; mostrarono non solo compassione ma delicatezza nel loro contegno verso la vedova. Ella era divenuta, in un senso nuovo e assai diverso, una [[Tragedy|Tragica]] [[Queen|Regina]]: la sua più lieve parola era legge, e mentre ella si muoveva lentamente e mestamente, essi le sbrigavano mille commissioni.
 
-«È sempre stata un carattere forte» disse il vecchio Randall con voce
-piuttosto roca; «e aveva la testa migliore di tutti noi. Certo, il
-povero Mandeville non è mai stato al suo livello quanto a
-[[Education|istruzione]] e via dicendo; ma lei ha sempre fatto il proprio
-dovere in modo splendido. Era addirittura patetico il modo in cui talora
-diceva di aver desiderato una vita più intellettuale; ma
-Mandeville... [[Well|insomma]], nil nisi bonum, come si dice.» E il vecchio
-signore se ne andò scuotendo tristemente il capo.
+«È sempre stata un carattere forte» disse il vecchio Randall con voce piuttosto roca; «e aveva il miglior cervello di tutti noi. Naturalmente il povero Mandeville non è mai stato al suo livello quanto a [[Education|istruzione]] e via dicendo; ma lei ha sempre compiuto splendidamente il proprio dovere. Era davvero commovente il modo in cui talvolta diceva che avrebbe voluto avere una vita più intellettuale; ma Mandeville… [[Well|beh]], nil nisi bonum, come si dice.» E il vecchio signore se ne andò scuotendo mestamente il capo.
 
-«Nil nisi bonum, davvero» disse Jarvis con amarezza. «Non credo che
-Randall, almeno lui, abbia sentito la storia della strana visitatrice.
-A proposito, non pensi che probabilmente sia stata la strana donna?»
+«Nil nisi bonum davvero» disse Jarvis torvo. «Non credo che Randall, almeno, abbia sentito la storia della strana signora in visita. A proposito, non pensa che probabilmente sia stata la strana donna?»
 
-«Dipende» disse il prete, «da chi intende per la donna sconosciuta.»
+«Dipende» disse il prete, «da chi intende per strana donna.»
 
-«Oh! Non intendo l'italiana» si affrettò a dire Jarvis. «Sebbene, a dire il vero, aveste ragione anche su di lei. Quando entrarono, il lucernario era in frantumi e la stanza vuota; ma, per quanto la polizia sia riuscita ad accertare, se ne tornò semplicemente a [[Home|casa]] nel modo più innocuo del mondo. No, intendo la donna che fu udita minacciarlo a quel misterioso convegno; la donna che diceva d'essere sua moglie. Crede che lo fosse davvero?»
+«Oh! non intendo l'italiana» disse Jarvis in fretta. «Benché, per la verità, avesse ragione anche riguardo a lei. Quando sono entrati, il lucernario era sfondato e la stanza era vuota; ma, per quanto la polizia può accertare, se n'è andata semplicemente a [[Home|casa]] nel modo più innocuo. No, intendo la donna che fu udita minacciarlo in quell'incontro segreto; la donna che disse di essere sua moglie. Crede che fosse davvero sua moglie?»
 
-«È possibile» disse [[Father Brown]], fissando assorto il vuoto, «che fosse davvero sua moglie.»
+«È possibile» disse [[Father Brown]], fissando il vuoto con aria assente, «che fosse davvero sua moglie.»
 
-«Il che ci fornirebbe il movente della [[Jealousy|gelosia]] per il suo nuovo matrimonio bigamo» rifletté Jarvis, «poiché al [[Body|cadavere]] non fu sottratto nulla. Nessun bisogno di andare a frugare tra servi ladri o attori squattrinati. Ma, del resto, avrete certo notato la cosa più singolare e spiccata di tutto il caso?»
+«Questo ci darebbe il movente della [[Jealousy|gelosia]] per il suo secondo matrimonio bigamo» rifletté Jarvis, «giacché il [[Body|corpo]] non è stato in alcun modo derubato. Non c'è bisogno di andare a frugare in cerca di servi ladri o persino di attori squattrinati. Ma a tale proposito, naturalmente, avrà notato la cosa saliente e peculiare del caso?»
 
-«Ho notato parecchie cose singolari» disse [[Father Brown]]. «A quale allude?»
+«Ho notato parecchie cose peculiari» disse [[Father Brown]]. «Quale intende?»
 
-«Alludo all'alibi collettivo» disse Jarvis gravemente. «Non capita spesso che quasi un'intera compagnia abbia un alibi pubblico come questo; un alibi su un palcoscenico illuminato, con tutti a farsi da testimoni l'un l'altro. A conti fatti, è una fortuna sfacciata per i nostri amici che il povero Mandeville avesse messo quelle due sciocche signore dell'alta società nel palco a seguire le prove. Possono testimoniare che l'intero atto fu recitato senza il minimo intoppo, con i personaggi in scena per tutto il [[Time|tempo]]. Cominciarono ben prima che Mandeville fosse visto per l'ultima volta entrare nella sua stanza. Proseguirono almeno cinque o dieci minuti dopo che lei ed io trovammo il suo [[Body|cadavere]]. E, per una fortunata coincidenza, l'istante in cui lo udimmo davvero cadere cadde nel [[Time|tempo]] in cui tutti i personaggi erano insieme sul palcoscenico.»
+«Intendo l'alibi collettivo» disse Jarvis gravemente. «Non capita spesso che praticamente un'intera compagnia abbia un alibi pubblico come quello; un alibi su un palcoscenico illuminato, tutti a testimoniare l'uno per l'altro. A quanto pare è una gran fortuna per i nostri amici, qui, che il povero Mandeville abbia messo quelle due sciocche signore mondane nel palco a guardare la prova. Possono testimoniare che l'intero atto fu recitato senza intoppi, con i personaggi sul palco per tutto il [[Time|tempo]]. Cominciarono assai prima che si vedesse Mandeville entrare per l'ultima volta nella sua stanza. Continuarono almeno cinque o dieci minuti dopo che io e lei avevamo trovato il suo [[Body|corpo]] morto. E, per una fortunata coincidenza, il momento in cui lo udimmo effettivamente cadere fu proprio durante il [[Time|tempo]] in cui tutti i personaggi erano insieme sul palco.»
 
-«Sì, questo è senza dubbio molto importante e semplifica tutto» convenne [[Father Brown]]. «Contiamo dunque le persone coperte dall'alibi. C'era Randall: sono piuttosto propenso a credere che Randall in pratica odiasse il direttore, per quanto in questo momento sappia dissimulare molto bene i suoi sentimenti. Ma è escluso; era la sua voce quella che udimmo tuonare sopra le nostre teste dal palco. C'è il nostro jeune premier, il signor Knight: ho buone ragioni per supporre che provasse [[Love|amore]] per la moglie di Mandeville e che non nascondesse quel sentimento quanto avrebbe potuto; ma lui è fuori causa, perché si trovava in scena nello stesso [[Time|momento]], a farsi tuonare addosso. C'era quell'amabile ebreo che si fa chiamare Aubrey Vernon, ed è fuori; e c'è la signora Mandeville, ed è fuori. Il loro alibi collettivo, come dice lei, dipende soprattutto da Lady Miriam e dalla sua amica nel palco; sebbene vi sia poi la conferma di semplice buon senso, che l'atto doveva pur essere portato a termine e che il consueto svolgimento del teatro non pare aver subito interruzioni. I testimoni legali, tuttavia, sono Lady Miriam e la sua amica, Miss Talbot. Immagino che lei sia certo che siano a posto?»
+«Sì, questo è certamente molto importante e semplifica tutto» convenne [[Father Brown]]. «Contiamo le persone coperte dall'alibi. C'era Randall: sono piuttosto propenso a credere che Randall odiasse praticamente il direttore, benché in questo momento nasconda assai a proposito i propri sentimenti. Ma è escluso; era la sua voce che udimmo tuonare sopra le nostre teste dal palco. C'è il nostro jeune premier, il signor Knight: ho piuttosto buone ragioni di supporre che fosse [[Love|innamorato]] della moglie di Mandeville e non celasse quel sentimento tanto quanto avrebbe potuto; ma è fuori causa, giacché era sul palco nello stesso [[Time|momento]], a farsi tuonare addosso. C'era quell'amabile ebreo che si fa chiamare Aubrey Vernon, è fuori causa; e c'è la signora Mandeville, è fuori causa. Il loro alibi collettivo, come dice lei, dipende principalmente da Lady Miriam e dalla sua amica nel palco; benché ci sia la generale conferma di buon senso, che l'atto doveva essere portato a termine e che la routine del teatro non pare aver subìto interruzione alcuna. I testimoni legali, tuttavia, sono Lady Miriam e la sua amica, la signorina Talbot. Suppongo che lei sia sicuro che siano attendibili?»
 
-«Lady Miriam?» disse Jarvis sorpreso. «Oh, sì... Suppongo intenda che ha un'aria da strana vamp. Ma lei non ha idea di come appaiano oggigiorno persino le signore delle migliori famiglie. E poi, c'è forse qualche ragione particolare per dubitare della loro testimonianza?»
+«Lady Miriam?» disse Jarvis sorpreso. «Oh, sì… Suppongo che lei intenda che ha l'aria di una strana ammaliatrice. Ma lei non ha idea di che aspetto abbiano oggigiorno persino le signore delle migliori famiglie. E poi, c'è qualche particolare ragione per dubitare della loro testimonianza?»
 
-«Solo che ci mette di fronte a un muro cieco» disse [[Father Brown]]. «Non vede che questo alibi collettivo copre praticamente tutti quanti? Quei quattro erano gli unici a recitare nel teatro in quel [[Time|momento]]; e non c'era quasi nessun domestico nel teatro; nessuno, in verità, tranne il vecchio Sam, che sorveglia l'unico ingresso ordinario, e la donna che vigilava sulla porta di Miss Maroni. Non resta a disposizione nessun altro tranne lei ed io. Potremmo di certo essere accusati del delitto, tanto più che siamo stati noi a trovare il [[Body|cadavere]]. Pare non ci sia nessun altro che possa essere accusato. Non l'avrà mica ucciso lei mentre non guardavo, per caso?»
+«Solo che ci porta a sbattere contro un muro cieco» disse [[Father Brown]]. «Non vede che questo alibi collettivo copre praticamente tutti? Quei quattro erano gli unici interpreti presenti nel teatro in quel [[Time|momento]]; e non c'era quasi alcun domestico nel teatro; nessuno, in verità, tranne il vecchio Sam, che sorveglia l'unico ingresso regolare, e la donna che sorvegliava la porta della signorina Maroni. Non resta disponibile nessun altro tranne lei e me. Potremmo certamente essere accusati del delitto, tanto più che siamo stati noi a trovare il [[Body|corpo]]. Pare non esserci nessun altro che possa essere accusato. Non è che per caso lo abbia ucciso lei quando io non guardavo, suppongo?»
 
-Jarvis sollevò lo sguardo con un lieve sobbalzo e fissò per un istante, poi il largo sorriso tornò sul suo volto bruno. Scosse il capo.
+Jarvis alzò lo sguardo con un lieve sussulto e fissò per un momento, poi il largo sorriso tornò sul suo volto bruno. Scosse il capo.
 
-«Non è stato lei» disse [[Father Brown]]; «e ammetteremo per un momento, unicamente per amor di ragionamento, che non sia stato io. Escluse le persone sul palcoscenico, ciò ci [[Leaves|lascia]] davvero con la Signora dietro la sua porta chiusa a chiave, la sentinella davanti a quella porta, e il vecchio Sam. Oppure sta pensando alle due signore nel palco? Certo, avrebbero potuto sgusciar via dal palco.»
+«Non è stato lei» disse [[Father Brown]]; «e assumeremo per il momento, puramente a titolo d'argomento, che non sia stato io. Essendo esclusi quelli sul palco, [[Leaves|restano]] davvero la signora dietro la sua porta chiusa a chiave, la sentinella davanti all'altra porta, e il vecchio Sam. Oppure sta pensando alle due signore nel palco? Naturalmente potrebbero essere sgusciate fuori dal palco.»
 
 «No» disse Jarvis; «sto pensando alla donna sconosciuta che venne a dire a Mandeville di essere sua moglie.»
 
-«Forse lo era davvero» disse il prete; e questa [[Time|volta]] ci fu nella sua voce ferma una nota che indusse il compagno a rimettersi ancora una volta in piedi e a sporgersi sopra il tavolo.
+«Forse lo era» disse il prete; e [[Time|questa volta]] ci fu nella sua voce ferma una nota che fece balzare di nuovo in piedi il suo compagno e sporgersi sopra il tavolo.
 
-«Abbiamo detto» osservò con voce bassa e concitata «che questa prima moglie poteva essere gelosa dell'altra moglie.»
+«Abbiamo detto» osservò a voce bassa e ansiosa, «che questa prima moglie potrebbe essere stata gelosa dell'altra moglie.»
 
-«No» disse [[Father Brown]]; «poteva essere gelosa della ragazza italiana, forse, o di Lady Miriam Marden. Ma non era gelosa dell'altra moglie.»
+«No» disse [[Father Brown]]; «potrebbe essere stata gelosa della ragazza italiana, forse, o di Lady Miriam Marden. Ma non era gelosa dell'altra moglie.»
 
 «E perché no?»
 
-«Perché non c'era nessun'altra moglie» disse [[Father Brown]]. «Lungi dall'essere un bigamo, il signor Mandeville mi pare essere stato un uomo altamente monogamo. Sua moglie gli stava quasi troppo appresso; gli stava tanto appresso che voi tutti caritatevolmente supponete che dovesse essere qualcun altro. Ma non vedo come potesse essere con lui quando fu ucciso, giacché conveniamo che stava recitando per tutto il [[Time|tempo]] davanti alle luci della ribalta. E per giunta recitando una parte importante...»
+«Perché non c'era nessun'altra moglie» disse [[Father Brown]]. «Ben lungi dall'essere un bigamo, il signor Mandeville mi pare essere stato una persona altamente monogama. La moglie gli stava quasi troppo appresso; gli stava tanto appresso che voi tutti caritatevolmente supponete che dovesse trattarsi di qualcun altro. Ma non vedo come potesse essere con lui quando fu ucciso, giacché conveniamo che ella recitava per tutto il [[Time|tempo]] davanti alle luci della ribalta. E recitava per di più una parte importante…»
 
-«Vuol davvero dire» esclamò Jarvis, «che la donna sconosciuta che lo perseguitava come un [[Ghost|fantasma]] non era altro che la signora Mandeville che conosciamo tutti?» Ma non ricevette risposta; poiché [[Father Brown]] fissava il vuoto con un'espressione assente, quasi da idiota. Aveva sempre l'aria più ebete proprio nell'istante in cui era più acuto.
+«Vuol davvero dire» esclamò Jarvis, «che la strana donna che lo perseguitava come un [[Ghost|fantasma]] non era altro che la signora Mandeville che conosciamo?» Ma non ricevette risposta; poiché [[Father Brown]] fissava il vuoto con un'espressione assente quasi da idiota. Aveva sempre l'aria più idiota nell'istante in cui era più intelligente.
 
-L'istante seguente balzò in piedi, con l'aria sconvolta e angosciata. «È spaventoso» disse. «Non sono sicuro che non sia il caso peggiore che mi sia mai capitato; ma devo andare fino in fondo. Vorrebbe andare a chiedere alla signora Mandeville se posso parlarle in privato?»
+L'istante dopo si rizzò in piedi, con l'aria assai afflitta e angosciata. «È spaventoso» disse. «Non sono sicuro che non sia il peggior affare che abbia mai avuto; ma devo arrivare fino in fondo. Vorrebbe andare a chiedere alla signora Mandeville se posso parlarle in privato?»
 
-«Ma certo» disse Jarvis, voltandosi verso la porta. «Ma che cosa le prende?»
+«Oh, certamente» disse Jarvis, mentre si voltava verso la porta. «Ma che cos'ha lei?»
 
-«Semplicemente per il fatto che sono nato [[Fool|sciocco]]», disse [[Father Brown]]; «un malanno assai diffuso in questa
-valle di [[Tears|lacrime]]. Sono stato tanto [[Fool|sciocco]] da dimenticare del tutto che la commedia
-era The School For Scandal.»
+«Solo l'essere uno [[Fool|sciocco]] nato» disse [[Father Brown]]; «un malanno assai comune in questa valle di [[Tears|lacrime]]. Sono stato tanto [[Fool|sciocco]] da dimenticare del tutto che la commedia era La scuola della maldicenza.»
 
-Passeggiava senza requie su e giù per la stanza, finché Jarvis non ricomparve sulla
-soglia con il volto mutato e persino sgomento.
+Camminò inquieto su e giù per la stanza finché Jarvis ricomparve sulla porta con un volto mutato e persino allarmato.
 
-«Non riesco a trovarla da nessuna parte», disse. «Pare che nessuno l'abbia vista.»
+«Non riesco a trovarla da nessuna parte» disse. «Nessuno pare averla vista.»
 
-«E nemmeno Norman Knight l'hanno visto, non è vero?» chiese [[Father Brown]]
-in tono asciutto. «[[Well|Ebbene]], così mi risparmio il colloquio più penoso della mia vita. Con
-la grazia di Dio, quella donna per poco non mi metteva paura. Ma anche lei
-aveva paura di me; paura di qualcosa che avevo visto o detto.
-Knight non faceva che supplicarla di scappare con lui. Ora l'ha fatto; e
-provo una pietà indiavolata per lui.»
+«Non hanno visto nemmeno Norman Knight, vero?» chiese [[Father Brown]] seccamente. «[[Well|Ebbene]], questo mi risparmia il colloquio più penoso della mia vita. Salva la grazia di Dio, ho avuto quasi paura di quella donna. Ma anche lei aveva paura di me; paura di qualcosa che avevo visto o detto. Knight la supplicava sempre di fuggire con lui. Ora lo ha fatto; e sono maledettamente dispiaciuto per lui.»
 
 «Per lui?» domandò Jarvis.
 
-«[[Well|Ebbene]], non dev'essere molto piacevole fuggire con un'assassina», disse l'altro
-con distacco. «Ma in verità lei era qualcosa di ben peggiore di un'assassina.»
+«[[Well|Ebbene]], non può essere granché piacevole scappare con un'assassina» disse l'altro spassionatamente. «Ma per la verità ella era qualcosa di assai peggiore di un'assassina.»
 
-«E che cosa, dunque?»
+«E che cosa?»
 
-«Un'egoista», disse [[Father Brown]]. «Era il genere di persona che si era
-guardata nello [[Mirror|specchio]] prima di guardare fuori dalla [[Window|finestra]], e questa è la
-peggiore sciagura della vita mortale. Lo specchio le ha portato sfortuna,
-non c'è dubbio; ma piuttosto perché non si è rotto.»
+«Un'egoista» disse [[Father Brown]]. «Era il genere di persona che si è guardata nello [[Mirror|specchio]] prima di guardare fuori dalla [[Window|finestra]], ed è la peggiore sciagura della vita mortale. Lo specchio le portò sfortuna, non c'è dubbio; ma piuttosto perché non andò in frantumi.»
 
-«Non riesco a capire che cosa significhi tutto questo», disse Jarvis. «Tutti
-la consideravano una persona dagli ideali più elevati, quasi si muovesse su
-un piano spirituale più alto di quello del resto di noi...»
+«Non riesco a capire che cosa significhi tutto questo» disse Jarvis. «Tutti la consideravano una persona dagli ideali più elevati, che quasi si muoveva su un piano spirituale più alto rispetto a noialtri…»
 
-«Considerava se stessa sotto quella luce», disse l'altro; «e sapeva
-ipnotizzare chiunque altro perché la vedesse così. Forse non l'avevo conosciuta abbastanza a
-lungo da potermi sbagliare sul suo conto. Ma sapevo che genere di persona fosse cinque
-minuti dopo averle posato gli occhi addosso.»
+«Considerava se stessa sotto quella luce» disse l'altro; «e sapeva come ipnotizzare tutti gli altri a fare altrettanto. Forse non l'avevo conosciuta abbastanza a lungo da sbagliarmi sul suo conto. Ma sapevo che genere di persona fosse cinque minuti dopo averla adocchiata.»
 
-«Oh, andiamo», esclamò Jarvis; «sono certo che il suo comportamento nei confronti dell'italiana fu
-magnifico.»
+«Oh, andiamo!» esclamò Jarvis; «sono sicuro che il suo comportamento riguardo all'italiana fu bellissimo.»
 
-«Il suo comportamento fu sempre magnifico», disse l'altro. «Ho sentito da
-tutti quanti qui parlare delle sue raffinatezze e sottigliezze e dei suoi voli spirituali
-al di sopra della testa del povero Mandeville. Ma tutte queste spiritualità e
-sottigliezze mi paiono ridursi al semplice fatto che
-lei era senza dubbio una signora e lui non era di certo un gentiluomo. Eppure,
-sapete, non mi sono mai sentito del tutto sicuro che san Pietro faccia di questo
-l'unica prova alla porta del cielo.
+«Il suo comportamento fu sempre bellissimo» disse l'altro. «Ho sentito da tutti quanti, qui, ogni cosa sulle sue raffinatezze e sottigliezze e sui suoi voli spirituali al di sopra della testa del povero Mandeville. Ma tutte queste spiritualità e sottigliezze mi paiono ridursi al semplice fatto che ella era certamente una signora e lui certamente non era un gentiluomo. Ma, sa, non mi sono mai sentito del tutto sicuro che san Pietro farà di questo l'unica prova alla porta del cielo.
 
-«Quanto al resto», proseguì con crescente animazione, «capii fin dalle
-prime parole che pronunciò che non stava affatto rendendo giustizia al
-povero italiano, con tutte le sue belle arie di gelida magnanimità. E lo
-compresi di nuovo quando seppi che la commedia era The School for Scandal.»
+«Quanto al resto» proseguì con crescente animazione, «ho saputo fin dalle primissime parole che pronunciò che non stava davvero rendendo giustizia alla povera italiana, con tutte le sue belle arie di gelida magnanimità. E di nuovo, me ne resi conto quando seppi che la commedia era La scuola della maldicenza.»
 
-«State andando un po' troppo in fretta per me», disse Jarvis alquanto
-disorientato. «Che importanza ha quale fosse la commedia?»
+«Va un po' troppo veloce per me» disse Jarvis un po' sconcertato. «Che importanza ha quale fosse la commedia?»
 
-«[[Well|Ebbene]]», disse il prete, «lei disse di aver dato alla ragazza la parte
-della bella eroina e di essersi ritirata sullo sfondo per sé
-con la parte più matura di una matrona. Ora, ciò avrebbe potuto valere per quasi
-qualsiasi commedia; ma falsifica i fatti riguardo a quella commedia in particolare. Non può
-aver voluto dire altro se non che aveva dato all'altra attrice la parte di [[Maria]], che
-è a malapena una parte. E la parte dell'oscura e [[Self|schiva]]
-donna sposata, se non vi dispiace, non poteva che essere quella di Lady Teazle,
-che è l'unica parte che qualunque attrice desideri recitare. Se l'italiana era
-un'attrice di prim'ordine a cui era stata promessa una parte di prim'ordine, c'era
-davvero una qualche scusante, o almeno una qualche ragione, per la sua folle collera
-italiana. Di solito ce n'è una, per le folli collere italiane: i latini sono logici e
-hanno un motivo per infuriarsi. Ma quella piccola cosa gettò per me un raggio di luce
-sul senso della sua magnanimità. E c'era un'altra cosa,
-già allora. Vi metteste a ridere quando dissi che l'aria imbronciata della signora Sands era
-uno studio di carattere; ma non del carattere della signora Sands. Eppure era
-vero. Se volete sapere com'è davvero una signora, non guardate lei;
-perché potrebbe essere troppo scaltra per voi. Non guardate gli uomini che le stanno intorno, perché
-potrebbero essere troppo sciocchi per causa sua. Ma guardate qualche altra donna che le sta
-sempre vicino, e specialmente una che le è sottoposta. Vedrete in
-quello [[Mirror|specchio]] il suo vero volto, e il volto riflesso nella signora Sands era assai
-brutto.
+«[[Well|Ebbene]]» disse il prete, «ella disse di aver dato alla ragazza la parte della bella eroina e di essersi ritirata sullo sfondo con la parte più matura di una matrona. Ora, ciò potrebbe applicarsi a quasi qualsiasi commedia; ma falsifica i fatti riguardo a quella particolare commedia. Non può che aver inteso di aver dato all'altra attrice la parte di [[Maria]], che è a malapena una parte. E la parte dell'oscura e [[Self|schiva]] donna sposata, se non le dispiace, dev'essere stata la parte di Lady Teazle, che è l'unica parte che qualsiasi attrice desideri recitare. Se l'italiana era un'attrice di prim'ordine alla quale era stata promessa una parte di prim'ordine, c'era davvero qualche scusa, o almeno qualche motivo, per la sua folle collera italiana. Di solito ce n'è, per le folli collere italiane: i latini sono logici e hanno una ragione per andare fuori di sé. Ma quella piccola cosa mi fece un po' di luce sul senso della sua magnanimità. E c'era un'altra cosa, già allora. Lei rise quando dissi che l'aria imbronciata della signora Sands era uno studio di carattere; ma non del carattere della signora Sands. Eppure era vero. Se vuole sapere com'è davvero una signora, non guardi lei; poiché potrebbe essere troppo scaltra per lei. Non guardi gli uomini che le stanno intorno, poiché potrebbero essere troppo sciocchi riguardo a lei. Ma guardi qualche altra donna che le sta sempre vicina, e specialmente una che le è sottoposta. Vedrà in quello [[Mirror|specchio]] il suo vero volto, e il volto rispecchiato nella signora Sands era assai brutto.
 
-«E quanto a tutte le altre impressioni, che cos'erano? Ho sentito un gran
-parlare dell'indegnità del povero vecchio Mandeville; ma tutto verteva sul fatto che egli
-era indegno di lei, e sono quasi certo che venisse indirettamente da
-lei. E, anche così, si tradiva da sé. Evidentemente, da quel che ogni uomo
-diceva, lei si era confidata con ogni uomo circa la sua maledetta
-[[Loneliness|solitudine]] intellettuale. Voi stesso avete detto che non si lamentava mai; e poi l'avete citata
-a proposito di come il suo [[Silence|silenzio]] senza lamento fortificasse la sua [[Soul|anima]]. Ed è
-proprio questa la nota; questo lo stile inconfondibile. Chi si lamenta
-è soltanto una brava, umana, cristiana seccatura; costoro non mi danno fastidio. Ma chi
-si lamenta di non lamentarsi mai è il diavolo. Sono davvero il
-diavolo; non è forse quella spavalderia stoica il vero fulcro del culto byroniano
-di [[Satan|Satana]]? Ho sentito tutto questo; ma per quanto mi sforzassi non riuscii a udire
-di alcunché di tangibile di cui lei avesse da lamentarsi. Nessuno pretendeva che il
-marito bevesse, o la picchiasse, o la lasciasse senza denaro, o fosse addirittura
-infedele, fino alla diceria degli incontri segreti, che erano
-semplicemente la sua abitudine melodrammatica di tormentarlo con le sue prediche
-nel suo stesso ufficio. E quando si guardavano i fatti,
-al di là dell'atmosfera di [[Martyrdom|martirio]] che riusciva a
-diffondere, i fatti stavano davvero al contrario. Mandeville aveva smesso
-di far denaro con le pantomime per compiacerla; aveva cominciato a perdere denaro con il
-dramma classico per compiacerla. Disponeva la scenografia e gli arredi come
-più le piaceva. Voleva la commedia di Sheridan e l'ebbe; voleva la
-parte di Lady Teazle e l'ebbe; voleva una prova senza
-costumi a quella determinata ora, e l'ebbe. Vale forse la
-pena notare il curioso fatto che desiderasse proprio questo.»
+«E quanto a tutte le altre impressioni, quali erano? Ho sentito parecchio sull'indegnità del povero vecchio Mandeville; ma era tutto sul suo essere indegno di lei, e sono piuttosto certo che venisse indirettamente da lei. E, anche così, si tradiva. Evidentemente, da ciò che ogni uomo diceva, ella si era confidata con ogni uomo circa la sua maledetta [[Loneliness|solitudine]] intellettuale. Lei stesso disse che non si lamentava mai; e poi la citò a proposito di come il suo [[Silence|silenzio]] senza lamenti le rafforzasse l'[[Soul|anima]]. Ed è proprio questa la nota; questo è lo stile inconfondibile. Le persone che si lamentano non sono che allegri, umani, cristiani seccatori; a me non danno fastidio. Ma le persone che si lamentano di non lamentarsi mai sono il diavolo. Sono davvero il diavolo; non è forse quella spavalderia di stoicismo tutto il punto del culto byroniano di [[Satan|Satana]]? Ho sentito tutto questo; ma per quanto mi sforzassi non riuscivo a sentire di nulla di tangibile di cui ella avesse da lamentarsi. Nessuno pretese che suo marito bevesse, o la picchiasse, o la lasciasse senza denaro, o persino che le fosse infedele, fino alla voce circa gli incontri segreti, che non erano altro che la sua personale, melodrammatica abitudine di tormentarlo con prediche a domicilio nel suo stesso ufficio. E quando si guardava ai fatti, a parte l'impressione atmosferica di [[Martyrdom|martirio]] che riusciva a diffondere, i fatti stavano davvero proprio all'opposto. Mandeville smise di far denaro con le pantomime per farle piacere; cominciò a perdere denaro col dramma classico per farle piacere. Ella disponeva lo scenario e i mobili come le pareva. Voleva la commedia di Sheridan e l'ebbe; voleva la parte di Lady Teazle e l'ebbe; voleva una prova senza costumi a quella particolare ora e l'ebbe. Può valer la pena di rilevare il curioso fatto che ella lo volesse.»
 
-«Ma a che serve tutta questa tirata?» chiese l'attore, che ben di rado
-aveva sentito il suo amico ecclesiastico fare un discorso così lungo. «Mi
-pare che con tutta questa faccenda psicologica ci siamo allontanati parecchio dall'omicidio. Può
-essere fuggita con Knight; può aver imbrogliato Randall; può aver imbrogliato me. Ma non può
-aver assassinato il marito... perché tutti concordano che rimase sul palcoscenico per tutta la
-scena. Sarà anche malvagia; ma non è mica una [[Witch|strega]].»
+«Ma a che serve tutta questa tirata?» chiese l'attore, che non aveva quasi mai udito il suo amico prete fare un discorso tanto lungo. «Ci pare di esserci allontanati parecchio dal delitto, in tutta questa faccenda psicologica. Può darsi che sia fuggita con Knight; può darsi che abbia raggirato Randall; può darsi che abbia raggirato me. Ma non può aver assassinato suo marito, poiché tutti concordano che era sul palco per tutta la scena. Può essere malvagia; ma non è una [[Witch|strega]].»
 
-«[[Well|Beh]], non ne sarei così sicuro», disse [[Father Brown|padre Brown]] con un sorriso. «Ma in questo caso non ha avuto bisogno di ricorrere ad alcuna stregoneria. Ora so che è stata lei, e in modo davvero semplicissimo».
+«[[Well|Ebbene]], non ne sarei così sicuro» disse [[Father Brown]] con un sorriso. «Ma in questo caso non aveva bisogno di ricorrere ad alcuna stregoneria. So ormai che è stata lei, e in modo davvero assai semplice.»
 
-«Perché ne è così sicuro?», domandò Jarvis, guardandolo con aria perplessa.
+«Perché ne è così sicuro?» chiese Jarvis, guardandolo perplesso.
 
-«Perché la commedia era The School for Scandal», rispose [[Father Brown|padre Brown]], «e precisamente quell'atto di The School for Scandal. Vorrei ricordarle, come ho appena detto, che lei disponeva sempre i mobili come più le piaceva. Vorrei ricordarle anche che questo palcoscenico fu costruito e usato per le pantomime; era naturale che avesse botole e uscite a sorpresa di quel genere. E quando lei mi dice che dei testimoni potrebbero attestare di aver visto tutti gli attori sulla scena, vorrei ricordarle che nella scena principale di The School for Scandal uno degli attori principali resta per un [[Time|tempo]] considerevole sul palcoscenico, ma non è visto. Tecnicamente è "in scena", ma di fatto potrebbe benissimo essere "fuori scena". È il Paravento di Lady Teazle e l'Alibi della signora Mandeville».
+«Perché la commedia era La scuola della maldicenza» rispose [[Father Brown]], «e proprio quel particolare atto de La scuola della maldicenza. Vorrei ricordarle, come ho appena detto, che ella disponeva sempre i mobili come le pareva. Vorrei anche ricordarle che questo palcoscenico fu costruito e usato per le pantomime; è naturale che abbia botole e uscite a sorpresa di quel genere. E quando lei dice che i testimoni potrebbero attestare di aver visto tutti gli interpreti sul palco, vorrei ricordarle che nella scena principale de La scuola della maldicenza uno dei principali interpreti rimane per un [[Time|tempo]] considerevole sul palco, ma non è visto. È tecnicamente "in scena", ma potrebbe praticamente essere assai "fuori scena". È il Paravento di Lady Teazle e l'Alibi della signora Mandeville.»
 
-Vi fu un [[Silence|silenzio]], poi l'attore disse: «Lei pensa che sia sgusciata attraverso una botola, dietro un paravento, fino al piano di sotto, dov'era lo studio del direttore?».
+Ci fu un [[Silence|silenzio]], e poi l'attore disse: «Lei pensa che sia sgusciata attraverso una botola dietro un paravento fino al piano sottostante, dove si trovava la stanza del direttore?»
 
-«Di certo se l'è svignata in qualche modo; e questo è il modo più probabile», disse l'altro. «Lo ritengo tanto più probabile in quanto colse l'occasione di una prova non in costume, e anzi la organizzò lei stessa. È una supposizione; ma immagino che, se fosse stata una prova generale in costume, sarebbe stato più difficile passare attraverso una botola con le crinoline del Settecento. Ci sono molte piccole difficoltà, naturalmente, ma credo che si potessero tutte superare a suo [[Time|tempo]] e a turno».
+«Certamente è sgusciata via in qualche modo; e quello è il modo più probabile» disse l'altro. «Lo ritengo tanto più probabile in quanto ella colse l'occasione di una prova senza costumi, anzi la organizzò appositamente. È una congettura; ma immagino che, se fosse stata una prova in costume, sarebbe stato più difficile passare attraverso una botola con i cerchioni delle gonne del diciottesimo secolo. Ci sono naturalmente molte piccole difficoltà, ma credo che potessero tutte essere affrontate a suo [[Time|tempo]] e a turno.»
 
-«Quello che io non riesco a superare è la grande difficoltà», disse Jarvis, appoggiando la testa sulla mano con una specie di gemito. «Semplicemente non riesco a convincermi che una creatura radiosa e serena come lei potesse perdere a tal punto, per così dire, l'equilibrio del corpo, per non parlare dell'equilibrio morale. Vi era un movente abbastanza forte? Era davvero tanto [[Love|innamorata]] di Knight?».
+«Ciò che io non riesco ad affrontare è la grande difficoltà» disse Jarvis, posando il capo sulla mano con una sorta di gemito. «Non riesco proprio a convincermi che una creatura radiosa e serena come quella potesse perdere a tal punto, per così dire, l'equilibrio del corpo, per non dire l'equilibrio morale. C'era un movente abbastanza forte? Era molto [[Love|innamorata]] di Knight?»
 
-«Lo [[Hope|spero]]», rispose il suo compagno; «perché sarebbe davvero la scusa più umana. Ma mi spiace dire che ho i miei dubbi. Voleva sbarazzarsi del marito, che era un mestierante all'antica, provinciale, e per giunta nemmeno con molto denaro. Voleva farsi una carriera come brillante moglie di un attore brillante e in rapida ascesa. Ma in quel senso non aveva alcuna voglia di recitare in The School for Scandal. Non sarebbe fuggita con un uomo se non come ultima risorsa. Non era in lei una passione umana, ma una specie di rispettabilità infernale. Perseguitava di continuo il marito in segreto e lo tormentava perché [[divorce|divorziasse]] o comunque si togliesse di mezzo; e poiché lui rifiutava, alla fine pagò per il suo rifiuto. C'è un'altra cosa che deve ricordare. Lei parla di questi intellettuali che avrebbero un'arte più alta e un teatro più filosofico. Ma si ricordi che razza di roba è tanta di quella [[philosophy|filosofia]]! Si ricordi che sorta di condotta quegli intellettuali spesso presentano come la più elevata! Tutto un discorso sulla Volontà di Potenza e sul Diritto di Vivere e sul Diritto all'Esperienza: sciocchezze maledette, e più che maledette sciocchezze; sciocchezze che possono dannare».
+«Lo [[Hope|spero]]» rispose il compagno; «poiché sarebbe davvero la scusa più umana. Ma mi dispiace dover dire che ho i miei dubbi. Voleva liberarsi del marito, che era un vecchio scribacchino provinciale, all'antica, che nemmeno faceva molto denaro. Voleva avere una carriera come la brillante moglie di un brillante attore in rapida ascesa. Ma non voleva, in quel senso, recitare ne La scuola della maldicenza. Non sarebbe fuggita con un uomo se non come ultima risorsa. Non era in lei una passione umana, ma una sorta di infernale rispettabilità. Pedinava sempre il marito in segreto e lo tormentava perché [[divorce|divorziasse]] o altrimenti si togliesse di mezzo; e poiché egli rifiutava, alla fine pagò per il suo rifiuto. C'è un'altra cosa che deve ricordare. Lei parla di questi intellettuali che hanno un'arte più alta e un dramma più filosofico. Ma ricordi quanta parte di quella [[philosophy|filosofia]] sia sciocchezza! Ricordi che genere di condotta quegli intellettuali presentano spesso come la più eccelsa! Tutto sulla Volontà di Potenza e sul Diritto di Vivere e sul Diritto di Fare Esperienza — dannate sciocchezze e ben più che dannate sciocchezze — sciocchezze che possono dannare.»
 
-[[Father Brown|Padre Brown]] aggrottò la fronte, cosa che gli capitava molto di rado; e vi era ancora una nube sul suo volto mentre si metteva il cappello e usciva nella [[Night|notte]].
+[[Father Brown]] aggrottò la fronte, cosa che faceva assai di rado; e c'era ancora una nube sulla sua fronte mentre si metteva il cappello e usciva nella [[Night|notte]].

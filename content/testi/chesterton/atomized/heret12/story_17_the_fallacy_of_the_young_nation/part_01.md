@@ -150,7 +150,7 @@ it is the tame ideals.
 
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/works/heret12-(chesterton)">Heretics</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/heret12-(chesterton)">Heretics</a> › <a href="/testi/chesterton/atomized/heret12/story_17_the_fallacy_of_the_young_nation">Story 17 The Fallacy of the Young Nation</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/heret12/story_16_on_the_wit_of_whistler/part_03">‹ part 03</a><a class="ex-next" href="/testi/chesterton/atomized/heret12/story_17_the_fallacy_of_the_young_nation/part_02">part 02 ›</a></div>
 </nav>
 

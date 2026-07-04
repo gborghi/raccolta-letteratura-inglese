@@ -121,7 +121,7 @@ And that is that it had all happened before; and even many times before.
 
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/works/everlasting-man-(chesterton)">The Everlasting Man</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/everlasting-man-(chesterton)">The Everlasting Man</a> › <a href="/testi/chesterton/atomized/everlasting_man/chapter_03">Chapter 03</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/everlasting_man/chapter_03/part_28">‹ part 28</a><a class="ex-next" href="/testi/chesterton/atomized/everlasting_man/chapter_03/part_30">part 30 ›</a></div>
 </nav>
 

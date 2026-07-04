@@ -135,7 +135,7 @@ It's wonderful how large those low hills seem when you're on them.'
 
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/works/incredulity-(chesterton)">Incredulity</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/incredulity-(chesterton)">Incredulity</a> › <a href="/testi/chesterton/atomized/incredulity/story_05_the_curse_of_the_golden_cross">Story 05 The Curse of the Golden Cross</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/incredulity/story_04_the_miracle_of_moon_crescent/part_09">‹ part 09</a><a class="ex-next" href="/testi/chesterton/atomized/incredulity/story_05_the_curse_of_the_golden_cross/part_02">part 02 ›</a></div>
 </nav>
 

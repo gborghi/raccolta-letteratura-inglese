@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/scandal-fr-brown-(chesterton)">scandal Fr Brown</a> › <a href="/testi/chesterton/atomized/scandal_fr_brown/story_02_the_quick_one">Story 02 The Quick One</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/scandal_fr_brown/story_02_the_quick_one/part_04">‹ part 04</a><a class="ex-next" href="/testi/chesterton/atomized/scandal_fr_brown/story_02_the_quick_one/part_06">part 06 ›</a></div>
@@ -116,3 +118,117 @@ a man like that - then I do think it matters, matters so much that even
 the modern machinery of police will be a thing that any respectable
 person may make use of ... Oh, don't mention it. And so, for once in a
 way, I really do want to make use of you.'
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/scandal-fr-brown-(chesterton)">scandal Fr Brown</a> › <a href="/testi/chesterton/atomized/scandal_fr_brown/story_02_the_quick_one">Story 02 The Quick One</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/scandal_fr_brown/story_02_the_quick_one/part_04">‹ part 04</a><a class="ex-next" href="/testi/chesterton/atomized/scandal_fr_brown/story_02_the_quick_one/part_06">part 06 ›</a></div>
+</nav>
+
+«Una svista, immagino», disse Greenwood, dubbioso. «L'uomo poteva
+facilmente procurarsene un altro nella Sala Commerciale, dopo.»
+
+[[Father Brown]] scosse il capo. «Bisogna vedere la gente com'è. Ora, questa
+sorta di uomini... [[Well|beh]], c'è chi li dice volgari e chi comuni; ma sono tutte
+simpatie e antipatie. Mi accontenterei di dire che sono per lo più uomini
+semplici. Molti di loro ottimi uomini, ben lieti di tornare dalla mogliettina
+e dai ragazzini; alcuni magari mascalzoni; magari con parecchie mogliettine;
+o che hanno perfino assassinato parecchie mogliettine. Ma la maggior parte
+sono uomini semplici; e, badate bene, appena appena un tantino brilli. Non
+troppo; c'è più d'un duca o d'un professore a [[Oxford]] più brillo di loro;
+ma quando un uomo di quella specie è a quel punto della convivialità, non
+può proprio fare a meno di notare le cose, e di notarle a gran voce. Non
+osservate che il minimo incidente li fa scattare a parlare; se la birra
+trabocca in schiuma, traboccano anch'essi con essa, e devono dire «Ehilà,
+[[Emma]]!», o «Mi fai proprio onore, eh?». Ora, direi che è del tutto
+impossibile che cinque di questi allegri compari siedano attorno a un tavolo
+nella Sala Commerciale, e si vedano posare davanti solo quattro bicchieri,
+restando escluso il quinto uomo, senza levare uno strepito. Probabilmente lo
+leverebbero tutti quanti, lo strepito. Di certo lo leverebbe lui. Non
+aspetterebbe, come un inglese di un'altra classe, di potersi procurare un
+bicchiere in santa pace più tardi. L'aria risuonerebbe di cose come «E il
+piccolo me, allora?», oppure «Ehi, George, mi sono forse iscritto alla Band
+of [[Hope]]?», oppure «Vedi mica del verde nel mio turbante, George?». Ma il
+barista non udì lagnanze del genere. Do per certo che il bicchiere di whisky
+lasciato indietro fosse stato quasi vuotato da qualcun altro; qualcuno a
+cui non abbiamo ancora pensato.»
+
+«Ma vi viene in mente qualcuno di simile?» chiese l'altro.
+
+«È perché il direttore e il barista non vogliono saperne di una persona
+simile, che voi scartate l'unica prova davvero indipendente; la
+testimonianza di quel ragazzo là fuori che puliva i gradini. Dice che un
+uomo, che [[Well|magari]] poteva essere un commesso viaggiatore, ma che in realtà
+non si tenne con gli altri commessi, entrò e uscì di nuovo quasi subito. Il
+direttore e il barista non lo videro mai; o dicono di non averlo mai visto.
+Ma in qualche modo si procurò un bicchiere di whisky dal bar. Chiamiamolo,
+per amor di argomentazione, Lo Svelto. Ora, sapete che non mi intrometto
+spesso nei vostri affari, che so voi sbrigate meglio di quanto farei io, o
+di quanto vorrei farli. Non ho mai avuto niente a che fare col mettere in
+moto la macchina della polizia, o col dar la caccia ai criminali, o
+alcunché di simile. Ma, per la prima [[Time|volta]] in vita mia, voglio farlo
+adesso. Voglio che troviate Lo Svelto; che inseguiate Lo Svelto fino ai
+confini della terra; che mettiate in moto tutta l'infernale macchina
+ufficiale come una rete a strascico gettata attraverso le nazioni, e che
+riacciuffiate [[Well|ben bene]] Lo Svelto. Perché è l'uomo che ci serve.»
+
+Greenwood fece un gesto di disperazione. «Ha un volto o una forma o una
+qualche qualità visibile, oltre alla sveltezza?» domandò.
+
+«Portava una specie di mantello all'Inverness», disse [[Father Brown]], «e
+disse al ragazzo là fuori che doveva raggiungere Edimburgo entro l'indomani
+mattina. È tutto ciò che il ragazzo là fuori ricorda. Ma so che la vostra
+organizzazione ha rintracciato gente con indizi ancora più scarsi.»
+
+«Vi ci accanite parecchio», disse l'Ispettore, un po' perplesso.
+
+Anche il prete parve perplesso, come dei propri stessi pensieri; sedette con
+la fronte aggrottata e poi disse bruscamente: «Vedete, è così facile essere
+fraintesi. Tutti gli uomini contano. Voi contate. Io conto. È la cosa più
+difficile da credere in tutta la teologia.»
+
+L'Ispettore lo fissò senza comprendere; ma egli proseguì.
+
+«Contiamo per Dio... Dio solo sa perché. Ma è l'unica possibile
+giustificazione dell'esistenza dei poliziotti.» Il poliziotto non parve
+illuminato quanto alla propria cosmica giustificazione. «Non vedete, la
+legge in fondo ha davvero ragione, in un certo modo. Se tutti gli uomini
+contano, tutti gli omicidi contano. Ciò che Egli ha così misteriosamente
+creato, non dobbiamo lasciare che sia misteriosamente distrutto. Ma...»
+
+Pronunciò l'ultima parola in tono reciso, come chi compie un nuovo passo in
+una decisione.
+
+«Ma, una volta che scendo da quel mistico piano d'uguaglianza, non vedo che
+la maggior parte dei vostri importanti omicidi siano particolarmente
+importanti. Voi mi dite sempre che questo e quel caso sono importanti. Come
+uomo semplice, pratico, di mondo, devo rendermi conto che è il Primo
+Ministro a essere stato assassinato. Come uomo semplice, pratico, di mondo,
+non penso affatto che il Primo Ministro conti. Come mera questione di
+importanza umana, direi che quasi non esiste. Credete forse che, se lui e
+gli altri uomini pubblici venissero uccisi domani, non ci sarebbe altra
+gente pronta ad alzarsi in piedi e a dire che ogni via veniva vagliata, o
+che il [[government|Governo]] aveva la questione allo studio più attento? I signori del
+mondo moderno non contano. Persino i veri signori non contano granché. Quasi
+nessuno di cui leggiate mai sul giornale conta un bel niente.»
+
+Si alzò in piedi, dando un lieve colpetto al tavolo: uno dei suoi rari
+gesti; e la sua voce mutò di nuovo. «Ma Raggley contava. Era uno di una
+grande schiera di circa una mezza dozzina di uomini che avrebbero potuto
+salvare l'Inghilterra. Se ne stanno ritti e scuri come cartelli indicatori
+ignorati, lungo tutta quella liscia [[Road|strada]] in discesa che è sfociata in
+questa palude di puro collasso mercantile. Il decano Swift e il dottor
+Johnson e il vecchio William Cobbett; tutti quanti, senza eccezione, avevano
+fama di essere burberi o selvatici, ed erano tutti amati dai loro amici, e
+lo meritavano tutti. Non avete visto come quel vecchio, col cuore di un
+[[Lion|leone]], si è alzato in piedi e ha perdonato il suo nemico come solo i
+combattenti sanno perdonare? Ha fatto proprio [[Well|ben bene]] ciò di cui parlava
+quel conferenziere della temperanza; ha dato l'esempio a noi cristiani ed è
+stato un modello di [[Christianity|Cristianità]]. E quando c'è l'omicidio turpe e segreto
+di un uomo così... allora sì, penso che conti, che conti a tal punto che
+persino la moderna macchina della polizia diventa una cosa di cui ogni
+persona rispettabile può servirsi... Oh, non c'è di che. E così, per una
+volta tanto, voglio davvero servirmi di voi.»

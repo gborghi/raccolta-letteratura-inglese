@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/scandal-fr-brown-(chesterton)">scandal Fr Brown</a> › <a href="/testi/chesterton/atomized/scandal_fr_brown/story_07_the_gardens_had_been_tended_so_carefully">Story 07 The gardens had been tended so carefully</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/scandal_fr_brown/story_07_the_gardens_had_been_tended_so_carefully/part_02">‹ part 02</a><a class="ex-next" href="/testi/chesterton/atomized/scandal_fr_brown/story_07_the_gardens_had_been_tended_so_carefully/part_04">part 04 ›</a></div>
@@ -116,3 +118,40 @@ eyes were far away and jet - burning, almost terrible - 'because the
 inside of our intellect has changed, because we really have a new idea
 of right, we shall do things you think really wrong. And they will be
 very practical.'
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/scandal-fr-brown-(chesterton)">scandal Fr Brown</a> › <a href="/testi/chesterton/atomized/scandal_fr_brown/story_07_the_gardens_had_been_tended_so_carefully">Story 07 The gardens had been tended so carefully</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/scandal_fr_brown/story_07_the_gardens_had_been_tended_so_carefully/part_02">‹ part 02</a><a class="ex-next" href="/testi/chesterton/atomized/scandal_fr_brown/story_07_the_gardens_had_been_tended_so_carefully/part_04">part 04 ›</a></div>
+</nav>
+
+L'uomo alto scattò lungo la parete come la sua stessa [[Shadow|ombra]], finché non sprofondò nella sedia vuota alla destra del Rettore, e guardò dall'altra parte l'Economo e gli altri con occhi incavati e cavernosi. I suoi capelli e baffi spioventi erano assai chiari, ma gli occhi erano tanto infossati da poter sembrare neri. Tutti sapevano, o potevano indovinare, chi fosse il nuovo venuto; ma un incidente seguì all'istante, sufficiente a illuminare la situazione. [[The Professor|Il Professore]] di [[Roman History|Storia Romana]] si [[Rose|alzò]] rigidamente in piedi e uscì impettito dalla stanza, indicando con poca finezza i suoi sentimenti circa il sedere allo stesso tavolo con [[The Professor|il Professore]] di Furto Teorico, altrimenti detto il Comunista, il signor Craken.
+
+Il Rettore del Mandeville coprì la situazione imbarazzante con nervosa grazia. «Stavo difendendo lei, o alcuni aspetti di lei, mio caro Craken,» disse sorridendo, «benché sia certo che lei mi troverebbe del tutto indifendibile. Dopo tutto, non posso dimenticare che i vecchi amici Socialisti della mia gioventù avevano un ideale assai nobile di fratellanza e [[Comradeship|cameratismo]]. William Morris lo racchiuse tutto in una frase: "La fratellanza è il paradiso; e la mancanza di fratellanza è l'inferno".»
+
+«Docenti democratici; ecco il titolo di giornale,» disse il signor Craken piuttosto sgradevolmente. «E Hake il Duro dedicherà la nuova Cattedra Commerciale alla [[Memory|memoria]] di William Morris?»
+
+«[[Well|Beh]],» disse il Rettore, mantenendo ancora una disperata cordialità, «[[Hope|spero]] che possiamo dire, in un certo senso, che tutte le nostre Cattedre sono Cattedre di buona fratellanza.»
+
+«Sì; questa è la versione accademica della massima di Morris,» ringhiò Craken. «"Una Cattedra è il paradiso; e la mancanza d'una Cattedra è l'inferno".»
+
+«Non essere così [[Cross|scontroso]], Craken,» s'intromise l'Economo con vivacità. «Prendi un po' di porto. Tenby, passa il porto al signor Craken.»
+
+«Oh, [[Well|va bene]], ne prenderò un bicchiere,» disse il Professore comunista un po' meno sgarbatamente. «In realtà sono sceso qui per fumare in [[Garden|giardino]]. Poi ho guardato fuori dalla [[Window|finestra]] e ho visto che i vostri due preziosi milionari erano davvero là a sbocciare in [[Garden|giardino]]; freschi, [[Innocent|innocenti]] boccioli. Dopo tutto, potrebbe valer la pena di dir loro un po' quel che penso.»
+
+Il Rettore si era alzato sotto la copertura della sua ultima convenzionale cordialità, ed era anche troppo lieto di lasciare all'Economo il compito di far del suo meglio con l'Uomo Selvaggio. Altri si erano alzati, e i gruppi al tavolo avevano cominciato a sciogliersi; e l'Economo e il signor Craken restarono più o meno [[Alone|soli]] all'estremità del lungo tavolo. Solo [[Father Brown]] continuò a sedere fissando il vuoto con un'espressione piuttosto annuvolata.
+
+«Oh, quanto a questo,» disse l'Economo. «Anch'io ne sono piuttosto stanco, a dir la [[Truth|verità]]; sono stato con loro la maggior parte della giornata a esaminare fatti e cifre e tutta la faccenda di questa nuova cattedra. Ma senti, Craken,» e si sporse attraverso il tavolo parlando con una sorta di dolce enfasi, «non hai davvero bisogno di prendertela tanto per questa nuova cattedra. Non interferisce affatto con la tua materia. Sei l'unico Professore di Economia Politica al Mandeville e, benché io non pretenda di condividere le tue idee, tutti sanno che hai una reputazione europea. Questa è una materia particolare che chiamano Economia Applicata. [[Well|Beh]], perfino oggi, come ti ho detto, ho avuto una montagna di Economia Applicata. In altre parole, ho dovuto parlar d'affari con due uomini d'affari. Vorresti davvero farlo tu? Lo invidieresti? Lo sopporteresti? Non è prova sufficiente che si tratta d'una materia distinta e che [[Well|ben]] potrebbe essere una Cattedra distinta?»
+
+«Santo cielo,» esclamò Craken con l'intensa invocazione dell'ateo. «Credi che io non voglia applicare l'Economia? Solo che, quando la applichiamo noi, tu la chiami rovina rossa e anarchia; e quando la applichi tu, io mi prendo la libertà di chiamarla sfruttamento. Se solo voialtri applicaste l'Economia, è appena possibile che la gente possa ottenere qualcosa da mangiare. Noi siamo i pratici; ed è per questo che avete paura di noi. Ecco perché dovete procurarvi due unti Capitalisti per avviare un'altra cattedra; soltanto perché io ho fatto uscire il segreto dal sacco.»
+
+«Piuttosto un gatto selvatico, non è vero?» disse l'Economo sorridendo, «quello che hai fatto uscire dal sacco?»
+
+«E piuttosto un sacco d'oro, non è vero,» disse Craken, «quello in cui state di nuovo rinchiudendo il gatto?»
+
+«[[Well|Beh]], suppongo che su tutto ciò non saremo mai d'accordo,» disse l'altro. «Ma quei tizi sono usciti dalla loro cappella nel [[Garden|giardino]]; e se vuoi fumarti là la tua pipa, faresti meglio a venire.» Osservò con un certo divertimento il suo compagno frugarsi in tutte le tasche finché non produsse una pipa, e poi, fissandola con aria distratta, Craken si [[Rose|alzò]] in piedi, ma anche nel farlo pareva tastarsi di nuovo tutto addosso. Il signor Baker l'Economo pose fine alla controversia con un felice riso di [[Reconciliation|riconciliazione]]. «Voi siete i pratici, e farete saltare in aria la città con la dinamite. Solo che probabilmente vi dimenticherete la dinamite, come scommetto che ti sei dimenticato il tabacco. Non importa, prendine una presa del mio. Fiammiferi?» Gettò attraverso il tavolo una borsa da tabacco e i suoi accessori; per esser presa al volo dal signor Craken con quella destrezza mai dimenticata da un giocatore di cricket, anche quando adotta opinioni generalmente ritenute non cricket. I due uomini si [[Rose|alzarono]] insieme; ma Baker non poté trattenersi dall'osservare: «Sei davvero tu l'unico pratico? Non c'è nulla da dire in favore dell'Economia Applicata, che si ricorda di portare una borsa da tabacco oltre alla [[Well|pipa]]?»
+
+Craken lo guardò con occhi covanti; e disse infine, dopo aver lentamente vuotato l'ultimo sorso di vino: «Diciamo che c'è un altro genere di praticità. Ammetto pure che dimentico i dettagli e via dicendo. Ciò che voglio tu comprenda è questo» – restituì automaticamente la borsa; ma i suoi occhi erano lontani e ardenti come giaietto, quasi terribili – «poiché l'interno del nostro intelletto è cambiato, poiché noi abbiamo davvero una nuova idea del giusto, faremo cose che tu ritieni davvero sbagliate. E saranno molto pratiche.»

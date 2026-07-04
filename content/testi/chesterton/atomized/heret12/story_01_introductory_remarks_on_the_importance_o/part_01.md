@@ -135,7 +135,7 @@ the very same things which it made him a convict for practising.
 
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/works/heret12-(chesterton)">Heretics</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/heret12-(chesterton)">Heretics</a> › <a href="/testi/chesterton/atomized/heret12/story_01_introductory_remarks_on_the_importance_o">Story 01 Introductory Remarks on the Importance o</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/heret12/story_19_concluding_remarks_on_the_importance_of">‹ Story 19 Concluding Remarks on the Importance of</a><a class="ex-next" href="/testi/chesterton/atomized/heret12/story_01_introductory_remarks_on_the_importance_o/part_02">part 02 ›</a></div>
 </nav>
 

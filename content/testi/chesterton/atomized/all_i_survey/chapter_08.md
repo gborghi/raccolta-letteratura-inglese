@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/all-i-survey-(chesterton)">All I Survey</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/all_i_survey/chapter_07">‹ Chapter 07</a><a class="ex-next" href="/testi/chesterton/atomized/all_i_survey/chapter_09">Chapter 09 ›</a></div>
@@ -154,5 +156,157 @@ I draw no moral from this curious habit of humanity.
 I am content to be, for once, an utterly unmoral critic
 of the Swinburne period, or a cold, rationalist scientist
 of the Victorian Age.
+
+-*-
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/all-i-survey-(chesterton)">All I Survey</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/all_i_survey/chapter_07">‹ Chapter 07</a><a class="ex-next" href="/testi/chesterton/atomized/all_i_survey/chapter_09">Chapter 09 ›</a></div>
+</nav>
+
+VIII
+
+_Sulla stantìa della rivolta_
+
+È [[Truth|verità]] eterna che i padri lapidano i profeti e
+i figli ne edificano i sepolcri; spesso con le stesse pietre.
+Poiché le ragioni addotte in principio per la condanna a morte sono spesso le medesime
+di quelle addotte più tardi per la canonizzazione. Ma si potrebbe aggiungere
+che v'è spesso una terza fase, in cui i nipoti demoliscono
+e riducono in rovina i sepolcri che i figli hanno innalzato.
+Il processo dell'accoglimento o del rifiuto dei profeti,
+veri e falsi, non è un cammino così semplice come appariva
+alla [[philosophy|filosofia]] progressista del secolo decimonono.
+È pieno di alti e bassi; perfino per un [[Prophet|profeta]] morto, al quale non
+è generalmente concesso di rimanersene morto in pace. E nulla è più
+curioso che osservare il modo in cui questo mutamento incide davvero
+sulle grandi reputazioni, e specialmente sulle reputazioni rivoluzionarie.
+
+La cosa curiosa è che, quando viene la ribellione, essa è generalmente
+una ribellione contro i ribelli. Non è generalmente una ribellione
+contro i reazionari. Gli uomini del passato che particolarmente esaltarono
+il passato possono in taluni casi essersi dileguati nel passato che esaltavano.
+Ma non di rado sono stati additati per un attacco speciale dal
+futuro che disprezzavano. Coloro che erano, di fatto, destinati alla
+detronizzazione nel futuro erano generalmente i futuristi del passato.
+Erano coloro che promettevano agli uomini un futuro di più grande gloria,
+che avevano realmente dinanzi a sé un futuro di più grande discredito
+e negligenza. Il vecchio, polveroso e ammuffito _laudator temporis acti_
+può talvolta essere trascurato, ma di rado è screditato.
+Non è mai detronizzato, forse perché non è mai stato intronizzato.
+Ma pare sopravvivere a un numero qualsiasi di intronizzati profeti del progresso.
+
+Rilevo questo come singolare fatto storico, del tutto a prescindere
+dalle mie simpatie, che stanno talvolta con il rivoluzionario
+e talvolta con il reazionario. Per esempio:
+si supponga che a un uomo si chiedesse quali fossero i due più grandi inglesi,
+o piuttosto i due più grandi sudditi britannici, viventi alla fine
+del secolo decimottavo. Le opinioni potrebbero divergere; ma un uomo
+non andrebbe molto lontano dal vero se dicesse Byron e Burke.
+A quel [[Time|tempo]] Burke stava, come sta in tutta la sua opera più
+importante, quale campione delle idee conservatrici;
+l'uomo che ci esortava a preservare perfino le tradizioni irrazionali;
+l'uomo che si doleva della perdita di tradizioni ancor più antiche.
+Egli era allora enfaticamente il Burke che lamentava ad alta voce
+che l'età della cavalleria fosse tramontata, o piangeva sulla svanita
+[[Beauty|bellezza]] della [[Queen|Regina]] di Francia. D'altra parte, Byron era
+a quel [[Time|tempo]] enfaticamente la voce della Rivoluzione.
+Rimpiangeva apertamente che essa fosse stata sconfitta a Waterloo;
+sferzava tutti i Tories con un flagello di [[Satire|satira]], che brandiva
+come una [[Flag|bandiera]] di Libertà. [[Well|Ebbene]], erano entrambi grandi uomini, e,
+se ho una preferenza puramente personale, essa è per Byron.
+Essa è certamente, sotto molti aspetti, per il partito politico di Byron.
+Eppure non si può negare che le successive relazioni delle
+due reputazioni, con la fama o almeno con la moda, abbiano illustrato
+questo curioso vantaggio del reazionario sul rivoluzionario.
+Byron è stato, credo, piuttosto sottovalutato da allora in poi.
+Burke è stato, credo, piuttosto sopravvalutato da allora in poi.
+Questa è materia d'opinione; ma è materia di fatto
+che Burke non è stato molto specialmente denunciato o deriso,
+mentre Byron è stato incessantemente denunciato e deriso.
+Divenne quasi il contrassegno dell'intellettuale moderno e avanzato
+lo storcere sempre il naso e il sogghignare davanti alla mera retorica
+e al [[Romance|romanticismo]] melodrammatico di Byron. Nessuno insisté specialmente
+che le rapsodie di Burke su Maria Antonietta fossero mera retorica,
+come indubbiamente erano. Certo v'è qualcosa,
+che sarebbe mite chiamare [[Melodrama|melodramma]], nel dire di quella
+cordiale signora tedesca: «E davvero mai discese su questo globo,
+che ella sembrava a stento sfiorare, una più deliziosa visione».
+A quella florida fraseologia non è concesso di ritornare alla mente
+quando il signor Buckle o il signor Garvin descrivono il debito della nostra
+Costituzione verso la sottile e statistica [[philosophy|filosofia]] di Burke.
+Burke non divenne mai una sorta di bersaglio per i critici, mentre Byron sì.
+E ciò pare piuttosto suggerire che, se sei un [[Prophet|profeta]]
+di [[Resurrection|risurrezione]] e di rivoluzione, del futuro e dell'[[Dawn|aurora]],
+il tuo sepolcro è probabile che venga lapidato e sfregiato perfino dopo che
+è stato edificato. Ma se eri soltanto un edificatore di sepolcri,
+il tuo sepolcro sarà lasciato in pace.
+
+Si consideri poi la fase successiva e ancor più singolare della storia.
+L'intera storia si ripeté da capo, verso la fine
+dell'era vittoriana, quando Swinburne sorse a contendere
+la mite monarchia costituzionale di Tennyson e in un certo
+senso a riempire ancora una volta il trono rivoluzionario di Byron.
+La prima cosa da notare è che non v'è alcuna simpatia,
+certamente nessuna continuità, tra il vecchio [[Rebel|ribelle]] e il nuovo [[Rebel|ribelle]].
+Swinburne era altrettanto pronto a liquidare o disprezzare Byron quanto tutte
+le altre persone del suo [[Time|tempo]] e della sua scuola estetici, o piuttosto
+più pronto degli altri. Non v'era simpatia tra rivoluzione
+e rivoluzione, semplicemente perché non v'era simpatia tra moda
+e moda. «Addio, o gaio non so che, o giardini di rose»
+(mi rincresce dire che ho dimenticato quale fosse il gaio non so che)
+suonava a un tempo florido e frigido a una generazione che non sentiva
+che «Se l'[[Love|amore]] fosse ciò che è la [[Rose|rosa]], e io fossi come la foglia»
+potesse essere non solo innaturale, ma quasi del tutto insensato.
+Ogni novità ha il suo proprio nonsenso, e non vede mai che esso
+è nonsenso, e vede sempre che la novità più antica era nonsenso.
+Ma Swinburne stesso sta già diventando una novità più antica,
+e vi sono quantità di persone che cominciano a dire
+che la sua poesia è nonsenso. Sembra altamente probabile che egli,
+a sua volta, sia avviato a un periodo di reazione e di ridicolo; nel quale
+la sua opera sarà sottovalutata esattamente come fu sottovalutata quella di Byron.
+Ma sarà sottovalutata per la stessa ragione: semplicemente perché
+fu sopravvalutato; ma, soprattutto, perché fu specialmente sopravvalutato
+come [[Rebel|ribelle]] e come riformatore e come nuova forza tesa verso il futuro.
+L'uomo che si mette a comporre _Songs Before Sunrise_ è portato
+a trovare il sole, quando sorge, un po' troppo caldo per lui.
+
+Ma il punto è che ciò che pare attrarre questa strana rivolta
+non è l'essere un antico [[King|re]], bensì l'essere un antico [[Rebel|ribelle]].
+Il mondo rinculò su Byron in proporzione alla forza con
+cui egli lo aveva sospinto quale demagogo alla moda; e la stessa cosa
+che accadde a Byron sta ora ovviamente accadendo a Swinburne.
+Non sta accadendo così ovviamente a quei contemporanei di Swinburne
+che, pur condividendo i metodi artistici del [[Time|tempo]],
+erano realmente interessati ai modelli artistici di un [[Time|tempo]] anteriore.
+Ho menzionato il fin troppo ricorrente soggetto delle rose.
+Ho notato quanto fossero remoti i lussureggianti [[Rose|roseti]] di Byron
+dalla «mistica [[Rose|rosa]] del fango» tanto celebrata da Swinburne.
+[[Fear|Temo]] sia fin troppo probabile che, nella reazione anti-swinburniana,
+moltissime persone si faranno beffe di versi svergognatamente allitterativi
+come «Le estasi e le rose del vizio», il quale certamente non
+significa gran che. Ma [[Doubt|dubito]] che si daranno la pena di fare
+gioco del verso di William Morris, «Due rose rosse attraverso la [[Moon|luna]]»,
+sebbene esso non significhi assolutamente nulla. Ma d'altronde Morris,
+a dispetto del suo lato rivoluzionario, fu salvato dal suo lato reazionario.
+Egli era realmente più interessato al passato che al futuro,
+sicché il futuro potrà lasciarlo [[Alone|in pace]].
+
+Potrei addurre moltissimi altri esempi di come i Pagani
+di ieri vengano scherniti dai Pagani di oggi.
+Un uomo che parlasse di bella prosa inglese nella mia fanciullezza
+avrebbe probabilmente menzionato tanto Pater quanto Newman.
+Ho udito di recente un numero stupefacente di persone sogghignare
+su Pater; non ho udito molte persone, anzi nessuna persona,
+sogghignare su Newman. Eppure si sarebbe certamente detto
+che il Pagano guardava al futuro e il Papista al passato.
+Non traggo alcuna morale da questa curiosa abitudine dell'umanità.
+Mi accontento di essere, per una volta, un critico del tutto amorale
+del periodo di Swinburne, o un freddo, razionalista scienziato
+dell'Età Vittoriana.
 
 -*-

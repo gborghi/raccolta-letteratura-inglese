@@ -139,7 +139,7 @@ of the [[Faith|faith]] and have lost the light of the [[Faith|faith]].
 
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/works/everlasting-man-(chesterton)">The Everlasting Man</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/everlasting-man-(chesterton)">The Everlasting Man</a> › <a href="/testi/chesterton/atomized/everlasting_man/chapter_01_on_the_man_called_christ_chris">Chapter 01 ON THE MAN CALLED Christ CHRIS</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/everlasting_man/chapter_03">‹ Chapter 03</a><a class="ex-next" href="/testi/chesterton/atomized/everlasting_man/chapter_01_on_the_man_called_christ_chris/part_02">part 02 ›</a></div>
 </nav>
 

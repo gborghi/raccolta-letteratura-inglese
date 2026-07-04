@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/scandal-fr-brown-(chesterton)">scandal Fr Brown</a> › <a href="/testi/chesterton/atomized/scandal_fr_brown/story_08_the_point_of_a_pin">Story 08 The Point of a Pin</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/scandal_fr_brown/story_08_the_point_of_a_pin/part_02">‹ part 02</a><a class="ex-next" href="/testi/chesterton/atomized/scandal_fr_brown/story_08_the_point_of_a_pin/part_04">part 04 ›</a></div>
@@ -120,3 +122,42 @@ view. They were just turning the corner of the path under an enormous
 classical urn crowned with a somewhat incongruous garland of geraniums,
 when [[Father Brown]] saw a movement in the bushes and thin trees just below
 him, that seemed as swift as a movement of startled [[Birds|birds]].
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/scandal-fr-brown-(chesterton)">scandal Fr Brown</a> › <a href="/testi/chesterton/atomized/scandal_fr_brown/story_08_the_point_of_a_pin">Story 08 The Point of a Pin</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/scandal_fr_brown/story_08_the_point_of_a_pin/part_02">‹ part 02</a><a class="ex-next" href="/testi/chesterton/atomized/scandal_fr_brown/story_08_the_point_of_a_pin/part_04">part 04 ›</a></div>
+</nav>
+
+Nessuno, neppure la dama meno schizzinosa, avrebbe detto che il nuovo venuto fosse troppo di bell'aspetto. Aveva orecchie molto grandi e una faccia da rana, e fissava davanti a sé con una fissità quasi spettrale, che [[Father Brown]] attribuì al fatto che avesse un occhio di vetro. Anzi, la sua fantasia era tentata di dotare l'uomo di due occhi di vetro; con un'aria tanto vitrea contemplava la compagnia. Ma l'esperienza del prete, distinta dalla sua fantasia, era in grado di suggerire diverse cause naturali per quel bagliore innaturale da figura di cera; una delle quali era un abuso del divino dono del liquore fermentato. L'uomo era basso e malandato e reggeva in una mano una grande bombetta e nell'altra una grande lettera sigillata.
+
+Sir [[Hubert]] Sand lo guardò; e poi disse in tono abbastanza tranquillo, ma con una voce che in qualche modo pareva curiosamente esile, uscendo dalla pienezza della sua presenza corporea: «Oh... siete voi.»
+
+Tese la mano per la lettera; e poi si guardò intorno con aria di scusa, il dito sospeso, prima di strapparne l'apertura e leggerla. Quando l'ebbe letta, se la cacciò nella tasca interna e disse in fretta e un po' aspramente: «[[Well|Beh]], suppongo che tutta questa faccenda sia finita, come dici tu. Nessuna trattativa è più possibile ormai; non potremmo comunque pagare i salari che chiedono. Ma vorrò rivederti, Henry, a proposito di... a proposito di come chiudere le cose in generale.»
+
+«D'accordo», disse Henry, forse un po' imbronciato, come se avrebbe preferito [[Wind|sbrigarle]] da solo. «Sarò su al numero 188 dopo pranzo; devo sapere fin dove sono arrivati lassù.»
+
+L'uomo con l'occhio di vetro, se era un occhio di vetro, se ne andò rigidamente a passi pesanti; e l'occhio di [[Father Brown]] (che non era affatto un occhio di vetro) lo seguì pensieroso mentre si faceva strada tra le scalette e scompariva nella via.
+
+Fu la mattina seguente che [[Father Brown]] ebbe l'insolita esperienza di dormire oltre l'ora; o per lo meno di destarsi dal [[Sleep|sonno]] con la soggettiva convinzione di essere in ritardo. Ciò era dovuto in parte al suo ricordare, come un uomo può ricordare [[A Dream|un sogno]], il fatto di essersi mezzo svegliato a un'ora più regolare e di essersi riaddormentato; un'evenienza abbastanza comune per la maggior parte di noi, ma un'evenienza assai insolita per [[Father Brown]]. E in seguito fu stranamente convinto, con quel lato mistico di sé che era normalmente rivolto lontano dal mondo, che in quell'isolotto oscuro e distaccato del regno dei sogni, tra i due risvegli, giacesse come un tesoro sepolto la [[Truth|verità]] di questa storia.
+
+Come stavano le cose, balzò in piedi con gran prontezza, si infilò gli abiti, afferrò il suo grosso ombrello nodoso e si precipitò nella via, dove la squallida mattina bianca stava spuntando come ghiaccio scheggiato intorno all'enorme edificio nero che gli stava di fronte. Fu sorpreso di scoprire che le strade risplendevano quasi deserte nella fredda luce cristallina; il loro stesso aspetto gli disse che difficilmente poteva essere tardi come aveva temuto. Poi improvvisamente la quiete fu spaccata dalla rapidità simile a una freccia di una lunga automobile grigia che si arrestò davanti ai grandi appartamenti deserti. Lord Stanes si dispiegò dall'interno e si avvicinò alla porta, portando (piuttosto languidamente) due grandi valigie. Nello stesso momento la porta si aprì, e qualcuno parve indietreggiare invece di uscire nella strada. Stanes chiamò due volte l'uomo all'interno, prima che quella persona sembrasse completare il suo gesto originario uscendo sulla soglia; poi i due tennero un breve colloquio, che si concluse con il nobiluomo che portava le sue valigie di sopra, e l'altro che usciva alla piena luce del giorno rivelando le pesanti spalle e la testa scrutatrice del giovane Henry Sand.
+
+[[Father Brown]] non diede peso a questo incontro piuttosto strano, finché due giorni più tardi il giovane arrivò con la propria automobile e implorò il prete di salirvi. «È successo qualcosa di terribile», disse, «e preferirei parlarne con lei piuttosto che con Stanes. Sa, Stanes è arrivato l'altro giorno con la folle idea di accamparsi in uno degli appartamenti appena finiti. Ecco perché ho dovuto andare là presto e aprirgli la porta. Ma tutto questo può aspettare. Voglio che venga subito su, a casa di mio zio.»
+
+«È malato?» domandò il prete rapidamente.
+
+«Credo che sia morto», rispose il nipote.
+
+«Che cosa intende dire quando dice che crede che sia morto?» chiese [[Father Brown]] un po' bruscamente. «Ha un medico?»
+
+«No», rispose l'altro. «Non ho né un medico né un paziente... Non serve a nulla chiamare i medici a esaminare il [[Body|corpo]]; perché il [[Body|corpo]] è fuggito. Ma temo di sapere dove è fuggito... la [[Truth|verità]] è che... l'abbiamo tenuto nascosto per due giorni; ma è scomparso.»
+
+«Non sarebbe meglio», disse [[Father Brown]] mitemente, «se mi raccontasse che cosa è realmente accaduto dal principio?»
+
+«Lo so», rispose Henry Sand; «è una vergogna infernale parlare con tanta leggerezza del povero vecchio; ma la gente diventa così quando è sconvolta. Non sono granché bravo a nascondere le cose; il lungo e il breve della faccenda è che... [[Well|beh]], il lungo non glielo dirò adesso. È ciò che qualcuno definirebbe piuttosto un tiro azzardato; scagliare sospetti a casaccio e via dicendo. Ma il breve è che il mio sventurato zio ha commesso il [[suicide|suicidio]].»
+
+Ormai a questo [[Time|punto]] sfrecciavano lungo la strada in automobile attraverso gli ultimi lembi della città e i primi lembi della foresta e del parco al di là di essa; i cancelli della portineria della piccola tenuta di Sir [[Hubert]] Sand si trovavano circa mezzo miglio più avanti in mezzo alla ressa infittita dei faggi. La tenuta consisteva principalmente in un piccolo parco e in un grande [[Garden|giardino]] ornamentale, che digradava in terrazze di un certo classico sfarzo fino all'orlo stesso del principale [[River|fiume]] del distretto. Non appena giunsero alla [[house|casa]], Henry condusse il prete un po' frettolosamente attraverso le vecchie stanze georgiane e fuori dall'altro lato; dove discesero in silenzio il pendio, un pendio piuttosto ripido arginato di [[Flowers|fiori]], dal quale potevano vedere il pallido [[River|fiume]] disteso davanti a loro quasi piatto come in una veduta a volo d'uccello. Stavano proprio svoltando l'angolo del sentiero sotto un'enorme urna classica coronata da una ghirlanda di gerani alquanto incongrua, quando [[Father Brown]] vide un movimento nei cespugli e negli alberi radi appena sotto di lui, che parve rapido come il movimento di [[Birds|uccelli]] spaventati.

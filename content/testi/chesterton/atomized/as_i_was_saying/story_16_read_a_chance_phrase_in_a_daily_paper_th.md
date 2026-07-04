@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/as-i-was-saying-(chesterton)">As I Was Saying</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/as_i_was_saying/story_15_confess_that_to_me_the_celebration_of_th">‹ Story 15 CONFESS that to me the celebration of th</a><a class="ex-next" href="/testi/chesterton/atomized/as_i_was_saying/story_17_may_explain_that_i_am_one_of_the_people">Story 17 MAY explain that I am one of the people ›</a></div>
@@ -957,3 +959,539 @@ but Virtue and the Worship of God.
 ~||~
 
 _XXXVI About Royal Weddings_
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/as-i-was-saying-(chesterton)">As I Was Saying</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/as_i_was_saying/story_15_confess_that_to_me_the_celebration_of_th">‹ Story 15 CONFESS that to me the celebration of th</a><a class="ex-next" href="/testi/chesterton/atomized/as_i_was_saying/story_17_may_explain_that_i_am_one_of_the_people">Story 17 MAY explain that I am one of the people ›</a></div>
+</nav>
+<nav class="excerpt-children">
+<div class="excerpt-children-label">In questa sezione</div>
+<ul><li><a href="/testi/chesterton/atomized/as_i_was_saying/story_16_read_a_chance_phrase_in_a_daily_paper_th/part_01">Part 1</a></li><li><a href="/testi/chesterton/atomized/as_i_was_saying/story_16_read_a_chance_phrase_in_a_daily_paper_th/part_02">Part 2</a></li><li><a href="/testi/chesterton/atomized/as_i_was_saying/story_16_read_a_chance_phrase_in_a_daily_paper_th/part_03">Part 3</a></li><li><a href="/testi/chesterton/atomized/as_i_was_saying/story_16_read_a_chance_phrase_in_a_daily_paper_th/part_04">Part 4</a></li><li><a href="/testi/chesterton/atomized/as_i_was_saying/story_16_read_a_chance_phrase_in_a_daily_paper_th/part_05">Part 5</a></li><li><a href="/testi/chesterton/atomized/as_i_was_saying/story_16_read_a_chance_phrase_in_a_daily_paper_th/part_06">Part 6</a></li><li><a href="/testi/chesterton/atomized/as_i_was_saying/story_16_read_a_chance_phrase_in_a_daily_paper_th/part_07">Part 7</a></li><li><a href="/testi/chesterton/atomized/as_i_was_saying/story_16_read_a_chance_phrase_in_a_daily_paper_th/part_08">Part 8</a></li><li><a href="/testi/chesterton/atomized/as_i_was_saying/story_16_read_a_chance_phrase_in_a_daily_paper_th/part_09">Part 9</a></li></ul>
+</nav>
+
+LESSI per caso una frase su un quotidiano l'altro giorno; anzi, l'avevo
+letta in moltissimi altri quotidiani in moltissimi altri giorni.
+Ma d'un tratto mi rivelò il profondo disaccordo che divide
+la maggior parte dei moderni riguardo alla [[Nature|natura]] del progresso; perfino coloro
+che sono tanto superficiali da immaginare di essere tutti d'accordo.
+La frase suonava press'a poco così: «Verrà il [[Time|tempo]] in cui
+comunicare con le remote [[Stars|stelle]] ci sembrerà tanto ordinario
+quanto rispondere al telefono».
+
+Al che io rispondo, tanto per cominciare: «Sì, è proprio questo
+che mi ripugna». Ora, se poteste dirmi: «Verrà il [[Time|tempo]]
+in cui rispondere al telefono ci sembrerà tanto straordinario
+quanto comunicare con le remote [[Stars|stelle]]...», allora ammetterei
+che siete un progressista vero, schietto, pieno di speranza e di incoraggiamento.
+Pur essendo un progressista, sareste comunque un [[Prophet|profeta]]; mestiere che taluni
+hanno reputato piuttosto antiquato. Resterebbe ancora
+assai discutibile se un [[Prophet|profeta]] sia un uomo ispirato dal cielo
+oppure un uomo che, per la [[Nature|natura]] stessa del caso, parla di cose
+che non comprende. Ma, ammesso, per amor di discussione,
+che un progressista possa essere abbastanza convinto e sicuro da parlare
+come un [[Prophet|profeta]], direi che questo [[Prophet|profeta]] profetizzava davvero
+la venuta del regno dei cieli, e questo progressista ci prometteva
+un progresso reale e sostanziale. Dirci che troveremo
+tanta gioia in una voce telefonica quanta ne troveremmo in una visione stellare--
+questo sarebbe un vangelo nel senso più pratico di buona novella.
+Ma dirci che ci annoieremo delle [[Stars|stelle]]
+quanto ci annoiamo del telefono--questa non è affatto una buona novella.
+Significa soltanto che qualcosa che è ancora una sorta di vaga
+ispirazione diventerà, a suo tempo, una ben ordinaria irritazione.
+Quando le [[Stars|stelle]] del mattino cantano insieme e i figli di Dio esultano di gioia,
+quando la più possente musica delle sfere raggiunge la nostra terra come una nuova
+rivelazione degli abissi e delle altezze del suono, non vorremmo certo
+che il coro stellare gridasse in un unico [[Chorus|coro]]:
+«Spiacenti per il disturbo». Poiché in quel patetico grido del centralino
+la [[Tragedy|tragedia]] della nostra sorte umana è filosoficamente ammessa.
+Si riconosce, con le parole stesse, che essere chiamati a rispondere
+al telefono _è_ essere disturbati.
+
+Si ammette, perfino dalla mente ufficiale, che in questo senso l'uomo
+nasce per il tormento come le scintille elettriche volano in alto, o dovunque
+volino le scintille elettriche; si lascia perfino intendere, benché forse
+in modo mistico e indiretto, che una vita di pace, di pace perfetta,
+sarebbe quella in cui il telefono cessasse di disturbare e gli
+abbonati riposassero. Ma la [[Truth|verità]] va più a fondo di qualsiasi occasionale
+irritazione che possa sorgere dal cattivo uso dello strumento;
+essa implica un certo grado di indifferenza perfino nell'uso corretto di esso.
+Ci viene incessantemente ripetuto, in verità, che i moderni congegni scientifici,
+persino quelli come il telefono, oggi universalmente adottati,
+sono i miracoli dell'uomo, e le meraviglie della scienza, e i prodigi
+del mondo nuovo. Ma per quanto le invenzioni siano descritte in questo modo,
+non sono trattate in questo modo. O, piuttosto, se in teoria se ne parla
+così, in pratica non se ne parla così. Vi è
+certamente stata una corsa alla scoperta, una rapida serie di invenzioni;
+e, in un certo senso, l'attività è meravigliosa e la rapidità potrebbe
+[[Well|ben]] parere [[Magic|magia]]. Ma è stata una rapidità nel far diventare stantie le cose;
+una corsa all'ingiù verso il mondo piatto e tetro del prosaico;
+una fretta di cose meravigliose nel perdere il proprio carattere meraviglioso;
+un [[deluge|diluvio]] di prodigi che distrugge il [[Wonder|prodigio]]. Potrà essere il perfezionamento
+del macchinario, ma non può in alcun modo essere il perfezionamento dell'uomo.
+E poiché non è il perfezionamento dell'uomo, non può in alcun modo
+essere progresso. L'uomo è la creatura che il progresso pretende di perfezionare;
+non è una gara di ruote contro ruote, né un incontro di lotta
+di motori contro motori. Il perfezionamento implica tutto ciò che
+comunemente si chiama [[Education|educazione]]; e l'[[Education|educazione]] implica un ampliamento;
+e soprattutto un ampliamento dell'[[Imagination|immaginazione]]. Implica precisamente
+quell'intensità immaginativa di apprezzamento che non consente a nulla
+di ciò che potrebbe essere vivido o significativo di divenire triviale o volgare.
+Se abbiamo volgarizzato l'elettricità sulla terra, non è una risposta
+vantarsi che, tra qualche anno ancora, potremo volgarizzare le [[Stars|stelle]]
+nel cielo.
+
+Ditemi che l'affaccendato uomo d'affari s'irrigidisce in [[prayer|preghiera]]
+al solo suono della squilla del telefono, come i contadini
+di Millet all'Angelus; ditemi che s'inchina in riverenza
+avvicinandosi al sacrario della cabina telefonica; ditemi anche
+che lo saluta con rito pagano piuttosto che cristiano,
+che porge l'orecchio alla cornetta come a un Oracolo di Delfi,
+o pensa alla giovane signorina sullo sgabello d'ufficio del Centralino
+come a una sacerdotessa assisa su un tripode in un tempio lontano;
+ditemi anche che ha un ordinario apprezzamento poetico
+dell'idea di quella voce umana che valica colli e valli--
+tanto apprezzamento quanto ne avevano gli uomini per il corno di Orlando o il grido
+di [[Achilles|Achille]]--ditemi che queste scene di adorazione o di agitazione sono
+comuni nell'ufficio commerciale al ricevimento di una chiamata telefonica,
+e _allora_ (sulla preliminare presunzione che io creda a una sola parola
+di ciò che dite), _allora_ davvero seguirò il vostro affaccendato uomo d'affari
+e il vostro ardito inventore scientifico alla conquista di nuovi mondi
+e alla scalata delle [[Stars|stelle]]. Poiché allora saprò che essi
+trovano davvero ciò che cercano e comprendono ciò che trovano;
+saprò che aggiungono davvero nuove esperienze alla nostra vita e nuove
+facoltà e passioni alle nostre anime; che sono come uomini che scoprono
+nuove lingue, o nuove arti, o nuove scuole di architettura.
+Ma tutto ciò che sanno dire, nel genere di passo che ho citato, è che
+sanno inventare cose che sono generalmente comodità banali,
+ma assai spesso scomodità banali. E tutto ciò di cui
+possono vantarsi, in risposta a qualsiasi critica intelligente, è che
+potranno ancora imparare a rendere il sole e la [[Moon|luna]] e gli eterni
+cieli ugualmente banali, e probabilmente ugualmente scomodi.
+
+Si badi bene che questa _non_ è, come sempre si immagina alla leggera,
+una reazione contro la scienza materiale; né un rimpianto per l'invenzione meccanica;
+né una svalutazione di telefoni o telescopi o di qualsiasi altra cosa.
+È esattamente il contrario. Non svaluto affatto i telefoni;
+mi lamento che non vengano apprezzati. Non
+attacco le invenzioni; attacco l'indifferenza verso le invenzioni.
+Osservo soltanto che sono le stesse persone che se ne vantano quelle che
+in realtà ne sono indifferenti. Non ho nulla da obiettare all'affermazione
+che la scienza del mondo moderno sia meravigliosa; obietto soltanto
+contro il mondo moderno perché non se ne [[Wonder|meraviglia]]. È vero che,
+in rapporto a certe altre questioni politiche o morali,
+[[Doubt|dubito]] che questi trucchi meccanici possano essere usati come prove morali.
+Ma questo non ha nulla a che vedere con la questione dell'abbagliante
+splendore del gioco di prestigio, considerato come gioco di prestigio.
+Se una cosa simile sia una prova sociale ultima è in realtà
+una questione di stabilire se sia una necessità o un lusso.
+E nessuno ha mai dubitato che un gioco di prestigio sia un lusso.
+L'ideale di un contadiname, enunciato da un [[King|re]] di Francia, secondo cui vi
+dovrebbe sempre essere una gallina in pentola, è senza dubbio diverso
+dall'ideale che vi debba sempre essere un coniglio nel cilindro. Ma non
+vi è ragione di [[Doubt|dubitare]] che il [[King|re]] di Francia e il contadino francese
+siano capaci di godere del piacere puramente artistico e scientifico
+di vedere il coniglio estratto dal cilindro con rapidità e destrezza.
+Ora io posso [[Doubt|dubitare]], e dubito, che vi sia una gran superiorità puramente _pratica_
+dello straordinario coniglio sull'ordinaria gallina.
+[[Doubt|Dubito]] che grandi masse di uomini ricavino molto più cibo
+dal coniglio magico di quanto i levrieri ne ricavino dalla lepre meccanica.
+[[Doubt|Dubito]] che il coniglio sia più gustoso uscito dal cilindro di un professore
+in abito da sera che dalla pentola della moglie di un contadino francese
+che per caso sa cucinarlo. In breve, i miei dubbi sui moderni
+congegni materialistici sono dubbi sulla loro utilità ultima
+nella pratica. Ma non ho mai messo in questione la loro poesia, la loro fantasia;
+l'idoneità di un gioco di prestigio così [[Sublime|sublime]] per una festa di bambini.
+Ciò di cui mi lamento è che i bambini moderni hanno dimenticato
+come si strilla.
+
+~||~
+
+_XXXI I film_
+
+È giunto il [[Time|momento]] di protestare contro certi pericoli assai [[Grave|gravi]] nel
+cinema e nei film popolari. Non intendo il pericolo dei film immorali,
+ma il pericolo di quelli morali. Ho, in verità, una precisa obiezione
+ai film immorali, ma diventa sempre più difficile discutere
+di una precisa [[morality|moralità]] con persone la cui stessa immoralità è indefinita.
+E, del resto, i film semplicemente di bassa lega mi paiono assai più
+morali di molti di quelli di alta lega. La pura pantomima da farsa,
+le comiche del crollo rovinoso e del capovolgimento sociale sono, semmai,
+decisamente salutari per l'[[Soul|anima]]. Vedere un banchiere o un agente di cambio o un prospero
+uomo d'affari correre dietro al proprio cappello, scacciato a pedate dalla propria [[house|casa]],
+scaraventato dalla cima di un grattacielo, appeso per una gamba a un aeroplano,
+messo nel mangano, spianato da un rullo compressore, o [[Suffering|soffrire]]
+un qualsiasi simile rovescio di fortuna, tende di per sé piuttosto all'edificazione;
+al senso della precarietà delle cose terrene e della follia
+di quell'[[Pride|orgoglio]] che si fonda sull'accidente della prosperità.
+Ma i film di cui mi lamento non sono quelli in cui persone celebri
+o alla moda diventano buffe e prive di dignità, bensì quelli in
+cui diventano fin troppo dignitose e buffe solo involontariamente.
+
+A questo riguardo, è specialmente il film educativo
+che minaccia di ottenebrare e indebolire l'intelligenza umana.
+Non intendo il film educativo nel senso tecnico o
+scientifico; la presentazione dei particolari precisi
+di qualche scienza o ramo di studio. In queste materie [[Innocent|innocenti]],
+persino l'[[Education|istruzione]] può fare relativamente poco danno al cervello umano.
+Vi sono, per esempio, alcuni film davvero deliziosi,
+che trattano dell'esplorazione e degli aspetti locali della biologia o della botanica.
+Nulla potrebbe essere più graziosamente fantasioso di una simile [[history|storia]] naturale;
+specialmente quando i suoi mostri sembrano gareggiare con lo Snark
+o con i Jumblies, e diventano figure di [[history|storia]] innaturale.
+Ma in quella sorta di [[history|storia]] innaturale non vi è nulla di innaturale.
+Gli Amori dei Pinguini sono senza dubbio tanto puri quanto gli Amori dei
+Triangoli; e vedere un film davvero pregevole in cui un elefante
+per gioco fa a pezzi quattro o cinque fiorenti città industriali
+o avamposti imperiali non fa che realizzare un sogno a occhi aperti già caro a ogni
+sano istinto umano. Dove il vero pericolo comincia a comparire
+non è nella [[history|storia]] naturale, ma nella [[history|storia]]. È nella vicenda
+di quei loquaci e inventivi pinguini di cui il signor Anatole France
+scrisse nel racconto di quella terribile e incalcolabile creatura,
+che è tanto più spietata e devastatrice del più selvaggio
+elefante solitario, giacché non distrugge le città industriali,
+ma le costruisce.
+
+In breve, è in rapporto alla vicenda dell'Uomo, il [[Monster|mostro]]
+di tutti i mostri e il mistero di tutti i misteri, che la nostra
+[[history|storia]] naturale può diventare innaturale nel senso pericoloso.
+E tutti sanno che il modo più comune in cui la [[history|storia]] può
+crescere storta, o diventare innaturale, è attraverso la faziosità e il pregiudizio,
+e il [[Desire|desiderio]] di trarre una morale troppo semplice da un solo lato
+della questione. Ora, è proprio qui che i film di maggior successo
+corrono il rischio di diventare in realtà antieducativi, pur professandosi
+in larga parte educativi. A questo riguardo, sarà [[Well|bene]]
+richiamare due o tre fatti determinanti della situazione generale
+della società e delle arti di oggi. Il primo fatto da comprendere è questo:
+che solo poco tempo fa i pregiudizi più ottusi
+della [[history|storia]] provinciale cominciavano a diventare un po' logori.
+Gli uomini avrebbero ancora preso, come avevano diritto di prendere,
+il proprio partito secondo le proprie simpatie. Ma cominciavano
+a rendersi conto che la [[history|storia]] è fatta di esseri umani,
+e non di eroi e furfanti usciti da un vecchio [[Melodrama|melodramma]] dell'Adelphi.
+Che gli uomini fossero pro o contro [[Queen Elizabeth|la regina Elisabetta]], cominciavano davvero
+a capire che ella era qualcosa di un po' più complesso
+della buona [[Queen|regina]] Bess; e che perfino la sua sventurata sorella si trovava in una situazione
+non del tutto semplificabile con l'uso di un'imprecazione popolare,
+come in Maria la Sanguinaria.
+
+Si cominciava ad ammettere che la grande contesa del Seicento,
+quella sul se l'Inghilterra dovesse essere una Monarchia o un'Aristocrazia,
+non potesse essere adoperata semplicemente per dimostrare che Cromwell non fu
+mai altro che un santo, né Carlo I mai altro che un martire.
+Questo grande mutamento in meglio era in larghissima misura connesso al tramonto
+del vecchio sistema bipartitico. C'era stato un [[Time|tempo]] in cui alla gente
+si diceva di scegliere, non tanto fra Gladstone e Disraeli,
+quanto fra una figura popolare che non era Gladstone e un'altra figura
+popolare che non era Disraeli. Il guardingo Vecchio Uomo di Parlamento,
+con le sue tradizioni tory del Movimento di [[Oxford]], veniva rappresentato
+come un idealista rivoluzionario e scatenato, che dappertutto pretendeva
+che i cieli precipitassero, purché si compisse qualche giustizia utopica.
+Il cinico avventuriero cosmopolita, con la sua romantica devozione
+a Israele e il suo aperto disprezzo per il comune punto di vista
+conservatore, veniva lodato come un gioviale gentiluomo di campagna inglese,
+innocentemente appassionato di raccolti che consistevano soprattutto in primule.
+Queste fatue finzioni elettorali cominciavano a dissolversi;
+in parte per una reazione verso le biografie piuttosto acide di Lytton Strachey,
+in parte per un più sano e liberale interesse storico
+verso personaggi storici che erano davvero esseri umani molto interessanti.
+E poi, quando la [[Truth|verità]] cominciava a trapelare nei libri,
+e persino nei giornali, tutta quella luce fu cancellata da un grande
+e alla moda film, astutamente scritto e brillantemente interpretato,
+in cui Disraeli riappariva ancora una volta come l'Inglese di Dio ricoperto di
+primule e spirante l'[[Innocent|innocente]] patriottismo dei nostri campi natii.
+
+Il secondo fatto da tenere a mente è un certo privilegio quasi analogo
+al monopolio, che appartiene per necessità a cose come il teatro
+e il cinema. In un senso più che metaforico, essi riempiono
+la scena; la dominano; creano il paesaggio.
+Ecco perché non occorre essere puritani per insistere su una
+responsabilità un po' più rigorosa in ogni sorta di recitazione
+che nella materia più sciolta e meno figurativa della letteratura.
+Se un uomo è respinto da un libro, può chiuderlo e aprirne un altro;
+ma non può chiudere un teatro in cui trova ripugnante uno spettacolo,
+né ordinare all'istante a uno dei mille altri teatri di adattarsi al suo gusto.
+Il numero dei teatri è limitato; e persino ai cinema
+c'è qualche limite. Di qui un pericolo reale che la falsità
+storica venga popolarizzata attraverso il film, perché non c'è
+la normale possibilità che un film sia corretto da un altro film.
+Quando compare un libro che espone un dubbio ritratto della [[Queen Elizabeth|regina Elisabetta]],
+generalmente si scoprirà che una mezza dozzina di altri studiosi di storia
+sono indotti a pubblicare altrettante versioni della [[Queen Elizabeth|regina Elisabetta]] nel
+medesimo momento. Possiamo comprare il libro del signor Belloc su Cromwell, e poi
+il libro del signor Buchan su Cromwell; e pagare il nostro denaro e fare la nostra scelta.
+Ma pochi di noi sono in condizione di sborsare il denaro necessario a mettere in scena
+una completa ed elaboratamente allestita versione filmica alternativa di Disraeli.
+La finzione sulla pellicola, la versione di parte nella commedia cinematografica,
+resterà incontraddetta e persino incriticata, in un modo in cui pochi
+libri provocatori possono davvero restare incontraddetti e incriticati.
+Non ci sarà occasione di affrontarla sul suo vasto
+[[Battlefield|campo di battaglia]] di scenografia dispendiosa e moltitudinosa ripetizione.
+E la maggior parte di coloro che ne sono influenzati saprà o si curerà ben poco
+del fatto che essa sia chiamata a render conto da altri critici e altri metodi critici.
+La stessa frase che ho usato con noncuranza, «chiamata a render conto»,
+illustra il punto. Un film falso potrebbe essere confutato in cento libri,
+senza per questo influire molto sul milione di illusi che non avevano mai letto
+i libri, ma soltanto visto il film. La protesta merita di essere sollevata,
+perché il pregiudizio provinciale di questa specie è terribilmente pericoloso
+nell'attuale problema internazionale del momento. È perfettamente
+naturale che le nazioni abbiano un'arte patriottica, e persino, entro certi limiti,
+un'[[Education|educazione]] patriottica. Essa insegna naturalmente alla gente, e specialmente ai giovani,
+a essere fieri dei grandi eroi della loro grande [[history|storia]];
+e a concepire il proprio passato in una sorta di modo poetico, come leggende.
+Ma è proprio qui che possiamo mettere alla prova la differenza fra una leggenda
+e una menzogna. I contorni di un vero [[Hero|eroe]], come Nelson o Sarsfield,
+non si alterano quando la figura viene riempita, negli stadi più maturi
+della conoscenza, dai fatti relativi ai suoi fallimenti, alle sue debolezze o ai suoi limiti.
+L'[[Hero|eroe]] rimane un [[Hero|eroe]]; sebbene il [[Child|fanciullo]], ormai cresciuto,
+sappia che un [[Hero|eroe]] è un uomo. Ma la figura del fittizio
+Beaconsfield non reggerà l'intrusione del vero Disraeli.
+Sarebbe distrutta da tutto ciò che vi era di più interessante
+in Disraeli; persino da tutto ciò che vi era di più genuino in Disraeli.
+Un fantoccio di quella specie non giova affatto al credito o alla gloria nazionale;
+tutti gli stranieri ne ridono, sapendone più di noi;
+e noi stessi possiamo conservare la nostra solennità soltanto non avvicinandoci
+abbastanza da metterci a ridere. È come stendere un mero «velo»
+sugli occhi dell'oscurantismo ufficiale; e dare un nuovo significato reticente
+al titolo di «Lo Schermo».
+
+~||~
+
+_XXXII A proposito del darwinismo_
+
+QUALUNQUE altra cosa si sia evoluta, l'evoluzione non si è evoluta.
+Intendo l'evoluzione come parte dell'[[Education|educazione]]; come un'idea più o meno
+accettata negli ultimi quarant'anni dalla maggior parte delle persone pensanti;
+e forse ancor più dalla maggior parte delle persone non pensanti.
+Coloro che la sostenevano parlavano sempre di crescita e
+di graduale mutamento; ma il loro stesso movimento non era affatto graduale.
+Popolarizzarono un'evoluzione che aveva fin troppo della rivoluzione;
+che arrivava con fin troppa foga; che divenne, come si suol dire,
+l'ultima moda; con alcuni dei suoi esponenti che, senza possibilità di equivoco, smaniavano.
+Essa si opponeva alle idee di creazione [[Supernatural|soprannaturale]] o persino speciale;
+ma la teoria stessa fu creata in un senso molto speciale;
+e fu lanciata e reclamizzata come un miracolo. Molte delle recenti
+rivolte e reazioni e tardive rimesse in discussione sono dovute a quella
+originaria fretta giornalistica; eppure esse stesse rischiano
+di essere trattate a loro volta in modo troppo frettoloso e giornalistico.
+La laboriosità individuale di Darwin fu, invero, minuziosa e paziente; ed egli fu
+personalmente il rovescio esatto di un carattere impetuoso o impaziente.
+Non è per questo meno vero che il darwinismo fu cacciato troppo in fretta
+giù per la gola di tutti, compreso Darwin. Il vecchio Huxley
+aveva tutte le passioni di un pamphlettista e di un uomo di parte; era inoltre
+individualmente e intensamente interessato a certi atteggiamenti etici e
+filosofici tutti suoi, che il darwinismo sosteneva forse più
+di quanto egli stesso non avrebbe altrimenti sostenuto il darwinismo.
+Huxley e Herbert Spencer apprezzavano davvero il darwinismo, come argomento
+a favore dell'agnosticismo. Sarebbe stato molto meglio se avessero coltivato
+un po' più di agnosticismo riguardo al darwinismo.
+
+Tutte le memorie e i ricordi di quel [[Time|tempo]] sono pervasi di quella curiosa
+atmosfera di pregiudizio nuovo di zecca e di combattività precoce.
+La scienza divulgativa amava puntare i riflettori sulle occasioni speciali;
+scontri di partito e sfide particolari di particolari campioni.
+Tutti parlavano della replica di Huxley a Wilberforce come di
+qualcosa di teatrale al pari di un fulmine. Si riteneva che ogni cosa
+dovesse reggersi o crollare in base a un particolare [[debate|dibattito]] fra Huxley e Gladstone
+sui Porci di Gadara. Nessuno pare aver notato il fatto
+che una teoria come il darwinismo, avanzata da un uomo come Darwin,
+fosse pressoché l'argomento più inadatto della terra a venir risolto da una
+battuta in un circolo di dibattito. Nessuno notò che Gladstone era pressoché
+la persona peggiore al mondo tanto per insegnare a un uomo come Huxley
+le verità della teologia quanto per scovare in lui gli errori della scienza.
+L'umanità sapeva che Gladstone era un eloquente oratore, e Huxley diceva
+ch'egli era un copioso imbroglione; ma non era né un filosofo né
+uno storico adatto a trattare la teoria delle prove dei miracoli.
+Era semplicemente il Primo Ministro, passato, presente o futuro;
+e la sua comparsa su quel palco non fece che renderla un'occasione mondana.
+Era proprio questo il male dell'intera occasione.
+Darwin divenne fin troppo alla moda; e il darwinismo prevalse soltanto
+come una moda.
+
+Se le grandi speculazioni biologiche del tardo Ottocento
+fossero rimaste speculative, sarebbero state assai più lente e
+assai più sicure. A questo [[Time|tempo]] avremmo forse davvero fatto il punto
+su ciò che effettivamente si conosce circa la variazione delle specie e su ciò che si può
+soltanto plausibilmente congetturare e su ciò che è mera congettura a caso.
+Invece, si lasciò che un'ipotesi s'indurisse in un'abitudine
+di pensiero; e ogni ipotesi alternativa suscita un'inutile
+eccitazione, come un violento [[Paradox|paradosso]]. Un illustre uomo di scienza,
+in un altro ramo del sapere, ha di recente contraddetto il darwinismo con
+la stessa enfasi e la stessa foga con cui i darwiniani l'affermavano.
+Questa è notizia sui giornali, ma in questo paese esageriamo grossolanamente
+la misura in cui essa è una novità nel mondo scientifico.
+Quando Sir [[Arthur]] Keith e il signor H. G. Wells tentarono di trattare l'antidarwinismo
+come un inaudito [[Paradox|paradosso]], il signor Belloc non ebbe la minima difficoltà a
+nominare cinquanta uomini di scienza di primissimo rango, in tutta Europa, che erano
+dichiarati antidarwiniani. E Sir [[Arthur]] Keith non seppe replicare nulla,
+se non che uno dei cinquanta, l'illustre Professor Dwight,
+non aveva mai in nessun [[Time|tempo]] accettato l'ipotesi darwiniana.
+L'argomento era, a quanto pare, che Dwight non poteva aver ragione,
+perché aveva avuto ragione per tutto il [[Time|tempo]]. Non c'è nulla di nuovo
+nell'attacco puramente scientifico alla teoria darwiniana;
+esso cominciò ben presto dopo che i darwiniani avanzarono la teoria.
+Ma i darwiniani l'avanzarono con un'intolleranza così sbrigativa e
+travolgente che non si tratta più della questione di una teoria scientifica
+avanzata contro un'altra teoria scientifica.
+Non si tratta più di paragonare lealmente ciò che disse Darwin
+con ciò che disse Dwight; anzi, non è affatto una questione.
+La si tratta come una risposta; e una risposta finale e infallibile.
+Ora, non occorre conoscere più dei meri rudimenti della
+controversia biologica per sapere che, su una ventina di
+problemi accessori, essa è per certi versi una risposta assai insoddisfacente.
+Questo non significa necessariamente che non fosse preziosa come suggerimento;
+o che non possa contribuire a suggerire la vera risposta. Darwin fece
+una mole di ottimo lavoro, accumulò una moltitudine di fatti, e li
+collocò in una certa luce sottoponendoli a un suggerimento generale.
+Un tale lavoro non sarebbe dovuto andar sprecato, se la cosa fosse stata trattata
+in maniera ragionevole. Gli evoluzionisti vittoriani ebbero torto;
+non perché aprirono la questione evolutiva, ma perché
+la chiusero.
+
+Poiché gli evoluzionisti vittoriani furono davvero molto vittoriani.
+Meritavano davvero quella sorta di critica che i realisti
+di una generazione più giovane hanno mosso contro la virtù vittoriana
+o l'ipocrisia, in materia di porte chiuse. Eppure il male non
+venne davvero dall'ipocrisia; venne davvero dalla virtù.
+Ma era virtù di un certo tipo puritano; e specialmente di un
+tipo politico. Gli uomini di cui Thomas Huxley fu il più grande erano,
+soprattutto, polemisti; perché erano, soprattutto, moralisti.
+Conducevano i loro dibattiti, persino i loro astratti dibattiti scientifici,
+nello spirito di una sorta di idealistica campagna elettorale.
+Era Darwin contro Gladstone; proprio come era Disraeli
+contro Gladstone. Si appellavano di continuo al paese,
+si rivolgevano al pubblico, aspettandosi un'immediata decisione
+dell'intera comunità, persino sulle speculazioni più specialistiche,
+come se fossero gli elementi più spirituali del giusto e dell'ingiusto.
+Così identificarono il libero scambio con la [[Freedom|Libertà]]; insistendovi con
+una semplicità etica del tutto inapplicabile a una scienza economica.
+E così identificarono la selezione naturale con la [[Nature|Natura]]; con una
+finalità dogmatica del tutto inapplicabile a una scienza biologica.
+La teoria darwiniana era l'[[Dawn|Alba]]; e ogni altra sfumatura di fatto
+o di fantasia era soltanto parte delle tenebre avversarie. Possiamo cogliere
+la differenza in un lampo se soltanto paragoniamo quei grandi e arcigni
+uomini dalle grigie basette con i Greci o con gli uomini del [[Renaissance|Rinascimento]],
+quando speculavano in modo libero e disinvolto su qualche teoria
+delle [[Stars|stelle]], o sul volo degli [[Birds|uccelli]], o sui movimenti del mare.
+La maggiore serietà morale dei vittoriani diede loro tutto
+il vantaggio che la laboriosità e l'annotazione coscienziosa possono dare;
+ma vi è un senso in cui lo spirito scientifico andò perduto
+proprio nei trionfi dell'età scientifica. Erano così amanti
+delle convinzioni che giunsero prematuramente alle conclusioni.
+Divenuti dubbiosi riguardo alle cose sulle quali la convinzione è
+più preziosa, si aspettarono allora che l'[[Imagination|immaginazione]] speculativa rispondesse
+tanto prontamente e concretamente quanto la [[Conscience|coscienza]]. La conseguenza fu
+che risposero fin troppo presto; e cedettero poi alla [[Temptation|tentazione]]
+di tutti i moralisti, quella di porre il veto a ogni sorta di risposta alla risposta.
+Chiunque legga il resoconto di come gli ortodossi funzionari del darwinismo
+trattarono un vero libero pensatore come Samuel Butler riconoscerà
+da segni inequivocabili che i liberi pensatori darwiniani non pensavano
+più liberamente; potremmo dire che non erano più liberi di pensare.
+La conseguenza è che, a questo [[Time|tempo]], quando quella rigida
+e rispettabile porta d'ingresso vittoriana viene improvvisamente spalancata,
+essa produce l'effetto di una [[Resurrection|resurrezione]] o dello squarciarsi di un sepolcro.
+Ma non c'è bisogno di tanta eccitazione; ed è del tutto possibile
+che la reazione seguìta a una simile [[Resurrection|resurrezione]] spinga troppo oltre.
+Sarà peggio ancora se il mondo verrà nuovamente convertito
+senza essere convinto.
+
+~||~
+
+_XXXIII A proposito di romanzi del brivido_
+
+È [[Well|bene]] che gli studiosi devotamente consacrati a quella scienza diramino bollettini, di [[Time|tempo]] in [[Time|tempo]], sullo stato del racconto [[Detective|poliziesco]]: sullo stadio che esso ha da poco raggiunto nel suo presunto progresso o declino odierno. Alcuni sostengono che le possibilità del racconto [[Detective|poliziesco]] saranno presto esaurite. Sono dell'avviso che esista soltanto un numero limitato di modi per assassinare un uomo, o soltanto un numero limitato di uomini che potrebbero plausibilmente e ragionevolmente essere assassinati. Ma questo, di certo, significa prendere del caso una visione troppo cupa e pessimistica. Alcuni sostengono che il racconto [[Detective|poliziesco]] progredirà, sì, ed evolverà, ma evolverà in qualcos'altro; e io penso sempre che quella specie di evoluzione sia una forma di estinzione. Pare che credano che diventerà tanto buono da cessare di esistere: che morirà di pura bontà, come il piccolo corista. Quello che si soleva chiamare romanzo [[Novel|poliziesco]] si dilaterà nel romanzo [[Novel|poliziesco]] dove i problemi sono troppo sottili perché li si possa risolvere chiamando la polizia. Da parte mia, come questione di gusto, posso fare [[Well|benissimo]] a meno della polizia; ma non posso fare a meno dei criminali. E se gli scrittori moderni intendono ignorare l'esistenza del delitto, come tanti di loro già ignorano l'esistenza del peccato, allora la scrittura moderna diventerà più tediosa che mai.
+
+Qui, tuttavia, il mio unico dovere, in quanto arido cronista di fatti scientifici, è di annotare alcuni dei recenti mutamenti nel romanzo [[Novel|poliziesco]], che corrispondono grosso modo ai mutamenti nella [[history|storia]] sociale del nostro [[Time|tempo]]. Mi arrischierò inoltre, nella mia veste di serio consigliere etico del giovane studioso di [[Blood|sangue]] e di terrore, a segnalare alcuni pericoli e svantaggi in queste nuove forme e mode del delitto. Poiché, sebbene la società moderna ci abbia offerto per certi versi un raggio più ampio, e ci abbia fornito varietà di casi o di strumenti ignoti ai nostri padri e alle nostre madri, e a tutti gli altri semplici e casalinghi assassini dei giorni della nostra [[Childhood|infanzia]], pure questo ampliamento e questa varietà non sono un vantaggio senza ombre per l'[[artist|artista]] in fatto di omicidio. Vi sono parecchi modi, in quest'arte come in altre arti della vita, per cui l'apparenza moderna di libertà è oltremodo ingannevole. Più d'una famiglia felice, che si vanti innocentemente di uno zio impiccato nei quieti tempi vittoriani, scoprirebbe di fatto che la carriera del suo congiunto costituisce una storia assai migliore, considerata come storia, di certi più ampi e sfilacciati studi di vita sfrenata, dove vi sono tanti vizi nuovi a coprire le tracce dell'antico delitto.
+
+Vorrei perciò stabilire anzitutto questo canone: che le persone in un mistero d'assassinio davvero cruento debbano essere brave persone. Persino l'uomo che è davvero cruento dovrebbe essere buono, o dovrebbe avere una convincente apparenza di bontà. Ora, molti fra i migliori scrittori moderni di questo genere hanno in parte fallito trascurando questa massima. Partono da un'altra massima, la quale è anch'essa, in sé, una massima perfettamente sana. Partono dall'idea assai ragionevole di offrire al lettore un'ampia scelta di sospetti, affinché l'[[Imagination|immaginazione]] possa librarsi a lungo su tutti quanti prima di piombare (se mai piomba) sul vero colpevole. Purtroppo è proprio qui che il rilassamento dei costumi moderni, per non dire della morale, entra effettivamente a guastare l'effetto. Lo scrittore comincia con qualcuno che fa quello che (a quanto credo) si suol chiamare dare una festa; come preliminare all'atto più privato di scaraventare un'altra festa, nel senso di un'altra persona, giù da una [[Window|finestra]] o dentro un [[Well|pozzo]]. L'intera faccenda ha inizio in un'atmosfera piuttosto surriscaldata di cocktail, con occasionali zaffate di cocaina. E l'incantevole [[Freedom|libertà]] e varietà di un simile ambiente mondano, di questi tempi, consente all'autore di affollare la stanza con ogni sorta di persone che, nel racconto d'un tempo, avrebbero potuto soltanto essere evase da Dartmoor o tornate in libertà vigilata da Botany Bay. I principali ornamenti di questi aristocratici salotti si distinguono non soltanto per essere dei cialtroni, ma per avere tutta l'apparenza di essere dei criminali. Insomma, i sospetti sono così sospetti che potremmo tranquillamente dirli colpevoli; non necessariamente del delitto in questione, ma di una cinquantina d'altri.
+
+Ma vi è un ostacolo evidente in questo comodo modo di spargere il sospetto su un certo numero di personaggi. Lo si può dire in una parola: casi siffatti possono suscitare sospetto, ma non possono suscitare sorpresa. È compito d'un romanzo del brivido produrre un brivido. Ma questi personaggi moderni sono fin troppo raccapriccianti per produrre mai un brivido. Questi dubbi drogati, questi presunti trafficanti di droga, questi sedicenti o semisedicenti eroi di orribili scandali passati... tutti questi vitaioli della vita sregolata hanno un inevitabile tocco di scipitezza. Hanno tutti un elemento che deve rendere insipido qualunque finale della storia. E cioè che nessun lettore si stupirebbe nemmeno un poco d'apprendere che uno qualsiasi di loro, o tutti quanti, avessero commesso il delitto. È vero che, in alcuni dei migliori _romans policiers_ recenti, questa masnada di gaudenti piuttosto bestiali viene spesso introdotta non allo scopo di far condannare qualcuno di loro, ma per distogliere l'attenzione da qualche personaggio apparentemente convenzionale che alla fine viene condannato. Ma il metodo è sbagliato, anche nel migliore dei casi; un'ombra di [[Guilt|colpa]] dovrebbe far fremere; ma non vi è nulla di particolarmente fremente nella scommessa sicura che alcuni di questi ornamenti mondani siano capaci d'essere ladri o malviventi. Se quel che vogliamo è un fremito, il fremito potrebbe trovarsi soltanto nella virtuosa famiglia vittoriana, quando per la prima volta ci si accorgesse che la gola della nonna era stata tagliata dal curato o dalla istitutrice della camera dei bambini un po' troppo [[Well|per bene]]. Persino l'[[Love|amore]] per i racconti d'assassinio, come le altre tendenze morali e religiose, ci ricondurrà alla [[Home|casa]] e alla vita semplice.
+
+Penso vi sia un altro punto debole, che è la cosa peggiore anche nei migliori romanzi del brivido. Anch'esso è legato ad alcuni recenti mutamenti sociali; come alla moda scientifica della psicoanalisi, che in genere è più una moda che una scienza. È legato altresì a una certa interpretazione meccanica o materialistica degli interessi umani, che spesso l'accompagna. Alludo all'espediente di distogliere l'attenzione dal vero criminale sospettandolo al principio e non soltanto alla fine. Assume in genere la forma di qualche apparente condanna o confessione, dapprima respinta come impossibile, e infine trovata, per qualche insospettata trovata ingegnosa, essere stata dopotutto possibile. Spesso la prima accusa viene respinta con qualcuno dei dogmi della nuova psicologia. Il curato, poniamo, confessa d'aver scavalcato un muro incredibilmente alto per assassinare la nonna; e [[The Professor|il professore]] di psicologia (dagli occhi penetranti) fa notare che un'educazione teologica aveva represso anziché liberare la _libido_ del curato nella direzione dello sconfinamento e dello scasso. Egli aveva sognato di scavalcare un muro alto; o forse l'altezza simboleggiava la levitazione e l'ascesa in cielo; è una scienza accomodante. Poi, quando pensiamo che il curato sia scagionato e fuori causa, ci solleva scoprire nell'ultimo capitolo che è lui, dopotutto, il criminale; avendo tanto lui quanto l'autore celato fino a questo istante il fatto che il curato deteneva il campionato internazionale di salto in alto, e aveva nascosto un'asta da salto fra le pertiche usate per il barchino.
+
+Anche questo metodo possiede ogni qualità dell'ingegnosità, e persegue il fine oltremodo legittimo di spostare il fascio di luce dal colpevole all'[[Innocent|innocente]]. Eppure a mio avviso esso fallisce, e c'è una ragione per il suo fallimento. L'errore è l'errore materialista; lo sbaglio di supporre che il nostro interesse per l'intreccio sia meccanico, quando in realtà è morale. Ma l'arte non è mai amorale, benché talvolta sia immorale; vale a dire, morale secondo la [[morality|moralità]] sbagliata. L'unico brivido, perfino di un comune romanzo del brivido, ha in qualche modo a che fare con la [[Conscience|coscienza]] e con la volontà; comporta lo scoprire che gli uomini sono peggiori o migliori di quanto sembrino, e ciò per loro stessa scelta. Perciò non potrà mai esserci tanta eccitazione per la mera [[Truth|verità]] meccanica di come un uomo sia riuscito a compiere qualcosa di difficile quanto per il mero fatto che egli abbia voluto compierlo. In questi casi abbiamo già considerato il criminale in quanto criminale; ci si chiede soltanto di considerarlo di nuovo come uno scassinatore o come un criminale scaltro e astuto. L'effetto di ciò è sempre una sorta di bathos; un anticlimax. Lo dico con rammarico, poiché ciò compare in alcuni dei più bei racconti gialli che io conosca. Ma, anche se il libro è dei migliori, mi fa sempre sentire che l'ultima pagina è la peggiore; laddove l'ultima pagina dovrebbe essere la migliore di tutte.
+
+Noto un realismo curiosamente moderno e cupo che comincia a posarsi su alcuni dei riconosciuti racconti di omicidio, un tempo tanto gai, [[Innocent|innocenti]] e rinfrescanti. Un tempo la nostra arte del [[Detective|detective]] era davvero quasi un'arte amorale; e perciò l'unica che riuscisse a rimanere quasi un'arte morale. Ma le ombre della [[Prison|prigione]]-[[house|casa]] — o, peggio ancora, del riformatorio umanitario e della clinica psicologica — cominciano a serrarsi attorno al ragazzo che cresce e al promettente macellaio dei suoi simili. Ci vengono fornite descrizioni minuziose di deprimenti interni domestici, come se ci si chiedesse mutamente se una moglie tanto immersa nel bucato o nella spolveratura o nelle [[Spring|pulizie di primavera]] non fosse in fin dei conti destinata a uccidere o a essere uccisa in ogni caso. Va tutto molto [[Well|bene]], ma vorrei far notare al sanguinario sofista che l'argomento può essere rovesciato. Se è vero che una moglie sviata può cominciare sconsideratamente facendo il bucato, e trovarsi di fronte a ogni sorta di vessatorie conseguenze, includendo forse la [[Death|morte]] violenta, è del pari vero che essa può cominciare usando l'omicidio come un minuscolo aggeggio nel macchinario domestico, prendendo la [[Death|morte]] violenta come cosa di poco conto, quale soluzione semplice e pratica; e poi, dopotutto, ritrovarsi coinvolta in una quantità del tutto smisurata di bucato.
+
+Non potrebbe esservi esempio più tetro di questa [[Tragedy|tragedia]] della povera [[Lady Macbeth]]. Aveva i suoi difetti, forse, ma non v'è alcun fondamento per accusarla di un radicato o primordiale gusto per l'igiene. Quando era giovane e [[Innocent|innocente]], la sua [[Imagination|immaginazione]] pare non fosse affatto contaminata dall'impura immagine del sapone. Esiterei perfino ad accusarla di [[Spring|pulizie di primavera]] nel senso serio, antisociale e peccaminoso del termine. In ogni caso, un certo numero di [[Birds|uccelli]] assai diversi pare avesse nidificato indisturbato sopra l'ingresso principale delle sale di ricevimento; il che fa pensare che ella fosse un tempo un essere umano, e più interessata alle [[Spring|nidiate di primavera]] che alle [[Spring|pulizie di primavera]]. Sfortunatamente, come un così gran numero di persone che vivono in tempi oscuri, barbari, ignoranti e feroci, ella era piena di idee moderne. Intendeva soprattutto sostenere le due più luminose e filosofiche fra le idee moderne; primo, che è spesso oltremodo conveniente fare ciò che è sbagliato; e secondo, che ogni qualvolta è conveniente fare ciò che è sbagliato, esso diviene immediatamente ciò che è giusto. Illuminata da questi due scientifici riflettori del ventesimo secolo nel suo brancolare fra i nudi alberi e i pilastri di pietra del Medioevo, [[Lady Macbeth]] ritenne cosa del tutto semplice e sbrigativa uccidere un vecchio signore di ben scarso valore ai fini della [[Survival|sopravvivenza]], e offrire i propri talenti al mondo nella veste di [[Queen|Regina]]. Sembra abbastanza naturale; alla maggior parte di noi, avvezzi alla morale dei romanzi moderni, apparirà quasi banale e tediosamente ovvio. Eppure, guardate quale intoppo vi si celava dopotutto!
+
+Su questa sola donna votata e dedita alla rovina, che non aveva fatto altro se non un pochino di omicidio a cui sul [[Time|momento]] aveva dato ben poco peso (come dice De Quincey), piombò dal cielo, come il [[deluge|Diluvio]], la mortale maledizione della Pulizia. Ella, che pare non avesse mai conosciuto simili morbosità prima d'allora, era torturata da orride suggestioni di lavarsi le mani, e perseguitata da furie che paiono aver assunto le fattezze di moderni commessi viaggiatori che offrivano diverse marche di sapone. Quelle ambizioni della massaia, che al moralista moderno paiono causa tanto ovvia di omicidio, erano, di fatto, esasperate all'inverosimile nel suo caso quale conseguenza dell'omicidio. Fu la peggiore condanna dell'assassina il volere fare il bucato, non di lunedì, ma a mezzanotte; il volere fare le [[Spring|pulizie di primavera]], non nella [[Spring|primavera]] dell'anno, ma nel bel mezzo della [[Night|notte]]. Chi oserà dire con leggerezza che un omicidio o due non abbiano importanza, quando possono condurre l'assassina a divenire tanto igienica?
+
+Le menti sinistre possono essere ottenebrate da oscuri e indegni sospetti che le vedute qui discusse non siano del tutto serie; ma alcuni dei moralisti moderni che caldeggiano l'omicidio e altre semplici soluzioni delle difficoltà sociali sono seri con una gravità dalla gola arida che nessuna [[Satire|satira]] saprebbe simulare. E perfino i miei pregiudizi accesi sul versante negativo non sono privi di spasmi di sincerità. Certo non mi piace quella Religione delle Abluzioni che è sempre stata in realtà la Religione dei Farisei; anche quando si mascherava da Religione degli Anglosassoni o Religione dei Cristiani Muscolari. Me ne feci beffe quando la si adorava ciecamente, benché io sia vissuto abbastanza da vederla derisa in modo troppo cieco e sommario, come Religione dei Pukka Sahibs o Religione degli Uomini della Public School. E so che nella sua forma domestica essa può talvolta produrre un [[Puritanism|Puritanesimo]] che è invero assai prossimo al Fariseismo. Ma la considererei tuttora piuttosto un sintomo del male sociale che una causa necessaria del delitto sociale. La signorina Miggs farà talvolta quasi altrettanto chiasso per una macchia di grasso quanto [[Lady Macbeth]] per una macchia di [[Blood|sangue]]. Ma dedurre da ciò che siamo tenuti a uccidere la signorina Miggs, e che [[Lady Macbeth]] era tenuta a uccidere [[Duncan]], e che ognuno è tenuto a uccidere chiunque gli capiti di trovare molesto per una ragione qualsiasi per un tratto considerevole di [[Time|tempo]] — questa è una delle deduzioni dubbie e insinuanti che cominciano a comparire, più o meno in via tentativa, in molte delle tragedie pubblicate ai nostri [[Time|giorni]]; e vorrei protestare contro ogni simile selvaggio fatalismo, prima che divenga più esplicito. Esso è, naturalmente, soltanto la conseguenza logica, applicata al problema dell'omicidio, di ciò che oggi si applica ovunque al problema del [[Marriage|matrimonio]]. È la teoria secondo cui non esiste una soluzione intollerabile di un problema, ma soltanto un'accettazione intollerabile di un problema. È la teoria secondo cui nulla può mai essere insopportabile tranne il dover sopportare. È interessante vedere con quanta rapidità e quiete lo stesso spirito etico stia già cominciando a operare in altri campi del pensiero. Mi pare davvero assai meno fantastico dire che una mania per il lavarsi fosse una mite e misericordiosa punizione per l'omicidio, che dire che l'omicidio sia una giusta e ragionevole punizione per una mania del lavarsi. Ma, in ogni caso, protesto contro quel gesto arbitrario di [[Self|auto]]-abluzione e di [[Self|auto]]-assoluzione con cui certi personaggi delle storie moderne concludono la confessione dei loro delitti; come quel debole [[Tyrant|tiranno]] che tentò di combinare i contrari del dispotismo e dell'irresponsabilità lavandosi le mani quando ebbe consegnato l'[[Innocent|innocente]] alla [[Death|morte]].
+
+~||~
+
+_XXXIV Di mendicanti e soldati_
+
+MI diverte pensare che, fra tutte le invocazioni del Natale e le invocazioni alla [[Charity|carità]] natalizia, io sia probabilmente in minoranza nel pronunciare un qualche particolare e positivo elogio dei cantori di Natale. È abbastanza comune celebrare la gioviale stagione facendo battute sui cantori di Natale, ma esse sono generalmente della stessa vena delle battute sui conti di Natale. Si dice di continuo sui giornali (e perciò dev'essere vero) che dappertutto siamo cresciuti nelle simpatie sociali e nei sentimenti di fratellanza umana, e talvolta si dice persino che tutte le classi vanno riavvicinandosi in un mutuo intendersi. Sono certo di [[Hope|sperare]] che sia così; e in effetti penso che, sotto certi speciali aspetti sociali, così sia. Ma noto che, in molte case dove una generazione precedente accoglieva i cantori e gli intonatori di [[carol|canti natalizi]], anche se in segreto brontolava contro di loro, con tutta la cortesia esteriore e la [[Resignation|rassegnazione]] del duca [[Theseus|Teseo]] che ascolta la recita di Piramo e Tisbe in _A Midsummer [[Night]]'s Dream,_ molti di una generazione più tarda si sono fatti meno pazienti e meno educati. Noto anche che, su vasti distretti della moderna civiltà urbana, intere strade sono tappezzate di manifesti che vietano gli ambulanti e le grida di strada; affinché l'antica istituzione del venditore girovago o l'ultima delle vecchie musiche di [[London|Londra]] non disturbi coloro che dentro sono intensamente occupati, [[Hope|speriamo]], a studiare libri di etica evoluzionistica scritti da economisti di Cambridge, i quali dimostrano con tanto radioso splendore la necessità dei contatti sociali e la rimozione di ogni barriera tra classe e classe. Avendo letto un numero enorme di libri di quel genere ai miei [[Time|tempi]], non sono ancora del tutto persuaso che, sotto ogni riguardo, essi siano invariabilmente più umani e divertenti delle chiacchiere di [[Autolycus|Autolico]] o del motivo di «Cherry-Ripe».
+
+Ma vi è un caso speciale per gli intonatori di [[carol|canti natalizi]], perché vengono in un [[Time|tempo]] in cui tutta la nostra tradizione ci ha sempre detto di essere caritatevoli verso gli estranei, persino verso i mendicanti. Naturalmente, gli intonatori di [[carol|canti natalizi]] non sono in alcun senso, quale che sia, dei mendicanti. Sono persone che offrono qualcosa in cambio di denaro; può darsi che noi non lo si giudichi degno di quel denaro, e per l'appunto io penso esattamente la stessa cosa di circa tre quarti delle cose che vengono più strombazzate e spinte nel moderno mercato degli affari. Ma nella misura in cui molti di noi effettivamente pagano per l'intrattenimento, anche quando non desiderano affatto l'intrattenimento, e lo fanno per motivi di [[Charity|carità]], i cantori o gli intonatori di [[carol|canti natalizi]] possono in tal senso essere posti nella stessa classe dei mendicanti, e sprofondare all'istante nell'abietta e degradata condizione di Omero o di san Francesco d'Assisi. Ed è intorno a questo problema dei mendicanti, o di coloro che sotto un certo aspetto si trovano nella posizione di mendicanti, che mi sento incline a sollevare una questione assai generale e a osservare un generale paragone.
+
+Accade che io stesso rappresenti, più o meno, una generale [[philosophy|filosofia]] morale che fino a pochissimo tempo fa era la generale [[philosophy|filosofia]] morale della maggior parte delle nazioni e persino della maggior parte delle confessioni in Europa. E in nulla quella generale tradizione dei nostri padri fu più criticata dai nostri contemporanei quanto nella sua presunta soddisfazione per la [[Charity|carità]] casuale e sporadica; ovvero, in altre parole, l'abitudine di dar denaro ai mendicanti. Ora, c'è qui un parallelo piuttosto interessante, tra l'atteggiamento del diciannovesimo secolo verso il problema del mendicante e l'atteggiamento del ventesimo secolo verso il problema del soldato. Fin troppo spesso, e a profonda vergogna dei governi, essi erano gli stessi individui. C'era una filastrocca di mendicanti, nella mia fanciullezza, che diceva: «Ecco che viene un povero soldato da Botany Bay; che cos'hai da dargli oggi?». Agli occhi di molti moderni umanitari e filantropi scientifici (che di certo non avrebbero avuto nulla da dargli), egli sarebbe stato fulminato da una specie di serie e crescendo di delitti; orribile perché era un mendicante; orribile perché era un galeotto, di Botany Bay o di qualunque altra colonia penale; e più orribile di tutto perché era un soldato. Ma tanto nella sua veste di mendicante quanto nella sua veste di soldato egli offre un'occasione per spiegare un certo punto di vista d'altri tempi, che immagino la maggioranza della gente moderna non comprenda affatto.
+
+Quella gente moderna che, assai più di qualsiasi gente antica, ha rifiutato e respinto i mendicanti in quanto tali non era semplicemente brutale o taccagna. La cosa toccò forse il suo peggio nel più nero [[Time|periodo]] dell'[[Individualism|individualismo]] industriale, quando persino le teorie erano brutali e taccagne; potremmo quasi dire, in certi casi, che gli ideali erano brutali e taccagni. Ma ciò sarebbe ingiusto verso un gran numero di teorici e idealisti che davvero credevano in teorie e ideali plausibili. La prima teoria che tenne il campo era press'a poco questa: che fosse antieconomico e perciò antietico rattoppare la posizione di persone che si trovavano nella posizione sbagliata e persino nel luogo sbagliato. La teoria era che una simile persona avrebbe alla fine potuto trovare il suo posto quando l'intera comunità economica avesse potuto trovare il proprio livello, e ciascuno raggiungesse la produzione più a buon mercato al giusto profitto o prezzo. L'ideale, per quanto vago, era quello di una comunità in cui ognuno vivesse produttivamente e proficuamente, e nessuno vivesse improduttivamente e senza profitto. Dato quell'ideale, o una qualsiasi reale fede in quell'ideale, non è difficile vedere che il mendicante appare un'anomalia che dovrebbe scomparire. Sfortunatamente, l'ideale è scomparso e il mendicante è rimasto. Nessuno crede più che il mero [[Individualism|individualismo]] e la concorrenza mai, di per sé, sfoceranno in quel paradiso economico del dare e avere. La [[Death|morte]] di quell'illusione fu affrettata dai socialisti. E qualunque cosa non vada nel socialismo, esso aveva pienamente ragione su ciò che non va nell'[[Individualism|individualismo]]. Ma il socialista, esattamente quanto l'individualista, necessariamente e naturalmente considerava il mendicante un'anomalia da abolire. Il suo modo di abolirlo era di progettare una serie di Utopie in cui lo Stato avrebbe trovato a ciascuno il lavoro migliore e pagato a ciascuno il salario migliore. Non sto criticando quelle Utopie proprio ora, o piuttosto le sto criticando soltanto su un piccolo punto. Per quanto riguarda questo ragionamento non c'è nulla contro di esse, se non che non sono accadute. Persino tra i bolscevichi, dove qualcosa accadde, non fu l'abolizione della mendicità, che ciò fosse colpa dei bolscevichi o no. Un uomo ricco nella carestia dell'Ucraina si troverebbe di fronte esattamente lo stesso problema dei mendicanti di un uomo ricco nella carestia irlandese. Ora, quando una teoria dopo l'altra così sorge e cade, e una promessa utopica dopo l'altra viene fatta e infranta, non è comprensibile che alcuni di noi ritengano [[Well|bene]] salvare anche un solo uomo dalla fame, mentre il mondo va decidendo quanti secoli occorreranno perché la fame scompaia?
+
+Come ho accennato, vi è qualcosa della medesima idea nel tollerare il soldato e nel tollerare il mendicante. Nessuno desidera che alcuno chieda l'elemosina o che alcuno combatta. Ma quando promessa dopo promessa di pace universale viene infranta, e conferenza dopo conferenza abbandona il compito di stabilire una giustizia internazionale, è poi così strano che qualcuno voglia ancora qualcosa a difesa della giustizia nazionale, nel senso della giustizia verso la propria nazione? E se il mendicante e il soldato paiono destinati a rimanere, _giacché_ paiono destinati a rimanere, allora sento con la massima convinzione che sia meglio che essi non vengano considerati come mere macchie o pestilenze, ma piuttosto alla luce delle virtù tradizionali associate alla [[Tragedy|tragedia]]: l'uno alla luce della [[Charity|carità]] e l'altro della cavalleria. Non mi aspetto che tutti, e forse nemmeno che uno solo, concordino interamente con questa opinione, ma [[Hope|spero]] che qualcuno accetti almeno il compromesso nel caso dei cantori di [[carol|canti natalizi]] o dei suonatori girovaghi.
+
+~||~
+
+_XXXV A proposito del Sacrificio_
+
+IL mondo non ha ancora avuto la felicità di leggere la mia grande opera di prossima uscita, _In difesa del Sacrificio Umano,_ ovvero _Moloch, la [[Hope|Speranza]] del Mondo Moderno,_ in nove volumi, con tavole e diagrammi illustranti tutti i vantaggi dell'Omicidio Rituale, e il lato religioso del cannibalismo. È persino possibile, ahimè, che il lettore non abbia mai il rapimento di leggere questa grande monografia scientifica; poiché ho per le mani moltissimi altri impegni, nella distrazione ed eccitazione dei quali è possibile che il mio primo ardente e giovanile entusiasmo per il Sacrificio Umano si sia alquanto affievolito, col passare degli anni e il consolidarsi di convinzioni più moderate. Ma per quanto [[Doubt|dubiti]] che potrei, a questo [[Time|punto]], indurmi a sacrificare un neonato a Moloch, e per quanto la mia prima fanciullesca impazienza dinanzi al blando compromesso adottato nei casi di Isacco e di Ifigenia sia da tempo svanita, continuo a ritenere che il Sacrificio Umano sia infinitamente più decoroso e dignitoso di certe operazioni scientifiche proposte al [[Time|tempo]] presente. Perlomeno il Sacrificio Umano è umano; assai più umano dell'[[Humanitarianism|umanitarismo]]. E quando i moderni uomini di medicina si alzano gravemente a proporre che gli esseri umani vengano rinchiusi in camere letali, ogniqualvolta vi sia motivo di supporre che siano stanchi di vivere, io sono ancora (relativamente) disposto a gridare: «Datemi Moloch e i cannibali».
+
+Si consideri anzitutto il punto fondamentale: che l'altare pagano trattava almeno la vita di un uomo come qualcosa di prezioso, mentre la camera letale tratta la vita di un uomo come qualcosa di privo di valore. La vita di un uomo veniva offerta agli dèi perché era preziosa; più preziosa del miglior toro o del più bell'ariete, o delle cose scelte tra le greggi e gli armenti, che venivano sempre scelte perché elette. Ma i moderni, che non credono nell'esistenza degli dèi, finiscono col non credere nemmeno nell'esistenza degli uomini. Essendo evoluzionisti scientifici, non sanno distinguere tra un uomo e una pecora. Ed essendo cittadini altamente civilizzati, sarebbero probabilmente pessimi giudici della differenza tra una buona pecora e una cattiva. Perciò vi è nelle loro operazioni sacrificali una sorta di qualità sprezzante e indifferente, contraria all'idea stessa del sacrificio, persino nella sua forma più tetra e sanguinaria. Parlano sempre di eliminare gli inadatti, di sbarazzarsi della popolazione in eccesso, di segregare i deboli di mente, o di distruggere i disperati; e ciò conferisce a tutta la loro opera un carattere di disprezzo. Ora, persino nei più vili riti [[Blood|di sangue]] dei barbari poteva esservi crudeltà, ma non vi era disprezzo. Farsi tagliare la gola dinanzi a un brutto idolo di pietra era un complimento; benché forse un complimento che avreste cortesemente declinato e allontanato con un gesto.
+
+Avrebbe implicato che voi eravate, secondo le parole dell'antica consuetudine feudale del censo, la Bestia Migliore. E per quanto bestiali poteste giudicare le persone attorno a voi, e le loro vedute religiose e abitudini liturgiche, vi sarebbe stata una certa soddisfazione nell'essere la bestia migliore tra loro. Il Sacrificio Umano aveva attorno a sé questo grande, benché decaduto, splendore: che esso era perlomeno l'esatto contrario della [[Survival|Sopravvivenza]] del Più Adatto. Come tutte le morti dei martiri e degli eroi, era la Resa del Più Adatto. I distruttori scientifici parlano necessariamente in termini opposti e diffondono un tono opposto. Essi sacrificano la pecora nera del gregge; il toro impazzito dell'armento; gli sventurati della comunità umana che scelgono di considerare folli o semplicemente deboli di mente. Non si limitano a uccidere, ma annientano; non solo nel senso di ridurre le persone a nulla, ma persino di considerarle nessuno. La vittima sacrificale veniva sempre considerata qualcosa; era persino rispettata come qualcuno. La vittima era spesso una principessa la cui [[Beauty|bellezza]] era ammirata, o un grande nemico il cui [[Courage|coraggio]] era invidiato. Alcuni hanno detto che quest'ultimo fosse all'origine del cannibalismo; nel qual caso sarebbe un complimento assai lusinghiero essere cotto e mangiato; e alquanto uno sgarbo o un ghigno, per qualsiasi gentiluomo di sensibile costituzione, essere risparmiato e lasciato in vita. Il lettore può tuttavia essere sollevato d'apprendere che non raccomando davvero l'inclusione del cannibalismo e del sacrificio umano tra le innovazioni ritualistiche della Scuola Progressista in seno alla Chiesa.
+
+La [[Truth|verità]] rimane, tuttavia, anche nel significato letterale e latino di sacrificio. Esso significa rendere sacra una cosa; ovvero, in questo caso, rendere sacro un uomo. E renderlo sacro è renderlo separato; qualcosa di appartato, da non confondersi con le greggi e gli armenti e le bestie che periscono. Ora il male opposto, quale esiste in tanta filantropia scientifica, è la tendenza a trattare gli uomini in mandria; a trattarli come pecore; e non solo ad annoverarli tra le bestie che periscono, ma a porre particolare cura affinché essi periscano davvero. E questa è una tirannide di specie nuova, se paragonata persino alla vecchia esecuzione dispotica, per [[Alone|non dire]] dell'antico sacrificio ieratico. Persino le esecuzioni pubbliche, oggi convenzionalmente condannate, avevano questa sorta di selvaggia giustizia: che non privavano l'attore principale delle luci della ribalta. Ma il nuovo raggio di [[Death|morte]] della distruzione scientifica non isolerebbe personalità e individui come fa la ribalta. E vi è il pericolo che il fatto stesso di trattare con vite che si suppongono futili o prive di tratti o meramente scomode e sgradevoli, invece che con grandi delitti o bestemmie, possa introdurre nell'impresa uno spirito peggiore del semplicemente crudele; perché semplicemente insensibile.
+
+È uno scherzo prediletto fra gli storici più solenni ricordare che Robespierre,
+al quale si attribuisce, a lode o a biasimo, la ghigliottinatura di migliaia di nemici
+della sua stessa teoria, cominciò in realtà la propria vita politica con un'argomentazione
+in favore dell'abolizione della pena capitale. Meno spesso si osserva,
+benché sia in verità uno scherzo migliore, che egli si valse dell'unico argomento davvero
+buono per l'abolizione della pena capitale. Disse:
+«Ogni [[Time|volta]] che uccidi un uomo per legge, diminuisci qualcosa
+della sacralità dell'Uomo.» Ma il sacrificio umano, quali che fossero le sue altre
+piccole debolezze, non diminuiva affatto la sacralità dell'Uomo.
+Dal punto di vista di quella particolare eresia pagana,
+anzi accresceva la sacralità dell'Uomo. Poiché era fondato
+sul principio opposto, che la cosa migliore debba essere sacrificata,
+ossia resa sacra. E benché questa particolare forma del sentimento
+sia barbara e ottenebrata, e nella pratica morale abominevole,
+il sentimento in sé è di quelli che dovrebbero essere compresi meglio
+di quanto non lo siano in ciò che comunemente si chiama un'età dei lumi.
+Purtroppo, gli illuminati sono anche ottenebrati. Non sembrano mai
+gettare alcuna luce su queste parti tanto misteriose e interessanti
+della [[Nature|natura]] e della [[history|storia]] dell'Uomo; e poiché non riescono a comprendere
+l'idea nelle sue manifestazioni più alte e più pure, è naturale che
+ne rimangano semplicemente sconcertati nelle sue più basse e più brutali.
+Ma una parte enorme della [[history|storia]] umana resterà per sempre
+inintelligibile a coloro che non sanno nemmeno concepire quest'idea:
+l'idea di rinunciare a una cosa non perché essa sia cattiva, ma perché
+è buona.
+
+Parlando sul serio, s'intende, la maggior parte dei sacrifici umani tende a essere disumana,
+perché tende a essere [[diabolist|diabolica]]. La linea non sempre viene tracciata
+subito, né tracciata con facilità, fra una divinità alquanto tenebrosa e spietata
+e un demonio vero e proprio. Ma una cosa almeno possiamo imparare
+dalla [[history|storia]] reale del mondo, ed è come evitare
+un abbaglio commesso da più della metà delle storie del mondo.
+Qualunque altra cosa sia vera, non è vero che i riti del [[Blood|sangue]] appartengano interamente
+a popoli preistorici o anche soltanto primitivi. Gli storici progressisti,
+di una scuola che ormai non progredisce più tanto visibilmente, fecero del loro meglio
+per suggerire e insinuare che una civiltà complessa sia una garanzia completa
+contro credenze innaturali o cerimonie crudeli. Non lo è affatto.
+Alcune fra le culture più civili e più altamente organizzate,
+come Cartagine al culmine della sua ricchezza, ebbero il sacrificio umano nella sua forma peggiore.
+La cultura, come la scienza, non è protezione contro i demoni.
+E il povero Robespierre era più vicino alla [[Truth|verità]] dei progressisti che vennero dopo
+quando disse che non v'era protezione per lo Stato
+se non la Virtù e il Culto di Dio.
+
+~||~
+
+_XXXVI Sui matrimoni reali_

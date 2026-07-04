@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/charlesdickens-(chesterton)">CharlesDickens</a></div>
 </nav>
@@ -6377,5 +6379,2406 @@ of the world.
 
                   (Provided by Mitsuharu Matsuoka, Nagoya University, Japan,
                                                             on 6 July 1998.)
+
+----------------------------------------------------------------------------
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/charlesdickens-(chesterton)">CharlesDickens</a></div>
+</nav>
+
+
+----------------------------------------------------------------------------
+
+Gilbert Keith Chesterton
+
+Charles Dickens
+
+PARTE PRIMA
+
+INDICE
+
+                 * CAPITOLO I
+                   L'EPOCA DI DICKENS
+                 * CAPITOLO II
+                   L'INFANZIA DI DICKENS
+                 * CAPITOLO III
+                   LA GIOVINEZZA DI DICKENS
+                 * CAPITOLO IV
+                   «IL [[Pickwick|CIRCOLO PICKWICK]]»
+                 * CAPITOLO V
+                   LA GRANDE POPOLARITÀ
+                 * CAPITOLO VI
+                   DICKENS E L'[[America|AMERICA]]
+
+----------------------------------------------------------------------------
+
+CAPITOLO I
+
+L'EPOCA DI DICKENS
+
+Gran parte delle nostre difficoltà moderne, in fatto di religione e d'altro, nasce semplicemente da questo: che confondiamo la parola «indefinibile» con la parola «vago». Se qualcuno parla di un fatto spirituale definendolo «indefinibile», subito ci raffiguriamo qualcosa di nebuloso, una nube dai margini indeterminati. Ma questo è un errore perfino nella più ordinaria [[logic|logica]]. Ciò che non può essere definito è la cosa prima; il fatto primario. Sono le nostre braccia e le nostre gambe, le nostre pentole e i nostri tegami, a essere indefinibili. L'indefinibile è l'indiscutibile. L'uomo della porta accanto è indefinibile, perché è troppo reale per poter essere definito. E vi sono taluni per i quali le cose spirituali hanno la medesima fiera e concreta prossimità; taluni per i quali Dio è troppo reale per essere definito.
+
+Ma esiste una terza classe di termini primari. Vi sono espressioni popolari che tutti usano e nessuno sa spiegare; che l'uomo saggio accetta e venera, come venera il [[Desire|desiderio]] o le tenebre o qualunque cosa elementare. I saccenti del circolo di dibattito pretenderanno che egli definisca i propri termini. E, da uomo saggio, si rifiuterà recisamente. Questo primo termine inspiegabile è il più importante di tutti. La parola che non ha definizione è la parola che non ha sostituto. Se un uomo torna di continuo a qualche parola come «volgare» o «virile», non si creda che la parola non significhi nulla perché egli non sa dire che cosa significhi. Se sapesse dire che cosa la parola significa, direbbe ciò che essa significa invece di dire la parola. Quando il Game Chicken (quel fine pensatore) continuava a ripetere al signor Toots: «È meschino. Ecco che cos'è: è meschino», adoperava il linguaggio nel modo più saggio possibile. E che altro avrebbe potuto dire? Non esiste parola per «meschino» se non «meschino». Un uomo dev'essere assai meschino egli stesso prima di arrivare a definire la meschinità. Proprio perché la parola è indefinibile, la parola è indispensabile.
+
+Nel discorrere quotidiano, o in uno qualsiasi dei nostri giornali, possiamo imbatterci nella frase vaga ma importante: «Perché oggi non abbiamo grandi uomini? Perché non abbiamo grandi uomini come Thackeray, o Carlyle, o Dickens?». Non liquidiamo questa espressione perché appare vaga o arbitraria. «Grande» significa davvero qualcosa, e la prova della sua realtà si trova osservando con quanta istintiva e decisa sicurezza lo applichiamo ad alcuni uomini e non ad altri; soprattutto, con quanta istintiva e decisa sicurezza lo applichiamo a quattro o cinque uomini dell'età vittoriana, quattro o cinque uomini fra i quali Dickens non era il minore. Il termine risulta calzare una cosa ben precisa. Qualunque cosa significhi la parola «grande», Dickens era ciò che essa significa. Perfino gli schizzinosi e gli scontenti che non sanno leggere i suoi libri senza una continua esasperazione critica userebbero di lui quella parola senza fermarsi a riflettere. Sentono che Dickens è un grande scrittore anche se non è un buono scrittore. È trattato come un classico; ossia come un [[King|re]] che ormai può essere abbandonato, ma che ormai non può essere detronizzato. L'atmosfera di questa parola gli resta attaccata; e la cosa curiosa è che non riusciamo a farla aderire a nessuno degli uomini della nostra generazione. «Grande» è il primo aggettivo che il più altezzoso critico moderno applicherebbe a Dickens. E «grande» è l'ultimo aggettivo che il più altezzoso critico moderno applicherebbe a se stesso. Non osiamo pretenderci grandi uomini, nemmeno quando pretendiamo di essere loro superiori.
+
+Vi è dunque un significato vitale in questa idea di «[[Greatness|grandezza]]», o nei nostri lamenti sulla sua assenza nel nostro [[Time|tempo]]? Alcuni dicono, in verità, che questo senso della mole non è che un miraggio della distanza, e che gli uomini stimano sempre grandi i morti e piccoli i vivi. Pare che pensino che la legge della prospettiva nel mondo mentale sia l'esatto contrario della legge della prospettiva nel mondo fisico. Credono che le figure si ingrandiscano man mano che si allontanano. Ma questa teoria non si può far corrispondere ai fatti. Non ci mancano i grandi uomini ai nostri giorni perché rifiutiamo di cercarli ai nostri giorni; al contrario, li cerchiamo tutto il santo giorno. Non siamo, in realtà, meri esempi di coloro che lapidano i profeti e lasciano ai posteri il compito di erigerne i sepolcri. Se soltanto il mondo ci desse il nostro [[Prophet|profeta]] perfetto, solenne, penetrante, universale, nulla ci darebbe piacere più acuto che erigergli il sepolcro. Nella nostra impazienza potremmo perfino seppellirlo vivo. Né è vero che i grandi uomini dell'età vittoriana non furono chiamati grandi ai loro [[Time|tempi]]. Da molti furono chiamati grandi fin dal principio. Charlotte Brontë tenne questo linguaggio eroico a proposito di Thackeray. Ruskin lo tenne a proposito di Carlyle. Una precisa scuola considerò Dickens un grande uomo fin dai primi giorni della sua fama: Dickens certamente apparteneva a questa scuola.
+
+In risposta a questa domanda — «Perché oggi non abbiamo grandi uomini?» — si offrono molte spiegazioni moderne. La pubblicità, il fumo di sigaretta, la [[Decay|decadenza]] della religione, la [[Decay|decadenza]] dell'agricoltura, troppo [[Humanitarianism|umanitarismo]], troppo poco [[Humanitarianism|umanitarismo]], il fatto che la gente sia istruita insufficientemente, il fatto che sia istruita in genere: tutte queste sono ragioni addotte. Se propongo la mia spiegazione, non è per il suo valore intrinseco; è perché la mia risposta alla domanda «Perché non abbiamo grandi uomini?» è un modo breve per enunciare la differenza più profonda e più catastrofica fra l'età in cui viviamo e il primo Ottocento; l'età sotto l'[[Shadow|ombra]] della [[French Revolution|Rivoluzione francese]], l'età in cui Dickens nacque.
+
+Il più assennato dei critici di Dickens, un uomo di genio, il signor George Gissing, apre la sua analisi osservando che il mondo in cui Dickens crebbe era un mondo duro e crudele. Ne nota il nutrimento grossolano, gli sport feroci, le risse e l'[[Humour|umorismo]] sguaiato, e tutto ciò riassume nelle parole «duro e crudele». È curioso quanto siano diverse le impressioni degli uomini. A me questo vecchio mondo inglese pare infinitamente meno duro e crudele del mondo descritto negli stessi romanzi di Gissing. Le rozze usanze esteriori sono soltanto relative, e facilmente assimilabili. Un uomo impara presto a incallirsi le mani e a incallirsi la testa. Di fronte al mondo di Gissing, non può far altro che incallirsi il cuore. Ma la differenza fondamentale fra l'inizio dell'Ottocento e la sua fine è una differenza semplice ma enorme. Il primo periodo era pieno di cose malvagie, ma era pieno di [[Hope|speranza]]. Il secondo periodo, il fin de siècle, era addirittura pieno (in un certo senso) di cose buone. Ma era occupato a chiedersi a che servissero le cose buone. La gioia stessa divenne priva di gioia; e il battagliare di Cobbett fu più felice del banchettare di Walter Pater. Gli uomini dei tempi di Cobbett erano abbastanza robusti da sopportare e infliggere brutalità; ma erano anche abbastanza robusti da mutarla. Questa età «dura e crudele» era, dopotutto, l'età della [[Reform|riforma]]. La forca si ergeva nera sopra di loro; ma era nera contro l'[[Dawn|alba]].
+
+Quest'[[Dawn|alba]], contro la quale la forca e tutte le antiche crudeltà si stagliavano così nere e nitide, era l'idea in sviluppo del liberalismo, la [[French Revolution|Rivoluzione francese]]. Era una [[philosophy|filosofia]] chiara e felice. E solo contro simili filosofie i mali appaiono in qualche modo evidenti. L'ottimista è un riformatore migliore del pessimista; e l'uomo che crede la vita eccellente è l'uomo che più la muta. Sembra un [[Paradox|paradosso]], eppure la ragione è chiarissima. Il pessimista può adirarsi contro il male. Ma solo l'ottimista può stupirsene. Al riformatore si richiede una semplicità di stupore. Deve possedere la facoltà di un violento e verginale sbalordimento. Non basta che egli reputi l'ingiustizia penosa; deve reputare l'ingiustizia assurda, un'anomalia dell'esistenza, cosa non tanto da [[Tears|lacrime]] quanto da una risata fragorosa. D'altra parte, i pessimisti della fine del secolo riuscivano a stento a maledire anche la cosa più nera; poiché a stento la scorgevano contro il suo nero ed eterno sfondo. Nulla era cattivo, perché tutto era cattivo. La vita in [[Prison|prigione]] era infame — come la vita in qualunque altro luogo. I fuochi della persecuzione erano ignobili — come le [[Stars|stelle]]. Troviamo perennemente questo [[Paradox|paradosso]] di uno scontento contento. Il dottor Johnson prende una visione troppo triste dell'umanità, ma è anche un conservatore troppo soddisfatto. Rousseau prende una visione troppo rosea dell'umanità, ma provoca una rivoluzione. Swift è adirato, ma è un Tory. Shelley è felice, ed è un [[Rebel|ribelle]]. Dickens, l'ottimista, satireggia la Fleet, e la Fleet è scomparsa. Gissing, il pessimista, satireggia la Suburbia, e la Suburbia rimane.
+
+L'errore del signor Gissing, dunque, sul primo periodo di Dickens possiamo esprimerlo così: chiamandolo duro e crudele egli tralascia il [[Wind|vento]] di [[Hope|speranza]] e di umanità che lo attraversava. Sarà pure stato pieno di istituzioni disumane, ma era pieno di gente umanitaria. E questo [[Humanitarianism|umanitarismo]] era di gran lunga migliore (a mio avviso) proprio perché era un [[Humanitarianism|umanitarismo]] ruvido e persino turbolento. Era immune da tutti i difetti che si annidano in quel nome. Era, se volete, un [[Humanitarianism|umanitarismo]] grossolano. Era una filantropia che gridava, si azzuffava, beveva — una cosa nobile. Ma, in ogni caso, quell'atmosfera era l'atmosfera della Rivoluzione; e la sua idea principale era l'idea dell'eguaglianza umana. Non mi propongo qui di difendere l'idea egualitaria contro gli attacchi solenni e puerili che le muovono oggi i ricchi e i dotti. Mi propongo soltanto di enunciarne una delle conseguenze pratiche. Una delle conseguenze reali e certe dell'idea che tutti gli uomini siano eguali è quella di produrre immediatamente uomini grandissimi. Direi uomini superiori, se non fosse che l'[[Hero|eroe]] pensa a se stesso come grande, ma non come superiore. Questo ci è stato nascosto di recente da uno sciocco culto di uomini sinistri ed eccezionali, uomini senza [[Ship|cameratismo]], senza alcuna virtù contagiosa. Questo tipo di Cesare esiste davvero. C'è un grande uomo che fa sentire piccolo ogni uomo. Ma il vero grande uomo è colui che fa sentire grande ogni uomo.
+
+Lo spirito del primo Ottocento produsse grandi uomini, perché credeva che gli uomini fossero grandi. Fece uomini forti incoraggiando gli uomini deboli. La sua [[Education|educazione]], le sue abitudini pubbliche, la sua retorica, erano tutte volte a incoraggiare la [[Greatness|grandezza]] in ciascuno. E incoraggiando la [[Greatness|grandezza]] in ciascuno, incoraggiava naturalmente una [[Greatness|grandezza]] superlativa in alcuni. La superiorità nasceva dall'alto rapimento dell'eguaglianza. È proprio in questa sorta di appassionata incoscienza e sconcertante comunità di pensiero che gli uomini divengono più di se stessi. Nessun uomo, a furia di pensarci, può aggiungere un cubito alla propria statura; ma un uomo può aggiungere molti cubiti alla propria statura non pensandoci. I migliori uomini della Rivoluzione erano semplicemente uomini comuni al loro meglio. Ecco perché la nostra epoca non potrà mai capire Napoleone. Poiché fu qualcosa di grande e di trionfante, supponiamo che debba essere stato qualcosa di straordinario, qualcosa di disumano. Alcuni dicono che fu il Diavolo; altri che fu il Superuomo. Fu un uomo molto, molto malvagio? Fu un uomo buono con qualche codice morale superiore? Ci sforziamo invano di inventare i misteri dietro quell'immortale maschera di bronzo. Il mondo moderno, con tutta la sua sottigliezza, non indovinerà mai il suo strano segreto; poiché il suo strano segreto era che egli somigliava moltissimo agli altri.
+
+E quasi senza eccezione tutti i grandi uomini sono usciti da questa atmosfera di eguaglianza. I grandi uomini possono fare i dispotismi; ma le democrazie fanno i grandi uomini. L'altra principale fabbrica di eroi, oltre a una rivoluzione, è una religione. E una religione, a sua volta, è una cosa che, per sua [[Nature|natura]], non pensa agli uomini come più o meno preziosi, ma agli uomini come tutti intensamente e dolorosamente preziosi, una [[democracy|democrazia]] dell'eterno pericolo. Per la religione tutti gli uomini sono eguali, come tutte le monetine sono eguali, perché il solo valore in ciascuna di esse è che portano l'effigie del [[King|Re]]. Questo fatto è stato osservato assai insufficientemente nello studio degli eroi religiosi. La pietà produce [[Greatness|grandezza]] intellettuale proprio perché la pietà in sé è del tutto indifferente alla [[Greatness|grandezza]] intellettuale. La forza di Cromwell fu che gli stava a cuore la religione. Ma la forza della religione fu che a lei non stava a cuore Cromwell; non le stava a cuore, cioè, più di chiunque altro. Egli e il suo lacchè erano egualmente accolti in caldi posti nell'ospitalità dell'inferno. Si è detto spesso, con molta verità, che la religione è ciò che fa sentire straordinario l'uomo ordinario; è una [[Truth|verità]] altrettanto importante che la religione è ciò che fa sentire ordinario l'uomo straordinario.
+
+Carlyle uccise gli eroi; non ve ne sono stati più dai suoi [[Time|tempi]]. Uccise l'eroico (che egli amava sinceramente) imponendo a ciascun uomo questa domanda: «Sono forte o debole?». Alla quale la risposta di qualunque uomo onesto (sì, di Cesare o di Bismarck) sarebbe: «Debole». Chiedeva candidati per una precisa aristocrazia, uomini che si tenessero consapevolmente al di sopra dei propri simili. Li reclamizzò, per così dire; promise loro la gloria; promise loro l'onnipotenza. Non sono ancora apparsi. Non appariranno mai. Poiché i veri eroi di cui egli scrisse erano apparsi da un'estasi dell'ordinario. Ho già addotto un caso come quello di Cromwell. Ma non c'è bisogno di passare in rassegna tutti i grandi uomini di Carlyle. Carlyle stesso fu grande quanto ciascuno di loro; e se mai vi fu un tipico [[Child|figlio]] della [[French Revolution|Rivoluzione francese]], fu lui. Cominciò con le speranze più sfrenate riguardo al [[Reform]] Bill, e sebbene poi si inasprisse, era stato foggiato e plasmato da quelle speranze. Rimase deluso dall'Eguaglianza; ma l'Eguaglianza non rimase delusa da lui. L'Eguaglianza è giustificata da tutti i suoi figli.
+
+Ma noi, nel periodo post-carlyleano, siamo diventati schizzinosi riguardo ai grandi uomini. Ogni uomo esamina se stesso, ogni uomo esamina i propri vicini, per vedere se essi o egli raggiungano esattamente la linea della [[Greatness|grandezza]]. La risposta è, naturalmente, «No». E più d'uno si definisce con soddisfazione «un poeta minore», che allora sarebbe stato ispirato a essere un grande [[Prophet|profeta]]. Siamo difficili da accontentare e di poca [[Faith|fede]]. Riusciamo a stento a credere che esista una cosa come un grande uomo. Essi riuscivano a stento a credere che esistesse una cosa come un piccolo uomo. Ma noi preghiamo sempre che i nostri occhi contemplino la [[Greatness|grandezza]], invece di pregare che i nostri cuori ne siano ricolmi. Così, per esempio, il partito liberale (al quale appartengo) andava, nel suo periodo di [[Exile|esilio]], dicendo di continuo: «Oh, se avessimo un Gladstone!» e simili cose. Chiedevamo sempre che venisse rafforzato dall'alto, invece di rafforzarlo noi stessi dal basso, con la nostra [[Hope|speranza]] e la nostra ira e la nostra giovinezza. Ogni uomo aspettava un condottiero. Ogni uomo dovrebbe aspettare l'occasione di condurre. Se un dio scenderà davvero sulla terra, discenderà alla vista dei coraggiosi. Le nostre prostrazioni e le nostre litanie non valgono nulla; i nostri noviluni e i nostri sabati sono un abominio. Il grande uomo verrà quando tutti noi ci sentiremo grandi, non quando tutti noi ci sentiremo piccoli. Entrerà cavalcando in qualche splendido momento in cui tutti sentiremo di poter fare a meno di lui.
+
+Siamo dunque in grado di rispondere in qualche modo alla domanda «Perché non abbiamo grandi uomini?». Non abbiamo grandi uomini principalmente perché li cerchiamo sempre. Siamo intenditori di [[Greatness|grandezza]], e gli intenditori non possono mai essere grandi; siamo schizzinosi, cioè siamo piccoli. Quando Diogene andava in giro con una lanterna in cerca di un uomo onesto, temo che avesse ben poco [[Time|tempo]] per essere onesto lui stesso. E quando qualcuno va in giro carponi in cerca di un grande uomo da venerare, sta facendo in modo che almeno un uomo non sia grande. Ora, l'errore di Diogene è evidente. L'errore di Diogene stava nel fatto che egli tralasciava di notare che ogni uomo è insieme un uomo onesto e un uomo disonesto. Diogene cercava il suo uomo onesto dentro ogni cripta e ogni caverna; ma non gli venne mai in mente di guardare dentro il ladro. Ed è là che il Fondatore del [[Christianity|cristianesimo]] trovò l'uomo onesto; lo trovò su una forca e gli promise il Paradiso. Proprio come il [[Christianity|cristianesimo]] cercò l'uomo onesto dentro il ladro, la [[democracy|democrazia]] cercò l'uomo saggio dentro lo [[Fool|sciocco]]. Incoraggiò lo [[Fool|sciocco]] a essere saggio. Possiamo chiamare questa cosa a volte ottimismo, a volte eguaglianza; il nome che più le si avvicina è incoraggiamento. Ebbe le sue esagerazioni — l'incapacità di comprendere il [[Original Sin|peccato originale]], l'idea che l'[[Education|educazione]] avrebbe reso buoni tutti gli uomini, le filosofie insieme fanciullesche e pedantesche della perfettibilità umana. Ma il tutto era pieno di una [[Faith|fede]] nell'infinità delle anime umane, che è in sé non solo cristiana ma ortodossa; e questo lo abbiamo perduto fra le limitazioni di una scienza pessimista. Il [[Christianity|cristianesimo]] diceva che ogni uomo poteva essere un santo se lo sceglieva; la [[democracy|democrazia]], che ogni uomo poteva essere un cittadino se lo sceglieva. La nota degli ultimi decenni nell'arte e nell'etica è stata che l'uomo è marchiato da una psicologia irrevocabile, ed è rinserrato in perpetuo nella [[Prison|prigione]] del proprio cranio. Era un mondo che si aspettava tutto da tutti. Era un mondo che incoraggiava chiunque a essere qualunque cosa. E in Inghilterra e nella letteratura la sua espressione vivente fu Dickens.
+
+Considereremo Dickens sotto molti altri aspetti, ma mettiamo questo per primo. Egli fu la voce, in Inghilterra, di questa umana ebbrezza ed espansione, di questo incoraggiare chiunque a essere qualunque cosa. I suoi libri migliori sono un carnevale di libertà, e vi è più del vero spirito della [[French Revolution|Rivoluzione francese]] in «[[Nicholas Nickleby]]» che in «The Tale of Two Cities». La sua opera possiede la grande gloria della Rivoluzione, l'ingiunzione a ogni uomo di essere se stesso; possiede anche la deficienza rivoluzionaria: sembra credere che questa mera emancipazione basti. Nessun uomo incoraggiò i propri personaggi quanto Dickens. «Sono un padre affettuoso», egli dice, «per ogni [[Child|figlio]] della mia fantasia». Non fu soltanto un padre affettuoso, fu un padre troppo indulgente. I figli della sua fantasia sono figli viziati. Scuotono la [[house|casa]] come pesanti e chiassosi scolaretti; mandano in pezzi la storia come tanti mobili. Quando noi moderni scriviamo storie i nostri personaggi sono meglio controllati. Ma, ahimè!, i nostri personaggi sono anche piuttosto più facili da controllare. Non corriamo alcun pericolo dai giganteschi capriccioni di creature come Mantalini e Micawber. Non corriamo alcun pericolo di dare ai nostri lettori troppo Weller o Wegg. Non abbiamo di che darne. Quando proviamo l'ingovernabile senso della vita che va di pari passo con l'antico senso dickensiano della libertà, proviamo il meglio della rivoluzione. Siamo ricolmi della prima di tutte le dottrine democratiche, che tutti gli uomini sono interessanti; Dickens tentò di far apparire noiose alcune delle sue creature, ma non riuscì a mantenerle noiose. Non seppe creare un uomo monotono. Gli scocciatori dei suoi libri sono più brillanti degli spiritosi degli altri libri.
+
+Ho posto per prima questa tesi per una ragione precisa. È inutile che tentiamo di immaginare Dickens e la sua vita se non siamo almeno capaci di immaginare quest'antica atmosfera di ottimismo democratico — una fiducia negli uomini comuni. Dickens dipende da una tale comprensione in un modo piuttosto insolito, un modo che merita spiegazione, o almeno un'osservazione.
+
+Lo svantaggio in cui Dickens è caduto, sia come [[Artist|artista]] sia come moralista, è chiarissimo. La sua sventura è che nessuno dei due ultimi movimenti nella [[Literary Criticism|critica letteraria]] gli ha giovato. Ha sofferto tanto per i suoi nemici quanto per i nemici dei suoi nemici. I fatti a cui alludo sono ben noti. Quando il mondo si destò per la prima volta dal puro ipnotismo di Dickens, dalla diretta tirannia del suo temperamento, vi fu, naturalmente, una reazione. Alla sua testa vennero i Realisti, con i loro documenti, come Miss Flite. Dichiaravano che scene e tipi in Dickens erano del tutto impossibili (nel che avevano perfettamente ragione), e su questo terreno alquanto paradossale li respingevano come letteratura. Non erano «simili alla vita», e lì, pensavano, la questione era chiusa. Il realista prevalse per un [[Time|tempo]]. Ma i Realisti non goderono a lungo della loro vittoria (se mai godettero di alcunché). Presto sorse una scuola di critica più simbolica. Gli uomini videro che era necessario dare un significato assai più profondo e più delicato all'espressione «simile alla vita». Le strade non sono la vita, le città e le civiltà non sono la vita, i volti perfino e le voci non sono la vita stessa. La vita è dentro, e nessun uomo l'ha mai veduta in alcun [[Time|tempo]]. Quanto ai nostri pasti, e ai nostri modi, e al nostro abito quotidiano, queste sono cose esattamente simili ai sonetti; sono simboli casuali dell'[[Soul|anima]]. Un uomo cerca di esprimersi nei libri, un altro negli stivali; entrambi probabilmente falliscono. Le nostre solide case e i nostri pasti quadrati sono, in senso stretto, finzione. Sono cose inventate per raffigurare i nostri pensieri. Il cappotto che un uomo indossa può essere del tutto fittizio; il movimento delle sue mani può essere del tutto dissimile dalla vita.
+
+Questo l'intelligenza degli uomini lo colse presto. E di ciò la fama di Dickens avrebbe dovuto grandemente profittare. Poiché Dickens è «simile alla vita» nel senso più vero, nel senso che è affine al principio vivente in noi e nell'universo; è simile alla vita, almeno in questo particolare, che è vivo. La sua arte è simile alla vita, perché, come la vita, non si cura di nulla al di fuori di sé, e prosegue per la sua strada esultando. Entrambe producono mostri con una specie di noncuranza, come enormi sottoprodotti; la vita producendo il rinoceronte, e l'arte il signor Bunsby. L'arte, in verità, copia la vita nel non copiare la vita, poiché la vita non copia nulla. L'arte di Dickens è simile alla vita perché, come la vita, è irresponsabile, perché, come la vita, è incredibile.
+
+Eppure il ritorno di questa consapevolezza non ha grandemente giovato a Dickens; il ritorno del [[Romance|romanzesco]] è stato quasi inutile a questo grande romantico. Ha guadagnato tanto poco dalla caduta dei realisti quanto dal loro trionfo; c'è stata una rivoluzione, c'è stata una controrivoluzione, non c'è stata restaurazione. E la ragione di ciò ci riporta a quell'atmosfera di ottimismo popolare di cui ho parlato. E il modo più breve per esprimere la più recente negligenza verso Dickens è dire che, per il nostro [[Time|tempo]] e il nostro gusto, egli esagera la cosa sbagliata.
+
+L'esagerazione è la definizione dell'arte. Questo lo capivano sia Dickens sia i Moderni. L'arte è, nella sua più intima [[Nature|natura]], fantastica. Il [[Time|tempo]] reca strane vendette, e mentre i realisti erano ancora vivi, l'arte di Dickens fu giustificata da Aubrey Beardsley. Ma a uomini come Aubrey Beardsley era permesso di essere fantastici, perché l'umore che essi tendevano oltre misura e sovraesprimevano era un umore che la loro epoca comprendeva. Dickens tende oltre misura e sovraesprime un umore che la nostra epoca non comprende. La [[Truth|verità]] che egli esagera è esattamente quest'antico senso rivoluzionario di infinita opportunità e chiassosa fratellanza. E ci risentiamo del suo eccessivo senso di essa, perché noi stessi non ne abbiamo nemmeno un senso adeguato. Ci sentiamo turbati per il troppo là dove abbiamo il troppo poco; vorremmo che egli lo tenesse entro i limiti. Poiché siamo tutti esatti e scientifici sui temi che non ci stanno a cuore. Tutti scopriamo immediatamente l'esagerazione in un'esposizione del [[Mormonism|mormonismo]] o in un discorso patriottico dal Paraguay. Tutti esigiamo sobrietà sul tema del serpente di mare. Ma nel momento in cui cominciamo a credere noi stessi a una cosa, in quel momento cominciamo facilmente a sopravvalutarla; e nel momento in cui le nostre anime si fanno serie, le nostre parole si fanno un poco sfrenate. E certi moderni sono così disposti verso l'esagerazione. Permettono a qualsiasi scrittore di enfatizzare i dubbi, per esempio, poiché i dubbi sono la loro religione, ma non permettono ad alcuno di enfatizzare i dogmi. Se un uomo è il più mite dei cristiani, essi fiutano «ipocrisia»; ma può essere un delirante mulino a vento di pessimismo, «e lo chiamano "temperamento"». Se un moralista dipinge un quadro sfrenato dell'immoralità, essi [[Doubt|dubitano]] della sua [[Truth|verità]], dicono che i diavoli non sono così neri come li si dipinge. Ma se un pessimista dipinge un quadro sfrenato di [[Melancholy|malinconia]], accettano l'intera orribile psicologia, e non chiedono mai se i diavoli siano così azzurri come li si dipinge.
+
+È evidente, in breve, perché anche coloro che ammirano l'esagerazione non ammirino Dickens. Egli esagera la cosa sbagliata. Sanno che cosa significhi provare una tristezza così strana e profonda che solo personaggi impossibili possono esprimerla: non sanno che cosa significhi provare una gioia così vitale e violenta che solo personaggi impossibili possono esprimerla. Sanno che l'[[Soul|anima]] può essere tanto triste da sognare naturalmente i volti azzurri dei cadaveri di Baudelaire: non sanno che l'[[Soul|anima]] può essere tanto allegra da sognare naturalmente il volto azzurro del [[Major Bagstock]]. Sanno che c'è un punto di depressione in cui si crede in Tintagiles: non sanno che c'è un punto di esaltazione in cui si crede nel signor Wegg. A loro le impossibilità di Dickens sembrano molto più impossibili di quanto realmente siano, perché sono già accordati alle impossibilità opposte di Maeterlinck. Per ogni umore esiste un'impossibilità appropriata — un'impossibilità decorosa e discreta — adatta allo stato d'animo. Ogni corso di pensiero può terminare in un'estasi, e tutte le strade conducono al Paese degli Elfi. Ma pochi oggi camminano abbastanza a lungo lungo la via di Dickens da trovare il luogo in cui le villette del cockney diventano così comiche da farsi poetiche. La gente non sa fin dove possa giungere il puro buonumore. Per esempio, non pensiamo mai (come faceva l'antico folklore) che il buonumore giunga fino al mondo spirituale. Lo vediamo nell'assenza totale, dal soprannaturalismo moderno e popolare, dell'antica allegria popolare. Sentiamo oggi parlare a sazietà della saggezza del mondo spirituale; ma non sentiamo, come sentivano i nostri padri, della follia del mondo spirituale, dei trucchi degli dèi, e degli scherzi dei santi patroni. I nostri racconti popolari ci parlano di un uomo così saggio da toccare il [[Supernatural|soprannaturale]], come il dottor Nikola; ma non ci parlano mai (come i racconti popolari del passato) di un uomo così sciocco da toccare il [[Supernatural|soprannaturale]], come [[Bottom]] il Tessitore. Non comprendiamo l'oscura e trascendentale affinità fra le fate e gli stolti. Comprendiamo un occultismo devoto, un occultismo malvagio, un occultismo tragico, ma un occultismo farsesco è al di là di noi. Eppure un occultismo farsesco è la vera essenza di «The Midsummer [[Night]]'s Dream». È anche la giusta e credibile essenza di «The Christmas [[carol|Carol]]». Che noi lo comprendiamo dipende dal fatto che sappiamo comprendere o meno che l'esaltazione non è un accidente fisico, ma un fatto mistico; che l'esaltazione può essere infinita, come il dolore; che uno scherzo può essere così grande da sfondare il tetto delle [[Stars|stelle]]. Semplicemente continuando a essere assurda, una cosa può diventare divina; non c'è che un passo dal ridicolo al [[Sublime|sublime]].
+
+Dickens fu grande perché era smodatamente posseduto da tutto ciò; se vogliamo comprenderlo, dobbiamo anche noi esserne moderatamente posseduti. Dobbiamo comprendere quest'antica sfrenata ilarità e fiducia umana, almeno abbastanza da poterla sopportare quando è spinta ben troppo oltre. Poiché Dickens la spinse davvero troppo oltre; spinse davvero l'ilarità fino al punto dell'incredibile disegno dei personaggi; spinse davvero la fiducia umana fino al punto di un poco convincente sentimentalismo. Puoi rintracciare, se vuoi, la gioia rivoluzionaria fino a giungere all'incredibile epitaffio di Sapsea; puoi rintracciare la [[Hope|speranza]] rivoluzionaria fino a giungere al pentimento di Dombey. C'è di che criticare in quest'uomo se sei incline a criticare; potrai facilmente trovarlo volgare se non riesci a vedere che è divino; e se non riesci a ridere con Dickens, senza dubbio puoi ridere di lui.
+
+Io credo, per parte mia, che questo suo mondo più coraggioso certamente ritornerà; poiché credo che sia legato alle realtà, come il mattino e la [[spring|primavera]]. Ma per coloro che, senza rimedio, lo considerano un errore, pongo questo appello prima di ogni altra osservazione su Dickens. Anzitutto compatiamo, non fosse che per un istante, le speranze dell'epoca di Dickens, quell'allegro tormento del mutamento. Se la [[democracy|democrazia]] ti ha deluso, non pensarla come una bolla scoppiata, ma almeno come un cuore infranto, un vecchio [[Love|amore]]. Non sogghignare al [[Time|tempo]] in cui il credo dell'umanità era in luna di miele; trattalo con la tremenda riverenza dovuta alla giovinezza. Per te, forse, una [[philosophy|filosofia]] più tetra ha coperto ed eclissato la terra. Il fiero poeta del Medioevo scrisse, «Lasciate ogni [[Hope|speranza]], voi ch'entrate», sopra le porte del mondo inferiore. I poeti emancipati d'oggi l'hanno scritto sopra le porte di questo mondo. Ma se vogliamo comprendere la storia che segue, dobbiamo cancellare quella scritta apocalittica, non fosse che per un'ora. Dobbiamo ricreare la [[Faith|fede]] dei nostri padri, non fosse che come atmosfera artistica. Se, dunque, sei un pessimista, nel leggere questa storia, rinuncia per un poco ai piaceri del pessimismo. Sogna per un solo folle istante che l'erba sia verde. Disimpara quel sinistro sapere che credi così chiaro; nega quella mortale conoscenza che credi di conoscere. Cedi il fiore stesso della tua cultura; rinuncia al [[Jewel|gioiello]] stesso del tuo [[Pride|orgoglio]]; abbandonate ogni disperazione, voi ch'entrate.
+
+CAPITOLO II
+
+L'INFANZIA DI DICKENS
+
+Charles Dickens nacque a Landport, presso Portsea, il 7 febbraio 1812. Suo padre era impiegato all'Ufficio Paghe della Marina, e si trovava temporaneamente in servizio nei paraggi. Poco dopo la nascita di Charles Dickens, tuttavia, la famiglia si trasferì per un breve periodo in Norfolk Street, a Bloomsbury, e poi per un lungo periodo a Chatham, che divenne così la vera [[Home|casa]] e, a tutti gli effetti seri, il luogo natio di Dickens. L'intera vicenda della sua vita si muove come un pellegrinaggio verso Canterbury lungo le grandi strade del [[Kent]].
+
+John Dickens, suo padre, era, come si è detto, un impiegato; ma simili nudi termini di mestiere ci dicono ben poco del tono o del rango di una famiglia. Il padre di Browning (per prendere un esempio a caso) sarebbe anch'egli descritto come un impiegato e un uomo del ceto medio; eppure la famiglia Browning e la famiglia Dickens hanno il colore di due diverse civiltà. La differenza non si può rendere semplicemente dicendo che Browning stava parecchi strati al di sopra di Dickens. Bisogna anche rendere il fatto che Browning apparteneva a quella sezione del ceto medio che tende (nel piccolo senso sociale) a salire; i Dickens a quella sezione che tende, nel medesimo senso, a cadere. Se Browning non fosse stato poeta, sarebbe stato un impiegato migliore di suo padre, e suo figlio, con ogni probabilità, un impiegato migliore e più ricco di lui. Ma se non fossero stati sollevati in aria dall'enorme accidente d'un uomo di genio, i Dickens, immagino, sarebbero comparsi in luoghi sempre più poveri, come compilatori d'inventari, come custodi, come indirizzatori di buste, finché non si fossero dissolti nelle masse dei poveri.
+
+Eppure, al [[Time|tempo]] della nascita e dell'[[Childhood|infanzia]] di Dickens, questa debolezza nel loro destino mondano non era in alcun modo evidente; e in special modo non era evidente al piccolo Charles stesso. Egli nacque e crebbe in un paradiso di modesta prosperità. Cadde nella famiglia, per così dire, durante uno dei suoi periodi agiati, e mai in quei primi giorni pensò a sé se non come a un agiato [[Child|bambino]] del ceto medio, figlio d'un agiato uomo del ceto medio. Il padre che gli fu dato in sorte era uno di quelli in cui l'agiatezza faceva emergere le qualità più piacevoli e rassicuranti, benché forse non le più interessanti e singolari. John Dickens appariva, con ogni probabilità, un carattere cordiale e benevolo, un poco florido nel parlare, un poco trascurato nel dovere in certi dettagli, segnatamente nel dettaglio dell'[[Education|educazione]]. La sua negligenza nella formazione mentale del figlio, in tempi più tardi e più duri, fu un tratto d'inconscio egoismo che rimase un poco acrimonioso nella mente del figlio per tutta la vita. Ma anche in questo periodo più precoce e più facile, quel poco di documentazione che esiste su John Dickens emana l'aria d'una paternità alquanto oziosa e irresponsabile. Egli mostrava verso il figlio quella contraddizione nella condotta che è sempre esibita dal genitore troppo spensierato verso il [[Child|bambino]] troppo pensieroso. Riusciva insieme a trascurarne la mente e insieme a sovreccitarla.
+
+Vi sono molti aneddoti e tratti tramandati dell'infanzia dell'autore, ma un piccolo fatto mi sembra più d'ogni altro cogliere la nota e dare la chiave dell'intero suo strano carattere. Suo padre trovava più divertente essere pubblico che essere istruttore; e, invece di dare al [[Child|bambino]] piacere intellettuale, lo chiamava, quasi prima ancora che avesse smesso le gonnelline, a procurarlo. Alcune delle prime immagini che abbiamo di Charles Dickens ce lo mostrano appollaiato su una sedia o su un tavolo mentre canta [[songs|canzoni]] comiche in un'atmosfera di perpetuo applauso. Così, quasi appena sa reggersi sui piedi, entra nel bagliore delle luci della ribalta. E non ne uscì più finché non morì. Fu un uomo buono, per quanto vanno gli uomini in questo nostro sconcertante mondo, coraggioso, trasparente, tenero di cuore, scrupolosamente indipendente e leale; non era un uomo delle cui debolezze si dovesse parlare senza una certa delicatezza e un certo [[Doubt|dubbio]]. Ma in effetti a tutti i suoi meriti si mescolò per tutta la vita questa qualità teatrale, questa atmosfera dell'esser messo in mostra — una sorta d'ilare consapevolezza di [[Self|sé]]. La sua vita letteraria fu una processione trionfale; morì ebbro di gloria. E dietro tutto questo prodigio [[Wonder|di meraviglia]] durato nove anni che riempì il mondo, dietro i suoi giganteschi tour e le sue diecimila edizioni, le conferenze affollate e gli ottoni fragorosi, dietro tutto ciò quel che davvero vediamo è il volto acceso d'un ragazzino che canta [[songs|canzonette]] da music-hall a un cerchio di zie e di zii. E questo piacere precoce spiega molto, anche in senso morale. Dickens ebbe per tutta la vita i difetti del ragazzino che vien tenuto alzato troppo tardi la [[Night|notte]]. Il ragazzo, in tal caso, esibisce un [[Paradox|paradosso]] psicologico; è un poco troppo irritabile perché è un poco troppo felice. Dickens fu sempre un poco troppo irritabile perché era un poco troppo felice. Come il [[Child|bambino]] sovreccitato in società, era splendidamente socievole, eppure d'improvviso attaccabrighe. In tutte le relazioni pratiche della sua vita era ciò che il [[Child|bambino]] è nelle ultime ore d'una festa serale, genuinamente deliziato, genuinamente delizioso, genuinamente affettuoso e felice, eppure, in qualche strano modo, fondamentalmente esasperato e pericolosamente vicino alle [[Tears|lacrime]].
+
+C'era un altro tratto in quel ragazzo che rendeva il suo caso più singolare, e forse la sua intelligenza più fervida: il tocco della malattia. Non si sarebbe potuto chiamare più d'un tocco, poiché non soffriva di alcun male formidabile e poté sempre, per tutta la vita, sopportare un grande grado di sforzo, anche se era solo lo sforzo di camminare freneticamente per tutta la [[Night|notte]]. Eppure quella vena di malattia bastava a toglierlo dalla comune vita inconsapevole della comunità dei ragazzi; e, nel bene o nel male, quel ritiro è sempre una faccenda di mortale importanza per la mente. Egli veniva ricacciato perpetuamente sui piaceri dell'intelligenza, e questi cominciarono a bruciargli in testa come una fornace chiusa e dolorosa. Nel suo modo invariabilmente vivido ha descritto come si arrampicò fino a una soffitta trascurata, e là trovò, in un mucchio polveroso, l'immortale letteratura d'Inghilterra. I libri che menziona soprattutto sono "Humphrey Clinker" e "Tom [[Jones]]." Quando aprì quei due libri nella soffitta, afferrò l'unico passato con cui abbia una qualche connessione, i grandi scrittori comici d'Inghilterra di cui era destinato a essere l'ultimo.
+
+Bisogna ricordare (come ho suggerito prima) che c'era qualcosa nella contea in cui viveva, e nelle grandi strade lungo le quali viaggiava, che simpatizzava con il suo piacere per quest'antica letteratura picaresca e lo stimolava. Le brigate che venivano lungo la [[Road|strada]], che attraversavano la sua città e ne uscivano, erano di quel tipo variopinto e ridicolo che ruzzolava nei fossi o buttava giù le porte delle taverne sotto la scorta di Smollett e Fielding. Ai nostri [[Time|tempi]] le grandi strade del [[Kent]] hanno spesso su di sé una perpetua processione di vagabondi e stagnini ignota alle quiete colline del Sussex; e forse era così anche nell'infanzia di Dickens. Nei suoi paraggi vi erano precisi monumenti d'una [[Comedy|commedia]] inglese ancora più antica e ancora più grande. Dall'altura di Gads-[[Hill|hill]] che egli fissava senza sosta, guardava giù verso di lui il mostruoso [[Ghost|fantasma]] di [[Falstaff]], [[Falstaff]] che [[Well|bene]] avrebbe potuto essere il padre spirituale di tutti gli adorabili furfanti di Dickens, [[Falstaff]] la grande montagna del riso inglese e del sentimentalismo inglese, il grande, sano, umano imbroglione inglese, senza pari fra le nazioni.
+
+A quest'altura di Gads-[[Hill|hill]] Dickens soleva guardare fisso già da ragazzo, col fermo proposito di farla un giorno sua. È caratteristico della coerenza che sottende la carriera superficialmente erratica di Dickens che egli visse davvero fino a farla sua. La [[Truth|verità]] è che era un [[Child|bambino]] precoce, precoce non solo nel lato più poetico ma nel lato più prosaico della vita. Era ambizioso oltre [[Well|che]] entusiasta. Nessuno potrà mai sapere quali visioni fossero quelle che si affollavano nella testa del brillante piccolo monello mentre correva per le strade di Chatham o stava a fissare torvo Gads-[[Hill|hill]]. Ma io penso che visioni del tutto mondane avessero in ciò una parte assai considerevole. Egli bramava di andare a scuola (strano desiderio), di andare all'università, di farsi un nome; né si limitava ad aspirare a queste cose: gran parte di esse anche se le aspettava. Considerava sé stesso un [[Child|bambino]] di buona posizione sul punto di entrare in una vita di buona fortuna. Riteneva la sua [[Home|casa]] e la sua famiglia un ottimo trampolino [[spring|di lancio]] o punto di slancio da cui scagliarsi verso le posizioni che desiderava raggiungere. E quasi nell'atto di scagliarsi [[spring|con un balzo]], l'intera struttura crollò sotto di lui, ed egli e tutto ciò che gli apparteneva scomparvero in una tenebra assai più in basso.
+
+Tutto era stato abbattuto con la definitività d'un fulmine. Il suo signorile padre era un fallito, e nella [[Prison|prigione]] di Marshalsea. Sua madre era in una misera [[Home|casa]] nel nord di [[London|Londra]], che si proclamava freneticamente direttrice d'una scuola per fanciulle, una scuola per fanciulle in cui nessuno avrebbe mai messo piede. Ed egli stesso, il conquistatore del mondo e il prospettivo acquirente di Gads-[[Hill|hill]], passò alcuni giorni sconvolti e sconcertanti a impegnare le suppellettili di casa presso i Fagin di sordide botteghe, e poi si ritrovò, in un modo o nell'altro, uno di una fila di ragazzi cenciosi in una grande, tetra fabbrica, a incollare gli stessi tipi di etichette sugli stessi tipi di bottiglie di lucido dal mattino alla [[Night|notte]].
+
+Per quanto a lui parve abbastanza improvviso, la disgregazione, di fatto, s'era naturalmente andata compiendo da lungo [[Time|tempo]]. Egli aveva soltanto udito dal padre oscure e melodrammatiche allusioni a un "atto" che, dal modo in cui ne parlava, avrebbe potuto essere una pretesa alla [[Crown|corona]] o un patto col diavolo, ma che in [[Truth|verità]] era un infruttuoso tentativo documentario da parte di John Dickens di venire a un accordo con i creditori. E ora, nella luce sinistra del suo tramonto, il carattere di John Dickens cominciava ad assumere quelle tinte purpuree che lo hanno reso, sotto altro nome, assurdo e immortale. Ci volle una [[Tragedy|tragedia]] per far emergere la [[Comedy|commedia]] di quest'uomo. Finché John Dickens fu in circostanze agiate, parve soltanto un uomo agevole, un poco prolisso e lussureggiante nelle frasi, un poco trascurato nella routine dei suoi affari. Pareva soltanto un uomo di parole, che viveva di pane e manzo come i suoi vicini; ma man mano che il pane e il manzo gli venivano tolti l'uno dopo l'altro, si scoprì che egli viveva di parole. Per lui essere coinvolto in una calamità significava soltanto essere scritturato per la prima parte in una [[Tragedy|tragedia]]. Per lui la nuda rovina era soltanto un soggetto per [[Blank Verse|versi sciolti]]. D'ora in poi ci sentiamo poco inclini a chiamarlo affatto John Dickens; ci sentiamo inclini a chiamarlo col nome attraverso cui suo figlio celebrò questa strampalata e [[Sublime|sublime]] vittoria dello spirito umano sulle circostanze. Dickens, in "[[David Copperfield]]," lo chiamò [[Wilkins Micawber]]. Nella sua corrispondenza personale lo chiamava il Padre Prodigo.
+
+Il giovane Charles era stato frettolosamente scagliato nella fabbrica dalla più o meno noncurante bonarietà [[Nature|di natura]] di James Lamert, un parente di sua madre; era una fabbrica di lucido, che si supponeva gestita in concorrenza con quella di Warren da un altro e "originale" Warren, entrambe in pratica condotte da un altro dei Lamert. Era situata nei pressi di Hungerford Market. Dickens vi lavorava tristemente, come uno stordito dalla delusione. Per un [[Child|bambino]] eccessivamente intellettualizzato, e a quel [[Time|tempo]], [[Fear|temo]], eccessivamente egotista, la grossolanità dell'intera faccenda — il lavoro, le stanze, i ragazzi, il linguaggio — era una sorta di bestiale [[nightmare|incubo]]. Non solo ne parlò a malapena allora, ma ne parlò a malapena in seguito. Anni dopo, nella pienezza della sua fama, seppe da Forster che un uomo aveva detto di conoscerlo. Nell'udire il nome, lo riconobbe in modo alquanto brusco, e parlò d'aver visto quell'uomo una volta. Forster, nella sua [[innocence|innocenza]], rispose che l'uomo diceva d'aver visto Dickens molte volte in una fabbrica presso Hungerford Market. Dickens fu d'un tratto colto da un lungo e straordinario [[Silence|silenzio]]. Poi invitò Forster, come suo migliore amico, a un colloquio a parte, e, con ogni apparenza di difficoltà e d'angoscia, gli raccontò l'intera storia per la prima e l'ultima [[Time|volta]]. Molto tempo dopo raccontò al mondo una parte della faccenda nel resoconto di Murdstone e Grinby in "[[David Copperfield]]." Non parlò mai dell'intera esperienza se non una volta o due, e non ne parlò mai altrimenti che come un uomo potrebbe parlare dell'inferno.
+
+Non occorre supporre, credo, che quest'agonia nel [[Child|bambino]] sia stata esagerata dall'uomo. È vero che non era incapace del vizio dell'esagerazione, se vizio è. C'era in lui molta [[Vanity|vanità]] e una certa virulenza nella sua versione di molte cose. Nel complesso, anzi, non sarebbe forse troppo dire che avrebbe esagerato qualunque dolore di cui parlasse. Ma questo era un dolore con una posizione assai strana nella vita di Dickens: era un dolore di cui non parlava. Su questo particolare punto oscuro egli mantenne una sorta di mortale [[Silence|silenzio]] per vent'anni. Un caso rivelò parte della [[Truth|verità]] al più caro di tutti i suoi amici. Egli allora raccontò l'intera [[Truth|verità]] al più caro di tutti i suoi amici. Non la raccontò mai a nessun altro. Non credo che ciò nascesse da un qualche senso sociale di disonore; se lo ebbe lievemente al [[Time|tempo]], era un uomo troppo soddisfatto di [[Self|sé]] per averlo preso sul serio in età più tarda. Credo davvero che la sua [[Pain|sofferenza]] a quel [[Time|tempo]] fosse tanto reale e brutta che il pensiero di essa lo riempiva di quella sorta d'impersonale ma insopportabile vergogna di cui siamo riempiti, per esempio, dall'idea della tortura fisica, di qualcosa che umilia l'umanità. Sentiva che una simile agonia era qualcosa d'osceno. Vi sono inoltre due altre buone ragioni per pensare che il suo senso di disperazione fosse assai genuino. Prima di tutto, questa prospettiva senza stelle è comune nelle calamità dell'infanzia. L'amarezza delle angosce infantili non sta nel fatto che siano grandi; sta nel fatto che noi non sappiamo che siano piccole. Attorno a ogni disastro precoce c'è una spaventosa definitività; un [[Child|bambino]] perduto può soffrire come un'[[Soul|anima]] perduta.
+
+Si dice comunemente che la [[Hope|speranza]] accompagni la giovinezza, e le presti le sue ali di farfalla; ma io sono incline a credere che la [[Hope|speranza]] sia l'ultimo dono dato all'uomo, e l'unico dono non dato alla giovinezza. La giovinezza è per eccellenza il periodo in cui un uomo può essere [[Lyric|lirico]], fanatico, poetico; ma la giovinezza è il periodo in cui un uomo può essere senza speranza. La fine d'ogni episodio è la fine del mondo. Ma il potere di sperare attraverso ogni cosa, la consapevolezza che l'[[Soul|anima]] sopravvive alle sue avventure, quella grande ispirazione viene alla mezza età; Dio ha serbato quel buon vino fino ad ora. È dalla schiena dei signori anziani che dovrebbero erompere le ali della farfalla. Non c'è nulla che sconcerti tanto i giovani quanto la costante frivolezza dei vecchi. Essi hanno scoperto la propria indistruttibilità. Sono nella loro seconda e più chiara [[Childhood|infanzia]], e c'è un significato nell'allegria dei loro occhi. Essi hanno visto la fine della Fine del Mondo.
+
+Prima cosa, dunque, la desolata definitività dell'umore infantile di Dickens mi fa pensare che fosse un umore reale. E c'è un'altra cosa da ricordare. Dickens non era un [[Child|bambino]] santarello, sullo stile della piccola Dorrit o di [[Little Nell]]. Non aveva, a quel [[Time|tempo]] per lo meno, riposto il cuore interamente in cose più alte, nemmeno in cose come la tenerezza personale o la lealtà. Era stato, ed era, se non m'inganno di molto, sinceramente, ostinatamente, amaramente ambizioso. Aveva, immagino, un'idea abbastanza chiara, prima del crollo di tutte le speranze della sua famiglia, di ciò che voleva fare nel mondo, e del segno che intendeva lasciarvi. In nessun senso disonorevole, ma pur sempre in un senso definito, egli poteva, nella prima giovinezza, essere detto mondano; e i figli di questo mondo sono, nella loro generazione, infinitamente più sensibili dei figli della luce. Un santo dopo il pentimento perdonerà a sé stesso un peccato; un uomo di mondo non perdonerà mai a sé stesso un passo falso. Ci sono modi di farsi assolvere per un omicidio; non ci sono modi di farsi assolvere per aver rovesciato la minestra. Questa qualità della pelle sottile in tutte le persone assai mondane è cosa troppo poco ricordata; e non va del tutto dimenticata a proposito d'un ragazzo intelligente e irrequieto che sognava un destino. Quella parte della sua angoscia che riguardava sé stesso e la sua posizione sociale era, fra le altre parti di essa, la meno nobile; ma forse era la più dolorosa. Poiché l'[[Pride|orgoglio]] non è soltanto, come il mondo moderno non riesce a comprendere, un peccato da condannare; è anche (come esso comprende ancor meno) una debolezza da commiserare grandemente. Un tocco assai vitalizzante è dato in una delle sue stesse rievocazioni. Il suo momento più insopportabile non venne in un qualche sopruso nella fabbrica o in una qualche fame per le strade. Venne quando andò a vedere sua sorella Fanny ricevere un premio alla Royal Academy of Music. "Non potevo sopportare di pensare a me stesso — al di fuori della portata di ogni tale onorevole emulazione e [[success|successo]]. Le [[Tears|lacrime]] mi scorrevano sul volto. Sentivo come se il cuore mi si spezzasse. Pregai, quando andai a letto quella [[Night|notte]], d'essere sollevato dall'umiliazione e dall'abbandono in cui mi trovavo. Non avevo mai sofferto tanto prima. Non c'era invidia in questo." Non credo che ce ne fosse, benché il povero piccolo disgraziato non avrebbe potuto essere gran che biasimato se ce ne fosse stata. C'era soltanto un furioso senso di frustrazione; uno spirito come una belva feroce in gabbia. Era soltanto una piccola cosa nel senso esteriore e ovvio; era soltanto Dickens impedito d'essere Dickens.
+
+Se mettiamo insieme questi fatti, che la [[Tragedy|tragedia]] pareva definitiva, e che la [[Tragedy|tragedia]] riguardava le questioni ipersensibili dell'io e del gentiluomo, credo che possiamo immaginare un caso abbastanza genuino di depressione interiore. E quando aggiungiamo al caso della depressione interiore il caso dell'oppressione esteriore, il caso delle circostanze materiali da cui era circondato, abbiamo raggiunto una sorta di mezzanotte. Tutto il giorno lavorava con cibo insufficiente in una fabbrica. Basti dire che essa apparve in seguito nelle sue opere come Murdstone e Grinby. La [[Night|notte]] tornava sconsolato a una [[house|pensione]] per simili ragazzi, tenuta da un'anziana signora. Basti dire che ella apparve in seguito come la signora Pipchin. Una volta sola alla settimana vedeva qualcuno a cui tenesse un fico secco; era quando andava alla [[Prison|prigione]] di Marshalsea, e ciò dava al suo giovanile [[Pride|orgoglio]], per metà virile e per metà snobistico, un amaro fastidio d'altra specie. Si aggiunga a questo, infine, che fisicamente era sempre assai debole e mai troppo in [[Well|salute]]. Una volta fu abbattuto in mezzo al lavoro da un'improvvisa [[Pain|sofferenza]] corporea. Il ragazzo che lavorava accanto a lui, un rozzo e pesante giovanotto di nome Bob [[Fagin]], che aveva spesso aggredito Dickens sul non irragionevole fondamento del suo essere un "gentiluomo," mostrò d'un tratto quella duratura [[Sanity|sanità]] di compassione che Dickens era destinato a mostrare tanto spesso nei personaggi degli umili e dei sudici. [[Fagin]] fece un giaciglio per il suo compagno malato con la paglia della stanza di lavoro, e riempì d'[[Water|acqua]] calda le bottiglie vuote di lucido per tutto il giorno. Quando venne la sera, e Dickens s'era in qualche modo ripreso, Bob [[Fagin]] insistette per scortare il ragazzo a [[Home|casa]] dal padre. La situazione era straziante come una sorta di farsa tragica. [[Fagin]], nella sua cavalleria di legno, sarebbe morto pur di portare Dickens dalla sua famiglia; Dickens, nella sua amara gentilezza signorile, sarebbe morto piuttosto che lasciar sapere a [[Fagin]] che la sua famiglia era a Marshalsea. Così questi due giovani idioti battevano le tediose strade, entrambi ostinati, entrambi [[Suffering|sofferenti]] per un'idea. Il vantaggio era certamente dalla parte di [[Fagin]], che [[Suffering|soffriva]] per una compassione cristiana, mentre Dickens [[Suffering|soffriva]] per un [[Pride|orgoglio]] pagano. Alla fine Dickens si liberò dell'amico con un disperato addio e ringraziamento, e si slanciò su per gli scalini d'una [[house|casa]] sconosciuta sulla riva del Surrey. Bussò e suonò mentre Bob [[Fagin]], suo benefattore e suo incubo, scompariva dietro l'angolo. E quando il domestico venne ad aprire la porta, egli chiese, in apparenza con gravità, se il signor Robert [[Fagin]] abitasse lì. È un tocco strano. L'immortale Dickens si destò in lui per un istante in quell'ultima folle burla di quella sera stremata. La mattina dopo, tuttavia, stava di nuovo abbastanza [[Well|bene]] da rendersi di nuovo malato, e le ruote della grande fabbrica proseguirono. Esse fabbricavano un certo numero di bottiglie del Lucido di Warren, e nel corso del processo fabbricarono anche il più grande ottimista del diciannovesimo secolo.
+
+Questo ragazzo che stramazzava gemendo al lavoro, che era affamato quattro o cinque volte alla settimana, i cui sentimenti migliori e i cui sentimenti peggiori venivano del pari scorticati vivi, era l'uomo su cui due generazioni di critici agiati hanno riversato la lagnanza che la sua visione della vita fosse troppo rosea per essere qualcosa d'altro che irreale. In seguito, e al posto suo, parlerò di ciò che si chiama l'ottimismo di Dickens, e se fosse davvero troppo allegro o troppo levigato. Ma questa sua infanzia può essere registrata ora come un mero fatto. Se fu troppo felice, fu qui che lo imparò. Se la sua scuola di pensiero fu un volgare ottimismo, è qui che andò a scuola. Se imparò a imbiancare l'universo, fu in una fabbrica di lucido che lo imparò.
+
+Di fatto, non c'è un briciolo di prova a dimostrare che coloro i quali hanno avuto esperienze tristi tendano ad avere una triste [[philosophy|filosofia]]. Vi sono innumerevoli punti su cui Dickens è spiritualmente all'unisono con i poveri, cioè con la grande massa dell'umanità. Ma non c'è punto in cui egli sia più perfettamente all'unisono con essi che nel mostrare che non esiste alcun genere di connessione tra l'essere infelice d'un uomo e l'essere pessimista d'un uomo. Il dolore e il pessimismo sono in verità, in un certo senso, cose opposte, poiché il dolore è fondato sul valore di qualcosa, e il pessimismo sul valore di nulla. E in pratica troviamo che quei poeti o quei capi politici che vengono dal popolo, e le cui esperienze sono state davvero laceranti e crudeli, sono le persone più sanguigne del mondo. Questi uomini usciti dall'antica agonia sono sempre ottimisti; a volte sono ottimisti sgradevoli. Un uomo come Robert Burns, il cui padre (come il padre di Dickens) fa bancarotta, la cui intera vita è una lotta contro miserevoli poteri esterni e debolezze interne ancor più miserevoli — un uomo la cui vita comincia grigia e finisce nera — Burns non si limita a cantare la bontà della vita, ma addirittura ne straparla e ne fa la predica. Rousseau, che tutti i suoi amici e conoscenti trattarono quasi altrettanto male di quanto egli trattava loro — Rousseau non diviene semplicemente eloquente, ma diviene traboccante e sentimentale, sull'intrinseca bontà [[Nature|della natura]] umana. Charles Dickens, che fu quanto mai infelice nell'età ricettiva in cui la maggior parte delle persone è quanto mai felice, è in seguito felice quando tutti gli uomini piangono. Le circostanze spezzano le ossa agli uomini; non è mai stato dimostrato che spezzino l'ottimismo agli uomini. Questi grandi capi popolari fanno ogni sorta di cose disperate sotto la sferza immediata della [[Tragedy|tragedia]]. Diventano ubriaconi; diventano demagoghi; diventano morfinomani. Non diventano mai pessimisti. In modo quanto mai indubitabile ci sono uomini cenciosi e infelici che potremmo facilmente comprendere se fossero pessimisti. Ma di fatto non sono pessimisti. In modo quanto mai indubitabile ci sono intere fosche orde d'umanità che perdoneremmo prontamente se maledicessero Dio. Ma non lo fanno. I pessimisti sono aristocratici come Byron; gli uomini che maledicono Dio sono aristocratici come Swinburne. Ma quando coloro che patiscono la fame e soffrono parlano per un momento, non professano semplicemente un ottimismo, professano un ottimismo a buon mercato; sono troppo poveri per potersene permettere uno costoso. Non possono indulgere in alcuna difesa dettagliata o meramente logica della vita; ciò significherebbe ritardarne il godimento. Questi ottimisti più alti, di cui Dickens era uno, non approvano l'universo; nemmeno lo ammirano; se ne innamorano [[Love|d'amore]]. Abbracciano la vita troppo stretta per criticarla o anche solo per vederla. L'esistenza, per simili uomini, ha la selvaggia [[Beauty|bellezza]] d'una donna, e la amano [[Love|d'amore]] con maggiore intensità coloro che la amano [[Love|d'amore]] con minor motivo.
+
+CAPITOLO III
+
+LA GIOVINEZZA DI DICKENS
+
+Vi sono espressioni popolari così pittoresche che, anche quando vogliono essere volutamente comiche, riescono involontariamente poetiche. Ricordo, per prenderne una fra tante, di aver sentito un accalorato laicista a Hyde Park affibbiare a non so quale pastore la squisita locuzione di «pilota del cielo». Successive indagini mi hanno insegnato che il termine vuol essere buffo e persino sprezzante; ma nella prima freschezza dell'ascolto tornai a [[Home|casa]] ripetendolo a me stesso come una poesia nuova. Poche fra le pie leggende hanno concepito un'immagine tanto strana e insieme tanto celeste quanto questa di un pilota nel cielo, chino sul suo timone al di sopra dei firmamenti vuoti, che porta il proprio carico di anime più in alto della nuvola più solitaria. La frase è come una [[Lyric|lirica]] di Shelley. Oppure, per trarre un altro esempio da un'altra lingua, i francesi hanno un modo di dire incomparabile per il ragazzo che marina la scuola: «Il fait l'école buissonnière», va alla scuola dei cespugli, o alla scuola in mezzo ai cespugli. Come esprime mirabilmente questa espressione casuale, «la scuola dei cespugli» (da non confondersi alla leggera con la Scuola d'Arte di Bushey), come esprime mirabilmente questa «scuola dei cespugli» metà delle idee moderne intorno a un'[[Education|educazione]] più naturale! Le due parole racchiudono tutta la poesia di Wordsworth, tutta la [[philosophy|filosofia]] di Thoreau, e valgono, come letteratura, quanto l'una e l'altra.
+
+Ora, fra un milione di simili brandelli di gergo ispirato, ve n'è uno che descrive un certo lato di Dickens meglio di intere pagine di spiegazioni. La frase, assai a proposito, ricorre almeno una volta nelle sue opere, e in un'occasione appropriata. Quando Job Trotter viene mandato da Sam a una folle caccia dietro al signor Perker, il procuratore, il commesso del signor Perker si condoglia con Job per l'ora tarda e per il fatto che tutti i luoghi abitabili sono chiusi. «Amico mio», dice il commesso del signor Perker, «avete la chiave della strada». Il commesso del signor Perker, che era un giovanotto sfrontato e beffardo, potrà forse essere perdonato se usò tale espressione in senso sfrontato e beffardo; ma [[Hope|speriamo]] che Dickens non facesse altrettanto. [[Hope|Speriamo]] che Dickens abbia colto la strana, eppure appagante, giustizia immaginativa di quelle parole; poiché Dickens stesso possedeva, nel senso più sacro e serio del termine, la chiave della strada. Quando escludiamo qualcosa, siamo noi a essere esclusi da quella cosa. Quando escludiamo la strada, siamo esclusi dalla strada. Pochi di noi comprendono la strada. Persino quando vi mettiamo piede, è come entrare in una [[house|casa]] o in una stanza di estranei. Pochi di noi vedono attraverso lo scintillante [[Riddle|enigma]] della strada, la strana gente che appartiene alla strada soltanto: la battona o il monello di strada, i nomadi che, di generazione in generazione, hanno custodito i loro antichi [[Secrets|segreti]] nel pieno fulgore del sole. Della strada di [[Night|notte]] molti di noi sanno ancor meno. La strada di [[Night|notte]] è una [[Great House|grande casa]] serrata. Ma Dickens aveva, se mai uomo l'ebbe, la chiave della strada; le sue [[Stars|stelle]] erano i lampioni della strada; il suo [[Hero|eroe]] era l'uomo della strada. Egli sapeva aprire la porta più intima della propria [[house|casa]]: la porta che immette in quel corridoio segreto fiancheggiato di case e coperto di [[Stars|stelle]].
+
+Questa silenziosa trasformazione in cittadino della strada avvenne durante quegli oscuri giorni della fanciullezza, quando Dickens sgobbava alla fabbrica. Ogni volta che aveva finito di sgobbare, non gli restava altra risorsa che l'andare alla deriva, ed egli andò alla deriva per mezza [[London|Londra]]. Era un [[Child|bambino]] sognatore, che rimuginava per lo più le proprie tetre prospettive. Eppure vide e ricordò molto delle strade e delle piazze che attraversava. Anzi, a dire il vero, si mise al lavoro nel modo giusto, senza accorgersene, per riuscirvi. Non si dava all'«osservazione», abitudine da saccenti; non guardava Charing [[Cross|Cross]] per coltivare la mente, né contava i lampioni di Holborn per esercitarsi nell'aritmetica. Ma inconsapevolmente fece di tutti quei luoghi le scene del mostruoso dramma che si svolgeva nella sua misera piccola [[Soul|anima]]. Camminò nelle tenebre sotto i lampioni di Holborn, e fu crocifisso a Charing [[Cross|Cross]]. Così, per lui, quei luoghi ebbero sempre in seguito la [[Beauty|bellezza]] che appartiene soltanto ai campi di battaglia. Poiché la nostra [[Memory|memoria]] non fissa mai i fatti che ci siamo limitati a osservare. Il solo modo di ricordare per sempre un luogo è di vivere in quel luogo per un'ora; e il solo modo di vivere in un luogo per un'ora è di dimenticare quel luogo per un'ora. Le scene imperiture che tutti possiamo vedere chiudendo gli occhi non sono le scene che abbiamo fissato sotto la guida delle guide turistiche; le scene che vediamo sono le scene che non guardammo affatto: le scene in cui camminavamo mentre pensavamo a qualcos'altro, a un peccato, o a una faccenda d'[[Love|amore]], o a qualche dolore infantile. Possiamo vedere ora lo sfondo appunto perché allora non lo vedemmo. Così Dickens non impresse quei luoghi nella propria mente; impresse la propria mente in quei luoghi. Per lui, sempre in seguito, quelle strade furono mortalmente romantiche; erano intrise delle tinte purpuree della giovinezza e della sua [[Tragedy|tragedia]], e ricche di irrevocabili tramonti.
+
+Qui sta tutto il segreto di quel realismo perturbante con cui Dickens sapeva sempre vivificare qualche angolo buio o scialbo di [[London|Londra]]. Vi sono particolari nelle descrizioni di Dickens — una [[Window|finestra]], o una ringhiera, o il buco della serratura di una porta — ai quali egli conferisce una vita demoniaca. Le cose paiono più reali di quanto le cose realmente siano. Anzi, quel grado di realismo non esiste nella realtà; è l'insopportabile realismo di [[A Dream|un sogno]]. E questa specie di realismo può ottenersi soltanto camminando sognanti in un luogo; non può ottenersi camminando con occhio osservatore. Dickens stesso ci ha fornito un esempio perfetto di come queste minuzie da [[nightmare|incubo]] crescessero in lui nel suo stato di trance astratta. Rammenta, tra le caffetterie in cui si rifugiava in quei giorni sciagurati, una in St. Martin's Lane, «della quale ricordo soltanto che sorgeva presso la chiesa, e che sulla porta v'era una lastra di vetro ovale con la scritta "COFFEE ROOM" dipinta sopra, rivolta verso la strada. Se ora mi capita di trovarmi in un tipo assai diverso di caffè, ma dove ci sia un'[[Inscription|iscrizione]] su vetro, e la leggo all'incontrario dal lato sbagliato, MOOR EEFFOC (come facevo spesso allora in una tetra fantasticheria), un brivido mi corre nel [[Blood|sangue]]». Quella parola selvaggia, «Moor Eeffoc», è il motto di ogni realismo efficace; è il capolavoro del buon principio realistico, il principio secondo cui la cosa più fantastica di tutte è spesso il fatto preciso. E quella specie fatata di realismo Dickens l'adottò dappertutto. Il suo mondo era vivo di oggetti inanimati. La data sulla porta danzava sopra la bottega del signor Grewgious, il batacchio ghignava al signor Scrooge, il Romano dipinto sul soffitto puntava il dito verso il signor Tulkinghorn, la vecchia poltrona lanciava occhiate maligne a Tom Smart: sono tutte cose alla moor eeffoc. Un uomo le vede appunto perché non le guarda.
+
+E così il piccolo Dickens dickensianizzò [[London|Londra]]. Egli spianò la via a tutti i suoi personaggi. In qualunque fessura della nostra [[City|città]] potessero insinuarsi i suoi personaggi, Dickens vi era stato prima di loro. Per quanto sfrenati fossero gli avvenimenti che narrava come esterni a sé, non potevano essere più sfrenati delle cose che si erano svolte dentro di lui. Per quanto strambo potesse essere un personaggio di Dickens, difficilmente poteva essere più strambo di quanto lo fosse Dickens. Tutto il segreto dei suoi scritti posteriori sta sigillato in quegli anni silenziosi dei quali non rimane parola scritta. Quegli anni gli fecero forse del male, come il suo biografo, Forster, ha suggerito con avvedutezza, acuendo in lui un certo feroce [[Individualism|individualismo]] che una o due volte, durante la sua vita affabile, balenò come una lama seminascosta. Fu sempre generoso; ma la vita l'aveva trattato troppo duramente perché potesse sempre essere accomodante. Fu sempre di buon cuore; non fu sempre di buon umore. Quegli anni possono anche, nella loro strana mescolanza di morbosità e di realtà, avere accresciuto in lui la tendenza all'esagerazione. Ma difficilmente possiamo dolercene in senso letterario; l'esagerazione è quasi la definizione dell'arte — ed è interamente la definizione dell'arte di Dickens. Quegli anni possono avergli inferto molte ferite morali e mentali, dalle quali non guarì mai. Ma gli diedero la chiave della strada.
+
+C'è una bizzarra contraddizione nell'[[Soul|anima]] dell'ottimista nato. Egli può essere felice e infelice nello stesso [[Time|tempo]]. In Dickens la depressione pratica della sua vita in quel [[Time|tempo]] non gli impedì affatto di mettere da parte quei ricordi ilari di cui son fatti tutti i suoi libri. Senza [[Doubt|dubbio]] egli era autenticamente infelice nel misero luogo dove sua madre teneva scuola. Ciò nondimeno fu là che notò l'insondabile bizzarria della piccola servetta che trasformò nella [[Marchioness]]. Senza [[Doubt|dubbio]] era ben poco a suo agio nella [[house|pensione]] della signora Roylance; ma percepì con una gioia tremenda che il nome della signora Roylance era Pipchin. Non pare esservi incompatibilità fra l'incamerare [[Tragedy|tragedia]] ed emettere [[Comedy|commedia]]; le due cose possono correre parallele in una stessa personalità. Un episodio ch'egli descrisse nella sua «autobiografia» incompiuta, e che poi trasferì quasi alla lettera in [[David Copperfield]], era singolarmente ricco e suggestivo. Fu l'inaugurazione di una petizione al [[King|Re]] per un sussidio, redatta da un comitato di prigionieri della Marshalsea, comitato di cui il padre di Dickens era il presidente, senza [[Doubt|dubbio]] in virtù della sua oratoria, e anche lo scrivano, senza [[Doubt|dubbio]], in virtù del suo genuino [[Love|amore]] per i voli letterari.
+
+«Quanti fra i principali funzionari di questo [[Body|Corpo]] poterono essere stipati in una piccola stanza senza riempirla del tutto lo sostennero dinanzi alla petizione; e il mio vecchio amico, il Capitano Porter (che si era lavato per rendere [[Honour|onore]] a un'occasione tanto solenne), si piazzò accanto a essa, per leggerla a tutti coloro che ne ignoravano il contenuto. La porta venne allora spalancata, e cominciarono a entrare in lunga fila; parecchi aspettavano sul pianerottolo fuori, mentre uno entrava, apponeva la propria firma, e usciva. A ciascuno, uno dopo l'altro, il Capitano Porter diceva: "Desiderate udirla leggere?" Se costui mostrava debolmente la minima inclinazione ad ascoltarla, il Capitano Porter, con voce alta e sonora, gliene dava ogni parola. Ricordo un certo delizioso indugio ch'egli poneva su parole come "Maestà — Graziosa Maestà — gli sventurati sudditi di Vostra Graziosa Maestà — la [[Well|ben]] nota munificenza di Vostra Maestà", come se le parole fossero qualcosa di reale nella sua bocca e deliziose al gusto: mio povero padre intanto ascoltava con un po' della [[Vanity|vanità]] dell'autore e contemplava (non severamente) la punta di ferro sul muro di fronte. Qualunque cosa vi fosse di comico o di patetico in quella scena, credo sinceramente di averla percepita nel mio cantuccio, la mostrassi o no, altrettanto [[Well|bene]] di quanto la percepirei ora. Immaginai un piccolo carattere e una storia tutti miei per ciascun uomo che apponeva il proprio nome sul foglio di carta».
+
+Qui vediamo assai chiaramente che Dickens non si limitò a volgersi indietro, in seguito, e a scorgere che quelle scene comiche erano state deliziose. Egli ne era deliziato nello stesso momento in cui era disperato. Le due cose opposte esistevano in lui simultaneamente, e ciascuna nella sua piena forza. La sua [[Soul|anima]] non era un colore misto come il grigio e il porpora, prodotto dal fatto che nessun colore componente è pienamente se stesso. La sua [[Soul|anima]] era come una seta cangiante di nero e cremisi, una seta cangiante di miseria e di gioia.
+
+Visti dal di fuori, i suoi piccoli piaceri e le sue stravaganze paiono più patetici del suo dolore. Una volta la piccola solenne figuretta entrò in un'[[house|osteria]] in Parliament Street, e si rivolse all'uomo dietro il banco in questi termini: «Qual è la vostra migliore — la migliorissima birra a bicchiere?» L'uomo rispose: «Due pence». «Allora», disse il pupo, «tiratemene un bicchiere di quella, per favore, con una bella schiuma». «L'oste», racconta Dickens narrando la storia, «mi guardò a sua volta di sopra al banco dalla testa ai piedi con uno strano sorriso in faccia; e invece di spillare la birra girò lo sguardo dietro il paravento e disse qualcosa a sua moglie, che ne uscì col lavoro fra le mani e si unì a lui nello squadrarmi. . . . Mi fecero un buon numero di domande su come mi chiamassi, quanti anni avessi, dove abitassi, in che cosa fossi impiegato, ecc. ecc. A tutte le quali, per non compromettere nessuno, inventai risposte appropriate. Mi servirono la birra, benché sospetti che non fosse la più forte della casa; e la moglie dell'oste, aprendo lo sportellino, e chinandosi, mi diede un bacio». Qui egli tocca quell'altro lato della vita comune di cui doveva farsi il principale campione; doveva mostrare che non c'è birra come la birra della festa d'un pover'uomo, e nessun piacere come i piaceri dei poveri. In altri luoghi di ristoro fu ancora più maestoso. «Ricordo», dice, «di aver ficcato il mio pane (che avevo portato da [[Home|casa]] al mattino) sotto il braccio, avvolto in un pezzo di carta come un libro, e di essere entrato nella migliore sala da pranzo dell'[[house|Osteria]] del Manzo à la Mode di Johnson in Clare [[Court]], Drury Lane, e di aver ordinato magnificamente un piattino di manzo à la mode per accompagnarlo. Che cosa pensasse il cameriere di una così strana piccola apparizione che entrava tutta [[Alone|sola]] non so; ma lo rivedo ancora fissarmi mentre mangiavo il mio pranzo, e chiamare l'altro cameriere a guardare. Gli diedi mezzo penny, e vorrei, ora, che non l'avesse preso».
+
+Per il ragazzo in sé la prospettiva pareva farsi sempre più tetra. Questa frase, in verità, esprime a stento il fatto; poiché, come lo sentiva lui, non era tanto una serie di rovesci di fortuna quanto il chiudersi di una sicura e silenziosa sciagura, come il sopraggiungere del crepuscolo e del buio. Sentiva che sarebbe morto e sarebbe stato seppellito nel lucido da scarpe. In tutto questo non pare che avesse detto molto ai genitori della propria angoscia. Coloro che erano in [[Prison|prigione]] avevano di certo un [[Time|tempo]] assai più allegro di lui che era libero. Ma di tutti gli strani modi in cui l'essere umano dimostra di non essere un essere razionale, qualunque altra cosa sia, nessun caso è tanto misterioso e inspiegabile quanto la segretezza dell'[[Childhood|infanzia]]. Apprendiamo della crudeltà di qualche scuola o fabbrica di [[Child|bambini]] dai giornalisti; l'apprendiamo dagli ispettori, l'apprendiamo dai medici, l'apprendiamo persino dai maestri colti dalla vergogna e dagli sfruttatori pentiti; ma non l'apprendiamo mai dai bambini; non l'apprendiamo mai dalle vittime. Parrebbe che una creatura vivente debba essere ammaestrata, come in un'arte di coltura, nell'arte di gridare quando le si fa male. Parrebbe che la pazienza sia la cosa naturale; parrebbe che l'impazienza sia un'abilità acquisita come il whist. Comunque stiano le cose, è del tutto certo che Dickens avrebbe potuto sgobbare e morire sgobbando, e seppellire il [[Pickwick]] [[unborn|non nato]], se non fosse stato per un caso esterno.
+
+Egli aveva, come s'è detto, l'abitudine di andare a trovare il padre alla Marshalsea ogni settimana. I colloqui fra i due dovettero essere una [[Comedy|commedia]] a un tempo più crudele e più delicata di qualunque Dickens abbia mai descritto. Meredith saprebbe dipingere il paragone fra il [[Child|bambino]] i cui affanni erano così infantili, ma che li sentiva come uno spirito dannato, e l'uomo di mezza età il cui affanno era la rovina definitiva, e che lo sentiva non più di un poppante. Una volta, a quanto pare, il ragazzo crollò del tutto — forse sotto l'insopportabile spensieratezza del suo papà oratore — e implorò di essere liberato dalla fabbrica: lo implorò, [[Fear|temo]], con una precoce e quasi orribile eloquenza. Il vecchio ottimista rimase sbalordito, troppo sbalordito per fare alcunché di particolare. Se l'episodio abbia realmente avuto a che vedere con quel che seguì non si può decidere, ma in apparenza non l'ebbe. In apparenza la causa dell'ultima liberazione di Charles fu una lite fra suo padre e Lamert, il capo della fabbrica. Dickens il vecchio (che aveva finalmente lasciato la Marshalsea) sapeva senza [[Doubt|dubbio]] condurre una lite con la magnificenza di Micawber; il risultato di questo talento, in ogni caso, fu di lasciare il signor Lamert in un furore altissimo. Egli ebbe un burrascoso colloquio con Charles, nel quale cercò di essere di buon umore col ragazzo, ma non riuscì quasi a frenare la lingua a proposito del padre di lui. Alla fine gli disse che doveva andarsene, e con ogni formalità la piccola creatura fu solennemente espulsa dall'inferno.
+
+Sua madre, con un tocco di strana durezza, era per rappezzare la lite e rimandarlo indietro. Forse, con la feroce responsabilità femminile, sentiva che la prima necessità era di tenere la famiglia fuori dai debiti. Ma il vecchio John Dickens qui batté il pugno sul tavolo — batté il pugno con quella squillante ma assai rara fermezza con cui (una volta ogni dieci anni, e spesso per qualche inezia) l'uomo più debole travolgerà la donna più forte. Il ragazzo era infelice; il ragazzo era in gamba; il ragazzo doveva andare a scuola. Il ragazzo andò a scuola; andò alla Wellington [[house|House]] Academy, in Mornington Place. Fu una singolare esperienza per chiunque passare dal mondo alla scuola, invece di passare dalla scuola al mondo. Dickens, si può dire, ebbe la sua fanciullezza dopo la sua giovinezza. Aveva visto la vita nella sua forma più rozza prima di cominciare il proprio addestramento a essa, e conobbe le peggiori parole della lingua inglese probabilmente prima delle migliori. Questa strana cronologia, si ricorderà, egli la conservò nel suo resoconto semiautobiografico delle avventure di [[David Copperfield]], che entrò nella ditta di Murdstone e Grinby prima di andare alla scuola tenuta dal dottor Strong. [[David Copperfield]], anch'egli, andò a essere accuratamente preparato per un mondo che aveva già visto. Al di fuori di [[David Copperfield]], le testimonianze su Dickens in questo [[Time|periodo]] si riducono a pochi scorci forniti da compagni occasionali dei suoi giorni di scuola, e poco se ne può dedurre sulla sua personalità oltre a un'impressione generale di vivacità e, forse, di spavalderia, di occhi lucenti e di frasi brillanti. Probabilmente la giovane creatura si stava rimettendo dalle proprie sventure, stava traendo il massimo dalla propria libertà, stava battendo le ali di quello spirito selvaggio che c'era mancato poco fosse spezzato. Sentiamo parlare di cose che suonano d'improvviso puerili dopo i suoi affanni più maturi: di un linguaggio segreto che pareva puro farfugliare, e di un piccolo teatro, con la vernice e il fuoco [[Fire|rosso]]; come quello che Stevenson amava. Non fu un caso che Dickens e Stevenson lo amassero. È un palcoscenico inadatto al realismo psicologico; i personaggi di cartone non possono analizzarsi a vicenda con alcun effetto. Ma è un palcoscenico quasi divinamente adatto a creare ambienti, a creare quella situazione e quello sfondo che appartengono in modo peculiare al [[Romance|romanzesco]]. Un teatrino di giocattolo, di fatto, è l'opposto delle recite private. In queste ultime puoi fare qualunque cosa con le persone se non chiedi molto alle scenografie; nel primo puoi fare qualunque cosa nelle scenografie se non chiedi molto alle persone. In un teatrino di giocattolo riusciresti a stento a mettere in scena un dialogo moderno sul [[Marriage|matrimonio]], ma il Giorno del Giudizio sarebbe facilissimo.
+
+Lasciata la scuola, Dickens trovò impiego come scrivano presso il signor Blackmore, un procuratore, come uno di quegli oscuri sotto-scrivani che poi mise a molti usi [[Grotesque|grotteschi]]. Qui, senza [[Doubt|dubbio]], incontrò Lowten e Swiveller, Chuckster e Wobbler, nella misura in cui simili sacre creature abbiano mai avuto incarnazioni su questa bassa terra. Ma è tipico di lui il non avere avuto alcuna voglia di restare scrivano di procuratore. La risoluzione di elevarsi che aveva arso in lui persino da ragazzo bighellone, quando fissava lo sguardo su Gads-[[Hill|hill]], che era stata oscurata ma non del tutto distrutta dalla sua caduta nella routine della fabbrica, che era stata di nuovo liberata dal suo ritorno a una normale fanciullezza e ai confini della scuola, difficilmente si sarebbe ora accontentata di ricopiare contratti. Si mise all'opera, senza alcun consiglio né aiuto, per imparare a fare il cronista. Lavorava tutto il giorno al diritto, e tutta la [[Night|notte]] alla stenografia. È un'arte che può ottenersi soltanto con il [[Time|tempo]], ed egli dovette ottenerla con lo straordinario. Ma imparando la cosa in ogni condizione di svantaggio, senza un maestro, senza la possibilità di concentrazione o di piena forza mentale, senza il normale [[Sleep|sonno]] umano, fece di sé uno dei più rapidi cronisti allora viventi. C'è un curioso contrasto fra la trascuratezza dell'addestramento intellettuale a cui i suoi genitori e altri lo sottoposero e la selvaggia serietà dell'addestramento a cui sottopose se stesso. Qualcuno chiese una volta al vecchio John Dickens dove suo figlio Charles fosse stato educato. «[[Well|Beh]], per la verità», disse la grande creatura, nella sua maniera ampollosa, «si può dire — ah — che si sia educato da sé». Poteva ben dirlo.
+
+Vale la pena di soffermarci su questa intensità pratica di Dickens, perché illustra un'antitesi elementare del suo carattere, o quella che appare come un'antitesi nella nostra moderna psicologia popolare. Parliamo sempre di uomini forti contro uomini deboli; ma Dickens non fu soltanto insieme un uomo debole e un uomo forte, fu un uomo assai debole e insieme un uomo assai forte. Era tutto ciò che oggi chiamiamo un uomo debole; era un uomo appeso a dei fili; era un uomo che avrebbe potuto in qualunque momento piangere come un [[Child|bambino]]; era così sensibile alla critica che si può dire mancasse di pelle; era così nervoso che permise a grandi tragedie della sua vita di sorgere unicamente dai nervi. Ma nella cosa in cui tutti gli uomini forti ordinari sono miseramente deboli — nella cosa della fatica concentrata e dello scopo chiaro e dell'invincibile [[Courage|coraggio]] mondano — era come una diritta [[Sword|spada]]. La signora Carlyle, che nei suoi epiteti umani spesso colpiva il chiodo così in pieno da farlo risuonare, disse una volta di lui: «Ha una faccia fatta d'acciaio». Ciò fu probabilmente sentito in un lampo quando ella vide, in qualche ressa mondana, il volto chiaro e ansioso di Dickens fendere quelli che gli stavano attorno come un coltello. Chiunque l'avesse incontrato d'anno in anno avrebbe ogni anno trovato un uomo debolmente angustiato dal proprio declino mondano; e ogni anno l'avrebbe trovato più in alto nel mondo. Il suo era un carattere assai difficile da comprendere per qualunque uomo di temperamento lento e mansueto; era il carattere che chiunque può ferire e nessuno può uccidere.
+
+Quando cominciò a fare il cronista alla [[house|Camera]] dei Comuni aveva ancora soltanto diciannove anni. Suo padre, che era stato liberato dalla sua [[Prison|prigione]] poco [[Time|tempo]] prima che Charles fosse liberato dalla propria, era anch'egli divenuto, fra molte altre cose, cronista. Ma il vecchio John Dickens sapeva godersi il fare qualunque cosa senza alcuna particolare [[Aspiration|aspirazione]] a farla [[Well|bene]]. Charles invece era di tutt'altra tempra. Era, come ho detto, divorato da una sete duratura e quasi rabbiosa di eccellere. Imparò la stenografia con una cupa dedizione di [[Self|sé]], come fosse un sacro geroglifico. Di questa [[Self|auto]]-istruzione, come di ogni altra cosa, ci ha lasciato frasi umoristiche e illuminanti. Descrive come, dopo aver imparato l'intero alfabeto esatto, «apparve allora una processione di nuovi orrori, chiamati caratteri arbitrari — i caratteri più dispotici che io abbia mai conosciuto; i quali insistevano, per esempio, che una cosa simile all'inizio di una ragnatela significava "aspettativa", e che un razzo di penna e inchiostro stava per "svantaggioso"». Conclude: «Era quasi da spezzare il cuore». Ma è significativo che qualcun altro, un suo collega, concludesse: «Non c'è mai stato uno stenografo simile».
+
+Dickens riuscì a diventare stenografo; riuscì a diventare cronista; riuscì infine a diventare un giornalista assai efficace. Fu nominato cronista dei discorsi in Parlamento, prima dal True Son, poi dal [[Mirror]] of Parliament, e infine dal Morning Chronicle. Riferiva i discorsi assai [[Well|bene]], e se dobbiamo analizzare le sue opinioni intime, molto meglio di quanto meritassero. Poiché va ricordato che questo ragazzo entrò nella tribuna dei cronisti pieno del radicalismo trionfante che allora era la marea montante del mondo. Era, va confessato, assai poco soggiogato dalla dignità della Madre dei Parlamenti; considerava la [[house|Camera]] dei Comuni press'a poco come considerava la [[house|Camera]] dei Lord, come una specie di venerabile burla. Fu, forse, mentre osservava, pallido di stanchezza, dalla tribuna dei cronisti, che sprofondò in lui una cosa che non l'abbandonò mai, il suo insondabile disprezzo per la Costituzione britannica. Poi udì forse, dai banchi del [[government|Governo]], le immortali giustificazioni dell'Ufficio delle Circonlocuzioni. «Allora il nobile lord o l'onorevole gentiluomo, nel cui dipartimento spettava difendere l'Ufficio delle Circonlocuzioni, si metteva in tasca un'arancia, e faceva dell'occasione una vera e propria giornata campale. Allora scendeva a quella [[house|Camera]] con una manata sul tavolo e affrontava l'onorevole gentiluomo a piè fermo. Allora era là a dire a quell'onorevole gentiluomo che l'Ufficio delle Circonlocuzioni non solo era incolpevole in questa faccenda, ma era lodevole in questa faccenda, era da esaltare fino alle stelle in questa faccenda. Allora era là a dire a quell'onorevole gentiluomo che sebbene l'Ufficio delle Circonlocuzioni avesse invariabilmente ragione, e interamente ragione, non aveva mai avuto tanta ragione quanta in questa faccenda. Allora era là a dire all'onorevole gentiluomo che sarebbe stato più a suo [[Honour|onore]], più a suo credito, più a suo buon gusto, più a suo buon senso, più a mezzo dizionario di luoghi comuni se avesse lasciato [[Alone|in pace]] l'Ufficio delle Circonlocuzioni e non avesse mai toccato questa faccenda. Allora teneva un occhio su un ripetitore o un preparatore dell'Ufficio delle Circonlocuzioni sotto la sbarra, e sfracellava l'onorevole gentiluomo con la versione dell'Ufficio delle Circonlocuzioni intorno a questa faccenda. E benché accadesse sempre una di due cose; ossia, o che l'Ufficio delle Circonlocuzioni non avesse nulla da dire, e lo dicesse, oppure che avesse qualcosa da dire di cui il nobile lord o l'onorevole gentiluomo pasticciava una metà e dimenticava l'altra; l'Ufficio delle Circonlocuzioni era sempre votato immacolato da una maggioranza compiacente». Ora ci si dice generalmente che Dickens ha distrutto questi abusi, e che questo non è più un quadro veritiero della vita pubblica. Tale, in ogni caso, è la versione dell'Ufficio delle Circonlocuzioni intorno a questa faccenda. Ma Dickens da buon radicale preferirebbe di gran lunga, immagino, che continuassimo la sua battaglia piuttosto che celebrare il suo trionfo; specie quando non è giunto. L'Inghilterra è ancora governata dalla grande famiglia Barnacle. Il Parlamento è ancora governato dalla grande trinità Barnacle: il solenne vecchio Barnacle che sapeva che l'Ufficio delle Circonlocuzioni era una protezione, il brioso giovane Barnacle che sapeva ch'era una frode, e lo sconcertato giovane Barnacle che non ne sapeva nulla. Da questi tre tipi i nostri Gabinetti sono ancora reclutati in via esclusiva. La gente parla delle tirannie e delle anomalie che Dickens denunciò come cose del passato al pari della Camera Stellata. Crede che i giorni del vecchio stupido ottimismo e della vecchia brutale indifferenza siano finiti per sempre. In [[Truth|verità]], questa stessa credenza è soltanto il volto del vecchio stupido ottimismo e della vecchia brutale indifferenza. Crediamo in un'Inghilterra libera e in un'Inghilterra pura, perché crediamo ancora nella versione dell'Ufficio delle Circonlocuzioni intorno a questa faccenda. Indubbiamente la nostra serenità è largamente diffusa. Crediamo che l'Inghilterra sia realmente riformata, crediamo che l'Inghilterra sia realmente democratica, crediamo che la politica inglese sia libera dalla corruzione. Ma questa nostra generale soddisfazione non prova che Dickens abbia battuto i Barnacle. Prova soltanto che i Barnacle hanno battuto Dickens.
+
+Non si dirà dunque mai abbastanza spesso che dobbiamo leggere nel giovane Dickens e nelle sue opere questo antico tono radicale verso le istituzioni. Quel tono era una sorta di lieta impazienza. E quando Dickens dovette ascoltare per ore il discorso del nobile lord in difesa dell'Ufficio delle Circonlocuzioni, quando cioè dovette ascoltare quelle che egli considerava le ultime vaporazioni di un'oligarchia agonizzante, l'impazienza prevalse piuttosto sulla letizia. La sua [[Nature|natura]] incurabilmente irrequieta trovava maggior piacere nel lato vagabondo del giornalismo. Girava all'impazzata in carrozze di posta a riferire i comizi politici per il Morning Chronicle. «E che gentiluomini erano da servire», esclamava, «in simili faccende al vecchio Morning Chronicle. Grande o piccola che fosse la cosa non importava. Ho dovuto mettere in conto una mezza dozzina di guasti in una mezza dozzina di volte tante miglia. Ho dovuto mettere in conto il danno di un pastrano dalle gocciolature di una candela di cera fiammeggiante, mentre scrivevo attraverso le più piccole ore della [[Night|notte]] in un veloce tiro a due che volava». E ancora: «Ho spesso trascritto per lo stampatore, dai miei appunti stenografici, importanti discorsi pubblici nei quali si esigeva la più rigorosa esattezza, e un errore nei quali sarebbe stato per un giovane gravemente compromettente, scrivendo sul palmo della mano, al lume di una lanterna cieca, in una carrozza di posta a quattro cavalli, galoppando per una campagna selvaggia e attraverso il cuore morto della [[Night|notte]], all'allora sorprendente velocità di quindici miglia all'ora». Tutta la vita di Dickens procede al pulsare di quel galoppo notturno. Tutta la sua reale selvatichezza, trapassata da una malvagità immaginativa, egli la espresse in seguito nella corsa di [[Jonas Chuzzlewit]] attraverso la [[Storm|tempesta]].
+
+Per tutto questo [[Time|tempo]], e anzi, da un [[Time|tempo]] di cui non si può prendere misura, la parte creativa della sua mente era stata in fermento o addirittura in febbre. Ancora fanciullo aveva scritto per proprio diletto alcuni schizzi di gente strana che aveva incontrato; in particolare, uno del barbiere di suo zio, il cui principale passatempo era additare ciò che Napoleone avrebbe dovuto fare in materia di tattica militare. Aveva un taccuino pieno di simili schizzi. Aveva schizzi non solo di persone, ma di luoghi, che per lui erano quasi più personali delle persone. Nel dicembre del 1833 pubblicò uno di questi frammenti nell'Old Monthly Magazine. Ne seguirono altri nove sullo stesso giornale, e quando il giornale (che era un'impresa romanticamente radicale, diretta da un veterano soldato di Bolívar) crollò a sua volta, Dickens continuò la serie sull'Evening Chronicle, un'appendice del quotidiano del mattino dello stesso nome. Furono questi i pezzi poi pubblicati e noti come i «Sketches by Boz»; e con essi Dickens entra nella letteratura. Egli entra anche in molte cose in questo [[Time|periodo]]; entra nell'età virile, e fra le altre cose nel [[Marriage|matrimonio]]. Un suo amico del Chronicle, George Hogarth, aveva diverse figlie. Con tutte quante Dickens pare essere stato in rapporti di grande affetto. Questo [[Sketch|profilo]] è del tutto letterario, e non sento la necessità di fare più che sfiorare episodi come il suo [[Marriage|matrimonio]], così come non farò più che sfiorare la [[Tragedy|tragedia]] che infine lo colpì. Ma si può qui suggerire che le sventure finali furono in qualche misura dovute alle circostanze che accompagnarono l'atto originario. Un uomo giovanissimo che si apriva la strada, ed eccessivamente povero, senza ricordi degli anni passati che non fossero monotoni e meschini, e con i ricordi più forti e più personali del tutto ignominiosi e insopportabili, venne d'un tratto gettato nella compagnia di un'intera famiglia di ragazze. Credo di non esagerarne la debolezza, e credo che in parte costituisca la sua scusa, se dico che cadde [[Love|innamorato]] della possibilità dell'[[Love|amore]]. Come talvolta accade nella giovinezza immatura, un'astratta femminilità semplicemente lo inebriò. In ciò che venne dopo egli fu enormemente colpevole. Ma non credo che il suo fosse un caso di fredda separazione da una donna che aveva un tempo seriamente e unicamente amato. Egli si era smarrito in una foschia ardente, non dirò neppure di primo [[Love|amore]], ma di primi corteggiamenti. L'intera famiglia lo eccitava prima che cadesse [[Love|innamorato]] di una di loro; e continuò a eccitarlo a lungo dopo che ebbe litigato con lei per cause che non distrussero nemmeno il suo affetto per lei. Questa opinione è confermata in modo sorprendente da tutti i particolari del suo atteggiamento verso tutti gli altri membri della sacra [[house|casa]] Hogarth. Una delle sorelle rimase, s'intende, la sua più cara amica fino alla [[Death|morte]]. Un'altra, che era morta, egli la venerava come una santa, e chiese sempre di essere seppellito nella sua [[Grave|tomba]]. Si sposò il 2 aprile 1836. Forster osserva che pochi giorni prima dell'annuncio del loro [[Marriage|matrimonio]] sul Times, lo stesso giornale conteneva un altro annuncio: che il 31 sarebbe stato pubblicato il primo numero di un'opera intitolata «Le carte postume del Circolo [[Pickwick]]». È l'inizio della sua carriera.
+
+Gli «Sketches», a parte splendidi guizzi di [[Humour|umorismo]] qua e là, non sono manifestazioni dell'uomo di genio. Potremmo quasi dire che questo libro è uno dei pochi libri di Dickens che, da [[Alone|solo]], non gli avrebbe procurato la fama. Eppure, da [[Alone|solo]], gliela procurò davvero. I suoi contemporanei sapevano scorgervi uno spirito nuovo, laddove noi, avvezzi ai frutti più maturi di quello spirito, possiamo solo vedervi la continuazione dello spirito prosaico e quasi legnoso dei libri comici di quel tempo. Ma in ogni caso ben difficilmente dovremmo cercare, nel primo libro di un uomo, la pienezza del suo contributo alle lettere. La giovinezza è quasi ogni altra cosa, ma non è quasi mai originale. Leggiamo di giovani che irrompono sul vecchio mondo con un messaggio nuovo. Ma la giovinezza nell'esperienza reale è il periodo dell'[[Imitation|imitazione]] e persino dell'obbedienza. Soggettivamente le sue emozioni possono essere furiose e impetuose; ma il suo unico esito esterno è una furiosa [[Imitation|imitazione]] e un'impetuosa obbedienza. Man mano che invecchiamo impariamo la cosa speciale che dobbiamo fare. Man mano che un uomo procede verso la [[Grave|tomba]], scopre a poco a poco una [[philosophy|filosofia]] che può davvero dire fresca, uno stile che può davvero dire proprio, e man mano che diventa un uomo più vecchio diventa uno scrittore nuovo. Ibsen, in gioventù, scrisse drammi quasi classici sui vichinghi; fu nella vecchiaia che cominciò a rompere finestre e a lanciare fuochi d'artificio. Il solo difetto, si disse, dei primi [[Poems|versi]] di Browning era che avevano «troppa [[Beauty|bellezza]] d'immagini, e troppo poca ricchezza di pensiero». Il solo difetto, cioè, dei primi [[Poems|versi]] di Browning, era che non erano di Browning.
+
+In un modo, tuttavia, gli «Sketches by Boz» spiccano assai simbolicamente nella vita di Dickens. Costituiscono in certa maniera la sua dedicazione al proprio compito peculiare; la pittura insieme partecipe e pur esagerata della piccola borghesia più modesta. Egli doveva far sentire agli uomini che questa scialba classe media era in realtà una specie di terra degli elfi. Ma anche qui l'opera è rozza e non ancora sviluppata; e ciò si mostra nel fatto ch'essa è assai più esageratrice che partecipe. Non ci interessa, s'intende, quella specie di persone che dicono di desiderare che Dickens fosse più raffinato. Se mai quelle persone verranno raffinate sarà col [[Fire|fuoco]]. Ma vi è in quest'opera primissima un elemento che quasi svanì in quelle posteriori, un elemento che è tipico delle classi medie in Inghilterra, e che in un senso più reale merita di essere chiamato volgare. Voglio dire che in queste piccole farse vi è una traccia, nell'autore [[Well|non meno]] che nei personaggi, di quel meschino senso della precedenza sociale, di quel brusio di piccole ignote oligarchie, che è l'unico serio peccato della borghesia di Gran Bretagna. Può parere pedantesco, per esempio, addurre una farsa chiassosa come la storia di [[Horatio]] Sparkins, che racconta come una famiglia arrampicatrice ospitasse un giovane retore credendolo un lord, e scoprisse ch'era il commesso di un merciaio. Senza [[Doubt|dubbio]] erano assai snob nel pensare che un lord dovesse essere eloquente; ma non possiamo fare a meno di sentire che Dickens è quasi altrettanto snob nel trovare tanto buffo che il commesso di un merciaio dovesse essere eloquente. Un uomo libero, si penserebbe, disprezzerebbe la famiglia altrettanto anche se [[Horatio]] fosse stato un pari del regno. Qui, e qui soltanto, vi è appena un tocco della volgarità, dell'unica volgarità del mondo da cui Dickens proveniva. Poiché l'unico elemento di bassezza che vi è realmente nel nostro popolino è esattamente ch'esso è pieno di superiorità e molto conscio della classe. Sfumature, impercettibili agli occhi altrui, ma dure e altezzose come una casta di Brahmini, separano un tipo di sguattera da un altro tipo di sguattera. Dickens era destinato a mostrare con ispirata simbologia tutte le immense virtù della [[democracy|democrazia]]. Doveva mostrarle come la parte più umoristica della nostra civiltà; e certamente lo sono. Doveva mostrarle come la parte più pronta e praticamente compassionevole della nostra civiltà; e certamente lo sono. La [[democracy|democrazia]] ha un centinaio di esuberanti buone qualità; la [[democracy|democrazia]] ha un solo peccato che spicca: non è democratica.
+
+CAPITOLO IV
+
+«IL [[Pickwick|CIRCOLO PICKWICK]]»
+
+Intorno alla nascita del «[[Pickwick]]» scoppiò una di quelle liti letterarie
+troppo frequenti nella vita di Dickens.  Simili liti, in verità,
+nascevano di solito da qualche preciso errore o soperchieria
+da parte di qualcun altro; ma erano anche rese possibili
+da una suscettibilità indefinita, da una permalosità propria dello stesso Dickens.
+Egli era tanto sensibile sui punti della paternità personale che perfino il suo
+sacro senso dell'[[Humour|umorismo]] lo abbandonava.  Trasformava in nemici mortali
+persone che avrebbe potuto tramutare assai facilmente in scherzi immortali.
+Non che fosse senza legge; in un certo senso era anzi troppo legalista;
+ma non comprendeva il principio del de minimis non curat lex.
+Chiunque poteva ritrarlo; qualsiasi [[Fool|sciocco]] poteva farlo passare per [[Fool|sciocco]].
+Qualsiasi oscuro pazzo a cui venisse in mente di dire che aveva scritto lui l'intero
+«[[Martin Chuzzlewit]]»; qualsiasi imbrattacarte a due soldi a cui venisse in mente di dire
+che Dickens non portava colletto alla camicia, poteva provocare le più
+appassionate e pubbliche smentite, come d'un uomo che si dichiarasse «non colpevole»
+di stregoneria o d'alto tradimento.  Di qui le lettere di Dickens sono
+piene d'un certo singolare tipo di liti e di lagnanze,
+liti e lagnanze nelle quali non si può dire ch'egli avesse torto,
+ma soltanto che, pur avendo ragione,
+si trovava nel posto sbagliato.  Non era soltanto un uomo generoso,
+era perfino un uomo giusto; l'aver mosso contro chiunque un'accusa
+o una pretesa ingiusta gli sarebbe stato insopportabile.
+La sua debolezza era che trovava la pretesa o l'accusa ingiusta,
+per quanto piccola, altrettanto insopportabile quando era rivolta contro se stesso.
+Nessuno può dire di lui ch'egli avesse spesso torto; possiamo solo dire
+di lui, come di molte persone battagliere, ch'egli aveva troppo spesso ragione.
+
+Le vicende che accompagnarono l'inaugurazione del «[[Pickwick]]»
+non sono, forse, un esempio perfetto di questo tratto, perché Dickens
+era qui un giornalista che campava alla giornata, e il colpo avrebbe forse potuto
+essere più invalidante di quelli inferti a lui nei suoi giorni di trionfo.
+Ma per tutti quei giorni di trionfo, e fino al giorno della sua [[Death|morte]],
+Dickens prese questa vecchia tempesta in un bicchier d'acqua con la più terribile gravità,
+stese dichiarazioni, chiamò testimoni, conservò documenti schiaccianti,
+e trasmise ai suoi figli la follia dimenticata come se fosse stata
+una faida delle Highland.  Eppure la pretesa ingiusta avanzata contro di lui era tanto
+più ridicola ancora che ingiusta, che pare strano
+ch'egli dovesse ricordarsene per un mese se non per proprio divertimento.
+I fatti sono semplici e noti ai più.  Gli editori—
+Chapman & Hall—desideravano produrre una sorta di dispensa periodica con
+illustrazioni comiche d'un popolare caricaturista di nome Seymour.  Questo [[Artist|artista]]
+era famoso soprattutto per la sua resa del lato farsesco dello sport,
+e per assecondare questa specialità gli editori suggerirono a Dickens,
+in modo assai vago, ch'egli scrivesse d'un Circolo Nembrot,
+o qualcosa del genere, un circolo di sportivi dilettanti, condannati a
+perpetue ignominie.  Dickens si oppose in sostanza per due
+ragioni assai sensate—primo, che i bozzetti sportivi erano stantii;
+e secondo, ch'egli non sapeva nulla di sport.  Mutò
+l'idea in quella d'un circolo generale di viaggi e d'indagine,
+il Circolo [[Pickwick]], e conservò un solo fatale sportivo, il signor Winkle,
+il [[Melancholy|malinconico]] residuo del Circolo Nembrot che mai fu.
+Le prime sette illustrazioni apparvero con la firma di
+Seymour e il testo a stampa di Dickens, e in esse Winkle
+e i suoi guai erano abbastanza, ma non straordinariamente in vista.
+Prima che apparisse l'ottava illustrazione, Seymour si era fatto saltare le cervella.
+Dopo un breve intervallo in cui fu impiegato un uomo di nome
+Buss, Dickens ottenne l'assistenza di Hablot K. Browne,
+che tutti chiamiamo «Phiz», e col quale si può quasi, in un certo senso,
+dire ch'egli si sia messo in società.  Erano adatti l'uno
+all'altro e alla comune creazione d'una cosa unica quanto Gilbert
+e Sullivan.  Nessun altro illustratore creò mai i veri personaggi
+di Dickens col preciso e giusto quantum d'esagerazione.
+Nessun altro illustratore respirò mai la vera atmosfera di Dickens,
+in cui gli scrivani sono scrivani e nondimeno, al [[Time|tempo]] stesso, elfi.
+
+Alla mente ottusa la faccenda sopra descritta non sembra offrire
+nulla di molto promettente in fatto di baruffa.  Ma la
+vedova di Seymour riuscì a ricavarne la proposizione che in un modo
+o nell'altro suo marito aveva scritto il «[[Pickwick]]», o, per lo meno,
+era stato responsabile del genio e del [[success|successo]] di esso.
+Non risulta ch'ella avesse alcunché di simile a una ragione
+per questa opinione, tranne l'incontestabile fatto che gli editori
+avevano cominciato con l'idea d'impiegare Seymour.  Questo era
+verissimo, e Dickens (che, oltre alla sua onestà, era
+uomo troppo attaccabrighe per non cercare di tenersi dalla parte della ragione,
+e che mostrava una sorta di feroce scrupolosità nel dire la [[Truth|verità]]
+in casi simili) non lo negò mai né tentò di nasconderlo.
+Era verissimo che, all'inizio, invece che Seymour
+fosse impiegato a illustrare Dickens, si può dire che Dickens fosse
+impiegato a illustrare Seymour.  Ma che Seymour inventasse
+alcunché nel testo a stampa, grande o piccolo, ch'egli inventasse
+o il profilo del carattere del signor [[Pickwick]], o il numero
+del [[cabman|vetturino]] del signor [[Pickwick]], ch'egli inventasse o la storia,
+o anche solo un punto e virgola della storia, non solo non fu mai provato,
+ma non fu mai neppure asserito con molta chiarezza.  Dickens riempie le sue lettere
+di tutto ciò che si può dire contro l'idea della signora Seymour;
+non è affatto chiaro se ci fosse alcunché di definito
+detto a suo favore.
+
+Alla mera superficie del fatto e del diritto della faccenda, Dickens avrebbe dovuto
+essere superiore a questa sciocca vicenda.  Ma in un senso assai più profondo
+e assai più reale egli avrebbe dovuto essere superiore ad essa.
+Essa non toccava affatto né lui né la sua [[Greatness|grandezza]], neppure come
+astratta imputazione.  Se Seymour avesse dato l'avvio alla storia, avesse fornito
+a Dickens i suoi burattini, Tupman o Jingle, Dickens sarebbe pur sempre
+stato Dickens e Seymour soltanto Seymour.  Di fatto,
+si dava il caso che fosse una spregevole menzogna, ma sarebbe stata
+un'egualmente spregevole [[Truth|verità]].  Poiché il fatto è che la [[Greatness|grandezza]]
+di Dickens e specialmente la [[Greatness|grandezza]] del [[Pickwick]] non è d'una specie
+che potesse essere intaccata dal fatto che qualcun altro ne suggerisse la prima idea.
+Non poteva essere intaccata dal fatto che qualcun altro ne scrivesse il primo capitolo.
+Se si potesse dimostrare che un altro uomo aveva suggerito a Hawthorne
+(poniamo il caso) la concezione primaria della «Lettera Scarlatta», Hawthorne, che
+la sviluppò, sarebbe pur sempre un artefice squisito; ma sarebbe di tanto
+meno un creatore.  Ma in un caso come il [[Pickwick]] esiste una prova semplice.
+Se Seymour diede a Dickens l'idea principale del [[Pickwick]], quale fu?
+Non c'è concezione primaria del [[Pickwick]] che alcuno possa suggerire.
+Dickens non solo non ricavò il piano generale da Seymour,
+non lo ricavò affatto.  Nel [[Pickwick]], e, invero, in Dickens
+in generale, è nei dettagli che l'autore è creativo,
+è nei dettagli ch'egli è immenso.  La forza del libro sta
+nel perpetuo torrente d'ingegnoso e inventivo trattamento; il tema
+(almeno all'inizio) semplicemente non esiste.  L'idea di Tupman,
+il grasso rubacuori, è di per sé assai squallida e volgare; è
+il Tupman particolareggiato, come viene sviluppato, che riesce inaspettatamente divertente.
+L'idea di Winkle, il goffo sportivo, è di per sé assai stantia;
+è man mano ch'egli seguita a ripetersi che diviene originale.
+Udiamo parlare d'uomini la cui [[Imagination|immaginazione]] può toccare con la [[Magic|magia]] i fatti scialbi
+della nostra vita, ma la fantasia ancor più indomabile di Dickens poteva toccare
+con la [[Magic|magia]] perfino la nostra scialba finzione.  Prima d'essere a metà
+del libro i personaggi da repertorio di farse morte e dannate ci stupiscono
+come splendidi forestieri.
+
+La pretesa di Seymour, dunque, considerata simbolicamente, era perfino un complimento.
+Era vero in spirito che Dickens ottenne (o avrebbe potuto ottenere)
+l'avvio del [[Pickwick]] da qualcun altro, da chiunque altro.
+Poiché egli aveva un'energia più gigantesca dell'energia dell'
+intenso [[Artist|artista]], l'energia che è disposta a scrivere qualcosa.
+Aveva l'energia che è disposta a scrivere qualsiasi cosa.
+Avrebbe potuto finire il racconto di chiunque.  Avrebbe potuto insufflare una folle
+vita nei personaggi di chiunque.  Se fosse stato vero che Seymour
+avesse tracciato il piano del [[Pickwick]], se Seymour avesse fissato i capitoli e
+nominato e numerato i personaggi, il suo schiavo avrebbe mostrato perfino
+tra queste catene una tale [[Freedom|libertà]] da scuotere il mondo.
+Se Dickens fosse stato costretto a trarre i suoi episodi da un capitolo
+d'un sillabario per [[Child|bambini]], o dai nomi in un ritaglio di giornale,
+li avrebbe tramutati in dieci pagine in creature sue proprie.
+Seymour, come dico, aveva in un certo modo ragione in spirito.
+Dickens in questo [[Time|tempo]] avrebbe ricavato il suo materiale da ovunque,
+nel senso che poco gli importava quale fosse quel materiale.
+Non avrebbe rubato; ma se avesse rubato, non avrebbe mai
+imitato.  La forza che egli procedette subito a esibire
+era l'unica forza nelle lettere che letteralmente non può essere imitata,
+la primaria, inesauribile energia creativa, l'enorme prodigalità
+del genio che nessuno tranne un altro genio potrebbe [[Parody|parodiare]].
+Pretendere d'avere originato un'idea di Dickens è come pretendere
+d'avere contribuito con un bicchiere d'[[Water|acqua]] al Niagara.  Ovunque questo
+o quel ruscello prendesse l'avvio, la colossale cateratta dell'assurdo
+andava rombando [[Night|notte]] e giorno.  La mole della sua invenzione sopraffaceva
+ogni [[Doubt|dubbio]] sulla sua inventività; Dickens era evidentemente un grand'uomo;
+a meno che non fosse mille uomini.
+
+Le circostanze reali della stesura e della pubblicazione del
+«[[Pickwick]]» mostrano che, mentre la pretesa specifica di Seymour era assurda,
+l'indignata esattezza di Dickens circa ogni jota e apice
+della paternità era del pari inopportuna e fuorviante.
+«Il [[Pickwick|Circolo Pickwick]]», a conti fatti, emerse davvero
+da una foschia di suggerimenti e proposte in cui più d'una
+persona fu coinvolta.  Gli editori non riuscirono a fondare la storia
+su un Circolo Nembrot, ma riuscirono a fondarla su un circolo.
+Seymour, in virtù della sua idiosincrasia, se non creò,
+determinò la creazione del signor Winkle.  Seymour schizzò
+il signor [[Pickwick]] come un uomo alto e magro.  Il signor Chapman (a quanto pare senza
+alcuna parola da parte di Dickens) lo tramutò arditamente in un uomo basso e grasso.
+Chapman prese il tipo da un corpulento vecchio damerino di nome Foster,
+che portava calzemaglie e ghette e viveva a Richmond.  In questo senso,
+se ci lasciassimo influenzare da questo ozioso aspetto della cosa, potremmo
+chiamare Chapman il vero ideatore del «[[Pickwick]]».  Ma, come ho
+suggerito, ideare il «[[Pickwick]]» non è il punto.
+Era assai facile ideare il «[[Pickwick]]».  La difficoltà
+stava nello scriverlo.
+
+Comunque stiano tali cose, non vi può essere questione sul risultato
+di questo caos.  Ne «Il [[Pickwick|Circolo Pickwick]]» Dickens balzò
+d'un tratto da un livello comparativamente basso a uno altissimo.
+Al livello degli «Sketches by Boz» egli non discese mai più in seguito.
+Al livello de «Il [[Pickwick|Circolo Pickwick]]» è dubbio ch'egli sia mai più
+in seguito [[Rose|salito]].  Il «[[Pickwick]]», in verità, non è un buon [[Novel|romanzo]];
+ma non è un cattivo [[Novel|romanzo]], poiché non è affatto un [[Novel|romanzo]].
+In un senso, invero, è qualcosa di più nobile d'un [[Novel|romanzo]],
+poiché nessun [[Novel|romanzo]] con una trama e una degna conclusione potrebbe emanare quel
+senso d'eterna giovinezza—un senso come degli dèi andati errando
+per l'Inghilterra.  Questo non è un [[Novel|romanzo]], poiché tutti i romanzi hanno una fine;
+e il «[[Pickwick]]», propriamente parlando, non ha fine—egli è pari
+agli angeli.  Il punto in cui, di fatto, troviamo che la materia
+stampata termina non è una fine in alcun senso artistico della parola.
+Perfino da ragazzo credevo che vi fossero alcune altre pagine che
+erano state strappate dalla mia copia, e le sto cercando tuttora.
+Il libro avrebbe potuto essere troncato in qualsiasi altro punto.  Avrebbe potuto
+essere troncato dopo che il signor [[Pickwick]] fu rilasciato dal signor Nupkins,
+o dopo che il signor [[Pickwick]] fu ripescato dall'[[Water|acqua]], o in cento
+altri luoghi.  E avremmo pur sempre saputo che questa non era
+davvero la fine della storia.  Avremmo saputo che il signor [[Pickwick]]
+stava ancora vivendo le stesse alte avventure sulle stesse alte strade.
+Si dà il caso che il libro finisca dopo che il signor [[Pickwick]] ha preso una [[house|casa]]
+nei dintorni di Dulwich.  Ma sappiamo ch'egli non si fermò lì.
+Sappiamo ch'egli scappò via, ch'egli riprese la [[Road|strada]] delle alte avventure;
+sappiamo che, se la imbocchiamo noi stessi in qualche acro d'Inghilterra,
+possiamo imbatterci in lui all'improvviso in una viuzza.
+
+Ma questa relazione del «[[Pickwick]]» con la forma rigorosa della narrativa
+richiede un'ulteriore parola, che dovrebbe invero essere detta in ogni caso
+prima della considerazione di alcuno o di tutti i racconti di Dickens.
+L'opera di Dickens non va affatto conteggiata in romanzi.
+L'opera di Dickens va conteggiata sempre per personaggi,
+talvolta per gruppi, più spesso per episodi, ma mai per romanzi.
+Non si può discutere se «[[Nicholas Nickleby]]» sia un buon [[Novel|romanzo]],
+o se «Il nostro comune amico» sia un cattivo [[Novel|romanzo]].  A rigore, non esiste
+alcun [[Novel|romanzo]] intitolato «[[Nicholas Nickleby]]».  Non esiste alcun
+[[Novel|romanzo]] intitolato «Il nostro comune amico».  Sono semplicemente lunghezze
+tagliate dalla fluente e mista sostanza chiamata Dickens—
+una sostanza di cui qualsiasi data lunghezza conterrà con certezza
+una data proporzione di roba brillante e di roba scadente.  Si può dire,
+secondo le proprie opinioni, «la parte dei Crummles è perfetta»,
+oppure «i Boffin sono un errore», proprio come un uomo che guardi passare un [[River|fiume]]
+davanti a sé potrebbe contare qui un fiore galleggiante, e là una striscia di schiuma.
+Ma non si può artisticamente dividere la produzione in libri.
+Il meglio della sua opera si può trovare nel peggio delle sue opere.
+«Il racconto di due città» è un buon [[Novel|romanzo]]; «La piccola Dorrit» non è
+un buon [[Novel|romanzo]].  Ma la descrizione del «Ministero delle Circonlocuzioni»
+ne «La piccola Dorrit» è altrettanto buona quanto la descrizione della
+«Banca Tellson» ne «Il racconto di due città».  «La bottega dell'antiquario»
+non è così buona quanto «[[David Copperfield]]», ma Swiveller è altrettanto
+buono quanto Micawber.  Né vi è alcuna ragione per cui queste
+superbe creature, di regola, debbano trovarsi in un [[Novel|romanzo]]
+piuttosto che in un altro.  Non vi è alcuna ragione per cui [[Sam Weller]],
+nel corso dei suoi vagabondaggi, non debba vagare dentro
+«[[Nicholas Nickleby]]».  Non vi è alcuna ragione per cui il [[Major Bagstock|Maggiore Bagstock]],
+col suo passo svelto, non debba uscire dritto da «Dombey e figlio»
+ed entrare dritto in «[[Martin Chuzzlewit]]».  A questa generalizzazione
+va aggiunta qualche modifica.  Il «[[Pickwick]]» sta a sé,
+e ha perfino una sorta d'[[unity|unità]] nel non pretendere all'[[unity|unità]].
+«[[David Copperfield]]», in grado minore, sta a sé,
+come l'unico libro in cui Dickens scrisse di se stesso;
+e «Il racconto di due città» sta a sé come
+l'unico libro in cui Dickens leggermente alterò se stesso.
+Ma nel complesso, questo va afferrato con fermezza, che le unità
+di Dickens, gli elementi primari, non sono le storie,
+ma i personaggi che incidono sulle storie—o, più spesso ancora,
+i personaggi che non incidono sulle storie.
+
+Questa è una faccenda semplice; ma, a meno che non venga enunciata e sentita,
+Dickens può essere grandemente frainteso e grandemente sottovalutato.
+Poiché non solo tutta la sua macchina è diretta ad agevolare
+l'esibizione di [[Self|sé]] da parte di certi personaggi, ma qualcosa
+di più profondo e ancor più anti-moderno è del pari vero di lui.
+È del pari vero che tutta la macchina in movimento esiste solo per mettere in mostra
+personaggi interamente statici.  Le cose nella storia di Dickens si spostano
+e mutano solo per darci scorci di grandi personaggi
+che non mutano affatto.  Se avessimo un seguito del [[Pickwick]] dieci
+anni dopo, [[Pickwick]] avrebbe esattamente la stessa età.
+Sappiamo ch'egli non sarebbe caduto in quella strana e bella
+seconda [[Childhood|fanciullezza]] che addolcì e semplificò la fine
+del colonnello Newcome.  Newcome, per tutto il libro, è in
+un'atmosfera di [[Time|tempo]]: [[Pickwick]], per tutto il libro, non lo è.
+Questo sarà probabilmente inteso dalla maggior parte dei moderni come lode
+di Thackeray e biasimo di Dickens.  Ma ciò dimostra solo
+quanto pochi moderni comprendano Dickens.  Dimostra pure
+quanto pochi comprendano le fedi e le favole del genere umano.
+La cosa può essere grossolanamente enunciata in un solo modo.
+Dickens non fece propriamente una letteratura; fece una mitologia.
+
+Per qualche anno il nostro angolo d'Europa occidentale ha avuto un capriccio
+per questa cosa che chiamiamo narrativa; ossia per il mettere per iscritto le nostre
+proprie vite o vite simili al fine di guardarle.  Ma benché la
+chiamiamo narrativa, essa differisce dalle letterature più antiche principalmente
+per l'essere meno fittizia.  Imita non solo la vita, ma le limitazioni
+della vita; non solo riproduce la vita, riproduce la [[Death|morte]].
+Ma fuori di noi, in ogni altro paese, in ogni altra età, si è andata
+svolgendo fin dal principio una specie più fittizia di finzione.
+Intendo la specie ora chiamata folklore, la letteratura del popolo.
+I nostri romanzi moderni, che trattano gli uomini quali essi sono, sono principalmente
+prodotti da una piccola e istruita sezione della società.
+Ma quest'altra letteratura tratta uomini più grandi di quanto essi siano—
+semidei ed eroi; e questa è materia troppo importante
+per essere affidata alle classi istruite.  La foggiatura di questi portenti
+è un mestiere popolare, come arare o murare; gli uomini che
+facevano siepi, gli uomini che facevano fossati, erano gli uomini che facevano divinità.
+Gli uomini non potevano eleggere i loro re, ma potevano eleggere i loro dèi.
+Così ci troviamo di fronte a un fondamentale contrasto tra ciò che si
+chiama narrativa e ciò che si chiama folklore.  L'una esibisce un grado abnorme
+di destrezza operante entro i nostri limiti quotidiani; l'altro
+esibisce desideri del tutto normali estesi oltre quei limiti.
+La narrativa significa le cose comuni viste dalle persone non comuni.
+Le fiabe significano le cose non comuni viste dalle persone comuni.
+
+Man mano che il nostro mondo avanza attraverso la [[history|storia]] verso la sua presente epoca,
+esso diviene più specialistico, meno democratico, e il folklore si tramuta a poco a poco
+in narrativa.  Ma è solo lentamente che l'antico [[Fire|fuoco]] elfico si spegne
+nella luce del comune realismo.  Per età intere dopo che i nostri personaggi si sono
+vestiti degli abiti dei mortali, essi tradiscono il [[Blood|sangue]] degli dèi.
+Perfino la nostra fraseologia è piena di reliquie di ciò.  Quando un [[Novel|romanzo]] moderno
+è dedicato agli smarrimenti d'un debole giovane scrivano che non riesce a decidere
+quale donna voglia sposare, o in quale nuova religione creda,
+noi diamo ancora a questo cafone dalle ginocchia storte il nome di «[[Hero|eroe]]»—il nome che
+è la [[Crown|corona]] d'[[Achilles|Achille]].  La preferenza popolare per una storia con «un
+lieto fine» non è, o per lo meno non era, un mero ottimismo da caramelle;
+è il residuo dell'antica idea del trionfo dell'uccisore di draghi,
+l'ultima apoteosi dell'uomo diletto al cielo.
+
+Ma vi è un'altra e più impalpabile traccia di questo
+soprannaturalismo che svanisce—una traccia assai viva per il lettore,
+ma assai sfuggente per il critico.  È una certa aria di
+infinità negli episodi, perfino nei più brevi episodi—
+un senso che, benché li lasciamo, essi seguitino ancora.
+La nostra moderna attrazione per i racconti brevi non è un accidente di forma;
+è il segno d'un reale senso di fugacità e fragilità;
+significa che l'esistenza è solo un'impressione, e, forse,
+solo un'illusione.  Un [[Short Story|racconto breve]] d'oggi ha l'aria d'[[A Dream|un sogno]];
+ha l'irrevocabile [[Beauty|bellezza]] d'una falsità; abbiamo un barlume di grigie
+strade di [[London|Londra]] o di rosse pianure dell'India, come in una visione d'oppio;
+vediamo persone—persone che ci arrestano, con volti ardenti e imploranti.
+Ma quando la storia è finita, le persone sono finite.  Non abbiamo alcun
+istinto di alcunché di ultimo e duraturo dietro gli episodi.
+I moderni, in una parola, descrivono la vita in racconti brevi
+perché sono posseduti dal sentimento che la vita stessa
+sia un [[Short Story|racconto breve]] quanto mai breve, e forse non un racconto vero.
+Ma in questa letteratura più antica, perfino nella letteratura comica
+(anzi, specialmente nella letteratura comica), è vero il contrario.
+I personaggi sono sentiti come cose fisse di cui abbiamo
+fuggevoli barlumi; ossia, sono sentiti come divini.
+Zio Toby parla per sempre, come gli elfi danzano per sempre.
+Sentiamo che ogni volta che busseremo alla [[house|casa]] di [[Falstaff]], [[Falstaff]]
+sarà in [[Home|casa]].  Lo sentiamo come un Pagano sentirebbe che,
+se un grido rompesse il [[Silence|silenzio]] dopo età d'incredulità, [[Apollo]] sarebbe
+ancora in ascolto nel suo tempio.  Questi scrittori potranno raccontare
+racconti brevi, ma noi sentiamo che essi sono solo parti d'una lunga storia.
+E qui sta il peculiare significato, la peculiare
+sacralità perfino, dei romanzetti da quattro soldi e della comune materia stampata
+fatta per i nostri garzoni.  Qui, in forme fioche e disperate,
+sotto il bando della nostra bassa cultura, tempestati da magistrati sciocchi,
+sbeffeggiati da sciocchi maestri di scuola,—qui è l'antica letteratura popolare
+ancora popolare; qui è l'inconfondibile voluminosità,
+le mille e una storia di Dick Deadshot, come le mille e una
+storia di [[Robin Hood]].  Qui è lo splendido e statico ragazzo, il ragazzo
+che rimane ragazzo attraverso mille volumi e mille anni.
+Qui, in meschini vicoli e in fioche botteghe, ombreggiato e svergognato dalla
+polizia, il genere umano continua a portare avanti il suo oscuro commercio in eroi.
+E altrove, e in tutte le altre età, in foggia più valorosa,
+sotto cieli più tersi, procede lo stesso eterno raccontare di storie,
+e l'intero mondo mortale è una fabbrica d'immortali.
+
+Dickens era un mitologo più che un romanziere; egli era
+l'ultimo dei mitologi, e forse il più grande.
+Non sempre riuscì a fare dei suoi personaggi degli uomini,
+ma riuscì sempre, per lo meno, a farne degli dèi.
+Sono creature come Pulcinella o Babbo Natale.  Vivono
+staticamente, in una perpetua [[Summer|estate]] dell'essere se stessi.
+Non era intento di Dickens mostrare l'effetto del [[Time|tempo]]
+e delle circostanze su un carattere; non era neppure suo intento
+mostrare l'effetto d'un carattere sul [[Time|tempo]] e sulle circostanze.
+Vale la pena osservare, di passaggio, che ogni volta che tentò di descrivere
+il mutamento in un carattere, egli ne fece un pasticcio, come nel pentimento
+di Dombey o nell'apparente degenerazione di Boffin.  Era suo
+intento mostrare il carattere sospeso in una sorta di felice vuoto, in un mondo
+a parte dal [[Time|tempo]]—sì, ed essenzialmente a parte dalle circostanze,
+benché la frase possa sembrare strana in connessione con le divine
+buffonate da [[Horse|cavalli]] del «[[Pickwick]]».  Ma tutti gli eventi pickwickiani,
+per selvaggi che spesso siano, erano solo concepiti per mettere in mostra
+la maggiore selvatichezza delle anime, o talvolta soltanto per portare
+il lettore a contatto, per così dire, con quella selvatichezza.
+L'autore avrebbe sparato il signor [[Pickwick]] fuori da un can-
+none pur di farlo giungere da Wardle per Natale; avrebbe
+tolto il tetto per farlo cadere alla festa di Bob Sawyer.
+Ma una volta messo [[Pickwick]] da Wardle, col suo punch e un gruppo di
+personalità sgargianti, e nulla lo smuoverà dalla sua sedia.
+Una volta ch'egli è alla festa di Sawyer, dimentica come vi sia giunto;
+dimentica la signora Bardell e tutta la sua storia.  Poiché la storia non era che
+un incantesimo per evocare un dio, e il dio (il signor Jack Hopkins)
+è presente in divina potenza.  Una volta che i grandi personaggi sono faccia
+a faccia, la scala per cui salirono è dimenticata e crolla,
+la struttura della storia va in pezzi, la trama è abbandonata;
+gli altri personaggi vengono lasciati in asso a ogni sorta di crisi;
+l'intera affollata via maestra del racconto è bloccata da due
+o tre parlatori, che si prendono il loro immortale agio come se fossero
+già in Paradiso.  Poiché essi non esistono per la storia;
+la storia esiste per loro; ed essi lo sanno.
+
+A ogni uomo vivente, bisogna [[Hope|sperare]], è in qualche modo
+accaduto d'avere conversato coi suoi amici più affascinanti
+attorno a una tavola in qualche [[Night|notte]] in cui tutte le numerose
+personalità si dispiegarono come grandi [[Flowers|fiori]] tropicali.
+Tutti si calarono nelle loro parti come in qualche deliziosa commedia improvvisata.
+Ogni uomo fu più se stesso di quanto fosse mai stato in questa valle
+di [[Tears|lacrime]].  Ogni uomo fu una bella caricatura di se stesso.
+L'uomo che ha conosciuto tali notti comprenderà le esagerazioni
+del «[[Pickwick]]».  L'uomo che non ha conosciuto tali notti non
+godrà del «[[Pickwick]]» né (immagino) del paradiso.  Poiché, come ho detto,
+Dickens è, in questa materia, vicino alla religione popolare, che è
+l'ultima e la più affidabile religione.  Egli concepisce una gioia senza fine;
+concepisce creature permanenti quanto [[Puck]] o Pan—creature la cui
+volontà di vivere eoni su eoni non può saziare.  Egli non è venuto,
+come scrittore, perché le sue creature copino la vita e ne copino l'angustia;
+è venuto perché esse abbiano vita, e l'abbiano
+più abbondantemente.  È invero assurdo che i Cristiani debbano essere
+chiamati nemici della vita perché desiderano che la vita duri per sempre;
+è ancor più assurdo chiamare ottusi i vecchi scrittori comici
+perché desideravano che i loro immutabili personaggi durassero per sempre.
+Sia la religione popolare, con le sue gioie senza fine, sia la vecchia storia comica,
+con i suoi scherzi senza fine, si sono nel nostro [[Time|tempo]] spente insieme.
+Siamo troppo deboli per [[Desire|desiderare]] quel vigore imperituro.  Crediamo
+che si possa avere troppo d'una cosa buona—una credenza blasfema,
+che d'un sol colpo manda in rovina tutti i cieli che gli uomini hanno sperato.
+Gli antichi grandi sfidatori di Dio non temevano un'[[Eternity|eternità]] di tormento.
+Noi siamo giunti a temere un'[[Eternity|eternità]] di gioia.  Non è mio
+compito qui prendere partito in questa divisione tra coloro che amano
+la vita e i lunghi romanzi e coloro che amano la [[Death|morte]] e i racconti brevi;
+mio unico compito è additare che coloro i quali vedono negli immutabili
+personaggi di Dickens e nei ricorrenti intercalari una mera rigidità
+e mancanza di vivente movimento mancano il punto e la [[Nature|natura]] della sua opera.
+La sua tradizione è tutt'altra tradizione; il suo intento è tutt'altro
+intento da quelli dei moderni romanzieri che rintracciano
+l'alchimia dell'esperienza e le tinte d'[[Autumn|autunno]] del carattere.
+Egli è là, come il popolo comune di tutte le età, per fare divinità;
+è là, come ho detto, per esagerare la vita nella direzione
+della vita.  Lo spirito ch'egli in [[Bottom|fondo]] celebra è quello di due
+amici che bevono vino insieme e conversano attraverso la [[Night|notte]].
+Ma per lui essi sono due amici immortali che conversano attraverso una
+[[Night|notte]] senza fine e versano vino da una bottiglia inesauribile.
+
+Questo, dunque, è il primo saldo fatto da afferrare circa il «[[Pickwick]]»—
+circa il «[[Pickwick]]» più che circa qualsiasi altra delle storie.
+Esso è, in primo luogo e soprattutto, una storia [[Supernatural|soprannaturale]].
+Il signor [[Pickwick]] era una fata.  Lo era anche il vecchio signor Weller.  Ciò non
+implica ch'essi fossero adatti a dondolare in un trapezio di garza;
+implica soltanto che, se ne fossero caduti a capofitto,
+non sarebbero morti.  Ma, a parlare più a rigore,
+il signor [[Samuel Pickwick]] non è la fata; è il principe delle fate;
+ossia, è l'astratto errante e stupitore,
+l'[[Ulysses|Ulisse]] della [[Comedy|Commedia]]; la creatura mezzo umana e mezzo elfica—
+umana abbastanza da errare, umana abbastanza da [[Wonder|stupirsi]], ma pur sempre sorretta
+da quel gaio fatalismo ch'è naturale agli esseri immortali—
+sorretta da quell'accenno di divinità che gli dice nell'ora più buia
+ch'egli è destinato a vivere felice e contento per sempre.
+Si è messo in cammino verso la fine del mondo, ma sa
+che vi troverà una locanda.
+
+E questo ci porta al migliore e più ardito elemento d'originalità
+nel «[[Pickwick]]».  Non è stato, credo, osservato, e può darsi
+che Dickens non lo abbia osservato.  Certo egli non lo pianificò;
+esso crebbe a poco a poco, forse dalla parte inconscia della sua [[Soul|anima]],
+e riscaldò tutta la storia come un lento [[Fire|fuoco]].  Naturalmente esso trasformò
+anche tutta la storia; la trasformò fino a renderla del tutto dissimile da se stessa.
+Intorno a quest'ultimo punto fu combattuta una delle innumerevoli piccole
+guerre di Dickens.  Era parte della sua battagliera [[Vanity|vanità]]
+il rifiutarsi d'ammettere la [[Truth|verità]] della più mite critica.
+Inoltre, egli usava la sua inesauribile ingegnosità per trovare un'apologia
+che era generalmente un ripensamento.  Invece d'ammettere ridendo,
+in risposta alla critica, la gloriosa inverosimiglianza di Pecksniff,
+ribatteva con un ghigno, arguto e assai ingiusto, che non era
+sorpreso che i Pecksniff dovessero negare il ritratto
+di Pecksniff.  Quando gli si obiettò che l'[[Pride|orgoglio]] del vecchio [[Paul Dombey]]
+si spezza tanto bruscamente quanto un bastone, egli tentò di far credere che ci fosse
+stata una struggente lotta psicologica in atto in quel gentiluomo
+per tutto il [[Time|tempo]], che il lettore era troppo stupido per percepire.
+La qual cosa è, temo, una fandonia.  E così, in vena simile,
+egli rispose a coloro che gli additavano l'ovvio e non molto
+sconvolgente fatto che i nostri sentimenti verso [[Pickwick]] sono assai diversi
+nella seconda parte del libro dai nostri sentimenti nella prima;
+che ci troviamo all'inizio a partire in
+compagnia d'un farsesco vecchio [[Fool|sciocco]], se non d'un farsesco vecchio ciarlatano,
+e che ci troviamo alla fine a dire addio a un fine, vecchio
+mercante d'Inghilterra, un monumento di geniale [[Sanity|saggezza]].  Dickens rispose
+con la stessa ingegnosa giustificazione di [[Self|sé]] degli altri casi—
+che di certo accadeva spesso che un uomo ci si presentasse dapprima adorno
+delle sue qualità più [[Grotesque|grottesche]], e che una più piena conoscenza
+ne dispiegasse i più seri meriti.  Questo, naturalmente, è verissimo;
+ma penso che qualsiasi onesto ammiratore del «[[Pickwick]]» sentirà che non
+è una risposta.  Poiché il difetto del «[[Pickwick]]» (se difetto è)
+è un mutamento non nell'[[Hero|eroe]] ma nell'intera atmosfera.
+Il punto non è che [[Pickwick]] si tramuti in una diversa specie d'uomo;
+è che «Il [[Pickwick|Circolo Pickwick]]» si tramuta in una diversa specie di libro.
+E per quanto artistiche possano essere entrambe le parti, questa combinazione dev'essere,
+in stretta arte, chiamata inartistica.  Un uomo è del tutto artisticamente
+giustificato nello scrivere un racconto in cui un uomo vile quanto Bob Acres
+diviene un uomo prode quanto [[Hector|Ettore]].  Ma un uomo non è artisticamente
+giustificato nello scrivere un racconto che comincia nello stile de «I Rivali»
+e finisce nello stile dell'«Iliade».  In altre parole, non ci
+importa che l'[[Hero|eroe]] muti nel corso d'un libro; ma non siamo
+preparati a che l'autore muti nel corso del libro.
+E l'autore mutò davvero nel corso di questo libro.
+Egli fece, nel bel mezzo di questo libro, una grande scoperta, che fu
+la scoperta del suo destino, o, ciò che più importa, del suo dovere.
+Quella scoperta lo tramutò dall'autore degli «Sketches by Boz»
+nell'autore di «[[David Copperfield]]».  E quella scoperta costituì
+la cosa di cui ho parlato—l'eminente e arrestante
+caratteristica originale de «Il [[Pickwick|Circolo Pickwick]]».
+
+Il «[[Pickwick]]», ho detto, è un [[Romance|romanzo]] d'avventura, e [[Samuel Pickwick]]
+è il romantico avventuriero.  Ciò è invero ovvio.
+Ma la strana e commovente scoperta che Dickens fece fu questa—
+che, avendo scelto un grasso vecchio delle classi medie come buona cosa
+di cui fare uno zimbello, egli trovò che un grasso vecchio delle classi
+medie è la cosa migliore in assoluto di cui fare un romantico avventuriero.
+Il «[[Pickwick]]» è supremamente originale in ciò, ch'è l'avventura d'un
+vecchio.  È una fiaba in cui il vincitore non è il più giovane
+dei tre fratelli, ma uno dei più vecchi dei loro zii.
+Il risultato è al tempo stesso nobile e nuovo e vero.  Non v'è nulla che tanto
+abbia bisogno di semplicità quanto l'avventura.  E non v'è nessuno che tanto
+possieda la semplicità quanto un onesto e attempato uomo d'affari.
+Per il [[Romance|romanzesco]] egli è migliore d'una schiera di giovani trovatori;
+poiché il gagliardo giovanotto anticipa le sue avventure,
+proprio come anticipa il suo reddito.  Di qui tanto le avventure
+quanto il reddito, quando egli li raggiunge, non ci sono.
+Ma un uomo nella tarda mezza età s'è avvezzato alle semplici necessità,
+e la sua prima vacanza è una seconda giovinezza.  Un uomo buono, come disse Thackeray
+con così piena e penetrante [[Truth|verità]], diviene più semplice man mano che invecchia.
+[[Samuel Pickwick]] in gioventù fu probabilmente un insopportabile giovane bellimbusto.
+Sapeva allora, o credeva di sapere, tutto sui trucchi da imbroglione
+di truffatori come Jingle.  Sapeva allora, o credeva di sapere, tutto sui
+disegni amorosi di scaltre signore come la signora Bardell.  Ma gli anni
+e la vita reale l'hanno sollevato da questa oziosa e malvagia conoscenza.
+Ha avuto l'alta fortuna, nel perdere le follie della gioventù, di perdere
+anche la saggezza della gioventù.  Dickens ha colto, in maniera al tempo stesso selvaggia
+e convincente, questa bizzarra [[innocence|innocenza]] del pomeriggio della vita.  Il tondo,
+lunare volto, i tondi occhiali [[Moon|lunari]] di [[Samuel Pickwick]]
+si muovono attraverso il racconto come emblemi d'una certa sferica semplicità.
+Sono fissati in quel [[Grave|grave]] stupore che si può scorgere nei bambini;
+quel [[Grave|grave]] stupore ch'è l'unica reale felicità possibile
+all'uomo.  Il tondo volto del [[Pickwick]] è come un tondo e onorevole [[Mirror|specchio]],
+in cui si riflettono tutte le fantasie dell'esistenza terrena;
+poiché lo stupore è, a rigore, l'unica specie di riflessione.
+Tutto ciò crebbe a poco a poco su Dickens.  È curioso richiamare alla mente
+il piano originale, il piano del Circolo Nembrot, e l'autore che doveva
+essere interamente occupato a giocare tiri birboni ai suoi personaggi.
+Egli aveva scelto (o qualcun altro aveva scelto) quel corpulento vecchio
+sempliciotto come persona peculiarmente adatta a cadere in botole,
+a scivolare su scivoli di burro, a lottare con letti a sacco,
+a essere rovesciato da carri e tuffato in stagni per [[Horse|cavalli]].  Ma Dickens,
+e Dickens soltanto, scoprì via via com'era adatto il grasso vecchio
+a soccorrere dame, a sfidare tiranni, a [[Dance|danzare]], a saltare, a sperimentare
+con la vita, a essere un deus ex machinâ e perfino un cavaliere errante.
+Dickens fece questa scoperta.  Dickens entrò nel Circolo [[Pickwick]]
+per schernire, e Dickens vi rimase a pregare.
+
+Molière e i suoi marchesi sono assai divertiti quando il signor Jourdain,
+il grasso vecchio borghese, scopre con delizia
+d'aver parlato in prosa per tutta la vita.  Mi sono spesso
+chiesto se Molière abbia visto come in questo fatto il signor Jourdain torreggi
+al di sopra di tutti loro e tocchi le [[Stars|stelle]].  Egli ha la freschezza
+di godere d'un fatto fresco, la freschezza di godere perfino d'uno vecchio.
+Può sentire che la cosa comune, la prosa, è una conquista
+come il verso; ed è una conquista come il verso;
+è il miracolo del linguaggio.  Può sentire il sottile
+sapore dell'[[Water|acqua]], e farselo rotolare sulla lingua come vino.
+La sua semplice [[Vanity|vanità]] e voracità, il suo [[Innocent|innocente]] [[Love|amore]] per il vivere,
+il suo ignorante [[Love|amore]] per il sapere, sono cose assai più piene di [[Romance|romanticismo]]
+della stanchezza e della fatuità dei ghignanti cavalieri.
+Quando consciamente parla in prosa, inconsciamente pensa in poesia.
+Sarebbe meglio per tutti noi se fossimo tanto consci
+che la cena è cena o che la vita è vita, quanto questo vero
+romantico era che la prosa è effettivamente prosa.  Il signor Jourdain è
+qui il tipo, il signor [[Pickwick]] è altrove il tipo, di questa
+cosa vera e trascurata, il [[Romance|romanticismo]] delle classi medie.
+È usanza nella nostra piccola epoca sogghignare sulle classi medie.
+Gli artisti cockney pretendono di trovare noiosa la borghesia,
+come se gli artisti avessero titolo alcuno per trovare noiosa alcunché.
+I decadenti parlano sprezzantemente delle sue convenzioni e dei suoi compiti prefissati;
+non viene loro mai in mente che le convenzioni e i compiti prefissati sono proprio il modo
+per conservare quel verde nell'erba e quel rosso nelle rose—
+che essi hanno perduto per sempre.  Stevenson, nel suo incomparabile
+«Portatori di lanterna», descrive l'estasi d'uno scolaro
+nel mero fatto d'abbottonare una lanterna cieca sotto un cupo
+soprabito.  Se desiderate quell'estasi dello scolaro,
+dovete avere il ragazzo; ma dovete avere anche la scuola.
+Le rigide occasioni e le ore definite sono proprio il profilo
+di quel godimento.  Un uomo come il signor [[Pickwick]] è stato a scuola
+per tutta la vita, e quando ne esce stupisce i giovani.
+Il suo cuore, come osserva quell'acuto psicologo, il signor Weller,
+era nato più tardi del suo [[Body|corpo]].  Si ricorderà che
+anche il signor [[Pickwick]], quando fu nella scappatella di Winkle e della signorina Allen,
+provò smodato piacere nelle prestazioni d'una lanterna cieca che
+non era abbastanza cieca, e non era che una seccatura per tutti.
+Anche la sua [[Soul|anima]] era coi ragazzi di Stevenson sulle grigie sabbie
+di Haddington, a parlare nel buio in riva al mare.  Anch'egli era
+della lega dei «Portatori di lanterna».  Stevenson, ricordo,
+dice che nelle botteghe di quella cittadina si potevano acquistare
+«Pickwick da un penny (quel notevole sigaro)».  Speriamo che li
+[[Hope|fumassero]], e che il rotondo [[Ghost|fantasma]] del [[Pickwick]] aleggiasse
+sopra gli anelli di fumo.
+
+[[Pickwick]] attraversa la vita con quella divina credulità che
+è la chiave di tutte le avventure.  Lo sprovveduto è l'ultimo
+vincitore in ogni cosa; è lui che ricava di più dalla vita.
+Poiché [[Pickwick]] è sviato da Jingle, sarà condotto alla
+Locanda del Cervo Bianco, e vedrà l'unico Weller lucidare stivali nel cortile.
+Poiché è raggirato da Dodson e Fogg, entrerà
+nella [[house|dimora]]-[[Prison|prigione]] come un paladino, e soccorrerà l'uomo e la donna
+che gli hanno fatto il torto più grande.  La sua [[Soul|anima]] non patirà mai fame di
+imprese o d'eccitazioni, chi è tanto saggio da lasciarsi fare [[Fool|sciocco]].
+Egli si renderà felice nelle trappole che gli sono state tese;
+si rotolerà nelle loro reti e vi [[Sleep|dormirà]].  Tutte le porte si spalancheranno
+a colui che ha una mitezza più temeraria del mero [[Courage|coraggio]].
+Il tutto è infallibilmente espresso in una fortunata frase—
+egli sarà sempre «gabbato».  Essere gabbati dappertutto è vedere
+l'interno d'ogni cosa.  È l'ospitalità della circostanza.
+Con torce e trombe, come un ospite, lo sprovveduto è accolto
+dentro dalla Vita.  E lo scettico ne è cacciato fuori.
+
+CAPITOLO V
+
+LA GRANDE POPOLARITÀ
+
+C'è un aspetto di Charles Dickens che non può non interessare perfino quella razza sotterranea che non ama i suoi libri. Anche se non ci interessa Dickens come grande evento della letteratura inglese, dobbiamo pur sempre interessarci a lui come grande evento della [[history|storia]] inglese. Se non aveva il suo posto accanto a Fielding e Thackeray, lo aveva comunque accanto a Wat Tyler e Wilkes; perché quest'uomo guidò una folla. Fece ciò che nessun uomo di Stato inglese, forse, ha davvero fatto: chiamò a raccolta il popolo. Fu popolare in un senso di cui noi moderni non abbiamo nemmeno un'idea. In quel senso oggi non esiste più popolarità. Non ci sono autori popolari oggi. Chiamiamo autori popolari uomini come il signor Guy Boothby o il signor William Le Queux. Ma questa è popolarità in un senso del tutto più debole; non solo nella quantità, ma nella qualità. La vecchia popolarità era positiva; la nuova è negativa. C'è una grande differenza tra l'uomo avido che vuole leggere un libro e l'uomo stanco che vuole un libro da leggere. Chi legge un mistero di Le Queux vuole arrivare alla fine. Chi leggeva il [[Novel|romanzo]] di Dickens desiderava che non finisse mai. Gli uomini leggevano una storia di Dickens sei volte perché la conoscevano fin troppo [[Well|bene]]. Se un uomo riesce a leggere sei volte una storia di Le Queux, è solo perché riesce a dimenticarla sei volte. In breve, il [[Novel|romanzo]] di Dickens era popolare non perché fosse un mondo irreale, ma perché era un mondo reale; un mondo in cui l'[[Soul|anima]] poteva vivere. Il moderno «racconto del brivido», nella sua forma migliore, è un intermezzo nella vita. Ma nei giorni in cui l'opera di Dickens usciva a puntate, la gente parlava come se fosse la vita reale a essere l'intermezzo tra un numero e l'altro di «[[Pickwick]]».
+
+Giungendo all'epoca della pubblicazione di «[[Pickwick]]», giungiamo a questa improvvisa apoteosi di Dickens. Da quel momento egli riempì il mondo letterario in un modo difficile da immaginare. Frammenti di quella immensa moda sopravvivono nel nostro linguaggio quotidiano; nei discorsi di ogni mestiere o questione pubblica sono incastonati i relitti di quella smisurata religione. Gli uomini emanano le arie di Dickens senza nemmeno aprire i suoi libri; proprio come i cattolici possono vivere in una tradizione di [[Christianity|cristianesimo]] senza aver mai guardato il Nuovo Testamento. L'uomo della strada ha più ricordi di Dickens, che non ha letto, che di Marie Corelli, che ha letto. Non c'è nulla di comparabile a questa onnipresenza e vitalità nei grandi personaggi comici di Boz. Non esistono Bumble e Pecksniff moderni, non esistono Gamp e Micawber moderni. Il signor Rudyard Kipling (per prendere un autore di tipo più elevato di quelli menzionati prima) è chiamato, e giustamente chiamato, un autore popolare; vale a dire che è largamente letto, molto gustato e lautamente remunerato; ha compiuto il [[Paradox|paradosso]] di fare al tempo stesso poesia e denaro. Ma chiunque desideri vedere la differenza provi l'esperimento di supporre che i personaggi di Kipling siano patrimonio comune come i personaggi di Dickens. Che qualcuno entri in un salotto qualunque e alluda a Strickland come alluderebbe al signor Bumble, il bidello. Che qualcuno dica che un tale è «un perfetto Learoyd», come direbbe «un perfetto Pecksniff». Che qualcuno scriva un paragrafo comico per un giornale da mezzo penny e alluda alla signora Hawksbee invece che alla signora Gamp. Scoprirà presto che il mondo moderno ha dimenticato i suoi stessi entusiasmi più furiosi più completamente di quanto abbia dimenticato questa informe tradizione dei suoi padri. La sola feccia di essa vale più di qualunque entusiasmo contemporaneo; il racimolo dell'uva di «[[Pickwick]]» vale più dell'intera vendemmia di «Soldiers Three». C'è un caso, e credo uno soltanto, di eccezione a questa generalizzazione; c'è una figura nella nostra letteratura popolare che sarebbe davvero riconosciuta dal popolo. Gli uomini comuni vi capirebbero se alludeste correntemente a Sherlock Holmes. Sir [[arthur|Arthur]] Conan Doyle sarebbe senza [[Doubt|dubbio]] giustificato nel levare il capo alle [[Stars|stelle]], ricordando che Sherlock Holmes è l'unica figura davvero familiare della narrativa moderna. Ma lasci ricadere quel capo con una dolce tristezza, ricordando che se Sherlock Holmes è l'unica figura familiare della narrativa moderna, Sherlock Holmes è anche l'unica figura familiare nei racconti di Sherlock Holmes. Non molti saprebbero dire su due piedi quale fosse il nome del proprietario di Silver Blaze, o se la signora Watson fosse bruna o bionda. Ma se Dickens avesse scritto i racconti di Sherlock Holmes, ogni personaggio in essi sarebbe stato ugualmente avvincente e memorabile. Uno Sherlock Holmes avrebbe cucinato il pranzo di Sherlock Holmes; uno Sherlock Holmes avrebbe guidato la sua carrozza. Se Dickens introduceva un uomo solo per portare una lettera, aveva [[Time|tempo]] per un tocco o due, e ne faceva un gigante. Dickens non conquistò soltanto il mondo, lo conquistò con i personaggi minori. Il signor John Smauker, il servitore del signor Cyrus Bantam, benché passi soltanto attraverso la scena, ci è quasi altrettanto vivido del signor Samuel Weller, il servitore del signor [[Samuel Pickwick]]. Il giovane dalla fronte bitorzoluta, che dice soltanto «Esker» al gentiluomo straniero del signor Podsnap, vale quanto lo stesso signor Podsnap. Compaiono solo per un [[Fragment|frammento]] di [[Time|tempo]], ma appartengono all'[[Eternity|eternità]]. Li abbiamo solo per un istante, ma essi ci hanno per sempre.
+
+Nel trattare di Dickens, dunque, trattiamo di un uomo il cui [[success|successo]] presso il pubblico fu una meraviglia e quasi una mostruosità. E qui mi accorgo che il mio amico, il critico puramente artistico, tutto imbevuto di Flaubert e Turgenev, non riesce più a contenersi. Balza in piedi, rovesciando la sua tazza di cacao, e chiede con disprezzo che cosa mai tutto questo abbia a che fare con la critica. «Perché cominciare», dice, «lo studio di un autore con sciocchezze sulla popolarità? Boothby è popolare, e Le Queux è popolare, e Mother Siegel è popolare. Se Dickens fu anche più popolare, ciò può soltanto significare che Dickens fu anche peggiore. Al popolo piace la cattiva letteratura. Se il vostro scopo è mostrare che Dickens era buona letteratura, dovreste piuttosto scusarvi della sua popolarità, e cercare di spiegarla via. Dovreste tentare di dimostrare che l'opera di Dickens era buona letteratura, benché fosse popolare. Sì, ecco il vostro compito: provare che Dickens era ammirevole, benché fosse ammirato!»
+
+Chiedo al critico artistico di avere un po' di pazienza e di credere che ho una ragione seria per registrare questa storica popolarità. A essa arriveremo tra poco. Ma, a mo' di avvicinamento, mi si conceda forse di esaminare questa affermazione reale e alla moda, alla quale ho supposto che egli ricorra: l'affermazione che al popolo piace la cattiva letteratura, e che gli piace addirittura la letteratura perché è cattiva. Questo modo di porre la cosa è un errore, e in quell'errore giace materia di grande importanza per Dickens e per il suo destino nelle lettere. Il pubblico non ama la cattiva letteratura. Il pubblico ama un certo genere di letteratura e ama quel genere di letteratura, anche quand'è cattivo, più di un altro genere di letteratura, anche quand'è buono. Né ciò è irragionevole; perché la linea tra i diversi tipi di letteratura è reale quanto la linea tra le [[Tears|lacrime]] e il riso; e dire a chi può avere solo cattiva [[Comedy|commedia]] che voi avete della [[Tragedy|tragedia]] di prima qualità è irrazionale quanto offrire a un uomo che rabbrividisce su un debole caffè tiepido un gelato di specie davvero superiore.
+
+La gente comune detesta l'opera moderna e delicata, non perché sia buona o perché sia cattiva, ma perché non è la cosa che aveva chiesto. Se, per esempio, li trovate rinchiusi in strade sterili e affamati di avventura e di un violento mistero, e se allora date loro la scelta tra «A Study in Scarlet», una buona storia [[Detective|poliziesca]], e «The Autobiography of Mark Rutherford», un buon monologo psicologico, senza [[Doubt|dubbio]] preferiranno «A Study in Scarlet». Ma non lo faranno perché «The Autobiography of Mark Rutherford» è un ottimo monologo, bensì perché è evidentemente una storia [[Detective|poliziesca]] pessima. Saranno indifferenti a «Les Aveugles», non perché sia un buon dramma, ma perché è un cattivo [[Melodrama|melodramma]]. Non amano i buoni sonetti introspettivi; ma non amano neppure i cattivi sonetti introspettivi, dei quali ce n'è in abbondanza. Quando camminano dietro gli ottoni della banda dell'Esercito della Salvezza, invece di ascoltare le armonie alla [[Queen|Queen's]] Hall, si dà sempre per scontato che preferiscano la cattiva musica. Ma può darsi soltanto che preferiscano la musica militare, la musica che marcia giù per la strada aperta, e che, se la banda di Dan Godfrey potesse essere folgorata dalla salvezza e li guidasse, gradirebbero quella ancor di più. E benché possano facilmente trarre più soddisfazione da un articolo strillato di The War Cry che da una pagina di Emerson sull'Anima Suprema, ciò non sarebbe perché la pagina di Emerson è un'altra e superiore specie di letteratura. Sarebbe perché la pagina di Emerson è un'altra (e inferiore) specie di religione.
+
+Dickens si erge anzitutto come monumento di sfida a ciò che accade quando un grande genio letterario ha un gusto letterario affine a quello della comunità. Perché questa affinità era profonda e spirituale. Dickens non era come i nostri comuni demagoghi e giornalisti. Dickens non scriveva ciò che il popolo voleva. Dickens voleva ciò che il popolo voleva. E a questo si collegava quell'altro fatto che non va mai dimenticato, e su cui ho più di una volta insistito: che Dickens e la sua scuola avevano una gioiosa [[Faith|fede]] nella [[democracy|democrazia]] e pensavano al suo servizio come a un sacro sacerdozio. Di qui derivava questo punto vitale del suo populismo: che non vi era in esso alcuna condiscendenza. La convinzione che la plebaglia leggerà soltanto spazzatura si può leggere fra le righe di tutti i nostri scrittori contemporanei, anche di quelli la cui spazzatura la plebaglia legge. Il signor Fergus Hume non ha per il popolo più rispetto del signor George Moore. L'unica differenza sta tra quegli scrittori che acconsentono a parlare dall'alto in basso al popolo, e quegli scrittori che non acconsentono a parlare dall'alto in basso al popolo. Ma Dickens non parlò mai dall'alto in basso al popolo. Egli parlò al popolo guardando in alto. Si accostò al popolo come una divinità e riversò le sue ricchezze e il suo [[Blood|sangue]]. È questo che crea il legame immortale tra lui e le masse degli uomini. Egli non aveva soltanto prodotto qualcosa che essi potessero capire, ma lo prese sul serio, e faticò e si tormentò per produrlo. Non stavano soltanto godendo di uno dei migliori scrittori, stavano godendo del meglio che egli sapesse fare. Le sue notti furiose e insonni, le sue folli passeggiate nell'oscurità, i suoi taccuini gremiti, i suoi nervi a brandelli, tutto questo straordinario prodotto non era che un degno sacrificio all'uomo comune. Egli si arrampicava verso le classi inferiori. Ansimava verso l'alto su ali stanche per raggiungere il cielo dei poveri.
+
+La sua forza, dunque, stava nel fatto che egli esprimeva con un'energia e una brillantezza affatto insolite le cose vicine alla mente comune. Ma con questa semplice espressione, la mente comune, urtiamo contro un errore corrente. Comunanza e mente comune vengono ora generalmente intese come se significassero in qualche modo inferiorità e mente inferiore; la mente della mera plebaglia. Ma la mente comune significa la mente di tutti gli artisti e gli eroi; altrimenti non sarebbe comune. Platone aveva la mente comune; [[Dante]] aveva la mente comune; oppure quella mente non era comune. Comunanza significa la qualità comune al santo e al peccatore, al filosofo e allo [[Fool|sciocco]]; ed era questa che Dickens colse e sviluppò. In ognuno c'è una certa cosa che ama i bambini, che teme la [[Death|morte]], che ama la luce del sole: quella cosa gode di Dickens. E «ognuno» non significa folle incolte; «ognuno» significa proprio ognuno: «ognuno» significa la signora Meynell. Questa signora, scrittrice claustrale e schizzinosa, ha scritto uno dei migliori elogi di Dickens che esistano, un [[Essay|saggio]] in lode della sua pungente perfezione dell'epiteto. E quando dico che ognuno capisce Dickens non intendo che egli sia adatto all'intelligenza incolta. Intendo che è così semplice che perfino i dotti riescono a capirlo.
+
+La migliore espressione del fatto, tuttavia, si trova nel notare le due cose in cui egli trionfa maggiormente. In ordine di valore artistico, subito dopo il suo [[Humour|umorismo]], viene il suo orrore. E tanto il suo [[Humour|umorismo]] quanto il suo orrore sono di una specie che va rigorosamente detta umana; cioè appartengono alla parte basilare di noi, al di sotto delle radici più basse della nostra varietà. Il suo orrore, per esempio, è un sano orrore da cimitero, una [[Fear|paura]] della [[Grotesque|grottesca]] diffamazione chiamata [[Death|morte]]; e questa l'ha ogni uomo, anche se ha pure le paure più delicate e depravate che nascono da una cattiva visione spirituale. Possiamo aver paura di una fine sfumatura con Henry James; cioè possiamo aver paura del mondo. Possiamo aver paura di un teso [[Silence|silenzio]] con Maeterlinck, cioè possiamo aver paura delle nostre stesse anime. Ma chiunque avrà certamente paura di un [[Ghost|fantasma]] di Cock Lane, compresi Henry James e Maeterlinck. Quest'ultima è letteralmente una [[Fear|paura]] mortale, una [[Fear|paura]] della [[Death|morte]]; non è la [[Fear|paura]] immortale, o [[Fear|paura]] della dannazione, che appartiene a tutti gli intelletti più raffinati dei nostri giorni. In una parola, Dickens fa, nel senso esatto, accapponare la pelle; non fa, come i decadenti, strisciare l'[[Soul|anima]]. E l'accapponarsi della carne quando le si ricorda il suo fallimento carnale è cosa rigorosamente universale che tutti possiamo sentire, mentre alcuni di noi sono ancora inesperti nell'arte dello strisciare spirituale. Allo stesso modo l'ilarità di Dickens è una parte dell'uomo ed è universale. Tutti gli uomini possono ridere di un [[Humour|umorismo]] greve, perfino i sottili umoristi. Perfino il moderno flâneur, che sa sorridere di una particolare combinazione di verde e giallo, riderebbe della richiesta del signor Lammle del naso del signor Fledgeby. In una parola: le cose comuni sono comuni, perfino per le persone non comuni.
+
+Queste due disposizioni primarie di Dickens, far accapponare la pelle e far dolere i fianchi dal ridere, erano una sorta di gemelle del suo spirito; non erano mai lontane l'una dall'altra, e il fatto della loro affinità è mostrato in modo interessante nei suoi primi due romanzi.
+
+In genere egli mescolava le due cose in un libro, e con esse mescolava molte altre cose. Di regola gli importava poco di tenere in corsa nello stesso libro sei storie di colori del tutto diversi. L'effetto era talvolta simile a quello di suonare sei melodie insieme. Non gli dispiace far attraversare la rozza e tragica figura di [[Jonas Chuzzlewit]] il palcoscenico mentale che è gremito dalla pantomima allegorica di Eden, del signor Chollop e della Watertoast Gazette, una scena che è tanto una [[Satire|satira]] quanto «Gulliver», e quasi altrettanto una fiaba. Non gli dispiace rilegare un piuttosto pomposo [[Sketch|bozzetto]] della prostituzione nello stesso libro con un'adorabile impossibilità come Bunsby. Ma «[[Pickwick]]» è a tal punto una cosa coerente da essere coerentemente comico e coerentemente divagante. E, di conseguenza, il suo libro successivo fu, nel complesso, coerentemente e coerentemente orribile. Come la sua naturale inclinazione per i terrori fu tenuta a freno in «[[Pickwick]]», così la sua naturale inclinazione per la gioia e il riso è tenuta a freno in «[[Oliver Twist]]». In «[[Oliver Twist]]» il fumo della cucina dei ladri incombe su tutto il racconto, e l'[[Shadow|ombra]] di [[Fagin]] cade ovunque. Le piccole stanze rischiarate dal lume del signor Brownlow e di [[Rose Maylie]] sono, a quanto pare, tenute deliberatamente in subordine, mera cornice a fare risaltare l'immonda oscurità di fuori. Fu uno strano e appropriato caso che a illustrare questo libro fosse Cruikshank e non «Phiz». C'era nell'arte di Cruikshank una sorta di energia compressa che è quasi la definizione della mente criminale. I suoi disegni hanno una forza oscura: eppure egli non disegna soltanto morbosamente, disegna anche meschinamente. Nella figura ripiegata e negli occhi spaventosi di [[Fagin]] nella cella del condannato non c'è soltanto una bassezza di soggetto; c'è una sorta di bassezza nella tecnica stessa. Non è disegnato con le libere linee di un uomo libero; ha le mezze segretezze del ladro braccato. Non sembra semplicemente un ritratto di [[Fagin]]; sembra un ritratto fatto da [[Fagin]]. Fra queste tavole oscure e detestabili ce n'è una che possiede, con una sorta di nera immediatezza, la spaventosa poesia che pure è insita nella storia, per quanto essa spesso incespichi. Rappresenta [[Oliver]] addormentato a una [[Window|finestra]] aperta nella [[house|casa]] di uno dei suoi più umani protettori. E fuori dalla [[Window|finestra]], ma grandi e vicini come se fossero nella stanza, stanno [[Fagin]] e il turpe [[Monks]], che lo fissano con volti oscuri e mostruosi e grandi occhi bianchi e malvagi, nello stile della semplice diavoleria del disegnatore. La stessa ingenuità dell'orrore è agghiacciante: la stessa rigidità legnosa dei due uomini malvagi sembra renderli peggiori di semplici uomini malvagi. Ma questa immagine di grandi diavoli al davanzale della [[Window|finestra]] esprime davvero, come s'è suggerito sopra, il filo di poesia dell'intera cosa; il senso, cioè, dei ladri come una sorta di esercito di diavoli che cingono terra e cielo gridando per l'[[Soul|anima]] di [[Oliver]] e assediando la [[house|casa]] nella quale egli è sbarrato in salvo. In questa faccenda c'è, io credo, una differenza tra l'autore e l'illustratore. In Cruikshank c'era di certo qualcosa di morboso; ma, per quanto sensibile e sentimentale fosse Dickens, in lui non c'era nulla di morboso. Egli aveva, come Stevenson, più del semplice [[Love|amore]] fanciullesco per le storie soffocanti di [[Blood|sangue]] e di tenebra; di teschi, di forche, di tutte le cose, in una parola, che sono fosche senza essere tristi. C'è una gioia macabra nel ricordare le nostre letture da ragazzi su Sikes e la sua fuga; specialmente sulla voce di quell'insopportabile venditore ambulante che continuava in una monotona e esasperante cantilena, «[[Song|nenia]]», «leva le macchie di grasso, le macchie di fango, le macchie di [[Blood|sangue]]», finché Sikes fuggì quasi urlando. Per questa fanciullesca mescolanza di appetito e ripugnanza c'è una buona espressione popolare, «cenare di orrori». Dickens cenava di orrori come cenava di budino natalizio. Cenava di orrori perché era un ottimista e poteva cenare di qualunque cosa. Non c'era scolaro più sano o più semplice di Traddles, che copriva tutti i suoi libri di scheletri.
+
+«[[Oliver Twist]]» era iniziato sulla Bentley's Miscellany, che Dickens diresse nel 1837. Fu interrotto da un colpo che per un momento infranse lo spirito dell'autore e parve avergli spezzato il cuore. La sorella di sua moglie, Mary Hogarth, morì improvvisamente. Per Dickens la famiglia di sua moglie sembra essere stata come la sua; i suoi affetti erano fortemente impegnati con le sorelle, e a questa in particolare era straordinariamente affezionato. Per tutta la vita, attraverso molta presunzione e talvolta qualcosa che rasentava l'egoismo, possiamo sentire la nota redentrice di una tenerezza quasi tragica; era un uomo che sarebbe davvero potuto morire d'[[Love|amore]] o di dolore. Riprese il lavoro di «[[Oliver Twist]]» più tardi nell'anno, e lo terminò alla fine del 1838. Il suo lavoro era incessante e quasi sbalorditivo. Nel 1838 aveva già dato alle stampe il primo numero di «[[Nicholas Nickleby]]». Ma la grande popolarità continuava a rombare; il mondo intero reclamava a gran voce libri di Dickens, e altri libri di Dickens, e Dickens sgobbava [[Night|notte]] e giorno come una fabbrica. Fra le altre cose curò le «Memorie di Grimaldi». L'episodio merita di essere ricordato solo per amore di un altro esempio della sciocca facilità con cui Dickens si lasciava trascinare dalla critica e dell'abile facilità con cui riusciva, in questi piccoli battibecchi, a difendersi. Qualcuno suggerì blandamente che, dopo tutto, Dickens non aveva mai conosciuto Grimaldi. Dickens gli piombò addosso come un fulmine, chiedendo sardonicamente quanto intima conoscenza avesse avuto Lord Braybrooke con il signor Samuel Pepys.
+
+«[[Nicholas Nickleby]]» è forse il più tipico, quanto a tono, delle sue opere giovanili. È nella forma un [[Romance|romanzo]] molto divagante e all'antica, quel genere di [[Romance|romanzo]] in cui l'[[Hero|eroe]] è soltanto un espediente per la frustrazione del [[Villain|malvagio]]. Nicholas è ciò che in teatro si chiama un manico di scopa. Ma qualunque manico è abbastanza buono per bastonare uno Squeers. Quella robusta bastonata, quell'energia semplificata è l'intero scopo di una storia simile; e tutto questo racconto è pieno di una sorta di banalità altamente pittoresca. Gli aristocratici malvagi, Sir Mulberry Hawk, Lord Verisopht e gli altri sono versioni inadeguate del libertino alla moda. Ma ciò non avviene (come alcuni suppongono) perché Dickens, nella sua volgarità, non potesse comprendere la raffinatezza del vizio patrizio. Non c'è idea più volgare o più ignorante della nozione che un gentiluomo sia generalmente ciò che si dice raffinato. L'errore della concezione di Hawk è che, semmai, egli è troppo raffinato. I veri farabutti aristocratici non pavoneggiano e declamano così [[Well|bene]]. Un vero baronetto dissoluto non avrebbe sfidato Nicholas nella taverna con tanta dignità oratoria. Un vero baronetto dissoluto probabilmente sarebbe soffocato di apoplettico imbarazzo e non avrebbe detto nulla. Ma Dickens lesse in questa aristocrazia una magniloquenza e una naturale poesia che, come ogni [[Melodrama|melodramma]], è in realtà il prezioso [[Jewel|gioiello]] dei poveri.
+
+Ma il libro contiene qualcosa di molto più dickensiano. È squisitamente caratteristico di Dickens che la vetta veramente grande della storia sia la persona che ritarda la storia. La signora Nickleby, con i suoi bei labirinti di [[Memory|memoria]], fa del suo meglio per impedire che la storia di [[Nicholas Nickleby]] venga raccontata. E fa [[Well|bene]]. Non c'è alcuna particolare necessità che sappiamo che cosa accade a [[Madeline Bray]]. C'è una disperata e imperiosa necessità che sappiamo che la signora Nickleby ebbe un tempo un valletto con una verruca sul naso e un cocchiere con un paralume verde sull'occhio sinistro. Se la signora Nickleby è una [[Fool|sciocca]], è una di quelle sciocche che sono più sagge del mondo. Ella incarna una grande [[Truth|verità]] che non dobbiamo dimenticare: la [[Truth|verità]] che l'esperienza non è affatto, nella vita reale, cosa che rattristi. Chi ha avuto disgrazie è in genere chi [[Love|ama]] parlarne. L'esperienza è davvero una delle gaiezze della vecchiaia, una delle sue dissipazioni. La mera [[Memory|memoria]] diventa una sorta di baldoria. L'esperienza può essere scoraggiante per coloro che sono tanto sciocchi da tentare di coordinarla e trarne deduzioni. Ma per quelle anime felici, come la signora Nickleby, per le quali la pertinenza è nulla, tutta la loro vita passata è come un inesauribile paese delle fate. Come noi facciamo una passeggiata divagante perché sappiamo che un intero distretto è bello, così esse assecondano una mente divagante perché sanno che un'intera esistenza è interessante. Un ragazzo non si tuffa nel suo futuro più romanticamente e a caso di quanto esse si tuffino nel loro passato.
+
+Un altro bagliore nel libro è il signor Mantalini. Di lui, come di tutti i personaggi comici veramente grandi di Dickens, è impossibile parlare con una qualsiasi adeguatezza critica. L'assurdità perfetta è cosa diretta, come il [[Pain|dolore]] fisico, o un odore forte. Una battuta è un fatto. Per quanto indifendibile, non può essere attaccata. Per quanto difendibile, non può essere difesa. Che il signor Mantalini debba dire, lodando la «linea» di sua moglie: «Le due contesse non avevano linea, e quella della vedova era una dannata linea» — questo può solo dirsi un'assurdità inconfutabile. Potete provare ad analizzarla, come Charles [[Lamb]] fece con l'indifendibile battuta sulla lepre; potete indugiare un momento sulle oscure distinzioni tra la squalifica negativa della contessa e la squalifica positiva della vedova, ma non ne coglierete in alcun modo la violenta [[Beauty|bellezza]]. «Sarà una vedova incantevole. Io sarò un [[Body|cadavere]]. Alcune belle donne piangeranno; lei riderà dannatamente». Questa visione di demoniaca insensibilità ha la stessa finalità sfidante. Ne parlo qui, ma è cosa che va ricordata a proposito di tutti i capolavori comici di Dickens. Dickens ha molto sofferto con i critici proprio a causa di questa sbalorditiva semplicità nella sua opera migliore. Il critico è chiamato a descrivere le proprie sensazioni mentre gode di Mantalini e Micawber, e non può descriverle più di quanto possa descrivere un pugno in faccia. Così Dickens, in questa età [[Self|auto]]cosciente, analitica e descrittiva, perde da entrambe le parti. È doppiamente inadatto alla migliore critica moderna. La sua opera cattiva è al di sotto di quella critica. La sua opera buona è al di sopra.
+
+Ma per quanto giganteschi fossero i lavori di Dickens, per quanto giganteschi fossero gli sforzi che gli venivano imposti, i suoi propri progetti erano ancora più giganteschi. Aveva quel tipo di mente che desidera fare ogni genere di lavoro in una volta sola; fare il lavoro di tutti tanto [[Well|bene]] quanto il proprio. Fluttuava davanti a lui la visione di una mostruosa rivista, interamente scritta da lui stesso. È vero che, quando questo disegno venne a essere discusso, egli suggerì che occasionalmente si sarebbero potute impiegare altre penne; ma, leggendo fra le righe, è abbastanza evidente che pensava alla cosa come a una sorta di vasta moltiplicazione di se stesso, con Dickens direttore ad aprire le lettere, Dickens editorialista a scrivere gli editoriali, Dickens cronista a fare la cronaca delle riunioni, Dickens recensore a recensire i libri, Dickens, per quanto ne so, come fattorino d'ufficio ad aprire e chiudere le porte. Questo periodico a puntate, di cui parlò ai signori Chapman & Hall, cominciò e s'interruppe, e resta come un colossale [[Fragment|frammento]] rilegato sotto il titolo di «Master Humphrey's [[Clock|Clock]]». Una cosa caratteristica desiderava avere nel periodico. Propose una specie di Mille e una notte di [[London|Londra]], in cui Gog e Magog, i giganti della [[City|città]], dovevano emettere cronache enormi quanto loro stessi. Aveva un gusto per questi schemi o cornici per molti racconti. Ne ideò e abbandonò molti; molti ne portò a metà. Sospetto fortemente che intendesse, con il Maggiore Jackman, in «Mrs. Lirriper's Lodgings» e «Mrs. Lirriper's Legacy», avviare una serie di studi sugli inquilini di quella signora, una specie di [[history|storia]] del n. 81 di Norfolk Street, Strand. «The Seven Poor Travellers» fu progettato per sette storie; non diremo sette povere storie. Dickens aveva probabilmente inteso scrivere un racconto per ogni articolo di «Somebody's Luggage»: arrivò solo fino al cappello e agli stivali. Questa scala gigantesca di architettura letteraria, immensa eppure curiosamente accogliente, è caratteristica del suo spirito, amante della grandezza eppure amante del comfort. Gli piaceva avere storia dentro storia, come stanza dentro stanza di qualche labirintico ma comodo [[Castle|castello]]. In questo spirito desiderò che «Master Humphrey's [[Clock|Clock]]» cominciasse, e fosse una grande cornice o scaffale per innumerevoli romanzi. L'[[Clock|orologio]] si avviò; ma l'[[Clock|orologio]] si fermò.
+
+Nel prologo di Master Humphrey ricompaiono il signor [[Pickwick]] e [[Sam Weller]], e di quella [[Resurrection|resurrezione]] molte cose sono state dette, per lo più espressioni di un ragionevole rammarico. Senza dubbio essi non aggiungono molto alla reputazione del loro autore, ma aggiungono moltissimo al piacere del loro autore. Era radicato in lui il desiderio di incontrare vecchi amici. Tutti i suoi personaggi sono, per così dire, concepiti per essere vecchi amici; in un certo senso ogni personaggio di Dickens è un vecchio amico, anche quando compare per la prima volta. Ci giunge maturo da molti colloqui sottintesi, e reca sul volto la luce del focolare. Dickens era semplicemente lieto di incontrare di nuovo [[Pickwick]], ed essendo lieto, rese il vecchio troppo comodo per essere divertente.
+
+Ma «Master Humphrey's [[Clock|Clock]]» oggi è a stento conosciuto se non come il guscio di uno dei ben [[Well|noti]] romanzi. «The Old Curiosity Shop» fu pubblicato in conformità all'originario disegno del «[[Clock|Clock]]». Forse la cosa più tipica al riguardo è il titolo. Non sembra esservi ragione particolare, al primo e più letterale sguardo, perché la storia debba chiamarsi dal Vecchio Negozio di Curiosità. Solo due dei personaggi hanno qualcosa a che fare con un tale negozio, e lo lasciano per sempre nelle prime pagine. È come se Thackeray avesse chiamato l'intero [[Novel|romanzo]] di «[[Vanity|Vanity]] Fair» «L'Accademia di Miss Pinkerton». È come se Scott avesse dato all'intera storia di «The Antiquary» il titolo di «The Hawes Inn». Ma quando percepiamo la situazione con maggiore fedeltà ci rendiamo conto che questo titolo è qualcosa che ha la [[Nature|natura]] di una chiave dell'intero [[Romance|romanzo]] dickensiano. I suoi racconti partivano sempre da qualche splendido spunto nelle strade. E i negozi, forse la più poetica di tutte le cose, mettevano spesso in galoppo la sua fantasia. Ogni negozio, in effetti, era per lui la porta del [[Romance|romanzesco]]. Fra tutti i vasti schemi a puntate di cui abbiamo parlato, è [[Wonder|meraviglia]] che non abbia mai avviato un periodico interminabile chiamato «La Strada», e non l'abbia diviso in negozi. Avrebbe potuto scrivere uno squisito [[Romance|romanzo]] intitolato «Il Negozio del Panettiere»; un altro intitolato «Il Negozio del Farmacista»; un altro intitolato «Il Negozio dell'Olio», per far compagnia al «Vecchio Negozio di Curiosità». Qualche incomparabile panettiere egli inventò e dimenticò. Qualche magnifico farmacista sarebbe potuto essere. Qualche più che mortale oliandolo è perduto per noi per sempre. A questo Vecchio Negozio di Curiosità gli capitò per l'appunto di indugiare: il suo racconto gli capitò per l'appunto di narrarlo.
+
+Attorno a «[[Little Nell]]», naturalmente, infuriò e infuria una polemica; alcuni implorarono Dickens di non ucciderla alla fine della storia: altri si rammaricano che non l'abbia uccisa all'inizio. Per me l'interesse principale di questa giovane persona sta nel fatto che ella è un esempio, e l'esempio più celebre, di ciò che dev'essere stata, credo, una particolarità personale, forse un'esperienza personale di Dickens. Non c'è, naturalmente, alcun [[Paradox|paradosso]] nel dire che se troviamo in un buon libro un personaggio selvaggiamente impossibile, è davvero molto probabile che esso fosse copiato da una persona reale. Questo è uno dei luoghi comuni della buona critica d'arte. Perché, sebbene si parli dei vincoli del fatto e della [[Freedom|libertà]] della finzione, per la maggior parte degli scopi artistici il caso è esattamente l'opposto. La [[Nature|natura]] è libera come l'aria: l'arte è costretta ad apparire verosimile. Ci possono essere un milione di cose che accadono, eppure una sola cosa che ci convinca sia probabile. Su un milione di cose possibili ce ne può essere una sola appropriata. Sospetto, dunque, che molti personaggi rigidi e poco convincenti siano copiati dal selvaggio baraccone dei fenomeni della vita reale. E in molte parti dell'opera di Dickens c'è testimonianza di un suo peculiare affetto per una strana specie di bambina; una bambina con un prematuro senso di responsabilità e di dovere; una sorta di precocità santa. Conobbe forse qualche bambina di questo genere? Morì ella, forse, e rimase nella sua [[Memory|memoria]] in colori troppo eterei e pallidi? In ogni caso ce ne sono un gran numero nelle sue opere. La Piccola Dorrit era una di loro, e [[Florence Dombey]] con il suo fratello, e perfino Agnes nell'infanzia; e, naturalmente, [[Little Nell]]. E, in ogni caso, una cosa è evidente: qualunque fascino queste bambine possano avere, non hanno il fascino dell'[[Childhood|infanzia]]. Non sono piccole bambine: sono «piccole madri». La [[Beauty|bellezza]] e la divinità in un [[Child|bambino]] stanno nel suo non essere in ansia, nel suo non essere coscienzioso, nel suo non essere come [[Little Nell]]. [[Little Nell]] non ha mai nulla del sacro smarrimento di un neonato. Non porta mai quel volto, bello ma quasi ebete, con cui un vero [[Child|bambino]] mezzo comprende che c'è del male nell'universo.
+
+Come al solito, tuttavia, per quanto poco la storia abbia a che fare con il titolo, le pagine splendide e appaganti hanno ancor meno a che fare con la storia. [[Dick Swiveller]] è forse la più nobile di tutte le nobili creazioni di Dickens. Ha tutta la travolgente assurdità di Mantalini, con l'aggiunta di essere umano e credibile, perché sa di essere assurdo. Il suo pomposeggiare non è fatto perché egli creda seriamente che sia giusto e conveniente, come quello del signor Snodgrass, né è fatto perché egli pensi che gli servirà allo scopo, come quello del signor Pecksniff, perché entrambe queste convinzioni sono improbabili; è fatto perché egli ama davvero il pomposeggiare, perché prova un solitario piacere letterario nel linguaggio iperbolico. Grandi sorsate di parole sono per lui come grandi sorsate di vino: pungenti eppure ristoratrici, leggere eppure tali da lasciarlo acceso di ardore. Nell'infallibile istinto per la perfetta follia di una frase egli non ha eguali, nemmeno fra i giganti di Dickens. «Sono certa», dice Miss Wackles, dopo aver flirtato con Cheggs, l'ortolano, e ridotto il signor Swiveller a una byroniana [[Renunciation|rinuncia]], «sono certa che sono molto spiacente se...». «Spiacente», disse il signor Swiveller, «spiacente in possesso di un Cheggs!». L'abisso dell'amarezza è insondabile. Non meno preziosa è la posa del signor Swiveller quando imita il brigante da palcoscenico. Dopo aver gridato «Del vino, qui! Olà!», porge il boccale a se stesso con profonda [[Humility|umiltà]], e lo riceve con alterigia. Forse la scena migliore in assoluto del libro è quella tra il signor Swiveller e il gentiluomo solitario al quale egli tenta di rimostrare per essere rimasto a letto tutto il giorno: «Non possiamo avere gentiluomini soli che vengono qui e dormono come gentiluomini [[Double|doppi]] senza pagare un supplemento... Uguale quantità di sonno non si è mai ricavata da un solo letto, e se volete [[Sleep|dormire]] così dovete pagare per una camera a [[Double|due]] letti». I suoi rapporti con la [[Marchioness]] sono al tempo stesso puramente romantici e puramente genuini; non c'è in essi nemmeno nulla delle legittime esagerazioni di Dickens. Un impiegato trasandato, gaudente e di buon carattere, di fatto, passerebbe ore nella compagnia di una piccola servetta se la trovasse per [[house|casa]]. Ciò nascerebbe in parte da una vaga bontà, e in parte da quel misterioso istinto che talvolta si chiama, erroneamente, [[Love|amore]] per la bassa compagnia: quel misterioso istinto che spinge tanti uomini di piacere a trovare qualcosa di consolante nella compagnia di persone incolte, particolarmente di donne incolte. È l'istinto che spiega l'altrimenti inspiegabile popolarità delle cameriere di bar.
+
+E ancora la pentola di quella immensa popolarità bolliva. Nel 1841 fu richiesto un altro [[Novel|romanzo]], e «[[Barnaby Rudge]]» lo fornì. Esso interessa soprattutto come incarnazione di quell'altro elemento in Dickens, il pittoresco o addirittura il pittorico. [[Barnaby Rudge]], l'idiota con i suoi stracci e le sue piume e il suo corvo, il bestiale boia, la folla cieca — tutti insieme fanno un quadro, benché a stento facciano un [[Novel|romanzo]]. Un tocco c'è in esso del Dickens più ricco e più umoristico, il ragazzo-cospiratore, il signor Sim Tappertit. Ma avrebbe potuto essere trattato con più simpatia — con altrettanta simpatia, per esempio, del signor [[Dick Swiveller]]; perché egli è soltanto il monello romantico, il ragazzo sveglio a quella particolare età in cui è più affascinante fondare una società segreta e più difficile mantenere un segreto. E se mai vi fu al mondo un monello romantico, quello fu Charles Dickens. «[[Barnaby Rudge]]» non è più un [[Historical Novel|romanzo storico]] di quanto la lega segreta di Sim fosse un movimento politico; ma sono entrambi belle creazioni. A conti fatti, tuttavia, la ragione principale per menzionare qui l'opera è che essa è la bolla successiva nella pentola, la cosa successiva che eruppe da quella testa vorticante e ribollente. La marea di essa si [[Rose|levò]] e fumò e cantò finché traboccò dalla pentola della Britannia e si riversò su tutta l'[[America]]. Nel gennaio del 1842 egli partì per gli Stati Uniti.
+
+CAPITOLO VI
+
+DICKENS E L'[[America|AMERICA]]
+
+L'essenza del carattere di Dickens stava nella congiunzione del buon senso comune con una sensibilità non comune. Le due cose non si trovano, in verità, in quell'antitesi che comunemente si immagina. Grandi autorità letterarie inglesi, come Jane Austen e il signor Chamberlain, hanno posto la parola «senno» e la parola «sensibilità» in una sorta di reciproca opposizione. Ma non solo esse non sono parole opposte: sono in realtà la stessa parola. Entrambe significano ricettività, ovvero disponibilità ad accogliere i fatti che ci circondano. Avere il senso del colore è la medesima cosa che avere sensibilità al colore. Chi si avvede che una bistecca è appetitosa dà prova della sua sensibilità. Chi si avvede che il sorgere della luna è romantico dà prova del suo senno. Ma non è difficile scorgere il significato e la necessità della distinzione popolare fra sensibilità e senno, particolarmente nella forma che chiamiamo buon senso comune. Il buon senso comune è una sensibilità debitamente distribuita in tutte le direzioni normali; la sensibilità è venuta a significare una sensibilità specializzata in una sola. Ciò è deplorevole, poiché non è la sensibilità a essere cattiva, ma la specializzazione; vale a dire la mancanza di sensibilità verso tutto il resto. Una giovinetta che passa fuori tutta la [[Night|notte]] a contemplare le [[Stars|stelle]] non è da biasimare per la sua sensibilità alla luce degli astri, bensì per la sua insensibilità verso il prossimo. Un poeta che recita i propri versi dalle dieci alle cinque con le [[Tears|lacrime]] che gli [[rolling|scorrono]] giù per il volto merita senza dubbio di essere ripreso per la sua mancanza di sensibilità: la mancanza di sensibilità a quei grandi ritmi dell'armonia sociale che, rozzamente, si chiamano buone maniere. Poiché ogni forma di cortesia è un lungo poema, essendo tutta ricorrenze. Questo equilibrio di tutte le sensibilità lo chiamiamo senno; ed è in questa veste che esso acquista grande importanza come attributo del carattere di Dickens.
+
+Dickens, ripeto, aveva un senno comune e una sensibilità non comune. Vale a dire che la proporzione degli interessi in lui era pressappoco la stessa di un uomo ordinario, ma egli li sentiva tutti con maggiore concitazione. È una distinzione che non ci è facile tenere presente, perché oggi sentiamo parlare soprattutto di due tipi: l'uomo ottuso che ama le cose ordinarie con tiepidezza, e l'uomo straordinario che ama le cose straordinarie con furore. Ma Dickens amava le cose quiete e ordinarie; solo che ne faceva un chiasso straordinario. La sua eccitazione era talvolta simile a un attacco di epilessia; ma non la si deve confondere con il furore dell'uomo d'una sola idea o d'una sola linea di idee. Aveva l'eccesso dell'eccentrico, ma non i difetti, non la ristrettezza. Anche quando delirava come un maniaco, non delirava come un monomaniaco. Non aveva alcun punto particolare di sensibilità o di insensibilità: era semplicemente un uomo normale meno un normale dominio di [[Self|sé]]. Non aveva alcun punto speciale di [[Pain|dolore]] o di ripugnanza mentale, come l'orrore di Ruskin per il vapore e il ferro, o la permanente irritazione del signor Bernard [[Shaw]] contro l'[[Romantic Love|amore romantico]]. Si adontava per le seccature ordinarie: solo che se ne adontava più del necessario. Non [[Desire|desiderava]] strani piaceri, il vino azzurro o le donne nere alla maniera di Baudelaire, né crudeli spettacoli a oriente di Suez alla maniera del signor Kipling. Voleva ciò che vuole un uomo sano, solo che era malato dal desiderarlo. Per comprenderlo, in una parola, dobbiamo tenere [[Well|ben]] presente la distinzione medica fra delicatezza e malattia. Forse comprenderemo la cosa, e lui stesso, più chiaramente se pensiamo a una donna anziché a un uomo. C'era molto di femminile in Dickens, e niente lo era più di questa normalità anomala. Una donna è spesso, al paragone con un uomo, insieme più sensibile e più assennata.
+
+Questa distinzione va ricordata specialmente in tutte le sue polemiche. E va ricordata in modo del tutto particolare in quella che si può chiamare la sua grande polemica con l'[[America]], che dobbiamo ora affrontare. L'intero episodio è così tipico dell'atteggiamento di Dickens verso tutto e verso qualsiasi cosa, e specialmente dell'atteggiamento di Dickens verso qualsiasi cosa politica, che chiederò il permesso di accostarmi alla questione per un'altra via, un viale alquanto lungo e tortuoso.
+
+Il buon senso comune è un filo fatato, sottile e tenue, e facile a perdersi come una ragnatela. Dickens (nelle grandi questioni) non lo smarrì mai. Si prenda, come esempio, il suo tono politico, o l'orientamento generale della sua vita. Le sue idee, s'intende, possono essere state giuste o sbagliate; le riforme da lui sostenute possono aver avuto successo o meno: non è cosa che riguardi questo libro. Ma se lo paragoniamo agli altri uomini che volevano le stesse cose (o agli altri uomini che volevano le cose contrarie) avvertiamo una sorprendente assenza di ipocrisia, un sorprendente senso dell'umanità qual è, e dell'eterna debolezza. Era un fiero democratico, ma nella sua vena migliore rideva del sicumeroso radicale della vita comune, l'uomo dalla faccia rossa che diceva «Dimostralo!» ogni volta che qualcuno diceva qualcosa. Combatté per il diritto di eleggere: ma non voleva imbiancare le elezioni. Credeva nel [[government|governo]] parlamentare; ma non fingeva, come i nostri giornali contemporanei, che il Parlamento sia qualcosa di ben più eroico e imponente di quanto sia. Combatté per i diritti dei Non-conformisti grossolanamente oppressi, ma sputava via dalla bocca l'untuosità di quella troppo facile serietà con cui essi ungevano ogni cosa, e teneva loro davanti, come un orribile [[Mirror|specchio]], la sudicia faccia grassa di Chadband. Vedeva che il signor Podsnap teneva in troppo poco conto i luoghi fuori d'Inghilterra. Ma vedeva che la signora Jellaby li teneva in troppo gran conto. Nell'ultimo libro che scrisse ci offre, nella figura del signor Honeythunder, un ritratto odioso e salutare di tutte le parole d'ordine liberali che sgorgano da un uomo illiberale. Ma forse la prova migliore di questa costanza e di questa [[Sanity|sanità di mente]] sta nel fatto che, per quanto dogmatico fosse, non si legò mai ad alcun dogma passeggero: non finì mai in alcun vicolo cieco, in alcun [[Fanaticism|fanatismo]] civico o economico: percorse la larga [[Road|strada]] della Rivoluzione. Non ammise mai che, per ragioni economiche, si debbano fare inferni delle case di lavoro, non più di quanto l'avrebbe ammesso Rousseau. Non disse mai che lo Stato non avesse diritto di istruire i fanciulli o di salvarne le ossa, non più di quanto l'avrebbe detto Danton. Era un fiero radicale; ma non fu mai un radicale di Manchester. Usava il criterio dell'Utilità, ma non fu mai un utilitarista. Mentre gli economisti scrivevano parole soavi, egli scrisse «Hard Times», che Macaulay definì «cupo Socialismo», perché non era compiaciuto Whiggismo. Ma Dickens non fu mai socialista, così come non fu mai individualista; e, qualunque altra cosa fosse, di certo non era cupo. Non era nemmeno un politico di alcun genere. Era semplicemente un uomo dal giudizio limpidissimo e sereno sulle cose che non gli infiammavano l'umore personale, e capiva che ogni teoria la quale pretendesse di reggere lo Stato vivente interamente su una sola forza e su un solo movente era probabilmente un'assurdità. Ogni volta che la [[philosophy|filosofia]] liberale conteneva incastonato dentro di sé qualcosa di duro, di pesante e di privo di vita, per istinto lo lasciava cadere. Era troppo romantico, forse, ma non voleva aver da fare che con cose reali. Può darsi che tenesse troppo alla Libertà. Ma non teneva niente al «Laissez Faire».
+
+Ora, fra i molti motivi d'interesse del suo contatto con l'[[America]], questo emerge come infinitamente il più grande e il più notevole: che esso offrì un ultimo esempio di quella sua bizzarra, inaspettata freddezza e schiettezza, di quella sua brusca e clamorosa razionalità. A prescindere del tutto da qualsiasi questione circa l'esattezza del ritratto che egli fece dell'[[America]], l'indignazione americana fu particolarmente naturale e inevitabile. Bisogna infatti tenere conto delle grandi circostanze dell'epoca. Alla fine dell'epoca precedente, l'intera nostra civiltà cristiana era stata destata dal [[Sleep|sonno]] da squilli di tromba, per schierarsi in una sconcertante Armageddon, spesso con gli occhi ancora appannati. La [[Germany|Germania]] e l'Austria si trovarono dalla parte del vecchio ordine, la Francia e l'[[America]] dalla parte del nuovo. L'Inghilterra, come al tempo della [[Reformation|Riforma]], assunse alla fine una fosca posizione intermedia, di esasperante difficoltà a definirsi. Creò una [[democracy|democrazia]], ma conservò un'aristocrazia: riformò la [[house|Camera]] dei Comuni, ma lasciò la magistratura (com'è tuttora) una semplice lega di gentiluomini contro il mondo. Ma sotto tutto questo [[Doubt|dubbio]] e questo compromesso vi era in Inghilterra una grande e forse crescente massa di [[democracy|democrazia]] dogmatica; di certo migliaia, probabilmente milioni di persone si aspettavano una Repubblica entro cinquant'anni. E per costoro il primo istinto era ovvio. Il primo istinto era di guardare al di là dell'Atlantico, là dove giaceva una parte di noi stessi già repubblicana, l'avanguardia degli inglesi in marcia sulla [[Road|strada]] della libertà. Quasi tutti i grandi liberali dell'Ottocento idealizzarono enormemente l'[[America]]. D'altro canto, agli americani, freschi della loro prima [[Epic|epopea]] d'armi, la madrepatria sconfitta, con le sue coroncine nobiliari e i suoi magistrati di contea, non appariva che un decrepito maniero feudale.
+
+Tutto questo è [[Self|evidente di per sé]]. Ma quasi a metà dell'Ottocento uscì dall'Inghilterra la voce di un violento satirico. Nella sua qualità politica essa parve come il grido mezzo soffocato della repubblica frustrata. Non aveva pazienza con la finzione che l'Inghilterra fosse già libera, che noi avessimo ottenuto tutto ciò che di prezioso vi era da ottenere dalla Rivoluzione. Riversò una cateratta di disprezzo sui cosiddetti compromessi funzionanti dell'Inghilterra, sui gabinetti oligarchici, sui due partiti artificiali, sugli uffici del [[government|governo]], sui giudici di pace, sui consigli parrocchiali, sulle opere di carità volontarie. Questo satirico era Dickens, e va ricordato che egli non era soltanto feroce, ma anche fragorosamente leggibile. Danneggiava per davvero le cose che colpiva, il che è cosa assai rara. Si accostò al [[Grave|solenne]] funzionario del consiglio parrocchiale, davvero fidato dai governanti, davvero temuto come un dio dai poveri, e gli legò intorno al collo un nome che lo soffocò; mai più, ormai, egli potrà essere altro che Bumble. Affrontò il fine e vecchio gentiluomo inglese che presta gratuitamente i suoi patriottici servigi come magistrato locale, e lo inchiodò al muro come Nupkins, un gufo in pieno giorno. Poiché a questa [[Satire|satira]] non c'è letteralmente risposta; non si può negare che un uomo come Nupkins possa essere ed è magistrato, fintanto che adottiamo il sorprendente metodo di lasciare che il ricco di un distretto sia effettivamente il giudice di quel distretto. Possiamo sfuggire alla visione del fatto solo chiudendo gli occhi e immaginando il più garbato uomo ricco che ci riesca di concepire; ed è appunto, s'intende, ciò che facciamo. Ma Dickens, in questa faccenda, era semplicemente realistico; ci chiedeva solo di guardare Nupkins, di guardare la selvaggia, strana cosa che avevamo fabbricato. Così Dickens sembrava vedere l'Inghilterra non affatto come il paese dove la [[Freedom|libertà]] si allargava lentamente di precedente in precedente, ma come un mucchio di rifiuti di cattive abitudini seicentesche abbandonato da tutti gli altri. Vale a dire che guardava l'Inghilterra quasi con gli occhi di un democratico americano.
+
+E così, quando la voce, gonfiandosi di volume, giunse all'[[America]] e agli americani, gli americani dissero: «Ecco un uomo che darà una spinta alla vecchia madrepatria, e ne rovescerà in mare re e sagrestani. Venga qui, e gli mostreremo una razza di uomini liberi quali egli li [[Dreams|sogna]], viva sull'antica terra. Venga qui e racconti agli inglesi della divina [[democracy|democrazia]] verso la quale li sospinge. Là ha una monarchia e un'oligarchia di cui farsi beffe. Qui c'è una repubblica per lui da lodare». Sembrava, in verità, un seguito assai naturale che, avendo denunciato l'Inghilterra antidemocratica come il deserto, egli dovesse annunciare l'[[America]] democratica come la terra promessa. Qualunque persona ordinaria avrebbe profetizzato che, come aveva spinto la sua collera contro il vecchio ordine quasi fin sull'orlo della sfuriata, così avrebbe spinto il suo encomio del nuovo ordine quasi fin sull'orlo dell'ipocrisia. In mezzo a un fragore di idealismo repubblicano, di complimenti, di [[Hope|speranze]] e di anticipata gratitudine, il grande democratico entrò nella grande [[democracy|democrazia]]. Si guardò intorno; vide un'[[America]] compiuta, incontestabilmente progressista, incontestabilmente padrona di [[Self|sé]]. Poi, con una freddezza più che americana, e con un'impudenza più che americana, si sedette e scrisse «[[Martin Chuzzlewit]]». Quella sua bizzosa e perversa [[Sanity|sanità di mente]] si era ammutinata di nuovo. Il buon senso comune è una cosa selvaggia, feroce, e al di sopra di ogni regola; e si era rivoltato contro di loro e li aveva fatti a brani.
+
+Il corso principale degli eventi fu il seguente; ed è giusto registrarlo prima di parlare della giustizia di esso. Quando parlo del suo sedersi a scrivere «[[Martin Chuzzlewit]]», uso, s'intende, un'espressione ellittica. Egli scrisse gli appunti della parte americana di «[[Martin Chuzzlewit]]» mentre si trovava ancora in [[America]]; ma fu presumibilmente una decisione posteriore quella che simili impressioni dovessero confluire in un libro, e fu poco più che un ripensamento che dovessero confluire proprio in «[[Martin Chuzzlewit]]». Dickens aveva una brutta abitudine non comune (parlando dal punto di vista artistico), quella di alterare una storia a metà strada, come fece nel caso di «Our Mutual Friend». Ed è agli atti che mandò il giovane Martin in [[America]] soltanto perché non sapeva che altro farne, e perché (a dire il [[Truth|vero]]) le vendite stavano calando. Ma la prima azione, che gli americani considerarono ugualmente ostile, fu la pubblicazione di «American Notes», la cui [[history|storia]] va anzitutto raccontata. L'idea di visitare l'[[America]] gli era venuta come un'idea assai vaga, ancor prima della comparsa di «The Old Curiosity Shop». Ma era cresciuta in lui lungo tutto il periodo successivo, in quel modo assillante e tenace in cui le idee crescevano in lui e vivevano con lui. In un certo senso oppose resistenza all'idea. Aveva molto per indurlo a contrastarla. Dickens era ormai a quel [[Time|tempo]] non soltanto marito, ma padre, padre di parecchi figli, e la loro esistenza costituiva di per sé una difficoltà. Sua moglie, diceva, piangeva ogni volta che si accennava al progetto. Ma era proprio della sua natura non poter mai, con alcuna soddisfazione, separarsi da un progetto. Aveva quell'ottimismo irrequieto, quella specie di ottimismo nervoso, che tende sempre a dire «Sì»; e che è colpito da un immortale pentimento, ogni qual volta dice «No». L'idea di vedere l'[[America]] poteva essere dubbia, ma l'idea di non vedere l'[[America]] era spaventosa. «Perdere questa occasione sarebbe una cosa triste», dice. «... A Dio piacendo, credo che in qualche modo si debba fare!». In qualche modo si fece. Prima di tutto volle condurre con sé i figli [[Well|oltre]] alla moglie. Ostacoli definitivi a questo gli piombarono addosso, ma non lo sviarono. Una grave malattia lo colpì; ma neppure quella lo sviò. Salpò per l'[[America]] nel 1842.
+
+Sbarcò in [[America]], e gli piacque. Come dice con grande verità John Forster, si deve a lui, [[Well|non meno]] che al grande paese che lo accolse, che la sua prima buona impressione venga registrata, e che essa venga «considerata indipendentemente da qualsiasi modificazione che in seguito subì». Ma la modificazione che in seguito subì fu, come ho detto sopra, semplicemente un'improvvisa ribellione contro l'ipocrisia, cioè contro la ripetizione. Era prontissimo a credere che tutti gli americani fossero uomini liberi. L'avrebbe creduto, se non gliel'avessero detto tutti quanti. Era prontissimo a compiacersi dell'[[America]]. Se ne sarebbe compiaciuto, se essa non fosse stata tanto compiaciuta di se stessa. La «modificazione» che le sue idee subirono non sorse da alcuna modificazione dell'[[America]] quale egli l'aveva vista dapprima. La sua ammirazione non cambiò perché l'[[America]] cambiasse. Cambiò perché l'[[America]] non cambiava. Gli yankee lo mandarono infine su tutte le furie non col dire cose diverse, ma col dire le stesse cose. Erano una repubblica; erano una nazione nuova e vigorosa; sembrava naturale che lo dicessero a un illustre straniero appena messo piede sulle loro rive. Ma sembrava esasperante che se lo dicessero l'un l'altro in ogni vagone e in ogni bettola dal mattino alla [[Night|sera]]. Non era che gli americani cessassero in alcun modo di lodarlo. Era piuttosto che continuavano a lodarlo. Non era soltanto che le loro lodi di lui suonavano belle quando le udì la prima volta. Le loro lodi di se stessi suonavano belle quando le udì la prima volta. Che quella [[democracy|democrazia]] fosse grande, e che Charles Dickens fosse una persona notevole, erano due verità di cui certamente non dubitò fino al giorno della sua morte. Ma, come dico, fu una ripetizione senz'anima a pungere il suo senso dell'[[Humour|umorismo]] fino a destarlo dal [[Sleep|sonno]]; esso si svegliò come una belva feroce a caccia, il [[Lion|leone]] della sua risata. Aveva udito la [[Truth|verità]] una volta di troppo. Aveva udito la [[Truth|verità]] per la novecentonovantanovesima [[Time|volta]], e d'un tratto vide che era menzogna.
+
+È vero che una particolare circostanza acuì e definì la sua delusione. Sentiva con grande fervore, come sentiva ogni cosa, fosse egoistica o disinteressata, l'ingiustizia delle pirateríe americane della letteratura inglese, derivanti dalle leggi americane sul diritto d'autore. Non era andato in [[America]] con alcuna idea di discuterne; quando, qualche [[Time|tempo]] più tardi, qualcuno disse che invece l'aveva fatto, egli respinse con violenza tale opinione come definibile soltanto «con una delle parole più brevi della lingua inglese». Ma il suo ingresso in [[America]] fu quasi trionfale; la tribuna, o pulpito, era pronta per lui; si sentiva abbastanza forte da dire qualunque cosa. Era stato accolto con grandissima cordialità da molti uomini di lettere americani, specialmente da Washington Irving, e nel conseguente calore di fiducia si accostò alla pericolosa questione del diritto d'autore americano. Pronunciò molti discorsi in cui attaccava la legge e la teoria americane in materia, come ingiuste verso gli scrittori inglesi e verso i lettori americani. L'effetto pare lo abbia sbalordito. «Credo che non vi sia paese», scrive, «sulla faccia della terra dove vi sia meno [[Freedom|libertà]] di opinione su qualsiasi argomento riguardo al quale esista una netta divergenza di opinione, che in questo. Ecco! Scrivo queste parole con riluttanza, delusione e dolore; ma le credo dal [[Bottom|fondo]] dell'[[Soul|anima]] mia... L'idea che io, un uomo [[Alone|solo]] per conto suo in [[America]], osassi suggerire agli americani che vi fosse un punto sul quale essi non erano giusti né verso i propri concittadini né verso di noi, ha lasciato ammutoliti i più baldanzosi! Washington Irving, Prescott, Hoffman, Bryant, Halleck, Dana, Washington Allston: ogni uomo che scrive in questo paese ha a cuore la questione, eppure nessuno di loro osa alzare la voce e lamentarsi dell'atroce stato della legge... La [[Wonder|meraviglia]] è che si possa trovare un uomo vivente con abbastanza temerarietà da suggerire agli americani la possibilità che essi abbiano fatto un torto. Vorrei che tu avessi potuto vedere le facce che vidi lungo entrambi i lati della tavola a Hartford, quando cominciai a parlare di Scott. Vorrei che tu avessi potuto udire come glielo scagliai in faccia. Il mio [[Blood|sangue]] ribolliva tanto quando pensavo alla mostruosa ingiustizia, che mi sentivo alto dodici piedi mentre gliela cacciavo giù per la gola».
+
+Questo è quasi un ritratto di Dickens. Possiamo quasi vedere la piccola figura eretta, col volto e i capelli simili a una fiamma.
+
+Per tali ragioni, fra le altre, Dickens era in collera con l'[[America]]. Ma se l'[[America]] era in collera con Dickens, anche di ciò v'erano ragioni. Non credo che l'ira contro i suoi discorsi sul diritto d'autore fosse, come egli supponeva, mera insolenza nazionale e compiacimento di [[Self|sé]]. L'[[America]] è un mistero per ogni buon inglese; ma penso che Dickens riuscisse in qualche modo a toccarla su un nervo bizzarro. C'è una cosa, in ogni caso, che deve colpire tutti gli inglesi che hanno la fortuna di avere amici americani; ed è che, mentre non esiste materialismo così rozzo o così materiale come il materialismo americano, non esiste neppure idealismo così rozzo o così ideale come l'idealismo americano. L'[[America]] farà sempre su un inglese l'effetto di essere tenera dove non si deve e dura dove non si deve; grossolana esattamente là dove tutti gli uomini civili sono delicati, delicata esattamente là dove tutti gli uomini adulti sono grossolani. Un qualche bell'ideale attraversa questo popolo, ma lo attraversa di traverso. L'unico ritratto esistente in cui la cosa che intendo sia stata incarnata è nel «Wrecker» di Stevenson, nella pasticciona delicatezza di Jim Pinkerton. L'[[America]] ha una delicatezza nuova, una raffinatezza rozza e vigorosa. Ma c'è un altro modo di incarnare l'idea, ed è dire questo: che niente è più probabile del fatto che gli americani giudicassero cosa assai scandalosa, in Dickens, il divino autore, il parlare dell'essere defraudato di denaro. Niente sarebbe più americano che pretendere che un genio sia troppo aristocratico d'animo per il commercio. È certo che deploravano il suo egoismo in materia; è probabile che ne deplorassero l'indelicatezza. Un bel giovane sognatore, dalla fluente chioma castana, non dovrebbe essere neppure consapevole dei propri diritti d'autore. Poiché è del tutto ingiusto dire che gli americani adorano il dollaro. Essi adorano davvero l'intelletto: un'altra delle superstizioni passeggere del nostro [[Time|tempo]].
+
+Se l'[[America]] aveva dunque questa correttezza alla Pinkerton, questa nuova, cruda sensibilità, Dickens era proprio l'uomo fatto per raspargliela contro. Ne era il preciso opposto sotto ogni riguardo. Le convenienze che rispettava per davvero erano antiquate e fondamentali. Al di sopra di esse aveva quella libertà indolente e quell'agio che si possono avere soltanto sulla base di convenzioni molto antiche, come la noncuranza dei gentiluomini e la lentezza dei campagnoli. Non aveva alcun gusto per l'essere tirato su fino a quella tesa e vibrante idealità che i patrioti e gli oratori pubblici americani esigevano. E c'era anche qualcos'altro, connesso specialmente con la questione del diritto d'autore e con le sue proprie pretese pecuniarie. Dickens non desiderava minimamente essere ritenuto troppo «d'animo elevato» per volere il proprio salario, né si vergognava minimamente di chiederlo. Profondo in lui (piaccia o no al lettore moderno tale qualità) v'era un senso assai forte nei vecchi radicali, forte specialmente nel vecchio radicale inglese: un senso dei diritti personali, inclusi i propri diritti, come qualcosa non semplicemente utile, ma sacro. Non riteneva una rivendicazione meno giusta e meno solenne per il fatto che si desse il caso fosse egoistica; non divideva le rivendicazioni in egoistiche e disinteressate, ma in giuste e ingiuste. È significativo che, quando chiedeva il proprio denaro, non lo chiedesse mai con quel vergognoso cinismo, con quella specie di imbarazzata brutalità, con cui l'uomo di mondo moderno biascica qualcosa sul fatto che gli affari sono affari o che bisogna badare al proprio tornaconto. Chiedeva il proprio denaro con voce valorosa e squillante, come un uomo che chiede il proprio [[Honour|onore]]. Mentre i suoi critici americani gemevano e sogghignavano dei suoi moventi interessati come di una squalifica, egli brandiva i propri moventi interessati come un vessillo. «Non conta nulla per loro», grida stupefatto, «che, fra tutti gli uomini viventi, io sia colui che più ci rimette» (per la legge sul diritto d'autore). «Non conta nulla che io abbia titolo a parlare ed essere ascoltato». Ciò che essi ergono a barriera, egli lo esibisce come un lasciapassare. Essi pensano che egli, fra tutti gli uomini, non dovrebbe parlare perché è interessato. Egli pensa che egli, fra tutti gli uomini, dovrebbe parlare perché ha subìto un torto.
+
+Ma questa particolare delusione verso l'[[America]] nella faccenda della tirannia della sua opinione pubblica non era semplicemente l'espressione del fatto che Dickens fosse un inglese tipico; cioè un uomo con un'assai vivace insistenza sulla [[Freedom|libertà]] individuale. Essa riconduceva anche, in ultima analisi, a quel più vasto e più vago disgusto di cui ho parlato: il disgusto per il perpetuo atteggiarsi del popolo davanti a uno [[Mirror|specchio]]. La tirannia era irritante, non tanto per la [[Suffering|sofferenza]] che infliggeva alla minoranza, quanto per gli spaventosi barlumi che offriva dell'enorme e imbecille felicità della maggioranza. La stessa vastità di quella razza vanitosa lo mandava su tutte le furie, la sua immensità, la sua [[unity|unità]], la sua pace. Lo indispettiva più la sua contentezza che qualsiasi suo scontento. Il pensiero di quella massa impensabile di milioni di persone, ciascuna delle quali affermava che Washington era stato il più grande uomo della terra, e che la [[Queen|Regina]] abitava nella Torre di [[London|Londra]], cavalcava la sua fantasia turbolenta come un [[nightmare|incubo]]. Ma fino alla fine egli conservò i contorni del suo originario ideale repubblicano e si lamentava dell'[[America]] non perché fosse troppo liberale, ma perché non lo era abbastanza. Fra le altre, usò queste parole alquanto notevoli: «Tremo per un radicale che venga qui, a meno che non sia un radicale per principio, per ragione e per riflessione, e per senso del giusto. [[Fear|Temo]] che, se fosse qualcos'altro, se ne tornerebbe a [[Home|casa]] Tory... Non aggiungo altro su questo punto per due mesi da questo [[Time|momento]], se non che [[Fear|temo]] davvero che il più pesante colpo mai inferto alla libertà sarà inferto da questo paese, col fallimento del suo esempio sulla terra».
+
+Attendiamo ancora di vedere se quella predizione si sia avverata; ma nessuno può dire che sia stata smentita.
+
+Andò a ovest lungo i grandi canali; andò a sud e toccò la regione della [[Slavery|schiavitù]]; vide l'[[America]] in modo superficiale, è vero, ma nel suo insieme. E la gran massa della sua esperienza fu certamente piacevole, per quanto egli vibrasse di anticipata passione contro gli schiavisti, per quanto giurasse che non avrebbe accettato alcun pubblico tributo nel paese della schiavitù (proposito che infranse sotto la pressione della cortesia del Sud), pure i suoi effettivi scontri con la [[Slavery|schiavitù]] e i suoi sostenitori furono pochi e brevi. In essi si condusse con la sua consueta vivacità e il suo consueto [[Fire|ardore]], ma sarebbe un grave errore trasmettere l'impressione che la sua reazione mentale contro l'[[America]] fosse principalmente, o anche in larga misura, dovuta al suo orrore per il problema dei negri. Al di sopra e al di là dell'ipocrisia di cui abbiamo parlato, dell'estenuante fiumana di parole, la principale lagnanza che sollevava era una lagnanza contro le cattive maniere; e, in una visione d'insieme, il suo antiamericanismo sembrerebbe fondato più sullo sputare che sulla [[Slavery|schiavitù]]. Quando però accadeva che la [[morality|moralità]] fondamentale del possedere uomini venisse in discussione, Dickens dava prova di un'onorevole insofferenza. Un uomo, pieno di ardore antiabolizionista, lo prese per il bavero e lo bombardò con il [[Well|ben]] noto argomento a difesa della [[Slavery|schiavitù]], secondo cui non era nell'interesse finanziario di un padrone di schiavi danneggiare o indebolire i propri schiavi. Dickens, nel raccontare la storia di questo colloquio, scrive quanto segue: «Gli dissi tranquillamente che non era nell'interesse di un uomo ubriacarsi, o rubare, o giocare d'azzardo, o abbandonarsi a qualsiasi altro vizio; eppure vi si abbandonava lo stesso. Che la crudeltà e l'abuso di un potere irresponsabile erano due delle cattive passioni della [[Nature|natura]] umana, con la cui soddisfazione considerazioni d'interesse o di rovina non avevano assolutamente nulla a che fare...». È a stento possibile [[Doubt|dubitare]] che Dickens, nel dire questo a quell'uomo, gli dicesse qualcosa di assennato, di logico e di inconfutabile. Ma è forse lecito [[Doubt|dubitare]] che glielo dicesse tranquillamente.
+
+Tornò a [[Home|casa]] nella [[spring|primavera]] del 1842, e nella seconda parte dell'anno apparvero le sue «American Notes», e il grido contro di lui che era cominciato per il diritto d'autore si gonfiò in un ruggito alle sue spalle. Eppure, quando leggiamo le «Notes», vi troviamo ben poca offesa, e, a dire il [[Truth|vero]], meno interesse del solito. Non sono un ritratto veritiero dell'[[America]], e nemmeno della sua visione dell'[[America]], e ciò per due ragioni. La prima, che egli deliberatamente ne escluse ogni menzione di quella questione del diritto d'autore che gli aveva davvero dato il barlume di quanto tirannica possa essere una [[democracy|democrazia]]. La seconda, che qui egli critica l'[[America]] soprattutto per difetti che non sono, dopo tutto, specialmente americani. Per esempio, si indigna per l'inadeguato carattere delle prigioni, e le paragona sfavorevolmente a quelle inglesi, dirette dal luogotenente Tracey e dal capitano Chesterton a Coldbath Fields, due riformatori della disciplina [[Prison|carceraria]] per i quali nutriva grande stima. Ma fu un puro caso che le galere americane fossero inferiori a quelle inglesi. Non v'era e non v'è nulla nello spirito americano che impedisca di attuare tutte le riforme di Tracey e Chesterton, nulla che impedisca di fare qualsiasi cosa possano fare il denaro, l'energia e l'organizzazione. L'[[America]] potrebbe avere (per quel che ne so, ha) un sistema [[Prison|carcerario]] più pulito, più umano e più efficiente di ogni altro al mondo. E il cattivo genio dell'[[America]] potrebbe nondimeno rimanere: potrebbe rimanere tutto ciò che rende Pogram o Chollop irritanti o assurdi. E contro il cattivo genio dell'[[America]] Dickens stava ora per vibrare un secondo e assai diverso colpo.
+
+Nel gennaio del 1843 apparve il primo fascicolo del [[Novel|romanzo]] intitolato «[[Martin Chuzzlewit]]». La parte iniziale del libro e la fine, che non hanno alcun legame con l'[[America]] o col problema americano, richiedono in ogni caso una parola di passaggio. Ma, a eccezione dei due giganteschi grotteschi posti da un lato e dall'altro del portale del racconto, Pecksniff e la signora Gamp, «[[Martin Chuzzlewit]]» sarà ammirato soprattutto per la sua escursione americana. È una buona [[Satire|satira]] incastonata in un [[Novel|romanzo]] mediocre. La signora Gamp è, invero, uno studio sontuoso, steso in quei colori ricchi, oleosi, quasi untuosi che concorrono a fare i personaggi comici inglesi, che rendono grassa la stessa dizione di [[Falstaff]], tremula di gioviale degradazione. Anche Pecksniff è quasi perfetto, e troppo buono per essere vero. L'unica altra cosa da notare su di lui è che qui, come quasi dappertutto altrove nei romanzi, le figure migliori danno il meglio di sé quando hanno meno da fare. I personaggi di Dickens sono perfetti fintanto che egli riesce a tenerli fuori dalle sue storie. Bumble è divino finché non gli viene affidato un oscuro e pratico segreto: come se qualcuno, tranne un lunatico, affidasse mai un segreto a Bumble. Micawber è nobile quando non fa nulla; ma è del tutto poco convincente quando spia [[Uriah Heep]], poiché è ovvio che né Micawber né chiunque altro impiegherebbe Micawber come [[Detective|investigatore]] privato. Similmente, mentre Pecksniff è la cosa migliore del racconto, il racconto è la cosa peggiore in Pecksniff. Il suo complotto contro il vecchio Martin non può essere descritto se non dicendo che è sciocco tanto quanto il complotto del vecchio Martin contro di lui. La sua caduta alla fine è una delle rare cadute di Dickens. Non era certo necessario prendere Pecksniff tanto sul serio. Pecksniff è un personaggio meramente ridicolo; è così ridicolo da essere amabile. Perché darsi tanta pena per smascherare un uomo la cui maschera avete reso trasparente? Perché radunare tutti i personaggi ad assistere alla smascheramento di un uomo in cui nessuno dei personaggi crede? Perché affannarsi e trionfare per farsi beffe di un uomo che fu fatto soltanto per essere deriso?
+
+Ma è la parte americana di «[[Martin Chuzzlewit]]» quella che ci riguarda, ed è quella memorabile. Ha l'aria di una grande [[Satire|satira]]; ma se è soltanto una grande calunnia, è comunque grande. Il suo libro serio sull'[[America]] fu una semplice petardata, forse un petardo bagnato. In ogni caso, sappiamo tutti che l'[[America]] sopravviverà a simili libri seri. Ma il suo libro fantastico potrebbe sopravvivere all'[[America]]. Potrebbe sopravvivere all'[[America]] come «I Cavalieri» è sopravvissuto ad Atene. «[[Martin Chuzzlewit]]» possiede questa qualità della grande [[Satire|satira]], che il critico dimentica di chiedersi se il ritratto sia fedele all'originale, perché il ritratto è tanto più importante dell'originale. A chi importa se Aristofane descrisse correttamente Cleone, che è morto, quando descrive così perfettamente il demagogo, che non può morire? Altrettanto poco, forse, importerà a qualche età futura se l'antica civiltà dell'Occidente, le città perdute di [[New York]] e di St. Louis, furono ritratte con equità nel monumento colossale di Elijah Pogram. Poiché negli episodi americani c'è molto di più della loro inebriante assurdità; c'è più che [[Humour|umorismo]] nel giovane che pronunciò il discorso sul [[Lion|Leone]] britannico, e disse: «Io lo scherno, quel [[Lion|leone]]. [[Alone|Da solo]] lo sfido»; o nell'altro uomo che disse a Martin, quando questi affermò che la [[Queen|Regina]] Vittoria non abitava nella Torre di [[London|Londra]], che egli «era incorso in un errore non raro fra i suoi connazionali». Egli ha il dito sul nervo di un male che era non soltanto nei suoi nemici, ma in se stesso. Il grande democratico afferra uno dei pericoli della [[democracy|democrazia]]. Il grande ottimista affronta un orribile [[nightmare|incubo]] di ottimismo. Soprattutto, il genuino inglese attacca un peccato che non è meramente americano, ma anche inglese. L'eterna, compiaciuta ripetizione di mezze verità patriottiche; il perpetuo imburrarsi di [[Self|sé]] da capo a piedi con lo stesso burro rancido; soprattutto, le grandi sfide lanciate a piccoli nemici, ovvero le urgentissime provocazioni a nemici lontanissimi; la codardia così abituale e inconsapevole da fregiarsi dei pennacchi del [[Courage|coraggio]]: tutto questo è una [[Temptation|tentazione]] inglese [[Well|non meno]] che americana. «[[Martin Chuzzlewit]]» può essere una caricatura dell'[[America]]. L'[[America]] può essere una caricatura dell'Inghilterra. Ma nel più austero collegio, nella più tranquilla [[house|dimora]] di campagna d'Inghilterra, c'è il seme della stessa essenziale [[Madness|follia]] che riempie il libro di Dickens, come un manicomio, di rissosi Chollop e di deliranti Jefferson Brick. Quella essenziale [[Madness|follia]] è l'idea che il buon patriota sia l'uomo che si sente a suo agio riguardo al proprio paese. Questa nozione di patriottismo era sconosciuta nelle piccole repubbliche pagane dove ebbe inizio il nostro patriottismo europeo. Era sconosciuta nel Medioevo. Nel Settecento, nel formarsi della politica moderna, «patriota» significava un uomo scontento. Era il contrario della parola «cortigiano», che significava un sostenitore delle condizioni presenti. In tutti gli altri paesi moderni, specialmente in paesi come la Francia e l'Irlanda, dove si sono affrontate difficoltà reali, la parola «patriota» significa qualcosa di simile a un pessimista politico. Questa concezione e questi paesi hanno esagerazioni e pericoli tutti loro; ma l'esagerazione e il pericolo dell'Inghilterra sono i medesimi dell'esagerazione e del pericolo della «Watertoast Gazette». La cosa che, alquanto scioccamente, si chiama civiltà anglosassone è al presente intrisa da cima a fondo di un debole [[Pride|orgoglio]]. Adopera grandi masse di uomini non per procurarsi la discussione, ma per procurarsi il piacere dell'unanimità; adopera le masse come cuscini. Adopera i suoi organi di opinione pubblica non per mettere in guardia il pubblico, ma per blandirlo. Riesce davvero non soltanto a ignorare il resto del mondo, ma addirittura a dimenticarlo. E quando una civiltà dimentica davvero il resto del mondo — lo lascia cadere come qualcosa di ovviamente fosco e barbarico — allora vi è un solo aggettivo per il destino ultimo di quella civiltà, e quell'aggettivo è «cinese».
+
+L'[[America]] di [[Martin Chuzzlewit]] è un [[house|manicomio]]: ma è un [[house|manicomio]] verso il quale siamo tutti in [[Road|cammino]]. Poiché la completezza e persino l'agio sono quasi le definizioni della pazzia. Il pazzo è l'uomo che vive in un piccolo mondo ma crede che sia grande: è l'uomo che vive in un decimo della [[Truth|verità]] e crede che sia il tutto. Il folle non riesce a concepire alcun cosmo al di fuori di un certo racconto, o complotto, o visione. Perciò, quanto più chiaramente vediamo il mondo diviso in sassoni e non sassoni, nei nostri splendidi io e in tutto il resto, tanto più possiamo essere certi che stiamo lentamente e quietamente impazzendo. Quanto più semplice e soddisfacente appare la nostra condizione, tanto più possiamo sapere che viviamo in un mondo irreale. Poiché il mondo reale non è soddisfacente. Quanto più chiari si fanno i colori e i fatti della superiorità anglosassone, tanto più sicuramente possiamo sapere di essere in [[A Dream|un sogno]]. Poiché il mondo reale non è chiaro né semplice. Il mondo reale è pieno di roboranti sconcerti e di brutali sorprese. L'agio è la benedizione e la maledizione degli inglesi, e anche degli americani del tipo di Pogram. In loro è un agio chiassoso, un agio selvaggio, un agio strillante e saltellante; ma agio in [[Bottom|fondo]] pur sempre. Poiché non c'è che un pollice di differenza fra la stanza imbottita e la cella imbottita.
+
+PARTE SECONDA
+
+----------------------------------------------------------------------------
+----------------------------------------------------------------------------
+
+Gilbert Keith Chesterton
+
+Charles Dickens
+
+PARTE SECONDA
+
+INDICE
+
+                 * CAPITOLO VII
+                   DICKENS E IL NATALE
+                 * CAPITOLO VIII
+                   IL [[Time|TEMPO]] DELLA TRANSIZIONE
+                 * CAPITOLO IX
+                   GLI ULTIMI ANNI E LE OPERE
+                 * CAPITOLO X
+                   I GRANDI PERSONAGGI DICKENSIANI
+                 * CAPITOLO XI
+                   SUL PRESUNTO OTTIMISMO DI DICKENS
+                 * CAPITOLO XII
+                   UNA NOTA SUL FUTURO DI DICKENS
+
+----------------------------------------------------------------------------
+
+CAPITOLO VII
+
+DICKENS E IL NATALE
+
+Nel luglio del 1844 Dickens intraprese un viaggio in Italia, che in seguito riassunse nel libro intitolato "Pictures from [[Italy]]." Sono pagine, si capisce, assai vivaci, ma non c'è alcun grande bisogno di insistere su di esse considerandole come bozzetti italiani; e nessun bisogno, poi, di preoccuparsene come di una fase dello spirito di Dickens quando viaggiava fuori dall'Inghilterra. Egli non viaggiò mai fuori dall'Inghilterra. Non v'è traccia, in tutte queste pagine divertenti, ch'egli abbia davvero sentito le grandi cose straniere che ci attendono in agguato nel sud dell'Europa: la civiltà latina, la [[Catholic Church|Chiesa cattolica]], l'arte del centro, l'interminabile fine di Roma. I suoi viaggi non sono viaggi in [[Italy|Italia]], ma viaggi nel paese di Dickens. Vede cose divertenti; le descrive in modo divertente. Ma avrebbe visto cose altrettanto buone in una via di Pimlico, e le avrebbe descritte altrettanto [[Well|bene]]. Poche cose furono più saporite, anche nel suo [[Novel|romanzo]] più saporito, della sua descrizione dello spettacolo di marionette sulla [[Death|morte]] di Napoleone. Nulla poteva essere più perfetto della figura del dottore, che aveva qualcosa di guasto nei fili, e perciò «si aggirava intorno al giaciglio ed emetteva pareri medici nell'aria.» Nulla poteva rendere meglio lo spirito di ogni dramma popolare della colossale depravazione dell'immagine di legno di «Sir Uudson Low.» Ma non c'è nulla di italiano in tutto ciò. Dickens avrebbe cavato uno spasso altrettanto buono, anzi lo stesso identico spasso, da uno spettacolo di Punch and Judy recitato a Long Acre o nei [[Lincoln]]'s Inn Fields.
+
+Dickens scagliò una giusta e sincera [[Satire|satira]] contro Plornish e Podsnap; ma Dickens era inglese quanto qualsiasi Podsnap o qualsiasi Plornish. Aveva un cordiale [[Humanitarianism|umanitarismo]], e un cordiale senso di giustizia verso tutte le nazioni per quanto egli le comprendesse. Ma proprio quella specie di [[Humanitarianism|umanitarismo]], proprio quella specie di giustizia, erano inglesi. Egli era l'inglese del tipo che fece il Libero Scambio, la più inglese di tutte le cose, poiché era al tempo stesso calcolatrice e ottimista. Rispettava le catacombe e le gondole, ma proprio quel rispetto era inglese. Si stupiva dei briganti e dei vulcani, ma proprio quello [[Wonder|stupore]] era inglese. La stessa concezione che l'[[Italy|Italia]] consista in queste cose era una concezione inglese. Le cose radicali egli non le comprese mai: la leggenda romana, l'antica vita del Mediterraneo, la civiltà vecchia come il mondo della vite e dell'olivo, il mistero della Chiesa immutabile. Non comprese mai queste cose, e sono lieto ch'egli non le abbia mai comprese: avrebbe potuto comprenderle solo cessando di essere il cockney ispirato che era, l'inglese Radicale trascinatore della grande età Radicale d'Inghilterra. Quel suo spirito fu una delle cose che abbiamo avuto e che furono veramente nazionali. Tutte le altre forze le abbiamo prese in prestito, specialmente quelle che più ci lusingano. L'imperialismo è straniero, il socialismo è straniero, il militarismo è straniero, l'[[Education|istruzione]] è straniera, e a rigore persino il Liberalismo è straniero. Ma il Radicalismo era cosa nostra; inglese come le siepi dei campi.
+
+Dickens all'estero, dunque, era per tutti gli scopi seri semplicemente l'inglese all'estero; e l'inglese all'estero è per tutti gli scopi seri semplicemente l'inglese a [[Home|casa]] propria. Di questa generalizzazione occorre fare una sola correzione. Dickens provava un piacere diretto per l'esterno luminoso e affaccendato della vita francese: le cuffie linde, le divise colorate, i cieli come smalto azzurro, i piccoli alberi verdi, le piccole case bianche, la scena spiccata a colori primari, come il libro illustrato di un [[Child|bambino]]. Questo lo sentì, e questo mise (per un tratto di genio) in bocca alla signora Lirriper, un'affittacamere di [[London|Londra]] in vacanza: perché Dickens sapeva sempre che sono i semplici e non i sottili a percepire le differenze; ed egli vedeva tutti i suoi colori attraverso gli occhi limpidi dei poveri. E nel prendersi così al cuore le strade, per così dire, piuttosto che le guglie del Continente, egli mostrò senza alcun dubbio quella combinazione di cui abbiamo parlato: di buon senso unito a comune sensibilità. Poiché è per amore delle strade e delle botteghe e dei cappotti e dei cappelli che dovremmo andare all'estero; valgono assai più la pena d'essere visti dei castelli e delle cattedrali e degli accampamenti romani. Perché le meraviglie del mondo sono le stesse in tutto il mondo, almeno in tutto il mondo europeo. Castelli che gettano nell'[[Shadow|ombra]] le valli, cattedrali che percuotono il cielo, strade così antiche da sembrare fatte dagli dèi: queste sono in tutti i paesi cristiani. I prodigi dell'uomo stanno alle porte di casa nostra. Un bracciante che zappa le rape nel Sussex non ha alcun bisogno di ignorare che le ossa dell'Europa sono le strade romane. Un impiegato che vive a Lambeth non ha alcun bisogno di non sapere che nel tredicesimo secolo vi fu un'arte cristiana lussureggiante; poiché basta che attraversi il [[River|fiume]] e vede le pietre vive del Medioevo accalcarsi insieme verso le [[Stars|stelle]]. Ma proprio le cose che colpiscono il viaggiatore come straordinarie sono le cose ordinarie: il cibo, i vestiti, i veicoli; le cose strane sono cosmopolite, le cose comuni sono nazionali e peculiari. La guglia di Colonia è sollevata sugli stessi archi di Canterbury; ma la cosa che non si può vedere fuori dalla [[Germany|Germania]] è un [[Garden|giardino]] tedesco della birra. Non c'è bisogno che un francese vada a guardare l'abbazia di Westminster come un pezzo di architettura inglese; in senso proprio non è affatto un pezzo di architettura inglese. Ma una carrozza hansom è un pezzo di architettura inglese; una cosa prodotta dalla peculiare poesia delle nostre città, il simbolo di un certo comodo spericolato che è veramente inglese; una cosa capace di attirare il pellegrinaggio delle nazioni. L'inglese dotato d'immaginazione lo si troverà tutto il giorno in un caffè; il francese dotato d'immaginazione in una carrozza hansom.
+
+Questa specie di piacere Dickens la prese dalla vita latina; ma nessuna più profonda. E il più forte fra tutti i possibili indizi del suo fondamentale distacco da essa si trova in un solo fatto. Gran parte del [[Time|tempo]] in cui fu in [[Italy|Italia]] era occupato a scrivere "The Chimes," e simili racconti natalizi, racconti di Natale nelle città inglesi, racconti pieni di nebbia e di [[Snow|neve]] e di grandine e di felicità.
+
+Dickens sapeva trovare in qualsiasi strada divergenze tra uomo e uomo più profonde delle divisioni tra le nazioni. Il suo difetto era di esagerare le differenze. Sapeva trovare tipi quasi altrettanto distinti quanto tribù separate di [[Animals|animali]] nel proprio cervello e nella propria [[City|città]], quelle due dimore di un magnifico caos. I soli due meridionali introdotti in primo piano nei suoi romanzi, i due di "Little Dorrit," sono stranieri all'inglese, quasi direi stranieri da palcoscenico. La malvagità è, agli occhi inglesi, un tratto meridionale, perciò uno degli stranieri è malvagio. La vivacità è, agli occhi inglesi, un altro tratto meridionale, perciò l'altro straniero è vivace. Ma dai contorni di entrambi possiamo vedere che Dickens non ebbe bisogno di andare in [[Italy|Italia]] per ricavarli. Mentre poveri milionari ansimanti, poveri conti stanchi e poveri uomini americani di cultura abbandonati da Dio arrancano per l'[[Italy|Italia]] in cerca d'ispirazione letteraria, Charles Dickens compose tutto quel [[Romance|romanticismo]] italiano (come fortemente sospetto) dai volti di due suonatori d'organetto di [[London|Londra]].
+
+Nel sole del mondo meridionale, egli sognava ancora la luce del focolare del nord. Tra i palazzi e i bianchi campanili, chiudeva gli occhi per vedere Marylebone e sognava un incantevole sogno di comignoli. Non era felice, diceva, senza strade. La stessa sudiceria e il fumo di [[London|Londra]] gli erano amabili agli occhi e riempiono i suoi racconti natalizi di un vivido vapore. Nei cieli limpidi del sud egli scorgeva lontano la nebbia di [[London|Londra]] come una nuvola di tramonto e desiderava ardentemente essere nel cuore di essa.
+
+Questo tono natalizio di Dickens, in rapporto ai suoi viaggi, è cosa che può esprimersi solo con un parallelo con una delle sue altre opere. Press'a poco quanto si è detto qui delle sue "Pictures from [[Italy]]," può dirsi della sua "[[Child]]'s [[history|History]] of England;" con la differenza che, mentre le "Pictures from [[Italy]]" in un certo senso aggiungono qualcosa alla sua fama, la "[[history|History]] of England" in quasi ogni senso gliela sottrae. Ma la [[Nature|natura]] del limite è la stessa. Ciò che Dickens era viaggiando in terre lontane, quello era viaggiando in epoche lontane; un robusto, sentimentale Radicale inglese dal cuore grande e dalla mente angusta. Non poteva fare a meno di cadere in quel peccato o debolezza che assilla il progressista moderno: l'abitudine di considerare le questioni contemporanee come le questioni eterne e l'ultima parola come la parola definitiva. Non riusciva a togliersi dalla testa l'istintiva convinzione che il vero problema che si poneva a san Dunstano fosse se dovesse appoggiare Lord John Russell o Sir Robert Peel. Non poteva fare a meno di vedere le più remote vette illuminate dal furioso falò della sua stessa appassionata crisi politica. Viveva per l'istante e per la sua urgenza; cioè, faceva quel che fece san Dunstano. Viveva in un eterno presente come tutti gli uomini semplici. È davvero "A [[Child]]'s [[history|History]] of England;" ma il [[Child|bambino]] è chi scrive e non chi legge.
+
+Ma Dickens, nel suo più dozzinale utilitarismo cockney, non era soltanto inglese, ma inconsciamente storico. Su di lui discese la vera tradizione della «Merry England», e non sui pallidi medievalisti che credevano di riviverla. I Preraffaelliti, i cultori del gotico, gli ammiratori del Medioevo, avevano nella loro sottigliezza e nella loro tristezza lo spirito del giorno d'oggi. Dickens aveva nella sua buffoneria e nel suo coraggio lo spirito del Medioevo. Egli era assai più medievale nei suoi attacchi al medievalismo di quanto lo fossero loro nelle loro difese di esso. Fu lui ad avere le cose di Chaucer: l'[[Love|amore]] per i grandi scherzi e le lunghe storie e la birra scura e tutte le bianche strade d'Inghilterra. Come Chaucer amava la storia dentro la storia, ogni uomo che racconta il suo racconto. Come Chaucer vedeva qualcosa di apertamente comico nei variopinti mestieri degli uomini. [[Sam Weller]] sarebbe stato un grande acquisto per il Pellegrinaggio di Canterbury e avrebbe raccontato una storia ammirevole. La Damozel di Rossetti sarebbe stata una gran noia, giudicata troppo sfrontata dalla Priora e troppo leziosa dalla Comare di Bath. Si racconta che nella alquanto stucchevole rinascita vittoriana del feudalesimo che fu chiamata «Young England», un nobiluomo assoldò un eremita perché vivesse nelle sue terre. Si racconta anche che l'eremita fece sciopero per avere più birra. Vera o no che sia questa aneddoto, la si narra sempre come prova di un crollo dall'ideale del Medioevo al livello del giorno d'oggi. Ma nel solo atto di scioperare per la birra il sant'uomo era assai più «medievale» dello [[Fool|sciocco]] che l'aveva assunto.
+
+Sarebbe difficile trovare un esempio migliore di questo della grande difesa del Natale fatta da Dickens. Combattendo per il Natale, egli combatteva per l'antica festa europea, pagana e cristiana, per quella trinità del mangiare, del bere e del pregare che ai moderni appare irriverente, per il giorno santo che è davvero un giorno di festa. Egli stesso aveva le idee più puerili intorno al passato. Supponeva che il Medioevo fosse consistito di tornei e camere di tortura, supponeva sé stesso un uomo alacre dell'età manifatturiera, quasi un Utilitarista. Ma con tutto ciò egli difese la festa medievale che se ne andava contro l'Utilitarismo che stava arrivando. Del medievalismo sapeva vedere solo tutto ciò che di male vi era. Ma combatté per tutto ciò che vi era di buono. Ed era tanto più veramente in sintonia con l'antica forza e semplicità proprio perché sapeva soltanto che erano buone e non sapeva che erano antiche. Del medievalismo gli importava tanto poco quanto ne importava ai medievali. Gli importava tanto quanto a loro della gagliardia e della risata virile e delle tristi storie di buoni [[lovers|amanti]] e dei piacevoli racconti di buoni gaudenti. Si sarebbe assai annoiato con Ruskin e Walter Pater se gli avessero spiegato gli strani colori di tramonto di Lippi e di Botticelli. Non provava alcun piacere a contemplare il Medioevo morente. Ma contemplava il Medioevo vivo, un frammento dell'antica chiassosa superstizione ancora intatto; e lo salutava come una nuova religione. Il personaggio dickensiano mangiava budino a un grado davanti al quale i moderni medievalisti impallidivano. Essi renderebbero ogni sorta di [[Honour|onore]] a un'antica usanza, tranne osservarla. Renderebbero a una festa della Chiesa ogni sorta di omaggio tranne il banchettare.
+
+E (come ho detto) come erano le sue relazioni inconsce col nostro passato europeo, così erano le sue relazioni inconsce con l'Inghilterra. Immaginava di essere, semmai, una specie di cosmopolita; ad ogni modo di essere un campione delle attrattive e dei meriti delle terre continentali contro l'arroganza della nostra isola. Ma in [[Truth|verità]] egli era assai più un campione dell'antica e genuina Inghilterra contro quell'Inghilterra relativamente cosmopolita che tutti noi abbiamo vissuto abbastanza per vedere. E anche qui l'esempio supremo è il Natale. Il Natale è, come ho detto, una delle innumerevoli antiche feste europee la cui essenza è la combinazione della religione con l'allegria. Ma tra quelle feste esso è anche particolarmente e distintamente inglese nello stile della sua allegria e persino nello stile della sua religione. Poiché il carattere del Natale (a differenza, per esempio, della Pasqua continentale) risiede principalmente in due cose; anzitutto, sul lato terrestre, la nota del comodo piuttosto che la nota della gaiezza splendente; e sul lato spirituale, la [[Charity|carità]] cristiana piuttosto che l'estasi cristiana. E il comodo è, come la [[Charity|carità]], un istinto assai inglese. Anzi, il comodo è, come la [[Charity|carità]], un merito inglese; per quanto il nostro comodo possa degenerare, e degeneri, nel materialismo, proprio come la nostra [[Charity|carità]] possa degenerare, e degeneri, nel lassismo e nella finzione.
+
+Questo ideale del comodo appartiene in modo peculiare all'Inghilterra; appartiene in modo peculiare al Natale; e soprattutto appartiene in modo eminente a Dickens. Ed è sorprendentemente frainteso. È frainteso dal continente d'Europa; è, se possibile, ancor più frainteso dagli inglesi d'oggi. Sul Continente i ristoratori ci servono manzo crudo, come se fossimo selvaggi; eppure l'antica cucina inglese non richiede meno cura di quella francese. E in Inghilterra è sorto un patriottismo da parvenu che rappresenta gli inglesi come tutto tranne che inglesi; come un miscuglio di stoicismo cinese, militarismo latino, rigidità prussiana e cattivo gusto americano. E così l'Inghilterra, il cui difetto è la falsa distinzione e la cui virtù è la giovialità, l'Inghilterra con la sua tradizione dei grandi allegri gentiluomini di Elisabetta, viene rappresentata ai quattro angoli del mondo (come nelle religiose [[Poems|poesie]] del signor Kipling) nell'immensa immagine di un cafone solenne. E poiché è assai difficile stare comodi in periferia, la periferia ha decretato che il comodo sia una cosa grossolana e materiale. Il comodo, e specialmente questa visione del comodo natalizio, è il contrario di una cosa grossolana o materiale. È assai più poetico, propriamente parlando, del [[Garden|Giardino]] di Epicuro. È assai più artistico del Palazzo dell'Arte. È più artistico perché si fonda su un contrasto, un contrasto tra il [[Fire|fuoco]] e il vino dentro la [[house|casa]] e l'[[Winter|inverno]] e le pioggie ruggenti al di fuori. È assai più poetico, perché vi è in esso una nota di difesa, quasi di guerra; una nota di essere assediati dalla [[Snow|neve]] e dalla grandine; di far festa nel ventre di un forte. L'uomo che disse che la [[house|casa]] di un inglese è il suo [[Castle|castello]] disse assai più di quanto intendesse. L'inglese pensa alla propria [[house|casa]] come a qualcosa di fortificato e provvisto di viveri, e persino la sua scontrosità è alla radice romantica. E questo senso sarebbe naturalmente più forte nelle selvagge notti d'[[Winter|inverno]], quando la saracinesca abbassata e il ponte levatoio alzato non servono soltanto a chiudere fuori la gente, ma a chiuderla dentro. La [[house|casa]] dell'inglese è più sacra non soltanto quando il [[King|Re]] non può entrarvi, ma quando l'inglese non riesce a uscirne.
+
+Questo comodo, dunque, è una cosa astratta, un principio. I poveri inglesi chiudono tutte le porte e le finestre finché le loro stanze non puzzano come il Buco Nero. [[Suffering|Soffrono]] per un'idea. Il puro edonismo animale non sognerebbe, come sogniamo noi inglesi, banchetti d'[[Winter|inverno]] e stanzette, ma mangiare frutta in ampi e oziosi giardini. La pura sensualità [[Desire|desidererebbe]] compiacere tutti i sensi. Ma per i nostri buoni [[Dreams|sogni]] questo sfondo oscuro e pericoloso è essenziale; il più alto piacere che possiamo immaginare è un piacere di sfida, una felicità che sta in guardia. La parola «comfort» non è, in verità, la parola giusta, essa reca in sé troppa della calunnia del mero senso; la parola vera è «cosiness», parola intraducibile. Uno, almeno, dei suoi elementi essenziali è la piccolezza, la piccolezza preferita alla grandezza, la piccolezza per amore della piccolezza. Chi fa festa vuole un salottino piacevole, non darebbe due soldi per un piacevole continente. Nel nostro difficile [[Time|tempo]], si capisce, una lotta per il mero spazio è divenuta necessaria. Invece di essere ingordi di birra e di budino natalizio siamo ingordi di mera aria, un appetito ugualmente sensuale. In condizioni anormali questo è saggio; e lo sconfinato veldt è cosa eccellente per le persone nervose. Ma i nostri padri erano abbastanza grandi e sani da rendere una cosa umana, senza preoccuparsi se fosse igienica. Erano abbastanza grandi da entrare in stanze piccole.
+
+Di questa qualità del tutto deliberata e artistica della chiusa camera natalizia, la prova permanente è Dickens in [[Italy|Italia]]. Egli creò questi racconti fiochi, illuminati dal focolare, come piccole fioche gemme rosse, per una necessità artistica, nel centro di un'interminabile [[Summer|estate]]. Fra le bianche città della Toscana ebbe fame di qualcosa di romantico, e scrisse di un Natale piovoso. Fra i quadri degli Uffizi si struggì per qualcosa di bello, e nutrì la propria [[Memory|memoria]] della nebbia di [[London|Londra]]. Il suo sentimento per la nebbia era particolarmente struggente e tipico. Nel primo dei suoi racconti natalizi, il celebre "Christmas [[carol|Carol]]," egli ne suggerì la vera [[Soul|anima]] in una similitudine, quando parlò dell'aria densa, insinuando che «la [[Nature|Natura]] stesse producendo birra su larga scala.» Questo senso dell'atmosfera spessa come qualcosa da mangiare o da bere, qualcosa non solo di solido ma di appagante, può sembrare quasi folle, ma non è affatto un'esagerazione dell'emozione di Dickens. Noi parliamo di una nebbia «che si potrebbe tagliare con un coltello». A Dickens sarebbe piaciuta la frase perché suggerisce che la nebbia fosse una colossale torta. Gli piacque ancor più la sua propria immagine della [[titanic|titanica]] birreria, e nessun sogno gli avrebbe dato un piacere più selvaggio che di brancolare a tastoni fino a qualche tino immane e bere la birra dei giganti.
+
+C'è un pregiudizio corrente contro le nebbie, e Dickens, forse, ne è il solo poeta. Considerata dal punto di vista igienico, senza [[Doubt|dubbio]] la cosa può essere più o meno scusabile. Ma, considerata poeticamente, la nebbia non è immeritevole, ha un vero significato. Nelle nostre grandi città abbiamo abolito il pulito e sano buio della campagna. Abbiamo messo al bando la [[Night|notte]] e l'abbiamo mandata a vagare per i prati selvaggi; abbiamo acceso eterni fuochi di guardia contro il suo ritorno. Abbiamo fatto un nuovo cosmo, e di conseguenza un nostro proprio sole e nostre proprie [[Stars|stelle]]. E di conseguenza anche, e assai giustamente, abbiamo fatto il nostro proprio buio. Proprio come ogni lampada è una calda [[Moon|luna]] umana, così ogni nebbia è un ricco crepuscolo umano. Se non fosse per questo mistico accidente non vedremmo mai il buio, e chi non ha mai visto il buio non ha mai visto il sole. La nebbia è per noi la forma principale di quella pressione esterna che comprime il mero lusso in vero comodo. Rende il mondo piccolo, nello stesso spirito di quel comune e felice grido che il mondo è piccolo, intendendo che è pieno di amici. Il primo uomo che emerge dalla foschia con una luce è per noi [[Prometheus|Prometeo]], un salvatore che porta il [[Fire|fuoco]] agli uomini. È quel più grande e migliore di tutti gli uomini, più grande degli eroi, migliore dei santi: Venerdì. Ogni rombo di un carro, ogni grido in lontananza, segna il cuore dell'umanità che batte imperterrito nel buio. È del tutto umano; l'uomo che fatica nella propria nube. Se il vero buio è come l'abbraccio di Dio, questo è l'oscuro abbraccio dell'uomo.
+
+In una tale nube sacra comincia il racconto intitolato "The Christmas [[carol|Carol]]," il primo e il più tipico di tutti i suoi racconti natalizi. Non è fuori luogo dilungarsi sulla giovialità di questo buio, perché è caratteristico di Dickens che le sue atmosfere siano più importanti delle sue storie. L'atmosfera natalizia è più importante di Scrooge, o degli [[Ghosts|spettri]] stessi; in un certo senso, lo sfondo è più importante delle figure. La stessa cosa si può notare nel suo trattare quell'altra atmosfera (oltre a quella del buon [[Humour|umore]]) in cui eccelleva nel creare, un'atmosfera di mistero e di torto, come quella che si raccoglie intorno alla signora Clennam, rigida sulla sua sedia, o alla vecchia [[Miss Havisham]], ironicamente vestita da sposa. Anche qui l'atmosfera eclissa del tutto la storia, che spesso appare deludente al confronto. La segretezza è sensazionale; il segreto è insipido. La superficie della cosa sembra più tremenda del suo nocciolo. Sembra quasi che queste orride figure, la signora Chadband e la signora Clennam, [[Miss Havisham]], e Miss Flite, Nemo e [[Sally Brass]], tenessero nascosto qualcosa all'autore altrettanto [[Well|bene]] quanto al lettore. Quando il libro si chiude non conosciamo il loro vero segreto. Esse blandirono l'ottimista Dickens con qualcosa di meno terribile della [[Truth|verità]]. La [[house|casa]] oscura dell'[[Childhood|infanzia]] di [[Arthur Clennam]] ci deprime davvero; è un vero scorcio di quella quieta strada dell'inferno dove vivono i figli di quella singolare dispensazione che i teologi chiamano Calvinismo e i cristiani culto del diavolo. Ma qualche più strano delitto vi era stato veramente commesso, qualche più mostruosa bestemmia o sacrificio umano che non la soppressione di qualche sciocco documento vantaggioso agli sciocchi Dorrit. Qualcosa di peggio di una comune storia di amore piantato in asso stava dietro la mascherata e la [[Madness|follia]] della terribile [[Miss Havisham]]. Qualcosa di peggio fu sussurrato dal deforme Quilp alla sinistra Sally in quella selvaggia e umida [[house|casetta]] [[Summer|estiva]] presso il [[River|fiume]], qualcosa di peggio del goffo complotto contro il goffo Kit. Questi quadri oscuri sembrano quasi essere letteralmente visioni; cose, cioè, che Dickens vedeva ma non comprendeva.
+
+E come coi suoi sfondi di tenebra, così coi suoi sfondi di buona volontà, in racconti come "The Christmas [[carol|Carol]]." Il tono del racconto è tenuto in ogni sua parte in una felice monotonia, benché il racconto sia dappertutto irregolare e in alcuni punti debole. Ha la stessa specie di [[unity|unità]] artistica che appartiene a [[A Dream|un sogno]]. [[A Dream|Un sogno]] può cominciare con la fine del mondo e finire con un tè fra amici; ma o la fine del mondo apparirà futile come un tè fra amici, o quel tè fra amici sarà terribile come il giorno del giudizio. Gli episodi mutano selvaggiamente; la storia non muta quasi affatto. "The Christmas [[carol|Carol]]" è una specie di sogno filantropico, un [[nightmare|incubo]] godibile, in cui le scene si spostano sconcertanti e sembrano varie come le figure di un album di ritagli, ma in cui vi è un solo stato costante dell'[[Soul|anima]], uno stato di chiassosa benedizione e una fame di volti umani. L'inizio parla di un giorno d'[[Winter|inverno]] e di un avaro; eppure l'inizio non è affatto tetro. L'autore comincia con una specie di felice urlo; batte alla nostra porta come un ubriaco cantore di [[carol|canti natalizi]]; il suo stile è festoso e popolare; paragona la [[Snow|neve]] e la grandine a filantropi che «scendono con generosità»; paragona la nebbia a birra illimitata. Scrooge non è veramente disumano all'inizio più di quanto lo sia alla fine. C'è nei suoi inospitali sentimenti una cordialità che è affine all'[[Humour|umore]] e perciò all'umanità; egli non è che un vecchio scapolo burbero, e aveva (come fortemente sospetto) regalato tacchini di nascosto per tutta la vita. La [[Beauty|bellezza]] e la vera benedizione della storia non risiedono nella meccanica trama di essa, il pentimento di Scrooge, probabile o improbabile; risiedono nella grande fornace di vera felicità che avvampa attraverso Scrooge e tutto ciò che lo circonda; quella grande fornace, il cuore di Dickens. Che le visioni natalizie [[convert|convertirebbero]] o no Scrooge, esse [[convert|convertono]] noi. Che le visioni fossero o no evocate da veri Spiriti del Passato, del Presente e del Futuro, esse furono evocate da quell'ordine di angeli veramente esaltato che si chiama a buon diritto Alti Spiriti. Sono sospinte e sostenute da una qualità che i nostri artisti contemporanei ignorano o quasi negano, ma che in una vita vissuta decorosamente è normale e raggiungibile quanto il [[Sleep|sonno]]: la gioia positiva, appassionata, cosciente. La storia canta da un capo all'altro come un uomo felice che torna a [[Home|casa]]; e, come un uomo felice e buono, quando non può cantare urla. È [[Lyric|lirica]] ed esclamativa, fin dalle prime parole esclamative. È propriamente un [[carol|canto natalizio]].
+
+Dickens, come si è detto, andò in [[Italy|Italia]] con questa benevola nube ancora intorno a sé, ancora meditando sui misteri del Natale. Fra gli ulivi e gli aranci scrisse a Genova, nel 1844, il suo secondo grande racconto natalizio, "The Chimes," un racconto natalizio che differisce da "The Christmas [[carol|Carol]]" solo per essere più pieno delle grigie pioggie dell'[[Winter|inverno]] e del nord. "The Chimes" è, come il "[[carol|Carol]]," un appello alla [[Charity|carità]] e all'allegria, ma è un appello severo e battagliero: se l'altro è un [[carol|canto natalizio]], questo è un [[Song|canto]] di guerra natalizio. In esso Dickens si scagliò con più che il consueto gioioso e sdegnoso ardore militante contro una ipocrisia, che diceva gli faceva ribollire il [[Blood|sangue]]. Questa ipocrisia non era né più né meno di tutto il tono assunto da tre quarti del mondo politico ed economico verso i poveri. Era un vago e volgare benthamismo con un chiassoso tocco Tory. Spiegava ai poveri i loro doveri con una fredda e grossolana filantropia insopportabile a qualsiasi uomo libero. Aveva anche al suo comando una specie di brutale canzonatura, un rumoroso buon [[Humour|umore]] che Dickens delinea ferocemente in [[Alderman Cute]]. Egli piombò furiosamente su tutte le loro idee: il vile consiglio di vivere con parsimonia, il basso consiglio di vivere bassamente, e soprattutto la mostruosa premessa fondamentale che siano i ricchi a dover consigliare i poveri e non i poveri i ricchi. C'erano e ci sono centinaia di questi benevoli prepotenti. Alcuni dicono che i poveri dovrebbero rinunciare ad avere figli, il che significa che dovrebbero rinunciare alla loro grande virtù della [[Sanity|sanità]] sessuale. Alcuni dicono che dovrebbero rinunciare a «offrirsi» a vicenda, il che significa che dovrebbero rinunciare a tutto ciò che resta loro della virtù dell'ospitalità. Contro tutto questo Dickens tuonò assai a fondo in "The Chimes." Si può notare di passaggio che ciò fornisce un altro esempio di una confusione già menzionata, la confusione per cui Dickens supponeva di esaltare il presente sul passato, mentre in realtà vibrava colpi mortali a cose strettamente peculiari del presente. Incastonato proprio in questo libro c'è un colloquio alquanto inutile fra [[Trotty Veck]] e le [[Bells|campane]] della chiesa, in cui queste ultime redarguiscono il primo per aver supposto (perché, non lo so) ch'esse esprimessero rincrescimento per la scomparsa del Medioevo. Non c'è ragione perché [[Trotty Veck]] o chiunque altro debba idealizzare il Medioevo, ma certamente egli era l'ultimo uomo al mondo a cui si potesse chiedere di idealizzare il diciannovesimo secolo, visto che la compiaciuta e gretta [[philosophy|filosofia]], che avvelena la sua vita per tutto il libro, era una creazione esclusiva di quel secolo. Ma, come ho detto prima, il più focoso medievalista può perdonare a Dickens di aver detestato le cose buone che il Medioevo portò via, considerando come egli amasse tutte le cose buone che il Medioevo lasciò dietro di sé. Importa assai poco ch'egli abbia odiato gli antichi castelli feudali quando erano già vecchi. Importa moltissimo ch'egli abbia odiato la Nuova Legge sui Poveri mentre era ancora nuova.
+
+La morale di questa faccenda in "The Chimes" è essenziale. Dickens aveva simpatia per i poveri nel senso greco e letterale del termine; soffriva con loro nella mente; poiché le cose che irritavano loro erano le cose che irritavano lui. Egli non compativa il popolo, e neppure difendeva il popolo, e neppure semplicemente [[Love|amava]] il popolo; in questa faccenda egli era il popolo. Egli [[Alone|solo]], nella nostra letteratura, è la voce non soltanto dello strato sociale più basso, ma persino del subconscio di quello strato. Egli pronuncia la segreta collera degli umili. Dice ciò che gli incolti soltanto pensano, o persino soltanto sentono, riguardo agli istruiti. E in nulla è così genuinamente una tale voce come in questo fatto: che il suo umore più feroce è riservato ai metodi che sono ritenuti scientifici e progressivi. Puri ed esaltati atei si convincono a forza di discorsi che le classi lavoratrici si stiano volgendo con indignato disprezzo dalle chiese. Le classi lavoratrici non sono affatto indignate contro le chiese. Le cose contro cui le classi lavoratrici sono davvero indignate sono gli ospedali. Il popolo non ha una precisa miscredenza nei templi della teologia. Il popolo ha una miscredenza assai ardente e pratica nei templi della scienza fisica. Le cose che i poveri odiano sono le cose moderne, le cose razionalistiche: i medici, gli ispettori, i sovrintendenti della legge sui poveri, la filantropia professionale. Non mostrarono mai alcuna riluttanza a essere aiutati dai vecchi e corrotti monasteri. Spesso preferiscono morire piuttosto che essere aiutati dal moderno ed efficiente ospizio dei poveri. Di tutta questa collera, buona o cattiva, Dickens è la voce di un'energia accusatrice. Quando, in "The Christmas [[carol|Carol]]," Scrooge accenna alla popolazione in soprannumero, lo Spirito gli dice, assai giustamente, di non parlare finché non sappia che cosa sia il soprannumero e dove sia. L'implicazione è severa ma giusta. Quando un gruppo di sprezzantemente benevoli economisti si china a guardare nell'abisso in cerca della popolazione in soprannumero, di certo c'è una sola risposta che si dovrebbe dar loro; e cioè dire: «Se c'è un soprannumero, il soprannumero siete voi.» E se mai qualcuno dovesse essere tagliato via, sarebbero loro. Se le barricate sorgessero nelle nostre strade e i poveri diventassero padroni, credo che i preti si salverebbero, [[Fear|temo]] che i gentiluomini lo farebbero; ma credo che i rigagnoli scorrerebbero semplicemente col [[Blood|sangue]] dei filantropi.
+
+Infine, egli era una cosa sola coi poveri in questa faccenda capitale del Natale, nella faccenda, cioè, della festività speciale. Non c'è nulla su cui i poveri siano più criticati che sul punto di spendere grosse somme per piccoli banchetti; e per quanto vi siano difficoltà materiali, non c'è nulla in cui abbiano più ragione. Si racconta che un fabbricante di [[Paradox|paradossi]] di Boston abbia detto: «Dateci i lussi della vita e faremo a meno delle cose necessarie.» Ma è l'intera razza umana a dirlo, dal primo selvaggio che indossa piume anziché vestiti all'ultimo venditore ambulante che si concede un extra invece di tre pasti.
+
+Il terzo dei suoi racconti natalizi, "The Cricket on the Hearth," non richiede un commento esteso, benché sia assai caratteristico. Possiede tutte le qualità che abbiamo chiamato dominanti nel suo sentimento natalizio. Ha la «cosiness», cioè quel comodo che dipende da un disagio che lo circonda. Ha una simpatia per i poveri, e specialmente per la stravaganza dei poveri; per quella che si può chiamare la ricchezza temporanea dei poveri. Ha il sentimento del focolare, cioè il sentimento del [[Fire|fuoco]] aperto come rosso cuore della stanza. Quel [[Fire|fuoco]] aperto è la verace fiamma dell'Inghilterra, ancora tenuta accesa in mezzo a una meschina civiltà di stufe. Ma tutto ciò che vi è di prezioso in "The Cricket on the Hearth" è forse espresso altrettanto [[Well|bene]] nel titolo quanto nella storia. Il racconto in sé, malgrado alcune di quelle inimitabili cose che Dickens non mancava mai di dire, è un po' troppo comodo per essere del tutto convincente. "The Christmas [[carol|Carol]]" è la [[conversion|conversione]] di un personaggio anti-natalizio. "The Chimes" è un massacro di personaggi anti-natalizi. "The Cricket," forse, fallisce per mancanza di questa nota di crociata. Poiché ogni cosa ha il suo lato debole, e quando si sia resa piena giustizia a questa trascurata nota di poetico comodo, dobbiamo ricordare che essa ha un suo lato assai debole e reale. Il difetto di essa nell'opera di Dickens era ch'egli tendeva talvolta ad ammucchiare i cuscini finché nessuno dei personaggi potesse più muoversi. È così interessato a realizzare il suo stato di felicità statica che si dimentica del tutto di costruire una storia. I suoi principi, all'inizio della storia, cominciano a vivere per sempre felici e contenti. Lo sentiamo fortemente in "Master Humphrey's [[Clock]]" e lo sentiamo talvolta in questi racconti natalizi. Rende i suoi personaggi così comodi che i suoi personaggi cominciano a sognare e a farneticare. E rende il suo lettore così comodo che il suo lettore si addormenta nel [[Sleep|sonno]].
+
+Il vero e proprio racconto del vetturale e di sua moglie risuona alquanto sonnolento alle nostre orecchie; non riusciamo a tenervi fisso il pensiero, benché ne avvertiamo una specie di tepore come da un gran [[Fire|fuoco]] di legna. Sappiamo così [[Well|bene]] che tutto andrà presto a posto che non sospettiamo quando il vetturale sospetta, e non ci spaventiamo quando il burbero [[Tackleton]] ringhia. Il suono delle feste alla fine giunge alle nostre orecchie più fioco di quanto giungesse il grido dei Cratchit o [[The Bells|le campane]] di [[Trotty Veck]]. Tutte le buone figure che seguirono Scrooge quando venne fuori ringhiando dalla nebbia svaniscono di nuovo nella nebbia.
+
+CAPITOLO VIII
+
+L'[[Time|EPOCA]] DELLA TRANSIZIONE
+
+Dickens era tornato a [[London|Londra]] nel giugno del 1845. Verso quest'[[Time|epoca]] divenne
+il primo direttore del Daily News, giornale che egli aveva in gran parte ideato
+e proposto, e che, mi auguro, non abbia dimenticato la sua origine semidivina.
+Che i suoi pensieri, come s'è accennato nel capitolo precedente, indugiassero
+in modo alquanto monotono sulle sue domesticità natalizie, lo lascia intendere di nuovo
+il fatto piuttosto singolare che egli in origine avrebbe voluto che il Daily News
+si chiamasse The Cricket. Probabilmente lo perseguitava ancora la sua
+antica visione di un periodico intimo e narrativo come quello che si era interrotto
+in «Master Humphrey's [[Clock]]». Verso quest'[[Time|epoca]], tuttavia, era
+particolarmente inquieto. Quasi subito dopo aver assunto la direzione
+vi rinunciò; e, tornato in Inghilterra solo di recente, ben presto
+decise di ripartire per il Continente. Nel maggio del 1846 fece un salto
+in Svizzera e tentò di scrivere «Dombey and Son» a Losanna.
+Tentò, dico, perché le sue lettere traboccano di un'impotenza rabbiosa.
+Non riusciva a procedere. L'attribuiva soprattutto al suo [[Love|amore]] per [[London|Londra]]
+e alla privazione di essa, «l'assenza di strade e di moltitudini di figure.
+. . . Le mie figure paiono disposte a ristagnare senza folle intorno».
+Ma lo attribuiva anche, con acume, più in generale alla vita più sregolata
+e più errabonda che aveva condotto negli ultimi due anni, il giro
+americano, il giro italiano, variati, in genere, soltanto da
+lievi produzioni letterarie. I suoi ritmi non furono mai puntuali né salutari,
+ma non furono neppure mai poco scrupolosi per quanto riguardava il lavoro.
+Se camminava tutta la [[Night|notte]] poteva scrivere tutto il giorno. Ma in questo strano
+[[Exile|esilio]] o interregno pareva incapace di cadere in qualsiasi abitudine,
+persino nelle cattive abitudini. Un'irrequietezza superiore a ogni sua esperienza era calata
+per una stagione sul più irrequieto dei figli degli uomini.
+
+Sarà forse una mera coincidenza: ma questa frattura nella sua vita
+coincise assai da vicino con l'importante frattura nella sua arte.
+«Dombey and Son», ideato con ogni probabilità qualche [[Time|tempo]] prima,
+era destinato a essere l'ultimo di una serie ben definita,
+i primi romanzi di Dickens. La differenza tra i libri
+dall'inizio fino a «Dombey», e i libri da
+«[[David Copperfield]]» fino alla fine può essere difficile da enunciare dogmaticamente,
+ma è evidente a chiunque abbia un minimo di senso letterario.
+In modo assai grossolano, si può porre la questione dicendo che egli diminuì,
+nel racconto considerato nel suo insieme, la pratica della pura caricatura.
+Ancora più grossolanamente si può porre nella formula che egli cominciò
+a praticare il realismo. Se prendiamo il signor Stiggins, poniamo, come
+ecclesiastico ritratto agli esordi della sua carriera letteraria,
+e il signor Crisparkle, poniamo, come ecclesiastico ritratto al termine di essa,
+è evidente che la differenza non consiste semplicemente nel fatto
+che il primo è un ecclesiastico meno desiderabile del secondo.
+Consiste nella [[Nature|natura]] del nostro [[Desire|desiderio]] per l'uno o per l'altro.
+La gloria del signor Crisparkle consiste in parte nel fatto che egli potrebbe
+davvero esistere in qualsiasi luogo, in qualsiasi cittadina di provincia in cui ci accada
+di capitare. La gloria del signor Stiggins consiste tutta nel fatto
+che egli non potrebbe assolutamente esistere in nessun luogo se non nella testa
+di Dickens. Dickens possiede la ricetta segreta di quel piatto divino.
+In un certo senso, dunque, quando diciamo che egli divenne meno
+caricaturista intendiamo che divenne meno creatore.
+Quella originaria e violenta visione di tutte le cose che egli aveva
+contemplato fin dalla fanciullezza cominciò a mescolarsi con le visioni
+più miti di altri uomini e con la luce del giorno comune.
+Cominciò a comprendere e a praticare meriti diversi dai suoi folli meriti;
+cominciò a muoversi verso i meriti di altri scrittori,
+verso l'emozione mista di Thackeray, o la solidità
+di George Eliot. E questo va detto a favore del processo:
+che il fiero vino di Dickens poteva sopportare una certa diluizione.
+Nel complesso, forse, il suo primigenio personalismo risultava tanto migliore
+quanto più s'infrangeva contro qualche freno più assennato. Forse un pizzico
+di forte Stiggins basta e avanza. Forse il colossale Crummles
+potrebbe essere ridotto a sei o sette personaggi del tutto rispettabili.
+Da parte mia, per ragioni che esporrò più avanti,
+sono in reale [[Doubt|dubbio]] circa il vantaggio di questa realistica [[Education|educazione]]
+di Dickens. Non sono sicuro che abbia reso migliori i suoi libri; ma sono
+sicuro che li abbia resi meno cattivi. Commise indubbiamente meno errori;
+riuscì a eliminare gran parte della semplice declamazione o ipocrisia
+dei suoi primi libri; gettò via molta della vecchia imbottitura,
+tanto più fastidiosa, forse, in senso letterario, perché egli non
+la intendeva come imbottitura, bensì come eloquenza essenziale. Ma non
+produsse nulla di realmente migliore del signor Chuckster. Se non che
+non c'è nulla di migliore del signor Chuckster. Certe opere
+d'arte, come la [[Venus|Venere]] di Milo, esauriscono la nostra [[Aspiration|aspirazione]].
+Nel complesso questo si può forse dire con sicurezza della transizione.
+Chi nutre qualche [[Doubt|dubbio]] su Dickens non può nutrire alcun [[Doubt|dubbio]]
+sulla superiorità dei libri più tardi. Fuor di ogni questione
+essi hanno meno di ciò che in Dickens ci infastidisce. Ma non,
+se vi trovate in compagnia di qualche ardente adoratore di Dickens
+(come per amor vostro [[Hope|spero]] che vi troviate), non insistete troppo caldamente
+ed esclusivamente sullo splendore delle ultime opere di Dickens,
+o scopriranno che egli non vi piace.
+
+«Dombey and Son» è l'ultimo [[Novel|romanzo]] della prima maniera:
+«[[David Copperfield]]» è il primo [[Novel|romanzo]] dell'ultima. L'accrescimento
+di cura e di realismo nel secondo dei due è quasi sconcertante.
+Eppure anche in «Dombey and Son» possiamo scorgere l'avvento di un mutamento,
+per quanto tenue, se lo confrontiamo con le sue prime fantasie come
+«[[Nicholas Nickleby]]» o «The Old Curiosity Shop». La vicenda centrale è
+ancora [[Melodrama|melodramma]], ma è un [[Melodrama|melodramma]] assai più accorto ed efficace.
+Il [[Melodrama|melodramma]] è una forma d'arte, legittima come qualsiasi altra, nobile quanto la farsa,
+quasi nobile quanto la pantomima. L'essenza del [[Melodrama|melodramma]] è che esso
+si appella al senso morale in uno stato altamente semplificato, proprio come
+la farsa si appella al senso dell'[[Humour|umorismo]] in uno stato altamente semplificato.
+La farsa crea persone tanto intellettualmente semplici da
+nascondersi in casse d'imballaggio o da spacciarsi per le proprie zie.
+Il [[Melodrama|melodramma]] crea persone tanto moralmente semplici da uccidere i propri nemici
+in [[Oxford]] Street, e da pentirsi alla vista della fotografia della madre.
+Lo scopo della semplificazione nella farsa e nel [[Melodrama|melodramma]] è il medesimo,
+e del tutto artisticamente legittimo: lo scopo di ottenere
+una rimbombante rapidità d'azione che le sottigliezze ostacolerebbero.
+E ciò si può fare [[Well|bene]] o male. Il [[Villain|malvagio]] semplificato può
+essere uno spiritoso [[Sketch|schizzo]] a carboncino o una mera macchia nera. Carker è
+uno spiritoso [[Sketch|schizzo]] a carboncino: [[Ralph Nickleby]] è una mera macchia nera.
+La [[Tragedy|tragedia]] di Edith Dombey pullula d'inverosimiglianza, ma pullula
+di vita. Che Dombey rivolga alla propria moglie il biasimo attraverso il proprio
+direttore d'affari è cosa impossibile, non dirò in un gentiluomo,
+ma in una persona di ordinario e sano [[Self|amor proprio]]. Ma una volta condotto
+l'inconcepibile trio davanti alle luci della ribalta, Dickens ci offre
+un dialogo bello e squillante, ben diverso dalle mere declamazioni in cui
+[[Ralph Nickleby]] figura nell'inimmaginabile veste di usuraio
+retorico. E c'è un altro punto di perfezionamento tecnico
+in questo libro rispetto a libri come «[[Nicholas Nickleby]]». Esso possiede
+non solo un'idea di fondo, ma una buona idea di fondo. C'è una reale
+opportunità artistica nella concezione di un solenne ed egoista uomo
+d'affari che prova per il proprio erede maschio la sua prima e ultima emozione,
+mista di una tenue fiamma di tenerezza e di una forte fiamma d'[[Pride|orgoglio]].
+Ma con tutte queste possibilità, il grave episodio dei Dombey
+serve in ultima analisi solo a mostrare quanto Dickens fosse inadatto a tali cose,
+quanto fosse adatto a qualcosa di opposto.
+
+Il carattere inguaribilmente poetico, il carattere irrimediabilmente non realistico
+del genio essenziale di Dickens non potrebbe avere migliore
+esempio della vicenda dei Dombey. Poiché la vicenda in sé
+è verosimile; è il trattamento a renderla irreale.
+Nel tentare di dipingere l'oscura devozione pagana del padre
+(così distante dall'estatica e cristiana devozione della madre)
+Dickens dipingeva qualcosa che davvero esisteva.
+Questo non è un tema stravagante, come le peregrinazioni del [[Nell's Grandfather|nonno di Nell]],
+o il [[Marriage|matrimonio]] di Gride. Un uomo del tipo di Dombey [[Love|amerebbe]]
+suo figlio come egli ama Paul. Trascurerebbe sua figlia
+come egli trascura Florence. Eppure sentiamo la totale irrealtà
+di tutto ciò, mentre sentiamo la totale realtà di mostri come
+Stiggins o Mantalini. Dickens poteva lavorare solo a modo suo,
+e quel modo era il modo stravagante. Possiamo quasi dire questo:
+che egli poteva rendere verosimili i suoi personaggi solo se gli era
+concesso di renderli impossibili. Concedetegli licenza di dire
+e fare qualsiasi cosa, ed egli sapeva creare esseri vividi come le nostre
+stesse zie e i nostri stessi zii. Costringetelo alla verosimiglianza ed egli non
+sapeva raccontare la più semplice delle storie in modo da farla sembrare verosimile.
+La storia di «[[Pickwick]]» è credibile, benché non sia possibile.
+La storia di [[Florence Dombey]] è incredibile benché sia vera.
+
+Un eccellente esempio si può reperire nella stessa vicenda.
+Il [[Major Bagstock|Maggiore Bagstock]] è un [[Grotesque|grottesco]], eppure contiene tocco su tocco
+della quieta e sana osservazione dickensiana delle cose come sono.
+Egli era sempre più esatto quanto più era fantastico.
+Dombey e Florence sono perfettamente ragionevoli, ma sappiamo semplicemente
+che non esistono. Il Maggiore è esagerato in modo montuoso,
+ma sentiamo tutti di averlo incontrato a Brighton. Né
+la ragione del [[Paradox|paradosso]] è difficile da vedere; Dickens esagerava
+quando aveva trovato una [[Truth|verità]] reale da esagerare. È un errore letale
+(un errore che sta a fondamento di gran parte della falsa placidità della nostra politica)
+supporre che le menzogne si dicano con eccesso e sovrabbondanza,
+e le verità si dicano con modestia e riserbo. Alcune delle più forsennate
+menzogne sulla faccia della vita si dicono con modestia e riserbo;
+per la semplice ragione che solo la modestia e il riserbo possono salvarle.
+Molte dichiarazioni ufficiali sono altrettanto dignitose del signor Dombey,
+perché sono altrettanto fittizie. D'altro canto, l'uomo
+che ha trovato una [[Truth|verità]] saltella come un ragazzo che ha trovato uno scellino;
+prorompe in stravaganze, come le chiese cristiane proruppero
+in [[gargoyles|gargolle]]. In un certo senso la [[Truth|verità]] [[Alone|sola]] può essere esagerata;
+null'altro può reggere lo sforzo. Lo scandaloso Bagstock è
+un'esagerazione ardente e sgargiante di una cosa che tutti abbiamo veduto
+nella vita: la peggiore e la più pericolosa di tutte le sue ipocrisie.
+Poiché il peggiore e il più pericoloso ipocrita non è colui che ostenta
+una virtù impopolare, bensì colui che ostenta un vizio popolare. Il gioviale compagnone
+del bar e dell'ippodromo è il vero ingannatore dell'umanità;
+ha traviato più di ogni falso [[Prophet|profeta]], e le sue vittime gridano a lui
+dall'inferno. L'eccellenza della concezione di Bagstock si coglie
+al meglio se la confrontiamo con la ben più fiacca e più improbabile
+malvagità di Pecksniff. A nessuno converrebbe, con un qualsiasi
+fine mondano, fingersi un architetto santo e nobile d'animo.
+Il mondo non ammira gli architetti santi e nobili d'animo.
+Il mondo ammira invece i vecchi militari rudi e coriacei che imprecano contro i camerieri
+e ammiccano alle donne. Il [[Major Bagstock|Maggiore Bagstock]] è semplicemente la perfetta profezia
+di quel jingoismo decadente che ha corrotto l'Inghilterra in questi ultimi anni.
+L'Inghilterra è stata gabbata, non dall'ipocrisia della bontà, ma dall'ipocrisia
+della malvagità. È stata affascinata da un cinismo del tutto fittizio,
+e ha raggiunto quell'ultima e più strana di tutte le impaccature in cui la maschera
+è ripugnante quanto il volto.
+
+«Dombey and Son» ci fornisce ancora un altro esempio di questo
+fatto generale in Dickens. Egli poteva pervenire adeguatamente alle emozioni
+più solenni solo se vi perveniva attraverso il [[Grotesque|grottesco]].
+Poteva, per così dire, entrare davvero nella camera interna
+solo scendendo per il camino, come il suo amabilissimo folle
+in «[[Nicholas Nickleby]]». Un buon esempio è un personaggio
+come Toots. Toots è ciò che nessuno dei dignitosi personaggi di Dickens è,
+nel senso più serio: un vero [[Lover|innamorato]]. È il gemello
+di [[Romeo|Romeo]]. Ha passione, [[Humility|umiltà]], [[Self-Knowledge|conoscenza di sé]], una mente
+sollevata a ogni magnanimo pensiero, tutto ciò che si accompagna
+al miglior genere di [[Romantic Love|amore romantico]]. La sua eccellenza nell'arte
+dell'[[Love|amore]] può esprimersi solo con l'espressione alquanto violenta
+che egli è un [[Lover|innamorato]] altrettanto buono quanto [[Walter Gay]] ne è uno cattivo.
+Florence meritava di certo il disprezzo del padre se poteva preferire
+Gay a Toots. Non è né uno scherzo né alcun genere di esagerazione
+dire che nelle esitazioni di Toots Dickens non solo si avvicinò
+alla psicologia del vero [[Love|amore]] più di quanto vi si sia mai avvicinato altrove,
+ma più di quanto chiunque altro vi si sia mai avvicinato. Chiedere della persona amata,
+e poi non osare [[Cross|varcare]] la soglia, essere invitato
+da lei, bramare di accettare, e poi mentire per declinare,
+queste sono le buffe cose che fece il signor Toots, e che ogni
+uomo onesto che sghignazza di lui ha fatto del pari.
+Per il momento, tuttavia, menziono questa faccenda solo come caso pendant
+al caso del [[Major Bagstock|Maggiore Bagstock]], un esempio del modo in
+cui Dickens doveva essere ridicolo per cominciare a essere vero.
+I suoi personaggi che cominciano solenni finiscono futili; i suoi personaggi
+che cominciano frivoli finiscono solenni nel senso migliore.
+Le sue figure ridicole non sono soltanto più divertenti delle
+sue figure serie, sono anche assai più serie.
+La [[Marchioness|Marchesina]] non è soltanto assai più risibile della [[Little Nell|piccola Nell]];
+è anche assai più tutto ciò che la [[Little Nell|piccola Nell]] avrebbe dovuto essere;
+assai più realmente devota, patetica e coraggiosa. [[Dick Swiveller]]
+non è soltanto un compagnone assai più spassoso di Kit, è anche un compagnone assai più
+genuino, essendo libero da quella lieve macchia di «mansuetudine»,
+ovvero dallo snobismo dei poveri rispettabili, che il saggio
+e perfetto Chuckster saggiamente e perfettamente ravvisò in Kit.
+[[Susan Nipper]] non è soltanto più un personaggio comico di Florence;
+è più un'eroina di Florence in qualsiasi giorno della settimana.
+In «Our Mutual Friend» noi non, per una ragione o per l'altra,
+ci sentiamo davvero molto agitati per la caduta o la salvezza di
+[[Lizzie Hexam]]. Ella sembra troppo romantica per essere davvero patetica.
+Ma ci sentiamo davvero agitati per il salvataggio di Miss Podsnap,
+perché ella è, come Toots, una santa [[Fool|folle]]; perché il suo naso rosa
+e i suoi gomiti rosa, e il suo candido grido e i suoi aperti e indecenti
+affetti ci trasmettono davvero un senso d'[[innocence|innocenza]] inerme
+tra draghi umani, di Andromeda legata nuda a uno scoglio.
+Dickens doveva rendere umoristico un personaggio prima di poterlo
+rendere umano; era l'unico modo che conoscesse, e avrebbe dovuto
+attenervisi sempre. Che ne fosse consapevole o no,
+le uniche due figure davvero commoventi in «[[Martin Chuzzlewit]]»
+sono le signorine Pecksniff. Delle cose che egli tentò di trattare
+senza sorriso e con grandiosità possiamo tutti farci beffe a piacimento.
+Ma una volta che ha riso di una cosa, essa è sacra per sempre.
+
+«Dombey», tuttavia, significa prima di tutto il finale
+del primo Dickens. È difficile dire esattamente in che cosa
+percepiamo che la vecchia rozzezza finisce qui, e non
+riappare in «[[David Copperfield]]» né in alcuno dei romanzi successivi.
+Ma così certamente è. In scene e personaggi isolati, invero,
+Dickens mantenne la sua nota farsesca quasi o del tutto fino alla fine.
+Ma questa è l'ultima farsa; questa è l'ultima opera in cui una licenza
+farsesca è tacitamente rivendicata, una nota farsesca battuta fin da principio.
+E in un certo senso il suo prossimo [[Novel|romanzo]] può essere detto il suo primo [[Novel|romanzo]].
+Ma la crescita di questo grande [[Novel|romanzo]], «[[David Copperfield]]»,
+è cosa assai interessante, ma nello stesso [[Time|tempo]] assai oscura,
+poiché è una crescita nell'[[Soul|anima]]. Abbiamo visto che la mente di Dickens
+era in fermento di mutamento; che egli sognava l'arte
+e persino il realismo. Enormemente compiaciuto com'era invariabilmente
+dei propri libri, era abbastanza umile da essere ambizioso.
+Era persino abbastanza umile da essere invidioso. In fatto d'arte,
+per esempio, nel senso più ristretto, di disposizione e proporzione
+nelle cose immaginarie, cominciò a essere cosciente della propria deficienza,
+e persino, in modo tempestoso, a vergognarsene; tentò di conseguire
+la completezza pur infuriando contro chiunque lo dicesse incompleto.
+E in questa maniera della costruzione artistica, la sua [[Ambition|ambizione]]
+(e anche il suo [[success|successo]]) crebbe costantemente fino all'istante della sua [[Death|morte]].
+La fine lo trova mentre tenta cose che stanno al polo opposto
+della franca informità di «[[Pickwick]]». Il suo ultimo libro,
+«The Mystery of [[Edwin Drood]]», dipende interamente dalla costruzione,
+persino da una strategia centralizzata. Egli puntò ogni cosa
+su un intreccio; lui che era stato il più debole degli intrecciatori,
+più debole di Sim Tappertit. Si cimentò in un racconto [[Detective|poliziesco]],
+lui che non sapeva mai serbare un segreto; e lo ha serbato fino a oggi.
+Un nuovo Dickens stava davvero nascendo quando Dickens morì.
+
+E come con l'arte, così con la realtà. Volle mostrare di saper
+costruire [[Well|bene]] quanto chiunque altro. Volle anche mostrare di saper
+essere accurato quanto chiunque altro. E a questo proposito (come a molti altri)
+dobbiamo ricorrere di continuo ai fatti menzionati a proposito
+dell'[[America]] e delle sue faccende di denaro. Dobbiamo ricorrere, voglio dire,
+al fatto centrale che i suoi desideri erano stravaganti in quantità,
+ma non in qualità; che le sue brame erano eccessive, ma non eccentriche.
+Non si deve mai dimenticare che la [[Sanity|sanità mentale]] era il suo ideale, anche quando
+egli sembrava quasi folle. Così fu con le sue aspirazioni letterarie.
+Era brillante; ma desiderava sinceramente essere solido. Nessuno fuori
+da un manicomio potrebbe negare che fosse un genio e uno scrittore unico;
+ma egli non voleva essere uno scrittore unico, bensì uno scrittore universale.
+Gran parte del patetismo o della retorica manufatta contro cui i suoi nemici
+inveiscono a ben ragione è in realtà dovuta al suo [[Desire|desiderio]] di offrire tutti i lati
+della vita in una volta, di fare del suo libro un cosmo anziché un racconto.
+Era talvolta davvero volgare nel suo desiderio di essere un Whiteley letterario,
+un fornitore universale. Così egli sentiva a proposito del realismo e
+della [[Truth|verità]] al vivo. Nulla è più facile che difendere Dickens come Dickens,
+ma Dickens voleva essere chiunque altro. Nulla è più facile che
+difendere il mondo di Dickens come un paese delle fate, di cui egli [[Alone|solo]] ha la chiave;
+difenderlo come si difende Maeterlinck, o qualsiasi altro scrittore originale.
+Ma Dickens non si accontentava di essere originale, aveva un selvaggio
+desiderio di essere vero. Amava tanto la [[Truth|verità]] in astratto che
+sacrificò all'[[Shadow|ombra]] di essa la propria gloria. Rinnegò la propria
+divina originalità, e finse di aver plagiato dalla vita.
+Disconobbe i figli della propria [[Soul|anima]], e disse di averli raccattati
+per la strada.
+
+E in questo stato d'animo misto e infervorato di ira e [[Ambition|ambizione]],
+[[Vanity|vanità]] e [[Doubt|dubbio]], nacque un nuovo e grande disegno.
+Amava essere romantico, eppure desiderava essere reale.
+E se scrivesse di una cosa che era reale e mostrasse che
+era romantica? Amava la vita reale; ma amava anche fare a modo suo.
+E se scrivesse la propria vita reale, ma la scrivesse a modo suo?
+E se mostrasse ai critici cavillosi che dubitavano dell'esistenza
+dei suoi strani personaggi la propria ancor più strana esistenza?
+E se costringesse questi pedanti e miscredenti ad ammettere
+che Weller e Pecksniff, Crummles e Swiveller, che essi
+ritenevano tanto inverosimilmente stravaganti e mirabili, erano meno stravaganti e
+mirabili di Charles Dickens? E se ponesse fine alle dispute
+sul fatto che i suoi romanzi potessero accadere, confessando che il suo
+[[Romance|romanzo]] era accaduto?
+
+Da qualche [[Time|tempo]] a quella parte, probabilmente durante la maggior parte della sua vita, egli aveva
+preso appunti per un'autobiografia. Ho già citato un ammirevole
+passo di questi appunti, un passo riprodotto in «[[David Copperfield]]»,
+con poco più di una modifica che un cambiamento di nomi propri:
+il passo che descrive il capitano Porter e la supplica del debitore
+nella Marshalsea. Ma egli probabilmente percepì infine ciò che un'intelligenza
+meno acuta avrebbe dovuto in ultimo percepire, che se un'autobiografia
+deve essere davvero onesta dev'essere trasformata in un'opera di finzione.
+Se deve davvero dire la [[Truth|verità]], deve a ogni costo dichiarare di non farlo.
+Nessun uomo osa dire di se stesso, a proprio nome, quanto male si sia comportato.
+Nessun uomo osa dire di se stesso a proprio nome, quanto [[Well|bene]] si sia comportato.
+Inoltre, s'intende, un tocco di finzione è quasi sempre essenziale
+al vero trasmettersi del fatto, poiché il fatto, così come è vissuto,
+ha una frammentarietà che è sconcertante di prima mano e del tutto
+accecante di seconda mano. I fatti devono quantomeno essere ordinati in
+scomparti e a ciascuno vanno restituiti la giusta testa e la giusta coda.
+La perfezione e l'acutezza dell'arte sono una sorta di surrogato della
+pungenza dell'attualità. Senza questa selezione e questo compimento la nostra vita
+sembra un groviglio di racconti incompiuti, un cumulo di romanzi, tutti al volume primo.
+Dickens decise di farne un unico e completo [[Novel|romanzo]].
+
+Poiché, sebbene vi siano molti altri aspetti di «[[David Copperfield]]»,
+questo aspetto autobiografico è, in fin dei conti, il più grande.
+Il punto del libro è che, a differenza di tutti gli altri libri
+di Dickens, esso si occupa di attualità del tutto comuni, ma se ne
+occupa calorosamente e con simpatie battagliere.
+Non è soltanto insieme realistico e romantico; è realistico
+perché è romantico. È [[Nature|natura]] umana descritta con l'esagerazione
+umana. Conosciamo tutti i tipi reali del libro;
+non sono come i tipi turgidi e preternaturali che si trovano altrove
+in Dickens. Non sono creazioni puramente poetiche come il signor Kenwigs
+o il signor Bunsby. Sappiamo tutti che esistono. Conosciamo tutti
+la testarda e umoristica [[Nurse|balia]] all'antica, tanto convenzionale
+eppure tanto originale, tanto dipendente eppure tanto indipendente.
+Conosciamo tutti il patrigno invadente, l'astratto e strano maschio,
+rozzo, bello, imbronciato, di successo, un disgregatore di focolari.
+Conosciamo tutti l'eretta e sardonica zitella, la zitella
+tanto folle nelle piccole cose e tanto assennata nelle grandi.
+Conosciamo tutti il gallo della scuola; conosciamo tutti Steerforth,
+la creatura che gli dèi [[Love|amano]] e che perfino i servitori rispettano.
+Conosciamo la sua madre povera e aristocratica, tanto orgogliosa, tanto gratificata,
+tanto desolata. Conosciamo il tipo di Rosa Dartle, la donna solitaria
+in cui l'affetto stesso è ristagnato in una sorta di [[Poison|veleno]].
+
+Ma se questi sono personaggi reali, sono personaggi
+reali illuminati dai colori della giovinezza e della passione.
+Sono persone reali sentite romanticamente; vale a dire,
+sono persone reali sentite come le persone reali le sentono.
+Sono esagerate, come tutte le figure di Dickens: ma non sono
+esagerate come le personalità vengono esagerate da un [[Artist|artista]];
+sono esagerate come le personalità vengono esagerate dai loro
+stessi amici e nemici. Le anime forti sono vedute attraverso
+la gloriosa foschia delle emozioni che le anime forti realmente creano.
+Abbiamo Murdstone quale sarebbe a un ragazzo che lo odiasse; e giustamente,
+poiché un ragazzo lo odierebbe. Abbiamo Steerforth quale sarebbe
+a un ragazzo che lo adorasse; e giustamente, poiché un ragazzo lo adorerebbe.
+Può darsi che, se queste persone avessero avuto una mera esistenza terrena,
+apparissero ad altri occhi più insignificanti.
+Può darsi che Murdstone nella vita comune fosse solo un pesante uomo
+d'affari con un lato umano che David era troppo imbronciato per scoprire.
+Può darsi che Steerforth fosse solo un pollice o due più alto
+di David, e solo un'ombra o due al di sopra di lui nella piccola
+borghesia; ma ciò non rende il libro meno vero.
+Nel catalogare i fatti della vita l'autore non deve omettere
+quel massiccio fatto che è l'illusione.
+
+Quando diciamo che il libro è fedele alla vita dobbiamo precisare che è
+specialmente fedele alla giovinezza: persino alla fanciullezza. Tutti i personaggi sembrano
+un po' più grandi di quanto realmente fossero, poiché David li guarda dal basso.
+E le prime pagine del libro sono in particolare sorprendentemente vivide.
+Certe sue parti paiono frammenti della nostra infanzia dimenticata.
+La buia [[house|casa]] dell'[[Childhood|infanzia]], la [[Loneliness|solitudine]], le cose
+comprese a metà, la [[Nurse|balia]] con i suoi imperscrutabili musi e la sua ancor più
+imperscrutabile tenerezza, le improvvise deportazioni in luoghi lontani,
+la spiaggia e le sue puerili amicizie, tutto ciò si agita in noi
+quando lo leggiamo, come qualcosa di un'esistenza precedente.
+Soprattutto, Dickens ha eccellentemente raffigurato il [[Child|fanciullo]] intronizzato
+in quell'umile cerchia che solo negli anni successivi egli percepisce essere stata
+umile. Le persone moderne e colte, credo, hanno da ridire sul fatto
+che i loro figli frequentino la compagnia della cucina o siano istruiti da una donna
+come Peggotty. Ma certo è più importante essere educati al senso
+della dignità e dell'uguaglianza umana che a qualsiasi altra cosa al mondo.
+E un [[Child|fanciullo]] che una volta abbia dovuto rispettare una donna gentile e capace
+delle classi inferiori rispetterà le classi inferiori per sempre.
+Il vero modo di superare il male insito nella distinzione di classe non è
+denunciarla come la denunciano i rivoluzionari, ma ignorarla
+come la ignorano i fanciulli.
+
+La prima giovinezza di [[David Copperfield]] è psicologicamente quasi
+altrettanto ben resa della sua [[Childhood|fanciullezza]]. In un tocco specialmente Dickens trafisse
+il nucleo stesso della sensibilità della fanciullezza; fu quando rese
+David più spaventato da un domestico che da chiunque o da qualsiasi altra cosa.
+Il minaccioso Murdstone, la tremenda signora Steerforth non gli riescono altrettanto allarmanti
+quanto il signor Littimer, l'irreprensibile domestico del gentiluomo.
+Questo è squisitamente vero rispetto alle emozioni maschili, specialmente nel
+loro stato non sviluppato. Un giovane di comune [[Courage|coraggio]] non [[Fear|teme]]
+nulla di violento, ma ha un mortale [[Fear|timore]] di tutto ciò che è corretto.
+Questa può essere o non essere la ragione per cui tanto poche scrittrici
+comprendono i loro personaggi maschili, ma resta il fatto che quanto più
+sincero e appassionato e persino avventato è un ragazzo tanto più certo
+egli è di essere convenzionale. Quanto più ardito e libero appare tanto più
+le tradizioni del collegio o le regole del club lo tratterranno
+con i loro ceppi di ragnatela; e quanto meno teme
+i suoi nemici tanto più vilmente temerà i suoi amici.
+Qui sta invero il periodo più oscuro del nostro [[Doubt|dubbio]] e caos etico.
+Il [[Fear|timore]] è che, man mano che la morale diverrà meno urgente, le maniere diverranno
+più urgenti; e uomini che hanno dimenticato il [[Fear|timore]] di Dio manterranno il [[Fear|timore]]
+di Littimer. Sprofonderemo semplicemente in una schiavitù assai più meschina.
+Poiché quando infrangi le grandi leggi, non ottieni la libertà;
+non ottieni neppure l'anarchia. Ottieni le piccole leggi.
+
+Il pungiglione e la forza di questo brano di finzione, dunque,
+(per un raro accidente) risiedono nella circostanza che esso
+fu così largamente fondato su un fatto. «[[David Copperfield]]»
+è la grande risposta di un grande romanziere ai realisti.
+David dice in sostanza: «Come! voi dite che i racconti di Dickens
+sono troppo purpurei per essere davvero accaduti! Ebbene, questo è
+ciò che accadde a me, e mi parve il più purpureo di tutti.
+Voi dite che gli eroi di Dickens sono troppo belli e trionfanti!
+Ebbene, nessun principe o paladino dell'Ariosto fu mai così bello
+e trionfante quanto mi appariva il Capoclasse mentre camminava davanti a me
+nel sole. Voi dite che i malvagi di Dickens sono troppo neri! Ebbene,
+non c'era inchiostro nel calamaio del diavolo abbastanza nero per il mio
+patrigno quando dovevo vivere nella stessa [[house|casa]] con lui.
+I fatti stanno esattamente all'opposto di ciò che voi supponete.
+Questa vita di studi grigi e mezze tinte, la cui assenza
+voi rimpiangete in Dickens, è solo la vita così come la si guarda.
+Questa vita di eroi e malvagi è la vita così come la si vive.
+La vita che un uomo conosce meglio è esattamente la vita che egli trova più colma di
+fiere certezze e battaglie tra il bene e il male: la propria. Oh sì,
+la vita che non ci sta a cuore può essere facilmente una [[Comedy|commedia]] psicologica.
+Le vite altrui possono essere facilmente documenti umani.
+Ma la vita propria di un uomo è sempre un [[Melodrama|melodramma]]».
+
+Vi sono altre cose efficaci in «[[David Copperfield]]»; non sono
+tutte autobiografiche, ma quasi tutte hanno questa nuova nota
+di quiete e realtà. Micawber è gigantesco; un'immensa affermazione
+della [[Truth|verità]] che il modo di vivere è esagerare ogni cosa.
+Ma di lui dovrò parlare più diffusamente in altra sede.
+La signora Micawber, artisticamente parlando, è persino migliore. È quasi
+la miglior cosa in Dickens. Nulla potrebbe essere più assurdo,
+e nello stesso [[Time|tempo]] più vero, del suo modo di parlare chiaro e argomentativo
+mentre siede sorridendo ed esponendo in mezzo alla rovina.
+Che cosa potrebbe essere più lucido e logico e inconfutabile del suo
+enunciato dei prolegomeni del problema del Medway, il cui
+primo passo dev'essere «vedere il Medway», o del commercio del carbone,
+che richiedeva talento e capitale. «Talento il signor Micawber ne ha.
+Capitale il signor Micawber non ne ha». Sembra che qualcosa dovesse infine venir fuori
+da una disposizione delle idee tanto chiara e scientifica.
+Invero se (come è stato suggerito) consideriamo «[[David Copperfield]]»
+come un'inconscia difesa della visione poetica della vita, potremmo considerare
+la signora Micawber come una [[Satire|satira]] inconscia della visione logica della vita.
+Ella siede quale monumento della disperazione e dell'impotenza della ragione
+di fronte a questo mondo romantico e irragionevole.
+
+Poiché ho preso «Dombey and Son» come il libro precedente
+la transizione, e «[[David Copperfield]]» come tipico della
+transizione stessa, posso forse prendere «Bleak [[house|House]]»
+come il libro successivo alla transizione, e completare così la descrizione.
+«Bleak [[house|House]]» ha ogni caratteristica della sua nuova cultura realistica.
+Dickens non si compiace più, come nei suoi primi libri, delle parti
+che gli piacciono trascurando quelle che non gli piacciono, alla maniera
+di Scott. Non lascia più, come nei racconti precedenti, i suoi eroi
+e le sue eroine meri gentiluomini e dame ambulanti che non hanno
+altro da fare che passeggiare: profonde su di loro almeno dell'ingegnosità.
+Con gli espedienti (riusciti o no) della rivelazione di [[Self|sé]]
+di Esther o delle umoristiche incoerenze di Rick, egli rende
+le sue figure più giovani, se non amabili, almeno leggibili.
+Dappertutto vediamo questa presa più salda e più accurata.
+Non, per esempio, quando vuole denunciare una
+cupa istituzione, la incastra come un mero episodio in una divagante
+storia d'avventura, come la [[Prison|prigione]] del debitore è incastonata nel
+[[Body|corpo]] di «[[Pickwick]]» o la meschina scuola dello Yorkshire nel [[Body|corpo]]
+di «[[Nicholas Nickleby]]». Egli pone la [[Court|Corte]] di Cancelleria al
+centro della scena, un tempio fosco e sinistro, e vi raggruppa
+intorno in artistica relazione figure decadenti e frenetiche,
+sua prole e suoi satirici. Un vecchio dipsomane tiene
+una bottega di stracci e ossa, tipo della futilità e dell'antichità, e si
+chiama il Lord Cancelliere. Una piccola vecchia zitella folle bazzica
+i tribunali per una causa dimenticata o immaginaria, e dice con
+perfetta e pungente ironia: «Aspetto una sentenza a breve.
+Nel Giorno del Giudizio». Rick e Ada ed Esther non sono
+meri passanti che si sono smarriti nella [[Court|corte]] di giustizia,
+sono i suoi figli, i suoi simboli e le sue vittime.
+La giusta indignazione del libro non è al rosso calore
+dell'anarchia, bensì al bianco calore dell'arte. La sua ira è paziente
+e ostinata, come una qualche storica [[Revenge|vendetta]]. Inoltre, essa lentamente
+e accuratamente crea la reale psicologia dell'oppressione.
+L'interminabile formalità, l'interminabile urbanità priva di emozione,
+l'interminabile [[Hope|speranza]] differita, queste cose ci fanno sentire il fatto
+dell'ingiustizia più della [[Madness|follia]] di Nerone. Poiché non è
+l'attività della tirannia a rendere folli, bensì la sua passività.
+Odiamo la sordità del dio più della sua forza.
+Il [[Silence|silenzio]] è la replica insopportabile.
+
+Anche in questo libro possiamo scorgere forti tracce di un accrescimento
+dell'esperienza sociale. Dickens, man mano che la sua fama lo portava in
+circoli più alla moda, cominciò davvero a comprendere qualcosa
+di ciò che è forte e di ciò che è debole nell'alta classe inglese.
+[[Sir Leicester Dedlock]] è una condanna dell'oligarchia assai più efficace
+della sguaiata spavalderia di Sir Mulberry Hawk, perché l'[[Pride|orgoglio]] risalta
+più chiaramente in tutta la sua impotenza e insolenza come l'unica debolezza
+di un uomo buono, che non come una delle mille debolezze di un uomo cattivo.
+Dickens, come tutti i giovani radicali, aveva immaginato in gioventù
+che l'aristocrazia poggiasse sulla durezza di qualcuno; scoprì,
+come scopriamo tutti, che poggia sulla mollezza di ognuno.
+È assai difficile non volere bene a [[Sir Leicester Dedlock]], non applaudire
+i suoi sciocchi vecchi discorsi, così stolti, così virili, così genuinamente inglesi,
+così disastrosi per l'Inghilterra. È vero che il popolo inglese [[Love|ama]]
+un lord, ma non è vero che lo [[Fear|tema]]; piuttosto, semmai,
+lo compatisce; nel loro [[Love|amore]] s'insinua qualcosa del sentimento
+che nutrono verso un bimbo o un uomo nero. In cuor loro giudicano
+mirabile che [[Sir Leicester Dedlock]] sia in grado di parlare, e basta.
+E così un sistema, che nessuna legge di ferro e nessuna battaglia sanguinosa potrebbe
+mai imporre a un popolo, si conserva di generazione in
+generazione per puro e debole buon [[Nature|carattere]].
+
+In «Bleak [[house|House]]» compare il personaggio di [[Harold Skimpole]],
+il personaggio la cui presunta somiglianza con Leigh Hunt ha esposto
+Dickens a tanta disapprovazione. Disapprovazione ingiusta,
+credo, per quanto riguarda la morale fondamentale.
+Nel metodo egli fu un po' clamoroso e goffo, come, invero, era
+incline a essere. Ma quando disse che era possibile combinare
+un certo tono di conversazione preso da un uomo in particolare
+con altre caratteristiche che non erano intese essere sue,
+disse di certo ciò che sanno tutti gli uomini che scrivono storie.
+Un'opera di finzione spesso consiste nel combinare un paio di
+basette viste in una strada con un delitto visto in un'altra.
+Egli può benissimo aver davvero inteso solo fare
+della lieve [[philosophy|filosofia]] di Leigh Hunt la maschera per un nuovo genere di canaglia,
+come variante sulla pia maschera di Pecksniff o la candida maschera
+di Bagstock. Può non aver avuto neppure una volta il pensiero ostile:
+«Supponiamo che Hunt si comporti come un mascalzone!»; può aver avuto solo
+il pensiero fantasioso: «Supponiamo che un mascalzone si comporti come Hunt!».
+
+Ma c'è una buona ragione per menzionare specialmente Skimpole.
+Nel personaggio di Skimpole, Dickens manifestò ancora una volta
+una qualità in lui assai ammirevole: intendo una disposizione
+a vedere le cose con sanità di mente e a satireggiare persino i propri difetti.
+Egli era comunemente occupato a satireggiare i Gradgrind,
+gli economisti, gli uomini di Smiles e del [[Self|self-help]]. Per lui
+non c'era nulla di più povero della loro ricchezza, nulla di più
+egoista del loro rinunciare a [[Self|sé]]. E contro di loro era
+solito contrapporre le persone di indole più espansiva:
+i felici Swiveller e Micawber, che, se erano poveri,
+erano almeno ricchi quanto il loro ultimo penny poteva renderli.
+Egli amava quella grande spensieratezza cristiana che cerca il proprio cibo
+da Dio. Era semplicemente una sorta d'incontrollabile onestà a
+spingerlo a caldeggiare l'altro lato. Non poteva nascondere a
+se stesso né al mondo quell'uomo che cominciava cercando il proprio cibo
+dal vicino senza informare il vicino del fatto.
+Aveva mostrato quanto potesse essere buona l'irresponsabilità; non poteva
+abbassarsi a nascondere quanto potesse essere cattiva. Creò Skimpole;
+e Skimpole è l'oscuro rovescio di Micawber.
+
+Nel tentare Skimpole egli tentò qualcosa dal significato grande
+e urgente. Lo tentò, dico; non asserisco
+che lo portò a compimento. Come s'è osservato, egli non fu mai
+felice nel descrivere il cambiamento psicologico; i suoi personaggi
+sono i medesimi ieri, oggi e per sempre. E i critici
+si sono lamentati assai giustamente della rozza scelleratezza dell'azione
+di Skimpole nella faccenda di Joe e del signor Bucket. Certamente Skimpole
+non aveva bisogno di commettere un goffo tradimento per guadagnare una goffa bustarella;
+non aveva che da rivolgersi al signor Jarndyce. Aveva perduto il proprio [[Honour|onore]]
+da troppo tempo per aver bisogno di venderlo.
+
+L'effetto è cattivo; ma ripeto che l'intento era grande.
+Dickens volle, sotto il simbolo di Skimpole, additare una
+[[Truth|verità]] che è forse la più terribile nella psicologia morale.
+Intendo il fatto che non è affatto facile tracciare la linea
+tra colpa lieve e colpa grave. Volle mostrare che non vi sono
+difetti, per quanto benevoli, che possiamo permetterci di blandire
+o di lasciar [[Alone|stare]]; volle dire che forse Skimpole era un tempo
+stato un uomo buono quanto Swiveller. Se blandito o lasciato [[Alone|stare]],
+il nostro difetto più benevolo può distruggere la nostra virtù più benevola.
+Una cosa può cominciare come una debolezza assai umana e finire come una debolezza assai
+disumana. Skimpole significa che gli estremi del male sono
+assai più vicini di quanto pensiamo. Un uomo può cominciare con l'essere troppo generoso
+per pagare i propri debiti, e finire con l'essere troppo meschino per pagare i propri debiti.
+Poiché i vizi sono assai stranamente in lega, e s'incoraggiano a vicenda.
+Un uomo sobrio può diventare un ubriacone per essere un codardo.
+Un uomo coraggioso può diventare un codardo per essere un ubriacone.
+Questa è la cosa che Dickens tentava oscuramente di trasmettere in Skimpole:
+che un uomo potrebbe diventare una montagna di egoismo se badasse
+solo alle virtù dickensiane. Non c'è nulla che possa essere trascurato;
+non esiste (voleva dire) una cosa come il peccatuccio.
+
+Mi sono soffermato su questa sua consapevolezza perché, ahimè, essa aveva
+un taglio assai affilato per lui stesso. Persino mentre permetteva che un difetto
+in origine piccolo facesse una [[Comedy|commedia]] di Skimpole, un difetto in origine
+piccolo faceva una [[Tragedy|tragedia]] di Charles Dickens. Poiché Dickens
+aveva anch'egli una cattiva qualità, non intrinsecamente assai terribile,
+che lasciò rovinare la propria vita. Aveva anch'egli una piccola debolezza
+che poteva talvolta divenire più forte di tutte le sue forze.
+Il suo egoismo non era, non occorre quasi dirlo, l'egoismo
+di Gradgrind; egli era particolarmente compassionevole e liberale.
+Né era minimamente l'egoismo di Skimpole. Egli era
+interamente [[Self|autosufficiente]], industrioso e dignitoso.
+Il suo egoismo era tutto un egoismo dei nervi.
+Qualunque cosa il suo capriccio o la temperatura dell'istante gli dicessero
+di fare doveva essere fatta. Era il tipo d'uomo che avrebbe
+spaccato una [[Window|finestra]] se non si fosse aperta a dargli aria.
+E questa sua debolezza aveva, all'[[Time|epoca]] di cui parliamo,
+condotto a una rottura tra sé e la moglie che
+egli era troppo esasperato ed eccitato per sanare in [[Time|tempo]].
+Ogni cosa doveva essere messa a posto, e messa a posto subito, con lui.
+Se [[London|Londra]] lo annoiava, doveva partire subito per il Continente;
+se il Continente lo annoiava, doveva tornare subito a [[London|Londra]].
+Se la giornata era troppo rumorosa, tutta la casa doveva tacere;
+se la [[Night|notte]] era troppo quieta, tutta la casa doveva svegliarsi.
+Soprattutto, aveva il carattere supremo del despota domestico:
+che il suo buon umore era, se possibile, più dispotico del
+suo cattivo umore. Quando era infelice (come spesso era,
+pover'uomo), non dovevano far altro che ascoltare le sue querimonie.
+Quando era felice dovevano ascoltare i suoi romanzi.
+Tutto questo, che era principalmente mera eccitabilità, non pareva
+ammontare a molto; non significava affatto che egli avesse cessato
+di essere un uomo dai costumi puliti e dal cuore gentile e quietamente onesto.
+Ma c'era in ciò questo di malvagio: che egli non resisteva affatto alla propria
+piccola debolezza; la vezzeggiava come Skimpole vezzeggiava la sua.
+E ciò separò lui e la moglie. Un mero sciocco vezzo del temperamento
+fece tutto ciò che la più nera cattiva condotta avrebbe potuto fare.
+Una casuale sensibilità, scatenata a proposito dello scompiglio delle carte
+o della chiusura di una [[Window|finestra]], finì col lacerare due persone pulite
+e cristiane l'una dall'altra, come una raffica di bigamia o adulterio.
+
+CAPITOLO IX
+
+LA TARDA MATURITÀ E LE OPERE
+
+In questo libro ho deliberatamente menzionato, della vita di Dickens, soltanto quei fatti che erano, non dirò significativi (giacché tutti i fatti debbono essere significativi, compresi i milioni di fatti che nessuno potrà mai menzionare), ma quei fatti che illustravano il senso immediato del mio discorso. Ho seguito questo metodo con coerenza e senza vergogna, perché ritengo che non si potrà mai rendere troppo evidente l'abisso che separa i libri i quali pretendono di essere l'esposizione di tutti i fatti accertabili, dai libri i quali (come questo) pretendono soltanto di contenere una particolare opinione, o un compendio deducibile dai fatti. Libri come l'opera esaustiva di Forster, e altri ancora, esistono, e sono accessibili quanto la [[Cathedral|Cattedrale]] di San Paolo; li possediamo in comune come possediamo i fatti dell'universo fisico; e sembra altamente desiderabile che la funzione di compilare un catalogo esaustivo e quella di formulare una generalizzazione individuale non siano confuse fra loro. Nessun catalogo, si capisce, può contenere tutti i fatti anche di soli cinque minuti; ogni catalogo, per quanto lungo e dotto, non può che essere una scelta non soltanto ardita ma, si direbbe, temeraria. Se però si offre un gran numero di fatti, il lettore acquista la confusa convinzione che gli vengano offerti tutti i fatti. In un giudizio dichiaratamente personale è dunque più chiaro e più onesto fornire soltanto pochi fatti illustrativi, lasciando che gli altri fatti reperibili facciano loro da contrappeso. Così infatti si rende del tutto evidente che la cosa è uno [[Sketch|schizzo]], una faccenda di poche linee.
+
+È [[Well|bene]], tuttavia, fare a questo punto una pausa sufficiente a indicare il corso principale della più tarda vita del romanziere. Ed è meglio cominciare dall'uomo stesso, quale apparve in quegli ultimi giorni di popolarità e di pubblica distinzione. Molti sono ancora in vita che lo ricordano nei suoi discorsi dopo il pranzo, nelle sue conferenze, nelle sue molte attività pubbliche; poiché io non sono fra costoro, non posso correggere le mie nozioni con quel guizzo dei lineamenti vivi senza il quale una descrizione può risultare, sottilmente e interamente, falsa. Una volta che un uomo è morto, fosse pur da ieri, chi viene dopo deve ricostruirlo a partire da descrizioni prese davvero tanto a caso quanto se descrivesse Cesare o Enrico II. Fatta però la tara di questa inevitabile falsità, una figura vivida e un poco fantastica attraversa realmente la scena della «Vita» di Forster.
+
+Dickens era di media statura, e la sua vivacità e la relativa insignificanza fisica davano probabilmente piuttosto l'impressione di una piccola taglia; certo, dell'assenza di mole. In gioventù portava, perfino per quell'epoca, stravaganti grappoli di capelli castani, e negli anni più tardi baffi castani e una frangia di barba castana (tagliata come una sorta di ampio e folto pizzetto imperiale), abbastanza individuale nella forma da conferirgli una vaga aria da straniero. Il suo volto aveva una tinta o qualità peculiare, che è difficile descrivere anche dopo che si è riusciti a immaginarla. Era la qualità che la signora Carlyle sentiva essere, per così dire, metallica, e paragonava all'acciaio terso. Era, credo, una sorta di pallido scintillio e di animazione, molto viva e tuttavia con qualcosa di cadaverico, come un cadavere galvanizzato da un dio. Il suo volto (se così era) era, curiosamente, la controparte del suo carattere. Poiché l'essenza di tutto il carattere di Dickens stava nell'essere insieme tremulo e insieme duro e tagliente, esattamente come la lama lucente di una [[Sword|spada]] è tremula e insieme dura e tagliente. Vibrava a ogni tocco, e tuttavia era indistruttibile; lo si poteva piegare, ma non lo si poteva spezzare. Castano di capelli e di barba, alquanto pallido di viso (specialmente nei suoi ultimi giorni di eccitazione e di malferma salute), aveva occhi eccezionalmente vividi e mobili, che saettavano sempre di qua e di là come brillanti [[Birds|uccelli]] per raccogliere tutte quelle minuzie sulle quali egli costruì, forse, più di qualsiasi altro romanziere; poiché era una sorta di Sherlock Holmes poetico. La bocca dietro la barba castana era larga e mobile, come la bocca di un attore; e in effetti egli era un attore, in molte cose troppo un attore. Nelle sue conferenze, negli anni più tardi, sapeva trasformare quello strano volto in una qualsiasi delle innumerevoli maschere folli che erano i volti dei suoi personaggi [[Grotesque|grotteschi]]. Sapeva far cadere il proprio volto d'un tratto nella vacua ebetudine della serva della signora Raddle, oppure gonfiarlo, come al doppio delle sue dimensioni, nell'apoplettica energia del signor Serjeant Buzfuz. Ma il contorno del suo volto stesso, dalla giovinezza in poi, era intagliato in modo assai delicato e deciso, e in stato di riposo, alla sua maniera acuta, poteva perfino sembrare effeminato.
+
+L'abbigliamento delle classi agiate negli ultimi anni di Dickens era, in confronto al nostro, alquanto trasandato e alquanto vistoso. Era il [[Time|tempo]] degli ampi calzoni a sacco di una stravaganza quasi turca, delle larghe cravatte, delle giacche corte e sciolte e delle lunghe e sciolte fedine. Eppure perfino questo periodo espansivo, bisogna confessarlo, considerava Dickens un tantino troppo appariscente o, come qualcuno diceva, troppo infrancesato nel vestire. Un uomo simile portava giacche di velluto e panciotti stravaganti che parevano tramonti incredibili; portava quei vecchi cappelli bianchi di un candore superfluo e sconcertante. Non gli spiaceva farsi vedere in vestaglie sensazionali; si racconta che si fece ritrarre proprio in una di esse. Tutto ciò non è meritorio; né è particolarmente disdicevole; è soltanto un tratto caratteristico, ma un tratto importante. Egli era un uomo assolutamente indipendente e interamente rispettoso di [[Self|sé]]. Ma non aveva nulla di quel vecchio, vigoroso, semidignitoso sentimento inglese sul quale Thackeray era tanto sensibile; intendo il [[Desire|desiderio]] di essere considerato un privato gentiluomo, che in [[Bottom|fondo]] significa il [[Desire|desiderio]] di essere lasciato in [[Alone|pace]]. Anche questo non è un merito; è soltanto uno degli aspetti più miti dell'aristocrazia. Ma meritorio o no, Dickens non lo possedeva. Non aveva nulla in contrario a essere fissato dagli sguardi, purché fosse anche ammirato. Non posava esattamente alla maniera orientale di Disraeli; i suoi istinti erano troppo puri per questo; ma posava alquanto alla maniera francese, di certi capi come Mirabeau e Gambetta. Né aveva quel gretto [[Desire|desiderio]] di «far carriera» che fa morire gli uomini soddisfatti come inarticolati Sottosegretari di Stato. Non [[Desire|desiderava]] tanto il [[success|successo]] quanto la fama, l'antica gloria umana, l'applauso e la [[Wonder|meraviglia]] del popolo. Tale era mentre percorreva la strada nei suoi abiti infrancesati, probabilmente con una lieve spavalderia.
+
+La sua vita privata consistette di una sola [[Tragedy|tragedia]] e di diecimila commedie. Con una sola [[Tragedy|tragedia]] intendo una vera e straziante [[Tragedy|tragedia]] morale: il fallimento del suo [[Marriage|matrimonio]]. Amava teneramente i suoi figli, e più di uno di essi gli morì; ma in dolori come questi non v'è violenza e, soprattutto, non v'è vergogna. La fine della vita non è tragica come la fine dell'[[Love|amore]]. E con le diecimila commedie intendo l'intera trama della sua vita, le sue lettere, la sua conversazione, che furono un incessante carnevale di improvvisazione insensata e ispirata. Per quanto poteva evitarlo, non permise mai che un solo giorno della sua vita fosse ordinario. C'era sempre qualche burla, qualche impetuosa proposta, qualche scherzo pratico, qualche improvvisa ospitalità, qualche improvvisa scomparsa. Si racconta di lui (do un aneddoto fra un centinaio) che, nell'ultima sua visita in [[America]], quando già barcollava, per così dire, sotto il colpo che doveva essergli mortale, osservò del tutto casualmente ai suoi compagni che una fila di villette dipinte assomigliava esattamente alle botteghe dipinte di una pantomima. Non appena il suggerimento gli fu uscito dalle labbra, balzò alla soglia più vicina e, in esatta [[Imitation|imitazione]] del clown dell'arlecchinata, batté coscienziosamente col pugno, non sulla porta (giacché ciò avrebbe naturalmente sfondato lo scenario di tela), ma sul fianco dello stipite. Fatto questo, si distese cerimoniosamente di traverso sulla soglia, perché il padrone gli inciampasse sopra se fosse precipitato fuori. Poi si rialzò con gravità e proseguì per la sua strada. Tutta la sua vita fu piena di simili energie inattese, precisamente come quelle del clown della pantomima. Dickens aveva davvero una grande e fondamentale affinità con il paesaggio, o piuttosto con il «casaggio» ([[house|casa]]-scape) dell'arlecchinata. Amava le case alte, e i tetti spioventi, e i profondi seminterrati. Ma sarebbe stato veramente felice se qualche buona fata dell'eterna pantomima gli avesse dato il potere di volar via dai tetti e di piombare senza farsi male giù per l'altezza delle case e di rimbalzare fuori dai seminterrati come una palla di caucciù. Il divino lunatico di «[[Nicholas Nickleby]]» è quello che più si avvicina al suo sogno. Credo davvero che Dickens avrebbe preferito essere quel personaggio piuttosto che qualsiasi altro. Con quale eccitazione avrebbe lottato per scendere lungo il camino. Con quale estatica energia avrebbe scagliato i cetrioli oltre il muro del [[Garden|giardino]].
+
+Le sue lettere manifestano ancor più la medesima incessante forza creativa. Le sue lettere sono creative quanto qualsiasi sua creazione letteraria. La sua cartolina più breve è spesso buona quanto il suo [[Novel|romanzo]] più abile; ciascuna di esse è spontanea; ciascuna di esse è diversa. Egli varia perfino la forma e la foggia della lettera per quanto è possibile; ora è in un francese assurdo; ora è da parte di uno dei suoi personaggi; ora è un annuncio pubblicitario di sé come cane randagio. Tutte sono buffissime; non solo sono buffissime, ma sono buffe esattamente quanto la sua opera rifinita e pubblicata. Questa è la cosa in ultima analisi sbalorditiva di Dickens: la quantità che ce n'è, di lui. Egli scrisse, al minimo, sedici grossi e importanti libri gremiti di creazione originale. E se li aveste bruciati tutti, avrebbe potuto scriverne altri sedici, come un uomo scrive oziose lettere all'amico.
+
+In connessione con questa esuberante parte della sua [[Nature|natura]] c'è un'altra cosa da notare, se vogliamo fare di lui un ritratto personale. Molte persone moderne, per lo più donne, si sono sentite obiettare all'elemento bacchico nei libri di Dickens, a quella celebrazione del bere in compagnia come supremo simbolo della vita in società, che quei libri condividono con quasi tutta la grande letteratura dell'umanità, compreso il Nuovo Testamento. Indubbiamente c'è una quantità abnorme di bevute in una pagina di Dickens, così come c'è una quantità abnorme di duelli, poniamo, in una pagina di Dumas. Se computate le birre e i brandy del signor Bob Sawyer con la cura di un aritmetico e le deduzioni di un patologo, essi salgono in modo allarmante come una marea montante in mare aperto. Dickens difese il bere a gran voce, lo lodò con passione, e ne descrisse intere orge con enorme gusto. Eppure è mirabilmente tipico della sua [[Nature|natura]] pronta e impaziente che egli stesso bevesse comparativamente poco. Era il tipo d'uomo che poteva mostrarsi tanto ardente nel lodare la coppa da lasciarla poi intatta. Faceva parte del suo temperamento attivo e febbrile il non bere molto vino. Ma faceva parte della sua [[philosophy|filosofia]] umana, della sua religione, il bere effettivamente del vino. Per la sana [[philosophy|filosofia]] europea il vino è un simbolo; per la religione europea è un sacramento. Dickens lo approvava perché era una grande istituzione umana, uno dei riti della civiltà, e tale certamente è. L'astemio che se ne tiene fuori può avere ragioni etiche del tutto chiare e sue proprie, come può averle un uomo che si tiene fuori dall'[[Education|istruzione]] o dalla nazionalità, che rifiuta di frequentare un'Università o di servire in un Esercito. Ma egli trascura una delle grandi cose sociali che l'uomo ha aggiunto alla [[Nature|natura]]. L'astemio ha scelto una frase quanto mai sventurata per l'ubriaco, quando dice che l'ubriaco fa di sé una bestia. L'uomo che beve ordinariamente non fa di sé nulla se non un uomo ordinario. L'uomo che beve smodatamente fa di sé un demonio. Ma nulla di connesso a una cosa umana e artistica come il vino può avvicinare l'uomo alla vita brutale della [[Nature|natura]]. L'unico uomo che stia, nel senso esatto e letterale delle parole, facendo di sé una bestia è l'astemio.
+
+Il tono di Dickens verso la religione, benché simile a quello della maggior parte dei suoi contemporanei, filosoficamente turbato e storicamente piuttosto ignorante, aveva un elemento assai caratteristico di lui. Egli aveva tutti i pregiudizi del suo [[Time|tempo]]. Aveva, per esempio, quell'avversione per i dogmi definiti, la quale in realtà significa una preferenza per i dogmi non esaminati. Aveva la solita vaga nozione che l'intero nostro passato umano fosse gremito di null'altro che di dissennati Tories. Aveva, in una parola, tutte le vecchie ignoranze radicali che andavano di pari passo con la vecchia acutezza radicale e con il [[Courage|coraggio]] e lo spirito civico. Ma questo spirito tendeva, in quasi tutti gli altri che lo nutrivano, a una specifica avversione per la Chiesa d'Inghilterra; e a una disposizione ad aizzarle contro le altre sette, come tipi più veri d'indagine, o d'[[Individualism|individualismo]]. Dickens aveva una decisa tenerezza per la Chiesa d'Inghilterra. Avrebbe potuto perfino chiamarla una debolezza per la Chiesa d'Inghilterra, ma l'aveva. Qualcosa in quelle placide funzioni, qualcosa in quella reticente e umana liturgia gli piaceva contro tutte le tendenze del suo [[Time|tempo]]; gli piaceva nella parte migliore di sé, nel suo virile [[Love|amore]] per la [[Charity|carità]] e la pace. Una volta, in un impeto d'ira per la stupidità politica della Chiesa (che è invero profonda), la lasciò per una settimana o due e andò a una Cappella unitariana; nel giro di una settimana o due tornò. Questa curiosa e sentimentale presa della Chiesa inglese su di lui crebbe con gli anni. Nel libro cui stava lavorando quando morì egli descrive il Minor Canon, umile, cavalleresco, dal cuore tenero, che risponde con indignata semplicità alla schiuma e alla rettitudine da tribuna del filantropo settario. Sostiene il Canonico Crisparkle e mette alla berlina il signor Honeythunder. Quasi ognuno degli altri Radicali, suoi amici, avrebbe sostenuto il signor Honeythunder e messo alla berlina il Canonico Crisparkle.
+
+Ho menzionato questa faccenda per una ragione particolare. Essa ci riconduce a quell'apparente contraddizione o dualismo in Dickens al quale, in una connessione o nell'altra, ho spesso accennato, e che, in una forma o nell'altra, costituisce l'intero nodo del suo carattere. Intendo l'[[Union|unione]] di una generale sregolatezza rasente la follia con una sorta di segreta moderazione quasi assurgente alla mediocrità. Dickens era, più o meno, l'uomo che ho descritto: sensibile, teatrale, sbalorditivo, un po' dandy, un po' buffone. Né tali caratteristiche, siano deboli o siano sfrenate, sono interamente accidenti o cose esteriori. Egli aveva alcune false tendenze teatrali integrate nella sua [[Nature|natura]]. Per esempio, aveva un'abitudine quanto mai sventurata, un'abitudine che spesso lo poneva dalla parte del torto, anche quando gli capitava di avere ragione. Aveva l'inguaribile abitudine di spiegarsi. Ciò riduceva i suoi ammiratori alla condizione mentale dell'autentica ma finora incelebrata bambina che disse a sua madre: «Credo che capirei, se solo tu non mi spiegassi». Dickens voleva sempre spiegare. Faceva parte di quella sua istintiva propensione alla pubblicità che lo rendeva insieme uno splendido democratico e, un tantino, troppo un attore. La portava alle lunghezze più folli. Egli stampò addirittura, su «Household Words», una giustificazione del proprio operato nella faccenda del suo [[Marriage|matrimonio]]. Quell'incidente da [[Alone|solo]] basta a suggerire che le sue esternazioni e proposte pubbliche fossero talvolta come urla udite dal manicomio di Bedlam. Eppure rimane vero che aveva in sé una parte centrale, la quale era compiaciuta soltanto dai riti più decorosi e più riposanti, dalle cose di cui il libro di [[Prayer|preghiere]] anglicano è quanto mai tipico. È certamente vero che egli fu spesso stravagante. È molto più certamente altrettanto vero che detestava e disprezzava la stravaganza.
+
+La spiegazione migliore si può trovare nel suo genio letterario. Il suo genio letterario consisteva in una capacità contraddittoria di intrattenere e insieme di deridere idee assai ridicole. Se egli è un buffone, ride della buffoneria. I suoi libri erano per certi versi i più sregolati sulla faccia della terra. Rabelais non introdusse in Paflagonia o nel Regno dei Coquecigrues figure satiriche più frenetiche e deformi di quelle che Dickens fece camminare per lo Strand e per [[Lincoln]]'s Inn. Ma nonostante tutto ciò, si giunge, nel nucleo di lui, a un'improvvisa quiete e buon senso. Tale, credo, era il nucleo di Rabelais, tali erano tutti i satirici dilatati e violenti. Questo è un punto essenziale per Dickens, benché assai poco compreso nel nostro corrente modo di pensare. Dickens era un burlone smodato, ma un pensatore moderato. Era un burlone smodato perché era un pensatore moderato. Ciò che noi moderni chiamiamo la sregolatezza della sua [[Imagination|immaginazione]] era in realtà creato da ciò che noi moderni chiamiamo la mitezza del suo pensiero. Voglio dire che egli sentiva la piena insania di tutte le tendenze estreme, perché era egli stesso tanto sano; sentiva le eccentricità, perché stava al centro. In questi tempi chiediamo sempre ai nostri profeti violenti di scrivere satire violente; ma i profeti violenti non possono mai, in alcun modo, scrivere satire violente. Per scrivere una [[Satire|satira]] come quella di Rabelais — una [[Satire|satira]] che giocola con le [[Stars|stelle]] e prende a calci il mondo come un pallone da football — è necessario essere in [[Self|sé]] stessi temperati, e perfino miti. Un uomo moderno come Nietzsche, un uomo moderno come Gorky, un uomo moderno come d'Annunzio non potrebbe in alcun modo scrivere una [[Satire|satira]] vera e tumultuosa. Essi stessi stanno troppo sulle terre di confine. Non potrebbero essere un [[success|successo]] come caricaturisti, poiché sono già un grande [[success|successo]] come caricature.
+
+Ho menzionato la sua preferenza religiosa semplicemente come esempio di questa interiore moderazione. Dire, come alcuni hanno fatto, che egli attaccò il Dissenso protestante è un modo del tutto falso di metterla. È del tutto contrario all'intero orientamento dell'uomo e del suo [[Time|tempo]] supporre che egli potesse provare rancore contro qualsiasi [[Body|corpo]] teologico in quanto [[Body|corpo]] teologico; ma qualsiasi cosa somigliasse a una stravaganza religiosa, protestante o cattolica che fosse, lo spingeva a una stravaganza di [[Satire|satira]]. Ed egli si gettò nell'ebbra energia di Stiggins, ammucchiò fino alle [[Stars|stelle]] le «verbose rampe di scale» del signor Chadband, esattamente perché la sua propria concezione della religione era la quieta e impersonale [[Prayer|Preghiera]] del Mattino. È tipico di lui che avesse un odio particolare per i discorsi in riva alla [[Grave|tomba]].
+
+Un esempio ancora più chiaro di ciò che intendo si può trovare nel suo atteggiamento politico. A qualcuno egli parve un satirico quasi anarchico. Si burlava in egual misura del sistema contro cui i riformatori muovevano guerra, e degli strumenti su cui i riformatori facevano affidamento. Non faceva mistero della sua convinzione che il primo ministro inglese medio fosse un asino capitato lì per caso. In due superbe frasi riassunse e spazzò via l'intera costituzione britannica: «L'Inghilterra, nell'ultima settimana, è stata in uno stato terribile. Lord Coodle voleva uscire, Sir Thomas Doodle non voleva entrare, e non essendovi in Inghilterra persone degne di nota tranne Coodle e Doodle, il paese è rimasto senza un [[government|governo]]». Egli faceva d'ogni erba un fascio, gabinetti e uffici di [[government|governo]], e ne faceva lo stesso identico gioco. Creò i suoi ciarlatani più strabilianti, i suoi idioti più adorabili e incredibili, e li insediò sui troni più alti del nostro sistema nazionale. A molte persone moderate e progressiste un tale satirico sembrava insultare cielo e terra, pronto a mandare in rovina la società per qualche folle alternativa, disposto ad abbattere San Paolo e sulle sue rovine erigere una sanguinosa ghigliottina. Eppure, in verità, questa sua apparente sregolatezza derivava dal suo essere, semmai, un politico assai moderato. Derivava, non affatto dal [[Fanaticism|fanatismo]], ma da un distacco piuttosto razionale. Aveva il buon senso di vedere che la Costituzione britannica non era la [[democracy|democrazia]], bensì la Costituzione britannica. Era un sistema artificiale — come qualsiasi altro, buono per certi versi, cattivo per altri. La sua [[Satire|satira]] di essa suonava sfrenata a coloro che l'adoravano; ma la sua [[Satire|satira]] di essa nasceva non dall'avere alcun sfrenato entusiasmo contro di essa, ma semplicemente dal non avere, come tutti gli altri, uno sfrenato entusiasmo per essa. [[Alone|Solo]], per quanto ne so, fra tutti i grandi Inglesi di quell'epoca, egli comprese la cosa che i Francesi e gli Irlandesi comprendono. Intendo il fatto che il [[government|governo]] popolare è una cosa, e il [[government|governo]] rappresentativo un'altra. Comprese che il [[government|governo]] rappresentativo ha molti svantaggi minori, uno dei quali è che non è mai rappresentativo. Egli parla della sua «[[Hope|speranza]] di aver fatto sentire a ogni uomo in Inghilterra qualcosa del disprezzo per la [[house|Camera]] dei Comuni che io provo». Dice inoltre queste due cose, entrambe mirabilmente penetranti in quanto provenienti da un buon Radicale nel 1855, poiché contengono un perfetto enunciato del pericolo in cui ora ci troviamo, e che potrebbe, se piaccia a Dio, pungolarci a evitare la lunga prospettiva al termine della quale si scorge, così da vicino, la dignità e la [[Decay|decadenza]] di [[Venice|Venezia]]:
+
+«Mi rafforzo di ora in ora», egli dice, «nella mia vecchia convinzione che la nostra aristocrazia politica e la nostra caccia ai potenti siano la [[Death|morte]] dell'Inghilterra. In tutta questa faccenda non vedo un barlume di [[Hope|speranza]]. Quanto allo spirito popolare, è giunto a essere talmente separato dal Parlamento e dal [[government|Governo]], e talmente perfettamente apatico riguardo a entrambi, che seriamente lo ritengo un segno quanto mai portentoso». E dice anche questo: «Sono davvero serio nel pensare — e ho dato a questo argomento tutta la penosa considerazione che un uomo con dei figli destinati a vivere e a soffrire dopo di lui può darvi — che il [[government|governo]] rappresentativo sia divenuto per noi del tutto un fallimento, che le gentilezze e le servilità inglesi rendano il popolo più inetto a esso, e che l'intera faccenda sia crollata a partire dal grande [[Time|tempo]] del diciassettesimo secolo, e non abbia in sé alcuna [[Hope|speranza]]».
+
+Queste sono le parole di un uomo saggio e forse [[Melancholy|malinconico]], ma certamente non di uno indebitamente eccitato. Vale la pena di notare, per esempio, quanto più direttamente Dickens vada al punto di quanto facesse Carlyle, il quale rilevò molti dei medesimi mali. Ma Carlyle immaginava che il nostro moderno [[government|governo]] inglese fosse verboso e prolisso perché era un [[government|governo]] democratico. Dickens vedeva, ciò che è certamente il fatto, che esso è verboso e prolisso perché è un [[government|governo]] aristocratico, essendo le due più piacevoli qualità aristocratiche l'[[Love|amore]] per la letteratura e l'incoscienza del [[Time|tempo]]. Ma tutto ciò conduce alla medesima conclusione della faccenda. Figure frenetiche come Stiggins e Chadband furono create dalla quiete della sua preferenza religiosa. Creazioni sfrenate come i Barnacle e i Bounderby furono prodotte in una sorta di estasi dell'ordinario, dell'ovvio nella giustizia politica. I suoi mostri furono fatti a partire dal suo livello e dalla sua moderazione, come i vecchi mostri furono fatti a partire dal livello del mare.
+
+Tale era l'uomo di genio che dobbiamo tentare di immaginare; violentemente emotivo, eppure di buon giudizio; combattivo, ma solo quando si riteneva oppresso; incline a ritenersi oppresso, eppure non cinico circa i moventi umani. Era un uomo notevolmente difficile da comprendere o da rianimare. Aveva quasi sempre delle ragioni per il suo operato; il suo errore era che le esponeva sempre. Talvolta i nervi gli cedevano di schianto; e allora era folle. A meno che ciò non accadesse, era sano di mente in modo del tutto insolito.
+
+Un rozzo [[Sketch|schizzo]] siffatto, almeno, deve bastarci per riassumere i suoi anni più tardi. Quegli anni furono occupati, si capisce, da due aggiunte principali alle sue attività precedenti. La prima fu la serie di letture pubbliche e conferenze che egli ora cominciò a tenere sistematicamente. La seconda fu la sua successiva direzione di «Household Words» e di «All the Year Round». Era di un tipo che gode di ogni nuova funzione e opportunità. Era stato tante cose nella sua vita: un cronista, un attore, un prestigiatore, un poeta. Come le aveva godute tutte, così godette dell'essere conferenziere, e godette dell'essere direttore. È certo che il suo pubblico (che talvolta si ammassava così fitto da giacere disteso sulla pedana tutt'intorno a lui) godeva del suo essere conferenziere. Non è altrettanto certo che i vicedirettori godessero del suo essere direttore. Ma in entrambe le connessioni la faccenda principale d'importanza è l'effetto sull'opera permanente di Dickens stesso. Le letture furono importanti per questa ragione, che fissarono, come per una sorta di pubblico e pontificale pronunciamento, quale fosse l'interpretazione dell'opera di Dickens da parte di Dickens. Una tale conoscenza è mera tradizione, ma è assai potente. La mia stessa famiglia mi ha tramandato, e io probabilmente tramanderò alla prossima generazione, un preciso [[Memory|ricordo]] di come Dickens rendesse d'un tratto il proprio volto simile al volto di un idiota nell'impersonare la serva della signora Raddle, Betsy. Questo serve davvero a uno dei fini permanenti della tradizione; rende davvero un poco più difficile, per qualsiasi persona ingegnosa, dimostrare che Betsy fosse intesa come una brillante [[Satire|satira]] dell'ipertrofia dell'intelletto.
+
+Quanto al suo rapporto con le sue due riviste, esso è di primaria importanza, in primo luogo per le cose mirabili che egli scrisse di suo pugno sulle riviste (non ci si può trattenere dal menzionare l'inimitabile monologo del cameriere in «Somebody's Luggage»), e in secondo luogo per il fatto che, nella sua veste di direttore, egli fece una preziosa scoperta. Scoprì Wilkie Collins. Wilkie Collins fu l'unico uomo di inequivocabile genio ad avere una certa affinità con Dickens; un'affinità in questo rispetto, che entrambi combinavano in modo curioso un'opinione moderna e cockney e perfino banale sulle cose con un'enorme, elementare simpatia per gli strani oracoli e gli spiriti e l'antica [[Night|Notte]]. Non v'erano due uomini nell'Inghilterra medio-vittoriana, coi loro cilindri e i loro ombrelli, più tipici della sua razionalità e della sua grigia [[Reform|Riforma]]; e non v'erano due uomini che potessero eguagliarli in fatto di storie di [[Ghost|fantasmi]]. Non v'erano due uomini con maggior disprezzo per le superstizioni; e non v'erano due uomini capaci di creare tanto bene il brivido superstizioso. In verità, i nostri mistici moderni commettono un errore quando portano i capelli lunghi o le cravatte sciolte per attirare gli spiriti. Gli elfi e gli antichi dèi, quando tornano a visitare la terra, vanno davvero dritti verso un grigio cilindro. Poiché esso significa semplicità, che gli dèi [[Love|amano]].
+
+Frattanto i suoi libri, apparendo di [[Time|tempo]] in [[Time|tempo]], pur brillanti come sempre, testimoniavano quella crescente tendenza a un trattamento più accurato e responsabile che abbiamo notato nella transizione culminata in «Bleak [[house|House]]». Il suo successivo libro importante, «Hard Times», intona una nota di severità quasi inattesa. I personaggi sono davvero esagerati, ma sono esagerati con amarezza e deliberazione; non sono esagerati con la vecchia inconsapevole esuberanza di [[Nicholas Nickleby]] o di [[Martin Chuzzlewit]]. Dickens esagera Bounderby perché lo odia davvero. Esagerava Pecksniff perché lo amava davvero. «Hard Times» non è uno dei più grandi libri di Dickens; ma è forse, in un certo senso, uno dei suoi più grandi monumenti. Esso imprime e registra la realtà dell'emozione di Dickens su moltissime cose che allora erano considerate lagnanze non filosofiche, ma che da allora si sono gonfiate negli immensi fenomeni della [[philosophy|filosofia]] socialista. Chiamare Dickens un Socialista è una selvaggia esagerazione; ma la [[Truth|verità]] e la peculiarità della sua posizione potrebbero esprimersi così: che perfino quando tutti pensavano che il Liberalismo significasse [[Individualism|individualismo]], egli era enfaticamente un Liberale ed enfaticamente non un individualista. O la [[Truth|verità]] potrebbe esser meglio ancora enunciata in questo modo: che egli vedeva esservi una cosa segreta, chiamata umanità, verso la quale tanto il socialismo estremo quanto l'[[Individualism|individualismo]] estremo erano profondamente e inesprimibilmente indifferenti, e che questa umanità permanente e presidiante era la cosa che a lui capitava di comprendere; egli sapeva che l'[[Individualism|individualismo]] non è nulla e il non-[[Individualism|individualismo]] non è nulla se non l'osservanza del comandamento dell'uomo. Sentiva, come un romanziere deve fare, che si discute troppo la questione se un uomo sia in favore di questa o quella [[philosophy|filosofia]] scientifica; che v'è un'altra questione, se la [[philosophy|filosofia]] scientifica sia in favore dell'uomo. Ecco perché libri come «Hard Times» rimarranno sempre parte della potenza e della tradizione di Dickens. Egli vedeva che i sistemi economici non sono cose come le [[Stars|stelle]], ma cose come i lampioni, manifestazioni della mente umana, e cose da giudicarsi col cuore umano.
+
+Da allora in poi, fino alla fine, i suoi libri divengono via via più gravi, e, per così dire, più responsabili; egli migliora come [[Artist|artista]] se non sempre come creatore. «Little Dorrit» (pubblicato nel 1857) è insieme per certi versi tanto più sottile e in ogni modo tanto più triste del resto della sua opera, da annoiare i dickensiani e da piacere in modo particolare a George Gissing. È l'unico dei racconti di Dickens che potesse piacere a Gissing, non solo per il suo genio, ma anche per la sua atmosfera. C'è qualcosa di un poco moderno e di un poco triste, qualcosa anche di stonato rispetto all'orientamento principale del sentimento morale di Dickens, nella descrizione del carattere di Dorrit come effettivamente e definitivamente indebolito dalle sue esperienze logoranti, come incapace di levare alcun grido al di sopra degli anni sconfitti. È soltanto una debole macchia d'[[Shadow|ombra]]. Ma l'illimitata luce bianca della fiducia umana, di cui parlai in principio, sta rifluendo, l'opera della rivoluzione si va facendo più debole ovunque; e sopravviene la [[Night|notte]] del necessitarismo, in cui nessun uomo può operare. Per la prima [[Time|volta]] in un libro di Dickens forse sentiamo davvero che l'[[Hero|eroe]] ha quarantacinque anni. Clennam è certamente molto più vecchio del signor [[Pickwick]].
+
+Questa fu, invero, soltanto una fugace nube grigia; egli passò a operazioni più briose. Ma qualunque esse fossero, avevano pur sempre la nota degli ultimi giorni. Hanno un artigianato più cauto; hanno un sentimento umano più maturo e più composito. Ombre calavano sulla sua pagina dalle altre e più tristi figure del declino vittoriano. Un buon esempio di ciò è il suo libro successivo, «The Tale of Two Cities» (1859). In dignità ed eloquenza esso sta quasi da [[Alone|solo]] fra i libri di Dickens. Ma sta anche da [[Alone|solo]] fra i suoi libri in questo rispetto, che non è interamente opera di Dickens. Deve la sua ispirazione, dichiaratamente, alle pagine appassionate e nebulose della «[[French Revolution]]» di Carlyle. E c'è qualcosa di essenzialmente incoerente fra il trascendentalismo turbato e semiscettico di Carlyle e la scuola e lo spirito originari cui Dickens apparteneva, la lucida e ridente risolutezza del vecchio Radicalismo convinto e appagato. Di qui il genio di Dickens non può salvarlo, proprio come il grande genio di Carlyle non poté salvare lui dal fare della [[French Revolution]] un quadro che era delicatamente e tuttavia profondamente erroneo. Entrambi tendono troppo a rappresentarla come una mera elementare esplosione di fame o di vendetta; non vedono abbastanza che fu una guerra per princìpi intellettuali, perfino per luoghi comuni intellettuali. Noi, gli Inglesi moderni, non possiamo facilmente comprendere la [[French Revolution]], perché non possiamo facilmente comprendere l'idea di una battaglia cruenta per il puro buon senso; non possiamo comprendere il buon senso in armi e conquistatore. Nell'Inghilterra moderna il buon senso sembra significare l'adattarsi alle condizioni esistenti. Per noi un politico pratico significa in realtà un uomo di cui ci si possa fidare pienamente perché non faccia assolutamente nulla; è lì che entra in gioco la sua praticità. Il sentimento francese — il sentimento che stava dietro la Rivoluzione — era che quanto più un uomo era assennato, tanto più bisognava aspettarsi il massacro.
+
+In tutti gli imitatori di Carlyle, Dickens compreso, c'è un oscuro sentimento che la cosa per cui i Francesi morirono dovesse essere qualcosa di nuovo e di bizzarro, un [[Paradox|paradosso]], una strana idolatria. Ma quando quel [[Blood|sangue]] scorse per le strade, fu per amore di un truismo; quando quelle città furono scosse fino alle fondamenta, furono scosse fino alle fondamenta da un truismo.
+
+Ho menzionato questa faccenda storica perché essa illustra queste influenze più tarde e più mescolate, le quali insieme migliorano e, per così dire, complicano l'opera più tarda di Dickens. Poiché Dickens aveva nella sua originaria composizione mentale le capacità di comprendere questo elemento gioviale e assennato della [[French Revolution]] assai meglio di Carlyle. La [[French Revolution]] era, fra le altre cose, francese, e, fin dove ciò conta, non avrebbe mai potuto avere un preciso corrispettivo in un Inglese tanto gioviale e autoctono quanto Charles Dickens. Ma c'era una gran parte della tradizione effettiva e ininterrotta della Rivoluzione stessa nelle sue prime denunce radicali; nella sua condanna della Prigione della Flotta ([[Prison|Prigione]]) c'era una gran parte della presa della Bastiglia. C'era, soprattutto, una certa ragionevole impazienza che era l'essenza del vecchio Repubblicano, e che è del tutto ignota al Rivoluzionario nell'Europa moderna. Il vecchio Radicale non sentiva esattamente di essere «in rivolta»; sentiva semmai che una quantità di istituzioni idiote si era rivoltata contro la ragione e contro di lui. Dickens, dico, aveva l'idea rivoluzionaria, benché in una forma inglese, per chiara e consapevole eredità; Carlyle dovette riscoprire la Rivoluzione con una violenza di genio e di visione. Se dunque Dickens prese da Carlyle (come disse di aver fatto) la sua immagine della Rivoluzione, ciò significa certamente che egli aveva dimenticato qualcosa della propria giovinezza, ed era finito sotto le più complesse influenze della fine del diciannovesimo secolo. La sua vecchia, ilare e sentimentale visione della [[Nature|natura]] umana sembra per un momento offuscata in «Little Dorrit». La sua vecchia semplicità politica è stata lievemente turbata da Carlyle.
+
+Ripeto che questa nota più grave è variata, ma rimane una nota più grave. La vediamo intonata, credo, con particolare e notevole [[success|successo]] in «[[Great Expectations]]» (1860-61). Questa bella storia è narrata con una coerenza e una quiete di individualità che sono rare in Dickens. Ma tanto lontano aveva egli viaggiato lungo la [[Road|strada]] di una realtà più pesante, che intendeva perfino dare al racconto un finale infelice, facendo perdere a Pip [[Estella]] per sempre; e ne fu dissuaso soltanto dal robusto romanticismo di Bulwer Lytton. Ma la parte migliore del racconto — il resoconto delle esitazioni dell'[[Hero|eroe]] fra la vita umile cui deve tutto, e la vita sfarzosa da cui si aspetta qualcosa — tocca una parte assai vera e alquanto tragica della morale; poiché il grande [[Paradox|paradosso]] della [[morality|moralità]] (il [[Paradox|paradosso]] cui solo le religioni hanno dato un'adeguata espressione) è che la specie più vile di colpa è esattamente la specie più facile. Leggiamo nei libri e nelle ballate del bravaccio che potrebbe uccidere un uomo o fumare oppio, ma che non si abbasserebbe mai a mentire o alla codardia o a «qualcosa di meschino». Ma per gli esseri umani reali l'oppio e il massacro hanno solo un fascino occasionale; la permanente [[Temptation|tentazione]] umana è la [[Temptation|tentazione]] di essere meschini. L'unica probabilità permanente è la probabilità di divenire un codardo ipocrita. Il cerchio dei traditori è il più basso dell'abisso, ed è anche il più facile in cui cadere. Questa è una delle risonanti realtà della [[Bible|Bibbia]], che essa non fa commettere ai suoi grandi uomini grandi peccati; fa commettere ai suoi grandi uomini (come Davide e san Pietro) piccoli peccati e li fa comportare da vili.
+
+Dickens ha trattato questa facile discesa della diserzione, questo silenzioso tradimento, con notevole accuratezza nel resoconto delle indecisioni di Pip. Esso contiene un buon suggerimento di quella debole [[Romance|romanticheria]] che è la radice di ogni snobismo: che il mistero appartenente alla vita patrizia ci eccita più delle aperte, perfino indecenti, virtù degli umili. Pip è più interessato a [[Miss Havisham]], che potrebbe volergli [[Well|bene]], che a [[Joe Gargery]], che evidentemente gliene vuole. Tutto ciò è assai forte e salubre; ma è pur sempre un poco severo. «Our Mutual Friend», 1864, ci riconduce un poco alla sua maniera più allegra e più normale; parte della [[Satire|satira]], come quella sull'elezione di Veneering, è nel migliore del suo vecchio stile, tanto arioso e fantasioso, eppure che colpisce così improvvisamente e così duramente. Ma anche qui troviamo il trattamento più pieno e più serio della psicologia; segnatamente nei due fatti che egli crea un [[Villain|malvagio]] davvero umano, [[Bradley Headstone]], e anche uno che potremmo chiamare un [[Hero|eroe]] davvero umano, Eugene, se non fosse che è troppo umano per essere chiamato [[Hero|eroe]] del tutto. Si è detto (invariabilmente da parte di zotici) che Dickens non descrisse mai un gentiluomo; è come dire che non descrisse mai una zebra. Un gentiluomo è un animale assai raro fra le creature umane, e per gente come Dickens, interessata a tutta l'umanità, non uno di suprema importanza. Ma in Eugene Wrayburne egli, consapevolmente o no, ritorce quell'accusa con gli interessi. Poiché egli non solo descrive un gentiluomo, ma descrive l'interiore debolezza e il pericolo che appartengono a un gentiluomo, il demonio che sempre dilania le viscere di un uomo ozioso e gradevole. Nel perseguimento senza scopo che Eugene fa di [[Lizzie Hexam]], nel suo ancor più insensato tormentare [[Bradley Headstone]], l'autore ha mirabilmente colto quella singolare, vuota ostinazione che guida i capricci e i piaceri di una classe agiata. Egli vede che non v'è nulla cui un tale uomo aderisca più caparbiamente della cosa che egli non ha particolarmente voglia di fare. Siamo ancora nella psicologia seria.
+
+Il suo ultimo libro rappresenta ancora un altro nuovo indirizzo, che lo separa dal caotico Dickens dei tempi assai anteriori. Il suo ultimo libro non è meramente un tentativo di migliorare la propria capacità di costruzione in una storia: è un tentativo di affidarsi interamente a quella capacità di costruzione. Non solo ha un intreccio, esso è un intreccio. «The Mystery of [[Edwin Drood]]», 1870, fu, in tal senso, forse il libro più ambizioso che Dickens abbia mai tentato. È, come tutti sanno, una storia [[Detective|poliziesca]], e certamente assai riuscita, come attesta il tumulto di discussioni sulla sua giusta soluzione. In questo, del tutto a parte il suo stato incompiuto, esso sta, credo, da [[Alone|solo]] fra le opere dell'autore. Altrove, se introduceva un mistero, di rado si prendeva la briga di renderlo molto misterioso. «Bleak [[house|House]]» è finito, ma se fosse soltanto a metà finito credo che chiunque indovinerebbe che [[Lady Dedlock]] e Nemo avevano peccato in passato. «[[Edwin Drood]]» non è finito; poiché proprio nel bel mezzo di esso Dickens morì.
+
+Si era del tutto sfiancato in un'ultima tournée di conferenze in [[America]]. Era un uomo in cui qualsiasi grave malattia avrebbe naturalmente fatto rapidissimi progressi; poiché aveva il temperamento di un malato irrazionale. Ho detto prima che c'era, nel suo curioso carattere, qualcosa di femminile. Certo non c'era nulla di più interamente femminile di questo, che egli lavorava perché era stanco. La fatica generava in lui una falsa e febbrile operosità, e il suo caso si aggravava, come il caso di un uomo che beve per curare gli effetti del bere. Morì nel 1870 e l'intera nazione lo pianse come nessun uomo pubblico è mai stato pianto; poiché primi ministri e prìncipi erano persone private in confronto a Dickens. Era stato un grande [[King|re]] popolare, come un [[King|re]] di qualche età più primordiale che il suo popolo poteva venire a vedere, mentre emetteva giudizi sotto una quercia. Aveva in sostanza tenuto avvinte grandi platee di milioni di persone, e rivolto proclami a più d'una delle nazioni della terra. La sua evidente onnipresenza in ogni parte della vita pubblica era come l'onnipresenza del sovrano. La sua segreta onnipresenza in ogni [[house|casa]] e in ogni capanna della vita privata era più simile all'onnipresenza di una divinità. In confronto a quella guida popolare, tutti i trambusti degli ultimi quarant'anni sono passatempi nell'ozio. In confronto a un caso come il suo si può dire che noi giochiamo coi nostri politici, e riusciamo a sopportare i nostri autori. Non avremo mai più una simile popolarità finché non avremo di nuovo un popolo.
+
+Egli si lasciò dietro questo [[Fragment|frammento]] quasi cupo, «The Mystery of [[Edwin Drood]]». Mentre lo si sfoglia, l'elemento tragico della sua troncatura si mescola alquanto con un elemento di [[Tragedy|tragedia]] nella cosa stessa: l'appassionato e predestinato Landless, o il semi-maniacale Jasper che intaglia demoni dal proprio cuore. La sua fattura è assai fine; la mano destra non solo non ha perduto, ma va ancora acquistando la propria abilità. Ma mentre voltiamo le pagine ora enigmatiche, si insinua di nuovo in noi il pensiero che ho suggerito prima, e che non è mai lontano dalla mente di un vero [[Lover|amante]] di Dickens. Aveva egli perduto o guadagnato con lo sviluppo della tecnica e della verosimiglianza nella sua opera più tarda? I suoi personaggi più tardi erano più simili a uomini; ma i suoi personaggi più antichi non erano forse più simili a immortali? Egli è divenuto capace di eseguire una scena sociale in modo che essa sia in ogni caso possibile; ma dov'è quel Dickens che un tempo eseguiva l'impossibile? Dov'è quel giovane poeta che creò maggiori e architetti quali la [[Nature|Natura]] non oserà mai creare? Dickens imparò a descrivere la vita quotidiana come sapevano descriverla Thackeray e Jane Austen; ma Thackeray non avrebbe potuto pensare un pensiero come Crummles; ed è penoso pensare a Miss Austen che tenti di immaginare Mantalini. Dopotutto, sentiamo che vi sono molti abili romanzieri; ma vi è un solo Dickens, e dove mai è fuggito?
+
+Egli fu vivo fino alla fine. E in quest'ultima oscura e segreta storia di [[Edwin Drood]] egli fa una splendida e strabiliante apparizione, come un mago che dà l'addio all'umanità. Al centro di questo libro per il resto ragionevole e piuttosto [[Melancholy|malinconico]], questa grigia storia di un buon ecclesiastico e delle quiete Torri di Cloisterham, Dickens ha calmamente inserito un passo interamente delizioso e interamente insensato. Intendo il frenetico e inconcepibile epitaffio della signora Sapsea, quello che la descrive come «la moglie reverente» di Thomas Sapsea, parla della sua costanza nel «guardare a lui dal basso», e termina con le parole, così mirabilmente spaziate sulla lapide: «Straniero, férmati. E chiediti questa domanda: sapresti fare altrettanto? Se no, ritìrati arrossendo». Non il più sfrenato dei racconti in [[Pickwick]] contiene un'impossibilità simile a quella; Dickens avrebbe osato a stento introdurla, perfino come una delle menzogne di Jingle. In nessun camposanto umano troverete quell'inestimabile lapide; anzi, la trovereste a stento in un qualsiasi mondo dove esistano camposanti. A stento potreste avere una simile immortale follia in un mondo dove esiste anche la [[Death|morte]]. Il signor Sapsea è una delle cose d'oro conservate per noi in un mondo migliore.
+
+Sì, c'erano molti altri Dickens: un Dickens ingegnoso, un Dickens operoso, un Dickens dallo spirito civico; ma questo era il grande. Quest'ultimo scoppio di insensato [[Humour|umorismo]] ci rammenta in che cosa risiedessero la sua potenza e la sua supremazia. La lode di una simile beatifica buffoneria dovrebbe essere la lode finale, l'ultima parola in suo [[Honour|onore]]. Il selvaggio epitaffio della signora Sapsea dovrebbe essere il serio epitaffio di Dickens.
+
+CAPITOLO X
+
+I GRANDI PERSONAGGI DI DICKENS
+
+Ogni critica tende fin troppo a diventare critica della critica; e la ragione è assai evidente. È che la critica della creazione è cosa tanto sconcertante. Lo vediamo nella difficoltà di criticare una qualsiasi creazione artistica. Lo vediamo di nuovo nella difficoltà di criticare quella creazione che si scrive con la C maiuscola. I pessimisti che assalgono l'Universo si trovano sempre in questo svantaggio. Hanno l'esaltante consapevolezza di poter fare il sole e la [[Moon|luna]] meglio; ma hanno anche la deprimente consapevolezza di non poter fare affatto il sole e la [[Moon|luna]]. Un uomo che guarda un ippopotamo può a volte essere tentato di considerare l'ippopotamo un enorme errore; ma è pure costretto a confessare che una fortunata inferiorità gli impedisce, personalmente, di commettere simili errori. Non è né una bestemmia né un'esagerazione dire che avvertiamo qualcosa della medesima difficoltà nel giudicare l'elemento propriamente creativo della letteratura umana. E questa è la prima e l'ultima dignità di Dickens: che egli fu un creatore. Non additava le cose, le faceva. Possiamo disapprovare il signor Guppy, ma lo riconosciamo come una creazione scagliata giù come un miracolo da una sfera superiore; possiamo farlo a pezzi, ma non avremmo saputo metterlo insieme. Possiamo distruggere la signora Gamp nella nostra collera, ma non avremmo saputo crearla nella nostra gioia. Sotto questo svantaggio deve senza dubbio faticare ogni libro su Dickens. La creazione realmente primaria (come il sole o la nascita di un [[Child|bambino]]) non chiama in causa la critica, né l'apprezzamento, ma una specie di incoerente gratitudine. Ecco perché la maggior parte degli inni a Dio sono cattivi; ed ecco perché la maggior parte degli elogi a Dickens sono cattivi. Gli elogiatori del creatore divino e di quello umano sono ugualmente inclini a sembrare sentimentali, perché parlano di qualcosa di troppo reale. Allo stesso modo le lettere d'[[Love|amore]] suonano sempre fiorite e artificiose, perché parlano di qualcosa di reale.
+
+Ogni capitolo come questo dev'essere perciò, in un certo senso, inadeguato. Non v'è modo di trattare come si deve l'ultima [[Greatness|grandezza]] di Dickens, se non offrendogli sacrifici come a un dio; e ciò contrasta con l'etichetta del nostro [[Time|tempo]]. Ma qualcosa si può forse fare nel senso di suggerire quale fosse la qualità di questa creazione. Eppure, anche considerandone la qualità, dovremmo ricordare che la qualità non è l'intera questione. Una delle cose divine di Dickens è la sua quantità, la sua quantità in quanto tale, l'enorme produzione, l'incredibile fecondità della sua invenzione. Ho detto un momento fa che nessuno di noi avrebbe saputo inventare il signor Guppy. Ma anche se avessimo potuto rubare il signor Guppy a Dickens, resteremmo di fronte al fatto che Dickens sarebbe stato capace di inventare un altro personaggio del tutto inconcepibile per prenderne il posto. Forse avremmo potuto creare il signor Guppy; ma lo sforzo ci avrebbe di certo spossati; per sempre in seguito ci porterebbero in giro su una sedia a rotelle a Bournemouth.
+
+Nondimeno v'è qualcosa che vale la pena dire sulla qualità di Dickens. All'inizio stesso di questa rassegna osservavo che il lettore deve trovarsi, almeno, in una disposizione di [[democracy|democrazia]]. Ad alcuni può essere parso irrilevante; ma la Rivoluzione stava dietro tutti i libri del diciannovesimo secolo tanto quanto la religione cattolica (diciamo pure) stava dietro tutti i colori e gl'intagli del Medioevo. Un altro grande nome del diciannovesimo secolo ce ne offrirà la prova; e ci porterà anche assai nettamente al problema della qualità letteraria di Dickens.
+
+Di tutti questi scrittori del diciannovesimo secolo non ve n'è alcuno, nel senso più nobile, più democratico di Walter Scott. Poiché ciò può essere contestato, e poiché è pertinente, svilupperò l'osservazione. Vi sono due radicate realtà spirituali dalle quali germoglia ogni sorta di concezione democratica o di sentimento dell'uguaglianza umana. Vi sono due cose in cui tutti gli uomini sono manifestamente e inconfondibilmente uguali. Non sono ugualmente intelligenti né ugualmente muscolosi né ugualmente grassi, come i savi della moderna reazione (con acuto discernimento) percepiscono. Ma questa è una certezza spirituale: che tutti gli uomini sono tragici. E anche questa è una certezza spirituale ugualmente [[Sublime|sublime]]: che tutti gli uomini sono comici. Nessun dolore particolare e privato può essere terribile quanto il fatto di dover morire. E nessuna stranezza o deformità può essere buffa quanto il semplice fatto di avere due gambe. Ogni uomo è importante se perde la vita; e ogni uomo è buffo se perde il cappello e deve corrergli dietro. E la prova universale, ovunque, per stabilire se una cosa è popolare, del popolo, è se essa impieghi vigorosamente questi estremi del tragico e del comico. Shelley, per esempio, fu un [[aristocrat|aristocratico]], se mai ve ne fu uno a questo mondo. Era un repubblicano, ma non era un democratico: nella sua poesia v'è ogni perfetta qualità tranne questa pungente e popolare stoccata. Per il tragico e il comico bisogna andare, diciamo, da Burns, un uomo povero. E in tutto il mondo la letteratura del popolo, la letteratura popolare, è la stessa. Consiste di dolore molto dignitoso e di allegria molto indegna. I suoi racconti tristi sono di cuori spezzati; i suoi racconti allegri sono di teste rotte.
+
+Queste, dico, sono due radici della realtà democratica. Ma esse hanno, in una letteratura più civile, un'incarnazione formale più civile. In una letteratura come quella del diciannovesimo secolo i due elementi appaiono press'a poco così. La [[Tragedy|Tragedia]] diventa un profondo senso della dignità umana. L'altro elemento, più gioviale, diventa un deliziato senso della varietà umana. Il primo sostiene l'uguaglianza dicendo che tutti gli uomini sono ugualmente [[Sublime|sublimi]]. Il secondo sostiene l'uguaglianza osservando che tutti gli uomini sono ugualmente interessanti.
+
+In questo aspetto democratico dell'interesse e della varietà di tutti gli uomini non v'è, s'intende, democratico più grande di Dickens. Ma nell'altra faccenda, nell'idea della dignità di tutti gli uomini, ripeto che non v'è democratico più grande di Scott. Questo fatto, che è la magnificenza morale e duratura di Scott, è stato sorprendentemente trascurato. I suoi ricchi e drammatici effetti sono ottenuti in quasi ogni caso da qualche figura [[Grotesque|grottesca]] o pezzente che s'innalza a un umano [[Pride|orgoglio]] e a un'umana retorica. L'[[Common Man|uomo comune]], nel senso di uomo meschino, diventa l'uomo comune nel senso di uomo universale. Egli proclama la propria umanità. Ché la più vile di tutte le modernità è stata l'idea che l'eroico sia una bizzarria o una deviazione, e che le cose che ci uniscono siano semplicemente piatte o sordide. Le cose comuni sono terribili e sconvolgenti, la [[Death|morte]], per esempio, e il primo [[Love|amore]]: le cose che sono comuni sono le cose che non sono banali. In tali alte e centrali passioni il comico personaggio di Scott improvvisamente s'innalza. Si ricordi la ferma e quasi solenne risposta del preposteroso Nicol Jarvie quando [[Helen]] Macgregor cerca d'intimidirlo perché condoni l'illegalità e tradisca la sua borghese decenza. Quel discorso è un grande monumento della classe media. Molière fece parlare in prosa il signor Jourdain; ma Scott lo fece parlare in poesia. Si pensi alla voce che s'innalza e si desta dell'ottuso e goloso Athelstane quando risponde e travolge De Bracy. Si pensi al fiero appello del vecchio mendicante nell'«Antiquario» quando rimprovera i duellanti. Scott amava descrivere re travestiti. Ma tutti i suoi personaggi sono re travestiti. Egli era, con tutti i suoi errori, profondamente compreso dell'antica concezione religiosa, l'unica possibile base democratica, l'idea che l'uomo stesso sia un [[King|re]] travestito.
+
+In tutto ciò Scott, benché monarchico e Tory, aveva nel modo più strano il cuore della Rivoluzione. Per esempio, considerava la retorica, l'arte dell'oratore, come l'arma immediata degli oppressi. Tutti i suoi uomini poveri fanno grandi discorsi, come li facevano al Club Giacobino, che Scott avrebbe tanto detestato. Ed è curioso riflettere che egli, come autore, concedeva libera parola a ribelli fittizi, mentre, come stupido politico, la negava a quelli reali. Ma il punto che qui ci riguarda è questo: che tutta questa sua simpatia popolare posa sulla base più grave, sulla cupa dignità dell'uomo. «Non trovate alcun modo?» chiede Sir [[arthur|Arthur]] Wardour al mendicante quando la marea li ha tagliati fuori. «Vi darò una fattoria... vi farò ricco.» ... «Presto le nostre ricchezze saranno pari», dice il mendicante, e volge lo sguardo verso il mare che avanza.
+
+Ora, mi sono soffermato su questo punto forte di Scott perché è la migliore illustrazione dell'unico punto debole di Dickens. Dickens aveva poco o nulla di questo senso della sublimità nascosta d'ogni singolo uomo. Il senso della [[democracy|democrazia]] di Dickens era interamente dell'altro genere; posava sull'altro dei due sostegni di cui ho parlato. Posava sul senso che tutti gli uomini fossero selvaggiamente interessanti e selvaggiamente vari. Quando un personaggio di Dickens si eccita, diventa sempre più se stesso. Non diventa, come il mendicante di Scott, sempre più uomo. Man mano che s'innalza, cresce sempre più in un doccione o in una figura [[Grotesque|grottesca]]. Non diventa, come il bell'oratore di Scott, più classico man mano che diventa più appassionato, più universale man mano che diventa più intenso. La cosa si può illustrare soltanto con un caso particolare. Dickens fece più d'una volta, s'intende, che uno dei suoi personaggi bizzarri o umili si affermasse in una crisi seria o sfidasse i potenti. V'è, per esempio, la scena assolutamente ammirevole in cui [[Susan Nipper]] (una delle più grandi conquiste di Dickens) affronta e rimprovera il signor Dombey. Ma resta pur vero (e assai appropriato nel suo luogo e nella sua maniera) che [[Susan Nipper]] rimane un personaggio puramente comico per tutto il suo discorso, e anzi diventa più comica man mano che va avanti. È più seria del solito nel significato, ma non più seria nello stile. Dickens conserva la naturale parlata della Nipper, ma la fa diventare sempre più «nipperesca» man mano che si scalda. Scott invece conserva la naturale parlata del Baillie Jarvie, ma insensibilmente ne rasserena e ne innalza lo stile finché non raggiunge un'eloquenza semplice e appropriata. Questa eloquenza semplice e appropriata era (tranne che in pochi luoghi verso la fine del «[[Pickwick]]») quasi ignota a Dickens. Ogni volta che faceva parlare i suoi personaggi comici di sentimento in modo comico, come nel caso di Susan, era un [[success|successo]], ma un [[success|successo]] dichiaratamente stravagante. Ogni volta che faceva parlare i personaggi comici di sentimento sul serio, era un fallimento stravagante. L'[[Humour|umorismo]] era il suo mezzo; il suo unico modo di accostarsi all'emozione. Ovunque non si trovi l'[[Humour|umorismo]], si trova l'[[Humour|umorismo]] inconsapevole.
+
+Come ho detto altrove in questo libro, Dickens era profondamente e radicalmente inglese; il più inglese dei nostri grandi scrittori. E v'è qualcosa di assai inglese in questo appagamento in una [[democracy|democrazia]] [[Grotesque|grottesca]]; e in questa assenza dell'eloquenza e dell'elevatezza di Scott. La [[democracy|democrazia]] inglese è la più umoristica [[democracy|democrazia]] del mondo. La [[democracy|democrazia]] scozzese è la più dignitosa, mentre tutto l'abbandono e il genio satirico della plebe inglese vengono dal suo essere in ogni modo del tutto priva di dignità. Un confronto tra i due tipi si potrebbe trovare, per esempio, accostando un capo laburista scozzese come il signor Keir Hardie a un capo laburista inglese come il signor Will Crooks. Ambedue sono uomini buoni, onesti, responsabili e pieni di compassione; ma possiamo sentire che lo scozzese si porta con serietà e universalità, l'inglese con personale e ostinato [[Humour|umorismo]]. Il signor Keir Hardie desidera tener alta la testa come Uomo, il signor Crooks desidera seguire il proprio naso come Crooks. Il signor Keir Hardie somiglia molto a un uomo povero di Walter Scott. Il signor Crooks somiglia molto a un uomo povero di Dickens.
+
+Dickens aveva dunque questo sentimento inglese di una [[democracy|democrazia]] [[Grotesque|grottesca]]. Con ciò s'intende più propriamente una [[democracy|democrazia]] immensamente varia. L'inebriante varietà degli uomini: ecco la sua visione e la sua concezione della fratellanza umana. E certamente essa è gran parte della fratellanza umana. In un certo senso le cose possono essere uguali solo se sono interamente diverse. Così, per esempio, la gente discorre con gravità del tutto sorprendente della disuguaglianza o dell'uguaglianza dei sessi; come se potesse mai esservi disuguaglianza tra una serratura e una chiave. Ovunque non vi sia elemento di varietà, ovunque tutti gli elementi abbiano letteralmente un identico fine, sorge subito e per necessità la disuguaglianza. Una donna è inferiore all'uomo soltanto nel non essere altrettanto virile; in nient'altro è inferiore. L'uomo è inferiore alla donna in quanto non è una donna; non v'è altra ragione. E lo stesso vale in qualche misura per tutte le differenze genuine. È un grave errore supporre che l'[[Love|amore]] unisca e unifichi gli uomini. L'[[Love|amore]] li diversifica, perché l'[[Love|amore]] è rivolto verso l'individualità. La cosa che davvero unisce gli uomini e fa che si somiglino l'un l'altro è l'odio. Così, per esempio, quanto più [[Love|amiamo]] la [[Germany|Germania]], tanto più saremo lieti che la [[Germany|Germania]] sia qualcosa di diverso da noi, che conservi il proprio rituale e la propria convivialità e noi i nostri. Ma quanto più odiamo la [[Germany|Germania]], tanto più copieremo i cannoni tedeschi e le fortificazioni tedesche per armarci contro la [[Germany|Germania]]. Quanto più le nazioni moderne si detestano, tanto più mansuete si imitano a vicenda; ché ogni competizione è nella sua [[Nature|natura]] soltanto un furioso plagio. Come la competizione significa sempre somiglianza, così è ugualmente vero che la somiglianza significa sempre disuguaglianza. Se ogni cosa tenta di essere verde, alcune cose saranno più verdi di altre; ma v'è un'immortale e indistruttibile uguaglianza tra il verde e il rosso. Qualcosa dello stesso genere d'irrefutabile uguaglianza esiste tra le violente e variabili creazioni di uno scrittore come Dickens. Sono tutte ugualmente estatiche realizzazioni di una separata linea di sviluppo. Sarebbe difficile dire che possa esservi confronto o disuguaglianza, mettiamo, tra il signor Sapsea e il signor Elijah Pogram. Si trovano entrambi nella stessa difficoltà; nessuno dei due riesce a esistere in questo mondo; sono entrambi troppo grossi per la porta della nascita.
+
+Dell'alta virtù di questa variazione parlerò più adeguatamente tra un momento; ma certamente questo [[Love|amore]] della mera variazione (che ho contrapposto al classicismo di Scott) è l'unico intelligente enunciato dell'accusa comune contro l'esagerazione di Dickens. Questo è il significato, l'unico significato sano o tollerabile, che la gente ha in mente quando dice che Dickens è un mero caricaturista. Non intendono semplicemente che lo zio Pumblechook non esiste. Un personaggio fittizio non dovrebbe essere una persona che esiste; dovrebbe essere una combinazione interamente nuova, un'aggiunta alle creature già esistenti sulla terra. Non intendono che lo zio Pumblechook non potrebbe esistere; giacché di questo, evidentemente, non possono avere alcuna conoscenza. Non intendono che le espressioni dello zio Pumblechook siano selezionate e disposte in modo da far risaltare la sua essenziale «pumblechookeria»; dire ciò equivale semplicemente a dire che egli compare in un'opera d'arte. Ma ciò che davvero intendono è questo, e v'è in esso un elemento di [[Truth|verità]]. Intendono che Dickens in nessun luogo fa sentire al lettore che Pumblechook abbia una qualche sorta di fondamentale dignità umana. In nessun luogo si suggerisce che Pumblechook un giorno morirà. Lo si avverte piuttosto come una di quelle folletti oziosi e maligni, che sono innocui eppure malefici, e che vivono in eterno perché non vivono mai davvero. Questa vitalità disumanata, questa fantasia, questa irresponsabilità della creazione appartiene, in un certo senso, veramente a Dickens. È il lato inferiore della sua ilare varietà umana. Ma ora giungiamo al lato superiore della sua varietà umana, ed è assai più difficile da enunciare.
+
+Il signor George Gissing, dal punto di vista dell'intellettualismo passeggero dei nostri giorni, ha rivolto (fra i suoi molti saggi tributi a Dickens) un caratteristico rimprovero. Ha detto che Dickens, con tutta la sua indubbia simpatia per le classi inferiori, non fece mai di un lavoratore, di un uomo povero, un essere specificamente e altamente intellettuale. Un'eccezione tuttavia esiste, e almeno dovette rendersene conto: uno spirito arguto, un diplomatico, un grande filosofo. Intendo, s'intende, il signor Weller. In generale, però, l'accusa contiene una [[Truth|verità]], benché sia una [[Truth|verità]] che il signor Gissing non colse nella sua interezza. Non è soltanto vero che Dickens fece di rado d'un personaggio povero ciò che chiamiamo un intellettuale; è anche vero che fece di rado di un qualsiasi personaggio ciò che chiamiamo un intellettuale. L'intellettualismo non era affatto presente alla sua [[Imagination|immaginazione]]. Ciò che era presente alla sua [[Imagination|immaginazione]] era il carattere: cosa che non solo è più importante dell'intelletto, ma è anche assai più divertente. Quando certi moralisti inglesi scrivono dell'importanza di avere carattere, sembrano intendere soltanto l'importanza di avere un carattere noioso. Ma il carattere è più brillante dell'arguzia, e assai più complesso della sofisticheria. Tutta la superiorità della [[democracy|democrazia]] di Dickens sulla [[democracy|democrazia]] di un uomo come Gissing sta esattamente nel fatto che Gissing avrebbe voluto dimostrare che gli uomini poveri potevano istruirsi e potevano istruire gli altri. Per Dickens era d'importanza somma che gli uomini poveri potessero divertirsi e potessero divertire lui. Poco s'inquietava della mera [[Education|istruzione]] di quella vita; ne dichiarava due cose essenziali: che era ridicola, e che era vivibile. Gli umili personaggi di Dickens non si divertono a vicenda con gli epigrammi; si divertono a vicenda con se stessi. Il dono che ciascuno porta in mano è la propria incredibile personalità. Nel senso più sacro, e nel senso più letterale della frase, egli «dà via se stesso». Ora, l'uomo che dà via se stesso compie l'estremo atto di generosità; è come un martire, un [[Lover|amante]] o un monaco. Ma è anche quasi certamente ciò che comunemente chiamiamo uno [[Fool|sciocco]].
+
+La chiave dei grandi personaggi di Dickens è che sono tutti grandi sciocchi. V'è la stessa differenza tra un grande [[Fool|sciocco]] e un piccolo [[Fool|sciocco]] che v'è tra un grande poeta e un piccolo poeta. Il grande [[Fool|sciocco]] è un essere che sta al di sopra della saggezza, piuttosto che al di sotto di essa. Quell'elemento di [[Greatness|grandezza]] di cui parlavo all'inizio di questo libro non è in nessun luogo indicato più chiaramente che in tali personaggi. Un uomo può essere interamente grande mentre è interamente sciocco. Lo vediamo negli eroi [[Epic|epici]], come [[Achilles|Achille]]. Anzi, un uomo può essere interamente grande perché è interamente sciocco. Lo vediamo in tutti i grandi personaggi comici di tutti i grandi scrittori comici, dei quali Dickens fu l'ultimo. [[Bottom]] il Tessitore è grande perché è sciocco; il signor Toots è grande perché è sciocco. La cosa che intendo si può osservare, per esempio, in innumerevoli personaggi reali. Chi di noi non ha conosciuto, per esempio, un grande villico?—un carattere così incurabilmente caratteristico da sembrare rompere tutti i canoni sull'intelligenza o sulla stupidità; non sappiamo se sia un enorme idiota o un enorme filosofo; sappiamo solo che è enorme, come una [[Hill|collina]]. Questi grandi personaggi [[Grotesque|grotteschi]] si trovano quasi esclusivamente là dove Dickens li trovò: fra le classi più povere. La gente altolocata attinge questa [[Greatness|grandezza]] solo diventando un po' matta. Ma chi non ha conosciuto un'insondabilmente personale vecchia [[Nurse|balia]]? Chi non ha conosciuto un abissale maggiordomo? La [[Truth|verità]] è che la nostra vita pubblica consiste quasi esclusivamente di piccoli uomini. I nostri uomini pubblici sono piccoli perché devono dimostrare di essere, nell'interpretazione corrente, intelligenti, perché devono superare esami, imparare codici di buone maniere, imitare un tipo prestabilito. È nella vita privata che troviamo i grandi personaggi. Sono troppo grandi per entrare nel mondo pubblico. È più facile che un cammello passi per la cruna di un ago, che un grand'uomo entri nei regni della terra. La personalità veramente grande e sfarzosa, colui che parla come nessun altro saprebbe parlare e sente con un elementare [[Fire|fuoco]], quest'uomo non lo troverete mai su alcun banco ministeriale, in alcun circolo letterario, ad alcun pranzo di società. Meno che mai lo troverete nella società artistica; è del tutto ignoto in Bohème. È più che intelligente, è divertente. È più che riuscito, è vivo. Lo troverete arenato qua e là in ogni sorta d'ignote posizioni, quasi sempre in posizioni fallimentari. Lo troverete alla deriva come uno squattrinato commesso viaggiatore, come Micawber. Lo troverete come uno di un branco di sciocchi scrivani, come Swiveller. Lo troverete come un attore fallito, come Crummles. Lo troverete come un medico fallito, come Sawyer. Ma troverete sempre questa ricca e fragrante personalità là dove Dickens la trovò: fra i poveri. Ché la gloria di questo mondo è cosa assai piccola e pedante, e questi uomini sono troppo grandi per mettersi in fila con essa. Sono troppo forti per vincere.
+
+È impossibile rendere giustizia a queste figure, perché ciò che è essenziale in esse è la loro molteplicità. Tutto il senso di Dickens è che egli non solo le creò, ma le creò a miriadi; che batté il piede, ed eserciti uscirono dalla terra. Ma prendiamone una, per amor di mostrare il vero metodo di Dickens, una assai [[Sublime|sublime]], Toots. Egli offre un buon esempio del vero lavoro di Dickens, che consisteva nel rivelare una certa [[Grotesque|grottesca]] [[Greatness|grandezza]] all'interno di un tipo oscuro e persino sgradevole. Rivela il grande [[Paradox|paradosso]] di tutte le cose spirituali: che l'interno è sempre più grande dell'esterno.
+
+Toots è un tipo che tutti conosciamo [[Well|bene]] quanto conosciamo i comignoli. E di tutte le figure umane concepibili è, in apparenza, la più futile e la più insulsa. È lo zuccone che si trattiene troppo a lungo in un collegio privato, cresciuto troppo e sviluppato troppo poco. È sempre indietro nelle lezioni, ma avanti in certi spicci modi del mondo; sa fumare prima di saper compitare. Toots è un ritratto perfetto e pungente del giovane infelice. Toots ha, come sempre ha questo tipo di giovane, un po' di denaro suo; abbastanza da sciupare in una semi-dissipazione che non gode, e in un ammirato stupore per gli sport in cui non potrebbe in alcun modo eccellere. Toots ha, come sempre ha questo giovane, brandelli di clandestina eleganza, nel suo caso l'incomparabile anello. In Toots, soprattutto, è resa con esattezza la centrale e più sorprendente contraddizione; il contrasto tra una spavalderia e una certa sfrontatezza dell'abbigliamento, e la profonda vergogna e timidezza del volto e del carattere. In lui, inoltre, è espresso il più ampio contrasto tra l'esteriore gaiezza delle occupazioni di un simile ragazzo, e l'infinita, sconsolata tristezza dei suoi occhi vuoti. Questo è Toots; lo conosciamo, lo compatiamo, e lo evitiamo. I maestri lo trattano con [[Despair|disperazione]] o con una pazienza che spezza il cuore. La sua famiglia è vaga sul suo conto. I suoi scrocconi di bassa lega (come il Game Chicken) lo menano per il naso. Gli stessi parassiti che vivono a sue spese lo disprezzano. Ma Dickens non lo disprezza. Senza negare uno solo dei tetri particolari che ci fanno evitare quest'uomo, Dickens ne fa un uomo che ardiamo dall'incontrare. Non sorvola su una sola delle sue squallide manchevolezze, ma le fa d'un tratto sembrare violente virtù, che andremmo in capo al mondo per vedere. Senza alterare un solo fatto, riesce ad alterare l'intera atmosfera, l'intero universo di Toots. Ci fa non solo simpatizzare con questo piccolo somaro e villano, ma [[Love|amarlo]], e non solo [[Love|amarlo]], ma riverirlo. Il potere di far ciò è un potere che si può veramente e letteralmente chiamare divino.
+
+Poiché questo è il punto assai salubre. Dickens non altera Toots in alcun punto vitale. La cosa che egli altera siamo noi. Ci rende vivaci dov'eravamo annoiati, buoni dov'eravamo crudeli, e soprattutto liberi per un universale riso umano dov'eravamo costretti in una piccola competizione intorno a quella cosa triste e solenne, l'intelletto. Il suo entusiasmo ci colma, come fa l'[[Love|amore]] di Dio, di una gloriosa vergogna; dopo tutto, egli ha trovato in Toots soltanto ciò che avremmo potuto trovare da noi stessi. Ci ha soltanto reso interessati a Toots quanto Toots è interessato a se stesso. Non altera le proporzioni di Toots; altera soltanto la scala; è come se fissassimo un topo cresciuto alla statura di un elefante. Finora gli siamo passati accanto; ora sentiamo che nulla potrebbe indurci a passargli accanto; questo è il modo più prossimo di dire la [[Truth|verità]]. Non è stato imbiancato affatto; non è stato dipinto più intelligente di quanto sia. È stato trasformato da un piccolo [[Fool|sciocco]] in un grande [[Fool|sciocco]]. Sappiamo che Toots non è intelligente; ma non siamo inclini a litigare con Toots perché non è intelligente. Siamo più propensi a litigare con l'intelligenza perché non è Toots. Tutti gli esami che egli non poté superare, tutte le scuole in cui non poté entrare, tutte le prove temporanee di cervello e di cultura che lo circondavano passeranno, e Toots resterà come una montagna.
+
+Si può notare che i grandi artisti scelgono sempre grandi sciocchi anziché grandi intellettuali per incarnare l'umanità. [[Hamlet|Amleto]] esprime bensì i [[Dreams|sogni]] estetici e gli smarrimenti dell'intelletto; ma [[Bottom]] il Tessitore li esprime assai meglio. Allo stesso modo Toots esprime certe permanenti dignità della [[Nature|natura]] umana più di quanto sappia farlo qualunque personaggio più dignitoso di Dickens. Per esempio, Toots esprime mirabilmente il perdurante [[Fear|timore]], che è l'essenza stessa del cadere in [[Love|amore]]. Quando Toots è invitato da Florence a entrare, quando anela a entrare, ma pure resta fuori, egli incarna una sorta d'insana e perversa [[Humility|umiltà]] che è elementare nell'[[Lover|amante]].
+
+V'è un'ingiunzione apostolica a sopportare gli sciocchi con gioia. Poniamo sempre l'accento sulla parola «sopportare», e interpretiamo il passo come uno che esorta alla [[Resignation|rassegnazione]]. Sarebbe forse meglio porre l'accento sulla parola «gioia», e fare della nostra dimestichezza con gli sciocchi un diletto, e quasi una dissipazione. Né è necessario che il nostro piacere negli sciocchi (o almeno nei grandi e divini sciocchi) sia meramente satirico o crudele. Il grande [[Fool|sciocco]] è colui in cui non sappiamo distinguere quale sia l'[[Humour|umorismo]] consapevole e quale l'inconsapevole; ridiamo con lui e ridiamo di lui allo stesso [[Time|tempo]]. Un ovvio esempio è quello del [[Marriage|matrimonio]] ordinario e felice. Un uomo e una donna non possono vivere insieme senza avere l'uno contro l'altro una sorta di scherzo eterno. Ciascuno ha scoperto che l'altro è uno [[Fool|sciocco]], ma un grande [[Fool|sciocco]]. Questa larghezza, questa grossolanità e sfarzosità della follia è la cosa che tutti riscontriamo in coloro con cui siamo in intimo contatto; ed è l'unica duratura base dell'affetto, e persino del rispetto. Quando conosciamo un individuo chiamato Tomkins, sappiamo che è riuscito là dove tutti gli altri hanno fallito; è riuscito a essere Tomkins. Proprio così riuscì il signor Toots; fu sconfitto in tutti gli esami scolastici, ma fu il vincitore in quella visionaria battaglia in cui ignoti competitori tentarono invano di essere Toots.
+
+Se dobbiamo cercare lezioni, qui almeno v'è l'ultima e più profonda lezione di Dickens. È nella nostra stessa vita quotidiana che dobbiamo cercare i portenti e i prodigi. Questa è la [[Truth|verità]], non soltanto delle figure fisse della nostra vita; la moglie, il marito, lo [[Fool|sciocco]] che riempie il cielo. È vera dell'intero corso e sostanza della nostra esperienza quotidiana; a ogni istante respingiamo un grande [[Fool|sciocco]] soltanto perché è sciocco. Ogni giorno trascuriamo dei Toots e degli Swiveller, dei Guppy e dei Jobling, dei Simmery e dei Flasher. Ogni giorno perdiamo l'ultima veduta di Jobling e di Chuckster, del Chimico Analitico, o della [[Marchioness|Marchesina]]. Ogni giorno ci sfugge un [[Monster|mostro]] che potremmo facilmente [[Love|amare]], e un imbecille che certamente ammireremmo.
+
+Questo è il vero vangelo di Dickens; le inesauribili occasioni offerte dalla libertà e dalla varietà dell'uomo. In confronto a questa vita, ogni vita pubblica, ogni fama, ogni saggezza è per sua [[Nature|natura]] angusta e fredda e piccola. Ché su quel definito e illuminato palcoscenico pubblico gli uomini sono per necessità costretti a professare un solo insieme di abilità, a innalzarsi a un unico rigido modello. Sono le persone del tutto ignote che possono crescere in ogni direzione come un albero rigoglioso. È nelle nostre vite interiori che scopriamo che le persone sono troppo se stesse. È nella nostra vita privata che le troviamo gonfiarsi negli enormi contorni, e assumere i colori della caricatura. Molti di noi vivono pubblicamente con inespressivi burattini pubblici, immagini delle piccole astrazioni pubbliche. È quando varchiamo il nostro cancello privato, e apriamo la nostra segreta porta, che entriamo nella terra dei giganti.
+
+CAPITOLO XI
+
+DEL PRESUNTO OTTIMISMO DI DICKENS
+
+In una delle commedie del periodo decadente, un intellettuale esprimeva
+l'atmosfera della sua epoca alludendo a Dickens come a «un volgare ottimista».
+In un capitolo precedente ho accennato a qualcosa della reale
+stranezza di una simile espressione. In fondo, il principale motivo di stupore
+(o piuttosto di ammirazione) è che l'ottimismo possa essere volgare.
+In un mondo nel quale la sofferenza fisica è quasi la sorte comune,
+ci lamentiamo davvero che la felicità sia troppo comune. In un mondo
+nel quale la maggioranza è fisicamente miserabile, ci lamentiamo davvero
+della monotonia della lode; siamo annoiati dall'abbondanza dell'approvazione.
+Quando consideriamo quali siano realmente le condizioni del volgo,
+è difficile immaginare un tributo più strano o più splendido
+all'umanità di una frase come volgare ottimismo.
+È come se si parlasse di «volgare [[Martyrdom|martirio]]» o di «comune crocifissione».
+
+Prima di tutto, però, sia detto francamente che c'è un fondamento
+per l'accusa mossa a Dickens, quella implicita nella frase sul
+volgare ottimismo. Essa non riguarda la fiducia di Dickens
+nel valore dell'esistenza e nell'intrinseca vittoria della virtù;
+questo non è ottimismo, ma religione. Non riguarda la sua
+abitudine di rendere luminose le occasioni luminose, e felici le storie felici;
+questo non è ottimismo, ma letteratura. E non riguarda neppure il suo
+peculiare genio nel descrivere una giovialità quasi gonfia e traboccante;
+questo non è ottimismo, è semplicemente Dickens. Di tutte queste più alte
+variazioni dell'ottimismo tratto altrove. Ma al di sopra e al di là
+di tutte queste, c'è un senso reale in cui Dickens si espose
+all'accusa di volgare ottimismo, e [[Desire|desidero]] premettere
+questa ammissione, prima della discussione che segue.
+Dickens aveva davvero la disposizione a rendere i suoi personaggi a ogni costo
+felici, o, per dire più esattamente, aveva la disposizione a renderli
+comodi piuttosto che felici. Aveva una sorta di ospitalità letteraria;
+troppo spesso trattava i suoi personaggi come se fossero suoi ospiti.
+Da un padrone di casa ci si aspetta sempre, e ci si deve sempre aspettare
+finché la civiltà umana è sana, una benevolenza strettamente fisica,
+se volete, una specie di rozza benevolenza. Il cibo e il [[Fire|fuoco]] e simili
+cose dovrebbero sempre essere i simboli dell'uomo che accoglie gli uomini;
+perché sono cose che tutti gli uomini, senza dubbio, hanno in comune.
+Ma qualcosa di più di questo si richiede da un uomo che immagina
+e crea uomini, l'[[Artist|artista]], l'uomo che non riceve uomini,
+ma piuttosto li manda per il mondo.
+
+Come osserverò tra un momento a proposito dei malvagi di Dickens,
+non è vero che rendesse ognuno così a proprio [[Home|agio]].
+Ma lo fece con una certa larga classe di personaggi disparati,
+lo fece con tutti coloro che fossero stati in qualche modo sventurati.
+Ciò aveva avuto la sua origine (un'origine bellissima) nella sua
+consapevolezza di quanto un piccolo piacere fosse tutto, per gente simile.
+Sapeva [[Well|bene]] che la più grande felicità che si sia conosciuta dai tempi
+dell'Eden è la felicità degli infelici. In questo è ammirevole.
+E finché descriveva l'estasi dei poveri,
+la terra di confine tra il [[Pain|dolore]] e il piacere, era al suo massimo.
+Nulla di ciò che sia mai stato scritto sui piaceri umani,
+nessun Paradiso Terrestre, nessuna Utopia si è mai avvicinato tanto al nervo
+vivo della felicità quanto le sue descrizioni delle rare stravaganze
+dei poveri; una descrizione mirabile, per esempio,
+come quella di [[Kit Nubbles]] che porta la famiglia a teatro.
+Perché egli coglie la vera fonte dell'intero piacere: un santo [[Fear|timore]].
+Kit dice al cameriere di portare la birra. E il cameriere,
+invece di dire: «Sarebbe a me che rivolgete codesto linguaggio?»,
+disse: «Un boccale di birra, signore; subito, signore». Quell'interna e tremante
+[[Humility|umiltà]] di Kit è l'unico modo di godersi la vita o i banchetti;
+e il [[Fear|timore]] del cameriere è il principio del pranzare.
+Chi si trova in questo stato d'animo «prende i propri piaceri con tristezza»;
+il che è l'unico modo di prenderli davvero.
+
+Fin qui Dickens ha supremamente ragione. Finché ebbe a che fare
+con tale penuria e tale festa, il suo tocco era quasi
+invariabilmente sicuro. Ma quando venne a casi più difficili,
+a persone che per una ragione o per l'altra non potevano essere guarite con
+una sola buona cena, sviluppò quest'altro male, questo genuinamente
+volgare ottimismo di cui parlo. E il suo segno è questo:
+che dava ai personaggi un conforto che non aveva alcuna speciale
+connessione con loro stessi; scagliava loro il conforto come un'elemosina.
+Vi sono casi, alla fine delle sue storie, in cui la sua gentilezza
+verso i personaggi è una gentilezza sbadata e insolente.
+Egli perde la sua vera [[Charity|carità]] e adotta la [[Charity|carità]] della
+Società per l'Organizzazione della [[Charity]]; la [[Charity|carità]] che non è benigna,
+la [[Charity|carità]] che si gonfia e che si comporta in modo sconveniente.
+Alla fine di alcune delle sue storie, distribuisce ai suoi personaggi
+una specie di assistenza a domicilio.
+
+Darò due esempi. L'intero significato del personaggio
+del signor Micawber è che un uomo può essere sempre quasi ricco aspettandosi
+costantemente la ricchezza. La lezione è davvero importante nella nostra travolgente
+sociologia moderna. Parliamo dell'uomo la cui vita è un fallimento;
+ma la vita di Micawber non è mai un fallimento, perché è sempre una crisi.
+Pensiamo di continuo all'uomo che, se guardasse indietro, vedrebbe che
+la sua esistenza è stata un insuccesso; ma Micawber non guarda mai indietro;
+guarda sempre avanti, perché l'ufficiale giudiziario arriva domani.
+Non si può dire che sia sconfitto, perché la sua assurda battaglia non finisce mai;
+non può [[Despair|disperare]] della vita, perché è troppo occupato a viverla.
+Tutto ciò è di immensa importanza nella comprensione dei poveri;
+vale più di tutti i romanzieri dei bassifondi che abbiano mai insultato la [[democracy|democrazia]].
+Ma come accadde che l'uomo che creò questo Micawber
+potesse mandarlo in pensione alla fine della storia e farne
+un fortunato sindaco coloniale? Micawber non ebbe mai successo,
+né mai dovrebbe averne; il suo regno non è di questo mondo.
+Ma questo è un eccellente esempio della disposizione di Dickens
+a rendere i suoi personaggi grossolanamente e incongruamente comodi.
+C'è un altro esempio nello stesso libro. Dora, la prima moglie
+di [[David Copperfield]], è una figura assai genuina e divertente; ha
+certamente ben più forza di carattere di Agnes. Essa rappresenta
+l'infinita e divina irrazionalità del cuore umano.
+Cosa mai spinse Dickens a farne una tale pedante disumanizzata
+da raccomandare al marito di sposare un'altra donna?
+Si potrebbe facilmente rispettare un marito che dopo il [[Time|tempo]] e l'evoluzione
+contraesse un simile [[Marriage|matrimonio]], ma certo non una moglie che lo desiderasse.
+Se Dora fosse morta odiando Agnes, sapremmo che tutto
+era giusto, e che Dio riconcilierebbe l'inconciliabile.
+Quando Dora muore raccomandando Agnes, sappiamo che tutto è sbagliato,
+almeno se l'ipocrisia, l'artificiosità e la volgarità morale sono sbagliate.
+Anche qui Dickens cede a un mero [[Desire|desiderio]] di dare conforto.
+Vuole ammucchiare cuscini attorno a Dora; e la soffoca
+con essi, come [[Othello]].
+
+Questo è il vero volgare ottimismo di Dickens: esiste davvero; e l'ho
+deliberatamente messo per primo. Ammettiamo che la mente di Dickens fosse fin
+troppo colma di immagini di soddisfazione, di agio e di riposo.
+Ammettiamo che pensasse principalmente ai piaceri delle
+classi oppresse; ammettiamo che non gli costasse quasi alcuno spasimo
+artistico raffigurare gli esseri umani assai più felici di quanto siano.
+Ammettiamo tutto questo, e resta un fatto curioso.
+
+Poiché fu proprio questo Dickens troppo facilmente appagato, quest'uomo con cuscini
+alle spalle e (talvolta pare) bambagia nelle orecchie;
+fu proprio questo felice sognatore, questo volgare ottimista che [[Alone|solo]]
+fra gli scrittori moderni davvero distrusse alcuni dei torti
+che odiava e attuò alcune delle riforme che desiderava.
+Dickens contribuì davvero ad abbattere le prigioni per debitori; e se fu
+troppo ottimista, fu comunque abbastanza distruttore.
+Dickens cacciò davvero Squeers dal suo covo nello Yorkshire;
+e se Dickens era troppo appagato, lo era più di quanto lo fosse Squeers.
+Dickens lasciò davvero il suo segno sul parrocchialismo, sulla cura degli infermi,
+sui funerali, sulle esecuzioni pubbliche, sugli ospizi dei poveri, sulla [[Court|Corte]]
+di Cancelleria. Queste cose furono mutate; sono diverse.
+Può darsi che tali riforme non siano rimedi adeguati;
+ma questa è tutt'altra questione. I sociologi futuri
+potranno giudicare queste vecchie riforme radicali assai anguste o accidentali.
+Ma quali che fossero, i vecchi radicali le portarono a compimento;
+e i nuovi sociologi non riescono a portare a compimento nulla.
+E nel loro pratico compimento Dickens ebbe una parte solida e del tutto
+dimostrabile; questa è la cosa evidente che qui ci riguarda.
+Se Dickens era un ottimista, era un tipo di ottimista straordinariamente attivo
+e utile. Se Dickens era un sentimentale, era
+un sentimentale assai pratico.
+
+E la ragione di ciò è una che affonda in profondità nella [[Reform|riforma]] sociale di Dickens,
+e, come ogni altra cosa reale e desiderabile, implica una specie
+di contraddizione mistica. Se vogliamo salvare l'oppresso, dobbiamo
+avere in noi due emozioni apparentemente antagoniste nello stesso [[Time|tempo]].
+Dobbiamo pensare l'uomo oppresso intensamente miserabile, e nello stesso [[Time|tempo]]
+intensamente attraente e importante. Dobbiamo insistere con violenza sulla
+sua degradazione; dobbiamo insistere con la stessa violenza sulla sua dignità.
+Poiché se allentiamo di un pollice la prima asserzione, gli uomini diranno che egli non
+ha bisogno di essere salvato. E se allentiamo di un pollice l'altra asserzione,
+gli uomini diranno che non vale la pena di salvarlo. Gli ottimisti diranno che la [[Reform|riforma]]
+è inutile. I pessimisti diranno che la [[Reform|riforma]] è senza speranza.
+Dobbiamo applicare entrambe simultaneamente allo stesso uomo oppresso;
+dobbiamo dire che è un verme e un dio; e dobbiamo così esporci
+all'accusa (o al complimento) di trascendentalismo.
+Questo è, in verità, l'argomento più forte a favore della concezione
+religiosa della vita. Se la dignità dell'uomo è una dignità terrena, saremo
+tentati di negare la sua degradazione terrena. Se è una dignità
+celeste, possiamo ammettere la degradazione terrena con tutto il candore
+di Zola. Se siamo idealisti riguardo all'altro mondo, possiamo
+essere realisti riguardo a questo mondo. Ma non è questo il punto.
+Ciò che è del tutto evidente è che, se una lode logica del povero
+viene spinta troppo oltre, e se un logico affanno per lui viene spinto troppo oltre,
+l'una o l'altro comporteranno la rovina del [[Paradox|paradosso]] centrale della [[Reform|riforma]].
+Se il povero è reso troppo ammirevole, cessa di essere pietoso;
+se il povero è reso troppo pietoso, diventa semplicemente spregevole.
+C'è una scuola di compiaciuti ottimisti che negheranno ch'egli sia un povero.
+C'è una scuola di scientifici pessimisti che negheranno ch'egli sia un uomo.
+
+Da questa perenne contraddizione nasce il fatto che vi
+sono sempre due tipi di riformatore. Il primo possiamo chiamarlo per
+comodità il pessimista, il secondo l'ottimista. L'uno si sofferma
+sul fatto che delle anime vanno perdute; l'altro si sofferma
+sul fatto che vale la pena di salvarle. Entrambi, naturalmente, hanno (per
+quanto concerne questo punto) del tutto ragione, ma tendono naturalmente a una
+differenza di metodo, e talvolta a una differenza di percezione.
+Il riformatore pessimista addita gli elementi buoni che l'oppressione
+ha distrutto; il riformatore ottimista, con gioia ancor più feroce,
+addita gli elementi buoni che essa non ha distrutto.
+È la tesi del primo riformatore che la [[Slavery|schiavitù]] abbia reso gli uomini servili.
+È la tesi del secondo riformatore che la [[Slavery|schiavitù]] non abbia reso
+gli uomini servili. Il primo descrive quanto malvagi siano gli uomini in cattive condizioni.
+Il secondo descrive quanto buoni siano gli uomini in cattive condizioni.
+Della prima classe di scrittori, per esempio, è Gorky. Della seconda
+classe di scrittori è Dickens.
+
+Ma qui dobbiamo registrare un fatto reale e alquanto sorprendente.
+Contro ogni apparente probabilità, è certamente vero
+che il riformatore ottimista riforma assai più compiutamente
+del riformatore pessimista. Gli uomini producono cambiamenti violenti
+essendo appagati, essendo fin troppo appagati. L'uomo che disse
+che «le rivoluzioni non si fanno con l'[[Water|acqua]] di [[Rose|rose]]» era evidentemente
+inesperto delle pratiche faccende umane. Uomini come Rousseau
+e Shelley fanno le rivoluzioni, e le fanno con l'[[Water|acqua]] di [[Rose|rose]];
+cioè con una visione troppo rosea e sentimentale della bontà umana.
+Le figure che vengono prima e creano convulsioni e mutamenti
+(per esempio, la figura centrale del Nuovo Testamento)
+hanno sempre l'aria di camminare in una dolcezza e una calma innaturali.
+Ci danno alla fine la loro pace nel [[Blood|sangue]] e nella battaglia e nella divisione;
+non come la dà il mondo essi la danno a noi.
+
+Né la vera ragione del trionfo del riformatore troppo appagato è
+particolarmente difficile da definire. Egli trionfa perché mantiene
+viva nell'[[Soul|anima]] umana un'invincibile certezza che la cosa vale
+la pena di essere fatta, che la guerra vale la pena di essere vinta, che il popolo vale
+la sua liberazione. Ricordo che il signor William Archer,
+qualche [[Time|tempo]] fa, pubblicò in una delle sue interessanti serie di interviste,
+un'intervista al signor Thomas Hardy. Quel potente scrittore veniva
+presentato mentre diceva, nel corso della conversazione, che in
+quel particolare momento non voleva definire la propria opinione riguardo
+all'ultimo problema, se cioè la vita stessa valesse la pena di essere vissuta.
+Vi sono, egli diceva, centinaia di mali rimediabili in questo mondo.
+Quando avremo rimediato a tutti questi (tale era il suo argomento), sarà
+[[Time|tempo]] a sufficienza di chiedersi se l'esistenza stessa, nelle sue migliori
+condizioni possibili, sia preziosa o desiderabile. Qui ci viene presentata, con un
+notevole elemento di quello che si può solo chiamare inconsapevole [[Humour|umorismo]],
+la semplice ragione del fallimento del pessimista come riformatore.
+Il signor Hardy ci chiede, non dirò di comprare un gatto nel sacco;
+ci chiede di comprare il sacco sulla remota possibilità che ci
+sia un gatto dentro. Quando per alcuni frenetici secoli ci
+saremo torturati per salvare l'umanità, sarà allora «[[Time|tempo]] a sufficienza»
+di discutere se essa possa in qualche modo essere salvata. Quando, nel caso
+della [[Mortality|mortalità]] infantile, per esempio, ci saremo sfiniti
+con gli sforzi capaci di scuotere la terra necessari a salvare la vita di ogni
+singolo bambino, sarà allora [[Time|tempo]] a sufficienza di considerare se ogni
+singolo bambino non sarebbe stato più felice da morto. Dovremmo spostare
+le [[Mountains|montagne]] e portare il millennio, perché allora potremo avere un tranquillo
+momento per discutere se il millennio sia poi affatto desiderabile.
+Qui abbiamo il livello di bassa [[Water|marea]] dell'impotenza del triste riformatore.
+E qui abbiamo la ragione del paradossale trionfo di quello felice.
+Il suo trionfo è un trionfo religioso; riposa sulla sua perpetua asserzione
+del valore dell'[[Soul|anima]] umana e della quotidiana vita umana. Riposa
+sulla sua asserzione che la vita umana è godibile perché è umana.
+Ed egli non ammetterà mai, come tanti compassionevoli pessimisti,
+che la vita umana cessi mai di essere umana. Egli non si limita a
+compatire la bassezza degli uomini; sente un'offesa alla loro elevazione.
+La bruta pietà dovrebbe essere data soltanto ai bruti. La crudeltà verso gli [[Animals|animali]] è crudeltà
+e cosa vile; ma la crudeltà verso un uomo non è crudeltà, è tradimento.
+La tirannia su un uomo non è tirannia, è ribellione, poiché l'uomo è regale.
+Ora, la debolezza pratica dell'immensa massa della moderna pietà per
+i poveri e gli oppressi è precisamente che è mera pietà;
+la pietà è pietosa, ma non rispettosa. Gli uomini sentono che la crudeltà
+verso i poveri è una specie di crudeltà verso gli [[Animals|animali]]. Non sentono mai
+che è ingiustizia verso degli eguali; anzi, è tradimento verso dei compagni.
+Questa cupa pietà scientifica, questa brutale pietà, ha una sua elementare
+sincerità; ma è del tutto inutile per ogni fine di [[Reform|riforma]] sociale.
+La [[democracy|democrazia]] spazzò l'Europa con la sciabola quando fu fondata sui
+Diritti dell'Uomo. Non ha fatto letteralmente più nulla da quando è
+stata fondata soltanto sui torti dell'uomo. O, più esattamente
+parlando, il suo recente fallimento è dovuto al suo non ammettere
+l'esistenza di alcun diritto, o torto, né in verità di alcuna umanità.
+L'evoluzione (la sinistra nemica della rivoluzione) non nega in particolare
+l'esistenza di Dio; ciò che nega è l'esistenza dell'uomo.
+E tutta la [[Despair|disperazione]] riguardo ai poveri, e la fredda e ripugnante
+pietà per loro, è stata in gran parte dovuta al vago senso che essi
+siano letteralmente ricaduti nello stato degli [[Animals|animali]] inferiori.
+
+Uno scrittore abbastanza tipico del recente rivoluzionismo — Gorky — ha intitolato
+uno dei suoi libri con l'inquietante ed efficace titolo «Creature
+che un tempo furono Uomini». Quel titolo spiega l'intero fallimento
+della rivoluzione russa. E la ragione per cui gli scrittori inglesi,
+come Dickens, riuscirono con tutti i loro limiti a realizzare tante
+delle cose effettive cui miravano fu che non avrebbero
+mai potuto porre un simile titolo su un libro umano. Dickens aiutò davvero
+gli sventurati nelle cose cui si dedicava.
+E la ragione è che attraverso tutti i suoi libri e schizzi sugli
+sventurati si potrebbe scrivere il comune titolo: «Creature che
+sono Ancora Uomini».
+
+Esiste dunque davvero questo strano riformatore ottimista;
+l'uomo la cui opera comincia con l'approvazione e finisce con il terremoto.
+Gesù [[Christ|Cristo]] era destinato a fondare una [[Faith|fede]] che rese i ricchi
+più poveri e i poveri più ricchi; ma anche quando stava per
+arricchirli, cominciò con la frase: «Beati i poveri».
+I Gissing e i Gorky dicono, come universale motto letterario,
+«Maledetti i poveri». Fra un milione di persone che hanno debolmente seguito
+[[Christ|Cristo]] in questa divina contraddizione, Dickens spicca in modo particolare.
+Egli diceva, in tutte le sue dichiarazioni riformatrici: «Curate la [[Poverty|povertà]]»;
+ma diceva, in tutte le sue effettive descrizioni: «Beati i poveri».
+Descriveva la loro felicità, e gli uomini si precipitavano a rimuovere
+il loro dolore. Li descriveva come umani, e gli uomini si sdegnavano
+degli insulti alla loro umanità. Non è difficile
+capire perché, come ho detto in una fase precedente di questo libro,
+le denunce di Dickens abbiano avuto un effetto tanto più pratico
+delle denunce di un uomo come Gissing. Entrambi convenivano
+che le anime del popolo fossero in una specie di [[Prison|prigione]].
+Ma Gissing diceva che la [[Prison|prigione]] era piena di anime morte.
+Dickens diceva che la [[Prison|prigione]] era piena di anime vive.
+E l'infuocata cavalcata dei soccorritori sentì che non
+era giunta troppo tardi.
+
+Su questo fatto generale riguardo alle descrizioni della [[Poverty|povertà]] di Dickens
+non vi sarà, suppongo, alcuna seria contesa.
+La contesa riguarderà soltanto la [[Truth|verità]] di quelle descrizioni.
+È chiaro che, laddove Gissing direbbe: «Guardate come la loro [[Poverty|povertà]]
+deprime gli Smith o i Brown», Dickens dice: «Guardate quanto poco,
+in fondo, la loro [[Poverty|povertà]] possa deprimere i Cratchit». Nessuno
+negherà che dei poveri egli fece un tratto speciale. Verremo
+tra un momento alla discussione della veridicità di queste scene.
+Qui basta registrare, a conclusione del nostro
+esame dell'ottimista riformatore, che Dickens fu certamente
+un simile ottimista, e che si fece un dovere di insistere
+su quanta felicità vi sia nelle vite degli infelici.
+Il suo povero è sempre un [[Mark Tapley]], un uomo l'ottimismo del cui
+spirito cresce semmai con il pessimismo della sua esperienza.
+Si può anche registrare come fatto egualmente solido e del tutto egualmente
+dimostrabile che questo Dickens ottimista attuò davvero grandi riforme.
+
+Le riforme di cui Dickens fu strumento erano, in verità, dal punto
+di vista delle nostre travolgenti panacee sociali, speciali e limitate.
+Ma forse, proprio per questa ragione, offrono un compatto e
+concreto esempio del [[Paradox|paradosso]] psicologico di cui parliamo.
+Dickens distrusse davvero — o quantomeno contribuì a distruggere —
+certe istituzioni; le distrusse semplicemente
+descrivendole. Ma il nodo e la peculiarità dell'intera faccenda
+è questa, che, in un certo senso, si può davvero dire che egli descrisse
+queste cose troppo ottimisticamente. In un senso reale, egli descrisse
+la Dotheboys Hall come un luogo migliore di quel che è. In un senso reale,
+egli fece dell'ospizio dei poveri un luogo più gradevole di quanto possa mai essere.
+Poiché la gloria principale di Dickens è che rese questi luoghi interessanti;
+e la principale infamia dell'Inghilterra è che ha reso questi luoghi tetri.
+La tetraggine era la cosa che il genio di Dickens non riuscì mai
+a descrivere; la sua vitalità era così violenta che non poteva introdurre
+nei suoi libri l'impressione genuina neppure di un momento di monotonia.
+Se vi è in qualche punto dei suoi romanzi un istante di [[Silence|silenzio]],
+udiamo solo più chiaramente l'[[Hero|eroe]] che bisbiglia con l'eroina,
+il [[Villain|malvagio]] che affila il pugnale, o lo scricchiolio del macchinario
+che deve far scendere il dio dalla [[Machine|macchina]]. Egli sapeva descrivere
+splendidamente i luoghi tetri, ma non i luoghi squallidi.
+Sapeva descrivere matrimoni infelici, ma non matrimoni monotoni.
+Dev'essere stato genuinamente divertente essere sposati con
+il signor Quilp. Questo senso di un'eccitazione ancora incessante egli lo stende su
+ogni pollice della sua storia, e su ogni oscura distesa del suo paesaggio.
+La sua idea di luogo desolato è un luogo dove tutto può accadere,
+non ha alcuna idea di quel luogo desolato dove nulla può accadere.
+Questa è una buona cosa per la sua [[Soul|anima]], perché il luogo dove nulla
+può accadere è l'inferno. Ma tuttavia, si potrebbe ragionevolmente sostenere,
+dalla mentalità moderna, ch'egli sia ostacolato nel descrivere il male e il dolore
+umani da questa incapacità di immaginare il tedio, da questa tetraggine
+in materia di tetraggine. Poiché, in fondo, è certamente vero
+che la parte peggiore della sorte dello sventurato è il fatto ch'egli
+ha lunghi spazi in cui riesaminare l'irrevocabilità della propria condanna.
+È certamente vero che i giorni peggiori dell'uomo oppresso sono
+i nove giorni su dieci in cui non è oppresso. Questo senso
+di nausea e di monotonia Dickens certamente mancò, o rifiutò, di dare.
+Quando leggiamo una descrizione così eccellente — nei dettagli —
+come quella della Dotheboys Hall, sentiamo che, mentre tutto il resto è accurato,
+l'autore, con le parole dell'eccellente Capitano Nares
+nel «Wrecker» di Stevenson, «dipinge lo squallore piuttosto blando».
+I ragazzi di Dotheboys erano, forse, meno malmenati, ma erano
+certamente più annoiati. Poiché, in verità, come potrebbe qualcuno annoiarsi con
+la compagnia di una creatura tanto sontuosa quanto il signor Squeers? Chi non
+sopporterebbe qualche frustata illogica pur di godersi
+la conversazione di un uomo capace di dire: «Un tipo bizzarro è
+la Natura... La Natura si concepisce più facilmente di quanto si descriva».
+Lo stesso principio si applica all'ospizio dei poveri in «[[Oliver Twist]]». Sentiamo
+vagamente che né [[Oliver]] né alcun altro potrebbe essere del tutto infelice
+alla presenza della purpurea personalità del signor Bumble. L'unica
+cosa ch'egli non descrisse, in nessuno degli abusi che denunciò, fu
+la potenza distruttrice dell'[[Soul|anima]] della routine. Egli fece della cattiva scuola,
+del cattivo sistema parrocchiale, della cattiva [[Prison|prigione]] per debitori qualcosa di ben più
+allegro ed eccitante di quanto in realtà possano essere stati.
+In un certo senso, dunque, li adulò; ma li distrusse con
+l'adulazione. Rendendo la signora Gamp deliziosa, la rese impossibile.
+Diede a tutti un interesse nell'esistenza del signor Bumble;
+e con lo stesso atto diede a tutti un interesse nella sua distruzione.
+Sarebbe difficile trovare un esempio più forte dell'utilità
+e dell'energia del metodo che abbiamo, per amor di discussione,
+chiamato il metodo del riformatore ottimista. Finché le basse scuole
+dello Yorkshire furono del tutto incolori e squallide, continuarono a essere quietamente
+tollerate dal pubblico e quietamente intollerabili alle vittime.
+Finché Squeers fu tanto tetro [[Well|quanto]] crudele, fu permesso;
+nel momento in cui divenne tanto divertente [[Well|quanto]] crudele, fu distrutto.
+Finché Bumble fu semplicemente disumano, fu tollerato.
+Quando divenne umano, l'umanità lo spazzò via del tutto. Poiché, per
+compiere questi grandi atti di giustizia, dobbiamo sempre comprendere non solo
+l'umanità dell'oppresso, ma perfino l'umanità dell'oppressore.
+Il satirico dovette, in un certo senso, creare le immagini nella mente prima
+di poterle distruggere, da iconoclasta. Dickens dovette far
+vivere Squeers prima di poterlo far morire.
+
+In connessione con l'accusa di volgare ottimismo, che ho
+preso come testo per questo capitolo, c'è un'altra cosa alquanto
+strana da notare. Nessuno al mondo fu mai meno ottimista
+di Dickens nel suo trattamento del male o dell'uomo malvagio.
+Quando dico ottimista in questa faccenda intendo l'ottimismo, nel
+senso moderno, di un tentativo di imbiancare il male. Nessuno mai
+fece minor tentativo di imbiancare il male di quanto fece Dickens. Nessun nero
+fu mai meno bianco del nero di Dickens. Egli dipinse i suoi
+malvagi e i suoi personaggi perduti più neri di quanto siano in realtà.
+Affolla le sue storie con una specie di [[Villain|malvagio]] rara nella narrativa moderna —
+il [[Villain|malvagio]] davvero privo di ogni «punto che lo riscatti». Non c'è alcun
+punto che riscatti Squeers, o [[Monks]], o [[Ralph Nickleby]],
+o [[Bill Sikes]], o Quilp, o Brass, o il signor Chester,
+o il signor Pecksniff, o [[Jonas Chuzzlewit]], o Carker,
+o [[Uriah Heep]], o Blandois, o un centinaio d'altri.
+Per quanto concerne l'equilibrio tra bene e male nei caratteri umani,
+Dickens certamente non potrebbe essere chiamato
+un volgare ottimista. La sua enfasi sul male era melodrammatica.
+Lo si potrebbe chiamare un volgare pessimista.
+
+Alcuni liquideranno questa lurida malvagità come un dettaglio del suo
+artificioso [[Romance|romanzesco]]. Io non sono incline a farlo. Egli ereditò,
+senza dubbio, questo [[Villain|malvagio]] assoluto come ereditò tante
+altre cose, dall'intera [[history|storia]] della letteratura europea.
+Ma egli infuse nel furfante una peculiare e vigorosa vita
+tutta sua. Non mostrò alcuna tendenza a modificare la sua furfanteria
+in accordo con la crescente riguardosità dell'epoca;
+non pareva desiderare di rendere il suo [[Villain|malvagio]] meno malvagio;
+non desiderava imitare l'analisi di George Eliot,
+o il reverente scetticismo di Thackeray. E tutto ciò
+risale, io credo, a una cosa reale in lui, ch'egli desiderava
+avere un nemico turbolento e incalcolabile.
+Egli desiderava mantener viva l'idea del combattimento, il che significa,
+di necessità, un combattimento contro qualcosa di individuale e di vivo.
+Non so se, nel benevolo razionalismo della sua epoca,
+serbasse nella sua teologia qualche fede in un diavolo personale,
+ma egli creò certamente un diavolo personale in ognuno dei suoi libri.
+
+Un buon esempio di ciò che intendo si può trovare, per esempio,
+in un personaggio come Quilp. Dickens può, per quanto ne so,
+aver avuto in origine qualche idea di descrivere Quilp come lo storpio
+amaro e infelice, una deformità la cui mente è atrofizzata insieme
+al [[Body|corpo]]. Ma se ebbe una simile idea, presto l'abbandonò.
+Quilp non è affatto infelice. Tutta la sua pittoresca vivacità consiste
+nel fatto che ha una specie di infernale felicità, un'atroce
+ilarità che lo fa saltellare in giro come una palla di gomma.
+Quilp non è affatto amaro; ha una gaiezza schietta,
+un'espansività, un'universalità. Desidera far male alla gente
+nello stesso cordiale modo in cui un uomo di buon cuore desidera aiutarla.
+Gli piace [[Poison|avvelenare]] la gente con la stessa specie di clamorosa
+cameratesca con cui un uomo onesto ama offrirle da bere.
+Quilp non è affatto atrofizzato nella mente; non è in realtà
+neppure atrofizzato nel [[Body|corpo]] — il suo [[Body|corpo]], cioè, non è in alcun modo
+inferiore a ciò ch'egli vuole che faccia. La sua piccolezza gli dà
+piuttosto la prontezza di un uccello o la precipitazione di una pallottola.
+In una parola, Quilp è precisamente il diavolo del Medioevo;
+appartiene a quell'epoca stupefacentemente sana in cui perfino gli spiriti
+perduti erano ilari.
+
+Questa cordialità e vivacità nei malvagi di Dickens è degna di nota
+perché è direttamente connessa con la sua stessa allegria. Questa è
+una [[Truth|verità]] poco compresa ai nostri [[Time|tempi]], ma è assai essenziale.
+Se ottimismo significa un'approvazione generale, è certamente vero che quanto
+più un uomo diventa ottimista, tanto più diventa un uomo [[Melancholy|malinconico]].
+Se riesce a lodare ogni cosa, la sua lode svilupperà un'allarmante
+somiglianza con una cortese noia. Dirà che la palude è buona
+quanto il [[Garden|giardino]]; vorrà dire che il [[Garden|giardino]] è tetro quanto la palude.
+Potrà sforzarsi di dire che il vuoto è buono, ma difficilmente
+si impedirà di chiedersi che cosa mai vi sia di buono in un tal bene.
+Questo ottimismo esiste davvero — questo ottimismo che è più disperato
+del pessimismo — questo ottimismo che è il cuore stesso dell'inferno.
+
+Contro un simile straziante vuoto di approvazione priva di gioia c'è un solo
+antidoto: una improvvisa e combattiva fede nel male positivo.
+Questo mondo può essere reso di nuovo bello se lo si contempla come un [[Battlefield|campo di battaglia]].
+Quando abbiamo definito e isolato la cosa malvagia, i colori tornano
+in tutto il resto. Quando le cose malvagie sono divenute malvagie,
+le cose buone, in una fiammeggiante [[Apocalypse|apocalisse]], divengono buone. Vi sono alcuni
+uomini tetri perché non credono in Dio; ma ve ne sono
+molti altri tetri perché non credono nel diavolo.
+L'erba torna a farsi verde quando crediamo nel diavolo, le rose
+tornano a farsi rosse quando crediamo nel diavolo.
+
+Nessun uomo fu più colmo del senso di questa bellicosa base di ogni
+allegria di quanto lo fu Dickens. Sapeva assai [[Well|bene]] l'essenziale [[Truth|verità]],
+che il vero ottimista può continuare a essere ottimista soltanto finché
+è scontento. Poiché il pieno valore di questa vita si può
+ottenere soltanto combattendo; i violenti la prendono d'[[Storm|assalto]]. E se abbiamo
+accettato ogni cosa, abbiamo mancato qualcosa: la guerra. Questa vita
+nostra è una lotta assai godibile, ma una tregua assai miserabile.
+E mi pare strano che così pochi critici di Dickens o di
+altri scrittori romantici abbiano notato questo significato filosofico
+nel [[Villain|malvagio]] non diluito. Il [[Villain|malvagio]] non è nella storia per essere
+un carattere; è lì per essere un pericolo — una minaccia incessante, spietata
+e senza compromessi, come quella delle belve o del mare.
+Per la piena soddisfazione del senso del combattimento, che ovunque
+e sempre implica un senso di uguaglianza, è necessario rendere
+la cosa malvagia un uomo; ma non è sempre necessario, non è
+neppure sempre artistico, renderlo un uomo composito e verosimile.
+In ogni racconto il cui tono sia in qualche modo simbolico, egli può ben
+legittimamente essere reso un'energia primordiale e infernale.
+Egli dev'essere un uomo solo nel senso che deve avere uno spirito e una volontà
+da contrapporre allo spirito e alla volontà dell'uomo che combatte principalmente.
+Il male può essere disumano, ma non dev'essere impersonale, il che è quasi
+esattamente la posizione occupata da [[Satan|Satana]] nello schema teologico.
+
+Ma tutto sommato, come ho osservato prima, la principale sorgente
+in Dickens di ciò che ho chiamato allegria, e che alcuni preferiscono
+chiamare ottimismo, è qualcosa di più profondo di una [[philosophy|filosofia]] verbale.
+È, in fondo, un'incomparabile fame e piacere per la vitalità
+e la varietà, per l'infinita eccentricità dell'esistenza.
+E questa parola «eccentricità» ci porta, forse, più vicino
+alla questione di qualsiasi altra. È, forse, il più forte
+segno della divinità dell'uomo ch'egli parli di questo mondo come di «uno
+strano mondo», benché non ne abbia visto alcun altro. Sentiamo che tutto
+ciò che c'è è eccentrico, benché non sappiamo quale sia il centro.
+Questo sentimento della grottesca stranezza dell'universo scorreva attraverso
+il cervello e il [[Body|corpo]] di Dickens come il folle [[Blood|sangue]] degli elfi.
+Egli vedeva tutte le sue strade in fantastiche prospettive, vedeva tutte
+le sue villette borghesi come sbilenche e selvagge, vedeva il naso di ogni uomo
+grande il doppio di quanto fosse, e gli occhi di ogni uomo come piattini.
+E questa era la base della sua gaiezza — l'unica reale base
+di ogni gaiezza filosofica. Questo mondo non va
+giustificato come lo giustificano gli ottimisti meccanici;
+non va giustificato come il migliore di tutti i mondi possibili.
+Il suo merito non è di essere ordinato e spiegabile; il suo merito è
+di essere selvaggio e del tutto inspiegato. Il suo merito è precisamente
+che nessuno di noi avrebbe potuto concepire una cosa simile, che
+avremmo respinto la semplice idea di esso come miracolo e assurdità.
+È il migliore di tutti i mondi impossibili.
+
+CAPITOLO XII
+
+UNA NOTA SUL FUTURO DI DICKENS
+
+La cosa più difficile da ricordare a proposito del nostro [[Time|tempo]], naturalmente,
+è semplicemente che esso è un [[Time|tempo]]; tutti d'istinto lo pensiamo
+come il Giorno del Giudizio. Ma tutte le cose che vi si trovano
+e che gli appartengono soltanto in quanto questo [[Time|tempo]] saranno con ogni probabilità presto
+capovolte; tutte le cose che possono passare passeranno.
+Non è soltanto vero che tutte le cose vecchie sono già morte;
+è anche vero che tutte le cose nuove sono già morte; poiché le uniche
+cose immortali sono quelle che non sono né nuove né vecchie.
+Quanto più si è al passo con la moda di quest'anno, tanto più
+(in un certo senso) si è già in ritardo su quella dell'anno venturo. Di conseguenza,
+nel tentare di stabilire se un autore, com'è
+argutamente detto, sopravviverà, occorre avere convinzioni saldissime
+su quale parte, se pure ve n'è alcuna, dell'uomo sia immutabile.
+E ciò è cosa assai ardua da avere, se non si possiede una religione o,
+per lo meno, una [[philosophy|filosofia]] dogmatica.
+
+L'eguaglianza degli uomini ha bisogno di essere predicata tanto riguardo alle epoche
+quanto riguardo alle classi degli uomini. Sentirsi infinitamente superiori a un uomo
+del dodicesimo secolo è esattamente altrettanto snobistico quanto sentirsi
+infinitamente superiori a un uomo della vecchia [[Kent]] [[Road]]. Vi sono differenze
+fra quell'uomo e noi, vi possono essere in noi superiorità rispetto a lui;
+ma il nostro peccato, in entrambi i casi, consiste nel pensare alle piccole cose
+in cui differiamo, quando dovremmo essere confusi e inebriati
+dalle materie terribili e gioiose in cui siamo tutt'uno.
+Ma anche qui la difficoltà è sempre che le cose a noi vicine sembrano
+più grandi di quanto siano, e così paiono una parte permanente dell'umanità,
+mentre in realtà possono essere soltanto uno dei suoi modi di espressione passeggeri.
+Poche persone, per esempio, si rendono conto che facilmente può venire un [[Time|tempo]] in cui
+vedremo la grande fioritura della Scienza nel diciannovesimo secolo
+come qualcosa di altrettanto splendido, breve, unico e infine abbandonato
+quanto la fioritura dell'Arte al Rinascimento. Poche persone si rendono conto che
+l'abitudine generale della narrativa, di raccontare storie in prosa, può svanire,
+come l'abitudine generale della ballata, di raccontare storie in versi,
+è per il [[Time|tempo]] svanita. Poche persone si rendono conto che leggere e scrivere
+sono solo scienze arbitrarie, e forse temporanee, come l'araldica.
+
+La mente immortale rimarrà, e su di essa scrittori come Dickens
+saranno giudicati con sicurezza. Che Dickens avrà un posto elevato nella
+letteratura duratura non vi è, immagino, alcun saccente sopravvissuto a negarlo.
+Ma per quanto ogni predizione avvenga nel buio, vorrei dedicare questo
+capitolo a suggerire che il suo posto nell'Inghilterra del diciannovesimo secolo
+non sarà soltanto elevato, ma addirittura il più elevato di tutti.
+In un certo periodo della sua fama contemporanea, un inglese medio
+avrebbe detto che in quel momento esistevano in Inghilterra all'incirca
+cinque o sei romanzieri capaci e di pari valore. Avrebbe potuto stilarne un elenco:
+Dickens, Bulwer Lytton, Thackeray, Charlotte Brontë, George Eliot,
+forse altri ancora. Sono trascorsi quarant'anni o più e alcuni
+di loro sono scivolati in un posto più basso. Alcuni direbbero oggi
+che la piattaforma più alta è riservata a Thackeray e Dickens;
+altri a Dickens, Thackeray e George Eliot; altri a Dickens, Thackeray
+e Charlotte Brontë. Mi arrischio a proporre la tesi che,
+quando saranno trascorsi altri anni e sarà stata operata una maggiore selezione,
+Dickens dominerà l'intera Inghilterra del diciannovesimo secolo;
+egli resterà su quella piattaforma [[Alone|solo]].
+
+So che questa è un'affermazione quasi impertinente da avanzare,
+e che la sua tendenza è quella di introdurre quelle discussioni sminuenti
+di altri scrittori nelle quali il signor Swinburne si impigliò brillantemente
+nel suo suggestivo studio su Dickens. Ma il mio sminuire gli altri
+romanzieri inglesi è del tutto relativo e non nel minimo grado assoluto.
+È certo che gli uomini torneranno sempre a uno scrittore come Thackeray,
+con il suo ricco [[Autumn|autunno]] emotivo, con il suo sentire che la vita è una triste
+ma sacra retrospettiva nella quale almeno non dovremmo dimenticare nulla.
+Non è probabile che gli uomini saggi lo dimentichino. Così, per esempio,
+uomini saggi e dotti tornano di [[Time|tempo]] in [[Time|tempo]] ai lirici
+del Rinascimento francese, alla delicata intensità di Du Bellay:
+così torneranno a Thackeray. Ma intendo dire che Dickens
+cavalcherà e dominerà il nostro [[Time|tempo]] come la vasta figura di Rabelais
+domina Du Bellay, domina il Rinascimento e il mondo.
+
+Lasciatemi anteporre una ragione negativa. Le cose particolari
+per le quali Dickens è condannato (e giustamente condannato)
+dai suoi critici sono precisamente quelle cose che non hanno mai
+impedito a un uomo di essere immortale. La principale di esse è il
+fatto incontestabile che egli scrisse una enorme quantità di opera cattiva.
+Ciò fa sì che un uomo venga collocato al di sotto del suo posto nel proprio [[Time|tempo]]:
+non tocca affatto il suo posto duraturo, a quanto pare,
+per nulla. Shakespeare, per esempio, e Wordsworth scrissero non
+soltanto una enorme quantità di opera cattiva, ma una enorme quantità di
+opera enormemente cattiva. L'umanità cura per loro le opere di simili scrittori.
+Virgilio sbagliava a tagliare i suoi versi inferiori;
+noi ci saremmo assunti il compito. Inoltre, nel caso particolare
+di Dickens vi sono ragioni speciali per considerare la sua opera cattiva,
+come ho suggerito in precedenza, sotto una sorta di generale [[Ambition|ambizione]]
+che nulla aveva a che fare con il suo genio particolare; un'[[Ambition|ambizione]] a essere
+un fornitore pubblico di ogni cosa, un magazzino di tutte le emozioni umane.
+Egli teneva una sorta di giorno del giudizio letterario. Distribuiva
+i personaggi cattivi come castighi e i personaggi buoni come ricompense.
+Il mio pensiero può essere espresso al meglio da un solo esempio fra i molti.
+Il personaggio del buon vecchio ebreo in «Our Mutual Friend»
+(un personaggio superfluo e poco convincente) fu introdotto in realtà
+perché un corrispondente ebreo si lamentava che il cattivo vecchio ebreo
+in «[[Oliver Twist]]» insinuasse che tutti gli ebrei fossero cattivi.
+Il principio è così sventatamente assurdo che è difficile
+immaginare un letterato che vi si sottometta anche solo per un istante.
+Se mai avesse inventato un banditore cattivo, avrebbe dovuto immediatamente bilanciarlo
+con un banditore buono; se avesse concepito un filantropo
+scortese, avrebbe dovuto seduta stante, con qualunque naturale angoscia
+e fatica, immaginare un filantropo gentile. La lagnanza è forsennata;
+eppure Dickens, che faceva a pezzi la gente per lagnanze assai più giuste,
+gradì questa lagnanza del suo corrispondente ebreo. Gli faceva piacere
+essere scambiato per un arbitro pubblico: gli faceva piacere che gli si chiedesse
+(in un [[Double|duplice]] senso) di giudicare Israele. Tutto ciò è a tal punto
+un'altra cosa, una [[Vanity|vanità]] non letteraria, che vi è molta minore
+difficoltà del solito nel separarla dal suo serio genio:
+e per il suo serio genio, quasi non occorre dirlo, intendo il suo genio comico.
+Ambizioni irrilevanti come questa si superano facilmente,
+come i sonetti dei grandi statisti. Sentiamo che tali cose possono
+essere messe da parte, come gli esperimenti ignoranti di uomini per altro grandi,
+come la politica del professor Tyndall o la [[philosophy|filosofia]] del
+professor Haeckel. Perciò, io credo, la posterità non si curerà del fatto che
+Dickens abbia fatto opera cattiva, ma saprà che ne ha fatta di buona.
+
+Di nuovo, l'altra principale accusa contro Dickens era che i suoi
+personaggi e le loro azioni fossero esagerati e impossibili.
+Ma questo significava soltanto che erano esagerati e impossibili
+se paragonati al mondo moderno e a certi scrittori
+(come Thackeray o Trollope) che facevano una copia esattissima
+delle maniere del mondo moderno. Alcuni, curiosamente,
+hanno suggerito che Dickens abbia sofferto o soffrirà
+del mutamento delle maniere. Certo ciò è irrazionale.
+Non sono i creatori dell'impossibile a soffrire
+del processo del [[Time|tempo]]: il signor Bunsby non potrà mai essere più
+impossibile di quanto lo fosse quando Dickens lo creò.
+Gli scrittori che ovviamente soffriranno del [[Time|tempo]] saranno
+gli scrittori attenti e realistici, gli scrittori che hanno osservato
+ogni dettaglio della foggia di questo mondo che passa.
+È di certo evidente che non v'è nulla di così fragile
+come un fatto, che un fatto vola via più in fretta di una fantasia.
+Una fantasia resisterà per duemila anni. Per esempio,
+tutti nutriamo la fantasia di un uomo del tutto impavido, un [[Hero|eroe]];
+e l'[[Achilles|Achille]] di Omero rimane ancora. Ma esattamente la cosa
+che non sappiamo di [[Achilles|Achille]] è fino a che punto egli fosse possibile.
+I narratori realistici del [[Time|tempo]] sono tutti dimenticati (grazie a Dio),
+sicché non possiamo dire se Omero abbia lievemente esagerato o smisuratamente
+esagerato o non abbia esagerato affatto l'attività personale di un
+capitano miceneo in battaglia; poiché la fantasia è sopravvissuta ai fatti.
+Così la fantasia di Podsnap può sopravvivere ai fatti del commercio inglese:
+e nessuno saprà se Podsnap fosse possibile, ma solo saprà
+che è desiderabile, come [[Achilles|Achille]].
+
+L'argomento positivo per la permanenza di Dickens ritorna
+alla cosa che può soltanto essere affermata e non può essere discussa:
+la creazione. Egli fece cose che nessun altro avrebbe mai potuto fare.
+Egli fece [[Dick Swiveller]] in un senso assai diverso da quello in cui
+Thackeray fece il colonnello Newcome. La creazione di Thackeray era osservazione:
+quella di Dickens era poesia, ed è perciò permanente. Ma vi è un
+altro criterio che si può aggiungere. Lo scrittore immortale, io concepisco,
+è comunemente colui che fa qualcosa di Universale in una maniera speciale.
+Intendo dire che egli fa qualcosa di interessante per tutti gli uomini in un modo
+in cui soltanto un uomo o una sola terra possono farlo. Altri uomini in quella terra,
+che fanno soltanto ciò che altri uomini in altre terre fanno del pari
+[[Well|bene]], tendono ad avere una grande fama ai loro giorni e a sprofondare lentamente
+in un secondo o un terzo o un quarto posto. Un parallelo tratto dalla guerra
+renderà chiaro il punto. Non posso credere che alcuno possa
+[[Doubt|dubitare]] che, benché Wellington e Nelson siano stati sempre accostati,
+Nelson diverrà costantemente più importante e Wellington meno.
+Poiché la fama di Wellington poggia sul fatto che egli fu un buon
+soldato al servizio dell'Inghilterra, esattamente come venti simili
+uomini furono buoni soldati al servizio dell'Austria o della Prussia
+o della Francia. Ma Nelson è il simbolo di un modo speciale di attacco,
+che è al tempo stesso universale e tuttavia specialmente inglese: il mare.
+Ora Dickens è al tempo stesso universale come il mare e inglese
+come Nelson. Thackeray e George Eliot e le altre grandi figure
+di quella grande Inghilterra erano paragonabili a Wellington in questo,
+che il genere di cosa che facevano — il realismo, lo studio acuto delle
+cose intellettuali — numerosi uomini in Francia, [[Germany|Germania]] e [[Italy|Italia]] lo facevano
+del pari [[Well|bene]] o meglio di loro. Ma Dickens faceva davvero qualcosa di
+universale, e tuttavia qualcosa che nessuno se non un inglese poteva fare.
+Ciò è attestato dal fatto che egli e Byron sono gli uomini che,
+come pinnacoli, colpiscono l'occhio del continente. I punti richiederebbero
+lungo studio: eppure possono richiedere solo un momento per essere indicati.
+Nessuno se non un inglese avrebbe potuto riempire i suoi libri al tempo stesso
+di una furiosa caricatura e di una gentilezza positivamente furiosa.
+Nei paesi più centrali, colmi di crudeli ricordi di mutamenti politici,
+la caricatura è sempre disumana. Nessuno se non un inglese
+avrebbe potuto descrivere la [[democracy|democrazia]] come composta di uomini liberi,
+ma insieme di uomini buffi. In altri paesi dove la questione democratica
+è stata combattuta più aspramente, si sente che, a meno che tu non
+descriva un uomo come dignitoso, lo stai descrivendo come uno schiavo.
+Questa è l'unica ultima [[Greatness|grandezza]] di un uomo: che egli faccia
+per tutto il mondo ciò che tutto il mondo non può fare per se stesso.
+Dickens, io credo, lo fece.
+
+L'ora dell'assenzio è finita. Non saremo molto oltre
+disturbati dai piccoli artisti che trovavano Dickens troppo sano
+per i loro dolori e troppo puro per i loro piaceri. Ma abbiamo
+una lunga strada da percorrere prima di tornare a ciò che Dickens significava:
+e il passaggio si snoda lungo una tortuosa [[Road|strada]] inglese, una [[Road|strada]]
+serpeggiante quale quella percorsa dal signor [[Pickwick]]. Ma questo almeno è parte
+di ciò che egli significava: che la [[Comradeship|cameratismo]] e la gioia seria non sono
+interludi nel nostro viaggio; ma che piuttosto i nostri viaggi sono interludi
+nel [[Comradeship|cameratismo]] e nella gioia, che per grazia di Dio dureranno in eterno.
+La locanda non indica la [[Road|strada]]; la [[Road|strada]] indica la locanda.
+E tutte le strade indicano infine una locanda ultima, dove incontreremo
+Dickens e tutti i suoi personaggi: e quando berremo di nuovo
+sarà dai grandi boccali nella taverna alla fine
+del mondo.
+
+                  (Fornito da Mitsuharu Matsuoka, Università di Nagoya, Giappone,
+                                                            il 6 luglio 1998.)
 
 ----------------------------------------------------------------------------

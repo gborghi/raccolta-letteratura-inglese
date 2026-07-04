@@ -133,7 +133,7 @@ As a matter of fact, they hate it for its strength.
 
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/works/heret12-(chesterton)">Heretics</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/heret12-(chesterton)">Heretics</a> › <a href="/testi/chesterton/atomized/heret12/story_13_on_certain_modern_writers_and_the_instit">Story 13 On Certain Modern Writers and the Instit</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/heret12/story_11_paganism_and_mr_lowes_dickinson/part_03">‹ part 03</a><a class="ex-next" href="/testi/chesterton/atomized/heret12/story_13_on_certain_modern_writers_and_the_instit/part_02">part 02 ›</a></div>
 </nav>
 

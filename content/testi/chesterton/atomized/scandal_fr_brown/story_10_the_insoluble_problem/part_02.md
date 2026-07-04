@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/scandal-fr-brown-(chesterton)">scandal Fr Brown</a> › <a href="/testi/chesterton/atomized/scandal_fr_brown/story_10_the_insoluble_problem">Story 10 The Insoluble Problem</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/scandal_fr_brown/story_10_the_insoluble_problem/part_01">‹ part 01</a><a class="ex-next" href="/testi/chesterton/atomized/scandal_fr_brown/story_10_the_insoluble_problem/part_03">part 03 ›</a></div>
@@ -123,3 +125,46 @@ being thrown out and left behind, as the group swept out into the [[Garden|garde
 and up the flagged path towards the mulberry plantation. Only [[Flambeau]]
 heard the little priest say to the doctor: 'He doesn't seem to [[Love|love]] us
 really, does he? By the way, who is he?'
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/scandal-fr-brown-(chesterton)">scandal Fr Brown</a> › <a href="/testi/chesterton/atomized/scandal_fr_brown/story_10_the_insoluble_problem">Story 10 The Insoluble Problem</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/scandal_fr_brown/story_10_the_insoluble_problem/part_01">‹ part 01</a><a class="ex-next" href="/testi/chesterton/atomized/scandal_fr_brown/story_10_the_insoluble_problem/part_03">part 03 ›</a></div>
+</nav>
+
+I due vecchi compagni erano spesso arrivati insieme a locande e ad altre dimore umane, e vi avevano trovato uno stato di cose alquanto singolare; ma i segni della singolarità si erano di rado manifestati così presto. Poiché mentre la loro automobile era ancora a qualche centinaio di iarde dalla porta verde scuro, che si intonava alle imposte verde scuro dell'edificio alto e stretto, la porta fu spalancata con violenza e una donna con una selvaggia zazzera di capelli rossi si precipitò loro incontro, come pronta ad abbordare l'automobile in piena corsa. [[Flambeau]] arrestò la vettura, ma quasi prima che l'avesse fatto, ella cacciò il suo volto bianco e tragico dentro il [[Window|finestrino]], gridando:
+
+«Siete voi [[Father Brown]]?» e poi, quasi nello stesso respiro: «chi è quest'uomo?»
+
+«Questo signore si chiama [[Flambeau]],» disse [[Father Brown]] con maniera tranquilla, «e che cosa posso fare per voi?»
+
+«Venite dentro la locanda,» disse ella, con straordinaria bruschezza persino date le circostanze. «È stato commesso un delitto.»
+
+Scesero dall'automobile in [[Silence|silenzio]] e la seguirono fino alla porta verde scuro che si apriva verso l'interno su una specie di pergolato verde scuro, formato di pali e di pilastri di legno, inghirlandato di vite e d'edera, che mostrava [[Leaves|foglie]] squadrate di nero e di rosso e di molte tinte fosche. Questo conduceva a sua volta, attraverso una porta interna, a una specie di ampio salotto ornato di arrugginiti trofei d'armi cavalleresche, il cui mobilio pareva antiquato e per giunta in gran disordine, come l'interno di un ripostiglio. Per un momento restarono davvero trasaliti; poiché parve che un grosso pezzo di cianfrusaglia si [[Rose|levasse]] e movesse verso di loro; tanto polveroso e sciatto e sgraziato era l'uomo che così abbandonava quello che sembrava uno stato di permanente immobilità.
+
+Strano a dirsi, l'uomo pareva avere una certa agilità di cortesia, una volta che si moveva davvero; anche se essa suggeriva le giunture di legno di una cerimoniosa scala a libretto o di un ossequioso [[Horse|stendibiancheria]]. Sia [[Flambeau]] sia [[Father Brown]] sentirono di non aver quasi mai posato gli occhi su un uomo tanto difficile da collocare. Non era ciò che si chiama un gentiluomo; eppure aveva qualcosa della polverosa raffinatezza dello studioso; c'era in lui qualcosa di vagamente equivoco o declassato; e tuttavia il suo odore era piuttosto quello del topo di biblioteca che quello del bohémien. Era magro e pallido, con il naso appuntito e una scura barba a punta; la fronte era calva, ma i capelli dietro lunghi e lisci e stopposi; e l'espressione dei suoi occhi era quasi interamente mascherata da un paio di occhiali azzurri. [[Father Brown]] sentì di aver già incontrato qualcosa del genere in qualche luogo, e molto [[Time|tempo]] addietro; ma non riusciva più a dargli un nome. La cianfrusaglia tra cui sedeva era in gran parte cianfrusaglia letteraria; soprattutto fasci di opuscoli del diciassettesimo secolo.
+
+«Ho inteso bene che la signora dice,» chiese [[Flambeau]] gravemente, «che qui c'è stato un delitto?»
+
+La signora annuì col suo capo rosso e arruffato piuttosto spazientita; a parte quei fiammeggianti riccioli da elfo aveva perduto un po' della sua aria selvaggia; il suo abito scuro era di una certa dignità e compostezza; i suoi lineamenti erano forti e belli; e c'era in lei qualcosa che suggeriva quella [[Double|doppia]] forza di [[Body|corpo]] e di mente che rende potenti le donne, particolarmente in contrasto con uomini come l'uomo dagli occhiali azzurri. Nondimeno fu lui a dare l'unica risposta articolata, intervenendo con una certa buffonesca galanteria.
+
+«È vero che la mia sventurata cognata,» spiegò, «ha or ora subìto uno shock spaventosissimo che tutti noi avremmo desiderato risparmiarle. Vorrei soltanto essere stato io stesso a fare la scoperta e ad aver sofferto unicamente l'ulteriore afflizione di recare la terribile notizia. Purtroppo fu la signora Flood in persona a trovare il suo vecchio nonno, da lungo tempo malato e costretto a letto in questo albergo, addirittura morto nel [[Garden|giardino]]; in circostanze che indicano fin troppo chiaramente violenza e aggressione. Curiose circostanze, posso dirlo, davvero curiosissime circostanze.» E tossicchiò lievemente, come per scusarsene.
+
+[[Flambeau]] s'inchinò alla signora ed espresse le sue sincere condoglianze; poi disse all'uomo: «Credo abbiate detto, signore, di essere il cognato della signora Flood.»
+
+«Sono il dottor Oscar Flood,» rispose l'altro. «Mio fratello, il marito di questa signora, è al momento assente sul Continente per affari, ed ella manda avanti l'albergo. Suo nonno era parzialmente paralizzato e assai avanti negli anni. Non lo si era mai visto lasciare la sua camera da letto; sicché queste straordinarie circostanze, davvero...»
+
+«Avete mandato a chiamare un medico o la polizia?» chiese [[Flambeau]].
+
+«Sì,» rispose il dottor Flood, «abbiamo telefonato dopo aver fatto la terribile scoperta; ma difficilmente potranno essere qui prima di qualche ora. Questa locanda di strada sorge in luogo assai remoto. È frequentata soltanto da chi va a Casterbury o anche oltre. Così abbiamo pensato di poter chiedere la vostra preziosa assistenza finché...»
+
+«Se dobbiamo essere di qualche assistenza,» disse [[Father Brown]], interrompendo con maniera troppo assorta per parere scortese, «direi che faremmo meglio ad andare a guardare subito le circostanze.»
+
+Mosse quasi meccanicamente verso la porta; e per poco non urtò un uomo che entrava spingendosi a spallate; un giovane grande e massiccio, dai capelli scuri arruffati e in disordine, che nondimeno sarebbe stato piuttosto bello se non fosse stato per una lieve deformità di un occhio, che gli dava un aspetto piuttosto sinistro.
+
+«Che diavolo state facendo?» sbottò, «a raccontarlo a Tizio, Caio e Sempronio... almeno dovreste aspettare la polizia.»
+
+«Ne risponderò io alla polizia,» disse [[Flambeau]] con una certa magnificenza, e un'improvvisa aria di aver preso il comando di ogni cosa. Avanzò verso l'uscio, e poiché era assai più grande del grande giovane, e i suoi baffi erano formidabili quanto le corna di un toro spagnolo, il grande giovane indietreggiò davanti a lui e ebbe l'aria sconnessa di essere cacciato fuori e lasciato indietro, mentre il gruppo usciva d'impeto nel [[Garden|giardino]] e su per il sentiero lastricato verso la piantagione di gelsi. Solo [[Flambeau]] udì il piccolo prete dire al dottore: «Non pare che ci [[Love|ami]] davvero, vero? A proposito, chi è?»

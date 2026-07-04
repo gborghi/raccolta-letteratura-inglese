@@ -192,7 +192,7 @@ I can't stop for the inquiry."
 
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/works/innocence-(chesterton)">The Innocence of Father Brown</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/innocence-(chesterton)">The Innocence of Father Brown</a> › <a href="/testi/chesterton/atomized/innocence/story_12_the_three_tools_of_death">Story 12 The Three Tools of Death</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/innocence/story_12_the_three_tools_of_death/part_03">‹ part 03</a><span></span></div>
 </nav>
 

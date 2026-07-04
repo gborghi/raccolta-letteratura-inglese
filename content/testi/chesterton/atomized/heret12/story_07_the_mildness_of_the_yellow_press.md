@@ -342,6 +342,10 @@ even good journalists.
 <div class="excerpt-crumb">Chesterton · <a href="/works/heret12-(chesterton)">Heretics</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/heret12/story_06_omar_and_the_sacred_vine">‹ Story 06 Omar and the Sacred Vine</a><a class="ex-next" href="/testi/chesterton/atomized/heret12/story_08_the_moods_of_mr_george_moore">Story 08 The Moods of Mr George Moore ›</a></div>
 </nav>
+<nav class="excerpt-children">
+<div class="excerpt-children-label">In questa sezione</div>
+<ul><li><a href="/testi/chesterton/atomized/heret12/story_07_the_mildness_of_the_yellow_press/part_01">Part 1</a></li><li><a href="/testi/chesterton/atomized/heret12/story_07_the_mildness_of_the_yellow_press/part_02">Part 2</a></li><li><a href="/testi/chesterton/atomized/heret12/story_07_the_mildness_of_the_yellow_press/part_03">Part 3</a></li></ul>
+</nav>
 
 # [[heret12]] — La mitezza della stampa scandalistica
 

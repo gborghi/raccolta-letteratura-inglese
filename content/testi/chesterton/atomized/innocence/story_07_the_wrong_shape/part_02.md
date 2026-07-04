@@ -157,7 +157,7 @@ more motionless than a mountain.
 
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/works/innocence-(chesterton)">The Innocence of Father Brown</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/innocence-(chesterton)">The Innocence of Father Brown</a> › <a href="/testi/chesterton/atomized/innocence/story_07_the_wrong_shape">Story 07 The Wrong Shape</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/innocence/story_07_the_wrong_shape/part_01">‹ part 01</a><a class="ex-next" href="/testi/chesterton/atomized/innocence/story_07_the_wrong_shape/part_03">part 03 ›</a></div>
 </nav>
 

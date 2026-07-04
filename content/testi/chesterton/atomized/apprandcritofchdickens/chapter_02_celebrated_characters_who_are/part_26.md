@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/apprandcritofchdickens-(chesterton)">ApprAndCritOfChDickens</a> › <a href="/testi/chesterton/atomized/apprandcritofchdickens/chapter_02_celebrated_characters_who_are">Chapter 02 celebrated characters who are</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/apprandcritofchdickens/chapter_02_celebrated_characters_who_are/part_25">‹ part 25</a><a class="ex-next" href="/testi/chesterton/atomized/apprandcritofchdickens/chapter_02_celebrated_characters_who_are/part_27">part 27 ›</a></div>
@@ -179,3 +181,178 @@ No one can fail to notice this deep difference between Dickens and the
 Carlyle whom he avowedly copied. Splendid and symbolic as are Carlyle's
 
 scenes of the [[French Revolution]], we have in reading them a curious sense
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/apprandcritofchdickens-(chesterton)">ApprAndCritOfChDickens</a> › <a href="/testi/chesterton/atomized/apprandcritofchdickens/chapter_02_celebrated_characters_who_are">Chapter 02 celebrated characters who are</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/apprandcritofchdickens/chapter_02_celebrated_characters_who_are/part_25">‹ part 25</a><a class="ex-next" href="/testi/chesterton/atomized/apprandcritofchdickens/chapter_02_celebrated_characters_who_are/part_27">part 27 ›</a></div>
+</nav>
+
+non ha mai sentito (come sa sentire un inglese) di essere un ateniese prima di
+
+essere un londinese. Eppure, con tutto contro di sé, egli compì questa cosa
+
+sbalorditiva. Scrisse un libro su due città, una delle quali comprendeva; l'altra
+
+non la comprendeva. E la sua descrizione della [[City|città]] che non
+
+conosceva è quasi migliore della sua descrizione della [[City|città]] che conosceva. Qui
+
+fa il suo ingresso quella cosa indubitabile che riguarda Dickens; la cosa
+
+chiamata genio; la cosa di cui tutti sono costretti a parlare in modo diretto e
+
+distinto proprio perché nessuno sa che cosa sia. Poiché una parola semplice (come, per
+
+esempio, la parola [[Fool|sciocco]]) ricopre sempre un mistero infinito.
+
+_A Tale of Two Cities_ è una delle tinte più tragiche dell'ultima stagione
+
+della vita di Dickens. Si potrebbe dire che divenne più triste col crescere degli anni; ma
+
+ciò sarebbe falso, per due ragioni. Anzitutto, un uomo non diventa mai, o quasi mai,
+
+triste col crescere degli anni; al contrario, i più [[Melancholy|malinconici]]
+
+giovani [[lovers|innamorati]] li si ritrova quarant'anni dopo a ridacchiare sul loro
+
+vino di Porto. E in secondo luogo, Dickens non divenne mai vecchio, nemmeno in senso
+
+fisico. La stanchezza che pure apparve in lui apparve nel fiore della vita;
+
+fu dovuta non all'età ma al troppo lavoro, e al suo modo esagerato di fare
+
+ogni cosa. Chiamare Dickens vittima del disincanto senile sarebbe
+
+assurdo quanto dire altrettanto di Keats. La fatica che vi fu, fu
+
+dovuta non al rallentare del suo [[Blood|sangue]], ma piuttosto alla sua incessante
+
+rapidità. Non lo affaticò la sua età; lo affaticò piuttosto la sua
+
+giovinezza. E benché _A Tale of Two Cities_ sia colmo di tristezza, è colmo
+
+anche di entusiasmo; quel pathos è un pathos giovane piuttosto che vecchio.
+
+Vi è tuttavia una circostanza che rende davvero importante il fatto
+
+che _A Tale of Two Cities_ sia una delle opere più tarde di Dickens. Questo
+
+fatto è il fatto della sua dipendenza da un altro dei grandi scrittori
+
+dell'era vittoriana. Ed è a proposito di ciò che meglio possiamo
+
+cogliere la [[Truth|verità]] di cui vengo parlando; la [[Truth|verità]] che la sua reale
+
+ignoranza della Francia si accompagnava a una stupefacente percezione intuitiva della [[Truth|verità]]
+
+che la riguardava. È qui che egli reca più nitido il segno inconfondibile dell'uomo
+
+di genio: che sa comprendere ciò che non comprende.
+
+Dickens fu ispirato allo studio della [[French Revolution|Rivoluzione Francese]] e alla
+
+scrittura di un [[Romance|romanzo]] su di essa dall'esempio e dall'influenza di Carlyle.
+
+Thomas Carlyle riscoprì indubbiamente per gli inglesi la rivoluzione
+
+che stava sullo sfondo di tutte le loro politiche e riforme. È una
+
+spassosa arguzia collaterale che la [[French Revolution|Rivoluzione Francese]] sia stata
+
+scoperta per i britannici dal solo scrittore britannico che in essa non
+
+credeva davvero. Nondimeno, i critici più autorevoli e più recenti
+
+di quella grande [[Renaissance|rinascita]] concordano nel considerare l'opera di Carlyle
+
+di una potenza tra le più penetranti e minuziose. Carlyle aveva letto moltissimo
+
+sulla [[French Revolution|Rivoluzione Francese]]. Dickens non aveva letto nulla,
+
+tranne Carlyle. Carlyle era un uomo che raccoglieva le proprie idee mediante l'accurata
+
+collazione di documenti e la verifica dei riferimenti. Dickens era un
+
+uomo che raccoglieva le proprie idee da vaghi indizi raccolti per le strade, e sempre
+
+le medesime strade; come ho detto, egli era cittadino di una sola [[City|città]].
+
+Carlyle era, a suo modo, dotto; Dickens era, in ogni modo, ignorante.
+
+Dickens era un inglese reciso dalla Francia; Carlyle era uno scozzese,
+
+storicamente legato alla Francia. Eppure, quando tutto ciò è stato detto e
+
+certificato, Dickens ha più ragione di Carlyle. La Rivoluzione Francese di Dickens
+
+è probabilmente più simile alla vera [[French Revolution|Rivoluzione Francese]] di
+
+quella di Carlyle. È difficile, se non impossibile, esporre i fondamenti di
+
+questa ferma convinzione. Se ne può parlare solo impiegando quell'
+
+eccellente metodo di cui si servì il cardinale Newman quando parlò delle
+
+«note» del cattolicesimo. Vi erano certe «note» della Rivoluzione.
+
+Una nota della Rivoluzione era quella cosa che gli sciocchi chiamano
+
+ottimismo, e le persone assennate chiamano allegria. Carlyle non riuscì mai
+
+del tutto ad afferrarla, perché, con tutta la sua energia spirituale, non aveva allegria.
+
+Ecco perché preferiva la prosa alla poesia. Sapeva comprendere
+
+la retorica; perché retorica significa cantare con un fine. Ma non sapeva
+
+comprendere la lirica; perché la [[Lyric|lirica]] significa cantare senza un fine; come
+
+fa chiunque quando è felice. Ora, per tutto il suo [[Blood|sangue]] e le sue nere
+
+ghigliottine, la [[French Revolution|Rivoluzione Francese]] era colma di pura allegria. Anzi,
+
+era colma di felicità. Questo effettivo brio e questa leggerezza Carlyle non li
+
+trovò mai davvero nella Rivoluzione, perché non sapeva trovarli in se stesso.
+
+Dickens sapeva meno della Rivoluzione, ma ne aveva di più in sé. Quando Dickens
+
+attaccava gli abusi, li abbatteva proprio con quella sorta di gaia
+
+e alquanto unilaterale soddisfazione con cui la folla francese abbatté
+
+la Bastiglia. Dickens credeva in certe cose in modo totale e ingenuo;
+
+avrebbe, credo, sguainato la [[Sword|spada]] per esse. Carlyle credeva a metà
+
+in mezzo centinaio di cose; era al tempo stesso più mistico e più
+
+scettico. Carlyle era il tipo perfetto del servitore brontolone; il vecchio
+
+servitore brontolone delle commedie aristocratiche. Seguiva
+
+l'aristocrazia, ma seguendola ringhiava. Era obbediente senza
+
+essere servile, proprio come Caleb Balderstone era obbediente senza essere
+
+servile. Ma Dickens era il tipo dell'uomo che avrebbe potuto davvero
+
+ribellarsi invece di brontolare. Sarebbe potuto uscire in strada
+
+e battersi, come l'uomo che prese la Bastiglia. È in certo modo
+
+nazionalmente significativo che, quando noi parliamo dell'uomo della strada, ciò
+
+designi una figura silenziosa, dinoccolata, e persino fiacca. Quando i francesi parlano
+
+dell'uomo della strada, ciò designa il pericolo nella strada.
+
+Nessuno può non notare questa profonda differenza tra Dickens e il
+
+Carlyle che egli dichiaratamente copiava. Per quanto splendide e simboliche siano le
+
+scene della [[French Revolution|Rivoluzione Francese]] di Carlyle, leggendole abbiamo un curioso senso

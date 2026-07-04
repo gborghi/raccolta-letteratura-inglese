@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/apprandcritofchdickens-(chesterton)">ApprAndCritOfChDickens</a> › <a href="/testi/chesterton/atomized/apprandcritofchdickens/chapter_02_celebrated_characters_who_are">Chapter 02 celebrated characters who are</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/apprandcritofchdickens/chapter_02_celebrated_characters_who_are/part_15">‹ part 15</a><a class="ex-next" href="/testi/chesterton/atomized/apprandcritofchdickens/chapter_02_celebrated_characters_who_are/part_17">part 17 ›</a></div>
@@ -179,3 +181,178 @@ darkness at the end of this book, as he does dispel it at the end of
 most of his books. [[Pickwick]] gets out of the Fleet [[Prison]]; Carstone never
 
 gets out of Chancery but by [[Death|death]]. This tyranny, Dickens said, shall not
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/apprandcritofchdickens-(chesterton)">ApprAndCritOfChDickens</a> › <a href="/testi/chesterton/atomized/apprandcritofchdickens/chapter_02_celebrated_characters_who_are">Chapter 02 celebrated characters who are</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/apprandcritofchdickens/chapter_02_celebrated_characters_who_are/part_15">‹ part 15</a><a class="ex-next" href="/testi/chesterton/atomized/apprandcritofchdickens/chapter_02_celebrated_characters_who_are/part_17">part 17 ›</a></div>
+</nav>
+
+ancora vivo quando le sabbie mobili lo inghiottono.
+
+È impossibile non collocare al primo posto questa coltre di fumo
+
+che Dickens ha deliberatamente steso sopra la storia. È verissimo
+
+che il paese sottostante è abbastanza limpido da contenere un numero qualsiasi di
+
+comici inconsapevoli o di allegri mostri come quelli che egli aveva l'abitudine
+
+di introdurre nel carnevale dei suoi racconti. Ma egli voleva che prendessimo
+
+sul serio quell'atmosfera fumosa. Charles Dickens, il quale, come tutti gli uomini
+
+che sono davvero spassosi sulle cose spassose, era spaventosamente serio sulle cose
+
+serie, voleva certamente che leggessimo questa storia nei termini della sua protesta
+
+e della sua insurrezione contro la vacuità e l'arroganza della legge, contro
+
+la follia e l'[[Pride|orgoglio]] dei giudici. Tutto il resto che è presente in questa
+
+storia vi è entrato attraverso l'energia inconsapevole o accidentale del
+
+suo genio, che irrompeva a ogni varco. Ma era la [[Tragedy|tragedia]] di
+
+[[Richard Carstone]] ciò che egli intendeva, non la [[Comedy|commedia]] di [[Harold Skimpole]]. Non
+
+poteva fare a meno di essere divertente; ma voleva essere deprimente.
+
+Si potrebbe assumere un altro caso come banco di prova della maggiore serietà di questo
+
+racconto. I passi intorno alla signora Jellyby e ai suoi progetti filantropici mostrano
+
+Dickens al suo meglio nella sua vecchia e più familiare maniera satirica. Ma in
+
+mezzo al pandemonio dei Jellyby, che è di per sé descritto con
+
+lo stesso _abbandono_ e la stessa irrilevanza della [[house|pensione]] della signora Todgers
+
+o del teatro ambulante del signor Crummles, il Dickens più maturo introdusse
+
+un altro brano di pura [[Truth|verità]] e persino di tenerezza. Alludo al ritratto di
+
+Caddy Jellyby. Se Carstone è uno studio veramente maschile di come un uomo va
+
+alla rovina, Caddy è uno studio perfettamente femminile di come una ragazza si mette in salvo.
+
+In nessun altro luogo, forse, nella narrativa, e di certo in nessun altro luogo in Dickens,
+
+il puro [[Paradox|paradosso]] femminile è così [[Well|bene]] compendiato: l'uso ingiusto delle parole
+
+che ricopre tanta capacità di una giustizia di giudizio ultimo; la
+
+apparente irresponsabilità nel linguaggio che cela un senso così fisso e
+
+spietato di responsabilità intorno alle cose; l'aria di essere sempre
+
+ai ferri corti con i propri congiunti, eppure la confessione di un'inguaribile
+
+parentela sottintesa nell'[[Pride|orgoglio]] e nella vergogna; e, soprattutto, quella sete di
+
+ordine e di [[Beauty|bellezza]] come di qualcosa di fisico; quello strano potere femminile di
+
+odiare la bruttezza e lo spreco come gli uomini buoni sanno odiare solo il peccato e gli uomini cattivi
+
+la virtù. Ogni tocco in lei è veritiero, dai suoi primi sconcertanti scoppi
+
+d'odio verso le persone perché le sono simpatiche, fino alla improvvisa quiete e
+
+al buon senso che annuncia come essa sia scivolata nel suo posto naturale
+
+di donna. La signorina Clare è una polena, la signorina Summerson per certi versi un
+
+fallimento; ma la signorina Caddy Jellyby è di gran lunga la più grande, la più umana,
+
+e la più realmente dignitosa di tutte le eroine di Dickens.
+
+Con una o due eccezioni, tutti gli effetti in questa storia sono di questa
+
+specie alquanto più sommessa, benché nessuno di essi sia così sottilmente riuscito come
+
+Rick Carstone e Caddy. [[Harold Skimpole]] comincia come uno [[Sketch|schizzo]] tracciato con una
+
+matita quasi tanto aerea e capricciosa quanto la sua stessa persona. L'[[Humour|umorismo]] delle scene precedenti
+
+è delizioso: le scene in cui Skimpole assiste ad altre
+
+persone che pagano i suoi debiti con l'aria di un benevolo [[Outsider|estraneo]], e suggerisce
+
+in un'informe fraseologia legale che esse potrebbero «firmare qualcosa» o «cedere
+
+qualcosa», o la scena in cui egli tenta di spiegare i
+
+vantaggi dell'accettare ogni cosa all'apoplettico signor Boythorn. Ma
+
+fu uno dei difetti di Dickens come romanziere che i suoi personaggi
+
+diventassero sempre più grossolani e più goffi man mano che attraversavano gli eventi
+
+pratici di una storia, e ciò necessariamente doveva accadere con Skimpole, la cui
+
+posizione era concepibile anche a lui stesso solo nell'assunto che egli
+
+fosse un mero spettatore della vita. Il povero Skimpole chiedeva soltanto di essere tenuto fuori
+
+dagli affari di questo mondo, e Dickens avrebbe dovuto tenerlo fuori
+
+dagli affari di _Bleak House_. Alla fine del racconto egli ha ridotto
+
+Skimpole a compiere atti di pura, bassa scelleratezza. Ciò guasta del tutto
+
+la delicatezza ironica dell'idea originaria. Skimpole doveva concludersi
+
+con un punto interrogativo. Così com'è, si conclude con una grande, nera,
+
+inconfondibile macchia. Parlando in termini puramente artistici, possiamo dire che questo è
+
+un crollo o una volgarizzazione tanto grande quanto se [[Richard Carstone]] si fosse mutato
+
+in un comune farabutto e picchiatore di mogli, o Caddy Jellyby in una comica
+
+e illetterata locandiera. Nel complesso si può, credo, affermare che
+
+il personaggio di Skimpole è piuttosto un brano di brillante moralismo che
+
+di pura osservazione o creazione. Dickens aveva una mente singolarmente equanime. Era
+
+sfrenato nelle sue caricature, ma assai assennato nelle sue impressioni. Molti dei
+
+suoi libri furono dedicati, e questo libro è in parte dedicato, a una
+
+denuncia dell'aristocrazia: della classe oziosa che vive comodamente sulla
+
+fatica delle nazioni. Ma egli fu più equo di molti rivoluzionari moderni,
+
+e insistette nel satireggiare anche coloro che depredano la società non nel
+
+nome del rango o della legge, ma nel nome dell'intelletto e della [[Beauty|bellezza]]. Sir
+
+Leicester Dedlock e il signor [[Harold Skimpole]] si somigliano nell'accettare con una
+
+regale inconsapevolezza l'anomalia e il male della loro posizione. Ma la
+
+oziosità e l'insolenza dell'[[aristocrat|aristocratico]] sono umane e umili paragonate alla
+
+oziosità e all'insolenza dell'[[artist|artista]].
+
+Con l'eccezione di alcuni bei bizzarri esemplari, come Turveydrop e
+
+Chadband, tutte le figure in questo libro sono ritratte più delicatamente, persino
+
+più fiocamente, di quanto sia consueto in Dickens. Ma se le figure sono
+
+ritratte più fiocamente, ciò è in parte perché sono figure in una
+
+nebbia: la nebbia della Cancelleria. Dickens voleva che quel crepuscolo fosse opprimente;
+
+poiché era il simbolo dell'oppressione. Deliberatamente egli non dissipò le
+
+tenebre alla fine di questo libro, come invece le dissipa alla fine
+
+della maggior parte dei suoi libri. [[Pickwick]] esce dalla [[Prison|Prigione]] della Fleet; Carstone non
+
+esce mai dalla Cancelleria se non con la [[Death|morte]]. Questa tirannia, disse Dickens, non

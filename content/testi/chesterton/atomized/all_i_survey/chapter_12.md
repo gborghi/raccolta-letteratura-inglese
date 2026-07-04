@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/all-i-survey-(chesterton)">All I Survey</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/all_i_survey/chapter_11">‹ Chapter 11</a><a class="ex-next" href="/testi/chesterton/atomized/all_i_survey/chapter_13">Chapter 13 ›</a></div>
@@ -164,5 +166,167 @@ And he did whitewash Cromwell and Frederick, as nobody
 whitewashed [[Achilles]].  Shakspere and Shelley were better than
 Cromwell and Frederick; but they also were men and not statues.
 Even their bad poetry may be productive of good [[philosophy]].
+
+-*-
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/all-i-survey-(chesterton)">All I Survey</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/all_i_survey/chapter_11">‹ Chapter 11</a><a class="ex-next" href="/testi/chesterton/atomized/all_i_survey/chapter_13">Chapter 13 ›</a></div>
+</nav>
+
+XII
+
+_Sulla cattiva poesia_
+
+MI SONO da poco dilettato con un libro pubblicato qualche [[Time|tempo]] fa,
+sotto il titolo di _The Stuffed Owl; an Anthology of Bad Verse._ Gli
+esemplari furono scelti, mi pare, dal signor D. B. Wyndham Lewis e dal signor Lee;
+ma non intendo recensire l'opera, che dev'essere già stata recensita
+dappertutto molto tempo fa e ha, confido, ricevuto l'ammirazione che
+certamente merita. Per il momento non ha fatto altro che spedire il mio ingegno a vagabondare
+nei vasti, ricchi e cangianti campi della letteratura inferiore.
+Molto hanno viaggiato i curatori dell'antologia in questi reami d'oro;
+e non mi sogno di competere con la loro profonda dottrina intorno
+ai monumentali classici della cattiva scrittura, né col loro squisito e delicato
+istinto artistico per le più fini e fresche sfumature dell'imbecillità.
+Se mi è concesso adattare con reverenza la definizione di cultura data da Matthew Arnold,
+essi conoscono davvero il peggio che sia mai stato detto e pensato
+nella [[history|storia]] dell'umanità. Certo, ogni critico può lamentarsi
+di una qualunque antologia perché alcuni dei suoi prediletti sono stati esclusi.
+Talora può persino sostenere che alcuni, non all'altezza
+del livello dell'antologia, vi siano stati inclusi. Come il critico scorre un'ordinaria
+antologia per trovare un elemento che possa condannare come una macchia,
+così qui il critico può avventarsi su qualcosa che non è abbastanza
+mezzo scemo da soddisfare il suo alto criterio, e additare severamente svariati
+passi che non sono cattivi quanto dovrebbero. Barlumi di un'intelligenza quasi
+umana, lampi di una ragione più che meramente bestiale,
+spasmi di qualcosa che quasi somiglia alla parola, alleviano la monotonia
+dei [[Poems|Poemi]] imperiali di Alfred Austin o delle passioni pagane dei
+più temerari, per non dire spudorati, imitatori di Swinburne.
+Ogni tanto, dopo aver guadato un frastuono di centinaia
+di parole, troviamo una parola che pare essere caduta giusta per caso.
+Non dobbiamo lamentarci; nulla in questa vita mortale è perfetto;
+neppure la cattiva poesia.
+
+Naturalmente, vi è una vera difficoltà nel classificare
+tali classici. Essi si dividono necessariamente in
+almeno due tipi distinti, che hanno in realtà uno statuto e un valore
+piuttosto diversi. Sollevano due domande,
+che difficilmente sono di eguale importanza intellettuale. La prima è:
+«Perché coloro che non sono poeti tentano di scrivere poesia?»
+La seconda è: «Perché coloro che sono poeti non riescono a scrivere poesia?»
+È la seconda domanda quella più difficile
+a cui rispondere, e perciò quella che più merita risposta.
+La prima classe consta di un numero qualsiasi di accidenti d'ignoranza
+e d'inesperienza e di [[Vanity|vanità]] e di egoistico [[Self-Deception|autoinganno]];
+ma al di là di ciò non vi è nulla di molto straordinario.
+Un misterioso proverbio dichiara che gli [[Birds|uccellini]] che sanno cantare e
+non vogliono cantare vanno costretti a cantare; sebbene non abbia mai potuto immaginare come.
+Ma evidentemente nessuno ha mai avuto il [[Courage|coraggio]] di suggerire che cosa
+si debba fare con gli [[Birds|uccellini]] che non sanno cantare e cantano.
+Non pare possibile alcun suggerimento, se non che vengano fucilati;
+contro il che, nel nome di San Francesco, patrono di
+tutti gli [[Birds|uccelli]], dei poeti e di altre minori seccature, protesto calorosamente.
+Di questa sorta di limitazione meramente provinciale, la poesia
+del Bardo di Villaggio che assomiglia terribilmente all'Idiota del Villaggio,
+il genere di cosa che [[Oliver]] Wendell Holmes satireggiò scherzosamente
+nel personaggio di Gifted Hopkins, ve n'è, naturalmente,
+gran quantità in un'antologia come questa. Ce n'è molta
+nel libro; ma ce n'è anche tanta nel mondo
+che gli esempi devono quasi necessariamente essere accidenti.
+Ciascuno di noi ha probabilmente trovato la propria prediletta perla di follia,
+in una réclame o in un epitaffio o in un angolo di giornale;
+e la cosa è rimasta quasi tanto privata quanto una barzelletta di famiglia.
+Tenere il registro di tutte queste scoperte individuali richiederebbe
+non un'antologia ma una biblioteca di demenza; una Bodleiana
+del Cattivo Verso.
+
+Non so resistere alla [[Temptation|tentazione]] di raccontare al signor D. B. Wyndham Lewis, e a tutti
+gli altri veri [[lovers|amatori]] della cattiva poesia, di un poeta al quale so che non
+rifiuterebbero l'alloro. Fu persona tanto celebre quale il rev. Patrick Brontë,
+il padre delle grandi sorelle Brontë; e i suoi versi sono stati addirittura
+stampati insieme ai loro alla fine di un'edizione delle loro opere.
+È stato spesso definito aspro e disumano; ma merita un posto
+nella letteratura poiché inventò un metro che è uno strumento di tortura.
+Consiste in una strofa in rima che infine termina con una parola che dovrebbe
+rimare e non rima. Sta descrivendo, se ben ricordo, le virtù ideali
+della Fanciulla di Villaggio, e una strofa recita così:
+
+    Ai romanzi e ai drammi non incline
+    Né ad alcunché che possa insozzarle la mente;
+        Le tentazioni possono piovere,
+        Immobile come una torre
+    Ella spegne le frecce infuocate.
+
+È da gran tempo che non siedo ai piedi di questo menestrello;
+e cito a [[Memory|memoria]]; ma credo che un'altra strofa dello stesso
+poema illustrasse così lo stesso paraprosdokian, ovvero
+strattone conclusivo di delusione:
+
+    La religione rende la [[Beauty|bellezza]] incantevole;
+    E persino dove la [[Beauty|bellezza]] manca,
+        L'indole e la mente
+        Dalla religione raffinate
+    Splenderanno attraverso il velo con dolce fulgore.
+
+Se ne leggete molto, raggiungerete uno stato d'animo in cui,
+pur sapendo che lo scossone sta arrivando, a stento riuscirete a trattenervi
+dall'urlare. Abbiamo letto molto della cupa vita delle sorelle Brontë
+nella loro [[house|casa]] buia e angusta, sulle loro fosche e selvagge
+brughiere. Molto abbiamo udito di come le loro anime fossero
+accordate alla [[Storm|tempesta]], sia essa di venti selvaggi o di parole severe.
+Ma non riesco a immaginare [[Storm|tempesta]] tanto paralizzante quanto il rumore di un
+reverendo gentiluomo che legge quel poema; nessuna tortura tanto selvaggia
+quanto la spietata ripetizione di quel metro; nessun grido disumano tanto atroce
+o tanto agghiacciante per il [[Blood|sangue]], neppure dal cuore stesso dell'inferno
+di _Wuthering Heights._ A dispetto di tutti i pedagogisti,
+è una gentilezza verso i bambini insegnar loro le filastrocche.
+Ma un uomo dovrebbe essere imprigionato per Crudeltà verso l'Infanzia,
+se recitasse loro rime che non rimano.
+
+Ma il problema è assai più interessante se lasciamo la cattiva
+poesia scritta da cattivi poeti, e passiamo alla cattiva poesia scritta
+da buoni poeti. È una vecchia storia; fu Orazio, credo,
+a dire che Omero talvolta sonnecchia; e Orazio, benché
+persona ben desta, talvolta si concedeva un ammiccamento.
+Il Cigno d'Avon, l'[[Nightingale|Usignolo]] di Burford, l'Allodola
+a cui non sappiamo assegnare dimora se non il cielo, tutti questi famosi
+[[Birds|uccelli]] minacciarono di tanto in tanto d'irrigidirsi nel Gufo Impagliato.
+Persino [[Milton]], che visse per lo stile sublime, ebbe cadute di buon gusto;
+almeno io, per parte mia, non ho mai amato [[Satan|Satana]] che inventa la polvere da sparo
+o che imbandisce un'extra speciale cena di champagne, nello stile
+del Ritz-Carlton, per placare la fame di pane del [[Christ|Cristo]] umano.
+Non è dunque alcuna mancanza di rispetto verso i grandi poeti farli
+figurare in questo libro di cattiva poesia; poiché non v'è quasi
+un solo buon poeta che a un certo [[Time|tempo]] non sia stato un cattivo poeta.
+Non sono sicuro del significato di ciò, ma sono abbastanza sicuro,
+a fini pratici, della sua morale. Prima di tutto,
+è salutare notare che il poeta di solito faceva un capitombolo
+quando scivolava più agevolmente sulla lastra imburrata della lode
+e del progresso e della moda dominante. È quando il poeta classico
+è più classico che ci colpisce come pomposo e insipido.
+È quando il poeta romantico è più romantico che ci colpisce
+come sdolcinato e sentimentale. E sarà quando il poeta moderno
+è più moderno, quando è più clamorosamente nello stile moderno,
+che colpirà i posteri come semplicemente sciatto e noioso.
+I soli due versi davvero pessimi di Swinburne sono i più swinburniani;
+quel distico su gigli e languori ed estasi e rose.
+Essendo in un certo senso perfettamente swinburniano, mostra Swinburne
+come imperfetto. E l'altra morale è che i poeti sono uomini;
+e che gli uomini non possono più essere adorati come dèi.
+Carlyle compì la sua opera peggiore quando resuscitò il termine pagano
+del Culto dell'[[Hero|Eroe]]. I Pagani, invero, eressero una statua
+ad [[Achilles|Achille]]; ma non imbiancarono la statua.
+Avevano un modo oggettivo di fare, che non abbisognava di alcun
+morale [[Self-Deception|autoinganno]]. Ma Carlyle non poteva essere un Pagano;
+poteva solo essere un cattivo Cristiano; o, come alcuni dicono, un Puritano.
+E imbiancò davvero Cromwell e Federico, come nessuno
+imbiancò [[Achilles|Achille]]. Shakespeare e Shelley erano migliori di
+Cromwell e Federico; ma anch'essi erano uomini e non statue.
+Perfino la loro cattiva poesia può essere feconda di buona [[philosophy|filosofia]].
 
 -*-

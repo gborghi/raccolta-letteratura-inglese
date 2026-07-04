@@ -134,117 +134,40 @@ scene. She may be wicked; but she isn't a [[Witch|witch]]."
 
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/works/secret-fr-brown-(chesterton)">secret Fr Brown</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/secret-fr-brown-(chesterton)">secret Fr Brown</a> › <a href="/testi/chesterton/atomized/secret_fr_brown/story_04_the_actor_and_the_alibi">Story 04 THE ACTOR AND THE ALIBI</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/secret_fr_brown/story_04_the_actor_and_the_alibi/part_05">‹ part 05</a><a class="ex-next" href="/testi/chesterton/atomized/secret_fr_brown/story_04_the_actor_and_the_alibi/part_07">part 07 ›</a></div>
 </nav>
 
-«Semplicemente per il fatto che sono nato [[Fool|sciocco]]», disse [[Father Brown]]; «un malanno assai diffuso in questa
-valle di [[Tears|lacrime]]. Sono stato tanto [[Fool|sciocco]] da dimenticare del tutto che la commedia
-era The School For Scandal.»
+«Solo l'essere uno [[Fool|sciocco]] nato» disse [[Father Brown]]; «un malanno assai comune in questa valle di [[Tears|lacrime]]. Sono stato tanto [[Fool|sciocco]] da dimenticare del tutto che la commedia era La scuola della maldicenza.»
 
-Passeggiava senza requie su e giù per la stanza, finché Jarvis non ricomparve sulla
-soglia con il volto mutato e persino sgomento.
+Camminò inquieto su e giù per la stanza finché Jarvis ricomparve sulla porta con un volto mutato e persino allarmato.
 
-«Non riesco a trovarla da nessuna parte», disse. «Pare che nessuno l'abbia vista.»
+«Non riesco a trovarla da nessuna parte» disse. «Nessuno pare averla vista.»
 
-«E nemmeno Norman Knight l'hanno visto, non è vero?» chiese [[Father Brown]]
-in tono asciutto. «[[Well|Ebbene]], così mi risparmio il colloquio più penoso della mia vita. Con
-la grazia di Dio, quella donna per poco non mi metteva paura. Ma anche lei
-aveva paura di me; paura di qualcosa che avevo visto o detto.
-Knight non faceva che supplicarla di scappare con lui. Ora l'ha fatto; e
-provo una pietà indiavolata per lui.»
+«Non hanno visto nemmeno Norman Knight, vero?» chiese [[Father Brown]] seccamente. «[[Well|Ebbene]], questo mi risparmia il colloquio più penoso della mia vita. Salva la grazia di Dio, ho avuto quasi paura di quella donna. Ma anche lei aveva paura di me; paura di qualcosa che avevo visto o detto. Knight la supplicava sempre di fuggire con lui. Ora lo ha fatto; e sono maledettamente dispiaciuto per lui.»
 
 «Per lui?» domandò Jarvis.
 
-«[[Well|Ebbene]], non dev'essere molto piacevole fuggire con un'assassina», disse l'altro
-con distacco. «Ma in verità lei era qualcosa di ben peggiore di un'assassina.»
+«[[Well|Ebbene]], non può essere granché piacevole scappare con un'assassina» disse l'altro spassionatamente. «Ma per la verità ella era qualcosa di assai peggiore di un'assassina.»
 
-«E che cosa, dunque?»
+«E che cosa?»
 
-«Un'egoista», disse [[Father Brown]]. «Era il genere di persona che si era
-guardata nello [[Mirror|specchio]] prima di guardare fuori dalla [[Window|finestra]], e questa è la
-peggiore sciagura della vita mortale. Lo specchio le ha portato sfortuna,
-non c'è dubbio; ma piuttosto perché non si è rotto.»
+«Un'egoista» disse [[Father Brown]]. «Era il genere di persona che si è guardata nello [[Mirror|specchio]] prima di guardare fuori dalla [[Window|finestra]], ed è la peggiore sciagura della vita mortale. Lo specchio le portò sfortuna, non c'è dubbio; ma piuttosto perché non andò in frantumi.»
 
-«Non riesco a capire che cosa significhi tutto questo», disse Jarvis. «Tutti
-la consideravano una persona dagli ideali più elevati, quasi si muovesse su
-un piano spirituale più alto di quello del resto di noi...»
+«Non riesco a capire che cosa significhi tutto questo» disse Jarvis. «Tutti la consideravano una persona dagli ideali più elevati, che quasi si muoveva su un piano spirituale più alto rispetto a noialtri…»
 
-«Considerava se stessa sotto quella luce», disse l'altro; «e sapeva
-ipnotizzare chiunque altro perché la vedesse così. Forse non l'avevo conosciuta abbastanza a
-lungo da potermi sbagliare sul suo conto. Ma sapevo che genere di persona fosse cinque
-minuti dopo averle posato gli occhi addosso.»
+«Considerava se stessa sotto quella luce» disse l'altro; «e sapeva come ipnotizzare tutti gli altri a fare altrettanto. Forse non l'avevo conosciuta abbastanza a lungo da sbagliarmi sul suo conto. Ma sapevo che genere di persona fosse cinque minuti dopo averla adocchiata.»
 
-«Oh, andiamo», esclamò Jarvis; «sono certo che il suo comportamento nei confronti dell'italiana fu
-magnifico.»
+«Oh, andiamo!» esclamò Jarvis; «sono sicuro che il suo comportamento riguardo all'italiana fu bellissimo.»
 
-«Il suo comportamento fu sempre magnifico», disse l'altro. «Ho sentito da
-tutti quanti qui parlare delle sue raffinatezze e sottigliezze e dei suoi voli spirituali
-al di sopra della testa del povero Mandeville. Ma tutte queste spiritualità e
-sottigliezze mi paiono ridursi al semplice fatto che
-lei era senza dubbio una signora e lui non era di certo un gentiluomo. Eppure,
-sapete, non mi sono mai sentito del tutto sicuro che san Pietro faccia di questo
-l'unica prova alla porta del cielo.
+«Il suo comportamento fu sempre bellissimo» disse l'altro. «Ho sentito da tutti quanti, qui, ogni cosa sulle sue raffinatezze e sottigliezze e sui suoi voli spirituali al di sopra della testa del povero Mandeville. Ma tutte queste spiritualità e sottigliezze mi paiono ridursi al semplice fatto che ella era certamente una signora e lui certamente non era un gentiluomo. Ma, sa, non mi sono mai sentito del tutto sicuro che san Pietro farà di questo l'unica prova alla porta del cielo.
 
-«Quanto al resto», proseguì con crescente animazione, «capii fin dalle
-prime parole che pronunciò che non stava affatto rendendo giustizia al
-povero italiano, con tutte le sue belle arie di gelida magnanimità. E lo
-compresi di nuovo quando seppi che la commedia era The School for Scandal.»
+«Quanto al resto» proseguì con crescente animazione, «ho saputo fin dalle primissime parole che pronunciò che non stava davvero rendendo giustizia alla povera italiana, con tutte le sue belle arie di gelida magnanimità. E di nuovo, me ne resi conto quando seppi che la commedia era La scuola della maldicenza.»
 
-«State andando un po' troppo in fretta per me», disse Jarvis alquanto
-disorientato. «Che importanza ha quale fosse la commedia?»
+«Va un po' troppo veloce per me» disse Jarvis un po' sconcertato. «Che importanza ha quale fosse la commedia?»
 
-«[[Well|Ebbene]]», disse il prete, «lei disse di aver dato alla ragazza la parte
-della bella eroina e di essersi ritirata sullo sfondo per sé
-con la parte più matura di una matrona. Ora, ciò avrebbe potuto valere per quasi
-qualsiasi commedia; ma falsifica i fatti riguardo a quella commedia in particolare. Non può
-aver voluto dire altro se non che aveva dato all'altra attrice la parte di [[Maria]], che
-è a malapena una parte. E la parte dell'oscura e [[Self|schiva]]
-donna sposata, se non vi dispiace, non poteva che essere quella di Lady Teazle,
-che è l'unica parte che qualunque attrice desideri recitare. Se l'italiana era
-un'attrice di prim'ordine a cui era stata promessa una parte di prim'ordine, c'era
-davvero una qualche scusante, o almeno una qualche ragione, per la sua folle collera
-italiana. Di solito ce n'è una, per le folli collere italiane: i latini sono logici e
-hanno un motivo per infuriarsi. Ma quella piccola cosa gettò per me un raggio di luce
-sul senso della sua magnanimità. E c'era un'altra cosa,
-già allora. Vi metteste a ridere quando dissi che l'aria imbronciata della signora Sands era
-uno studio di carattere; ma non del carattere della signora Sands. Eppure era
-vero. Se volete sapere com'è davvero una signora, non guardate lei;
-perché potrebbe essere troppo scaltra per voi. Non guardate gli uomini che le stanno intorno, perché
-potrebbero essere troppo sciocchi per causa sua. Ma guardate qualche altra donna che le sta
-sempre vicino, e specialmente una che le è sottoposta. Vedrete in
-quello [[Mirror|specchio]] il suo vero volto, e il volto riflesso nella signora Sands era assai
-brutto.
+«[[Well|Ebbene]]» disse il prete, «ella disse di aver dato alla ragazza la parte della bella eroina e di essersi ritirata sullo sfondo con la parte più matura di una matrona. Ora, ciò potrebbe applicarsi a quasi qualsiasi commedia; ma falsifica i fatti riguardo a quella particolare commedia. Non può che aver inteso di aver dato all'altra attrice la parte di [[Maria]], che è a malapena una parte. E la parte dell'oscura e [[Self|schiva]] donna sposata, se non le dispiace, dev'essere stata la parte di Lady Teazle, che è l'unica parte che qualsiasi attrice desideri recitare. Se l'italiana era un'attrice di prim'ordine alla quale era stata promessa una parte di prim'ordine, c'era davvero qualche scusa, o almeno qualche motivo, per la sua folle collera italiana. Di solito ce n'è, per le folli collere italiane: i latini sono logici e hanno una ragione per andare fuori di sé. Ma quella piccola cosa mi fece un po' di luce sul senso della sua magnanimità. E c'era un'altra cosa, già allora. Lei rise quando dissi che l'aria imbronciata della signora Sands era uno studio di carattere; ma non del carattere della signora Sands. Eppure era vero. Se vuole sapere com'è davvero una signora, non guardi lei; poiché potrebbe essere troppo scaltra per lei. Non guardi gli uomini che le stanno intorno, poiché potrebbero essere troppo sciocchi riguardo a lei. Ma guardi qualche altra donna che le sta sempre vicina, e specialmente una che le è sottoposta. Vedrà in quello [[Mirror|specchio]] il suo vero volto, e il volto rispecchiato nella signora Sands era assai brutto.
 
-«E quanto a tutte le altre impressioni, che cos'erano? Ho sentito un gran
-parlare dell'indegnità del povero vecchio Mandeville; ma tutto verteva sul fatto che egli
-era indegno di lei, e sono quasi certo che venisse indirettamente da
-lei. E, anche così, si tradiva da sé. Evidentemente, da quel che ogni uomo
-diceva, lei si era confidata con ogni uomo circa la sua maledetta
-[[Loneliness|solitudine]] intellettuale. Voi stesso avete detto che non si lamentava mai; e poi l'avete citata
-a proposito di come il suo [[Silence|silenzio]] senza lamento fortificasse la sua [[Soul|anima]]. Ed è
-proprio questa la nota; questo lo stile inconfondibile. Chi si lamenta
-è soltanto una brava, umana, cristiana seccatura; costoro non mi danno fastidio. Ma chi
-si lamenta di non lamentarsi mai è il diavolo. Sono davvero il
-diavolo; non è forse quella spavalderia stoica il vero fulcro del culto byroniano
-di [[Satan|Satana]]? Ho sentito tutto questo; ma per quanto mi sforzassi non riuscii a udire
-di alcunché di tangibile di cui lei avesse da lamentarsi. Nessuno pretendeva che il
-marito bevesse, o la picchiasse, o la lasciasse senza denaro, o fosse addirittura
-infedele, fino alla diceria degli incontri segreti, che erano
-semplicemente la sua abitudine melodrammatica di tormentarlo con le sue prediche
-nel suo stesso ufficio. E quando si guardavano i fatti,
-al di là dell'atmosfera di [[Martyrdom|martirio]] che riusciva a
-diffondere, i fatti stavano davvero al contrario. Mandeville aveva smesso
-di far denaro con le pantomime per compiacerla; aveva cominciato a perdere denaro con il
-dramma classico per compiacerla. Disponeva la scenografia e gli arredi come
-più le piaceva. Voleva la commedia di Sheridan e l'ebbe; voleva la
-parte di Lady Teazle e l'ebbe; voleva una prova senza
-costumi a quella determinata ora, e l'ebbe. Vale forse la
-pena notare il curioso fatto che desiderasse proprio questo.»
+«E quanto a tutte le altre impressioni, quali erano? Ho sentito parecchio sull'indegnità del povero vecchio Mandeville; ma era tutto sul suo essere indegno di lei, e sono piuttosto certo che venisse indirettamente da lei. E, anche così, si tradiva. Evidentemente, da ciò che ogni uomo diceva, ella si era confidata con ogni uomo circa la sua maledetta [[Loneliness|solitudine]] intellettuale. Lei stesso disse che non si lamentava mai; e poi la citò a proposito di come il suo [[Silence|silenzio]] senza lamenti le rafforzasse l'[[Soul|anima]]. Ed è proprio questa la nota; questo è lo stile inconfondibile. Le persone che si lamentano non sono che allegri, umani, cristiani seccatori; a me non danno fastidio. Ma le persone che si lamentano di non lamentarsi mai sono il diavolo. Sono davvero il diavolo; non è forse quella spavalderia di stoicismo tutto il punto del culto byroniano di [[Satan|Satana]]? Ho sentito tutto questo; ma per quanto mi sforzassi non riuscivo a sentire di nulla di tangibile di cui ella avesse da lamentarsi. Nessuno pretese che suo marito bevesse, o la picchiasse, o la lasciasse senza denaro, o persino che le fosse infedele, fino alla voce circa gli incontri segreti, che non erano altro che la sua personale, melodrammatica abitudine di tormentarlo con prediche a domicilio nel suo stesso ufficio. E quando si guardava ai fatti, a parte l'impressione atmosferica di [[Martyrdom|martirio]] che riusciva a diffondere, i fatti stavano davvero proprio all'opposto. Mandeville smise di far denaro con le pantomime per farle piacere; cominciò a perdere denaro col dramma classico per farle piacere. Ella disponeva lo scenario e i mobili come le pareva. Voleva la commedia di Sheridan e l'ebbe; voleva la parte di Lady Teazle e l'ebbe; voleva una prova senza costumi a quella particolare ora e l'ebbe. Può valer la pena di rilevare il curioso fatto che ella lo volesse.»
 
-«Ma a che serve tutta questa tirata?» chiese l'attore, che ben di rado
-aveva sentito il suo amico ecclesiastico fare un discorso così lungo. «Mi
-pare che con tutta questa faccenda psicologica ci siamo allontanati parecchio dall'omicidio. Può
-essere fuggita con Knight; può aver imbrogliato Randall; può aver imbrogliato me. Ma non può
-aver assassinato il marito... perché tutti concordano che rimase sul palcoscenico per tutta la
-scena. Sarà anche malvagia; ma non è mica una [[Witch|strega]].»
+«Ma a che serve tutta questa tirata?» chiese l'attore, che non aveva quasi mai udito il suo amico prete fare un discorso tanto lungo. «Ci pare di esserci allontanati parecchio dal delitto, in tutta questa faccenda psicologica. Può darsi che sia fuggita con Knight; può darsi che abbia raggirato Randall; può darsi che abbia raggirato me. Ma non può aver assassinato suo marito, poiché tutti concordano che era sul palco per tutta la scena. Può essere malvagia; ma non è una [[Witch|strega]].»

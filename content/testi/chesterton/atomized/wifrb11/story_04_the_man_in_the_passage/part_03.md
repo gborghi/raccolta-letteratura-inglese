@@ -135,7 +135,7 @@ the half-savage prisoner stared at the running [[Blood|blood]] with a steady smi
 
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/works/wifrb11-(chesterton)">The Wisdom of Father Brown</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/wifrb11-(chesterton)">The Wisdom of Father Brown</a> › <a href="/testi/chesterton/atomized/wifrb11/story_04_the_man_in_the_passage">Story 04 The Man in the Passage</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/wifrb11/story_04_the_man_in_the_passage/part_02">‹ part 02</a><a class="ex-next" href="/testi/chesterton/atomized/wifrb11/story_04_the_man_in_the_passage/part_04">part 04 ›</a></div>
 </nav>
 

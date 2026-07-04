@@ -345,10 +345,14 @@ because they were too frightful to see.
 <div class="excerpt-crumb">Chesterton · <a href="/works/thursday-(chesterton)">The Man Who Was Thursday</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/thursday/chapter_04">‹ Chapter 04</a><a class="ex-next" href="/testi/chesterton/atomized/thursday/chapter_06">Chapter 06 ›</a></div>
 </nav>
+<nav class="excerpt-children">
+<div class="excerpt-children-label">In questa sezione</div>
+<ul><li><a href="/testi/chesterton/atomized/thursday/chapter_05/part_01">Part 1</a></li><li><a href="/testi/chesterton/atomized/thursday/chapter_05/part_02">Part 2</a></li><li><a href="/testi/chesterton/atomized/thursday/chapter_05/part_03">Part 3</a></li></ul>
+</nav>
 
 # [[thursday]] — Capitolo 5
 
-                          CAPITOLO V
+CAPITOLO V
 
                       IL BANCHETTO DELLA [[Fear|PAURA]]
 

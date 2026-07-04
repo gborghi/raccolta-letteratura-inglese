@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/apprandcritofchdickens-(chesterton)">ApprAndCritOfChDickens</a> › <a href="/testi/chesterton/atomized/apprandcritofchdickens/chapter_01_page">Chapter 01 PAGE</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/apprandcritofchdickens/chapter_01_page/part_30">‹ part 30</a><a class="ex-next" href="/testi/chesterton/atomized/apprandcritofchdickens/chapter_01_page/part_32">part 32 ›</a></div>
@@ -183,3 +185,182 @@ about the [[Death|death]] of Napoleon in St. [[Helena]]. The description is bett
 than that of Codlin and Short's Punch and Judy, and almost as good as
 
 that of Mrs. Jarley's Wax Works. Indeed the [[Humour|humour]] is similar; for Punch
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/apprandcritofchdickens-(chesterton)">ApprAndCritOfChDickens</a> › <a href="/testi/chesterton/atomized/apprandcritofchdickens/chapter_01_page">Chapter 01 PAGE</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/apprandcritofchdickens/chapter_01_page/part_30">‹ part 30</a><a class="ex-next" href="/testi/chesterton/atomized/apprandcritofchdickens/chapter_01_page/part_32">part 32 ›</a></div>
+</nav>
+
+comprendere o ricordare la corrispondente [[Truth|verità]] che l'accompagna,
+
+ossia che la folla è il solo sacerdote sommo permanente e inespugnabile.
+
+La [[democracy|democrazia]] spinge le proprie tradizioni con troppa foga; ma la [[democracy|democrazia]] è la sola
+
+cosa che conservi una qualche tradizione. Un'aristocrazia deve sempre andare
+
+a caccia di qualche novità. La severità della [[democracy|democrazia]] è assai più una virtù
+
+che non la sua libertà. Il decoro di una [[democracy|democrazia]] è assai più un pericolo
+
+che non la sua sfrenatezza. Dickens lo scoprì nelle sue grandi contese
+
+a proposito del diritto d'autore, quando un'intera nazione, su un minuto punto
+
+d'opinione, si comportò come se fosse sul punto di linciarlo. Ma, per fortuna
+
+ai fini di questo ragionamento, non occorre risalire agli anni Quaranta per
+
+un caso simile. Un altro grande uomo di lettere ha di recente visitato l'[[america|America]]; ed
+
+è possibile che Maxim Gorky sia in grado di dire fino a che punto
+
+la [[democracy|democrazia]] tenda a peccare dalla parte della mera libertà e del lassismo. Egli
+
+può aver trovato, come Dickens, una certa [[Freedom|libertà]] di costumi; non trovò
+
+molta [[Freedom|libertà]] di morale.
+
+Insieme a una tale critica dell'America dovrebbe davvero andare il suo assai
+
+caratteristico compendio della questione del Pellerossa. Esso segna la
+
+combinazione fra la ristrettezza mentale e la giustizia morale del
+
+vecchio Liberale. Dickens non sa vedere nel Pellerossa null'altro se non che è
+
+barbaro, retrogrado, bellicoso, sudicio e superstizioso; in breve,
+
+che non è membro della speciale civiltà di Birmingham o
+
+di Brighton. È curioso notare il contrasto fra l'allegro, anzi
+
+plebeo, disprezzo con cui Dickens parla dell'Indiano d'America e
+
+quel cavalleresco e patetico [[Essay|saggio]] in cui Washington Irving celebra
+
+le virtù della razza che va scomparendo. Fra Washington Irving e il suo
+
+amico Charles Dickens vi fu sempre, in verità, questa ironica [[Comedy|commedia]] del
+
+rovesciamento. È spassoso che l'inglese sia stato il
+
+modernista intraprendente e persino impertinente, e l'americano lo compassato
+
+antiquario e [[Lover|amante]] delle cause perdute. Ma mentre un uomo di più mature
+
+simpatie può [[Well|ben]] detestare l'avversione di Dickens per i selvaggi, e persino
+
+disdegnarne il disdegno, dovrebbe rammentare bruscamente a sé stesso l'ammirevole
+
+equità etica e la giustizia che accompagnano quella visione limitata. Nell'atto
+
+stesso di descrivere i Pellerossa come demoni che, al pari di tanta sozzura,
+
+converrebbe spazzar via, egli si arresta per negare enfaticamente che noi
+
+abbiamo alcun diritto di spazzarli via. Non abbiamo diritto di far torto a quell'uomo, egli
+
+vuol dire, anche se egli stesso sia una sorta di torto. Qui percuotiamo il
+
+ferro sonante della vecchia [[Conscience|coscienza]] e del senso dell'[[Honour|onore]] che segnavano i
+
+migliori uomini del suo partito e della sua epoca. Questa rigida e persino riluttante
+
+giustizia si erge, a ogni modo, ben al di sopra delle moderne vedute sui selvaggi, al di sopra
+
+del sentimentalismo del mero umanitario e del ben più fiacco
+
+sentimentalismo che perora la brutalità e una guerra di razza. Dickens era per
+
+lo meno più uomo del brutalitario che pretende di far torto alla gente
+
+perché è sgradevole, o dell'umanitario che non sa esser giusto verso di essa
+
+senza fingere che sia gradevole.
+
+IMMAGINI DALL'[[Italy|ITALIA]]
+
+Le _Pictures from Italy_ sono eccellenti in sé ed eccellenti come
+
+contraltare agli _American Notes_. Qui non abbiamo nulla di quell'aria di emettere una
+
+sentenza come un giudice o di consegnare un rapporto come un ispettore; qui
+
+abbiamo soltanto scorci, scorci leggeri e persino fantastici, di un mondo che
+
+è davvero estraneo a Dickens. È tanto estraneo che egli può quasi interamente
+
+goderselo. Poiché nessun uomo può godere interamente ciò che ama; la contentezza
+
+è sempre antipatriottica. La differenza può in verità essere resa con approssimativa
+
+perfezione in una sola frase. In [[Italy|Italia]] era in vacanza; in [[america|America]] era
+
+in tournée. Ma in verità Dickens stesso ha reso in modo del tutto sufficiente
+
+la differenza nelle due espressioni che egli effettivamente usò per
+
+i titoli dei due libri. Dickens diceva spesso verità inconsapevoli,
+
+specialmente nelle piccole cose. Gli _American Notes_ sono davvero appunti, come
+
+gli appunti di uno studente o di un testimone di professione. Le _Pictures from
+
+Italy_ sono soltanto immagini dall'[[Italy|Italia]], come le immagini d'ogni sorta
+
+che tutti i turisti riportano dall'[[Italy|Italia]].
+
+Per prendere un'altra e forse più calzante figura retorica, quasi tutte
+
+le opere di Dickens come queste possono al meglio considerarsi lettere private
+
+indirizzate al pubblico. La sua corrispondenza privata era altrettanto
+
+brillante delle sue opere pubbliche; e molte delle sue opere pubbliche sono quasi
+
+altrettanto informi e casuali della sua corrispondenza privata. Se fosse stato
+
+reso privo di sensi per un anno, credo davvero che i suoi amici e familiari
+
+avrebbero potuto pubblicare da soli uno dei suoi libri migliori, se solo si fossero
+
+trovati a conservare le sue lettere. L'omogeneità della sua opera pubblica e privata
+
+era in verità strana per molti versi. Da un lato, ben poco
+
+vi era di pomposamente e inconfondibilmente pubblico nelle pubblicazioni; dall'altro
+
+lato, ben poco vi era di privato nelle lettere
+
+private. La sua ilarità aveva quasi una sorta di durezza; le lettere di nessun
+
+uomo, credo, ebbero mai bisogno di minori tagli per motivi di
+
+debolezza o di indebita confessione. La parte principale, e certamente la parte
+
+migliore, di un libro come le _Pictures from Italy_ può senz'altro essere
+
+criticata al meglio come parte di quel perpetuo torrente di divertente
+
+autobiografia che egli riversava sui suoi figli come se fossero i suoi lettori
+
+e sui suoi lettori come se fossero i suoi figli. Vi sono alcuni brillanti
+
+squarci di senno e di nonsenso in questo libro; ma vi è sempre
+
+qualcosa di accidentale in essi; come se avrebbero potuto capitare da qualche altra
+
+parte. Forse il più affascinante di essi è l'incomparabile
+
+descrizione del Teatro delle Marionette italiano, in cui si recitava un dramma
+
+sulla [[Death|morte]] di Napoleone a Sant'[[Helena|Elena]]. La descrizione è migliore
+
+di quella del Punch and Judy di Codlin e Short, e quasi altrettanto buona
+
+di quella del Museo delle Cere della signora Jarley. Anzi, l'[[Humour|umorismo]] è simile; poiché Punch

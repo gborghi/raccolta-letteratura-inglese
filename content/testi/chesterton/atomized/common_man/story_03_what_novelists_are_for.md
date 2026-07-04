@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/common-man-(chesterton)">Common Man</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/common_man/story_02_monsters_and_the_middle_ages">‹ Story 02 Monsters And The Middle Ages</a><a class="ex-next" href="/testi/chesterton/atomized/common_man/story_04_the_superstition_of_school">Story 04 The Superstition Of School ›</a></div>
@@ -172,3 +174,172 @@ ended which defends the [[Sanity|sanity]] of the world against all the stark
 anarchies and rending negations which rage against it for ever.
 That war is never finished in this world; and the grass has hardly
 grown on the graves of our own friends who fell in it.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/common-man-(chesterton)">Common Man</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/common_man/story_02_monsters_and_the_middle_ages">‹ Story 02 Monsters And The Middle Ages</a><a class="ex-next" href="/testi/chesterton/atomized/common_man/story_04_the_superstition_of_school">Story 04 The Superstition Of School ›</a></div>
+</nav>
+
+A CHE COSA SERVONO I ROMANZIERI
+
+Molto [[Time|tempo]] fa, quando mi trovavo per caso a vivere a Rye, nel Sussex, ebbi
+l'[[Honour|onore]] di ricevere la visita di due uomini illustrissimi; erano
+entrambi americani e, per giunta, fratelli; ma il tipo del loro
+[[success|successo]] appariva stranamente diverso. L'uno era Henry James, il romanziere,
+che abitava nella casa accanto; l'altro era William James, il filosofo,
+che aveva appena attraversato l'Atlantico e sembrava frizzante come il mare.
+In verità, fra i due uomini correva un contrasto quasi fantastico:
+l'uno così solenne intorno a particolari mondani spesso ritenuti insignificanti;
+l'altro così cordiale intorno a studi astratti generalmente ritenuti aridi.
+Henry James parlava di crostini e di tazze da tè con l'imponenza
+di un [[Ghost|fantasma]] di famiglia; mentre William James parlava del metabolismo
+e dell'involuzione dei valori con l'aria di un uomo che rievoca i propri
+amoreggiamenti sul piroscafo. Ma per quanto io nutrissi e nutra la più grande
+stima possibile per l'uno e per l'altro, non posso fare a meno di pensare che una certa
+completezza, e incompletezza, relativa, nel contrasto fra
+loro, riveli una certa [[Truth|verità]] intorno a due diversi tipi di lettere.
+
+Di recente rileggevo uno dei saggi straordinariamente
+acuti del compianto Harvey Wickham sul pensiero moderno,
+compreso quello su William James.
+Credo che il critico fosse sostanzialmente equo verso la [[philosophy|filosofia]], ma non del tutto
+equo verso il filosofo. Non penso, da parte mia, che il Pragmatismo
+possa mai reggere come serio rivale della [[philosophy|filosofia]] perenne
+della [[Truth|Verità]] e dell'Assoluto. Ma penso davvero che William James
+si sia effettivamente imposto come un combattente in gamba e un solerte spazzino
+di quella particolare specie di solenni sciocchezze che più correvano ai suoi [[Time|tempi]].
+Può darsi che egli abbia servito solo indirettamente la causa della fede nella fede.
+Ma fece molto per servire la causa dell'incredulità nell'incredulità;
+obiettivo assai salutare. Ma non è questo il mio punto principale. Mi sembra
+che là dove William James fallì fosse esattamente là dove Henry James riuscì:
+nel comporre un intero disegno a partire da sottili sfumature e da casi dubbi.
+Ora, questo lo si può fare con un [[Novel|romanzo]], poiché esso pretende soltanto di essere eccezionale.
+Non lo si può fare con la [[philosophy|filosofia]], poiché essa deve pretendere di essere universale.
+
+Il Pragmatismo fallisce perché è un cosmo fatto di ritagli e avanzi.
+Ma le storie sono migliori quando sono fatte di ritagli e avanzi; specialmente se
+gli avanzi sono molto strani. Rievocando a caso alcune storie di Henry James,
+ce n'era una su un giovane intelligente che, inspiegabilmente, diveniva una sorta
+di gatto addomesticato nella [[house|casa]] di una coppia di persone ricche ma indicibilmente ottuse.
+Ma ciò non accade perché egli sia uno snob o un leccapiedi, bensì perché
+è realmente commosso da una devozione e da un'illusione della vecchia coppia
+riguardo alla figlia morta, la cui vita essi prolungano in una sorta
+di sogno a occhi aperti, nel quale il giovane figura come l'[[Lover|amante]] di lei.
+È fatto in modo mirabile e delicato; e non pare impossibile.
+Ora, se applichiamo a tutto questo una qualsiasi [[philosophy|filosofia]] morale al mondo,
+per quanto moderna, per quanto folle, tutti rifuggiremo dallo stabilire
+come regola generale che i giovani debbano scroccare ai vecchi,
+che debbano incoraggiarne le illusioni, che questo *ménage* sia un modello
+per il normale [[Home|focolare]]. Ma è esattamente a questo che serve un romanziere.
+Egli non è tenuto a giustificare gli esseri umani, ma soltanto a umanizzarli.
+Spetta a lui, e non al filosofo, occuparsi di tutto questo capitolo
+degli imprevisti, nel quale «le cose vanno diversamente nella pratica».
+L'errore di William James fu che non riversò le sue idee in romanzi,
+come il fratello, dove un simile opportunismo è del tutto appropriato.
+Cercò di ricavare un sistema cosmico da questi imprevisti
+e da questo opportunismo; e il sistema non è sistematico.
+Il paragone reca con sé un tenue accenno al fatto che i romanzieri possono, dopo tutto,
+essere di qualche utilità.
+
+LA [[Song|CANZONE]] DI ORLANDO
+
+QUASI TUTTI noi ricordiamo di aver letto, nei manuali di storia
+della nostra [[Childhood|infanzia]], che alla Battaglia di [[Hastings]] Taillefer
+il Giullare avanzò dinanzi all'Esercito Normanno, lanciando in aria la [[Sword|spada]]
+e cantando la [[Song|Canzone]] di Orlando. Erano, naturalmente,
+manuali di storia di stampo assai vittoriano, che passavano lievemente sopra
+l'Impero Romano e le [[Crusades|Crociate]] per giungere a cose serie,
+come la genealogia di Giorgio I o l'amministrazione di Addington.
+Ma quell'unica immagine emergeva nell'[[Imagination|immaginazione]] come qualcosa di vivo nel suo
+morto contesto, come quando si scorge un volto familiare in un arazzo sbiadito.
+La [[Song|canzone]] che egli cantava non era, presumibilmente, il nobile e aspro
+[[Epic|poema epico]] che il Maggiore Scott Moncrieff ha reso alle lettere un servizio così solido e persino
+storico traducendolo per intero.
+Il Giullare deve aver scelto, come minimo, brani o passi prediletti,
+altrimenti le battaglie ne sarebbero state indebitamente ritardate. Ma il racconto reca
+la stessa morale della [[Translation|traduzione]], poiché entrambi hanno la medesima ispirazione.
+Il pregio del racconto stava nel suggerire alla mente infantile,
+attraverso tutti gli effetti attutenti della distanza e dell'indifferenza, che un uomo
+non compie un simile gesto con una [[Sword|spada]] se non prova qualcosa,
+e che un uomo non canta se non ha qualcosa da cantare.
+La cupa avarizia e l'appetito di terre feudali non ispirano
+tali giochi di destrezza. In breve, il pregio del racconto stava nel
+lasciar intendere che c'è un cuore nella [[history|storia]], persino nella [[history|storia]] remota.
+E il pregio della [[Translation|traduzione]] sta nel fatto che, se vogliamo davvero imparare
+la [[history|storia]], dobbiamo, in un [[Double|duplice]] senso della parola, impararla a memoria.
+Dobbiamo impararla per esteso e, per così dire, in larghezza, indugiando
+sugli spazi casuali dell'opera contemporanea, per [[Love|amore]] del suo dettaglio,
+e si potrebbe quasi dire per [[Love|amore]] della sua monotonia. Persino un lettore
+casuale come me, che soltanto qua e là si immerge in cose simili,
+purché siano davvero cose dell'epoca, può spesso imparare
+di più da esse che dai più accurati compendi costituzionali
+o dai riassunti politici di uomini moderni più dotti di lui.
+Un uomo moderno, educato sui manuali di storia moderni, può trovarvi
+le cose che non si aspetta. Ho qui spazio soltanto per
+un esempio, fra i molti che potrei addurre a chiarire ciò che intendo.
+La maggior parte dei manuali consueti dice al giovane studente qualcosa di
+ciò che il Feudalesimo fu nella forma e nell'usanza giuridica: che i subordinati
+si chiamavano vassalli, che prestavano omaggio, e così via.
+Ma lo fa in qualche modo tale da suggerire un'obbedienza selvaggia
+e imbronciata, come se un vassallo non fosse altro che un servo della gleba.
+Ciò che si tralascia è il fatto che l'omaggio era davvero omaggio,
+cosa degna di un uomo. Il primo sentimento feudale aveva qualcosa
+di ideale e persino di impersonale, come il patriottismo. Le nazioni non erano
+ancora nate; e questi gruppi più piccoli avevano quasi l'[[Soul|anima]] di nazioni.
+Il lettore troverà la parola «vassallaggio» usata più e più volte in un tono
+che non è soltanto eroico ma addirittura altero. Il vassallo è manifestamente
+altrettanto fiero di essere vassallo quanto chiunque potrebbe esserlo di essere signore.
+Anzi, il poeta feudale usa la parola «vassallaggio» là dove un poeta
+moderno userebbe la parola «cavalleria». I Paladini che caricano
+i Pagani sono sospinti dal vassallaggio. Turpino l'Arcivescovo
+fa a pezzi il capo musulmano, costola dopo costola; e i Cristiani,
+al veder il suo trionfo, gridano nel loro [[Pride|orgoglio]] che egli ha dato prova
+di gran vassallaggio, e che con un simile Arcivescovo la [[Cross|Croce]] è al sicuro.
+Non c'erano Obiezioni di Coscienza nel loro [[Christianity|Cristianesimo]].
+
+Questo è un esempio di quelle verità che la letteratura storica dovrebbe farci
+sentire, ma che i meri manuali di storia molto di rado ci fanno sentire. L'unico esempio
+che ho già dato, quello del Giullare a [[Hastings]], è un intreccio
+di curiose verità che potrebbero essere trasmesse e che molto di rado lo sono.
+Avremmo potuto apprendere, per esempio, che cosa fosse un Giullare,
+e renderci conto che questi poteva provare sentimenti profondi e fantastici
+quanto il Giullare celebrato nel poema del dodicesimo secolo, che morì
+gloriosamente danzando e facendo capriole dinanzi all'immagine
+di Nostra Signora; che egli apparteneva al mestiere assunto a modello dalla mistica
+letizia di San Francesco, il quale chiamava i suoi [[Monks|frati]] i Giullari di Dio.
+Un uomo deve leggere almeno un poco dell'opera contemporanea stessa prima
+di trovare così il cuore umano dentro l'armatura e la tonaca monastica;
+gli uomini che scrivono la [[philosophy|filosofia]] della [[history|storia]] di rado ci danno
+la [[philosophy|filosofia]], e ancor meno la religione, dei personaggi storici.
+E l'esempio finale di ciò è qualcosa che è illustrato anche
+dall'oscuro menestrello che lanciava in alto la sua [[Sword|spada]] mentre cantava
+la [[Song|Canzone]] di Orlando, tanto [[Well|quanto]] dalla [[Song|Canzone]] di Orlando stessa.
+La [[history|storia]] moderna, prevalentemente etnologica o economica, parla sempre di una cosa
+come l'avventura normanna nel linguaggio alquanto volgare del [[success|successo]];
+ma è [[Well|bene]] notare, nella vera vicenda normanna, che proprio il bardo
+posto in testa alla loro linea di battaglia gridava la glorificazione del fallimento.
+Testimonia una [[Truth|verità]] insita nel cuore stesso della Cristianità il fatto che
+persino il poeta di [[Court|corte]] di Guglielmo il Conquistatore celebrasse
+Orlando il vinto.
+
+Quella nota alta della [[Hope|speranza]] disperata, di una schiera messa alle strette e di una battaglia contro
+avversità senza fine, è la nota su cui si chiude il grande [[Epic|poema epico]] francese.
+Non conosco nulla di più commovente, in poesia, di quel finale strano e inatteso;
+di quella conclusione splendidamente inconclusiva. Carlomagno, il grande
+imperatore cristiano, ha finalmente stabilito il suo impero nella quiete,
+ha reso giustizia quasi al modo di un giorno del giudizio, e dorme
+per così dire sul suo trono con una pace quasi simile a quella del Paradiso.
+Ed ecco che gli appare l'angelo di Dio, gridando a gran voce che le sue
+armi sono necessarie in una terra nuova e lontana, e che egli deve riprendere
+la marcia interminabile dei suoi giorni. E il grande [[King|re]] si [[Tears|strappa]]
+la lunga barba bianca e leva grida contro la sua vita senza riposo.
+Il poema si chiude, per così dire, con una visione e una prospettiva di guerre contro
+i barbari; e la visione è vera. Poiché mai finisce quella guerra
+che difende la [[Sanity|salute mentale]] del mondo contro tutte le fosche
+anarchie e le negazioni laceranti che infuriano contro di esso per sempre.
+Quella guerra non è mai conclusa in questo mondo; e l'erba è appena
+cresciuta sulle tombe dei nostri stessi amici che vi sono caduti.

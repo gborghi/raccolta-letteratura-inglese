@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/scandal-fr-brown-(chesterton)">scandal Fr Brown</a> › <a href="/testi/chesterton/atomized/scandal_fr_brown/story_11_the_vampire_of_the_village">Story 11 The Vampire of the Village</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/scandal_fr_brown/story_11_the_vampire_of_the_village/part_02">‹ part 02</a><a class="ex-next" href="/testi/chesterton/atomized/scandal_fr_brown/story_11_the_vampire_of_the_village/part_04">part 04 ›</a></div>
@@ -112,3 +114,32 @@ my best scenes and ruined my career? I was the finest Tubal that ever
 trod the boards. He acted [[Shylock]] - he didn't need to act much for that!
 And so with the greatest opportunity of my whole career. I could show
 you press - cuttings on my renderings of Fortinbras - '
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/scandal-fr-brown-(chesterton)">scandal Fr Brown</a> › <a href="/testi/chesterton/atomized/scandal_fr_brown/story_11_the_vampire_of_the_village">Story 11 The Vampire of the Village</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/scandal_fr_brown/story_11_the_vampire_of_the_village/part_02">‹ part 02</a><a class="ex-next" href="/testi/chesterton/atomized/scandal_fr_brown/story_11_the_vampire_of_the_village/part_04">part 04 ›</a></div>
+</nav>
+
+Non era così illogico (né così poco ortodosso) da inferire da questo [[Alone|solo fatto]] che ella fosse [[Innocent|innocente]] del presunto crimine. Sapeva [[Well|bene]] che la sua vecchia comunione religiosa poteva vantare diversi avvelenatori insigni. Ma non aveva difficoltà a comprenderne il legame, in un caso del genere, con una certa libertà intellettuale che questi puritani avrebbero chiamato rilassatezza; e che a questo parrocchiale lembo di una vecchia Inghilterra sarebbe di certo parsa quasi cosmopolita. Comunque, era sicuro che lei potesse contare per molto, tanto nel bene quanto nel male. I suoi occhi bruni erano coraggiosi fino alla battaglia, e la sua bocca enigmatica, spiritosa e piuttosto grande, faceva pensare che i suoi propositi riguardo al poetico figlio del parroco, quali che fossero, erano piantati piuttosto in profondità.
+
+Il poetico figlio del parroco stesso, intervistato in mezzo a un vasto scandalo di villaggio su una panca fuori dal Blue [[Lion]], diede l'impressione di puro broncio. Hurrel Horner, figlio del reverendo Samuel Horner, era un giovane dalla corporatura tozza, in un abito grigio pallido con un tocco di qualcosa di artistico in una cravatta verde pallido, per il resto notevole soprattutto per una criniera di capelli ramati e un cipiglio perenne. Ma [[Father Brown]] aveva un suo modo di indurre la gente a spiegare a considerevole lunghezza perché si rifiutava di dire una sola parola. A proposito del generale pettegolezzo scandalistico del villaggio, il giovanotto cominciò a imprecare liberamente. Vi aggiunse anzi un po' di pettegolezzo scandalistico suo proprio. Alluse con amarezza a presunti flirt passati fra la puritana Miss Carstairs-Carew e Mr Carver il notaio. Accusò persino quel personaggio legale di aver tentato di imporsi alla conoscenza di Mrs Maltravers. Ma quando venne a parlare del proprio padre, fosse per un'acida decenza o pietà, o perché la sua ira era troppo profonda per la parola, sbottò soltanto in poche parole.
+
+«[[Well|Ecco]], le cose stanno così. La denuncia giorno e [[Night|notte]] come un'avventuriera imbellettata; una specie di cameriera da bar coi capelli dorati. Io gli dico che non lo è; l'avete conosciuta voi stesso, e sapete che non lo è. Ma lui non vuole nemmeno incontrarla. Non vuole neppure vederla per strada o guardarla da una [[Window|finestra]]. Un'attrice inquinerebbe la sua [[house|casa]] e persino la sua santa presenza. Se lo chiamano puritano, dice di essere fiero di essere un puritano.»
+
+«Vostro padre,» disse [[Father Brown]], «ha diritto a vedere rispettate le proprie opinioni, quali che siano; non sono opinioni che io stesso capisca molto [[Well|bene]]. Ma convengo che non ha diritto di dettare legge su una signora che non ha mai visto e poi rifiutarsi persino di guardarla, per vedere se ha ragione. Questo è illogico.»
+
+«È il suo punto più irremovibile,» rispose il ragazzo. «Neppure un solo incontro fugace. Naturalmente, tuona [[Well|anche]] contro gli altri miei gusti teatrali.»
+
+[[Father Brown]] seguì prontamente il nuovo spiraglio, e apprese molto di ciò che voleva sapere. La presunta poesia, che era una tale macchia sul carattere del giovane, era quasi interamente poesia drammatica. Aveva scritto tragedie in versi che erano state ammirate da buoni intenditori. Non era un mero [[Fool|sciocco]] invaghito del palcoscenico; anzi, non era affatto uno [[Fool|sciocco]]. Aveva alcune idee davvero originali su come recitare Shakespeare; era facile capire come fosse rimasto abbagliato e deliziato nell'imbattersi nella brillante signora della Grange. E persino la simpatia intellettuale del prete addolcì a tal punto il [[Rebel|ribelle]] di Potter's Pond che, al momento di separarsi, egli sorrise davvero.
+
+Fu quel sorriso a rivelare all'improvviso a [[Father Brown]] che il giovane era davvero infelice. Finché aggrottava la fronte, poteva anche [[Well|ben]] trattarsi soltanto di broncio; ma quando sorrideva, era in qualche modo una rivelazione più autentica di dolore.
+
+Qualcosa continuava a tormentare il prete a proposito di quel colloquio col poeta. Un istinto interiore certificava che il robusto giovanotto era roso dall'interno, da un dolore ancor più grande della storia convenzionale di genitori convenzionali che si fanno ostacolo al corso del vero [[Love|amore]]. Tanto più che non c'era alcuna ovvia causa alternativa. Il ragazzo era già un [[success|successo]] letterario e drammatico piuttosto notevole; si poteva dire che i suoi libri andavano a gonfie vele. Né beveva o dissipava la sua [[Well|ben]] guadagnata ricchezza. Le sue famigerate gozzoviglie al Blue [[Lion]] si riducevano a un bicchiere di birra leggera; e pareva essere piuttosto attento col denaro. [[Father Brown]] pensò a un'altra possibile complicazione in connessione con le ampie risorse e le esigue spese di Hurrel; e la sua fronte si oscurò.
+
+La conversazione di Miss Carstairs-Carew, dalla quale si recò in seguito, era di certo calcolata per dipingere il figlio del parroco coi colori più foschi. Ma poiché era votata a fulminarlo con tutti quei particolari vizi che [[Father Brown]] era ben certo il giovane non esibisse, egli l'attribuì a una comune combinazione di [[Puritanism|puritanesimo]] e chiacchiere. La signora, benché altezzosa, fu però assai garbata, e offrì al visitatore un bicchierino di vino di Porto e una fetta di dolce ai semi, alla maniera delle prozie più antiche di chiunque, prima che egli riuscisse a sottrarsi a un sermone sulla generale [[Decay|decadenza]] della morale e dei costumi.
+
+Il suo successivo scalo fu un vero e proprio contrasto; poiché scomparve giù per un vicolo scuro e sudicio, dove Miss Carstairs-Carew si sarebbe rifiutata di seguirlo persino col pensiero; e poi in una stretta catapecchia resa più rumorosa da una voce alta e declamatoria in un solaio... Da questa riemerse, con un'espressione piuttosto stordita, inseguito fin sul marciapiede da un uomo assai eccitato dal mento bluastro e da una redingote nera stinta fino al verde bottiglia, che gridava argomentando: «Non è scomparso! Maltravers non è mai scomparso! È apparso: è apparso morto e io sono apparso vivo. Ma dov'è tutto il resto della compagnia? Dov'è quell'uomo, quel [[Monster|mostro]], che deliberatamente mi rubò le battute, mi rovinò le scene migliori e mandò in rovina la mia carriera? Io ero il più bel Tubal che avesse mai calcato le tavole del palcoscenico. Lui faceva [[Shylock]] — e non aveva bisogno di recitare granché per quello! E così con la più grande occasione di tutta la mia carriera. Potrei mostrarvi ritagli di giornale sulle mie interpretazioni di Fortebraccio...»

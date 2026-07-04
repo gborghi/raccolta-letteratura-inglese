@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/scandal-fr-brown-(chesterton)">scandal Fr Brown</a> › <a href="/testi/chesterton/atomized/scandal_fr_brown/story_09_i_mean_it_s_easy_to_say_you_ve_thrown_it">Story 09 I mean it s easy to say you ve thrown it</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/scandal_fr_brown/story_09_i_mean_it_s_easy_to_say_you_ve_thrown_it/part_01">‹ part 01</a><a class="ex-next" href="/testi/chesterton/atomized/scandal_fr_brown/story_09_i_mean_it_s_easy_to_say_you_ve_thrown_it/part_03">part 03 ›</a></div>
@@ -122,3 +124,120 @@ note of his discoveries the day before old [[Hubert]] disappeared.'
 know where the [[Body|body]] is.'
 
 'Do you mean -?' began his host hastily.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/scandal-fr-brown-(chesterton)">scandal Fr Brown</a> › <a href="/testi/chesterton/atomized/scandal_fr_brown/story_09_i_mean_it_s_easy_to_say_you_ve_thrown_it">Story 09 I mean it s easy to say you ve thrown it</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/scandal_fr_brown/story_09_i_mean_it_s_easy_to_say_you_ve_thrown_it/part_01">‹ part 01</a><a class="ex-next" href="/testi/chesterton/atomized/scandal_fr_brown/story_09_i_mean_it_s_easy_to_say_you_ve_thrown_it/part_03">part 03 ›</a></div>
+</nav>
+
+«No; ma capisco cosa intende», disse Stanes, «dicendo che io non vedevo neppure
+il problema. Non si tratta solo di chi abbia ucciso Sand; si tratta del perché
+qualcuno dovrebbe accusare qualcun altro di aver ucciso Sand e poi accusare Sand
+di essersi ucciso.»
+
+Il volto di [[Father Brown|Padre Brown]] era annodato e il sigaro era stretto
+fra i suoi denti; l'estremità solcava e si oscurava ritmicamente come il segnale
+di qualche ardente pulsare del cervello. Poi parlò come tra sé:
+
+«Dobbiamo seguire il filo con molta attenzione e molta chiarezza. È come
+separare i fili del pensiero l'uno dall'altro; qualcosa di questo genere. Poiché
+l'accusa di omicidio in realtà guastava piuttosto l'accusa di
+[[suicide|suicidio]], normalmente non avrebbe mosso l'accusa di omicidio. Ma
+l'ha mossa; dunque aveva qualche altra ragione per muoverla. Era una ragione così
+forte che forse lo riconciliava perfino con l'indebolimento dell'altra sua linea
+di difesa; ossia che si trattasse di un [[suicide|suicidio]]. In altre parole,
+l'accusa di omicidio non era in realtà un'accusa di omicidio. Voglio dire che
+non la usava come accusa di omicidio; non la muoveva per scaricare su qualcun
+altro la [[Guilt|colpa]] dell'omicidio; la muoveva per qualche altra
+straordinaria ragione tutta sua. Il suo piano doveva contenere un proclama che
+Sand sarebbe stato assassinato; sia che gettasse sospetti su altre persone sia
+che no. In un modo o nell'altro, il proclama in sé era necessario. Ma perché?»
+
+Fumò e covò via con la medesima vulcanica concentrazione per cinque minuti,
+prima di parlare di nuovo. «Che cosa poteva fare un proclama omicida, oltre a
+suggerire che gli assassini fossero gli scioperanti? Che cosa fece? Una cosa è
+ovvia; fece inevitabilmente l'opposto di ciò che diceva. Diceva a Sand di non
+serrare fuori i suoi uomini; ed era forse l'unica cosa al mondo che davvero lo
+avrebbe indotto a farlo. Bisogna pensare al tipo d'uomo e al tipo di reputazione.
+Quando un uomo è stato chiamato Uomo Forte dai nostri sciocchi giornali
+sensazionalisti, quando è teneramente considerato uno Sportivo da tutti i più
+insigni somari d'Inghilterra, semplicemente non può fare marcia indietro perché
+lo si minaccia con una [[Pistol|pistola]]. Sarebbe come passeggiare ad Ascot con
+una piuma bianca infilata nel suo assurdo cilindro bianco. Spezzerebbe quell'idolo
+o ideale interiore di sé stesso, che ogni uomo, purché non sia un autentico
+vigliacco, preferisce davvero alla vita. E Sand non era un vigliacco; era
+coraggioso; era anche impulsivo. Agì all'istante come un incantesimo: suo
+nipote, che era stato più o meno immischiato con gli operai, gridò all'istante
+che la minaccia doveva essere sfidata in modo assoluto e immediato.»
+
+«Sì», disse Lord Stanes, «l'ho notato.» Si guardarono l'un l'altro per un
+istante, e poi Stanes aggiunse con noncuranza: «Dunque lei pensa che ciò che il
+criminale voleva fosse…»
+
+«La serrata!» esclamò il prete con energia. «Lo sciopero o come lo si voglia
+chiamare; la cessazione del lavoro, comunque. Voleva che il lavoro si fermasse
+all'istante; forse che i crumiri entrassero all'istante; di sicuro che gli
+iscritti al Sindacato uscissero all'istante. Ecco ciò che davvero voleva; Dio
+sa perché. E questo lo ottenne, credo, senza in realtà curarsi troppo dell'altra
+implicazione, l'esistenza di assassini bolscevichi. Ma poi… poi credo che
+qualcosa andò storto. Qui sto solo tirando a indovinare e brancolando molto
+lentamente; ma l'unica spiegazione che riesco a immaginare è che qualcosa
+cominciò ad attirare l'attenzione sulla vera sede del guaio; sulla ragione,
+qualunque fosse, del suo voler bloccare la costruzione. E allora, tardivamente,
+disperatamente e piuttosto incoerentemente, cercò di stendere l'altra traccia,
+quella che conduceva al [[River|fiume]], semplicemente e unicamente perché
+conduceva lontano dagli appartamenti.»
+
+Alzò lo sguardo attraverso i suoi occhiali lunari, assorbendo tutta la qualità
+dello sfondo e del mobilio; il lusso sobrio di un tranquillo uomo di mondo; e
+mettendolo a contrasto con le due valigie con cui il suo occupante era giunto
+così di recente in un appartamento appena finito e privo di mobilia. Poi disse
+piuttosto bruscamente: «In breve, l'assassino aveva paura di qualcosa o di
+qualcuno negli appartamenti. A proposito, perché è venuto ad abitare negli
+appartamenti?… E, sempre a proposito, il giovane Henry mi ha detto che lei
+fissò con lui un appuntamento di buon'ora quando si trasferì. È vero?»
+
+«Niente affatto», disse Stanes. «Ebbi la chiave da suo zio la [[Night|notte]]
+prima. Non ho idea del perché Henry sia venuto qui quella mattina.»
+
+«Ah», disse [[Father Brown|Padre Brown]], «allora credo di avere una qualche
+idea del perché sia venuto… Ho pensato che lei lo colse di sorpresa entrando
+proprio quando lui stava uscendo.»
+
+«Eppure», disse Stanes, guardando dall'altra parte con un luccichio negli occhi
+verde-grigi, «lei pensa piuttosto che anch'io sia un mistero.»
+
+«Penso che lei sia due misteri», disse [[Father Brown|Padre Brown]]. «Il primo è
+perché in origine si sia ritirato dagli affari di Sand. Il secondo è perché sia
+poi tornato ad abitare negli edifici di Sand.»
+
+Stanes fumò meditabondo, fece cadere la cenere e suonò un campanello sul tavolo
+davanti a sé. «Se vuole scusarmi», disse, «convocherò altri due al consiglio.
+Jackson, il piccolo [[Detective|investigatore]] che lei conosce, risponderà al
+campanello; e ho chiesto a Henry Sand di venire un po' più tardi.»
+
+[[Father Brown|Padre Brown]] si [[Rose|alzò]] dal suo posto, attraversò la
+stanza e abbassò lo sguardo, aggrottato, verso il [[Fire|camino]].
+
+«Nel frattempo», proseguì Stanes, «non mi dispiace rispondere a entrambe le sue
+domande. Lasciai gli affari di Sand perché ero certo che vi fosse sotto qualche
+imbroglio e che qualcuno stesse sottraendo tutto il denaro. Vi tornai, e presi
+questo appartamento, perché volevo vigilare per scoprire la vera [[Truth|verità]]
+sulla [[Death|morte]] del vecchio Sand… sul posto.»
+
+[[Father Brown|Padre Brown]] si voltò mentre l'[[Detective|investigatore]]
+entrava nella stanza; rimase a fissare il tappetino del focolare e ripeté: «Sul
+posto.»
+
+«Il signor Jackson le dirà», disse Stanes, «che Sir [[Hubert]] gli affidò
+l'incarico di scoprire chi fosse il ladro che derubava la ditta; e portò una
+nota delle sue scoperte il giorno prima che il vecchio [[Hubert]] scomparisse.»
+
+«Sì», disse [[Father Brown|Padre Brown]], «e ora so dove è scomparso. So dove si
+trova il [[Body|cadavere]].»
+
+«Vuole dire…?» cominciò il suo ospite in fretta.

@@ -129,7 +129,7 @@ guess it at the first go."
 
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/works/innocence-(chesterton)">The Innocence of Father Brown</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/innocence-(chesterton)">The Innocence of Father Brown</a> › <a href="/testi/chesterton/atomized/innocence/story_11_the_sign_of_the_broken_sword">Story 11 The Sign of the Broken Sword</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/innocence/story_11_the_sign_of_the_broken_sword/part_01">‹ part 01</a><a class="ex-next" href="/testi/chesterton/atomized/innocence/story_11_the_sign_of_the_broken_sword/part_03">part 03 ›</a></div>
 </nav>
 

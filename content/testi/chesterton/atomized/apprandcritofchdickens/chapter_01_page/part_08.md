@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/apprandcritofchdickens-(chesterton)">ApprAndCritOfChDickens</a> › <a href="/testi/chesterton/atomized/apprandcritofchdickens/chapter_01_page">Chapter 01 PAGE</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/apprandcritofchdickens/chapter_01_page/part_07">‹ part 07</a><a class="ex-next" href="/testi/chesterton/atomized/apprandcritofchdickens/chapter_01_page/part_09">part 09 ›</a></div>
@@ -181,3 +183,180 @@ Dickens's parents went to a debtors' [[Prison|prison]]; Dickens himself went to 
 far more unpleasant place. The debtors' [[Prison|prison]] had about it at least
 
 that element of amiable compromise and kindly [[Decay|decay]] which belonged (and
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/apprandcritofchdickens-(chesterton)">ApprAndCritOfChDickens</a> › <a href="/testi/chesterton/atomized/apprandcritofchdickens/chapter_01_page">Chapter 01 PAGE</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/apprandcritofchdickens/chapter_01_page/part_07">‹ part 07</a><a class="ex-next" href="/testi/chesterton/atomized/apprandcritofchdickens/chapter_01_page/part_09">part 09 ›</a></div>
+</nav>
+
+facile accorgersi, ora, che Dickens era l'uomo giusto; ma si potrebbe
+
+[[Well|ben]] scusare chi non avesse capito che gli _Sketches_
+
+erano il libro giusto. Dickens, ripeto, è un caso adatto a questa domanda preliminare:
+
+se vi fosse, nella sua prima opera, qualche segno chiaro del suo più alto
+
+spirito creativo. Ma Dickens è un caso assai meno adatto a tale domanda di quanto lo siano
+
+quasi tutti gli altri grandi uomini della sua epoca. Le primissime opere di
+
+Thackeray sono assai meno notevoli di quelle di Dickens. Anzi,
+
+sono assai più volgari di quelle di Dickens. E, peggio di tutto, sono
+
+assai più numerose di quelle di Dickens. Thackeray sfiorò molto più da vicino
+
+il comune fallimento letterario di quanto mai Dickens lo sfiorasse. Leggete alcune delle
+
+primissime critiche al signor Yellowplush o a [[Michael]] [[Angelo]] Titmarsh
+
+e vi accorgerete che, proprio agli inizi, vi era più potenziale
+
+goffaggine e sciocchezza in Thackeray di quanta mai ve ne fu in Dickens.
+
+Nondimeno, vi era una certa potenziale goffaggine e sciocchezza in
+
+Dickens; e quel poco che ve n'è affiora qua e là negli ammirevoli
+
+_Sketches by Boz_.
+
+Forse possiamo porre la questione così: questa è l'unica delle
+
+opere di Dickens di cui sia comunemente necessario conoscere la data. Per
+
+una comprensione fine e sottile è invero assai importante che il
+
+_Nicholas Nickleby_ sia stato scritto all'inizio della vita di Dickens, e
+
+il _Nostro comune amico_ verso la sua fine. Eppure chiunque potrebbe
+
+comprendere o godere questi libri, in qualunque momento fossero stati scritti. Se il _Nostro
+
+comune amico_ fosse stato scritto nel latino dei secoli bui, noi lo vorremmo
+
+ancora tradotto. Se pensassimo che il _Nicholas Nickleby_ non sarà
+
+scritto che di qui a trent'anni, tutti lo aspetteremmo con ansia. L'
+
+impressione generale prodotta dall'opera di Dickens è la stessa che
+
+producono le visioni miracolose: è la distruzione del [[Time|tempo]]. Tommaso
+
+d'[[aquinas|Aquino]] disse che non v'è [[Time|tempo]] al cospetto di Dio; comunque
+
+sia, non v'era [[Time|tempo]] al cospetto di Dickens. Di regola generale
+
+Dickens si può leggere in qualunque ordine; non solo in qualunque ordine di libri, ma
+
+perfino in qualunque ordine di capitoli. In un libro medio di Dickens ogni parte è
+
+così divertente e viva che potete leggere le parti a ritroso; potete leggere
+
+la lite prima e poi la causa della lite; potete innamorarvi
+
+d'[[Love|amore]] di una donna nel decimo capitolo e poi tornare al primo
+
+capitolo per scoprire chi ella sia. Questo non è caos; è [[Eternity|eternità]].
+
+Significa semplicemente che Dickens sentiva d'istinto che tutte le sue figure erano
+
+anime immortali, esistenti che egli ne scrivesse o no, e che
+
+il lettore ne leggesse o no. Vi è una qualità peculiare, come di
+
+celeste pre-esistenza, nei personaggi di Dickens. Non solo essi
+
+esistevano prima che noi ne sentissimo parlare, ma esistevano anche prima che Dickens ne sentisse
+
+parlare. Di regola quest'aria immutabile in Dickens priva d'ogni senso qualunque discussione
+
+sulla data. Ma, come ho detto, questa è l'unica opera di Dickens
+
+di cui la data _sia_ essenziale. È davvero una parte importante della
+
+critica di questo libro il dire che esso è il suo primo libro. Certi
+
+elementi di goffaggine, di ovvietà, di manifesto errore, richiedono
+
+realmente la spiegazione cronologica. È biograficamente importante
+
+che questo sia il suo primo libro, quasi esattamente allo stesso modo in cui è
+
+biograficamente importante che _Il mistero di Edwin Drood_ sia stato il suo ultimo
+
+libro. Cambiamento o no, _Edwin Drood_ ha questo evidente carattere di ultima
+
+storia: che non è finito. Ma se l'ultimo libro è
+
+incompiuto, il primo libro è ancor più incompiuto.
+
+Gli _Sketches_ si dividono, naturalmente, in due grandi classi. Una
+
+metà consiste di schizzi che sono veramente, in senso stretto,
+
+schizzi. Cioè, sono cose che non hanno storia e non hanno, nel loro
+
+disegno, nulla del carattere della creazione; sono meri fatti presi dalla
+
+strada o dalla taverna o dal municipio, annotati così come accaddero
+
+da un'intelligenza di vivacità del tutto eccezionale. La seconda classe
+
+consiste di cose puramente creative: farse, romanzi, storie in ogni
+
+caso dotate di una perfezione non naturale, o di una giustizia poetica, a coronarle.
+
+L'una classe è mirabilmente rappresentata, per esempio, dallo [[Sketch|schizzo]]
+
+che descrive il Pranzo di [[Charity|Beneficenza]], l'altra da una storia come quella di
+
+_Horatio Sparkins_. Queste cose furono quasi certamente scritte da
+
+Dickens in periodi assai diversi della sua giovinezza; e per quanto precoce sia il raccolto,
+
+non v'è [[Doubt|dubbio]] che sia un raccolto e che sia maturato durante un [[Time|tempo]]
+
+ragionevolmente lungo. Nondimeno è con questi due tipi di narrazione che il
+
+giovane Charles Dickens fa il suo primo ingresso nella letteratura inglese; vi entra con
+
+un certo numero di annotazioni giornalistiche di cose come quelle che ha visto accadere
+
+nelle strade o negli uffici, e con un certo numero di racconti brevi che peccano
+
+per il verso dello stravagante e persino del superficiale. Il giornalismo non era
+
+allora, invero, sprofondato al basso livello che da allora ha raggiunto. I suoi
+
+schizzi della sudicia [[London|Londra]] non sarebbero stati abbastanza sudici per la moderna
+
+stampa imperialista. Eppure questi suoi primi sforzi sono giornalismo, e
+
+talvolta giornalismo volgare. Fu come giornalista che egli attaccò il
+
+mondo, come giornalista che lo conquistò.
+
+Le circostanze biografiche non saranno, naturalmente, dimenticate. La
+
+vita di Dickens era stata singolare. Cresciuto in una famiglia appena tanto povera
+
+da essere dolorosamente consapevole della propria prosperità e della propria
+
+rispettabilità, egli era stato d'un tratto scagliato da una sciagura finanziaria in
+
+una condizione sociale assai al di sotto della propria. Per gli uomini che stanno proprio su quell'orlo della
+
+classe istruita, una simile transizione è davvero tragica. Un duca può farsi
+
+sterratore per scherzo, ma un impiegato non può farsi sterratore per scherzo.
+
+I genitori di Dickens finirono in una [[Prison|prigione]] per debitori; Dickens stesso finì in un
+
+luogo assai più sgradevole. La [[Prison|prigione]] per debitori aveva in sé almeno
+
+quell'elemento di amabile compromesso e di benigna [[Decay|decadenza]] che apparteneva (e

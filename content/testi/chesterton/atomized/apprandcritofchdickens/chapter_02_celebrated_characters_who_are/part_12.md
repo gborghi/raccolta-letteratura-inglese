@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/apprandcritofchdickens-(chesterton)">ApprAndCritOfChDickens</a> › <a href="/testi/chesterton/atomized/apprandcritofchdickens/chapter_02_celebrated_characters_who_are">Chapter 02 celebrated characters who are</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/apprandcritofchdickens/chapter_02_celebrated_characters_who_are/part_11">‹ part 11</a><a class="ex-next" href="/testi/chesterton/atomized/apprandcritofchdickens/chapter_02_celebrated_characters_who_are/part_13">part 13 ›</a></div>
@@ -181,3 +183,180 @@ beer, and brandy. Hence there is a richness in Dickens's portrait which
 does not exist in Mr. [[Shaw]]'s. Mr. [[Shaw]]'s waiter is merely a man of tact;
 
 Dickens's is a man of principle. Mr. [[Shaw]]'s waiter is an opportunist,
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/apprandcritofchdickens-(chesterton)">ApprAndCritOfChDickens</a> › <a href="/testi/chesterton/atomized/apprandcritofchdickens/chapter_02_celebrated_characters_who_are">Chapter 02 celebrated characters who are</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/apprandcritofchdickens/chapter_02_celebrated_characters_who_are/part_11">‹ part 11</a><a class="ex-next" href="/testi/chesterton/atomized/apprandcritofchdickens/chapter_02_celebrated_characters_who_are/part_13">part 13 ›</a></div>
+</nav>
+
+che sono già state indubitabilmente individuate e comprovate risultano spesso
+
+frammentarie. La scrittura autentica di Dickens si interrompe a un certo
+
+punto, e comincia la scrittura di qualcun altro. Ma quando la scrittura di
+
+Dickens si interrompe, credo che ce ne accorgiamo.
+
+La cosa singolare è che alcune delle pagine migliori che Dickens abbia mai scritto,
+
+migliori del lavoro dei suoi romanzi più belli, si trovano in questi esili
+
+e compositi frammenti di giornalismo. Per esempio, il resoconto solenne e
+
+compiaciuto di [[Self|sé]] intorno al dovere e alla dignità di un cameriere, dato nel
+
+capitolo d'apertura di _Somebody's Luggage_, è pieno e mirabile quanto
+
+qualunque altra cosa scritta in qualsiasi luogo dal suo autore nella medesima vena di sontuosa
+
+[[Satire|satira]]. È bello quanto il resoconto che il signor Bumble dà del sussidio esterno
+
+ai poveri, il quale, «bene inteso, è la salvaguardia parrocchiale. La
+
+gran cosa è dare ai poveri ciò che non vogliono, e allora non
+
+torneranno mai più». È bello quanto la descrizione che il signor Podsnap fa della
+
+Costituzione britannica, che gli fu conferita dalla [[Providence|Provvidenza]]. Nessuno di
+
+questi passi celebri mostra Dickens al suo meglio più palesemente di
+
+questo, la mirabile descrizione dei «veri principii del mestiere di cameriere»,
+
+o il racconto di come il padre del cameriere tornò dalla madre di lui in
+
+pieno giorno, «di per sé un atto di [[Madness|follia]] da parte di un cameriere»,
+
+e di come spirasse ripetendo di continuo «due e sei fa tre e quattro
+
+fa nove». Quel soliloquio esplicativo del cameriere avrebbe potuto benissimo aprire
+
+un eccellente [[Novel|romanzo]], come _Martin Chuzzlewit_ si apre con le argute
+
+sciocchezze sulla genealogia dei Chuzzlewit, o come _Bleak House_ si
+
+apre con un satirico resoconto della vita umida e fosca di un [[Court|tribunale]]. Eppure
+
+Dickens abbandonò di fatto il disegno di _Somebody's Luggage_; ne
+
+scrisse solo due bozzetti fra quelli manifestamente previsti. Si può quasi
+
+dire che scrisse soltanto una brillante introduzione al libro di un altro
+
+libro.
+
+Eppure è proprio in tali eruzioni interrotte che si manifesta la sua [[Greatness|grandezza]].
+
+Se un uomo ha buttato via cattive idee ha dato prova di buon senso, ma se ha
+
+buttato via buone idee ha dato prova di genio. Ha dimostrato di possedere
+
+davvero quella sovrabbondante spinta di pura creatività che vediamo nella
+
+[[Nature|natura]] stessa, «la quale, di cento semi, spesso ne porta a frutto uno
+
+solo». Dickens dovette essere malthusiano riguardo ai suoi figli spirituali.
+
+I critici hanno definito Keats e altri morti giovani «i grandi
+
+Avrebbe-potuto-essere della [[history|storia]] letteraria». Dickens certo non fu soltanto
+
+un grande Avrebbe-potuto-essere. Dickens, a dir poco, fu un grande
+
+Fu. Eppure ciò non basta a esprimere pienamente la ricchezza del suo talento; giacché
+
+la [[Truth|verità]] è che egli fu un grande Fu e insieme un grande Avrebbe-potuto-essere.
+
+Disse ciò che aveva da dire, e tuttavia non tutto ciò che aveva da dire. Sfrenati
+
+quadri, storie possibili, seducenti e affascinanti concatenazioni di
+
+pensiero, prospettive d'avventura si affollavano di continuo nella sua mente
+
+tanto che alla fine ne rimase una vasta massa inutilizzata, idee che egli
+
+letteralmente non ebbe l'occasione di sviluppare, racconti che letteralmente
+
+non ebbe il [[Time|tempo]] di narrare. Ciò appare con chiarezza nelle sue note private e
+
+nelle lettere, che sono piene di progetti singolarmente incisivi e suggestivi,
+
+progetti che non realizzò mai. Lo si scorge ancor più chiaramente in
+
+questi _Christmas Stories_, raccolti dalla caotica opulenza di
+
+_Household Words_ e _All the Year Round_. Scrisse racconti brevi
+
+in realtà perché non aveva [[Time|tempo]] di scrivere lunghi romanzi. Spesso riversò
+
+nel [[Short Story|racconto breve]] un'idea profonda e ramificata che sarebbe andata
+
+molto [[Well|bene]] per un lungo romanzo; molti dei suoi lunghi romanzi, per così dire, si troncarono
+
+a metà. È in questo che egli differisce dalla maggior parte di coloro che si dicono gli
+
+Avrebbe-potuto-essere della letteratura. Marlowe e Chatterton fallirono per la
+
+loro debolezza. Dickens fallì per la sua forza.
+
+Si esamini per esempio questo caso del cameriere in _Somebody's Luggage_.
+
+Dickens sapeva evidentemente abbastanza di quel cameriere per farne una
+
+perenne [[Spring|sorgente]] di gioia lungo un intero [[Novel|romanzo]]; come il messo parrocchiale in
+
+_Oliver Twist_, o l'impresario di pompe funebri in _Martin Chuzzlewit_. Ogni tocco di
+
+lui vibra di [[Truth|verità]], dalla vaga galanteria con cui domanda,
+
+«Vorresti tu sapere, gentile lettore (se sei dell'adorabile sesso femminile)» fino alla
+
+severità ufficiale con cui rimette al suo posto la cameriera, «di tanti
+
+gradini quanti sono desiderabili per il futuro benessere di tutte le parti». Se Dickens
+
+avesse sviluppato questo personaggio per esteso in un libro avrebbe
+
+conservato per sempre nella letteratura un tipo di grande [[Humour|umorismo]] e grande valore,
+
+e un tipo che fin troppo presto potrebbe scomparire dalla [[history|storia]] inglese.
+
+Avrebbe reso eterno il cameriere inglese. Egli esiste ancora in alcune
+
+sane vecchie taverne e decorose locande di campagna, ma non è rimasto nessuno
+
+davvero capace di cantarne le lodi. So che il signor Bernard [[Shaw]] ha
+
+fatto qualcosa del genere nel deliziosamente bizzarro ritratto di
+
+William in _You Never Can Tell_. Ma nulla mi persuaderà che il signor
+
+Bernard [[Shaw]] possa davvero comprendere il cameriere inglese. Non può mai avergli
+
+ordinato del vino, per esempio. E per quanto il cameriere inglese sia per
+
+[[Nature|natura]] delle cose solenne su tutto, non può mai raggiungere la
+
+vera altezza ed estasi della sua solennità se non a proposito del vino. Che cosa
+
+il vero cameriere inglese farebbe o direbbe se il signor [[Shaw]] gli chiedesse un
+
+pasto [[vegetarian|vegetariano]] non oso predire. Piuttosto credo che per la
+
+prima [[Time|volta]] in vita sua riderebbe — uno spettacolo orribile.
+
+Il cameriere di Dickens è descritto da uno che non è soltanto arguto, veritiero
+
+e attento, come il signor Bernard [[Shaw]], ma da uno che conosceva davvero
+
+l'atmosfera delle locande, uno che conosceva e perfino amava l'odore del manzo, della
+
+birra e del brandy. Di qui una ricchezza nel ritratto di Dickens che
+
+non esiste in quello del signor [[Shaw]]. Il cameriere del signor [[Shaw]] è soltanto un uomo di tatto;
+
+quello di Dickens è un uomo di principii. Il cameriere del signor [[Shaw]] è un opportunista,

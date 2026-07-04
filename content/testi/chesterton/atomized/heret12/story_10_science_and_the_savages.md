@@ -252,6 +252,10 @@ And when the whole universe looks like a man we fall on our faces.
 <div class="excerpt-crumb">Chesterton · <a href="/works/heret12-(chesterton)">Heretics</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/heret12/story_09_on_sandals_and_simplicity">‹ Story 09 On Sandals and Simplicity</a><a class="ex-next" href="/testi/chesterton/atomized/heret12/story_11_paganism_and_mr_lowes_dickinson">Story 11 Paganism and Mr Lowes Dickinson ›</a></div>
 </nav>
+<nav class="excerpt-children">
+<div class="excerpt-children-label">In questa sezione</div>
+<ul><li><a href="/testi/chesterton/atomized/heret12/story_10_science_and_the_savages/part_01">Part 1</a></li><li><a href="/testi/chesterton/atomized/heret12/story_10_science_and_the_savages/part_02">Part 2</a></li></ul>
+</nav>
 
 # [[heret12]] — La scienza e i selvaggi
 

@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/apprandcritofchdickens-(chesterton)">ApprAndCritOfChDickens</a> › <a href="/testi/chesterton/atomized/apprandcritofchdickens/chapter_01_page">Chapter 01 PAGE</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/apprandcritofchdickens/chapter_01_page/part_32">‹ part 32</a><a class="ex-next" href="/testi/chesterton/atomized/apprandcritofchdickens/chapter_01_page/part_34">part 34 ›</a></div>
@@ -177,3 +179,176 @@ The rest of the book, like the rest of Dickens's books, possesses
 [[Humour|humour]]. This part of the book, like hardly any of Dickens's books,
 
 possesses wit. The republican gentleman who receives Martin on landing
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/apprandcritofchdickens-(chesterton)">ApprAndCritOfChDickens</a> › <a href="/testi/chesterton/atomized/apprandcritofchdickens/chapter_01_page">Chapter 01 PAGE</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/apprandcritofchdickens/chapter_01_page/part_32">‹ part 32</a><a class="ex-next" href="/testi/chesterton/atomized/apprandcritofchdickens/chapter_01_page/part_34">part 34 ›</a></div>
+</nav>
+
+sistema dei partiti inglese che si cela dietro tutto il suo apparato di
+
+Parlamenti e Statuti, elezioni e schede elettorali. Quando si sia tenuto
+
+pienamente conto di tutta la dignità, di tutto il patriottismo e di tutto il
+
+pubblico interesse del conflitto costituzionale fra i partiti inglesi, rimane
+
+pur sempre l'ardita, desolata domanda che Dickens in sostanza pone:
+
+«E se io volessi qualcun altro, che non sia né Coodle né Doodle?». Questa è
+
+la grande qualità che si chiama [[Satire|satira]]; è una sorta di ragionevolezza
+
+beffarda; ed è inseparabile da una certa folle [[logic|logica]] che spesso
+
+viene chiamata esagerazione. Dickens era più satirico di
+
+Thackeray per questa semplice ragione: che Thackeray spingeva i principî di un uomo
+
+tanto lontano quanto quell'uomo li spingeva; Dickens spingeva i principî di un uomo
+
+tanto lontano quanto i principî di un uomo potevano arrivare. Dickens, in breve (come
+
+la gente suol dire), esagerava l'uomo e i suoi principî; vale a dire
+
+che li accentuava. Dickens traeva fuori dall'uomo la sua assurdità; Thackeray
+
+lasciava l'assurdità dentro l'uomo. Di quest'ultimo fatto possiamo prendere qualunque esempio
+
+ci piaccia; si prenda per esempio il confronto fra l'uomo della [[City|City]] quale
+
+lo tratta Thackeray nel più satirico dei suoi romanzi, e l'uomo della [[City|City]]
+
+quale lo tratta Dickens in uno dei più miti e maturi dei suoi.
+
+Si confronti il personaggio del vecchio Mr. Osborne in _Vanity Fair_ con il
+
+personaggio di Mr. Podsnap in _Our Mutual Friend_. Nel caso di Mr.
+
+Osborne non c'è nulla se non la solida costruzione di un personaggio brutale, ottuso e
+
+convincente. _Vanity Fair_ non è una [[Satire|satira]] sulla [[City]], se non
+
+nella misura in cui accade di essere vera. _Vanity Fair_ non è una [[Satire|satira]] sulla
+
+[[City]], insomma, se non nella misura in cui la [[City]] è una [[Satire|satira]] sulla [[City]].
+
+Ma Mr. Podsnap è pura [[Satire|satira]]; egli è un'estrazione, dall'uomo della [[City]],
+
+di quelle qualità puramente intellettuali che per l'appunto fanno di quel
+
+genere d'uomo della [[City]] uno [[Fool|sciocco]] particolarmente esasperante. Si potrebbe quasi dire
+
+che Mr. Podsnap è tutte le opinioni di Mr. Osborne separate da Mr.
+
+Osborne e trasformate in un personaggio. In breve, il satirico è più
+
+puramente filosofico del romanziere. Il romanziere può essere soltanto un
+
+osservatore; il satirico dev'essere un pensatore. Dev'essere un pensatore, dev'essere
+
+un pensatore filosofico per questa semplice ragione: che egli esercita il suo
+
+pensiero filosofico nel decidere quale parte del suo soggetto debba
+
+satireggiare. Si può avere l'intelligenza più ottusa possibile ed essere
+
+ritrattista; ma un uomo deve possedere un intelletto serio per essere
+
+caricaturista. Egli deve scegliere quale cosa caricaturare. La vera
+
+[[Satire|satira]] è sempre di questa specie intellettuale; la vera [[Satire|satira]] è sempre, per
+
+così dire, una variazione o una fantasia sull'aria della pura [[logic|logica]]. Il
+
+satirico è l'uomo che spinge l'entusiasmo degli uomini più in là di quanto essi lo spingano
+
+essi stessi. Egli sopravanza il fanatico più stravagante. È anni
+
+avanti al più audace [[Prophet|profeta]]. Vede dove l'intelletto distaccato
+
+degli uomini finirà per condurli, e dice loro il nome del
+
+luogo — che di solito è l'inferno.
+
+Ora, di questo uso distaccato e razionale della [[Satire|satira]] c'è un grande
+
+esempio in questo libro. Perfino _Gulliver's Travels_ è appena più
+
+ragionevole dei viaggi di [[Martin Chuzzlewit]] nell'incredibile terra degli
+
+Americani. Prima di considerare l'[[Humour|umorismo]] di questa descrizione nei suoi
+
+aspetti più esaustivi e generosi, si può anzitutto notare che in
+
+questa parte americana di _Martin Chuzzlewit_ Dickens aguzza in modo tutto particolare
+
+la propria più polemica e politica intelligenza. Vi
+
+sono qui più cose che in qualunque altra parte di Dickens che partecipano della
+
+[[Nature|natura]] del libello, della sfida aperta, della battuta improvvisa, dell'
+
+interrogazione battagliera ed esasperante, in una parola di tutto ciò che appartiene
+
+alla pura arte della polemica, distinta non solo dalla pura arte della
+
+narrativa, ma persino dalla pura arte della [[Satire|satira]]. Sono incline a
+
+pensare (per dire la cosa non solo in breve ma goffamente) che Dickens non fu
+
+mai in tutta la sua vita così rigorosamente arguto come è nella parte americana
+
+di _Martin Chuzzlewit_. Vi sono luoghi in cui fu più ispirato,
+
+quasi nel senso di essere inebriato, come, per esempio, nei
+
+banchetti di Micawber in _David Copperfield_; vi sono luoghi in cui scrisse
+
+con maggiore cura e astuzia, come, per esempio, nel mistero di _The
+
+Mystery of Edwin Drood_; vi sono luoghi in cui scrisse assai più
+
+umanamente, più vicino alla terra e alle cose che crescono, come in tutto
+
+quell'ammirevole libro che è _Great Expectations_. Ma non credo che la sua
+
+pura acutezza astratta e rapidità di pensiero siano mai state esercitate con
+
+così sorprendente esattezza come lo sono in questo passo di _Martin
+
+Chuzzlewit_. Va notato, per esempio, che la sua esperienza americana
+
+l'aveva effettivamente portato a un calore e a un'abitudine alla discussione. Un
+
+proprietario di schiavi degli Stati del Sud dice a Dickens che i proprietari di schiavi non
+
+maltrattano i loro schiavi, che non è nell'interesse dei
+
+proprietari di schiavi maltrattare i loro schiavi. Dickens ribatte in un lampo che non è
+
+nell'interesse di un uomo ubriacarsi, eppure egli si ubriaca. Questa
+
+battagliera atmosfera di parata e risposta va anzitutto tenuta in conto
+
+e compresa in tutta la digressione satirica di Martin in [[america|America]].
+
+Dickens argomenta per tutto il [[Time|tempo]]; e, per rendergli giustizia, argomenta assai
+
+[[Well|bene]]. Questi capitoli sono pieni non soltanto di esuberante [[Satire|satira]] contro l'[[america|America]]
+
+nel senso in cui Dotheboys Hall o l'ospizio di Mr. Bumble sono esuberanti
+
+satire contro l'Inghilterra. Sono pieni anche di serrata argomentazione con l'[[america|America]], come
+
+se colui che scriveva si aspettasse la replica e fosse pronto con la controreplica.
+
+Il resto del libro, come il resto dei libri di Dickens, possiede
+
+[[Humour|umorismo]]. Questa parte del libro, come quasi nessun libro di Dickens,
+
+possiede arguzia. Il gentiluomo repubblicano che accoglie Martin allo sbarco

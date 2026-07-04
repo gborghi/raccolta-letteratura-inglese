@@ -232,6 +232,10 @@ And I know you won't."
 <div class="excerpt-crumb">Chesterton · <a href="/works/allthingsconsidered-8-(chesterton)">AllThingsConsidered 8</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/allthingsconsidered_8/story_04_on_running_after_one_s_hat">‹ Story 04 ON RUNNING AFTER ONE S HAT</a><a class="ex-next" href="/testi/chesterton/atomized/allthingsconsidered_8/story_06_conceit_and_caricature">Story 06 CONCEIT AND CARICATURE ›</a></div>
 </nav>
+<nav class="excerpt-children">
+<div class="excerpt-children-label">In questa sezione</div>
+<ul><li><a href="/testi/chesterton/atomized/allthingsconsidered_8/story_05_the_vote_and_the_house_house/part_01">Part 1</a></li><li><a href="/testi/chesterton/atomized/allthingsconsidered_8/story_05_the_vote_and_the_house_house/part_02">Part 2</a></li></ul>
+</nav>
 
 IL VOTO E LA [[house|CAMERA]]
 

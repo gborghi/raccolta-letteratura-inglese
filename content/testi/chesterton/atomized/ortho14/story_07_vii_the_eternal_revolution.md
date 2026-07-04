@@ -1487,6 +1487,10 @@ The Titans did not scale heaven; but they laid waste the world.
 <div class="excerpt-crumb">Chesterton · <a href="/works/ortho14-(chesterton)">Orthodoxy</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/ortho14/story_06_iv_the_ethics_of_elfland">‹ Story 06 Iv The Ethics Of Elfland</a><a class="ex-next" href="/testi/chesterton/atomized/ortho14/story_08_ix_authority_and_the_adventurer">Story 08 Ix Authority And The Adventurer ›</a></div>
 </nav>
+<nav class="excerpt-children">
+<div class="excerpt-children-label">In questa sezione</div>
+<ul><li><a href="/testi/chesterton/atomized/ortho14/story_07_vii_the_eternal_revolution/part_01">Part 1</a></li><li><a href="/testi/chesterton/atomized/ortho14/story_07_vii_the_eternal_revolution/part_02">Part 2</a></li><li><a href="/testi/chesterton/atomized/ortho14/story_07_vii_the_eternal_revolution/part_03">Part 3</a></li><li><a href="/testi/chesterton/atomized/ortho14/story_07_vii_the_eternal_revolution/part_04">Part 4</a></li><li><a href="/testi/chesterton/atomized/ortho14/story_07_vii_the_eternal_revolution/part_05">Part 5</a></li><li><a href="/testi/chesterton/atomized/ortho14/story_07_vii_the_eternal_revolution/part_06">Part 6</a></li><li><a href="/testi/chesterton/atomized/ortho14/story_07_vii_the_eternal_revolution/part_07">Part 7</a></li><li><a href="/testi/chesterton/atomized/ortho14/story_07_vii_the_eternal_revolution/part_08">Part 8</a></li><li><a href="/testi/chesterton/atomized/ortho14/story_07_vii_the_eternal_revolution/part_09">Part 9</a></li><li><a href="/testi/chesterton/atomized/ortho14/story_07_vii_the_eternal_revolution/part_10">Part 10</a></li><li><a href="/testi/chesterton/atomized/ortho14/story_07_vii_the_eternal_revolution/part_11">Part 11</a></li><li><a href="/testi/chesterton/atomized/ortho14/story_07_vii_the_eternal_revolution/part_12">Part 12</a></li><li><a href="/testi/chesterton/atomized/ortho14/story_07_vii_the_eternal_revolution/part_13">Part 13</a></li><li><a href="/testi/chesterton/atomized/ortho14/story_07_vii_the_eternal_revolution/part_14">Part 14</a></li></ul>
+</nav>
 
 # [[ortho14]] — Vii The Eternal Revolution
 

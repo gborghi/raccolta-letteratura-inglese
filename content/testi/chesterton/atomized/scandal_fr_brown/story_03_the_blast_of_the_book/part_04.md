@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/scandal-fr-brown-(chesterton)">scandal Fr Brown</a> › <a href="/testi/chesterton/atomized/scandal_fr_brown/story_03_the_blast_of_the_book">Story 03 The Blast of the Book</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/scandal_fr_brown/story_03_the_blast_of_the_book/part_03">‹ part 03</a><a class="ex-next" href="/testi/chesterton/atomized/scandal_fr_brown/story_03_the_blast_of_the_book/part_05">part 05 ›</a></div>
@@ -120,3 +122,46 @@ and, restored to a superb academic calm, rather like the calm of
 Then, as coolly as if he were describing the failure of some small silly
 trick at a seance, he told the priest every detail of this monstrous
 mystery.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/scandal-fr-brown-(chesterton)">scandal Fr Brown</a> › <a href="/testi/chesterton/atomized/scandal_fr_brown/story_03_the_blast_of_the_book">Story 03 The Blast of the Book</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/scandal_fr_brown/story_03_the_blast_of_the_book/part_03">‹ part 03</a><a class="ex-next" href="/testi/chesterton/atomized/scandal_fr_brown/story_03_the_blast_of_the_book/part_05">part 05 ›</a></div>
+</nav>
+
+«Il dottor Hankey,» disse Pringle con gravità, «vuole tenere il libro per un'ora e riflettere sulla questione. Poi chiede che ci rechiamo entrambi da lui, e ci comunicherà la sua decisione. Ha espressamente desiderato, Professore, che voi mi accompagniate nella seconda visita.»
+
+Openshaw continuò a fissare in [[Silence|silenzio]]; poi disse, d'un tratto: «Chi diavolo è il dottor Hankey?»
+
+«Sembra quasi che vogliate dire che è il diavolo,» disse Pringle sorridendo, «e mi pare che qualcuno l'abbia pensato. Aveva una discreta reputazione nel vostro stesso campo; ma se la guadagnò per lo più in India, studiando la [[Magic|magia]] locale e via dicendo, quindi forse non è così [[Well|ben]] noto qui. È un diavoletto giallognolo e scarno con una gamba zoppa, e un carattere incerto; ma pare essersi messo a esercitare una comune e rispettabile professione da queste parti, e non so nulla di preciso a suo carico... a meno che non sia una colpa essere l'unica persona che possa forse sapere qualcosa di tutta questa folle vicenda.»
+
+Il professor Openshaw si [[Rose|alzò]] pesantemente e andò al telefono; chiamò [[Father Brown]], mutando l'appuntamento del pranzo in una cena, per tenersi libero per la spedizione alla casa [[house|dimora]] del medico anglo-indiano; dopodiché si sedette di nuovo, accese un sigaro e sprofondò ancora una volta nei suoi insondabili pensieri.
+
+[[Father Brown]] si recò al ristorante fissato per la cena, e batté i tacchi per un po' di [[Time|tempo]] in un vestibolo pieno di specchi e di palme in vaso; era stato informato dell'impegno pomeridiano di Openshaw, e, mentre la sera si chiudeva buia e tempestosa intorno ai vetri e alle piante verdi, indovinò che quello aveva prodotto qualcosa di inatteso e di indebitamente prolungato. Si domandò perfino per un istante se [[The Professor|il Professore]] si sarebbe presentato affatto; ma quando [[The Professor|il Professore]] alla fine arrivò, fu chiaro che le sue congetture più generali erano state confermate. Poiché era un Professore dagli occhi assai stravolti e perfino dai capelli assai scomposti quello che alla fine tornò in vettura con il signor Pringle dalla spedizione al Nord di [[London|Londra]], dove i sobborghi sono ancora orlati di brughiere desolate e di lembi di terreno comune, apparsi più cupi sotto quel tramonto piuttosto temporalesco. Nondimeno, pareva che avessero trovato la casa [[house|dimora]], che sorgeva un poco in disparte, benché a portata di voce dalle altre case; avevano verificato la targa d'ottone debitamente incisa: «J. I. Hankey, MD, MRCS». Solo che non trovarono J. I. Hankey, MD, MRCS. Trovarono soltanto ciò che un sussurro da [[nightmare|incubo]] li aveva già inconsciamente preparati a trovare: un salottino qualunque con il maledetto volume che giaceva sul tavolo, come se fosse stato appena letto; e oltre, una porta sul retro spalancata di forza e una debole scia di orme che risalivano per un breve tratto un sentiero di [[Garden|giardino]] così ripido che pareva impossibile che uno zoppo l'avesse potuto risalire con tanta leggerezza. Ma era uno zoppo ad aver corso; poiché in quei pochi passi c'era l'impronta deforme e ineguale di una sorta di stivale ortopedico; poi due impronte di quello stivale [[Alone|soltanto]] (come se la creatura avesse saltellato) e poi nulla. Non v'era null'altro da apprendere dal dottor J. I. Hankey, MD, MRCS, se non che aveva preso la sua decisione. Aveva letto l'oracolo e ricevuto la condanna.
+
+Quando i due entrarono nell'atrio sotto le palme, Pringle posò d'un tratto il libro su un tavolino, come se gli bruciasse le dita. Il prete lo guardò con curiosità; sul davanti non c'erano che rozze lettere con un distico:
+
+Chi guardò dentro questo libro / il Terrore Volante rapì;
+
+e sotto, come scoprì in seguito, avvertenze simili in greco, latino e francese. Gli altri due si erano voltati con un naturale impulso verso i liquori, dopo il loro sfinimento e sconcerto; e Openshaw aveva chiamato il cameriere, che portò dei cocktail su un vassoio.
+
+«Cenerete con noi, [[Hope|spero]],» disse [[The Professor|il Professore]] al missionario; ma il signor Pringle scosse amabilmente il capo.
+
+«Se vorrete perdonarmi,» disse, «me ne vado a fare i conti con questo libro e questa faccenda per conto mio, da qualche parte. Non potrei usare il vostro ufficio per un'ora circa?»
+
+«Suppongo... temo che sia chiuso a chiave,» disse Openshaw con una certa sorpresa.
+
+«Dimenticate che c'è un buco nella [[Window|finestra]].» Il reverendo Luke Pringle fece il più largo di tutti i larghi sorrisi e svanì nel buio là fuori.
+
+«Un tipo piuttosto strano, quello, dopo tutto,» disse [[The Professor|il Professore]], accigliandosi.
+
+Fu piuttosto sorpreso di trovare [[Father Brown]] a chiacchierare con il cameriere che aveva portato i cocktail, a quanto pare degli affari più privati del cameriere; poiché si faceva menzione di un bambino ormai fuori pericolo. Commentò il fatto con una certa sorpresa, chiedendosi come il prete fosse arrivato a conoscere l'uomo; ma questi si limitò a dire: «Oh, ceno qui ogni due o tre mesi, e di tanto in tanto gli ho parlato.»
+
+[[The Professor|Il Professore]], che lì cenava lui stesso circa cinque volte alla settimana, si rese conto di non aver mai pensato di parlare con l'uomo; ma i suoi pensieri furono interrotti da uno squillo stridulo e da una chiamata al telefono. La voce al telefono disse che era Pringle, era una voce piuttosto smorzata, ma poteva [[Well|ben]] essere smorzata in mezzo a tutti quei cespugli di barba e favoriti. Il suo messaggio bastò a stabilirne l'[[Identity|identità]].
+
+«Professore,» disse la voce, «non lo reggo più. Vado a guardare io stesso. Parlo dal vostro ufficio e il libro è davanti a me. Se mi succede qualcosa, questo è per dirvi addio. No... è inutile cercare di fermarmi. Non fareste comunque in [[Time|tempo]]. Sto aprendo il libro adesso. Io...»
+
+Openshaw credette di udire qualcosa come una sorta di schianto vibrante o tremolante eppure quasi impercettibile; poi gridò il nome di Pringle ancora e ancora; ma non udì altro. Riappese il ricevitore, e, restituito a una superba calma accademica, piuttosto simile alla calma della [[Despair|disperazione]], tornò indietro e riprese quietamente il suo posto a tavola. Poi, con la stessa freddezza con cui avrebbe descritto il fallimento di qualche piccolo sciocco trucco a una seduta spiritica, raccontò al prete ogni particolare di questo mostruoso mistero.

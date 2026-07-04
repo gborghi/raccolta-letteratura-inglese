@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/charlesdickens-(chesterton)">CharlesDickens</a> › <a href="/testi/chesterton/atomized/charlesdickens/chapter_10">Chapter 10</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/charlesdickens/chapter_10/part_05">‹ part 05</a><a class="ex-next" href="/testi/chesterton/atomized/charlesdickens/chapter_11/part_01">part 01 ›</a></div>
@@ -57,3 +59,16 @@ The sound of the festivities at the end come fainter on
 our ears than did the shout of the Cratchits or [[The Bells|the bells]]
 of [[Trotty Veck]].  All the good figures that followed Scrooge
 when he came growling out of the fog fade into the fog again.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/charlesdickens-(chesterton)">CharlesDickens</a> › <a href="/testi/chesterton/atomized/charlesdickens/chapter_10">Chapter 10</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/charlesdickens/chapter_10/part_05">‹ part 05</a><a class="ex-next" href="/testi/chesterton/atomized/charlesdickens/chapter_11/part_01">part 01 ›</a></div>
+</nav>
+
+Il terzo dei suoi racconti natalizi, "The Cricket on the Hearth," non richiede un commento esteso, benché sia assai caratteristico. Possiede tutte le qualità che abbiamo chiamato dominanti nel suo sentimento natalizio. Ha la «cosiness», cioè quel comodo che dipende da un disagio che lo circonda. Ha una simpatia per i poveri, e specialmente per la stravaganza dei poveri; per quella che si può chiamare la ricchezza temporanea dei poveri. Ha il sentimento del focolare, cioè il sentimento del [[Fire|fuoco]] aperto come rosso cuore della stanza. Quel [[Fire|fuoco]] aperto è la verace fiamma dell'Inghilterra, ancora tenuta accesa in mezzo a una meschina civiltà di stufe. Ma tutto ciò che vi è di prezioso in "The Cricket on the Hearth" è forse espresso altrettanto [[Well|bene]] nel titolo quanto nella storia. Il racconto in sé, malgrado alcune di quelle inimitabili cose che Dickens non mancava mai di dire, è un po' troppo comodo per essere del tutto convincente. "The Christmas [[carol|Carol]]" è la [[conversion|conversione]] di un personaggio anti-natalizio. "The Chimes" è un massacro di personaggi anti-natalizi. "The Cricket," forse, fallisce per mancanza di questa nota di crociata. Poiché ogni cosa ha il suo lato debole, e quando si sia resa piena giustizia a questa trascurata nota di poetico comodo, dobbiamo ricordare che essa ha un suo lato assai debole e reale. Il difetto di essa nell'opera di Dickens era ch'egli tendeva talvolta ad ammucchiare i cuscini finché nessuno dei personaggi potesse più muoversi. È così interessato a realizzare il suo stato di felicità statica che si dimentica del tutto di costruire una storia. I suoi principi, all'inizio della storia, cominciano a vivere per sempre felici e contenti. Lo sentiamo fortemente in "Master Humphrey's [[Clock]]" e lo sentiamo talvolta in questi racconti natalizi. Rende i suoi personaggi così comodi che i suoi personaggi cominciano a sognare e a farneticare. E rende il suo lettore così comodo che il suo lettore si addormenta nel [[Sleep|sonno]].
+
+Il vero e proprio racconto del vetturale e di sua moglie risuona alquanto sonnolento alle nostre orecchie; non riusciamo a tenervi fisso il pensiero, benché ne avvertiamo una specie di tepore come da un gran [[Fire|fuoco]] di legna. Sappiamo così [[Well|bene]] che tutto andrà presto a posto che non sospettiamo quando il vetturale sospetta, e non ci spaventiamo quando il burbero [[Tackleton]] ringhia. Il suono delle feste alla fine giunge alle nostre orecchie più fioco di quanto giungesse il grido dei Cratchit o [[The Bells|le campane]] di [[Trotty Veck]]. Tutte le buone figure che seguirono Scrooge quando venne fuori ringhiando dalla nebbia svaniscono di nuovo nella nebbia.

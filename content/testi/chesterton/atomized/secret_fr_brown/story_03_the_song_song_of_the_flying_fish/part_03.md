@@ -122,7 +122,7 @@ be exiled beyond the sea.
 
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/works/secret-fr-brown-(chesterton)">secret Fr Brown</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/secret-fr-brown-(chesterton)">secret Fr Brown</a> › <a href="/testi/chesterton/atomized/secret_fr_brown/story_03_the_song_song_of_the_flying_fish">Story 03 THE Song SONG OF THE FLYING FISH</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/secret_fr_brown/story_03_the_song_song_of_the_flying_fish/part_02">‹ part 02</a><a class="ex-next" href="/testi/chesterton/atomized/secret_fr_brown/story_03_the_song_song_of_the_flying_fish/part_04">part 04 ›</a></div>
 </nav>
 

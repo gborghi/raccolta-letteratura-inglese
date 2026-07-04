@@ -135,7 +135,7 @@ resembling the challenge and revolution of the Faith.
 
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/works/everlasting-man-(chesterton)">The Everlasting Man</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/everlasting-man-(chesterton)">The Everlasting Man</a> › <a href="/testi/chesterton/atomized/everlasting_man/chapter_03">Chapter 03</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/everlasting_man/chapter_03/part_21">‹ part 21</a><a class="ex-next" href="/testi/chesterton/atomized/everlasting_man/chapter_03/part_23">part 23 ›</a></div>
 </nav>
 

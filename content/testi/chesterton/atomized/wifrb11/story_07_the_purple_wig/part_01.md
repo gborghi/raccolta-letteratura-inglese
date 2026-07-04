@@ -134,7 +134,7 @@ proclamations--they will come at the end.
 
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/works/wifrb11-(chesterton)">The Wisdom of Father Brown</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/wifrb11-(chesterton)">The Wisdom of Father Brown</a> › <a href="/testi/chesterton/atomized/wifrb11/story_07_the_purple_wig">Story 07 The Purple Wig</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/wifrb11/story_06_the_head_of_caesar/part_05">‹ part 05</a><a class="ex-next" href="/testi/chesterton/atomized/wifrb11/story_07_the_purple_wig/part_02">part 02 ›</a></div>
 </nav>
 

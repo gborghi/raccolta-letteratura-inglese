@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/all-i-survey-(chesterton)">All I Survey</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/all_i_survey/chapter_29">‹ Chapter 29</a><a class="ex-next" href="/testi/chesterton/atomized/all_i_survey/chapter_31">Chapter 31 ›</a></div>
@@ -139,5 +141,142 @@ the mere recording of them constitutes poetry, there ought
 to be a vast amount more poetry and a great many more poets.
 But whether that prospect be a glorious or an alarming one,
 I will not venture, on my own isolated example, to decide.
+
+-*-
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/all-i-survey-(chesterton)">All I Survey</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/all_i_survey/chapter_29">‹ Chapter 29</a><a class="ex-next" href="/testi/chesterton/atomized/all_i_survey/chapter_31">Chapter 31 ›</a></div>
+</nav>
+
+XXX
+
+_Sulla brevità e l'arguzia_
+
+QUALCUNO disse un tempo che la brevità è l'[[Soul|anima]] dell'arguzia,
+quando è evidente che voleva dire che l'arguzia è l'[[Soul|anima]] della brevità.
+È chiaro che la brevità non è che il [[Body|corpo]], e l'arguzia lo spirito.
+E la mera brevità, come nell'affermazione «I gatti mangiano i topi», lasciata
+a se stessa, sembra attendere ancora qualche visita risvegliatrice del divino [[Fire|fuoco]].
+Il proverbio, tuttavia, come tante altre massime largamente citate, è vero
+tanto quanto è compatibile con il significare quasi il contrario di ciò che dice.
+L'economia di ogni sorta ha moltissimo a che fare con l'effetto di ogni sorta.
+E spesso è tornato più a vantaggio di un uomo dire una sola cosa buona
+in una sola frase che dirne venti buone in duemila frasi.
+Del resto, l'enunciazione generale dei princìpi della brevità
+sarebbe essa stessa breve. Non ci sarebbe certo bisogno di discutere
+a lungo i piuttosto ovvi svantaggi dell'essere prolissi.
+La maggior parte delle persone converrebbe che perfino i buoni scrittori possono scrivere troppo,
+e che i cattivi scrittori non possono scrivere troppo poco. Ciononostante, un
+problema particolare è sorto nella nostra epoca, a prescindere dalle
+ovvie complicazioni pratiche che possono sorgere in qualsiasi epoca.
+Chi si guadagna da vivere scrivendo, come faccio io, scrive sempre troppo;
+d'altra parte, vi sono scrittori a un tempo più oziosi e più
+laboriosi che scrivono la stessa poesia cento volte, o addirittura ne
+traggono tre o quattro edizioni interamente diverse dello stesso libro.
+Il signor George Moore è stato un esempio di questo [[Paradox|paradosso]], e di tali scrittori
+non si direbbe ingiustamente che scrivono a un tempo troppo poco e troppo.
+Ma il problema pratico cui alludo è più recente del realismo
+del signor George Moore. È la questione se non accresciamo più indebitamente
+la massa della letteratura rendendo difficile smettere,
+oppure rendendo facile smettere — e ricominciare.
+
+Le sole forme della letteratura più antica impegnavano un uomo a proseguire
+per un [[Time|tempo]] considerevole, come chi si arruola per la durata
+della guerra. Il modesto giovane che si proponeva di scrivere un [[Epic|poema epico]]
+in dodici libri poteva sentirsi epico, ma difficilmente epigrammatico.
+Il semplice poeta che produceva una [[Tragedy|tragedia]] in cinque atti non poteva all'
+ultimo momento tramutare la [[Tragedy|tragedia]] in cinque atti in una farsa in tre atti.
+Ma ora che la poesia, e la letteratura in generale, è libera
+di comparire in qualsiasi forma, può naturalmente estendersi a qualsiasi lunghezza
+o arrestarsi in qualsiasi punto. Ciò può condurre alla brevità nella poesia,
+ma non conduce necessariamente alla brevità nel poeta.
+Duecento anni fa, poniamo, un poeta inglese si sarebbe messo a sedere
+con la lodevole intenzione di scrivere un lungo poema didascalico sulla
+corretta coltivazione delle cipolle, o sulla più consigliabile costruzione
+dei porcili; il tutto esposto in bei decasillabi rimati,
+ravvivati da selezioni interamente originali dalle Georgiche
+e adornati da molti bei voli di fantasia mitologica,
+su Cerere che stende il suo manto materno sulla prima cipolla,
+o Circe ritta in mezzo ai suoi porcili d'avorio e d'oro.
+Tutti sanno che l'ultimissimo stile poetico è andato
+all'estremo opposto, ed è non solo breve, ma brusco.
+Talora è quasi privo di tatto nel suo introdurre la
+cipolla nel salotto, o il porco nel tinello.
+Il poeta moderno va dritto al punto, in qualche breve
+e semplice [[Lyric|lirica]] che recita —
+
+    I capelli di cento donne mi soffocano
+    Con un ingordo odore d'aglio ...
+
+ed eccovi serviti: una semplice emozione umana descritta in due
+righe spontanee. Oppure scriverà della questione dei porci —
+
+    Il mondo barcolla nauseabondo,
+    Come la vecchia scrofa grigia nella luce untuosa del mattino.
+
+E se la brevità è davvero l'[[Soul|anima]] dell'arguzia, questo dev'essere assai più arguto
+del lungo poema settecentesco con le sue analogie classiche.
+Ma, considerando il problema in modo pratico, esiterei
+sul fatto che il nuovo metodo sia davvero più breve del vecchio.
+Ammettendo che sia nostro semplice, virile e civico proposito
+impedire a entrambi i poeti di produrre una così vasta quantità di poesia,
+ho l'impressione che, alla lunga, il nuovo poeta supererà perfino
+il vecchio poeta nel dare al mondo intere biblioteche di poesia da bruciare.
+Dopotutto, quando il poeta settecentesco produceva la sua
+interminabile Georgica sui porci o sulle cipolle, ciò lo teneva occupato;
+ma lo teneva anche tranquillo. Un periodo assai lungo e riposante
+sarebbe trascorso prima ancora che l'opera fosse finita, [[Alone|per non dire]] stampata;
+ci sarebbe stato tutto il [[Time|tempo]] perché i suoi amici riposassero e si rimettessero
+e recuperassero le forze per leggerla, o le forze morali
+per fingere di averla letta. Egli non correva di qua e di là nel frattempo
+scagliando cipolle isolate in faccia a estranei individuali.
+Non conduceva con sé in società la grande scrofa grigia, come un cagnolino da grembo,
+né scatenava selvagge mandrie di porci di Gadara per le pubbliche vie.
+Ma gli assalti del poeta moderno contro le sue inoffensive creature simili, essendo
+più brevi e sconnessi, possono anche essere più numerosi e continui.
+Se tanto lo inebria una cipolla, egli può essere del pari fatto impazzire
+da una rapa; e se per lui i porci mettono così facilmente le ali
+e volano, il cielo che essi popolano potrà presto piovere gatti e [[dogs|cani]].
+Intendo dire che questa moderna abitudine di prendere un'immagine staccata, con o
+senza la delucidazione dell'idea che vi risiede, mira a soppiantare
+l'antica disposizione ragionata di temi e pensieri. Nulla vi è
+da obiettare, se non che sembra non avervi mai fine.
+E l'[[Epic|epopea]] dell'origine mitologica delle cipolle almeno,
+in qualche modo e in qualche luogo, giungeva finalmente a una fine.
+
+Ammesso pure che gli antichi folii formali di [[Epic|epopea]] e [[Tragedy|tragedia]]
+fossero troppo formali, oggigiorno pare talvolta che non
+vi saranno libri se non taccuini o [[Sketch|album di schizzi]]. I
+appunti possono essere brevi, ma il taccuino può essere piuttosto lungo.
+Gli schizzi possono essere più piccoli, ma l'[[Sketch|album]] può essere più grande.
+Soprattutto, la piccolezza stessa degli schizzi stabilisce uno standard
+che li rende più facili e perciò più frequenti.
+L'altro giorno stavo sfogliando una vasta antologia,
+o raccolta, delle più moderne e avanzate [[Poems|poesie]] americane.
+La maggior parte consisteva in brevi impressioni, con uno o due
+dettagli arbitrari in versi irregolari; e questo era tutto.
+Non intendo dire che fossero prive di valore; mille cose
+del genere valgono la pena di essere viste e possono valere la pena di essere dette.
+Un rivolo bruno da una grondaia forma una pozza nella strada,
+riflettendo mezza [[Window|finestra]] e un lembo di cielo; un grappolo nero
+di lampioni e cilindri si staglia contro una striscia di freddo
+tramonto verde; le luci di passaggio di un tram dipingono d'oro un fianco
+di un grigio [[Horse|cavallo]] in un campo; una chiazza di verde
+melma su un muro pare dita divaricate; e così via.
+Ora, che suoni egotistico o no, è un fatto che se io
+cominciassi a scrivere piccoli paragrafi in [[Free Verse|verso libero]] su tali cose,
+non smetterei mai di scriverli. Ne scriverei migliaia
+e migliaia. Non nego la [[Truth|verità]] di tali visioni;
+le vedo di continuo. Non nego la suggestività
+di tali visioni; ne sono spesso commosso. Dico soltanto che se
+il mero registrarle costituisce poesia, dovrebbe
+esservi una quantità assai maggiore di poesia e molti più poeti.
+Ma se tale prospettiva sia gloriosa o allarmante,
+non oserò, sul mio solo isolato esempio, decidere.
 
 -*-

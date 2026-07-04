@@ -125,7 +125,7 @@ as a dog smells rats.
 
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/works/innocence-(chesterton)">The Innocence of Father Brown</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/innocence-(chesterton)">The Innocence of Father Brown</a> › <a href="/testi/chesterton/atomized/innocence/story_03_the_queer_feet">Story 03 The Queer Feet</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/innocence/story_03_the_queer_feet/part_01">‹ part 01</a><a class="ex-next" href="/testi/chesterton/atomized/innocence/story_03_the_queer_feet/part_03">part 03 ›</a></div>
 </nav>
 

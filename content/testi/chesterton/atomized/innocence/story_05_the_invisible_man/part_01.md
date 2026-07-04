@@ -166,7 +166,7 @@ up to the counter, making a jumping kangaroo out of five cigars.
 
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/works/innocence-(chesterton)">The Innocence of Father Brown</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/innocence-(chesterton)">The Innocence of Father Brown</a> › <a href="/testi/chesterton/atomized/innocence/story_05_the_invisible_man">Story 05 The Invisible Man</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/innocence/story_04_the_flying_stars/part_05">‹ part 05</a><a class="ex-next" href="/testi/chesterton/atomized/innocence/story_05_the_invisible_man/part_02">part 02 ›</a></div>
 </nav>
 

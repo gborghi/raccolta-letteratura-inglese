@@ -649,6 +649,10 @@ announced that Dr Hirsch had once more appeared upon the balcony.
 <div class="excerpt-crumb">Chesterton · <a href="/works/wifrb11-(chesterton)">The Wisdom of Father Brown</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/wifrb11/story_02_the_paradise_of_thieves">‹ Story 02 The Paradise of Thieves</a><a class="ex-next" href="/testi/chesterton/atomized/wifrb11/story_04_the_man_in_the_passage">Story 04 The Man in the Passage ›</a></div>
 </nav>
+<nav class="excerpt-children">
+<div class="excerpt-children-label">In questa sezione</div>
+<ul><li><a href="/testi/chesterton/atomized/wifrb11/story_03_the_duel_of_dr_hirsch/part_01">Part 1</a></li><li><a href="/testi/chesterton/atomized/wifrb11/story_03_the_duel_of_dr_hirsch/part_02">Part 2</a></li><li><a href="/testi/chesterton/atomized/wifrb11/story_03_the_duel_of_dr_hirsch/part_03">Part 3</a></li><li><a href="/testi/chesterton/atomized/wifrb11/story_03_the_duel_of_dr_hirsch/part_04">Part 4</a></li><li><a href="/testi/chesterton/atomized/wifrb11/story_03_the_duel_of_dr_hirsch/part_05">Part 5</a></li></ul>
+</nav>
 
 # [[wifrb11]] — Il duello del dottor Hirsch
 

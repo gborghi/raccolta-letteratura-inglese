@@ -656,6 +656,10 @@ they are probably getting on very well."
 <div class="excerpt-crumb">Chesterton · <a href="/works/wifrb11-(chesterton)">The Wisdom of Father Brown</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/wifrb11/story_05_the_mistake_of_the_machine">‹ Story 05 The Mistake of the Machine</a><a class="ex-next" href="/testi/chesterton/atomized/wifrb11/story_07_the_purple_wig">Story 07 The Purple Wig ›</a></div>
 </nav>
+<nav class="excerpt-children">
+<div class="excerpt-children-label">In questa sezione</div>
+<ul><li><a href="/testi/chesterton/atomized/wifrb11/story_06_the_head_of_caesar/part_01">Part 1</a></li><li><a href="/testi/chesterton/atomized/wifrb11/story_06_the_head_of_caesar/part_02">Part 2</a></li><li><a href="/testi/chesterton/atomized/wifrb11/story_06_the_head_of_caesar/part_03">Part 3</a></li><li><a href="/testi/chesterton/atomized/wifrb11/story_06_the_head_of_caesar/part_04">Part 4</a></li><li><a href="/testi/chesterton/atomized/wifrb11/story_06_the_head_of_caesar/part_05">Part 5</a></li></ul>
+</nav>
 
 # [[wifrb11]] — La testa di Cesare
 

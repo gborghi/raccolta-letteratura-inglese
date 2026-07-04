@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/apprandcritofchdickens-(chesterton)">ApprAndCritOfChDickens</a> › <a href="/testi/chesterton/atomized/apprandcritofchdickens/chapter_01_page">Chapter 01 PAGE</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/apprandcritofchdickens/chapter_01_page/part_25">‹ part 25</a><a class="ex-next" href="/testi/chesterton/atomized/apprandcritofchdickens/chapter_01_page/part_27">part 27 ›</a></div>
@@ -177,3 +179,176 @@ swords in _Master Humphrey's Clock_, or the indefensibly delightful
 [[nightmare]] of the lady in the stage-coach, which helps to soften the
 
 amiable end of [[Pickwick]]. Neither, worst of all, did it prevent him from
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/apprandcritofchdickens-(chesterton)">ApprAndCritOfChDickens</a> › <a href="/testi/chesterton/atomized/apprandcritofchdickens/chapter_01_page">Chapter 01 PAGE</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/apprandcritofchdickens/chapter_01_page/part_25">‹ part 25</a><a class="ex-next" href="/testi/chesterton/atomized/apprandcritofchdickens/chapter_01_page/part_27">part 27 ›</a></div>
+</nav>
+
+pittoresco. [[Caliban]] e i due naufraghi ubriaconi sono un simbolo
+
+mirabile; ma sono anche una scena mirabile. [[Bottom]], con la testa d'asino,
+
+seduto in un cerchio di elfi, è eccellente [[Comedy|commedia]] in movimento, ma
+
+anche eccellente natura morta. [[Falstaff]] con il suo [[Body|corpo]] enorme, Bardolfo
+
+con il suo naso ardente, sono capolavori della penna; ma sarebbero pregevoli
+
+schizzi persino per la matita. [[King Lear|Re Lear]], nella [[Storm|tempesta]], è un paesaggio
+
+[[Well|non meno]] che uno studio di carattere. C'è qualcosa di decorativo perfino
+
+nell'insistenza sul colorito bruno di [[Othello|Otello]], o sulla deformità di [[Richard|Riccardo]]
+
+III. L'opera di Shakespeare è molto più che pittoresca; ma è
+
+pittoresca. E ciò che qui si dice di lui a titolo d'esempio vale in gran
+
+parte anche per la più alta classe di letteratura. La _Divina Commedia_ di [[Dante]]
+
+è di somma importanza come [[philosophy|filosofia]]; ma è importante anche solo come
+
+panorama. La _Regina delle Fate_ di Spenser ci piace come [[Allegory|allegoria]]; ma
+
+ci piacerebbe perfino come tappezzeria. Più forte ancora è il caso di
+
+Chaucer, che amava il puro pittoresco, il quale include sempre qualcosa
+
+di ciò che comunemente chiamiamo brutto. La statura enorme e il volto di uno
+
+scarlatto sorprendente del Sompnour sono nel medesimo spirito dei
+
+teschi e degli abiti variopinti di Shakespeare; il medesimo spirito diede al
+
+mugnaio di Chaucer la cornamusa, e vestì il suo medico di cremisi. È lo spirito
+
+che, pur facendo molte altre cose, ama fare un quadro.
+
+Ora la seconda cosa da osservare a difesa del pittoresco è
+
+che proprio ciò che lo fa apparire frivolo dovrebbe in realtà farlo
+
+apparire importante; intendo il fatto che esso consiste necessariamente di
+
+contrasti. Accosta tipi che spiccano dal loro
+
+sfondo, ma bruscamente diversi l'uno dall'altro, come il pagliaccio
+
+tra le fate o il [[Fool|folle]] nella foresta. E la sua audace
+
+[[Reconciliation|riconciliazione]] è segno non di frivolezza ma di estrema serietà. Un
+
+uomo che tratta armonie, che accompagna soltanto le [[Stars|stelle]] con gli angeli o gli agnelli
+
+con i [[Flowers|fiori]] di [[Spring|primavera]], costui può bene essere frivolo; poiché prende un
+
+umore alla [[Time|volta]], e forse dimentica ciascun umore man mano che passa. Ma un uomo
+
+che osa combinare un angelo e un polpo deve avere qualche seria
+
+visione dell'universo. L'uomo che scrivesse un dialogo tra due
+
+antichi cristiani potrebbe essere un semplice scrittore di dialoghi. Ma un uomo
+
+che scrivesse un dialogo tra un antico cristiano e l'Anello Mancante
+
+dovrebbe essere un filosofo. Quanto più largamente diversi sono i tipi
+
+di cui si discorre, tanto più seria e universale dev'essere la [[philosophy|filosofia]] che
+
+ne discorre. Il segno dello scrittore lieve e sventato è
+
+l'armonia della sua materia; il segno dello scrittore riflessivo è la sua
+
+apparente diversità. Il più frivolo poeta [[Lyric|lirico]] potrebbe scrivere una graziosa
+
+poesia sugli agnelli; ma occorre qualcosa di più ardito e di più grave d'un
+
+poeta, occorre un [[Prophet|profeta]] estatico, per parlare del [[Lion|leone]] che giace
+
+accanto all'[[Lamb|agnello]].
+
+Dickens, ad ogni modo, avvalora fortemente questa concezione: che i grandi
+
+uomini di lettere in quanto tali non disprezzano il puramente pittorico. Le opere di nessuno
+
+hanno tanto la qualità di illustrare se stesse. Le opere di pochi uomini
+
+sono state illustrate più a fondo e con più ardore; le opere di pochi uomini
+
+può essere stato più divertente illustrare. Di regola questa affascinante
+
+qualità nelle mere figure fantastiche del racconto era inseparabile dalla
+
+loro qualità farsesca nel racconto. Il naso rosso di Stiggins è distintamente
+
+connesso col fatto ch'egli è membro dell'Associazione per la Temperanza
+
+Ebenezer; Quilp è piccolo perché un po' di lui basta e avanza.
+
+Mr. Carker sorride e sorride ed è un [[Villain|malvagio]]; Mr. Chadband è grasso
+
+perché nel suo caso essere grasso è essere odiato. La storia è incommensurabilmente
+
+più importante del quadro; non è mero indulgere nel
+
+pittoresco. In genere è un [[Love|amore]] intellettuale del comico; non un
+
+puro [[Love|amore]] del [[Grotesque|grottesco]].
+
+Ma in un libro Dickens confessa d'un tratto che gli piace il [[Grotesque|grottesco]]
+
+anche senza il comico. In un caso egli rende chiaro che gode di puri
+
+quadri con un puro [[Love|amore]] del pittoresco. Quel luogo è _Barnaby
+
+Rudge_. C'erano state invero avvisaglie di ciò in molti episodi dei suoi libri;
+
+notevolmente, per esempio, in quella bella scena della [[Death|morte]] di Quilp — una scena
+
+in cui il [[Dwarf|nano]] rimane fantastico assai dopo aver cessato d'essere in
+
+alcun modo comico. Eppure il [[Dwarf|nano]] doveva essere comico. Un [[Humour|umorismo]] d'una
+
+specie orribile, ma pur sempre [[Humour|umorismo]], è lo scopo dell'esistenza e della
+
+posizione di Quilp nel libro. Il riso è l'oggetto di tutte le sue stranezze. Ma
+
+il riso non è l'oggetto delle stranezze di [[Barnaby Rudge]]. Il suo costume
+
+d'idiota e il suo brutto corvo sono usati allo scopo del puro
+
+[[Grotesque|grottesco]]; unicamente per fare una certa sorta di [[Sketch|schizzo]] gotico.
+
+È comunemente questo [[Love|amore]] dei quadri che risospinge gli uomini verso il
+
+[[Historical Novel|romanzo storico]]. Ma è quanto mai tipico del vivo interesse di Dickens per
+
+il proprio [[Time|tempo]] che, benché egli scrivesse due romanzi storici, essi non fossero
+
+né l'uno né l'altro di [[history|storia]] molto antica. Erano entrambi, invero, di [[history|storia]] molto
+
+recente; solo che erano quelle parti di [[history|storia]] recente che erano
+
+specialmente pittoresche. Non credo che ciò fosse dovuto a una qualche mera
+
+consapevolezza da parte sua di non conoscere alcuna [[history|storia]]. Senza dubbio egli non conosceva
+
+alcuna [[history|storia]]; e può darsi che ne fosse consapevole o no. Ma
+
+la consapevolezza non gl'impedì di scrivere una _Storia
+
+d'Inghilterra_. Né gl'impedì di infarcire tutte o alcune delle sue
+
+opere con racconti del passato pittorico, come il racconto delle spade
+
+spezzate in _Master Humphrey's Clock_, o l'indifendibilmente delizioso
+
+[[nightmare|incubo]] della dama nella diligenza, che contribuisce ad addolcire
+
+l'amabile fine di [[Pickwick]]. Né, peggio di tutto, gl'impedì di

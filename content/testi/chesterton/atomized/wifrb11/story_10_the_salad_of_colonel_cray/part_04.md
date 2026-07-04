@@ -140,7 +140,7 @@ to look at it again.
 
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/works/wifrb11-(chesterton)">The Wisdom of Father Brown</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/wifrb11-(chesterton)">The Wisdom of Father Brown</a> › <a href="/testi/chesterton/atomized/wifrb11/story_10_the_salad_of_colonel_cray">Story 10 The Salad of Colonel Cray</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/wifrb11/story_10_the_salad_of_colonel_cray/part_03">‹ part 03</a><a class="ex-next" href="/testi/chesterton/atomized/wifrb11/story_10_the_salad_of_colonel_cray/part_05">part 05 ›</a></div>
 </nav>
 

@@ -143,7 +143,7 @@ in what was still broad daylight, a man looked only at the woman's face.
 
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/works/wifrb11-(chesterton)">The Wisdom of Father Brown</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/wifrb11-(chesterton)">The Wisdom of Father Brown</a> › <a href="/testi/chesterton/atomized/wifrb11/story_04_the_man_in_the_passage">Story 04 The Man in the Passage</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/wifrb11/story_03_the_duel_of_dr_hirsch/part_05">‹ part 05</a><a class="ex-next" href="/testi/chesterton/atomized/wifrb11/story_04_the_man_in_the_passage/part_02">part 02 ›</a></div>
 </nav>
 

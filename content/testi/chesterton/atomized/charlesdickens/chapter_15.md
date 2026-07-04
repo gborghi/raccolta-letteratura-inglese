@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/charlesdickens-(chesterton)">CharlesDickens</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/charlesdickens/chapter_14">‹ Chapter 14</a><a class="ex-next" href="/testi/chesterton/atomized/charlesdickens/chapter_02/part_01">part 01 ›</a></div>
@@ -223,5 +225,226 @@ of the world.
 
                   (Provided by Mitsuharu Matsuoka, Nagoya University, Japan,
                                                             on 6 July 1998.)
+
+----------------------------------------------------------------------------
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/charlesdickens-(chesterton)">CharlesDickens</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/charlesdickens/chapter_14">‹ Chapter 14</a><a class="ex-next" href="/testi/chesterton/atomized/charlesdickens/chapter_02/part_01">part 01 ›</a></div>
+</nav>
+<nav class="excerpt-children">
+<div class="excerpt-children-label">In questa sezione</div>
+<ul><li><a href="/testi/chesterton/atomized/charlesdickens/chapter_15/part_01">Part 1</a></li><li><a href="/testi/chesterton/atomized/charlesdickens/chapter_15/part_02">Part 2</a></li></ul>
+</nav>
+
+CAPITOLO XII
+
+UNA NOTA SUL FUTURO DI DICKENS
+
+La cosa più difficile da ricordare a proposito del nostro [[Time|tempo]], naturalmente,
+è semplicemente che esso è un [[Time|tempo]]; tutti d'istinto lo pensiamo
+come il Giorno del Giudizio. Ma tutte le cose che vi si trovano
+e che gli appartengono soltanto in quanto questo [[Time|tempo]] saranno con ogni probabilità presto
+capovolte; tutte le cose che possono passare passeranno.
+Non è soltanto vero che tutte le cose vecchie sono già morte;
+è anche vero che tutte le cose nuove sono già morte; poiché le uniche
+cose immortali sono quelle che non sono né nuove né vecchie.
+Quanto più si è al passo con la moda di quest'anno, tanto più
+(in un certo senso) si è già in ritardo su quella dell'anno venturo. Di conseguenza,
+nel tentare di stabilire se un autore, com'è
+argutamente detto, sopravviverà, occorre avere convinzioni saldissime
+su quale parte, se pure ve n'è alcuna, dell'uomo sia immutabile.
+E ciò è cosa assai ardua da avere, se non si possiede una religione o,
+per lo meno, una [[philosophy|filosofia]] dogmatica.
+
+L'eguaglianza degli uomini ha bisogno di essere predicata tanto riguardo alle epoche
+quanto riguardo alle classi degli uomini. Sentirsi infinitamente superiori a un uomo
+del dodicesimo secolo è esattamente altrettanto snobistico quanto sentirsi
+infinitamente superiori a un uomo della vecchia [[Kent]] [[Road]]. Vi sono differenze
+fra quell'uomo e noi, vi possono essere in noi superiorità rispetto a lui;
+ma il nostro peccato, in entrambi i casi, consiste nel pensare alle piccole cose
+in cui differiamo, quando dovremmo essere confusi e inebriati
+dalle materie terribili e gioiose in cui siamo tutt'uno.
+Ma anche qui la difficoltà è sempre che le cose a noi vicine sembrano
+più grandi di quanto siano, e così paiono una parte permanente dell'umanità,
+mentre in realtà possono essere soltanto uno dei suoi modi di espressione passeggeri.
+Poche persone, per esempio, si rendono conto che facilmente può venire un [[Time|tempo]] in cui
+vedremo la grande fioritura della Scienza nel diciannovesimo secolo
+come qualcosa di altrettanto splendido, breve, unico e infine abbandonato
+quanto la fioritura dell'Arte al Rinascimento. Poche persone si rendono conto che
+l'abitudine generale della narrativa, di raccontare storie in prosa, può svanire,
+come l'abitudine generale della ballata, di raccontare storie in versi,
+è per il [[Time|tempo]] svanita. Poche persone si rendono conto che leggere e scrivere
+sono solo scienze arbitrarie, e forse temporanee, come l'araldica.
+
+La mente immortale rimarrà, e su di essa scrittori come Dickens
+saranno giudicati con sicurezza. Che Dickens avrà un posto elevato nella
+letteratura duratura non vi è, immagino, alcun saccente sopravvissuto a negarlo.
+Ma per quanto ogni predizione avvenga nel buio, vorrei dedicare questo
+capitolo a suggerire che il suo posto nell'Inghilterra del diciannovesimo secolo
+non sarà soltanto elevato, ma addirittura il più elevato di tutti.
+In un certo periodo della sua fama contemporanea, un inglese medio
+avrebbe detto che in quel momento esistevano in Inghilterra all'incirca
+cinque o sei romanzieri capaci e di pari valore. Avrebbe potuto stilarne un elenco:
+Dickens, Bulwer Lytton, Thackeray, Charlotte Brontë, George Eliot,
+forse altri ancora. Sono trascorsi quarant'anni o più e alcuni
+di loro sono scivolati in un posto più basso. Alcuni direbbero oggi
+che la piattaforma più alta è riservata a Thackeray e Dickens;
+altri a Dickens, Thackeray e George Eliot; altri a Dickens, Thackeray
+e Charlotte Brontë. Mi arrischio a proporre la tesi che,
+quando saranno trascorsi altri anni e sarà stata operata una maggiore selezione,
+Dickens dominerà l'intera Inghilterra del diciannovesimo secolo;
+egli resterà su quella piattaforma [[Alone|solo]].
+
+So che questa è un'affermazione quasi impertinente da avanzare,
+e che la sua tendenza è quella di introdurre quelle discussioni sminuenti
+di altri scrittori nelle quali il signor Swinburne si impigliò brillantemente
+nel suo suggestivo studio su Dickens. Ma il mio sminuire gli altri
+romanzieri inglesi è del tutto relativo e non nel minimo grado assoluto.
+È certo che gli uomini torneranno sempre a uno scrittore come Thackeray,
+con il suo ricco [[Autumn|autunno]] emotivo, con il suo sentire che la vita è una triste
+ma sacra retrospettiva nella quale almeno non dovremmo dimenticare nulla.
+Non è probabile che gli uomini saggi lo dimentichino. Così, per esempio,
+uomini saggi e dotti tornano di [[Time|tempo]] in [[Time|tempo]] ai lirici
+del Rinascimento francese, alla delicata intensità di Du Bellay:
+così torneranno a Thackeray. Ma intendo dire che Dickens
+cavalcherà e dominerà il nostro [[Time|tempo]] come la vasta figura di Rabelais
+domina Du Bellay, domina il Rinascimento e il mondo.
+
+Lasciatemi anteporre una ragione negativa. Le cose particolari
+per le quali Dickens è condannato (e giustamente condannato)
+dai suoi critici sono precisamente quelle cose che non hanno mai
+impedito a un uomo di essere immortale. La principale di esse è il
+fatto incontestabile che egli scrisse una enorme quantità di opera cattiva.
+Ciò fa sì che un uomo venga collocato al di sotto del suo posto nel proprio [[Time|tempo]]:
+non tocca affatto il suo posto duraturo, a quanto pare,
+per nulla. Shakespeare, per esempio, e Wordsworth scrissero non
+soltanto una enorme quantità di opera cattiva, ma una enorme quantità di
+opera enormemente cattiva. L'umanità cura per loro le opere di simili scrittori.
+Virgilio sbagliava a tagliare i suoi versi inferiori;
+noi ci saremmo assunti il compito. Inoltre, nel caso particolare
+di Dickens vi sono ragioni speciali per considerare la sua opera cattiva,
+come ho suggerito in precedenza, sotto una sorta di generale [[Ambition|ambizione]]
+che nulla aveva a che fare con il suo genio particolare; un'[[Ambition|ambizione]] a essere
+un fornitore pubblico di ogni cosa, un magazzino di tutte le emozioni umane.
+Egli teneva una sorta di giorno del giudizio letterario. Distribuiva
+i personaggi cattivi come castighi e i personaggi buoni come ricompense.
+Il mio pensiero può essere espresso al meglio da un solo esempio fra i molti.
+Il personaggio del buon vecchio ebreo in «Our Mutual Friend»
+(un personaggio superfluo e poco convincente) fu introdotto in realtà
+perché un corrispondente ebreo si lamentava che il cattivo vecchio ebreo
+in «[[Oliver Twist]]» insinuasse che tutti gli ebrei fossero cattivi.
+Il principio è così sventatamente assurdo che è difficile
+immaginare un letterato che vi si sottometta anche solo per un istante.
+Se mai avesse inventato un banditore cattivo, avrebbe dovuto immediatamente bilanciarlo
+con un banditore buono; se avesse concepito un filantropo
+scortese, avrebbe dovuto seduta stante, con qualunque naturale angoscia
+e fatica, immaginare un filantropo gentile. La lagnanza è forsennata;
+eppure Dickens, che faceva a pezzi la gente per lagnanze assai più giuste,
+gradì questa lagnanza del suo corrispondente ebreo. Gli faceva piacere
+essere scambiato per un arbitro pubblico: gli faceva piacere che gli si chiedesse
+(in un [[Double|duplice]] senso) di giudicare Israele. Tutto ciò è a tal punto
+un'altra cosa, una [[Vanity|vanità]] non letteraria, che vi è molta minore
+difficoltà del solito nel separarla dal suo serio genio:
+e per il suo serio genio, quasi non occorre dirlo, intendo il suo genio comico.
+Ambizioni irrilevanti come questa si superano facilmente,
+come i sonetti dei grandi statisti. Sentiamo che tali cose possono
+essere messe da parte, come gli esperimenti ignoranti di uomini per altro grandi,
+come la politica del professor Tyndall o la [[philosophy|filosofia]] del
+professor Haeckel. Perciò, io credo, la posterità non si curerà del fatto che
+Dickens abbia fatto opera cattiva, ma saprà che ne ha fatta di buona.
+
+Di nuovo, l'altra principale accusa contro Dickens era che i suoi
+personaggi e le loro azioni fossero esagerati e impossibili.
+Ma questo significava soltanto che erano esagerati e impossibili
+se paragonati al mondo moderno e a certi scrittori
+(come Thackeray o Trollope) che facevano una copia esattissima
+delle maniere del mondo moderno. Alcuni, curiosamente,
+hanno suggerito che Dickens abbia sofferto o soffrirà
+del mutamento delle maniere. Certo ciò è irrazionale.
+Non sono i creatori dell'impossibile a soffrire
+del processo del [[Time|tempo]]: il signor Bunsby non potrà mai essere più
+impossibile di quanto lo fosse quando Dickens lo creò.
+Gli scrittori che ovviamente soffriranno del [[Time|tempo]] saranno
+gli scrittori attenti e realistici, gli scrittori che hanno osservato
+ogni dettaglio della foggia di questo mondo che passa.
+È di certo evidente che non v'è nulla di così fragile
+come un fatto, che un fatto vola via più in fretta di una fantasia.
+Una fantasia resisterà per duemila anni. Per esempio,
+tutti nutriamo la fantasia di un uomo del tutto impavido, un [[Hero|eroe]];
+e l'[[Achilles|Achille]] di Omero rimane ancora. Ma esattamente la cosa
+che non sappiamo di [[Achilles|Achille]] è fino a che punto egli fosse possibile.
+I narratori realistici del [[Time|tempo]] sono tutti dimenticati (grazie a Dio),
+sicché non possiamo dire se Omero abbia lievemente esagerato o smisuratamente
+esagerato o non abbia esagerato affatto l'attività personale di un
+capitano miceneo in battaglia; poiché la fantasia è sopravvissuta ai fatti.
+Così la fantasia di Podsnap può sopravvivere ai fatti del commercio inglese:
+e nessuno saprà se Podsnap fosse possibile, ma solo saprà
+che è desiderabile, come [[Achilles|Achille]].
+
+L'argomento positivo per la permanenza di Dickens ritorna
+alla cosa che può soltanto essere affermata e non può essere discussa:
+la creazione. Egli fece cose che nessun altro avrebbe mai potuto fare.
+Egli fece [[Dick Swiveller]] in un senso assai diverso da quello in cui
+Thackeray fece il colonnello Newcome. La creazione di Thackeray era osservazione:
+quella di Dickens era poesia, ed è perciò permanente. Ma vi è un
+altro criterio che si può aggiungere. Lo scrittore immortale, io concepisco,
+è comunemente colui che fa qualcosa di Universale in una maniera speciale.
+Intendo dire che egli fa qualcosa di interessante per tutti gli uomini in un modo
+in cui soltanto un uomo o una sola terra possono farlo. Altri uomini in quella terra,
+che fanno soltanto ciò che altri uomini in altre terre fanno del pari
+[[Well|bene]], tendono ad avere una grande fama ai loro giorni e a sprofondare lentamente
+in un secondo o un terzo o un quarto posto. Un parallelo tratto dalla guerra
+renderà chiaro il punto. Non posso credere che alcuno possa
+[[Doubt|dubitare]] che, benché Wellington e Nelson siano stati sempre accostati,
+Nelson diverrà costantemente più importante e Wellington meno.
+Poiché la fama di Wellington poggia sul fatto che egli fu un buon
+soldato al servizio dell'Inghilterra, esattamente come venti simili
+uomini furono buoni soldati al servizio dell'Austria o della Prussia
+o della Francia. Ma Nelson è il simbolo di un modo speciale di attacco,
+che è al tempo stesso universale e tuttavia specialmente inglese: il mare.
+Ora Dickens è al tempo stesso universale come il mare e inglese
+come Nelson. Thackeray e George Eliot e le altre grandi figure
+di quella grande Inghilterra erano paragonabili a Wellington in questo,
+che il genere di cosa che facevano — il realismo, lo studio acuto delle
+cose intellettuali — numerosi uomini in Francia, [[Germany|Germania]] e [[Italy|Italia]] lo facevano
+del pari [[Well|bene]] o meglio di loro. Ma Dickens faceva davvero qualcosa di
+universale, e tuttavia qualcosa che nessuno se non un inglese poteva fare.
+Ciò è attestato dal fatto che egli e Byron sono gli uomini che,
+come pinnacoli, colpiscono l'occhio del continente. I punti richiederebbero
+lungo studio: eppure possono richiedere solo un momento per essere indicati.
+Nessuno se non un inglese avrebbe potuto riempire i suoi libri al tempo stesso
+di una furiosa caricatura e di una gentilezza positivamente furiosa.
+Nei paesi più centrali, colmi di crudeli ricordi di mutamenti politici,
+la caricatura è sempre disumana. Nessuno se non un inglese
+avrebbe potuto descrivere la [[democracy|democrazia]] come composta di uomini liberi,
+ma insieme di uomini buffi. In altri paesi dove la questione democratica
+è stata combattuta più aspramente, si sente che, a meno che tu non
+descriva un uomo come dignitoso, lo stai descrivendo come uno schiavo.
+Questa è l'unica ultima [[Greatness|grandezza]] di un uomo: che egli faccia
+per tutto il mondo ciò che tutto il mondo non può fare per se stesso.
+Dickens, io credo, lo fece.
+
+L'ora dell'assenzio è finita. Non saremo molto oltre
+disturbati dai piccoli artisti che trovavano Dickens troppo sano
+per i loro dolori e troppo puro per i loro piaceri. Ma abbiamo
+una lunga strada da percorrere prima di tornare a ciò che Dickens significava:
+e il passaggio si snoda lungo una tortuosa [[Road|strada]] inglese, una [[Road|strada]]
+serpeggiante quale quella percorsa dal signor [[Pickwick]]. Ma questo almeno è parte
+di ciò che egli significava: che la [[Comradeship|cameratismo]] e la gioia seria non sono
+interludi nel nostro viaggio; ma che piuttosto i nostri viaggi sono interludi
+nel [[Comradeship|cameratismo]] e nella gioia, che per grazia di Dio dureranno in eterno.
+La locanda non indica la [[Road|strada]]; la [[Road|strada]] indica la locanda.
+E tutte le strade indicano infine una locanda ultima, dove incontreremo
+Dickens e tutti i suoi personaggi: e quando berremo di nuovo
+sarà dai grandi boccali nella taverna alla fine
+del mondo.
+
+                  (Fornito da Mitsuharu Matsuoka, Università di Nagoya, Giappone,
+                                                            il 6 luglio 1998.)
 
 ----------------------------------------------------------------------------

@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/scandal-fr-brown-(chesterton)">scandal Fr Brown</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/scandal_fr_brown/story_02_the_quick_one">‹ Story 02 The Quick One</a><a class="ex-next" href="/testi/chesterton/atomized/scandal_fr_brown/story_04_the_green_man">Story 04 The Green Man ›</a></div>
@@ -580,3 +582,196 @@ Did you never feel just a momentary awe of the awful volume?'
 
 'Oh, that,' said [[Father Brown]]. 'I opened it as soon as I saw it lying
 there. It's all blank pages. You see, I am not superstitious.'
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/scandal-fr-brown-(chesterton)">scandal Fr Brown</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/scandal_fr_brown/story_02_the_quick_one">‹ Story 02 The Quick One</a><a class="ex-next" href="/testi/chesterton/atomized/scandal_fr_brown/story_04_the_green_man">Story 04 The Green Man ›</a></div>
+</nav>
+<nav class="excerpt-children">
+<div class="excerpt-children-label">In questa sezione</div>
+<ul><li><a href="/testi/chesterton/atomized/scandal_fr_brown/story_03_the_blast_of_the_book/part_01">Part 1</a></li><li><a href="/testi/chesterton/atomized/scandal_fr_brown/story_03_the_blast_of_the_book/part_02">Part 2</a></li><li><a href="/testi/chesterton/atomized/scandal_fr_brown/story_03_the_blast_of_the_book/part_03">Part 3</a></li><li><a href="/testi/chesterton/atomized/scandal_fr_brown/story_03_the_blast_of_the_book/part_04">Part 4</a></li><li><a href="/testi/chesterton/atomized/scandal_fr_brown/story_03_the_blast_of_the_book/part_05">Part 5</a></li></ul>
+</nav>
+
+TRE: L'esplosione del libro
+
+Il professor Openshaw perdeva sempre le staffe, con un fragoroso scoppio, se qualcuno lo chiamava spiritista, o credente nello spiritismo. Questo, tuttavia, non esauriva la sua carica esplosiva; giacché perdeva le staffe anche se qualcuno lo chiamava miscredente in fatto di spiritismo. Era suo [[Pride|orgoglio]] aver dedicato l'intera vita all'indagine dei fenomeni psichici; ma era altresì suo [[Pride|orgoglio]] non aver mai lasciato trapelare il minimo indizio se li ritenesse davvero psichici o meramente fenomenici. Nulla lo dilettava quanto sedere in un circolo di devoti spiritisti e fornire descrizioni devastanti di come avesse smascherato medium dopo medium e scoperto frode dopo frode; poiché in verità era uomo di molto talento e acume da [[Detective|investigatore]], una volta che avesse fissato l'occhio su un oggetto, e fissava sempre l'occhio su un medium, come sull'oggetto più sospetto. Correva voce che avesse smascherato lo stesso ciarlatano spiritista sotto tre travestimenti diversi: vestito da donna, da vecchio dalla barba bianca, e da bramino di un ricco color cioccolato. Simili resoconti rendevano i veri credenti alquanto inquieti, come del resto era loro intento; ma essi non potevano poi lagnarsene, giacché nessuno spiritista nega l'esistenza di medium fraudolenti; solo che la fluente narrazione [[The Professor|del Professore]] poteva [[Well|ben]] far intendere che tutti i medium fossero fraudolenti.
+
+Ma guai al materialista ingenuo e [[Innocent|innocente]] (e i materialisti come razza sono piuttosto [[Innocent|innocenti]] e ingenui) che, facendo affidamento su questa tendenza narrativa, avesse osato avanzare la tesi che i [[Ghosts|fantasmi]] fossero contrari alle leggi di [[Nature|natura]], o che tali cose fossero soltanto vecchie superstizioni; o che fossero tutte fandonie, o, in alternativa, sciocchezze. Costui [[The Professor|il Professore]], rovesciando d'un tratto tutte le sue batterie scientifiche, avrebbe spazzato via dal campo con una cannonata di casi incontestabili e di fenomeni inspiegati, dei quali il misero razionalista non aveva mai udito in vita sua, snocciolando tutte le date e i particolari, esponendo tutte le spiegazioni naturali tentate e abbandonate; esponendo ogni cosa, in verità, tranne se lui, John [[Oliver]] Openshaw, credesse o no negli spiriti, e ciò né lo spiritista né il materialista poterono mai vantarsi di aver scoperto.
+
+Il professor Openshaw, figura magra dai capelli pallidi e leonini e dagli occhi azzurri e ipnotici, se ne stava a scambiare qualche parola con [[Father Brown]], che gli era amico, sui gradini davanti all'albergo dove entrambi avevano fatto colazione quella mattina e dormito la [[Night|notte]] precedente. [[The Professor|Il Professore]] era rientrato piuttosto tardi da uno dei suoi grandi esperimenti, in preda a una generale esasperazione, e ancora fremeva per la battaglia che combatteva sempre [[Alone|da solo]] e contro entrambe le fazioni.
+
+«Oh, voi non m'importate,» disse ridendo. «Voi non ci credete nemmeno se è vero. Ma tutta questa gente continua a chiedermi che cosa cerco di dimostrare. Non pare capire che sono un uomo di scienza. Un uomo di scienza non cerca di dimostrare alcunché. Cerca di scoprire ciò che si dimostrerà da sé.»
+
+«Ma non l'ha ancora scoperto,» disse [[Father Brown]].
+
+«[[Well|Ebbene]], ho qualche mia piccola idea, non del tutto così negativa come la maggior parte crede,» rispose [[The Professor|il Professore]], dopo un istante di [[Silence|silenzio]] accigliato; «comunque, ho cominciato a pensare che, se c'è qualcosa da trovare, lo cercano lungo la strada sbagliata. È tutto troppo teatrale; è pura ostentazione, tutto quel loro lucido ectoplasma e le trombe e le voci e il resto; tutto sul modello dei vecchi melodrammi e dei muffiti romanzi storici sul [[Ghost|Fantasma]] di Famiglia. Se andassero alla [[history|storia]] invece che ai romanzi storici, comincio a credere che troverebbero davvero qualcosa. Ma non apparizioni.»
+
+«Dopo tutto,» disse [[Father Brown]], «le apparizioni sono soltanto apparenze. Suppongo direste che il [[Ghost|Fantasma]] di Famiglia si limita a salvare le apparenze.»
+
+Lo sguardo [[The Professor|del Professore]], che di solito aveva un bel carattere distratto, d'un tratto si fissò e si mise a fuoco come faceva su un medium dubbio. Aveva piuttosto l'aria di un uomo che si avvita nell'occhio una potente lente d'ingrandimento. Non che ritenesse il prete minimamente simile a un medium dubbio; ma fu colto di sorpresa e attirato dall'attenzione dal fatto che il pensiero dell'amico seguisse così da presso il proprio.
+
+«Apperbacco!» mormorò, «però è strano che diciate proprio questo, adesso. Più imparo, più mi pare che ci perdano a cercare soltanto le apparenze. Ora, se guardassero un po' alle Scomparse...»
+
+«Sì,» disse [[Father Brown]], «dopo tutto, le vere leggende sulle fate non parlavano poi tanto dell'apparizione di fate famose; dell'evocare [[Titania]] o del mostrare [[Oberon]] al chiaro di luna. Ma c'erano leggende senza fine su gente che spariva, perché rapita dalle fate. Siete sulle tracce di Kilmeny o di Thomas il Rimatore?»
+
+«Sono sulle tracce di gente comune e moderna, di cui avete letto sui giornali,» rispose Openshaw. «Potete [[Well|ben]] sgranare gli occhi; ma quello è il mio gioco in questo momento; e ci sono su da parecchio [[Time|tempo]]. Francamente, credo che molte apparizioni psichiche si potrebbero spiegare via. Sono le scomparse che non riesco a spiegare, a meno che non siano psichiche. Quella gente sui giornali che svanisce e non viene più ritrovata... se ne conosceste i particolari come li conosco io... e proprio stamattina ho avuto una conferma; una lettera straordinaria da un vecchio missionario, un vecchietto assai rispettabile. Verrà a trovarmi al mio ufficio stamane. Forse potreste pranzare con me o qualcosa del genere; e vi racconterei i risultati... in confidenza.»
+
+«Grazie; verrò... a meno che,» disse [[Father Brown]] modestamente, «le fate non mi abbiano rapito nel frattempo.»
+
+Con ciò si separarono, e Openshaw voltò l'angolo verso un piccolo ufficio che teneva in affitto nel vicinato; principalmente per la pubblicazione di un piccolo periodico, di note psichiche e psicologiche del genere più arido e agnostico. Aveva un solo impiegato, che sedeva a una scrivania nell'ufficio esterno, sommando cifre e fatti ai fini della relazione a stampa; e [[The Professor|il Professore]] si fermò a domandare se il signor Pringle avesse chiamato. L'impiegato rispose meccanicamente di no e continuò meccanicamente ad addizionare cifre; e [[The Professor|il Professore]] si diresse verso la stanza interna che gli faceva da studio. «Ah, a proposito, Berridge,» aggiunse, senza voltarsi, «se viene il signor Pringle, mandatemelo dentro subito. Non c'è bisogno che interrompiate il vostro lavoro; anzi, vorrei quelle note finite stasera, se possibile. Potreste lasciarmele sulla scrivania domani, se faccio tardi.»
+
+Ed entrò nel suo ufficio privato, ancora rimuginando sul problema che il nome di Pringle aveva sollevato; o piuttosto, forse, ratificato e confermato nella sua mente. Perfino il più perfettamente equilibrato degli agnostici è in parte umano; ed è possibile che la lettera del missionario paresse acquistare maggior peso in quanto prometteva di sostenere la sua ipotesi privata e ancora provvisoria. Sedette nella sua ampia e comoda poltrona, di fronte all'incisione di Montaigne; e rilesse la breve lettera del reverendo Luke Pringle, che fissava l'appuntamento per quella mattina. Nessuno conosceva meglio del professor Openshaw i segni distintivi della lettera dell'esaltato; i particolari accalcati; la calligrafia ragnesca; la lunghezza e le ripetizioni superflue. Di tutto ciò non v'era traccia in questo caso; solo una breve e sbrigativa dichiarazione dattiloscritta secondo cui lo scrivente si era imbattuto in alcuni curiosi casi di Scomparsa, che parevano rientrare nel campo [[The Professor|del Professore]] in quanto studioso di problemi psichici. [[The Professor|Il Professore]] ne ricevette un'impressione favorevole; né ne ebbe alcuna sfavorevole, malgrado un lieve moto di sorpresa, quando alzò lo sguardo e vide che il reverendo Luke Pringle era già nella stanza.
+
+«Il vostro impiegato mi ha detto di entrare direttamente,» disse il signor Pringle in tono di scusa, ma con un largo e piuttosto piacevole sorriso. Il sorriso era in parte celato da masse di barba e favoriti di un grigio rossastro; una perfetta giungla di barba, quale talvolta la portano gli uomini bianchi che vivono nelle giungle; ma gli occhi sopra il naso camuso non avevano nulla in loro di minimamente selvaggio o strampalato. Openshaw aveva subito puntato su di essi quel riflettore concentrato o quella lente ustoria di scrutinio scettico che rivolgeva a molti uomini per vedere se fossero ciarlatani o maniaci; e, in questo caso, provò un senso di rassicurazione piuttosto insolito. La barba selvaggia poteva ben appartenere a un esaltato, ma gli occhi contraddicevano interamente la barba; erano colmi di quella risata del tutto schietta e amichevole che non si trova mai sui volti di chi è un serio impostore o un serio pazzo. Egli si sarebbe aspettato che un uomo con quegli occhi fosse un filisteo, un allegro scettico, un uomo che sbraitasse un disprezzo superficiale ma cordiale verso [[Ghosts|fantasmi]] e spiriti; ma in ogni caso, nessun ciarlatano di professione poteva permettersi di sembrare tanto frivolo. L'uomo era abbottonato fino alla gola in un vecchio e logoro mantello, e solo il suo largo cappello floscio suggeriva il chierico; ma i missionari dei luoghi selvaggi non sempre si preoccupano di vestire da chierici.
+
+«Probabilmente crederete che tutto questo sia un altro imbroglio, Professore,» disse il signor Pringle, con una sorta di astratto godimento, «e [[Hope|spero]] mi perdonerete se rido della vostra assai naturale aria di disapprovazione. Ciò nondimeno, devo raccontare la mia storia a qualcuno che se ne intende, perché è vera. E, scherzi a parte, è tragica [[Well|oltre]] che vera. [[Well|Ebbene]], per farla breve, ero missionario a Nya-Nya, una stazione dell'Africa occidentale, nel folto delle foreste, dove quasi l'unico altro uomo bianco era l'ufficiale al comando del distretto, il capitano Wales; e lui e io divenimmo piuttosto intimi. Non che a lui piacessero le missioni; era, se posso dir così, ottuso sotto molti aspetti; uno di quegli uomini d'azione dalla testa quadra e dalle spalle quadre che quasi non hanno bisogno di pensare, e ancor [[Alone|meno]] di credere.
+
+Ed è questo che rende il tutto ancora più strano. Un giorno tornò alla sua tenda nella foresta, dopo una breve licenza, e disse di aver vissuto un'esperienza maledettamente bizzarra, e di non sapere che farci. Reggeva un vecchio libro arrugginito dalla rilegatura in cuoio, e lo posò su un tavolo accanto alla sua rivoltella e a una vecchia [[Sword|spada]] araba che teneva, probabilmente come curiosità. Disse che quel libro era appartenuto a un uomo del piroscafo da cui era appena sbarcato; e che quell'uomo giurava che nessuno dovesse aprire il libro, né guardarvi dentro; altrimenti sarebbe stato portato via dal diavolo, o sarebbe scomparso, o qualcosa del genere. Wales disse che erano tutte sciocchezze, naturalmente; e vennero a diverbio; e pare che il risultato fosse che quest'uomo, punto sul vivo dall'accusa di codardia o superstizione, guardò davvero dentro il libro; e all'istante lo lasciò cadere; camminò verso il fianco del piroscafo...»
+
+«Un momento,» disse [[The Professor|il Professore]], che aveva preso una o due note. «Prima che mi diciate altro. Quest'uomo disse a Wales dove aveva preso il libro, o a chi originariamente appartenesse?»
+
+«Sì,» rispose Pringle, ora del tutto [[Grave|serio]]. «Pare che avesse detto di riportarlo al dottor Hankey, il viaggiatore orientalista ora in Inghilterra, al quale originariamente apparteneva, e che l'aveva messo in guardia sulle sue strane proprietà. [[Well|Ebbene]], Hankey è un uomo capace e un tipo piuttosto acido e beffardo; il che lo rende ancora più strano. Ma il nocciolo della storia di Wales è assai più semplice. È che l'uomo che aveva guardato dentro il libro camminò dritto oltre il fianco della [[Ship|nave]], e non fu mai più rivisto.»
+
+«Ci credete voi stesso?» chiese Openshaw dopo una pausa.
+
+«[[Well|Ebbene]], sì,» rispose Pringle. «Ci credo per due ragioni. La prima, che Wales era un uomo del tutto privo d'immaginazione; eppure aggiunse un tocco che solo un uomo dotato d'immaginazione avrebbe potuto aggiungere. Disse che l'uomo camminò dritto oltre il fianco in una giornata immota e serena; ma non ci fu alcun tonfo.»
+
+[[The Professor|Il Professore]] fissò le sue note per alcuni secondi in [[Silence|silenzio]]; poi disse: «E la vostra altra ragione per crederci?»
+
+«La mia altra ragione,» rispose il reverendo Luke Pringle, «è ciò che vidi io stesso.»
+
+Vi fu un altro [[Silence|silenzio]]; finché egli riprese nello stesso tono di chi constata un fatto. Qualunque cosa avesse, non aveva nulla della smania con cui l'esaltato, o perfino il credente, cerca di convincere gli altri.
+
+«Vi ho detto che Wales posò il libro sul tavolo accanto alla [[Sword|spada]]. C'era un solo ingresso alla tenda; e si dava il caso che io vi stessi in piedi, guardando fuori nella foresta, con le spalle al mio compagno. Egli era in piedi presso il tavolo, brontolando e ringhiando sull'intera faccenda; dicendo che era una buffonata, nel ventesimo secolo, aver paura di aprire un libro; chiedendo perché diavolo non dovesse aprirlo lui stesso. Allora qualche istinto si mosse in me e dissi che era meglio non lo facesse, che era meglio restituirlo al dottor Hankey. "Che male potrebbe fare?" disse irrequieto. "Che male ha fatto?" risposi ostinatamente. "Che cosa è successo al vostro amico sul piroscafo?" Non rispose, e in verità non sapevo che cosa potesse rispondere; ma io incalzai il mio vantaggio logico per pura [[Vanity|vanità]]. "Se è per questo," dissi, "qual è la vostra versione di ciò che accadde davvero sul piroscafo?" Continuava a non rispondere; e mi voltai e vidi che non c'era più.
+
+«La tenda era vuota. Il libro giaceva sul tavolo; aperto, ma capovolto, come se l'avesse rovesciato a faccia in giù. Ma la [[Sword|spada]] giaceva a terra presso l'altro lato della tenda; e il telo della tenda mostrava un ampio squarcio, come se qualcuno si fosse aperto un varco a colpi di [[Sword|spada]]. Il taglio nella tenda mi si spalancava davanti; ma mostrava soltanto il buio barlume della foresta là fuori. E quando attraversai e guardai attraverso lo strappo, non potei accertarmi se il groviglio delle alte piante e del sottobosco fosse stato piegato o spezzato; almeno non oltre pochi piedi. Non ho mai più visto né sentito nominare il capitano Wales da quel giorno.
+
+«Avvolsi il libro nella carta marrone, avendo ben cura di non guardarlo; e lo riportai in Inghilterra, intenzionato dapprima a restituirlo al dottor Hankey. Poi vidi certe note sulla vostra rivista che suggerivano un'ipotesi su simili faccende; e decisi di fermarmi lungo la strada e sottoporvi la questione; giacché avete fama di essere equilibrato e di mente aperta.»
+
+Il professor Openshaw posò la penna e guardò fisso l'uomo dall'altra parte del tavolo; concentrando in quell'unico sguardo tutta la sua lunga esperienza di molti tipi affatto diversi di ciarlataneria, e perfino di certi tipi eccentrici e straordinari di uomini onesti. In circostanze normali, avrebbe cominciato con la salubre ipotesi che la storia fosse un mucchio di menzogne. Nel complesso, propendeva davvero a supporre che fosse un mucchio di menzogne. Eppure non riusciva a incastrare l'uomo nella sua storia; non fosse altro perché non riusciva a immaginare quel tipo di bugiardo raccontare quel tipo di bugia. L'uomo non cercava di apparire onesto in superficie, come fanno la maggior parte dei ciurmadori e degli impostori; in qualche modo, sembrava tutto il contrario; come se l'uomo fosse onesto, malgrado qualcos'altro che stava soltanto in superficie. Pensò a un uomo buono con un'unica [[Innocent|innocente]] illusione; ma di nuovo i sintomi non erano gli stessi; c'era perfino una sorta di virile indifferenza; come se l'uomo non tenesse gran che alla sua illusione, ammesso che fosse un'illusione.
+
+«Signor Pringle,» disse bruscamente, come un avvocato che fa sobbalzare un testimone, «dov'è ora questo vostro libro?»
+
+Il sorriso riapparve sul volto barbuto che si era fatto [[Grave|serio]] durante il racconto. «L'ho lasciato fuori,» disse il signor Pringle. «Voglio dire nell'ufficio esterno. Era forse un rischio; ma il minore dei due.»
+
+«Che cosa intendete?» chiese [[The Professor|il Professore]]. «Perché non l'avete portato direttamente qui dentro?»
+
+«Perché,» rispose il missionario, «sapevo che, appena l'aveste visto, l'avreste aperto... prima di aver udito la storia. Ho pensato che forse ci avreste pensato due volte prima di aprirlo... dopo aver udito la storia.»
+
+Poi, dopo un [[Silence|silenzio]], aggiunse: «Là fuori non c'era nessuno tranne il vostro impiegato; e mi è parso un esemplare flemmatico e posato, immerso in calcoli d'affari.»
+
+Openshaw rise senza affettazione. «Oh, Babbage,» esclamò, «i vostri tomi [[Magic|magici]] sono al sicuro con lui, ve l'assicuro. Si chiama Berridge... ma io spesso lo chiamo Babbage; perché è esattamente identico a una [[Machine|Macchina]] Calcolatrice. Nessun essere umano, se lo si può chiamare essere umano, sarebbe meno propenso ad aprire i pacchi di carta marrone altrui. [[Well|Ebbene]], tanto vale [[Well|che]] andiamo a prenderlo ora; benché vi assicuri che rifletterò seriamente sul da farsi con esso. Anzi, ve lo dico francamente,» e fissò di nuovo l'uomo, «non sono affatto sicuro se dovremmo aprirlo qui e ora, oppure mandarlo a questo dottor Hankey.»
+
+I due erano usciti insieme dall'ufficio interno a quello esterno; e proprio mentre lo facevano, il signor Pringle diede un grido e si precipitò verso la scrivania dell'impiegato. Poiché la scrivania dell'impiegato era là; ma non l'impiegato. Sulla scrivania dell'impiegato giaceva un vecchio libro sbiadito in cuoio, strappato via dai suoi involti di carta marrone, e posato chiuso, ma come se fosse stato appena aperto. La scrivania dell'impiegato era addossata all'ampia [[Window|finestra]] che guardava sulla strada; e la [[Window|finestra]] era in frantumi, con un enorme buco frastagliato nel vetro; come se un [[Body|corpo]] umano vi fosse stato scagliato attraverso nel mondo esterno. Non v'era altra traccia del signor Berridge.
+
+I due uomini rimasti nell'ufficio se ne stavano immobili come statue; e poi fu [[The Professor|il Professore]] che lentamente tornò in vita. Aveva un'aria ancor più giudiziosa di quanta ne avesse mai avuta in vita sua, mentre lentamente si voltava e porgeva la mano al missionario.
+
+«Signor Pringle,» disse, «vi chiedo scusa. Vi chiedo scusa soltanto per i pensieri che ho avuto; e mezzi pensieri, per giunta. Ma nessuno potrebbe dirsi uomo di scienza e non affrontare un fatto come questo.»
+
+«Suppongo,» disse Pringle dubbioso, «che dovremmo fare qualche indagine. Potete telefonare a casa [[house|sua]] e scoprire se è tornato a [[Home|casa]]?»
+
+«Non so se abbia il telefono,» rispose Openshaw, piuttosto distrattamente; «abita da qualche parte dalle parti di Hampstead, credo. Ma suppongo che qualcuno verrà a informarsi qui, se i suoi amici o la sua famiglia ne sentiranno la mancanza.»
+
+«Potremmo fornire una descrizione,» chiese l'altro, «se la polizia la volesse?»
+
+«La polizia!» disse [[The Professor|il Professore]], riscuotendosi dalla sua fantasticheria. «Una descrizione... [[Well|Be'!]], mi sa che somigliava terribilmente a tutti gli altri, temo, tranne che per gli occhiali. Uno di quei tizi ben rasati. Ma la polizia... sentite un po', che dobbiamo fare di questa folle faccenda?»
+
+«So io che cosa dovrei fare,» disse fermamente il reverendo signor Pringle, «vado a portare questo libro dritto all'unico e originale dottor Hankey, e a chiedergli che diavolo significa tutto ciò. Abita non molto lontano da qui, e tornerò subito a dirvi che cosa dice.»
+
+«Oh, benissimo [[Well|allora]],» disse infine [[The Professor|il Professore]], sedendosi piuttosto spossato; forse sollevato, per il momento, di essersi liberato della responsabilità. Ma molto tempo dopo che i passi svelti e squillanti del piccolo missionario si furono spenti lungo la strada, [[The Professor|il Professore]] sedeva nella stessa posa, fissando il vuoto come un uomo in trance.
+
+Era ancora nella stessa poltrona e quasi nella stessa posizione, quando gli stessi passi svelti si udirono sul selciato là fuori e il missionario entrò, questa [[Time|volta]], come un'occhiata lo assicurò, a mani vuote.
+
+«Il dottor Hankey,» disse Pringle con gravità, «vuole tenere il libro per un'ora e riflettere sulla questione. Poi chiede che ci rechiamo entrambi da lui, e ci comunicherà la sua decisione. Ha espressamente desiderato, Professore, che voi mi accompagniate nella seconda visita.»
+
+Openshaw continuò a fissare in [[Silence|silenzio]]; poi disse, d'un tratto: «Chi diavolo è il dottor Hankey?»
+
+«Sembra quasi che vogliate dire che è il diavolo,» disse Pringle sorridendo, «e mi pare che qualcuno l'abbia pensato. Aveva una discreta reputazione nel vostro stesso campo; ma se la guadagnò per lo più in India, studiando la [[Magic|magia]] locale e via dicendo, quindi forse non è così [[Well|ben]] noto qui. È un diavoletto giallognolo e scarno con una gamba zoppa, e un carattere incerto; ma pare essersi messo a esercitare una comune e rispettabile professione da queste parti, e non so nulla di preciso a suo carico... a meno che non sia una colpa essere l'unica persona che possa forse sapere qualcosa di tutta questa folle vicenda.»
+
+Il professor Openshaw si [[Rose|alzò]] pesantemente e andò al telefono; chiamò [[Father Brown]], mutando l'appuntamento del pranzo in una cena, per tenersi libero per la spedizione alla casa [[house|dimora]] del medico anglo-indiano; dopodiché si sedette di nuovo, accese un sigaro e sprofondò ancora una volta nei suoi insondabili pensieri.
+
+[[Father Brown]] si recò al ristorante fissato per la cena, e batté i tacchi per un po' di [[Time|tempo]] in un vestibolo pieno di specchi e di palme in vaso; era stato informato dell'impegno pomeridiano di Openshaw, e, mentre la sera si chiudeva buia e tempestosa intorno ai vetri e alle piante verdi, indovinò che quello aveva prodotto qualcosa di inatteso e di indebitamente prolungato. Si domandò perfino per un istante se [[The Professor|il Professore]] si sarebbe presentato affatto; ma quando [[The Professor|il Professore]] alla fine arrivò, fu chiaro che le sue congetture più generali erano state confermate. Poiché era un Professore dagli occhi assai stravolti e perfino dai capelli assai scomposti quello che alla fine tornò in vettura con il signor Pringle dalla spedizione al Nord di [[London|Londra]], dove i sobborghi sono ancora orlati di brughiere desolate e di lembi di terreno comune, apparsi più cupi sotto quel tramonto piuttosto temporalesco. Nondimeno, pareva che avessero trovato la casa [[house|dimora]], che sorgeva un poco in disparte, benché a portata di voce dalle altre case; avevano verificato la targa d'ottone debitamente incisa: «J. I. Hankey, MD, MRCS». Solo che non trovarono J. I. Hankey, MD, MRCS. Trovarono soltanto ciò che un sussurro da [[nightmare|incubo]] li aveva già inconsciamente preparati a trovare: un salottino qualunque con il maledetto volume che giaceva sul tavolo, come se fosse stato appena letto; e oltre, una porta sul retro spalancata di forza e una debole scia di orme che risalivano per un breve tratto un sentiero di [[Garden|giardino]] così ripido che pareva impossibile che uno zoppo l'avesse potuto risalire con tanta leggerezza. Ma era uno zoppo ad aver corso; poiché in quei pochi passi c'era l'impronta deforme e ineguale di una sorta di stivale ortopedico; poi due impronte di quello stivale [[Alone|soltanto]] (come se la creatura avesse saltellato) e poi nulla. Non v'era null'altro da apprendere dal dottor J. I. Hankey, MD, MRCS, se non che aveva preso la sua decisione. Aveva letto l'oracolo e ricevuto la condanna.
+
+Quando i due entrarono nell'atrio sotto le palme, Pringle posò d'un tratto il libro su un tavolino, come se gli bruciasse le dita. Il prete lo guardò con curiosità; sul davanti non c'erano che rozze lettere con un distico:
+
+Chi guardò dentro questo libro / il Terrore Volante rapì;
+
+e sotto, come scoprì in seguito, avvertenze simili in greco, latino e francese. Gli altri due si erano voltati con un naturale impulso verso i liquori, dopo il loro sfinimento e sconcerto; e Openshaw aveva chiamato il cameriere, che portò dei cocktail su un vassoio.
+
+«Cenerete con noi, [[Hope|spero]],» disse [[The Professor|il Professore]] al missionario; ma il signor Pringle scosse amabilmente il capo.
+
+«Se vorrete perdonarmi,» disse, «me ne vado a fare i conti con questo libro e questa faccenda per conto mio, da qualche parte. Non potrei usare il vostro ufficio per un'ora circa?»
+
+«Suppongo... temo che sia chiuso a chiave,» disse Openshaw con una certa sorpresa.
+
+«Dimenticate che c'è un buco nella [[Window|finestra]].» Il reverendo Luke Pringle fece il più largo di tutti i larghi sorrisi e svanì nel buio là fuori.
+
+«Un tipo piuttosto strano, quello, dopo tutto,» disse [[The Professor|il Professore]], accigliandosi.
+
+Fu piuttosto sorpreso di trovare [[Father Brown]] a chiacchierare con il cameriere che aveva portato i cocktail, a quanto pare degli affari più privati del cameriere; poiché si faceva menzione di un bambino ormai fuori pericolo. Commentò il fatto con una certa sorpresa, chiedendosi come il prete fosse arrivato a conoscere l'uomo; ma questi si limitò a dire: «Oh, ceno qui ogni due o tre mesi, e di tanto in tanto gli ho parlato.»
+
+[[The Professor|Il Professore]], che lì cenava lui stesso circa cinque volte alla settimana, si rese conto di non aver mai pensato di parlare con l'uomo; ma i suoi pensieri furono interrotti da uno squillo stridulo e da una chiamata al telefono. La voce al telefono disse che era Pringle, era una voce piuttosto smorzata, ma poteva [[Well|ben]] essere smorzata in mezzo a tutti quei cespugli di barba e favoriti. Il suo messaggio bastò a stabilirne l'[[Identity|identità]].
+
+«Professore,» disse la voce, «non lo reggo più. Vado a guardare io stesso. Parlo dal vostro ufficio e il libro è davanti a me. Se mi succede qualcosa, questo è per dirvi addio. No... è inutile cercare di fermarmi. Non fareste comunque in [[Time|tempo]]. Sto aprendo il libro adesso. Io...»
+
+Openshaw credette di udire qualcosa come una sorta di schianto vibrante o tremolante eppure quasi impercettibile; poi gridò il nome di Pringle ancora e ancora; ma non udì altro. Riappese il ricevitore, e, restituito a una superba calma accademica, piuttosto simile alla calma della [[Despair|disperazione]], tornò indietro e riprese quietamente il suo posto a tavola. Poi, con la stessa freddezza con cui avrebbe descritto il fallimento di qualche piccolo sciocco trucco a una seduta spiritica, raccontò al prete ogni particolare di questo mostruoso mistero.
+
+«Cinque uomini sono ormai svaniti in questo modo impossibile,» disse. «Ognuno è straordinario; eppure l'unico caso che proprio non riesco a mandar giù è il mio impiegato, Berridge. Proprio perché era la creatura più tranquilla, è il caso più bizzarro.»
+
+«Sì,» rispose [[Father Brown]], «è stata una cosa bizzarra da parte di Berridge, in ogni caso. Era terribilmente coscienzioso. Ed era anche così maledettamente attento a tenere tutti gli affari dell'ufficio separati da qualsiasi suo svago personale. Ma se quasi nessuno sapeva che a [[Home|casa]] era un vero e proprio umorista, e...»
+
+«Berridge!» esclamò [[The Professor|il Professore]]. «Che diamine state dicendo? Lo conoscevate?»
+
+«Oh no,» disse [[Father Brown]] con noncuranza, «solo come, per dirla con voi, conosco il cameriere. Ho spesso dovuto aspettare nel vostro ufficio, finché non spuntavate; e naturalmente passavo il [[Time|tempo]] a chiacchierare con il povero Berridge. Era un vero tipo. Ricordo che una volta disse che gli sarebbe piaciuto collezionare cose senza valore, come i collezionisti fanno con le cose sciocche che reputano di valore. Conoscete la vecchia storia della donna che collezionava cose senza valore.»
+
+«Non sono sicuro di capire di che state parlando,» disse Openshaw. «Ma anche se il mio impiegato era eccentrico (e non ho mai conosciuto un uomo che avrei giudicato meno tale), ciò non spiegherebbe che cosa gli è successo; e di certo non spiegherebbe gli altri.»
+
+«Quali altri?» chiese il prete.
+
+[[The Professor|Il Professore]] lo fissò e parlò distintamente, come a un [[Child|bambino]]: «Mio caro [[Father Brown]], Cinque Uomini sono scomparsi.»
+
+«Mio caro professor Openshaw, nessun uomo è scomparso.»
+
+[[Father Brown]] ricambiò lo sguardo dell'ospite con pari fermezza e parlò con pari distinzione. Nondimeno, [[The Professor|il Professore]] esigette che le parole fossero ripetute, ed esse furono ripetute con pari distinzione. «Dico che nessun uomo è scomparso.»
+
+Dopo un attimo di [[Silence|silenzio]], aggiunse: «Suppongo che la cosa più difficile sia convincere qualcuno che 0+0+0=0. Gli uomini credono alle cose più strane se sono in serie; ecco perché [[Macbeth]] credette alle tre parole delle tre streghe; benché la prima fosse qualcosa che sapeva già da sé; e l'ultima qualcosa che poteva realizzare soltanto da sé. Ma nel vostro caso il termine di mezzo è il più debole di tutti.»
+
+«Che cosa intendete?»
+
+«Voi non avete visto nessuno svanire. Non avete visto l'uomo svanire dal piroscafo. Non avete visto l'uomo svanire dalla tenda. Tutto ciò poggia sulla parola del signor Pringle, che non discuterò per il momento. Ma ammetterete questo; voi non avreste mai creduto alla sua parola, se non l'aveste vista confermata dalla scomparsa del vostro impiegato; proprio come [[Macbeth]] non avrebbe mai creduto che sarebbe stato [[King|re]], se non fosse stato confermato nel credere che sarebbe stato signore di Cawdor.»
+
+«Può darsi che sia vero,» disse [[The Professor|il Professore]], annuendo lentamente. «Ma quando fu confermato, seppi che era la [[Truth|verità]]. Voi dite che io stesso non vidi nulla. Ma vidi; vidi il mio stesso impiegato scomparire. Berridge scomparve davvero.»
+
+«Berridge non scomparve,» disse [[Father Brown]]. «Al contrario.»
+
+«Che diavolo intendete con "al contrario"?»
+
+«Intendo,» disse [[Father Brown]], «che egli non scomparve affatto. Egli apparve.»
+
+Openshaw fissò l'amico dall'altra parte del tavolo, ma gli occhi gli si erano già alterati in fronte, come facevano quando si concentravano su una nuova presentazione di un problema. Il prete proseguì: «Egli apparve nel vostro studio, travestito con una folta barba rossa e abbottonato in un goffo mantello, e si annunciò come il reverendo Luke Pringle. E voi non avevate mai guardato il vostro stesso impiegato abbastanza da riconoscerlo di nuovo, quand'era in un travestimento così alla buona.»
+
+«Ma di certo,» cominciò [[The Professor|il Professore]].
+
+«Sapreste descriverlo alla polizia?» chiese [[Father Brown]]. «Voi no. Sapevate probabilmente che era ben rasato e portava occhiali colorati; e il solo togliersi quegli occhiali era un travestimento migliore di qualunque altra cosa indossata. Non avevate mai visto i suoi occhi più di quanto ne aveste vista l'[[Soul|anima]]; allegri occhi ridenti. Aveva piazzato il suo assurdo libro e tutta la scenografia; poi ruppe con calma la [[Window|finestra]], si mise barba e mantello ed entrò nel vostro studio; sapendo che voi non l'avevate mai guardato in vita vostra.»
+
+«Ma perché avrebbe dovuto giocarmi uno scherzo così insensato?» chiese Openshaw.
+
+«Ma perché non l'avevate mai guardato in vita vostra,» disse Father Brown; e la sua mano si curvò e si strinse leggermente, come se avesse potuto battere il pugno sul tavolo, se fosse stato incline a gesticolare. «Lo chiamavate la [[Machine|Macchina]] Calcolatrice, perché era tutto ciò per cui l'avevate mai usato. Non avevate mai scoperto nemmeno quel che un estraneo, entrato per caso nel vostro ufficio, avrebbe potuto scoprire in cinque minuti di chiacchiere: che era un personaggio; che era pieno di stramberie; che aveva ogni sorta di opinioni su di voi e sulle vostre teorie e sulla vostra reputazione di uomo capace di "smascherare" la gente. Non capite la sua smania di dimostrare che non sapevate smascherare il vostro stesso impiegato? Ha idee balzane di ogni genere. Sul collezionare cose inutili, per esempio. Non conoscete la storia della donna che comprò le due cose più inutili: una vecchia targa d'ottone da medico e una gamba di legno? Con quelle il vostro ingegnoso impiegato creò il personaggio del notevole dottor Hankey; con la stessa facilità con cui creò il fantasioso capitano Wales. Piazzandoli in casa [[house|propria]]...»
+
+«Volete dire che quel posto che abbiamo visitato oltre Hampstead era la casa [[house|dimora]] di Berridge?» chiese Openshaw.
+
+«Conoscevate la sua casa [[house|dimora]]... o anche solo il suo indirizzo?» ribatté il prete. «Sentite, non pensiate che io stia parlando in modo irrispettoso di voi o del vostro lavoro. Voi siete un grande servitore della [[Truth|verità]] e sapete che non potrei mai mancarle di rispetto. Avete smascherato un mucchio di bugiardi, quando ci mettevate la testa. Ma non guardate soltanto ai bugiardi. Ogni tanto, guardate anche agli uomini onesti... come il cameriere.»
+
+«Dov'è ora Berridge?» chiese [[The Professor|il Professore]], dopo un lungo [[Silence|silenzio]].
+
+«Non ho il minimo [[Doubt|dubbio]],» disse [[Father Brown]], «che sia tornato nel vostro ufficio. Anzi, vi rientrò nel preciso istante in cui il reverendo Luke Pringle lesse il tremendo volume e si dissolse nel nulla.»
+
+Vi fu un altro lungo [[Silence|silenzio]] e poi il professor Openshaw rise; con la risata di un grande uomo abbastanza grande da saper sembrare piccolo. Poi disse bruscamente:
+
+«Suppongo di meritarmelo; per non aver notato i più prossimi aiutanti che ho. Ma dovete ammettere che l'accumularsi degli episodi era piuttosto formidabile. Non avete mai provato, sia pure per un istante, un timore reverenziale davanti al tremendo volume?»
+
+«Oh, quello,» disse [[Father Brown]]. «L'ho aperto appena l'ho visto lì posato. Sono tutte pagine bianche. Vedete, io non sono superstizioso.»

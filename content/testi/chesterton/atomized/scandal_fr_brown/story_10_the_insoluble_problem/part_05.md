@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/scandal-fr-brown-(chesterton)">scandal Fr Brown</a> › <a href="/testi/chesterton/atomized/scandal_fr_brown/story_10_the_insoluble_problem">Story 10 The Insoluble Problem</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/scandal_fr_brown/story_10_the_insoluble_problem/part_04">‹ part 04</a><a class="ex-next" href="/testi/chesterton/atomized/scandal_fr_brown/story_10_the_insoluble_problem/part_06">part 06 ›</a></div>
@@ -133,3 +135,64 @@ strength of God, that it rages with that awful energy even when it
 breaks loose from God. When the [[Garden]] becomes a jungle, but still a
 glorious jungle; when the second fermentation turns the wine of Cana
 into the vinegar of Calvary. Do you think I don't know all that?'
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/scandal-fr-brown-(chesterton)">scandal Fr Brown</a> › <a href="/testi/chesterton/atomized/scandal_fr_brown/story_10_the_insoluble_problem">Story 10 The Insoluble Problem</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/scandal_fr_brown/story_10_the_insoluble_problem/part_04">‹ part 04</a><a class="ex-next" href="/testi/chesterton/atomized/scandal_fr_brown/story_10_the_insoluble_problem/part_06">part 06 ›</a></div>
+</nav>
+
+Era esitante e quasi malfermo mentre si avvicinava alla donna; ma parlò con la sua consueta compostezza. La fissava con grande fermezza, mentre le diceva con premura che ella non doveva lasciarsi prendere dal morboso a causa dei meri accessori accidentali della [[Tragedy|tragedia]], con tutta la loro folle bruttezza. «I quadri nella stanza di suo nonno erano più veri a lui di quel brutto quadro che abbiamo visto,» disse gravemente. «Qualcosa mi dice che egli era un buon uomo; e non importa che cosa i suoi assassini abbiano fatto del suo [[Body|corpo]].»
+
+«Oh, sono stufa dei suoi quadri sacri e delle sue statue!» disse ella, voltando via il capo. «Perché non si difendono, se sono ciò che voi dite che sono? Ma i rivoltosi possono staccare la testa alla Beata Vergine e a loro non accade nulla. Oh, a che serve? Non potete biasimarci, non osate biasimarci, se abbiamo scoperto che l'Uomo è più forte di Dio.»
+
+«Certamente,» disse [[Father Brown]] con grande dolcezza, «non è generoso fare persino della pazienza di Dio verso di noi un capo d'accusa contro di Lui.»
+
+«Dio può essere paziente e l'Uomo impaziente,» rispose ella, «e supponete che a noi piaccia di più l'impazienza. Voi lo chiamate sacrilegio; ma non potete fermarlo.»
+
+[[Father Brown]] fece un curioso piccolo sussulto. «Sacrilegio!» disse; e d'improvviso si voltò di nuovo verso l'uscio con una nuova aria svelta di decisione. Nello stesso momento [[Flambeau]] apparve sulla soglia, pallido d'eccitazione, con un cartoccio di carta in mano. [[Father Brown]] aveva già aperto la bocca per parlare, ma il suo impetuoso amico parlò prima di lui.
+
+«Sono finalmente sulla pista!» gridò [[Flambeau]]. «Queste pillole sembrano uguali, ma sono in realtà diverse. E sai che, proprio nel momento in cui le ho scoperte, quel bruto di giardiniere con un occhio solo cacciò la sua faccia bianca dentro la stanza; e portava una [[Pistol|pistola]] da [[Horse|arcione]]. Gliela feci saltare di mano e lo scaraventai giù per le scale, ma comincio a capire ogni cosa. Se resto qui un'altra ora o due, porterò a termine il mio lavoro.»
+
+«Allora non lo porterai a termine,» disse il prete, con una risonanza nella voce assai rara in lui davvero. «Non resteremo qui un'altra ora. Non resteremo qui un altro minuto. Dobbiamo lasciare questo luogo all'istante!»
+
+«Cosa!» gridò lo sbalordito [[Flambeau]]. «Proprio ora che ci avviciniamo alla [[Truth|verità]]! Ma se puoi ben dire che ci avviciniamo alla [[Truth|verità]] proprio dal fatto che hanno paura di noi.»
+
+[[Father Brown]] lo guardò con volto di pietra e imperscrutabile, e disse: «Non hanno paura di noi quando siamo qui. Avranno paura di noi soltanto quando non saremo qui.»
+
+Entrambi si erano accorti che la figura piuttosto agitata del dottor Flood aleggiava nella foschia sinistra; ora essa si precipitò in avanti con i gesti più sfrenati.
+
+«Fermatevi! Ascoltate!» gridò l'agitato dottore. «Ho scoperto la [[Truth|verità]]!»
+
+«Allora potrete spiegarla alla vostra polizia,» disse [[Father Brown]], brevemente. «Dovrebbe arrivare presto. Ma noi dobbiamo andare.»
+
+Il dottore parve gettato in un vortice di emozioni, per riemergere infine alla superficie con un grido disperato. Spalancò le braccia come una [[Cross|croce]], sbarrando loro il passo.
+
+«E sia!» gridò. «Non v'ingannerò ora, dicendo di aver scoperto la [[Truth|verità]]. Confesserò soltanto la [[Truth|verità]].»
+
+«Allora potrete confessarla al vostro prete,» disse [[Father Brown]], e s'incamminò a grandi passi verso il cancello del [[Garden|giardino]], seguito dal suo amico che lo fissava attonito. Prima che raggiungesse il cancello, un'altra figura gli era balzata di traverso come il [[Wind|vento]]; ed era Dunn il giardiniere che gli gridava dietro qualche inintelligibile scherno agli investigatori che scappavano dal proprio lavoro. Allora il prete si chinò appena in [[Time|tempo]] per schivare un colpo della [[Pistol|pistola]] da [[Horse|arcione]], brandita come una clava. Ma Dunn non fu appena in [[Time|tempo]] per schivare un colpo del pugno di [[Flambeau]], che era come la clava di Ercole. I due lasciarono il signor Dunn steso lungo disteso dietro di loro sul sentiero, e, passando fuori dal cancello, uscirono e salirono nella loro automobile in [[Silence|silenzio]]. [[Flambeau]] fece soltanto una breve domanda e [[Father Brown]] rispose soltanto: «Casterbury.»
+
+Alla fine, dopo un lungo [[Silence|silenzio]], il prete osservò: «Potrei quasi credere che la [[Storm|tempesta]] appartenesse soltanto a quel [[Garden|giardino]], e venisse da una [[Storm|tempesta]] nell'[[Soul|anima]].»
+
+«Amico mio,» disse [[Flambeau]]. «Ti conosco da lungo [[Time|tempo]], e quando mostri certi segni di certezza, seguo la tua guida. Ma [[Hope|spero]] che tu non stia per dirmi che mi hai portato via da quel lavoro affascinante perché non ti piaceva l'atmosfera.»
+
+«[[Well|Ecco]], era certamente un'atmosfera terribile,» rispose [[Father Brown]], con calma. «Spaventosa e appassionata e opprimente. E la cosa più spaventosa di essa era questa: che non vi era in essa alcun odio.»
+
+«Qualcuno,» suggerì [[Flambeau]], «pare avesse una lieve antipatia per il nonno.»
+
+«Nessuno aveva alcuna antipatia per nessuno,» disse [[Father Brown]] con un gemito. «Questa era la cosa spaventosa in quelle tenebre. Era [[Love|amore]].»
+
+«Curioso modo di esprimere l'[[Love|amore]]... strangolare qualcuno e trafiggerlo con una [[Sword|spada]],» osservò l'altro.
+
+«Era [[Love|amore]],» ripeté il prete, «e riempiva la [[house|casa]] di terrore.»
+
+«Non dirmi,» protestò [[Flambeau]], «che quella bella donna è [[Love|innamorata]] di quel ragno con gli occhiali.»
+
+«No,» disse [[Father Brown]] e gemette di nuovo. «È [[Love|innamorata]] di suo marito. È spaventoso.»
+
+«È uno stato di cose che ti ho spesso sentito raccomandare,» replicò [[Flambeau]]. «Non puoi chiamarlo [[Love|amore]] fuorilegge.»
+
+«Non fuorilegge in quel senso,» rispose [[Father Brown]]; poi si voltò di scatto sul gomito e parlò con nuovo calore: «Credi che io non sappia che l'[[Love|amore]] di un uomo e di una donna fu il primo comandamento di Dio ed è glorioso per sempre? Sei uno di quegli idioti che credono che noi non ammiriamo l'[[Love|amore]] e il [[Marriage|matrimonio]]? Ho forse bisogno che mi si parli del [[Garden|Giardino]] dell'Eden o del vino di Cana? È proprio perché la forza che era in quella cosa era la forza di Dio, che essa infuria con quell'energia tremenda persino quando si scioglie da Dio. Quando il [[Garden|Giardino]] diventa una giungla, ma pur sempre una giungla gloriosa; quando la seconda fermentazione muta il vino di Cana nell'aceto del Calvario. Credi che io non sappia tutto questo?»

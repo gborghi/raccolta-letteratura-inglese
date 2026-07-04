@@ -134,7 +134,7 @@ we might very [[Well|well]] call the second sort of mythology the [[nightmare]].
 
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/works/everlasting-man-(chesterton)">The Everlasting Man</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/everlasting-man-(chesterton)">The Everlasting Man</a> › <a href="/testi/chesterton/atomized/everlasting_man/chapter_02">Chapter 02</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/everlasting_man/chapter_02/part_31">‹ part 31</a><a class="ex-next" href="/testi/chesterton/atomized/everlasting_man/chapter_02/part_33">part 33 ›</a></div>
 </nav>
 

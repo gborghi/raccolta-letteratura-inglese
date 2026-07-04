@@ -139,7 +139,7 @@ and hell are a woman who is not dignified and a man who is.
 
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/works/allthingsconsidered-8-(chesterton)">AllThingsConsidered 8</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/allthingsconsidered-8-(chesterton)">AllThingsConsidered 8</a> › <a href="/testi/chesterton/atomized/allthingsconsidered_8/story_02_cockneys_cockneys_and_their_jokes">Story 02 cockneys COCKNEYS AND THEIR JOKES</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/allthingsconsidered_8/story_02_cockneys_cockneys_and_their_jokes/part_01">‹ part 01</a><a class="ex-next" href="/testi/chesterton/atomized/allthingsconsidered_8/story_05_the_vote_and_the_house_house/part_01">part 01 ›</a></div>
 </nav>
 

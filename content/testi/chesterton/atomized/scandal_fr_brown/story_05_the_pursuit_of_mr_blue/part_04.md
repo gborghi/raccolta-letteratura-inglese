@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/scandal-fr-brown-(chesterton)">scandal Fr Brown</a> › <a href="/testi/chesterton/atomized/scandal_fr_brown/story_05_the_pursuit_of_mr_blue">Story 05 The Pursuit of Mr Blue</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/scandal_fr_brown/story_05_the_pursuit_of_mr_blue/part_03">‹ part 03</a><a class="ex-next" href="/testi/chesterton/atomized/scandal_fr_brown/story_05_the_pursuit_of_mr_blue/part_05">part 05 ›</a></div>
@@ -138,3 +140,64 @@ done it; you might have done it; the Mayor or the muffin - man might
 have done it. The only person on this earth I can think of, who probably
 would not have done it, is the private inquiry agent whom Bruce had just
 engaged at five pounds a week, and who hadn't yet had any of his money.'
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/scandal-fr-brown-(chesterton)">scandal Fr Brown</a> › <a href="/testi/chesterton/atomized/scandal_fr_brown/story_05_the_pursuit_of_mr_blue">Story 05 The Pursuit of Mr Blue</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/scandal_fr_brown/story_05_the_pursuit_of_mr_blue/part_03">‹ part 03</a><a class="ex-next" href="/testi/chesterton/atomized/scandal_fr_brown/story_05_the_pursuit_of_mr_blue/part_05">part 05 ›</a></div>
+</nav>
+
+E si voltò, arrancando nella sabbia verso il luogo dove l'eccentrico predicatore aveva già preso posto nel suo nido marino; e appariva nel verde crepuscolo piuttosto come un enorme polipo o una medusa urticante che trascinasse i suoi velenosi filamenti nel mare fosforescente.
+
+Intanto il prete osservava serenamente il sereno avvicinarsi del segretario; cospicuo anche da lontano, in quella folla popolare, per la clericale precisione e sobrietà del suo cilindro e della sua marsina. Senza sentirsi disposto a prender parte ad alcuna faida tra il segretario e l'agente investigativo, [[Father Brown]] provava un debole sentimento di irrazionale simpatia per i pregiudizi di quest'ultimo. Il signor Anthony Taylor, il segretario, era un giovane di aspetto estremamente presentabile, nel volto [[Well|non meno]] che nell'abito; e il volto era fermo e intellettuale [[Well|oltre che]] semplicemente di bell'aspetto. Era pallido, con capelli scuri che gli scendevano ai lati del capo, come a indicare possibili basette; teneva le labbra serrate più strettamente della maggior parte della gente. L'unica cosa che la fantasia di Padre Brown potesse dire a propria giustificazione suonava più strana di quanto in realtà apparisse. Aveva l'impressione che quell'uomo parlasse con le narici. Comunque, la forte compressione della bocca faceva risaltare qualcosa di anormalmente sensibile e flessibile in quei movimenti ai lati del naso, cosicché sembrava comunicare e condurre la vita fiutando e annusando, a testa alta, come fa un cane. In qualche modo si accordava con gli altri tratti il fatto che, quando parlava davvero, lo facesse con una improvvisa rapidità crepitante come una mitragliatrice, che suonava quasi brutta in una figura tanto liscia e levigata.
+
+Per una volta fu lui ad aprire la conversazione, dicendo: «Nessun corpo trascinato a riva, immagino.»
+
+«Nessuno ne è stato segnalato, certamente» disse [[Father Brown]].
+
+«Nessun gigantesco [[Body|corpo]] dell'assassino con la sciarpa di lana» disse il signor Taylor.
+
+«No» disse [[Father Brown]].
+
+La bocca del signor Taylor non si mosse più per il momento; ma le sue narici parlarono per lui con un disprezzo così rapido e fremente, che avrebbero quasi potuto dirsi loquaci.
+
+Quando parlò di nuovo, dopo alcuni cortesi luoghi comuni del prete, fu per dire seccamente: «Ecco che arriva l'ispettore; suppongo che abbiano setacciato tutta l'Inghilterra in cerca della sciarpa.»
+
+L'ispettore Grinstead, un uomo dal volto abbronzato e dalla barba grigia a punta, si rivolse a [[Father Brown]] con un po' più di rispetto di quanto avesse fatto il segretario.
+
+«Ho pensato che le facesse piacere sapere, signore» disse, «che non c'è assolutamente traccia dell'uomo descritto come fuggito dal pontile.»
+
+«O piuttosto non descritto come fuggito dal pontile» disse Taylor. «Gli inservienti del pontile, gli unici che avrebbero potuto descriverlo, non hanno mai visto nessuno da descrivere.»
+
+«[[Well|Ebbene]]» disse l'ispettore, «abbiamo telefonato a tutte le stazioni e sorvegliato tutte le strade, e gli sarà quasi impossibile fuggire dall'Inghilterra. A me pare proprio che non possa essersene andato per quella via. Non sembra essere da nessuna parte.»
+
+«Non è mai stato da nessuna parte» disse il segretario, con una voce brusca e stridente, che risuonò come uno sparo su quella riva deserta.
+
+L'ispettore parve smarrito; ma una luce sorse a poco a poco sul volto del prete, che disse infine con quasi ostentata noncuranza:
+
+«Vuol dire che l'uomo era un mito? O forse una menzogna?»
+
+«Ah» disse il segretario, inspirando attraverso le sue narici altezzose, «finalmente ci ha pensato.»
+
+«Ci ho pensato fin da principio» disse [[Father Brown]]. «È la prima cosa a cui chiunque penserebbe, non è vero, udendo da uno sconosciuto una storia non corroborata su uno strano assassino su un pontile deserto. In parole povere, lei intende che il piccolo Muggleton non ha mai udito nessuno assassinare il milionario. Forse intende che il piccolo Muggleton lo ha assassinato lui stesso.»
+
+«[[Well|Ebbene]]» disse il segretario, «Muggleton ha l'aria di un tipo squallido e alla deriva, per me. Non c'è altra storia che la sua su ciò che è accaduto sul pontile, e la sua storia consiste in un gigante che è svanito; una vera fiaba. Non è un racconto molto credibile, nemmeno per come lo narra lui. A suo stesso dire, ha mandato all'aria il suo compito e ha lasciato uccidere il suo protettore a pochi metri di distanza. È un bel [[Fool|sciocco]] fallito, per sua stessa confessione.»
+
+«Sì» disse [[Father Brown]]. «Ho una certa simpatia per le persone che sono sciocche e fallite per loro stessa confessione.»
+
+«Non so cosa intenda» ribatté seccamente l'altro.
+
+«Forse» disse [[Father Brown]], malinconico, «è perché tanta gente è sciocca e fallita senza confessione alcuna.»
+
+Poi, dopo una pausa, proseguì: «Ma anche se è uno [[Fool|sciocco]] e un fallito, ciò non prova che sia un bugiardo e un assassino. E lei ha dimenticato che c'è un elemento di prova esterna che davvero corrobora la [[history|storia]]. Intendo la lettera del milionario, che racconta tutta la vicenda di suo cugino e della sua vendetta. A meno che lei non riesca a provare che il documento stesso è un falso, deve ammettere che vi era una qualche probabilità che Bruce fosse inseguito da qualcuno che aveva un movente reale. O piuttosto, dovrei dire, l'unico movente effettivamente ammesso e registrato.»
+
+«Non sono del tutto sicuro di capirla» disse l'ispettore, «riguardo al movente.»
+
+«Mio caro amico» disse [[Father Brown]], per la prima [[Time|volta]] spinto dall'impazienza alla familiarità, «tutti hanno un movente, in un certo senso. Considerato il modo in cui Bruce ha fatto i suoi soldi, considerato il modo in cui la maggior parte dei milionari fa i suoi soldi, quasi chiunque al mondo avrebbe potuto compiere una cosa così perfettamente naturale come gettarlo in mare. In molti, si potrebbe quasi immaginare, sarebbe quasi automatico. A quasi tutti dev'essere venuto in mente in un [[Time|momento]] o nell'altro. Il signor Taylor potrebbe averlo fatto.»
+
+«Cosa dice?» ribatté seccamente il signor Taylor, e le sue narici si gonfiarono visibilmente.
+
+«Potrei averlo fatto io» proseguì [[Father Brown]], «nisi me constringeret ecclesiae auctoritas. Chiunque, se non fosse per l'unica vera [[morality|morale]], potrebbe essere tentato di accettare una soluzione sociale così ovvia, così semplice. Potrei averlo fatto io; potrebbe averlo fatto lei; potrebbe averlo fatto il sindaco o il venditore di focacce. L'unica persona su questa terra a cui io riesca a pensare, che probabilmente non lo avrebbe fatto, è l'agente investigativo privato che Bruce aveva appena ingaggiato a cinque sterline la settimana, e che non aveva ancora ricevuto un soldo del suo denaro.»

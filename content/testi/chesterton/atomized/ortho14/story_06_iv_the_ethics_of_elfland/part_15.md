@@ -132,7 +132,7 @@ The shape of [[Christianity]] grew a queerer shape every instant.
 
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/works/ortho14-(chesterton)">Orthodoxy</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/ortho14-(chesterton)">Orthodoxy</a> › <a href="/testi/chesterton/atomized/ortho14/story_06_iv_the_ethics_of_elfland">Story 06 Iv The Ethics Of Elfland</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/ortho14/story_06_iv_the_ethics_of_elfland/part_14">‹ part 14</a><a class="ex-next" href="/testi/chesterton/atomized/ortho14/story_06_iv_the_ethics_of_elfland/part_16">part 16 ›</a></div>
 </nav>
 

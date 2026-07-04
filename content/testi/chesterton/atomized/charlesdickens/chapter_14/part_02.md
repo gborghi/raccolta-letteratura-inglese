@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/charlesdickens-(chesterton)">CharlesDickens</a> › <a href="/testi/chesterton/atomized/charlesdickens/chapter_14">Chapter 14</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/charlesdickens/chapter_14/part_01">‹ part 01</a><a class="ex-next" href="/testi/chesterton/atomized/charlesdickens/chapter_14/part_03">part 03 ›</a></div>
@@ -160,3 +162,159 @@ the existence of God; what it does deny is the existence of man.
 And all the [[Despair|despair]] about the poor, and the cold and repugnant
 pity for them, has been largely due to the vague sense that they
 have literally relapsed into the state of the lower [[Animals|animals]].
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/charlesdickens-(chesterton)">CharlesDickens</a> › <a href="/testi/chesterton/atomized/charlesdickens/chapter_14">Chapter 14</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/charlesdickens/chapter_14/part_01">‹ part 01</a><a class="ex-next" href="/testi/chesterton/atomized/charlesdickens/chapter_14/part_03">part 03 ›</a></div>
+</nav>
+
+Questo è il vero volgare ottimismo di Dickens: esiste davvero; e l'ho
+deliberatamente messo per primo. Ammettiamo che la mente di Dickens fosse fin
+troppo colma di immagini di soddisfazione, di agio e di riposo.
+Ammettiamo che pensasse principalmente ai piaceri delle
+classi oppresse; ammettiamo che non gli costasse quasi alcuno spasimo
+artistico raffigurare gli esseri umani assai più felici di quanto siano.
+Ammettiamo tutto questo, e resta un fatto curioso.
+
+Poiché fu proprio questo Dickens troppo facilmente appagato, quest'uomo con cuscini
+alle spalle e (talvolta pare) bambagia nelle orecchie;
+fu proprio questo felice sognatore, questo volgare ottimista che [[Alone|solo]]
+fra gli scrittori moderni davvero distrusse alcuni dei torti
+che odiava e attuò alcune delle riforme che desiderava.
+Dickens contribuì davvero ad abbattere le prigioni per debitori; e se fu
+troppo ottimista, fu comunque abbastanza distruttore.
+Dickens cacciò davvero Squeers dal suo covo nello Yorkshire;
+e se Dickens era troppo appagato, lo era più di quanto lo fosse Squeers.
+Dickens lasciò davvero il suo segno sul parrocchialismo, sulla cura degli infermi,
+sui funerali, sulle esecuzioni pubbliche, sugli ospizi dei poveri, sulla [[Court|Corte]]
+di Cancelleria. Queste cose furono mutate; sono diverse.
+Può darsi che tali riforme non siano rimedi adeguati;
+ma questa è tutt'altra questione. I sociologi futuri
+potranno giudicare queste vecchie riforme radicali assai anguste o accidentali.
+Ma quali che fossero, i vecchi radicali le portarono a compimento;
+e i nuovi sociologi non riescono a portare a compimento nulla.
+E nel loro pratico compimento Dickens ebbe una parte solida e del tutto
+dimostrabile; questa è la cosa evidente che qui ci riguarda.
+Se Dickens era un ottimista, era un tipo di ottimista straordinariamente attivo
+e utile. Se Dickens era un sentimentale, era
+un sentimentale assai pratico.
+
+E la ragione di ciò è una che affonda in profondità nella [[Reform|riforma]] sociale di Dickens,
+e, come ogni altra cosa reale e desiderabile, implica una specie
+di contraddizione mistica. Se vogliamo salvare l'oppresso, dobbiamo
+avere in noi due emozioni apparentemente antagoniste nello stesso [[Time|tempo]].
+Dobbiamo pensare l'uomo oppresso intensamente miserabile, e nello stesso [[Time|tempo]]
+intensamente attraente e importante. Dobbiamo insistere con violenza sulla
+sua degradazione; dobbiamo insistere con la stessa violenza sulla sua dignità.
+Poiché se allentiamo di un pollice la prima asserzione, gli uomini diranno che egli non
+ha bisogno di essere salvato. E se allentiamo di un pollice l'altra asserzione,
+gli uomini diranno che non vale la pena di salvarlo. Gli ottimisti diranno che la [[Reform|riforma]]
+è inutile. I pessimisti diranno che la [[Reform|riforma]] è senza speranza.
+Dobbiamo applicare entrambe simultaneamente allo stesso uomo oppresso;
+dobbiamo dire che è un verme e un dio; e dobbiamo così esporci
+all'accusa (o al complimento) di trascendentalismo.
+Questo è, in verità, l'argomento più forte a favore della concezione
+religiosa della vita. Se la dignità dell'uomo è una dignità terrena, saremo
+tentati di negare la sua degradazione terrena. Se è una dignità
+celeste, possiamo ammettere la degradazione terrena con tutto il candore
+di Zola. Se siamo idealisti riguardo all'altro mondo, possiamo
+essere realisti riguardo a questo mondo. Ma non è questo il punto.
+Ciò che è del tutto evidente è che, se una lode logica del povero
+viene spinta troppo oltre, e se un logico affanno per lui viene spinto troppo oltre,
+l'una o l'altro comporteranno la rovina del [[Paradox|paradosso]] centrale della [[Reform|riforma]].
+Se il povero è reso troppo ammirevole, cessa di essere pietoso;
+se il povero è reso troppo pietoso, diventa semplicemente spregevole.
+C'è una scuola di compiaciuti ottimisti che negheranno ch'egli sia un povero.
+C'è una scuola di scientifici pessimisti che negheranno ch'egli sia un uomo.
+
+Da questa perenne contraddizione nasce il fatto che vi
+sono sempre due tipi di riformatore. Il primo possiamo chiamarlo per
+comodità il pessimista, il secondo l'ottimista. L'uno si sofferma
+sul fatto che delle anime vanno perdute; l'altro si sofferma
+sul fatto che vale la pena di salvarle. Entrambi, naturalmente, hanno (per
+quanto concerne questo punto) del tutto ragione, ma tendono naturalmente a una
+differenza di metodo, e talvolta a una differenza di percezione.
+Il riformatore pessimista addita gli elementi buoni che l'oppressione
+ha distrutto; il riformatore ottimista, con gioia ancor più feroce,
+addita gli elementi buoni che essa non ha distrutto.
+È la tesi del primo riformatore che la [[Slavery|schiavitù]] abbia reso gli uomini servili.
+È la tesi del secondo riformatore che la [[Slavery|schiavitù]] non abbia reso
+gli uomini servili. Il primo descrive quanto malvagi siano gli uomini in cattive condizioni.
+Il secondo descrive quanto buoni siano gli uomini in cattive condizioni.
+Della prima classe di scrittori, per esempio, è Gorky. Della seconda
+classe di scrittori è Dickens.
+
+Ma qui dobbiamo registrare un fatto reale e alquanto sorprendente.
+Contro ogni apparente probabilità, è certamente vero
+che il riformatore ottimista riforma assai più compiutamente
+del riformatore pessimista. Gli uomini producono cambiamenti violenti
+essendo appagati, essendo fin troppo appagati. L'uomo che disse
+che «le rivoluzioni non si fanno con l'[[Water|acqua]] di [[Rose|rose]]» era evidentemente
+inesperto delle pratiche faccende umane. Uomini come Rousseau
+e Shelley fanno le rivoluzioni, e le fanno con l'[[Water|acqua]] di [[Rose|rose]];
+cioè con una visione troppo rosea e sentimentale della bontà umana.
+Le figure che vengono prima e creano convulsioni e mutamenti
+(per esempio, la figura centrale del Nuovo Testamento)
+hanno sempre l'aria di camminare in una dolcezza e una calma innaturali.
+Ci danno alla fine la loro pace nel [[Blood|sangue]] e nella battaglia e nella divisione;
+non come la dà il mondo essi la danno a noi.
+
+Né la vera ragione del trionfo del riformatore troppo appagato è
+particolarmente difficile da definire. Egli trionfa perché mantiene
+viva nell'[[Soul|anima]] umana un'invincibile certezza che la cosa vale
+la pena di essere fatta, che la guerra vale la pena di essere vinta, che il popolo vale
+la sua liberazione. Ricordo che il signor William Archer,
+qualche [[Time|tempo]] fa, pubblicò in una delle sue interessanti serie di interviste,
+un'intervista al signor Thomas Hardy. Quel potente scrittore veniva
+presentato mentre diceva, nel corso della conversazione, che in
+quel particolare momento non voleva definire la propria opinione riguardo
+all'ultimo problema, se cioè la vita stessa valesse la pena di essere vissuta.
+Vi sono, egli diceva, centinaia di mali rimediabili in questo mondo.
+Quando avremo rimediato a tutti questi (tale era il suo argomento), sarà
+[[Time|tempo]] a sufficienza di chiedersi se l'esistenza stessa, nelle sue migliori
+condizioni possibili, sia preziosa o desiderabile. Qui ci viene presentata, con un
+notevole elemento di quello che si può solo chiamare inconsapevole [[Humour|umorismo]],
+la semplice ragione del fallimento del pessimista come riformatore.
+Il signor Hardy ci chiede, non dirò di comprare un gatto nel sacco;
+ci chiede di comprare il sacco sulla remota possibilità che ci
+sia un gatto dentro. Quando per alcuni frenetici secoli ci
+saremo torturati per salvare l'umanità, sarà allora «[[Time|tempo]] a sufficienza»
+di discutere se essa possa in qualche modo essere salvata. Quando, nel caso
+della [[Mortality|mortalità]] infantile, per esempio, ci saremo sfiniti
+con gli sforzi capaci di scuotere la terra necessari a salvare la vita di ogni
+singolo bambino, sarà allora [[Time|tempo]] a sufficienza di considerare se ogni
+singolo bambino non sarebbe stato più felice da morto. Dovremmo spostare
+le [[Mountains|montagne]] e portare il millennio, perché allora potremo avere un tranquillo
+momento per discutere se il millennio sia poi affatto desiderabile.
+Qui abbiamo il livello di bassa [[Water|marea]] dell'impotenza del triste riformatore.
+E qui abbiamo la ragione del paradossale trionfo di quello felice.
+Il suo trionfo è un trionfo religioso; riposa sulla sua perpetua asserzione
+del valore dell'[[Soul|anima]] umana e della quotidiana vita umana. Riposa
+sulla sua asserzione che la vita umana è godibile perché è umana.
+Ed egli non ammetterà mai, come tanti compassionevoli pessimisti,
+che la vita umana cessi mai di essere umana. Egli non si limita a
+compatire la bassezza degli uomini; sente un'offesa alla loro elevazione.
+La bruta pietà dovrebbe essere data soltanto ai bruti. La crudeltà verso gli [[Animals|animali]] è crudeltà
+e cosa vile; ma la crudeltà verso un uomo non è crudeltà, è tradimento.
+La tirannia su un uomo non è tirannia, è ribellione, poiché l'uomo è regale.
+Ora, la debolezza pratica dell'immensa massa della moderna pietà per
+i poveri e gli oppressi è precisamente che è mera pietà;
+la pietà è pietosa, ma non rispettosa. Gli uomini sentono che la crudeltà
+verso i poveri è una specie di crudeltà verso gli [[Animals|animali]]. Non sentono mai
+che è ingiustizia verso degli eguali; anzi, è tradimento verso dei compagni.
+Questa cupa pietà scientifica, questa brutale pietà, ha una sua elementare
+sincerità; ma è del tutto inutile per ogni fine di [[Reform|riforma]] sociale.
+La [[democracy|democrazia]] spazzò l'Europa con la sciabola quando fu fondata sui
+Diritti dell'Uomo. Non ha fatto letteralmente più nulla da quando è
+stata fondata soltanto sui torti dell'uomo. O, più esattamente
+parlando, il suo recente fallimento è dovuto al suo non ammettere
+l'esistenza di alcun diritto, o torto, né in verità di alcuna umanità.
+L'evoluzione (la sinistra nemica della rivoluzione) non nega in particolare
+l'esistenza di Dio; ciò che nega è l'esistenza dell'uomo.
+E tutta la [[Despair|disperazione]] riguardo ai poveri, e la fredda e ripugnante
+pietà per loro, è stata in gran parte dovuta al vago senso che essi
+siano letteralmente ricaduti nello stato degli [[Animals|animali]] inferiori.

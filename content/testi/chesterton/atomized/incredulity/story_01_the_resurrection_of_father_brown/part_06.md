@@ -191,82 +191,82 @@ of real wine?'
 
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/works/incredulity-(chesterton)">Incredulity</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/incredulity-(chesterton)">Incredulity</a> › <a href="/testi/chesterton/atomized/incredulity/story_01_the_resurrection_of_father_brown">Story 01 The Resurrection of Father Brown</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/incredulity/story_01_the_resurrection_of_father_brown/part_05">‹ part 05</a><a class="ex-next" href="/testi/chesterton/atomized/incredulity/story_02_the_arrow_of_heaven/part_01">part 01 ›</a></div>
 </nav>
 
-E venne giù a precipizio per i gradini, mentre la gente si gettava dinanzi a lui per implorarne la benedizione.
+E scese ruzzolando i gradini, mentre la gente si gettava davanti a lui per implorarne la benedizione.
 
-«Vi benedico, vi benedico», disse frettolosamente Padre Brown. «Dio vi benedica tutti e vi dia un po' più di buon senso.»
+«Vi benedico, vi benedico» disse Padre Brown in fretta. «Dio vi benedica tutti e vi dia più giudizio.»
 
-E se la svignò con straordinaria rapidità verso l'ufficio del telegrafo, donde spedì al segretario del suo Vescovo il seguente messaggio: «Corre qui una folle storia di miracolo; spero Sua Eccellenza non conceda autorizzazione. Nulla di vero.»
+E se ne andò via a passettini con straordinaria rapidità fino all'ufficio del telegrafo, dove telegrafò al segretario del suo Vescovo: «Qui circola una folle storia di miracolo; spero che Sua Eccellenza non conceda autorizzazione. Non c'è nulla di vero.»
 
-Come si allontanò da quella fatica, vacillò un poco per il contraccolpo, e John Race lo prese per il braccio.
+Mentre si allontanava da quella fatica, vacillò un poco per il contraccolpo, e John Race lo afferrò per il braccio.
 
-«Lasciate che vi accompagni a [[Home|casa]]», disse; «meritate ben più di quanto questa gente vi stia dando.»
+«Lasciate che vi accompagni a [[Home|casa]]» disse; «meritate più di quanto questa gente vi stia dando.»
 
-John Race e il sacerdote sedevano nella canonica; il tavolo era ancora ingombro delle carte con le quali quest'ultimo si era accapigliato il giorno prima; la bottiglia di vino e il bicchiere vuotato stavano tuttora dove egli li aveva lasciati.
+John Race e il prete sedevano nella canonica; il tavolo era ancora ingombro delle carte con cui quest'ultimo si era accapigliato il giorno prima; la bottiglia di vino e il bicchiere vuotato stavano ancora dove li aveva lasciati.
 
-«E ora», disse [[Father Brown|Padre Brown]] quasi cupamente, «posso cominciare a pensare.»
+«E ora» disse [[Father Brown|Padre Brown]] quasi torvo «posso cominciare a pensare.»
 
-«Io, al posto vostro, non penserei troppo intensamente per ora», disse l'americano. «Dovete aver bisogno di riposo. E poi, a che cosa vi accingete a pensare?»
+«Non penserei troppo intensamente per ora» disse l'americano. «Dovete aver bisogno di riposo. E poi, a che cosa volete pensare?»
 
-«Mi è capitato assai di frequente il compito di indagare su omicidi, per l'appunto», disse [[Father Brown|Padre Brown]]. «Ora mi tocca indagare sul mio proprio omicidio.»
+«Mi è capitato piuttosto spesso di dovermi occupare di indagini su omicidi, guarda caso» disse [[Father Brown|Padre Brown]]. «Ora mi tocca indagare sul mio stesso assassinio.»
 
-«Se fossi in voi», disse Race, «prima berrei un goccio di vino.»
+«Se fossi in voi» disse Race «prima berrei un po' di vino.»
 
-Padre Brown si levò in piedi e si riempì un altro bicchiere, lo sollevò, guardò pensieroso nel vuoto, e lo posò di nuovo. Poi si sedette ancora una volta e disse:
+Padre Brown si alzò e si riempì un altro bicchiere, lo sollevò, guardò pensoso nel vuoto, e lo posò di nuovo. Poi si sedette ancora una volta e disse:
 
-«Sapete che cosa provai quando morii? Forse non lo crederete, ma il mio sentimento fu di uno stupore travolgente.»
+«Sapete che cosa provai quando morii? Forse non ci crederete, ma la mia sensazione fu di uno stupore travolgente.»
 
-«Be'», rispose Race, «immagino che rimaneste stupito di essere stato colpito alla testa.»
+«Be'» rispose Race «immagino foste stupito d'esser stato colpito alla testa.»
 
-[[Father Brown|Padre Brown]] si chinò verso di lui e disse a bassa voce: «Rimasi stupito di *non* essere stato colpito alla testa.»
+[[Father Brown|Padre Brown]] si chinò verso di lui e disse a bassa voce: «Ero stupito di non essere stato colpito alla testa.»
 
-Race lo osservò per un istante, come se pensasse che il colpo alla testa fosse stato fin troppo efficace; ma si limitò a dire: «Che cosa intendete?»
+Race lo guardò per un momento come se pensasse che il colpo alla testa fosse stato fin troppo efficace; ma disse soltanto: «Che cosa intendete?»
 
-«Intendo che, quando quell'uomo abbassò il suo randello con un gran fendente, esso si arrestò alla mia testa e non la sfiorò neppure. Allo stesso modo, l'altro individuo fece l'atto di colpirmi con un coltello, ma non mi procurò neanche un graffio. Fu proprio come una recita. Anzi, credo che lo fosse. Ma allora seguì la cosa straordinaria.»
+«Intendo che, quando quell'uomo abbatté il suo randello con un gran fendente, esso si fermò alla mia testa e non la toccò nemmeno. Allo stesso modo, l'altro tizio fece come per colpirmi con un coltello, ma non mi procurò neppure un graffio. Era proprio come una recita. Credo che lo fosse. Ma poi seguì la cosa straordinaria.»
 
-Guardò pensieroso per un momento le carte sul tavolo, e poi proseguì:
+Guardò pensoso per un momento le carte sul tavolo e poi proseguì:
 
-«Benché non fossi stato neppure toccato da coltello o bastone, cominciai a sentire le gambe piegarsi sotto di me e la vita stessa venir meno. Sapevo di essere abbattuto da qualcosa, ma non erano quelle armi. Sapete che cosa penso fosse?» E indicò il vino sul tavolo.
+«Benché non fossi stato neppure sfiorato da coltello o bastone, cominciai a sentire le gambe piegarmisi sotto e la vita stessa venir meno. Sapevo di essere abbattuto da qualcosa, ma non da quelle armi. Sapete che cosa penso fosse?» E indicò il vino sul tavolo.
 
-Race prese il bicchiere di vino, lo osservò e lo annusò.
+Race prese il bicchiere di vino e lo osservò e lo annusò.
 
-«Credo che abbiate ragione», disse. «Cominciai come speziale e studiai chimica. Non potrei affermarlo con certezza senza un'analisi; ma credo che vi sia qualcosa di assai insolito in questa roba. Vi sono droghe con le quali gli asiatici producono un [[Sleep|sonno]] temporaneo che assomiglia alla [[Death|morte]].»
+«Credo abbiate ragione» disse. «Ho cominciato come farmacista e ho studiato chimica. Non saprei dirlo con certezza senza un'analisi; ma credo che ci sia qualcosa di assai insolito in questa roba. Esistono droghe con cui gli asiatici producono un [[Sleep|sonno]] temporaneo che ha l'aspetto della [[Death|morte]].»
 
-«Proprio così», disse il sacerdote con calma. «L'intero miracolo fu una montatura, per una ragione o per l'altra. Quella scena funebre fu inscenata — e cronometrata. Credo che sia parte di quella delirante mania di pubblicità che ha preso Snaith; ma stento a credere che si sarebbe spinto tanto oltre, per quello soltanto. Dopotutto, un conto è ricavare articoli da me e farmi passare per una sorta di finto Sherlock Holmes, e...»
+«Proprio così» disse il prete con calma. «Tutto questo miracolo è stato architettato, per una ragione o per l'altra. Quella scena funebre è stata inscenata — e cronometrata. Credo faccia parte di quella delirante follia della pubblicità che ha preso Snaith; ma stento a credere che si sarebbe spinto fino a tanto, per quello soltanto. Dopo tutto, un conto è fare articoli su di me e presentarmi come una sorta di finto Sherlock Holmes, e...»
 
-Proprio mentre il sacerdote parlava, il suo volto mutò. Le palpebre battenti si chiusero d'un tratto ed egli si levò in piedi come se stesse soffocando. Poi tese una mano tremante, quasi cercasse a tentoni la strada verso la porta.
+Proprio mentre il prete parlava, il suo volto mutò. Le palpebre che ammiccavano si chiusero di colpo ed egli si alzò come se stesse soffocando. Poi tese una mano vacillante, come cercando a tastoni la strada verso la porta.
 
 «Dove andate?» chiese l'altro con una certa meraviglia.
 
-«Se proprio volete saperlo», disse [[Father Brown|Padre Brown]], che era bianco in volto, «stavo andando a pregare. O piuttosto, a rendere lode.»
+«Se proprio volete saperlo» disse [[Father Brown|Padre Brown]], che era tutto bianco «stavo andando a pregare. O meglio, a lodare.»
 
-«Non son sicuro di comprendere. Che cosa avete?»
+«Non sono sicuro di capire. Che cosa avete?»
 
-«Stavo andando a lodare Dio per avermi salvato in modo così strano e così incredibile — per avermi salvato per un pelo.»
+«Stavo andando a lodare Dio per avermi salvato così stranamente e così incredibilmente — per avermi salvato per un pelo.»
 
-«Certo», disse Race, «io non sono della vostra religione; ma credetemi, ho abbastanza religione da comprenderlo. Naturalmente, ringraziereste Dio per avervi salvato dalla morte.»
+«Certo» disse Race «io non sono della vostra religione; ma credetemi, ho abbastanza religione da capirlo. Naturalmente ringraziereste Dio per avervi salvato dalla morte.»
 
-«No», disse il sacerdote. «Non dalla morte. Dall'infamia.»
+«No» disse il prete. «Non dalla morte. Dall'infamia.»
 
-L'altro rimase seduto a fissarlo; e le parole successive del sacerdote proruppero da lui con una sorta di grido. «E se fosse stata soltanto la mia infamia! Ma era l'infamia di tutto ciò che io rappresento; l'infamia della [[Faith|Fede]] che essi si adoperavano a irretire. Che cosa sarebbe potuta essere! Il più immane e orribile scandalo mai scagliato contro di noi da quando l'ultima menzogna fu strozzata nella gola di Titus Oates.»
+L'altro rimase seduto a fissarlo; e le parole successive del prete gli proruppero con una sorta di grido. «E se fosse stata soltanto la mia infamia! Ma era l'infamia di tutto ciò che rappresento; l'infamia della [[Faith|Fede]] che essi manovravano per circuire. Che cosa avrebbe potuto essere! Il più enorme e orribile scandalo mai scagliato contro di noi da quando l'ultima menzogna fu soffocata nella gola di Titus Oates.»
 
-«Di che diamine state parlando?» domandò il suo compagno.
+«Ma di che diavolo state parlando?» domandò il suo compagno.
 
-«[[Well|Ebbene]], è meglio che ve lo dica subito», disse il sacerdote; e sedutosi, proseguì più compostamente: «Mi è balenato in un lampo quando mi è capitato di menzionare Snaith e Sherlock Holmes. Ora, mi ricordo per l'appunto di ciò che scrissi a proposito del suo assurdo piano; era la cosa naturale da scrivere, eppure penso che mi abbiano ingegnosamente manovrato affinché scrivessi proprio quelle parole. Erano qualcosa come "Sono pronto a morire e a tornare in vita come Sherlock Holmes, se questa è la via migliore." E nel momento in cui pensai a ciò, mi resi conto che mi avevano indotto a scrivere ogni sorta di cose di quel genere, tutte convergenti verso la medesima idea. Scrissi, come a un complice, dicendo che avrei bevuto il vino drogato a una determinata [[Time|ora]]. Ora, non vedete?»
+«[[Well|Ebbene]], meglio che ve lo dica subito» disse il prete; e sedendosi, proseguì più padrone di sé: «Mi venne in mente in un lampo, quando mi capitò di menzionare Snaith e Sherlock Holmes. Ora, mi ricordo per l'appunto ciò che scrissi a proposito del suo assurdo progetto; era la cosa naturale da scrivere, eppure credo che mi avessero ingegnosamente manovrato perché scrivessi proprio quelle parole. Erano qualcosa come: "Sono pronto a morire e a tornare in vita come Sherlock Holmes, se questa è la maniera migliore." E nell'istante in cui pensai a ciò, mi resi conto che mi avevano fatto scrivere ogni sorta di cose di quel genere, tutte volte alla stessa idea. Scrissi, come a un complice, dicendo che avrei bevuto il vino drogato a un determinato [[Time|momento]]. Ora, non capite?»
 
-Race balzò in piedi, sempre fissandolo: «Sì», disse, «credo di aver cominciato a vedere.»
+Race balzò in piedi ancora fissandolo: «Sì» disse «credo di cominciare a capire.»
 
-«Avrebbero dato gran clamore al miracolo. Poi avrebbero fatto esplodere il miracolo. E, quel che è peggio, avrebbero dimostrato che ero io stesso nella cospirazione. Sarebbe stato il *nostro* finto miracolo. È tutto qui; e all'incirca la cosa più vicina all'inferno alla quale voi e io mai giungeremo, spero.»
+«Avrebbero gonfiato il miracolo. Poi avrebbero fatto scoppiare il miracolo. E, cosa peggiore, avrebbero provato che io ero nella cospirazione. Sarebbe stato il nostro falso miracolo. È tutto qui; e press'a poco il più vicino all'inferno che io e voi mai saremo, spero.»
 
-Poi disse, dopo una pausa, con voce del tutto mite: «Certo che avrebbero ricavato parecchia buona copia da me.»
+Poi disse, dopo una pausa, con voce del tutto mite: «Di certo avrebbero ricavato da me parecchia buona materia da giornale.»
 
-Race guardò il tavolo e disse tetro: «Quanti di questi bruti c'erano dentro?»
+Race guardò il tavolo e disse cupamente: «Quanti di questi bruti c'erano dentro?»
 
-Padre Brown scosse il capo. «Più di quanti mi piaccia pensare», disse; «ma spero che alcuni di loro fossero soltanto strumenti. Alvarez forse potrebbe pensare che in guerra tutto è lecito; ha una mente bizzarra. Ho gran timore che Mendoza sia un vecchio ipocrita; non mi sono mai fidato di lui, e detestava la mia condotta in una questione sindacale. Ma tutto ciò può attendere; non mi resta che ringraziare Dio per lo scampato pericolo. E specialmente per aver telegrafato subito al Vescovo.»
+Padre Brown scosse il capo. «Più di quanti mi piaccia pensare» disse; «ma spero che alcuni di loro fossero soltanto strumenti. Alvarez potrebbe pensare che in guerra tutto è lecito, forse; ha una mente bizzarra. Temo molto che Mendoza sia un vecchio ipocrita; non mi sono mai fidato di lui, e detestava il mio operato in una questione industriale. Ma tutto questo può attendere; non mi resta che ringraziare Dio per lo scampato pericolo. E specialmente per aver telegrafato subito al Vescovo.»
 
-John Race pareva assai pensieroso. «Mi avete raccontato molte cose che ignoravo», disse infine, «e mi sento incline a dirvi l'unica cosa che voi non sapete. Posso ben immaginare come quegli individui abbiano fatto i loro calcoli. Pensavano che qualsiasi uomo al mondo, destandosi in una bara per trovarsi canonizzato come un santo, e tramutato in un miracolo ambulante che tutti ammirano, si sarebbe lasciato trascinare dai suoi adoratori e avrebbe accettato la corona di gloria che gli piombava addosso dal cielo. E ritengo che il loro calcolo fosse una psicologia assai pratica, per come vanno gli uomini. Ho visto ogni sorta di uomini in ogni sorta di luoghi; e vi dico francamente che non credo vi sia un uomo su mille capace di destarsi a quel modo con tutta la sua lucidità; e che, mentre ancora quasi parlava nel sonno, avesse la sanità di mente, la semplicità e l'umiltà di...» Si sorprese non poco a trovarsi commosso, e la sua voce pacata vacillare.
+John Race appariva molto pensieroso. «Mi avete detto molte cose che non sapevo» disse alla fine «e mi sento incline a dirvi l'unica cosa che voi non sapete. Riesco a immaginare abbastanza bene come calcolarono quei tizi. Pensavano che qualsiasi uomo vivente, svegliandosi in una bara per trovarsi canonizzato come un santo, e trasformato in un miracolo ambulante da ammirare per tutti, sarebbe stato travolto insieme ai suoi adoratori e avrebbe accettato la corona di gloria che gli cadeva addosso dal cielo. E ritengo che il loro calcolo fosse una psicologia piuttosto pratica, per come sono fatti gli uomini. Ho visto ogni sorta di uomini in ogni sorta di luoghi; e vi dico francamente che non credo ci sia un uomo su mille capace di svegliarsi a quel modo con tutto il suo senno; e che, mentre stava ancora quasi parlando nel sonno, avesse la lucidità e la semplicità e l'umiltà di...» Fu assai sorpreso di scoprirsi commosso, e la sua voce piana vacillare.
 
-[[Father Brown|Padre Brown]] stava fissando distrattamente, e in modo alquanto storto, la bottiglia sul tavolo. «Sentite un po'», disse, «che ne direste di una bottiglia di vino vero?»
+[[Father Brown|Padre Brown]] fissava distrattamente, e in maniera piuttosto storta, la bottiglia sul tavolo. «Sentite un po'» disse «che ne direste di una bottiglia di vino vero?»
