@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/gkc-all-is-grist-(chesterton)">GKC All is Grist</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/gkc_all_is_grist/chapter_01">‹ Chapter 01</a><a class="ex-next" href="/testi/chesterton/atomized/gkc_all_is_grist/chapter_03">Chapter 03 ›</a></div>
@@ -154,3 +156,154 @@ It will strike a thoughtful mind that such arrows are rather
 likely to miss.  William Tell will not fight [[Well|well]] for [[Freedom]],
 if he thinks that he and his bow and the target and the [[Tyrant|tyrant]]
 are all the same thing.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/gkc-all-is-grist-(chesterton)">GKC All is Grist</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/gkc_all_is_grist/chapter_01">‹ Chapter 01</a><a class="ex-next" href="/testi/chesterton/atomized/gkc_all_is_grist/chapter_03">Chapter 03 ›</a></div>
+</nav>
+
+
+I
+
+La maggior parte dei titoli e degli slogan moderni deve dire l'esatto contrario
+di ciò che intende, per amor di brevità.  Talvolta gli organizzatori
+sono così sinceri da spiegarlo immediatamente dopo
+e da usare il sottotitolo per dimostrare che il titolo non è vero.
+Poco tempo fa apparve una serie di racconti brevi, che proclamava nel
+suo titolo editoriale come ciascun autore avesse scelto il proprio racconto migliore.
+Ma il curatore, che evidentemente soffriva d'intelligenza (e talvolta ciò
+comporta davvero [[Suffering|sofferenza]]), era perfettamente [[Well|ben]] consapevole che nessun
+autore sano di mente avrebbe detto che un dato racconto fosse assolutamente e sotto ogni aspetto
+il migliore; anzi, un autore sano di mente è più probabile che sia ossessionato
+dall'orrido [[Memory|ricordo]] del peggiore.  Così il curatore aggiunse una nota
+per spiegare il proprio titolo, che diceva necessario, perché
+era tanto più breve.  È vero che la frase «Il mio racconto migliore»
+è assai più breve della frase, più esatta, «Ritengo che questo
+racconto sia uno dei relativamente pochi in base ai quali potrei forse acconsentire
+che la gente giudichi la mia intelligenza generale, quale essa è».
+È altresì vero che la frase «Questo racconto è pura spazzatura»
+è assai più breve della frase «Questo racconto non è,
+a considerarlo con equità, del tutto e assoluta spazzatura».
+Ma esse non significano, a dir poco, la stessa cosa.
+E scegliere la più breve sarebbe imprudente, persino in un esperto di pubblicità.
+
+Un problema alquanto simile sorse a proposito di una recente selezione di
+saggi inglesi, compiuta e introdotta dal defunto Lord Birkenhead;
+era un'ottima selezione, e non era [[Alone|sola]] a [[Suffering|soffrire]]
+di quel particolare problema.  A grandi lettere sul frontespizio
+doveva recare il titolo di «I Cento Migliori Saggi Inglesi»;
+e nelle primissime parole dell'introduzione Lord Birkenhead
+disse assai sensatamente che non poteva esistere alcuna cosa
+come «I Cento Migliori Saggi Inglesi».  Proseguì,
+in maniera assai franca e affabile, spiegando che non era
+soltanto impossibile per chiunque fare alcunché se non una ragionevole
+raccolta di saggi molto buoni, ma che egli (per parte sua)
+aveva praticamente incluso tutti i saggi semplicemente perché gli piacevano.
+Davvero non so che altro si possa fare con i saggi se non
+apprezzarli — salvo, s'intende, chi abbia reazioni più cupe,
+disprezzarli.  Di tutte le forme di letteratura essi sono forse
+la meno adatta a essere incasellata negli antichi canoni di giudizio,
+con cui in un certo senso era possibile legiferare per il dramma
+o per l'ode.  Ma, ad ogni modo, c'è qualcosa di un po' divertente
+nelle pretese della pubblicità e degli affari che ci impongono di rovesciare
+tutto ciò che intendiamo, per indurre qualcuno ad ascoltare ciò che diciamo.
+C'è qualcosa di comico nel sacrificare ogni cosa al titolo a effetto,
+lasciando che esso imponga all'articolo di reggersi a testa in giù.
+
+Non ho menzionato questo libro di saggi, tuttavia, allo scopo di
+passare in rassegna tutti i suoi saggi, e ancor meno la [[Nature|natura]] del [[Essay|saggio]].
+Devo ringraziare il compilatore per avermi restituito molte belle cose che
+posso aver trascurato o dimenticato; ma quella che specialmente ha colto
+il mio occhio e riguarda la mia penna è un eccellente studio di un critico da poco
+scomparso su un poeta che egli conosceva [[Well|bene]] e di cui scrive mirabilmente.
+Mi riferisco al [[Essay|saggio]] su Swinburne di Sir [[Edmund]] Gosse.
+Contiene una quantità di materia su cui altri potrebbero pronunciarsi
+con assai più autorità di me.  Incontrai Swinburne una sola volta; e sebbene
+incontrassi Gosse moltissime volte, non pretenderei mai d'aver oltrepassato
+la guardia di quel forbito stocco più di quanto lo fece chiunque altro.
+Ricevetti da lui una lettera su Stevenson, che considero uno
+dei grandi onori della mia vita; per il resto, ero soltanto uno
+di una folla di uomini più giovani con cui egli era insieme ironico e gentile.
+Ma c'è qualcosa nel quadro generale e assai vivido
+di Swinburne che egli presenta, che m'induce a indugiare
+forse tardivamente su quel nome e su quella poesia che, come poesia,
+era diritta come una freccia canora; ma, considerata come [[philosophy|filosofia]],
+mi ha sempre lasciato assai perplesso.  In altre parole, se consideriamo
+il bersaglio della freccia, troviamo che non c'è nulla da considerare;
+non è nemmeno uno schema concentrico tanto chiaro quanto un labirinto;
+è piuttosto un labirinto senza centro.
+
+In parole povere, dopo aver riletto il [[Essay|saggio]] di Gosse, mi chiesi:
+«Che diamine intendeva Swinburne?  O intendeva qualcosa?»
+È abbastanza facile, dopo aver letto alcune delle poesie, specialmente le più tarde,
+più lunghe e in genere minori, dire che non intendeva nulla;
+che era semplicemente un musicista sviato; un pazzo con qualcosa
+che gli cantava in testa; una creatura fremente di danza repressa;
+una creatura che non poteva fare a meno di schiumare dalla bocca fiori
+e fiamme e sangue e boccioli e il mare.  Ma non è facile,
+dopo aver letto il saggio di Gosse, negare che egli in qualche modo prendesse
+qualcosa sul serio; e qualcosa che non era sé stesso, se i suoi contemporanei
+dubitavano che fosse qualcosa capace di produrre giustizia.
+Egli prendeva davvero consiglio da Landor e da Hugo come se fossero gravi dèi
+intenti a creare un mondo di giustizia o di retta ragione.  Sembrava davvero
+credere che una qualche Utopia dipendesse dal successo di Cavour
+o dal fallimento di Luigi Bonaparte.  Ma come esattamente lo connettesse
+nella sua mente con lo strano pessimismo licenzioso, simile all'ultima
+crapula di un suicida, che riempie i suoi altri versi, non riesco a capirlo;
+né come supponesse che qualcosa, foss'anche un'Utopia, potesse esser fatto
+di tali fiamme e schiumeggiamenti.  Di certo non sperava in una repubblica
+in cui tutti i cittadini fossero liberi di mordersi a vicenda.
+Di certo i segugi della primavera, così fiduciosi sulle tracce dell'inverno,
+non schiumavano tutti dalla bocca come cani rabbiosi?
+
+Eppure è il suo gusto in fatto di virtù, più che il suo gusto in fatto di vizio, che
+mi lascia perplesso.  Nel peggiore e più universalmente famoso di tutti i suoi versi
+scrisse qualcosa sui rapimenti e le rose del vizio e i gigli
+e i languori della virtù.  La cosa ovvia da dire è che egli non poteva
+saperne molto della virtù, se la riteneva languida.  Ma, per rendergli
+giustizia, i suoi stessi appelli alla virtù pubblica erano tutt'altro che languidi.
+Quando parlava del suo tipo prediletto, che si soleva chiamare
+Virtù Repubblicana, sembra aver compreso tutta quella romana
+dignità e decenza che fece a brandelli nei suoi deliri sul sesso.
+Usò un'altra frase insensata a proposito di qualcuno «nobile e nudo
+e antico».  Uno studioso tanto buono avrebbe dovuto sapere che, nel reale
+mondo dell'antichità, un nobile non avrebbe mai desiderato essere nudo.
+L'avrebbe considerato il marchio non di un nobile, bensì di uno schiavo.
+In realtà Swinburne sapeva tutto questo; anzi, difficilmente si poteva essere
+amico di un romano tanto antico quale Landor senza saperlo.
+
+Poi, di nuovo, la [[philosophy|filosofia]] pagana che egli oppose al [[Christianity|Cristianesimo]]
+è un cumulo di simili incoerenze.  In [[songs|Songs]] Before Sunrise
+egli offre il panteismo come religione della rivoluzione.
+Il panteismo può essere o no un buon credo per un filosofo; il panteismo è
+certamente, in un senso, un ottimo credo per un filosofo pagano.
+Ma il panteismo è un credo disperato per un rivoluzionario.  Se tutte le cose
+sono egualmente divine, allora il [[Tyrant|tiranno]] e il bigotto sono divini quanto
+il tribuno e il cercatore di [[Truth|verità]].  In «Hertha» egli immagina l'universo
+come un vasto albero, da cui tutte le cose a turno germogliano e fioriscono;
+e poi si rifugia nella miserabile metafora del dire che i «credi»
+sono meri vermi penetrati nella corteccia — il diavolo sa come.
+Se tutte le cose si dispiegano egualmente da una sola radice naturale,
+i vermi dell'oppressione sono naturali quanto i [[Flowers|fiori]] della [[Freedom|libertà]].
+Se venissero altrimenti, allora l'universo non è universale;
+e il verme nell'albero della [[Nature|natura]] è teologico quanto il serpente nel-
+l'albero della conoscenza.  Vi potrebbe in verità essere una guerra di germogli [[spring|primaverili]]
+contro [[Leaves|foglie]] morte o frutti marci; ma ciò significa soltanto che ciascuno è
+egualmente buono nella sua stagione.  E che giova un credo rivoluzionario
+che non può denunciare un [[Tyrant|tiranno]] nella sua stagione di forza?
+Credo che questa follia di fare del panteismo il credo dei liberali
+abbia molto a che vedere con il declino della politica liberale e
+con le reazioni contro di essa oggi.  Hertha, spiegando (con una certa ampiezza)
+di essere ogni cosa, osserva, se ben ricordo:
+
+    Io il bersaglio che è mancato
+    E le frecce che mancano.
+
+Colpirà una mente riflessiva che simili frecce siano piuttosto
+propense a mancare.  Guglielmo Tell non combatterà [[Well|bene]] per la [[Freedom|Libertà]],
+se pensa che egli e il suo arco e il bersaglio e il [[Tyrant|tiranno]]
+siano tutti la stessa cosa.

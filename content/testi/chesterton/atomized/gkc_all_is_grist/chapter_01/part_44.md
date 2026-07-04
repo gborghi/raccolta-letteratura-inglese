@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/gkc-all-is-grist-(chesterton)">GKC All is Grist</a> › <a href="/testi/chesterton/atomized/gkc_all_is_grist/chapter_01">Chapter 01</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/gkc_all_is_grist/chapter_01/part_43">‹ part 43</a><a class="ex-next" href="/testi/chesterton/atomized/gkc_all_is_grist/chapter_01/part_45">part 45 ›</a></div>
@@ -136,3 +138,135 @@ to be indignant at the charge of thinking it does not matter.
 It is equally absurd to deny propriety as to deny property,
 and then to say that only a fiend would suspect you of disregarding
 the property or propriety that you deny.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/gkc-all-is-grist-(chesterton)">GKC All is Grist</a> › <a href="/testi/chesterton/atomized/gkc_all_is_grist/chapter_01">Chapter 01</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/gkc_all_is_grist/chapter_01/part_43">‹ part 43</a><a class="ex-next" href="/testi/chesterton/atomized/gkc_all_is_grist/chapter_01/part_45">part 45 ›</a></div>
+</nav>
+
+Ma c'è una particolare forma di questa moderna semplicità che mi ha
+sempre lasciato assai perplesso.  Intendo il modo in cui coloro che detestano
+certe cose antiche, come la guerra o la disciplina o le varie forme
+di pericolo, parlano di porvi fine senza chiedersi come esse comincino.
+Presumono sempre un'associazione fra queste cose, che nessuno di noi
+particolarmente ama, e altre cose che essi particolarmente detestano.
+Dicono, per esempio, che i re o i capitalisti, o qualche
+altra classe privilegiata, hanno inventato le bandiere e le frontiere,
+affinché noi si venga addestrati a difenderle con fucili e baionette.
+Non paiono accorgersi che potrebbero aver bisogno dei fucili e delle baionette
+anche se non stessero difendendo le frontiere e le bandiere.
+Potrebbero averne bisogno se stessero difendendo qualsiasi cosa.
+Potrebbero averne bisogno se stessero difendendo il proprio ideale
+stato sociale.  E, come dato di fatto storico, essi trovano sempre
+di averne bisogno per difendere proprio lo stato che era stato
+inventato per abolirle.  Ma mi lascia assai perplesso
+la puerile semplicità con cui gli idealisti cascano in questa trappola.
+Era vero in certa misura dei repubblicani del diciottesimo secolo,
+sebbene quei vecchi repubblicani fossero cento volte più intelligenti
+della maggior parte dei nostri scettici del ventesimo secolo.  Eppure alcuni di
+quei deliziosi gentiluomini filosofi, dell'età di Rousseau
+e di Voltaire, tendevano a parlare come se l'Uomo Naturale avrebbe trovato
+facile spezzare la [[Sword|spada]] una volta spezzato lo scettro.
+Parlavano come se nessuno tranne i re avrebbe mai voluto cannoni, e le battaglie
+potessero nascere solo dalle ambizioni dinastiche degli Stati dispotici.
+Tutti conosciamo il seguito ironico ma assai istruttivo.  Il seguito
+fu che la Repubblica nacque fra il rombo dei propri cannoni;
+che riuscì a sopravvivere solo combattendo battaglia dopo battaglia
+con valore spietato ed eserciti ogni giorno più militari;
+finché la furia finale di quella militanza mandò innanzi il più grande
+guerriero del mondo.
+
+Di fronte a questo esempio, i bolscevichi fecero esattamente la stessa cosa.
+Di fronte persino all'esempio bolscevico, i nostri stessi comunisti inglesi
+stanno facendo esattamente la stessa cosa.  Anche i rivoluzionari russi
+cominciarono con l'essere pacifisti.  Anch'essi riponevano tutte le loro speranze
+nel mero dissolvimento della disciplina degli eserciti dispotici.
+Anch'essi paiono non aver mai riflettuto che avrebbero voluto
+avere eserciti rivoluzionari, non foss'altro per combattere gli eserciti dispotici.
+E naturalmente, in un periodo di [[Time|tempo]] incredibilmente breve, scoprirono
+il fatto semplicissimo che i rivoluzionari non possono essere pacifisti.
+Possono fondare quella che chiamano una repubblica pacifica, ma devono
+decidere che cosa fare, se gli altri non la lasceranno
+in pace.
+
+Supponiamo che l'utopista abbia fondato la sua Utopia, e un altro paese
+muova guerra all'Utopia.  Che cosa, alla fin dei conti, deve fare?
+Deve permettere che il suo Stato perfetto (o ciò che è tanto ingenuo
+da ritenere il suo Stato perfetto) sia distrutto e scompaia?
+O deve difenderlo con le sole armi che lo difenderanno?
+Si penserebbe che questo dilemma fosse così clamorosamente ovvio che chiunque
+dovesse averlo visto fin dal primo istante.  Quel dilemma non ha nulla al mondo
+a che fare con corone o scettri o capitalismo o proprietà privata.
+Si immagini una qualsiasi sorta di società semplificata, e io posso immaginarla
+attaccata.  Quel fatto pare abbastanza semplice perché un infante lo veda.
+Eppure ho letto decine di giovani poeti e profeti pacifisti
+che non riuscivano a vederlo.  È un esempio di ciò che intendo per una
+sorta di semplicità quasi più esasperante della sofistica.
+È un caso della stessa sorta di semplicità del supporre che
+i cocktail possano essere illimitati o che l'intrufolarsi alle feste possa continuare quando
+non ci sono più cancelli.
+
+XXXVII.  Sull'abito e il decoro
+
+I giornali assai di frequente, forse troppo di frequente, ci descrivono
+la Ragazza Vittoriana, che era sempre coperta di rossori e di confusione.
+D'altra parte, la Ragazza Moderna ha sempre più confusione,
+quanto meno ha di rossori.  Confusione di pensiero,
+confusione di fraseologia, confusione di [[philosophy|filosofia]], s'addensano e s'oscurano
+su di lei mentre avanza in ciò che considera la luce del giorno,
+o la luce solare della Cura del Sole.  Ella e tutto il suo mondo paiono
+essere caduti in un caos disperato nel decidere i veri principi
+della convenzione e della civiltà.  Qualunque teoria noi si sostenga,
+troviamo che ella sostiene tutte le teorie e nessuna delle teorie;
+che le sue teorie si contraddicono a vicenda e si annullano.  L'ordinario
+argomento dei giornali, sul tema dell'Abito e del Decoro,
+per esempio, è un guazzabuglio di una cinquantina di filosofie incoerenti.
+Varrebbe la pena che alcune di esse fossero messe in ordine,
+prima che ce ne siano troppe per poterle contare.
+
+Anzitutto, c'è la grande contraddizione che la persona
+moderna pretende d'essere a un tempo troppo [[Innocent|innocente]] e troppo raffinata.
+Prima dice che certi peccati sono così remoti e ripugnanti
+che solo una spia dalla mente bassa ne sospetterebbe l'esistenza.
+Poi prosegue dicendo che questi peccati non sono poi così terribili,
+anche se esistono.  Grida a squarciagola: «Per i puri
+di cuore tutte le cose sono pure»; e poi prosegue spiegando che in realtà
+non esiste cosa alcuna come la purezza.  Chiama il moralista un Puritano,
+il più annientante di tutti i termini d'ingiuria; il che è assai divertente
+per alcuni di noi, che ricordano quanto di recente si fosse invitati
+ad ammirare il puritanesimo della Mayflower e l'esecuzione
+di Carlo Primo, e a perdonare il massacro di Wexford
+e la caccia alle streghe di Salem soltanto perché erano puritani.
+Descrive qualsiasi cittadino perbene come un Ficcanaso o (con un tocco
+di feroce antifemminismo) come la signora Grundy; il tutto con lo scopo di
+suggerire che nessuno, tranne una persona dall'immaginazione impura, potrebbe
+vedere altro che immacolata purezza nelle abitudini pagane del nostro tempo.
+
+Ebbene, tutto ciò è abbastanza applicabile, quando c'è davvero qualcuno a cui
+applicarlo.  Io stesso ho protestato contro il puritanesimo e il ficcanasismo
+e la vigilanza acida che vorrebbe arrestare gli svaghi del popolo.
+Concordo pienamente che è disgustoso ficcare il naso in qualsiasi cosa
+sia normale; come il ballare o il nuotare, considerati in sé.
+La mia posizione su quel punto è quella che è sempre stata, e la mia
+posizione è perfettamente chiara.  Ma la posizione del Nuovo Pagano
+non è affatto chiara.  Poiché il Nuovo Pagano tenta di sostenere,
+al tempo stesso, che la reale violazione della morale cristiana è
+irrilevante per il moralista pagano.  Ma in tal caso, come può
+essere sbagliato che il moralista cristiano accusi il moralista pagano?
+Il cristiano non può essere semplicemente morboso nel dire che vi è peccato,
+se il pagano dice che il peccato è irrilevante anche quando vi è.
+Posso essere pazzo se accuso il mio amico Smith di rubare i cucchiai,
+quand'egli è una persona rispettabile con l'ordinario rispetto
+per la proprietà privata.  Ma non posso essere morbosamente e follemente
+malevolo quando dico che egli potrebbe rubare i cucchiai, se egli stesso dice
+che ruberà i cucchiai.  Io posso chiamarlo essere un ladro,
+ed egli può chiamarlo essere un Espropriatore Comunista dalla coscienza di classe.
+Ma è assurdo pretendere che la proprietà non conti, e poi
+indignarsi all'accusa di ritenere che non conti.
+È del pari assurdo negare la decenza come negare la proprietà,
+e poi dire che solo un demonio potrebbe sospettarti di disprezzare
+la proprietà o la decenza che neghi.

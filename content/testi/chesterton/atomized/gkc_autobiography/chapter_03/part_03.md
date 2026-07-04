@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/gkc-autobiography-(chesterton)">GKC Autobiography</a> › <a href="/testi/chesterton/atomized/gkc_autobiography/chapter_03">Chapter 03</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/gkc_autobiography/chapter_03/part_02">‹ part 02</a><a class="ex-next" href="/testi/chesterton/atomized/gkc_autobiography/chapter_03/part_04">part 04 ›</a></div>
@@ -117,3 +119,116 @@ like the other movements of his extraordinary voice, began like an
 organ and ended like a penny whistle.  "That boy looks at the world
 standing on his head," said the High Master of St. Paul's School;
 and instantly we were in the full blaze of the spot-light.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/gkc-autobiography-(chesterton)">GKC Autobiography</a> › <a href="/testi/chesterton/atomized/gkc_autobiography/chapter_03">Chapter 03</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/gkc_autobiography/chapter_03/part_02">‹ part 02</a><a class="ex-next" href="/testi/chesterton/atomized/gkc_autobiography/chapter_03/part_04">part 04 ›</a></div>
+</nav>
+
+I nostri dibattiti sono ancora registrati in qualche volume sparso del nostro strano
+giornaletto; le persone del dramma misteriosamente rappresentate
+dalle loro iniziali, come se fossero membri di una società segreta
+in un [[Novel|romanzo]] sensazionale; come «Il signor B. contestò con enfasi l'affermazione
+dell'ultimo oratore», oppure «Queste osservazioni provocarono un'indignata protesta
+del signor C.». Questa e altre attrattive letali rendono questi vecchi
+volumi la lettura prediletta del mio amico, il signor Edward Fordham,
+che fu egli stesso membro del club e si dilettava a decorarne
+la cronaca col giornalese più magnifico e fiorito,
+e a farvi il verso a se stesso e agli altri. È ancora, credo,
+particolarmente affezionato a un passo dei resoconti che afferma, di uno
+dei ragazzini che formavano questa società: «Il signor L.D. descrisse brevemente
+i Governi di Francia, [[America]], [[Germany|Germania]], Austria, [[Italy|Italia]] e Spagna».
+Talvolta, però, la stessa retorica burlesca di Fordham gli si ritorceva
+sul capo. Descrisse una degli innumerevoli tumulti del nostro
+tavolino da tè scrivendo: «Un panino da un penny del genere appiccicoso pungeva
+carezzevole l'onorata guancia del presidente, spedito nella sua missione di [[Mercy|misericordia]]
+dalla mano infallibile del signor F.». Farò notare che il presidente ero io;
+ed ero generalmente onorato in quel modo. Ma il tipografo mi vendicò;
+perché rese il proiettile come «Una peonia però del genere bastone»;
+una formula botanica quanto mai suggestiva. Fu l'inizio di una lunga
+carriera di [[Martyrdom|martirio]] per refusi; che toccò il suo [[Crown|culmine]] quando
+scrissi di un ministro anticonformista «un illustre corrispondente»,
+e uscì come «un illustre correo».
+
+Il nostro circolo di dibattito fu davvero fondato e davvero [[debate|dibatté]],
+se dibattere si può chiamare. Questa parte della faccenda non
+mi allarmava molto; perché avevo dibattuto a intermittenza fin da quando nacqui;
+di certo con mio fratello, probabilmente con la mia [[Nurse|balia]]. Ma, cosa
+infinitamente più raccapricciante, il nostro giornale apparve davvero
+in stampa; e vi contribuii con [[Poems|poesie]] gonfie, in cui pessime
+imitazioni di Swinburne erano così esattamente bilanciate da imitazioni ancor peggiori
+dei Lays of [[Ancient Rome]], che molti dei miei amici più ingenui
+caddero nell'illusione che io avessi uno stile mio.
+Non ho mai più riletto quei versi; ci sono limiti alla degradazione
+e alla [[Despair|disperazione]] che perfino un'autobiografia esige. Ma devo ammettere che,
+per una qualche ragione, attirarono una certa attenzione;
+e il nostro esperimento cominciò ad affiorare alla superficie della vita scolastica
+e a entrare nel raggio dell'attenzione ufficiale, che era l'ultima cosa che
+avessi mai desiderato. È giusto dire che la rivista conteneva
+poesia probabilmente migliore, e di certo più colta, della mia.
+Fra il piccolo gruppo di dodici che formava la nostra società c'era
+Robert Vernède, che pure imitava Swinburne, ma che era capace
+di apprezzare quanto [[Well|bene]] Swinburne imitasse i poeti greci.
+È [[Melancholy|malinconico]] e divertente riflettere che di tutti quegli ardenti
+echi swinburniani io ricordi solo un'eco di [[Parody|parodia]];
+in cui lo stile dei primi cori di Vernède, alla maniera di Atalanta,
+fu reso da Bentley nella forma di un congedo a lui rivolto quando
+si allontanava dal tavolino da tè:
+
+  Che il latte versato
+  sia il sorso del gatto,
+  ché di sotto la tavola,
+  dal posto dov'egli sedette,
+  i piedi dei suoi stivali son partiti;
+  egli ha vedovato la sala del suo cappello.
+
+Vernède e Bentley erano assai intimi; e avevano qualcosa in comune
+nella loro [[Union|unione]] di immobilità e attività; ma l'immobilità di Vernède
+non era arida e seria come quella dell'altro; bensì sonnolenta e orientale,
+come quella di un Buddha, o (come i suoi primi amici erano più inclini
+a fargli notare) di un gatto. Aveva quel volto ovale, quasi giapponese, che
+si può vedere in un certo [[Blood|sangue]] della Francia meridionale da cui proveniva.
+Visse abbastanza da diventare un poeta valente e promettente e da scrivere, allo scoppio
+dei combattimenti, una nobile invocazione al Mare Inglese, che moltitudini
+devono ancora ricordare. Ma la sua piena promessa di poeta non la mantenne;
+perché ne mantenne una migliore, ed è morto sul campo dell'[[Honour|onore]].
+
+Del resto, è assai tipico della differenza fra i due
+o tre tipi che l'opera di E. C. B., il mio primo e in ogni senso
+originale amico, fosse l'unica in tutto il giornale che avrebbe potuto
+essere pubblicata dalla stessa persona quindici anni dopo.
+Quali che fossero gli altri meriti relativi delle nostre menti, la sua era di gran lunga
+la più matura; forse proprio perché in gran parte si limitava
+a essere critica o frivola. Comunque sia, le favole di nonsenso
+che scriveva per il giornale sarebbero state ottimi trafiletti
+in un qualsiasi vero giornale. Non c'era nulla di particolarmente giovanile
+in esse e, di tutti gli uomini che ho conosciuto, è l'uomo la cui mente
+è meno cambiata, ha meno perduto il proprio equilibrio e, soprattutto,
+ha avuto il minor numero dei primi errori giovanili nel trovare quell'equilibrio.
+Aveva anche, come ho detto, una sorta di calma versatilità;
+sapeva realizzare i piani altrui e migliorarli;
+sapeva, come si dice, mettere mano a qualsiasi cosa.
+Su quell'assurdo straccetto di giornale scolastico, i tre
+originari scrivevano lettere a turno, in tre personaggi immaginari;
+e credo che i suoi fossero i migliori. Vent'anni dopo, quando Belloc ed io
+avviammo un progetto di Ballate per l'Eye Witness, Bentley vi fu chiamato
+in seguito, allo stesso modo; e credo che i suoi fossero i migliori.
+Ma era a quel [[Time|tempo]] e forse a lungo dopo troppo distaccato
+e ironico per farsi notare in rapporto a una causa, o a una qualsiasi
+di quelle cose in cui la gioventù è generalmente insieme comunitaria e combattiva.
+Quando alcuni di noi fingevano di essere Cavalieri della Tavola Rotonda,
+egli si accontentava di essere Dagonet il [[Fool|Buffone]], o in altre parole,
+il saggio. E fu nel personaggio di uno straordinariamente
+solenne buffone che cominciò ad attirare l'attenzione dei più anziani.
+Quando il vecchio Rettore della St. Paul's School scorse con l'occhio
+una versione del Cane nella Mangiatoia, che descriveva il bestiame
+come impedito «di rinfrescare le proprie mucche interiori», scoppiò
+in ultraterrene convulsioni della sua straordinaria risata che,
+come gli altri moti della sua straordinaria voce, cominciava come un
+organo e finiva come un fischietto da un penny. «Quel ragazzo guarda il mondo
+stando a testa in giù», disse il Rettore della St. Paul's School;
+e all'istante fummo in piena luce dei riflettori.

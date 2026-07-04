@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/gkc-autobiography-(chesterton)">GKC Autobiography</a> › <a href="/testi/chesterton/atomized/gkc_autobiography/chapter_03">Chapter 03</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/gkc_autobiography/chapter_03/part_04">‹ part 04</a><a class="ex-next" href="/testi/chesterton/atomized/gkc_autobiography/chapter_03/part_06">part 06 ›</a></div>
@@ -108,3 +110,107 @@ so low as to write stories, even crime stories, like myself;
 which some regard as almost tantamount to joining the criminal classes.
 But I do not believe any of his stories would be probable
 enough for fiction.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/gkc-autobiography-(chesterton)">GKC Autobiography</a> › <a href="/testi/chesterton/atomized/gkc_autobiography/chapter_03">Chapter 03</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/gkc_autobiography/chapter_03/part_04">‹ part 04</a><a class="ex-next" href="/testi/chesterton/atomized/gkc_autobiography/chapter_03/part_06">part 06 ›</a></div>
+</nav>
+
+Un giorno rimasi impietrito dallo stupore nel trovare il mio nome in un
+annuncio sulla bacheca, che diceva che mi sarebbero stati concessi
+i privilegi della classe più alta, benché non vi appartenessi.
+La cosa produsse in me il [[Desire|desiderio]] che mi fossero concessi i privilegi
+e la protezione della carbonaia, e di non uscirne mai più.
+Nello stesso [[Time|tempo]] appresi che una speciale sezione della classe più alta era stata
+in effetti creata per i miei due amici principali, affinché
+potessero prepararsi per le borse di studio in [[history|Storia]] alle Università. Tutto questo
+sembrava come l'universo stesso che si disfaceva e si capovolgeva;
+e in verità ogni sorta di cose accadde intorno a quel [[Time|tempo]] che parevano
+del tutto al di fuori delle leggi della [[Nature|natura]]. Ottenni un premio, per esempio;
+quello che si chiamava il Premio [[Milton]] per quella che si chiamava una poesia da premio;
+immagino fosse pressappoco cattiva quanto tutte le altre [[Poems|poesie]] da premio, ma
+sono felice di dire che non ne ricordo una sola sillaba.
+Ricordo però il soggetto, non senza un lieve fremito d'ironia;
+perché il soggetto era San Francesco Saverio, il grande gesuita che predicò
+ai Cinesi. Rammento queste cose, così contrarie al precedente
+corso della mia vita scolastica, perché non mi dispiace essere un'eccezione
+alla moderna tendenza a rimproverare il vecchio maestro vittoriano
+di stupidità e trascuratezza e a rappresentare la nuova generazione
+come una fulgida schiera di Shelley ispirati dalla luce e dalla libertà a sollevarsi.
+La [[Truth|verità]] è che in questo caso fui io a esibire la stupidità;
+benché io creda davvero che fosse in gran parte una stupidità simulata.
+E di certo fui io a rallegrarmi della trascuratezza, e a non chiedere
+niente di meglio che essere trascurato. Furono semmai
+le autorità a trascinarmi, mio malgrado, fuori dalla
+comoda e protetta atmosfera dell'oscurità e del fallimento.
+Personalmente, ero perfettamente felice in [[Bottom|fondo]] alla classe.
+
+Del resto, credo che la principale impressione che produssi, sulla maggior parte
+dei professori e su molti ragazzi, fosse la convinzione abbastanza [[Well|ben]] fondata
+che io dormissi. Forse ciò che nessuno sapeva, nemmeno io stesso, era che io
+dormivo e sognavo. I [[Dreams|sogni]] non erano molto più sensati
+o preziosi di quanto comunemente siano nelle persone in così profondo sonno;
+ma avevano già questo oscuro effetto sulla mia esistenza:
+che la mia mente era già occupata, benché io stesso fossi ozioso.
+Prima di stringere le poche amicizie speciali di cui parlo,
+ero piuttosto solitario; non spiccatamente impopolare né in alcun
+senso perseguitato, ma solitario. Ma benché fossi solitario,
+non me ne dispiacevo; e credo di poter affermare che non ero imbronciato.
+Un effetto di questo fu che le mie prime conoscenze, a differenza
+dei miei amici definitivi, erano gente strana e sconclusionata come me.
+Questi individui erano incidenti; uno o due di loro [[Fear|temo]]
+fossero disastri. Ricordo un giovane che fece una sola comparsa
+nella mia vita quotidiana, e che mi lasciò perplesso come un racconto [[Detective|poliziesco]].
+Non riesco a immaginare come io giunsi a coltivarne la compagnia; ancor meno
+come egli giunse a coltivare la mia. Perché era un brillante matematico,
+e doveva presumibilmente aver lavorato sodo in matematica; mentre io
+lavoravo alla matematica, se possibile, meno che a qualsiasi altra cosa.
+Per giunta, io ero assai disordinato ed egli assai ordinato, con un ampio e pulito
+colletto e una giacca alla Eton, e anche un gran capo assai ordinatamente
+spazzolato ma qualcosa di strano e forse troppo maturo nel suo volto da rana.
+Un giorno mi chiese se potevo prestargli una Algebra di Hall & Knight.
+Quanto all'entusiasmo per quello studio potevo rispondere: «Il
+tuo bisogno è più grande del mio», con tutto il gesto di Sir Philip Sidney;
+ma dovevo pur prestare un minimo di attenzione alla classe di matematica;
+sicché, nel prestargli il libro, gli dissi che l'avrei rivoluto
+in una qualche [[Time|data]] della settimana seguente. Con l'avvicinarsi del [[Time|momento]], fui molto stupito
+dal fatto che mi risultasse assai difficile riaverlo.
+Mi dava risposte evasive; frapponeva rinvii e vaghe promesse;
+finché alla fine litigai con lui, usando quelle parole d'azione
+che tra gli scolari sono in realtà più frequenti come parole che come azioni;
+ma comunque a indicare che avrei fatto un serio tentativo
+di prenderlo a pugni sulla testa. A questa minaccia egli infine capitolò;
+e mi condusse infine al suo armadietto, che aprì con riluttanza.
+E il suo armadietto era stipato dall'alto in [[Bottom|basso]] di circa venticinque
+copie identiche dell'Algebra di Hall & Knight, che egli aveva
+presumibilmente raccolto con arti simili da conoscenti simili.
+Credo che lasciasse la scuola più tardi, senza alcuno scandalo particolare;
+e [[Hope|spero]] che il pover'uomo abbia recuperato altrove il suo equilibrio mentale.
+Non scrivo in spirito di superiorità; ero io stesso ben capace, in molti
+stadi precoci, di impazzire in modo tranquillo; ma non per un esagerato
+appetito dell'Algebra di Hall & Knight.
+
+C'era un altro ragazzino con cui andavo a scuola nella
+stessa fortuita compagnia; un ragazzino assai compìto e per bene,
+come si conveniva al figlio del venerabile e alquanto ponderoso ecclesiastico
+che occupava uno dei più alti incarichi scolastici della scuola.
+Anch'egli era assai ordinato, anch'egli era un allievo abbastanza diligente;
+e anch'egli aveva una peculiarità. Era il più fertile, fluente e
+davvero disinteressato bugiardo che io abbia avuto il piacere di conoscere.
+Non c'era nulla di vile o materialistico nella sua mendacità;
+non cercava d'ingannare nessuno né di ottenere alcunché;
+si vantava semplicemente come il Barone di Münchhausen, con toni pacati e persino uniformi,
+per tutta la strada da Holland Park a Hammersmith. Raccontava le più
+sbalorditive storie su se stesso, senza alzare la voce
+né mostrare il minimo imbarazzo; e non c'era nient'altro
+di notevole in lui. Mi sono spesso chiesto che ne fu
+di lui; e se abbia seguito il padre nella Chiesa.
+Potranno ribattere gli spiriti leggeri che egli possa essere caduto
+tanto in basso da scrivere racconti, persino racconti polizieschi, come me;
+il che alcuni considerano quasi equivalente all'entrare nelle classi criminali.
+Ma non credo che alcuna delle sue storie sarebbe abbastanza verosimile
+per la narrativa.

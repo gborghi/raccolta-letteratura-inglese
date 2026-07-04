@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/gkc-all-is-grist-(chesterton)">GKC All is Grist</a> › <a href="/testi/chesterton/atomized/gkc_all_is_grist/chapter_01">Chapter 01</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/gkc_all_is_grist/chapter_01/part_44">‹ part 44</a><span></span></div>
@@ -77,3 +79,76 @@ But I advise such writers to defer the study of the [[Body]] and begin
 to employ the Mind.
 
 XXXVIII.  On Algernon Charles Swinburne
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/gkc-all-is-grist-(chesterton)">GKC All is Grist</a> › <a href="/testi/chesterton/atomized/gkc_all_is_grist/chapter_01">Chapter 01</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/gkc_all_is_grist/chapter_01/part_44">‹ part 44</a><span></span></div>
+</nav>
+
+Questo è un ovvio esempio del pasticcio moderno, ma è
+un esempio irritante.  Se certi atti siano malvagi o no
+lo dibatteremo quando l'affermazione ci sarà fatta chiaramente.
+Ma una cosa non può essere tanto malvagia da render folle il solo suggerirla,
+e tanto innocente da render incolpevole il farla.  Vi sono, tuttavia,
+un gran numero di altre confusioni che ogni uomo dal pensiero chiaro può
+scorgere nel commento moderno.  Parliamo della filosofia pagana;
+ma il guaio dei nostri pagani è che non hanno filosofia.
+Parliamo, per una sorta d'abitudine, di Pensiero Moderno, dimenticando
+il fatto notorio che i moderni non pensano.  Essi soltanto sentono,
+ed è per questo che sono tanto più forti nella narrativa che nei fatti;
+per questo i loro romanzi sono tanto migliori dei loro giornali.
+Il commento corrente su tutte queste cose non è nemmeno pagano; è
+la più bizzarra sorta di rappezzatura di idee pagane e puramente cristiane.
+
+Per esempio, qualcuno di sicuro dirà nel dibattito sul Decoro:
+«Non è forse bello il [[Body|corpo]] umano?»  A cui qualcuno un po' più
+sensato sarà pienamente in diritto di rispondere: «No».  Se è scozzese,
+e perciò filosofo socratico, sarà in diritto di rispondere
+alla domanda con una domanda, e dire: «È bello l'ippopotamo?»
+L'ippopotamo è certamente naturale, anche se ha un aspetto innaturale.
+È certamente nudo, e non accetta regolamento alcuno su tende da bagno
+o costumi da bagno.  Ma il mero fatto che sia naturale non
+ci fa, nel senso ordinario, ammettere che sia bello.
+Personalmente, per parte mia, lo trovo bello; ma d'altronde
+ho un gusto gotico per il [[Grotesque|grottesco]], nutrito di [[gargoyles|gargolle]].
+So che cosa intendo quando dico che le [[gargoyles|gargolle]] possono essere belle.
+Ma i materialisti moderni non sanno che cosa intendano quando dicono
+che gli uomini debbono essere belli.
+
+Tutto quel discorso sulla divinità e la dignità del [[Body|corpo]] umano è
+rubato dalla teologia, ed è del tutto privo di senso senza la teologia.
+Risale al [[Garden|Giardino]] dell'Eden, e all'idea (che mi capita di
+tenere fermamente) che Dio creò l'Uomo a Sua immagine.  Ma, se si rimuove
+quell'idea religiosa, non v'è più senso nel dire che ogni essere
+umano è amabile di quanto ve ne sia nel dire che ogni ippopotamo è amabile.
+È questione di gusti; e molti di noi, dopo aver osservato un numero
+sufficiente di esseri umani a Brighton, potrebbero preferire l'ippopotamo.
+
+I vecchi atei avevano una teoria della vita, che poteva enunciarsi
+come un ragionamento connesso.  I vecchi teologi avevano una teoria
+della vita, che poteva enunciarsi come un ragionamento connesso.
+Ma i moderni che si dicono Pagani non hanno alcuna teoria connessa
+che si possa affatto enunciare.  La loro visione della vita è un guazzabuglio
+di idee umane e sovrumane e infraumane, raccolte dappertutto
+e connesse in nessun luogo.  Il pasticcione moderno ama pensare
+d'essere il Superuomo; ama pensare d'essere l'immagine di Dio;
+ama pensare come gli aggrada; ma preferisce non pensare affatto.
+Se avesse l'[[Humility|umiltà]] di comportarsi da bestia, saremmo almeno
+liberi dall'obbligo di considerarlo un dio.
+Non saremmo tenuti ad ammettere che ogni bestia è bella;
+nutrendo forse dubbi religiosi sull'ippopotamo o sul bucero.
+Se aspirasse chiaramente e coerentemente alla [[Beauty|bellezza]], potremmo chiedergli
+d'aggiungervi un po' di dignità.  Ma di fatto egli è tornato
+al caos, dove non v'è domanda, né v'è risposta alcuna.
+Se l'uomo esce dal caos, per cieca evoluzione o per mera crescita a tentoni,
+non v'è più senso nel chiamar nobile il suo [[Body|corpo]] di quanto ve ne sia nel chiamar
+nobile un qualsiasi grumo di fungo o di cactus.  Se è nobile, lo è per
+qualche patente di nobiltà; e la nobiltà è conferita da un [[King|Re]].
+Ma consiglio simili scrittori di rimandare lo studio del [[Body|Corpo]] e cominciare
+a impiegare la Mente.
+
+XXXVIII.  Su Algernon Charles Swinburne

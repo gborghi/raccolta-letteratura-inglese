@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/gkc-autobiography-(chesterton)">GKC Autobiography</a> › <a href="/testi/chesterton/atomized/gkc_autobiography/chapter_01">Chapter 01</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/gkc_autobiography/chapter_01/part_01">‹ part 01</a><a class="ex-next" href="/testi/chesterton/atomized/gkc_autobiography/chapter_01/part_03">part 03 ›</a></div>
@@ -116,3 +118,33 @@ that about the age of three or four, I screamed for a hat hanging
 on a peg, and at last in convulsions of fury uttered the awful words,
 "If you don't give it me, I'll say 'at." I felt sure that would
 lay all my relations prostrate for miles around.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/gkc-autobiography-(chesterton)">GKC Autobiography</a> › <a href="/testi/chesterton/atomized/gkc_autobiography/chapter_01">Chapter 01</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/gkc_autobiography/chapter_01/part_01">‹ part 01</a><a class="ex-next" href="/testi/chesterton/atomized/gkc_autobiography/chapter_01/part_03">part 03 ›</a></div>
+</nav>
+
+«Lei è un Monumento», disse lo strano gentiluomo, «Signore, lei è una Pietra Miliare».
+
+Mio nonno, un poco lusingato, mormorò cortesemente che erano certamente stati a Kensington per un certo [[Time|tempo]].
+
+«Lei è un Personaggio Storico», disse lo sconosciuto ammirato. «Ha mutato l'intero destino della Chiesa e dello Stato».
+
+Mio nonno continuava a supporre con leggerezza che questa potesse essere una maniera poetica di descrivere una fiorente agenzia [[house|immobiliare]]. Ma una luce cominciò a farsi strada nella mente di mio padre, che aveva meditato a fondo su tutti i movimenti della High Church e della Broad Church ed era [[Well|ben]] ferrato in tali materie. Si ricordò all'improvviso del caso «Westerton contro Liddell», in cui un guardiano di chiesa protestante processò un parroco per uno dei più oscuri delitti del Papismo, forse quello di indossare una cotta.
+
+«E [[Hope|spero]] soltanto», proseguì lo sconosciuto con fermezza, rivolgendosi ancora al Campione Protestante, «che le funzioni alla Chiesa Parrocchiale siano ora condotte in un modo che lei approva».
+
+Mio nonno osservò in tono affabile che non gliene importava nulla di come fossero condotte. Queste notevoli parole del Campione Protestante indussero il suo adoratore a contemplarlo con una nuova [[Dawn|aurora]] di [[Wonder|meraviglia]], quando mio padre intervenne e spiegò l'equivoco, mettendo in luce la sottile sfumatura che divide Westerton da Chesterton. Posso aggiungere che mio nonno, quando si raccontava la storia, insisteva sempre di aver aggiunto alla frase «non m'importa come siano condotte» le parole qualificanti (ripetute con un [[Grave|grave]] gesto della mano) «purché sia con riverenza e sincerità». Ma mi addolora dire che gli scettici della generazione più giovane ritenevano che questo fosse un ripensamento.
+
+Il punto è, tuttavia, che mio nonno fu compiaciuto, e non davvero molto stupito, di essere chiamato un monumento e una pietra miliare. E ciò era tipico di molti uomini del ceto medio, anche nei piccoli commerci, in quel mondo remoto. Poiché quella particolare specie di borghesia britannica di cui sto parlando è stata così tanto mutata o ridotta, che non si può dire esattamente che esista oggi. Nulla di esattamente simile ad essa, almeno, si può trovare in Inghilterra; nulla di lontanamente simile, immagino, si trovò mai in [[America]]. Una peculiarità di questo ceto medio era che esso era davvero un ceto ed era davvero nel mezzo. Sia nel bene sia nel male, e certo spesso fino all'eccesso, era separato tanto dalla classe che gli stava sopra quanto da quella che gli stava sotto. Conosceva assai troppo poco le classi lavoratrici, con [[Grave|grave]] pericolo per una generazione successiva. Conosceva assai troppo poco perfino i propri domestici. La mia gente fu sempre molto gentile con i domestici; ma nella classe nel suo insieme non c'era né la rozza familiarità nel lavoro, che appartiene alle democrazie e si può osservare nelle massaie schiamazzanti e imprecanti del Continente, né i resti di una cordialità feudale come quella che indugia nella vera aristocrazia. C'era una sorta di [[Silence|silenzio]] e di imbarazzo. Ciò fu illustrato in un altro aneddoto per sentito dire, che posso qui aggiungere all'aneddoto del Campione Protestante. Una signora della mia famiglia andò ad abitare nella [[house|casa]] di un'amica in assenza di quest'ultima, per essere servita da una sorta di domestica di rango superiore. La signora si era ficcata in testa che la domestica cucinasse i propri pasti separatamente, mentre la domestica era altrettanto ferma nella politica di mangiare ciò che avanzava dai pasti della signora. La domestica mandò in tavola, poniamo, cinque fette di pancetta per la colazione; il che era più di quanto la signora volesse. Ma la signora aveva un altro fisso capriccio di [[Conscience|coscienza]], comune alle signore dell'epoca. Riteneva che nulla dovesse essere sprecato; e non riusciva a vedere che perfino una cosa consumata è sprecata se non è desiderata. Mangiò le cinque fette e la domestica di conseguenza ne mandò in tavola sette. La signora impallidì un poco, ma seguì il sentiero del dovere e le mangiò tutte. La domestica, cominciando a sentire che anche a lei sarebbe piaciuta una piccola colazione, ne mandò su nove o dieci. La signora, radunando tutte le sue forze, le caricò a testa bassa e le spazzò via dal campo. E così, suppongo, la cosa proseguì; a causa del cortese [[Silence|silenzio]] tra le due classi sociali. Non oso pensare a come sia finita. La conclusione logica parrebbe essere che la domestica morì di fame e la signora scoppiò. Ma suppongo che, prima di giungere a quel punto, qualche comunicazione fosse stata aperta anche tra due persone che vivevano su due piani della stessa [[house|casa]]. Ma quello era certamente il lato debole di quel mondo; che esso non estendeva la propria confidenza domestica ai domestici. Sorrideva e si sentiva superiore leggendo dei vassalli del mondo antico che pranzavano sotto il sale, e continuava a sentirsi altrettanto superiore ai propri vassalli, che pranzavano sotto il pavimento.
+
+Ma per quanto possiamo criticare il vecchio ceto medio, e per quanto di cuore possiamo unirci a quelle immortali parole del [[Song|Canto]] del Futuro, che si dice recitino:
+
+  Coscienti di classe siamo, coscienti di classe saremo;
+  Finché il nostro piede non sarà sul collo della borghesia,
+
+esso ha diritto alla giustizia storica; e vi sono altri punti da ricordare. Un punto è che furono in parte le reali «conquiste culturali» di questo strato del ceto medio, e il fatto che esso fosse davvero una classe istruita, a renderlo indebitamente sospettoso dell'influenza dei domestici. Attribuiva anche troppa importanza allo scrivere correttamente; attribuiva enorme importanza al parlare correttamente. E scriveva e parlava davvero correttamente. C'era tutto un mondo in cui nessuno era più incline a lasciar cadere un'acca che a raccogliere un titolo nobiliare. Scoprii presto, con la malizia dell'infanzia, che ciò di cui i miei maggiori avevano davvero paura era qualsiasi [[Imitation|imitazione]] dell'intonazione e della dizione dei domestici. Mi si racconta (per citare un altro aneddoto per sentito dire) che, verso i tre o quattro anni, urlai per avere un cappello appeso a un gancio, e alla fine, in convulsioni di furore, pronunciai le tremende parole: «Se non me lo dai, dirò 'appello». Ero certo che ciò avrebbe steso al suolo tutti i miei parenti per miglia all'intorno.

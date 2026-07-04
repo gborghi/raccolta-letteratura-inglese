@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/gkc-autobiography-(chesterton)">GKC Autobiography</a> › <a href="/testi/chesterton/atomized/gkc_autobiography/chapter_07">Chapter 07</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/gkc_autobiography/chapter_07/part_07">‹ part 07</a><a class="ex-next" href="/testi/chesterton/atomized/gkc_autobiography/chapter_08/part_01">part 01 ›</a></div>
@@ -71,5 +73,20 @@ upon other strong tyrants who had trampled on the weak; and was
 fiercely nailing the arrogant princes of Prussia with Responsibility
 for the invasion of Belgium.  So do paper sophistries go up
 in a great [[Fire|fire]].
+
+*****
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/gkc-autobiography-(chesterton)">GKC Autobiography</a> › <a href="/testi/chesterton/atomized/gkc_autobiography/chapter_07">Chapter 07</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/gkc_autobiography/chapter_07/part_07">‹ part 07</a><a class="ex-next" href="/testi/chesterton/atomized/gkc_autobiography/chapter_08/part_01">part 01 ›</a></div>
+</nav>
+
+Quel giorno, insomma, sfuggii a un errore che tuttora irretisce molti uomini migliori di me. Sopravvive ancora l'idea che l'agnostico possa restare padrone sicuro di questo mondo, purché non desideri essere ciò che si chiama «ultraterreno». Egli può accontentarsi del buon senso circa gli uomini e le donne, purché non si faccia curioso dei misteri intorno agli angeli e agli arcangeli. Non è vero. Le domande dello scettico colpiscono dritte al cuore di questa nostra vita umana; scompigliano questo mondo, indipendentemente dall'altro; ed è proprio il buon senso ciò che più di tutto scompigliano. Non vi potrebbe essere esempio migliore di quella strana apparizione, negli anni della mia giovinezza, del determinista fattosi demagogo, che urlava a una folla di milioni di uomini che nessuno dovrebbe essere biasimato per alcunché avesse fatto, poiché tutto era eredità e ambiente. Logicamente, ciò dovrebbe arrestare un uomo nell'atto di dire «Grazie» a qualcuno che gli ha passato la mostarda. Poiché come si potrebbe lodarlo per aver passato la mostarda, se non lo si potesse biasimare per non averla passata? So bene che si può sostenere che il fatalismo non muti nulla nei fatti della nostra vita. Alcuni dicono che i fatalisti possono continuare tranquillamente a punire o a biasimare. Altri dicono (professandosi, con non poco [[Humour|umorismo]], umanitari) che possono smettere di biasimare ma continuare a punire. Ma se il determinismo non facesse alcuna differenza, perché mai Blatchford avrebbe dovuto tuonare furibondo da un pulpito circa la differenza che esso faceva? La spiegazione era da cercarsi in Blatchford stesso. Era un uomo assai normale per essere approdato a un'eresia tanto anomala; un vecchio soldato dagli occhi bruni all'italiana e i baffi da tricheco, colmo di quei medesimi sentimenti che i soldati hanno e che i socialisti in genere non hanno. Era un fermo patriota e non poco conservatore; certamente più che mai protezionista. Ma questo Determinismo lo attraeva attraverso un altro sentimento assai normale: il sentimento della compassione più pura. Chiamò il suo libro di opuscoli deterministici un'arringa «in favore dell'ultimo». Ed era evidente che egli pensava per tutto il tempo a quella sorta di persona povera, malfamata e spesso oppressa che si può davvero dire l'ultimo. Per lui, e per molti altri uomini di sentimenti moderni sani ma vaghi, la nozione di peccatore si collegava interamente alla nozione dell'ubriacone o del vagabondo ladruncolo o di qualche scapestrato in guerra con la società. Nel sistema sociale grossolanamente ingiusto in cui viviamo, è assai probabile che molti di costoro siano davvero puniti ingiustamente; che alcuni non dovrebbero essere puniti affatto; che alcuni, forse, non siano davvero responsabili di nulla. E Blatchford, vedendoli trascinati in [[Prison|prigione]] a frotte, non provava né più né meno che pietà per i deboli e gli sventurati; il che era, nel peggiore dei casi, un'esagerazione un po' sbilenca della [[Charity|carità]] cristiana. Era così ansioso di perdonare che negava la necessità stessa del [[Forgiveness|perdono]].
+
+E da tutti questi [[Dreams|sogni]] del passato mi ridesto d'un tratto, e con qualcosa che somiglia a uno scoppio di risa. Poiché l'episodio successivo della mia vita fu quello di aiutare certi amici e riformatori a inchiodare la terribile [[Truth|verità]] chiamata Responsabilità, non ai vagabondi o agli ubriaconi, ma ai governanti dello Stato e agli uomini più ricchi dell'Impero. Cercavo di mettere una catena e un collare di Responsabilità non all'ultimo, ma al primo. E la cosa successiva che mi accadde di sentire su Blatchford fu che anch'egli, scoppiando d'indignazione, reclamava giustizia, castigo, vendetta quasi senza perdono, contro altri forti tiranni che avevano calpestato i deboli; e inchiodava ferocemente gli arroganti principi di Prussia con la Responsabilità dell'invasione del Belgio. Così i sofismi di carta se ne vanno in un gran [[Fire|incendio]].
 
 *****

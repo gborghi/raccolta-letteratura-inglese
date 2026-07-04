@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/gkc-all-is-grist-(chesterton)">GKC All is Grist</a> › <a href="/testi/chesterton/atomized/gkc_all_is_grist/chapter_01">Chapter 01</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/gkc_all_is_grist/chapter_01/part_40">‹ part 40</a><a class="ex-next" href="/testi/chesterton/atomized/gkc_all_is_grist/chapter_01/part_42">part 42 ›</a></div>
@@ -115,3 +117,114 @@ one nation in the Middle Ages; at least, in the early Middle Ages.
 The English kings especially were always trying to make them one nation;
 but then it must be remembered that, in a sense, even the English
 kings were French kings.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/gkc-all-is-grist-(chesterton)">GKC All is Grist</a> › <a href="/testi/chesterton/atomized/gkc_all_is_grist/chapter_01">Chapter 01</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/gkc_all_is_grist/chapter_01/part_40">‹ part 40</a><a class="ex-next" href="/testi/chesterton/atomized/gkc_all_is_grist/chapter_01/part_42">part 42 ›</a></div>
+</nav>
+
+XXXIV.  Pensieri in Canada
+
+Non ho bisogno di dire ciò che prova, o dovrebbe provare, ogni inglese normale
+quando risale il San Lorenzo, sotto gli alti trofei
+delle Alture di Abraham, né ho mai ostentato alcuna nuova
+stravaganza a proposito di un simile sentimento.  I miei pensieri, mentre ero là,
+tornarono in un lampo alla piccola città fra le colline del Kent
+dove ero stato appena poche settimane prima: la piccola città
+dove nacque James Wolfe e dove ancora si erge la sua statua,
+la spada in pugno, in una posa spavalda, romantica ma non fuori luogo.
+Poiché Wolfe, che fu uno dei più interessanti eroi inglesi,
+era egli stesso una netta smentita della volgare e prosaica versione
+dell'eroismo inglese.  È strano che si sia mai potuto
+parlare degli inglesi come se dovessero essere pesanti, ottusi e brutali.
+È ancor più sbalorditivo che essi abbiano mai potuto
+essere fieri di essere pesanti, ottusi e brutali.  Non ci sarebbe nulla
+di cui esser fieri; e, di fatto, non è neppure qualcosa
+di cui vergognarsi.  Storicamente parlando, è un'affettazione recentissima:
+un misto della cattiva moda di scimmiottare la Prussia e della crescita
+di un materialismo moderno che si fa solenne sullo sport perché
+non ha altri riti da solennizzare.
+
+Gli inglesi erano più sportivi nello sport ai tempi del
+generale James Wolfe; e la battaglia delle Alture di Abraham fu
+vinta sul prato del villaggio, con mazze e paletti vecchi e fradici.
+E gli uomini che rappresentarono l'Inghilterra, nei giorni in cui il suo Impero
+era davvero un'avventura, erano l'esatto opposto di quella sorta di maiali
+impagliati che si chiamano uomini forti e taciturni.  Nelson e Wolfe, i due
+nomi più nobili dell'azione inglese per terra e per mare, erano entrambi
+uomini di specie esattamente opposta: sensibili, poetici, perfino afflitti
+da ciò che si chiama temperamento artistico.  Nelson soffriva
+di qualcosa che è persino peggiore del temperamento artistico:
+il mal di mare.  Wolfe era del tipo esile e sensibile, e non doveva
+nulla del suo coraggio alla brutalità.  Egli stesso, credo, era
+un artista di matita, di notevole grazia e talento:
+era devoto ai libri, e, che citasse o meno
+l'Elegia di Gray mentre risaliva il San Lorenzo verso la morte e la gloria,
+era esattamente il genere di cosa che avrebbe fatto.  Ma vi è
+un altro aspetto della fine cultura e della dignità in Wolfe e nei più antichi
+eroi inglesi che mi sembra insegnare una lezione triste ma salutare.
+Mentre passavo davanti a Quebec, un compagno di viaggio mi raccontò una cosa
+che non avevo mai udito prima, e che molto mi commosse.  Con tutto il nostro
+parlare di giri del mondo e di turismo, mi pare che alcuni
+degli spettacoli più belli del globo siano trascurati o non apprezzati.
+Fu solo da un simile straniero occasionale che mi fu detto una volta,
+ciò che spero sia vero, che sulla catena montuosa fra due
+Repubbliche sudamericane, che avevano fatto pace fra loro,
+sorge una colossale figura di Cristo; a quanto pare una delle più grandi,
+e certo una delle più impressionanti, statue del mondo.
+Ma essa sorge, se davvero sorge, sola ed enorme sulle montagne.
+
+In modo alquanto simile avevo veduto molti tributi a Wolfe,
+d'ogni sorta, degni e indegni.  L'avevo visto in manifesti patriottici,
+raffigurato fianco a fianco con persone che avrebbe intensamente detestato,
+come Cecil Rhodes.  Ma fu solo questa informazione fortuita
+a rivelarmi che su quel luogo elevato è stato eretto un monumento
+a Wolfe e Montcalm insieme, con una bella iscrizione latina
+che dice come la sorte diede loro la stessa morte e lo stesso onore.
+
+E quando pensai a quella degna commemorazione, di quei due grandi
+e valorosi soldati, mi venne in mente che essi erano, in verità,
+più vicini fra loro, persino in vita, di quanto lo siano oggi la maggior parte
+dei loro consanguinei.  V'erano differenze reali, s'intende; Montcalm era
+un nobile e Wolfe un uomo del ceto medio, salito per merito;
+ma la loro idea delle maniere, del codice d'onore, e del sapere
+necessario a un gentiluomo sarebbe stata pressoché la stessa.
+Nessuno dei due avrebbe trovato strano che un soldato andasse in giro
+citando poesia; entrambi avrebbero trovato del tutto ordinario e ovvio
+citare Orazio.  Immagino vi fosse una separazione assai più vasta,
+all'inizio della Grande Guerra, fra French e Foch.
+I generali di un tempo erano più vicini fra loro come nemici di quanto
+lo fossero i generali moderni come alleati.  Con ciò non intendo riferirmi
+ad alcuno di quei litigi sui litigi, alle voci di rivalità
+o d'attriti nell'alto comando, che si verificano in tutte le guerre,
+e possono facilmente verificarsi anche fra concittadini.  Intendo dire che l'intera
+costituzione della mente di un uomo come Foch era più esclusivamente francese,
+e più enigmatica per un uomo che fosse esclusivamente inglese, di quanto
+lo fosse un grande nobile continentale per un inglese erudito come Wolfe.
+Il latino di Orazio era un legame fra due gentiluomini del Settecento,
+fossero francesi o inglesi.  Il latino della Messa, udito da un
+soldato francese, non è un legame con il latino della grammatica latina
+vagamente ricordato da un soldato inglese.
+
+Ci viene detto di continuo, oggi, che le nazioni si vanno avvicinando
+l'una all'altra; si suppone che il signor Wells sia impegnato in una Cospirazione Aperta
+in materia; posso solo dire che, se è aperta, non è affatto ovvia.
+Mi duole dire che ne dubito gravemente.  Temo che i francesi
+e gli inglesi, in questo momento, si comprendano assai
+meno di quanto facessero non solo quando erano alleati nella Grande Guerra,
+ma persino quando erano nemici nelle guerre più antiche e minori.
+Anzi, più indietro andiamo, più i francesi e gli inglesi
+si avvicinano.  Il Principe Nero e Bertrand Duguesclin erano persino
+più capaci di comprendersi a vicenda di quanto lo fossero Montcalm e Wolfe.
+Ciò non avrebbe impedito loro, s'intende, di uccidersi a vicenda,
+il che rientrava tutto nel gioco.  Ma sarebbero stati assai più d'accordo circa
+le regole del gioco, e specialmente circa le regole dell'uccidere.
+La verità è, s'intende, che Francia e Inghilterra erano quasi
+una sola nazione nel Medioevo; almeno nell'alto Medioevo.
+I re inglesi, in particolare, cercavano sempre di farne una sola nazione;
+ma bisogna allora ricordare che, in un certo senso, persino i re
+inglesi erano re francesi.

@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/gkc-autobiography-(chesterton)">GKC Autobiography</a> › <a href="/testi/chesterton/atomized/gkc_autobiography/chapter_09">Chapter 09</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/gkc_autobiography/chapter_09/part_02">‹ part 02</a><a class="ex-next" href="/testi/chesterton/atomized/gkc_autobiography/chapter_09/part_04">part 04 ›</a></div>
@@ -122,3 +124,37 @@ devotion took the form of an instant appreciation of its moral danger.
 He came [[Home|home]] from the Matin explanation, shaken and horror-stricken,
 and he printed in his paper the words, "Political corruption is
 the [[Achilles]] heel of Liberalism."
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/gkc-autobiography-(chesterton)">GKC Autobiography</a> › <a href="/testi/chesterton/atomized/gkc_autobiography/chapter_09">Chapter 09</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/gkc_autobiography/chapter_09/part_02">‹ part 02</a><a class="ex-next" href="/testi/chesterton/atomized/gkc_autobiography/chapter_09/part_04">part 04 ›</a></div>
+</nav>
+
+Circolano varie leggende in proposito. Una, per esempio, è la leggenda secondo cui avremmo denunciato certi Ministri del Gabinetto perché speculavano in Borsa. È assai probabile che ci prendessimo gioco di un uomo come Mr. Lloyd George, che s'era eretto a portavoce della [[Conscience|Coscienza]] Nonconformista e chiamava tutte le cappelle a mostrare l'antico spirito battagliero dei Puritani, proprio mentre compariva in un affare stranamente simile a una speculazione d'azzardo; così come denunceremmo un politico che, dopo aver bevuto champagne, si mettesse a promuovere una campagna proibizionista. Ma non lo denunceremmo per aver bevuto champagne, bensì per aver proibito lo champagne. Allo stesso modo, non denunceremmo un politico puritano per il fatto di giocare d'azzardo, quanto piuttosto per il fatto di parlare come se nessuno potesse mai giocare d'azzardo. Mio fratello, non c'è bisogno di dirlo, non era tipo da scandalizzarsi che qualcuno si concedesse una scommessa o una puntata; anche se forse gli avrebbe consigliato di tentare la sorte al Derby o alle Oaks piuttosto che alla Borsa. Ma, in realtà, l'idea stessa che la questione fosse quella di una semplice puntatina è una finzione. È una finzione, montata dai politici del [[Time|momento]], come maschera del fatto reale. L'accusa mossa ai Ministri della vicenda Marconi era di aver ricevuto una soffiata, o d'essere stati «ammessi al pianterreno», come si dice in gergo finanziario, da un appaltatore del [[government|governo]] il cui contratto era in quel [[Time|momento]] all'esame o in via d'accettazione da parte del [[government|Governo]]. Di fatto, quantomeno a prima vista, c'erano tutte le condizioni che compongono ciò che comunemente si chiama «una commissione segreta». Se l'accettazione della soffiata avesse o meno influito sull'accettazione del contratto era discutibile; ma la questione in gioco riguardava un contratto e una soffiata, non un'ordinaria puntatina in titoli e azioni. Il fatto cardine della situazione, s'intende, era che l'appaltatore del [[government|Governo]] era il fratello di uno di questi membri del [[government|Governo]]. Lo straordinario monopolio che il [[government|Governo]] concesse allora alla Marconi Company fu di fatto concesso al suo amministratore delegato, Mr. Godfrey Isaacs, fratello di Sir Rufus Isaacs, allora Procuratore Generale. Questi fatti da [[Alone|soli]] giustificavano quantomeno un'inchiesta; e i primi sforzi di tutti i politici furono diretti a impedire qualsiasi inchiesta.
+
+Finché l'editore dell'Eye-Witness non costrinse i politici a rivelare qualcosa, i politici avevano cominciato col protestare che non vi era assolutamente nulla da rivelare. Mr. Lloyd George parlò di semplici dicerie, sottintendendo dicerie prive di fondamento, «che passavano da una bocca immonda all'altra». Quel tal Samuel che si trovava a svolgere un incarico ministeriale in quel momento si alzò e asserì gratuitamente che nessuno dei suoi colleghi aveva mai avuto alcun legame finanziario con quella società; alludendo in modo vago alla Marconi Company. Sir Rufus Isaacs fece la medesima smentita vaga quasi con le stesse parole; anzi, tracciò un quadro alquanto pittoresco dei rapporti lontani, quasi glaciali, tra sé e Mr. Godfrey Isaacs; e raccontò d'aver incontrato una volta suo fratello «a una riunione di famiglia», e d'aver appreso per la prima [[Time|volta]] del [[success|buon esito]] del suo contratto col [[government|governo]]. Nel frattempo mio fratello, che era succeduto alla piena direzione del giornale e l'aveva ribattezzato New Witness, proseguiva un attacco dichiaratamente violento, per non dire ingiurioso, contro gli Isaacs, ma da ultimo e in gran parte sui trascorsi di Mr. Godfrey Isaacs come promotore di società [[ephemeral|effimere]]. Alla fine, Mr. Godfrey Isaacs querelò mio fratello per la diffamazione personale rivolta contro di lui; con grande gioia di mio fratello. È un fatto piuttosto notevole che il giorno stesso in cui giunse la risposta di mio fratello, in cui annunciava d'aver intenzione di giustificare o provare le proprie affermazioni, i politici mossero il primo passo verso il dire una parte della [[Truth|verità]]. Il passo può a prima vista sembrare strano. Consistette nel querelare per diffamazione un giornale francese chiamato Le Matin.
+
+Sembra strano; perché c'erano alcuni giornali inglesi ben più in vista da querelare. C'era il New Witness, che ruggiva a gran voce settimana dopo settimana chiedendo d'essere querelato. C'era il Morning Post, che diceva molte cose quasi altrettanto forti; c'era Mr. Maxse, sulla National Review, che diceva cose forti esattamente quanto le altre. Io stesso mi divertii tanto dell'incongruenza di questo diversivo straniero che pubblicai sul New Witness alcuni versi che cominciavano così:
+
+  Son tanto pronto a cogliere l'offesa,
+  Il mio spirito è tanto altero
+  Che, chiunque m'abbia insultato,
+  Qualche straniero dovrà morire.
+  Ho chiesto un risarcimento
+  (Ché il Times m'ha dato del 'ladro')
+  Contro un giornale in Alsazia,
+  Un giornale chiamato Le Juif.
+  E quando il Morning Post ha scovato
+  Certi omicidi da me architettati,
+  Un organo polacco della finanza
+  Si è subito scusato.
+  ... So che suona confuso,
+  Ma, come disse Mr. Lammle,
+  L'ira di un gentiluomo
+  Mi ribolle nella testa.
+
+Il metodo in sé, s'intende, è a questo [[Time|punto]] abbastanza noto. Si querela sempre qualche [[Fool|sciocco]] che ha frainteso i fatti, invece dei critici seri che i fatti li hanno colti giusti. E, nel caso di Le Matin, l'occasione fu semplicemente sfruttata come pretesto perché i Ministri coinvolti potessero dare la propria versione dei fatti reali prima che fosse troppo tardi. Con profondo stupore e sgomento di molti, ammisero che, a dispetto delle rassicuranti dichiarazioni in Parlamento, avevano in effetti ricevuto un gran numero di azioni dalla filiale americana della Marconi Company. La maggior parte dei fedeli Liberali che li seguivano rimase piuttosto sbalordita; ma nella consueta stampa di Partito la faccenda fu debitamente insabbiata. Naturalmente, la consueta stampa Tory avrebbe fatto esattamente la stessa cosa con un ordinario scandalo Tory, dei quali ce n'erano altrettanti. Ma vorrei qui nominare e mettere agli atti, honoris causa e per merito di sé stesso e del vero credo Radicale, il nome del compianto H. W. Massingham, direttore di The Nation, che [[Alone|solo]] in una simile crisi parlò e agì da uomo. Egli era devoto al Partito della Pace, del Risparmio e della [[Reform|Riforma]] quanto ogni altro; ma la sua devozione prese la forma di un immediato riconoscimento del suo pericolo morale. Tornò a [[Home|casa]] dalla spiegazione del Matin, scosso e inorridito, e stampò sul suo giornale queste parole: «La corruzione politica è il tallone d'[[Achilles|Achille]] del Liberalismo».

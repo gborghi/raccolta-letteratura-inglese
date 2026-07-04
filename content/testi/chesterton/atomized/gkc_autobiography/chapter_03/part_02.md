@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/gkc-autobiography-(chesterton)">GKC Autobiography</a> › <a href="/testi/chesterton/atomized/gkc_autobiography/chapter_03">Chapter 03</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/gkc_autobiography/chapter_03/part_01">‹ part 01</a><a class="ex-next" href="/testi/chesterton/atomized/gkc_autobiography/chapter_03/part_03">part 03 ›</a></div>
@@ -131,3 +133,130 @@ has ever heard of the Senior Debating Club.  There was the [[Union]],
 to which you belonged when you were in the top form, as you did other
 lawful and appalling things, such as dining with the High Master.
 But we no more anticipated that at our age, than we anticipated [[Death|death]].
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/gkc-autobiography-(chesterton)">GKC Autobiography</a> › <a href="/testi/chesterton/atomized/gkc_autobiography/chapter_03">Chapter 03</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/gkc_autobiography/chapter_03/part_01">‹ part 01</a><a class="ex-next" href="/testi/chesterton/atomized/gkc_autobiography/chapter_03/part_03">part 03 ›</a></div>
+</nav>
+
+I ragazzi, ho detto, vagano in tre. Tre è certamente il
+numero simbolico del [[Comradeship|cameratismo]], anche se non è sempre esattamente
+la stessa cosa dell'[[Friendship|amicizia]]. Ho avuto la fortuna di godere di entrambi,
+come i Tre Moschettieri, o i Tre Soldati del signor Kipling.
+Il primo dei miei amici, con cui lottai nel campo,
+ha poi scritto il miglior romanzo [[Detective|poliziesco]] dei tempi moderni e
+tuttora cela un senso dell'[[Humour|umorismo]] assai potente sotto il quasi
+impenetrabile travestimento di articolista del Daily Telegraph. Era,
+e in verità è ancora, notevole per la combinazione di una straordinaria
+gravità di volto con un'estrema agilità e prontezza di movimento.
+Solevo dire che aveva la testa di un professore sul [[Body|corpo]]
+di un arlecchino. Era un piacere poetico vederlo camminare,
+un po' pomposamente, lungo la strada e poi a un tratto arrampicarsi su un lampione
+come una scimmia, con la presunta intenzione di accendersi una sigaretta,
+per poi lasciarsi cadere e riprendere il cammino con immutata
+espressione di serietà e serenità. Aveva un cervello straordinariamente
+[[Well|ben]] equilibrato e sapeva farne quasi qualsiasi cosa;
+persino scrivere un ordinario articolo di fondo per un quotidiano di [[London|Londra]].
+Ma sapeva scrivere sciocchezze limpide e pure con la stessa
+seria semplicità. Fu lui a inventare quella forma severa e solenne
+di [[Free Verse|verso libero]] poi conosciuta col suo secondo
+nome come «il Clerihew» (il suo nome è Edward Clerihew Bentley)
+o «[[Biography|Biografia]] per principianti»; che risale ai nostri giorni di scuola,
+quando sedeva ad ascoltare un'esposizione di chimica, con la sua aria piuttosto
+annoiata e un foglio bianco di carta assorbente davanti.
+Su questo scrisse, ispirato dal limpido spirito del [[Song|canto]],
+i versi disadorni,
+
+  Sir Humphrey Davy
+  detestava il sugo d'arrosto.
+  Si attirò l'obbrobrio
+  d'aver scoperto il sodio.
+
+Già in quei giorni solevo disegnare figure, o ciò che
+si chiamavano figure, per illustrare queste rime biografiche;
+benché naturalmente non fu che decenni dopo che a uno di noi
+venne l'idea di pubblicare un libro, o di pubblicare alcunché.
+Molto tempo dopo che eravamo diventati entrambi scribacchini incurabili, restammo
+scolari inosservati; non pensammo mai di poter essere altro;
+non credo ci rendessimo molto chiaramente conto che un giorno saremmo stati
+qualcos'altro; o che i nostri giorni di scuola sarebbero mai finiti. In quel senso
+eravamo tanto privi d'ambizione quanto bambini che si sussurrano una lingua segreta.
+Le nostre burle erano tutte domestiche o nascevano dalle vicende quotidiane
+della scuola; ma coprivano abbastanza carta straccia da rifornire una biblioteca.
+Ricordo un interminabile [[Romance|romanzo]], per il quale disegnavo sempre
+figure, e che ancora oggi penso avesse un tocco di sfrenata fantasia.
+Nacque semplicemente dal nostro camminare dietro tre dei professori;
+due di loro, giovani e alti, avevano fra sé un terzo,
+vecchio e assai piccolo; sicché pareva vagamente suggerito
+che lo stessero sostenendo. Su questo si fondò la grande teoria
+costruttiva che il professore più anziano (che era una delle persone più importanti
+della scuola) fosse in realtà solo una figura a [[Clock|orologeria]], che essi
+portavano in giro con sé e caricavano perché compisse il suo giro quotidiano.
+Il fantoccio e i due cospiratori venivano trascinati attraverso un'infinita
+sequenza di lunghe (e mal disegnate) avventure, alcuni frammenti
+delle quali devono ancora aggirarsi da qualche parte per il mondo.
+Ma inutile dire che non pensammo mai di farne alcunché,
+se non goderne. Talvolta mi è parso che non sia
+una cattiva cosa da fare, con le cose.
+
+Il mio amico Bentley, in verità, aveva e ha un talento naturale per
+queste elaborate mappe strategiche di nonsenso, o per la trama
+di intrecci tanto assurdi. È qualcosa di simile alla diligenza
+che accompagna la fantasia di padre Ronald Knox, quando traccia
+una dettagliata mappa del Barsetshire di Trollope o elabora un incredibile
+crittogramma per dimostrare che la [[Queen|regina]] Vittoria scrisse «In Memoriam».
+Ricordo un giorno in cui l'intera scuola si radunò per un omaggio
+a un professore che ci lasciava per assumere un incarico al Peterhouse.
+Il discorso di congratulazioni fu tenuto da uno dei professori anziani
+che si dava il caso fosse un dotto ma pesante e assai solenne vecchio signore,
+i cui modi e la cui dizione erano del pari ponderosi e prosaici.
+Il mio amico ed io sedevamo l'uno accanto all'altro, senza speranza di alcun sollievo
+se non dalla solennità dell'oratore; quando l'intera assemblea fu
+trasalita come da un fulmine. Il vecchio signore aveva fatto una battuta.
+E, cosa ancor più sconvolgente, era una battuta piuttosto buona. Osservò che,
+mandando il nostro amico da questa scuola a quel collegio, stavamo derubando
+Paolo per pagare Pietro. Ci guardammo l'un l'altro con un selvaggio sgomento.
+Scuotemmo il capo gravemente. Non poteva spiegarsi. Ma Bentley
+in seguito produsse una spiegazione quanto mai convincente ed esauriente.
+Sostenne che il professore più anziano aveva dedicato la
+sua intera vita a progettare e a preparare quell'unica battuta.
+Si era servito della sua influenza sul Rettore per ottenere per
+il professore più giovane un posto nell'organico. Aveva intrigato con
+le autorità dell'Università per procurargli un incarico in quel collegio.
+Era vissuto per quell'ora. Aveva ora fatto la sua prima e ultima battuta;
+e probabilmente presto sarebbe trapassato in pace.
+
+Fu il terzo membro del nostro trio originario a portare nei nostri
+[[Secrets|segreti]] il respiro dell'[[Ambition|ambizione]] e l'aria del gran mondo.
+Era un giovane bruno e assai magro, di nome Lucian Oldershaw,
+che appariva e per certi versi era assai sensibile; ma su
+quelle questioni più grandi era assai meno timido di noi.
+Era figlio di un attore e aveva girato il paese
+più di tutti noi; era stato in altre scuole e conosceva
+molto di più la varietà della vita. Soprattutto lo possedeva,
+quasi febbrilmente, un'idea vasta, sbalorditiva e devastante, l'idea
+di fare qualcosa; di fare qualcosa alla maniera degli adulti,
+che erano le uniche persone concepibili come capaci di fare cose.
+Ricordo [[Well|bene]] come mi si rizzarono i capelli, quando parlò per la prima volta
+con noncuranza della rivista ufficiale della scuola; che per me era
+qualcosa come le preghiere della scuola o la fondazione della scuola.
+Nessuno di noi aveva mai sognato di collaborarvi, non più che
+all'Encyclopedia Britannica. E il mio nuovo amico, che era un po'
+più giovane di me, parlò con leggerezza di una vecchia idea che aveva avuto di
+stabilire una qualche cooperazione fra tutte le grandi riviste scolastiche,
+quelle di Eton, Harrow, Winchester e le altre. Se avesse proposto
+di conquistare e governare l'Impero Britannico, non sarei potuto restare
+più sbalordito; ma la liquidò con la stessa noncuranza con cui l'aveva evocata,
+e poi propose a [[Blood|sangue]] freddo che pubblicassimo una rivista
+tutta nostra; e che la facessimo stampare da un vero tipografo. Doveva
+possedere notevoli doti persuasive; perché lo facemmo davvero.
+Fondammo anche una piccola società di ragazzi della nostra età, e la chiamammo
+Junior Debating Club; benché nessuno, per quanto ne so,
+abbia mai sentito parlare di un Senior Debating Club. C'era la [[Union]],
+cui appartenevi quando eri nella classe superiore, come facevi altre
+cose lecite e spaventose, come cenare col Rettore.
+Ma non lo prevedevamo, alla nostra età, più di quanto prevedessimo la [[Death|morte]].

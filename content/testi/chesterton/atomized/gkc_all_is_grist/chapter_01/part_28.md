@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/gkc-all-is-grist-(chesterton)">GKC All is Grist</a> › <a href="/testi/chesterton/atomized/gkc_all_is_grist/chapter_01">Chapter 01</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/gkc_all_is_grist/chapter_01/part_27">‹ part 27</a><a class="ex-next" href="/testi/chesterton/atomized/gkc_all_is_grist/chapter_01/part_29">part 29 ›</a></div>
@@ -117,3 +119,32 @@ in manhood by being told of the empire on which the sun never set.
 I had no use for an empire that had no sunsets.  But I was inspired and
 thrilled by looking through a little hole at a crystal like a pin's head,
 and seeing it change pattern and colour like a pygmy sunset.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/gkc-all-is-grist-(chesterton)">GKC All is Grist</a> › <a href="/testi/chesterton/atomized/gkc_all_is_grist/chapter_01">Chapter 01</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/gkc_all_is_grist/chapter_01/part_27">‹ part 27</a><a class="ex-next" href="/testi/chesterton/atomized/gkc_all_is_grist/chapter_01/part_29">part 29 ›</a></div>
+</nav>
+
+Tutti citano i versi iniziali del bel [[Chorus|coro]] shelleyano di «Hellas». E tutti li citano come l'espressione dell'eroica speranza di Shelley per il genere umano, del suo idealismo e del suo ottimismo riguardo ai propri ideali, della sua radiosa fede in un compimento finale in cui l'umanità sarebbe stata felice e libera
+
+    La grande età del mondo ricomincia,
+    tornano gli anni d'oro.
+
+E sospetto che di costoro un numero assai considerevole non abbia letto, o non ricordi, o non abbia compreso, il curioso punto di rottura che è il fulcro della poesia. L'ho letta io stesso centinaia di volte, ma confesso che solo di recente ne ho colto il pieno significato, in connessione con teorie cosmiche e filosofiche. Oserei dire che chiunque altro l'abbia letta l'abbia compresa assai meglio e più immediatamente; non mi ergo a scopritore, ma trovo davvero curioso che la scoperta non sia stata riscoperta più spesso. La poesia di Shelley sale costante in una curva ascendente di corale ringraziamento alla Natura per una nuova e gloriosa rinnovazione di tutte le cose; e poi, quando giunge alla sua più alta nota di trionfo, si spezza. Il poeta grida, con qualcosa di simile all'orrore, che non dobbiamo guardare oltre né più nulla presagire:
+
+    Oh, non vuotare fino alla feccia l'urna
+    dell'amara profezia.
+
+È ovvio, a dir poco, che gli sia sopraggiunto qualcosa a turbarlo. E per quanto tutti i lettori debbano aver perlomeno compreso questo, immagino vi sia stato un considerevole numero di citatori che non erano lettori. E non credo che il nome di Shelley sarebbe stato tanto innocentemente e irrevocabilmente legato alle idee di Progresso e Perfettibilità e di un Bel Tempo che Verrà, se tutti avessero subito compreso a che cosa realmente egli alludesse.
+
+Questa riflessione tanto ovvia, che dev'essere venuta in mente a centinaia di persone, venne in mente a me mentre stavo leggendo quel notevolissimo studio storico intitolato Progress and Religion, di Christopher Dawson, che i signori Sheed & Ward hanno pubblicato non molto tempo fa. Contiene, tra molte altre cose interessanti, un resoconto assai completo di quella straordinaria teoria del Ritorno, sostenuta da molti filosofi tanto moderni quanto antichi, ma a cui i filosofi antichi diedero il nome di «Grande Anno». La teoria, s'intende, è a grandi linee questa: che quando tutte le possibili permutazioni e combinazioni siano state esaurite, il sistema cosmico dovrà per sua [[Nature|natura]] ricominciare da capo e ripetere tutto ciò che conosciamo esattamente come l'abbiamo conosciuto. Ciò accadrà ancora e ancora in eterno; poiché la stessa [[logic|logica]] che porta la ripetizione deve portare anche la ripetizione della ripetizione. E, in effetti, è strano notare come i filosofi si ripetano perfino nel descrivere la ripetizione. Il signor Dawson cita il caso di un saggio greco che disse: «Questo bastone che tengo in mano lo terrò di nuovo», e il caso di un pensatore socialista che disse: «Questa penna che tengo in mano la terrò di nuovo», quasi esattamente con le medesime parole. Ogni dettaglio di ogni vita ritornerà con esattezza, e ritornerà ancora e ancora fino all'[[Eternity|eternità]]. E tutti sanno come Nietzsche proferì questa rivelazione, con qualcosa di quasi simile a un ululato, dall'ultima alta e folle vetta della sua strana esistenza; proprio all'incirca nel [[Time|tempo]] in cui sprofondò nella completa follia. Non so se impazzì perché credeva alla teoria, o se credette alla teoria solo perché impazzì. Ma mi ha sempre colpito come un esempio quasi sbalorditivo di come un fatalismo mortale abbia la meglio sullo scettico più vivace. Poiché le vedute di Nietzsche, nei suoi giorni migliori, erano abbastanza sfrenate, ma sfrenate almeno dalla parte della Volontà e della Libertà. Vederlo impigliato in quella vecchia rete necessitaristica è come vedere una grande tela di ragno imprigionare un'aquila.
+
+Ciò che qui m'interessa è che essa impigliò l'allodola [[Well|come pure]] l'aquila. È certo evidente che Shelley, nell'ascesa e nella caduta di quei notevoli versi del [[Chorus|Coro]] di Hellas, si riferisce all'antica concezione pagana del Grande Anno. Sente che essa lo autorizza a dire che la grande età del mondo ricomincerà e torneranno gli anni d'oro. Ma non vuole vuotare fino alla feccia l'urna della profezia, perché la stessa [[Wheel|ruota]] del destino che ha fatto tornare gli anni d'oro farà tornare anche gli anni di piombo e di ferro; e saremo tutti costretti a ripetere tutti i delitti e le tirannidi della [[history|storia]]. Senza voler essere indebitamente polemico, credo di poter dire che non è una prospettiva allegra. E sono oltremodo fiero di osservare che fu prima dell'avvento del [[Christianity|Cristianesimo]] che essa fiorì, e dopo l'abbandono del [[Christianity|Cristianesimo]] che essa ritornò.
+
+XXIV. Sul [[Romance|romanzesco]] dell'[[Childhood|infanzia]]
+
+Sono giusto abbastanza vecchio da ricordare il mondo prima dei telefoni. E ricordo che mio padre e mio zio costruirono, col loro metallo e i loro prodotti chimici, il primo telefono che io abbia mai visto: un telefono in miniatura che andava dalla camera più alta sotto il tetto all'estremità remota del [[Garden|giardino]]. Ne fui davvero colpito nell'immaginazione; e non credo di essere mai stato tanto colpito, da allora, da alcun suo perfezionamento. Il punto è piuttosto importante nell'intera teoria dell'[[Imagination|immaginazione]]. Mi sbalordiva davvero che una voce risuonasse nella stanza quando in realtà era lontana quanto la via accanto. Non mi avrebbe sbalordito molto di più se fosse stata lontana quanto la città accanto. Non mi sbalordisce più se è lontana quanto il continente accanto. Il miracolo è finito. Così ammiravo anche le grandi cose della scienza soprattutto su piccola scala. Trovavo perciò di essere sempre assai più attratto dal microscopio che dal telescopio. Non ero sopraffatto, nell'[[Childhood|infanzia]], dal sentir parlare di [[Stars|stelle]] remote che il sole non raggiungeva mai, più di quanto lo fossi, da uomo, nel sentir parlare dell'impero su cui il sole non tramontava mai. Non sapevo che farmene di un impero privo di tramonti. Ma ero ispirato ed elettrizzato dal guardare attraverso un forellino un cristallo grande come una capocchia di spillo, e dal vederlo mutare disegno e colore come un tramonto pigmeo.

@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/gkc-autobiography-(chesterton)">GKC Autobiography</a> › <a href="/testi/chesterton/atomized/gkc_autobiography/chapter_03">Chapter 03</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/gkc_autobiography/chapter_02/part_07">‹ part 07</a><a class="ex-next" href="/testi/chesterton/atomized/gkc_autobiography/chapter_03/part_02">part 02 ›</a></div>
@@ -139,3 +141,138 @@ was more serious and less frank than the tarra-diddles of infancy.
 We had begun to be what no children are--snobs.  Children disinfect
 all their dramatic impersonations by saying "Let us pretend."
 We schoolboys never said "Let us pretend"; we only pretended.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/gkc-autobiography-(chesterton)">GKC Autobiography</a> › <a href="/testi/chesterton/atomized/gkc_autobiography/chapter_03">Chapter 03</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/gkc_autobiography/chapter_02/part_07">‹ part 07</a><a class="ex-next" href="/testi/chesterton/atomized/gkc_autobiography/chapter_03/part_02">part 02 ›</a></div>
+</nav>
+
+III
+
+COME ESSERE UN SOMARO
+
+Il passaggio dall'[[Childhood|infanzia]] alla fanciullezza, e la misteriosa trasformazione
+che genera quel [[Monster|mostro]] che è lo scolaro, potrebbero riassumersi assai [[Well|bene]] in
+un piccolo fatto. Per me le antiche lettere maiuscole dell'alfabeto greco,
+il grande Theta, una sfera sbarrata a metà come [[Saturn|Saturno]],
+o il grande Ypsilon, che si erge come un alto calice ricurvo,
+conservano ancora un fascino e un mistero del tutto inspiegabili, come se
+fossero i caratteri tracciati in ampio segno di benvenuto sull'Eden dell'[[Dawn|alba]].
+Le comuni lettere minuscole greche, per quanto ora mi siano assai più familiari,
+mi sembrano cosucce sgradevoli, come uno sciame di moscerini.
+Quanto agli accenti greci, riuscii trionfalmente, attraverso una lunga
+serie di trimestri scolastici, a evitare del tutto di impararli;
+e non ebbi mai momento di soddisfazione più alto di quando
+scoprii, in seguito, che neppure i Greci li avevano mai imparati.
+Sentii, con radiosa [[Pride|fierezza]], di essere ignorante quanto Platone
+e Tucidide. Almeno erano ignoti ai Greci che scrissero
+la prosa e la poesia ritenute degne di studio; e furono
+inventati dai grammatici, credo, al [[Time|tempo]] del [[Renaissance|Rinascimento]].
+Ma è un semplice fatto psicologico: che la vista di una maiuscola
+greca ancora mi colma di felicità, quella di una minuscola
+d'indifferenza venata di avversione, e gli accenti
+di una giusta indignazione che rasenta la bestemmia.
+E credo che la spiegazione sia questa: che imparai le grandi
+lettere greche, come imparai le grandi lettere inglesi, a [[Home|casa]].
+Me ne parlarono soltanto per divertimento quando ero ancora [[Child|bambino]];
+mentre le altre le imparai durante il periodo di ciò che comunemente
+si chiama [[Education|istruzione]]; vale a dire, il periodo durante il quale venivo
+istruito da qualcuno che non conoscevo, su qualcosa che non
+desideravo conoscere.
+
+Ma dico questo soltanto per mostrare che ero persona assai più saggia e
+di più larghe vedute a sei anni che a sedici.
+Non ne traggo alcuna teoria educativa, Dio me ne scampi.
+Quest'opera non può, su certi punti, evitare di essere teorica; ma non è
+tenuta ad aggiungere la beffa al danno mostrandosi per giunta educativa. Di certo non mi metterò,
+nel garbato stile moderno, a insultare i miei maestri
+perché non scelsi di imparare ciò che essi erano prontissimi a insegnarmi.
+Può darsi che nelle scuole migliorate d'oggi il [[Child|bambino]] venga istruito così bene
+da gridare di gioia alla vista di un accento greco.
+Ma [[Fear|temo]] sia assai più probabile che le nuove scuole
+si siano sbarazzate dell'accento greco sbarazzandosi del greco.
+E su quel punto, guarda caso, sto in gran parte dalla parte dei miei
+maestri contro me stesso. Sono molto lieto che i miei ostinati
+sforzi per non imparare il latino siano stati fino a un certo punto frustrati;
+e di non essere riuscito del tutto neppure a sfuggire
+alla contaminazione della lingua di Aristotele e Demostene.
+Almeno so abbastanza greco da cogliere la comicità,
+quando qualcuno dice (come qualcuno ha detto l'altro giorno) che lo studio
+di quella lingua non si addice a un'epoca di [[democracy|democrazia]]. Non so
+da quale lingua egli credesse provenisse la [[democracy|democrazia]]; e bisogna ammettere
+che la parola sembra ormai far parte di quel gergo che si chiama giornalese.
+Ma il mio unico argomento, per il momento, è personale o psicologico:
+la mia privata testimonianza del curioso fatto che, per una ragione
+o per l'altra, un ragazzo spesso passa davvero da uno stadio iniziale in cui vuole
+sapere quasi tutto, a uno stadio successivo in cui non vuole sapere
+quasi nulla. Un viaggiatore molto pratico ed esperto,
+senza nulla del mistico in sé, una volta mi osservò a bruciapelo:
+«Ci dev'essere qualcosa di marcio nell'[[Education|istruzione]] stessa.
+Tanta gente ha figli meravigliosi, e tutti gli adulti
+sono dei buoni a nulla». E so cosa intendeva; per quanto io sia in [[Doubt|dubbio]]
+se la mia presente inettitudine sia dovuta all'[[Education|istruzione]], o a qualche causa più profonda
+e più misteriosa.
+
+La fanciullezza è cosa quanto mai complessa e incomprensibile.
+Anche dopo averla attraversata, non si capisce cosa fosse.
+Un uomo non può mai comprendere del tutto un ragazzo, neppure quando quel ragazzo è stato lui.
+Su ciò che un tempo era il [[Child|bambino]] cresce dappertutto una sorta di protezione spinosa
+simile a peluria; un'insensibilità, una noncuranza, una curiosa combinazione di energia casuale
+e del tutto priva di scopo con una prontezza ad accettare le convenzioni.
+Ho cominciato alla cieca certe bravate che comportavano il comportarsi letteralmente
+da pazzo; sapendo per tutto il [[Time|tempo]] di non sapere perché
+lo facessi. Quando incontrai per la prima volta il mio migliore amico nel cortile,
+lottai con lui furiosamente per tre quarti d'ora;
+non scientificamente e di certo non con rancore (non l'avevo mai
+visto prima e da allora gli ho sempre voluto un gran bene),
+ma per una sorta di impulso inesauribile e insaziabile, correndo di qua
+e di là per il campo e [[rolling|rotolando]] più e più volte nel fango.
+E per tutto il [[Time|tempo]] credo che entrambe le nostre menti fossero del tutto
+miti e ragionevoli; e quando desistemmo per pura spossatezza,
+e a lui capitò di citare Dickens o le Bab Ballads, o qualcosa
+che avevo letto, ci gettammo in un'amichevole discussione di letteratura
+che è proseguita, a intervalli, da quel giorno a oggi.
+Non c'è modo di spiegare queste cose; se non possono spiegarle coloro
+che le hanno fatte. Ma da allora ho visto ragazzi in molti
+paesi e persino di molti colori; ragazzi egiziani nei bazar
+del Cairo o ragazzi mulatti nei bassifondi di [[New York]]. E ho
+scoperto che per qualche legge primordiale tendono tutti a tre cose:
+ad andare in giro in tre; a non avere alcuno scopo apparente nell'andare
+in giro; e, quasi senza eccezione, ad assalirsi a un tratto
+l'un l'altro e altrettanto a un tratto a desistere dall'assalto.
+
+Qualcuno potrà ancora contestare che io definisca convenzionale questa condotta,
+per la generale impressione che due banchieri o due soci d'affari
+non si facciano comunemente rotolare a gambe all'aria per gioco,
+o in spirito di pura [[Friendship|amicizia]]. Si potrebbe ribattere che due
+soci d'affari non sono affatto sempre amici così puri.
+Ma in ogni caso è giusto chiamare la cosa una convenzione, in un senso
+che va oltre quello puramente verbale di uno scontro. Ed è esattamente questa
+convenzione a separare davvero lo scolaro dal [[Child|bambino]].
+Quando andai alla St. Paul's School, a Hammersmith, c'era davvero
+una sorta di convenzione dell'indipendenza; che era in certa
+misura una falsa indipendenza; perché era una falsa maturità.
+Qui dobbiamo ricordare ancora una volta l'errore riguardo al «far finta»
+nell'[[Childhood|infanzia]]. Il [[Child|bambino]] non finge davvero di essere un pellerossa;
+non più di quanto Shelley fingesse di essere una nuvola o Tennyson un ruscello.
+Lo si può verificare offrendo un opuscolo politico alla nuvola,
+un titolo nobiliare al ruscello, o un penny di caramelle al Toro Rosso
+delle Praterie. Ma il ragazzo finge davvero di essere un uomo; o perfino
+un uomo di mondo; il che sembrerebbe una metamorfosi assai più orrenda.
+Gli scolari, ai miei [[Time|tempi]], potevano essere fulminati dall'orribile rivelazione
+di avere una sorella, o perfino un nome di battesimo. E la mortale
+[[Nature|natura]] di questo colpo consisteva davvero nel fatto che incrinava
+l'intera convenzione delle nostre vite; la convenzione che ciascuno di noi
+facesse da sé; un gentiluomo indipendente che viveva di rendita.
+Il segreto che ciascuno di noi possedesse in effetti una famiglia, e genitori
+che pagavano per il nostro mantenimento, veniva convenzionalmente ignorato e rivelato
+solo in momenti di forsennata [[Revenge|vendetta]]. Ma il punto è che c'era già
+un lieve tocco di corruzione in questa convenzione; proprio perché
+era più seria e meno franca delle fandonie dell'infanzia.
+Avevamo cominciato a essere ciò che nessun bambino è: snob. I bambini disinfettano
+tutte le loro impersonazioni sceniche dicendo «Facciamo finta».
+Noi scolari non dicevamo mai «Facciamo finta»; noi fingevamo e basta.

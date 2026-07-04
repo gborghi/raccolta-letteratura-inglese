@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/gkc-autobiography-(chesterton)">GKC Autobiography</a> › <a href="/testi/chesterton/atomized/gkc_autobiography/chapter_03">Chapter 03</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/gkc_autobiography/chapter_03/part_05">‹ part 05</a><a class="ex-next" href="/testi/chesterton/atomized/gkc_autobiography/chapter_03/part_07">part 07 ›</a></div>
@@ -111,3 +113,110 @@ University College, happened to have all the Jewish virtues, and also
 all the others there are; he afterwards became a member of the little
 club already described; and passed through [[Oxford]] with distinction;
 probably greater distinction than my other friends.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/gkc-autobiography-(chesterton)">GKC Autobiography</a> › <a href="/testi/chesterton/atomized/gkc_autobiography/chapter_03">Chapter 03</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/gkc_autobiography/chapter_03/part_05">‹ part 05</a><a class="ex-next" href="/testi/chesterton/atomized/gkc_autobiography/chapter_03/part_07">part 07 ›</a></div>
+</nav>
+
+Forse lo stesso concorso di casi che dapprima mi mise sulla
+via di queste curiosità umane fu responsabile di un altro
+incidente sociale, di cui sono assai lieto; perché mi condusse a vedere
+entrambe le facce di una questione sociale assai difficile; sulla quale si dicono
+moltissime sciocchezze da entrambe le parti; e le peggiori sciocchezze
+di tutte da chi parla come se non ci fosse alcuna questione. Bisogna
+spiegare che la St. Paul's School, nel linguaggio degli scolari,
+era più di quasi tutte le altre una scuola di «secchioni». Non ho certo bisogno
+di scagionarmi dall'accusa di secchioneria; e, naturalmente,
+c'erano molti ragazzi pigri, e qualcuno pigro quasi quanto me. Ma
+il tipo diligente era in proporzione maggiore del solito;
+perché la scuola era celebre soprattutto per la conquista di borse di studio
+alle Università, più che per l'atletica o altre forme di fama.
+E c'era un'altra ragione per cui questo tipo particolare era cospicuo.
+Per dirla in linguaggio popolare, c'erano moltissimi secchioni
+in parte perché c'erano moltissimi Ebrei.
+
+Per quanto strano, mi capitò di avere in seguito la fama di antisemita;
+mentre fin dai miei primi giorni di scuola ebbi in gran parte la fama di
+filosemita. Feci molte amicizie tra gli Ebrei, e alcune di esse le
+ho conservate come amicizie di tutta la vita; né i nostri rapporti sono mai stati
+turbati da divergenze sul problema politico o sociale.
+Sono lieto di aver cominciato da questo capo; ma non sono in realtà finito in modo alcuno
+diverso da quello in cui cominciai. Ritenevo per istinto allora,
+e ritengo per conoscenza ora, che la via giusta sia interessarsi
+agli Ebrei come Ebrei; e poi mettere in maggior rilievo le assai
+trascurate virtù ebraiche, che sono il complemento e talvolta
+persino la causa di ciò che il mondo avverte come i difetti ebraici.
+Per esempio, una delle grandi virtù ebraiche è la gratitudine.
+Fui criticato nei primi tempi per donchisciottismo e presunzione nel
+proteggere gli Ebrei; e ricordo di aver una volta districato una strana creaturina bruna
+dal naso adunco dall'essere maltrattata, o piuttosto dall'essere tormentata;
+perché la peggiore tortura consisteva in realtà nel suo essere leggermente lanciato
+da un ragazzo all'altro tra selvaggi sguardi di sgranata curiosità
+scientifica e domande come: «Che cos'è?» e «È vivo?».
+Trent'anni dopo, quando quel piccolo folletto era un grande uomo cresciuto
+e barbuto, del tutto remoto da me per tipo, mestiere, interessi
+e opinioni, aveva una sorta di perenne sorgente di ringraziamenti per quel
+insignificante episodio, il che era piuttosto imbarazzante. Allo stesso modo,
+notai quel forte vincolo familiare tra gli Ebrei che, come riconobbi,
+non era soltanto dissimulato ma negato tra la maggior parte degli scolari normali.
+Senza dubbio giunsi a conoscere gli Ebrei perché in questo senso erano
+un po' anormali, come io stesso stavo allora diventando un po' anormale.
+Eppure non c'è nulla che io sia giunto a considerare più normale,
+e nulla che io [[Desire|desideri]] più restituire al suo posto normale,
+di quelle due cose: la famiglia e la teoria del ringraziamento.
+E allora, alla luce di queste virtù viste dall'interno,
+era spesso possibile comprendere l'origine e persino la
+giustificazione di gran parte della critica antisemita vista dall'esterno.
+Perché è spesso proprio la lealtà della famiglia ebraica ad apparire
+come slealtà verso lo stato cristiano. Come il lettore si renderà conto
+prima della fine, fu in parte ciò che ammiravo in amici privati,
+specialmente in due fratelli di nome Solomon, che giunsi infine
+a denunciare in nemici politici, in due fratelli di nome Isaacs.
+I primi erano buoni secondo ogni criterio, i secondi vulnerabili anche
+secondo il loro stesso criterio: eppure avevano la stessa virtù.
+
+Non mi vergogno affatto di aver chiesto agli Ariani più pazienza
+verso gli Ebrei o di aver chiesto agli anglosassoni più pazienza
+verso gli aizzatori di Ebrei. L'intero problema delle due culture
+e tradizioni intrecciate è troppo profondo e difficile, da entrambe le parti,
+per essere deciso con impazienza. Ma ho ben poca pazienza con
+coloro che non vogliono risolvere il problema, col pretesto che
+non c'è alcun problema da risolvere. Non so spiegare gli Ebrei; ma di certo
+non li spiegherò via. Né gli Ebrei hanno nemico peggiore
+di quella sorta di ebreo scettico che talvolta cerca di spiegare via se stesso.
+Ho visto un intero libro pieno di teorie alternative sulla particolare
+causa storica di una simile illusione riguardo a una differenza; che essa venisse
+da preti medievali o ci fosse stata impressa a fuoco dall'[[Inquisition|Inquisizione]];
+che fosse una teoria tribale nata dal teutonismo; che fosse
+invidia rivoluzionaria verso i pochi Ebrei che si dava il caso fossero i grandi
+banchieri del Capitalismo; che fosse resistenza capitalista verso
+i pochi Ebrei che si dava il caso fossero i principali fondatori del Comunismo.
+Tutte queste teorie separate sono false in modi separati; come nel
+dimenticare che le cacce all'eresia medievali risparmiavano gli Ebrei più e non meno
+dei Cristiani; o che il Capitalismo e il Comunismo sono così assai prossimi
+alla stessa cosa, nella loro essenza etica, che non sarebbe strano
+se traessero i loro capi dai medesimi elementi etnologici.
+Ma in generale le evasioni sono contrarie al buon senso; come lo erano
+persino al buon senso di un ragazzo di tredici anni. Non credo
+che una folla su un ippodromo sia avvelenata
+dalla teologia medievale; o che gli sterratori in un pub di Mile End siano tratti in inganno
+dall'etnologia di Gobineau o di Max Müller; né credo che
+una folla di ragazzini appena usciti dal campo di cricket o dalla bottega dei dolciumi
+si tormentasse per l'economia marxista o la finanza internazionale.
+Eppure tutte queste persone riconoscono gli Ebrei come Ebrei quando li vedono;
+e gli scolari li riconoscevano, non con grande ostilità
+se non a tratti; ma con l'integrazione dell'istinto. Ciò che
+vedevano non erano Semiti o Scismatici o capitalisti o rivoluzionari,
+ma stranieri; solo stranieri che non venivano chiamati stranieri.
+Questo non impediva l'[[Friendship|amicizia]] e l'affetto, specialmente nel mio caso;
+ma d'altronde non l'ha mai impedito nel caso degli stranieri comuni.
+Uno di questi miei primi amici, ora Professore di Latino
+all'University College, si dava il caso avesse tutte le virtù ebraiche, e anche
+tutte le altre che esistono; divenne in seguito membro del piccolo
+club già descritto; e passò per [[Oxford]] con distinzione;
+probabilmente con maggiore distinzione dei miei altri amici.

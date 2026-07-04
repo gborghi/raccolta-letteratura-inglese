@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/gkc-all-is-grist-(chesterton)">GKC All is Grist</a> › <a href="/testi/chesterton/atomized/gkc_all_is_grist/chapter_01">Chapter 01</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/gkc_all_is_grist/chapter_01/part_42">‹ part 42</a><a class="ex-next" href="/testi/chesterton/atomized/gkc_all_is_grist/chapter_01/part_44">part 44 ›</a></div>
@@ -130,3 +132,129 @@ These are laws of the mind, analogous to laws of the eye.
 And the laws of the eye are not altered by everybody putting on
 the same sort of horned spectacles, that each one of them may look
 separate and distinguished.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/gkc-all-is-grist-(chesterton)">GKC All is Grist</a> › <a href="/testi/chesterton/atomized/gkc_all_is_grist/chapter_01">Chapter 01</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/gkc_all_is_grist/chapter_01/part_42">‹ part 42</a><a class="ex-next" href="/testi/chesterton/atomized/gkc_all_is_grist/chapter_01/part_44">part 44 ›</a></div>
+</nav>
+
+Ora il metodo della Corporazione non è più medievale di quanto sia moderno, in quanto
+è un principio indipendente dal [[Time|tempo]].  La miglior prova è che esso
+esiste ancora in una professione pratica che a tutti è nota.
+Il Medico, l'ordinario medico di famiglia, che quasi tutti conosciamo
+e a cui molti di noi devono la vita, è un tipico esempio di membro
+di una Corporazione.  Non è un funzionario socialista; non è un servitore dello Stato;
+è un esempio d'iniziativa privata.  Vale a dire, possiede
+la propria lancetta e il proprio stetoscopio; deve comprarsi la propria clientela;
+in certa misura fa concorrenza agli uomini del suo stesso mestiere.
+Ma gli è vietato far loro concorrenza con certi metodi;
+gli è vietato scacciare un altro medico dalla sua clientela con certi
+espedienti di auto[[Self|affermazione]] o di auto[[Self|réclame]]; deve osservare
+verso il collega medico un certo rispetto e una certa considerazione.
+Deve farlo perché è entrato in una Corporazione o confraternita,
+che esiste per il mantenimento dei membri della sua professione
+nel loro insieme.  La sua politica precisa e deliberata è mantenere in vita tutti
+i medici, per quanto possibile, e impedire che uno di essi
+distrugga tutti gli altri.  Una volta ammesso che un uomo possa usare
+qualunque metodo d'avanzamento e di réclame, è probabile che
+una ventina di medici onesti vengano inghiottiti da un solo ciarlatano.
+Sappiamo che è ciò che è accaduto nel giornalismo e nel commercio,
+e in un numero qualsiasi di altre cose.
+
+Va inoltre notato che l'altro lato dell'antica idea di Corporazione,
+che bilancia questa idea di preservare il piccolo nella sua indipendenza,
+l'idea cioè di metterne alla prova le pretese a tale indipendenza,
+è vero anch'esso del medico moderno, come lo era del Maestro medievale.
+Spesso ci si duole che i sindacati non insistano,
+come facevano le Corporazioni, su uno standard di lavoro e di rifinitura.
+Non possono farlo nelle condizioni moderne, perché esistono
+per contendere con un altro male, specialmente moderno.  Ma è del tutto
+vero che, prima di proteggere un uomo dalla concorrenza sleale, la Corporazione
+lo esaminava nella padronanza del suo mestiere; e tutto ciò corrisponde ovviamente
+agli esami di medicina e alle lauree in medicina moderni.
+Ora un uomo può ben ragionevolmente disapprovare questo sistema,
+proprio come io, a mio parere, ben ragionevolmente lo approvo.
+Può dire con tutta verità che ha mali propri.  Può dire
+con tutta plausibilità che, a suo avviso, quei mali superano il bene.
+Ma il suo atteggiamento non è né vero né sostenibile se pretende che le ragioni
+di questo sistema sociale siano un cumulo di ciarpame romantico sulla perfetta
+[[Beauty|bellezza]] del Medioevo.  Fa semplicemente la figura dello [[Fool|sciocco]]
+quando parla del metodo con cui si compie tutta la chirurgia più moderna
+e si avanzano tutte le più [[Novel|nuove]] teorie mediche come se
+fosse un mero fantastico sogno di far tornare la falconeria e l'armatura da torneo;
+o come se nessuno potesse fidarsi di Sir Stanley Hewett o di Sir Thomas Horder
+senza voler sventolare un pennone o indossare una cotta d'arme.
+
+XXXVI.  Sulla raffinatezza
+
+Alcuni si lamentano che la generazione nascente sia raffinata;
+ed è vero che alcuni suoi membri sono troppo raffinati persino
+per credere nella sofistica.  Non credono in nulla; il che, suppongo,
+è un modo di tornare alla semplicità.  L'[[Golden Age|età dell'oro]] dei sofisti
+fu all'incirca nell'ultima metà del diciannovesimo secolo.
+I vittoriani furono predicati e menati per il [[Dance|naso]] da un numero infinito di sofisti;
+ma ciò accadeva perché i vittoriani erano ingenui.
+Credevano ai più folli paradossi; come che fosse più pratico
+non essere logici; il che è come dire che dovremmo assicurarci
+d'avere una catena e non curarci se essa consti di anelli mancanti.
+Credevano che gli uomini dovessero sempre avere la stessa [[morality|morale]],
+pur avendo una nuova religione o nessuna religione; cioè dicevano
+che ciò che ora si faceva per una ragione precisa si sarebbe fatto indefinitamente
+senza ragione.  Quelle robuste idee sassoni erano tutte sofismi;
+ma ciò non significava che il robusto sassone che le accettava
+fosse necessariamente un sofista.  Ciò che penso sia realmente accaduto,
+nel caso della gioventù più raffinata d'oggi, è che essa
+è divenuta scettica di tutto, scetticismo compreso.
+E sebbene due negri non facciano un bianco, si è talvolta constatato,
+in grammatica e in [[philosophy|filosofia]], che due negazioni fanno un'affermazione.
+Cosicché la gioventù raffinata che ha smascherato i vecchi
+sofisti può ancora, nonostante tutto, scorgere qualcosa che valga la pena di scorgere.
+
+Ma c'è un modo in cui i giovani mi paiono non raffinati
+bensì assai semplici; e c'è un tipo o una sezione di essi che è
+sufficientemente semplice da potersi dire sciocca.  Gran parte dell'odierno
+culto del piacere, del lusso, della libertà in [[Love|amore]], e di tutto il resto,
+mi appare perfettamente puerile, e puerile nel senso letterale
+che è avida senza alcuna comprensione delle conseguenze.
+Leggo romanzi e [[Poems|poemi]] in cui il cercatore di piacere continua semplicemente
+a ripetere, di continuo: «Devo avere la Felicità.
+Devo avere la Vita.  Devo avere l'Amore.  Perché mi rimproverate se io
+non posso vivere senza passare da un'estasi all'altra?»  Ciò mi sembra
+press'a poco tanto semplice quanto il discorso di un selvaggio che dicesse:
+«Devo avere del Gin.  Mi piace il Gin.  Mi piace sempre più Gin.
+Perché non mi procurate all'istante cento bottiglie
+di Gin?»  Non pare richiedere gran sforzo intellettuale
+dire questo.  È, come altre cose semplici,
+del tutto vero fin dove arriva.  Ma in fatto di pensiero
+connesso e di senso delle conseguenze non arriva molto lontano.
+Il gin rende felice un uomo; fino a un certo punto più gin lo renderà
+più felice; ma ancora più gin lo renderà molte [[Well|altre]] cose per giunta.
+Attraverso una successione di fasi non contemplate dal filosofo
+nella sua prima fase, lo renderà dapprima ubriaco, poi ubriaco fradicio,
+e poi morto al mondo, e poi assai probabilmente morto del tutto.
+Anche questa pare essere una semplice [[Truth|verità]], che non richiede grande sottigliezza;
+ma il selvaggio non riesce a vederla, e il romanziere del sesso non riesce a vederla.
+Non riesce a vedere ciò che quasi tutti nella [[history|storia]] hanno finora veduto,
+cioè che vi sono certe leggi e certi limiti per la mente, come vi
+sono certe leggi e certi limiti per il [[Body|corpo]].  Esiste una cosa
+come la concentrazione; esiste una cosa come il contrasto; esiste una cosa
+come la proporzione; esiste, con enfasi, una cosa come la noia.
+Soprattutto, esiste una cosa come la contraddizione in termini;
+ed è una contraddizione in termini avere ogni momento una crisi,
+ogni evento una scappatella, ogni fatto un'eccezione, ogni persona
+un eccentrico, ogni giorno una festa, o la società un interminabile Saturnale.
+Se si prova a fare questo, lo si troverà tedioso; con la stessa certezza con cui,
+se si beve gin illimitato, li troveremo ubriachi.
+Se davvero si dipinge di rosso la città, non la si potrà usare
+come sfondo, né alla rossa [[Flag|bandiera]] del bolscevismo né al rosso
+fiore di una vita colpevole.  Se davvero si continua finché tutto è azzurro,
+non si potrà distinguere lo speciale e delicato
+azzurro nemmeno delle rose azzurre e del vino azzurro dei decadenti.
+Queste sono leggi della mente, analoghe alle leggi dell'occhio.
+E le leggi dell'occhio non vengono mutate dal fatto che tutti indossino
+lo stesso tipo di occhiali cornuti, affinché ciascuno di loro appaia
+distinto e insigne.

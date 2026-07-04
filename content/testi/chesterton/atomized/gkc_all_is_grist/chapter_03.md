@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/gkc-all-is-grist-(chesterton)">GKC All is Grist</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/gkc_all_is_grist/chapter_02">‹ Chapter 02</a><a class="ex-next" href="/testi/chesterton/atomized/gkc_all_is_grist/chapter_04">Chapter 04 ›</a></div>
@@ -160,3 +162,160 @@ We need a fixed idea of [[Truth|truth]] to establish a reign of justice.
 But though Swinburne could hardly have given justice to men, he has
 a right to get justice from them.  And I say this to show that on one
 point he did not receive justice--not even the justice that condemns.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/gkc-all-is-grist-(chesterton)">GKC All is Grist</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/gkc_all_is_grist/chapter_02">‹ Chapter 02</a><a class="ex-next" href="/testi/chesterton/atomized/gkc_all_is_grist/chapter_04">Chapter 04 ›</a></div>
+</nav>
+
+
+II
+
+Quando dico che la lode della virtù in Swinburne mi lascia più perplesso della sua
+lode del vizio, non intendo (mi sia permesso spiegarlo rispettosamente) che il mio
+naturale gusto per la scelleratezza mi faccia ritenere normale essere un [[Villain|malvagio]],
+o che il mio cervello vacilli per la [[Mystification|perplessità]] quando contemplo un qualsiasi
+comprovato e pubblico atto di decenza.  Non intendo che il crimine sia per me una seconda
+[[Nature|natura]], o che mi metta come un segugio a dar la caccia a un uomo
+per scoprire perché non sia un assassino.  Ciò che intendo è questo:
+che nel caso di Swinburne la poesia sciolta era davvero sciolta.
+Era fluente, tanto nella forma quanto nello spirito, e piuttosto alla
+maniera del fluire delle [[Tears|lacrime]].  Era [[Self|auto]]-espressione,
+ma non era [[Self|auto]]-affermazione; e non era di certo alcun altro tipo
+di affermazione, come l'affermazione di una precisa eresia o sofistica.
+Nella misura in cui vi era qualcosa d'indifendibile, egli non lo difendeva.
+Lo descriveva, forse, e può darsi che sia un male che simili
+cose siano descritte; ma simili cose non sono in ogni caso
+i materiali di un sistema morale o politico.  Una simile isterica,
+semi-involontaria confessione non è rara in letteratura,
+specialmente quando (come è quasi certamente il caso di Swinburne)
+il letterato confessa ciò che non ha mai fatto.
+Comunque, sull'intero settore di quest'opera del poeta aleggia
+uno spirito di [[Despair|disperazione]] accorata e quasi accattivante, un pessimismo
+circa l'impotenza dell'uomo.  Egli non pretende che gli dèi pagani
+siano buoni; confessa soltanto che sono forti — o, in altre parole,
+che egli è debole.  Ciò che mi lasciava perplesso era come conciliasse davvero
+questa parte della sua opera con l'altra parte, in cui professava
+di scorgere una nuova [[Hope|speranza]] per gli uomini nella virile e universale Repubblica,
+in cui gli uomini sarebbero divenuti eroi divenendo cittadini.
+Non c'è quasi un solo verso di speranza in [[songs|Songs]] Before Sunrise che non
+si potrebbe controbattere con un verso disperato di [[Poems]] and Ballads.
+Forse il verso più musicale e magico di «Dolores»
+è quello in aperta glorificazione dell'«implacabile bellissimo [[Tyrant|tiranno]]»;
+e a che giova, dopo ciò, denunciare tutti i tiranni come implacabili?
+Che pro rimanere rigidi d'orrore per Napoleone,
+quando ti sei prostrato in un'estasi [[Lyric|lirica]] dinanzi a Nerone?  A che
+giova dire che porti il seme di [[Night|notte]] a seminare, affinché gli uomini
+a venire mietano e mangino di giorno, quando pare così facile
+per chiunque, in qualsiasi momento, stancarsi di «ciò che potrà venire in seguito
+agli uomini che seminano e mietono»?  Che senso ha gridare di
+incoronare l'uomo re di tutte le cose, se «la [[Crown|corona]] della sua vita,
+al suo chiudersi, è tenebra; il frutto di essa è [[Dust|polvere]]»?
+
+Nondimeno, vi è un altro senso in cui non vorrei indugiare
+severamente sul tipo più sciolto di verso, come parte del vero problema
+di questa strana personalità.  Dico che il poeta nella poesia
+non difende sé stesso.  Il poeta in prosa fu meno saggio, e difese
+sé stesso indifendibilmente.  Non m'importa tanto quanto importava a Gosse della sbraitante
+e inveente prosa in cui Swinburne accusava i suoi critici d'essere
+ingiusti con lui; nondimeno, penso che furono ingiusti con lui.
+Non intendo che egli avesse ragione; ma intendo che essi avevano torto.
+I critici sbagliarono nel modo peggiore in cui un critico può
+sbagliare su una poesia: sbagliando sul suo intento.
+La poesia può contenere moltissimo che è privo d'intento o fuori tema;
+può contenere moltissimo che è illegale e svergognato e davvero
+in inimicizia con la morale — nel qual caso io sono tanto all'antica da
+ritenere che debba essere denunciata e persino distrutta in quanto tale.
+Ma anche nel condannarla dobbiamo condannarne l'intento; e per condannarne
+l'intento dobbiamo comprenderne l'intento.  Dobbiamo capire ciò che
+l'uomo ha realmente detto, e non impiccarlo come eretico per aver detto
+qualcosa che non ha mai detto.  Ora, gran parte della porzione più sfrenata di [[Poems]]
+and Ballads non intende descrivere semplicemente uno slancio verso le buffonate
+dell'[[Love|amore]] animale, bensì una reazione alla [[Tragedy|tragedia]] del vero [[Love|amore]].
+Il poeta, in un morboso umore di scherno, professa amaramente
+(potremmo dire finge) di preferire il rigagnolo ai palazzi
+dell'ideale incanto, da cui è stato scacciato
+per volubilità o [[Pride|orgoglio]].  Non è un bello stato d'animo,
+è uno stato d'animo assai brutto; ma è quello stato d'animo
+e nessun altro, e non lo stato di chi ha sempre preferito
+i rigagnoli perché era un monello di strada.  Per dirla in breve,
+non possiamo comprendere la poesia intitolata «Dolores» senza leggerla
+fianco a fianco con la poesia intitolata «The Triumph of [[Time]]».
+Per esempio, ho condannato, come ogni critico sano ha condannato,
+tutta quell'idrofoba insensatezza di Swinburne sul fatto che la gente si «morda»
+a vicenda.  Ma non è del tutto giusto, nemmeno verso quell'infernale insensatezza,
+leggerla senza ricordare il verso a cui essa in un certo senso
+conduce, e che è il vero intimo tema della poesia:
+
+    Nella distesa di ieri e in quella di domani,
+    Benché giacciano fuori dalla vista dell'oggi,
+    Vi sono stati e vi saranno ancora dolori
+    Che non colpiscono né mordono per gioco.
+    La vita e l'amore che tu disprezzi,
+    Questi ci feriscono davvero, e invano —
+    O saggia fra le donne, e sapientissima,
+    Nostra Signora del Dolore.
+
+Non penso che la donna senza cuore sia la donna più saggia; oso
+dubitare che Swinburne lo pensasse.  Ma Swinburne lo disse davvero;
+e questo è ciò che disse; e ciò che intendeva era che le pene
+di un amore più nobile sono tanto più terribili che forse la persona
+volgare, dopo tutto, la spunta.  Egli ripete questo tema principale
+più e più volte nella poesia, sicché è incredibile che i critici
+non ne vedessero l'intento, anche se avevano ragione a condannarlo.
+Lo dice chiaramente nei versi
+
+    Nessuna spina va tanto in fondo quanto quella d'una rosa,
+    E l'amore è più crudele della brama;
+    Il Tempo volge i vecchi giorni in derisione,
+    I nostri amori in cadaveri e in mogli,
+    E il matrimonio e la morte e la divisione
+    Rendono sterili le nostre vite.
+
+Ed è solo allora che egli dice, con parole abbastanza orribili,
+ma con qualcosa di un orrore morale:
+
+    E pallidi del passato ci accostiamo a te
+    E satolli d'ore senza conforto:
+    E ti conosciamo, come tutti gli uomini ti smentiscono,
+    E cogliamo il frutto dei tuoi fiori.
+
+Oppure, di nuovo, altrove:
+
+    Di languori riaccesi e ravvivati,
+    Di sterili delizie e immonde;
+    Cose mostruose e infruttuose; una pallida
+    E velenosa regina.
+
+Questo non è lodare il peccato, per quanto possa essere praticarlo.
+Questo è piuttosto porre l'accento sul disgusto che è l'alternativa
+alla delusione.  È idolatrico press'a poco quanto un deluso
+amante che parli a una bottiglia di gin, e dica: «Maledetta la tua brutta faccia,
+credo che tu sia il mio unico amico, dopo tutto!»
+
+Ho indugiato un poco su questo particolare punto riguardo al poeta,
+perché esso coinvolge questa vitalissima questione dell'intento di una poesia.
+Anche quando è compreso, l'atteggiamento può essere condannato —
+anzi, dovrebbe essere condannato.  Ma non dovrebbe essere condannato
+per essere qualcos'altro.  È una visione morbosa, una visione non virile,
+una visione immorale nei suoi effetti pratici.  Ma, soprattutto, come mi pare
+più notevole a questo proposito, è la peggiore visione possibile
+della vita per chiunque si proponga di suscitare una rivoluzione politica e di
+fondare una Repubblica perfetta.  È questa la domanda che ho posto per primo:
+perché mai gli uomini che paiono così ansiosi di riformare il mondo si equipaggiano
+con le peggiori filosofie possibili per farlo?
+È difficile dire se il povero Swinburne fosse un rivoluzionario più
+disperato nell'essere pessimista o nell'essere ottimista.
+Il suo panteismo poteva solo provare che le cose peggiori sono buone,
+perché sono parte della [[Nature|natura]]; e il suo pessimismo provava soltanto
+che le cose migliori sono cattive, perché sono condannate alla delusione
+e al dolore.  In un modo o nell'altro pare un debole motivo per morire su una
+barricata per la convinzione che una cosa sia migliore di un'altra.
+Ci occorre un'idea fissa di [[Truth|verità]] per instaurare un regno di giustizia.
+Ma per quanto Swinburne difficilmente avrebbe potuto rendere giustizia agli uomini, egli ha
+diritto a riceverne giustizia.  E dico questo per mostrare che su un
+punto egli non ricevette giustizia — nemmeno la giustizia che condanna.
