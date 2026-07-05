@@ -14,6 +14,11 @@ tags:
   - concept/satire_of_society
   - concept/honour
   - concept/critique_of_progress
+  - concept/nationalism_and_patriotism
+  - concept/temperance_and_teetotalism
+  - motif/poison
+  - setting/orient
+  - histref/puritanism
 ---
 
 # right-and-wrong
@@ -29,8 +34,12 @@ tags:
 
 ## Connections
 
-**Motifs:** [[Wine and Drink]]
-**Themes & Concepts:** [[Joy]], [[Satire of Society]], [[Honour]], [[Critique of Progress]]
+**Historical References:** [[Puritanism]]
+
+**Settings:** [[Orient]]
+
+**Motifs:** [[Wine and Drink]], [[Poison]]
+**Themes & Concepts:** [[Joy]], [[Satire of Society]], [[Honour]], [[Critique of Progress]], [[Nationalism and Patriotism]], [[Temperance and Teetotalism]]
 **Forms & Genres:** [[Comic Verse Song]], [[Satire]]
 
 ## Chapters / scenes / sections

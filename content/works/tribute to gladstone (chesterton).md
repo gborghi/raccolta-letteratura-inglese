@@ -18,6 +18,17 @@ tags:
   - motif/seasons
   - motif/the_cross
   - histref/victorian_england
+  - character/death_personified
+  - character/gladstone
+  - concept/nationalism_and_patriotism
+  - concept/decadence_and_aestheticism
+  - topos/sic_transit_gloria_mundi
+  - motif/flags_and_banners
+  - motif/crown
+  - motif/death
+  - archetype/death_personified_2
+  - archetype/hero
+  - form/dirge
 ---
 
 *by Chesterton*  ·  **Cluster:** [[Grief and Loss · Elegy · Clothing and Costume]]
@@ -31,9 +42,15 @@ tags:
 
 ## Connections
 
-**Motifs:** [[Dawn]], [[Seasons]], [[Cross]]
-**Themes & Concepts:** [[Grief and Loss]], [[Mortality]], [[Heroism]], [[Honour]], [[Melancholy]]
-**Forms & Genres:** [[Elegy]], [[Lyric]]
+**Archetypes:** [[Death Personified (2)]], [[Hero]]
+
+**Topoi:** [[Sic Transit Gloria Mundi]]
+
+**Characters:** [[Death Personified]], [[Gladstone]]
+
+**Motifs:** [[Dawn]], [[Seasons]], [[Cross]], [[Flags and Banners]], [[Crown]], [[Death]]
+**Themes & Concepts:** [[Grief and Loss]], [[Mortality]], [[Heroism]], [[Honour]], [[Melancholy]], [[Nationalism and Patriotism]], [[Decadence and Aestheticism]]
+**Forms & Genres:** [[Elegy]], [[Lyric]], [[Dirge]]
 **Historical References:** [[Regency Georgian England]]
 
 ## Chapters / scenes / sections

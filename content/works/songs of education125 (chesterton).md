@@ -16,6 +16,23 @@ tags:
   - concept/critique_of_progress
   - histref/victorian_england
   - concept/power_and_corruption
+  - character/thomas_becket
+  - concept/class_conflict
+  - concept/anti_industrialism
+  - concept/money_and_avarice
+  - concept/antisemitism
+  - topos/world_upside_down
+  - motif/money_and_gold
+  - motif/machine
+  - setting/rural_england
+  - setting/industrial_city
+  - setting/medieval_england_2
+  - form/parody
+  - histref/roman_history
+  - histref/danish_invasions
+  - histref/crusades
+  - histref/industrial_revolution
+  - histref/napoleonic_wars_the_navy
 ---
 
 *by Chesterton*  ·  **Cluster:** [[Satire of Society · Epigram · Satire]]
@@ -29,9 +46,17 @@ tags:
 
 ## Connections
 
-**Themes & Concepts:** [[Satire of Society]], [[Nationalism and Patriotism]], [[Education]], [[Critique of Progress]], [[Power and Corruption]]
-**Forms & Genres:** [[Comic Verse Song]], [[Poem Sequence]], [[Satire]]
-**Historical References:** [[Regency Georgian England]]
+**Settings:** [[Rural England]], [[Industrial City]], [[Medieval England (2)]]
+
+**Motifs:** [[Money and Gold]], [[Machine]]
+
+**Topoi:** [[World Upside Down]]
+
+**Characters:** [[Thomas Becket]]
+
+**Themes & Concepts:** [[Satire of Society]], [[Nationalism and Patriotism]], [[Education]], [[Critique of Progress]], [[Power and Corruption]], [[Class Conflict]], [[Anti-Industrialism]], [[Money and Avarice]], [[Antisemitism]]
+**Forms & Genres:** [[Comic Verse Song]], [[Poem Sequence]], [[Satire]], [[Parody]]
+**Historical References:** [[Regency Georgian England]], [[Roman History]], [[Danish Invasions]], [[Crusades]], [[Industrial Revolution]], [[Napoleonic Wars the Navy]]
 
 ## Chapters / scenes / sections
 

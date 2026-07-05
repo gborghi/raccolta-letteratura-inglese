@@ -16,6 +16,19 @@ tags:
   - concept/nationalism_and_patriotism
   - setting/rural_england
   - concept/joy
+  - concept/resignation
+  - concept/forgiveness
+  - concept/heaven_and_the_afterlife
+  - concept/nostalgia
+  - concept/order_vs_chaos
+  - topos/memento_mori
+  - motif/flowers
+  - motif/rose
+  - motif/grave
+  - archetype/common_man_2
+  - histref/ancient_rome
+  - histref/napoleonic_wars_the_navy
+  - histref/battle_of_bannockburn
 ---
 
 # rolling
@@ -31,9 +44,13 @@ tags:
 
 ## Connections
 
-**Topoi:** [[Open Road Homecoming]]
-**Motifs:** [[Road]], [[Wine and Drink]], [[Inn Tavern]]
-**Themes & Concepts:** [[Mortality]], [[Nationalism and Patriotism]], [[Joy]]
+**Historical References:** [[Ancient Rome]], [[Napoleonic Wars the Navy]], [[Battle of Bannockburn]]
+
+**Archetypes:** [[Common Man (2)]]
+
+**Topoi:** [[Open Road Homecoming]], [[Memento Mori]]
+**Motifs:** [[Road]], [[Wine and Drink]], [[Inn Tavern]], [[Flowers]], [[Rose]], [[Grave]]
+**Themes & Concepts:** [[Mortality]], [[Nationalism and Patriotism]], [[Joy]], [[Resignation]], [[Forgiveness]], [[Heaven and the Afterlife]], [[Nostalgia]], [[Order vs Chaos]]
 **Forms & Genres:** [[Ballad Ballade]]
 **Settings:** [[Rural England]]
 

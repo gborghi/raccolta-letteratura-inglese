@@ -17,6 +17,15 @@ tags:
   - histref/the_bible
   - histref/christianity
   - character/satan
+  - character/michael
+  - character/christ
+  - concept/power_of_language
+  - concept/power_and_corruption
+  - concept/greed_and_money
+  - topos/combat_strife
+  - motif/silence
+  - archetype/christ_figure
+  - archetype/satanic_figure
 ---
 
 # to st michael
@@ -32,11 +41,15 @@ tags:
 
 ## Connections
 
-**Motifs:** [[Swords and Weapons]], [[Serpent Snake]], [[Money and Gold]]
-**Themes & Concepts:** [[Good vs Evil]], [[Temptation]], [[Faith]]
+**Archetypes:** [[Christ Figure]], [[Satanic Figure]]
+
+**Topoi:** [[Combat Strife]]
+
+**Motifs:** [[Swords and Weapons]], [[Serpent Snake]], [[Money and Gold]], [[Silence]]
+**Themes & Concepts:** [[Good vs Evil]], [[Temptation]], [[Faith]], [[Power of Language]], [[Power and Corruption]], [[Greed and Money]]
 **Forms & Genres:** [[Hymn]]
 **Historical References:** [[Bible]], [[Christianity]]
-**Characters:** [[Satan]]
+**Characters:** [[Satan]], [[Michael]], [[Christ]]
 
 ## Chapters / scenes / sections
 

@@ -13,6 +13,15 @@ tags:
   - concept/heroism
   - motif/death
   - motif/masks_disguise
+  - concept/truth
+  - concept/vanity_of_worldly_things
+  - topos/memento_mori
+  - topos/theatrum_mundi
+  - topos/all_the_world_s_a_stage
+  - topos/sic_transit_gloria_mundi
+  - motif/drums_and_bugles
+  - motif/clothing_and_costume
+  - histref/titanic_disaster_1912
 ---
 
 # titanicGKC
@@ -28,8 +37,12 @@ tags:
 
 ## Connections
 
-**Motifs:** [[Death]], [[Concealment Hidden Identity]]
-**Themes & Concepts:** [[Appearance vs Reality]], [[Mortality]], [[Heroism]]
+**Historical References:** [[Titanic Disaster (1912)]]
+
+**Topoi:** [[Memento Mori]], [[Theatrum Mundi]], [[All the World's a Stage]], [[Sic Transit Gloria Mundi]]
+
+**Motifs:** [[Death]], [[Concealment Hidden Identity]], [[Drums and Bugles]], [[Clothing and Costume]]
+**Themes & Concepts:** [[Appearance vs Reality]], [[Mortality]], [[Heroism]], [[Truth]], [[Vanity of Worldly Things]]
 **Forms & Genres:** [[Ballad Ballade]]
 
 ## Chapters / scenes / sections

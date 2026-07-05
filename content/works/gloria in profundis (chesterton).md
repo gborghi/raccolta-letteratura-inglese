@@ -19,6 +19,13 @@ tags:
   - character/christ
   - character/satan
   - histref/christianity
+  - concept/sin_and_the_fall
+  - concept/eternity
+  - concept/incarnation
+  - topos/katabasis_descent
+  - motif/cave
+  - setting/underworld_cave
+  - histref/bible
 ---
 
 *by Chesterton*  ·  **Cluster:** [[Faith · Providence · Divine Love]]
@@ -32,11 +39,13 @@ tags:
 
 ## Connections
 
-**Topoi:** [[World Upside Down]], [[Paradise Lost]]
-**Motifs:** [[Stars]], [[Grave]]
-**Themes & Concepts:** [[Divine Love]], [[Paradox]], [[Humility]], [[Grace and Redemption]]
+**Settings:** [[Underworld Cave]]
+
+**Topoi:** [[World Upside Down]], [[Paradise Lost]], [[Katabasis Descent]]
+**Motifs:** [[Stars]], [[Grave]], [[Cave]]
+**Themes & Concepts:** [[Divine Love]], [[Paradox]], [[Humility]], [[Grace and Redemption]], [[Sin and the Fall]], [[Eternity]], [[Incarnation]]
 **Forms & Genres:** [[Hymn]]
-**Historical References:** [[Christianity]]
+**Historical References:** [[Christianity]], [[Bible]]
 **Characters:** [[Christ]], [[Satan]]
 
 ## Chapters / scenes / sections

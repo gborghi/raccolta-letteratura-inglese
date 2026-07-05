@@ -15,6 +15,11 @@ tags:
   - motif/wine_and_drink
   - motif/the_inn_tavern
   - histref/puritanism
+  - character/mrs_humphrey_ward
+  - character/bayard
+  - concept/comradeship
+  - topos/ubi_sunt
+  - motif/food_and_feasting
 ---
 
 # anti-puritan
@@ -30,8 +35,12 @@ tags:
 
 ## Connections
 
-**Motifs:** [[Wine and Drink]], [[Inn Tavern]]
-**Themes & Concepts:** [[Satire of Society]], [[Common Man]], [[Critique of Progress]]
+**Topoi:** [[Ubi Sunt]]
+
+**Characters:** [[Mrs Humphrey Ward]], [[Bayard]]
+
+**Motifs:** [[Wine and Drink]], [[Inn Tavern]], [[Food and Feasting]]
+**Themes & Concepts:** [[Satire of Society]], [[Common Man]], [[Critique of Progress]], [[Comradeship]]
 **Forms & Genres:** [[Ballad Ballade]], [[Satire]]
 **Historical References:** [[Puritanism]]
 

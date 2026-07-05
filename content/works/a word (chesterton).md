@@ -28,6 +28,11 @@ tags:
   - histref/the_bible
   - histref/roman_history
   - histref/the_crusades
+  - concept/labor_and_work
+  - topos/fortune_s_wheel
+  - motif/wheel
+  - motif/machine
+  - histref/industrial_revolution
 ---
 
 *by Chesterton*  ·  **Cluster:** [[Martyrdom · Martyr Saint · Cross]]
@@ -41,12 +46,12 @@ tags:
 
 ## Connections
 
-**Topoi:** [[Ages of the World]], [[Sic Transit Gloria Mundi]]
+**Topoi:** [[Ages of the World]], [[Sic Transit Gloria Mundi]], [[Fortune's Wheel]]
 **Archetypes:** [[Christ Figure]]
-**Motifs:** [[Stars]], [[Fire]], [[Cross]], [[Swords and Weapons]], [[Sea]], [[Crown]], [[Fog and Smoke]]
-**Themes & Concepts:** [[Divine Love]], [[Grace and Redemption]], [[Faith]], [[Anti-Industrialism]]
+**Motifs:** [[Stars]], [[Fire]], [[Cross]], [[Swords and Weapons]], [[Sea]], [[Crown]], [[Fog and Smoke]], [[Wheel]], [[Machine]]
+**Themes & Concepts:** [[Divine Love]], [[Grace and Redemption]], [[Faith]], [[Anti-Industrialism]], [[Labor and Work]]
 **Forms & Genres:** [[Narrative Poem]], [[Lyric]]
-**Historical References:** [[Christianity]], [[Bible]], [[Roman History]], [[Crusades]]
+**Historical References:** [[Christianity]], [[Bible]], [[Roman History]], [[Crusades]], [[Industrial Revolution]]
 **Characters:** [[Christ]]
 
 ## Chapters / scenes / sections

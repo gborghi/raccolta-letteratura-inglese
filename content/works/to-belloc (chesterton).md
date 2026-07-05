@@ -15,6 +15,20 @@ tags:
   - motif/the_road
   - motif/moon
   - histref/napoleonic_wars
+  - character/death_personified
+  - character/hilaire_belloc
+  - concept/freedom_and_liberty
+  - concept/nationalism_and_patriotism
+  - topos/war_as_glory
+  - topos/night_journey_vision
+  - motif/dance
+  - motif/drums_and_bugles
+  - motif/childhood
+  - setting/london
+  - setting/rural_england
+  - archetype/poet_as_prophet_2
+  - form/verse_epistle
+  - histref/french_revolution
 ---
 
 # to-belloc
@@ -30,10 +44,18 @@ tags:
 
 ## Connections
 
-**Motifs:** [[Stars]], [[Road]], [[Moon]]
-**Themes & Concepts:** [[Heroism]], [[War and its Cost]], [[Faith]]
-**Forms & Genres:** [[Lyric]]
-**Historical References:** [[Napoleonic Wars the Navy]]
+**Archetypes:** [[Poet as Prophet (2)]]
+
+**Settings:** [[London]], [[Rural England]]
+
+**Topoi:** [[War as Glory]], [[Night Journey Vision]]
+
+**Characters:** [[Death Personified]], [[Hilaire Belloc]]
+
+**Motifs:** [[Stars]], [[Road]], [[Moon]], [[Dance]], [[Drums and Bugles]], [[Childhood]]
+**Themes & Concepts:** [[Heroism]], [[War and its Cost]], [[Faith]], [[Freedom and Liberty]], [[Nationalism and Patriotism]]
+**Forms & Genres:** [[Lyric]], [[Verse Epistle]]
+**Historical References:** [[Napoleonic Wars the Navy]], [[French Revolution]]
 
 ## Chapters / scenes / sections
 

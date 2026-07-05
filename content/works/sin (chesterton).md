@@ -12,6 +12,12 @@ tags:
   - concept/love_romantic
   - concept/sin_and_the_fall
   - concept/faith
+  - concept/jealousy
+  - concept/honour
+  - motif/grave
+  - motif/silence
+  - archetype/lover
+  - histref/bible
 ---
 
 # sin
@@ -27,8 +33,14 @@ tags:
 
 ## Connections
 
+**Historical References:** [[Bible]]
+
+**Archetypes:** [[Lover]]
+
+**Motifs:** [[Grave]], [[Silence]]
+
 **Topoi:** [[Love as Religion]]
-**Themes & Concepts:** [[Romantic Love]], [[Sin and the Fall]], [[Faith]]
+**Themes & Concepts:** [[Romantic Love]], [[Sin and the Fall]], [[Faith]], [[Jealousy]], [[Honour]]
 **Forms & Genres:** [[Sonnet]]
 
 ## Chapters / scenes / sections

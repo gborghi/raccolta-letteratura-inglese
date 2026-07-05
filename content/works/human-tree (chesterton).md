@@ -19,6 +19,17 @@ tags:
   - motif/animals
   - form/lyric
   - setting/rural_england
+  - concept/one_life_pantheism
+  - concept/unseen_the_hidden
+  - concept/self_and_cosmos
+  - topos/great_chain_of_being
+  - topos/sublime_in_nature
+  - topos/axis_mundi_world_tree
+  - motif/prayer
+  - motif/insects
+  - motif/grass_leaves_of_grass
+  - motif/stone_and_marble
+  - motif/tree
 ---
 
 # human-tree
@@ -34,9 +45,9 @@ tags:
 
 ## Connections
 
-**Topoi:** [[Book of Nature]]
-**Motifs:** [[Silence]], [[Nature]], [[Stars]], [[Birds]], [[Animals]]
-**Themes & Concepts:** [[Faith and Doubt]], [[Doubt]], [[Natural Order]], [[Self-Knowledge]]
+**Topoi:** [[Book of Nature]], [[Great Chain of Being]], [[Sublime in Nature]], [[Axis Mundi (World Tree)]]
+**Motifs:** [[Silence]], [[Nature]], [[Stars]], [[Birds]], [[Animals]], [[Prayer]], [[Insects]], [[Grass Leaves of Grass]], [[Stone and Marble]], [[Tree]]
+**Themes & Concepts:** [[Faith and Doubt]], [[Doubt]], [[Natural Order]], [[Self-Knowledge]], [[One Life (Pantheism)]], [[Unseen The Hidden]], [[Self and Cosmos]]
 **Forms & Genres:** [[Lyric]]
 **Settings:** [[Rural England]]
 

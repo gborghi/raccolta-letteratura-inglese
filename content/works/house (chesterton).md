@@ -19,6 +19,16 @@ tags:
   - form/hymn
   - histref/christianity
   - character/christ
+  - character/virgin_mary
+  - concept/providence
+  - concept/wonder
+  - topos/open_road_homecoming
+  - motif/home
+  - motif/supernatural
+  - setting/inn
+  - setting/stable
+  - archetype/christ_figure
+  - histref/bible
 ---
 
 # house
@@ -34,12 +44,16 @@ tags:
 
 ## Connections
 
-**Topoi:** [[World Upside Down]]
-**Motifs:** [[Stars]], [[Journey]]
-**Themes & Concepts:** [[Divine Love]], [[Paradox]], [[Exile]], [[Nostalgia]], [[Grace and Redemption]]
+**Archetypes:** [[Christ Figure]]
+
+**Settings:** [[Inn]], [[Stable]]
+
+**Topoi:** [[World Upside Down]], [[Open Road Homecoming]]
+**Motifs:** [[Stars]], [[Journey]], [[Home]], [[Supernatural]]
+**Themes & Concepts:** [[Divine Love]], [[Paradox]], [[Exile]], [[Nostalgia]], [[Grace and Redemption]], [[Providence]], [[Wonder]]
 **Forms & Genres:** [[Lyric]], [[Hymn]]
-**Historical References:** [[Christianity]]
-**Characters:** [[Christ]]
+**Historical References:** [[Christianity]], [[Bible]]
+**Characters:** [[Christ]], [[Virgin Mary]]
 
 ## Chapters / scenes / sections
 

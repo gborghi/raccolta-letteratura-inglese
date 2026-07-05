@@ -13,6 +13,14 @@ tags:
   - histref/christianity
   - concept/martyrdom
   - motif/the_cross
+  - character/f_e_smith
+  - concept/nationalism_and_patriotism
+  - motif/flags_and_banners
+  - setting/russia
+  - setting/mountains
+  - archetype/martyr_saint
+  - histref/islam
+  - histref/welsh_disestablishment
 ---
 
 # smith
@@ -28,10 +36,16 @@ tags:
 
 ## Connections
 
-**Motifs:** [[Cross]]
-**Themes & Concepts:** [[Satire of Society]], [[Martyrdom]]
+**Archetypes:** [[Martyr Saint]]
+
+**Settings:** [[Russia]], [[Mountains]]
+
+**Characters:** [[F. E. Smith]]
+
+**Motifs:** [[Cross]], [[Flags and Banners]]
+**Themes & Concepts:** [[Satire of Society]], [[Martyrdom]], [[Nationalism and Patriotism]]
 **Forms & Genres:** [[Ode]], [[Satire]]
-**Historical References:** [[Christianity]]
+**Historical References:** [[Christianity]], [[Islam]], [[Welsh Disestablishment]]
 
 ## Chapters / scenes / sections
 

@@ -16,6 +16,12 @@ tags:
   - concept/joy
   - concept/nature_vs_civilization
   - topos/book_of_nature
+  - character/quoodle
+  - concept/perception_and_consciousness
+  - concept/sin_and_the_fall
+  - topos/fall_from_innocence
+  - motif/smell_and_scent
+  - histref/bible
 ---
 
 # quoodle
@@ -31,9 +37,13 @@ tags:
 
 ## Connections
 
-**Topoi:** [[Book of Nature]]
-**Motifs:** [[Animals]], [[Nature]], [[Flowers]]
-**Themes & Concepts:** [[Wonder and Gratitude]], [[Joy]], [[Nature vs Civilization]]
+**Historical References:** [[Bible]]
+
+**Characters:** [[Quoodle]]
+
+**Topoi:** [[Book of Nature]], [[Fall from Innocence]]
+**Motifs:** [[Animals]], [[Nature]], [[Flowers]], [[Smell and Scent]]
+**Themes & Concepts:** [[Wonder and Gratitude]], [[Joy]], [[Nature vs Civilization]], [[Perception and Consciousness]], [[Sin and the Fall]]
 **Forms & Genres:** [[Comic Verse Song]], [[Lyric]]
 
 ## Chapters / scenes / sections

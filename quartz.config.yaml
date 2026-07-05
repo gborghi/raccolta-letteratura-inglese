@@ -4,7 +4,9 @@ configuration:
   pageTitleSuffix: ""
   enableSPA: true
   enablePopovers: true
-  analytics: null
+  analytics:
+    provider: goatcounter
+    websiteId: gborghi83
   locale: en-US
   baseUrl: gborghi.github.io/raccolta-letteratura-inglese
   ignorePatterns:

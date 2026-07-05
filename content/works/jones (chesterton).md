@@ -14,6 +14,15 @@ tags:
   - concept/critique_of_progress
   - concept/power_and_corruption
   - archetype/corrupt_official
+  - character/jones
+  - concept/body
+  - concept/grotesque
+  - concept/freedom_and_liberty
+  - topos/world_upside_down
+  - motif/chains
+  - archetype/common_man_2
+  - form/comic_verse_song
+  - histref/tennyson
 ---
 
 *by Chesterton*  ·  **Cluster:** [[Satire of Society · Epigram · Satire]]
@@ -27,9 +36,17 @@ tags:
 
 ## Connections
 
-**Archetypes:** [[Corrupt Official]]
-**Themes & Concepts:** [[Satire of Society]], [[Critique of Progress]], [[Power and Corruption]]
-**Forms & Genres:** [[Satire]], [[Narrative Poem]], [[Parody]]
+**Historical References:** [[Tennyson]]
+
+**Motifs:** [[Chains]]
+
+**Topoi:** [[World Upside Down]]
+
+**Characters:** [[Jones]]
+
+**Archetypes:** [[Corrupt Official]], [[Common Man (2)]]
+**Themes & Concepts:** [[Satire of Society]], [[Critique of Progress]], [[Power and Corruption]], [[Body]], [[Grotesque]], [[Freedom and Liberty]]
+**Forms & Genres:** [[Satire]], [[Narrative Poem]], [[Parody]], [[Comic Verse Song]]
 
 ## Chapters / scenes / sections
 

@@ -20,6 +20,14 @@ tags:
   - histref/christianity
   - character/christ
   - archetype/innocent
+  - concept/paganism_and_classical_revival
+  - topos/sic_transit_gloria_mundi
+  - motif/snow
+  - motif/frost
+  - motif/night
+  - motif/death
+  - motif/leaves
+  - setting/inn
 ---
 
 # childsnow
@@ -35,10 +43,12 @@ tags:
 
 ## Connections
 
-**Topoi:** [[Golden Age]]
+**Settings:** [[Inn]]
+
+**Topoi:** [[Golden Age]], [[Sic Transit Gloria Mundi]]
 **Archetypes:** [[Innocent]]
-**Motifs:** [[Winter]], [[Fire]], [[Stars]], [[Inn Tavern]]
-**Themes & Concepts:** [[Divine Love]], [[Grace and Redemption]], [[Wonder and Gratitude]]
+**Motifs:** [[Winter]], [[Fire]], [[Stars]], [[Inn Tavern]], [[Snow]], [[Frost]], [[Night]], [[Death]], [[Leaves]]
+**Themes & Concepts:** [[Divine Love]], [[Grace and Redemption]], [[Wonder and Gratitude]], [[Paganism and Classical Revival]]
 **Forms & Genres:** [[Hymn]], [[Lyric]]
 **Historical References:** [[Christianity]]
 **Characters:** [[Christ]]

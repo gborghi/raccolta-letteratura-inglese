@@ -21,6 +21,12 @@ tags:
   - archetype/christ_figure
   - form/hymn
   - form/lyric
+  - character/virgin_mary
+  - concept/providence
+  - concept/incarnation
+  - topos/open_road_homecoming
+  - motif/home
+  - setting/inn
 ---
 
 # spring
@@ -36,13 +42,15 @@ tags:
 
 ## Connections
 
-**Topoi:** [[Paradise Lost]]
+**Settings:** [[Inn]]
+
+**Topoi:** [[Paradise Lost]], [[Open Road Homecoming]]
 **Archetypes:** [[Christ Figure]]
-**Motifs:** [[Stars]], [[Inn Tavern]]
-**Themes & Concepts:** [[Faith]], [[Wonder and Gratitude]], [[Exile]], [[Divine Love]], [[Paradox]]
+**Motifs:** [[Stars]], [[Inn Tavern]], [[Home]]
+**Themes & Concepts:** [[Faith]], [[Wonder and Gratitude]], [[Exile]], [[Divine Love]], [[Paradox]], [[Providence]], [[Incarnation]]
 **Forms & Genres:** [[Hymn]], [[Lyric]]
 **Historical References:** [[Christianity]], [[Bible]]
-**Characters:** [[Christ]]
+**Characters:** [[Christ]], [[Virgin Mary]]
 
 ## Chapters / scenes / sections
 

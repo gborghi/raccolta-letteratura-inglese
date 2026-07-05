@@ -14,6 +14,16 @@ tags:
   - motif/blood
   - motif/eyes_sight
   - form/lyric
+  - concept/body
+  - concept/sin_and_the_fall
+  - concept/uncanny
+  - concept/perception_and_consciousness
+  - topos/double
+  - motif/mirror
+  - motif/soul
+  - motif/prayer
+  - motif/river
+  - form/hymn
 ---
 
 # suprise
@@ -29,9 +39,11 @@ tags:
 
 ## Connections
 
-**Motifs:** [[Swords and Weapons]], [[Blood]], [[Eyes and Sight]]
-**Themes & Concepts:** [[Self-Knowledge]], [[Wonder and Gratitude]], [[Grace and Redemption]]
-**Forms & Genres:** [[Lyric]]
+**Topoi:** [[Double]]
+
+**Motifs:** [[Swords and Weapons]], [[Blood]], [[Eyes and Sight]], [[Mirror]], [[Soul]], [[Prayer]], [[River]]
+**Themes & Concepts:** [[Self-Knowledge]], [[Wonder and Gratitude]], [[Grace and Redemption]], [[Body]], [[Sin and the Fall]], [[Uncanny]], [[Perception and Consciousness]]
+**Forms & Genres:** [[Lyric]], [[Hymn]]
 
 ## Chapters / scenes / sections
 

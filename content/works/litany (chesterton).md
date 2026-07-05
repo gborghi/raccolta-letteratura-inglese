@@ -18,6 +18,17 @@ tags:
   - motif/rose
   - concept/wonder_and_gratitude
   - histref/christianity
+  - concept/providence
+  - concept/eternity
+  - concept/paradox
+  - concept/incarnation
+  - topos/world_upside_down
+  - motif/window
+  - motif/stars
+  - archetype/great_mother
+  - form/litany
+  - histref/bible
+  - histref/litany_of_loreto
 ---
 
 # litany
@@ -33,10 +44,14 @@ tags:
 
 ## Connections
 
-**Motifs:** [[Mirror]], [[Light and Dark]], [[Rose]]
-**Themes & Concepts:** [[Divine Love]], [[Faith]], [[Wonder and Gratitude]]
-**Forms & Genres:** [[Lyric]], [[Hymn]]
-**Historical References:** [[Christianity]]
+**Archetypes:** [[Great Mother]]
+
+**Topoi:** [[World Upside Down]]
+
+**Motifs:** [[Mirror]], [[Light and Dark]], [[Rose]], [[Window]], [[Stars]]
+**Themes & Concepts:** [[Divine Love]], [[Faith]], [[Wonder and Gratitude]], [[Providence]], [[Eternity]], [[Paradox]], [[Incarnation]]
+**Forms & Genres:** [[Lyric]], [[Hymn]], [[Litany]]
+**Historical References:** [[Christianity]], [[Bible]], [[Litany of Loreto]]
 **Characters:** [[Virgin Mary]], [[Christ]]
 
 ## Chapters / scenes / sections

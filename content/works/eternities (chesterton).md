@@ -16,6 +16,11 @@ tags:
   - motif/nature
   - histref/the_bible
   - form/sonnet
+  - concept/humility
+  - concept/heaven_and_the_afterlife
+  - topos/book_of_nature
+  - motif/grass_leaves_of_grass
+  - motif/prayer
 ---
 
 *by Chesterton*  ·  **Cluster:** [[Self-Knowledge · Immortality · Self-Reliance]]
@@ -29,9 +34,9 @@ tags:
 
 ## Connections
 
-**Topoi:** [[Memento Mori]]
-**Motifs:** [[Nature]]
-**Themes & Concepts:** [[Mortality]], [[Immortality]], [[Wonder and Gratitude]], [[Self-Knowledge]], [[Faith]]
+**Topoi:** [[Memento Mori]], [[Book of Nature]]
+**Motifs:** [[Nature]], [[Grass Leaves of Grass]], [[Prayer]]
+**Themes & Concepts:** [[Mortality]], [[Immortality]], [[Wonder and Gratitude]], [[Self-Knowledge]], [[Faith]], [[Humility]], [[Heaven and the Afterlife]]
 **Forms & Genres:** [[Sonnet]]
 **Historical References:** [[Bible]]
 

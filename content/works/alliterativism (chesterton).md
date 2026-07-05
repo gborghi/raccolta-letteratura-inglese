@@ -14,6 +14,12 @@ tags:
   - concept/war_and_its_cost
   - concept/nationalism_and_patriotism
   - histref/the_first_world_war
+  - concept/power_of_language
+  - concept/deception
+  - topos/world_upside_down
+  - setting/germany
+  - setting/continental_europe_brussels
+  - form/epigram
 ---
 
 # alliterativism
@@ -29,8 +35,12 @@ tags:
 
 ## Connections
 
-**Themes & Concepts:** [[Satire of Society]], [[War and its Cost]], [[Nationalism and Patriotism]]
-**Forms & Genres:** [[Satire]], [[Parody]], [[Comic Verse Song]]
+**Settings:** [[Germany]], [[Continental Europe (Brussels)]]
+
+**Topoi:** [[World Upside Down]]
+
+**Themes & Concepts:** [[Satire of Society]], [[War and its Cost]], [[Nationalism and Patriotism]], [[Power of Language]], [[Deception]]
+**Forms & Genres:** [[Satire]], [[Parody]], [[Comic Verse Song]], [[Epigram]]
 **Historical References:** [[First World War]]
 
 ## Chapters / scenes / sections

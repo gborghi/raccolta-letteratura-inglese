@@ -13,6 +13,12 @@ tags:
   - topos/carpe_diem
   - form/ballad
   - form/lyric
+  - concept/satire_of_society
+  - concept/despair
+  - concept/suicide
+  - motif/gallows
+  - form/comic_verse_song
+  - histref/french_revolution
 ---
 
 # suicide
@@ -28,9 +34,13 @@ tags:
 
 ## Connections
 
+**Historical References:** [[French Revolution]]
+
+**Motifs:** [[Gallows]]
+
 **Topoi:** [[Carpe Diem]]
-**Themes & Concepts:** [[Mortality]], [[Joy]], [[Wonder and Gratitude]]
-**Forms & Genres:** [[Ballad Ballade]], [[Lyric]]
+**Themes & Concepts:** [[Mortality]], [[Joy]], [[Wonder and Gratitude]], [[Satire of Society]], [[Despair]], [[Suicide]]
+**Forms & Genres:** [[Ballad Ballade]], [[Lyric]], [[Comic Verse Song]]
 
 ## Chapters / scenes / sections
 

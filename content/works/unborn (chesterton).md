@@ -14,6 +14,16 @@ tags:
   - motif/light_and_dark
   - concept/childhood_and_growth
   - form/lyric
+  - concept/desire_and_longing
+  - concept/imagination
+  - concept/imprisonment
+  - topos/world_upside_down
+  - motif/storm
+  - motif/fire
+  - motif/eyes_and_sight
+  - motif/door
+  - archetype/child
+  - form/dramatic_monologue
 ---
 
 # unborn
@@ -29,9 +39,13 @@ tags:
 
 ## Connections
 
-**Motifs:** [[Dreams]], [[Night]], [[Light and Dark]]
-**Themes & Concepts:** [[Wonder and Gratitude]], [[Innocence and Experience]], [[Maturation and Growth]]
-**Forms & Genres:** [[Lyric]]
+**Archetypes:** [[Child]]
+
+**Topoi:** [[World Upside Down]]
+
+**Motifs:** [[Dreams]], [[Night]], [[Light and Dark]], [[Storm]], [[Fire]], [[Eyes and Sight]], [[Door]]
+**Themes & Concepts:** [[Wonder and Gratitude]], [[Innocence and Experience]], [[Maturation and Growth]], [[Desire and Longing]], [[Imagination]], [[Imprisonment]]
+**Forms & Genres:** [[Lyric]], [[Dramatic Monologue]]
 
 ## Chapters / scenes / sections
 

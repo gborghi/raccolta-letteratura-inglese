@@ -14,6 +14,18 @@ tags:
   - concept/mortality
   - setting/rural_england
   - form/elegy
+  - concept/class_conflict
+  - concept/power_and_corruption
+  - concept/social_injustice
+  - motif/birds
+  - motif/bees
+  - motif/cross
+  - motif/stars
+  - setting/battlefield
+  - setting/court
+  - archetype/common_man_2
+  - archetype/corrupt_official
+  - form/satire
 ---
 
 # elegy
@@ -29,10 +41,12 @@ tags:
 
 ## Connections
 
-**Motifs:** [[Grave]]
-**Themes & Concepts:** [[Nationalism and Patriotism]], [[War and its Cost]], [[Satire of Society]], [[Mortality]]
-**Forms & Genres:** [[Elegy]]
-**Settings:** [[Rural England]]
+**Archetypes:** [[Common Man (2)]], [[Corrupt Official]]
+
+**Motifs:** [[Grave]], [[Birds]], [[Bees]], [[Cross]], [[Stars]]
+**Themes & Concepts:** [[Nationalism and Patriotism]], [[War and its Cost]], [[Satire of Society]], [[Mortality]], [[Class Conflict]], [[Power and Corruption]], [[Social Injustice]]
+**Forms & Genres:** [[Elegy]], [[Satire]]
+**Settings:** [[Rural England]], [[Battlefield]], [[Court]]
 
 ## Chapters / scenes / sections
 

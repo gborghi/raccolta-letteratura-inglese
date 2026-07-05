@@ -16,6 +16,14 @@ tags:
   - topos/carpe_diem
   - motif/wine_and_drink
   - histref/eastern_religion
+  - character/omar_khayyam
+  - concept/reform
+  - concept/paradox
+  - topos/world_upside_down
+  - motif/bread_and_wine_eucharist
+  - setting/desert
+  - archetype/prophet
+  - histref/puritanism
 ---
 
 # new-omar
@@ -31,11 +39,17 @@ tags:
 
 ## Connections
 
-**Topoi:** [[Carpe Diem]]
-**Motifs:** [[Wine and Drink]]
-**Themes & Concepts:** [[Satire of Society]], [[Critique of Progress]], [[Joy]]
+**Archetypes:** [[Prophet]]
+
+**Settings:** [[Desert]]
+
+**Characters:** [[Omar Khayyam]]
+
+**Topoi:** [[Carpe Diem]], [[World Upside Down]]
+**Motifs:** [[Wine and Drink]], [[Bread and Wine Eucharist]]
+**Themes & Concepts:** [[Satire of Society]], [[Critique of Progress]], [[Joy]], [[Reform]], [[Paradox]]
 **Forms & Genres:** [[Parody]], [[Epigram]], [[Satire]]
-**Historical References:** [[Eastern Religion Comparative Religion]]
+**Historical References:** [[Eastern Religion Comparative Religion]], [[Puritanism]]
 
 ## Chapters / scenes / sections
 

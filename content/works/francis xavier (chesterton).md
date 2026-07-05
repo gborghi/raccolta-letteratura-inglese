@@ -20,6 +20,16 @@ tags:
   - histref/eastern_religion
   - setting/the_orient
   - motif/stars
+  - character/francis_xavier
+  - concept/vanity_of_worldly_things
+  - concept/unseen_the_hidden
+  - concept/self_sacrifice
+  - topos/sic_transit_gloria_mundi
+  - motif/dust
+  - motif/cross
+  - motif/light_and_dark
+  - motif/time
+  - form/elegy
 ---
 
 *by Chesterton*  ·  **Cluster:** [[Martyrdom · Martyr Saint · Cross]]
@@ -33,10 +43,14 @@ tags:
 
 ## Connections
 
+**Topoi:** [[Sic Transit Gloria Mundi]]
+
+**Characters:** [[Francis Xavier]]
+
 **Archetypes:** [[Martyr Saint]], [[Pilgrim]]
-**Motifs:** [[Stars]]
-**Themes & Concepts:** [[Martyrdom]], [[Faith and Doubt]], [[Providence]], [[Divine Love]], [[Heroism]]
-**Forms & Genres:** [[Spenserian Stanza]], [[Lyric]]
+**Motifs:** [[Stars]], [[Dust]], [[Cross]], [[Light and Dark]], [[Time]]
+**Themes & Concepts:** [[Martyrdom]], [[Faith and Doubt]], [[Providence]], [[Divine Love]], [[Heroism]], [[Vanity of Worldly Things]], [[Unseen The Hidden]], [[Self-Sacrifice]]
+**Forms & Genres:** [[Spenserian Stanza]], [[Lyric]], [[Elegy]]
 **Historical References:** [[Catholic Church]], [[Eastern Religion Comparative Religion]]
 **Settings:** [[Orient]]
 

@@ -22,6 +22,14 @@ tags:
   - character/the_virgin_mary
   - character/christ
   - archetype/outcast_wanderer
+  - concept/providence
+  - concept/paradox
+  - topos/world_upside_down
+  - motif/home
+  - motif/journey
+  - archetype/great_mother
+  - archetype/child
+  - histref/bible
 ---
 
 # christmas-poem
@@ -37,12 +45,12 @@ tags:
 
 ## Connections
 
-**Topoi:** [[Paradise Lost]], [[Open Road Homecoming]]
-**Archetypes:** [[Outsider]]
-**Motifs:** [[Inn Tavern]], [[Stars]]
-**Themes & Concepts:** [[Divine Love]], [[Grace and Redemption]], [[Exile]], [[Wonder and Gratitude]]
+**Topoi:** [[Paradise Lost]], [[Open Road Homecoming]], [[World Upside Down]]
+**Archetypes:** [[Outsider]], [[Great Mother]], [[Child]]
+**Motifs:** [[Inn Tavern]], [[Stars]], [[Home]], [[Journey]]
+**Themes & Concepts:** [[Divine Love]], [[Grace and Redemption]], [[Exile]], [[Wonder and Gratitude]], [[Providence]], [[Paradox]]
 **Forms & Genres:** [[Hymn]], [[Lyric]]
-**Historical References:** [[Ancient Rome]]
+**Historical References:** [[Ancient Rome]], [[Bible]]
 **Settings:** [[Inn]]
 **Characters:** [[Virgin Mary]], [[Christ]]
 

@@ -16,6 +16,14 @@ tags:
   - character/king_arthur
   - archetype/king
   - motif/swords_weapons
+  - concept/faith_and_doubt
+  - concept/kingship_and_legitimacy
+  - concept/ratiocination_detection
+  - topos/ubi_sunt
+  - topos/immortality_through_verse
+  - motif/crown
+  - motif/flags_and_banners
+  - setting/medieval_england_2
 ---
 
 # arthur
@@ -31,9 +39,13 @@ tags:
 
 ## Connections
 
+**Settings:** [[Medieval England (2)]]
+
+**Topoi:** [[Ubi Sunt]], [[Immortality Through Verse]]
+
 **Archetypes:** [[King]]
-**Motifs:** [[Swords and Weapons]]
-**Themes & Concepts:** [[Truth]], [[Imagination]], [[Critique of Progress]], [[Nostalgia]]
+**Motifs:** [[Swords and Weapons]], [[Crown]], [[Flags and Banners]]
+**Themes & Concepts:** [[Truth]], [[Imagination]], [[Critique of Progress]], [[Nostalgia]], [[Faith and Doubt]], [[Kingship and Legitimacy]], [[Ratiocination Detection]]
 **Forms & Genres:** [[Sonnet]]
 **Historical References:** [[Arthurian Legend]]
 **Characters:** [[King Arthur]]

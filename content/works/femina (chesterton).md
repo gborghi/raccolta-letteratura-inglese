@@ -16,6 +16,15 @@ tags:
   - motif/moon
   - motif/birds
   - motif/storm
+  - character/god
+  - concept/apocalypse
+  - concept/self_and_cosmos
+  - concept/sublime
+  - topos/sublime_in_nature
+  - motif/grass_leaves_of_grass
+  - motif/blood
+  - archetype/common_man_2
+  - histref/bible
 ---
 
 # femina
@@ -31,8 +40,16 @@ tags:
 
 ## Connections
 
-**Motifs:** [[Light and Dark]], [[Sun]], [[Moon]], [[Birds]], [[Storm]]
-**Themes & Concepts:** [[Wonder and Gratitude]], [[Faith]], [[Humility]]
+**Historical References:** [[Bible]]
+
+**Archetypes:** [[Common Man (2)]]
+
+**Topoi:** [[Sublime in Nature]]
+
+**Characters:** [[God]]
+
+**Motifs:** [[Light and Dark]], [[Sun]], [[Moon]], [[Birds]], [[Storm]], [[Grass Leaves of Grass]], [[Blood]]
+**Themes & Concepts:** [[Wonder and Gratitude]], [[Faith]], [[Humility]], [[Apocalypse]], [[Self and Cosmos]], [[Sublime]]
 **Forms & Genres:** [[Lyric]]
 
 ## Chapters / scenes / sections

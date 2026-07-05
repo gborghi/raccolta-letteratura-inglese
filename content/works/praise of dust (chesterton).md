@@ -17,6 +17,21 @@ tags:
   - motif/flowers
   - motif/white_and_red
   - histref/the_bible
+  - concept/resurrection
+  - concept/paradox
+  - concept/metamorphosis_transformation
+  - concept/providence
+  - concept/apocalypse
+  - topos/world_upside_down
+  - topos/vanitas
+  - motif/stone_and_marble
+  - motif/sun
+  - motif/fire
+  - archetype/tyrant
+  - archetype/prophet
+  - archetype/dust_personified
+  - form/dramatic_monologue
+  - histref/christianity
 ---
 
 # praise of dust
@@ -32,11 +47,13 @@ tags:
 
 ## Connections
 
-**Topoi:** [[Memento Mori]]
-**Motifs:** [[Dust]], [[Flowers]], [[White and Red]]
-**Themes & Concepts:** [[Humility]], [[Mortality]], [[Wonder and Gratitude]], [[Grace and Redemption]]
-**Forms & Genres:** [[Lyric]]
-**Historical References:** [[Bible]]
+**Archetypes:** [[Tyrant]], [[Prophet]], [[Dust Personified]]
+
+**Topoi:** [[Memento Mori]], [[World Upside Down]], [[Vanitas]]
+**Motifs:** [[Dust]], [[Flowers]], [[White and Red]], [[Stone and Marble]], [[Sun]], [[Fire]]
+**Themes & Concepts:** [[Humility]], [[Mortality]], [[Wonder and Gratitude]], [[Grace and Redemption]], [[Resurrection]], [[Paradox]], [[Metamorphosis Transformation]], [[Providence]], [[Apocalypse]]
+**Forms & Genres:** [[Lyric]], [[Dramatic Monologue]]
+**Historical References:** [[Bible]], [[Christianity]]
 
 ## Chapters / scenes / sections
 

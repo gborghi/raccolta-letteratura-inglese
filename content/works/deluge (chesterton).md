@@ -16,6 +16,15 @@ tags:
   - concept/humility
   - form/lyric
   - form/ballad
+  - concept/courage
+  - concept/apocalypse
+  - concept/sublime
+  - concept/providence
+  - concept/wonder_and_terror
+  - topos/last_stand
+  - topos/sublime_in_nature
+  - motif/swords_and_weapons
+  - archetype/common_man_2
 ---
 
 # deluge
@@ -31,8 +40,12 @@ tags:
 
 ## Connections
 
-**Motifs:** [[Storm]], [[Water]], [[Wine and Drink]]
-**Themes & Concepts:** [[Faith]], [[Wonder and Gratitude]], [[Humility]]
+**Archetypes:** [[Common Man (2)]]
+
+**Topoi:** [[Last Stand]], [[Sublime in Nature]]
+
+**Motifs:** [[Storm]], [[Water]], [[Wine and Drink]], [[Swords and Weapons]]
+**Themes & Concepts:** [[Faith]], [[Wonder and Gratitude]], [[Humility]], [[Courage]], [[Apocalypse]], [[Sublime]], [[Providence]], [[Wonder and Terror]]
 **Forms & Genres:** [[Lyric]], [[Ballad Ballade]]
 **Historical References:** [[Bible]]
 

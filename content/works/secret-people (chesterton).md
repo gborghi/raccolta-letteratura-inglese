@@ -18,6 +18,27 @@ tags:
   - histref/napoleonic_wars
   - motif/silence
   - setting/rural_england
+  - concept/poverty
+  - concept/war_and_its_cost
+  - concept/kingship_and_legitimacy
+  - concept/freedom_and_liberty
+  - concept/secrecy_and_concealment
+  - topos/fortune_s_wheel
+  - topos/war_as_glory
+  - motif/chains
+  - motif/crown
+  - motif/blood
+  - motif/ruins_the_abbey
+  - motif/money_and_gold
+  - setting/battlefield
+  - setting/sea_2
+  - archetype/common_man_2
+  - archetype/corrupt_official
+  - archetype/king
+  - histref/wars_of_the_roses
+  - histref/french_revolution
+  - histref/puritanism
+  - histref/english_civil_war
 ---
 
 # secret-people
@@ -33,11 +54,15 @@ tags:
 
 ## Connections
 
-**Motifs:** [[Silence]]
-**Themes & Concepts:** [[Common Man]], [[Social Injustice]], [[Class Conflict]], [[Nationalism and Patriotism]], [[Power and Corruption]]
+**Archetypes:** [[Common Man (2)]], [[Corrupt Official]], [[King]]
+
+**Topoi:** [[Fortune's Wheel]], [[War as Glory]]
+
+**Motifs:** [[Silence]], [[Chains]], [[Crown]], [[Blood]], [[Ruins the Abbey]], [[Money and Gold]]
+**Themes & Concepts:** [[Common Man]], [[Social Injustice]], [[Class Conflict]], [[Nationalism and Patriotism]], [[Power and Corruption]], [[Poverty]], [[War and its Cost]], [[Kingship and Legitimacy]], [[Freedom and Liberty]], [[Secrecy and Concealment]]
 **Forms & Genres:** [[Ballad Ballade]], [[Narrative Poem]]
-**Historical References:** [[Reformation]], [[Napoleonic Wars the Navy]]
-**Settings:** [[Rural England]]
+**Historical References:** [[Reformation]], [[Napoleonic Wars the Navy]], [[Wars of the Roses]], [[French Revolution]], [[Puritanism]], [[English Civil War]]
+**Settings:** [[Rural England]], [[Battlefield]], [[Sea (2)]]
 
 ## Chapters / scenes / sections
 

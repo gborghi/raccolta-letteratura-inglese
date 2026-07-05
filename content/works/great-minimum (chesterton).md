@@ -16,6 +16,13 @@ tags:
   - motif/flowers
   - motif/stars
   - form/lyric
+  - concept/desire_and_longing
+  - concept/grief_and_loss
+  - concept/mortality
+  - concept/apocalypse
+  - motif/lightning
+  - motif/bread_and_wine_eucharist
+  - archetype/lover
 ---
 
 # great-minimum
@@ -31,9 +38,11 @@ tags:
 
 ## Connections
 
+**Archetypes:** [[Lover]]
+
 **Topoi:** [[Carpe Diem]]
-**Motifs:** [[Rose]], [[Flowers]], [[Stars]]
-**Themes & Concepts:** [[Wonder and Gratitude]], [[Joy]], [[Romantic Love]], [[Faith and Doubt]]
+**Motifs:** [[Rose]], [[Flowers]], [[Stars]], [[Lightning]], [[Bread and Wine Eucharist]]
+**Themes & Concepts:** [[Wonder and Gratitude]], [[Joy]], [[Romantic Love]], [[Faith and Doubt]], [[Desire and Longing]], [[Grief and Loss]], [[Mortality]], [[Apocalypse]]
 **Forms & Genres:** [[Lyric]]
 
 ## Chapters / scenes / sections

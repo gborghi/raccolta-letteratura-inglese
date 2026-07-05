@@ -14,6 +14,14 @@ tags:
   - concept/critique_of_progress
   - concept/nostalgia
   - topos/dance_of_death
+  - concept/anti_industrialism
+  - concept/freedom_and_liberty
+  - setting/america
+  - setting/new_york
+  - setting/russia
+  - form/epigram
+  - histref/dostoevsky
+  - histref/samuel_johnson
 ---
 
 *by Chesterton*  ·  **Cluster:** [[Satire of Society · Epigram · Satire]]
@@ -23,9 +31,13 @@ tags:
 
 ## Connections
 
+**Historical References:** [[Dostoevsky]], [[Samuel Johnson]]
+
+**Settings:** [[America]], [[New York]], [[Russia]]
+
 **Topoi:** [[Dance of Death]]
-**Themes & Concepts:** [[Nationalism and Patriotism]], [[Satire of Society]], [[Critique of Progress]], [[Nostalgia]]
-**Forms & Genres:** [[Comic Verse Song]], [[Satire]]
+**Themes & Concepts:** [[Nationalism and Patriotism]], [[Satire of Society]], [[Critique of Progress]], [[Nostalgia]], [[Anti-Industrialism]], [[Freedom and Liberty]]
+**Forms & Genres:** [[Comic Verse Song]], [[Satire]], [[Epigram]]
 
 ## Testo integrale / Full text
 

@@ -20,6 +20,11 @@ tags:
   - form/song
   - form/ballad
   - form/satire
+  - concept/deception
+  - concept/greed_and_money
+  - topos/memento_mori
+  - motif/poison
+  - archetype/villain
 ---
 
 # grocer
@@ -35,9 +40,11 @@ tags:
 
 ## Connections
 
-**Topoi:** [[Beatus Ille (Happy the Man Rural Retreat)]]
-**Motifs:** [[Wine and Drink]], [[Food and Feasting]], [[Inn Tavern]], [[Money and Gold]]
-**Themes & Concepts:** [[Satire of Society]], [[Anti-Industrialism]], [[Common Man]], [[Distributism]]
+**Archetypes:** [[Villain]]
+
+**Topoi:** [[Beatus Ille (Happy the Man Rural Retreat)]], [[Memento Mori]]
+**Motifs:** [[Wine and Drink]], [[Food and Feasting]], [[Inn Tavern]], [[Money and Gold]], [[Poison]]
+**Themes & Concepts:** [[Satire of Society]], [[Anti-Industrialism]], [[Common Man]], [[Distributism]], [[Deception]], [[Greed and Money]]
 **Forms & Genres:** [[Comic Verse Song]], [[Ballad Ballade]], [[Satire]]
 **Settings:** [[Inn]]
 

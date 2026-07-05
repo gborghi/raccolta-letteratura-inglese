@@ -14,6 +14,21 @@ tags:
   - histref/christianity
   - concept/faith
   - concept/satire_of_society
+  - character/joan_la_pucelle
+  - character/sir_arthur_conan_doyle
+  - character/dennis_bradley
+  - concept/jealousy
+  - concept/doubt
+  - concept/conversion
+  - topos/war_as_glory
+  - motif/drums_and_bugles
+  - motif/flags_and_banners
+  - setting/ancient_rome_2
+  - archetype/great_mother
+  - form/mock_epic
+  - histref/islam
+  - histref/dante
+  - histref/ancient_rome
 ---
 
 *by Chesterton*  ·  **Cluster:** [[Christianity · Faith and Doubt · Doubt]]
@@ -27,9 +42,19 @@ tags:
 
 ## Connections
 
-**Themes & Concepts:** [[Faith]], [[Satire of Society]]
-**Forms & Genres:** [[Satire]], [[Ballad Ballade]], [[Comic Verse Song]]
-**Historical References:** [[Catholic Church]], [[Christianity]]
+**Archetypes:** [[Great Mother]]
+
+**Settings:** [[Ancient Rome (2)]]
+
+**Motifs:** [[Drums and Bugles]], [[Flags and Banners]]
+
+**Topoi:** [[War as Glory]]
+
+**Characters:** [[Joan la Pucelle]], [[Sir Arthur Conan Doyle]], [[Dennis Bradley]]
+
+**Themes & Concepts:** [[Faith]], [[Satire of Society]], [[Jealousy]], [[Doubt]], [[Conversion]]
+**Forms & Genres:** [[Satire]], [[Ballad Ballade]], [[Comic Verse Song]], [[Mock Epic]]
+**Historical References:** [[Catholic Church]], [[Christianity]], [[Islam]], [[Dante]], [[Ancient Rome]]
 
 ## Chapters / scenes / sections
 

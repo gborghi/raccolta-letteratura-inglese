@@ -14,6 +14,12 @@ tags:
   - motif/wine_and_drink
   - motif/the_inn_tavern
   - concept/critique_of_progress
+  - character/dalroy
+  - concept/fanaticism
+  - concept/self_deception
+  - topos/world_upside_down
+  - motif/food_and_feasting
+  - archetype/fool
 ---
 
 # vegetarian
@@ -29,8 +35,14 @@ tags:
 
 ## Connections
 
-**Motifs:** [[Wine and Drink]], [[Inn Tavern]]
-**Themes & Concepts:** [[Paradox]], [[Satire of Society]], [[Critique of Progress]]
+**Archetypes:** [[Fool]]
+
+**Topoi:** [[World Upside Down]]
+
+**Characters:** [[Dalroy]]
+
+**Motifs:** [[Wine and Drink]], [[Inn Tavern]], [[Food and Feasting]]
+**Themes & Concepts:** [[Paradox]], [[Satire of Society]], [[Critique of Progress]], [[Fanaticism]], [[Self-Deception]]
 **Forms & Genres:** [[Comic Verse Song]], [[Satire]]
 
 ## Chapters / scenes / sections

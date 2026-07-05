@@ -19,6 +19,19 @@ tags:
   - histref/the_bible
   - histref/christianity
   - character/christ
+  - character/magi
+  - concept/pride
+  - concept/paradox
+  - topos/quest
+  - motif/snow
+  - motif/serpent_snake
+  - motif/lion
+  - motif/prayer
+  - motif/bread_and_wine_eucharist
+  - motif/home
+  - archetype/wise_old_man_sage
+  - archetype/child
+  - histref/greek_mythology
 ---
 
 *by Chesterton*  ·  **Cluster:** [[Grace and Redemption · Humility · Bread and Wine Eucharist]]
@@ -32,11 +45,15 @@ tags:
 
 ## Connections
 
-**Motifs:** [[Light and Dark]], [[Stars]]
-**Themes & Concepts:** [[Humility]], [[Wonder and Gratitude]], [[Faith]], [[Truth]], [[Grace and Redemption]]
+**Archetypes:** [[Wise Old Man Sage]], [[Child]]
+
+**Topoi:** [[Quest]]
+
+**Motifs:** [[Light and Dark]], [[Stars]], [[Snow]], [[Serpent Snake]], [[Lion]], [[Prayer]], [[Bread and Wine Eucharist]], [[Home]]
+**Themes & Concepts:** [[Humility]], [[Wonder and Gratitude]], [[Faith]], [[Truth]], [[Grace and Redemption]], [[Pride]], [[Paradox]]
 **Forms & Genres:** [[Lyric]], [[Hymn]]
-**Historical References:** [[Bible]], [[Christianity]]
-**Characters:** [[Christ]]
+**Historical References:** [[Bible]], [[Christianity]], [[Greek Mythology]]
+**Characters:** [[Christ]], [[Magi]]
 
 ## Chapters / scenes / sections
 

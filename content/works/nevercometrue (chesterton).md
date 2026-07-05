@@ -18,6 +18,13 @@ tags:
   - motif/moon
   - motif/flowers
   - motif/garden
+  - concept/longing
+  - topos/unattainable_beloved
+  - topos/double
+  - motif/dance
+  - motif/marriage
+  - setting/island
+  - archetype/lover
 ---
 
 *by Chesterton*  ·  **Cluster:** [[Dreams · Moon]]
@@ -31,8 +38,14 @@ tags:
 
 ## Connections
 
-**Motifs:** [[Dreams]], [[Music and Song]], [[Moon]], [[Flowers]], [[Garden]]
-**Themes & Concepts:** [[Unrequited Frustrated Love]], [[Nostalgia]], [[Melancholy]], [[Romantic Love]]
+**Archetypes:** [[Lover]]
+
+**Settings:** [[Island]]
+
+**Topoi:** [[Unattainable Beloved]], [[Double]]
+
+**Motifs:** [[Dreams]], [[Music and Song]], [[Moon]], [[Flowers]], [[Garden]], [[Dance]], [[Marriage]]
+**Themes & Concepts:** [[Unrequited Frustrated Love]], [[Nostalgia]], [[Melancholy]], [[Romantic Love]], [[Longing]]
 **Forms & Genres:** [[Comic Verse Song]], [[Lyric]]
 
 ## Chapters / scenes / sections

@@ -16,6 +16,14 @@ tags:
   - topos/inexpressibility
   - motif/sun
   - motif/garden
+  - concept/sin_and_the_fall
+  - concept/wonder
+  - topos/world_upside_down
+  - topos/sublime_in_nature
+  - motif/sea
+  - setting/garden_2
+  - form/ode
+  - histref/bible
 ---
 
 *by Chesterton*  ·  **Cluster:** [[Wonder and Gratitude · Sublime · Storm]]
@@ -29,10 +37,14 @@ tags:
 
 ## Connections
 
-**Topoi:** [[Paradise Lost]], [[Fall from Innocence]], [[Inexpressibility]]
-**Motifs:** [[Sun]], [[Garden]]
-**Themes & Concepts:** [[Wonder and Gratitude]], [[Sublime]], [[Paradox]]
-**Forms & Genres:** [[Lyric]]
+**Historical References:** [[Bible]]
+
+**Settings:** [[Garden (2)]]
+
+**Topoi:** [[Paradise Lost]], [[Fall from Innocence]], [[Inexpressibility]], [[World Upside Down]], [[Sublime in Nature]]
+**Motifs:** [[Sun]], [[Garden]], [[Sea]]
+**Themes & Concepts:** [[Wonder and Gratitude]], [[Sublime]], [[Paradox]], [[Sin and the Fall]], [[Wonder]]
+**Forms & Genres:** [[Lyric]], [[Ode]]
 
 ## Chapters / scenes / sections
 

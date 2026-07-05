@@ -15,6 +15,13 @@ tags:
   - form/song
   - histref/christianity
   - archetype/hero
+  - character/st_george
+  - concept/masculinity_and_the_male_code
+  - topos/combat_strife
+  - motif/flags_and_banners
+  - setting/medieval_england_2
+  - archetype/damsel
+  - archetype/monster
 ---
 
 # the-englishman
@@ -30,9 +37,15 @@ tags:
 
 ## Connections
 
-**Archetypes:** [[Hero]]
-**Motifs:** [[Wine and Drink]], [[Food and Feasting]], [[Swords and Weapons]]
-**Themes & Concepts:** [[Nationalism and Patriotism]], [[Heroism]]
+**Settings:** [[Medieval England (2)]]
+
+**Topoi:** [[Combat Strife]]
+
+**Characters:** [[St George]]
+
+**Archetypes:** [[Hero]], [[Damsel]], [[Monster]]
+**Motifs:** [[Wine and Drink]], [[Food and Feasting]], [[Swords and Weapons]], [[Flags and Banners]]
+**Themes & Concepts:** [[Nationalism and Patriotism]], [[Heroism]], [[Masculinity and the Male Code]]
 **Forms & Genres:** [[Comic Verse Song]]
 **Historical References:** [[Christianity]]
 

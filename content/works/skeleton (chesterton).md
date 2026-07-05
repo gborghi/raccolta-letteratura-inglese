@@ -15,6 +15,12 @@ tags:
   - concept/paradox
   - motif/flowers
   - character/death_personified
+  - concept/secrecy_and_concealment
+  - concept/providence
+  - motif/birds
+  - motif/insects
+  - setting/grave_2
+  - archetype/king
 ---
 
 # skeleton
@@ -30,9 +36,13 @@ tags:
 
 ## Connections
 
+**Archetypes:** [[King]]
+
+**Settings:** [[Grave (2)]]
+
 **Topoi:** [[Memento Mori]]
-**Motifs:** [[Flowers]]
-**Themes & Concepts:** [[Mortality]], [[Joy]], [[Paradox]]
+**Motifs:** [[Flowers]], [[Birds]], [[Insects]]
+**Themes & Concepts:** [[Mortality]], [[Joy]], [[Paradox]], [[Secrecy and Concealment]], [[Providence]]
 **Forms & Genres:** [[Lyric]], [[Epigram]]
 **Characters:** [[Death Personified]]
 

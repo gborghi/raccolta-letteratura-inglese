@@ -22,6 +22,21 @@ tags:
   - motif/childhood
   - motif/flowers
   - archetype/child
+  - concept/order_vs_chaos
+  - concept/critique_of_progress
+  - concept/vanity
+  - concept/indolence
+  - topos/locus_amoenus
+  - motif/moon
+  - motif/sun
+  - motif/sea
+  - motif/stars
+  - setting/garden_2
+  - archetype/artist
+  - archetype/fool
+  - archetype/wise_old_man_sage
+  - form/comic_verse_song
+  - histref/romantic_movement_sensibility
 ---
 
 # artist
@@ -37,11 +52,15 @@ tags:
 
 ## Connections
 
-**Topoi:** [[World Upside Down]], [[Fall from Innocence]]
-**Archetypes:** [[Child]]
-**Motifs:** [[Dreams]], [[Nature]], [[Childhood]], [[Flowers]]
-**Themes & Concepts:** [[Artist and Society]], [[Satire of Society]], [[Wonder and Gratitude]], [[Innocence and Experience]], [[Maturation and Growth]], [[Nature vs Civilization]]
-**Forms & Genres:** [[Narrative Poem]], [[Satire]]
+**Historical References:** [[Romantic Movement (Sensibility)]]
+
+**Settings:** [[Garden (2)]]
+
+**Topoi:** [[World Upside Down]], [[Fall from Innocence]], [[Locus Amoenus]]
+**Archetypes:** [[Child]], [[Artist]], [[Fool]], [[Wise Old Man Sage]]
+**Motifs:** [[Dreams]], [[Nature]], [[Childhood]], [[Flowers]], [[Moon]], [[Sun]], [[Sea]], [[Stars]]
+**Themes & Concepts:** [[Artist and Society]], [[Satire of Society]], [[Wonder and Gratitude]], [[Innocence and Experience]], [[Maturation and Growth]], [[Nature vs Civilization]], [[Order vs Chaos]], [[Critique of Progress]], [[Vanity]], [[Indolence]]
+**Forms & Genres:** [[Narrative Poem]], [[Satire]], [[Comic Verse Song]]
 
 ## Chapters / scenes / sections
 

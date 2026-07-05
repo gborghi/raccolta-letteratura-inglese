@@ -18,6 +18,14 @@ tags:
   - motif/money_gold
   - motif/swords_weapons
   - histref/christianity
+  - concept/providence
+  - concept/deception
+  - concept/honour
+  - concept/union
+  - topos/great_chain_of_being
+  - motif/prayer
+  - motif/sleep
+  - histref/bible
 ---
 
 # a-hymn
@@ -33,10 +41,12 @@ tags:
 
 ## Connections
 
-**Motifs:** [[Money and Gold]], [[Swords and Weapons]]
-**Themes & Concepts:** [[Faith]], [[Humility]], [[Pride]], [[Power and Corruption]], [[Nationalism and Patriotism]], [[Reform]], [[Grace and Redemption]]
+**Topoi:** [[Great Chain of Being]]
+
+**Motifs:** [[Money and Gold]], [[Swords and Weapons]], [[Prayer]], [[Sleep]]
+**Themes & Concepts:** [[Faith]], [[Humility]], [[Pride]], [[Power and Corruption]], [[Nationalism and Patriotism]], [[Reform]], [[Grace and Redemption]], [[Providence]], [[Deception]], [[Honour]], [[Union]]
 **Forms & Genres:** [[Hymn]]
-**Historical References:** [[Christianity]]
+**Historical References:** [[Christianity]], [[Bible]]
 
 ## Chapters / scenes / sections
 

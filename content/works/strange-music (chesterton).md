@@ -13,6 +13,14 @@ tags:
   - motif/music_and_song
   - form/lyric
   - archetype/lover
+  - concept/hope
+  - concept/secrecy_and_concealment
+  - concept/inexpressibility_of_beauty
+  - concept/patience_and_waiting
+  - concept/death_and_love
+  - topos/immortality_through_verse
+  - topos/unattainable_beloved
+  - motif/silence
 ---
 
 # strange-music
@@ -28,9 +36,11 @@ tags:
 
 ## Connections
 
+**Topoi:** [[Immortality Through Verse]], [[Unattainable Beloved]]
+
 **Archetypes:** [[Lover]]
-**Motifs:** [[Music and Song]]
-**Themes & Concepts:** [[Romantic Love]], [[Unrequited Frustrated Love]], [[Mortality]]
+**Motifs:** [[Music and Song]], [[Silence]]
+**Themes & Concepts:** [[Romantic Love]], [[Unrequited Frustrated Love]], [[Mortality]], [[Hope]], [[Secrecy and Concealment]], [[Inexpressibility of Beauty]], [[Patience and Waiting]], [[Death and Love]]
 **Forms & Genres:** [[Lyric]]
 
 ## Chapters / scenes / sections

@@ -14,6 +14,12 @@ tags:
   - motif/money_gold
   - concept/martyrdom
   - archetype/martyr
+  - character/st_catherine_of_alexandria
+  - concept/deception
+  - concept/power_of_language
+  - concept/money_and_avarice
+  - setting/america
+  - histref/declaration_of_independence
 ---
 
 # rotarians
@@ -29,9 +35,15 @@ tags:
 
 ## Connections
 
+**Historical References:** [[Declaration of Independence]]
+
+**Settings:** [[America]]
+
+**Characters:** [[St. Catherine of Alexandria]]
+
 **Archetypes:** [[Martyr Saint]]
 **Motifs:** [[Wheel]], [[Money and Gold]]
-**Themes & Concepts:** [[Satire of Society]], [[Martyrdom]]
+**Themes & Concepts:** [[Satire of Society]], [[Martyrdom]], [[Deception]], [[Power of Language]], [[Money and Avarice]]
 **Forms & Genres:** [[Epigram]], [[Satire]]
 
 ## Chapters / scenes / sections

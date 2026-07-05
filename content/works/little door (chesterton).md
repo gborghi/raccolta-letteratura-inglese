@@ -16,6 +16,13 @@ tags:
   - motif/swords_weapons
   - histref/the_bible
   - concept/grace_and_redemption
+  - concept/paradox
+  - concept/martyrdom
+  - concept/self_sacrifice
+  - topos/life_as_a_battle
+  - motif/cross
+  - motif/battlefield_2
+  - archetype/child
 ---
 
 *by Chesterton*  ·  **Cluster:** [[Faith · Providence · Divine Love]]
@@ -29,9 +36,11 @@ tags:
 
 ## Connections
 
-**Archetypes:** [[Christ Figure]]
-**Motifs:** [[Swords and Weapons]]
-**Themes & Concepts:** [[Divine Love]], [[Faith]], [[Grace and Redemption]]
+**Topoi:** [[Life as a Battle]]
+
+**Archetypes:** [[Christ Figure]], [[Child]]
+**Motifs:** [[Swords and Weapons]], [[Cross]], [[Battlefield (2)]]
+**Themes & Concepts:** [[Divine Love]], [[Faith]], [[Grace and Redemption]], [[Paradox]], [[Martyrdom]], [[Self-Sacrifice]]
 **Forms & Genres:** [[Hymn]], [[Lyric]]
 **Historical References:** [[Bible]]
 **Characters:** [[Christ]]

@@ -20,6 +20,11 @@ tags:
   - character/the_virgin_mary
   - character/christ
   - archetype/innocent
+  - concept/kingship_and_legitimacy
+  - concept/natural_order
+  - motif/light_and_dark
+  - motif/flowers
+  - archetype/great_mother
 ---
 
 # carol
@@ -35,9 +40,9 @@ tags:
 
 ## Connections
 
-**Archetypes:** [[Innocent]]
-**Motifs:** [[Stars]], [[Crown]], [[Fire]]
-**Themes & Concepts:** [[Divine Love]], [[Grace and Redemption]], [[Joy]], [[Wonder and Gratitude]]
+**Archetypes:** [[Innocent]], [[Great Mother]]
+**Motifs:** [[Stars]], [[Crown]], [[Fire]], [[Light and Dark]], [[Flowers]]
+**Themes & Concepts:** [[Divine Love]], [[Grace and Redemption]], [[Joy]], [[Wonder and Gratitude]], [[Kingship and Legitimacy]], [[Natural Order]]
 **Forms & Genres:** [[Hymn]], [[Lyric]]
 **Historical References:** [[Bible]]
 **Characters:** [[Virgin Mary]], [[Christ]]

@@ -18,6 +18,14 @@ tags:
   - motif/the_wheel
   - motif/money_gold
   - motif/garden
+  - character/king_dives
+  - concept/labor_and_work
+  - concept/greed_and_money
+  - motif/machine
+  - archetype/common_man_2
+  - archetype/satanic_figure
+  - histref/bible
+  - histref/industrial_revolution
 ---
 
 *by Chesterton*  ·  **Cluster:** [[Essay · Critique of Progress · Common Man]]
@@ -31,9 +39,13 @@ tags:
 
 ## Connections
 
-**Archetypes:** [[Rebel]], [[Tyrant]]
-**Motifs:** [[Wheel]], [[Money and Gold]], [[Garden]]
-**Themes & Concepts:** [[Class Conflict]], [[Anti-Industrialism]], [[Social Injustice]], [[Poverty]], [[Power and Corruption]]
+**Historical References:** [[Bible]], [[Industrial Revolution]]
+
+**Characters:** [[King Dives]]
+
+**Archetypes:** [[Rebel]], [[Tyrant]], [[Common Man (2)]], [[Satanic Figure]]
+**Motifs:** [[Wheel]], [[Money and Gold]], [[Garden]], [[Machine]]
+**Themes & Concepts:** [[Class Conflict]], [[Anti-Industrialism]], [[Social Injustice]], [[Poverty]], [[Power and Corruption]], [[Labor and Work]], [[Greed and Money]]
 **Forms & Genres:** [[Ballad Ballade]]
 
 ## Chapters / scenes / sections

@@ -21,6 +21,14 @@ tags:
   - motif/wine_and_drink
   - setting/the_orient
   - histref/the_orient
+  - character/abou_ben_adhem
+  - concept/power_and_corruption
+  - concept/fear
+  - concept/order_vs_chaos
+  - concept/reform
+  - setting/desert
+  - form/epigram
+  - histref/islam_and_the_east
 ---
 
 *by Chesterton*  ·  **Cluster:** [[Satire of Society · Epigram · Satire]]
@@ -34,13 +42,15 @@ tags:
 
 ## Connections
 
+**Characters:** [[Abou Ben Adhem]]
+
 **Topoi:** [[World Upside Down]]
 **Archetypes:** [[Corrupt Official]], [[Tyrant]]
 **Motifs:** [[Wine and Drink]]
-**Themes & Concepts:** [[Satire of Society]], [[Faith and Doubt]], [[Wonder and Gratitude]], [[Critique of Progress]], [[Pride]]
-**Forms & Genres:** [[Parody]], [[Satire]], [[Heroic Couplet]]
-**Historical References:** [[Orient Arabia]]
-**Settings:** [[Orient]]
+**Themes & Concepts:** [[Satire of Society]], [[Faith and Doubt]], [[Wonder and Gratitude]], [[Critique of Progress]], [[Pride]], [[Power and Corruption]], [[Fear]], [[Order vs Chaos]], [[Reform]]
+**Forms & Genres:** [[Parody]], [[Satire]], [[Heroic Couplet]], [[Epigram]]
+**Historical References:** [[Orient Arabia]], [[Islam and the East]]
+**Settings:** [[Orient]], [[Desert]]
 
 ## Chapters / scenes / sections
 

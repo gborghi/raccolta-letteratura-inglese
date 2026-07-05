@@ -17,6 +17,13 @@ tags:
   - motif/wine_and_drink
   - motif/fire
   - histref/classical_antiquity
+  - character/higgins
+  - concept/self_denial_and_renunciation
+  - concept/money_and_avarice
+  - concept/poverty
+  - topos/war_as_glory
+  - motif/death
+  - motif/money_and_gold
 ---
 
 # ascetic
@@ -32,8 +39,12 @@ tags:
 
 ## Connections
 
-**Motifs:** [[Wine and Drink]], [[Fire]]
-**Themes & Concepts:** [[Joy]], [[Faith]], [[Spiritual Emptiness]], [[Critique of Progress]], [[Satire of Society]]
+**Topoi:** [[War as Glory]]
+
+**Characters:** [[Higgins]]
+
+**Motifs:** [[Wine and Drink]], [[Fire]], [[Death]], [[Money and Gold]]
+**Themes & Concepts:** [[Joy]], [[Faith]], [[Spiritual Emptiness]], [[Critique of Progress]], [[Satire of Society]], [[Self-Denial and Renunciation]], [[Money and Avarice]], [[Poverty]]
 **Forms & Genres:** [[Ballad Ballade]], [[Satire]]
 **Historical References:** [[Classical Antiquity]]
 

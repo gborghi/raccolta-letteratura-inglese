@@ -38,6 +38,23 @@ tags:
   - archetype/villain
   - character/king_alfred
   - character/the_virgin_mary
+  - character/guthrum
+  - character/colan
+  - character/eldred
+  - character/mark_of_italy
+  - character/elf
+  - character/ogier
+  - character/harold
+  - character/gorlias
+  - concept/hope
+  - concept/conversion
+  - motif/fire
+  - motif/sea
+  - motif/music_and_song
+  - motif/flags_and_banners
+  - motif/concealment_hidden_identity
+  - setting/rural_england
+  - archetype/great_mother
 ---
 
 *by Chesterton*  ·  **Cluster:** [[Heroism · Hero · Last Stand]]
@@ -60,13 +77,13 @@ tags:
 ## Connections
 
 **Topoi:** [[Last Stand]], [[War as Glory]], [[Quest]]
-**Archetypes:** [[King]], [[Hero]], [[Villain]]
-**Motifs:** [[Horse]], [[Swords and Weapons]], [[Supernatural]], [[Blood]], [[Battlefield (2)]]
-**Themes & Concepts:** [[Faith]], [[Heroism]], [[War and its Cost]], [[Good vs Evil]], [[Nationalism and Patriotism]], [[Honour]], [[Fate and Free Will]], [[Grace and Redemption]]
+**Archetypes:** [[King]], [[Hero]], [[Villain]], [[Great Mother]]
+**Motifs:** [[Horse]], [[Swords and Weapons]], [[Supernatural]], [[Blood]], [[Battlefield (2)]], [[Fire]], [[Sea]], [[Music and Song]], [[Flags and Banners]], [[Concealment Hidden Identity]]
+**Themes & Concepts:** [[Faith]], [[Heroism]], [[War and its Cost]], [[Good vs Evil]], [[Nationalism and Patriotism]], [[Honour]], [[Fate and Free Will]], [[Grace and Redemption]], [[Hope]], [[Conversion]]
 **Forms & Genres:** [[Epic]], [[Ballad Ballade]], [[Narrative Poem]]
 **Historical References:** [[King Alfred]], [[Battle of Ethandun]], [[Danish Invasions]], [[Christianity]], [[Norse Pagan Myth]], [[Medieval England]]
-**Settings:** [[Battlefield]]
-**Characters:** [[King Alfred (2)]], [[Virgin Mary]]
+**Settings:** [[Battlefield]], [[Rural England]]
+**Characters:** [[King Alfred (2)]], [[Virgin Mary]], [[Guthrum]], [[Colan]], [[Eldred]], [[Mark of Italy]], [[Elf]], [[Ogier]], [[Harold]], [[Gorlias]]
 
 ## Chapters / scenes / sections
 

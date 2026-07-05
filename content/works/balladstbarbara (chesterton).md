@@ -25,6 +25,43 @@ tags:
   - histref/the_first_world_war
   - histref/the_crusades
   - histref/christianity
+  - character/christ
+  - character/herod_antipas
+  - character/lazarus_the_risen_man
+  - character/king_arthur
+  - character/barbara
+  - concept/conversion
+  - concept/satire_of_society
+  - concept/critique_of_progress
+  - concept/freedom_and_liberty
+  - concept/marriage_and_fidelity
+  - concept/self_sacrifice
+  - concept/grief_and_loss
+  - concept/greed_and_money
+  - topos/memento_mori
+  - topos/world_upside_down
+  - topos/quest
+  - motif/window
+  - motif/bells
+  - motif/stone_and_marble
+  - motif/money_and_gold
+  - motif/horse
+  - motif/eyes_and_sight
+  - motif/fire
+  - motif/dragon
+  - setting/london
+  - setting/paris
+  - setting/desert
+  - setting/medieval_england_2
+  - archetype/martyr_saint
+  - archetype/tyrant
+  - form/sonnet
+  - form/elegy
+  - form/satire
+  - histref/arthurian_legend
+  - histref/french_revolution
+  - histref/industrial_revolution
+  - histref/british_empire
 ---
 
 *by Chesterton*  ·  **Cluster:** [[Christianity · Faith and Doubt · Doubt]]
@@ -38,11 +75,17 @@ tags:
 
 ## Connections
 
-**Topoi:** [[Ubi Sunt]], [[Sic Transit Gloria Mundi]], [[Last Stand]]
-**Motifs:** [[Ruins the Abbey]], [[Grave]], [[Swords and Weapons]]
-**Themes & Concepts:** [[War and its Cost]], [[Martyrdom]], [[Faith]], [[Nostalgia]], [[Distributism]], [[Social Injustice]], [[Nationalism and Patriotism]]
-**Forms & Genres:** [[Ballad Ballade]], [[Lyric]]
-**Historical References:** [[First World War]], [[Crusades]], [[Christianity]]
+**Archetypes:** [[Martyr Saint]], [[Tyrant]]
+
+**Settings:** [[London]], [[Paris]], [[Desert]], [[Medieval England (2)]]
+
+**Characters:** [[Christ]], [[Herod Antipas]], [[Lazarus the Risen Man]], [[King Arthur]], [[Barbara]]
+
+**Topoi:** [[Ubi Sunt]], [[Sic Transit Gloria Mundi]], [[Last Stand]], [[Memento Mori]], [[World Upside Down]], [[Quest]]
+**Motifs:** [[Ruins the Abbey]], [[Grave]], [[Swords and Weapons]], [[Window]], [[Bells]], [[Stone and Marble]], [[Money and Gold]], [[Horse]], [[Eyes and Sight]], [[Fire]], [[Dragon]]
+**Themes & Concepts:** [[War and its Cost]], [[Martyrdom]], [[Faith]], [[Nostalgia]], [[Distributism]], [[Social Injustice]], [[Nationalism and Patriotism]], [[Conversion]], [[Satire of Society]], [[Critique of Progress]], [[Freedom and Liberty]], [[Marriage and Fidelity]], [[Self-Sacrifice]], [[Grief and Loss]], [[Greed and Money]]
+**Forms & Genres:** [[Ballad Ballade]], [[Lyric]], [[Sonnet]], [[Elegy]], [[Satire]]
+**Historical References:** [[First World War]], [[Crusades]], [[Christianity]], [[Arthurian Legend]], [[French Revolution]], [[Industrial Revolution]], [[British Empire]]
 
 ## Chapters / scenes / sections
 

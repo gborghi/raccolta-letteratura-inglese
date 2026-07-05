@@ -15,6 +15,23 @@ tags:
   - concept/the_common_man
   - histref/the_bible
   - setting/london
+  - character/robin_hood
+  - character/cobbett
+  - concept/apocalypse
+  - concept/money_and_avarice
+  - concept/power_and_corruption
+  - concept/nationalism_and_patriotism
+  - concept/freedom_and_liberty
+  - topos/poet_as_prophet
+  - topos/world_upside_down
+  - motif/storm
+  - motif/lightning
+  - motif/machine
+  - setting/rural_england
+  - archetype/avenger
+  - archetype/poet_as_prophet_2
+  - histref/industrial_revolution
+  - histref/luddite_movement
 ---
 
 # oldsong
@@ -30,11 +47,17 @@ tags:
 
 ## Connections
 
-**Motifs:** [[City]], [[Money and Gold]], [[Horse]]
-**Themes & Concepts:** [[Anti-Industrialism]], [[Common Man]]
+**Archetypes:** [[Avenger]], [[Poet as Prophet (2)]]
+
+**Topoi:** [[Poet as Prophet]], [[World Upside Down]]
+
+**Characters:** [[Robin Hood]], [[Cobbett]]
+
+**Motifs:** [[City]], [[Money and Gold]], [[Horse]], [[Storm]], [[Lightning]], [[Machine]]
+**Themes & Concepts:** [[Anti-Industrialism]], [[Common Man]], [[Apocalypse]], [[Money and Avarice]], [[Power and Corruption]], [[Nationalism and Patriotism]], [[Freedom and Liberty]]
 **Forms & Genres:** [[Ballad Ballade]]
-**Historical References:** [[Bible]]
-**Settings:** [[London]]
+**Historical References:** [[Bible]], [[Industrial Revolution]], [[Luddite Movement]]
+**Settings:** [[London]], [[Rural England]]
 
 ## Chapters / scenes / sections
 

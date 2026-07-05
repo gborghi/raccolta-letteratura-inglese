@@ -19,6 +19,19 @@ tags:
   - motif/blood
   - motif/nature
   - histref/the_bible
+  - concept/pride
+  - concept/paganism_and_classical_revival
+  - concept/grotesque
+  - concept/lust_sexual_desire
+  - concept/self_deception
+  - concept/spiritual_emptiness
+  - topos/paradise_lost
+  - topos/fall_from_innocence
+  - motif/poison
+  - motif/water
+  - motif/bees
+  - motif/flowers
+  - form/apologetics
 ---
 
 *by Chesterton*  ·  **Cluster:** [[Temptation · Good vs Evil · Serpent Snake]]
@@ -32,9 +45,11 @@ tags:
 
 ## Connections
 
-**Motifs:** [[Garden]], [[Serpent Snake]], [[Blood]], [[Nature]]
-**Themes & Concepts:** [[Sin and the Fall]], [[Original Sin]], [[Guilt]], [[Good vs Evil]], [[Nature vs Civilization]], [[Melancholy]]
-**Forms & Genres:** [[Lyric]]
+**Topoi:** [[Paradise Lost]], [[Fall from Innocence]]
+
+**Motifs:** [[Garden]], [[Serpent Snake]], [[Blood]], [[Nature]], [[Poison]], [[Water]], [[Bees]], [[Flowers]]
+**Themes & Concepts:** [[Sin and the Fall]], [[Original Sin]], [[Guilt]], [[Good vs Evil]], [[Nature vs Civilization]], [[Melancholy]], [[Pride]], [[Paganism and Classical Revival]], [[Grotesque]], [[Lust Sexual Desire]], [[Self-Deception]], [[Spiritual Emptiness]]
+**Forms & Genres:** [[Lyric]], [[Apologetics]]
 **Historical References:** [[Bible]]
 
 ## Chapters / scenes / sections

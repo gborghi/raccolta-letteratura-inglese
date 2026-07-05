@@ -16,6 +16,18 @@ tags:
   - histref/ancient_rome
   - concept/nationalism_and_patriotism
   - motif/storm
+  - concept/money_and_avarice
+  - concept/vanity_of_worldly_things
+  - concept/transience
+  - concept/memory_and_time
+  - topos/ubi_sunt
+  - topos/memento_mori
+  - motif/grave
+  - motif/stone_and_marble
+  - motif/lightning
+  - setting/grave_2
+  - form/inscription
+  - histref/carthage
 ---
 
 *by Chesterton*  ·  **Cluster:** [[Ruins the Abbey · Sic Transit Gloria Mundi · Ubi Sunt]]
@@ -29,11 +41,13 @@ tags:
 
 ## Connections
 
-**Topoi:** [[Sic Transit Gloria Mundi]]
-**Motifs:** [[Ruins the Abbey]], [[Storm]]
-**Themes & Concepts:** [[Heroism]], [[War and its Cost]], [[Immortality]], [[Nationalism and Patriotism]]
-**Forms & Genres:** [[Epigram]]
-**Historical References:** [[Ancient Rome]]
+**Settings:** [[Grave (2)]]
+
+**Topoi:** [[Sic Transit Gloria Mundi]], [[Ubi Sunt]], [[Memento Mori]]
+**Motifs:** [[Ruins the Abbey]], [[Storm]], [[Grave]], [[Stone and Marble]], [[Lightning]]
+**Themes & Concepts:** [[Heroism]], [[War and its Cost]], [[Immortality]], [[Nationalism and Patriotism]], [[Money and Avarice]], [[Vanity of Worldly Things]], [[Transience]], [[Memory and Time]]
+**Forms & Genres:** [[Epigram]], [[Inscription]]
+**Historical References:** [[Ancient Rome]], [[Carthage]]
 
 ## Chapters / scenes / sections
 

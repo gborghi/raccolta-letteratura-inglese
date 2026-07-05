@@ -10,7 +10,6 @@ tags:
 
 ## Works
 
-
-
+<div class="concept-works" data-slug="concepts/masculinity-and-the-male-code"></div>
 
 #graph/concept

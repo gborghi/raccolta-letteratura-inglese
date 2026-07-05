@@ -15,6 +15,15 @@ tags:
   - concept/education
   - motif/the_wheel
   - motif/money_gold
+  - concept/labor_and_work
+  - concept/greed_and_money
+  - concept/freedom
+  - concept/class_conflict
+  - topos/world_upside_down
+  - motif/machine
+  - setting/industrial_city
+  - archetype/child
+  - histref/industrial_revolution
 ---
 
 # songs
@@ -30,8 +39,16 @@ tags:
 
 ## Connections
 
-**Motifs:** [[Wheel]], [[Money and Gold]]
-**Themes & Concepts:** [[Satire of Society]], [[Anti-Industrialism]], [[Critique of Progress]], [[Education]]
+**Historical References:** [[Industrial Revolution]]
+
+**Archetypes:** [[Child]]
+
+**Settings:** [[Industrial City]]
+
+**Topoi:** [[World Upside Down]]
+
+**Motifs:** [[Wheel]], [[Money and Gold]], [[Machine]]
+**Themes & Concepts:** [[Satire of Society]], [[Anti-Industrialism]], [[Critique of Progress]], [[Education]], [[Labor and Work]], [[Greed and Money]], [[Freedom]], [[Class Conflict]]
 **Forms & Genres:** [[Comic Verse Song]], [[Satire]]
 
 ## Chapters / scenes / sections

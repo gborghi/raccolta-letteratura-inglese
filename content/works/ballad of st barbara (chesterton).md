@@ -24,6 +24,22 @@ tags:
   - histref/christianity
   - setting/the_battlefield
   - setting/paris
+  - character/barbara_st_barbara
+  - character/caesar
+  - concept/freedom_and_liberty
+  - concept/nationalism_and_patriotism
+  - concept/self_sacrifice
+  - concept/providence
+  - topos/sic_transit_gloria_mundi
+  - topos/war_as_glory
+  - motif/lightning
+  - motif/chains
+  - motif/flags_and_banners
+  - setting/africa
+  - archetype/christ_figure
+  - histref/ancient_rome
+  - histref/greek_mythology
+  - histref/battle_of_the_marne
 ---
 
 *by Chesterton*  ·  **Cluster:** [[Martyrdom · Martyr Saint · Cross]]
@@ -37,13 +53,15 @@ tags:
 
 ## Connections
 
-**Topoi:** [[Last Stand]]
-**Archetypes:** [[Martyr Saint]], [[Tyrant]]
-**Motifs:** [[Window]], [[Swords and Weapons]], [[Blood]], [[Light and Dark]]
-**Themes & Concepts:** [[Martyrdom]], [[Faith]], [[War and its Cost]], [[Heroism]]
+**Characters:** [[Barbara (St Barbara)]], [[Caesar]]
+
+**Topoi:** [[Last Stand]], [[Sic Transit Gloria Mundi]], [[War as Glory]]
+**Archetypes:** [[Martyr Saint]], [[Tyrant]], [[Christ Figure]]
+**Motifs:** [[Window]], [[Swords and Weapons]], [[Blood]], [[Light and Dark]], [[Lightning]], [[Chains]], [[Flags and Banners]]
+**Themes & Concepts:** [[Martyrdom]], [[Faith]], [[War and its Cost]], [[Heroism]], [[Freedom and Liberty]], [[Nationalism and Patriotism]], [[Self-Sacrifice]], [[Providence]]
 **Forms & Genres:** [[Ballad Ballade]], [[Narrative Poem]]
-**Historical References:** [[First World War]], [[Christianity]]
-**Settings:** [[Battlefield]], [[Paris]]
+**Historical References:** [[First World War]], [[Christianity]], [[Ancient Rome]], [[Greek Mythology]], [[Battle of the Marne]]
+**Settings:** [[Battlefield]], [[Paris]], [[Africa]]
 
 ## Chapters / scenes / sections
 

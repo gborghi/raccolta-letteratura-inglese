@@ -18,6 +18,12 @@ tags:
   - motif/flowers
   - motif/masks_disguise
   - form/lyric
+  - concept/wonder
+  - concept/democracy
+  - concept/ambition
+  - motif/stars
+  - archetype/hero
+  - histref/greek_mythology
 ---
 
 # gold-leaves
@@ -33,9 +39,13 @@ tags:
 
 ## Connections
 
+**Historical References:** [[Greek Mythology]]
+
+**Archetypes:** [[Hero]]
+
 **Topoi:** [[Ubi Sunt]]
-**Motifs:** [[Autumn]], [[Seasons]], [[Gold and Grey]], [[Flowers]], [[Concealment Hidden Identity]]
-**Themes & Concepts:** [[Mortality]], [[Transience]], [[Common Man]], [[Humility]]
+**Motifs:** [[Autumn]], [[Seasons]], [[Gold and Grey]], [[Flowers]], [[Concealment Hidden Identity]], [[Stars]]
+**Themes & Concepts:** [[Mortality]], [[Transience]], [[Common Man]], [[Humility]], [[Wonder]], [[Democracy]], [[Ambition]]
 **Forms & Genres:** [[Lyric]]
 
 ## Chapters / scenes / sections

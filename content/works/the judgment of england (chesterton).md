@@ -16,6 +16,13 @@ tags:
   - motif/money_gold
   - motif/decay
   - histref/the_industrial_revolution
+  - concept/apocalypse
+  - concept/greed_and_money
+  - topos/world_upside_down
+  - topos/poet_as_prophet
+  - setting/industrial_city
+  - form/satire
+  - histref/oliver_goldsmith
 ---
 
 *by Chesterton*  ·  **Cluster:** [[Essay · Critique of Progress · Common Man]]
@@ -29,10 +36,14 @@ tags:
 
 ## Connections
 
+**Settings:** [[Industrial City]]
+
+**Topoi:** [[World Upside Down]], [[Poet as Prophet]]
+
 **Motifs:** [[Money and Gold]], [[Decay]]
-**Themes & Concepts:** [[Social Injustice]], [[Anti-Industrialism]], [[Common Man]], [[Critique of Progress]]
-**Forms & Genres:** [[Epigram]], [[Lyric]]
-**Historical References:** [[Industrial Revolution]]
+**Themes & Concepts:** [[Social Injustice]], [[Anti-Industrialism]], [[Common Man]], [[Critique of Progress]], [[Apocalypse]], [[Greed and Money]]
+**Forms & Genres:** [[Epigram]], [[Lyric]], [[Satire]]
+**Historical References:** [[Industrial Revolution]], [[Oliver Goldsmith]]
 
 ## Chapters / scenes / sections
 

@@ -17,6 +17,12 @@ tags:
   - histref/christianity
   - motif/moon
   - form/lyric
+  - concept/secrecy_and_concealment
+  - concept/suffering_and_pain
+  - topos/world_upside_down
+  - motif/blood
+  - archetype/scapegoat
+  - archetype/outsider
 ---
 
 # donkey
@@ -32,9 +38,11 @@ tags:
 
 ## Connections
 
-**Archetypes:** [[Christ Figure]]
-**Motifs:** [[Animals]], [[Moon]]
-**Themes & Concepts:** [[Humility]], [[Grace and Redemption]], [[Grotesque]]
+**Topoi:** [[World Upside Down]]
+
+**Archetypes:** [[Christ Figure]], [[Scapegoat]], [[Outsider]]
+**Motifs:** [[Animals]], [[Moon]], [[Blood]]
+**Themes & Concepts:** [[Humility]], [[Grace and Redemption]], [[Grotesque]], [[Secrecy and Concealment]], [[Suffering and Pain]]
 **Forms & Genres:** [[Lyric]]
 **Historical References:** [[Bible]], [[Christianity]]
 **Characters:** [[Christ]]

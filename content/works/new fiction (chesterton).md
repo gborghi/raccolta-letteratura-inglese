@@ -13,6 +13,8 @@ tags:
   - concept/the_artist_and_society
   - concept/satire_of_society
   - concept/critique_of_progress
+  - concept/literary_criticism_2
+  - histref/john_galsworthy
 ---
 
 *by Chesterton*  ·  **Cluster:** [[Satire of Society · Epigram · Satire]]
@@ -26,7 +28,9 @@ tags:
 
 ## Connections
 
-**Themes & Concepts:** [[Artist and Society]], [[Satire of Society]], [[Critique of Progress]]
+**Historical References:** [[John Galsworthy]]
+
+**Themes & Concepts:** [[Artist and Society]], [[Satire of Society]], [[Critique of Progress]], [[Literary Criticism (2)]]
 **Forms & Genres:** [[Parody]], [[Satire]], [[Epigram]]
 
 ## Chapters / scenes / sections

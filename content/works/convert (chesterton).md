@@ -15,6 +15,12 @@ tags:
   - motif/the_road
   - histref/the_bible
   - concept/wonder_and_gratitude
+  - concept/resurrection
+  - concept/paradox
+  - topos/world_upside_down
+  - topos/sleeper_awakes
+  - motif/dust
+  - archetype/pilgrim
 ---
 
 # convert
@@ -30,8 +36,12 @@ tags:
 
 ## Connections
 
-**Motifs:** [[Road]]
-**Themes & Concepts:** [[Conversion]], [[Faith]], [[Grace and Redemption]], [[Wonder and Gratitude]]
+**Archetypes:** [[Pilgrim]]
+
+**Topoi:** [[World Upside Down]], [[Sleeper Awakes]]
+
+**Motifs:** [[Road]], [[Dust]]
+**Themes & Concepts:** [[Conversion]], [[Faith]], [[Grace and Redemption]], [[Wonder and Gratitude]], [[Resurrection]], [[Paradox]]
 **Forms & Genres:** [[Sonnet]]
 **Historical References:** [[Bible]]
 **Characters:** [[Lazarus the Risen Man]]

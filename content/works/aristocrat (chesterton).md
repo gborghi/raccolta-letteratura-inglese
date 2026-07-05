@@ -19,6 +19,18 @@ tags:
   - motif/masks_disguise
   - motif/money_gold
   - character/satan
+  - concept/vanity_of_worldly_things
+  - concept/spiritual_emptiness
+  - concept/deception
+  - concept/satire_of_society
+  - concept/sin_and_the_fall
+  - topos/contemptus_mundi
+  - motif/great_house
+  - motif/serpent_snake
+  - motif/birds
+  - archetype/trickster
+  - form/satire
+  - histref/bible
 ---
 
 # aristocrat
@@ -34,11 +46,13 @@ tags:
 
 ## Connections
 
-**Topoi:** [[Paradise Lost]]
-**Archetypes:** [[Satanic Figure]]
-**Motifs:** [[Concealment Hidden Identity]], [[Money and Gold]]
-**Themes & Concepts:** [[Temptation]], [[Good vs Evil]], [[Pride]], [[Disillusionment]], [[Appearance vs Reality]]
-**Forms & Genres:** [[Ballad Ballade]], [[Lyric]]
+**Historical References:** [[Bible]]
+
+**Topoi:** [[Paradise Lost]], [[Contemptus Mundi]]
+**Archetypes:** [[Satanic Figure]], [[Trickster]]
+**Motifs:** [[Concealment Hidden Identity]], [[Money and Gold]], [[Great House]], [[Serpent Snake]], [[Birds]]
+**Themes & Concepts:** [[Temptation]], [[Good vs Evil]], [[Pride]], [[Disillusionment]], [[Appearance vs Reality]], [[Vanity of Worldly Things]], [[Spiritual Emptiness]], [[Deception]], [[Satire of Society]], [[Sin and the Fall]]
+**Forms & Genres:** [[Ballad Ballade]], [[Lyric]], [[Satire]]
 **Characters:** [[Satan]]
 
 ## Chapters / scenes / sections

@@ -13,6 +13,11 @@ tags:
   - concept/critique_of_progress
   - concept/humility
   - histref/christianity
+  - character/st_francis
+  - concept/charity
+  - concept/hypocrisy
+  - motif/insects
+  - histref/catholic_church
 ---
 
 *by Chesterton*  ·  **Cluster:** [[Satire of Society · Epigram · Satire]]
@@ -26,9 +31,13 @@ tags:
 
 ## Connections
 
-**Themes & Concepts:** [[Satire of Society]], [[Critique of Progress]], [[Humility]]
+**Motifs:** [[Insects]]
+
+**Characters:** [[St. Francis]]
+
+**Themes & Concepts:** [[Satire of Society]], [[Critique of Progress]], [[Humility]], [[Charity]], [[Hypocrisy]]
 **Forms & Genres:** [[Epigram]], [[Satire]]
-**Historical References:** [[Christianity]]
+**Historical References:** [[Christianity]], [[Catholic Church]]
 
 ## Chapters / scenes / sections
 

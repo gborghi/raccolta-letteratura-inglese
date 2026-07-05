@@ -14,6 +14,21 @@ tags:
   - form/lyric
   - histref/the_first_world_war
   - concept/satire_of_society
+  - character/fatty_arbuckle
+  - character/p_t_barnum
+  - concept/vanity_of_worldly_things
+  - concept/common_man
+  - concept/secrecy_and_concealment
+  - concept/fame_and_publicity
+  - topos/sic_transit_gloria_mundi
+  - motif/silence
+  - motif/drums_and_bugles
+  - motif/concealment_hidden_identity
+  - setting/battlefield
+  - archetype/common_man_2
+  - archetype/hero
+  - form/ode
+  - form/satire
 ---
 
 # unknown-warrior
@@ -29,9 +44,17 @@ tags:
 
 ## Connections
 
-**Motifs:** [[Death]]
-**Themes & Concepts:** [[Heroism]], [[Honour]], [[War and its Cost]], [[Satire of Society]]
-**Forms & Genres:** [[Lyric]]
+**Archetypes:** [[Common Man (2)]], [[Hero]]
+
+**Settings:** [[Battlefield]]
+
+**Topoi:** [[Sic Transit Gloria Mundi]]
+
+**Characters:** [[Fatty Arbuckle]], [[P. T. Barnum]]
+
+**Motifs:** [[Death]], [[Silence]], [[Drums and Bugles]], [[Concealment Hidden Identity]]
+**Themes & Concepts:** [[Heroism]], [[Honour]], [[War and its Cost]], [[Satire of Society]], [[Vanity of Worldly Things]], [[Common Man]], [[Secrecy and Concealment]], [[Fame and Publicity]]
+**Forms & Genres:** [[Lyric]], [[Ode]], [[Satire]]
 **Historical References:** [[First World War]]
 
 ## Chapters / scenes / sections

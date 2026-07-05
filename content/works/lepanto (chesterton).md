@@ -23,6 +23,24 @@ tags:
   - motif/the_sea
   - motif/swords_weapons
   - setting/the_sea
+  - character/ariel
+  - character/michael
+  - character/cervantes
+  - character/mahound
+  - character/the_pope
+  - character/king_philip
+  - character/soldan_of_byzantium
+  - concept/slavery
+  - concept/freedom_and_liberty
+  - topos/quest
+  - motif/drums_and_bugles
+  - motif/blood
+  - motif/prison
+  - motif/flags_and_banners
+  - setting/orient
+  - archetype/tyrant
+  - histref/islam
+  - histref/catholic_church
 ---
 
 *by Chesterton*  ·  **Cluster:** [[Heroism · Hero · Last Stand]]
@@ -36,14 +54,14 @@ tags:
 
 ## Connections
 
-**Topoi:** [[Last Stand]], [[War as Glory]]
-**Archetypes:** [[Hero]]
-**Motifs:** [[Cross]], [[Sea]], [[Swords and Weapons]]
-**Themes & Concepts:** [[Heroism]], [[War and its Cost]]
+**Topoi:** [[Last Stand]], [[War as Glory]], [[Quest]]
+**Archetypes:** [[Hero]], [[Tyrant]]
+**Motifs:** [[Cross]], [[Sea]], [[Swords and Weapons]], [[Drums and Bugles]], [[Blood]], [[Prison]], [[Flags and Banners]]
+**Themes & Concepts:** [[Heroism]], [[War and its Cost]], [[Slavery]], [[Freedom and Liberty]]
 **Forms & Genres:** [[Ballad Ballade]], [[Narrative Poem]]
-**Historical References:** [[Battle of Lepanto]], [[Crusades]], [[Christianity]]
-**Settings:** [[Sea (2)]]
-**Characters:** [[Don John of Austria]], [[Don Quixote]]
+**Historical References:** [[Battle of Lepanto]], [[Crusades]], [[Christianity]], [[Islam]], [[Catholic Church]]
+**Settings:** [[Sea (2)]], [[Orient]]
+**Characters:** [[Don John of Austria]], [[Don Quixote]], [[Ariel]], [[Michael]], [[Cervantes]], [[Mahound]], [[The Pope]], [[King Philip]], [[Soldan of Byzantium]]
 
 ## Chapters / scenes / sections
 

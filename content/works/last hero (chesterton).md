@@ -19,6 +19,17 @@ tags:
   - motif/wind
   - motif/blood
   - motif/swords_weapons
+  - concept/war_and_its_cost
+  - concept/paradox
+  - concept/death_and_love
+  - topos/love_death_liebestod
+  - topos/war_as_glory
+  - motif/stars
+  - motif/sun
+  - motif/rain
+  - setting/battlefield
+  - archetype/christ_figure
+  - form/dramatic_monologue
 ---
 
 # last hero
@@ -34,11 +45,13 @@ tags:
 
 ## Connections
 
-**Topoi:** [[Last Stand]]
-**Archetypes:** [[Hero]]
-**Motifs:** [[Storm]], [[Wind]], [[Blood]], [[Swords and Weapons]]
-**Themes & Concepts:** [[Heroism]], [[Mortality]], [[Joy]], [[Romantic Love]]
-**Forms & Genres:** [[Ballad Ballade]], [[Narrative Poem]]
+**Settings:** [[Battlefield]]
+
+**Topoi:** [[Last Stand]], [[Love-Death (Liebestod)]], [[War as Glory]]
+**Archetypes:** [[Hero]], [[Christ Figure]]
+**Motifs:** [[Storm]], [[Wind]], [[Blood]], [[Swords and Weapons]], [[Stars]], [[Sun]], [[Rain]]
+**Themes & Concepts:** [[Heroism]], [[Mortality]], [[Joy]], [[Romantic Love]], [[War and its Cost]], [[Paradox]], [[Death and Love]]
+**Forms & Genres:** [[Ballad Ballade]], [[Narrative Poem]], [[Dramatic Monologue]]
 
 ## Chapters / scenes / sections
 

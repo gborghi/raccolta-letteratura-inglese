@@ -27,6 +27,54 @@ tags:
   - histref/christianity
   - histref/catholic_church
   - character/don_john_of_austria
+  - character/christ
+  - character/don_quixote
+  - character/cervantes
+  - character/f_e_smith
+  - character/walter_long
+  - concept/doubt
+  - concept/satire_of_society
+  - concept/social_injustice
+  - concept/freedom_and_liberty
+  - concept/distributism
+  - concept/anti_industrialism
+  - concept/grief_and_loss
+  - concept/heroism
+  - concept/christmas_and_the_nativity
+  - topos/open_road_homecoming
+  - topos/life_as_a_battle
+  - topos/memento_mori
+  - motif/stars
+  - motif/drums_and_bugles
+  - motif/flags_and_banners
+  - motif/wheel
+  - motif/wine_and_drink
+  - motif/money_and_gold
+  - setting/sea_2
+  - setting/battlefield
+  - setting/italy
+  - setting/london
+  - setting/rural_england
+  - setting/orient
+  - setting/mountains
+  - setting/ship
+  - archetype/hero
+  - archetype/common_man_2
+  - archetype/tyrant
+  - archetype/corrupt_official
+  - form/sonnet
+  - form/ode
+  - form/satire
+  - form/translation
+  - form/comic_verse_song
+  - form/verse_epistle
+  - histref/islam
+  - histref/crusades
+  - histref/french_revolution
+  - histref/napoleonic_wars_the_navy
+  - histref/king_alfred
+  - histref/reformation
+  - histref/wars_of_the_roses
 ---
 
 *by Chesterton*  ·  **Cluster:** [[Christianity · Faith and Doubt · Doubt]]
@@ -40,12 +88,16 @@ tags:
 
 ## Connections
 
-**Topoi:** [[Last Stand]], [[War as Glory]], [[Immortality Through Verse]]
-**Motifs:** [[Swords and Weapons]], [[Sea]], [[Cross]]
-**Themes & Concepts:** [[Faith]], [[War and its Cost]], [[Romantic Love]], [[Marriage and Fidelity]], [[Nationalism and Patriotism]], [[Joy]]
-**Forms & Genres:** [[Lyric]], [[Ballad Ballade]], [[Hymn]], [[Narrative Poem]]
-**Historical References:** [[Battle of Lepanto]], [[Christianity]], [[Catholic Church]]
-**Characters:** [[Don John of Austria]]
+**Archetypes:** [[Hero]], [[Common Man (2)]], [[Tyrant]], [[Corrupt Official]]
+
+**Settings:** [[Sea (2)]], [[Battlefield]], [[Italy]], [[London]], [[Rural England]], [[Orient]], [[Mountains]], [[Ship]]
+
+**Topoi:** [[Last Stand]], [[War as Glory]], [[Immortality Through Verse]], [[Open Road Homecoming]], [[Life as a Battle]], [[Memento Mori]]
+**Motifs:** [[Swords and Weapons]], [[Sea]], [[Cross]], [[Stars]], [[Drums and Bugles]], [[Flags and Banners]], [[Wheel]], [[Wine and Drink]], [[Money and Gold]]
+**Themes & Concepts:** [[Faith]], [[War and its Cost]], [[Romantic Love]], [[Marriage and Fidelity]], [[Nationalism and Patriotism]], [[Joy]], [[Doubt]], [[Satire of Society]], [[Social Injustice]], [[Freedom and Liberty]], [[Distributism]], [[Anti-Industrialism]], [[Grief and Loss]], [[Heroism]], [[Christmas and the Nativity]]
+**Forms & Genres:** [[Lyric]], [[Ballad Ballade]], [[Hymn]], [[Narrative Poem]], [[Sonnet]], [[Ode]], [[Satire]], [[Translation]], [[Comic Verse Song]], [[Verse Epistle]]
+**Historical References:** [[Battle of Lepanto]], [[Christianity]], [[Catholic Church]], [[Islam]], [[Crusades]], [[French Revolution]], [[Napoleonic Wars the Navy]], [[King Alfred]], [[Reformation]], [[Wars of the Roses]]
+**Characters:** [[Don John of Austria]], [[Christ]], [[Don Quixote]], [[Cervantes]], [[F.E. Smith]], [[Walter Long]]
 
 ## Chapters / scenes / sections
 

@@ -14,6 +14,15 @@ tags:
   - motif/music_and_song
   - concept/joy
   - concept/imagination
+  - character/old_king_cole
+  - concept/mortality
+  - concept/literary_criticism_2
+  - topos/golden_age
+  - topos/immortality_through_verse
+  - motif/crown
+  - motif/sea
+  - archetype/king
+  - form/poem_sequence
 ---
 
 # kingcole
@@ -29,9 +38,15 @@ tags:
 
 ## Connections
 
-**Motifs:** [[Wine and Drink]], [[Music and Song]]
-**Themes & Concepts:** [[Joy]], [[Imagination]]
-**Forms & Genres:** [[Parody]], [[Comic Verse Song]], [[Lyric]]
+**Archetypes:** [[King]]
+
+**Topoi:** [[Golden Age]], [[Immortality Through Verse]]
+
+**Characters:** [[Old King Cole]]
+
+**Motifs:** [[Wine and Drink]], [[Music and Song]], [[Crown]], [[Sea]]
+**Themes & Concepts:** [[Joy]], [[Imagination]], [[Mortality]], [[Literary Criticism (2)]]
+**Forms & Genres:** [[Parody]], [[Comic Verse Song]], [[Lyric]], [[Poem Sequence]]
 
 ## Chapters / scenes / sections
 

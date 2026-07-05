@@ -18,6 +18,20 @@ tags:
   - motif/nature
   - histref/ancient_rome
   - character/the_virgin_mary
+  - concept/freedom_and_liberty
+  - concept/power_and_corruption
+  - concept/eternity
+  - concept/grace_and_redemption
+  - topos/contemptus_mundi
+  - motif/time
+  - motif/light_and_dark
+  - motif/sun
+  - motif/crown
+  - archetype/great_mother
+  - form/hymn
+  - histref/bible
+  - histref/catholic_church
+  - histref/carthage
 ---
 
 # towers-of-time
@@ -33,11 +47,13 @@ tags:
 
 ## Connections
 
-**Topoi:** [[Sic Transit Gloria Mundi]], [[Fortune's Wheel]], [[Ubi Sunt]]
-**Motifs:** [[Ruins the Abbey]], [[Nature]]
-**Themes & Concepts:** [[Transience]], [[Pride]], [[Faith]]
-**Forms & Genres:** [[Lyric]]
-**Historical References:** [[Ancient Rome]]
+**Archetypes:** [[Great Mother]]
+
+**Topoi:** [[Sic Transit Gloria Mundi]], [[Fortune's Wheel]], [[Ubi Sunt]], [[Contemptus Mundi]]
+**Motifs:** [[Ruins the Abbey]], [[Nature]], [[Time]], [[Light and Dark]], [[Sun]], [[Crown]]
+**Themes & Concepts:** [[Transience]], [[Pride]], [[Faith]], [[Freedom and Liberty]], [[Power and Corruption]], [[Eternity]], [[Grace and Redemption]]
+**Forms & Genres:** [[Lyric]], [[Hymn]]
+**Historical References:** [[Ancient Rome]], [[Bible]], [[Catholic Church]], [[Carthage]]
 **Characters:** [[Virgin Mary]]
 
 ## Chapters / scenes / sections

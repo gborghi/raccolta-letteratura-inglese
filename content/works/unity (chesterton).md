@@ -13,6 +13,19 @@ tags:
   - concept/faith
   - histref/christianity
   - concept/martyrdom
+  - character/isaiah_bunter
+  - concept/union
+  - concept/fanaticism
+  - concept/paradox
+  - topos/world_upside_down
+  - motif/food_and_feasting
+  - motif/cannibalism
+  - setting/solomon_islands
+  - archetype/martyr_saint
+  - form/epigram
+  - form/comic_verse_song
+  - histref/eastern_religion_comparative_religion
+  - histref/kikuyu_controversy
 ---
 
 # unity
@@ -28,9 +41,19 @@ tags:
 
 ## Connections
 
-**Themes & Concepts:** [[Satire of Society]], [[Faith]], [[Martyrdom]]
-**Forms & Genres:** [[Satire]], [[Ballad Ballade]]
-**Historical References:** [[Christianity]]
+**Archetypes:** [[Martyr Saint]]
+
+**Settings:** [[Solomon Islands]]
+
+**Motifs:** [[Food and Feasting]], [[Cannibalism]]
+
+**Topoi:** [[World Upside Down]]
+
+**Characters:** [[Isaiah Bunter]]
+
+**Themes & Concepts:** [[Satire of Society]], [[Faith]], [[Martyrdom]], [[Union]], [[Fanaticism]], [[Paradox]]
+**Forms & Genres:** [[Satire]], [[Ballad Ballade]], [[Epigram]], [[Comic Verse Song]]
+**Historical References:** [[Christianity]], [[Eastern Religion Comparative Religion]], [[Kikuyu Controversy]]
 
 ## Chapters / scenes / sections
 

@@ -19,6 +19,11 @@ tags:
   - form/lyric
   - form/song
   - topos/war_as_glory
+  - concept/freedom_and_liberty
+  - concept/providence
+  - motif/drums_and_bugles
+  - motif/home
+  - setting/battlefield
 ---
 
 *by Chesterton*  ·  **Cluster:** [[War and its Cost · American Civil War · Battlefield]]
@@ -33,10 +38,10 @@ tags:
 ## Connections
 
 **Topoi:** [[War as Glory]]
-**Motifs:** [[Blood]], [[City]], [[Grave]], [[Journey]]
-**Themes & Concepts:** [[Mortality]], [[Nationalism and Patriotism]], [[War and its Cost]], [[Heroism]]
+**Motifs:** [[Blood]], [[City]], [[Grave]], [[Journey]], [[Drums and Bugles]], [[Home]]
+**Themes & Concepts:** [[Mortality]], [[Nationalism and Patriotism]], [[War and its Cost]], [[Heroism]], [[Freedom and Liberty]], [[Providence]]
 **Forms & Genres:** [[Lyric]], [[Comic Verse Song]]
-**Settings:** [[London]]
+**Settings:** [[London]], [[Battlefield]]
 
 ## Chapters / scenes / sections
 

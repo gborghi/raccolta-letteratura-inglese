@@ -13,6 +13,14 @@ tags:
   - concept/critique_of_progress
   - concept/appearance_vs_reality
   - motif/the_clock
+  - concept/power_of_language
+  - concept/nationalism_and_patriotism
+  - motif/wine_and_drink
+  - setting/america
+  - setting/modern_metropolis
+  - archetype/self_made_man
+  - histref/theodore_dreiser
+  - histref/prohibition_us
 ---
 
 *by Chesterton*  ·  **Cluster:** [[Wine and Drink · Ballad Ballade · Road]]
@@ -26,8 +34,14 @@ tags:
 
 ## Connections
 
-**Motifs:** [[Clock]]
-**Themes & Concepts:** [[Satire of Society]], [[Critique of Progress]], [[Appearance vs Reality]]
+**Historical References:** [[Theodore Dreiser]], [[Prohibition (US)]]
+
+**Archetypes:** [[Self-Made Man]]
+
+**Settings:** [[America]], [[Modern Metropolis]]
+
+**Motifs:** [[Clock]], [[Wine and Drink]]
+**Themes & Concepts:** [[Satire of Society]], [[Critique of Progress]], [[Appearance vs Reality]], [[Power of Language]], [[Nationalism and Patriotism]]
 **Forms & Genres:** [[Ballad Ballade]], [[Satire]]
 
 ## Chapters / scenes / sections

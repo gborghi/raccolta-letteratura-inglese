@@ -18,6 +18,19 @@ tags:
   - motif/nature
   - character/christ
   - histref/christianity
+  - character/god
+  - concept/providence
+  - concept/suffering
+  - concept/resignation
+  - concept/madness
+  - topos/memento_mori
+  - motif/silence
+  - motif/stars
+  - motif/tears
+  - motif/sun
+  - motif/insects
+  - motif/grave
+  - histref/bible
 ---
 
 # prayer
@@ -33,11 +46,13 @@ tags:
 
 ## Connections
 
-**Motifs:** [[Cross]], [[Light and Dark]], [[Nature]]
-**Themes & Concepts:** [[Faith]], [[Grief and Loss]], [[Humility]], [[Divine Love]], [[Wonder and Gratitude]]
+**Topoi:** [[Memento Mori]]
+
+**Motifs:** [[Cross]], [[Light and Dark]], [[Nature]], [[Silence]], [[Stars]], [[Tears]], [[Sun]], [[Insects]], [[Grave]]
+**Themes & Concepts:** [[Faith]], [[Grief and Loss]], [[Humility]], [[Divine Love]], [[Wonder and Gratitude]], [[Providence]], [[Suffering]], [[Resignation]], [[Madness]]
 **Forms & Genres:** [[Sonnet]]
-**Historical References:** [[Christianity]]
-**Characters:** [[Christ]]
+**Historical References:** [[Christianity]], [[Bible]]
+**Characters:** [[Christ]], [[God]]
 
 ## Chapters / scenes / sections
 

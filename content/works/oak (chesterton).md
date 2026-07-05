@@ -14,6 +14,27 @@ tags:
   - motif/nature
   - motif/blood
   - concept/critique_of_progress
+  - character/lord_ivywood
+  - character/king_charles_ii
+  - character/collingwood
+  - concept/nature_vs_civilization
+  - concept/natural_order
+  - concept/regeneration
+  - concept/kingship_and_legitimacy
+  - concept/paganism_and_classical_revival
+  - concept/power_and_corruption
+  - motif/seed_and_germination
+  - motif/decay
+  - motif/sea
+  - motif/ship_2
+  - motif/concealment_hidden_identity
+  - setting/rural_england
+  - archetype/villain
+  - archetype/king
+  - form/comic_verse_song
+  - histref/napoleonic_wars_the_navy
+  - histref/english_civil_war
+  - histref/druidic_paganism
 ---
 
 # oak
@@ -29,9 +50,17 @@ tags:
 
 ## Connections
 
-**Motifs:** [[Nature]], [[Blood]]
-**Themes & Concepts:** [[Anti-Industrialism]], [[Distributism]], [[Critique of Progress]]
-**Forms & Genres:** [[Ballad Ballade]], [[Allegory]]
+**Historical References:** [[Napoleonic Wars the Navy]], [[English Civil War]], [[Druidic Paganism]]
+
+**Archetypes:** [[Villain]], [[King]]
+
+**Settings:** [[Rural England]]
+
+**Characters:** [[Lord Ivywood]], [[King Charles II]], [[Collingwood]]
+
+**Motifs:** [[Nature]], [[Blood]], [[Seed and Germination]], [[Decay]], [[Sea]], [[Ship (2)]], [[Concealment Hidden Identity]]
+**Themes & Concepts:** [[Anti-Industrialism]], [[Distributism]], [[Critique of Progress]], [[Nature vs Civilization]], [[Natural Order]], [[Regeneration]], [[Kingship and Legitimacy]], [[Paganism and Classical Revival]], [[Power and Corruption]]
+**Forms & Genres:** [[Ballad Ballade]], [[Allegory]], [[Comic Verse Song]]
 
 ## Chapters / scenes / sections
 
