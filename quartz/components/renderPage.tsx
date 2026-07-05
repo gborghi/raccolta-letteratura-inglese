@@ -30,7 +30,11 @@ export function pageResources(
   staticResources: StaticResources,
 ): StaticResources {
   const contentIndexPath = joinSegments(baseDir, "static/contentIndex.json")
-  const contentIndexScript = `const fetchData = fetch("${contentIndexPath}").then(data => data.json())`
+  const contentIndexMobilePath = joinSegments(baseDir, "static/contentIndexMobile.json")
+  // Mobile browsers OOM parsing the full ~27MB index (loaded eagerly here for search,
+  // graph, backlinks). On small/touch screens fetch the light contentIndexMobile.json
+  // instead (falls back to the full index if it is missing). Desktop is unchanged.
+  const contentIndexScript = `const fetchData = ((window.matchMedia("(max-width: 800px)").matches || window.matchMedia("(pointer: coarse)").matches) ? fetch("${contentIndexMobilePath}").then(d => d.ok ? d.json() : Promise.reject()).catch(() => fetch("${contentIndexPath}").then(d => d.json())) : fetch("${contentIndexPath}").then(data => data.json()))`
 
   const resources: StaticResources = {
     css: [

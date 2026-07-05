@@ -37,6 +37,9 @@ jobs:
         run: npx quartz build
         env:
           NODE_OPTIONS: "--max-old-space-size=14336"
+      - name: Build mobile search index
+        # Derive the light contentIndexMobile.json from the built full index.
+        run: node scripts/make-mobile-index.mjs
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
