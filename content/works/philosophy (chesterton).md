@@ -22,10 +22,18 @@ tags:
 > [!abstract] 
 > An essay arguing every argument begins with an undemonstrable dogma, listing the unprovable certainties sane men live by; on the foundations of thought, doubt and free will.
 
+## Testo / Text
+
+- [philosophy](/testi/chesterton/atomized/philosophy/philosophy)
+
 ## Connections
 
 **Themes & Concepts:** [[Truth]], [[Doubt]], [[Faith]], [[Fate and Free Will]], [[Education]]
 **Forms & Genres:** [[Essay]]
+
+## Chapters / scenes / sections
+
+- [part 01](/testi/chesterton/atomized/philosophy/part/part_01)
 
 ## Testo integrale / Full text
 

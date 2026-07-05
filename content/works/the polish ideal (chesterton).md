@@ -25,6 +25,10 @@ tags:
 > [!abstract] 
 > An essay celebrating Catholic Poland and the civilized cavalier — soldier and poet at once — whose chivalric, providential faith defeated Bolshevist materialism. Themes: heroism and chivalry, faith against mechanistic determinism, and national-religious romance.
 
+## Testo / Text
+
+- [The_Polish_Ideal](/testi/chesterton/atomized/the_polish_ideal/the_polish_ideal)
+
 ## Connections
 
 **Topoi:** [[Last Stand]]
@@ -34,6 +38,11 @@ tags:
 **Forms & Genres:** [[Essay]]
 **Historical References:** [[Catholic Church]]
 **Characters:** [[Don Quixote]]
+
+## Chapters / scenes / sections
+
+- [part 01](/testi/chesterton/atomized/the_polish_ideal/part/part_01)
+- [part 02](/testi/chesterton/atomized/the_polish_ideal/part/part_02)
 
 ## Testo integrale / Full text
 

@@ -27,6 +27,10 @@ tags:
 > [!abstract] 
 > A visionary lyric on the mutability and fall of empires, thrones and republics, set against the eternal endurance of the Virgin and the City of God outlasting all towers men rear.
 
+## Testo / Text
+
+- [towers-of-time](/testi/chesterton/atomized/towers-of-time/towers-of-time)
+
 ## Connections
 
 **Topoi:** [[Sic Transit Gloria Mundi]], [[Fortune's Wheel]], [[Ubi Sunt]]
@@ -35,6 +39,10 @@ tags:
 **Forms & Genres:** [[Lyric]]
 **Historical References:** [[Ancient Rome]]
 **Characters:** [[Virgin Mary]]
+
+## Chapters / scenes / sections
+
+- [part 01](/testi/chesterton/atomized/towers-of-time/part/part_01)
 
 ## Testo integrale / Full text
 

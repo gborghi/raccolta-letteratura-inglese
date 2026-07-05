@@ -25,12 +25,20 @@ tags:
 > [!abstract] 
 > A militant ballad in which industrial machines stand silent in protest and the dispossessed workmen confront 'King Dives' in his iron garden. Themes: class conflict, the dehumanizing tyranny of the machine, and social revolt.
 
+## Testo / Text
+
+- [The_Song_of_the_Wheels](/testi/chesterton/atomized/the_song_of_the_wheels/the_song_of_the_wheels)
+
 ## Connections
 
 **Archetypes:** [[Rebel]], [[Tyrant]]
 **Motifs:** [[Wheel]], [[Money and Gold]], [[Garden]]
 **Themes & Concepts:** [[Class Conflict]], [[Anti-Industrialism]], [[Social Injustice]], [[Poverty]], [[Power and Corruption]]
 **Forms & Genres:** [[Ballad Ballade]]
+
+## Chapters / scenes / sections
+
+- [part 01](/testi/chesterton/atomized/the_song_of_the_wheels/part/part_01)
 
 ## Testo integrale / Full text
 

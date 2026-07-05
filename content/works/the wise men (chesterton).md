@@ -26,6 +26,10 @@ tags:
 > [!abstract] 
 > A Nativity lyric in which the three wise men, masters of all learning but truth, are humbled before the Christ-child; celebrates wonder, humility and the Incarnation over arid intellectualism.
 
+## Testo / Text
+
+- [the_wise_men](/testi/chesterton/atomized/the_wise_men/the_wise_men)
+
 ## Connections
 
 **Motifs:** [[Light and Dark]], [[Stars]]
@@ -33,6 +37,10 @@ tags:
 **Forms & Genres:** [[Lyric]], [[Hymn]]
 **Historical References:** [[Bible]], [[Christianity]]
 **Characters:** [[Christ]]
+
+## Chapters / scenes / sections
+
+- [part 01](/testi/chesterton/atomized/the_wise_men/part/part_01)
 
 ## Testo integrale / Full text
 

@@ -31,6 +31,10 @@ tags:
 > [!abstract] 
 > A Nativity lyric on the homeless holy family in the stable as the true home of all men; contrasts the wandering exile of the human heart with the divine homecoming of Christmas.
 
+## Testo / Text
+
+- [christmas-poem](/testi/chesterton/atomized/christmas-poem/christmas-poem)
+
 ## Connections
 
 **Topoi:** [[Paradise Lost]], [[Open Road Homecoming]]
@@ -41,6 +45,10 @@ tags:
 **Historical References:** [[Ancient Rome]]
 **Settings:** [[Inn]]
 **Characters:** [[Virgin Mary]], [[Christ]]
+
+## Chapters / scenes / sections
+
+- [part 01](/testi/chesterton/atomized/christmas-poem/part/part_01)
 
 ## Testo integrale / Full text
 

@@ -23,12 +23,21 @@ tags:
 > [!abstract] 
 > A whimsical paradoxical essay using asparagus etiquette to satirize aristocracy, social distinction and the cult of fashionable 'Progress' as artificial passwords.
 
+## Testo / Text
+
+- [asparagus](/testi/chesterton/atomized/asparagus/asparagus)
+
 ## Connections
 
 **Motifs:** [[Food and Feasting]]
 **Themes & Concepts:** [[Satire of Society]], [[Critique of Progress]], [[Class Conflict]], [[Paradox]], [[Appearance vs Reality]]
 **Forms & Genres:** [[Essay]], [[Satire]]
 **Historical References:** [[French Revolution]]
+
+## Chapters / scenes / sections
+
+- [part 01](/testi/chesterton/atomized/asparagus/part/part_01)
+- [part 02](/testi/chesterton/atomized/asparagus/part/part_02)
 
 ## Testo integrale / Full text
 

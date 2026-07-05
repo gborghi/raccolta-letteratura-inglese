@@ -21,12 +21,21 @@ tags:
 > [!abstract] 
 > An essay arguing the spiritual view of the world, like evolution, is justified as a working hypothesis that makes the whole of reality rational; on faith, the supernatural and method.
 
+## Testo / Text
+
+- [Return_of_the_Angels](/testi/chesterton/atomized/return_of_the_angels/return_of_the_angels)
+
 ## Connections
 
 **Motifs:** [[Supernatural]]
 **Themes & Concepts:** [[Faith]], [[Faith and Doubt]], [[Critique of Progress]], [[Wonder and Gratitude]]
 **Forms & Genres:** [[Essay]]
 **Historical References:** [[Christianity]]
+
+## Chapters / scenes / sections
+
+- [part 01](/testi/chesterton/atomized/return_of_the_angels/part/part_01)
+- [part 02](/testi/chesterton/atomized/return_of_the_angels/part/part_02)
 
 ## Testo integrale / Full text
 

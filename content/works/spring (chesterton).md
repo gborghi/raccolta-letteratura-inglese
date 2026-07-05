@@ -30,6 +30,10 @@ tags:
 > [!abstract] 
 > A Christmas lyric on the Nativity, where the homeless Christ in the stable makes all men at home; themes of exile, wonder, faith and the longing for a true home.
 
+## Testo / Text
+
+- [spring](/testi/chesterton/atomized/spring/spring)
+
 ## Connections
 
 **Topoi:** [[Paradise Lost]]
@@ -39,6 +43,10 @@ tags:
 **Forms & Genres:** [[Hymn]], [[Lyric]]
 **Historical References:** [[Christianity]], [[Bible]]
 **Characters:** [[Christ]]
+
+## Chapters / scenes / sections
+
+- [part 01](/testi/chesterton/atomized/spring/part/part_01)
 
 ## Testo integrale / Full text
 

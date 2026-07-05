@@ -21,11 +21,20 @@ tags:
 > [!abstract] 
 > An essay using birthdays to argue, against Shaw, that human life rests on receptivity, gratitude and inheritance rather than on the modern urge to 'make' a religion or cosmos.
 
+## Testo / Text
+
+- [Our_Birthday](/testi/chesterton/atomized/our_birthday/our_birthday)
+
 ## Connections
 
 **Themes & Concepts:** [[Wonder and Gratitude]], [[Humility]], [[Critique of Progress]], [[Joy]], [[Providence]]
 **Forms & Genres:** [[Essay]]
 **Historical References:** [[Bible]]
+
+## Chapters / scenes / sections
+
+- [part 01](/testi/chesterton/atomized/our_birthday/part/part_01)
+- [part 02](/testi/chesterton/atomized/our_birthday/part/part_02)
 
 ## Testo integrale / Full text
 

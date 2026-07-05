@@ -26,11 +26,22 @@ tags:
 > [!abstract] 
 > Historical essay on the rise and short-lived 'Age of Reason' rationalism between the Reformation and the Romantic movement (Voltaire, Montaigne, Rousseau). Themes: faith and doubt, history of ideas, the Reformation and rationalism.
 
+## Testo / Text
+
+- [anti_religious_thought](/testi/chesterton/atomized/anti_religious_thought/anti_religious_thought)
+
 ## Connections
 
 **Themes & Concepts:** [[Faith and Doubt]], [[Doubt]], [[Critique of Progress]]
 **Forms & Genres:** [[Essay]], [[Apologetics]]
 **Historical References:** [[Reformation]], [[French Revolution]], [[Romantic Movement (Sensibility)]], [[Christianity]], [[Catholic Church]]
+
+## Chapters / scenes / sections
+
+- [part 01](/testi/chesterton/atomized/anti_religious_thought/part/part_01)
+- [part 02](/testi/chesterton/atomized/anti_religious_thought/part/part_02)
+- [part 03](/testi/chesterton/atomized/anti_religious_thought/part/part_03)
+- [part 04](/testi/chesterton/atomized/anti_religious_thought/part/part_04)
 
 ## Testo integrale / Full text
 

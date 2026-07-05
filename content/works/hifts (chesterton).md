@@ -29,6 +29,10 @@ tags:
 > [!abstract] 
 > A satirical short story mocking the Shavian/Wellsian cult of the Superman and the eugenic ideal; the much-heralded Superman of Croydon turns out monstrous and dies of a draught. Satire of progressivism and eugenics.
 
+## Testo / Text
+
+- [HIFTS](/testi/chesterton/atomized/hifts/hifts)
+
 ## Connections
 
 **Topoi:** [[World Upside Down]]
@@ -37,6 +41,11 @@ tags:
 **Themes & Concepts:** [[Satire of Society]], [[Critique of Progress]], [[Grotesque]], [[Terror and Horror]]
 **Forms & Genres:** [[Short Story]], [[Satire]], [[Parody]]
 **Settings:** [[London]]
+
+## Chapters / scenes / sections
+
+- [part 01](/testi/chesterton/atomized/hifts/part/part_01)
+- [part 02](/testi/chesterton/atomized/hifts/part/part_02)
 
 ## Testo integrale / Full text
 

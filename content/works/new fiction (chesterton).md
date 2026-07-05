@@ -20,10 +20,18 @@ tags:
 > [!abstract] 
 > A short comic nursery-rhyme parody (on 'Little Bo-Peep') satirising Galsworthy and the fashionable modern fiction of his day; a light verse squib of literary satire.
 
+## Testo / Text
+
+- [New_Fiction](/testi/chesterton/atomized/new_fiction/new_fiction)
+
 ## Connections
 
 **Themes & Concepts:** [[Artist and Society]], [[Satire of Society]], [[Critique of Progress]]
 **Forms & Genres:** [[Parody]], [[Satire]], [[Epigram]]
+
+## Chapters / scenes / sections
+
+- [part 01](/testi/chesterton/atomized/new_fiction/part/part_01)
 
 ## Testo integrale / Full text
 

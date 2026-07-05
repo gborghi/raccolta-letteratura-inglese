@@ -29,6 +29,10 @@ tags:
 > [!abstract] 
 > A mystical Nativity lyric: the Christ-child born at the inn at the world's end while the old pagan gods die; a hymn of the heart of the earth as a star.
 
+## Testo / Text
+
+- [childsnow](/testi/chesterton/atomized/childsnow/childsnow)
+
 ## Connections
 
 **Topoi:** [[Golden Age]]
@@ -38,6 +42,10 @@ tags:
 **Forms & Genres:** [[Hymn]], [[Lyric]]
 **Historical References:** [[Christianity]]
 **Characters:** [[Christ]]
+
+## Chapters / scenes / sections
+
+- [part 01](/testi/chesterton/atomized/childsnow/part/part_01)
 
 ## Testo integrale / Full text
 

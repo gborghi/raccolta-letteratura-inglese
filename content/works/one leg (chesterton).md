@@ -22,11 +22,20 @@ tags:
 > [!abstract] 
 > An essay on finding gratitude and wonder in limitation, drawn from a sprained foot; the optimism hidden in all surrender, isolating a thing to enjoy it perfectly.
 
+## Testo / Text
+
+- [one_leg](/testi/chesterton/atomized/one_leg/one_leg)
+
 ## Connections
 
 **Topoi:** [[Book of Nature]]
 **Themes & Concepts:** [[Wonder and Gratitude]], [[Paradox]], [[Joy]], [[Humility]]
 **Forms & Genres:** [[Essay]]
+
+## Chapters / scenes / sections
+
+- [part 01](/testi/chesterton/atomized/one_leg/part/part_01)
+- [part 02](/testi/chesterton/atomized/one_leg/part/part_02)
 
 ## Testo integrale / Full text
 

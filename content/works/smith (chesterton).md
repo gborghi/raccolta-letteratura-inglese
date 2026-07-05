@@ -22,12 +22,20 @@ tags:
 > [!abstract] 
 > A satirical ode mocking F. E. Smith's claim that Welsh Disestablishment shocked Christendom, contrasting his parochial politics with the real suffering of Christians abroad. Satire, faith and politics.
 
+## Testo / Text
+
+- [smith](/testi/chesterton/atomized/smith/smith)
+
 ## Connections
 
 **Motifs:** [[Cross]]
 **Themes & Concepts:** [[Satire of Society]], [[Martyrdom]]
 **Forms & Genres:** [[Ode]], [[Satire]]
 **Historical References:** [[Christianity]]
+
+## Chapters / scenes / sections
+
+- [part 01](/testi/chesterton/atomized/smith/part/part_01)
 
 ## Testo integrale / Full text
 

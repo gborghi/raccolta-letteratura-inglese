@@ -26,10 +26,18 @@ tags:
 > [!abstract] 
 > A 1920 essay arguing that negative morality (the Ten Commandments) is really positive, that destruction can be essential to construction, and ending with a meditation on gratitude: 'we love things most when we have nearly lost them.'
 
+## Testo / Text
+
+- [morality](/testi/chesterton/atomized/morality/morality)
+
 ## Connections
 
 **Themes & Concepts:** [[Paradox]], [[Wonder and Gratitude]], [[Humility]], [[Grace and Redemption]], [[Reform]], [[War and its Cost]], [[Anti-Industrialism]], [[Faith]]
 **Forms & Genres:** [[Essay]], [[Apologetics]]
+
+## Chapters / scenes / sections
+
+- [part 01](/testi/chesterton/atomized/morality/part/part_01)
 
 ## Testo integrale / Full text
 

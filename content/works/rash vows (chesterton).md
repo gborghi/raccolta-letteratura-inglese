@@ -25,11 +25,20 @@ tags:
 > [!abstract] 
 > An essay defending the great vow (including marriage) as a sane binding of the self against the decadent 'free' man who fears his own mutability; on fidelity, identity and the self.
 
+## Testo / Text
+
+- [rash_vows](/testi/chesterton/atomized/rash_vows/rash_vows)
+
 ## Connections
 
 **Topoi:** [[Love as Religion]]
 **Themes & Concepts:** [[Marriage and Fidelity]], [[Identity]], [[Self-Knowledge]], [[Critique of Progress]], [[Disillusionment]], [[Heroism]], [[Romantic Love]]
 **Forms & Genres:** [[Essay]]
+
+## Chapters / scenes / sections
+
+- [part 01](/testi/chesterton/atomized/rash_vows/part/part_01)
+- [part 02](/testi/chesterton/atomized/rash_vows/part/part_02)
 
 ## Testo integrale / Full text
 

@@ -23,12 +23,21 @@ tags:
 > [!abstract] 
 > An essay-dialogue in a pine forest contrasting the living crookedness of nature with the deadening straightness of industrial modernity and 'commercial anarchy'.
 
+## Testo / Text
+
+- [telegraph-poles](/testi/chesterton/atomized/telegraph-poles/telegraph-poles)
+
 ## Connections
 
 **Motifs:** [[Nature]]
 **Themes & Concepts:** [[Anti-Industrialism]], [[Critique of Progress]], [[Nature vs Civilization]], [[Wonder and Gratitude]]
 **Forms & Genres:** [[Essay]]
 **Historical References:** [[Industrial Revolution]]
+
+## Chapters / scenes / sections
+
+- [part 01](/testi/chesterton/atomized/telegraph-poles/part/part_01)
+- [part 02](/testi/chesterton/atomized/telegraph-poles/part/part_02)
 
 ## Testo integrale / Full text
 

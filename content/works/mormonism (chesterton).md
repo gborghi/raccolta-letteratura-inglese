@@ -23,11 +23,20 @@ tags:
 > [!abstract] 
 > An essay using the Mormon scare over polygamy to argue that creeds drive a people's customs, that history is unintelligible if theology is left out, and that the Mormons reproduced an Old-Testament materialist conception of God.
 
+## Testo / Text
+
+- [Mormonism](/testi/chesterton/atomized/mormonism/mormonism)
+
 ## Connections
 
 **Themes & Concepts:** [[Faith and Doubt]], [[Marriage and Fidelity]], [[Critique of Progress]]
 **Forms & Genres:** [[Essay]], [[Apologetics]]
 **Historical References:** [[Puritanism]], [[Bible]], [[Catholic Church]], [[Crusades]]
+
+## Chapters / scenes / sections
+
+- [part 01](/testi/chesterton/atomized/mormonism/part/part_01)
+- [part 02](/testi/chesterton/atomized/mormonism/part/part_02)
 
 ## Testo integrale / Full text
 

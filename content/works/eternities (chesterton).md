@@ -23,6 +23,10 @@ tags:
 > [!abstract] 
 > Sonnet on the finitude of mortal knowledge against divine infinity: the poet longs for an immortal soul that might finally count the leaves and thank God for all the grass.
 
+## Testo / Text
+
+- [eternities](/testi/chesterton/atomized/eternities/eternities)
+
 ## Connections
 
 **Topoi:** [[Memento Mori]]
@@ -30,6 +34,10 @@ tags:
 **Themes & Concepts:** [[Mortality]], [[Immortality]], [[Wonder and Gratitude]], [[Self-Knowledge]], [[Faith]]
 **Forms & Genres:** [[Sonnet]]
 **Historical References:** [[Bible]]
+
+## Chapters / scenes / sections
+
+- [part 01](/testi/chesterton/atomized/eternities/part/part_01)
 
 ## Testo integrale / Full text
 

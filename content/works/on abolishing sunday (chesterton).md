@@ -20,11 +20,20 @@ tags:
 > [!abstract] 
 > An essay defending the universal human need for a sabbath rhythm against Bolshevist abolition; critique of dehumanised progressive ideology and the rhythm of creation.
 
+## Testo / Text
+
+- [On_Abolishing_Sunday](/testi/chesterton/atomized/on_abolishing_sunday/on_abolishing_sunday)
+
 ## Connections
 
 **Themes & Concepts:** [[Critique of Progress]], [[Natural Order]], [[Satire of Society]]
 **Forms & Genres:** [[Essay]]
 **Historical References:** [[Christianity]], [[Bible]]
+
+## Chapters / scenes / sections
+
+- [part 01](/testi/chesterton/atomized/on_abolishing_sunday/part/part_01)
+- [part 02](/testi/chesterton/atomized/on_abolishing_sunday/part/part_02)
 
 ## Testo integrale / Full text
 

@@ -25,11 +25,20 @@ tags:
 > [!abstract] 
 > An essay on jury service arguing that the ordinary man, not the expert, must judge grave human matters; defends the common man, tragedy as the value of life, and Christian wisdom.
 
+## Testo / Text
+
+- [twelve-men](/testi/chesterton/atomized/twelve-men/twelve-men)
+
 ## Connections
 
 **Themes & Concepts:** [[Common Man]], [[Justice Right and Wrong]], [[Paradox]], [[Humility]], [[Wonder and Gratitude]], [[Critique of Progress]], [[Faith]]
 **Forms & Genres:** [[Essay]]
 **Historical References:** [[Christianity]]
+
+## Chapters / scenes / sections
+
+- [part 01](/testi/chesterton/atomized/twelve-men/part/part_01)
+- [part 02](/testi/chesterton/atomized/twelve-men/part/part_02)
 
 ## Testo integrale / Full text
 

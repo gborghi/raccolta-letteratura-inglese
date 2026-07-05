@@ -25,12 +25,20 @@ tags:
 > [!abstract] 
 > A comic song sung by a dog, mocking the 'noselessness of Man' and celebrating the rich animal world of smells closed to human minds; on nature, wonder and the limits of human perception.
 
+## Testo / Text
+
+- [quoodle](/testi/chesterton/atomized/quoodle/quoodle)
+
 ## Connections
 
 **Topoi:** [[Book of Nature]]
 **Motifs:** [[Animals]], [[Nature]], [[Flowers]]
 **Themes & Concepts:** [[Wonder and Gratitude]], [[Joy]], [[Nature vs Civilization]]
 **Forms & Genres:** [[Comic Verse Song]], [[Lyric]]
+
+## Chapters / scenes / sections
+
+- [part 01](/testi/chesterton/atomized/quoodle/part/part_01)
 
 ## Testo integrale / Full text
 

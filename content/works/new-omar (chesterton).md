@@ -25,6 +25,10 @@ tags:
 > [!abstract] 
 > A short parody of FitzGerald's Rubaiyat of Omar Khayyam, mocking the modern teetotal, unfermented-wine puritan whose 'Paradise' is a wilderness; a satirical epigram against prohibition and joyless reform.
 
+## Testo / Text
+
+- [new-omar](/testi/chesterton/atomized/new-omar/new-omar)
+
 ## Connections
 
 **Topoi:** [[Carpe Diem]]
@@ -32,6 +36,10 @@ tags:
 **Themes & Concepts:** [[Satire of Society]], [[Critique of Progress]], [[Joy]]
 **Forms & Genres:** [[Parody]], [[Epigram]], [[Satire]]
 **Historical References:** [[Eastern Religion Comparative Religion]]
+
+## Chapters / scenes / sections
+
+- [part 01](/testi/chesterton/atomized/new-omar/part/part_01)
 
 ## Testo integrale / Full text
 

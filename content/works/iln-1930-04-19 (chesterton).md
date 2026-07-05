@@ -25,12 +25,21 @@ tags:
 > [!abstract] 
 > An essay offering corrective maxims for reading the flood of Great War novels and plays, warning against fallacies of sentimentality and 'unthinkable war' slogans; on war, peace and patriotism.
 
+## Testo / Text
+
+- [ILN-1930-04-19](/testi/chesterton/atomized/iln-1930-04-19/iln-1930-04-19)
+
 ## Connections
 
 **Motifs:** [[Blood]]
 **Themes & Concepts:** [[War and its Cost]], [[Nationalism and Patriotism]], [[Artist and Society]], [[Appearance vs Reality]], [[Satire of Society]]
 **Forms & Genres:** [[Essay]], [[Literary Criticism]]
 **Historical References:** [[First World War]]
+
+## Chapters / scenes / sections
+
+- [part 01](/testi/chesterton/atomized/iln-1930-04-19/part/part_01)
+- [part 02](/testi/chesterton/atomized/iln-1930-04-19/part/part_02)
 
 ## Testo integrale / Full text
 

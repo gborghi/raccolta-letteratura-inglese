@@ -28,6 +28,10 @@ tags:
 > [!abstract] 
 > A satirical parody of Leigh Hunt's 'Abou Ben Adhem', in heroic couplets, in which the secular philanthropist who loves his fellow-men but not God reveals himself as a tyrannical social engineer; central themes are satire of society, secular humanism vs faith, and the loss of wonder.
 
+## Testo / Text
+
+- [Abou_ben_Adhem](/testi/chesterton/atomized/abou_ben_adhem/abou_ben_adhem)
+
 ## Connections
 
 **Topoi:** [[World Upside Down]]
@@ -37,6 +41,10 @@ tags:
 **Forms & Genres:** [[Parody]], [[Satire]], [[Heroic Couplet]]
 **Historical References:** [[Orient Arabia]]
 **Settings:** [[Orient]]
+
+## Chapters / scenes / sections
+
+- [part 01](/testi/chesterton/atomized/abou_ben_adhem/part/part_01)
 
 ## Testo integrale / Full text
 

@@ -22,10 +22,18 @@ tags:
 > [!abstract] 
 > A polemical essay on the right way to argue against Communism, defending private property as the basis of liberty and honour against both Pharisaical and merely acquisitive capitalist arguments.
 
+## Testo / Text
+
+- [how-not-to-do-it](/testi/chesterton/atomized/how-not-to-do-it/how-not-to-do-it)
+
 ## Connections
 
 **Themes & Concepts:** [[Distributism]], [[Class Conflict]], [[Reform]], [[Critique of Progress]], [[Honour]]
 **Forms & Genres:** [[Essay]]
+
+## Chapters / scenes / sections
+
+- [part 01](/testi/chesterton/atomized/how-not-to-do-it/part/part_01)
 
 ## Testo integrale / Full text
 

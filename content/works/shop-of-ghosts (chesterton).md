@@ -24,6 +24,10 @@ tags:
 > [!abstract] 
 > A fantastical essay in which the narrator meets a dying Father Christmas in a toyshop, visited by the ghosts of Dickens, Steele and Ben Jonson, who declare the spirit of Christmas has always been dying yet never dies. Wonder, tradition and immortality.
 
+## Testo / Text
+
+- [shop-of-ghosts](/testi/chesterton/atomized/shop-of-ghosts/shop-of-ghosts)
+
 ## Connections
 
 **Archetypes:** [[Ghost]]
@@ -31,6 +35,11 @@ tags:
 **Themes & Concepts:** [[Wonder and Gratitude]], [[Immortality]], [[Nostalgia]]
 **Forms & Genres:** [[Essay]], [[Fairy Tale Fantasy]]
 **Characters:** [[Death Personified]]
+
+## Chapters / scenes / sections
+
+- [part 01](/testi/chesterton/atomized/shop-of-ghosts/part/part_01)
+- [part 02](/testi/chesterton/atomized/shop-of-ghosts/part/part_02)
 
 ## Testo integrale / Full text
 

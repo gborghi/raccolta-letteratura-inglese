@@ -22,11 +22,20 @@ tags:
 > [!abstract] 
 > A 1929 essay attacking materialists and Darwinians for smuggling a personified 'Nature' into their arguments, and the modern habit of using dead metaphor as a substitute for reason; a satirical defence of clear thought over mythology.
 
+## Testo / Text
+
+- [Myths_and_Metaphors](/testi/chesterton/atomized/myths_and_metaphors/myths_and_metaphors)
+
 ## Connections
 
 **Motifs:** [[Dawn]]
 **Themes & Concepts:** [[Critique of Progress]], [[Truth]], [[Imagination]], [[Paradox]], [[Faith]]
 **Forms & Genres:** [[Essay]], [[Satire]]
+
+## Chapters / scenes / sections
+
+- [part 01](/testi/chesterton/atomized/myths_and_metaphors/part/part_01)
+- [part 02](/testi/chesterton/atomized/myths_and_metaphors/part/part_02)
 
 ## Testo integrale / Full text
 

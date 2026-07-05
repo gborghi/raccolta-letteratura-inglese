@@ -27,6 +27,10 @@ tags:
 > [!abstract] 
 > A historical ballad voicing the silent, dispossessed common people of England across centuries of Norman conquest, Reformation plunder, Trafalgar and modern plutocracy, warning 'we have not spoken yet'. Themes of social injustice, patriotism and the common man.
 
+## Testo / Text
+
+- [secret-people](/testi/chesterton/atomized/secret-people/secret-people)
+
 ## Connections
 
 **Motifs:** [[Silence]]
@@ -34,6 +38,10 @@ tags:
 **Forms & Genres:** [[Ballad Ballade]], [[Narrative Poem]]
 **Historical References:** [[Reformation]], [[Napoleonic Wars the Navy]]
 **Settings:** [[Rural England]]
+
+## Chapters / scenes / sections
+
+- [part 01](/testi/chesterton/atomized/secret-people/part/part_01)
 
 ## Testo integrale / Full text
 

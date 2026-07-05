@@ -21,11 +21,19 @@ tags:
 > [!abstract] 
 > A satiric comic poem in couplets parodying the relentless overreach of bureaucratic legislation, which dismembers a citizen by acronymic committees in the name of progress and freedom.
 
+## Testo / Text
+
+- [Jones](/testi/chesterton/atomized/jones/jones)
+
 ## Connections
 
 **Archetypes:** [[Corrupt Official]]
 **Themes & Concepts:** [[Satire of Society]], [[Critique of Progress]], [[Power and Corruption]]
 **Forms & Genres:** [[Satire]], [[Narrative Poem]], [[Parody]]
+
+## Chapters / scenes / sections
+
+- [part 01](/testi/chesterton/atomized/jones/part/part_01)
 
 ## Testo integrale / Full text
 

@@ -27,12 +27,20 @@ tags:
 > [!abstract] 
 > An autumnal lyric on growing old: golden leaves and grey hairs mark the speaker's passage from youthful heroic ambition to humble wonder at ordinary humanity, 'the million masks of God.'
 
+## Testo / Text
+
+- [gold-leaves](/testi/chesterton/atomized/gold-leaves/gold-leaves)
+
 ## Connections
 
 **Topoi:** [[Ubi Sunt]]
 **Motifs:** [[Autumn]], [[Seasons]], [[Gold and Grey]], [[Flowers]], [[Concealment Hidden Identity]]
 **Themes & Concepts:** [[Mortality]], [[Transience]], [[Common Man]], [[Humility]]
 **Forms & Genres:** [[Lyric]]
+
+## Chapters / scenes / sections
+
+- [part 01](/testi/chesterton/atomized/gold-leaves/part/part_01)
 
 ## Testo integrale / Full text
 

@@ -21,11 +21,20 @@ tags:
 > [!abstract] 
 > A satirical essay defending Jane Austen as a shrewd psychologist, using Wickham's plausible lying to skewer modern professional politicians and journalism.
 
+## Testo / Text
+
+- [Jane_Austen_GE](/testi/chesterton/atomized/jane_austen_ge/jane_austen_ge)
+
 ## Connections
 
 **Archetypes:** [[Corrupt Official]]
 **Themes & Concepts:** [[Satire of Society]], [[Deception]], [[Appearance vs Reality]], [[Power and Corruption]]
 **Forms & Genres:** [[Literary Criticism]], [[Essay]]
+
+## Chapters / scenes / sections
+
+- [part 01](/testi/chesterton/atomized/jane_austen_ge/part/part_01)
+- [part 02](/testi/chesterton/atomized/jane_austen_ge/part/part_02)
 
 ## Testo integrale / Full text
 

@@ -22,11 +22,19 @@ tags:
 > [!abstract] 
 > A short essay arguing that mending (restoring a good thing to its ideal) and ending (destroying a bad thing) are opposite acts, illustrated with the Platonic archetype of the perfect armchair; a meditation on reform and ideal philosophy.
 
+## Testo / Text
+
+- [mending](/testi/chesterton/atomized/mending/mending)
+
 ## Connections
 
 **Topoi:** [[Great Chain of Being]]
 **Themes & Concepts:** [[Reform]], [[Paradox]], [[Critique of Progress]]
 **Forms & Genres:** [[Essay]], [[Apologetics]]
+
+## Chapters / scenes / sections
+
+- [part 01](/testi/chesterton/atomized/mending/part/part_01)
 
 ## Testo integrale / Full text
 

@@ -25,11 +25,20 @@ tags:
 > [!abstract] 
 > A meditative essay on tales of terror, arguing the imagination may play with horror only if the soul stays upright and Christian; the terror must be 'fundamentally frivolous'. Themes: imagination, the grotesque, faith as anchor.
 
+## Testo / Text
+
+- [nightmare](/testi/chesterton/atomized/nightmare/nightmare)
+
 ## Connections
 
 **Motifs:** [[Supernatural]], [[Dreams]], [[Night]], [[Cross]]
 **Themes & Concepts:** [[Terror and Horror]], [[Imagination]], [[Grotesque]], [[Faith]]
 **Forms & Genres:** [[Essay]]
+
+## Chapters / scenes / sections
+
+- [part 01](/testi/chesterton/atomized/nightmare/part/part_01)
+- [part 02](/testi/chesterton/atomized/nightmare/part/part_02)
 
 ## Testo integrale / Full text
 

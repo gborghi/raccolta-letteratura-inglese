@@ -24,11 +24,19 @@ tags:
 > [!abstract] 
 > A satirical essay mocking proposals to standardise private correspondence, defending individual liberty and self-determination against the encroaching claims of the State.
 
+## Testo / Text
+
+- [government](/testi/chesterton/atomized/government/government)
+
 ## Connections
 
 **Motifs:** [[Letters and Writing]]
 **Themes & Concepts:** [[Satire of Society]], [[Critique of Progress]], [[Power and Corruption]], [[Identity]], [[Distributism]]
 **Forms & Genres:** [[Essay]], [[Satire]]
+
+## Chapters / scenes / sections
+
+- [part 01](/testi/chesterton/atomized/government/part/part_01)
 
 ## Testo integrale / Full text
 

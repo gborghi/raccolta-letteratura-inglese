@@ -22,11 +22,19 @@ tags:
 > [!abstract] 
 > A ballade written for a 1912 Titanic benefit, insisting that beneath theatrical illusion 'there are real things' — death, courage and human reality break through the unreal.
 
+## Testo / Text
+
+- [titanicGKC](/testi/chesterton/atomized/titanicgkc/titanicgkc)
+
 ## Connections
 
 **Motifs:** [[Death]], [[Concealment Hidden Identity]]
 **Themes & Concepts:** [[Appearance vs Reality]], [[Mortality]], [[Heroism]]
 **Forms & Genres:** [[Ballad Ballade]]
+
+## Chapters / scenes / sections
+
+- [part 01](/testi/chesterton/atomized/titanicgkc/part/part_01)
 
 ## Testo integrale / Full text
 

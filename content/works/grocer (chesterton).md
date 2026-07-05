@@ -29,6 +29,10 @@ tags:
 > [!abstract] 
 > A comic ballad-song from The Flying Inn pitting the joyous fellowship of the inn against the soulless, mercenary commerce of the grocer; satire of commercialism and praise of feasting and good cheer.
 
+## Testo / Text
+
+- [grocer](/testi/chesterton/atomized/grocer/grocer)
+
 ## Connections
 
 **Topoi:** [[Beatus Ille (Happy the Man Rural Retreat)]]
@@ -36,6 +40,10 @@ tags:
 **Themes & Concepts:** [[Satire of Society]], [[Anti-Industrialism]], [[Common Man]], [[Distributism]]
 **Forms & Genres:** [[Comic Verse Song]], [[Ballad Ballade]], [[Satire]]
 **Settings:** [[Inn]]
+
+## Chapters / scenes / sections
+
+- [part 01](/testi/chesterton/atomized/grocer/part/part_01)
 
 ## Testo integrale / Full text
 

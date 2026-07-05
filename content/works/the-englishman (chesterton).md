@@ -24,6 +24,10 @@ tags:
 > [!abstract] 
 > A comic patriotic song invoking St George, English ale, beef and chivalry; nationalism, food and drink, the dragon-slaying hero.
 
+## Testo / Text
+
+- [the-englishman](/testi/chesterton/atomized/the-englishman/the-englishman)
+
 ## Connections
 
 **Archetypes:** [[Hero]]
@@ -31,6 +35,10 @@ tags:
 **Themes & Concepts:** [[Nationalism and Patriotism]], [[Heroism]]
 **Forms & Genres:** [[Comic Verse Song]]
 **Historical References:** [[Christianity]]
+
+## Chapters / scenes / sections
+
+- [part 01](/testi/chesterton/atomized/the-englishman/part/part_01)
 
 ## Testo integrale / Full text
 

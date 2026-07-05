@@ -30,6 +30,10 @@ tags:
 > [!abstract] 
 > An apologetic essay (from The Everlasting Man) on the Nativity in the cave, contrasting Christianity with pagan myth and philosophy, dwelling on shepherds, Magi, and the paradox of God born homeless.
 
+## Testo / Text
+
+- [God_in_the_Cave](/testi/chesterton/atomized/god_in_the_cave/god_in_the_cave)
+
 ## Connections
 
 **Topoi:** [[World Upside Down]]
@@ -39,6 +43,11 @@ tags:
 **Historical References:** [[Christianity]], [[Greek Mythology]], [[Bible]]
 **Settings:** [[Underworld Cave]]
 **Characters:** [[Christ]]
+
+## Chapters / scenes / sections
+
+- [part 01](/testi/chesterton/atomized/god_in_the_cave/part/part_01)
+- [part 02](/testi/chesterton/atomized/god_in_the_cave/part/part_02)
 
 ## Testo integrale / Full text
 

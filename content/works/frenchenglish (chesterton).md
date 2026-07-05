@@ -23,11 +23,21 @@ tags:
 > [!abstract] 
 > A paradoxical essay contrasting French and English national character (candour versus snobbery, revolution versus tradition), arguing that each nation's vices are the flower of its virtues; satire of cosmopolitanism in defence of patriotism.
 
+## Testo / Text
+
+- [frenchenglish](/testi/chesterton/atomized/frenchenglish/frenchenglish)
+
 ## Connections
 
 **Themes & Concepts:** [[Paradox]], [[Satire of Society]], [[Nationalism and Patriotism]], [[Class Conflict]], [[Artist and Society]]
 **Forms & Genres:** [[Essay]]
 **Historical References:** [[French Revolution]]
+
+## Chapters / scenes / sections
+
+- [part 01](/testi/chesterton/atomized/frenchenglish/part/part_01)
+- [part 02](/testi/chesterton/atomized/frenchenglish/part/part_02)
+- [part 03](/testi/chesterton/atomized/frenchenglish/part/part_03)
 
 ## Testo integrale / Full text
 

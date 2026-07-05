@@ -25,11 +25,19 @@ tags:
 > [!abstract] 
 > A lyric song set on the dreamlike island of 'Nevercometrue', where the man and woman that might have been dance and wed; a melancholy meditation on the unlived life, lost love and longing for what never came true.
 
+## Testo / Text
+
+- [Nevercometrue](/testi/chesterton/atomized/nevercometrue/nevercometrue)
+
 ## Connections
 
 **Motifs:** [[Dreams]], [[Music and Song]], [[Moon]], [[Flowers]], [[Garden]]
 **Themes & Concepts:** [[Unrequited Frustrated Love]], [[Nostalgia]], [[Melancholy]], [[Romantic Love]]
 **Forms & Genres:** [[Comic Verse Song]], [[Lyric]]
+
+## Chapters / scenes / sections
+
+- [part 01](/testi/chesterton/atomized/nevercometrue/part/part_01)
 
 ## Testo integrale / Full text
 

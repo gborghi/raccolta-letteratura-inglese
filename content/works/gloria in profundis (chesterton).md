@@ -26,6 +26,10 @@ tags:
 > [!abstract] 
 > A lyric on the Nativity reimagined as a divine descent: God 'falls' deeper than the fallen angels into the cave of Bethlehem. Themes of Incarnation, paradox, and humility through cosmic inversion.
 
+## Testo / Text
+
+- [Gloria_in_Profundis](/testi/chesterton/atomized/gloria_in_profundis/gloria_in_profundis)
+
 ## Connections
 
 **Topoi:** [[World Upside Down]], [[Paradise Lost]]
@@ -34,6 +38,10 @@ tags:
 **Forms & Genres:** [[Hymn]]
 **Historical References:** [[Christianity]]
 **Characters:** [[Christ]], [[Satan]]
+
+## Chapters / scenes / sections
+
+- [part 01](/testi/chesterton/atomized/gloria_in_profundis/part/part_01)
 
 ## Testo integrale / Full text
 

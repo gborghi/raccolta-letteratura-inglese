@@ -23,11 +23,19 @@ tags:
 > [!abstract] 
 > Familiar essay on the ancient bond between man and dog by the fireside, using the relationship to mock reductive evolutionary biology and affirm the antiquity of human nature.
 
+## Testo / Text
+
+- [dogs](/testi/chesterton/atomized/dogs/dogs)
+
 ## Connections
 
 **Motifs:** [[Animals]], [[Fire]]
 **Themes & Concepts:** [[Nature vs Civilization]], [[Critique of Progress]], [[Wonder and Gratitude]], [[Self-Knowledge]], [[Friendship]], [[Identity]]
 **Forms & Genres:** [[Essay]]
+
+## Chapters / scenes / sections
+
+- [part 01](/testi/chesterton/atomized/dogs/part/part_01)
 
 ## Testo integrale / Full text
 

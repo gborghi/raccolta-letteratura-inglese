@@ -31,6 +31,10 @@ tags:
 > [!abstract] 
 > A fantastical short story in which an overworked, neglected London street rears up to heaven 'for justice'; a parable of the soul of inanimate things, modern bondage to the clock, and wonder.
 
+## Testo / Text
+
+- [improbable_story](/testi/chesterton/atomized/improbable_story/improbable_story)
+
 ## Connections
 
 **Topoi:** [[World Upside Down]]
@@ -38,6 +42,11 @@ tags:
 **Themes & Concepts:** [[Wonder and Gratitude]], [[Alienation]], [[Critique of Progress]], [[Justice Right and Wrong]], [[Uncanny]]
 **Forms & Genres:** [[Short Story]], [[Allegory]]
 **Settings:** [[London]], [[Modern Metropolis]]
+
+## Chapters / scenes / sections
+
+- [part 01](/testi/chesterton/atomized/improbable_story/part/part_01)
+- [part 02](/testi/chesterton/atomized/improbable_story/part/part_02)
 
 ## Testo integrale / Full text
 

@@ -26,12 +26,21 @@ tags:
 > [!abstract] 
 > An introductory essay using a parable of the priest of the sun and his three temples to allegorize Paganism, Christianity and modern Realism; a defence of the grotesque and Gothic, with 'man is the ape upside down'.
 
+## Testo / Text
+
+- [gargoyles](/testi/chesterton/atomized/gargoyles/gargoyles)
+
 ## Connections
 
 **Motifs:** [[Animals]], [[Sun]]
 **Themes & Concepts:** [[Grotesque]], [[Wonder and Gratitude]], [[Critique of Progress]], [[Paradox]], [[Artist and Society]]
 **Forms & Genres:** [[Essay]], [[Allegory]]
 **Historical References:** [[Christianity]]
+
+## Chapters / scenes / sections
+
+- [part 01](/testi/chesterton/atomized/gargoyles/part/part_01)
+- [part 02](/testi/chesterton/atomized/gargoyles/part/part_02)
 
 ## Testo integrale / Full text
 

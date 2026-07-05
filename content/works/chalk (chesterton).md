@@ -25,6 +25,10 @@ tags:
 > [!abstract] 
 > An essay in which a walk on the Sussex downs to draw with chalk becomes a meditation on wonder, the positive nature of virtue ('white is a color'), and the sacramental quality of created England.
 
+## Testo / Text
+
+- [chalk](/testi/chesterton/atomized/chalk/chalk)
+
 ## Connections
 
 **Topoi:** [[Book of Nature]]
@@ -32,6 +36,11 @@ tags:
 **Themes & Concepts:** [[Wonder and Gratitude]], [[Mercy]], [[Faith]]
 **Forms & Genres:** [[Essay]]
 **Settings:** [[Rural England]]
+
+## Chapters / scenes / sections
+
+- [part 01](/testi/chesterton/atomized/chalk/part/part_01)
+- [part 02](/testi/chesterton/atomized/chalk/part/part_02)
 
 ## Testo integrale / Full text
 

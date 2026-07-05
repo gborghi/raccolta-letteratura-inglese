@@ -25,12 +25,20 @@ tags:
 > [!abstract] 
 > An 1898 elegiac tribute on Gladstone's death, celebrating a strong man who died with his head high and rebuking the grey, sad spirit of the decadent younger generation.
 
+## Testo / Text
+
+- [Tribute_To_Gladstone](/testi/chesterton/atomized/tribute_to_gladstone/tribute_to_gladstone)
+
 ## Connections
 
 **Motifs:** [[Dawn]], [[Seasons]], [[Cross]]
 **Themes & Concepts:** [[Grief and Loss]], [[Mortality]], [[Heroism]], [[Honour]], [[Melancholy]]
 **Forms & Genres:** [[Elegy]], [[Lyric]]
 **Historical References:** [[Regency Georgian England]]
+
+## Chapters / scenes / sections
+
+- [part 01](/testi/chesterton/atomized/tribute_to_gladstone/part/part_01)
 
 ## Testo integrale / Full text
 

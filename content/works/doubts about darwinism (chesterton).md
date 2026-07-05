@@ -21,12 +21,21 @@ tags:
 > [!abstract] 
 > Essay marshalling common-sense objections to natural selection, arguing Darwinism has become a defensive dogma appealing to authority rather than explanation.
 
+## Testo / Text
+
+- [Doubts_About_Darwinism](/testi/chesterton/atomized/doubts_about_darwinism/doubts_about_darwinism)
+
 ## Connections
 
 **Motifs:** [[Animals]]
 **Themes & Concepts:** [[Critique of Progress]], [[Doubt]], [[Faith and Doubt]], [[Natural Order]]
 **Forms & Genres:** [[Essay]]
 **Historical References:** [[Bible]]
+
+## Chapters / scenes / sections
+
+- [part 01](/testi/chesterton/atomized/doubts_about_darwinism/part/part_01)
+- [part 02](/testi/chesterton/atomized/doubts_about_darwinism/part/part_02)
 
 ## Testo integrale / Full text
 

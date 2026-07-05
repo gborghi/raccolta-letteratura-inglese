@@ -24,6 +24,10 @@ tags:
 > [!abstract] 
 > A parable in which a boy tries to uproot an indestructible plant (religion/Christianity), wrecking the whole world but never the plant. An allegory defending faith against secularist and evolutionist attack.
 
+## Testo / Text
+
+- [Roots_of_the_World](/testi/chesterton/atomized/roots_of_the_world/roots_of_the_world)
+
 ## Connections
 
 **Motifs:** [[Garden]], [[Flowers]]
@@ -31,6 +35,11 @@ tags:
 **Forms & Genres:** [[Allegory]], [[Fable]]
 **Historical References:** [[Christianity]]
 **Settings:** [[Garden (2)]]
+
+## Chapters / scenes / sections
+
+- [part 01](/testi/chesterton/atomized/roots_of_the_world/part/part_01)
+- [part 02](/testi/chesterton/atomized/roots_of_the_world/part/part_02)
 
 ## Testo integrale / Full text
 

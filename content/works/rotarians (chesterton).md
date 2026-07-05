@@ -23,12 +23,20 @@ tags:
 > [!abstract] 
 > A set of satirical epigrams mocking the Rotary Club's empty business-praise, using the wheel as emblem of circular argument and St Catherine's martyrdom for contrast. Satire of commercialism and modern boosterism.
 
+## Testo / Text
+
+- [rotarians](/testi/chesterton/atomized/rotarians/rotarians)
+
 ## Connections
 
 **Archetypes:** [[Martyr Saint]]
 **Motifs:** [[Wheel]], [[Money and Gold]]
 **Themes & Concepts:** [[Satire of Society]], [[Martyrdom]]
 **Forms & Genres:** [[Epigram]], [[Satire]]
+
+## Chapters / scenes / sections
+
+- [part 01](/testi/chesterton/atomized/rotarians/part/part_01)
 
 ## Testo integrale / Full text
 

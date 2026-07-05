@@ -22,11 +22,19 @@ tags:
 > [!abstract] 
 > A comic ballade whose refrain ('I think I will not hang myself to-day') turns the contemplation of death into a celebration of life's small wonders.
 
+## Testo / Text
+
+- [suicide](/testi/chesterton/atomized/suicide/suicide)
+
 ## Connections
 
 **Topoi:** [[Carpe Diem]]
 **Themes & Concepts:** [[Mortality]], [[Joy]], [[Wonder and Gratitude]]
 **Forms & Genres:** [[Ballad Ballade]], [[Lyric]]
+
+## Chapters / scenes / sections
+
+- [part 01](/testi/chesterton/atomized/suicide/part/part_01)
 
 ## Testo integrale / Full text
 

@@ -29,6 +29,10 @@ tags:
 > [!abstract] 
 > A tender devotional lyric on the Christ-child in Mary's arms, contrasting the weary world with the divine peace of the Nativity.
 
+## Testo / Text
+
+- [carol](/testi/chesterton/atomized/carol/carol)
+
 ## Connections
 
 **Archetypes:** [[Innocent]]
@@ -37,6 +41,10 @@ tags:
 **Forms & Genres:** [[Hymn]], [[Lyric]]
 **Historical References:** [[Bible]]
 **Characters:** [[Virgin Mary]], [[Christ]]
+
+## Chapters / scenes / sections
+
+- [part 01](/testi/chesterton/atomized/carol/part/part_01)
 
 ## Testo integrale / Full text
 

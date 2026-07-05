@@ -26,12 +26,21 @@ tags:
 > [!abstract] 
 > An essay defending genuine nursery-rhyme nonsense and childlike imagination against modern 'child-psychology', satirizing experts (Freud, Wells) who put nonsense in the wrong place.
 
+## Testo / Text
+
+- [child psychology](/testi/chesterton/atomized/child_psychology/child_psychology)
+
 ## Connections
 
 **Archetypes:** [[Child]]
 **Motifs:** [[Childhood]], [[Moon]]
 **Themes & Concepts:** [[Imagination]], [[Innocence and Experience]], [[Maturation and Growth]], [[Satire of Society]], [[Critique of Progress]]
 **Forms & Genres:** [[Essay]], [[Satire]]
+
+## Chapters / scenes / sections
+
+- [part 01](/testi/chesterton/atomized/child_psychology/part/part_01)
+- [part 02](/testi/chesterton/atomized/child_psychology/part/part_02)
 
 ## Testo integrale / Full text
 

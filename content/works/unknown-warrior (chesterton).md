@@ -23,12 +23,20 @@ tags:
 > [!abstract] 
 > A lyric poem celebrating the anonymous dead soldier whose nameless heroism defeats vulgar publicity and commercial fame; central themes are war's cost, honour, and the dignity of the unknown.
 
+## Testo / Text
+
+- [unknown-warrior](/testi/chesterton/atomized/unknown-warrior/unknown-warrior)
+
 ## Connections
 
 **Motifs:** [[Death]]
 **Themes & Concepts:** [[Heroism]], [[Honour]], [[War and its Cost]], [[Satire of Society]]
 **Forms & Genres:** [[Lyric]]
 **Historical References:** [[First World War]]
+
+## Chapters / scenes / sections
+
+- [part 01](/testi/chesterton/atomized/unknown-warrior/part/part_01)
 
 ## Testo integrale / Full text
 

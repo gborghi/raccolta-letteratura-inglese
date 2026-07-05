@@ -23,11 +23,20 @@ tags:
 > [!abstract] 
 > A social-critical essay rejecting the mechanized 'Leisure State' utopia; argues that men who do no work become servile parts of a machine, defending the free peasant who controls the means of production.
 
+## Testo / Text
+
+- [leisure-state](/testi/chesterton/atomized/leisure-state/leisure-state)
+
 ## Connections
 
 **Themes & Concepts:** [[Distributism]], [[Anti-Industrialism]], [[Critique of Progress]], [[Common Man]], [[Satire of Society]]
 **Forms & Genres:** [[Essay]]
 **Historical References:** [[Industrial Revolution]]
+
+## Chapters / scenes / sections
+
+- [part 01](/testi/chesterton/atomized/leisure-state/part/part_01)
+- [part 02](/testi/chesterton/atomized/leisure-state/part/part_02)
 
 ## Testo integrale / Full text
 

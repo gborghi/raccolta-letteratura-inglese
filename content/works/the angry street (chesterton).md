@@ -25,6 +25,10 @@ tags:
 > [!abstract] 
 > A fantastic parable in which an overworked London street rears up to heaven for justice; satire of mechanical modern life, the supernatural breaking into the city.
 
+## Testo / Text
+
+- [The_Angry_Street](/testi/chesterton/atomized/the_angry_street/the_angry_street)
+
 ## Connections
 
 **Topoi:** [[World Upside Down]]
@@ -32,6 +36,11 @@ tags:
 **Themes & Concepts:** [[Satire of Society]], [[Anti-Industrialism]], [[Critique of Progress]]
 **Forms & Genres:** [[Short Story]]
 **Settings:** [[London]]
+
+## Chapters / scenes / sections
+
+- [part 01](/testi/chesterton/atomized/the_angry_street/part/part_01)
+- [part 02](/testi/chesterton/atomized/the_angry_street/part/part_02)
 
 ## Testo integrale / Full text
 

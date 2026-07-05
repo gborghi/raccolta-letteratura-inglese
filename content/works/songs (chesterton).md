@@ -24,11 +24,19 @@ tags:
 > [!abstract] 
 > A bitterly ironic song in which a child celebrates a mother freed from caring for him to labour in industry, satirising the destruction of family by capitalist 'progress' and state schooling.
 
+## Testo / Text
+
+- [songs](/testi/chesterton/atomized/songs/songs)
+
 ## Connections
 
 **Motifs:** [[Wheel]], [[Money and Gold]]
 **Themes & Concepts:** [[Satire of Society]], [[Anti-Industrialism]], [[Critique of Progress]], [[Education]]
 **Forms & Genres:** [[Comic Verse Song]], [[Satire]]
+
+## Chapters / scenes / sections
+
+- [part 01](/testi/chesterton/atomized/songs/part/part_01)
 
 ## Testo integrale / Full text
 

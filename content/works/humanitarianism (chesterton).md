@@ -20,10 +20,19 @@ tags:
 > [!abstract] 
 > An essay distinguishing true universal sympathy from the cold, partisan 'inhumane humanitarian'; defends warm moderation born of strong feeling against intellectual anger detached from real human life.
 
+## Testo / Text
+
+- [Humanitarianism](/testi/chesterton/atomized/humanitarianism/humanitarianism)
+
 ## Connections
 
 **Themes & Concepts:** [[Satire of Society]], [[Reform]], [[Mercy]], [[Common Man]], [[Alienation]]
 **Forms & Genres:** [[Essay]]
+
+## Chapters / scenes / sections
+
+- [part 01](/testi/chesterton/atomized/humanitarianism/part/part_01)
+- [part 02](/testi/chesterton/atomized/humanitarianism/part/part_02)
 
 ## Testo integrale / Full text
 

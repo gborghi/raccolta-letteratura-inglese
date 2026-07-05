@@ -25,6 +25,10 @@ tags:
 > [!abstract] 
 > A comic-elegiac ballad celebrating the crooked English road made by a drunkard, set against Roman straightness; ends contemplating 'the decent inn of death' and Paradise. Themes of Englishness, the open road, mortality and merry resignation.
 
+## Testo / Text
+
+- [rolling](/testi/chesterton/atomized/rolling/rolling)
+
 ## Connections
 
 **Topoi:** [[Open Road Homecoming]]
@@ -32,6 +36,10 @@ tags:
 **Themes & Concepts:** [[Mortality]], [[Nationalism and Patriotism]], [[Joy]]
 **Forms & Genres:** [[Ballad Ballade]]
 **Settings:** [[Rural England]]
+
+## Chapters / scenes / sections
+
+- [part 01](/testi/chesterton/atomized/rolling/part/part_01)
 
 ## Testo integrale / Full text
 

@@ -29,6 +29,10 @@ tags:
 > [!abstract] 
 > A critical essay on Bunyan and Puritanism, reading The Pilgrim's Progress as a primitive, barbaric, eternal religious allegory of the soul's danger and quest out of the City of Destruction.
 
+## Testo / Text
+
+- [intro-pilgrims-progress](/testi/chesterton/atomized/intro-pilgrims-progress/intro-pilgrims-progress)
+
 ## Connections
 
 **Topoi:** [[Quest]], [[Paradise Lost]]
@@ -37,6 +41,12 @@ tags:
 **Themes & Concepts:** [[Faith]], [[Sin and the Fall]], [[Grace and Redemption]]
 **Forms & Genres:** [[Literary Criticism]], [[Allegory]]
 **Historical References:** [[Puritanism]], [[Christianity]], [[Bible]]
+
+## Chapters / scenes / sections
+
+- [part 01](/testi/chesterton/atomized/intro-pilgrims-progress/part/part_01)
+- [part 02](/testi/chesterton/atomized/intro-pilgrims-progress/part/part_02)
+- [part 03](/testi/chesterton/atomized/intro-pilgrims-progress/part/part_03)
 
 ## Testo integrale / Full text
 

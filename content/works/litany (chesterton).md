@@ -27,6 +27,10 @@ tags:
 > [!abstract] 
 > A devotional Marian lyric meditating on the Incarnation: God grown little, seeing earth through the Virgin as through a window, mirror, and house of gold.
 
+## Testo / Text
+
+- [litany](/testi/chesterton/atomized/litany/litany)
+
 ## Connections
 
 **Motifs:** [[Mirror]], [[Light and Dark]], [[Rose]]
@@ -34,6 +38,10 @@ tags:
 **Forms & Genres:** [[Lyric]], [[Hymn]]
 **Historical References:** [[Christianity]]
 **Characters:** [[Virgin Mary]], [[Christ]]
+
+## Chapters / scenes / sections
+
+- [part 01](/testi/chesterton/atomized/litany/part/part_01)
 
 ## Testo integrale / Full text
 

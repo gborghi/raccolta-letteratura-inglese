@@ -23,11 +23,19 @@ tags:
 > [!abstract] 
 > A virtuoso parody-sequence rewriting the Old King Cole nursery rhyme in the styles of Tennyson, Yeats, and Whitman; literary pastiche on mirth, wine and song.
 
+## Testo / Text
+
+- [kingcole](/testi/chesterton/atomized/kingcole/kingcole)
+
 ## Connections
 
 **Motifs:** [[Wine and Drink]], [[Music and Song]]
 **Themes & Concepts:** [[Joy]], [[Imagination]]
 **Forms & Genres:** [[Parody]], [[Comic Verse Song]], [[Lyric]]
+
+## Chapters / scenes / sections
+
+- [part 01](/testi/chesterton/atomized/kingcole/part/part_01)
 
 ## Testo integrale / Full text
 

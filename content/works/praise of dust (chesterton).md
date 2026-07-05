@@ -26,6 +26,10 @@ tags:
 > [!abstract] 
 > A lyric in which despised 'vile dust' speaks back, proclaiming the living glory of the created world and the promise that God will make of dust 'a fairer face than heaven'; on humility, mortality and wonder.
 
+## Testo / Text
+
+- [praise_of_dust](/testi/chesterton/atomized/praise_of_dust/praise_of_dust)
+
 ## Connections
 
 **Topoi:** [[Memento Mori]]
@@ -33,6 +37,10 @@ tags:
 **Themes & Concepts:** [[Humility]], [[Mortality]], [[Wonder and Gratitude]], [[Grace and Redemption]]
 **Forms & Genres:** [[Lyric]]
 **Historical References:** [[Bible]]
+
+## Chapters / scenes / sections
+
+- [part 01](/testi/chesterton/atomized/praise_of_dust/part/part_01)
 
 ## Testo integrale / Full text
 

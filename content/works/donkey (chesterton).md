@@ -26,6 +26,10 @@ tags:
 > [!abstract] 
 > Lyric in which the despised, grotesque donkey keeps its secret: it too had 'one far fierce hour' when palms were strewn before it on Palm Sunday — the lowly exalted through Christ.
 
+## Testo / Text
+
+- [donkey](/testi/chesterton/atomized/donkey/donkey)
+
 ## Connections
 
 **Archetypes:** [[Christ Figure]]
@@ -34,6 +38,10 @@ tags:
 **Forms & Genres:** [[Lyric]]
 **Historical References:** [[Bible]], [[Christianity]]
 **Characters:** [[Christ]]
+
+## Chapters / scenes / sections
+
+- [part 01](/testi/chesterton/atomized/donkey/part/part_01)
 
 ## Testo integrale / Full text
 

@@ -31,6 +31,10 @@ tags:
 > [!abstract] 
 > A comic narrative poem satirizing the aesthete and the cult of art-for-art's-sake, ending with a dream where Art unmakes the order of nature; defends childlike wonder and the simple love of created things.
 
+## Testo / Text
+
+- [artist](/testi/chesterton/atomized/artist/artist)
+
 ## Connections
 
 **Topoi:** [[World Upside Down]], [[Fall from Innocence]]
@@ -38,6 +42,10 @@ tags:
 **Motifs:** [[Dreams]], [[Nature]], [[Childhood]], [[Flowers]]
 **Themes & Concepts:** [[Artist and Society]], [[Satire of Society]], [[Wonder and Gratitude]], [[Innocence and Experience]], [[Maturation and Growth]], [[Nature vs Civilization]]
 **Forms & Genres:** [[Narrative Poem]], [[Satire]]
+
+## Chapters / scenes / sections
+
+- [part 01](/testi/chesterton/atomized/artist/part/part_01)
 
 ## Testo integrale / Full text
 

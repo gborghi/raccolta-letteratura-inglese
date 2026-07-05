@@ -24,12 +24,20 @@ tags:
 > [!abstract] 
 > A ballade with refrain ('Will someone take me to a pub?') mocking earnest Progressive reformers and celebrating fellowship, beer and the common man. Themes: satire of society, the common man, anti-puritanism, fellowship.
 
+## Testo / Text
+
+- [anti-puritan](/testi/chesterton/atomized/anti-puritan/anti-puritan)
+
 ## Connections
 
 **Motifs:** [[Wine and Drink]], [[Inn Tavern]]
 **Themes & Concepts:** [[Satire of Society]], [[Common Man]], [[Critique of Progress]]
 **Forms & Genres:** [[Ballad Ballade]], [[Satire]]
 **Historical References:** [[Puritanism]]
+
+## Chapters / scenes / sections
+
+- [part 01](/testi/chesterton/atomized/anti-puritan/part/part_01)
 
 ## Testo integrale / Full text
 

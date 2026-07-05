@@ -28,6 +28,10 @@ tags:
 > [!abstract] 
 > A lyric on a man who stands tree-still in a field, a Father-figure to nature, while the grass and worms cry to him as to a silent God; themes of stillness, divine silence, doubt and faith.
 
+## Testo / Text
+
+- [human-tree](/testi/chesterton/atomized/human-tree/human-tree)
+
 ## Connections
 
 **Topoi:** [[Book of Nature]]
@@ -35,6 +39,10 @@ tags:
 **Themes & Concepts:** [[Faith and Doubt]], [[Doubt]], [[Natural Order]], [[Self-Knowledge]]
 **Forms & Genres:** [[Lyric]]
 **Settings:** [[Rural England]]
+
+## Chapters / scenes / sections
+
+- [part 01](/testi/chesterton/atomized/human-tree/part/part_01)
 
 ## Testo integrale / Full text
 

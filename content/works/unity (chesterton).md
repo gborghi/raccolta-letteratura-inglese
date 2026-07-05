@@ -22,11 +22,19 @@ tags:
 > [!abstract] 
 > A satirical ballad about a missionary literally devoured by converts, mocking the modern doctrine of religious syncretism and forced unity of faiths; combines comic verse with theological satire.
 
+## Testo / Text
+
+- [unity](/testi/chesterton/atomized/unity/unity)
+
 ## Connections
 
 **Themes & Concepts:** [[Satire of Society]], [[Faith]], [[Martyrdom]]
 **Forms & Genres:** [[Satire]], [[Ballad Ballade]]
 **Historical References:** [[Christianity]]
+
+## Chapters / scenes / sections
+
+- [part 01](/testi/chesterton/atomized/unity/part/part_01)
 
 ## Testo integrale / Full text
 

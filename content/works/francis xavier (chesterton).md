@@ -27,6 +27,10 @@ tags:
 > [!abstract] 
 > A Spenserian-stanza meditation on the missionary St Francis Xavier, whose apparent failure in the East is judged a hidden success by God; themes of martyrdom, faith and doubt, providence, and apparent failure redeemed.
 
+## Testo / Text
+
+- [Francis_Xavier](/testi/chesterton/atomized/francis_xavier/francis_xavier)
+
 ## Connections
 
 **Archetypes:** [[Martyr Saint]], [[Pilgrim]]
@@ -35,6 +39,10 @@ tags:
 **Forms & Genres:** [[Spenserian Stanza]], [[Lyric]]
 **Historical References:** [[Catholic Church]], [[Eastern Religion Comparative Religion]]
 **Settings:** [[Orient]]
+
+## Chapters / scenes / sections
+
+- [part 01](/testi/chesterton/atomized/francis_xavier/part/part_01)
 
 ## Testo integrale / Full text
 

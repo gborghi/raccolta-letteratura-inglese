@@ -25,11 +25,37 @@ tags:
 > [!abstract] 
 > A stage comedy in which a Conjurer's real magic confounds a sceptic; debates faith, doubt, the supernatural and spiritualism, with fairies presented as mighty elemental spirits.
 
+## Testo / Text
+
+- [Magic](/testi/chesterton/atomized/magic/magic)
+
 ## Connections
 
 **Motifs:** [[Supernatural]], [[Light and Dark]]
 **Themes & Concepts:** [[Faith and Doubt]], [[Doubt]], [[Good vs Evil]], [[Temptation]], [[Appearance vs Reality]], [[Imagination]], [[Madness]]
 **Forms & Genres:** [[Comedy]], [[Verse Drama]]
+
+## Chapters / scenes / sections
+
+- [part 01](/testi/chesterton/atomized/magic/part/part_01)
+- [part 02](/testi/chesterton/atomized/magic/part/part_02)
+- [part 03](/testi/chesterton/atomized/magic/part/part_03)
+- [part 04](/testi/chesterton/atomized/magic/part/part_04)
+- [part 05](/testi/chesterton/atomized/magic/part/part_05)
+- [part 06](/testi/chesterton/atomized/magic/part/part_06)
+- [part 07](/testi/chesterton/atomized/magic/part/part_07)
+- [part 08](/testi/chesterton/atomized/magic/part/part_08)
+- [part 09](/testi/chesterton/atomized/magic/part/part_09)
+- [part 10](/testi/chesterton/atomized/magic/part/part_10)
+- [part 11](/testi/chesterton/atomized/magic/part/part_11)
+- [part 12](/testi/chesterton/atomized/magic/part/part_12)
+- [part 13](/testi/chesterton/atomized/magic/part/part_13)
+- [part 14](/testi/chesterton/atomized/magic/part/part_14)
+- [part 15](/testi/chesterton/atomized/magic/part/part_15)
+- [part 16](/testi/chesterton/atomized/magic/part/part_16)
+- [part 17](/testi/chesterton/atomized/magic/part/part_17)
+- [part 18](/testi/chesterton/atomized/magic/part/part_18)
+- [part 19](/testi/chesterton/atomized/magic/part/part_19)
 
 ## Testo integrale / Full text
 

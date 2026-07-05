@@ -26,6 +26,10 @@ tags:
 > [!abstract] 
 > A martial hymn invoking the Archangel Michael, who threw down the Dragon, to guard the Word against the soft corruptions of a false peace bought with gold and bribes.
 
+## Testo / Text
+
+- [to_st_michael](/testi/chesterton/atomized/to_st_michael/to_st_michael)
+
 ## Connections
 
 **Motifs:** [[Swords and Weapons]], [[Serpent Snake]], [[Money and Gold]]
@@ -33,6 +37,10 @@ tags:
 **Forms & Genres:** [[Hymn]]
 **Historical References:** [[Bible]], [[Christianity]]
 **Characters:** [[Satan]]
+
+## Chapters / scenes / sections
+
+- [part 01](/testi/chesterton/atomized/to_st_michael/part/part_01)
 
 ## Testo integrale / Full text
 

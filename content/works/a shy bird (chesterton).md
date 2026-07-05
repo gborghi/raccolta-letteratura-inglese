@@ -26,6 +26,10 @@ tags:
 > [!abstract] 
 > A paradoxical familiar essay on English national character, arguing that England's poetry and humour (Shakespeare, Dickens, the common man's songs) hide a shy, soft-hearted, anti-pompous spirit behind a cold reputation; themes of national identity, the common man, nostalgia for Merry England, and the artist and society.
 
+## Testo / Text
+
+- [A_Shy_Bird](/testi/chesterton/atomized/a_shy_bird/a_shy_bird)
+
 ## Connections
 
 **Topoi:** [[Golden Age]]
@@ -33,6 +37,13 @@ tags:
 **Themes & Concepts:** [[Paradox]], [[Identity]], [[Nationalism and Patriotism]], [[Common Man]], [[Artist and Society]], [[Nostalgia]]
 **Forms & Genres:** [[Essay]]
 **Settings:** [[Rural England]]
+
+## Chapters / scenes / sections
+
+- [part 01](/testi/chesterton/atomized/a_shy_bird/part/part_01)
+- [part 02](/testi/chesterton/atomized/a_shy_bird/part/part_02)
+- [part 03](/testi/chesterton/atomized/a_shy_bird/part/part_03)
+- [part 04](/testi/chesterton/atomized/a_shy_bird/part/part_04)
 
 ## Testo integrale / Full text
 

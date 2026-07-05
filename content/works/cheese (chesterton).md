@@ -24,6 +24,10 @@ tags:
 > [!abstract] 
 > A whimsical essay using the 'neglect of cheese' in poetry to praise local, varied, living tradition over uniform mechanized modern civilization; defends rootedness and the sacramental joy of common food.
 
+## Testo / Text
+
+- [cheese](/testi/chesterton/atomized/cheese/cheese)
+
 ## Connections
 
 **Topoi:** [[Beatus Ille (Happy the Man Rural Retreat)]]
@@ -31,6 +35,11 @@ tags:
 **Themes & Concepts:** [[Anti-Industrialism]], [[Critique of Progress]], [[Wonder and Gratitude]], [[Nature vs Civilization]]
 **Forms & Genres:** [[Essay]], [[Satire]]
 **Settings:** [[Rural England]]
+
+## Chapters / scenes / sections
+
+- [part 01](/testi/chesterton/atomized/cheese/part/part_01)
+- [part 02](/testi/chesterton/atomized/cheese/part/part_02)
 
 ## Testo integrale / Full text
 

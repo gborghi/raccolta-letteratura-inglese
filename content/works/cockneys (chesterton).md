@@ -26,6 +26,10 @@ tags:
 > [!abstract] 
 > A humorous essay defending London Cockney humour and the comic genius of the city's poor (Chaucer, Dickens, Lamb, Johnson), praising laughter that masks sorrow and the dignity of the common Londoner.
 
+## Testo / Text
+
+- [cockneys](/testi/chesterton/atomized/cockneys/cockneys)
+
 ## Connections
 
 **Archetypes:** [[Fool]]
@@ -33,6 +37,12 @@ tags:
 **Themes & Concepts:** [[Common Man]], [[Joy]], [[Nationalism and Patriotism]], [[Paradox]]
 **Forms & Genres:** [[Essay]]
 **Settings:** [[London]]
+
+## Chapters / scenes / sections
+
+- [part 01](/testi/chesterton/atomized/cockneys/part/part_01)
+- [part 02](/testi/chesterton/atomized/cockneys/part/part_02)
+- [part 03](/testi/chesterton/atomized/cockneys/part/part_03)
 
 ## Testo integrale / Full text
 

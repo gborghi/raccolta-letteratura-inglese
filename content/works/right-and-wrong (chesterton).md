@@ -23,11 +23,19 @@ tags:
 > [!abstract] 
 > A comic drinking-song contrasting honest wine with cowardly cocoa and teetotal 'windy waters'; a satirical celebration of conviviality and the moral seriousness of drink.
 
+## Testo / Text
+
+- [right-and-wrong](/testi/chesterton/atomized/right-and-wrong/right-and-wrong)
+
 ## Connections
 
 **Motifs:** [[Wine and Drink]]
 **Themes & Concepts:** [[Joy]], [[Satire of Society]], [[Honour]], [[Critique of Progress]]
 **Forms & Genres:** [[Comic Verse Song]], [[Satire]]
+
+## Chapters / scenes / sections
+
+- [part 01](/testi/chesterton/atomized/right-and-wrong/part/part_01)
 
 ## Testo integrale / Full text
 

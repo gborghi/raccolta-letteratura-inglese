@@ -26,12 +26,21 @@ tags:
 > [!abstract] 
 > A 1912 essay reading the Titanic disaster as an analogy for modern civilisation and the State: overgrown, complacent, divided by class; meditation on death, courage and corporate conscience.
 
+## Testo / Text
+
+- [titanic](/testi/chesterton/atomized/titanic/titanic)
+
 ## Connections
 
 **Motifs:** [[Ship (2)]], [[Sea]]
 **Themes & Concepts:** [[Critique of Progress]], [[Satire of Society]], [[Class Conflict]], [[Mortality]], [[Heroism]]
 **Forms & Genres:** [[Essay]]
 **Settings:** [[Ship]], [[Sea (2)]]
+
+## Chapters / scenes / sections
+
+- [part 01](/testi/chesterton/atomized/titanic/part/part_01)
+- [part 02](/testi/chesterton/atomized/titanic/part/part_02)
 
 ## Testo integrale / Full text
 

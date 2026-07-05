@@ -24,11 +24,19 @@ tags:
 > [!abstract] 
 > A polemical essay from GK's Weekly attacking modern notions of sex-equality as a flight from motherhood and the family into wage-slavery, satirising progressive 'fraternity' of the sexes. Social criticism defending the home.
 
+## Testo / Text
+
+- [sexlessness](/testi/chesterton/atomized/sexlessness/sexlessness)
+
 ## Connections
 
 **Motifs:** [[Marriage]]
 **Themes & Concepts:** [[Satire of Society]], [[Marriage and Fidelity]], [[Critique of Progress]], [[Identity]], [[Reform]]
 **Forms & Genres:** [[Essay]], [[Satire]]
+
+## Chapters / scenes / sections
+
+- [part 01](/testi/chesterton/atomized/sexlessness/part/part_01)
 
 ## Testo integrale / Full text
 

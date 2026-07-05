@@ -23,10 +23,20 @@ tags:
 > [!abstract] 
 > A critical-biographical essay introducing Jane Austen's juvenile burlesque; argues she was a born comic genius whose irony springs from controlled exuberance and a satire of sentimental fiction.
 
+## Testo / Text
+
+- [intro-love-and-freindship](/testi/chesterton/atomized/intro-love-and-freindship/intro-love-and-freindship)
+
 ## Connections
 
 **Themes & Concepts:** [[Artist and Society]], [[Imagination]], [[Joy]], [[Satire of Society]]
 **Forms & Genres:** [[Literary Criticism]], [[Essay]], [[Satire]]
+
+## Chapters / scenes / sections
+
+- [part 01](/testi/chesterton/atomized/intro-love-and-freindship/part/part_01)
+- [part 02](/testi/chesterton/atomized/intro-love-and-freindship/part/part_02)
+- [part 03](/testi/chesterton/atomized/intro-love-and-freindship/part/part_03)
 
 ## Testo integrale / Full text
 

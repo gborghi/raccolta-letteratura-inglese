@@ -26,12 +26,21 @@ tags:
 > [!abstract] 
 > A playful essay imagining that children's games preceded practical objects, used to celebrate the ritual mystery behind everyday things, the wisdom of the peasantry, and to satirize gloomy modern science (Freud, Wells).
 
+## Testo / Text
+
+- [christmas-games](/testi/chesterton/atomized/christmas-games/christmas-games)
+
 ## Connections
 
 **Topoi:** [[Golden Age]]
 **Motifs:** [[Childhood]], [[Money and Gold]]
 **Themes & Concepts:** [[Imagination]], [[Wonder and Gratitude]], [[Maturation and Growth]], [[Critique of Progress]], [[Distributism]]
 **Forms & Genres:** [[Essay]], [[Satire]]
+
+## Chapters / scenes / sections
+
+- [part 01](/testi/chesterton/atomized/christmas-games/part/part_01)
+- [part 02](/testi/chesterton/atomized/christmas-games/part/part_02)
 
 ## Testo integrale / Full text
 

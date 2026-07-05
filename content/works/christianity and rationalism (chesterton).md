@@ -23,11 +23,22 @@ tags:
 > [!abstract] 
 > An apologetic essay defending Christian faith and reason against the rationalist critique, arguing for the reasonableness of belief and the limits of pure rationalism.
 
+## Testo / Text
+
+- [Christianity and Rationalism](/testi/chesterton/atomized/christianity_and_rationalism/christianity_and_rationalism)
+
 ## Connections
 
 **Themes & Concepts:** [[Faith and Doubt]], [[Faith]], [[Doubt]], [[Truth]], [[Critique of Progress]]
 **Forms & Genres:** [[Essay]], [[Apologetics]]
 **Historical References:** [[Christianity]], [[Catholic Church]]
+
+## Chapters / scenes / sections
+
+- [part 01](/testi/chesterton/atomized/christianity_and_rationalism/part/part_01)
+- [part 02](/testi/chesterton/atomized/christianity_and_rationalism/part/part_02)
+- [part 03](/testi/chesterton/atomized/christianity_and_rationalism/part/part_03)
+- [part 04](/testi/chesterton/atomized/christianity_and_rationalism/part/part_04)
 
 ## Testo integrale / Full text
 

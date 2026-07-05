@@ -23,6 +23,10 @@ tags:
 > [!abstract] 
 > A paradox-driven essay celebrating Lincoln as a 'failure who happened to succeed', a thinker and near-martyr at odds with his success-worshipping admirers.
 
+## Testo / Text
+
+- [On_Abraham_Lincoln](/testi/chesterton/atomized/on_abraham_lincoln/on_abraham_lincoln)
+
 ## Connections
 
 **Archetypes:** [[Martyr Saint]]
@@ -30,6 +34,12 @@ tags:
 **Forms & Genres:** [[Essay]]
 **Historical References:** [[American Civil War]]
 **Characters:** [[Abraham Lincoln]]
+
+## Chapters / scenes / sections
+
+- [part 01](/testi/chesterton/atomized/on_abraham_lincoln/part/part_01)
+- [part 02](/testi/chesterton/atomized/on_abraham_lincoln/part/part_02)
+- [part 03](/testi/chesterton/atomized/on_abraham_lincoln/part/part_03)
 
 ## Testo integrale / Full text
 

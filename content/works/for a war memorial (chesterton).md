@@ -23,6 +23,10 @@ tags:
 > [!abstract] 
 > A short epigrammatic war-memorial inscription; the English dead 'died to prove they were not dead', set against the decay of usury and the fall of empires like Carthage. A meditation on heroism, sacrifice and immortality through memory.
 
+## Testo / Text
+
+- [For_a_War_Memorial](/testi/chesterton/atomized/for_a_war_memorial/for_a_war_memorial)
+
 ## Connections
 
 **Topoi:** [[Sic Transit Gloria Mundi]]
@@ -30,6 +34,10 @@ tags:
 **Themes & Concepts:** [[Heroism]], [[War and its Cost]], [[Immortality]], [[Nationalism and Patriotism]]
 **Forms & Genres:** [[Epigram]]
 **Historical References:** [[Ancient Rome]]
+
+## Chapters / scenes / sections
+
+- [part 01](/testi/chesterton/atomized/for_a_war_memorial/part/part_01)
 
 ## Testo integrale / Full text
 

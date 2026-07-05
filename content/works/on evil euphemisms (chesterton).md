@@ -20,10 +20,19 @@ tags:
 > [!abstract] 
 > A satirical essay attacking the modern habit of disguising vices ('Companionate Marriage', 'Free Love', 'Birth-Control') under flattering euphemisms; truth, deception, and the falsity of the age.
 
+## Testo / Text
+
+- [on_evil_euphemisms](/testi/chesterton/atomized/on_evil_euphemisms/on_evil_euphemisms)
+
 ## Connections
 
 **Themes & Concepts:** [[Deception]], [[Truth]], [[Satire of Society]], [[Marriage and Fidelity]]
 **Forms & Genres:** [[Essay]], [[Satire]]
+
+## Chapters / scenes / sections
+
+- [part 01](/testi/chesterton/atomized/on_evil_euphemisms/part/part_01)
+- [part 02](/testi/chesterton/atomized/on_evil_euphemisms/part/part_02)
 
 ## Testo integrale / Full text
 

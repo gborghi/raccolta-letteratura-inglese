@@ -23,11 +23,19 @@ tags:
 > [!abstract] 
 > A lyric poem spoken by an unborn child longing to enter the world; its central themes are wonder and gratitude for existence, innocence before experience, and the magic of ordinary life seen as fairyland.
 
+## Testo / Text
+
+- [unborn](/testi/chesterton/atomized/unborn/unborn)
+
 ## Connections
 
 **Motifs:** [[Dreams]], [[Night]], [[Light and Dark]]
 **Themes & Concepts:** [[Wonder and Gratitude]], [[Innocence and Experience]], [[Maturation and Growth]]
 **Forms & Genres:** [[Lyric]]
+
+## Chapters / scenes / sections
+
+- [part 01](/testi/chesterton/atomized/unborn/part/part_01)
 
 ## Testo integrale / Full text
 

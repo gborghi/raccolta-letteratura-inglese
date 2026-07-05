@@ -23,11 +23,19 @@ tags:
 > [!abstract] 
 > An essay arguing that the finite, the concrete 'place', is what truly suggests infinity; a meditation on words, poetry, religion and the concentration of the spiritual into the real.
 
+## Testo / Text
+
+- [strange-city](/testi/chesterton/atomized/strange-city/strange-city)
+
 ## Connections
 
 **Motifs:** [[City]]
 **Themes & Concepts:** [[Truth]], [[Imagination]], [[Faith]], [[Paradox]], [[Wonder and Gratitude]]
 **Forms & Genres:** [[Essay]]
+
+## Chapters / scenes / sections
+
+- [part 01](/testi/chesterton/atomized/strange-city/part/part_01)
 
 ## Testo integrale / Full text
 

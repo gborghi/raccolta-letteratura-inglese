@@ -22,11 +22,20 @@ tags:
 > [!abstract] 
 > A witty essay defending medieval scholastic logic against modern muddled journalism, arguing that thought means disentangling means from ends ('Tennis was made for Man, not Man for Tennis').
 
+## Testo / Text
+
+- [logic](/testi/chesterton/atomized/logic/logic)
+
 ## Connections
 
 **Themes & Concepts:** [[Satire of Society]], [[Critique of Progress]], [[Truth]], [[Paradox]]
 **Forms & Genres:** [[Essay]]
 **Historical References:** [[Christianity]]
+
+## Chapters / scenes / sections
+
+- [part 01](/testi/chesterton/atomized/logic/part/part_01)
+- [part 02](/testi/chesterton/atomized/logic/part/part_02)
 
 ## Testo integrale / Full text
 

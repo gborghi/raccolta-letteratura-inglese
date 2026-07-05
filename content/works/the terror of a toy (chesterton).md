@@ -24,11 +24,20 @@ tags:
 > [!abstract] 
 > A satirical essay mocking the fad of banning toy bows and cannons, arguing that danger lies in the child not the implement and that the toy sword is 'the soul of the sword that will never be stained with blood'. Themes: satire of progressive faddism, common sense, and the poetry of arms and heroism.
 
+## Testo / Text
+
+- [The_Terror_of_a_Toy](/testi/chesterton/atomized/the_terror_of_a_toy/the_terror_of_a_toy)
+
 ## Connections
 
 **Motifs:** [[Swords and Weapons]], [[Childhood]]
 **Themes & Concepts:** [[Satire of Society]], [[Critique of Progress]], [[Maturation and Growth]], [[Heroism]], [[Paradox]], [[Innocence and Experience]]
 **Forms & Genres:** [[Essay]], [[Satire]]
+
+## Chapters / scenes / sections
+
+- [part 01](/testi/chesterton/atomized/the_terror_of_a_toy/part/part_01)
+- [part 02](/testi/chesterton/atomized/the_terror_of_a_toy/part/part_02)
 
 ## Testo integrale / Full text
 

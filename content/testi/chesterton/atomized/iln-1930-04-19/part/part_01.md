@@ -1,0 +1,103 @@
+---
+title: "ILN-1930-04-19 (part 1)"
+author: "Chesterton"
+unitType: excerpt
+parentWork: "works/iln-1930-04-19-(chesterton)"
+tags:
+  - graph/excerpt
+  - author/Chesterton
+---
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/iln-1930-04-19-(chesterton)">ILN-1930-04-19</a></div>
+<div class="excerpt-pn"><span></span><a class="ex-next" href="/testi/chesterton/atomized/iln-1930-04-19/part/part_02">part 02 ›</a></div>
+</nav>
+
+
+Illustrated [[London]] News, April 19, 1930
+
+As it seems to be generally understood that
+nine-thousand-nine-hundred-and-fifty-seven novels,
+twelve-thousand-five-hundred-and-eighty-three plays, and several
+million reminiscences in prose, verse, and [[Free Verse|free verse]], are shortly
+to appear on the virgin and untouched topic of the Great War,
+it will perhaps be [[Well|well]] to be prepared with some general principles
+for the criticism of the problem, as [[Well|well]] as for the criticism
+of the particular solutions of it.  Should any books or plays
+appear during the next few years on any other topic except
+that of the Great War, such daring departures and exceptional
+experiments will of themselves be sufficiently conspicuous.
+But we need something like a general rule of reading to correct
+the general tendency of writing; and I will venture to offer some
+suggestions for it here.
+
+When the old popular complaint was made against the [[Novel]] with a Purpose,
+it was almost always based on the idea that the purpose would hurt
+the [[Novel|novel]].  It was not sufficiently realised that the [[Novel|novel]] can also hurt
+the purpose.  When jolly old playgoers protested against the [[Problem Play]],
+it was always on the ground that the play was spoiled by the problem.
+It was not enough emphasised that the problem can be spoiled by the play.
+There is a very good case for those who really are concerned about
+purposes and problems, and who find that they are very falsely and
+crookedly presented in dramas and stories.  There is always a moral
+idea of some sort inhering in any great play or [[Romance|romance]], because man
+is a moral being in his inmost and not merely in his external existence.
+But a play or a story is often an exceedingly bad way of presenting
+any practical moral problem that requires a practical solution.
+The writer either exhibits a sham fight of dialogue, taking care
+that the Whig [[dogs]] shall not have the best of it; or else he is almost
+forced to leave the moral of his story much more obscure and doubtful
+than a clear call to public duty or social justice ought to be.
+If we have really come to hold a strong moral conviction, we want
+to shout it much more loudly than is artistic in any work of art.
+Since the world has discarded Rhetoric as something false,
+it has lost the only natural expression of anything that is true.
+We want more of the orator, and even more of the demagogue; but not
+the demagogue masked and muffled by the disguise of a dramatist.
+
+I would suggest, therefore, that, when hundreds of suggestions and
+half-suggestions are thus made to us on the subject of war, peace,
+and patriotism, we should keep certain maxims in mind as a corrective
+to mere suggestion:  which, by itself, is as undignified as [[Mesmerism|mesmerism]].
+In these things we want to have reasons that can be stated as reasons,
+and not as catchwords or phrases or fragments of dialogue.
+We want to beware of certain fallacies that could not be
+maintained in argument but can easily be implied in art.
+Here are a few of these fallacies, which do not cease to be fallacies
+because they become fashions.
+
+First, if we really [[Desire|desire]] peace or any other good thing,
+let us make a pious resolution that we will not talk nonsense.
+In other words, let us agree that we will not use newspaper
+mottoes like "War Is Unthinkable.  " Slogans of that sort are
+invented because they are nonsense.  A man gets up and says
+that war is unthinkable at the very moment when everybody is
+thinking about war, and because everybody is thinking about war.
+They are, as we have already noted, writing, preaching, scribbling,
+and screaming about war, and almost about nothing else.
+Let us say that war is unbearable, or that war is unjustifiable,
+or that war is invariably indefensible, if we think so.  But to say
+that it is unthinkable is to say that we refuse to think.@ Second,
+do not let us be satisfied <solely> with the sort of argument
+that can be made very vivid, not to say horrid, in fiction:
+the sort of argument that says, "If only you knew what war is
+really like!"  If we were logically limited to that argument,
+it would be easy to apply it to all sorts of things.
+You could make large numbers of refined maiden aunts living in Bath
+and Cheltenham feel very ill with a realistic [[Novel|novel]] having the motto,
+"If you only knew what surgery is like!"  You could send shudders
+all over Upper and Lower Tooting with a detailed and documentary [[Novel|novel]]
+headed "If You Only Knew What Scavenging Is Like!"  If there are any
+people silly enough to suppose that all wounds on the [[Battlefield|battlefield]]
+are elegant and picturesque, they may be capable of supposing
+that all wounds in a hospital are elegant and picturesque.
+There may have been soldiers who mistakenly entered the army on
+the former assumption; there have probably been nurses who mistakenly
+entered the hospital on the latter.  But that does not prove
+by itself that nobody has a noble vocation of nursing; nor does it
+prove by itself that nobody has a noble vocation of soldiering.
+Whether war attains its object, whether it is a legitimate object,
+whether war is a legitimate means - all those are different questions,
+lying beyond this particular question.  But if armed conflict can
+be as useful or necessary as amputation, it is no answer to say
+that it is as ugly as amputation.

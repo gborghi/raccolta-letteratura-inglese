@@ -28,12 +28,21 @@ tags:
 > [!abstract] 
 > Autobiographical essay recounting a terrifying art-school conversation with a devil-worshipper, dramatising the moment Chesterton became orthodox and the abyss between good and evil.
 
+## Testo / Text
+
+- [diabolist](/testi/chesterton/atomized/diabolist/diabolist)
+
 ## Connections
 
 **Archetypes:** [[Satanic Figure]]
 **Motifs:** [[Fire]], [[Light and Dark]]
 **Themes & Concepts:** [[Good vs Evil]], [[Temptation]], [[Conscience]], [[Conversion]], [[Faith and Doubt]], [[Sin and the Fall]], [[Terror and Horror]]
 **Forms & Genres:** [[Essay]], [[Fictional Autobiography]]
+
+## Chapters / scenes / sections
+
+- [part 01](/testi/chesterton/atomized/diabolist/part/part_01)
+- [part 02](/testi/chesterton/atomized/diabolist/part/part_02)
 
 ## Testo integrale / Full text
 

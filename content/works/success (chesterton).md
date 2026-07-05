@@ -24,12 +24,22 @@ tags:
 > [!abstract] 
 > A satirical essay attacking the modern cult of 'Success' as the mysticism of money and avarice; social criticism rooted in the Midas myth.
 
+## Testo / Text
+
+- [success](/testi/chesterton/atomized/success/success)
+
 ## Connections
 
 **Motifs:** [[Money and Gold]]
 **Themes & Concepts:** [[Satire of Society]], [[Money and Avarice]], [[Pride]], [[Critique of Progress]]
 **Forms & Genres:** [[Essay]], [[Satire]]
 **Historical References:** [[Classical Antiquity]]
+
+## Chapters / scenes / sections
+
+- [part 01](/testi/chesterton/atomized/success/part/part_01)
+- [part 02](/testi/chesterton/atomized/success/part/part_02)
+- [part 03](/testi/chesterton/atomized/success/part/part_03)
 
 ## Testo integrale / Full text
 

@@ -21,11 +21,21 @@ tags:
 > [!abstract] 
 > Essay on the Scopes 'Monkey Trial' arguing that compulsory secular education is a new act of conformity that lets professors preach materialist creeds; defends the Tennessee Fundamentalists on grounds of justice.
 
+## Testo / Text
+
+- [Compulsory_Education](/testi/chesterton/atomized/compulsory_education/compulsory_education)
+
 ## Connections
 
 **Themes & Concepts:** [[Education]], [[Faith and Doubt]], [[Critique of Progress]], [[Justice Right and Wrong]], [[Faith]]
 **Forms & Genres:** [[Essay]]
 **Historical References:** [[Christianity]]
+
+## Chapters / scenes / sections
+
+- [part 01](/testi/chesterton/atomized/compulsory_education/part/part_01)
+- [part 02](/testi/chesterton/atomized/compulsory_education/part/part_02)
+- [part 03](/testi/chesterton/atomized/compulsory_education/part/part_03)
 
 ## Testo integrale / Full text
 

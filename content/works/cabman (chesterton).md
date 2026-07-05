@@ -23,11 +23,20 @@ tags:
 > [!abstract] 
 > A 'tremendous trifle' essay-parable in which an honest but mistaken cabman becomes the occasion for reflecting on certainty, scepticism and the defence of common-sense reality against philosophical doubt.
 
+## Testo / Text
+
+- [cabman](/testi/chesterton/atomized/cabman/cabman)
+
 ## Connections
 
 **Themes & Concepts:** [[Doubt]], [[Truth]], [[Appearance vs Reality]], [[Common Man]], [[Temptation]]
 **Forms & Genres:** [[Essay]]
 **Settings:** [[London]]
+
+## Chapters / scenes / sections
+
+- [part 01](/testi/chesterton/atomized/cabman/part/part_01)
+- [part 02](/testi/chesterton/atomized/cabman/part/part_02)
 
 ## Testo integrale / Full text
 

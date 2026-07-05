@@ -21,11 +21,19 @@ tags:
 > [!abstract] 
 > A sonnet on love, in which the speaker swears to smite even prophet or angel who fails to revere a woman's love as sacred. Themes of romantic love as religion and reverence.
 
+## Testo / Text
+
+- [sin](/testi/chesterton/atomized/sin/sin)
+
 ## Connections
 
 **Topoi:** [[Love as Religion]]
 **Themes & Concepts:** [[Romantic Love]], [[Sin and the Fall]], [[Faith]]
 **Forms & Genres:** [[Sonnet]]
+
+## Chapters / scenes / sections
+
+- [part 01](/testi/chesterton/atomized/sin/part/part_01)
 
 ## Testo integrale / Full text
 

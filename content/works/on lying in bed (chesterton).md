@@ -20,10 +20,19 @@ tags:
 > [!abstract] 
 > A whimsical essay defending idle lying in bed, attacking the modern strengthening of minor morals at the expense of major ones; paradox, humility, and the heroic virtues.
 
+## Testo / Text
+
+- [On_Lying_In_Bed](/testi/chesterton/atomized/on_lying_in_bed/on_lying_in_bed)
+
 ## Connections
 
 **Themes & Concepts:** [[Paradox]], [[Satire of Society]], [[Heroism]], [[Imagination]], [[Critique of Progress]]
 **Forms & Genres:** [[Essay]]
+
+## Chapters / scenes / sections
+
+- [part 01](/testi/chesterton/atomized/on_lying_in_bed/part/part_01)
+- [part 02](/testi/chesterton/atomized/on_lying_in_bed/part/part_02)
 
 ## Testo integrale / Full text
 

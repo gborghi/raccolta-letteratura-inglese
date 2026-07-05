@@ -22,12 +22,20 @@ tags:
 > [!abstract] 
 > A love lyric in which the beloved is an unplayed harp of hidden music; themes of unfulfilled love, hope, mortality and the soul's secret promise.
 
+## Testo / Text
+
+- [strange-music](/testi/chesterton/atomized/strange-music/strange-music)
+
 ## Connections
 
 **Archetypes:** [[Lover]]
 **Motifs:** [[Music and Song]]
 **Themes & Concepts:** [[Romantic Love]], [[Unrequited Frustrated Love]], [[Mortality]]
 **Forms & Genres:** [[Lyric]]
+
+## Chapters / scenes / sections
+
+- [part 01](/testi/chesterton/atomized/strange-music/part/part_01)
 
 ## Testo integrale / Full text
 

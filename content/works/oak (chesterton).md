@@ -23,11 +23,19 @@ tags:
 > [!abstract] 
 > A ballad-song contrasting the enduring sacred oak with the parasitic Lord Ivywood who rots the tree; an anti-industrial, distributist allegory of rootedness vs. destructive modernity.
 
+## Testo / Text
+
+- [oak](/testi/chesterton/atomized/oak/oak)
+
 ## Connections
 
 **Motifs:** [[Nature]], [[Blood]]
 **Themes & Concepts:** [[Anti-Industrialism]], [[Distributism]], [[Critique of Progress]]
 **Forms & Genres:** [[Ballad Ballade]], [[Allegory]]
+
+## Chapters / scenes / sections
+
+- [part 01](/testi/chesterton/atomized/oak/part/part_01)
 
 ## Testo integrale / Full text
 

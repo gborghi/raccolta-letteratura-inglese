@@ -25,12 +25,20 @@ tags:
 > [!abstract] 
 > A lyric of gratitude and wonder affirming that to have lived, loved, and seen beauty 'is something' even amid loss; celebrates desire, the mystic rose, and gratitude against a sceptical, jaded age.
 
+## Testo / Text
+
+- [great-minimum](/testi/chesterton/atomized/great-minimum/great-minimum)
+
 ## Connections
 
 **Topoi:** [[Carpe Diem]]
 **Motifs:** [[Rose]], [[Flowers]], [[Stars]]
 **Themes & Concepts:** [[Wonder and Gratitude]], [[Joy]], [[Romantic Love]], [[Faith and Doubt]]
 **Forms & Genres:** [[Lyric]]
+
+## Chapters / scenes / sections
+
+- [part 01](/testi/chesterton/atomized/great-minimum/part/part_01)
 
 ## Testo integrale / Full text
 

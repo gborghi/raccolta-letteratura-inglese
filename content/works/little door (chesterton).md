@@ -23,6 +23,10 @@ tags:
 > [!abstract] 
 > A Nativity hymn (by Frances Chesterton) on the gifts of the Magi, reading gold, incense and myrrh as the sword, battle and honoured death awaiting the sleeping Christ-child.
 
+## Testo / Text
+
+- [Little_Door](/testi/chesterton/atomized/little_door/little_door)
+
 ## Connections
 
 **Archetypes:** [[Christ Figure]]
@@ -31,6 +35,10 @@ tags:
 **Forms & Genres:** [[Hymn]], [[Lyric]]
 **Historical References:** [[Bible]]
 **Characters:** [[Christ]]
+
+## Chapters / scenes / sections
+
+- [part 01](/testi/chesterton/atomized/little_door/part/part_01)
 
 ## Testo integrale / Full text
 

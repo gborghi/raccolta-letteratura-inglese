@@ -20,11 +20,20 @@ tags:
 > [!abstract] 
 > An essay arguing that science is now doubting itself, that Darwinism is logically inconsistent, and that what remains is an unfathomable mystery he believes divine; faith, doubt, and the limits of reason.
 
+## Testo / Text
+
+- [On_Darwinism_and_Mystery](/testi/chesterton/atomized/on_darwinism_and_mystery/on_darwinism_and_mystery)
+
 ## Connections
 
 **Themes & Concepts:** [[Faith and Doubt]], [[Doubt]], [[Critique of Progress]], [[Sublime]]
 **Forms & Genres:** [[Essay]]
 **Historical References:** [[Christianity]]
+
+## Chapters / scenes / sections
+
+- [part 01](/testi/chesterton/atomized/on_darwinism_and_mystery/part/part_01)
+- [part 02](/testi/chesterton/atomized/on_darwinism_and_mystery/part/part_02)
 
 ## Testo integrale / Full text
 

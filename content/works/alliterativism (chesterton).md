@@ -23,11 +23,19 @@ tags:
 > [!abstract] 
 > A 1914 comic light-verse squib mocking, through relentless alliteration, the wartime newspaper rhetoric about 'violating Belgian neutrality'. A satirical patriotic parody touching on the First World War.
 
+## Testo / Text
+
+- [alliterativism](/testi/chesterton/atomized/alliterativism/alliterativism)
+
 ## Connections
 
 **Themes & Concepts:** [[Satire of Society]], [[War and its Cost]], [[Nationalism and Patriotism]]
 **Forms & Genres:** [[Satire]], [[Parody]], [[Comic Verse Song]]
 **Historical References:** [[First World War]]
+
+## Chapters / scenes / sections
+
+- [part 01](/testi/chesterton/atomized/alliterativism/part/part_01)
 
 ## Testo integrale / Full text
 

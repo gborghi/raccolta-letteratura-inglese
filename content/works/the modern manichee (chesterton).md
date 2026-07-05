@@ -26,12 +26,20 @@ tags:
 > [!abstract] 
 > A dense lyric portraying the modern man who denies sin and so turns the whole green world merciless and obscene; an attack on a pessimistic, life-hating heresy. Themes: sin and the fall, the denial of guilt, and a corrupted vision of nature.
 
+## Testo / Text
+
+- [The_Modern_Manichee](/testi/chesterton/atomized/the_modern_manichee/the_modern_manichee)
+
 ## Connections
 
 **Motifs:** [[Garden]], [[Serpent Snake]], [[Blood]], [[Nature]]
 **Themes & Concepts:** [[Sin and the Fall]], [[Original Sin]], [[Guilt]], [[Good vs Evil]], [[Nature vs Civilization]], [[Melancholy]]
 **Forms & Genres:** [[Lyric]]
 **Historical References:** [[Bible]]
+
+## Chapters / scenes / sections
+
+- [part 01](/testi/chesterton/atomized/the_modern_manichee/part/part_01)
 
 ## Testo integrale / Full text
 

@@ -20,11 +20,19 @@ tags:
 > [!abstract] 
 > A four-line satirical epigram mocking modern 'broad-minded' sensibility at the expense of St Francis's holy charity.
 
+## Testo / Text
+
+- [Broad_Minded_Bishop](/testi/chesterton/atomized/broad_minded_bishop/broad_minded_bishop)
+
 ## Connections
 
 **Themes & Concepts:** [[Satire of Society]], [[Critique of Progress]], [[Humility]]
 **Forms & Genres:** [[Epigram]], [[Satire]]
 **Historical References:** [[Christianity]]
+
+## Chapters / scenes / sections
+
+- [part 01](/testi/chesterton/atomized/broad_minded_bishop/part/part_01)
 
 ## Testo integrale / Full text
 

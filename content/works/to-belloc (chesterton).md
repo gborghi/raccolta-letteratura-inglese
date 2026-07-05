@@ -24,12 +24,20 @@ tags:
 > [!abstract] 
 > A dedicatory lyric to Belloc (preface to The Napoleon of Notting Hill), dreaming an epic hour of revolution and battle where streets of earth meet the starry streets that point to God.
 
+## Testo / Text
+
+- [to-belloc](/testi/chesterton/atomized/to-belloc/to-belloc)
+
 ## Connections
 
 **Motifs:** [[Stars]], [[Road]], [[Moon]]
 **Themes & Concepts:** [[Heroism]], [[War and its Cost]], [[Faith]]
 **Forms & Genres:** [[Lyric]]
 **Historical References:** [[Napoleonic Wars the Navy]]
+
+## Chapters / scenes / sections
+
+- [part 01](/testi/chesterton/atomized/to-belloc/part/part_01)
 
 ## Testo integrale / Full text
 

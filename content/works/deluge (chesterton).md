@@ -25,12 +25,20 @@ tags:
 > [!abstract] 
 > Ballad-like lyric of a lone tattered man standing up amid the biblical flood to drink defiantly to God — gratitude, defiance and faith against cosmic catastrophe.
 
+## Testo / Text
+
+- [deluge](/testi/chesterton/atomized/deluge/deluge)
+
 ## Connections
 
 **Motifs:** [[Storm]], [[Water]], [[Wine and Drink]]
 **Themes & Concepts:** [[Faith]], [[Wonder and Gratitude]], [[Humility]]
 **Forms & Genres:** [[Lyric]], [[Ballad Ballade]]
 **Historical References:** [[Bible]]
+
+## Chapters / scenes / sections
+
+- [part 01](/testi/chesterton/atomized/deluge/part/part_01)
 
 ## Testo integrale / Full text
 

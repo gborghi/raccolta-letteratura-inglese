@@ -22,10 +22,18 @@ tags:
 > [!abstract] 
 > A satirical essay coining 'Methuselahite' for the modern worship of mere long life; argues the paradox of courage means one must be careless of life to keep it, mocking modern pseudo-religions of self-preservation.
 
+## Testo / Text
+
+- [methuselahite](/testi/chesterton/atomized/methuselahite/methuselahite)
+
 ## Connections
 
 **Themes & Concepts:** [[Paradox]], [[Courage]], [[Mortality]], [[Critique of Progress]]
 **Forms & Genres:** [[Essay]], [[Satire]]
+
+## Chapters / scenes / sections
+
+- [part 01](/testi/chesterton/atomized/methuselahite/part/part_01)
 
 ## Testo integrale / Full text
 

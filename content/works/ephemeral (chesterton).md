@@ -23,10 +23,19 @@ tags:
 > [!abstract] 
 > Preface to All Things Considered defending hasty journalism, attacking 'modernism' as snobbery and philanthropy as covert religious persecution.
 
+## Testo / Text
+
+- [ephemeral](/testi/chesterton/atomized/ephemeral/ephemeral)
+
 ## Connections
 
 **Themes & Concepts:** [[Critique of Progress]], [[Artist and Society]], [[Satire of Society]], [[Transience]], [[Faith]], [[Common Man]]
 **Forms & Genres:** [[Essay]]
+
+## Chapters / scenes / sections
+
+- [part 01](/testi/chesterton/atomized/ephemeral/part/part_01)
+- [part 02](/testi/chesterton/atomized/ephemeral/part/part_02)
 
 ## Testo integrale / Full text
 

@@ -30,6 +30,10 @@ tags:
 > [!abstract] 
 > A surging narrative ballad of the 1571 sea-battle of Lepanto, casting Don John of Austria as the last crusading knight of Christendom who frees Christian galley-slaves from the Turk.
 
+## Testo / Text
+
+- [lepanto](/testi/chesterton/atomized/lepanto/lepanto)
+
 ## Connections
 
 **Topoi:** [[Last Stand]], [[War as Glory]]
@@ -40,6 +44,11 @@ tags:
 **Historical References:** [[Battle of Lepanto]], [[Crusades]], [[Christianity]]
 **Settings:** [[Sea (2)]]
 **Characters:** [[Don John of Austria]], [[Don Quixote]]
+
+## Chapters / scenes / sections
+
+- [part 01](/testi/chesterton/atomized/lepanto/part/part_01)
+- [part 02](/testi/chesterton/atomized/lepanto/part/part_02)
 
 ## Testo integrale / Full text
 

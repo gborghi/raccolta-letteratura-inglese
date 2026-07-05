@@ -27,6 +27,10 @@ tags:
 > [!abstract] 
 > A sonnet of submission in suffering, thanking God that one's wrath cannot harm the world, ending on Christ on the Cross hearing the crickets and being glad; faith, suffering and gratitude.
 
+## Testo / Text
+
+- [prayer](/testi/chesterton/atomized/prayer/prayer)
+
 ## Connections
 
 **Motifs:** [[Cross]], [[Light and Dark]], [[Nature]]
@@ -34,6 +38,10 @@ tags:
 **Forms & Genres:** [[Sonnet]]
 **Historical References:** [[Christianity]]
 **Characters:** [[Christ]]
+
+## Chapters / scenes / sections
+
+- [part 01](/testi/chesterton/atomized/prayer/part/part_01)
 
 ## Testo integrale / Full text
 

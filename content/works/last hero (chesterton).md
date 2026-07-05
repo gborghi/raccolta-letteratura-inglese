@@ -28,6 +28,10 @@ tags:
 > [!abstract] 
 > A heroic ballad in which a doomed warrior, robbed of bride and home, exults in storm, battle and death, loving the rain, his foes and his own annihilation as the last hero who dies the death of God.
 
+## Testo / Text
+
+- [last_hero](/testi/chesterton/atomized/last_hero/last_hero)
+
 ## Connections
 
 **Topoi:** [[Last Stand]]
@@ -35,6 +39,10 @@ tags:
 **Motifs:** [[Storm]], [[Wind]], [[Blood]], [[Swords and Weapons]]
 **Themes & Concepts:** [[Heroism]], [[Mortality]], [[Joy]], [[Romantic Love]]
 **Forms & Genres:** [[Ballad Ballade]], [[Narrative Poem]]
+
+## Chapters / scenes / sections
+
+- [part 01](/testi/chesterton/atomized/last_hero/part/part_01)
 
 ## Testo integrale / Full text
 

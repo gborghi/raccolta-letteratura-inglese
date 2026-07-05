@@ -22,11 +22,21 @@ tags:
 > [!abstract] 
 > A polemical essay tracing Birth Control to Malthus's reactionary answer to Godwin, arguing it is a capitalist device to lower wages and oppress the poor, opposed to genuine social reform and the family wage.
 
+## Testo / Text
+
+- [Social_Reform_BC](/testi/chesterton/atomized/social_reform_bc/social_reform_bc)
+
 ## Connections
 
 **Motifs:** [[Marriage]]
 **Themes & Concepts:** [[Social Injustice]], [[Class Conflict]], [[Poverty]], [[Reform]], [[Power and Corruption]], [[Distributism]]
 **Forms & Genres:** [[Essay]]
+
+## Chapters / scenes / sections
+
+- [part 01](/testi/chesterton/atomized/social_reform_bc/part/part_01)
+- [part 02](/testi/chesterton/atomized/social_reform_bc/part/part_02)
+- [part 03](/testi/chesterton/atomized/social_reform_bc/part/part_03)
 
 ## Testo integrale / Full text
 

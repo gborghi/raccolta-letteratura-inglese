@@ -28,6 +28,10 @@ tags:
 > [!abstract] 
 > A ballad-like lyric in which the Devil is figured as a charming gentleman whose golden house breeds endless ennui and damnation; a satirical-theological warning about pleasure, pride and the emptiness of worldly luxury.
 
+## Testo / Text
+
+- [aristocrat](/testi/chesterton/atomized/aristocrat/aristocrat)
+
 ## Connections
 
 **Topoi:** [[Paradise Lost]]
@@ -36,6 +40,10 @@ tags:
 **Themes & Concepts:** [[Temptation]], [[Good vs Evil]], [[Pride]], [[Disillusionment]], [[Appearance vs Reality]]
 **Forms & Genres:** [[Ballad Ballade]], [[Lyric]]
 **Characters:** [[Satan]]
+
+## Chapters / scenes / sections
+
+- [part 01](/testi/chesterton/atomized/aristocrat/part/part_01)
 
 ## Testo integrale / Full text
 

@@ -23,11 +23,19 @@ tags:
 > [!abstract] 
 > A devotional lyric praying to be sundered from body, blood and soul so as to marvel at oneself as a stranger; wonder, self-and-soul, grace.
 
+## Testo / Text
+
+- [suprise](/testi/chesterton/atomized/suprise/suprise)
+
 ## Connections
 
 **Motifs:** [[Swords and Weapons]], [[Blood]], [[Eyes and Sight]]
 **Themes & Concepts:** [[Self-Knowledge]], [[Wonder and Gratitude]], [[Grace and Redemption]]
 **Forms & Genres:** [[Lyric]]
+
+## Chapters / scenes / sections
+
+- [part 01](/testi/chesterton/atomized/suprise/part/part_01)
 
 ## Testo integrale / Full text
 

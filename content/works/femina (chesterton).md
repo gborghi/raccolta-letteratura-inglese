@@ -25,11 +25,19 @@ tags:
 > [!abstract] 
 > A short lyric of apocalyptic imagery (black sun, blood moon, thunder) in which a man's stubborn gratitude for the green grass and the love of birds wins a divine commendation; a poem of wonder, faith and gratitude for creation.
 
+## Testo / Text
+
+- [femina](/testi/chesterton/atomized/femina/femina)
+
 ## Connections
 
 **Motifs:** [[Light and Dark]], [[Sun]], [[Moon]], [[Birds]], [[Storm]]
 **Themes & Concepts:** [[Wonder and Gratitude]], [[Faith]], [[Humility]]
 **Forms & Genres:** [[Lyric]]
+
+## Chapters / scenes / sections
+
+- [part 01](/testi/chesterton/atomized/femina/part/part_01)
 
 ## Testo integrale / Full text
 

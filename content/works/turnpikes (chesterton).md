@@ -25,12 +25,21 @@ tags:
 > [!abstract] 
 > A 1933 familiar essay defending the maligned 'medieval' against the cult of modernity, using a turnpike-toll to expose the worship of speed and progress; paradoxical social criticism.
 
+## Testo / Text
+
+- [turnpikes](/testi/chesterton/atomized/turnpikes/turnpikes)
+
 ## Connections
 
 **Motifs:** [[Road]]
 **Themes & Concepts:** [[Critique of Progress]], [[Anti-Industrialism]], [[Paradox]], [[Satire of Society]], [[Justice Right and Wrong]]
 **Forms & Genres:** [[Essay]], [[Satire]]
 **Historical References:** [[Medieval England]]
+
+## Chapters / scenes / sections
+
+- [part 01](/testi/chesterton/atomized/turnpikes/part/part_01)
+- [part 02](/testi/chesterton/atomized/turnpikes/part/part_02)
 
 ## Testo integrale / Full text
 

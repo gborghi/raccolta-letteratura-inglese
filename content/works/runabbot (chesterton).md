@@ -24,6 +24,10 @@ tags:
 > [!abstract] 
 > A biographical narrative of the young Thomas Aquinas refusing rank to become a humble Friar, kidnapped by his noble brothers and resisting temptation. Themes of vocation, humility, and the medieval clash of pride and sanctity.
 
+## Testo / Text
+
+- [runabbot](/testi/chesterton/atomized/runabbot/runabbot)
+
 ## Connections
 
 **Motifs:** [[Fire]], [[Cross]]
@@ -31,6 +35,12 @@ tags:
 **Forms & Genres:** [[Biography]]
 **Historical References:** [[Catholic Church]]
 **Settings:** [[Medieval England (2)]]
+
+## Chapters / scenes / sections
+
+- [part 01](/testi/chesterton/atomized/runabbot/part/part_01)
+- [part 02](/testi/chesterton/atomized/runabbot/part/part_02)
+- [part 03](/testi/chesterton/atomized/runabbot/part/part_03)
 
 ## Testo integrale / Full text
 

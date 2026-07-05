@@ -23,11 +23,20 @@ tags:
 > [!abstract] 
 > A 1911 essay distinguishing fruitful, life-giving paradox (Lear, Carroll) from barren, thought-killing epigram (Shaw, Nietzsche imitators); a meditation on nonsense, art and truth.
 
+## Testo / Text
+
+- [Two_Kinds_of_Paradox](/testi/chesterton/atomized/two_kinds_of_paradox/two_kinds_of_paradox)
+
 ## Connections
 
 **Topoi:** [[World Upside Down]]
 **Themes & Concepts:** [[Paradox]], [[Imagination]], [[Truth]], [[Artist and Society]], [[Satire of Society]]
 **Forms & Genres:** [[Essay]], [[Literary Criticism]], [[Aphorism]]
+
+## Chapters / scenes / sections
+
+- [part 01](/testi/chesterton/atomized/two_kinds_of_paradox/part/part_01)
+- [part 02](/testi/chesterton/atomized/two_kinds_of_paradox/part/part_02)
 
 ## Testo integrale / Full text
 

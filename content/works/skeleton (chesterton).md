@@ -24,6 +24,10 @@ tags:
 > [!abstract] 
 > A short lyric in which Death laughs among the flowers, revealing death as 'the good King's jest' hidden carefully by God. A joyful, paradoxical meditation on mortality.
 
+## Testo / Text
+
+- [skeleton](/testi/chesterton/atomized/skeleton/skeleton)
+
 ## Connections
 
 **Topoi:** [[Memento Mori]]
@@ -31,6 +35,10 @@ tags:
 **Themes & Concepts:** [[Mortality]], [[Joy]], [[Paradox]]
 **Forms & Genres:** [[Lyric]], [[Epigram]]
 **Characters:** [[Death Personified]]
+
+## Chapters / scenes / sections
+
+- [part 01](/testi/chesterton/atomized/skeleton/part/part_01)
 
 ## Testo integrale / Full text
 

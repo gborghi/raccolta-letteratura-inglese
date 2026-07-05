@@ -25,6 +25,10 @@ tags:
 > [!abstract] 
 > A sonnet mocking the over-skeptical scholar who would explain away King Arthur; it defends legend and the imaginative truth of the Arthurian tradition against reductive rationalism.
 
+## Testo / Text
+
+- [arthur](/testi/chesterton/atomized/arthur/arthur)
+
 ## Connections
 
 **Archetypes:** [[King]]
@@ -33,6 +37,10 @@ tags:
 **Forms & Genres:** [[Sonnet]]
 **Historical References:** [[Arthurian Legend]]
 **Characters:** [[King Arthur]]
+
+## Chapters / scenes / sections
+
+- [part 01](/testi/chesterton/atomized/arthur/part/part_01)
 
 ## Testo integrale / Full text
 

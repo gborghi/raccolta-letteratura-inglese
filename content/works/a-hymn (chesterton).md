@@ -27,12 +27,20 @@ tags:
 > [!abstract] 
 > A national hymn and prayer (three stanzas, hymn-meter) begging God to take away the people's pride and to deliver a corrupt, gold-walled nation from lies, profit and damnation; central themes are faith, national renewal, humility, and the corruption of power.
 
+## Testo / Text
+
+- [a-hymn](/testi/chesterton/atomized/a-hymn/a-hymn)
+
 ## Connections
 
 **Motifs:** [[Money and Gold]], [[Swords and Weapons]]
 **Themes & Concepts:** [[Faith]], [[Humility]], [[Pride]], [[Power and Corruption]], [[Nationalism and Patriotism]], [[Reform]], [[Grace and Redemption]]
 **Forms & Genres:** [[Hymn]]
 **Historical References:** [[Christianity]]
+
+## Chapters / scenes / sections
+
+- [part 01](/testi/chesterton/atomized/a-hymn/part/part_01)
 
 ## Testo integrale / Full text
 

@@ -25,6 +25,10 @@ tags:
 > [!abstract] 
 > A short prose episode from The Poet and the Lunatics: the painter Gabriel Gale, who sees the world upside down to see it truly, woos Diana by asking her to make a rash vow; whimsy, love and madness.
 
+## Testo / Text
+
+- [lovers](/testi/chesterton/atomized/lovers/lovers)
+
 ## Connections
 
 **Topoi:** [[World Upside Down]]
@@ -32,6 +36,10 @@ tags:
 **Motifs:** [[Madness (2)]]
 **Themes & Concepts:** [[Romantic Love]], [[Madness]], [[Appearance vs Reality]], [[Wonder and Gratitude]]
 **Forms & Genres:** [[Short Story]]
+
+## Chapters / scenes / sections
+
+- [part 01](/testi/chesterton/atomized/lovers/part/part_01)
 
 ## Testo integrale / Full text
 

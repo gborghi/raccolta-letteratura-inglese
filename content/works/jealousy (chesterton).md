@@ -21,11 +21,19 @@ tags:
 > [!abstract] 
 > A satiric ballad-song mocking a Spiritualist paper's claim that the Catholic Church envies it; the Church personified on her Seven Hills, with mock-heroic religious and historical allusions.
 
+## Testo / Text
+
+- [Jealousy](/testi/chesterton/atomized/jealousy/jealousy)
+
 ## Connections
 
 **Themes & Concepts:** [[Faith]], [[Satire of Society]]
 **Forms & Genres:** [[Satire]], [[Ballad Ballade]], [[Comic Verse Song]]
 **Historical References:** [[Catholic Church]], [[Christianity]]
+
+## Chapters / scenes / sections
+
+- [part 01](/testi/chesterton/atomized/jealousy/part/part_01)
 
 ## Testo integrale / Full text
 

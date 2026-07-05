@@ -23,12 +23,20 @@ tags:
 > [!abstract] 
 > A short epigrammatic poem reversing Goldsmith's line on wealth and decaying men, indicting industrial commerce: now 'Men accumulate and Wealth decay'. Themes of social injustice, the decay of the common man, and a prophetic note of judgment.
 
+## Testo / Text
+
+- [The_Judgment_of_England](/testi/chesterton/atomized/the_judgment_of_england/the_judgment_of_england)
+
 ## Connections
 
 **Motifs:** [[Money and Gold]], [[Decay]]
 **Themes & Concepts:** [[Social Injustice]], [[Anti-Industrialism]], [[Common Man]], [[Critique of Progress]]
 **Forms & Genres:** [[Epigram]], [[Lyric]]
 **Historical References:** [[Industrial Revolution]]
+
+## Chapters / scenes / sections
+
+- [part 01](/testi/chesterton/atomized/the_judgment_of_england/part/part_01)
 
 ## Testo integrale / Full text
 

@@ -21,11 +21,21 @@ tags:
 > [!abstract] 
 > A critical essay on Dickens's Pickwick as the truest expression of the festive, tolerant 'Merry England' character, against the Puritan caricature of the English.
 
+## Testo / Text
+
+- [Pickwick](/testi/chesterton/atomized/pickwick/pickwick)
+
 ## Connections
 
 **Themes & Concepts:** [[Nationalism and Patriotism]], [[Friendship]], [[Joy]], [[Common Man]]
 **Forms & Genres:** [[Literary Criticism]], [[Essay]]
 **Characters:** [[Falstaff]]
+
+## Chapters / scenes / sections
+
+- [part 01](/testi/chesterton/atomized/pickwick/part/part_01)
+- [part 02](/testi/chesterton/atomized/pickwick/part/part_02)
+- [part 03](/testi/chesterton/atomized/pickwick/part/part_03)
 
 ## Testo integrale / Full text
 

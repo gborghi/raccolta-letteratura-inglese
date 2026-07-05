@@ -23,12 +23,20 @@ tags:
 > [!abstract] 
 > A short lyric of cosmic wonder: the speaker marvels at sun, sky and the lost first heaven, ending 'I wonder at not wondering'. Themes: wonder and gratitude, the fall from Eden, and the inexpressibility of praise.
 
+## Testo / Text
+
+- [the_mystery](/testi/chesterton/atomized/the_mystery/the_mystery)
+
 ## Connections
 
 **Topoi:** [[Paradise Lost]], [[Fall from Innocence]], [[Inexpressibility]]
 **Motifs:** [[Sun]], [[Garden]]
 **Themes & Concepts:** [[Wonder and Gratitude]], [[Sublime]], [[Paradox]]
 **Forms & Genres:** [[Lyric]]
+
+## Chapters / scenes / sections
+
+- [part 01](/testi/chesterton/atomized/the_mystery/part/part_01)
 
 ## Testo integrale / Full text
 

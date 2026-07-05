@@ -22,11 +22,21 @@ tags:
 > [!abstract] 
 > An ILN essay arguing that science now persecutes religion, mocking Shaw's 'Back to Methuselah' and Darwinian evolution for abandoning any fixed human ideal. Themes: faith versus a deifying scientism, critique of progress and the Superman, and the need for a permanent standard.
 
+## Testo / Text
+
+- [The_Persecution_of_Religion](/testi/chesterton/atomized/the_persecution_of_religion/the_persecution_of_religion)
+
 ## Connections
 
 **Themes & Concepts:** [[Faith]], [[Faith and Doubt]], [[Critique of Progress]], [[Paradox]], [[Satire of Society]]
 **Forms & Genres:** [[Essay]], [[Apologetics]]
 **Historical References:** [[Christianity]]
+
+## Chapters / scenes / sections
+
+- [part 01](/testi/chesterton/atomized/the_persecution_of_religion/part/part_01)
+- [part 02](/testi/chesterton/atomized/the_persecution_of_religion/part/part_02)
+- [part 03](/testi/chesterton/atomized/the_persecution_of_religion/part/part_03)
 
 ## Testo integrale / Full text
 

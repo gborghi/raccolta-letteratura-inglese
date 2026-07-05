@@ -24,6 +24,10 @@ tags:
 > [!abstract] 
 > An apologetics essay expounding Roman Catholicism: the Papacy, the Eucharist, Penance, asceticism, and the cult of the Virgin, defending the Church as guardian of faith against heresies.
 
+## Testo / Text
+
+- [upon-this-rock](/testi/chesterton/atomized/upon-this-rock/upon-this-rock)
+
 ## Connections
 
 **Motifs:** [[Bread and Wine Eucharist]]
@@ -31,6 +35,13 @@ tags:
 **Forms & Genres:** [[Apologetics]]
 **Historical References:** [[Catholic Church]], [[Christianity]]
 **Characters:** [[Virgin Mary]]
+
+## Chapters / scenes / sections
+
+- [part 01](/testi/chesterton/atomized/upon-this-rock/part/part_01)
+- [part 02](/testi/chesterton/atomized/upon-this-rock/part/part_02)
+- [part 03](/testi/chesterton/atomized/upon-this-rock/part/part_03)
+- [part 04](/testi/chesterton/atomized/upon-this-rock/part/part_04)
 
 ## Testo integrale / Full text
 

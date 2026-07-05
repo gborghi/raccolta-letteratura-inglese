@@ -22,11 +22,20 @@ tags:
 > [!abstract] 
 > An essay on the logic of belief, arguing that exposed fraudulent mediums do not disprove the supernatural and distinguishing religious passion from scientific investigation. Faith, doubt and the supernatural.
 
+## Testo / Text
+
+- [skeptic](/testi/chesterton/atomized/skeptic/skeptic)
+
 ## Connections
 
 **Motifs:** [[Supernatural]]
 **Themes & Concepts:** [[Faith]], [[Faith and Doubt]], [[Doubt]], [[Critique of Progress]]
 **Forms & Genres:** [[Essay]]
+
+## Chapters / scenes / sections
+
+- [part 01](/testi/chesterton/atomized/skeptic/part/part_01)
+- [part 02](/testi/chesterton/atomized/skeptic/part/part_02)
 
 ## Testo integrale / Full text
 

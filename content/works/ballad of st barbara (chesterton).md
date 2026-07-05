@@ -31,6 +31,10 @@ tags:
 > [!abstract] 
 > A narrative ballad set at the WWI Battle of the Marne, interweaving the martyrdom of St Barbara (patron of gunners) with the defence of Paris; a meditation on faith, martyrdom, liberty against tyranny, and sudden death in war.
 
+## Testo / Text
+
+- [Ballad_of_St_Barbara](/testi/chesterton/atomized/ballad_of_st_barbara/ballad_of_st_barbara)
+
 ## Connections
 
 **Topoi:** [[Last Stand]]
@@ -40,6 +44,11 @@ tags:
 **Forms & Genres:** [[Ballad Ballade]], [[Narrative Poem]]
 **Historical References:** [[First World War]], [[Christianity]]
 **Settings:** [[Battlefield]], [[Paris]]
+
+## Chapters / scenes / sections
+
+- [part 01](/testi/chesterton/atomized/ballad_of_st_barbara/part/part_01)
+- [part 02](/testi/chesterton/atomized/ballad_of_st_barbara/part/part_02)
 
 ## Testo integrale / Full text
 

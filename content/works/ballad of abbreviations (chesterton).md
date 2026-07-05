@@ -20,11 +20,19 @@ tags:
 > [!abstract] 
 > A comic satirical ballad mocking the American cult of speed, hustle and verbal shortcuts as a symbol of misguided modern 'Progress'.
 
+## Testo / Text
+
+- [Ballad_Of_Abbreviations](/testi/chesterton/atomized/ballad_of_abbreviations/ballad_of_abbreviations)
+
 ## Connections
 
 **Motifs:** [[Clock]]
 **Themes & Concepts:** [[Satire of Society]], [[Critique of Progress]], [[Appearance vs Reality]]
 **Forms & Genres:** [[Ballad Ballade]], [[Satire]]
+
+## Chapters / scenes / sections
+
+- [part 01](/testi/chesterton/atomized/ballad_of_abbreviations/part/part_01)
 
 ## Testo integrale / Full text
 

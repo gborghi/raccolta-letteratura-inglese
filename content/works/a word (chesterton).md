@@ -35,6 +35,10 @@ tags:
 > [!abstract] 
 > A narrative lyric tracing the Word (the Christ / Logos born in Galilee) as a star and sword passing through the carpenter's workshop, the fall of Caesars and empires, the age of creeds and crusades, and the industrial age of wheels and smoke, until it resolves into 'Peace'; central concerns are divine love, the ages of the world, and redemption through history.
 
+## Testo / Text
+
+- [a_word](/testi/chesterton/atomized/a_word/a_word)
+
 ## Connections
 
 **Topoi:** [[Ages of the World]], [[Sic Transit Gloria Mundi]]
@@ -44,6 +48,10 @@ tags:
 **Forms & Genres:** [[Narrative Poem]], [[Lyric]]
 **Historical References:** [[Christianity]], [[Bible]], [[Roman History]], [[Crusades]]
 **Characters:** [[Christ]]
+
+## Chapters / scenes / sections
+
+- [part 01](/testi/chesterton/atomized/a_word/part/part_01)
 
 ## Testo integrale / Full text
 

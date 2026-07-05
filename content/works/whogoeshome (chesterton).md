@@ -26,6 +26,10 @@ tags:
 > [!abstract] 
 > A short, martial lyric on the city, parliament and the call 'Who goes home?', turning a civic cry into a meditation on blood, liberty, victory and the soul's homecoming after death.
 
+## Testo / Text
+
+- [WhoGoesHome](/testi/chesterton/atomized/whogoeshome/whogoeshome)
+
 ## Connections
 
 **Topoi:** [[War as Glory]]
@@ -33,6 +37,10 @@ tags:
 **Themes & Concepts:** [[Mortality]], [[Nationalism and Patriotism]], [[War and its Cost]], [[Heroism]]
 **Forms & Genres:** [[Lyric]], [[Comic Verse Song]]
 **Settings:** [[London]]
+
+## Chapters / scenes / sections
+
+- [part 01](/testi/chesterton/atomized/whogoeshome/part/part_01)
 
 ## Testo integrale / Full text
 

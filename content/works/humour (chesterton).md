@@ -27,6 +27,10 @@ tags:
 > [!abstract] 
 > An encyclopaedia essay tracing the history of humour from the medieval grotesque through Chaucer, Rabelais and Cervantes to Dickens and English nonsense, distinguishing humour (humility) from wit (justice).
 
+## Testo / Text
+
+- [Humour](/testi/chesterton/atomized/humour/humour)
+
 ## Connections
 
 **Archetypes:** [[Fool]]
@@ -34,6 +38,12 @@ tags:
 **Forms & Genres:** [[Literary Criticism]], [[Essay]], [[Comedy]]
 **Historical References:** [[Classical Antiquity]], [[Renaissance]]
 **Characters:** [[Falstaff]], [[Don Quixote]]
+
+## Chapters / scenes / sections
+
+- [part 01](/testi/chesterton/atomized/humour/part/part_01)
+- [part 02](/testi/chesterton/atomized/humour/part/part_02)
+- [part 03](/testi/chesterton/atomized/humour/part/part_03)
 
 ## Testo integrale / Full text
 

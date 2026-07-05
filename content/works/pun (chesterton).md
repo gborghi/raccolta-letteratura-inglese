@@ -22,10 +22,19 @@ tags:
 > [!abstract] 
 > An essay arguing the pun, like rhyme and metaphor, makes completeness of form confirm completeness of idea; a defence of wit and the literary craft against the 'spirit of the age'.
 
+## Testo / Text
+
+- [pun](/testi/chesterton/atomized/pun/pun)
+
 ## Connections
 
 **Themes & Concepts:** [[Artist and Society]], [[Critique of Progress]], [[Beauty]], [[Joy]]
 **Forms & Genres:** [[Essay]], [[Literary Criticism]]
+
+## Chapters / scenes / sections
+
+- [part 01](/testi/chesterton/atomized/pun/part/part_01)
+- [part 02](/testi/chesterton/atomized/pun/part/part_02)
 
 ## Testo integrale / Full text
 

@@ -23,10 +23,19 @@ tags:
 > [!abstract] 
 > An essay defending cheap popular fiction as the healthy, life-affirming romance of the common man, against the morbid pessimism of educated literature.
 
+## Testo / Text
+
+- [penny-dreadfuls](/testi/chesterton/atomized/penny-dreadfuls/penny-dreadfuls)
+
 ## Connections
 
 **Themes & Concepts:** [[Common Man]], [[Heroism]], [[Imagination]], [[Satire of Society]], [[Artist and Society]]
 **Forms & Genres:** [[Essay]], [[Literary Criticism]]
+
+## Chapters / scenes / sections
+
+- [part 01](/testi/chesterton/atomized/penny-dreadfuls/part/part_01)
+- [part 02](/testi/chesterton/atomized/penny-dreadfuls/part/part_02)
 
 ## Testo integrale / Full text
 

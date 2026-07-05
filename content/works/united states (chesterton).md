@@ -21,11 +21,22 @@ tags:
 > [!abstract] 
 > A biographical memoir-preface honouring his brother Cecil, tracing his conversion to Catholicism and Distributism, his exposure of the Marconi corruption, and his death in the First World War fighting Prussianism.
 
+## Testo / Text
+
+- [United_States](/testi/chesterton/atomized/united_states/united_states)
+
 ## Connections
 
 **Themes & Concepts:** [[Conversion]], [[Distributism]], [[Power and Corruption]], [[War and its Cost]]
 **Forms & Genres:** [[Biography]]
 **Historical References:** [[First World War]], [[Catholic Church]]
+
+## Chapters / scenes / sections
+
+- [part 01](/testi/chesterton/atomized/united_states/part/part_01)
+- [part 02](/testi/chesterton/atomized/united_states/part/part_02)
+- [part 03](/testi/chesterton/atomized/united_states/part/part_03)
+- [part 04](/testi/chesterton/atomized/united_states/part/part_04)
 
 ## Testo integrale / Full text
 

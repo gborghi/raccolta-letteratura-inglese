@@ -23,11 +23,19 @@ tags:
 > [!abstract] 
 > A sequence of satirical songs (History, Geography, Higher Mathematics) parodying patriotic-imperial schooling, mocking Empire, plutocratic finance and the propaganda taught to children.
 
+## Testo / Text
+
+- [Songs of Education125](/testi/chesterton/atomized/songs_of_education125/songs_of_education125)
+
 ## Connections
 
 **Themes & Concepts:** [[Satire of Society]], [[Nationalism and Patriotism]], [[Education]], [[Critique of Progress]], [[Power and Corruption]]
 **Forms & Genres:** [[Comic Verse Song]], [[Poem Sequence]], [[Satire]]
 **Historical References:** [[Regency Georgian England]]
+
+## Chapters / scenes / sections
+
+- [part 01](/testi/chesterton/atomized/songs_of_education125/part/part_01)
 
 ## Testo integrale / Full text
 

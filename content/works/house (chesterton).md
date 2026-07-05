@@ -28,6 +28,10 @@ tags:
 > [!abstract] 
 > A Christmas lyric on the paradox of homelessness and home: only where God was homeless, in the stable, are all men at home; the wandering star, exile, and the longing for a truer home.
 
+## Testo / Text
+
+- [house](/testi/chesterton/atomized/house/house)
+
 ## Connections
 
 **Topoi:** [[World Upside Down]]
@@ -36,6 +40,10 @@ tags:
 **Forms & Genres:** [[Lyric]], [[Hymn]]
 **Historical References:** [[Christianity]]
 **Characters:** [[Christ]]
+
+## Chapters / scenes / sections
+
+- [part 01](/testi/chesterton/atomized/house/part/part_01)
 
 ## Testo integrale / Full text
 

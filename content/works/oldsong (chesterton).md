@@ -24,6 +24,10 @@ tags:
 > [!abstract] 
 > An apocalyptic ballad of London Bridge broken down, the kings who 'buy and sell', and Cobbett as the Horseman of Apocalypse; a populist, anti-plutocratic vision of England renewed.
 
+## Testo / Text
+
+- [oldsong](/testi/chesterton/atomized/oldsong/oldsong)
+
 ## Connections
 
 **Motifs:** [[City]], [[Money and Gold]], [[Horse]]
@@ -31,6 +35,10 @@ tags:
 **Forms & Genres:** [[Ballad Ballade]]
 **Historical References:** [[Bible]]
 **Settings:** [[London]]
+
+## Chapters / scenes / sections
+
+- [part 01](/testi/chesterton/atomized/oldsong/part/part_01)
 
 ## Testo integrale / Full text
 

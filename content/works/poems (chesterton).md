@@ -34,6 +34,10 @@ tags:
 > [!abstract] 
 > A collected volume of Chesterton's verse: war poems (Lepanto), love poems, religious/Christmas poems and satirical rhymes; themes of faith, war, patriotism, marriage and joy.
 
+## Testo / Text
+
+- [Poems](/testi/chesterton/atomized/poems/poems)
+
 ## Connections
 
 **Topoi:** [[Last Stand]], [[War as Glory]], [[Immortality Through Verse]]
@@ -42,6 +46,32 @@ tags:
 **Forms & Genres:** [[Lyric]], [[Ballad Ballade]], [[Hymn]], [[Narrative Poem]]
 **Historical References:** [[Battle of Lepanto]], [[Christianity]], [[Catholic Church]]
 **Characters:** [[Don John of Austria]]
+
+## Chapters / scenes / sections
+
+- [part 01](/testi/chesterton/atomized/poems/part/part_01)
+- [part 02](/testi/chesterton/atomized/poems/part/part_02)
+- [part 03](/testi/chesterton/atomized/poems/part/part_03)
+- [part 04](/testi/chesterton/atomized/poems/part/part_04)
+- [part 05](/testi/chesterton/atomized/poems/part/part_05)
+- [part 06](/testi/chesterton/atomized/poems/part/part_06)
+- [part 07](/testi/chesterton/atomized/poems/part/part_07)
+- [part 08](/testi/chesterton/atomized/poems/part/part_08)
+- [part 09](/testi/chesterton/atomized/poems/part/part_09)
+- [part 10](/testi/chesterton/atomized/poems/part/part_10)
+- [part 11](/testi/chesterton/atomized/poems/part/part_11)
+- [part 12](/testi/chesterton/atomized/poems/part/part_12)
+- [part 13](/testi/chesterton/atomized/poems/part/part_13)
+- [part 14](/testi/chesterton/atomized/poems/part/part_14)
+- [part 15](/testi/chesterton/atomized/poems/part/part_15)
+- [part 16](/testi/chesterton/atomized/poems/part/part_16)
+- [part 17](/testi/chesterton/atomized/poems/part/part_17)
+- [part 18](/testi/chesterton/atomized/poems/part/part_18)
+- [part 19](/testi/chesterton/atomized/poems/part/part_19)
+- [part 20](/testi/chesterton/atomized/poems/part/part_20)
+- [part 21](/testi/chesterton/atomized/poems/part/part_21)
+- [part 22](/testi/chesterton/atomized/poems/part/part_22)
+- [part 23](/testi/chesterton/atomized/poems/part/part_23)
 
 ## Testo integrale / Full text
 

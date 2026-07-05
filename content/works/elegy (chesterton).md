@@ -23,12 +23,20 @@ tags:
 > [!abstract] 
 > Short ironic elegy: those who worked for England have home graves, those who fought lie afar, but those who rule 'have no graves as yet' — patriotic satire on the ruling class.
 
+## Testo / Text
+
+- [elegy](/testi/chesterton/atomized/elegy/elegy)
+
 ## Connections
 
 **Motifs:** [[Grave]]
 **Themes & Concepts:** [[Nationalism and Patriotism]], [[War and its Cost]], [[Satire of Society]], [[Mortality]]
 **Forms & Genres:** [[Elegy]]
 **Settings:** [[Rural England]]
+
+## Chapters / scenes / sections
+
+- [part 01](/testi/chesterton/atomized/elegy/part/part_01)
 
 ## Testo integrale / Full text
 

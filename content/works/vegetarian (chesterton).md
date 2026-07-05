@@ -23,11 +23,19 @@ tags:
 > [!abstract] 
 > A comic nonsense song (from The Flying Inn) mocking faddish vegetarianism and abstract logic through a drunkard who calls himself a rigid vegetarian; light satire built on wine, the inn, and paradox.
 
+## Testo / Text
+
+- [vegetarian](/testi/chesterton/atomized/vegetarian/vegetarian)
+
 ## Connections
 
 **Motifs:** [[Wine and Drink]], [[Inn Tavern]]
 **Themes & Concepts:** [[Paradox]], [[Satire of Society]], [[Critique of Progress]]
 **Forms & Genres:** [[Comic Verse Song]], [[Satire]]
+
+## Chapters / scenes / sections
+
+- [part 01](/testi/chesterton/atomized/vegetarian/part/part_01)
 
 ## Testo integrale / Full text
 

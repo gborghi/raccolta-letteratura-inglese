@@ -24,6 +24,10 @@ tags:
 > [!abstract] 
 > Sonnet on the poet's conversion: the world turns over, the sages' maps become 'less than dust' because 'my name is Lazarus and I live' — faith as resurrection and rebirth.
 
+## Testo / Text
+
+- [convert](/testi/chesterton/atomized/convert/convert)
+
 ## Connections
 
 **Motifs:** [[Road]]
@@ -31,6 +35,10 @@ tags:
 **Forms & Genres:** [[Sonnet]]
 **Historical References:** [[Bible]]
 **Characters:** [[Lazarus the Risen Man]]
+
+## Chapters / scenes / sections
+
+- [part 01](/testi/chesterton/atomized/convert/part/part_01)
 
 ## Testo integrale / Full text
 

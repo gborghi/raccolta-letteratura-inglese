@@ -26,12 +26,20 @@ tags:
 > [!abstract] 
 > A satirical ballad contrasting a full-blooded pagan's joy in wine, love and war with the joyless, life-denying modern 'Heathen' Higgins; defends faith-grounded delight against a sterile secular asceticism.
 
+## Testo / Text
+
+- [ascetic](/testi/chesterton/atomized/ascetic/ascetic)
+
 ## Connections
 
 **Motifs:** [[Wine and Drink]], [[Fire]]
 **Themes & Concepts:** [[Joy]], [[Faith]], [[Spiritual Emptiness]], [[Critique of Progress]], [[Satire of Society]]
 **Forms & Genres:** [[Ballad Ballade]], [[Satire]]
 **Historical References:** [[Classical Antiquity]]
+
+## Chapters / scenes / sections
+
+- [part 01](/testi/chesterton/atomized/ascetic/part/part_01)
 
 ## Testo integrale / Full text
 
