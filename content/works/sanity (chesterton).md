@@ -15,6 +15,26 @@ tags:
   - concept/power_and_corruption
   - concept/critique_of_progress
   - histref/the_industrial_revolution
+  - character/sherlock_holmes_homage
+  - character/henry_ford
+  - concept/freedom_and_liberty
+  - concept/slavery
+  - concept/money_and_avarice
+  - concept/satire_of_society
+  - topos/fortune_s_wheel
+  - motif/machine
+  - motif/wheel
+  - motif/money_and_gold
+  - setting/america
+  - setting/rural_england
+  - form/fable
+  - form/parable
+  - form/satire
+  - histref/french_revolution
+  - histref/catholic_church
+  - histref/puritanism
+  - histref/bible
+  - histref/irish_question
 ---
 
 # Sanity
@@ -46,9 +66,17 @@ tags:
 
 ## Connections
 
-**Themes & Concepts:** [[Distributism]], [[Anti-Industrialism]], [[Common Man]], [[Reform]], [[Power and Corruption]], [[Critique of Progress]]
-**Forms & Genres:** [[Essay]]
-**Historical References:** [[Industrial Revolution]]
+**Settings:** [[America]], [[Rural England]]
+
+**Motifs:** [[Machine]], [[Wheel]], [[Money and Gold]]
+
+**Topoi:** [[Fortune's Wheel]]
+
+**Characters:** [[Sherlock Holmes Homage]], [[Henry Ford]]
+
+**Themes & Concepts:** [[Distributism]], [[Anti-Industrialism]], [[Common Man]], [[Reform]], [[Power and Corruption]], [[Critique of Progress]], [[Freedom and Liberty]], [[Slavery]], [[Money and Avarice]], [[Satire of Society]]
+**Forms & Genres:** [[Essay]], [[Fable]], [[Parable]], [[Satire]]
+**Historical References:** [[Industrial Revolution]], [[French Revolution]], [[Catholic Church]], [[Puritanism]], [[Bible]], [[Irish Question]]
 
 ## Chapters / scenes / sections
 

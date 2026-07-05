@@ -13,6 +13,12 @@ tags:
   - topos/great_chain_of_being
   - concept/critique_of_progress
   - form/apologetics
+  - character/plato
+  - character/bernard_shaw
+  - character/major_barbara
+  - concept/charity
+  - concept/justice_right_and_wrong
+  - motif/inn_tavern
 ---
 
 # mending
@@ -28,8 +34,12 @@ tags:
 
 ## Connections
 
+**Motifs:** [[Inn Tavern]]
+
+**Characters:** [[Plato]], [[Bernard Shaw]], [[Major Barbara]]
+
 **Topoi:** [[Great Chain of Being]]
-**Themes & Concepts:** [[Reform]], [[Paradox]], [[Critique of Progress]]
+**Themes & Concepts:** [[Reform]], [[Paradox]], [[Critique of Progress]], [[Charity]], [[Justice Right and Wrong]]
 **Forms & Genres:** [[Essay]], [[Apologetics]]
 
 ## Chapters / scenes / sections

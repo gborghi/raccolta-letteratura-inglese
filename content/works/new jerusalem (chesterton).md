@@ -22,6 +22,47 @@ tags:
   - archetype/pilgrim
   - motif/the_cross
   - setting/the_orient
+  - character/christ
+  - character/satan
+  - character/saladin
+  - character/godfrey_de_bouillon
+  - character/richard_the_lionheart
+  - character/st_george
+  - character/judas_iscariot
+  - character/dr_weizmann
+  - concept/slavery
+  - concept/democracy
+  - concept/fanaticism
+  - concept/class_conflict
+  - concept/supernatural_2
+  - concept/war_and_its_cost
+  - concept/distributism
+  - concept/money_and_avarice
+  - concept/anti_industrialism
+  - concept/zionism
+  - topos/world_upside_down
+  - topos/combat_strife
+  - topos/last_stand
+  - topos/open_road_homecoming
+  - motif/snow
+  - motif/lion
+  - motif/crown
+  - motif/journey
+  - motif/dragon
+  - setting/desert
+  - setting/egypt
+  - setting/ancient_rome_2
+  - setting/paris
+  - setting/london
+  - archetype/prophet
+  - archetype/tyrant
+  - archetype/martyr_saint
+  - form/apologetics
+  - histref/islam
+  - histref/orient_arabia
+  - histref/first_world_war
+  - histref/french_revolution
+  - histref/ancient_rome
 ---
 
 # New Jerusalem
@@ -49,13 +90,15 @@ tags:
 
 ## Connections
 
-**Topoi:** [[Quest]]
-**Archetypes:** [[Pilgrim]]
-**Motifs:** [[Cross]]
-**Themes & Concepts:** [[Faith]], [[Faith and Doubt]], [[Nationalism and Patriotism]], [[Exile]], [[Paradox]]
-**Forms & Genres:** [[Travel Writing]], [[Essay]]
-**Historical References:** [[Christianity]], [[Bible]], [[Crusades]], [[Eastern Religion Comparative Religion]]
-**Settings:** [[Orient]]
+**Characters:** [[Christ]], [[Satan]], [[Saladin]], [[Godfrey de Bouillon]], [[Richard the Lionheart]], [[St. George]], [[Judas Iscariot]], [[Dr. Weizmann]]
+
+**Topoi:** [[Quest]], [[World Upside Down]], [[Combat Strife]], [[Last Stand]], [[Open Road Homecoming]]
+**Archetypes:** [[Pilgrim]], [[Prophet]], [[Tyrant]], [[Martyr Saint]]
+**Motifs:** [[Cross]], [[Snow]], [[Lion]], [[Crown]], [[Journey]], [[Dragon]]
+**Themes & Concepts:** [[Faith]], [[Faith and Doubt]], [[Nationalism and Patriotism]], [[Exile]], [[Paradox]], [[Slavery]], [[Democracy]], [[Fanaticism]], [[Class Conflict]], [[Supernatural (2)]], [[War and its Cost]], [[Distributism]], [[Money and Avarice]], [[Anti-Industrialism]], [[Zionism]]
+**Forms & Genres:** [[Travel Writing]], [[Essay]], [[Apologetics]]
+**Historical References:** [[Christianity]], [[Bible]], [[Crusades]], [[Eastern Religion Comparative Religion]], [[Islam]], [[Orient Arabia]], [[First World War]], [[French Revolution]], [[Ancient Rome]]
+**Settings:** [[Orient]], [[Desert]], [[Egypt]], [[Ancient Rome (2)]], [[Paris]], [[London]]
 
 ## Chapters / scenes / sections
 

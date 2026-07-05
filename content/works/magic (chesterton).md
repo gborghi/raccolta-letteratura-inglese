@@ -18,6 +18,31 @@ tags:
   - concept/imagination
   - concept/madness
   - motif/light_and_dark
+  - character/hastings
+  - character/the_duke
+  - character/doctor_grimthorpe
+  - character/rev_cyril_smith
+  - character/morris_carleon
+  - character/patricia_carleon
+  - character/the_conjurer
+  - concept/deception
+  - concept/secrecy_and_concealment
+  - concept/satire_of_society
+  - concept/romantic_love
+  - concept/grace_and_redemption
+  - concept/spiritualism
+  - motif/music_and_song
+  - motif/clothing_and_costume
+  - motif/concealment_hidden_identity
+  - motif/great_house
+  - setting/garden_2
+  - setting/rural_england
+  - archetype/fool
+  - archetype/trickster
+  - form/problem_play
+  - histref/bible
+  - histref/christianity
+  - histref/irish_question
 ---
 
 *by Chesterton*  ·  **Cluster:** [[Temptation · Good vs Evil · Serpent Snake]]
@@ -31,9 +56,17 @@ tags:
 
 ## Connections
 
-**Motifs:** [[Supernatural]], [[Light and Dark]]
-**Themes & Concepts:** [[Faith and Doubt]], [[Doubt]], [[Good vs Evil]], [[Temptation]], [[Appearance vs Reality]], [[Imagination]], [[Madness]]
-**Forms & Genres:** [[Comedy]], [[Verse Drama]]
+**Historical References:** [[Bible]], [[Christianity]], [[Irish Question]]
+
+**Archetypes:** [[Fool]], [[Trickster]]
+
+**Settings:** [[Garden (2)]], [[Rural England]]
+
+**Characters:** [[Hastings]], [[The Duke]], [[Doctor Grimthorpe]], [[Rev. Cyril Smith]], [[Morris Carleon]], [[Patricia Carleon]], [[The Conjurer]]
+
+**Motifs:** [[Supernatural]], [[Light and Dark]], [[Music and Song]], [[Clothing and Costume]], [[Concealment Hidden Identity]], [[Great House]]
+**Themes & Concepts:** [[Faith and Doubt]], [[Doubt]], [[Good vs Evil]], [[Temptation]], [[Appearance vs Reality]], [[Imagination]], [[Madness]], [[Deception]], [[Secrecy and Concealment]], [[Satire of Society]], [[Romantic Love]], [[Grace and Redemption]], [[Spiritualism]]
+**Forms & Genres:** [[Comedy]], [[Verse Drama]], [[Problem Play]]
 
 ## Chapters / scenes / sections
 

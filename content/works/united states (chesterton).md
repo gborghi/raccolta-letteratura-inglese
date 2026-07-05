@@ -14,6 +14,17 @@ tags:
   - concept/war_and_its_cost
   - histref/the_first_world_war
   - histref/catholic_church
+  - character/cecil_chesterton
+  - character/hilaire_belloc
+  - concept/democracy
+  - concept/courage
+  - concept/truth
+  - concept/nationalism_and_patriotism
+  - concept/reform
+  - topos/life_as_a_battle
+  - setting/battlefield
+  - archetype/hero
+  - archetype/martyr_saint
 ---
 
 *by Chesterton*  ·  **Cluster:** [[Artist and Society · Truth · Regency Georgian England]]
@@ -27,7 +38,15 @@ tags:
 
 ## Connections
 
-**Themes & Concepts:** [[Conversion]], [[Distributism]], [[Power and Corruption]], [[War and its Cost]]
+**Archetypes:** [[Hero]], [[Martyr Saint]]
+
+**Settings:** [[Battlefield]]
+
+**Topoi:** [[Life as a Battle]]
+
+**Characters:** [[Cecil Chesterton]], [[Hilaire Belloc]]
+
+**Themes & Concepts:** [[Conversion]], [[Distributism]], [[Power and Corruption]], [[War and its Cost]], [[Democracy]], [[Courage]], [[Truth]], [[Nationalism and Patriotism]], [[Reform]]
 **Forms & Genres:** [[Biography]]
 **Historical References:** [[First World War]], [[Catholic Church]]
 

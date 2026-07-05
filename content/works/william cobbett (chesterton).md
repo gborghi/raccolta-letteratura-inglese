@@ -28,6 +28,36 @@ tags:
   - histref/the_industrial_revolution
   - histref/the_french_revolution
   - setting/rural_england
+  - character/william_cobbett
+  - character/thomas_paine
+  - character/william_pitt
+  - character/robert_peel
+  - character/daniel_o_connell
+  - concept/truth
+  - concept/paradox
+  - concept/martyrdom
+  - concept/education
+  - concept/loneliness
+  - concept/greatness
+  - concept/democracy
+  - concept/money_and_avarice
+  - topos/golden_age
+  - motif/storm
+  - motif/fog_and_smoke
+  - motif/bees
+  - motif/road
+  - motif/horse
+  - motif/cross
+  - motif/great_house
+  - setting/america
+  - setting/london
+  - archetype/martyr_saint
+  - archetype/tragic_hero
+  - archetype/outsider
+  - form/literary_criticism
+  - histref/reformation
+  - histref/napoleonic_wars_the_navy
+  - histref/regency_georgian_england
 ---
 
 *by Chesterton*  ·  **Cluster:** [[Essay · Critique of Progress · Common Man]]
@@ -47,13 +77,15 @@ tags:
 
 ## Connections
 
-**Topoi:** [[World Upside Down]]
-**Archetypes:** [[Self-Made Man]], [[Prophet]], [[Rebel]]
-**Motifs:** [[Journey]]
-**Themes & Concepts:** [[Distributism]], [[Anti-Industrialism]], [[Critique of Progress]], [[Common Man]], [[Reform]], [[Social Injustice]], [[Nationalism and Patriotism]], [[Class Conflict]], [[Poverty]], [[Honour]]
-**Forms & Genres:** [[Biography]], [[Essay]], [[Apologetics]]
-**Historical References:** [[Industrial Revolution]], [[French Revolution]]
-**Settings:** [[Rural England]]
+**Characters:** [[William Cobbett]], [[Thomas Paine]], [[William Pitt]], [[Robert Peel]], [[Daniel O'Connell]]
+
+**Topoi:** [[World Upside Down]], [[Golden Age]]
+**Archetypes:** [[Self-Made Man]], [[Prophet]], [[Rebel]], [[Martyr Saint]], [[Tragic Hero]], [[Outsider]]
+**Motifs:** [[Journey]], [[Storm]], [[Fog and Smoke]], [[Bees]], [[Road]], [[Horse]], [[Cross]], [[Great House]]
+**Themes & Concepts:** [[Distributism]], [[Anti-Industrialism]], [[Critique of Progress]], [[Common Man]], [[Reform]], [[Social Injustice]], [[Nationalism and Patriotism]], [[Class Conflict]], [[Poverty]], [[Honour]], [[Truth]], [[Paradox]], [[Martyrdom]], [[Education]], [[Loneliness]], [[Greatness]], [[Democracy]], [[Money and Avarice]]
+**Forms & Genres:** [[Biography]], [[Essay]], [[Apologetics]], [[Literary Criticism]]
+**Historical References:** [[Industrial Revolution]], [[French Revolution]], [[Reformation]], [[Napoleonic Wars the Navy]], [[Regency Georgian England]]
+**Settings:** [[Rural England]], [[America]], [[London]]
 
 ## Chapters / scenes / sections
 

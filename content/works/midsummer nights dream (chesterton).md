@@ -18,6 +18,20 @@ tags:
   - concept/appearance_vs_reality
   - histref/elizabethan_england
   - character/hamlet
+  - character/bottom
+  - character/puck
+  - character/theseus
+  - concept/greatness
+  - concept/common_man
+  - concept/nationalism_and_patriotism
+  - topos/sleeper_awakes
+  - motif/fog_and_smoke
+  - motif/night
+  - setting/medieval_england_2
+  - setting/rural_england
+  - archetype/trickster
+  - form/comedy
+  - histref/puritanism
 ---
 
 # midsummer nights dream
@@ -33,13 +47,15 @@ tags:
 
 ## Connections
 
-**Archetypes:** [[Fool]]
-**Motifs:** [[Dreams]], [[Supernatural]]
-**Themes & Concepts:** [[Joy]], [[Imagination]], [[Appearance vs Reality]]
-**Forms & Genres:** [[Literary Criticism]], [[Essay]]
-**Historical References:** [[Elizabethan England]]
-**Settings:** [[Enchanted Wood (2)]]
-**Characters:** [[Hamlet]]
+**Topoi:** [[Sleeper Awakes]]
+
+**Archetypes:** [[Fool]], [[Trickster]]
+**Motifs:** [[Dreams]], [[Supernatural]], [[Fog and Smoke]], [[Night]]
+**Themes & Concepts:** [[Joy]], [[Imagination]], [[Appearance vs Reality]], [[Greatness]], [[Common Man]], [[Nationalism and Patriotism]]
+**Forms & Genres:** [[Literary Criticism]], [[Essay]], [[Comedy]]
+**Historical References:** [[Elizabethan England]], [[Puritanism]]
+**Settings:** [[Enchanted Wood (2)]], [[Medieval England (2)]], [[Rural England]]
+**Characters:** [[Hamlet]], [[Bottom]], [[Puck]], [[Theseus]]
 
 ## Testo integrale / Full text
 

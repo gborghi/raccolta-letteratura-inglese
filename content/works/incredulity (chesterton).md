@@ -24,6 +24,39 @@ tags:
   - histref/christianity
   - character/father_brown
   - archetype/detective
+  - character/flambeau
+  - concept/crime_and_punishment
+  - concept/revenge
+  - concept/money_and_avarice
+  - concept/power_and_corruption
+  - concept/class_conflict
+  - concept/fanaticism
+  - topos/fortune_s_wheel
+  - topos/double
+  - topos/katabasis_descent
+  - motif/ghosts
+  - motif/great_house
+  - motif/light_and_dark
+  - motif/mirror
+  - motif/snow
+  - motif/animals
+  - setting/america
+  - setting/new_york
+  - setting/sea_2
+  - setting/ship
+  - setting/rural_england
+  - setting/grave_2
+  - setting/underworld_cave
+  - setting/castle
+  - archetype/trickster
+  - archetype/double_doppelganger
+  - archetype/avenger
+  - form/gothic_novel
+  - histref/bible
+  - histref/catholic_church
+  - histref/first_world_war
+  - histref/industrial_revolution
+  - histref/medieval_england
 ---
 
 # Incredulity
@@ -46,12 +79,16 @@ tags:
 
 ## Connections
 
-**Archetypes:** [[Detective]]
-**Motifs:** [[Concealment Hidden Identity]], [[Supernatural]], [[Blood]], [[Money and Gold]]
-**Themes & Concepts:** [[Ratiocination Detection]], [[Appearance vs Reality]], [[Faith]], [[Faith and Doubt]], [[Guilt]], [[Justice Right and Wrong]], [[Deception]], [[Uncanny]]
-**Forms & Genres:** [[Detective Fiction]], [[Short Story]]
-**Historical References:** [[Christianity]]
-**Characters:** [[Father Brown]]
+**Settings:** [[America]], [[New York]], [[Sea (2)]], [[Ship]], [[Rural England]], [[Grave (2)]], [[Underworld Cave]], [[Castle]]
+
+**Topoi:** [[Fortune's Wheel]], [[Double]], [[Katabasis Descent]]
+
+**Archetypes:** [[Detective]], [[Trickster]], [[Double Doppelganger]], [[Avenger]]
+**Motifs:** [[Concealment Hidden Identity]], [[Supernatural]], [[Blood]], [[Money and Gold]], [[Ghosts]], [[Great House]], [[Light and Dark]], [[Mirror]], [[Snow]], [[Animals]]
+**Themes & Concepts:** [[Ratiocination Detection]], [[Appearance vs Reality]], [[Faith]], [[Faith and Doubt]], [[Guilt]], [[Justice Right and Wrong]], [[Deception]], [[Uncanny]], [[Crime and Punishment]], [[Revenge]], [[Money and Avarice]], [[Power and Corruption]], [[Class Conflict]], [[Fanaticism]]
+**Forms & Genres:** [[Detective Fiction]], [[Short Story]], [[Gothic Novel]]
+**Historical References:** [[Christianity]], [[Bible]], [[Catholic Church]], [[First World War]], [[Industrial Revolution]], [[Medieval England]]
+**Characters:** [[Father Brown]], [[Flambeau]]
 
 ## Chapters / scenes / sections
 

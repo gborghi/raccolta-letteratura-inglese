@@ -20,6 +20,27 @@ tags:
   - topos/paradise_lost
   - motif/the_journey
   - motif/the_city
+  - character/achilles
+  - character/john_bunyan
+  - character/apollyon
+  - character/giant_despair
+  - character/mr_worldly_wiseman
+  - character/moses
+  - character/cromwell
+  - concept/fear
+  - concept/critique_of_progress
+  - concept/conversion
+  - concept/despair
+  - concept/war_and_its_cost
+  - topos/life_as_a_battle
+  - motif/imprisonment_2
+  - archetype/satanic_figure
+  - form/biography
+  - form/epic
+  - form/essay
+  - histref/renaissance
+  - histref/french_revolution
+  - histref/english_civil_war
 ---
 
 # intro-pilgrims-progress
@@ -35,12 +56,14 @@ tags:
 
 ## Connections
 
-**Topoi:** [[Quest]], [[Paradise Lost]]
-**Archetypes:** [[Pilgrim]]
-**Motifs:** [[Journey]], [[City]]
-**Themes & Concepts:** [[Faith]], [[Sin and the Fall]], [[Grace and Redemption]]
-**Forms & Genres:** [[Literary Criticism]], [[Allegory]]
-**Historical References:** [[Puritanism]], [[Christianity]], [[Bible]]
+**Characters:** [[Achilles]], [[John Bunyan]], [[Apollyon]], [[Giant Despair]], [[Mr. Worldly-wiseman]], [[Moses]], [[Cromwell]]
+
+**Topoi:** [[Quest]], [[Paradise Lost]], [[Life as a Battle]]
+**Archetypes:** [[Pilgrim]], [[Satanic Figure]]
+**Motifs:** [[Journey]], [[City]], [[Imprisonment (2)]]
+**Themes & Concepts:** [[Faith]], [[Sin and the Fall]], [[Grace and Redemption]], [[Fear]], [[Critique of Progress]], [[Conversion]], [[Despair]], [[War and its Cost]]
+**Forms & Genres:** [[Literary Criticism]], [[Allegory]], [[Biography]], [[Epic]], [[Essay]]
+**Historical References:** [[Puritanism]], [[Christianity]], [[Bible]], [[Renaissance]], [[French Revolution]], [[English Civil War]]
 
 ## Chapters / scenes / sections
 

@@ -20,6 +20,35 @@ tags:
   - form/dramatic_monologue
   - histref/victorian_england
   - setting/italy
+  - character/caliban
+  - character/elizabeth_barrett_browning
+  - character/edward_moulton_barrett
+  - character/pompilia
+  - character/giuseppe_caponsacchi
+  - character/guido_franceschini
+  - concept/truth
+  - concept/justice_right_and_wrong
+  - concept/immortality_of_the_soul
+  - concept/grief_and_loss
+  - concept/faith_and_doubt
+  - concept/self_sacrifice
+  - concept/optimism
+  - topos/carpe_diem
+  - topos/poet_as_prophet
+  - motif/imprisonment_2
+  - motif/letters_and_writing
+  - motif/journey
+  - motif/marriage
+  - setting/venice
+  - setting/london
+  - archetype/tyrant
+  - archetype/lover
+  - form/epic
+  - form/history_play
+  - form/sonnet
+  - histref/french_revolution
+  - histref/romantic_movement_sensibility
+  - histref/puritanism
 ---
 
 *by Chesterton*  ·  **Cluster:** [[Artist and Society · Truth · Regency Georgian England]]
@@ -41,10 +70,18 @@ tags:
 
 ## Connections
 
-**Themes & Concepts:** [[Artist and Society]], [[Imagination]], [[Joy]], [[Romantic Love]], [[Marriage and Fidelity]], [[Grotesque]], [[Wonder and Gratitude]], [[Paradox]]
-**Forms & Genres:** [[Biography]], [[Literary Criticism]], [[Dramatic Monologue]]
-**Historical References:** [[Regency Georgian England]]
-**Settings:** [[Italy]]
+**Archetypes:** [[Tyrant]], [[Lover]]
+
+**Motifs:** [[Imprisonment (2)]], [[Letters and Writing]], [[Journey]], [[Marriage]]
+
+**Topoi:** [[Carpe Diem]], [[Poet as Prophet]]
+
+**Characters:** [[Caliban]], [[Elizabeth Barrett Browning]], [[Edward Moulton Barrett]], [[Pompilia]], [[Giuseppe Caponsacchi]], [[Guido Franceschini]]
+
+**Themes & Concepts:** [[Artist and Society]], [[Imagination]], [[Joy]], [[Romantic Love]], [[Marriage and Fidelity]], [[Grotesque]], [[Wonder and Gratitude]], [[Paradox]], [[Truth]], [[Justice Right and Wrong]], [[Immortality of the Soul]], [[Grief and Loss]], [[Faith and Doubt]], [[Self-Sacrifice]], [[Optimism]]
+**Forms & Genres:** [[Biography]], [[Literary Criticism]], [[Dramatic Monologue]], [[Epic]], [[History Play]], [[Sonnet]]
+**Historical References:** [[Regency Georgian England]], [[French Revolution]], [[Romantic Movement (Sensibility)]], [[Puritanism]]
+**Settings:** [[Italy]], [[Venice]], [[London]]
 
 ## Chapters / scenes / sections
 

@@ -16,6 +16,11 @@ tags:
   - concept/appearance_vs_reality
   - motif/food_feasting
   - histref/the_french_revolution
+  - concept/democracy
+  - concept/secrecy_and_concealment
+  - motif/secrets
+  - archetype/common_man_2
+  - histref/tennyson
 ---
 
 *by Chesterton*  ·  **Cluster:** [[Essay · Critique of Progress · Common Man]]
@@ -29,10 +34,12 @@ tags:
 
 ## Connections
 
-**Motifs:** [[Food and Feasting]]
-**Themes & Concepts:** [[Satire of Society]], [[Critique of Progress]], [[Class Conflict]], [[Paradox]], [[Appearance vs Reality]]
+**Archetypes:** [[Common Man (2)]]
+
+**Motifs:** [[Food and Feasting]], [[Secrets]]
+**Themes & Concepts:** [[Satire of Society]], [[Critique of Progress]], [[Class Conflict]], [[Paradox]], [[Appearance vs Reality]], [[Democracy]], [[Secrecy and Concealment]]
 **Forms & Genres:** [[Essay]], [[Satire]]
-**Historical References:** [[French Revolution]]
+**Historical References:** [[French Revolution]], [[Tennyson]]
 
 ## Chapters / scenes / sections
 

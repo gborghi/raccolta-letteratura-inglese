@@ -20,6 +20,24 @@ tags:
   - character/falstaff
   - character/don_quixote
   - archetype/fool
+  - character/odysseus_ulysses
+  - character/councillor_pleydell
+  - concept/truth
+  - concept/pride
+  - concept/self_knowledge
+  - topos/world_upside_down
+  - archetype/trickster
+  - form/satire
+  - form/fairy_tale_fantasy
+  - form/epic
+  - histref/medieval_england
+  - histref/ancient_greece
+  - histref/elizabethan_england
+  - histref/bible
+  - histref/voltaire
+  - histref/chaucer
+  - histref/rabelais
+  - histref/cervantes
 ---
 
 *by Chesterton*  ·  **Cluster:** [[Artist and Society · Truth · Regency Georgian England]]
@@ -33,11 +51,13 @@ tags:
 
 ## Connections
 
-**Archetypes:** [[Fool]]
-**Themes & Concepts:** [[Humility]], [[Artist and Society]], [[Paradox]], [[Justice Right and Wrong]], [[Grotesque]]
-**Forms & Genres:** [[Literary Criticism]], [[Essay]], [[Comedy]]
-**Historical References:** [[Classical Antiquity]], [[Renaissance]]
-**Characters:** [[Falstaff]], [[Don Quixote]]
+**Topoi:** [[World Upside Down]]
+
+**Archetypes:** [[Fool]], [[Trickster]]
+**Themes & Concepts:** [[Humility]], [[Artist and Society]], [[Paradox]], [[Justice Right and Wrong]], [[Grotesque]], [[Truth]], [[Pride]], [[Self-Knowledge]]
+**Forms & Genres:** [[Literary Criticism]], [[Essay]], [[Comedy]], [[Satire]], [[Fairy Tale Fantasy]], [[Epic]]
+**Historical References:** [[Classical Antiquity]], [[Renaissance]], [[Medieval England]], [[Ancient Greece]], [[Elizabethan England]], [[Bible]], [[Voltaire]], [[Chaucer]], [[Rabelais]], [[Cervantes]]
+**Characters:** [[Falstaff]], [[Don Quixote]], [[Odysseus Ulysses]], [[Councillor Pleydell]]
 
 ## Chapters / scenes / sections
 

@@ -15,6 +15,17 @@ tags:
   - concept/power_and_corruption
   - concept/distributism
   - form/essay
+  - concept/democracy
+  - concept/critique_of_progress
+  - concept/common_man
+  - concept/nationalism_and_patriotism
+  - concept/freedom
+  - concept/satire_of_society
+  - motif/home
+  - archetype/common_man_2
+  - histref/ancient_rome
+  - histref/medieval_england
+  - histref/first_world_war
 ---
 
 # Divorce Democracy
@@ -30,8 +41,12 @@ tags:
 
 ## Connections
 
-**Motifs:** [[Marriage]]
-**Themes & Concepts:** [[Marriage and Fidelity]], [[Class Conflict]], [[Social Injustice]], [[Poverty]], [[Power and Corruption]], [[Distributism]]
+**Historical References:** [[Ancient Rome]], [[Medieval England]], [[First World War]]
+
+**Archetypes:** [[Common Man (2)]]
+
+**Motifs:** [[Marriage]], [[Home]]
+**Themes & Concepts:** [[Marriage and Fidelity]], [[Class Conflict]], [[Social Injustice]], [[Poverty]], [[Power and Corruption]], [[Distributism]], [[Democracy]], [[Critique of Progress]], [[Common Man]], [[Nationalism and Patriotism]], [[Freedom]], [[Satire of Society]]
 **Forms & Genres:** [[Essay]]
 
 ## Testo integrale / Full text

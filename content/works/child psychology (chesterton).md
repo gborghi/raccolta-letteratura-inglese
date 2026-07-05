@@ -17,6 +17,16 @@ tags:
   - motif/childhood
   - archetype/child
   - motif/moon
+  - character/stevenson
+  - concept/education
+  - concept/literary_criticism_2
+  - concept/paradox
+  - topos/world_upside_down
+  - motif/animals
+  - motif/music_and_song
+  - motif/dance
+  - form/literary_criticism
+  - histref/bible
 ---
 
 # child psychology
@@ -32,10 +42,16 @@ tags:
 
 ## Connections
 
+**Historical References:** [[Bible]]
+
+**Topoi:** [[World Upside Down]]
+
+**Characters:** [[Stevenson]]
+
 **Archetypes:** [[Child]]
-**Motifs:** [[Childhood]], [[Moon]]
-**Themes & Concepts:** [[Imagination]], [[Innocence and Experience]], [[Maturation and Growth]], [[Satire of Society]], [[Critique of Progress]]
-**Forms & Genres:** [[Essay]], [[Satire]]
+**Motifs:** [[Childhood]], [[Moon]], [[Animals]], [[Music and Song]], [[Dance]]
+**Themes & Concepts:** [[Imagination]], [[Innocence and Experience]], [[Maturation and Growth]], [[Satire of Society]], [[Critique of Progress]], [[Education]], [[Literary Criticism (2)]], [[Paradox]]
+**Forms & Genres:** [[Essay]], [[Satire]], [[Literary Criticism]]
 
 ## Chapters / scenes / sections
 

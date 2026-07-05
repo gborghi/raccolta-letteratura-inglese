@@ -16,6 +16,16 @@ tags:
   - concept/the_artist_and_society
   - topos/world_upside_down
   - concept/satire_of_society
+  - concept/power_of_language
+  - concept/creative_sterility
+  - concept/nonsense
+  - form/epigram
+  - histref/lewis_carroll
+  - histref/edward_lear
+  - histref/bernard_shaw
+  - histref/oscar_wilde
+  - histref/friedrich_nietzsche
+  - histref/holbrook_jackson
 ---
 
 *by Chesterton*  ·  **Cluster:** [[Artist and Society · Truth · Regency Georgian England]]
@@ -29,9 +39,11 @@ tags:
 
 ## Connections
 
+**Historical References:** [[Lewis Carroll]], [[Edward Lear]], [[Bernard Shaw]], [[Oscar Wilde]], [[Friedrich Nietzsche]], [[Holbrook Jackson]]
+
 **Topoi:** [[World Upside Down]]
-**Themes & Concepts:** [[Paradox]], [[Imagination]], [[Truth]], [[Artist and Society]], [[Satire of Society]]
-**Forms & Genres:** [[Essay]], [[Literary Criticism]], [[Aphorism]]
+**Themes & Concepts:** [[Paradox]], [[Imagination]], [[Truth]], [[Artist and Society]], [[Satire of Society]], [[Power of Language]], [[Creative Sterility]], [[Nonsense]]
+**Forms & Genres:** [[Essay]], [[Literary Criticism]], [[Aphorism]], [[Epigram]]
 
 ## Chapters / scenes / sections
 

@@ -16,6 +16,26 @@ tags:
   - concept/sin_and_the_fall
   - concept/faith
   - concept/the_natural_order
+  - character/beatrice
+  - concept/union
+  - concept/democracy
+  - concept/eastern_religion_and_asceticism
+  - concept/paganism_and_classical_revival
+  - concept/justice_right_and_wrong
+  - concept/reform
+  - concept/order_vs_chaos
+  - concept/labor_and_work
+  - concept/distributism
+  - concept/conformity_vs_individualism
+  - motif/nature
+  - motif/prayer
+  - archetype/common_man_2
+  - archetype/prophet
+  - histref/dante
+  - histref/bible
+  - histref/christianity
+  - histref/eastern_religion_comparative_religion
+  - histref/thomas_aquinas
 ---
 
 *by Chesterton*  ·  **Cluster:** [[Essay · Critique of Progress · Common Man]]
@@ -29,7 +49,15 @@ tags:
 
 ## Connections
 
-**Themes & Concepts:** [[Wonder and Gratitude]], [[Critique of Progress]], [[Paradox]], [[Joy]], [[Common Man]], [[Sin and the Fall]], [[Faith]], [[Natural Order]]
+**Historical References:** [[Dante]], [[Bible]], [[Christianity]], [[Eastern Religion Comparative Religion]], [[Thomas Aquinas]]
+
+**Archetypes:** [[Common Man (2)]], [[Prophet]]
+
+**Motifs:** [[Nature]], [[Prayer]]
+
+**Characters:** [[Beatrice]]
+
+**Themes & Concepts:** [[Wonder and Gratitude]], [[Critique of Progress]], [[Paradox]], [[Joy]], [[Common Man]], [[Sin and the Fall]], [[Faith]], [[Natural Order]], [[Union]], [[Democracy]], [[Eastern Religion and Asceticism]], [[Paganism and Classical Revival]], [[Justice Right and Wrong]], [[Reform]], [[Order vs Chaos]], [[Labor and Work]], [[Distributism]], [[Conformity vs Individualism]]
 **Forms & Genres:** [[Essay]]
 
 ## Testo integrale / Full text

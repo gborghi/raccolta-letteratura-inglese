@@ -17,6 +17,34 @@ tags:
   - concept/marriage_and_fidelity
   - histref/the_renaissance
   - histref/dante
+  - character/beatrice
+  - character/hamlet
+  - concept/paganism_and_classical_revival
+  - concept/democracy
+  - concept/freedom_and_liberty
+  - concept/education
+  - topos/eternal_return
+  - topos/golden_age
+  - topos/fortune_s_wheel
+  - topos/sic_transit_gloria_mundi
+  - motif/clothing_and_costume
+  - motif/nakedness
+  - setting/venice
+  - setting/italy
+  - setting/canada
+  - archetype/wise_old_man_sage
+  - form/aphorism
+  - form/travel_writing
+  - histref/italy_reference
+  - histref/french_revolution
+  - histref/puritanism
+  - histref/medieval_england
+  - histref/algernon_charles_swinburne
+  - histref/t_s_eliot
+  - histref/napoleon
+  - histref/michelangelo
+  - histref/petrarch
+  - histref/thomas_aquinas
 ---
 
 # GKC All is Grist
@@ -35,9 +63,19 @@ tags:
 
 ## Connections
 
-**Themes & Concepts:** [[Paradox]], [[Satire of Society]], [[Critique of Progress]], [[Artist and Society]], [[Marriage and Fidelity]]
-**Forms & Genres:** [[Essay]], [[Satire]], [[Literary Criticism]]
-**Historical References:** [[Renaissance]], [[Dante]]
+**Archetypes:** [[Wise Old Man Sage]]
+
+**Settings:** [[Venice]], [[Italy]], [[Canada]]
+
+**Motifs:** [[Clothing and Costume]], [[Nakedness]]
+
+**Topoi:** [[Eternal Return]], [[Golden Age]], [[Fortune's Wheel]], [[Sic Transit Gloria Mundi]]
+
+**Characters:** [[Beatrice]], [[Hamlet]]
+
+**Themes & Concepts:** [[Paradox]], [[Satire of Society]], [[Critique of Progress]], [[Artist and Society]], [[Marriage and Fidelity]], [[Paganism and Classical Revival]], [[Democracy]], [[Freedom and Liberty]], [[Education]]
+**Forms & Genres:** [[Essay]], [[Satire]], [[Literary Criticism]], [[Aphorism]], [[Travel Writing]]
+**Historical References:** [[Renaissance]], [[Dante]], [[Italy reference]], [[French Revolution]], [[Puritanism]], [[Medieval England]], [[Algernon Charles Swinburne]], [[T. S. Eliot]], [[Napoleon]], [[Michelangelo]], [[Petrarch]], [[Thomas Aquinas]]
 
 ## Chapters / scenes / sections
 

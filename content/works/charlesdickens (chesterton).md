@@ -21,6 +21,45 @@ tags:
   - motif/the_city
   - motif/money_gold
   - concept/poverty
+  - character/samuel_pickwick
+  - character/sam_weller
+  - character/wilkins_micawber
+  - character/nicholas_nickleby
+  - character/oliver_twist
+  - character/david_copperfield
+  - character/fagin
+  - character/seth_pecksniff
+  - character/daniel_quilp
+  - character/wackford_squeers
+  - character/sairey_gamp
+  - character/ebenezer_scrooge
+  - character/mr_bumble
+  - character/dick_swiveller
+  - character/paul_dombey
+  - character/mr_sapsea
+  - character/susan_nipper
+  - character/vincent_crummles
+  - character/harold_skimpole
+  - character/amy_dorrit
+  - character/edward_murdstone
+  - character/dora_spenlow
+  - character/agnes_wickfield
+  - character/miss_havisham
+  - character/pip
+  - character/mr_toots
+  - character/mr_guppy
+  - character/uncle_pumblechook
+  - concept/democracy
+  - concept/grotesque
+  - concept/imprisonment
+  - concept/optimism
+  - motif/fog_and_smoke
+  - motif/prison
+  - archetype/fool
+  - form/melodrama
+  - form/christmas_story_novella
+  - histref/america
+  - histref/french_revolution
 ---
 
 # CharlesDickens
@@ -50,10 +89,14 @@ tags:
 
 ## Connections
 
-**Motifs:** [[City]], [[Money and Gold]]
-**Themes & Concepts:** [[Common Man]], [[Social Injustice]], [[Artist and Society]], [[Joy]], [[Reform]], [[Heroism]], [[Poverty]]
-**Forms & Genres:** [[Biography]], [[Literary Criticism]]
-**Historical References:** [[Regency Georgian England]], [[Industrial Revolution]]
+**Archetypes:** [[Fool]]
+
+**Characters:** [[Samuel Pickwick]], [[Sam Weller]], [[Wilkins Micawber]], [[Nicholas Nickleby]], [[Oliver Twist]], [[David Copperfield]], [[Fagin]], [[Seth Pecksniff]], [[Daniel Quilp]], [[Wackford Squeers]], [[Sairey Gamp]], [[Ebenezer Scrooge]], [[Mr Bumble]], [[Dick Swiveller]], [[Paul Dombey]], [[Mr Sapsea]], [[Susan Nipper]], [[Vincent Crummles]], [[Harold Skimpole]], [[Amy Dorrit]], [[Edward Murdstone]], [[Dora Spenlow]], [[Agnes Wickfield]], [[Miss Havisham]], [[Pip]], [[Mr. Toots]], [[Mr. Guppy]], [[Uncle Pumblechook]]
+
+**Motifs:** [[City]], [[Money and Gold]], [[Fog and Smoke]], [[Prison]]
+**Themes & Concepts:** [[Common Man]], [[Social Injustice]], [[Artist and Society]], [[Joy]], [[Reform]], [[Heroism]], [[Poverty]], [[Democracy]], [[Grotesque]], [[Imprisonment]], [[Optimism]]
+**Forms & Genres:** [[Biography]], [[Literary Criticism]], [[Melodrama]], [[Christmas Story Novella]]
+**Historical References:** [[Regency Georgian England]], [[Industrial Revolution]], [[America]], [[French Revolution]]
 **Settings:** [[London]]
 
 ## Chapters / scenes / sections

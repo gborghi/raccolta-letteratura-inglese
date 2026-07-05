@@ -17,6 +17,58 @@ tags:
   - concept/imagination
   - histref/victorian_england
   - form/biography
+  - character/king_alfred_2
+  - character/christ
+  - character/charlotte_bront
+  - character/william_morris
+  - character/lord_byron
+  - character/alexander_pope
+  - character/st_francis_of_assisi
+  - character/robert_louis_stevenson
+  - character/edmond_rostand
+  - character/charles_ii
+  - character/thomas_carlyle
+  - character/leo_tolstoy
+  - character/girolamo_savonarola
+  - character/sir_walter_scott
+  - character/bret_harte
+  - character/maurice_maeterlinck
+  - character/john_ruskin
+  - character/queen_victoria
+  - character/kaiser_wilhelm_ii_the_german_emperor
+  - character/alfred_lord_tennyson
+  - character/elizabeth_barrett_browning
+  - character/cyrano_de_bergerac
+  - concept/democracy
+  - concept/doubt
+  - concept/self_denial_and_renunciation
+  - concept/nature_vs_civilization
+  - concept/kingship_and_legitimacy
+  - concept/nationalism_and_patriotism
+  - concept/power_of_language
+  - concept/vanity
+  - concept/individualism
+  - concept/optimism_and_pessimism
+  - concept/hero_worship
+  - concept/the_spirit_of_romance
+  - topos/poet_as_prophet
+  - motif/crown
+  - motif/court_2
+  - setting/italy
+  - setting/medieval_england_2
+  - setting/germany
+  - archetype/king
+  - archetype/prophet
+  - form/satire
+  - form/verse_drama
+  - histref/puritanism
+  - histref/renaissance
+  - histref/christianity
+  - histref/napoleonic_wars_the_navy
+  - histref/medieval_england
+  - histref/danish_invasions
+  - histref/battle_of_ethandun
+  - histref/king_alfred
 ---
 
 # VariedTypes
@@ -32,9 +84,19 @@ tags:
 
 ## Connections
 
-**Themes & Concepts:** [[Artist and Society]], [[Truth]], [[Appearance vs Reality]], [[Common Man]], [[Beauty]], [[Imagination]]
-**Forms & Genres:** [[Literary Criticism]], [[Essay]], [[Biography]]
-**Historical References:** [[Regency Georgian England]]
+**Archetypes:** [[King]], [[Prophet]]
+
+**Settings:** [[Italy]], [[Medieval England (2)]], [[Germany]]
+
+**Motifs:** [[Crown]], [[Court (2)]]
+
+**Topoi:** [[Poet as Prophet]]
+
+**Characters:** [[King Alfred (2)]], [[Christ]], [[Charlotte Brontë]], [[William Morris]], [[Lord Byron]], [[Alexander Pope]], [[St. Francis of Assisi]], [[Robert Louis Stevenson]], [[Edmond Rostand]], [[Charles II]], [[Thomas Carlyle]], [[Leo Tolstoy]], [[Girolamo Savonarola]], [[Sir Walter Scott]], [[Bret Harte]], [[Maurice Maeterlinck]], [[John Ruskin]], [[Queen Victoria]], [[Kaiser Wilhelm II (the German Emperor)]], [[Alfred Lord Tennyson]], [[Elizabeth Barrett Browning]], [[Cyrano de Bergerac]]
+
+**Themes & Concepts:** [[Artist and Society]], [[Truth]], [[Appearance vs Reality]], [[Common Man]], [[Beauty]], [[Imagination]], [[Democracy]], [[Doubt]], [[Self-Denial and Renunciation]], [[Nature vs Civilization]], [[Kingship and Legitimacy]], [[Nationalism and Patriotism]], [[Power of Language]], [[Vanity]], [[Individualism]], [[Optimism and Pessimism]], [[Hero Worship]], [[The Spirit of Romance]]
+**Forms & Genres:** [[Literary Criticism]], [[Essay]], [[Biography]], [[Satire]], [[Verse Drama]]
+**Historical References:** [[Regency Georgian England]], [[Puritanism]], [[Renaissance]], [[Christianity]], [[Napoleonic Wars the Navy]], [[Medieval England]], [[Danish Invasions]], [[Battle of Ethandun]], [[King Alfred]]
 
 ## Chapters / scenes / sections
 

@@ -16,6 +16,48 @@ tags:
   - concept/critique_of_progress
   - concept/doubt
   - form/verse_drama
+  - character/julius_caesar
+  - character/cleopatra
+  - character/hamlet
+  - character/george_bernard_shaw
+  - character/william_shakespeare
+  - character/henrik_ibsen
+  - character/friedrich_nietzsche
+  - character/oscar_wilde
+  - character/jonathan_swift
+  - character/napoleon_bonaparte
+  - character/charles_stewart_parnell
+  - character/candida
+  - character/mrs_warren
+  - concept/marriage_and_fidelity
+  - concept/nationalism_and_patriotism
+  - concept/democracy
+  - concept/poverty
+  - concept/war_and_its_cost
+  - concept/resurrection
+  - concept/fanaticism
+  - concept/vanity
+  - concept/creative_evolution_and_the_superman
+  - topos/all_the_world_s_a_stage
+  - topos/world_upside_down
+  - topos/vanitas
+  - topos/poet_as_prophet
+  - motif/wine_and_drink
+  - motif/music_and_song
+  - motif/animals
+  - motif/home
+  - setting/london
+  - setting/ancient_rome
+  - setting/egypt
+  - setting/germany
+  - setting/ireland
+  - archetype/orphan
+  - archetype/prophet
+  - archetype/rebel
+  - form/epigram
+  - form/satire
+  - form/problem_play
+  - histref/first_world_war
 ---
 
 # Shaw
@@ -39,9 +81,19 @@ tags:
 
 ## Connections
 
-**Themes & Concepts:** [[Artist and Society]], [[Paradox]], [[Critique of Progress]], [[Doubt]]
-**Forms & Genres:** [[Biography]], [[Literary Criticism]], [[Verse Drama]]
-**Historical References:** [[Puritanism]], [[Irish Question]]
+**Archetypes:** [[Orphan]], [[Prophet]], [[Rebel]]
+
+**Settings:** [[London]], [[Ancient Rome]], [[Egypt]], [[Germany]], [[Ireland]]
+
+**Motifs:** [[Wine and Drink]], [[Music and Song]], [[Animals]], [[Home]]
+
+**Topoi:** [[All the World's a Stage]], [[World Upside Down]], [[Vanitas]], [[Poet as Prophet]]
+
+**Characters:** [[Julius Caesar]], [[Cleopatra]], [[Hamlet]], [[George Bernard Shaw]], [[William Shakespeare]], [[Henrik Ibsen]], [[Friedrich Nietzsche]], [[Oscar Wilde]], [[Jonathan Swift]], [[Napoleon Bonaparte]], [[Charles Stewart Parnell]], [[Candida]], [[Mrs. Warren]]
+
+**Themes & Concepts:** [[Artist and Society]], [[Paradox]], [[Critique of Progress]], [[Doubt]], [[Marriage and Fidelity]], [[Nationalism and Patriotism]], [[Democracy]], [[Poverty]], [[War and its Cost]], [[Resurrection]], [[Fanaticism]], [[Vanity]], [[Creative Evolution and the Superman]]
+**Forms & Genres:** [[Biography]], [[Literary Criticism]], [[Verse Drama]], [[Epigram]], [[Satire]], [[Problem Play]]
+**Historical References:** [[Puritanism]], [[Irish Question]], [[First World War]]
 
 ## Chapters / scenes / sections
 

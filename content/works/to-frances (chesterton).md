@@ -13,6 +13,31 @@ tags:
   - concept/marriage_and_fidelity
   - motif/letters_writing
   - motif/marriage
+  - character/death_personified
+  - character/frances_blogg
+  - character/edmund_clerihew_bentley
+  - character/lucian_oldershaw
+  - character/mrs_blogg
+  - concept/death_and_love
+  - concept/metamorphosis_transformation
+  - concept/imagination
+  - concept/friendship
+  - topos/love_as_religion
+  - topos/journey_of_life
+  - topos/memento_mori
+  - motif/home
+  - motif/clothing_and_costume
+  - motif/book_reading
+  - motif/fire
+  - motif/sea
+  - setting/sea_2
+  - setting/london
+  - archetype/death_personified_2
+  - archetype/lover
+  - archetype/fool
+  - form/biography
+  - histref/bible
+  - histref/christianity
 ---
 
 # to-frances
@@ -28,8 +53,20 @@ tags:
 
 ## Connections
 
-**Motifs:** [[Letters and Writing]], [[Marriage]]
-**Themes & Concepts:** [[Romantic Love]], [[Wonder and Gratitude]], [[Mortality]], [[Marriage and Fidelity]]
+**Historical References:** [[Bible]], [[Christianity]]
+
+**Forms & Genres:** [[Biography]]
+
+**Archetypes:** [[Death Personified (2)]], [[Lover]], [[Fool]]
+
+**Settings:** [[Sea (2)]], [[London]]
+
+**Topoi:** [[Love as Religion]], [[Journey of Life]], [[Memento Mori]]
+
+**Characters:** [[Death Personified]], [[Frances Blogg]], [[Edmund Clerihew Bentley]], [[Lucian Oldershaw]], [[Mrs. Blogg]]
+
+**Motifs:** [[Letters and Writing]], [[Marriage]], [[Home]], [[Clothing and Costume]], [[Book Reading]], [[Fire]], [[Sea]]
+**Themes & Concepts:** [[Romantic Love]], [[Wonder and Gratitude]], [[Mortality]], [[Marriage and Fidelity]], [[Death and Love]], [[Metamorphosis Transformation]], [[Imagination]], [[Friendship]]
 
 ## Testo integrale / Full text
 

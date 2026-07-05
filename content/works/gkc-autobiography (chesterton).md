@@ -19,6 +19,25 @@ tags:
   - motif/memory
   - setting/london
   - histref/catholic_church
+  - character/hilaire_belloc
+  - character/cecil_chesterton
+  - character/h_g_wells
+  - character/george_bernard_shaw
+  - character/e_c_bentley
+  - concept/doubt
+  - concept/imagination
+  - concept/power_and_corruption
+  - concept/nationalism_and_patriotism
+  - concept/war_and_its_cost
+  - motif/journey
+  - motif/the_golden_key
+  - setting/america
+  - setting/oxford
+  - setting/jerusalem
+  - archetype/pilgrim
+  - form/apologetics
+  - histref/first_world_war
+  - histref/marconi_scandal
 ---
 
 # GKC-Autobiography
@@ -49,11 +68,15 @@ tags:
 
 ## Connections
 
-**Motifs:** [[Childhood]], [[Memory]]
-**Themes & Concepts:** [[Conversion]], [[Faith]], [[Memory and Time]], [[Maturation and Growth]], [[Friendship]], [[Paradox]], [[Wonder and Gratitude]]
-**Forms & Genres:** [[Fictional Autobiography]]
-**Historical References:** [[Catholic Church]]
-**Settings:** [[London]]
+**Archetypes:** [[Pilgrim]]
+
+**Characters:** [[Hilaire Belloc]], [[Cecil Chesterton]], [[H. G. Wells]], [[George Bernard Shaw]], [[E. C. Bentley]]
+
+**Motifs:** [[Childhood]], [[Memory]], [[Journey]], [[The Golden Key]]
+**Themes & Concepts:** [[Conversion]], [[Faith]], [[Memory and Time]], [[Maturation and Growth]], [[Friendship]], [[Paradox]], [[Wonder and Gratitude]], [[Doubt]], [[Imagination]], [[Power and Corruption]], [[Nationalism and Patriotism]], [[War and its Cost]]
+**Forms & Genres:** [[Fictional Autobiography]], [[Apologetics]]
+**Historical References:** [[Catholic Church]], [[First World War]], [[Marconi Scandal]]
+**Settings:** [[London]], [[America]], [[Oxford]], [[Jerusalem]]
 
 ## Testo integrale / Full text
 

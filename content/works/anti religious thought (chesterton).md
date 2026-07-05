@@ -17,6 +17,20 @@ tags:
   - histref/the_romantic_movement
   - histref/christianity
   - histref/catholic_church
+  - character/voltaire
+  - character/rousseau
+  - character/montaigne
+  - concept/reform
+  - concept/fanaticism
+  - concept/war_and_its_cost
+  - topos/golden_age
+  - setting/paris
+  - histref/renaissance
+  - histref/spanish_inquisition
+  - histref/thirty_years_war
+  - histref/islam
+  - histref/puritanism
+  - histref/ancient_rome
 ---
 
 # anti religious thought
@@ -32,9 +46,15 @@ tags:
 
 ## Connections
 
-**Themes & Concepts:** [[Faith and Doubt]], [[Doubt]], [[Critique of Progress]]
+**Settings:** [[Paris]]
+
+**Topoi:** [[Golden Age]]
+
+**Characters:** [[Voltaire]], [[Rousseau]], [[Montaigne]]
+
+**Themes & Concepts:** [[Faith and Doubt]], [[Doubt]], [[Critique of Progress]], [[Reform]], [[Fanaticism]], [[War and its Cost]]
 **Forms & Genres:** [[Essay]], [[Apologetics]]
-**Historical References:** [[Reformation]], [[French Revolution]], [[Romantic Movement (Sensibility)]], [[Christianity]], [[Catholic Church]]
+**Historical References:** [[Reformation]], [[French Revolution]], [[Romantic Movement (Sensibility)]], [[Christianity]], [[Catholic Church]], [[Renaissance]], [[Spanish Inquisition]], [[Thirty Years' War]], [[Islam]], [[Puritanism]], [[Ancient Rome]]
 
 ## Chapters / scenes / sections
 

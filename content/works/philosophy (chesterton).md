@@ -13,6 +13,13 @@ tags:
   - concept/faith
   - concept/fate_and_free_will
   - concept/education
+  - concept/perception_and_consciousness
+  - concept/appearance_vs_reality
+  - concept/self
+  - concept/critique_of_progress
+  - concept/common_man
+  - form/apologetics
+  - histref/christianity
 ---
 
 # philosophy
@@ -28,8 +35,10 @@ tags:
 
 ## Connections
 
-**Themes & Concepts:** [[Truth]], [[Doubt]], [[Faith]], [[Fate and Free Will]], [[Education]]
-**Forms & Genres:** [[Essay]]
+**Historical References:** [[Christianity]]
+
+**Themes & Concepts:** [[Truth]], [[Doubt]], [[Faith]], [[Fate and Free Will]], [[Education]], [[Perception and Consciousness]], [[Appearance vs Reality]], [[Self]], [[Critique of Progress]], [[Common Man]]
+**Forms & Genres:** [[Essay]], [[Apologetics]]
 
 ## Chapters / scenes / sections
 

@@ -18,6 +18,35 @@ tags:
   - motif/birds
   - archetype/detective
   - archetype/fool
+  - character/gabriel_gale
+  - character/dr_garth
+  - character/james_hurrel
+  - character/lady_diana_westermaine
+  - concept/appearance_vs_reality
+  - concept/paradox
+  - concept/freedom_and_liberty
+  - concept/identity
+  - concept/self_and_cosmos
+  - concept/faith_and_doubt
+  - concept/crime_and_punishment
+  - topos/world_upside_down
+  - topos/double
+  - motif/feigned_madness
+  - motif/concealment_hidden_identity
+  - motif/prison
+  - motif/stone_and_marble
+  - motif/storm
+  - setting/rural_england
+  - setting/cathedral
+  - setting/garden_2
+  - archetype/artist
+  - archetype/double_doppelganger
+  - form/parable
+  - histref/bible
+  - histref/christianity
+  - histref/catholic_church
+  - histref/french_revolution
+  - histref/medieval_england
 ---
 
 # Poet and Lunatics
@@ -40,10 +69,18 @@ tags:
 
 ## Connections
 
-**Archetypes:** [[Detective]], [[Fool]]
-**Motifs:** [[Supernatural]], [[Inn Tavern]], [[Birds]]
-**Themes & Concepts:** [[Madness]], [[Ratiocination Detection]], [[Imagination]], [[Good vs Evil]]
-**Forms & Genres:** [[Detective Fiction]], [[Short Story]]
+**Historical References:** [[Bible]], [[Christianity]], [[Catholic Church]], [[French Revolution]], [[Medieval England]]
+
+**Settings:** [[Rural England]], [[Cathedral]], [[Garden (2)]]
+
+**Topoi:** [[World Upside Down]], [[Double]]
+
+**Characters:** [[Gabriel Gale]], [[Dr. Garth]], [[James Hurrel]], [[Lady Diana Westermaine]]
+
+**Archetypes:** [[Detective]], [[Fool]], [[Artist]], [[Double Doppelganger]]
+**Motifs:** [[Supernatural]], [[Inn Tavern]], [[Birds]], [[Feigned Madness]], [[Concealment Hidden Identity]], [[Prison]], [[Stone and Marble]], [[Storm]]
+**Themes & Concepts:** [[Madness]], [[Ratiocination Detection]], [[Imagination]], [[Good vs Evil]], [[Appearance vs Reality]], [[Paradox]], [[Freedom and Liberty]], [[Identity]], [[Self and Cosmos]], [[Faith and Doubt]], [[Crime and Punishment]]
+**Forms & Genres:** [[Detective Fiction]], [[Short Story]], [[Parable]]
 
 ## Chapters / scenes / sections
 

@@ -22,6 +22,36 @@ tags:
   - motif/fire
   - motif/swords_weapons
   - histref/the_french_revolution
+  - character/godfrey_de_bouillon
+  - character/peter_the_hermit
+  - character/ezra_pound
+  - character/tancred
+  - character/voltaire
+  - character/kaiser_wilhelm_ii
+  - concept/democracy
+  - concept/class_conflict
+  - concept/nationalism_and_patriotism
+  - concept/fanaticism
+  - concept/satire_of_society
+  - concept/reason_and_rationalism
+  - concept/popular_revolution
+  - topos/combat_strife
+  - motif/dust
+  - motif/light_and_dark
+  - motif/garden
+  - motif/hill
+  - motif/wheel
+  - motif/journey
+  - setting/desert
+  - setting/battlefield
+  - setting/jerusalem
+  - archetype/hero
+  - archetype/rebel
+  - archetype/common_man_2
+  - histref/islam
+  - histref/first_world_war
+  - histref/dante
+  - histref/russian_revolution
 ---
 
 # meaning of the crusade
@@ -37,12 +67,16 @@ tags:
 
 ## Connections
 
-**Topoi:** [[Quest]]
-**Archetypes:** [[Pilgrim]]
-**Motifs:** [[Cross]], [[Blood]], [[Fire]], [[Swords and Weapons]]
-**Themes & Concepts:** [[War and its Cost]], [[Heroism]], [[Martyrdom]], [[Faith]], [[Common Man]]
+**Settings:** [[Desert]], [[Battlefield]], [[Jerusalem]]
+
+**Characters:** [[Godfrey de Bouillon]], [[Peter the Hermit]], [[Ezra Pound]], [[Tancred]], [[Voltaire]], [[Kaiser Wilhelm II]]
+
+**Topoi:** [[Quest]], [[Combat Strife]]
+**Archetypes:** [[Pilgrim]], [[Hero]], [[Rebel]], [[Common Man (2)]]
+**Motifs:** [[Cross]], [[Blood]], [[Fire]], [[Swords and Weapons]], [[Dust]], [[Light and Dark]], [[Garden]], [[Hill]], [[Wheel]], [[Journey]]
+**Themes & Concepts:** [[War and its Cost]], [[Heroism]], [[Martyrdom]], [[Faith]], [[Common Man]], [[Democracy]], [[Class Conflict]], [[Nationalism and Patriotism]], [[Fanaticism]], [[Satire of Society]], [[Reason and Rationalism]], [[Popular Revolution]]
 **Forms & Genres:** [[Essay]]
-**Historical References:** [[Crusades]], [[Christianity]], [[French Revolution]]
+**Historical References:** [[Crusades]], [[Christianity]], [[French Revolution]], [[Islam]], [[First World War]], [[Dante]], [[Russian Revolution]]
 
 ## Testo integrale / Full text
 

@@ -13,6 +13,14 @@ tags:
   - concept/joy
   - concept/humility
   - topos/book_of_nature
+  - character/mrs_mountstuart_jenkinson
+  - character/sir_willoughby_patterne
+  - concept/solitude
+  - concept/renunciation
+  - concept/body
+  - form/aphorism
+  - histref/ibsen
+  - histref/william_iii
 ---
 
 # one leg
@@ -28,9 +36,13 @@ tags:
 
 ## Connections
 
+**Historical References:** [[Ibsen]], [[William III]]
+
+**Characters:** [[Mrs. Mountstuart Jenkinson]], [[Sir Willoughby Patterne]]
+
 **Topoi:** [[Book of Nature]]
-**Themes & Concepts:** [[Wonder and Gratitude]], [[Paradox]], [[Joy]], [[Humility]]
-**Forms & Genres:** [[Essay]]
+**Themes & Concepts:** [[Wonder and Gratitude]], [[Paradox]], [[Joy]], [[Humility]], [[Solitude]], [[Renunciation]], [[Body]]
+**Forms & Genres:** [[Essay]], [[Aphorism]]
 
 ## Chapters / scenes / sections
 

@@ -14,6 +14,15 @@ tags:
   - motif/nature
   - histref/the_industrial_revolution
   - form/essay
+  - concept/democracy
+  - concept/order_vs_chaos
+  - concept/money_and_avarice
+  - concept/common_man
+  - topos/sublime_in_nature
+  - motif/machine
+  - motif/light_and_dark
+  - motif/uncanny
+  - setting/enchanted_wood_2
 ---
 
 # telegraph-poles
@@ -29,8 +38,12 @@ tags:
 
 ## Connections
 
-**Motifs:** [[Nature]]
-**Themes & Concepts:** [[Anti-Industrialism]], [[Critique of Progress]], [[Nature vs Civilization]], [[Wonder and Gratitude]]
+**Settings:** [[Enchanted Wood (2)]]
+
+**Topoi:** [[Sublime in Nature]]
+
+**Motifs:** [[Nature]], [[Machine]], [[Light and Dark]], [[Uncanny]]
+**Themes & Concepts:** [[Anti-Industrialism]], [[Critique of Progress]], [[Nature vs Civilization]], [[Wonder and Gratitude]], [[Democracy]], [[Order vs Chaos]], [[Money and Avarice]], [[Common Man]]
 **Forms & Genres:** [[Essay]]
 **Historical References:** [[Industrial Revolution]]
 

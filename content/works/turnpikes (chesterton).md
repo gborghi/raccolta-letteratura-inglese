@@ -16,6 +16,15 @@ tags:
   - concept/justice
   - motif/the_road
   - histref/medieval_england
+  - character/pitt
+  - character/dundas
+  - concept/reform
+  - concept/social_injustice
+  - topos/world_upside_down
+  - motif/machine
+  - form/aphorism
+  - histref/dante
+  - histref/regency_georgian_england
 ---
 
 # turnpikes
@@ -31,10 +40,14 @@ tags:
 
 ## Connections
 
-**Motifs:** [[Road]]
-**Themes & Concepts:** [[Critique of Progress]], [[Anti-Industrialism]], [[Paradox]], [[Satire of Society]], [[Justice Right and Wrong]]
-**Forms & Genres:** [[Essay]], [[Satire]]
-**Historical References:** [[Medieval England]]
+**Topoi:** [[World Upside Down]]
+
+**Characters:** [[Pitt]], [[Dundas]]
+
+**Motifs:** [[Road]], [[Machine]]
+**Themes & Concepts:** [[Critique of Progress]], [[Anti-Industrialism]], [[Paradox]], [[Satire of Society]], [[Justice Right and Wrong]], [[Reform]], [[Social Injustice]]
+**Forms & Genres:** [[Essay]], [[Satire]], [[Aphorism]]
+**Historical References:** [[Medieval England]], [[Dante]], [[Regency Georgian England]]
 
 ## Chapters / scenes / sections
 

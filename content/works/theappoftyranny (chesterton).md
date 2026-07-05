@@ -14,6 +14,37 @@ tags:
   - archetype/tyrant
   - histref/the_first_world_war
   - concept/nationalism_and_patriotism
+  - concept/honour
+  - concept/liberty_political_freedom
+  - concept/democracy
+  - concept/deception
+  - concept/critique_of_progress
+  - concept/justice_right_and_wrong
+  - concept/racial_supremacy_and_pseudo_science
+  - topos/war_as_glory
+  - motif/swords_and_weapons
+  - motif/flags_and_banners
+  - setting/germany
+  - setting/russia
+  - setting/italy
+  - setting/continental_europe_brussels
+  - archetype/villain
+  - archetype/fool
+  - histref/king_alfred
+  - histref/danish_invasions
+  - histref/french_revolution
+  - histref/napoleonic_wars_the_navy
+  - histref/islam_and_the_east
+  - histref/roman_history
+  - histref/renaissance
+  - histref/christianity
+  - histref/ancient_greece
+  - histref/bible
+  - histref/kaiser_wilhelm_ii
+  - histref/frederick_the_great
+  - histref/friedrich_nietzsche
+  - histref/houston_stewart_chamberlain
+  - histref/michelangelo
 ---
 
 # TheAppOfTyranny
@@ -33,10 +64,16 @@ tags:
 
 ## Connections
 
-**Archetypes:** [[Tyrant]]
-**Themes & Concepts:** [[War and its Cost]], [[Power and Corruption]], [[Order vs Chaos]], [[Nationalism and Patriotism]]
+**Settings:** [[Germany]], [[Russia]], [[Italy]], [[Continental Europe (Brussels)]]
+
+**Motifs:** [[Swords and Weapons]], [[Flags and Banners]]
+
+**Topoi:** [[War as Glory]]
+
+**Archetypes:** [[Tyrant]], [[Villain]], [[Fool]]
+**Themes & Concepts:** [[War and its Cost]], [[Power and Corruption]], [[Order vs Chaos]], [[Nationalism and Patriotism]], [[Honour]], [[Liberty Political Freedom]], [[Democracy]], [[Deception]], [[Critique of Progress]], [[Justice Right and Wrong]], [[Racial Supremacy and Pseudo-Science]]
 **Forms & Genres:** [[Essay]]
-**Historical References:** [[First World War]]
+**Historical References:** [[First World War]], [[King Alfred]], [[Danish Invasions]], [[French Revolution]], [[Napoleonic Wars the Navy]], [[Islam and the East]], [[Roman History]], [[Renaissance]], [[Christianity]], [[Ancient Greece]], [[Bible]], [[Kaiser Wilhelm II]], [[Frederick the Great]], [[Friedrich Nietzsche]], [[Houston Stewart Chamberlain]], [[Michelangelo]]
 
 ## Chapters / scenes / sections
 

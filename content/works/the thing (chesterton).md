@@ -22,6 +22,19 @@ tags:
   - histref/christianity
   - histref/catholic_church
   - histref/the_reformation
+  - character/st_francis_of_assisi
+  - character/st_joan_of_arc
+  - concept/democracy
+  - concept/conformity_vs_individualism
+  - concept/distributism
+  - concept/nationalism_and_patriotism
+  - concept/common_man
+  - motif/home
+  - motif/food_and_feasting
+  - setting/scotland_the_highlands
+  - form/satire
+  - histref/puritanism
+  - histref/islam
 ---
 
 *by Chesterton*  ·  **Cluster:** [[Christianity · Faith and Doubt · Doubt]]
@@ -67,10 +80,14 @@ tags:
 
 ## Connections
 
-**Motifs:** [[Book Reading]]
-**Themes & Concepts:** [[Faith]], [[Faith and Doubt]], [[Conversion]], [[Doubt]], [[Truth]], [[Critique of Progress]], [[Order vs Chaos]], [[Paradox]], [[Satire of Society]]
-**Forms & Genres:** [[Apologetics]], [[Essay]]
-**Historical References:** [[Christianity]], [[Catholic Church]], [[Reformation]]
+**Settings:** [[Scotland the Highlands]]
+
+**Characters:** [[St. Francis of Assisi]], [[St. Joan of Arc]]
+
+**Motifs:** [[Book Reading]], [[Home]], [[Food and Feasting]]
+**Themes & Concepts:** [[Faith]], [[Faith and Doubt]], [[Conversion]], [[Doubt]], [[Truth]], [[Critique of Progress]], [[Order vs Chaos]], [[Paradox]], [[Satire of Society]], [[Democracy]], [[Conformity vs Individualism]], [[Distributism]], [[Nationalism and Patriotism]], [[Common Man]]
+**Forms & Genres:** [[Apologetics]], [[Essay]], [[Satire]]
+**Historical References:** [[Christianity]], [[Catholic Church]], [[Reformation]], [[Puritanism]], [[Islam]]
 
 ## Chapters / scenes / sections
 

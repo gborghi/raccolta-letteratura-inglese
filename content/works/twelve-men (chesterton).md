@@ -16,6 +16,16 @@ tags:
   - concept/critique_of_progress
   - concept/faith
   - histref/christianity
+  - character/christ
+  - concept/courage
+  - concept/democracy
+  - concept/crime_and_punishment
+  - motif/court_2
+  - motif/the_twelve
+  - setting/court
+  - setting/london
+  - archetype/common_man_2
+  - histref/bible
 ---
 
 # twelve-men
@@ -31,9 +41,17 @@ tags:
 
 ## Connections
 
-**Themes & Concepts:** [[Common Man]], [[Justice Right and Wrong]], [[Paradox]], [[Humility]], [[Wonder and Gratitude]], [[Critique of Progress]], [[Faith]]
+**Archetypes:** [[Common Man (2)]]
+
+**Settings:** [[Court]], [[London]]
+
+**Motifs:** [[Court (2)]], [[The Twelve]]
+
+**Characters:** [[Christ]]
+
+**Themes & Concepts:** [[Common Man]], [[Justice Right and Wrong]], [[Paradox]], [[Humility]], [[Wonder and Gratitude]], [[Critique of Progress]], [[Faith]], [[Courage]], [[Democracy]], [[Crime and Punishment]]
 **Forms & Genres:** [[Essay]]
-**Historical References:** [[Christianity]]
+**Historical References:** [[Christianity]], [[Bible]]
 
 ## Chapters / scenes / sections
 

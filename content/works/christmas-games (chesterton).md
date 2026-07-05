@@ -17,6 +17,15 @@ tags:
   - topos/golden_age
   - motif/childhood
   - motif/money_gold
+  - character/sigmund_freud
+  - character/h_g_wells
+  - character/gerald_heard
+  - concept/common_man
+  - concept/paradox
+  - topos/world_upside_down
+  - motif/fire
+  - archetype/trickster
+  - form/parody
 ---
 
 # christmas-games
@@ -32,10 +41,14 @@ tags:
 
 ## Connections
 
-**Topoi:** [[Golden Age]]
-**Motifs:** [[Childhood]], [[Money and Gold]]
-**Themes & Concepts:** [[Imagination]], [[Wonder and Gratitude]], [[Maturation and Growth]], [[Critique of Progress]], [[Distributism]]
-**Forms & Genres:** [[Essay]], [[Satire]]
+**Archetypes:** [[Trickster]]
+
+**Characters:** [[Sigmund Freud]], [[H. G. Wells]], [[Gerald Heard]]
+
+**Topoi:** [[Golden Age]], [[World Upside Down]]
+**Motifs:** [[Childhood]], [[Money and Gold]], [[Fire]]
+**Themes & Concepts:** [[Imagination]], [[Wonder and Gratitude]], [[Maturation and Growth]], [[Critique of Progress]], [[Distributism]], [[Common Man]], [[Paradox]]
+**Forms & Genres:** [[Essay]], [[Satire]], [[Parody]]
 
 ## Chapters / scenes / sections
 

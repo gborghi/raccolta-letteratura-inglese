@@ -24,6 +24,41 @@ tags:
   - motif/birds
   - histref/victorian_england
   - setting/london
+  - character/robin_hood
+  - character/richard_iii
+  - character/julius_caesar
+  - character/elizabeth_bennet
+  - character/fanny_price
+  - character/queen_elizabeth
+  - concept/literary_criticism_2
+  - concept/nationalism_and_patriotism
+  - concept/war_and_its_cost
+  - concept/power_and_corruption
+  - concept/democracy
+  - concept/freedom
+  - concept/anti_industrialism
+  - topos/sic_transit_gloria_mundi
+  - motif/window
+  - motif/stone_and_marble
+  - motif/road
+  - setting/new_york
+  - setting/paris
+  - setting/rural_england
+  - archetype/tyrant
+  - archetype/rebel
+  - form/travel_writing
+  - form/literary_criticism
+  - form/biography
+  - histref/first_world_war
+  - histref/french_revolution
+  - histref/puritanism
+  - histref/medieval_england
+  - histref/napoleonic_wars_the_navy
+  - histref/napoleon
+  - histref/william_penn
+  - histref/ruskin
+  - histref/shelley
+  - histref/jane_austen
 ---
 
 *by Chesterton*  ·  **Cluster:** [[Paradox · Food and Feasting · Aphorism]]
@@ -77,12 +112,16 @@ tags:
 
 ## Connections
 
-**Topoi:** [[Vanitas]], [[Beatus Ille (Happy the Man Rural Retreat)]]
-**Motifs:** [[Food and Feasting]], [[Journey]], [[Birds]]
-**Themes & Concepts:** [[Paradox]], [[Wonder and Gratitude]], [[Satire of Society]], [[Common Man]], [[Critique of Progress]], [[Nature vs Civilization]], [[Artist and Society]]
-**Forms & Genres:** [[Essay]], [[Satire]], [[Aphorism]]
-**Historical References:** [[Regency Georgian England]]
-**Settings:** [[London]]
+**Archetypes:** [[Tyrant]], [[Rebel]]
+
+**Characters:** [[Robin Hood]], [[Richard III]], [[Julius Caesar]], [[Elizabeth Bennet]], [[Fanny Price]], [[Queen Elizabeth]]
+
+**Topoi:** [[Vanitas]], [[Beatus Ille (Happy the Man Rural Retreat)]], [[Sic Transit Gloria Mundi]]
+**Motifs:** [[Food and Feasting]], [[Journey]], [[Birds]], [[Window]], [[Stone and Marble]], [[Road]]
+**Themes & Concepts:** [[Paradox]], [[Wonder and Gratitude]], [[Satire of Society]], [[Common Man]], [[Critique of Progress]], [[Nature vs Civilization]], [[Artist and Society]], [[Literary Criticism (2)]], [[Nationalism and Patriotism]], [[War and its Cost]], [[Power and Corruption]], [[Democracy]], [[Freedom]], [[Anti-Industrialism]]
+**Forms & Genres:** [[Essay]], [[Satire]], [[Aphorism]], [[Travel Writing]], [[Literary Criticism]], [[Biography]]
+**Historical References:** [[Regency Georgian England]], [[First World War]], [[French Revolution]], [[Puritanism]], [[Medieval England]], [[Napoleonic Wars the Navy]], [[Napoleon]], [[William Penn]], [[Ruskin]], [[Shelley]], [[Jane Austen]]
+**Settings:** [[London]], [[New York]], [[Paris]], [[Rural England]]
 
 ## Chapters / scenes / sections
 

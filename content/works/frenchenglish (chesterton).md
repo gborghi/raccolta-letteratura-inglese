@@ -14,6 +14,16 @@ tags:
   - concept/class_conflict
   - histref/the_french_revolution
   - concept/the_artist_and_society
+  - character/sam_weller
+  - character/john_bull
+  - concept/democracy
+  - concept/eastern_religion_and_asceticism
+  - concept/appearance_vs_reality
+  - motif/flowers
+  - motif/great_house
+  - motif/money_and_gold
+  - setting/paris
+  - histref/eastern_religion_comparative_religion
 ---
 
 # frenchenglish
@@ -29,9 +39,15 @@ tags:
 
 ## Connections
 
-**Themes & Concepts:** [[Paradox]], [[Satire of Society]], [[Nationalism and Patriotism]], [[Class Conflict]], [[Artist and Society]]
+**Settings:** [[Paris]]
+
+**Motifs:** [[Flowers]], [[Great House]], [[Money and Gold]]
+
+**Characters:** [[Sam Weller]], [[John Bull]]
+
+**Themes & Concepts:** [[Paradox]], [[Satire of Society]], [[Nationalism and Patriotism]], [[Class Conflict]], [[Artist and Society]], [[Democracy]], [[Eastern Religion and Asceticism]], [[Appearance vs Reality]]
 **Forms & Genres:** [[Essay]]
-**Historical References:** [[French Revolution]]
+**Historical References:** [[French Revolution]], [[Eastern Religion Comparative Religion]]
 
 ## Chapters / scenes / sections
 

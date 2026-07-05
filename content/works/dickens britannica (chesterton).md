@@ -15,6 +15,60 @@ tags:
   - histref/victorian_england
   - setting/london
   - concept/poverty
+  - character/wilkins_micawber
+  - character/william_dorrit
+  - character/samuel_pickwick
+  - character/sam_weller
+  - character/nathaniel_winkle
+  - character/oliver_twist
+  - character/mr_bumble
+  - character/ralph_nickleby
+  - character/vincent_crummles
+  - character/barnaby_rudge
+  - character/dick_swiveller
+  - character/sampson_brass
+  - character/little_nell
+  - character/marchioness
+  - character/martin_chuzzlewit
+  - character/seth_pecksniff
+  - character/sairey_gamp
+  - character/nicodemus_boffin
+  - character/paul_dombey
+  - character/david_copperfield
+  - character/james_steerforth
+  - character/dora_spenlow
+  - character/richard_carstone
+  - character/mrs_jellyby
+  - character/thomas_gradgrind
+  - character/mr_merdle
+  - character/edwin_drood
+  - character/john_dickens
+  - character/catherine_dickens
+  - character/mr_chadband
+  - concept/satire_of_society
+  - concept/reform
+  - concept/imprisonment
+  - concept/greed_and_money
+  - concept/democracy
+  - concept/grotesque
+  - concept/exaggeration
+  - motif/fog_and_smoke
+  - motif/prison
+  - motif/home
+  - setting/america
+  - setting/italy
+  - setting/rural_england
+  - archetype/fool
+  - archetype/self_made_man
+  - form/sketch
+  - form/christmas_story_novella
+  - form/detective_fiction
+  - form/historical_novel
+  - form/bildungsroman
+  - form/social_novel_novel_of_manners
+  - histref/industrial_revolution
+  - histref/french_revolution
+  - histref/puritanism
 ---
 
 # dickens Britannica
@@ -30,10 +84,16 @@ tags:
 
 ## Connections
 
-**Themes & Concepts:** [[Imagination]], [[Artist and Society]], [[Common Man]], [[Poverty]]
-**Forms & Genres:** [[Literary Criticism]], [[Biography]]
-**Historical References:** [[Regency Georgian England]]
-**Settings:** [[London]]
+**Archetypes:** [[Fool]], [[Self-Made Man]]
+
+**Motifs:** [[Fog and Smoke]], [[Prison]], [[Home]]
+
+**Characters:** [[Wilkins Micawber]], [[William Dorrit]], [[Samuel Pickwick]], [[Sam Weller]], [[Nathaniel Winkle]], [[Oliver Twist]], [[Mr Bumble]], [[Ralph Nickleby]], [[Vincent Crummles]], [[Barnaby Rudge]], [[Dick Swiveller]], [[Sampson Brass]], [[Little Nell]], [[Marchioness]], [[Martin Chuzzlewit]], [[Seth Pecksniff]], [[Sairey Gamp]], [[Nicodemus Boffin]], [[Paul Dombey]], [[David Copperfield]], [[James Steerforth]], [[Dora Spenlow]], [[Richard Carstone]], [[Mrs Jellyby]], [[Thomas Gradgrind]], [[Mr Merdle]], [[Edwin Drood]], [[John Dickens]], [[Catherine Dickens]], [[Mr Chadband]]
+
+**Themes & Concepts:** [[Imagination]], [[Artist and Society]], [[Common Man]], [[Poverty]], [[Satire of Society]], [[Reform]], [[Imprisonment]], [[Greed and Money]], [[Democracy]], [[Grotesque]], [[Exaggeration]]
+**Forms & Genres:** [[Literary Criticism]], [[Biography]], [[Sketch]], [[Christmas Story Novella]], [[Detective Fiction]], [[Historical Novel]], [[Bildungsroman]], [[Social Novel (Novel of Manners)]]
+**Historical References:** [[Regency Georgian England]], [[Industrial Revolution]], [[French Revolution]], [[Puritanism]]
+**Settings:** [[London]], [[America]], [[Italy]], [[Rural England]]
 
 ## Testo integrale / Full text
 

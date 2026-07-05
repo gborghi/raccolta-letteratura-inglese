@@ -15,6 +15,15 @@ tags:
   - concept/critique_of_progress
   - concept/identity
   - concept/reform
+  - concept/procreation
+  - concept/waste_land_sterility
+  - concept/slavery
+  - concept/labor_and_work
+  - concept/natural_order
+  - concept/freedom
+  - topos/world_upside_down
+  - motif/home
+  - histref/french_revolution
 ---
 
 # sexlessness
@@ -30,8 +39,12 @@ tags:
 
 ## Connections
 
-**Motifs:** [[Marriage]]
-**Themes & Concepts:** [[Satire of Society]], [[Marriage and Fidelity]], [[Critique of Progress]], [[Identity]], [[Reform]]
+**Historical References:** [[French Revolution]]
+
+**Topoi:** [[World Upside Down]]
+
+**Motifs:** [[Marriage]], [[Home]]
+**Themes & Concepts:** [[Satire of Society]], [[Marriage and Fidelity]], [[Critique of Progress]], [[Identity]], [[Reform]], [[Procreation]], [[Waste Land (Sterility)]], [[Slavery]], [[Labor and Work]], [[Natural Order]], [[Freedom]]
 **Forms & Genres:** [[Essay]], [[Satire]]
 
 ## Chapters / scenes / sections

@@ -23,6 +23,27 @@ tags:
   - histref/greek_mythology
   - histref/the_bible
   - character/christ
+  - character/herod
+  - character/magi
+  - character/shepherds
+  - concept/slavery
+  - concept/individualism
+  - concept/paganism_and_classical_revival
+  - concept/good_vs_evil
+  - concept/truth
+  - topos/quest
+  - topos/golden_age
+  - motif/ghosts
+  - motif/supernatural
+  - motif/light_and_dark
+  - setting/orient
+  - setting/ancient_rome_2
+  - setting/ancient_greece_2
+  - archetype/tyrant
+  - archetype/wise_old_man_sage
+  - histref/ancient_greece
+  - histref/ancient_rome
+  - histref/eastern_religion_comparative_religion
 ---
 
 *by Chesterton*  ·  **Cluster:** [[Christianity · Faith and Doubt · Doubt]]
@@ -36,13 +57,15 @@ tags:
 
 ## Connections
 
-**Topoi:** [[World Upside Down]]
-**Motifs:** [[Grave]], [[Stars]]
-**Themes & Concepts:** [[Paradox]], [[Divine Love]], [[Humility]], [[Faith and Doubt]], [[Wonder and Gratitude]], [[Common Man]]
+**Archetypes:** [[Tyrant]], [[Wise Old Man Sage]]
+
+**Topoi:** [[World Upside Down]], [[Quest]], [[Golden Age]]
+**Motifs:** [[Grave]], [[Stars]], [[Ghosts]], [[Supernatural]], [[Light and Dark]]
+**Themes & Concepts:** [[Paradox]], [[Divine Love]], [[Humility]], [[Faith and Doubt]], [[Wonder and Gratitude]], [[Common Man]], [[Slavery]], [[Individualism]], [[Paganism and Classical Revival]], [[Good vs Evil]], [[Truth]]
 **Forms & Genres:** [[Apologetics]], [[Essay]]
-**Historical References:** [[Christianity]], [[Greek Mythology]], [[Bible]]
-**Settings:** [[Underworld Cave]]
-**Characters:** [[Christ]]
+**Historical References:** [[Christianity]], [[Greek Mythology]], [[Bible]], [[Ancient Greece]], [[Ancient Rome]], [[Eastern Religion Comparative Religion]]
+**Settings:** [[Underworld Cave]], [[Orient]], [[Ancient Rome (2)]], [[Ancient Greece (2)]]
+**Characters:** [[Christ]], [[Herod]], [[Magi]], [[Shepherds]]
 
 ## Chapters / scenes / sections
 

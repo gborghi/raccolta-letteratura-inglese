@@ -26,6 +26,21 @@ tags:
   - histref/christianity
   - setting/london
   - character/flambeau
+  - concept/justice_right_and_wrong
+  - concept/identity
+  - concept/greed_and_money
+  - topos/double
+  - motif/mirror
+  - motif/fire
+  - motif/secrets
+  - setting/italy
+  - setting/paris
+  - setting/germany
+  - setting/america
+  - archetype/double_doppelganger
+  - archetype/trickster
+  - histref/elizabethan_england
+  - histref/ancient_rome
 ---
 
 # wifrb11
@@ -52,12 +67,14 @@ tags:
 
 ## Connections
 
-**Archetypes:** [[Detective]], [[Christ Figure]]
-**Motifs:** [[Concealment Hidden Identity]], [[Light and Dark]], [[Blood]]
-**Themes & Concepts:** [[Appearance vs Reality]], [[Guilt]], [[Ratiocination Detection]], [[Sin and the Fall]], [[Deception]], [[Conscience]], [[Grace and Redemption]], [[Good vs Evil]]
+**Topoi:** [[Double]]
+
+**Archetypes:** [[Detective]], [[Christ Figure]], [[Double Doppelganger]], [[Trickster]]
+**Motifs:** [[Concealment Hidden Identity]], [[Light and Dark]], [[Blood]], [[Mirror]], [[Fire]], [[Secrets]]
+**Themes & Concepts:** [[Appearance vs Reality]], [[Guilt]], [[Ratiocination Detection]], [[Sin and the Fall]], [[Deception]], [[Conscience]], [[Grace and Redemption]], [[Good vs Evil]], [[Justice Right and Wrong]], [[Identity]], [[Greed and Money]]
 **Forms & Genres:** [[Detective Fiction]], [[Short Story]]
-**Historical References:** [[Christianity]]
-**Settings:** [[London]]
+**Historical References:** [[Christianity]], [[Elizabethan England]], [[Ancient Rome]]
+**Settings:** [[London]], [[Italy]], [[Paris]], [[Germany]], [[America]]
 **Characters:** [[Father Brown]], [[Flambeau]]
 
 ## Chapters / scenes / sections

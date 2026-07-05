@@ -15,6 +15,26 @@ tags:
   - concept/critique_of_progress
   - concept/faith
   - form/essay
+  - character/orlando
+  - character/valentine
+  - character/cain
+  - character/king_lear
+  - character/henry_viii
+  - concept/slavery
+  - concept/individualism
+  - concept/nationalism_and_patriotism
+  - concept/honour
+  - concept/freedom_and_liberty
+  - topos/life_as_a_battle
+  - motif/window
+  - motif/flag
+  - motif/chains
+  - motif/home
+  - motif/vow
+  - archetype/tyrant
+  - histref/reformation
+  - histref/first_world_war
+  - histref/irish_question
 ---
 
 # divorce
@@ -38,10 +58,16 @@ tags:
 
 ## Connections
 
-**Motifs:** [[Marriage]]
-**Themes & Concepts:** [[Marriage and Fidelity]], [[Distributism]], [[Class Conflict]], [[Critique of Progress]], [[Faith]]
+**Archetypes:** [[Tyrant]]
+
+**Topoi:** [[Life as a Battle]]
+
+**Characters:** [[Orlando]], [[Valentine]], [[Cain]], [[King Lear]], [[Henry VIII]]
+
+**Motifs:** [[Marriage]], [[Window]], [[Flag]], [[Chains]], [[Home]], [[Vow]]
+**Themes & Concepts:** [[Marriage and Fidelity]], [[Distributism]], [[Class Conflict]], [[Critique of Progress]], [[Faith]], [[Slavery]], [[Individualism]], [[Nationalism and Patriotism]], [[Honour]], [[Freedom and Liberty]]
 **Forms & Genres:** [[Essay]]
-**Historical References:** [[Catholic Church]]
+**Historical References:** [[Catholic Church]], [[Reformation]], [[First World War]], [[Irish Question]]
 
 ## Chapters / scenes / sections
 

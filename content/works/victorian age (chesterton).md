@@ -15,6 +15,34 @@ tags:
   - concept/order_vs_chaos
   - concept/reform
   - form/essay
+  - character/thomas_gradgrind
+  - character/jane_eyre
+  - character/mr_rochester
+  - character/heathcliff
+  - character/samuel_pickwick
+  - character/seth_pecksniff
+  - character/little_nell
+  - character/daniel_quilp
+  - character/david_copperfield
+  - character/betsey_trotwood
+  - character/king_arthur
+  - character/major_pendennis
+  - character/lancelot
+  - character/silas_marner
+  - character/tess
+  - concept/democracy
+  - concept/class_conflict
+  - concept/satire_of_society
+  - concept/critique_of_progress
+  - histref/french_revolution
+  - histref/reformation
+  - histref/catholic_church
+  - histref/puritanism
+  - histref/romantic_movement_sensibility
+  - histref/christianity
+  - histref/oxford_movement
+  - histref/utilitarianism
+  - histref/darwinism_evolution
 ---
 
 # Victorian Age
@@ -33,9 +61,11 @@ tags:
 
 ## Connections
 
-**Themes & Concepts:** [[Artist and Society]], [[Faith and Doubt]], [[Order vs Chaos]], [[Reform]]
+**Characters:** [[Thomas Gradgrind]], [[Jane Eyre]], [[Mr Rochester]], [[Heathcliff]], [[Samuel Pickwick]], [[Seth Pecksniff]], [[Little Nell]], [[Daniel Quilp]], [[David Copperfield]], [[Betsey Trotwood]], [[King Arthur]], [[Major Pendennis]], [[Lancelot]], [[Silas Marner]], [[Tess]]
+
+**Themes & Concepts:** [[Artist and Society]], [[Faith and Doubt]], [[Order vs Chaos]], [[Reform]], [[Democracy]], [[Class Conflict]], [[Satire of Society]], [[Critique of Progress]]
 **Forms & Genres:** [[Literary Criticism]], [[Essay]]
-**Historical References:** [[Regency Georgian England]], [[Industrial Revolution]]
+**Historical References:** [[Regency Georgian England]], [[Industrial Revolution]], [[French Revolution]], [[Reformation]], [[Catholic Church]], [[Puritanism]], [[Romantic Movement (Sensibility)]], [[Christianity]], [[Oxford Movement]], [[Utilitarianism]], [[Darwinism (Evolution)]]
 
 ## Chapters / scenes / sections
 

@@ -19,6 +19,16 @@ tags:
   - motif/nightingale
   - motif/birds
   - setting/rural_england
+  - character/samuel_pickwick
+  - character/dick_swiveller
+  - character/tony_weller
+  - concept/patience_and_waiting
+  - concept/comradeship
+  - archetype/common_man_2
+  - form/literary_criticism
+  - histref/puritanism
+  - histref/first_world_war
+  - histref/charles_dickens
 ---
 
 *by Chesterton*  ·  **Cluster:** [[Essay · Critique of Progress · Common Man]]
@@ -32,10 +42,16 @@ tags:
 
 ## Connections
 
+**Historical References:** [[Puritanism]], [[First World War]], [[Charles Dickens]]
+
+**Archetypes:** [[Common Man (2)]]
+
+**Characters:** [[Samuel Pickwick]], [[Dick Swiveller]], [[Tony Weller]]
+
 **Topoi:** [[Golden Age]]
 **Motifs:** [[Music and Song]], [[Nightingale]], [[Birds]]
-**Themes & Concepts:** [[Paradox]], [[Identity]], [[Nationalism and Patriotism]], [[Common Man]], [[Artist and Society]], [[Nostalgia]]
-**Forms & Genres:** [[Essay]]
+**Themes & Concepts:** [[Paradox]], [[Identity]], [[Nationalism and Patriotism]], [[Common Man]], [[Artist and Society]], [[Nostalgia]], [[Patience and Waiting]], [[Comradeship]]
+**Forms & Genres:** [[Essay]], [[Literary Criticism]]
 **Settings:** [[Rural England]]
 
 ## Chapters / scenes / sections

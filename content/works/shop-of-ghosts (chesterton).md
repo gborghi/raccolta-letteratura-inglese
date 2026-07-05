@@ -15,6 +15,14 @@ tags:
   - archetype/ghost
   - motif/ghosts
   - character/death_personified
+  - character/robin_hood
+  - character/charles_dickens
+  - character/sir_richard_steele
+  - character/ben_jonson
+  - concept/immortality_of_art_fame
+  - topos/ubi_sunt
+  - motif/light_and_dark
+  - setting/london
 ---
 
 # shop-of-ghosts
@@ -30,11 +38,15 @@ tags:
 
 ## Connections
 
+**Settings:** [[London]]
+
+**Topoi:** [[Ubi Sunt]]
+
 **Archetypes:** [[Ghost]]
-**Motifs:** [[Ghosts]]
-**Themes & Concepts:** [[Wonder and Gratitude]], [[Immortality]], [[Nostalgia]]
+**Motifs:** [[Ghosts]], [[Light and Dark]]
+**Themes & Concepts:** [[Wonder and Gratitude]], [[Immortality]], [[Nostalgia]], [[Immortality of Art Fame]]
 **Forms & Genres:** [[Essay]], [[Fairy Tale Fantasy]]
-**Characters:** [[Death Personified]]
+**Characters:** [[Death Personified]], [[Robin Hood]], [[Charles Dickens]], [[Sir Richard Steele]], [[Ben Jonson]]
 
 ## Chapters / scenes / sections
 

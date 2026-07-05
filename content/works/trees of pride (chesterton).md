@@ -19,6 +19,34 @@ tags:
   - archetype/detective
   - archetype/villain
   - setting/rural_england
+  - character/woodcutter
+  - character/young_fisherman
+  - character/squire_vane
+  - character/barbara_vane
+  - character/cyprian_paynter
+  - character/john_treherne
+  - character/andrew_ashe
+  - character/dr_burton_brown
+  - character/miles
+  - concept/deception
+  - concept/justice_right_and_wrong
+  - concept/crime_and_punishment
+  - concept/guilt
+  - concept/class_conflict
+  - topos/sleeper_awakes
+  - topos/world_upside_down
+  - motif/enchanted_wood
+  - motif/well
+  - motif/serpent_snake
+  - motif/concealment_hidden_identity
+  - motif/disease_and_contagion
+  - motif/birds
+  - motif/poison
+  - setting/sea_2
+  - setting/underworld_cave
+  - archetype/trickster
+  - archetype/outsider
+  - histref/elizabethan_england
 ---
 
 # trees of pride
@@ -39,11 +67,17 @@ tags:
 
 ## Connections
 
-**Archetypes:** [[Detective]], [[Villain]]
-**Motifs:** [[Supernatural]], [[Sea]]
-**Themes & Concepts:** [[Ratiocination Detection]], [[Appearance vs Reality]], [[Doubt]], [[Pride]], [[Common Man]]
+**Historical References:** [[Elizabethan England]]
+
+**Topoi:** [[Sleeper Awakes]], [[World Upside Down]]
+
+**Characters:** [[Woodcutter]], [[Young Fisherman]], [[Squire Vane]], [[Barbara Vane]], [[Cyprian Paynter]], [[John Treherne]], [[Andrew Ashe]], [[Dr. Burton Brown]], [[Miles]]
+
+**Archetypes:** [[Detective]], [[Villain]], [[Trickster]], [[Outsider]]
+**Motifs:** [[Supernatural]], [[Sea]], [[Enchanted Wood]], [[Well]], [[Serpent Snake]], [[Concealment Hidden Identity]], [[Disease and Contagion]], [[Birds]], [[Poison]]
+**Themes & Concepts:** [[Ratiocination Detection]], [[Appearance vs Reality]], [[Doubt]], [[Pride]], [[Common Man]], [[Deception]], [[Justice Right and Wrong]], [[Crime and Punishment]], [[Guilt]], [[Class Conflict]]
 **Forms & Genres:** [[Detective Fiction]], [[Short Story]]
-**Settings:** [[Rural England]]
+**Settings:** [[Rural England]], [[Sea (2)]], [[Underworld Cave]]
 
 ## Chapters / scenes / sections
 

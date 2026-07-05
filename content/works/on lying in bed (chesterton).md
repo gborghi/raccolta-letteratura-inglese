@@ -13,6 +13,14 @@ tags:
   - concept/heroism
   - concept/imagination
   - concept/critique_of_progress
+  - character/cyrano_de_bergerac
+  - concept/indolence
+  - concept/common_man
+  - concept/conformity_vs_individualism
+  - concept/freedom
+  - histref/bible
+  - histref/michelangelo
+  - histref/henrik_ibsen
 ---
 
 *by Chesterton*  ·  **Cluster:** [[Essay · Critique of Progress · Common Man]]
@@ -26,7 +34,11 @@ tags:
 
 ## Connections
 
-**Themes & Concepts:** [[Paradox]], [[Satire of Society]], [[Heroism]], [[Imagination]], [[Critique of Progress]]
+**Historical References:** [[Bible]], [[Michelangelo]], [[Henrik Ibsen]]
+
+**Characters:** [[Cyrano de Bergerac]]
+
+**Themes & Concepts:** [[Paradox]], [[Satire of Society]], [[Heroism]], [[Imagination]], [[Critique of Progress]], [[Indolence]], [[Common Man]], [[Conformity vs Individualism]], [[Freedom]]
 **Forms & Genres:** [[Essay]]
 
 ## Chapters / scenes / sections

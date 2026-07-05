@@ -17,6 +17,18 @@ tags:
   - motif/the_city
   - archetype/detective
   - setting/london
+  - character/basil_grant
+  - character/rupert_grant
+  - character/mr_swinburne
+  - character/major_brown
+  - character/p_g_northover
+  - concept/justice_right_and_wrong
+  - concept/deception
+  - concept/secrecy_and_concealment
+  - motif/concealment_hidden_identity
+  - motif/clothing_and_costume
+  - archetype/trickster
+  - archetype/wise_old_man_sage
 ---
 
 # queertrades
@@ -37,9 +49,11 @@ tags:
 
 ## Connections
 
-**Archetypes:** [[Detective]]
-**Motifs:** [[City]]
-**Themes & Concepts:** [[Ratiocination Detection]], [[Grotesque]], [[Appearance vs Reality]], [[Wonder and Gratitude]], [[Imagination]]
+**Characters:** [[Basil Grant]], [[Rupert Grant]], [[Mr Swinburne]], [[Major Brown]], [[P. G. Northover]]
+
+**Archetypes:** [[Detective]], [[Trickster]], [[Wise Old Man Sage]]
+**Motifs:** [[City]], [[Concealment Hidden Identity]], [[Clothing and Costume]]
+**Themes & Concepts:** [[Ratiocination Detection]], [[Grotesque]], [[Appearance vs Reality]], [[Wonder and Gratitude]], [[Imagination]], [[Justice Right and Wrong]], [[Deception]], [[Secrecy and Concealment]]
 **Forms & Genres:** [[Detective Fiction]], [[Short Story]]
 **Settings:** [[London]]
 

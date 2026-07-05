@@ -17,6 +17,136 @@ tags:
   - histref/the_french_revolution
   - histref/victorian_england
   - motif/the_city
+  - character/sam_weller
+  - character/samuel_pickwick
+  - character/nathaniel_winkle
+  - character/augustus_snodgrass
+  - character/tracy_tupman
+  - character/tony_weller
+  - character/nicholas_nickleby
+  - character/wackford_squeers
+  - character/madeline_bray
+  - character/vincent_crummles
+  - character/oliver_twist
+  - character/bill_sikes
+  - character/nancy
+  - character/mr_bumble
+  - character/fagin
+  - character/little_nell
+  - character/dick_swiveller
+  - character/marchioness
+  - character/daniel_quilp
+  - character/sally_brass
+  - character/sampson_brass
+  - character/kit_nubbles
+  - character/simon_tappertit
+  - character/sir_john_chester
+  - character/barnaby_rudge
+  - character/grip_the_raven
+  - character/seth_pecksniff
+  - character/sairey_gamp
+  - character/martin_chuzzlewit
+  - character/old_martin_chuzzlewit
+  - character/jonas_chuzzlewit
+  - character/ebenezer_scrooge
+  - character/captain_cuttle
+  - character/florence_dombey
+  - character/paul_dombey
+  - character/edith_granger
+  - character/david_copperfield
+  - character/wilkins_micawber
+  - character/betsey_trotwood
+  - character/clara_peggotty
+  - character/dora_spenlow
+  - character/agnes_wickfield
+  - character/james_steerforth
+  - character/little_emily
+  - character/krook
+  - character/jo_the_crossing_sweeper
+  - character/richard_carstone
+  - character/harold_skimpole
+  - character/mrs_jellyby
+  - character/sir_leicester_dedlock
+  - character/josiah_bounderby
+  - character/thomas_gradgrind
+  - character/stephen_blackpool
+  - character/william_dorrit
+  - character/amy_dorrit
+  - character/arthur_clennam
+  - character/mrs_clennam
+  - character/sydney_carton
+  - character/pip
+  - character/joe_gargery
+  - character/mrs_joe_gargery
+  - character/silas_wegg
+  - character/nicodemus_boffin
+  - character/bradley_headstone
+  - character/john_jasper
+  - character/john_harmon
+  - character/lizzie_hexam
+  - character/aaron
+  - character/ralph_nickleby
+  - character/smike
+  - character/cheeryble_brothers
+  - character/monks
+  - character/bella_wilfer
+  - character/mr_venus
+  - character/john_jarndyce
+  - character/ada_clare
+  - character/esther_summerson
+  - character/durdles
+  - character/helena_landless
+  - character/neville_landless
+  - character/rosa_bud
+  - character/mr_grewgious
+  - character/mr_crisparkle
+  - character/trotty_veck
+  - character/alfred_jingle
+  - character/mrs_bardell
+  - character/mr_podsnap
+  - character/mr_veneering
+  - character/mr_lammle
+  - character/mr_fledgeby
+  - character/toots
+  - character/major_bagstock
+  - character/cousin_feenix
+  - character/mrs_nickleby
+  - character/mrs_skewton
+  - character/caddy_jellyby
+  - character/trabb_s_boy
+  - character/mrs_lirriper
+  - concept/grotesque
+  - concept/poverty
+  - concept/crime_and_punishment
+  - concept/imprisonment
+  - concept/democracy
+  - concept/charity
+  - concept/hope
+  - concept/anti_industrialism
+  - concept/education
+  - concept/power_and_corruption
+  - concept/hypocrisy
+  - concept/sentimentality
+  - motif/fog_and_smoke
+  - motif/prison
+  - motif/christmas
+  - setting/london
+  - setting/america
+  - setting/italy
+  - setting/industrial_city
+  - setting/paris
+  - archetype/detective
+  - archetype/orphan
+  - form/satire
+  - form/detective_fiction
+  - form/melodrama
+  - form/historical_novel
+  - form/bildungsroman
+  - form/travel_writing
+  - form/fairy_tale_fantasy
+  - form/novel
+  - histref/industrial_revolution
+  - histref/puritanism
 ---
 
 # ApprAndCritOfChDickens
@@ -33,10 +163,16 @@ tags:
 
 ## Connections
 
-**Motifs:** [[City]]
-**Themes & Concepts:** [[Common Man]], [[Social Injustice]], [[Artist and Society]], [[Reform]], [[Satire of Society]]
-**Forms & Genres:** [[Literary Criticism]], [[Essay]]
-**Historical References:** [[French Revolution]], [[Regency Georgian England]]
+**Archetypes:** [[Detective]], [[Orphan]]
+
+**Settings:** [[London]], [[America]], [[Italy]], [[Industrial City]], [[Paris]]
+
+**Characters:** [[Sam Weller]], [[Samuel Pickwick]], [[Nathaniel Winkle]], [[Augustus Snodgrass]], [[Tracy Tupman]], [[Tony Weller]], [[Nicholas Nickleby]], [[Wackford Squeers]], [[Madeline Bray]], [[Vincent Crummles]], [[Oliver Twist]], [[Bill Sikes]], [[Nancy]], [[Mr Bumble]], [[Fagin]], [[Little Nell]], [[Dick Swiveller]], [[Marchioness]], [[Daniel Quilp]], [[Sally Brass]], [[Sampson Brass]], [[Kit Nubbles]], [[Simon Tappertit]], [[Sir John Chester]], [[Barnaby Rudge]], [[Grip the Raven]], [[Seth Pecksniff]], [[Sairey Gamp]], [[Martin Chuzzlewit]], [[Old Martin Chuzzlewit]], [[Jonas Chuzzlewit]], [[Ebenezer Scrooge]], [[Captain Cuttle]], [[Florence Dombey]], [[Paul Dombey]], [[Edith Granger]], [[David Copperfield]], [[Wilkins Micawber]], [[Betsey Trotwood]], [[Clara Peggotty]], [[Dora Spenlow]], [[Agnes Wickfield]], [[James Steerforth]], [[Little Emily]], [[Krook]], [[Jo the Crossing-Sweeper]], [[Richard Carstone]], [[Harold Skimpole]], [[Mrs Jellyby]], [[Sir Leicester Dedlock]], [[Josiah Bounderby]], [[Thomas Gradgrind]], [[Stephen Blackpool]], [[William Dorrit]], [[Amy Dorrit]], [[Arthur Clennam]], [[Mrs Clennam]], [[Sydney Carton]], [[Pip]], [[Joe Gargery]], [[Mrs Joe Gargery]], [[Silas Wegg]], [[Nicodemus Boffin]], [[Bradley Headstone]], [[John Jasper]], [[John Harmon]], [[Lizzie Hexam]], [[Aaron]], [[Ralph Nickleby]], [[Smike]], [[Cheeryble Brothers]], [[Monks]], [[Bella Wilfer]], [[Mr Venus]], [[John Jarndyce]], [[Ada Clare]], [[Esther Summerson]], [[Durdles]], [[Helena Landless]], [[Neville Landless]], [[Rosa Bud]], [[Mr Grewgious]], [[Mr Crisparkle]], [[Trotty Veck]], [[Alfred Jingle]], [[Mrs Bardell]], [[Mr. Podsnap]], [[Mr. Veneering]], [[Mr. Lammle]], [[Mr. Fledgeby]], [[Toots]], [[Major Bagstock]], [[Cousin Feenix]], [[Mrs. Nickleby]], [[Mrs. Skewton]], [[Caddy Jellyby]], [[Trabb's boy]], [[Mrs. Lirriper]]
+
+**Motifs:** [[City]], [[Fog and Smoke]], [[Prison]], [[Christmas]]
+**Themes & Concepts:** [[Common Man]], [[Social Injustice]], [[Artist and Society]], [[Reform]], [[Satire of Society]], [[Grotesque]], [[Poverty]], [[Crime and Punishment]], [[Imprisonment]], [[Democracy]], [[Charity]], [[Hope]], [[Anti-Industrialism]], [[Education]], [[Power and Corruption]], [[Hypocrisy]], [[Sentimentality]]
+**Forms & Genres:** [[Literary Criticism]], [[Essay]], [[Satire]], [[Detective Fiction]], [[Melodrama]], [[Historical Novel]], [[Bildungsroman]], [[Travel Writing]], [[Fairy Tale Fantasy]], [[Novel]]
+**Historical References:** [[French Revolution]], [[Regency Georgian England]], [[Industrial Revolution]], [[Puritanism]]
 
 ## Chapters / scenes / sections
 

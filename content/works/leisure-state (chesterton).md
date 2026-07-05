@@ -14,6 +14,14 @@ tags:
   - concept/the_common_man
   - concept/satire_of_society
   - histref/the_industrial_revolution
+  - concept/labor_and_work
+  - concept/freedom_and_liberty
+  - concept/class_conflict
+  - concept/democracy
+  - motif/machine
+  - archetype/common_man_2
+  - histref/bolshevism_and_the_russian_revolution
+  - histref/h_g_wells_s_the_world_set_free
 ---
 
 # leisure-state
@@ -29,9 +37,13 @@ tags:
 
 ## Connections
 
-**Themes & Concepts:** [[Distributism]], [[Anti-Industrialism]], [[Critique of Progress]], [[Common Man]], [[Satire of Society]]
+**Archetypes:** [[Common Man (2)]]
+
+**Motifs:** [[Machine]]
+
+**Themes & Concepts:** [[Distributism]], [[Anti-Industrialism]], [[Critique of Progress]], [[Common Man]], [[Satire of Society]], [[Labor and Work]], [[Freedom and Liberty]], [[Class Conflict]], [[Democracy]]
 **Forms & Genres:** [[Essay]]
-**Historical References:** [[Industrial Revolution]]
+**Historical References:** [[Industrial Revolution]], [[Bolshevism and the Russian Revolution]], [[H.G. Wells's The World Set Free]]
 
 ## Chapters / scenes / sections
 

@@ -15,6 +15,103 @@ tags:
   - form/detective_fiction
   - concept/faith
   - concept/imagination
+  - character/macbeth
+  - character/lady_macbeth
+  - character/king_lear
+  - character/goneril
+  - character/regan
+  - character/falstaff
+  - character/jane_eyre
+  - character/mr_rochester
+  - character/paul_emanuel
+  - character/caliban
+  - character/odysseus_ulysses
+  - character/wilkins_micawber
+  - character/dick_swiveller
+  - character/seth_pecksniff
+  - character/sam_weller
+  - character/daniel_quilp
+  - character/ralph_nickleby
+  - character/little_nell
+  - character/wackford_squeers
+  - character/augustus_snodgrass
+  - character/alice
+  - character/scheherezade
+  - character/sherlock_holmes
+  - concept/ratiocination_detection
+  - concept/kingship_and_legitimacy
+  - concept/nationalism_and_patriotism
+  - concept/madness
+  - concept/ambition
+  - concept/fate_and_free_will
+  - concept/temptation
+  - concept/power_and_corruption
+  - concept/marriage_and_fidelity
+  - concept/nostalgia
+  - concept/faith_and_doubt
+  - concept/original_sin
+  - concept/paganism_and_classical_revival
+  - concept/distributism
+  - concept/education
+  - concept/grotesque
+  - concept/critique_of_progress
+  - topos/sic_transit_gloria_mundi
+  - topos/world_upside_down
+  - topos/theatrum_mundi
+  - topos/carpe_diem
+  - topos/golden_age
+  - topos/life_as_a_battle
+  - topos/beatus_ille_happy_the_man_rural_retreat
+  - motif/cave
+  - motif/storm
+  - motif/mirror
+  - motif/ghosts
+  - motif/light_and_dark
+  - motif/crown
+  - motif/dreams
+  - motif/ship
+  - motif/wine_and_drink
+  - setting/london
+  - setting/paris
+  - setting/italy
+  - setting/egypt
+  - setting/cathedral
+  - setting/medieval_england_2
+  - setting/orient
+  - setting/rural_england
+  - setting/holy_land_jerusalem_and_bethlehem
+  - archetype/detective
+  - archetype/fool
+  - archetype/usurper
+  - archetype/king
+  - archetype/trickster
+  - archetype/madwoman
+  - archetype/child
+  - form/fable
+  - form/fairy_tale_fantasy
+  - form/melodrama
+  - form/travel_writing
+  - form/biography
+  - form/satire
+  - histref/renaissance
+  - histref/french_revolution
+  - histref/crusades
+  - histref/spanish_inquisition
+  - histref/reformation
+  - histref/thirty_years_war
+  - histref/arthurian_legend
+  - histref/islam
+  - histref/puritanism
+  - histref/roman_history
+  - histref/ancient_rome
+  - histref/elizabethan_england
+  - histref/bible
+  - histref/dante
+  - histref/greek_mythology
+  - histref/medieval_england
+  - histref/chaucer
+  - histref/voltaire
+  - histref/the_age_of_reason_eighteenth_century_rationalism
 ---
 
 # Spice Of Life
@@ -35,8 +132,20 @@ tags:
 
 ## Connections
 
-**Themes & Concepts:** [[Artist and Society]], [[Wonder and Gratitude]], [[Joy]], [[Faith]], [[Imagination]]
-**Forms & Genres:** [[Essay]], [[Literary Criticism]], [[Detective Fiction]]
+**Historical References:** [[Renaissance]], [[French Revolution]], [[Crusades]], [[Spanish Inquisition]], [[Reformation]], [[Thirty Years' War]], [[Arthurian Legend]], [[Islam]], [[Puritanism]], [[Roman History]], [[Ancient Rome]], [[Elizabethan England]], [[Bible]], [[Dante]], [[Greek Mythology]], [[Medieval England]], [[Chaucer]], [[Voltaire]], [[The Age of Reason (Eighteenth-Century Rationalism)]]
+
+**Archetypes:** [[Detective]], [[Fool]], [[Usurper]], [[King]], [[Trickster]], [[Madwoman]], [[Child]]
+
+**Settings:** [[London]], [[Paris]], [[Italy]], [[Egypt]], [[Cathedral]], [[Medieval England (2)]], [[Orient]], [[Rural England]], [[Holy Land (Jerusalem and Bethlehem)]]
+
+**Motifs:** [[Cave]], [[Storm]], [[Mirror]], [[Ghosts]], [[Light and Dark]], [[Crown]], [[Dreams]], [[Ship]], [[Wine and Drink]]
+
+**Topoi:** [[Sic Transit Gloria Mundi]], [[World Upside Down]], [[Theatrum Mundi]], [[Carpe Diem]], [[Golden Age]], [[Life as a Battle]], [[Beatus Ille (Happy the Man Rural Retreat)]]
+
+**Characters:** [[Macbeth]], [[Lady Macbeth]], [[King Lear]], [[Goneril]], [[Regan]], [[Falstaff]], [[Jane Eyre]], [[Mr Rochester]], [[Paul Emanuel]], [[Caliban]], [[Odysseus Ulysses]], [[Wilkins Micawber]], [[Dick Swiveller]], [[Seth Pecksniff]], [[Sam Weller]], [[Daniel Quilp]], [[Ralph Nickleby]], [[Little Nell]], [[Wackford Squeers]], [[Augustus Snodgrass]], [[Alice]], [[Scheherezade]], [[Sherlock Holmes]]
+
+**Themes & Concepts:** [[Artist and Society]], [[Wonder and Gratitude]], [[Joy]], [[Faith]], [[Imagination]], [[Ratiocination Detection]], [[Kingship and Legitimacy]], [[Nationalism and Patriotism]], [[Madness]], [[Ambition]], [[Fate and Free Will]], [[Temptation]], [[Power and Corruption]], [[Marriage and Fidelity]], [[Nostalgia]], [[Faith and Doubt]], [[Original Sin]], [[Paganism and Classical Revival]], [[Distributism]], [[Education]], [[Grotesque]], [[Critique of Progress]]
+**Forms & Genres:** [[Essay]], [[Literary Criticism]], [[Detective Fiction]], [[Fable]], [[Fairy Tale Fantasy]], [[Melodrama]], [[Travel Writing]], [[Biography]], [[Satire]]
 
 ## Chapters / scenes / sections
 

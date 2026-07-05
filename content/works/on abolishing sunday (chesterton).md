@@ -13,6 +13,20 @@ tags:
   - concept/satire_of_society
   - histref/christianity
   - histref/the_bible
+  - character/henry_ford
+  - concept/individualism
+  - concept/conformity_vs_individualism
+  - concept/labor_and_work
+  - concept/distributism
+  - concept/anti_industrialism
+  - motif/sleep
+  - motif/machine
+  - motif/time
+  - motif/dreams
+  - form/satire
+  - form/apologetics
+  - histref/islam
+  - histref/truce_of_god
 ---
 
 *by Chesterton*  ·  **Cluster:** [[Essay · Critique of Progress · Common Man]]
@@ -26,9 +40,13 @@ tags:
 
 ## Connections
 
-**Themes & Concepts:** [[Critique of Progress]], [[Natural Order]], [[Satire of Society]]
-**Forms & Genres:** [[Essay]]
-**Historical References:** [[Christianity]], [[Bible]]
+**Motifs:** [[Sleep]], [[Machine]], [[Time]], [[Dreams]]
+
+**Characters:** [[Henry Ford]]
+
+**Themes & Concepts:** [[Critique of Progress]], [[Natural Order]], [[Satire of Society]], [[Individualism]], [[Conformity vs Individualism]], [[Labor and Work]], [[Distributism]], [[Anti-Industrialism]]
+**Forms & Genres:** [[Essay]], [[Satire]], [[Apologetics]]
+**Historical References:** [[Christianity]], [[Bible]], [[Islam]], [[Truce of God]]
 
 ## Chapters / scenes / sections
 

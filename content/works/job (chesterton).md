@@ -17,6 +17,19 @@ tags:
   - concept/grief_and_loss
   - concept/humility
   - histref/the_bible
+  - character/job
+  - character/jehovah
+  - character/jacob
+  - character/socrates
+  - concept/suffering
+  - concept/individualism
+  - concept/justice_right_and_wrong
+  - topos/book_of_nature
+  - topos/world_upside_down
+  - motif/animals
+  - archetype/innocent
+  - form/epic
+  - histref/ancient_greece
 ---
 
 # job
@@ -32,9 +45,17 @@ tags:
 
 ## Connections
 
-**Themes & Concepts:** [[Paradox]], [[Faith and Doubt]], [[Doubt]], [[Wonder and Gratitude]], [[Providence]], [[Grief and Loss]], [[Humility]]
-**Forms & Genres:** [[Apologetics]], [[Literary Criticism]]
-**Historical References:** [[Bible]]
+**Archetypes:** [[Innocent]]
+
+**Motifs:** [[Animals]]
+
+**Topoi:** [[Book of Nature]], [[World Upside Down]]
+
+**Characters:** [[Job]], [[Jehovah]], [[Jacob]], [[Socrates]]
+
+**Themes & Concepts:** [[Paradox]], [[Faith and Doubt]], [[Doubt]], [[Wonder and Gratitude]], [[Providence]], [[Grief and Loss]], [[Humility]], [[Suffering]], [[Individualism]], [[Justice Right and Wrong]]
+**Forms & Genres:** [[Apologetics]], [[Literary Criticism]], [[Epic]]
+**Historical References:** [[Bible]], [[Ancient Greece]]
 
 ## Testo integrale / Full text
 

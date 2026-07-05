@@ -16,6 +16,39 @@ tags:
   - concept/guilt
   - archetype/detective
   - concept/justice
+  - character/count_raoul_de_marillac
+  - character/john_hume
+  - character/barbara_traill
+  - character/walter_windrush
+  - character/jacob_nadoway
+  - character/alan_nadoway
+  - character/colonel_grimm
+  - character/isidor_simon
+  - concept/deception
+  - concept/self_sacrifice
+  - concept/distributism
+  - concept/class_conflict
+  - concept/nationalism_and_patriotism
+  - concept/kingship_and_legitimacy
+  - concept/power_and_corruption
+  - concept/eastern_religion_and_asceticism
+  - concept/self_denial_and_renunciation
+  - concept/money_and_avarice
+  - topos/double
+  - motif/concealment_hidden_identity
+  - motif/secrets
+  - motif/garden
+  - motif/imprisonment_2
+  - setting/egypt
+  - setting/london
+  - setting/desert
+  - archetype/scapegoat
+  - archetype/trickster
+  - archetype/antihero
+  - form/satire
+  - histref/king_alfred
+  - histref/dante
+  - histref/bible
 ---
 
 # FourFaultlessFelons
@@ -52,9 +85,19 @@ tags:
 
 ## Connections
 
-**Archetypes:** [[Detective]]
-**Themes & Concepts:** [[Paradox]], [[Appearance vs Reality]], [[Ratiocination Detection]], [[Innocence and Experience]], [[Guilt]], [[Justice Right and Wrong]]
-**Forms & Genres:** [[Detective Fiction]], [[Short Story]]
+**Historical References:** [[King Alfred]], [[Dante]], [[Bible]]
+
+**Settings:** [[Egypt]], [[London]], [[Desert]]
+
+**Motifs:** [[Concealment Hidden Identity]], [[Secrets]], [[Garden]], [[Imprisonment (2)]]
+
+**Topoi:** [[Double]]
+
+**Characters:** [[Count Raoul de Marillac]], [[John Hume]], [[Barbara Traill]], [[Walter Windrush]], [[Jacob Nadoway]], [[Alan Nadoway]], [[Colonel Grimm]], [[Isidor Simon]]
+
+**Archetypes:** [[Detective]], [[Scapegoat]], [[Trickster]], [[Antihero]]
+**Themes & Concepts:** [[Paradox]], [[Appearance vs Reality]], [[Ratiocination Detection]], [[Innocence and Experience]], [[Guilt]], [[Justice Right and Wrong]], [[Deception]], [[Self-Sacrifice]], [[Distributism]], [[Class Conflict]], [[Nationalism and Patriotism]], [[Kingship and Legitimacy]], [[Power and Corruption]], [[Eastern Religion and Asceticism]], [[Self-Denial and Renunciation]], [[Money and Avarice]]
+**Forms & Genres:** [[Detective Fiction]], [[Short Story]], [[Satire]]
 
 ## Chapters / scenes / sections
 

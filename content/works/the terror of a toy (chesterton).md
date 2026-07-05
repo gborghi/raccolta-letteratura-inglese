@@ -17,6 +17,15 @@ tags:
   - concept/innocence_and_experience
   - motif/swords_weapons
   - motif/childhood
+  - concept/common_man
+  - topos/war_as_glory
+  - motif/blood
+  - motif/machine
+  - archetype/child
+  - form/aphorism
+  - histref/spanish_inquisition
+  - histref/bible
+  - histref/christianity
 ---
 
 *by Chesterton*  ·  **Cluster:** [[Essay · Critique of Progress · Common Man]]
@@ -30,9 +39,15 @@ tags:
 
 ## Connections
 
-**Motifs:** [[Swords and Weapons]], [[Childhood]]
-**Themes & Concepts:** [[Satire of Society]], [[Critique of Progress]], [[Maturation and Growth]], [[Heroism]], [[Paradox]], [[Innocence and Experience]]
-**Forms & Genres:** [[Essay]], [[Satire]]
+**Historical References:** [[Spanish Inquisition]], [[Bible]], [[Christianity]]
+
+**Archetypes:** [[Child]]
+
+**Topoi:** [[War as Glory]]
+
+**Motifs:** [[Swords and Weapons]], [[Childhood]], [[Blood]], [[Machine]]
+**Themes & Concepts:** [[Satire of Society]], [[Critique of Progress]], [[Maturation and Growth]], [[Heroism]], [[Paradox]], [[Innocence and Experience]], [[Common Man]]
+**Forms & Genres:** [[Essay]], [[Satire]], [[Aphorism]]
 
 ## Chapters / scenes / sections
 

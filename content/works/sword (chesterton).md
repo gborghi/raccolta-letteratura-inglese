@@ -19,6 +19,26 @@ tags:
   - histref/medieval_england
   - setting/rural_england
   - archetype/hero
+  - character/dennis_tryon
+  - character/sir_guy_griffin
+  - character/dorothy_hood
+  - character/sir_godfrey_skene
+  - character/jeremy_bunt
+  - concept/heroism
+  - concept/appearance_vs_reality
+  - concept/courage
+  - concept/fanaticism
+  - topos/combat_strife
+  - motif/clothing_and_costume
+  - motif/concealment_hidden_identity
+  - motif/river
+  - archetype/child
+  - archetype/damsel
+  - archetype/tyrant
+  - archetype/scapegoat
+  - archetype/witch_enchantress
+  - histref/puritanism
+  - histref/english_restoration
 ---
 
 # Sword
@@ -34,11 +54,15 @@ tags:
 
 ## Connections
 
-**Archetypes:** [[Hero]]
-**Motifs:** [[Swords and Weapons]], [[Cross]], [[Supernatural]]
-**Themes & Concepts:** [[Faith]], [[Paradox]], [[Good vs Evil]], [[Honour]], [[Critique of Progress]]
+**Topoi:** [[Combat Strife]]
+
+**Characters:** [[Dennis Tryon]], [[Sir Guy Griffin]], [[Dorothy Hood]], [[Sir Godfrey Skene]], [[Jeremy Bunt]]
+
+**Archetypes:** [[Hero]], [[Child]], [[Damsel]], [[Tyrant]], [[Scapegoat]], [[Witch Enchantress]]
+**Motifs:** [[Swords and Weapons]], [[Cross]], [[Supernatural]], [[Clothing and Costume]], [[Concealment Hidden Identity]], [[River]]
+**Themes & Concepts:** [[Faith]], [[Paradox]], [[Good vs Evil]], [[Honour]], [[Critique of Progress]], [[Heroism]], [[Appearance vs Reality]], [[Courage]], [[Fanaticism]]
 **Forms & Genres:** [[Short Story]]
-**Historical References:** [[Medieval England]]
+**Historical References:** [[Medieval England]], [[Puritanism]], [[English Restoration]]
 **Settings:** [[Rural England]]
 
 ## Testo integrale / Full text

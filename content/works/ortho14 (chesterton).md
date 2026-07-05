@@ -19,6 +19,29 @@ tags:
   - topos/world_upside_down
   - histref/christianity
   - form/autobiography
+  - character/christ
+  - character/joan_of_arc
+  - character/nietzsche
+  - character/tolstoy
+  - concept/democracy
+  - concept/original_sin
+  - concept/fate_and_free_will
+  - concept/tradition
+  - concept/authority
+  - topos/paradise_lost
+  - motif/enchanted_wood
+  - motif/cross
+  - motif/garden
+  - motif/flag
+  - setting/london
+  - archetype/rebel
+  - form/essay
+  - histref/bible
+  - histref/classical_antiquity
+  - histref/crusades
+  - histref/french_revolution
+  - histref/eastern_religion_comparative_religion
+  - histref/islam
 ---
 
 # ortho14
@@ -41,10 +64,18 @@ tags:
 
 ## Connections
 
-**Topoi:** [[World Upside Down]]
-**Themes & Concepts:** [[Faith and Doubt]], [[Paradox]], [[Conversion]], [[Joy]], [[Wonder and Gratitude]], [[Faith]], [[Madness]], [[Critique of Progress]]
-**Forms & Genres:** [[Apologetics]], [[Fictional Autobiography]]
-**Historical References:** [[Christianity]]
+**Archetypes:** [[Rebel]]
+
+**Settings:** [[London]]
+
+**Motifs:** [[Enchanted Wood]], [[Cross]], [[Garden]], [[Flag]]
+
+**Characters:** [[Christ]], [[Joan of Arc]], [[Nietzsche]], [[Tolstoy]]
+
+**Topoi:** [[World Upside Down]], [[Paradise Lost]]
+**Themes & Concepts:** [[Faith and Doubt]], [[Paradox]], [[Conversion]], [[Joy]], [[Wonder and Gratitude]], [[Faith]], [[Madness]], [[Critique of Progress]], [[Democracy]], [[Original Sin]], [[Fate and Free Will]], [[Tradition]], [[Authority]]
+**Forms & Genres:** [[Apologetics]], [[Fictional Autobiography]], [[Essay]]
+**Historical References:** [[Christianity]], [[Bible]], [[Classical Antiquity]], [[Crusades]], [[French Revolution]], [[Eastern Religion Comparative Religion]], [[Islam]]
 
 ## Chapters / scenes / sections
 

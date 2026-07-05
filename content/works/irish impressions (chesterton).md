@@ -18,6 +18,43 @@ tags:
   - histref/christianity
   - concept/war_and_its_cost
   - setting/rural_england
+  - character/w_b_yeats
+  - character/roger_casement
+  - character/thomas_kettle
+  - character/charles_stewart_parnell
+  - character/george_russell_a_e
+  - character/sergeant_sheridan
+  - concept/pride
+  - concept/humility
+  - concept/class_conflict
+  - concept/poverty
+  - concept/justice_right_and_wrong
+  - concept/democracy
+  - concept/power_and_corruption
+  - concept/paradox
+  - concept/martyrdom
+  - concept/empire_and_imperialism
+  - concept/family_and_lineage
+  - concept/religious_sectarianism
+  - topos/world_upside_down
+  - motif/flags_and_banners
+  - motif/stone_and_marble
+  - motif/home
+  - motif/grass_leaves_of_grass
+  - motif/garden
+  - motif/road
+  - motif/horse
+  - setting/industrial_city
+  - setting/pastoral_countryside
+  - setting/ireland
+  - archetype/martyr_saint
+  - archetype/rebel
+  - archetype/common_man_2
+  - archetype/outsider
+  - archetype/poet_as_prophet_2
+  - histref/catholic_church
+  - histref/reformation
+  - histref/industrial_revolution
 ---
 
 *by Chesterton*  ·  **Cluster:** [[Essay · Critique of Progress · Common Man]]
@@ -39,10 +76,18 @@ tags:
 
 ## Connections
 
-**Themes & Concepts:** [[Nationalism and Patriotism]], [[Distributism]], [[Anti-Industrialism]], [[Social Injustice]], [[War and its Cost]]
+**Archetypes:** [[Martyr Saint]], [[Rebel]], [[Common Man (2)]], [[Outsider]], [[Poet as Prophet (2)]]
+
+**Motifs:** [[Flags and Banners]], [[Stone and Marble]], [[Home]], [[Grass Leaves of Grass]], [[Garden]], [[Road]], [[Horse]]
+
+**Topoi:** [[World Upside Down]]
+
+**Characters:** [[W. B. Yeats]], [[Roger Casement]], [[Thomas Kettle]], [[Charles Stewart Parnell]], [[George Russell (A.E.)]], [[Sergeant Sheridan]]
+
+**Themes & Concepts:** [[Nationalism and Patriotism]], [[Distributism]], [[Anti-Industrialism]], [[Social Injustice]], [[War and its Cost]], [[Pride]], [[Humility]], [[Class Conflict]], [[Poverty]], [[Justice Right and Wrong]], [[Democracy]], [[Power and Corruption]], [[Paradox]], [[Martyrdom]], [[Empire and Imperialism]], [[Family and Lineage]], [[Religious Sectarianism]]
 **Forms & Genres:** [[Travel Writing]], [[Essay]]
-**Historical References:** [[Irish Question]], [[First World War]], [[Christianity]]
-**Settings:** [[Rural England]]
+**Historical References:** [[Irish Question]], [[First World War]], [[Christianity]], [[Catholic Church]], [[Reformation]], [[Industrial Revolution]]
+**Settings:** [[Rural England]], [[Industrial City]], [[Pastoral Countryside]], [[Ireland]]
 
 ## Chapters / scenes / sections
 

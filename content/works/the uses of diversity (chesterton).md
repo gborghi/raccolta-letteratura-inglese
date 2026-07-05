@@ -17,6 +17,67 @@ tags:
   - concept/faith
   - concept/the_artist_and_society
   - concept/joy
+  - character/emma_woodhouse
+  - character/henry_tilney
+  - character/catherine_morland
+  - character/harriet_smith
+  - character/robert_martin
+  - character/macbeth
+  - character/lady_macbeth
+  - character/theseus
+  - character/hermia
+  - character/helena
+  - character/hippolyta
+  - character/bottom
+  - character/falstaff
+  - character/cardinal_wolsey
+  - character/herod_antipas
+  - character/duncan
+  - character/claudius
+  - character/judge_parry
+  - character/george_meredith
+  - character/george_wyndham
+  - character/bernard_shaw
+  - character/tennyson
+  - character/cyrano_de_bergerac
+  - character/peter_pan
+  - character/sherlock_holmes
+  - concept/nationalism_and_patriotism
+  - concept/democracy
+  - concept/marriage_and_fidelity
+  - concept/ratiocination_detection
+  - concept/distributism
+  - concept/common_man
+  - concept/conscience
+  - concept/war_and_its_cost
+  - concept/class_conflict
+  - concept/identity
+  - concept/metamorphosis_transformation
+  - concept/grotesque
+  - concept/supernatural_2
+  - topos/golden_age
+  - motif/home
+  - motif/fire
+  - motif/food_and_feasting
+  - motif/animals
+  - motif/clothing_and_costume
+  - setting/london
+  - setting/paris
+  - setting/rural_england
+  - setting/medieval_england_2
+  - setting/egypt
+  - archetype/detective
+  - archetype/fool
+  - archetype/tyrant
+  - form/literary_criticism
+  - histref/first_world_war
+  - histref/irish_question
+  - histref/french_revolution
+  - histref/puritanism
+  - histref/bible
+  - histref/christianity
+  - histref/medieval_england
+  - histref/napoleonic_wars_the_navy
 ---
 
 *by Chesterton*  ·  **Cluster:** [[Paradox · Food and Feasting · Aphorism]]
@@ -64,8 +125,20 @@ tags:
 
 ## Connections
 
-**Themes & Concepts:** [[Paradox]], [[Wonder and Gratitude]], [[Satire of Society]], [[Critique of Progress]], [[Faith]], [[Artist and Society]], [[Joy]]
-**Forms & Genres:** [[Essay]], [[Satire]], [[Aphorism]]
+**Historical References:** [[First World War]], [[Irish Question]], [[French Revolution]], [[Puritanism]], [[Bible]], [[Christianity]], [[Medieval England]], [[Napoleonic Wars the Navy]]
+
+**Archetypes:** [[Detective]], [[Fool]], [[Tyrant]]
+
+**Settings:** [[London]], [[Paris]], [[Rural England]], [[Medieval England (2)]], [[Egypt]]
+
+**Motifs:** [[Home]], [[Fire]], [[Food and Feasting]], [[Animals]], [[Clothing and Costume]]
+
+**Topoi:** [[Golden Age]]
+
+**Characters:** [[Emma Woodhouse]], [[Henry Tilney]], [[Catherine Morland]], [[Harriet Smith]], [[Robert Martin]], [[Macbeth]], [[Lady Macbeth]], [[Theseus]], [[Hermia]], [[Helena]], [[Hippolyta]], [[Bottom]], [[Falstaff]], [[Cardinal Wolsey]], [[Herod Antipas]], [[Duncan]], [[Claudius]], [[Judge Parry]], [[George Meredith]], [[George Wyndham]], [[Bernard Shaw]], [[Tennyson]], [[Cyrano de Bergerac]], [[Peter Pan]], [[Sherlock Holmes]]
+
+**Themes & Concepts:** [[Paradox]], [[Wonder and Gratitude]], [[Satire of Society]], [[Critique of Progress]], [[Faith]], [[Artist and Society]], [[Joy]], [[Nationalism and Patriotism]], [[Democracy]], [[Marriage and Fidelity]], [[Ratiocination Detection]], [[Distributism]], [[Common Man]], [[Conscience]], [[War and its Cost]], [[Class Conflict]], [[Identity]], [[Metamorphosis Transformation]], [[Grotesque]], [[Supernatural (2)]]
+**Forms & Genres:** [[Essay]], [[Satire]], [[Aphorism]], [[Literary Criticism]]
 
 ## Chapters / scenes / sections
 

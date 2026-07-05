@@ -39,6 +39,33 @@ tags:
   - character/evan_maclan
   - character/james_turnbull
   - character/lucifer
+  - character/father_michael
+  - character/madeleine_durand
+  - character/beatrice_drake
+  - character/count_gregory
+  - character/camille_bert
+  - character/cumberland_vane
+  - character/wilkinson
+  - character/doctor_hutton
+  - character/doctor_quayle
+  - concept/fanaticism
+  - concept/friendship
+  - concept/romantic_love
+  - concept/reconciliation
+  - concept/grace_and_redemption
+  - topos/locus_amoenus
+  - topos/last_stand
+  - motif/dreams
+  - motif/imprisonment_2
+  - motif/garden
+  - setting/garden_2
+  - setting/ship
+  - archetype/christ_figure
+  - archetype/lover
+  - archetype/wise_old_man_sage
+  - form/satire
+  - histref/french_revolution
+  - histref/bible
 ---
 
 # ball and cross
@@ -69,14 +96,14 @@ tags:
 
 ## Connections
 
-**Topoi:** [[Quest]], [[World Upside Down]], [[Combat Strife]]
-**Archetypes:** [[Satanic Figure]], [[Pilgrim]], [[Fool]], [[Rebel]]
-**Motifs:** [[Swords and Weapons]], [[Cross]], [[Fire]], [[Sea]], [[Journey]], [[Madness (2)]]
-**Themes & Concepts:** [[Faith and Doubt]], [[Faith]], [[Doubt]], [[Good vs Evil]], [[Honour]], [[Heroism]], [[Madness]], [[Temptation]], [[Satire of Society]]
-**Forms & Genres:** [[Novel]], [[Allegory]]
-**Historical References:** [[Christianity]], [[Catholic Church]]
-**Settings:** [[Scotland the Highlands]], [[London]]
-**Characters:** [[Satan]], [[Evan MacIan]], [[James Turnbull]], [[Lucifer]]
+**Topoi:** [[Quest]], [[World Upside Down]], [[Combat Strife]], [[Locus Amoenus]], [[Last Stand]]
+**Archetypes:** [[Satanic Figure]], [[Pilgrim]], [[Fool]], [[Rebel]], [[Christ Figure]], [[Lover]], [[Wise Old Man Sage]]
+**Motifs:** [[Swords and Weapons]], [[Cross]], [[Fire]], [[Sea]], [[Journey]], [[Madness (2)]], [[Dreams]], [[Imprisonment (2)]], [[Garden]]
+**Themes & Concepts:** [[Faith and Doubt]], [[Faith]], [[Doubt]], [[Good vs Evil]], [[Honour]], [[Heroism]], [[Madness]], [[Temptation]], [[Satire of Society]], [[Fanaticism]], [[Friendship]], [[Romantic Love]], [[Reconciliation]], [[Grace and Redemption]]
+**Forms & Genres:** [[Novel]], [[Allegory]], [[Satire]]
+**Historical References:** [[Christianity]], [[Catholic Church]], [[French Revolution]], [[Bible]]
+**Settings:** [[Scotland the Highlands]], [[London]], [[Garden (2)]], [[Ship]]
+**Characters:** [[Satan]], [[Evan MacIan]], [[James Turnbull]], [[Lucifer]], [[Father Michael]], [[Madeleine Durand]], [[Beatrice Drake]], [[Count Gregory]], [[Camille Bert]], [[Cumberland Vane]], [[Wilkinson]], [[Doctor Hutton]], [[Doctor Quayle]]
 
 ## Chapters / scenes / sections
 

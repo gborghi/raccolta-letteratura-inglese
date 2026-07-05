@@ -19,6 +19,44 @@ tags:
   - motif/the_supernatural
   - histref/christianity
   - histref/the_bible
+  - character/christ
+  - character/satan
+  - character/beatrice
+  - character/sam_weller
+  - character/job
+  - character/robinson_crusoe
+  - concept/original_sin
+  - concept/freedom_and_liberty
+  - concept/grotesque
+  - concept/distributism
+  - concept/resurrection
+  - concept/wonder
+  - concept/nationalism_and_patriotism
+  - concept/democracy
+  - concept/poverty
+  - concept/vulgarity
+  - topos/fall_from_innocence
+  - topos/world_upside_down
+  - motif/serpent_snake
+  - motif/dragon
+  - setting/london
+  - archetype/trickster
+  - archetype/wise_old_man_sage
+  - form/aphorism
+  - form/fairy_tale_fantasy
+  - histref/french_revolution
+  - histref/puritanism
+  - histref/reformation
+  - histref/islam
+  - histref/dante
+  - histref/catholic_church
+  - histref/eastern_religion_comparative_religion
+  - histref/industrial_revolution
+  - histref/classical_antiquity
+  - histref/arthur_balfour
+  - histref/pope_pius_x
+  - histref/alfred_harmsworth_lord_northcliffe
+  - histref/walt_whitman
 ---
 
 # Man Orthodox
@@ -154,10 +192,18 @@ tags:
 
 ## Connections
 
-**Motifs:** [[Supernatural]]
-**Themes & Concepts:** [[Faith]], [[Faith and Doubt]], [[Paradox]], [[Satire of Society]], [[Critique of Progress]], [[Joy]], [[Grace and Redemption]]
-**Forms & Genres:** [[Essay]], [[Apologetics]]
-**Historical References:** [[Christianity]], [[Bible]]
+**Archetypes:** [[Trickster]], [[Wise Old Man Sage]]
+
+**Settings:** [[London]]
+
+**Topoi:** [[Fall from Innocence]], [[World Upside Down]]
+
+**Characters:** [[Christ]], [[Satan]], [[Beatrice]], [[Sam Weller]], [[Job]], [[Robinson Crusoe]]
+
+**Motifs:** [[Supernatural]], [[Serpent Snake]], [[Dragon]]
+**Themes & Concepts:** [[Faith]], [[Faith and Doubt]], [[Paradox]], [[Satire of Society]], [[Critique of Progress]], [[Joy]], [[Grace and Redemption]], [[Original Sin]], [[Freedom and Liberty]], [[Grotesque]], [[Distributism]], [[Resurrection]], [[Wonder]], [[Nationalism and Patriotism]], [[Democracy]], [[Poverty]], [[Vulgarity]]
+**Forms & Genres:** [[Essay]], [[Apologetics]], [[Aphorism]], [[Fairy Tale Fantasy]]
+**Historical References:** [[Christianity]], [[Bible]], [[French Revolution]], [[Puritanism]], [[Reformation]], [[Islam]], [[Dante]], [[Catholic Church]], [[Eastern Religion Comparative Religion]], [[Industrial Revolution]], [[Classical Antiquity]], [[Arthur Balfour]], [[Pope Pius X]], [[Alfred Harmsworth (Lord Northcliffe)]], [[Walt Whitman]]
 
 ## Chapters / scenes / sections
 

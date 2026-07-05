@@ -13,6 +13,14 @@ tags:
   - motif/the_supernatural
   - concept/doubt
   - concept/critique_of_progress
+  - concept/paradox
+  - concept/deception
+  - concept/fanaticism
+  - motif/ghosts
+  - form/apologetics
+  - histref/greek_mythology
+  - histref/greek_tragedy
+  - histref/christianity
 ---
 
 # skeptic
@@ -28,9 +36,11 @@ tags:
 
 ## Connections
 
-**Motifs:** [[Supernatural]]
-**Themes & Concepts:** [[Faith]], [[Faith and Doubt]], [[Doubt]], [[Critique of Progress]]
-**Forms & Genres:** [[Essay]]
+**Historical References:** [[Greek Mythology]], [[Greek Tragedy]], [[Christianity]]
+
+**Motifs:** [[Supernatural]], [[Ghosts]]
+**Themes & Concepts:** [[Faith]], [[Faith and Doubt]], [[Doubt]], [[Critique of Progress]], [[Paradox]], [[Deception]], [[Fanaticism]]
+**Forms & Genres:** [[Essay]], [[Apologetics]]
 
 ## Chapters / scenes / sections
 

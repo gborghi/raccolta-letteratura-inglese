@@ -37,6 +37,25 @@ tags:
   - motif/the_road
   - motif/swords_weapons
   - motif/garden
+  - character/innocent_smith
+  - character/michael_moon
+  - character/arthur_inglewood
+  - character/diana_duke
+  - character/rosamund_hunt
+  - character/mary_gray
+  - character/moses_gould
+  - character/dr_cyrus_pym
+  - character/dr_warner
+  - character/emerson_eames
+  - concept/crime_and_punishment
+  - concept/despair
+  - concept/conformity_vs_individualism
+  - topos/paradise_lost
+  - motif/home
+  - motif/marriage
+  - setting/london
+  - setting/rural_england
+  - histref/bible
 ---
 
 *by Chesterton*  ·  **Cluster:** [[Wine and Drink · Ballad Ballade · Road]]
@@ -60,10 +79,16 @@ tags:
 
 ## Connections
 
-**Topoi:** [[World Upside Down]], [[Open Road Homecoming]], [[Sleeper Awakes]]
+**Historical References:** [[Bible]]
+
+**Settings:** [[London]], [[Rural England]]
+
+**Characters:** [[Innocent Smith]], [[Michael Moon]], [[Arthur Inglewood]], [[Diana Duke]], [[Rosamund Hunt]], [[Mary Gray]], [[Moses Gould]], [[Dr. Cyrus Pym]], [[Dr. Warner]], [[Emerson Eames]]
+
+**Topoi:** [[World Upside Down]], [[Open Road Homecoming]], [[Sleeper Awakes]], [[Paradise Lost]]
 **Archetypes:** [[Fool]], [[Innocent]], [[Trickster]], [[Outsider]]
-**Motifs:** [[Wind]], [[Madness (2)]], [[Journey]], [[Road]], [[Swords and Weapons]], [[Garden]]
-**Themes & Concepts:** [[Wonder and Gratitude]], [[Joy]], [[Innocence and Experience]], [[Paradox]], [[Appearance vs Reality]], [[Madness]], [[Justice Right and Wrong]], [[Marriage and Fidelity]], [[Romantic Love]], [[Melancholy]], [[Satire of Society]], [[Critique of Progress]], [[Faith]]
+**Motifs:** [[Wind]], [[Madness (2)]], [[Journey]], [[Road]], [[Swords and Weapons]], [[Garden]], [[Home]], [[Marriage]]
+**Themes & Concepts:** [[Wonder and Gratitude]], [[Joy]], [[Innocence and Experience]], [[Paradox]], [[Appearance vs Reality]], [[Madness]], [[Justice Right and Wrong]], [[Marriage and Fidelity]], [[Romantic Love]], [[Melancholy]], [[Satire of Society]], [[Critique of Progress]], [[Faith]], [[Crime and Punishment]], [[Despair]], [[Conformity vs Individualism]]
 **Forms & Genres:** [[Novel]], [[Allegory]], [[Comedy]], [[Satire]]
 
 ## Chapters / scenes / sections

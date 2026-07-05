@@ -17,6 +17,17 @@ tags:
   - motif/the_sea
   - setting/a_ship
   - setting/the_sea
+  - character/sylvia_pankhurst
+  - character/w_t_stead
+  - concept/equality_in_death
+  - concept/self_sacrifice
+  - concept/democracy
+  - concept/comradeship
+  - concept/conscience
+  - concept/courage
+  - topos/sic_transit_gloria_mundi
+  - archetype/hero
+  - histref/suffragette_movement
 ---
 
 # titanic
@@ -32,8 +43,16 @@ tags:
 
 ## Connections
 
+**Historical References:** [[Suffragette Movement]]
+
+**Archetypes:** [[Hero]]
+
+**Topoi:** [[Sic Transit Gloria Mundi]]
+
+**Characters:** [[Sylvia Pankhurst]], [[W. T. Stead]]
+
 **Motifs:** [[Ship (2)]], [[Sea]]
-**Themes & Concepts:** [[Critique of Progress]], [[Satire of Society]], [[Class Conflict]], [[Mortality]], [[Heroism]]
+**Themes & Concepts:** [[Critique of Progress]], [[Satire of Society]], [[Class Conflict]], [[Mortality]], [[Heroism]], [[Equality in Death]], [[Self-Sacrifice]], [[Democracy]], [[Comradeship]], [[Conscience]], [[Courage]]
 **Forms & Genres:** [[Essay]]
 **Settings:** [[Ship]], [[Sea (2)]]
 

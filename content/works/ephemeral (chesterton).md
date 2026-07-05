@@ -14,6 +14,17 @@ tags:
   - concept/faith
   - concept/the_common_man
   - form/essay
+  - concept/secrecy_and_concealment
+  - concept/power_and_corruption
+  - concept/social_injustice
+  - concept/religious_persecution
+  - topos/world_upside_down
+  - motif/secrets
+  - archetype/tyrant
+  - histref/french_revolution
+  - histref/islam
+  - histref/catholic_church
+  - histref/puritanism
 ---
 
 # ephemeral
@@ -29,7 +40,15 @@ tags:
 
 ## Connections
 
-**Themes & Concepts:** [[Critique of Progress]], [[Artist and Society]], [[Satire of Society]], [[Transience]], [[Faith]], [[Common Man]]
+**Historical References:** [[French Revolution]], [[Islam]], [[Catholic Church]], [[Puritanism]]
+
+**Archetypes:** [[Tyrant]]
+
+**Motifs:** [[Secrets]]
+
+**Topoi:** [[World Upside Down]]
+
+**Themes & Concepts:** [[Critique of Progress]], [[Artist and Society]], [[Satire of Society]], [[Transience]], [[Faith]], [[Common Man]], [[Secrecy and Concealment]], [[Power and Corruption]], [[Social Injustice]], [[Religious Persecution]]
 **Forms & Genres:** [[Essay]]
 
 ## Chapters / scenes / sections

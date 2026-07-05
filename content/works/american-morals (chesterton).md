@@ -14,6 +14,18 @@ tags:
   - concept/critique_of_progress
   - concept/truth
   - histref/puritanism
+  - character/avis_d_carlson
+  - concept/fanaticism
+  - concept/conformity_vs_individualism
+  - concept/reform
+  - motif/wine_and_drink
+  - motif/tobacco_and_cigars
+  - setting/america
+  - setting/new_england_america
+  - archetype/scapegoat
+  - histref/ku_klux_klan
+  - histref/scopes_trial
+  - histref/prohibition_era
 ---
 
 # american-morals
@@ -25,9 +37,17 @@ tags:
 
 ## Connections
 
-**Themes & Concepts:** [[Satire of Society]], [[Justice Right and Wrong]], [[Critique of Progress]], [[Truth]]
+**Archetypes:** [[Scapegoat]]
+
+**Settings:** [[America]], [[New England America]]
+
+**Motifs:** [[Wine and Drink]], [[Tobacco and Cigars]]
+
+**Characters:** [[Avis D. Carlson]]
+
+**Themes & Concepts:** [[Satire of Society]], [[Justice Right and Wrong]], [[Critique of Progress]], [[Truth]], [[Fanaticism]], [[Conformity vs Individualism]], [[Reform]]
 **Forms & Genres:** [[Essay]], [[Satire]]
-**Historical References:** [[Puritanism]]
+**Historical References:** [[Puritanism]], [[Ku Klux Klan]], [[Scopes Trial]], [[Prohibition Era]]
 
 ## Testo integrale / Full text
 

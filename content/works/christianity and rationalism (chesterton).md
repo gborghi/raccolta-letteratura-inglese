@@ -16,6 +16,24 @@ tags:
   - concept/critique_of_progress
   - histref/christianity
   - histref/catholic_church
+  - character/christ
+  - character/robert_blatchford
+  - character/moses
+  - concept/paradox
+  - concept/self_denial_and_renunciation
+  - concept/paganism_and_classical_revival
+  - concept/war_and_its_cost
+  - concept/supernatural_2
+  - concept/joy
+  - concept/rationalism
+  - concept/revelation
+  - topos/contemptus_mundi
+  - motif/swords_and_weapons
+  - archetype/martyr_saint
+  - archetype/prophet
+  - histref/french_revolution
+  - histref/bible
+  - histref/eastern_religion_comparative_religion
 ---
 
 *by Chesterton*  ·  **Cluster:** [[Christianity · Faith and Doubt · Doubt]]
@@ -29,9 +47,17 @@ tags:
 
 ## Connections
 
-**Themes & Concepts:** [[Faith and Doubt]], [[Faith]], [[Doubt]], [[Truth]], [[Critique of Progress]]
+**Archetypes:** [[Martyr Saint]], [[Prophet]]
+
+**Motifs:** [[Swords and Weapons]]
+
+**Topoi:** [[Contemptus Mundi]]
+
+**Characters:** [[Christ]], [[Robert Blatchford]], [[Moses]]
+
+**Themes & Concepts:** [[Faith and Doubt]], [[Faith]], [[Doubt]], [[Truth]], [[Critique of Progress]], [[Paradox]], [[Self-Denial and Renunciation]], [[Paganism and Classical Revival]], [[War and its Cost]], [[Supernatural (2)]], [[Joy]], [[Rationalism]], [[Revelation]]
 **Forms & Genres:** [[Essay]], [[Apologetics]]
-**Historical References:** [[Christianity]], [[Catholic Church]]
+**Historical References:** [[Christianity]], [[Catholic Church]], [[French Revolution]], [[Bible]], [[Eastern Religion Comparative Religion]]
 
 ## Chapters / scenes / sections
 

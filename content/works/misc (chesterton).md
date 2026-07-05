@@ -15,6 +15,44 @@ tags:
   - concept/paradox
   - concept/distributism
   - archetype/corrupt_official
+  - character/king_john
+  - concept/freedom_and_liberty
+  - concept/democracy
+  - concept/class_conflict
+  - concept/money_and_avarice
+  - concept/power_and_corruption
+  - concept/fate_and_free_will
+  - concept/kingship_and_legitimacy
+  - concept/nature_vs_civilization
+  - concept/nationalism_and_patriotism
+  - concept/eastern_religion_and_asceticism
+  - concept/crime_and_punishment
+  - topos/world_upside_down
+  - motif/fire
+  - motif/money_and_gold
+  - motif/wind
+  - motif/garden
+  - motif/animals
+  - motif/water
+  - setting/medieval_england_2
+  - setting/rural_england
+  - setting/scotland_the_highlands
+  - setting/industrial_city
+  - setting/london
+  - setting/ancient_rome_2
+  - archetype/tyrant
+  - archetype/villain
+  - archetype/self_made_man
+  - archetype/fool
+  - archetype/detective
+  - form/sketch
+  - histref/french_revolution
+  - histref/medieval_england
+  - histref/bible
+  - histref/industrial_revolution
+  - histref/islam
+  - histref/greek_mythology
+  - histref/christianity
 ---
 
 # misc
@@ -67,9 +105,19 @@ tags:
 
 ## Connections
 
-**Archetypes:** [[Corrupt Official]]
-**Themes & Concepts:** [[Satire of Society]], [[Common Man]], [[Critique of Progress]], [[Paradox]], [[Distributism]]
-**Forms & Genres:** [[Essay]], [[Satire]]
+**Historical References:** [[French Revolution]], [[Medieval England]], [[Bible]], [[Industrial Revolution]], [[Islam]], [[Greek Mythology]], [[Christianity]]
+
+**Settings:** [[Medieval England (2)]], [[Rural England]], [[Scotland the Highlands]], [[Industrial City]], [[London]], [[Ancient Rome (2)]]
+
+**Motifs:** [[Fire]], [[Money and Gold]], [[Wind]], [[Garden]], [[Animals]], [[Water]]
+
+**Topoi:** [[World Upside Down]]
+
+**Characters:** [[King John]]
+
+**Archetypes:** [[Corrupt Official]], [[Tyrant]], [[Villain]], [[Self-Made Man]], [[Fool]], [[Detective]]
+**Themes & Concepts:** [[Satire of Society]], [[Common Man]], [[Critique of Progress]], [[Paradox]], [[Distributism]], [[Freedom and Liberty]], [[Democracy]], [[Class Conflict]], [[Money and Avarice]], [[Power and Corruption]], [[Fate and Free Will]], [[Kingship and Legitimacy]], [[Nature vs Civilization]], [[Nationalism and Patriotism]], [[Eastern Religion and Asceticism]], [[Crime and Punishment]]
+**Forms & Genres:** [[Essay]], [[Satire]], [[Sketch]]
 
 ## Chapters / scenes / sections
 

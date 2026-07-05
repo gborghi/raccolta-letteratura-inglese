@@ -28,6 +28,39 @@ tags:
   - histref/catholic_church
   - histref/the_crusades
   - histref/the_renaissance
+  - character/christ
+  - character/virgin_mary
+  - character/st_francis_of_assisi
+  - character/pietro_bernadone
+  - character/st_clare_of_assisi
+  - character/st_dominic
+  - character/bernard_of_quintaville
+  - concept/martyrdom
+  - concept/self_denial_and_renunciation
+  - concept/joy
+  - concept/democracy
+  - concept/original_sin
+  - concept/providence
+  - concept/romantic_love
+  - topos/contemptus_mundi
+  - topos/poet_as_prophet
+  - motif/fire
+  - motif/water
+  - motif/sun
+  - motif/cave
+  - motif/cross
+  - motif/nakedness
+  - motif/dreams
+  - motif/light_and_dark
+  - motif/clothing_and_costume
+  - setting/italy
+  - setting/mountains
+  - archetype/fool
+  - archetype/pilgrim
+  - form/essay
+  - histref/dante
+  - histref/islam_and_the_east
+  - histref/spanish_inquisition
 ---
 
 # St Francis
@@ -52,12 +85,16 @@ tags:
 
 ## Connections
 
-**Topoi:** [[World Upside Down]]
-**Archetypes:** [[Martyr Saint]], [[Christ Figure]]
-**Motifs:** [[Nature]], [[Animals]], [[Birds]]
-**Themes & Concepts:** [[Faith]], [[Humility]], [[Poverty]], [[Conversion]], [[Grace and Redemption]], [[Divine Love]], [[Paradox]], [[Wonder and Gratitude]], [[Nature vs Civilization]]
-**Forms & Genres:** [[Biography]], [[Apologetics]]
-**Historical References:** [[Christianity]], [[Catholic Church]], [[Crusades]], [[Renaissance]]
+**Settings:** [[Italy]], [[Mountains]]
+
+**Characters:** [[Christ]], [[Virgin Mary]], [[St. Francis of Assisi]], [[Pietro Bernadone]], [[St. Clare of Assisi]], [[St. Dominic]], [[Bernard of Quintaville]]
+
+**Topoi:** [[World Upside Down]], [[Contemptus Mundi]], [[Poet as Prophet]]
+**Archetypes:** [[Martyr Saint]], [[Christ Figure]], [[Fool]], [[Pilgrim]]
+**Motifs:** [[Nature]], [[Animals]], [[Birds]], [[Fire]], [[Water]], [[Sun]], [[Cave]], [[Cross]], [[Nakedness]], [[Dreams]], [[Light and Dark]], [[Clothing and Costume]]
+**Themes & Concepts:** [[Faith]], [[Humility]], [[Poverty]], [[Conversion]], [[Grace and Redemption]], [[Divine Love]], [[Paradox]], [[Wonder and Gratitude]], [[Nature vs Civilization]], [[Martyrdom]], [[Self-Denial and Renunciation]], [[Joy]], [[Democracy]], [[Original Sin]], [[Providence]], [[Romantic Love]]
+**Forms & Genres:** [[Biography]], [[Apologetics]], [[Essay]]
+**Historical References:** [[Christianity]], [[Catholic Church]], [[Crusades]], [[Renaissance]], [[Dante]], [[Islam and the East]], [[Spanish Inquisition]]
 
 ## Chapters / scenes / sections
 

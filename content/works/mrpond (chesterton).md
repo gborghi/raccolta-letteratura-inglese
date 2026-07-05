@@ -18,6 +18,35 @@ tags:
   - concept/guilt
   - motif/death
   - motif/blood
+  - character/mr_pond
+  - character/captain_gahagan
+  - character/sir_hubert_wotton
+  - character/joan_varney
+  - character/marshal_von_grock
+  - concept/crime_and_punishment
+  - concept/justice_right_and_wrong
+  - concept/kingship_and_legitimacy
+  - concept/self_deception
+  - concept/fanaticism
+  - concept/power_and_corruption
+  - topos/all_the_world_s_a_stage
+  - topos/double
+  - motif/concealment_hidden_identity
+  - motif/swords_and_weapons
+  - motif/garden
+  - motif/moon
+  - setting/london
+  - setting/scotland_the_highlands
+  - setting/germany
+  - setting/rural_england
+  - archetype/fool
+  - archetype/villain
+  - archetype/corrupt_official
+  - form/fairy_tale_fantasy
+  - form/melodrama
+  - histref/first_world_war
+  - histref/irish_question
+  - histref/puritanism
 ---
 
 # MrPond
@@ -37,10 +66,18 @@ tags:
 
 ## Connections
 
-**Archetypes:** [[Detective]]
-**Motifs:** [[Death]], [[Blood]]
-**Themes & Concepts:** [[Paradox]], [[Ratiocination Detection]], [[Appearance vs Reality]], [[Deception]], [[Revenge]], [[Guilt]]
-**Forms & Genres:** [[Detective Fiction]], [[Short Story]]
+**Historical References:** [[First World War]], [[Irish Question]], [[Puritanism]]
+
+**Settings:** [[London]], [[Scotland the Highlands]], [[Germany]], [[Rural England]]
+
+**Topoi:** [[All the World's a Stage]], [[Double]]
+
+**Characters:** [[Mr Pond]], [[Captain Gahagan]], [[Sir Hubert Wotton]], [[Joan Varney]], [[Marshal Von Grock]]
+
+**Archetypes:** [[Detective]], [[Fool]], [[Villain]], [[Corrupt Official]]
+**Motifs:** [[Death]], [[Blood]], [[Concealment Hidden Identity]], [[Swords and Weapons]], [[Garden]], [[Moon]]
+**Themes & Concepts:** [[Paradox]], [[Ratiocination Detection]], [[Appearance vs Reality]], [[Deception]], [[Revenge]], [[Guilt]], [[Crime and Punishment]], [[Justice Right and Wrong]], [[Kingship and Legitimacy]], [[Self-Deception]], [[Fanaticism]], [[Power and Corruption]]
+**Forms & Genres:** [[Detective Fiction]], [[Short Story]], [[Fairy Tale Fantasy]], [[Melodrama]]
 
 ## Chapters / scenes / sections
 

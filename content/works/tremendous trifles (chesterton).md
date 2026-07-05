@@ -19,6 +19,31 @@ tags:
   - motif/eyes_sight
   - motif/the_journey
   - setting/london
+  - character/robin_hood
+  - character/parkinson
+  - character/father_christmas
+  - character/president_kruger
+  - character/charles_dickens
+  - concept/democracy
+  - concept/good_vs_evil
+  - concept/critique_of_progress
+  - concept/paganism_and_classical_revival
+  - topos/world_upside_down
+  - topos/temptation_2
+  - motif/fire
+  - motif/ghosts
+  - motif/wind
+  - setting/paris
+  - setting/continental_europe_brussels
+  - archetype/satanic_figure
+  - archetype/ghost
+  - form/travel_writing
+  - form/ballad_ballade
+  - form/sketch
+  - histref/french_revolution
+  - histref/crusades
+  - histref/napoleonic_wars_the_navy
+  - histref/boer_war_second_south_african_war
 ---
 
 *by Chesterton*  ·  **Cluster:** [[Essay · Critique of Progress · Common Man]]
@@ -71,10 +96,18 @@ tags:
 
 ## Connections
 
-**Motifs:** [[Eyes and Sight]], [[Journey]]
-**Themes & Concepts:** [[Wonder and Gratitude]], [[Imagination]], [[Paradox]], [[Common Man]], [[Joy]], [[Humility]], [[Satire of Society]]
-**Forms & Genres:** [[Essay]], [[Satire]]
-**Settings:** [[London]]
+**Historical References:** [[French Revolution]], [[Crusades]], [[Napoleonic Wars the Navy]], [[Boer War (Second South African War)]]
+
+**Archetypes:** [[Satanic Figure]], [[Ghost]]
+
+**Topoi:** [[World Upside Down]], [[Temptation (2)]]
+
+**Characters:** [[Robin Hood]], [[Parkinson]], [[Father Christmas]], [[President Kruger]], [[Charles Dickens]]
+
+**Motifs:** [[Eyes and Sight]], [[Journey]], [[Fire]], [[Ghosts]], [[Wind]]
+**Themes & Concepts:** [[Wonder and Gratitude]], [[Imagination]], [[Paradox]], [[Common Man]], [[Joy]], [[Humility]], [[Satire of Society]], [[Democracy]], [[Good vs Evil]], [[Critique of Progress]], [[Paganism and Classical Revival]]
+**Forms & Genres:** [[Essay]], [[Satire]], [[Travel Writing]], [[Ballad Ballade]], [[Sketch]]
+**Settings:** [[London]], [[Paris]], [[Continental Europe (Brussels)]]
 
 ## Chapters / scenes / sections
 

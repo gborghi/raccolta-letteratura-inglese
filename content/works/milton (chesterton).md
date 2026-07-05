@@ -16,6 +16,18 @@ tags:
   - character/satan
   - concept/appearance_vs_reality
   - topos/paradise_lost
+  - character/milton
+  - character/shakespeare
+  - character/oliver_cromwell
+  - concept/democracy
+  - concept/liberty_political_freedom
+  - concept/fate_and_free_will
+  - concept/class_conflict
+  - concept/power_and_corruption
+  - motif/stone_and_marble
+  - motif/light_and_dark
+  - histref/french_revolution
+  - histref/calvinism
 ---
 
 *by Chesterton*  ·  **Cluster:** [[Temptation · Good vs Evil · Serpent Snake]]
@@ -29,12 +41,14 @@ tags:
 
 ## Connections
 
+**Motifs:** [[Stone and Marble]], [[Light and Dark]]
+
 **Topoi:** [[Paradise Lost]]
 **Archetypes:** [[Satanic Figure]]
-**Themes & Concepts:** [[Pride]], [[Appearance vs Reality]]
+**Themes & Concepts:** [[Pride]], [[Appearance vs Reality]], [[Democracy]], [[Liberty Political Freedom]], [[Fate and Free Will]], [[Class Conflict]], [[Power and Corruption]]
 **Forms & Genres:** [[Literary Criticism]], [[Essay]]
-**Historical References:** [[Puritanism]], [[Reformation]]
-**Characters:** [[Satan]]
+**Historical References:** [[Puritanism]], [[Reformation]], [[French Revolution]], [[Calvinism]]
+**Characters:** [[Satan]], [[Milton]], [[Shakespeare]], [[Oliver Cromwell]]
 
 ## Testo integrale / Full text
 

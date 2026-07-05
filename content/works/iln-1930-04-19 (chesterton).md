@@ -16,6 +16,10 @@ tags:
   - form/essay
   - form/literary_criticism
   - histref/the_first_world_war
+  - concept/truth
+  - concept/power_of_language
+  - motif/battlefield_2
+  - form/problem_play
 ---
 
 # ILN-1930-04-19
@@ -31,9 +35,9 @@ tags:
 
 ## Connections
 
-**Motifs:** [[Blood]]
-**Themes & Concepts:** [[War and its Cost]], [[Nationalism and Patriotism]], [[Artist and Society]], [[Appearance vs Reality]], [[Satire of Society]]
-**Forms & Genres:** [[Essay]], [[Literary Criticism]]
+**Motifs:** [[Blood]], [[Battlefield (2)]]
+**Themes & Concepts:** [[War and its Cost]], [[Nationalism and Patriotism]], [[Artist and Society]], [[Appearance vs Reality]], [[Satire of Society]], [[Truth]], [[Power of Language]]
+**Forms & Genres:** [[Essay]], [[Literary Criticism]], [[Problem Play]]
 **Historical References:** [[First World War]]
 
 ## Chapters / scenes / sections

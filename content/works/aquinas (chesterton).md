@@ -27,6 +27,44 @@ tags:
   - archetype/wise_old_man
   - archetype/martyr
   - concept/critique_of_progress
+  - character/christ
+  - character/thomas_aquinas
+  - character/st_francis_of_assisi
+  - character/st_dominic
+  - character/frederick_ii
+  - character/albertus_magnus
+  - character/st_bonaventure
+  - character/siger_of_brabant
+  - character/st_louis_king_louis_ix_of_france
+  - character/martin_luther
+  - character/aristotle
+  - character/plato
+  - concept/fate_and_free_will
+  - concept/reconciliation
+  - concept/distributism
+  - concept/eastern_religion_and_asceticism
+  - concept/poverty
+  - concept/conversion
+  - concept/order_vs_chaos
+  - concept/being_and_existence
+  - topos/great_chain_of_being
+  - topos/book_of_nature
+  - topos/contemptus_mundi
+  - motif/fire
+  - motif/imprisonment_2
+  - motif/book_reading
+  - motif/cross
+  - setting/italy
+  - setting/paris
+  - setting/castle
+  - setting/court
+  - archetype/mentor
+  - archetype/prophet
+  - histref/islam
+  - histref/inquisition
+  - histref/eastern_religion_comparative_religion
+  - histref/crusades
+  - histref/renaissance
 ---
 
 # aquinas
@@ -48,10 +86,18 @@ tags:
 
 ## Connections
 
-**Archetypes:** [[Wise Old Man Sage]], [[Martyr Saint]]
-**Themes & Concepts:** [[Faith and Doubt]], [[Faith]], [[Truth]], [[Wonder and Gratitude]], [[Sin and the Fall]], [[Grace and Redemption]], [[Humility]], [[Self-Knowledge]], [[Natural Order]], [[Critique of Progress]]
+**Settings:** [[Italy]], [[Paris]], [[Castle]], [[Court]]
+
+**Motifs:** [[Fire]], [[Imprisonment (2)]], [[Book Reading]], [[Cross]]
+
+**Topoi:** [[Great Chain of Being]], [[Book of Nature]], [[Contemptus Mundi]]
+
+**Characters:** [[Christ]], [[Thomas Aquinas]], [[St. Francis of Assisi]], [[St. Dominic]], [[Frederick II]], [[Albertus Magnus]], [[St. Bonaventure]], [[Siger of Brabant]], [[St. Louis (King Louis IX of France)]], [[Martin Luther]], [[Aristotle]], [[Plato]]
+
+**Archetypes:** [[Wise Old Man Sage]], [[Martyr Saint]], [[Mentor]], [[Prophet]]
+**Themes & Concepts:** [[Faith and Doubt]], [[Faith]], [[Truth]], [[Wonder and Gratitude]], [[Sin and the Fall]], [[Grace and Redemption]], [[Humility]], [[Self-Knowledge]], [[Natural Order]], [[Critique of Progress]], [[Fate and Free Will]], [[Reconciliation]], [[Distributism]], [[Eastern Religion and Asceticism]], [[Poverty]], [[Conversion]], [[Order vs Chaos]], [[Being and Existence]]
 **Forms & Genres:** [[Biography]], [[Apologetics]], [[Essay]]
-**Historical References:** [[Christianity]], [[Catholic Church]], [[Reformation]], [[Classical Antiquity]], [[Medieval England]]
+**Historical References:** [[Christianity]], [[Catholic Church]], [[Reformation]], [[Classical Antiquity]], [[Medieval England]], [[Islam]], [[Inquisition]], [[Eastern Religion Comparative Religion]], [[Crusades]], [[Renaissance]]
 
 ## Chapters / scenes / sections
 

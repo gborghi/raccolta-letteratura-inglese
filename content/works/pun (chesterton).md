@@ -13,6 +13,14 @@ tags:
   - concept/critique_of_progress
   - concept/beauty
   - concept/joy
+  - concept/power_of_language
+  - concept/paradox
+  - concept/wit
+  - motif/letters_and_writing
+  - motif/wordplay
+  - form/epigram
+  - form/heroic_couplet
+  - histref/puritanism
 ---
 
 # pun
@@ -28,8 +36,12 @@ tags:
 
 ## Connections
 
-**Themes & Concepts:** [[Artist and Society]], [[Critique of Progress]], [[Beauty]], [[Joy]]
-**Forms & Genres:** [[Essay]], [[Literary Criticism]]
+**Historical References:** [[Puritanism]]
+
+**Motifs:** [[Letters and Writing]], [[Wordplay]]
+
+**Themes & Concepts:** [[Artist and Society]], [[Critique of Progress]], [[Beauty]], [[Joy]], [[Power of Language]], [[Paradox]], [[Wit]]
+**Forms & Genres:** [[Essay]], [[Literary Criticism]], [[Epigram]], [[Heroic Couplet]]
 
 ## Chapters / scenes / sections
 

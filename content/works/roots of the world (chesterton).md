@@ -17,6 +17,15 @@ tags:
   - motif/flowers
   - setting/a_garden
   - concept/doubt
+  - concept/truth
+  - concept/conscience
+  - concept/sin_and_the_fall
+  - topos/fall_from_innocence
+  - topos/paradise_lost
+  - archetype/child
+  - form/parable
+  - histref/bible
+  - histref/robert_blatchford
 ---
 
 *by Chesterton*  ·  **Cluster:** [[Temptation · Good vs Evil · Serpent Snake]]
@@ -30,10 +39,14 @@ tags:
 
 ## Connections
 
+**Archetypes:** [[Child]]
+
+**Topoi:** [[Fall from Innocence]], [[Paradise Lost]]
+
 **Motifs:** [[Garden]], [[Flowers]]
-**Themes & Concepts:** [[Faith]], [[Faith and Doubt]], [[Critique of Progress]], [[Doubt]]
-**Forms & Genres:** [[Allegory]], [[Fable]]
-**Historical References:** [[Christianity]]
+**Themes & Concepts:** [[Faith]], [[Faith and Doubt]], [[Critique of Progress]], [[Doubt]], [[Truth]], [[Conscience]], [[Sin and the Fall]]
+**Forms & Genres:** [[Allegory]], [[Fable]], [[Parable]]
+**Historical References:** [[Christianity]], [[Bible]], [[Robert Blatchford]]
 **Settings:** [[Garden (2)]]
 
 ## Chapters / scenes / sections

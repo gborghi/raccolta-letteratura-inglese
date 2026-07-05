@@ -15,6 +15,27 @@ tags:
   - motif/money_gold
   - concept/class_conflict
   - concept/critique_of_progress
+  - concept/slavery
+  - concept/crime_and_punishment
+  - concept/satire_of_society
+  - concept/freedom_and_liberty
+  - concept/democracy
+  - concept/nationalism_and_patriotism
+  - concept/eugenics
+  - motif/prison
+  - motif/chains
+  - setting/germany
+  - setting/london
+  - setting/ireland
+  - archetype/tyrant
+  - archetype/fool
+  - archetype/rebel
+  - archetype/corrupt_official
+  - histref/french_revolution
+  - histref/first_world_war
+  - histref/irish_question
+  - histref/industrial_revolution
+  - histref/marconi_scandal
 ---
 
 # UtopiaUsurers
@@ -42,8 +63,14 @@ tags:
 
 ## Connections
 
-**Motifs:** [[Money and Gold]]
-**Themes & Concepts:** [[Anti-Industrialism]], [[Distributism]], [[Power and Corruption]], [[Social Injustice]], [[Class Conflict]], [[Critique of Progress]]
+**Historical References:** [[French Revolution]], [[First World War]], [[Irish Question]], [[Industrial Revolution]], [[Marconi Scandal]]
+
+**Archetypes:** [[Tyrant]], [[Fool]], [[Rebel]], [[Corrupt Official]]
+
+**Settings:** [[Germany]], [[London]], [[Ireland]]
+
+**Motifs:** [[Money and Gold]], [[Prison]], [[Chains]]
+**Themes & Concepts:** [[Anti-Industrialism]], [[Distributism]], [[Power and Corruption]], [[Social Injustice]], [[Class Conflict]], [[Critique of Progress]], [[Slavery]], [[Crime and Punishment]], [[Satire of Society]], [[Freedom and Liberty]], [[Democracy]], [[Nationalism and Patriotism]], [[Eugenics]]
 **Forms & Genres:** [[Essay]]
 
 ## Chapters / scenes / sections

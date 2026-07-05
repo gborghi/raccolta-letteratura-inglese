@@ -13,6 +13,11 @@ tags:
   - concept/truth
   - concept/satire_of_society
   - concept/marriage_and_fidelity
+  - character/fagin
+  - concept/power_of_language
+  - concept/crime_and_punishment
+  - concept/critique_of_progress
+  - histref/greek_mythology
 ---
 
 *by Chesterton*  ·  **Cluster:** [[Artist and Society · Truth · Regency Georgian England]]
@@ -26,7 +31,11 @@ tags:
 
 ## Connections
 
-**Themes & Concepts:** [[Deception]], [[Truth]], [[Satire of Society]], [[Marriage and Fidelity]]
+**Historical References:** [[Greek Mythology]]
+
+**Characters:** [[Fagin]]
+
+**Themes & Concepts:** [[Deception]], [[Truth]], [[Satire of Society]], [[Marriage and Fidelity]], [[Power of Language]], [[Crime and Punishment]], [[Critique of Progress]]
 **Forms & Genres:** [[Essay]], [[Satire]]
 
 ## Chapters / scenes / sections

@@ -13,6 +13,17 @@ tags:
   - concept/critique_of_progress
   - concept/the_sublime
   - histref/christianity
+  - character/charles_darwin
+  - character/thomas_henry_huxley
+  - character/edward_clodd
+  - concept/providence
+  - concept/unseen_the_hidden
+  - concept/agnosticism
+  - motif/light_and_dark
+  - motif/eyes_and_sight
+  - form/apologetics
+  - histref/bible
+  - histref/darwinism
 ---
 
 *by Chesterton*  ·  **Cluster:** [[Christianity · Faith and Doubt · Doubt]]
@@ -26,9 +37,13 @@ tags:
 
 ## Connections
 
-**Themes & Concepts:** [[Faith and Doubt]], [[Doubt]], [[Critique of Progress]], [[Sublime]]
-**Forms & Genres:** [[Essay]]
-**Historical References:** [[Christianity]]
+**Motifs:** [[Light and Dark]], [[Eyes and Sight]]
+
+**Characters:** [[Charles Darwin]], [[Thomas Henry Huxley]], [[Edward Clodd]]
+
+**Themes & Concepts:** [[Faith and Doubt]], [[Doubt]], [[Critique of Progress]], [[Sublime]], [[Providence]], [[Unseen The Hidden]], [[Agnosticism]]
+**Forms & Genres:** [[Essay]], [[Apologetics]]
+**Historical References:** [[Christianity]], [[Bible]], [[Darwinism]]
 
 ## Chapters / scenes / sections
 

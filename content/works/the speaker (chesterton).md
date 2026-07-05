@@ -15,6 +15,31 @@ tags:
   - concept/faith
   - motif/letters_writing
   - concept/melancholy
+  - character/christ
+  - character/judas_iscariot
+  - character/job
+  - concept/nationalism_and_patriotism
+  - concept/mortality
+  - concept/eastern_religion_and_asceticism
+  - concept/education
+  - concept/suffering_and_pain
+  - concept/wonder
+  - concept/paradox
+  - concept/the_woman_question
+  - topos/vanitas
+  - topos/memento_mori
+  - topos/world_upside_down
+  - motif/clothing_and_costume
+  - motif/ghosts
+  - form/sonnet
+  - form/fairy_tale_fantasy
+  - form/novel
+  - histref/puritanism
+  - histref/reformation
+  - histref/catholic_church
+  - histref/bible
+  - histref/eastern_religion_comparative_religion
+  - histref/boer_war
 ---
 
 *by Chesterton*  ·  **Cluster:** [[Artist and Society · Truth · Regency Georgian England]]
@@ -28,9 +53,15 @@ tags:
 
 ## Connections
 
-**Motifs:** [[Letters and Writing]]
-**Themes & Concepts:** [[Friendship]], [[Artist and Society]], [[Joy]], [[Faith]], [[Melancholy]]
-**Forms & Genres:** [[Literary Criticism]], [[Essay]]
+**Historical References:** [[Puritanism]], [[Reformation]], [[Catholic Church]], [[Bible]], [[Eastern Religion Comparative Religion]], [[Boer War]]
+
+**Topoi:** [[Vanitas]], [[Memento Mori]], [[World Upside Down]]
+
+**Characters:** [[Christ]], [[Judas Iscariot]], [[Job]]
+
+**Motifs:** [[Letters and Writing]], [[Clothing and Costume]], [[Ghosts]]
+**Themes & Concepts:** [[Friendship]], [[Artist and Society]], [[Joy]], [[Faith]], [[Melancholy]], [[Nationalism and Patriotism]], [[Mortality]], [[Eastern Religion and Asceticism]], [[Education]], [[Suffering and Pain]], [[Wonder]], [[Paradox]], [[The Woman Question]]
+**Forms & Genres:** [[Literary Criticism]], [[Essay]], [[Sonnet]], [[Fairy Tale Fantasy]], [[Novel]]
 
 ## Testo integrale / Full text
 

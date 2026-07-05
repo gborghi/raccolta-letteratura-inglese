@@ -13,6 +13,17 @@ tags:
   - concept/truth
   - concept/paradox
   - histref/christianity
+  - character/tilden
+  - character/st_thomas_aquinas
+  - concept/common_man
+  - concept/nationalism_and_patriotism
+  - concept/power_of_language
+  - archetype/common_man_2
+  - form/aphorism
+  - form/apologetics
+  - histref/bible
+  - histref/ancient_greece
+  - histref/scholasticism
 ---
 
 # logic
@@ -28,9 +39,13 @@ tags:
 
 ## Connections
 
-**Themes & Concepts:** [[Satire of Society]], [[Critique of Progress]], [[Truth]], [[Paradox]]
-**Forms & Genres:** [[Essay]]
-**Historical References:** [[Christianity]]
+**Archetypes:** [[Common Man (2)]]
+
+**Characters:** [[Tilden]], [[St. Thomas Aquinas]]
+
+**Themes & Concepts:** [[Satire of Society]], [[Critique of Progress]], [[Truth]], [[Paradox]], [[Common Man]], [[Nationalism and Patriotism]], [[Power of Language]]
+**Forms & Genres:** [[Essay]], [[Aphorism]], [[Apologetics]]
+**Historical References:** [[Christianity]], [[Bible]], [[Ancient Greece]], [[Scholasticism]]
 
 ## Chapters / scenes / sections
 

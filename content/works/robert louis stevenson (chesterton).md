@@ -29,6 +29,51 @@ tags:
   - histref/puritanism
   - setting/scotland
   - archetype/double_doppelganger
+  - character/long_john_silver
+  - character/jim_hawkins
+  - character/alan_breck_stewart
+  - character/david_balfour
+  - character/jekyll_and_hyde
+  - character/james_durie_master_of_ballantrae
+  - character/henry_durie
+  - character/ephraim_mackellar
+  - character/weir_of_hermiston
+  - character/attwater
+  - character/huish
+  - character/loudon_dodd
+  - character/prince_florizel_of_bohemia
+  - character/skelt
+  - concept/courage
+  - concept/conscience
+  - concept/creativity_and_artistic_labor
+  - concept/fate_and_free_will
+  - concept/nostalgia
+  - concept/vanity
+  - concept/paganism_and_classical_revival
+  - concept/mortality
+  - concept/identity
+  - concept/optimism_and_pessimism
+  - topos/quest
+  - topos/golden_age
+  - topos/open_road_homecoming
+  - motif/light_and_dark
+  - motif/swords_and_weapons
+  - motif/disease_and_contagion
+  - motif/toy_theatre
+  - setting/paris
+  - setting/america
+  - setting/london
+  - setting/edinburgh
+  - setting/south_seas_pacific_islands
+  - archetype/child
+  - archetype/shadow
+  - archetype/artist
+  - archetype/quest_hero
+  - form/essay
+  - form/gothic_novel
+  - form/historical_novel
+  - form/detective_fiction
+  - histref/aestheticism_and_the_decadent_movement
 ---
 
 *by Chesterton*  ·  **Cluster:** [[Maturation and Growth · Childhood · Innocence and Experience]]
@@ -52,13 +97,15 @@ tags:
 
 ## Connections
 
-**Topoi:** [[Fall from Innocence]], [[Double]]
-**Archetypes:** [[Double Doppelganger]]
-**Motifs:** [[Childhood]], [[Nightingale]], [[Journey]]
-**Themes & Concepts:** [[Artist and Society]], [[Innocence and Experience]], [[Maturation and Growth]], [[Joy]], [[Imagination]], [[Sin and the Fall]], [[Faith]], [[Critique of Progress]], [[Heroism]], [[Good vs Evil]], [[Disillusionment]]
-**Forms & Genres:** [[Biography]], [[Literary Criticism]]
-**Historical References:** [[Christianity]], [[Puritanism]]
-**Settings:** [[Scotland the Highlands]]
+**Characters:** [[Long John Silver]], [[Jim Hawkins]], [[Alan Breck Stewart]], [[David Balfour]], [[Jekyll and Hyde]], [[James Durie (Master of Ballantrae)]], [[Henry Durie]], [[Ephraim Mackellar]], [[Weir of Hermiston]], [[Attwater]], [[Huish]], [[Loudon Dodd]], [[Prince Florizel of Bohemia]], [[Skelt]]
+
+**Topoi:** [[Fall from Innocence]], [[Double]], [[Quest]], [[Golden Age]], [[Open Road Homecoming]]
+**Archetypes:** [[Double Doppelganger]], [[Child]], [[Shadow]], [[Artist]], [[Quest Hero]]
+**Motifs:** [[Childhood]], [[Nightingale]], [[Journey]], [[Light and Dark]], [[Swords and Weapons]], [[Disease and Contagion]], [[Toy Theatre]]
+**Themes & Concepts:** [[Artist and Society]], [[Innocence and Experience]], [[Maturation and Growth]], [[Joy]], [[Imagination]], [[Sin and the Fall]], [[Faith]], [[Critique of Progress]], [[Heroism]], [[Good vs Evil]], [[Disillusionment]], [[Courage]], [[Conscience]], [[Creativity and Artistic Labor]], [[Fate and Free Will]], [[Nostalgia]], [[Vanity]], [[Paganism and Classical Revival]], [[Mortality]], [[Identity]], [[Optimism and Pessimism]]
+**Forms & Genres:** [[Biography]], [[Literary Criticism]], [[Essay]], [[Gothic Novel]], [[Historical Novel]], [[Detective Fiction]]
+**Historical References:** [[Christianity]], [[Puritanism]], [[Aestheticism and the Decadent Movement]]
+**Settings:** [[Scotland the Highlands]], [[Paris]], [[America]], [[London]], [[Edinburgh]], [[South Seas - Pacific Islands]]
 
 ## Chapters / scenes / sections
 

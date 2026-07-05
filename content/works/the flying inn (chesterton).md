@@ -40,6 +40,18 @@ tags:
   - archetype/rebel
   - archetype/outcast_wanderer
   - archetype/trickster
+  - character/patrick_dalroy
+  - character/humphrey_pump
+  - character/lord_ivywood
+  - character/lady_joan_brett
+  - character/misysra_ammon
+  - character/dorian_wimpole
+  - character/quoodle
+  - concept/deception
+  - concept/fanaticism
+  - concept/power_and_corruption
+  - motif/machine
+  - archetype/prophet
 ---
 
 *by Chesterton*  ·  **Cluster:** [[Wine and Drink · Ballad Ballade · Road]]
@@ -77,10 +89,12 @@ tags:
 
 ## Connections
 
+**Characters:** [[Patrick Dalroy]], [[Humphrey Pump]], [[Lord Ivywood]], [[Lady Joan Brett]], [[Misysra Ammon]], [[Dorian Wimpole]], [[Quoodle]]
+
 **Topoi:** [[Open Road Homecoming]], [[World Upside Down]], [[Carpe Diem]]
-**Archetypes:** [[Rebel]], [[Outsider]], [[Trickster]]
-**Motifs:** [[Wine and Drink]], [[Inn Tavern]], [[Road]], [[Journey]], [[Sea]], [[Music and Song]], [[Cross]], [[Food and Feasting]]
-**Themes & Concepts:** [[Satire of Society]], [[Critique of Progress]], [[Nationalism and Patriotism]], [[Common Man]], [[Distributism]], [[Joy]], [[Faith and Doubt]], [[Good vs Evil]], [[Heroism]], [[Romantic Love]]
+**Archetypes:** [[Rebel]], [[Outsider]], [[Trickster]], [[Prophet]]
+**Motifs:** [[Wine and Drink]], [[Inn Tavern]], [[Road]], [[Journey]], [[Sea]], [[Music and Song]], [[Cross]], [[Food and Feasting]], [[Machine]]
+**Themes & Concepts:** [[Satire of Society]], [[Critique of Progress]], [[Nationalism and Patriotism]], [[Common Man]], [[Distributism]], [[Joy]], [[Faith and Doubt]], [[Good vs Evil]], [[Heroism]], [[Romantic Love]], [[Deception]], [[Fanaticism]], [[Power and Corruption]]
 **Forms & Genres:** [[Novel]], [[Satire]], [[Comic Verse Song]]
 **Historical References:** [[Christianity]], [[Islam and the East]], [[Crusades]]
 **Settings:** [[Rural England]], [[Sea (2)]], [[Inn]]

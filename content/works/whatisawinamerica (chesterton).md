@@ -15,6 +15,44 @@ tags:
   - concept/identity
   - concept/critique_of_progress
   - histref/american_civil_war
+  - character/abraham_lincoln
+  - character/thomas_jefferson
+  - character/h_g_wells
+  - character/henry_ford
+  - character/andrew_jackson
+  - character/walt_whitman
+  - character/charles_dickens
+  - concept/democracy
+  - concept/slavery
+  - concept/anti_industrialism
+  - concept/distributism
+  - concept/common_man
+  - concept/conformity_vs_individualism
+  - concept/freedom_and_liberty
+  - concept/power_and_corruption
+  - concept/money_and_avarice
+  - concept/prohibition
+  - topos/open_road_homecoming
+  - motif/city
+  - motif/fire
+  - motif/money_and_gold
+  - motif/machine
+  - motif/flag
+  - setting/america
+  - setting/new_york
+  - setting/washington_dc
+  - setting/american_south
+  - setting/american_west
+  - setting/new_england_america
+  - setting/american_frontier
+  - archetype/common_man_2
+  - archetype/pilgrim
+  - archetype/outsider
+  - form/satire
+  - histref/irish_question
+  - histref/puritanism
+  - histref/french_revolution
+  - histref/industrial_revolution
 ---
 
 # WhatISawInAmerica
@@ -30,9 +68,19 @@ tags:
 
 ## Connections
 
-**Themes & Concepts:** [[Nationalism and Patriotism]], [[Satire of Society]], [[Justice Right and Wrong]], [[Identity]], [[Critique of Progress]]
-**Forms & Genres:** [[Travel Writing]], [[Essay]]
-**Historical References:** [[American Civil War]]
+**Archetypes:** [[Common Man (2)]], [[Pilgrim]], [[Outsider]]
+
+**Settings:** [[America]], [[New York]], [[Washington DC]], [[American South]], [[American West]], [[New England America]], [[American Frontier]]
+
+**Motifs:** [[City]], [[Fire]], [[Money and Gold]], [[Machine]], [[Flag]]
+
+**Topoi:** [[Open Road Homecoming]]
+
+**Characters:** [[Abraham Lincoln]], [[Thomas Jefferson]], [[H. G. Wells]], [[Henry Ford]], [[Andrew Jackson]], [[Walt Whitman]], [[Charles Dickens]]
+
+**Themes & Concepts:** [[Nationalism and Patriotism]], [[Satire of Society]], [[Justice Right and Wrong]], [[Identity]], [[Critique of Progress]], [[Democracy]], [[Slavery]], [[Anti-Industrialism]], [[Distributism]], [[Common Man]], [[Conformity vs Individualism]], [[Freedom and Liberty]], [[Power and Corruption]], [[Money and Avarice]], [[Prohibition]]
+**Forms & Genres:** [[Travel Writing]], [[Essay]], [[Satire]]
+**Historical References:** [[American Civil War]], [[Irish Question]], [[Puritanism]], [[French Revolution]], [[Industrial Revolution]]
 
 ## Chapters / scenes / sections
 

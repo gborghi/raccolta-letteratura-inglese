@@ -17,6 +17,16 @@ tags:
   - motif/music_and_song
   - archetype/fool
   - setting/london
+  - concept/class_conflict
+  - concept/poverty
+  - concept/democracy
+  - concept/reform
+  - concept/grotesque
+  - concept/satire_of_society
+  - concept/appearance_vs_reality
+  - topos/world_upside_down
+  - histref/suffragette_movement
+  - histref/chinese_labour_controversy
 ---
 
 # cockneys
@@ -32,9 +42,13 @@ tags:
 
 ## Connections
 
+**Historical References:** [[Suffragette Movement]], [[Chinese Labour Controversy]]
+
+**Topoi:** [[World Upside Down]]
+
 **Archetypes:** [[Fool]]
 **Motifs:** [[City]], [[Inn Tavern]], [[Music and Song]]
-**Themes & Concepts:** [[Common Man]], [[Joy]], [[Nationalism and Patriotism]], [[Paradox]]
+**Themes & Concepts:** [[Common Man]], [[Joy]], [[Nationalism and Patriotism]], [[Paradox]], [[Class Conflict]], [[Poverty]], [[Democracy]], [[Reform]], [[Grotesque]], [[Satire of Society]], [[Appearance vs Reality]]
 **Forms & Genres:** [[Essay]]
 **Settings:** [[London]]
 

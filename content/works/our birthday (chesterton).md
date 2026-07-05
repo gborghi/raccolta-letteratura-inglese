@@ -14,6 +14,11 @@ tags:
   - concept/joy
   - concept/providence
   - histref/the_bible
+  - character/bernard_shaw
+  - character/job
+  - concept/self_and_cosmos
+  - concept/pride
+  - concept/self_sufficiency
 ---
 
 *by Chesterton*  ·  **Cluster:** [[Grace and Redemption · Humility · Bread and Wine Eucharist]]
@@ -27,7 +32,9 @@ tags:
 
 ## Connections
 
-**Themes & Concepts:** [[Wonder and Gratitude]], [[Humility]], [[Critique of Progress]], [[Joy]], [[Providence]]
+**Characters:** [[Bernard Shaw]], [[Job]]
+
+**Themes & Concepts:** [[Wonder and Gratitude]], [[Humility]], [[Critique of Progress]], [[Joy]], [[Providence]], [[Self and Cosmos]], [[Pride]], [[Self-Sufficiency]]
 **Forms & Genres:** [[Essay]]
 **Historical References:** [[Bible]]
 

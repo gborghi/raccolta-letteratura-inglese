@@ -16,6 +16,59 @@ tags:
   - concept/the_artist_and_society
   - concept/wonder_and_gratitude
   - concept/anti_industrialism
+  - character/hamlet
+  - character/portia
+  - character/shylock
+  - character/macbeth
+  - character/lady_macbeth
+  - character/banquo
+  - character/claudius
+  - character/falstaff
+  - character/sam_weller
+  - character/tony_weller
+  - character/samuel_pickwick
+  - character/artful_dodger
+  - character/dorian_gray
+  - character/rosalind
+  - character/viola
+  - character/king_arthur
+  - character/gulliver
+  - character/joan_of_arc
+  - concept/equality_in_death
+  - concept/democracy
+  - concept/freedom_and_liberty
+  - concept/crime_and_punishment
+  - concept/slavery
+  - concept/distributism
+  - concept/marriage_and_fidelity
+  - concept/education
+  - concept/class_conflict
+  - topos/world_upside_down
+  - topos/poet_as_prophet
+  - topos/theatrum_mundi
+  - topos/golden_age
+  - motif/food_and_feasting
+  - motif/clothing_and_costume
+  - motif/swords_and_weapons
+  - motif/imprisonment_2
+  - motif/ghosts
+  - motif/wheel
+  - setting/london
+  - setting/medieval_england_2
+  - setting/america
+  - setting/new_england_america
+  - setting/venice
+  - setting/denmark
+  - setting/ancient_rome_2
+  - archetype/rebel
+  - archetype/tyrant
+  - archetype/martyr_saint
+  - form/aphorism
+  - histref/puritanism
+  - histref/new_england
+  - histref/arthurian_legend
+  - histref/milton
+  - histref/jonathan_swift
 ---
 
 # Fancies Versis Fads
@@ -31,8 +84,20 @@ tags:
 
 ## Connections
 
-**Themes & Concepts:** [[Paradox]], [[Satire of Society]], [[Critique of Progress]], [[Artist and Society]], [[Wonder and Gratitude]], [[Anti-Industrialism]]
-**Forms & Genres:** [[Essay]], [[Satire]], [[Literary Criticism]]
+**Historical References:** [[Puritanism]], [[New England]], [[Arthurian Legend]], [[Milton]], [[Jonathan Swift]]
+
+**Archetypes:** [[Rebel]], [[Tyrant]], [[Martyr Saint]]
+
+**Settings:** [[London]], [[Medieval England (2)]], [[America]], [[New England America]], [[Venice]], [[Denmark]], [[Ancient Rome (2)]]
+
+**Motifs:** [[Food and Feasting]], [[Clothing and Costume]], [[Swords and Weapons]], [[Imprisonment (2)]], [[Ghosts]], [[Wheel]]
+
+**Topoi:** [[World Upside Down]], [[Poet as Prophet]], [[Theatrum Mundi]], [[Golden Age]]
+
+**Characters:** [[Hamlet]], [[Portia]], [[Shylock]], [[Macbeth]], [[Lady Macbeth]], [[Banquo]], [[Claudius]], [[Falstaff]], [[Sam Weller]], [[Tony Weller]], [[Samuel Pickwick]], [[Artful Dodger]], [[Dorian Gray]], [[Rosalind]], [[Viola]], [[King Arthur]], [[Gulliver]], [[Joan of Arc]]
+
+**Themes & Concepts:** [[Paradox]], [[Satire of Society]], [[Critique of Progress]], [[Artist and Society]], [[Wonder and Gratitude]], [[Anti-Industrialism]], [[Equality in Death]], [[Democracy]], [[Freedom and Liberty]], [[Crime and Punishment]], [[Slavery]], [[Distributism]], [[Marriage and Fidelity]], [[Education]], [[Class Conflict]]
+**Forms & Genres:** [[Essay]], [[Satire]], [[Literary Criticism]], [[Aphorism]]
 
 ## Chapters / scenes / sections
 

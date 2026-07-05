@@ -15,6 +15,10 @@ tags:
   - motif/letters_writing
   - form/essay
   - form/satire
+  - concept/freedom_and_liberty
+  - concept/individualism
+  - concept/reform
+  - archetype/common_man_2
 ---
 
 # government
@@ -30,8 +34,10 @@ tags:
 
 ## Connections
 
+**Archetypes:** [[Common Man (2)]]
+
 **Motifs:** [[Letters and Writing]]
-**Themes & Concepts:** [[Satire of Society]], [[Critique of Progress]], [[Power and Corruption]], [[Identity]], [[Distributism]]
+**Themes & Concepts:** [[Satire of Society]], [[Critique of Progress]], [[Power and Corruption]], [[Identity]], [[Distributism]], [[Freedom and Liberty]], [[Individualism]], [[Reform]]
 **Forms & Genres:** [[Essay]], [[Satire]]
 
 ## Chapters / scenes / sections

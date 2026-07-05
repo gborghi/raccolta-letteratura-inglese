@@ -14,6 +14,18 @@ tags:
   - concept/wonder_and_gratitude
   - form/essay
   - motif/the_city
+  - concept/power_of_language
+  - concept/one_life_pantheism
+  - concept/heaven_and_the_afterlife
+  - concept/natural_order
+  - concept/eternity
+  - concept/beauty
+  - concept/paganism_and_classical_revival
+  - concept/appearance_vs_reality
+  - archetype/poet_as_prophet_2
+  - form/literary_criticism
+  - histref/bible
+  - histref/virgil
 ---
 
 # strange-city
@@ -29,9 +41,13 @@ tags:
 
 ## Connections
 
+**Historical References:** [[Bible]], [[Virgil]]
+
+**Archetypes:** [[Poet as Prophet (2)]]
+
 **Motifs:** [[City]]
-**Themes & Concepts:** [[Truth]], [[Imagination]], [[Faith]], [[Paradox]], [[Wonder and Gratitude]]
-**Forms & Genres:** [[Essay]]
+**Themes & Concepts:** [[Truth]], [[Imagination]], [[Faith]], [[Paradox]], [[Wonder and Gratitude]], [[Power of Language]], [[One Life (Pantheism)]], [[Heaven and the Afterlife]], [[Natural Order]], [[Eternity]], [[Beauty]], [[Paganism and Classical Revival]], [[Appearance vs Reality]]
+**Forms & Genres:** [[Essay]], [[Literary Criticism]]
 
 ## Chapters / scenes / sections
 

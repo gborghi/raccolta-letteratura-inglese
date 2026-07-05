@@ -18,6 +18,16 @@ tags:
   - motif/horse
   - character/don_quixote
   - histref/catholic_church
+  - character/sergius
+  - character/bluntzschli
+  - concept/providence
+  - concept/paradox
+  - topos/war_as_glory
+  - setting/poland
+  - archetype/cavalier
+  - form/travel_writing
+  - histref/puritanism
+  - histref/polish_soviet_war
 ---
 
 *by Chesterton*  ·  **Cluster:** [[Heroism · Hero · Last Stand]]
@@ -31,13 +41,15 @@ tags:
 
 ## Connections
 
-**Topoi:** [[Last Stand]]
-**Archetypes:** [[Hero]]
+**Settings:** [[Poland]]
+
+**Topoi:** [[Last Stand]], [[War as Glory]]
+**Archetypes:** [[Hero]], [[Cavalier]]
 **Motifs:** [[Horse]]
-**Themes & Concepts:** [[Heroism]], [[Honour]], [[Faith]], [[Fate and Free Will]], [[Nationalism and Patriotism]]
-**Forms & Genres:** [[Essay]]
-**Historical References:** [[Catholic Church]]
-**Characters:** [[Don Quixote]]
+**Themes & Concepts:** [[Heroism]], [[Honour]], [[Faith]], [[Fate and Free Will]], [[Nationalism and Patriotism]], [[Providence]], [[Paradox]]
+**Forms & Genres:** [[Essay]], [[Travel Writing]]
+**Historical References:** [[Catholic Church]], [[Puritanism]], [[Polish-Soviet War]]
+**Characters:** [[Don Quixote]], [[Sergius]], [[Bluntzschli]]
 
 ## Chapters / scenes / sections
 

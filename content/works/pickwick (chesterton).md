@@ -14,6 +14,22 @@ tags:
   - concept/joy
   - concept/the_common_man
   - character/falstaff
+  - character/samuel_pickwick
+  - character/nathaniel_winkle
+  - character/tony_weller
+  - character/robin_hood
+  - character/fagin
+  - character/mr_stiggins
+  - character/friar_tuck
+  - character/wife_of_bath
+  - concept/charity
+  - concept/comradeship
+  - concept/freedom_and_liberty
+  - concept/nostalgia
+  - concept/tolerance
+  - histref/puritanism
+  - histref/medieval_england
+  - histref/regency_georgian_england
 ---
 
 *by Chesterton*  ·  **Cluster:** [[Artist and Society · Truth · Regency Georgian England]]
@@ -27,9 +43,11 @@ tags:
 
 ## Connections
 
-**Themes & Concepts:** [[Nationalism and Patriotism]], [[Friendship]], [[Joy]], [[Common Man]]
+**Historical References:** [[Puritanism]], [[Medieval England]], [[Regency Georgian England]]
+
+**Themes & Concepts:** [[Nationalism and Patriotism]], [[Friendship]], [[Joy]], [[Common Man]], [[Charity]], [[Comradeship]], [[Freedom and Liberty]], [[Nostalgia]], [[Tolerance]]
 **Forms & Genres:** [[Literary Criticism]], [[Essay]]
-**Characters:** [[Falstaff]]
+**Characters:** [[Falstaff]], [[Samuel Pickwick]], [[Nathaniel Winkle]], [[Tony Weller]], [[Robin Hood]], [[Fagin]], [[Mr. Stiggins]], [[Friar Tuck]], [[Wife of Bath]]
 
 ## Chapters / scenes / sections
 

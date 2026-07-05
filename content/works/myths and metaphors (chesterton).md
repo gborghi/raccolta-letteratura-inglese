@@ -15,6 +15,14 @@ tags:
   - concept/paradox
   - concept/faith
   - motif/dawn
+  - concept/power_of_language
+  - concept/deception
+  - concept/appearance_vs_reality
+  - motif/nature
+  - motif/clock
+  - motif/time
+  - histref/bible
+  - histref/darwinism
 ---
 
 *by Chesterton*  ·  **Cluster:** [[Essay · Critique of Progress · Common Man]]
@@ -28,8 +36,10 @@ tags:
 
 ## Connections
 
-**Motifs:** [[Dawn]]
-**Themes & Concepts:** [[Critique of Progress]], [[Truth]], [[Imagination]], [[Paradox]], [[Faith]]
+**Historical References:** [[Bible]], [[Darwinism]]
+
+**Motifs:** [[Dawn]], [[Nature]], [[Clock]], [[Time]]
+**Themes & Concepts:** [[Critique of Progress]], [[Truth]], [[Imagination]], [[Paradox]], [[Faith]], [[Power of Language]], [[Deception]], [[Appearance vs Reality]]
 **Forms & Genres:** [[Essay]], [[Satire]]
 
 ## Chapters / scenes / sections

@@ -22,6 +22,14 @@ tags:
   - form/allegory
   - setting/london
   - setting/the_modern_metropolis
+  - concept/labor_and_work
+  - concept/slavery
+  - concept/social_injustice
+  - motif/chains
+  - motif/horse
+  - archetype/prophet
+  - form/parable
+  - histref/bible
 ---
 
 # improbable story
@@ -37,10 +45,14 @@ tags:
 
 ## Connections
 
+**Historical References:** [[Bible]]
+
+**Archetypes:** [[Prophet]]
+
 **Topoi:** [[World Upside Down]]
-**Motifs:** [[Clock]], [[Road]], [[City]], [[Supernatural]], [[Stars]]
-**Themes & Concepts:** [[Wonder and Gratitude]], [[Alienation]], [[Critique of Progress]], [[Justice Right and Wrong]], [[Uncanny]]
-**Forms & Genres:** [[Short Story]], [[Allegory]]
+**Motifs:** [[Clock]], [[Road]], [[City]], [[Supernatural]], [[Stars]], [[Chains]], [[Horse]]
+**Themes & Concepts:** [[Wonder and Gratitude]], [[Alienation]], [[Critique of Progress]], [[Justice Right and Wrong]], [[Uncanny]], [[Labor and Work]], [[Slavery]], [[Social Injustice]]
+**Forms & Genres:** [[Short Story]], [[Allegory]], [[Parable]]
 **Settings:** [[London]], [[Modern Metropolis]]
 
 ## Chapters / scenes / sections

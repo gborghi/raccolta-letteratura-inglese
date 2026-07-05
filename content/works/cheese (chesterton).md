@@ -17,6 +17,18 @@ tags:
   - motif/food_feasting
   - motif/the_inn_tavern
   - setting/rural_england
+  - concept/distributism
+  - concept/paradox
+  - topos/paradise_lost
+  - motif/bread_and_wine_eucharist
+  - motif/journey
+  - setting/industrial_city
+  - archetype/pilgrim
+  - histref/bible
+  - histref/greek_mythology
+  - histref/ancient_rome
+  - histref/industrial_revolution
+  - histref/eastern_religion_comparative_religion
 ---
 
 *by Chesterton*  ·  **Cluster:** [[Paradox · Food and Feasting · Aphorism]]
@@ -30,11 +42,15 @@ tags:
 
 ## Connections
 
-**Topoi:** [[Beatus Ille (Happy the Man Rural Retreat)]]
-**Motifs:** [[Food and Feasting]], [[Inn Tavern]]
-**Themes & Concepts:** [[Anti-Industrialism]], [[Critique of Progress]], [[Wonder and Gratitude]], [[Nature vs Civilization]]
+**Historical References:** [[Bible]], [[Greek Mythology]], [[Ancient Rome]], [[Industrial Revolution]], [[Eastern Religion Comparative Religion]]
+
+**Archetypes:** [[Pilgrim]]
+
+**Topoi:** [[Beatus Ille (Happy the Man Rural Retreat)]], [[Paradise Lost]]
+**Motifs:** [[Food and Feasting]], [[Inn Tavern]], [[Bread and Wine Eucharist]], [[Journey]]
+**Themes & Concepts:** [[Anti-Industrialism]], [[Critique of Progress]], [[Wonder and Gratitude]], [[Nature vs Civilization]], [[Distributism]], [[Paradox]]
 **Forms & Genres:** [[Essay]], [[Satire]]
-**Settings:** [[Rural England]]
+**Settings:** [[Rural England]], [[Industrial City]]
 
 ## Chapters / scenes / sections
 

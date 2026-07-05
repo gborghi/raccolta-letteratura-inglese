@@ -15,6 +15,19 @@ tags:
   - concept/paradox
   - concept/satire_of_society
   - histref/christianity
+  - character/bernard_shaw
+  - character/nietzsche
+  - character/darwin
+  - character/aristotle
+  - concept/madness
+  - concept/reform
+  - concept/providence
+  - motif/madness_2
+  - motif/childhood
+  - archetype/child
+  - archetype/christ_figure
+  - form/satire
+  - form/literary_criticism
 ---
 
 *by Chesterton*  ·  **Cluster:** [[Essay · Critique of Progress · Common Man]]
@@ -28,8 +41,14 @@ tags:
 
 ## Connections
 
-**Themes & Concepts:** [[Faith]], [[Faith and Doubt]], [[Critique of Progress]], [[Paradox]], [[Satire of Society]]
-**Forms & Genres:** [[Essay]], [[Apologetics]]
+**Archetypes:** [[Child]], [[Christ Figure]]
+
+**Motifs:** [[Madness (2)]], [[Childhood]]
+
+**Characters:** [[Bernard Shaw]], [[Nietzsche]], [[Darwin]], [[Aristotle]]
+
+**Themes & Concepts:** [[Faith]], [[Faith and Doubt]], [[Critique of Progress]], [[Paradox]], [[Satire of Society]], [[Madness]], [[Reform]], [[Providence]]
+**Forms & Genres:** [[Essay]], [[Apologetics]], [[Satire]], [[Literary Criticism]]
 **Historical References:** [[Christianity]]
 
 ## Chapters / scenes / sections

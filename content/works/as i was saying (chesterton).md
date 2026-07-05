@@ -16,6 +16,29 @@ tags:
   - concept/nostalgia
   - concept/transience
   - histref/christianity
+  - character/lady_macbeth
+  - concept/democracy
+  - concept/nationalism_and_patriotism
+  - concept/class_conflict
+  - concept/distributism
+  - concept/power_and_corruption
+  - concept/mortality
+  - concept/money_and_avarice
+  - concept/labor_and_work
+  - topos/memento_mori
+  - topos/sic_transit_gloria_mundi
+  - motif/machine
+  - motif/clock
+  - setting/london
+  - setting/italy
+  - form/literary_criticism
+  - histref/puritanism
+  - histref/voltaire
+  - histref/frederick_the_great
+  - histref/samuel_taylor_coleridge
+  - histref/george_meredith
+  - histref/william_morris
+  - histref/darwinism
 ---
 
 *by Chesterton*  ·  **Cluster:** [[Essay · Critique of Progress · Common Man]]
@@ -45,9 +68,17 @@ tags:
 
 ## Connections
 
-**Themes & Concepts:** [[Satire of Society]], [[Critique of Progress]], [[Paradox]], [[Education]], [[Nostalgia]], [[Transience]]
-**Forms & Genres:** [[Essay]], [[Satire]]
-**Historical References:** [[Christianity]]
+**Settings:** [[London]], [[Italy]]
+
+**Motifs:** [[Machine]], [[Clock]]
+
+**Topoi:** [[Memento Mori]], [[Sic Transit Gloria Mundi]]
+
+**Characters:** [[Lady Macbeth]]
+
+**Themes & Concepts:** [[Satire of Society]], [[Critique of Progress]], [[Paradox]], [[Education]], [[Nostalgia]], [[Transience]], [[Democracy]], [[Nationalism and Patriotism]], [[Class Conflict]], [[Distributism]], [[Power and Corruption]], [[Mortality]], [[Money and Avarice]], [[Labor and Work]]
+**Forms & Genres:** [[Essay]], [[Satire]], [[Literary Criticism]]
+**Historical References:** [[Christianity]], [[Puritanism]], [[Voltaire]], [[Frederick the Great]], [[Samuel Taylor Coleridge]], [[George Meredith]], [[William Morris]], [[Darwinism]]
 
 ## Chapters / scenes / sections
 

@@ -16,6 +16,16 @@ tags:
   - histref/the_bible
   - histref/catholic_church
   - histref/the_crusades
+  - concept/fanaticism
+  - motif/journey
+  - setting/desert
+  - setting/american_west
+  - archetype/pilgrim
+  - histref/medieval_england
+  - histref/william_the_conqueror
+  - histref/oliver_cromwell
+  - histref/john_bunyan
+  - histref/william_rufus
 ---
 
 *by Chesterton*  ·  **Cluster:** [[Christianity · Faith and Doubt · Doubt]]
@@ -29,9 +39,15 @@ tags:
 
 ## Connections
 
-**Themes & Concepts:** [[Faith and Doubt]], [[Marriage and Fidelity]], [[Critique of Progress]]
+**Archetypes:** [[Pilgrim]]
+
+**Settings:** [[Desert]], [[American West]]
+
+**Motifs:** [[Journey]]
+
+**Themes & Concepts:** [[Faith and Doubt]], [[Marriage and Fidelity]], [[Critique of Progress]], [[Fanaticism]]
 **Forms & Genres:** [[Essay]], [[Apologetics]]
-**Historical References:** [[Puritanism]], [[Bible]], [[Catholic Church]], [[Crusades]]
+**Historical References:** [[Puritanism]], [[Bible]], [[Catholic Church]], [[Crusades]], [[Medieval England]], [[William the Conqueror]], [[Oliver Cromwell]], [[John Bunyan]], [[William Rufus]]
 
 ## Chapters / scenes / sections
 

@@ -14,6 +14,22 @@ tags:
   - concept/joy
   - form/satire
   - concept/satire_of_society
+  - character/elizabeth_bennet
+  - character/fanny_price
+  - character/laura
+  - character/sophia
+  - character/mr_bennet
+  - concept/individualism
+  - concept/greatness
+  - concept/literary_criticism_2
+  - motif/fire
+  - motif/home
+  - archetype/artist
+  - form/parody
+  - form/epistolary_diary_novel
+  - histref/french_revolution
+  - histref/regency_georgian_england
+  - histref/romantic_movement_sensibility
 ---
 
 # intro-love-and-freindship
@@ -29,8 +45,16 @@ tags:
 
 ## Connections
 
-**Themes & Concepts:** [[Artist and Society]], [[Imagination]], [[Joy]], [[Satire of Society]]
-**Forms & Genres:** [[Literary Criticism]], [[Essay]], [[Satire]]
+**Historical References:** [[French Revolution]], [[Regency Georgian England]], [[Romantic Movement (Sensibility)]]
+
+**Archetypes:** [[Artist]]
+
+**Motifs:** [[Fire]], [[Home]]
+
+**Characters:** [[Elizabeth Bennet]], [[Fanny Price]], [[Laura]], [[Sophia]], [[Mr Bennet]]
+
+**Themes & Concepts:** [[Artist and Society]], [[Imagination]], [[Joy]], [[Satire of Society]], [[Individualism]], [[Greatness]], [[Literary Criticism (2)]]
+**Forms & Genres:** [[Literary Criticism]], [[Essay]], [[Satire]], [[Parody]], [[Epistolary Diary Novel]]
 
 ## Chapters / scenes / sections
 

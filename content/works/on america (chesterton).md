@@ -14,6 +14,24 @@ tags:
   - concept/nationalism_and_patriotism
   - character/abraham_lincoln
   - concept/nostalgia
+  - character/john_wilkes_booth
+  - concept/slavery
+  - concept/reconciliation
+  - concept/democracy
+  - concept/freedom_and_liberty
+  - concept/anti_industrialism
+  - concept/power_and_corruption
+  - topos/golden_age
+  - topos/ubi_sunt
+  - motif/battlefield_2
+  - motif/honour_2
+  - setting/american_south
+  - setting/america
+  - setting/battlefield
+  - setting/american_frontier
+  - archetype/martyr_saint
+  - histref/puritanism
+  - histref/first_world_war
 ---
 
 *by Chesterton*  ·  **Cluster:** [[War and its Cost · American Civil War · Battlefield]]
@@ -23,10 +41,18 @@ tags:
 
 ## Connections
 
-**Themes & Concepts:** [[Honour]], [[War and its Cost]], [[Nationalism and Patriotism]], [[Nostalgia]]
+**Archetypes:** [[Martyr Saint]]
+
+**Settings:** [[American South]], [[America]], [[Battlefield]], [[American Frontier]]
+
+**Motifs:** [[Battlefield (2)]], [[Honour (2)]]
+
+**Topoi:** [[Golden Age]], [[Ubi Sunt]]
+
+**Themes & Concepts:** [[Honour]], [[War and its Cost]], [[Nationalism and Patriotism]], [[Nostalgia]], [[Slavery]], [[Reconciliation]], [[Democracy]], [[Freedom and Liberty]], [[Anti-Industrialism]], [[Power and Corruption]]
 **Forms & Genres:** [[Essay]]
-**Historical References:** [[American Civil War]]
-**Characters:** [[Abraham Lincoln]]
+**Historical References:** [[American Civil War]], [[Puritanism]], [[First World War]]
+**Characters:** [[Abraham Lincoln]], [[John Wilkes Booth]]
 
 ## Testo integrale / Full text
 

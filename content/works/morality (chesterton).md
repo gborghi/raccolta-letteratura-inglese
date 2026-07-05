@@ -17,6 +17,15 @@ tags:
   - concept/war_and_its_cost
   - concept/anti_industrialism
   - concept/faith
+  - character/mr_robinson
+  - concept/common_man
+  - concept/charity
+  - concept/value_and_scarcity
+  - motif/ship_2
+  - archetype/common_man_2
+  - histref/first_world_war
+  - histref/christianity
+  - histref/bible
 ---
 
 # morality
@@ -32,7 +41,15 @@ tags:
 
 ## Connections
 
-**Themes & Concepts:** [[Paradox]], [[Wonder and Gratitude]], [[Humility]], [[Grace and Redemption]], [[Reform]], [[War and its Cost]], [[Anti-Industrialism]], [[Faith]]
+**Historical References:** [[First World War]], [[Christianity]], [[Bible]]
+
+**Archetypes:** [[Common Man (2)]]
+
+**Motifs:** [[Ship (2)]]
+
+**Characters:** [[Mr. Robinson]]
+
+**Themes & Concepts:** [[Paradox]], [[Wonder and Gratitude]], [[Humility]], [[Grace and Redemption]], [[Reform]], [[War and its Cost]], [[Anti-Industrialism]], [[Faith]], [[Common Man]], [[Charity]], [[Value and Scarcity]]
 **Forms & Genres:** [[Essay]], [[Apologetics]]
 
 ## Chapters / scenes / sections

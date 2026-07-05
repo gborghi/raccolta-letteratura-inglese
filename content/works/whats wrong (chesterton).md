@@ -25,6 +25,21 @@ tags:
   - histref/victorian_england
   - setting/industrial_city
   - topos/world_upside_down
+  - character/jones
+  - character/hudge
+  - character/gudge
+  - character/mrs_grundy
+  - character/george_bernard_shaw
+  - concept/feminism
+  - concept/family
+  - concept/socialism
+  - motif/home
+  - motif/insects
+  - motif/machine
+  - archetype/common_man_2
+  - histref/french_revolution
+  - histref/puritanism
+  - histref/reformation
 ---
 
 # whats wrong
@@ -48,10 +63,16 @@ tags:
 
 ## Connections
 
+**Archetypes:** [[Common Man (2)]]
+
+**Motifs:** [[Home]], [[Insects]], [[Machine]]
+
+**Characters:** [[Jones]], [[Hudge]], [[Gudge]], [[Mrs. Grundy]], [[George Bernard Shaw]]
+
 **Topoi:** [[World Upside Down]]
-**Themes & Concepts:** [[Distributism]], [[Anti-Industrialism]], [[Critique of Progress]], [[Social Injustice]], [[Common Man]], [[Reform]], [[Education]], [[Marriage and Fidelity]], [[Satire of Society]], [[Class Conflict]], [[Nationalism and Patriotism]]
+**Themes & Concepts:** [[Distributism]], [[Anti-Industrialism]], [[Critique of Progress]], [[Social Injustice]], [[Common Man]], [[Reform]], [[Education]], [[Marriage and Fidelity]], [[Satire of Society]], [[Class Conflict]], [[Nationalism and Patriotism]], [[Feminism]], [[Family]], [[Socialism]]
 **Forms & Genres:** [[Essay]], [[Apologetics]], [[Satire]]
-**Historical References:** [[Industrial Revolution]], [[Regency Georgian England]]
+**Historical References:** [[Industrial Revolution]], [[Regency Georgian England]], [[French Revolution]], [[Puritanism]], [[Reformation]]
 **Settings:** [[Industrial City]]
 
 ## Chapters / scenes / sections

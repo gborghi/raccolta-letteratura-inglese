@@ -16,6 +16,46 @@ tags:
   - concept/the_artist_and_society
   - concept/original_sin
   - concept/rationcination_detection
+  - character/hamlet
+  - character/macbeth
+  - character/abraham_lincoln
+  - character/elizabeth_bennet
+  - character/mr_wickham
+  - character/emma_woodhouse
+  - character/three_witches
+  - character/napoleon
+  - character/ferdinand_foch
+  - character/charles_dickens
+  - character/king_george_v
+  - concept/truth
+  - concept/fate_and_free_will
+  - concept/democracy
+  - concept/nationalism_and_patriotism
+  - concept/money_and_avarice
+  - concept/distributism
+  - concept/kingship_and_legitimacy
+  - concept/honour
+  - concept/power_and_corruption
+  - concept/vulgarity
+  - topos/ubi_sunt
+  - motif/serpent_snake
+  - motif/money_and_gold
+  - setting/america
+  - setting/american_south
+  - setting/italy
+  - archetype/king
+  - archetype/self_made_man
+  - archetype/detective
+  - archetype/tyrant
+  - form/detective_fiction
+  - form/ode
+  - form/epigram
+  - histref/american_civil_war
+  - histref/french_revolution
+  - histref/puritanism
+  - histref/irish_question
+  - histref/first_world_war
+  - histref/regency_georgian_england
 ---
 
 # GKC Come to Think
@@ -73,8 +113,20 @@ tags:
 
 ## Connections
 
-**Themes & Concepts:** [[Paradox]], [[Satire of Society]], [[Critique of Progress]], [[Artist and Society]], [[Original Sin]], [[Ratiocination Detection]]
-**Forms & Genres:** [[Essay]], [[Satire]], [[Literary Criticism]]
+**Historical References:** [[American Civil War]], [[French Revolution]], [[Puritanism]], [[Irish Question]], [[First World War]], [[Regency Georgian England]]
+
+**Archetypes:** [[King]], [[Self-Made Man]], [[Detective]], [[Tyrant]]
+
+**Settings:** [[America]], [[American South]], [[Italy]]
+
+**Motifs:** [[Serpent Snake]], [[Money and Gold]]
+
+**Topoi:** [[Ubi Sunt]]
+
+**Characters:** [[Hamlet]], [[Macbeth]], [[Abraham Lincoln]], [[Elizabeth Bennet]], [[Mr Wickham]], [[Emma Woodhouse]], [[Three Witches]], [[Napoleon]], [[Ferdinand Foch]], [[Charles Dickens]], [[King George V]]
+
+**Themes & Concepts:** [[Paradox]], [[Satire of Society]], [[Critique of Progress]], [[Artist and Society]], [[Original Sin]], [[Ratiocination Detection]], [[Truth]], [[Fate and Free Will]], [[Democracy]], [[Nationalism and Patriotism]], [[Money and Avarice]], [[Distributism]], [[Kingship and Legitimacy]], [[Honour]], [[Power and Corruption]], [[Vulgarity]]
+**Forms & Genres:** [[Essay]], [[Satire]], [[Literary Criticism]], [[Detective Fiction]], [[Ode]], [[Epigram]]
 
 ## Chapters / scenes / sections
 

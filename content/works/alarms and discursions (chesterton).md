@@ -30,6 +30,26 @@ tags:
   - setting/rural_england
   - setting/industrial_city
   - setting/london
+  - character/ebenezer_scrooge
+  - character/robespierre
+  - character/duc_de_chambertin_pommard
+  - concept/democracy
+  - concept/satire_of_society
+  - concept/grotesque
+  - concept/paganism_and_classical_revival
+  - concept/class_conflict
+  - concept/eugenics_and_social_darwinism
+  - topos/night_journey_vision
+  - motif/snow
+  - motif/dreams
+  - archetype/common_man_2
+  - form/fable
+  - form/satire
+  - histref/french_revolution
+  - histref/danish_invasions
+  - histref/medieval_england
+  - histref/classical_antiquity
+  - histref/futurism
 ---
 
 *by Chesterton*  ·  **Cluster:** [[Essay · Critique of Progress · Common Man]]
@@ -45,13 +65,15 @@ tags:
 
 ## Connections
 
-**Topoi:** [[Beatus Ille (Happy the Man Rural Retreat)]], [[Golden Age]]
-**Motifs:** [[Gold and Grey]], [[City]], [[Wheel]], [[Money and Gold]]
-**Themes & Concepts:** [[Paradox]], [[Anti-Industrialism]], [[Critique of Progress]], [[Common Man]], [[Distributism]], [[Wonder and Gratitude]], [[Nature vs Civilization]], [[Nationalism and Patriotism]], [[War and its Cost]]
-**Forms & Genres:** [[Essay]]
-**Historical References:** [[King Alfred]], [[Battle of Ethandun]], [[Industrial Revolution]]
+**Archetypes:** [[Common Man (2)]]
+
+**Topoi:** [[Beatus Ille (Happy the Man Rural Retreat)]], [[Golden Age]], [[Night Journey Vision]]
+**Motifs:** [[Gold and Grey]], [[City]], [[Wheel]], [[Money and Gold]], [[Snow]], [[Dreams]]
+**Themes & Concepts:** [[Paradox]], [[Anti-Industrialism]], [[Critique of Progress]], [[Common Man]], [[Distributism]], [[Wonder and Gratitude]], [[Nature vs Civilization]], [[Nationalism and Patriotism]], [[War and its Cost]], [[Democracy]], [[Satire of Society]], [[Grotesque]], [[Paganism and Classical Revival]], [[Class Conflict]], [[Eugenics and Social Darwinism]]
+**Forms & Genres:** [[Essay]], [[Fable]], [[Satire]]
+**Historical References:** [[King Alfred]], [[Battle of Ethandun]], [[Industrial Revolution]], [[French Revolution]], [[Danish Invasions]], [[Medieval England]], [[Classical Antiquity]], [[Futurism]]
 **Settings:** [[Rural England]], [[Industrial City]], [[London]]
-**Characters:** [[King Alfred (2)]]
+**Characters:** [[King Alfred (2)]], [[Ebenezer Scrooge]], [[Robespierre]], [[Duc de Chambertin-Pommard]]
 
 ## Chapters / scenes / sections
 

@@ -23,6 +23,33 @@ tags:
   - motif/masks_disguise
   - form/novel
   - form/satire
+  - character/michael_herne
+  - character/john_braintree
+  - character/douglas_murrel
+  - character/olive_ashley
+  - character/rosamund_severne
+  - character/julian_archer
+  - character/lord_seawood
+  - character/lord_eden
+  - concept/class_conflict
+  - concept/kingship_and_legitimacy
+  - concept/labor_and_work
+  - concept/identity
+  - concept/democracy
+  - topos/world_upside_down
+  - topos/open_road_homecoming
+  - motif/clothing_and_costume
+  - motif/ruins_the_abbey
+  - motif/lion
+  - setting/industrial_city
+  - setting/rural_england
+  - archetype/king
+  - archetype/rebel
+  - form/parable
+  - histref/arthurian_legend
+  - histref/crusades
+  - histref/french_revolution
+  - histref/industrial_revolution
 ---
 
 # Don Quixote
@@ -57,13 +84,15 @@ tags:
 
 ## Connections
 
-**Topoi:** [[Quest]]
-**Archetypes:** [[Quest Hero]], [[Fool]]
-**Motifs:** [[Concealment Hidden Identity]]
-**Themes & Concepts:** [[Madness]], [[Appearance vs Reality]], [[Distributism]], [[Nostalgia]], [[Satire of Society]], [[Conversion]], [[Romantic Love]]
-**Forms & Genres:** [[Novel]], [[Satire]]
-**Historical References:** [[Medieval England]], [[Catholic Church]]
-**Characters:** [[Don Quixote]]
+**Settings:** [[Industrial City]], [[Rural England]]
+
+**Topoi:** [[Quest]], [[World Upside Down]], [[Open Road Homecoming]]
+**Archetypes:** [[Quest Hero]], [[Fool]], [[King]], [[Rebel]]
+**Motifs:** [[Concealment Hidden Identity]], [[Clothing and Costume]], [[Ruins the Abbey]], [[Lion]]
+**Themes & Concepts:** [[Madness]], [[Appearance vs Reality]], [[Distributism]], [[Nostalgia]], [[Satire of Society]], [[Conversion]], [[Romantic Love]], [[Class Conflict]], [[Kingship and Legitimacy]], [[Labor and Work]], [[Identity]], [[Democracy]]
+**Forms & Genres:** [[Novel]], [[Satire]], [[Parable]]
+**Historical References:** [[Medieval England]], [[Catholic Church]], [[Arthurian Legend]], [[Crusades]], [[French Revolution]], [[Industrial Revolution]]
+**Characters:** [[Don Quixote]], [[Michael Herne]], [[John Braintree]], [[Douglas Murrel]], [[Olive Ashley]], [[Rosamund Severne]], [[Julian Archer]], [[Lord Seawood]], [[Lord Eden]]
 
 ## Chapters / scenes / sections
 

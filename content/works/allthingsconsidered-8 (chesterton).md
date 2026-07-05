@@ -19,6 +19,29 @@ tags:
   - concept/nationalism_and_patriotism
   - histref/christianity
   - setting/london
+  - character/joan_la_pucelle
+  - character/tom_jones
+  - concept/democracy
+  - concept/money_and_avarice
+  - concept/secrecy_and_concealment
+  - concept/martyrdom
+  - concept/vanity
+  - concept/education
+  - concept/class_conflict
+  - concept/deception
+  - concept/grotesque
+  - motif/food_and_feasting
+  - motif/wine_and_drink
+  - motif/money_and_gold
+  - setting/paris
+  - setting/oxford
+  - archetype/martyr_saint
+  - archetype/tyrant
+  - form/aphorism
+  - form/literary_criticism
+  - histref/french_revolution
+  - histref/puritanism
+  - histref/catholic_church
 ---
 
 # AllThingsConsidered-8
@@ -68,10 +91,16 @@ tags:
 
 ## Connections
 
-**Themes & Concepts:** [[Satire of Society]], [[Critique of Progress]], [[Paradox]], [[Common Man]], [[Truth]], [[Justice Right and Wrong]], [[Artist and Society]], [[Nationalism and Patriotism]]
-**Forms & Genres:** [[Essay]], [[Satire]]
-**Historical References:** [[Christianity]]
-**Settings:** [[London]]
+**Archetypes:** [[Martyr Saint]], [[Tyrant]]
+
+**Motifs:** [[Food and Feasting]], [[Wine and Drink]], [[Money and Gold]]
+
+**Characters:** [[Joan la Pucelle]], [[Tom Jones]]
+
+**Themes & Concepts:** [[Satire of Society]], [[Critique of Progress]], [[Paradox]], [[Common Man]], [[Truth]], [[Justice Right and Wrong]], [[Artist and Society]], [[Nationalism and Patriotism]], [[Democracy]], [[Money and Avarice]], [[Secrecy and Concealment]], [[Martyrdom]], [[Vanity]], [[Education]], [[Class Conflict]], [[Deception]], [[Grotesque]]
+**Forms & Genres:** [[Essay]], [[Satire]], [[Aphorism]], [[Literary Criticism]]
+**Historical References:** [[Christianity]], [[French Revolution]], [[Puritanism]], [[Catholic Church]]
+**Settings:** [[London]], [[Paris]], [[Oxford]]
 
 ## Testo integrale / Full text
 

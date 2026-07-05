@@ -13,6 +13,14 @@ tags:
   - concept/the_common_man
   - concept/alienation
   - form/essay
+  - concept/fanaticism
+  - concept/nationalism_and_patriotism
+  - concept/moderation
+  - concept/sympathy
+  - motif/animals
+  - motif/birds
+  - histref/irish_question
+  - histref/second_boer_war
 ---
 
 *by Chesterton*  ·  **Cluster:** [[Essay · Critique of Progress · Common Man]]
@@ -26,7 +34,11 @@ tags:
 
 ## Connections
 
-**Themes & Concepts:** [[Satire of Society]], [[Reform]], [[Mercy]], [[Common Man]], [[Alienation]]
+**Historical References:** [[Irish Question]], [[Second Boer War]]
+
+**Motifs:** [[Animals]], [[Birds]]
+
+**Themes & Concepts:** [[Satire of Society]], [[Reform]], [[Mercy]], [[Common Man]], [[Alienation]], [[Fanaticism]], [[Nationalism and Patriotism]], [[Moderation]], [[Sympathy]]
 **Forms & Genres:** [[Essay]]
 
 ## Chapters / scenes / sections

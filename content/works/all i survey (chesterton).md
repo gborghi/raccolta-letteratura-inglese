@@ -25,6 +25,28 @@ tags:
   - histref/christianity
   - histref/medieval_england
   - histref/the_industrial_revolution
+  - character/jonathan_swift
+  - character/thomas_gray
+  - character/geoffrey_chaucer
+  - character/sir_walter_scott
+  - character/vachel_lindsay
+  - character/charles_ii
+  - character/robert_louis_stevenson
+  - character/lord_byron
+  - concept/democracy
+  - concept/fate_and_free_will
+  - concept/paganism_and_classical_revival
+  - concept/freedom_and_liberty
+  - topos/ubi_sunt
+  - setting/ancient_rome_2
+  - setting/rural_england
+  - archetype/common_man_2
+  - archetype/rebel
+  - form/aphorism
+  - histref/puritanism
+  - histref/romantic_movement_sensibility
+  - histref/ancient_rome
+  - histref/french_revolution
 ---
 
 *by Chesterton*  ·  **Cluster:** [[Essay · Critique of Progress · Common Man]]
@@ -81,10 +103,16 @@ tags:
 
 ## Connections
 
-**Topoi:** [[World Upside Down]]
-**Themes & Concepts:** [[Satire of Society]], [[Critique of Progress]], [[Anti-Industrialism]], [[Common Man]], [[Maturation and Growth]], [[Education]], [[Paradox]], [[Artist and Society]], [[War and its Cost]], [[Nostalgia]], [[Distributism]]
-**Forms & Genres:** [[Essay]], [[Satire]], [[Literary Criticism]]
-**Historical References:** [[Christianity]], [[Medieval England]], [[Industrial Revolution]]
+**Archetypes:** [[Common Man (2)]], [[Rebel]]
+
+**Settings:** [[Ancient Rome (2)]], [[Rural England]]
+
+**Characters:** [[Jonathan Swift]], [[Thomas Gray]], [[Geoffrey Chaucer]], [[Sir Walter Scott]], [[Vachel Lindsay]], [[Charles II]], [[Robert Louis Stevenson]], [[Lord Byron]]
+
+**Topoi:** [[World Upside Down]], [[Ubi Sunt]]
+**Themes & Concepts:** [[Satire of Society]], [[Critique of Progress]], [[Anti-Industrialism]], [[Common Man]], [[Maturation and Growth]], [[Education]], [[Paradox]], [[Artist and Society]], [[War and its Cost]], [[Nostalgia]], [[Distributism]], [[Democracy]], [[Fate and Free Will]], [[Paganism and Classical Revival]], [[Freedom and Liberty]]
+**Forms & Genres:** [[Essay]], [[Satire]], [[Literary Criticism]], [[Aphorism]]
+**Historical References:** [[Christianity]], [[Medieval England]], [[Industrial Revolution]], [[Puritanism]], [[Romantic Movement (Sensibility)]], [[Ancient Rome]], [[French Revolution]]
 
 ## Chapters / scenes / sections
 

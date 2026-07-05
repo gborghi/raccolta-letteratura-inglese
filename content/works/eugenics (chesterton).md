@@ -16,6 +16,19 @@ tags:
   - concept/distributism
   - concept/doubt
   - form/essay
+  - concept/freedom_and_liberty
+  - concept/slavery
+  - concept/democracy
+  - concept/reform
+  - concept/natural_order
+  - concept/capitalism
+  - motif/home
+  - motif/prison
+  - archetype/tyrant
+  - archetype/corrupt_official
+  - archetype/common_man_2
+  - form/satire
+  - histref/puritanism
 ---
 
 # Eugenics
@@ -33,8 +46,14 @@ tags:
 
 ## Connections
 
-**Themes & Concepts:** [[Social Injustice]], [[Power and Corruption]], [[Critique of Progress]], [[Common Man]], [[Poverty]], [[Class Conflict]], [[Distributism]], [[Doubt]]
-**Forms & Genres:** [[Essay]]
+**Historical References:** [[Puritanism]]
+
+**Archetypes:** [[Tyrant]], [[Corrupt Official]], [[Common Man (2)]]
+
+**Motifs:** [[Home]], [[Prison]]
+
+**Themes & Concepts:** [[Social Injustice]], [[Power and Corruption]], [[Critique of Progress]], [[Common Man]], [[Poverty]], [[Class Conflict]], [[Distributism]], [[Doubt]], [[Freedom and Liberty]], [[Slavery]], [[Democracy]], [[Reform]], [[Natural Order]], [[Capitalism]]
+**Forms & Genres:** [[Essay]], [[Satire]]
 
 ## Chapters / scenes / sections
 

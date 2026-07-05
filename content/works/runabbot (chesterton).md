@@ -15,6 +15,19 @@ tags:
   - setting/medieval_england
   - motif/fire
   - motif/the_cross
+  - character/thomas_aquinas
+  - character/count_landulf
+  - concept/renunciation
+  - concept/poverty
+  - concept/conformity_vs_individualism
+  - concept/ambition
+  - topos/contemptus_mundi
+  - motif/imprisonment_2
+  - motif/journey
+  - setting/italy
+  - setting/castle
+  - setting/paris
+  - archetype/martyr_saint
 ---
 
 # runabbot
@@ -30,11 +43,17 @@ tags:
 
 ## Connections
 
-**Motifs:** [[Fire]], [[Cross]]
-**Themes & Concepts:** [[Humility]], [[Temptation]], [[Pride]]
+**Archetypes:** [[Martyr Saint]]
+
+**Topoi:** [[Contemptus Mundi]]
+
+**Characters:** [[Thomas Aquinas]], [[Count Landulf]]
+
+**Motifs:** [[Fire]], [[Cross]], [[Imprisonment (2)]], [[Journey]]
+**Themes & Concepts:** [[Humility]], [[Temptation]], [[Pride]], [[Renunciation]], [[Poverty]], [[Conformity vs Individualism]], [[Ambition]]
 **Forms & Genres:** [[Biography]]
 **Historical References:** [[Catholic Church]]
-**Settings:** [[Medieval England (2)]]
+**Settings:** [[Medieval England (2)]], [[Italy]], [[Castle]], [[Paris]]
 
 ## Chapters / scenes / sections
 

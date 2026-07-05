@@ -16,6 +16,29 @@ tags:
   - concept/martyrdom
   - form/apologetics
   - histref/christianity
+  - concept/distributism
+  - concept/paganism_and_classical_revival
+  - concept/nationalism_and_patriotism
+  - concept/class_conflict
+  - concept/freedom_and_liberty
+  - concept/paradox
+  - concept/appearance_vs_reality
+  - topos/world_upside_down
+  - topos/journey_of_life
+  - motif/prison
+  - motif/window
+  - motif/ship_2
+  - archetype/pilgrim
+  - form/essay
+  - histref/ancient_rome
+  - histref/reformation
+  - histref/puritanism
+  - histref/romantic_movement_sensibility
+  - histref/renaissance
+  - histref/first_world_war
+  - histref/dante
+  - histref/john_henry_newman
+  - histref/pope_leo_xiii
 ---
 
 # conversion
@@ -36,9 +59,15 @@ tags:
 
 ## Connections
 
-**Themes & Concepts:** [[Conversion]], [[Faith]], [[Faith and Doubt]], [[Truth]], [[Grace and Redemption]], [[Martyrdom]]
-**Forms & Genres:** [[Apologetics]]
-**Historical References:** [[Catholic Church]], [[Christianity]]
+**Archetypes:** [[Pilgrim]]
+
+**Motifs:** [[Prison]], [[Window]], [[Ship (2)]]
+
+**Topoi:** [[World Upside Down]], [[Journey of Life]]
+
+**Themes & Concepts:** [[Conversion]], [[Faith]], [[Faith and Doubt]], [[Truth]], [[Grace and Redemption]], [[Martyrdom]], [[Distributism]], [[Paganism and Classical Revival]], [[Nationalism and Patriotism]], [[Class Conflict]], [[Freedom and Liberty]], [[Paradox]], [[Appearance vs Reality]]
+**Forms & Genres:** [[Apologetics]], [[Essay]]
+**Historical References:** [[Catholic Church]], [[Christianity]], [[Ancient Rome]], [[Reformation]], [[Puritanism]], [[Romantic Movement (Sensibility)]], [[Renaissance]], [[First World War]], [[Dante]], [[John Henry Newman]], [[Pope Leo XIII]]
 
 ## Chapters / scenes / sections
 

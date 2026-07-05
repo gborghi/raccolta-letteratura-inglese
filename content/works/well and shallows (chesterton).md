@@ -20,6 +20,38 @@ tags:
   - histref/christianity
   - character/the_virgin_mary
   - motif/the_well
+  - character/sir_thomas_more
+  - character/henry_viii
+  - character/martin_luther
+  - character/karl_marx
+  - character/paul_claudel
+  - character/charles_darwin
+  - character/engelbert_dollfuss
+  - concept/distributism
+  - concept/solitude
+  - concept/conformity_vs_individualism
+  - concept/eastern_religion_and_asceticism
+  - concept/democracy
+  - concept/power_and_corruption
+  - concept/nationalism_and_patriotism
+  - concept/grace_and_redemption
+  - concept/materialism
+  - concept/fascism
+  - concept/communism
+  - motif/fog_and_smoke
+  - setting/london
+  - setting/russia
+  - setting/germany
+  - setting/italy
+  - setting/spain
+  - setting/austria
+  - setting/ireland
+  - archetype/martyr_saint
+  - archetype/tyrant
+  - histref/puritanism
+  - histref/first_world_war
+  - histref/irish_question
+  - histref/russian_revolution
 ---
 
 # Well And Shallows
@@ -70,11 +102,15 @@ tags:
 
 ## Connections
 
-**Motifs:** [[Well]]
-**Themes & Concepts:** [[Faith]], [[Conversion]], [[Critique of Progress]], [[Faith and Doubt]], [[Paradox]], [[Marriage and Fidelity]]
+**Archetypes:** [[Martyr Saint]], [[Tyrant]]
+
+**Settings:** [[London]], [[Russia]], [[Germany]], [[Italy]], [[Spain]], [[Austria]], [[Ireland]]
+
+**Motifs:** [[Well]], [[Fog and Smoke]]
+**Themes & Concepts:** [[Faith]], [[Conversion]], [[Critique of Progress]], [[Faith and Doubt]], [[Paradox]], [[Marriage and Fidelity]], [[Distributism]], [[Solitude]], [[Conformity vs Individualism]], [[Eastern Religion and Asceticism]], [[Democracy]], [[Power and Corruption]], [[Nationalism and Patriotism]], [[Grace and Redemption]], [[Materialism]], [[Fascism]], [[Communism]]
 **Forms & Genres:** [[Apologetics]], [[Essay]]
-**Historical References:** [[Catholic Church]], [[Reformation]], [[Christianity]]
-**Characters:** [[Virgin Mary]]
+**Historical References:** [[Catholic Church]], [[Reformation]], [[Christianity]], [[Puritanism]], [[First World War]], [[Irish Question]], [[Russian Revolution]]
+**Characters:** [[Virgin Mary]], [[Sir Thomas More]], [[Henry VIII]], [[Martin Luther]], [[Karl Marx]], [[Paul Claudel]], [[Charles Darwin]], [[Engelbert Dollfuss]]
 
 ## Chapters / scenes / sections
 

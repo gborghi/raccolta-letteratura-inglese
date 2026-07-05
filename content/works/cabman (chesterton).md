@@ -14,6 +14,15 @@ tags:
   - concept/the_common_man
   - concept/temptation
   - setting/london
+  - character/the_extraordinary_cabman
+  - character/h_g_wells
+  - concept/democracy
+  - concept/fate_and_free_will
+  - concept/paradox
+  - motif/light_and_dark
+  - archetype/common_man_2
+  - archetype/satanic_figure
+  - form/parable
 ---
 
 # cabman
@@ -29,8 +38,14 @@ tags:
 
 ## Connections
 
-**Themes & Concepts:** [[Doubt]], [[Truth]], [[Appearance vs Reality]], [[Common Man]], [[Temptation]]
-**Forms & Genres:** [[Essay]]
+**Archetypes:** [[Common Man (2)]], [[Satanic Figure]]
+
+**Motifs:** [[Light and Dark]]
+
+**Characters:** [[The Extraordinary Cabman]], [[H.G. Wells]]
+
+**Themes & Concepts:** [[Doubt]], [[Truth]], [[Appearance vs Reality]], [[Common Man]], [[Temptation]], [[Democracy]], [[Fate and Free Will]], [[Paradox]]
+**Forms & Genres:** [[Essay]], [[Parable]]
 **Settings:** [[London]]
 
 ## Chapters / scenes / sections

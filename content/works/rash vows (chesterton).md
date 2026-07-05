@@ -16,6 +16,15 @@ tags:
   - concept/heroism
   - concept/love_romantic
   - topos/love_as_religion
+  - concept/freedom_and_liberty
+  - concept/self_sacrifice
+  - concept/paradox
+  - concept/honour
+  - topos/quest
+  - motif/chains
+  - motif/ship_2
+  - form/apologetics
+  - histref/crusades
 ---
 
 # rash vows
@@ -31,9 +40,13 @@ tags:
 
 ## Connections
 
-**Topoi:** [[Love as Religion]]
-**Themes & Concepts:** [[Marriage and Fidelity]], [[Identity]], [[Self-Knowledge]], [[Critique of Progress]], [[Disillusionment]], [[Heroism]], [[Romantic Love]]
-**Forms & Genres:** [[Essay]]
+**Historical References:** [[Crusades]]
+
+**Motifs:** [[Chains]], [[Ship (2)]]
+
+**Topoi:** [[Love as Religion]], [[Quest]]
+**Themes & Concepts:** [[Marriage and Fidelity]], [[Identity]], [[Self-Knowledge]], [[Critique of Progress]], [[Disillusionment]], [[Heroism]], [[Romantic Love]], [[Freedom and Liberty]], [[Self-Sacrifice]], [[Paradox]], [[Honour]]
+**Forms & Genres:** [[Essay]], [[Apologetics]]
 
 ## Chapters / scenes / sections
 

@@ -17,6 +17,48 @@ tags:
   - concept/the_common_man
   - motif/the_sea
   - motif/crown
+  - character/kitchener
+  - character/charles_gordon
+  - character/marchand
+  - character/botha
+  - character/the_mahdi
+  - concept/fanaticism
+  - concept/friendship
+  - concept/fate_and_free_will
+  - concept/conversion
+  - concept/masculinity_and_the_male_code
+  - concept/self_sacrifice
+  - concept/reconciliation
+  - concept/greatness
+  - concept/silence_2
+  - concept/martyrdom
+  - topos/last_stand
+  - topos/combat_strife
+  - topos/open_road_homecoming
+  - topos/night_journey_vision
+  - motif/machine
+  - motif/silence
+  - motif/drums_and_bugles
+  - motif/river
+  - motif/ship_2
+  - motif/light_and_dark
+  - motif/blood
+  - setting/egypt
+  - setting/desert
+  - setting/russia
+  - setting/battlefield
+  - setting/sea_2
+  - setting/ship
+  - setting/south_africa
+  - archetype/tragic_hero
+  - archetype/avenger
+  - archetype/prophet
+  - archetype/martyr_saint
+  - form/sketch
+  - form/elegy
+  - histref/islam_and_the_east
+  - histref/crusades
+  - histref/irish_question
 ---
 
 # LordKitchener
@@ -32,11 +74,17 @@ tags:
 
 ## Connections
 
-**Archetypes:** [[Hero]]
-**Motifs:** [[Sea]], [[Crown]]
-**Themes & Concepts:** [[Heroism]], [[Honour]], [[War and its Cost]], [[Nationalism and Patriotism]], [[Common Man]]
-**Forms & Genres:** [[Biography]]
-**Historical References:** [[First World War]]
+**Settings:** [[Egypt]], [[Desert]], [[Russia]], [[Battlefield]], [[Sea (2)]], [[Ship]], [[South Africa]]
+
+**Topoi:** [[Last Stand]], [[Combat Strife]], [[Open Road Homecoming]], [[Night Journey Vision]]
+
+**Characters:** [[Kitchener]], [[Charles Gordon]], [[Marchand]], [[Botha]], [[The Mahdi]]
+
+**Archetypes:** [[Hero]], [[Tragic Hero]], [[Avenger]], [[Prophet]], [[Martyr Saint]]
+**Motifs:** [[Sea]], [[Crown]], [[Machine]], [[Silence]], [[Drums and Bugles]], [[River]], [[Ship (2)]], [[Light and Dark]], [[Blood]]
+**Themes & Concepts:** [[Heroism]], [[Honour]], [[War and its Cost]], [[Nationalism and Patriotism]], [[Common Man]], [[Fanaticism]], [[Friendship]], [[Fate and Free Will]], [[Conversion]], [[Masculinity and the Male Code]], [[Self-Sacrifice]], [[Reconciliation]], [[Greatness]], [[Silence (2)]], [[Martyrdom]]
+**Forms & Genres:** [[Biography]], [[Sketch]], [[Elegy]]
+**Historical References:** [[First World War]], [[Islam and the East]], [[Crusades]], [[Irish Question]]
 
 ## Chapters / scenes / sections
 

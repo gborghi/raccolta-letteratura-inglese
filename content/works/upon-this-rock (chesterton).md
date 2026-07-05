@@ -15,6 +15,18 @@ tags:
   - motif/bread_and_wine_eucharist
   - character/the_virgin_mary
   - histref/christianity
+  - character/christ
+  - character/st_peter
+  - concept/democracy
+  - concept/kingship_and_legitimacy
+  - concept/self_denial_and_renunciation
+  - concept/forgiveness
+  - concept/development_of_doctrine
+  - concept/heresy_and_schism
+  - form/essay
+  - histref/bible
+  - histref/reformation
+  - histref/puritanism
 ---
 
 # upon-this-rock
@@ -31,10 +43,10 @@ tags:
 ## Connections
 
 **Motifs:** [[Bread and Wine Eucharist]]
-**Themes & Concepts:** [[Faith]], [[Faith and Doubt]], [[Grace and Redemption]]
-**Forms & Genres:** [[Apologetics]]
-**Historical References:** [[Catholic Church]], [[Christianity]]
-**Characters:** [[Virgin Mary]]
+**Themes & Concepts:** [[Faith]], [[Faith and Doubt]], [[Grace and Redemption]], [[Democracy]], [[Kingship and Legitimacy]], [[Self-Denial and Renunciation]], [[Forgiveness]], [[Development of Doctrine]], [[Heresy and Schism]]
+**Forms & Genres:** [[Apologetics]], [[Essay]]
+**Historical References:** [[Catholic Church]], [[Christianity]], [[Bible]], [[Reformation]], [[Puritanism]]
+**Characters:** [[Virgin Mary]], [[Christ]], [[St. Peter]]
 
 ## Chapters / scenes / sections
 

@@ -25,6 +25,37 @@ tags:
   - form/aphorism
   - archetype/detective
   - archetype/child
+  - character/edward_lear
+  - character/lewis_carroll
+  - character/friedrich_nietzsche
+  - character/sherlock_holmes
+  - concept/humility
+  - concept/democracy
+  - concept/beauty
+  - concept/grotesque
+  - concept/joy
+  - concept/marriage_and_fidelity
+  - concept/critique_of_progress
+  - concept/self_and_cosmos
+  - concept/class_conflict
+  - concept/faith
+  - concept/value_and_scarcity
+  - topos/memento_mori
+  - topos/pastoral_retreat
+  - topos/golden_age
+  - topos/sublime_in_nature
+  - motif/death
+  - motif/stars
+  - motif/city
+  - setting/london
+  - setting/pastoral_countryside
+  - archetype/prophet
+  - histref/bible
+  - histref/christianity
+  - histref/ancient_greece
+  - histref/medieval_england
+  - histref/renaissance
+  - histref/french_revolution
 ---
 
 *by Chesterton*  ·  **Cluster:** [[Paradox · Food and Feasting · Aphorism]]
@@ -55,10 +86,16 @@ tags:
 
 ## Connections
 
-**Topoi:** [[Book of Nature]], [[World Upside Down]]
-**Archetypes:** [[Detective]], [[Child]]
-**Motifs:** [[Childhood]], [[Book Reading]]
-**Themes & Concepts:** [[Wonder and Gratitude]], [[Paradox]], [[Satire of Society]], [[Common Man]], [[Imagination]], [[Nationalism and Patriotism]], [[Innocence and Experience]], [[Ratiocination Detection]], [[Good vs Evil]]
+**Historical References:** [[Bible]], [[Christianity]], [[Ancient Greece]], [[Medieval England]], [[Renaissance]], [[French Revolution]]
+
+**Settings:** [[London]], [[Pastoral Countryside]]
+
+**Characters:** [[Edward Lear]], [[Lewis Carroll]], [[Friedrich Nietzsche]], [[Sherlock Holmes]]
+
+**Topoi:** [[Book of Nature]], [[World Upside Down]], [[Memento Mori]], [[Pastoral Retreat]], [[Golden Age]], [[Sublime in Nature]]
+**Archetypes:** [[Detective]], [[Child]], [[Prophet]]
+**Motifs:** [[Childhood]], [[Book Reading]], [[Death]], [[Stars]], [[City]]
+**Themes & Concepts:** [[Wonder and Gratitude]], [[Paradox]], [[Satire of Society]], [[Common Man]], [[Imagination]], [[Nationalism and Patriotism]], [[Innocence and Experience]], [[Ratiocination Detection]], [[Good vs Evil]], [[Humility]], [[Democracy]], [[Beauty]], [[Grotesque]], [[Joy]], [[Marriage and Fidelity]], [[Critique of Progress]], [[Self and Cosmos]], [[Class Conflict]], [[Faith]], [[Value and Scarcity]]
 **Forms & Genres:** [[Essay]], [[Satire]], [[Aphorism]]
 
 ## Chapters / scenes / sections

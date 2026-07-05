@@ -16,6 +16,16 @@ tags:
   - archetype/martyr
   - character/abraham_lincoln
   - histref/american_civil_war
+  - character/ulysses_s_grant
+  - concept/vanity_of_worldly_things
+  - concept/conformity_vs_individualism
+  - concept/self_reliance_and_earned_success
+  - motif/wine_and_drink
+  - motif/marriage
+  - setting/america
+  - archetype/self_made_man
+  - form/aphorism
+  - histref/puritanism
 ---
 
 *by Chesterton*  ·  **Cluster:** [[Paradox · Food and Feasting · Aphorism]]
@@ -29,11 +39,15 @@ tags:
 
 ## Connections
 
-**Archetypes:** [[Martyr Saint]]
-**Themes & Concepts:** [[Paradox]], [[Heroism]], [[Truth]], [[Martyrdom]], [[Critique of Progress]]
-**Forms & Genres:** [[Essay]]
-**Historical References:** [[American Civil War]]
-**Characters:** [[Abraham Lincoln]]
+**Settings:** [[America]]
+
+**Motifs:** [[Wine and Drink]], [[Marriage]]
+
+**Archetypes:** [[Martyr Saint]], [[Self-Made Man]]
+**Themes & Concepts:** [[Paradox]], [[Heroism]], [[Truth]], [[Martyrdom]], [[Critique of Progress]], [[Vanity of Worldly Things]], [[Conformity vs Individualism]], [[Self-Reliance and Earned Success]]
+**Forms & Genres:** [[Essay]], [[Aphorism]]
+**Historical References:** [[American Civil War]], [[Puritanism]]
+**Characters:** [[Abraham Lincoln]], [[Ulysses S. Grant]]
 
 ## Chapters / scenes / sections
 

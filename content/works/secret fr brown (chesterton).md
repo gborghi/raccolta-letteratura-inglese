@@ -19,6 +19,39 @@ tags:
   - concept/imagination
   - character/sherlock_homage
   - character/flambeau
+  - character/grandison_chace
+  - character/michael_moonshine
+  - character/john_bankes
+  - character/sir_arthur_travers
+  - character/mrs_mandeville
+  - character/marquis_of_marne
+  - character/hugo_romaine
+  - character/james_hardcastle
+  - concept/secrecy_and_concealment
+  - concept/crime_and_punishment
+  - concept/justice_right_and_wrong
+  - concept/deception
+  - concept/identity
+  - concept/revenge
+  - concept/forgiveness
+  - concept/self_deception
+  - concept/mesmerism
+  - topos/double
+  - motif/concealment_hidden_identity
+  - motif/mirror
+  - motif/gems_jewels
+  - motif/secrets
+  - motif/storm
+  - setting/castle
+  - setting/rural_england
+  - setting/spain
+  - archetype/villain
+  - archetype/double_doppelganger
+  - archetype/avenger
+  - archetype/trickster
+  - histref/catholic_church
+  - histref/christianity
+  - histref/bible
 ---
 
 # secret Fr Brown
@@ -41,10 +74,18 @@ tags:
 
 ## Connections
 
-**Archetypes:** [[Detective]]
-**Themes & Concepts:** [[Ratiocination Detection]], [[Appearance vs Reality]], [[Sin and the Fall]], [[Grace and Redemption]], [[Conscience]], [[Imagination]]
+**Historical References:** [[Catholic Church]], [[Christianity]], [[Bible]]
+
+**Settings:** [[Castle]], [[Rural England]], [[Spain]]
+
+**Motifs:** [[Concealment Hidden Identity]], [[Mirror]], [[Gems Jewels]], [[Secrets]], [[Storm]]
+
+**Topoi:** [[Double]]
+
+**Archetypes:** [[Detective]], [[Villain]], [[Double Doppelganger]], [[Avenger]], [[Trickster]]
+**Themes & Concepts:** [[Ratiocination Detection]], [[Appearance vs Reality]], [[Sin and the Fall]], [[Grace and Redemption]], [[Conscience]], [[Imagination]], [[Secrecy and Concealment]], [[Crime and Punishment]], [[Justice Right and Wrong]], [[Deception]], [[Identity]], [[Revenge]], [[Forgiveness]], [[Self-Deception]], [[Mesmerism]]
 **Forms & Genres:** [[Detective Fiction]], [[Short Story]]
-**Characters:** [[Father Brown]], [[Sherlock Holmes Homage]], [[Flambeau]]
+**Characters:** [[Father Brown]], [[Sherlock Holmes Homage]], [[Flambeau]], [[Grandison Chace]], [[Michael Moonshine]], [[John Bankes]], [[Sir Arthur Travers]], [[Mrs. Mandeville]], [[Marquis of Marne]], [[Hugo Romaine]], [[James Hardcastle]]
 
 ## Chapters / scenes / sections
 

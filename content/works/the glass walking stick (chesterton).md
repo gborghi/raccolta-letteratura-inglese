@@ -22,6 +22,32 @@ tags:
   - histref/medieval_england
   - histref/arthurian_legend
   - histref/christianity
+  - character/king_arthur
+  - character/napoleon
+  - character/robert_bruce
+  - character/general_wolfe
+  - character/cyrano_de_bergerac
+  - character/chantecler
+  - character/st_george
+  - character/tom_jones
+  - character/philip_the_second
+  - character/george_iv
+  - character/edward_vii
+  - character/george_v
+  - concept/heroism
+  - concept/war_and_its_cost
+  - motif/lion
+  - setting/cathedral
+  - setting/spain
+  - setting/toledo
+  - setting/the_escorial
+  - setting/camelot
+  - archetype/king
+  - archetype/hero
+  - form/heroic_couplet
+  - histref/regency_georgian_england
+  - histref/napoleonic_wars_the_navy
+  - histref/victorian_england
 ---
 
 *by Chesterton*  ·  **Cluster:** [[Artist and Society · Truth · Regency Georgian England]]
@@ -64,11 +90,17 @@ tags:
 
 ## Connections
 
+**Archetypes:** [[King]], [[Hero]]
+
+**Settings:** [[Cathedral]], [[Spain]], [[Toledo]], [[The Escorial]], [[Camelot]]
+
+**Characters:** [[King Arthur]], [[Napoleon]], [[Robert Bruce]], [[General Wolfe]], [[Cyrano de Bergerac]], [[Chantecler]], [[St George]], [[Tom Jones]], [[Philip the Second]], [[George IV]], [[Edward VII]], [[George V]]
+
 **Topoi:** [[Sic Transit Gloria Mundi]]
-**Motifs:** [[Ruins the Abbey]], [[Memory]]
-**Themes & Concepts:** [[Critique of Progress]], [[Nostalgia]], [[Nationalism and Patriotism]], [[Wonder and Gratitude]], [[Satire of Society]], [[Artist and Society]], [[Kingship and Legitimacy]]
-**Forms & Genres:** [[Essay]], [[Literary Criticism]]
-**Historical References:** [[Medieval England]], [[Arthurian Legend]], [[Christianity]]
+**Motifs:** [[Ruins the Abbey]], [[Memory]], [[Lion]]
+**Themes & Concepts:** [[Critique of Progress]], [[Nostalgia]], [[Nationalism and Patriotism]], [[Wonder and Gratitude]], [[Satire of Society]], [[Artist and Society]], [[Kingship and Legitimacy]], [[Heroism]], [[War and its Cost]]
+**Forms & Genres:** [[Essay]], [[Literary Criticism]], [[Heroic Couplet]]
+**Historical References:** [[Medieval England]], [[Arthurian Legend]], [[Christianity]], [[Regency Georgian England]], [[Napoleonic Wars the Navy]], [[Victorian England]]
 
 ## Chapters / scenes / sections
 

@@ -33,6 +33,62 @@ tags:
   - histref/wars_of_the_roses
   - histref/ancient_rome
   - setting/medieval_england
+  - character/king_arthur
+  - character/king_alfred_2
+  - character/thomas_becket
+  - character/sir_thomas_more
+  - character/henry_v
+  - character/henry_vi
+  - character/henry_viii
+  - character/richard_ii
+  - character/richard_iii
+  - character/king_john
+  - character/julius_caesar
+  - character/cardinal_wolsey
+  - character/henry_bolingbroke
+  - character/edward_iii
+  - character/william_the_conqueror
+  - character/henry_ii
+  - character/edward_i
+  - character/charles_i
+  - character/oliver_cromwell
+  - character/napoleon
+  - character/joan_of_arc
+  - character/wat_tyler
+  - character/nelson
+  - character/wellington
+  - character/simon_de_montfort
+  - character/bolingbroke_henry_st_john
+  - concept/democracy
+  - concept/freedom_and_liberty
+  - concept/slavery
+  - concept/greed_and_money
+  - concept/labor_and_work
+  - topos/war_as_glory
+  - motif/ruins_the_abbey
+  - setting/rural_england
+  - setting/scotland_the_highlands
+  - setting/germany
+  - setting/london
+  - archetype/king
+  - archetype/tyrant
+  - archetype/usurper
+  - archetype/martyr_saint
+  - archetype/common_man_2
+  - histref/french_revolution
+  - histref/renaissance
+  - histref/puritanism
+  - histref/elizabethan_england
+  - histref/napoleonic_wars_the_navy
+  - histref/first_world_war
+  - histref/islam
+  - histref/grail_legend
+  - histref/arthurian_legend
+  - histref/danish_invasions
+  - histref/battle_of_ethandun
+  - histref/regency_georgian_england
+  - histref/irish_question
+  - histref/thirty_years_war
 ---
 
 # history
@@ -65,12 +121,16 @@ tags:
 
 ## Connections
 
-**Topoi:** [[Ages of the World]], [[Golden Age]], [[Fortune's Wheel]]
-**Motifs:** [[Crown]], [[Swords and Weapons]], [[Money and Gold]]
-**Themes & Concepts:** [[Nationalism and Patriotism]], [[Common Man]], [[Distributism]], [[Anti-Industrialism]], [[Class Conflict]], [[Social Injustice]], [[Kingship and Legitimacy]], [[Power and Corruption]], [[Critique of Progress]], [[Heroism]]
+**Archetypes:** [[King]], [[Tyrant]], [[Usurper]], [[Martyr Saint]], [[Common Man (2)]]
+
+**Characters:** [[King Arthur]], [[King Alfred (2)]], [[Thomas Becket]], [[Sir Thomas More]], [[Henry V]], [[Henry VI]], [[Henry VIII]], [[Richard II]], [[Richard III]], [[King John]], [[Julius Caesar]], [[Cardinal Wolsey]], [[Henry Bolingbroke]], [[Edward III]], [[William the Conqueror]], [[Henry II]], [[Edward I]], [[Charles I]], [[Oliver Cromwell]], [[Napoleon]], [[Joan of Arc]], [[Wat Tyler]], [[Nelson]], [[Wellington]], [[Simon de Montfort]], [[Bolingbroke (Henry St. John)]]
+
+**Topoi:** [[Ages of the World]], [[Golden Age]], [[Fortune's Wheel]], [[War as Glory]]
+**Motifs:** [[Crown]], [[Swords and Weapons]], [[Money and Gold]], [[Ruins the Abbey]]
+**Themes & Concepts:** [[Nationalism and Patriotism]], [[Common Man]], [[Distributism]], [[Anti-Industrialism]], [[Class Conflict]], [[Social Injustice]], [[Kingship and Legitimacy]], [[Power and Corruption]], [[Critique of Progress]], [[Heroism]], [[Democracy]], [[Freedom and Liberty]], [[Slavery]], [[Greed and Money]], [[Labor and Work]]
 **Forms & Genres:** [[Essay]]
-**Historical References:** [[Medieval England]], [[Crusades]], [[Reformation]], [[Industrial Revolution]], [[Christianity]], [[Catholic Church]], [[Wars of the Roses]], [[Ancient Rome]]
-**Settings:** [[Medieval England (2)]]
+**Historical References:** [[Medieval England]], [[Crusades]], [[Reformation]], [[Industrial Revolution]], [[Christianity]], [[Catholic Church]], [[Wars of the Roses]], [[Ancient Rome]], [[French Revolution]], [[Renaissance]], [[Puritanism]], [[Elizabethan England]], [[Napoleonic Wars the Navy]], [[First World War]], [[Islam]], [[Grail Legend]], [[Arthurian Legend]], [[Danish Invasions]], [[Battle of Ethandun]], [[Regency Georgian England]], [[Irish Question]], [[Thirty Years' War]]
+**Settings:** [[Medieval England (2)]], [[Rural England]], [[Scotland the Highlands]], [[Germany]], [[London]]
 
 ## Chapters / scenes / sections
 

@@ -15,6 +15,16 @@ tags:
   - concept/truth
   - histref/christianity
   - histref/catholic_church
+  - character/thomas_jefferson
+  - concept/democracy
+  - concept/conformity_vs_individualism
+  - concept/freedom_and_liberty
+  - motif/journey
+  - setting/america
+  - form/travel_writing
+  - histref/spanish_inquisition
+  - histref/islam_and_the_east
+  - histref/declaration_of_independence
 ---
 
 *by Chesterton*  ·  **Cluster:** [[Essay · Critique of Progress · Common Man]]
@@ -24,9 +34,15 @@ tags:
 
 ## Connections
 
-**Themes & Concepts:** [[Nationalism and Patriotism]], [[Satire of Society]], [[Faith and Doubt]], [[Truth]]
-**Forms & Genres:** [[Essay]], [[Satire]]
-**Historical References:** [[Christianity]], [[Catholic Church]]
+**Settings:** [[America]]
+
+**Motifs:** [[Journey]]
+
+**Characters:** [[Thomas Jefferson]]
+
+**Themes & Concepts:** [[Nationalism and Patriotism]], [[Satire of Society]], [[Faith and Doubt]], [[Truth]], [[Democracy]], [[Conformity vs Individualism]], [[Freedom and Liberty]]
+**Forms & Genres:** [[Essay]], [[Satire]], [[Travel Writing]]
+**Historical References:** [[Christianity]], [[Catholic Church]], [[Spanish Inquisition]], [[Islam and the East]], [[Declaration of Independence]]
 
 ## Testo integrale / Full text
 

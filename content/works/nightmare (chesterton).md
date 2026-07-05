@@ -16,6 +16,24 @@ tags:
   - motif/night
   - motif/the_cross
   - form/essay
+  - concept/madness
+  - concept/paganism_and_classical_revival
+  - topos/night_journey_vision
+  - topos/world_upside_down
+  - motif/horse
+  - motif/eyes_and_sight
+  - motif/wind
+  - motif/moon
+  - motif/gold_and_grey
+  - setting/egypt
+  - setting/garden_2
+  - setting/desert
+  - archetype/child
+  - histref/dante
+  - histref/bible
+  - histref/christianity
+  - histref/greek_mythology
+  - histref/robert_louis_stevenson
 ---
 
 # nightmare
@@ -31,8 +49,16 @@ tags:
 
 ## Connections
 
-**Motifs:** [[Supernatural]], [[Dreams]], [[Night]], [[Cross]]
-**Themes & Concepts:** [[Terror and Horror]], [[Imagination]], [[Grotesque]], [[Faith]]
+**Historical References:** [[Dante]], [[Bible]], [[Christianity]], [[Greek Mythology]], [[Robert Louis Stevenson]]
+
+**Archetypes:** [[Child]]
+
+**Settings:** [[Egypt]], [[Garden (2)]], [[Desert]]
+
+**Topoi:** [[Night Journey Vision]], [[World Upside Down]]
+
+**Motifs:** [[Supernatural]], [[Dreams]], [[Night]], [[Cross]], [[Horse]], [[Eyes and Sight]], [[Wind]], [[Moon]], [[Gold and Grey]]
+**Themes & Concepts:** [[Terror and Horror]], [[Imagination]], [[Grotesque]], [[Faith]], [[Madness]], [[Paganism and Classical Revival]]
 **Forms & Genres:** [[Essay]]
 
 ## Chapters / scenes / sections

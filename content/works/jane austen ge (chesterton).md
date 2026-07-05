@@ -14,6 +14,22 @@ tags:
   - concept/appearance_vs_reality
   - archetype/corrupt_official
   - concept/power_and_corruption
+  - character/mr_wickham
+  - character/elizabeth_bennet
+  - character/mr_darcy
+  - character/jane_bennet
+  - character/lydia_bennet
+  - character/emma_woodhouse
+  - concept/truth
+  - concept/democracy
+  - concept/power_of_language
+  - concept/feminism_and_the_new_woman
+  - motif/marriage
+  - archetype/trickster
+  - archetype/tyrant
+  - form/satire
+  - histref/regency_georgian_england
+  - histref/mussolini_and_italian_fascism
 ---
 
 *by Chesterton*  ·  **Cluster:** [[Artist and Society · Truth · Regency Georgian England]]
@@ -27,9 +43,15 @@ tags:
 
 ## Connections
 
-**Archetypes:** [[Corrupt Official]]
-**Themes & Concepts:** [[Satire of Society]], [[Deception]], [[Appearance vs Reality]], [[Power and Corruption]]
-**Forms & Genres:** [[Literary Criticism]], [[Essay]]
+**Historical References:** [[Regency Georgian England]], [[Mussolini and Italian Fascism]]
+
+**Motifs:** [[Marriage]]
+
+**Characters:** [[Mr Wickham]], [[Elizabeth Bennet]], [[Mr Darcy]], [[Jane Bennet]], [[Lydia Bennet]], [[Emma Woodhouse]]
+
+**Archetypes:** [[Corrupt Official]], [[Trickster]], [[Tyrant]]
+**Themes & Concepts:** [[Satire of Society]], [[Deception]], [[Appearance vs Reality]], [[Power and Corruption]], [[Truth]], [[Democracy]], [[Power of Language]], [[Feminism and the New Woman]]
+**Forms & Genres:** [[Literary Criticism]], [[Essay]], [[Satire]]
 
 ## Chapters / scenes / sections
 

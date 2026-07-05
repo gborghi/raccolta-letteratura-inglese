@@ -13,6 +13,11 @@ tags:
   - concept/heroism_courage
   - concept/mortality
   - concept/critique_of_progress
+  - concept/survival
+  - concept/war_and_its_cost
+  - concept/satire_of_society
+  - concept/power_of_language
+  - form/aphorism
 ---
 
 # methuselahite
@@ -28,8 +33,8 @@ tags:
 
 ## Connections
 
-**Themes & Concepts:** [[Paradox]], [[Courage]], [[Mortality]], [[Critique of Progress]]
-**Forms & Genres:** [[Essay]], [[Satire]]
+**Themes & Concepts:** [[Paradox]], [[Courage]], [[Mortality]], [[Critique of Progress]], [[Survival]], [[War and its Cost]], [[Satire of Society]], [[Power of Language]]
+**Forms & Genres:** [[Essay]], [[Satire]], [[Aphorism]]
 
 ## Chapters / scenes / sections
 

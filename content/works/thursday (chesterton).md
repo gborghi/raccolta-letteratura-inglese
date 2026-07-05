@@ -10,6 +10,54 @@ tags:
   - character/gabriel_syme
   - character/lucian_gregory
   - character/sunday
+  - character/rosamond_gregory
+  - character/the_secretary
+  - character/dr_bull
+  - character/professor_de_worms
+  - character/marquis_de_st_eustache
+  - character/gogol
+  - character/colonel_ducroix
+  - concept/order_vs_chaos
+  - concept/appearance_vs_reality
+  - concept/secrecy_and_concealment
+  - concept/identity
+  - concept/fear
+  - concept/paradox
+  - concept/faith_and_doubt
+  - concept/providence
+  - concept/anarchism
+  - topos/double
+  - topos/world_upside_down
+  - topos/quest
+  - topos/katabasis_descent
+  - topos/theatrum_mundi
+  - motif/concealment_hidden_identity
+  - motif/clothing_and_costume
+  - motif/light_and_dark
+  - motif/eyes_and_sight
+  - motif/fire
+  - motif/garden
+  - motif/sun
+  - setting/london
+  - setting/river_thames
+  - setting/rural_england
+  - setting/underworld_cave
+  - setting/sea_2
+  - setting/france
+  - archetype/detective
+  - archetype/trickster
+  - archetype/rebel
+  - archetype/satanic_figure
+  - archetype/double_doppelganger
+  - archetype/christ_figure
+  - form/novel
+  - form/detective_fiction
+  - form/allegory
+  - histref/french_revolution
+  - histref/bible
+  - histref/christianity
+  - histref/greek_mythology
+  - histref/roman_history
 ---
 
 # thursday
@@ -36,7 +84,21 @@ tags:
 
 ## Connections
 
-**Characters:** [[Gabriel Syme]], [[Lucian Gregory]], [[Sunday]]
+**Historical References:** [[French Revolution]], [[Bible]], [[Christianity]], [[Greek Mythology]], [[Roman History]]
+
+**Forms & Genres:** [[Novel]], [[Detective Fiction]], [[Allegory]]
+
+**Archetypes:** [[Detective]], [[Trickster]], [[Rebel]], [[Satanic Figure]], [[Double Doppelganger]], [[Christ Figure]]
+
+**Settings:** [[London]], [[River Thames]], [[Rural England]], [[Underworld Cave]], [[Sea (2)]], [[France]]
+
+**Motifs:** [[Concealment Hidden Identity]], [[Clothing and Costume]], [[Light and Dark]], [[Eyes and Sight]], [[Fire]], [[Garden]], [[Sun]]
+
+**Topoi:** [[Double]], [[World Upside Down]], [[Quest]], [[Katabasis Descent]], [[Theatrum Mundi]]
+
+**Themes & Concepts:** [[Order vs Chaos]], [[Appearance vs Reality]], [[Secrecy and Concealment]], [[Identity]], [[Fear]], [[Paradox]], [[Faith and Doubt]], [[Providence]], [[Anarchism]]
+
+**Characters:** [[Gabriel Syme]], [[Lucian Gregory]], [[Sunday]], [[Rosamond Gregory]], [[The Secretary]], [[Dr. Bull]], [[Professor de Worms]], [[Marquis de St. Eustache]], [[Gogol]], [[Colonel Ducroix]]
 
 ## Chapters / scenes / sections
 

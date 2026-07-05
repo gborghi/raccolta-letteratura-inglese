@@ -16,6 +16,15 @@ tags:
   - motif/nature
   - motif/light_and_dark
   - setting/rural_england
+  - concept/imagination
+  - concept/paradox
+  - concept/virtue
+  - topos/sublime_in_nature
+  - topos/pastoral_retreat
+  - motif/hill
+  - motif/chalk
+  - archetype/artist
+  - histref/christianity
 ---
 
 # chalk
@@ -31,9 +40,13 @@ tags:
 
 ## Connections
 
-**Topoi:** [[Book of Nature]]
-**Motifs:** [[White and Red]], [[Nature]], [[Light and Dark]]
-**Themes & Concepts:** [[Wonder and Gratitude]], [[Mercy]], [[Faith]]
+**Historical References:** [[Christianity]]
+
+**Archetypes:** [[Artist]]
+
+**Topoi:** [[Book of Nature]], [[Sublime in Nature]], [[Pastoral Retreat]]
+**Motifs:** [[White and Red]], [[Nature]], [[Light and Dark]], [[Hill]], [[Chalk]]
+**Themes & Concepts:** [[Wonder and Gratitude]], [[Mercy]], [[Faith]], [[Imagination]], [[Paradox]], [[Virtue]]
 **Forms & Genres:** [[Essay]]
 **Settings:** [[Rural England]]
 

@@ -22,6 +22,26 @@ tags:
   - histref/christianity
   - histref/classical_antiquity
   - character/odysseus
+  - character/rudyard_kipling
+  - character/bernard_shaw
+  - character/h_g_wells
+  - character/george_moore
+  - character/lowes_dickinson
+  - character/mccabe
+  - character/whistler
+  - character/omar_khayyam
+  - concept/paganism_and_classical_revival
+  - concept/nationalism_and_patriotism
+  - concept/artist_and_society
+  - concept/democracy
+  - concept/family
+  - motif/wine_and_drink
+  - motif/clothing_and_costume
+  - motif/bread_and_wine_eucharist
+  - setting/america
+  - form/literary_criticism
+  - form/satire
+  - histref/irish_question
 ---
 
 # heret12
@@ -55,12 +75,14 @@ tags:
 
 ## Connections
 
+**Settings:** [[America]]
+
 **Topoi:** [[Golden Age]], [[Paradise Lost]]
-**Motifs:** [[Stars]]
-**Themes & Concepts:** [[Faith]], [[Humility]], [[Paradox]], [[Pride]], [[Original Sin]], [[Grace and Redemption]], [[Critique of Progress]]
-**Forms & Genres:** [[Essay]], [[Apologetics]]
-**Historical References:** [[Christianity]], [[Classical Antiquity]]
-**Characters:** [[Odysseus Ulysses]]
+**Motifs:** [[Stars]], [[Wine and Drink]], [[Clothing and Costume]], [[Bread and Wine Eucharist]]
+**Themes & Concepts:** [[Faith]], [[Humility]], [[Paradox]], [[Pride]], [[Original Sin]], [[Grace and Redemption]], [[Critique of Progress]], [[Paganism and Classical Revival]], [[Nationalism and Patriotism]], [[Artist and Society]], [[Democracy]], [[Family]]
+**Forms & Genres:** [[Essay]], [[Apologetics]], [[Literary Criticism]], [[Satire]]
+**Historical References:** [[Christianity]], [[Classical Antiquity]], [[Irish Question]]
+**Characters:** [[Odysseus Ulysses]], [[Rudyard Kipling]], [[Bernard Shaw]], [[H. G. Wells]], [[George Moore]], [[Lowes Dickinson]], [[McCabe]], [[Whistler]], [[Omar Khayyam]]
 
 ## Chapters / scenes / sections
 

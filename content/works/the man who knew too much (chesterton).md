@@ -18,6 +18,26 @@ tags:
   - concept/nationalism_and_patriotism
   - archetype/detective
   - archetype/corrupt_official
+  - character/horne_fisher
+  - character/harold_march
+  - concept/self_sacrifice
+  - concept/secrecy_and_concealment
+  - concept/conscience
+  - concept/war_and_its_cost
+  - topos/last_stand
+  - motif/concealment_hidden_identity
+  - motif/secrets
+  - motif/silence
+  - motif/well
+  - motif/stone_and_marble
+  - motif/swords_and_weapons
+  - setting/rural_england
+  - setting/castle
+  - setting/battlefield
+  - setting/sea_2
+  - archetype/martyr_saint
+  - histref/irish_question
+  - histref/first_world_war
 ---
 
 *by Chesterton*  ·  **Cluster:** [[Short Story · Concealment Hidden Identity · Justice Right and Wrong]]
@@ -38,8 +58,18 @@ tags:
 
 ## Connections
 
-**Archetypes:** [[Detective]], [[Corrupt Official]]
-**Themes & Concepts:** [[Power and Corruption]], [[Justice Right and Wrong]], [[Appearance vs Reality]], [[Disillusionment]], [[Ratiocination Detection]], [[Satire of Society]], [[Nationalism and Patriotism]]
+**Historical References:** [[Irish Question]], [[First World War]]
+
+**Settings:** [[Rural England]], [[Castle]], [[Battlefield]], [[Sea (2)]]
+
+**Motifs:** [[Concealment Hidden Identity]], [[Secrets]], [[Silence]], [[Well]], [[Stone and Marble]], [[Swords and Weapons]]
+
+**Topoi:** [[Last Stand]]
+
+**Characters:** [[Horne Fisher]], [[Harold March]]
+
+**Archetypes:** [[Detective]], [[Corrupt Official]], [[Martyr Saint]]
+**Themes & Concepts:** [[Power and Corruption]], [[Justice Right and Wrong]], [[Appearance vs Reality]], [[Disillusionment]], [[Ratiocination Detection]], [[Satire of Society]], [[Nationalism and Patriotism]], [[Self-Sacrifice]], [[Secrecy and Concealment]], [[Conscience]], [[War and its Cost]]
 **Forms & Genres:** [[Detective Fiction]], [[Short Story]]
 
 ## Chapters / scenes / sections

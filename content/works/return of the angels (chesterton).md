@@ -14,6 +14,15 @@ tags:
   - concept/critique_of_progress
   - concept/wonder_and_gratitude
   - histref/christianity
+  - concept/conversion
+  - concept/paradox
+  - concept/providence
+  - concept/pragmatism_method_of_the_hypothesis
+  - topos/book_of_nature
+  - motif/light_and_dark
+  - form/apologetics
+  - histref/eastern_religion_comparative_religion
+  - histref/darwinism_evolutionary_theory
 ---
 
 *by Chesterton*  ·  **Cluster:** [[Faith · Providence · Divine Love]]
@@ -27,10 +36,12 @@ tags:
 
 ## Connections
 
-**Motifs:** [[Supernatural]]
-**Themes & Concepts:** [[Faith]], [[Faith and Doubt]], [[Critique of Progress]], [[Wonder and Gratitude]]
-**Forms & Genres:** [[Essay]]
-**Historical References:** [[Christianity]]
+**Topoi:** [[Book of Nature]]
+
+**Motifs:** [[Supernatural]], [[Light and Dark]]
+**Themes & Concepts:** [[Faith]], [[Faith and Doubt]], [[Critique of Progress]], [[Wonder and Gratitude]], [[Conversion]], [[Paradox]], [[Providence]], [[Pragmatism (Method of the Hypothesis)]]
+**Forms & Genres:** [[Essay]], [[Apologetics]]
+**Historical References:** [[Christianity]], [[Eastern Religion Comparative Religion]], [[Darwinism (Evolutionary Theory)]]
 
 ## Chapters / scenes / sections
 

@@ -14,6 +14,15 @@ tags:
   - concept/imagination
   - concept/satire_of_society
   - concept/the_artist_and_society
+  - character/robin_hood
+  - character/dick_deadshot
+  - concept/class_conflict
+  - concept/crime_and_punishment
+  - concept/truth
+  - topos/world_upside_down
+  - motif/book_reading
+  - setting/london
+  - histref/romantic_movement_sensibility
 ---
 
 # penny-dreadfuls
@@ -29,7 +38,17 @@ tags:
 
 ## Connections
 
-**Themes & Concepts:** [[Common Man]], [[Heroism]], [[Imagination]], [[Satire of Society]], [[Artist and Society]]
+**Historical References:** [[Romantic Movement (Sensibility)]]
+
+**Settings:** [[London]]
+
+**Motifs:** [[Book Reading]]
+
+**Topoi:** [[World Upside Down]]
+
+**Characters:** [[Robin Hood]], [[Dick Deadshot]]
+
+**Themes & Concepts:** [[Common Man]], [[Heroism]], [[Imagination]], [[Satire of Society]], [[Artist and Society]], [[Class Conflict]], [[Crime and Punishment]], [[Truth]]
 **Forms & Genres:** [[Essay]], [[Literary Criticism]]
 
 ## Chapters / scenes / sections

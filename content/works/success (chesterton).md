@@ -15,6 +15,15 @@ tags:
   - histref/classical_antiquity
   - form/essay
   - form/satire
+  - character/midas
+  - character/vanderbilt
+  - concept/self_reliance_and_earned_success
+  - concept/deception
+  - topos/vanitas
+  - topos/world_upside_down
+  - motif/secrets
+  - archetype/self_made_man
+  - histref/industrial_revolution
 ---
 
 # success
@@ -30,10 +39,16 @@ tags:
 
 ## Connections
 
-**Motifs:** [[Money and Gold]]
-**Themes & Concepts:** [[Satire of Society]], [[Money and Avarice]], [[Pride]], [[Critique of Progress]]
+**Archetypes:** [[Self-Made Man]]
+
+**Topoi:** [[Vanitas]], [[World Upside Down]]
+
+**Characters:** [[Midas]], [[Vanderbilt]]
+
+**Motifs:** [[Money and Gold]], [[Secrets]]
+**Themes & Concepts:** [[Satire of Society]], [[Money and Avarice]], [[Pride]], [[Critique of Progress]], [[Self-Reliance and Earned Success]], [[Deception]]
 **Forms & Genres:** [[Essay]], [[Satire]]
-**Historical References:** [[Classical Antiquity]]
+**Historical References:** [[Classical Antiquity]], [[Industrial Revolution]]
 
 ## Chapters / scenes / sections
 

@@ -29,6 +29,22 @@ tags:
   - topos/the_ages_of_the_world
   - topos/pastoral_retreat
   - motif/the_supernatural
+  - character/buddha
+  - character/confucius
+  - character/mahomet
+  - character/socrates
+  - character/h_g_wells
+  - character/herod_the_great
+  - character/julian_the_apostate
+  - concept/paganism_and_classical_revival
+  - concept/paradox
+  - concept/resurrection
+  - concept/eastern_religion_and_asceticism
+  - motif/cave
+  - motif/dying_and_reviving_god
+  - archetype/prophet
+  - archetype/wise_old_man_sage
+  - histref/punic_wars
 ---
 
 # everlasting man
@@ -47,12 +63,12 @@ tags:
 ## Connections
 
 **Topoi:** [[Paradise Lost]], [[Ages of the World]], [[Pastoral Retreat]]
-**Archetypes:** [[Christ Figure]]
-**Motifs:** [[Supernatural]]
-**Themes & Concepts:** [[Faith]], [[Grace and Redemption]], [[Conversion]], [[Wonder and Gratitude]], [[Critique of Progress]], [[Good vs Evil]], [[Imagination]], [[Identity]], [[Truth]]
+**Archetypes:** [[Christ Figure]], [[Prophet]], [[Wise Old Man Sage]]
+**Motifs:** [[Supernatural]], [[Cave]], [[Dying and Reviving God]]
+**Themes & Concepts:** [[Faith]], [[Grace and Redemption]], [[Conversion]], [[Wonder and Gratitude]], [[Critique of Progress]], [[Good vs Evil]], [[Imagination]], [[Identity]], [[Truth]], [[Paganism and Classical Revival]], [[Paradox]], [[Resurrection]], [[Eastern Religion and Asceticism]]
 **Forms & Genres:** [[Apologetics]], [[Essay]]
-**Historical References:** [[Christianity]], [[Catholic Church]], [[Bible]], [[Classical Antiquity]], [[Eastern Religion Comparative Religion]]
-**Characters:** [[Christ]]
+**Historical References:** [[Christianity]], [[Catholic Church]], [[Bible]], [[Classical Antiquity]], [[Eastern Religion Comparative Religion]], [[Punic Wars]]
+**Characters:** [[Christ]], [[Buddha]], [[Confucius]], [[Mahomet]], [[Socrates]], [[H. G. Wells]], [[Herod the Great]], [[Julian the Apostate]]
 
 ## Chapters / scenes / sections
 

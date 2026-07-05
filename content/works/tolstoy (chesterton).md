@@ -14,6 +14,30 @@ tags:
   - concept/war_and_its_cost
   - concept/the_artist_and_society
   - concept/truth
+  - character/leo_tolstoy
+  - character/ivan_turgenev
+  - character/anna_karenina
+  - concept/fanaticism
+  - concept/conversion
+  - concept/critique_of_progress
+  - concept/nationalism_and_patriotism
+  - concept/simplification_of_life
+  - concept/realism
+  - topos/war_as_glory
+  - motif/animals
+  - motif/death
+  - motif/nature
+  - setting/russia
+  - setting/battlefield
+  - setting/caucasus
+  - archetype/rebel
+  - archetype/prophet
+  - form/biography
+  - histref/islam
+  - histref/napoleonic_wars_the_navy
+  - histref/christianity
+  - histref/bible
+  - histref/crimean_war
 ---
 
 # tolstoy
@@ -29,8 +53,20 @@ tags:
 
 ## Connections
 
-**Themes & Concepts:** [[Faith]], [[Madness]], [[War and its Cost]], [[Artist and Society]], [[Truth]]
-**Forms & Genres:** [[Literary Criticism]], [[Essay]]
+**Historical References:** [[Islam]], [[Napoleonic Wars the Navy]], [[Christianity]], [[Bible]], [[Crimean War]]
+
+**Archetypes:** [[Rebel]], [[Prophet]]
+
+**Settings:** [[Russia]], [[Battlefield]], [[Caucasus]]
+
+**Motifs:** [[Animals]], [[Death]], [[Nature]]
+
+**Topoi:** [[War as Glory]]
+
+**Characters:** [[Leo Tolstoy]], [[Ivan Turgenev]], [[Anna Karenina]]
+
+**Themes & Concepts:** [[Faith]], [[Madness]], [[War and its Cost]], [[Artist and Society]], [[Truth]], [[Fanaticism]], [[Conversion]], [[Critique of Progress]], [[Nationalism and Patriotism]], [[Simplification of Life]], [[Realism]]
+**Forms & Genres:** [[Literary Criticism]], [[Essay]], [[Biography]]
 
 ## Chapters / scenes / sections
 

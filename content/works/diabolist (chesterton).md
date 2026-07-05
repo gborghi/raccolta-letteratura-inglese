@@ -19,6 +19,15 @@ tags:
   - concept/terror_and_horror
   - form/essay
   - form/autobiography
+  - concept/paradox
+  - concept/despair
+  - concept/unseen_the_hidden
+  - topos/temptation_2
+  - motif/stars
+  - setting/london
+  - form/apologetics
+  - histref/bible
+  - histref/classical_antiquity
 ---
 
 # diabolist
@@ -34,10 +43,16 @@ tags:
 
 ## Connections
 
+**Historical References:** [[Bible]], [[Classical Antiquity]]
+
+**Settings:** [[London]]
+
+**Topoi:** [[Temptation (2)]]
+
 **Archetypes:** [[Satanic Figure]]
-**Motifs:** [[Fire]], [[Light and Dark]]
-**Themes & Concepts:** [[Good vs Evil]], [[Temptation]], [[Conscience]], [[Conversion]], [[Faith and Doubt]], [[Sin and the Fall]], [[Terror and Horror]]
-**Forms & Genres:** [[Essay]], [[Fictional Autobiography]]
+**Motifs:** [[Fire]], [[Light and Dark]], [[Stars]]
+**Themes & Concepts:** [[Good vs Evil]], [[Temptation]], [[Conscience]], [[Conversion]], [[Faith and Doubt]], [[Sin and the Fall]], [[Terror and Horror]], [[Paradox]], [[Despair]], [[Unseen The Hidden]]
+**Forms & Genres:** [[Essay]], [[Fictional Autobiography]], [[Apologetics]]
 
 ## Chapters / scenes / sections
 

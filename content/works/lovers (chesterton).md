@@ -16,6 +16,13 @@ tags:
   - archetype/lover
   - archetype/fool
   - motif/madness
+  - character/gabriel_gale
+  - character/diana_westermaine
+  - character/hurrel
+  - concept/paradox
+  - concept/friendship
+  - motif/rash_vow
+  - setting/inn
 ---
 
 # lovers
@@ -31,10 +38,14 @@ tags:
 
 ## Connections
 
+**Settings:** [[Inn]]
+
+**Characters:** [[Gabriel Gale]], [[Diana Westermaine]], [[Hurrel]]
+
 **Topoi:** [[World Upside Down]]
 **Archetypes:** [[Lover]], [[Fool]]
-**Motifs:** [[Madness (2)]]
-**Themes & Concepts:** [[Romantic Love]], [[Madness]], [[Appearance vs Reality]], [[Wonder and Gratitude]]
+**Motifs:** [[Madness (2)]], [[Rash Vow]]
+**Themes & Concepts:** [[Romantic Love]], [[Madness]], [[Appearance vs Reality]], [[Wonder and Gratitude]], [[Paradox]], [[Friendship]]
 **Forms & Genres:** [[Short Story]]
 
 ## Chapters / scenes / sections

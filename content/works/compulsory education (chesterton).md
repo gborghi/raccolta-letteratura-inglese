@@ -14,6 +14,16 @@ tags:
   - histref/christianity
   - form/essay
   - concept/faith
+  - character/queen_elizabeth
+  - character/queen_victoria
+  - character/william_jennings_bryan
+  - character/charles_darwin
+  - concept/conformity_vs_individualism
+  - setting/american_south
+  - histref/islam
+  - histref/bible
+  - histref/elizabethan_england
+  - histref/scopes_trial
 ---
 
 *by Chesterton*  ·  **Cluster:** [[Education · Self-Made Man · Wheel]]
@@ -27,9 +37,13 @@ tags:
 
 ## Connections
 
-**Themes & Concepts:** [[Education]], [[Faith and Doubt]], [[Critique of Progress]], [[Justice Right and Wrong]], [[Faith]]
+**Settings:** [[American South]]
+
+**Characters:** [[Queen Elizabeth]], [[Queen Victoria]], [[William Jennings Bryan]], [[Charles Darwin]]
+
+**Themes & Concepts:** [[Education]], [[Faith and Doubt]], [[Critique of Progress]], [[Justice Right and Wrong]], [[Faith]], [[Conformity vs Individualism]]
 **Forms & Genres:** [[Essay]]
-**Historical References:** [[Christianity]]
+**Historical References:** [[Christianity]], [[Islam]], [[Bible]], [[Elizabethan England]], [[Scopes Trial]]
 
 ## Chapters / scenes / sections
 

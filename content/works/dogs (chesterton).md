@@ -16,6 +16,11 @@ tags:
   - motif/fire
   - concept/identity
   - form/essay
+  - concept/paradox
+  - concept/common_man
+  - motif/home
+  - motif/book_reading
+  - archetype/common_man_2
 ---
 
 *by Chesterton*  ·  **Cluster:** [[Essay · Critique of Progress · Common Man]]
@@ -29,8 +34,10 @@ tags:
 
 ## Connections
 
-**Motifs:** [[Animals]], [[Fire]]
-**Themes & Concepts:** [[Nature vs Civilization]], [[Critique of Progress]], [[Wonder and Gratitude]], [[Self-Knowledge]], [[Friendship]], [[Identity]]
+**Archetypes:** [[Common Man (2)]]
+
+**Motifs:** [[Animals]], [[Fire]], [[Home]], [[Book Reading]]
+**Themes & Concepts:** [[Nature vs Civilization]], [[Critique of Progress]], [[Wonder and Gratitude]], [[Self-Knowledge]], [[Friendship]], [[Identity]], [[Paradox]], [[Common Man]]
 **Forms & Genres:** [[Essay]]
 
 ## Chapters / scenes / sections

@@ -15,6 +15,26 @@ tags:
   - concept/power_and_corruption
   - concept/distributism
   - motif/marriage
+  - character/malthus
+  - character/godwin
+  - character/dean_of_st_paul_s
+  - concept/common_man
+  - concept/critique_of_progress
+  - concept/money_and_avarice
+  - concept/slavery
+  - concept/labor_and_work
+  - concept/freedom
+  - concept/procreation
+  - concept/paradox
+  - concept/democracy
+  - concept/charity
+  - topos/world_upside_down
+  - motif/home
+  - archetype/common_man_2
+  - archetype/corrupt_official
+  - form/satire
+  - histref/industrial_revolution
+  - histref/romantic_movement_sensibility
 ---
 
 *by Chesterton*  ·  **Cluster:** [[Essay · Critique of Progress · Common Man]]
@@ -28,9 +48,17 @@ tags:
 
 ## Connections
 
-**Motifs:** [[Marriage]]
-**Themes & Concepts:** [[Social Injustice]], [[Class Conflict]], [[Poverty]], [[Reform]], [[Power and Corruption]], [[Distributism]]
-**Forms & Genres:** [[Essay]]
+**Historical References:** [[Industrial Revolution]], [[Romantic Movement (Sensibility)]]
+
+**Archetypes:** [[Common Man (2)]], [[Corrupt Official]]
+
+**Topoi:** [[World Upside Down]]
+
+**Characters:** [[Malthus]], [[Godwin]], [[Dean of St. Paul's]]
+
+**Motifs:** [[Marriage]], [[Home]]
+**Themes & Concepts:** [[Social Injustice]], [[Class Conflict]], [[Poverty]], [[Reform]], [[Power and Corruption]], [[Distributism]], [[Common Man]], [[Critique of Progress]], [[Money and Avarice]], [[Slavery]], [[Labor and Work]], [[Freedom]], [[Procreation]], [[Paradox]], [[Democracy]], [[Charity]]
+**Forms & Genres:** [[Essay]], [[Satire]]
 
 ## Chapters / scenes / sections
 

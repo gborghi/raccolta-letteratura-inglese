@@ -17,6 +17,22 @@ tags:
   - histref/christianity
   - motif/animals
   - motif/sun
+  - concept/paganism_and_classical_revival
+  - concept/order_vs_chaos
+  - topos/world_upside_down
+  - topos/great_chain_of_being
+  - topos/golden_age
+  - motif/water
+  - motif/stone_and_marble
+  - motif/ruins_the_abbey
+  - motif/jewel
+  - setting/cathedral
+  - archetype/artist
+  - archetype/monster
+  - archetype/wise_old_man_sage
+  - form/parable
+  - histref/ancient_greece
+  - histref/medieval_england
 ---
 
 # gargoyles
@@ -32,10 +48,16 @@ tags:
 
 ## Connections
 
-**Motifs:** [[Animals]], [[Sun]]
-**Themes & Concepts:** [[Grotesque]], [[Wonder and Gratitude]], [[Critique of Progress]], [[Paradox]], [[Artist and Society]]
-**Forms & Genres:** [[Essay]], [[Allegory]]
-**Historical References:** [[Christianity]]
+**Archetypes:** [[Artist]], [[Monster]], [[Wise Old Man Sage]]
+
+**Settings:** [[Cathedral]]
+
+**Topoi:** [[World Upside Down]], [[Great Chain of Being]], [[Golden Age]]
+
+**Motifs:** [[Animals]], [[Sun]], [[Water]], [[Stone and Marble]], [[Ruins the Abbey]], [[Jewel]]
+**Themes & Concepts:** [[Grotesque]], [[Wonder and Gratitude]], [[Critique of Progress]], [[Paradox]], [[Artist and Society]], [[Paganism and Classical Revival]], [[Order vs Chaos]]
+**Forms & Genres:** [[Essay]], [[Allegory]], [[Parable]]
+**Historical References:** [[Christianity]], [[Ancient Greece]], [[Medieval England]]
 
 ## Chapters / scenes / sections
 

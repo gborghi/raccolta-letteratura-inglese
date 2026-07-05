@@ -18,6 +18,20 @@ tags:
   - motif/horse
   - form/short_story
   - setting/london
+  - concept/justice_right_and_wrong
+  - concept/labor_and_work
+  - concept/slavery
+  - concept/apocalypse
+  - concept/uncanny
+  - topos/night_journey_vision
+  - motif/chains
+  - motif/road
+  - motif/hill
+  - motif/dreams
+  - setting/modern_metropolis
+  - archetype/prophet
+  - form/parable
+  - histref/industrial_revolution
 ---
 
 *by Chesterton*  ·  **Cluster:** [[City · London · Theatrum Mundi]]
@@ -31,11 +45,15 @@ tags:
 
 ## Connections
 
-**Topoi:** [[World Upside Down]]
-**Motifs:** [[City]], [[Clock]], [[Supernatural]], [[Madness (2)]], [[Horse]]
-**Themes & Concepts:** [[Satire of Society]], [[Anti-Industrialism]], [[Critique of Progress]]
-**Forms & Genres:** [[Short Story]]
-**Settings:** [[London]]
+**Historical References:** [[Industrial Revolution]]
+
+**Archetypes:** [[Prophet]]
+
+**Topoi:** [[World Upside Down]], [[Night Journey Vision]]
+**Motifs:** [[City]], [[Clock]], [[Supernatural]], [[Madness (2)]], [[Horse]], [[Chains]], [[Road]], [[Hill]], [[Dreams]]
+**Themes & Concepts:** [[Satire of Society]], [[Anti-Industrialism]], [[Critique of Progress]], [[Justice Right and Wrong]], [[Labor and Work]], [[Slavery]], [[Apocalypse]], [[Uncanny]]
+**Forms & Genres:** [[Short Story]], [[Parable]]
+**Settings:** [[London]], [[Modern Metropolis]]
 
 ## Chapters / scenes / sections
 

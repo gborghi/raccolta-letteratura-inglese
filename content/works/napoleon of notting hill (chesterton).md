@@ -35,6 +35,22 @@ tags:
   - character/adam_wayne
   - character/james_barker
   - character/mr_buck
+  - character/james_turnbull
+  - character/mr_wilson
+  - character/provost_swindon
+  - character/wilfrid_lambert
+  - character/mr_bowles
+  - concept/democracy
+  - concept/kingship_and_legitimacy
+  - concept/common_man
+  - motif/flags_and_banners
+  - motif/crown
+  - motif/lamp_post
+  - setting/modern_metropolis
+  - archetype/common_man_2
+  - archetype/double_doppelganger
+  - form/mock_epic
+  - histref/napoleonic_wars_the_navy
 ---
 
 # Napoleon of Notting Hill
@@ -64,13 +80,15 @@ tags:
 
 ## Connections
 
+**Historical References:** [[Napoleonic Wars the Navy]]
+
 **Topoi:** [[World Upside Down]], [[Poet as Prophet]], [[Last Stand]]
-**Archetypes:** [[Fool]], [[King]], [[Hero]], [[Rebel]]
-**Motifs:** [[Swords and Weapons]], [[Blood]], [[City]], [[Clothing and Costume]]
-**Themes & Concepts:** [[Nationalism and Patriotism]], [[War and its Cost]], [[Heroism]], [[Honour]], [[Critique of Progress]], [[Anti-Industrialism]], [[Maturation and Growth]], [[Satire of Society]], [[Nature vs Civilization]]
-**Forms & Genres:** [[Novel]], [[Satire]], [[Allegory]]
-**Settings:** [[London]]
-**Characters:** [[Auberon Quin]], [[Adam Wayne]], [[James Barker]], [[Mr Buck]]
+**Archetypes:** [[Fool]], [[King]], [[Hero]], [[Rebel]], [[Common Man (2)]], [[Double Doppelganger]]
+**Motifs:** [[Swords and Weapons]], [[Blood]], [[City]], [[Clothing and Costume]], [[Flags and Banners]], [[Crown]], [[Lamp-post]]
+**Themes & Concepts:** [[Nationalism and Patriotism]], [[War and its Cost]], [[Heroism]], [[Honour]], [[Critique of Progress]], [[Anti-Industrialism]], [[Maturation and Growth]], [[Satire of Society]], [[Nature vs Civilization]], [[Democracy]], [[Kingship and Legitimacy]], [[Common Man]]
+**Forms & Genres:** [[Novel]], [[Satire]], [[Allegory]], [[Mock Epic]]
+**Settings:** [[London]], [[Modern Metropolis]]
+**Characters:** [[Auberon Quin]], [[Adam Wayne]], [[James Barker]], [[Mr Buck]], [[James Turnbull]], [[Mr Wilson]], [[Provost Swindon]], [[Wilfrid Lambert]], [[Mr Bowles]]
 
 ## Chapters / scenes / sections
 

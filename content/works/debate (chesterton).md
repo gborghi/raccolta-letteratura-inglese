@@ -14,6 +14,17 @@ tags:
   - concept/the_common_man
   - concept/anti_industrialism
   - form/essay
+  - character/bernard_shaw
+  - character/hilaire_belloc
+  - concept/democracy
+  - concept/slavery
+  - concept/freedom_and_liberty
+  - concept/labor_and_work
+  - concept/individualism
+  - topos/world_upside_down
+  - form/satire
+  - histref/elizabethan_england
+  - histref/industrial_revolution
 ---
 
 # debate
@@ -31,8 +42,14 @@ tags:
 
 ## Connections
 
-**Themes & Concepts:** [[Distributism]], [[Class Conflict]], [[Power and Corruption]], [[Reform]], [[Common Man]], [[Anti-Industrialism]]
-**Forms & Genres:** [[Essay]]
+**Historical References:** [[Elizabethan England]], [[Industrial Revolution]]
+
+**Topoi:** [[World Upside Down]]
+
+**Characters:** [[Bernard Shaw]], [[Hilaire Belloc]]
+
+**Themes & Concepts:** [[Distributism]], [[Class Conflict]], [[Power and Corruption]], [[Reform]], [[Common Man]], [[Anti-Industrialism]], [[Democracy]], [[Slavery]], [[Freedom and Liberty]], [[Labor and Work]], [[Individualism]]
+**Forms & Genres:** [[Essay]], [[Satire]]
 
 ## Chapters / scenes / sections
 

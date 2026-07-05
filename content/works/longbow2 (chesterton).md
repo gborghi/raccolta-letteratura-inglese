@@ -18,6 +18,45 @@ tags:
   - concept/joy
   - concept/paradox
   - setting/rural_england
+  - character/colonel_crane
+  - character/owen_hood
+  - character/hilary_pierce
+  - character/wilding_white
+  - character/enoch_oates
+  - character/bellew_blair
+  - character/audrey_smith
+  - character/elizabeth_seymour
+  - character/joan_hardy
+  - character/sir_horace_hunter
+  - character/lord_normantowers
+  - character/earl_of_eden
+  - concept/class_conflict
+  - concept/romantic_love
+  - concept/truth
+  - concept/critique_of_progress
+  - concept/common_man
+  - concept/power_and_corruption
+  - topos/pastoral_retreat
+  - topos/quest
+  - motif/animals
+  - motif/letters_and_writing
+  - motif/river
+  - motif/garden
+  - motif/inn_tavern
+  - motif/fire
+  - setting/river_thames
+  - setting/inn
+  - setting/london
+  - setting/underworld_cave
+  - setting/garden_2
+  - archetype/trickster
+  - archetype/rebel
+  - archetype/self_made_man
+  - form/fairy_tale_fantasy
+  - form/mock_epic
+  - histref/first_world_war
+  - histref/arthurian_legend
+  - histref/industrial_revolution
 ---
 
 # longbow2
@@ -40,10 +79,18 @@ tags:
 
 ## Connections
 
-**Topoi:** [[World Upside Down]]
-**Themes & Concepts:** [[Distributism]], [[Anti-Industrialism]], [[Satire of Society]], [[Nationalism and Patriotism]], [[Joy]], [[Paradox]]
-**Forms & Genres:** [[Short Story]], [[Satire]], [[Allegory]]
-**Settings:** [[Rural England]]
+**Historical References:** [[First World War]], [[Arthurian Legend]], [[Industrial Revolution]]
+
+**Archetypes:** [[Trickster]], [[Rebel]], [[Self-Made Man]]
+
+**Motifs:** [[Animals]], [[Letters and Writing]], [[River]], [[Garden]], [[Inn Tavern]], [[Fire]]
+
+**Characters:** [[Colonel Crane]], [[Owen Hood]], [[Hilary Pierce]], [[Wilding White]], [[Enoch Oates]], [[Bellew Blair]], [[Audrey Smith]], [[Elizabeth Seymour]], [[Joan Hardy]], [[Sir Horace Hunter]], [[Lord Normantowers]], [[Earl of Eden]]
+
+**Topoi:** [[World Upside Down]], [[Pastoral Retreat]], [[Quest]]
+**Themes & Concepts:** [[Distributism]], [[Anti-Industrialism]], [[Satire of Society]], [[Nationalism and Patriotism]], [[Joy]], [[Paradox]], [[Class Conflict]], [[Romantic Love]], [[Truth]], [[Critique of Progress]], [[Common Man]], [[Power and Corruption]]
+**Forms & Genres:** [[Short Story]], [[Satire]], [[Allegory]], [[Fairy Tale Fantasy]], [[Mock Epic]]
+**Settings:** [[Rural England]], [[River Thames]], [[Inn]], [[London]], [[Underworld Cave]], [[Garden (2)]]
 
 ## Chapters / scenes / sections
 

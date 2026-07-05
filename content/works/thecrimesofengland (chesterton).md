@@ -15,6 +15,54 @@ tags:
   - concept/power_and_corruption
   - histref/the_first_world_war
   - histref/the_reformation
+  - character/frederick_the_great
+  - character/napoleon
+  - character/napoleon_iii
+  - character/bismarck
+  - character/william_cobbett
+  - character/kaiser_wilhelm_ii
+  - character/duke_of_wellington
+  - character/blucher
+  - character/lord_salisbury
+  - character/garibaldi
+  - character/carlyle
+  - character/maria_theresa
+  - character/william_pitt
+  - character/castlereagh
+  - character/hans_andersen
+  - concept/democracy
+  - concept/freedom_and_liberty
+  - concept/slavery
+  - concept/kingship_and_legitimacy
+  - concept/class_conflict
+  - concept/common_man
+  - topos/sleeper_awakes
+  - topos/war_as_glory
+  - topos/last_stand
+  - topos/world_upside_down
+  - motif/machine
+  - motif/horse
+  - motif/flags_and_banners
+  - motif/blood
+  - setting/germany
+  - setting/denmark
+  - setting/italy
+  - setting/russia
+  - setting/paris
+  - setting/rural_england
+  - setting/battlefield
+  - setting/ireland
+  - archetype/tyrant
+  - archetype/villain
+  - archetype/martyr_saint
+  - archetype/hero
+  - archetype/common_man_2
+  - form/apologetics
+  - histref/french_revolution
+  - histref/napoleonic_wars_the_navy
+  - histref/thirty_years_war
+  - histref/irish_question
+  - histref/catholic_church
 ---
 
 # TheCrimesOfEngland
@@ -39,9 +87,19 @@ tags:
 
 ## Connections
 
-**Themes & Concepts:** [[Satire of Society]], [[War and its Cost]], [[Nationalism and Patriotism]], [[Power and Corruption]]
-**Forms & Genres:** [[Essay]], [[Satire]]
-**Historical References:** [[First World War]], [[Reformation]]
+**Archetypes:** [[Tyrant]], [[Villain]], [[Martyr Saint]], [[Hero]], [[Common Man (2)]]
+
+**Settings:** [[Germany]], [[Denmark]], [[Italy]], [[Russia]], [[Paris]], [[Rural England]], [[Battlefield]], [[Ireland]]
+
+**Motifs:** [[Machine]], [[Horse]], [[Flags and Banners]], [[Blood]]
+
+**Topoi:** [[Sleeper Awakes]], [[War as Glory]], [[Last Stand]], [[World Upside Down]]
+
+**Characters:** [[Frederick the Great]], [[Napoleon]], [[Napoleon III]], [[Bismarck]], [[William Cobbett]], [[Kaiser Wilhelm II]], [[Duke of Wellington]], [[Blucher]], [[Lord Salisbury]], [[Garibaldi]], [[Carlyle]], [[Maria Theresa]], [[William Pitt]], [[Castlereagh]], [[Hans Andersen]]
+
+**Themes & Concepts:** [[Satire of Society]], [[War and its Cost]], [[Nationalism and Patriotism]], [[Power and Corruption]], [[Democracy]], [[Freedom and Liberty]], [[Slavery]], [[Kingship and Legitimacy]], [[Class Conflict]], [[Common Man]]
+**Forms & Genres:** [[Essay]], [[Satire]], [[Apologetics]]
+**Historical References:** [[First World War]], [[Reformation]], [[French Revolution]], [[Napoleonic Wars the Navy]], [[Thirty Years' War]], [[Irish Question]], [[Catholic Church]]
 
 ## Chapters / scenes / sections
 

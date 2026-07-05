@@ -15,6 +15,15 @@ tags:
   - concept/distributism
   - concept/satire_of_society
   - form/essay
+  - character/thomas_jefferson
+  - character/jean_jacques_rousseau
+  - concept/democracy
+  - concept/social_injustice
+  - concept/class_conflict
+  - concept/indirection_and_impersonal_systems
+  - motif/machine
+  - histref/renaissance
+  - histref/industrial_revolution
 ---
 
 # democracy
@@ -26,7 +35,13 @@ tags:
 
 ## Connections
 
-**Themes & Concepts:** [[Anti-Industrialism]], [[Common Man]], [[Critique of Progress]], [[Original Sin]], [[Power and Corruption]], [[Distributism]], [[Satire of Society]]
+**Historical References:** [[Renaissance]], [[Industrial Revolution]]
+
+**Motifs:** [[Machine]]
+
+**Characters:** [[Thomas Jefferson]], [[Jean-Jacques Rousseau]]
+
+**Themes & Concepts:** [[Anti-Industrialism]], [[Common Man]], [[Critique of Progress]], [[Original Sin]], [[Power and Corruption]], [[Distributism]], [[Satire of Society]], [[Democracy]], [[Social Injustice]], [[Class Conflict]], [[Indirection and Impersonal Systems]]
 **Forms & Genres:** [[Essay]]
 
 ## Testo integrale / Full text

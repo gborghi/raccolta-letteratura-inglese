@@ -14,6 +14,14 @@ tags:
   - motif/animals
   - histref/the_bible
   - form/essay
+  - character/charles_darwin
+  - character/thomas_henry_huxley
+  - character/h_g_wells
+  - concept/common_man
+  - concept/darwinism_evolutionary_theory
+  - concept/argument_from_authority
+  - form/satire
+  - histref/first_world_war
 ---
 
 *by Chesterton*  ·  **Cluster:** [[Christianity · Faith and Doubt · Doubt]]
@@ -27,10 +35,12 @@ tags:
 
 ## Connections
 
+**Characters:** [[Charles Darwin]], [[Thomas Henry Huxley]], [[H. G. Wells]]
+
 **Motifs:** [[Animals]]
-**Themes & Concepts:** [[Critique of Progress]], [[Doubt]], [[Faith and Doubt]], [[Natural Order]]
-**Forms & Genres:** [[Essay]]
-**Historical References:** [[Bible]]
+**Themes & Concepts:** [[Critique of Progress]], [[Doubt]], [[Faith and Doubt]], [[Natural Order]], [[Common Man]], [[Darwinism (Evolutionary Theory)]], [[Argument from Authority]]
+**Forms & Genres:** [[Essay]], [[Satire]]
+**Historical References:** [[Bible]], [[First World War]]
 
 ## Chapters / scenes / sections
 

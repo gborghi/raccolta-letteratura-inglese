@@ -13,6 +13,12 @@ tags:
   - concept/critique_of_progress
   - concept/honour
   - form/essay
+  - concept/freedom_and_liberty
+  - concept/individualism
+  - concept/money_and_avarice
+  - archetype/pharisee
+  - histref/christianity
+  - histref/communism
 ---
 
 # how-not-to-do-it
@@ -28,7 +34,11 @@ tags:
 
 ## Connections
 
-**Themes & Concepts:** [[Distributism]], [[Class Conflict]], [[Reform]], [[Critique of Progress]], [[Honour]]
+**Historical References:** [[Christianity]], [[Communism]]
+
+**Archetypes:** [[Pharisee]]
+
+**Themes & Concepts:** [[Distributism]], [[Class Conflict]], [[Reform]], [[Critique of Progress]], [[Honour]], [[Freedom and Liberty]], [[Individualism]], [[Money and Avarice]]
 **Forms & Genres:** [[Essay]]
 
 ## Chapters / scenes / sections

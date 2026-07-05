@@ -15,6 +15,11 @@ tags:
   - concept/satire_of_society
   - concept/nostalgia
   - histref/christianity
+  - concept/democracy
+  - concept/common_man
+  - form/aphorism
+  - histref/bible
+  - histref/scopes_trial
 ---
 
 *by Chesterton*  ·  **Cluster:** [[Essay · Critique of Progress · Common Man]]
@@ -24,9 +29,9 @@ tags:
 
 ## Connections
 
-**Themes & Concepts:** [[Paradox]], [[Critique of Progress]], [[Faith and Doubt]], [[Satire of Society]], [[Nostalgia]]
-**Forms & Genres:** [[Essay]], [[Satire]]
-**Historical References:** [[Christianity]]
+**Themes & Concepts:** [[Paradox]], [[Critique of Progress]], [[Faith and Doubt]], [[Satire of Society]], [[Nostalgia]], [[Democracy]], [[Common Man]]
+**Forms & Genres:** [[Essay]], [[Satire]], [[Aphorism]]
+**Historical References:** [[Christianity]], [[Bible]], [[Scopes Trial]]
 
 ## Testo integrale / Full text
 

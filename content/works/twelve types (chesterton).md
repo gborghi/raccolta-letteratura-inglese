@@ -15,6 +15,60 @@ tags:
   - concept/heroism
   - concept/faith
   - concept/paradox
+  - character/jane_eyre
+  - character/mr_rochester
+  - character/christ
+  - character/charlotte_bronte
+  - character/william_morris
+  - character/lord_byron
+  - character/alexander_pope
+  - character/st_francis_of_assisi
+  - character/edmond_rostand
+  - character/charles_ii
+  - character/robert_louis_stevenson
+  - character/thomas_carlyle
+  - character/leo_tolstoy
+  - character/girolamo_savonarola
+  - character/sir_walter_scott
+  - character/cyrano_de_bergerac
+  - character/prince_florizel_of_bohemia
+  - character/rob_roy
+  - character/meg_merrilees
+  - concept/democracy
+  - concept/doubt
+  - concept/greatness
+  - concept/power_of_language
+  - concept/asceticism
+  - concept/optimism_and_pessimism
+  - concept/cult_of_simplicity
+  - concept/the_spirit_of_romance
+  - topos/contemptus_mundi
+  - topos/poet_as_prophet
+  - motif/fire
+  - motif/light_and_dark
+  - motif/clothing_and_costume
+  - motif/swords_and_weapons
+  - motif/concealment_hidden_identity
+  - motif/sea
+  - setting/italy
+  - setting/london
+  - setting/scotland_the_highlands
+  - setting/russia
+  - archetype/hero
+  - archetype/prophet
+  - archetype/martyr_saint
+  - archetype/fool
+  - form/satire
+  - form/comedy
+  - form/verse_drama
+  - histref/puritanism
+  - histref/renaissance
+  - histref/christianity
+  - histref/bible
+  - histref/catholic_church
+  - histref/napoleonic_wars_the_navy
+  - histref/industrial_revolution
+  - histref/medieval_england
 ---
 
 *by Chesterton*  ·  **Cluster:** [[Artist and Society · Truth · Regency Georgian England]]
@@ -38,8 +92,20 @@ tags:
 
 ## Connections
 
-**Themes & Concepts:** [[Identity]], [[Artist and Society]], [[Heroism]], [[Faith]], [[Paradox]]
-**Forms & Genres:** [[Literary Criticism]], [[Biography]], [[Essay]]
+**Historical References:** [[Puritanism]], [[Renaissance]], [[Christianity]], [[Bible]], [[Catholic Church]], [[Napoleonic Wars the Navy]], [[Industrial Revolution]], [[Medieval England]]
+
+**Archetypes:** [[Hero]], [[Prophet]], [[Martyr Saint]], [[Fool]]
+
+**Settings:** [[Italy]], [[London]], [[Scotland the Highlands]], [[Russia]]
+
+**Motifs:** [[Fire]], [[Light and Dark]], [[Clothing and Costume]], [[Swords and Weapons]], [[Concealment Hidden Identity]], [[Sea]]
+
+**Topoi:** [[Contemptus Mundi]], [[Poet as Prophet]]
+
+**Characters:** [[Jane Eyre]], [[Mr Rochester]], [[Christ]], [[Charlotte Bronte]], [[William Morris]], [[Lord Byron]], [[Alexander Pope]], [[St Francis of Assisi]], [[Edmond Rostand]], [[Charles II]], [[Robert Louis Stevenson]], [[Thomas Carlyle]], [[Leo Tolstoy]], [[Girolamo Savonarola]], [[Sir Walter Scott]], [[Cyrano de Bergerac]], [[Prince Florizel of Bohemia]], [[Rob Roy]], [[Meg Merrilees]]
+
+**Themes & Concepts:** [[Identity]], [[Artist and Society]], [[Heroism]], [[Faith]], [[Paradox]], [[Democracy]], [[Doubt]], [[Greatness]], [[Power of Language]], [[Asceticism]], [[Optimism and Pessimism]], [[Cult of Simplicity]], [[The Spirit of Romance]]
+**Forms & Genres:** [[Literary Criticism]], [[Biography]], [[Essay]], [[Satire]], [[Comedy]], [[Verse Drama]]
 
 ## Chapters / scenes / sections
 

@@ -20,6 +20,16 @@ tags:
   - form/satire
   - form/parody
   - setting/london
+  - character/lady_hypatia_hagg
+  - character/dr_hagg
+  - concept/appearance_vs_reality
+  - concept/deception
+  - concept/vanity
+  - concept/eugenics
+  - motif/eyes_and_sight
+  - motif/light_and_dark
+  - histref/george_bernard_shaw
+  - histref/h_g_wells
 ---
 
 # HIFTS
@@ -35,10 +45,14 @@ tags:
 
 ## Connections
 
+**Historical References:** [[George Bernard Shaw]], [[H.G. Wells]]
+
+**Characters:** [[Lady Hypatia Hagg]], [[Dr. Hagg]]
+
 **Topoi:** [[World Upside Down]]
 **Archetypes:** [[Monster]]
-**Motifs:** [[Madness (2)]], [[Wind]], [[Grave]]
-**Themes & Concepts:** [[Satire of Society]], [[Critique of Progress]], [[Grotesque]], [[Terror and Horror]]
+**Motifs:** [[Madness (2)]], [[Wind]], [[Grave]], [[Eyes and Sight]], [[Light and Dark]]
+**Themes & Concepts:** [[Satire of Society]], [[Critique of Progress]], [[Grotesque]], [[Terror and Horror]], [[Appearance vs Reality]], [[Deception]], [[Vanity]], [[Eugenics]]
 **Forms & Genres:** [[Short Story]], [[Satire]], [[Parody]]
 **Settings:** [[London]]
 

@@ -21,6 +21,21 @@ tags:
   - concept/mercy
   - histref/catholic_church
   - character/flambeau
+  - concept/class_conflict
+  - concept/money_and_avarice
+  - concept/power_and_corruption
+  - concept/satire_of_society
+  - concept/labor_and_work
+  - concept/identity
+  - concept/fanaticism
+  - motif/concealment_hidden_identity
+  - motif/clothing_and_costume
+  - setting/rural_england
+  - setting/oxford
+  - setting/london
+  - archetype/corrupt_official
+  - archetype/avenger
+  - histref/puritanism
 ---
 
 # scandal Fr Brown
@@ -46,10 +61,14 @@ tags:
 
 ## Connections
 
-**Archetypes:** [[Detective]]
-**Themes & Concepts:** [[Ratiocination Detection]], [[Appearance vs Reality]], [[Deception]], [[Guilt]], [[Sin and the Fall]], [[Grace and Redemption]], [[Justice Right and Wrong]], [[Mercy]]
+**Settings:** [[Rural England]], [[Oxford]], [[London]]
+
+**Motifs:** [[Concealment Hidden Identity]], [[Clothing and Costume]]
+
+**Archetypes:** [[Detective]], [[Corrupt Official]], [[Avenger]]
+**Themes & Concepts:** [[Ratiocination Detection]], [[Appearance vs Reality]], [[Deception]], [[Guilt]], [[Sin and the Fall]], [[Grace and Redemption]], [[Justice Right and Wrong]], [[Mercy]], [[Class Conflict]], [[Money and Avarice]], [[Power and Corruption]], [[Satire of Society]], [[Labor and Work]], [[Identity]], [[Fanaticism]]
 **Forms & Genres:** [[Detective Fiction]], [[Short Story]]
-**Historical References:** [[Catholic Church]]
+**Historical References:** [[Catholic Church]], [[Puritanism]]
 **Characters:** [[Father Brown]], [[Flambeau]]
 
 ## Chapters / scenes / sections

@@ -37,6 +37,35 @@ tags:
   - archetype/villain
   - archetype/trickster
   - character/flambeau
+  - character/valentin
+  - character/israel_gow
+  - character/john_turnbull_angus
+  - character/isidore_smythe
+  - character/laura_hope
+  - character/james_welkin
+  - character/leonard_quinton
+  - character/prince_saradine
+  - character/wilfred_bohun
+  - character/pauline_stacey
+  - character/kalon
+  - character/arthur_st_clare
+  - character/sir_aaron_armstrong
+  - character/patrick_royce
+  - concept/crime_and_punishment
+  - concept/class_conflict
+  - concept/social_injustice
+  - concept/fanaticism
+  - concept/eastern_religion_and_asceticism
+  - topos/world_upside_down
+  - motif/letters_and_writing
+  - setting/scotland_the_highlands
+  - setting/rural_england
+  - setting/paris
+  - setting/battlefield
+  - archetype/fool
+  - archetype/prophet
+  - histref/french_revolution
+  - histref/greek_mythology
 ---
 
 # innocence
@@ -63,13 +92,15 @@ tags:
 
 ## Connections
 
-**Archetypes:** [[Detective]], [[Villain]], [[Trickster]]
-**Motifs:** [[Concealment Hidden Identity]], [[Supernatural]], [[Blood]], [[Cross]], [[Money and Gold]], [[Swords and Weapons]], [[Garden]], [[Eyes and Sight]], [[City]]
-**Themes & Concepts:** [[Ratiocination Detection]], [[Appearance vs Reality]], [[Deception]], [[Guilt]], [[Conscience]], [[Justice Right and Wrong]], [[Grace and Redemption]], [[Sin and the Fall]], [[Good vs Evil]], [[Faith]], [[Innocence and Experience]]
+**Topoi:** [[World Upside Down]]
+
+**Archetypes:** [[Detective]], [[Villain]], [[Trickster]], [[Fool]], [[Prophet]]
+**Motifs:** [[Concealment Hidden Identity]], [[Supernatural]], [[Blood]], [[Cross]], [[Money and Gold]], [[Swords and Weapons]], [[Garden]], [[Eyes and Sight]], [[City]], [[Letters and Writing]]
+**Themes & Concepts:** [[Ratiocination Detection]], [[Appearance vs Reality]], [[Deception]], [[Guilt]], [[Conscience]], [[Justice Right and Wrong]], [[Grace and Redemption]], [[Sin and the Fall]], [[Good vs Evil]], [[Faith]], [[Innocence and Experience]], [[Crime and Punishment]], [[Class Conflict]], [[Social Injustice]], [[Fanaticism]], [[Eastern Religion and Asceticism]]
 **Forms & Genres:** [[Detective Fiction]], [[Short Story]]
-**Historical References:** [[Christianity]], [[Catholic Church]]
-**Settings:** [[London]]
-**Characters:** [[Father Brown]], [[Flambeau]]
+**Historical References:** [[Christianity]], [[Catholic Church]], [[French Revolution]], [[Greek Mythology]]
+**Settings:** [[London]], [[Scotland the Highlands]], [[Rural England]], [[Paris]], [[Battlefield]]
+**Characters:** [[Father Brown]], [[Flambeau]], [[Valentin]], [[Israel Gow]], [[John Turnbull Angus]], [[Isidore Smythe]], [[Laura Hope]], [[James Welkin]], [[Leonard Quinton]], [[Prince Saradine]], [[Wilfred Bohun]], [[Pauline Stacey]], [[Kalon]], [[Arthur St. Clare]], [[Sir Aaron Armstrong]], [[Patrick Royce]]
 
 ## Chapters / scenes / sections
 
