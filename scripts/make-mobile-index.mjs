@@ -9,7 +9,9 @@ import path from "path"
 const dir = "public/static"
 const full = path.join(dir, "contentIndex.json")
 const outPath = path.join(dir, "contentIndexMobile.json")
-const SNIPPET = 160 // chars of content kept per entry
+const SNIPPET = 80 // chars of content kept per entry
+const LINK_CAP = 20 // keep up to N links/entry so the GRAPH still works on mobile
+                    // (works have ~10 links; only huge aggregator hubs get trimmed)
 
 if (!fs.existsSync(full)) {
   console.error(`make-mobile-index: ${full} not found — skipping`)
@@ -21,12 +23,13 @@ const map = raw && raw.content && typeof raw.content === "object" && !raw.conten
 const out = {}
 for (const [slug, it] of Object.entries(map)) {
   if (!it || typeof it !== "object") continue
-  // Drop links/filePath: the FlexSearch index only uses title/content/tags, and
-  // aggregator notes carry huge links[] (every work) that bloat the index.
+  // Keep links (capped) so the graph works on mobile too; drop filePath (unused).
+  // Aggregator notes carry huge links[] (every work) — cap trims those hubs only.
   out[slug] = {
     slug: it.slug,
     title: it.title,
     tags: it.tags,
+    links: Array.isArray(it.links) ? it.links.slice(0, LINK_CAP) : [],
     content: typeof it.content === "string" ? it.content.slice(0, SNIPPET) : "",
   }
 }
