@@ -52,15 +52,6 @@ tags:
 - [part 04](/testi/chesterton/atomized/balladstbarbara/part/part_04)
 - [part 05](/testi/chesterton/atomized/balladstbarbara/part/part_05)
 - [part 06](/testi/chesterton/atomized/balladstbarbara/part/part_06)
-- [part 07](/testi/chesterton/atomized/balladstbarbara/part/part_07)
-- [part 08](/testi/chesterton/atomized/balladstbarbara/part/part_08)
-- [part 09](/testi/chesterton/atomized/balladstbarbara/part/part_09)
-- [part 10](/testi/chesterton/atomized/balladstbarbara/part/part_10)
-- [part 11](/testi/chesterton/atomized/balladstbarbara/part/part_11)
-- [part 12](/testi/chesterton/atomized/balladstbarbara/part/part_12)
-- [part 13](/testi/chesterton/atomized/balladstbarbara/part/part_13)
-- [part 14](/testi/chesterton/atomized/balladstbarbara/part/part_14)
-- [part 15](/testi/chesterton/atomized/balladstbarbara/part/part_15)
 
 ## Testo integrale / Full text
 

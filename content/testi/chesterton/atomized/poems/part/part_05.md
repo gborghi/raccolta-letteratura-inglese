@@ -14,222 +14,616 @@ tags:
 </nav>
 
 
-     Torture of wordless [[Dance|dance]] and wineless feast without clamour,  
+     The hammering on the roofs at morn, the busy workshop roar;  
 
-       Palace hidden in palace, [[Garden|garden]] with [[Garden|garden]] behind;  
+     The hiss of shavings drifted deep along the windy floor;  
 
-     Women veiled in the sun, or bare as brass in the shadows,  
+     The heat-browned toiler's crooning [[Song|song]], the hum of human worth--  
 
-       And the endless eyeless patterns where each thing seems an eye....  
+     Mingled of all the noise of crafts, the ringing word went forth.  
 
-     And my stride is on Caesar's sand where it slides to the English meadows,  
+     The splash of nets passed into it, the grind of sand and shell,  
 
-       To the last low woods of Sussex and the [[Road|road]] that goes to Rye.  
+     The boat-hook's clash, the boat-oars' jar, the cries to buy and sell,  
 
-     In the cool and careless woods the eyes of the eunuchs burned not,  
+     The flapping of the landed shoals, the canvas crackling free,  
 
-       But the wild hawk went before me, being free to return or roam,  
+     And through all varied notes and cries, the roaring of the sea,  
 
-     The hills had broad unconscious backs; and the tree-tops turned not,  
+     The noise of little lives and brave, of needy lives and high;  
 
-       And the huts were heedless of me: and I knew I was at [[Home|home]].  
+     In gathering all the throes of earth, the living word went by.  
 
-     And I saw my lady afar and her holy [[Freedom|freedom]] upon her,  
+     Earth's giant sins bowed down to it, in Empire's huge eclipse,  
 
-       A head, without veil, averted, and not to be turned with charms,  
+     When darkness sat above the thrones, seven thunders on her lips,  
 
-     And I heard above bannerets blown the intolerant trumpets of [[Honour|honour]],  
+     The woe of cities entered it, the clang of idols' falls,  
 
-       That usher with iron laughter the coming of Christian arms.  
+     The scream of filthy Caesars stabbed high in their brazen halls,  
 
-     My shield hangs stainless still; but I shall not go where they praise it,  
+     The dim hoarse Hoods of naked men, the worldrealms snapping girth,  
 
-       A [[Sword|sword]] is still at my side, but I shall not ride with the [[King]].  
+     The trumpets of [[Apocalypse]], the darkness of the earth:  
 
-     Only to walk and to walk and to stun my [[Soul|soul]] and amaze it,  
+     The wrath that brake the eternal lamp and hid the eternal [[Hill|hill]],  
 
-       A day with the stone and the sparrow and every marvellous thing.  
+     A world's destruction loading, the word went onward still--  
 
-     I have trod the curves of the Crescent, in the maze of them that adore it,  
+     The blaze of creeds passed into it, the hiss of horrid fires,  
 
-       Curved around doorless chambers and unbeholden abodes,  
+     The headlong spear, the scarlet [[Cross|cross]], the hair-shirt and the briars,  
 
-     But I walk in the maze no more; on the sign of the [[Cross|cross]] I swore it,  
+     The cloistered brethren's thunderous chaunt, the errant champion's [[Song|song]],  
 
-       The wild white [[Cross|cross]] of [[Freedom|freedom]], the sign of the white [[Cross|cross]]-roads.  
+     The shifting of the crowns and thrones, the tangle of the strong.  
 
-     And the land shall leave me or take, and the Woman take me or leave me,  
+     The shattering fall of crest and [[Crown|crown]] and shield and [[Cross|cross]] and cope,  
 
-       There shall be no more [[Night]], or nightmares seen in a glass;  
+     The tearing of the gauds of [[Time|time]], the blight of prince and pope,  
 
-     But Life shall hold me alive, and [[Death]] shall never deceive me  
+     The reign of ragged millions leagued to wrench a loaded debt,  
 
-       As long as I walk in England in the lanes that let me pass.  
+     Loud with the many throated roar, the word went forward yet.  
 
-     III  
+     The [[Song|song]] of wheels passed into it, the roaring and the smoke  
 
-     [[Love|LOVE]] [[Poems|POEMS]]  
+     The [[Riddle|riddle]] of the want and wage, the fogs that burn and choke.  
 
-     GLENCOE  
+     The breaking of the girths of gold, the needs that creep and swell.  
 
-     The star-crowned cliffs seem hinged upon the sky,  
+     The strengthening [[Hope|hope]], the dazing light, the deafening evangel,  
 
-     The clouds are floating rags across them curled,  
+     Through kingdoms dead and empires damned, through changes without cease,  
 
-     They open to us like the gates of God  
+     With earthquake, chaos, born and fed, [[Rose|rose]],--and the word was "Peace."  
 
-     Cloven in the last great wall of all the world.  
+     V  
 
-     I looked, and saw the valley of my [[Soul|soul]]  
+     RHYMES FOR THE TIMES  
 
-     Where naked crests fight to achieve the skies,  
+     ANTICHRIST, OR THE REUNION OF CHRISTENDOM: AN ODE  
 
-     Where no grain grows nor wine, no fruitful thing,  
+          "A BILL WHICH HAS SHOCKED THE [[Conscience|CONSCIENCE]] OF  
 
-     Only big words and starry blasphemies.  
+          EVERY CHRISTIAN COMMUNITY IN EUROPE."--  
 
-     But you have clothed with [[Mercy|mercy]] like a moss  
+          _Mr. F.E. Smith_, ON THE WELSH DISESTABLISHMENT BILL.  
 
-     The barren violence of its primal wars,  
+     Are they clinging to their crosses,  
 
-     Sterile although they be and void of rule,  
+                  F.E. [[smith|Smith]],  
 
-     You know my shapeless crags have Wed the [[Stars|stars]].  
+     Where the Breton boat-fleet tosses,  
 
-     How shall I thank you, O courageous heart.  
+                  Are they, [[smith|Smith]]?  
 
-     That of this wasteful world you had no [[Fear|fear]];  
+     Do they, fasting, tramping, bleeding,  
 
-     But bade it blossom in clear [[Faith|faith]] and sent  
+         Wait the news from this our [[City|city]]?  
 
-     Your fair flower-feeding rivers: even as here  
+     Groaning "That's the Second Reading!"  
 
-     The peat burns brimming from their cups of stone  
+         Hissing "There is still Committed"  
 
-     Glow brown and [[Blood|blood]]-red down the vast decline  
+     If the voice of Cecil falters,  
 
-     As if [[Christ]] stood on yonder clouded peak  
+         If McKenna's point has pith,  
 
-     And turned its thousand waters into wine.  
+     Do they tremble for their altars?  
 
-     [[Love|LOVE]]'S TRAPPIST  
+                  Do they, [[smith|Smith]]?  
 
-     There is a place where lute and lyre are broken.  
+     Russian peasants round their pope  
 
-     Where scrolls are torn and on a wild [[Wind|wind]] go,  
+                  Huddled, [[smith|Smith]],  
 
-     Where tablets stand wiped naked for a token,  
+     Hear about it all, I [[Hope|hope]],  
 
-     Where laurels wither and the daisies grow.  
+                  Don't they, [[smith|Smith]]?  
 
-     Lo: I too join the brotherhood of [[Silence|silence]],  
+     In the mountain hamlets clothing  
 
-     I am [[Love]]'s Trappist and you ask in vain,  
+         Peaks beyond Caucasian pales,  
 
-     For man through [[Love]]'s gate, even as through [[Death]]'s gate,  
+     Where Establishment means nothing  
 
-     Goeth [[Alone|alone]] and comes not back again.  
+         And they never heard of Wales,  
 
-     Yet here I pause, look back across the threshold.  
+     Do they read it all in Hansard  
 
-     Cry to my brethren, though the world be old,  
+         With a crib to read it with--  
 
-     Prophets and sages, questioners and doubters,  
+     "Welsh Tithes: Dr. [[Clifford]] Answered,"  
 
-     O world, old world, the best hath ne'er been told!  
+                  Really, [[smith|Smith]]?  
 
-     CONFESSIONAL  
+     In the lands where Christians were,  
 
-     Now that I kneel at the throne, O [[Queen]],  
+                  F.E. [[smith|Smith]],  
 
-     Pity and pardon me.  
+     In the little lands laid bare,  
 
-     Much have I striven to sing the same,  
+                  [[smith|Smith]], O [[smith|Smith]]!  
 
-     Brother of beast and tree;  
+     Where the Turkish bands are busy,  
 
-     Yet when the [[Stars|stars]] catch me [[Alone|alone]]  
+         And the Tory name is blessed  
 
-     Never a linnet sings--  
+     Since they hailed the [[Cross]] of Dizzy  
 
-     And the [[Blood|blood]] of a man is a bitter voice  
+         On the banners from the West!  
 
-     And cries for foolish things.  
+     Men don't think it half so hard if  
 
-     Not for me be the vaunt of woe;  
+         [[Islam]] burns their kin and kith,  
 
-     Was not I from a boy  
+     Since a curate lives in Cardiff  
 
-     Vowed with the helmet and spear and spur  
+                  Saved by [[smith|Smith]].  
 
-     To the [[Blood|blood]]-red banner of joy?  
+     It would greatly, I must own,  
 
-     A man may sing his psalms to a stone,  
+                  Soothe me, [[smith|Smith]],  
 
-     Pour his [[Blood|blood]] for a weed,  
+     If you left this theme [[Alone|alone]],  
 
-     But the [[Tears|tears]] of a man are a sudden thing,  
+                  Holy [[smith|Smith]]!  
 
-     And come not of his creed.  
+     For your legal cause or civil  
 
-     Nay, but the earth is kind to me,  
+         You fight [[Well|well]] and get your fee;  
 
-     Though I cry for a Star,  
+     For your God or dream or devil  
 
-     [[Leaves]] and grasses, feather and flower,  
+         You will answer, not to me.  
 
-     Cover the foolish scar,  
+     Talk about the pews and steeples  
 
-     Prophets and saints and seraphim  
+         And the Cash that goes therewith!  
 
-     Lighten the load with [[Song|song]],  
+     But the souls of Christian peoples....  
 
-     And the heart of a man is a heavy load  
+                  --Chuck it, [[smith|Smith]]!  
 
-     For a man to bear along.  
+     THE REVOLUTIONIST: OR LINES TO A STATESMAN  
 
-     MUSIC  
+     "I WAS NEVER STANDING BY WHILE A REVOLUTION  
 
-     Sounding brass and tinkling cymbal,  
+     WAS GOING ON."--_Speech by the Rt. Hon. Walter  
 
-       He that made me sealed my ears,  
+     Long_.  
 
-     And the pomp of gorgeous noises,  
+     When [[Death]] was on thy drums, [[democracy|Democracy]],  
 
-       Waves of triumph, waves of [[Tears|tears]],  
+     And with one rush of slaves the world was free,  
 
-     Thundered empty round and past me,  
+     In that high [[Dawn|dawn]] that Kings shall not forget,  
 
-       Shattered, lost for ever more,  
+     A void there was and Walter was not yet.  
 
-     Ancient gold of [[Pride|pride]] and passion,  
+     Through sacked Versailles, at Valmy in the fray,  
 
-       Wrecked like treasure on a shore.  
+     They did without him in some kind of way;  
 
-     But I saw her cheek and forehead  
+     Red Christendom all Walterless they [[Cross|cross]],  
 
-       Change, as at a spoken word,  
+     And in their fury hardly feel their loss....  
 
-     And I saw her head uplifted  
+     Fades the Republic; faint as Roland's horn,  
 
-       Like a lily to the Lord.  
+     Her trumpets taunt us with a sacred scorn....  
 
-     Nought is lost, but all transmuted,  
+     Then [[Silence|silence]] fell; and Mr. Long was born.  
 
-       Ears are sealed, yet eyes have seen;  
+     From his first hours in his expensive cot  
 
-     Saw her smiles (O [[Soul|soul]] be worthy!),  
+     He never saw the tiniest viscount shot.  
 
-       Saw her [[Tears|tears]] (O heart be clean!).  
+     In deference to his wealthy parents' whim  
 
-     THE [[deluge|DELUGE]]  
+     The wildest massacres were kept from him.  
 
-     Though giant rains put out the sun,  
+     The wars that dyed Pall Mall and Brompton red  
 
-       Here stand I for a sign.  
+     Passed harmless o'er that one unconscious head:  
 
-     Though Earth be filled with waters dark,  
+     For all that little Long could understand  
 
-       My cup is filled with wine.  
+     The rich might still be rulers of the land.  
 
-     Tell to the trembling priests that here  
+     Vain are the pious arts of parenthood,  
+
+     Foiled Revolution bubbled in his [[Blood|blood]];  
+
+     Until one day (the babe [[unborn]] shall rue it)  
+
+     The Constitution bored him and he slew it.  
+
+     If I were wise and good and rich and strong--  
+
+     Fond, impious thought, if I were Walter Long--  
+
+     If I could [[Water|water]] sell like molten gold,  
+
+     And make grown people do as they are told,  
+
+     If over private fields and wastes as wide  
+
+     As a Greek [[City|city]] for which heroes died,  
+
+     I owned the houses and the men inside--  
+
+     If all this hung on one thin thread of habit  
+
+     I would not revolutionize a rabbit.  
+
+     I would sit tight with all my gifts and glories,  
+
+     And even preach to unconverted Tories,  
+
+     That the fixed system that our land inherits,  
+
+     Viewed from a certain standpoint, has its merits.  
+
+     I'd guard the laws like any Radical,  
+
+     And keep each precedent, however small,  
+
+     However subtle, misty, dusty, dreamy,  
+
+     Lest man by chance should look at me and see me;  
+
+     Lest men should ask what madman made me lord  
+
+     Of English ploughshares and the English [[Sword|sword]];  
+
+     Lest men should mark how sleepy is the nod  
+
+     That drills the dreadful images of God!  
+
+     Walter, be wise! avoid the wild and new,  
+
+     The Constitution is the game for you.  
+
+     Walter, beware! scorn not the gathering throng  
+
+     It suffers, yet it may not suffer wrong,  
+
+     It suffers, yet it cannot suffer Long.  
+
+     And if you goad it these grey rules to break,  
+
+     For a few pence, see that you do not wake  
+
+     [[Death]] and the splendour of the scarlet cap,  
+
+     Boston and Valmy, Yorktown and Jemmappes,  
+
+     [[Freedom]] in arms, the riding and the routing,  
+
+     The thunder of the captains and the shouting,  
+
+     All that lost riot that you did not share--And  
+
+     when that riot comes--you _will_ be there.  
+
+     THE SHAKESPEARE MEMORIAL  
+
+     Lord Lilac thought it rather rotten  
+
+     That Shakespeare should be quite  
+
+     And therefore got on a Committee  
+
+     With several chaps out of the [[City|city]].  
+
+     And Shorter and Sir Herbert Tree,  
+
+     Lord Rothschild and Lord Rosebery  
+
+     And F.C.G. and Comyns Carr,  
+
+     Two dukes and a dramatic star,  
+
+     Also a clergyman now dead;  
+
+     And while the vain world careless sped  
+
+     Unheeding the heroic name--  
+
+     The souls most fed with Shakespeare's flame  
+
+     Still sat unconquered in a ring,  
+
+     Remembering him like anything.  
+
+     Lord Lilac did not long remain.  
+
+     Lord Lilac did not come again.  
+
+     He softly lit a cigarette  
+
+     And sought some other social set  
+
+     Where, in some other knots or rings,  
+
+     People were doing cultured things,  
+
+     --Miss Zwilt's Humane Vivarium  
+
+     --The little men that paint on gum  
+
+     --The exquisite Gorilla Girl....  
+
+     He sometimes, in this giddy whirl  
+
+     (Not being really bad at heart),  
+
+     Remembered Shakespeare with a start--  
+
+     But not with that grand constancy  
+
+     Of Clement Shorter, Herbert Tree,  
+
+     Lord Rosebery and Comyns Carr  
+
+     And all the other names there are;  
+
+     Who stuck like limpets to the spot,  
+
+     Lest they forgot, lest they forgot.  
+
+     Lord Lilac was of slighter stuff;  
+
+     Lord Lilac had had quite enough.  
+
+     THE HORRIBLE [[history|HISTORY]] OF [[Jones|JONES]]  
+
+     [[Jones]] had a dog; it had a chain;  
+
+     Not often worn, not causing [[Pain|pain]];  
+
+     But, as the I.K.L. had passed  
+
+     Their "Unleashed Cousins Act" at last,  
+
+     Inspectors took the chain away;  
+
+     Whereat the canine barked "hurray"!  
+
+     At which, of course, the S.P.U.  
+
+     (Whose Nervous Motorists' Bill was through),  
+
+     Were forced to give the dog in charge  
+
+     For being Audibly at Large.  
+
+     None, you will say, were now annoyed,  
+
+     Save haply [[Jones]]--the yard was void.  
+
+     But something being in the lease  
+
+     About "alarms to aid police,"  
+
+     The U.S.U. annexed the yard  
+
+     For having no sufficient guards  
+
+     Now if there's one condition  
+
+     The C.C.P. are strong upon  
+
+     It is that every [[house]] one buys  
+
+     Must have a yard for exercise;  
+
+     So [[Jones]], as tenant, was unfit.  
+
+     His state of health was proof of it.  
+
+     Two doctors of the T.T.U.'s  
+
+     Told him his legs from long disuse,  
+
+     Were atrophied; and saying "So  
+
+     From step to higher step we go  
+
+     Till everything is New and True,"  
+
+     They cut his legs off and withdrew.  
+
+     You know the E.T.S.T.'s views  
+
+     Are stronger than the T.T.U.'s:  
+
+     And soon (as one may say) took wing  
+
+     The Arms, though not the Man, I sing.  
+
+     To see him sitting limbless there  
+
+     Was more than the K.K. could bear  
+
+     "In [[Mercy|mercy]] [[Silence|silence]] with all [[Speed|speed]]  
+
+     That mouth there are no hands to feed;  
+
+     What cruel sentimentalist,  
+
+     O [[Jones]], would doom thee to exist--  
+
+     Clinging to selfish Selfhood yet?  
+
+     Weak one! Such reasoning might upset  
+
+     The Pump Act, and the accumulation  
+
+     Of all constructive legislation;  
+
+     Let us construct you up a bit--"  
+
+     The head fell off when it was hit:  
+
+     Then words did rise and honest [[Doubt|doubt]],  
+
+     And four Commissions sat about  
+
+     Whether the slash that left him dead  
+
+     Cut off his [[Body|body]] or his head.  
+
+     An author in the Isle of Wight  
+
+     Observed with unconcealed delight  
+
+     A land of old and just renown  
+
+     Where [[Freedom]] slowly broadened down  
+
+     From Precedent to Precedent....  
+
+     And this, I think, was what he meant.  
+
+     THE NEW FREETHINKER  
+
+     John Grubby, who was short and stout  
+
+     And troubled with religious [[Doubt|doubt]],  
+
+     Refused about the age of three  
+
+     To sit upon the curate's knee;  
+
+     (For so the eternal strife must rage  
+
+     Between the spirit of the age  
+
+     And Dogma, which, as is [[Well|well]] known.  
+
+     Does simply hate to be outgrown).  
+
+     Grubby, the young idea that shoots,  
+
+     Outgrew the ages like old boots;  
+
+     While still, to all appearance, small,  
+
+     Would have no Miracles at all;  
+
+     And just before the age of ten  
+
+     Firmly refused Free Will to men.  
+
+     The altars reeled, the hen-ens shook,  
+
+     Just as he read of in the book;  
+
+     Flung from his [[house]] went forth the youth  
+
+     [[Alone]] with tempests and the [[Truth]],  
+
+     Up to the distant [[City|city]] and dim  
+
+     Where his papa had bought for him  
+
+     A partnership in Chepe and Deer  
+
+     Worth, say, twelve hundred pounds a year.  
+
+     But he was resolute. Lord Brute  
+
+     Had found him useful; and Lord Loot,  
+
+     With whom few other men would act,  
+
+     Valued his promptitude and tact;  
+
+     Never did even philanthropy  
+
+     Enrich a man more rapidly:  
+
+     Twas he that stopped the Strike in Coal,  
+
+     For hungry children racked his [[Soul|soul]];  
+
+     To end their misery there and then  
+
+     He filled the mines with Chinamen--  
+
+     Sat in that [[house|House]] that broke the Kings,  
+
+     And voted for all sores of things--  
+
+     And [[Rose|rose]] from Under-Sec. to Sec.  
+
+     Some grumbled. Growlers who gave less  
+
+     Than generous worship to [[success]],  
+
+     The little printers in Dundee  
+
+     Who got ten years for blasphemy,  
+
+     (Although he let them off with seven)  
+
+     Respect him rather less than heaven.  
+
+     No matter. This can still be said:  
+
+     Never to [[Supernatural|supernatural]] dread,  
+
+     Never to unseen deity,  
+
+     Did Sir John Grubby bend the knee;  
+
+     Never did dream of hell or wrath  
+
+     Turn Viscount Grubby from his path;  
+
+     Nor was he bribed by fabled bliss  
+
+     To kneel to any world but this.  
+
+     The curate lives in Camden Town,  
+
+     His lap still empty of renown,  
+
+     And still across the waste of years  
+
+     John Grubby, in the [[house|House]] of Peers,  
+
+     Faces that curate, proud and free,  
+
+     And never sits upon his knee.  
+
+     IN MEMORIAM P.D.  
+
+     NICE, JANUARY 30, 1914.  
+
+     If any in an island cradle curled  
+
+     Of comfort, may make offerings to you,  
+
+     Who in the day of all denial blew  
+
+     A bugle through the blackness of the world,  
+
+     An English hand would touch your shroud, in trust  
+
+     That [[Truth|truth]] again be told in English speech.  
+
+     And we too yet may practise what we preach,  
+
+     Though it were practising the bayonet thrust.  
+
+     Cutting that giant neck from sand to sand,  
+
+     From sea to sea; it was a little thing  
+
+     Beside your sudden shout and sabre-swing  
+
+     That cut the throat of thieves in every land.  

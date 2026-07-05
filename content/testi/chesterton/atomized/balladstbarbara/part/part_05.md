@@ -14,254 +14,552 @@ tags:
 </nav>
 
 
-    Of pageants pale in thunder-light, 'twixt thunder-load and  
+    Our soap or our salmon can travel in tins  
 
-      thunder-light,  
+    Between the two poles and as like as two pins;  
 
-    The Hundreds marching on the hills in the wars of long ago.  
+    So that Lancashire merchants whenever they like  
 
-    I saw great Cobbett riding,  
+    Can [[Water|water]] the beer of a man in Klondike  
 
-    The horseman of the shires;  
+    Or [[Poison|poison]] the meat of a man in Bombay;  
 
-    And his face was red with judgment  
+    And that is the meaning of Empire Day.  
 
-    And a light of Luddite fires:  
+    The day of St. George is a musty affair  
 
-    And south to Sussex and the sea the lights leapt up for liberty,  
+    Which Russians and Greeks are permitted to share;  
 
-    The trumpet of the yeomanry, the hammer of the squires;  
+    The day of Trafalgar is Spanish in name  
 
-    For bars of iron rust away, rust away, rust away,  
+    And the Spaniards refuse to pronounce it the same;  
 
-    Rend before the hammer and the horseman riding in,  
+    But the Day of the Empire from Canada came  
 
-    Crying that all men at the last, and at the worst and at the last,  
+    With Morden and Borden and Beaverbrook's fame  
 
-    Have found the place where England ends and England can begin.  
+    And saintly seraphical souls such as they:  
 
-    His [[Horse|horse]]-hoofs go before you,  
+    And that is the meaning of Empire Day.  
 
-    Far beyond your bursting tyres;  
+    [[songs|SONGS]] OF [[Education|EDUCATION]]:  
 
-    And [[Time|time]] is bridged behind him  
+    III. FOR THE CRÊCHE  
 
-    And our sons are with our sires.  
+    _Form 8277059, Sub-Section K_  
 
-    A trailing meteor on the Downs he rides above the rotting towns,  
+    I remember my mother, the day that we met,  
 
-    The Horseman of [[Apocalypse]], the Rider of the Shires.  
+    A thing I shall never entirely forget;  
 
-    For [[London]] Bridge is broken down, broken down, broken down;  
+    And I toy with the fancy that, young as I am,  
 
-    Blow the horn of Huntingdon from Scotland to the sea--  
+    I should know her again if we met in a tram.  
 
-    ... Only a flash of thunder-light, a flying dream of thunder-light,  
+      But mother is happy in turning a crank  
 
-    Had shown under the shattered sky a people that were free.  
+      That increases the balance at somebody's bank;  
 
-    THE TRINKETS  
+      And I feel satisfaction that mother is free  
 
-    A wandering world of rivers,  
+      From the sinister task of attending to me.  
 
-    A wavering world of trees,  
+    They have brightened our room, that is spacious and cool,  
 
-    If the world grow dim and dizzy  
+    With diagrams used in the Idiot School,  
 
-    With all changes and degrees,  
+    And Books for the Blind that will teach us to see;  
 
-    It is but Our Lady's [[Mirror|mirror]]  
+    But mother is happy, for mother is free.  
 
-    Hung dreaming in its place,  
+      For mother is dancing up forty-eight floors,  
 
-    Shining with only shadows  
+      For [[Love|love]] of the Leeds International Stores,  
 
-    Till she wakes it with her face.  
+      And the flame of that [[Faith|faith]] might perhaps have grown cold,  
 
-    The standing whirlpool of the [[Stars|stars]],  
+      With the care of a baby of seven weeks old.  
 
-    The [[Wheel|wheel]] of all the world,  
+    For mother is happy in greasing a [[Wheel|wheel]]  
 
-    Is a ring on Our Lady's finger  
+    For somebody else, who is cornering Steel;  
 
-    With the suns and moons empearled  
+    And though our one meeting was not very long,  
 
-    With [[Stars|stars]] for stones to please her  
+    She took the occasion to sing me this [[Song|song]]:  
 
-    Who sits playing with her rings  
+      "O, hush thee, my baby, the [[Time|time]] soon will come  
 
-    With the great heart that a woman has  
+      When thy [[Sleep|sleep]] will be broken with hooting and hum;  
 
-    And the [[Love|love]] of little things.  
+      There are handles want turning and turning all day,  
 
-    Wings of the whirlwind of the world  
+      And knobs to be pressed in the usual way;  
 
-    From here to Ispahan,  
+    O, hush thee, my baby, take rest while I croon,  
 
-    Spurning the flying forests  
+    For Progress comes early, and [[Freedom]] too soon."  
 
-    Are light as Our Lady's fan:  
+    [[songs|SONGS]] OF [[Education|EDUCATION]]:  
 
-    For all things violent here and vain  
+    IV. CITIZENSHIP  
 
-    Lie open and all at ease  
+    _Form 8889512, Sub-Section Q_  
 
-    Where God has girded heaven to guard  
+    How slowly learns the [[Child|child]] at school  
 
-    Her holy vanities.  
+    The names of all the nobs that rule  
 
-    THE PHILANTHROPIST  
+    From Ponsonby to Pennant;  
 
-    _(With apologies to a beautiful poem.)_  
+    Ere his bewildered mind find rest,  
 
-    Abou Ben Adhem (may his tribe decrease  
+    Knowing his host can be a Guest,  
 
-    By cautious birth-control and die in peace)  
+    His landlord is a Tennant.  
 
-    Mellow with learning lightly took the word  
+    He knew not, at the age of three,  
 
-    That marked him not with them that [[Love|love]] the Lord,  
+    What Lord St. Leger next will be  
 
-    And told the angel of the book and pen  
+    Or what he was before;  
 
-    "Write me as one that loves his fellow-men:  
+    A Primrose in the social swim  
 
-    For them [[Alone|alone]] I labour; to reclaim  
+    A Mr. Primrose is to him,  
 
-    The ragged roaming Bedouin and to tame  
+    And he is nothing more.  
 
-    To ordered service; to uproot their vine  
+    But soon, about the age of ten,  
 
-    Who mock the [[Prophet]], being mad with wine,  
+    He finds he is a Citizen,  
 
-    Let daylight through their tents and through their lives,  
+    And knows his way about;  
 
-    Number their camels, even count their wives,  
+    Can pause within, or just beyond,  
 
-    Plot out the [[Desert|desert]] into streets and squares;  
+    The line 'twixt Mond and Demi-Mond,  
 
-    And count it a more fruitful work than theirs  
+    'Twixt Getting On--or Out.  
 
-    Who lift a vain and visionary [[Love|love]]  
+    The Citizen will take his share  
 
-    To your vague Allah in the skies above."  
+    (In every sense) as bull and bear;  
 
-    Gently replied the angel of the pen:  
+    Nor need this oral ditty  
 
-    "Labour in peace and [[Love|love]] your fellow-men:  
+    Invoke the philologic pen  
 
-    And [[Love|love]] not God, since men [[Alone|alone]] are dear,  
+    To show you that a Citizen  
 
-    Only [[Fear|fear]] God; for you have cause to [[Fear|fear]]."  
+    Means Something in the [[City]].  
 
-    ON THE DOWNS  
+    Thus gains he, with the virile gown,  
 
-    When you came over the top of the world  
+    The fasces and the civic [[Crown|crown]],  
 
-    In the great day on the Downs,  
+    The forum of the free;  
 
-    The air was crisp and the clouds were curled,  
+    Not more to Rome's high law allied  
 
-    When you came over the top of the world,  
+    Is Devonport in all his [[Pride|pride]]  
 
-    And under your feet were spire and street  
+    Or Lipton's [[Self|self]] than he.  
 
-    And seven English towns.  
+    For he will learn, if he will try,  
 
-    And I could not think that the [[Pride|pride]] was perished  
+    The deep interior truths whereby  
 
-    As you came over the down;  
+    We rule the Commonwealth;  
 
-    Liberty, chivalry, all we cherished,  
+    What is the Food-Controller's fee  
 
-    Lost in a rattle of pelf and perished;  
+    And whether the Health Ministry  
 
-    Or the land we [[Love|love]] that you walked above  
+    Are in it for their health.  
 
-    Withering town by town.  
+    [[songs|SONGS]] OF [[Education|EDUCATION]]:  
 
-    For you came out on the dome of the earth  
+    V. THE HIGHER MATHEMATICS  
 
-    Like a vision of victory,  
+    _Form 339125, Sub-Section M_  
 
-    Out on the great green dome of the earth  
+            Twice one is two,  
 
-    As the great blue dome of the sky for girth,  
+            Twice two is four,  
 
-    And under your feet the shires could meet  
+    But twice two is ninety-six if you know the way to score.  
 
-    And your eyes went out to sea.  
+            Half of two is one,  
 
-    Under your feet the towns were seven,  
+            Half of four is two,  
 
-    Alive and [[Alone|alone]] on high,  
+    But half of four is forty per cent. if your name is Montagu:  
 
-    Your back to the broad white wall of heaven;  
+      For everything else is on the square  
 
-    You were one and the towns were seven,  
+      If done by the best quadratics;  
 
-    Single and one as the soaring sun  
+      And nothing is low in High Finance  
 
-    And your head upheld the sky.  
+      Or the Higher Mathematics.  
 
-    And I thought of a thundering [[Flag|flag]] unfurled  
+            A straight line is straight  
 
-    And the roar of the burghers' bell:  
+            And a square mile is flat:  
 
-    Beacons crackled and bolts were hurled  
+    But you learn in trigonometrics a trick worth two of that.  
 
-    As you came over the top of the world;  
+            Two straight lines  
 
-    And under your feet were chance and cheat  
+            Can't enclose a Space,  
 
-    And the slime of the slopes of hell.  
+    But they can enclose a Corner to support the Chosen Race:  
 
-    It has not been as the great [[Wind|wind]] spoke  
+      For you never know what Dynamics do  
 
-    On the great green down that day:  
+      With the lower truths of Statics;  
 
-    We have seen, wherever the wide [[Wind|wind]] spoke,  
+      And half of two is a touring car  
 
-    [[Slavery]] slaying the English folk:  
+      In the Higher Mathematics.  
 
-    The robbers of land we have seen command  
+            There is a place apart  
 
-    The rulers of land obey.  
+            Beyond the solar ray,  
 
-    We have seen the gigantic golden worms  
+    Where parallel straight lines can meet in an unofficial way.  
 
-    In the [[Garden|garden]] of paradise:  
+            There is a room that holds  
 
-    We have seen the great and the wise make terms  
+            The examiner or his clerks,  
 
-    With the peace of snakes and the [[Pride|pride]] of worms,  
+    Where you can square the circle or the man that gives the marks.  
 
-    and them that plant make covenant  
+      Where you hide in the cellar and then look down  
 
-    With the locust and the lice.  
+      On the poets that live in the attics;  
 
-    And the [[Wind|wind]] blows and the world goes on  
+      For the whole of the [[house]] is upside down  
 
-    And the world can say that we,  
+      In the Higher Mathematics.  
 
-    Who stood on the cliffs where the quarries shone,  
+    [[songs|SONGS]] OF [[Education|EDUCATION]]:  
 
-    Stood upon clouds that the sun shone on:  
+    VI. HYGIENE  
 
-    And the clouds dissunder and drown in thunder  
+    _Form 394411102, Sub-Section X_  
 
-    The news that will never be.  
+    _"All practical Eugenists are agreed on the importance of  
 
-    Lady of all that have loved the people,  
+    [[Sleep|sleep]]."--The Eugenic Congress._  
 
-    Light over roads astray,  
+    When Science taught mankind to breathe  
 
-    Maze of steading and street and steeple,  
+    A little while ago,  
 
-    Great as a heart that has loved the people:  
+    Only a wise and thoughtful few  
 
-    Stand on the [[Crown|crown]] of the soaring down,  
+    Were really in the know:  
 
-    Lift up your arms and pray.  
+    Nor could the Youth his features wreathe,  
 
-    Only you I have not forgotten  
+    Puffing from all the lungs beneath:  
+
+    When Duty whispered softly "Breathe!"  
+
+    The Youth would answer "Blow!"  
+
+    When Science proved with lucid care  
+
+    The need of Exercise,  
+
+    Our thoughtless Youth was climbing trees  
+
+    Or lightly blacking eyes:  
+
+    To reckless idlers breaking bounds  
+
+    For football or for hare-and-hounds,  
+
+    Or fighting hard for fourteen rounds,  
+
+    It came as a surprise.  
+
+    But when she boldly counsels [[Sleep]]  
+
+    To persons when in bed,  
+
+    Then, then indeed men blush to see  
+
+    The daybreak blushing red:  
+
+    The early risers whom we term  
+
+    Healthy, grow sickly and infirm;  
+
+    The Early Bird who caught the Worm  
+
+    Will catch the Germ instead.  
+
+    For this at least be Science praised  
+
+    If all the rest be rot,  
+
+    That now she snubs the priggish [[Child|child]]  
+
+    That quits too soon his cot:  
+
+    The pharisaic pachyderm  
+
+    Of spiritual [[Pride|pride]] shall squirm:  
+
+    The Early Bird catches the worm,  
+
+    The Worm that dieth not.  
+
+                            THE ARDEN PRESS  
+
+                     STAMFORD STREET [[London|LONDON]], S.E.1  
+
+End of the Project Gutenberg EBook of The Ballad of St. Barbara, by  
+
+Gilbert Keith Chesterton  
+
+*** END OF THIS PROJECT GUTENBERG EBOOK THE BALLAD OF ST. BARBARA ***  
+
+***** This file should be named 32167-8.txt or 32167-8.zip *****  
+
+This and all associated files of various formats will be found in:  
+
+        http://www.gutenberg.org/3/2/1/6/32167/  
+
+Produced by Irma Spehar, Markus Brenner and the Online  
+
+Distributed Proofreading Team at http://www.pgdp.net (This  
+
+file was produced from images generously made available  
+
+by The Internet Archive/Canadian Libraries)  
+
+Updated editions will replace the previous one--the old editions  
+
+will be renamed.  
+
+Creating the works from public domain print editions means that no  
+
+one owns a United States copyright in these works, so the Foundation  
+
+(and you!) can copy and distribute it in the United States without  
+
+permission and without paying copyright royalties.  Special rules,  
+
+set forth in the General Terms of Use part of this license, apply to  
+
+copying and distributing Project Gutenberg-tm electronic works to  
+
+protect the PROJECT GUTENBERG-tm concept and trademark.  Project  
+
+Gutenberg is a registered trademark, and may not be used if you  
+
+charge for the eBooks, unless you receive specific permission.  If you  
+
+do not charge anything for copies of this eBook, complying with the  
+
+rules is very easy.  You may use this eBook for nearly any purpose  
+
+such as creation of derivative works, reports, performances and  
+
+research.  They may be modified and printed and given away--you may do  
+
+practically ANYTHING with public domain eBooks.  Redistribution is  
+
+subject to the trademark license, especially commercial  
+
+redistribution.  
+
+*** START: FULL LICENSE ***  
+
+THE FULL PROJECT GUTENBERG LICENSE  
+
+PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK  
+
+To protect the Project Gutenberg-tm mission of promoting the free  
+
+distribution of electronic works, by using or distributing this work  
+
+(or any other work associated in any way with the phrase "Project  
+
+Gutenberg"), you agree to comply with all the terms of the Full Project  
+
+Gutenberg-tm License (available with this file or online at  
+
+http://gutenberg.org/license).  
+
+Section 1.  General Terms of Use and Redistributing Project Gutenberg-tm  
+
+electronic works  
+
+1.A.  By reading or using any part of this Project Gutenberg-tm  
+
+electronic work, you indicate that you have read, understand, agree to  
+
+and accept all the terms of this license and intellectual property  
+
+(trademark/copyright) agreement.  If you do not agree to abide by all  
+
+the terms of this agreement, you must cease using and return or destroy  
+
+all copies of Project Gutenberg-tm electronic works in your possession.  
+
+If you paid a fee for obtaining a copy of or access to a Project  
+
+Gutenberg-tm electronic work and you do not agree to be bound by the  
+
+terms of this agreement, you may obtain a refund from the person or  
+
+entity to whom you paid the fee as set forth in paragraph 1.E.8.  
+
+1.B.  "Project Gutenberg" is a registered trademark.  It may only be  
+
+used on or associated in any way with an electronic work by people who  
+
+agree to be bound by the terms of this agreement.  There are a few  
+
+things that you can do with most Project Gutenberg-tm electronic works  
+
+even without complying with the full terms of this agreement.  See  
+
+paragraph 1.C below.  There are a lot of things you can do with Project  
+
+Gutenberg-tm electronic works if you follow the terms of this agreement  
+
+and help preserve free future access to Project Gutenberg-tm electronic  
+
+works.  See paragraph 1.E below.  
+
+1.C.  The Project Gutenberg Literary Archive Foundation ("the Foundation"  
+
+or PGLAF), owns a compilation copyright in the collection of Project  
+
+Gutenberg-tm electronic works.  Nearly all the individual works in the  
+
+collection are in the public domain in the United States.  If an  
+
+individual work is in the public domain in the United States and you are  
+
+located in the United States, we do not claim a right to prevent you from  
+
+copying, distributing, performing, displaying or creating derivative  
+
+works based on the work as long as all references to Project Gutenberg  
+
+are removed.  Of course, we [[Hope|hope]] that you will support the Project  
+
+Gutenberg-tm mission of promoting free access to electronic works by  
+
+freely sharing Project Gutenberg-tm works in compliance with the terms of  
+
+this agreement for keeping the Project Gutenberg-tm name associated with  
+
+the work.  You can easily comply with the terms of this agreement by  
+
+keeping this work in the same format with its attached full Project  
+
+Gutenberg-tm License when you share it without charge with others.  
+
+1.D.  The copyright laws of the place where you are located also govern  
+
+what you can do with this work.  Copyright laws in most countries are in  
+
+a constant state of change.  If you are outside the United States, check  
+
+the laws of your country in addition to the terms of this agreement  
+
+before downloading, copying, displaying, performing, distributing or  
+
+creating derivative works based on this work or any other Project  
+
+Gutenberg-tm work.  The Foundation makes no representations concerning  
+
+the copyright status of any work in any country outside the United  
+
+States.  
+
+1.E.  Unless you have removed all references to Project Gutenberg:  
+
+1.E.1.  The following sentence, with active links to, or other immediate  
+
+access to, the full Project Gutenberg-tm License must appear prominently  
+
+whenever any copy of a Project Gutenberg-tm work (any work on which the  
+
+phrase "Project Gutenberg" appears, or with which the phrase "Project  
+
+Gutenberg" is associated) is accessed, displayed, performed, viewed,  
+
+copied or distributed:  
+
+This eBook is for the use of anyone anywhere at no cost and with  
+
+almost no restrictions whatsoever.  You may copy it, give it away or  
+
+re-use it under the terms of the Project Gutenberg License included  
+
+with this eBook or online at www.gutenberg.org  
+
+1.E.2.  If an individual Project Gutenberg-tm electronic work is derived  
+
+from the public domain (does not contain a notice indicating that it is  
+
+posted with permission of the copyright holder), the work can be copied  
+
+and distributed to anyone in the United States without paying any fees  
+
+or charges.  If you are redistributing or providing access to a work  
+
+with the phrase "Project Gutenberg" associated with or appearing on the  
+
+work, you must comply either with the requirements of paragraphs 1.E.1  
+
+through 1.E.7 or obtain permission for the use of the work and the  
+
+Project Gutenberg-tm trademark as set forth in paragraphs 1.E.8 or  
+
+1.E.9.  
+
+1.E.3.  If an individual Project Gutenberg-tm electronic work is posted  
+
+with the permission of the copyright holder, your use and distribution  
+
+must comply with both paragraphs 1.E.1 through 1.E.7 and any additional  
+
+terms imposed by the copyright holder.  Additional terms will be linked  
+
+to the Project Gutenberg-tm License for all works posted with the  
+
+permission of the copyright holder found at the beginning of this work.  
+
+1.E.4.  Do not unlink or detach or remove the full Project Gutenberg-tm  
+
+License terms from this work, or any files containing a part of this  
+
+work or any other work associated with Project Gutenberg-tm.  
+
+1.E.5.  Do not copy, display, perform, distribute or redistribute this  
+
+electronic work, or any part of this electronic work, without  
+
+prominently displaying the sentence set forth in paragraph 1.E.1 with  
+
+active links or immediate access to the full terms of the Project  
+
+Gutenberg-tm License.  
+
+1.E.6.  You may [[convert]] to and distribute this work in any binary,  
+
+compressed, marked up, nonproprietary or proprietary form, including any  
+
+word processing or hypertext form.  However, if you provide access to or  
+
+distribute copies of a Project Gutenberg-tm work in a format other than  

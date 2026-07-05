@@ -14,264 +14,552 @@ tags:
 </nav>
 
 
-     We shall but wash our feet in heaven,  
+     Prove the points are delicate--they will understand.  
 
-       And warm our hands in hell.  
+     All the wheels are loyal; see how still they stand!"  
 
-     Battles [[unborn]] and vast shall view  
+     [[King]] Dives he was walking in his [[Garden|garden]] in the sun,  
 
-       Our faltered standards stream,  
+     He shook his hand at heaven, and he called the wheels to run,  
 
-     New friends shall come and frenzies new.  
+     And the eyes of him were hateful eyes, the lips of him were curled,  
 
-       New troubles toil and teem;  
+     And he called upon his father that is lord below the world,  
 
-     New friends shall pass and still renew  
+     Sitting in the Gate of Treason, in the gate of broken seals,  
 
-       One [[Truth|truth]] that does not seem,  
+     "Bend and bind them, bend and bind them, bend and bind them into wheels,  
 
-     That I am I, and you are you,  
+     Then once more in all my [[Garden|garden]] there may swing and sound and sweep--  
 
-       And [[Death]] a morning dream.  
+     The noise of all the sleepless things that sing the [[Soul|soul]] to [[Sleep|sleep]]."  
 
-     Why should we reck of scorn or praise  
+     _Call upon the wheels, master, call upon the wheels._  
 
-       While we two ride together?  
+     _Weary grow the holidays when you miss the meals,_  
 
-     The icy air of godless days  
+     _Through the Gate of Treason, through the gate within,_  
 
-       Shall be but wintry weather.  
+     _Cometh [[Fear|fear]] and [[Greed|greed]] of fame, cometh deadly sin;_  
 
-     If hell were highest, if the heaven  
+     _If a man grow faint, master, take him ere he kneels._  
 
-       Were blue with devils blue,  
+     _Take him, break him, rend him, end him, roll him, crush him with the wheels._  
 
-     I should have guessed that all was even,  
+     THE SECRET PEOPLE  
 
-       If I had dreamed of you.  
+     Smile at us, pay us, pass us; but do not quite forget.  
 
-     Little I reck of empty prides,  
+     For we are the people of England, that never has spoken yet.  
 
-       Of creeds more cold than clay;  
+     There is many a fat farmer that drinks less cheerfully,  
 
-     To nobler ends and longer rides,  
+     There is many a free French peasant who is richer and sadder than we.  
 
-       My lady rides to-day.  
+     There are no folk in the whole world so helpless or so wise.  
 
-     To swing our swords and take our sides  
+     There is hunger in our bellies, there is laughter in our eyes;  
 
-       In that all-ending fray  
+     You laugh at us and [[Love|love]] us, both mugs and eyes are wet:  
 
-     When [[Stars|stars]] fall down and darkness hides,  
+     Only you do not know us. For we have not spoken yet.  
 
-       When God shall turn to bay.  
+     The fine French kings came over in a flutter of flags and dames.  
 
-     Why should we reck of grin and groan  
+     We liked their smiles and battles, but we never could say their names.  
 
-       While we two ride together?  
+     The [[Blood|blood]] ran red to Bosworth and the High French lords went down;  
 
-     The triple thunders of the throne  
+     There was naught but a naked people under a naked [[Crown|crown]].  
 
-       Would be but stormy weather.  
+     And the eyes of the [[King]]'s Servants turned terribly every way,  
 
-     For us the last great fight shall roar,  
+     And the gold of the [[King]]'s Servants [[Rose|rose]] higher every day.  
 
-       Upon the ultimate plains,  
+     They burnt the homes of the shaven men, that had been quaint and kind,  
 
-     And we shall turn and tell once more  
+     Till there was no bed in a monk's [[house]], nor food that man could find.  
 
-       Our [[Love|love]] in English lanes.  
+     The inns of God where no man paid, that were the wall of the weak,  
 
-     BAY COMBE  
+     The [[King]]'s Servants ate them all. And Still we did not speak.  
 
-     With [[Leaves|leaves]] below and [[Leaves|leaves]] above,  
+     And the face of the [[King]]'s Servants grew greater than the [[King]]:  
 
-     And groping under tree and tree,  
+     He tricked them, and they trapped him, and stood round him in a ring.  
 
-     I found the [[Home|home]] of my true [[Love|love]],  
+     The new [[Grave|grave]] lords closed round him, that had eaten the abbey's fruits.  
 
-     Who is a wandering [[Home|home]] for me.  
+     And the men of the new religion, with their bibles in their boots.  
 
-     Who, lost in ruined worlds aloof,  
+     We saw their shoulders moving, to menace or discuss,  
 
-     Bore the dread dove wings like a roof;  
+     And some were pure and some were vile; but none took heed of us.  
 
-     Who, past the last lost [[Stars|stars]] of space  
+     We saw the [[King]] as they killed him, and his face was proud and pale;  
 
-     Carried the [[Fire|fire]]-light on her face.  
+     And a few men talked of [[Freedom|freedom]], while England talked of ale.  
 
-     Who, passing as in idle hours,  
+     A war that we understood not came over the world and woke  
 
-     Tamed the wild weeds to [[Garden|garden]] [[Flowers|flowers]];  
+     Americans, Frenchmen, Irish; but we knew not the things they spoke.  
 
-     Stroked the strange whirlwind's whirring wings,  
+     They talked about rights and [[Nature|nature]] and peace and the people's reign:  
 
-     And made the comets homely things.  
+     And the squires, our masters, bade us fight; and never scorned us again.  
 
-     Where she went by upon her way  
+     Weak if we be for ever, could none condemn us then;  
 
-     The dark was dearer than the day;  
+     Men called us serfs and drudges; men knew that we were men.  
 
-     Where she paused in heaven or hell,  
+     In foam and flame at Trafalgar, on Albuera plains,  
 
-     The whole world's tale had ended [[Well|well]].  
+     We did and died like lions, to keep ourselves in [[Chains|chains]],  
 
-     _With [[Leaves|leaves]] below and [[Leaves|leaves]] above._  
+     We lay in living ruins; firing and fearing not  
 
-     _And groping under tree and tree,_  
+     The strange fierce face of the Frenchmen who knew for what they fought,  
 
-     _I found the [[Home|home]] of my true [[Love|love]],_  
+     And the man who seemed to be more than man we strained against and broke;  
 
-     _Who is a wandering [[Home|home]] for me_.  
+     And we broke our own rights with him. And still we never spoke.  
 
-     Where she was flung, above, beneath,  
+     Our patch of glory ended; we never heard guns again.  
 
-     By the rude [[Dance|dance]] of life and [[Death|death]],  
+     But the squire seemed struck in the saddle; he was foolish, as if in [[Pain|pain]]  
 
-     Grow she at Gotham--die at Rome,  
+     He leaned on a staggering lawyer, he clutched a cringing Jew,  
 
-     Between the pine trees is her [[Home|home]].  
+     He was stricken; it may be, after all, he was stricken at Waterloo.  
 
-     In some strange town, some silver morn,  
+     Or perhaps the shades of the shaven men, whose spoil is in his [[house]],  
 
-     She may have wandered to be born;  
+     Come back in shining shapes at last to spoil his last carouse:  
 
-     Stopped at some motley crowd impressed,  
+     We only know the last sad squires ride slowly towards the sea.  
 
-     And called them kinsfolk for a jest.  
+     And a new people takes the land: and still it is not we.  
 
-     If we again En goodness thrive,  
+     They have given us into the hand of the new unhappy lords,  
 
-     And the dead saints become alive,  
+     Lords without anger and [[Honour|honour]], who dare not carry their swords.  
 
-     Then pedants bald and parchments brown  
+     They fight by shuffling papers; they have bright dead alien eyes;  
 
-     May claim her [[Blood|blood]] for [[London]] town.  
+     They look at our labour and laughter as a tired man looks at flies.  
 
-     _But [[Leaves|leaves]] below and [[Leaves|leaves]] above._  
+     And the load 01 their loveless pity is worse than the ancient wrongs,  
 
-     _And groping under tree and tree,_  
+     Their doors are shut in the evening; and they know no [[songs]].  
 
-     _I found the [[Home|home]] of my true [[Love|love]],_  
+     We hear men speaking for us of new laws strong and sweet,  
 
-     _Who is a wandering [[Home|home]] for me_.  
+     Yet is there no man speaketh as we speak in the street.  
 
-     The great gravestone she may pass by,  
+     It may be we shall rise the last as Frenchmen [[Rose|rose]] the first,  
 
-     And without noticing, may die;  
+     Our wrath come after [[Russia]]'s wrath and our wrath be the worst.  
 
-     The streets of silver Heaven may tread,  
+     It may be we are meant to mark with our riot and our rest  
 
-     With her grey awful eyes unfed.  
+     God's scorn for all men governing. It may be beer is best.  
 
-     The [[City|city]] of great peace in [[Pain|pain]]  
+     But we are the people of England; and we have not spoken yet.  
 
-     May pass, until she find again  
+     Smile at us, pay us, pass us. But do not quite forget.  
 
-     This little [[house]] of holm and fir  
+     VI  
 
-     God built before the [[Stars|stars]] for her.  
+     MISCELLANEOUS [[Poems|POEMS]]  
 
-     Here in the fallen [[Leaves|leaves]] is furled  
+     LOST  
 
-     Her secret centre of the world.  
+     So you have gained the golden crowns, so you have piled together  
 
-     We sit and feel in dusk and dun  
+       The laurels and the jewels, the pearls out of the blue,  
 
-     The [[Stars|stars]] swing round us like a sun.  
+     But I will beat the bounding drum and I will fly the feather  
 
-     _For [[Leaves|leaves]] below and [[Leaves|leaves]] above._  
+       For all the glory I have lost, the good I never knew.  
 
-     _And groping under tree and tree,_  
+     I saw the light of morning pale on princely human faces,  
 
-     _I found the [[Home|home]] of my true [[Love|love]]._  
+       In tales irrevocably gone, in final [[Night|night]] enfurled,  
 
-     _Who is a wandering [[Home|home]] for me_.  
+     I saw the tail of flying fights, a glimpse of burning blisses,  
 
-     IV  
+       And laughed to think what I had lost--the wealth of all the world.  
 
-     RELIGIOUS [[Poems|POEMS]]  
+     Yea, ruined in a royal game I was before my cradle;  
 
-     THE WISE MEN  
+       Was ever gambler hurling gold who lost such things as I?  
 
-     Step softly, under [[Snow|snow]] or rain,  
+     The purple moth that died an hour ere I was born of  
 
-       To find the place where men can pray;  
+       That great green sunset God shall make three days after I die.  
 
-     The way is all so very plain  
+     When all the lights are lost and done, when all the skies are broken,  
 
-     That we may lose the way.  
+       Above the ruin of the [[Stars|stars]] my [[Soul|soul]] shall sit in state,  
 
-     Oh, we have learnt to peer and pore  
+     With a brain made rich, with the irrevocable sunsets,  
 
-       On tortured puzzles from our youth,  
+       And a closed heart happy in the fullness of a fate.  
 
-     We know all labyrinthine lore,  
+     So you have gained the golden crowns and grasped the golden weather,  
 
-     We are the three wise mert of yore,  
+       The kingdoms and the hemispheres that all men buy and sell,  
 
-       And we know all things but the [[Truth|truth]].  
+     But I will lash the leaping drum and swing the flaring feather,  
 
-     We have gone round and round the [[Hill|hill]],  
+       For the light of seven heavens that are lost to me like hell.  
 
-       And lost the wood among the trees,  
+     BALLAD OF THE SUN  
 
-     And learnt long names for every ill,  
+     O [[Well|well]] for him that loves the sun  
 
-     And served the mad gods, naming still  
+     That sees the heaven-race ridden or run,  
 
-       The Furies the Eumenides.  
+     The splashing seas of sunset won,  
 
-     The gods of violence took the veil  
+       And shouts for victory.  
 
-       Of vision and [[philosophy]],  
+     God made the sun to [[Crown|crown]] his head,  
 
-     The Serpent that brought all men bale,  
+     And when [[Death|death]]'s dart at last is sped,  
 
-     He bites his own accursed tail,  
+     At least it will not find him dead,  
 
-       And calls himself [[Eternity]].  
+       And pass the carrion by.  
 
-     Go humbly ... it has hailed and snowed ...  
+     O ill for him that loves the sun;  
 
-       With voices low and lanterns lit;  
+     Shall the sun stoop for anyone?  
 
-     So very simple is the [[Road|road]],  
+     Shall the sun weep for hearts undone  
 
-       That we may stray from it.  
+       Or heavy souls that pray?  
 
-     The world grows terrible and white,  
+     Not less for us and everyone  
 
-       And blinding white the breaking day;  
+     Was that white web of splendour spun;  
 
-     We walk bewildered in the light,  
+     O [[Well|well]] for him who loves the sun  
 
-     For something is too large for sight,  
+       Although the sun should slay.  
 
-       And something much too plain to say.  
+     [[Translation|TRANSLATION]] FROM DU BELLAY  
 
-     The [[Child]] that was ere worlds begun  
+     Happy, who like [[Ulysses]] or that lord  
 
-       (... We need but walk a little way,  
+       Who raped the fleece, returning full and sage,  
 
-     We need but see a latch undone,...)  
+     With usage and the world's wide reason stored,  
 
-     The [[Child]] that played with [[Moon|moon]] and sun  
+       With his own kin can wait the end of age.  
 
-       Is playing with a little hay.  
+     When shall I see, when shall I see, God knows!  
 
-     The [[house]] from which the heavens are fed,  
+       My little village smoke; or pass the door,  
 
-       The old strange [[house]] that is our own,  
+     The old dear door of that unhappy [[house]]  
 
-     Where tricks of words are never said.  
+       That is to me a kingdom and much more?  
 
-     And [[Mercy]] is as plain as bread,  
+     Mightier to me the [[house]] my fathers made  
 
-       And [[Honour]] is as hard as stone.  
+       Than your audacious heads, O Halls of Rome!  
 
-     Go humbly; humble are the skies,  
+     More than immortal marbles undecayed,  
 
-       And low and large and fierce the Star;  
+       The thin sad slates that cover up my [[Home|home]];  
 
-     So very near the Manger lies  
+     More than your Tiber is my Loire to me,  
+
+       Than Palatine my little Lyré there;  
+
+     And more than all the winds of all the sea  
+
+       The quiet kindness of the Angevin air.  
+
+     THE HIGHER [[unity|UNITY]]  
+
+          "The Rev. Isaiah Bunter has disappeared into the interior  
+
+          of the Solomon Islands, and it is feared that he may have  
+
+          been devoured by the natives, as there has been a considerable  
+
+          revival of religious customs among the Polynesians."  
+
+          _A real paragraph from a real Paper; only the names altered._  
+
+     It was Isaiah Bunter  
+
+       Who sailed to the world's end,  
+
+     And spread religion in a way  
+
+       That he did not intend.  
+
+     He gave, if not the gospel-feast,  
+
+       At least a ritual meal;  
+
+     And in a highly painful sense  
+
+       He was devoured with zeal.  
+
+     And who are we (as Henson says)  
+
+       That we should close the door?  
+
+     And should not Evangelicals  
+
+       All jump at shedding Gore?  
+
+     And many a man will melt in man,  
+
+       Becoming one, not two,  
+
+     When smacks across the startled earth  
+
+       The Kiss of Kikuyu.  
+
+     When Man is the Turk, and the Atheist,  
+
+     Essene, Erastian Whig,  
+
+     And the Thug and the Druse and the Catholic,  
+
+       And the crew of the Captain's gig.  
+
+     THE EARTH'S VIGIL  
+
+     The old earth keepeth her watch the same.  
+
+       [[Alone]] in a voiceless void doth stand,  
+
+     Her orange [[Flowers|flowers]] in her bosom flame,  
+
+       Her gold ring in her hand.  
+
+     The surfs of the long gold-crested morns  
+
+       Break ever more at her great robe's hem,  
+
+     And evermore come the bleak [[Moon|moon]]-horns.  
+
+       But she keepeth not watch for them.  
+
+           She keepeth her watch through the awns,  
+
+             But the heart of her groweth not old,  
+
+           For the peal of the bridegroom's paeans,  
+
+             And the tale she once was told.  
+
+     The nations shock and the cities reel,  
+
+       The empires travail and rive and rend,  
+
+     And she looks on havoc and smoke and steel,  
+
+       And knoweth it is not the end.  
+
+     The faiths may choke and the powers [[Despair|despair]],  
+
+       The powers re-arise and the faiths renew,  
+
+     She is only a maiden, waiting there,  
+
+       For the [[Love|love]] whose word is true.  
+
+           She keepeth her watch through the aeons,  
+
+             But the heart of her groweth not old,  
+
+           For the peal of the bridegroom's paeans,  
+
+             And the tale she once was told.  
+
+     Through the cornfield's gleam and the cottage shade,  
+
+       They wait unwearied, the young and old,  
+
+     Mother for [[Child|child]] and man for maid.  
+
+       For a [[Love|love]] that once was told.  
+
+     The hair grows grey under thatch or slates,  
+
+       The eyes grow dim behind lattice panes,  
+
+     The earth-race wait as the old earth waits,  
+
+       And the [[Hope|hope]] in the heart remains.  
+
+           She keepeth her watch through the aeons,  
+
+             But the heart of her groweth not old,  
+
+           For the peal of the bridegroom's paeans,  
+
+             And the tale she once was told.  
+
+     God's gold ring on her hand is bound,  
+
+       She fires with blossom the grey [[Hill|hill]]-sides,  
+
+     Her fields are quickened, her forests crowned,  
+
+       While the [[Love|love]] of her heart abides,  
+
+     And we from the fears that fret and mar  
+
+       Look up in hours and behold awhile  
+
+     Her face, colossal, mid star on star,  
+
+       Still looking forth with a smile.  
+
+           She keepeth her watch through the sons,  
+
+             But the heart of her groweth not old,  
+
+           For the peal of the bridegroom's paeans,  
+
+             And the tale she once was told.  
+
+     ON RIGHTEOUS INDIGNATION  
+
+     When Adam went from Paradise  
+
+       He saw the [[Sword]] and ran;  
+
+     The dreadful shape, the new device,  
+
+     The pointed end of Paradise,  
+
+     And saw what Peril is and Price,  
+
+       And knew he was a man.  
+
+     When Adam went from Paradise,  
+
+       He turned him back and cried  
+
+     For a little flower from Paradise;  
+
+     There came no flower from Paradise;  
+
+     The woods were dark in Paradise,  
+
+       And not a bird replied.  
+
+     For only comfort or contempt,  
+
+       For jest or great reward,  
+
+     Over the walls of Paradise,  
+
+     The flameless gates of Paradise,  
+
+     The dumb shut doors of Paradise,  
+
+       God flung the flaming [[Sword|sword]].  
+
+     It burns the hand that holds it  
+
+       More than the skull it scores;  
+
+     It doubles like a snake and stings,  
+
+     Yet he in whose hand it swings  
+
+     He is the most masterful of things,  
+
+       A scorner of the [[Stars|stars]].  
+
+     WHEN I CAME BACK TO FLEET STREET  
+
+     When I came back to Fleet Street,  
+
+       Through a sunset nook at [[Night|night]],  
+
+     And saw the old Green Dragon  
+
+       With the windows all alight,  
+
+     And hailed the old Green Dragon  
+
+       And the Cock I used to know,  
+
+     Where all good fellows were my friends  
+
+       A little while ago;  
+
+     I had been long in meadows,  
+
+       And the trees took hold of me,  
+
+     And the still towns in the beech-woods,  
+
+       Where men were meant to be.  
+
+     But old things held; the laughter,  
+
+       The long unnatural [[Night|night]],  
+
+     And all the [[Truth|truth]] they talk in hell,  
+
+       And all the lies they write.  
+
+     For I came back to Fleet Street,  
+
+       And not in peace I came;  
+
+     A cloven [[Pride|pride]] was in my heart,  
+
+       And half my [[Love|love]] was shame.  
+
+     I came to fight in fairy-tale,  
+
+       Whose end shall no man know--  
+
+     To fight the old Green Dragon  
+
+       Until the Cock shall crow!  
+
+     Under the broad bright windows  
+
+       Of men I serve no more,  
+
+     The groaning of the old great wheels  
+
+       Thickened to a throttled roar;  
+
+     All buried things broke upward;  
+
+       And peered from its retreat,  
+
+     Ugly and silent, like an elf,  
+
+       The secret of the street.  
+
+     They did not break the padlocks,  
+
+       Or clear the wall away.  
+
+     The men in debt that drank of old  
+
+       Still drink in debt to-day;  
+
+     Chained to the rich by ruin,  
+
+       Cheerful in [[Chains|chains]], as then  
+
+     When old unbroken [[Pickwick]] walked  
+
+       Among the broken men.  

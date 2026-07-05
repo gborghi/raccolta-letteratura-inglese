@@ -14,240 +14,600 @@ tags:
 </nav>
 
 
-    That lead to a low door at last; and beyond there is no door."  
+    Where the hunt is up and racing over stream and swamp and tarn  
 
-    And the Breton to the Norman spoke, like a small [[Child|child]] spoke he,  
+    And their batteries, black with battle, hold the bridgeheads of the  
 
-    And his sea-blue eyes were empty as his [[Home|home]] beside the sea:  
+      Marne  
 
-    "There are more windows in one [[house]] than there are eyes to see,  
+    And across the carnage of the Guard, by [[Paris]] in the plain,  
 
-    There are more doors in a man's [[house]], but God has hid the key:  
+    The Normans to the Bretons cried and the Bretons cheered again....  
 
-    Ruin is a builder of windows; her legend witnesseth  
+    But he that told the tale went [[Home|home]] to his [[house]] beside the sea  
 
-    Barbara, the saint of gunners, and a stay in sudden [[Death|death]]."  
+    And burned before St. Barbara, the light of the windows three,  
 
-    It seemed the [[Wheel|wheel]] of the world stood still an instant in its turning,  
+    Three candles for an unknown thing, never to come again,  
 
-    More than the kings of the earth that turned with the turning of Valmy  
+    That opened like the eye of God on [[Paris]] in the plain.  
 
-      mill:  
+    [[elegy|ELEGY]] IN A COUNTRY CHURCHYARD  
 
-    While trickled the idle tale and the sea-blue eyes were burning,  
+    The men that worked for England  
 
-    Still as the heart of a whirlwind the heart of the world stood still.  
+    They have their graves at [[Home|home]]:  
 
-        "Barbara the beautiful  
+    And [[Bees|bees]] and [[Birds|birds]] of England  
 
-        Had praise of lute and pen:  
+    About the [[Cross|cross]] can roam.  
 
-        Her hair was like a [[Summer|summer]] [[Night|night]]  
+    But they that fought for England,  
 
-        Dark and desired of men.  
+    Following a falling star,  
 
-        Her feet like [[Birds|birds]] from far away  
+    Alas, alas for England  
 
-        That linger and light in [[Doubt|doubt]];  
+    They have their graves afar.  
 
-        And her face was like a [[Window|window]]  
+    And they that rule in England,  
 
-        Where a man's first [[Love|love]] looked out.  
+    In stately conclave met,  
 
-        Her sire was master of many slaves  
+    Alas, alas for England  
 
-        A hard man of his hands;  
+    They have no graves as yet.  
 
-        They built a tower about her  
+    THE [[Sword|SWORD]] OF SURPRISE  
 
-        In the desolate golden lands,  
+    Sunder me from my bones, O [[Sword|sword]] of God,  
 
-        Sealed as the tyrants sealed their tombs,  
+    Till they stand stark and strange as do the trees;  
 
-        Planned with an ancient plan,  
+    That I whose heart goes up with the soaring woods  
 
-        And set two windows in the tower  
+    May marvel as much at these.  
 
-        Like the two eyes of a man."  
+    Sunder me from my [[Blood|blood]] that in the dark  
 
-    Our guns were set toward the foe; we had no word, for firing.  
+    I hear that red ancestral [[River|river]] run,  
 
-    Grey in the gateway of St. Gond the Guard of the [[Tyrant|tyrant]] shone;  
+    Like branching buried floods that find the sea  
 
-    Dark with the fate of a falling star, retiring and retiring,  
+    But never see the sun.  
 
-    The Breton line went backward and the Breton tale went on.  
+    Give me miraculous eyes to see my eyes,  
 
-        "Her father had sailed across the sea  
+    Those [[rolling]] mirrors made alive in me,  
 
-        From the harbour of Africa  
+    Terrible crystal more incredible  
 
-        When all the slaves took up their tools  
+    Than all the things they see.  
 
-        For the bidding of Barbara.  
+    Sunder me from my [[Soul|soul]], that I may see  
 
-        She smote the bare wall with her hand  
+    The sins like streaming wounds, the life's brave beat;  
 
-        And bad them smite again;  
+    Till I shall save myself, as I would save  
 
-        She poured them wealth of wine and meat  
+    A stranger in the street.  
 
-        To stay them in their [[Pain|pain]].  
+    A WEDDING IN WAR-[[Time|TIME]]  
 
-        And cried through the lifted thunder  
+    Our God who made two [[lovers]] in a [[Garden|garden]],  
 
-        Of thronging hammer and hod  
+    And smote them separate and set them free,  
 
-        'Throw open the third [[Window|window]]  
+    Their four eyes wild for [[Wonder|wonder]] and wrath and pardon  
 
-        In the third name of God.'  
+    And their kiss thunder as lips of land and sea:  
 
-        Then the hearts failed and the tools fell,  
+    Each rapt unendingly beyond the other,  
 
-        And far towards the foam,  
+    Two starry worlds of unknown gods at war,  
 
-        Men saw a [[Shadow|shadow]] on the sands  
+    Wife and not mate, a man and not a brother,  
 
-        And her father coming [[Home|home]]."  
+    We thank thee thou hast made us what we are.  
 
-    Speak low and low, along the line the whispered word is flying  
+    Make not the grey slime of infinity  
 
-    Before the touch, before the [[Time|time]], we may not loose a breath:  
+    To swamp these [[Flowers|flowers]] thou madest one by one;  
 
-    Their guns must mash us to the mire and there be no replying,  
+    Let not the [[Night|night]] that was thine enemy  
 
-    Till the hand is raised to fling us for the final dice to [[Death|death]].  
+    Mix a mad twilight of the [[Moon|moon]] and sun;  
 
-        "There were two windows in your tower,  
+    Waken again to thunderclap and clamour  
 
-        Barbara, Barbara,  
+    The [[Wonder|wonder]] of our sundering and the [[Song|song]],  
 
-        For all between the sun and [[Moon|moon]]  
+    Or break our hearts with thine hell-shattering hammer  
 
-        In the lands of Africa.  
+    But leave a shade between us all day long.  
 
-        Hath a man three eyes, Barbara,  
+    Shade of high shame and honourable blindness  
 
-        A bird three wings,  
+    When youth, in [[Storm|storm]] of dizzy and distant things,  
 
-        That you have riven roof and wall  
+    Finds the wild windfall of a little kindness  
 
-        To look upon vain things?"  
+    And shakes to think that all the world has wings.  
 
-        Her voice was like a wandering thing  
+    When the one head that turns the heavens in turning  
 
-        That falters yet is free,  
+    Moves yet as lightly as a lingering bird,  
 
-        Whose [[Soul|soul]] has drunk in a distant land  
+    And red and random, blown astray but burning,  
 
-        Of the rivers of liberty.  
+    Like a lost spark goes by the glorious word.  
 
-        "There are more wings than the [[Wind|wind]] knows  
+    Make not this sex, this other side of things,  
 
-        Or eyes than see the sun  
+    A thing less distant than the world's [[Desire|desire]];  
 
-        In the light of the lost [[Window|window]]  
+    What colour to the end of evening clings  
 
-        And the [[Wind|wind]] of the doors undone.  
+    And what far cry of frontiers and what [[Fire|fire]]  
 
-        For out of the first lattice  
+    Fallen too far beyond the sun for seeking,  
 
-        Are the red lands that break  
+    Let it divide us though our kingdom come;  
 
-        And out of the second lattice  
+    With a far signal in our secret speaking  
 
-        Sea like a green snake,  
+    To hang the proud horizon in our [[Home|home]].  
 
-        But out of the third lattice  
+    Once we were one, a shapeless cloud that lingers  
 
-        Under low eaves like wings  
+    Loading the seas and shutting out the skies,  
 
-        Is a new corner of the sky  
+    One with the woods, a [[Monster|monster]] of myriad fingers,  
 
-        And the other side of things."  
+    You laid on me no finger of surprise.  
 
-    It opened in the inmost place an instant beyond uttering,  
+    One with the [[Stars|stars]], a god with myriad eyes,  
 
-    A casement and a chasm and a thunder of doors undone,  
+    I saw you nowhere and was blind for scorn:  
 
-    A seraph's strong wing shaken out the shock of its unshuttering,  
+    One till the world was riven and the rise  
 
-    That split the shattered sunlight from a light behind the sun.  
+    Of the white days when you and I were born.  
 
-        "Then he drew [[Sword|sword]] and drave her  
+    Darkens the world: the world-old fetters rattle;  
 
-        Where the judges sat and said  
+    And these that have no [[Hope|hope]] behind the sun  
 
-        'Caesar sits above the gods,  
+    May feed like bondmen and may breed like cattle,  
 
-        Barbara the maid.  
+    One in the darkness as the dead are one;  
 
-        Caesar hath made a treaty  
+    Us if the rended [[Grave|grave]] give up its glory  
 
-        With the [[Moon|moon]] and with the sun,  
+    Trumpets shall summon asunder and face to face:  
 
-        All the gods that men can praise  
+    We will be strangers in so strange a story  
 
-        Praise him every one.  
+    And [[Wonder|wonder]], meeting in so wild a place.  
 
-        There is peace with the anointed  
+    Ah, not in vain or utterly for loss  
 
-        Of the scarlet oils of Bel,  
+    Come even the black [[Flag|flag]] and the battle-hordes,  
 
-        With the Fish God, where the whirlpool  
+    If these grey devils flee the sign of the [[Cross|cross]]  
 
-        Is a winding stair to hell,  
+    Even in the symbol of the crossing swords.  
 
-        With the pathless pyramids of slime,  
+    Nor shall [[Death|death]] [[Doubt|doubt]] Who made our souls alive  
 
-        Where the mitred negro lifts  
+    Swords meeting and not stakes set side by side,  
 
-        To his black cherub in the cloud  
+    Bade us in the sunburst and the thunder thrive  
 
-        Abominable gifts,  
+    Earthquake and [[Dawn]]; the bridegroom and the bride.  
 
-        With the leprous silver cities  
+    [[Death]] and not [[Dreams|dreams]] or [[Doubt|doubt]] of things undying,  
 
-        Where the dumb priests [[Dance|dance]] and nod,  
+    Of whose the holy hearth or whose the [[Sword|sword]];  
 
-        But not with the three windows  
+    Though sacred spirits dissever in strong crying  
 
-        And the last name of God.'"  
+    Into Thy hands, but Thy two hands, O Lord,  
 
-    They are firing, we are falling, and the red skies rend and shiver us,  
+    Though not in Earth as once in Eden standing  
 
-    Barbara, Barbara, we may not loose a breath--  
+    So plain again we see Thee what thou art,  
 
-    Be at the bursting doors of doom, and in the dark deliver us,  
+    As in this blaze, the blasting and the branding  
 
-    Who loosen the last [[Window|window]] on the sun of sudden [[Death|death]].  
+    Of this wild wedding where we meet and part.  
 
-        "Barbara the beautiful  
+    THE MYSTERY  
 
-        Stood up as [[Queen|queen]] set free,  
+    If sunset clouds could grow on trees  
 
-        Whose mouth is set to a terrible cup  
+    It would but match the may in flower;  
 
-        And the trumpet of liberty.  
+    And skies be underneath the seas  
 
-        'I have looked forth from a [[Window|window]]  
+    No topsyturvier than a shower.  
 
-        That no man now shall bar,  
+    If [[Mountains|mountains]] [[Rose|rose]] on wings to wander  
 
-        Caesar's toppling battle-towers  
+    They were no wilder than a cloud;  
 
-        Shall never stretch so far.  
+    Yet all my praise is mean as slander,  
 
-        The slaves are dancing in their [[Chains|chains]],  
+    Mean as these mean words spoken aloud.  
 
-        The [[Child|child]] laughs at the rod,  
+    And never more than now I know  
 
-        Because of the bird of the three wings,  
+    That man's first heaven is far behind;  
 
-        And the third face of God.'  
+    Unless the blazing seraph's blow  
 
-        The [[Sword|sword]] upon his shoulder  
+    Has left him in the [[Garden|garden]] blind.  
 
-        Shifted and shone and fell,  
+    Witness, O Sun that blinds our eyes,  
 
-        And Barbara lay very small  
+    Unthinkable and unthankable [[King]],  
+
+    That though all other [[Wonder|wonder]] dies  
+
+    I [[Wonder|wonder]] at not wondering.  
+
+    "THE MYTH OF [[Arthur|ARTHUR]]"  
+
+    O learned man who never learned to learn,  
+
+    Save to deduce, by timid steps and small,  
+
+    From towering smoke that [[Fire|fire]] can never burn  
+
+    And from tall tales that men were never tall.  
+
+    Say, have you thought what manner of man it is  
+
+    Of whom men say "He could strike giants down"?  
+
+    Or what strong memories over [[Time|time]]'s abyss  
+
+    Bore up the pomp of Camelot and the [[Crown|crown]].  
+
+    And why one banner all the background fills,  
+
+    Beyond the pageants of so many spears,  
+
+    And by what witchery in the western hills  
+
+    A throne stands empty for a thousand years.  
+
+    Who hold, unheeding this immense impact,  
+
+    Immortal story for a mortal sin;  
+
+    Lest human [[Fable|fable]] touch historic fact,  
+
+    Chase myths like moths, and fight them with a pin.  
+
+    Take comfort; rest--there needs not this ado.  
+
+    You shall not be a myth, I promise you.  
+
+    THE OLD [[Song|SONG]]  
+
+    _(On the Embankment in stormy weather.)_  
+
+    A livid sky on [[London]]  
+
+    And like iron steeds that rear  
+
+    A shock of engines halted,  
+
+    And I knew the end was near:  
+
+    And something said that far away, over the hills and far away,  
+
+    There came a crawling thunder and the end of all things here.  
+
+    For [[London]] Bridge is broken down, broken down, broken down,  
+
+    As digging lets the daylight on the sunken streets of yore,  
+
+    The [[Lightning|lightning]] looked on [[London]] town, the broken bridge of [[London]] town,  
+
+    The ending of a broken [[Road|road]] where men shall go no more.  
+
+    I saw the kings of [[London]] town,  
+
+    The kings that buy and sell,  
+
+    That built it up with penny loaves  
+
+    And penny lies as [[Well|well]]:  
+
+    And where the streets were paved with gold, the shrivelled paper shone  
+
+      for gold,  
+
+    The scorching light of promises that pave the streets of hell.  
+
+    For penny loaves will melt away, melt away, melt away,  
+
+    Mock the mean that haggled in the grain they did not grow;  
+
+    With hungry faces in the gate, a hundred thousand in the gate,  
+
+    A thunder-flash on [[London]] and the finding of the foe.  
+
+    I heard the hundred pin-makers  
+
+    Slow down their racking din,  
+
+    Till in the stillness men could hear  
+
+    The dropping of the pin:  
+
+    And somewhere men without the wall, beneath the wood, without the wall,  
+
+    Had found the place where [[London]] ends and England can begin.  
+
+    For pins and needles bend and break, bend and break, bend and break,  
+
+    Faster than the breaking spears or the bending of the bow  
+
+    Of pageants pale in thunder-light, 'twixt thunder-load and  
+
+      thunder-light,  
+
+    The Hundreds marching on the hills in the wars of long ago.  
+
+    I saw great Cobbett riding,  
+
+    The horseman of the shires;  
+
+    And his face was red with judgment  
+
+    And a light of Luddite fires:  
+
+    And south to Sussex and the sea the lights leapt up for liberty,  
+
+    The trumpet of the yeomanry, the hammer of the squires;  
+
+    For bars of iron rust away, rust away, rust away,  
+
+    Rend before the hammer and the horseman riding in,  
+
+    Crying that all men at the last, and at the worst and at the last,  
+
+    Have found the place where England ends and England can begin.  
+
+    His [[Horse|horse]]-hoofs go before you,  
+
+    Far beyond your bursting tyres;  
+
+    And [[Time|time]] is bridged behind him  
+
+    And our sons are with our sires.  
+
+    A trailing meteor on the Downs he rides above the rotting towns,  
+
+    The Horseman of [[Apocalypse]], the Rider of the Shires.  
+
+    For [[London]] Bridge is broken down, broken down, broken down;  
+
+    Blow the horn of Huntingdon from Scotland to the sea--  
+
+    ... Only a flash of thunder-light, a flying dream of thunder-light,  
+
+    Had shown under the shattered sky a people that were free.  
+
+    THE TRINKETS  
+
+    A wandering world of rivers,  
+
+    A wavering world of trees,  
+
+    If the world grow dim and dizzy  
+
+    With all changes and degrees,  
+
+    It is but Our Lady's [[Mirror|mirror]]  
+
+    Hung dreaming in its place,  
+
+    Shining with only shadows  
+
+    Till she wakes it with her face.  
+
+    The standing whirlpool of the [[Stars|stars]],  
+
+    The [[Wheel|wheel]] of all the world,  
+
+    Is a ring on Our Lady's finger  
+
+    With the suns and moons empearled  
+
+    With [[Stars|stars]] for stones to please her  
+
+    Who sits playing with her rings  
+
+    With the great heart that a woman has  
+
+    And the [[Love|love]] of little things.  
+
+    Wings of the whirlwind of the world  
+
+    From here to Ispahan,  
+
+    Spurning the flying forests  
+
+    Are light as Our Lady's fan:  
+
+    For all things violent here and vain  
+
+    Lie open and all at ease  
+
+    Where God has girded heaven to guard  
+
+    Her holy vanities.  
+
+    THE PHILANTHROPIST  
+
+    _(With apologies to a beautiful poem.)_  
+
+    Abou Ben Adhem (may his tribe decrease  
+
+    By cautious birth-control and die in peace)  
+
+    Mellow with learning lightly took the word  
+
+    That marked him not with them that [[Love|love]] the Lord,  
+
+    And told the angel of the book and pen  
+
+    "Write me as one that loves his fellow-men:  
+
+    For them [[Alone|alone]] I labour; to reclaim  
+
+    The ragged roaming Bedouin and to tame  
+
+    To ordered service; to uproot their vine  
+
+    Who mock the [[Prophet]], being mad with wine,  
+
+    Let daylight through their tents and through their lives,  
+
+    Number their camels, even count their wives,  
+
+    Plot out the [[Desert|desert]] into streets and squares;  
+
+    And count it a more fruitful work than theirs  
+
+    Who lift a vain and visionary [[Love|love]]  
+
+    To your vague Allah in the skies above."  
+
+    Gently replied the angel of the pen:  
+
+    "Labour in peace and [[Love|love]] your fellow-men:  
+
+    And [[Love|love]] not God, since men [[Alone|alone]] are dear,  
+
+    Only [[Fear|fear]] God; for you have cause to [[Fear|fear]]."  
+
+    ON THE DOWNS  
+
+    When you came over the top of the world  
+
+    In the great day on the Downs,  
+
+    The air was crisp and the clouds were curled,  
+
+    When you came over the top of the world,  
+
+    And under your feet were spire and street  
+
+    And seven English towns.  
+
+    And I could not think that the [[Pride|pride]] was perished  
+
+    As you came over the down;  
+
+    Liberty, chivalry, all we cherished,  
+
+    Lost in a rattle of pelf and perished;  
+
+    Or the land we [[Love|love]] that you walked above  
+
+    Withering town by town.  
+
+    For you came out on the dome of the earth  
+
+    Like a vision of victory,  
+
+    Out on the great green dome of the earth  
+
+    As the great blue dome of the sky for girth,  
+
+    And under your feet the shires could meet  
+
+    And your eyes went out to sea.  
+
+    Under your feet the towns were seven,  
+
+    Alive and [[Alone|alone]] on high,  
+
+    Your back to the broad white wall of heaven;  
+
+    You were one and the towns were seven,  
+
+    Single and one as the soaring sun  
+
+    And your head upheld the sky.  
+
+    And I thought of a thundering [[Flag|flag]] unfurled  
+
+    And the roar of the burghers' bell:  
+
+    Beacons crackled and bolts were hurled  
+
+    As you came over the top of the world;  
+
+    And under your feet were chance and cheat  
+
+    And the slime of the slopes of hell.  
+
+    It has not been as the great [[Wind|wind]] spoke  
+
+    On the great green down that day:  
+
+    We have seen, wherever the wide [[Wind|wind]] spoke,  
+
+    [[Slavery]] slaying the English folk:  
+
+    The robbers of land we have seen command  
+
+    The rulers of land obey.  
+
+    We have seen the gigantic golden worms  
+
+    In the [[Garden|garden]] of paradise:  
+
+    We have seen the great and the wise make terms  
+
+    With the peace of snakes and the [[Pride|pride]] of worms,  
+
+    and them that plant make covenant  
+
+    With the locust and the lice.  
+
+    And the [[Wind|wind]] blows and the world goes on  
+
+    And the world can say that we,  
+
+    Who stood on the cliffs where the quarries shone,  
+
+    Stood upon clouds that the sun shone on:  
+
+    And the clouds dissunder and drown in thunder  
+
+    The news that will never be.  
+
+    Lady of all that have loved the people,  
+
+    Light over roads astray,  
+
+    Maze of steading and street and steeple,  
+
+    Great as a heart that has loved the people:  
+
+    Stand on the [[Crown|crown]] of the soaring down,  
+
+    Lift up your arms and pray.  
+
+    Only you I have not forgotten  
+
+    For wreck of the world's renown,  
+
+    Rending and ending of things gone rotten,  

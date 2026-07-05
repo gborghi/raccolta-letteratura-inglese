@@ -14,250 +14,590 @@ tags:
 </nav>
 
 
-     Cervantes on his galley sets the [[Sword|sword]] back in the sheath  
+     Less gold shall go astray, we say, less gold, if thus we choose,  
 
-     _([[Don John of Austria]] rides homeward with a wreath.)_  
+     Go to make harlots of the Greeks and hucksters of the Jews.  
 
-     And he sees across a weary land a straggling [[Road|road]] in Spain,  
+     "Less clouds before colossal feet redden in the under-light,  
 
-     Up which a lean and foolish knight for ever rides in vain,  
+     To the blind gods from Babylon less incense burn to-[[Night|night]],  
 
-     And he smiles, but not as Sultans smile, and settles back the blade....  
+     To the high beasts of Babylon, whose mouths make mock of right."  
 
-     _(But [[Don John of Austria]] rides [[Home|home]] from the Crusade_.)  
+     Babe of the thousand birthdays, we that are young yet grey,  
 
-     THE MARCH OF THE BLACK MOUNTAIN 1913  
+     White with the centuries, still can find no better thing to say,  
 
-     What will there be to remember  
+     We that with sects and whims and wars have wasted Christmas Day.  
 
-       Of us in the days to be?  
+     Light Thou Thy censer to Thyself, for all our fires are dim,  
 
-     Whose [[Faith|faith]] was a trodden ember  
+     Stamp Thou Thine image on our coin, for Caesar's face grows dim,  
 
-       And even our [[Doubt|doubt]] not free;  
+     And a dumb devil of [[Pride|pride]] and [[Greed|greed]] has taken hold of him.  
 
-     Parliaments built of paper,  
+     We bring Thee back great Christendom, churches and towns and towers.  
 
-       And the soft swords of gold  
+     And if our hands are glad, O God, to cast them down like [[Flowers|flowers]],  
 
-     That twist like a waxen taper  
+     'Tis not that they enrich Thine hands, but they are saved from ours.  
 
-       In the weak aggressor's hold;  
+     THE KINGDOM OF HEAVEN  
 
-     A hush around Hunger, slaying  
+     Said the Lord God, "Build a [[house]],  
 
-       A [[City|city]] of serfs unfed;  
+       Build it in the gorge of [[Death|death]],  
 
-     What shall we leave for a saying  
+     Found it in the throats of hell.  
 
-       To praise us when we are dead?  
+       Where the lost sea muttereth,  
 
-     But men shall remember the Mountain  
+     Fires and whirlwinds, build it [[Well|well]]."  
 
-       That broke its forest [[Chains|chains]],  
+     Laboured sternly flame and [[Wind|wind]],  
 
-     And men shall remember the Mountain  
+       But a little, and they cry,  
 
-       When it arches against the plains:  
+     "Lord, we [[Doubt|doubt]] of this Thy will,  
 
-     And christen their children from it  
+       We are blind and murmur why,"  
 
-       And season and [[Ship|ship]] and street,  
+     And the winds are murmuring still.  
 
-     When the Mountain came to Mahomet  
+     Said the Lord God, "Build a [[house]],  
 
-       And looked small before his feet.  
+       Cleave its treasure from the earth,  
 
-     His head was as high as the crescent  
+     With the jarring powers of hell  
 
-       Of the [[Moon|moon]] that seemed his [[Crown|crown]],  
+       Strive with formless might and mirth,  
 
-     And on glory of past and present  
+     Tribes and war-men, build it [[Well|well]]."  
 
-       The light of his eyes looked down;  
+     Then the raw red sons of men  
 
-     One hand went out to the morning  
+       Brake the soil, and lopped the wood,  
 
-       Over Brahmin and Buddhist slain,  
+     But a little and they shrill,  
 
-     And one to the West in scorning  
+       "Lord, we cannot view Thy good,"  
 
-       To point at the scars of Spain;  
+     And the wild men clamour still.  
 
-     One foot on the hills for warden  
+     Said the Lord God, "Build a [[house]],  
 
-       By the little Mountain trod;  
+       Smoke and iron, spark and steam,  
 
-     And one was in a [[Garden|garden]]  
+     Speak and vote and buy and sell;  
 
-       And stood on the [[Grave|grave]] of God.  
+       Let a new world throb and stream,  
 
-     But men shall remember the Mountain,  
+     Seers and makers, build it [[Well|well]]."  
 
-       Though it fall down like a tree,  
+     Strove the cunning men and strong,  
 
-     They shall see the sign of the Mountain  
+       But a little and they cry,  
 
-       [[Faith]] cast into the sea;  
+     "Lord, mayhap we are but clay,  
 
-     Though the crooked swords overcome it  
+       And we cannot know the why,"  
 
-       And the Crooked [[Moon]] ride free,  
+     And the wise men [[Doubt|doubt]] to-day.  
 
-     When the Mountain comes to Mahomet  
+     Yet though worn and deaf and blind,  
 
-       It has more life than he.  
+       Force and savage, [[King|king]] and seer  
 
-     But what will there be to remember  
+     Labour still, they know not why;  
 
-       Or what will there be to see--  
+       At the dim foundation here,  
 
-     Though our towns through a long November  
+     Knead and plough and think and ply.  
 
-       Abide to the end and be?  
+     Till at last, mayhap, hereon,  
 
-     Strength of slave and mechanic  
+       Fused of passion and accord,  
 
-       Whose iron is ruled by gold,  
+     [[Love]] its [[Crown|crown]] and peace its stay  
 
-     Peace of immortal panic,  
+       Rise the [[City|city]] of the Lord  
 
-       [[Love]] that is hate grown cold--  
+     That we darkly build to-day.  
 
-     Are these a bribe or a warning  
+     A [[Hymn|HYMN]] FOR THE CHURCH MILITANT  
 
-       That we turn not to the sun,  
+     Great God, that bowest sky and star,  
 
-     Nor look on the lands of morning  
+       Bow down our towering thoughts to thee,  
 
-       Where deeds at last are done?  
+     And grant us in a faltering war  
 
-     Where men shall remember the Mountain  
+       The firm feet of [[Humility|humility]].  
 
-       When [[Truth|truth]] forgets the plain--  
+     Lord, we that snatch the swords of flame,  
 
-     And walk in the way of the Mountain  
+       Lord, we that cry about Thy car.  
 
-       That did not fail in vain;  
+     We too are weak with [[Pride|pride]] and shame,  
 
-     [[Death]] and eclipse and comet,  
+       We too are as our foemen are.  
 
-       Thunder and seals that rend:  
+     Yea, we are mad as they are mad,  
 
-     When the Mountain came to Mahomet;  
+       Yea, we are blind as they are blind,  
 
-       Because it was the end.  
+     Yea, we are very sick and sad  
 
-     BLESSED ARE THE PEACEMAKERS  
+       Who bring good news to all mankind.  
 
-     Of old with a divided heart  
+     The dreadful joy Thy Son has sent  
 
-       I saw my people's [[Pride|pride]] expand,  
+       Is heavier than any care;  
 
-     Since a man's [[Soul|soul]] is torn apart  
+     We find, as [[Cain]] his punishment,  
 
-       By mother earth and fatherland.  
+       Our pardon more than we can bear.  
 
-     I knew, through many a tangled tale,  
+     Lord, when we cry Thee far and near  
 
-       Glory and [[Truth|truth]] not one but two:  
+       And thunder through all lands unknown  
 
-     [[King]], Constable, and Amirail  
+     The gospel into every ear,  
 
-       Took me like trumpets: but I knew  
+       Lord, let us not forget our own.  
 
-     A blacker thing than [[Blood|blood]]'s own dye  
+     Cleanse us from ire of creed or class,  
 
-       Weighed down great Hawkins on the sea;  
+       The anger of the idle tings;  
 
-     And Nelson turned his blindest eye  
+     Sow in our souls, like living grass,  
 
-       On Naples and on liberty.  
+       The laughter of all lowly things.  
 
-     Therefore to you my thanks, O throne,  
+     THE BEATIFIC VISION  
 
-       O thousandfold and frozen folk,  
+     Then Bernard smiled at me, that I should gaze  
 
-     For whose cold frenzies all your own  
+         But I had gazed already; caught the view,  
 
-       The Battle of the Rivers broke;  
+     Faced the unfathomable ray of rays  
 
-     Who have no [[Faith|faith]] a man could mourn.  
+         Which to itself and by itself is true.  
 
-       Nor [[Freedom|freedom]] any man desires;  
+     Then was my vision mightier than man's speech;  
 
-     But in a new clean light of scorn  
+         Speech snapt before it like a flying spell;  
 
-       Close up my quarrel with my sires;  
+     And [[Memory|memory]] and all that [[Time|time]] can teach  
 
-     Who bring my English heart to me,  
+         Before that splendid outrage failed and fell.  
 
-       Who mend me like a broken toy;  
+     As when one dreameth and remembereth not  
 
-     Till I can see you fight and flee,  
+         Waking, what were his pleasures or his pains,  
 
-       And laugh as if I were a boy.  
+     With every feature of the dream forgot,  
 
-     THE WIFE OF FLANDERS  
+         The printed passion of the dream remains:--  
 
-     Low and brown barns thatched and repatched and tattered  
+     Even such am I; within whose thoughts resides  
 
-       Where I had seven sons until to-day,  
+         No picture of that sight nor any part  
 
-     A little [[Hill|hill]] of hay your spur has scattered....  
+     Nor any [[Memory|memory]]: in whom abides  
 
-       This is not [[Paris]]. You have lost the way.  
+         Only a happiness within the heart,  
 
-     You, staring at your [[Sword|sword]] to find it brittle,  
+     A secret happiness that soaks the heart  
 
-       Surprised at the surprise that was your plan,  
+         As hills are soaked by slow unsealing [[Snow|snow]],  
 
-     Who shaking and breaking barriers not a little  
+     Or secret as that [[Wind|wind]] without a chart  
 
-       Find never more the [[Death|death]]-door of Sedan.  
+         Whereon did the wild [[Leaves|leaves]] of Sibyl go.  
 
-     Must I for more than carnage call you claimant,  
+     O light uplifted from all mortal knowing,  
 
-       Paying you a penny for each son you slay?  
+         Send back a little of that glimpse of thee.  
 
-     Man, the whole globe in gold were no repayment  
+     That of its glory I may kindle glowing  
 
-       For what _you_ have lost. And how shall I repay?  
+         One tiny spark for all men yet to be.  
 
-     What is the price of that red spark that caught me  
+     THE TRUCE OF CHRISTMAS  
 
-       From a kind farm that never had a name?  
+     Passionate peace is in the sky--  
 
-     What is the price of that dead man they brought me?  
+     And in the [[Snow|snow]] in silver sealed  
 
-       For other dead men do not look the same.  
+     The beasts are perfect in the field,  
 
-     How should I pay for one poor graven steeple  
+     And men seem men so suddenly--  
 
-       Whereon you shattered what you shall not know,  
+       (But take ten swords and ten times ten  
 
-     How should I pay you, miserable people?  
+       And blow the bugle in praising men;  
 
-       How should I pay you everything you owe?34  
+       For we are for all men under the sun,  
 
-     Unhappy, can I give you back your [[Honour|honour]]?  
+       And they are against us every one;  
 
-       Though I forgave would any man forget?  
+       And misers haggle and madmen clutch,  
 
-     While all the great green land has trampled on her  
+       And there is peril in praising much.  
 
-       The treason and terror of the [[Night|night]] we met.  
+       And we have the terrible tongues uncurled  
 
-     Not any more in vengeance or in pardon  
+       That praise the world to the sons of the world.)  
 
-       An old wife bargains for a bean that's hers.  
+     The idle humble [[Hill|hill]] and wood  
 
-     You have no word to break: no heart to harden.  
+     Are bowed upon the sacred birth,  
 
-       Ride on and prosper. You have lost your spurs.  
+     And for one little hour the earth  
 
-     THE CRUSADER RETURNS FROM CAPTIVITY  
+     Is lazy with the [[Love|love]] of good--  
 
-     I have come forth alive from the land of purple and [[Poison|poison]] and glamour,  
+       (But ready are you, and ready am I,  
 
-       Where the charm is strong as the torture, being chosen to change the mind;  
+       If the battle blow and the guns go by;  
+
+       For we are for all men under the sun,  
+
+       And they are against us every one;  
+
+       And the men that hate herd all together,  
+
+       To [[Pride|pride]] and gold, and the great white feather  
+
+       And the thing is graven in star and stone  
+
+       That the men who [[Love|love]] are all [[Alone|alone]].)  
+
+     Hunger is hard and [[Time|time]] is tough,  
+
+     But bless the beggars and kiss the kings,  
+
+     For [[Hope|hope]] has broken the heart of things,  
+
+     And nothing was ever praised enough.  
+
+       (But bold the shield for a sudden swing  
+
+       And point the [[Sword|sword]] when you praise a thing,  
+
+       For we are for all men under the sun,  
+
+       And they are against us every one;  
+
+       And mime and merchant, thane and thrall  
+
+       Hate us because we [[Love|love]] them all;  
+
+       Only till Christmastide go by  
+
+       Passionate peace is in the sky.)  
+
+     A [[Hymn|HYMN]]  
+
+     O God of earth and altar,  
+
+       Bow down and hear our cry  
+
+     Our earthly rulers falter,  
+
+       Our people drift and die;  
+
+     The walls of gold entomb us,  
+
+       The swords of scorn divide,  
+
+     Take not thy thunder from us,  
+
+       But take away our [[Pride|pride]].  
+
+     From all that terror teaches,  
+
+       From lies of tongue and pen,  
+
+     From all the easy speeches  
+
+       That comfort cruel men,  
+
+     From sale and profanation  
+
+       Of [[Honour|honour]] and the [[Sword|sword]],  
+
+     From [[Sleep|sleep]] and from damnation,  
+
+       Deliver us, good Lord!  
+
+     Tie in a living tether  
+
+       The prince and priest and thrall,  
+
+     Bind all our lives together,  
+
+       Smite us and save us all;  
+
+     In ire and exultation  
+
+       Aflame with [[Faith|faith]], and free,  
+
+     Lift up a living nation,  
+
+       A single [[Sword|sword]] to thee.  
+
+     A CHRISTMAS [[Song|SONG]] FOR THREE GUILDS  
+
+     TO BE SUNG A LONG [[Time|TIME]] AGO--OR HENCE  
+
+     _THE CARPENTERS_  
+
+     St. Joseph to the Carpenters said on a Christmas Day:  
+
+     "The master shall have patience and the prentice shall obey;  
+
+     And your word unto your women shall be nowise hard or wild:  
+
+     For the sake of me, your master, who have worshipped Wife and [[Child]].  
+
+     But softly you shall frame the fence, and softly carve the door,  
+
+     And softly plane the table--as to spread it for the poor,  
+
+     And all your thoughts be soft and white as the wood of the white tree.  
+
+     But if they tear the Charter, Jet the tocsin speak for me!  
+
+     Let the wooden sign above your shop be prouder to be scarred  
+
+     Than the [[Lion|lion]]-shield of Lancelot that hung at Joyous Garde."  
+
+     _THE SHOEMAKERS_  
+
+     St. Crispin to the shoemakers said on a Christmastide:  
+
+     "Who fashions at another's feet will get no good of [[Pride|pride]].  
+
+     They were bleeding on the Mountain, the feet that brought good news,  
+
+     The latchet of whose shoes we were not worthy to unloose.  
+
+     See that your feet offend not, nor lightly lift your head,  
+
+     Tread softly on the sunlit roads the bright [[Dust|dust]] of the dead.  
+
+     Let your own feet be shod with peace; be lowly all your lives.  
+
+     But if they touch the Charter, ye shall nail it with your knives.  
+
+     And the bill-blades of the commons drive in all as dense array  
+
+     As once a crash of arrows came, upon St. Crispin's Day."  
+
+     _THE PAINTERS_  
+
+     St. Luke unto the painters on Christmas Day he said:  
+
+     "See that the robes are white you dare to dip in gold and red;  
+
+     For only gold the kings can give, and only [[Blood|blood]] the saints;  
+
+     And his high task grows perilous that mixes them in paints.  
+
+     Keep you the ancient order; follow the men that knew  
+
+     The labyrinth of black and whits, the maze of green and blue;  
+
+     Paint mighty things, paint paltry things, paint silly things or sweet.  
+
+     But if men break the Charter, you may slay them in the street.  
+
+     And if you paint one post for them, then ... but you know it [[Well|well]],  
+
+     You paint a harlot's face to drag all heroes down to hell."  
+
+     _ALL TOGETHER_  
+
+     Almighty God to all mankind on Christmas Day said He:  
+
+     "I rent you from the old red hills and, rending, made you free.  
+
+     There was charter, there was challenge; in a blast of breath I gave;  
+
+     You can be all things other; you cannot be a slave.  
+
+     You shall be tired and tolerant of fancies as they fade,  
+
+     But if men [[Doubt|doubt]] the Charter, ye shall call on the Crusade--  
+
+     Trumpet and torch and catapult, cannon and bow and blade,  
+
+     Because it was My challenge to all the things I made."  
+
+     THE NATIVITY  
+
+     The thatch on the roof was as golden,  
+
+       Though dusty the straw was and old,  
+
+     The [[Wind|wind]] had a peal as of trumpets,  
+
+       Though blowing and barren and cold,  
+
+     The mother's hair was a glory  
+
+       Though loosened and torn,  
+
+     For under the eaves in the gloaming  
+
+           A [[Child|child]] was born.  
+
+     Have a myriad children been quickened.  
+
+       Have a myriad children grown old,  
+
+     Grown gross and unloved and embittered,  
+
+       Grown cunning and savage and cold?  
+
+     God abides In a terrible patience,  
+
+       Unangered, unworn,  
+
+     And again for the [[Child|child]] that was squandered  
+
+           A [[Child|child]] is born.  
+
+     What know we of æons behind us,  
+
+       Dim dynasties lost long ago,  
+
+     Huge empires, like [[Dreams|dreams]] unremembered,  
+
+       Huge cities for ages laid low?  
+
+     This at least--that with blight and with blessing  
+
+       With flower and with thorn,  
+
+     [[Love]] was there, and his cry was among them,  
+
+           "A [[Child|child]] is born."  
+
+     Though the darkness be noisy with systems,  
+
+       Dark fancies that fret and disprove,  
+
+     Still the plumes stir around us, above us  
+
+       The wings of the [[Shadow|shadow]] of [[Love|love]]:  
+
+     Oh! princes and priests, have ye seen it  
+
+       Grow pale through your scorn.  
+
+     Huge dawns [[Sleep|sleep]] before us, deep changes,  
+
+           A [[Child|child]] is born.  
+
+     And the rafters of toil still are gilded  
+
+       With the [[Dawn|dawn]] of the star of the heart,  
+
+     And the wise men draw near in the twilight,  
+
+       Who are weary of learning and art,  
+
+     And the face of the [[Tyrant|tyrant]] is darkened.  
+
+       His spirit is torn,  
+
+     For a new [[King]] is enthroned; yea, the sternest,  
+
+           A [[Child|child]] is born.  
+
+     And the mother still joys for the whispered  
+
+       First stir of unspeakable things,  
+
+     Still feels that high moment unfurling  
+
+       Red glory of Gabriel's wings.  
+
+     Still the babe of an hour is a master  
+
+       Whom angels adorn,  
+
+     Emmanuel, [[Prophet|prophet]], anointed,  
+
+           A [[Child|child]] is born.  
+
+     And thou, that art still in thy cradle,  
+
+       The sun being [[Crown|crown]] for thy brow.  
+
+     Make answer, our flesh, make an answer,  
+
+       Say, whence art thou come--who art thou?  
+
+     Art thou come back on earth for our teaching  
+
+       To train or to warn--?  
+
+     Hush--how may we know?--knowing only  
+
+           A [[Child|child]] is born.  
+
+     A [[Child|CHILD]] OF THE SNOWS  
+
+     There is heard a [[Hymn|hymn]] when the panes dim  
+
+       And never before or again,  
+
+     When the nights are strong with a darkness long,  
+
+       And the dark is alive with rain.  
+
+     Never we know but in sleet and in [[Snow|snow]],  
+
+       The place where the great fires are,  
+
+     That the midst of the earth is a raging mirth  
+
+       And the heart of the earth a star.  
+
+     And at [[Night|night]] we win to the ancient inn  
+
+       Where the [[Child|child]] in the [[Frost|frost]] is furled,  
+
+     We follow the feet where all souls meet  
+
+       At the inn at the end of the world.  
+
+     The gods lie dead where the [[Leaves|leaves]] lie red,  
+
+       For the flame of the sun is flown.  
+
+     The gods lie cold where the [[Leaves|leaves]] lie gold.  
+
+       And a [[Child]] comes forth [[Alone|alone]].  
+
+     A WORD  
+
+     A word came forth in Galilee, a word like to a star;  
+
+     It climbed and rang and blessed and burnt wherever brave hearts are;  
+
+     A word of sudden secret [[Hope|hope]], of trial and increase  
+
+     Of wrath and pity fused in [[Fire|fire]], and passion kissing peace.  
+
+     A star that o'er the citied world beckoned, a [[Sword|sword]] of flame;  
+
+     A star with myriad thunders tongued: a mighty word there came.  
+
+     The wedge's dart passed into it, the groan of timberwains,  
+
+     The ringing of the rivet nails, the shrieking of the planes;  

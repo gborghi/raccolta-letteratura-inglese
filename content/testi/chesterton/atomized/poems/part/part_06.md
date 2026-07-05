@@ -14,246 +14,556 @@ tags:
 </nav>
 
 
-       Under the [[deluge]] rod,  
+     Heed not if half-wits mock your broken blade:  
 
-     One nameless, tattered, broken man  
+     Mammon our master doeth all things ill.  
 
-       Stood up and drank to God.  
+     You are the [[Fool]] that charged a windmill. Still,  
 
-     Sun has been where the rain is now,  
+     The Miller is a Knave; and was afraid.  
 
-       [[Bees]] in the heat to hum,  
+     Lay down your [[Sword|sword]]. Ruin will know her own.  
 
-     Haply a humming maiden came,  
+     Let each small statesman sow his weak wild oat,  
 
-       Now let the [[deluge|Deluge]] come:  
+     Or turn his coat to decorate his coat,  
 
-     Brown of aureole, green of garb,  
+     Or take the throne and perish by the throne.  
 
-       Straight as a golden rod,  
+     Lay down your [[Sword|sword]]. And let the White [[Flag]] fade  
 
-     Drink to the throne of thunder now!  
+     To grey; and let the Red [[Flag]] fade to pink,  
 
-       Drink to the wrath of God.  
+     For these that climb and climb; and cannot sink  
 
-     High in the wreck I held the cup,  
+     So deep as [[Death|death]] and [[Honour|honour]], Déroulède.  
 
-       I clutched my rusty [[Sword|sword]],  
+     [[Sonnet|SONNET]] WITH THE COMPLIMENTS OF THE SEASON  
 
-     I cocked my tattered feather  
+     TO A POPULAR LEADER MUCH TO BE CONGRATULATED  
 
-       To the glory of the Lord.  
+     ON THE AVOIDANCE OF A STRIKE AT CHRISTMAS.  
 
-     Not undone were the heaven and earth,  
+     I know you. You will hail the huge release,  
 
-       This hollow world thrown up,  
+     Saying the sheathing of a thousand swords,  
 
-     Before one man had stood up straight!  
+     In [[Silence|silence]] and injustice, [[Well|well]] accords  
 
-       And drained it like a cup.  
+     With Christmas [[Bells|bells]]. And you will gild with grease  
 
-     THE STRANGE MUSIC  
+     The papers, the employers, the police,  
 
-     Other loves may sink and settle, other loves may loose and slack,  
+     And vomit up the void your windy words  
 
-     But I wander like a minstrel with a harp upon his back,  
+     To your New [[Christ]]; who bears no whip of cords  
 
-     Though the harp be on my bosom, though I finger and I fret,  
+     For them that traffic in the doves of peace.  
 
-     Still, my [[Hope|hope]] is all before me: for I cannot play it yet.  
+     The feast of friends, the candle-fruited tree,  
 
-     In your strings is hid a music that no hand hath ere let fall,  
+     I have not failed to [[Honour|honour]]. And I say  
 
-     In your [[Soul|soul]] is sealed a pleasure that you have not known at all;  
+     It would be better for such men as we,  
 
-     Pleasure subtle as your spirit, strange and slender as your frame,  
+     And we be nearer Bethlehem, it we lay  
 
-     Fiercer than the [[Pain|pain]] that folds you, softer than your sorrow's name.  
+     Shot dead on scarlet snows for liberty,  
 
-     Not as mine, my [[Soul|soul]]'s anointed, not as mine the rude and light  
+     Dead in the daylight upon Christmas Day.  
 
-     Easy mirth of many faces, swaggering [[Pride|pride]] of [[Song|song]] and fight;  
+     A [[Song|SONG]] OF SWORDS  
 
-     Something stranger, something sweeter, something waiting you afar,  
+          "A DROVE OF CATTLE CAME INTO A VILLAGE CALLED  
 
-     Secret as your stricken senses, [[Magic|magic]] as your sorrows are.  
+          SWORDS, AND WAS STOPPED BY THE RIOTERS."---_Daily Paper_.  
 
-     But on this, God's harp supernal, stretched but to be stricken once.  
+     In the place called Swords on the Irish [[Road|road]]  
 
-     Hoary [[Time]] is a beginner, Life a bungler, [[Death]] a dunce.  
+     It is told for a new renown  
 
-     But I will not [[Fear|fear]] to match them--no, by God, I will not [[Fear|fear]],  
+     How we field the horns of the cattle, and how  
 
-     I will learn you, I will play you and the [[Stars|stars]] stand still to hear.  
+     We will hold the horns of the devil now  
 
-     THE GREAT MINIMUM  
+     Ere the lord of bell, with the horn on his brow,  
 
-     It is something to have wept as we have wept,  
+         Is crowned in Dublin town  
 
-     It is something to have done as we have done,  
+     Light in the East and light in the West,  
 
-     It is something to have watched when all men slept,  
+     And light on the cruel lords,  
 
-     And seen the [[Stars|stars]] which never see the sun.  
+     On the souls that suddenly all men knew,  
 
-     It is something to have smelt the mystic [[Rose|rose]],  
+     And the green [[Flag|flag]] flew and the red [[Flag|flag]] flew,  
 
-     Although it break and leave the thorny rods,  
+     And many a [[Wheel|wheel]] of the world stopped, too,  
 
-     It is something to have hungered once as those  
+         When the cattle were stopped at Swords.  
 
-     Must hunger who have ate the bread of gods.  
+     Be they sinners or less than saints  
 
-     To have seen you and your unforgotten face,  
+     That smite in the street for rage,  
 
-     Brave as a blast of trumpets for the fray.  
+     We know where the shame shines bright; we know  
 
-     Pure as white lilies in a watery space,  
+     You that they smite at, you their foe,  
 
-     It were something, though you went from me to-day.  
+     Lords of the lawless wage and low.  
 
-     To have known the things that from the weak are furled,  
+         This is your lawful wage.  
 
-     Perilous ancient passions, strange and high;  
+     You pinched a [[Child|child]] to a torture price  
 
-     It is something to be wiser than the world,  
+     That you dared not name in words;  
 
-     It is something to be older than the sky.  
+     So black a jest was the silver bit  
 
-     In a [[Time|time]] of sceptic moths and cynic rusts,  
+     That your own speech shook for the shame of  
 
-     And fatted lives that of their sweetness tire,  
+     And the coward was plain as a cow they hit  
 
-     In a world of flying loves and fading lusts,  
+         When the cattle have strayed at Swords.  
 
-     It is something to be sure of a [[Desire|desire]].  
+     The [[Wheel|wheel]] of the torment of wives went round  
 
-     Lo, blessed are our ears for they have heard;  
+     To break men's brotherhood;  
 
-     Yea, blessed are our eyes for they have seen:  
+     You gave the good Irish [[Blood|blood]] to grease  
 
-     Let thunder break on man and beast and bird  
+     The clubs of your country's enemies;  
 
-     And the [[Lightning|lightning]]. It is something to have been.  
+     You saw the brave man beat to the knees:  
 
-     THE MORTAL ANSWERS  
+         And you saw that it was good.  
 
-                   .................COME AWAY--  
+     The rope of the rich is long and long--  
 
-          WITH THE FAIRIES, HAND IN HAND,  
+     The longest of hangmen's cords;  
 
-          FOR THE WORLD IS MORE FULL OF WEEPING  
+     But the kings and crowds are holding their bream,  
 
-          THAN YOU CAN UNDERSTAND.  
+     In a giant [[Shadow|shadow]] o'er all beneath  
 
-                                _W.B. Yeats_.  
+     Where God stands holding the scales of [[Death]]  
 
-     From the Wood of the Old Wives' Fables  
+         Between the cattle and Swords.  
 
-       They glittered out of the grey,  
+     Haply the lords that hire and lend,  
 
-     And with all the Armies of Elf-land  
+     The lowest of all men's lords,  
 
-       I strove like a beast at bay;  
+     Who sell their kind like kine at a fair.  
 
-     With only a right arm wearied,  
+     Will find no head of their cattle there;  
 
-       Only a red [[Sword|sword]] worn,  
+     But faces of men where cattle were:  
 
-     And the [[Pride|pride]] of the [[house|House]] of Adam  
+         Faces of men--and Swords.  
 
-       That holdeth the [[Stars|stars]] in scorn.  
+     And the name shining and terrible,  
 
-     For they came with [[Chains|chains]] of [[Flowers|flowers]]  
+     The sternest of all man's words,  
 
-       And lilies lances free,  
+     Still mark that place to seek or shun,  
 
-     There in the quiet greenwood  
+     In the streets where the struggling cattle run--  
 
-       To take my grief from me.  
+     Grass and a [[Silence|silence]] of judgment done  
 
-     And I said, "Now all is shaken  
+         In the place that is called Swords.  
 
-       When heavily hangs the brow,  
+     A [[Song|SONG]] OF DEFEAT  
 
-     When the [[Hope|hope]] of the years is taken  
+     The line breaks and the guns go under,  
 
-       The last star sunken. Now--  
+       The lords and the lackeys ride the plain;  
 
-     "Hear, you chattering cricket,  
+     I draw deep breaths of the [[Dawn|dawn]] and thunder,  
 
-       Hear, you spawn of the sod,  
+       And the whole of my heart grows young again.  
 
-     The strange strong cry in the darkness  
+     For our Chiefs said "Done," and I did not deem it;  
 
-       Of one man praising God,  
+       Our Seers said "Peace," and it was not peace;  
 
-     "That out of the [[Night|night]] and nothing  
+     Earth will grow worse till men redeem it,  
 
-       With travail of birth he came  
+       And wars more evil, ere all wars cease.  
 
-     To stand one hour in the sunlight  
+     But the old flags reel and the old drums rattle.  
 
-       Only to say her name.  
+       As once in my life they throbbed and reeled;  
 
-     "Falls through her hair the sunshine  
+     I have found ray youth in the lost battle,  
 
-       In showers; it touches, see,  
+       I have found my heart on the [[Battlefield|battlefield]].  
 
-     Her high bright cheeks in turning;  
+         For we that fight till the world is free,  
 
-       Ah, Elfin Company,  
+         We are not easy in victory:  
 
-     "The world is hot and cruel,  
+         We have known each other too long, my brother,  
 
-       We are weary of heart and hand.  
+         And fought each other, the world and we.  
 
-     But the world is more full of glory  
+     And I dream of the days when work was scrappy,  
 
-       Than you can understand."  
+       And rare in our pockets the mark of the mint,  
 
-     A [[Marriage|MARRIAGE]] [[Song|SONG]]  
+     When we were angry and poor and happy,  
 
-     Why should we reck of hours that rend  
+       And proud of seeing our names in print.  
 
-       While we two ride together?  
+     For so they conquered and so we scattered,  
 
-     The heavens rent from end to end  
+       When the Devil rode and his [[dogs]] smelt gold,  
 
-       Would be but windy weather,  
+     And the peace of a harmless folk was shattered;  
 
-     The strong [[Stars|stars]] shaken down in spate  
+       When I was twenty and odd years old.  
 
-       Would be a shower of [[spring]],  
+     When the mongrel men that the market classes  
 
-     And we should list the trump of fate  
+       Had slimy hands upon England's rod,  
 
-       And hear a linnet sing.  
+     And [[Sword|sword]] in hand upon Afric's passes  
 
-     We break the line with stroke and luck,  
+       Her last Republic cried to God.  
 
-       The arrows run like rain,  
+         For the men no lords can buy or sell,  
 
-     If you be struck, or I be struck,  
+         They sit not easy when all goes [[Well|well]].  
 
-       There's one to strike again.  
+         They have said to each other what naught can smother,  
 
-     If you befriend, or I befriend,  
+         They have seen each other, our souls and hell.  
 
-       The strength is in us twain,  
+     It is all as of old; the empty clangour.  
 
-     And good things end and bad things end,  
+       The Nothing scrawled on a five-foot page,  
 
-       And you and I remain.  
+     The huckster who, mocking holy anger,  
 
-     Why should we reck of ill or [[Well|well]]  
+       Painfully paints his face with rage.  
 
-       While we two ride together?  
+     And the [[Faith|faith]] of the poor is faint and partial,  
 
-     The fires that over Sodom fell  
+       And the [[Pride|pride]] of the rich is all for sale,  
 
-       Would be but sultry weather.  
+     And the chosen heralds of England's Marshal  
 
-     Beyond all ends to all men given  
+       Are the sandwich-men of the "Daily Mail."  
 
-       Our race is far and fell,  
+     And the niggards that dare not give are glutted,  
+
+       And the feeble that dare not fail are strong,  
+
+     So while the [[City]] of Toil is gutted,  
+
+       I sit in the saddle and sing my [[Song|song]].  
+
+         For we that fight till the world is free,  
+
+         We have no comfort in victory;  
+
+         We have read each other as [[Cain]] his brother,  
+
+         We know each other, these slaves and we.  
+
+     [[Sonnet|SONNET]]  
+
+          ON HEARING A LANDLORD ACCUSED (FALSELY, FOR  
+
+          ALL THE BARD CAN SAY) OF NEGLECTING ONE OF THE  
+
+          NUMEROUS WHITE HORSES THAT WERE OR WERE NOT  
+
+          CONNECTED WITH ALFRED THE GREAT  
+
+     If you have picked your lawn of [[Leaves|leaves]] and snails,  
+
+     If you have told your valet, even with oaths,  
+
+     Once a week or so, to brush your clothes.  
+
+     If you have dared to clean your teeth, or nails,  
+
+     While the [[Horse]] upon the holy mountain fails--  
+
+     Then God that Alfred to his earth betrothes  
+
+     Send on you screaming all that [[Honour|honour]] loathes,  
+
+     Horsewhipping, Hounsditch, debts, and _Daily Mails_.  
+
+     Can you not even conserve? For if indeed  
+
+     The White [[Horse]] fades; then closer creeps the fight  
+
+     When we shall scour the face of England white,  
+
+     Plucking such men as you up like a weed,  
+
+     And fling them far beyond a shaft shot right  
+
+     When Wessex went to battle for the creed.  
+
+     AFRICA  
+
+     A sleepy people, without priests or kings,  
+
+     Dreamed here, men say, to drive us to the sea:  
+
+     O let us drive ourselves! For it is free  
+
+     And smells of [[Honour|honour]] and of English things.  
+
+     How came we brawling by these bitter springs,  
+
+       We of the North?--two kindly nations--we?  
+
+     Though the dice rattles and the clear coin rings,  
+
+       Here is no place for living men to be.  
+
+     Leave them the gold that worked and whined for it,  
+
+       Let them that have no nation anywhere  
+
+         Be native here, and fat and full of bread;  
+
+     But we, whose sins were human, we will quit  
+
+       The land of [[Blood|blood]], and leave these vultures there,  
+
+         Noiselessly happy, feeding on the dead.  
+
+     THE DEAD [[Hero|HERO]]  
+
+     We never saw you, like our sires,  
+
+       For whom your face was [[Freedom]]'s face,  
+
+     Nor know what office-tapes and wires  
+
+       With such strong cords may interlace;  
+
+     We know not if the statesmen then  
+
+       Were fashioned as the sort we see,  
+
+     We know that not under your ken  
+
+       Did England laugh at Liberty.  
+
+     Yea, this one thing is known of you,  
+
+       We know that not till you were dumb,  
+
+     Not till your course was thundered through,  
+
+       Did Mammon see his kingdom come.  
+
+     The [[songs]] of theft, the swords of hire,  
+
+       The clerks that raved, the troops that ran  
+
+     The empire of the world's [[Desire|desire]],  
+
+       The [[Dance|dance]] of all the dirt began.  
+
+     The happy jewelled alien men  
+
+       Worked then but as a little leaven;  
+
+     From some more modest palace then  
+
+       The [[Soul]] of Dives stank to Heaven.  
+
+     But when they planned with lisp and leer  
+
+       Their careful war upon the weak,  
+
+     They smote your [[Body|body]] on its bier,  
+
+       For surety that you could not speak.  
+
+     A [[Hero|hero]] in the [[Desert|desert]] died;  
+
+       Men cried that saints should bury him.  
+
+     And round the [[Grave|grave]] should guard and ride,  
+
+       A chivalry of Cherubim.  
+
+     God said: "There is a better place,  
+
+       A nobler trophy and more tall;  
+
+     The beasts that fled before his face  
+
+       Shall come to make his funeral.  
+
+     "The mighty vermin of the void  
+
+       That hid them from his bended bow,  
+
+     Shall crawl from caverns overjoyed,  
+
+       Jackal and snake and carrion crow.  
+
+     And perched above the vulture's eggs,  
+
+       Reversed upon its hideous head,  
+
+     A blue-faced ape shall wave its legs  
+
+       To tell the world that he is dead."  
+
+     AN ELECTION ECHO 1906  
+
+     This is their trumpet ripe and rounded,  
+
+     They have burnt the wheat and gathered the chaff,  
+
+     And we that have fought them, we that have watched them,  
+
+     Have we at least not cause to laugh?  
+
+     Never so low at least we stumbled--  
+
+     Dead we have been but not so dead  
+
+     As these that live on the life they squandered,  
+
+     As these that drink of the [[Blood|blood]] they shed.  
+
+     We never boasted the thing we blundered,  
+
+     We never Haunted the thing that fails,  
+
+     We never quailed from the living laughter,  
+
+     To howl to the dead who tell no tales,  
+
+     'Twas another finger at least that pointed  
+
+     Our wasted men or our emptied bags,  
+
+     It was not we that sounded the trumpet  
+
+     In front of the triumph of wrecks and rags.  
+
+     [[Fear]] not these, they have made their bargain,  
+
+     They have counted the cost of the last of raids,  
+
+     They have staked their lives on the things that live not,  
+
+     They have burnt their [[house]] for a [[Fire|fire]] that fades.  
+
+     Five years ago and we might have feared them,  
+
+     Been drubbed by the coward and taught by the dunce;  
+
+     [[Truth]] may endure and be told and re-echoed,  
+
+     But a lie can never be young but once.  
+
+     Five years ago and we might have feared them;  
+
+     Now, when they lift the laurelled brow,  
+
+     There shall naught go up from our hosts assembled  
+
+     But a laugh like thunder. We know them now.  
+
+     THE [[Song|SONG]] OF THE WHEELS  
+
+     WRITTEN DURING A FRIDAY AND SATURDAY IN AUGUST 1911.  
+
+     [[King]] Dives he was waiting in his [[Garden|garden]] all [[Alone|alone]],  
+
+     Where his [[Flowers|flowers]] are made of iron and his trees are made of stone,  
+
+     And his hives are full of thunder and the [[Lightning|lightning]] leaps and kills,  
+
+     For the mills of God grind slowly; and he works with other mills.  
+
+     Dives found a mighty [[Silence|silence]]; and he missed the throb and leap,  
+
+     The noise of all the sleepless creatures singing him to [[Sleep|sleep]].  
+
+     And he said: "A screw has fallen--or a bolt has slipped aside--  
+
+     Some little thing has shifted": and the little things replied:  
+
+     "Call upon the wheels, master, call upon the wheels;  
+
+     We are taking rest, master, finding how it feels,  
+
+     Strict the law of thine and mine: theft we ever shun--  
+
+     All the wheels are thine, master--tell the wheels to run!  
+
+     Yea, the Wheels are mighty gods--set them going then!  
+
+     We are only men, master, have you heard of men?  
+
+     "O, they live on earth like fishes, and a gasp is all their breath.  
+
+     God for empty honours only gave them [[Death|death]] and scorn of [[Death|death]],  
+
+     And you walk the worms for carpet and you tread a stone that squeals--  
+
+     Only, God that made them worms did not make them wheels.  
+
+     Man shall shut his heart against you and you shall not find the [[spring]].  
+
+     Man who wills the thing he wants not, the intolerable thing--  
+
+     Once he likes his empty belly better than your empty head  
+
+     Earth and heaven are dumb before him: he is stronger than the dead.  
+
+     "Call upon the wheels, master, call upon the wheels,  
+
+     Steel is beneath your hand, stone beneath your heels,  
+
+     Steel will never laugh aloud, hearing what we heard,  
+
+     Stone will never break its heart, mad with [[Hope|hope]] deferred--  
+
+     Men of tact that arbitrate, slow [[Reform|reform]] that heals--  
+
+     Save the stinking grease, master, save it for the wheels.  
+
+     "[[King]] Dives in the [[Garden|garden]], we have naught to give or hold--  
+
+     (Even while the baby came alive the rotten sticks were sold.)  
+
+     The savage knows a cavern and the peasants keep a plot,  
+
+     Of all the things that men have had--lo! we have them not.  
+
+     Not a scrap of earth where ants could lay their eggs--  
+
+     Only this poor lump of earth that walks about on legs--  
+
+     Only this poor wandering mansion, only these two walking trees.  
+
+     Only hands and hearts and stomachs--what have you to do with these?  
+
+     You have engines big and burnished, tall beyond our fathers' ken,  
+
+     Why should you make peace and traffic with such feeble folk as men?  
+
+     "Call upon the wheels, master, call upon the wheels,  
+
+     They are deaf to demagogues, deaf to crude appeals;  
+
+     Are our hands our own, master?--how the doctors [[Doubt|doubt]]!  
+
+     Are our legs our own, master? wheels can run without--  

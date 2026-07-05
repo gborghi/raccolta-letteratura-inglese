@@ -14,228 +14,694 @@ tags:
 </nav>
 
 
-    Finds the wild windfall of a little kindness  
+      That is the life of a man.  
 
-    And shakes to think that all the world has wings.  
+    [[Sonnet|SONNET]]  
 
-    When the one head that turns the heavens in turning  
+    High on the wall that holds Jerusalem  
 
-    Moves yet as lightly as a lingering bird,  
+    I saw one stand under the [[Stars|stars]] like stone.  
 
-    And red and random, blown astray but burning,  
+    And when I perish it shall not be known  
 
-    Like a lost spark goes by the glorious word.  
+    Whether he lived, some strolling son of Shem,  
 
-    Make not this sex, this other side of things,  
+    Or was some great [[Ghost|ghost]] wearing the diadem  
 
-    A thing less distant than the world's [[Desire|desire]];  
+    Of Solomon or Saladin on a throne:  
 
-    What colour to the end of evening clings  
+    I only know, the features being unshown,  
 
-    And what far cry of frontiers and what [[Fire|fire]]  
+    I did not dare draw near and look on them.  
 
-    Fallen too far beyond the sun for seeking,  
+    Did ye not guess ... the diadem might be  
 
-    Let it divide us though our kingdom come;  
+    Plaited in stranger style by hands of hate ...  
 
-    With a far signal in our secret speaking  
+    But when I looked, the wall was desolate  
 
-    To hang the proud horizon in our [[Home|home]].  
+    And the grey starlight powdered tower and tree:  
 
-    Once we were one, a shapeless cloud that lingers  
+    And vast and vague beyond the Golden Gate  
 
-    Loading the seas and shutting out the skies,  
+    Heaved Moab of the [[Mountains|mountains]] like a sea.  
 
-    One with the woods, a [[Monster|monster]] of myriad fingers,  
+    FANTASIA  
 
-    You laid on me no finger of surprise.  
+    The happy men that lose their heads  
 
-    One with the [[Stars|stars]], a god with myriad eyes,  
+    They find their heads in heaven,  
 
-    I saw you nowhere and was blind for scorn:  
+    As cherub heads with cherub wings,  
 
-    One till the world was riven and the rise  
+    And cherub haloes even:  
 
-    Of the white days when you and I were born.  
+    Out of the infinite evening lands  
 
-    Darkens the world: the world-old fetters rattle;  
+    Along the sunset sea,  
 
-    And these that have no [[Hope|hope]] behind the sun  
+    Leaving the purple fields behind,  
 
-    May feed like bondmen and may breed like cattle,  
+    The cherub wings beat down the [[Wind|wind]]  
 
-    One in the darkness as the dead are one;  
+    Back to the groping [[Body|body]] and blind  
 
-    Us if the rended [[Grave|grave]] give up its glory  
+    As the bird back to the tree.  
 
-    Trumpets shall summon asunder and face to face:  
+    Whether the plumes be passion-red  
 
-    We will be strangers in so strange a story  
+    For him that truly dies  
 
-    And [[Wonder|wonder]], meeting in so wild a place.  
+    By headsmen's blade or battle-axe,  
 
-    Ah, not in vain or utterly for loss  
+    Or blue like butterflies,  
 
-    Come even the black [[Flag|flag]] and the battle-hordes,  
+    For him that lost it in a lane  
 
-    If these grey devils flee the sign of the [[Cross|cross]]  
+    In April's fits and starts,  
 
-    Even in the symbol of the crossing swords.  
+    His folly is forgiven then:  
 
-    Nor shall [[Death|death]] [[Doubt|doubt]] Who made our souls alive  
+    But higher, and far beyond our ken,  
 
-    Swords meeting and not stakes set side by side,  
+    Is the healing of the unhappy men,  
 
-    Bade us in the sunburst and the thunder thrive  
+    The men that lost their hearts.  
 
-    Earthquake and [[Dawn]]; the bridegroom and the bride.  
+    Is there not pardon for the brave  
 
-    [[Death]] and not [[Dreams|dreams]] or [[Doubt|doubt]] of things undying,  
+    And broad release above,  
 
-    Of whose the holy hearth or whose the [[Sword|sword]];  
+    Who lost their heads for liberty  
 
-    Though sacred spirits dissever in strong crying  
+    Or lost their hearts for [[Love|love]]?  
 
-    Into Thy hands, but Thy two hands, O Lord,  
+    Or is the wise man wise indeed  
 
-    Though not in Earth as once in Eden standing  
+    Whom larger thoughts keep whole?  
 
-    So plain again we see Thee what thou art,  
+    Who sees life equal like a chart,  
 
-    As in this blaze, the blasting and the branding  
+    Made strong to play the saner part,  
 
-    Of this wild wedding where we meet and part.  
+    And keep his head and keep his heart,  
 
-    THE MYSTERY  
+    And only lose his [[Soul|soul]].  
 
-    If sunset clouds could grow on trees  
+    A CHRISTMAS [[carol|CAROL]]  
 
-    It would but match the may in flower;  
+    _(The Chief Constable has issued a statement declaring that  
 
-    And skies be underneath the seas  
+    [[carol]] singing in the streets by children is illegal, and morally  
 
-    No topsyturvier than a shower.  
+    and physically injurious. He appeals to the public to discourage  
 
-    If [[Mountains|mountains]] [[Rose|rose]] on wings to wander  
+    the practice.--Daily Paper.)_  
 
-    They were no wilder than a cloud;  
+    God rest you merry gentlemen,  
 
-    Yet all my praise is mean as slander,  
+    Let nothing you dismay;  
 
-    Mean as these mean words spoken aloud.  
+    The Herald Angels cannot sing,  
 
-    And never more than now I know  
+    The cops arrest them on the wing,  
 
-    That man's first heaven is far behind;  
+    And warn them of the docketing  
 
-    Unless the blazing seraph's blow  
+    Of anything they say.  
 
-    Has left him in the [[Garden|garden]] blind.  
+    God rest you merry gentlemen,  
 
-    Witness, O Sun that blinds our eyes,  
+    May nothing you dismay:  
 
-    Unthinkable and unthankable [[King]],  
+    On your reposeful cities lie  
 
-    That though all other [[Wonder|wonder]] dies  
+    Deep [[Silence|silence]], broken only by  
 
-    I [[Wonder|wonder]] at not wondering.  
+    The motor horn's melodious cry,  
 
-    "THE MYTH OF [[Arthur|ARTHUR]]"  
+    The hooter's happy bray.  
 
-    O learned man who never learned to learn,  
+    So, when the [[Song|song]] of children ceased  
 
-    Save to deduce, by timid steps and small,  
+    And Herod was obeyed,  
 
-    From towering smoke that [[Fire|fire]] can never burn  
+    In his high hall Corinthian  
 
-    And from tall tales that men were never tall.  
+    With purple and with peacock fan,  
 
-    Say, have you thought what manner of man it is  
+    Rested that merry gentleman;  
 
-    Of whom men say "He could strike giants down"?  
+    And nothing him dismayed.  
 
-    Or what strong memories over [[Time|time]]'s abyss  
+    TO CAPTAIN FRYATT  
 
-    Bore up the pomp of Camelot and the [[Crown|crown]].  
+    Trampled yet red is the last of the embers,  
 
-    And why one banner all the background fills,  
+    Red the last cloud of a sun that has set;  
 
-    Beyond the pageants of so many spears,  
+    What of your sleeping though Flanders remembers,  
 
-    And by what witchery in the western hills  
+    What of your waking, if England forget?  
 
-    A throne stands empty for a thousand years.  
+    Why should you share in the hearts that we harden,  
 
-    Who hold, unheeding this immense impact,  
+    In the shame of our [[Nature|nature]], who see it and live?  
 
-    Immortal story for a mortal sin;  
+    How more than the godly the greedy can pardon,  
 
-    Lest human [[Fable|fable]] touch historic fact,  
+    How [[Well|well]] and how quickly the hungry forgive.  
 
-    Chase myths like moths, and fight them with a pin.  
+    Ah, [[Well|well]] if the soil of the stranger had wrapped you,  
 
-    Take comfort; rest--there needs not this ado.  
+    While the lords that you served and the friends that you knew  
 
-    You shall not be a myth, I promise you.  
+    Hawk in the marts of the tyrants that trapped you,  
 
-    THE OLD [[Song|SONG]]  
+    Tout in the shops of the butchers that slew.  
 
-    _(On the Embankment in stormy weather.)_  
+    Why should you wake for a realm that is rotten,  
 
-    A livid sky on [[London]]  
+    Stuffed with their bribes and as dead to their debts?  
 
-    And like iron steeds that rear  
+    [[Sleep]] and forget us, as we have forgotten;  
 
-    A shock of engines halted,  
+    For Flanders remembers and England forgets.  
 
-    And I knew the end was near:  
+    FOR FOUR GUILDS  
 
-    And something said that far away, over the hills and far away,  
+    FOR FOUR GUILDS:  
 
-    There came a crawling thunder and the end of all things here.  
+    I. THE GLASS-STAINERS  
 
-    For [[London]] Bridge is broken down, broken down, broken down,  
+    To every Man his Mystery,  
 
-    As digging lets the daylight on the sunken streets of yore,  
+    A trade and only one:  
 
-    The [[Lightning|lightning]] looked on [[London]] town, the broken bridge of [[London]] town,  
+    The masons make the hives of men,  
 
-    The ending of a broken [[Road|road]] where men shall go no more.  
+    The domes of grey or dun,  
 
-    I saw the kings of [[London]] town,  
+    But we have wrought in [[Rose|rose]] and gold  
 
-    The kings that buy and sell,  
+    The houses of the sun.  
 
-    That built it up with penny loaves  
+    The shipwrights build the houses high,  
 
-    And penny lies as [[Well|well]]:  
+    Whose green foundations sway  
 
-    And where the streets were paved with gold, the shrivelled paper shone  
+    Alive with fish like little flames,  
 
-      for gold,  
+    When the [[Wind|wind]] goes out to slay.  
 
-    The scorching light of promises that pave the streets of hell.  
+    But we abide with painted sails  
 
-    For penny loaves will melt away, melt away, melt away,  
+    The cyclone of the day.  
 
-    Mock the mean that haggled in the grain they did not grow;  
+    The weavers make the clothes of men  
 
-    With hungry faces in the gate, a hundred thousand in the gate,  
+    And coats for everyone;  
 
-    A thunder-flash on [[London]] and the finding of the foe.  
+    They walk the streets like sunset clouds;  
 
-    I heard the hundred pin-makers  
+    But we have woven and spun  
 
-    Slow down their racking din,  
+    In scarlet or in golden-green  
 
-    Till in the stillness men could hear  
+    The gay coats of the sun.  
 
-    The dropping of the pin:  
+    You whom the usurers and the lords  
 
-    And somewhere men without the wall, beneath the wood, without the wall,  
+    With insolent liveries trod,  
 
-    Had found the place where [[London]] ends and England can begin.  
+    Deep in dark church behold, above  
 
-    For pins and needles bend and break, bend and break, bend and break,  
+    Their lance-lengths by a rod,  
 
-    Faster than the breaking spears or the bending of the bow  
+    Where we have blazed the tabard  
+
+    Of the trumpeter of God.  
+
+    FOR FOUR GUILDS:  
+
+    II. THE BRIDGE-BUILDERS  
+
+    In the world's whitest morning  
+
+    As hoary with [[Hope|hope]],  
+
+    The Builder of Bridges  
+
+    Was priest and was pope:  
+
+    And the mitre of mystery  
+
+    And the canopy his,  
+
+    Who darkened the chasms  
+
+    And domed the abyss.  
+
+    To eastward and westward  
+
+    Spread wings at his word  
+
+    The arch with the key-stone  
+
+    That stoops like a bird;  
+
+    That rides the wild air  
+
+    And the daylight cast under;  
+
+    The highway of danger,  
+
+    The gateway of [[Wonder|wonder]].  
+
+    Of his throne were the thunders  
+
+    That rivet and fix  
+
+    Wild weddings of strangers  
+
+    That meet and not mix;  
+
+    The town and the cornland;  
+
+    The bride and the groom:  
+
+    In the breaking of bridges  
+
+    Is treason and doom.  
+
+    But he bade us, who fashion  
+
+    The [[Road|road]] that can fly,  
+
+    That we build not too heavy  
+
+    And build not too high:  
+
+    Seeing alway that under  
+
+    The dark arch's bend  
+
+    Shine [[Death|death]] and white daylight  
+
+    Unchanged to the end.  
+
+    Who walk on his [[Mercy|mercy]]  
+
+    Walk light, as he saith,  
+
+    Seeing that our life  
+
+    Is a bridge above [[Death|death]];  
+
+    And the world and its gardens  
+
+    And hills, as ye heard,  
+
+    Are born above space  
+
+    On the wings of a bird.  
+
+    Not high and not heavy  
+
+    Is building of his:  
+
+    When ye seal up the flood  
+
+    And forget the abyss,  
+
+    When your towers are uplifted,  
+
+    Your banners unfurled,  
+
+    In the breaking of bridges  
+
+    Is the end of the world.  
+
+    FOR FOUR GUILDS:  
+
+    III. THE STONE-MASONS  
+
+    We have graven the mountain of God with hands,  
+
+    As our hands were graven of God, they say,  
+
+    Where the seraphs burn in the sun like brands  
+
+    And the devils carry the rains away;  
+
+    Making a thrift of the throats of hell,  
+
+    Our [[gargoyles]] gather the roaring rain,  
+
+    Whose yawn is more than a frozen yell  
+
+    And their very vomiting not in vain.  
+
+    Wilder than all that a tongue can utter,  
+
+    Wiser than all that is told in words,  
+
+    The wings of stone of the soaring gutter  
+
+    Fly out and follow the flight of the [[Birds|birds]];  
+
+    The rush and rout of the angel wars  
+
+    Stand out above the astounded street,  
+
+    Where we flung our gutters against the [[Stars|stars]]  
+
+    For a sign that the first and the last shall meet.  
+
+    We have graven the forest of heaven with hands,  
+
+    Being great with a mirth too gross for [[Pride|pride]],  
+
+    In the stone that battered him Stephen stands  
+
+    And Peter himself is petrified:  
+
+    Such hands as have grubbed in the glebe for bread  
+
+    Have bidden the blank rock blossom and thrive,  
+
+    Such hands as have stricken a live man dead  
+
+    Have struck, and stricken the dead alive.  
+
+    Fold your hands before heaven in praying,  
+
+    Lift up your hands into heaven and cry;  
+
+    But look where our dizziest spires are saying  
+
+    What the hands of a man did up in the sky:  
+
+    Drenched before you have heard the thunder,  
+
+    White before you have felt the [[Snow|snow]];  
+
+    For the giants lift up their hands to [[Wonder|wonder]]  
+
+    How high the hands of a man could go.  
+
+    FOR FOUR GUILDS:  
+
+    IV. THE BELL-RINGERS  
+
+    The angels are singing like [[Birds|birds]] in a tree  
+
+    In the organ of good St. Cecily:  
+
+    And the parson reads with his hand upon  
+
+    The graven eagle of great St. John:  
+
+    But never the fluted pipes shall go  
+
+    Like the fifes of an army all a-row,  
+
+    Merrily marching down the street  
+
+    To the marts where the busy and idle meet;  
+
+    And never the brazen bird shall fly  
+
+    Out of the [[Window|window]] and into the sky,  
+
+    Till men in cities and shires and ships  
+
+    Look up at the living [[Apocalypse]].  
+
+    But all can hark at the dark of even  
+
+    [[The Bells|The bells]] that bay like the hounds of heaven,  
+
+    Tolling and telling that over and under,  
+
+    In the ways of the air like a wandering thunder,  
+
+    The hunt is up over hills untrod:  
+
+    For the [[Wind|wind]] is the way of the [[dogs]] of God:  
+
+    From the [[Tyrant|tyrant]]'s tower to the outlaw's den  
+
+    Hunting the souls of the sons of men.  
+
+    Ruler and robber and pedlar and peer,  
+
+    Who will not harken and yet will hear;  
+
+    Filling men's heads with the hurry and hum  
+
+    Making them welcome before they come.  
+
+    And we poor men stand under the steeple  
+
+    Drawing the cords that can draw the people,  
+
+    And in our leash like the leaping [[dogs]]  
+
+    Are God's most deafening demagogues:  
+
+    And we are but little, like dwarfs underground,  
+
+    While hang up in heaven the houses of sound,  
+
+    Moving like [[Mountains|mountains]] that [[Faith|faith]] sets free,  
+
+    Yawning like caverns that roar with the sea,  
+
+    As awfully loaded, as airily buoyed,  
+
+    Armoured archangels that trample the void:  
+
+    Wild as with dancing and weighty with dooms,  
+
+    Heavy as their panoply, light as their plumes.  
+
+    Neither preacher nor priest are we:  
+
+    Each man mount to his own degree:  
+
+    Only remember that just such a cord  
+
+    Tosses in heaven the trumpet and [[Sword|sword]];  
+
+    Souls on their terraces, saints on their towers,  
+
+    Rise up in arms at alarum like ours:  
+
+    Glow like great watchfires that redden the skies  
+
+    Titans whose wings are a glory of eyes,  
+
+    Crowned constellations by twelves and by sevens,  
+
+    Domed dominations more old than the heavens,  
+
+    Virtues that thunder and thrones that endure  
+
+    Sway like a bell to the prayers of the poor.  
+
+    THE [[convert|CONVERT]]  
+
+    After one moment when I bowed my head  
+
+    And the whole world turned over and came upright,  
+
+    And I came out where the old [[Road|road]] shone white,  
+
+    I walked the ways and heard what all men said,  
+
+    Forests of tongues, like [[Autumn|autumn]] [[Leaves|leaves]] unshed,  
+
+    Being not unlovable but strange and light;  
+
+    Old riddles and new creeds, not in despite  
+
+    But softly, as men smile about the dead.  
+
+    The sages have a hundred maps to give  
+
+    That trace their crawling cosmos like a tree,  
+
+    They rattle reason out through many a sieve  
+
+    That stores the sand and lets the gold go free:  
+
+    And all these things are less than [[Dust|dust]] to me  
+
+    Because my name is Lazarus and I live.  
+
+    [[songs|SONGS]] OF [[Education|EDUCATION]]  
+
+    [[songs|SONGS]] OF [[Education|EDUCATION]]:  
+
+    I. [[history|HISTORY]]  
+
+    _Form 991785, Sub-Section D_  
+
+    The Roman threw us a [[Road|road]], a [[Road|road]],  
+
+    And sighed and strolled away:  
+
+    The Saxon gave us a raid, a raid,  
+
+    A raid that came to stay;  
+
+    The Dane went west, but the Dane confessed  
+
+    That he went a bit too far;  
+
+    And we all became, by another name,  
+
+    The Imperial race we are.  
+
+    _Chorus_  
+
+    The Imperial race, the inscrutable race,  
+
+    The invincible race we are.  
+
+    Though Sussex hills are bare, are bare,  
+
+    And Sussex weald is wide,  
+
+    From Chichester to Chester  
+
+    Men saw the Norman ride;  
+
+    He threw his [[Sword|sword]] in the air and sang  
+
+    To a sort of a light guitar;  
+
+    It was all the same, for we all became  
+
+    The identical nobs we are.  
+
+    _Chorus_  
+
+    The identical nobs, individual nobs  
+
+    Unmistakable nobs we are.  
+
+    The people lived on the land, the land,  
+
+    They pottered about and prayed;  
+
+    They built a [[Cathedral|cathedral]] here and there  
+
+    Or went on a small crusade:  
+
+    Till the bones of Becket were bundled out  
+
+    For the fun of a fat White Czar,  
+
+    And we all became, in spoil and flame,  
+
+    The intelligent lot we are.  
+
+    _Chorus_  
+
+    The intelligent lot, the intuitive lot,  
+
+    The infallible lot we are.  
+
+    O Warwick woods are green, are green,  
+
+    But Warwick trees can fall:  
+
+    And Birmingham grew so big, so big,  
+
+    And Stratford stayed so small.  
+
+    Till the hooter howled to the morning lark  
+
+    That sang to the morning star;  
+
+    And we all became, in [[Freedom|freedom]]'s name,  
+
+    The fortunate chaps we are.  
+
+    _Chorus_  
+
+    The fortunate chaps, felicitous chaps,  
+
+    The fairy-like chaps we are.  
+
+    The people they left the land, the land,  
+
+    But they went on working hard;  
+
+    And the village green that had got mislaid  
+
+    Turned up in the squire's back-yard:  
+
+    But twenty men of us all got work  
+
+    On a bit of his motor car;  
+
+    And we all became, with the world's acclaim,  
+
+    The marvellous mugs we are:  
+
+    _Chorus_  
+
+    The marvellous mugs, miraculous mugs,  
+
+    The mystical mugs we are.  
+
+    [[songs|SONGS]] OF [[Education|EDUCATION]]:  
+
+    II. GEOGRAPHY  
+
+    _Form 17955301, Sub-Section Z_  
+
+    The earth is a place on which England is found,  
+
+    And you find it however you twirl the globe round;  
+
+    For the spots are all red and the rest is all grey,  
+
+    And that is the meaning of Empire Day.  
+
+    Gibraltar's a rock that you see very plain,  
+
+    And attached to its base is the district of Spain.  
+
+    And the island of Malta is marked further on,  
+
+    Where some natives were known as the Knights of St. John.  
+
+    Then Cyprus, and east to the Suez Canal,  
+
+    That was conquered by Dizzy and Rothschild his pal  
+
+    With the [[Sword]] of the Lord in the old English way;  
+
+    And that is the meaning of Empire Day.  
+
+    Our principal imports come far as Cape Horn;  
+
+    For necessities, cocoa; for luxuries, corn;  
+
+    Thus Brahmins are born for the rice-field, and thus,  
+
+    The Gods made the Greeks to grow currants for us;  
+
+    Tobacco and petrol and Jazzing and Jews:  
+
+    The Jazzing will pass but the Jews they will stay;  
+
+    And that is the meaning of Empire Day.  
+
+    Our principal exports, all labelled and packed,  
+
+    At the ends of the earth are delivered intact:  

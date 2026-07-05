@@ -14,238 +14,576 @@ tags:
 </nav>
 
 
-       That we may travel far.  
+     Still he that [[Dreams|dreams]] and rambles  
 
-     Hark! Laughter like a [[Lion|lion]] wakes  
+       Through his own elfin air,  
 
-       To roar to the resounding plain,  
+     Knows that the street's a [[Prison|prison]],  
 
-     And the whole heaven shouts and shakes,  
+       Knows that the gates are there:  
 
-       For God Himself is born again,  
+     Still he that scorns or struggles  
 
-     And we are little children walking  
+       Sees, frightful and afar.  
 
-       Through the [[Snow|snow]] and rain.  
+     All that they leave of rebels  
 
-     THE [[house|HOUSE]] OF CHRISTMAS  
+       Rot high on Temple Bar.  
 
-     There fared a mother driven forth  
+     All that I loved and hated,  
 
-     Out of an inn to roam;  
+       All that I shunned and knew,  
 
-     In the place where she was homeless  
+     Clears in broad battle [[Lightning|lightning]],  
 
-     All men are at [[Home|home]].  
+       Where they, and I, and you,  
 
-     The crazy stable close at hand,  
+     Run high the barricade that breaks  
 
-     With shaking timber and shifting sand,  
+       The barriers of the street,  
 
-     Grew a stronger thing to abide and stand  
+     And shout to them that shrink within,  
 
-     Than the square stones of Rome.  
+       The Prisoners of the Fleet.  
 
-     For men are homesick in their homes,  
+     A CIDER [[Song|SONG]]  
 
-     And strangers under the sun,  
+     _To J.S.M._  
 
-     And they lay their heads in a foreign land  
+          EXTRACT FROM A [[Romance|ROMANCE]] WHICH IS NOT YET  
 
-     Whenever the day is done.  
+          WRITTEN AND PROBABLY NEVER WILL BE.  
 
-     Here we have battle and blazing eyes,  
+     The wine they drink in Paradise  
 
-     And chance and [[Honour|honour]] and high surprise,  
+     They make in Haute Lorraine;  
 
-     Where the yule tale was begun.  
+     God brought it burning from the sod  
 
-     A [[Child]] in a foul stable,  
+     To be a sign and signal rod  
 
-     Where the beasts feed and foam;  
+     That they that drink the [[Blood|blood]] of God  
 
-     Only where He was homeless  
+     Shall never thirst again.  
 
-     Are you and I at [[Home|home]];  
+     The wine they praise in Paradise  
 
-     We have hands that fashion and heads that  
+     They make in Ponterey,  
 
-     But our hearts we lost--how long ago!  
+     The purple wine of Paradise,  
 
-     In a place no chart nor [[Ship|ship]] can show  
+     But we have better at the price;  
 
-     Under the sky's dome.  
+     It's wine they praise in Paradise,  
 
-     This world is wild as an old wives' tale,  
+     It's cider that they pray.  
 
-     And strange the plain things are,  
+     The wine they want in Paradise  
 
-     The earth is enough and the air is enough  
+     They find in Plodder's End,  
 
-     For our [[Wonder|wonder]] and our war;  
+     The apple wine of Hereford,  
 
-     But our rest is as far as the [[Fire|fire]]-drake swings  
+     Of Hafod [[Hill]] and Hereford,  
 
-     And our peace is put in impossible things  
+     Where woods went down to Hereford,  
 
-     Where clashed and thundered unthinkable wings  
+     And there I had a friend.  
 
-     Round an incredible star.  
+     The soft feet of the blessed go  
 
-     To an open [[house]] in the evening  
+     In the soft western vales,  
 
-     [[Home]] shall men come,  
+     The [[Road|road]] the silent saints accord,  
 
-     To an older place than Eden  
+     The [[Road|road]] from Heaven to Hereford,  
 
-     And a taller town than Rome.  
+     Where the apple wood of Hereford  
 
-     To the end of the way of the wandering star,  
+     Goes all the way to Wales.  
 
-     To the things that cannot be and that are,  
+     THE LAST [[Hero|HERO]]  
 
-     To the place where God was homeless  
+     The [[Wind|wind]] blew out from Bergen from the dawning to the day,  
 
-     And all men are at [[Home|home]].  
+     There was a wreck of trees and fall of towers a score of miles away,  
 
-     A [[Song|SONG]] OF GIFTS TO GOD  
+     And drifted like a livid leaf I go before its tide,  
 
-     When the first Christmas presents came, the straw where [[Christ]] was rolled  
+     Spewed out of [[house]] and stable, beggared of [[Flag|flag]] and bride.  
 
-     Smelt sweeter than their frankincense, burnt brighter than their gold,  
+     The heavens are bowed about my head, shouting like seraph wars.  
 
-     And a wise man said, "We will not give; the thanks would be but cold."  
+     With rains that might put out the sun and clean the sky of [[Stars|stars]],  
 
-     "Nay," said the next, "To all new gifts, to this gift or another,  
+     Rains like the fall of ruined seas from secret worlds above,  
 
-     Bends the high gratitude of God; even as He now, my brother,  
+     The roaring of the rains of God none but the lonely [[Love|love]].  
 
-     Who had a Father for all [[Time|time]], yet thanks Him for a Mother.  
+     Feast in my hall, O foemen, and eat and drink and drain,  
 
-     "Yet scarce for Him this yellow stone or prickly-smells and sparse.  
+     You never loved the sun in heaven as I have loved the rain.  
 
-     Who holds the gold heart of the sun that fed these timber bars,  
+     The chance of battle changes--so may all battle be;  
 
-     Nor any scentless lily lives for One that smells the [[Stars|stars]]."  
+     I stole my lady bride from them, they stole her back from me.  
 
-     Then spake the third of the Wise Men; the wisest of the three:  
+     I rent her from her red-roofed hall, I rode and saw arise  
 
-     "We may not with the widest lives enlarge His liberty,  
+     More lovely than the living [[Flowers|flowers]] the hatred in her eyes.  
 
-     Whose wings are wider than the world. It is not He, but we.  
+     She never loved me, never bent, never was less divine;  
 
-     "We say not He has more to gain, but we have more to lose.  
+     The sunset never loved me; the [[Wind|wind]] was never mine.  
 
-     Less gold shall go astray, we say, less gold, if thus we choose,  
+     Was it all nothing that she stood imperial in duresse?  
 
-     Go to make harlots of the Greeks and hucksters of the Jews.  
+     [[Silence]] itself made softer with the sweeping of her dress.  
 
-     "Less clouds before colossal feet redden in the under-light,  
+     O you who drain the cup of life, O you who wear the [[Crown|crown]],  
 
-     To the blind gods from Babylon less incense burn to-[[Night|night]],  
+     You never loved a woman's smile as I have loved her frown.  
 
-     To the high beasts of Babylon, whose mouths make mock of right."  
+     The [[Wind|wind]] blew out from Bergen from the dawning to the day,  
 
-     Babe of the thousand birthdays, we that are young yet grey,  
+     They ride and run with fifty spears to break and bar my way,  
 
-     White with the centuries, still can find no better thing to say,  
+     I shall not die [[Alone|alone]], [[Alone|alone]], but kin to all the powers.  
 
-     We that with sects and whims and wars have wasted Christmas Day.  
+     As merry as the ancient sun and fighting like the [[Flowers|flowers]].  
 
-     Light Thou Thy censer to Thyself, for all our fires are dim,  
+     How white their steel, how bright their eyes! I [[Love|love]] each laughing knave.  
 
-     Stamp Thou Thine image on our coin, for Caesar's face grows dim,  
+     Cry high and bid him welcome to the banquet of the brave.  
 
-     And a dumb devil of [[Pride|pride]] and [[Greed|greed]] has taken hold of him.  
+     Yea, I will bless them as they bend and [[Love|love]] them where they lie,  
 
-     We bring Thee back great Christendom, churches and towns and towers.  
+     When on their skulls the [[Sword|sword]] I swing falls shattering from the sky.  
 
-     And if our hands are glad, O God, to cast them down like [[Flowers|flowers]],  
+     The hour when [[Death|death]] is like a light and [[Blood|blood]] is like a [[Rose|rose]],--  
 
-     'Tis not that they enrich Thine hands, but they are saved from ours.  
+     You never loved your friends, my friends, as I shall [[Love|love]] my foes.  
 
-     THE KINGDOM OF HEAVEN  
+     Know you what earth shall lose to-[[Night|night]], what rich, uncounted loans,  
 
-     Said the Lord God, "Build a [[house]],  
+     What heavy gold of tales untold you bury with my bones?  
 
-       Build it in the gorge of [[Death|death]],  
+     My loves in deep dim meadows, my ships that rode at ease,  
 
-     Found it in the throats of hell.  
+     Ruffling the purple plumage of strange and secret seas.  
 
-       Where the lost sea muttereth,  
+     To see this fair earth as it is to me [[Alone|alone]] was given,  
 
-     Fires and whirlwinds, build it [[Well|well]]."  
+     The blow that breaks my brow to-[[Night|night]] shall break the dome of heaven.  
 
-     Laboured sternly flame and [[Wind|wind]],  
+     The skies I saw, the trees I saw after no eyes shall see.  
 
-       But a little, and they cry,  
+     To-[[Night|night]] I die the [[Death|death]] of God; the [[Stars|stars]] shall die with me:  
 
-     "Lord, we [[Doubt|doubt]] of this Thy will,  
+     One sound shall sunder all the spears and break the trumpet's breath:  
 
-       We are blind and murmur why,"  
+     You never laughed in all your life as I shall laugh in [[Death|death]].  
 
-     And the winds are murmuring still.  
+     VII  
 
-     Said the Lord God, "Build a [[house]],  
+     BALLADES  
 
-       Cleave its treasure from the earth,  
+     BALLADE D'UNE GRANDE DAME  
 
-     With the jarring powers of hell  
+     Heaven shall forgive you Bridge at [[Dawn|dawn]],  
 
-       Strive with formless might and mirth,  
+     The clothes you wear--or do not wear--  
 
-     Tribes and war-men, build it [[Well|well]]."  
+     And Ladies' Leap-frog on the lawn  
 
-     Then the raw red sons of men  
+     And dyes and drugs, and _petits verres._  
 
-       Brake the soil, and lopped the wood,  
+     Your vicious things shall melt in air ...  
 
-     But a little and they shrill,  
+     ... But for the Virtuous Things you do,  
 
-       "Lord, we cannot view Thy good,"  
+     The Righteous Work, the Public Care,  
 
-     And the wild men clamour still.  
+     It shall not be forgiven you.  
 
-     Said the Lord God, "Build a [[house]],  
+     Because you could not even yawn  
 
-       Smoke and iron, spark and steam,  
+     When your Committees would prepare  
 
-     Speak and vote and buy and sell;  
+     To have the teeth of paupers drawn,  
 
-       Let a new world throb and stream,  
+     Or strip the slums of Human Hair;  
 
-     Seers and makers, build it [[Well|well]]."  
+     Because a Doctor Otto Maehr  
 
-     Strove the cunning men and strong,  
+     Spoke of "a segregated few"--  
 
-       But a little and they cry,  
+     And you sat smiling in your chair--  
 
-     "Lord, mayhap we are but clay,  
+     It shall not be forgiven you.  
 
-       And we cannot know the why,"  
+     Though your sins cried to---Father Vaughan,  
 
-     And the wise men [[Doubt|doubt]] to-day.  
+     These desperate you could not spare  
 
-     Yet though worn and deaf and blind,  
+     Who steal, with nothing left to pawn;  
 
-       Force and savage, [[King|king]] and seer  
+     You caged a man up like a bear  
 
-     Labour still, they know not why;  
+     For ever in a jailor's care  
 
-       At the dim foundation here,  
+     Because his sins were more than _two_ ...  
 
-     Knead and plough and think and ply.  
+     ... I know a [[house]] in Hoxton where  
 
-     Till at last, mayhap, hereon,  
+     It shall not be forgiven you.  
 
-       Fused of passion and accord,  
+     ENVOI  
 
-     [[Love]] its [[Crown|crown]] and peace its stay  
+     Princess, you trapped a guileless Mayor  
 
-       Rise the [[City|city]] of the Lord  
+     To meet some people that you knew ...  
 
-     That we darkly build to-day.  
+     When the Last Trumpet rends the air  
 
-     A [[Hymn|HYMN]] FOR THE CHURCH MILITANT  
+     It shall not be forgiven you.  
 
-     Great God, that bowest sky and star,  
+     A BALLADE OF AN [[anti-puritan|ANTI-PURITAN]]  
+
+     They spoke of Progress spiring round,  
+
+     Of Light and Mrs. Humphry Ward--  
+
+     It is not true to say I frowned,  
+
+     Or ran about the room and roared;  
+
+     I might have simply sat and snored--  
+
+     I [[Rose|rose]] politely in the club  
+
+     And said, "I feel a little bored;  
+
+     Will someone take me to a pub?"  
+
+     The new world's wisest did surround  
+
+     Me; and it pains me to record  
+
+     I did not think their views profound,  
+
+     Or their conclusions [[Well|well]] assured;  
+
+     The simple life I can't afford,  
+
+     Besides, I do not like the grub--  
+
+     I wait a mash and sausage, "scored"--  
+
+     Will someone take me to a pub?  
+
+     I know where Men can still be found,  
+
+     Anger and clamorous accord,  
+
+     And virtues growing from the ground,  
+
+     And fellowship of beer and board,  
+
+     And [[Song|song]], that is a sturdy cord.  
+
+     And [[Hope|hope]], that is a hardy shrub,  
+
+     And goodness, that is God's last word--  
+
+     Will someone take me to a pub?  
+
+     ENVOI  
+
+     Prince, Bayard would have smashed his [[Sword|sword]]  
+
+     To see the sort of knights you dub--Is  
+
+     that the last of them--O Lord!  
+
+     Will someone take me to a pub?  
+
+     A BALLADE OF A BOOK-REVIEWER  
+
+     I have not read a rotten page  
+
+     Of "Sex-Hate" or "The Social Test,"  
+
+     And here comes "Husks" and "Heritage"....  
+
+     O Moses, give us all a rest!  
+
+     "Ethics of Empire"!... I protest  
+
+     I will not even cut the strings,  
+
+     I'll read "Jack Redskin on the [[Quest]]"  
+
+     And feed my brain with better things.  
+
+     Somebody wants a Wiser Age  
+
+     (He also wants me to invest);  
+
+     Somebody likes the Finnish Stage  
+
+     Because the Jesters do not jest;  
+
+     And grey with [[Dust|dust]] is [[Dante]]'s crest,  
+
+     The bell of Rabelais soundless swings;  
+
+     And the winds come out of the west  
+
+     And feed my brain with better things.  
+
+     Lord of our laughter and our rage.  
+
+     Look on us with our sins oppressed!  
+
+     I, too, have trodden mine heritage,  
+
+     Wickedly wearying of the best.  
+
+     Burn from my brain and from my breast  
+
+     Sloth, and the cowardice that clings,  
+
+     And stiffness and the [[Soul|soul]]'s arrest:  
+
+     And feed my brain with better things.  
+
+     ENVOI  
+
+     Prince, you are host and I am guest,  
+
+     Therefore I shrink from cavillings....  
+
+     But I should have that fizz suppressed  
+
+     And feed my brain with better things.  
+
+     A BALLADE OF [[suicide|SUICIDE]]  
+
+     The gallows in my [[Garden|garden]], people say,  
+
+     Is new and neat and adequately tall.  
+
+     I tie the noose on in a knowing way  
+
+     As one that knots his necktie for a ball;  
+
+     But just as all the neighbours--on the wall--  
+
+     Are drawing a long breath to shout "Hurray!"  
+
+     The strangest whim has seized me.... After all  
+
+     I think I will not hang myself to-day.  
+
+     To-morrow is the [[Time|time]] I get my pay--My  
+
+     uncle's [[Sword|sword]] is hanging in the hall--  
+
+     I see a little cloud all pink and grey--  
+
+     Perhaps the rector's mother will _not_ call--  
+
+     I fancy that I heard from Mr. Gall  
+
+     That mushrooms could be cooked another way--  
+
+     I never read the works of Juvenal--  
+
+     I think I will not hang myself to-day.  
+
+     The world will have another washing day;  
+
+     The decadents [[Decay|decay]]; the pedants pall;  
+
+     And H.G. Wells has found that children play.  
+
+     And Bernard [[Shaw]] discovered that they squall;  
+
+     Rationalists are growing rational--  
+
+     And through thick woods one finds a stream astray,  
+
+     So secret that the very sky seems small--  
+
+     I think I will not hang myself to-day.  
+
+     ENVOI  
+
+     Prince, I can hear the trumpet of Germinal,  
+
+     The tumbrils toiling up the terrible way;  
+
+     Even to-day your royal head may fall--  
+
+     I think I will not hang myself to-day.  
+
+     A BALLADE OF THE FIRST RAIN  
+
+     The sky is blue with [[Summer|summer]] and the sun,  
+
+     The woods are brown as [[Autumn|autumn]] with the tan,  
+
+     It might as [[Well|well]] be Tropics and be done,  
+
+     I might as [[Well|well]] be born a copper Khan;  
+
+     I fashion me an oriental fan  
+
+     Made of the wholly unreceipted bills  
+
+     Brought by the ice-man, sleeping in his van  
+
+     (A [[Storm|storm]] is coming on the Chiltern Hills).  
+
+     I read the Young Philosophers for fun  
+
+     --Fresh as our sorrow for the late [[Queen]] Anne--  
+
+     The Dionysians whom a pint would stun,  
+
+     The Pantheists who never heard of Pan.  
+
+     --But through my hair electric needles ran,  
+
+     And on my book a gout of [[Water|water]] spills,  
+
+     And on the skirts of heaven the guns began  
+
+     (A [[Storm|storm]] is coming on the Chiltern Hills).  
+
+     O fields of England, cracked and dry and dun,  
+
+     O [[Soul|soul]] of England, sick of words, and wan!--  
+
+     The clouds grow dark;--the down-rush has begun.  
+
+     --It comes, it comes, as holy darkness can,  
+
+     Black as with banners, ban and arriere-ban;  
+
+     A falling laughter all the valley fills,  
+
+     Deep as God's thunder and the thirst of man:  
+
+     (A [[Storm|storm]] is coming on the Chiltern Hills).  
+
+     ENVOI  
+
+     Prince, Prince-Elective on the modern plan  
+
+     Fulfilling such a lot of People's Wills,  
+
+     You take the Chiltern Hundreds while you can--  
+
+     A [[Storm|storm]] is coming on the Chiltern Hills.  
+
+End of the Project Gutenberg EBook of [[Poems]], by G.K. Chesterton  
+
+*** END OF THIS PROJECT GUTENBERG EBOOK [[Poems|POEMS]] ***  
+
+***** This file should be named 31184-8.txt or 31184-8.zip *****  
+
+This and all associated files of various formats will be found in:  
+
+        http://www.gutenberg.org/3/1/1/8/31184/  
+
+Produced by Marc D'Hooghe  
+
+Updated editions will replace the previous one--the old editions  
+
+will be renamed.  
+
+Creating the works from public domain print editions means that no  
+
+one owns a United States copyright in these works, so the Foundation  
+
+(and you!) can copy and distribute it in the United States without  
+
+permission and without paying copyright royalties.  Special rules,  
+
+set forth in the General Terms of Use part of this license, apply to  
+
+copying and distributing Project Gutenberg-tm electronic works to  
+
+protect the PROJECT GUTENBERG-tm concept and trademark.  Project  
+
+Gutenberg is a registered trademark, and may not be used if you  
+
+charge for the eBooks, unless you receive specific permission.  If you  
+
+do not charge anything for copies of this eBook, complying with the  
+
+rules is very easy.  You may use this eBook for nearly any purpose  
+
+such as creation of derivative works, reports, performances and  
+
+research.  They may be modified and printed and given away--you may do  
+
+practically ANYTHING with public domain eBooks.  Redistribution is  
+
+subject to the trademark license, especially commercial  
+
+redistribution.  
+
+*** START: FULL LICENSE ***  
+
+THE FULL PROJECT GUTENBERG LICENSE  
+
+PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK  
+
+To protect the Project Gutenberg-tm mission of promoting the free  
+
+distribution of electronic works, by using or distributing this work  
+
+(or any other work associated in any way with the phrase "Project  
+
+Gutenberg"), you agree to comply with all the terms of the Full Project  
+
+Gutenberg-tm License (available with this file or online at  
+
+http://gutenberg.org/license).  
+
+Section 1.  General Terms of Use and Redistributing Project Gutenberg-tm  
+
+electronic works  
+
+1.A.  By reading or using any part of this Project Gutenberg-tm  
+
+electronic work, you indicate that you have read, understand, agree to  
+
+and accept all the terms of this license and intellectual property  
+
+(trademark/copyright) agreement.  If you do not agree to abide by all  
+
+the terms of this agreement, you must cease using and return or destroy  
+
+all copies of Project Gutenberg-tm electronic works in your possession.  
+
+If you paid a fee for obtaining a copy of or access to a Project  
+
+Gutenberg-tm electronic work and you do not agree to be bound by the  
+
+terms of this agreement, you may obtain a refund from the person or  
+
+entity to whom you paid the fee as set forth in paragraph 1.E.8.  
+
+1.B.  "Project Gutenberg" is a registered trademark.  It may only be  
+
+used on or associated in any way with an electronic work by people who  
+
+agree to be bound by the terms of this agreement.  There are a few  
+
+things that you can do with most Project Gutenberg-tm electronic works  
+
+even without complying with the full terms of this agreement.  See  

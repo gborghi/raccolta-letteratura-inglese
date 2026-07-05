@@ -14,250 +14,452 @@ tags:
 </nav>
 
 
-       Bow down our towering thoughts to thee,  
+paragraph 1.C below.  There are a lot of things you can do with Project  
 
-     And grant us in a faltering war  
+Gutenberg-tm electronic works if you follow the terms of this agreement  
 
-       The firm feet of [[Humility|humility]].  
+and help preserve free future access to Project Gutenberg-tm electronic  
 
-     Lord, we that snatch the swords of flame,  
+works.  See paragraph 1.E below.  
 
-       Lord, we that cry about Thy car.  
+1.C.  The Project Gutenberg Literary Archive Foundation ("the Foundation"  
 
-     We too are weak with [[Pride|pride]] and shame,  
+or PGLAF), owns a compilation copyright in the collection of Project  
 
-       We too are as our foemen are.  
+Gutenberg-tm electronic works.  Nearly all the individual works in the  
 
-     Yea, we are mad as they are mad,  
+collection are in the public domain in the United States.  If an  
 
-       Yea, we are blind as they are blind,  
+individual work is in the public domain in the United States and you are  
 
-     Yea, we are very sick and sad  
+located in the United States, we do not claim a right to prevent you from  
 
-       Who bring good news to all mankind.  
+copying, distributing, performing, displaying or creating derivative  
 
-     The dreadful joy Thy Son has sent  
+works based on the work as long as all references to Project Gutenberg  
 
-       Is heavier than any care;  
+are removed.  Of course, we [[Hope|hope]] that you will support the Project  
 
-     We find, as [[Cain]] his punishment,  
+Gutenberg-tm mission of promoting free access to electronic works by  
 
-       Our pardon more than we can bear.  
+freely sharing Project Gutenberg-tm works in compliance with the terms of  
 
-     Lord, when we cry Thee far and near  
+this agreement for keeping the Project Gutenberg-tm name associated with  
 
-       And thunder through all lands unknown  
+the work.  You can easily comply with the terms of this agreement by  
 
-     The gospel into every ear,  
+keeping this work in the same format with its attached full Project  
 
-       Lord, let us not forget our own.  
+Gutenberg-tm License when you share it without charge with others.  
 
-     Cleanse us from ire of creed or class,  
+1.D.  The copyright laws of the place where you are located also govern  
 
-       The anger of the idle tings;  
+what you can do with this work.  Copyright laws in most countries are in  
 
-     Sow in our souls, like living grass,  
+a constant state of change.  If you are outside the United States, check  
 
-       The laughter of all lowly things.  
+the laws of your country in addition to the terms of this agreement  
 
-     THE BEATIFIC VISION  
+before downloading, copying, displaying, performing, distributing or  
 
-     Then Bernard smiled at me, that I should gaze  
+creating derivative works based on this work or any other Project  
 
-         But I had gazed already; caught the view,  
+Gutenberg-tm work.  The Foundation makes no representations concerning  
 
-     Faced the unfathomable ray of rays  
+the copyright status of any work in any country outside the United  
 
-         Which to itself and by itself is true.  
+States.  
 
-     Then was my vision mightier than man's speech;  
+1.E.  Unless you have removed all references to Project Gutenberg:  
 
-         Speech snapt before it like a flying spell;  
+1.E.1.  The following sentence, with active links to, or other immediate  
 
-     And [[Memory|memory]] and all that [[Time|time]] can teach  
+access to, the full Project Gutenberg-tm License must appear prominently  
 
-         Before that splendid outrage failed and fell.  
+whenever any copy of a Project Gutenberg-tm work (any work on which the  
 
-     As when one dreameth and remembereth not  
+phrase "Project Gutenberg" appears, or with which the phrase "Project  
 
-         Waking, what were his pleasures or his pains,  
+Gutenberg" is associated) is accessed, displayed, performed, viewed,  
 
-     With every feature of the dream forgot,  
+copied or distributed:  
 
-         The printed passion of the dream remains:--  
+This eBook is for the use of anyone anywhere at no cost and with  
 
-     Even such am I; within whose thoughts resides  
+almost no restrictions whatsoever.  You may copy it, give it away or  
 
-         No picture of that sight nor any part  
+re-use it under the terms of the Project Gutenberg License included  
 
-     Nor any [[Memory|memory]]: in whom abides  
+with this eBook or online at www.gutenberg.org  
 
-         Only a happiness within the heart,  
+1.E.2.  If an individual Project Gutenberg-tm electronic work is derived  
 
-     A secret happiness that soaks the heart  
+from the public domain (does not contain a notice indicating that it is  
 
-         As hills are soaked by slow unsealing [[Snow|snow]],  
+posted with permission of the copyright holder), the work can be copied  
 
-     Or secret as that [[Wind|wind]] without a chart  
+and distributed to anyone in the United States without paying any fees  
 
-         Whereon did the wild [[Leaves|leaves]] of Sibyl go.  
+or charges.  If you are redistributing or providing access to a work  
 
-     O light uplifted from all mortal knowing,  
+with the phrase "Project Gutenberg" associated with or appearing on the  
 
-         Send back a little of that glimpse of thee.  
+work, you must comply either with the requirements of paragraphs 1.E.1  
 
-     That of its glory I may kindle glowing  
+through 1.E.7 or obtain permission for the use of the work and the  
 
-         One tiny spark for all men yet to be.  
+Project Gutenberg-tm trademark as set forth in paragraphs 1.E.8 or  
 
-     THE TRUCE OF CHRISTMAS  
+1.E.9.  
 
-     Passionate peace is in the sky--  
+1.E.3.  If an individual Project Gutenberg-tm electronic work is posted  
 
-     And in the [[Snow|snow]] in silver sealed  
+with the permission of the copyright holder, your use and distribution  
 
-     The beasts are perfect in the field,  
+must comply with both paragraphs 1.E.1 through 1.E.7 and any additional  
 
-     And men seem men so suddenly--  
+terms imposed by the copyright holder.  Additional terms will be linked  
 
-       (But take ten swords and ten times ten  
+to the Project Gutenberg-tm License for all works posted with the  
 
-       And blow the bugle in praising men;  
+permission of the copyright holder found at the beginning of this work.  
 
-       For we are for all men under the sun,  
+1.E.4.  Do not unlink or detach or remove the full Project Gutenberg-tm  
 
-       And they are against us every one;  
+License terms from this work, or any files containing a part of this  
 
-       And misers haggle and madmen clutch,  
+work or any other work associated with Project Gutenberg-tm.  
 
-       And there is peril in praising much.  
+1.E.5.  Do not copy, display, perform, distribute or redistribute this  
 
-       And we have the terrible tongues uncurled  
+electronic work, or any part of this electronic work, without  
 
-       That praise the world to the sons of the world.)  
+prominently displaying the sentence set forth in paragraph 1.E.1 with  
 
-     The idle humble [[Hill|hill]] and wood  
+active links or immediate access to the full terms of the Project  
 
-     Are bowed upon the sacred birth,  
+Gutenberg-tm License.  
 
-     And for one little hour the earth  
+1.E.6.  You may [[convert]] to and distribute this work in any binary,  
 
-     Is lazy with the [[Love|love]] of good--  
+compressed, marked up, nonproprietary or proprietary form, including any  
 
-       (But ready are you, and ready am I,  
+word processing or hypertext form.  However, if you provide access to or  
 
-       If the battle blow and the guns go by;  
+distribute copies of a Project Gutenberg-tm work in a format other than  
 
-       For we are for all men under the sun,  
+"Plain Vanilla ASCII" or other format used in the official version  
 
-       And they are against us every one;  
+posted on the official Project Gutenberg-tm web site (www.gutenberg.org),  
 
-       And the men that hate herd all together,  
+you must, at no additional cost, fee or expense to the user, provide a  
 
-       To [[Pride|pride]] and gold, and the great white feather  
+copy, a means of exporting a copy, or a means of obtaining a copy upon  
 
-       And the thing is graven in star and stone  
+request, of the work in its original "Plain Vanilla ASCII" or other  
 
-       That the men who [[Love|love]] are all [[Alone|alone]].)  
+form.  Any alternate format must include the full Project Gutenberg-tm  
 
-     Hunger is hard and [[Time|time]] is tough,  
+License as specified in paragraph 1.E.1.  
 
-     But bless the beggars and kiss the kings,  
+1.E.7.  Do not charge a fee for access to, viewing, displaying,  
 
-     For [[Hope|hope]] has broken the heart of things,  
+performing, copying or distributing any Project Gutenberg-tm works  
 
-     And nothing was ever praised enough.  
+unless you comply with paragraph 1.E.8 or 1.E.9.  
 
-       (But bold the shield for a sudden swing  
+1.E.8.  You may charge a reasonable fee for copies of or providing  
 
-       And point the [[Sword|sword]] when you praise a thing,  
+access to or distributing Project Gutenberg-tm electronic works provided  
 
-       For we are for all men under the sun,  
+that  
 
-       And they are against us every one;  
+- You pay a royalty fee of 20% of the gross profits you derive from
 
-       And mime and merchant, thane and thrall  
+     the use of Project Gutenberg-tm works calculated using the method  
 
-       Hate us because we [[Love|love]] them all;  
+     you already use to calculate your applicable taxes.  The fee is  
 
-       Only till Christmastide go by  
+     owed to the owner of the Project Gutenberg-tm trademark, but he  
 
-       Passionate peace is in the sky.)  
+     has agreed to donate royalties under this paragraph to the  
 
-     A [[Hymn|HYMN]]  
+     Project Gutenberg Literary Archive Foundation.  Royalty payments  
 
-     O God of earth and altar,  
+     must be paid within 60 days following each date on which you  
 
-       Bow down and hear our cry  
+     prepare (or are legally required to prepare) your periodic tax  
 
-     Our earthly rulers falter,  
+     returns.  Royalty payments should be clearly marked as such and  
 
-       Our people drift and die;  
+     sent to the Project Gutenberg Literary Archive Foundation at the  
 
-     The walls of gold entomb us,  
+     address specified in Section 4, "Information about donations to  
 
-       The swords of scorn divide,  
+     the Project Gutenberg Literary Archive Foundation."  
 
-     Take not thy thunder from us,  
+- You provide a full refund of any money paid by a user who notifies
 
-       But take away our [[Pride|pride]].  
+     you in writing (or by e-mail) within 30 days of receipt that s/he  
 
-     From all that terror teaches,  
+     does not agree to the terms of the full Project Gutenberg-tm  
 
-       From lies of tongue and pen,  
+     License.  You must require such a user to return or  
 
-     From all the easy speeches  
+     destroy all copies of the works possessed in a physical medium  
 
-       That comfort cruel men,  
+     and discontinue all use of and all access to other copies of  
 
-     From sale and profanation  
+     Project Gutenberg-tm works.  
 
-       Of [[Honour|honour]] and the [[Sword|sword]],  
+- You provide, in accordance with paragraph 1.F.3, a full refund of any
 
-     From [[Sleep|sleep]] and from damnation,  
+     money paid for a work or a replacement copy, if a defect in the  
 
-       Deliver us, good Lord!  
+     electronic work is discovered and reported to you within 90 days  
 
-     Tie in a living tether  
+     of receipt of the work.  
 
-       The prince and priest and thrall,  
+- You comply with all other terms of this agreement for free
 
-     Bind all our lives together,  
+     distribution of Project Gutenberg-tm works.  
 
-       Smite us and save us all;  
+1.E.9.  If you wish to charge a fee or distribute a Project Gutenberg-tm  
 
-     In ire and exultation  
+electronic work or group of works on different terms than are set  
 
-       Aflame with [[Faith|faith]], and free,  
+forth in this agreement, you must obtain permission in writing from  
 
-     Lift up a living nation,  
+both the Project Gutenberg Literary Archive Foundation and [[Michael]]  
 
-       A single [[Sword|sword]] to thee.  
+Hart, the owner of the Project Gutenberg-tm trademark.  Contact the  
 
-     A CHRISTMAS [[Song|SONG]] FOR THREE GUILDS  
+Foundation as set forth in Section 3 below.  
 
-     TO BE SUNG A LONG [[Time|TIME]] AGO--OR HENCE  
+1.F.  
 
-     _THE CARPENTERS_  
+1.F.1.  Project Gutenberg volunteers and employees expend considerable  
 
-     St. Joseph to the Carpenters said on a Christmas Day:  
+effort to identify, do copyright research on, transcribe and proofread  
 
-     "The master shall have patience and the prentice shall obey;  
+public domain works in creating the Project Gutenberg-tm  
 
-     And your word unto your women shall be nowise hard or wild:  
+collection.  Despite these efforts, Project Gutenberg-tm electronic  
 
-     For the sake of me, your master, who have worshipped Wife and [[Child]].  
+works, and the medium on which they may be stored, may contain  
 
-     But softly you shall frame the fence, and softly carve the door,  
+"Defects," such as, but not limited to, incomplete, inaccurate or  
 
-     And softly plane the table--as to spread it for the poor,  
+corrupt data, transcription errors, a copyright or other intellectual  
 
-     And all your thoughts be soft and white as the wood of the white tree.  
+property infringement, a defective or damaged disk or other medium, a  
 
-     But if they tear the Charter, Jet the tocsin speak for me!  
+computer virus, or computer codes that damage or cannot be read by  
 
-     Let the wooden sign above your shop be prouder to be scarred  
+your equipment.  
 
-     Than the [[Lion|lion]]-shield of Lancelot that hung at Joyous Garde."  
+1.F.2.  LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right  
 
-     _THE SHOEMAKERS_  
+of Replacement or Refund" described in paragraph 1.F.3, the Project  
+
+Gutenberg Literary Archive Foundation, the owner of the Project  
+
+Gutenberg-tm trademark, and any other party distributing a Project  
+
+Gutenberg-tm electronic work under this agreement, disclaim all  
+
+liability to you for damages, costs and expenses, including legal  
+
+fees.  YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT  
+
+LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE  
+
+PROVIDED IN PARAGRAPH F3.  YOU AGREE THAT THE FOUNDATION, THE  
+
+TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE  
+
+LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR  
+
+INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH  
+
+DAMAGE.  
+
+1.F.3.  LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a  
+
+defect in this electronic work within 90 days of receiving it, you can  
+
+receive a refund of the money (if any) you paid for it by sending a  
+
+written explanation to the person you received the work from.  If you  
+
+received the work on a physical medium, you must return the medium with  
+
+your written explanation.  The person or entity that provided you with  
+
+the defective work may elect to provide a replacement copy in lieu of a  
+
+refund.  If you received the work electronically, the person or entity  
+
+providing it to you may choose to give you a second opportunity to  
+
+receive the work electronically in lieu of a refund.  If the second copy  
+
+is also defective, you may demand a refund in writing without further  
+
+opportunities to fix the problem.  
+
+1.F.4.  Except for the limited right of replacement or refund set forth  
+
+in paragraph 1.F.3, this work is provided to you 'AS-IS' WITH NO OTHER  
+
+WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO  
+
+WARRANTIES OF MERCHANTIBILITY OR FITNESS FOR ANY PURPOSE.  
+
+1.F.5.  Some states do not allow disclaimers of certain implied  
+
+warranties or the exclusion or limitation of certain types of damages.  
+
+If any disclaimer or limitation set forth in this agreement violates the  
+
+law of the state applicable to this agreement, the agreement shall be  
+
+interpreted to make the maximum disclaimer or limitation permitted by  
+
+the applicable state law.  The invalidity or unenforceability of any  
+
+provision of this agreement shall not void the remaining provisions.  
+
+1.F.6.  INDEMNITY - You agree to indemnify and hold the Foundation, the  
+
+trademark owner, any agent or employee of the Foundation, anyone  
+
+providing copies of Project Gutenberg-tm electronic works in accordance  
+
+with this agreement, and any volunteers associated with the production,  
+
+promotion and distribution of Project Gutenberg-tm electronic works,  
+
+harmless from all liability, costs and expenses, including legal fees,  
+
+that arise directly or indirectly from any of the following which you do  
+
+or cause to occur: (a) distribution of this or any Project Gutenberg-tm  
+
+work, (b) alteration, modification, or additions or deletions to any  
+
+Project Gutenberg-tm work, and (c) any Defect you cause.  
+
+Section  2.  Information about the Mission of Project Gutenberg-tm  
+
+Project Gutenberg-tm is synonymous with the free distribution of  
+
+electronic works in formats readable by the widest variety of computers  
+
+including obsolete, old, middle-aged and new computers.  It exists  
+
+because of the efforts of hundreds of volunteers and donations from  
+
+people in all walks of life.  
+
+Volunteers and financial support to provide volunteers with the  
+
+assistance they need, are critical to reaching Project Gutenberg-tm's  
+
+goals and ensuring that the Project Gutenberg-tm collection will  
+
+remain freely available for generations to come.  In 2001, the Project  
+
+Gutenberg Literary Archive Foundation was created to provide a secure  
+
+and permanent future for Project Gutenberg-tm and future generations.  
+
+To learn more about the Project Gutenberg Literary Archive Foundation  
+
+and how your efforts and donations can help, see Sections 3 and 4  
+
+and the Foundation web page at http://www.pglaf.org.  
+
+Section 3.  Information about the Project Gutenberg Literary Archive  
+
+Foundation  
+
+The Project Gutenberg Literary Archive Foundation is a non profit  
+
+501(c)(3) educational corporation organized under the laws of the  
+
+state of Mississippi and granted tax exempt status by the Internal  
+
+Revenue Service.  The Foundation's EIN or federal tax identification  
+
+number is 64-6221541.  Its 501(c)(3) letter is posted at  
+
+http://pglaf.org/fundraising.  Contributions to the Project Gutenberg  
+
+Literary Archive Foundation are tax deductible to the full extent  
+
+permitted by U.S. federal laws and your state's laws.  
+
+The Foundation's principal office is located at 4557 Melan Dr. S.  
+
+Fairbanks, AK, 99712., but its volunteers and employees are scattered  
+
+throughout numerous locations.  Its business office is located at  
+
+809 North 1500 West, Salt Lake [[City]], UT 84116, (801) 596-1887, email  
+
+business@pglaf.org.  Email contact links and up to date contact  
+
+information can be found at the Foundation's web site and official  
+
+page at http://pglaf.org  
+
+For additional contact information:  
+
+     Dr. Gregory B. Newby  
+
+     Chief Executive and Director  
+
+     gbnewby@pglaf.org  
+
+Section 4.  Information about Donations to the Project Gutenberg  
+
+Literary Archive Foundation  
+
+Project Gutenberg-tm depends upon and cannot survive without wide  
+
+spread public support and donations to carry out its mission of  
+
+increasing the number of public domain and licensed works that can be  
+
+freely distributed in [[Machine|machine]] readable form accessible by the widest  
+
+array of equipment including outdated equipment.  Many small donations  
+
+($1 to $5,000) are particularly important to maintaining tax exempt  
+
+status with the IRS.  
+
+The Foundation is committed to complying with the laws regulating  
+
+charities and charitable donations in all 50 states of the United  
+
+States.  Compliance requirements are not uniform and it takes a  
+
+considerable effort, much paperwork and many fees to meet and keep up  
+
+with these requirements.  We do not solicit donations in locations  
+
+where we have not received written confirmation of compliance.  To  
+
+SEND DONATIONS or determine the status of compliance for any  
+
+particular state visit http://pglaf.org  
+
+While we cannot and do not solicit contributions from states where we  
+
+have not met the solicitation requirements, we know of no prohibition  
+
+against accepting unsolicited donations from donors in such states who  
+
+approach us with offers to donate.  

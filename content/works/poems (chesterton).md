@@ -59,19 +59,6 @@ tags:
 - [part 08](/testi/chesterton/atomized/poems/part/part_08)
 - [part 09](/testi/chesterton/atomized/poems/part/part_09)
 - [part 10](/testi/chesterton/atomized/poems/part/part_10)
-- [part 11](/testi/chesterton/atomized/poems/part/part_11)
-- [part 12](/testi/chesterton/atomized/poems/part/part_12)
-- [part 13](/testi/chesterton/atomized/poems/part/part_13)
-- [part 14](/testi/chesterton/atomized/poems/part/part_14)
-- [part 15](/testi/chesterton/atomized/poems/part/part_15)
-- [part 16](/testi/chesterton/atomized/poems/part/part_16)
-- [part 17](/testi/chesterton/atomized/poems/part/part_17)
-- [part 18](/testi/chesterton/atomized/poems/part/part_18)
-- [part 19](/testi/chesterton/atomized/poems/part/part_19)
-- [part 20](/testi/chesterton/atomized/poems/part/part_20)
-- [part 21](/testi/chesterton/atomized/poems/part/part_21)
-- [part 22](/testi/chesterton/atomized/poems/part/part_22)
-- [part 23](/testi/chesterton/atomized/poems/part/part_23)
 
 ## Testo integrale / Full text
 

@@ -14,198 +14,628 @@ tags:
 </nav>
 
 
-     He shakes the peacock gardens as he rises from his ease,  
+     One nameless, tattered, broken man  
 
-     And he strides among the tree-tops and is taller than the trees,  
+       Stood up and drank to God.  
 
-     And his voice through all the [[Garden|garden]] is a thunder sent to bring  
+     Sun has been where the rain is now,  
 
-     Black Azrael and [[Ariel]] and Ammon on the wing.  
+       [[Bees]] in the heat to hum,  
 
-     Giants and the Genii,  
+     Haply a humming maiden came,  
 
-     Multiplex of wing and eye,  
+       Now let the [[deluge|Deluge]] come:  
 
-     Whose strong obedience broke the sky  
+     Brown of aureole, green of garb,  
 
-     When Solomon was [[King|king]].  
+       Straight as a golden rod,  
 
-     They rush in red and purple from the red clouds of the morn,  
+     Drink to the throne of thunder now!  
 
-     From temples where the yellow gods shut up their eyes in scorn;  
+       Drink to the wrath of God.  
 
-     They rise in green robes roaring from the green hells of the sea  
+     High in the wreck I held the cup,  
 
-     Where fallen skies and evil hues and eyeless creatures be;  
+       I clutched my rusty [[Sword|sword]],  
 
-     On them the sea-valves cluster and the grey sea-forests curl,  
+     I cocked my tattered feather  
 
-     Splashed with a splendid sickness, the sickness of the pearl;  
+       To the glory of the Lord.  
 
-     They swell in sapphire smoke out of the blue cracks of the ground,--  
+     Not undone were the heaven and earth,  
 
-     They gather and they [[Wonder|wonder]] and give worship to Mahound.  
+       This hollow world thrown up,  
 
-     And he saith, "Break up the [[Mountains|mountains]] where the hermit-folk can hide,  
+     Before one man had stood up straight!  
 
-     And sift the red and silver sands lest bone of saint abide,  
+       And drained it like a cup.  
 
-     And chase the Giaours flying [[Night|night]] and day, not giving rest,  
+     THE STRANGE MUSIC  
 
-     For that which was our trouble comes again out of the west.  
+     Other loves may sink and settle, other loves may loose and slack,  
 
-     We have set the seal of Solomon on all things under sun,  
+     But I wander like a minstrel with a harp upon his back,  
 
-     Of knowledge and of sorrow and [[Endurance|endurance]] of things done,  
+     Though the harp be on my bosom, though I finger and I fret,  
 
-     But a noise is in 'the [[Mountains|mountains]], in the [[Mountains|mountains]], and I know  
+     Still, my [[Hope|hope]] is all before me: for I cannot play it yet.  
 
-     The voice that shook our palaces--four hundred years ago:  
+     In your strings is hid a music that no hand hath ere let fall,  
 
-     It is he that saith not 'Kismet'; it is he that knows not Fate;  
+     In your [[Soul|soul]] is sealed a pleasure that you have not known at all;  
 
-     It is [[Richard]], it is Raymond, it is Godfrey in the gate!  
+     Pleasure subtle as your spirit, strange and slender as your frame,  
 
-     It is he whose loss is laughter when he counts the wager worth,  
+     Fiercer than the [[Pain|pain]] that folds you, softer than your sorrow's name.  
 
-     Put down your feet upon him, that our peace be on the earth."  
+     Not as mine, my [[Soul|soul]]'s anointed, not as mine the rude and light  
 
-     For he heard drums groaning and he heard guns jar,  
+     Easy mirth of many faces, swaggering [[Pride|pride]] of [[Song|song]] and fight;  
 
-     _([[Don John of Austria]] is going to the war.)_  
+     Something stranger, something sweeter, something waiting you afar,  
 
-     Sudden and still--hurrah!  
+     Secret as your stricken senses, [[Magic|magic]] as your sorrows are.  
 
-     Bolt from Iberia!  
+     But on this, God's harp supernal, stretched but to be stricken once.  
 
-     [[Don John of Austria]]  
+     Hoary [[Time]] is a beginner, Life a bungler, [[Death]] a dunce.  
 
-     Is gone by Alcalar.  
+     But I will not [[Fear|fear]] to match them--no, by God, I will not [[Fear|fear]],  
 
-     St. [[Michael]]'s on his Mountain in the sea-roads of the north  
+     I will learn you, I will play you and the [[Stars|stars]] stand still to hear.  
 
-     _([[Don John of Austria]] is girt and going forth.)_  
+     THE GREAT MINIMUM  
 
-     Where the grey seas glitter and the sharp tides shift  
+     It is something to have wept as we have wept,  
 
-     And the sea-folk labour and the red sails lift.  
+     It is something to have done as we have done,  
 
-     He shakes his lance of iron and he claps his wings of stone;  
+     It is something to have watched when all men slept,  
 
-     The noise is gone through Normandy; the noise is gone [[Alone|alone]];  
+     And seen the [[Stars|stars]] which never see the sun.  
 
-     The North is full of tangled things and texts and aching eyes  
+     It is something to have smelt the mystic [[Rose|rose]],  
 
-     And dead is all the [[innocence]] of anger and surprise,  
+     Although it break and leave the thorny rods,  
 
-     And Christian killeth Christian in a narrow dusty  
+     It is something to have hungered once as those  
 
-     And Christian dreadeth [[Christ]] that hath a newer face of doom,  
+     Must hunger who have ate the bread of gods.  
 
-     And Christian hateth Mary that God kissed in Galilee,  
+     To have seen you and your unforgotten face,  
 
-     But [[Don John of Austria]] is riding to the sea.  
+     Brave as a blast of trumpets for the fray.  
 
-     [[Don John]] calling through the blast and the eclipse  
+     Pure as white lilies in a watery space,  
 
-     Crying with the trumpet, with the trumpet of his lips,  
+     It were something, though you went from me to-day.  
 
-     Trumpet that sayeth ha!  
+     To have known the things that from the weak are furled,  
 
-         _Domino gloria_!  
+     Perilous ancient passions, strange and high;  
 
-     [[Don John of Austria]]  
+     It is something to be wiser than the world,  
 
-     Is shouting to the ships.  
+     It is something to be older than the sky.  
 
-     [[King]] Philip's in his closet with the Fleece about his neck  
+     In a [[Time|time]] of sceptic moths and cynic rusts,  
 
-     _([[Don John of Austria]] is armed upon the deck.)_  
+     And fatted lives that of their sweetness tire,  
 
-     The walls are hung with velvet that is black and soft as sin,  
+     In a world of flying loves and fading lusts,  
 
-     And little dwarfs creep out of it and little dwarfs creep in.  
+     It is something to be sure of a [[Desire|desire]].  
 
-     He holds a crystal phial that has colours like the [[Moon|moon]],  
+     Lo, blessed are our ears for they have heard;  
 
-     He touches, and it tingles, and he trembles very  
+     Yea, blessed are our eyes for they have seen:  
 
-     And his face is as a fungus of a leprous white and grey  
+     Let thunder break on man and beast and bird  
 
-     Like plants in the high houses that are shuttered from the day.  
+     And the [[Lightning|lightning]]. It is something to have been.  
 
-     And [[Death|death]] is in the phial and the end of noble work,  
+     THE MORTAL ANSWERS  
 
-     But [[Don John of Austria]] has fired upon the Turk.  
+                   .................COME AWAY--  
 
-     [[Don John]]'s hunting, and his hounds have bayed--Booms  
+          WITH THE FAIRIES, HAND IN HAND,  
 
-     away past [[Italy]] the rumour of his raid.  
+          FOR THE WORLD IS MORE FULL OF WEEPING  
 
-     Gun upon gun, ha! ha!  
+          THAN YOU CAN UNDERSTAND.  
 
-     Gun upon gun, hurrah!  
+                                _W.B. Yeats_.  
 
-     [[Don John of Austria]]  
+     From the Wood of the Old Wives' Fables  
 
-     Has loosed the cannonade.  
+       They glittered out of the grey,  
 
-     The Pope was in his chapel before day or battle broke,  
+     And with all the Armies of Elf-land  
 
-     _([[Don John of Austria]] is hidden in the smoke.)_  
+       I strove like a beast at bay;  
 
-     The hidden room in man's [[house]] where God sits all the year,  
+     With only a right arm wearied,  
 
-     The secret [[Window|window]] whence the world looks small and very dear.  
+       Only a red [[Sword|sword]] worn,  
 
-     He sees as in a [[Mirror|mirror]] on the monstrous twilight sea  
+     And the [[Pride|pride]] of the [[house|House]] of Adam  
 
-     The crescent of his cruel ships whose name is mystery;  
+       That holdeth the [[Stars|stars]] in scorn.  
 
-     They fling great shadows foe-wards, making [[Cross]] and [[Castle]] dark,  
+     For they came with [[Chains|chains]] of [[Flowers|flowers]]  
 
-     They veil the plumed lions on the galleys of St. Mark;  
+       And lilies lances free,  
 
-     And above the ships are palaces of brown, black-bearded chiefs,  
+     There in the quiet greenwood  
 
-     And below the ships are prisons, where with multitudinous griefs,  
+       To take my grief from me.  
 
-     Christian captives sick and sunless, all a labouring race repines  
+     And I said, "Now all is shaken  
 
-     Like a race in sunken cities, like a nation in the mines.  
+       When heavily hangs the brow,  
 
-     They are lost like slaves that swat, and in the skies of morning hung  
+     When the [[Hope|hope]] of the years is taken  
 
-     The stair-ways of the tallest gods when tyranny was young.  
+       The last star sunken. Now--  
 
-     They are countless, voiceless, hopeless as those fallen or fleeing on  
+     "Hear, you chattering cricket,  
 
-     Before the high Kings' horses in the granite of Babylon.  
+       Hear, you spawn of the sod,  
 
-     And many a one grows witless in his quiet room in hell  
+     The strange strong cry in the darkness  
 
-     Where a yellow face looks inward through the lattice of his cell,  
+       Of one man praising God,  
 
-     And he finds his God forgotten, and he seeks no more a sign_(But  
+     "That out of the [[Night|night]] and nothing  
 
-     [[Don John of Austria]] has burst the battle-line!)_  
+       With travail of birth he came  
 
-     [[Don John]] pounding from the slaughter-painted poop,  
+     To stand one hour in the sunlight  
 
-     Purpling all the ocean like a bloody pirate's sloop,  
+       Only to say her name.  
 
-     Scarlet running over on the silvers and the golds,  
+     "Falls through her hair the sunshine  
 
-     Breaking of the hatches up and bursting of the holds,  
+       In showers; it touches, see,  
 
-     Thronging of the thousands up that labour under sex  
+     Her high bright cheeks in turning;  
 
-     White for bliss and blind for sun and stunned for liberty.  
+       Ah, Elfin Company,  
 
-     _Vivat Hispania!_  
+     "The world is hot and cruel,  
 
-     _Domino Gloria!_  
+       We are weary of heart and hand.  
 
-     [[Don John of Austria]]  
+     But the world is more full of glory  
 
-     Has set his people free!  
+       Than you can understand."  
+
+     A [[Marriage|MARRIAGE]] [[Song|SONG]]  
+
+     Why should we reck of hours that rend  
+
+       While we two ride together?  
+
+     The heavens rent from end to end  
+
+       Would be but windy weather,  
+
+     The strong [[Stars|stars]] shaken down in spate  
+
+       Would be a shower of [[spring]],  
+
+     And we should list the trump of fate  
+
+       And hear a linnet sing.  
+
+     We break the line with stroke and luck,  
+
+       The arrows run like rain,  
+
+     If you be struck, or I be struck,  
+
+       There's one to strike again.  
+
+     If you befriend, or I befriend,  
+
+       The strength is in us twain,  
+
+     And good things end and bad things end,  
+
+       And you and I remain.  
+
+     Why should we reck of ill or [[Well|well]]  
+
+       While we two ride together?  
+
+     The fires that over Sodom fell  
+
+       Would be but sultry weather.  
+
+     Beyond all ends to all men given  
+
+       Our race is far and fell,  
+
+     We shall but wash our feet in heaven,  
+
+       And warm our hands in hell.  
+
+     Battles [[unborn]] and vast shall view  
+
+       Our faltered standards stream,  
+
+     New friends shall come and frenzies new.  
+
+       New troubles toil and teem;  
+
+     New friends shall pass and still renew  
+
+       One [[Truth|truth]] that does not seem,  
+
+     That I am I, and you are you,  
+
+       And [[Death]] a morning dream.  
+
+     Why should we reck of scorn or praise  
+
+       While we two ride together?  
+
+     The icy air of godless days  
+
+       Shall be but wintry weather.  
+
+     If hell were highest, if the heaven  
+
+       Were blue with devils blue,  
+
+     I should have guessed that all was even,  
+
+       If I had dreamed of you.  
+
+     Little I reck of empty prides,  
+
+       Of creeds more cold than clay;  
+
+     To nobler ends and longer rides,  
+
+       My lady rides to-day.  
+
+     To swing our swords and take our sides  
+
+       In that all-ending fray  
+
+     When [[Stars|stars]] fall down and darkness hides,  
+
+       When God shall turn to bay.  
+
+     Why should we reck of grin and groan  
+
+       While we two ride together?  
+
+     The triple thunders of the throne  
+
+       Would be but stormy weather.  
+
+     For us the last great fight shall roar,  
+
+       Upon the ultimate plains,  
+
+     And we shall turn and tell once more  
+
+       Our [[Love|love]] in English lanes.  
+
+     BAY COMBE  
+
+     With [[Leaves|leaves]] below and [[Leaves|leaves]] above,  
+
+     And groping under tree and tree,  
+
+     I found the [[Home|home]] of my true [[Love|love]],  
+
+     Who is a wandering [[Home|home]] for me.  
+
+     Who, lost in ruined worlds aloof,  
+
+     Bore the dread dove wings like a roof;  
+
+     Who, past the last lost [[Stars|stars]] of space  
+
+     Carried the [[Fire|fire]]-light on her face.  
+
+     Who, passing as in idle hours,  
+
+     Tamed the wild weeds to [[Garden|garden]] [[Flowers|flowers]];  
+
+     Stroked the strange whirlwind's whirring wings,  
+
+     And made the comets homely things.  
+
+     Where she went by upon her way  
+
+     The dark was dearer than the day;  
+
+     Where she paused in heaven or hell,  
+
+     The whole world's tale had ended [[Well|well]].  
+
+     _With [[Leaves|leaves]] below and [[Leaves|leaves]] above._  
+
+     _And groping under tree and tree,_  
+
+     _I found the [[Home|home]] of my true [[Love|love]],_  
+
+     _Who is a wandering [[Home|home]] for me_.  
+
+     Where she was flung, above, beneath,  
+
+     By the rude [[Dance|dance]] of life and [[Death|death]],  
+
+     Grow she at Gotham--die at Rome,  
+
+     Between the pine trees is her [[Home|home]].  
+
+     In some strange town, some silver morn,  
+
+     She may have wandered to be born;  
+
+     Stopped at some motley crowd impressed,  
+
+     And called them kinsfolk for a jest.  
+
+     If we again En goodness thrive,  
+
+     And the dead saints become alive,  
+
+     Then pedants bald and parchments brown  
+
+     May claim her [[Blood|blood]] for [[London]] town.  
+
+     _But [[Leaves|leaves]] below and [[Leaves|leaves]] above._  
+
+     _And groping under tree and tree,_  
+
+     _I found the [[Home|home]] of my true [[Love|love]],_  
+
+     _Who is a wandering [[Home|home]] for me_.  
+
+     The great gravestone she may pass by,  
+
+     And without noticing, may die;  
+
+     The streets of silver Heaven may tread,  
+
+     With her grey awful eyes unfed.  
+
+     The [[City|city]] of great peace in [[Pain|pain]]  
+
+     May pass, until she find again  
+
+     This little [[house]] of holm and fir  
+
+     God built before the [[Stars|stars]] for her.  
+
+     Here in the fallen [[Leaves|leaves]] is furled  
+
+     Her secret centre of the world.  
+
+     We sit and feel in dusk and dun  
+
+     The [[Stars|stars]] swing round us like a sun.  
+
+     _For [[Leaves|leaves]] below and [[Leaves|leaves]] above._  
+
+     _And groping under tree and tree,_  
+
+     _I found the [[Home|home]] of my true [[Love|love]]._  
+
+     _Who is a wandering [[Home|home]] for me_.  
+
+     IV  
+
+     RELIGIOUS [[Poems|POEMS]]  
+
+     THE WISE MEN  
+
+     Step softly, under [[Snow|snow]] or rain,  
+
+       To find the place where men can pray;  
+
+     The way is all so very plain  
+
+     That we may lose the way.  
+
+     Oh, we have learnt to peer and pore  
+
+       On tortured puzzles from our youth,  
+
+     We know all labyrinthine lore,  
+
+     We are the three wise mert of yore,  
+
+       And we know all things but the [[Truth|truth]].  
+
+     We have gone round and round the [[Hill|hill]],  
+
+       And lost the wood among the trees,  
+
+     And learnt long names for every ill,  
+
+     And served the mad gods, naming still  
+
+       The Furies the Eumenides.  
+
+     The gods of violence took the veil  
+
+       Of vision and [[philosophy]],  
+
+     The Serpent that brought all men bale,  
+
+     He bites his own accursed tail,  
+
+       And calls himself [[Eternity]].  
+
+     Go humbly ... it has hailed and snowed ...  
+
+       With voices low and lanterns lit;  
+
+     So very simple is the [[Road|road]],  
+
+       That we may stray from it.  
+
+     The world grows terrible and white,  
+
+       And blinding white the breaking day;  
+
+     We walk bewildered in the light,  
+
+     For something is too large for sight,  
+
+       And something much too plain to say.  
+
+     The [[Child]] that was ere worlds begun  
+
+       (... We need but walk a little way,  
+
+     We need but see a latch undone,...)  
+
+     The [[Child]] that played with [[Moon|moon]] and sun  
+
+       Is playing with a little hay.  
+
+     The [[house]] from which the heavens are fed,  
+
+       The old strange [[house]] that is our own,  
+
+     Where tricks of words are never said.  
+
+     And [[Mercy]] is as plain as bread,  
+
+       And [[Honour]] is as hard as stone.  
+
+     Go humbly; humble are the skies,  
+
+       And low and large and fierce the Star;  
+
+     So very near the Manger lies  
+
+       That we may travel far.  
+
+     Hark! Laughter like a [[Lion|lion]] wakes  
+
+       To roar to the resounding plain,  
+
+     And the whole heaven shouts and shakes,  
+
+       For God Himself is born again,  
+
+     And we are little children walking  
+
+       Through the [[Snow|snow]] and rain.  
+
+     THE [[house|HOUSE]] OF CHRISTMAS  
+
+     There fared a mother driven forth  
+
+     Out of an inn to roam;  
+
+     In the place where she was homeless  
+
+     All men are at [[Home|home]].  
+
+     The crazy stable close at hand,  
+
+     With shaking timber and shifting sand,  
+
+     Grew a stronger thing to abide and stand  
+
+     Than the square stones of Rome.  
+
+     For men are homesick in their homes,  
+
+     And strangers under the sun,  
+
+     And they lay their heads in a foreign land  
+
+     Whenever the day is done.  
+
+     Here we have battle and blazing eyes,  
+
+     And chance and [[Honour|honour]] and high surprise,  
+
+     Where the yule tale was begun.  
+
+     A [[Child]] in a foul stable,  
+
+     Where the beasts feed and foam;  
+
+     Only where He was homeless  
+
+     Are you and I at [[Home|home]];  
+
+     We have hands that fashion and heads that  
+
+     But our hearts we lost--how long ago!  
+
+     In a place no chart nor [[Ship|ship]] can show  
+
+     Under the sky's dome.  
+
+     This world is wild as an old wives' tale,  
+
+     And strange the plain things are,  
+
+     The earth is enough and the air is enough  
+
+     For our [[Wonder|wonder]] and our war;  
+
+     But our rest is as far as the [[Fire|fire]]-drake swings  
+
+     And our peace is put in impossible things  
+
+     Where clashed and thundered unthinkable wings  
+
+     Round an incredible star.  
+
+     To an open [[house]] in the evening  
+
+     [[Home]] shall men come,  
+
+     To an older place than Eden  
+
+     And a taller town than Rome.  
+
+     To the end of the way of the wandering star,  
+
+     To the things that cannot be and that are,  
+
+     To the place where God was homeless  
+
+     And all men are at [[Home|home]].  
+
+     A [[Song|SONG]] OF GIFTS TO GOD  
+
+     When the first Christmas presents came, the straw where [[Christ]] was rolled  
+
+     Smelt sweeter than their frankincense, burnt brighter than their gold,  
+
+     And a wise man said, "We will not give; the thanks would be but cold."  
+
+     "Nay," said the next, "To all new gifts, to this gift or another,  
+
+     Bends the high gratitude of God; even as He now, my brother,  
+
+     Who had a Father for all [[Time|time]], yet thanks Him for a Mother.  
+
+     "Yet scarce for Him this yellow stone or prickly-smells and sparse.  
+
+     Who holds the gold heart of the sun that fed these timber bars,  
+
+     Nor any scentless lily lives for One that smells the [[Stars|stars]]."  
+
+     Then spake the third of the Wise Men; the wisest of the three:  
+
+     "We may not with the widest lives enlarge His liberty,  
+
+     Whose wings are wider than the world. It is not He, but we.  
+
+     "We say not He has more to gain, but we have more to lose.  

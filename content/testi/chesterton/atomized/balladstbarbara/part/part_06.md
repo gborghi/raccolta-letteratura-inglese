@@ -10,256 +10,368 @@ tags:
 
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/balladstbarbara-(chesterton)">BalladStBarbara</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/balladstbarbara/part/part_05">‹ part 05</a><a class="ex-next" href="/testi/chesterton/atomized/balladstbarbara/part/part_07">part 07 ›</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/balladstbarbara/part/part_05">‹ part 05</a><span></span></div>
 </nav>
 
 
-    For wreck of the world's renown,  
+"Plain Vanilla ASCII" or other format used in the official version  
 
-    Rending and ending of things gone rotten,  
+posted on the official Project Gutenberg-tm web site (www.gutenberg.org),  
 
-    Only the face of you unforgotten:  
+you must, at no additional cost, fee or expense to the user, provide a  
 
-    And your head upthrown in the skies [[Alone|alone]]  
+copy, a means of exporting a copy, or a means of obtaining a copy upon  
 
-    As you came over the down.  
+request, of the work in its original "Plain Vanilla ASCII" or other  
 
-    THE RED SEA  
+form.  Any alternate format must include the full Project Gutenberg-tm  
 
-    Our souls shall be Leviathans  
+License as specified in paragraph 1.E.1.  
 
-    In purple seas of wine  
+1.E.7.  Do not charge a fee for access to, viewing, displaying,  
 
-    When drunkenness is dead with [[Death|death]],  
+performing, copying or distributing any Project Gutenberg-tm works  
 
-    And drink is all divine;  
+unless you comply with paragraph 1.E.8 or 1.E.9.  
 
-    Learning in those immortal vats  
+1.E.8.  You may charge a reasonable fee for copies of or providing  
 
-    What mortal vineyards mean;  
+access to or distributing Project Gutenberg-tm electronic works provided  
 
-    For only in heaven we shall know  
+that  
 
-    How happy we have been.  
+- You pay a royalty fee of 20% of the gross profits you derive from
 
-    Like clouds that wallow in the [[Wind|wind]]  
+     the use of Project Gutenberg-tm works calculated using the method  
 
-    Be free to drift and drink;  
+     you already use to calculate your applicable taxes.  The fee is  
 
-    Tower without insolence when we rise,  
+     owed to the owner of the Project Gutenberg-tm trademark, but he  
 
-    Without surrender sink:  
+     has agreed to donate royalties under this paragraph to the  
 
-    [[Dreams]] dizzy and crazy we shall know  
+     Project Gutenberg Literary Archive Foundation.  Royalty payments  
 
-    And have no need to write  
+     must be paid within 60 days following each date on which you  
 
-    Our blameless blasphemies of praise,  
+     prepare (or are legally required to prepare) your periodic tax  
 
-    Our nightmares of delight.  
+     returns.  Royalty payments should be clearly marked as such and  
 
-    For so in such misshapen shape  
+     sent to the Project Gutenberg Literary Archive Foundation at the  
 
-    The vision came to me,  
+     address specified in Section 4, "Information about donations to  
 
-    Where such titanian dolphins dark  
+     the Project Gutenberg Literary Archive Foundation."  
 
-    Roll in a sunset sea:  
+- You provide a full refund of any money paid by a user who notifies
 
-    Dark with dense colours, strange and strong  
+     you in writing (or by e-mail) within 30 days of receipt that s/he  
 
-    As terrible true [[Love|love]],  
+     does not agree to the terms of the full Project Gutenberg-tm  
 
-    Haloed like fish in phospher light  
+     License.  You must require such a user to return or  
 
-    The holy monsters move.  
+     destroy all copies of the works possessed in a physical medium  
 
-    Measure is here and law, to learn,  
+     and discontinue all use of and all access to other copies of  
 
-    When [[Honour|honour]] rules it so,  
+     Project Gutenberg-tm works.  
 
-    To lift the glass and lay it down  
+- You provide, in accordance with paragraph 1.F.3, a full refund of any
 
-    Or break the glass and go.  
+     money paid for a work or a replacement copy, if a defect in the  
 
-    But when the world's New [[deluge|Deluge]] boils  
+     electronic work is discovered and reported to you within 90 days  
 
-    From the New Noah's vine,  
+     of receipt of the work.  
 
-    Our souls shall be Leviathans  
+- You comply with all other terms of this agreement for free
 
-    In sanguine seas of wine.  
+     distribution of Project Gutenberg-tm works.  
 
-    FOR A WAR MEMORIAL  
+1.E.9.  If you wish to charge a fee or distribute a Project Gutenberg-tm  
 
-    _(Suggested [[Inscription]] probably not selected by the  
+electronic work or group of works on different terms than are set  
 
-    Committee.)_  
+forth in this agreement, you must obtain permission in writing from  
 
-    The hucksters haggle in the mart  
+both the Project Gutenberg Literary Archive Foundation and [[Michael]]  
 
-    The cars and carts go by;  
+Hart, the owner of the Project Gutenberg-tm trademark.  Contact the  
 
-    Senates and schools go droning on;  
+Foundation as set forth in Section 3 below.  
 
-    For dead things cannot die.  
+1.F.  
 
-    A [[Storm|storm]] stooped on the place of tombs  
+1.F.1.  Project Gutenberg volunteers and employees expend considerable  
 
-    With bolts to blast and rive;  
+effort to identify, do copyright research on, transcribe and proofread  
 
-    But these be names of many men  
+public domain works in creating the Project Gutenberg-tm  
 
-    The [[Lightning|lightning]] found alive.  
+collection.  Despite these efforts, Project Gutenberg-tm electronic  
 
-    If usurers rule and rights [[Decay|decay]]  
+works, and the medium on which they may be stored, may contain  
 
-    And visions view once more  
+"Defects," such as, but not limited to, incomplete, inaccurate or  
 
-    Great Carthage like a golden shell  
+corrupt data, transcription errors, a copyright or other intellectual  
 
-    Gape hollow on the shore,  
+property infringement, a defective or damaged disk or other medium, a  
 
-    Still to the last of crumbling [[Time|time]]  
+computer virus, or computer codes that damage or cannot be read by  
 
-    Upon this stone be read  
+your equipment.  
 
-    How many men of England died  
+1.F.2.  LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right  
 
-    To prove they were not dead.  
+of Replacement or Refund" described in paragraph 1.F.3, the Project  
 
-    [[Memory|MEMORY]]  
+Gutenberg Literary Archive Foundation, the owner of the Project  
 
-    If I ever go back to Baltimore,  
+Gutenberg-tm trademark, and any other party distributing a Project  
 
-    The [[City|city]] of Maryland,  
+Gutenberg-tm electronic work under this agreement, disclaim all  
 
-    I shall miss again as I missed before  
+liability to you for damages, costs and expenses, including legal  
 
-    A thousand things of the world in store,  
+fees.  YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT  
 
-    The story standing in every door  
+LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE  
 
-    That beckons with every hand.  
+PROVIDED IN PARAGRAPH F3.  YOU AGREE THAT THE FOUNDATION, THE  
 
-    I shall not know where the bonds were riven  
+TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE  
 
-    And a hundred faiths set free,  
+LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR  
 
-    Where a wandering cavalier had given  
+INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH  
 
-    Her hundredth name to the [[Queen]] of Heaven,  
+DAMAGE.  
 
-    And made oblation of feuds forgiven  
+1.F.3.  LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a  
 
-    To Our Lady of Liberty.  
+defect in this electronic work within 90 days of receiving it, you can  
 
-    I shall not travel the tracks of fame  
+receive a refund of the money (if any) you paid for it by sending a  
 
-    Where the war was not to the strong;  
+written explanation to the person you received the work from.  If you  
 
-    When Lee the last of the heroes came  
+received the work on a physical medium, you must return the medium with  
 
-    With the Men of the South and a [[Flag|flag]] like flame,  
+your written explanation.  The person or entity that provided you with  
 
-    And called the land by its lovely name  
+the defective work may elect to provide a replacement copy in lieu of a  
 
-    In the unforgotten [[Song|song]].  
+refund.  If you received the work electronically, the person or entity  
 
-    If ever I [[Cross|cross]] the sea and stray  
+providing it to you may choose to give you a second opportunity to  
 
-    To the [[City|city]] of Maryland,  
+receive the work electronically in lieu of a refund.  If the second copy  
 
-    I will sit on a stone and watch or pray  
+is also defective, you may demand a refund in writing without further  
 
-    For a stranger's [[Child|child]] that was there one day:  
+opportunities to fix the problem.  
 
-    And the [[Child|child]] will never come back to play,  
+1.F.4.  Except for the limited right of replacement or refund set forth  
 
-    And no-one will understand.  
+in paragraph 1.F.3, this work is provided to you 'AS-IS' WITH NO OTHER  
 
-    THE ENGLISH GRAVES  
+WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO  
 
-    Were I that wandering citizen whose [[City|city]] is the world,  
+WARRANTIES OF MERCHANTIBILITY OR FITNESS FOR ANY PURPOSE.  
 
-    I would not weep for all that fell before the flags were furled;  
+1.F.5.  Some states do not allow disclaimers of certain implied  
 
-    I would not let one murmur mar the trumpets volleying forth  
+warranties or the exclusion or limitation of certain types of damages.  
 
-    How God grew weary of the kings, and the cold hell in the north.  
+If any disclaimer or limitation set forth in this agreement violates the  
 
-    But we whose hearts are homing [[Birds|birds]] have heavier thoughts of [[Home|home]],  
+law of the state applicable to this agreement, the agreement shall be  
 
-    Though the great eagles burn with gold on [[Paris]] or on Rome,  
+interpreted to make the maximum disclaimer or limitation permitted by  
 
-    Who stand beside our dead and stare, like seers at an eclipse,  
+the applicable state law.  The invalidity or unenforceability of any  
 
-    At the [[Riddle|riddle]] of the island tale and the twilight of the ships.  
+provision of this agreement shall not void the remaining provisions.  
 
-    For these were simple men that loved with hands and feet and eyes,  
+1.F.6.  INDEMNITY - You agree to indemnify and hold the Foundation, the  
 
-    Whose souls were humbled to the hills and narrowed to the skies,  
+trademark owner, any agent or employee of the Foundation, anyone  
 
-    The hundred little lands within one little land that lie,  
+providing copies of Project Gutenberg-tm electronic works in accordance  
 
-    Where Severn seeks the sunset isles or Sussex scales the sky.  
+with this agreement, and any volunteers associated with the production,  
 
-    And what is theirs, though banners blow on Warsaw risen again,  
+promotion and distribution of Project Gutenberg-tm electronic works,  
 
-    Or ancient laughter walks in gold through the vineyards of Lorraine,  
+harmless from all liability, costs and expenses, including legal fees,  
 
-    Their dead are marked on English stones, their loves on English trees,  
+that arise directly or indirectly from any of the following which you do  
 
-    How little is the prize they win, how mean a coin for these--  
+or cause to occur: (a) distribution of this or any Project Gutenberg-tm  
 
-    How small a shrivelled laurel-leaf lies crumpled here and curled:  
+work, (b) alteration, modification, or additions or deletions to any  
 
-    They died to save their country and they only saved the world.  
+Project Gutenberg-tm work, and (c) any Defect you cause.  
 
-    [[nightmare|NIGHTMARE]]  
+Section  2.  Information about the Mission of Project Gutenberg-tm  
 
-    The silver and violet leopard of the [[Night|night]]  
+Project Gutenberg-tm is synonymous with the free distribution of  
 
-    Spotted with [[Stars|stars]] and smooth with [[Silence|silence]] sprang;  
+electronic works in formats readable by the widest variety of computers  
 
-    And though three doors stood open, the end of light  
+including obsolete, old, middle-aged and new computers.  It exists  
 
-    Closed like a trap; and stillness was a clang.  
+because of the efforts of hundreds of volunteers and donations from  
 
-    Under the leopard sky of lurid [[Stars|stars]]  
+people in all walks of life.  
 
-    I strove with evil [[Sleep|sleep]] the hot [[Night|night]] long,  
+Volunteers and financial support to provide volunteers with the  
 
-    [[Dreams]] dumb and swollen of triumphs without wars,  
+assistance they need, are critical to reaching Project Gutenberg-tm's  
 
-    Of tongueless trumpet and unanswering gong.  
+goals and ensuring that the Project Gutenberg-tm collection will  
 
-    I saw a pale imperial pomp go by,  
+remain freely available for generations to come.  In 2001, the Project  
 
-    Helmet and hornèd mitre and heavy wreath;  
+Gutenberg Literary Archive Foundation was created to provide a secure  
 
-    Their high strange ensigns hung upon the sky  
+and permanent future for Project Gutenberg-tm and future generations.  
 
-    And their great shields were like the doors of [[Death|death]].  
+To learn more about the Project Gutenberg Literary Archive Foundation  
 
-    Their mitres were as moving pyramids  
+and how your efforts and donations can help, see Sections 3 and 4  
 
-    And all their crowns as marching towers were tall;  
+and the Foundation web page at http://www.pglaf.org.  
 
-    Their eyes were cold under their carven lids  
+Section 3.  Information about the Project Gutenberg Literary Archive  
 
-    And the same carven smile was on them all.  
+Foundation  
 
-    Over a paven plain that seemed unending  
+The Project Gutenberg Literary Archive Foundation is a non profit  
 
-    They passed unfaltering till it found an end  
+501(c)(3) educational corporation organized under the laws of the  
 
-    In one long shallow step; and these descending  
+state of Mississippi and granted tax exempt status by the Internal  
 
-    Fared forth anew as long away to wend.  
+Revenue Service.  The Foundation's EIN or federal tax identification  
 
-    I thought they travelled for a thousand years;  
+number is 64-6221541.  Its 501(c)(3) letter is posted at  
 
-    And at the end was nothing for them all,  
+http://pglaf.org/fundraising.  Contributions to the Project Gutenberg  
 
-    For all that splendour of sceptres and of spears,  
+Literary Archive Foundation are tax deductible to the full extent  
+
+permitted by U.S. federal laws and your state's laws.  
+
+The Foundation's principal office is located at 4557 Melan Dr. S.  
+
+Fairbanks, AK, 99712., but its volunteers and employees are scattered  
+
+throughout numerous locations.  Its business office is located at  
+
+809 North 1500 West, Salt Lake [[City]], UT 84116, (801) 596-1887, email  
+
+business@pglaf.org.  Email contact links and up to date contact  
+
+information can be found at the Foundation's web site and official  
+
+page at http://pglaf.org  
+
+For additional contact information:  
+
+     Dr. Gregory B. Newby  
+
+     Chief Executive and Director  
+
+     gbnewby@pglaf.org  
+
+Section 4.  Information about Donations to the Project Gutenberg  
+
+Literary Archive Foundation  
+
+Project Gutenberg-tm depends upon and cannot survive without wide  
+
+spread public support and donations to carry out its mission of  
+
+increasing the number of public domain and licensed works that can be  
+
+freely distributed in [[Machine|machine]] readable form accessible by the widest  
+
+array of equipment including outdated equipment.  Many small donations  
+
+($1 to $5,000) are particularly important to maintaining tax exempt  
+
+status with the IRS.  
+
+The Foundation is committed to complying with the laws regulating  
+
+charities and charitable donations in all 50 states of the United  
+
+States.  Compliance requirements are not uniform and it takes a  
+
+considerable effort, much paperwork and many fees to meet and keep up  
+
+with these requirements.  We do not solicit donations in locations  
+
+where we have not received written confirmation of compliance.  To  
+
+SEND DONATIONS or determine the status of compliance for any  
+
+particular state visit http://pglaf.org  
+
+While we cannot and do not solicit contributions from states where we  
+
+have not met the solicitation requirements, we know of no prohibition  
+
+against accepting unsolicited donations from donors in such states who  
+
+approach us with offers to donate.  
+
+International donations are gratefully accepted, but we cannot make  
+
+any statements concerning tax treatment of donations received from  
+
+outside the United States.  U.S. laws [[Alone|alone]] swamp our small staff.  
+
+Please check the Project Gutenberg Web pages for current donation  
+
+methods and addresses.  Donations are accepted in a number of other  
+
+ways including checks, online payments and credit card donations.  
+
+To donate, please visit: http://pglaf.org/donate  
+
+Section 5.  General Information About Project Gutenberg-tm electronic  
+
+works.  
+
+Professor [[Michael]] S. Hart is the originator of the Project Gutenberg-tm  
+
+concept of a library of electronic works that could be freely shared  
+
+with anyone.  For thirty years, he produced and distributed Project  
+
+Gutenberg-tm eBooks with only a loose network of volunteer support.  
+
+Project Gutenberg-tm eBooks are often created from several printed  
+
+editions, all of which are confirmed as Public Domain in the U.S.  
+
+unless a copyright notice is included.  Thus, we do not necessarily  
+
+keep eBooks in compliance with any particular paper edition.  
+
+Most people start at our Web site which has the main PG search facility:  
+
+     http://www.gutenberg.org  
+
+This Web site includes information about Project Gutenberg-tm,  
+
+including how to make donations to the Project Gutenberg Literary  
+
+Archive Foundation, how to help produce our new eBooks, and how to  
+
+subscribe to our email newsletter to hear about new eBooks.

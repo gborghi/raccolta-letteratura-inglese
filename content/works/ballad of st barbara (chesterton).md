@@ -48,7 +48,6 @@ tags:
 ## Chapters / scenes / sections
 
 - [part 01](/testi/chesterton/atomized/ballad_of_st_barbara/part/part_01)
-- [part 02](/testi/chesterton/atomized/ballad_of_st_barbara/part/part_02)
 
 ## Testo integrale / Full text
 
