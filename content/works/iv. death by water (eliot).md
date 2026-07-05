@@ -2,7 +2,7 @@
 title: IV. Death by Water
 author: Eliot
 type: work
-cluster: Sea · Water · Sea
+cluster: Sea · Water
 source: Authors/Eliot/_raw/031_IV_Death_by_Water.md
 tags:
   - graph/work
@@ -15,7 +15,7 @@ tags:
   - topos/memento_mori
 ---
 
-*by Eliot*  ·  **Cluster:** [[Sea · Water · Sea]]
+*by Eliot*  ·  **Cluster:** [[Sea · Water]]
 
 > [!abstract] 
 > Short fourth section: Phlebas the Phoenician drowned, his bones picked by a current under sea; mortality, the sea, vanitas and the indifference of death to profit and loss.

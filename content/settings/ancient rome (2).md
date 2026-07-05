@@ -1,7 +1,7 @@
 ---
 title: Ancient Rome
 type: setting
-cluster: Honour · Ancient Rome · Ancient Rome
+cluster: Honour · Ancient Rome
 tags:
   - graph/setting
 ---

@@ -2,7 +2,7 @@
 title: 'SCHILLER: DER EPISCHE HEXAMETER'
 author: Coleridge
 type: work
-cluster: Sea · Water · Sea
+cluster: Sea · Water
 source: Authors/Coleridge/_raw/434_SCHILLER_DER_EPISCHE_HEXAMETER.md
 tags:
   - graph/work
@@ -14,7 +14,7 @@ tags:
   - concept/immortality_of_art
 ---
 
-*by Coleridge*  ·  **Cluster:** [[Sea · Water · Sea]]
+*by Coleridge*  ·  **Cluster:** [[Sea · Water]]
 
 > [!abstract] 
 > Schiller's epigrammatic couplets on metre itself, figuring the epic hexameter as a streaming wave and the distich as a fountain rising in the hexameter and falling in the pentameter; metapoetic verse on poetic form.

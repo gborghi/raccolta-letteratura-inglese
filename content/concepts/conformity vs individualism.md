@@ -1,7 +1,7 @@
 ---
 title: Conformity vs Individualism
 type: concept
-cluster: Terror and Horror · Madness · Madness
+cluster: Terror and Horror · Madness
 tags:
   - graph/concept
 ---

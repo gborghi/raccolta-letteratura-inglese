@@ -1,7 +1,7 @@
 ---
 title: Mockingbird
 type: motif
-cluster: Sea · Water · Sea
+cluster: Sea · Water
 tags:
   - graph/motif
 ---

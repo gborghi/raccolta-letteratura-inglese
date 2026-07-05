@@ -2,7 +2,7 @@
 title: A Paumanok Picture
 author: Whitman
 type: work
-cluster: Sea · Water · Sea
+cluster: Sea · Water
 source: Authors/Whitman/_raw/254_A_Paumanok_Picture.md
 tags:
   - graph/work
@@ -14,7 +14,7 @@ tags:
   - form/fragment
 ---
 
-*by Whitman*  ·  **Cluster:** [[Sea · Water · Sea]]
+*by Whitman*  ·  **Cluster:** [[Sea · Water]]
 
 > [!abstract] 
 > Imagist seascape of Long Island fishermen drawing a seine of mossbonkers onto the beach; a still, concrete picture of sea and labor.

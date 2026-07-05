@@ -1,7 +1,7 @@
 ---
 title: Diana Westermaine
 type: character
-cluster: Terror and Horror · Madness · Madness
+cluster: Terror and Horror · Madness
 tags:
   - graph/character
 ---

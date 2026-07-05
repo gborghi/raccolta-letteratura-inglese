@@ -2,7 +2,7 @@
 title: Out of the Cradle Endlessly Rocking
 author: Whitman
 type: work
-cluster: Sea · Water · Sea
+cluster: Sea · Water
 source: Authors/Whitman/_raw/102_Out_of_the_Cradle_Endlessly_Rocking.md
 tags:
   - graph/work
@@ -22,7 +22,7 @@ tags:
   - setting/the_sea
 ---
 
-*by Whitman*  ·  **Cluster:** [[Sea · Water · Sea]]
+*by Whitman*  ·  **Cluster:** [[Sea · Water]]
 
 > [!abstract] 
 > The poet's origin-myth: a boy on the Paumanok shore hears a mockingbird mourn its lost mate and the sea whisper 'death'; free-verse elegiac lyric on love, loss, death and the birth of the bard.

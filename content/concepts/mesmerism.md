@@ -1,7 +1,7 @@
 ---
 title: Mesmerism
 type: concept
-cluster: Terror and Horror · Madness · Madness
+cluster: Terror and Horror · Madness
 tags:
   - graph/concept
 ---

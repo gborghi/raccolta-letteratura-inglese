@@ -1,7 +1,7 @@
 ---
 title: Volumnia
 type: character
-cluster: Honour · Ancient Rome · Ancient Rome
+cluster: Honour · Ancient Rome
 tags:
   - graph/character
 ---

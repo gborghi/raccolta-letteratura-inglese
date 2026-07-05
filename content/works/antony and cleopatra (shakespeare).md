@@ -2,7 +2,7 @@
 title: ANTONY AND CLEOPATRA
 author: Shakespeare
 type: work
-cluster: Honour · Ancient Rome · Ancient Rome
+cluster: Honour · Ancient Rome
 source: Authors/Shakespeare/_raw/037_Antony_and_Cleopatra.md
 tags:
   - graph/work
@@ -38,7 +38,7 @@ tags:
   - character/charmian
 ---
 
-*by Shakespeare*  ·  **Cluster:** [[Honour · Ancient Rome · Ancient Rome]]
+*by Shakespeare*  ·  **Cluster:** [[Honour · Ancient Rome]]
 
 > [!abstract] 
 > Shakespeare's Roman tragedy in blank verse dramatizing the ruinous passion of Mark Antony and the Egyptian queen Cleopatra, set against the disintegrating triumvirate; its themes are love as empire-destroying desire, the conflict of Rome and Egypt, and transcendent death.

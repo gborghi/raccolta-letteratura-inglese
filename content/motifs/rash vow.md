@@ -1,7 +1,7 @@
 ---
 title: Rash Vow
 type: motif
-cluster: Terror and Horror · Madness · Madness
+cluster: Terror and Horror · Madness
 tags:
   - graph/motif
 ---

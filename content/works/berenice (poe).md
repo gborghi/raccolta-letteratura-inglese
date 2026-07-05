@@ -2,7 +2,7 @@
 title: Berenice
 author: Poe
 type: work
-cluster: Terror and Horror · Madness · Madness
+cluster: Terror and Horror · Madness
 source: Authors/Poe/_raw/Berenice.md
 tags:
   - graph/work
@@ -27,7 +27,7 @@ tags:
   - setting/the_castle
 ---
 
-*by Poe*  ·  **Cluster:** [[Terror and Horror · Madness · Madness]]
+*by Poe*  ·  **Cluster:** [[Terror and Horror · Madness]]
 
 > [!abstract] 
 > A gothic horror tale in which the monomaniac Egaeus, obsessed with his dying cousin Berenice's teeth, violates her premature grave to extract them; explores madness, obsession, decay, and the horror of the body.

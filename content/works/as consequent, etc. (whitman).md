@@ -2,7 +2,7 @@
 title: 'As Consequent, Etc.'
 author: Whitman
 type: work
-cluster: Sea · Water · Sea
+cluster: Sea · Water
 source: Authors/Whitman/_raw/191_As_Consequent_Etc.md
 tags:
   - graph/work
@@ -15,7 +15,7 @@ tags:
   - motif/autumn
 ---
 
-*by Whitman*  ·  **Cluster:** [[Sea · Water · Sea]]
+*by Whitman*  ·  **Cluster:** [[Sea · Water]]
 
 > [!abstract] 
 > Prefatory poem of Autumn Rivulets figuring the poet's songs as autumn streams flowing to the mystic ocean of time and death; rivers, sea, shells, and continuity of life.

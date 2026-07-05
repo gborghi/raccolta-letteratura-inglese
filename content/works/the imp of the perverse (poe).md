@@ -2,7 +2,7 @@
 title: The Imp of the Perverse
 author: Poe
 type: work
-cluster: Terror and Horror · Madness · Madness
+cluster: Terror and Horror · Madness
 source: Authors/Poe/_raw/The Imp of the Perverse.md
 tags:
   - graph/work
@@ -22,7 +22,7 @@ tags:
   - form/short_story
 ---
 
-*by Poe*  ·  **Cluster:** [[Terror and Horror · Madness · Madness]]
+*by Poe*  ·  **Cluster:** [[Terror and Horror · Madness]]
 
 > [!abstract] 
 > Essay-tale on the self-destructive impulse to act against one's own interest; a murderer's compulsion to confess illustrates guilt, conscience and perverse human nature.

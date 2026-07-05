@@ -2,7 +2,7 @@
 title: DURA NAVIS
 author: Coleridge
 type: work
-cluster: Sea · Water · Sea
+cluster: Sea · Water
 source: Authors/Coleridge/_raw/001_DURA_NAVIS.md
 tags:
   - graph/work
@@ -18,7 +18,7 @@ tags:
   - concept/marriage_and_fidelity
 ---
 
-*by Coleridge*  ·  **Cluster:** [[Sea · Water · Sea]]
+*by Coleridge*  ·  **Cluster:** [[Sea · Water]]
 
 > [!abstract] 
 > A schoolboy poem warning a venturous youth against going to sea, cataloguing storm, naval battle, famine, and cannibalism, and praising the contented peace of home and domestic love.

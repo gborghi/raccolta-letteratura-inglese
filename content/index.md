@@ -33,7 +33,7 @@ Spin through the thirteen authors — each emblem opens that author's works.
 
 ## Thematic clusters
 
-The 96 clusters group works by the constellations of theme and form they share. Here are the twelve largest.
+The 95 clusters group works by the constellations of theme and form they share. Here are the twelve largest.
 
 <div class="radial-wheel" data-wheel="clusters" data-center="Clusters" data-center-sub="62 in all"></div>
 

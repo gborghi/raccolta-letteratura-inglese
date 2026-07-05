@@ -1,7 +1,7 @@
 ---
 title: Caleb Plummer
 type: character
-cluster: Supernatural
+cluster: Supernatural · Uncanny · Double
 tags:
   - graph/character
 ---

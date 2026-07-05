@@ -2,7 +2,7 @@
 title: For Lovers Only
 author: Chesterton
 type: work
-cluster: Terror and Horror · Madness · Madness
+cluster: Terror and Horror · Madness
 source: Authors/Chesterton/_raw/lovers.md
 tags:
   - graph/work
@@ -27,7 +27,7 @@ tags:
 
 # lovers
 
-*by Chesterton*  ·  **Cluster:** [[Terror and Horror · Madness · Madness]]
+*by Chesterton*  ·  **Cluster:** [[Terror and Horror · Madness]]
 
 > [!abstract] 
 > A short prose episode from The Poet and the Lunatics: the painter Gabriel Gale, who sees the world upside down to see it truly, woos Diana by asking her to make a rash vow; whimsy, love and madness.

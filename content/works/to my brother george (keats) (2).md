@@ -2,7 +2,7 @@
 title: TO MY BROTHER GEORGE
 author: Keats
 type: work
-cluster: Sea · Water · Sea
+cluster: Sea · Water
 source: Authors/Keats/_raw/012_TO_MY_BROTHER_GEORGE.md
 tags:
   - graph/work
@@ -14,7 +14,7 @@ tags:
   - concept/wonder_and_gratitude
 ---
 
-*by Keats*  ·  **Cluster:** [[Sea · Water · Sea]]
+*by Keats*  ·  **Cluster:** [[Sea · Water]]
 
 > [!abstract] 
 > Sonnet on the wonders of sea and sky witnessed in a day, made meaningful only by the absent brother's shared thought; nature, the sea and fraternal love.

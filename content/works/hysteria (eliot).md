@@ -2,7 +2,7 @@
 title: Hysteria
 author: Eliot
 type: work
-cluster: Terror and Horror · Madness · Madness
+cluster: Terror and Horror · Madness
 source: Authors/Eliot/_raw/011_Hysteria.md
 tags:
   - graph/work
@@ -14,7 +14,7 @@ tags:
   - form/lyric
 ---
 
-*by Eliot*  ·  **Cluster:** [[Terror and Horror · Madness · Madness]]
+*by Eliot*  ·  **Cluster:** [[Terror and Horror · Madness]]
 
 > [!abstract] 
 > Prose-poem of a man engulfed by a woman's laughter; the grotesque, anxiety, fragmentation and an uneasy fascination/revulsion toward female sexuality.

@@ -2,7 +2,7 @@
 title: THE NETHERLANDS
 author: Coleridge
 type: work
-cluster: Sea · Water · Sea
+cluster: Sea · Water
 source: Authors/Coleridge/_raw/392_THE_NETHERLANDS.md
 tags:
   - graph/work
@@ -14,7 +14,7 @@ tags:
   - topos/book_of_nature
 ---
 
-*by Coleridge*  ·  **Cluster:** [[Sea · Water · Sea]]
+*by Coleridge*  ·  **Cluster:** [[Sea · Water]]
 
 > [!abstract] 
 > A brief descriptive fragment of the watery Dutch landscape — windmills, willows, fog-transfixing spires and wide water; pure topographical imagism.

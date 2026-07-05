@@ -2,7 +2,7 @@
 title: The World below the Brine
 author: Whitman
 type: work
-cluster: Sea · Water · Sea
+cluster: Sea · Water
 source: Authors/Whitman/_raw/108_The_World_below_the_Brine.md
 tags:
   - graph/work
@@ -15,7 +15,7 @@ tags:
   - motif/water
 ---
 
-*by Whitman*  ·  **Cluster:** [[Sea · Water · Sea]]
+*by Whitman*  ·  **Cluster:** [[Sea · Water]]
 
 > [!abstract] 
 > A catalogue of the strange life of the ocean floor and its passions and wars, paralleling change between spheres of being; free-verse lyric on the sea, nature and metempsychosis.

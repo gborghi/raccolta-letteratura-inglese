@@ -1,5 +1,5 @@
 ---
-title: Sea · Water · Sea
+title: Sea · Water
 type: cluster
 tags:
   - graph/cluster
@@ -12,4 +12,4 @@ tags:
 
 ## Works
 
-<div class="concept-works" data-slug="clusters/sea-·-water-·-sea"></div>
+<div class="concept-works" data-slug="clusters/sea-·-water"></div>

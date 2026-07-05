@@ -2,7 +2,7 @@
 title: '(Originally appeared in ''The Daily News'', Oct. 16, 1909,'
 author: Chesterton
 type: work
-cluster: Terror and Horror · Madness · Madness
+cluster: Terror and Horror · Madness
 source: Authors/Chesterton/_raw/nightmare.md
 tags:
   - graph/work
@@ -38,7 +38,7 @@ tags:
 
 # nightmare
 
-*by Chesterton*  ·  **Cluster:** [[Terror and Horror · Madness · Madness]]
+*by Chesterton*  ·  **Cluster:** [[Terror and Horror · Madness]]
 
 > [!abstract] 
 > A meditative essay on tales of terror, arguing the imagination may play with horror only if the soul stays upright and Christian; the terror must be 'fundamentally frivolous'. Themes: imagination, the grotesque, faith as anchor.

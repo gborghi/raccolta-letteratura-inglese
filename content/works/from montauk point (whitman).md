@@ -2,7 +2,7 @@
 title: From Montauk Point
 author: Whitman
 type: work
-cluster: Sea · Water · Sea
+cluster: Sea · Water
 source: Authors/Whitman/_raw/296_From_Montauk_Point.md
 tags:
   - graph/work
@@ -14,7 +14,7 @@ tags:
   - form/lyric
 ---
 
-*by Whitman*  ·  **Cluster:** [[Sea · Water · Sea]]
+*by Whitman*  ·  **Cluster:** [[Sea · Water]]
 
 > [!abstract] 
 > A short free-verse seascape of restless waves forever seeking the shore from an eagle's vantage; themes of the sea, nature and ceaseless striving.

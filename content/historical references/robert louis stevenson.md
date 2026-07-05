@@ -1,7 +1,7 @@
 ---
 title: Robert Louis Stevenson
 type: histref
-cluster: Terror and Horror · Madness · Madness
+cluster: Terror and Horror · Madness
 tags:
   - graph/histref
 ---

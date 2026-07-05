@@ -2,7 +2,7 @@
 title: Paumanok
 author: Whitman
 type: work
-cluster: Sea · Water · Sea
+cluster: Sea · Water
 source: Authors/Whitman/_raw/295_Paumanok.md
 tags:
   - graph/work
@@ -14,7 +14,7 @@ tags:
   - form/lyric
 ---
 
-*by Whitman*  ·  **Cluster:** [[Sea · Water · Sea]]
+*by Whitman*  ·  **Cluster:** [[Sea · Water]]
 
 > [!abstract] 
 > A short free-verse apostrophe to Long Island as sea-beauty between ocean and sound; themes of place, the sea and nature.

@@ -2,7 +2,7 @@
 title: MRS. SIDDONS
 author: Coleridge
 type: work
-cluster: Terror and Horror · Madness · Madness
+cluster: Terror and Horror · Madness
 source: Authors/Coleridge/_raw/089_MRS_SIDDONS.md
 tags:
   - graph/work
@@ -15,7 +15,7 @@ tags:
   - motif/night
 ---
 
-*by Coleridge*  ·  **Cluster:** [[Terror and Horror · Madness · Madness]]
+*by Coleridge*  ·  **Cluster:** [[Terror and Horror · Madness]]
 
 > [!abstract] 
 > A sonnet praising the tragic actress Siddons by likening her effect to a child's terror and pity at ghost-tales of witches and murdered babes; themes of terror, pity, and the theatrical sublime.

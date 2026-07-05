@@ -2,7 +2,7 @@
 title: CORIOLANUS
 author: Shakespeare
 type: work
-cluster: Honour · Ancient Rome · Ancient Rome
+cluster: Honour · Ancient Rome
 source: Authors/Shakespeare/_raw/040_Coriolanus.md
 tags:
   - graph/work
@@ -37,7 +37,7 @@ tags:
   - character/cominius
 ---
 
-*by Shakespeare*  ·  **Cluster:** [[Honour · Ancient Rome · Ancient Rome]]
+*by Shakespeare*  ·  **Cluster:** [[Honour · Ancient Rome]]
 
 > [!abstract] 
 > Shakespeare's last Roman tragedy in austere blank verse, on the proud warrior Caius Marcius Coriolanus whose contempt for the plebeians brings banishment and his vengeful alliance with Rome's enemies; themes are pride, class conflict, honour, and the politics of the state.

@@ -1,7 +1,7 @@
 ---
 title: Antihero
 type: archetype
-cluster: Terror and Horror · Madness · Madness
+cluster: Terror and Horror · Madness
 tags:
   - graph/archetype
 ---

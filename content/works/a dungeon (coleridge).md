@@ -2,7 +2,7 @@
 title: A DUNGEON
 author: Coleridge
 type: work
-cluster: Terror and Horror · Madness · Madness
+cluster: Terror and Horror · Madness
 source: Authors/Coleridge/_raw/379_A_DUNGEON.md
 tags:
   - graph/work
@@ -18,7 +18,7 @@ tags:
   - motif/animals
 ---
 
-*by Coleridge*  ·  **Cluster:** [[Terror and Horror · Madness · Madness]]
+*by Coleridge*  ·  **Cluster:** [[Terror and Horror · Madness]]
 
 > [!abstract] 
 > A sequence of poetic fragments on confinement, nature, the moon, snow, the grave and madness; imagistic 'studies' for longer poems blending despair and natural description.

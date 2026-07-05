@@ -2,7 +2,7 @@
 title: FANCIES AT NAVESINK
 author: Whitman
 type: work
-cluster: Sea · Water · Sea
+cluster: Sea · Water
 source: Authors/Whitman/_raw/313_FANCIES_AT_NAVESINK.md
 tags:
   - graph/work
@@ -24,7 +24,7 @@ tags:
   - concept/the_sublime
 ---
 
-*by Whitman*  ·  **Cluster:** [[Sea · Water · Sea]]
+*by Whitman*  ·  **Cluster:** [[Sea · Water]]
 
 > [!abstract] 
 > Eight-part sea sequence at Navesink meditating on tides, ebb and flow, death, rebirth, and the poet's life summed up against the ocean.

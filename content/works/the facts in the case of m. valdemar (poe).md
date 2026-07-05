@@ -2,7 +2,7 @@
 title: The Facts in the Case of M. Valdemar
 author: Poe
 type: work
-cluster: Terror and Horror · Madness · Madness
+cluster: Terror and Horror · Madness
 source: Authors/Poe/_raw/The Facts in the Case of M. Valdemar.md
 tags:
   - graph/work
@@ -17,7 +17,7 @@ tags:
   - form/short_story
 ---
 
-*by Poe*  ·  **Cluster:** [[Terror and Horror · Madness · Madness]]
+*by Poe*  ·  **Cluster:** [[Terror and Horror · Madness]]
 
 > [!abstract] 
 > A pseudo-scientific horror tale in which a dying man is mesmerized at the point of death and held suspended for months until his sudden, grotesque dissolution; themes of death, the uncanny, and bodily decay.

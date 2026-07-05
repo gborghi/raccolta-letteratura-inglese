@@ -2,7 +2,7 @@
 title: THE MADMAN AND THE LETHARGIST
 author: Coleridge
 type: work
-cluster: Terror and Horror · Madness · Madness
+cluster: Terror and Horror · Madness
 source: Authors/Coleridge/_raw/239_THE_MADMAN_AND_THE_LETHARGIST.md
 tags:
   - graph/work
@@ -17,7 +17,7 @@ tags:
   - form/satire
 ---
 
-*by Coleridge*  ·  **Cluster:** [[Terror and Horror · Madness · Madness]]
+*by Coleridge*  ·  **Cluster:** [[Terror and Horror · Madness]]
 
 > [!abstract] 
 > Satirical verse-fable of a madman (Jacobin France) and a lethargist (John Bull) curing each other by chance, with a political-satiric edge. Themes of madness, satire and folly.

@@ -1,7 +1,7 @@
 ---
 title: Supernatural
 type: concept
-cluster: Supernatural
+cluster: Supernatural · Uncanny · Double
 tags:
   - graph/concept
 ---

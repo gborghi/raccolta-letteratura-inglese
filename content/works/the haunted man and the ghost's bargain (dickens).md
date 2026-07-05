@@ -2,7 +2,7 @@
 title: The Haunted Man and the Ghost's Bargain
 author: Dickens
 type: work
-cluster: Supernatural
+cluster: Supernatural · Uncanny · Double
 source: Authors/Dickens/_raw/The_Haunted_Man_and_the_Ghosts_Bargain.md
 tags:
   - graph/work
@@ -43,7 +43,7 @@ tags:
   - character/the_phantom
 ---
 
-*by Dickens*  ·  **Cluster:** [[Supernatural]]
+*by Dickens*  ·  **Cluster:** [[Supernatural · Uncanny · Double]]
 
 > [!abstract] 
 > Dickens's last Christmas Book (1848), a supernatural moral allegory in which the chemist Redlaw accepts a phantom double's bargain to forget all sorrow, wrong and trouble, only to spread coldness and lose his humanity until love and memory restore him; themes of memory, grief, redemption and the prayer 'Lord keep my Memory green.'

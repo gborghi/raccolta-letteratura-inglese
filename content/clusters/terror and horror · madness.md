@@ -1,5 +1,5 @@
 ---
-title: Terror and Horror · Madness · Madness
+title: Terror and Horror · Madness
 type: cluster
 tags:
   - graph/cluster
@@ -12,4 +12,4 @@ tags:
 
 ## Works
 
-<div class="concept-works" data-slug="clusters/terror-and-horror-·-madness-·-madness"></div>
+<div class="concept-works" data-slug="clusters/terror-and-horror-·-madness"></div>

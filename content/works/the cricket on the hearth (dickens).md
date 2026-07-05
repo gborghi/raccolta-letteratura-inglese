@@ -2,7 +2,7 @@
 title: The Cricket on the Hearth
 author: Dickens
 type: work
-cluster: Supernatural
+cluster: Supernatural · Uncanny · Double
 source: Authors/Dickens/_raw/The_Cricket_on_the_Hearth.md
 tags:
   - graph/work
@@ -35,7 +35,7 @@ tags:
   - character/tilly_slowboy
 ---
 
-*by Dickens*  ·  **Cluster:** [[Supernatural]]
+*by Dickens*  ·  **Cluster:** [[Supernatural · Uncanny · Double]]
 
 > [!abstract] 
 > Dickens's third Christmas Book (1845), a domestic fairy-tale novella in which the chirping hearth-cricket acts as a household guardian spirit; centres on the carrier John Peerybingle, his young wife Dot, a mysterious lodger, and a near-mistaken jealousy resolved into marital fidelity, charity, and festive reconciliation.

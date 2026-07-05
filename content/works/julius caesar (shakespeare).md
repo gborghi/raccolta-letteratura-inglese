@@ -2,7 +2,7 @@
 title: JULIUS CAESAR
 author: Shakespeare
 type: work
-cluster: Honour · Ancient Rome · Ancient Rome
+cluster: Honour · Ancient Rome
 source: Authors/Shakespeare/_raw/023_Julius_Caesar.md
 tags:
   - graph/work
@@ -41,7 +41,7 @@ tags:
   - character/calpurnia
 ---
 
-*by Shakespeare*  ·  **Cluster:** [[Honour · Ancient Rome · Ancient Rome]]
+*by Shakespeare*  ·  **Cluster:** [[Honour · Ancient Rome]]
 
 > [!abstract] 
 > A Roman tragedy on the conspiracy and assassination of Caesar and its bloody aftermath, centred on Brutus's divided conscience; it dramatizes political idealism, rhetoric, fate and omens, and the cost of civil war.

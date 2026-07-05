@@ -1,7 +1,7 @@
 ---
 title: Sea
 type: setting
-cluster: Sea · Water · Sea
+cluster: Sea · Water
 tags:
   - graph/setting
 ---

@@ -2,7 +2,7 @@
 title: THE RAPE OF LUCRECE
 author: Shakespeare
 type: work
-cluster: Honour · Ancient Rome · Ancient Rome
+cluster: Honour · Ancient Rome
 source: Authors/Shakespeare/_raw/008_The_Rape_of_Lucrece.md
 tags:
   - graph/work
@@ -31,7 +31,7 @@ tags:
   - character/collatine
 ---
 
-*by Shakespeare*  ·  **Cluster:** [[Honour · Ancient Rome · Ancient Rome]]
+*by Shakespeare*  ·  **Cluster:** [[Honour · Ancient Rome]]
 
 > [!abstract] 
 > Tragic narrative poem in rhyme royal: Tarquin's rape of the chaste Roman matron Lucrece, her grief and suicide, and the political revolution it triggers. Central themes: lust, honour and chastity, guilt, justice and the fall of tyranny.

@@ -2,7 +2,7 @@
 title: Lines for an Old Man
 author: Eliot
 type: work
-cluster: Terror and Horror · Madness · Madness
+cluster: Terror and Horror · Madness
 source: Authors/Eliot/_raw/056_Lines_for_an_Old_Man.md
 tags:
   - graph/work
@@ -15,7 +15,7 @@ tags:
   - form/lyric
 ---
 
-*by Eliot*  ·  **Cluster:** [[Terror and Horror · Madness · Madness]]
+*by Eliot*  ·  **Cluster:** [[Terror and Horror · Madness]]
 
 > [!abstract] 
 > Snarling dramatic lyric of an old man as a caged tiger: wit, blood, the golden eye, madness; age, bitterness and self-knowledge.

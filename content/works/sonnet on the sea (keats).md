@@ -2,7 +2,7 @@
 title: Sonnet on the Sea
 author: Keats
 type: work
-cluster: Sea · Water · Sea
+cluster: Sea · Water
 source: Authors/Keats/_raw/065_Sonnet_on_the_Sea.md
 tags:
   - graph/work
@@ -17,7 +17,7 @@ tags:
   - form/sonnet
 ---
 
-*by Keats*  ·  **Cluster:** [[Sea · Water · Sea]]
+*by Keats*  ·  **Cluster:** [[Sea · Water]]
 
 > [!abstract] 
 > A sonnet on the eternal whisperings and mighty swell of the sea, invoking Hecate and the sea-nymphs as solace for the weary; the sea, nature, the sublime and classical myth.

@@ -1,5 +1,5 @@
 ---
-title: Honour · Ancient Rome · Ancient Rome
+title: Honour · Ancient Rome
 type: cluster
 tags:
   - graph/cluster
@@ -12,4 +12,4 @@ tags:
 
 ## Works
 
-<div class="concept-works" data-slug="clusters/honour-·-ancient-rome-·-ancient-rome"></div>
+<div class="concept-works" data-slug="clusters/honour-·-ancient-rome"></div>

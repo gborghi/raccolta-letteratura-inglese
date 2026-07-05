@@ -2,7 +2,7 @@
 title: THE MAD MONK
 author: Coleridge
 type: work
-cluster: Terror and Horror · Madness · Madness
+cluster: Terror and Horror · Madness
 source: Authors/Coleridge/_raw/193_THE_MAD_MONK.md
 tags:
   - graph/work
@@ -18,7 +18,7 @@ tags:
   - concept/unrequited_love
 ---
 
-*by Coleridge*  ·  **Cluster:** [[Terror and Horror · Madness · Madness]]
+*by Coleridge*  ·  **Cluster:** [[Terror and Horror · Madness]]
 
 > [!abstract] 
 > A ballad set by Etna in which a mad monk's song laments lost steady loveliness and confesses the murder of his beloved Rosa, a Gothic study of grief, guilt and madness.

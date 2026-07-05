@@ -2,7 +2,7 @@
 title: The Tell-Tale Heart
 author: Poe
 type: work
-cluster: Terror and Horror · Madness · Madness
+cluster: Terror and Horror · Madness
 source: Authors/Poe/_raw/The Tell-Tale Heart.md
 tags:
   - graph/work
@@ -21,7 +21,7 @@ tags:
   - form/short_story
 ---
 
-*by Poe*  ·  **Cluster:** [[Terror and Horror · Madness · Madness]]
+*by Poe*  ·  **Cluster:** [[Terror and Horror · Madness]]
 
 > [!abstract] 
 > A first-person tale of a mad narrator who murders an old man over his 'vulture eye', dismembers the body, then is undone by the imagined beating of the dead man's heart. Themes of madness, guilt, conscience and terror.

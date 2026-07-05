@@ -2,7 +2,7 @@
 title: Sonnet on a Picture of Leander
 author: Keats
 type: work
-cluster: Sea · Water · Sea
+cluster: Sea · Water
 source: Authors/Keats/_raw/062_Sonnet_on_a_Picture_of_Leander.md
 tags:
   - graph/work
@@ -18,7 +18,7 @@ tags:
   - form/sonnet
 ---
 
-*by Keats*  ·  **Cluster:** [[Sea · Water · Sea]]
+*by Keats*  ·  **Cluster:** [[Sea · Water]]
 
 > [!abstract] 
 > A sonnet on a picture of Leander drowning as he swims to Hero, dying for love amid the dreary sea; the love-death, the sea, and the unattainable beloved from Greek myth.

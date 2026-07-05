@@ -1,7 +1,7 @@
 ---
 title: William Swidger
 type: character
-cluster: Supernatural
+cluster: Supernatural · Uncanny · Double
 tags:
   - graph/character
 ---

@@ -2,7 +2,7 @@
 title: The Black Cat
 author: Poe
 type: work
-cluster: Terror and Horror · Madness · Madness
+cluster: Terror and Horror · Madness
 source: Authors/Poe/_raw/The Black Cat.md
 tags:
   - graph/work
@@ -25,7 +25,7 @@ tags:
   - form/short_story
 ---
 
-*by Poe*  ·  **Cluster:** [[Terror and Horror · Madness · Madness]]
+*by Poe*  ·  **Cluster:** [[Terror and Horror · Madness]]
 
 > [!abstract] 
 > A condemned narrator confesses how alcohol and the spirit of perverseness led him to mutilate and hang his cat and murder his wife, his guilt betrayed by a second cat; a tale of guilt, madness and the grotesque.

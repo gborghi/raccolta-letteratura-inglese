@@ -2,7 +2,7 @@
 title: Out of the Rolling Ocean the Crowd
 author: Whitman
 type: work
-cluster: Sea · Water · Sea
+cluster: Sea · Water
 source: Authors/Whitman/_raw/033_Out_of_the_Rolling_Ocean_the_Crowd.md
 tags:
   - graph/work
@@ -15,7 +15,7 @@ tags:
   - motif/water
 ---
 
-*by Whitman*  ·  **Cluster:** [[Sea · Water · Sea]]
+*by Whitman*  ·  **Cluster:** [[Sea · Water]]
 
 > [!abstract] 
 > A lover figured as a drop from the rolling ocean, met and returned, yet ultimately one with the whole; love, the sea, transience, cosmic unity.

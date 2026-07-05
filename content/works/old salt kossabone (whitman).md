@@ -2,7 +2,7 @@
 title: Old Salt Kossabone
 author: Whitman
 type: work
-cluster: Sea · Water · Sea
+cluster: Sea · Water
 source: Authors/Whitman/_raw/322_Old_Salt_Kossabone.md
 tags:
   - graph/work
@@ -17,7 +17,7 @@ tags:
   - form/narrative_poem
 ---
 
-*by Whitman*  ·  **Cluster:** [[Sea · Water · Sea]]
+*by Whitman*  ·  **Cluster:** [[Sea · Water]]
 
 > [!abstract] 
 > A narrative of an old sailor ancestor who dies at his window the moment he sees a ship win free to the open sea.

@@ -2,7 +2,7 @@
 title: THE MADMAN AND THE LETHARGIST
 author: Coleridge
 type: work
-cluster: Terror and Horror · Madness · Madness
+cluster: Terror and Horror · Madness
 source: Authors/Coleridge/_raw/447_THE_MADMAN_AND_THE_LETHARGIST_1.md
 tags:
   - graph/work
@@ -16,7 +16,7 @@ tags:
   - histref/classical_antiquity
 ---
 
-*by Coleridge*  ·  **Cluster:** [[Terror and Horror · Madness · Madness]]
+*by Coleridge*  ·  **Cluster:** [[Terror and Horror · Madness]]
 
 > [!abstract] 
 > A Greek epigram (Anthologia Graeca) on a madman and a lethargist as figures of folly, with an appended Guarini madrigal-dialogue of Faith, Hope and Charity calling souls back to God; epigram and devotional allegory.
