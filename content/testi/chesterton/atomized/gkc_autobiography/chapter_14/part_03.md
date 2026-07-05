@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/gkc-autobiography-(chesterton)">GKC Autobiography</a> › <a href="/testi/chesterton/atomized/gkc_autobiography/chapter_14">Chapter 14</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/gkc_autobiography/chapter_14/part_02">‹ part 02</a><a class="ex-next" href="/testi/chesterton/atomized/gkc_autobiography/chapter_14/part_04">part 04 ›</a></div>
@@ -126,3 +128,125 @@ into two classes of masters and servants, to all sorts of proposals
 for preventing strikes and lock-outs by compulsory arbitration.
 Any law that sends a man back to his work, when he wants to leave it,
 is in plain fact a Fugitive Slave Law.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/gkc-autobiography-(chesterton)">GKC Autobiography</a> › <a href="/testi/chesterton/atomized/gkc_autobiography/chapter_14">Chapter 14</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/gkc_autobiography/chapter_14/part_02">‹ part 02</a><a class="ex-next" href="/testi/chesterton/atomized/gkc_autobiography/chapter_14/part_04">part 04 ›</a></div>
+</nav>
+
+Quello non è un [[Song|Canto]] Prima del Levar del Sole. Quello è un attacco prima del levar del sole.
+Ma il punto peculiare che qui desidero notare compare nella
+strofa precedente, sulla vera [[Nature|natura]] dell'attacco. È l'unica
+poesia rivoluzionaria che io abbia mai letto, la quale suggerisse che vi fosse un qualche
+piano per sferrare un qualche attacco. I primi due versi della strofa recitano:
+«Quando li troveremo là dove stanno, un miglio d'uomini per lato?»
+I Compagni dell'[[Dawn|Alba]] parevano sempre marciare in colonna,
+e cantare. Non parevano mai aver udito del dispiegarsi
+nella lunga linea che fronteggia il nemico per la battaglia. I due versi
+seguenti sono: «Intendo caricare da lontano, e forzare i fianchi
+del loro schieramento». Chi mai ha sentito che i Compagni dell'[[Dawn|Alba]] avessero
+un'idea tanto complicata come quella di aggirare il fianco del nemico?
+Poi viene l'accerchiamento:
+
+  E premili verso l'interno dalle pianure
+  e cacciali giù, clamoranti, per i viottoli,
+  e galoppa e incalza e abbattili,
+  e conquista le porte e tieni la città.
+
+L'Inseguimento; e poi il Tenere la Testa di Ponte.
+
+Ora, quello è l'unico [[Song|Canto]] della Guerra di Classe che io abbia mai letto ad avere
+la più vaga nozione di come sarebbe una guerra. In questa selvaggia [[Lyric|lirica]],
+colma di violenza e distruzione vendicative, v'è anche, in forma lirica
+assai rapida, un piano tattico perfettamente chiaro e una mappa militare;
+una precisa descrizione di come gli uomini possano [[Storm|espugnare]] una fortezza,
+se dev'essere espugnata. La violenza di questa proclamazione democratica,
+benché senza dubbio drammatica, va ben oltre qualunque cosa
+un qualsiasi comunista raggiungerà in cent'anni. Ma implica
+anche il vero carattere della battaglia; e una battaglia, come ogni opera umana,
+è insieme progettata nel suo inizio e incerta nella sua fine.
+Ora, i Compagni dell'[[Dawn|Alba]] già mi infastidivano; perché la loro rivoluzione
+era selvaggiamente non progettata nel suo inizio, ma non nutriva alcun [[Doubt|dubbio]] sulla sua fine.
+Proprio come l'Imperialismo; e la Guerra sudafricana.
+
+Questo è ciò che intendo dicendo che Belloc è un poeta inglese
+ma un soldato francese. L'uomo in quiete, e dunque l'uomo
+nella realtà, è l'uomo del Sussex; ma egli è stato ampliato,
+o come alcuni direbbero infettato, dall'influenza straniera di coloro che
+hanno conosciuto vere rivoluzioni e invasioni; e se fosse chiamato
+a condurre una rivoluzione, la condurrebbe con la stessa logica
+con cui una folla parigina conduce tuttora una sommossa. Come una volta osservò,
+una simile folla democratica sa dispiegarsi. Ma ho preso solo questo caso
+casuale per illustrare una [[Truth|verità]] generale su un uomo assai notevole.
+Ho preso il fatto che l'ordinario [[Song|canto]] di rivolta è soltanto militante,
+mentre il suo è anche militare. Voglio dire che è colmo dell'idea non solo
+di combattere per la [[Faith|fede]], ma di venire alle prese con il fatto.
+Se dobbiamo combattere i ricchi, o combattere la rivolta contro
+i ricchi, o combattere la resistenza a una ragionevole redistribuzione
+delle ricchezze, o combattere qualunque altra cosa, ecco come si fa.
+E quando ricordo tutti gli altri romantici [[songs|canti]] rivoluzionari,
+non mi sorprende affatto, almeno in questo paese, constatare
+che non si è combattuto affatto.
+
+Ora, è esattamente così che i suoi contemporanei hanno mancato l'intero
+punto riguardo a Belloc in ogni punto della sua azione; per esempio,
+nel suo storico studio, Lo Stato Servile. Poiché gli inglesi,
+di cui sono uno, sono romantici, e poiché si dilettano del [[Romance|romanzesco]]
+che i francesi siano romantici, e si dilettano del più delirante
+[[Romance|romanzesco]] che Belloc sia francese, sono stati semplicemente ciechi come talpe
+verso di lui quando è interamente scientifico. Il suo studio dello Stato Servile
+è rigorosamente scientifico quanto una mappa militare è militare.
+Non v'è nulla di romantico in esso; nulla di gioviale in esso;
+nulla nemmeno di particolarmente divertente in esso, tranne le due
+mirabili parole, «questo [[Fool|sciocco]]», che ricorrono nella calma processione
+di mille parole imparziali nel capitolo su L'Uomo Pratico.
+E persino eccettuare quello è come accusare Euclide di fare una battuta,
+quando dimostra una proposizione con una reductio ad absurdum.
+Chiunque conosca il posto della ragione nello schema moderno
+può immaginare che cosa accadde. Dapprima, prima di leggere ciò che Belloc scrisse,
+i critici cominciarono a criticare ciò che Belloc probabilmente avrebbe scritto.
+Dissero che ci minacciava con un orribile [[nightmare|incubo]] chiamato
+lo Stato Servile. Di fatto, era tutto il suo punto che esso
+non fosse un [[nightmare|incubo]], ma qualcosa a cui eravamo già quasi
+tanto abituati ad accettare quanto ad accettare la luce del giorno.
+Per tutto il [[Time|tempo]], una tesi tanto cardinale quanto quella di Adam [[smith|Smith]] o Darwin
+è a stento compresa, o persino criticata, da chicchessia per ciò che è,
+benché sia stata criticata assai selvaggiamente, congetturalmente e a casaccio,
+come tutto ciò che non è. Bernard [[Shaw]] asserì tondamente che essa
+non era che un mero ravvivamento della descrizione di Herbert Spencer di ogni dipendenza
+dallo Stato come [[Slavery|schiavitù]]. E quando facemmo notare che egli non
+poteva aver letto una pagina del libro di Belloc, se davvero riteneva che esso
+somigliasse al libro di Herbert Spencer, rispose con caratteristica
+gaiezza che era quello di Herbert Spencer che non aveva letto.
+Molti supposero che fosse una sorta di descrizione satirica di uno
+Stato Socialista; qualcosa tra Laputa e Il Mondo Nuovo.
+Altri paiono tuttora supporre che lo Stato Servile sia un termine
+generale per qualunque tirannia o oppressivo Stato ufficiale; e usano persino
+il termine correntemente in quel senso. Ché è tipico del nostro [[Time|tempo]]
+e paese che, mentre nessuno potrebbe dire che il libro fosse popolare,
+il titolo del libro fu immediatamente e vastamente popolare.
+Vi fu un [[Time|tempo]] in cui i garzoni e i facchini della ferrovia dicevano
+«Stato Servile»; non sapevano che cosa significasse; ma ne sapevano
+press'a poco quanto i recensori di libri e persino gli accademici.
+
+La tesi del libro è che il movimento socialista non conduce
+al Socialismo. Ciò in parte a causa del compromesso e della codardia;
+ma in parte anche perché gli uomini hanno un oscuro indistruttibile rispetto
+per la proprietà, persino nel suo disgustoso travestimento di monopolio moderno.
+Perciò, invece del risultato intenzionale, il Socialismo, avremo
+la risultante non intenzionale: la [[Slavery|Schiavitù]]. Il compromesso
+prenderà la forma di dire: «Dobbiamo nutrire i poveri;
+non deruberemo i ricchi; dunque diremo ai ricchi di nutrire i poveri,
+consegnandoli a essere i servi permanenti di una classe padronale,
+da mantenere sia che lavorino o no, e in cambio di
+quel completo mantenimento prestando una completa obbedienza». Tutto ciò,
+o gli inizi di ciò, si può vedere in un centinaio di mutamenti moderni,
+da cose come le Leggi sulle Assicurazioni, che dividono i cittadini per legge
+in due classi di padroni e servi, fino a ogni sorta di proposte
+per impedire scioperi e serrate mediante l'arbitrato obbligatorio.
+Qualunque legge che rimandi un uomo al suo lavoro, quando egli vuole lasciarlo,
+è in piena realtà una Legge sugli Schiavi Fuggitivi.

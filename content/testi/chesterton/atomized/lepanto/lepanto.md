@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/lepanto-(chesterton)">lepanto</a></div>
 </nav>
@@ -168,3 +170,167 @@ And he sees across a weary land a straggling [[Road|road]] in Spain,
 Up which a lean and foolish knight for ever rides in vain,  
 And he smiles, but not as Sultans smile, and settles back the blade....  
 (_But [[Don John of Austria]] rides [[Home|home]] from the Crusade._)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/lepanto-(chesterton)">lepanto</a></div>
+</nav>
+
+[[lepanto|Lepanto]]  
+
+				    G.K.Chesterton  
+
+Bianche fonti cadono nelle Corti del sole,  
+e il Soldano di Bisanzio sorride al loro scorrere;  
+c'è un riso come le fontane in quel volto che ogni uomo teme,  
+scuote il buio di foresta, il buio della sua barba;  
+increspa la mezzaluna rossa di [[Blood|sangue]], la mezzaluna delle sue labbra;  
+ché il mare più interno di tutta la terra è scosso dalle sue navi.  
+Hanno sfidato le bianche repubbliche su per i capi d'[[Italy|Italia]],  
+hanno sferzato l'Adriatico intorno al [[Lion|Leone]] del Mare,  
+e il Papa ha steso le braccia al mondo in agonia e perdita,  
+e ha chiamato i re di Cristianità a spade attorno alla [[Cross|Croce]].  
+La fredda [[Queen|regina]] d'Inghilterra si guarda nello specchio;  
+l'[[Shadow|ombra]] del Valois sbadiglia alla Messa;  
+da fantastiche isole di sera fioco risuona il cannone di Spagna,  
+e il Signore sul Corno d'Oro sta ridendo nel sole.  
+
+Cupi tamburi pulsano, tra i colli uditi appena,  
+dove solo su un trono senza nome un principe senza corona s'è mosso,  
+dove, sorto da un seggio incerto e da uno stallo mezzo infamato,  
+l'ultimo cavaliere d'Europa stacca le armi dalla parete,  
+l'ultimo, attardato trovatore a cui l'uccello ha cantato,  
+che un tempo andava cantando verso il sud quando il mondo era giovane.  
+In quell'enorme [[Silence|silenzio]], minuscolo e impavido,  
+sale lungo una [[Road|strada]] tortuosa il rumore della Crociata.  
+Gong possenti gemono mentre lontano tuonano i cannoni,  
+[[Don John of Austria|Don Giovanni d'Austria]] va alla guerra,  
+rigide bandiere tese nelle fredde raffiche della [[Night|notte]],  
+nel buio nero-porpora, nel barbaglio d'oro antico,  
+cremisi di torce sui timpani di rame,  
+poi gli squilli, poi le trombe, poi il cannone, ed egli viene.  
+[[Don John|Don Giovanni]] che ride nella fiera barba ricciuta,  
+sprezzando le sue staffe come i troni di tutto il mondo,  
+levando alta la testa come [[Flag|bandiera]] di tutti i liberi.  
+Luce d'[[Love|amore]] di Spagna--urrà!  
+Luce di [[Death|morte]] d'Africa!  
+[[Don John of Austria|Don Giovanni d'Austria]]  
+cavalca verso il mare.  
+
+Mahound è nel suo paradiso sopra la [[Evening Star|stella della sera]],  
+(_Don Giovanni d'Austria va alla guerra._)  
+muove un turbante immenso sulle ginocchia dell'urì senza tempo,  
+il suo turbante ch'è tessuto dei tramonti e dei mari.  
+Scuote i giardini dei pavoni levandosi dal suo agio,  
+e incede fra le cime degli alberi ed è più alto degli alberi;  
+e la sua voce per tutto il [[Garden|giardino]] è un tuono mandato a chiamare  
+il nero Azrael e [[Ariel]] e Ammon in volo.  
+Giganti e i Genî,  
+molteplici d'ala e d'occhio,  
+la cui forte obbedienza spezzò il cielo  
+quando Salomone era [[King|re]].  
+
+Irrompono in rosso e porpora dalle rosse nubi del mattino,  
+dai templi dove i gialli dèi chiudono gli occhi in disprezzo;  
+sorgono in verdi vesti ruggendo dai verdi inferni del mare  
+dove stanno cieli caduti e tinte maligne e creature senza occhi,  
+su loro s'aggrappano le valve marine e s'attorcono le grigie foreste del mare,  
+chiazzati d'uno splendido morbo, il morbo della perla;  
+si gonfiano in fumo di zaffiro dalle azzurre crepe del suolo,--  
+si radunano, son colmi di [[Wonder|stupore]], e rendono culto a Mahound.  
+Ed egli dice: «Spezzate le [[Mountains|montagne]] dove può celarsi il popolo eremita,  
+e setacciate le sabbie rosse e d'argento perché non vi resti osso di santo,  
+e cacciate i Giaurri in fuga [[Night|notte]] e giorno, senza dare tregua,  
+perché ciò che fu il nostro tormento torna ancora dall'occidente.  
+Abbiamo posto il sigillo di Salomone su ogni cosa sotto il sole,  
+di sapienza e di dolore e [[Endurance|sopportazione]] delle cose compiute.  
+Ma un rumore è nelle [[Mountains|montagne]], nelle [[Mountains|montagne]], e io conosco  
+la voce che scosse i nostri palazzi--quattrocento anni fa:  
+è colui che non dice 'Kismet'; è colui che non conosce il Fato;  
+è [[Richard|Riccardo]], è Raimondo, è Goffredo alla porta!  
+è colui la cui perdita è riso quando stima degna la posta,  
+calcate i piedi su di lui, che la nostra pace sia sulla terra.»  
+Poiché udì tamburi gemere e udì cannoni stridere,  
+(_Don Giovanni d'Austria va alla guerra._)  
+Súbito e silente--urrà!  
+Fulmine d'Iberia!  
+[[Don John of Austria|Don Giovanni d'Austria]]  
+è passato per Alcalar.  
+
+San Michele sul suo Monte nelle vie marine del nord  
+(_Don Giovanni d'Austria è cinto d'armi e muove._)  
+dove i grigi mari luccicano e mutano le maree taglienti  
+e la gente di mare fatica e si levano le rosse vele.  
+Scuote la sua lancia di ferro e batte le sue ali di pietra;  
+il rumore è passato per la Normandia; il rumore è passato [[Alone|solo]];  
+il Nord è pieno di cose aggrovigliate e di testi e di occhi dolenti,  
+e morta è tutta l'[[innocence|innocenza]] dell'ira e della sorpresa,  
+e cristiano uccide cristiano in un'angusta stanza polverosa,  
+e cristiano teme [[Christ|Cristo]] che ha un più nuovo volto di condanna,  
+e cristiano odia Maria che Dio baciò in Galilea,--  
+ma [[Don John of Austria|Don Giovanni d'Austria]] cavalca verso il mare.  
+[[Don John|Don Giovanni]] che chiama attraverso la raffica e l'eclissi  
+gridando con la tromba, con la tromba delle sue labbra,  
+tromba che dice _ha_!  
+    Domino gloria!  
+[[Don John of Austria|Don Giovanni d'Austria]]  
+sta gridando alle navi.  
+
+[[King|Re]] Filippo è nel suo studiolo col Tosone al collo  
+(_Don Giovanni d'Austria è in armi sul ponte._)  
+Le pareti son parate di velluto nero e morbido come il peccato,  
+e piccoli nani ne strisciano fuori e piccoli nani vi strisciano dentro.  
+Tiene una fiala di cristallo che ha colori come la [[Moon|luna]],  
+la tocca, ed essa freme, ed egli trema ben presto,  
+e il suo volto è come un fungo d'un bianco e grigio lebbroso  
+come piante nelle alte case sbarrate al giorno,  
+e la [[Death|morte]] è nella fiala, e la fine dell'opera nobile,  
+ma [[Don John of Austria|Don Giovanni d'Austria]] ha fatto fuoco sul Turco.  
+[[Don John|Don Giovanni]] è a caccia, e i suoi segugi hanno latrato--  
+rimbomba oltre l'[[Italy|Italia]] la voce della sua scorreria.  
+Cannone su cannone, ah! ah!  
+Cannone su cannone, urrà!  
+[[Don John of Austria|Don Giovanni d'Austria]]  
+ha scatenato la cannonata.  
+
+Il Papa era nella sua cappella prima che rompesse il giorno o la battaglia,  
+(_Don Giovanni d'Austria è nascosto nel fumo._)  
+la stanza celata nella [[house|casa]] dell'uomo dove Dio siede tutto l'anno,  
+la segreta [[Window|finestra]] da cui il mondo pare piccolo e assai caro.  
+Vede come in uno [[Mirror|specchio]] sul mostruoso mare crepuscolare  
+la mezzaluna delle sue navi crudeli il cui nome è mistero;  
+gettano grandi ombre verso il nemico, oscurando [[Cross|Croce]] e [[Castle|Castello]],  
+velano i leoni impennacchiati sulle galee di San Marco;  
+e sopra le navi sono palazzi di capi bruni dalle nere barbe,  
+e sotto le navi sono prigioni, dove con moltitudini di pene,  
+prigionieri cristiani malati e senza sole, tutta una razza in travaglio geme  
+come una razza in città sommerse, come una nazione nelle miniere.  
+Sono perduti come schiavi che sudano, e nei cieli del mattino pendevano  
+le scalinate degli dèi più alti quando la tirannia era giovane.  
+Sono innumerevoli, senza voce, senza speranza come quelli caduti o in fuga  
+davanti ai cavalli degli alti Re nel granito di Babilonia.  
+E più d'uno smarrisce il senno nella sua quieta stanza d'inferno  
+dove un volto giallo guarda dentro dalla grata della sua cella,  
+e trova il suo Dio dimenticato, e non cerca più un segno--  
+(_Ma [[Don John of Austria|Don Giovanni d'Austria]] ha sfondato la linea di battaglia!_)  
+[[Don John|Don Giovanni]] che incalza dalla poppa dipinta di strage,  
+imporporando tutto l'oceano come lo sloop d'un pirata sanguinario,  
+scarlatto che trabocca sugli argenti e sugli ori,  
+spaccarsi di boccaporti e scoppiare di stive,  
+affollarsi in alto delle migliaia che penano sotto il mare  
+bianchi di beatitudine e ciechi di sole e storditi di libertà.  
+
+Vivat Hispania!  
+Domino Gloria!  
+[[Don John of Austria|Don Giovanni d'Austria]]  
+ha reso libero il suo popolo!  
+
+Cervantes sulla sua galea ripone la [[Sword|spada]] nel fodero  
+(_Don Giovanni d'Austria cavalca verso casa con una corona d'alloro._)  
+e vede attraverso una terra stanca una [[Road|strada]] sperduta in Spagna,  
+su cui un cavaliere magro e folle per sempre cavalca invano,  
+e sorride, ma non come sorridono i Sultani, e ripone la lama....  
+(_Ma [[Don John of Austria|Don Giovanni d'Austria]] cavalca verso [[Home|casa]] dalla Crociata._)

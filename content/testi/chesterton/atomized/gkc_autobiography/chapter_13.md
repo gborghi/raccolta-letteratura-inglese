@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/gkc-autobiography-(chesterton)">GKC Autobiography</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/gkc_autobiography/chapter_12">‹ Chapter 12</a><a class="ex-next" href="/testi/chesterton/atomized/gkc_autobiography/chapter_14">Chapter 14 ›</a></div>
@@ -409,5 +411,412 @@ and though her presence had indeed something of the ghostly gravity
 of a [[Shadow|shadow]] and her passing something of the fugitive accident of a bird,
 I know now that she was not fugitive and she was not shadowy.
 She was a message from the Sun.
+
+*****
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/gkc-autobiography-(chesterton)">GKC Autobiography</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/gkc_autobiography/chapter_12">‹ Chapter 12</a><a class="ex-next" href="/testi/chesterton/atomized/gkc_autobiography/chapter_14">Chapter 14 ›</a></div>
+</nav>
+<nav class="excerpt-children">
+<div class="excerpt-children-label">In questa sezione</div>
+<ul><li><a href="/testi/chesterton/atomized/gkc_autobiography/chapter_13/part_01">Part 1</a></li><li><a href="/testi/chesterton/atomized/gkc_autobiography/chapter_13/part_02">Part 2</a></li><li><a href="/testi/chesterton/atomized/gkc_autobiography/chapter_13/part_03">Part 3</a></li><li><a href="/testi/chesterton/atomized/gkc_autobiography/chapter_13/part_04">Part 4</a></li></ul>
+</nav>
+
+XIII
+
+ALCUNE CELEBRITÀ LETTERARIE
+
+Sono giusto abbastanza vecchio da ricordare ciò che si chiamavano Penny Readings;
+alle quali si supponeva che alle classi lavoratrici venisse letta della buona
+letteratura, perché esse non erano allora sufficientemente
+istruite da leggere del cattivo giornalismo da sole. Da ragazzo,
+o addirittura da [[Child|bambino]], passai una sera in un luogo curiosamente chiamato
+la Progressive Hall; come se l'edificio stesso non potesse star fermo,
+ma dovesse muoversi in avanti come un omnibus lungo il sentiero del progresso.
+C'era un piccolo presidente con gli occhiali, che era nervoso; e un grande
+e corpulento maestro dallo sguardo fisso di nome Ash, che non era affatto nervoso;
+e un programma di esecutori se non eminenti senza [[Doubt|dubbio]] eccellenti.
+Il signor Ash lesse «The Charge of the Light Brigade» con toni squillanti;
+e il pubblico attendeva ansiosamente il passaggio a un assolo di violino.
+Il presidente spiegò frettolosamente che il Signor Robinsoni era purtroppo
+impossibilitato a esibirsi quella sera, ma il signor Ash aveva gentilmente acconsentito
+a leggere «The May [[Queen|Regina]]». Il numero successivo del programma era una [[Song|canzone]],
+probabilmente intitolata «Sea Whispers», da cantarsi dalla signorina [[smith|Smith]] accompagnata
+dalla signorina Brown. Ma non fu cantata dalla signorina [[smith|Smith]] né accompagnata
+dalla signorina Brown; perché, come il presidente spiegò alquanto
+febbrilmente, esse erano impossibilitate a intervenire; ma fummo consolati dall'annuncio
+che il signor Ash aveva gentilmente acconsentito a leggere «The Lord of Burleigh».
+Press'a poco a questo punto avvenne una cosa davvero straordinaria;
+straordinaria in qualunque [[Time|momento]], per chiunque conosca la pazienza e
+la cortesia dei poveri inglesi; ancor più stupefacente nei meno
+smaliziati poveri di quei giorni lontani. Si alzò lentamente in
+mezzo alla sala, come un qualche vasto leviatano che sorge dall'oceano,
+un enorme uomo sano dalla faccia semplice, della professione di stuccatore,
+che disse con toni squillanti quanto quelli del signor Ash, e assai più
+cordiali e umani: «[[Well|Beh]], mi son proprio scocciato di tutto questo.
+Buonasera, signor Ash; buonasera, signore e signori.»
+E con un gesto di universale benedizione, si aprì la strada a spallate
+fuori dalla Progressive Hall con un'aria spontanea di completa
+amabilità e profondo sollievo.
+
+Non so bene perché, ma quel gigante è rimasto nella mia [[Memory|memoria]] come
+l'unico titano originario che per primo si ribellò ai vittoriani.
+E preferisco ancora immensamente il suo colossale buon senso e il suo completo buon
+[[Humour|umore]] agli spesso meschini e talvolta astiosi ghigni o risatine
+di critici più recenti e colti contro le convenzioni vittoriane.
+Ma ciò mi ha avvertito che, sia per buone ragioni sia per cattive, c'è
+ora una tendenza a considerare alcuni vittoriani dei seccatori, o quantomeno
+l'argomento un seccatore; e il mio proprio [[Memory|ricordo]] di uomini più vecchi di me,
+nel mondo delle lettere, è necessariamente un [[Memory|ricordo]] dei vittoriani,
+se non altro dei tardi vittoriani. Anche sotto questo aspetto,
+s'intende, la moda attuale è assai incostante e paradossale.
+Per esempio, sembra esserci un interesse assai più vivo
+per le vite di tali uomini di lettere che per le loro opere letterarie.
+Si scrive e riscrive quantità di roba sull'[[Romance|idillio]] del signore e della
+signora Browning, in drammi e pagine di [[Biography|biografia]] e pettegolezzo.
+Ma benché la loro storia venga riscritta, piuttosto [[Doubt|dubito]] che
+Browning venga riletto, o che la signora Browning venga letta affatto.
+Sembrano esserci più dettagli ricordati della storia delle Brontë
+di quanti dettagli siano ricordati delle storie delle Brontë.
+È una bizzarra conclusione per tutto il discorrere estetico su un [[Artist|artista]] che sarebbe
+importante soltanto nella sua arte. Cosa più bizzarra di tutte, c'è più popolarità
+per un libro su un uomo come Palmerston, la cui politica è del tutto morta,
+che per un libro di un uomo come Carlyle, la cui politica sembrerebbe
+in parte applicabile in questi giorni di reazione e dittatura.
+Nel complesso, malgrado la gigantesca [[Shadow|ombra]] dello stuccatore, posso
+avanzarmi spudoratamente come un tardo vittoriano da sotto l'[[Shadow|ombra]] stessa
+della [[Queen|Regina]] Vittoria; la cui [[Shadow|ombra]] non si fa mai più piccola.
+
+Il primo grande vittoriano che io abbia mai incontrato, lo incontrai assai presto, benché soltanto
+per un breve colloquio: Thomas Hardy. Ero allora un giovane scrittore del tutto
+oscuro e malandato in attesa di un colloquio con un editore.
+E la cosa davvero notevole di Hardy era questa; che egli avrebbe
+potuto essere lui stesso un giovane scrittore oscuro e malandato in attesa
+di un editore; anzi uno scrittore esordiente in attesa del suo primo editore.
+Eppure era già celebre dappertutto; aveva scritto i suoi primi e
+più belli romanzi culminanti in Tess; aveva espresso il suo bizzarro pessimismo
+personale nel famoso passo sul Presidente degli Immortali.
+Aveva già la ruga della preoccupazione sul suo volto da elfo che avrebbe
+potuto far apparire vecchio un uomo; e tuttavia, in qualche strano modo, mi parve
+assai giovane. Se dico giovane quanto lo ero io, intendo tanto semplicemente
+pragmatico e perfino saccente quanto lo ero io. Egli non evitò nemmeno
+l'argomento del suo presunto pessimismo; lo difese, ma in qualche modo con
+l'[[innocence|innocenza]] di un circolo di dibattito di ragazzi. In breve, era in una sorta
+di gentile agitazione riguardo al suo pessimismo, proprio come lo ero io riguardo al mio ottimismo.
+Disse qualcosa del genere: «So che la gente dice che sono un pessimista;
+ma non credo di esserlo per natura; mi piacciono così tanto un mucchio di cose;
+ma non sono mai riuscito a superare l'idea che sarebbe meglio per noi
+essere senza tanto i piaceri quanto i dolori; e che la migliore
+esperienza sarebbe una qualche sorta di [[Sleep|sonno]].» Ho sempre avuto un debole
+per il discutere con chiunque; e ciò coinvolgeva tutto quel contemporaneo
+nichilismo contro il quale ero allora in rivolta; e per circa cinque minuti,
+nell'ufficio di un editore, discussi effettivamente con Thomas Hardy.
+Sostenni che la non esistenza non è un'esperienza; e non può esserci
+questione di preferirla o di esserne soddisfatti. Sinceramente, se io
+fossi stato semplicemente un rozzo giovanotto, e nient'altro, avrei
+ritenuto tutto il suo ragionamento assai superficiale e persino sciocco.
+Ma non lo ritenni né superficiale né sciocco.
+
+Poiché questa era la piuttosto tremenda [[Truth|verità]] riguardo a Hardy;
+che egli aveva [[Humility|umiltà]]. I miei amici che lo conobbero meglio hanno confermato
+la mia prima impressione; Jack Squire mi disse che Hardy nei suoi ultimi
+giorni di gloria come Grande Vecchio mandava [[Poems|poesie]] al Mercury
+e si offriva di modificarle o ritirarle se non erano adatte.
+Egli sfidava gli dèi e osava affrontare il [[Lightning|fulmine]] e tutto il resto;
+ma i grandi greci avrebbero visto che non c'era saetta
+per lui, perché non aveva «ubris» (greek) ovvero insolenza.
+Poiché ciò che il cielo odia non è l'empietà ma l'[[Pride|orgoglio]] dell'empietà.
+Hardy era blasfemo ma non era orgoglioso; ed è l'[[Pride|orgoglio]] a essere peccato
+e non la bestemmia. Sono stato biasimato per un presunto attacco a Hardy,
+in un [[Sketch|profilo]] della letteratura vittoriana; si supponeva a quanto pare
+che il parlare dell'ateo di villaggio che rimugina sull'idiota
+di villaggio fosse una qualche sorta di attacco. Ma questo non è un attacco a Hardy;
+questa è la difesa di Hardy. Tutto l'argomento a suo favore è che
+egli aveva la sincerità e la semplicità dell'ateo di villaggio;
+vale a dire, che apprezzava l'ateismo come una [[Truth|verità]] e non come un trionfo.
+Egli fu la vittima di quel [[Decay|disfacimento]] della nostra cultura agricola,
+che diede agli uomini cattiva religione e nessuna [[philosophy|filosofia]]. Ma aveva ragione
+nel dire, come mi disse in sostanza tutti quegli anni fa,
+che poteva godere delle cose, compresa una migliore [[philosophy|filosofia]] o religione.
+Mi tornarono alla mente quattro versi, scritti da una signora irlandese sul mio
+proprio piccolo giornale:
+
+  Chi può raffigurarsi la scena alle porte stellate?
+  Davvero l'[[Imagination|immaginazione]] vien meno,
+  quando lo spietato Presidente degli Immortali
+  mostra a Tommaso il segno dei chiodi?
+
+[[Hope|Spero]] che non sia empio dire che qui si coglie il chiodo giusto
+sulla capocchia. In un caso simile, il secondo Tommaso farebbe esattamente
+ciò che [[Prometheus|Prometeo]] e [[Satan|Satana]] non pensarono mai di fare: avrebbe pietà di Dio.
+
+Devo saltare un lungo tratto d'anni prima di giungere al mio incontro
+con l'altro grande romanziere vittoriano tanto spesso accostato a Hardy;
+ché a quel [[Time|tempo]] mi ero fatto una certa fama giornalistica,
+grazie alla quale mia moglie ed io fummo invitati
+a visitare George Meredith. Ma persino attraverso gli anni sentii
+il curioso contrasto. Hardy era un [[Well|pozzo]], coperto dalle erbacce
+di un periodo stagnante di scetticismo, a mio giudizio; ma con la [[Truth|verità]] in
+[[Bottom|fondo]]; o comunque con la sincerità in [[Bottom|fondo]].
+Ma Meredith era una fontana. Aveva esattamente lo scroscio e lo scintillante
+irraggiamento di una fontana, in quel suo [[Garden|giardino]] dove ci ospitava.
+Era già un vecchio, con la barba bianca appuntita e il ciuffo
+di capelli bianchi come lanugine di cardo; ma anche quello sembrava irraggiare.
+Era sordo; ma tutt'altro che muto. Non era umile; eppure non
+lo direi mai orgoglioso. Riusciva pur sempre a essere una terza cosa,
+che è quasi altrettanto il contrario dell'essere orgoglioso: era vanitoso.
+Era un uomo molto vecchio; ed era ancora magnificamente vanitoso.
+Aveva tutti quegli indescrivibili tocchi di una [[Vanity|vanità]] del tutto giovanile;
+persino, per esempio, al punto di preferire abbagliare le donne piuttosto
+che gli uomini; ché parlò per tutto il [[Time|tempo]] a mia moglie anziché a me.
+Noi parlammo poco con lui; in parte perché era sordo, ma
+molto più perché egli non era muto. A un onesto esame, [[Doubt|dubito]]
+che l'uno o l'altro di noi sia riuscito a infilare una parola di traverso.
+Egli parlò e parlò, e bevve birra allo zenzero, la quale ci assicurò
+con gloriosa gaiezza di aver imparato ad amare tanto quanto lo champagne.
+
+Meredith non solo era colmo di vita, ma era colmo di vite.
+La sua vitalità aveva quel genio ramificante e generatore del romanziere,
+che sempre inventa nuove storie su gente strana.
+Non era come la maggior parte dei vecchi romanzieri; s'interessava a ciò che era [[Novel|nuovo]].
+Non viveva nei libri che aveva scritto; viveva nei libri
+che non aveva scritto. Descrisse un buon numero di romanzi che erano
+davvero [[Novel|nuovi]]; specie uno sulla [[Tragedy|tragedia]] di Parnell.
+Non credo di aver molto condiviso la sua interpretazione; ché egli sosteneva
+che Parnell avrebbe potuto facilmente riconquistare popolarità, se fosse stato
+capace di desiderarla; ma che era per natura riservato e solitario.
+Ma [[Doubt|dubito]] che quel possidente irlandese fosse davvero più riservato
+di un qualunque numero di taciturni possidenti inglesi, i quali stavano
+nello stesso momento conducendo esattamente lo stesso genere d'intrigo amoroso,
+e sarebbero stati ugualmente adirati e ugualmente inarticolati
+se fossero stati scoperti. Solo che loro non furono mai scoperti.
+Ché non v'era [[Hope|speranza]] che la scoperta potesse ritardare la liberazione
+di una nazione cristiana. Ma fu quella la qualità che colpì
+me personalmente in Meredith. Sempre pronto al balzo, egli sapeva balzare
+alle conclusioni; un uomo così grande non potrebbe mai dirsi superficiale;
+ma in un certo senso, essere così rapidi significa essere superficiali.
+Molte parodie da poco di Sherlock Holmes ne hanno fatto un pasticcione;
+dobbiamo ancora leggere una vera [[Comedy|commedia]] su uno Sherlock Holmes che fosse davvero
+acuto con dati insufficienti. Parliamo di una sete divorante
+di informazioni; ma la vera sete non divora, bensì [[Swallow|inghiotte]].
+Così Meredith, per esempio, inghiottì la corrente teoria razziale
+che divideva le nazioni tra il Teutone e il Celta.
+
+Il nome di James Barrie risale anch'esso alla mia giovinezza, benché naturalmente
+egli fosse più giovane di Meredith o di Hardy; è vissuto fino a diventare mio
+ottimo amico; ma è, di tutti gli amici, il meno egotista;
+e lo lego in gran parte a memorie intensamente interessanti
+di questi altri uomini e dei loro contemporanei. Egli resta soprattutto
+come testimone della [[Greatness|grandezza]] di Meredith; in un mondo che l'ha
+piuttosto stranamente dimenticato; ma mi raccontò anche molte storie
+di uomini che non conobbi mai; come Stevenson e Henley e Wilde;
+di Wells e [[Shaw]] ho trattato altrove, in altra connessione.
+Ma v'è un'impressione che simili memorie di simili uomini
+mi hanno lasciato nella mente; ed è lo stranamente fuggevole carattere
+delle controversie perfino intorno ai massimi letterati. Come chiunque
+scriva memorie, trovo che la mia prima difficoltà sia trasmettere
+quanto immensamente importanti apparissero certi individui in certe epoche.
+Ché quegli uomini non sono più argomenti di discorso, anche quando sono ancora classici.
+Ricordo Barrie che mi fece un resoconto assai divertente di una violenta scena
+di controversia letteraria, in cui Henley scagliò la sua stampella attraverso
+la stanza e colpì allo stomaco un altro eminente critico letterario.
+Ciò illustrerà una certa importanza che pareva annettersi
+a certi gusti e preferenze intellettuali. Ché questo pezzo
+di creativa autoespressione critica [[Self|del sé]] fu, a quanto pare, provocato
+dall'affermazione, nel corso di una discussione su Ibsen e [[tolstoy|Tolstoj]],
+che uno di questi grandi uomini era grande abbastanza da appendere l'altro
+alla propria catena dell'orologio. Ma ciò che mi colpisce come il grande e truce scherzo
+dell'intera faccenda, è che il narratore aveva a quanto pare interamente
+dimenticato se fosse Ibsen a dover appendere [[tolstoy|Tolstoj]] alla propria catena dell'orologio
+o [[tolstoy|Tolstoj]] a dover appendere Ibsen alla propria catena dell'orologio. Da cui mi azzardo
+a inferire che nessuno di quei giganti sembra ormai a chicchessia così gigantesco
+quanto allora sembrava a qualcuno.
+
+Ma ho rivisto Sir James Barrie molte volte da allora, e potrei dire molte
+altre cose su di lui; solo che v'è qualcosa nella sua stessa umoristica
+cancellazione [[Self|di sé]] che pare creargli attorno un [[Silence|silenzio]] simile al suo.
+Nel caso dei più anziani vittoriani, era generalmente vero
+che incontrai l'uomo una sola volta, in una sorta di ambasceria privilegiata;
+e simili impressioni possono facilmente essere illusioni. Se fu così nel
+caso di Meredith, lo fu ancor più nel caso di Swinburne.
+Ché al [[Time|tempo]] in cui lo vidi, egli era una specie di dio in un tempio, cui si poteva
+accedere soltanto attraverso un sommo sacerdote. Ebbi una lunga conversazione
+con Watts-Dunton e poi una breve conversazione con Swinburne.
+Swinburne era assai gaio e scherzoso, benché in una maniera
+che mi colpì stranamente come da zitella; ma aveva modi incantevoli
+e specialmente la cortesia di una costante allegria.
+Ma Watts-Dunton, va ammesso, era davvero molto serio.
+Si dice che egli facesse del poeta una religione; ma ciò che mi colpì
+come strano, già a quel [[Time|tempo]], fu che la sua religione pareva consistere
+in gran parte nel preservare e proteggere l'irreligione del poeta.
+Riteneva essenziale che nessun grand'uomo fosse contaminato
+dal [[Christianity|cristianesimo]]. Scuoteva il capo di fronte alla [[Temptation|tentazione]] di Browning
+verso quel credo.... «Uno così borné come il povero Browning».
+Poi mi rimandò alla «Hertha» del suo amico come alla cresta
+della sua creazione; «Allora era proprio in cima all'onda».
+Ed io, che conoscevo il mio Swinburne a menadito, deliziandomi della poesia
+e già piuttosto disprezzando la [[philosophy|filosofia]], pensai che fosse una bizzarra
+metafora da usare a proposito del reale e sincero Swinburne:
+
+  È ben poco ciò che un uomo può salvare
+  nell'arco della vita, nella marea del [[Time|tempo]],
+  chi nuota in vista della grande terza onda,
+  che nessun nuotatore mai [[Cross|varcherà]] o scalerà.
+
+Non ritenevo che fosse stata varcata o scalata nel mostruosamente
+confuso panteismo di «Hertha»; in cui un più tardo Swinburne tentava assurdamente
+di dedurre un'etica rivoluzionaria, il diritto di resistere ai torti,
+da un monismo cosmico che poteva significare soltanto che tutte le cose sono
+ugualmente sbagliate o giuste.
+
+Naturalmente, ho annotato qui soltanto un nome o due, perché sono
+i più famosi; non dico neppure che siano i più degni di fama.
+Per esempio, supponendo che ciascuno di noi custodisca una collezione privata
+dei propri pessimisti prediletti, sono sempre stato più intellettualmente
+colpito da A. E. Housman che da Thomas Hardy. Non voglio dire
+di essere stato colpito da chicchessia con le pretese intellettuali
+del pessimismo, che ho sempre ritenuto sciocchezza [[Well|oltre]] che [[Poison|veleno]];
+ma mi sembra che Housman abbia, più di Hardy,
+una certa autorità della grande letteratura inglese; tanto più
+classica in quanto il suo inglese è un inglese così assai piano.
+Non riuscii mai del tutto a digerire Hardy come poeta, per quanto lo ammiri
+come romanziere; laddove Housman mi pare uno dei due o tre grandi
+poeti classici del nostro [[Time|tempo]]. Ho avuto sia amici sia compagnia
+nel malcontento verso i socialisti; anzi, non ero scontento
+di loro riguardo alle condizioni di cui essi erano scontenti,
+ma piuttosto riguardo alle prospettive di cui essi erano contenti.
+E vi era una sorta di ottimismo ufficiale, quando il collettivista
+bigliettaio del tram fabiano gridava: «Prossima fermata, Utopia»,
+al che qualcosa in me, non semplicemente pagano, si sentiva sempre spinto
+a una simpatia con le parole di quel sommo genio pagano:
+
+  I travagli della nostra fiera e adirata [[Dust|polvere]]
+  vengono dall'[[Eternity|eternità]] e non verranno meno.
+
+Come tutti sanno, il poeta era anche un professore, e una
+delle prime autorità sull'antica letteratura pagana.
+Custodisco su di lui una storia che si dà il caso riguardi questo
+[[Double|duplice]] carattere del classico e del poetico.
+Può essere una storia nota; può essere una storia falsa. Essa descrive
+l'inizio di un discorso post-prandiale ch'egli tenne al Trinity, a Cambridge;
+e chiunque lo pronunciò o lo inventò aveva un superbo senso dello stile.
+«Questo grande College, di questa antica Università, ha visto certi
+strani spettacoli. Ha visto Wordsworth ubriaco e Porson sobrio.
+Ed eccomi qui, io, poeta migliore di Porson, e studioso migliore
+di Wordsworth, a mezza via tra l'uno e l'altro». Ma Hardy e Housman,
+come Henley e Swinburne, e la maggior parte degli altri grandi uomini tra
+i miei maggiori, del resto, produssero nella mia mente una curiosa nebulosa
+impressione di essere tutti un unico sfondo di pessimismo pagano;
+benché cosa fosse in primo piano, cui essi facevano
+da sfondo, non lo sapessi davvero; o almeno ne avevo un'idea molto vaga.
+Ma un certo senso di uniformità in queste persone e posizioni tanto varie
+prese la forma, nel mio caso, di farmi [[Wonder|domandare]] perché fossero così tanto
+divisi in gruppi letterari; e a che cosa servissero i gruppi.
+Ero sconcertato dal vedere la cultura tagliata in sezioni che non erano
+nemmeno sette. Colvin teneva una [[Court|corte]], che era assai cortese;
+Henley ne teneva un'altra, che non era propriamente cortese, o era piena
+di cortigiani piuttosto turbolenti; nei sobborghi Swinburne era insediato
+come Sultano e [[Prophet|Profeta]] di Putney, con Watts-Dunton da Gran Visir.
+E non riuscivo a capire di che cosa si trattasse; il [[Prophet|profeta]] non era
+davvero un comandante dei fedeli, perché non v'era [[Faith|fede]];
+e quanto al [[Doubt|dubbio]], esso era ugualmente comune a tutti i gruppi rivali
+dell'epoca. Non riuscivo a capire perché dovesse importare tanto
+al signor Watts-Dunton, se a Colvin piaceva un certo nuovo poeta
+o se a Henley un altro dispiaceva.
+
+Ho conosciuto anche uno o due casi isolati del puro uomo
+d'[[Imagination|immaginazione]]. È sempre difficile dare anche solo un contorno
+di uomini di questo genere; proprio perché un contorno è sempre
+la linea in cui una cosa tocca altre cose fuori di sé.
+Ho già suggerito assai vagamente, per esempio, qualcosa della
+posizione di W. B. Yeats; ma ciò appunto perché Yeats
+tocca davvero certe cose fuori dei propri pensieri; e suggerisce
+controversie sulla Teosofia o sulla Mitologia o sulla politica irlandese.
+Ma colui che è semplicemente l'uomo immaginativo può ritrovarsi solo nelle immagini
+che crea e non nei ritratti che di lui fanno gli altri.
+Così potrei menzionare un buon numero di cose staccate e precise su
+Walter de la Mare; solo che esse non riguarderebbero, a rigore,
+lui stesso. Potrei dire che ha un cupo profilo romano piuttosto simile
+a un'aquila di bronzo, o che vive a Taplow non lontano da Taplow [[Court]],
+dove l'ho incontrato insieme a molte altre figure nel paesaggio
+di questa storia; o che ha il passatempo di collezionare oggetti minuti,
+della [[Nature|natura]] di ornamenti, ma a stento visibili a occhio nudo.
+Si dà il caso che mia moglie abbia lo stesso passatempo di collezionare cosine come giocattoli;
+benché taluni l'abbiano accusata d'incoerenza per quella volta
+in cui si collezionò un marito. Ma lei e de la Mare erano soliti fare
+un commercio, degno del Mercato dei Folletti, di questi possedimenti pigmei.
+Potrei menzionare il fatto che una volta scoprii una scuola, da qualche parte nelle
+lande della Old [[Kent]] [[Road]], se ben ricordo, dove tutte
+le bambine serbavano una sorta di leggenda del signor de la Mare,
+come di uno zio fatato, perché una volta vi aveva tenuto una conferenza tanto e tanto tempo prima.
+Non ho idea di quali incantesimi possa aver operato in quella remota occasione;
+ma di sicuro egli, secondo le parole di un più antico poeta inglese,
+li aveva incantati nella Old [[Kent]] [[Road]]. Ma persino una cosa come questa
+non ha propriamente, a rigore, nulla a che fare con l'argomento;
+il centro e la pienezza dell'argomento. E non sono mai stato
+capace di dire nulla che sia, in quel senso, sull'argomento.
+Il più vicino che potrei mai giungere al giudicare un'opera immaginativa
+sarebbe semplicemente dire questo: che se fossi un [[Child|bambino]], e qualcuno mi dicesse
+non più delle due parole Peacock Pie, io passerei attraverso
+una certa esperienza trasformante. Non lo penserei propriamente
+come un libro. Non lo penserei nemmeno come un uomo;
+certamente non come qualcosa ormai così tristemente familiare come un uomo di lettere.
+Un istinto sacramentale dentro di me mi darebbe il senso che vi fosse
+da qualche parte e in qualche modo una sostanza, splendidamente colorata e buona da mangiare.
+Il che in effetti è il caso. Né alcun dubbio o divergenza
+sugli spigoli teorici o etici della personalità del signor Yeats
+influirebbe sul mio appetito, anche ora che non sono più un [[Child|bambino]],
+per le mele d'argento della [[Moon|luna]] e le mele d'oro del sole.
+
+Le immagini degli uomini immaginativi sono indiscutibili; e io non ho mai voluto
+disputarne. Le idee degli uomini logici e dogmatici
+(specie gli scettici, quegli uomini così dogmatici) sono discutibili;
+e io ho sempre voluto disputarne. Ma non ho mai voluto
+disputare di gusti là dove non vi sono criteri di prova. Non ho mai preso
+partito là dove non vi sono né gusti condivisi in comune né tesi
+sostenute in controversia; e ciò mi ha tenuto fuori da molti movimenti.
+Ma d'altra parte sono consapevole di una lacuna o di un difetto della mia mente in tali materie.
+La sento sempre spalancarsi in me come un abisso (spalancarsi è la descrizione
+esatta, per quanto mi riguarda), quando la gente mi dice
+che qualcosa andrebbe fatto per amore del «Dramma».
+Ritengo che il Cesare e [[Cleopatra]] di [[Shaw]] sia un buon dramma; benché ai miei
+gusti etici sia insieme troppo pacifista e troppo imperialista.
+Ritengo che Are You a Mason? sia un buon dramma; e il mio apprezzamento
+non ha nulla a che vedere con un papista sospetto verso la Massoneria.
+Ma parlare di aiutare «il dramma» mi suona come aiutare
+la macchina da scrivere o il torchio da stampa. Mi pare, alla mia semplice mente,
+che dipenda in buona parte da ciò che ne esce.
+
+Ma tra queste figure letterarie, ve n'era una che
+metterò per ultima perché dovrei metterla per prima. Era la figura
+di una contemporanea e compagna di tutto quel mondo di cultura;
+un'intima amica di Meredith; un'[[Artist|artista]] ammirata come artistica
+dagli esteti e persino dai decadenti. Ma Alice Meynell,
+benché preferisse essere estetica anziché anestetica,
+non era un'esteta; e non v'era nulla in lei che potesse [[Decay|decadere]].
+Lo slancio di vita in lei era come quello di un albero snello con
+[[Flowers|fiori]] e frutti per tutte le [[Seasons|stagioni]]; e non v'era inaridimento
+della linfa del suo spirito, che stava nelle idee. Sapeva sempre
+trovare cose su cui pensare; persino in un letto di malata, in una stanza oscurata,
+dove l'[[Shadow|ombra]] di un uccello sulla tendina era più dell'uccello
+stesso, diceva lei, perché era un messaggio dal sole.
+Poiché era così enfaticamente un'artigiana, era enfaticamente
+un'[[Artist|artista]] e non un'esteta; soprattutto, era come quel celebre
+[[Artist|artista]] che disse di mescolare sempre i suoi colori con del cervello.
+Ma v'era in lei qualcos'altro che io non compresi
+al [[Time|tempo]], che la poneva a parte come qualcosa di separato dal [[Time|tempo]].
+Era forte, con radici profonde, là dove tutti gli Stoici erano soltanto rigidi
+per la [[Despair|disperazione]]; era viva a un'immortale [[Beauty|bellezza]] là dove tutti i pagani
+sapevano soltanto mescolare [[Beauty|bellezza]] e [[Mortality|mortalità]]. E benché passasse
+attraverso la mia vita a sprazzi, e assai più di rado di quanto avrei voluto,
+e benché la sua presenza avesse davvero qualcosa della spettrale gravità
+di un'[[Shadow|ombra]] e il suo passare qualcosa del fuggevole accidente di un uccello,
+so ora che ella non era fuggevole e non era ombrosa.
+Era un messaggio dal Sole.
 
 *****

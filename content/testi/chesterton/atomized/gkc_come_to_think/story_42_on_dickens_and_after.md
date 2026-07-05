@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/gkc-come-to-think-(chesterton)">GKC Come to Think</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/gkc_come_to_think/story_41_on_foch">‹ Story 41 ON FOCH</a><a class="ex-next" href="/testi/chesterton/atomized/gkc_come_to_think/story_43_on_the_king">Story 43 ON THE KING ›</a></div>
@@ -268,3 +270,267 @@ But this is not the way in which the free fancy of the present age
 floats along.  The mere mood and fashion of [[democracy]] is rapidly passing;
 and he who wishes to preserve any idea of it must lock it up
 in the casket of a creed.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/gkc-come-to-think-(chesterton)">GKC Come to Think</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/gkc_come_to_think/story_41_on_foch">‹ Story 41 ON FOCH</a><a class="ex-next" href="/testi/chesterton/atomized/gkc_come_to_think/story_43_on_the_king">Story 43 ON THE KING ›</a></div>
+</nav>
+<nav class="excerpt-children">
+<div class="excerpt-children-label">In questa sezione</div>
+<ul><li><a href="/testi/chesterton/atomized/gkc_come_to_think/story_42_on_dickens_and_after/part_01">Part 1</a></li><li><a href="/testi/chesterton/atomized/gkc_come_to_think/story_42_on_dickens_and_after/part_02">Part 2</a></li></ul>
+</nav>
+
+XLII.  Su Dickens e dintorni
+
+UN nuovo lavoro sull'inesauribile tema di Charles Dickens
+è un attacco che assume la forma di un romanzo.  Questo romanzo è certamente
+un esercizio di finzione.  È semplicemente un romanzesco su Dickens;
+e chi scrive non romanza di meno per il fatto di scegliere di trasformare
+Dickens in un cattivo romantico anziché in un eroe romantico.
+Se ci sia molto vantaggio in queste arbitrarie e inevitabilmente
+irresponsabili resurrezioni del vecchio romanzo storico è discutibile.
+Ma è certo che molti romanzieri ora lo fanno con molti personaggi più
+o meno moderni, e che quasi ogni romanziere potrebbe farlo
+con quasi ogni personaggio; come questo romanziere con Charles Dickens.
+Ma perché mai qualcuno debba desiderare in modo particolare di mettere tanta amarezza
+nella versione di una personalità vittoriana, con una famiglia ancora in vita a
+testimoniare l'affetto che egli davvero ispirò, non riesco a immaginarlo.
+Il punto importante da capire, tuttavia, è che è ora venuta
+di moda una nuova specie di romanzo a tesi, che sembra avere uno
+scopo puramente personale, e uno scopo piuttosto meschino e malizioso.
+Un romanziere non scrive un romanzo unicamente per smascherare il proprio
+cattivo, e uno storico non scrive certo una storia unicamente per
+sminuire un grande uomo.  Ma la nuova forma ibrida, o tipo di scrittura,
+è irresponsabile e può fare qualunque cosa.  Di conseguenza, confesso
+che il primo pensiero che mi balenò in mente in proposito fu
+il ricordo di Leigh Hunt, alias Harold Skimpole.  Un eccellente studio
+critico del signor Brimley Johnson, insieme ad altri studi del genere,
+ha condotto a qualcosa come una riabilitazione pubblica di Leigh Hunt.
+Si è fatto notare che Skimpole era del tutto incapace delle azioni
+di Leigh Hunt; per esempio, incapace di sfidare i tiranni per puro
+amore di libertà e di andare in prigione per il proprio coraggio politico.
+Si è anche fatto notare che Leigh Hunt era incapace delle azioni
+di Skimpole, incapace di tradire un povero ragazzino di strada
+consegnandolo ai suoi inseguitori per una mancia di mezza corona.  È verissimo che
+Leigh Hunt era incapace delle azioni di Skimpole.  È altrettanto
+vero che Skimpole era incapace delle azioni di Skimpole.
+Persino il personaggio così come tracciato da Dickens dovette essere annerito e persino
+cancellato da Dickens, prima di poter essere usato a questi fini
+nel romanzesco dickensiano.  Dickens non aveva originariamente descritto
+Skimpole come un intrigante, o alcunché di simile a un intrigante.  Lo mise a
+intrigare unicamente per assecondare l'intreccio.  Ora, la morale di quell'episodio
+è che questo composto del capriccio della finzione e della responsabilità
+della biografia è un composto impossibile e persino intollerabile.
+Dickens almeno fu più fortunato dell'ultimo critico di Dickens.
+Perché Dickens si rese conto di aver preso un abbaglio.
+
+Comunque sia, si potrebbe dire in questo senso che Leigh Hunt è vendicato.
+Qualcuno ha fatto a Dickens pressappoco ciò che Dickens fece a Leigh Hunt.
+Il procedimento è molto semplice.  Consiste nel descrivere un uomo con
+tutte le debolezze notorie che egli davvero ebbe; nell'aggiungervi arbitrariamente
+tutte le debolezze più profonde e più oscure che egli non ebbe;
+e poi nel suggerire che questo è andare più a fondo della superficie.
+Il ritratto di Dickens è giusto verso Dickens all'incirca quanto il
+ritratto di uno strisciante delatore di polizia è giusto verso Leigh Hunt.
+Ma il procedimento in sé è abbastanza facile.  Consiste semplicemente
+nel suggerire che certi difetti superficiali andavano molto più a fondo
+di quanto andassero, o molto più a fondo di quanto chiunque possa sapere che andassero.
+Ogni uomo ha cento aspetti; ogni uomo può essere il modello di
+cento ritratti; ogni uomo può all'occasione avere l'aspetto
+di essere cento uomini.
+
+L'artista dichiaratamente si occupa dell'aspetto, del ritratto
+che deve dipingere — non della personalità che Dio deve giudicare.
+Il critico o il biografo deve fare qualche tentativo di giudizio;
+per quanto sarà bene che egli distingua anche tra il proprio giudizio
+e il Giorno del Giudizio.  Ma mescolando insieme tutte queste cose
+otteniamo possibilità di caricatura che ammontano a pura anarchia.
+Questo è ciò che intendo dicendo che Dickens scoprì il proprio abbaglio,
+sia pure troppo tardi.  Si rese conto che non poteva essere a un tempo
+il creatore di Skimpole e il critico di Leigh Hunt.
+Ma la nuova caricatura di Dickens non è semplicemente una caricatura di Dickens;
+il personaggio è di nuovo sacrificato all'intreccio e all'intrigante.
+
+Non c'era nulla che non andasse in Dickens, tranne che, mentre
+era ancora un giovanissimo, un giovane vanitoso e non troppo ben istruito,
+egli divenne qualcosa di unico e di universale.  Divenne,
+in un senso che era speciale, effettivo e persino tremendo, un uomo pubblico.
+Pochi si rendono conto del senso in cui questo fu vero di Dickens, perché
+è una cosa che capita a pochissimi.  Comunemente, per comodità, chiamiamo
+uomo pubblico qualsiasi politico o uomo d'affari eminente.
+Ma per essere davvero un uomo pubblico è necessario, per inciso,
+essere un uomo.  Il politico o il plutocrate può talvolta essere chiamato
+un'istituzione pubblica.  Può talvolta essere chiamato un pubblico flagello.
+Talvolta non arriva a essere più di una sorta di diceria popolare.
+Ma era la completa umanità di Dickens a essere proprietà pubblica;
+talvolta troppo pubblica, eppure, come disse il filosofo, fin troppo umana.
+Persino tra i grandi vittoriani questa specie di grandezza intima
+restò irraggiunta.  Gli uomini conoscevano l'economia di Cobden o la politica
+estera di Palmerston, ma non gli uomini vivi e la loro piena
+visione della vita.  Ma Dickens sì, secondo la frase usata troppo a buon mercato,
+mise il cuore nel proprio lavoro.  Visse nei suoi personaggi e nelle
+folle che godevano dei suoi personaggi.  Ci furono moltissime
+disavventure che nacquero da questa vasta eppure familiare vita pubblica;
+e una di esse fu che egli fece un bel pasticcio della propria vita privata.
+Ai meriti di un simile guazzabuglio nessuno può rendere giustizia se non ha davvero
+conosciuto le persone, udito le voci, e visto i gesti stessi;
+e non mi pare un sostituto sufficiente che qualcuno
+che non le ha viste se le inventi.  Ma sono abbastanza sicuro
+che quella prodigiosa popolarità fu la sorgente di tutte le follie.
+Dickens soffrì di una sorta di Grande Affare precoce,
+benché il termine sia indegno di lui al suo peggio, giacché era
+l'affare di fare cose e non di comprarle e venderle.
+Ma egli si prefisse fin troppo di essere una specie di Fornitore Universale;
+di tenere una enorme fabbrica di narrativa ruggente notte e giorno; di «restare
+in contatto» col proprio pubblico come un grande affare coi propri clienti.
+Da ciò venne quella specie di errori davvero da imputargli; come il suo
+tentativo di giustificarsi in stampa a proposito della faccenda della separazione.
+Egli pensava alle sue migliaia di lettori, ma con l'immaginazione e
+non semplicemente per grettezza.  Sentiva quale colpo sarebbe stato, presso mille
+focolari, pensare che il grande [[Prophet|profeta]] del focolare e della [[Home|casa]] fosse
+egli stesso diventato un naufrago.  Se avesse pensato di più a un solo focolare,
+e meno a mille, sarebbe stato un uomo più felice.
+Ma non era un uomo vuoto, né un uomo falso, né un uomo corrotto o crudele;
+e chiunque insinui che lo fosse sta dicendo sciocchezze sensazionalistiche.
+E c'è solo una cosa da aggiungere al nostro apprezzamento della sua
+vera forza e debolezza.  Nessun altro è stato così inebriato
+da una simile fama, semplicemente perché nessun altro ha conseguito una simile fama.
+
+Non c'è mai stato un autore popolare dopo Dickens.
+Ci sono stati campioni di vendite che venivano letti e disprezzati,
+e autori famosi che venivano rispettati e non letti.
+Ma Dickens era davvero un autore, nel senso di un creatore.
+E Dickens era davvero famoso, non come il signor Osbert Sitwell,
+ma come Napoleone.  Eppure, con tutto ciò, Dickens non lasciò alcun successore —
+non solo del suo genio, ma neppure del suo umore.  Proprio come Walt Whitman
+non lasciò alcun successore — non solo del suo genio, ma neppure del suo umore.
+Dickens e Whitman potranno sembrare abbastanza diversi, ma erano uniti in una
+enorme premessa: che gli esseri umani debbano entusiasmarsi per l'umanità.
+E oggi vediamo assai vividamente la loro premessa comune, proprio perché è svanita.
+Comunque sia, non lasciarono eredi.  Mi sembra che questo sia stato assai più
+spesso vero delle opere originali o significative di quanto comunemente si supponga.
+Tutta la mia generazione parlava, e molti persino della generazione nascente
+parlano ancora, di progresso in termini di profezia.  Ci fu insegnato
+che qualcuno come Wycliffe era una Stella del Mattino della [[Reformation|Riforma]];
+e da lì scivolammo nell'abitudine di pensare a tutti i grandi
+come ad anticipatori, a tutti i poeti come a profeti, a tutti i cantori come a
+[[Stars|stelle]] del mattino che cantano insieme.  Ma mi sembra che la maggior parte di quelle
+[[Stars|stelle]] del mattino fossero in realtà [[Stars|stelle]] della sera.  Fummo fuorviati in questo,
+come in quasi tutto il resto, dalla cattiva applicazione di una vecchia e mistica
+idea cristiana come se fosse una nuova e scientifica idea sociale.
+Tutto l'Ottocento era pieno di un rumore di piedi in corsa;
+i piedi belli sui [[Mountains|monti]]; i piedi del Precursore.
+Se avevamo un santo patrono, era San Giovanni Battista.
+Ma servivamo il nostro santo patrono come gli Ateniesi servivano il loro dio ignoto;
+senza saperne granché.  E la maggior parte della gente resta in quello
+stato d'ignorante venerazione, e non sa granché del processo
+che chiama un progresso.
+
+Ora, se guardiamo alle grandissime opere, diciamo, della letteratura inglese,
+vedremo che ciascuna di esse ha qualcosa di quell'aria di dare inizio a
+grandi cose; ma di fatto la grande cosa finisce dove è cominciata.
+Shakespeare ha tutto il gesto del [[Renaissance|Rinascimento]] di spalancare
+porte d'oro su un nuovo mondo di aurora e di [[Song|canto]].  È colmo,
+come lo fu tutto il Cinquecento, di quelle radiose prospettive
+di ricchezza e tesoro, che talvolta erano degne di essere chiamate,
+in un senso quasi [[Sublime|sublime]], i [[Dreams|sogni]] dell'avarizia.  È colmo
+di tutto quel colore ardente che appartiene alla pittura veneziana,
+come quando con un tocco muta tutti i mari del mondo in cremisi.
+E quando confrontiamo tutta questa ampiezza e gloria con le rigide
+imitazioni di Seneca o con le rozze recite paesane di Quince e [[Bottom]],
+non possiamo non sentire che Shakespeare sta edificando una [[City|città]], sta creando
+un mondo, è l'inizio di qualcosa di più grande persino di lui stesso.
+Ma non abbiamo avuto nulla di più grande di lui stesso.
+Il dramma del [[Renaissance|Rinascimento]], fatto di [[Blood|sangue]] e d'oro, di re e usurpatori,
+non è un inizio ma una fine; il suo oro e il suo cremisi sono i colori
+del tramonto e non dell'[[Dawn|alba]].  Lo stesso è vero, in altra maniera,
+di [[Milton]].  [[Milton]], benché venisse davvero da una cultura cattolica,
+prese deliberatamente le parti di tutte le idee nuove, delle nuove nozioni
+dei Puritani, e di parecchie nuove nozioni sue proprie,
+che non sarebbero state affatto approvate dai Puritani.
+La sua teologia ariana probabilmente la considerava una teologia più illuminata.
+Credeva nel [[divorce|divorzio]] e nella stampa e in ogni sorta di buffe cose moderne.
+Quando un uomo con questo atteggiamento scrive un [[Sublime|sublime]] poema [[Epic|epico]] sui
+lineamenti della nuova religione, potremmo naturalmente supporre
+che egli fonderebbe una scuola.  Potremmo aspettarci che fosse l'inizio
+di una tradizione di [[Poems|poemi]] [[Epic|epici]], di grandi, o almeno ragionevolmente buoni,
+[[Poems|poemi]] [[Epic|epici]].  Ma non fu il primo di una nuova scuola di poemi epici.
+Fu l'ultimo [[Epic|epos]] del mondo.
+
+Non dobbiamo perciò stupirci troppo se Dickens o Whitman
+non riuscirono a fare ciò che Shakespeare e [[Milton]] non riuscirono a fare.
+Ma in tutti e tre i casi è all'opera un principio che, io credo,
+è stato alquanto trascurato, e da molti forse mai scoperto.
+La difficoltà con l'arte è che l'[[Artist|artista]] dà espressione permanente
+a un umore passeggero.  Può darsi che egli stia, e generalmente sta,
+anche testimoniando una [[Truth|verità]] che sta permanentemente dietro quell'umore.
+Ma non può rendere l'umore stesso tanto popolare in un [[Time|tempo]] quanto in un altro.
+Non può essere certo, in un dato momento, se l'umore sia
+anche il modo.  Perciò, mentre l'opera può rimanere come un classico,
+non può rimanere, come rimane, per esempio, una religione, continuando a
+produrre i propri tipi di santo o di mistico generazione dopo generazione.
+Ciò può accadere solo quando le verità si cristallizzano in un credo,
+e vengono considerate dal popolo verità e non umori transitori.
+Ma una cosa come il fasto di colore del Cinquecento era
+davvero un umore transitorio.  Affascinava Shakespeare guardare
+uomini vestiti d'oro su un palco purpureo, e sotto baldacchini araldici,
+recitare fantastiche pantomime davanti all'alto cielo.  Ma quando col [[Time|tempo]] arriviamo
+a [[Milton]] la generazione successiva si è stancata di quelle tragedie dorate;
+il [[King|re]] è detronizzato di fatto e non soltanto nelle finzioni teatrali;
+il palco purpureo si è oscurato in un nero patibolo; e dopo quel giorno
+c'è stato uno sbiadire di tutto l'antico splendore araldico e brillante
+del costume; e gli uomini sono andati in grigio e in nero per un secolo o giù di lì,
+come se portassero il lutto per la [[Death|morte]] dell'ultimo [[King|Re]].
+
+Ma sebbene, in fatto di abito, il mondo che divenne grigio con
+il [[Puritanism|Puritanesimo]] sia da allora divenuto nero con l'Industrialismo, in altri modi
+anche quegli umori più severi erano umori destinati a passare.  [[Milton]] non
+perpetuò, non più di Shakespeare, ciò che vi era di eroico nel proprio punto
+di vista.  Abbiamo così ancora una volta la curiosa situazione storica:
+che i Puritani non ebbero appena dato inizio al [[Puritanism|Puritanesimo]]
+che sembrano d'un tratto giungere alla fine del [[Puritanism|Puritanesimo]].
+Parve un nudo splendore appena nato ai principali nemici di
+Carlo I.  Era già una superstizione morta per i principali nemici
+di Carlo II.  A quel [[Time|tempo]] uomini come Shaftesbury e Halifax non
+fingevano più di condividere lo zelo di uomini come Cromwell e Vane.
+Queste cose, che si staccarono dalla vecchia tradizione centrale della cultura,
+sembrarono nel loro primo capriccio precipitarsi via a vivere una vita propria.
+Ma in verità sarebbe più vicino alla [[Truth|verità]] dire che si trascinarono
+via a morire.  Le possenti cose partorite dalla convulsione
+del [[Renaissance|Rinascimento]] e della [[Reformation|Riforma]] sono come enormi storpi di
+giganti feriti; sono opere che s'interrompono di colpo e restano
+colossali e incompiute.  Il Dramma elisabettiano s'interruppe di colpo.
+Il Movimento puritano s'interruppe di colpo.  Il primo viene sostituito, dopo
+un intervallo, da una [[Comedy|commedia]] straniera senza traccia della poesia autoctona.
+Il secondo esibisce ciò che un tempo era stato un Parlamento puritano
+mutarsi con stupefacente rapidità in un'oligarchia pagana.
+E come questo strano, brusco crollo accadde all'entusiasmo del [[Renaissance|Rinascimento]]
+del Cinquecento, e all'entusiasmo puritano
+del Seicento, così accadde più lentamente ma con altrettanta certezza
+a Rousseau e allo spirito romantico e popolare nel Settecento,
+e al suo ultimo grande esponente nell'Ottocento.  Il suo ultimo grande
+esponente fu Walt Whitman; ed egli pure credeva di aprire
+le porte della [[democracy|democrazia]], quando in realtà le stava chiudendo.
+
+Nessuno comprende il mondo d'oggi se non comprende che
+l'intero ideale della [[democracy|democrazia]] si trova ora nello stesso diretto pericolo
+in cui si trovò l'ideale della monarchia sotto la penna di [[Milton]], o l'ideale
+dell'aristocrazia sotto la penna di Rousseau.  La [[democracy|Democrazia]] è oggi minacciata
+dalle penne più disparate, ma tutte notevolmente di un nuovo tipo;
+dalla penna di Maurras in Francia alla penna di Mencken in [[America]].
+Sono forse tra i pochi che se ne rendono conto e anche se ne dolgono.
+Credo davvero che l'[[Self|auto]][[government|governo]] sia il più normale
+e il più nobile genere di [[government|governo]], quando lo si può ottenere,
+per quanto sia forse il più difficile da ottenere.  Ma d'altra parte,
+io sono uno di quegli oggetti polverosi e antiquati che hanno credi
+e dogmi e convinzioni precise con ragioni precise a sostegno.
+Per quanto valga la mia [[democracy|democrazia]], se non fu mai tanto sfrenata quanto l'ottimismo
+di Whitman, resterà imperturbata dal pessimismo di Mencken.
+Ma non è in questo modo che la libera fantasia dell'età presente
+va fluttuando.  Il puro umore e la moda della [[democracy|democrazia]] stanno rapidamente passando;
+e chi desideri conservarne una qualche idea deve rinchiuderla
+nello scrigno di un credo.

@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/gkc-autobiography-(chesterton)">GKC Autobiography</a> › <a href="/testi/chesterton/atomized/gkc_autobiography/chapter_14">Chapter 14</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/gkc_autobiography/chapter_14/part_03">‹ part 03</a><a class="ex-next" href="/testi/chesterton/atomized/gkc_autobiography/chapter_14/part_05">part 05 ›</a></div>
@@ -107,3 +109,106 @@ John Burns said, "I am the son of my mother and the husband of my wife.
 And if you ask me to put a public insult upon a woman who has
 just borne a [[Child|child]], I will not do it."  That is English rhetoric:
 and it is as good as any in the world.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/gkc-autobiography-(chesterton)">GKC Autobiography</a> › <a href="/testi/chesterton/atomized/gkc_autobiography/chapter_14">Chapter 14</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/gkc_autobiography/chapter_14/part_03">‹ part 03</a><a class="ex-next" href="/testi/chesterton/atomized/gkc_autobiography/chapter_14/part_05">part 05 ›</a></div>
+</nav>
+
+Ora prendo quell'unico esempio di una tesi scientifica, sostenuta in
+modo puramente scientifico, per mostrare quanto pochissimo l'importanza
+intellettuale dell'opera di Belloc sia stata compresa. La ragione di quel
+fraintendimento sta nell'altro fatto che lo riguarda, il quale è davvero
+straniero e relativamente francese; l'abitudine di separare nella propria mente
+lo scientifico dall'artistico; l'ornamentale dall'utile.
+È vero che quando un francese progetta un parco come parco ornamentale
+i sentieri sono davvero assai tortuosi, perché sono soltanto ornamentali.
+Quando egli progetta una [[Road|strada]], la fa diritta come un bacchetta da fucile,
+come le strade lungo le quali i soldati francesi erano soliti marciare con tutte
+le loro bacchette da fucile; perché una [[Road|strada]] è fatta per essere utile ed è più
+breve quando è diritta. La piccola [[Lyric|lirica]] arcadica di Belloc,
+«Quando non ero molto più vecchio di Cupido e più ardito», è assai simile a un
+ornamentale [[Garden|giardino]] francese; e il suo libro sullo Stato Servile è assai
+simile a una [[Road|strada]] militare francese. Nessun uomo è più istintivamente arguto;
+e nessun uomo può essere più intenzionalmente noioso.
+
+Queste due voci di Belloc, per così dire, erano tanto distinte ch'egli poteva
+talvolta passare dall'una all'altra e farlo sembrare come due
+persone che parlano; operando su un palco una transizione quasi altrettanto drammatica
+del dialogo di un ventriloquo con il suo fantoccio. Quando si presentò
+come deputato liberale per Salford, riuscì spesso a sconcertare i suoi
+disturbatori spruzzandoli con questi bruscamente alternati getti
+d'[[Water|acqua]] fredda e calda. Salford era un collegio povero e popolare,
+in cui v'erano molti strati di gente semplice e provinciale,
+che serbava i pregiudizi dei nostri bisnonni; uno di essi essendo
+la commovente credenza che chiunque avesse un nome francese potesse essere indotto
+a rannicchiarsi e strisciare da qualunque allusione alla Battaglia di Waterloo.
+Questa era probabilmente l'unica battaglia di cui il disturbatore stesso avesse
+mai sentito parlare; e la sua informazione a riguardo si limitava alla in parte
+inesatta affermazione che era stata vinta dagli inglesi. Perciò era solito
+gridare a intervalli: «Chi vinse Waterloo?». E Belloc fingeva
+di prenderla con [[Grave|grave]] esattezza, come una questione tecnica postagli
+su un problema tattico, e rispondeva con la laboriosa lucidità
+di un conferenziere: «L'esito di Waterloo fu in ultima analisi determinato,
+soprattutto dalla manovra di Colborne al centro, sostenuta dagli
+effetti della batteria di Van der Smitzen più presto nello scontro.
+Il difetto di sincronia dei prussiani non fu sufficientemente esteso, eccetera».
+E poi, mentre lo sventurato patriota tra il pubblico stava ancora
+sforzandosi di misurarsi con questo inatteso accrescersi della complessità
+nel problema che aveva proposto, Belloc mutava all'improvviso
+la propria nota nella squillante schiettezza del demagogo,
+si vantava apertamente del [[Blood|sangue]] di quel soldato pirenaico che aveva
+seguito l'esercito rivoluzionario di Napoleone, e s'era levato tra le sue file,
+attraverso tutte le vittorie che stabilirono un codice di giustizia
+in tutto un continente e restituirono la cittadinanza alla civiltà.
+«È buon [[Blood|sangue]] democratico; e non me ne vergogno».
+
+Questa transizione di tono ebbe un effetto tremendo, l'intera sala si [[Rose|levò]]
+verso di lui ruggendo d'applausi e l'indagatore della campagna
+belga fu lasciato isolato. Ma è esattamente questo il punto;
+che egli era davvero isolato. È un punto, non solo nella sottigliezza
+di quella mescolanza di [[Blood|sangue]] francese e inglese; ma anche della piuttosto
+speciale sottigliezza degli inglesi. Gli inglesi sono insulari, non tanto
+nel senso d'essere insolenti quanto semplicemente nell'essere ignoranti;
+ma non sono maligni. A parità d'altre condizioni, preferirebbero
+acclamare un francese che fosse fiero d'essere francese, come
+acclamarono il Maresciallo di Napoleone all'Incoronazione della [[Queen|Regina]] Vittoria,
+piuttosto che rammentargli la sventura di Napoleone a Waterloo.
+E la stessa interessante distinzione taglia anche nel verso opposto.
+Ci è stato detto in modo tedioso fin dall'[[Childhood|infanzia]] di qualcosa
+che si chiamava retorica francese. A nostra vergogna, abbiamo dimenticato
+che fino a pochissimo tempo fa esisteva una nobile cosa chiamata retorica inglese.
+E, distinta dalla sua ironia o dal suo oggettivo militarismo scientifico,
+la retorica di Belloc era pienamente retorica inglese.
+Non v'era in essa nulla che non avrebbe potuto essere detto da Cobbett
+o persino da Fox, ai giorni in cui il genuino radicale inglese poteva
+rivolgersi alla genuina folla inglese. Ciò che ha indebolito quell'appello
+diretto e popolare è stato il mutamento che trasformò quasi tutti gli inglesi
+in una sorta di [[Imitation|imitazione]] di londinesi; e la retorica di Westminster si fece
+sempre più pomposa e ipocrita mentre lo spirito di Whitechapel
+si fece sempre più acre e frivolo. Ma è stato possibile,
+persino al mio stesso [[Time|tempo]], udire di tanto in tanto la voce storica e virile
+di un demagogo inglese; parlare in schietto inglese di emozioni primarie.
+Nessuno lo fece mai meglio, quando volle, del vecchio John Burns,
+per il quale ho parlato e votato tante volte ai giorni in cui
+vivevo a Battersea. Per menzionare un caso, come una sorta di modello;
+era abbastanza naturale che il vecchio agitatore dello Sciopero dei Docks, divenuto
+Ministro del Gabinetto e per molti versi una forza piuttosto conservatrice,
+fosse assalito da gruppi più rivoluzionari come un vulcano
+spento se non una fortezza arresa. Ma Burns sapeva come trattare
+quel genere di cose quando parlava ai democratici; scavando più a fondo
+nei fatti umani anziché scivolar via su finzioni legali.
+Fu schernito da alcuni socialisti a un comizio di Battersea
+per non essersi opposto al Sussidio Reale alla [[Queen|Regina]] Mary o a qualche
+principessa alle celebrazioni per la nascita di un erede.
+Posso immaginare come il più mellifluo genere di arrampicatore sociale Lib-Lab,
+passando attraverso il Parlamento alla classe di governo, spiegherebbe
+via la propria posizione in termini dell'etichetta della [[house|Camera]].
+John Burns disse: «Sono il figlio di mia madre e il marito di mia moglie.
+E se mi chiedete di infliggere un pubblico insulto a una donna che ha
+appena dato alla luce un [[Child|figlio]], non lo farò». Questa è retorica inglese:
+ed è buona quanto qualunque altra al mondo.

@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/gkc-come-to-think-(chesterton)">GKC Come to Think</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/gkc_come_to_think/story_24_on_change">‹ Story 24 ON CHANGE</a><a class="ex-next" href="/testi/chesterton/atomized/gkc_come_to_think/story_26_on_vulgarity">Story 26 ON VULGARITY ›</a></div>
@@ -140,3 +142,139 @@ so to-day the only sanctity so regarded is that of the man
 of science; and any number of thieves will steal it from him.
 But as men grow more used to the science, they may grow more sensible
 about the superstition.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/gkc-come-to-think-(chesterton)">GKC Come to Think</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/gkc_come_to_think/story_24_on_change">‹ Story 24 ON CHANGE</a><a class="ex-next" href="/testi/chesterton/atomized/gkc_come_to_think/story_26_on_vulgarity">Story 26 ON VULGARITY ›</a></div>
+</nav>
+
+XXV.  Sul [[Sleep|Sonno]] Crepuscolare
+
+È STATO blandamente e placidamente proposto da certi pubblicisti
+che le persone accusate di un delitto siano sottoposte a qualche
+influsso ipnotico, che alcuni psicologi immaginano induca
+una condizione da essi chiamata [[Sleep|Sonno]] Crepuscolare; nel quale notevole stato si
+dice che un uomo continui a parlare e non possa dire che la [[Truth|verità]].
+Confido non mi occorra dire cosa penso della [[morality|moralità]]
+di tutta quella sorta di cose.  Del suo pratico effetto sociale, se mai potesse
+avere una qualche pratica esistenza sociale, ho ben pochi [[Doubt|dubbi]].
+Ciò che accadrebbe, naturalmente, sarebbe semplicemente questo.  In mite obbedienza
+a ciò che la Scienza aveva scoperto, impiccheremmo sei o sette persone
+sull'inconfutabile prova di ciò che avessero detto nel loro [[Sleep|Sonno]] Crepuscolare.
+E poi la Scienza farebbe un'altra scoperta, stabilendo il
+principio delle Distorsioni Oniriche Crepuscolari; facendo notare che certe
+forme di errore sono specialmente propense a verificarsi nel [[Sleep|Sonno]] Crepuscolare;
+e parlando con alterigia e distacco dei propri creduli antenati che,
+per ignoranza dei Fenomeni di Distorsione, avevano immaginato che
+il [[Sleep|Sonno]] Crepuscolare fosse affidabile.  Nel frattempo, le persone che avevamo impiccato
+alla più recente luce della scienza (in ogni senso, invero, un crepuscolo della scienza)
+continuerebbero a essere morte.  È così che la Scienza assiste davvero la Legge.
+È del tutto vero che vi sono stati molti martiri della scienza;
+ma non sono sempre stati scienziati.
+
+Della sua [[morality|moralità]] più generale e atmosferica, in quanto questione
+di tono sociale, posso solo dire che, se cose di quel genere
+fossero mai stabilite in Inghilterra, sarebbe la fine di una tradizione inglese
+piuttosto eccezionale e assai bella e onorevole.
+La nostra legge inglese ha avuto molti difetti, che tendiamo piuttosto a
+dimenticare quando ci accontentiamo di udire la legge lodata dai legali.
+Ma è davvero vero che essa portò quasi a un punto donchisciottesco
+la nozione di proteggere il prigioniero contro trucchi o trappole sleali.
+Forse fu tanto sportiva quanto cavalleresca; forse fu più
+cavalleresca che giusta.  Ma mi dispiacerebbe veder così generosa
+tradizione nazionale interamente spazzata via, sia pure da più logiche teorie
+di polizia venute dall'Europa, per non [[Alone|dire]] da un mucchio di ciarlatanesca scienza mezza cotta
+venuta dall'[[America]].  La legge non è la cosa più magnanima del mondo,
+in nessuna parte del mondo.  Ma sembrerebbe, a prima vista,
+che persino la legge avesse un miglior senso dell'[[Honour|onore]] della scienza.
+Solo che, come ho detto, questa sorta di scienza non è scienza.
+È semplicemente ciarlataneria e réclame; opera di gente
+che si avvantaggia al contempo della popolare reverenza per la scienza
+e della popolare ignoranza di essa.  I ciarlatani sono ora meno criticati
+o sottoposti a [[Cross|contro]]interrogatorio di quanto non lo fossero mai stati al mondo prima.
+Nei giorni più oscuri venivano almeno esaminati per vedere se
+fossero streghi; ma ora gli uomini sono divenuti scettici non solo riguardo alla
+[[Witch|strega]], bensì riguardo al cacciatore di [[Witch|streghe]]. Sono divenuti propensi non solo a
+[[Doubt|dubitare]] del ciarlatano, ma del medico che denuncia il ciarlatano.
+Ogni cosa è divenuta questione di opinione, o, piuttosto, questione di gusto;
+e folle sempre più grandi di persone hanno semplicemente un gusto per i ciarlatani.
+Si muovono in una condizione mesmerizzata e meccanica, parlando e
+pensando soltanto sull'autorità di qualcuno che non è un'autorità.
+In breve, si trovano in una condizione che si potrebbe assai propriamente
+descrivere come [[Sleep|Sonno]] Crepuscolare; il quale, se non è uno stato in cui essi
+dicono la [[Truth|verità]] su ogni cosa, è almeno uno stato in cui essi
+possono credere vera qualsiasi cosa.
+
+Se qualcuno pensa che io esageri la superstizione di questi sonnambuli,
+o il [[Decay|decadimento]] di più chiare e più fredde idee di giustizia, permettetemi di far notare che
+la stessa cosa sta accadendo in condizioni più crudamente superstiziose.
+Ci viene chiesto di affidare le decisioni legali non solo ai mesmeristi,
+ma ai medium.  Ci viene di nuovo detto di rivolgerci ai [[Ghosts|fantasmi]] e agli spettri
+per un parere legale; o di mettere fantasmi ammantati e spettri farfuglianti
+nel banco dei testimoni. Fu del tutto seriamente e calorosamente sostenuto che
+qualche seduta spiritica, con tutte le attività delle sue trombe e dei suoi tamburelli,
+dovesse essere convocata come un giudice e una giuria per emettere il proprio verdetto
+sull'[[Identity|identità]] dell'assassino di Ilkley.  Io ho una mente aperta riguardo ai
+medium e agli spiriti quando siamo noi a investigarli o scoprirli.
+Ma traccio bensì un confine quando sono essi a investigare e scoprire noi.
+Non so che gli spiriti esistano; non so se siano
+affidabili qualora esistano; non so che non siano illusioni;
+non so che non siano diavoli dell'inferno.  Eppure mi si chiede,
+da parte di gente che ne sa praticamente quanto poco ne so io, di scatenarli
+come libertini muniti di licenza per infamare l'[[Honour|onore]] o spezzare la vita degli uomini.
+In parole povere, potremmo presto ritrovarci a dar la caccia a un altro essere umano,
+non con [[Blood|segugi]], ma con mastini infernali.
+
+Questo è ciò che io chiamo il Crepuscolo; e qualcosa di singolarmente
+adatto al titolo di [[Sleep|Sonno]] Crepuscolare.  È un crollo
+al contempo dell'idea di ragione e dell'idea di autorità;
+è un crollo della ragione perché è un crollo dell'autorità.
+Alcuni uomini dicono che la Scienza dice questo o quello; quando intendono soltanto
+gli scienziati, e non sanno né si curano di quali scienziati.
+Altri uomini dicono che gli Spiriti dicono questo o quello; quando non
+sanno né si curano di quali spiriti, o se siano spiriti maligni.
+La nozione che possa esservi un criterio o un tribunale della [[Truth|verità]],
+capace di distinguere i grandi scienziati dai piccoli, o gli spiriti maligni
+dai buoni, sembra essere completamente svanita da un assai gran
+numero di menti; e, paragonata a un simile vuoto d'anarchia,
+persino la vecchia arida pedanteria dei legali rimane come una sorta
+di legame con la [[logic|logica]] e con il buon [[government|governo]].  Piuttosto che essere giudicato
+dagli psicologi, o giudicato da fenomeni psichici, prenderei persino
+la disperata via di andare in giudizio in un'ordinaria [[Court|corte]] di giustizia.
+Non posso vantarmi di essere, nel senso ristretto e speciale,
+noto alla polizia.  Ma almeno, nel senso pubblico e generale,
+essa è nota a me; e, pur non nutrendo alcuna illusione su di essa,
+ho su di essa un'informazione grossolanamente adeguata:  so che vi sono
+alcune cose che non farà e alcune cose che legalmente non può fare.
+
+Ma i rozzi e folli psichiatri dei nuovi Collegi di [[Eugenics|Eugenetica]]
+non mi sono affatto noti; e i vaghi e visionari
+influssi provenienti dall'aldilà della [[Grave|tomba]] non mi sono affatto noti;
+e non ho su di essi alcuna informazione.  Se la gente attorno a me
+si accinge a fidarsi ciecamente di queste cose, non posso far altro che congetturare
+che stia calando su di essa una cecità simile a quella della barbarie.
+E torna a riaffacciarsi ancora una volta alla mia mente la loro stessa metafora
+del [[Sleep|Sonno]] del Crepuscolo; e mi ricordo di ciò che gli uomini solevano dire riguardo
+al Crepuscolo degli Dèi, e mi [[Wonder|chiedo]] se questo sia il Crepuscolo
+dell'Uomo.
+
+Tuttavia, non prendo realmente una veduta così deprimente,
+nemmeno di questi deprimenti sviluppi e proposte.
+Poiché riconosco che, in realtà, tutta questa sorta di cose
+segna piuttosto la fine di un'illusione che il suo inizio.
+La maledizione dell'intera situazione è espressa con terribile esattezza
+nell'unica frase che la Scienza è divenuta un nome con cui evocare prodigi.
+Avendo operato le proprie meraviglie, che sono davvero, sul piano materiale,
+paragonabili a miracoli, essa ha guadagnato una sorta di fascino che vien fatto
+coprire un numero indefinito di banali o disdicevoli giochi di prestigio.
+Vi erano Pretendenti nei giorni in cui gli uomini credevano nei Principi.
+Vi erano preti abusivi nei giorni in cui gli uomini credevano nel sacerdozio.
+Proprio come allora gli avventurieri rivendicavano la santità di preti e re,
+così oggi l'unica santità considerata tale è quella dell'uomo
+di scienza; e un numero indefinito di ladri gliela ruberà.
+Ma man mano che gli uomini si abitueranno alla scienza, potranno divenire più assennati
+riguardo alla superstizione.

@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/irish-impressions-(chesterton)">Irish Impressions</a></div>
 <div class="excerpt-pn"><span></span><a class="ex-next" href="/testi/chesterton/atomized/irish_impressions/story_02_the_root_of_reality">Story 02 The Root of Reality ›</a></div>
@@ -218,3 +220,217 @@ and a [[Beauty|beauty]] that nourishes and does not merely charm, is the
 premonition of practicality in the miracle of modern Ireland.
 It is a miracle more marvellous than the [[Resurrection|resurrection]] of the dead.
 It is the [[Resurrection|resurrection]] of the [[Body|body]].
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/irish-impressions-(chesterton)">Irish Impressions</a></div>
+<div class="excerpt-pn"><span></span><a class="ex-next" href="/testi/chesterton/atomized/irish_impressions/story_02_the_root_of_reality">Story 02 The Root of Reality ›</a></div>
+</nav>
+
+I.  Due pietre in una piazza
+
+Quando per la prima [[Time|volta]] ebbi attraversato il Canale di San Giorgio, e per
+la prima [[Time|volta]] misi piede fuori da un albergo di Dublino su St. Stephen's Green,
+la prima di tutte le mie impressioni fu quella di una particolare statua,
+o piuttosto di una porzione di statua. Molti misteri tradizionali mi ero già
+lasciato alle spalle, ma non mi turbavano come questo casuale
+scorcio o visione. Non ho mai capito perché il Canale sia
+chiamato Canale di San Giorgio; parrebbe più naturale chiamarlo
+Canale di San Patrizio, giacché il grande missionario quasi certamente
+[[Cross|attraversò]] quel mare inquieto e levò lo sguardo verso quei misteriosi [[Mountains|monti]].
+E per quanto sarei incantato, in un senso artistico astratto,
+d'immaginare San Giorgio veleggiare verso il tramonto, inalberando i colori d'argento
+e scarlatto della sua [[Cross|croce]], non posso di fatto considerare quel
+[[Journey|viaggio]] la più fortunata delle avventure di quella [[Flag|bandiera]].
+Né, del resto, so perché il Green debba chiamarsi
+St. Stephen's Green, né perché il recinto parlamentare di
+Westminster sia anch'esso connesso col primo dei martiri;
+a meno che non sia perché Santo Stefano fu ucciso con le pietre.
+Le pietre ammucchiate insieme per fare i moderni edifici politici
+potrebbero forse considerarsi un cairn, o cumulo di proiettili,
+a segnare il luogo dell'assassinio di un testimone della [[Truth|verità]].
+E benché sembri improbabile che Santo Stefano sia stato lapidato con statue
+[[Well|oltre]] che con pietre, vi sono senza dubbio statue che [[Well|ben]]
+potrebbero uccidere un cristiano a prima vista. Fra queste pietre scolpite, per opera
+delle quali i santi patiscono, includerei certamente alcune di quelle figure
+in redingote che stanno di fronte a St. Stephen's, a Westminster.
+Anche a Dublino ci sono molte statue di questo genere; ma quella di
+cui mi occupo mi era in principio parzialmente velata.
+E il velo era almeno tanto simbolico quanto la visione.
+Vidi quelle che parevano le storte zampe posteriori di un [[Horse|cavallo]] su un piedistallo
+e ne dedussi una statua equestre, nella maniera alquanto gonfia
+delle statue equestri del primo Settecento.
+Ma la figura, da dove stavo, era interamente nascosta nelle cime
+degli alberi che le crescevano intorno in un cerchio; mascherandola con fronzute cortine
+o drappeggiandola con fronzuti vessilli. Ma erano vessilli verdi,
+che ondeggiavano e scintillavano tutt'intorno alla luce del sole;
+e il volto che nascondevano era il volto di un [[King|re]] inglese.
+O piuttosto, a dire più esattamente, di un [[King|re]] tedesco.
+«Quando le leggi potranno arrestare . . .» era impossibile che una vecchia
+filastrocca non mi frullasse per la testa, e parole che si appellavano all'eterna
+rivolta delle verdi cose della terra. . . . «E quando le [[Leaves|foglie]],
+nel [[Time|tempo]] d'[[Summer|estate]], non osano mostrare il loro colore.» La filastrocca pareva
+raggiungermi da tempi remoti e trovare un avvincente compimento,
+come una profezia; era impossibile non sentire di aver visto un presagio.
+Ero vagamente consapevole di una visione di verdi ghirlande appese a grigia pietra;
+e le corone erano vive e crescevano, e la pietra era morta.
+Qualcosa nelle semplici sostanze e nei colori elementari,
+nella bianca luce del sole, e nell'immagine cupa e persino segreta,
+tenne la mente per un istante in mezzo a tutta la [[City|città]] in movimento,
+come un segno dato in [[A Dream|sogno]]. Mi fu detto che la figura era
+quella di uno dei primi Giorgi; ma in verità mi pareva di sapere
+già che era il Bianco [[Horse|Cavallo]] di Hannover a essersi così
+fatto grigio col tempo irlandese o verde col fogliame irlandese.
+Sapevo fin troppo [[Well|bene]], ormai, che il Giorgio che aveva davvero
+attraversato il Canale non era il santo. Questi era uno di quei principi
+tedeschi di cui l'aristocrazia inglese si servì quando rese aristocratica la politica
+interna inglese e tedesca la politica estera inglese.
+Quegli inglesi che credono gli irlandesi filotedeschi, o quegli irlandesi
+che credono che gli irlandesi dovrebbero essere filotedeschi, si aspetterebbero
+presumibilmente che il popolino di Dublino avesse ornato la statua di questo
+liberatore tedesco di [[Flowers|fiori]] nazionali e bandiere nazionaliste.
+Per qualche ragione, tuttavia, non trovai traccia di tributi irlandesi intorno
+al piedistallo del cavaliere teutonico. Mi chiesi quante persone
+negli ultimi cinquant'anni se ne fossero mai curate, o fossero anche solo state consapevoli
+della propria incuria. Mi [[Wonder|domando]] quanti si siano mai presi la briga
+di guardarla, o anche solo la briga di non guardarla. Se cadesse,
+mi [[Wonder|domando]] se qualcuno la rimetterebbe su. Non lo so;
+so soltanto che giardinieri irlandesi, o qualche siffatto burlone irlandese,
+avevano piantato alberi in cerchio attorno a quella impennata figura equestre;
+alberi che erano, per così dire, spuntati e l'avevano soffocata, rendendola più
+irriconoscibile di un Jack-in-the-Green. Jack o Giorgio era svanito;
+ma il Verde rimaneva.
+A un tiro di sasso da questa calamità di pietra sorgeva,
+all'angolo di un vialetto fiorito dai colori sgargianti, un busto evidentemente
+opera di uno scultore moderno con moderno ornamento simbolico, sormontato
+dal bel volto di falco del poeta Mangan; che sognò e bevve
+e morì, un reietto sventato e scialacquatore, nella più buia
+delle vie di Dublino attorno a quel luogo. Questo singolo
+irlandese era davvero ciò che ci era stato detto essere tutti gli irlandesi:
+senza speranza, sbadato, irresponsabile, impossibile, una [[Tragedy|tragedia]] di fallimento.
+Eppure pareva che fosse la sua testa a essere sollevata e non nascosta;
+i gai [[Flowers|fiori]] non facevano che mettere in risalto questa immagine scolpita come le verdi [[Leaves|foglie]]
+escludevano l'altra; tutto intorno a lui pareva luminoso e indaffarato,
+e parlava piuttosto di un [[Time|tempo]] nuovo. Era chiaro che gli uomini moderni
+si fermavano davvero a guardare _lui;_ anzi, gli uomini moderni vi si erano trattenuti
+abbastanza a lungo da farne un monumento. Era quasi certo
+che se il suo monumento fosse caduto, sarebbe davvero stato rimesso su.
+Ritengo molto probabile che ci sarebbe competizione tra le avanzate scuole moderne
+artistiche di riconosciuta stramberia e ineccepibile follia;
+che qualcuno vorrebbe intagliare un Mangan cubista in uno stile meno
+di pietra che di mattoni; o erigere un Mangan vorticista, come un
+vortice congelato, a terrorizzare i bambini che giocano in quel viale fiorito.
+Poiché quando in seguito entrai nel Dublin Art Club, o mi mescolai in generale
+alla stimolante società degli intellettuali della capitale irlandese,
+trovai una moltitudine di cose che mossero tanto la mia ammirazione
+quanto il mio divertimento. Forse la cosa migliore di tutte fu che era l'unica
+società da me veduta in cui gli intellettuali fossero intellettuali.
+Ma nulla mi piacque più del fatto che persino l'arte irlandese
+fosse presa con una certa combattività irlandese; come se potessero esserci
+risse di strada sull'estetica come un tempo ce n'erano sulla teologia.
+Quasi riuscivo a immaginare un appello alle picche per dirimere una questione
+di ricamo artistico, o la proposta di morire sulle barricate
+per una divergenza sulla rilegatura dei libri. E ancora più facilmente riuscivo a
+immaginare una sorta di guerra civile ultra-civilizzata attorno al semirestaurato
+busto del povero Mangan. Ma fu in un senso ancora più schietto e popolare
+che sentii quel busto essere il segno di un mondo nuovo,
+dove la statua del Regio Giorgio era soltanto la rovina di uno vecchio.
+E benché da allora abbia visto in Irlanda cose molto più complesse,
+e molte decisamente contraddittorie, l'[[Allegory|allegoria]]
+di quelle due immagini di pietra in quel [[Garden|giardino]] pubblico è rimasta
+nella mia [[Memory|memoria]], e non si è capovolta. La Gloriosa Rivoluzione,
+il grande Liberatore protestante, la Successione hannoveriana,
+queste cose erano il vero fasto e l'apoteosi del [[success|successo]].
+L'[[aristocrat|aristocratico]] whig non era semplicemente vittorioso; era come vincitore
+che chiedeva la vittoria. La cosa era pienamente espressa in tutta
+la statuaria florida e insolente dell'epoca, in tutti quei tumidi
+cavalieri in uniforme romana e parrucche rococò raffigurati mentre s'impennano
+in perpetuo movimento giù per vie vocianti verso i loro trionfi;
+solo che oggi le vie sono vuote e silenziose, e il [[Horse|cavallo]] sta immobile.
+Di tal genere era la figura imperiale attorno alla quale s'era levato il cerchio
+d'alberi, come grandi ventagli verdi per far vento a un sultano, o grandi verdi
+cortine a custodirlo. Ma era in una sorta di scherno che il suo
+padiglione fosse così dipinto col colore dei suoi nemici sconfitti.
+Perché il [[King|re]] era morto dietro le sue cortine, la sua voce non sarà udita
+mai più, e nessun uomo desidererà nemmeno udirla, finché il mondo duri.
+Il Settecento dinastico è morto se qualcosa è morto;
+e questi idoli almeno sono solo pietre. Ma a pochi metri soltanto,
+la pietra che i costruttori scartarono è davvero testata d'angolo,
+ritta all'angolo di un nuovo sentiero, colorata e affollata
+di bambini e di [[Flowers|fiori]].
+Questo, sospetto, è il [[Paradox|paradosso]] dell'Irlanda nel mondo moderno.
+Tutto ciò che si riteneva progressivo, come un [[Horse|cavallo]] impennato, si è
+arrestato. Tutto ciò che si riteneva decadente, come un ubriacone morente,
+è risorto dai morti. Tutto ciò che pareva aver raggiunto un _cul de
+sac_ ha svoltato l'angolo, e sta all'imbocco di una nuova [[Road|strada]].
+Tutto ciò che si credeva su un piedistallo si è ritrovato in cima a un albero.
+Ed ecco perché quelle due pietre casuali mi paiono ergersi come immagini scolpite
+ai due lati del portale attraverso il quale si entra in Irlanda.
+Eppure non avevo lasciato il medesimo piccolo recinto senza aver visto
+un altro spettacolo ancora più simbolico dei [[Flowers|fiori]] presso
+il piede del piedistallo del poeta. A pochi metri oltre il busto di Mangan
+c'era un appezzamento modello di ortaggi, come un [[Garden|orto]] senza cucina
+o [[house|casa]] annessa, piantato in un mosaico di patate,
+cavoli e rape, per dimostrare quanto si potesse fare con un acro.
+E mi resi conto come in una visione che in tutta la nuova Irlanda quell'appezzamento
+si ripete come un motivo; e dove c'è un vero [[Garden|orto]]
+c'è anche una vera cucina; e non è una cucina comune.
+È più tipico persino del poeta e dei [[Flowers|fiori]]; perché questi [[Flowers|fiori]]
+sono anche cibo, e questa poesia è anche proprietà; proprietà che,
+quando è ben distribuita, è la poesia dell'uomo comune.
+Fu solo in seguito che potei rendermi conto di tutte le realtà a cui
+questa casualità corrispondeva; ma persino questo piccolo esperimento pubblico,
+a prima vista, aveva qualcosa del significato di un pubblico monumento.
+Era questo che la terra stessa aveva eretto contro la mostruosa
+immagine del monarca tedesco; e avrei potuto intitolare questo capitolo
+«Cavoli e Re».
+La mia vita trascorre nel fare cattive battute e nel vederle mutarsi
+in vere profezie. Nella cittadina del South Bucks,
+dove abito, ricordo si parlasse di cerimonie appropriate
+in connessione con l'opera di mandare ortaggi alla Flotta.
+Ci fu la proposta che queste cerimonie si concludessero con «God Save
+the [[King]]», un emendamento da parte di qualcuno (di mente più navale)
+per sostituirvi «Rule Britannia»; e l'opposizione di un individuo,
+che si dichiarava di origine irlandese, il quale rifiutò a gran voce di prestare
+la propria voce all'uno o all'altro. Quel che mi resta, in simili scene rurali,
+della frivolezza di Fleet Street mi indusse a proporre che ci potessimo
+unire tutti a cantare «The Wearing of the Greens». Ma da allora ho
+scoperto che questa osservazione, come altre tipiche uscite dello scemo del villaggio,
+era in [[Truth|verità]] ispirata; ed era una rivelazione
+e una visione da oltremare, una visione di ciò che veniva davvero
+fatto, non dagli scemi del villaggio ma dai saggi del villaggio.
+Poiché l'intero miracolo dell'Irlanda moderna potrebbe [[Well|bene]] riassumersi
+nel semplice mutamento dalla parola «green» alla parola «greens».
+Né sarebbe vero dire che la prima è poetica e la
+seconda pratica. Perché un albero verde è del tutto poetico quanto una [[Flag|bandiera]] verde;
+e nessuno che sia in contatto con la [[history|storia]] dubita che lo sventolare della verde
+[[Flag|bandiera]] sia stato assai utile alla crescita dell'albero verde.
+Ma dovrò toccare tutti questi argomenti controversi più avanti,
+per coloro ai quali simili affermazioni sono ancora controverse.
+Qui vorrei soltanto cominciare col registrare una prima impressione vividamente
+colorata e screziata come un quadro modernista; un quadrato di cose verdi
+che crescono dove meno ce lo si aspetta; la nuova visione dell'Irlanda.
+La scoperta, per la maggior parte degli inglesi, sarà come toccare gli alberi
+di uno stinto arazzo, e trovare la foresta viva e piena di [[Birds|uccelli]].
+Sarà come se, su qualche arida urna o tetra colonna, figure che
+già avevano cominciato a sgretolarsi cominciassero magicamente a muoversi e a [[Dance|danzare]].
+Perché la cultura non [[Well|meno]] che la mera villania davano per scontato il [[Decay|decadimento]]
+di queste cose celtiche o cattoliche; c'erano artisti che schizzavano
+le rovine non [[Well|meno]] che gitanti che vi facevano picnic; e non era
+solo prova che un [[Silence|silenzio]] finale fosse calato sull'arpa di Tara,
+il fatto che non suonasse «Tararaboomdeay». Gli inglesi credevano nel
+[[Decay|decadimento]] irlandese anche quando erano di mente abbastanza larga da lamentarlo.
+Si potrebbe dire che persino coloro che erano pentiti perché
+la cosa era stata assassinata, erano del tutto convinti che fosse stata uccisa.
+Il significato di queste cose verdi e solide davanti a me
+è che non è un [[Ghost|fantasma]] ciò che è risorto dalla [[Grave|tomba]].
+Un fiore, come una [[Flag|bandiera]], potrebbe essere poco più di un [[Ghost|fantasma]];
+ma un frutto ha quella solidità sacramentale che in tutte le mitologie
+appartiene non a un [[Ghost|fantasma]] ma a un dio. Questa vista di cose che sostentano,
+e di una [[Beauty|bellezza]] che nutre e non si limita a incantare, è la
+premonizione di concretezza nel miracolo dell'Irlanda moderna.
+È un miracolo più meraviglioso della [[Resurrection|resurrezione]] dei morti.
+È la [[Resurrection|resurrezione]] del [[Body|corpo]].

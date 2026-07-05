@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/gkc-come-to-think-(chesterton)">GKC Come to Think</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/gkc_come_to_think/story_39_on_abraham_lincoln">‹ Story 39 ON ABRAHAM LINCOLN</a><a class="ex-next" href="/testi/chesterton/atomized/gkc_come_to_think/story_41_on_foch">Story 41 ON FOCH ›</a></div>
@@ -140,3 +142,139 @@ I do not think any of these things especially admirable;
 I do not think any of them even reason ably arguable; and I do not
 think any of them any more characteristic of Lincoln than of Lee
 or Bayard or Joan of Arc, or any hero or heroine in history.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/gkc-come-to-think-(chesterton)">GKC Come to Think</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/gkc_come_to_think/story_39_on_abraham_lincoln">‹ Story 39 ON ABRAHAM LINCOLN</a><a class="ex-next" href="/testi/chesterton/atomized/gkc_come_to_think/story_41_on_foch">Story 41 ON FOCH ›</a></div>
+</nav>
+
+XL.  Su me stesso a proposito di Abraham Lincoln
+
+UN critico americano, a quanto pare di confessione battista, ha pronunciato una
+furibonda requisitoria contro di me per la mia celebre calunnia su Abraham Lincoln.
+E questo è strano, come diceva il poeta; perché io ero fermamente
+convinto di avere scritto un elogio di Abraham Lincoln.
+Si dà il caso che io nutra un particolare entusiasmo per Lincoln;
+e mi sono sforzato di esporre le ragioni vere per ammirarlo,
+e le cose vere in cui egli fu ammirevole.  Ma a quanto pare tutte
+le cose che io giudico ammirevoli il critico battista le giudica abominevoli,
+e viceversa.  Tanto profonde sono le divisioni morali in questa felice età
+dell'unione di tutti i credi e di tutte le nazioni.
+
+Comincerò da un esempio semplice eppure curioso.
+Ho detto che Lincoln aveva quel genere di mente che in fondo non si
+dà pensiero del Progresso o dello spirito del secolo.  Che questo
+sia o no un fatto, non ho bisogno di dire che era inteso come un complimento.
+Volevo dire che egli pensava con la propria testa e aveva convinzioni
+indipendenti e indistruttibili, immutate dalla moda e dalla retorica.  Ma il critico americano
+considera addirittura la mia osservazione un'offesa mortale al suo Lincoln ideale.
+Dichiara con passione che Lincoln fu influenzato dal Progresso.
+Afferma, tremante d'indignazione, che Lincoln fu governato
+dallo spirito del secolo.  Cosa più straordinaria di tutte, cita addirittura
+in favore di Lincoln qualcosa che Lincoln disse contro sé stesso:
+quando modestamente osservò che «non aveva governato gli eventi,
+ma ne era stato governato».  È perfettamente possibile che [[Lincoln]]
+lo abbia detto, in una sorta di [[Humility|umiltà]] scherzosa e di [[Self|auto]]denigrazione;
+ma non vedo perché, dal fatto che egli abbia sminuito sé stesso, il suo quasi
+idolatrico adoratore debba sentirsi obbligato a sminuirlo.  Certo non vedo
+perché il critico debba sminuirlo in una maniera tanto dannosa come questa.
+Sono abbastanza sicuro che [[Lincoln]] non si sarebbe lasciato governare dagli eventi,
+e nemmeno dallo spirito del secolo, dove fossero in gioco le idee.
+Non credo che avrebbe ammesso che la [[Slavery|schiavitù]] fosse giusta,
+se il Sud avesse vinto la Guerra e gli Stati schiavisti avessero prosperato
+dieci volte più di quelli liberi.
+
+Il punto successivo che vorrei veder chiarito è questo.
+Il critico è oltremodo inorridito dal mio suggerire che [[Lincoln]] fosse
+un tantino più tollerante o liberale del critico stesso in materia
+di bevande forti.  Egli riconosce che [[Lincoln]] una volta sollevò un barile
+di whisky e ne prese quello che egli (il critico) chiama delicatamente «un sorso».
+Se non m'inganno di molto su Abe, aveva un senso dell'umorismo fin troppo
+buono per prendere un sorso.  Ma questa è cosa da poco, e io
+lascerò da parte ogni accusa d'intemperanza contro Abe;
+tanto più volentieri in quanto io non ne ho mai mossa alcuna.  Ben diverso
+è il caso a proposito delle accuse d'intemperanza contro Grant.
+Ed è qui che desidero capire chiaramente su quale base io
+debba discutere.  Poiché il critico battista ripetutamente mi ingiuria
+per aver osato insinuare simili cose su un eroe tanto storico
+quanto il grande conquistatore nordista del Sud.  Devo forse intendere
+che il critico contraddice recisamente tutte le testimonianze accettate
+secondo cui Grant, quel grande soldato, certamente beveva whisky con più
+abbondanza che saggezza?  Oppure devo intendere che, anche se lo faceva,
+gli storici debbano nasconderlo per sempre, perché egli era un Generale e
+un Presidente, e il paese è diventato proibizionista?  Io non ho mai detto
+altro contro Grant se non che beveva piuttosto liberamente;
+perché ammetto volentieri che non c'è molto altro da dire.
+Né considero questa un'accusa terribile contro di lui.
+Né la considerava tale Abraham Lincoln.  Nega forse il critico le parole di
+Lincoln stesso, che si spinse a dire che gli ubriaconi abituali
+reggono bene il confronto con gli altri sotto molti o quasi tutti gli aspetti importanti?
+Se il critico è scandalizzato dalle mie parole, dovrà esserlo assai di più
+da quelle di Lincoln.  Rabbrividisco al pensiero di ciò che direbbe di certe osservazioni
+del mio amico il signor Christopher Hollis, in un paragrafo che comincia «L'affascinante
+questione di quando il Generale Grant fosse ubriaco e quando sobrio»,
+e prosegue affermando che egli era probabilmente sobrio ad Appomattox,
+ma quasi certamente ubriaco a Shiloh; che in seguito,
+giunto alla Presidenza, prese una sorta d'impegno all'astinenza totale;
+e conclude con le parole: «Basti aggiungere che fu
+un ottimo Generale e un pessimo Presidente».
+
+Simili giocosità, tuttavia, non sono per il critico battista, né per me quando
+lo critico.  Non ritengo l'ubriachezza una qualità lodevole;
+ma non la ritengo neppure l'unica specialmente e supremamente dannabile.
+Ed è qui che veniamo alla vera differenza tra questo
+critico americano e me.  E quella differenza si fa
+più chiara quando arriviamo alla terza delle sue lagnanze contro di me.
+Ho dichiarato la mia forte impressione, da quanto ho letto della vita
+di Lincoln, che egli non fosse affatto il tipo del semplice
+uomo che si è fatto da sé e che, tenendosi a un solo mestiere, riesce; che ci
+fosse in lui molto dell'ingegno bizzarro che o riesce
+come un genio o fallisce in tutto; che ci fosse in lui non poco
+delle debolezze poco mondane dell'artista o del perdigiorno, come si vede
+in molti strani episodi quale la sua assenza dal proprio matrimonio.
+Non pretendo di essere un esperto dei dettagli della sua biografia,
+ma alcuni di questi fatti sono universalmente noti; alcuni li ho trovati in una recente
+e autorevole Vita americana di Lincoln; e il critico farebbe meglio a
+prendersela con il biografo americano piuttosto che con me.
+
+Ma il nocciolo della faccenda è questo: che io ritenevo un complimento
+considerare Lincoln poco mondano; ma il critico, in cuor suo,
+ritiene davvero un complimento considerarlo mondano.  È qui
+che c'è una vera differenza tra la sua filosofia morale e la mia.
+Se le parole «mondano» e «non mondano» non hanno per lui lo stesso
+significato che per me, o se sembrano forzate rispetto
+a ciò che ho detto, sostituirò volentieri le parole «[[success|successo]]»
+e «fallimento».  Quando dico che Lincoln era un uomo che facilmente avrebbe potuto
+essere un fallimento, che quasi lo fu, e che per certi versi effettivamente
+resta un fallimento, lo intendo come nel caso dei poeti o dei martiri.
+Ma il critico non sopporta di pensare che il suo eroe non fosse un successo,
+e destinato a essere un successo, e soddisfatto di essere un successo;
+come nel caso dei magnati e dei milionari.  Non sopporta di
+pensare che il suo eroe non fosse un Arrampicatore, un Promotore, un Campione di vendite,
+un Brillante Venditore, un Uomo Nato per Riuscire.  Posso solo dire
+che non è questa la mia impressione di Lincoln.
+
+La cosa importante da capire qui, assai più importante del suo saggio
+o del mio, è che ci stiamo davvero dividendo negli ideali morali.
+Sono certo che il mio critico è del tutto sincero nel suo culto dell'eroe;
+proprio come io sono del tutto sincero nel mio.  Ciò che per me è straordinario oltre
+ogni dire è il sistema implicito di prove che egli applica a un eroe.
+Egli vuole dimostrare che Lincoln fu più eroico di quanto io lo avessi rappresentato;
+e le seguenti sembrano essere le qualità essenziali che concorrono a
+costituire una figura veramente eroica.  Primo, dev'essere astemio;
+o, come direi io, dev'essere musulmano piuttosto che cristiano
+sul problema morale del vino.  Secondo, deve prendere molto sul serio
+l'impresa di farsi strada in questo mondo, prosperare nella propria professione
+e ottenere le solide ricompense che questo mondo ha da offrire.  Terzo, deve
+adorare il Progresso o lo Spirito del Secolo; il che può solo significare
+(per quanto riesca a cavarne un senso) che egli deve permettere alla propria
+coscienza e alle proprie convinzioni di essere piegate in qualunque forma la pressione
+del presente stato della politica e della società tenda a produrre.
+Non ritengo nessuna di queste cose particolarmente ammirevole;
+non ritengo nessuna di esse nemmeno ragionevolmente sostenibile; e non
+ritengo nessuna di esse più caratteristica di Lincoln che di Lee
+o di Bayard o di Giovanna d'Arco, o di qualunque eroe o eroina della storia.

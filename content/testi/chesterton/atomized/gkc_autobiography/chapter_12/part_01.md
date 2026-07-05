@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/gkc-autobiography-(chesterton)">GKC Autobiography</a> › <a href="/testi/chesterton/atomized/gkc_autobiography/chapter_12">Chapter 12</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/gkc_autobiography/chapter_11/part_06">‹ part 06</a><a class="ex-next" href="/testi/chesterton/atomized/gkc_autobiography/chapter_12/part_02">part 02 ›</a></div>
@@ -121,3 +123,120 @@ with any philosophies to his loyal followers of the Tory Party.
 Perhaps religion is not the opium of the people, but [[philosophy]]
 is the opium of the politicians.  All of which brings me back
 to Lord Hugh Cecil.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/gkc-autobiography-(chesterton)">GKC Autobiography</a> › <a href="/testi/chesterton/atomized/gkc_autobiography/chapter_12">Chapter 12</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/gkc_autobiography/chapter_11/part_06">‹ part 06</a><a class="ex-next" href="/testi/chesterton/atomized/gkc_autobiography/chapter_12/part_02">part 02 ›</a></div>
+</nav>
+
+XII
+
+ALCUNE CELEBRITÀ POLITICHE
+
+In quasi ogni occasione in cui ho incontrato qualcuno, ho incontrato
+qualcun altro. Vale a dire, ho incontrato un uomo privato che era stranamente
+diverso dall'uomo pubblico. Persino quando il carattere non era
+l'esatto contrario della caricatura, quale si delinea sui giornali,
+potrei usare una licenza di linguaggio dicendo che esso era ancor più
+contrario di un contrario. Intendo dire che la relazione era più sottile,
+e la realtà su un altro piano; che dopo lunga esperienza,
+scoprivo con un certo stupore che un elogio era vero, anche quando
+la [[Truth|verità]] era quasi l'opposto dell'elogio. Tutti ci rallegrammo,
+per esempio, del [[Chorus|coro]] di spontanei tributi al defunto
+[[King|re]] Giorgio Quinto. E tuttavia il ripetersi stesso della testimonianza,
+sull'onestà del suo servizio pubblico, dava un'indescrivibile
+impressione di routine che rendeva l'impressione incompleta.
+Io lo incontrai una sola volta di persona, nella [[house|casa]] del defunto Lord Burnham,
+dove egli era a caccia; e per quel che vale la mia impressione,
+mi colpì certamente come una persona press'a poco tanto genuina quanto
+chiunque io abbia mai incontrato. Ma era genuino in un modo piuttosto inatteso.
+Non era soltanto onesto ma franco, e così libero e disinvolto nelle sue
+simpatie e antipatie che avrebbe potuto essere detto indiscreto.
+G.B.S. disse veracemente dei suoi discorsi pubblici che essi erano davvero
+l'inglese del [[King|re]]; quelli privati erano anch'essi decisamente inglese schietto.
+Egli era tutt'altro che il supremo Funzionario Permanente che molti elogi lasciavano intendere;
+non somigliava a qualche fidato procuratore in cui i [[Secrets|segreti]] di famiglia
+stanno sotto chiave, o a qualche medico congestionato dal [[Silence|silenzio]] delle
+confidenze professionali; somigliava assai più a un piccolo capitano di mare,
+che mantiene un certo [[Silence|silenzio]] ed etichetta sul suo cassero;
+ma abbondanza di aneddoti, per non dire di anatemi, nella sua cabina.
+Ma non v'è surrogato all'incontrare un uomo, foss'anche incontrarlo
+per un'ora o due; ci dirà sempre quando una vera distorsione
+della [[history|storia]] o della leggenda sta cominciando. E se dovesse mai accadere che io
+oda, prima di morire, fra le nuove generazioni che non videro mai Giorgio
+Quinto, che egli viene o lodato come uomo forte e silenzioso,
+o svalutato come uomo stupido e vuoto, saprò che la [[history|storia]]
+ha frainteso l'intero ritratto.
+
+A volte ho avuto contatti ancor più brevi, con sorprese ancor più
+curiose. Parlai col defunto Marchese Curzon per soltanto
+una decina di minuti, in una ressa fortuita, benché fossi stato
+a casa [[house|sua]] una volta o due; egli non parve infastidirsi della ressa;
+non parve nemmeno infastidirsi della conversazione, o infastidirsi di me;
+fu del tutto piacevole e di buon umore. E disse l'unica
+cosa fra mille che difficilmente qualcuno, me compreso,
+si sarebbe aspettato che Curzon dicesse. Disse quanto cordialmente concordava
+con me che le urla, i fischi, le battute e i motteggi della folla
+a una pubblica adunanza fossero assai più arguti e più degni
+di essere uditi dei discorsi degli uomini di Stato dal palco.
+Avevo espresso questa opinione in un articolo dell'Illustrated [[London]] News;
+ma egli, che era così spesso il più maestoso degli uomini di Stato sul più
+privilegiato dei palchi, non mi sarebbe venuto in mente come il più
+ardente sostenitore della plebaglia o del buffone che ne era il campione.
+Eppure è indubitabilmente vero che egli in molte occasioni disse
+e fece cose che provocarono e persino crearono la leggenda popolare
+del suo atteggiamento impopolare. Era l'unico ed esclusivo esempio di un
+[[aristocrat|aristocratico]] inglese che si presentava come un [[aristocrat|aristocratico]] prussiano;
+e questo è assai bizzarro, perché gli aristocratici inglesi possono spesso essere
+cinici ma non sono barbari. In una parola, sono più sottili;
+ma a volte mi figuro che Curzon in qualche strano modo fosse più
+sottile di quella sottigliezza. Tutti sanno che c'era una sorta
+di eroica artificiosità nella sua vita corporea; che egli sosteneva
+la sua stessa postura con difficoltà; e sospetto che qualcosa
+di quello sforzo si convertisse in una sorta di scherzo rigido e spavaldo.
+Veniva da [[Oxford]] quando era di moda essere pessimista in
+[[philosophy|filosofia]] e reazionario in politica; e piuttosto come i decadenti
+artistici si dipingevano peggiori di quel che erano, egli si dipingeva
+più antidemocratico di quel che era. È tipico che molti
+degli aneddoti contro di lui si dicano inventati da lui stesso.
+Ma in tutto ciò sto semplicemente tirando a indovinare, da poche parole dettemi
+da un uomo che non avrebbe potuto essere stupido come un prussiano;
+in altri casi, in cui ebbi un rapporto limitato ma pur più lungo,
+ho notato la stessa contraddizione.
+
+La mia prima illuminazione, sul contrasto fra un essere umano
+e il suo ritratto o la sua caricatura politica, mi venne con il caso
+di Lord Hugh Cecil. Credo di averlo incontrato la prima volta nella [[house|casa]]
+di Wilfrid Ward, che avrei dovuto menzionare assai prima come
+un'influenza che mi rischiarava sotto molti aspetti; poiché egli aveva scritto sulla
+Dublin Review una critica quanto mai simpatetica di Orthodoxy, in un [[Time|tempo]]
+in cui molti del suo mondo devono averla ritenuta un pezzo di chiassoso [[Paradox|paradosso]].
+Egli stabilì l'eccellente criterio critico; che i critici non potevano
+capire ciò che a lui piaceva, ma egli poteva capire ciò che a loro dispiaceva.
+«La [[Truth|verità]] può comprendere l'errore; ma l'errore non può comprendere la [[Truth|verità]].»
+Fu grazie alla sua cortesia che io fui, in una fase successiva, fatto membro
+della Synthetic Society, che era giustamente fiera della sua continuità
+con la Società in cui il grande Huxley poteva [[debate|discutere]] con l'ugualmente
+grande Ward (chiamato, Dio sa perché, Ideal Ward), e in cui io
+ebbi il privilegio d'incontrare parecchie persone assai centrali, quali il barone
+von Hügel e il mio vecchio amico padre Waggett dei giorni palestinesi.
+Ma se si chiede perché lo menzioni qui, la risposta è piuttosto curiosa.
+Per qualche ragione, c'erano assai pochi letterati in questo gruppo
+dedito alla [[philosophy|filosofia]]; eccetto Wilfrid Ward stesso, che era un
+eccellente editore ed espositore. Ma c'erano tutti i politici della specie
+migliore, o coloro che sarebbero potuti essere uomini di Stato.
+Là incontrai il vecchio Haldane, che sbadigliava con tutti i suoi abissi hegeliani;
+il quale mi apparve come io dovevo essere apparso a un vicino
+in un circolo di dibattito locale, quando accantonò le profondità metafisiche
+e mi indicò, dicendo: «Ecco quel Leviatano che Tu
+hai creato perché vi si sollazzi.» Ma non dimenticai mai che
+l'Inghilterra lo tradì accusandolo di tradire l'Inghilterra.
+Là incontrai anche Balfour, che ovviamente preferiva qualunque filosofo
+con qualunque filosofia ai suoi fedeli seguaci del Partito Tory.
+Forse la religione non è l'oppio dei popoli, ma la [[philosophy|filosofia]]
+è l'oppio dei politici. Tutto ciò mi riconduce
+a Lord Hugh Cecil.

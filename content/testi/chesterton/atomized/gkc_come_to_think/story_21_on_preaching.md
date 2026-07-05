@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/gkc-come-to-think-(chesterton)">GKC Come to Think</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/gkc_come_to_think/story_20_on_encyclopaedias">‹ Story 20 ON ENCYCLOPAEDIAS</a><a class="ex-next" href="/testi/chesterton/atomized/gkc_come_to_think/story_22_on_the_timid_thinkers">Story 22 ON THE TIMID THINKERS ›</a></div>
@@ -152,3 +154,151 @@ of the distinguished persons who will probably advise him.
 But a melancholy familiarity with most current thought,
 or thoughtlessness, leads me to advise him to listen to it,
 and then do the opposite.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/gkc-come-to-think-(chesterton)">GKC Come to Think</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/gkc_come_to_think/story_20_on_encyclopaedias">‹ Story 20 ON ENCYCLOPAEDIAS</a><a class="ex-next" href="/testi/chesterton/atomized/gkc_come_to_think/story_22_on_the_timid_thinkers">Story 22 ON THE TIMID THINKERS ›</a></div>
+</nav>
+
+XXI.  Sul predicare
+
+NESSUN giornalista si lagnerà della necessità giornalistica di
+mutare occasionalmente un titolo, o, soprattutto, di abbreviare un titolo.
+Se scelgo di intitolare un articolo Un'indagine sulle condizioni
+della civiltà micenea nell'epoca eroica, con particolare riferimento
+alle funzioni economiche e domestiche delle donne prima e dopo
+la data congetturale della spedizione argiva contro Troia — se, dico,
+scelgo di dare al mio articolo un briosetto titolo come quello, non ho davvero
+alcun diritto di lagnarmi se (quando lo invio al Chicago Daily Scoop)
+essi mutano il titolo in Come Elena Sbrigava le Faccende di Casa.
+E persino in casi più blandi la trasformazione è spesso inevitabile;
+specialmente se qualcosa destinato al serio pubblico dei libri deve
+essere trasferito al più impetuoso pubblico dei lettori di giornali.
+Ma, per quanto innocuo possa essere il mutamento, esso è talvolta di un certo
+interesse intellettuale.  Per esempio, a me stesso fu chiesto qualche tempo fa
+di scrivere una sorta di saggio etico sul tema Se Avessi un Solo Sermone
+da Predicare.  Quando, nel corso degli eventi, esso venne a comparire in un
+quotidiano, comparve sotto il titolo, Se Fossi un Predicatore.
+Non me ne lagno affatto; era ovviamente una mera questione
+di spazio e di semplificazione.  Ciò nondimeno, vi è una differenza.
+«Se Avessi un Solo Sermone da Predicare» presenta il gradevole spettacolo
+di me stesso imbavagliato e reso muto per la maggior parte della mia vita.
+Consola l'umanità con la prospettiva che io non parli
+affatto per venti o trent'anni di fila; sfiora quasi
+la condizione ideale o utopica del mio essere sordomuto.
+Ma suppone che il bavaglio mi venga tolto di bocca una volta e una volta soltanto,
+e che mi sia concesso un breve spazio nel quale offrire le riflessioni
+di un'intera vita taciturna.  Prendendo la faccenda in questo senso, trattai
+direttamente il più letale pericolo morale nella mia esperienza dell'umanità:
+il pericolo dell'egoismo e dell'[[Pride|orgoglio]] spirituale.  Se avessi un solo
+istante nel quale gridare un solo avvertimento, griderei quello,
+e da allora in poi tacerei per sempre.
+
+Ma «Se Fossi un Predicatore» è un'idea affatto diversa.
+Quella presenta, non la rassicurante immagine di me stesso al sicuro imbavagliato
+e strozzato finché non giunga l'ora inevitabile, bensì la minacciosa
+e sgradita immagine di me stesso lasciato libero di parlare da un pulpito
+quanto mi pare, e di predicare come occupazione professionale.
+Offre, non la breve e salutare irritazione di sentirmi
+pronunciare un solo sermone, bensì la lunga prospettiva di disperazione implicita nel mio
+pronunciare un numero indefinito di sermoni.  Soprattutto, il mio stesso
+atteggiamento sarebbe necessariamente del tutto diverso nei due casi.
+Invece di concentrare ciò che avevo davvero da dire in un solo discorso su
+un solo testo, dovrei procedere, come qualsiasi altro predicatore professionista,
+a scrutare le Scritture in cerca di sempre più testi, e la mia mente
+in cerca di sempre più sermoni.  E, benché si siano dette moltissime
+sciocchezze sull'ingiusta autorità del predicatore
+(che è in realtà assai meno illogica dell'ingiusto anonimato
+del giornalista), è vero che in un senso il predicatore ha
+un vantaggio, o almeno la sua congregazione uno svantaggio.
+Mentre potrebbe ben essere un bello spettacolo veder la congregazione
+diradarsi gradualmente man mano che il mio sermone procedeva dal Quarto
+al Quinto punto, di fatto è cosa insolita che la gente si levi
+dai primi banchi, con ostentati sbadigli e in gran numero,
+e esca dalla chiesa per esprimere la propria mancanza di entusiasmo
+per il sermone.  Forse la miglior forma di protesta fu quella
+dell'uomo che si tolse gli stivali e li pose fuori dal banco,
+per indicare che ne aveva avuto abbastanza e che ora si ritirava a riposare.
+Ma gli umoristi di quel tipo eroico sono assai rari.  La congregazione
+è comunemente tenuta al suo posto, dalla reverenza o dalla convenzione;
+e in quel senso tutti devono ascoltare il sermone.
+Ma nessuno deve leggere questo articolo se non lo vuole; e io
+non immaginerei che qualcuno l'abbia mai fatto.
+
+La distinzione fra l'essere un predicatore e l'avere un solo sermone
+da predicare è, tuttavia, di un certo interesse pratico nel sollevare un punto
+riguardo al predicare.  Intendo soltanto riguardo all'aspetto tecnico o professionale
+del predicare; che sarebbe naturalmente considerato dall'uomo
+che per qualche ragione fosse condannato a essere un predicatore.  Se avessi originariamente
+scritto il mio articolo per adattarlo a quel titolo, sarebbe stata una faccenda affatto
+diversa.  Il predicare, in quel senso, non è affar mio;
+ma l'ascoltare, o il tentare di ascoltare, è affare di quasi tutti.
+E vi è davvero qualcosa da dire sui probabili
+o preferibili preliminari dell'essere un predicatore; e persino qui,
+in un altro luogo e in un'altra connessione, può forse valere
+la pena di dirlo.  Comunque sia, mi propongo di dirlo; principalmente perché
+sembrerebbe essere l'esatto contrario di ciò che tutti ora dicono.
+Poiché il predicatore, come chiunque altro, riceve consigli pratici:
+e, come per chiunque altro, è sempre esattamente il consiglio sbagliato.
+Gli si dice, naturalmente, di rifuggire «credo e dogma»; il che presto,
+immagino, sarà stereotipato e mutato in un'unica parola, «credoedogma»,
+tanto regolarmente e meccanicamente viene ripetuto.  Non ho mai potuto scoprire cosa
+i giornalisti che usano questa formula immaginino che credi e dogmi siano.
+Non ho mai potuto capire cosa un eminente e riuscito
+giornalista intendesse quando disse che la preghiera non aveva alcun tipo di relazione
+con alcun credo o dogma.  Aggiunse che qualsiasi agnostico poteva pregare:
+si aveva la sensazione che stesse per aggiungere che qualsiasi ateo poteva pregare.
+Cosa tutto ciò dovrebbe significare, non ne ho idea.  Per qualsiasi ateo,
+per qualsiasi razionalista razionale, sarebbe immediatamente ovvio
+che la preghiera dipende davvero da due o tre dogmi ben definiti.
+In primo luogo, implica che vi sia un essere invisibile, che può udire la nostra
+preghiera senza ordinaria comunicazione materiale; il che è un dogma.
+In secondo luogo, implica che l'essere è benevolo e non ostile;
+il che è pure un dogma.  In terzo luogo, implica che egli non è limitato
+dalla logica della causalità, ma può agire in riferimento alla nostra azione;
+il che è un gran tonante dogma.  Ma do questo soltanto come un
+esempio di passaggio della prima fallacia nei consigli ai predicatori.
+Al predicatore si dice di gettar via tutti i sistemi e di parlare
+dal proprio cuore, o (nei casi favorevoli) dalla propria testa.
+Non sembra venire in mente a questi critici che stanno rendendo
+il sacerdote o il predicatore molto più importante di quanto fosse prima.
+Esigono da lui un genio e un'originalità che non possono
+attendersi da tutti i singoli membri di una qualsiasi professione.
+Al povero parroco ordinario non è concesso di insegnare ciò che
+ha appreso, un certo sistema di pensiero religioso.
+Ma da lui ci si aspetta, tutto da solo, che sia una sorta di composto
+di Savonarola e Swedenborg e M. Coué. Non tutti gli uomini nascono
+mesmeristi o poeti in prosa o persone dalla personalità magnetica.
+Ma tutti gli uomini possono esporre un razionale schema di religione e morale,
+se ve n'è uno da esporre.
+
+La verità è che credo e dogma sono le uniche cose che rendono
+tollerabile il predicare.  Un sistema di pensiero può essere spiegato
+da qualsiasi uomo che ragioni ragionevolmente; ma non ne consegue che
+l'uomo che pensa sia un pensatore.  Il caso è assai simile
+a quello dell'autorità medica del medico di famiglia.
+Non ci aspettiamo che ogni medico condotto ordinario sia una persona come Pasteur o
+Lister o qualche grande scopritore in medicina.  Ma ci aspettiamo bensì che egli conosca
+il sistema che gli è stato insegnato; il credo e il dogma della sua professione.
+Dire al sacerdote di gettar via la teologia e di impressionarci con
+la sua personalità, è esattamente come dire al medico di gettar via
+la fisiologia e di limitarsi a ipnotizzarci col suo occhio scintillante.
+La gente ama molto muovere ingiuste lagnanze sui predicatori,
+come ama muovere ugualmente ingiuste lagnanze sui medici.
+Ma non si è ancora spinta al punto di lagnarsi dei medici perché
+conoscono il loro mestiere, e perché lo considerano una scienza.
+E il predicatore, persino il peggiore predicatore, sarebbe infinitamente
+più vuoto e tetro di quanto sia se non avesse mai considerato la teologia
+una scienza.  Ciò che rende tollerabile la sua predica, nel peggiore dei casi,
+è che egli sta, dopotutto, in un certo senso dandoci i pensieri di grandi
+uomini come san Paolo o sant'Agostino, o persino Calvino, e non soltanto
+i pensieri di un piccolo uomo non assistito da alcuna tradizione di grandezza.
+Non so quale consiglio verrà dato al predicatore dalla maggior parte
+delle illustri persone che probabilmente lo consiglieranno.
+Ma una malinconica dimestichezza con la maggior parte del pensiero corrente,
+o della sconsideratezza corrente, mi induce a consigliargli di ascoltarlo,
+e poi di fare il contrario.

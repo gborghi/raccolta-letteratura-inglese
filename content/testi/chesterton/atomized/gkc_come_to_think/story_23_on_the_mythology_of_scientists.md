@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/gkc-come-to-think-(chesterton)">GKC Come to Think</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/gkc_come_to_think/story_22_on_the_timid_thinkers">‹ Story 22 ON THE TIMID THINKERS</a><a class="ex-next" href="/testi/chesterton/atomized/gkc_come_to_think/story_24_on_change">Story 24 ON CHANGE ›</a></div>
@@ -135,3 +137,134 @@ Perhaps it would be [[Well|well]] to have a Fast Day, on which we undertook
 to abstain from every thing but abstract terms.  Let us all agree
 that every Friday we will do without metaphors as without meat.
 I am sure it would be good for the intellectual digestion.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/gkc-come-to-think-(chesterton)">GKC Come to Think</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/gkc_come_to_think/story_22_on_the_timid_thinkers">‹ Story 22 ON THE TIMID THINKERS</a><a class="ex-next" href="/testi/chesterton/atomized/gkc_come_to_think/story_24_on_change">Story 24 ON CHANGE ›</a></div>
+</nav>
+
+XXIII.  Sulla mitologia degli scienziati
+
+CIÒ che oso criticare in certi uomini, che alcuni chiamano scienziati
+e io chiamo materialisti, è il loro perpetuo ricorso alla Mitologia.
+Metà di ciò che dicono è così vero da essere trito; l'altra
+metà di ciò che dicono è così falso da essere trasparente.
+Ma coprono tanto le loro banalità quanto le loro pretese
+con un'elaborata sfilata di immagini leggendarie e allegoriche.
+Leggo questo in certe osservazioni sul darwinismo di uno degli ultimi
+darwiniani sopravvissuti:  «Fra gli individui di ogni specie
+si svolge, come Malthus aveva compreso, una competizione o lotta
+per i mezzi di sussistenza, e la [[Nature|Natura]] seleziona gli individui che variano
+nella direzione più vantaggiosa.»  Ora, quando gli uomini delle antiche religioni
+dicevano che Dio scelse un popolo o suscitò un [[Prophet|profeta]], almeno essi
+intendevano qualcosa; e intendevano ciò che dicevano.  Intendevano che
+un essere dotato di mente e di volontà li usò in un atto di selezione.
+Ma chi è la [[Nature|Natura]], e come fa, essa, o egli, o esso, a selezionare
+alcunché o alcuno?  Tutto ciò che lo scrittore ha realmente da dire è che
+alcuni individui emergono davvero quando altri individui vengono estinti.
+Non c'era certo bisogno né di Darwin né dei darwiniani per dircelo.
+Ma la [[Nature|Natura]] che seleziona quelli che variano nella direzione più vantaggiosa
+non significa proprio nulla, se non che chi ha successo ha successo.
+Ma questo tautologico truismo è avvolto in nubi di mitologia,
+mediante l'introduzione di un essere mitico che persino lo scrittore considera
+un mito.  Il lettore dev'essere impressionato e ingannato dalla visione
+di una vasta dea di pietra assisa su un trono di montagna, che punta
+un particolare ranocchio o coniglio dicendo, con voce di tuono,
+che questo [[Alone|soltanto]] sopravviverà.  Tutto ciò che sappiamo è che esso sopravvive davvero
+(per il momento), e poi ci [[Pride|vantiamo]] di essere capaci
+di ripetere il mero fatto che esso sopravvive in una cinquantina
+di espressioni variopinte e fiorite:  come che esso ha valore di [[Survival|sopravvivenza]];
+o che è naturalmente selezionato per la [[Survival|sopravvivenza]]; o che sopravvive
+perché è il più adatto alla [[Survival|sopravvivenza]]; o che la grande legge della [[Nature|Natura]]
+sulla [[Survival|sopravvivenza]] del più adatto gli comanda severamente di sopravvivere.
+I critici della religione solevano dire che i suoi misteri erano pagliacciate;
+ma queste cose sono, nel senso speciale e reale, pagliacciate.
+Sono cose offerte a una congregazione credula da sacerdoti che le sanno
+essere pagliacciate.  È impossibile provare che i sacerdoti
+sappiano che non c'è alcun dio nel santuario, o alcuna [[Truth|verità]] nell'oracolo.
+Ma noi sappiamo che il materialista sa che non esiste
+una grande e schizzinosa signora, chiamata [[Nature|Natura]], che punta un dito
+verso un ranocchio.
+
+Il caso particolare in cui questa metafora mitologica venne usata è
+naturalmente un'altra faccenda.  È, invero, una faccenda che ha comportato
+in varie epoche una gran quantità di questo elemento di mitologia materialista.
+Per vedere quale [[Truth|verità]] vi fosse realmente dentro dovremmo tornare al vecchio
+[[debate|dibattito]] darwiniano; il che non ho la minima intenzione di fare qui.
+Ma posso osservare, di passaggio, che questa nozione della [[Nature|Natura]] che seleziona
+le cose è specialmente incompatibile con tutto ciò che si può realmente dire
+a favore del loro stesso caso; e che il nome stesso di selezione naturale
+è un nome quanto mai innaturale per essa.  Poiché è tutta la loro tesi che
+ogni cosa sia accaduta, nel comune senso umano, per caso.
+Dovremmo piuttosto chiamarla coincidenza; e alcuni di noi la chiamano una coincidenza
+del tutto incredibile.  Ma, comunque sia, l'intera tesi a suo favore è che
+un quadrupede si trovò ad avere un collo più lungo, e si trovò a vivere
+in un momento in cui era necessario raggiungere un albero o un arbusto più alto.
+Se questi accadimenti si trovano ad accadere un centinaio di volte di seguito,
+esattamente nello stesso modo, si può con quel processo trasformare una sorta
+di pecora o capra in una giraffa.  Se ciò sia probabile o no è
+un'altra questione.  Ma l'intero argomento darwiniano è che non si tratta
+di un caso della [[Nature|Natura]] che seleziona, non più di Dio che seleziona, o di chiunque
+altro che seleziona, bensì di un caso di cose che cadono in quella maniera.
+Siamo del tutto pronti a discutere di alberi e giraffe al loro posto,
+senza perpetui riferimenti a Dio.  Non potrebbero i materialisti
+controllare il loro sentimentalismo retorico e romantico tanto da farlo
+senza perpetuo riferimento alla [[Nature|Natura]]?  Facciamo un patto:
+che noi per il momento lasceremo da parte la nostra teologia, se essi
+lasceranno da parte la loro mitologia?
+
+Ma l'abitudine mitologica non è interamente ed esclusivamente
+confinata agli uomini di scienza, e nemmeno ai materialisti.  Questa sorta
+di mitologia è piuttosto generalmente disseminata per il mondo moderno.
+La forma popolare del mitologico è il metaforico.
+Certe figure retoriche sono fissate nella mente moderna, esattamente come le
+favole degli dèi e delle ninfe erano fissate nella mente dell'antichità pagana.
+È stupefacente notare quanto spesso, quando ci rivolgiamo a un uomo con
+qualcosa che assomigli a un'idea, egli risponda con qualche metafora riconosciuta,
+che si suppone appropriata al caso.  Se gli dite,
+«Io stesso preferisco il principio della Gilda al principio
+del Trust», egli non vi risponderà parlando di principi.
+Si può contare su di lui perché dica, «Non si può portare indietro l'[[Clock|orologio]]»,
+con tutta la regolarità di un [[Clock|orologio]] che ticchetta.  Questo è un esempio assai estremo
+del crollo mentale che accompagna una ricaduta nella metafora.
+Poiché l'uomo sta di fatto sottovalutando la propria tesi per puro [[Love|amore]]
+di metafora.  Può darsi che non si possa portare indietro il [[Time|tempo]], ma si può
+portare indietro l'[[Clock|orologio]].  Egli sarebbe in una posizione più forte se parlasse
+dell'astrazione chiamata [[Time|tempo]]; ma un appetito onnivoro
+per il linguaggio figurato lo costringe a parlare di orologi.  Naturalmente,
+la vera questione sollevata non ha nulla a che fare né con gli orologi né col [[Time|tempo]].
+È la questione se certi principi astratti, che possono
+o meno essere stati osservati nel passato, debbano essere osservati
+nel futuro.  Ma il punto è qui che persino l'uomo che intende
+che non possiamo ricostruire il passato quasi mai riesce a ricostruire
+la propria frase in alcun'altra forma se non questa forma figurata.
+Senza il suo mito, o la sua metafora, è perduto.
+
+Un'altra massa di metafore è tratta dai fenomeni del mattino,
+o dal fatto che il sole sorge; o, piuttosto (mi prostro in scuse
+verso l'uomo di scienza), sembra sorgere.  È una metafora perfettamente naturale
+per i poeti; o, invero, per tutti gli uomini, in quell'aspetto in cui
+tutti gli uomini sono mistici.  Che vi sia un mistero in queste cose naturali,
+che l'[[Imagination|immaginazione]] comprende più sottilmente della ragione,
+è abbastanza vero.  Né provo alcun disprezzo nemmeno per la mitologia considerata
+come mitologia.  Ma quando vogliamo sapere cosa qualcuno voglia fare,
+quando chiediamo a un libero pensatore cosa pensi, e perché lo pensi,
+è un po' tedioso sentirsi dire che egli sta aspettando l'[[Dawn|Alba]],
+o che è al momento intento a cantare [[songs|Songs]] Before Sunrise.
+Si è tentati di ribattere che l'[[Dawn|Alba]] non è sempre una cosa
+del tutto allegra, nemmeno per coloro che hanno esercitato il loro libero
+pensiero sulle tradizioni convenzionali della propria società.
+Esiste una cosa come l'esser fucilati all'[[Dawn|Alba]].
+
+Non intendo affatto, naturalmente, che dovremmo fare interamente a meno
+di miti e metafore.  Io stesso li uso di continuo,
+e continuerò a farlo.  Ma penso che dovremmo tutti stare in
+guardia contro il dipendere da essi come da un sostituto della ragione.
+Forse sarebbe [[Well|bene]] avere un Giorno di Digiuno, in cui ci impegnassimo
+ad astenerci da ogni cosa tranne i termini astratti.  Conveniamo tutti
+che ogni venerdì faremo a meno delle metafore come della carne.
+Sono certo che gioverebbe alla digestione intellettuale.

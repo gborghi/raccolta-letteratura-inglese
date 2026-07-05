@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/gkc-autobiography-(chesterton)">GKC Autobiography</a> › <a href="/testi/chesterton/atomized/gkc_autobiography/chapter_10">Chapter 10</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/gkc_autobiography/chapter_10/part_05">‹ part 05</a><a class="ex-next" href="/testi/chesterton/atomized/gkc_autobiography/chapter_10/part_07">part 07 ›</a></div>
@@ -117,3 +119,34 @@ through these ordeals.  Never had the silencing effects of the
 Arcadia Mixture appeared to me more powerful or more unscrupulous.
 It was as if the smoke that [[Rose|rose]] from that pipe was a vapour not
 only of [[Magic|magic]], but of black [[Magic|magic]].
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/gkc-autobiography-(chesterton)">GKC Autobiography</a> › <a href="/testi/chesterton/atomized/gkc_autobiography/chapter_10">Chapter 10</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/gkc_autobiography/chapter_10/part_05">‹ part 05</a><a class="ex-next" href="/testi/chesterton/atomized/gkc_autobiography/chapter_10/part_07">part 07 ›</a></div>
+</nav>
+
+  Principe, quando presi il vostro alto calice
+  e lo mandai in frantumi con ebbra cura,
+  ignoravo come da Roma e dalla Gallia
+  lo aveste ottenuto; non sapevo
+  che era stato accanto al gran seggio di Carlomagno
+  e aveva servito San Pietro all'Alta Messa.
+  ... Mi spiace se la cosa era rara;
+  mi piace il rumore dei vetri che si rompono.
+
+È solo giusto, verso la nostra lieta compagnia, dire che non ci limitavamo a recitare o cantare i versi di nostra composizione; benché Belloc fosse in genere pronto a compiacerci; e la fragorosa e rombante ma non per questo meno patetica [[Song|canzone]] dal [[Chorus|ritornello]]:
+
+  E le Porte del Cielo si spalancano
+  per lasciar entrare il povero Hilary
+
+fu udita per la prima volta, credo, in una di quelle serate tranquille dedicate alla mutua edificazione e cultura. Ma dobbiamo aver cantato un numero sterminato delle più belle [[songs|canzoni]] della lingua inglese, di poeti antichi e moderni; e persiste una leggenda secondo cui, quando Herbert aveva alcune stanze non lontano da [[Buckingham]] Palace, cantammo «Drake's Drum» con un patriottismo tanto appassionato che il [[King|re]] Edoardo VII mandò a chiedere che il baccano cessasse.
+
+Fui indotto a menzionare questi oziosi ma gradevoli ricordi soprattutto per osservare che la sua avversione affatto sincera verso questo genere di cose segnava l'elemento puritano in Bernard [[Shaw]]. Egli è probabilmente ancora considerato da molti un buffone; in realtà egli ha fin troppo poca simpatia per la mera buffoneria. La sua austerità in tali materie è a tal punto parte della sua personalità e della purezza del suo intento, che a stento la si potrebbe desiderare mutata; ma resta la [[Truth|verità]] che il puritano non sa comprendere la [[morality|moralità]] e la religione del Cavaliere. Nella maggior parte delle questioni mi sono trovato piuttosto più in sintonia col signor Bernard [[Shaw]] che col signor H. G. Wells, l'altro genio dei fabiani, per quanto calorosamente io ammiri entrambi. Ma, in questa materia, Wells era più del mio stampo di [[Shaw]]. Wells comprende sì l'ardore e il [[Body|corpo]] del buonumore, anche quando è umore animale; e comprende quei Saturnali in cui il senatore può talvolta distendersi come lo schiavo. Anche qui, tuttavia, vi è una distinzione. [[Shaw]] ha grande appetito per l'avventura; ma nel suo caso essa sarebbe assai più gradita come avventura all'aria aperta. Egli non vedrebbe lo spasso delle cantine o delle grotte dei contrabbandieri; pretenderebbe invece una leggerezza in qualche senso celeste, nel senso letterale dell'essere sub divo. Per dirla in breve: Wells comprenderebbe il gozzovigliare; ma [[Shaw]] comprenderebbe solo lo spassarsela sotto il cielo.
+
+Ero destinato a vedere qualcosa del suo spassarsela almeno in un'occasione; e ad avere il privilegio di fare il [[Fool|buffone]] con lui lontano dal palco politico, se non tanto lontano dal palcoscenico teatrale. Cominciò col fatto che Bernard [[Shaw]] scese fino alla mia [[house|casa]] di Beaconsfield, in ottimo umore, proponendo che comparissimo insieme, travestiti da cowboy, in un film di qualche genere progettato da Sir James Barrie. Non descriverò lo scopo o il carattere della rappresentazione; perché nessuno mai lo scoprì; con la presumibile eccezione di Sir James Barrie. Ma per tutto il corso delle operazioni persino Barrie aveva piuttosto l'aria di nascondere il proprio segreto a se stesso. Tutto ciò che riuscii a raccogliere fu che altre due persone [[Well|ben]] note, Lord Howard de Walden e il signor William Archer, il [[Grave|grave]] critico scozzese e traduttore di Ibsen, avevano anch'essi acconsentito a fare i cowboy. «[[Well|Ebbene]],» dissi, dopo una pausa di riflessione alquanto vuota, «Dio non voglia che alcuno dica che io non ho colto una facezia, se William Archer riusciva a coglierla.» Poi, dopo una pausa, chiesi: «Ma qual è la facezia?» [[Shaw]] rispose con ilare vaghezza che nessuno sapeva quale fosse la facezia. Quella era la facezia.
+
+Scoprii che la misteriosa faccenda si divideva praticamente in due parti. Entrambe erano piacevolmente cospiratorie alla maniera del signor Oppenheim o del signor [[Edgar]] Wallace. Una consisteva in un appuntamento in una specie di fornace di mattoni abbandonata da qualche parte nelle terre selvagge dell'Essex; luogo in cui, si sosteneva, i nostri costumi da mandriani erano già nascosti. L'altra consisteva in un invito a cena al Savoy, per «discutere le cose» con Barrie e Granville Barker. Onorai entrambi questi appuntamenti melodrammatici; e benché nessuno dei due gettasse alcuna luce su ciò che si supponeva stessimo facendo, furono entrambi molto divertenti a modo loro e piuttosto diversi da quanto ci si sarebbe potuti aspettare. Scendemmo nella terra desolata dell'Essex e trovammo il nostro equipaggiamento del Far West. Ma si levò una considerevole indignazione contro William Archer; il quale, con vera preveggenza scozzese, era arrivato per primo e si era messo il paio di pantaloni migliore. Erano in verità un magnifico paio di pantaloni di pelliccia; mentre gli altri tre cavalieri della prateria dovettero accontentarsi di pantaloni di tela. Un commento incessante a questo tratto di [[Individualism|individualismo]] proseguì per tutto il pomeriggio; mentre venivamo rotolati dentro botti, calati con funi lungo precipizi finti e infine lasciati liberi in un campo a prendere al lazo pony selvaggi, che erano tanto docili da correrci dietro invece di farsi rincorrere, e ci frugavano nelle tasche in cerca di zollette di zucchero. Per quanto ciò possa mettere a dura prova la credulità, è pur vero che salimmo tutti sulla medesima motocicletta; le cui ruote venivano fatte girare vorticosamente sotto di noi per produrre l'illusione di sfrecciare come un fulmine giù per un valico montano. Quando gli altri infine scomparvero oltre le rupi aggrappati alla fune, mi lasciarono indietro come peso necessario a reggerla; e Granville Barker continuava a gridarmi di Rappresentare il [[Self-Sacrifice|Sacrificio di Sé]] e di Rappresentare la [[Resignation|Rassegnazione]], cosa che feci con gesti tanto selvaggi e ampi quanto mi vennero in mente; non senza applauso generale, sono fiero di dirlo. E per tutto questo [[Time|tempo]] Barrie, con la sua figuretta dietro la grande pipa, se ne stava in giro con aria impenetrabile; e nulla poteva estorcergli il più flebile cenno sul perché venissimo sottoposti a quelle prove. Mai gli effetti silenzianti dell'Arcadia Mixture mi erano apparsi più potenti o più privi di scrupoli. Era come se il fumo che si [[Rose|levava]] da quella pipa fosse un vapore non solo di [[Magic|magia]], ma di nera [[Magic|magia]].

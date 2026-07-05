@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/gkc-autobiography-(chesterton)">GKC Autobiography</a> › <a href="/testi/chesterton/atomized/gkc_autobiography/chapter_16">Chapter 16</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/gkc_autobiography/chapter_15/part_04">‹ part 04</a><a class="ex-next" href="/testi/chesterton/atomized/gkc_autobiography/chapter_16/part_02">part 02 ›</a></div>
@@ -121,3 +123,117 @@ important things as [[Well|well]].  And in order to explain these things,
 especially the important things, I cannot do better than tell
 the story of how the first notion of this [[Detective|detective]] [[Comedy|comedy]] came
 into my mind.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/gkc-autobiography-(chesterton)">GKC Autobiography</a> › <a href="/testi/chesterton/atomized/gkc_autobiography/chapter_16">Chapter 16</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/gkc_autobiography/chapter_15/part_04">‹ part 04</a><a class="ex-next" href="/testi/chesterton/atomized/gkc_autobiography/chapter_16/part_02">part 02 ›</a></div>
+</nav>
+
+XVI
+
+IL DIO DALLA CHIAVE D'ORO
+
+Qualche [[Time|tempo]] fa, comodamente seduto in una sera d'[[Summer|estate]]
+e prendendo in serena rassegna una vita indifendibilmente fortunata e
+felice, calcolai di dover aver commesso almeno cinquantatré omicidi, e di
+essermi occupato di nascondere una cinquantina di cadaveri allo scopo di
+occultare dei delitti; appendendone uno a un attaccapanni, ficcandone un
+altro nella borsa di un postino, decapitandone un terzo e provvedendolo
+della testa di qualcun altro, e così via, attraverso un buon numero di
+[[Innocent|innocenti]] artifici di tal genere. È vero che ho perpetrato la
+maggior parte di queste atrocità sulla carta; e raccomando vivamente al
+giovane studente, salvo casi estremi, di dare espressione ai propri impulsi
+criminali in questa forma; e di non correre il rischio di rovinare una bella
+e [[Well|ben]] proporzionata idea abbassandola al piano del bruto
+esperimento materiale, dove troppo spesso patisce le imperfezioni impreviste
+e le delusioni di questo mondo decaduto, e reca con sé varie sgradite e
+indegne conseguenze sociali e legali. Ho spiegato altrove che una volta
+compilai una scientifica tavola dei Venti Modi di Uccidere una Moglie e
+sono riuscito a preservarli tutti nella loro indisturbata compiutezza
+artistica, cosicché è possibile per l'[[Artist|artista]], in un certo senso,
+aver felicemente assassinato venti mogli e tuttavia conservare, dopotutto,
+la moglie originaria; un vantaggio ulteriore che in molti casi, e
+specialmente nel mio, non è privo di pregi. Laddove, per l'[[Artist|artista]],
+sacrificare la propria moglie e forse il proprio collo per la mera, volgare
+e teatrale rappresentazione pratica di uno di questi drammi ideali,
+significa perdere non solo questo, ma tutto il godimento ideale degli altri
+diciannove. Essendo questo il mio rigoroso principio, dal quale non ho mai
+vacillato, nulla è mai valso a troncare la ricca accumulazione di cadaveri
+immaginari; e, come dico, ne ho già accumulati parecchi. Il mio nome
+raggiunse una certa notorietà come quello di uno scrittore di questi
+racconti sanguinari, comunemente detti racconti [[Detective|polizieschi]];
+certi editori e certe riviste hanno finito per contare su di me per simili
+inezie; e sono ancora tanto gentili, di [[Time|tempo]] in [[Time|tempo]], da
+scrivermi ordinando una nuova infornata di cadaveri; generalmente in
+partite di otto per [[Time|volta]].
+
+Chi si sia imbattuto nelle tracce di questa industria saprà forse che un
+gran numero delle mie piccole storie criminali riguardavano una persona di
+nome [[Father Brown]]; un prete cattolico la cui esteriore semplicità e
+interiore sottigliezza formavano qualcosa di abbastanza vicino a un
+personaggio ai fini di questo abbozzato genere di narrazione. E sono sorte
+certe domande, specialmente domande sull'[[Identity|identità]] o
+sull'esattezza del tipo, che non sono state senza effetto su cose più
+importanti.
+
+Come ho detto, non ho mai preso molto sul serio i miei romanzi o i miei
+racconti, né immaginato di avere una particolare posizione in qualcosa di
+tanto serio come un [[Novel|romanzo]]. Ma posso al medesimo [[Time|tempo]]
+sostenere che era abbastanza [[Novel|nuovo]] da essere un [[Novel|romanzo]],
+nel senso di non essere storico né biografico; e che persino uno dei miei
+racconti era abbastanza originale da fare a meno di originali. L'idea che un
+personaggio di un [[Novel|romanzo]] debba essere «pensato» per qualcuno o
+«tratto» da qualcuno si fonda su un fraintendimento della [[Nature|natura]]
+della fantasia narrativa, e specialmente di fantasie tanto tenui come le
+mie. Ciononostante, si è comunemente detto che [[Father Brown]] avesse un
+originale nella vita reale; e in un senso particolare e piuttosto personale,
+è vero.
+
+L'idea che un romanziere prenda un personaggio di peso e in tutti i suoi
+dettagli da un amico o da un nemico è un abbaglio che ha fatto molto danno.
+Persino i personaggi di Dickens, a un tempo così palesemente creazioni e
+così palesemente caricature, venivano misurati su comuni mortali, come se
+esistessero mortali capaci di calzare esattamente la magnifica statura
+eroicomica di Weller o di Micawber. Ricordo mio padre che mi raccontava come
+alcuni suoi contemporanei si purgassero con indignazione dall'accusa di
+essere il modello del signor Pecksniff; e specialmente come il [[Well|ben]] noto S.
+C. Hall, lo Spiritista, si scagionasse con un'eloquenza che alcuni
+trovarono troppo [[Sublime|sublime]] per essere convincente. «Come si può
+dire che io somigli a Pecksniff?» disse questo degno uomo a mio padre. «Voi
+mi conoscete. Il mondo mi conosce. Il mondo sa che ho dedicato la mia vita
+al bene degli altri, che ho vissuto una vita pura ed elevata, dedita ai più
+alti doveri e ideali, che ho sempre cercato di dare l'esempio della
+[[Truth|verità]], della giustizia, della probità, della purezza e della
+virtù pubblica. Quale somiglianza può esservi tra me e Pecksniff?».
+
+Quando uno scrittore inventa un personaggio ai fini della narrativa, e
+specialmente della narrativa leggera o fantasiosa, lo corredò di ogni sorta
+di tratti destinati a essere efficaci in quella cornice e contro quello
+sfondo. Egli può aver colto, e probabilmente ha colto, uno spunto da un
+essere umano. Ma non esiterà ad alterare l'essere umano, specialmente negli
+aspetti esteriori, perché non pensa a un ritratto ma a un quadro. In
+[[Father Brown]], il tratto principale era il non avere tratti. Il suo punto
+era di apparire privo di punte; e si potrebbe dire che la sua qualità
+cospicua consistesse nel non essere cospicuo. Il suo esteriore dozzinale era
+inteso a contrastare con la sua insospettata vigilanza e intelligenza; e
+stando così le cose, naturalmente resi il suo aspetto trasandato e
+informe, il suo volto tondo e inespressivo, i suoi modi goffi, e così via.
+Al medesimo [[Time|tempo]], trassi davvero alcune delle sue qualità
+intellettuali interiori dal mio amico, Padre John O'Connor di Bradford, il
+quale non possiede, in verità, nessuna di queste qualità esteriori. Non è
+trasandato, ma piuttosto lindo; non è goffo, ma assai delicato e destro; non
+solo è, ma appare divertente e divertito. È un irlandese sensibile e
+pronto d'ingegno, con la profonda ironia e un po' della potenziale
+irritabilità della sua razza. Il mio [[Father Brown]] fu deliberatamente
+descritto come un budino del Suffolk, dell'Anglia Orientale. Quello, e il
+resto della sua descrizione, era un deliberato travestimento ai fini della
+[[Detective Fiction|narrativa poliziesca]]. Ma con tutto ciò, c'è un senso
+assai reale in cui Padre O'Connor fu l'ispirazione intellettuale di queste
+storie; e [[Well|anche]] di cose ben più importanti. E per spiegare queste
+cose, specialmente quelle importanti, non posso far di meglio che raccontare
+la storia di come la prima idea di questa [[Detective|poliziesca]]
+[[Comedy|commedia]] mi venne in mente.

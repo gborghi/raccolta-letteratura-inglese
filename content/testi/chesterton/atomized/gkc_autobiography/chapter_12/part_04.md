@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/gkc-autobiography-(chesterton)">GKC Autobiography</a> › <a href="/testi/chesterton/atomized/gkc_autobiography/chapter_12">Chapter 12</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/gkc_autobiography/chapter_12/part_03">‹ part 03</a><a class="ex-next" href="/testi/chesterton/atomized/gkc_autobiography/chapter_13/part_01">part 01 ›</a></div>
@@ -169,5 +171,172 @@ So I left the Liberal paper and wrote for a Labour paper,
 which turned ferociously Pacifist when the War came:
 and since then I have been the gloomy and hated outcast you behold,
 cut off from the joys of all the political parties.
+
+*****
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/gkc-autobiography-(chesterton)">GKC Autobiography</a> › <a href="/testi/chesterton/atomized/gkc_autobiography/chapter_12">Chapter 12</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/gkc_autobiography/chapter_12/part_03">‹ part 03</a><a class="ex-next" href="/testi/chesterton/atomized/gkc_autobiography/chapter_13/part_01">part 01 ›</a></div>
+</nav>
+
+Ci fu una piccola baruffa o scandalo, connesso con Cunninghame Graham
+e con il suo candore in politica, che mi è sempre rimasto impresso nella [[Memory|memoria]]
+come un simbolo. Esso spiega perché io, per parte mia, mi sia sempre trovato assai
+meglio con i rivoluzionari che con i riformatori; anche quando dissentivo del tutto
+dalle rivoluzioni o concordavo del tutto con le riforme.
+In Irlanda sarebbe stato diverso; ma in Inghilterra,
+per la maggior parte della mia vita, i rivoluzionari erano sempre socialisti;
+e in teoria, quasi sempre socialisti di Stato. E io avevo per tempo
+cominciato a [[Doubt|dubitare]], e più tardi a negare, l'assunto socialista o qualunque altro
+assunto che comportasse una completa fiducia nello Stato.
+Credo di aver cominciato a [[Doubt|dubitarne]] fin da quando incontrai gli uomini di Stato.
+D'altra parte, concordavo davvero con i liberali su molti
+punti precisi che erano divenuti parte del programma liberale;
+come l'[[Home|Autonomia]] per l'Irlanda e una decentralizzazione democratica che molti ritenevano
+essere la [[Death|morte]] dell'Impero. Ma ho sempre sentito, e sento ancora,
+più simpatia personale per un comunista come Conrad Noel che per un
+liberale come John Simon; pur riconoscendo che entrambi sono a loro
+modo sinceri. Credo che la ragione sia che i rivoluzionari davvero,
+in un certo senso, giudicavano il mondo; non giustamente come i santi;
+ma indipendentemente come i santi. Mentre i riformatori erano
+talmente parte del mondo che riformavano, che i peggiori tra loro
+tendevano a essere snob e perfino i migliori a essere specialisti.
+Alcuni degli specialisti liberali, del più frigido tipo di Cambridge,
+mi irritavano lievemente; assai più di qualunque semplice anarchico o ateo.
+Sembravano così negativi, e la loro critica era una sorta di piagnucolio.
+Un uomo insigne, che mi si dava di irritare in questo modo,
+era il defunto J. A. Hobson, da non confondersi con lo S. G. Hobson
+i cui eccellenti studi economici ancora illuminano i nostri dibattiti; ma un
+oratore e scrittore quanto mai nobile d'animo e civico per proprio conto.
+Esito a nominare un uomo così onesto e serio con spirito critico;
+ma nessuno che rammenti, con qualunque rispetto, quella figura scarna
+e quel volto acuto e amaro, pretenderà che il suo proprio spirito
+non fosse supremamente critico. Egli era uno dei più indipendenti
+e intelligenti fra i critici liberali dell'imperialismo, e su
+quel punto io ero interamente con i liberali; mi ripugnava l'imperialismo;
+eppure quasi mi piaceva ormai, per il [[Time|tempo]] in cui Hobson aveva finito
+di parlare contro di esso. E ricordo un'occasione in cui egli presiedette
+qualche adunanza di o sugli aborigeni o le razze native
+dell'Impero; e aveva Cunninghame Graham alla sua destra,
+mentre io avevo l'[[Honour|onore]] di sedere dall'altra parte.
+Hobson fece un discorso politico assai abile, ma in qualche modo mi parve
+un discorso di partito; più preoccupato del liberalismo che della libertà.
+Posso sbagliarmi; comunque, mi mancò qualcosa, mentre egli bucherellava
+l'Impero Britannico finché non consistette interamente di buchi legati
+insieme con la burocrazia. E poi Cunninghame Graham cominciò a parlare;
+e capii che cosa mancava. Egli dipinse un quadro, un quadro
+storico, come un corteo di Imperi; parlando dell'Impero Spagnolo
+e dell'Impero Britannico come cose da passare in rassegna con occhio uguale;
+come cose che uomini valorosi e brillanti avevano spesso servito con
+effetti [[Double|duplici]] o dubbi; riversò scherno sulla provinciale
+ignoranza che suppone che i costruttori d'impero o i proconsoli spagnoli
+fossero stati tutti avvoltoi di rapina o vampiri di superstizione;
+dichiarò che molti degli spagnoli, come molti degli inglesi,
+erano stati governanti di cui qualunque Impero avrebbe potuto essere fiero. E poi
+stagliò tali figure contro lo sfondo cupo e tragico
+di quelle antiche popolazioni umane che essi avevano così spesso o
+servito o conquistato invano.
+
+Ora nel corso di questo discorso Cunninghame Graham ebbe
+occasione di dire di sfuggita, a proposito di qualche tumulto e delitto locale:
+«Non sono mai riuscito a sentire per parte mia che il tirannicidio,
+in certe circostanze, sia intrinsecamente e inevitabilmente indifendibile.»
+Si crederà che immediatamente ci fu un orribile e ululante
+baccano intorno a queste parole; che esse furono le uniche parole del discorso
+che qualcuno si curò di ricordare; che esse furono ricordate soltanto
+come un esecrabile esempio del delirio dei nemici dell'Impero;
+e che tutte le buffe persone su quel palco furono ammucchiate insieme
+come regicidi insanguinati che andavano in giro a bere il [[Blood|sangue]] dei re?
+E per tutto il [[Time|tempo]], io mi ero andato dicendo che Cunninghame Graham
+perlomeno era stato equo verso gli Imperi in quanto Imperi—mentre
+J. A. Hobson non era stato affatto equo verso l'Impero Britannico.
+Non c'era nulla di particolarmente inaudito o assurdo in
+ciò che il socialista scozzese aveva detto sul tirannicidio, benché noi
+si possa dissentirne per particolari ragioni morali o religiose.
+Egli non disse che ciò che praticamente tutti i grandi pagani avrebbero detto;
+ciò che tutti gli ammiratori di Armodio e Aristogitone avrebbero detto;
+ciò che molti teorici del [[Renaissance|Rinascimento]], cattolici e non cattolici,
+avrebbero detto; ciò che tutti i grandi rivoluzionari francesi avrebbero detto;
+ciò che praticamente tutti i poeti e tragediografi classici fino ai tempi
+moderni avrebbero detto. Non era più di quanto fosse sottinteso in cento
+sacre immagini di Giuditta o in cento profani elogi di [[Brutus|Bruto]].
+Ma il signor Hobson si sarebbe scandalizzato, [[Fear|temo]], al più lieve
+accenno all'uccisione di un [[King|re]] malvagio; ma non si scandalizzava minimamente
+per l'implicita impossibilità del potere di un buon [[King|re]],
+o per la moderna ignoranza di tutto ciò che gli uomini hanno inteso per regalità.
+
+Fu l'irritante di questa irritazione, che mi pareva una piccola
+irritazione locale, contro qualunque ampia visione o di lealtà
+o di libertà, a estraniarmi lentamente dal liberalismo politico.
+Ma non sarebbe giusto dirlo, senza aggiungere che io davvero
+conobbi uomini, capaci di lavorare col partito, che erano realmente
+pieni di qualcosa che non era liberalismo ma liberalità.
+Due uomini di quel tipo restano nella mia [[Memory|memoria]]; ed è per amor
+loro e nel loro senso che dico di essere un liberale. Uno era
+Augustine Birrell, che ravvivava la sua politica attraverso la letteratura;
+e l'altro era l'ultimo gladstoniano, G. W. E. Russell,
+che lo faceva ereditando la religione quanto mai reale di Gladstone.
+Erano entrambi assai vittoriani, come s'addiceva alla loro generazione;
+ma ereditarono un apprezzamento per tutti i grandi vittoriani,
+che copriva una grande varietà. Birrell era un dissidente
+con una comprensione assai ricca di Newman. Russell era un
+alto anglicano con un'ammirazione del tutto distaccata per Matthew Arnold.
+E entrambi traevano da queste cose più profonde e più ampie una certa
+ricca quiete nell'[[Humour|umorismo]] negata ai meri uomini del Sistema dei Partiti.
+Non dimenticherò mai l'occasione in cui il vecchio Birrell, incalzato dalla piuttosto
+volgare raffinatezza della stampa puritana popolare, quale espressa da un
+suave direttore che ostentava lo stile polisillabico del dottor Johnson,
+[[Rose|s'innalzò]] come un [[Lion|leone]] dalla bianca criniera alla tavola dove il direttore
+aveva parlato, e gli disse che se voleva comprendere lo stile
+del dottor Johnson, doveva consultare il passo in cui il dottor Johnson
+chiamò qualcuno figlio di puttana. Fu sputato fuori con tanta
+virile collera che suonò allarmantemente come un'osservazione personale.
+E non dimenticherò mai l'altra occasione, in cui Russell
+figurò in ciò che potrebbe sembrare il modo opposto; poiché Russell era
+un uomo pingue, dai movimenti lenti e pesante, e aveva fama di sibarita;
+ma non ebbe mai paura di essere in minoranza; e presiedette
+un banchetto filo-boero quando i filo-boeri erano quanto mai impopolari.
+Alla fine la sua salute fu brindata da Sir Wilfrid Lawson, il celebre
+fanatico astemio, o diciamo entusiasta, che era anche un uomo coraggioso,
+e sapeva battersi per i pochi. Egli era a questo [[Time|tempo]] un uomo anziano;
+e comunque, per qualche accidente, confuse i termini del brindisi;
+chiamandolo un voto di ringraziamento; o che so io. So soltanto che,
+per qualche ragione, l'ultima scena di questo banchetto è anch'essa stupefacentemente
+vivida nella mia [[Memory|memoria]]. Poiché Russell [[Rose|s'innalzò]] come un qualche vasto pesce,
+fissando insolentemente il soffitto come faceva sempre, e cominciò:
+«Questo brindisi, che Sir Wilfrid Lawson pare avere una post-prandiale
+difficoltà a enunciare...»
+
+C'erano molti altri, s'intende, che erano complete eccezioni a
+qualunque cosa io abbia detto qui sull'atmosfera del liberalismo politico.
+Uno a cui devo più che alla maggior parte delle altre persone era Philip Wicksteed,
+il conferenziere di [[Dante]]; ma anche là, la mente moderna era stata
+ampliata da uno studio di angusti dogmi medievali. Ma nel complesso,
+devo confessare che giunsi a un punto di separazione pratica;
+non [[Desire|desideravo]] affatto avvicinarmi ulteriormente all'imperialismo
+di Curzon, o al cinico patriottismo di Balfour, o al patriottico
+pacifismo di Cecil; io non sono un conservatore, qualunque cosa io sia;
+di certo non sono un unionista, qualunque cosa io sia; ma la generale
+atmosfera di liberalità era troppo illiberale per essere sopportata.
+
+L'Insurance Act del signor Lloyd George segna grosso modo il momento della
+mia scomparsa; poiché lo ritenni un passo verso lo Stato Servile;
+in quanto riconosceva legalmente due classi di cittadini; fissate come padroni
+e servi. Ma una comica coincidenza vi diede una mano; poiché avevo appena
+scritto The Flying Inn, che conteneva un verso di violenta invettiva contro il Cacao.
+Dopo tutti questi anni, non può nuocere menzionare che un direttore
+liberale mi scrisse una lettera assai comprensiva ma piuttosto triste, sperando che
+nessun attacco personale fosse rivolto ad alcuni dei pilastri del Partito.
+Gli assicurai che il mio spontaneo ribrezzo fisico per il cacao non era
+un attacco al signor Cadbury; e inoltre che l'Elogio del Vino era una
+cosa tradizionale non intesa come réclame per il signor Gilbey.
+Così lasciai il giornale liberale e scrissi per un giornale laburista,
+che si volse ferocemente pacifista quando venne la guerra:
+e da allora sono stato il tetro e odiato reietto che vedete,
+tagliato fuori dalle gioie di tutti i partiti politici.
 
 *****

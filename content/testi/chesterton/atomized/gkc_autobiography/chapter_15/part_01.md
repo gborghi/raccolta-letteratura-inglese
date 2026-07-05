@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/gkc-autobiography-(chesterton)">GKC Autobiography</a> › <a href="/testi/chesterton/atomized/gkc_autobiography/chapter_15">Chapter 15</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/gkc_autobiography/chapter_14/part_06">‹ part 06</a><a class="ex-next" href="/testi/chesterton/atomized/gkc_autobiography/chapter_15/part_02">part 02 ›</a></div>
@@ -137,3 +139,137 @@ already said that I do not think [[America]] takes them any more seriously
 than I do.  The real American commentary was serious and sound;
 and none more so than that of an industrial master of machinery,
 who said to me, "People must go back to the farm."
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/gkc-autobiography-(chesterton)">GKC Autobiography</a> › <a href="/testi/chesterton/atomized/gkc_autobiography/chapter_15">Chapter 15</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/gkc_autobiography/chapter_14/part_06">‹ part 06</a><a class="ex-next" href="/testi/chesterton/atomized/gkc_autobiography/chapter_15/part_02">part 02 ›</a></div>
+</nav>
+
+
+XV
+
+IL VIAGGIATORE INCOMPLETO
+
+Se queste mie memorie non sono esattamente prodighe di date, come del
+resto le mie lettere non sono mai datate affatto, [[Hope|spero]] che nessuno
+mi sospetti di una qualche mancanza di riverenza verso quella grande scuola
+accademica di [[history|storia]] oggi generalmente nota come 1066 and All
+That. Possiedo qualche rudimento di conoscenza su ciò che si può chiamare
+il 1066; per esempio, so che la Conquista non avvenne veramente prima del
+1067. Ma trovo il punto piuttosto irrilevante, se paragonato, diciamo,
+all'opinione corrente secondo cui i Normanni innalzarono torri sulla
+Galilea e regnarono in Sicilia, e concorsero a dar vita a san Tommaso
+[[aquinas|d'Aquino]], al solo scopo di rendere gli Anglosassoni ancor più
+Anglosassoni, nella lontana [[Hope|speranza]] che divenissero
+Angloamericani. In breve, nutro il più profondo rispetto per il 1066; ma
+continuerò, in modo umile, a muovere una guerra implacabile a tutto il
+resto di All That.
+
+Ma per me, in ogni caso, il compromesso e l'emendamento verrebbero troppo
+tardi. Ho scritto parecchi libri che si supponevano biografie; e vite di
+uomini davvero grandi e notevoli, negando loro meschinamente i più
+elementari dettagli della cronologia; e sarebbe una meschinità più che
+mortale se ora avessi l'arroganza di essere accurato riguardo alla mia
+vita, quando ho mancato di esserlo riguardo alla loro. Chi sono io per
+essere datato con più cura di Dickens o di Chaucer? Che bestemmia se
+riservassi a me stesso ciò che non ho reso a san Tommaso e a san Francesco
+d'Assisi. Pare un caso chiaro, in cui la comune [[Humility|umiltà]]
+cristiana mi comanda di perseverare in una condotta criminosa.
+
+Ma se non dato le mie lettere, né i miei schizzi letterari, quando sono a
+[[Home|casa]] e in qualche misura regolato dall'[[Clock|orologio]] e dal
+calendario, ancor meno mi sento capace di simile puntualità quando lo
+spirito senza tempo del viaggio di vacanza non solo mi ha scagliato
+attraverso lo spazio, ma mi ha buttato fuori dal [[Time|tempo]]. Dedicherò
+solo questo breve capitolo a qualche nota di viaggio; perché la maggior
+parte dei taccuini è già stata trasformata in qualche altra sorta di
+libri; sull'Irlanda e sull'[[America]], sulla Palestina e su Roma. Toccherò
+qui soltanto poche cose che mi capita di non aver registrato altrove; una
+visita in Spagna; la mia seconda visita in [[America]]; e la mia prima, ma
+[[Hope|spero]] non l'ultima, visita in Polonia.
+
+Lasciatemi anzitutto sfamare la fame di date sulla palma da datteri della
+Palestina, se la frivolezza sarà perdonata; e così almeno mettere i primi
+viaggi nel loro giusto ordine; anche se considererò alcuni dei casi
+successivi in stile più generale. Posso vantarmi con orgoglio di conoscere
+la data del mio pellegrinaggio a Gerusalemme; in parte perché fu un anno
+dopo la fine della Grande Guerra, e in parte perché quando i miei editori
+mi suggerirono di andare in Terra Santa, mi suonò come andare sulla
+[[Moon|luna]]. Fu il primo dei miei lunghi viaggi, attraverso un paese
+ancora in pericolo e in armi; comportò l'attraversare il [[Desert|deserto]]
+di [[Night|notte]] in qualcosa di simile a un carro bestiame; e parti
+persino della Terra Promessa avevano qualcosa delle qualità di un paesaggio
+lunare. Un episodio in quel deserto risalta ancora nella mia
+[[Memory|memoria]] per qualche strana ragione; non occorre qui tornare
+sulla politica palestinese; ma me ne andavo vagando per il deserto in
+automobile con un piccolo, zelante sionista; parve dapprima quasi un
+monomaniaco, di quelli che alla frase «È una bella giornata» rispondono con
+premura «Oh sì, il clima è perfetto per il nostro progetto». Ma finii per
+simpatizzare col suo [[Romance|slancio romantico]]; e quando disse: «È una
+terra incantevole; vorrei mettermi in tasca il [[Song|Cantico]] di Salomone
+e andarmene a zonzo», seppi che, ebreo o gentile, pazzo o sano di mente,
+noi due eravamo della stessa razza. L'incantevole terra era, fino
+all'orizzonte, un deserto di roccia a terrazze, e davvero imponente; non
+c'era in vista cosa umana all'infuori di noi e dell'autista, che era un
+gigante dalle sopracciglia nere, il raro ma reale tipo ebraico che finisce
+pugile. Era un guidatore eccellente; e la regola in quelle contrade è che
+una Ford può andare dovunque purché stia lontana dalla [[Road|strada]]. Si
+era portato avanti per sgombrare alcune pietre cadute e io feci un
+commento su tale efficienza. Il piccolo, bruno professore accanto a me
+aveva tolto un libro dalla tasca, ma replicò senza scomporsi: «Sì; lo
+conosco solo di sfuggita; tra noi, credo sia un assassino; ma non ho fatto
+domande indelicate». Poi riprese a leggere il [[Song|Cantico]] di Salomone,
+e assaporava quegli aromi che si levano quando il [[Wind|vento]] di
+mezzogiorno soffia sul [[Garden|giardino]]. L'ora era colma di poesia; e
+non priva di ironia.
+
+Le date della mia prima e seconda visita in [[America]] hanno un qualche
+vero significato; poiché l'una fu circa un anno dopo la visita palestinese,
+e l'altra fu relativamente recente; nel 1930. E ciò non solo perché la
+prima fu assai vicina all'inizio e la seconda assai vicina alla fine della
+prolungata stramberia del Proibizionismo. Non mi fermerò qui a discutere
+con qualsiasi [[Fool|sciocco]] che pensi ci sia qualcosa di buffo
+nell'obiettare al Proibizionismo. Ciò che è parte dello stesso processo è
+questo: che l'una coincise col Boom e l'altra vide l'inizio del Crollo e,
+ciò che più conta, una profonda rivoluzione nell'assai intelligente popolo
+americano. Non è cosa da poco che, quanto al Proibizionismo, essi fossero
+del tutto cambiati; all'inizio persino quelli che lo detestavano vi
+credevano; alla fine persino quelli che lo apprezzavano non vi credevano
+più. Ma è molto più importante che, verso la fine, Repubblicani di
+vecchissima data mi dicessero della loro intenzione di votare per Franklin
+Roosevelt; persino quelli che avevano maledetto la demagogia di Theodore
+Roosevelt. Gli Americani hanno visto più plutocrazia di chiunque altro; ma
+non sono sicuro che non possano vederci attraverso più presto di chiunque
+altro.
+
+Per il resto, il mio ultimo giro americano consistette nell'infliggere non
+meno di novantanove conferenze a gente che non mi aveva mai fatto alcun
+male; e il resto dell'avventura, che fu assai piacevole, si sfalda come
+[[A Dream|un sogno]] in episodi isolati. Un anziano facchino negro, dal
+volto simile a una noce, che dissuasi dallo spazzolarmi il cappello, e che
+mi rimproverò dicendo: «Ehi, giovanotto. Sta perdendo la sua dignità prima
+del [[Time|tempo]]. Deve farsi bello per le ragazze». Un [[Grave|grave]]
+messaggero che venne da me in un albergo di Los Angeles, da parte di un
+importante magnate del cinema, desideroso di combinare che io fossi
+fotografato con le Ventiquattro Bellezze da Bagno; Leviatano fra le Nereidi;
+un'offerta che fu declinata tra la sorpresa generale. Un tentativo
+angoscioso di essere giusto verso le sottigliezze della controversia
+evoluzionista, parlando agli studenti di Notre Dame, nell'Indiana, in un
+ciclo su «La letteratura vittoriana», del quale non rimase alcuna
+testimonianza tranne che uno studente scrisse in mezzo al suo taccuino
+bianco: «Darwin fece un mucchio di danni». Non sono affatto certo che avesse
+torto; ma era una certa semplificazione delle mie ragioni per essere
+agnostico riguardo alle deduzioni agnostiche, nei dibattiti su Lamarck e
+Mendel. Un [[debate|dibattito]] sulla [[history|storia]] della religione con
+uno scettico assai famoso; il quale, quando cercai di parlare dei culti
+greci o dell'ascetismo asiatico, parve incapace di pensare ad altro che a
+Giona e la Balena. Ma è la maledizione di questa comica carriera di
+conferenziere che essa pare portare sul palcoscenico illuminato nient'altro
+che commedie; e ho già detto che non credo l'[[America]] le prenda più sul
+serio di quanto faccia io. Il vero commento americano fu serio e solido; e
+nessuno più di quello di un padrone industriale delle macchine, che mi
+disse: «La gente deve tornare alla fattoria».

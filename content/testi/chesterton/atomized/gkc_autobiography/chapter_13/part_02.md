@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/gkc-autobiography-(chesterton)">GKC Autobiography</a> › <a href="/testi/chesterton/atomized/gkc_autobiography/chapter_13">Chapter 13</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/gkc_autobiography/chapter_13/part_01">‹ part 01</a><a class="ex-next" href="/testi/chesterton/atomized/gkc_autobiography/chapter_13/part_03">part 03 ›</a></div>
@@ -130,3 +132,129 @@ of his creation; "Then he was quite on top of the wave."
 And I, who knew my Swinburne backwards, delighting in the poetry
 and already rather despising the [[philosophy]], thought it was a queer
 metaphor to use about the real and sincere Swinburne:
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/gkc-autobiography-(chesterton)">GKC Autobiography</a> › <a href="/testi/chesterton/atomized/gkc_autobiography/chapter_13">Chapter 13</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/gkc_autobiography/chapter_13/part_01">‹ part 01</a><a class="ex-next" href="/testi/chesterton/atomized/gkc_autobiography/chapter_13/part_03">part 03 ›</a></div>
+</nav>
+
+  Chi può raffigurarsi la scena alle porte stellate?
+  Davvero l'[[Imagination|immaginazione]] vien meno,
+  quando lo spietato Presidente degli Immortali
+  mostra a Tommaso il segno dei chiodi?
+
+[[Hope|Spero]] che non sia empio dire che qui si coglie il chiodo giusto
+sulla capocchia. In un caso simile, il secondo Tommaso farebbe esattamente
+ciò che [[Prometheus|Prometeo]] e [[Satan|Satana]] non pensarono mai di fare: avrebbe pietà di Dio.
+
+Devo saltare un lungo tratto d'anni prima di giungere al mio incontro
+con l'altro grande romanziere vittoriano tanto spesso accostato a Hardy;
+ché a quel [[Time|tempo]] mi ero fatto una certa fama giornalistica,
+grazie alla quale mia moglie ed io fummo invitati
+a visitare George Meredith. Ma persino attraverso gli anni sentii
+il curioso contrasto. Hardy era un [[Well|pozzo]], coperto dalle erbacce
+di un periodo stagnante di scetticismo, a mio giudizio; ma con la [[Truth|verità]] in
+[[Bottom|fondo]]; o comunque con la sincerità in [[Bottom|fondo]].
+Ma Meredith era una fontana. Aveva esattamente lo scroscio e lo scintillante
+irraggiamento di una fontana, in quel suo [[Garden|giardino]] dove ci ospitava.
+Era già un vecchio, con la barba bianca appuntita e il ciuffo
+di capelli bianchi come lanugine di cardo; ma anche quello sembrava irraggiare.
+Era sordo; ma tutt'altro che muto. Non era umile; eppure non
+lo direi mai orgoglioso. Riusciva pur sempre a essere una terza cosa,
+che è quasi altrettanto il contrario dell'essere orgoglioso: era vanitoso.
+Era un uomo molto vecchio; ed era ancora magnificamente vanitoso.
+Aveva tutti quegli indescrivibili tocchi di una [[Vanity|vanità]] del tutto giovanile;
+persino, per esempio, al punto di preferire abbagliare le donne piuttosto
+che gli uomini; ché parlò per tutto il [[Time|tempo]] a mia moglie anziché a me.
+Noi parlammo poco con lui; in parte perché era sordo, ma
+molto più perché egli non era muto. A un onesto esame, [[Doubt|dubito]]
+che l'uno o l'altro di noi sia riuscito a infilare una parola di traverso.
+Egli parlò e parlò, e bevve birra allo zenzero, la quale ci assicurò
+con gloriosa gaiezza di aver imparato ad amare tanto quanto lo champagne.
+
+Meredith non solo era colmo di vita, ma era colmo di vite.
+La sua vitalità aveva quel genio ramificante e generatore del romanziere,
+che sempre inventa nuove storie su gente strana.
+Non era come la maggior parte dei vecchi romanzieri; s'interessava a ciò che era [[Novel|nuovo]].
+Non viveva nei libri che aveva scritto; viveva nei libri
+che non aveva scritto. Descrisse un buon numero di romanzi che erano
+davvero [[Novel|nuovi]]; specie uno sulla [[Tragedy|tragedia]] di Parnell.
+Non credo di aver molto condiviso la sua interpretazione; ché egli sosteneva
+che Parnell avrebbe potuto facilmente riconquistare popolarità, se fosse stato
+capace di desiderarla; ma che era per natura riservato e solitario.
+Ma [[Doubt|dubito]] che quel possidente irlandese fosse davvero più riservato
+di un qualunque numero di taciturni possidenti inglesi, i quali stavano
+nello stesso momento conducendo esattamente lo stesso genere d'intrigo amoroso,
+e sarebbero stati ugualmente adirati e ugualmente inarticolati
+se fossero stati scoperti. Solo che loro non furono mai scoperti.
+Ché non v'era [[Hope|speranza]] che la scoperta potesse ritardare la liberazione
+di una nazione cristiana. Ma fu quella la qualità che colpì
+me personalmente in Meredith. Sempre pronto al balzo, egli sapeva balzare
+alle conclusioni; un uomo così grande non potrebbe mai dirsi superficiale;
+ma in un certo senso, essere così rapidi significa essere superficiali.
+Molte parodie da poco di Sherlock Holmes ne hanno fatto un pasticcione;
+dobbiamo ancora leggere una vera [[Comedy|commedia]] su uno Sherlock Holmes che fosse davvero
+acuto con dati insufficienti. Parliamo di una sete divorante
+di informazioni; ma la vera sete non divora, bensì [[Swallow|inghiotte]].
+Così Meredith, per esempio, inghiottì la corrente teoria razziale
+che divideva le nazioni tra il Teutone e il Celta.
+
+Il nome di James Barrie risale anch'esso alla mia giovinezza, benché naturalmente
+egli fosse più giovane di Meredith o di Hardy; è vissuto fino a diventare mio
+ottimo amico; ma è, di tutti gli amici, il meno egotista;
+e lo lego in gran parte a memorie intensamente interessanti
+di questi altri uomini e dei loro contemporanei. Egli resta soprattutto
+come testimone della [[Greatness|grandezza]] di Meredith; in un mondo che l'ha
+piuttosto stranamente dimenticato; ma mi raccontò anche molte storie
+di uomini che non conobbi mai; come Stevenson e Henley e Wilde;
+di Wells e [[Shaw]] ho trattato altrove, in altra connessione.
+Ma v'è un'impressione che simili memorie di simili uomini
+mi hanno lasciato nella mente; ed è lo stranamente fuggevole carattere
+delle controversie perfino intorno ai massimi letterati. Come chiunque
+scriva memorie, trovo che la mia prima difficoltà sia trasmettere
+quanto immensamente importanti apparissero certi individui in certe epoche.
+Ché quegli uomini non sono più argomenti di discorso, anche quando sono ancora classici.
+Ricordo Barrie che mi fece un resoconto assai divertente di una violenta scena
+di controversia letteraria, in cui Henley scagliò la sua stampella attraverso
+la stanza e colpì allo stomaco un altro eminente critico letterario.
+Ciò illustrerà una certa importanza che pareva annettersi
+a certi gusti e preferenze intellettuali. Ché questo pezzo
+di creativa autoespressione critica [[Self|del sé]] fu, a quanto pare, provocato
+dall'affermazione, nel corso di una discussione su Ibsen e [[tolstoy|Tolstoj]],
+che uno di questi grandi uomini era grande abbastanza da appendere l'altro
+alla propria catena dell'orologio. Ma ciò che mi colpisce come il grande e truce scherzo
+dell'intera faccenda, è che il narratore aveva a quanto pare interamente
+dimenticato se fosse Ibsen a dover appendere [[tolstoy|Tolstoj]] alla propria catena dell'orologio
+o [[tolstoy|Tolstoj]] a dover appendere Ibsen alla propria catena dell'orologio. Da cui mi azzardo
+a inferire che nessuno di quei giganti sembra ormai a chicchessia così gigantesco
+quanto allora sembrava a qualcuno.
+
+Ma ho rivisto Sir James Barrie molte volte da allora, e potrei dire molte
+altre cose su di lui; solo che v'è qualcosa nella sua stessa umoristica
+cancellazione [[Self|di sé]] che pare creargli attorno un [[Silence|silenzio]] simile al suo.
+Nel caso dei più anziani vittoriani, era generalmente vero
+che incontrai l'uomo una sola volta, in una sorta di ambasceria privilegiata;
+e simili impressioni possono facilmente essere illusioni. Se fu così nel
+caso di Meredith, lo fu ancor più nel caso di Swinburne.
+Ché al [[Time|tempo]] in cui lo vidi, egli era una specie di dio in un tempio, cui si poteva
+accedere soltanto attraverso un sommo sacerdote. Ebbi una lunga conversazione
+con Watts-Dunton e poi una breve conversazione con Swinburne.
+Swinburne era assai gaio e scherzoso, benché in una maniera
+che mi colpì stranamente come da zitella; ma aveva modi incantevoli
+e specialmente la cortesia di una costante allegria.
+Ma Watts-Dunton, va ammesso, era davvero molto serio.
+Si dice che egli facesse del poeta una religione; ma ciò che mi colpì
+come strano, già a quel [[Time|tempo]], fu che la sua religione pareva consistere
+in gran parte nel preservare e proteggere l'irreligione del poeta.
+Riteneva essenziale che nessun grand'uomo fosse contaminato
+dal [[Christianity|cristianesimo]]. Scuoteva il capo di fronte alla [[Temptation|tentazione]] di Browning
+verso quel credo.... «Uno così borné come il povero Browning».
+Poi mi rimandò alla «Hertha» del suo amico come alla cresta
+della sua creazione; «Allora era proprio in cima all'onda».
+Ed io, che conoscevo il mio Swinburne a menadito, deliziandomi della poesia
+e già piuttosto disprezzando la [[philosophy|filosofia]], pensai che fosse una bizzarra
+metafora da usare a proposito del reale e sincero Swinburne:

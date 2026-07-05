@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/the-ballad-of-the-white-horse-(chesterton)">The Ballad of the White Horse</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/long/the_ballad_of_the_white_horse/section_05_book_v">‹ Section 05 book v</a><a class="ex-next" href="/testi/chesterton/long/the_ballad_of_the_white_horse/section_07_book_vii">Section 07 book vii ›</a></div>
@@ -317,3 +319,316 @@ S the sea flooding the flat sands
      Dead Roland on a doubtful horn,  
      Seemed unto Alfred lightly borne  
        The last cry of the Gael.  
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/the-ballad-of-the-white-horse-(chesterton)">The Ballad of the White Horse</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/long/the_ballad_of_the_white_horse/section_05_book_v">‹ Section 05 book v</a><a class="ex-next" href="/testi/chesterton/long/the_ballad_of_the_white_horse/section_07_book_vii">Section 07 book vii ›</a></div>
+</nav>
+
+LIBRO VI  
+ETHANDUNE: LA STRAGE  
+DEI CAPI  
+
+OME il mare che inonda le piatte sabbie  
+       Volò l'orda figlia del mare,  
+     Le due schiere cozzarono in [[Dust|polvere]] e frastuono,  
+     A manca del paladino latino,  
+     Strepitò del principe Harold l'urlante stirpe [5]  
+       Su Colan e sulla [[Sword|spada]].  
+     S'infranse nel mezzo su Marcus,  
+       Ogier con Guthrum accanto,  
+     E a ponente di quel turbine centrale,  
+     Lontano a destra e più fioca, [10]  
+     La [[house|casa]] di Elf l'arpista,  
+       Colpì quella di Eldred con un grido.  
+     Il centro grondava di stanchezza,  
+       Arginando l'orda urlante,  
+     E stanche andavano le mani di Colan [15]  
+       Che roteavano la [[Sword|spada]] di [[King Alfred|re Alfredo]].  
+     Ma come nube della sera  
+       Verso ponente lieve,  
+     L'alto Eldred rompeva il mare di lance  
+       Come alta [[Ship|nave]] rompe il mare. [20]  
+     Il volto come sanguigno tramonto,  
+       La spalla un colle del Wessex,  
+     La mano come colpo di maglio nel vento;  
+     Non si contavano i cimieri che infranse,  
+       Tanto rapidi cadevano i cimieri. [25]  
+     Come l'alto diavolo bianco della Peste  
+       Esce dai cieli d'Asia,  
+     Col piede su un deserto di città  
+       E il capo in una nube di mosche;  
+     O cieli di porpora e pavone si oscurano [30]  
+       Per una torre di locuste in marcia;  
+     O fulvi venti di sabbia, alti e asciutti,  
+     Come rosse bandiere d'inferno battono e volano,  
+     Quando la [[Death|morte]] esce d'Arabia,  
+       Tale era Eldred nella sua ora. [35]  
+     Ma mentre avanzava come un massacro  
+       Mormorava come nel [[Sleep|sonno]],  
+     E le sue parole eran tutte di basse siepi  
+       E piccoli campi e pecore.  
+     Pur mentre incedeva come pestilenza, [40]  
+       Che marcia dal Reno a Roma,  
+     Pensava quanto alte sarebbero le sue fave  
+       Se mai fosse tornato a [[Home|casa]].  
+     Recitava un rigido brano di [[prayer|preghiera]] infantile,  
+       Sordo come campane lontane, [45]  
+     Che ringraziava il nostro Dio del buon cibo  
+       E del grano e dei tempi quieti—  
+     Finché sull'elmo di un alto capo  
+       Cadde fragorosa la sua lama,  
+     E l'elmo si ruppe e l'osso si ruppe [50]  
+       E la [[Sword|spada]] gli si ruppe in mano.  
+     Allora dai Nordici urlanti  
+       Scagliate in schegge su di lui corsero  
+     Sette lance intere, e la settima [55]  
+       Non fu mai fatta da uomo.  
+     Sette lance, e la settima  
+       Fu forgiata come le lame fatate,  
+     E donata a Elf il menestrello  
+       Dalle mostruose fanciulle dell'[[Water|acqua]];  
+     Da quelle che dimorano dove livide [60]  
+       Le acque perdute del Reno  
+     Si muovono fra radici di nazioni,  
+       Affondate come un segno.  
+     Sotto tutte le tombe mormorano,  
+       Mormorano e si [[Rebel|ribellano]], [65]  
+     Strisciano giù verso i regni sepolti,  
+     E come pioggia perduta ruggiscono e piangono  
+       Sui rossi cieli dell'inferno.  
+     Tre volte annegò Elf il menestrello,  
+       E fu gettato come morto sulla sabbia; [70]  
+     E la terza [[Time|volta]] che lo trovarono  
+       La lancia era nella sua mano.  
+     Sette lance attorniarono Eldred,  
+       Come sartie attorno all'albero;  
+     Ma vi fu dolore presso il mare [75]  
+       Per la spinta dell'ultima.  
+     Sei lance vibrate contro Eldred  
+       Si scheggiarono mentre rideva;  
+     Una lancia trafisse Eldred,  
+       Tre piedi di lama e d'asta. [80]  
+     E dal gran cuore dolorosamente  
+       Uscirono l'asta e la lama,  
+     Ed egli stette col volto di un morto,  
+       Stette un poco, e vacillò—  
+     Poi cadde, come cade una torre di guerra, [85]  
+       Su lance infrante e brancolanti,  
+     Abbattuta da una città invitta  
+     Che, precipitando a terra, trascina giù  
+     Carichi d'uomini vivi d'ogni fama—  
+       Arcieri e ingegneri. [90]  
+     E un gran clamore di uomini cristiani  
+       Salì in agonia,  
+     Gridando: «Caduta è la torre del Wessex  
+       Che stava presso il mare».  
+     Centro e destra la guardia del Wessex [95]  
+        Impallidì di [[Doubt|dubbio]] e [[Fear|paura]],  
+     E il fianco cedette all'avanzata,  
+     Per la luce di [[Death|morte]] sulla lancia stregata—  
+       La stella della lancia maligna.  
+     «State come una quercia», gridò Marcus, [100]  
+       «State come un muro romano!  
+     Eldred il Buono è caduto—  
+       Siete troppo buoni per cadere?  
+     «Quando eravamo pallidi ed esangui  
+       Vi diede birra a sazietà; [105]  
+     I pirati lo trattano come letame,  
+       Dio! siete esangui voi ora?»  
+     «Stringete, Wulf e Gorlias, stringete il frassino!  
+       Schiavi, e vi farò liberi!  
+     Pesta, Hildred, forte sulla terra inglese, no  
+     Sta', Gurth, sta', Gorlias, Gawen, sta'!  
+     Tieni, Halfgar, con l'altra mano,  
+       Halmer, reggiti sul ginocchio!  
+     «Le lampade muoiono nelle vostre case,  
+       I frutti sul vostro ramo; us  
+     Già il vostro vecchio tetto di paglia arde, Gurth,  
+     Ora è il giudizio della terra,  
+       Ora è la stretta di [[Death|morte]], ora!»  
+     Malgrado il tuono del capitano,  
+       Non meno la linea del Wessex, [120]  
+     Si piegò e barcollò un tratto all'indietro  
+     Quando Elf caricò con la lancia delle fanciulle del Reno,  
+       Ruggendo come il Reno.  
+     Ché gli uomini eran portati dai muri ondeggianti  
+       Di boschi e nubi che passano, [125]  
+     Da piana vertiginosa e mare alla deriva,  
+     E mescolavano Dio con l'incantesimo,  
+     Dio con gli dèi dell'albero ardente  
+       E la torre del mago e il suo specchio.  
+     Ma Mark veniva dalle città splendenti [130]  
+       Dove i dettagli ardono bianchi e netti,  
+     Dove l'uomo sa contare ed esporre,  
+     E la sua [[Faith|fede]] crebbe in un suolo duro  
+     Di [[Doubt|dubbio]] e ragione e menzogna scoperta,  
+       Dove nessun'altra [[Faith|fede]] poteva crescere. [135]  
+     La credenza cresciuta da tutte le credenze  
+       Un attimo fa fu spazzata via  
+     E la credenza eretta sull'incredulità  
+       Si levò ferrea e [[Alone|sola]].  
+     La mezzaluna del Wessex all'indietro [140]  
+       Fu schiacciata, mentre con lancia insanguinata  
+     Elf andava ruggendo e sbaragliando,  
+     E Mark contro Elf ancora gridando,  
+       Cozzò, in piena corsa.  
+     Dritta sullo scudo romano e sulla [[Sword|spada]] [145]  
+       Corse la lancia delle fanciulle del Reno;  
+     Ma lo scudo non si mosse mai,  
+     La [[Sword|spada]] calò recidendo,  
+     Il gran Reno cantò per sempre,  
+       E i [[songs|canti]] di Elf furono finiti. [150]  
+     E un gran tuono di uomini cristiani  
+       Salì contro il cielo,  
+     Dicendo: «Dio ha spezzato la lancia maligna  
+       Prima che asciugasse il [[Blood|sangue]] del giusto».  
+     «Lance alla carica!» urlò Mark con forza, [155]  
+       «[[Death|Morte]] sugli dèi della [[Death|morte]]!  
+     Sopra i troni del fato e del [[Blood|sangue]]  
+     Va Dio che è buon artigiano,  
+     E oro e ferro, terra e legno,  
+       Ama e lavora. [160]  
+     «I frutti balzano in tutte le vostre fattorie,  
+       Le lampade in ogni dimora;  
+     Dio d'ogni buona opera compiuta in terra,  
+     D'ogni ruota o tela che valga,  
+     Il Dio che fa il tetto, Gurth, [165]  
+       Il Dio che fa la [[Road|strada]].  
+     «Il Dio che intaglia re nella quercia  
+       Scrive [[songs|canti]] su pergamena,  
+     Dio d'oro e di vetro fiammante,  
+     Confregit potentias, [170]  
+     Arcuum, scutum, Gorlias,  
+       Gladium et bellum».  
+     Acciaio e [[Lightning|folgore]] gli si ruppero intorno,  
+       Allori di battaglia e palma,  
+     Tutti i re del mare ondeggiarono fra [175]  
+     Selve di braccia del Wessex levate,  
+     La tromba della lingua romana,  
+       Il tuono del salmo.  
+     E nel mezzo di quel campo [[rolling|ondeggiante]]  
+       Corse Ogier furibondo, [180]  
+     Sferzando Mark, che deviò il colpo,  
+     E gli fracassò l'elmo sulla fronte,  
+       E lo piegò sul ginocchio.  
+     Allora Ogier sollevò sul capo  
+       Il suo grande scudo rotondo di prova; [185]  
+     Ma Mark pose un piede sullo scudo,  
+     Uno su una roccia divelta e alzata,  
+     E torreggiò sul campo in tumulto,  
+       Statua sopra un tetto.  
+     Menando colpi lontani nella mischia, [190]  
+       Come fulmini vaganti,  
+     Come [[Birds|uccelli]] sul campo di battaglia,  
+     Mentre Ogier si torceva sotto lo scudo  
+       Come testuggine nella sua cupola.  
+     Ma l'odio nell'Ogier sepolto [195]  
+       Era forte come la [[Pain|pena]] nell'inferno,  
+     Con nuda mano brutale dall'interno  
+     Spezzò lo scudo di bronzo e cuoio,  
+     E un colpo di [[Death|morte]] al fianco del Romano  
+       Vibrò improvviso e [[Well|bene]]. [200]  
+     Allora la grande statua sullo scudo  
+       Volse intorno l'ultimo sguardo  
+     Con occhio fermo e imperiale;  
+       E Mark, l'uomo d'[[Italy|Italia]],  
+     Cadde nel mare dell'agonia, [205]  
+       E morì senza un suono.  
+     E Ogier, balzando su vivo,  
+       Scagliò via il suo grande scudo  
+     Volante, come quando un giocoliere lancia  
+       Un piatto sibilante in gioco. [210]  
+     E levò due braccia rigide,  
+       E ruggì a tutti i Danesi:  
+     «Caduta è Roma, sì, caduta  
+       La [[City|città]] delle pianure!  
+     «Nessun nato d'uomo ricorderà, [215]  
+       Che spacchi legno o brughiera,  
+     Quanto a lungo stette sul tetto del mondo  
+       Come lui stette sul mio scudo.  
+     «Il nuovo mondo selvaggio la dimentica  
+       Come svanisce schiuma sul mare, [220]  
+     Quanto a lungo stette col piede sull'Uomo  
+       Come lui col piede su di me.  
+     «Mai più gli uomini bruni del sud  
+       Si muoveranno come formiche in file,  
+     A quietare gli uomini con olive [225]  
+       O a infuriarli con le viti.  
+     «Mai più le bianche città del sud,  
+       Dove corrono Tevere e Nilo,  
+     Sedute attorno a un mare segreto  
+       Adoreranno un sole segreto. [230]  
+     «I ciechi dèi ruggiscono per Roma caduta,  
+       E foro e ghirlanda spariti,  
+     Ché il ghiaccio del nord è rotto,  
+       E il mare del nord avanza.  
+     «I ciechi dèi ruggiscono e delirano e sognano [235]  
+       Di tutte le città sotto il mare,  
+     Ché il cuore del nord è rotto,  
+       E il [[Blood|sangue]] del nord è libero.  
+     «Giù dalla cupola del mondo veniamo,  
+       Fiumi su fiumi giù, [240]  
+     Sotto di noi turbinano sette e orde  
+     E gli alti fati anneghiamo.  
+     «Giù dalla cupola del mondo e giù,  
+       Scagliati in volo come battello  
+     Che su un [[River|fiume]] in piena è roteato e travolto [245]  
+     Finché giungiamo alla fine del mondo  
+       Che si spezza netta, come rupe.  
+     «E quando giungiamo alla fine del mondo  
+       Per me, lo stimo degno  
+     Fare il salto come un buon [[River|fiume]], [250]  
+       Scagliato urlando oltre l'orlo.  
+     «Ma checché accada alla fine del mondo,  
+       Dove il Nulla è percosso e suona,  
+     Non saranno, per Thor, questi uomini da monaci  
+       Questi umiliati cani del Wessex— [255]  
+     «Non questa pallida fila di servi cristiani,  
+       Questa sola bianca corda d'uomini,  
+     A tenerci lontani dalla fine del mondo,  
+       E dalle cose che accadono allora.  
+     «Non è la nanesca [[Sword|spada]] di Alfred, [260]  
+       Né la pigmea [[Crown|corona]] di Egbert,  
+     Che ci fermerà ora che scendiamo in tuono,  
+     Squarciando i regni e i regni di sotto,  
+       Giù attraverso il mondo e giù».  
+     V'era qualcosa nei selvaggi dietro di lui, [265]  
+       V'era qualcosa nel suo stesso [[Song|canto]] selvaggio,  
+     Un pulsare vertiginoso, un fumo d'ubriaco,  
+     Che stordiva a [[Death|morte]] tutta la gente del Wessex,  
+       E ne spazzava via le lance.  
+     Invano la [[Sword|spada]] di Colan [270]  
+       E la scure di Alfred si adopravano—  
+     I Danesi dilagavano come peste senza cervello,  
+       E non sapevano quando morivano.  
+     Il principe Colan ne uccise una ventina,  
+       E fu abbattuto sul ginocchio; [275]  
+     [[King Alfred|Re Alfredo]] ne uccise ventisette  
+       E fu respinto contro un albero.  
+     Indietro alla nera porta dei boschi,  
+       Indietro su per l'unico sentiero,  
+     Indietro al luogo delle vie divise [280]  
+       I cavalieri di [[Christ|Cristo]] furono travolti via.  
+     E quando giunsero alle vie divise  
+       Cadde il martello più greve del fato,  
+     Ché il [[King|re]] fu battuto, cieco, alle strette,  
+     Giù per la via destra con la sua schiera, [285]  
+     Ma Colan spazzò dall'altra parte,  
+       Dove menò gran colpi e cadde.  
+     I boschi di spini sopra Ethandune  
+       Stanno acuti e fitti come lance;  
+     Da [[Night|notte]] e ginestre e insidie di foresta [290]  
+     Furon divisi lontano gli amici in armi;  
+     I forti colpi perduti, gli ultimi allarmi,  
+       Non giunsero alle orecchie di Alfred.  
+     I boschi di spini sopra Ethandune  
+       Stanno rigidi come punte di maglia; [295]  
+     Come all'Alto [[King|Re]] giunse al mattino  
+     Il morto Rolando su un corno dubbioso,  
+     Parve ad Alfred lievemente recato  
+       L'ultimo grido del Gaelo.  

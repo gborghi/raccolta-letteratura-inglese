@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/irish-impressions-(chesterton)">Irish Impressions</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/irish_impressions/story_02_the_root_of_reality">‹ Story 02 The Root of Reality</a><a class="ex-next" href="/testi/chesterton/atomized/irish_impressions/story_04_the_paradox_of_labour">Story 04 The Paradox of Labour ›</a></div>
@@ -319,3 +321,269 @@ without any difference between the most distant creeds and colours;
 that he stands as the orator of the human race whose statute only
 declares all humanity to be human; and then slightly drops his voice
 and says, "This Act shall not apply to Ireland."
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/irish-impressions-(chesterton)">Irish Impressions</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/irish_impressions/story_02_the_root_of_reality">‹ Story 02 The Root of Reality</a><a class="ex-next" href="/testi/chesterton/atomized/irish_impressions/story_04_the_paradox_of_labour">Story 04 The Paradox of Labour ›</a></div>
+</nav>
+
+III. La famiglia e la faida
+
+C'era una vecchia facezia della mia [[Childhood|infanzia]], secondo la quale gli
+uomini si potevano raggruppare in base al loro nome di battesimo. Ho dimenticato i
+casi allora presi in esame; ma esempi contemporanei sarebbero abbastanza suggestivi
+oggigiorno. Una cerimoniale fratellanza d'armi tra Padre Bernard Vaughan e il signor
+Bernard [[Shaw]] pare gravida di possibilità. Mi diverte vagamente l'idea del signor
+Arnold Bennett che si sforza di trarre le più ampie umanità della narrativa dalle
+divergenze politiche del signor Arnold White e del signor Arnold Lupton. Io stesso
+trascorrerei le mie giornate nell'esclusiva compagnia del professor Gilbert Murray e
+di Sir Gilbert Parker; i quali posso immaginare discordi su alcuni punti tra loro, e
+su alcuni punti da me. Ora, c'è una cosa curiosa da notare a proposito di questa
+vecchia facezia; che essa avrebbe potuto essere presa in uno spirito più serio,
+benché in uno stile più sano, in un'epoca ancor più antica. Questa fantasia dell'età
+vittoriana avrebbe potuto agevolmente essere un fatto del Medioevo. Non vi sarebbe
+stato nulla di anomalo, nell'atmosfera morale del medievalismo, in qualche festa o
+corteo che celebrasse la fratellanza di uomini aventi lo stesso santo patrono. Oggi
+ciò sembra folle e privo di senso, perché il significato dei nomi di battesimo è
+andato perduto. Essi sono caduti in una sorta di caos e di oblio quanto mai tipico
+del nostro [[Time|tempo]]. Intendo che vi sono ancora mode in fatto di nomi, ma non
+più ragioni per essi. Poiché una moda è un'usanza senza causa. Una moda è un'usanza
+alla quale gli uomini non riescono ad abituarsi; semplicemente perché è priva di
+causa. Ecco perché le nostre società industriali, toccando ogni argomento dal cosmo
+ai colletti delle giacche, sono soltanto travolte da una successione di mode che sono
+soltanto umori. Sono usanze che non riescono a diventare consuete. E così, in mezzo a
+tutte le nostre mode in fatto di nomi di battesimo, abbiamo dimenticato tutto ciò che
+significava l'usanza dei nomi di battesimo. Abbiamo dimenticato tutti i fatti
+originari riguardo a un nome di battesimo; ma, soprattutto, il fatto che fosse
+cristiano.
+Ora, se osserviamo questo processo in atto nel mondo di [[London|Londra]] o di
+Liverpool, vedremo che è già andato ancora più lontano e ancor peggio. Anche il
+cognome sta perdendo la sua radice e perciò la sua ragione. Il cognome è divenuto
+solitario quanto un soprannome. Poiché si potrebbe sostenere che il nome proprio è
+destinato a essere una cosa individuale e persino isolata; ma il cognome è certamente
+destinato, per ogni [[logic|logica]] e ogni [[history|storia]], a legare un uomo alle
+sue origini, alle sue abitudini o alla sua dimora umane. Storicamente, era una parola
+tratta dalla città in cui viveva o dalla corporazione di mestiere cui apparteneva;
+giuridicamente è tuttora la parola attorno a cui ruotano tutte le questioni di
+legittimità, successione e disposizioni testamentarie. È destinato a essere il nome
+collettivo; in tal senso è destinato a essere il nome impersonale, come l'altro è
+destinato a essere il nome personale. Eppure, nel moderno costume dell'industrialismo,
+esso è preso sempre più in un modo al tempo stesso solitario e leggero. Qualsiasi
+sistema sociale collettivo edificato su di esso sembrerebbe altrettanto ridicolo
+quanto la facezia sui nomi di battesimo con cui ho cominciato. Se parrebbe strano
+esigere che un Thomas facesse amicizia con qualsiasi altro Thomas, apparirebbe quasi
+altrettanto sconcertante insistere che un qualsiasi Thompson debba [[Love|amare]]
+qualsiasi altro Thompson. Può darsi che Sir Edward Henry, un tempo delle forze di
+polizia, non desideri essere confinato nella compagnia del signor Edward Clodd. Ma
+Sir Edward Henry avrebbe necessariamente cercato la compagnia del signor O. Henry,
+per quanto piacevole sarebbe stata tale compagnia? Sir John Barker, fondatore del
+grande emporio di Kensington, non ha bisogno di andare in cerca e di abbracciare in
+modo particolare il signor John Masefield; ma ha forse bisogno, con maggior prontezza,
+di gettarsi tra le braccia del signor Granville Barker? Questa prospettiva di varietà
+ci porterebbe lontano; ma basta notare, scherzi a parte, che i più comuni cognomi
+inglesi sono divenuti unici nel loro significato sociale; stanno per l'uomo piuttosto
+che per la stirpe o le origini. Anche quando sono comunissimi, non sono comunitari.
+Ciò che chiamiamo il nome di famiglia non è più, oggi, in primo luogo il nome della
+famiglia. La famiglia stessa, come concezione collettiva, è già sbiadita sullo sfondo,
+e rischia di sbiadire via dallo sfondo. In breve, i nostri nomi di battesimo non sono
+le sole cose cristiane che possiamo perdere.
+Ora, il secondo fatto solido che mi colpì in Irlanda (dopo il [[success|successo]]
+della piccola proprietà e il _fallimento_ della grande organizzazione) fu che la
+famiglia si trovava in una posizione nettamente opposta. Tutto ciò che ho detto sopra,
+nel linguaggio corrente, sull'intera tendenza del mondo moderno, è direttamente
+opposto all'intera tendenza del moderno mondo irlandese. Non solo il nome di battesimo
+è un nome di battesimo; ma (ciò che pare ancor più paradossale e persino da pantomima)
+il nome di famiglia è davvero un nome di famiglia. Quanto al primo dei due, sarebbe
+facile rintracciare alcune verità assai interessanti a suo riguardo, se esse non ci
+distraessero dalla [[Truth|verità]] principale di questo capitolo: la seconda grande
+[[Truth|verità]] sull'Irlanda. Chi mette a confronto l'«[[Education|istruzione]]» dei
+due paesi, o cerca di estendere all'uno ciò che nell'altro si chiama
+[[Education|istruzione]], potrebbe in verità far di peggio che studiare il semplice
+problema del significato dei nomi di battesimo. Potrebbe [[Dawn|albeggiare]]
+finalmente, persino nella mente dei pedagogisti, che vi è un valore nel contenuto
+[[Well|oltre]] che nell'estensione della cultura; o (in altre parole), che conoscere
+novecento parole non è sempre più importante che sapere che cosa alcune di esse
+significhino. È rigorosamente e sobriamente vero che un qualsiasi contadino, in una
+capanna di fango della contea di Clare, quando chiama il suo [[Child|figlio]]
+[[Michael]], può davvero avere il senso della presenza che abbatté [[Satan]], le armi
+e il piumaggio del paladino del Paradiso. [[Doubt|Dubito]] che sia così
+straordinariamente probabile che un qualsiasi impiegato in una qualsiasi villetta di
+Clapham Common, quando chiama suo figlio John, abbia una visione della sacra aquila
+dell'[[Apocalypse|Apocalisse]], o anche solo del mistico calice del discepolo che Gesù
+amava. Di fronte a questo semplice fatto, non ho [[Doubt|dubbio]] su quale dei due sia
+l'uomo più istruito; e nemmeno la conoscenza del _Daily Mail_ raddrizza la bilancia.
+Si dice spesso, e forse a ragione, che il contadino di nome [[Michael]] non sa scrivere
+il proprio nome. Ma è altrettanto vero che l'impiegato di nome John non sa leggere il
+proprio nome. Non sa leggerlo perché è in una lingua straniera, e non gli è mai stato
+fatto comprendere che cosa esso rappresenti. Egli non sa che John significa John, come
+l'altro sa bene che [[Michael]] significa [[Michael]]. In quel senso rigidamente
+realistico, l'allievo dell'intellettualismo industriale non conosce nemmeno il proprio
+nome.
+Ma questa è una parentesi; perché il punto qui è che l'uomo della strada (a differenza
+dell'uomo dei campi) è stato separato non solo dalla sua descrizione privata, ma da
+quella più pubblica. Non solo ha dimenticato il proprio nome, ma ha dimenticato il
+proprio indirizzo. A mio avviso, egli è come una di quelle infelici persone che si
+risvegliano con la mente vuota, e perciò non sanno ritrovare la via di [[Home|casa]].
+Ma, che si adotti o no questa veduta sullo stato delle cose in una società industriale
+come quella inglese, dobbiamo comprendere con fermezza che uno stato di cose
+totalmente opposto esiste in una società agricola come quella irlandese. Possiamo
+esprimerlo, se vogliamo, nella forma di una fantasia inconsueta e persino ostile.
+Possiamo dire che la [[house|casa]] è più grande dell'uomo; che la [[house|casa]] è un
+amabile orco che rincorre e riacchiappa l'uomo. Ma il fatto è là, consueto o
+inconsueto, amico od ostile; e il fatto è la famiglia. L'[[Pride|orgoglio]] familiare
+è prodigioso; benché di solito si accompagni ad ardenti masse di [[Humility|umiltà]]
+individuale. E questo sentimento familiare si attacca davvero al nome di famiglia;
+sicché la lingua stessa in cui gli uomini pensano è fatta di nomi di famiglia. In ciò
+l'atmosfera è singolarmente diversa da quella dell'Inghilterra, benché assai più simile
+a quella della Scozia. Anzi, a riprova dell'imparziale riconoscimento di ciò, a
+prescindere da ogni deduzione di parte, esso è ugualmente evidente nel luogo dove si
+suppone che l'Irlanda e la Scozia s'incontrino. È ugualmente evidente nell'Ulster, e
+persino nell'angolo protestante dell'Ulster.
+In tutta la propaganda dell'Ulster in cui m'imbattei, credo che la cosa che più
+acutamente mi colpì fosse una frase in un articolo di fondo unionista. Era qualcosa che
+si poteva a buon diritto chiamare scozzese; qualcosa che in realtà era ancor più
+irlandese; ma qualcosa che nemmeno nell'umore più sfrenato si poteva chiamare inglese,
+e che perciò non si poteva, con alcun senso razionale, chiamare unionista. Eppure
+faceva parte di uno sfogo appassionatamente sincero, e in verità autenticamente umano e
+storico, della politica dell'angolo nord-orientale contro la politica del resto
+dell'Irlanda. I più di noi ricordano che Sir Edward Carson introdusse nel
+[[government|Governo]] un suo amico avvocato di nome Campbell; era all'inizio della
+guerra, e pochi di noi pensarono qualcosa della faccenda, se non che fosse stupido
+affidare cariche ai carsoniani nel momento più delicato della crisi della causa in
+Irlanda. Da allora, come pure sappiamo, il medesimo Campbell si è mostrato un uomo
+assennato, il che io tradurrei con un pratico [[Home]] Ruler; ma che è comunque
+qualcosa di più di ciò che generalmente s'intende per carsoniano. Nutro io stesso il
+profondo sospetto che anche Carson vorrebbe assai volentieri essere qualcosa di più di
+un carsoniano. Ma comunque stiano le cose, l'amico avvocato di cui parlo tenne un
+eccellente discorso, contenente qualche concessione al sentimento popolare irlandese.
+Come c'era da aspettarsi, vi furono furiose denunce contro di lui nella stampa del
+partito orangista; ma non più furiose di quante se ne sarebbero potute trovare nel
+_Morning Post_ o nella _Saturday Review._ Nondimeno, vi era una frase che di certo non
+vidi mai nel _Morning Post_ o nella _Saturday Review;_ una frase che non mi aspetterei
+mai di vedere in alcun giornale inglese, benché assai probabilmente potrei vederla in
+un giornale scozzese. Era questa frase, che mi fu letta dall'articolo di fondo di un
+giornale di Belfast: «Non ci fu mai tradimento senza che un Campbell ne fosse al
+[[Bottom|fondo]]».
+Si provi qualcuno a immaginare un inglese che dica, a proposito di qualche lite d'affari:
+«Come è da Atkins!» oppure «Che ci si poteva aspettare da un Wilkinson?». Un momento di
+riflessione mostrerà che sarebbe ancor più impossibile a proposito di uomini pubblici in
+liti pubbliche. Nessun Liberale inglese collegò mai le prime imprese dell'attuale Lord
+Birkenhead a influenze ataviche, o al totem della vasta ed errante tribù degli
+[[smith|Smith]]. Nessun patriota inglese risalì l'albero genealogico di un qualsiasi
+pacifista inglese; né disse che non ci fu mai tradimento senza che un Pringle ne fosse
+al [[Bottom|fondo]]. È l'articolo indeterminativo a costituire qui la determinata
+distinzione. È l'espressione «un Campbell» a trasformare d'un tratto la scena, e a
+ricoprire le toghe di un solo avvocato con i diecimila tartan di un intero clan. Ora,
+quella frase è la frase che il viaggiatore incontra dappertutto in Irlanda. Forse la
+cosa più notevole che ricordo, dopo la rivoluzione agraria, fu il modo in cui un povero
+irlandese si trovò a parlarmi di Sir Roger Casement. Non lo lodò come un liberatore
+dell'Irlanda; non lo ingiuriò come un'onta per l'Irlanda; non disse nessuna delle venti
+cose che ci si poteva aspettare da lui. Si limitò ad accennare alla voce che Casement
+intendesse farsi cattolico poco prima della sua esecuzione, ed espresse una sorta di
+lontano interesse per la cosa. Aggiunse: «È sempre stato un Protestante Nero. Tutti i
+Casement sono Protestanti Neri». Confesso che, al momento di quel morboso racconto, mi
+parve esservi qualcosa di ultraterreno nell'idea stessa che vi fossero altri Casement.
+Se mai un uomo parve solitario, se mai un uomo parve unico fino al punto d'essere
+innaturale, fu quell'uomo nelle due o tre occasioni in cui vidi il suo cupo e bel volto
+e i suoi occhi selvaggi; un'alta, oscura figura che già camminava nell'[[Shadow|ombra]]
+di una spaventosa condanna. Non so se fosse un Protestante Nero; ma era un qualcosa di
+nero; nel senso triste, se non cattivo, del simbolo. Immagino, in [[Truth|verità]], che
+egli rappresentasse piuttosto il terzo della famosa triade di monosillabi in rima di
+Browning. Un illustre deputato nazionalista, che per caso aveva avuto una formazione
+medica, mi disse: «Ne fui certissimo appena posai gli occhi su di lui; quell'uomo era
+pazzo». Comunque, quell'uomo era così fuori del comune che non sarebbe mai venuto in
+mente a me o a un qualsiasi mio connazionale di parlarne come se esistesse una classe o
+un clan di uomini simili. Avrei quasi potuto immaginare che fosse nato senza padre né
+madre. Ma per gli irlandesi, suo padre e sua madre erano in realtà più importanti di
+lui. Si dice che vi sia un mistero storico sul fatto se Parnell facesse un gioco di
+parole, quando disse che il nome di Kettle era una parola di casa in Irlanda. Pochi
+simboli potrebbero oggi essere più opposti del nome di Kettle e del nome di Casement
+(salvo il [[Courage|coraggio]] che ebbero in comune); poiché il più giovane Kettle,
+morto tanto gloriosamente in Francia, era un nazionalista tanto ampio quanto l'altro era
+angusto, e tanto sano quanto l'altro era folle. Ma se la fantasia di un facitore di
+calembour, assecondando la sua deliziosa vena di nonsense, dovesse scorgere qualcosa di
+pittoresco nell'immagine di cento simili Kettle che cantano, come cantava lui, presso
+cento focolari, un più amaro burlone, leggendo quella nera e oscura storia della cattura
+sulla costa, potrebbe pronunciare una simile leggerezza a proposito di altri Casement,
+aperti sulla schiuma di mari tanto perigliosi, in una terra così davvero desolata. Ma
+anche se non ci infastidisse il gioco di parole, ci sorprenderebbe il plurale. E la
+nostra sorpresa sarebbe la misura della più profonda differenza tra l'Inghilterra e
+l'Irlanda. Per esprimerlo con la medesima oziosa immagine, sarebbe il fatto che perfino
+una finestra è parte di una [[house|casa]], come un bollitore è parte di una casa. Ogni
+parola in Irlanda è una parola di casa.
+Gli inglesi non avrebbero pensato a un plurale per la parola Gladstone più di quanto lo
+avrebbero fatto per la parola Dio. Non avrebbero mai immaginato Disraeli circondato da
+una gran nube di Disraeli; sarebbe parso loro del tutto troppo apocalittico, un'esagerazione
+dell'essere dalla parte degli angeli. Ancora oggi in Inghilterra, come ho ragione di
+sapere, si considera una forma rabbiosa e folle di persecuzione religiosa suggerire che un
+ebreo provenga assai probabilmente da una famiglia ebrea. In breve, gli inglesi moderni,
+mentre i loro governanti sono disposti a dare la debita considerazione all'[[Eugenics|Eugenetica]]
+come ragionevole occasione per varie forme di poligamia e infanticidio, si allontanano
+sempre più dall'unica considerazione dell'[[Eugenics|Eugenetica]] che potrebbe mai addirsi
+a uomini cristiani, ossia la considerazione di essa come un fatto compiuto. Ho parlato
+d'infanticidio; ma in verità l'etica in gioco è piuttosto quella del parricidio e del
+matricidio. Per i miei gusti, l'attuale tendenza della [[Reform|riforma]] sociale
+sembrerebbe consistere nel distruggere ogni traccia dei genitori, allo scopo di studiare
+l'ereditarietà dei figli. Ma qui non chiedo al lettore di accettare i miei gusti o nemmeno
+le mie opinioni su queste cose; reco soltanto testimonianza di un fatto oggettivo riguardo
+a un paese straniero. Lo si può riassumere dicendo che Parnell è il Parnell per gli
+inglesi; ma un Parnell per gli irlandesi.
+Questo è ciò che intendo quando dico che i [[Home]] Rulers inglesi non sanno che cosa gli
+irlandesi intendano per [[Home|casa]]. Ed è anche ciò che intendo quando dico che quella
+società non rientra in alcuna delle nostre classificazioni sociali, liberale o
+conservatrice. A molti Radicali questo senso del lignaggio apparirà come schietta
+aristocrazia reazionaria. Ed è aristocratico, se con ciò intendiamo un [[Pride|orgoglio]]
+di stirpe; ma non è aristocratico nel senso pratico e politico. Per quanto strano possa
+suonare, il suo effetto pratico è democratico. Non è aristocratico nel senso di creare
+un'aristocrazia. Al contrario, è forse l'unica forza che impedisce stabilmente la creazione
+di un'aristocrazia, alla maniera della piccola nobiltà terriera inglese. La ragione di
+questo apparente [[Paradox|paradosso]] si può esprimere abbastanza chiaramente in una sola
+frase. Se ti preoccupi _davvero_ dei tuoi parenti, devi preoccuparti dei tuoi parenti
+poveri. Scopri presto che un buon numero dei tuoi cugini di secondo grado mostra una
+spiccata tendenza sociale a fare gli spazzacamini e i calderai. Impari presto la lezione
+dell'uguaglianza umana se cerchi onestamente e coerentemente di imparare una qualsiasi
+altra lezione, persino la lezione dell'araldica e della genealogia. Nel bene o nel male,
+una vera aristocrazia in funzione deve dimenticare circa tre quarti dei propri
+aristocratici. Deve scartare i poveri che hanno il [[Blood|sangue]] signorile, e accogliere
+i ricchi che possono condurre la vita signorile. Se un uomo è interessante perché è un
+McCarthy, ciò equivale, in tal misura, a essere interessante perché è un uomo; vale a dire,
+è interessante sia che si tratti di un duca sia di uno spazzino. Ma se è interessante perché
+è Lord FitzArthur e abita a FitzArthur [[house|House]], allora è interessante quando ha
+semplicemente comprato la [[house|casa]], o quando ha semplicemente comprato il titolo. Per
+mantenere una nobiltà terriera, è necessario ammirare il nuovo signore; e perciò dimenticare
+il vecchio signore. Il senso della famiglia è come un cane e segue la famiglia; il senso
+dell'oligarchia è come un gatto e continua a infestare la [[house|casa]]. Non sto
+argomentando contro l'aristocrazia, se gli inglesi scelgono di conservarla in Inghilterra;
+sto soltanto chiarendo i termini a cui la detengono, e avvertendoli che un popolo dotato di
+un forte senso della famiglia non la deterrà a nessun termine. L'aristocrazia, quale è
+fiorita in Inghilterra fin dalla [[Reformation|Riforma]], con non poca gloria nazionale e
+[[success|successo]] commerciale, è per sua stessa [[Nature|natura]] edificata su focolari
+infranti e profanati. Deve distruggere cento parenti poveri per mantenere in piedi una
+famiglia. Deve distruggere cento famiglie per mantenere in piedi una classe. Ma se questo
+spirito familiare è incompatibile con ciò che intendiamo per aristocrazia, è del tutto
+altrettanto incompatibile con tre quarti di ciò che molti uomini lodano e predicano come
+[[democracy|democrazia]]. L'intera tendenza di ciò che è stato considerato legislazione
+liberale in Inghilterra, necessaria o superflua, difendibile e indifendibile, è stata, nel
+bene o nel male, a spese dell'indipendenza della famiglia, e specialmente della famiglia
+povera. Dalle prime, ragionevolissime restrizioni dei Factory Acts, alle ultime,
+maniacalissime buffonate d'ingerenza nei giochi da nursery o nei pranzi di Natale altrui,
+l'intero processo ha ruotato talvolta sul perno dello Stato, più spesso sul perno del datore
+di lavoro, ma mai sul perno della [[Home|casa]]. Tutto ciò può essere un'emancipazione; io
+faccio soltanto notare che l'Irlanda chiese davvero l'[[Home]] Rule soprattutto per essere
+emancipata da questa emancipazione. Ma in verità i politici inglesi, per rendere loro
+giustizia, mostrano d'esserne consapevoli col crescente numero di casi in cui l'altra
+nazione viene esentata. Possiamo aver tormentato questo infelice popolo con le nostre
+persecuzioni; ma almeno gli risparmiamo le nostre riforme. Li abbiamo colpiti con le piaghe;
+ma almeno non osiamo flagellarli con i nostri rimedi. Il vero argomento contro l'[[Union|Unione]]
+non è soltanto un argomento contro gli unionisti; è un argomento assai più forte contro gli
+universalisti. È questa strana e ironica [[Truth|verità]]: che un uomo si alza in piedi
+reggendo una carta di [[Charity|carità]] e di pace per tutta l'umanità; che stabilisce una
+legge di giustizia illuminata per tutte le nazioni della terra; che pretende di scorgere
+l'uomo, fin dagli albori della sua evoluzione, uguale, senza alcuna differenza tra i credi e
+i colori più remoti; che si erge come l'oratore del genere umano il cui statuto proclama
+soltanto che tutta l'umanità è umana; e poi abbassa leggermente la voce e dice: «La presente
+Legge non si applicherà all'Irlanda».

@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/irish-impressions-(chesterton)">Irish Impressions</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/irish_impressions/story_01_two_stones_in_a_square">‹ Story 01 Two Stones in a Square</a><a class="ex-next" href="/testi/chesterton/atomized/irish_impressions/story_03_the_family_and_the_feud">Story 03 The Family and the Feud ›</a></div>
@@ -421,3 +423,378 @@ To fight against grass is to fight against God; we can only so mismanage
 our own [[City|city]] and our own citizenship that the grass grows in our
 own streets. And even then it is our streets that will be dead;
 and the grass will still be alive.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/irish-impressions-(chesterton)">Irish Impressions</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/irish_impressions/story_01_two_stones_in_a_square">‹ Story 01 Two Stones in a Square</a><a class="ex-next" href="/testi/chesterton/atomized/irish_impressions/story_03_the_family_and_the_feud">Story 03 The Family and the Feud ›</a></div>
+</nav>
+
+II. La radice della realtà
+
+La sola giustificazione della letteratura è di rendere nuove le cose; e la
+principale sventura del giornalismo è che è costretto a renderle vecchie.
+Ciò che è fatto in fretta è condannato a diventare trito. Si supponga che un
+uomo debba scrivere su un dato argomento, poniamo l'[[America]]; se ha una
+giornata intera per farlo, è possibile che, negli ultimi bagliori del tramonto,
+egli abbia scoperto almeno una cosa che davvero pensa lui stesso sull'[[America]].
+È immaginabile che, in qualche luogo sotto la [[Evening Star|stella della sera]],
+gli venga un'idea nuova, magari perfino sul nuovo mondo. Se ha soltanto mezz'ora
+per scrivere, avrà appena il [[Time|tempo]] di consultare un'enciclopedia e di
+ricordare vagamente gli ultimi articoli di fondo. L'enciclopedia sarà superata
+soltanto di una decina d'anni; gli articoli di fondo saranno superati di ere
+intere, essendo stati scritti nelle medesime condizioni di frenesia moderna.
+Se ha soltanto un quarto d'ora per scrivere sull'[[America]], può essere spinto,
+per puro delirio e [[Madness|follia]], a chiamarla la sua Figlia Gigantesca
+dell'occidente, a discorrere della praticabilità di un Abbraccio attraverso il
+Mare, o persino a definirsi anglosassone, quando [[Well|altrettanto]] bene
+potrebbe definirsi uno Iuto. Ma qualunque avvilente banalità sia l'effetto della
+fretta affaristica nella critica, essa è soltanto un esempio di una [[Truth|verità]]
+che può essere verificata in venti campi dell'esperienza. Se un uomo deve
+raggiungere Brighton il più in fretta possibile, vi arriverà prestissimo
+viaggiando su rotaie rigide lungo un percorso riconosciuto. Se ha [[Time|tempo]]
+e denaro per andare in automobile, userà ancora le strade pubbliche; ma si
+stupirà nel constatare quante strade pubbliche appaiano nuove e quiete quanto le
+strade private. Se ha [[Time|tempo]] a sufficienza per camminare, potrà scoprire
+da sé una fila di sentieri freschi, ciascuno una fiaba. Questa legge dell'ozio
+necessario al risveglio della [[Wonder|meraviglia]] vale, in verità, tanto per le
+cose superficialmente familiari [[Well|quanto]] per quelle superficialmente nuove.
+Il principale argomento a favore delle vecchie recinzioni e dei vecchi confini è
+che essi racchiudono uno spazio nel quale si potranno sempre trovare, più tardi,
+cose nuove, come pesci vivi entro i quattro angoli di una rete. Il fascino
+principale dell'avere una [[Home|casa]] sicura sta nell'aver l'agio di sentirla
+come qualcosa di estraneo.
+Ho spesso fatto il poco che potevo per correggere lo stantìo vezzo di dare le
+cose per scontate: tanto più che non si tratta nemmeno di darle per scontate.
+È prenderle senza gratitudine; vale a dire, con enfasi, come non concesse.
+Persino la porta di casa propria, schiusa dalla propria chiave, non dovrebbe
+soltanto aprirsi verso l'interno su cose familiari, ma verso l'esterno su cose
+ignote. Persino il proprio focolare domestico dovrebbe essere selvaggio
+[[Well|oltre]] che addomesticato; giacché nulla potrebbe essere più selvaggio del
+[[Fire|fuoco]]. Ma se questa luce della più alta ignoranza dovesse risplendere
+perfino sui luoghi familiari, dovrebbe naturalmente risplendere con la massima
+chiarezza sulle strade di una terra straniera. Sarebbe [[Well|bene]] che un uomo
+potesse entrare in Irlanda sapendo davvero di non sapere nulla dell'Irlanda; se
+possibile, senza conoscerne nemmeno il nome. La sventura è che i più conoscono il
+nome troppo [[Well|bene]], e la cosa troppo poco. Questo libro sarebbe
+probabilmente un libro migliore, [[Well|oltre]] che una beffa migliore, se
+chiamassi l'isola per tutto il tempo con un nome come Atlantide, rivelando
+soltanto all'ultima pagina che alludevo all'Irlanda. Gli inglesi vedrebbero una
+situazione di grande interesse, oggetti verso i quali potrebbero provare notevole
+simpatia, e occasioni di cui potrebbero trarre considerevole vantaggio, se solo
+guardassero quel luogo in modo semplice e diretto, come guarderebbero un'isola
+del tutto nuova, con un nome del tutto nuovo, scoperta da quell'avventura
+marinaresca che è il vero [[Romance|romanzo]] dell'Inghilterra. In breve, potrebbe
+farne qualcosa, se solo la trattasse come un oggetto posto davanti a sé, e non
+come un tema o una storia lasciata dietro di sé.
+Vi sarà occasione più avanti di dire tutto ciò che va detto sulla necessità di
+studiare la storia irlandese. Ma la storia irlandese è una cosa, e ciò che si
+chiama la [[Irish Question|questione irlandese]] tutt'altra; e, in senso
+puramente pratico, la cosa migliore che lo straniero possa fare è dimenticare la
+[[Irish Question|questione irlandese]] e guardare gli irlandesi. Se li guardasse
+in modo semplice e costante, come guarderebbe i nativi di una nazione del tutto
+nuova con un nome nuovo, diverrebbe consapevole di un fatto stranissimo ma del
+tutto solido. Ne diverrebbe consapevole, come un uomo in una fiaba potrebbe
+accorgersi d'aver varcato il confine del paese delle fate, per una bazzecola quale
+una mucca parlante o un pagliaio che se ne va in giro sulle gambe. Giacché la
+[[Irish Question|questione irlandese]] non è mai stata discussa in Inghilterra.
+Si è discusso di [[Home]] Rule; ma coloro che la sostennero con più calore, e a
+mio avviso con più saggezza, non sapevano nemmeno che cosa gli irlandesi
+intendessero per [[Home|casa]]. Si è parlato di Unionismo; ma non si è mai osato
+nemmeno proporre l'[[Union|Unione]]. Un unionista dovrebbe indicare un uomo che
+non è nemmeno consapevole del confine tra i due paesi; che può attraversare la
+frontiera del paese delle fate senza nemmeno accorgersi del pagliaio ambulante.
+Di fatto, l'unionista spara sempre al pagliaio; benché non lo colpisca mai. Ma la
+limitazione non si limita agli unionisti; come ho già detto, i Radicali inglesi
+sono stati altrettanto incapaci di andare alla radice della questione. Metà
+dell'argomento a favore dell'[[Home]] Rule era che l'Irlanda non poteva essere
+affidata ai [[Home]] Rulers inglesi. Anch'essi, per tornare alla
+[[Parable|parabola]], sono stati incapaci di prendere per le corna la mucca
+parlante; giacché non occorre certo dire che la mucca parlante è un toro
+irlandese. Ciò che non andava nella loro politica irlandese era semplicemente che
+si trattava di politica inglese. Discutevano la
+[[Irish Question|questione irlandese]]; ma non contemplarono mai seriamente la
+Risposta irlandese. Vale a
+dire, il Liberale si accontentava della [[Truth|verità]] negativa, che agli
+irlandesi non si dovesse impedire di avere il tipo di legge che preferivano. Ma
+il Liberale di rado affrontava la [[Truth|verità]] positiva, riguardo a quale tipo
+di legge avrebbero preferito. Egli evitava istintivamente perfino
+l'[[Imagination|immaginazione]] di ciò; per la semplice ragione che la legge
+gradita agli irlandesi è tanto remota da ciò che si chiama Liberale quanto da ciò
+che si chiama Unionista. Né il Liberale l'ha mai abbracciata nella sua più ampia
+liberalità, né l'Unionista l'ha mai assorbita nella sua più completa unificazione.
+Essa rimane del tutto al di fuori di noi, una cosa da fissare come una mucca
+fatata; e di gran lunga il più saggio visitatore inglese è colui che si limiterà
+a fissarla. Presto o tardi vedrà che cosa significa; ed è semplicemente questo:
+che, sia essa un caso da coercizione o da emancipazione (e potrebbe essere usata
+in entrambi i sensi), il fatto è che un'Irlanda libera non solo _non_ sarebbe ciò
+che noi chiamiamo senza legge, ma potrebbe non essere nemmeno ciò che noi
+chiamiamo libera. Lungi dall'essere un'anarchia, sarebbe una civiltà ordinata e
+persino conservatrice, come quella cinese. Ma sarebbe una civiltà così
+radicalmente diversa dalla nostra, che i nostri liberali ne differirebbero tanto
+quanto i nostri conservatori. La giusta domanda per un inglese è se quella
+differenza fondamentale renderebbe pericolosa la divisione; essa ha già reso
+impossibile l'[[Union|unione]]. Ora, riordinando questi appunti di una visita
+tanto breve, [[Suffering|soffrendo]] di tutta la stantìa fretta del mio mestiere
+giornalistico, sono stato in [[Doubt|dubbio]] tra un ordine cronologico e uno
+logico degli eventi. Ma ho deciso a favore della [[logic|logica]], dell'alta luce
+che davvero rivelava il quadro, e alla quale credo fermamente si debba guardare
+ogni altra cosa. E se qualcuno mi chiedesse quale sia stata la vista che più mi
+colpì in Irlanda, tanto per stranezza quanto per significato, saprei che cosa
+rispondere. La vidi molto dopo aver visto le città irlandesi, dopo aver avvertito
+qualcosa della brillante amarezza di Dublino e dello stagnante ottimismo di
+Belfast; ma la pongo qui per prima perché sono certo che senza di essa tutto il
+resto è privo di senso; che essa sta dietro ogni politica, enorme e silenziosa,
+come le grandi colline stanno oltre Dublino.
+Procedevo su un'automobile a nolo lungo una [[Road|strada]] del Nord-Ovest, verso
+la metà di quel piovoso [[Autumn|autunno]]. Non procedevo molto in fretta; perché
+l'andatura era rallentata fino a divenire una solenne processione da folle di
+famiglie che, coi loro armenti e il loro bestiame, si recavano al mercato più
+oltre; il che pure è un'[[Allegory|allegoria]]. Ma ciò che colpì la mia mente e vi
+rimase impresso fu questo: che per tutto un lato della [[Road|strada]], fin dove
+giungemmo, il raccolto era stato radunato con ordine e al sicuro; e per tutto
+l'altro lato della [[Road|strada]] marciva sotto la pioggia. Ora, il lato dove
+esso era al sicuro era una fila di piccoli appezzamenti lavorati da proprietari
+contadini, meschini secondo i nostri criteri quanto una fila delle più modeste
+villette. La terra su cui tutto il raccolto andava perduto era la terra di una
+grande tenuta moderna. Chiesi perché il proprietario fosse più in ritardo dei
+contadini con la mietitura; e mi fu risposto piuttosto vagamente che c'erano stati
+scioperi e simili agitazioni operaie. Non entrai nel merito della questione; ma il
+punto qui è che, qualunque fosse il torto o la ragione, la morale è la stessa.
+Potete maledire il crudele proprietario capitalista, o inveire contro i teppisti
+scioperanti bolscevichi; ma dovete ammettere che, tra loro due, avevano prodotto
+un arresto, che la piccola proprietà contadina, a pochi metri di distanza, non
+produceva. Potreste sostenere l'uno o l'altro là dove erano in conflitto, ma non
+potreste negare il senso in cui essi si erano uniti, e uniti per impedire ciò che
+pochi rustici dall'altra parte della [[Road|strada]] sapevano unirsi a produrre.
+Poiché tutto ciò su cui in Inghilterra concordiamo e discordiamo, tutto ciò per
+cui combattiamo e tutto ciò che ci divide, le nostre tenebre e la nostra luce, il
+nostro cielo e il nostro inferno, stavano là, sul lato sinistro della
+[[Road|strada]]. Sul lato destro della [[Road|strada]] giaceva qualcosa di così
+diverso che noi non ne differiamo nemmeno. Può darsi che i Trust si ergano come
+torri d'oro e di ferro, adombrando la terra e oscurando il sole; ma si ergono
+soltanto sul lato sinistro della [[Road|strada]]. Può darsi che i Sindacati stiano
+tracciando labirinti d'insurrezione internazionale, cantine colme della dinamite
+di una [[democracy|democrazia]] meramente distruttiva; ma tutto quel dedalo
+internazionale giace sul lato sinistro della [[Road|strada]]. L'occupazione e la
+disoccupazione sono là; Marx e la Scuola di Manchester sono là. Il lato sinistro
+della [[Road|strada]] potrà anche attraversare sue proprie stupefacenti
+trasformazioni; la sua storia potrà scavalcare abissi di anarchia; ma non varcherà
+mai la [[Road|strada]]. La tenuta del proprietario potrà diventare una sorta di
+Utopia à la Morris, organizzata comunitariamente dai Socialisti, o più
+probabilmente dai Socialisti corporativi. Potrà (come [[Fear|temo]] sia assai più
+probabile) passare, attraverso lo stadio del villaggio modello padronale, alla
+condizione di un antico stato schiavista pagano. Ma i contadini dall'altra parte
+della [[Road|strada]] non solo rifiuterebbero lo Stato Servile, ma rifiuterebbero
+con altrettanta risolutezza l'Utopia. L'Europa può sembrare lacerata da un capo
+all'altro dallo squillo di una tromba bolscevica, che separa il borghese dal
+proletario; ma il contadino dall'altra parte della [[Road|strada]] non è né un
+borghese né un proletario. L'Inghilterra può sembrare lacerata da un'inconciliabile
+rivalità tra Capitale e Lavoro; ma il contadino dall'altra parte della
+[[Road|strada]] è al tempo stesso un capitalista e un lavoratore. Egli è parecchie
+altre cose curiose; compreso l'uomo che ha raccolto per primo i suoi frutti; che è
+stato, alla lettera, il primo sul campo.
+Per un inglese, e specialmente per un londinese, questo era come giungere
+all'angolo di una via di [[London|Londra]] e trovare il poliziotto in cenci, con
+una toppa ai calzoni e uno sgorbio di sporco in faccia; mentre lo spazzino del
+crocevia sfoggiava un monocolo e un abito appena uscito da un sarto del West End.
+In verità, era quasi sorprendente quanto un pagliaio ambulante o una mucca
+parlante. Ciò che di solito era squallido, lento e scalcagnato, qui era
+relativamente lindo e puntuale; ciò che era ordinato e organizzato era tardivo e
+sfasciato. Poiché bisogna comprendere con nettezza che i proprietari contadini
+riuscirono qui non solo perché erano realmente proprietari, ma perché erano
+soltanto contadini. Fu _perché_ operavano su piccola scala che ottennero un
+grande [[success|successo]]. Fu perché erano troppo poveri per avere servitori che
+si arricchirono a dispetto degli scioperanti. Era, per quanto valeva, la più netta
+smentita possibile di tutto ciò che si dice in Inghilterra, tanto dai Collettivisti
+quanto dai Capitalisti, sull'efficienza della grande organizzazione. Poiché, nella
+misura in cui aveva fallito, aveva fallito per l'appunto non solo per l'esser
+grande, ma per l'esser organizzata. Sul lato sinistro della [[Road|strada]] la
+grande [[Machine|macchina]] aveva cessato di funzionare, _perché_ era una grande
+[[Machine|macchina]]. I piccoli uomini lavoravano ancora, perché non erano
+macchine. Tali erano le strane relazioni tra le due cose, che le [[Stars|stelle]]
+nei loro corsi combattevano contro il Capitalismo; che le nubi stesse,
+[[rolling|rotolando]] su quella valle rocciosa, guerreggiavano per i suoi pigmei
+contro i suoi giganti. La pioggia cade ugualmente sui giusti e sugli ingiusti;
+eppure qui non era caduta ugualmente sui ricchi e sui poveri: era caduta a rovina
+dei ricchi.
+Ora io, come opinione personale, credo davvero che il lato destro della
+[[Road|strada]] fosse veramente il lato giusto della [[Road|strada]]. Vale a dire,
+credo che esso rappresentasse il lato giusto della questione; che questi piccoli
+contadini affaccendati avessero afferrato il vero segreto, che sfugge tanto al
+Capitalismo quanto al Collettivismo. Ma non sto qui a imporre le mie preferenze ai
+miei connazionali; e non mi preme in primo luogo far notare che questo è un
+argomento contro il Capitalismo e il Collettivismo. Ciò che invece faccio notare è
+che esso è l'argomento fondamentale contro l'Unionismo. Forse è, su quel piano
+ultimo, il solo argomento contro l'Unionismo; il che è probabilmente il motivo per
+cui non viene mai usato contro gli unionisti. Intendo, naturalmente, che non fu mai
+davvero usato contro gli unionisti inglesi dai [[Home]] Rulers inglesi, nelle
+recriminazioni di quella [[Irish Question|questione irlandese]] che era in realtà
+una questione inglese. Ciò che si esigeva essenzialmente da quella questione era
+soltanto che rimanesse una questione aperta; una cosa piuttosto simile a una ferita
+aperta. La moderna società industriale ama i problemi, e perciò non ama affatto le
+soluzioni. Basterà considerare coloro che hanno realmente compreso questo fatto
+fondamentale per mostrare quanto siano confuse e inutili, in tale materia, le
+semplici etichette di partito. George Wyndham era un unionista che fu deposto
+perché era un [[Home]] Ruler. Sir Horace Plunkett è un unionista di cui ci si fida
+perché è un [[Home]] Ruler. Di gran lunga l'atto di Nazionalismo più rivoluzionario
+che sia mai stato davvero compiuto per l'Irlanda fu compiuto da Wyndham, che era uno
+squire Tory inglese. E di gran lunga l'atto di Unionismo più brutale e insensato che
+sia mai stato imposto all'Irlanda fu imposto in nome della teoria Radicale del
+Libero Scambio, quando le giurie irlandesi pronunciarono verdetti di omicidio
+volontario contro Lord John Russell. Dico questo per mostrare che il mio senso di
+una realtà è del tutto indipendente dall'accidente personale che io stesso sia
+sempre stato un Radicale nella politica inglese, [[Well|oltre]] che un [[Home]]
+Ruler nella politica irlandese. Ma lo dico ancor più per ribadire che gli inglesi
+devono anzitutto dimenticare tutte le loro vecchie formule e guardare a un fatto
+nuovo. Non è un fatto nuovo; ma è nuovo per loro.
+Per comprenderlo, dobbiamo uscire non solo dai partiti britannici, ma dall'Impero
+britannico, dall'intero universo del britannico comune. La vera questione può essere
+enunciata con facilità, perché è tanto semplice quanto vasta. Che cosa ne sarà delle
+popolazioni contadine d'Europa, o, se è per questo, del mondo intero? Sarebbe assai
+meglio, come ho già suggerito, se potessimo considerarla come un caso nuovo di una
+qualche contadinanza in Europa, o in qualche altro luogo del mondo. Sarebbe assai
+meglio se smettessimo di parlare di Irlanda e Scozia, e cominciassimo a parlare di
+Irlanda e Serbia. Chiamiamo, per amore della nostra tranquillità mentale, questo
+sventurato popolo Sloveni. Ma rendiamoci conto che questi remoti Sloveni sono, per
+testimonianza di ogni viaggiatore veritiero, radicati nell'abitudine della proprietà
+privata, e ora maturano verso una considerevole prosperità privata. Sarà spesso
+necessario ricordare che gli Sloveni sono cattolici romani; e che, con quell'impaziente
+combattività che contraddistingue il temperamento sloveno, hanno spesso fatto ricorso
+alla violenza, ma sempre per il ripristino di ciò che consideravano un ragionevole
+sistema di proprietà privata. Ora, in cento distretti decisivi, dei quali la Francia è
+il più famoso, questo sistema ha prosperato. Ha i suoi difetti [[Well|oltre]] che i
+suoi meriti; ma ha prosperato. Che cosa ne sarà? Mi limiterò qui a dire, con la più
+salda certezza, ciò che non gli accadrà. Non sarà _davvero_ governato da Socialisti; e
+non sarà davvero governato da principi mercanti, come quelli che governarono
+[[Venice|Venezia]] o come quelli che governano l'Inghilterra. Non è tanto che
+l'Inghilterra non dovrebbe governare l'Irlanda, quanto che l'Inghilterra non può. Non è
+tanto che gli inglesi non possano governare gli irlandesi, quanto che i mercanti non
+possono governare i contadini. Non è soltanto che abbiamo dispensato benefici
+all'Inghilterra e colpi all'Irlanda. È che i nostri benefici per l'Inghilterra
+sarebbero colpi per l'Irlanda. E questo cominciammo già ad ammetterlo in pratica, prima
+ancora d'aver anche solo vagamente cominciato a concepirlo in teoria. Non lo ammettiamo
+soltanto in leggi speciali contro l'Irlanda, come i Coercion Acts, o in leggi speciali a
+favore dell'Irlanda, come i Land Acts; lo si ammette ancor più esentando specialmente
+l'Irlanda che non studiandola specialmente. In altre parole, qualunque cosa vogliano gli
+unionisti, non vogliono unire; non sono poi tanto folli. Io stesso non riesco a
+concepire alcuno scopo nell'avere un solo parlamento se non quello di approvare una sola
+legge; e una sola legge per l'Inghilterra e l'Irlanda è semplicemente qualcosa che
+diventa ogni giorno più follemente impossibile. Se le due società fossero immobili,
+sarebbero abbastanza separate; ma si muovono entrambe rapidamente in direzioni opposte.
+L'Inghilterra può muoversi verso una condizione che alcuni chiamano Socialismo, e che io
+chiamo [[Slavery|Schiavitù]]; ma qualunque cosa sia, l'Irlanda se ne allontana sempre
+più velocemente. Qualunque cosa sia, gli uomini che la gestiscono saranno capaci di
+gestire una contadinanza europea non più di quanto i contadini di queste capanne di fango
+sarebbero capaci di gestire la Borsa. Ogni tentativo, imperiale o internazionale che sia,
+di ammassare questi contadini insieme a una qualche cosa vasta e informe chiamata Lavoro,
+fa parte di un'illusione cosmopolita che vede l'umanità come una carta geografica. Il
+mondo dell'Internazionale è una pillola, altrettanto rotonda e altrettanto piccola. È
+vero che tutti gli uomini vogliono la salute; ma non è certo vero che tutti gli uomini
+vogliano la stessa medicina. Concediamo pure al cosmopolita di passare in rassegna il
+mondo dalla Cina al Perù; ma non concediamo al farmacista di identificare l'oppio cinese
+con la corteccia peruviana.
+Il mio parallelo sugli Sloveni era solo una fantasia; eppure posso dare un parallelo
+reale, tratto dagli Slavi, che è un fatto. Era un fatto tratto dalla mia esperienza in
+Irlanda; ed illustra esattamente le vere simpatie internazionali dei contadini. Il loro
+internazionalismo non ha nulla a che vedere con l'Internazionale. Non ero in Irlanda da
+molte ore quando parecchie persone mi accennarono con notevole eccitazione a certe
+notizie dal Continente. Non stavano, per quanto strano possa sembrare, danzando di gioia
+per il disastro di Caporetto, né ardendo d'ammirazione per il
+[[Crown|Principe Ereditario]]. Pochi si rallegravano davvero delle sconfitte
+inglesi; e nessuno si
+rallegrava davvero delle vittorie tedesche. Erano notizie sui bolscevichi; ma non la
+notizia di quanto nobilmente avessero dato il voto alle donne russe, né di quanto
+ferocemente avessero scaricato pallottole contro le principesse russe. Era la notizia di
+uno scacco ai bolscevichi; ma non un'esaltazione di Kerensky o di Korniloff, o di uno
+qualsiasi degli eroi da giornale che sembrano averci soddisfatti tutti, purché il loro
+nome cominciasse con la K e nessuno sapesse nulla di loro. In breve, non era nulla che si
+potesse trovare in tutta la miriade dei nostri articoli di giornale sull'argomento.
+Concederei a un inglese colto cento tentativi per indovinare che cosa fosse; ma, anche se
+lo sapesse, non saprebbe che cosa significasse. Era apparsa nel piccolo giornale sui
+prodotti contadini, condotto con tanto successo dal signor George Russell, il celebre
+«A. E.», e mi fu riferita con ardore dal poeta stesso, da un dotto e brillante gesuita, e
+da parecchie altre persone, come la grande notizia dall'Europa. Era semplicemente la
+notizia che i Socialisti ebrei del [[government|Governo]] bolscevico avevano tentato di
+confiscare i risparmi dei contadini nelle banche cooperative; ed erano stati costretti a
+desistere. E ne parlavano come di una grande battaglia vinta sul Danubio o sul Reno.
+Questo è ciò che intendo quando dico che questa gente è di un medesimo stampo e appartiene
+a un sistema che taglia trasversalmente tutte le nostre divisioni politiche. Si sentivano
+combattere i Socialisti con tanta ferocia quanta ne possa sentire qualsiasi Capitalista;
+ma sapevano non solo contro che cosa combattevano, bensì anche per che cosa; il che è più
+di quanto sappia il Capitalista. Non so fino a che punto l'Europa moderna mostri davvero
+una minaccia di Bolscevismo, o fino a che punto soltanto un panico di Capitalismo. Ma so
+che, se una qualche onesta resistenza dovrà essere opposta alla pura rapina, la resistenza
+dell'Irlanda sarà la più onesta, e probabilmente la più importante. Può darsi che l'Israele
+internazionale scagli contro di noi, dall'Oriente, una folle semplificazione
+dell'[[unity|unità]] dell'Uomo, come un tempo l'[[Islam]] scagliò dall'Oriente una folle
+semplificazione dell'[[unity|unità]] di Dio. Se così sarà, è là dove la proprietà è
+[[Well|ben]] distribuita che essa sarà [[Well|ben]] difesa. Il posto d'[[Honour|onore]]
+spetterà a coloro che combattono in tutta [[Truth|verità]] per la propria terra. Se mai
+venisse contro di noi una tale carica di dervisci selvaggi, sarebbero i carri e gli
+elefanti della plutocrazia a rotolare nella confusione e nella rotta; e i quadrati della
+fanteria contadina resterebbero saldi.
+Comunque sia, il primo fatto da comprendere è che abbiamo a che fare con una contadinanza
+europea; e sarebbe davvero meglio, come dico, pensarla anzitutto come una contadinanza
+continentale. Vi sono innumerevoli importanti deduzioni da questo fatto; ma vi è un punto,
+politicamente attuale e urgente, che [[Well|ben]] posso toccare qui. Sarà [[Well|bene]]
+comprendere, riguardo a questa contadinanza, qualcosa che generalmente fraintendiamo,
+persino a proposito di una contadinanza continentale. I turisti inglesi in Francia o in
+[[Italy|Italia]] commettono comunemente l'errore di supporre che la gente imbrogli, perché
+la gente contratta, o tenta di contrattare. Quando un contadino chiede dieci pence per
+qualcosa che ne vale quattro, il turista fraintende l'intero problema. Di solito lo
+risolve dando del ladro a quell'uomo e pagando i dieci pence. Vi sono diecimila errori in
+ciò, a cominciare dall'errore primario di un'oligarchia, quello di trattare un uomo da
+servo quando egli si sente piuttosto un piccolo signore. Il contadino non intende ricevere
+insulti; ma non si aspettava mai di ricevere dieci pence. Un uomo che lo capisse
+proporrebbe semplicemente due pence, in modo calmo e cortese; e i due finirebbero per
+incontrarsi a metà strada a un prezzo perfettamente giusto. Non vi sarebbe, all'inizio,
+ciò che chiamiamo un prezzo fisso, ma vi sarebbe, alla fine, un prezzo fissato con grande
+fermezza: vale a dire, l'accordo, una volta concluso, sarebbe un contratto sacralmente
+sigillato. Il contadino, lungi dall'imbrogliare, ha un suo orrore dell'imbroglio; e
+certamente un suo furore nell'essere imbrogliato. Ora, nel patto politico con gli inglesi,
+gli irlandesi pensano semplicemente d'essere stati imbrogliati. Pensano che l'[[Home]]
+Rule sia stata loro sottratta _dopo_ che il contratto era stato sigillato; e sarà
+difficile per chiunque contraddirli. Se «_le Roi le veult_» non è un sigillo sacro su un
+contratto, che cosa lo è? Il sentimento è tanto più forte in quanto il contratto era un
+compromesso. L'[[Home]] Rule era i quattro pence e non i dieci; e, in perfetta fedeltà al
+codice d'[[Honour|onore]] del contadino, essi sono ora tornati ai dieci pence. Gli
+irlandesi sono ora tornati, in un moto di collera, alle loro rivendicazioni più estreme;
+_non_ perché negammo ciò che chiedevano, ma perché negammo ciò che avevamo accettato.
+Come avrò occasione di notare, vi sono altri e più selvaggi elementi nella contesa; ma il
+primo fatto da ricordare è che la contesa cominciò con un patto, che probabilmente dovrà
+finire con un altro patto; e che sarà un patto con dei contadini. Nel complesso, malgrado
+abominevoli errori e la cattiva [[Faith|fede]], credo che vi sia ancora una possibilità di
+trattare, ma dobbiamo badare che non vi sia possibilità di imbrogliare. Possiamo
+mercanteggiare come contadini, e ricordare che la loro prima offerta non è necessariamente
+l'ultima. Ma dobbiamo essere onesti come contadini; e questo è molto arduo per i politici.
+Il grande Parnell, uno squire che possedeva molte delle qualità di un contadino (qualità
+che gli inglesi fraintesero tanto follemente da crederle inglesi, quando erano in realtà
+assai irlandesi), convertì il suo popolo da un Fenianismo più feroce del Sinn Fein a un
+[[Home]] Rule più moderato di quello che una sana arte di governo potrebbe oggi offrire
+all'Irlanda. Ma i contadini si fidavano di Parnell, non perché pensassero che lo stesse
+chiedendo, ma perché pensavano che potesse ottenerlo. Qualunque cosa decidiamo di dare
+all'Irlanda, dobbiamo darla; ormai è peggio che inutile prometterla. Dirò qui, una volta
+per tutte, la cosa più dura che un inglese abbia da dire delle sue impressioni su un altro
+grande popolo europeo: che su tutte quelle colline e valli la nostra parola è
+[[Wind|vento]], e il nostro impegno è carta straccia.
+Ma, in ogni caso, la contadinanza rimane: e tutto il peso della questione sta nel fatto
+che rimarrà. È molto più certo che rimanga essa di qualsiasi sistema commerciale o
+coloniale che dovrà trattare con lei. Possiamo onestamente ritenere che l'Impero
+britannico sia insieme più liberale e più duraturo dell'Impero austriaco, o di altre
+grandi combinazioni politiche. Ma una combinazione come l'Impero austriaco potrebbe andare
+in pezzi, e dieci simili combinazioni potrebbero andare in pezzi, prima che gente come i
+Serbi cessasse di [[Desire|desiderare]] d'essere contadini, e di esigere d'essere
+contadini liberi. E la combinazione britannica, proprio perché è una combinazione e non
+una comunità, è per sua [[Nature|natura]] più fiacca e soggetta a un vero scisma di quanto
+non lo sia questa sorta di comunità, che si potrebbe quasi chiamare una comunione. Ogni
+attacco contro di essa è come un tentativo di abolire l'erba; la quale non solo ne è il
+simbolo nella vecchia [[Song|canzone]] nazionale, ma ne è un simbolo verissimo in ogni
+nuova [[history|storia]] filosofica; simbolo della sua uguaglianza, della sua ubiquità,
+della sua molteplicità e della sua possente capacità di ritornare. Combattere contro
+l'erba è combattere contro Dio; possiamo soltanto amministrare tanto male la nostra
+[[City|città]] e la nostra cittadinanza, che l'erba cresca nelle nostre stesse strade. E
+anche allora saranno le nostre strade a essere morte; e l'erba sarà ancora viva.

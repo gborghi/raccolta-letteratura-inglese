@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/irish-impressions-(chesterton)">Irish Impressions</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/irish_impressions/story_03_the_family_and_the_feud">‹ Story 03 The Family and the Feud</a><a class="ex-next" href="/testi/chesterton/atomized/irish_impressions/story_05_the_englishman_in_ireland">Story 05 The Englishman in Ireland ›</a></div>
@@ -389,3 +391,317 @@ as from a secret throne comes the awful voice out of the vineyard;
 the voice of this manner of man in every age and nation:
 "The Lord forbid that I should give the inheritance of my
 fathers unto thee."
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/irish-impressions-(chesterton)">Irish Impressions</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/irish_impressions/story_03_the_family_and_the_feud">‹ Story 03 The Family and the Feud</a><a class="ex-next" href="/testi/chesterton/atomized/irish_impressions/story_05_the_englishman_in_ireland">Story 05 The Englishman in Ireland ›</a></div>
+</nav>
+
+IV. Il [[Paradox|paradosso]] del lavoro
+
+La mia prima impressione generale e visiva dell'isola verde fu che essa non era
+verde bensì bruna; che era addirittura bruna di kaki. È una di quelle esperienze
+che non si possono confondere con le aspettative; il genere di piccola cosa che si
+vede ma non si prevede nelle visioni verbali dei libri e dei giornali. Sapevo,
+naturalmente, che avevamo una guarnigione a Dublino, ma non avevo idea che fosse
+così evidente per tutta Dublino. Non avevo idea che si fosse ritenuto necessario
+occupare il paese con tanta forza, o con tanta ostentazione di forza. E il primo
+pensiero che mi balenò per la mente trovò parole in questa sola frase: «Quanto
+sarebbero stati utili questi uomini sulla breccia di San Quintino».
+Poiché andai a Dublino verso la fine del 1918, e non molto dopo quei giorni
+tremendi che condussero alla fine della guerra, e che parevano piuttosto la fine
+del mondo. Aleggiava ancora nell'[[Imagination|immaginazione]], come sopra un vuoto
+d'orrore, quella linea che era l'ultima catena della cavalleria del mondo; e la
+[[Memory|memoria]] del giorno in cui parve che il nostro nome e la nostra
+[[Greatness|grandezza]] e la nostra gloria crollassero dinanzi all'annientamento
+venuto dal nord. Non si può certo biasimare l'Irlanda se non ha mai saputo quanto
+nobile fosse l'Inghilterra in pericolo in quell'ora; o per che cosa, al di là di
+ogni impero, fossimo angosciati, quando, sotto una nube di fitta tenebra, sentimmo
+quasi le sue antiche fondamenta muoversi sul fondo del mare. Ma io, quanto meno da
+inglese, lo sapevo; e fu per l'Inghilterra e non per l'Irlanda che provai questa
+prima impazienza e questa tragica ironia. Avevo sempre dubitato della politica
+militare che culminò nella coscrizione irlandese, e per ragioni puramente militari.
+Se una qualche politica degli inglesi meritasse d'essere chiamata, nel senso
+proverbiale, irlandese, credo fosse questa. Consisteva nello sprecare truppe in
+Irlanda perché ci servivano in Francia. Provai il medesimo senso di fastidio,
+puramente patriottico e persino bellicoso, che si mescolava al mio senso di pathos,
+alla vista della devastazione della grande via di Dublino, che era stata bombardata
+dalle truppe britanniche durante la Rivolta di Pasqua. Mi affliggeva che una tale
+cannonata fosse mai stata diretta contro gli irlandesi; ma ancor più mi affliggeva
+che non fosse stata diretta contro i tedeschi. La questione della necessità del
+pesante attacco, come la questione della necessità del grande esercito d'occupazione,
+è naturalmente legata alla [[history|storia]] della Rivolta di Pasqua stessa. Quello
+strano e drammatico evento, che giunse tanto inatteso all'Irlanda nazionalista quanto
+all'Inghilterra unionista, non fa parte delle mie esperienze, e non dogmatizzerò su
+un problema così oscuro. Ma dirò di sfuggita che sospetto un certo fraintendimento
+della sua stessa [[Nature|natura]] essere comune a entrambe le parti. Tutto sembra
+indicare il [[Paradox|paradosso]] che i ribelli avevano tanto meno bisogno di essere
+vinti, in quanto miravano in realtà a essere vinti, piuttosto che a essere vincitori.
+In senso morale erano certamente eroi, ma [[Doubt|dubito]] che si aspettassero di
+essere eroi vincitori. Desideravano essere martiri, nel senso greco e letterale;
+volevano non tanto vincere quanto testimoniare. Pensavano che nient'altro se non i
+loro corpi morti potesse davvero provare che l'Irlanda non era morta. Fino a che
+punto questo [[Sublime|sublime]] e suicida ideale fosse davvero utile a ravvivare
+l'entusiasmo nazionale, spetta agli irlandesi giudicarlo; io avrei detto che
+l'entusiasmo c'era comunque. Ma se una tale azione si fonda su speranze internazionali,
+per quanto riguardano l'Inghilterra o gran parte dell'[[America]], mi pare che essa
+poggi su un errore riguardo ai fatti. Avrò occasione di notare molti errori inglesi
+sugli irlandesi; e questo mi pare un assai notevole errore irlandese sugli inglesi.
+Se noi spesso ci sbagliamo del tutto sulla loro mentalità, essi si sbagliavano
+altrettanto sul nostro sbaglio. E, cosa abbastanza curiosa, fallirono per non aver
+saputo l'unico complimento che davvero avevamo sempre reso loro. Il loro atto
+presupponeva che il [[Courage|coraggio]] irlandese avesse bisogno di prove; e non ne
+ebbe mai bisogno. Ho udito le più orribili assurdità dette contro l'Irlanda prima
+della guerra; e non udii mai inglesi [[Doubt|dubitare]] del valore militare irlandese.
+Ciò di cui invece [[Doubt|dubitavano]] era la [[Sanity|sanità]] politica irlandese.
+Si vedrà subito che l'azione di Pasqua poteva soltanto smentire il pregiudizio che
+non avevano; e in realtà confermò il pregiudizio che avevano. L'accusa contro
+l'irlandese non era una mancanza di audacia, ma piuttosto un eccesso di essa. Gli
+uomini avevano ragione nel crederlo coraggioso, e non potevano avere più ragione. Ma
+avevano torto nel crederlo pazzo, ed ebbero un'eccellente occasione per avere ancor
+più torto. Poi, quando il tentativo di combattere contro l'Inghilterra si sviluppò,
+per sua propria [[logic|logica]], in un rifiuto di combattere per l'Inghilterra, gli
+uomini tolsero il numero che avevano dapprima pensato; e, irritati, giunsero a negare
+ciò che in origine non si erano mai sognati di mettere in dubbio. In ogni caso, questo
+era, credo, lo stato d'animo con cui la minoranza dei veri sinnfeiniani cercò il
+[[Martyrdom|martirio]]. Io, per parte mia, non irriderò mai a un simile movente; ma
+esso non sarebbe certo assurto a un movimento tanto grande, se non fosse stato per
+un'altra forza che si trovò ad allearsi con loro. È per amore di questa che ho qui
+cominciato con la [[Tragedy|Tragedia]] di Pasqua stessa; poiché, considerando questa,
+giungiamo al [[Paradox|paradosso]] del Lavoro irlandese.
+Alcune delle mie osservazioni sulla stabilità e persino sulla quiete di una società
+contadina potranno sembrare esagerate alla luce di un'agitazione operaia che scoppia
+in Irlanda come altrove. Ma ho ragioni particolari e persino personali per considerare
+quell'agitazione come l'eccezione che conferma la regola. Fu lo sfondo del paesaggio
+contadino a fare dello sciopero di Dublino quel peculiare genere di dramma che fu; e
+ciò operò in due modi: primo, isolando il capitalista industriale come qualcosa di
+eccezionale e quasi fanatico; e, secondo, rinforzando il proletariato con una vaga
+tradizione di proprietà. Le mie simpatie erano tutte per Larkin e Connolly contro il
+defunto signor Murphy; ma è curioso notare che persino il signor Murphy era un tipo
+d'uomo assai diverso dal Lord Qualcuno che è a capo di un consorzio commerciale in
+Inghilterra. Somigliava assai più a qualche morboso principe del Quattrocento, colmo
+di freddo sdegno, non senza una pietà pervertita. Ma le prime poche parole che udii
+sul suo conto in Irlanda erano piene di quel vasto e vago fatto che ho cercato di
+porre in cima alle mie impressioni. L'ho chiamato la famiglia; ma esso comprende molte
+cose affini: la giovinezza e le vecchie amicizie, per non dire delle vecchie liti. Lo
+si potrebbe definire più compiutamente come un realismo intorno alle origini. Le prime
+cose che udii su Murphy erano fatti della sua giovinezza dimenticata, o di una
+giovinezza che in Inghilterra sarebbe stata dimenticata. Erano racconti su amici dei
+suoi giorni più poveri, con i quali s'era messo a portare avanti una più o meno
+sentimentale vendetta contro qualcuno. Si supponga che, ogni volta che parliamo dei
+magazzini Harrod, udissimo dapprima parlare dei [[Dreams|sogni]] a occhi aperti del
+giovane Harrod. Si supponga che la menzione della Guida Ferroviaria di Bradshaw
+suscitasse racconti di faide e di primo [[Love|amore]] nella prima vita del signor
+Bradshaw, o persino della signora Bradshaw. Questa è l'atmosfera, da sentire più che
+da descrivere, che uno straniero in Irlanda si sente attorno. Il giornalismo e i
+pettegolezzi inglesi, trattando di uomini d'affari inglesi, sono spesso precisi sul
+presente e profetici sul futuro, ma di rado loquaci sul passato; et pour cause. Ci
+diranno dove il capitalista sta andando, se alla [[house|Camera]] dei Lord, o a Monte
+Carlo, o, per illazione, in cielo; ma dicono il meno possibile su da dove egli venga.
+In Irlanda un uomo si porta dietro la dimora avita come una lumaca; e il
+[[Ghost|fantasma]] di suo padre lo segue come la sua [[Shadow|ombra]]. Tutto ciò che
+di buono e di cattivo si poteva dire fu detto, non solo su Murphy, ma sui Murphy. Un
+aneddoto del vecchio Parlamento irlandese descrive un oratore che alludeva con grazia
+alla presenza della sorella di un avversario nella tribuna delle signore, augurando
+che l'ira colpisse l'intera maledetta stirpe «dalla vecchia strega sdentata che ghigna
+nella tribuna, al vigliacco dal fegato bianco che trema in aula». La storia si racconta
+di solito come suggerimento della piuttosto selvaggia disunione dei partiti irlandesi;
+ma è un suggerimento altrettanto serio dell'[[Union|unione]] delle famiglie irlandesi.
+In effetti, il grande Sciopero di Dublino, una conflagrazione le cui braci ardevano
+ancora al [[Time|tempo]] della mia visita, comportò un altro episodio che illustra
+ancora una volta questo ricorrente principio della realtà della famiglia in Irlanda.
+Alcuni Socialisti inglesi, si ricorderà, mossi da un'onorevole pietà per le povere
+famiglie che pativano la fame durante lo sciopero, avanzarono la proposta di portar
+via i bambini e di nutrirli come si deve in Inghilterra. Avrei pensato che il corso
+più naturale sarebbe stato dare denaro o cibo ai genitori. Ma i filantropi, essendo
+inglesi ed essendo Socialisti, avevano probabilmente fiducia in ciò che si chiama
+organizzazione e diffidenza di ciò che si chiama [[Charity|carità]]. Si suppone che la
+[[Charity|carità]] renda un uomo dipendente; mentre in realtà la [[Charity|carità]] lo
+rende indipendente, in confronto alla squallida dipendenza di solito prodotta
+dall'organizzazione. La [[Charity|Carità]] dà proprietà, e perciò libertà. Vi è
+manifestamente assai più emancipazione nel dare a un mendicante uno scellino da
+spendere, che nel mandargli dietro un funzionario a spenderlo per lui. I Socialisti,
+tuttavia, avevano placidamente predisposto la deportazione di tutti i bambini poveri,
+quando si trovarono, con loro stupore, di fronte alla realtà rovente chiamata la
+religione dell'Irlanda. I preti e le famiglie dei fedeli si organizzarono per una
+furiosa agitazione, adducendo che la [[Faith|fede]] sarebbe andata perduta in case
+straniere ed eretiche. Non si accontentarono della rassicurazione, offerta con ardore
+da alcuni dei Socialisti, che la [[Faith|fede]] non sarebbe stata toccata; e, come
+questione di pensiero limpido, credo che avessero perfettamente ragione. Coloro che
+offrono una simile rassicurazione non hanno mai riflettuto su che cosa sia una
+religione. Nutrono la straordinaria idea che la religione sia un argomento di
+conversazione. Pensano che la religione sia una cosa come i ravanelli, che si possono
+evitare per tutto il corso di una data conversazione con una data persona, che la
+menzione di un ravanello potrebbe far contorcere d'ira o d'angoscia. Ma una religione
+è semplicemente il mondo che un uomo abita. In pratica, un Socialista che vivesse a
+Liverpool non saprebbe quando stesse, o non stesse, manomettendo la religione di un
+[[Child|bambino]] nato a Louth. Se mi si desse il controllo completo di un infante
+parsi (il che è fortunatamente improbabile), non avrei la più remota idea di quando
+incidessi più vitalmente sul sistema parsi. Ma il buon senso, e la comprensione del
+significato di una [[philosophy|filosofia]] coerente, mi indurrebbero a sospettare che
+vi incidessi a ogni minuto. Ma menziono la cosa qui, non per entrare in alcuna di
+queste dispute, ma per dare ancora un altro esempio del modo in cui l'organizzazione
+essenzialmente domestica dell'Irlanda si leverà sempre in rivolta contro qualsiasi
+altra organizzazione. Vi è qualcosa di una [[Parable|parabola]] nei racconti dei vecchi
+sfratti, in cui l'intera famiglia veniva assediata e resisteva unita, e le madri
+rovesciavano bollitori d'acqua bollente sugli assedianti; poiché qualsiasi funzionario
+che s'immischi con loro finirà di certo nell'[[Water|acqua]] calda. Non possiamo
+separare le madri dai figli in quella strana terra; possiamo soltanto tornare a
+qualcuno dei nostri più antichi metodi storici, e massacrarli insieme.
+Un piccolo episodio, tuttavia, entro la mia breve esperienza, illustrò il punto
+principale qui in gioco: il senso di una base contadina, persino nell'attacco
+proletario. E ciò fu esemplificato non in una qualche battuta d'arresto del Lavoro, ma
+piuttosto in un [[success|successo]] del Lavoro, nella misura in cui l'esito di un
+amichevole e informale [[debate|dibattito]] possa essere annoverato tra i suoi successi
+più solidi. La faccenda cominciò in origine con una sorta di sconnessa conferenza
+letteraria che tenni al Teatro di Dublino, a proposito della quale menziono soltanto
+due episodi di sfuggita, perché entrambi mi colpirono come peculiarmente autoctoni e
+nazionali. Uno riguardava soltanto il titolo del mio discorso, che era «Poesia e
+Proprietà». Un colto gentiluomo inglese, che per caso mi rivolse la parola prima
+dell'incontro, disse con l'aria di chi prevede che simili scherzi saranno la sua
+[[Death|morte]]: «[[Well|Ebbene]], ho semplicemente rinunciato a scervellarmi su che
+cosa mai possiate intendere, parlando della poesia come di qualcosa che ha a che fare
+con la proprietà». Egli considerava probabilmente l'accostamento di parole come una
+mera fantasia allitterativa, tipo Pavoni e Paddington, o Poligamia e Patate; se pure
+non la considerava come una mera combinazione di contrasti incompatibili, tipo Papismo
+e Protestanti, o Patriottismo e Politicanti. Lo stesso giorno un irlandese di analoga
+condizione sociale osservò con tutta noncuranza: «Ho appena visto il tuo argomento per
+domani. Suppongo che i Socialisti non saranno d'accordo con te», o parole di questo
+tenore. I due termini gli dissero subito, non della conferenza (che era letteraria, se
+mai era qualcosa), ma dell'intera [[philosophy|filosofia]] sottesa alla conferenza;
+tutta quella [[philosophy|filosofia]] che l'ingombrante elefante, che il signor
+[[Shaw]] chiamò il Chester-Belloc, faticosamente s'affanna a spiegare in Inghilterra,
+sotto il ponderoso titolo di Distributismo. Come una volta disse il signor Hugh Law,
+con altrettanta verità, a proposito del nostro contrapporre il patriottismo
+all'imperialismo: «Ciò che in Inghilterra è un [[Paradox|paradosso]], in Irlanda è un
+luogo comune». Il mio monologo vero e proprio, tuttavia, trattava soltanto della
+testimonianza resa dalla poesia a una certa dignità nel senso umano dei possessi
+privati, che non è certo né volgare ostentazione né volgare [[Greed|avidità]]. Il poeta
+francese della Pléiade ricorda le tegole del proprio tetto quasi come se potesse
+contarle; e il signor W. B. Yeats, nella più sfrenata visione di una
+[[Loneliness|solitudine]] remota e irresponsabile, ha cura di far capire che sa quante
+file di fagioli facciano nove. Naturalmente nel teatro c'era gente di tutti i partiti,
+sfrenati sinnfeiniani e convenzionali unionisti, ma tutti ascoltarono le mie
+osservazioni con la stessa naturalezza con cui avrebbero potuto ascoltare una conferenza
+altrettanto incompetente sulle Scimmie o sui [[Mountains|Monti]] della [[Moon|Luna]].
+Non vi era una parola di politica, tanto meno di politica di partito, in quel particolare
+discorso; esso riguardava una tradizione dell'arte, o tutt'al più dell'etica astratta. Ma
+l'unica cosa divertente che mi fa ricordare l'intero episodio fu questa: che, quando ebbi
+finito, un robusto, cordiale e corpulento gentiluomo di legge, un [[Well|ben]] noto giudice
+irlandese a quanto pare, ebbe la cortesia di proporre un voto di ringraziamento per me. E
+ciò che mi divertì di lui fu questo: che, mentre io, che sono un Radicale in simpatia con
+la leggenda rivoluzionaria, avevo tenuto un mite [[Essay|saggio]] sui poeti minori a un
+pubblico placido se non annoiato, il giudice, che era un pilastro del [[Castle|Castello]] e
+un Conservatore giurato alla legge e all'ordine, si mise con la massima energia e gioia a
+suscitare un tumulto. Sfidò i sinnfeiniani e li provocò a farsi avanti; si trascinò il
+cappotto per terra, se mai un uomo lo fece a questo mondo; glorificò l'Inghilterra; non gli
+Alleati, ma l'Inghilterra; la splendida Inghilterra, la [[Sublime|sublime]] Inghilterra (il
+tutto nel più marcato accento irlandese), la giusta, saggia e misericordiosa Inghilterra, e
+così via, sventolando ciò che non era nemmeno la [[Flag|bandiera]] del proprio paese, e una
+cosa che non aveva la più remota attinenza con l'argomento in questione, non più della
+Grande Muraglia cinese. Non occorre dire che il teatro fu presto in un fragore di proteste
+e di battute; il che, suppongo, era ciò che egli voleva. Era un allegro vecchio gentiluomo;
+e mi piaceva. Ma ciò che m'interessava di lui era questo; ed è di una certa importanza per
+la comprensione della sua nazionalità. Quel tipo d'uomo esiste in Inghilterra; ne conosco e
+ne apprezzo a decine. Spesso è un maggiore; spesso uno squire; talvolta un giudice; assai di
+rado un decano. Un uomo simile pronuncia le più ridicole assurdità reazionarie in modo
+apoplettico davanti al proprio porto; e occasionalmente, in maniera un po' ansimante, a
+un'assemblea dichiaratamente politica. Ma proprio ciò che il gentiluomo inglese non farebbe,
+e che il gentiluomo irlandese fece, sarebbe fare una scenata in un'occasione non politica;
+quando tutto ciò che doveva fare era proporre un formale voto di ringraziamento a un perfetto
+sconosciuto che parlava di Itaca e di Innisfree. Un Conservatore inglese sarebbe meno propenso
+a farlo di un Radicale inglese. La stessa cosa che lo rende convenzionalmente politico lo
+renderebbe convenzionalmente apolitico. Detesterebbe fare un discorso troppo serio in
+un'occasione troppo mondana, così come detesterebbe indossare l'abito da giorno quando tutti
+gli altri sono in abito da sera. E qualunque cappotto indossasse, di certo non se lo
+trascinerebbe per terra al solo scopo di provocare un disordine, come fece quell'allegro
+giudice irlandese. Egli mi insegnò che l'irlandese non è mai tanto irlandese come quando è
+inglese. Somigliava moltissimo ad alcuni dei sinnfeiniani che lo zittirono con le urla; e
+sarebbe lieto di sapere che mi aiutò a comprenderli con maggior simpatia.
+Mi sono allontanato dall'argomento parlando di questa inezia, ritenendo che valesse la pena
+di notare la qualità positiva e provocatoria di ogni opinione irlandese; ma mio intento era
+soltanto menzionare questa piccola disputa come introduzione a un'altra. Ebbi qualche altra
+conversazione su poesia e proprietà col signor Yeats all'Arts Club di Dublino; e anche qui
+sono tentato da questioni irrilevanti, ma per me interessanti. Poiché sono consapevole, per
+tutto il tempo, di dire meno di quanto vorrei di mille cose, la cui omissione non è del tutto
+sbadata, e tanto meno ingrata. Vi sono stati e vi saranno ritratti migliori del mio di tutta
+quella attraente società, il [[Paradox|paradosso]] di un'intellighenzia che è intelligente.
+Potrei scrivere moltissimo, non solo su coloro che stimo come miei amici, quali Katherine
+Tynan o Stephen Gwynn, ma su uomini con cui il mio incontro fu fin troppo momentaneo;
+sull'energia elfica trasmessa dal signor James Stephens; sulla [[Greatness|grandezza]] sociale
+del dottor Gogarty, che era come una leggenda letteraria del Settecento; sull'ineguagliabile
+universalismo di A. E., che ha qualcosa della presenza di William Morris, e un tipo più
+trascendentale dell'ospitalità spirituale di Walt Whitman. Ma in questo rozzo [[Sketch|abbozzo]]
+non sto cercando di dire agli irlandesi ciò che già sanno, bensì di dire agli inglesi alcune
+delle cose grandi e semplici che essi non sanno. La grande questione qui in causa è il Lavoro;
+e mi sono soffermato sugli altri punti soltanto perché essi furono i gradini che casualmente
+mi condussero al mio primo incontro con questa grande forza. E non per questo fu meno un fatto
+a sostegno della mia tesi, per il fatto d'essere in parte uno scherzo a mie spese. Nell'occasione
+che ho menzionato, una serata quanto mai esilarante all'Arts Club, il signor Yeats mi chiese di
+aprire un [[debate|dibattito]] all'Abbey Theatre, difendendo la proprietà sul suo versante più
+puramente politico. Il mio avversario era uno dei più abili tra i capi di Liberty Hall, la
+famosa roccaforte della politica operaia a Dublino, il signor Johnson, un inglese come me, ma
+meritatamente popolare presso il proletariato irlandese. Tenne un discorso quanto mai ammirevole,
+al quale non intendo recare alcun discredito dicendo che, a mio avviso, la sua popolarità
+personale ebbe ancor più peso della sua eloquenza personale. Il mio argomento si limitava al
+particolare valore della piccola proprietà come arma di [[democracy|democrazia]] militante; e si
+fondava sull'idea che il cittadino che resiste all'ingiustizia non potesse trovare alcun
+sostituto della proprietà privata, poiché ogni altro potere impersonale, per quanto democratico
+in teoria, dev'essere burocratico nella forma. Dissi, come frivola figura retorica, che affidare
+la proprietà a un qualsiasi funzionario, anche a funzionari corporativi, era come dover lasciare
+le proprie gambe al guardaroba insieme al bastone o all'ombrello. Il punto è che un uomo può
+volere le proprie gambe da un momento all'altro, per prendere a calci un uomo o per [[Dance|ballare]]
+con una signora; e il ricuperarle può essere rinviato da un qualsiasi intoppo, dalla perdita dello
+scontrino alla fuga criminale del funzionario. Così, in una crisi sociale, come uno sciopero, un
+uomo dev'essere pronto ad agire senza funzionari che possano intralciarlo o tradirlo; e domandai
+se non sarebbero riusciti molti più scioperi, se ogni scioperante avesse posseduto anche solo un
+[[Garden|orto]] per aiutarsi a vivere. Il mio avversario replicò d'essere sempre stato favorevole
+a una simile riserva di proprietà proletaria, ma di preferirla comunitaria anziché individuale; il
+che mi pare lasci il mio argomento dov'era; poiché ciò che è comunitario dev'essere ufficiale, a
+meno che non debba essere caotico. Due scherzi minori, in parte a mie spese, mi restano nella
+[[Memory|memoria]]; pare che io abbia suscitato una certa ilarità temperando una matita con un
+grandissimo coltello spagnolo, al quale tengo (per combinazione) come al dono di un prete irlandese
+che mi è amico, e che si può perciò considerare anche un'arma simbolica, una sorta di [[Sword|spada]]
+dello spirito. Se il pubblico pensasse che stessi per amputarmi le gambe a illustrazione della mia
+stessa metafora, o che stessi per tagliare la gola al signor Johnson, furibondo per non trovare
+risposta ai suoi argomenti, non lo so. L'altra cosa che mi parve buffa fu un'eccellente battuta
+dello stesso signor Johnson, che aveva detto qualcosa sullo spreco di proprietà in fucili, e che
+interruppe la mia osservazione secondo cui non vi sarebbe mai stata una buona rivoluzione senza
+fucili, gridando scherzosamente: «Tradimento». Come gli dissi in seguito, poche scene sarebbero più
+artistiche di quella di un inglese, mandato là ad arruolare per l'esercito britannico, afferrato
+per il bavero e consegnato alla giustizia (o all'ingiustizia) da un Pacifista di Liberty Hall. Ma
+per tutto lo svolgimento fui consapevole, come dico, di un sentimento popolare quanto mai reale che
+sosteneva la semplice personalità del mio avversario; come nell'ovazione che ricevette prima ancora
+di parlare, o negli applausi tributati a numerose sue battute d'attualità, allusioni che non sempre
+riuscivo a capire. Dopo l'incontro un illustre unionista del Sud, che per caso possiede terre fuori
+Dublino, mi disse: «Naturalmente, Johnson ha appena avuto un enorme [[success|successo]] nel suo
+lavoro qui. Liberty Hall ha appena fatto qualcosa che davvero non era mai stato fatto prima in tutto
+il movimento delle Trade [[Union]]. È riuscito davvero a fondare una Trade [[Union]] per i braccianti
+agricoli. Lo so, perché ho dovuto far fronte alle loro richieste. Sai quanto sia sempre stato del
+tutto impossibile fondare davvero un [[Union|sindacato]] di braccianti agricoli in Inghilterra». Lo
+sapevo bene; e sapevo anche perché fosse stato possibile fondarne uno in Irlanda. Era stato possibile
+proprio per la ragione che avevo sostenuto per tutta la sera; che dietro il proletariato irlandese vi
+era stata la tradizione di una contadinanza irlandese. Nelle loro famiglie, se non in loro stessi, vi
+era stata una qualche [[Memory|memoria]] dell'[[Love|amore]] personale per la terra. Ma mi parve
+un'ironia interessante che perfino la mia stessa sconfitta fosse un esempio della mia stessa dottrina;
+e che la [[Truth|verità]] dalla mia parte fosse provata dalla popolarità della parte avversa. La
+corporazione agricola era dovuta a un [[Wind|vento]] di [[Freedom|libertà]] che penetrava in quella
+cupa [[City|città]] da campi lontanissimi; e alla [[Truth|verità]] che perfino queste pietre
+[[rolling|rotolanti]] di un proletariato senza casa erano state da così poco staccate dalle radici
+stesse delle [[Mountains|montagne]]. In Irlanda persino l'industrialismo non è industriale. Questo è
+ciò che intendo dicendo che il Lavoro irlandese è l'eccezione che conferma la regola. Ecco perché esso
+non contraddice la mia precedente generalizzazione, secondo cui la nostra crisi capitalista sta sul
+lato inglese della [[Road|strada]]. I braccianti agricoli irlandesi possono diventare membri di una
+corporazione perché vorrebbero diventare contadini. Pensano ai ricchi e ai poveri nel modo che è
+antico quanto il mondo; il modo di Acab e di Nabot. Poco importa, in una società contadina, se Acab
+prenda la vigna privatamente come Acab, o ufficialmente come [[King|Re]] d'Israele. Importerà
+altrettanto poco, alla lunga, persino nell'altro tipo di società, se Nabot abbia un salario per
+lavorare nella vigna, o un voto che si suppone influisca in qualche modo sulla vigna. Ciò che egli
+desidera avere è la vigna; e non con apologetico cinismo o con volgari sotterfugi del tipo che gli
+affari sono affari, ma con voce di tuono, come da un trono segreto giunge la voce tremenda dalla vigna;
+la voce di questa specie d'uomo in ogni epoca e nazione: «Mi guardi il Signore dal darti l'eredità dei
+miei padri».

@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/man-orthodox-(chesterton)">Man Orthodox</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/man_orthodox/story_101_the_little_things">‹ Story 101 The Little Things</a><a class="ex-next" href="/testi/chesterton/atomized/man_orthodox/story_103_the_enemies_of_joy">Story 103 The Enemies Of Joy ›</a></div>
@@ -62,3 +64,61 @@ Our fathers said that a nation had sinned and suffered, like a man.
 We say it has decayed, like a [[cheese]].
 
                                   Illustrated [[London]] News, July 10th, 1920
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/man-orthodox-(chesterton)">Man Orthodox</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/man_orthodox/story_101_the_little_things">‹ Story 101 The Little Things</a><a class="ex-next" href="/testi/chesterton/atomized/man_orthodox/story_103_the_enemies_of_joy">Story 103 The Enemies Of Joy ›</a></div>
+</nav>
+
+L'IPPOPOTAMO E IL COCCODRILLO
+
+C'è nel libro di Giobbe una concezione centrale che
+lo rende letteralmente immortale, e che lo farà sopravvivere
+al nostro tempo moderno e alle nostre filosofie moderne, come è
+sopravvissuto a molti tempi migliori e a molte filosofie migliori.
+È la concezione secondo cui l'universo, se lo si deve ammirare,
+va ammirato per la sua stranezza e non per la sua razionalità,
+per la sua splendida irragionevolezza e non per la sua ragione.
+Gli amici di Giobbe cercano di consolarlo con un ottimismo filosofico,
+al modo degli intellettuali del diciottesimo secolo.
+Giobbe cerca di consolare se stesso con un pessimismo filosofico,
+al modo degli intellettuali del diciannovesimo secolo.
+Ma Dio consola Giobbe con un mistero indecifrabile, e per la prima
+volta Giobbe è consolato. Elifaz dà una risposta, Giobbe ne dà
+un'altra, e la domanda resta una ferita aperta.
+Dio si rifiuta semplicemente di rispondere, e in qualche modo alla domanda è data risposta.
+Giobbe scaglia contro Dio un enigma, Dio rilancia contro Giobbe cento enigmi,
+e Giobbe trova pace. È consolato con indovinelli.
+Poiché l'idea grande e duratura del poema, come si è accennato sopra,
+è che, se dobbiamo riconciliarci con questa grande esperienza cosmica,
+dovrà essere come con qualcosa di divinamente strano e divinamente violento,
+una ricerca o una congiura o qualche sacro scherzo. Gli ultimi capitoli
+del colossale monologo dell'Onnipotente sono dedicati,
+in uno stile solo in apparenza abbastanza bizzarro, alla descrizione dettagliata
+di due mostri. Behemoth e Leviatano possono essere o non essere
+l'ippopotamo e il coccodrillo. Ma qualunque cosa siano,
+sono evidentemente incarnazioni dell'enorme assurdità della natura.
+Rappresentano quel tratto cosmico che chiunque può vedere ai
+Giardini Zoologici: la follia del Signore che è saggezza.
+E a proposito di uno di essi, si fa pronunciare a Dio una splendida
+satira sulla pietà compunta e ordinata dell'ottimista volgare.
+«Scherzerai tu con lui come con un uccello? Lo legherai forse
+per le tue fanciulle?» Questo è il messaggio principale del libro di Giobbe.
+Qualunque cosa sia questo [[Monster|mostro]] cosmico, un animale buono o
+un animale cattivo, è quantomeno un animale selvaggio e non un animale addomesticato.
+È un mondo selvaggio e non un mondo addomesticato.
+
+                                          The Speaker, 9 settembre 1905
+
+MUTAMENTO E [[Decay|DECADENZA]]
+
+Tutto questo parlare di ottimismo e pessimismo è di per sé
+una caduta desolante rispetto all'antico parlare di giusto e sbagliato.
+I nostri padri dicevano che una nazione aveva peccato e sofferto, come un uomo.
+Noi diciamo che si è decomposta, come un [[cheese|formaggio]].
+
+                                  Illustrated [[London]] News, 10 luglio 1920

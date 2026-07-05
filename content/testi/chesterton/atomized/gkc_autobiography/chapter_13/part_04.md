@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/gkc-autobiography-(chesterton)">GKC Autobiography</a> › <a href="/testi/chesterton/atomized/gkc_autobiography/chapter_13">Chapter 13</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/gkc_autobiography/chapter_13/part_03">‹ part 03</a><a class="ex-next" href="/testi/chesterton/atomized/gkc_autobiography/chapter_14/part_01">part 01 ›</a></div>
@@ -59,5 +61,62 @@ and though her presence had indeed something of the ghostly gravity
 of a [[Shadow|shadow]] and her passing something of the fugitive accident of a bird,
 I know now that she was not fugitive and she was not shadowy.
 She was a message from the Sun.
+
+*****
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/gkc-autobiography-(chesterton)">GKC Autobiography</a> › <a href="/testi/chesterton/atomized/gkc_autobiography/chapter_13">Chapter 13</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/gkc_autobiography/chapter_13/part_03">‹ part 03</a><a class="ex-next" href="/testi/chesterton/atomized/gkc_autobiography/chapter_14/part_01">part 01 ›</a></div>
+</nav>
+
+Le immagini degli uomini immaginativi sono indiscutibili; e io non ho mai voluto
+disputarne. Le idee degli uomini logici e dogmatici
+(specie gli scettici, quegli uomini così dogmatici) sono discutibili;
+e io ho sempre voluto disputarne. Ma non ho mai voluto
+disputare di gusti là dove non vi sono criteri di prova. Non ho mai preso
+partito là dove non vi sono né gusti condivisi in comune né tesi
+sostenute in controversia; e ciò mi ha tenuto fuori da molti movimenti.
+Ma d'altra parte sono consapevole di una lacuna o di un difetto della mia mente in tali materie.
+La sento sempre spalancarsi in me come un abisso (spalancarsi è la descrizione
+esatta, per quanto mi riguarda), quando la gente mi dice
+che qualcosa andrebbe fatto per amore del «Dramma».
+Ritengo che il Cesare e [[Cleopatra]] di [[Shaw]] sia un buon dramma; benché ai miei
+gusti etici sia insieme troppo pacifista e troppo imperialista.
+Ritengo che Are You a Mason? sia un buon dramma; e il mio apprezzamento
+non ha nulla a che vedere con un papista sospetto verso la Massoneria.
+Ma parlare di aiutare «il dramma» mi suona come aiutare
+la macchina da scrivere o il torchio da stampa. Mi pare, alla mia semplice mente,
+che dipenda in buona parte da ciò che ne esce.
+
+Ma tra queste figure letterarie, ve n'era una che
+metterò per ultima perché dovrei metterla per prima. Era la figura
+di una contemporanea e compagna di tutto quel mondo di cultura;
+un'intima amica di Meredith; un'[[Artist|artista]] ammirata come artistica
+dagli esteti e persino dai decadenti. Ma Alice Meynell,
+benché preferisse essere estetica anziché anestetica,
+non era un'esteta; e non v'era nulla in lei che potesse [[Decay|decadere]].
+Lo slancio di vita in lei era come quello di un albero snello con
+[[Flowers|fiori]] e frutti per tutte le [[Seasons|stagioni]]; e non v'era inaridimento
+della linfa del suo spirito, che stava nelle idee. Sapeva sempre
+trovare cose su cui pensare; persino in un letto di malata, in una stanza oscurata,
+dove l'[[Shadow|ombra]] di un uccello sulla tendina era più dell'uccello
+stesso, diceva lei, perché era un messaggio dal sole.
+Poiché era così enfaticamente un'artigiana, era enfaticamente
+un'[[Artist|artista]] e non un'esteta; soprattutto, era come quel celebre
+[[Artist|artista]] che disse di mescolare sempre i suoi colori con del cervello.
+Ma v'era in lei qualcos'altro che io non compresi
+al [[Time|tempo]], che la poneva a parte come qualcosa di separato dal [[Time|tempo]].
+Era forte, con radici profonde, là dove tutti gli Stoici erano soltanto rigidi
+per la [[Despair|disperazione]]; era viva a un'immortale [[Beauty|bellezza]] là dove tutti i pagani
+sapevano soltanto mescolare [[Beauty|bellezza]] e [[Mortality|mortalità]]. E benché passasse
+attraverso la mia vita a sprazzi, e assai più di rado di quanto avrei voluto,
+e benché la sua presenza avesse davvero qualcosa della spettrale gravità
+di un'[[Shadow|ombra]] e il suo passare qualcosa del fuggevole accidente di un uccello,
+so ora che ella non era fuggevole e non era ombrosa.
+Era un messaggio dal Sole.
 
 *****

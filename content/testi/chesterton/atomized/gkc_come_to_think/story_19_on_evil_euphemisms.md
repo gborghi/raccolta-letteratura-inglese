@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/gkc-come-to-think-(chesterton)">GKC Come to Think</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/gkc_come_to_think/story_18_on_current_claptrap">‹ Story 18 ON CURRENT CLAPTRAP</a><a class="ex-next" href="/testi/chesterton/atomized/gkc_come_to_think/story_20_on_encyclopaedias">Story 20 ON ENCYCLOPAEDIAS ›</a></div>
@@ -143,3 +145,142 @@ with the pain that often arises from loyalty and duty we all
 sympathize still more; but nobody need sympathize with publicity
 experts picking pleasant expressions for unpleasant things;
 and I for one prefer the coarse language of our fathers.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/gkc-come-to-think-(chesterton)">GKC Come to Think</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/gkc_come_to_think/story_18_on_current_claptrap">‹ Story 18 ON CURRENT CLAPTRAP</a><a class="ex-next" href="/testi/chesterton/atomized/gkc_come_to_think/story_20_on_encyclopaedias">Story 20 ON ENCYCLOPAEDIAS ›</a></div>
+</nav>
+
+XIX.  Sugli eufemismi malvagi
+
+QUALCUNO mi ha mandato un libro sul [[Marriage|Matrimonio]] Compagnevole;
+così chiamato perché le persone coinvolte non sono sposate e assai
+rapidamente cesseranno di essere compagne.  Non ho alcuna intenzione
+di discutere qui quel progetto coloniale piuttosto rozzo.
+Dirò soltanto che qui viene accompagnato da sottotitoli e da altre
+affermazioni sulla nuova generazione e sulla rivolta della gioventù.
+E mi pare oltremodo buffo che, proprio quando la nuova
+generazione si vanta di non essere sentimentale, quando parla di essere
+molto scientifica e sociologica — proprio in quel momento tutti
+sembrano aver dimenticato del tutto quale fosse l'utilità sociale del
+[[Marriage|matrimonio]] e sembrano pensare unicamente e soltanto al sentimentale.
+Gli scopi pratici menzionati come le prime due ragioni del [[Marriage|matrimonio]],
+nel rito anglicano del [[Marriage|matrimonio]], sembrano essere del tutto usciti
+di vista per certuni, che parlano come se non vi fosse nulla se non una
+versione piuttosto sfrenata della terza, che si può relativamente definire romantica.
+E questo, se non vi dispiace, dovrebbe essere un'emancipazione dal
+sentimentalismo e dal [[Romance|romanticismo]] vittoriani.
+
+Ma menziono questa faccenda solo come una fra tante, e come una che
+illustra una contraddizione ancor più curiosa in questa pretesa moderna.
+Ci viene perpetuamente detto che questa nuova generazione è molto franca
+e libera, e che il suo intero ideale sociale sono la franchezza e la [[Freedom|libertà]].
+Ora, io non ho affatto paura della franchezza.  Ciò di cui ho paura
+è la volubilità.  E vi è una [[Truth|verità]] nell'antico nesso proverbiale
+tra ciò che è volubile e ciò che è falso.  Vi è, nei titoli stessi
+e nella terminologia di tutta questa sorta di cose, un elemento pervasivo
+di falsità.  Ogni cosa dev'essere chiamata con qualcosa che non è;
+come nell'esempio caratteristico del [[Marriage|Matrimonio]] Compagnevole.
+Ogni cosa dev'essere raccomandata al pubblico con una sorta di sinonimo
+che è in realtà uno pseudonimo.  È un talento che va di pari passo col [[Time|tempo]]
+delle campagne elettorali, della pubblicità e dei titoli di giornale;
+ma qualunque altra cosa un simile [[Time|tempo]] possa essere, di certo non è specialmente
+un [[Time|tempo]] di [[Truth|verità]].
+
+In breve, questi amici della franchezza dipendono quasi interamente dall'Eufemismo.
+Introducono le loro orribili eresie sotto nomi nuovi e accuratamente
+lusinghieri; come le Furie erano chiamate le Eumenidi.
+I nomi sono sempre adulazione; i nomi sono anche insensatezze.
+Il nome di Controllo delle Nascite, per esempio, è pura insensatezza.
+Tutti hanno sempre esercitato il controllo delle nascite; anche quando erano
+così paradossali da permettere che il processo si concludesse in una nascita.
+Tutti hanno sempre saputo del controllo delle nascite, anche se assumeva la forma
+selvaggia e impensabile dell'auto-[[Self|controllo]]. La questione in gioco riguarda
+diverse forme di prevenzione delle nascite; e non ho intenzione di [[debate|dibatterla]]
+qui.  Ma se la [[debate|dibattessi]], la chiamerei col suo nome.
+Lo stesso vale per un più vecchio brano di sentimentalismo in cui indulgono i franchi
+e i liberi:  l'espressione «Libero Amore».  Anche quello è un Eufemismo;
+cioè, è un rifiuto della gente di dire ciò che intende.
+In quel senso, è impossibile impedire che l'amore sia libero, ma il
+problema morale che vien posto in causa riguarda non le passioni, bensì la volontà.
+Vi sono moltissimi altri esempi di questa sorta di garbata finzione;
+questi rispettabili travestimenti adottati da coloro che inveiscono sempre
+contro la rispettabilità.  Nell'immediato futuro ve ne saranno probabilmente
+ancor più.  Non pare esservi davvero un limite necessario al processo;
+e per quanto lontano possa spingersi l'anarchia dell'etica, essa potrà sempre
+essere accompagnata da questo cerimoniale curioso e pomposo.
+La sensibile gioventù del futuro non sarà mai chiamata ad accettare
+la Falsificazione come Falsificazione.  Sarà abbastanza facile chiamarla Omeografia
+o Assimilazione della Scrittura o qualcos'altro che suggerisca,
+al semplice o al superficiale, che nulla è coinvolto se non
+una sorta di socializzazione o unificazione della calligrafia individuale.
+Non dovremmo, come il più onesto Mr. Fagin, insegnare ai fanciulli
+a borseggiare; perché Mr. Fagin diventa assai meno onesto quando diventa
+il Professor Faginski, il grande sociologo, dell'Università di Jena.
+Ma dovremmo chiamarla con qualche nome che implichi il trasferimento di qualcosa;
+al momento non riesco a ricordare il greco né per tasca
+né per fazzoletto da tasca. Quanto alla giustificazione sociale dell'omicidio,
+quella è già cominciata; e i pensatori seri farebbero meglio a cominciare subito
+a pensare a un bel nome inoffensivo per esso.  Le ragioni a favore dell'omicidio,
+secondo la moderna etica relativa ed evoluzionistica, sono del tutto schiaccianti.
+Non c'è quasi nessuno fra noi che, guardandosi attorno nella propria
+cerchia sociale, non riconosca qualche persona ciarliera o qualche energico
+carattere sociale la cui scomparsa, senza eccessivo trambusto o commiato,
+sarebbe un evento luminoso per tutti noi. Né è vero che una tale persona
+sia pericolosa solo perché brandisce ingiusti poteri legali o sociali.
+Il problema è spesso puramente psicologico, e per nulla legale;
+e nessuna emancipazione legale lo risolverebbe.  Nulla lo risolverebbe
+se non l'introduzione di quella nuova forma di libertà che possiamo convenire
+di chiamare, forse, la pratica della Sottrazione Sociale.  Oppure, se preferiamo,
+possiamo modellare il nuovo nome sugli altri nomi che ho menzionato.
+Possiamo chiamarla Controllo della Vita o Libera Morte; o qualunque altra cosa che abbia
+tanto poco a che fare col suo punto quanto il Matrimonio Compagnevole ha
+a che fare col matrimonio o con la compagnia.
+
+Comunque sia, rifiuto rispettosamente di farmi impressionare dalla pretesa di candore
+e realismo avanzata proprio ora per uomini, donne e movimenti.
+Mi sembra ovvio che questa non sia realmente l'età dell'audacia
+ma soltanto della pubblicità; la quale si potrebbe piuttosto descrivere come la prudenza
+che fa un gran baccano.  Gran parte dell'errore nasce dal doppio senso
+della parola pubblicità.  Perché anche pubblicità è un eufemismo
+tipicissimo o termine evasivo.  Pubblicità non significa rivelare la vita
+pubblica nell'interesse dello spirito pubblico.  Significa soltanto adulare
+imprese private nell'interesse di persone private.  Significa
+fare complimenti in pubblico; ma non offrire critiche in pubblico.
+Rimarremmo tutti assai sorpresi se uscendo dalla nostra porta di casa
+un mattino vedessimo un cartellone su un lato della strada che dice,
+«Usate il Latte di Miggle; È Tutto Panna», e un cartellone sull'altro lato
+della [[Road|strada]] con su scritto, «Non Usate il Latte di Miggle; È Quasi Tutta Acqua».
+Il mondo moderno sarebbe assai turbato se mi fosse permesso
+di erigere una fiammeggiante insegna nel cielo che proclami la mia precisa opinione
+sul Porto Coloniale lodato nell'insegna fiammeggiante di fronte.
+Tutta questa pubblicità potrà avere qualcosa a che fare con la libertà
+di commercio; ma non ha nulla a che fare con la libertà della verità.
+La pubblicità dev'essere lode e la lode dev'essere in qualche misura eufemismo.
+Deve mettere la questione in una forma più mite e più inoffensiva
+di quanto potrebbe essere messa, per quanto quella mitezza possa
+sembrar gridare attraverso megafoni o divampare nei titoli di testa.
+E proprio come questa sorta di rumorosa evasione viene usata a favore del cattivo
+vino e del cattivo latte, così viene usata a favore della cattiva morale.
+Quando qualcuno desidera muover guerra sociale contro ciò che tutte le persone
+normali hanno considerato una decenza sociale, la primissima cosa che fa
+è trovare qualche termine artificiale che suoni relativamente decente.
+Non ha più il vero coraggio che opporrebbe il vizio alla
+virtù di quanto l'inserzionista comune abbia il coraggio di reclamizzare
+la birra come arsenico.  La sua intelligenza, quale essa sia, è interamente
+un'intelligenza commerciale e in tal misura interamente convenzionale.
+È un bottegaio che allestisce la vetrina; è certamente
+l'esatto contrario di un ribelle o di un sommossore che infrange la vetrina.
+Se non altro per questa ragione, resto freddo e declino la dovuta reverenza
+verso il Matrimonio Compagnevole e verso il libro che parla così reverentemente
+della Rivolta della Gioventù.  Perché questa sorta di rivolta mi colpisce come
+nient'altro che rivoltante; e certamente non particolarmente realistica.
+Con le passioni che sono naturali alla gioventù tutti simpatizziamo;
+con il dolore che spesso sorge dalla lealtà e dal dovere tutti
+simpatizziamo ancor di più; ma nessuno ha bisogno di simpatizzare con esperti
+di pubblicità che scelgono espressioni gradevoli per cose sgradevoli;
+e io per primo preferisco il linguaggio grossolano dei nostri padri.

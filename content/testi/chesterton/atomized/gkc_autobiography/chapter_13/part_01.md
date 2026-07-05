@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/gkc-autobiography-(chesterton)">GKC Autobiography</a> › <a href="/testi/chesterton/atomized/gkc_autobiography/chapter_13">Chapter 13</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/gkc_autobiography/chapter_12/part_04">‹ part 04</a><a class="ex-next" href="/testi/chesterton/atomized/gkc_autobiography/chapter_13/part_02">part 02 ›</a></div>
@@ -132,3 +134,131 @@ in saying, as he said essentially to me all those years ago,
 that he could enjoy things, including better [[philosophy]] or religion.
 There came back to me four lines, written by an Irish lady in my
 own little paper:
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/gkc-autobiography-(chesterton)">GKC Autobiography</a> › <a href="/testi/chesterton/atomized/gkc_autobiography/chapter_13">Chapter 13</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/gkc_autobiography/chapter_12/part_04">‹ part 04</a><a class="ex-next" href="/testi/chesterton/atomized/gkc_autobiography/chapter_13/part_02">part 02 ›</a></div>
+</nav>
+
+XIII
+
+ALCUNE CELEBRITÀ LETTERARIE
+
+Sono giusto abbastanza vecchio da ricordare ciò che si chiamavano Penny Readings;
+alle quali si supponeva che alle classi lavoratrici venisse letta della buona
+letteratura, perché esse non erano allora sufficientemente
+istruite da leggere del cattivo giornalismo da sole. Da ragazzo,
+o addirittura da [[Child|bambino]], passai una sera in un luogo curiosamente chiamato
+la Progressive Hall; come se l'edificio stesso non potesse star fermo,
+ma dovesse muoversi in avanti come un omnibus lungo il sentiero del progresso.
+C'era un piccolo presidente con gli occhiali, che era nervoso; e un grande
+e corpulento maestro dallo sguardo fisso di nome Ash, che non era affatto nervoso;
+e un programma di esecutori se non eminenti senza [[Doubt|dubbio]] eccellenti.
+Il signor Ash lesse «The Charge of the Light Brigade» con toni squillanti;
+e il pubblico attendeva ansiosamente il passaggio a un assolo di violino.
+Il presidente spiegò frettolosamente che il Signor Robinsoni era purtroppo
+impossibilitato a esibirsi quella sera, ma il signor Ash aveva gentilmente acconsentito
+a leggere «The May [[Queen|Regina]]». Il numero successivo del programma era una [[Song|canzone]],
+probabilmente intitolata «Sea Whispers», da cantarsi dalla signorina [[smith|Smith]] accompagnata
+dalla signorina Brown. Ma non fu cantata dalla signorina [[smith|Smith]] né accompagnata
+dalla signorina Brown; perché, come il presidente spiegò alquanto
+febbrilmente, esse erano impossibilitate a intervenire; ma fummo consolati dall'annuncio
+che il signor Ash aveva gentilmente acconsentito a leggere «The Lord of Burleigh».
+Press'a poco a questo punto avvenne una cosa davvero straordinaria;
+straordinaria in qualunque [[Time|momento]], per chiunque conosca la pazienza e
+la cortesia dei poveri inglesi; ancor più stupefacente nei meno
+smaliziati poveri di quei giorni lontani. Si alzò lentamente in
+mezzo alla sala, come un qualche vasto leviatano che sorge dall'oceano,
+un enorme uomo sano dalla faccia semplice, della professione di stuccatore,
+che disse con toni squillanti quanto quelli del signor Ash, e assai più
+cordiali e umani: «[[Well|Beh]], mi son proprio scocciato di tutto questo.
+Buonasera, signor Ash; buonasera, signore e signori.»
+E con un gesto di universale benedizione, si aprì la strada a spallate
+fuori dalla Progressive Hall con un'aria spontanea di completa
+amabilità e profondo sollievo.
+
+Non so bene perché, ma quel gigante è rimasto nella mia [[Memory|memoria]] come
+l'unico titano originario che per primo si ribellò ai vittoriani.
+E preferisco ancora immensamente il suo colossale buon senso e il suo completo buon
+[[Humour|umore]] agli spesso meschini e talvolta astiosi ghigni o risatine
+di critici più recenti e colti contro le convenzioni vittoriane.
+Ma ciò mi ha avvertito che, sia per buone ragioni sia per cattive, c'è
+ora una tendenza a considerare alcuni vittoriani dei seccatori, o quantomeno
+l'argomento un seccatore; e il mio proprio [[Memory|ricordo]] di uomini più vecchi di me,
+nel mondo delle lettere, è necessariamente un [[Memory|ricordo]] dei vittoriani,
+se non altro dei tardi vittoriani. Anche sotto questo aspetto,
+s'intende, la moda attuale è assai incostante e paradossale.
+Per esempio, sembra esserci un interesse assai più vivo
+per le vite di tali uomini di lettere che per le loro opere letterarie.
+Si scrive e riscrive quantità di roba sull'[[Romance|idillio]] del signore e della
+signora Browning, in drammi e pagine di [[Biography|biografia]] e pettegolezzo.
+Ma benché la loro storia venga riscritta, piuttosto [[Doubt|dubito]] che
+Browning venga riletto, o che la signora Browning venga letta affatto.
+Sembrano esserci più dettagli ricordati della storia delle Brontë
+di quanti dettagli siano ricordati delle storie delle Brontë.
+È una bizzarra conclusione per tutto il discorrere estetico su un [[Artist|artista]] che sarebbe
+importante soltanto nella sua arte. Cosa più bizzarra di tutte, c'è più popolarità
+per un libro su un uomo come Palmerston, la cui politica è del tutto morta,
+che per un libro di un uomo come Carlyle, la cui politica sembrerebbe
+in parte applicabile in questi giorni di reazione e dittatura.
+Nel complesso, malgrado la gigantesca [[Shadow|ombra]] dello stuccatore, posso
+avanzarmi spudoratamente come un tardo vittoriano da sotto l'[[Shadow|ombra]] stessa
+della [[Queen|Regina]] Vittoria; la cui [[Shadow|ombra]] non si fa mai più piccola.
+
+Il primo grande vittoriano che io abbia mai incontrato, lo incontrai assai presto, benché soltanto
+per un breve colloquio: Thomas Hardy. Ero allora un giovane scrittore del tutto
+oscuro e malandato in attesa di un colloquio con un editore.
+E la cosa davvero notevole di Hardy era questa; che egli avrebbe
+potuto essere lui stesso un giovane scrittore oscuro e malandato in attesa
+di un editore; anzi uno scrittore esordiente in attesa del suo primo editore.
+Eppure era già celebre dappertutto; aveva scritto i suoi primi e
+più belli romanzi culminanti in Tess; aveva espresso il suo bizzarro pessimismo
+personale nel famoso passo sul Presidente degli Immortali.
+Aveva già la ruga della preoccupazione sul suo volto da elfo che avrebbe
+potuto far apparire vecchio un uomo; e tuttavia, in qualche strano modo, mi parve
+assai giovane. Se dico giovane quanto lo ero io, intendo tanto semplicemente
+pragmatico e perfino saccente quanto lo ero io. Egli non evitò nemmeno
+l'argomento del suo presunto pessimismo; lo difese, ma in qualche modo con
+l'[[innocence|innocenza]] di un circolo di dibattito di ragazzi. In breve, era in una sorta
+di gentile agitazione riguardo al suo pessimismo, proprio come lo ero io riguardo al mio ottimismo.
+Disse qualcosa del genere: «So che la gente dice che sono un pessimista;
+ma non credo di esserlo per natura; mi piacciono così tanto un mucchio di cose;
+ma non sono mai riuscito a superare l'idea che sarebbe meglio per noi
+essere senza tanto i piaceri quanto i dolori; e che la migliore
+esperienza sarebbe una qualche sorta di [[Sleep|sonno]].» Ho sempre avuto un debole
+per il discutere con chiunque; e ciò coinvolgeva tutto quel contemporaneo
+nichilismo contro il quale ero allora in rivolta; e per circa cinque minuti,
+nell'ufficio di un editore, discussi effettivamente con Thomas Hardy.
+Sostenni che la non esistenza non è un'esperienza; e non può esserci
+questione di preferirla o di esserne soddisfatti. Sinceramente, se io
+fossi stato semplicemente un rozzo giovanotto, e nient'altro, avrei
+ritenuto tutto il suo ragionamento assai superficiale e persino sciocco.
+Ma non lo ritenni né superficiale né sciocco.
+
+Poiché questa era la piuttosto tremenda [[Truth|verità]] riguardo a Hardy;
+che egli aveva [[Humility|umiltà]]. I miei amici che lo conobbero meglio hanno confermato
+la mia prima impressione; Jack Squire mi disse che Hardy nei suoi ultimi
+giorni di gloria come Grande Vecchio mandava [[Poems|poesie]] al Mercury
+e si offriva di modificarle o ritirarle se non erano adatte.
+Egli sfidava gli dèi e osava affrontare il [[Lightning|fulmine]] e tutto il resto;
+ma i grandi greci avrebbero visto che non c'era saetta
+per lui, perché non aveva «ubris» (greek) ovvero insolenza.
+Poiché ciò che il cielo odia non è l'empietà ma l'[[Pride|orgoglio]] dell'empietà.
+Hardy era blasfemo ma non era orgoglioso; ed è l'[[Pride|orgoglio]] a essere peccato
+e non la bestemmia. Sono stato biasimato per un presunto attacco a Hardy,
+in un [[Sketch|profilo]] della letteratura vittoriana; si supponeva a quanto pare
+che il parlare dell'ateo di villaggio che rimugina sull'idiota
+di villaggio fosse una qualche sorta di attacco. Ma questo non è un attacco a Hardy;
+questa è la difesa di Hardy. Tutto l'argomento a suo favore è che
+egli aveva la sincerità e la semplicità dell'ateo di villaggio;
+vale a dire, che apprezzava l'ateismo come una [[Truth|verità]] e non come un trionfo.
+Egli fu la vittima di quel [[Decay|disfacimento]] della nostra cultura agricola,
+che diede agli uomini cattiva religione e nessuna [[philosophy|filosofia]]. Ma aveva ragione
+nel dire, come mi disse in sostanza tutti quegli anni fa,
+che poteva godere delle cose, compresa una migliore [[philosophy|filosofia]] o religione.
+Mi tornarono alla mente quattro versi, scritti da una signora irlandese sul mio
+proprio piccolo giornale:

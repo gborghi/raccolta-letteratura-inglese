@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/gkc-autobiography-(chesterton)">GKC Autobiography</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/gkc_autobiography/chapter_14">‹ Chapter 14</a><a class="ex-next" href="/testi/chesterton/atomized/gkc_autobiography/chapter_16">Chapter 16 ›</a></div>
@@ -399,5 +401,406 @@ with the head and the hands shot off.  But the hands had been lifted;
 and it is a strange thing that the very mutilation seemed to give
 more meaning to the attitude of intercession; asking [[Mercy|mercy]] for
 the merciless race of men.
+
+*****
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/gkc-autobiography-(chesterton)">GKC Autobiography</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/gkc_autobiography/chapter_14">‹ Chapter 14</a><a class="ex-next" href="/testi/chesterton/atomized/gkc_autobiography/chapter_16">Chapter 16 ›</a></div>
+</nav>
+<nav class="excerpt-children">
+<div class="excerpt-children-label">In questa sezione</div>
+<ul><li><a href="/testi/chesterton/atomized/gkc_autobiography/chapter_15/part_01">Part 1</a></li><li><a href="/testi/chesterton/atomized/gkc_autobiography/chapter_15/part_02">Part 2</a></li><li><a href="/testi/chesterton/atomized/gkc_autobiography/chapter_15/part_03">Part 3</a></li><li><a href="/testi/chesterton/atomized/gkc_autobiography/chapter_15/part_04">Part 4</a></li></ul>
+</nav>
+
+
+XV
+
+IL VIAGGIATORE INCOMPLETO
+
+Se queste mie memorie non sono esattamente prodighe di date, come del
+resto le mie lettere non sono mai datate affatto, [[Hope|spero]] che nessuno
+mi sospetti di una qualche mancanza di riverenza verso quella grande scuola
+accademica di [[history|storia]] oggi generalmente nota come 1066 and All
+That. Possiedo qualche rudimento di conoscenza su ciò che si può chiamare
+il 1066; per esempio, so che la Conquista non avvenne veramente prima del
+1067. Ma trovo il punto piuttosto irrilevante, se paragonato, diciamo,
+all'opinione corrente secondo cui i Normanni innalzarono torri sulla
+Galilea e regnarono in Sicilia, e concorsero a dar vita a san Tommaso
+[[aquinas|d'Aquino]], al solo scopo di rendere gli Anglosassoni ancor più
+Anglosassoni, nella lontana [[Hope|speranza]] che divenissero
+Angloamericani. In breve, nutro il più profondo rispetto per il 1066; ma
+continuerò, in modo umile, a muovere una guerra implacabile a tutto il
+resto di All That.
+
+Ma per me, in ogni caso, il compromesso e l'emendamento verrebbero troppo
+tardi. Ho scritto parecchi libri che si supponevano biografie; e vite di
+uomini davvero grandi e notevoli, negando loro meschinamente i più
+elementari dettagli della cronologia; e sarebbe una meschinità più che
+mortale se ora avessi l'arroganza di essere accurato riguardo alla mia
+vita, quando ho mancato di esserlo riguardo alla loro. Chi sono io per
+essere datato con più cura di Dickens o di Chaucer? Che bestemmia se
+riservassi a me stesso ciò che non ho reso a san Tommaso e a san Francesco
+d'Assisi. Pare un caso chiaro, in cui la comune [[Humility|umiltà]]
+cristiana mi comanda di perseverare in una condotta criminosa.
+
+Ma se non dato le mie lettere, né i miei schizzi letterari, quando sono a
+[[Home|casa]] e in qualche misura regolato dall'[[Clock|orologio]] e dal
+calendario, ancor meno mi sento capace di simile puntualità quando lo
+spirito senza tempo del viaggio di vacanza non solo mi ha scagliato
+attraverso lo spazio, ma mi ha buttato fuori dal [[Time|tempo]]. Dedicherò
+solo questo breve capitolo a qualche nota di viaggio; perché la maggior
+parte dei taccuini è già stata trasformata in qualche altra sorta di
+libri; sull'Irlanda e sull'[[America]], sulla Palestina e su Roma. Toccherò
+qui soltanto poche cose che mi capita di non aver registrato altrove; una
+visita in Spagna; la mia seconda visita in [[America]]; e la mia prima, ma
+[[Hope|spero]] non l'ultima, visita in Polonia.
+
+Lasciatemi anzitutto sfamare la fame di date sulla palma da datteri della
+Palestina, se la frivolezza sarà perdonata; e così almeno mettere i primi
+viaggi nel loro giusto ordine; anche se considererò alcuni dei casi
+successivi in stile più generale. Posso vantarmi con orgoglio di conoscere
+la data del mio pellegrinaggio a Gerusalemme; in parte perché fu un anno
+dopo la fine della Grande Guerra, e in parte perché quando i miei editori
+mi suggerirono di andare in Terra Santa, mi suonò come andare sulla
+[[Moon|luna]]. Fu il primo dei miei lunghi viaggi, attraverso un paese
+ancora in pericolo e in armi; comportò l'attraversare il [[Desert|deserto]]
+di [[Night|notte]] in qualcosa di simile a un carro bestiame; e parti
+persino della Terra Promessa avevano qualcosa delle qualità di un paesaggio
+lunare. Un episodio in quel deserto risalta ancora nella mia
+[[Memory|memoria]] per qualche strana ragione; non occorre qui tornare
+sulla politica palestinese; ma me ne andavo vagando per il deserto in
+automobile con un piccolo, zelante sionista; parve dapprima quasi un
+monomaniaco, di quelli che alla frase «È una bella giornata» rispondono con
+premura «Oh sì, il clima è perfetto per il nostro progetto». Ma finii per
+simpatizzare col suo [[Romance|slancio romantico]]; e quando disse: «È una
+terra incantevole; vorrei mettermi in tasca il [[Song|Cantico]] di Salomone
+e andarmene a zonzo», seppi che, ebreo o gentile, pazzo o sano di mente,
+noi due eravamo della stessa razza. L'incantevole terra era, fino
+all'orizzonte, un deserto di roccia a terrazze, e davvero imponente; non
+c'era in vista cosa umana all'infuori di noi e dell'autista, che era un
+gigante dalle sopracciglia nere, il raro ma reale tipo ebraico che finisce
+pugile. Era un guidatore eccellente; e la regola in quelle contrade è che
+una Ford può andare dovunque purché stia lontana dalla [[Road|strada]]. Si
+era portato avanti per sgombrare alcune pietre cadute e io feci un
+commento su tale efficienza. Il piccolo, bruno professore accanto a me
+aveva tolto un libro dalla tasca, ma replicò senza scomporsi: «Sì; lo
+conosco solo di sfuggita; tra noi, credo sia un assassino; ma non ho fatto
+domande indelicate». Poi riprese a leggere il [[Song|Cantico]] di Salomone,
+e assaporava quegli aromi che si levano quando il [[Wind|vento]] di
+mezzogiorno soffia sul [[Garden|giardino]]. L'ora era colma di poesia; e
+non priva di ironia.
+
+Le date della mia prima e seconda visita in [[America]] hanno un qualche
+vero significato; poiché l'una fu circa un anno dopo la visita palestinese,
+e l'altra fu relativamente recente; nel 1930. E ciò non solo perché la
+prima fu assai vicina all'inizio e la seconda assai vicina alla fine della
+prolungata stramberia del Proibizionismo. Non mi fermerò qui a discutere
+con qualsiasi [[Fool|sciocco]] che pensi ci sia qualcosa di buffo
+nell'obiettare al Proibizionismo. Ciò che è parte dello stesso processo è
+questo: che l'una coincise col Boom e l'altra vide l'inizio del Crollo e,
+ciò che più conta, una profonda rivoluzione nell'assai intelligente popolo
+americano. Non è cosa da poco che, quanto al Proibizionismo, essi fossero
+del tutto cambiati; all'inizio persino quelli che lo detestavano vi
+credevano; alla fine persino quelli che lo apprezzavano non vi credevano
+più. Ma è molto più importante che, verso la fine, Repubblicani di
+vecchissima data mi dicessero della loro intenzione di votare per Franklin
+Roosevelt; persino quelli che avevano maledetto la demagogia di Theodore
+Roosevelt. Gli Americani hanno visto più plutocrazia di chiunque altro; ma
+non sono sicuro che non possano vederci attraverso più presto di chiunque
+altro.
+
+Per il resto, il mio ultimo giro americano consistette nell'infliggere non
+meno di novantanove conferenze a gente che non mi aveva mai fatto alcun
+male; e il resto dell'avventura, che fu assai piacevole, si sfalda come
+[[A Dream|un sogno]] in episodi isolati. Un anziano facchino negro, dal
+volto simile a una noce, che dissuasi dallo spazzolarmi il cappello, e che
+mi rimproverò dicendo: «Ehi, giovanotto. Sta perdendo la sua dignità prima
+del [[Time|tempo]]. Deve farsi bello per le ragazze». Un [[Grave|grave]]
+messaggero che venne da me in un albergo di Los Angeles, da parte di un
+importante magnate del cinema, desideroso di combinare che io fossi
+fotografato con le Ventiquattro Bellezze da Bagno; Leviatano fra le Nereidi;
+un'offerta che fu declinata tra la sorpresa generale. Un tentativo
+angoscioso di essere giusto verso le sottigliezze della controversia
+evoluzionista, parlando agli studenti di Notre Dame, nell'Indiana, in un
+ciclo su «La letteratura vittoriana», del quale non rimase alcuna
+testimonianza tranne che uno studente scrisse in mezzo al suo taccuino
+bianco: «Darwin fece un mucchio di danni». Non sono affatto certo che avesse
+torto; ma era una certa semplificazione delle mie ragioni per essere
+agnostico riguardo alle deduzioni agnostiche, nei dibattiti su Lamarck e
+Mendel. Un [[debate|dibattito]] sulla [[history|storia]] della religione con
+uno scettico assai famoso; il quale, quando cercai di parlare dei culti
+greci o dell'ascetismo asiatico, parve incapace di pensare ad altro che a
+Giona e la Balena. Ma è la maledizione di questa comica carriera di
+conferenziere che essa pare portare sul palcoscenico illuminato nient'altro
+che commedie; e ho già detto che non credo l'[[America]] le prenda più sul
+serio di quanto faccia io. Il vero commento americano fu serio e solido; e
+nessuno più di quello di un padrone industriale delle macchine, che mi
+disse: «La gente deve tornare alla fattoria».
+
+Avevo gironzolato per la Francia fin da quando mio padre mi ci portò da
+ragazzo; e [[Paris|Parigi]] era l'unica capitale straniera che conoscessi.
+Devo a lui l'essere stato almeno un viaggiatore e non un gitante. La
+distinzione non è snob; anzi è piuttosto una distinzione di epoca che di
+[[Education|educazione]]; metà dei guai dell'uomo moderno sta nel fatto che
+è educato a capire le lingue straniere e a fraintendere gli stranieri. Il
+viaggiatore vede ciò che vede; il gitante vede ciò che è venuto a vedere.
+Un vero viaggiatore, in un'[[Epic|epopea]] primitiva o in una fiaba
+popolare, non fingeva di trovare simpatica una bella principessa perché era
+bella. Ciò è ancora vero per un povero marinaio; per un vagabondo; in
+breve, per un viaggiatore. Così egli non ha bisogno di formarsi un'opinione
+dei giornali di [[Paris|Parigi]]; ma se lo volesse, probabilmente li
+leggerebbe. Il gitante non li legge mai, li chiama stracci, e ne sa quanto
+lo straccivendolo che li raccoglie con un punteruolo. Ne addurrò un solo
+caso, poiché richiama il mio legame con una controversia assai antica.
+Tutta l'Inghilterra giunse a due grandi conclusioni morali su un uomo di
+nome Zola; o piuttosto su due uomini entrambi di nome Zola. Il primo era
+semplicemente un lurido francese; un pornografo che imprigionammo per
+procura persino nel suo editore. Il secondo era un [[Hero|eroe]] e un
+martire della [[Truth|verità]], torturato presumibilmente
+dall'[[Inquisition|Inquisizione]] — proprio come Galileo. La
+[[Truth|verità]] riguardava il Caso Dreyfus; e come giornalista dietro le
+quinte scoprii ben presto che la [[Truth|verità]] non era così semplice.
+Déroulède disse: «Dreyfus può essere colpevole o no; ma la Francia non è
+colpevole». Io dico che Dreyfus può essere stato [[Innocent|innocente]], ma
+i dreyfusardi non erano sempre [[Innocent|innocenti]]; nemmeno quando erano
+direttori di giornale inglesi. Fu il mio primo, terribile risveglio
+riguardo alla propaganda della nostra stampa. Non parlo della conclusione,
+ma dei metodi dei dreyfusardi. Uno scozzese del tutto indipendente e
+intelligente, un amico di Oldershaw a [[Oxford]], mi disse che essi avevano
+praticamente proposto il falso, alterando la dimensione della grafia. Ma
+l'unico punto qui è Zola, che fu prima immondo e poi nobile; persino nelle
+sue stesse effigi, la fronte gli si fece più alta e il collo meno tozzo.
+Ora, io non andrei a nessuno dei due estremi riguardo al povero Zola; ma mi
+trovai a essere a [[Paris|Parigi]] il giorno dei suoi funerali al Pantheon.
+[[Paris|Parigi]] era ferocemente divisa; e comprai in un caffè uno di quei
+fanatici stracci, in cui Maurice Barrès, un letterato piuttosto distaccato,
+esponeva le sue ragioni per aver votato contro l'apoteosi; e scriveva in
+una sola frase tutto ciò che ho cercato di dire qui a proposito dei
+pessimisti e degli atei e dei realisti e di tutti gli altri. Disse che non
+aveva nulla in contrario all'oscenità: «Non m'importa fino a che punto
+spingiate in basso la mente dell'uomo; purché non rompiate la
+[[spring|molla]]».
+
+La maggior parte di noi, s'intende, non degnerebbe di uno sguardo stracci
+come quelli; eppure essi sono pieni di osservazioni simili, per chiunque
+abbia, non contento nemmeno di degnarsi di guardarli, la morbosa curiosità
+di leggerli. E quell'osservazione mi pare un commento più importante su ciò
+che Zola rappresentava che non il mero fatto ch'egli rappresentasse il
+Partito dreyfusardo, anche se fu tanto attendibile su Dreyfus quanto fu di
+certo inattendibile su Lourdes. Ora, noi non abbiamo quella sorta di
+commento in Inghilterra; poiché la mole e i metodi aziendali e la buona
+stampa non lo forniscono. Ma abbiamo cose buone nostre a bilanciarne
+l'assenza; e le migliori tra esse sono cose di cui non udiamo quasi mai
+parlare.
+
+Dopotutto, il paese più strano che io abbia mai visitato fu l'Inghilterra;
+ma la visitai in età assai precoce, e così divenni un poco strambo io
+stesso. L'Inghilterra è estremamente sottile; e nel meglio di essa c'è
+qualcosa di quasi segreto; è dilettantesca ancor più che aristocratica
+nella tradizione; non è mai ufficiale. Fra le sue preziosissime e appena
+visibili stranezze c'è questa. C'è un tipo di inglese che ho incontrato
+assai di frequente nei viaggi e mai nei libri di viaggio. Egli è
+l'espiazione del gitante inglese; lo si può chiamare l'[[Exile|esule]]
+inglese. È un uomo di buona cultura inglese assai calorosamente e senza
+affettazione devoto a qualche particolare cultura straniera. In un certo
+senso, ha già figurato in questa storia; poiché Maurice Baring aveva
+esattamente quell'atteggiamento verso la [[Russia]] e il Professor Eccles
+verso la Francia. Ma ho incontrato un anglo-irlandese accademico
+particolarmente affascinante che compiva esattamente lo stesso lavoro di
+penetrare con simpatia l'[[Soul|anima]] della Polonia; ne ho incontrato un
+altro che indagava i [[Secrets|segreti]] della musica spagnola a Madrid; e
+dappertutto sono sparpagliati sulla carta geografica, a fare non solo
+qualcosa per l'Europa ma assai decisamente qualcosa per l'Inghilterra;
+dimostrando ad antiquari lituani o a geografi portoghesi che non siamo
+tutti cafoni e strombazzatori; ma discendiamo dal popolo che seppe
+interpretare Plutarco e tradurre Rabelais. Sono una minoranza
+microscopicamente esigua; come quasi ogni gruppo inglese che davvero sappia
+ciò che accade; ma sono un seme e perciò un segreto. Può essere solo una
+comica coincidenza, ma è un fatto curioso, che siano per lo più di un certo
+tipo fisico; inclini a una leggera calvizie e a gradevoli sorrisi sotto
+baffi all'antica. Se la sociologia fosse una scienza, il che è assurdo,
+avanzerei la pretesa, come uno scienziato darwiniano, di aver scoperto una
+specie. È ricordando questi uomini che trovo più facile spaziare
+rapidamente, ai fini di questo breve capitolo, sui diversi paesi in cui
+essi sono i nostri assai poco ufficiali diplomatici.
+
+[[Love|Amo]] la Francia; e sono lieto di averla vista per la prima volta da
+giovane. Poiché se un inglese ha capito un francese, ha capito il più
+straniero degli stranieri. La nazione più vicina è ora la più lontana.
+L'[[Italy|Italia]] e la Spagna e, in modo del tutto particolare, la Polonia
+somigliano assai più all'Inghilterra di quella quadrata fortezza di
+cittadini uguali e di soldati romani; piena di consigli di famiglia e di
+patria potestas e di proprietà privata sotto il Diritto Romano; il maschio
+e la cittadella della Cristianità. Ciò è evidente, come primo esempio, nel
+caso dell'[[Italy|Italia]]. Quando andai per la prima volta a Firenze, avevo
+solo l'impressione confusa che questa [[City|città]] italiana fosse piena di
+dame inglesi; e che fossero tutte teosofe. Ma quando andai per la prima
+volta ad Assisi dopo essere stato a Roma (in più di un senso), vidi che
+questo non è del tutto giusto. C'è davvero una simpatia tra la cultura
+inglese e quella italiana, quale non c'è ancora tra la cultura inglese e
+quella francese. C'è davvero qualcosa di cordiale e di romantico che indora
+quelle scoscese rupi che guardano oltre la pianura verso Perugia; ed è in
+contatto con due nazioni. Gli inglesi apprezzano san Francesco come non
+apprezzano Pascal o il Curato d'Ars. Gli inglesi sanno leggere
+[[Dante]] in una [[Translation|traduzione]], anche quando non sanno leggere
+l'italiano; non sanno leggere Racine, neppure quando sanno leggere il
+francese. In breve, hanno una qualche comprensione del medievalismo in
+[[Italy|Italia]]; mentre non hanno un barlume della granitica grandezza del
+classicismo in Francia. Il cognome di Rossetti non fu del tutto un caso. La
+devozione del mio vecchio amico Philip Wicksteed per [[Dante]] fu un
+eccellente esempio di ciò che intendo per il tipico inglese con un hobby
+straniero.
+
+Provai lo stesso quando andai a tenere conferenze a Madrid; e incontrai
+quell'inglese timido e cortese che avrebbe potuto tenere una conferenza
+agli Spagnoli sulle loro stesse arie e [[songs|canzoni]] spagnole. Non
+sentivo che gli Spagnoli fossero, in un senso arduo, diversi dagli inglesi;
+ma solo che uno stupido [[Puritanism|Puritanesimo]] aveva proibito agli
+inglesi di mostrare le cordiali e sane emozioni che agli Spagnoli è
+consentito mostrare. L'emozione più manifesta, così come mi colpì, era
+l'[[Pride|orgoglio]] dei padri per i loro bambini. Ho visto un bambino
+correre per tutta la lunghezza dei viali alberati delle grandi strade, per
+gettarsi tra le braccia di un operaio cencioso, che lo strinse con un'estasi
+più che materna. Si potrà naturalmente dire che ciò è poco inglese; il che
+pare una considerazione poco generosa sugli inglesi. Preferisco dire che
+l'operaio spagnolo, con ogni probabilità, non era stato in una public
+school inglese. Ma in verità sono pochissimi gli inglesi cui non
+piacerebbe che accadesse. Il [[Puritanism|Puritanesimo]] è solo una
+paralisi; che s'irrigidisce in Stoicismo quando perde la religione. Quella
+sorta di calore e di noncuranza fu la mia impressione della Spagna. Oh sì,
+vidi l'Escorial. Sì, grazie, visitai Toledo; è splendida, ma la ricordo
+soprattutto per una peasant ancor più splendida, una contadina che versava
+vino a galloni e parlava per tutto il [[Time|tempo]].
+
+Ho recentemente rivisitato la Spagna, se i Catalani mi permetteranno di
+chiamarla Spagna (opinioni a parte, simpatizzo sinceramente con simili
+punti delicati), poiché la rivisitai d'impeto in un'automobile che non
+poteva far altro che caricare giù per la costa orientale fino a Tarragona.
+Se dico che caricai, il moto è metaforico; la forza motrice era un motore
+guidato dalla signorina Dorothy Collins, che faceva da segretaria,
+corriere, autista, guida, filosofa e soprattutto amica, senza la quale io e
+mia moglie saremmo spesso rimasti senza amici e bisognosi di
+[[philosophy|filosofia]]. Poiché dopo aver attraversato la Francia e aver
+valicato i Pirenei come Carlomagno e le Alpi come Napoleone (o come
+Annibale accompagnato da un elefante) ella mi ricondusse di nuovo a
+Firenze, per tenervi una conferenza, e poi tornò attraverso la Svizzera fino
+a Calais, dove ebbe inizio la grande campagna.
+
+Nel corso di essa, ebbi due curiose esperienze in due caffè stranieri. Uno
+era fuori Barcellona, dove il proprietario era un autentico gangster
+americano, che aveva addirittura scritto un libro di confessioni sulle sue
+stesse rapine e sui suoi racket organizzati. Modesto, come tutti i grandi
+uomini, riguardo all'abilità che aveva dimostrato nel fare grandi affari
+con lo scasso e la rapina di strada, era assai orgoglioso del suo
+esperimento letterario, e specialmente del suo libro; ma, come certi altri
+letterati, era scontento dei suoi editori. Disse di essersi precipitato
+attraverso l'oceano appena in [[Time|tempo]] per scoprire che gli avevano
+rubato quasi tutti i diritti d'autore. «È stata una vergogna», dissi con
+partecipazione, «ma è stata semplicemente una rapina». «E come no», disse
+con un indignato pugno sul tavolo. «È stata pura e semplice rapina».
+
+L'altro giorno era senza data, persino per la mia vita senza date; poiché
+avevo dimenticato il [[Time|tempo]] e non avevo la minima nozione di nulla,
+in nessun luogo, quando in una piccola città francese entrai a passeggio in
+un caffè rumoroso di chiacchiere francesi. [[songs|canzoni]] radiofoniche
+gemevano inascoltate; il che non stupisce, perché la conversazione francese
+è molto meglio della radio. E poi, inspiegabilmente, udii una voce parlare
+in inglese; e una voce che avevo udito prima. Poiché udii le parole:
+«... ovunque voi siate, mio caro popolo, sia in questo paese sia oltre il
+mare», e mi ricordai della Monarchia e di un antico grido; poiché era il
+[[King|Re]]; ed è così che celebrai il Giubileo.
+
+Tornando attraverso la Francia, mi ricordai di nuovo dell'[[Riddle|enigma]],
+che avevo trovato tanto vicini quei paesi lontani; ma che le due nazioni
+più vicine sono quelle che non capiamo mai: l'Irlanda e la Francia.
+Sull'Irlanda ho già scritto molto; e non ho nulla da dire perché non ho
+nulla da disdire. Ho scritto dell'Irlanda nell'ora della sua
+[[Tragedy|tragedia]], dopo la rossa [[Dawn|alba]] della Rivolta di Pasqua e
+la minaccia da [[nightmare|incubo]] della coscrizione; e di nuovo nell'ora
+del suo trionfo, quando il Congresso Eucaristico fiammeggiò davanti a
+milioni nel Phoenix Park; e tutte le spade e le trombe salutarono ciò che
+era davvero una Fenice. Ma c'è ancora una nazione, non dissimile da lei in
+quella [[Tragedy|tragedia]] e in quel trionfo, con una nota sulla quale
+concluderò. Un giorno forse tenterò uno studio più ampio. Qui in questo
+capitolo ricordo solo una o due cose; non quelle che potrei rammentare, ma
+quelle che non posso dimenticare.
+
+Quando visitai la Polonia, fui onorato da un invito del
+[[government|Governo]]; ma tutta l'ospitalità che ricevetti era fin troppo
+viva per rammentarmi alcunché di ufficiale. C'è a Varsavia una sorta di
+taverna sotterranea, dove gli uomini bevono Tokaj, che guarirebbe qualsiasi
+funzionario dal funzionarismo; e là cantarono le [[songs|canzoni]] di
+marcia dei Polacchi. Cracovia è ora ancor più la [[City|città]] nazionale
+proprio perché non è la capitale; e i suoi [[Secrets|segreti]] sono meglio
+esplorati da uomini come il Professor Roman Dyboski che da chiunque sia
+impigliato nell'arte di governo. Ma vidi qualcosa di quella difficile arte
+politica — abbastanza da sapere che non si dicono altro che sciocchezze nei
+giornali che discutono di ciò che chiamano il Corridoio Polacco. La
+generalizzazione più equa è questa: gli eventi recenti sarebbero meglio
+compresi, se tutti vedessero il fatto [[Self|di per sé]] evidente che i
+Polacchi hanno sempre da scegliere tra due mali. Incontrai il grande
+Pilsudski; e quel grandioso e piuttosto arcigno vecchio soldato di ventura
+mi disse in pratica che, dei due, preferiva la [[Germany|Germania]] alla
+[[Russia]]. È altrettanto chiaro che il suo rivale Dmowski, che pure ci
+intrattenne deliziosamente nel suo rifugio di campagna, aveva deciso che,
+dei due, preferiva la [[Russia]] alla [[Germany|Germania]]. Avevo già
+incontrato questo interessante uomo; poiché il dottor Sarolea me lo condusse
+a [[house|casa]]; dove il belga, con la sua maniera birichina, aveva
+punzecchiato il polacco per il suo antisemitismo, dicendo in tono
+persuasivo: «Dopotutto, la vostra religione è venuta dagli Ebrei». Al che il
+polacco rispose: «La mia religione è venuta da Gesù [[Christ|Cristo]], che
+fu assassinato dagli Ebrei». Pilsudski provava anche molta simpatia per la
+Lituania; benché Lituani e Polacchi in quel [[Time|tempo]] fossero in lite.
+Era entusiasta di Wilno; e in seguito trovai alla frontiera un luogo storico
+dove Polacchi e Lituani sono in pace — persino quando sono in guerra.
+
+Viaggiavo in automobile con una dama polacca, che era assai spiritosa e
+[[Well|ben]] addentro all'intero carattere dell'Europa, e anche
+dell'Inghilterra (com'è barbara abitudine degli Slavi); e notai soltanto
+che il suo tono mutò, semmai in una sorta di freddezza, mentre ci
+fermavamo davanti a un arco che immetteva in una via laterale, ed ella
+disse: «Qui non possiamo entrare in macchina». Me ne stupii; poiché il
+portale era largo e la via apparentemente sgombra. Mentre passavamo sotto
+l'arco, ella disse col medesimo tono incolore: «Qui ci si toglie il
+cappello». E allora vidi la via aperta. Era gremita di una vasta folla,
+tutta rivolta verso di me; e tutta in ginocchio a terra. Era come se
+qualcuno mi camminasse dietro; o qualche strano uccello volteggiasse sul
+mio capo. Mi voltai, e vidi al centro dell'arco grandi finestre spalancate,
+che dischiudevano una camera colma d'oro e di colori; dietro c'era un
+dipinto; ma parti dell'intero dipinto si muovevano come in uno spettacolo
+di burattini, destando strani [[Double|doppi]] ricordi come
+[[A Dream|un sogno]] del ponte nello spettacolo di burattini della mia
+[[Childhood|infanzia]]; e allora compresi che da quei gruppi mutevoli
+splendeva e risuonava l'antica magnificenza della Messa.
+
+Aggiungerò qui un altro [[Memory|ricordo]]. Feci conoscenza di un giovane
+Conte la cui enorme e sontuosa [[house|casa]] di campagna, un vero palazzo secondo
+il vecchio modello (poiché egli stesso aveva idee ben diverse), era stata
+bruciata e devastata e lasciata in rovina dalla ritirata dell'Armata Rossa
+dopo la Battaglia di Varsavia. Guardando una simile montagna di marmi
+frantumati e di arazzi neri e bruciati, uno del nostro gruppo disse: «Deve
+essere una cosa terribile per lei vedere l'antica [[Home|casa]] della sua
+famiglia distrutta così». Ma il giovane, che era assai giovane in ogni suo
+gesto, si strinse nelle spalle e rise, con l'aria al medesimo
+[[Time|tempo]] un poco triste. «Oh, non li biasimo per questo», disse.
+«Sono stato soldato anch'io, e nella stessa campagna; e conosco le
+tentazioni. So che cosa prova un uomo, sfinito dalla fatica e intirizzito
+dal freddo, quando si chiede che cosa possano importargli le poltrone e le
+tende di qualcun altro, purché possa avere legna da ardere per la
+[[Night|notte]]. Dall'una parte o dall'altra, eravamo tutti soldati; ed è
+una vita dura e orribile. Non serbo affatto rancore per ciò che fecero qui.
+C'è una cosa sola per cui provo davvero rancore. Ve la mostrerò».
+
+E ci condusse fuori in un lungo viale fiancheggiato di pioppi; e in fondo
+a esso c'era una statua della Beata Vergine; con la testa e le mani
+spezzate dai colpi. Ma le mani erano state levate; ed è cosa strana che
+proprio la mutilazione parve dare maggior significato all'atto
+d'intercessione; nell'implorare [[Mercy|misericordia]] per la spietata
+razza degli uomini.
 
 *****

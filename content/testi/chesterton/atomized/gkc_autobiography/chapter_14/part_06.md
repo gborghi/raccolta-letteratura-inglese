@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/gkc-autobiography-(chesterton)">GKC Autobiography</a> › <a href="/testi/chesterton/atomized/gkc_autobiography/chapter_14">Chapter 14</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/gkc_autobiography/chapter_14/part_05">‹ part 05</a><a class="ex-next" href="/testi/chesterton/atomized/gkc_autobiography/chapter_15/part_01">part 01 ›</a></div>
@@ -103,5 +105,104 @@ if the words had sounded like a vaunt:
   Nor yet without a boast shall end;
   for I was Shakespeare's countryman
   And were not you my friend.
+
+*****
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/gkc-autobiography-(chesterton)">GKC Autobiography</a> › <a href="/testi/chesterton/atomized/gkc_autobiography/chapter_14">Chapter 14</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/gkc_autobiography/chapter_14/part_05">‹ part 05</a><a class="ex-next" href="/testi/chesterton/atomized/gkc_autobiography/chapter_15/part_01">part 01 ›</a></div>
+</nav>
+
+  E in sacramento innalzami il divino
+  forte fratello in Dio, ultimo compagno, il vino.
+
+Dissi soltanto poche parole, nel senso che una simile cerimonia sarebbe
+potuta essere altrettanto appropriata migliaia di anni fa, alla festa di
+un grande poeta greco; e che ero fiducioso che i sonetti e i versi
+possenti di Belloc sarebbero rimasti come le coppe e le epopee scolpite
+dei Greci. Egli lo riconobbe brevemente, con un triste buon
+[[Humour|umore]], dicendo che, giunto ai sessant'anni, non gli importava
+gran che se i suoi versi rimanessero o no. «Ma mi si dice», aggiunse con
+un'enfasi che d'un tratto rinasceva, «mi si dice che si torna a
+importarsene terribilmente quando si arriva ai settanta. In tal caso,
+[[Hope|spero]] di morire a sessantanove». E poi ci accomodammo al convito
+dei vecchi amici, che doveva essere tanto felice appunto perché non vi
+erano discorsi.
+
+Verso la fine della cena qualcuno mi sussurrò che forse sarebbe stato
+meglio spendere una parola in riconoscimento degli sforzi di un tale, di
+cui dimentico il nome, che si supponeva avesse organizzato la faccenda. Lo
+ringraziai perciò brevemente; ed egli, ancora più brevemente, ringraziò
+me, ma soggiunse che si trattava di un vero e proprio equivoco, poiché il
+vero autore del progetto era Johnnie Morton, altrimenti detto Beachcomber,
+che sedeva immediatamente alla sua destra. Morton si [[Rose|alzò]]
+solennemente per raccogliere l'applauso bruscamente trasferitogli; volse
+lo sguardo alla propria destra, e ringraziò calorosamente chiunque si
+trovasse a sedere là (credo fosse Squire) per averlo ispirato con questa
+grande concezione di un banchetto per Belloc. Squire si levò e, con molti
+cortesi gesti, spiegò che il gentiluomo alla propria destra, il signor A.
+P. Herbert, era stato la vera, profonda e ultima ispirazione di questa
+grande idea; e che era solo giusto che il segreto della sua iniziativa
+venisse ora rivelato. A questo [[Time|punto]], la [[logic|logica]] dello
+scherzo era in pieno galoppo e non si poteva più frenare; nemmeno se avessi
+voluto frenarla. A. P. Herbert si [[Rose|levò]] all'altezza dell'occasione
+con una superba presenza di spirito, e diede alla serie una piega del tutto
+nuova e originale. È un eccellente oratore e, come tutti sappiamo, un
+ammirevole autore; ma non avevo mai saputo prima che è pure un ammirevole
+attore. Per qualche ragione a lui sola nota, scelse di fingersi il
+funzionario oratore di una qualche Società di Beneficenza Operaia, come gli
+Oddfellows o i Foresters. Non ebbe bisogno di dirci che stava recitando
+quella parte; nel tono della voce ce lo disse fin dalle prime parole. Non
+dimenticherò mai l'esattezza dell'accento con cui disse: «Sono certo,
+amici, che siamo tutti ben lieti di vedere fra noi, questa sera, l'ex Druido
+Chesterton». Ma diede anche al suo discorso una precisa direzione logica.
+Disse che non a lui, ma al nostro vecchio e fedele amico Duff Cooper si
+doveva in realtà questa piacevole serata. Duff Cooper, che gli sedeva
+accanto, si [[Rose|alzò]] allora e, con tono risoluto e squillante,
+pronunciò un'[[Imitation|imitazione]] di un comizio liberale, pieno di
+invocazioni al suo grande capo Lloyd-George. Spiegò tuttavia che era stato
+il signor E. C. Bentley, alla sua destra, e non lui, ad aver organizzato
+questo tributo a quel pilastro del Liberalismo politico, il signor Belloc.
+Bentley diede un'unica occhiata alla propria destra, e si [[Rose|alzò]] con
+esattamente quella sprezzante gravità che avevo visto quarant'anni prima
+nei circoli di dibattito della nostra fanciullezza; il [[Memory|ricordo]]
+del suo occhialino in bilico e della sua blanda solennità mi tornò
+attraverso la vita con un'intensità tale da smuovere le [[Tears|lacrime]]
+che nascono dal [[Time|tempo]]. Disse, con la sua precisa enunciazione, di
+aver seguito per tutta la vita una sola e sufficiente regola. In tutti i
+problemi che gli si erano presentati, si era accontentato di consultare
+esclusivamente l'opinione del Professor Eccles. In ogni dettaglio della
+vita quotidiana, nella scelta della moglie, di una professione, di una
+[[house|casa]], di un pranzo, non aveva fatto altro che eseguire quanto il
+Professor Eccles gli indicasse. Nella presente occasione, ogni apparenza
+egli potesse avere di aver organizzato il banchetto di Belloc era in realtà
+una maschera per l'influenza del Professor Eccles. Il Professor Eccles
+rispose in modo analogo, ma ancor più contenuto, dicendo semplicemente di
+essere stato scambiato per l'uomo che gli sedeva accanto, il vero fondatore
+del convito; e così, per fatali e sicuri passi, l'intero processo fece il
+giro dell'intera tavola; finché ogni singolo essere umano ebbe pronunciato
+un discorso. È l'unico pranzo cui io abbia mai partecipato in cui fu
+letteralmente vero che ogni commensale tenne un discorso di fine pranzo. E
+quello fu il felicissimo epilogo di quel felicissimo pranzo, in cui non vi
+dovevano essere discorsi.
+
+Io stesso non feci un altro discorso; benché fossi ben lontano dal pensare
+che si fosse discorseggiato troppo. Solo certe parole frammentarie, un
+[[Memory|ricordo]] di un poeta tardo-vittoriano che conosco, Sir William
+Watson, affiorarono alla superficie della mia mente; ed erano quelle le
+parole che avrei detto, se avessi detto qualcosa. Poiché ciò che il poeta
+disse al suo amico è tutto quanto avrei potuto aggiungere, in spirito
+meramente personale, alle molte cose che si dissero quella
+[[Night|notte]] intorno a Hilaire Belloc; e non mi sarei vergognato se le
+parole fossero suonate come un vanto:
+
+  Né senza [[Honour|onore]] corsero i miei giorni,
+  né senza vanto avranno fine;
+  ché fui compatriota di Shakespeare
+  e non fosti tu forse amico mio.
 
 *****

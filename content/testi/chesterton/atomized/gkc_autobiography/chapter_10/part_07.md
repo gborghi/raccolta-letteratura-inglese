@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/gkc-autobiography-(chesterton)">GKC Autobiography</a> › <a href="/testi/chesterton/atomized/gkc_autobiography/chapter_10">Chapter 10</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/gkc_autobiography/chapter_10/part_06">‹ part 06</a><a class="ex-next" href="/testi/chesterton/atomized/gkc_autobiography/chapter_11/part_01">part 01 ›</a></div>
@@ -69,5 +71,24 @@ They've all got to fight.  I don't see how anybody can help it."
 
 If the Cowboys were indeed struggling to find the [[Road|road]] back to Reality
 they found it all right.
+
+*****
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/gkc-autobiography-(chesterton)">GKC Autobiography</a> › <a href="/testi/chesterton/atomized/gkc_autobiography/chapter_10">Chapter 10</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/gkc_autobiography/chapter_10/part_06">‹ part 06</a><a class="ex-next" href="/testi/chesterton/atomized/gkc_autobiography/chapter_11/part_01">part 01 ›</a></div>
+</nav>
+
+Ma l'altra metà del mistero era, se possibile, ancor più misteriosa. Era tanto più misteriosa in quanto era pubblica, per non dire affollata. Andai alla cena del Savoy nella convinzione che Barrie e Barker avrebbero spiegato a un piccolo gruppo qualche piccola parte del progetto. Trovai invece il palcoscenico del Savoy Theatre gremito di quasi tutta [[London|Londra]], come dicono i giornali mondani quando intendono tutta la Società. Dal Primo Ministro, il signor Asquith, fino al più giallo e criptico degli attaché orientali, c'erano tutti, a cenare a tavolinetti e a discorrere di ogni cosa fuorché della faccenda in questione. O meglio, c'erano tutti tranne Sir James Barrie; il quale in quell'occasione si rese quasi del tutto invisibile. Verso la fine del pasto, Sir Edward Elgar osservò con noncuranza a mia moglie: «Suppongo lei sappia che la stanno filmando per tutto questo [[Time|tempo]].»
+
+Da quel che conosco della signora, è improbabile che stesse brandendo una bottiglia di champagne o attirando altrimenti l'attenzione della compagnia; ma alcuni tra loro lanciavano pezzi di pane e mostravano un marcato distacco dalle cure di Stato. Poi i Quattro Originari, che il destino aveva prescelto per una selvaggia vita da West, furono avvicinati con istruzioni private, che si concretarono in pubblico come segue. Il palco fu sgombrato e la compagnia si trasferì in platea, dove Bernard [[Shaw]] li arringò con un discorso furibondo, denunciando con selvagge gesticolazioni Barker e Barrie e sguainando infine un'enorme [[Sword|spada]]. Noi altri tre ci [[Rose|alzammo]] a quel segnale, brandendo anch'essi spade, e prendemmo d'assalto il palco, uscendo attraverso le quinte sul fondo. E là Noi (chiunque fossimo Noi) scompariamo per sempre dalla cronaca e dalla ragionevole comprensione dell'umanità; poiché mai, da quel giorno a oggi, il più fioco barlume di luce è stato gettato sulle ragioni del nostro singolare contegno. Ho udito da allora, per vie remote e tortuose, certi vaghi suggerimenti, secondo cui vi era una qualche nozione simbolica del nostro svanire dalla vita reale per essere catturati o rapiti nel mondo cinematografico del [[Romance|Romanzesco]]; impegnati per tutto il resto della recita a lottare per aprirci a forza la via del ritorno alla realtà. Se questa fosse l'idea non l'ho mai saputo con certezza; so soltanto che ricevetti subito dopo un biglietto amichevole e di scuse da Sir James Barrie, in cui diceva che l'intero progetto sarebbe stato lasciato cadere.
+
+Non lo so; ma me lo sono spesso chiesto. E ho talvolta immaginato che vi fosse un altro senso, più cupo della mia stessa fantasia, in cui il segreto messo nella pipa di Barrie si era risolto in fumo. Vi era stata davvero una sorta di irrealtà ultraterrena in tutta la leggerezza di quelle ultime ore; come qualcosa di alto e stridulo che potesse incrinarsi; e si incrinò. Mi sono talvolta chiesto se non si avvertisse che questa fantasia della [[London|Londra]] alla moda sarebbe apparsa incongrua con qualcosa che accadde alcuni giorni dopo. Ché quanto accadde allora fu che un certo Ultimatum partì dal [[government|Governo]] austriaco contro la Serbia. Telefonai a Maurice Baring in una fase più avanzata di quella vicenda in rapido sviluppo; e ricordo il tono della sua voce quando disse: «Dobbiamo combattere. Tutti loro devono combattere. Non vedo come chiunque possa evitarlo.»
+
+Se i cowboy stavano davvero lottando per ritrovare la [[Road|via]] del ritorno alla Realtà, la trovarono senz'altro.
 
 *****

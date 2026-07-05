@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/the-ballad-of-the-white-horse-(chesterton)">The Ballad of the White Horse</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/long/the_ballad_of_the_white_horse/section_01_book_i">‹ Section 01 book i</a><a class="ex-next" href="/testi/chesterton/long/the_ballad_of_the_white_horse/section_03_book_iii">Section 03 book iii ›</a></div>
@@ -297,3 +299,296 @@ P across windy wastes and up
      And Alfred strode off rapidly,  
      And Colan of the Sacred Tree  
        Went slowly to his [[Cave|cave]]. [280]  
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/the-ballad-of-the-white-horse-(chesterton)">The Ballad of the White Horse</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/long/the_ballad_of_the_white_horse/section_01_book_i">‹ Section 01 book i</a><a class="ex-next" href="/testi/chesterton/long/the_ballad_of_the_white_horse/section_03_book_iii">Section 03 book iii ›</a></div>
+</nav>
+
+LIBRO II  
+L'ADUNATA DEI CAPI  
+
+Su per lande ventose, in alto  
+       andò Alfred oltre i boschetti,  
+     scosso dalla gioia dei giganti,  
+       la gioia senza causa.  
+     Sui pendii verso le baie d'occidente, [5]  
+       dove albero mai non fiorisce,  
+     lavò la sua [[Soul|anima]] nel [[Wind|vento]] dell'ovest  
+     e il suo [[Body|corpo]] nel mare.  
+     E si mise a rimare le misure di birra,  
+       e cantò ad alta voce le sue leggi, [10]  
+     per la gioia dei giganti,  
+       la gioia senza causa.  
+     Ché il [[King|Re]] andava adunando uomini del Wessex,  
+       come grano fuor dalla pula,  
+     i pochi ancor vivi per morire, [15]  
+     ridendo, come teschi sparsi che giacciono  
+     dopo battaglie perse, e volgono al cielo  
+       un riso eterno.  
+     Il [[King|Re]] andava adunando uomini cristiani,  
+       come frumento fuor dal guscio; [20]  
+     Eldred, il possidente in riva al mare,  
+     e Mark, l'uomo venuto d'[[Italy|Italia]],  
+     e Colan dell'Albero Sacro,  
+       dell'antica tribù dell'Usk.  
+     Gracchiava grave il corvo verso casa, [25]  
+       l'ovest era chiaro e caldo,  
+     il fumo di cena e di riposo  
+     [[Rose|sorse]] come albero azzurro tra gli alberi  
+       quando egli giunse alla fattoria di Eldred.  
+     Ma la fattoria di Eldred cadeva sghemba, [30]  
+       come ossa di vecchio storpio,  
+     e gli attrezzi di Eldred rossi di ruggine,  
+     e sul suo [[Well|pozzo]] una crosta verde,  
+     e cardi purpurei spuntavano dritti  
+       tra le pietre della cucina. [35]  
+     Ma un fumo di buon banchetto  
+       saliva sempre verso l'alto,  
+     e le porte di Eldred stavano spalancate  
+     al passo ozioso e al carro faticante,  
+     e il grande cuore folle di Eldred [40]  
+       stava aperto come la sua porta.  
+     Un uomo possente era Eldred,  
+       una mole da colmar di botti,  
+     il volto una fornace sognante,  
+       il suo [[Body|corpo]] una [[Hill|collina]] che cammina. [45]  
+     Nelle antiche guerre del Wessex  
+       la sua [[Sword|spada]] s'era immersa a fondo,  
+     ma tutti i suoi amici, sospirando disse,  
+     furono infranti attorno a Ethelred;  
+     e tra il bere profondo e i morti [50]  
+       egli era caduto nel [[Sleep|sonno]].  
+     «Non venire da me, [[King Alfred|Re Alfred]],  
+       se non sempre per la birra;  
+     perché dovrebbero cadere i miei miti famigli  
+     perché i capi gridano ancora una volta, [55]  
+     come in ogni guerra, che vinceremo,  
+       e in ogni guerra falliamo?  
+     «I tuoi scaldi ancora tuonano e profetizzano  
+       quella [[Crown|corona]] che mai non viene;  
+     amico, io veglierò le cose certe, [60]  
+     i porci, e le lente lune come anelli d'argento,  
+       e il maturare delle prugne.»  
+     E Alfred rispose, bevendo,  
+       e grave, senza biasimo:  
+     «Non porto vanto di scaldo o di [[King|re]], [65]  
+     ciò che porto è cosa minore,  
+       ma viene in un nome migliore.  
+     «Dalla bocca della Madre di Dio,  
+       più che dalle porte del destino,  
+     chiamo a raccolta gli uomini del Wessex [70]  
+     da erboso [[Hamlet|borgo]] o fosso o tana,  
+     a spezzare ed esser spezzati, Dio sa quando,  
+       ma io ho visto per chi.  
+     «Dalla bocca della Madre di Dio  
+       come piccola parola io vengo; [75]  
+     ché vado adunando uomini cristiani  
+     da selciati sprofondati e guadi e paludi,  
+     a morire in battaglia, Dio sa quando,  
+       ma per Dio, io so perché.  
+     «E questa è la parola di Maria, [80]  
+       la parola del [[Desire|desiderio]] del mondo:  
+     “Non avrete più alcun conforto,  
+     se non che il cielo si fa ancor più scuro  
+       e il mare sale più alto.” »  
+     Poi calò il [[Silence|silenzio]]. E lento [85]  
+       sorse il signore della terra marina,  
+     come vasta bestia di mistero,  
+     riempì la stanza e il portico e il cielo,  
+     e da un alto chiodo di ragnatele  
+       staccò la sua pesante [[Sword|spada]]. [90]  
+     Su per le stridule dune marine, in alto  
+       andò Alfred tutto [[Alone|solo]],  
+     voltandosi una volta pria che l'uscio si chiudesse,  
+     gridando a Eldred sopra la sua botte  
+     di portare ogni lancia alla capanna del boscaiolo [95]  
+       tagliata sotto la Pietra di Egbert.  
+     E voltò le spalle e ruppe le felci,  
+       e combatté le falene del crepuscolo,  
+     e andò per la sua via verso altri amici,  
+     amici caduti da ogni confine del vasto mondo, [100]  
+     da Roma che ira e perdono manda  
+       e dalle grigie tribù dell'Usk.  
+     Vide orme gigantesche di [[Death|morte]]  
+       e molte forme di sventura,  
+     buone cascine ridotte in cenere grigia [105]  
+     e una [[house|casa]] di monaco bianca come uno [[skeleton|scheletro]]  
+       nella verde cripta della valle.  
+     E in più d'una villa romana  
+       che terra ed edere divorano,  
+     vide pavimenti colorati affondare e sbiadire [110]  
+     tra i [[Flowers|fiori]], e il colonnato ventoso  
+         come lo spettro d'una strada.  
+     Ma le fredde [[Stars|stelle]] s'affollarono  
+       tra i freddi pini  
+     pria ch'ei fosse a metà del pellegrinaggio [115]  
+       oltre le linee d'occidente.  
+     E la bianca [[Dawn|alba]] si allargò  
+       pria che giungesse all'ultimo pino,  
+     dove Mark, l'uomo d'[[Italy|Italia]],  
+       ancora faceva il segno cristiano. [120]  
+     La lunga fattoria giaceva sul largo fianco della [[Hill|collina]],  
+       piatta come una pianta dipinta,  
+     e lì accanto la bassa [[house|casa]] bianca,  
+       dove abitava l'uomo del sud.  
+     Un uomo bronzeo, con l'occhio vivo d'uccello, [125]  
+       e forte becco e fronte d'uccello,  
+     la pelle bruna come oro sepolto,  
+     e di certi suoi avi si narrava  
+     che vennero sull'antica [[Ship|nave]] splendente,  
+       con Caesar sulla prua. [130]  
+     I suoi alberi da frutto stavano come soldati  
+       schierati in linea retta,  
+     i suoi strani, rigidi olivi non mancavano,  
+     e tutti i re della terra bevevano birra,  
+       ma lui beveva vino. [135]  
+     Vasto sulle piane britanniche devastate  
+       non sorgeva arco né cupola,  
+     solo gli alberi ad agitarsi e vacillare,  
+     le tribù a litigare, le bestie a strillare;  
+     ma gli occhi nella sua testa erano forti come acciaio, [140]  
+       e la sua [[Soul|anima]] ricordava Roma.  
+     Allora Alfred dalla lancia solitaria  
+       alzò la sua testa di [[Lion|leone]];  
+     e affrontato dall'occhio dell'italiano,  
+     che gli chiedeva del suo donde e perché, [145]  
+       [[King Alfred|Re Alfred]] si levò e disse:  
+     «Io sono quel [[King|Re]] tante volte vinto  
+       il cui fallimento riempie la terra,  
+     che fuggì un tempo davanti ai Danesi,  
+     che coi Danesi mercanteggiò con l'oro, [150]  
+     che ora sulla landa del Wessex  
+       a stento ha piedi per stare.  
+     «Ma dalla bocca della Madre di Dio  
+       ho visto la [[Truth|verità]] come [[Fire|fuoco]],  
+     questa: che il cielo si fa ancor più scuro [155]  
+       e il mare sale più alto.»  
+     A lungo il Romano guardò la terra;  
+       gli alberi come corone d'oro  
+     fiammeggiavano, intrisi d'[[Dawn|alba]] e imperlati di rugiada,  
+     mentre di più tenue colore, di più fresco ricciolo, [160]  
+     le nuvole da sotto il mondo  
+       si levavano sopra le colline.  
+     «Queste viti son funi che forte mi trascinano,»  
+       disse. «Non vado lontano;  
+     dove vorreste adunarvi? Ché dovete tenere [165]  
+     mezzo Wiltshire e la landa del Bianco [[Horse|Cavallo]],  
+     e la riva del Tamigi fino a Owsenfold,  
+       se il Wessex va in guerra.  
+     «Guthrum siede forte su entrambe le rive  
+       e voi dovete premere le sue linee [170]  
+     verso l'interno, e cacciarlo giù a oriente;  
+     [[Doubt|dubito]] che prenderete la [[Crown|corona]]  
+     finché non avrete preso la città di [[London|Londra]].  
+       Quanto a me, io ho le viti.»  
+     «Se ogni uomo nel Giorno del Giudizio [175]  
+       incontra Dio su una piana da [[Alone|solo]],»  
+     disse Alfred, «io parlerò per te  
+     come per me stesso e dirò per vero  
+     che portasti ogni uomo d'armi che conoscevi  
+       schierato sotto la Pietra di Egbert. [180]  
+     «E sia pur io nella [[Dust|polvere]] prima d'allora,  
+       io so dove sarai tu.»  
+     E d'un tratto, spallata la lancia,  
+     svanì come un'elfica [[Fear|paura]],  
+     dove gli alti pini salivano, fila su fila, [185]  
+       albero sovrastante albero.  
+     Portò in spalla la lancia al mattino  
+       e rise nel caricarsela,  
+     ma s'appoggiò alla lancia come a un bastone,  
+     con forza e poca voglia di ridere, [190]  
+     prima ancor di scorgere pulcino o vitello  
+       di Colan di Caerleon.  
+     Ché l'uomo abitava in una terra perduta  
+       di macigni e di uomini infranti,  
+     in una grande grigia [[Cave|caverna]] lontano a sud [195]  
+     dove una fitta selva verde ne chiudeva la bocca,  
+       dando tenebra alla sua tana.  
+     E l'uomo era giunto come un'[[Shadow|ombra]],  
+       dall'[[Shadow|ombra]] degli alberi druidici,  
+     dove l'Usk, con possenti mormorii, [200]  
+     oltre Caerleon dei re caduti,  
+       esce verso mari spettrali.  
+     Ultimo d'una stirpe in rovina—  
+       parlava la lingua dei Gaeli;  
+     i suoi parenti erano nella santa Irlanda, [205]  
+       o su tra le rupi del Galles.  
+     Ma la sua [[Soul|anima]] stava col popolo di sua madre,  
+       ch'era dell'isola avvolta di pioggia,  
+     dove Patrick e Brandan a occidente  
+     guardarono infine un mare senza terre [210]  
+       e l'ultimo sorriso del sole.  
+     La sua arpa era intagliata e sapiente,  
+       come la fa l'artigiano celtico,  
+     tutta incisa di forme attorte  
+       come tanti serpenti senza testa. [215]  
+     La sua arpa era intagliata e sapiente,  
+       la sua [[Sword|spada]] pronta e affilata,  
+     ed era lieto quando impugnava la [[Sword|spada]],  
+       triste quando teneva l'arpa.  
+     Ché i grandi Gaeli d'Irlanda [220]  
+       sono gli uomini che Dio fece folli,  
+     ché tutte le loro guerre sono liete,  
+       e tristi tutti i loro [[songs|canti]].  
+     Serbava l'ordine romano,  
+       faceva il segno cristiano; [225]  
+     ma i suoi occhi spesso si facevano ciechi e lucenti,  
+     e il mare che [[Rose|saliva]] tra le rocce di [[Night|notte]]  
+       gli [[Rose|saliva]] alla testa come vino.  
+     Faceva il segno della [[Cross|croce]] di Dio,  
+     conosceva la [[prayer|preghiera]] romana, [230]  
+     ma aveva sragione nel cuore  
+       a causa degli dèi che furono.  
+     Quelli stessi che camminavano sulle alte rupi,  
+       alte come le nuvole d'allora,  
+     dèi di [[Beauty|bellezza]] insostenibile [235]  
+       che spezzava i cuori degli uomini.  
+     E fosse su scranno o in sella,  
+       fosse con cipiglio o sorriso,  
+     fosse a festa o a battaglia,  
+     udiva il rumore d'un mare senza nome [240]  
+       su un'isola non scoperta.  
+     Sollevando la grande edera verde  
+       e abbassando la grande lancia,  
+     uno disse: «Io sono Alfred del Wessex,  
+       e sono un [[King|re]] vinto.» [245]  
+     E l'uomo della [[Cave|caverna]] rispose,  
+       e i suoi occhi erano [[Stars|stelle]] di scherno:  
+     «E re migliori furono vinti  
+       prima ancor che nascessero i tuoi avi.  
+     «Qual dea fu tua madre, [250]  
+       qual fata generò la tua stirpe,  
+     che tu non dovessi morire con Uther  
+       e [[Arthur|Artù]] e Lancelot?  
+     «Ma quando vincete vi vantate e gonfiate,  
+       e quando perdete inveite, [255]  
+     esercito di bifolchi d'oriente  
+       non forte abbastanza per fallire.»  
+     «Non porto vanto né invettiva,»  
+       parlò Alfred senza ira,  
+     «porto di Nostra Signora una lezione data, [260]  
+     questa: che il cielo si fa ancor più scuro  
+       e il mare sale più alto.»  
+     Allora Colan dell'Albero Sacro  
+       scosse in alto la nera criniera,  
+     e gridò, mentre rigido [[Rose|sorgeva]], [265]  
+     «E se il mare e il cielo son nemici,  
+       noi domeremo il mare e il cielo.»  
+     Sorrise Alfred: «Cercate una [[Fable|favola]]  
+       più vertiginosa e più tremenda  
+     di tutte le vostre folli storie barbare [270]  
+       dove il cielo sta a testa in giù?  
+     «Una storia dove un uomo guarda dall'alto il cielo  
+       che a lungo dall'alto lo guardò;  
+     una storia dove un uomo può [[Swallow|inghiottire]] un mare  
+       che potrebbe [[Swallow|inghiottire]] i serafini. [275]  
+     «Portate alla capanna presso la Pietra di Egbert  
+       ogni roncola e arco che avete.»  
+     E Alfred si avviò via a gran passi,  
+     e Colan dell'Albero Sacro  
+       andò lento alla sua [[Cave|caverna]]. [280]  

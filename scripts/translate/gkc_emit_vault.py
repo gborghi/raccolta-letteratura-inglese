@@ -49,10 +49,12 @@ def prose_parts(body):
     return out
 
 def build_cache(author):
-    vbase = os.path.join(VAULT_AUTHORS, author.capitalize(), "Atomized")
+    # scan both the atomized prose tree and the Long/ tree (long poems: Ballad, etc.)
+    vbases = [os.path.join(VAULT_AUTHORS, author.capitalize(), sub) for sub in ("Atomized", "Long")]
     cache = {}
     pairs = mism = 0
-    for it_path in glob.glob(os.path.join(vbase, "**", "*.it.md"), recursive=True):
+    it_paths = [p for vb in vbases for p in glob.glob(os.path.join(vb, "**", "*.it.md"), recursive=True)]
+    for it_path in it_paths:
         en_path = it_path[:-6] + ".md"
         if not os.path.exists(en_path):
             continue

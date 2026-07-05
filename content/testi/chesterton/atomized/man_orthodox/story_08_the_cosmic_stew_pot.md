@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/man-orthodox-(chesterton)">Man Orthodox</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/man_orthodox/story_07_a_man_of_distinction">‹ Story 07 A Man Of Distinction</a><a class="ex-next" href="/testi/chesterton/atomized/man_orthodox/story_09_poetry_and_beliefs">Story 09 Poetry And Beliefs ›</a></div>
@@ -19,3 +21,18 @@ THE SENTINEL
 EVERYMAN
 
 [[Death|DEATH]] OF AN [[Artist|ARTIST]]
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/man-orthodox-(chesterton)">Man Orthodox</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/man_orthodox/story_07_a_man_of_distinction">‹ Story 07 A Man Of Distinction</a><a class="ex-next" href="/testi/chesterton/atomized/man_orthodox/story_09_poetry_and_beliefs">Story 09 Poetry And Beliefs ›</a></div>
+</nav>
+
+IL CALDERONE COSMICO
+LA SENTINELLA
+OGNUOMO
+
+[[Death|MORTE]] DI UN [[Artist|ARTISTA]]

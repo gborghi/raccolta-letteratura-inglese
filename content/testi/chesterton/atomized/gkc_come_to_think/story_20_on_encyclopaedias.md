@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/gkc-come-to-think-(chesterton)">GKC Come to Think</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/gkc_come_to_think/story_19_on_evil_euphemisms">‹ Story 19 ON EVIL EUPHEMISMS</a><a class="ex-next" href="/testi/chesterton/atomized/gkc_come_to_think/story_21_on_preaching">Story 21 ON PREACHING ›</a></div>
@@ -149,3 +151,148 @@ And though the making of a dictionary sounds to us a mild occupation,
 Dr. Johnson was by no means a mild person, and sometimes almost
 made it a slang dictionary, when he had a chance of slinging abuse
 at the Whigs.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/gkc-come-to-think-(chesterton)">GKC Come to Think</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/gkc_come_to_think/story_19_on_evil_euphemisms">‹ Story 19 ON EVIL EUPHEMISMS</a><a class="ex-next" href="/testi/chesterton/atomized/gkc_come_to_think/story_21_on_preaching">Story 21 ON PREACHING ›</a></div>
+</nav>
+
+XX.  Sulle enciclopedie
+
+RIVOLGENDO la mia attenzione al tema delle Enciclopedie, e in generale
+ai progetti volti a fornire informazioni generali, resto colpito da certi
+problemi piuttosto trascurati insiti nella natura stessa dell'informazione.
+Vi è attualmente una considerevole attività nel disseminare una certa
+sorta di informazione.  È probabile che qualsiasi rivista o giornale contenga
+una specie di questionario d'esame, fiduciosamente accompagnato dalla soluzione.
+Talvolta il foglio è stampato e disposto in modo che le risposte
+vengano di fatto prima delle domande.  Ma tutto ciò è questione
+di ciò che si chiama «impaginazione» e può tranquillamente affidarsi ai
+pratici, concreti e riusciti uomini d'affari che hanno impaginato il foglio.
+Talvolta pare che essi abbiano inventato le risposte così [[Well|bene]] come le domande.
+Ma tutti conosciamo il carattere generale delle domande.
+Su una qualsiasi tale pagina di un qualsiasi tale foglio possiamo incontrare la sfida:
+«In quale data un dentista subì la morte per le sue opinioni teologiche?»
+oppure, «Quale [[Poison|veleno]] mortale è un sottoprodotto delle fragole schiacciate?»
+oppure, «Quale è il reddito di Mr. Henry Ford calcolato in antiche
+dracme greche?»  Ma per quanto pressanti e pratiche siano queste domande,
+per chiunque conduca un'attiva vita moderna, vi sono difficoltà
+connesse al rispondere correttamente a molte di esse:
+difficoltà non sempre apprezzate né da coloro che pongono
+né da coloro che rispondono.
+
+Due impressioni generali, tratte da uno studio di tale sapere
+enciclopedico, mi colpiscono in questo momento.  Una è che vi sono molte più
+cose che sono mere questioni di opinione, e molte meno cose
+che sono mere questioni di fatto, di quanto molti di costoro suppongano.
+L'altra è che persino la migliore informazione è assai di rado la più recente
+informazione. È un luogo comune che le enciclopedie tendano troppo rapidamente
+a diventare superate. Si dice che una preziosissima enciclopedia
+sia stata proposta al pubblico alcuni anni fa, e fu solo
+all'ultimo momento che qualcuno protestò blandamente contro un articolo
+sulla storia francese, dal quale sarebbe risultato che Napoleone Terzo
+è tuttora sul trono di Francia.  Ma ciò avvenne quando la faccenda
+era nelle mani di un uomo d'affari davvero svelto e indaffarato.
+E le cose gestite dai trafficoni sono sempre in ritardo sui tempi.
+Ora le cose vanno meglio, essendo largamente nelle mani di
+persone istruite che possono concedersi il tempo per una corretta comprensione
+dei tempi.  Ma persino nelle forme più recenti e più leggere
+del giornalismo effimero vi è una certa tendenza a che questa
+fossilizzazione abbia luogo; e persino ad avere luogo piuttosto rapidamente.
+Non dico che in tutti i casi il ritardo si possa evitare.
+Non dico che in tutti i casi si possano biasimare i trafficoni.
+Talvolta la notizia più recente sarebbe troppo tardiva.  Talvolta sarebbe
+troppo diffamatoria.  Ma, sapendo ciò che so, o ciò che tutti sappiamo,
+sulle realtà dell'Inghilterra di oggi, non posso non pensare che la maggior parte
+delle notizie più recenti descriva l'Inghilterra di vent'anni fa.
+Forse ciò è difendibile e giova alla stabilità e alla continuità sociale;
+ma non giova esattamente a che le persone sappiano dove si trovano.
+
+Ho appena aperto una rivista su una pagina piena di queste domande, e
+resto colpito dal fatto che io stesso darei risposte assai diverse.
+È persino possibile che in certi casi il foglio non stamperebbe
+le mie risposte.  Ma non sto ora provocando controversie; sto soltanto
+facendo notare che molte cose sono controverse pur essendo ritenute
+non controverse. E sto facendo notare che in quasi
+ogni caso il mutamento registrato non è realmente l'ultimo, bensì
+il penultimo.  Nella pagina che ho davanti una domanda riguarda
+l'insegna del prestatore su pegno; un'altra la data della Torre Eiffel;
+la terza il significato del termine parlamentare «Whip». Ora,
+per modesto che sia il mio corredo di sapere, sapevo che le tre palle
+erano in origine lo stemma dei principi mercanti lombardi.
+Ma non riterrei che il punto principale della questione sia che ciò
+che era stato lo stemma di grandi signori sia decaduto fino a diventare una lercia
+insegna di bottega per sudici usurai.  Rovescerei l'argomento,
+e farei notare che è ancor più interessante sapere che i sudici
+usurai stanno ora nuovamente ricevendo titoli e stemmi.
+Non mi limiterei a far notare che i principi lombardi avevano perduto il loro
+blasone in favore di gente umile quanto i prestatori su pegno; farei notare
+che i prestatori su pegno possono ora di nuovo diventare orgogliosi quanto i principi.
+Questa è la notizia più recente; questa è la vera informazione moderna;
+questo è ciò che vi è di interessante nello stato pratico attuale
+delle cose.  L'altro fatto è abbastanza interessante a suo modo;
+ma è soltanto antica [[history|storia]], e persino antica araldica.
+Oppure, ancora, è ragionevolmente interessante sapere che la
+Torre Eiffel fu eretta al [[Time|tempo]] dell'Esposizione di [[Paris|Parigi]].
+Ma è ancor più interessante sapere che la Torre Eiffel fu
+eretta appena prima del [[Time|tempo]] dello Scandalo di Panama; e che Eiffel
+stesso si trovò in acque assai [[Water|torbide]], mentre molti dei suoi colleghi
+o collaboratori fuggirono dal paese o divennero sinonimo di frode.
+Poiché quella storia è parte della storia davvero vitale e importante
+della moderna guerra contro la corruzione politica; una lotta che ha
+già avuto il suo seguito a Roma e potrà ancora avere il suo seguito a [[Paris|Parigi]].
+Non so se una reazione a [[Paris|Parigi]] abbatterebbe la
+Torre Eiffel; benché io di sicuro lo [[Hope|speri]].  Ma so bene che vi
+può essere un culmine tanto sensazionale nella vita del paese
+quanto lo sarebbe, nel paesaggio, la caduta della Torre Eiffel.
+Ma questa sorta di cose, che si potrebbe chiamare la [[history|storia]] interiore
+della Torre Eiffel, non è generalmente la sorta di [[history|storia]] fornita
+in questa informazione popolare.  Non dico che possa esserlo, o che debba esserlo;
+ma dico che fa una differenza per l'[[Education|istruzione]] popolare
+il fatto che non lo sia.
+
+E così è col terzo esempio, tratto dalla nostra stessa politica.
+Il pubblico viene debitamente informato che un Whip è così chiamato dalla pratica
+del «whipping-in», applicata alla mobilitazione di tutti i voti disponibili del partito,
+e alla disciplina che li sospinge nel giusto Corridoio.  Ma benché
+ciò sia tuttora vero, e forse tuttora piuttosto sfortunatamente vero,
+non è affatto la [[Truth|verità]] più moderna né la sventura più moderna.
+Il Whip, oggigiorno, non è primariamente l'uomo che si limita a sovrintendere
+al conteggio dei voti che passano nel giusto Corridoio.  Il Whip, oggigiorno,
+è primariamente l'uomo che sovrintende al Fondo di Partito, e conduce
+attorno ad esso una serie di trattative altamente dubbie in materia di titoli
+e concessioni politiche.  Questo è l'uso più recente della carica;
+questo è il significato più recente della parola.  Ma proprio perché
+è realmente recente non fa parte di ciò che si chiama Informazione.
+Proprio perché è la notizia più recente non è nelle edizioni più recenti.
+Sorge così, in connessione con questo nuovo gioco popolare
+di «Quanto Ne Sai?», un quesito non su quanto il pubblico
+sappia, bensì su quanto sappia colui che pone le domande.  Vi è anche,
+naturalmente, la questione di quanto colui che pone le domande possa ritenere
+opportuno rivelare di ciò che sa.
+
+Nel caso delle enciclopedie, e di simili opere di consultazione,
+è perfettamente naturale che gli autori evitino tutto ciò che sembra
+controverso o paradossale, o che possa essere considerato materia d'opinione,
+per non dir di capriccio.  Ma, nel migliore dei casi, è assai difficile
+menzionare persino fatti comuni indipendentemente da sentimenti controversi.
+Molte cose che la maggior parte dei lettori, e persino degli autori,
+di un simile libro supporrebbero onestamente essere evidenti di per sé,
+sono in verità assai discutibili per coloro che si trovano ad essere i disputanti.
+La verità è che sotto la seconda metà del
+diciannovesimo secolo, almeno in questo paese, vi era davvero un vago
+accordo comune in filosofia.  Ma non è affatto vero oggi
+che tutti i filosofi concordino con quell'accordo.  Né era vero
+prima del diciannovesimo secolo, non più di quanto lo fosse dopo il secolo.
+Può esser bene ricordare la vera storia della parola Enciclopedia;
+e all'alba di quale rivoluzione distruttrice essa apparve nel mondo.
+Gli Enciclopedisti non erano più imparziali dei Bolscevichi.
+Erano una schiera di combattenti decisi a sradicare e rinnovare.
+E benché il comporre un dizionario ci suoni come un'occupazione mite,
+il Dottor Johnson non era affatto una persona mite, e talvolta quasi
+ne faceva un dizionario di gergo, quando aveva l'occasione di scagliare ingiurie
+contro i Whig.

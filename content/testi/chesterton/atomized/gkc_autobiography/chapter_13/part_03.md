@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/gkc-autobiography-(chesterton)">GKC Autobiography</a> › <a href="/testi/chesterton/atomized/gkc_autobiography/chapter_13">Chapter 13</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/gkc_autobiography/chapter_13/part_02">‹ part 02</a><a class="ex-next" href="/testi/chesterton/atomized/gkc_autobiography/chapter_13/part_04">part 04 ›</a></div>
@@ -123,3 +125,122 @@ Which is indeed the case.  Nor would any doubts and differences
 about the theoretical or ethical edges of Mr. Yeats's personality
 affect my appetite, even now that I am no longer a [[Child|child]],
 for the silver apples of the [[Moon|moon]] and the golden apples of the sun.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/gkc-autobiography-(chesterton)">GKC Autobiography</a> › <a href="/testi/chesterton/atomized/gkc_autobiography/chapter_13">Chapter 13</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/gkc_autobiography/chapter_13/part_02">‹ part 02</a><a class="ex-next" href="/testi/chesterton/atomized/gkc_autobiography/chapter_13/part_04">part 04 ›</a></div>
+</nav>
+
+  È ben poco ciò che un uomo può salvare
+  nell'arco della vita, nella marea del [[Time|tempo]],
+  chi nuota in vista della grande terza onda,
+  che nessun nuotatore mai [[Cross|varcherà]] o scalerà.
+
+Non ritenevo che fosse stata varcata o scalata nel mostruosamente
+confuso panteismo di «Hertha»; in cui un più tardo Swinburne tentava assurdamente
+di dedurre un'etica rivoluzionaria, il diritto di resistere ai torti,
+da un monismo cosmico che poteva significare soltanto che tutte le cose sono
+ugualmente sbagliate o giuste.
+
+Naturalmente, ho annotato qui soltanto un nome o due, perché sono
+i più famosi; non dico neppure che siano i più degni di fama.
+Per esempio, supponendo che ciascuno di noi custodisca una collezione privata
+dei propri pessimisti prediletti, sono sempre stato più intellettualmente
+colpito da A. E. Housman che da Thomas Hardy. Non voglio dire
+di essere stato colpito da chicchessia con le pretese intellettuali
+del pessimismo, che ho sempre ritenuto sciocchezza [[Well|oltre]] che [[Poison|veleno]];
+ma mi sembra che Housman abbia, più di Hardy,
+una certa autorità della grande letteratura inglese; tanto più
+classica in quanto il suo inglese è un inglese così assai piano.
+Non riuscii mai del tutto a digerire Hardy come poeta, per quanto lo ammiri
+come romanziere; laddove Housman mi pare uno dei due o tre grandi
+poeti classici del nostro [[Time|tempo]]. Ho avuto sia amici sia compagnia
+nel malcontento verso i socialisti; anzi, non ero scontento
+di loro riguardo alle condizioni di cui essi erano scontenti,
+ma piuttosto riguardo alle prospettive di cui essi erano contenti.
+E vi era una sorta di ottimismo ufficiale, quando il collettivista
+bigliettaio del tram fabiano gridava: «Prossima fermata, Utopia»,
+al che qualcosa in me, non semplicemente pagano, si sentiva sempre spinto
+a una simpatia con le parole di quel sommo genio pagano:
+
+  I travagli della nostra fiera e adirata [[Dust|polvere]]
+  vengono dall'[[Eternity|eternità]] e non verranno meno.
+
+Come tutti sanno, il poeta era anche un professore, e una
+delle prime autorità sull'antica letteratura pagana.
+Custodisco su di lui una storia che si dà il caso riguardi questo
+[[Double|duplice]] carattere del classico e del poetico.
+Può essere una storia nota; può essere una storia falsa. Essa descrive
+l'inizio di un discorso post-prandiale ch'egli tenne al Trinity, a Cambridge;
+e chiunque lo pronunciò o lo inventò aveva un superbo senso dello stile.
+«Questo grande College, di questa antica Università, ha visto certi
+strani spettacoli. Ha visto Wordsworth ubriaco e Porson sobrio.
+Ed eccomi qui, io, poeta migliore di Porson, e studioso migliore
+di Wordsworth, a mezza via tra l'uno e l'altro». Ma Hardy e Housman,
+come Henley e Swinburne, e la maggior parte degli altri grandi uomini tra
+i miei maggiori, del resto, produssero nella mia mente una curiosa nebulosa
+impressione di essere tutti un unico sfondo di pessimismo pagano;
+benché cosa fosse in primo piano, cui essi facevano
+da sfondo, non lo sapessi davvero; o almeno ne avevo un'idea molto vaga.
+Ma un certo senso di uniformità in queste persone e posizioni tanto varie
+prese la forma, nel mio caso, di farmi [[Wonder|domandare]] perché fossero così tanto
+divisi in gruppi letterari; e a che cosa servissero i gruppi.
+Ero sconcertato dal vedere la cultura tagliata in sezioni che non erano
+nemmeno sette. Colvin teneva una [[Court|corte]], che era assai cortese;
+Henley ne teneva un'altra, che non era propriamente cortese, o era piena
+di cortigiani piuttosto turbolenti; nei sobborghi Swinburne era insediato
+come Sultano e [[Prophet|Profeta]] di Putney, con Watts-Dunton da Gran Visir.
+E non riuscivo a capire di che cosa si trattasse; il [[Prophet|profeta]] non era
+davvero un comandante dei fedeli, perché non v'era [[Faith|fede]];
+e quanto al [[Doubt|dubbio]], esso era ugualmente comune a tutti i gruppi rivali
+dell'epoca. Non riuscivo a capire perché dovesse importare tanto
+al signor Watts-Dunton, se a Colvin piaceva un certo nuovo poeta
+o se a Henley un altro dispiaceva.
+
+Ho conosciuto anche uno o due casi isolati del puro uomo
+d'[[Imagination|immaginazione]]. È sempre difficile dare anche solo un contorno
+di uomini di questo genere; proprio perché un contorno è sempre
+la linea in cui una cosa tocca altre cose fuori di sé.
+Ho già suggerito assai vagamente, per esempio, qualcosa della
+posizione di W. B. Yeats; ma ciò appunto perché Yeats
+tocca davvero certe cose fuori dei propri pensieri; e suggerisce
+controversie sulla Teosofia o sulla Mitologia o sulla politica irlandese.
+Ma colui che è semplicemente l'uomo immaginativo può ritrovarsi solo nelle immagini
+che crea e non nei ritratti che di lui fanno gli altri.
+Così potrei menzionare un buon numero di cose staccate e precise su
+Walter de la Mare; solo che esse non riguarderebbero, a rigore,
+lui stesso. Potrei dire che ha un cupo profilo romano piuttosto simile
+a un'aquila di bronzo, o che vive a Taplow non lontano da Taplow [[Court]],
+dove l'ho incontrato insieme a molte altre figure nel paesaggio
+di questa storia; o che ha il passatempo di collezionare oggetti minuti,
+della [[Nature|natura]] di ornamenti, ma a stento visibili a occhio nudo.
+Si dà il caso che mia moglie abbia lo stesso passatempo di collezionare cosine come giocattoli;
+benché taluni l'abbiano accusata d'incoerenza per quella volta
+in cui si collezionò un marito. Ma lei e de la Mare erano soliti fare
+un commercio, degno del Mercato dei Folletti, di questi possedimenti pigmei.
+Potrei menzionare il fatto che una volta scoprii una scuola, da qualche parte nelle
+lande della Old [[Kent]] [[Road]], se ben ricordo, dove tutte
+le bambine serbavano una sorta di leggenda del signor de la Mare,
+come di uno zio fatato, perché una volta vi aveva tenuto una conferenza tanto e tanto tempo prima.
+Non ho idea di quali incantesimi possa aver operato in quella remota occasione;
+ma di sicuro egli, secondo le parole di un più antico poeta inglese,
+li aveva incantati nella Old [[Kent]] [[Road]]. Ma persino una cosa come questa
+non ha propriamente, a rigore, nulla a che fare con l'argomento;
+il centro e la pienezza dell'argomento. E non sono mai stato
+capace di dire nulla che sia, in quel senso, sull'argomento.
+Il più vicino che potrei mai giungere al giudicare un'opera immaginativa
+sarebbe semplicemente dire questo: che se fossi un [[Child|bambino]], e qualcuno mi dicesse
+non più delle due parole Peacock Pie, io passerei attraverso
+una certa esperienza trasformante. Non lo penserei propriamente
+come un libro. Non lo penserei nemmeno come un uomo;
+certamente non come qualcosa ormai così tristemente familiare come un uomo di lettere.
+Un istinto sacramentale dentro di me mi darebbe il senso che vi fosse
+da qualche parte e in qualche modo una sostanza, splendidamente colorata e buona da mangiare.
+Il che in effetti è il caso. Né alcun dubbio o divergenza
+sugli spigoli teorici o etici della personalità del signor Yeats
+influirebbe sul mio appetito, anche ora che non sono più un [[Child|bambino]],
+per le mele d'argento della [[Moon|luna]] e le mele d'oro del sole.

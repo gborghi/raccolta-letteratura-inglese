@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/irish-impressions-(chesterton)">Irish Impressions</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/irish_impressions/story_05_the_englishman_in_ireland">‹ Story 05 The Englishman in Ireland</a><a class="ex-next" href="/testi/chesterton/atomized/irish_impressions/story_07_the_mistake_of_ireland">Story 07 The Mistake of Ireland ›</a></div>
@@ -391,3 +393,333 @@ But we need only see the [[Road|road]] stretch but a little farther,
 from a [[Hill|hill]] but a little higher, to see that sooner or later it comes
 always to another place, where stands a winged image of Victory;
 and the ways divide.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/irish-impressions-(chesterton)">Irish Impressions</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/irish_impressions/story_05_the_englishman_in_ireland">‹ Story 05 The Englishman in Ireland</a><a class="ex-next" href="/testi/chesterton/atomized/irish_impressions/story_07_the_mistake_of_ireland">Story 07 The Mistake of Ireland ›</a></div>
+</nav>
+
+VI. L'errore dell'Inghilterra
+
+Incontrai un cordiale unionista, per non dire coercizionista, in Irlanda, in modo
+tale da poter parlare con lui a lungo; un gentiluomo irlandese quanto mai gioviale e
+genuino, che stava solidamente dalla parte del sistema del [[government|governo]]
+britannico in Irlanda. Questo gentiluomo era stato trapassato nel [[Body|corpo]] da un
+colpo delle truppe britanniche, nei loro sforzi di reprimere la Rivolta di Pasqua. La
+cosa mancò di poco d'essere tragica; ma poiché la mancò, non posso fare a meno di
+sentirla come lievemente comica. Mi assicurò con gran fervore che i ribelli si erano
+resi colpevoli delle più calcolate crudeltà; e che dovevano aver compiuto le loro
+sanguinose gesta col più freddo [[Blood|sangue]]. Ma poiché egli stesso è una solida e
+(felice di dirlo) vivente dimostrazione che il fuoco, persino della propria parte,
+doveva essere piuttosto avventato, sono incline a concedere il beneficio del
+[[Doubt|dubbio]] anche ai tiratori meno accuratamente istruiti. Quando truppe
+disciplinate distruggono la gente tanto a casaccio, parrebbe irragionevole negare che
+i rivoltosi possano forse essere stati turbolenti. Non credo affatto che egli fosse,
+né che pretendesse d'essere, una persona di giudiziale imparzialità; ed è interamente
+a suo [[Honour|onore]] che fosse, per principio, tanto più indignato coi rivoltosi che
+non gli spararono che con gli altri rivoltosi che gli spararono. Ma mi arrischio a
+presentarlo qui non tanto come un individuo quanto come un'[[Allegory|allegoria]].
+L'episodio mi pare esporre, in forma acuta, lucida e pittoresca, esattamente ciò che
+il [[government|governo]] militare britannico riuscì realmente a fare in Irlanda.
+Riuscì a mezzo uccidere i propri amici, e a offrire un divertimento intelligente ma
+alquanto inumano a tutti i propri nemici. Lo [[Fire|sputafuoco]] teneva la sua arma da
+[[Fire|fuoco]] in una posa così contorta da dare allo spettatore stupito la semplice
+impressione di un [[suicide|suicidio]]. S'intenda bene che qui non parlo di tirannia
+che contrasta i desideri irlandesi, ma soltanto della nostra stessa stupidità nel
+contrastare i nostri stessi desideri. Discuterò altrove la presunta presenza o assenza
+di un'oppressione pratica in Irlanda; qui continuo soltanto, dal capitolo precedente,
+le mie esperienze della campagna di reclutamento. Mi occupo ora, come me ne occupavo
+allora, della semplice questione pratica di ottenere una grande leva di soldati
+dall'Irlanda. Credo fosse Sir Francis Vane, uno dei pochi funzionari davvero preziosi
+nella faccenda (non occorre dire che fu licenziato per aver avuto ragione), a dire che
+la sola vista di alcuni rappresentativi preti e suore belgi avrebbe potuto produrre
+qualcosa di simile a una crociata. La faccenda pare sia stata per lo più lasciata ad
+anziani proprietari terrieri inglesi; e sarebbe crudele registrare le loro avventure.
+Basterà dire che scoprii, per fatto positivo, che questi infelici gentiluomini avevano
+esposto per tutta l'Irlanda un manifesto consistente soltanto nella [[Union]] Jack e
+nell'appello: «Non è questa la vostra [[Flag|bandiera]]? Venite a combattere per
+essa!». Ricorda vagamente qualcosa che tutti imparammo nella grammatica latina, a
+proposito delle domande che si aspettano la risposta «no». Questi notevoli sergenti
+reclutatori non si rendevano conto, suppongo, di quale straordinaria cosa fosse questa,
+non soltanto nell'opinione irlandese, ma in generale nell'opinione internazionale. In
+gran parte del globo, suonerebbe come la storia che i Turchi avessero tappezzato
+l'Armenia con la Mezzaluna dell'[[Islam]], e domandato a tutti i cristiani non ancora
+massacrati se non [[Love|amassero]] la [[Flag|bandiera]]. Davvero non credo che i
+Turchi sarebbero tanto stupidi da farlo. Naturalmente si può dire che una simile
+impressione o associazione sia mera calunnia e sedizione, che non vi sia alcuna ragione
+di aver riguardo per tali emozioni traditrici, che gli uomini debbano fare il proprio
+dovere verso quella [[Flag|bandiera]] qualunque cosa sia posta su quel manifesto; in
+breve, che sia dovere di un irlandese essere un patriottico inglese, o qualunque cosa
+ci si aspetti che egli sia. Ma questa veduta, per quanto logica e chiara, può essere
+usata logicamente e chiaramente soltanto come argomento a favore della coscrizione. È
+semplicemente da confusionari applicarla a un qualsiasi appello per volontari in
+qualsiasi luogo, in Irlanda o in Inghilterra. L'intero scopo di un manifesto di
+reclutamento, o di qualsiasi manifesto, è d'essere attraente; è messo in risalto con
+parole o colori per essere pittorescamente e acutamente attraente. Se ti abbassa fare
+un'offerta attraente, non farla; ma non farla deliberatamente, e deliberatamente
+renderla repellente. Se una certa medicina è così mortalmente necessaria e così
+mortalmente disgustosa da doversi imporre a tutti per mezzo del poliziotto, chiamate il
+poliziotto. Ma non chiamate un agente pubblicitario a spingerla come un farmaco
+brevettato, unicamente per mezzo della «pubblicità» e della «suggestione», per poi
+limitarlo strettamente a dire al pubblico quanto sia disgustosa.
+Ma l'abbaglio britannico in Irlanda fu una cosa assai più profonda e distruttiva. Lo
+si può riassumere in una frase: che, fossimo o no neri come venivamo dipinti, noi in
+realtà ci dipingemmo assai più neri di quanto fossimo. Per quanto cattivi fossimo,
+riuscimmo ad apparire assai peggiori di quanto fossimo. In un'orribile incoscienza
+rimettemmo in scena la [[history|storia]] per pura ignoranza della [[history|storia]].
+Fummo tanto sciocchi da agghindarci, e da recitare, per la parte del [[Villain|malvagio]]
+in una vecchissima [[Tragedy|tragedia]]. Ci ammantammo quasi con noncuranza di
+[[Fire|fuoco]] e [[Sword|spada]]; e se il [[Fire|fuoco]] fosse stato letteralmente
+[[Fire|fuoco]] di scena, o la [[Sword|spada]] una [[Sword|spada]] di legno, l'abbaglio
+meramente artistico sarebbe stato altrettanto grave. Per esempio, m'imbattei presto
+nelle tracce di una lite intorno a qualche sciocco veto nelle scuole, contro i bambini
+irlandesi che portavano coccarde verdi. Chiunque avesse una vena d'[[Imagination|immaginazione]]
+storica avrebbe evitato una lite, in quel particolare caso, intorno a quel particolare
+colore. È toccare il talismano, è pronunciare il nome, è battere la nota di un altro
+rapporto in cui avevamo torto, a scapito di un nuovo rapporto in cui avevamo ragione.
+Chiunque abbia buon senso, considerando un qualsiasi altro caso, può vedere la forza
+quasi [[Magic|magica]] di queste coincidenze materiali. Se gli eserciti inglesi in
+Francia nel 1914 si fossero ritenuti giustificati, per una qualche ragione, nel
+giustiziare una qualche francese, sarebbero forse stati indiscreti se l'avessero uccisa
+(per quanto logicamente) legata a un palo nella piazza del mercato di Rouen. Se il
+popolo di [[Paris|Parigi]] [[Rose|insorgesse]] nella più giusta rivolta contro la più
+corrotta congiura di qualche gruppo di ricchi protestanti francesi, consiglierei loro
+caldamente di non fissare la data alla vigilia di San Bartolomeo, o di non mettersi
+all'opera con sciarpe bianche legate attorno alle braccia. Molti di noi [[Hope|sperano]]
+di vedere una comunità ebraica ricostituita in Palestina; e potremmo facilmente
+immaginare qualche lite in cui il [[government|governo]] di Gerusalemme fosse spinto a
+punire qualche [[Pilgrim|pellegrino]] o monaco greco o latino. Gli ebrei potrebbero
+anche aver ragione nella lite, e il cristiano torto. Ma si può insinuare che gli ebrei
+sarebbero mal consigliati se lo incoronassero davvero di spine, e lo uccidessero su una
+[[Hill|collina]] appena fuori Gerusalemme. Ora, dobbiamo a quest'[[Time|ora]] sapere, o prima lo
+sappiamo meglio è, che l'intera mente di quella società europea che abbiamo contribuito
+a salvare, e nella quale abbiamo d'ora innanzi un parziale diritto di controllo,
+considera la vicenda anglo-irlandese come una di quelle storie in bianco e nero di un
+libro di [[history|storia]]. Vede la [[Tragedy|tragedia]] dell'Irlanda con la stessa
+semplicità e chiarezza della [[Tragedy|tragedia]] di [[Christ|Cristo]] o di Giovanna
+d'Arco. Vi era forse più da dire dalla parte coercizionista di quanto la cultura del
+Continente comprenda. Così vi era assai più di quanto si ammetta di solito da dire
+dalla parte della patriottica [[democracy|democrazia]] che condannò Socrate; e
+moltissimo da dire dalla parte dell'aristocrazia imperiale che avrebbe schiacciato
+Washington. Ma queste dispute non toglieranno Socrate dalla sua nicchia tra i santi
+pagani, né Washington dal suo piedistallo tra gli eroi repubblicani. Dopo un certo
+[[Time|tempo]] di prova, si rende sempre sostanziale giustizia agli uomini che si
+schierarono, in modo inequivocabile, per la libertà e la luce, contro il capriccio
+contemporaneo e la forza e la brutalità di moda. In questo senso intellettuale, negli
+unici tribunali intellettuali competenti, è già stata resa giustizia all'Irlanda.
+Nell'ampia luce del giorno di questo fatto mondiale, noi, o i nostri rappresentanti,
+dovevamo proprio metterci a litigare con dei bambini, fra tutte le persone, e a
+proposito del colore verde, fra tutte le cose del mondo. È un esatto modello
+funzionante dell'errore che intendo. È tanto più brutale in quanto non è propriamente
+crudele; e tuttavia ravviva all'istante i ricordi della crudeltà. Non vi sarebbe nulla
+di male in ciò in astratto, o in un'atmosfera meno tragica in cui i simboli non fossero
+talismani. Un maestro di scuola nella prospera e illuminata cittadina di Eatanswill
+potrebbe, non imperdonabilmente, protestare contro gli scolari che sfoggiano in classe
+le coccarde Camoscio e Azzurro del signor Simpkin e del signor Slumkey. Ma chi, se non
+un pazzo, non vedrebbe che pronunciare quella parola, o fare quel segno, in Irlanda,
+era come dare il segnale del lamento funebre, e del compianto sulla giustizia perduta
+che si leva nel ritornello dei più nobili [[songs|canti]] nazionali; che additare quel
+cencio di quel colore significava richiamare tutte le responsabilità e le realtà di
+quel regno del terrore in cui, alla lettera, impiccavamo uomini e anche donne per il
+portare del verde? Non stavamo, alla lettera, impiccando questi bambini. Come pura
+questione di utilità, saremmo stati più assennati se lo avessimo fatto.
+Ma il medesimo fatto assunse una forma ancor più fantastica. Non solo ci travestimmo da
+nostri antenati, ma addirittura ci travestimmo da nostri nemici. Non occorre che
+esponga la mia convinzione che il trucco pacifista di ammassare gli abusi di una parte
+insieme alle abominazioni dell'altra fosse una superficiale pedanteria, nata da pura
+ignoranza della [[history|storia]] dell'Europa e dei barbari. Era del tutto falso che
+il male inglese fosse esattamente lo stesso di quello tedesco. Era del tutto falso; ma
+gli inglesi in Irlanda si adoperarono a lungo e con dedizione per provare che era del
+tutto vero. Non contenti di prendere a prestito vecchie uniformi dagli Assiani del
+1798, presero a prestito le più nuove e lustre uniformi dai Prussiani del 1914.
+Racconterò una sola storia, fra le molte che mi furono narrate, per mostrare ciò che
+intendo. Vi fu una sorta di festival musicale di paese in un luogo chiamato Cullen,
+nella contea di Cork, in cui vi furono naturalmente [[songs|canti]] nazionali e assai
+probabilmente discorsi nazionali. Che vi fosse una sorta di atmosfera sociale, che i
+suoi critici chiamerebbero Sinn Fein, è oltremodo probabile; poiché essa esiste ora in
+tutta l'Irlanda, e specialmente in quella parte dell'Irlanda. Se vogliamo impedire che
+essa si esprima affatto, dobbiamo vietare non solo tutte le riunioni pubbliche, ma
+tutte le riunioni private, e persino l'incontro di marito e moglie nella loro propria
+[[house|casa]]. Vi sarebbe pur potuto essere un argomento, su linee coercizioniste, per
+vietare questa riunione pubblica. Vi potrebbe essere un argomento, su linee
+coercizioniste, per imprigionare tutte le persone che vi parteciparono; o un argomento
+ancor più chiaro, su quelle linee, per imprigionare tutte le persone dell'Irlanda. Ma
+le autorità coercizioniste non si limitarono a vietare la riunione; il che
+significherebbe qualcosa. Non arrestarono le persone presenti alla riunione; il che
+significherebbe qualcosa. Non spedirono l'intera riunione all'inferno coi cannoni; il
+che pure significherebbe qualcosa. Ciò che fecero fu questo. Fecero sì che un aeroplano
+militare si sballottasse avanti e indietro in modo vacillante proprio sopra le teste
+della gente, facendo quanto più rumore possibile per coprire la musica, e lasciando
+cadere razzi luminosi e [[Fire|fuoco]] in varie forme alquanto pericolose nei pressi di
+qualsiasi uomo, donna o bambino che si trovasse ad ascoltare la musica. Il lettore
+noterà con quale squisita arte, e fine e schizzinosa scelta, lo stratega sia qui
+riuscito ad apparire quanto più prussiano possibile senza assicurarsi alcuno dei
+vantaggi del prussianesimo. Vi era una certa dose di reale pericolo per i bambini; ma
+non molta. Ve n'era press'a poco quanta ve n'è stata di solito quando i ragazzi sono
+stati frustati per aver fatto lo [[Fool|sciocco]] coi fuochi d'artificio. Ma,
+arrampicandosi faticosamente per centinaia di piedi nell'aria, in un'enorme
+[[Machine|macchina]] militare, questa gente ingegnosa riuscì a farsi meteora in cielo e
+spettacolo a tutta la terra; gli inglesi che facevano piovere [[Fire|fuoco]] su donne e
+bambini proprio come facevano i tedeschi. Ripeto che non distrussero realmente dei
+bambini, benché li mettessero in pericolo; poiché giocare coi fuochi d'artificio è
+sempre giocare col [[Fire|fuoco]]. E ripeto che, come pura questione pratica, sarebbe
+stato più assennato se avessero distrutto dei bambini. Ciò avrebbe avuto almeno il
+significato umano che ha percorso cento massacri: «lupacchiotti che sarebbero diventati
+lupi». Avrebbe almeno l'esecrabile scusa di diminuire il numero dei ribelli. Ciò che
+fecero l'avrebbe quasi certamente accresciuto. Un ingenuo membro del Parlamento, di cui
+dimentico il nome, tentò di scusare questa prestazione da mezzo scemo. S'intromise
+nell'interesse unionista, quando i nazionalisti facevano domande sulla faccenda; e disse
+con molto calore: «Posso chiedere se i sudditi onesti e leali abbiano qualcosa da
+[[Fear|temere]] dagli aeroplani britannici?». Mi sono spesso chiesto che cosa intendesse.
+Sembra possibile che fosse nello stato d'animo di quel fanatico medievale che gridò:
+«Dio riconoscerà i suoi»; e che egli stesso avrebbe scagliato ogni sorta di dardi
+fiammeggianti dovunque, credendo che sarebbero stati sempre miracolosamente diretti
+verso le teste che ospitavano, in quel momento, le opinioni politiche più scorrette. O
+forse intendeva che i sudditi leali sono così superbamente leali da non curarsi
+d'essere accidentalmente bruciati vivi, purché sia loro assicurato che il [[Fire|fuoco]]
+è stato fatto cadere su di loro da funzionari del [[government|governo]] fuori da un
+apparecchio del [[government|governo]]. Ma il mio scopo qui non è di scandagliare un
+simile mistero, bensì soltanto di fissare il fatto dominante dell'intera situazione;
+che il [[government|governo]] copiò la teatralità di Potsdam ancor più della tirannia di
+Potsdam. In quell'episodio, gli inglesi riprodussero faticosamente tutti gli accessori
+artificiali dei più famigerati crimini della [[Germany|Germania]]: gli uomini volanti,
+la fiamma, la scelta di una folla eterogenea, la scelta di una festa popolare. Ne
+avevano ogni parte, tranne il senso. Era come se l'intero esercito britannico in
+Irlanda si fosse agghindato con elmi chiodati e occhiali, unicamente per _sembrare_
+prussiano. Era ancor più come se un uomo avesse attraversato l'Irlanda su tre
+giganteschi trampoli, più alti degli alberi e visibili dal villaggio più lontano, al
+solo scopo di sembrare uno di quei mostri disumani venuti da Marte, che incedono sui
+loro tripodi di ferro nel grande [[nightmare|incubo]] del signor Wells. Tale era la
+nostra efficacia educativa che, prima della fine, moltitudini di semplici irlandesi
+ebbero davvero, riguardo all'invasione inglese, la stessa particolare reazione
+psicologica che moltitudini di semplici inglesi ebbero riguardo all'invasione tedesca.
+Intendo che essa pareva venire non solo da fuori della nazione, ma da fuori del mondo.
+Era ultraterrena nel senso stretto in cui è ultraterrena una cometa. Era tanto più
+spaventosamente estranea per il suo avvicinarsi; era tanto più stramba quanto più
+penetrava nell'entroterra. Questi contadini cristiani hanno visto venire verso
+occidente, dall'Inghilterra, ciò che noi vedemmo venire verso occidente dalla
+[[Germany|Germania]]. Videro la scienza in armi; che tramuta i cieli stessi in inferni.
+Ho deliberatamente posto queste impressioni frammentarie e secondarie prima di ogni
+panoramica generale della politica anglo-irlandese nella guerra. Lo faccio, in primo
+luogo, perché credo che un resoconto delle cose reali, che parvero campeggiare più
+grandi a ogni reale osservatore in ogni reale momento, sia spesso più utile
+dell'esposizione di teorie che egli può aver costruito prima ancora d'aver visto una
+qualsiasi realtà. Ma lo faccio, in secondo luogo, perché è assai più probabile che i
+riassunti più generali della nostra arte di governo, o mancanza d'arte di governo, si
+trovino altrove. Ma se vogliamo comprendere gli strani [[Cross|malintesi]], sarà
+[[Well|bene]] tenere sempre a mente un fatto storico che ho già menzionato: la realtà
+della vecchia Intesa franco-irlandese. Essa perdura viva in Irlanda; e specialmente
+nelle parti più irlandesi dell'Irlanda. Nella ferocemente feniana [[City|città]] di
+Cork, girando attorno al monumento della Giovane Irlanda che sembra conferire alla
+rivolta la maestà di un'istituzione, un uomo mi raccontò che bande tedesche erano state
+fischiate e prese a sassate in quelle strade, per un'indignata [[Memory|memoria]] del
+1870. E un eminente studioso nella stessa città, riferendosi agli eventi del medesimo
+«anno terribile», mi disse: «Nel 1870 l'Irlanda simpatizzò con la Francia e
+l'Inghilterra con la [[Germany|Germania]]; e, come al solito, l'Irlanda aveva ragione!».
+Ma se essi ebbero ragione quando noi avevamo torto, cominciarono ad aver torto soltanto
+quando noi avemmo ragione. Si potrebbe scrivere una sorta di commedia o [[Parable|parabola]]
+per mostrare che questo apparente [[Paradox|paradosso]] è un tratto quanto mai genuino
+della psicologia umana. Si supponga che vi siano due soci di nome John e James; che
+James abbia sempre premuto per l'apertura di una filiale dell'azienda a [[Paris|Parigi]].
+Molto tempo fa John avversò furiosamente la cosa come una fisima straniera; ma da allora
+l'ha del tutto dimenticata; poiché le lettere di James lo annoiavano tanto che da anni
+non ne apre più alcuna. Un bel giorno John, trovandosi a [[Paris|Parigi]], concepisce
+l'originale idea di una filiale a [[Paris|Parigi]]; ma è consapevole, in modo confuso,
+d'aver litigato col suo socio, e sente vagamente che il suo socio sarebbe un ostacolo a
+qualsiasi cosa. John ricorda che James era sempre stato attaccabrighe, e dimentica che
+era attaccabrighe a favore di questo progetto, e non contro di esso. John perciò invia a
+James un telegramma, di una brevità che rasenta la brutalità, dicendogli semplicemente
+di aderire senza tante storie; e, non avendo risposta immediata, invia una lettera di un
+legale, cui deve seguire una citazione in giudizio. Come James la prenderà dipende
+moltissimo da James. Come egli saluterà questa felice conferma delle proprie antiche
+opinioni dipenderà dal fatto se James sia una persona insolitamente paziente e
+caritatevole. E James non lo è. È sfortunatamente proprio l'uomo, fra tutti gli uomini
+del mondo, capace di gettare il proprio originario accordo e ogni altra cosa nel nero
+abisso del disdegno, che ora lo divide dall'uomo che ha la sfrontatezza d'essere
+d'accordo con lui. È proprio l'uomo capace di dire che non vuole aver nulla a che fare
+con la propria idea originaria, perché essa è ormai la tardiva idea di uno [[Fool|sciocco]].
+Un simile personaggio potrebbe facilmente essere analizzato in un qualsiasi buon
+[[Novel|romanzo]]; una simile condotta sarebbe prontamente creduta in una qualsiasi
+buona commedia. Non poté essere creduta quando accadde nella vita reale. E accadde
+davvero nella vita reale; il progetto di [[Paris|Parigi]] era il senso della salvezza di
+[[Paris|Parigi]] come perno della [[history|storia]] umana; il brusco telegramma era la
+campagna di reclutamento, e la citazione in giudizio era la coscrizione. Quanto a ciò
+che la coscrizione irlandese fu, o meglio sarebbe stata, non riesco a capire che un
+qualsiasi visitatore in Irlanda potesse averne il più lieve [[Doubt|dubbio]], a meno che
+(come spesso accade) il suo giro non fosse stato pianificato con tale cura da
+permettergli di visitare ogni cosa in Irlanda tranne gli irlandesi. La coscrizione
+irlandese fu un atto di schietta e delirante [[Madness|follia]], che fu fortunatamente
+arrestato, insieme ad altre cose cattive, dal colpo di Foch nella seconda battaglia
+della Marna. Non poteva in alcun modo produrre all'ultimo momento alleati su cui
+potessimo contare; e ci avrebbe fatto perdere tutta la simpatia degli alleati sui quali
+in quel momento contavamo. Non intendo che i soldati americani si sarebbero ammutinati;
+benché i soldati irlandesi avrebbero potuto farlo; intendo qualcosa di assai peggiore.
+Intendo che l'intero stato d'animo dell'[[America]] sarebbe mutato, e vi sarebbe stato
+un qualche compromesso con la tirannia tedesca, per puro disgusto di fronte a una lunga
+esibizione di tirannia inglese. In Irlanda sarebbero accadute cose, settimana dopo
+settimana e mese dopo mese, quali la moderna [[Imagination|immaginazione]] non ha visto
+se non là dove la Prussia ha instaurato l'inferno. Avremmo macellato donne e bambini;
+essi _ci avrebbero costretti_ a macellarli. Avremmo ucciso preti, e probabilmente i
+preti migliori. Non si potrebbe dire meglio che con le parole di un irlandese, mentre
+stava con me in un alto [[Garden|giardino]] a terrazze fuori Dublino, guardando verso
+quell'infelice [[City|città]], il quale scosse il capo e disse tristemente: «Fucileranno
+il vescovo sbagliato».
+Del significato di questa immensa fornace di sfida scriverò quando scriverò dell'idea
+nazionale stessa. Qui mi occupo non della loro nazione ma della mia; e specialmente del
+suo pericolo che viene dalla Prussia e del suo aiuto che viene dall'[[America]]. Ed è
+semplicemente questione di considerare come siano realmente queste cose reali. Si
+ricordi che la Repubblica americana è praticamente fondata sul fatto, o sulla fantasia,
+che l'Inghilterra sia un [[Tyrant|tiranno]]. Si ricordi che essa era incessantemente
+investita da nuove ondate di immigrati irlandesi che narravano storie (troppe delle
+quali vere, benché non tutte) dei casi particolari in cui l'Inghilterra era stata un
+[[Tyrant|tiranno]]. Sarebbe difficile trovare un parallelo per spiegare agli inglesi
+l'effetto di ridestare tradizioni tanto autenticamente americane con una prolungata
+esibizione dell'Inghilterra come [[Tyrant|tiranno]] in Irlanda. Un pallido accostamento
+si potrebbe trovare se immaginassimo i superstiti dell'Inghilterra vittoriana, imbevuti
+della tradizione della _Capanna dello zio Tom,_ mentre osservano le truppe americane
+sfilare per [[London|Londra]]. Si supponga che notassero come le truppe negre
+[[Alone|soltanto]] dovessero marciare in [[Chains|catene]], con un bianco dal cappello a
+larghe tese che camminava al loro fianco brandendo una frusta. Scene assai peggiori di
+quella sarebbero seguite alla coscrizione irlandese; ma l'unico scopo di questo capitolo
+è mostrare che scene altrettanto stupide segnarono ogni fase del reclutamento irlandese.
+Poiché di certo non avrebbe rassicurato i tradizionali simpatizzanti dello zio Tom
+sentirsi dire che le [[Chains|catene]] erano soltanto una parte dell'uniforme, o che i
+negri si muovevano non al tocco della frusta, ma soltanto al suo schiocco. Tale era la
+nostra politica pratica; e l'unico e sufficiente commento a essa si può trovare in un
+orribile bisbiglio che ormai a stento si può far tacere. Si dice, con una spaventosa
+verosimiglianza, che gli unionisti tentassero deliberatamente d'impedire un grande
+reclutamento irlandese, che avrebbe certamente significato [[Reconciliation|riconciliazione]]
+e [[Reform|riforma]]. In parole povere, si dice, che essi erano disposti a essere
+traditori dell'Inghilterra, purché potessero pur sempre essere tiranni dell'Irlanda.
+Fin troppi fatti si possono far quadrare con questo; ma per me è ancora troppo mostruoso
+per essere facilmente creduto. Ma quali che fossero i nostri motivi nel farlo, non v'è
+semplicemente alcun [[Doubt|dubbio]] su ciò che facemmo, in questa faccenda dei
+filotedeschi in Irlanda. Non schiacciammo i filotedeschi; non li [[convert|convertimmo]]
+né li costringemmo; né li educammo né li sterminammo né li massacrammo. Li fabbricammo;
+li sfornammo pazientemente, costantemente e sistematicamente come da una fabbrica; li
+facemmo esattamente come facevamo le munizioni. Non ci volle poca scienza sociale per
+produrre in un qualsiasi tipo d'irlandese una qualsiasi simpatia per la Prussia; ma
+fummo all'altezza del compito. Ciò che qui mi riguarda, tuttavia, è che eravamo
+impegnati nella medesima opera tra gli irlando-americani, e in ultimo tra tutti gli
+americani. E ciò avrebbe significato, come ho già notato, la cosa che sempre temetti:
+l'annacquamento della politica degli Alleati. Qualsiasi cosa somigliasse a un prolungato
+prussianesimo in Irlanda avrebbe significato un compromesso; vale a dire, un
+prussianesimo perpetuato in Europa. So che alcuni, i quali concordano con me in altre
+cose, dissentono da me in questa; ma proverei davvero vergogna se, dovendo dire tanto
+spesso dove ritengo che il mio paese avesse torto, non dicessi con altrettanta chiarezza
+dove ritengo che avesse ragione. La nozione di un compromesso si fondava sulla
+coincidenza di recenti guerre nazionali che riguardavano soltanto i termini della pace,
+non il tipo di civiltà. Ma ricorrono, a più lunghi intervalli storici, guerre universali
+di religione, che non riguardano ciò che una nazione debba fare, ma ciò che tutte le
+nazioni debbano essere. Ricominciano finché non sono concluse, in cose come la caduta di
+Cartagine o la disfatta di Attila. È verissimo che la [[history|storia]] è per la maggior
+parte una piana [[Road|strada]], che le tribù degli uomini devono percorrere fianco a
+fianco, contrattando ai medesimi mercati o pregando ai medesimi santuari, litigando e
+tornando amici; e saggiamente tornando amici in fretta. Ma ci basta vedere la [[Road|strada]]
+estendersi anche solo un poco più in là, da una [[Hill|collina]] anche solo un poco più
+alta, per vedere che presto o tardi essa giunge sempre a un altro luogo, dove sorge
+un'immagine alata della Vittoria; e le vie si dividono.
