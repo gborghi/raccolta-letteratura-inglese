@@ -50,11 +50,11 @@ tags:
 
 **Archetypes:** [[Child]], [[Mentor]]
 **Motifs:** [[The Book]], [[Machine]]
-**Themes & Concepts:** [[Education]], [[Classical Education]], [[The Trivium]], [[Childhood And Growth]], [[Critique Of Progress]], [[Truth]], [[Imagination]], [[Liberty]], [[Reform]], [[Creativity]], [[Faith]]
+**Themes & Concepts:** [[Education]], [[Classical Education]], [[The Trivium]], [[Childhood And Growth]], [[Critique of Progress]], [[Truth]], [[Imagination]], [[Liberty]], [[Reform]], [[Creativity]], [[Faith]]
 **Forms:** [[Essay]]
-**Historical References:** [[Medieval England]], [[Classical Antiquity]], [[Christianity]], [[The Renaissance]], [[The Reformation]]
+**Historical References:** [[Medieval England]], [[Classical Antiquity]], [[Christianity]], [[Renaissance]], [[Reformation]]
 **Settings:** [[Oxford]]
-**Characters:** [[The Student]], [[The Teacher]], [[The Child]], [[Milton]]
+**Characters:** [[The Student]], [[The Teacher]], [[Child]], [[Milton]]
 
 
 <span class="qlang-split" data-lang="it"></span>

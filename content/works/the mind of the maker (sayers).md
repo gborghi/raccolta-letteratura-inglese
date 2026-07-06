@@ -73,11 +73,11 @@ tags:
 ## Connections
 
 **Archetypes:** [[Artist]], [[Christ Figure]]
-**Motifs:** [[Light And Dark]], [[The Book]], [[Fire]], [[The Cross]]
-**Themes & Concepts:** [[The Trinity]], [[Creativity]], [[Imagination]], [[Faith]], [[The Artist And Society]], [[Fate And Free Will]], [[Good Vs Evil]], [[Incarnation]], [[Paradox]], [[Original Sin]], [[Truth]], [[Providence]], [[Creativity And Artistic Labor]], [[Love Divine]]
+**Motifs:** [[Light and Dark]], [[The Book]], [[Fire]], [[Cross]]
+**Themes & Concepts:** [[The Trinity]], [[Creativity]], [[Imagination]], [[Faith]], [[Artist and Society]], [[Fate and Free Will]], [[Good vs Evil]], [[Incarnation]], [[Paradox]], [[Original Sin]], [[Truth]], [[Providence]], [[Creativity and Artistic Labor]], [[Love Divine]]
 **Forms:** [[Essay]], [[Apologetics]], [[Literary Criticism]]
-**Historical References:** [[Christianity]], [[The Bible]], [[Catholic Church]], [[Dante]], [[Classical Antiquity]]
-**Characters:** [[The Trinity]], [[God The Father]], [[God The Son]], [[God The Holy Ghost]], [[The Writer]], [[The Artist]], [[Augustine]], [[Aquinas]], [[Dante]]
+**Historical References:** [[Christianity]], [[Bible]], [[Catholic Church]], [[Dante]], [[Classical Antiquity]]
+**Characters:** [[The Trinity]], [[God The Father]], [[God The Son]], [[God The Holy Ghost]], [[The Writer]], [[Artist]], [[Augustine]], [[Aquinas]], [[Dante]]
 
 
 <span class="qlang-split" data-lang="it"></span>
