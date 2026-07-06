@@ -9,6 +9,7 @@ import { readFileSync, existsSync } from "node:fs"
 import path from "node:path"
 import matter from "gray-matter"
 import { fileURLToPath } from "node:url"
+import { execSync } from "node:child_process"
 
 const NUL = String.fromCharCode(0)
 
@@ -1091,6 +1092,17 @@ Every chapter, story, scene, section and paragraph-level excerpt across the pros
 <div id="brani-table"></div>
 `
   await fs.writeFile(path.join(CONTENT, "brani.md"), brani)
+
+  // author landing pages (NLP footprint + EN/IT bio tabs + scoped works table).
+  // Regenerated here every run because content/ is wiped at the top of main().
+  try {
+    execSync("python scripts/make-author-pages.py", {
+      cwd: path.dirname(fileURLToPath(import.meta.url)),
+      stdio: "inherit",
+    })
+  } catch (e) {
+    console.warn("author pages generation skipped:", e.message)
+  }
 
   console.log(
     `copied ${written} notes, ${unitsCopied} unit pages; indexed ${works.length} works, ` +

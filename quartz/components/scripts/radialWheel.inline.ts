@@ -26,15 +26,13 @@ function esc(s: unknown): string {
   )
 }
 
-// attach the author -> Cerca sessionStorage handoff to a clickable element
+// point an author emblem straight at that author's landing page (content/authors/<slug>).
+// (wheel.json still ships href:"cerca" + cercaAuthor for back-compat; we rewrite here.)
 function wireCerca(a: HTMLAnchorElement, s: Spoke) {
   if (!s.cercaAuthor) return
-  a.dataset.cercaAuthor = s.cercaAuthor
-  a.addEventListener("click", () => {
-    try {
-      sessionStorage.setItem("cercaPreselect", "author::" + s.cercaAuthor)
-    } catch {}
-  })
+  a.dataset.author = s.cercaAuthor
+  const cur = a.getAttribute("href") || ""
+  a.setAttribute("href", cur.replace(/cerca\/?$/, "authors/" + s.cercaAuthor.toLowerCase()))
 }
 
 // emblem-only clickable tile (circle layout)
