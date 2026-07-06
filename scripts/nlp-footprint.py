@@ -16,6 +16,14 @@ STOP = set(("the a an and or but if then else of to in on at by for with from as
     "html split work works word words body div span class href http https www com net org didascalia parla battuta chi scena atto entra esce").split())
 WORD = re.compile(r"[a-zA-Z']+")
 
+def syllables(w):
+    w = re.sub(r"[^a-z]", "", w.lower())
+    if not w: return 0
+    if len(w) <= 3: return 1
+    w = re.sub(r"(?:[^laeiouy]es|ed|[^laeiouy]e)$", "", w)
+    w = re.sub(r"^y", "", w)
+    return max(1, len(re.findall(r"[aeiouy]{1,2}", w)))
+
 def clean(t):
     t = re.sub(r"^#.*$", " ", t, flags=re.M)              # headings
     t = re.sub(r"\[\[([^\]|]+\|)?([^\]]+)\]\]", r"\2", t)  # wikilinks -> display
@@ -74,16 +82,29 @@ for au in AUTHORS:
     # sentences: approximate from joined cleaned text
     full = " ".join(author_atoms(au))
     sents = [s for s in re.split(r"[.!?]+", full) if len(WORD.findall(s)) > 0]
-    avg_sent = round(n / max(1, len(sents)), 1)
-    avg_wordlen = round(sum(len(w) for w in toks) / n, 2)
+    ns = max(1, len(sents))
+    avg_sent = round(n / ns, 1)
+    # readability (syllable-based)
+    syl = sum(syllables(w) for w in toks)
+    complex_w = sum(1 for w in toks if syllables(w) >= 3)
+    W = n / ns                 # words per sentence
+    Sy = syl / n               # syllables per word
+    flesch = round(206.835 - 1.015 * W - 84.6 * Sy, 1)
+    fk_grade = round(0.39 * W + 11.8 * Sy - 15.59, 1)
+    fog = round(0.4 * (W + 100 * complex_w / n), 1)
+    pct_complex = round(100 * complex_w / n, 1)
     distinctive = [w for w, _ in sorted(tf[au].items(), key=lambda x: -x[1] * idf(x[0]))[:30]]
     top_concepts = [c for c, _ in tagc[au].most_common(10)]
     stats[au] = {
-        "works": None, "words": n, "vocabulary": vocab,
-        "lexical_richness_rttr": rttr, "ttr": ttr,
-        "avg_sentence_words": avg_sent, "avg_word_len": avg_wordlen,
+        "works": None,
+        "lexical_richness_rttr": rttr,
+        "avg_sentence_words": avg_sent,
+        "flesch_reading_ease": flesch,
+        "flesch_kincaid_grade": fk_grade,
+        "gunning_fog": fog,
+        "pct_complex_words": pct_complex,
         "distinctive_words": distinctive, "top_concepts": top_concepts,
-        "sentences": len(sents),
+        "words": n, "sentences": len(sents),  # kept for tagline, not shown as a stat cell
     }
 
 # works count from index.json
@@ -95,5 +116,6 @@ json.dump(stats, open(OUT, "w", encoding="utf-8"), ensure_ascii=False, indent=1)
 print("author_stats.json written for", len(stats), "authors")
 for au in sorted(stats, key=lambda a: -stats[a]["words"]):
     s = stats[au]
-    print(f"  {au:12} works={s['works']:4} words={s['words']:8} vocab={s['vocabulary']:6} "
-          f"rTTR={s['lexical_richness_rttr']:6} sent~{s['avg_sentence_words']:5}w  top:{s['distinctive_words'][:5]}")
+    print(f"  {au:12} works={s['works']:4} rTTR={s['lexical_richness_rttr']:6} "
+          f"Flesch={s['flesch_reading_ease']:6} FK={s['flesch_kincaid_grade']:5} Fog={s['gunning_fog']:5} "
+          f"sent~{s['avg_sentence_words']:5}w")

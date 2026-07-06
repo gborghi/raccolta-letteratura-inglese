@@ -61,11 +61,12 @@ def page(author, s, bio):
     def cell(num, lab): return f'<div class="fp-cell"><div class="fp-num">{num}</div><div class="fp-lab">{lab}</div></div>'
     grid = ('<div class="fp-grid">'
         + cell(f"{s['works']:,}", "works")
-        + cell(f"{s['words']:,}", "words")
-        + cell(f"{s['vocabulary']:,}", "vocabulary")
         + cell(s["lexical_richness_rttr"], "lexical richness")
         + cell(f"{s['avg_sentence_words']}", "words / sentence")
-        + cell(s["avg_word_len"], "avg word length")
+        + cell(s["flesch_reading_ease"], "Flesch reading ease")
+        + cell(s["flesch_kincaid_grade"], "Flesch–Kincaid grade")
+        + cell(s["gunning_fog"], "Gunning Fog index")
+        + cell(f"{s['pct_complex_words']}%", "complex words")
         + "</div>")
     concepts = ('<div class="fp-tags">' + "".join(f'<span class="chip">{esc(c)}</span>' for c in s.get("top_concepts", [])[:8]) + "</div>") if s.get("top_concepts") else ""
     tabs = f"""<div class="lang-tabs">
