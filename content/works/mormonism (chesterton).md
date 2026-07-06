@@ -52,11 +52,6 @@ tags:
 **Forms & Genres:** [[Essay]], [[Apologetics]]
 **Historical References:** [[Puritanism]], [[Bible]], [[Catholic Church]], [[Crusades]], [[Medieval England]], [[William the Conqueror]], [[Oliver Cromwell]], [[John Bunyan]], [[William Rufus]]
 
-## Chapters / scenes / sections
-
-- [part 01](/testi/chesterton/atomized/mormonism/part/part_01)
-- [part 02](/testi/chesterton/atomized/mormonism/part/part_02)
-
 ## Testo integrale / Full text
 
 Mormonism

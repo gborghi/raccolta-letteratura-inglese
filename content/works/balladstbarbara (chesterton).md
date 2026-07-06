@@ -87,15 +87,6 @@ tags:
 **Forms & Genres:** [[Ballad Ballade]], [[Lyric]], [[Sonnet]], [[Elegy]], [[Satire]]
 **Historical References:** [[First World War]], [[Crusades]], [[Christianity]], [[Arthurian Legend]], [[French Revolution]], [[Industrial Revolution]], [[British Empire]]
 
-## Chapters / scenes / sections
-
-- [part 01](/testi/chesterton/atomized/balladstbarbara/part/part_01)
-- [part 02](/testi/chesterton/atomized/balladstbarbara/part/part_02)
-- [part 03](/testi/chesterton/atomized/balladstbarbara/part/part_03)
-- [part 04](/testi/chesterton/atomized/balladstbarbara/part/part_04)
-- [part 05](/testi/chesterton/atomized/balladstbarbara/part/part_05)
-- [part 06](/testi/chesterton/atomized/balladstbarbara/part/part_06)
-
 ## Testo integrale / Full text
 
 Project Gutenberg's The Ballad of St. Barbara, by Gilbert Keith Chesterton  

@@ -71,12 +71,6 @@ tags:
 **Themes & Concepts:** [[Faith]], [[Madness]], [[War and its Cost]], [[Artist and Society]], [[Truth]], [[Fanaticism]], [[Conversion]], [[Critique of Progress]], [[Nationalism and Patriotism]], [[Simplification of Life]], [[Realism]]
 **Forms & Genres:** [[Literary Criticism]], [[Essay]], [[Biography]]
 
-## Chapters / scenes / sections
-
-- Story 01 Tolstoy
-- Story 02 Leo Tolstoy As Writer
-- Story 03 G H Perris
-
 ## Testo integrale / Full text
 
 Leo Tolstoy

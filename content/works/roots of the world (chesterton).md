@@ -52,11 +52,6 @@ tags:
 **Historical References:** [[Christianity]], [[Bible]], [[Robert Blatchford]]
 **Settings:** [[Garden (2)]]
 
-## Chapters / scenes / sections
-
-- [part 01](/testi/chesterton/atomized/roots_of_the_world/part/part_01)
-- [part 02](/testi/chesterton/atomized/roots_of_the_world/part/part_02)
-
 ## Testo integrale / Full text
 
 The Roots of the World

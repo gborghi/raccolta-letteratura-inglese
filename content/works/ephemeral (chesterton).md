@@ -54,11 +54,6 @@ tags:
 **Themes & Concepts:** [[Critique of Progress]], [[Artist and Society]], [[Satire of Society]], [[Transience]], [[Faith]], [[Common Man]], [[Secrecy and Concealment]], [[Power and Corruption]], [[Social Injustice]], [[Religious Persecution]]
 **Forms & Genres:** [[Essay]]
 
-## Chapters / scenes / sections
-
-- [part 01](/testi/chesterton/atomized/ephemeral/part/part_01)
-- [part 02](/testi/chesterton/atomized/ephemeral/part/part_02)
-
 ## Testo integrale / Full text
 
 -=[ THE CASE FOR THE EPHEMERAL ]=-

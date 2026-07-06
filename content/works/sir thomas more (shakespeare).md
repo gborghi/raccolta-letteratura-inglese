@@ -76,27 +76,6 @@ tags:
 **Settings:** [[London]], [[Court]]
 **Characters:** [[Sir Thomas More]], [[Earl of Surrey]], [[Lord Mayor]], [[Lincoln]]
 
-## Chapters / scenes / sections
-
-- [Scenes · Scene_1](/testi/shakespeare/plays/sir_thomas_more/scenes/scene_1)
-- [Scenes · Scene_10](/testi/shakespeare/plays/sir_thomas_more/scenes/scene_10)
-- [Scenes · Scene_11](/testi/shakespeare/plays/sir_thomas_more/scenes/scene_11)
-- [Scenes · Scene_12](/testi/shakespeare/plays/sir_thomas_more/scenes/scene_12)
-- [Scenes · Scene_13](/testi/shakespeare/plays/sir_thomas_more/scenes/scene_13)
-- [Scenes · Scene_14](/testi/shakespeare/plays/sir_thomas_more/scenes/scene_14)
-- [Scenes · Scene_15](/testi/shakespeare/plays/sir_thomas_more/scenes/scene_15)
-- [Scenes · Scene_16](/testi/shakespeare/plays/sir_thomas_more/scenes/scene_16)
-- [Scenes · Scene_17](/testi/shakespeare/plays/sir_thomas_more/scenes/scene_17)
-- [Scenes · Scene_2](/testi/shakespeare/plays/sir_thomas_more/scenes/scene_2)
-- [Scenes · Scene_3](/testi/shakespeare/plays/sir_thomas_more/scenes/scene_3)
-- [Scenes · Scene_4](/testi/shakespeare/plays/sir_thomas_more/scenes/scene_4)
-- [Scenes · Scene_5](/testi/shakespeare/plays/sir_thomas_more/scenes/scene_5)
-- [Scenes · Scene_6](/testi/shakespeare/plays/sir_thomas_more/scenes/scene_6)
-- [Scenes · Scene_7](/testi/shakespeare/plays/sir_thomas_more/scenes/scene_7)
-- [Scenes · Scene_8](/testi/shakespeare/plays/sir_thomas_more/scenes/scene_8)
-- [Scenes · Scene_9](/testi/shakespeare/plays/sir_thomas_more/scenes/scene_9)
-
-
 ## Testo integrale / Full text
 
 

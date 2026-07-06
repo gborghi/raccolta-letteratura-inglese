@@ -63,10 +63,6 @@ tags:
 **Settings:** [[Sea (2)]], [[Orient]]
 **Characters:** [[Don John of Austria]], [[Don Quixote]], [[Ariel]], [[Michael]], [[Cervantes]], [[Mahound]], [[The Pope]], [[King Philip]], [[Soldan of Byzantium]]
 
-## Chapters / scenes / sections
-
-- [part 01](/testi/chesterton/atomized/lepanto/part/part_01)
-
 ## Testo integrale / Full text
 
 Lepanto  

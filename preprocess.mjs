@@ -772,6 +772,10 @@ async function main() {
             })
             .join("\n") +
           "\n\n"
+        // The KG note may already carry a "## Chapters / scenes / sections" list;
+        // drop it so the generated "## Capitoli / Chapters" TOC is not duplicated.
+        newContent = newContent.replace(
+          /\n##\s+Chapters \/ scenes \/ sections[\s\S]*?(?=\n##\s|$)/, "")
         newContent = /\n##\s+Connections/.test(newContent)
           ? newContent.replace(/\n##\s+Connections/, `\n${workTocMd}## Connections`)
           : newContent.trimEnd() + "\n\n" + workTocMd
@@ -802,6 +806,7 @@ async function main() {
     if (trPage) {
       let itBody = trPage.body_it || newContent
       if (workTocMd) {
+        itBody = itBody.replace(/\n##\s+Chapters \/ scenes \/ sections[\s\S]*?(?=\n##\s|$)/, "")
         itBody = /\n##\s+Connections/.test(itBody)
           ? itBody.replace(/\n##\s+Connections/, `\n${workTocMd}## Connections`)
           : itBody.trimEnd() + "\n\n" + workTocMd

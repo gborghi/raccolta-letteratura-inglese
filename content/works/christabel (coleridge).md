@@ -43,15 +43,6 @@ tags:
 **Settings:** [[Castle]]
 **Characters:** [[Christabel]], [[Geraldine]]
 
-## Chapters / scenes / sections
-
-- [Section 00 preface](/testi/coleridge/long/christabel/section_00_preface)
-- [Section 01 part i](/testi/coleridge/long/christabel/section_01_part_i)
-- [Section 02 conclusion to part i](/testi/coleridge/long/christabel/section_02_conclusion_to_part_i)
-- [Section 03 part ii](/testi/coleridge/long/christabel/section_03_part_ii)
-- [Section 04 conclusion to part ii](/testi/coleridge/long/christabel/section_04_conclusion_to_part_ii)
-
-
 ## Testo integrale / Full text
 
 CHRISTABEL PREFACE  

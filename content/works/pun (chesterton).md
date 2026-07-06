@@ -43,11 +43,6 @@ tags:
 **Themes & Concepts:** [[Artist and Society]], [[Critique of Progress]], [[Beauty]], [[Joy]], [[Power of Language]], [[Paradox]], [[Wit]]
 **Forms & Genres:** [[Essay]], [[Literary Criticism]], [[Epigram]], [[Heroic Couplet]]
 
-## Chapters / scenes / sections
-
-- [part 01](/testi/chesterton/atomized/pun/part/part_01)
-- [part 02](/testi/chesterton/atomized/pun/part/part_02)
-
 ## Testo integrale / Full text
 
 THE PUN

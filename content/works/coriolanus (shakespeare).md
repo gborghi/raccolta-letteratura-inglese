@@ -83,37 +83,6 @@ tags:
 **Settings:** [[Ancient Rome (2)]], [[Battlefield]]
 **Characters:** [[Coriolanus]], [[Volumnia]], [[Menenius]], [[Aufidius]], [[Virgilia]], [[Sicinius]], [[Brutus the Tribune]], [[Cominius]]
 
-## Chapters / scenes / sections
-
-- [Act_1 · Scene_1](/testi/shakespeare/plays/coriolanus/act_1/scene_1)
-- [Act_1 · Scene_10](/testi/shakespeare/plays/coriolanus/act_1/scene_10)
-- [Act_1 · Scene_11](/testi/shakespeare/plays/coriolanus/act_1/scene_11)
-- [Act_1 · Scene_3](/testi/shakespeare/plays/coriolanus/act_1/scene_3)
-- [Act_1 · Scene_4](/testi/shakespeare/plays/coriolanus/act_1/scene_4)
-- [Act_1 · Scene_5](/testi/shakespeare/plays/coriolanus/act_1/scene_5)
-- [Act_1 · Scene_6](/testi/shakespeare/plays/coriolanus/act_1/scene_6)
-- [Act_1 · Scene_7](/testi/shakespeare/plays/coriolanus/act_1/scene_7)
-- [Act_1 · Scene_8](/testi/shakespeare/plays/coriolanus/act_1/scene_8)
-- [Act_1 · Scene_9](/testi/shakespeare/plays/coriolanus/act_1/scene_9)
-- [Act_2 · Scene_1](/testi/shakespeare/plays/coriolanus/act_2/scene_1)
-- [Act_2 · Scene_2](/testi/shakespeare/plays/coriolanus/act_2/scene_2)
-- [Act_2 · Scene_3](/testi/shakespeare/plays/coriolanus/act_2/scene_3)
-- [Act_3 · Scene_1](/testi/shakespeare/plays/coriolanus/act_3/scene_1)
-- [Act_3 · Scene_2](/testi/shakespeare/plays/coriolanus/act_3/scene_2)
-- [Act_4 · Scene_1](/testi/shakespeare/plays/coriolanus/act_4/scene_1)
-- [Act_4 · Scene_2](/testi/shakespeare/plays/coriolanus/act_4/scene_2)
-- [Act_4 · Scene_3](/testi/shakespeare/plays/coriolanus/act_4/scene_3)
-- [Act_4 · Scene_4](/testi/shakespeare/plays/coriolanus/act_4/scene_4)
-- [Act_4 · Scene_5](/testi/shakespeare/plays/coriolanus/act_4/scene_5)
-- [Act_4 · Scene_6](/testi/shakespeare/plays/coriolanus/act_4/scene_6)
-- [Act_4 · Scene_7](/testi/shakespeare/plays/coriolanus/act_4/scene_7)
-- [Act_5 · Scene_1](/testi/shakespeare/plays/coriolanus/act_5/scene_1)
-- [Act_5 · Scene_2](/testi/shakespeare/plays/coriolanus/act_5/scene_2)
-- [Act_5 · Scene_3](/testi/shakespeare/plays/coriolanus/act_5/scene_3)
-- [Act_5 · Scene_4](/testi/shakespeare/plays/coriolanus/act_5/scene_4)
-- [Act_5 · Scene_6](/testi/shakespeare/plays/coriolanus/act_5/scene_6)
-
-
 ## Testo integrale / Full text
 
 

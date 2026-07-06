@@ -81,35 +81,6 @@ tags:
 **Settings:** [[Industrial City]], [[Continental Europe (Brussels)]]
 **Characters:** [[William Crimsworth]], [[Frances Henri]], [[Edward Crimsworth]], [[Monsieur Pelet]], [[Zoraide Reuter]], [[Yorke Hunsden]]
 
-## Chapters / scenes / sections
-
-- [Chapter 01](/testi/bronte/atomized/the_professor/chapter_01)
-- [Chapter 02 INTRODUCTORY](/testi/bronte/atomized/the_professor/chapter_02_introductory)
-- [Chapter 03](/testi/bronte/atomized/the_professor/chapter_03)
-- [Chapter 04](/testi/bronte/atomized/the_professor/chapter_04)
-- [Chapter 05](/testi/bronte/atomized/the_professor/chapter_05)
-- [Chapter 06](/testi/bronte/atomized/the_professor/chapter_06)
-- [Chapter 07](/testi/bronte/atomized/the_professor/chapter_07)
-- [Chapter 08](/testi/bronte/atomized/the_professor/chapter_08)
-- [Chapter 09](/testi/bronte/atomized/the_professor/chapter_09)
-- [Chapter 10](/testi/bronte/atomized/the_professor/chapter_10)
-- [Chapter 11](/testi/bronte/atomized/the_professor/chapter_11)
-- [Chapter 12](/testi/bronte/atomized/the_professor/chapter_12)
-- [Chapter 13](/testi/bronte/atomized/the_professor/chapter_13)
-- [Chapter 14](/testi/bronte/atomized/the_professor/chapter_14)
-- [Chapter 15](/testi/bronte/atomized/the_professor/chapter_15)
-- [Chapter 16](/testi/bronte/atomized/the_professor/chapter_16)
-- [Chapter 17](/testi/bronte/atomized/the_professor/chapter_17)
-- [Chapter 18](/testi/bronte/atomized/the_professor/chapter_18)
-- [Chapter 19](/testi/bronte/atomized/the_professor/chapter_19)
-- [Chapter 20](/testi/bronte/atomized/the_professor/chapter_20)
-- [Chapter 21](/testi/bronte/atomized/the_professor/chapter_21)
-- [Chapter 22](/testi/bronte/atomized/the_professor/chapter_22)
-- [Chapter 23](/testi/bronte/atomized/the_professor/chapter_23)
-- [Chapter 24](/testi/bronte/atomized/the_professor/chapter_24)
-- [Chapter 25](/testi/bronte/atomized/the_professor/chapter_25)
-- [Chapter 26](/testi/bronte/atomized/the_professor/chapter_26)
-
 ## Testo integrale / Full text
 
 THE PROFESSOR

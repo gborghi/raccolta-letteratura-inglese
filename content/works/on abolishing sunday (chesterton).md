@@ -51,11 +51,6 @@ tags:
 **Forms & Genres:** [[Essay]], [[Satire]], [[Apologetics]]
 **Historical References:** [[Christianity]], [[Bible]], [[Islam]], [[Truce of God]]
 
-## Chapters / scenes / sections
-
-- [part 01](/testi/chesterton/atomized/on_abolishing_sunday/part/part_01)
-- [part 02](/testi/chesterton/atomized/on_abolishing_sunday/part/part_02)
-
 ## Testo integrale / Full text
 
 From Come to Think of It by G.K.Chesterton

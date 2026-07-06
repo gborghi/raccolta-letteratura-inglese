@@ -79,42 +79,6 @@ tags:
 **Settings:** [[Battlefield]]
 **Characters:** [[Henry VI]], [[Lord Talbot]], [[Joan la Pucelle]], [[Duke of Gloucester]], [[Duke of York]], [[Earl of Suffolk]], [[Charles the Dauphin]], [[Margaret of Anjou]]
 
-## Chapters / scenes / sections
-
-- [Act_1 · Scene_1](/testi/shakespeare/plays/henry_vi_part_one/act_1/scene_1)
-- [Act_1 · Scene_2](/testi/shakespeare/plays/henry_vi_part_one/act_1/scene_2)
-- [Act_1 · Scene_3](/testi/shakespeare/plays/henry_vi_part_one/act_1/scene_3)
-- [Act_1 · Scene_4](/testi/shakespeare/plays/henry_vi_part_one/act_1/scene_4)
-- [Act_1 · Scene_5](/testi/shakespeare/plays/henry_vi_part_one/act_1/scene_5)
-- [Act_1 · Scene_6](/testi/shakespeare/plays/henry_vi_part_one/act_1/scene_6)
-- [Act_1 · Scene_7](/testi/shakespeare/plays/henry_vi_part_one/act_1/scene_7)
-- [Act_1 · Scene_8](/testi/shakespeare/plays/henry_vi_part_one/act_1/scene_8)
-- [Act_2 · Scene_1](/testi/shakespeare/plays/henry_vi_part_one/act_2/scene_1)
-- [Act_2 · Scene_2](/testi/shakespeare/plays/henry_vi_part_one/act_2/scene_2)
-- [Act_2 · Scene_3](/testi/shakespeare/plays/henry_vi_part_one/act_2/scene_3)
-- [Act_2 · Scene_4](/testi/shakespeare/plays/henry_vi_part_one/act_2/scene_4)
-- [Act_2 · Scene_5](/testi/shakespeare/plays/henry_vi_part_one/act_2/scene_5)
-- [Act_3 · Scene_1](/testi/shakespeare/plays/henry_vi_part_one/act_3/scene_1)
-- [Act_3 · Scene_2](/testi/shakespeare/plays/henry_vi_part_one/act_3/scene_2)
-- [Act_3 · Scene_3](/testi/shakespeare/plays/henry_vi_part_one/act_3/scene_3)
-- [Act_3 · Scene_4](/testi/shakespeare/plays/henry_vi_part_one/act_3/scene_4)
-- [Act_3 · Scene_5](/testi/shakespeare/plays/henry_vi_part_one/act_3/scene_5)
-- [Act_3 · Scene_6](/testi/shakespeare/plays/henry_vi_part_one/act_3/scene_6)
-- [Act_3 · Scene_7](/testi/shakespeare/plays/henry_vi_part_one/act_3/scene_7)
-- [Act_4 · Scene_2](/testi/shakespeare/plays/henry_vi_part_one/act_4/scene_2)
-- [Act_4 · Scene_3](/testi/shakespeare/plays/henry_vi_part_one/act_4/scene_3)
-- [Act_4 · Scene_4](/testi/shakespeare/plays/henry_vi_part_one/act_4/scene_4)
-- [Act_4 · Scene_5](/testi/shakespeare/plays/henry_vi_part_one/act_4/scene_5)
-- [Act_4 · Scene_6](/testi/shakespeare/plays/henry_vi_part_one/act_4/scene_6)
-- [Act_4 · Scene_7](/testi/shakespeare/plays/henry_vi_part_one/act_4/scene_7)
-- [Act_5 · Scene_2](/testi/shakespeare/plays/henry_vi_part_one/act_5/scene_2)
-- [Act_5 · Scene_3](/testi/shakespeare/plays/henry_vi_part_one/act_5/scene_3)
-- [Act_5 · Scene_4](/testi/shakespeare/plays/henry_vi_part_one/act_5/scene_4)
-- [Act_5 · Scene_5](/testi/shakespeare/plays/henry_vi_part_one/act_5/scene_5)
-- [Act_5 · Scene_6](/testi/shakespeare/plays/henry_vi_part_one/act_5/scene_6)
-- [Act_5 · Scene_7](/testi/shakespeare/plays/henry_vi_part_one/act_5/scene_7)
-
-
 ## Testo integrale / Full text
 
 

@@ -50,11 +50,6 @@ tags:
 **Forms & Genres:** [[Essay]]
 **Historical References:** [[Industrial Revolution]]
 
-## Chapters / scenes / sections
-
-- [part 01](/testi/chesterton/atomized/telegraph-poles/part/part_01)
-- [part 02](/testi/chesterton/atomized/telegraph-poles/part/part_02)
-
 ## Testo integrale / Full text
 
 The Telegraph Poles

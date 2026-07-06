@@ -62,10 +62,6 @@ tags:
 **Themes & Concepts:** [[Anti-Industrialism]], [[Distributism]], [[Critique of Progress]], [[Nature vs Civilization]], [[Natural Order]], [[Regeneration]], [[Kingship and Legitimacy]], [[Paganism and Classical Revival]], [[Power and Corruption]]
 **Forms & Genres:** [[Ballad Ballade]], [[Allegory]], [[Comic Verse Song]]
 
-## Chapters / scenes / sections
-
-- [part 01](/testi/chesterton/atomized/oak/part/part_01)
-
 ## Testo integrale / Full text
 
 The Song of the Oak  

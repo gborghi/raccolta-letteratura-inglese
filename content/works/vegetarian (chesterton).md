@@ -45,10 +45,6 @@ tags:
 **Themes & Concepts:** [[Paradox]], [[Satire of Society]], [[Critique of Progress]], [[Fanaticism]], [[Self-Deception]]
 **Forms & Genres:** [[Comic Verse Song]], [[Satire]]
 
-## Chapters / scenes / sections
-
-- [part 01](/testi/chesterton/atomized/vegetarian/part/part_01)
-
 ## Testo integrale / Full text
 
 THE LOGICAL VEGETARIAN  

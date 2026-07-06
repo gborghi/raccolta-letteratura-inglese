@@ -48,10 +48,6 @@ tags:
 **Forms & Genres:** [[Comic Verse Song]], [[Ballad Ballade]], [[Satire]]
 **Settings:** [[Inn]]
 
-## Chapters / scenes / sections
-
-- [part 01](/testi/chesterton/atomized/grocer/part/part_01)
-
 ## Testo integrale / Full text
 
 The Song Against Grocers  

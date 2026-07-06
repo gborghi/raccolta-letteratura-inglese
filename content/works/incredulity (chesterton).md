@@ -93,17 +93,6 @@ tags:
 **Historical References:** [[Christianity]], [[Bible]], [[Catholic Church]], [[First World War]], [[Industrial Revolution]], [[Medieval England]]
 **Characters:** [[Father Brown]], [[Flambeau]]
 
-## Chapters / scenes / sections
-
-- [Story 01 The Resurrection of Father Brown](/testi/chesterton/atomized/incredulity/story_01_the_resurrection_of_father_brown)
-- [Story 02 The Arrow of Heaven](/testi/chesterton/atomized/incredulity/story_02_the_arrow_of_heaven)
-- [Story 03 The Oracle of the Dog](/testi/chesterton/atomized/incredulity/story_03_the_oracle_of_the_dog)
-- [Story 04 The Miracle of Moon Crescent](/testi/chesterton/atomized/incredulity/story_04_the_miracle_of_moon_crescent)
-- [Story 05 The Curse of the Golden Cross](/testi/chesterton/atomized/incredulity/story_05_the_curse_of_the_golden_cross)
-- [Story 06 The Dagger with Wings](/testi/chesterton/atomized/incredulity/story_06_the_dagger_with_wings)
-- [Story 07 The Doom of the Darnaways](/testi/chesterton/atomized/incredulity/story_07_the_doom_of_the_darnaways)
-- [Story 08 The Ghost of Gideon Wise](/testi/chesterton/atomized/incredulity/story_08_the_ghost_of_gideon_wise)
-
 ## Testo integrale / Full text
 
 The Incredulity of Father Brown (1926)

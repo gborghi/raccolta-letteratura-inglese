@@ -73,12 +73,6 @@ tags:
 **Historical References:** [[Christianity]], [[Catholic Church]], [[Bible]], [[Classical Antiquity]], [[Eastern Religion Comparative Religion]], [[Punic Wars]]
 **Characters:** [[Christ]], [[Buddha]], [[Confucius]], [[Mahomet]], [[Socrates]], [[H. G. Wells]], [[Herod the Great]], [[Julian the Apostate]]
 
-## Chapters / scenes / sections
-
-- Chapter 01 ON THE MAN CALLED CHRIST
-- [Chapter 02](/testi/chesterton/atomized/everlasting_man/chapter_02)
-- [Chapter 03](/testi/chesterton/atomized/everlasting_man/chapter_03)
-
 ## Testo integrale / Full text
 
 THE EVERLASTING MAN

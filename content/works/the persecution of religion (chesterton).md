@@ -54,12 +54,6 @@ tags:
 **Forms & Genres:** [[Essay]], [[Apologetics]], [[Satire]], [[Literary Criticism]]
 **Historical References:** [[Christianity]]
 
-## Chapters / scenes / sections
-
-- [part 01](/testi/chesterton/atomized/the_persecution_of_religion/part/part_01)
-- [part 02](/testi/chesterton/atomized/the_persecution_of_religion/part/part_02)
-- [part 03](/testi/chesterton/atomized/the_persecution_of_religion/part/part_03)
-
 ## Testo integrale / Full text
 
 The Persecution of Religion

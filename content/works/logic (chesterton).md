@@ -50,11 +50,6 @@ tags:
 **Forms & Genres:** [[Essay]], [[Aphorism]], [[Apologetics]]
 **Historical References:** [[Christianity]], [[Bible]], [[Ancient Greece]], [[Scholasticism]]
 
-## Chapters / scenes / sections
-
-- [part 01](/testi/chesterton/atomized/logic/part/part_01)
-- [part 02](/testi/chesterton/atomized/logic/part/part_02)
-
 ## Testo integrale / Full text
 
 LOGIC AND LAWN TENNIS

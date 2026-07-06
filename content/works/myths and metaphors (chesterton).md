@@ -45,11 +45,6 @@ tags:
 **Themes & Concepts:** [[Critique of Progress]], [[Truth]], [[Imagination]], [[Paradox]], [[Faith]], [[Power of Language]], [[Deception]], [[Appearance vs Reality]]
 **Forms & Genres:** [[Essay]], [[Satire]]
 
-## Chapters / scenes / sections
-
-- [part 01](/testi/chesterton/atomized/myths_and_metaphors/part/part_01)
-- [part 02](/testi/chesterton/atomized/myths_and_metaphors/part/part_02)
-
 ## Testo integrale / Full text
 
 Myths and Metaphors

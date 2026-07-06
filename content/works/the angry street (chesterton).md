@@ -58,11 +58,6 @@ tags:
 **Forms & Genres:** [[Short Story]], [[Parable]]
 **Settings:** [[London]], [[Modern Metropolis]]
 
-## Chapters / scenes / sections
-
-- [part 01](/testi/chesterton/atomized/the_angry_street/part/part_01)
-- [part 02](/testi/chesterton/atomized/the_angry_street/part/part_02)
-
 ## Testo integrale / Full text
 
 The Angry Street

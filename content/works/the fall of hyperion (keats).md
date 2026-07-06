@@ -38,12 +38,6 @@ tags:
 **Forms & Genres:** [[Blank Verse]], [[Fragment]]
 **Historical References:** [[Greek Mythology]]
 
-## Chapters / scenes / sections
-
-- [Section 01 canto i](/testi/keats/long/the_fall_of_hyperion/section_01_canto_i)
-- [Section 02 canto ii](/testi/keats/long/the_fall_of_hyperion/section_02_canto_ii)
-
-
 ## Testo integrale / Full text
 
 A Dream  

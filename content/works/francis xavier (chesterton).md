@@ -54,10 +54,6 @@ tags:
 **Historical References:** [[Catholic Church]], [[Eastern Religion Comparative Religion]]
 **Settings:** [[Orient]]
 
-## Chapters / scenes / sections
-
-- [part 01](/testi/chesterton/atomized/francis_xavier/part/part_01)
-
 ## Testo integrale / Full text
 
 "St. Francis Xavier"  

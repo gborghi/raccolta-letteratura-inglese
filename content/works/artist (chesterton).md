@@ -62,10 +62,6 @@ tags:
 **Themes & Concepts:** [[Artist and Society]], [[Satire of Society]], [[Wonder and Gratitude]], [[Innocence and Experience]], [[Maturation and Growth]], [[Nature vs Civilization]], [[Order vs Chaos]], [[Critique of Progress]], [[Vanity]], [[Indolence]]
 **Forms & Genres:** [[Narrative Poem]], [[Satire]], [[Comic Verse Song]]
 
-## Chapters / scenes / sections
-
-- [part 01](/testi/chesterton/atomized/artist/part/part_01)
-
 ## Testo integrale / Full text
 
 ON THE DISASTROUS SPREAD OF AESTHETICISM IN ALL CLASSES  

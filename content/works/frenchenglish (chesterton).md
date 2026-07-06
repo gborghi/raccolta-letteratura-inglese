@@ -52,12 +52,6 @@ tags:
 **Forms & Genres:** [[Essay]]
 **Historical References:** [[French Revolution]], [[Eastern Religion Comparative Religion]]
 
-## Chapters / scenes / sections
-
-- [part 01](/testi/chesterton/atomized/frenchenglish/part/part_01)
-- [part 02](/testi/chesterton/atomized/frenchenglish/part/part_02)
-- [part 03](/testi/chesterton/atomized/frenchenglish/part/part_03)
-
 ## Testo integrale / Full text
 
 "French And English"

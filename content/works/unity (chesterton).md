@@ -55,10 +55,6 @@ tags:
 **Forms & Genres:** [[Satire]], [[Ballad Ballade]], [[Epigram]], [[Comic Verse Song]]
 **Historical References:** [[Christianity]], [[Eastern Religion Comparative Religion]], [[Kikuyu Controversy]]
 
-## Chapters / scenes / sections
-
-- [part 01](/testi/chesterton/atomized/unity/part/part_01)
-
 ## Testo integrale / Full text
 
 THE HIGHER UNITY  

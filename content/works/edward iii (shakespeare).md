@@ -66,28 +66,6 @@ tags:
 **Settings:** [[Battlefield]]
 **Characters:** [[Edward III]], [[Edward the Black Prince]], [[Countess of Salisbury]], [[Queen Philippa]], [[King John of France]], [[Earl of Salisbury]]
 
-## Chapters / scenes / sections
-
-- [Scenes · Scene_1](/testi/shakespeare/plays/edward_iii/scenes/scene_1)
-- [Scenes · Scene_10](/testi/shakespeare/plays/edward_iii/scenes/scene_10)
-- [Scenes · Scene_11](/testi/shakespeare/plays/edward_iii/scenes/scene_11)
-- [Scenes · Scene_12](/testi/shakespeare/plays/edward_iii/scenes/scene_12)
-- [Scenes · Scene_13](/testi/shakespeare/plays/edward_iii/scenes/scene_13)
-- [Scenes · Scene_14](/testi/shakespeare/plays/edward_iii/scenes/scene_14)
-- [Scenes · Scene_15](/testi/shakespeare/plays/edward_iii/scenes/scene_15)
-- [Scenes · Scene_16](/testi/shakespeare/plays/edward_iii/scenes/scene_16)
-- [Scenes · Scene_17](/testi/shakespeare/plays/edward_iii/scenes/scene_17)
-- [Scenes · Scene_18](/testi/shakespeare/plays/edward_iii/scenes/scene_18)
-- [Scenes · Scene_2](/testi/shakespeare/plays/edward_iii/scenes/scene_2)
-- [Scenes · Scene_3](/testi/shakespeare/plays/edward_iii/scenes/scene_3)
-- [Scenes · Scene_4](/testi/shakespeare/plays/edward_iii/scenes/scene_4)
-- [Scenes · Scene_5](/testi/shakespeare/plays/edward_iii/scenes/scene_5)
-- [Scenes · Scene_6](/testi/shakespeare/plays/edward_iii/scenes/scene_6)
-- [Scenes · Scene_7](/testi/shakespeare/plays/edward_iii/scenes/scene_7)
-- [Scenes · Scene_8](/testi/shakespeare/plays/edward_iii/scenes/scene_8)
-- [Scenes · Scene_9](/testi/shakespeare/plays/edward_iii/scenes/scene_9)
-
-
 ## Testo integrale / Full text
 
 

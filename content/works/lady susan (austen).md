@@ -84,22 +84,6 @@ tags:
 **Settings:** [[Rural England]]
 **Characters:** [[Lady Susan Vernon]], [[Reginald De Courcy]], [[Catherine Vernon]], [[Frederica Vernon]], [[Mrs Johnson]]
 
-## Chapters / scenes / sections
-
-- Story 01 ADY SUSAN
-- Story 02 Y DEAR BROTHER I can no longer refuse my
-- Story 03 ATHERINE VERNON
-- Story 04 ATHERINE VERNON
-- Story 05 ATHERINE VERNON
-- Story 06 ATHERINE VERNON
-- Story 07 DE COURCY
-- Story 08 ATHERINE VERNON
-- Story 09 ATHERINE VERNON
-- Story 10 ATH VERNON
-- Story 11 ATHERINE VERNON
-- Story 12 DE COURCY
-
-
 ## Testo integrale / Full text
 
 LADY SUSAN

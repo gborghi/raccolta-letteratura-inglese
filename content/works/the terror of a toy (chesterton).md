@@ -52,11 +52,6 @@ tags:
 **Themes & Concepts:** [[Satire of Society]], [[Critique of Progress]], [[Maturation and Growth]], [[Heroism]], [[Paradox]], [[Innocence and Experience]], [[Common Man]]
 **Forms & Genres:** [[Essay]], [[Satire]], [[Aphorism]]
 
-## Chapters / scenes / sections
-
-- [part 01](/testi/chesterton/atomized/the_terror_of_a_toy/part/part_01)
-- [part 02](/testi/chesterton/atomized/the_terror_of_a_toy/part/part_02)
-
 ## Testo integrale / Full text
 
 The Terror of a Toy, "Fancies versus Fads", New York, Dodd, Mead

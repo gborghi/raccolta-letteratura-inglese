@@ -51,10 +51,6 @@ tags:
 **Themes & Concepts:** [[Satire of Society]], [[Anti-Industrialism]], [[Critique of Progress]], [[Education]], [[Labor and Work]], [[Greed and Money]], [[Freedom]], [[Class Conflict]]
 **Forms & Genres:** [[Comic Verse Song]], [[Satire]]
 
-## Chapters / scenes / sections
-
-- [part 01](/testi/chesterton/atomized/songs/part/part_01)
-
 ## Testo integrale / Full text
 
 Songs of Education  

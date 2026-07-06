@@ -85,19 +85,6 @@ tags:
 **Settings:** [[Battlefield]], [[Rural England]]
 **Characters:** [[King Alfred (2)]], [[Virgin Mary]], [[Guthrum]], [[Colan]], [[Eldred]], [[Mark of Italy]], [[Elf]], [[Ogier]], [[Harold]], [[Gorlias]]
 
-## Chapters / scenes / sections
-
-- [Section 00 dedication](/testi/chesterton/long/the_ballad_of_the_white_horse/section_00_dedication)
-- [Section 01 book i](/testi/chesterton/long/the_ballad_of_the_white_horse/section_01_book_i)
-- [Section 02 book ii](/testi/chesterton/long/the_ballad_of_the_white_horse/section_02_book_ii)
-- [Section 03 book iii](/testi/chesterton/long/the_ballad_of_the_white_horse/section_03_book_iii)
-- [Section 04 book iv](/testi/chesterton/long/the_ballad_of_the_white_horse/section_04_book_iv)
-- [Section 05 book v](/testi/chesterton/long/the_ballad_of_the_white_horse/section_05_book_v)
-- [Section 06 book vi](/testi/chesterton/long/the_ballad_of_the_white_horse/section_06_book_vi)
-- [Section 07 book vii](/testi/chesterton/long/the_ballad_of_the_white_horse/section_07_book_vii)
-- [Section 08 book viii](/testi/chesterton/long/the_ballad_of_the_white_horse/section_08_book_viii)
-
-
 ## Testo integrale / Full text
 
 Preface  

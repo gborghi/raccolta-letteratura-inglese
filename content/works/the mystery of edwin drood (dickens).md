@@ -92,35 +92,6 @@ tags:
 **Settings:** [[London]], [[Rural England]]
 **Characters:** [[Edwin Drood]], [[John Jasper]], [[Rosa Bud]], [[Neville Landless]], [[Helena Landless]], [[Mr Crisparkle]], [[Durdles]], [[Mr Grewgious]], [[Mr Sapsea]]
 
-## Chapters / scenes / sections
-
-- [Chapter 01](/testi/dickens/atomized/the_mystery_of_edwin_drood/chapter_01)
-- [Chapter 02](/testi/dickens/atomized/the_mystery_of_edwin_drood/chapter_02)
-- [Chapter 03](/testi/dickens/atomized/the_mystery_of_edwin_drood/chapter_03)
-- [Chapter 04 there is not any other young](/testi/dickens/atomized/the_mystery_of_edwin_drood/chapter_04_there_is_not_any_other_young)
-- [Chapter 05](/testi/dickens/atomized/the_mystery_of_edwin_drood/chapter_05)
-- [Chapter 06](/testi/dickens/atomized/the_mystery_of_edwin_drood/chapter_06)
-- [Chapter 07](/testi/dickens/atomized/the_mystery_of_edwin_drood/chapter_07)
-- [Chapter 08](/testi/dickens/atomized/the_mystery_of_edwin_drood/chapter_08)
-- [Chapter 09](/testi/dickens/atomized/the_mystery_of_edwin_drood/chapter_09)
-- [Chapter 10](/testi/dickens/atomized/the_mystery_of_edwin_drood/chapter_10)
-- [Chapter 11](/testi/dickens/atomized/the_mystery_of_edwin_drood/chapter_11)
-- [Chapter 12](/testi/dickens/atomized/the_mystery_of_edwin_drood/chapter_12)
-- [Chapter 13](/testi/dickens/atomized/the_mystery_of_edwin_drood/chapter_13)
-- [Chapter 14](/testi/dickens/atomized/the_mystery_of_edwin_drood/chapter_14)
-- [Chapter 15](/testi/dickens/atomized/the_mystery_of_edwin_drood/chapter_15)
-- [Chapter 16](/testi/dickens/atomized/the_mystery_of_edwin_drood/chapter_16)
-- [Chapter 17](/testi/dickens/atomized/the_mystery_of_edwin_drood/chapter_17)
-- [Chapter 18](/testi/dickens/atomized/the_mystery_of_edwin_drood/chapter_18)
-- [Chapter 19](/testi/dickens/atomized/the_mystery_of_edwin_drood/chapter_19)
-- [Chapter 20](/testi/dickens/atomized/the_mystery_of_edwin_drood/chapter_20)
-- [Chapter 21](/testi/dickens/atomized/the_mystery_of_edwin_drood/chapter_21)
-- [Chapter 22](/testi/dickens/atomized/the_mystery_of_edwin_drood/chapter_22)
-- [Chapter 23](/testi/dickens/atomized/the_mystery_of_edwin_drood/chapter_23)
-- [Chapter 24 hear Neville moving too Are yo](/testi/dickens/atomized/the_mystery_of_edwin_drood/chapter_24_hear_neville_moving_too_are_yo)
-- [Chapter 25](/testi/dickens/atomized/the_mystery_of_edwin_drood/chapter_25)
-
-
 ## Testo integrale / Full text
 
 The Mystery of Edwin Drood

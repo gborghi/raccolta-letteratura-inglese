@@ -74,52 +74,6 @@ tags:
 **Forms & Genres:** [[Essay]], [[Literary Criticism]], [[Apologetics]]
 **Historical References:** [[Christianity]], [[Catholic Church]]
 
-## Chapters / scenes / sections
-
-- Story 01 The Common Man
-- Story 02 The Common Man
-- Story 03 A Midsummer Night S Dream
-- Story 04 On Reading
-- Story 05 Monsters And The Middle Ages
-- Story 06 What Novelists Are For
-- Story 07 The Song Of Roland
-- Story 08 The Superstition Of School
-- Story 09 The Romance Of A Rascal
-- Story 10 Paying For Patriotism
-- Story 11 The Pantomime
-- Story 12 Reading The Riddle
-- Story 13 A Tale Of Two Cities
-- Story 14 God And Goods
-- Story 15 From Meredith To Rupert Brooke
-- Story 16 The Dangers Of Necromancy
-- Story 17 Giotto And St Francis
-- Story 18 The New Groove
-- Story 19 The Real Dr Johnson
-- Story 20 Rabelaisian Regrets
-- Story 21 The Hound Of Heaven
-- Story 22 The Frivolous Man
-- Story 23 Two Stubborn Pieces Of Iron
-- Story 24 Henry James
-- Story 25 The Strange Talk Of Two Victorians
-- Story 26 Laughter
-- Story 27 Tales From Tolstoi
-- Story 28 The New Case For Catholic Schools
-- Story 29 Vulgarity
-- Story 30 The Revival Of Philosophy Why
-- Story 31 Vandalism
-- Story 32 Elizabeth Barrett Browning
-- Story 33 The Erastian On The Establishment
-- Story 34 The Meaning Of Metre
-- Story 35 Concerning A Strange City
-- Story 36 The Epitaph Of Pierpont Morgan
-- Story 37 The New Bigotry
-- Story 38 Books For Boys
-- Story 39 The Outline Of Liberty
-- Story 40 A Note On Nudism
-- Story 41 Consulting The Encyclopaedia
-- Story 42 If I Had Only One Sermon To Preach
-- Story 43 If Don John Of Austria Had Married Mary
-
 ## Testo integrale / Full text
 
 THE COMMON MAN

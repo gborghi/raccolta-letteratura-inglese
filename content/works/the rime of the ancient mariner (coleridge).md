@@ -48,18 +48,6 @@ tags:
 **Settings:** [[Ship]]
 **Characters:** [[Death Personified]], [[Ancient Mariner]]
 
-## Chapters / scenes / sections
-
-- [Section 00 argument](/testi/coleridge/long/the_rime_of_the_ancient_mariner/section_00_argument)
-- [Section 01 part i](/testi/coleridge/long/the_rime_of_the_ancient_mariner/section_01_part_i)
-- [Section 02 part ii](/testi/coleridge/long/the_rime_of_the_ancient_mariner/section_02_part_ii)
-- [Section 03 part iii](/testi/coleridge/long/the_rime_of_the_ancient_mariner/section_03_part_iii)
-- [Section 04 part iv](/testi/coleridge/long/the_rime_of_the_ancient_mariner/section_04_part_iv)
-- [Section 05 part v](/testi/coleridge/long/the_rime_of_the_ancient_mariner/section_05_part_v)
-- [Section 06 part vi](/testi/coleridge/long/the_rime_of_the_ancient_mariner/section_06_part_vi)
-- [Section 07 part vii](/testi/coleridge/long/the_rime_of_the_ancient_mariner/section_07_part_vii)
-
-
 ## Testo integrale / Full text
 
 IN SEVEN PARTS  

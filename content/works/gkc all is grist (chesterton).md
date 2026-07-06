@@ -80,13 +80,6 @@ tags:
 **Forms & Genres:** [[Essay]], [[Satire]], [[Literary Criticism]], [[Aphorism]], [[Travel Writing]]
 **Historical References:** [[Renaissance]], [[Dante]], [[Italy reference]], [[French Revolution]], [[Puritanism]], [[Medieval England]], [[Algernon Charles Swinburne]], [[T. S. Eliot]], [[Napoleon]], [[Michelangelo]], [[Petrarch]], [[Thomas Aquinas]]
 
-## Chapters / scenes / sections
-
-- [Chapter 01](/testi/chesterton/atomized/gkc_all_is_grist/chapter_01)
-- [Chapter 02](/testi/chesterton/atomized/gkc_all_is_grist/chapter_02)
-- [Chapter 03](/testi/chesterton/atomized/gkc_all_is_grist/chapter_03)
-- [Chapter 04](/testi/chesterton/atomized/gkc_all_is_grist/chapter_04)
-
 ## Testo integrale / Full text
 
 All Is Grist

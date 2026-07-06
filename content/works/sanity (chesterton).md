@@ -81,32 +81,6 @@ tags:
 **Forms & Genres:** [[Essay]], [[Fable]], [[Parable]], [[Satire]]
 **Historical References:** [[Industrial Revolution]], [[French Revolution]], [[Catholic Church]], [[Puritanism]], [[Bible]], [[Irish Question]]
 
-## Chapters / scenes / sections
-
-- [Story 01 SOME GENERAL IDEAS](/testi/chesterton/atomized/sanity/story_01_some_general_ideas)
-- Story 02 THE BEGINNING OF THE QUARREL
-- Story 03 THE PERIL OF THE HOUR
-- Story 04 THE CHANCE OF RECOVERY
-- Story 05 ON A SENSE OF PROPORTION
-- Story 06 SOME ASPECTS OF BIG BUSINESS
-- Story 07 THE BLUFF OF THE BIG SHOPS
-- Story 08 A MISUNDERSTANDING ABOUT METHOD
-- Story 09 A CASE IN POINT
-- Story 10 THE TYRANNY OF TRUSTS
-- Story 11 SOME ASPECTS OF THE LAND
-- Story 12 THE SIMPLE TRUTH
-- Story 13 VOWS AND VOLUNTEERS
-- Story 14 THE REAL LIFE ON THE LAND
-- Story 15 SOME ASPECTS OF MACHINERY
-- Story 16 THE WHEEL OF FATE
-- Story 17 THE ROMANCE OF MACHINERY
-- Story 18 THE HOLIDAY OF THE SLAVE
-- Story 19 THE FREE MAN AND THE FORD CAR
-- Story 20 A NOTE ON EMIGRATION
-- Story 21 THE NEED OF A NEW SPIRIT
-- Story 22 THE RELIGION OF SMALL PROPERTY
-- Story 23 A SUMMARY
-
 ## Testo integrale / Full text
 
 G. K. CHESTERTON

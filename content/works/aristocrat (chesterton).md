@@ -55,10 +55,6 @@ tags:
 **Forms & Genres:** [[Ballad Ballade]], [[Lyric]], [[Satire]]
 **Characters:** [[Satan]]
 
-## Chapters / scenes / sections
-
-- [part 01](/testi/chesterton/atomized/aristocrat/part/part_01)
-
 ## Testo integrale / Full text
 
 The Aristocrat  

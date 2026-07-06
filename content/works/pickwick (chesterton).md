@@ -52,12 +52,6 @@ tags:
 **Forms & Genres:** [[Literary Criticism]], [[Essay]]
 **Characters:** [[Falstaff]], [[Samuel Pickwick]], [[Nathaniel Winkle]], [[Tony Weller]], [[Robin Hood]], [[Fagin]], [[Mr. Stiggins]], [[Friar Tuck]], [[Wife of Bath]]
 
-## Chapters / scenes / sections
-
-- [part 01](/testi/chesterton/atomized/pickwick/part/part_01)
-- [part 02](/testi/chesterton/atomized/pickwick/part/part_02)
-- [part 03](/testi/chesterton/atomized/pickwick/part/part_03)
-
 ## Testo integrale / Full text
 
 PICKWICK AND THE ENGLISH PEOPLES

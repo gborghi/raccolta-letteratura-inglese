@@ -48,12 +48,6 @@ tags:
 **Forms & Genres:** [[Essay]]
 **Historical References:** [[Christianity]], [[Islam]], [[Bible]], [[Elizabethan England]], [[Scopes Trial]]
 
-## Chapters / scenes / sections
-
-- [part 01](/testi/chesterton/atomized/compulsory_education/part/part_01)
-- [part 02](/testi/chesterton/atomized/compulsory_education/part/part_02)
-- [part 03](/testi/chesterton/atomized/compulsory_education/part/part_03)
-
 ## Testo integrale / Full text
 
 Compulsory Education and the Monkey Trial

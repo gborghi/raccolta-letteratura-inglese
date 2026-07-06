@@ -82,17 +82,6 @@ tags:
 **Forms & Genres:** [[Detective Fiction]], [[Short Story]]
 **Settings:** [[Rural England]], [[Sea (2)]], [[Underworld Cave]]
 
-## Chapters / scenes / sections
-
-- [Story 01 THE TALE OF THE PEACOCK TREES](/testi/chesterton/atomized/trees_of_pride/story_01_the_tale_of_the_peacock_trees)
-- Story 02 THE WAGER OF SQUIRE VANE
-- Story 03 THE MYSTERY OF THE WELL
-- Story 04 THE CHASE AFTER THE TRUTH
-- Story 05 THE TALE OF THE PEACOCK TREES
-- Story 06 THE WAGER OF SQUIRE VANE
-- Story 07 THE MYSTERY OF THE WELL
-- Story 08 THE CHASE AFTER THE TRUTH
-
 ## Testo integrale / Full text
 
 Etext prepared by Dianne Bean of Phoenix, Arizona.

@@ -48,11 +48,6 @@ tags:
 **Forms & Genres:** [[Essay]], [[Apologetics]]
 **Historical References:** [[Christianity]], [[Bible]], [[Darwinism]]
 
-## Chapters / scenes / sections
-
-- [part 01](/testi/chesterton/atomized/on_darwinism_and_mystery/part/part_01)
-- [part 02](/testi/chesterton/atomized/on_darwinism_and_mystery/part/part_02)
-
 ## Testo integrale / Full text
 
 On Darwinism and Mystery

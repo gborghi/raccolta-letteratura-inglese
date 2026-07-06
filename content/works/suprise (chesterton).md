@@ -45,10 +45,6 @@ tags:
 **Themes & Concepts:** [[Self-Knowledge]], [[Wonder and Gratitude]], [[Grace and Redemption]], [[Body]], [[Sin and the Fall]], [[Uncanny]], [[Perception and Consciousness]]
 **Forms & Genres:** [[Lyric]], [[Hymn]]
 
-## Chapters / scenes / sections
-
-- [part 01](/testi/chesterton/atomized/suprise/part/part_01)
-
 ## Testo integrale / Full text
 
 The Sword of Surprise  

@@ -95,18 +95,6 @@ tags:
 **Forms & Genres:** [[Biography]], [[Literary Criticism]], [[Verse Drama]], [[Epigram]], [[Satire]], [[Problem Play]]
 **Historical References:** [[Puritanism]], [[Irish Question]], [[First World War]]
 
-## Chapters / scenes / sections
-
-- [Story 01 INTRODUCTION TO THE FIRST EDITION](/testi/chesterton/atomized/shaw/story_01_introduction_to_the_first_edition)
-- [Story 02 THE PROBLEM OF A PREFACE](/testi/chesterton/atomized/shaw/story_02_the_problem_of_a_preface)
-- [Story 03 THE IRISHMAN](/testi/chesterton/atomized/shaw/story_03_the_irishman)
-- [Story 04 THE PURITAN](/testi/chesterton/atomized/shaw/story_04_the_puritan)
-- [Story 05 THE PROGRESSIVE](/testi/chesterton/atomized/shaw/story_05_the_progressive)
-- [Story 06 THE CRITIC](/testi/chesterton/atomized/shaw/story_06_the_critic)
-- [Story 07 THE DRAMATIST](/testi/chesterton/atomized/shaw/story_07_the_dramatist)
-- [Story 08 THE PHILOSOPHER](/testi/chesterton/atomized/shaw/story_08_the_philosopher)
-- [Story 09 THE LATER PHASES](/testi/chesterton/atomized/shaw/story_09_the_later_phases)
-
 ## Testo integrale / Full text
 
 GEORGE BERNARD SHAW

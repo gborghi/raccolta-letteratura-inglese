@@ -105,54 +105,6 @@ tags:
 **Settings:** [[Industrial City]]
 **Characters:** [[Lucy Snowe]], [[Paul Emanuel]], [[Graham Bretton]], [[Madame Beck]], [[Ginevra Fanshawe]], [[Polly Home]], [[Mrs Bretton]]
 
-## Chapters / scenes / sections
-
-- [Chapter 01](/testi/bronte/atomized/villette/chapter_01)
-- [Chapter 02](/testi/bronte/atomized/villette/chapter_02)
-- [Chapter 03](/testi/bronte/atomized/villette/chapter_03)
-- [Chapter 04](/testi/bronte/atomized/villette/chapter_04)
-- [Chapter 05](/testi/bronte/atomized/villette/chapter_05)
-- [Chapter 06](/testi/bronte/atomized/villette/chapter_06)
-- [Chapter 07](/testi/bronte/atomized/villette/chapter_07)
-- [Chapter 08](/testi/bronte/atomized/villette/chapter_08)
-- [Chapter 09](/testi/bronte/atomized/villette/chapter_09)
-- [Chapter 10](/testi/bronte/atomized/villette/chapter_10)
-- [Chapter 11](/testi/bronte/atomized/villette/chapter_11)
-- [Chapter 12](/testi/bronte/atomized/villette/chapter_12)
-- [Chapter 13](/testi/bronte/atomized/villette/chapter_13)
-- [Chapter 14](/testi/bronte/atomized/villette/chapter_14)
-- [Chapter 15](/testi/bronte/atomized/villette/chapter_15)
-- [Chapter 16](/testi/bronte/atomized/villette/chapter_16)
-- [Chapter 17](/testi/bronte/atomized/villette/chapter_17)
-- [Chapter 18](/testi/bronte/atomized/villette/chapter_18)
-- [Chapter 19](/testi/bronte/atomized/villette/chapter_19)
-- [Chapter 20](/testi/bronte/atomized/villette/chapter_20)
-- [Chapter 21](/testi/bronte/atomized/villette/chapter_21)
-- [Chapter 22](/testi/bronte/atomized/villette/chapter_22)
-- [Chapter 23](/testi/bronte/atomized/villette/chapter_23)
-- [Chapter 24](/testi/bronte/atomized/villette/chapter_24)
-- [Chapter 25](/testi/bronte/atomized/villette/chapter_25)
-- [Chapter 26 some illustrated work of natur](/testi/bronte/atomized/villette/chapter_26_some_illustrated_work_of_natur)
-- [Chapter 27](/testi/bronte/atomized/villette/chapter_27)
-- [Chapter 28](/testi/bronte/atomized/villette/chapter_28)
-- [Chapter 29](/testi/bronte/atomized/villette/chapter_29)
-- [Chapter 30](/testi/bronte/atomized/villette/chapter_30)
-- [Chapter 31 never hazarded a second With a](/testi/bronte/atomized/villette/chapter_31_never_hazarded_a_second_with_a)
-- [Chapter 32](/testi/bronte/atomized/villette/chapter_32)
-- [Chapter 33](/testi/bronte/atomized/villette/chapter_33)
-- [Chapter 34](/testi/bronte/atomized/villette/chapter_34)
-- [Chapter 35](/testi/bronte/atomized/villette/chapter_35)
-- [Chapter 36](/testi/bronte/atomized/villette/chapter_36)
-- [Chapter 37](/testi/bronte/atomized/villette/chapter_37)
-- [Chapter 38](/testi/bronte/atomized/villette/chapter_38)
-- [Chapter 39](/testi/bronte/atomized/villette/chapter_39)
-- [Chapter 40](/testi/bronte/atomized/villette/chapter_40)
-- [Chapter 41](/testi/bronte/atomized/villette/chapter_41)
-- [Chapter 42](/testi/bronte/atomized/villette/chapter_42)
-- [Chapter 43](/testi/bronte/atomized/villette/chapter_43)
-- [Chapter 44](/testi/bronte/atomized/villette/chapter_44)
-
-
 ## Testo integrale / Full text
 
 Villette

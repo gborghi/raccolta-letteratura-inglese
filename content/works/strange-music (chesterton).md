@@ -43,10 +43,6 @@ tags:
 **Themes & Concepts:** [[Romantic Love]], [[Unrequited Frustrated Love]], [[Mortality]], [[Hope]], [[Secrecy and Concealment]], [[Inexpressibility of Beauty]], [[Patience and Waiting]], [[Death and Love]]
 **Forms & Genres:** [[Lyric]]
 
-## Chapters / scenes / sections
-
-- [part 01](/testi/chesterton/atomized/strange-music/part/part_01)
-
 ## Testo integrale / Full text
 
 The Strange Music  

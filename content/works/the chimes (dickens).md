@@ -57,14 +57,6 @@ tags:
 **Settings:** [[London]]
 **Characters:** [[Trotty Veck]], [[Meg Veck]], [[Richard]], [[Alderman Cute]], [[Will Fern]], [[Lilian Fern]]
 
-## Chapters / scenes / sections
-
-- [Chapter 01 First Quarter](/testi/dickens/atomized/the_chimes/chapter_01_first_quarter)
-- [Chapter 02 The Second Quarter](/testi/dickens/atomized/the_chimes/chapter_02_the_second_quarter)
-- [Chapter 03 Third Quarter](/testi/dickens/atomized/the_chimes/chapter_03_third_quarter)
-- [Chapter 04 Fourth Quarter](/testi/dickens/atomized/the_chimes/chapter_04_fourth_quarter)
-
-
 ## Testo integrale / Full text
 
 Transcribed from Charles Scribner’s Sons “Works of Charles Dickens”

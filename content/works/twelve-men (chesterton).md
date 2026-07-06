@@ -56,11 +56,6 @@ tags:
 **Forms & Genres:** [[Essay]]
 **Historical References:** [[Christianity]], [[Bible]]
 
-## Chapters / scenes / sections
-
-- [part 01](/testi/chesterton/atomized/twelve-men/part/part_01)
-- [part 02](/testi/chesterton/atomized/twelve-men/part/part_02)
-
 ## Testo integrale / Full text
 
 THE TWELVE MEN

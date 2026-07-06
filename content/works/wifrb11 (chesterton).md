@@ -80,21 +80,6 @@ tags:
 **Settings:** [[London]], [[Italy]], [[Paris]], [[Germany]], [[America]]
 **Characters:** [[Father Brown]], [[Flambeau]]
 
-## Chapters / scenes / sections
-
-- [Story 01 The Absence of Mr Glass](/testi/chesterton/atomized/wifrb11/story_01_the_absence_of_mr_glass)
-- [Story 02 The Paradise of Thieves](/testi/chesterton/atomized/wifrb11/story_02_the_paradise_of_thieves)
-- [Story 03 The Duel of Dr Hirsch](/testi/chesterton/atomized/wifrb11/story_03_the_duel_of_dr_hirsch)
-- [Story 04 The Man in the Passage](/testi/chesterton/atomized/wifrb11/story_04_the_man_in_the_passage)
-- [Story 05 The Mistake of the Machine](/testi/chesterton/atomized/wifrb11/story_05_the_mistake_of_the_machine)
-- [Story 06 The Head of Caesar](/testi/chesterton/atomized/wifrb11/story_06_the_head_of_caesar)
-- [Story 07 The Purple Wig](/testi/chesterton/atomized/wifrb11/story_07_the_purple_wig)
-- [Story 08 The Perishing of the Pendragons](/testi/chesterton/atomized/wifrb11/story_08_the_perishing_of_the_pendragons)
-- [Story 09 The God of the Gongs](/testi/chesterton/atomized/wifrb11/story_09_the_god_of_the_gongs)
-- [Story 10 The Salad of Colonel Cray](/testi/chesterton/atomized/wifrb11/story_10_the_salad_of_colonel_cray)
-- [Story 11 The Strange Crime of John Boulnois](/testi/chesterton/atomized/wifrb11/story_11_the_strange_crime_of_john_boulnois)
-- [Story 12 The Fairy Tale of Father Brown](/testi/chesterton/atomized/wifrb11/story_12_the_fairy_tale_of_father_brown)
-
 ## Testo integrale / Full text
 
 ***The Project Gutenberg Etext of The Wisdom of Father Brown***

@@ -70,13 +70,6 @@ tags:
 **Forms & Genres:** [[Literary Criticism]], [[Essay]]
 **Historical References:** [[Regency Georgian England]], [[Industrial Revolution]], [[French Revolution]], [[Reformation]], [[Catholic Church]], [[Puritanism]], [[Romantic Movement (Sensibility)]], [[Christianity]], [[Oxford Movement]], [[Utilitarianism]], [[Darwinism (Evolution)]]
 
-## Chapters / scenes / sections
-
-- [Chapter 01](/testi/chesterton/atomized/victorian_age/chapter_01)
-- [Chapter 02](/testi/chesterton/atomized/victorian_age/chapter_02)
-- [Chapter 03](/testi/chesterton/atomized/victorian_age/chapter_03)
-- [Chapter 04](/testi/chesterton/atomized/victorian_age/chapter_04)
-
 ## Testo integrale / Full text
 
 Project Gutenberg's The Victorian Age in Literature, by G. K. Chesterton

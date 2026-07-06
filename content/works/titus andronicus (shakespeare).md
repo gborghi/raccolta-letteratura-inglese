@@ -62,22 +62,6 @@ tags:
 **Settings:** [[Ancient Rome (2)]]
 **Characters:** [[Titus Andronicus]], [[Tamora]], [[Aaron]], [[Lavinia]], [[Saturninus]], [[Bassianus]], [[Marcus Andronicus]], [[Lucius]]
 
-## Chapters / scenes / sections
-
-- [Act_2 · Scene_2](/testi/shakespeare/plays/titus_andronicus/act_2/scene_2)
-- [Act_2 · Scene_3](/testi/shakespeare/plays/titus_andronicus/act_2/scene_3)
-- [Act_2 · Scene_4](/testi/shakespeare/plays/titus_andronicus/act_2/scene_4)
-- [Act_3 · Scene_1](/testi/shakespeare/plays/titus_andronicus/act_3/scene_1)
-- [Act_3 · Scene_2](/testi/shakespeare/plays/titus_andronicus/act_3/scene_2)
-- [Act_4 · Scene_1](/testi/shakespeare/plays/titus_andronicus/act_4/scene_1)
-- [Act_4 · Scene_2](/testi/shakespeare/plays/titus_andronicus/act_4/scene_2)
-- [Act_4 · Scene_3](/testi/shakespeare/plays/titus_andronicus/act_4/scene_3)
-- [Act_4 · Scene_4](/testi/shakespeare/plays/titus_andronicus/act_4/scene_4)
-- [Act_5 · Scene_1](/testi/shakespeare/plays/titus_andronicus/act_5/scene_1)
-- [Act_5 · Scene_2](/testi/shakespeare/plays/titus_andronicus/act_5/scene_2)
-- [Act_5 · Scene_3](/testi/shakespeare/plays/titus_andronicus/act_5/scene_3)
-
-
 ## Testo integrale / Full text
 
 

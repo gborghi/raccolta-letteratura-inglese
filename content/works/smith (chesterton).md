@@ -47,10 +47,6 @@ tags:
 **Forms & Genres:** [[Ode]], [[Satire]]
 **Historical References:** [[Christianity]], [[Islam]], [[Welsh Disestablishment]]
 
-## Chapters / scenes / sections
-
-- [part 01](/testi/chesterton/atomized/smith/part/part_01)
-
 ## Testo integrale / Full text
 
 Antichrist, or the Reunion of Christendom: An Ode  

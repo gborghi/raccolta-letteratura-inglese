@@ -83,18 +83,6 @@ tags:
 **Historical References:** [[Regency Georgian England]], [[French Revolution]], [[Romantic Movement (Sensibility)]], [[Puritanism]]
 **Settings:** [[Italy]], [[Venice]], [[London]]
 
-## Chapters / scenes / sections
-
-- [Chapter 01](/testi/chesterton/atomized/robert_browning/chapter_01)
-- [Chapter 02](/testi/chesterton/atomized/robert_browning/chapter_02)
-- [Chapter 03](/testi/chesterton/atomized/robert_browning/chapter_03)
-- [Chapter 04](/testi/chesterton/atomized/robert_browning/chapter_04)
-- [Chapter 05](/testi/chesterton/atomized/robert_browning/chapter_05)
-- [Chapter 06](/testi/chesterton/atomized/robert_browning/chapter_06)
-- [Chapter 07](/testi/chesterton/atomized/robert_browning/chapter_07)
-- [Chapter 08](/testi/chesterton/atomized/robert_browning/chapter_08)
-- [Chapter 09 Interpretations of Poetry and](/testi/chesterton/atomized/robert_browning/chapter_09_interpretations_of_poetry_and)
-
 ## Testo integrale / Full text
 
 The Project Gutenberg EBook of Robert Browning, by G. K. Chesterton

@@ -97,29 +97,6 @@ tags:
 **Historical References:** [[Medieval England]], [[Catholic Church]], [[Arthurian Legend]], [[Crusades]], [[French Revolution]], [[Industrial Revolution]]
 **Characters:** [[Don Quixote]], [[Michael Herne]], [[John Braintree]], [[Douglas Murrel]], [[Olive Ashley]], [[Rosamund Severne]], [[Julian Archer]], [[Lord Seawood]], [[Lord Eden]]
 
-## Chapters / scenes / sections
-
-- [Chapter 01](/testi/chesterton/atomized/don_quixote/chapter_01)
-- [Chapter 02](/testi/chesterton/atomized/don_quixote/chapter_02)
-- [Chapter 03](/testi/chesterton/atomized/don_quixote/chapter_03)
-- [Chapter 04](/testi/chesterton/atomized/don_quixote/chapter_04)
-- [Chapter 05](/testi/chesterton/atomized/don_quixote/chapter_05)
-- [Chapter 06](/testi/chesterton/atomized/don_quixote/chapter_06)
-- [Chapter 07](/testi/chesterton/atomized/don_quixote/chapter_07)
-- [Chapter 08](/testi/chesterton/atomized/don_quixote/chapter_08)
-- [Chapter 09](/testi/chesterton/atomized/don_quixote/chapter_09)
-- [Chapter 10](/testi/chesterton/atomized/don_quixote/chapter_10)
-- [Chapter 11](/testi/chesterton/atomized/don_quixote/chapter_11)
-- [Chapter 12](/testi/chesterton/atomized/don_quixote/chapter_12)
-- [Chapter 13](/testi/chesterton/atomized/don_quixote/chapter_13)
-- [Chapter 14](/testi/chesterton/atomized/don_quixote/chapter_14)
-- [Chapter 15](/testi/chesterton/atomized/don_quixote/chapter_15)
-- [Chapter 16](/testi/chesterton/atomized/don_quixote/chapter_16)
-- [Chapter 17](/testi/chesterton/atomized/don_quixote/chapter_17)
-- [Chapter 18](/testi/chesterton/atomized/don_quixote/chapter_18)
-- [Chapter 19](/testi/chesterton/atomized/don_quixote/chapter_19)
-- [Chapter 20](/testi/chesterton/atomized/don_quixote/chapter_20)
-
 ## Testo integrale / Full text
 
 THE RETURN OF DON QUIXOTE

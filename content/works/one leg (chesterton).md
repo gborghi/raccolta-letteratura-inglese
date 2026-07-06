@@ -47,11 +47,6 @@ tags:
 **Themes & Concepts:** [[Wonder and Gratitude]], [[Paradox]], [[Joy]], [[Humility]], [[Solitude]], [[Renunciation]], [[Body]]
 **Forms & Genres:** [[Essay]], [[Aphorism]]
 
-## Chapters / scenes / sections
-
-- [part 01](/testi/chesterton/atomized/one_leg/part/part_01)
-- [part 02](/testi/chesterton/atomized/one_leg/part/part_02)
-
 ## Testo integrale / Full text
 
 The Advantages of having One Leg

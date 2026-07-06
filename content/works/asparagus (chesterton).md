@@ -44,11 +44,6 @@ tags:
 **Forms & Genres:** [[Essay]], [[Satire]]
 **Historical References:** [[French Revolution]], [[Tennyson]]
 
-## Chapters / scenes / sections
-
-- [part 01](/testi/chesterton/atomized/asparagus/part/part_01)
-- [part 02](/testi/chesterton/atomized/asparagus/part/part_02)
-
 ## Testo integrale / Full text
 
 Asparagus

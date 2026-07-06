@@ -48,10 +48,6 @@ tags:
 **Forms & Genres:** [[Ballad Ballade]], [[Satire]]
 **Historical References:** [[Classical Antiquity]]
 
-## Chapters / scenes / sections
-
-- [part 01](/testi/chesterton/atomized/ascetic/part/part_01)
-
 ## Testo integrale / Full text
 
 THE SONG OF THE STRANGE ASCETIC  

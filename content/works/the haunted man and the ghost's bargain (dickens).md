@@ -68,13 +68,6 @@ tags:
 **Settings:** [[London]]
 **Characters:** [[Mr Redlaw]], [[Milly Swidger]], [[William Swidger]], [[Philip Swidger]], [[Tetterbys]], [[Phantom]]
 
-## Chapters / scenes / sections
-
-- [Chapter 01](/testi/dickens/atomized/the_haunted_man_and_the_ghosts_bargain/chapter_01)
-- [Chapter 02](/testi/dickens/atomized/the_haunted_man_and_the_ghosts_bargain/chapter_02)
-- [Chapter 03](/testi/dickens/atomized/the_haunted_man_and_the_ghosts_bargain/chapter_03)
-
-
 ## Testo integrale / Full text
 
 THE HAUNTED MAN AND THE GHOST’S BARGAIN

@@ -46,10 +46,6 @@ tags:
 **Themes & Concepts:** [[Satire of Society]], [[Martyrdom]], [[Deception]], [[Power of Language]], [[Money and Avarice]]
 **Forms & Genres:** [[Epigram]], [[Satire]]
 
-## Chapters / scenes / sections
-
-- [part 01](/testi/chesterton/atomized/rotarians/part/part_01)
-
 ## Testo integrale / Full text
 
 Rotarians - (1927)  

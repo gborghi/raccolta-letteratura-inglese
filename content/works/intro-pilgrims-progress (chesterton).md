@@ -65,12 +65,6 @@ tags:
 **Forms & Genres:** [[Literary Criticism]], [[Allegory]], [[Biography]], [[Epic]], [[Essay]]
 **Historical References:** [[Puritanism]], [[Christianity]], [[Bible]], [[Renaissance]], [[French Revolution]], [[English Civil War]]
 
-## Chapters / scenes / sections
-
-- [part 01](/testi/chesterton/atomized/intro-pilgrims-progress/part/part_01)
-- [part 02](/testi/chesterton/atomized/intro-pilgrims-progress/part/part_02)
-- [part 03](/testi/chesterton/atomized/intro-pilgrims-progress/part/part_03)
-
 ## Testo integrale / Full text
 
 Introduction to John Bunyan's "THE PILGRIM'S PROGRESS",

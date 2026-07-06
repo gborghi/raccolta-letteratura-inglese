@@ -62,11 +62,6 @@ tags:
 **Forms & Genres:** [[Essay]], [[Allegory]], [[Parable]]
 **Historical References:** [[Christianity]], [[Ancient Greece]], [[Medieval England]]
 
-## Chapters / scenes / sections
-
-- [part 01](/testi/chesterton/atomized/gargoyles/part/part_01)
-- [part 02](/testi/chesterton/atomized/gargoyles/part/part_02)
-
 ## Testo integrale / Full text
 
 G.K. Chesterton

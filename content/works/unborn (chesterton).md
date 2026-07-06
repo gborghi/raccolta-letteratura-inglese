@@ -47,10 +47,6 @@ tags:
 **Themes & Concepts:** [[Wonder and Gratitude]], [[Innocence and Experience]], [[Maturation and Growth]], [[Desire and Longing]], [[Imagination]], [[Imprisonment]]
 **Forms & Genres:** [[Lyric]], [[Dramatic Monologue]]
 
-## Chapters / scenes / sections
-
-- [part 01](/testi/chesterton/atomized/unborn/part/part_01)
-
 ## Testo integrale / Full text
 
 "By the Babe Unborn"  

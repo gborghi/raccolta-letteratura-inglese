@@ -45,11 +45,6 @@ tags:
 **Themes & Concepts:** [[Faith]], [[Faith and Doubt]], [[Doubt]], [[Critique of Progress]], [[Paradox]], [[Deception]], [[Fanaticism]]
 **Forms & Genres:** [[Essay]], [[Apologetics]]
 
-## Chapters / scenes / sections
-
-- [part 01](/testi/chesterton/atomized/skeptic/part/part_01)
-- [part 02](/testi/chesterton/atomized/skeptic/part/part_02)
-
 ## Testo integrale / Full text
 
 Skepticism and Spiritualism

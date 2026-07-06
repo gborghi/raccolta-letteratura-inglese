@@ -43,10 +43,6 @@ tags:
 **Themes & Concepts:** [[Truth]], [[Doubt]], [[Faith]], [[Fate and Free Will]], [[Education]], [[Perception and Consciousness]], [[Appearance vs Reality]], [[Self]], [[Critique of Progress]], [[Common Man]]
 **Forms & Genres:** [[Essay]], [[Apologetics]]
 
-## Chapters / scenes / sections
-
-- [part 01](/testi/chesterton/atomized/philosophy/part/part_01)
-
 ## Testo integrale / Full text
 
 Philosophy for the Schoolroom

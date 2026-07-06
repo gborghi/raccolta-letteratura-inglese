@@ -143,44 +143,6 @@ tags:
 **Themes & Concepts:** [[Paradox]], [[Wonder and Gratitude]], [[Satire of Society]], [[Critique of Progress]], [[Faith]], [[Artist and Society]], [[Joy]], [[Nationalism and Patriotism]], [[Democracy]], [[Marriage and Fidelity]], [[Ratiocination Detection]], [[Distributism]], [[Common Man]], [[Conscience]], [[War and its Cost]], [[Class Conflict]], [[Identity]], [[Metamorphosis Transformation]], [[Grotesque]], [[Supernatural (2)]]
 **Forms & Genres:** [[Essay]], [[Satire]], [[Aphorism]], [[Literary Criticism]]
 
-## Chapters / scenes / sections
-
-- [Story 01 On Seriousness](/testi/chesterton/atomized/the_uses_of_diversity/story_01_on_seriousness)
-- [Story 02 Lamp Posts](/testi/chesterton/atomized/the_uses_of_diversity/story_02_lamp_posts)
-- [Story 03 The Spirits](/testi/chesterton/atomized/the_uses_of_diversity/story_03_the_spirits)
-- [Story 04 Tennyson](/testi/chesterton/atomized/the_uses_of_diversity/story_04_tennyson)
-- [Story 05 The Domesticity of Detectives](/testi/chesterton/atomized/the_uses_of_diversity/story_05_the_domesticity_of_detectives)
-- [Story 06 George Meredith](/testi/chesterton/atomized/the_uses_of_diversity/story_06_george_meredith)
-- [Story 07 The Irishman](/testi/chesterton/atomized/the_uses_of_diversity/story_07_the_irishman)
-- [Story 08 Ireland and the Domestic Drama](/testi/chesterton/atomized/the_uses_of_diversity/story_08_ireland_and_the_domestic_drama)
-- [Story 09 The Japanese](/testi/chesterton/atomized/the_uses_of_diversity/story_09_the_japanese)
-- [Story 10 Christian Science](/testi/chesterton/atomized/the_uses_of_diversity/story_10_christian_science)
-- [Story 11 The Lawlessness of Lawyers](/testi/chesterton/atomized/the_uses_of_diversity/story_11_the_lawlessness_of_lawyers)
-- [Story 12 Our Latin Relations](/testi/chesterton/atomized/the_uses_of_diversity/story_12_our_latin_relations)
-- [Story 13 On Pigs as Pets](/testi/chesterton/atomized/the_uses_of_diversity/story_13_on_pigs_as_pets)
-- [Story 14 The Romance of Rostand](/testi/chesterton/atomized/the_uses_of_diversity/story_14_the_romance_of_rostand)
-- [Story 15 Wishes](/testi/chesterton/atomized/the_uses_of_diversity/story_15_wishes)
-- [Story 16 The Futurists](/testi/chesterton/atomized/the_uses_of_diversity/story_16_the_futurists)
-- [Story 17 The Evolution of Emma](/testi/chesterton/atomized/the_uses_of_diversity/story_17_the_evolution_of_emma)
-- [Story 18 The Pseudo Scientific Books](/testi/chesterton/atomized/the_uses_of_diversity/story_18_the_pseudo_scientific_books)
-- [Story 19 The Humour of King Herod](/testi/chesterton/atomized/the_uses_of_diversity/story_19_the_humour_of_king_herod)
-- [Story 20 The Silver Goblets](/testi/chesterton/atomized/the_uses_of_diversity/story_20_the_silver_goblets)
-- [Story 21 The Duty of the Historian](/testi/chesterton/atomized/the_uses_of_diversity/story_21_the_duty_of_the_historian)
-- Story 22 Questions of Divorce
-- [Story 23 Mormonism](/testi/chesterton/atomized/the_uses_of_diversity/story_23_mormonism)
-- [Story 24 Pageants and Dress](/testi/chesterton/atomized/the_uses_of_diversity/story_24_pageants_and_dress)
-- [Story 25 On Stage Costume](/testi/chesterton/atomized/the_uses_of_diversity/story_25_on_stage_costume)
-- [Story 26 The Yule Log and the Democrat](/testi/chesterton/atomized/the_uses_of_diversity/story_26_the_yule_log_and_the_democrat)
-- [Story 27 More Thoughts on Christmas](/testi/chesterton/atomized/the_uses_of_diversity/story_27_more_thoughts_on_christmas)
-- [Story 28 Dickens Again](/testi/chesterton/atomized/the_uses_of_diversity/story_28_dickens_again)
-- [Story 29 Taffy](/testi/chesterton/atomized/the_uses_of_diversity/story_29_taffy)
-- [Story 30 Ego et Shavius Meus](/testi/chesterton/atomized/the_uses_of_diversity/story_30_ego_et_shavius_meus)
-- [Story 31 The Plan for a New Universe](/testi/chesterton/atomized/the_uses_of_diversity/story_31_the_plan_for_a_new_universe)
-- [Story 32 George Wyndham](/testi/chesterton/atomized/the_uses_of_diversity/story_32_george_wyndham)
-- [Story 33 Stupidities](/testi/chesterton/atomized/the_uses_of_diversity/story_33_stupidities)
-- [Story 34 On Historical Novels](/testi/chesterton/atomized/the_uses_of_diversity/story_34_on_historical_novels)
-- [Story 35 On Monsters](/testi/chesterton/atomized/the_uses_of_diversity/story_35_on_monsters)
-
 ## Testo integrale / Full text
 
 The Uses of Diversity

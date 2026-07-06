@@ -56,11 +56,6 @@ tags:
 **Themes & Concepts:** [[Imagination]], [[Innocence and Experience]], [[Maturation and Growth]], [[Satire of Society]], [[Critique of Progress]], [[Education]], [[Literary Criticism (2)]], [[Paradox]]
 **Forms & Genres:** [[Essay]], [[Satire]], [[Literary Criticism]]
 
-## Chapters / scenes / sections
-
-- [part 01](/testi/chesterton/atomized/child_psychology/part/part_01)
-- [part 02](/testi/chesterton/atomized/child_psychology/part/part_02)
-
 ## Testo integrale / Full text
 
 Child Psychology and Nonsense

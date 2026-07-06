@@ -52,10 +52,6 @@ tags:
 **Forms & Genres:** [[Lyric]], [[Apologetics]]
 **Historical References:** [[Bible]]
 
-## Chapters / scenes / sections
-
-- [part 01](/testi/chesterton/atomized/the_modern_manichee/part/part_01)
-
 ## Testo integrale / Full text
 
 The Modern Manichee  

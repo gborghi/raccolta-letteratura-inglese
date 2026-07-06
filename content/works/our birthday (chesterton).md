@@ -41,11 +41,6 @@ tags:
 **Forms & Genres:** [[Essay]]
 **Historical References:** [[Bible]]
 
-## Chapters / scenes / sections
-
-- [part 01](/testi/chesterton/atomized/our_birthday/part/part_01)
-- [part 02](/testi/chesterton/atomized/our_birthday/part/part_02)
-
 ## Testo integrale / Full text
 
 Our Birthday

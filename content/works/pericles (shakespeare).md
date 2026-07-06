@@ -73,32 +73,6 @@ tags:
 **Settings:** [[Sea (2)]]
 **Characters:** [[Pericles]], [[Marina]], [[Thaisa]], [[Gower]], [[Cleon]], [[Dionyza]], [[Simonides]], [[Antiochus]]
 
-## Chapters / scenes / sections
-
-- [Scenes · Scene_1](/testi/shakespeare/plays/pericles/scenes/scene_1)
-- [Scenes · Scene_10](/testi/shakespeare/plays/pericles/scenes/scene_10)
-- [Scenes · Scene_11](/testi/shakespeare/plays/pericles/scenes/scene_11)
-- [Scenes · Scene_12](/testi/shakespeare/plays/pericles/scenes/scene_12)
-- [Scenes · Scene_13](/testi/shakespeare/plays/pericles/scenes/scene_13)
-- [Scenes · Scene_14](/testi/shakespeare/plays/pericles/scenes/scene_14)
-- [Scenes · Scene_15](/testi/shakespeare/plays/pericles/scenes/scene_15)
-- [Scenes · Scene_16](/testi/shakespeare/plays/pericles/scenes/scene_16)
-- [Scenes · Scene_17](/testi/shakespeare/plays/pericles/scenes/scene_17)
-- [Scenes · Scene_18](/testi/shakespeare/plays/pericles/scenes/scene_18)
-- [Scenes · Scene_19](/testi/shakespeare/plays/pericles/scenes/scene_19)
-- [Scenes · Scene_2](/testi/shakespeare/plays/pericles/scenes/scene_2)
-- [Scenes · Scene_20](/testi/shakespeare/plays/pericles/scenes/scene_20)
-- [Scenes · Scene_21](/testi/shakespeare/plays/pericles/scenes/scene_21)
-- [Scenes · Scene_22](/testi/shakespeare/plays/pericles/scenes/scene_22)
-- [Scenes · Scene_3](/testi/shakespeare/plays/pericles/scenes/scene_3)
-- [Scenes · Scene_4](/testi/shakespeare/plays/pericles/scenes/scene_4)
-- [Scenes · Scene_5](/testi/shakespeare/plays/pericles/scenes/scene_5)
-- [Scenes · Scene_6](/testi/shakespeare/plays/pericles/scenes/scene_6)
-- [Scenes · Scene_7](/testi/shakespeare/plays/pericles/scenes/scene_7)
-- [Scenes · Scene_8](/testi/shakespeare/plays/pericles/scenes/scene_8)
-- [Scenes · Scene_9](/testi/shakespeare/plays/pericles/scenes/scene_9)
-
-
 ## Testo integrale / Full text
 
 

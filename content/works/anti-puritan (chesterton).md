@@ -44,10 +44,6 @@ tags:
 **Forms & Genres:** [[Ballad Ballade]], [[Satire]]
 **Historical References:** [[Puritanism]]
 
-## Chapters / scenes / sections
-
-- [part 01](/testi/chesterton/atomized/anti-puritan/part/part_01)
-
 ## Testo integrale / Full text
 
 A Ballade Of An Anti-puritan  

@@ -53,11 +53,6 @@ tags:
 **Themes & Concepts:** [[Imagination]], [[Wonder and Gratitude]], [[Maturation and Growth]], [[Critique of Progress]], [[Distributism]], [[Common Man]], [[Paradox]]
 **Forms & Genres:** [[Essay]], [[Satire]], [[Parody]]
 
-## Chapters / scenes / sections
-
-- [part 01](/testi/chesterton/atomized/christmas-games/part/part_01)
-- [part 02](/testi/chesterton/atomized/christmas-games/part/part_02)
-
 ## Testo integrale / Full text
 
 Christmas and the First Games

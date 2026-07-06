@@ -99,19 +99,6 @@ tags:
 **Forms & Genres:** [[Biography]], [[Apologetics]], [[Essay]]
 **Historical References:** [[Christianity]], [[Catholic Church]], [[Crusades]], [[Renaissance]], [[Dante]], [[Islam and the East]], [[Spanish Inquisition]]
 
-## Chapters / scenes / sections
-
-- [Chapter 01](/testi/chesterton/atomized/st_francis/chapter_01)
-- [Chapter 02](/testi/chesterton/atomized/st_francis/chapter_02)
-- [Chapter 03](/testi/chesterton/atomized/st_francis/chapter_03)
-- [Chapter 04](/testi/chesterton/atomized/st_francis/chapter_04)
-- [Chapter 05](/testi/chesterton/atomized/st_francis/chapter_05)
-- [Chapter 06](/testi/chesterton/atomized/st_francis/chapter_06)
-- [Chapter 07](/testi/chesterton/atomized/st_francis/chapter_07)
-- [Chapter 08](/testi/chesterton/atomized/st_francis/chapter_08)
-- [Chapter 09](/testi/chesterton/atomized/st_francis/chapter_09)
-- [Chapter 10](/testi/chesterton/atomized/st_francis/chapter_10)
-
 ## Testo integrale / Full text
 
 CHAPTER I

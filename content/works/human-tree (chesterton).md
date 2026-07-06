@@ -51,10 +51,6 @@ tags:
 **Forms & Genres:** [[Lyric]]
 **Settings:** [[Rural England]]
 
-## Chapters / scenes / sections
-
-- [part 01](/testi/chesterton/atomized/human-tree/part/part_01)
-
 ## Testo integrale / Full text
 
 The Human Tree  

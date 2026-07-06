@@ -52,10 +52,6 @@ tags:
 **Historical References:** [[Orient Arabia]], [[Islam and the East]]
 **Settings:** [[Orient]], [[Desert]]
 
-## Chapters / scenes / sections
-
-- [part 01](/testi/chesterton/atomized/abou_ben_adhem/part/part_01)
-
 ## Testo integrale / Full text
 
 THE PHILANTHROPIST  

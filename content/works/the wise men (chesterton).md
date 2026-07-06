@@ -55,10 +55,6 @@ tags:
 **Historical References:** [[Bible]], [[Christianity]], [[Greek Mythology]]
 **Characters:** [[Christ]], [[Magi]]
 
-## Chapters / scenes / sections
-
-- [part 01](/testi/chesterton/atomized/the_wise_men/part/part_01)
-
 ## Testo integrale / Full text
 
 THE WISE MEN  

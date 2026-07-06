@@ -56,10 +56,6 @@ tags:
 **Forms & Genres:** [[Satire]], [[Ballad Ballade]], [[Comic Verse Song]], [[Mock Epic]]
 **Historical References:** [[Catholic Church]], [[Christianity]], [[Islam]], [[Dante]], [[Ancient Rome]]
 
-## Chapters / scenes / sections
-
-- [part 01](/testi/chesterton/atomized/jealousy/part/part_01)
-
 ## Testo integrale / Full text
 
 JEALOUSY  

@@ -42,10 +42,6 @@ tags:
 **Themes & Concepts:** [[Mortality]], [[Joy]], [[Wonder and Gratitude]], [[Satire of Society]], [[Despair]], [[Suicide]]
 **Forms & Genres:** [[Ballad Ballade]], [[Lyric]], [[Comic Verse Song]]
 
-## Chapters / scenes / sections
-
-- [part 01](/testi/chesterton/atomized/suicide/part/part_01)
-
 ## Testo integrale / Full text
 
 A Ballade of Suicide  

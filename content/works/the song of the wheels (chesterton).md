@@ -48,10 +48,6 @@ tags:
 **Themes & Concepts:** [[Class Conflict]], [[Anti-Industrialism]], [[Social Injustice]], [[Poverty]], [[Power and Corruption]], [[Labor and Work]], [[Greed and Money]]
 **Forms & Genres:** [[Ballad Ballade]]
 
-## Chapters / scenes / sections
-
-- [part 01](/testi/chesterton/atomized/the_song_of_the_wheels/part/part_01)
-
 ## Testo integrale / Full text
 
 The Song Of The Wheels  

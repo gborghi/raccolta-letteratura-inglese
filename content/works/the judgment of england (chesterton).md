@@ -45,10 +45,6 @@ tags:
 **Forms & Genres:** [[Epigram]], [[Lyric]], [[Satire]]
 **Historical References:** [[Industrial Revolution]], [[Oliver Goldsmith]]
 
-## Chapters / scenes / sections
-
-- [part 01](/testi/chesterton/atomized/the_judgment_of_england/part/part_01)
-
 ## Testo integrale / Full text
 
 The Judgment Of England  

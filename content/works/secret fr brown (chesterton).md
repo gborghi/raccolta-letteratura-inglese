@@ -90,19 +90,6 @@ tags:
 **Forms & Genres:** [[Detective Fiction]], [[Short Story]]
 **Characters:** [[Father Brown]], [[Sherlock Holmes Homage]], [[Flambeau]], [[Grandison Chace]], [[Michael Moonshine]], [[John Bankes]], [[Sir Arthur Travers]], [[Mrs. Mandeville]], [[Marquis of Marne]], [[Hugo Romaine]], [[James Hardcastle]]
 
-## Chapters / scenes / sections
-
-- Story 01 The Secret Of Father Brown
-- Story 02 I The Mirror Of The Magistrate
-- Story 03 Ii The Man With Two Beards
-- Story 04 Iii The Song Of The Flying Fish
-- Story 05 Iv The Actor And The Alibi
-- Story 06 V The Vanishing Of Vaudrey
-- Story 07 Vi The Worst Crime In The World
-- Story 08 Vii The Red Moon Of Meru
-- Story 09 Viii The Chief Mourner Of Marne
-- Story 10 The Secret Of Flambeau
-
 ## Testo integrale / Full text
 
 Title:      The Secret of Father Brown

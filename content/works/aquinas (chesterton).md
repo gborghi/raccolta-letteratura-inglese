@@ -102,16 +102,6 @@ tags:
 **Forms & Genres:** [[Biography]], [[Apologetics]], [[Essay]]
 **Historical References:** [[Christianity]], [[Catholic Church]], [[Reformation]], [[Classical Antiquity]], [[Medieval England]], [[Islam]], [[Inquisition]], [[Eastern Religion Comparative Religion]], [[Crusades]], [[Renaissance]]
 
-## Chapters / scenes / sections
-
-- [Chapter 01](/testi/chesterton/atomized/aquinas/chapter_01)
-- [Chapter 02](/testi/chesterton/atomized/aquinas/chapter_02)
-- [Chapter 03](/testi/chesterton/atomized/aquinas/chapter_03)
-- [Chapter 04](/testi/chesterton/atomized/aquinas/chapter_04)
-- [Chapter 05](/testi/chesterton/atomized/aquinas/chapter_05)
-- [Chapter 06](/testi/chesterton/atomized/aquinas/chapter_06)
-- [Chapter 07](/testi/chesterton/atomized/aquinas/chapter_07)
-
 ## Testo integrale / Full text
 
 St. Thomas Aquinas

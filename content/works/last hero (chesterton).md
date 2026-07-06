@@ -53,10 +53,6 @@ tags:
 **Themes & Concepts:** [[Heroism]], [[Mortality]], [[Joy]], [[Romantic Love]], [[War and its Cost]], [[Paradox]], [[Death and Love]]
 **Forms & Genres:** [[Ballad Ballade]], [[Narrative Poem]], [[Dramatic Monologue]]
 
-## Chapters / scenes / sections
-
-- [part 01](/testi/chesterton/atomized/last_hero/part/part_01)
-
 ## Testo integrale / Full text
 
 The Last Hero  

@@ -41,11 +41,6 @@ tags:
 **Themes & Concepts:** [[Deception]], [[Truth]], [[Satire of Society]], [[Marriage and Fidelity]], [[Power of Language]], [[Crime and Punishment]], [[Critique of Progress]]
 **Forms & Genres:** [[Essay]], [[Satire]]
 
-## Chapters / scenes / sections
-
-- [part 01](/testi/chesterton/atomized/on_evil_euphemisms/part/part_01)
-- [part 02](/testi/chesterton/atomized/on_evil_euphemisms/part/part_02)
-
 ## Testo integrale / Full text
 
 ON EVIL EUPHEMISMS

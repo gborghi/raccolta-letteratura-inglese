@@ -102,49 +102,6 @@ tags:
 **Forms & Genres:** [[Essay]], [[Literary Criticism]], [[Heroic Couplet]]
 **Historical References:** [[Medieval England]], [[Arthurian Legend]], [[Christianity]], [[Regency Georgian England]], [[Napoleonic Wars the Navy]], [[Victorian England]]
 
-## Chapters / scenes / sections
-
-- [Story 01 The Glass Walking Stick](/testi/chesterton/atomized/the_glass_walking_stick/story_01_the_glass_walking_stick)
-- [Story 02 History In Stone](/testi/chesterton/atomized/the_glass_walking_stick/story_02_history_in_stone)
-- Story 03 The Old Nurse
-- Story 04 Playing With An Idea
-- Story 05 The Walking Paradox
-- Story 06 The Colour Of Spain
-- Story 07 The Tradition Of Toledo
-- Story 08 Tom Jones And The Escorial
-- Story 09 Poetry In Action
-- Story 10 The Romance Of History
-- Story 11 The Heraldic Lion
-- Story 12 The Court Of Camelot
-- Story 13 Wolfe And The Midshipman
-- Story 14 About Christianity
-- Story 15 St George For England
-- Story 16 The National Anthem
-- Story 17 King George Iv
-- Story 18 King Edward Vii
-- Story 19 King George V
-- Story 20 On Lying In State
-- Story 21 The Alphabet Of Giants
-- Story 22 Baroque And Gothic Architecture
-- Story 23 Robert Bruce And His Age
-- Story 24 What Might Have Been
-- Story 25 The Age Of Reason
-- Story 26 The Victorians
-- Story 27 The National Spirit
-- Story 28 The Rights Of Ritual
-- Story 29 The Inside Of Life
-- Story 30 Tricks Of Memory
-- Story 31 The Code Napoleon
-- Story 32 Cyrano And Chantecler
-- Story 33 Passing Through The Customs
-- Story 34 His Sigh Is A Hullaballoo
-- Story 35 The Narrowness Of Novelty
-- Story 36 The Merits Of Shakespeare S Plots
-- Story 37 A Plea For The Heroic Couplet
-- Story 38 To Praise Exalt Establish And Defend
-- Story 39 On The True Artist
-- Story 40 On The Essay
-
 ## Testo integrale / Full text
 
 The Glass Walking Stick

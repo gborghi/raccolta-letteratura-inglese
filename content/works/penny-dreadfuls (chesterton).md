@@ -54,11 +54,6 @@ tags:
 **Themes & Concepts:** [[Common Man]], [[Heroism]], [[Imagination]], [[Satire of Society]], [[Artist and Society]], [[Class Conflict]], [[Crime and Punishment]], [[Truth]]
 **Forms & Genres:** [[Essay]], [[Literary Criticism]]
 
-## Chapters / scenes / sections
-
-- [part 01](/testi/chesterton/atomized/penny-dreadfuls/part/part_01)
-- [part 02](/testi/chesterton/atomized/penny-dreadfuls/part/part_02)
-
 ## Testo integrale / Full text
 
 A DEFENCE OF PENNY DREADFULS

@@ -126,56 +126,6 @@ tags:
 **Historical References:** [[Regency Georgian England]], [[First World War]], [[French Revolution]], [[Puritanism]], [[Medieval England]], [[Napoleonic Wars the Navy]], [[Napoleon]], [[William Penn]], [[Ruskin]], [[Shelley]], [[Jane Austen]]
 **Settings:** [[London]], [[New York]], [[Paris]], [[Rural England]]
 
-## Chapters / scenes / sections
-
-- [Story 01 IN GENERAL](/testi/chesterton/atomized/wild_ducks/story_01_in_general)
-- Story 02 A Sermon on Cheapness
-- Story 03 On Manners
-- Story 04 For Persons of the Name of Smith
-- Story 05 The True Vanity of Vanities
-- Story 06 Written in the Sand
-- Story 07 A Case of Comrades
-- Story 08 Something
-- Story 09 Asparagus
-- Story 10 The English Spirit and the Flea
-- Story 11 The Hobby and the Head Waiter
-- Story 12 In Praise of Pie
-- Story 13 Culture versus Civilisation
-- Story 14 The Winter Feast
-- Story 15 They Tell a Story
-- Story 16 HERE AND THERE
-- Story 17 Walking Tours
-- Story 18 The Blindness of the Sightseer
-- Story 19 The Aesthetes in the Kitchen Garden
-- Story 20 The Need of Personalities in Politics
-- Story 21 The Largest Window in the World
-- Story 22 The Apostle and the Wild Ducks
-- Story 23 Travellers Joys
-- Story 24 Understanding France
-- Story 25 Salute to New York
-- Story 26 The British Beech
-- Story 27 Public Monuments
-- Story 28 THE MAKING OF HISTORY
-- Story 29 Statues
-- Story 30 A Theory of Tyrants
-- Story 31 The Return of Pageantry
-- Story 32 Rational History
-- Story 33 The Unknown Warrior
-- Story 34 William Penn and his Royalist Friends
-- Story 35 ON LITERATURE
-- Story 36 Ruskin The Humorist
-- Story 37 Literature of Information
-- Story 38 Eulogy of Robin Hood
-- Story 39 A Plea for Hasty Journalism
-- Story 40 The Voice of Shelley
-- Story 41 The Great Translation
-- Story 42 Jane Austen s Juvenilia
-- Story 43 The Countrymen of Mary Webb and Thomas H
-- Story 44 The Words of Strong Poetry
-- Story 45 The Refrain of the Rover
-- Story 46 ON REFLECTION
-- Story 47 What is Right with the World
-
 ## Testo integrale / Full text
 
 G. K. CHESTERTON

@@ -58,10 +58,6 @@ tags:
 **Forms & Genres:** [[Comic Verse Song]], [[Poem Sequence]], [[Satire]], [[Parody]]
 **Historical References:** [[Regency Georgian England]], [[Roman History]], [[Danish Invasions]], [[Crusades]], [[Industrial Revolution]], [[Napoleonic Wars the Navy]]
 
-## Chapters / scenes / sections
-
-- [part 01](/testi/chesterton/atomized/songs_of_education125/part/part_01)
-
 ## Testo integrale / Full text
 
 SONGS OF EDUCATION  

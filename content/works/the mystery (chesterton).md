@@ -46,10 +46,6 @@ tags:
 **Themes & Concepts:** [[Wonder and Gratitude]], [[Sublime]], [[Paradox]], [[Sin and the Fall]], [[Wonder]]
 **Forms & Genres:** [[Lyric]], [[Ode]]
 
-## Chapters / scenes / sections
-
-- [part 01](/testi/chesterton/atomized/the_mystery/part/part_01)
-
 ## Testo integrale / Full text
 
 The Mystery  

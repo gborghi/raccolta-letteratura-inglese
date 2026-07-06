@@ -111,57 +111,6 @@ tags:
 **Settings:** [[Paris]], [[London]]
 **Characters:** [[Sydney Carton]], [[Charles Darnay]], [[Lucie Manette]], [[Doctor Manette]], [[Madame Defarge]], [[Ernest Defarge]], [[Jarvis Lorry]], [[Miss Pross]], [[Jerry Cruncher]], [[Marquis St. Evremonde]]
 
-## Chapters / scenes / sections
-
-- [Chapter 01](/testi/dickens/atomized/a_tale_of_two_cities/chapter_01)
-- [Chapter 02](/testi/dickens/atomized/a_tale_of_two_cities/chapter_02)
-- [Chapter 03](/testi/dickens/atomized/a_tale_of_two_cities/chapter_03)
-- [Chapter 04](/testi/dickens/atomized/a_tale_of_two_cities/chapter_04)
-- [Chapter 05](/testi/dickens/atomized/a_tale_of_two_cities/chapter_05)
-- [Chapter 06](/testi/dickens/atomized/a_tale_of_two_cities/chapter_06)
-- Chapter 07 the Golden Thread
-- [Chapter 08](/testi/dickens/atomized/a_tale_of_two_cities/chapter_08)
-- [Chapter 09](/testi/dickens/atomized/a_tale_of_two_cities/chapter_09)
-- [Chapter 10](/testi/dickens/atomized/a_tale_of_two_cities/chapter_10)
-- [Chapter 11](/testi/dickens/atomized/a_tale_of_two_cities/chapter_11)
-- [Chapter 12](/testi/dickens/atomized/a_tale_of_two_cities/chapter_12)
-- [Chapter 13](/testi/dickens/atomized/a_tale_of_two_cities/chapter_13)
-- [Chapter 14](/testi/dickens/atomized/a_tale_of_two_cities/chapter_14)
-- [Chapter 15](/testi/dickens/atomized/a_tale_of_two_cities/chapter_15)
-- [Chapter 16](/testi/dickens/atomized/a_tale_of_two_cities/chapter_16)
-- [Chapter 17](/testi/dickens/atomized/a_tale_of_two_cities/chapter_17)
-- [Chapter 18](/testi/dickens/atomized/a_tale_of_two_cities/chapter_18)
-- [Chapter 19](/testi/dickens/atomized/a_tale_of_two_cities/chapter_19)
-- [Chapter 20](/testi/dickens/atomized/a_tale_of_two_cities/chapter_20)
-- [Chapter 21](/testi/dickens/atomized/a_tale_of_two_cities/chapter_21)
-- [Chapter 22](/testi/dickens/atomized/a_tale_of_two_cities/chapter_22)
-- [Chapter 23](/testi/dickens/atomized/a_tale_of_two_cities/chapter_23)
-- [Chapter 24](/testi/dickens/atomized/a_tale_of_two_cities/chapter_24)
-- [Chapter 25](/testi/dickens/atomized/a_tale_of_two_cities/chapter_25)
-- [Chapter 26](/testi/dickens/atomized/a_tale_of_two_cities/chapter_26)
-- [Chapter 27](/testi/dickens/atomized/a_tale_of_two_cities/chapter_27)
-- [Chapter 28](/testi/dickens/atomized/a_tale_of_two_cities/chapter_28)
-- [Chapter 29](/testi/dickens/atomized/a_tale_of_two_cities/chapter_29)
-- [Chapter 30](/testi/dickens/atomized/a_tale_of_two_cities/chapter_30)
-- [Chapter 31](/testi/dickens/atomized/a_tale_of_two_cities/chapter_31)
-- Chapter 32 the Track of a Storm
-- [Chapter 33](/testi/dickens/atomized/a_tale_of_two_cities/chapter_33)
-- [Chapter 34](/testi/dickens/atomized/a_tale_of_two_cities/chapter_34)
-- [Chapter 35](/testi/dickens/atomized/a_tale_of_two_cities/chapter_35)
-- [Chapter 36](/testi/dickens/atomized/a_tale_of_two_cities/chapter_36)
-- [Chapter 37](/testi/dickens/atomized/a_tale_of_two_cities/chapter_37)
-- [Chapter 38](/testi/dickens/atomized/a_tale_of_two_cities/chapter_38)
-- [Chapter 39](/testi/dickens/atomized/a_tale_of_two_cities/chapter_39)
-- [Chapter 40](/testi/dickens/atomized/a_tale_of_two_cities/chapter_40)
-- [Chapter 41](/testi/dickens/atomized/a_tale_of_two_cities/chapter_41)
-- [Chapter 42](/testi/dickens/atomized/a_tale_of_two_cities/chapter_42)
-- [Chapter 43](/testi/dickens/atomized/a_tale_of_two_cities/chapter_43)
-- [Chapter 44](/testi/dickens/atomized/a_tale_of_two_cities/chapter_44)
-- [Chapter 45](/testi/dickens/atomized/a_tale_of_two_cities/chapter_45)
-- Chapter 46
-- Chapter 47
-
-
 ## Testo integrale / Full text
 
 A TALE OF TWO CITIES

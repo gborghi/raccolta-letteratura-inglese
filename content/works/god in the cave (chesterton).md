@@ -70,11 +70,6 @@ tags:
 **Settings:** [[Underworld Cave]], [[Orient]], [[Ancient Rome (2)]], [[Ancient Greece (2)]]
 **Characters:** [[Christ]], [[Herod]], [[Magi]], [[Shepherds]]
 
-## Chapters / scenes / sections
-
-- [part 01](/testi/chesterton/atomized/god_in_the_cave/part/part_01)
-- [part 02](/testi/chesterton/atomized/god_in_the_cave/part/part_02)
-
 ## Testo integrale / Full text
 
 The God in the Cave

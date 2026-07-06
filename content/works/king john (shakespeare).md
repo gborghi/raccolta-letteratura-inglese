@@ -62,20 +62,6 @@ tags:
 **Settings:** [[Court]], [[Medieval England (2)]]
 **Characters:** [[King John]], [[Philip the Bastard]], [[Constance]], [[Arthur]], [[King Philip of France]], [[Cardinal Pandulph]], [[Hubert]]
 
-## Chapters / scenes / sections
-
-- [Act_2 · Scene_2](/testi/shakespeare/plays/king_john/act_2/scene_2)
-- [Act_3 · Scene_2](/testi/shakespeare/plays/king_john/act_3/scene_2)
-- [Act_3 · Scene_3](/testi/shakespeare/plays/king_john/act_3/scene_3)
-- [Act_3 · Scene_4](/testi/shakespeare/plays/king_john/act_3/scene_4)
-- [Act_4 · Scene_1](/testi/shakespeare/plays/king_john/act_4/scene_1)
-- [Act_4 · Scene_3](/testi/shakespeare/plays/king_john/act_4/scene_3)
-- [Act_5 · Scene_2](/testi/shakespeare/plays/king_john/act_5/scene_2)
-- [Act_5 · Scene_3](/testi/shakespeare/plays/king_john/act_5/scene_3)
-- [Act_5 · Scene_6](/testi/shakespeare/plays/king_john/act_5/scene_6)
-- [Act_5 · Scene_7](/testi/shakespeare/plays/king_john/act_5/scene_7)
-
-
 ## Testo integrale / Full text
 
 

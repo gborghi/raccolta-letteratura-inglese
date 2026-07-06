@@ -117,53 +117,6 @@ tags:
 **Forms & Genres:** [[Essay]], [[Satire]], [[Literary Criticism]], [[Aphorism]]
 **Historical References:** [[Christianity]], [[Medieval England]], [[Industrial Revolution]], [[Puritanism]], [[Romantic Movement (Sensibility)]], [[Ancient Rome]], [[French Revolution]]
 
-## Chapters / scenes / sections
-
-- [Chapter 01](/testi/chesterton/atomized/all_i_survey/chapter_01)
-- [Chapter 02](/testi/chesterton/atomized/all_i_survey/chapter_02)
-- [Chapter 03](/testi/chesterton/atomized/all_i_survey/chapter_03)
-- [Chapter 04](/testi/chesterton/atomized/all_i_survey/chapter_04)
-- [Chapter 05](/testi/chesterton/atomized/all_i_survey/chapter_05)
-- [Chapter 06](/testi/chesterton/atomized/all_i_survey/chapter_06)
-- [Chapter 07](/testi/chesterton/atomized/all_i_survey/chapter_07)
-- [Chapter 08](/testi/chesterton/atomized/all_i_survey/chapter_08)
-- [Chapter 09](/testi/chesterton/atomized/all_i_survey/chapter_09)
-- [Chapter 10](/testi/chesterton/atomized/all_i_survey/chapter_10)
-- [Chapter 11](/testi/chesterton/atomized/all_i_survey/chapter_11)
-- [Chapter 12](/testi/chesterton/atomized/all_i_survey/chapter_12)
-- [Chapter 13](/testi/chesterton/atomized/all_i_survey/chapter_13)
-- [Chapter 14](/testi/chesterton/atomized/all_i_survey/chapter_14)
-- [Chapter 15](/testi/chesterton/atomized/all_i_survey/chapter_15)
-- [Chapter 16](/testi/chesterton/atomized/all_i_survey/chapter_16)
-- [Chapter 17](/testi/chesterton/atomized/all_i_survey/chapter_17)
-- [Chapter 18](/testi/chesterton/atomized/all_i_survey/chapter_18)
-- [Chapter 19](/testi/chesterton/atomized/all_i_survey/chapter_19)
-- [Chapter 20](/testi/chesterton/atomized/all_i_survey/chapter_20)
-- [Chapter 21](/testi/chesterton/atomized/all_i_survey/chapter_21)
-- [Chapter 22](/testi/chesterton/atomized/all_i_survey/chapter_22)
-- [Chapter 23](/testi/chesterton/atomized/all_i_survey/chapter_23)
-- [Chapter 24](/testi/chesterton/atomized/all_i_survey/chapter_24)
-- [Chapter 25](/testi/chesterton/atomized/all_i_survey/chapter_25)
-- [Chapter 26](/testi/chesterton/atomized/all_i_survey/chapter_26)
-- [Chapter 27](/testi/chesterton/atomized/all_i_survey/chapter_27)
-- [Chapter 28](/testi/chesterton/atomized/all_i_survey/chapter_28)
-- [Chapter 29](/testi/chesterton/atomized/all_i_survey/chapter_29)
-- [Chapter 30](/testi/chesterton/atomized/all_i_survey/chapter_30)
-- [Chapter 31](/testi/chesterton/atomized/all_i_survey/chapter_31)
-- [Chapter 32](/testi/chesterton/atomized/all_i_survey/chapter_32)
-- [Chapter 33](/testi/chesterton/atomized/all_i_survey/chapter_33)
-- [Chapter 34](/testi/chesterton/atomized/all_i_survey/chapter_34)
-- [Chapter 35](/testi/chesterton/atomized/all_i_survey/chapter_35)
-- [Chapter 36](/testi/chesterton/atomized/all_i_survey/chapter_36)
-- [Chapter 37](/testi/chesterton/atomized/all_i_survey/chapter_37)
-- [Chapter 38](/testi/chesterton/atomized/all_i_survey/chapter_38)
-- [Chapter 39](/testi/chesterton/atomized/all_i_survey/chapter_39)
-- [Chapter 40](/testi/chesterton/atomized/all_i_survey/chapter_40)
-- [Chapter 41](/testi/chesterton/atomized/all_i_survey/chapter_41)
-- [Chapter 42](/testi/chesterton/atomized/all_i_survey/chapter_42)
-- [Chapter 43](/testi/chesterton/atomized/all_i_survey/chapter_43)
-- [Chapter 44](/testi/chesterton/atomized/all_i_survey/chapter_44)
-
 ## Testo integrale / Full text
 
 ALL I SURVEY A BOOK OF ESSAYS by G. K. CHESTERTON

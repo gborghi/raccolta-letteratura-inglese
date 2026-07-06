@@ -49,10 +49,6 @@ tags:
 **Forms & Genres:** [[Comic Verse Song]]
 **Historical References:** [[Christianity]]
 
-## Chapters / scenes / sections
-
-- [part 01](/testi/chesterton/atomized/the-englishman/part/part_01)
-
 ## Testo integrale / Full text
 
 The Englishman  

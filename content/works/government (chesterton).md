@@ -43,10 +43,6 @@ tags:
 **Themes & Concepts:** [[Satire of Society]], [[Critique of Progress]], [[Power and Corruption]], [[Identity]], [[Distributism]], [[Freedom and Liberty]], [[Individualism]], [[Reform]]
 **Forms & Genres:** [[Essay]], [[Satire]]
 
-## Chapters / scenes / sections
-
-- [part 01](/testi/chesterton/atomized/government/part/part_01)
-
 ## Testo integrale / Full text
 
 Government and the Rights of Man

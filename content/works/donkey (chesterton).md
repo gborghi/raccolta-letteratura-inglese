@@ -47,10 +47,6 @@ tags:
 **Historical References:** [[Bible]], [[Christianity]]
 **Characters:** [[Christ]]
 
-## Chapters / scenes / sections
-
-- [part 01](/testi/chesterton/atomized/donkey/part/part_01)
-
 ## Testo integrale / Full text
 
 The Donkey  

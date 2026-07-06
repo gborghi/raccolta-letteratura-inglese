@@ -45,10 +45,6 @@ tags:
 **Themes & Concepts:** [[Reform]], [[Paradox]], [[Critique of Progress]], [[Charity]], [[Justice Right and Wrong]]
 **Forms & Genres:** [[Essay]], [[Apologetics]]
 
-## Chapters / scenes / sections
-
-- [part 01](/testi/chesterton/atomized/mending/part/part_01)
-
 ## Testo integrale / Full text
 
 On Mending and Ending Things

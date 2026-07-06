@@ -42,10 +42,6 @@ tags:
 **Themes & Concepts:** [[Joy]], [[Satire of Society]], [[Honour]], [[Critique of Progress]], [[Nationalism and Patriotism]], [[Temperance and Teetotalism]]
 **Forms & Genres:** [[Comic Verse Song]], [[Satire]]
 
-## Chapters / scenes / sections
-
-- [part 01](/testi/chesterton/atomized/right-and-wrong/part/part_01)
-
 ## Testo integrale / Full text
 
 The Song of Right and Wrong  

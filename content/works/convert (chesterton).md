@@ -46,10 +46,6 @@ tags:
 **Historical References:** [[Bible]]
 **Characters:** [[Lazarus the Risen Man]]
 
-## Chapters / scenes / sections
-
-- [part 01](/testi/chesterton/atomized/convert/part/part_01)
-
 ## Testo integrale / Full text
 
 THE CONVERT  

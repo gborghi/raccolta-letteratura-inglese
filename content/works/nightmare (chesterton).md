@@ -64,11 +64,6 @@ tags:
 **Themes & Concepts:** [[Terror and Horror]], [[Imagination]], [[Grotesque]], [[Faith]], [[Madness]], [[Paganism and Classical Revival]]
 **Forms & Genres:** [[Essay]]
 
-## Chapters / scenes / sections
-
-- [part 01](/testi/chesterton/atomized/nightmare/part/part_01)
-- [part 02](/testi/chesterton/atomized/nightmare/part/part_02)
-
 ## Testo integrale / Full text
 
 (Originally appeared in "The Daily News", Oct. 16, 1909,

@@ -59,13 +59,6 @@ tags:
 **Forms & Genres:** [[Essay]], [[Apologetics]]
 **Historical References:** [[Reformation]], [[French Revolution]], [[Romantic Movement (Sensibility)]], [[Christianity]], [[Catholic Church]], [[Renaissance]], [[Spanish Inquisition]], [[Thirty Years' War]], [[Islam]], [[Puritanism]], [[Ancient Rome]]
 
-## Chapters / scenes / sections
-
-- [part 01](/testi/chesterton/atomized/anti_religious_thought/part/part_01)
-- [part 02](/testi/chesterton/atomized/anti_religious_thought/part/part_02)
-- [part 03](/testi/chesterton/atomized/anti_religious_thought/part/part_03)
-- [part 04](/testi/chesterton/atomized/anti_religious_thought/part/part_04)
-
 ## Testo integrale / Full text
 
 Anti-Religious Thought In The Eighteenth Century

@@ -53,11 +53,6 @@ tags:
 **Forms & Genres:** [[Essay]]
 **Settings:** [[Rural England]]
 
-## Chapters / scenes / sections
-
-- [part 01](/testi/chesterton/atomized/chalk/part/part_01)
-- [part 02](/testi/chesterton/atomized/chalk/part/part_02)
-
 ## Testo integrale / Full text
 
 A Piece of Chalk

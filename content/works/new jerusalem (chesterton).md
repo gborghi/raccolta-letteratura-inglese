@@ -103,22 +103,6 @@ tags:
 **Historical References:** [[Christianity]], [[Bible]], [[Crusades]], [[Eastern Religion Comparative Religion]], [[Islam]], [[Orient Arabia]], [[First World War]], [[French Revolution]], [[Ancient Rome]]
 **Settings:** [[Orient]], [[Desert]], [[Egypt]], [[Ancient Rome (2)]], [[Paris]], [[London]]
 
-## Chapters / scenes / sections
-
-- [Chapter 01](/testi/chesterton/atomized/new_jerusalem/chapter_01)
-- [Chapter 02](/testi/chesterton/atomized/new_jerusalem/chapter_02)
-- [Chapter 03](/testi/chesterton/atomized/new_jerusalem/chapter_03)
-- [Chapter 04](/testi/chesterton/atomized/new_jerusalem/chapter_04)
-- [Chapter 05](/testi/chesterton/atomized/new_jerusalem/chapter_05)
-- [Chapter 06](/testi/chesterton/atomized/new_jerusalem/chapter_06)
-- [Chapter 07](/testi/chesterton/atomized/new_jerusalem/chapter_07)
-- [Chapter 08](/testi/chesterton/atomized/new_jerusalem/chapter_08)
-- [Chapter 09](/testi/chesterton/atomized/new_jerusalem/chapter_09)
-- [Chapter 10](/testi/chesterton/atomized/new_jerusalem/chapter_10)
-- [Chapter 11](/testi/chesterton/atomized/new_jerusalem/chapter_11)
-- [Chapter 12](/testi/chesterton/atomized/new_jerusalem/chapter_12)
-- [Chapter 13](/testi/chesterton/atomized/new_jerusalem/chapter_13)
-
 ## Testo integrale / Full text
 
 THE NEW JERUSALEM 

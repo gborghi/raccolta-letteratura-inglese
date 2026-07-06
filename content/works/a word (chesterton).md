@@ -54,10 +54,6 @@ tags:
 **Historical References:** [[Christianity]], [[Bible]], [[Roman History]], [[Crusades]], [[Industrial Revolution]]
 **Characters:** [[Christ]]
 
-## Chapters / scenes / sections
-
-- [part 01](/testi/chesterton/atomized/a_word/part/part_01)
-
 ## Testo integrale / Full text
 
 A Word  

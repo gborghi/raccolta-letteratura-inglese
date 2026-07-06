@@ -52,12 +52,6 @@ tags:
 **Historical References:** [[American Civil War]], [[Puritanism]]
 **Characters:** [[Abraham Lincoln]], [[Ulysses S. Grant]]
 
-## Chapters / scenes / sections
-
-- [part 01](/testi/chesterton/atomized/on_abraham_lincoln/part/part_01)
-- [part 02](/testi/chesterton/atomized/on_abraham_lincoln/part/part_02)
-- [part 03](/testi/chesterton/atomized/on_abraham_lincoln/part/part_03)
-
 ## Testo integrale / Full text
 
 Abraham Lincoln, from Come to Think of It by G.K.Chesterton

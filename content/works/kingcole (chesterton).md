@@ -48,10 +48,6 @@ tags:
 **Themes & Concepts:** [[Joy]], [[Imagination]], [[Mortality]], [[Literary Criticism (2)]]
 **Forms & Genres:** [[Parody]], [[Comic Verse Song]], [[Lyric]], [[Poem Sequence]]
 
-## Chapters / scenes / sections
-
-- [part 01](/testi/chesterton/atomized/kingcole/part/part_01)
-
 ## Testo integrale / Full text
 
 Variations of an Air  

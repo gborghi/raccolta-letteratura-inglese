@@ -72,15 +72,6 @@ tags:
 **Forms & Genres:** [[Apologetics]], [[Essay]]
 **Historical References:** [[Catholic Church]], [[Christianity]], [[Ancient Rome]], [[Reformation]], [[Puritanism]], [[Romantic Movement (Sensibility)]], [[Renaissance]], [[First World War]], [[Dante]], [[John Henry Newman]], [[Pope Leo XIII]]
 
-## Chapters / scenes / sections
-
-- [Chapter 01 INTRODUCTORY A NEW RELIGION](/testi/chesterton/atomized/conversion/chapter_01_introductory_a_new_religion)
-- [Chapter 02 THE OBVIOUS BLUNDERS](/testi/chesterton/atomized/conversion/chapter_02_the_obvious_blunders)
-- [Chapter 03 THE REAL OBSTACLES](/testi/chesterton/atomized/conversion/chapter_03_the_real_obstacles)
-- [Chapter 04 THE WORLD INSIDE OUT](/testi/chesterton/atomized/conversion/chapter_04_the_world_inside_out)
-- [Chapter 05 THE EXCEPTION PROVES THE RULE](/testi/chesterton/atomized/conversion/chapter_05_the_exception_proves_the_rule)
-- [Chapter 06 A NOTE ON PRESENT PROSPECTS](/testi/chesterton/atomized/conversion/chapter_06_a_note_on_present_prospects)
-
 ## Testo integrale / Full text
 
 THE CATHOLIC CHURCH AND CONVERSION

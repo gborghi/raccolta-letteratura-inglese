@@ -128,53 +128,6 @@ tags:
 **Themes & Concepts:** [[Paradox]], [[Satire of Society]], [[Critique of Progress]], [[Artist and Society]], [[Original Sin]], [[Ratiocination Detection]], [[Truth]], [[Fate and Free Will]], [[Democracy]], [[Nationalism and Patriotism]], [[Money and Avarice]], [[Distributism]], [[Kingship and Legitimacy]], [[Honour]], [[Power and Corruption]], [[Vulgarity]]
 **Forms & Genres:** [[Essay]], [[Satire]], [[Literary Criticism]], [[Detective Fiction]], [[Ode]], [[Epigram]]
 
-## Chapters / scenes / sections
-
-- [Story 01 INTRODUCTION](/testi/chesterton/atomized/gkc_come_to_think/story_01_introduction)
-- [Story 02 ON ESSAYS](/testi/chesterton/atomized/gkc_come_to_think/story_02_on_essays)
-- [Story 03 ON WHAT WE WOULD DO WITH TWO MILLION IF](/testi/chesterton/atomized/gkc_come_to_think/story_03_on_what_we_would_do_with_two_million_if)
-- [Story 04 ON BOYS](/testi/chesterton/atomized/gkc_come_to_think/story_04_on_boys)
-- [Story 05 ON LITERARY PARALLELS](/testi/chesterton/atomized/gkc_come_to_think/story_05_on_literary_parallels)
-- [Story 06 ON A CENSORSHIP FOR LITERATURE](/testi/chesterton/atomized/gkc_come_to_think/story_06_on_a_censorship_for_literature)
-- Story 07 ON DETECTIVE STORY WRITERS
-- Story 08 ON THE NEW POETRY
-- Story 09 ON THE CLASSICS
-- Story 10 ON PSYCHO ANALYSIS
-- Story 11 ON EGOISTS AND EGOISTS
-- Story 12 ON MR EPSTEIN
-- Story 13 ON WHO KILLED JOHN KEATS
-- Story 14 ON Ingeland
-- Story 15 ON LONELINESS
-- Story 16 ON THE IMPORTANCE OF WHY WE DO OR DON T
-- Story 17 ON THE OPEN CONSPIRACY
-- Story 18 ON THE CLOSED CONSPIRACY
-- Story 19 ON CURRENT CLAPTRAP
-- Story 20 ON EVIL EUPHEMISMS
-- Story 21 ON ENCYCLOPAEDIAS
-- Story 22 ON PREACHING
-- Story 23 ON THE TIMID THINKERS
-- Story 24 ON THE MYTHOLOGY OF SCIENTISTS
-- Story 25 ON CHANGE
-- Story 26 ON TWILIGHT SLEEP
-- Story 27 ON VULGARITY
-- Story 28 ON A HUMILIATING HERESY
-- Story 29 ON ORIGINAL SIN
-- Story 30 ON THE NEW RELIGION COMING
-- Story 31 ON THE GREAT GOD NAMSE
-- Story 32 ON THE INNOCENCE OF MACAULAY
-- Story 33 ON JANE AUSTEN IN THE GENERAL ELECTION
-- Story 34 ON DICTATORSHIPS
-- Story 35 ON ABOLISHING SUNDAY
-- Story 36 ON PROHIBITION
-- Story 37 ON AMERICA
-- Story 38 ON BIGNESS AND AMERICA
-- Story 39 ON THE AMERICAN REVOLT AGAINST AMERICANI
-- Story 40 ON ABRAHAM LINCOLN
-- Story 41 ON MYSELF ON ABRAHAM LINCOLN
-- Story 42 ON FOCH
-- Story 43 ON DICKENS AND AFTER
-- Story 44 ON THE KING
-
 ## Testo integrale / Full text
 
 COME TO THINK OF IT

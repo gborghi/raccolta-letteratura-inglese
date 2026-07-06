@@ -54,11 +54,6 @@ tags:
 **Historical References:** [[Catholic Church]], [[Puritanism]], [[Polish-Soviet War]]
 **Characters:** [[Don Quixote]], [[Sergius]], [[Bluntzschli]]
 
-## Chapters / scenes / sections
-
-- [part 01](/testi/chesterton/atomized/the_polish_ideal/part/part_01)
-- [part 02](/testi/chesterton/atomized/the_polish_ideal/part/part_02)
-
 ## Testo integrale / Full text
 
 The Illustrated London News, July 2, 1927.

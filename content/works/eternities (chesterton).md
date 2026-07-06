@@ -40,10 +40,6 @@ tags:
 **Forms & Genres:** [[Sonnet]]
 **Historical References:** [[Bible]]
 
-## Chapters / scenes / sections
-
-- [part 01](/testi/chesterton/atomized/eternities/part/part_01)
-
 ## Testo integrale / Full text
 
 Eternities  

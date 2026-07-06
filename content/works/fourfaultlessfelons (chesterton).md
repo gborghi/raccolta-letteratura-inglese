@@ -102,47 +102,6 @@ tags:
 **Themes & Concepts:** [[Paradox]], [[Appearance vs Reality]], [[Ratiocination Detection]], [[Innocence and Experience]], [[Guilt]], [[Justice Right and Wrong]], [[Deception]], [[Self-Sacrifice]], [[Distributism]], [[Class Conflict]], [[Nationalism and Patriotism]], [[Kingship and Legitimacy]], [[Power and Corruption]], [[Eastern Religion and Asceticism]], [[Self-Denial and Renunciation]], [[Money and Avarice]]
 **Forms & Genres:** [[Detective Fiction]], [[Short Story]], [[Satire]]
 
-## Chapters / scenes / sections
-
-- Story 01 UE OF THE PRESSMAN
-- Story 02 PROLOGUE OF THE PRESSMAN
-- Story 03 R ASA LEE PINION of the Chicago Comet ha
-- Story 04 THE MAN WITH THE GREEN UMBRELLA
-- Story 05 THE BOY WHO MADE A SCENE
-- Story 06 THE MAN WHO COULD NOT HATE
-- Story 07 EDIATELY after leaving the little garden
-- Story 08 THE DETECTIVE AND THE PARSON
-- Story 09 T was not until the following evening as
-- Story 10 THE THEORY OF MODERATE MURDER
-- Story 11 OLONEL HAYTER the Chief of the Police wa
-- Story 12 THE THING THAT REALLY HAPPENED
-- Story 13 T is not true that Lord Tallboys wore hi
-- Story 14 THE PROLOGUE OF THE TREE
-- Story 15 R WALTER WINDRUSH the eminent and eccent
-- Story 16 THE MAN WITH THE BLACK BAG
-- Story 17 THE TRESPASSER IN THE GARDEN
-- Story 18 THE DISEASE OF DUODIAPSYCHOSIS
-- Story 19 THE SECRET OF THE TREE
-- Story 20 THE EPILOGUE OF THE GARDEN
-- Story 21 THE NAME OF NADOWAY
-- Story 22 THE BURGLAR AND THE BROOCH
-- Story 23 T was the scare of the burglary that act
-- Story 24 A QUEER REFORMATION
-- Story 25 ENT MILTON could not help wondering a go
-- Story 26 THE PROBLEMS OF DETECTIVE PRICE
-- Story 27 R PETER PRICE the private inquiry agent
-- Story 28 THE THIEF ON TRIAL
-- Story 29 THE CLEANSING OF THE NAME
-- Story 30 THE MENACE OF THE WORD
-- Story 31 T will be best both for the reader and t
-- Story 32 THE PROCESSION OF THE PLOTTERS
-- Story 33 T has already been explained that Pavoni
-- Story 34 THE PRINCESS INTERVENES
-- Story 35 THE UNREASONABLENESS OF WOMAN
-- Story 36 THE TERMS OF A TRAITOR
-- Story 37 THE SPEAKING OF THE WORD
-- Story 38 OLONEL GRIMM of the Pavonian Police was
-
 ## Testo integrale / Full text
 
 A Project Gutenberg of Australia eBook

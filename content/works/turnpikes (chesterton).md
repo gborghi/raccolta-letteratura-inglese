@@ -52,11 +52,6 @@ tags:
 **Forms & Genres:** [[Essay]], [[Satire]], [[Aphorism]]
 **Historical References:** [[Medieval England]], [[Dante]], [[Regency Georgian England]]
 
-## Chapters / scenes / sections
-
-- [part 01](/testi/chesterton/atomized/turnpikes/part/part_01)
-- [part 02](/testi/chesterton/atomized/turnpikes/part/part_02)
-
 ## Testo integrale / Full text
 
 On Turnpikes and Medievalism

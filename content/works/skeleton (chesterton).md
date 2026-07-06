@@ -46,10 +46,6 @@ tags:
 **Forms & Genres:** [[Lyric]], [[Epigram]]
 **Characters:** [[Death Personified]]
 
-## Chapters / scenes / sections
-
-- [part 01](/testi/chesterton/atomized/skeleton/part/part_01)
-
 ## Testo integrale / Full text
 
 The Skeleton  

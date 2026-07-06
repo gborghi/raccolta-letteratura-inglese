@@ -57,13 +57,6 @@ tags:
 **Forms & Genres:** [[Essay]], [[Literary Criticism]]
 **Settings:** [[Rural England]]
 
-## Chapters / scenes / sections
-
-- [part 01](/testi/chesterton/atomized/a_shy_bird/part/part_01)
-- [part 02](/testi/chesterton/atomized/a_shy_bird/part/part_02)
-- [part 03](/testi/chesterton/atomized/a_shy_bird/part/part_03)
-- [part 04](/testi/chesterton/atomized/a_shy_bird/part/part_04)
-
 ## Testo integrale / Full text
 
 A SHY BIRD

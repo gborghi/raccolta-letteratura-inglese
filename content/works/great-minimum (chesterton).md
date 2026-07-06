@@ -45,10 +45,6 @@ tags:
 **Themes & Concepts:** [[Wonder and Gratitude]], [[Joy]], [[Romantic Love]], [[Faith and Doubt]], [[Desire and Longing]], [[Grief and Loss]], [[Mortality]], [[Apocalypse]]
 **Forms & Genres:** [[Lyric]]
 
-## Chapters / scenes / sections
-
-- [part 01](/testi/chesterton/atomized/great-minimum/part/part_01)
-
 ## Testo integrale / Full text
 
 The Great Minimum  

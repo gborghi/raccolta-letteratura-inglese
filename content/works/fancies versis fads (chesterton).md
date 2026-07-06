@@ -102,10 +102,6 @@ tags:
 **Themes & Concepts:** [[Paradox]], [[Satire of Society]], [[Critique of Progress]], [[Artist and Society]], [[Wonder and Gratitude]], [[Anti-Industrialism]], [[Equality in Death]], [[Democracy]], [[Freedom and Liberty]], [[Crime and Punishment]], [[Slavery]], [[Distributism]], [[Marriage and Fidelity]], [[Education]], [[Class Conflict]]
 **Forms & Genres:** [[Essay]], [[Satire]], [[Literary Criticism]], [[Aphorism]]
 
-## Chapters / scenes / sections
-
-- [Chapter 01 MANUFACTURERS](/testi/chesterton/atomized/fancies_versis_fads/chapter_01_manufacturers)
-
 ## Testo integrale / Full text
 
 FANCIES VERSUS FADS

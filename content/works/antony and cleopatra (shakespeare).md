@@ -99,52 +99,6 @@ tags:
 **Settings:** [[Ancient Rome (2)]], [[Egypt]]
 **Characters:** [[Mark Antony]], [[Cleopatra]], [[Octavius Caesar]], [[Enobarbus]], [[Lepidus]], [[Octavia]], [[Charmian]]
 
-## Chapters / scenes / sections
-
-- [Act_1 · Scene_1](/testi/shakespeare/plays/antony_and_cleopatra/act_1/scene_1)
-- [Act_1 · Scene_2](/testi/shakespeare/plays/antony_and_cleopatra/act_1/scene_2)
-- [Act_1 · Scene_3](/testi/shakespeare/plays/antony_and_cleopatra/act_1/scene_3)
-- [Act_1 · Scene_4](/testi/shakespeare/plays/antony_and_cleopatra/act_1/scene_4)
-- [Act_1 · Scene_5](/testi/shakespeare/plays/antony_and_cleopatra/act_1/scene_5)
-- [Act_2 · Scene_1](/testi/shakespeare/plays/antony_and_cleopatra/act_2/scene_1)
-- [Act_2 · Scene_2](/testi/shakespeare/plays/antony_and_cleopatra/act_2/scene_2)
-- [Act_2 · Scene_3](/testi/shakespeare/plays/antony_and_cleopatra/act_2/scene_3)
-- [Act_2 · Scene_4](/testi/shakespeare/plays/antony_and_cleopatra/act_2/scene_4)
-- [Act_2 · Scene_5](/testi/shakespeare/plays/antony_and_cleopatra/act_2/scene_5)
-- [Act_2 · Scene_6](/testi/shakespeare/plays/antony_and_cleopatra/act_2/scene_6)
-- [Act_2 · Scene_7](/testi/shakespeare/plays/antony_and_cleopatra/act_2/scene_7)
-- [Act_3 · Scene_1](/testi/shakespeare/plays/antony_and_cleopatra/act_3/scene_1)
-- [Act_3 · Scene_10](/testi/shakespeare/plays/antony_and_cleopatra/act_3/scene_10)
-- [Act_3 · Scene_11](/testi/shakespeare/plays/antony_and_cleopatra/act_3/scene_11)
-- [Act_3 · Scene_12](/testi/shakespeare/plays/antony_and_cleopatra/act_3/scene_12)
-- [Act_3 · Scene_13](/testi/shakespeare/plays/antony_and_cleopatra/act_3/scene_13)
-- [Act_3 · Scene_2](/testi/shakespeare/plays/antony_and_cleopatra/act_3/scene_2)
-- [Act_3 · Scene_3](/testi/shakespeare/plays/antony_and_cleopatra/act_3/scene_3)
-- [Act_3 · Scene_4](/testi/shakespeare/plays/antony_and_cleopatra/act_3/scene_4)
-- [Act_3 · Scene_5](/testi/shakespeare/plays/antony_and_cleopatra/act_3/scene_5)
-- [Act_3 · Scene_6](/testi/shakespeare/plays/antony_and_cleopatra/act_3/scene_6)
-- [Act_3 · Scene_7](/testi/shakespeare/plays/antony_and_cleopatra/act_3/scene_7)
-- [Act_3 · Scene_8](/testi/shakespeare/plays/antony_and_cleopatra/act_3/scene_8)
-- [Act_3 · Scene_9](/testi/shakespeare/plays/antony_and_cleopatra/act_3/scene_9)
-- [Act_4 · Scene_1](/testi/shakespeare/plays/antony_and_cleopatra/act_4/scene_1)
-- [Act_4 · Scene_10](/testi/shakespeare/plays/antony_and_cleopatra/act_4/scene_10)
-- [Act_4 · Scene_11](/testi/shakespeare/plays/antony_and_cleopatra/act_4/scene_11)
-- [Act_4 · Scene_12](/testi/shakespeare/plays/antony_and_cleopatra/act_4/scene_12)
-- [Act_4 · Scene_14](/testi/shakespeare/plays/antony_and_cleopatra/act_4/scene_14)
-- [Act_4 · Scene_15](/testi/shakespeare/plays/antony_and_cleopatra/act_4/scene_15)
-- [Act_4 · Scene_16](/testi/shakespeare/plays/antony_and_cleopatra/act_4/scene_16)
-- [Act_4 · Scene_2](/testi/shakespeare/plays/antony_and_cleopatra/act_4/scene_2)
-- [Act_4 · Scene_3](/testi/shakespeare/plays/antony_and_cleopatra/act_4/scene_3)
-- [Act_4 · Scene_4](/testi/shakespeare/plays/antony_and_cleopatra/act_4/scene_4)
-- [Act_4 · Scene_5](/testi/shakespeare/plays/antony_and_cleopatra/act_4/scene_5)
-- [Act_4 · Scene_6](/testi/shakespeare/plays/antony_and_cleopatra/act_4/scene_6)
-- [Act_4 · Scene_7](/testi/shakespeare/plays/antony_and_cleopatra/act_4/scene_7)
-- [Act_4 · Scene_8](/testi/shakespeare/plays/antony_and_cleopatra/act_4/scene_8)
-- [Act_4 · Scene_9](/testi/shakespeare/plays/antony_and_cleopatra/act_4/scene_9)
-- [Act_5 · Scene_1](/testi/shakespeare/plays/antony_and_cleopatra/act_5/scene_1)
-- [Act_5 · Scene_2](/testi/shakespeare/plays/antony_and_cleopatra/act_5/scene_2)
-
-
 ## Testo integrale / Full text
 
 

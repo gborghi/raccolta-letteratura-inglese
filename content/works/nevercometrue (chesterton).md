@@ -48,10 +48,6 @@ tags:
 **Themes & Concepts:** [[Unrequited Frustrated Love]], [[Nostalgia]], [[Melancholy]], [[Romantic Love]], [[Longing]]
 **Forms & Genres:** [[Comic Verse Song]], [[Lyric]]
 
-## Chapters / scenes / sections
-
-- [part 01](/testi/chesterton/atomized/nevercometrue/part/part_01)
-
 ## Testo integrale / Full text
 
 Song  

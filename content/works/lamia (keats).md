@@ -46,12 +46,6 @@ tags:
 **Settings:** [[Ancient Greece (2)]]
 **Characters:** [[Lamia]], [[Lycius]], [[Apollonius]]
 
-## Chapters / scenes / sections
-
-- [Section 01 part i](/testi/keats/long/lamia/section_01_part_i)
-- [Section 02 part ii](/testi/keats/long/lamia/section_02_part_ii)
-
-
 ## Testo integrale / Full text
 
 ## LAMIA PART I

@@ -55,11 +55,6 @@ tags:
 **Forms & Genres:** [[Essay]], [[Satire]]
 **Settings:** [[Rural England]], [[Industrial City]]
 
-## Chapters / scenes / sections
-
-- [part 01](/testi/chesterton/atomized/cheese/part/part_01)
-- [part 02](/testi/chesterton/atomized/cheese/part/part_02)
-
 ## Testo integrale / Full text
 
 Cheese

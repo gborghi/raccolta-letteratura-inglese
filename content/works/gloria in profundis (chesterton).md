@@ -48,10 +48,6 @@ tags:
 **Historical References:** [[Christianity]], [[Bible]]
 **Characters:** [[Christ]], [[Satan]]
 
-## Chapters / scenes / sections
-
-- [part 01](/testi/chesterton/atomized/gloria_in_profundis/part/part_01)
-
 ## Testo integrale / Full text
 
 GLORIA IN PROFUNDIS  

@@ -45,10 +45,6 @@ tags:
 **Historical References:** [[Bible]]
 **Characters:** [[Christ]]
 
-## Chapters / scenes / sections
-
-- [part 01](/testi/chesterton/atomized/little_door/part/part_01)
-
 ## Testo integrale / Full text
 
 Here is the little door  

@@ -63,10 +63,6 @@ tags:
 **Historical References:** [[First World War]], [[Christianity]], [[Ancient Rome]], [[Greek Mythology]], [[Battle of the Marne]]
 **Settings:** [[Battlefield]], [[Paris]], [[Africa]]
 
-## Chapters / scenes / sections
-
-- [part 01](/testi/chesterton/atomized/ballad_of_st_barbara/part/part_01)
-
 ## Testo integrale / Full text
 
 The Ballad of Saint Barbara  

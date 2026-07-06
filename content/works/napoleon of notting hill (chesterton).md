@@ -90,28 +90,6 @@ tags:
 **Settings:** [[London]], [[Modern Metropolis]]
 **Characters:** [[Auberon Quin]], [[Adam Wayne]], [[James Barker]], [[Mr Buck]], [[James Turnbull]], [[Mr Wilson]], [[Provost Swindon]], [[Wilfrid Lambert]], [[Mr Bowles]]
 
-## Chapters / scenes / sections
-
-- [Chapter 01](/testi/chesterton/atomized/napoleon_of_notting_hill/chapter_01)
-- [Chapter 02](/testi/chesterton/atomized/napoleon_of_notting_hill/chapter_02)
-- [Chapter 03](/testi/chesterton/atomized/napoleon_of_notting_hill/chapter_03)
-- [Chapter 04](/testi/chesterton/atomized/napoleon_of_notting_hill/chapter_04)
-- [Chapter 05](/testi/chesterton/atomized/napoleon_of_notting_hill/chapter_05)
-- [Chapter 06](/testi/chesterton/atomized/napoleon_of_notting_hill/chapter_06)
-- [Chapter 07](/testi/chesterton/atomized/napoleon_of_notting_hill/chapter_07)
-- [Chapter 08](/testi/chesterton/atomized/napoleon_of_notting_hill/chapter_08)
-- [Chapter 09](/testi/chesterton/atomized/napoleon_of_notting_hill/chapter_09)
-- [Chapter 10](/testi/chesterton/atomized/napoleon_of_notting_hill/chapter_10)
-- [Chapter 11](/testi/chesterton/atomized/napoleon_of_notting_hill/chapter_11)
-- [Chapter 12](/testi/chesterton/atomized/napoleon_of_notting_hill/chapter_12)
-- [Chapter 13](/testi/chesterton/atomized/napoleon_of_notting_hill/chapter_13)
-- [Chapter 14](/testi/chesterton/atomized/napoleon_of_notting_hill/chapter_14)
-- [Chapter 15](/testi/chesterton/atomized/napoleon_of_notting_hill/chapter_15)
-- Chapter 16
-- Chapter 17
-- Chapter 18
-- Chapter 19
-
 ## Testo integrale / Full text
 
 ----------

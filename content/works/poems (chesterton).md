@@ -99,19 +99,6 @@ tags:
 **Historical References:** [[Battle of Lepanto]], [[Christianity]], [[Catholic Church]], [[Islam]], [[Crusades]], [[French Revolution]], [[Napoleonic Wars the Navy]], [[King Alfred]], [[Reformation]], [[Wars of the Roses]]
 **Characters:** [[Don John of Austria]], [[Christ]], [[Don Quixote]], [[Cervantes]], [[F.E. Smith]], [[Walter Long]]
 
-## Chapters / scenes / sections
-
-- [part 01](/testi/chesterton/atomized/poems/part/part_01)
-- [part 02](/testi/chesterton/atomized/poems/part/part_02)
-- [part 03](/testi/chesterton/atomized/poems/part/part_03)
-- [part 04](/testi/chesterton/atomized/poems/part/part_04)
-- [part 05](/testi/chesterton/atomized/poems/part/part_05)
-- [part 06](/testi/chesterton/atomized/poems/part/part_06)
-- [part 07](/testi/chesterton/atomized/poems/part/part_07)
-- [part 08](/testi/chesterton/atomized/poems/part/part_08)
-- [part 09](/testi/chesterton/atomized/poems/part/part_09)
-- [part 10](/testi/chesterton/atomized/poems/part/part_10)
-
 ## Testo integrale / Full text
 
 The Project Gutenberg EBook of Poems, by G.K. Chesterton  

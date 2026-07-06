@@ -57,10 +57,6 @@ tags:
 **Forms & Genres:** [[Lyric]], [[Ode]], [[Satire]]
 **Historical References:** [[First World War]]
 
-## Chapters / scenes / sections
-
-- [part 01](/testi/chesterton/atomized/unknown-warrior/part/part_01)
-
 ## Testo integrale / Full text
 
 TO THE UNKNOWN WARRIOR  

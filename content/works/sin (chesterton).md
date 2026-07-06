@@ -43,10 +43,6 @@ tags:
 **Themes & Concepts:** [[Romantic Love]], [[Sin and the Fall]], [[Faith]], [[Jealousy]], [[Honour]]
 **Forms & Genres:** [[Sonnet]]
 
-## Chapters / scenes / sections
-
-- [part 01](/testi/chesterton/atomized/sin/part/part_01)
-
 ## Testo integrale / Full text
 
 The Unpardonable Sin  

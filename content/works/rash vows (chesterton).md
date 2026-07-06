@@ -51,11 +51,6 @@ tags:
 **Themes & Concepts:** [[Marriage and Fidelity]], [[Identity]], [[Self-Knowledge]], [[Critique of Progress]], [[Disillusionment]], [[Heroism]], [[Romantic Love]], [[Freedom and Liberty]], [[Self-Sacrifice]], [[Paradox]], [[Honour]]
 **Forms & Genres:** [[Essay]], [[Apologetics]]
 
-## Chapters / scenes / sections
-
-- [part 01](/testi/chesterton/atomized/rash_vows/part/part_01)
-- [part 02](/testi/chesterton/atomized/rash_vows/part/part_02)
-
 ## Testo integrale / Full text
 
 A Defence of Rash Vows

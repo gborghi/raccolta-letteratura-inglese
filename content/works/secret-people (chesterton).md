@@ -64,10 +64,6 @@ tags:
 **Historical References:** [[Reformation]], [[Napoleonic Wars the Navy]], [[Wars of the Roses]], [[French Revolution]], [[Puritanism]], [[English Civil War]]
 **Settings:** [[Rural England]], [[Battlefield]], [[Sea (2)]]
 
-## Chapters / scenes / sections
-
-- [part 01](/testi/chesterton/atomized/secret-people/part/part_01)
-
 ## Testo integrale / Full text
 
 The Secret People  

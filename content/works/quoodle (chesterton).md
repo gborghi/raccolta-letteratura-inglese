@@ -46,10 +46,6 @@ tags:
 **Themes & Concepts:** [[Wonder and Gratitude]], [[Joy]], [[Nature vs Civilization]], [[Perception and Consciousness]], [[Sin and the Fall]]
 **Forms & Genres:** [[Comic Verse Song]], [[Lyric]]
 
-## Chapters / scenes / sections
-
-- [part 01](/testi/chesterton/atomized/quoodle/part/part_01)
-
 ## Testo integrale / Full text
 
 THE SONG OF QUOODLE  

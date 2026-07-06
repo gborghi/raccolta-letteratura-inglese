@@ -75,15 +75,6 @@ tags:
 **Settings:** [[London]]
 **Characters:** [[Ebenezer Scrooge]], [[Bob Cratchit]], [[Tiny Tim]], [[Jacob Marley]], [[Ghost of Christmas Past]], [[Ghost of Christmas Present]], [[Ghost of Christmas Yet to Come]], [[Fred]], [[Mr Fezziwig]]
 
-## Chapters / scenes / sections
-
-- Chapter 01 MARLEY S GHOST
-- [Chapter 02 THE FIRST OF THE THREE SPIRITS](/testi/dickens/atomized/a_christmas_carol/chapter_02_the_first_of_the_three_spirits)
-- [Chapter 03 THE SECOND OF THE THREE SPIRIT](/testi/dickens/atomized/a_christmas_carol/chapter_03_the_second_of_the_three_spirit)
-- [Chapter 04 THE LAST OF THE SPIRITS](/testi/dickens/atomized/a_christmas_carol/chapter_04_the_last_of_the_spirits)
-- [Chapter 05 THE END OF IT](/testi/dickens/atomized/a_christmas_carol/chapter_05_the_end_of_it)
-
-
 ## Testo integrale / Full text
 
 A CHRISTMAS CAROL

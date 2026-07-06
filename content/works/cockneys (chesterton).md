@@ -55,12 +55,6 @@ tags:
 **Forms & Genres:** [[Essay]]
 **Settings:** [[London]]
 
-## Chapters / scenes / sections
-
-- [part 01](/testi/chesterton/atomized/cockneys/part/part_01)
-- [part 02](/testi/chesterton/atomized/cockneys/part/part_02)
-- [part 03](/testi/chesterton/atomized/cockneys/part/part_03)
-
 ## Testo integrale / Full text
 
 -=[ COCKNEYS AND THEIR JOKES ]=-

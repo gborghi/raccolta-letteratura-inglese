@@ -101,27 +101,6 @@ tags:
 **Themes & Concepts:** [[Wonder and Gratitude]], [[Paradox]], [[Satire of Society]], [[Common Man]], [[Imagination]], [[Nationalism and Patriotism]], [[Innocence and Experience]], [[Ratiocination Detection]], [[Good vs Evil]], [[Humility]], [[Democracy]], [[Beauty]], [[Grotesque]], [[Joy]], [[Marriage and Fidelity]], [[Critique of Progress]], [[Self and Cosmos]], [[Class Conflict]], [[Faith]], [[Value and Scarcity]]
 **Forms & Genres:** [[Essay]], [[Satire]], [[Aphorism]]
 
-## Chapters / scenes / sections
-
-- [Story 01 IN DEFENCE OF A NEW EDITION](/testi/chesterton/atomized/the_defendant/story_01_in_defence_of_a_new_edition)
-- [Story 02 INTRODUCTION](/testi/chesterton/atomized/the_defendant/story_02_introduction)
-- [Story 03 A DEFENCE OF PENNY DREADFULS](/testi/chesterton/atomized/the_defendant/story_03_a_defence_of_penny_dreadfuls)
-- [Story 04 A DEFENCE OF RASH VOWS](/testi/chesterton/atomized/the_defendant/story_04_a_defence_of_rash_vows)
-- [Story 05 A DEFENCE OF SKELETONS](/testi/chesterton/atomized/the_defendant/story_05_a_defence_of_skeletons)
-- [Story 06 A DEFENCE OF PUBLICITY](/testi/chesterton/atomized/the_defendant/story_06_a_defence_of_publicity)
-- [Story 07 A DEFENCE OF NONSENSE](/testi/chesterton/atomized/the_defendant/story_07_a_defence_of_nonsense)
-- [Story 08 A DEFENCE OF PLANETS](/testi/chesterton/atomized/the_defendant/story_08_a_defence_of_planets)
-- [Story 09 A DEFENCE OF CHINA SHEPHERDESSES](/testi/chesterton/atomized/the_defendant/story_09_a_defence_of_china_shepherdesses)
-- [Story 10 A DEFENCE OF USEFUL INFORMATION](/testi/chesterton/atomized/the_defendant/story_10_a_defence_of_useful_information)
-- [Story 11 A DEFENCE OF HERALDRY](/testi/chesterton/atomized/the_defendant/story_11_a_defence_of_heraldry)
-- [Story 12 A DEFENCE OF UGLY THINGS](/testi/chesterton/atomized/the_defendant/story_12_a_defence_of_ugly_things)
-- [Story 13 A DEFENCE OF FARCE](/testi/chesterton/atomized/the_defendant/story_13_a_defence_of_farce)
-- Story 14 A DEFENCE OF HUMILITY
-- [Story 15 A DEFENCE OF SLANG](/testi/chesterton/atomized/the_defendant/story_15_a_defence_of_slang)
-- [Story 16 A DEFENCE OF BABY WORSHIP](/testi/chesterton/atomized/the_defendant/story_16_a_defence_of_baby_worship)
-- Story 17 A DEFENCE OF DETECTIVE STORIES
-- [Story 18 A DEFENCE OF PATRIOTISM](/testi/chesterton/atomized/the_defendant/story_18_a_defence_of_patriotism)
-
 ## Testo integrale / Full text
 
 The Project Gutenberg EBook of The Defendant, by G.K. Chesterton

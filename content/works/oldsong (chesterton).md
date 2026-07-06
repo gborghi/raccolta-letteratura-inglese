@@ -59,10 +59,6 @@ tags:
 **Historical References:** [[Bible]], [[Industrial Revolution]], [[Luddite Movement]]
 **Settings:** [[London]], [[Rural England]]
 
-## Chapters / scenes / sections
-
-- [part 01](/testi/chesterton/atomized/oldsong/part/part_01)
-
 ## Testo integrale / Full text
 
 The Old Song  

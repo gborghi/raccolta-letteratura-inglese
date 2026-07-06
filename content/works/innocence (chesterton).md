@@ -105,21 +105,6 @@ tags:
 **Settings:** [[London]], [[Scotland the Highlands]], [[Rural England]], [[Paris]], [[Battlefield]]
 **Characters:** [[Father Brown]], [[Flambeau]], [[Valentin]], [[Israel Gow]], [[John Turnbull Angus]], [[Isidore Smythe]], [[Laura Hope]], [[James Welkin]], [[Leonard Quinton]], [[Prince Saradine]], [[Wilfred Bohun]], [[Pauline Stacey]], [[Kalon]], [[Arthur St. Clare]], [[Sir Aaron Armstrong]], [[Patrick Royce]]
 
-## Chapters / scenes / sections
-
-- [Story 01 The Blue Cross](/testi/chesterton/atomized/innocence/story_01_the_blue_cross)
-- [Story 02 The Secret Garden](/testi/chesterton/atomized/innocence/story_02_the_secret_garden)
-- [Story 03 The Queer Feet](/testi/chesterton/atomized/innocence/story_03_the_queer_feet)
-- [Story 04 The Flying Stars](/testi/chesterton/atomized/innocence/story_04_the_flying_stars)
-- [Story 05 The Invisible Man](/testi/chesterton/atomized/innocence/story_05_the_invisible_man)
-- [Story 06 The Honour of Israel Gow](/testi/chesterton/atomized/innocence/story_06_the_honour_of_israel_gow)
-- [Story 07 The Wrong Shape](/testi/chesterton/atomized/innocence/story_07_the_wrong_shape)
-- [Story 08 The Sins of Prince Saradine](/testi/chesterton/atomized/innocence/story_08_the_sins_of_prince_saradine)
-- [Story 09 The Hammer of God](/testi/chesterton/atomized/innocence/story_09_the_hammer_of_god)
-- [Story 10 The Eye of Apollo](/testi/chesterton/atomized/innocence/story_10_the_eye_of_apollo)
-- [Story 11 The Sign of the Broken Sword](/testi/chesterton/atomized/innocence/story_11_the_sign_of_the_broken_sword)
-- [Story 12 The Three Tools of Death](/testi/chesterton/atomized/innocence/story_12_the_three_tools_of_death)
-
 ## Testo integrale / Full text
 
 THE INNOCENCE OF FATHER BROWN

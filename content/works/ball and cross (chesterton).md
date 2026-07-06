@@ -108,29 +108,6 @@ tags:
 **Settings:** [[Scotland the Highlands]], [[London]], [[Garden (2)]], [[Ship]]
 **Characters:** [[Satan]], [[Evan MacIan]], [[James Turnbull]], [[Lucifer]], [[Father Michael]], [[Madeleine Durand]], [[Beatrice Drake]], [[Count Gregory]], [[Camille Bert]], [[Cumberland Vane]], [[Wilkinson]], [[Doctor Hutton]], [[Doctor Quayle]]
 
-## Chapters / scenes / sections
-
-- [Story 01 A Discussion Somewhat in the Air](/testi/chesterton/atomized/ball_and_cross/story_01_a_discussion_somewhat_in_the_air)
-- [Story 02 The Religion of the Stipendiary Magistra](/testi/chesterton/atomized/ball_and_cross/story_02_the_religion_of_the_stipendiary_magistra)
-- [Story 03 Some Old Curiosities](/testi/chesterton/atomized/ball_and_cross/story_03_some_old_curiosities)
-- Story 04 A Discussion at Dawn
-- Story 05 The Peacemaker
-- Story 06 The Other Philosopher
-- Story 07 The Village of Grassley in the Hole
-- Story 08 An Interlude of Argument
-- Story 09 The Strange Lady
-- Story 10 The Swords Rejoined
-- Story 11 A Scandal in the Village
-- Story 12 The Desert Island
-- Story 13 The Garden of Peace
-- Story 14 A Museum of Souls
-- Story 15 The Dream of MacIan
-- Story 16 The Dream of Turnbull
-- Story 17 The Idiot
-- Story 18 A Riddle of Faces
-- Story 19 The Last Parley
-- Story 20 Dies Irae
-
 ## Testo integrale / Full text
 
 THE BALL AND THE CROSS

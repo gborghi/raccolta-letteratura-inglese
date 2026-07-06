@@ -46,11 +46,6 @@ tags:
 **Forms & Genres:** [[Essay]], [[Apologetics]]
 **Historical References:** [[Christianity]], [[Eastern Religion Comparative Religion]], [[Darwinism (Evolutionary Theory)]]
 
-## Chapters / scenes / sections
-
-- [part 01](/testi/chesterton/atomized/return_of_the_angels/part/part_01)
-- [part 02](/testi/chesterton/atomized/return_of_the_angels/part/part_02)
-
 ## Testo integrale / Full text
 
 THE RETURN OF THE ANGELS

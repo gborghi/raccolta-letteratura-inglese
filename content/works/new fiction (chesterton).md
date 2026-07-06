@@ -33,10 +33,6 @@ tags:
 **Themes & Concepts:** [[Artist and Society]], [[Satire of Society]], [[Critique of Progress]], [[Literary Criticism (2)]]
 **Forms & Genres:** [[Parody]], [[Satire]], [[Epigram]]
 
-## Chapters / scenes / sections
-
-- [part 01](/testi/chesterton/atomized/new_fiction/part/part_01)
-
 ## Testo integrale / Full text
 
 THE NEW FICTION  

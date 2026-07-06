@@ -51,11 +51,6 @@ tags:
 **Forms & Genres:** [[Essay]], [[Fairy Tale Fantasy]]
 **Characters:** [[Death Personified]], [[Robin Hood]], [[Charles Dickens]], [[Sir Richard Steele]], [[Ben Jonson]]
 
-## Chapters / scenes / sections
-
-- [part 01](/testi/chesterton/atomized/shop-of-ghosts/part/part_01)
-- [part 02](/testi/chesterton/atomized/shop-of-ghosts/part/part_02)
-
 ## Testo integrale / Full text
 
 The Shop Of Ghosts

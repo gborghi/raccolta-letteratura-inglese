@@ -53,10 +53,6 @@ tags:
 **Forms & Genres:** [[Elegy]], [[Lyric]], [[Dirge]]
 **Historical References:** [[Regency Georgian England]]
 
-## Chapters / scenes / sections
-
-- [part 01](/testi/chesterton/atomized/tribute_to_gladstone/part/part_01)
-
 ## Testo integrale / Full text
 
 The following was printed in a collection of tributes to W E Gladstone  

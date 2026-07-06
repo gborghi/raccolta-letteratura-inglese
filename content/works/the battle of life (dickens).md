@@ -55,13 +55,6 @@ tags:
 **Settings:** [[Rural England]]
 **Characters:** [[Marion Jeddler]], [[Grace Jeddler]], [[Doctor Jeddler]], [[Alfred Heathfield]], [[Michael Warden]], [[Clemency Newcome]], [[Benjamin Britain]]
 
-## Chapters / scenes / sections
-
-- [Chapter 01](/testi/dickens/atomized/the_battle_of_life/chapter_01)
-- [Chapter 02](/testi/dickens/atomized/the_battle_of_life/chapter_02)
-- [Chapter 03](/testi/dickens/atomized/the_battle_of_life/chapter_03)
-
-
 ## Testo integrale / Full text
 
 Transcribed from the 1867/68 Chapman and Hall_ Works of Charles Dickens_,

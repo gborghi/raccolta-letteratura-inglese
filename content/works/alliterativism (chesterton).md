@@ -43,10 +43,6 @@ tags:
 **Forms & Genres:** [[Satire]], [[Parody]], [[Comic Verse Song]], [[Epigram]]
 **Historical References:** [[First World War]]
 
-## Chapters / scenes / sections
-
-- [part 01](/testi/chesterton/atomized/alliterativism/part/part_01)
-
 ## Testo integrale / Full text
 
 ALLITERATIVISM (1914)  

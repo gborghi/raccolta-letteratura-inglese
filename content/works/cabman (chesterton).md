@@ -51,11 +51,6 @@ tags:
 **Forms & Genres:** [[Essay]], [[Parable]]
 **Settings:** [[London]]
 
-## Chapters / scenes / sections
-
-- [part 01](/testi/chesterton/atomized/cabman/part/part_01)
-- [part 02](/testi/chesterton/atomized/cabman/part/part_02)
-
 ## Testo integrale / Full text
 
 The Extraordinary Cabman

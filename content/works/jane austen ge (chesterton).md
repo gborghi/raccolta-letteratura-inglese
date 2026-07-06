@@ -56,11 +56,6 @@ tags:
 **Themes & Concepts:** [[Satire of Society]], [[Deception]], [[Appearance vs Reality]], [[Power and Corruption]], [[Truth]], [[Democracy]], [[Power of Language]], [[Feminism and the New Woman]]
 **Forms & Genres:** [[Literary Criticism]], [[Essay]], [[Satire]]
 
-## Chapters / scenes / sections
-
-- [part 01](/testi/chesterton/atomized/jane_austen_ge/part/part_01)
-- [part 02](/testi/chesterton/atomized/jane_austen_ge/part/part_02)
-
 ## Testo integrale / Full text
 
 [From "Come to Think of It" by G.K.Chesterton]

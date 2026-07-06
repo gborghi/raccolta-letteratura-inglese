@@ -54,22 +54,6 @@ tags:
 **Themes & Concepts:** [[Distributism]], [[Class Conflict]], [[Power and Corruption]], [[Reform]], [[Common Man]], [[Anti-Industrialism]], [[Democracy]], [[Slavery]], [[Freedom and Liberty]], [[Labor and Work]], [[Individualism]]
 **Forms & Genres:** [[Essay]], [[Satire]]
 
-## Chapters / scenes / sections
-
-- Story 01 O WE AGREE
-- Story 02 ECIL PALMER
-- Story 03 O WE AGREE
-- Story 04 R BELLOC I am here to take the chair in
-- Story 05 R SHAW Mr Belloc and Ladies and Gentleme
-- Story 06 R CHESTERTON Ladies and gentlemen The an
-- Story 07 OICE Yes he is
-- Story 08 R CHESTERTON Now as to the much more int
-- Story 09 R SHAW I cannot say that Mr Chesterton h
-- Story 10 R CHESTERTON Among the bewildering welte
-- Story 11 R SHAW I now want to ask Mr Chesterton w
-- Story 12 R CHESTERTON I am sure Mr Shaw is very w
-- Story 13 R BELLOC I was told when I accepted this
-
 ## Testo integrale / Full text
 
 DO WE AGREE?

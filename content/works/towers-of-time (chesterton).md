@@ -56,10 +56,6 @@ tags:
 **Historical References:** [[Ancient Rome]], [[Bible]], [[Catholic Church]], [[Carthage]]
 **Characters:** [[Virgin Mary]]
 
-## Chapters / scenes / sections
-
-- [part 01](/testi/chesterton/atomized/towers-of-time/part/part_01)
-
 ## Testo integrale / Full text
 
 THE TOWERS OF TIME  

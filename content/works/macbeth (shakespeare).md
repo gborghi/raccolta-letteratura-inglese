@@ -107,39 +107,6 @@ tags:
 **Settings:** [[Scotland the Highlands]], [[Castle]], [[Court]]
 **Characters:** [[Macbeth]], [[Lady Macbeth]], [[Banquo]], [[Macduff]], [[Duncan]], [[Malcolm]], [[Three Witches]], [[Lady Macduff]]
 
-## Chapters / scenes / sections
-
-- [Act_1 · Scene_1](/testi/shakespeare/plays/macbeth/act_1/scene_1)
-- [Act_1 · Scene_2](/testi/shakespeare/plays/macbeth/act_1/scene_2)
-- [Act_1 · Scene_3](/testi/shakespeare/plays/macbeth/act_1/scene_3)
-- [Act_1 · Scene_4](/testi/shakespeare/plays/macbeth/act_1/scene_4)
-- [Act_1 · Scene_5](/testi/shakespeare/plays/macbeth/act_1/scene_5)
-- [Act_1 · Scene_7](/testi/shakespeare/plays/macbeth/act_1/scene_7)
-- [Act_2 · Scene_1](/testi/shakespeare/plays/macbeth/act_2/scene_1)
-- [Act_2 · Scene_2](/testi/shakespeare/plays/macbeth/act_2/scene_2)
-- [Act_2 · Scene_3](/testi/shakespeare/plays/macbeth/act_2/scene_3)
-- [Act_2 · Scene_4](/testi/shakespeare/plays/macbeth/act_2/scene_4)
-- [Act_3 · Scene_1](/testi/shakespeare/plays/macbeth/act_3/scene_1)
-- [Act_3 · Scene_3](/testi/shakespeare/plays/macbeth/act_3/scene_3)
-- [Act_3 · Scene_4](/testi/shakespeare/plays/macbeth/act_3/scene_4)
-- [Act_3 · Scene_5](/testi/shakespeare/plays/macbeth/act_3/scene_5)
-- [Act_3 · Scene_6](/testi/shakespeare/plays/macbeth/act_3/scene_6)
-- [Act_4 · Scene_1](/testi/shakespeare/plays/macbeth/act_4/scene_1)
-- [Act_4 · Scene_2](/testi/shakespeare/plays/macbeth/act_4/scene_2)
-- [Act_4 · Scene_3](/testi/shakespeare/plays/macbeth/act_4/scene_3)
-- [Act_5 · Scene_1](/testi/shakespeare/plays/macbeth/act_5/scene_1)
-- [Act_5 · Scene_10](/testi/shakespeare/plays/macbeth/act_5/scene_10)
-- [Act_5 · Scene_11](/testi/shakespeare/plays/macbeth/act_5/scene_11)
-- [Act_5 · Scene_2](/testi/shakespeare/plays/macbeth/act_5/scene_2)
-- [Act_5 · Scene_3](/testi/shakespeare/plays/macbeth/act_5/scene_3)
-- [Act_5 · Scene_4](/testi/shakespeare/plays/macbeth/act_5/scene_4)
-- [Act_5 · Scene_5](/testi/shakespeare/plays/macbeth/act_5/scene_5)
-- [Act_5 · Scene_6](/testi/shakespeare/plays/macbeth/act_5/scene_6)
-- [Act_5 · Scene_7](/testi/shakespeare/plays/macbeth/act_5/scene_7)
-- [Act_5 · Scene_8](/testi/shakespeare/plays/macbeth/act_5/scene_8)
-- [Act_5 · Scene_9](/testi/shakespeare/plays/macbeth/act_5/scene_9)
-
-
 ## Testo integrale / Full text
 
 

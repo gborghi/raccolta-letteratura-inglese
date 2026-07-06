@@ -59,11 +59,6 @@ tags:
 **Forms & Genres:** [[Essay]]
 **Settings:** [[Ship]], [[Sea (2)]]
 
-## Chapters / scenes / sections
-
-- [part 01](/testi/chesterton/atomized/titanic/part/part_01)
-- [part 02](/testi/chesterton/atomized/titanic/part/part_02)
-
 ## Testo integrale / Full text
 
 The Great Shipwreck as Analogy

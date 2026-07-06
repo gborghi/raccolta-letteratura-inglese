@@ -73,34 +73,6 @@ tags:
 **Forms & Genres:** [[Novel]], [[Travel Writing]]
 **Settings:** [[Sea (2)]], [[Ship]]
 
-## Chapters / scenes / sections
-
-- [Chapter 01](/testi/poe/atomized/the_narrative_of_arthur_gordon_pym_of_nantucket/chapter_01)
-- [Chapter 02](/testi/poe/atomized/the_narrative_of_arthur_gordon_pym_of_nantucket/chapter_02)
-- [Chapter 03](/testi/poe/atomized/the_narrative_of_arthur_gordon_pym_of_nantucket/chapter_03)
-- [Chapter 04](/testi/poe/atomized/the_narrative_of_arthur_gordon_pym_of_nantucket/chapter_04)
-- [Chapter 05](/testi/poe/atomized/the_narrative_of_arthur_gordon_pym_of_nantucket/chapter_05)
-- [Chapter 06](/testi/poe/atomized/the_narrative_of_arthur_gordon_pym_of_nantucket/chapter_06)
-- [Chapter 07](/testi/poe/atomized/the_narrative_of_arthur_gordon_pym_of_nantucket/chapter_07)
-- [Chapter 08](/testi/poe/atomized/the_narrative_of_arthur_gordon_pym_of_nantucket/chapter_08)
-- [Chapter 09](/testi/poe/atomized/the_narrative_of_arthur_gordon_pym_of_nantucket/chapter_09)
-- [Chapter 10](/testi/poe/atomized/the_narrative_of_arthur_gordon_pym_of_nantucket/chapter_10)
-- [Chapter 11](/testi/poe/atomized/the_narrative_of_arthur_gordon_pym_of_nantucket/chapter_11)
-- [Chapter 12](/testi/poe/atomized/the_narrative_of_arthur_gordon_pym_of_nantucket/chapter_12)
-- [Chapter 13](/testi/poe/atomized/the_narrative_of_arthur_gordon_pym_of_nantucket/chapter_13)
-- [Chapter 14](/testi/poe/atomized/the_narrative_of_arthur_gordon_pym_of_nantucket/chapter_14)
-- [Chapter 15](/testi/poe/atomized/the_narrative_of_arthur_gordon_pym_of_nantucket/chapter_15)
-- [Chapter 16](/testi/poe/atomized/the_narrative_of_arthur_gordon_pym_of_nantucket/chapter_16)
-- [Chapter 17](/testi/poe/atomized/the_narrative_of_arthur_gordon_pym_of_nantucket/chapter_17)
-- [Chapter 18](/testi/poe/atomized/the_narrative_of_arthur_gordon_pym_of_nantucket/chapter_18)
-- [Chapter 19](/testi/poe/atomized/the_narrative_of_arthur_gordon_pym_of_nantucket/chapter_19)
-- [Chapter 20](/testi/poe/atomized/the_narrative_of_arthur_gordon_pym_of_nantucket/chapter_20)
-- [Chapter 21](/testi/poe/atomized/the_narrative_of_arthur_gordon_pym_of_nantucket/chapter_21)
-- [Chapter 22](/testi/poe/atomized/the_narrative_of_arthur_gordon_pym_of_nantucket/chapter_22)
-- [Chapter 23](/testi/poe/atomized/the_narrative_of_arthur_gordon_pym_of_nantucket/chapter_23)
-- [Chapter 24](/testi/poe/atomized/the_narrative_of_arthur_gordon_pym_of_nantucket/chapter_24)
-
-
 ## Testo integrale / Full text
 
 THE NARRATIVE OF ARTHUR GORDON PYM.

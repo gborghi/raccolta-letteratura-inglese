@@ -60,15 +60,6 @@ tags:
 **Forms & Genres:** [[Detective Fiction]], [[Short Story]]
 **Settings:** [[London]]
 
-## Chapters / scenes / sections
-
-- [Story 01 Chapter 1](/testi/chesterton/atomized/queertrades/story_01_chapter_1)
-- [Story 02 Chapter 2](/testi/chesterton/atomized/queertrades/story_02_chapter_2)
-- [Story 03 Chapter 3](/testi/chesterton/atomized/queertrades/story_03_chapter_3)
-- [Story 04 Chapter 4](/testi/chesterton/atomized/queertrades/story_04_chapter_4)
-- [Story 05 Chapter 5](/testi/chesterton/atomized/queertrades/story_05_chapter_5)
-- [Story 06 Chapter 6](/testi/chesterton/atomized/queertrades/story_06_chapter_6)
-
 ## Testo integrale / Full text
 
 The Club of Queer Trades

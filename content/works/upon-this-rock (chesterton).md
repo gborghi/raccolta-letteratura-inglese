@@ -51,13 +51,6 @@ tags:
 **Historical References:** [[Catholic Church]], [[Christianity]], [[Bible]], [[Reformation]], [[Puritanism]]
 **Characters:** [[Virgin Mary]], [[Christ]], [[St. Peter]]
 
-## Chapters / scenes / sections
-
-- [part 01](/testi/chesterton/atomized/upon-this-rock/part/part_01)
-- [part 02](/testi/chesterton/atomized/upon-this-rock/part/part_02)
-- [part 03](/testi/chesterton/atomized/upon-this-rock/part/part_03)
-- [part 04](/testi/chesterton/atomized/upon-this-rock/part/part_04)
-
 ## Testo integrale / Full text
 
 UPON THIS ROCK

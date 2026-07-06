@@ -43,10 +43,6 @@ tags:
 **Forms & Genres:** [[Lyric]], [[Comic Verse Song]]
 **Settings:** [[London]], [[Battlefield]]
 
-## Chapters / scenes / sections
-
-- [part 01](/testi/chesterton/atomized/whogoeshome/part/part_01)
-
 ## Testo integrale / Full text
 
 Who Goes Home?  

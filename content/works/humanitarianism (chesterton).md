@@ -44,11 +44,6 @@ tags:
 **Themes & Concepts:** [[Satire of Society]], [[Reform]], [[Mercy]], [[Common Man]], [[Alienation]], [[Fanaticism]], [[Nationalism and Patriotism]], [[Moderation]], [[Sympathy]]
 **Forms & Genres:** [[Essay]]
 
-## Chapters / scenes / sections
-
-- [part 01](/testi/chesterton/atomized/humanitarianism/part/part_01)
-- [part 02](/testi/chesterton/atomized/humanitarianism/part/part_02)
-
 ## Testo integrale / Full text
 
 Humanitarianism True and False 

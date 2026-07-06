@@ -55,10 +55,6 @@ tags:
 **Forms & Genres:** [[Lyric]], [[Dramatic Monologue]]
 **Historical References:** [[Bible]], [[Christianity]]
 
-## Chapters / scenes / sections
-
-- [part 01](/testi/chesterton/atomized/praise_of_dust/part/part_01)
-
 ## Testo integrale / Full text
 
 The Praise Of Dust  

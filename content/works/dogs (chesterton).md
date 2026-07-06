@@ -43,10 +43,6 @@ tags:
 **Themes & Concepts:** [[Nature vs Civilization]], [[Critique of Progress]], [[Wonder and Gratitude]], [[Self-Knowledge]], [[Friendship]], [[Identity]], [[Paradox]], [[Common Man]]
 **Forms & Genres:** [[Essay]]
 
-## Chapters / scenes / sections
-
-- [part 01](/testi/chesterton/atomized/dogs/part/part_01)
-
 ## Testo integrale / Full text
 
 Dogs

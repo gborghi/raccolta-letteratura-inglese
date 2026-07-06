@@ -49,10 +49,6 @@ tags:
 **Forms & Genres:** [[Epigram]], [[Inscription]]
 **Historical References:** [[Ancient Rome]], [[Carthage]]
 
-## Chapters / scenes / sections
-
-- [part 01](/testi/chesterton/atomized/for_a_war_memorial/part/part_01)
-
 ## Testo integrale / Full text
 
 For a War Memorial  

@@ -53,12 +53,6 @@ tags:
 **Forms & Genres:** [[Essay]], [[Satire]]
 **Historical References:** [[Classical Antiquity]], [[Industrial Revolution]]
 
-## Chapters / scenes / sections
-
-- [part 01](/testi/chesterton/atomized/success/part/part_01)
-- [part 02](/testi/chesterton/atomized/success/part/part_02)
-- [part 03](/testi/chesterton/atomized/success/part/part_03)
-
 ## Testo integrale / Full text
 
 The Fallacy of Success

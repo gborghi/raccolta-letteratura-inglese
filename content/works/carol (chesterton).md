@@ -47,10 +47,6 @@ tags:
 **Historical References:** [[Bible]]
 **Characters:** [[Virgin Mary]], [[Christ]]
 
-## Chapters / scenes / sections
-
-- [part 01](/testi/chesterton/atomized/carol/part/part_01)
-
 ## Testo integrale / Full text
 
 A Christmas Carol  

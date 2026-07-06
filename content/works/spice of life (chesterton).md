@@ -147,15 +147,6 @@ tags:
 **Themes & Concepts:** [[Artist and Society]], [[Wonder and Gratitude]], [[Joy]], [[Faith]], [[Imagination]], [[Ratiocination Detection]], [[Kingship and Legitimacy]], [[Nationalism and Patriotism]], [[Madness]], [[Ambition]], [[Fate and Free Will]], [[Temptation]], [[Power and Corruption]], [[Marriage and Fidelity]], [[Nostalgia]], [[Faith and Doubt]], [[Original Sin]], [[Paganism and Classical Revival]], [[Distributism]], [[Education]], [[Grotesque]], [[Critique of Progress]]
 **Forms & Genres:** [[Essay]], [[Literary Criticism]], [[Detective Fiction]], [[Fable]], [[Fairy Tale Fantasy]], [[Melodrama]], [[Travel Writing]], [[Biography]], [[Satire]]
 
-## Chapters / scenes / sections
-
-- [Chapter 01 The Spice of Life](/testi/chesterton/atomized/spice_of_life/chapter_01_the_spice_of_life)
-- [Chapter 02 LITERATURE IN GENERAL](/testi/chesterton/atomized/spice_of_life/chapter_02_literature_in_general)
-- [Chapter 03 PARTICULAR BOOKS AND WRITERS](/testi/chesterton/atomized/spice_of_life/chapter_03_particular_books_and_writers)
-- [Chapter 04 THOUGHT AND BELIEF](/testi/chesterton/atomized/spice_of_life/chapter_04_thought_and_belief)
-- [Chapter 05 AT HOME AND ABROAD](/testi/chesterton/atomized/spice_of_life/chapter_05_at_home_and_abroad)
-- [Chapter 06 THE SPICE OF LIFE](/testi/chesterton/atomized/spice_of_life/chapter_06_the_spice_of_life)
-
 ## Testo integrale / Full text
 
 THE SPICE OF LIFE

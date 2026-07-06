@@ -48,10 +48,6 @@ tags:
 **Forms & Genres:** [[Elegy]], [[Satire]]
 **Settings:** [[Rural England]], [[Battlefield]], [[Court]]
 
-## Chapters / scenes / sections
-
-- [part 01](/testi/chesterton/atomized/elegy/part/part_01)
-
 ## Testo integrale / Full text
 
 Elegy in a Country Churchyard  

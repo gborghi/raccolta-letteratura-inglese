@@ -57,10 +57,6 @@ tags:
 **Forms & Genres:** [[Lyric]], [[Verse Epistle]]
 **Historical References:** [[Napoleonic Wars the Navy]], [[French Revolution]]
 
-## Chapters / scenes / sections
-
-- [part 01](/testi/chesterton/atomized/to-belloc/part/part_01)
-
 ## Testo integrale / Full text
 
 TO HILAIRE BELLOC  

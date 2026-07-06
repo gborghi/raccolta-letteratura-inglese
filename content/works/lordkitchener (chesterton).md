@@ -86,34 +86,6 @@ tags:
 **Forms & Genres:** [[Biography]], [[Sketch]], [[Elegy]]
 **Historical References:** [[First World War]], [[Islam and the East]], [[Crusades]], [[Irish Question]]
 
-## Chapters / scenes / sections
-
-- Story 01 ORD KITCHENER
-- Story 02 ORD KITCHENER
-- Story 03 A By reading or using any part of this P
-- Story 04 B Project Gutenberg is a registered trad
-- Story 05 C The Project Gutenberg Literary Archive
-- Story 06 D The copyright laws of the place where
-- Story 07 E Unless you have removed all references
-- Story 08 E 1 The following sentence with active l
-- Story 09 E 2 If an individual Project Gutenberg t
-- Story 10 E 3 If an individual Project Gutenberg t
-- Story 11 E 4 Do not unlink or detach or remove th
-- Story 12 E 5 Do not copy display perform distribu
-- Story 13 E 6 You may convert to and distribute th
-- Story 14 E 7 Do not charge a fee for access to vi
-- Story 15 E 8 You may charge a reasonable fee for
-- Story 16 E 9 If you wish to charge a fee or distr
-- Story 17 F 1 Project Gutenberg volunteers and emp
-- Story 18 F 2 LIMITED WARRANTY DISCLAIMER OF DAMAG
-- Story 19 ABILITY BREACH OF WARRANTY OR BREACH OF
-- Story 20 ABLE TO YOU FOR ACTUAL DIRECT INDIRECT C
-- Story 21 NCIDENTAL DAMAGES EVEN IF YOU GIVE NOTIC
-- Story 22 F 3 LIMITED RIGHT OF REPLACEMENT OR REFU
-- Story 23 F 4 Except for the limited right of repl
-- Story 24 F 5 Some states do not allow disclaimers
-- Story 25 F 6 INDEMNITY You agree to indemnify and
-
 ## Testo integrale / Full text
 
 The Project Gutenberg EBook of Lord Kitchener, by G. K. Chesterton

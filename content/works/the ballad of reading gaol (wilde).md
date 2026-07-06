@@ -68,16 +68,6 @@ tags:
 **Historical References:** [[Christianity]], [[Bible]], [[Regency Georgian England]]
 **Characters:** [[Christ]], [[Death Personified]]
 
-## Chapters / scenes / sections
-
-- [Section 01 part i](/testi/wilde/long/the_ballad_of_reading_gaol/section_01_part_i)
-- [Section 02 part ii](/testi/wilde/long/the_ballad_of_reading_gaol/section_02_part_ii)
-- [Section 03 part iii](/testi/wilde/long/the_ballad_of_reading_gaol/section_03_part_iii)
-- [Section 04 part iv](/testi/wilde/long/the_ballad_of_reading_gaol/section_04_part_iv)
-- [Section 05 part v](/testi/wilde/long/the_ballad_of_reading_gaol/section_05_part_v)
-- [Section 06 part vi](/testi/wilde/long/the_ballad_of_reading_gaol/section_06_part_vi)
-
-
 ## Testo integrale / Full text
 
 In memoriam of C. T. W.  

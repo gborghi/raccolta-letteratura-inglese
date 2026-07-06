@@ -110,67 +110,6 @@ tags:
 **Settings:** [[Rural England]]
 **Characters:** [[Emma Woodhouse]], [[Mr Knightley]], [[Harriet Smith]], [[Frank Churchill]], [[Jane Fairfax]], [[Mr Elton]], [[Robert Martin]], [[Miss Bates]]
 
-## Chapters / scenes / sections
-
-- [Chapter 01](/testi/austen/atomized/emma/chapter_01)
-- [Chapter 02](/testi/austen/atomized/emma/chapter_02)
-- [Chapter 03](/testi/austen/atomized/emma/chapter_03)
-- [Chapter 04](/testi/austen/atomized/emma/chapter_04)
-- [Chapter 05](/testi/austen/atomized/emma/chapter_05)
-- [Chapter 06](/testi/austen/atomized/emma/chapter_06)
-- [Chapter 07](/testi/austen/atomized/emma/chapter_07)
-- [Chapter 08](/testi/austen/atomized/emma/chapter_08)
-- [Chapter 09](/testi/austen/atomized/emma/chapter_09)
-- [Chapter 10](/testi/austen/atomized/emma/chapter_10)
-- [Chapter 11](/testi/austen/atomized/emma/chapter_11)
-- [Chapter 12](/testi/austen/atomized/emma/chapter_12)
-- [Chapter 13](/testi/austen/atomized/emma/chapter_13)
-- [Chapter 14](/testi/austen/atomized/emma/chapter_14)
-- [Chapter 15](/testi/austen/atomized/emma/chapter_15)
-- [Chapter 16](/testi/austen/atomized/emma/chapter_16)
-- [Chapter 17](/testi/austen/atomized/emma/chapter_17)
-- [Chapter 18](/testi/austen/atomized/emma/chapter_18)
-- [Chapter 19](/testi/austen/atomized/emma/chapter_19)
-- [Chapter 20](/testi/austen/atomized/emma/chapter_20)
-- [Chapter 21](/testi/austen/atomized/emma/chapter_21)
-- [Chapter 22](/testi/austen/atomized/emma/chapter_22)
-- [Chapter 23](/testi/austen/atomized/emma/chapter_23)
-- [Chapter 24](/testi/austen/atomized/emma/chapter_24)
-- [Chapter 25](/testi/austen/atomized/emma/chapter_25)
-- [Chapter 26](/testi/austen/atomized/emma/chapter_26)
-- [Chapter 27](/testi/austen/atomized/emma/chapter_27)
-- [Chapter 28](/testi/austen/atomized/emma/chapter_28)
-- [Chapter 29](/testi/austen/atomized/emma/chapter_29)
-- [Chapter 30](/testi/austen/atomized/emma/chapter_30)
-- [Chapter 31](/testi/austen/atomized/emma/chapter_31)
-- [Chapter 32](/testi/austen/atomized/emma/chapter_32)
-- [Chapter 33](/testi/austen/atomized/emma/chapter_33)
-- [Chapter 34](/testi/austen/atomized/emma/chapter_34)
-- [Chapter 35](/testi/austen/atomized/emma/chapter_35)
-- [Chapter 36](/testi/austen/atomized/emma/chapter_36)
-- [Chapter 37](/testi/austen/atomized/emma/chapter_37)
-- [Chapter 38](/testi/austen/atomized/emma/chapter_38)
-- [Chapter 39](/testi/austen/atomized/emma/chapter_39)
-- [Chapter 40](/testi/austen/atomized/emma/chapter_40)
-- [Chapter 41](/testi/austen/atomized/emma/chapter_41)
-- [Chapter 42](/testi/austen/atomized/emma/chapter_42)
-- [Chapter 43](/testi/austen/atomized/emma/chapter_43)
-- [Chapter 44](/testi/austen/atomized/emma/chapter_44)
-- [Chapter 45](/testi/austen/atomized/emma/chapter_45)
-- [Chapter 46](/testi/austen/atomized/emma/chapter_46)
-- [Chapter 47](/testi/austen/atomized/emma/chapter_47)
-- [Chapter 48](/testi/austen/atomized/emma/chapter_48)
-- [Chapter 49](/testi/austen/atomized/emma/chapter_49)
-- [Chapter 50](/testi/austen/atomized/emma/chapter_50)
-- [Chapter 51](/testi/austen/atomized/emma/chapter_51)
-- [Chapter 52](/testi/austen/atomized/emma/chapter_52)
-- [Chapter 53](/testi/austen/atomized/emma/chapter_53)
-- [Chapter 54](/testi/austen/atomized/emma/chapter_54)
-- [Chapter 55](/testi/austen/atomized/emma/chapter_55)
-- Chapter 56
-- Chapter 57
-
-
 ## Testo integrale / Full text
 
 Emma

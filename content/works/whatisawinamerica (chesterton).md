@@ -85,37 +85,6 @@ tags:
 **Forms & Genres:** [[Travel Writing]], [[Essay]], [[Satire]]
 **Historical References:** [[American Civil War]], [[Irish Question]], [[Puritanism]], [[French Revolution]], [[Industrial Revolution]]
 
-## Chapters / scenes / sections
-
-- Story 01 TED LONDON
-- Story 02 RISH AND OTHER INTERVIEWERS 47
-- Story 03 N THE AMERICAN COUNTRY 80
-- Story 04 S THE ATLANTIC NARROWING 208
-- Story 05 NCOLN AND LOST CAUSES 222
-- Story 06 A By reading or using any part of this P
-- Story 07 B Project Gutenberg is a registered trad
-- Story 08 C The Project Gutenberg Literary Archive
-- Story 09 D The copyright laws of the place where
-- Story 10 E Unless you have removed all references
-- Story 11 E 1 The following sentence with active l
-- Story 12 E 2 If an individual Project Gutenberg t
-- Story 13 E 3 If an individual Project Gutenberg t
-- Story 14 E 4 Do not unlink or detach or remove th
-- Story 15 E 5 Do not copy display perform distribu
-- Story 16 E 6 You may convert to and distribute th
-- Story 17 E 7 Do not charge a fee for access to vi
-- Story 18 E 8 You may charge a reasonable fee for
-- Story 19 E 9 If you wish to charge a fee or distr
-- Story 20 F 1 Project Gutenberg volunteers and emp
-- Story 21 F 2 LIMITED WARRANTY DISCLAIMER OF DAMAG
-- Story 22 ABILITY BREACH OF WARRANTY OR BREACH OF
-- Story 23 ABLE TO YOU FOR ACTUAL DIRECT INDIRECT C
-- Story 24 NCIDENTAL DAMAGES EVEN IF YOU GIVE NOTIC
-- Story 25 F 3 LIMITED RIGHT OF REPLACEMENT OR REFU
-- Story 26 F 4 Except for the limited right of repl
-- Story 27 F 5 Some states do not allow disclaimers
-- Story 28 F 6 INDEMNITY You agree to indemnify and
-
 ## Testo integrale / Full text
 
 The Project Gutenberg EBook of What I Saw in America, by G. K. Chesterton

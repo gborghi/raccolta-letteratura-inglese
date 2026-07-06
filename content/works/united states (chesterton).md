@@ -53,13 +53,6 @@ tags:
 **Forms & Genres:** [[Biography]]
 **Historical References:** [[First World War]], [[Catholic Church]]
 
-## Chapters / scenes / sections
-
-- [part 01](/testi/chesterton/atomized/united_states/part/part_01)
-- [part 02](/testi/chesterton/atomized/united_states/part/part_02)
-- [part 03](/testi/chesterton/atomized/united_states/part/part_03)
-- [part 04](/testi/chesterton/atomized/united_states/part/part_04)
-
 ## Testo integrale / Full text
 
 INTRODUCTION

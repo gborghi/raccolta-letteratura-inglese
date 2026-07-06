@@ -87,28 +87,6 @@ tags:
 **Historical References:** [[Christianity]], [[Classical Antiquity]], [[Irish Question]]
 **Characters:** [[Odysseus Ulysses]], [[Rudyard Kipling]], [[Bernard Shaw]], [[H. G. Wells]], [[George Moore]], [[Lowes Dickinson]], [[McCabe]], [[Whistler]], [[Omar Khayyam]]
 
-## Chapters / scenes / sections
-
-- [Story 01 Introductory Remarks on the Importance o](/testi/chesterton/atomized/heret12/story_01_introductory_remarks_on_the_importance_o)
-- [Story 02 On the Negative Spirit](/testi/chesterton/atomized/heret12/story_02_on_the_negative_spirit)
-- [Story 03 On Mr Rudyard Kipling and Making the Wor](/testi/chesterton/atomized/heret12/story_03_on_mr_rudyard_kipling_and_making_the_wor)
-- [Story 04 Mr Bernard Shaw](/testi/chesterton/atomized/heret12/story_04_mr_bernard_shaw)
-- [Story 05 Mr H G Wells and the Giants](/testi/chesterton/atomized/heret12/story_05_mr_h_g_wells_and_the_giants)
-- [Story 06 Omar and the Sacred Vine](/testi/chesterton/atomized/heret12/story_06_omar_and_the_sacred_vine)
-- [Story 07 The Mildness of the Yellow Press](/testi/chesterton/atomized/heret12/story_07_the_mildness_of_the_yellow_press)
-- [Story 08 The Moods of Mr George Moore](/testi/chesterton/atomized/heret12/story_08_the_moods_of_mr_george_moore)
-- [Story 09 On Sandals and Simplicity](/testi/chesterton/atomized/heret12/story_09_on_sandals_and_simplicity)
-- [Story 10 Science and the Savages](/testi/chesterton/atomized/heret12/story_10_science_and_the_savages)
-- [Story 11 Paganism and Mr Lowes Dickinson](/testi/chesterton/atomized/heret12/story_11_paganism_and_mr_lowes_dickinson)
-- [Story 12 Celts and Celtophiles](/testi/chesterton/atomized/heret12/story_12_celts_and_celtophiles)
-- [Story 13 On Certain Modern Writers and the Instit](/testi/chesterton/atomized/heret12/story_13_on_certain_modern_writers_and_the_instit)
-- [Story 14 On Smart Novelists and the Smart Set](/testi/chesterton/atomized/heret12/story_14_on_smart_novelists_and_the_smart_set)
-- [Story 15 On Mr McCabe and a Divine Frivolity](/testi/chesterton/atomized/heret12/story_15_on_mr_mccabe_and_a_divine_frivolity)
-- [Story 16 On the Wit of Whistler](/testi/chesterton/atomized/heret12/story_16_on_the_wit_of_whistler)
-- [Story 17 The Fallacy of the Young Nation](/testi/chesterton/atomized/heret12/story_17_the_fallacy_of_the_young_nation)
-- [Story 18 Slum Novelists and the Slums](/testi/chesterton/atomized/heret12/story_18_slum_novelists_and_the_slums)
-- [Story 19 Concluding Remarks on the Importance of](/testi/chesterton/atomized/heret12/story_19_concluding_remarks_on_the_importance_of)
-
 ## Testo integrale / Full text
 
 HERETICS

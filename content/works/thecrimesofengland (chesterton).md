@@ -104,19 +104,6 @@ tags:
 **Forms & Genres:** [[Essay]], [[Satire]], [[Apologetics]]
 **Historical References:** [[First World War]], [[Reformation]], [[French Revolution]], [[Napoleonic Wars the Navy]], [[Thirty Years' War]], [[Irish Question]], [[Catholic Church]]
 
-## Chapters / scenes / sections
-
-- [Chapter 01](/testi/chesterton/atomized/thecrimesofengland/chapter_01)
-- [Chapter 02](/testi/chesterton/atomized/thecrimesofengland/chapter_02)
-- [Chapter 03](/testi/chesterton/atomized/thecrimesofengland/chapter_03)
-- [Chapter 04](/testi/chesterton/atomized/thecrimesofengland/chapter_04)
-- [Chapter 05](/testi/chesterton/atomized/thecrimesofengland/chapter_05)
-- [Chapter 06](/testi/chesterton/atomized/thecrimesofengland/chapter_06)
-- [Chapter 07](/testi/chesterton/atomized/thecrimesofengland/chapter_07)
-- [Chapter 08](/testi/chesterton/atomized/thecrimesofengland/chapter_08)
-- [Chapter 09](/testi/chesterton/atomized/thecrimesofengland/chapter_09)
-- [Chapter 10](/testi/chesterton/atomized/thecrimesofengland/chapter_10)
-
 ## Testo integrale / Full text
 
 The Project Gutenberg EBook of The Crimes of England, by G.K. Chesterton

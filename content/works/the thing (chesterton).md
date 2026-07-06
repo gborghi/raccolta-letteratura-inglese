@@ -92,42 +92,6 @@ tags:
 **Forms & Genres:** [[Apologetics]], [[Essay]], [[Satire]]
 **Historical References:** [[Christianity]], [[Catholic Church]], [[Reformation]], [[Puritanism]], [[Islam]]
 
-## Chapters / scenes / sections
-
-- [Story 01 INTRODUCTION](/testi/chesterton/atomized/the_thing/story_01_introduction)
-- [Story 02 Is HUMANISM A RELIGION](/testi/chesterton/atomized/the_thing/story_02_is_humanism_a_religion)
-- [Story 03 THE DRIFT FROM DOMESTICITY](/testi/chesterton/atomized/the_thing/story_03_the_drift_from_domesticity)
-- Story 04 LOGIC AND LAWN TENNIS
-- [Story 05 OBSTINATE ORTHODOXY](/testi/chesterton/atomized/the_thing/story_05_obstinate_orthodoxy)
-- [Story 06 THE USUAL ARTICLE](/testi/chesterton/atomized/the_thing/story_06_the_usual_article)
-- [Story 07 WHY I AM A CATHOLIC](/testi/chesterton/atomized/the_thing/story_07_why_i_am_a_catholic)
-- [Story 08 WHAT DO THEY THINK](/testi/chesterton/atomized/the_thing/story_08_what_do_they_think)
-- [Story 09 THE MASK OF THE AGNOSTIC](/testi/chesterton/atomized/the_thing/story_09_the_mask_of_the_agnostic)
-- Story 10 THE EARLY BIRD IN HISTORY
-- Story 11 PROTESTANTISM A PROBLEM NOVEL
-- [Story 12 A SIMPLE THOUGHT](/testi/chesterton/atomized/the_thing/story_12_a_simple_thought)
-- [Story 13 THE CALL TO THE BARBARIANS](/testi/chesterton/atomized/the_thing/story_13_the_call_to_the_barbarians)
-- Story 14 ON THE NOVEL WITH A PURPOSE
-- [Story 15 THE REVOLT AGAINST IDEAS](/testi/chesterton/atomized/the_thing/story_15_the_revolt_against_ideas)
-- Story 16 THE FEASTS AND THE ASCETIC
-- [Story 17 WHO ARE THE CONSPIRATORS](/testi/chesterton/atomized/the_thing/story_17_who_are_the_conspirators)
-- [Story 18 THE HAT AND THE HALO](/testi/chesterton/atomized/the_thing/story_18_the_hat_and_the_halo)
-- [Story 19 ON TWO ALLEGORIES](/testi/chesterton/atomized/the_thing/story_19_on_two_allegories)
-- [Story 20 THE PROTESTANT SUPERSTITIONS](/testi/chesterton/atomized/the_thing/story_20_the_protestant_superstitions)
-- Story 21 ON COURAGE AND INDEPENDENCE
-- [Story 22 THE NORDIC HINDOO](/testi/chesterton/atomized/the_thing/story_22_the_nordic_hindoo)
-- Story 23 THE ROOTS OF SANITY
-- [Story 24 SOME OF OUR ERRORS](/testi/chesterton/atomized/the_thing/story_24_some_of_our_errors)
-- Story 25 THE SLAVERY OF THE MIND
-- [Story 26 INGE VERSUS BARNES](/testi/chesterton/atomized/the_thing/story_26_inge_versus_barnes)
-- [Story 27 WHAT WE THINK ABOUT](/testi/chesterton/atomized/the_thing/story_27_what_we_think_about)
-- Story 28 THE OPTIMIST AS A SUICIDE
-- [Story 29 THE OUTLINE OF THE FALL](/testi/chesterton/atomized/the_thing/story_29_the_outline_of_the_fall)
-- [Story 30 THE IDOLS OF SCOTLAND](/testi/chesterton/atomized/the_thing/story_30_the_idols_of_scotland)
-- [Story 31 IF THEY HAD BELIEVED](/testi/chesterton/atomized/the_thing/story_31_if_they_had_believed)
-- [Story 32 PEACE AND THE PAPACY](/testi/chesterton/atomized/the_thing/story_32_peace_and_the_papacy)
-- [Story 33 THE SPIRIT OF CHRISTMAS](/testi/chesterton/atomized/the_thing/story_33_the_spirit_of_christmas)
-
 ## Testo integrale / Full text
 
 G.K. Chesterton, The Thing

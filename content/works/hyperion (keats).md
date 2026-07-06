@@ -59,13 +59,6 @@ tags:
 **Historical References:** [[Greek Mythology]], [[Classical Antiquity]]
 **Characters:** [[Prometheus]], [[Hyperion]], [[Saturn]], [[Apollo]]
 
-## Chapters / scenes / sections
-
-- [Section 01 book i](/testi/keats/long/hyperion/section_01_book_i)
-- [Section 02 book ii](/testi/keats/long/hyperion/section_02_book_ii)
-- [Section 03 book iii](/testi/keats/long/hyperion/section_03_book_iii)
-
-
 ## Testo integrale / Full text
 
 ## HYPERION BOOK I

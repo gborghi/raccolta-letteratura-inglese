@@ -58,12 +58,6 @@ tags:
 **Historical References:** [[Catholic Church]]
 **Settings:** [[Medieval England (2)]], [[Italy]], [[Castle]], [[Paris]]
 
-## Chapters / scenes / sections
-
-- [part 01](/testi/chesterton/atomized/runabbot/part/part_01)
-- [part 02](/testi/chesterton/atomized/runabbot/part/part_02)
-- [part 03](/testi/chesterton/atomized/runabbot/part/part_03)
-
 ## Testo integrale / Full text
 
 The Runaway Abbot

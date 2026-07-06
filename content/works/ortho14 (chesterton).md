@@ -80,18 +80,6 @@ tags:
 **Forms & Genres:** [[Apologetics]], [[Fictional Autobiography]], [[Essay]]
 **Historical References:** [[Christianity]], [[Bible]], [[Classical Antiquity]], [[Crusades]], [[French Revolution]], [[Eastern Religion Comparative Religion]], [[Islam]]
 
-## Chapters / scenes / sections
-
-- Story 01 Introduction in Defence of Everything El
-- Story 02 The Maniac
-- Story 03 The Suicide of Thought
-- Story 04 The Ethics of Elfland
-- Story 05 The Flag of the World
-- Story 06 The Paradoxes of Christianity
-- Story 07 The Eternal Revolution
-- Story 08 The Romance of Orthodoxy
-- Story 09 Authority and the Adventurer
-
 ## Testo integrale / Full text
 
 ORTHODOXY

@@ -79,17 +79,6 @@ tags:
 **Themes & Concepts:** [[Paradox]], [[Ratiocination Detection]], [[Appearance vs Reality]], [[Deception]], [[Revenge]], [[Guilt]], [[Crime and Punishment]], [[Justice Right and Wrong]], [[Kingship and Legitimacy]], [[Self-Deception]], [[Fanaticism]], [[Power and Corruption]]
 **Forms & Genres:** [[Detective Fiction]], [[Short Story]], [[Fairy Tale Fantasy]], [[Melodrama]]
 
-## Chapters / scenes / sections
-
-- [Story 01 The Three Horsemen of Apocalypse](/testi/chesterton/atomized/mrpond/story_01_the_three_horsemen_of_apocalypse)
-- Story 02 The Crime of Captain Gahagan
-- Story 03 When Doctors Agree
-- Story 04 Pond the Pantaloon
-- Story 05 The Unmentionable Man
-- Story 06 Ring of Lovers
-- Story 07 The Terrible Troubadour
-- Story 08 A Tall Story
-
 ## Testo integrale / Full text
 
 A Project Gutenberg of Australia eBook

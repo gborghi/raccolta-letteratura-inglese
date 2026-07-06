@@ -39,10 +39,6 @@ tags:
 **Forms & Genres:** [[Epigram]], [[Satire]]
 **Historical References:** [[Christianity]], [[Catholic Church]]
 
-## Chapters / scenes / sections
-
-- [part 01](/testi/chesterton/atomized/broad_minded_bishop/part/part_01)
-
 ## Testo integrale / Full text
 
 A Broad Minded Bishop Rebukes The Verminous St. Francis  

@@ -54,10 +54,6 @@ tags:
 **Forms & Genres:** [[Ballad Ballade]]
 **Settings:** [[Rural England]]
 
-## Chapters / scenes / sections
-
-- [part 01](/testi/chesterton/atomized/rolling/part/part_01)
-
 ## Testo integrale / Full text
 
 The Rolling English Road  

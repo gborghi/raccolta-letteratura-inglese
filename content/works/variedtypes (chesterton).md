@@ -98,31 +98,6 @@ tags:
 **Forms & Genres:** [[Literary Criticism]], [[Essay]], [[Biography]], [[Satire]], [[Verse Drama]]
 **Historical References:** [[Regency Georgian England]], [[Puritanism]], [[Renaissance]], [[Christianity]], [[Napoleonic Wars the Navy]], [[Medieval England]], [[Danish Invasions]], [[Battle of Ethandun]], [[King Alfred]]
 
-## Chapters / scenes / sections
-
-- Story 01 Published September 1905
-- Story 02 G K C
-- Story 03 William Morris And His School
-- Story 04 Optimism Of Byron
-- Story 05 Pope And The Art Of Satire
-- Story 06 Francis
-- Story 07 Rostand
-- Story 08 Charles Ii
-- Story 09 Thomas Carlyle
-- Story 10 Tolstoy And The Cult Of Simplicity
-- Story 11 Savonarola
-- Story 12 The Position Of Sir Walter Scott
-- Story 13 Bret Harte
-- Story 14 Alfred The Great
-- Story 15 Maeterlinck
-- Story 16 Queen Victoria
-- Story 17 The German Emperor
-- Story 18 Tennyson
-- Story 19 Elizabeth Barrett Browning
-- Story 20 Please Read This Before You Distribute O
-- Story 21 1 E 9
-- Story 22 Damage
-
 ## Testo integrale / Full text
 
 The Project Gutenberg EBook of Varied Types, by G. K. Chesterton

@@ -75,18 +75,6 @@ tags:
 **Settings:** [[Enchanted Wood (2)]], [[Sea (2)]]
 **Characters:** [[Prince Prospero]], [[Miranda]], [[Ariel]], [[Caliban]], [[Ferdinand]], [[Antonio]], [[Alonso]], [[Gonzalo]], [[Stephano]], [[Trinculo]]
 
-## Chapters / scenes / sections
-
-- [Act_1 · Scene_1](/testi/shakespeare/plays/the_tempest/act_1/scene_1)
-- [Act_1 · Scene_2](/testi/shakespeare/plays/the_tempest/act_1/scene_2)
-- [Act_2 · Scene_1](/testi/shakespeare/plays/the_tempest/act_2/scene_1)
-- [Act_3 · Scene_1](/testi/shakespeare/plays/the_tempest/act_3/scene_1)
-- [Act_3 · Scene_2](/testi/shakespeare/plays/the_tempest/act_3/scene_2)
-- [Act_3 · Scene_3](/testi/shakespeare/plays/the_tempest/act_3/scene_3)
-- [Act_4 · Scene_1](/testi/shakespeare/plays/the_tempest/act_4/scene_1)
-- [Act_5 · Scene_1](/testi/shakespeare/plays/the_tempest/act_5/scene_1)
-
-
 ## Testo integrale / Full text
 
 

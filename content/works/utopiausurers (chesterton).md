@@ -76,20 +76,6 @@ tags:
 **Themes & Concepts:** [[Anti-Industrialism]], [[Distributism]], [[Power and Corruption]], [[Social Injustice]], [[Class Conflict]], [[Critique of Progress]], [[Slavery]], [[Crime and Punishment]], [[Satire of Society]], [[Freedom and Liberty]], [[Democracy]], [[Nationalism and Patriotism]], [[Eugenics]]
 **Forms & Genres:** [[Essay]]
 
-## Chapters / scenes / sections
-
-- Story 01 A Song of Swords
-- Story 02 Utopia of Usurers
-- Story 03 Art and Advertisement
-- Story 04 Letters and the New Laureates
-- Story 05 Unbusinesslike Business
-- Story 06 The War on Holidays
-- Story 07 The Church of the Servile State
-- Story 08 Science and the Eugenists
-- Story 09 The Evolution of the Prison
-- Story 10 The Lash for Labour
-- Story 11 The Mask of Socialism
-
 ## Testo integrale / Full text
 
 The Project Gutenberg EBook of Utopia of Usurers and other Essays, by

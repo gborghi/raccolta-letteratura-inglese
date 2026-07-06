@@ -50,10 +50,6 @@ tags:
 **Themes & Concepts:** [[Satire of Society]], [[Marriage and Fidelity]], [[Critique of Progress]], [[Identity]], [[Reform]], [[Procreation]], [[Waste Land (Sterility)]], [[Slavery]], [[Labor and Work]], [[Natural Order]], [[Freedom]]
 **Forms & Genres:** [[Essay]], [[Satire]]
 
-## Chapters / scenes / sections
-
-- [part 01](/testi/chesterton/atomized/sexlessness/part/part_01)
-
 ## Testo integrale / Full text
 
 The Equality of Sexlessness

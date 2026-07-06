@@ -40,11 +40,6 @@ tags:
 **Forms & Genres:** [[Essay]], [[Literary Criticism]], [[Problem Play]]
 **Historical References:** [[First World War]]
 
-## Chapters / scenes / sections
-
-- [part 01](/testi/chesterton/atomized/iln-1930-04-19/part/part_01)
-- [part 02](/testi/chesterton/atomized/iln-1930-04-19/part/part_02)
-
 ## Testo integrale / Full text
 
 Illustrated London News, April 19, 1930

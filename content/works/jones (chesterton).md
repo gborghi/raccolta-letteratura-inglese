@@ -48,10 +48,6 @@ tags:
 **Themes & Concepts:** [[Satire of Society]], [[Critique of Progress]], [[Power and Corruption]], [[Body]], [[Grotesque]], [[Freedom and Liberty]]
 **Forms & Genres:** [[Satire]], [[Narrative Poem]], [[Parody]], [[Comic Verse Song]]
 
-## Chapters / scenes / sections
-
-- [part 01](/testi/chesterton/atomized/jones/part/part_01)
-
 ## Testo integrale / Full text
 
 The Horrible History of Jones  

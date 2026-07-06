@@ -90,16 +90,6 @@ tags:
 **Historical References:** [[Industrial Revolution]], [[French Revolution]], [[Reformation]], [[Napoleonic Wars the Navy]], [[Regency Georgian England]]
 **Settings:** [[Rural England]], [[America]], [[London]]
 
-## Chapters / scenes / sections
-
-- [Chapter 01](/testi/chesterton/atomized/william_cobbett/chapter_01)
-- [Chapter 02](/testi/chesterton/atomized/william_cobbett/chapter_02)
-- [Chapter 03](/testi/chesterton/atomized/william_cobbett/chapter_03)
-- [Chapter 04](/testi/chesterton/atomized/william_cobbett/chapter_04)
-- [Chapter 05](/testi/chesterton/atomized/william_cobbett/chapter_05)
-- [Chapter 06](/testi/chesterton/atomized/william_cobbett/chapter_06)
-- [Chapter 07](/testi/chesterton/atomized/william_cobbett/chapter_07)
-
 ## Testo integrale / Full text
 
 WILLIAM COBBETT

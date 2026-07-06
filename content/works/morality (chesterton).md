@@ -55,10 +55,6 @@ tags:
 **Themes & Concepts:** [[Paradox]], [[Wonder and Gratitude]], [[Humility]], [[Grace and Redemption]], [[Reform]], [[War and its Cost]], [[Anti-Industrialism]], [[Faith]], [[Common Man]], [[Charity]], [[Value and Scarcity]]
 **Forms & Genres:** [[Essay]], [[Apologetics]]
 
-## Chapters / scenes / sections
-
-- [part 01](/testi/chesterton/atomized/morality/part/part_01)
-
 ## Testo integrale / Full text
 
 Negative and Positive Morality

@@ -78,14 +78,6 @@ tags:
 **Forms & Genres:** [[Essay]]
 **Historical References:** [[First World War]], [[King Alfred]], [[Danish Invasions]], [[French Revolution]], [[Napoleonic Wars the Navy]], [[Islam and the East]], [[Roman History]], [[Renaissance]], [[Christianity]], [[Ancient Greece]], [[Bible]], [[Kaiser Wilhelm II]], [[Frederick the Great]], [[Friedrich Nietzsche]], [[Houston Stewart Chamberlain]], [[Michelangelo]]
 
-## Chapters / scenes / sections
-
-- [Chapter 01](/testi/chesterton/atomized/theappoftyranny/chapter_01)
-- [Chapter 02](/testi/chesterton/atomized/theappoftyranny/chapter_02)
-- [Chapter 03](/testi/chesterton/atomized/theappoftyranny/chapter_03)
-- [Chapter 04](/testi/chesterton/atomized/theappoftyranny/chapter_04)
-- [Chapter 05](/testi/chesterton/atomized/theappoftyranny/chapter_05)
-
 ## Testo integrale / Full text
 
 The Project Gutenberg EBook of The Appetite of Tyranny, by G.K. Chesterton

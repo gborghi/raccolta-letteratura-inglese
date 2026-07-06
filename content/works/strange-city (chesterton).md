@@ -52,10 +52,6 @@ tags:
 **Themes & Concepts:** [[Truth]], [[Imagination]], [[Faith]], [[Paradox]], [[Wonder and Gratitude]], [[Power of Language]], [[One Life (Pantheism)]], [[Heaven and the Afterlife]], [[Natural Order]], [[Eternity]], [[Beauty]], [[Paganism and Classical Revival]], [[Appearance vs Reality]]
 **Forms & Genres:** [[Essay]], [[Literary Criticism]]
 
-## Chapters / scenes / sections
-
-- [part 01](/testi/chesterton/atomized/strange-city/part/part_01)
-
 ## Testo integrale / Full text
 
 Concerning a Strange City

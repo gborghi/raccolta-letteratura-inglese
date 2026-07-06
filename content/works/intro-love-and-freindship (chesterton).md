@@ -59,12 +59,6 @@ tags:
 **Themes & Concepts:** [[Artist and Society]], [[Imagination]], [[Joy]], [[Satire of Society]], [[Individualism]], [[Greatness]], [[Literary Criticism (2)]]
 **Forms & Genres:** [[Literary Criticism]], [[Essay]], [[Satire]], [[Parody]], [[Epistolary Diary Novel]]
 
-## Chapters / scenes / sections
-
-- [part 01](/testi/chesterton/atomized/intro-love-and-freindship/part/part_01)
-- [part 02](/testi/chesterton/atomized/intro-love-and-freindship/part/part_02)
-- [part 03](/testi/chesterton/atomized/intro-love-and-freindship/part/part_03)
-
 ## Testo integrale / Full text
 
 Introduction to Jane Austen's "Love and Freindship",

@@ -72,18 +72,6 @@ tags:
 **Forms & Genres:** [[Essay]]
 **Historical References:** [[Catholic Church]], [[Reformation]], [[First World War]], [[Irish Question]]
 
-## Chapters / scenes / sections
-
-- [Chapter 01](/testi/chesterton/atomized/divorce/chapter_01)
-- [Chapter 02](/testi/chesterton/atomized/divorce/chapter_02)
-- [Chapter 03](/testi/chesterton/atomized/divorce/chapter_03)
-- [Chapter 04](/testi/chesterton/atomized/divorce/chapter_04)
-- [Chapter 05](/testi/chesterton/atomized/divorce/chapter_05)
-- [Chapter 06](/testi/chesterton/atomized/divorce/chapter_06)
-- [Chapter 07](/testi/chesterton/atomized/divorce/chapter_07)
-- [Chapter 08](/testi/chesterton/atomized/divorce/chapter_08)
-- [Chapter 09](/testi/chesterton/atomized/divorce/chapter_09)
-
 ## Testo integrale / Full text
 
 The Superstition of Divorce

@@ -50,10 +50,6 @@ tags:
 **Historical References:** [[Arthurian Legend]]
 **Characters:** [[King Arthur]]
 
-## Chapters / scenes / sections
-
-- [part 01](/testi/chesterton/atomized/arthur/part/part_01)
-
 ## Testo integrale / Full text
 
 "The Myth of Arthur"  

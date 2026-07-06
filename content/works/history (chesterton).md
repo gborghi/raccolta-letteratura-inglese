@@ -135,27 +135,6 @@ tags:
 **Historical References:** [[Medieval England]], [[Crusades]], [[Reformation]], [[Industrial Revolution]], [[Christianity]], [[Catholic Church]], [[Wars of the Roses]], [[Ancient Rome]], [[French Revolution]], [[Renaissance]], [[Puritanism]], [[Elizabethan England]], [[Napoleonic Wars the Navy]], [[First World War]], [[Islam]], [[Grail Legend]], [[Arthurian Legend]], [[Danish Invasions]], [[Battle of Ethandun]], [[Regency Georgian England]], [[Irish Question]], [[Thirty Years' War]]
 **Settings:** [[Medieval England (2)]], [[Rural England]], [[Scotland the Highlands]], [[Germany]], [[London]]
 
-## Chapters / scenes / sections
-
-- [Chapter 01](/testi/chesterton/atomized/history/chapter_01)
-- [Chapter 02](/testi/chesterton/atomized/history/chapter_02)
-- [Chapter 03](/testi/chesterton/atomized/history/chapter_03)
-- [Chapter 04](/testi/chesterton/atomized/history/chapter_04)
-- [Chapter 05](/testi/chesterton/atomized/history/chapter_05)
-- [Chapter 06](/testi/chesterton/atomized/history/chapter_06)
-- [Chapter 07](/testi/chesterton/atomized/history/chapter_07)
-- [Chapter 08](/testi/chesterton/atomized/history/chapter_08)
-- [Chapter 09](/testi/chesterton/atomized/history/chapter_09)
-- [Chapter 10](/testi/chesterton/atomized/history/chapter_10)
-- [Chapter 11](/testi/chesterton/atomized/history/chapter_11)
-- [Chapter 12](/testi/chesterton/atomized/history/chapter_12)
-- [Chapter 13](/testi/chesterton/atomized/history/chapter_13)
-- [Chapter 14](/testi/chesterton/atomized/history/chapter_14)
-- [Chapter 15](/testi/chesterton/atomized/history/chapter_15)
-- [Chapter 16](/testi/chesterton/atomized/history/chapter_16)
-- [Chapter 17](/testi/chesterton/atomized/history/chapter_17)
-- [Chapter 18](/testi/chesterton/atomized/history/chapter_18)
-
 ## Testo integrale / Full text
 
 G.K. Chesterton, A Short History of England, 1917.

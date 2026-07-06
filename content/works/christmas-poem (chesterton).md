@@ -54,10 +54,6 @@ tags:
 **Settings:** [[Inn]]
 **Characters:** [[Virgin Mary]], [[Christ]]
 
-## Chapters / scenes / sections
-
-- [part 01](/testi/chesterton/atomized/christmas-poem/part/part_01)
-
 ## Testo integrale / Full text
 
 Christmas Poem  

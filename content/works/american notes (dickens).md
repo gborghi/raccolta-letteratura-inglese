@@ -67,29 +67,6 @@ tags:
 **Forms & Genres:** [[Travel Writing]], [[Essay]], [[Satire]]
 **Settings:** [[Ship]], [[Italy]]
 
-## Chapters / scenes / sections
-
-- [Chapter 01](/testi/dickens/atomized/american_notes/chapter_01)
-- [Chapter 02](/testi/dickens/atomized/american_notes/chapter_02)
-- [Chapter 03](/testi/dickens/atomized/american_notes/chapter_03)
-- [Chapter 04](/testi/dickens/atomized/american_notes/chapter_04)
-- [Chapter 05](/testi/dickens/atomized/american_notes/chapter_05)
-- [Chapter 06](/testi/dickens/atomized/american_notes/chapter_06)
-- [Chapter 07](/testi/dickens/atomized/american_notes/chapter_07)
-- [Chapter 08](/testi/dickens/atomized/american_notes/chapter_08)
-- [Chapter 09](/testi/dickens/atomized/american_notes/chapter_09)
-- [Chapter 10](/testi/dickens/atomized/american_notes/chapter_10)
-- [Chapter 11](/testi/dickens/atomized/american_notes/chapter_11)
-- [Chapter 12](/testi/dickens/atomized/american_notes/chapter_12)
-- [Chapter 13](/testi/dickens/atomized/american_notes/chapter_13)
-- [Chapter 14](/testi/dickens/atomized/american_notes/chapter_14)
-- [Chapter 15](/testi/dickens/atomized/american_notes/chapter_15)
-- [Chapter 16](/testi/dickens/atomized/american_notes/chapter_16)
-- [Chapter 17](/testi/dickens/atomized/american_notes/chapter_17)
-- [Chapter 18](/testi/dickens/atomized/american_notes/chapter_18)
-- [Chapter 19](/testi/dickens/atomized/american_notes/chapter_19)
-
-
 ## Testo integrale / Full text
 
 CIRCULATION***

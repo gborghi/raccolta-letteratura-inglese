@@ -54,10 +54,6 @@ tags:
 **Historical References:** [[Christianity]], [[Bible]], [[Litany of Loreto]]
 **Characters:** [[Virgin Mary]], [[Christ]]
 
-## Chapters / scenes / sections
-
-- [part 01](/testi/chesterton/atomized/litany/part/part_01)
-
 ## Testo integrale / Full text
 
 A LITTLE LITANY  

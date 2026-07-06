@@ -63,12 +63,6 @@ tags:
 **Themes & Concepts:** [[Social Injustice]], [[Class Conflict]], [[Poverty]], [[Reform]], [[Power and Corruption]], [[Distributism]], [[Common Man]], [[Critique of Progress]], [[Money and Avarice]], [[Slavery]], [[Labor and Work]], [[Freedom]], [[Procreation]], [[Paradox]], [[Democracy]], [[Charity]]
 **Forms & Genres:** [[Essay]], [[Satire]]
 
-## Chapters / scenes / sections
-
-- [part 01](/testi/chesterton/atomized/social_reform_bc/part/part_01)
-- [part 02](/testi/chesterton/atomized/social_reform_bc/part/part_02)
-- [part 03](/testi/chesterton/atomized/social_reform_bc/part/part_03)
-
 ## Testo integrale / Full text
 
 Social Reform versus Birth Control

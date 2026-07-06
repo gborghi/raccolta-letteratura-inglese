@@ -59,11 +59,6 @@ tags:
 **Forms & Genres:** [[Short Story]], [[Satire]], [[Parody]]
 **Settings:** [[London]]
 
-## Chapters / scenes / sections
-
-- [part 01](/testi/chesterton/atomized/hifts/part/part_01)
-- [part 02](/testi/chesterton/atomized/hifts/part/part_02)
-
 ## Testo integrale / Full text
 
 How I Found the Superman

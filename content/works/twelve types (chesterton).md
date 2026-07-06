@@ -107,20 +107,6 @@ tags:
 **Themes & Concepts:** [[Identity]], [[Artist and Society]], [[Heroism]], [[Faith]], [[Paradox]], [[Democracy]], [[Doubt]], [[Greatness]], [[Power of Language]], [[Asceticism]], [[Optimism and Pessimism]], [[Cult of Simplicity]], [[The Spirit of Romance]]
 **Forms & Genres:** [[Literary Criticism]], [[Biography]], [[Essay]], [[Satire]], [[Comedy]], [[Verse Drama]]
 
-## Chapters / scenes / sections
-
-- [Story 01 CHARLOTTE BRONTE](/testi/chesterton/atomized/twelve_types/story_01_charlotte_bronte)
-- [Story 02 WILLIAM MORRIS AND HIS SCHOOL](/testi/chesterton/atomized/twelve_types/story_02_william_morris_and_his_school)
-- [Story 03 THE OPTIMISM OF BYRON](/testi/chesterton/atomized/twelve_types/story_03_the_optimism_of_byron)
-- Story 04 POPE AND THE ART OF SATIRE
-- [Story 05 FRANCIS](/testi/chesterton/atomized/twelve_types/story_05_francis)
-- [Story 06 ROSTAND](/testi/chesterton/atomized/twelve_types/story_06_rostand)
-- [Story 07 CHARLES II](/testi/chesterton/atomized/twelve_types/story_07_charles_ii)
-- [Story 08 THOMAS CARLYLE](/testi/chesterton/atomized/twelve_types/story_08_thomas_carlyle)
-- Story 09 TOLSTOY AND THE CULT OF SIMPLICITY
-- [Story 10 SAVONAROLA](/testi/chesterton/atomized/twelve_types/story_10_savonarola)
-- [Story 11 THE POSITION OF SIR WALTER SCOTT](/testi/chesterton/atomized/twelve_types/story_11_the_position_of_sir_walter_scott)
-
 ## Testo integrale / Full text
 
 The Project Gutenberg EBook of Twelve Types, by G.K. Chesterton

@@ -48,10 +48,6 @@ tags:
 **Themes & Concepts:** [[Mortality]], [[Transience]], [[Common Man]], [[Humility]], [[Wonder]], [[Democracy]], [[Ambition]]
 **Forms & Genres:** [[Lyric]]
 
-## Chapters / scenes / sections
-
-- [part 01](/testi/chesterton/atomized/gold-leaves/part/part_01)
-
 ## Testo integrale / Full text
 
 Gold Leaves  

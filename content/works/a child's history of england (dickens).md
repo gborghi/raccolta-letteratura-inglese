@@ -59,18 +59,6 @@ tags:
 **Historical References:** [[Industrial Revolution]], [[Regency Georgian England]]
 **Settings:** [[Industrial City]]
 
-## Chapters / scenes / sections
-
-- Story 01 UDFOG is a pleasant towna remarkably ple
-- Story 02 OACH HOUSE PIG AND TINDER BOX
-- Story 03 OACH HOUSE ORIGINAL PIG
-- Story 04 N October last we did ourselves the immo
-- Story 05 ARGE ROOM BOOT JACK AND COUNTENANCE
-- Story 06 R ROBERT BOLTON
-- Story 07 N the parlour of the Green Dragon a publ
-- Story 08 Y CHILD
-
-
 ## Testo integrale / Full text
 
 Transcribed from the 1903 Chapman and Hall _Sketches by Boz_ edition by

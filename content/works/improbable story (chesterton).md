@@ -58,11 +58,6 @@ tags:
 **Forms & Genres:** [[Short Story]], [[Allegory]], [[Parable]]
 **Settings:** [[London]], [[Modern Metropolis]]
 
-## Chapters / scenes / sections
-
-- [part 01](/testi/chesterton/atomized/improbable_story/part/part_01)
-- [part 02](/testi/chesterton/atomized/improbable_story/part/part_02)
-
 ## Testo integrale / Full text
 
 A Somewhat Improbable Story

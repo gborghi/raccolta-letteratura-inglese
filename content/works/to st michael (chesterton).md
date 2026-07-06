@@ -51,10 +51,6 @@ tags:
 **Historical References:** [[Bible]], [[Christianity]]
 **Characters:** [[Satan]], [[Michael]], [[Christ]]
 
-## Chapters / scenes / sections
-
-- [part 01](/testi/chesterton/atomized/to_st_michael/part/part_01)
-
 ## Testo integrale / Full text
 
 To St. Michael in Time of Peace  

@@ -54,10 +54,6 @@ tags:
 **Historical References:** [[Christianity]], [[Bible]]
 **Characters:** [[Christ]], [[God]]
 
-## Chapters / scenes / sections
-
-- [part 01](/testi/chesterton/atomized/prayer/part/part_01)
-
 ## Testo integrale / Full text
 
 A Prayer in Darkness  

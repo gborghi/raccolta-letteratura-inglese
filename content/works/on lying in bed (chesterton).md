@@ -44,11 +44,6 @@ tags:
 **Themes & Concepts:** [[Paradox]], [[Satire of Society]], [[Heroism]], [[Imagination]], [[Critique of Progress]], [[Indolence]], [[Common Man]], [[Conformity vs Individualism]], [[Freedom]]
 **Forms & Genres:** [[Essay]]
 
-## Chapters / scenes / sections
-
-- [part 01](/testi/chesterton/atomized/on_lying_in_bed/part/part_01)
-- [part 02](/testi/chesterton/atomized/on_lying_in_bed/part/part_02)
-
 ## Testo integrale / Full text
 
 On Lying in Bed

@@ -99,24 +99,6 @@ tags:
 **Historical References:** [[Regency Georgian England]], [[Industrial Revolution]], [[America]], [[French Revolution]]
 **Settings:** [[London]]
 
-## Chapters / scenes / sections
-
-- [Chapter 01](/testi/chesterton/atomized/charlesdickens/chapter_01)
-- [Chapter 02](/testi/chesterton/atomized/charlesdickens/chapter_02)
-- [Chapter 03](/testi/chesterton/atomized/charlesdickens/chapter_03)
-- [Chapter 04](/testi/chesterton/atomized/charlesdickens/chapter_04)
-- [Chapter 05](/testi/chesterton/atomized/charlesdickens/chapter_05)
-- [Chapter 06](/testi/chesterton/atomized/charlesdickens/chapter_06)
-- [Chapter 07](/testi/chesterton/atomized/charlesdickens/chapter_07)
-- [Chapter 08](/testi/chesterton/atomized/charlesdickens/chapter_08)
-- [Chapter 09](/testi/chesterton/atomized/charlesdickens/chapter_09)
-- [Chapter 10](/testi/chesterton/atomized/charlesdickens/chapter_10)
-- [Chapter 11](/testi/chesterton/atomized/charlesdickens/chapter_11)
-- [Chapter 12](/testi/chesterton/atomized/charlesdickens/chapter_12)
-- [Chapter 13](/testi/chesterton/atomized/charlesdickens/chapter_13)
-- [Chapter 14](/testi/chesterton/atomized/charlesdickens/chapter_14)
-- [Chapter 15](/testi/chesterton/atomized/charlesdickens/chapter_15)
-
 ## Testo integrale / Full text
 
 ----------------------------------------------------------------------------

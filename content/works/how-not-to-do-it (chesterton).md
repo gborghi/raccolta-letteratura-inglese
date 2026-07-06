@@ -44,10 +44,6 @@ tags:
 **Themes & Concepts:** [[Distributism]], [[Class Conflict]], [[Reform]], [[Critique of Progress]], [[Honour]], [[Freedom and Liberty]], [[Individualism]], [[Money and Avarice]]
 **Forms & Genres:** [[Essay]]
 
-## Chapters / scenes / sections
-
-- [part 01](/testi/chesterton/atomized/how-not-to-do-it/part/part_01)
-
 ## Testo integrale / Full text
 
 How Not To Do It

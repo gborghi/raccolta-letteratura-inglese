@@ -44,10 +44,6 @@ tags:
 **Themes & Concepts:** [[Satire of Society]], [[Critique of Progress]], [[Appearance vs Reality]], [[Power of Language]], [[Nationalism and Patriotism]]
 **Forms & Genres:** [[Ballad Ballade]], [[Satire]]
 
-## Chapters / scenes / sections
-
-- [part 01](/testi/chesterton/atomized/ballad_of_abbreviations/part/part_01)
-
 ## Testo integrale / Full text
 
 A BALLAD OF ABBREVIATIONS  

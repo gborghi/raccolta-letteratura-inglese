@@ -49,10 +49,6 @@ tags:
 **Forms & Genres:** [[Lyric]], [[Ballad Ballade]]
 **Historical References:** [[Bible]]
 
-## Chapters / scenes / sections
-
-- [part 01](/testi/chesterton/atomized/deluge/part/part_01)
-
 ## Testo integrale / Full text
 
 The Deluge  

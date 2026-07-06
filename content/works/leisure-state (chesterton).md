@@ -48,11 +48,6 @@ tags:
 **Forms & Genres:** [[Essay]]
 **Historical References:** [[Industrial Revolution]], [[Bolshevism and the Russian Revolution]], [[H.G. Wells's The World Set Free]]
 
-## Chapters / scenes / sections
-
-- [part 01](/testi/chesterton/atomized/leisure-state/part/part_01)
-- [part 02](/testi/chesterton/atomized/leisure-state/part/part_02)
-
 ## Testo integrale / Full text
 
 The Ideal of a Leisure State

@@ -45,11 +45,6 @@ tags:
 **Themes & Concepts:** [[Paradox]], [[Imagination]], [[Truth]], [[Artist and Society]], [[Satire of Society]], [[Power of Language]], [[Creative Sterility]], [[Nonsense]]
 **Forms & Genres:** [[Essay]], [[Literary Criticism]], [[Aphorism]], [[Epigram]]
 
-## Chapters / scenes / sections
-
-- [part 01](/testi/chesterton/atomized/two_kinds_of_paradox/part/part_01)
-- [part 02](/testi/chesterton/atomized/two_kinds_of_paradox/part/part_02)
-
 ## Testo integrale / Full text
 
 Two Kinds of Paradox

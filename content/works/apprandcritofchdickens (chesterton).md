@@ -174,12 +174,6 @@ tags:
 **Forms & Genres:** [[Literary Criticism]], [[Essay]], [[Satire]], [[Detective Fiction]], [[Melodrama]], [[Historical Novel]], [[Bildungsroman]], [[Travel Writing]], [[Fairy Tale Fantasy]], [[Novel]]
 **Historical References:** [[French Revolution]], [[Regency Georgian England]], [[Industrial Revolution]], [[Puritanism]]
 
-## Chapters / scenes / sections
-
-- [Chapter 01 PAGE](/testi/chesterton/atomized/apprandcritofchdickens/chapter_01_page)
-- Chapter 02 desire to say as little as pos
-- Chapter 03 celebrated characters who are
-
 ## Testo integrale / Full text
 
 The Project Gutenberg EBook of Appreciations and Criticisms of the Works

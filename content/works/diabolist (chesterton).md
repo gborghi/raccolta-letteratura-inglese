@@ -57,11 +57,6 @@ tags:
 **Themes & Concepts:** [[Good vs Evil]], [[Temptation]], [[Conscience]], [[Conversion]], [[Faith and Doubt]], [[Sin and the Fall]], [[Terror and Horror]], [[Paradox]], [[Despair]], [[Unseen The Hidden]]
 **Forms & Genres:** [[Essay]], [[Fictional Autobiography]], [[Apologetics]]
 
-## Chapters / scenes / sections
-
-- [part 01](/testi/chesterton/atomized/diabolist/part/part_01)
-- [part 02](/testi/chesterton/atomized/diabolist/part/part_02)
-
 ## Testo integrale / Full text
 
 The Diabolist

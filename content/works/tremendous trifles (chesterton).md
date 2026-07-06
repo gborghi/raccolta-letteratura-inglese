@@ -112,49 +112,6 @@ tags:
 **Forms & Genres:** [[Essay]], [[Satire]], [[Travel Writing]], [[Ballad Ballade]], [[Sketch]]
 **Settings:** [[London]], [[Paris]], [[Continental Europe (Brussels)]]
 
-## Chapters / scenes / sections
-
-- [Chapter 01](/testi/chesterton/atomized/tremendous_trifles/chapter_01)
-- [Chapter 02](/testi/chesterton/atomized/tremendous_trifles/chapter_02)
-- [Chapter 03](/testi/chesterton/atomized/tremendous_trifles/chapter_03)
-- [Chapter 04](/testi/chesterton/atomized/tremendous_trifles/chapter_04)
-- [Chapter 05](/testi/chesterton/atomized/tremendous_trifles/chapter_05)
-- [Chapter 06](/testi/chesterton/atomized/tremendous_trifles/chapter_06)
-- [Chapter 07](/testi/chesterton/atomized/tremendous_trifles/chapter_07)
-- [Chapter 08](/testi/chesterton/atomized/tremendous_trifles/chapter_08)
-- [Chapter 09](/testi/chesterton/atomized/tremendous_trifles/chapter_09)
-- [Chapter 10](/testi/chesterton/atomized/tremendous_trifles/chapter_10)
-- [Chapter 11](/testi/chesterton/atomized/tremendous_trifles/chapter_11)
-- [Chapter 12](/testi/chesterton/atomized/tremendous_trifles/chapter_12)
-- [Chapter 13](/testi/chesterton/atomized/tremendous_trifles/chapter_13)
-- [Chapter 14](/testi/chesterton/atomized/tremendous_trifles/chapter_14)
-- [Chapter 15](/testi/chesterton/atomized/tremendous_trifles/chapter_15)
-- [Chapter 16](/testi/chesterton/atomized/tremendous_trifles/chapter_16)
-- [Chapter 17](/testi/chesterton/atomized/tremendous_trifles/chapter_17)
-- [Chapter 18](/testi/chesterton/atomized/tremendous_trifles/chapter_18)
-- [Chapter 19](/testi/chesterton/atomized/tremendous_trifles/chapter_19)
-- [Chapter 20](/testi/chesterton/atomized/tremendous_trifles/chapter_20)
-- [Chapter 21](/testi/chesterton/atomized/tremendous_trifles/chapter_21)
-- [Chapter 22](/testi/chesterton/atomized/tremendous_trifles/chapter_22)
-- [Chapter 23](/testi/chesterton/atomized/tremendous_trifles/chapter_23)
-- [Chapter 24](/testi/chesterton/atomized/tremendous_trifles/chapter_24)
-- [Chapter 25](/testi/chesterton/atomized/tremendous_trifles/chapter_25)
-- [Chapter 26](/testi/chesterton/atomized/tremendous_trifles/chapter_26)
-- [Chapter 27](/testi/chesterton/atomized/tremendous_trifles/chapter_27)
-- [Chapter 28](/testi/chesterton/atomized/tremendous_trifles/chapter_28)
-- [Chapter 29](/testi/chesterton/atomized/tremendous_trifles/chapter_29)
-- [Chapter 30](/testi/chesterton/atomized/tremendous_trifles/chapter_30)
-- [Chapter 31](/testi/chesterton/atomized/tremendous_trifles/chapter_31)
-- [Chapter 32](/testi/chesterton/atomized/tremendous_trifles/chapter_32)
-- [Chapter 33](/testi/chesterton/atomized/tremendous_trifles/chapter_33)
-- [Chapter 34](/testi/chesterton/atomized/tremendous_trifles/chapter_34)
-- [Chapter 35](/testi/chesterton/atomized/tremendous_trifles/chapter_35)
-- [Chapter 36](/testi/chesterton/atomized/tremendous_trifles/chapter_36)
-- [Chapter 37](/testi/chesterton/atomized/tremendous_trifles/chapter_37)
-- [Chapter 38](/testi/chesterton/atomized/tremendous_trifles/chapter_38)
-- [Chapter 39](/testi/chesterton/atomized/tremendous_trifles/chapter_39)
-- [Chapter 40](/testi/chesterton/atomized/tremendous_trifles/chapter_40)
-
 ## Testo integrale / Full text
 
 Tremendous Trifles

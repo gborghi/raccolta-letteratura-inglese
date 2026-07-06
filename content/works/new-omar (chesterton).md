@@ -51,10 +51,6 @@ tags:
 **Forms & Genres:** [[Parody]], [[Epigram]], [[Satire]]
 **Historical References:** [[Eastern Religion Comparative Religion]], [[Puritanism]]
 
-## Chapters / scenes / sections
-
-- [part 01](/testi/chesterton/atomized/new-omar/part/part_01)
-
 ## Testo integrale / Full text
 
 THE NEW OMAR  

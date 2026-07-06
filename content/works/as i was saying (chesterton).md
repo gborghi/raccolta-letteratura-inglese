@@ -83,54 +83,6 @@ tags:
 **Forms & Genres:** [[Essay]], [[Satire]], [[Literary Criticism]]
 **Historical References:** [[Christianity]], [[Puritanism]], [[Voltaire]], [[Frederick the Great]], [[Samuel Taylor Coleridge]], [[George Meredith]], [[William Morris]], [[Darwinism]]
 
-## Chapters / scenes / sections
-
-- [Story 01 ABOUT MAD METAPHORS](/testi/chesterton/atomized/as_i_was_saying/story_01_about_mad_metaphors)
-- Story 02 ABOUT LOVING GERMANS
-- Story 03 ABOUT IMPENITENCE
-- Story 04 ABOUT TRAFFIC
-- Story 05 ABOUT THE CENSOR
-- Story 06 ABOUT SHAMELESSNESS
-- Story 07 ABOUT PURITANISM
-- Story 08 ABOUT SIR JAMES JEANS
-- Story 09 ABOUT VOLTAIRE
-- Story 10 ABOUT BELIEFS
-- Story 11 ABOUT MODERN GIRLS
-- Story 12 ABOUT POETRY
-- Story 13 ABOUT BLONDES
-- Story 14 ABOUT S T C
-- Story 15 ABOUT THE PAST
-- Story 16 ABOUT MEREDITH
-- Story 17 ABOUT POLITICAL CREEDS
-- Story 18 ABOUT SHIRTS
-- Story 19 ABOUT WHITE FRONTS
-- Story 20 ABOUT IMPERMANENCE
-- Story 21 ABOUT MORRIS
-- Story 22 ABOUT WIDOWS
-- Story 23 ABOUT RELATIVITY
-- Story 24 ABOUT CHANGING HUMAN NATURE
-- Story 25 ABOUT HISTORIANS
-- Story 26 ABOUT BAD COMPARISONS
-- Story 27 ABOUT CHANGE
-- Story 28 ABOUT THE WORKERS
-- Story 29 ABOUT EDUCATION
-- Story 30 ABOUT THE TELEPHONE
-- Story 31 ABOUT THE FILMS
-- Story 32 ABOUT DARWINISM
-- Story 33 ABOUT SHOCKERS
-- Story 34 ABOUT BEGGARS AND SOLDIERS
-- Story 35 ABOUT SACRIFICE
-- Story 36 ABOUT ROYAL WEDDINGS
-- Story 37 N dealing with such things as Prohibitio
-- Story 38 HAPPENED to meet again recently after ma
-- Story 39 CONFESS that to me the celebration of th
-- Story 40 ANY modern debates are still revolving r
-- Story 41 T is often said truly though perhaps not
-- Story 42 READ a chance phrase in a daily paper th
-- Story 43 T is well that students sternly devoted
-- Story 44 T amuses me to think that amid all the i
-- Story 45 MAY explain that I am one of the people
-
 ## Testo integrale / Full text
 
 As I Was Saying G. K. Chesterton Contents

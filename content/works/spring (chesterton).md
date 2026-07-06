@@ -52,10 +52,6 @@ tags:
 **Historical References:** [[Christianity]], [[Bible]]
 **Characters:** [[Christ]], [[Virgin Mary]]
 
-## Chapters / scenes / sections
-
-- [part 01](/testi/chesterton/atomized/spring/part/part_01)
-
 ## Testo integrale / Full text
 
 Second Spring  

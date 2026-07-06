@@ -97,44 +97,6 @@ tags:
 **Settings:** [[Rural England]]
 **Characters:** [[Heathcliff]], [[Catherine Earnshaw]], [[Edgar Linton]], [[Nelly Dean]], [[Mr Lockwood]], [[Hindley Earnshaw]], [[Isabella Linton]], [[Hareton Earnshaw]], [[Linton Heathcliff]], [[Cathy Linton]]
 
-## Chapters / scenes / sections
-
-- [Chapter 01](/testi/bronte/atomized/wuthering_heights/chapter_01)
-- [Chapter 02](/testi/bronte/atomized/wuthering_heights/chapter_02)
-- [Chapter 03](/testi/bronte/atomized/wuthering_heights/chapter_03)
-- [Chapter 04](/testi/bronte/atomized/wuthering_heights/chapter_04)
-- [Chapter 05](/testi/bronte/atomized/wuthering_heights/chapter_05)
-- [Chapter 06](/testi/bronte/atomized/wuthering_heights/chapter_06)
-- [Chapter 07](/testi/bronte/atomized/wuthering_heights/chapter_07)
-- [Chapter 08](/testi/bronte/atomized/wuthering_heights/chapter_08)
-- [Chapter 09](/testi/bronte/atomized/wuthering_heights/chapter_09)
-- [Chapter 10](/testi/bronte/atomized/wuthering_heights/chapter_10)
-- [Chapter 11](/testi/bronte/atomized/wuthering_heights/chapter_11)
-- [Chapter 12](/testi/bronte/atomized/wuthering_heights/chapter_12)
-- [Chapter 13](/testi/bronte/atomized/wuthering_heights/chapter_13)
-- [Chapter 14](/testi/bronte/atomized/wuthering_heights/chapter_14)
-- [Chapter 15](/testi/bronte/atomized/wuthering_heights/chapter_15)
-- [Chapter 16](/testi/bronte/atomized/wuthering_heights/chapter_16)
-- [Chapter 17](/testi/bronte/atomized/wuthering_heights/chapter_17)
-- [Chapter 18](/testi/bronte/atomized/wuthering_heights/chapter_18)
-- [Chapter 19](/testi/bronte/atomized/wuthering_heights/chapter_19)
-- [Chapter 20](/testi/bronte/atomized/wuthering_heights/chapter_20)
-- [Chapter 21](/testi/bronte/atomized/wuthering_heights/chapter_21)
-- [Chapter 22](/testi/bronte/atomized/wuthering_heights/chapter_22)
-- [Chapter 23](/testi/bronte/atomized/wuthering_heights/chapter_23)
-- [Chapter 24](/testi/bronte/atomized/wuthering_heights/chapter_24)
-- [Chapter 25](/testi/bronte/atomized/wuthering_heights/chapter_25)
-- [Chapter 26](/testi/bronte/atomized/wuthering_heights/chapter_26)
-- [Chapter 27](/testi/bronte/atomized/wuthering_heights/chapter_27)
-- [Chapter 28](/testi/bronte/atomized/wuthering_heights/chapter_28)
-- [Chapter 29](/testi/bronte/atomized/wuthering_heights/chapter_29)
-- [Chapter 30](/testi/bronte/atomized/wuthering_heights/chapter_30)
-- [Chapter 31](/testi/bronte/atomized/wuthering_heights/chapter_31)
-- [Chapter 32](/testi/bronte/atomized/wuthering_heights/chapter_32)
-- [Chapter 33](/testi/bronte/atomized/wuthering_heights/chapter_33)
-- [Chapter 34](/testi/bronte/atomized/wuthering_heights/chapter_34)
-
-
 ## Testo integrale / Full text
 
 Wuthering Heights

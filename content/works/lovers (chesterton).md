@@ -51,10 +51,6 @@ tags:
 **Themes & Concepts:** [[Romantic Love]], [[Madness]], [[Appearance vs Reality]], [[Wonder and Gratitude]], [[Paradox]], [[Friendship]]
 **Forms & Genres:** [[Short Story]]
 
-## Chapters / scenes / sections
-
-- [part 01](/testi/chesterton/atomized/lovers/part/part_01)
-
 ## Testo integrale / Full text
 
 For Lovers Only

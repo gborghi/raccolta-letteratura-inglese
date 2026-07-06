@@ -45,10 +45,6 @@ tags:
 **Themes & Concepts:** [[Appearance vs Reality]], [[Mortality]], [[Heroism]], [[Truth]], [[Vanity of Worldly Things]]
 **Forms & Genres:** [[Ballad Ballade]]
 
-## Chapters / scenes / sections
-
-- [part 01](/testi/chesterton/atomized/titanicgkc/part/part_01)
-
 ## Testo integrale / Full text
 
 A Ballade of Theatricals  

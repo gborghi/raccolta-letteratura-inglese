@@ -39,10 +39,6 @@ tags:
 **Themes & Concepts:** [[Paradox]], [[Courage]], [[Mortality]], [[Critique of Progress]], [[Survival]], [[War and its Cost]], [[Satire of Society]], [[Power of Language]]
 **Forms & Genres:** [[Essay]], [[Satire]], [[Aphorism]]
 
-## Chapters / scenes / sections
-
-- [part 01](/testi/chesterton/atomized/methuselahite/part/part_01)
-
 ## Testo integrale / Full text
 
 The Methuselahite

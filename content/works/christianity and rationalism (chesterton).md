@@ -62,13 +62,6 @@ tags:
 **Forms & Genres:** [[Essay]], [[Apologetics]]
 **Historical References:** [[Christianity]], [[Catholic Church]], [[French Revolution]], [[Bible]], [[Eastern Religion Comparative Religion]]
 
-## Chapters / scenes / sections
-
-- [part 01](/testi/chesterton/atomized/christianity_and_rationalism/part/part_01)
-- [part 02](/testi/chesterton/atomized/christianity_and_rationalism/part/part_02)
-- [part 03](/testi/chesterton/atomized/christianity_and_rationalism/part/part_03)
-- [part 04](/testi/chesterton/atomized/christianity_and_rationalism/part/part_04)
-
 ## Testo integrale / Full text
 
 This is entered in from one of four Chesterton essays in the collection

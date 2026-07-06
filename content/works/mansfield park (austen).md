@@ -100,58 +100,6 @@ tags:
 **Settings:** [[Rural England]]
 **Characters:** [[Fanny Price]], [[Edmund Bertram]], [[Sir Thomas Bertram]], [[Henry Crawford]], [[Mary Crawford]], [[Mrs Norris]], [[Maria Bertram]]
 
-## Chapters / scenes / sections
-
-- [Chapter 01](/testi/austen/atomized/mansfield_park/chapter_01)
-- [Chapter 02](/testi/austen/atomized/mansfield_park/chapter_02)
-- [Chapter 03](/testi/austen/atomized/mansfield_park/chapter_03)
-- [Chapter 04](/testi/austen/atomized/mansfield_park/chapter_04)
-- [Chapter 05](/testi/austen/atomized/mansfield_park/chapter_05)
-- [Chapter 06](/testi/austen/atomized/mansfield_park/chapter_06)
-- [Chapter 07](/testi/austen/atomized/mansfield_park/chapter_07)
-- [Chapter 08](/testi/austen/atomized/mansfield_park/chapter_08)
-- [Chapter 09](/testi/austen/atomized/mansfield_park/chapter_09)
-- [Chapter 10](/testi/austen/atomized/mansfield_park/chapter_10)
-- [Chapter 11](/testi/austen/atomized/mansfield_park/chapter_11)
-- [Chapter 12](/testi/austen/atomized/mansfield_park/chapter_12)
-- [Chapter 13](/testi/austen/atomized/mansfield_park/chapter_13)
-- [Chapter 14](/testi/austen/atomized/mansfield_park/chapter_14)
-- [Chapter 15](/testi/austen/atomized/mansfield_park/chapter_15)
-- [Chapter 16](/testi/austen/atomized/mansfield_park/chapter_16)
-- [Chapter 17](/testi/austen/atomized/mansfield_park/chapter_17)
-- [Chapter 18](/testi/austen/atomized/mansfield_park/chapter_18)
-- [Chapter 19](/testi/austen/atomized/mansfield_park/chapter_19)
-- [Chapter 20](/testi/austen/atomized/mansfield_park/chapter_20)
-- [Chapter 21](/testi/austen/atomized/mansfield_park/chapter_21)
-- [Chapter 22](/testi/austen/atomized/mansfield_park/chapter_22)
-- [Chapter 23](/testi/austen/atomized/mansfield_park/chapter_23)
-- [Chapter 24](/testi/austen/atomized/mansfield_park/chapter_24)
-- [Chapter 25](/testi/austen/atomized/mansfield_park/chapter_25)
-- [Chapter 26](/testi/austen/atomized/mansfield_park/chapter_26)
-- [Chapter 27](/testi/austen/atomized/mansfield_park/chapter_27)
-- [Chapter 28](/testi/austen/atomized/mansfield_park/chapter_28)
-- [Chapter 29](/testi/austen/atomized/mansfield_park/chapter_29)
-- [Chapter 30](/testi/austen/atomized/mansfield_park/chapter_30)
-- [Chapter 31](/testi/austen/atomized/mansfield_park/chapter_31)
-- [Chapter 32](/testi/austen/atomized/mansfield_park/chapter_32)
-- [Chapter 33](/testi/austen/atomized/mansfield_park/chapter_33)
-- [Chapter 34](/testi/austen/atomized/mansfield_park/chapter_34)
-- [Chapter 35](/testi/austen/atomized/mansfield_park/chapter_35)
-- [Chapter 36](/testi/austen/atomized/mansfield_park/chapter_36)
-- [Chapter 37](/testi/austen/atomized/mansfield_park/chapter_37)
-- [Chapter 38](/testi/austen/atomized/mansfield_park/chapter_38)
-- [Chapter 39](/testi/austen/atomized/mansfield_park/chapter_39)
-- [Chapter 40](/testi/austen/atomized/mansfield_park/chapter_40)
-- [Chapter 41](/testi/austen/atomized/mansfield_park/chapter_41)
-- [Chapter 42](/testi/austen/atomized/mansfield_park/chapter_42)
-- [Chapter 43](/testi/austen/atomized/mansfield_park/chapter_43)
-- [Chapter 44](/testi/austen/atomized/mansfield_park/chapter_44)
-- [Chapter 45](/testi/austen/atomized/mansfield_park/chapter_45)
-- [Chapter 46](/testi/austen/atomized/mansfield_park/chapter_46)
-- [Chapter 47](/testi/austen/atomized/mansfield_park/chapter_47)
-- [Chapter 48](/testi/austen/atomized/mansfield_park/chapter_48)
-
-
 ## Testo integrale / Full text
 
 MANSFIELD PARK

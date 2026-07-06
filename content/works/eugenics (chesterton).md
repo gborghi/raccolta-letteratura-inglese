@@ -58,12 +58,6 @@ tags:
 **Themes & Concepts:** [[Social Injustice]], [[Power and Corruption]], [[Critique of Progress]], [[Common Man]], [[Poverty]], [[Class Conflict]], [[Distributism]], [[Doubt]], [[Freedom and Liberty]], [[Slavery]], [[Democracy]], [[Reform]], [[Natural Order]], [[Capitalism]]
 **Forms & Genres:** [[Essay]], [[Satire]]
 
-## Chapters / scenes / sections
-
-- [Chapter 01 THE REAL AIM](/testi/chesterton/atomized/eugenics/chapter_01_the_real_aim)
-- [Chapter 02](/testi/chesterton/atomized/eugenics/chapter_02)
-- [Chapter 03](/testi/chesterton/atomized/eugenics/chapter_03)
-
 ## Testo integrale / Full text
 
 Eugenics and Other Evils

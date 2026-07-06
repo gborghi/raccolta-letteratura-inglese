@@ -48,10 +48,6 @@ tags:
 **Forms & Genres:** [[Hymn]]
 **Historical References:** [[Christianity]], [[Bible]]
 
-## Chapters / scenes / sections
-
-- [part 01](/testi/chesterton/atomized/a-hymn/part/part_01)
-
 ## Testo integrale / Full text
 
 A Hymn  

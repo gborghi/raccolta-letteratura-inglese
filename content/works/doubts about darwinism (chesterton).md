@@ -45,11 +45,6 @@ tags:
 **Forms & Genres:** [[Essay]], [[Satire]]
 **Historical References:** [[Bible]], [[First World War]]
 
-## Chapters / scenes / sections
-
-- [part 01](/testi/chesterton/atomized/doubts_about_darwinism/part/part_01)
-- [part 02](/testi/chesterton/atomized/doubts_about_darwinism/part/part_02)
-
 ## Testo integrale / Full text
 
 Doubts About Darwinism
