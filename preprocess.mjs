@@ -11,6 +11,51 @@ import matter from "gray-matter"
 import { fileURLToPath } from "node:url"
 import { execSync } from "node:child_process"
 
+// ---- per-work readability (prose only) ----------------------------------------
+const POETRY_FORMS = new Set(["ballad","narrative_poem","lyric","sonnet","shakespearean_sonnet","petrarchan_sonnet","ode","pindaric_ode","elegy","epic","mock_epic","free_verse","blank_verse","heroic_couplet","hexameter_verse","conversation_poem","comic_verse_song","dirge","hymn","litany","inscription","ottava_rima","rhyme_royal","spenserian_stanza","terza_rima","verse_epistle","poem_sequence","riddle","epigram","fragment","dramatic_monologue"])
+const THEATRE_FORMS = new Set(["comedy","tragedy","history_play","problem_play","romance_play","verse_drama","tragicomedy","masque","melodrama"])
+function nSyll(w) {
+  w = w.toLowerCase().replace(/[^a-z]/g, "")
+  if (!w) return 0
+  if (w.length <= 3) return 1
+  w = w.replace(/(?:[^laeiouy]es|ed|[^laeiouy]e)$/, "").replace(/^y/, "")
+  const m = w.match(/[aeiouy]{1,2}/g)
+  return Math.max(1, m ? m.length : 0)
+}
+function readabilityOf(text) {
+  const words = text.match(/[a-zA-Z']+/g) || []
+  const n = words.length
+  if (n < 200) return null // too short to be meaningful
+  const sents = Math.max(1, text.split(/[.!?]+/).filter((s) => /[a-zA-Z]/.test(s)).length)
+  let syl = 0, cplx = 0
+  for (const w of words) { const s = nSyll(w); syl += s; if (s >= 3) cplx++ }
+  const W = n / sents, Sy = syl / n
+  return {
+    flesch: +(206.835 - 1.015 * W - 84.6 * Sy).toFixed(1),
+    fk: +(0.39 * W + 11.8 * Sy - 15.59).toFixed(1),
+    fog: +(0.4 * (W + (100 * cplx) / n)).toFixed(1),
+    cplx: Math.round((100 * cplx) / n),
+    wps: +W.toFixed(1),
+  }
+}
+function isProseWork(data, fullText) {
+  const forms = (data.tags || []).filter((t) => typeof t === "string" && t.startsWith("form/")).map((t) => t.slice(5))
+  if (forms.some((f) => POETRY_FORMS.has(f) || THEATRE_FORMS.has(f))) return false
+  const lines = fullText.split("\n").filter((l) => l.trim())
+  if (lines.length) {
+    const hb = lines.filter((l) => /\s\s\r?$/.test(l)).length / lines.length
+    if (hb > 0.4) return false // verse: hard line-breaks
+  }
+  return true
+}
+function readabilityBox(r) {
+  const cell = (v, l) => `<span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">${v}</b> <span style="color:var(--gray,#888);font-size:.8em">${l}</span></span>`
+  return `\n<div class="work-readability" style="border:1px solid var(--lightgray,#e5e5e5);border-radius:8px;padding:.5rem .7rem;margin:.7rem 0;font-size:.9rem">` +
+    `<span style="color:var(--gray,#888);text-transform:uppercase;font-size:.72rem;letter-spacing:.03em;margin-right:.4rem">Readability (prose)</span>` +
+    cell(r.flesch, "Flesch ease") + cell(r.fk, "FK grade") + cell(r.fog, "Fog") + cell(r.cplx + "%", "complex") + cell(r.wps, "words/sent") +
+    `</div>\n\n`
+}
+
 const NUL = String.fromCharCode(0)
 
 // Real work titles keyed by `<author-lower>/<workDir-slug>`, overriding the ugly
@@ -730,6 +775,22 @@ async function main() {
         newContent = /\n##\s+Connections/.test(newContent)
           ? newContent.replace(/\n##\s+Connections/, `\n${workTocMd}## Connections`)
           : newContent.trimEnd() + "\n\n" + workTocMd
+      }
+    }
+
+    // Readability box on PROSE work pages only (skip poetry/theatre/verse).
+    if (data.type === "work") {
+      const ft = newContent.search(/##\s+Testo integrale/i)
+      const fullText = (ft >= 0 ? newContent.slice(ft) : newContent).replace(
+        /\[\[([^\]|]+\|)?([^\]]+)\]\]/g, "$2")
+      if (isProseWork(data, fullText)) {
+        const r = readabilityOf(fullText)
+        if (r) {
+          const box = readabilityBox(r)
+          newContent = /\n##\s+Connections/.test(newContent)
+            ? newContent.replace(/\n##\s+Connections/, `\n${box}## Connections`)
+            : newContent.trimEnd() + "\n\n" + box
+        }
       }
     }
 

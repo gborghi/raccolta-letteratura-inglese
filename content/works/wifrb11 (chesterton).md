@@ -65,6 +65,9 @@ tags:
 - [The Strange Crime of John Boulnois](/testi/chesterton/atomized/wifrb11/story_11_the_strange_crime_of_john_boulnois)
 - [The Fairy Tale of Father Brown](/testi/chesterton/atomized/wifrb11/story_12_the_fairy_tale_of_father_brown)
 
+
+<div class="work-readability" style="border:1px solid var(--lightgray,#e5e5e5);border-radius:8px;padding:.5rem .7rem;margin:.7rem 0;font-size:.9rem"><span style="color:var(--gray,#888);text-transform:uppercase;font-size:.72rem;letter-spacing:.03em;margin-right:.4rem">Readability (prose)</span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">71.2</b> <span style="color:var(--gray,#888);font-size:.8em">Flesch ease</span></span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">8.1</b> <span style="color:var(--gray,#888);font-size:.8em">FK grade</span></span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">10.9</b> <span style="color:var(--gray,#888);font-size:.8em">Fog</span></span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">8%</b> <span style="color:var(--gray,#888);font-size:.8em">complex</span></span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">19.1</b> <span style="color:var(--gray,#888);font-size:.8em">words/sent</span></span></div>
+
 ## Connections
 
 **Topoi:** [[Double]]

@@ -84,6 +84,9 @@ tags:
 - [A DEFENCE OF DETECTIVE STORIES](/testi/chesterton/atomized/the_defendant/story_17_a_defence_of_detective_detective_stories)
 - [A DEFENCE OF PATRIOTISM](/testi/chesterton/atomized/the_defendant/story_18_a_defence_of_patriotism)
 
+
+<div class="work-readability" style="border:1px solid var(--lightgray,#e5e5e5);border-radius:8px;padding:.5rem .7rem;margin:.7rem 0;font-size:.9rem"><span style="color:var(--gray,#888);text-transform:uppercase;font-size:.72rem;letter-spacing:.03em;margin-right:.4rem">Readability (prose)</span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">54.3</b> <span style="color:var(--gray,#888);font-size:.8em">Flesch ease</span></span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">11.9</b> <span style="color:var(--gray,#888);font-size:.8em">FK grade</span></span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">15.4</b> <span style="color:var(--gray,#888);font-size:.8em">Fog</span></span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">13%</b> <span style="color:var(--gray,#888);font-size:.8em">complex</span></span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">25</b> <span style="color:var(--gray,#888);font-size:.8em">words/sent</span></span></div>
+
 ## Connections
 
 **Historical References:** [[Bible]], [[Christianity]], [[Ancient Greece]], [[Medieval England]], [[Renaissance]], [[French Revolution]]

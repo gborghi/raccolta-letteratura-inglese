@@ -95,6 +95,9 @@ tags:
 - [Chapter 9](/testi/chesterton/atomized/robert_louis_stevenson/chapter_10)
 - [Chapter 10](/testi/chesterton/atomized/robert_louis_stevenson/chapter_11)
 
+
+<div class="work-readability" style="border:1px solid var(--lightgray,#e5e5e5);border-radius:8px;padding:.5rem .7rem;margin:.7rem 0;font-size:.9rem"><span style="color:var(--gray,#888);text-transform:uppercase;font-size:.72rem;letter-spacing:.03em;margin-right:.4rem">Readability (prose)</span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">56.1</b> <span style="color:var(--gray,#888);font-size:.8em">Flesch ease</span></span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">12</b> <span style="color:var(--gray,#888);font-size:.8em">FK grade</span></span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">15.2</b> <span style="color:var(--gray,#888);font-size:.8em">Fog</span></span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">12%</b> <span style="color:var(--gray,#888);font-size:.8em">complex</span></span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">26.5</b> <span style="color:var(--gray,#888);font-size:.8em">words/sent</span></span></div>
+
 ## Connections
 
 **Characters:** [[Long John Silver]], [[Jim Hawkins]], [[Alan Breck Stewart]], [[David Balfour]], [[Jekyll and Hyde]], [[James Durie (Master of Ballantrae)]], [[Henry Durie]], [[Ephraim Mackellar]], [[Weir of Hermiston]], [[Attwater]], [[Huish]], [[Loudon Dodd]], [[Prince Florizel of Bohemia]], [[Skelt]]

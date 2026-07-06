@@ -87,6 +87,9 @@ tags:
 - [Chapter 24: THE ENIGMAS OF LADY JOAN](/testi/chesterton/atomized/the_flying_inn/chapter_24_the_enigmas_of_lady_joan)
 - [Chapter 25: THE FINDING OF THE SUPERMAN](/testi/chesterton/atomized/the_flying_inn/chapter_25_the_finding_of_the_superman)
 
+
+<div class="work-readability" style="border:1px solid var(--lightgray,#e5e5e5);border-radius:8px;padding:.5rem .7rem;margin:.7rem 0;font-size:.9rem"><span style="color:var(--gray,#888);text-transform:uppercase;font-size:.72rem;letter-spacing:.03em;margin-right:.4rem">Readability (prose)</span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">71.4</b> <span style="color:var(--gray,#888);font-size:.8em">Flesch ease</span></span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">8</b> <span style="color:var(--gray,#888);font-size:.8em">FK grade</span></span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">10.9</b> <span style="color:var(--gray,#888);font-size:.8em">Fog</span></span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">8%</b> <span style="color:var(--gray,#888);font-size:.8em">complex</span></span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">18.8</b> <span style="color:var(--gray,#888);font-size:.8em">words/sent</span></span></div>
+
 ## Connections
 
 **Characters:** [[Patrick Dalroy]], [[Humphrey Pump]], [[Lord Ivywood]], [[Lady Joan Brett]], [[Misysra Ammon]], [[Dorian Wimpole]], [[Quoodle]]
