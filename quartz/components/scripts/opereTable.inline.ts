@@ -16,6 +16,9 @@ interface Work {
   settings: string[]
   characters: string[]
   nconnections: number
+  flesch?: number
+  fkgrade?: number
+  fog?: number
 }
 
 let cache: Work[] | null = null
@@ -108,7 +111,11 @@ function buildTable(el: HTMLElement, rows: Work[], prefix: string) {
     ["author", "Author", false],
     ["cluster", "Cluster", false],
     ["nconnections", "Links", true],
+    ["flesch", "Flesch", true],
+    ["fkgrade", "Grade", true],
+    ["fog", "Fog", true],
   ]
+  const NUMERIC = new Set(["nconnections", "flesch", "fkgrade", "fog"])
 
   const noArticle = (s: unknown) =>
     String(s)
@@ -119,9 +126,13 @@ function buildTable(el: HTMLElement, rows: Work[], prefix: string) {
   function cmp(a: Work, b: Work): number {
     let av: any = a[sortKey]
     let bv: any = b[sortKey]
-    if (sortKey === "nconnections") {
+    if (NUMERIC.has(sortKey as string)) {
       av = Number(av)
       bv = Number(bv)
+      const an = Number.isFinite(av), bn = Number.isFinite(bv)
+      if (!an && !bn) return a.title.toLowerCase() < b.title.toLowerCase() ? -1 : 1
+      if (!an) return 1 // works without this metric (poetry/theatre) sort last
+      if (!bn) return -1
     } else {
       av = noArticle(av)
       bv = noArticle(bv)
@@ -175,7 +186,10 @@ function buildTable(el: HTMLElement, rows: Work[], prefix: string) {
             `<tr><td><a href="${prefix}${esc(r.href)}">${esc(r.title)}</a></td>` +
             `<td>${esc(r.author)}</td>` +
             `<td class="lt-cluster">${esc(r.cluster)}</td>` +
-            `<td class="lt-num">${esc(r.nconnections)}</td></tr>`,
+            `<td class="lt-num">${esc(r.nconnections)}</td>` +
+            `<td class="lt-num">${r.flesch ?? "—"}</td>` +
+            `<td class="lt-num">${r.fkgrade ?? "—"}</td>` +
+            `<td class="lt-num">${r.fog ?? "—"}</td></tr>`,
         )
         .join("") +
       "</tbody>"
@@ -186,7 +200,7 @@ function buildTable(el: HTMLElement, rows: Work[], prefix: string) {
         if (sortKey === k) sortDir *= -1
         else {
           sortKey = k
-          sortDir = k === "nconnections" ? -1 : 1
+          sortDir = NUMERIC.has(k as string) ? -1 : 1
         }
         render()
       })

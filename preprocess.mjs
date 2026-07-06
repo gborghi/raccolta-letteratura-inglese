@@ -690,6 +690,22 @@ async function main() {
         n += vals.length
       }
       rec.nconnections = n
+      // Readability indices (prose only) as searchable/sortable work properties.
+      {
+        const ftIdx = content.search(/##\s+Testo integrale/i)
+        const ftText = (ftIdx >= 0 ? content.slice(ftIdx) : content).replace(
+          /\[\[([^\]|]+\|)?([^\]]+)\]\]/g, "$2")
+        if (isProseWork(data, ftText)) {
+          const r = readabilityOf(ftText)
+          if (r) {
+            rec.flesch = r.flesch
+            rec.fkgrade = r.fk
+            rec.fog = r.fog
+            rec.complexpct = r.cplx
+            rec.wordspersent = r.wps
+          }
+        }
+      }
       works.push(rec)
       titleToHref.set(base, href)
       

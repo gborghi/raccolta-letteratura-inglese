@@ -16,11 +16,6 @@ tags:
 <div class="work-readability" style="border:1px solid var(--lightgray,#e5e5e5);border-radius:8px;padding:.5rem .7rem;margin:.7rem 0;font-size:.9rem"><span style="color:var(--gray,#888);text-transform:uppercase;font-size:.72rem;letter-spacing:.03em;margin-right:.4rem">Readability (prose)</span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">52.6</b> <span style="color:var(--gray,#888);font-size:.8em">Flesch ease</span></span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">12.4</b> <span style="color:var(--gray,#888);font-size:.8em">FK grade</span></span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">15.8</b> <span style="color:var(--gray,#888);font-size:.8em">Fog</span></span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">13%</b> <span style="color:var(--gray,#888);font-size:.8em">complex</span></span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">26.2</b> <span style="color:var(--gray,#888);font-size:.8em">words/sent</span></span></div>
 
 
-<nav class="excerpt-children">
-<div class="excerpt-children-label">Capitoli / Chapters</div>
-<ul><li><a href="/testi/chesterton/atomized/as_i_was_saying/story_13_about_sacrifice">Story 13 ABOUT SACRIFICE</a></li><li><a href="/testi/chesterton/atomized/as_i_was_saying/story_14_happened_to_meet_again_recently_after_ma">Story 14 HAPPENED to meet again recently after ma</a></li><li><a href="/testi/chesterton/atomized/as_i_was_saying/story_15_confess_that_to_me_the_celebration_of_th">Story 15 CONFESS that to me the celebration of th</a></li><li><a href="/testi/chesterton/atomized/as_i_was_saying/story_16_read_a_chance_phrase_in_a_daily_paper_th">Story 16 READ a chance phrase in a daily paper th</a></li><li><a href="/testi/chesterton/atomized/as_i_was_saying/story_17_may_explain_that_i_am_one_of_the_people">Story 17 MAY explain that I am one of the people</a></li></ul>
-</nav>
-
 
 As I Was Saying G. K. Chesterton Contents
 

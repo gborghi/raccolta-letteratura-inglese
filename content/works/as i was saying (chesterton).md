@@ -46,13 +46,9 @@ tags:
 > [!abstract] 
 > A collection of witty, paradoxical essays on modern life (Puritanism, Voltaire, Darwinism, education, Totalitarianism, change and impermanence), satirizing fashionable progress and defending tradition, common sense and the permanent things.
 
-## Capitoli / Chapters
+## Testo / Text
 
-- [ABOUT SACRIFICE](/testi/chesterton/atomized/as_i_was_saying/story_13_about_sacrifice)
-- [HAPPENED to meet again, recently, after many years, a very brilliant](/testi/chesterton/atomized/as_i_was_saying/story_14_happened_to_meet_again_recently_after_ma)
-- [CONFESS that to me the celebration of the Centenary of William Morris](/testi/chesterton/atomized/as_i_was_saying/story_15_confess_that_to_me_the_celebration_of_th)
-- [READ a chance phrase in a daily paper the other day; indeed, I had](/testi/chesterton/atomized/as_i_was_saying/story_16_read_a_chance_phrase_in_a_daily_paper_th)
-- [MAY explain that I am one of the people who really like weddings.](/testi/chesterton/atomized/as_i_was_saying/story_17_may_explain_that_i_am_one_of_the_people)
+- [As I Was Saying](/testi/chesterton/atomized/as_i_was_saying/as_i_was_saying)
 
 
 <div class="work-readability" style="border:1px solid var(--lightgray,#e5e5e5);border-radius:8px;padding:.5rem .7rem;margin:.7rem 0;font-size:.9rem"><span style="color:var(--gray,#888);text-transform:uppercase;font-size:.72rem;letter-spacing:.03em;margin-right:.4rem">Readability (prose)</span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">52.6</b> <span style="color:var(--gray,#888);font-size:.8em">Flesch ease</span></span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">12.4</b> <span style="color:var(--gray,#888);font-size:.8em">FK grade</span></span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">15.8</b> <span style="color:var(--gray,#888);font-size:.8em">Fog</span></span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">13%</b> <span style="color:var(--gray,#888);font-size:.8em">complex</span></span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">26.2</b> <span style="color:var(--gray,#888);font-size:.8em">words/sent</span></span></div>

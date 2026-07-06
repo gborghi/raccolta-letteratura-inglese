@@ -67,7 +67,7 @@ IX.   Authority and the Adventurer
 
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/ortho14-(chesterton)">Orthodoxy</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/ortho14/story_01_orthodoxy">‹ Story 01 Orthodoxy</a><a class="ex-next" href="/testi/chesterton/atomized/ortho14/story_03_orthodoxy">Story 03 Orthodoxy ›</a></div>
+<div class="excerpt-pn"><span></span><a class="ex-next" href="/testi/chesterton/atomized/ortho14/story_03_orthodoxy">Story 03 Orthodoxy ›</a></div>
 </nav>
 
 # [[ortho14]] — Prefazione
