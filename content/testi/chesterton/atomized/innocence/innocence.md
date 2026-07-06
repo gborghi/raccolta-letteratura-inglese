@@ -12,6 +12,15 @@ tags:
 <div class="excerpt-crumb">Chesterton · <a href="/works/innocence-(chesterton)">The Innocence of Father Brown</a></div>
 </nav>
 
+
+<div class="work-readability" style="border:1px solid var(--lightgray,#e5e5e5);border-radius:8px;padding:.5rem .7rem;margin:.7rem 0;font-size:.9rem"><span style="color:var(--gray,#888);text-transform:uppercase;font-size:.72rem;letter-spacing:.03em;margin-right:.4rem">Readability (prose)</span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">73.5</b> <span style="color:var(--gray,#888);font-size:.8em">Flesch ease</span></span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">7.4</b> <span style="color:var(--gray,#888);font-size:.8em">FK grade</span></span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">10.2</b> <span style="color:var(--gray,#888);font-size:.8em">Fog</span></span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">8%</b> <span style="color:var(--gray,#888);font-size:.8em">complex</span></span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">17.5</b> <span style="color:var(--gray,#888);font-size:.8em">words/sent</span></span></div>
+
+
+<nav class="excerpt-children">
+<div class="excerpt-children-label">Capitoli / Chapters</div>
+<ul><li><a href="/testi/chesterton/atomized/innocence/story_01_the_blue_cross">Story 01 The Blue Cross</a></li><li><a href="/testi/chesterton/atomized/innocence/story_02_the_secret_garden">Story 02 The Secret Garden</a></li><li><a href="/testi/chesterton/atomized/innocence/story_03_the_queer_feet">Story 03 The Queer Feet</a></li><li><a href="/testi/chesterton/atomized/innocence/story_04_the_flying_stars">Story 04 The Flying Stars</a></li><li><a href="/testi/chesterton/atomized/innocence/story_05_the_invisible_man">Story 05 The Invisible Man</a></li><li><a href="/testi/chesterton/atomized/innocence/story_06_the_honour_of_israel_gow">Story 06 The Honour of Israel Gow</a></li><li><a href="/testi/chesterton/atomized/innocence/story_07_the_wrong_shape">Story 07 The Wrong Shape</a></li><li><a href="/testi/chesterton/atomized/innocence/story_08_the_sins_of_prince_saradine">Story 08 The Sins of Prince Saradine</a></li><li><a href="/testi/chesterton/atomized/innocence/story_09_the_hammer_of_god">Story 09 The Hammer of God</a></li><li><a href="/testi/chesterton/atomized/innocence/story_10_the_eye_of_apollo">Story 10 The Eye of Apollo</a></li><li><a href="/testi/chesterton/atomized/innocence/story_11_the_sign_of_the_broken_sword">Story 11 The Sign of the Broken Sword</a></li><li><a href="/testi/chesterton/atomized/innocence/story_12_the_three_tools_of_death">Story 12 The Three Tools of Death</a></li></ul>
+</nav>
+
 # [[innocence]]
 
 THE [[innocence|INNOCENCE]] OF [[Father Brown|FATHER BROWN]]

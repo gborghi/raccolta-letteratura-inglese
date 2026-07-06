@@ -13,6 +13,10 @@ tags:
 </nav>
 
 
+<div class="work-readability" style="border:1px solid var(--lightgray,#e5e5e5);border-radius:8px;padding:.5rem .7rem;margin:.7rem 0;font-size:.9rem"><span style="color:var(--gray,#888);text-transform:uppercase;font-size:.72rem;letter-spacing:.03em;margin-right:.4rem">Readability (prose)</span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">68.1</b> <span style="color:var(--gray,#888);font-size:.8em">Flesch ease</span></span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">9.1</b> <span style="color:var(--gray,#888);font-size:.8em">FK grade</span></span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">12.1</b> <span style="color:var(--gray,#888);font-size:.8em">Fog</span></span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">9%</b> <span style="color:var(--gray,#888);font-size:.8em">complex</span></span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">21.5</b> <span style="color:var(--gray,#888);font-size:.8em">words/sent</span></span></div>
+
+
+
 This [[Short Story|short story]] was first published in Blackwood’s Magazine in 1889. It was later added to the collection [[Lord Arthur Savile]]’s Crime and Other Stories, though it does not appear in early editions.  The story narrates an attempt to uncover the [[Identity|identity]] of Mr W.H., the enigmatic dedicatee of Shakespeare’s Sonnets. It is based on a theory, originated by Thomas Tyrwhitt, that the Sonnets were addressed to one [[Willie Hughes]], portrayed in the story as a boy actor who specialised in playing women in Shakespeare’s company. This theory depends on the assumption that the dedicatee is also the ‘Fair Youth’ who is the subject of most of the [[Poems|poems]]. The only evidence for this theory is a number of sonnets (such as [[Sonnet]] 20) that make puns on the words ‘Will’ and ‘Hues.’
 
 The first edition of Shakespeare’s sonnets, with the dedication to the mysterious T.T.

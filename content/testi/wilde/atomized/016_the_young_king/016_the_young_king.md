@@ -13,6 +13,10 @@ tags:
 </nav>
 
 
+<div class="work-readability" style="border:1px solid var(--lightgray,#e5e5e5);border-radius:8px;padding:.5rem .7rem;margin:.7rem 0;font-size:.9rem"><span style="color:var(--gray,#888);text-transform:uppercase;font-size:.72rem;letter-spacing:.03em;margin-right:.4rem">Readability (prose)</span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">81.2</b> <span style="color:var(--gray,#888);font-size:.8em">Flesch ease</span></span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">7.1</b> <span style="color:var(--gray,#888);font-size:.8em">FK grade</span></span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">9.7</b> <span style="color:var(--gray,#888);font-size:.8em">Fog</span></span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">4%</b> <span style="color:var(--gray,#888);font-size:.8em">complex</span></span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">20.7</b> <span style="color:var(--gray,#888);font-size:.8em">words/sent</span></span></div>
+
+
+
 [TO MARGARET LADY BROOKE - THE RANEE OF SARAWAK]
 It was the [[Night|night]] before the day fixed for his coronation, and the [[Young King|young King]] was sitting [[Alone|alone]] in his beautiful chamber.  His courtiers had all taken their leave of him, bowing their heads to the ground, according to the ceremonious usage of the day, and had retired to the Great Hall of the Palace, to receive a few last lessons from [[The Professor|the Professor]] of Etiquette; there being some of them who had still quite natural manners, which in a courtier is, I need hardly say, a very [[Grave|grave]] offence.
 The lad - for he was only a lad, being but sixteen years of age - was not sorry at their departure, and had flung himself back with a deep sigh of relief on the soft cushions of his embroidered couch, lying there, wild-eyed and open-mouthed, like a brown woodland Faun, or some young animal of the forest newly snared by the hunters.

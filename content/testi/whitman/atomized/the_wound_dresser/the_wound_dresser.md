@@ -13,6 +13,15 @@ tags:
 </nav>
 
 
+<div class="work-readability" style="border:1px solid var(--lightgray,#e5e5e5);border-radius:8px;padding:.5rem .7rem;margin:.7rem 0;font-size:.9rem"><span style="color:var(--gray,#888);text-transform:uppercase;font-size:.72rem;letter-spacing:.03em;margin-right:.4rem">Readability (prose)</span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">76.5</b> <span style="color:var(--gray,#888);font-size:.8em">Flesch ease</span></span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">7.1</b> <span style="color:var(--gray,#888);font-size:.8em">FK grade</span></span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">10</b> <span style="color:var(--gray,#888);font-size:.8em">Fog</span></span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">7%</b> <span style="color:var(--gray,#888);font-size:.8em">complex</span></span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">18.1</b> <span style="color:var(--gray,#888);font-size:.8em">words/sent</span></span></div>
+
+
+<nav class="excerpt-children">
+<div class="excerpt-children-label">Capitoli / Chapters</div>
+<ul><li><a href="/testi/whitman/atomized/the_wound_dresser/story_01_story_edifices_sometimes_ranged_along_in">Story 01 story edifices sometimes ranged along in</a></li><li><a href="/testi/whitman/atomized/the_wound_dresser/story_02_he_remained_very_sick_vomiting_much_ever">Story 02 He remained very sick vomiting much ever</a></li><li><a href="/testi/whitman/atomized/the_wound_dresser/story_03_in_ward_e_of_armory_hospital_i_found_a_m">Story 03 In Ward E of Armory hospital I found a m</a></li><li><a href="/testi/whitman/atomized/the_wound_dresser/story_04_pound_bag_of_gingersnaps_i_bought_at_a_b">Story 04 pound bag of gingersnaps I bought at a b</a></li><li><a href="/testi/whitman/atomized/the_wound_dresser/story_05_good_bye_dear_mother">Story 05 Good bye dear mother</a></li><li><a href="/testi/whitman/atomized/the_wound_dresser/story_06_class_success_i_have_known_tennessee_uni">Story 06 class success I have known Tennessee Uni</a></li><li><a href="/testi/whitman/atomized/the_wound_dresser/story_07_class_battle_he_told_me_if_i_would_only">Story 07 class battle he told me if I would only</a></li><li><a href="/testi/whitman/atomized/the_wound_dresser/story_08_our_men_rescued_it_and_tore_it_from_the">Story 08 Our men rescued it and tore it from the</a></li><li><a href="/testi/whitman/atomized/the_wound_dresser/story_09_fourths_of_them_quite_slightly_wounded_a">Story 09 fourths of them quite slightly wounded a</a></li></ul>
+</nav>
+
+
 Produced by Bryan Ness and the Online Distributed
 Proofreading Team at https://www.pgdp.net (This file was
 produced from images generously made available by The

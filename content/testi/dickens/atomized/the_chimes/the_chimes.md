@@ -13,6 +13,15 @@ tags:
 </nav>
 
 
+<div class="work-readability" style="border:1px solid var(--lightgray,#e5e5e5);border-radius:8px;padding:.5rem .7rem;margin:.7rem 0;font-size:.9rem"><span style="color:var(--gray,#888);text-transform:uppercase;font-size:.72rem;letter-spacing:.03em;margin-right:.4rem">Readability (prose)</span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">82.9</b> <span style="color:var(--gray,#888);font-size:.8em">Flesch ease</span></span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">5.2</b> <span style="color:var(--gray,#888);font-size:.8em">FK grade</span></span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">7.7</b> <span style="color:var(--gray,#888);font-size:.8em">Fog</span></span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">5%</b> <span style="color:var(--gray,#888);font-size:.8em">complex</span></span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">13.9</b> <span style="color:var(--gray,#888);font-size:.8em">words/sent</span></span></div>
+
+
+<nav class="excerpt-children">
+<div class="excerpt-children-label">Capitoli / Chapters</div>
+<ul><li><a href="/testi/dickens/atomized/the_chimes/chapter_01_first_quarter">Chapter 01 First Quarter</a></li><li><a href="/testi/dickens/atomized/the_chimes/chapter_02_the_second_quarter">Chapter 02 The Second Quarter</a></li><li><a href="/testi/dickens/atomized/the_chimes/chapter_03_third_quarter">Chapter 03 Third Quarter</a></li><li><a href="/testi/dickens/atomized/the_chimes/chapter_04_fourth_quarter">Chapter 04 Fourth Quarter</a></li></ul>
+</nav>
+
+
 Transcribed from Charles Scribner’s Sons “Works of Charles Dickens”
 edition by David Price, email ccx074@pglaf.org
 

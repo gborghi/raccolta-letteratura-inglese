@@ -10,7 +10,7 @@ tags:
 
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/sanity-(chesterton)">Sanity</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/sanity/story_02_the_peril_of_the_hour">‹ Story 02 THE PERIL OF THE HOUR</a><a class="ex-next" href="/testi/chesterton/atomized/sanity/story_04_some_aspects_of_big_business">Story 04 SOME ASPECTS OF BIG BUSINESS ›</a></div>
+<div class="excerpt-pn"><span></span><a class="ex-next" href="/testi/chesterton/atomized/sanity/story_05_a_misunderstanding_about_method">Story 05 A MISUNDERSTANDING ABOUT METHOD ›</a></div>
 </nav>
 <nav class="excerpt-children">
 <div class="excerpt-children-label">In questa sezione</div>

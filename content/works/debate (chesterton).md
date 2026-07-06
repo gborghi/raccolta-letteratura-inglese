@@ -36,7 +36,6 @@ tags:
 
 ## Capitoli / Chapters
 
-- [Do We Agree?](/testi/chesterton/atomized/debate/story_01_do_we_agree)
 - [Hilaire Belloc](/testi/chesterton/atomized/debate/story_02_hilaire_belloc)
 - [Cecil Palmer](/testi/chesterton/atomized/debate/story_03_cecil_palmer)
 

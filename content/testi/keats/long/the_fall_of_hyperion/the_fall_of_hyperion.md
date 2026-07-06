@@ -12,6 +12,11 @@ tags:
 <div class="excerpt-crumb">Keats · <a href="/works/the-fall-of-hyperion-(keats)">The Fall of Hyperion</a></div>
 </nav>
 
+<nav class="excerpt-children">
+<div class="excerpt-children-label">Capitoli / Chapters</div>
+<ul><li><a href="/testi/keats/long/the_fall_of_hyperion/section_01_canto_i">Section 01 canto i</a></li><li><a href="/testi/keats/long/the_fall_of_hyperion/section_02_canto_ii">Section 02 canto ii</a></li></ul>
+</nav>
+
 
 [[A Dream]]  
 

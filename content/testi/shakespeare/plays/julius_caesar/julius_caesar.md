@@ -12,6 +12,11 @@ tags:
 <div class="excerpt-crumb">Shakespeare · <a href="/works/julius-caesar-(shakespeare)">Julius Caesar</a></div>
 </nav>
 
+<nav class="excerpt-children">
+<div class="excerpt-children-label">Capitoli / Chapters</div>
+<ul><li><a href="/testi/shakespeare/plays/julius_caesar/act_1/scene_1">Scene 1</a></li><li><a href="/testi/shakespeare/plays/julius_caesar/act_1/scene_3">Scene 3</a></li><li><a href="/testi/shakespeare/plays/julius_caesar/act_2/scene_1">Scene 1</a></li><li><a href="/testi/shakespeare/plays/julius_caesar/act_2/scene_2">Scene 2</a></li><li><a href="/testi/shakespeare/plays/julius_caesar/act_2/scene_3">Scene 3</a></li><li><a href="/testi/shakespeare/plays/julius_caesar/act_2/scene_4">Scene 4</a></li><li><a href="/testi/shakespeare/plays/julius_caesar/act_3/scene_1">Scene 1</a></li><li><a href="/testi/shakespeare/plays/julius_caesar/act_3/scene_2">Scene 2</a></li><li><a href="/testi/shakespeare/plays/julius_caesar/act_3/scene_3">Scene 3</a></li><li><a href="/testi/shakespeare/plays/julius_caesar/act_4/scene_1">Scene 1</a></li><li><a href="/testi/shakespeare/plays/julius_caesar/act_4/scene_2">Scene 2</a></li><li><a href="/testi/shakespeare/plays/julius_caesar/act_5/scene_1">Scene 1</a></li><li><a href="/testi/shakespeare/plays/julius_caesar/act_5/scene_2">Scene 2</a></li><li><a href="/testi/shakespeare/plays/julius_caesar/act_5/scene_3">Scene 3</a></li><li><a href="/testi/shakespeare/plays/julius_caesar/act_5/scene_4">Scene 4</a></li><li><a href="/testi/shakespeare/plays/julius_caesar/act_5/scene_5">Scene 5</a></li></ul>
+</nav>
+
 
 [[Julius Caesar|JULIUS CAESAR]]
 ON 21 September 1599 a Swiss doctor, Thomas Platter, saw what can only have been Shakespeare’s [[Julius Caesar]] ‘very pleasingly performed’ in the newly built Globe Theatre—‘the straw-thatched [[house]]’—on the south side of the Thames. Francis Meres does not mention the play in Palladis Tamia of 1598, and minor resemblances with works printed in the early part of 1599 suggest that Shakespeare wrote it during that year. It was first printed in the 1623 Folio.

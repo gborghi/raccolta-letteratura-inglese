@@ -12,6 +12,11 @@ tags:
 <div class="excerpt-crumb">Shakespeare · <a href="/works/1-henry-iv-(shakespeare)">1 Henry IV</a></div>
 </nav>
 
+<nav class="excerpt-children">
+<div class="excerpt-children-label">Capitoli / Chapters</div>
+<ul><li><a href="/testi/shakespeare/plays/1_henry_iv/act_1/scene_1">Scene 1</a></li><li><a href="/testi/shakespeare/plays/1_henry_iv/act_1/scene_2">Scene 2</a></li><li><a href="/testi/shakespeare/plays/1_henry_iv/act_1/scene_3">Scene 3</a></li><li><a href="/testi/shakespeare/plays/1_henry_iv/act_2/scene_1">Scene 1</a></li><li><a href="/testi/shakespeare/plays/1_henry_iv/act_2/scene_2">Scene 2</a></li><li><a href="/testi/shakespeare/plays/1_henry_iv/act_2/scene_3">Scene 3</a></li><li><a href="/testi/shakespeare/plays/1_henry_iv/act_2/scene_4">Scene 4</a></li><li><a href="/testi/shakespeare/plays/1_henry_iv/act_2/scene_5">Scene 5</a></li><li><a href="/testi/shakespeare/plays/1_henry_iv/act_3/scene_1">Scene 1</a></li><li><a href="/testi/shakespeare/plays/1_henry_iv/act_3/scene_2">Scene 2</a></li><li><a href="/testi/shakespeare/plays/1_henry_iv/act_3/scene_3">Scene 3</a></li><li><a href="/testi/shakespeare/plays/1_henry_iv/act_4/scene_1">Scene 1</a></li><li><a href="/testi/shakespeare/plays/1_henry_iv/act_4/scene_2">Scene 2</a></li><li><a href="/testi/shakespeare/plays/1_henry_iv/act_4/scene_3">Scene 3</a></li><li><a href="/testi/shakespeare/plays/1_henry_iv/act_4/scene_4">Scene 4</a></li><li><a href="/testi/shakespeare/plays/1_henry_iv/act_5/scene_1">Scene 1</a></li><li><a href="/testi/shakespeare/plays/1_henry_iv/act_5/scene_2">Scene 2</a></li><li><a href="/testi/shakespeare/plays/1_henry_iv/act_5/scene_3">Scene 3</a></li><li><a href="/testi/shakespeare/plays/1_henry_iv/act_5/scene_4">Scene 4</a></li><li><a href="/testi/shakespeare/plays/1_henry_iv/act_5/scene_5">Scene 5</a></li></ul>
+</nav>
+
 
 1 [[Henry IV|HENRY IV]]
 THE play described in the 1623 Folio as The First Part of Henry the Fourth had been entered on the Stationers’ Register on 25 February 1598 as The [[history|History]] of Henry the Fourth, and that is the title of the first surviving edition, of the same year. An earlier edition, doubtless also printed in 1598, is known only from a single, eight-page [[Fragment|fragment]]. Five more editions appeared before the Folio.

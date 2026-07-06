@@ -12,6 +12,11 @@ tags:
 <div class="excerpt-crumb">Shakespeare · <a href="/works/twelfth-night-(shakespeare)">Twelfth Night</a> › <a href="/testi/shakespeare/plays/twelfth_night/act_5/scene_1">Scene 1</a></div>
 </nav>
 
+<nav class="excerpt-children">
+<div class="excerpt-children-label">Capitoli / Chapters</div>
+<ul><li><a href="/testi/shakespeare/plays/twelfth_night/act_1/scene_1">Scene 1</a></li><li><a href="/testi/shakespeare/plays/twelfth_night/act_1/scene_2">Scene 2</a></li><li><a href="/testi/shakespeare/plays/twelfth_night/act_1/scene_3">Scene 3</a></li><li><a href="/testi/shakespeare/plays/twelfth_night/act_1/scene_4">Scene 4</a></li><li><a href="/testi/shakespeare/plays/twelfth_night/act_1/scene_5">Scene 5</a></li><li><a href="/testi/shakespeare/plays/twelfth_night/act_2/scene_1">Scene 1</a></li><li><a href="/testi/shakespeare/plays/twelfth_night/act_2/scene_2">Scene 2</a></li><li><a href="/testi/shakespeare/plays/twelfth_night/act_2/scene_3">Scene 3</a></li><li><a href="/testi/shakespeare/plays/twelfth_night/act_2/scene_4">Scene 4</a></li><li><a href="/testi/shakespeare/plays/twelfth_night/act_2/scene_5">Scene 5</a></li><li><a href="/testi/shakespeare/plays/twelfth_night/act_3/scene_1">Scene 1</a></li><li><a href="/testi/shakespeare/plays/twelfth_night/act_3/scene_2">Scene 2</a></li><li><a href="/testi/shakespeare/plays/twelfth_night/act_3/scene_3">Scene 3</a></li><li><a href="/testi/shakespeare/plays/twelfth_night/act_3/scene_4">Scene 4</a></li><li><a href="/testi/shakespeare/plays/twelfth_night/act_4/scene_1">Scene 1</a></li><li><a href="/testi/shakespeare/plays/twelfth_night/act_4/scene_2">Scene 2</a></li><li><a href="/testi/shakespeare/plays/twelfth_night/act_4/scene_3">Scene 3</a></li><li><a href="/testi/shakespeare/plays/twelfth_night/act_5/scene_1">Scene 1</a></li></ul>
+</nav>
+
 
 | Chi parla | Battuta |
 |---|---|

@@ -70,7 +70,6 @@ tags:
 - [Chapter 3](/testi/chesterton/atomized/manalive/chapter_03)
 - [Chapter 4](/testi/chesterton/atomized/manalive/chapter_04)
 - [Chapter 5](/testi/chesterton/atomized/manalive/chapter_05)
-- [Part 2](/testi/chesterton/atomized/manalive/chapter_06)
 - [Chapter 1](/testi/chesterton/atomized/manalive/chapter_07)
 - [Chapter 2](/testi/chesterton/atomized/manalive/chapter_08)
 - [Chapter 3](/testi/chesterton/atomized/manalive/chapter_09)

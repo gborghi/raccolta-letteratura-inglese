@@ -13,6 +13,10 @@ tags:
 </nav>
 
 
+<div class="work-readability" style="border:1px solid var(--lightgray,#e5e5e5);border-radius:8px;padding:.5rem .7rem;margin:.7rem 0;font-size:.9rem"><span style="color:var(--gray,#888);text-transform:uppercase;font-size:.72rem;letter-spacing:.03em;margin-right:.4rem">Readability (prose)</span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">85</b> <span style="color:var(--gray,#888);font-size:.8em">Flesch ease</span></span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">6.7</b> <span style="color:var(--gray,#888);font-size:.8em">FK grade</span></span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">9.5</b> <span style="color:var(--gray,#888);font-size:.8em">Fog</span></span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">2%</b> <span style="color:var(--gray,#888);font-size:.8em">complex</span></span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">21.3</b> <span style="color:var(--gray,#888);font-size:.8em">words/sent</span></span></div>
+
+
+
 [TO MISS MARGOT TENNANT - MRS. ASQUITH]
 Once upon a [[Time|time]] two poor Woodcutters were making their way [[Home|home]] through a great pine-forest.  It was [[Winter|winter]], and a [[Night|night]] of bitter cold.  The [[Snow|snow]] lay thick upon the ground, and upon the branches of the trees: the [[Frost|frost]] kept snapping the little twigs on either side of them, as they passed: and when they came to the Mountain-Torrent she was hanging motionless in air, for the Ice-[[King]] had kissed her.
 So cold was it that even the [[Animals|animals]] and the [[Birds|birds]] did not know what to make of it.

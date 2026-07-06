@@ -13,6 +13,15 @@ tags:
 </nav>
 
 
+<div class="work-readability" style="border:1px solid var(--lightgray,#e5e5e5);border-radius:8px;padding:.5rem .7rem;margin:.7rem 0;font-size:.9rem"><span style="color:var(--gray,#888);text-transform:uppercase;font-size:.72rem;letter-spacing:.03em;margin-right:.4rem">Readability (prose)</span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">56.5</b> <span style="color:var(--gray,#888);font-size:.8em">Flesch ease</span></span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">11.2</b> <span style="color:var(--gray,#888);font-size:.8em">FK grade</span></span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">14.4</b> <span style="color:var(--gray,#888);font-size:.8em">Fog</span></span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">13%</b> <span style="color:var(--gray,#888);font-size:.8em">complex</span></span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">23.4</b> <span style="color:var(--gray,#888);font-size:.8em">words/sent</span></span></div>
+
+
+<nav class="excerpt-children">
+<div class="excerpt-children-label">Capitoli / Chapters</div>
+<ul><li><a href="/testi/dickens/atomized/a_childs_history_of_england/story_01_the_mudfog_and_other_sketches">Story 01 The Mudfog And Other Sketches</a></li><li><a href="/testi/dickens/atomized/a_childs_history_of_england/story_02_great_room_pig_and_tinder_box">Story 02 Great Room Pig And Tinder Box</a></li><li><a href="/testi/dickens/atomized/a_childs_history_of_england/story_03_hay_loft_original_pig">Story 03 Hay Loft Original Pig</a></li><li><a href="/testi/dickens/atomized/a_childs_history_of_england/story_04_front_parlour_black_boy_and_stomach_ache">Story 04 Front Parlour Black Boy And Stomach Ache</a></li><li><a href="/testi/dickens/atomized/a_childs_history_of_england/story_05_large_room_boot_jack_and_countenance">Story 05 Large Room Boot Jack And Countenance</a></li><li><a href="/testi/dickens/atomized/a_childs_history_of_england/story_06_bar_room_black_boy_and_stomach_ache">Story 06 Bar Room Black Boy And Stomach Ache</a></li><li><a href="/testi/dickens/atomized/a_childs_history_of_england/story_07_the_pantomime_of_life">Story 07 The Pantomime Of Life</a></li></ul>
+</nav>
+
+
 Transcribed from the 1903 Chapman and Hall _Sketches by Boz_ edition by
 David Price, email ccx074@pglaf.org
 

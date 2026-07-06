@@ -13,6 +13,15 @@ tags:
 </nav>
 
 
+<div class="work-readability" style="border:1px solid var(--lightgray,#e5e5e5);border-radius:8px;padding:.5rem .7rem;margin:.7rem 0;font-size:.9rem"><span style="color:var(--gray,#888);text-transform:uppercase;font-size:.72rem;letter-spacing:.03em;margin-right:.4rem">Readability (prose)</span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">60</b> <span style="color:var(--gray,#888);font-size:.8em">Flesch ease</span></span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">10</b> <span style="color:var(--gray,#888);font-size:.8em">FK grade</span></span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">13.1</b> <span style="color:var(--gray,#888);font-size:.8em">Fog</span></span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">12%</b> <span style="color:var(--gray,#888);font-size:.8em">complex</span></span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">20.6</b> <span style="color:var(--gray,#888);font-size:.8em">words/sent</span></span></div>
+
+
+<nav class="excerpt-children">
+<div class="excerpt-children-label">Capitoli / Chapters</div>
+<ul><li><a href="/testi/chesterton/atomized/apprandcritofchdickens/chapter_01_page">Chapter 01 PAGE</a></li><li><a href="/testi/chesterton/atomized/apprandcritofchdickens/chapter_02_celebrated_characters_who_are">Chapter 02 celebrated characters who are</a></li></ul>
+</nav>
+
+
 The Project Gutenberg EBook of Appreciations and Criticisms of the Works
 
 of Charles Dickens, by G. K. Chesterton

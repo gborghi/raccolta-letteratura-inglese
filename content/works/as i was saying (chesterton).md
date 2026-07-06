@@ -48,18 +48,6 @@ tags:
 
 ## Capitoli / Chapters
 
-- [ABOUT MAD METAPHORS](/testi/chesterton/atomized/as_i_was_saying/story_01_about_mad_metaphors)
-- [ABOUT TRAFFIC](/testi/chesterton/atomized/as_i_was_saying/story_02_about_traffic)
-- [ABOUT PURITANISM](/testi/chesterton/atomized/as_i_was_saying/story_03_about_puritanism_puritanism)
-- [ABOUT VOLTAIRE](/testi/chesterton/atomized/as_i_was_saying/story_04_about_voltaire)
-- [ABOUT POETRY](/testi/chesterton/atomized/as_i_was_saying/story_05_about_poetry)
-- [ABOUT THE PAST](/testi/chesterton/atomized/as_i_was_saying/story_06_about_the_past)
-- [ABOUT SHIRTS](/testi/chesterton/atomized/as_i_was_saying/story_07_about_shirts)
-- [ABOUT MORRIS](/testi/chesterton/atomized/as_i_was_saying/story_08_about_morris)
-- [ABOUT CHANGING HUMAN NATURE](/testi/chesterton/atomized/as_i_was_saying/story_09_about_changing_human_nature_nature)
-- [ABOUT CHANGE](/testi/chesterton/atomized/as_i_was_saying/story_10_about_change)
-- [ABOUT EDUCATION](/testi/chesterton/atomized/as_i_was_saying/story_11_about_education_education)
-- [ABOUT DARWINISM](/testi/chesterton/atomized/as_i_was_saying/story_12_about_darwinism)
 - [ABOUT SACRIFICE](/testi/chesterton/atomized/as_i_was_saying/story_13_about_sacrifice)
 - [HAPPENED to meet again, recently, after many years, a very brilliant](/testi/chesterton/atomized/as_i_was_saying/story_14_happened_to_meet_again_recently_after_ma)
 - [CONFESS that to me the celebration of the Centenary of William Morris](/testi/chesterton/atomized/as_i_was_saying/story_15_confess_that_to_me_the_celebration_of_th)

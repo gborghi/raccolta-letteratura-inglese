@@ -13,6 +13,15 @@ tags:
 </nav>
 
 
+<div class="work-readability" style="border:1px solid var(--lightgray,#e5e5e5);border-radius:8px;padding:.5rem .7rem;margin:.7rem 0;font-size:.9rem"><span style="color:var(--gray,#888);text-transform:uppercase;font-size:.72rem;letter-spacing:.03em;margin-right:.4rem">Readability (prose)</span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">71.6</b> <span style="color:var(--gray,#888);font-size:.8em">Flesch ease</span></span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">7.9</b> <span style="color:var(--gray,#888);font-size:.8em">FK grade</span></span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">10.6</b> <span style="color:var(--gray,#888);font-size:.8em">Fog</span></span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">8%</b> <span style="color:var(--gray,#888);font-size:.8em">complex</span></span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">18.4</b> <span style="color:var(--gray,#888);font-size:.8em">words/sent</span></span></div>
+
+
+<nav class="excerpt-children">
+<div class="excerpt-children-label">Capitoli / Chapters</div>
+<ul><li><a href="/testi/chesterton/atomized/the_man_who_knew_too_much/story_01_the_face_in_the_target">Story 01 The Face in the Target</a></li><li><a href="/testi/chesterton/atomized/the_man_who_knew_too_much/story_02_the_vanishing_prince">Story 02 The Vanishing Prince</a></li><li><a href="/testi/chesterton/atomized/the_man_who_knew_too_much/story_03_the_soul_of_the_schoolboy">Story 03 The Soul of the Schoolboy</a></li><li><a href="/testi/chesterton/atomized/the_man_who_knew_too_much/story_04_the_bottomless_well">Story 04 The Bottomless Well</a></li><li><a href="/testi/chesterton/atomized/the_man_who_knew_too_much/story_05_the_fad_of_the_fisherman">Story 05 The Fad of the Fisherman</a></li><li><a href="/testi/chesterton/atomized/the_man_who_knew_too_much/story_06_the_hole_in_the_wall">Story 06 The Hole in the Wall</a></li><li><a href="/testi/chesterton/atomized/the_man_who_knew_too_much/story_07_the_temple_of_silence">Story 07 The Temple of Silence</a></li><li><a href="/testi/chesterton/atomized/the_man_who_knew_too_much/story_08_the_vengeance_of_the_statue">Story 08 The Vengeance of the Statue</a></li></ul>
+</nav>
+
+
 I - The Face in the Target
 *
 Harold March, the rising reviewer and social critic, was walking

@@ -12,6 +12,11 @@ tags:
 <div class="excerpt-crumb">Coleridge · <a href="/works/christabel-(coleridge)">Christabel</a></div>
 </nav>
 
+<nav class="excerpt-children">
+<div class="excerpt-children-label">Capitoli / Chapters</div>
+<ul><li><a href="/testi/coleridge/long/christabel/section_00_preface">Section 00 preface</a></li><li><a href="/testi/coleridge/long/christabel/section_01_part_i">Section 01 part i</a></li><li><a href="/testi/coleridge/long/christabel/section_02_conclusion_to_part_i">Section 02 conclusion to part i</a></li><li><a href="/testi/coleridge/long/christabel/section_03_part_ii">Section 03 part ii</a></li><li><a href="/testi/coleridge/long/christabel/section_04_conclusion_to_part_ii">Section 04 conclusion to part ii</a></li></ul>
+</nav>
+
 
 [[Christabel|CHRISTABEL]] PREFACE  
 The first part of the following poem was written in the  

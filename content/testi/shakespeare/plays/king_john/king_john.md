@@ -12,6 +12,11 @@ tags:
 <div class="excerpt-crumb">Shakespeare · <a href="/works/king-john-(shakespeare)">King John</a></div>
 </nav>
 
+<nav class="excerpt-children">
+<div class="excerpt-children-label">Capitoli / Chapters</div>
+<ul><li><a href="/testi/shakespeare/plays/king_john/act_2/scene_2">Scene 2</a></li><li><a href="/testi/shakespeare/plays/king_john/act_3/scene_2">Scene 2</a></li><li><a href="/testi/shakespeare/plays/king_john/act_3/scene_3">Scene 3</a></li><li><a href="/testi/shakespeare/plays/king_john/act_3/scene_4">Scene 4</a></li><li><a href="/testi/shakespeare/plays/king_john/act_4/scene_1">Scene 1</a></li><li><a href="/testi/shakespeare/plays/king_john/act_4/scene_3">Scene 3</a></li><li><a href="/testi/shakespeare/plays/king_john/act_5/scene_2">Scene 2</a></li><li><a href="/testi/shakespeare/plays/king_john/act_5/scene_3">Scene 3</a></li><li><a href="/testi/shakespeare/plays/king_john/act_5/scene_6">Scene 6</a></li><li><a href="/testi/shakespeare/plays/king_john/act_5/scene_7">Scene 7</a></li></ul>
+</nav>
+
 
 [[King John|KING JOHN]]
 A PLAY called The Troublesome Reign of John, [[King]] of England, published anonymously in 1591, has sometimes been thought to be a derivative version of Shakespeare’s [[King John]], first published in the 1623 Folio; more probably Shakespeare wrote his play in 1595 or 1596, using The Troublesome Reign—itself based on Holinshed’s Chronicles and John Foxe’s Book of Martyrs (1563)—as his principal source. Like [[Richard II]], [[King John]] is written entirely in verse.

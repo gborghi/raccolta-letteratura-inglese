@@ -11,6 +11,11 @@ tags:
 <div class="excerpt-crumb">Keats · Endymion</div>
 </nav>
 
+<nav class="excerpt-children">
+<div class="excerpt-children-label">Capitoli / Chapters</div>
+<ul><li><a href="/testi/keats/long/endymion/section_01_book_i">Section 01 book i</a></li><li><a href="/testi/keats/long/endymion/section_02_book_ii">Section 02 book ii</a></li><li><a href="/testi/keats/long/endymion/section_03_book_iii">Section 03 book iii</a></li><li><a href="/testi/keats/long/endymion/section_04_book_iv">Section 04 book iv</a></li></ul>
+</nav>
+
 
 ## [[Endymion|ENDYMION]] BOOK I
 

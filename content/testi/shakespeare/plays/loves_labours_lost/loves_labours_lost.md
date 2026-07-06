@@ -12,6 +12,11 @@ tags:
 <div class="excerpt-crumb">Shakespeare · <a href="/works/love’s-labour’s-lost-(shakespeare)">Loves Labours Lost</a></div>
 </nav>
 
+<nav class="excerpt-children">
+<div class="excerpt-children-label">Capitoli / Chapters</div>
+<ul><li><a href="/testi/shakespeare/plays/loves_labours_lost/act_1/scene_1">Scene 1</a></li><li><a href="/testi/shakespeare/plays/loves_labours_lost/act_1/scene_2">Scene 2</a></li><li><a href="/testi/shakespeare/plays/loves_labours_lost/act_2/scene_1">Scene 1</a></li><li><a href="/testi/shakespeare/plays/loves_labours_lost/act_3/scene_1">Scene 1</a></li><li><a href="/testi/shakespeare/plays/loves_labours_lost/act_4/scene_1">Scene 1</a></li><li><a href="/testi/shakespeare/plays/loves_labours_lost/act_4/scene_2">Scene 2</a></li><li><a href="/testi/shakespeare/plays/loves_labours_lost/act_4/scene_3">Scene 3</a></li><li><a href="/testi/shakespeare/plays/loves_labours_lost/act_5/scene_1">Scene 1</a></li><li><a href="/testi/shakespeare/plays/loves_labours_lost/act_5/scene_2">Scene 2</a></li></ul>
+</nav>
+
 
 [[Love|LOVE]]’S LABOUR’S LOST
 THE first, 1598 edition of [[Love]]’s Labour’s Lost is the earliest play text to carry Shakespeare’s name on the title-page, which also refers to performance before the [[Queen]] ‘this last Christmas’. The play is said to be ‘Newly corrected and augmented’, so perhaps an earlier edition has failed to survive. Even so, the text shows every sign of having been printed from Shakespeare’s working papers, since it includes some passages in draft as [[Well|well]] as in revised form. We print the drafts as Additional Passages. The play was probably written some years before publication, in 1594 or 1595.

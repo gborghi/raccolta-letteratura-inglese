@@ -12,6 +12,11 @@ tags:
 <div class="excerpt-crumb">Coleridge · <a href="/works/the-rime-of-the-ancient-mariner-(coleridge)">The Rime of the Ancient Mariner</a></div>
 </nav>
 
+<nav class="excerpt-children">
+<div class="excerpt-children-label">Capitoli / Chapters</div>
+<ul><li><a href="/testi/coleridge/long/the_rime_of_the_ancient_mariner/section_00_argument">Section 00 argument</a></li><li><a href="/testi/coleridge/long/the_rime_of_the_ancient_mariner/section_01_part_i">Section 01 part i</a></li><li><a href="/testi/coleridge/long/the_rime_of_the_ancient_mariner/section_02_part_ii">Section 02 part ii</a></li><li><a href="/testi/coleridge/long/the_rime_of_the_ancient_mariner/section_03_part_iii">Section 03 part iii</a></li><li><a href="/testi/coleridge/long/the_rime_of_the_ancient_mariner/section_04_part_iv">Section 04 part iv</a></li><li><a href="/testi/coleridge/long/the_rime_of_the_ancient_mariner/section_05_part_v">Section 05 part v</a></li><li><a href="/testi/coleridge/long/the_rime_of_the_ancient_mariner/section_06_part_vi">Section 06 part vi</a></li><li><a href="/testi/coleridge/long/the_rime_of_the_ancient_mariner/section_07_part_vii">Section 07 part vii</a></li></ul>
+</nav>
+
 
 IN SEVEN PARTS  
 Facile credo, plures esse Naturas invisibiles quam visibiles in  

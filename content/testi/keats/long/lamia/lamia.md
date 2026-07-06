@@ -12,6 +12,11 @@ tags:
 <div class="excerpt-crumb">Keats · <a href="/works/lamia-(keats)">Lamia</a></div>
 </nav>
 
+<nav class="excerpt-children">
+<div class="excerpt-children-label">Capitoli / Chapters</div>
+<ul><li><a href="/testi/keats/long/lamia/section_01_part_i">Section 01 part i</a></li><li><a href="/testi/keats/long/lamia/section_02_part_ii">Section 02 part ii</a></li></ul>
+</nav>
+
 
 ## [[Lamia|LAMIA]] PART I
 

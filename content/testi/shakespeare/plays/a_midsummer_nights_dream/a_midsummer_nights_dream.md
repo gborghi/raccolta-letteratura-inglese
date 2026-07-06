@@ -12,6 +12,11 @@ tags:
 <div class="excerpt-crumb">Shakespeare · <a href="/works/a-midsummer-night’s-dream-(shakespeare)">A Midsummer Nights Dream</a></div>
 </nav>
 
+<nav class="excerpt-children">
+<div class="excerpt-children-label">Capitoli / Chapters</div>
+<ul><li><a href="/testi/shakespeare/plays/a_midsummer_nights_dream/act_1/scene_1">Scene 1</a></li><li><a href="/testi/shakespeare/plays/a_midsummer_nights_dream/act_1/scene_2">Scene 2</a></li><li><a href="/testi/shakespeare/plays/a_midsummer_nights_dream/act_2/scene_1">Scene 1</a></li><li><a href="/testi/shakespeare/plays/a_midsummer_nights_dream/act_2/scene_2">Scene 2</a></li><li><a href="/testi/shakespeare/plays/a_midsummer_nights_dream/act_3/scene_1">Scene 1</a></li><li><a href="/testi/shakespeare/plays/a_midsummer_nights_dream/act_3/scene_2">Scene 2</a></li><li><a href="/testi/shakespeare/plays/a_midsummer_nights_dream/act_4/scene_1">Scene 1</a></li><li><a href="/testi/shakespeare/plays/a_midsummer_nights_dream/act_4/scene_2">Scene 2</a></li><li><a href="/testi/shakespeare/plays/a_midsummer_nights_dream/act_5/scene_1">Scene 1</a></li><li><a href="/testi/shakespeare/plays/a_midsummer_nights_dream/act_5/scene_2">Scene 2</a></li></ul>
+</nav>
+
 
 A MIDSUMMER [[Night|NIGHT]]’S DREAM
 FRANCIS MERES mentions A Midsummer [[Night]]’s Dream in his Palladis Tamia, of 1598, and it was first printed in 1600. The Folio (1623) version offers significant variations apparently deriving from performance, and is followed in the present edition. It has often been thought that Shakespeare wrote the play for an aristocratic wedding, but there is no evidence to support this speculation, and the 1600 title-page states that it had been ’sundry times publicly acted’ by the Lord Chamberlain’s Men. In stylistic variation it resembles [[Love]]’s Labour’s Lost: both plays employ a wide variety of verse measures and rhyme schemes, along with prose that is sometimes (as in [[Bottom]]’s account of his dream, 4.1.202―15) rhetorically patterned. Probably it was written in 1594 or 1595, either just before or just after [[Romeo]] and [[Juliet]].

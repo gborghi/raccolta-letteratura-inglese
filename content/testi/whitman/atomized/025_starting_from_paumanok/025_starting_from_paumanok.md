@@ -12,6 +12,11 @@ tags:
 <div class="excerpt-crumb">Whitman · <a href="/works/starting-from-paumanok-(whitman)">025 Starting from Paumanok</a></div>
 </nav>
 
+<nav class="excerpt-children">
+<div class="excerpt-children-label">Capitoli / Chapters</div>
+<ul><li><a href="/testi/whitman/atomized/025_starting_from_paumanok/chapter_01">Chapter 01</a></li><li><a href="/testi/whitman/atomized/025_starting_from_paumanok/chapter_02">Chapter 02</a></li><li><a href="/testi/whitman/atomized/025_starting_from_paumanok/chapter_03">Chapter 03</a></li><li><a href="/testi/whitman/atomized/025_starting_from_paumanok/chapter_04">Chapter 04</a></li><li><a href="/testi/whitman/atomized/025_starting_from_paumanok/chapter_05">Chapter 05</a></li><li><a href="/testi/whitman/atomized/025_starting_from_paumanok/chapter_06">Chapter 06</a></li><li><a href="/testi/whitman/atomized/025_starting_from_paumanok/chapter_07">Chapter 07</a></li><li><a href="/testi/whitman/atomized/025_starting_from_paumanok/chapter_08">Chapter 08</a></li><li><a href="/testi/whitman/atomized/025_starting_from_paumanok/chapter_09">Chapter 09</a></li><li><a href="/testi/whitman/atomized/025_starting_from_paumanok/chapter_10">Chapter 10</a></li><li><a href="/testi/whitman/atomized/025_starting_from_paumanok/chapter_11">Chapter 11</a></li><li><a href="/testi/whitman/atomized/025_starting_from_paumanok/chapter_12">Chapter 12</a></li><li><a href="/testi/whitman/atomized/025_starting_from_paumanok/chapter_13">Chapter 13</a></li><li><a href="/testi/whitman/atomized/025_starting_from_paumanok/chapter_14">Chapter 14</a></li><li><a href="/testi/whitman/atomized/025_starting_from_paumanok/chapter_15">Chapter 15</a></li><li><a href="/testi/whitman/atomized/025_starting_from_paumanok/chapter_16">Chapter 16</a></li><li><a href="/testi/whitman/atomized/025_starting_from_paumanok/chapter_17">Chapter 17</a></li><li><a href="/testi/whitman/atomized/025_starting_from_paumanok/chapter_18">Chapter 18</a></li><li><a href="/testi/whitman/atomized/025_starting_from_paumanok/chapter_19">Chapter 19</a></li></ul>
+</nav>
+
 
 
        1  

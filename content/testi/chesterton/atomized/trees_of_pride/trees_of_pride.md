@@ -13,6 +13,15 @@ tags:
 </nav>
 
 
+<div class="work-readability" style="border:1px solid var(--lightgray,#e5e5e5);border-radius:8px;padding:.5rem .7rem;margin:.7rem 0;font-size:.9rem"><span style="color:var(--gray,#888);text-transform:uppercase;font-size:.72rem;letter-spacing:.03em;margin-right:.4rem">Readability (prose)</span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">73.7</b> <span style="color:var(--gray,#888);font-size:.8em">Flesch ease</span></span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">7.6</b> <span style="color:var(--gray,#888);font-size:.8em">FK grade</span></span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">10.3</b> <span style="color:var(--gray,#888);font-size:.8em">Fog</span></span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">7%</b> <span style="color:var(--gray,#888);font-size:.8em">complex</span></span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">18.5</b> <span style="color:var(--gray,#888);font-size:.8em">words/sent</span></span></div>
+
+
+<nav class="excerpt-children">
+<div class="excerpt-children-label">Capitoli / Chapters</div>
+<ul><li><a href="/testi/chesterton/atomized/trees_of_pride/story_03_the_tale_of_the_peacock_trees">Story 03 THE TALE OF THE PEACOCK TREES</a></li><li><a href="/testi/chesterton/atomized/trees_of_pride/story_04_the_wager_of_squire_vane">Story 04 THE WAGER OF SQUIRE VANE</a></li><li><a href="/testi/chesterton/atomized/trees_of_pride/story_05_the_mystery_of_the_well_well">Story 05 THE MYSTERY OF THE Well WELL</a></li><li><a href="/testi/chesterton/atomized/trees_of_pride/story_06_the_chase_after_the_truth_truth">Story 06 THE CHASE AFTER THE Truth TRUTH</a></li></ul>
+</nav>
+
+
 Etext prepared by Dianne Bean of Phoenix, Arizona.
 
 THE TREES OF [[Pride|PRIDE]]

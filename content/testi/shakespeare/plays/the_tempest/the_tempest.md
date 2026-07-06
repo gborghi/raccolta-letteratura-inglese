@@ -12,6 +12,11 @@ tags:
 <div class="excerpt-crumb">Shakespeare · <a href="/works/the-tempest-(shakespeare)">The Tempest</a></div>
 </nav>
 
+<nav class="excerpt-children">
+<div class="excerpt-children-label">Capitoli / Chapters</div>
+<ul><li><a href="/testi/shakespeare/plays/the_tempest/act_1/scene_1">Scene 1</a></li><li><a href="/testi/shakespeare/plays/the_tempest/act_1/scene_2">Scene 2</a></li><li><a href="/testi/shakespeare/plays/the_tempest/act_2/scene_1">Scene 1</a></li><li><a href="/testi/shakespeare/plays/the_tempest/act_3/scene_1">Scene 1</a></li><li><a href="/testi/shakespeare/plays/the_tempest/act_3/scene_2">Scene 2</a></li><li><a href="/testi/shakespeare/plays/the_tempest/act_3/scene_3">Scene 3</a></li><li><a href="/testi/shakespeare/plays/the_tempest/act_4/scene_1">Scene 1</a></li><li><a href="/testi/shakespeare/plays/the_tempest/act_5/scene_1">Scene 1</a></li></ul>
+</nav>
+
 
 THE TEMPEST
 THE [[King]]’s Men acted The Tempest before their patron, James I, at Whitehall on I November 1611. (It was also chosen for performance during the festivities for the [[Marriage|marriage]] of James’s daughter, Princess Elizabeth, to the Elector Palatine during the [[Winter|winter]] of 1612- 13.) Shakespeare’s play takes place on a [[Desert|desert]] island somewhere between Tunis and Naples; he derived some details of it from his reading of travel literature, including accounts of an expedition of nine ships taking five hundred colonists from Plymouth to Virginia, which set sail in May 1609. On 29 July the flagship, the Sea-Adventure, was wrecked by a [[Storm|storm]] on the coast of the Bermudas. She was presumed lost, but on 23 May 1610 those aboard her arrived safely in Jamestown, Virginia, having found shelter on the island of Bermuda, where they were able to build the pinnaces in which they completed their [[Journey|journey]]. Accounts of the voyage soon reached England; the last-written that Shakespeare seems to have known is a letter by William Strachey, who was on the Sea-Adventure, dated 15 July 1610; though it was not published until 1625, it circulated in manuscript. So it seems clear that Shakespeare wrote The Tempest during the later part of 1610or in 1611. It was first printed in the 1623 Folio, where it is the opening play.

@@ -47,9 +47,6 @@ tags:
 
 ## Capitoli / Chapters
 
-- [Art and Advertisement](/testi/chesterton/atomized/utopiausurers/story_01_art_and_advertisement)
-- [Unbusinesslike Business](/testi/chesterton/atomized/utopiausurers/story_02_unbusinesslike_business)
-- [Science and the Eugenists](/testi/chesterton/atomized/utopiausurers/story_03_science_and_the_eugenists)
 - [The Lash for Labour](/testi/chesterton/atomized/utopiausurers/story_04_the_lash_for_labour)
 - [Art and Advertisement](/testi/chesterton/atomized/utopiausurers/story_05_art_and_advertisement)
 - [Letters and the New Laureates](/testi/chesterton/atomized/utopiausurers/story_06_letters_and_the_new_laureates)

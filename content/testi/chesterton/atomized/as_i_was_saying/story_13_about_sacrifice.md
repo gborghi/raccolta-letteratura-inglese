@@ -12,7 +12,7 @@ tags:
 
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/as-i-was-saying-(chesterton)">As I Was Saying</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/as_i_was_saying/story_12_about_darwinism">‹ Story 12 ABOUT DARWINISM</a><a class="ex-next" href="/testi/chesterton/atomized/as_i_was_saying/story_14_happened_to_meet_again_recently_after_ma">Story 14 HAPPENED to meet again recently after ma ›</a></div>
+<div class="excerpt-pn"><span></span><a class="ex-next" href="/testi/chesterton/atomized/as_i_was_saying/story_14_happened_to_meet_again_recently_after_ma">Story 14 HAPPENED to meet again recently after ma ›</a></div>
 </nav>
 <nav class="excerpt-children">
 <div class="excerpt-children-label">In questa sezione</div>

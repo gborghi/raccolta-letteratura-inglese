@@ -12,6 +12,15 @@ tags:
 <div class="excerpt-crumb">Chesterton · <a href="/works/conversion-(chesterton)">The Catholic Church and Conversion</a></div>
 </nav>
 
+
+<div class="work-readability" style="border:1px solid var(--lightgray,#e5e5e5);border-radius:8px;padding:.5rem .7rem;margin:.7rem 0;font-size:.9rem"><span style="color:var(--gray,#888);text-transform:uppercase;font-size:.72rem;letter-spacing:.03em;margin-right:.4rem">Readability (prose)</span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">57.5</b> <span style="color:var(--gray,#888);font-size:.8em">Flesch ease</span></span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">11.6</b> <span style="color:var(--gray,#888);font-size:.8em">FK grade</span></span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">15.1</b> <span style="color:var(--gray,#888);font-size:.8em">Fog</span></span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">12%</b> <span style="color:var(--gray,#888);font-size:.8em">complex</span></span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">25.5</b> <span style="color:var(--gray,#888);font-size:.8em">words/sent</span></span></div>
+
+
+<nav class="excerpt-children">
+<div class="excerpt-children-label">Capitoli / Chapters</div>
+<ul><li><a href="/testi/chesterton/atomized/conversion/chapter_01_introductory_a_new_religion">Chapter 01 INTRODUCTORY A NEW RELIGION</a></li><li><a href="/testi/chesterton/atomized/conversion/chapter_02_the_obvious_blunders">Chapter 02 THE OBVIOUS BLUNDERS</a></li><li><a href="/testi/chesterton/atomized/conversion/chapter_03_the_real_obstacles">Chapter 03 THE REAL OBSTACLES</a></li><li><a href="/testi/chesterton/atomized/conversion/chapter_04_the_world_inside_out">Chapter 04 THE WORLD INSIDE OUT</a></li><li><a href="/testi/chesterton/atomized/conversion/chapter_05_the_exception_proves_the_rule">Chapter 05 THE EXCEPTION PROVES THE RULE</a></li><li><a href="/testi/chesterton/atomized/conversion/chapter_06_a_note_on_present_prospects">Chapter 06 A NOTE ON PRESENT PROSPECTS</a></li></ul>
+</nav>
+
 # [[conversion]]
 
 THE [[Catholic Church|CATHOLIC CHURCH]] AND [[conversion|CONVERSION]]

@@ -12,6 +12,11 @@ tags:
 <div class="excerpt-crumb">Eliot · <a href="/works/little-gidding-(eliot)">Little Gidding</a></div>
 </nav>
 
+<nav class="excerpt-children">
+<div class="excerpt-children-label">Capitoli / Chapters</div>
+<ul><li><a href="/testi/eliot/long/little_gidding/section_01_part_i">Section 01 part i</a></li><li><a href="/testi/eliot/long/little_gidding/section_02_part_ii">Section 02 part ii</a></li><li><a href="/testi/eliot/long/little_gidding/section_03_part_iii">Section 03 part iii</a></li><li><a href="/testi/eliot/long/little_gidding/section_04_part_iv">Section 04 part iv</a></li><li><a href="/testi/eliot/long/little_gidding/section_05_part_v">Section 05 part v</a></li></ul>
+</nav>
+
 
 Little Gidding  
 I  

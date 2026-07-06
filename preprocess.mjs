@@ -572,6 +572,33 @@ async function publishUnits(rawSourceToWork, translations = new Map()) {
           // H1 produces a double-title), then prepend the nav block.
           let outBody = stripJunkSeparators(body)
           outBody = stripLeadingH1IfMatchesTitle(outBody, title)
+
+          // The full-text aggregate page (unitType "work") has no slug-children, so
+          // it never showed a chapter index or readability. Add both here: a chapters
+          // list from the work's reading units, and (prose only) a readability box.
+          if (it.unitType === "work") {
+            const readingUnits = items
+              .filter((u) => ["chapter", "scene", "story", "section"].includes(u.unitType))
+              .sort((a, b) => a.relU.localeCompare(b.relU, undefined, { numeric: true }))
+            if (readingUnits.length) {
+              outBody =
+                `<nav class="excerpt-children">\n<div class="excerpt-children-label">Capitoli / Chapters</div>\n<ul>` +
+                readingUnits
+                  .map((u) => `<li><a href="/${u.slug}">${esc(prettyFromFilename(u.fileName))}</a></li>`)
+                  .join("") +
+                `</ul>\n</nav>\n\n` +
+                outBody
+            }
+            const ftText = body.replace(/\[\[([^\]|]+\|)?([^\]]+)\]\]/g, "$2")
+            const L = ftText.split("\n").filter((l) => l.trim())
+            const isVerse = L.length && L.filter((l) => /\s\s\r?$/.test(l)).length / L.length > 0.4
+            const hasScenes = items.some((u) => u.unitType === "scene")
+            if (!isVerse && !hasScenes) {
+              const r = readabilityOf(ftText)
+              if (r) outBody = readabilityBox(r) + "\n" + outBody
+            }
+          }
+
           outBody = nav + outBody
 
           // Lowercase the output path so the emitted page slug matches the

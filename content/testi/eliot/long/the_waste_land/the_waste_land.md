@@ -11,6 +11,11 @@ tags:
 <div class="excerpt-crumb">Eliot · The Waste Land</div>
 </nav>
 
+<nav class="excerpt-children">
+<div class="excerpt-children-label">Capitoli / Chapters</div>
+<ul><li><a href="/testi/eliot/long/the_waste_land/section_01_i_the_burial_of_the_dead">Section 01 i the burial of the dead</a></li><li><a href="/testi/eliot/long/the_waste_land/section_02_ii_a_game_of_chess">Section 02 ii a game of chess</a></li><li><a href="/testi/eliot/long/the_waste_land/section_03_iii_the_fire_sermon">Section 03 iii the fire sermon</a></li><li><a href="/testi/eliot/long/the_waste_land/section_04_iv_death_by_water">Section 04 iv death by water</a></li><li><a href="/testi/eliot/long/the_waste_land/section_05_v_what_the_thunder_said">Section 05 v what the thunder said</a></li></ul>
+</nav>
+
 
 ## I. The Burial of the Dead
 

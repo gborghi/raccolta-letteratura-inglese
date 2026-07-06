@@ -12,6 +12,15 @@ tags:
 <div class="excerpt-crumb">Chesterton · <a href="/works/wifrb11-(chesterton)">The Wisdom of Father Brown</a></div>
 </nav>
 
+
+<div class="work-readability" style="border:1px solid var(--lightgray,#e5e5e5);border-radius:8px;padding:.5rem .7rem;margin:.7rem 0;font-size:.9rem"><span style="color:var(--gray,#888);text-transform:uppercase;font-size:.72rem;letter-spacing:.03em;margin-right:.4rem">Readability (prose)</span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">71.2</b> <span style="color:var(--gray,#888);font-size:.8em">Flesch ease</span></span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">8.1</b> <span style="color:var(--gray,#888);font-size:.8em">FK grade</span></span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">10.9</b> <span style="color:var(--gray,#888);font-size:.8em">Fog</span></span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">8%</b> <span style="color:var(--gray,#888);font-size:.8em">complex</span></span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">19.1</b> <span style="color:var(--gray,#888);font-size:.8em">words/sent</span></span></div>
+
+
+<nav class="excerpt-children">
+<div class="excerpt-children-label">Capitoli / Chapters</div>
+<ul><li><a href="/testi/chesterton/atomized/wifrb11/story_01_the_absence_of_mr_glass">Story 01 The Absence of Mr Glass</a></li><li><a href="/testi/chesterton/atomized/wifrb11/story_02_the_paradise_of_thieves">Story 02 The Paradise of Thieves</a></li><li><a href="/testi/chesterton/atomized/wifrb11/story_03_the_duel_of_dr_hirsch">Story 03 The Duel of Dr Hirsch</a></li><li><a href="/testi/chesterton/atomized/wifrb11/story_04_the_man_in_the_passage">Story 04 The Man in the Passage</a></li><li><a href="/testi/chesterton/atomized/wifrb11/story_05_the_mistake_of_the_machine">Story 05 The Mistake of the Machine</a></li><li><a href="/testi/chesterton/atomized/wifrb11/story_06_the_head_of_caesar">Story 06 The Head of Caesar</a></li><li><a href="/testi/chesterton/atomized/wifrb11/story_07_the_purple_wig">Story 07 The Purple Wig</a></li><li><a href="/testi/chesterton/atomized/wifrb11/story_08_the_perishing_of_the_pendragons">Story 08 The Perishing of the Pendragons</a></li><li><a href="/testi/chesterton/atomized/wifrb11/story_09_the_god_of_the_gongs">Story 09 The God of the Gongs</a></li><li><a href="/testi/chesterton/atomized/wifrb11/story_10_the_salad_of_colonel_cray">Story 10 The Salad of Colonel Cray</a></li><li><a href="/testi/chesterton/atomized/wifrb11/story_11_the_strange_crime_of_john_boulnois">Story 11 The Strange Crime of John Boulnois</a></li><li><a href="/testi/chesterton/atomized/wifrb11/story_12_the_fairy_tale_of_father_brown">Story 12 The Fairy Tale of Father Brown</a></li></ul>
+</nav>
+
 # [[wifrb11]]
 
 ***The Project Gutenberg Etext of The Wisdom of [[Father Brown]]***

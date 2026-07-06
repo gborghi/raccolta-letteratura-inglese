@@ -13,6 +13,15 @@ tags:
 </nav>
 
 
+<div class="work-readability" style="border:1px solid var(--lightgray,#e5e5e5);border-radius:8px;padding:.5rem .7rem;margin:.7rem 0;font-size:.9rem"><span style="color:var(--gray,#888);text-transform:uppercase;font-size:.72rem;letter-spacing:.03em;margin-right:.4rem">Readability (prose)</span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">70.7</b> <span style="color:var(--gray,#888);font-size:.8em">Flesch ease</span></span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">8.3</b> <span style="color:var(--gray,#888);font-size:.8em">FK grade</span></span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">11.1</b> <span style="color:var(--gray,#888);font-size:.8em">Fog</span></span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">8%</b> <span style="color:var(--gray,#888);font-size:.8em">complex</span></span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">19.5</b> <span style="color:var(--gray,#888);font-size:.8em">words/sent</span></span></div>
+
+
+<nav class="excerpt-children">
+<div class="excerpt-children-label">Capitoli / Chapters</div>
+<ul><li><a href="/testi/chesterton/atomized/poet_and_lunatics/story_01_the_fantastic_friends">Story 01 THE FANTASTIC FRIENDS</a></li><li><a href="/testi/chesterton/atomized/poet_and_lunatics/story_02_the_yellow_bird">Story 02 THE YELLOW BIRD</a></li><li><a href="/testi/chesterton/atomized/poet_and_lunatics/story_03_the_shadow_shadow_of_the_shark">Story 03 THE Shadow SHADOW OF THE SHARK</a></li><li><a href="/testi/chesterton/atomized/poet_and_lunatics/story_04_the_crime_of_gabriel_gale">Story 04 THE CRIME OF GABRIEL GALE</a></li><li><a href="/testi/chesterton/atomized/poet_and_lunatics/story_05_the_finger_of_stone">Story 05 THE FINGER OF STONE</a></li><li><a href="/testi/chesterton/atomized/poet_and_lunatics/story_06_the_house_house_of_the_peacock">Story 06 THE house HOUSE OF THE PEACOCK</a></li><li><a href="/testi/chesterton/atomized/poet_and_lunatics/story_07_the_purple_jewel_jewel">Story 07 THE PURPLE Jewel JEWEL</a></li><li><a href="/testi/chesterton/atomized/poet_and_lunatics/story_08_the_asylum_of_adventure">Story 08 THE ASYLUM OF ADVENTURE</a></li></ul>
+</nav>
+
+
 The Poet
            and
          The Lunatics

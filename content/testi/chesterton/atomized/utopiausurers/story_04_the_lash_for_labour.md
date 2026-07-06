@@ -10,7 +10,7 @@ tags:
 
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/utopiausurers-(chesterton)">UtopiaUsurers</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/utopiausurers/story_03_science_and_the_eugenists">‹ Story 03 Science and the Eugenists</a><a class="ex-next" href="/testi/chesterton/atomized/utopiausurers/story_05_art_and_advertisement">Story 05 Art and Advertisement ›</a></div>
+<div class="excerpt-pn"><span></span><a class="ex-next" href="/testi/chesterton/atomized/utopiausurers/story_05_art_and_advertisement">Story 05 Art and Advertisement ›</a></div>
 </nav>
 
 

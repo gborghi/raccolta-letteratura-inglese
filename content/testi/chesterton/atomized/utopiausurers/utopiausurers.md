@@ -13,6 +13,15 @@ tags:
 </nav>
 
 
+<div class="work-readability" style="border:1px solid var(--lightgray,#e5e5e5);border-radius:8px;padding:.5rem .7rem;margin:.7rem 0;font-size:.9rem"><span style="color:var(--gray,#888);text-transform:uppercase;font-size:.72rem;letter-spacing:.03em;margin-right:.4rem">Readability (prose)</span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">59.9</b> <span style="color:var(--gray,#888);font-size:.8em">Flesch ease</span></span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">10.4</b> <span style="color:var(--gray,#888);font-size:.8em">FK grade</span></span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">13.8</b> <span style="color:var(--gray,#888);font-size:.8em">Fog</span></span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">12%</b> <span style="color:var(--gray,#888);font-size:.8em">complex</span></span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">22.3</b> <span style="color:var(--gray,#888);font-size:.8em">words/sent</span></span></div>
+
+
+<nav class="excerpt-children">
+<div class="excerpt-children-label">Capitoli / Chapters</div>
+<ul><li><a href="/testi/chesterton/atomized/utopiausurers/story_04_the_lash_for_labour">Story 04 The Lash for Labour</a></li><li><a href="/testi/chesterton/atomized/utopiausurers/story_05_art_and_advertisement">Story 05 Art and Advertisement</a></li><li><a href="/testi/chesterton/atomized/utopiausurers/story_06_letters_and_the_new_laureates">Story 06 Letters and the New Laureates</a></li><li><a href="/testi/chesterton/atomized/utopiausurers/story_07_unbusinesslike_business">Story 07 Unbusinesslike Business</a></li><li><a href="/testi/chesterton/atomized/utopiausurers/story_08_the_war_on_holidays">Story 08 The War on Holidays</a></li><li><a href="/testi/chesterton/atomized/utopiausurers/story_09_the_church_of_the_servile_state">Story 09 THE CHURCH OF THE SERVILE STATE</a></li><li><a href="/testi/chesterton/atomized/utopiausurers/story_10_science_and_the_eugenists">Story 10 SCIENCE AND THE EUGENISTS</a></li><li><a href="/testi/chesterton/atomized/utopiausurers/story_11_the_evolution_of_the_prison_prison">Story 11 THE EVOLUTION OF THE Prison PRISON</a></li><li><a href="/testi/chesterton/atomized/utopiausurers/story_12_the_lash_for_labour">Story 12 THE LASH FOR LABOUR</a></li><li><a href="/testi/chesterton/atomized/utopiausurers/story_13_the_mask_of_socialism">Story 13 THE MASK OF SOCIALISM</a></li></ul>
+</nav>
+
+
 The Project Gutenberg EBook of Utopia of Usurers and other Essays, by
 
 Gilbert Keith Chesterton

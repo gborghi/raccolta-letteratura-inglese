@@ -10,7 +10,7 @@ tags:
 
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/sanity-(chesterton)">Sanity</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/sanity/story_13_the_holiday_of_the_slave">‹ Story 13 THE HOLIDAY OF THE SLAVE</a><a class="ex-next" href="/testi/chesterton/atomized/sanity/story_15_a_note_on_emigration">Story 15 A NOTE ON EMIGRATION ›</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/sanity/story_13_the_holiday_of_the_slave">‹ Story 13 THE HOLIDAY OF THE SLAVE</a><a class="ex-next" href="/testi/chesterton/atomized/sanity/story_16_the_religion_of_small_property">Story 16 THE RELIGION OF SMALL PROPERTY ›</a></div>
 </nav>
 <nav class="excerpt-children">
 <div class="excerpt-children-label">In questa sezione</div>

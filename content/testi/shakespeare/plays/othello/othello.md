@@ -12,6 +12,11 @@ tags:
 <div class="excerpt-crumb">Shakespeare · <a href="/works/othello-(shakespeare)">Othello</a></div>
 </nav>
 
+<nav class="excerpt-children">
+<div class="excerpt-children-label">Capitoli / Chapters</div>
+<ul><li><a href="/testi/shakespeare/plays/othello/act_1/scene_1">Scene 1</a></li><li><a href="/testi/shakespeare/plays/othello/act_1/scene_2">Scene 2</a></li><li><a href="/testi/shakespeare/plays/othello/act_1/scene_3">Scene 3</a></li><li><a href="/testi/shakespeare/plays/othello/act_2/scene_1">Scene 1</a></li><li><a href="/testi/shakespeare/plays/othello/act_2/scene_2">Scene 2</a></li><li><a href="/testi/shakespeare/plays/othello/act_2/scene_3">Scene 3</a></li><li><a href="/testi/shakespeare/plays/othello/act_3/scene_1">Scene 1</a></li><li><a href="/testi/shakespeare/plays/othello/act_3/scene_2">Scene 2</a></li><li><a href="/testi/shakespeare/plays/othello/act_3/scene_3">Scene 3</a></li><li><a href="/testi/shakespeare/plays/othello/act_3/scene_4">Scene 4</a></li><li><a href="/testi/shakespeare/plays/othello/act_4/scene_1">Scene 1</a></li><li><a href="/testi/shakespeare/plays/othello/act_4/scene_2">Scene 2</a></li><li><a href="/testi/shakespeare/plays/othello/act_4/scene_3">Scene 3</a></li><li><a href="/testi/shakespeare/plays/othello/act_5/scene_1">Scene 1</a></li><li><a href="/testi/shakespeare/plays/othello/act_5/scene_2">Scene 2</a></li></ul>
+</nav>
+
 
 [[Othello|OTHELLO]]
 [[Othello]] was given before James I in the Banqueting [[house|House]] at Whitehall on I November 1604. Information about the Turkish invasion of Cyprus appears to derive from [[Richard]] Knolles’s [[history|History]] of the Turks, published no earlier than 30 September 1603, so Shakespeare probably completed his play some [[Time|time]] between that date and the [[Summer|summer]] of 1604. It first appeared in print in a quarto of 1622; the version printed in the 1623 Folio is about 160 lines longer, and has over a thousand differences in wording. It seems that Shakespeare partially revised his play, adding, for example, [[Desdemona]]’s willow [[Song|song]] (4.3) and building up [[Emilia]]’s role in the closing scenes. We base our text on the Folio as that seems to represent Shakespeare’s second thoughts.

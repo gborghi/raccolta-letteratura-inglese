@@ -11,6 +11,11 @@ tags:
 <div class="excerpt-crumb">Eliot · The Dry Salvages</div>
 </nav>
 
+<nav class="excerpt-children">
+<div class="excerpt-children-label">Capitoli / Chapters</div>
+<ul><li><a href="/testi/eliot/long/the_dry_salvages/section_01_part_i">Section 01 part i</a></li><li><a href="/testi/eliot/long/the_dry_salvages/section_02_part_ii">Section 02 part ii</a></li><li><a href="/testi/eliot/long/the_dry_salvages/section_03_part_iii">Section 03 part iii</a></li><li><a href="/testi/eliot/long/the_dry_salvages/section_04_part_iv">Section 04 part iv</a></li><li><a href="/testi/eliot/long/the_dry_salvages/section_05_part_v">Section 05 part v</a></li></ul>
+</nav>
+
 
 The Dry Salvages 1941  
 (The Dry Salvages — presumably les trois sauvages — is a small group of rocks, with a beacon, off the N.E. coast of Cape Ann, Massachusetts. Salvages is pronounced to rhyme with assuages. Groaner: a whistling buoy.)  

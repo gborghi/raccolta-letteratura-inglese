@@ -10,7 +10,7 @@ tags:
 
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/manalive-(chesterton)">Manalive</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/manalive/chapter_04">‹ Chapter 04</a><a class="ex-next" href="/testi/chesterton/atomized/manalive/chapter_06">Chapter 06 ›</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/manalive/chapter_04">‹ Chapter 04</a><a class="ex-next" href="/testi/chesterton/atomized/manalive/chapter_07">Chapter 07 ›</a></div>
 </nav>
 <nav class="excerpt-children">
 <div class="excerpt-children-label">In questa sezione</div>

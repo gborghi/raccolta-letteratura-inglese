@@ -13,6 +13,15 @@ tags:
 </nav>
 
 
+<div class="work-readability" style="border:1px solid var(--lightgray,#e5e5e5);border-radius:8px;padding:.5rem .7rem;margin:.7rem 0;font-size:.9rem"><span style="color:var(--gray,#888);text-transform:uppercase;font-size:.72rem;letter-spacing:.03em;margin-right:.4rem">Readability (prose)</span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">70.6</b> <span style="color:var(--gray,#888);font-size:.8em">Flesch ease</span></span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">8.3</b> <span style="color:var(--gray,#888);font-size:.8em">FK grade</span></span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">11.4</b> <span style="color:var(--gray,#888);font-size:.8em">Fog</span></span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">9%</b> <span style="color:var(--gray,#888);font-size:.8em">complex</span></span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">19.5</b> <span style="color:var(--gray,#888);font-size:.8em">words/sent</span></span></div>
+
+
+<nav class="excerpt-children">
+<div class="excerpt-children-label">Capitoli / Chapters</div>
+<ul><li><a href="/testi/chesterton/atomized/scandal_fr_brown/story_01_the_scandal_of_father_brown">Story 01 The Scandal of Father Brown</a></li><li><a href="/testi/chesterton/atomized/scandal_fr_brown/story_02_the_quick_one">Story 02 The Quick One</a></li><li><a href="/testi/chesterton/atomized/scandal_fr_brown/story_03_the_blast_of_the_book">Story 03 The Blast of the Book</a></li><li><a href="/testi/chesterton/atomized/scandal_fr_brown/story_04_the_green_man">Story 04 The Green Man</a></li><li><a href="/testi/chesterton/atomized/scandal_fr_brown/story_05_the_pursuit_of_mr_blue">Story 05 The Pursuit of Mr Blue</a></li><li><a href="/testi/chesterton/atomized/scandal_fr_brown/story_06_the_crime_of_the_communist">Story 06 The Crime of the Communist</a></li><li><a href="/testi/chesterton/atomized/scandal_fr_brown/story_07_the_gardens_had_been_tended_so_carefully">Story 07 The gardens had been tended so carefully</a></li><li><a href="/testi/chesterton/atomized/scandal_fr_brown/story_08_the_point_of_a_pin">Story 08 The Point of a Pin</a></li><li><a href="/testi/chesterton/atomized/scandal_fr_brown/story_09_i_mean_it_s_easy_to_say_you_ve_thrown_it">Story 09 I mean it s easy to say you ve thrown it</a></li><li><a href="/testi/chesterton/atomized/scandal_fr_brown/story_10_the_insoluble_problem">Story 10 The Insoluble Problem</a></li><li><a href="/testi/chesterton/atomized/scandal_fr_brown/story_11_the_vampire_of_the_village">Story 11 The Vampire of the Village</a></li></ul>
+</nav>
+
+
 Title:      The Scandal of [[Father Brown]]
 Author:     G. K. Chesterton
 * A Project Gutenberg of Australia eBook *

@@ -13,6 +13,15 @@ tags:
 </nav>
 
 
+<div class="work-readability" style="border:1px solid var(--lightgray,#e5e5e5);border-radius:8px;padding:.5rem .7rem;margin:.7rem 0;font-size:.9rem"><span style="color:var(--gray,#888);text-transform:uppercase;font-size:.72rem;letter-spacing:.03em;margin-right:.4rem">Readability (prose)</span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">59.5</b> <span style="color:var(--gray,#888);font-size:.8em">Flesch ease</span></span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">10.6</b> <span style="color:var(--gray,#888);font-size:.8em">FK grade</span></span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">13.8</b> <span style="color:var(--gray,#888);font-size:.8em">Fog</span></span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">12%</b> <span style="color:var(--gray,#888);font-size:.8em">complex</span></span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">22.6</b> <span style="color:var(--gray,#888);font-size:.8em">words/sent</span></span></div>
+
+
+<nav class="excerpt-children">
+<div class="excerpt-children-label">Capitoli / Chapters</div>
+<ul><li><a href="/testi/chesterton/atomized/whats_wrong/chapter_01_the_homelessness_of_man">Chapter 01 THE HOMELESSNESS OF MAN</a></li><li><a href="/testi/chesterton/atomized/whats_wrong/chapter_02_imperialism_or_the_mistake_abo">Chapter 02 IMPERIALISM OR THE MISTAKE ABO</a></li><li><a href="/testi/chesterton/atomized/whats_wrong/chapter_03_feminism_or_the_mistake_about">Chapter 03 FEMINISM OR THE MISTAKE ABOUT</a></li><li><a href="/testi/chesterton/atomized/whats_wrong/chapter_04_the_home_home_of_man">Chapter 04 THE Home HOME OF MAN</a></li><li><a href="/testi/chesterton/atomized/whats_wrong/chapter_05">Chapter 05</a></li><li><a href="/testi/chesterton/atomized/whats_wrong/chapter_06">Chapter 06</a></li><li><a href="/testi/chesterton/atomized/whats_wrong/chapter_07">Chapter 07</a></li><li><a href="/testi/chesterton/atomized/whats_wrong/chapter_08">Chapter 08</a></li><li><a href="/testi/chesterton/atomized/whats_wrong/chapter_09">Chapter 09</a></li></ul>
+</nav>
+
+
 WHAT'S WRONG WITH THE WORLD
 
 by G.K. Chesterton

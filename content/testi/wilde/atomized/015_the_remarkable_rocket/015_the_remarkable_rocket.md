@@ -13,6 +13,10 @@ tags:
 </nav>
 
 
+<div class="work-readability" style="border:1px solid var(--lightgray,#e5e5e5);border-radius:8px;padding:.5rem .7rem;margin:.7rem 0;font-size:.9rem"><span style="color:var(--gray,#888);text-transform:uppercase;font-size:.72rem;letter-spacing:.03em;margin-right:.4rem">Readability (prose)</span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">79.9</b> <span style="color:var(--gray,#888);font-size:.8em">Flesch ease</span></span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">5.4</b> <span style="color:var(--gray,#888);font-size:.8em">FK grade</span></span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">8.2</b> <span style="color:var(--gray,#888);font-size:.8em">Fog</span></span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">7%</b> <span style="color:var(--gray,#888);font-size:.8em">complex</span></span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">13.4</b> <span style="color:var(--gray,#888);font-size:.8em">words/sent</span></span></div>
+
+
+
 The [[King]]’s son was going to be married, so there were general rejoicings. He had waited a whole year for his bride, and at last she had arrived. She was a Russian Princess, and had driven all the way from Finland in a sledge drawn by six reindeer. The sledge was shaped like a great golden swan, and between the swan’s wings lay the little Princess herself. Her long ermine cloak reached right down to  her feet, on her head was a tiny cap of silver tissue, and she was as pale as the [[Snow]] Palace in which she had always lived. So pale was she that as she drove through the streets all the people wondered. “She is like a white [[Rose|rose]]!” they cried, and they threw down [[Flowers|flowers]] on her from the balconies.
 At the gate of the [[Castle]] the Prince was waiting to receive her. He had dreamy violet eyes, and his hair was like fine gold. When he saw her he sank upon one knee, and kissed her hand.
 “Your picture was beautiful,” he murmured, “but you are more beautiful than your picture;” and the little Princess blushed.

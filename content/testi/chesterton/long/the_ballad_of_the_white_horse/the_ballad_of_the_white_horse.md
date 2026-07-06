@@ -12,6 +12,11 @@ tags:
 <div class="excerpt-crumb">Chesterton · <a href="/works/the-ballad-of-the-white-horse-(chesterton)">The Ballad of the White Horse</a></div>
 </nav>
 
+<nav class="excerpt-children">
+<div class="excerpt-children-label">Capitoli / Chapters</div>
+<ul><li><a href="/testi/chesterton/long/the_ballad_of_the_white_horse/section_00_dedication">Section 00 dedication</a></li><li><a href="/testi/chesterton/long/the_ballad_of_the_white_horse/section_01_book_i">Section 01 book i</a></li><li><a href="/testi/chesterton/long/the_ballad_of_the_white_horse/section_02_book_ii">Section 02 book ii</a></li><li><a href="/testi/chesterton/long/the_ballad_of_the_white_horse/section_03_book_iii">Section 03 book iii</a></li><li><a href="/testi/chesterton/long/the_ballad_of_the_white_horse/section_04_book_iv">Section 04 book iv</a></li><li><a href="/testi/chesterton/long/the_ballad_of_the_white_horse/section_05_book_v">Section 05 book v</a></li><li><a href="/testi/chesterton/long/the_ballad_of_the_white_horse/section_06_book_vi">Section 06 book vi</a></li><li><a href="/testi/chesterton/long/the_ballad_of_the_white_horse/section_07_book_vii">Section 07 book vii</a></li><li><a href="/testi/chesterton/long/the_ballad_of_the_white_horse/section_08_book_viii">Section 08 book viii</a></li></ul>
+</nav>
+
 
 Preface  
 This reissue of the illustrated tenth edition of The Ballad of the White [[Horse]] provides an elegant copy of Chesterton’s [[Epic|epic]] of Alfred. Robert Austin’s illustrations place the reader in [[King Alfred]]’s embattled world; the introduction and endnotes supply the historical and legendary underpinnings of the “aboriginal struggle of the Pagans and the Christians.” The uniqueness of the notes lies in excerpts from Asser’s Deeds of Alfred, in the inclusion of annals from the Anglo-Saxon Chronicle, and in criticisms and appreciations by modern scholars. Now on its eighty-second anniversary through the generosity of Kathleen Bohn, Thelma A. Haley, Janet Happy Jackson, Jean Scanlan, and Anna Marie Summerlin, a new generation of readers may ponder and savor Chesterton’s way of looking at life.  

@@ -13,6 +13,15 @@ tags:
 </nav>
 
 
+<div class="work-readability" style="border:1px solid var(--lightgray,#e5e5e5);border-radius:8px;padding:.5rem .7rem;margin:.7rem 0;font-size:.9rem"><span style="color:var(--gray,#888);text-transform:uppercase;font-size:.72rem;letter-spacing:.03em;margin-right:.4rem">Readability (prose)</span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">58.7</b> <span style="color:var(--gray,#888);font-size:.8em">Flesch ease</span></span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">12.1</b> <span style="color:var(--gray,#888);font-size:.8em">FK grade</span></span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">15.1</b> <span style="color:var(--gray,#888);font-size:.8em">Fog</span></span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">9%</b> <span style="color:var(--gray,#888);font-size:.8em">complex</span></span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">28.5</b> <span style="color:var(--gray,#888);font-size:.8em">words/sent</span></span></div>
+
+
+<nav class="excerpt-children">
+<div class="excerpt-children-label">Capitoli / Chapters</div>
+<ul><li><a href="/testi/dickens/atomized/american_notes/chapter_01">Chapter 01</a></li><li><a href="/testi/dickens/atomized/american_notes/chapter_02">Chapter 02</a></li><li><a href="/testi/dickens/atomized/american_notes/chapter_03">Chapter 03</a></li><li><a href="/testi/dickens/atomized/american_notes/chapter_04">Chapter 04</a></li><li><a href="/testi/dickens/atomized/american_notes/chapter_05">Chapter 05</a></li><li><a href="/testi/dickens/atomized/american_notes/chapter_06">Chapter 06</a></li><li><a href="/testi/dickens/atomized/american_notes/chapter_07">Chapter 07</a></li><li><a href="/testi/dickens/atomized/american_notes/chapter_08">Chapter 08</a></li><li><a href="/testi/dickens/atomized/american_notes/chapter_09">Chapter 09</a></li><li><a href="/testi/dickens/atomized/american_notes/chapter_10">Chapter 10</a></li><li><a href="/testi/dickens/atomized/american_notes/chapter_11">Chapter 11</a></li><li><a href="/testi/dickens/atomized/american_notes/chapter_12">Chapter 12</a></li><li><a href="/testi/dickens/atomized/american_notes/chapter_13">Chapter 13</a></li><li><a href="/testi/dickens/atomized/american_notes/chapter_14">Chapter 14</a></li><li><a href="/testi/dickens/atomized/american_notes/chapter_15">Chapter 15</a></li><li><a href="/testi/dickens/atomized/american_notes/chapter_16">Chapter 16</a></li><li><a href="/testi/dickens/atomized/american_notes/chapter_17">Chapter 17</a></li><li><a href="/testi/dickens/atomized/american_notes/chapter_18">Chapter 18</a></li><li><a href="/testi/dickens/atomized/american_notes/chapter_19">Chapter 19</a></li></ul>
+</nav>
+
+
 CIRCULATION***
 
 

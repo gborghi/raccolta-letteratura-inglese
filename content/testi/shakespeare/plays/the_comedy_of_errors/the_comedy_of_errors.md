@@ -12,6 +12,11 @@ tags:
 <div class="excerpt-crumb">Shakespeare · <a href="/works/the-comedy-of-errors-(shakespeare)">The Comedy of Errors</a></div>
 </nav>
 
+<nav class="excerpt-children">
+<div class="excerpt-children-label">Capitoli / Chapters</div>
+<ul><li><a href="/testi/shakespeare/plays/the_comedy_of_errors/act_1/scene_1">Scene 1</a></li><li><a href="/testi/shakespeare/plays/the_comedy_of_errors/act_1/scene_2">Scene 2</a></li><li><a href="/testi/shakespeare/plays/the_comedy_of_errors/act_2/scene_1">Scene 1</a></li><li><a href="/testi/shakespeare/plays/the_comedy_of_errors/act_2/scene_2">Scene 2</a></li><li><a href="/testi/shakespeare/plays/the_comedy_of_errors/act_3/scene_1">Scene 1</a></li><li><a href="/testi/shakespeare/plays/the_comedy_of_errors/act_3/scene_2">Scene 2</a></li><li><a href="/testi/shakespeare/plays/the_comedy_of_errors/act_4/scene_1">Scene 1</a></li><li><a href="/testi/shakespeare/plays/the_comedy_of_errors/act_4/scene_2">Scene 2</a></li><li><a href="/testi/shakespeare/plays/the_comedy_of_errors/act_4/scene_3">Scene 3</a></li><li><a href="/testi/shakespeare/plays/the_comedy_of_errors/act_4/scene_4">Scene 4</a></li><li><a href="/testi/shakespeare/plays/the_comedy_of_errors/act_5/scene_1">Scene 1</a></li></ul>
+</nav>
+
 
 THE [[Comedy|COMEDY]] OF ERRORS
 ON the [[Night|night]] of 28 December 1594, the Christmas revels at Gray’s Inn—one of [[London]]’s law schools—became so uproarious that one performance planned for the occasion had to be abandoned. Eventually ‘it was thought good not to offer anything of account saving dancing and revelling with gentlewomen; and after such sports a [[Comedy|comedy]] of errors (like to Plautus his Menaechmus) was played by the players. So that [[Night|night]] was begun, and continued to the end, in nothing but confusion and errors; whereupon it was ever afterwards called “The [[Night]] of Errors”.’

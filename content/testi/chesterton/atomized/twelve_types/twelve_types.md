@@ -13,6 +13,15 @@ tags:
 </nav>
 
 
+<div class="work-readability" style="border:1px solid var(--lightgray,#e5e5e5);border-radius:8px;padding:.5rem .7rem;margin:.7rem 0;font-size:.9rem"><span style="color:var(--gray,#888);text-transform:uppercase;font-size:.72rem;letter-spacing:.03em;margin-right:.4rem">Readability (prose)</span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">55.1</b> <span style="color:var(--gray,#888);font-size:.8em">Flesch ease</span></span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">11.4</b> <span style="color:var(--gray,#888);font-size:.8em">FK grade</span></span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">14.8</b> <span style="color:var(--gray,#888);font-size:.8em">Fog</span></span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">13%</b> <span style="color:var(--gray,#888);font-size:.8em">complex</span></span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">23.5</b> <span style="color:var(--gray,#888);font-size:.8em">words/sent</span></span></div>
+
+
+<nav class="excerpt-children">
+<div class="excerpt-children-label">Capitoli / Chapters</div>
+<ul><li><a href="/testi/chesterton/atomized/twelve_types/story_01_charlotte_bronte">Story 01 CHARLOTTE BRONTE</a></li><li><a href="/testi/chesterton/atomized/twelve_types/story_02_william_morris_and_his_school">Story 02 WILLIAM MORRIS AND HIS SCHOOL</a></li><li><a href="/testi/chesterton/atomized/twelve_types/story_03_the_optimism_of_byron">Story 03 THE OPTIMISM OF BYRON</a></li><li><a href="/testi/chesterton/atomized/twelve_types/story_04_pope_and_the_art_of_satire_satire">Story 04 POPE AND THE ART OF Satire SATIRE</a></li><li><a href="/testi/chesterton/atomized/twelve_types/story_05_francis">Story 05 FRANCIS</a></li><li><a href="/testi/chesterton/atomized/twelve_types/story_06_rostand">Story 06 ROSTAND</a></li><li><a href="/testi/chesterton/atomized/twelve_types/story_07_charles_ii">Story 07 CHARLES II</a></li><li><a href="/testi/chesterton/atomized/twelve_types/story_08_thomas_carlyle">Story 08 THOMAS CARLYLE</a></li><li><a href="/testi/chesterton/atomized/twelve_types/story_09_tolstoy_tolstoy_and_the_cult_of_simplici">Story 09 tolstoy TOLSTOY AND THE CULT OF SIMPLICI</a></li><li><a href="/testi/chesterton/atomized/twelve_types/story_10_savonarola">Story 10 SAVONAROLA</a></li><li><a href="/testi/chesterton/atomized/twelve_types/story_11_the_position_of_sir_walter_scott">Story 11 THE POSITION OF SIR WALTER SCOTT</a></li></ul>
+</nav>
+
+
 The Project Gutenberg EBook of Twelve Types, by G.K. Chesterton
 
 This eBook is for the use of anyone anywhere at no cost and with

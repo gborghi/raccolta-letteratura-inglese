@@ -12,7 +12,7 @@ tags:
 
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/man-orthodox-(chesterton)">Man Orthodox</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/man_orthodox/story_31_the_spring_in_the_soul">‹ Story 31 The Spring In The Soul</a><a class="ex-next" href="/testi/chesterton/atomized/man_orthodox/story_33_humour_and_gravity">Story 33 Humour And Gravity ›</a></div>
+<div class="excerpt-pn"><span></span><a class="ex-next" href="/testi/chesterton/atomized/man_orthodox/story_33_humour_and_gravity">Story 33 Humour And Gravity ›</a></div>
 </nav>
 
 

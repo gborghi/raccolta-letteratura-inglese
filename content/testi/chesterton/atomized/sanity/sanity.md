@@ -13,6 +13,15 @@ tags:
 </nav>
 
 
+<div class="work-readability" style="border:1px solid var(--lightgray,#e5e5e5);border-radius:8px;padding:.5rem .7rem;margin:.7rem 0;font-size:.9rem"><span style="color:var(--gray,#888);text-transform:uppercase;font-size:.72rem;letter-spacing:.03em;margin-right:.4rem">Readability (prose)</span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">57.9</b> <span style="color:var(--gray,#888);font-size:.8em">Flesch ease</span></span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">11.4</b> <span style="color:var(--gray,#888);font-size:.8em">FK grade</span></span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">14.8</b> <span style="color:var(--gray,#888);font-size:.8em">Fog</span></span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">12%</b> <span style="color:var(--gray,#888);font-size:.8em">complex</span></span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">24.9</b> <span style="color:var(--gray,#888);font-size:.8em">words/sent</span></span></div>
+
+
+<nav class="excerpt-children">
+<div class="excerpt-children-label">Capitoli / Chapters</div>
+<ul><li><a href="/testi/chesterton/atomized/sanity/story_03_on_a_sense_of_proportion">Story 03 ON A SENSE OF PROPORTION</a></li><li><a href="/testi/chesterton/atomized/sanity/story_05_a_misunderstanding_about_method">Story 05 A MISUNDERSTANDING ABOUT METHOD</a></li><li><a href="/testi/chesterton/atomized/sanity/story_06_some_aspects_of_the_land">Story 06 SOME ASPECTS OF THE LAND</a></li><li><a href="/testi/chesterton/atomized/sanity/story_07_the_simple_truth_truth">Story 07 THE SIMPLE Truth TRUTH</a></li><li><a href="/testi/chesterton/atomized/sanity/story_08_vows_and_volunteers">Story 08 VOWS AND VOLUNTEERS</a></li><li><a href="/testi/chesterton/atomized/sanity/story_09_the_real_life_on_the_land">Story 09 THE REAL LIFE ON THE LAND</a></li><li><a href="/testi/chesterton/atomized/sanity/story_10_some_aspects_of_machinery">Story 10 SOME ASPECTS OF MACHINERY</a></li><li><a href="/testi/chesterton/atomized/sanity/story_11_the_wheel_wheel_of_fate">Story 11 THE Wheel WHEEL OF FATE</a></li><li><a href="/testi/chesterton/atomized/sanity/story_12_the_romance_romance_of_machinery">Story 12 THE Romance ROMANCE OF MACHINERY</a></li><li><a href="/testi/chesterton/atomized/sanity/story_13_the_holiday_of_the_slave">Story 13 THE HOLIDAY OF THE SLAVE</a></li><li><a href="/testi/chesterton/atomized/sanity/story_14_the_free_man_and_the_ford_car">Story 14 THE FREE MAN AND THE FORD CAR</a></li><li><a href="/testi/chesterton/atomized/sanity/story_16_the_religion_of_small_property">Story 16 THE RELIGION OF SMALL PROPERTY</a></li><li><a href="/testi/chesterton/atomized/sanity/story_17_a_summary">Story 17 A SUMMARY</a></li></ul>
+</nav>
+
+
 G. K. CHESTERTON
 
 THE OUTLINE OF [[Sanity|SANITY]]

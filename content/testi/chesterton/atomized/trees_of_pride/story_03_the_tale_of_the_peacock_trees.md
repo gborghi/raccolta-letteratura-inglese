@@ -10,7 +10,7 @@ tags:
 
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/trees-of-pride-(chesterton)">The Trees of Pride</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/trees_of_pride/story_02_the_mystery_of_the_well_well">‹ Story 02 THE MYSTERY OF THE Well WELL</a><a class="ex-next" href="/testi/chesterton/atomized/trees_of_pride/story_04_the_wager_of_squire_vane">Story 04 THE WAGER OF SQUIRE VANE ›</a></div>
+<div class="excerpt-pn"><span></span><a class="ex-next" href="/testi/chesterton/atomized/trees_of_pride/story_04_the_wager_of_squire_vane">Story 04 THE WAGER OF SQUIRE VANE ›</a></div>
 </nav>
 <nav class="excerpt-children">
 <div class="excerpt-children-label">In questa sezione</div>

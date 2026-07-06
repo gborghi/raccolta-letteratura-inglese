@@ -12,6 +12,15 @@ tags:
 <div class="excerpt-crumb">Chesterton · <a href="/works/ortho14-(chesterton)">Orthodoxy</a></div>
 </nav>
 
+
+<div class="work-readability" style="border:1px solid var(--lightgray,#e5e5e5);border-radius:8px;padding:.5rem .7rem;margin:.7rem 0;font-size:.9rem"><span style="color:var(--gray,#888);text-transform:uppercase;font-size:.72rem;letter-spacing:.03em;margin-right:.4rem">Readability (prose)</span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">64.1</b> <span style="color:var(--gray,#888);font-size:.8em">Flesch ease</span></span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">9.2</b> <span style="color:var(--gray,#888);font-size:.8em">FK grade</span></span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">12.5</b> <span style="color:var(--gray,#888);font-size:.8em">Fog</span></span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">11%</b> <span style="color:var(--gray,#888);font-size:.8em">complex</span></span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">19.8</b> <span style="color:var(--gray,#888);font-size:.8em">words/sent</span></span></div>
+
+
+<nav class="excerpt-children">
+<div class="excerpt-children-label">Capitoli / Chapters</div>
+<ul><li><a href="/testi/chesterton/atomized/ortho14/story_02_preface">Story 02 Preface</a></li><li><a href="/testi/chesterton/atomized/ortho14/story_03_orthodoxy">Story 03 Orthodoxy</a></li><li><a href="/testi/chesterton/atomized/ortho14/story_04_ii_the_maniac">Story 04 Ii The Maniac</a></li><li><a href="/testi/chesterton/atomized/ortho14/story_05_iii_the_suicide_of_thought">Story 05 Iii The Suicide Of Thought</a></li><li><a href="/testi/chesterton/atomized/ortho14/story_06_iv_the_ethics_of_elfland">Story 06 Iv The Ethics Of Elfland</a></li><li><a href="/testi/chesterton/atomized/ortho14/story_07_vii_the_eternal_revolution">Story 07 Vii The Eternal Revolution</a></li><li><a href="/testi/chesterton/atomized/ortho14/story_08_ix_authority_and_the_adventurer">Story 08 Ix Authority And The Adventurer</a></li></ul>
+</nav>
+
 # [[ortho14]]
 
 ORTHODOXY

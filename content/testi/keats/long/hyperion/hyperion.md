@@ -12,6 +12,11 @@ tags:
 <div class="excerpt-crumb">Keats · <a href="/works/hyperion-(keats)">Hyperion</a></div>
 </nav>
 
+<nav class="excerpt-children">
+<div class="excerpt-children-label">Capitoli / Chapters</div>
+<ul><li><a href="/testi/keats/long/hyperion/section_01_book_i">Section 01 book i</a></li><li><a href="/testi/keats/long/hyperion/section_02_book_ii">Section 02 book ii</a></li><li><a href="/testi/keats/long/hyperion/section_03_book_iii">Section 03 book iii</a></li></ul>
+</nav>
+
 
 ## [[Hyperion|HYPERION]] BOOK I
 

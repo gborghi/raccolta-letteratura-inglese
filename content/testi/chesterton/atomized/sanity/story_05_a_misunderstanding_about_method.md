@@ -10,7 +10,7 @@ tags:
 
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/sanity-(chesterton)">Sanity</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/sanity/story_04_some_aspects_of_big_business">‹ Story 04 SOME ASPECTS OF BIG BUSINESS</a><a class="ex-next" href="/testi/chesterton/atomized/sanity/story_06_some_aspects_of_the_land">Story 06 SOME ASPECTS OF THE LAND ›</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/sanity/story_03_on_a_sense_of_proportion">‹ Story 03 ON A SENSE OF PROPORTION</a><a class="ex-next" href="/testi/chesterton/atomized/sanity/story_06_some_aspects_of_the_land">Story 06 SOME ASPECTS OF THE LAND ›</a></div>
 </nav>
 <nav class="excerpt-children">
 <div class="excerpt-children-label">In questa sezione</div>

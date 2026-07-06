@@ -11,6 +11,11 @@ tags:
 <div class="excerpt-crumb">Eliot · Ash-Wednesday</div>
 </nav>
 
+<nav class="excerpt-children">
+<div class="excerpt-children-label">Capitoli / Chapters</div>
+<ul><li><a href="/testi/eliot/long/ash-wednesday/section_01_i">Section 01 i</a></li><li><a href="/testi/eliot/long/ash-wednesday/section_02_ii">Section 02 ii</a></li><li><a href="/testi/eliot/long/ash-wednesday/section_03_iii">Section 03 iii</a></li><li><a href="/testi/eliot/long/ash-wednesday/section_04_iv">Section 04 iv</a></li><li><a href="/testi/eliot/long/ash-wednesday/section_05_v">Section 05 v</a></li><li><a href="/testi/eliot/long/ash-wednesday/section_06_vi">Section 06 vi</a></li></ul>
+</nav>
+
 
 ## I
 

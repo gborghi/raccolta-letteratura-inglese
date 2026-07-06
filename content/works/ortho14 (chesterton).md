@@ -53,7 +53,6 @@ tags:
 
 ## Capitoli / Chapters
 
-- [Orthodoxy](/testi/chesterton/atomized/ortho14/story_01_orthodoxy)
 - [Preface](/testi/chesterton/atomized/ortho14/story_02_preface)
 - [Orthodoxy](/testi/chesterton/atomized/ortho14/story_03_orthodoxy)
 - [Ii The Maniac](/testi/chesterton/atomized/ortho14/story_04_ii_the_maniac)

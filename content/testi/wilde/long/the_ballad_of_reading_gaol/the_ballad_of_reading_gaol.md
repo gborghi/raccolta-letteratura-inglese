@@ -12,6 +12,11 @@ tags:
 <div class="excerpt-crumb">Wilde · <a href="/works/the-ballad-of-reading-gaol-(wilde)">The Ballad of Reading Gaol</a></div>
 </nav>
 
+<nav class="excerpt-children">
+<div class="excerpt-children-label">Capitoli / Chapters</div>
+<ul><li><a href="/testi/wilde/long/the_ballad_of_reading_gaol/section_01_part_i">Section 01 part i</a></li><li><a href="/testi/wilde/long/the_ballad_of_reading_gaol/section_02_part_ii">Section 02 part ii</a></li><li><a href="/testi/wilde/long/the_ballad_of_reading_gaol/section_03_part_iii">Section 03 part iii</a></li><li><a href="/testi/wilde/long/the_ballad_of_reading_gaol/section_04_part_iv">Section 04 part iv</a></li><li><a href="/testi/wilde/long/the_ballad_of_reading_gaol/section_05_part_v">Section 05 part v</a></li><li><a href="/testi/wilde/long/the_ballad_of_reading_gaol/section_06_part_vi">Section 06 part vi</a></li></ul>
+</nav>
+
 
 In memoriam of C. T. W.  
 Sometimes trooper of  
