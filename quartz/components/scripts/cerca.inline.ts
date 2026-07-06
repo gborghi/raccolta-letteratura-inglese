@@ -3,7 +3,7 @@
 // Theme/Concept, Form, Historical Reference, Setting, Character), rendering
 // matches into a sortable, paginated table. Two match modes:
 //   ANY (default): OR within a facet group, AND across groups (faceted search)
-//   ALL: strict AND — a work must carry every selected tag.
+//   ANYTAG: pure OR — a work matches if it carries any selected tag (OR within, OR across).
 
 interface Work {
   href: string
@@ -88,9 +88,9 @@ async function init() {
 
   // selected tags as "facetKey::value"
   const selected = new Set<string>()
-  // ANY = OR within a facet group, AND across groups (faceted default).
-  // ALL = strict AND across every selected tag regardless of group.
-  let mode: "ANY" | "ALL" = "ANY"
+  // ANY    = OR within a facet group, AND across groups (faceted default).
+  // ANYTAG = pure OR: a work matches if it carries any selected tag (OR within, OR across).
+  let mode: "ANY" | "ANYTAG" = "ANY"
 
   // Deep-link: the home author cards stash an "author::Name" token in
   // sessionStorage (Quartz mangles query/hash params in hrefs, so JS is used).
@@ -132,13 +132,13 @@ async function init() {
 
   function matches(w: Work): boolean {
     if (selected.size === 0) return false
-    if (mode === "ALL") {
-      // Strict AND: the work must carry EVERY selected tag.
+    if (mode === "ANYTAG") {
+      // Pure OR: the work matches if it carries ANY selected tag (OR within AND across groups).
       for (const token of selected) {
         const idx = token.indexOf("::")
-        if (!hasValue(w, token.slice(0, idx), token.slice(idx + 2))) return false
+        if (hasValue(w, token.slice(0, idx), token.slice(idx + 2))) return true
       }
-      return true
+      return false
     }
     // ANY: group the selected tokens by facet, OR within a group and AND across
     // groups — a work must hit at least one selected value in EVERY facet that
@@ -268,11 +268,11 @@ async function init() {
     toggle.textContent =
       mode === "ANY"
         ? "Match: ANY in group (OR within a group, AND across groups)"
-        : "Match: ALL selected tags"
-    toggle.setAttribute("aria-pressed", String(mode === "ALL"))
+        : "Match: ANY selected tag (OR within, OR across)"
+    toggle.setAttribute("aria-pressed", String(mode === "ANYTAG"))
   }
   toggle.addEventListener("click", () => {
-    mode = mode === "ANY" ? "ALL" : "ANY"
+    mode = mode === "ANY" ? "ANYTAG" : "ANY"
     syncToggle()
     page = 1
     render()
